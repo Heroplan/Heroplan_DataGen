@@ -17,6 +17,7 @@ window.allHeroes =
         "source": "S1 - Classic",
         "Release date": "2017-03-01",
         "specialId": "fierce_slash",
+        "heroId": "nordic_warrior",
         "star": 1,
         "power": 210,
         "attack": 177,
@@ -27,7 +28,6 @@ window.allHeroes =
         ],
         "passives": [],
         "family": null,
-        "image": "https://i.imgur.com/OSHdYXE.jpg",
         "costume_id": 0,
         "originalIndex": 0,
         "cn_skill_info": []
@@ -49,6 +49,7 @@ window.allHeroes =
         "source": "S1 - Classic",
         "Release date": "2017-03-01",
         "specialId": "hacking_attack",
+        "heroId": "nordic_female_scout",
         "star": 1,
         "power": 210,
         "attack": 183,
@@ -59,7 +60,6 @@ window.allHeroes =
         ],
         "passives": [],
         "family": null,
-        "image": "https://i.imgur.com/yx3yL1e.jpg",
         "costume_id": 0,
         "originalIndex": 1,
         "cn_skill_info": []
@@ -81,6 +81,7 @@ window.allHeroes =
         "source": "S1 - Classic",
         "Release date": "2017-03-01",
         "specialId": "defensive_tactics",
+        "heroId": "royal_pikeman",
         "star": 2,
         "power": 332,
         "attack": 283,
@@ -91,7 +92,6 @@ window.allHeroes =
         ],
         "passives": [],
         "family": null,
-        "image": "https://i.imgur.com/PR4Dyht.jpg",
         "costume_id": 0,
         "originalIndex": 2,
         "cn_skill_info": []
@@ -113,6 +113,7 @@ window.allHeroes =
         "source": "S1 - Classic",
         "Release date": "2017-03-01",
         "specialId": "fierce_slash",
+        "heroId": "nordic_female_warrior",
         "star": 2,
         "power": 334,
         "attack": 369,
@@ -123,7 +124,6 @@ window.allHeroes =
         ],
         "passives": [],
         "family": null,
-        "image": "https://i.imgur.com/safl82B.jpg",
         "costume_id": 0,
         "originalIndex": 3,
         "cn_skill_info": []
@@ -145,6 +145,7 @@ window.allHeroes =
         "source": "S1 - Classic",
         "Release date": "2017-03-01",
         "specialId": "attack_rally",
+        "heroId": "dwarven_scout",
         "star": 2,
         "power": 333,
         "attack": 310,
@@ -155,7 +156,6 @@ window.allHeroes =
         ],
         "passives": [],
         "family": null,
-        "image": "https://i.imgur.com/IzIi9fO.jpg",
         "costume_id": 0,
         "originalIndex": 4,
         "cn_skill_info": []
@@ -182,6 +182,7 @@ window.allHeroes =
         "source": "Tower - Magic",
         "Release date": "2025-04-17",
         "specialId": "sewing_back_together",
+        "heroId": "magic_carpet_bertha",
         "star": 3,
         "power": 509,
         "attack": 547,
@@ -200,7 +201,6 @@ window.allHeroes =
             "Weaker Mega Minions: Enemy Mega Minions have -75% HP."
         ],
         "family": "magiccarpet",
-        "image": "https://imgur.com/qorWERP.jpg",
         "costume_id": 0,
         "originalIndex": 5,
         "lb1": {
@@ -247,6 +247,7 @@ window.allHeroes =
         "source": "Monthly Event - Springvale",
         "Release date": "2020-04-06",
         "specialId": "compact_lance",
+        "heroId": "easter_chick_jr",
         "star": 3,
         "power": 462,
         "attack": 523,
@@ -258,7 +259,6 @@ window.allHeroes =
         ],
         "passives": [],
         "family": "springvale",
-        "image": "https://i.imgur.com/3LZJ0cl.jpg",
         "costume_id": 0,
         "originalIndex": 6,
         "lb1": {
@@ -310,6 +310,7 @@ window.allHeroes =
         "source": "Monster Island Summon",
         "Release date": "2022-08-25",
         "specialId": "hunting_ballad",
+        "heroId": "monster_hunter_dawn",
         "star": 3,
         "power": 484,
         "attack": 451,
@@ -326,7 +327,6 @@ window.allHeroes =
             "Status effect on Special: When this character casts their Special Skill, they give a Hunter’s Mark on a random enemy. The target receives 150 damage over 3 turns. If a target already has this effect, the duration will be refreshed and the damage will be increased by 150, up to 1500 damage in total."
         ],
         "family": "plainshunter",
-        "image": "https://i.imgur.com/yP9tWF8.jpg",
         "costume_id": 0,
         "originalIndex": 7,
         "lb1": {
@@ -379,6 +379,7 @@ window.allHeroes =
         "source": "Monthly Event - Winter",
         "Release date": "2020-12-01",
         "specialId": "northern_wanderer",
+        "heroId": "christmas_frosty",
         "star": 3,
         "power": 475,
         "attack": 441,
@@ -390,7 +391,6 @@ window.allHeroes =
         ],
         "passives": [],
         "family": "christmas",
-        "image": "https://i.imgur.com/33YbQ2h.jpg",
         "costume_id": 0,
         "originalIndex": 8,
         "lb1": {
@@ -437,6 +437,7 @@ window.allHeroes =
         "source": "S2 - Atlantis",
         "Release date": "2019-08-22",
         "specialId": "jungle_slash",
+        "heroId": "s2_croc_man",
         "star": 3,
         "power": 447,
         "attack": 516,
@@ -448,7 +449,6 @@ window.allHeroes =
         ],
         "passives": [],
         "family": "lagoon",
-        "image": "https://i.imgur.com/4RQUIxe.jpg",
         "costume_id": 0,
         "originalIndex": 9,
         "lb1": {
@@ -495,6 +495,7 @@ window.allHeroes =
         "source": "S1 - Classic",
         "Release date": "2017-03-01",
         "specialId": "wolf_bite",
+        "heroId": "nordic_chained_werewolf",
         "star": 3,
         "power": 441,
         "attack": 467,
@@ -506,7 +507,6 @@ window.allHeroes =
         ],
         "passives": [],
         "family": "classic",
-        "image": "https://i.imgur.com/QFfHzlB.jpg",
         "costume_id": 0,
         "originalIndex": 10,
         "lb1": {
@@ -555,6 +555,7 @@ window.allHeroes =
         "source": "Costume Quest",
         "Release date": "2021-01-18",
         "specialId": "wolf_bite",
+        "heroId": "nordic_chained_werewolf_costume_raccoon",
         "star": 3,
         "power": 470,
         "attack": 466,
@@ -567,7 +568,6 @@ window.allHeroes =
         ],
         "passives": [],
         "family": "classic",
-        "image": "https://i.imgur.com/zH4VZaJ.jpg",
         "costume_id": 1,
         "originalIndex": 11,
         "lb1": {
@@ -616,6 +616,7 @@ window.allHeroes =
         "source": "Costume Quest",
         "Release date": "2024-04-08",
         "specialId": "wolf_bite",
+        "heroId": "nordic_chained_werewolf_costume_cute",
         "star": 3,
         "power": 504,
         "attack": 558,
@@ -630,7 +631,6 @@ window.allHeroes =
             "Toon: 75% extra chance to resist all status ailments, mana reductions and buff dispels."
         ],
         "family": "classic",
-        "image": "https://i.imgur.com/Qf69vSG.jpg",
         "costume_id": 2,
         "originalIndex": 12,
         "lb1": {
@@ -680,6 +680,7 @@ window.allHeroes =
         "source": "Costume Quest",
         "Release date": "2025-06-18",
         "specialId": "wolf_bite",
+        "heroId": "nordic_chained_werewolf_costume_glass",
         "star": 3,
         "power": 513,
         "attack": 532,
@@ -694,7 +695,6 @@ window.allHeroes =
             "Glass: 60% extra chance to reflect status ailments back to the attacker."
         ],
         "family": "classic",
-        "image": "https://imgur.com/B6cM6Ze.jpg",
         "costume_id": 3,
         "originalIndex": 13,
         "lb1": {
@@ -741,6 +741,7 @@ window.allHeroes =
         "source": "Challenge Festival I",
         "Release date": "2021-12-15",
         "specialId": "guardian_armor",
+        "heroId": "guardian_lemur",
         "star": 3,
         "power": 481,
         "attack": 455,
@@ -752,7 +753,6 @@ window.allHeroes =
         ],
         "passives": [],
         "family": "guardiansteltoc",
-        "image": "https://i.imgur.com/XPlmtwO.jpg",
         "costume_id": 0,
         "originalIndex": 14,
         "lb1": {
@@ -799,6 +799,7 @@ window.allHeroes =
         "source": "S1 - Classic",
         "Release date": "2017-03-01",
         "specialId": "stone_skin",
+        "heroId": "royal_knight",
         "star": 3,
         "power": 441,
         "attack": 387,
@@ -810,7 +811,6 @@ window.allHeroes =
         ],
         "passives": [],
         "family": "classic",
-        "image": "https://i.imgur.com/ra4Iv0M.jpg",
         "costume_id": 0,
         "originalIndex": 15,
         "lb1": {
@@ -853,6 +853,7 @@ window.allHeroes =
         "source": "Costume Quest",
         "Release date": "2020-01-01",
         "specialId": "stone_skin",
+        "heroId": "royal_knight_costume_blacksmith",
         "star": 3,
         "power": 470,
         "attack": 423,
@@ -864,7 +865,6 @@ window.allHeroes =
         ],
         "passives": [],
         "family": "classic",
-        "image": "https://i.imgur.com/MxDScRN.jpg",
         "costume_id": 1,
         "originalIndex": 16,
         "lb1": {
@@ -911,6 +911,7 @@ window.allHeroes =
         "source": "Costume Quest",
         "Release date": "2024-09-08",
         "specialId": "stone_skin",
+        "heroId": "royal_knight_costume_cute",
         "star": 3,
         "power": 503,
         "attack": 499,
@@ -924,7 +925,6 @@ window.allHeroes =
             "Toon: 75% extra chance to resist all status ailments, mana reductions and buff dispels."
         ],
         "family": "classic",
-        "image": "https://i.imgur.com/F5oS2LZ.jpg",
         "costume_id": 2,
         "originalIndex": 17,
         "lb1": {
@@ -967,6 +967,7 @@ window.allHeroes =
         "source": "S4 - Wilderness",
         "Release date": "2021-03-25",
         "specialId": "healthiest_catch",
+        "heroId": "s4_helo",
         "star": 3,
         "power": 478,
         "attack": 457,
@@ -980,7 +981,6 @@ window.allHeroes =
             "Increase Buff Duration: Duration of the first 3 buff this hero receives  from Special Skills is increased by 1 turn."
         ],
         "family": "underwild",
-        "image": "https://i.imgur.com/e1OFOms.jpg",
         "costume_id": 0,
         "originalIndex": 18,
         "lb1": {
@@ -1027,6 +1027,7 @@ window.allHeroes =
         "source": "S4 - Wilderness",
         "Release date": "2023-12-07",
         "specialId": "healthiest_catch",
+        "heroId": "s4_helo_costume_baker",
         "star": 3,
         "power": 488,
         "attack": 466,
@@ -1040,7 +1041,6 @@ window.allHeroes =
             "Increase Buff Duration: Duration of the first 3 buff this hero receives  from Special Skills is increased by 1 turn."
         ],
         "family": "underwild",
-        "image": "https://i.imgur.com/c9F3Wjn.jpg",
         "costume_id": 1,
         "originalIndex": 19,
         "lb1": {
@@ -1087,6 +1087,7 @@ window.allHeroes =
         "source": "S5 - Dune",
         "Release date": "2022-04-21",
         "specialId": "disabling_decree",
+        "heroId": "s5_jarif",
         "star": 3,
         "power": 483,
         "attack": 507,
@@ -1102,7 +1103,6 @@ window.allHeroes =
             " * All enemies get -24% mana generation for 3 turns."
         ],
         "family": "moon",
-        "image": "https://i.imgur.com/ntCu0sS.jpg",
         "costume_id": 0,
         "originalIndex": 20,
         "lb1": {
@@ -1149,6 +1149,7 @@ window.allHeroes =
         "source": "S5 - Dune",
         "Release date": "2025-03-17",
         "specialId": "disabling_decree",
+        "heroId": "s5_jarif_costume_curator",
         "star": 3,
         "power": 495,
         "attack": 550,
@@ -1166,7 +1167,6 @@ window.allHeroes =
             "Resist Sand Damage: This character has innate resistance against sand damage."
         ],
         "family": "moon",
-        "image": "https://i.imgur.com/o4H256x.jpg",
         "costume_id": 1,
         "originalIndex": 21,
         "lb1": {
@@ -1214,6 +1214,7 @@ window.allHeroes =
         "source": "S3 - Valhalla",
         "Release date": "2020-05-28",
         "specialId": "jab_and_hook",
+        "heroId": "s3_jarvur",
         "star": 3,
         "power": 466,
         "attack": 500,
@@ -1225,7 +1226,6 @@ window.allHeroes =
         ],
         "passives": [],
         "family": "svartalfheim",
-        "image": "https://i.imgur.com/eZV4meS.jpg",
         "costume_id": 0,
         "originalIndex": 22,
         "lb1": {
@@ -1274,6 +1274,7 @@ window.allHeroes =
         "source": "Monthly Event - Kalevala",
         "Release date": "2022-06-20",
         "specialId": "arrows_of_fury",
+        "heroId": "kalevala_joukahainen",
         "star": 3,
         "power": 482,
         "attack": 465,
@@ -1288,7 +1289,6 @@ window.allHeroes =
             "Power of Sisu: When this character starts a turn with low health for the first time during a battle, they recover 15% health and receive 15% mana."
         ],
         "family": "kalevala",
-        "image": "https://i.imgur.com/MfQu0Jd.jpg",
         "costume_id": 0,
         "originalIndex": 23,
         "lb1": {
@@ -1342,6 +1342,7 @@ window.allHeroes =
         "source": "Monthly Event - Kalevala",
         "Release date": "2025-07-28",
         "specialId": "arrows_of_fury",
+        "heroId": "kalevala_joukahainen_costume_frozen",
         "star": 3,
         "power": 499,
         "attack": 484,
@@ -1356,7 +1357,6 @@ window.allHeroes =
             "Power of Sisu: When this character starts a turn with low health for the first time during a battle, they recover 15% health and receive 15% mana."
         ],
         "family": "kalevala",
-        "image": "https://imgur.com/xrbGPND.jpg",
         "costume_id": 1,
         "originalIndex": 24,
         "lb1": {
@@ -1406,6 +1406,7 @@ window.allHeroes =
         "source": "S1 - Classic",
         "Release date": "2017-03-01",
         "specialId": "ramming_rush",
+        "heroId": "dwarven_smasher",
         "star": 3,
         "power": 442,
         "attack": 484,
@@ -1416,7 +1417,6 @@ window.allHeroes =
         ],
         "passives": [],
         "family": "classic",
-        "image": "https://i.imgur.com/Upbhrq6.jpg",
         "costume_id": 0,
         "originalIndex": 25,
         "lb1": {
@@ -1458,6 +1458,7 @@ window.allHeroes =
         "source": "Costume Quest",
         "Release date": "2020-05-18",
         "specialId": "ramming_rush",
+        "heroId": "dwarven_smasher_costume_smith",
         "star": 3,
         "power": 472,
         "attack": 537,
@@ -1469,7 +1470,6 @@ window.allHeroes =
         ],
         "passives": [],
         "family": "classic",
-        "image": "https://i.imgur.com/g4KxM6b.jpg",
         "costume_id": 1,
         "originalIndex": 26,
         "lb1": {
@@ -1516,6 +1516,7 @@ window.allHeroes =
         "source": "Costume Quest",
         "Release date": "2024-06-28",
         "specialId": "ramming_rush",
+        "heroId": "dwarven_smasher_costume_cute",
         "star": 3,
         "power": 505,
         "attack": 580,
@@ -1529,7 +1530,6 @@ window.allHeroes =
             "Toon: 75% extra chance to resist all status ailments, mana reductions and buff dispels."
         ],
         "family": "classic",
-        "image": "https://i.imgur.com/BviOX1i.jpg",
         "costume_id": 2,
         "originalIndex": 27,
         "lb1": {
@@ -1576,6 +1576,7 @@ window.allHeroes =
         "source": "S3 - Valhalla",
         "Release date": "2020-02-27",
         "specialId": "frosty_axes",
+        "heroId": "s3_nordri",
         "star": 3,
         "power": 464,
         "attack": 488,
@@ -1587,7 +1588,6 @@ window.allHeroes =
         ],
         "passives": [],
         "family": "jotunheim",
-        "image": "https://i.imgur.com/35qzhpx.jpg",
         "costume_id": 0,
         "originalIndex": 28,
         "lb1": {
@@ -1634,6 +1634,7 @@ window.allHeroes =
         "source": "S3 - Valhalla",
         "Release date": "2023-04-10",
         "specialId": "frosty_axes",
+        "heroId": "s3_nordri_costume_explorer",
         "star": 3,
         "power": 479,
         "attack": 477,
@@ -1645,7 +1646,6 @@ window.allHeroes =
         ],
         "passives": [],
         "family": "jotunheim",
-        "image": "https://i.imgur.com/rQEdas3.jpg",
         "costume_id": 1,
         "originalIndex": 29,
         "lb1": {
@@ -1694,6 +1694,7 @@ window.allHeroes =
         "source": "Alliance - Musketeers",
         "Release date": "2023-03-08",
         "specialId": "piercing_practice_slash",
+        "heroId": "musketeer_planchet",
         "star": 3,
         "power": 486,
         "attack": 517,
@@ -1708,7 +1709,6 @@ window.allHeroes =
             "Damage on Special Skill and Cover Damage: When this character receives damage from Special Skills or in place of a character in Cover, there’s a 60% chance to deal 20% of the received damage on all enemies."
         ],
         "family": "musketeer",
-        "image": "https://i.imgur.com/Hw45iGe.jpg",
         "costume_id": 0,
         "originalIndex": 30,
         "lb1": {
@@ -1756,6 +1756,7 @@ window.allHeroes =
         "source": "Challenge - Gargoyle",
         "Release date": "2022-05-12",
         "specialId": "faithful_force",
+        "heroId": "gargoyle_soroca",
         "star": 3,
         "power": 482,
         "attack": 512,
@@ -1769,7 +1770,6 @@ window.allHeroes =
             "Gargoyle’s Stoneskin: Every time this Gargoyle casts a Special Skill, their Stoneskin hardens. The next 4 times they receive damage, it is dropped to 1. This effect can’t be dispelled."
         ],
         "family": "gargoyle",
-        "image": "https://i.imgur.com/m9CtBNT.jpg",
         "costume_id": 0,
         "originalIndex": 31,
         "lb1": {
@@ -1822,6 +1822,7 @@ window.allHeroes =
         "source": "Challenge - Secrets of the Opera",
         "Release date": "2024-01-25",
         "specialId": "dance_of_the_little_swan",
+        "heroId": "ballerina_swan_maiden",
         "star": 3,
         "power": 514,
         "attack": 521,
@@ -1842,7 +1843,6 @@ window.allHeroes =
             "Resist Defense Ailments: This character has innate resistance against status ailments that affect defense. Doesn’t apply to status ailments that affect elemental defense."
         ],
         "family": "opera",
-        "image": "https://i.imgur.com/2eJk70W.jpg",
         "costume_id": 0,
         "originalIndex": 32,
         "lb1": {
@@ -1890,6 +1890,7 @@ window.allHeroes =
         "source": "S1 - Classic",
         "Release date": "2017-03-01",
         "specialId": "cold_blast",
+        "heroId": "nordic_mage",
         "star": 3,
         "power": 445,
         "attack": 528,
@@ -1901,7 +1902,6 @@ window.allHeroes =
         ],
         "passives": [],
         "family": "classic",
-        "image": "https://i.imgur.com/8fr1xWV.jpg",
         "costume_id": 0,
         "originalIndex": 33,
         "lb1": {
@@ -1948,6 +1948,7 @@ window.allHeroes =
         "source": "Costume Quest",
         "Release date": "2021-01-18",
         "specialId": "cold_blast",
+        "heroId": "nordic_mage_costume_hermit",
         "star": 3,
         "power": 474,
         "attack": 532,
@@ -1959,7 +1960,6 @@ window.allHeroes =
         ],
         "passives": [],
         "family": "classic",
-        "image": "https://i.imgur.com/0GakWdj.jpg",
         "costume_id": 1,
         "originalIndex": 34,
         "lb1": {
@@ -2007,6 +2007,7 @@ window.allHeroes =
         "source": "Costume Quest",
         "Release date": "2024-07-16",
         "specialId": "cold_blast",
+        "heroId": "nordic_mage_costume_cute",
         "star": 3,
         "power": 507,
         "attack": 533,
@@ -2021,7 +2022,6 @@ window.allHeroes =
             "Toon: 75% extra chance to resist all status ailments, mana reductions and buff dispels."
         ],
         "family": "classic",
-        "image": "https://i.imgur.com/7Gi7zzw.jpg",
         "costume_id": 2,
         "originalIndex": 35,
         "lb1": {
@@ -2073,6 +2073,7 @@ window.allHeroes =
         "source": "S1 - Classic",
         "Release date": "2017-03-01",
         "specialId": "chilling_slash",
+        "heroId": "nordic_swordman",
         "star": 3,
         "power": 442,
         "attack": 479,
@@ -2084,7 +2085,6 @@ window.allHeroes =
         ],
         "passives": [],
         "family": "classic",
-        "image": "https://i.imgur.com/8iWG7cB.jpg",
         "costume_id": 0,
         "originalIndex": 36,
         "lb1": {
@@ -2131,6 +2131,7 @@ window.allHeroes =
         "source": "Costume Quest",
         "Release date": "2021-01-18",
         "specialId": "chilling_slash",
+        "heroId": "nordic_swordman_costume_climber",
         "star": 3,
         "power": 471,
         "attack": 497,
@@ -2142,7 +2143,6 @@ window.allHeroes =
         ],
         "passives": [],
         "family": "classic",
-        "image": "https://i.imgur.com/V2ztXVp.jpg",
         "costume_id": 1,
         "originalIndex": 37,
         "lb1": {
@@ -2190,6 +2190,7 @@ window.allHeroes =
         "source": "Costume Quest",
         "Release date": "2023-12-25",
         "specialId": "chilling_slash",
+        "heroId": "nordic_swordman_costume_cute",
         "star": 3,
         "power": 503,
         "attack": 542,
@@ -2204,7 +2205,6 @@ window.allHeroes =
             "Toon: 75% extra chance to resist all status ailments, mana reductions and buff dispels."
         ],
         "family": "classic",
-        "image": "https://i.imgur.com/ARB96xu.jpg",
         "costume_id": 2,
         "originalIndex": 38,
         "lb1": {
@@ -2258,6 +2258,7 @@ window.allHeroes =
         "source": "Tower - Styx",
         "Release date": "2022-09-21",
         "specialId": "poets_protection",
+        "heroId": "styx_virgil",
         "star": 3,
         "power": 484,
         "attack": 413,
@@ -2281,7 +2282,6 @@ window.allHeroes =
             "Resist defense Ailments: This character has innate resistance against status ailments that affect defense. Applies also to status ailments that affect elemental defense."
         ],
         "family": "styx",
-        "image": "https://i.imgur.com/lXHaox1.jpg",
         "costume_id": 0,
         "originalIndex": 39,
         "lb1": {
@@ -2328,6 +2328,7 @@ window.allHeroes =
         "source": "Challenge Festival I",
         "Release date": "2017-09-07",
         "specialId": "destructive_strike",
+        "heroId": "pirate_vodnik",
         "star": 3,
         "power": 455,
         "attack": 439,
@@ -2339,7 +2340,6 @@ window.allHeroes =
         ],
         "passives": [],
         "family": "corellia",
-        "image": "https://i.imgur.com/aLr0hqV.jpg",
         "costume_id": 0,
         "originalIndex": 40,
         "lb1": {
@@ -2387,6 +2387,7 @@ window.allHeroes =
         "source": "Three Kingdoms Summon",
         "Release date": "2022-03-14",
         "specialId": "sword_of_wei",
+        "heroId": "kingdom_yao",
         "star": 3,
         "power": 483,
         "attack": 486,
@@ -2399,7 +2400,6 @@ window.allHeroes =
         ],
         "passives": [],
         "family": "kingdom",
-        "image": "https://i.imgur.com/uzjBEsd.jpg",
         "costume_id": 0,
         "originalIndex": 41,
         "lb1": {
@@ -2451,6 +2451,7 @@ window.allHeroes =
         "source": "S2 - Atlantis",
         "Release date": "2019-08-01",
         "specialId": "tidal_wave",
+        "heroId": "s2_chameleon_mage",
         "star": 4,
         "power": 648,
         "attack": 686,
@@ -2462,7 +2463,6 @@ window.allHeroes =
         ],
         "passives": [],
         "family": "lagoon",
-        "image": "https://i.imgur.com/cTx7oHb.jpg",
         "costume_id": 0,
         "originalIndex": 42,
         "lb1": {
@@ -2509,6 +2509,7 @@ window.allHeroes =
         "source": "S2 - Atlantis",
         "Release date": "2023-03-06",
         "specialId": "tidal_wave",
+        "heroId": "s2_chameleon_mage_costume_alchemist",
         "star": 4,
         "power": 669,
         "attack": 658,
@@ -2520,7 +2521,6 @@ window.allHeroes =
         ],
         "passives": [],
         "family": "lagoon",
-        "image": "https://i.imgur.com/1q4qwgL.jpg",
         "costume_id": 1,
         "originalIndex": 43,
         "lb1": {
@@ -2568,6 +2568,7 @@ window.allHeroes =
         "source": "S6 - Mysteries of the Deep",
         "Release date": "2023-09-27",
         "specialId": "close_order_formation",
+        "heroId": "tales1_aqualith",
         "star": 4,
         "power": 688,
         "attack": 675,
@@ -2588,7 +2589,6 @@ window.allHeroes =
             " * All allies get +21% critical chance for 2 turns."
         ],
         "family": "defendersofatlantis",
-        "image": "https://i.imgur.com/3R1f8Vh.jpg",
         "costume_id": 0,
         "originalIndex": 44,
         "lb1": {
@@ -2635,6 +2635,7 @@ window.allHeroes =
         "source": "S6 - Mysteries of the Deep",
         "Release date": "2025-05-28",
         "specialId": "close_order_formation",
+        "heroId": "tales1_aqualith_costume_purple",
         "star": 4,
         "power": 704,
         "attack": 676,
@@ -2656,7 +2657,6 @@ window.allHeroes =
             "Resist Insanity: This character has innate resistance against Insanity."
         ],
         "family": "defendersofatlantis",
-        "image": "https://imgur.com/Dkny5By.jpg",
         "costume_id": 1,
         "originalIndex": 45,
         "lb1": {
@@ -2703,6 +2703,7 @@ window.allHeroes =
         "source": "S5 - Dune",
         "Release date": "2022-04-21",
         "specialId": "counterstance",
+        "heroId": "s5_azmia",
         "star": 4,
         "power": 683,
         "attack": 584,
@@ -2718,7 +2719,6 @@ window.allHeroes =
             " * Cleanses the latest cleansable status ailments from all allies."
         ],
         "family": "sun",
-        "image": "https://i.imgur.com/VnnI4Om.jpg",
         "costume_id": 0,
         "originalIndex": 46,
         "lb1": {
@@ -2767,6 +2767,7 @@ window.allHeroes =
         "source": "S5 - Dune",
         "Release date": "2024-06-24",
         "specialId": "counterstance",
+        "heroId": "s5_azmia_costume_dancing",
         "star": 4,
         "power": 699,
         "attack": 634,
@@ -2784,7 +2785,6 @@ window.allHeroes =
             "Health Recover on Buff Received: This character recovers 5% HP when they receive a buff or positive stack."
         ],
         "family": "sun",
-        "image": "https://i.imgur.com/CmCVc5Z.jpg",
         "costume_id": 1,
         "originalIndex": 47,
         "lb1": {
@@ -2832,6 +2832,7 @@ window.allHeroes =
         "source": "Covenant Summon",
         "Release date": "2024-04-25",
         "specialId": "frost_and_rime",
+        "heroId": "construct_bonechill",
         "star": 4,
         "power": 699,
         "attack": 652,
@@ -2847,7 +2848,6 @@ window.allHeroes =
             "Destructive Core: The Construct Core of this character is Destructive Core. The Destructive Core activates each time this character’s Special Skill is cast: * With fully charged Destructive Core, deals 180% damage to all enemies. * The damage is scaled by the amount of charge in the Core, All charge is exchausted when the Core is activated."
         ],
         "family": "construct",
-        "image": "https://i.imgur.com/3Pho2hm.jpg",
         "costume_id": 0,
         "originalIndex": 48,
         "lb1": {
@@ -2897,6 +2897,7 @@ window.allHeroes =
         "source": "S1 - Classic",
         "Release date": "2017-03-01",
         "specialId": "perfect_riposte",
+        "heroId": "dwarven_guard",
         "star": 4,
         "power": 643,
         "attack": 501,
@@ -2907,7 +2908,6 @@ window.allHeroes =
         ],
         "passives": [],
         "family": "classic",
-        "image": "https://i.imgur.com/jFkMrWZ.jpg",
         "costume_id": 0,
         "originalIndex": 49,
         "lb1": {
@@ -2947,6 +2947,7 @@ window.allHeroes =
         "source": "Costume Quest",
         "Release date": "2020-05-18",
         "specialId": "perfect_riposte",
+        "heroId": "dwarven_guard_costume_ram",
         "star": 4,
         "power": 689,
         "attack": 513,
@@ -2957,7 +2958,6 @@ window.allHeroes =
         ],
         "passives": [],
         "family": "classic",
-        "image": "https://i.imgur.com/p8PKYHQ.jpg",
         "costume_id": 1,
         "originalIndex": 50,
         "lb1": {
@@ -2997,6 +2997,7 @@ window.allHeroes =
         "source": "Costume Quest",
         "Release date": "2023-11-27",
         "specialId": "perfect_riposte",
+        "heroId": "dwarven_guard_costume_tavern",
         "star": 4,
         "power": 735,
         "attack": 591,
@@ -3007,7 +3008,6 @@ window.allHeroes =
         ],
         "passives": [],
         "family": "classic",
-        "image": "https://i.imgur.com/9wlyamA.jpg",
         "costume_id": 2,
         "originalIndex": 51,
         "lb1": {
@@ -3047,6 +3047,7 @@ window.allHeroes =
         "source": "Costume Quest",
         "Release date": "2024-09-08",
         "specialId": "perfect_riposte",
+        "heroId": "dwarven_guard_costume_cute",
         "star": 4,
         "power": 747,
         "attack": 648,
@@ -3059,7 +3060,6 @@ window.allHeroes =
             "Toon: 75% extra chance to resist all status ailments, mana reductions and buff dispels."
         ],
         "family": "classic",
-        "image": "https://i.imgur.com/FCxtmOB.jpg",
         "costume_id": 3,
         "originalIndex": 52,
         "lb1": {
@@ -3103,6 +3103,7 @@ window.allHeroes =
         "source": "Challenge Festival I",
         "Release date": "2019-02-14",
         "specialId": "pest_control",
+        "heroId": "wonderland_captain",
         "star": 4,
         "power": 650,
         "attack": 620,
@@ -3115,7 +3116,6 @@ window.allHeroes =
         ],
         "passives": [],
         "family": "wonderland",
-        "image": "https://i.imgur.com/BgqqlFR.jpg",
         "costume_id": 0,
         "originalIndex": 53,
         "lb1": {
@@ -3163,6 +3163,7 @@ window.allHeroes =
         "source": "Super Elementals",
         "Release date": "2025-07-31",
         "specialId": "surprise_goo",
+        "heroId": "slime_choozen",
         "star": 4,
         "power": 752,
         "attack": 707,
@@ -3178,7 +3179,6 @@ window.allHeroes =
             "Slime Minion Split: If this character loses more than 25% of max health at once, they summon a Slime Mega Minion for themselves with 50% HP and 40% attack."
         ],
         "family": "slime",
-        "image": "https://imgur.com/sft0xqv.jpg",
         "costume_id": 0,
         "originalIndex": 54,
         "lb1": {
@@ -3229,6 +3229,7 @@ window.allHeroes =
         "source": "S7 - Treasures of Flame and Frost",
         "Release date": "2025-05-16",
         "specialId": "iceberg_aura",
+        "heroId": "tales2_dain",
         "star": 4,
         "power": 732,
         "attack": 716,
@@ -3245,7 +3246,6 @@ window.allHeroes =
             " * The Frost damage is scaled by the amount of charge in the Core. All charge is exhausted when the Core is activated."
         ],
         "family": "myrkheim",
-        "image": "https://imgur.com/r2wMpaa.jpg",
         "costume_id": 0,
         "originalIndex": 55,
         "lb1": {
@@ -3290,6 +3290,7 @@ window.allHeroes =
         "source": "Challenge - Carnival of Gods",
         "Release date": "2023-07-13",
         "specialId": "potions_of_havoc_and_healing",
+        "heroId": "masquerade_fosco",
         "star": 4,
         "power": 689,
         "attack": 673,
@@ -3305,7 +3306,6 @@ window.allHeroes =
             "Cleanse on Minion Death: This character is cleansed of status ailments when Minion owned by them is destroyed. "
         ],
         "family": "maskedgod",
-        "image": "https://i.imgur.com/WV9k1vH.jpg",
         "costume_id": 0,
         "originalIndex": 56,
         "lb1": {
@@ -3358,6 +3358,7 @@ window.allHeroes =
         "source": "Monthly Event - Morlovia",
         "Release date": "2020-10-26",
         "specialId": "undead_razer",
+        "heroId": "halloween_frank",
         "star": 4,
         "power": 667,
         "attack": 635,
@@ -3372,7 +3373,6 @@ window.allHeroes =
             "Steal Buff: When this character casts their Special Skill, they have a 50% chance to steal the newest dispellable buff from a random enemy that has buffs. If no enemy has buffs, deals 70% damage to all enemies."
         ],
         "family": "morlovia",
-        "image": "https://i.imgur.com/dQao9jX.jpg",
         "costume_id": 0,
         "originalIndex": 57,
         "lb1": {
@@ -3427,6 +3427,7 @@ window.allHeroes =
         "source": "Monthly Event - Morlovia",
         "Release date": "2021-10-04",
         "specialId": "undead_razer",
+        "heroId": "halloween_frank_costume_mafia",
         "star": 4,
         "power": 681,
         "attack": 655,
@@ -3442,7 +3443,6 @@ window.allHeroes =
             "Steal Buff: When this character casts their Special Skill, they have a 50% chance to steal the newest dispellable buff from a random enemy that has buffs. If no enemy has buffs, deals 70% damage to all enemies."
         ],
         "family": "morlovia",
-        "image": "https://i.imgur.com/HUrGPkv.jpg",
         "costume_id": 1,
         "originalIndex": 58,
         "lb1": {
@@ -3504,6 +3504,7 @@ window.allHeroes =
         "source": "Challenge Festival II",
         "Release date": "2022-12-01",
         "specialId": "the_mighty_crescendo",
+        "heroId": "bard_garyas",
         "star": 4,
         "power": 685,
         "attack": 667,
@@ -3517,7 +3518,6 @@ window.allHeroes =
             "Attack Ailment Reduction: Reduces the effect of status ailments affecting attack by 80%. The effect applies to this character and its allies in the battle."
         ],
         "family": "bard",
-        "image": "https://i.imgur.com/mGVyqKx.jpg",
         "costume_id": 0,
         "originalIndex": 59,
         "lb1": {
@@ -3565,6 +3565,7 @@ window.allHeroes =
         "source": "Goblin Summon",
         "Release date": "2024-04-15",
         "specialId": "scale_of_the_newt",
+        "heroId": "garrison_greg",
         "star": 4,
         "power": 698,
         "attack": 688,
@@ -3580,7 +3581,6 @@ window.allHeroes =
             "Guard Rally: Every 4 turns, removes all Wither effects from all allies."
         ],
         "family": "garrisonguard",
-        "image": "https://i.imgur.com/uUOX3od.jpg",
         "costume_id": 0,
         "originalIndex": 60,
         "lb1": {
@@ -3633,6 +3633,7 @@ window.allHeroes =
         "source": "S1 - Classic",
         "Release date": "2017-03-01",
         "specialId": "ramming_pulverizer",
+        "heroId": "nordic_ancestral_warrior",
         "star": 4,
         "power": 642,
         "attack": 716,
@@ -3644,7 +3645,6 @@ window.allHeroes =
         ],
         "passives": [],
         "family": "classic",
-        "image": "https://i.imgur.com/Mx4BDfE.jpg",
         "costume_id": 0,
         "originalIndex": 61,
         "lb1": {
@@ -3691,6 +3691,7 @@ window.allHeroes =
         "source": "Costume Quest",
         "Release date": "2021-01-18",
         "specialId": "ramming_pulverizer",
+        "heroId": "nordic_ancestral_warrior_costume_corrupted",
         "star": 4,
         "power": 687,
         "attack": 729,
@@ -3702,7 +3703,6 @@ window.allHeroes =
         ],
         "passives": [],
         "family": "classic",
-        "image": "https://i.imgur.com/Z9LP9Ei.jpg",
         "costume_id": 1,
         "originalIndex": 62,
         "lb1": {
@@ -3748,6 +3748,7 @@ window.allHeroes =
         "source": "Costume Quest",
         "Release date": "2023-06-12",
         "specialId": "ramming_pulverizer",
+        "heroId": "nordic_ancestral_warrior_costume_messenger",
         "star": 4,
         "power": 733,
         "attack": 840,
@@ -3759,7 +3760,6 @@ window.allHeroes =
         ],
         "passives": [],
         "family": "classic",
-        "image": "https://i.imgur.com/cDO5QOd.jpg",
         "costume_id": 2,
         "originalIndex": 63,
         "lb1": {
@@ -3807,6 +3807,7 @@ window.allHeroes =
         "source": "Costume Quest",
         "Release date": "2023-12-25",
         "specialId": "ramming_pulverizer",
+        "heroId": "nordic_ancestral_warrior_costume_cute",
         "star": 4,
         "power": 746,
         "attack": 827,
@@ -3821,7 +3822,6 @@ window.allHeroes =
             "Toon: 75% extra chance to resist all status ailments, mana reductions and buff dispels."
         ],
         "family": "classic",
-        "image": "https://i.imgur.com/3MLw0k0.jpg",
         "costume_id": 3,
         "originalIndex": 64,
         "lb1": {
@@ -3874,6 +3874,7 @@ window.allHeroes =
         "source": "Costume Quest",
         "Release date": "2024-12-25",
         "specialId": "ramming_pulverizer",
+        "heroId": "nordic_ancestral_warrior_costume_glass",
         "star": 4,
         "power": 758,
         "attack": 843,
@@ -3888,7 +3889,6 @@ window.allHeroes =
             "Glass: 60% extra chance to reflect status ailments back to the attacker."
         ],
         "family": "classic",
-        "image": "https://i.imgur.com/STrSTFP.jpg",
         "costume_id": 4,
         "originalIndex": 65,
         "lb1": {
@@ -3943,6 +3943,7 @@ window.allHeroes =
         "source": "Challenge - Gargoyle",
         "Release date": "2024-05-16",
         "specialId": "moon_boomerang",
+        "heroId": "gargoyle_grumbl",
         "star": 4,
         "power": 701,
         "attack": 697,
@@ -3957,7 +3958,6 @@ window.allHeroes =
             "Gargoile’s Softskin: Every time this Gargoyle casts a Special Skill, their Softskin activates. The next 5 times they receive damage, it is reduced by -90%, and they resist all status ailment and mana reduction. This effect can’t be dispelled."
         ],
         "family": "gargoyle",
-        "image": "https://i.imgur.com/h0Gvv51.jpg",
         "costume_id": 0,
         "originalIndex": 66,
         "lb1": {
@@ -4011,6 +4011,7 @@ window.allHeroes =
         "source": "S3 - Valhalla",
         "Release date": "2020-05-28",
         "specialId": "ice_boom",
+        "heroId": "s3_jott",
         "star": 4,
         "power": 664,
         "attack": 720,
@@ -4022,7 +4023,6 @@ window.allHeroes =
         ],
         "passives": [],
         "family": "jotunheim",
-        "image": "https://i.imgur.com/f9Anp7W.jpg",
         "costume_id": 0,
         "originalIndex": 67,
         "lb1": {
@@ -4071,6 +4071,7 @@ window.allHeroes =
         "source": "S1 - Classic",
         "Release date": "2017-03-01",
         "specialId": "blessed_brew",
+        "heroId": "dwarwen_brewmaster",
         "star": 4,
         "power": 647,
         "attack": 656,
@@ -4083,7 +4084,6 @@ window.allHeroes =
         ],
         "passives": [],
         "family": "classic",
-        "image": "https://i.imgur.com/OnjIJvT.jpg",
         "costume_id": 0,
         "originalIndex": 68,
         "lb1": {
@@ -4133,6 +4133,7 @@ window.allHeroes =
         "source": "Costume Quest",
         "Release date": "2020-05-18",
         "specialId": "blessed_brew",
+        "heroId": "dwarwen_brewmaster_costume_guitarist",
         "star": 4,
         "power": 692,
         "attack": 715,
@@ -4145,7 +4146,6 @@ window.allHeroes =
         ],
         "passives": [],
         "family": "classic",
-        "image": "https://i.imgur.com/BwPG5qR.jpg",
         "costume_id": 1,
         "originalIndex": 69,
         "lb1": {
@@ -4195,6 +4195,7 @@ window.allHeroes =
         "source": "Costume Quest",
         "Release date": "2022-10-31",
         "specialId": "blessed_brew",
+        "heroId": "dwarwen_brewmaster_costume_wood_carver",
         "star": 4,
         "power": 739,
         "attack": 732,
@@ -4207,7 +4208,6 @@ window.allHeroes =
         ],
         "passives": [],
         "family": "classic",
-        "image": "https://i.imgur.com/s7WIRC3.jpg",
         "costume_id": 2,
         "originalIndex": 70,
         "lb1": {
@@ -4261,6 +4261,7 @@ window.allHeroes =
         "source": "Costume Quest",
         "Release date": "2024-02-12",
         "specialId": "blessed_brew",
+        "heroId": "dwarwen_brewmaster_costume_cute",
         "star": 4,
         "power": 751,
         "attack": 769,
@@ -4275,7 +4276,6 @@ window.allHeroes =
             "Toon: 75% extra chance to resist all status ailments, mana reductions and buff dispels."
         ],
         "family": "classic",
-        "image": "https://i.imgur.com/PWTfo2c.jpg",
         "costume_id": 3,
         "originalIndex": 71,
         "lb1": {
@@ -4328,6 +4328,7 @@ window.allHeroes =
         "source": "Costume Quest",
         "Release date": "2025-03-11",
         "specialId": "blessed_brew",
+        "heroId": "dwarwen_brewmaster_costume_glass",
         "star": 4,
         "power": 763,
         "attack": 758,
@@ -4343,7 +4344,6 @@ window.allHeroes =
             "Glass: 60% extra chance to reflect status ailments back to the attacker."
         ],
         "family": "classic",
-        "image": "https://i.imgur.com/gArugbH.jpg",
         "costume_id": 4,
         "originalIndex": 72,
         "lb1": {
@@ -4397,6 +4397,7 @@ window.allHeroes =
         "source": "Monster Island Summon",
         "Release date": "2023-05-06",
         "specialId": "jungle_riposte",
+        "heroId": "monster_hunter_knuckles",
         "star": 4,
         "power": 687,
         "attack": 626,
@@ -4412,7 +4413,6 @@ window.allHeroes =
             "Hunter`s vigor: When this character casts their Special Skill, they get +20% attack for 3 turns. This effect can be active in addition to other effects that alter attack."
         ],
         "family": "junglehunter",
-        "image": "https://i.imgur.com/10jSzvE.jpg",
         "costume_id": 0,
         "originalIndex": 73,
         "lb1": {
@@ -4456,6 +4456,7 @@ window.allHeroes =
         "source": "Super Elementals",
         "Release date": "2023-09-11",
         "specialId": "shackles_of_the_sea",
+        "heroId": "elemental_linus",
         "star": 4,
         "power": 688,
         "attack": 692,
@@ -4474,7 +4475,6 @@ window.allHeroes =
             " - Received elemental damage: -10%"
         ],
         "family": "superelemental",
-        "image": "https://i.imgur.com/2bOxieO.jpg",
         "costume_id": 0,
         "originalIndex": 74,
         "lb1": {
@@ -4523,6 +4523,7 @@ window.allHeroes =
         "source": "S3 - Valhalla",
         "Release date": "2020-02-27",
         "specialId": "chain_of_pain",
+        "heroId": "s3_mireweave",
         "star": 4,
         "power": 660,
         "attack": 697,
@@ -4534,7 +4535,6 @@ window.allHeroes =
         ],
         "passives": [],
         "family": "vanaheim",
-        "image": "https://i.imgur.com/mjsblyy.jpg",
         "costume_id": 0,
         "originalIndex": 75,
         "lb1": {
@@ -4583,6 +4583,7 @@ window.allHeroes =
         "source": "Tower - Owls",
         "Release date": "2023-12-20",
         "specialId": "ill_fated_experiment",
+        "heroId": "owl_olbec",
         "star": 4,
         "power": 693,
         "attack": 724,
@@ -4596,7 +4597,6 @@ window.allHeroes =
             "Reduce Mana Gain from Special Skill: Reduces the amount of mana increased by Special Skill by -80%. The effect applies to all enemies in the battle."
         ],
         "family": "owl",
-        "image": "https://i.imgur.com/ZzxqlQV.jpg",
         "costume_id": 0,
         "originalIndex": 76,
         "lb1": {
@@ -4652,6 +4652,7 @@ window.allHeroes =
         "source": "Tower - Ninjas",
         "Release date": "2024-09-24",
         "specialId": "iron_discipline_cut",
+        "heroId": "ninja_osamu",
         "star": 4,
         "power": 701,
         "attack": 760,
@@ -4673,7 +4674,6 @@ window.allHeroes =
             "Decreased Minion Health: Enemy Minions inherit -50% less Health when summoned."
         ],
         "family": "ninja",
-        "image": "https://i.imgur.com/bQphVTO.jpg",
         "costume_id": 0,
         "originalIndex": 77,
         "lb1": {
@@ -4725,6 +4725,7 @@ window.allHeroes =
         "source": "Challenge Festival II",
         "Release date": "2021-02-11",
         "specialId": "valkyries_fortitude",
+        "heroId": "villain_sanngrior",
         "star": 4,
         "power": 675,
         "attack": 565,
@@ -4736,7 +4737,6 @@ window.allHeroes =
         ],
         "passives": [],
         "family": "villains",
-        "image": "https://i.imgur.com/IunsdpJ.jpg",
         "costume_id": 0,
         "originalIndex": 78,
         "lb1": {
@@ -4786,6 +4786,7 @@ window.allHeroes =
         "source": "Tower - Ninjas",
         "Release date": "2020-10-13",
         "specialId": "from_shadows",
+        "heroId": "ninja_sapphire",
         "star": 4,
         "power": 670,
         "attack": 726,
@@ -4804,7 +4805,6 @@ window.allHeroes =
         ],
         "passives": [],
         "family": "ninja",
-        "image": "https://i.imgur.com/XCynMAV.jpg",
         "costume_id": 0,
         "originalIndex": 79,
         "lb1": {
@@ -4851,6 +4851,7 @@ window.allHeroes =
         "source": "S1 - Classic",
         "Release date": "2017-03-01",
         "specialId": "piercing_strike",
+        "heroId": "royal_female_knight",
         "star": 4,
         "power": 643,
         "attack": 607,
@@ -4862,7 +4863,6 @@ window.allHeroes =
         ],
         "passives": [],
         "family": "classic",
-        "image": "https://i.imgur.com/zE5VVll.jpg",
         "costume_id": 0,
         "originalIndex": 80,
         "lb1": {
@@ -4909,6 +4909,7 @@ window.allHeroes =
         "source": "Costume Quest",
         "Release date": "2020-01-01",
         "specialId": "piercing_strike",
+        "heroId": "royal_female_knight_costume_winter",
         "star": 4,
         "power": 688,
         "attack": 659,
@@ -4920,7 +4921,6 @@ window.allHeroes =
         ],
         "passives": [],
         "family": "classic",
-        "image": "https://i.imgur.com/R1MhQgF.jpg",
         "costume_id": 1,
         "originalIndex": 81,
         "lb1": {
@@ -4967,6 +4967,7 @@ window.allHeroes =
         "source": "Costume Quest",
         "Release date": "2023-11-27",
         "specialId": "piercing_strike",
+        "heroId": "royal_female_knight_costume_prospector",
         "star": 4,
         "power": 734,
         "attack": 817,
@@ -4978,7 +4979,6 @@ window.allHeroes =
         ],
         "passives": [],
         "family": "classic",
-        "image": "https://i.imgur.com/9fhb23h.jpg",
         "costume_id": 2,
         "originalIndex": 82,
         "lb1": {
@@ -5026,6 +5026,7 @@ window.allHeroes =
         "source": "Costume Quest",
         "Release date": "2024-07-16",
         "specialId": "piercing_strike",
+        "heroId": "royal_female_knight_costume_cute",
         "star": 4,
         "power": 746,
         "attack": 807,
@@ -5040,7 +5041,6 @@ window.allHeroes =
             "Toon: 75% extra chance to resist all status ailments, mana reductions and buff dispels."
         ],
         "family": "classic",
-        "image": "https://i.imgur.com/k4GWNzl.jpg",
         "costume_id": 3,
         "originalIndex": 83,
         "lb1": {
@@ -5092,6 +5092,7 @@ window.allHeroes =
         "source": "S2 - Atlantis",
         "Release date": "2019-08-01",
         "specialId": "heroic_noble",
+        "heroId": "s2_triton",
         "star": 4,
         "power": 652,
         "attack": 720,
@@ -5103,7 +5104,6 @@ window.allHeroes =
         ],
         "passives": [],
         "family": "atlantis",
-        "image": "https://i.imgur.com/nJsozVv.jpg",
         "costume_id": 0,
         "originalIndex": 84,
         "lb1": {
@@ -5150,6 +5150,7 @@ window.allHeroes =
         "source": "S2 - Atlantis",
         "Release date": "2023-04-03",
         "specialId": "heroic_noble",
+        "heroId": "s2_triton_costume_champion",
         "star": 4,
         "power": 673,
         "attack": 689,
@@ -5161,7 +5162,6 @@ window.allHeroes =
         ],
         "passives": [],
         "family": "atlantis",
-        "image": "https://i.imgur.com/Gjfgtlh.jpg",
         "costume_id": 1,
         "originalIndex": 85,
         "lb1": {
@@ -5211,6 +5211,7 @@ window.allHeroes =
         "source": "Monthly Event - Morlovia",
         "Release date": "2018-10-25",
         "specialId": "queens_blood_poisoning",
+        "heroId": "vampire_queen",
         "star": 4,
         "power": 649,
         "attack": 609,
@@ -5225,7 +5226,6 @@ window.allHeroes =
             "Steal Buff - When this character casts their Special Skill, they have a 50%  chance to steal the newest dispellable buff from a random enemy that has buffs.  If no enemy has buffs, deals 70% damage to all enemies."
         ],
         "family": "morlovia",
-        "image": "https://i.imgur.com/Zwdjhmt.jpg",
         "costume_id": 0,
         "originalIndex": 86,
         "lb1": {
@@ -5274,6 +5274,7 @@ window.allHeroes =
         "source": "Three Kingdoms Summon",
         "Release date": "2022-03-14",
         "specialId": "qilin_blade",
+        "heroId": "kingdom_xiahou_dun",
         "star": 4,
         "power": 683,
         "attack": 641,
@@ -5286,7 +5287,6 @@ window.allHeroes =
         ],
         "passives": [],
         "family": "kingdom",
-        "image": "https://i.imgur.com/6njHzyt.jpg",
         "costume_id": 0,
         "originalIndex": 87,
         "lb1": {
@@ -5338,6 +5338,7 @@ window.allHeroes =
         "source": "S4 - Wilderness",
         "Release date": "2021-03-25",
         "specialId": "fishbone_blades",
+        "heroId": "s4_zila_lei",
         "star": 4,
         "power": 677,
         "attack": 677,
@@ -5351,7 +5352,6 @@ window.allHeroes =
             "Increased Special Skill Damage: The first time this character casts a Special Skill that deals damage, an additional 30% is added to its power."
         ],
         "family": "underwild",
-        "image": "https://i.imgur.com/AZ3KQGe.jpg",
         "costume_id": 0,
         "originalIndex": 88,
         "lb1": {
@@ -5398,6 +5398,7 @@ window.allHeroes =
         "source": "S4 - Wilderness",
         "Release date": "2024-01-04",
         "specialId": "fishbone_blades",
+        "heroId": "s4_zila_lei_costume_dancer",
         "star": 4,
         "power": 692,
         "attack": 701,
@@ -5411,7 +5412,6 @@ window.allHeroes =
             "Increased Special Skill Damage: The first time this character casts a Special Skill that deals damage, an additional 30% is added to its power."
         ],
         "family": "underwild",
-        "image": "https://i.imgur.com/uA3g8LR.jpg",
         "costume_id": 1,
         "originalIndex": 89,
         "lb1": {
@@ -5461,6 +5461,7 @@ window.allHeroes =
         "source": "Monster Island Summon",
         "Release date": "2022-09-18",
         "specialId": "hunting_charge",
+        "heroId": "monster_hunter_adalinda",
         "star": 5,
         "power": 888,
         "attack": 803,
@@ -5477,7 +5478,6 @@ window.allHeroes =
             "Damage over time on Special: When this character casts their Special Skill, they give a Hunter’s Mark on a random enemy. The target receives 150 damage over 3 turns. If a target already has this effect, the duration will be refreshed and the damage will be increased by 150, up to 1500 damage in total."
         ],
         "family": "plainshunter",
-        "image": "https://i.imgur.com/2lTPgSd.jpg",
         "costume_id": 0,
         "originalIndex": 90,
         "lb1": {
@@ -5532,6 +5532,7 @@ window.allHeroes =
         "source": "Legends Summon - Hero of the Month",
         "Release date": "2018-10-01",
         "specialId": "icy_resilience",
+        "heroId": "ice_god_october",
         "star": 5,
         "power": 768,
         "attack": 615,
@@ -5545,7 +5546,6 @@ window.allHeroes =
         ],
         "passives": [],
         "family": 2018,
-        "image": "https://i.imgur.com/BzRTcqJ.jpg",
         "costume_id": 0,
         "originalIndex": 91,
         "lb1": {
@@ -5596,6 +5596,7 @@ window.allHeroes =
         "source": "Legends Summon - Hero of the Month",
         "Release date": "2023-01-23",
         "specialId": "icy_resilience",
+        "heroId": "ice_god_october_costume_farmer",
         "star": 5,
         "power": 978,
         "attack": 811,
@@ -5611,7 +5612,6 @@ window.allHeroes =
             "Cleanse on Special: When this character casts their Special Skill, they cleanse the newest status ailment from all allies."
         ],
         "family": 2018,
-        "image": "https://i.imgur.com/JN0Ddwo.jpg",
         "costume_id": 1,
         "originalIndex": 92,
         "lb1": {
@@ -5661,6 +5661,7 @@ window.allHeroes =
         "source": "Monthly Event - Kalevala",
         "Release date": "2022-06-20",
         "specialId": "summer_carol",
+        "heroId": "kalevala_aino",
         "star": 5,
         "power": 835,
         "attack": 788,
@@ -5675,7 +5676,6 @@ window.allHeroes =
             "Power of Sisu: When this character starts a turn with low health for the first time during a battle, they recover 15% health and receive 15% mana."
         ],
         "family": "kalevala",
-        "image": "https://i.imgur.com/VkKPr4n.jpg",
         "costume_id": 0,
         "originalIndex": 93,
         "lb1": {
@@ -5725,6 +5725,7 @@ window.allHeroes =
         "source": "Monthly Event - Kalevala",
         "Release date": "2023-08-07",
         "specialId": "summer_carol",
+        "heroId": "kalevala_aino_costume_water_maiden",
         "star": 5,
         "power": 1079,
         "attack": 1029,
@@ -5739,7 +5740,6 @@ window.allHeroes =
             "Power of Sisu: When this character starts a turn with low health for the first time during a battle, they recover 15% health and receive 15% mana."
         ],
         "family": "kalevala",
-        "image": "https://i.imgur.com/GoxPKHf.jpg",
         "costume_id": 1,
         "originalIndex": 94,
         "lb1": {
@@ -5789,6 +5789,7 @@ window.allHeroes =
         "source": "Legends Summon - Hero of the Month",
         "Release date": "2018-05-01",
         "specialId": "spirit_arrow",
+        "heroId": "ice_god_eskimo",
         "star": 5,
         "power": 768,
         "attack": 739,
@@ -5801,7 +5802,6 @@ window.allHeroes =
         ],
         "passives": [],
         "family": 2018,
-        "image": "https://i.imgur.com/xx3qiK5.jpg",
         "costume_id": 0,
         "originalIndex": 95,
         "lb1": {
@@ -5852,6 +5852,7 @@ window.allHeroes =
         "source": "Legends Summon - Hero of the Month",
         "Release date": "2021-12-23",
         "specialId": "spirit_arrow",
+        "heroId": "ice_god_eskimo_costume_champion",
         "star": 5,
         "power": 976,
         "attack": 935,
@@ -5867,7 +5868,6 @@ window.allHeroes =
             "Cleanse on Special: When this character casts their Special Skill, they cleanse the newest status ailment from all allies."
         ],
         "family": 2018,
-        "image": "https://i.imgur.com/UQE64tc.jpg",
         "costume_id": 1,
         "originalIndex": 96,
         "lb1": {
@@ -5922,6 +5922,7 @@ window.allHeroes =
         "source": "Legends Summon - Hero of the Month",
         "Release date": "2021-09-01",
         "specialId": "shimmering_shield",
+        "heroId": "ice_god_alexandrine",
         "star": 5,
         "power": 794,
         "attack": 745,
@@ -5938,7 +5939,6 @@ window.allHeroes =
             "Health Recovery on Status Ailment Received: This character recovers 10% health when they receive a status ailment or a negative stack."
         ],
         "family": 2021,
-        "image": "https://i.imgur.com/aFNgbfI.jpg",
         "costume_id": 0,
         "originalIndex": 97,
         "lb1": {
@@ -5991,6 +5991,7 @@ window.allHeroes =
         "source": "Challenge Festival I",
         "Release date": "2019-02-14",
         "specialId": "timeless_timepiece",
+        "heroId": "wonderland_alice",
         "star": 5,
         "power": 769,
         "attack": 741,
@@ -6002,7 +6003,6 @@ window.allHeroes =
         ],
         "passives": [],
         "family": "wonderland",
-        "image": "https://i.imgur.com/DEMKiBc.jpg",
         "costume_id": 0,
         "originalIndex": 98,
         "lb1": {
@@ -6053,6 +6053,7 @@ window.allHeroes =
         "source": "Tower - Styx",
         "Release date": "2023-07-19",
         "specialId": "tidal_force",
+        "heroId": "styx_amphitrite",
         "star": 5,
         "power": 927,
         "attack": 889,
@@ -6078,7 +6079,6 @@ window.allHeroes =
             "Resist Defense Ailments: The character has innate resistance against status ailments that effect defense. Applies also to status ailment that affect elemental defense."
         ],
         "family": "styx",
-        "image": "https://i.imgur.com/aKSj5xr.jpg",
         "costume_id": 0,
         "originalIndex": 99,
         "lb1": {
@@ -6137,6 +6137,7 @@ window.allHeroes =
         "source": "S7 - Treasures of Flame and Frost",
         "Release date": "2024-12-28",
         "specialId": "saga_of_deliverance",
+        "heroId": "tales2_andvari",
         "star": 5,
         "power": 1169,
         "attack": 1145,
@@ -6156,7 +6157,6 @@ window.allHeroes =
             " * The Burn damage is scaled by the amount of charge in the Core. All charge is exhausted when the Core is activated."
         ],
         "family": "nidavellir",
-        "image": "https://i.imgur.com/MVPiXPz.jpg",
         "costume_id": 0,
         "originalIndex": 100,
         "lb1": {
@@ -6205,6 +6205,7 @@ window.allHeroes =
         "source": "Super Elementals",
         "Release date": "2023-01-30",
         "specialId": "radiant_comeback",
+        "heroId": "elemental_anzia",
         "star": 5,
         "power": 901,
         "attack": 821,
@@ -6222,14 +6223,13 @@ window.allHeroes =
             " - Received elemental damage: -10%"
         ],
         "family": "superelemental",
-        "image": "https://i.imgur.com/9igBdFq.jpg",
         "costume_id": 0,
         "originalIndex": 101,
         "lb1": {
-            "power": 962,
+            "power": 961,
             "attack": 885,
             "defense": 905,
-            "health": 1958
+            "health": 1955
         },
         "lb2": {
             "power": 1083,
@@ -6268,6 +6268,7 @@ window.allHeroes =
         "source": "Legends Summon - Hero of the Month",
         "Release date": "2023-09-01",
         "specialId": "radiating_frost",
+        "heroId": "ice_god_areax",
         "star": 5,
         "power": 875,
         "attack": 871,
@@ -6284,7 +6285,6 @@ window.allHeroes =
             "Resist Water Damage: This character has innate resistance against Water damage."
         ],
         "family": 2023,
-        "image": "https://i.imgur.com/KHHGFsT.jpg",
         "costume_id": 0,
         "originalIndex": 102,
         "lb1": {
@@ -6335,6 +6335,7 @@ window.allHeroes =
         "source": "S2 - Atlantis",
         "Release date": "2019-02-01",
         "specialId": "divine_protection",
+        "heroId": "s2_ariel",
         "star": 5,
         "power": 772,
         "attack": 731,
@@ -6347,7 +6348,6 @@ window.allHeroes =
         ],
         "passives": [],
         "family": "atlantis",
-        "image": "https://i.imgur.com/WWzsu8l.jpg",
         "costume_id": 0,
         "originalIndex": 103,
         "lb1": {
@@ -6401,6 +6401,7 @@ window.allHeroes =
         "source": "S2 - Atlantis",
         "Release date": "2021-11-15",
         "specialId": "divine_protection",
+        "heroId": "s2_ariel_costume_enchanter",
         "star": 5,
         "power": 942,
         "attack": 928,
@@ -6413,7 +6414,6 @@ window.allHeroes =
         ],
         "passives": [],
         "family": "atlantis",
-        "image": "https://i.imgur.com/gRSAJUL.jpg",
         "costume_id": 1,
         "originalIndex": 104,
         "lb1": {
@@ -6467,6 +6467,7 @@ window.allHeroes =
         "source": "Alliance - Knights Clash",
         "Release date": "2024-04-10",
         "specialId": "frostbite",
+        "heroId": "castle_bear_armel",
         "star": 5,
         "power": 1030,
         "attack": 1062,
@@ -6481,7 +6482,6 @@ window.allHeroes =
             "Health Recovery on Buff Received: This character recovers 5% health when they receive a buff or a positive stack."
         ],
         "family": "bear",
-        "image": "https://i.imgur.com/A0IbhDl.jpg",
         "costume_id": 0,
         "originalIndex": 105,
         "lb1": {
@@ -6540,6 +6540,7 @@ window.allHeroes =
         "source": "Extra Draw - Secret Summon",
         "Release date": "2025-07-26",
         "specialId": "gorging_chew_blue",
+        "heroId": "mimic_ascension_item_blue",
         "star": 5,
         "power": 1225,
         "attack": 1268,
@@ -6565,7 +6566,6 @@ window.allHeroes =
             " * Mystic Rings"
         ],
         "family": "mimic",
-        "image": "https://imgur.com/Spg5FLa.jpg",
         "costume_id": 0,
         "originalIndex": 106,
         "lb1": {
@@ -6629,6 +6629,7 @@ window.allHeroes =
         "source": "Wilderness Summon",
         "Release date": "2025-02-21",
         "specialId": "portents_of_future",
+        "heroId": "faun_ascian",
         "star": 5,
         "power": 1165,
         "attack": 1196,
@@ -6646,7 +6647,6 @@ window.allHeroes =
             "Resist Attack Reduction: This character has innate resistance against status ailments, stacks and Wither effects that affect attack."
         ],
         "family": "woodlandfaun",
-        "image": "https://i.imgur.com/t1rtMC8.jpg",
         "costume_id": 0,
         "originalIndex": 107,
         "lb1": {
@@ -6706,6 +6706,7 @@ window.allHeroes =
         "source": "Legends Summon - Hero of the Month",
         "Release date": "2017-07-01",
         "specialId": "athenas_bow",
+        "heroId": "ice_god_athena",
         "star": 5,
         "power": 765,
         "attack": 737,
@@ -6719,7 +6720,6 @@ window.allHeroes =
         ],
         "passives": [],
         "family": 2017,
-        "image": "https://i.imgur.com/uPsJEUS.jpg",
         "costume_id": 0,
         "originalIndex": 108,
         "lb1": {
@@ -6775,6 +6775,7 @@ window.allHeroes =
         "source": "Legends Summon - Hero of the Month",
         "Release date": "2021-12-23",
         "specialId": "athenas_bow",
+        "heroId": "ice_god_athena_costume_wargoddess",
         "star": 5,
         "power": 972,
         "attack": 933,
@@ -6790,7 +6791,6 @@ window.allHeroes =
             "Dispel on Special Skill: When this character casts their Special Skill, they dispel the newest status effect buff from all enemies."
         ],
         "family": 2017,
-        "image": "https://i.imgur.com/MA6JXX4.jpg",
         "costume_id": 1,
         "originalIndex": 109,
         "lb1": {
@@ -6842,6 +6842,7 @@ window.allHeroes =
         "source": "S6 - Mysteries of the Deep",
         "Release date": "2023-11-22",
         "specialId": "aphotic_maw",
+        "heroId": "tales1_atlanteia",
         "star": 5,
         "power": 999,
         "attack": 1058,
@@ -6862,7 +6863,6 @@ window.allHeroes =
             " * The caster get +19% mana generation for 2 turns."
         ],
         "family": "nightmaresofatlantis",
-        "image": "https://i.imgur.com/Ns22n5S.jpg",
         "costume_id": 0,
         "originalIndex": 110,
         "lb1": {
@@ -6920,6 +6920,7 @@ window.allHeroes =
         "source": "S6 - Mysteries of the Deep",
         "Release date": "2024-11-21",
         "specialId": "aphotic_maw",
+        "heroId": "tales1_atlanteia_costume_siren",
         "star": 5,
         "power": 1244,
         "attack": 1328,
@@ -6941,14 +6942,13 @@ window.allHeroes =
             "Resist Insanity: This character has innate resistance against Insanity."
         ],
         "family": "nightmaresofatlantis",
-        "image": "https://i.imgur.com/lUbp0Tz.jpg",
         "costume_id": 1,
         "originalIndex": 111,
         "lb1": {
             "power": 1331,
             "attack": 1431,
             "defense": 1479,
-            "health": 2082
+            "health": 2079
         },
         "lb2": {
             "power": 1505,
@@ -6996,6 +6996,7 @@ window.allHeroes =
         "source": "Tower - Ninjas",
         "Release date": "2023-05-31",
         "specialId": "light_grenades",
+        "heroId": "ninja_azurite",
         "star": 5,
         "power": 877,
         "attack": 939,
@@ -7018,7 +7019,6 @@ window.allHeroes =
         ],
         "passives": [],
         "family": "ninja",
-        "image": "https://i.imgur.com/bzEzdnP.jpg",
         "costume_id": 0,
         "originalIndex": 112,
         "lb1": {
@@ -7073,6 +7073,7 @@ window.allHeroes =
         "source": "Legends Summon - Hero of the Month",
         "Release date": "2022-12-01",
         "specialId": "double_flail_mayhem",
+        "heroId": "ice_god_balur",
         "star": 5,
         "power": 813,
         "attack": 776,
@@ -7088,7 +7089,6 @@ window.allHeroes =
             "Resist Attack Ailments: This character has innate resistance against status ailments that affect attack."
         ],
         "family": 2022,
-        "image": "https://i.imgur.com/HIow6YQ.jpg",
         "costume_id": 0,
         "originalIndex": 113,
         "lb1": {
@@ -7135,6 +7135,7 @@ window.allHeroes =
         "source": "S5 - Dune",
         "Release date": "2022-07-07",
         "specialId": "divine_reflection",
+        "heroId": "s5_bennu",
         "star": 5,
         "power": 861,
         "attack": 793,
@@ -7150,7 +7151,6 @@ window.allHeroes =
             " * Cleanses the latest cleansable status ailment from all allies."
         ],
         "family": "sun",
-        "image": "https://i.imgur.com/GdX7t3H.jpg",
         "costume_id": 0,
         "originalIndex": 114,
         "lb1": {
@@ -7194,6 +7194,7 @@ window.allHeroes =
         "source": "S5 - Dune",
         "Release date": "2024-12-10",
         "specialId": "divine_reflection",
+        "heroId": "s5_bennu_costume_heron",
         "star": 5,
         "power": 1203,
         "attack": 1149,
@@ -7211,7 +7212,6 @@ window.allHeroes =
             "Health Recover on Buff Received: This character recovers 5% HP when they receive a buff or positive stack."
         ],
         "family": "sun",
-        "image": "https://i.imgur.com/2RfW9P4.jpg",
         "costume_id": 1,
         "originalIndex": 115,
         "lb1": {
@@ -7221,10 +7221,10 @@ window.allHeroes =
             "health": 2524
         },
         "lb2": {
-            "power": 1453,
+            "power": 1454,
             "attack": 1415,
             "defense": 1534,
-            "health": 2887
+            "health": 2890
         },
         "cn_skill_info": [
             {
@@ -7258,6 +7258,7 @@ window.allHeroes =
         "source": "Challenge Festival II",
         "Release date": "2025-01-16",
         "specialId": "joyful_noise",
+        "heroId": "bard_bhaltair",
         "star": 5,
         "power": 1171,
         "attack": 1128,
@@ -7275,7 +7276,6 @@ window.allHeroes =
             "Quick Tempo - Dance: All Dances cast by enemies only last for 1 turn."
         ],
         "family": "bard",
-        "image": "https://i.imgur.com/SRmxHwo.jpg",
         "costume_id": 0,
         "originalIndex": 116,
         "lb1": {
@@ -7330,6 +7330,7 @@ window.allHeroes =
         "source": "Challenge Festival II",
         "Release date": "2021-06-10",
         "specialId": "bobo_blitz",
+        "heroId": "circus_bobo",
         "star": 5,
         "power": 805,
         "attack": 751,
@@ -7342,7 +7343,6 @@ window.allHeroes =
         ],
         "passives": [],
         "family": "starfall",
-        "image": "https://i.imgur.com/9wspOnr.jpg",
         "costume_id": 0,
         "originalIndex": 117,
         "lb1": {
@@ -7392,6 +7392,7 @@ window.allHeroes =
         "source": "Challenge Festival II",
         "Release date": "2022-11-03",
         "specialId": "spectral_visions",
+        "heroId": "mighty_pet_bubbles",
         "star": 5,
         "power": 876,
         "attack": 869,
@@ -7407,7 +7408,6 @@ window.allHeroes =
             "Friend of the Familiars: When a Minion is summoned to any ally, this character gains 5% health and 5% mana. This effect can activate only once per turn."
         ],
         "family": "pets",
-        "image": "https://i.imgur.com/9IVPXvc.jpg",
         "costume_id": 0,
         "originalIndex": 118,
         "lb1": {
@@ -7457,6 +7457,7 @@ window.allHeroes =
         "source": "Mystery - Shadow Summon",
         "Release date": "2025-03-06",
         "specialId": "petrifying_knuckles",
+        "heroId": "shadow_burton",
         "star": 5,
         "power": 1177,
         "attack": 1225,
@@ -7469,14 +7470,13 @@ window.allHeroes =
         ],
         "passives": [],
         "family": "investigator",
-        "image": "https://i.imgur.com/FttsejA.jpg",
         "costume_id": 0,
         "originalIndex": 119,
         "lb1": {
-            "power": 1259,
+            "power": 1258,
             "attack": 1320,
             "defense": 1254,
-            "health": 2293
+            "health": 2290
         },
         "lb2": {
             "power": 1422,
@@ -7523,6 +7523,7 @@ window.allHeroes =
         "source": "Goblin Summon",
         "Release date": "2024-05-13",
         "specialId": "soothing_melody",
+        "heroId": "garrison_caelen",
         "star": 5,
         "power": 1092,
         "attack": 1172,
@@ -7541,7 +7542,6 @@ window.allHeroes =
             "Guard Rally: Every 4 turns, removes all Wither effects from all allies."
         ],
         "family": "garrisonguard",
-        "image": "https://i.imgur.com/HHfGYBP.jpg",
         "costume_id": 0,
         "originalIndex": 120,
         "lb1": {
@@ -7595,6 +7595,7 @@ window.allHeroes =
         "source": "Tower - Magic",
         "Release date": "2023-05-03",
         "specialId": "mechanical_augmentations",
+        "heroId": "magic_camilla",
         "star": 5,
         "power": 867,
         "attack": 840,
@@ -7614,7 +7615,6 @@ window.allHeroes =
             "Stack on Special: When this character casts their Special Skill, all enemies get -5% mana generation stack. If the Special Skill is fully charged, all enemies get two stacks. An enemy can have up to 10 stacks."
         ],
         "family": "magic",
-        "image": "https://i.imgur.com/IZ0ZIwf.jpg",
         "costume_id": 0,
         "originalIndex": 121,
         "lb1": {
@@ -7670,6 +7670,7 @@ window.allHeroes =
         "source": "Three Kingdoms Summon",
         "Release date": "2022-07-18",
         "specialId": "order_to_overwhelm",
+        "heroId": "kingdom_cao_cao",
         "star": 5,
         "power": 837,
         "attack": 799,
@@ -7683,7 +7684,6 @@ window.allHeroes =
         ],
         "passives": [],
         "family": "kingdom",
-        "image": "https://i.imgur.com/U1AQZ8U.jpg",
         "costume_id": 0,
         "originalIndex": 122,
         "lb1": {
@@ -7739,6 +7739,7 @@ window.allHeroes =
         "source": "Three Kingdoms Summon",
         "Release date": "2024-08-02",
         "specialId": "order_to_overwhelm",
+        "heroId": "kingdom_cao_cao_costume_ice",
         "star": 5,
         "power": 1108,
         "attack": 1067,
@@ -7757,7 +7758,6 @@ window.allHeroes =
             " * Minion attack and abilities can’t be disabled."
         ],
         "family": "kingdom",
-        "image": "https://i.imgur.com/zsLpVZ2.jpg",
         "costume_id": 1,
         "originalIndex": 123,
         "lb1": {
@@ -7816,6 +7816,7 @@ window.allHeroes =
         "source": "Challenge Festival II",
         "Release date": "2021-08-05",
         "specialId": "breaker_blade",
+        "heroId": "slayer_cathal",
         "star": 5,
         "power": 811,
         "attack": 747,
@@ -7831,7 +7832,6 @@ window.allHeroes =
             "Resist Damage from Status Effects: This charater has innate resistance against incoming damage from status effects."
         ],
         "family": "slayer",
-        "image": "https://i.imgur.com/T6kV2Hh.jpg",
         "costume_id": 0,
         "originalIndex": 124,
         "lb1": {
@@ -7884,6 +7884,7 @@ window.allHeroes =
         "source": "Challenge - Carnival of Gods",
         "Release date": "2023-07-13",
         "specialId": "summon_rock_golems",
+        "heroId": "masquerade_cel",
         "star": 5,
         "power": 933,
         "attack": 875,
@@ -7899,7 +7900,6 @@ window.allHeroes =
             "Resist Defense Ailments: This character has innate resistance against status ailments that affect defense. Applies also to status ailments that affect elemental defense."
         ],
         "family": "maskedgod",
-        "image": "https://i.imgur.com/sAIhchy.jpg",
         "costume_id": 0,
         "originalIndex": 125,
         "lb1": {
@@ -7948,6 +7948,7 @@ window.allHeroes =
         "source": "Challenge Festival II",
         "Release date": "2023-06-15",
         "specialId": "moonlight_sonata",
+        "heroId": "bard_celimene",
         "star": 5,
         "power": 902,
         "attack": 891,
@@ -7962,7 +7963,6 @@ window.allHeroes =
             "Attack Ailment Reduction: Reduces the effect of status ailments affecting attack by -80%. The effect applies to this character and its allies in the battle."
         ],
         "family": "bard",
-        "image": "https://i.imgur.com/MCqDFr1.jpg",
         "costume_id": 0,
         "originalIndex": 126,
         "lb1": {
@@ -8015,6 +8015,7 @@ window.allHeroes =
         "source": "S6 - Mysteries of the Deep",
         "Release date": "2023-07-05",
         "specialId": "tidal_vortex",
+        "heroId": "tales1_ceto",
         "star": 5,
         "power": 936,
         "attack": 994,
@@ -8036,7 +8037,6 @@ window.allHeroes =
             " * All allies get +21% critical chance for 2 turns."
         ],
         "family": "defendersofatlantis",
-        "image": "https://i.imgur.com/eqqisr9.jpg",
         "costume_id": 0,
         "originalIndex": 127,
         "lb1": {
@@ -8098,6 +8098,7 @@ window.allHeroes =
         "source": "S6 - Mysteries of the Deep",
         "Release date": "2025-03-03",
         "specialId": "tidal_vortex",
+        "heroId": "tales1_ceto_costume_queen",
         "star": 5,
         "power": 1164,
         "attack": 1281,
@@ -8120,7 +8121,6 @@ window.allHeroes =
             "Resist Insanity: This character has innate resistance against Insanity."
         ],
         "family": "defendersofatlantis",
-        "image": "https://i.imgur.com/wMfcpZk.jpg",
         "costume_id": 1,
         "originalIndex": 128,
         "lb1": {
@@ -8177,6 +8177,7 @@ window.allHeroes =
         "source": "Three Kingdoms Summon",
         "Release date": "2023-12-04",
         "specialId": "lunar_locket",
+        "heroId": "journey_change",
         "star": 5,
         "power": 978,
         "attack": 974,
@@ -8192,7 +8193,6 @@ window.allHeroes =
             "Health Recovery on Buff Received: This character has a 50% chance to recover 10% health when they receive a buff or possitve stack."
         ],
         "family": "journey",
-        "image": "https://i.imgur.com/jthApSu.jpg",
         "costume_id": 0,
         "originalIndex": 129,
         "lb1": {
@@ -8246,6 +8246,7 @@ window.allHeroes =
         "source": "Monthly Event - Morlovia",
         "Release date": "2024-09-23",
         "specialId": "horrifying_wail",
+        "heroId": "halloween_chester",
         "star": 5,
         "power": 1052,
         "attack": 927,
@@ -8260,7 +8261,6 @@ window.allHeroes =
             "Steal Buff: When this character casts their Special Skill, they have a 50% chance to steal the newest dispellable buff from a random enemy that has buffs. If no enemy has buffs, deals 70% damage to all enemies."
         ],
         "family": "morlovia",
-        "image": "https://i.imgur.com/X53djGM.jpg",
         "costume_id": 0,
         "originalIndex": 130,
         "lb1": {
@@ -8315,6 +8315,7 @@ window.allHeroes =
         "source": "Alliance - Moths",
         "Release date": "2025-06-25",
         "specialId": "mutating_mixture",
+        "heroId": "moth_chimister",
         "star": 5,
         "power": 1214,
         "attack": 1306,
@@ -8333,7 +8334,6 @@ window.allHeroes =
             "Dodge Special Damage: This character has a 15% chance to dodge Special Skills that deal damage."
         ],
         "family": "moth",
-        "image": "https://imgur.com/9sIQqfU.jpg",
         "costume_id": 0,
         "originalIndex": 131,
         "lb1": {
@@ -8397,6 +8397,7 @@ window.allHeroes =
         "source": "Solstice Summon",
         "Release date": "2025-06-16",
         "specialId": "gift_of_rejuvenation",
+        "heroId": "mahayoddha_chitrangada",
         "star": 5,
         "power": 1213,
         "attack": 1186,
@@ -8415,14 +8416,13 @@ window.allHeroes =
             "Superior Resist Negative Minion Effects: This character has innate resistance against incoming negative effects and damage from Minions and Mega Minions."
         ],
         "family": "mahayoddha",
-        "image": "https://imgur.com/4vCPlzL.jpg",
         "costume_id": 0,
         "originalIndex": 132,
         "lb1": {
             "power": 1297,
             "attack": 1278,
             "defense": 1389,
-            "health": 2404
+            "health": 2401
         },
         "lb2": {
             "power": 1467,
@@ -8465,6 +8465,7 @@ window.allHeroes =
         "source": "Goblin Summon",
         "Release date": "2025-05-27",
         "specialId": "strict_standards",
+        "heroId": "garrison_ciara",
         "star": 5,
         "power": 1184,
         "attack": 1248,
@@ -8480,14 +8481,13 @@ window.allHeroes =
             "Guard Rally: Every 4 turns, removes all Wither effects from all allies."
         ],
         "family": "garrisonguard",
-        "image": "https://imgur.com/TSKPS9R.jpg",
         "costume_id": 0,
         "originalIndex": 133,
         "lb1": {
-            "power": 1267,
+            "power": 1266,
             "attack": 1345,
             "defense": 1272,
-            "health": 2253
+            "health": 2250
         },
         "lb2": {
             "power": 1431,
@@ -8534,6 +8534,7 @@ window.allHeroes =
         "source": "Challenge Festival II",
         "Release date": "2023-02-23",
         "specialId": "frozen_wind",
+        "heroId": "mighty_pet_cinnamon",
         "star": 5,
         "power": 878,
         "attack": 840,
@@ -8549,7 +8550,6 @@ window.allHeroes =
             "Wrath of Pets: When a Fiend is summoned to any enemy, this character deals 85% damage to all enemies. This effect can activate only once per turn."
         ],
         "family": "pets",
-        "image": "https://i.imgur.com/RDVpqBy.jpg",
         "costume_id": 0,
         "originalIndex": 134,
         "lb1": {
@@ -8599,6 +8599,7 @@ window.allHeroes =
         "source": "Legends Summon - Hero of the Month",
         "Release date": "2025-04-01",
         "specialId": "strength_of_the_accursed",
+        "heroId": "ice_god_claeg",
         "star": 5,
         "power": 1072,
         "attack": 1067,
@@ -8614,7 +8615,6 @@ window.allHeroes =
             "Resist Burn: This character has innate resistance against Burn."
         ],
         "family": 2025,
-        "image": "https://imgur.com/O5qyXg7.jpg",
         "costume_id": 0,
         "originalIndex": 135,
         "lb1": {
@@ -8665,6 +8665,7 @@ window.allHeroes =
         "source": "Tower - Ninjas",
         "Release date": "2020-10-13",
         "specialId": "katana_rain",
+        "heroId": "ninja_cobalt",
         "star": 5,
         "power": 798,
         "attack": 801,
@@ -8683,7 +8684,6 @@ window.allHeroes =
         ],
         "passives": [],
         "family": "ninja",
-        "image": "https://i.imgur.com/23jWlvs.jpg",
         "costume_id": 0,
         "originalIndex": 136,
         "lb1": {
@@ -8734,6 +8734,7 @@ window.allHeroes =
         "source": "Astral Summon",
         "Release date": "2024-10-14",
         "specialId": "constellation_crush",
+        "heroId": "astral_cosmicspeaker",
         "star": 5,
         "power": 1106,
         "attack": 1170,
@@ -8750,7 +8751,6 @@ window.allHeroes =
             "Share Received Damage: 20% of damage received by this charater is shared with other allies."
         ],
         "family": "astralelves",
-        "image": "https://i.imgur.com/X5hiGNw.jpg",
         "costume_id": 0,
         "originalIndex": 137,
         "lb1": {
@@ -8808,6 +8808,7 @@ window.allHeroes =
         "source": "Challenge Festival II",
         "Release date": "2021-02-11",
         "specialId": "freezing_crystal",
+        "heroId": "villain_crystalis",
         "star": 5,
         "power": 801,
         "attack": 778,
@@ -8820,7 +8821,6 @@ window.allHeroes =
         ],
         "passives": [],
         "family": "villains",
-        "image": "https://i.imgur.com/fA7IHzy.jpg",
         "costume_id": 0,
         "originalIndex": 138,
         "lb1": {
@@ -8879,6 +8879,7 @@ window.allHeroes =
         "source": "Monthly Event - Beach Party",
         "Release date": "2024-06-03",
         "specialId": "waters_of_nourishment",
+        "heroId": "beachparty_davey_wavey",
         "star": 5,
         "power": 1016,
         "attack": 999,
@@ -8894,7 +8895,6 @@ window.allHeroes =
             "Resist Water Damage: This character has innate resistance against Water Damage."
         ],
         "family": "beachparty",
-        "image": "https://i.imgur.com/CndsCrE.jpg",
         "costume_id": 0,
         "originalIndex": 139,
         "lb1": {
@@ -8945,6 +8945,7 @@ window.allHeroes =
         "source": "Alliance - Knights Clash",
         "Release date": "2021-10-13",
         "specialId": "fiendslayer",
+        "heroId": "castle_wolf_esme",
         "star": 5,
         "power": 816,
         "attack": 762,
@@ -8957,7 +8958,6 @@ window.allHeroes =
         ],
         "passives": [],
         "family": "wolf",
-        "image": "https://i.imgur.com/nObQye7.jpg",
         "costume_id": 0,
         "originalIndex": 140,
         "lb1": {
@@ -9008,6 +9008,7 @@ window.allHeroes =
         "source": "S4 - Wilderness",
         "Release date": "2021-12-30",
         "specialId": "saturated_suffering",
+        "heroId": "s4_exeera",
         "star": 5,
         "power": 813,
         "attack": 791,
@@ -9021,7 +9022,6 @@ window.allHeroes =
             "Start Battle with Mana: This character receives 20% mana at the start of the battle."
         ],
         "family": "underwild",
-        "image": "https://i.imgur.com/UnO1gz8.jpg",
         "costume_id": 0,
         "originalIndex": 141,
         "lb1": {
@@ -9074,6 +9074,7 @@ window.allHeroes =
         "source": "S4 - Wilderness",
         "Release date": "2024-09-26",
         "specialId": "saturated_suffering",
+        "heroId": "s4_exeera_costume_hierophant",
         "star": 5,
         "power": 1030,
         "attack": 1049,
@@ -9088,7 +9089,6 @@ window.allHeroes =
             "Increased Damage Against Boosted Health: After this character casts their Special Skill, all allies deal +70% increased normal attack and Special Skills damage against targets with boosted health for 4 turns."
         ],
         "family": "underwild",
-        "image": "https://i.imgur.com/4y90uTW.jpg",
         "costume_id": 1,
         "originalIndex": 142,
         "lb1": {
@@ -9147,6 +9147,7 @@ window.allHeroes =
         "source": "Extra Draw - Secret Summon",
         "Release date": "2025-05-03",
         "specialId": "mimic_training_hero_blue_bite",
+        "heroId": "mimic_training_hero_blue",
         "star": 5,
         "power": 1200,
         "attack": 1236,
@@ -9168,7 +9169,6 @@ window.allHeroes =
             " * Uncommon Ice Heroes"
         ],
         "family": "mimic",
-        "image": "https://imgur.com/KXbsyqZ.jpg",
         "costume_id": 0,
         "originalIndex": 143,
         "lb1": {
@@ -9225,6 +9225,7 @@ window.allHeroes =
         "source": "S3 - Valhalla",
         "Release date": "2020-02-27",
         "specialId": "gargantuan_bite",
+        "heroId": "s3_fenrir",
         "star": 5,
         "power": 785,
         "attack": 780,
@@ -9238,7 +9239,6 @@ window.allHeroes =
         ],
         "passives": [],
         "family": "niflheim",
-        "image": "https://i.imgur.com/jTbJkeI.jpg",
         "costume_id": 0,
         "originalIndex": 144,
         "lb1": {
@@ -9290,6 +9290,7 @@ window.allHeroes =
         "source": "S3 - Valhalla",
         "Release date": "2023-04-10",
         "specialId": "gargantuan_bite",
+        "heroId": "s3_fenrir_costume_guardian",
         "star": 5,
         "power": 982,
         "attack": 1015,
@@ -9303,7 +9304,6 @@ window.allHeroes =
         ],
         "passives": [],
         "family": "niflheim",
-        "image": "https://i.imgur.com/ZPobGZa.jpg",
         "costume_id": 1,
         "originalIndex": 145,
         "lb1": {
@@ -9354,6 +9354,7 @@ window.allHeroes =
         "source": "Goblin Summon",
         "Release date": "2024-12-09",
         "specialId": "keep_the_peace",
+        "heroId": "garrison_fergus",
         "star": 5,
         "power": 1132,
         "attack": 1062,
@@ -9371,7 +9372,6 @@ window.allHeroes =
             "Guard Rally: Every 4 turns, removes all Wither effects from all allies."
         ],
         "family": "garrisonguard",
-        "image": "https://i.imgur.com/kA2zCy1.jpg",
         "costume_id": 0,
         "originalIndex": 146,
         "lb1": {
@@ -9427,6 +9427,7 @@ window.allHeroes =
         "source": "Challenge Festival I",
         "Release date": "2019-11-11",
         "specialId": "commodores_revenge",
+        "heroId": "pirate_commodore_finley",
         "star": 5,
         "power": 781,
         "attack": 753,
@@ -9439,7 +9440,6 @@ window.allHeroes =
         ],
         "passives": [],
         "family": "corellia",
-        "image": "https://i.imgur.com/RIPu5ha.jpg",
         "costume_id": 0,
         "originalIndex": 147,
         "lb1": {
@@ -9490,6 +9490,7 @@ window.allHeroes =
         "source": "Challenge Festival I",
         "Release date": "2022-04-14",
         "specialId": "commodores_revenge",
+        "heroId": "pirate_commodore_finley_costume_bleak",
         "star": 5,
         "power": 978,
         "attack": 1000,
@@ -9504,7 +9505,6 @@ window.allHeroes =
             "Poison on Special Skill: When this character casts their Special Skill, all enemies receive 528 Poison damage over 4 turns."
         ],
         "family": "corellia",
-        "image": "https://i.imgur.com/8HdzNsi.jpg",
         "costume_id": 1,
         "originalIndex": 148,
         "lb1": {
@@ -9555,6 +9555,7 @@ window.allHeroes =
         "source": "Challenge - Secrets of the Opera",
         "Release date": "2023-11-30",
         "specialId": "voice_of_authority",
+        "heroId": "ballerina_firmin",
         "star": 5,
         "power": 957,
         "attack": 937,
@@ -9570,7 +9571,6 @@ window.allHeroes =
             "Heal when status ailment expires or is cleared: This character receives 5% health each time a status ailment expires or is cleansed, removed or reallocated from them. This effect can activate only once per turn."
         ],
         "family": "opera",
-        "image": "https://i.imgur.com/I63hfD5.jpg",
         "costume_id": 0,
         "originalIndex": 149,
         "lb1": {
@@ -9620,6 +9620,7 @@ window.allHeroes =
         "source": "Goblin Summon",
         "Release date": "2023-11-13",
         "specialId": "shady_concerto",
+        "heroId": "goblin_fizzcoil",
         "star": 5,
         "power": 954,
         "attack": 999,
@@ -9636,7 +9637,6 @@ window.allHeroes =
             " * All enemies get -25% accuracy for 3 turns."
         ],
         "family": "goblin",
-        "image": "https://i.imgur.com/VpPwqgQ.jpg",
         "costume_id": 0,
         "originalIndex": 150,
         "lb1": {
@@ -9690,6 +9690,7 @@ window.allHeroes =
         "source": "Challenge - Carnival of Gods",
         "Release date": "2022-11-22",
         "specialId": "bad_fortune",
+        "heroId": "masquerade_fortuna",
         "star": 5,
         "power": 873,
         "attack": 819,
@@ -9706,7 +9707,6 @@ window.allHeroes =
             "Cleanse on Minion Death: This character is cleansed of status ailments when Minion owned by them is destroyed. "
         ],
         "family": "maskedgod",
-        "image": "https://i.imgur.com/gvXOhuM.jpg",
         "costume_id": 0,
         "originalIndex": 151,
         "lb1": {
@@ -9766,6 +9766,7 @@ window.allHeroes =
         "source": "Legends Summon - Hero of the Month",
         "Release date": "2019-03-01",
         "specialId": "polar_bash",
+        "heroId": "ice_god_frida",
         "star": 5,
         "power": 770,
         "attack": 733,
@@ -9781,7 +9782,6 @@ window.allHeroes =
             "Resist Attack Ailments: This character has an innate resistance against status ailments that affect Attack."
         ],
         "family": 2019,
-        "image": "https://i.imgur.com/vGjHyB4.jpg",
         "costume_id": 0,
         "originalIndex": 152,
         "lb1": {
@@ -9835,6 +9835,7 @@ window.allHeroes =
         "source": "Legends Summon - Hero of the Month",
         "Release date": "2021-04-01",
         "specialId": "cold_command",
+        "heroId": "ice_god_frosth",
         "star": 5,
         "power": 789,
         "attack": 776,
@@ -9850,7 +9851,6 @@ window.allHeroes =
             "Cleanse on Minion Death: This character is cleansed of status ailments when a Minion owned by them is destroyed."
         ],
         "family": 2021,
-        "image": "https://i.imgur.com/ux7vLKs.jpg",
         "costume_id": 0,
         "originalIndex": 153,
         "lb1": {
@@ -9895,6 +9895,7 @@ window.allHeroes =
         "source": "Goblin Summon",
         "Release date": "2025-01-17",
         "specialId": "raising_morale",
+        "heroId": "garrison_frostsnout",
         "star": 5,
         "power": 1156,
         "attack": 1165,
@@ -9910,7 +9911,6 @@ window.allHeroes =
             "Guard Rally: Every 4 turns, removes all Wither effects from all allies."
         ],
         "family": "garrisonguard",
-        "image": "https://i.imgur.com/T8J02Mj.jpg",
         "costume_id": 0,
         "originalIndex": 154,
         "lb1": {
@@ -9964,6 +9964,7 @@ window.allHeroes =
         "source": "Challenge - Gargoyle",
         "Release date": "2021-11-24",
         "specialId": "educated_exorcism",
+        "heroId": "gargoyle_gaillard",
         "star": 5,
         "power": 841,
         "attack": 856,
@@ -9978,7 +9979,6 @@ window.allHeroes =
             "Gargoyle’s Stoneskin: Every time this Gargoyle casts a Special Skill, their Stoneskin hardens. The next 3 times they receive damage, it is dropped to 1. This effect can’t be dispelled."
         ],
         "family": "gargoyle",
-        "image": "https://i.imgur.com/ts2Grgv.jpg",
         "costume_id": 0,
         "originalIndex": 155,
         "lb1": {
@@ -10028,6 +10028,7 @@ window.allHeroes =
         "source": "Covenant Summon",
         "Release date": "2023-09-21",
         "specialId": "star_construct",
+        "heroId": "construct_blue_mage",
         "star": 5,
         "power": 980,
         "attack": 997,
@@ -10047,7 +10048,6 @@ window.allHeroes =
             " * The damage is scaled by the amount of charge in the Core. All charge is exchausted when the Core is activated."
         ],
         "family": "construct",
-        "image": "https://i.imgur.com/KrLttV5.jpg",
         "costume_id": 0,
         "originalIndex": 156,
         "lb1": {
@@ -10101,6 +10101,7 @@ window.allHeroes =
         "source": "Legends Summon - Hero of the Month",
         "Release date": "2024-02-01",
         "specialId": "hunters_instinct",
+        "heroId": "ice_god_callum",
         "star": 5,
         "power": 960,
         "attack": 972,
@@ -10117,7 +10118,6 @@ window.allHeroes =
             "Mana on Enemy Defensive Buffs: This character gains 10% mana when any enemy receives a defenseive buff."
         ],
         "family": 2024,
-        "image": "https://i.imgur.com/oxh0XPo.jpg",
         "costume_id": 0,
         "originalIndex": 157,
         "lb1": {
@@ -10171,6 +10171,7 @@ window.allHeroes =
         "source": "Legends Summon - Hero of the Month",
         "Release date": "2020-11-01",
         "specialId": "midnight_magic",
+        "heroId": "ice_god_glenda",
         "star": 5,
         "power": 780,
         "attack": 749,
@@ -10186,7 +10187,6 @@ window.allHeroes =
             "Resist Buff Immunity: This character has innate resistance against status ailments that give immunity to new buffs."
         ],
         "family": 2020,
-        "image": "https://i.imgur.com/25WLFwN.jpg",
         "costume_id": 0,
         "originalIndex": 158,
         "lb1": {
@@ -10243,6 +10243,7 @@ window.allHeroes =
         "source": "Super Elementals",
         "Release date": "2025-07-31",
         "specialId": "gooey_rose",
+        "heroId": "slime_gloozmer",
         "star": 5,
         "power": 1225,
         "attack": 1236,
@@ -10260,7 +10261,6 @@ window.allHeroes =
             "Slime Minion Split: If this character loses more than 25% of max health at once, they summon a Slime Mega Minion for themselves with 50% HP and 40% attack."
         ],
         "family": "slime",
-        "image": "https://imgur.com/ffj5gHh.jpg",
         "costume_id": 0,
         "originalIndex": 159,
         "lb1": {
@@ -10320,6 +10320,7 @@ window.allHeroes =
         "source": "Goblin Summon",
         "Release date": "2024-02-19",
         "specialId": "spirits_of_the_mountain",
+        "heroId": "goblin_grimsteel",
         "star": 5,
         "power": 1063,
         "attack": 1054,
@@ -10336,7 +10337,6 @@ window.allHeroes =
             " * All enemies get -25% accuracy for 3 turns."
         ],
         "family": "goblin",
-        "image": "https://i.imgur.com/rkoJ3ZR.jpg",
         "costume_id": 0,
         "originalIndex": 160,
         "lb1": {
@@ -10385,6 +10385,7 @@ window.allHeroes =
         "source": "Challenge Festival I",
         "Release date": "2023-01-26",
         "specialId": "brutal_support",
+        "heroId": "guardian_hippo",
         "star": 5,
         "power": 841,
         "attack": 828,
@@ -10396,7 +10397,6 @@ window.allHeroes =
         ],
         "passives": [],
         "family": "guardiansteltoc",
-        "image": "https://i.imgur.com/VXhh6s9.jpg",
         "costume_id": 0,
         "originalIndex": 161,
         "lb1": {
@@ -10445,6 +10445,7 @@ window.allHeroes =
         "source": "S5 - Dune",
         "Release date": "2023-02-16",
         "specialId": "bewildering_riddle",
+        "heroId": "s5_hetepheres",
         "star": 5,
         "power": 869,
         "attack": 768,
@@ -10461,7 +10462,6 @@ window.allHeroes =
             " * Cleanses the latest cleansable status ailment from all allies."
         ],
         "family": "sun",
-        "image": "https://i.imgur.com/wdaa6Lv.jpg",
         "costume_id": 0,
         "originalIndex": 162,
         "lb1": {
@@ -10516,6 +10516,7 @@ window.allHeroes =
         "source": "S5 - Dune",
         "Release date": "2024-03-04",
         "specialId": "bewildering_riddle",
+        "heroId": "s5_hetepheres_costume_spa",
         "star": 5,
         "power": 1214,
         "attack": 1110,
@@ -10534,7 +10535,6 @@ window.allHeroes =
             "Health Recover on Buff Received: This character recovers 5% HP when they receive a buff or positive stack."
         ],
         "family": "sun",
-        "image": "https://i.imgur.com/zPZlLVD.jpg",
         "costume_id": 1,
         "originalIndex": 163,
         "lb1": {
@@ -10587,6 +10587,7 @@ window.allHeroes =
         "source": "Monthly Event - Love Season",
         "Release date": "2023-02-14",
         "specialId": "grips_of_longing",
+        "heroId": "valentines_himeros",
         "star": 5,
         "power": 861,
         "attack": 865,
@@ -10601,7 +10602,6 @@ window.allHeroes =
             "Resist Special Skill Blocking: This character has innate resistance against status ailments that block Special Skills."
         ],
         "family": "cupid",
-        "image": "https://i.imgur.com/BKwCrac.jpg",
         "costume_id": 0,
         "originalIndex": 164,
         "lb1": {
@@ -10661,6 +10661,7 @@ window.allHeroes =
         "source": "S7 - Treasures of Flame and Frost",
         "Release date": "2025-04-14",
         "specialId": "glacial_fissure_cleave",
+        "heroId": "tales2_hogne",
         "star": 5,
         "power": 1194,
         "attack": 1170,
@@ -10678,7 +10679,6 @@ window.allHeroes =
             " * The Frost damage is scaled by the amount of charge in the Core. All charge is exhausted when the Core is activated."
         ],
         "family": "myrkheim",
-        "image": "https://imgur.com/adOyVFt.jpg",
         "costume_id": 0,
         "originalIndex": 165,
         "lb1": {
@@ -10737,6 +10737,7 @@ window.allHeroes =
         "source": "Challenge - Beowulf",
         "Release date": "2024-11-25",
         "specialId": "kings_feast",
+        "heroId": "beowulf_hrothgar",
         "star": 5,
         "power": 1182,
         "attack": 1291,
@@ -10757,7 +10758,6 @@ window.allHeroes =
             "Stacking Attack on Damage Received: When this character receives direct Special Skill damage, gain 30% attack Stack (max: 10). One Stack can be gained per turn."
         ],
         "family": "beowulf",
-        "image": "https://i.imgur.com/RbbKSQ5.jpg",
         "costume_id": 0,
         "originalIndex": 166,
         "lb1": {
@@ -10811,6 +10811,7 @@ window.allHeroes =
         "source": "Mystery - Shadow Summon",
         "Release date": "2025-06-10",
         "specialId": "eye_of_yog-sir",
+        "heroId": "shadow_hysteria",
         "star": 5,
         "power": 1201,
         "attack": 1180,
@@ -10823,14 +10824,13 @@ window.allHeroes =
         ],
         "passives": [],
         "family": "cultist",
-        "image": "https://imgur.com/GBS05PK.jpg",
         "costume_id": 0,
         "originalIndex": 167,
         "lb1": {
-            "power": 1285,
+            "power": 1284,
             "attack": 1272,
             "defense": 1336,
-            "health": 2435
+            "health": 2432
         },
         "lb2": {
             "power": 1452,
@@ -10873,6 +10873,7 @@ window.allHeroes =
         "source": "Legends Summon - Hero of the Month",
         "Release date": "2022-02-01",
         "specialId": "erase_strength",
+        "heroId": "ice_god_iris",
         "star": 5,
         "power": 804,
         "attack": 788,
@@ -10889,7 +10890,6 @@ window.allHeroes =
             "Mana on Buff Dispel: This character receives 10% mana each time a buff is dispelled from this character. This effect can activate only once per turn."
         ],
         "family": 2022,
-        "image": "https://i.imgur.com/2NdyTvR.jpg",
         "costume_id": 0,
         "originalIndex": 168,
         "lb1": {
@@ -10941,6 +10941,7 @@ window.allHeroes =
         "source": "S1 - Classic",
         "Release date": "2017-03-01",
         "specialId": "glacial_shatter",
+        "heroId": "nordic_ice_enchantress",
         "star": 5,
         "power": 755,
         "attack": 797,
@@ -10952,7 +10953,6 @@ window.allHeroes =
         ],
         "passives": [],
         "family": "classic",
-        "image": "https://i.imgur.com/IqOKah3.jpg",
         "costume_id": 0,
         "originalIndex": 169,
         "lb1": {
@@ -10999,6 +10999,7 @@ window.allHeroes =
         "source": "Costume Quest",
         "Release date": "2020-01-01",
         "specialId": "glacial_shatter",
+        "heroId": "nordic_ice_enchantress_costume_aqua",
         "star": 5,
         "power": 848,
         "attack": 935,
@@ -11010,7 +11011,6 @@ window.allHeroes =
         ],
         "passives": [],
         "family": "classic",
-        "image": "https://i.imgur.com/j8POeJ4.jpg",
         "costume_id": 1,
         "originalIndex": 170,
         "lb1": {
@@ -11058,6 +11058,7 @@ window.allHeroes =
         "source": "Costume Quest",
         "Release date": "2022-09-05",
         "specialId": "glacial_shatter",
+        "heroId": "nordic_ice_enchantress_costume_ruler",
         "star": 5,
         "power": 962,
         "attack": 1048,
@@ -11070,7 +11071,6 @@ window.allHeroes =
         ],
         "passives": [],
         "family": "classic",
-        "image": "https://i.imgur.com/wccczud.jpg",
         "costume_id": 2,
         "originalIndex": 171,
         "lb1": {
@@ -11123,6 +11123,7 @@ window.allHeroes =
         "source": "Costume Quest",
         "Release date": "2024-05-06",
         "specialId": "glacial_shatter",
+        "heroId": "nordic_ice_enchantress_costume_cute",
         "star": 5,
         "power": 1128,
         "attack": 1199,
@@ -11137,7 +11138,6 @@ window.allHeroes =
             "Toon: 75% extra chance to resist all status ailments, mana reductions and buff dispels."
         ],
         "family": "classic",
-        "image": "https://i.imgur.com/mFs5DrO.jpg",
         "costume_id": 3,
         "originalIndex": 172,
         "lb1": {
@@ -11191,6 +11191,7 @@ window.allHeroes =
         "source": "Costume Quest",
         "Release date": "2025-06-18",
         "specialId": "glacial_shatter",
+        "heroId": "nordic_ice_enchantress_costume_glass",
         "star": 5,
         "power": 1236,
         "attack": 1463,
@@ -11205,14 +11206,13 @@ window.allHeroes =
             "Glass: 60% extra chance to reflect status ailments back to the attacker."
         ],
         "family": "classic",
-        "image": "https://imgur.com/mpefymk.jpg",
         "costume_id": 4,
         "originalIndex": 173,
         "lb1": {
-            "power": 1322,
+            "power": 1321,
             "attack": 1576,
             "defense": 1172,
-            "health": 2267
+            "health": 2264
         },
         "lb2": {
             "power": 1495,
@@ -11263,6 +11263,7 @@ window.allHeroes =
         "source": "Astral Summon",
         "Release date": "2025-03-27",
         "specialId": "planetary_charge",
+        "heroId": "astral_dwarf_ixinn",
         "star": 5,
         "power": 1176,
         "attack": 1170,
@@ -11280,7 +11281,6 @@ window.allHeroes =
             "Perfect Accuracy: This character’s Special Skill never misses its targets."
         ],
         "family": "astraldwarfs",
-        "image": "https://imgur.com/KNQdOYr.jpg",
         "costume_id": 0,
         "originalIndex": 174,
         "lb1": {
@@ -11333,6 +11333,7 @@ window.allHeroes =
         "source": "Super Elementals",
         "Release date": "2024-01-29",
         "specialId": "chain_lightning",
+        "heroId": "elemental_jolt",
         "star": 5,
         "power": 997,
         "attack": 1071,
@@ -11352,7 +11353,6 @@ window.allHeroes =
             " - Received elemental damage: -10%"
         ],
         "family": "superelemental",
-        "image": "https://i.imgur.com/RzzDstN.jpg",
         "costume_id": 0,
         "originalIndex": 175,
         "lb1": {
@@ -11408,6 +11408,7 @@ window.allHeroes =
         "source": "Wilderness Summon",
         "Release date": "2025-05-20",
         "specialId": "charm_of_protection",
+        "heroId": "faun_jolyon",
         "star": 5,
         "power": 1182,
         "attack": 1137,
@@ -11425,7 +11426,6 @@ window.allHeroes =
             "Resist Defense Ailments: This character has innate resistance against status ailments, stacks and Wither effects that affect defense. "
         ],
         "family": "woodlandfaun",
-        "image": "https://imgur.com/61PB1e9.jpg",
         "costume_id": 0,
         "originalIndex": 176,
         "lb1": {
@@ -11476,6 +11476,7 @@ window.allHeroes =
         "source": "Monthly Event - Love Season",
         "Release date": "2024-01-08",
         "specialId": "tough_love",
+        "heroId": "valentines_kabeiroi",
         "star": 5,
         "power": 966,
         "attack": 953,
@@ -11492,7 +11493,6 @@ window.allHeroes =
             "Resist Special Skill Blocking: This character has innate resistance against status ailments that block Special Skills."
         ],
         "family": "cupid",
-        "image": "https://i.imgur.com/cMqbo5o.jpg",
         "costume_id": 0,
         "originalIndex": 177,
         "lb1": {
@@ -11542,6 +11542,7 @@ window.allHeroes =
         "source": "Goblin Summon",
         "Release date": "2023-09-18",
         "specialId": "dubious_cuisine",
+        "heroId": "goblin_kettle",
         "star": 5,
         "power": 940,
         "attack": 949,
@@ -11564,7 +11565,6 @@ window.allHeroes =
             " * All enemies get -25% accuracy for 3 turns."
         ],
         "family": "goblin",
-        "image": "https://i.imgur.com/tT0NNbo.jpg",
         "costume_id": 0,
         "originalIndex": 178,
         "lb1": {
@@ -11627,6 +11627,7 @@ window.allHeroes =
         "source": "Challenge Festival I",
         "Release date": "2018-01-05",
         "specialId": "excalibur",
+        "heroId": "knights_king_arthur",
         "star": 5,
         "power": 765,
         "attack": 708,
@@ -11640,7 +11641,6 @@ window.allHeroes =
         ],
         "passives": [],
         "family": "avalon",
-        "image": "https://i.imgur.com/2lBnZH9.jpg",
         "costume_id": 0,
         "originalIndex": 179,
         "lb1": {
@@ -11695,6 +11695,7 @@ window.allHeroes =
         "source": "Legends Summon - Hero of the Month",
         "Release date": "2022-07-01",
         "specialId": "hailstorm",
+        "heroId": "ice_god_klaern",
         "star": 5,
         "power": 809,
         "attack": 766,
@@ -11710,7 +11711,6 @@ window.allHeroes =
             "Resist Mana Reduction: This character has innate resistance against mana reduction."
         ],
         "family": 2022,
-        "image": "https://i.imgur.com/zoE3F2A.jpg",
         "costume_id": 0,
         "originalIndex": 180,
         "lb1": {
@@ -11767,6 +11767,7 @@ window.allHeroes =
         "source": "Monthly Event - Winter",
         "Release date": "2020-12-01",
         "specialId": "scourge_of_joy",
+        "heroId": "christmas_krampus",
         "star": 5,
         "power": 802,
         "attack": 667,
@@ -11780,7 +11781,6 @@ window.allHeroes =
         ],
         "passives": [],
         "family": "christmas",
-        "image": "https://i.imgur.com/9L71cZ8.jpg",
         "costume_id": 0,
         "originalIndex": 181,
         "lb1": {
@@ -11833,6 +11833,7 @@ window.allHeroes =
         "source": "Monthly Event - Winter",
         "Release date": "2021-12-01",
         "specialId": "scourge_of_joy",
+        "heroId": "christmas_krampus_costume_eager_devil",
         "star": 5,
         "power": 1039,
         "attack": 1013,
@@ -11846,7 +11847,6 @@ window.allHeroes =
         ],
         "passives": [],
         "family": "christmas",
-        "image": "https://i.imgur.com/fkiwdOj.jpg",
         "costume_id": 1,
         "originalIndex": 182,
         "lb1": {
@@ -11900,6 +11900,7 @@ window.allHeroes =
         "source": "Wilderness Summon",
         "Release date": "2025-06-28",
         "specialId": "pursuing_shot",
+        "heroId": "wild_cat_lennart",
         "star": 5,
         "power": 1215,
         "attack": 1326,
@@ -11923,7 +11924,6 @@ window.allHeroes =
             " * - Growth and Wither effects."
         ],
         "family": "wildcat",
-        "image": "https://imgur.com/yQl1QjJ.jpg",
         "costume_id": 0,
         "originalIndex": 183,
         "lb1": {
@@ -11972,6 +11972,7 @@ window.allHeroes =
         "source": "S3 - Valhalla",
         "Release date": "2020-12-24",
         "specialId": "tricksters_mischief",
+        "heroId": "s3_loki_male",
         "star": 5,
         "power": 787,
         "attack": 774,
@@ -11985,7 +11986,6 @@ window.allHeroes =
         ],
         "passives": [],
         "family": "jotunheim",
-        "image": "https://i.imgur.com/eGy2uqe.jpg",
         "costume_id": 0,
         "originalIndex": 184,
         "lb1": {
@@ -12027,6 +12027,7 @@ window.allHeroes =
         "source": "S3 - Valhalla",
         "Release date": "2023-05-08",
         "specialId": "tricksters_mischief",
+        "heroId": "s3_loki_male_costume_shapeshifter",
         "star": 5,
         "power": 986,
         "attack": 988,
@@ -12041,7 +12042,6 @@ window.allHeroes =
         ],
         "passives": [],
         "family": "jotunheim",
-        "image": "https://i.imgur.com/aEGEu4Y.jpg",
         "costume_id": 1,
         "originalIndex": 185,
         "lb1": {
@@ -12087,6 +12087,7 @@ window.allHeroes =
         "source": "Alliance - Knights Clash",
         "Release date": "2023-10-18",
         "specialId": "sapphire_eyes",
+        "heroId": "castle_stag_lysanor",
         "star": 5,
         "power": 980,
         "attack": 910,
@@ -12102,7 +12103,6 @@ window.allHeroes =
             "Health Recovery on Buff Received: This character recovers 5% health when they receive a buff or a positive stack."
         ],
         "family": "stag",
-        "image": "https://i.imgur.com/Er9WfxT.jpg",
         "costume_id": 0,
         "originalIndex": 186,
         "lb1": {
@@ -12154,6 +12154,7 @@ window.allHeroes =
         "source": "Super Elementals",
         "Release date": "2025-04-25",
         "specialId": "slimy_balls",
+        "heroId": "slime_magistine",
         "star": 5,
         "power": 1191,
         "attack": 1252,
@@ -12170,7 +12171,6 @@ window.allHeroes =
             "Slime Minion Split: If this character loses more than 25% of max health at once, they summon a Slime Mega Minion for themselves with 50% HP and 40% attack."
         ],
         "family": "slime",
-        "image": "https://imgur.com/7ut41LY.jpg",
         "costume_id": 0,
         "originalIndex": 187,
         "lb1": {
@@ -12222,6 +12222,7 @@ window.allHeroes =
         "source": "S1 - Classic",
         "Release date": "2017-03-01",
         "specialId": "strike_of_the_ancients",
+        "heroId": "exalted_warrior",
         "star": 5,
         "power": 754,
         "attack": 793,
@@ -12233,7 +12234,6 @@ window.allHeroes =
         ],
         "passives": [],
         "family": "classic",
-        "image": "https://i.imgur.com/JpMZ0xh.jpg",
         "costume_id": 0,
         "originalIndex": 188,
         "lb1": {
@@ -12280,6 +12280,7 @@ window.allHeroes =
         "source": "Costume Quest",
         "Release date": "2020-05-18",
         "specialId": "strike_of_the_ancients",
+        "heroId": "exalted_warrior_costume_ice",
         "star": 5,
         "power": 849,
         "attack": 800,
@@ -12291,7 +12292,6 @@ window.allHeroes =
         ],
         "passives": [],
         "family": "classic",
-        "image": "https://i.imgur.com/A0jPrh9.jpg",
         "costume_id": 1,
         "originalIndex": 189,
         "lb1": {
@@ -12338,6 +12338,7 @@ window.allHeroes =
         "source": "Costume Quest",
         "Release date": "2022-10-31",
         "specialId": "strike_of_the_ancients",
+        "heroId": "exalted_warrior_costume_underworld",
         "star": 5,
         "power": 964,
         "attack": 955,
@@ -12349,14 +12350,13 @@ window.allHeroes =
         ],
         "passives": [],
         "family": "classic",
-        "image": "https://i.imgur.com/npmSFHz.jpg",
         "costume_id": 2,
         "originalIndex": 190,
         "lb1": {
             "power": 1030,
             "attack": 1030,
             "defense": 892,
-            "health": 2109
+            "health": 2106
         },
         "lb2": {
             "power": 1161,
@@ -12397,6 +12397,7 @@ window.allHeroes =
         "source": "Costume Quest",
         "Release date": "2024-01-22",
         "specialId": "strike_of_the_ancients",
+        "heroId": "exalted_warrior_costume_cute",
         "star": 5,
         "power": 1130,
         "attack": 1178,
@@ -12411,7 +12412,6 @@ window.allHeroes =
             "Toon: 75% extra chance to resist all status ailments, mana reductions and buff dispels."
         ],
         "family": "classic",
-        "image": "https://i.imgur.com/bakqHYB.jpg",
         "costume_id": 3,
         "originalIndex": 191,
         "lb1": {
@@ -12465,6 +12465,7 @@ window.allHeroes =
         "source": "Costume Quest",
         "Release date": "2025-03-11",
         "specialId": "strike_of_the_ancients",
+        "heroId": "exalted_warrior_costume_glass",
         "star": 5,
         "power": 1236,
         "attack": 1351,
@@ -12479,7 +12480,6 @@ window.allHeroes =
             "Glass: 60% extra chance to reflect status ailments back to the attacker."
         ],
         "family": "classic",
-        "image": "https://i.imgur.com/EJome7K.jpg",
         "costume_id": 4,
         "originalIndex": 192,
         "lb1": {
@@ -12533,6 +12533,7 @@ window.allHeroes =
         "source": "Tower - Owls",
         "Release date": "2024-03-13",
         "specialId": "healing_mirror",
+        "heroId": "owl_mariol",
         "star": 5,
         "power": 1047,
         "attack": 1060,
@@ -12547,7 +12548,6 @@ window.allHeroes =
             "Reduce Mana Gain from Special Skills: Reduces the amount of mana increased by Special Skill by -80%. The effect applies to all enemies in the battle."
         ],
         "family": "owl",
-        "image": "https://i.imgur.com/NhlQa4M.jpg",
         "costume_id": 0,
         "originalIndex": 193,
         "lb1": {
@@ -12599,6 +12599,7 @@ window.allHeroes =
         "source": "Monthly Event - Springvale",
         "Release date": "2018-03-28",
         "specialId": "reckless_finisher",
+        "heroId": "rabbit_blue",
         "star": 5,
         "power": 763,
         "attack": 795,
@@ -12610,7 +12611,6 @@ window.allHeroes =
         ],
         "passives": [],
         "family": "springvale",
-        "image": "https://i.imgur.com/Ti2FM1v.jpg",
         "costume_id": 0,
         "originalIndex": 194,
         "lb1": {
@@ -12657,6 +12657,7 @@ window.allHeroes =
         "source": "Monthly Event - Springvale",
         "Release date": "2022-03-21",
         "specialId": "reckless_finisher",
+        "heroId": "rabbit_blue_costume_riftbreaker",
         "star": 5,
         "power": 905,
         "attack": 945,
@@ -12668,7 +12669,6 @@ window.allHeroes =
         ],
         "passives": [],
         "family": "springvale",
-        "image": "https://i.imgur.com/aLTsGWG.jpg",
         "costume_id": 1,
         "originalIndex": 195,
         "lb1": {
@@ -12717,6 +12717,7 @@ window.allHeroes =
         "source": "Challenge - Gargoyle",
         "Release date": "2022-12-29",
         "specialId": "heretic_slayer",
+        "heroId": "gargoyle_matrera",
         "star": 5,
         "power": 850,
         "attack": 824,
@@ -12731,7 +12732,6 @@ window.allHeroes =
             "Gargoyle’s Stoneskin: Every time this Gargoyle casts a Special Skill, their Stoneskin hardens. The next 4 times they receive damage, it is dropped to 1. This effect can’t be dispelled."
         ],
         "family": "gargoyle",
-        "image": "https://i.imgur.com/5yPwJb7.jpg",
         "costume_id": 0,
         "originalIndex": 196,
         "lb1": {
@@ -12786,6 +12786,7 @@ window.allHeroes =
         "source": "Legends Summon - Hero of the Month",
         "Release date": "2024-11-01",
         "specialId": "freezing_fairy_mist",
+        "heroId": "ice_god_mene",
         "star": 5,
         "power": 1034,
         "attack": 1089,
@@ -12802,7 +12803,6 @@ window.allHeroes =
             "Mana on Frost: This character gains 5% mana each time an enemy receives Frost damage."
         ],
         "family": 2024,
-        "image": "https://i.imgur.com/yERCkFp.jpg",
         "costume_id": 0,
         "originalIndex": 197,
         "lb1": {
@@ -12852,6 +12852,7 @@ window.allHeroes =
         "source": "Legends Summon - Hero of the Month",
         "Release date": "2019-08-01",
         "specialId": "wrath_of_tundra",
+        "heroId": "ice_god_miki",
         "star": 5,
         "power": 770,
         "attack": 712,
@@ -12866,7 +12867,6 @@ window.allHeroes =
             "Resist Special Skill Blocking: This character has an innate resistance against status aliments that Block Special Skills."
         ],
         "family": 2019,
-        "image": "https://i.imgur.com/FM0GgVz.jpg",
         "costume_id": 0,
         "originalIndex": 198,
         "lb1": {
@@ -12916,6 +12916,7 @@ window.allHeroes =
         "source": "Alliance - Musketeers",
         "Release date": "2023-03-08",
         "specialId": "masterful_manipulation",
+        "heroId": "musketeer_milady_de_winter",
         "star": 5,
         "power": 866,
         "attack": 832,
@@ -12931,7 +12932,6 @@ window.allHeroes =
             "Damage on Special Skill and Cover Damage: When this character receives damage from Special Skills or in place of a character in Cover, there’s a 60% chance to deal 20% of the received damage on all enemies."
         ],
         "family": "musketeer",
-        "image": "https://i.imgur.com/NEdggUL.jpg",
         "costume_id": 0,
         "originalIndex": 199,
         "lb1": {
@@ -12990,6 +12990,7 @@ window.allHeroes =
         "source": "Tower - Magic",
         "Release date": "2021-09-15",
         "specialId": "restoration_and_annihilation",
+        "heroId": "magic_milena",
         "star": 5,
         "power": 813,
         "attack": 784,
@@ -13008,7 +13009,6 @@ window.allHeroes =
             "Mana on Special: When this character casts their Special Skill, they have a 50% chance to give 10% mana to all allies. If the Special Skill is fully charged, the chance is 100%."
         ],
         "family": "magic",
-        "image": "https://i.imgur.com/30AXxJs.jpg",
         "costume_id": 0,
         "originalIndex": 200,
         "lb1": {
@@ -13067,6 +13067,7 @@ window.allHeroes =
         "source": "Tower - Magic",
         "Release date": "2025-04-17",
         "specialId": "restoration_and_annihilation",
+        "heroId": "magic_milena_costume_ice",
         "star": 5,
         "power": 1206,
         "attack": 1241,
@@ -13086,7 +13087,6 @@ window.allHeroes =
             "Weaker Mega Minions: Enemy Mega Minions have -75% HP."
         ],
         "family": "magic",
-        "image": "https://imgur.com/hwGD9H1.jpg",
         "costume_id": 1,
         "originalIndex": 201,
         "lb1": {
@@ -13096,10 +13096,10 @@ window.allHeroes =
             "health": 2367
         },
         "lb2": {
-            "power": 1457,
+            "power": 1458,
             "attack": 1530,
             "defense": 1493,
-            "health": 2708
+            "health": 2711
         },
         "cn_skill_info": [
             {
@@ -13143,6 +13143,7 @@ window.allHeroes =
         "source": "Monthly Event - Morlovia",
         "Release date": "2022-10-03",
         "specialId": "litter_of_kittens",
+        "heroId": "halloween_miriam_and_midnight",
         "star": 5,
         "power": 850,
         "attack": 793,
@@ -13157,7 +13158,6 @@ window.allHeroes =
             "Steal Buff: When this character casts their Special Skill, they have a 50% chance to steal the newest dispellable buff from a random enemy that has buffs. If no enemy has buffs, deals 70% damage to all enemies."
         ],
         "family": "morlovia",
-        "image": "https://i.imgur.com/eyJkRvq.jpg",
         "costume_id": 0,
         "originalIndex": 202,
         "lb1": {
@@ -13208,6 +13208,7 @@ window.allHeroes =
         "source": "S2 - Atlantis",
         "Release date": "2019-08-01",
         "specialId": "chain_strike",
+        "heroId": "s2_mercenary_woman",
         "star": 5,
         "power": 774,
         "attack": 723,
@@ -13220,7 +13221,6 @@ window.allHeroes =
         ],
         "passives": [],
         "family": "lagoon",
-        "image": "https://i.imgur.com/YC2DFg3.jpg",
         "costume_id": 0,
         "originalIndex": 203,
         "lb1": {
@@ -13270,6 +13270,7 @@ window.allHeroes =
         "source": "S2 - Atlantis",
         "Release date": "2023-01-09",
         "specialId": "chain_strike",
+        "heroId": "s2_mercenary_woman_costume_dancer",
         "star": 5,
         "power": 946,
         "attack": 938,
@@ -13282,7 +13283,6 @@ window.allHeroes =
         ],
         "passives": [],
         "family": "lagoon",
-        "image": "https://i.imgur.com/ZELxM85.jpg",
         "costume_id": 1,
         "originalIndex": 204,
         "lb1": {
@@ -13331,6 +13331,7 @@ window.allHeroes =
         "source": "Monthly Event - Springvale",
         "Release date": "2024-03-18",
         "specialId": "mooing_for_a_fight",
+        "heroId": "easter_miss_ethel",
         "star": 5,
         "power": 999,
         "attack": 1009,
@@ -13343,14 +13344,13 @@ window.allHeroes =
         ],
         "passives": [],
         "family": "springvale",
-        "image": "https://i.imgur.com/B15IDKf.jpg",
         "costume_id": 0,
         "originalIndex": 205,
         "lb1": {
             "power": 1067,
             "attack": 1087,
             "defense": 1030,
-            "health": 1958
+            "health": 1955
         },
         "lb2": {
             "power": 1203,
@@ -13392,6 +13392,7 @@ window.allHeroes =
         "source": "Legends Summon",
         "Release date": "2024-05-03",
         "specialId": "cut_down_the_competition",
+        "heroId": "champions_mistra",
         "star": 5,
         "power": 1042,
         "attack": 999,
@@ -13410,7 +13411,6 @@ window.allHeroes =
             "Resist Attack Ailments: This character has innate resistance against status ailments that affect attack."
         ],
         "family": "champions",
-        "image": "https://i.imgur.com/NaHaaPY.jpg",
         "costume_id": 0,
         "originalIndex": 206,
         "lb1": {
@@ -13461,6 +13461,7 @@ window.allHeroes =
         "source": "Monthly Event - Beach Party",
         "Release date": "2023-06-12",
         "specialId": "seastar_burst",
+        "heroId": "beachparty_misty",
         "star": 5,
         "power": 875,
         "attack": 881,
@@ -13476,7 +13477,6 @@ window.allHeroes =
             "Damage over time on Special: When this character casts their Special Skill, all enemies receive 210 Water damage over 2 turns."
         ],
         "family": "beachparty",
-        "image": "https://i.imgur.com/qRuu0M1.jpg",
         "costume_id": 0,
         "originalIndex": 207,
         "lb1": {
@@ -13528,6 +13528,7 @@ window.allHeroes =
         "source": "Challenge - Beowulf",
         "Release date": "2025-02-13",
         "specialId": "chilling_counterattack",
+        "heroId": "beowulf_modthryth",
         "star": 5,
         "power": 1183,
         "attack": 1172,
@@ -13548,14 +13549,13 @@ window.allHeroes =
             "Resist Buff Immunity: This character has innate resistance against ailments that give immunity to new buffs."
         ],
         "family": "beowulf",
-        "image": "https://i.imgur.com/oiGz5nc.jpg",
         "costume_id": 0,
         "originalIndex": 208,
         "lb1": {
             "power": 1265,
             "attack": 1263,
             "defense": 1334,
-            "health": 2322
+            "health": 2319
         },
         "lb2": {
             "power": 1429,
@@ -13604,6 +13604,7 @@ window.allHeroes =
         "source": "Astral Summon",
         "Release date": "2024-08-19",
         "specialId": "astral_myrrh",
+        "heroId": "astral_mooncure",
         "star": 5,
         "power": 1086,
         "attack": 1065,
@@ -13620,7 +13621,6 @@ window.allHeroes =
             "Share Received Damage: 20% of damage received by this charater is shared with other allies."
         ],
         "family": "astralelves",
-        "image": "https://i.imgur.com/K8e9yy9.jpg",
         "costume_id": 0,
         "originalIndex": 209,
         "lb1": {
@@ -13673,6 +13673,7 @@ window.allHeroes =
         "source": "S4 - Wilderness",
         "Release date": "2021-06-17",
         "specialId": "deathly_glaive",
+        "heroId": "s4_morel",
         "star": 5,
         "power": 807,
         "attack": 772,
@@ -13686,7 +13687,6 @@ window.allHeroes =
             "Increased Special Skill Damage: The first time this character casts a Special Skill that does damage, an additional 30% is added to its power."
         ],
         "family": "underwild",
-        "image": "https://i.imgur.com/BbpdvD9.jpg",
         "costume_id": 0,
         "originalIndex": 210,
         "lb1": {
@@ -13737,6 +13737,7 @@ window.allHeroes =
         "source": "S4 - Wilderness",
         "Release date": "2023-07-20",
         "specialId": "deathly_glaive",
+        "heroId": "s4_morel_costume_sage",
         "star": 5,
         "power": 1021,
         "attack": 1071,
@@ -13752,7 +13753,6 @@ window.allHeroes =
             "Increased Damage Against Boosted Health: After Special Skill cast, all allies' normal attacks and Special Skills deal +70% damage against targets with boosted health for 4 turns."
         ],
         "family": "underwild",
-        "image": "https://i.imgur.com/MAsmJsS.jpg",
         "costume_id": 1,
         "originalIndex": 211,
         "lb1": {
@@ -13803,6 +13803,7 @@ window.allHeroes =
         "source": "Monthly Event - Winter",
         "Release date": "2021-12-01",
         "specialId": "herring_blaster",
+        "heroId": "christmas_mr_pengi",
         "star": 5,
         "power": 821,
         "attack": 803,
@@ -13816,7 +13817,6 @@ window.allHeroes =
         ],
         "passives": [],
         "family": "christmas",
-        "image": "https://i.imgur.com/BbxUIy4.jpg",
         "costume_id": 0,
         "originalIndex": 212,
         "lb1": {
@@ -13874,6 +13874,7 @@ window.allHeroes =
         "source": "Monthly Event - Winter",
         "Release date": "2024-12-01",
         "specialId": "herring_blaster",
+        "heroId": "christmas_mr_pengi_costume_snowboarder",
         "star": 5,
         "power": 1064,
         "attack": 1084,
@@ -13887,20 +13888,19 @@ window.allHeroes =
         ],
         "passives": [],
         "family": "christmas",
-        "image": "https://i.imgur.com/kNrkptI.jpg",
         "costume_id": 1,
         "originalIndex": 213,
         "lb1": {
-            "power": 1137,
+            "power": 1136,
             "attack": 1167,
             "defense": 1135,
-            "health": 2043
+            "health": 2040
         },
         "lb2": {
-            "power": 1283,
+            "power": 1282,
             "attack": 1336,
             "defense": 1298,
-            "health": 2338
+            "health": 2335
         },
         "cn_skill_info": [
             {
@@ -13946,6 +13946,7 @@ window.allHeroes =
         "source": "Covenant Summon",
         "Release date": "2024-02-08",
         "specialId": "pathfinders_compass",
+        "heroId": "construct_nautica",
         "star": 5,
         "power": 995,
         "attack": 997,
@@ -13964,7 +13965,6 @@ window.allHeroes =
             " * The healing is scaled by the amount of charge in the Core. All charge is exchausted when the Core is activated."
         ],
         "family": "construct",
-        "image": "https://i.imgur.com/iuMlpaP.jpg",
         "costume_id": 0,
         "originalIndex": 214,
         "lb1": {
@@ -14018,6 +14018,7 @@ window.allHeroes =
         "source": "Three Kingdoms Summon",
         "Release date": "2023-06-19",
         "specialId": "wrath_of_the_nine_beaks",
+        "heroId": "journey_nineheaded_beast",
         "star": 5,
         "power": 939,
         "attack": 896,
@@ -14035,7 +14036,6 @@ window.allHeroes =
             "Mana on Buff Received: This characters has a 50% chance to recover 10% mana when they receive a buff or a positive stack."
         ],
         "family": "journey",
-        "image": "https://i.imgur.com/8Uj8Jmv.jpg",
         "costume_id": 0,
         "originalIndex": 215,
         "lb1": {
@@ -14094,6 +14094,7 @@ window.allHeroes =
         "source": "Super Elementals",
         "Release date": "2024-06-17",
         "specialId": "ice_and_slice",
+        "heroId": "elemental_nylora",
         "star": 5,
         "power": 1064,
         "attack": 1128,
@@ -14112,7 +14113,6 @@ window.allHeroes =
             " - Received elemental damage: -10%"
         ],
         "family": "superelemental",
-        "image": "https://i.imgur.com/NBQDloj.jpg",
         "costume_id": 0,
         "originalIndex": 216,
         "lb1": {
@@ -14167,6 +14167,7 @@ window.allHeroes =
         "source": "Challenge - Secrets of the Opera",
         "Release date": "2023-06-20",
         "specialId": "dance_of_the_swan",
+        "heroId": "ballerina_odette",
         "star": 5,
         "power": 955,
         "attack": 887,
@@ -14187,7 +14188,6 @@ window.allHeroes =
             "Resist Defense Ailments: This character has innate resistance against status ailments that affect defense. Doesn’t apply to status ailments that affect elemental defense."
         ],
         "family": "opera",
-        "image": "https://i.imgur.com/ATDUydH.jpg",
         "costume_id": 0,
         "originalIndex": 217,
         "lb1": {
@@ -14247,6 +14247,7 @@ window.allHeroes =
         "source": "Tower - Ninjas",
         "Release date": "2023-01-11",
         "specialId": "standing_fortress",
+        "heroId": "ninja_oniwakamaru",
         "star": 5,
         "power": 866,
         "attack": 739,
@@ -14269,7 +14270,6 @@ window.allHeroes =
         ],
         "passives": [],
         "family": "ninja",
-        "image": "https://i.imgur.com/TgO9p2o.jpg",
         "costume_id": 0,
         "originalIndex": 218,
         "lb1": {
@@ -14320,6 +14320,7 @@ window.allHeroes =
         "source": "Astral Summon",
         "Release date": "2025-07-02",
         "specialId": "lunar_bloom",
+        "heroId": "astral_dwarf_orcur",
         "star": 5,
         "power": 1216,
         "attack": 1180,
@@ -14336,7 +14337,6 @@ window.allHeroes =
             "Resist Healing Ailments: This character has innate resistance against status ailments that affect healing."
         ],
         "family": "astraldwarfs",
-        "image": "https://imgur.com/dgeBnW2.jpg",
         "costume_id": 0,
         "originalIndex": 219,
         "lb1": {
@@ -14386,6 +14386,7 @@ window.allHeroes =
         "source": "Monthly Event - Kalevala",
         "Release date": "2024-07-22",
         "specialId": "boreal_bash",
+        "heroId": "kalevala_otso",
         "star": 5,
         "power": 1034,
         "attack": 927,
@@ -14400,7 +14401,6 @@ window.allHeroes =
             "Power of Sisu: When this character starts a turn with low health for the first time during a battle, they recover 15% health and receive 15% mana."
         ],
         "family": "kalevala",
-        "image": "https://i.imgur.com/lO11H6h.jpg",
         "costume_id": 0,
         "originalIndex": 220,
         "lb1": {
@@ -14451,6 +14451,7 @@ window.allHeroes =
         "source": "S4 - Wilderness",
         "Release date": "2021-12-02",
         "specialId": "helping_hands",
+        "heroId": "s4_passepartout",
         "star": 5,
         "power": 811,
         "attack": 756,
@@ -14465,7 +14466,6 @@ window.allHeroes =
             "Increase Buff Duration: Duration of the first 3 buff this hero receives from Special Skills is increased by 1 turn."
         ],
         "family": "underwild",
-        "image": "https://i.imgur.com/6D1hJ1P.jpg",
         "costume_id": 0,
         "originalIndex": 221,
         "lb1": {
@@ -14518,6 +14518,7 @@ window.allHeroes =
         "source": "S4 - Wilderness",
         "Release date": "2023-10-12",
         "specialId": "helping_hands",
+        "heroId": "s4_passepartout_costume_artist",
         "star": 5,
         "power": 1026,
         "attack": 882,
@@ -14533,7 +14534,6 @@ window.allHeroes =
             "Health Boost on Special Skill: On Special Skill cast, boosts all allies’ HP by 10%."
         ],
         "family": "underwild",
-        "image": "https://i.imgur.com/mcEOLvZ.jpg",
         "costume_id": 1,
         "originalIndex": 222,
         "lb1": {
@@ -14543,8 +14543,8 @@ window.allHeroes =
             "health": 2052
         },
         "lb2": {
-            "power": 1236,
-            "attack": 1089,
+            "power": 1235,
+            "attack": 1086,
             "defense": 1435,
             "health": 2347
         },
@@ -14587,6 +14587,7 @@ window.allHeroes =
         "source": "Alliance - Moths",
         "Release date": "2025-02-20",
         "specialId": "dusk_till_dawn",
+        "heroId": "moth_pepperbleu",
         "star": 5,
         "power": 1185,
         "attack": 1229,
@@ -14603,7 +14604,6 @@ window.allHeroes =
             "Dodge Special Damage: This character has a 15% chance to dodge Special Skills that deal damage."
         ],
         "family": "moth",
-        "image": "https://i.imgur.com/zllnmP0.jpg",
         "costume_id": 0,
         "originalIndex": 223,
         "lb1": {
@@ -14663,6 +14663,7 @@ window.allHeroes =
         "source": "Legends Summon - Hero of the Month",
         "Release date": "2017-12-01",
         "specialId": "everlasting_wound",
+        "heroId": "ice_god_perseus",
         "star": 5,
         "power": 765,
         "attack": 725,
@@ -14676,7 +14677,6 @@ window.allHeroes =
         ],
         "passives": [],
         "family": 2017,
-        "image": "https://i.imgur.com/AMhR92j.jpg",
         "costume_id": 0,
         "originalIndex": 224,
         "lb1": {
@@ -14732,6 +14732,7 @@ window.allHeroes =
         "source": "Legends Summon - Hero of the Month",
         "Release date": "2022-11-28",
         "specialId": "everlasting_wound",
+        "heroId": "ice_god_perseus_costume_frozen",
         "star": 5,
         "power": 973,
         "attack": 928,
@@ -14747,14 +14748,13 @@ window.allHeroes =
             "Dispel on Special Skill: When this character casts their Special Skill, they dispel the newest status effect buff from all enemies."
         ],
         "family": 2017,
-        "image": "https://i.imgur.com/nzVNwio.jpg",
         "costume_id": 1,
         "originalIndex": 225,
         "lb1": {
             "power": 1038,
             "attack": 999,
             "defense": 947,
-            "health": 2137
+            "health": 2134
         },
         "lb2": {
             "power": 1171,
@@ -14798,6 +14798,7 @@ window.allHeroes =
         "source": "Challenge - Gargoyle",
         "Release date": "2024-02-27",
         "specialId": "one_hit_wonder",
+        "heroId": "gargoyle_pophit",
         "star": 5,
         "power": 1048,
         "attack": 1079,
@@ -14812,7 +14813,6 @@ window.allHeroes =
             "Gargoyle’s Softskin: Every time this Gargoyle casts a Special SKill, their Softskin activates. The next 3 times they receive damage, it is reduced by -90%, and they resist all status ailments and mana reduction. This effect can’t be dispelled."
         ],
         "family": "gargoyle",
-        "image": "https://i.imgur.com/Q0YpIYH.jpg",
         "costume_id": 0,
         "originalIndex": 226,
         "lb1": {
@@ -14874,6 +14874,7 @@ window.allHeroes =
         "source": "Alliance - Musketeers",
         "Release date": "2022-12-14",
         "specialId": "musketeers_mead",
+        "heroId": "musketeer_porthos",
         "star": 5,
         "power": 876,
         "attack": 852,
@@ -14889,7 +14890,6 @@ window.allHeroes =
             "Damage on Special Skill and Cover Damage: When this character receives damage from Special Skills or in place of a character in Cover, there’s a 60% chance to deal 20% of the received damage on all enemies."
         ],
         "family": "musketeer",
-        "image": "https://i.imgur.com/BwYaSTj.jpg",
         "costume_id": 0,
         "originalIndex": 227,
         "lb1": {
@@ -14942,6 +14942,7 @@ window.allHeroes =
         "source": "Astral Summon",
         "Release date": "2024-12-22",
         "specialId": "frozen_path",
+        "heroId": "astral_dwarf_quari",
         "star": 5,
         "power": 1157,
         "attack": 1223,
@@ -14958,7 +14959,6 @@ window.allHeroes =
             "Perfect Accuracy: This character’s Special Skill never misses its targets."
         ],
         "family": "astraldwarfs",
-        "image": "https://i.imgur.com/eBrPD5E.jpg",
         "costume_id": 0,
         "originalIndex": 228,
         "lb1": {
@@ -15021,6 +15021,7 @@ window.allHeroes =
         "source": "Super Elementals",
         "Release date": "2023-09-11",
         "specialId": "pineapple_barbeque",
+        "heroId": "elemental_quinn",
         "star": 5,
         "power": 954,
         "attack": 902,
@@ -15042,7 +15043,6 @@ window.allHeroes =
             " - Received elemental damage: -10%"
         ],
         "family": "superelemental",
-        "image": "https://i.imgur.com/deN3GU2.jpg",
         "costume_id": 0,
         "originalIndex": 229,
         "lb1": {
@@ -15092,6 +15092,7 @@ window.allHeroes =
         "source": "Alliance - Knights Clash",
         "Release date": "2022-01-05",
         "specialId": "echoes_of_pain",
+        "heroId": "castle_raven_quintin",
         "star": 5,
         "power": 822,
         "attack": 821,
@@ -15103,7 +15104,6 @@ window.allHeroes =
         ],
         "passives": [],
         "family": "raven",
-        "image": "https://i.imgur.com/8ISALDU.jpg",
         "costume_id": 0,
         "originalIndex": 230,
         "lb1": {
@@ -15153,6 +15153,7 @@ window.allHeroes =
         "source": "Legends Summon - Hero of the Month",
         "Release date": "2020-06-01",
         "specialId": "ice_treatment",
+        "heroId": "ice_god_raffaele",
         "star": 5,
         "power": 773,
         "attack": 650,
@@ -15168,7 +15169,6 @@ window.allHeroes =
             "Resist Attack Ailments: This character has innate resistance against status ailments that affect Attack."
         ],
         "family": 2020,
-        "image": "https://i.imgur.com/O0p11HF.jpg",
         "costume_id": 0,
         "originalIndex": 231,
         "lb1": {
@@ -15224,6 +15224,7 @@ window.allHeroes =
         "source": "Challenge Festival II",
         "Release date": "2021-08-05",
         "specialId": "cleansing_determination",
+        "heroId": "slayer_rian",
         "star": 5,
         "power": 808,
         "attack": 725,
@@ -15240,7 +15241,6 @@ window.allHeroes =
             "Resist Damage from Status Effects: This charater has innate resistance against incoming damage from status effects."
         ],
         "family": "slayer",
-        "image": "https://i.imgur.com/pgR8NJw.jpg",
         "costume_id": 0,
         "originalIndex": 232,
         "lb1": {
@@ -15298,6 +15298,7 @@ window.allHeroes =
         "source": "S1 - Classic",
         "Release date": "2017-03-01",
         "specialId": "cloud_hammer",
+        "heroId": "nordic_male_lord",
         "star": 5,
         "power": 755,
         "attack": 644,
@@ -15309,7 +15310,6 @@ window.allHeroes =
         ],
         "passives": [],
         "family": "classic",
-        "image": "https://i.imgur.com/G5NAe4a.jpg",
         "costume_id": 0,
         "originalIndex": 233,
         "lb1": {
@@ -15356,6 +15356,7 @@ window.allHeroes =
         "source": "Costume Quest",
         "Release date": "2020-01-01",
         "specialId": "cloud_hammer",
+        "heroId": "nordic_male_lord_costume_senior",
         "star": 5,
         "power": 849,
         "attack": 734,
@@ -15367,7 +15368,6 @@ window.allHeroes =
         ],
         "passives": [],
         "family": "classic",
-        "image": "https://i.imgur.com/WKQthMP.jpg",
         "costume_id": 1,
         "originalIndex": 234,
         "lb1": {
@@ -15415,6 +15415,7 @@ window.allHeroes =
         "source": "Costume Quest",
         "Release date": "2023-09-04",
         "specialId": "cloud_hammer",
+        "heroId": "nordic_male_lord_costume_injustice",
         "star": 5,
         "power": 965,
         "attack": 950,
@@ -15426,7 +15427,6 @@ window.allHeroes =
         ],
         "passives": [],
         "family": "classic",
-        "image": "https://i.imgur.com/7TMtgd4.jpg",
         "costume_id": 2,
         "originalIndex": 235,
         "lb1": {
@@ -15474,6 +15474,7 @@ window.allHeroes =
         "source": "Costume Quest",
         "Release date": "2023-10-30",
         "specialId": "cloud_hammer",
+        "heroId": "nordic_male_lord_costume_cute",
         "star": 5,
         "power": 1130,
         "attack": 1145,
@@ -15488,7 +15489,6 @@ window.allHeroes =
             "Toon: 75% extra chance to resist all status ailments, mana reductions and buff dispels."
         ],
         "family": "classic",
-        "image": "https://i.imgur.com/2rEfoQ7.jpg",
         "costume_id": 3,
         "originalIndex": 236,
         "lb1": {
@@ -15542,6 +15542,7 @@ window.allHeroes =
         "source": "Costume Quest",
         "Release date": "2024-12-25",
         "specialId": "cloud_hammer",
+        "heroId": "nordic_male_lord_costume_glass",
         "star": 5,
         "power": 1235,
         "attack": 1296,
@@ -15556,12 +15557,11 @@ window.allHeroes =
             "Glass: 60% extra chance to reflect status ailments back to the attacker."
         ],
         "family": "classic",
-        "image": "https://i.imgur.com/zd4avma.jpg",
         "costume_id": 4,
         "originalIndex": 237,
         "lb1": {
-            "power": 1322,
-            "attack": 1398,
+            "power": 1321,
+            "attack": 1395,
             "defense": 1239,
             "health": 2579
         },
@@ -15611,6 +15611,7 @@ window.allHeroes =
         "source": "Challenge Festival I",
         "Release date": "2019-12-01",
         "specialId": "legerdemain",
+        "heroId": "fables_rumpelstiltskin",
         "star": 5,
         "power": 767,
         "attack": 733,
@@ -15630,7 +15631,6 @@ window.allHeroes =
         ],
         "passives": [],
         "family": "grimforest",
-        "image": "https://i.imgur.com/v7aCbsm.jpg",
         "costume_id": 0,
         "originalIndex": 238,
         "lb1": {
@@ -15700,6 +15700,7 @@ window.allHeroes =
         "source": "Challenge Festival I",
         "Release date": "2022-06-16",
         "specialId": "legerdemain",
+        "heroId": "fables_rumpelstiltskin_costume_eternal",
         "star": 5,
         "power": 961,
         "attack": 918,
@@ -15719,14 +15720,13 @@ window.allHeroes =
         ],
         "passives": [],
         "family": "grimforest",
-        "image": "https://i.imgur.com/G2za8YY.jpg",
         "costume_id": 1,
         "originalIndex": 239,
         "lb1": {
-            "power": 1026,
+            "power": 1025,
             "attack": 989,
             "defense": 951,
-            "health": 2063
+            "health": 2060
         },
         "lb2": {
             "power": 1155,
@@ -15783,6 +15783,7 @@ window.allHeroes =
         "source": "S4 - Wilderness",
         "Release date": "2021-05-20",
         "specialId": "vengeful_backstab",
+        "heroId": "s4_russula",
         "star": 5,
         "power": 807,
         "attack": 793,
@@ -15798,7 +15799,6 @@ window.allHeroes =
             "Decrease Ailment Duration: Duration of the first 3 status ailments this character receives from Special Skill is decreased by 1 turn."
         ],
         "family": "underwild",
-        "image": "https://i.imgur.com/MqnrIZ3.jpg",
         "costume_id": 0,
         "originalIndex": 240,
         "lb1": {
@@ -15855,6 +15855,7 @@ window.allHeroes =
         "source": "S4 - Wilderness",
         "Release date": "2024-01-04",
         "specialId": "vengeful_backstab",
+        "heroId": "s4_russula_costume_painter",
         "star": 5,
         "power": 1021,
         "attack": 1054,
@@ -15871,7 +15872,6 @@ window.allHeroes =
             "Increased Damage Against Boosted Health: After this character casts their Special Skill cast, all allies’ normal attacks and Special Skills deal +70% damage against targets with boosted health for 3 turns."
         ],
         "family": "underwild",
-        "image": "https://i.imgur.com/KzLvPms.jpg",
         "costume_id": 1,
         "originalIndex": 241,
         "lb1": {
@@ -15931,6 +15931,7 @@ window.allHeroes =
         "source": "Covenant Summon",
         "Release date": "2025-02-02",
         "specialId": "ill_bring_you_back",
+        "heroId": "fox_sable",
         "star": 5,
         "power": 1158,
         "attack": 1225,
@@ -15948,7 +15949,6 @@ window.allHeroes =
             "Decreased Healing: All enemies get -50% healing."
         ],
         "family": "fox",
-        "image": "https://i.imgur.com/rZTJzw7.jpg",
         "costume_id": 0,
         "originalIndex": 242,
         "lb1": {
@@ -15958,10 +15958,10 @@ window.allHeroes =
             "health": 1935
         },
         "lb2": {
-            "power": 1374,
+            "power": 1399,
             "attack": 1511,
             "defense": 1556,
-            "health": 2032
+            "health": 2214
         },
         "cn_skill_info": [
             {
@@ -16006,6 +16006,7 @@ window.allHeroes =
         "source": "Mystery - Shadow Summon",
         "Release date": "2025-07-08",
         "specialId": "deranged_existence",
+        "heroId": "shadow_salvatore",
         "star": 5,
         "power": 1218,
         "attack": 1184,
@@ -16020,14 +16021,13 @@ window.allHeroes =
         ],
         "passives": [],
         "family": "investigator",
-        "image": "https://imgur.com/kk1oySX.jpg",
         "costume_id": 0,
         "originalIndex": 243,
         "lb1": {
             "power": 1303,
             "attack": 1276,
             "defense": 1343,
-            "health": 2544
+            "health": 2541
         },
         "lb2": {
             "power": 1473,
@@ -16074,6 +16074,7 @@ window.allHeroes =
         "source": "Legends Summon",
         "Release date": "2023-11-29",
         "specialId": "thousand_palm_strikes",
+        "heroId": "champions_satori",
         "star": 5,
         "power": 982,
         "attack": 992,
@@ -16090,7 +16091,6 @@ window.allHeroes =
             "Mana on Buff Dispel: This character receives 10% mana each time a buff is dispelled from them. This effect can activate only once per turn."
         ],
         "family": "champions",
-        "image": "https://i.imgur.com/pKtN1Ok.jpg",
         "costume_id": 0,
         "originalIndex": 244,
         "lb1": {
@@ -16145,6 +16145,7 @@ window.allHeroes =
         "source": "Tower - Ninjas",
         "Release date": "2024-11-19",
         "specialId": "purifying_ki",
+        "heroId": "ninja_sawano",
         "star": 5,
         "power": 1116,
         "attack": 1112,
@@ -16168,7 +16169,6 @@ window.allHeroes =
             "Decreased Minion Health: Enemy Minions inherit -50% less Health when summoned."
         ],
         "family": "ninja",
-        "image": "https://i.imgur.com/iP6Lloh.jpg",
         "costume_id": 0,
         "originalIndex": 245,
         "lb1": {
@@ -16219,6 +16219,7 @@ window.allHeroes =
         "source": "Monster Island Summon",
         "Release date": "2024-08-13",
         "specialId": "chitin_cage",
+        "heroId": "monster_hunter_sigyn",
         "star": 5,
         "power": 1134,
         "attack": 1159,
@@ -16235,14 +16236,13 @@ window.allHeroes =
             "Damage over Time on Special: When this character casts their Special Skill, they give a Hunter’s Mark on a random enemy. The target receives 150 damage over 3 turns. If a target already has this effect, the duration will be refreshed and the damage will be increased by 150, up to 1500 damage in total."
         ],
         "family": "plainshunter",
-        "image": "https://i.imgur.com/JtNxfb8.jpg",
         "costume_id": 0,
         "originalIndex": 246,
         "lb1": {
             "power": 1212,
             "attack": 1249,
             "defense": 1163,
-            "health": 2322
+            "health": 2319
         },
         "lb2": {
             "power": 1369,
@@ -16287,6 +16287,7 @@ window.allHeroes =
         "source": "Legends Summon - Hero of the Month",
         "Release date": "2024-07-01",
         "specialId": "conjure_the_azure_spirit",
+        "heroId": "ice_god_sini",
         "star": 5,
         "power": 999,
         "attack": 1067,
@@ -16303,7 +16304,6 @@ window.allHeroes =
             "Status Effect on Mana Reduction: This character get +30% attack for 3 turns when their mana is reduced."
         ],
         "family": 2024,
-        "image": "https://i.imgur.com/IV4i4UQ.jpg",
         "costume_id": 0,
         "originalIndex": 247,
         "lb1": {
@@ -16360,6 +16360,7 @@ window.allHeroes =
         "source": "Alliance - Knights Clash",
         "Release date": "2024-06-05",
         "specialId": "gilded_antlers",
+        "heroId": "castle_stag_siofra",
         "star": 5,
         "power": 1060,
         "attack": 1091,
@@ -16375,7 +16376,6 @@ window.allHeroes =
             "Health Recovery on Buff Received: This character recovers 5% health when they receive a buff or a positive stack."
         ],
         "family": "stag",
-        "image": "https://i.imgur.com/kkNu861.jpg",
         "costume_id": 0,
         "originalIndex": 248,
         "lb1": {
@@ -16432,6 +16432,7 @@ window.allHeroes =
         "source": "S3 - Valhalla",
         "Release date": "2020-06-25",
         "specialId": "iceberg_crush",
+        "heroId": "s3_skadi",
         "star": 5,
         "power": 788,
         "attack": 696,
@@ -16445,7 +16446,6 @@ window.allHeroes =
         ],
         "passives": [],
         "family": "jotunheim",
-        "image": "https://i.imgur.com/MzjdnYC.jpg",
         "costume_id": 0,
         "originalIndex": 249,
         "lb1": {
@@ -16504,6 +16504,7 @@ window.allHeroes =
         "source": "S3 - Valhalla",
         "Release date": "2022-07-04",
         "specialId": "iceberg_crush",
+        "heroId": "s3_skadi_costume_ravager",
         "star": 5,
         "power": 987,
         "attack": 938,
@@ -16517,7 +16518,6 @@ window.allHeroes =
         ],
         "passives": [],
         "family": "jotunheim",
-        "image": "https://i.imgur.com/SWH0vbH.jpg",
         "costume_id": 1,
         "originalIndex": 250,
         "lb1": {
@@ -16577,6 +16577,7 @@ window.allHeroes =
         "source": "Covenant Summon",
         "Release date": "2024-08-09",
         "specialId": "searing_frost",
+        "heroId": "construct_skarn",
         "star": 5,
         "power": 1083,
         "attack": 1097,
@@ -16594,7 +16595,6 @@ window.allHeroes =
             " * The poison damage is scaled by the amount of charge in the Core. All charge is exhausted when the Core is activated."
         ],
         "family": "construct",
-        "image": "https://i.imgur.com/jl8sclm.jpg",
         "costume_id": 0,
         "originalIndex": 251,
         "lb1": {
@@ -16645,6 +16645,7 @@ window.allHeroes =
         "source": "Super Elementals",
         "Release date": "2024-10-30",
         "specialId": "throwing_daggers",
+        "heroId": "slime_slimgo",
         "star": 5,
         "power": 1145,
         "attack": 1205,
@@ -16660,14 +16661,13 @@ window.allHeroes =
             "Slime Minion Split: If this character loses more than 25% of max health at once, they summon a Slime Mega Minion for themselves with 50% HP and 40% attack."
         ],
         "family": "slime",
-        "image": "https://i.imgur.com/TOPTa45.jpg",
         "costume_id": 0,
         "originalIndex": 252,
         "lb1": {
             "power": 1224,
             "attack": 1298,
             "defense": 1254,
-            "health": 2100
+            "health": 2097
         },
         "lb2": {
             "power": 1382,
@@ -16713,6 +16713,7 @@ window.allHeroes =
         "source": "Challenge Festival I",
         "Release date": "2019-12-01",
         "specialId": "enchanted_edge",
+        "heroId": "fables_snow_white",
         "star": 5,
         "power": 780,
         "attack": 756,
@@ -16724,7 +16725,6 @@ window.allHeroes =
         ],
         "passives": [],
         "family": "grimforest",
-        "image": "https://i.imgur.com/EVw3AO1.jpg",
         "costume_id": 0,
         "originalIndex": 253,
         "lb1": {
@@ -16785,6 +16785,7 @@ window.allHeroes =
         "source": "Challenge Festival I",
         "Release date": "2021-12-15",
         "specialId": "enchanted_edge",
+        "heroId": "fables_snow_white_costume_slayer",
         "star": 5,
         "power": 976,
         "attack": 990,
@@ -16797,7 +16798,6 @@ window.allHeroes =
         ],
         "passives": [],
         "family": "grimforest",
-        "image": "https://i.imgur.com/ko9NEXz.jpg",
         "costume_id": 1,
         "originalIndex": 254,
         "lb1": {
@@ -16854,6 +16854,7 @@ window.allHeroes =
         "source": "S5 - Dune",
         "Release date": "2022-04-21",
         "specialId": "jaws_of_the_river",
+        "heroId": "s5_sobek",
         "star": 5,
         "power": 858,
         "attack": 859,
@@ -16869,7 +16870,6 @@ window.allHeroes =
             " * All enemies receive 255 Sand damage over 3 turns."
         ],
         "family": "sun",
-        "image": "https://i.imgur.com/3Y3v4bs.jpg",
         "costume_id": 0,
         "originalIndex": 255,
         "lb1": {
@@ -16917,6 +16917,7 @@ window.allHeroes =
         "source": "S5 - Dune",
         "Release date": "2024-07-13",
         "specialId": "jaws_of_the_river",
+        "heroId": "s5_sobek_costume_guardian",
         "star": 5,
         "power": 1201,
         "attack": 1212,
@@ -16935,7 +16936,6 @@ window.allHeroes =
             "Increased Special Skill Damage: The first time this character casts a Special Skill that deals damage an additional 50% is added to its power."
         ],
         "family": "sun",
-        "image": "https://i.imgur.com/E4kLEt9.jpg",
         "costume_id": 1,
         "originalIndex": 256,
         "lb1": {
@@ -16994,6 +16994,7 @@ window.allHeroes =
         "source": "Three Kingdoms Summon",
         "Release date": "2025-05-22",
         "specialId": "righteous_strike",
+        "heroId": "outlaw_song_jiang",
         "star": 5,
         "power": 1203,
         "attack": 1236,
@@ -17015,7 +17016,6 @@ window.allHeroes =
             "Resist Bleed Damage: This character has innate resistance against Bleed.    "
         ],
         "family": "outlaws",
-        "image": "https://imgur.com/ASg7ZAz.jpg",
         "costume_id": 0,
         "originalIndex": 257,
         "lb1": {
@@ -17072,6 +17072,7 @@ window.allHeroes =
         "source": "Monster Island Summon",
         "Release date": "2023-05-06",
         "specialId": "icebound_ritual",
+        "heroId": "monster_hunter_sorrow",
         "star": 5,
         "power": 948,
         "attack": 941,
@@ -17087,7 +17088,6 @@ window.allHeroes =
             "Damage over time on special: When this character casts their Special Skill, they give a Hunter’s Mark on a random enemy. The target receives 150 damage over 3 turns. If a target already has this effect, the duration will be refreshed and the damage will be increased by 150, up to 1500 damage in total."
         ],
         "family": "abysshunter",
-        "image": "https://i.imgur.com/h1FVbFE.jpg",
         "costume_id": 0,
         "originalIndex": 258,
         "lb1": {
@@ -17138,6 +17138,7 @@ window.allHeroes =
         "source": "Astral Summon",
         "Release date": "2023-11-21",
         "specialId": "scepter_of_constellations",
+        "heroId": "astral_starwalker",
         "star": 5,
         "power": 1010,
         "attack": 1040,
@@ -17154,7 +17155,6 @@ window.allHeroes =
             "Resist Poison: This character has innate resistance against Poison."
         ],
         "family": "astralelves",
-        "image": "https://i.imgur.com/GZxuVqX.jpg",
         "costume_id": 0,
         "originalIndex": 259,
         "lb1": {
@@ -17211,6 +17211,7 @@ window.allHeroes =
         "source": "Legends Summon - Hero of the Month",
         "Release date": "2023-05-01",
         "specialId": "easy_breezy_aura",
+        "heroId": "ice_god_suzuna",
         "star": 5,
         "power": 823,
         "attack": 801,
@@ -17227,7 +17228,6 @@ window.allHeroes =
             "Resist Fiends: This character can't receive Fiends."
         ],
         "family": 2023,
-        "image": "https://i.imgur.com/Mep7TSo.jpg",
         "costume_id": 0,
         "originalIndex": 260,
         "lb1": {
@@ -17283,6 +17283,7 @@ window.allHeroes =
         "source": "Alliance - Moths",
         "Release date": "2025-03-20",
         "specialId": "bizarre_mist",
+        "heroId": "moth_tealmoine",
         "star": 5,
         "power": 1189,
         "attack": 1174,
@@ -17297,7 +17298,6 @@ window.allHeroes =
             "Dodge Special Damage: This character has a 15% chance to dodge Special Skills that deal damage."
         ],
         "family": "moth",
-        "image": "https://i.imgur.com/OpdhCZP.jpg",
         "costume_id": 0,
         "originalIndex": 261,
         "lb1": {
@@ -17352,6 +17352,7 @@ window.allHeroes =
         "source": "S2 - Atlantis",
         "Release date": "2022-05-30",
         "specialId": "amphibious_assault",
+        "heroId": "s2_tethys",
         "star": 5,
         "power": 835,
         "attack": 828,
@@ -17365,7 +17366,6 @@ window.allHeroes =
         ],
         "passives": [],
         "family": "atlantis",
-        "image": "https://i.imgur.com/LPmQIgT.jpg",
         "costume_id": 0,
         "originalIndex": 262,
         "lb1": {
@@ -17420,6 +17420,7 @@ window.allHeroes =
         "source": "S6 - Mysteries of the Deep",
         "Release date": "2023-06-07",
         "specialId": "oceans_embrace",
+        "heroId": "tales1_thalassa",
         "star": 5,
         "power": 952,
         "attack": 896,
@@ -17442,7 +17443,6 @@ window.allHeroes =
             "Resist Insanity: This character has innate resistance against Insanity."
         ],
         "family": "defendersofatlantis",
-        "image": "https://i.imgur.com/aKuc2pB.jpg",
         "costume_id": 0,
         "originalIndex": 263,
         "lb1": {
@@ -17496,6 +17496,7 @@ window.allHeroes =
         "source": "S6 - Mysteries of the Deep",
         "Release date": "2024-08-24",
         "specialId": "oceans_embrace",
+        "heroId": "tales1_thalassa_costume_crystals",
         "star": 5,
         "power": 1184,
         "attack": 1201,
@@ -17518,7 +17519,6 @@ window.allHeroes =
             "Resist Insanity: This character has innate resistance against Insanity."
         ],
         "family": "defendersofatlantis",
-        "image": "https://i.imgur.com/EE7MEpv.jpg",
         "costume_id": 1,
         "originalIndex": 264,
         "lb1": {
@@ -17573,6 +17573,7 @@ window.allHeroes =
         "source": "Tower - Styx",
         "Release date": "2023-02-08",
         "specialId": "delay_the_inevitable",
+        "heroId": "styx_thanatos",
         "star": 5,
         "power": 861,
         "attack": 815,
@@ -17596,7 +17597,6 @@ window.allHeroes =
             "Resist Defense Ailments: This character has innate resistance against status ailments that affect defense. Applies also to status ailments that affect elemental defense."
         ],
         "family": "styx",
-        "image": "https://i.imgur.com/WM6GD2A.jpg",
         "costume_id": 0,
         "originalIndex": 265,
         "lb1": {
@@ -17648,6 +17648,7 @@ window.allHeroes =
         "source": "Challenge Festival II",
         "Release date": "2021-06-10",
         "specialId": "multi_throw",
+        "heroId": "circus_theobald",
         "star": 5,
         "power": 803,
         "attack": 735,
@@ -17660,7 +17661,6 @@ window.allHeroes =
         ],
         "passives": [],
         "family": "starfall",
-        "image": "https://i.imgur.com/z0VwSFd.jpg",
         "costume_id": 0,
         "originalIndex": 266,
         "lb1": {
@@ -17706,6 +17706,7 @@ window.allHeroes =
         "source": "S1 - Classic",
         "Release date": "2017-03-01",
         "specialId": "icecold_finisher",
+        "heroId": "royal_knight_commander",
         "star": 5,
         "power": 757,
         "attack": 638,
@@ -17716,7 +17717,6 @@ window.allHeroes =
         ],
         "passives": [],
         "family": "classic",
-        "image": "https://i.imgur.com/9CT7f6V.jpg",
         "costume_id": 0,
         "originalIndex": 267,
         "lb1": {
@@ -17758,6 +17758,7 @@ window.allHeroes =
         "source": "Costume Quest",
         "Release date": "2021-01-18",
         "specialId": "icecold_finisher",
+        "heroId": "royal_knight_commander_costume_king",
         "star": 5,
         "power": 852,
         "attack": 781,
@@ -17769,7 +17770,6 @@ window.allHeroes =
         ],
         "passives": [],
         "family": "classic",
-        "image": "https://i.imgur.com/YX5GVdv.jpg",
         "costume_id": 1,
         "originalIndex": 268,
         "lb1": {
@@ -17818,6 +17818,7 @@ window.allHeroes =
         "source": "Costume Quest",
         "Release date": "2023-07-10",
         "specialId": "icecold_finisher",
+        "heroId": "royal_knight_commander_costume_gryphon",
         "star": 5,
         "power": 968,
         "attack": 892,
@@ -17830,14 +17831,13 @@ window.allHeroes =
         ],
         "passives": [],
         "family": "classic",
-        "image": "https://i.imgur.com/IEUFL8t.jpg",
         "costume_id": 2,
         "originalIndex": 269,
         "lb1": {
             "power": 1034,
             "attack": 961,
             "defense": 1042,
-            "health": 2010
+            "health": 2007
         },
         "lb2": {
             "power": 1165,
@@ -17881,6 +17881,7 @@ window.allHeroes =
         "source": "Costume Quest",
         "Release date": "2024-09-08",
         "specialId": "icecold_finisher",
+        "heroId": "royal_knight_commander_costume_cute",
         "star": 5,
         "power": 1135,
         "attack": 1066,
@@ -17894,7 +17895,6 @@ window.allHeroes =
             "Toon: 75% extra chance to resist all status ailments, mana reductions and buff dispels."
         ],
         "family": "classic",
-        "image": "https://i.imgur.com/bBInxqX.jpg",
         "costume_id": 3,
         "originalIndex": 270,
         "lb1": {
@@ -17946,6 +17946,7 @@ window.allHeroes =
         "source": "Tower - Owls",
         "Release date": "2023-12-20",
         "specialId": "for_queen_and_hollow",
+        "heroId": "owl_timius",
         "star": 5,
         "power": 985,
         "attack": 1005,
@@ -17960,7 +17961,6 @@ window.allHeroes =
             "Reduce Mana Gain from Special Skills: Reduces the amount of mana increased by Special Skill by -80%. The effect applies to all enemies in the battle."
         ],
         "family": "owl",
-        "image": "https://i.imgur.com/qe2xgVo.jpg",
         "costume_id": 0,
         "originalIndex": 271,
         "lb1": {
@@ -18021,6 +18021,7 @@ window.allHeroes =
         "source": "Monthly Event - Winter",
         "Release date": "2022-12-01",
         "specialId": "malevolent_toys",
+        "heroId": "christmas_tinsel",
         "star": 5,
         "power": 851,
         "attack": 852,
@@ -18034,7 +18035,6 @@ window.allHeroes =
         ],
         "passives": [],
         "family": "christmas",
-        "image": "https://i.imgur.com/huD8kmB.jpg",
         "costume_id": 0,
         "originalIndex": 272,
         "lb1": {
@@ -18091,6 +18091,7 @@ window.allHeroes =
         "source": "Monster Island Summon",
         "Release date": "2023-07-27",
         "specialId": "protective_stance",
+        "heroId": "monster_hunter_tremor",
         "star": 5,
         "power": 948,
         "attack": 896,
@@ -18106,7 +18107,6 @@ window.allHeroes =
             "Hunter's vigor: When this character casts their Special Skill, they get +20% attack for 3 turns. This effect can be active in addition to other effects that alter attack."
         ],
         "family": "junglehunter",
-        "image": "https://i.imgur.com/zlwhqDy.jpg",
         "costume_id": 0,
         "originalIndex": 273,
         "lb1": {
@@ -18163,6 +18163,7 @@ window.allHeroes =
         "source": "Tower - Magic",
         "Release date": "2023-08-23",
         "specialId": "scroll_of_equations",
+        "heroId": "magic_ulius",
         "star": 5,
         "power": 936,
         "attack": 894,
@@ -18183,7 +18184,6 @@ window.allHeroes =
             "Stack on Special: When this character casts their Special Skill, all enemies get -5% mana generation stack. If the Special Skill is fully charged, all enemies get two stacks. An enemy can have up to 10 stacks."
         ],
         "family": "magic",
-        "image": "https://i.imgur.com/rdw7YpR.jpg",
         "costume_id": 0,
         "originalIndex": 274,
         "lb1": {
@@ -18240,6 +18240,7 @@ window.allHeroes =
         "source": "Legends Summon - Hero of the Month",
         "Release date": "2020-01-01",
         "specialId": "aquatic_outbreak",
+        "heroId": "ice_god_vela",
         "star": 5,
         "power": 771,
         "attack": 743,
@@ -18256,7 +18257,6 @@ window.allHeroes =
             "Resist Negative Minion Effects: This character has an innate resistance against incoming negative effects and damage from Minions."
         ],
         "family": 2020,
-        "image": "https://i.imgur.com/mUzztO6.jpg",
         "costume_id": 0,
         "originalIndex": 275,
         "lb1": {
@@ -18313,6 +18313,7 @@ window.allHeroes =
         "source": "Wilderness Summon",
         "Release date": "2024-08-31",
         "specialId": "red_shoes",
+        "heroId": "faun_verity",
         "star": 5,
         "power": 1137,
         "attack": 1174,
@@ -18329,7 +18330,6 @@ window.allHeroes =
             "Resist Attack Reduction: This character has innate resistance against status ailments, stacks and Wither effects that affect attack."
         ],
         "family": "woodlandfaun",
-        "image": "https://i.imgur.com/bRVjhkX.jpg",
         "costume_id": 0,
         "originalIndex": 276,
         "lb1": {
@@ -18381,6 +18381,7 @@ window.allHeroes =
         "source": "Challenge - Gargoyle",
         "Release date": "2024-10-17",
         "specialId": "cold_fire",
+        "heroId": "gargoyle_vincent",
         "star": 5,
         "power": 1107,
         "attack": 1178,
@@ -18398,7 +18399,6 @@ window.allHeroes =
             "Gargoyle’s Softskin: Every time this Gargoyle casts a Special Skil, their Softskin activates. The next 3 times they receive damage, it is reduced by -90%, and they resist all status ailment and mana reduction. This effect can’t be dispelled."
         ],
         "family": "gargoyle",
-        "image": "https://i.imgur.com/L8aULPy.jpg",
         "costume_id": 0,
         "originalIndex": 277,
         "lb1": {
@@ -18457,6 +18457,7 @@ window.allHeroes =
         "source": "Monster Island Summon",
         "Release date": "2022-11-12",
         "specialId": "harpoon_sentry",
+        "heroId": "monster_hunter_waterpipe",
         "star": 5,
         "power": 887,
         "attack": 863,
@@ -18473,7 +18474,6 @@ window.allHeroes =
             "Special Skill damage reduction: This character has a 10% chance to drop the direct damage received from Special Skills to 1."
         ],
         "family": "plainshunter",
-        "image": "https://i.imgur.com/pzkFRII.jpg",
         "costume_id": 0,
         "originalIndex": 278,
         "lb1": {
@@ -18525,6 +18525,7 @@ window.allHeroes =
         "source": "Covenant Summon",
         "Release date": "2024-08-20",
         "specialId": "never_ending_winter",
+        "heroId": "fox_whitefang",
         "star": 5,
         "power": 1136,
         "attack": 1093,
@@ -18539,7 +18540,6 @@ window.allHeroes =
             "Decreased Healing: All enemies get -50% healing."
         ],
         "family": "fox",
-        "image": "https://i.imgur.com/r0k8YaN.jpg",
         "costume_id": 0,
         "originalIndex": 279,
         "lb1": {
@@ -18594,6 +18594,7 @@ window.allHeroes =
         "source": "Monthly Event - Winter",
         "Release date": "2023-12-01",
         "specialId": "blue_shroom_wand",
+        "heroId": "christmas_zappa",
         "star": 5,
         "power": 949,
         "attack": 988,
@@ -18606,7 +18607,6 @@ window.allHeroes =
         ],
         "passives": [],
         "family": "christmas",
-        "image": "https://i.imgur.com/kOZsEFw.jpg",
         "costume_id": 0,
         "originalIndex": 280,
         "lb1": {
@@ -18662,6 +18662,7 @@ window.allHeroes =
         "source": "Super Elementals",
         "Release date": "2023-01-30",
         "specialId": "great_frost_axe",
+        "heroId": "elemental_zengar",
         "star": 5,
         "power": 901,
         "attack": 879,
@@ -18681,7 +18682,6 @@ window.allHeroes =
             " - Received elemental damage: -10%"
         ],
         "family": "superelemental",
-        "image": "https://i.imgur.com/DQY3Orp.jpg",
         "costume_id": 0,
         "originalIndex": 281,
         "lb1": {
@@ -18734,6 +18734,7 @@ window.allHeroes =
         "source": "Tower - Ninjas",
         "Release date": "2021-11-10",
         "specialId": "wall_of_ki",
+        "heroId": "ninja_zircon",
         "star": 5,
         "power": 818,
         "attack": 735,
@@ -18756,7 +18757,6 @@ window.allHeroes =
         ],
         "passives": [],
         "family": "ninja",
-        "image": "https://i.imgur.com/3XPQv8U.jpg",
         "costume_id": 0,
         "originalIndex": 282,
         "lb1": {
@@ -18803,6 +18803,7 @@ window.allHeroes =
         "source": "S1 - Classic",
         "Release date": "2017-03-01",
         "specialId": "hacking_attack",
+        "heroId": "forest_female_warrior",
         "star": 1,
         "power": 209,
         "attack": 209,
@@ -18813,7 +18814,6 @@ window.allHeroes =
         ],
         "passives": [],
         "family": null,
-        "image": "https://i.imgur.com/gTPieC1.jpg",
         "costume_id": 0,
         "originalIndex": 283,
         "cn_skill_info": []
@@ -18835,6 +18835,7 @@ window.allHeroes =
         "source": "S1 - Classic",
         "Release date": "2017-03-01",
         "specialId": "axe_throw",
+        "heroId": "forest_woodsman",
         "star": 1,
         "power": 210,
         "attack": 193,
@@ -18845,7 +18846,6 @@ window.allHeroes =
         ],
         "passives": [],
         "family": null,
-        "image": "https://i.imgur.com/qLk060b.jpg",
         "costume_id": 0,
         "originalIndex": 284,
         "cn_skill_info": []
@@ -18867,6 +18867,7 @@ window.allHeroes =
         "source": "S1 - Classic",
         "Release date": "2017-03-01",
         "specialId": "tackle",
+        "heroId": "forest_thug",
         "star": 2,
         "power": 335,
         "attack": 295,
@@ -18877,7 +18878,6 @@ window.allHeroes =
         ],
         "passives": [],
         "family": null,
-        "image": "https://i.imgur.com/wLaZQ4W.jpg",
         "costume_id": 0,
         "originalIndex": 285,
         "cn_skill_info": []
@@ -18899,6 +18899,7 @@ window.allHeroes =
         "source": "S1 - Classic",
         "Release date": "2017-03-01",
         "specialId": "mark_of_ivy",
+        "heroId": "forest_female_illusionist",
         "star": 2,
         "power": 335,
         "attack": 328,
@@ -18909,7 +18910,6 @@ window.allHeroes =
         ],
         "passives": [],
         "family": null,
-        "image": "https://i.imgur.com/reFxsXr.jpg",
         "costume_id": 0,
         "originalIndex": 286,
         "cn_skill_info": []
@@ -18931,6 +18931,7 @@ window.allHeroes =
         "source": "S1 - Classic",
         "Release date": "2017-03-01",
         "specialId": "focused_shot",
+        "heroId": "goblin_archer",
         "star": 2,
         "power": 333,
         "attack": 358,
@@ -18941,7 +18942,6 @@ window.allHeroes =
         ],
         "passives": [],
         "family": null,
-        "image": "https://i.imgur.com/KlbXSTV.jpg",
         "costume_id": 0,
         "originalIndex": 287,
         "cn_skill_info": []
@@ -18965,6 +18965,7 @@ window.allHeroes =
         "source": "Challenge - Carnival of Gods",
         "Release date": "2023-07-13",
         "specialId": "bewitched_daggers",
+        "heroId": "masquerade_alessia",
         "star": 3,
         "power": 488,
         "attack": 505,
@@ -18978,7 +18979,6 @@ window.allHeroes =
             "Cleanse on Minion Death: This character is cleansed of status ailments when Minion owned by them is destroyed. "
         ],
         "family": "maskedgod",
-        "image": "https://i.imgur.com/d2IW4aE.jpg",
         "costume_id": 0,
         "originalIndex": 288,
         "lb1": {
@@ -19025,6 +19025,7 @@ window.allHeroes =
         "source": "S1 - Classic",
         "Release date": "2017-03-01",
         "specialId": "calming_mist",
+        "heroId": "forest_female_spirit",
         "star": 3,
         "power": 441,
         "attack": 425,
@@ -19036,7 +19037,6 @@ window.allHeroes =
         ],
         "passives": [],
         "family": "classic",
-        "image": "https://i.imgur.com/aLWFiS9.jpg",
         "costume_id": 0,
         "originalIndex": 289,
         "lb1": {
@@ -19083,6 +19083,7 @@ window.allHeroes =
         "source": "Costume Quest",
         "Release date": "2020-05-18",
         "specialId": "calming_mist",
+        "heroId": "forest_female_spirit_costume_autumn",
         "star": 3,
         "power": 471,
         "attack": 446,
@@ -19094,7 +19095,6 @@ window.allHeroes =
         ],
         "passives": [],
         "family": "classic",
-        "image": "https://i.imgur.com/MHO518e.jpg",
         "costume_id": 1,
         "originalIndex": 290,
         "lb1": {
@@ -19143,6 +19143,7 @@ window.allHeroes =
         "source": "Costume Quest",
         "Release date": "2024-04-08",
         "specialId": "calming_mist",
+        "heroId": "forest_female_spirit_costume_cute",
         "star": 3,
         "power": 504,
         "attack": 509,
@@ -19157,7 +19158,6 @@ window.allHeroes =
             "Toon: 75% extra chance to resist all status ailments, mana reductions and buff dispels."
         ],
         "family": "classic",
-        "image": "https://i.imgur.com/d6OTmVG.jpg",
         "costume_id": 2,
         "originalIndex": 291,
         "lb1": {
@@ -19207,6 +19207,7 @@ window.allHeroes =
         "source": "Costume Quest",
         "Release date": "2025-04-23",
         "specialId": "calming_mist",
+        "heroId": "forest_female_spirit_costume_glass",
         "star": 3,
         "power": 513,
         "attack": 521,
@@ -19221,7 +19222,6 @@ window.allHeroes =
             "Glass: 60% extra chance to reflect status ailments back to the attacker."
         ],
         "family": "classic",
-        "image": "https://imgur.com/Y4Gu3iU.jpg",
         "costume_id": 3,
         "originalIndex": 292,
         "lb1": {
@@ -19269,6 +19269,7 @@ window.allHeroes =
         "source": "S1 - Classic",
         "Release date": "2017-03-01",
         "specialId": "entangling_shot",
+        "heroId": "forest_archer",
         "star": 3,
         "power": 444,
         "attack": 470,
@@ -19280,7 +19281,6 @@ window.allHeroes =
         ],
         "passives": [],
         "family": "classic",
-        "image": "https://i.imgur.com/VjExjHL.jpg",
         "costume_id": 0,
         "originalIndex": 293,
         "lb1": {
@@ -19327,6 +19327,7 @@ window.allHeroes =
         "source": "Costume Quest",
         "Release date": "2020-05-18",
         "specialId": "entangling_shot",
+        "heroId": "forest_archer_costume_warrior",
         "star": 3,
         "power": 473,
         "attack": 466,
@@ -19338,7 +19339,6 @@ window.allHeroes =
         ],
         "passives": [],
         "family": "classic",
-        "image": "https://i.imgur.com/H6Orhln.jpg",
         "costume_id": 1,
         "originalIndex": 294,
         "lb1": {
@@ -19386,6 +19386,7 @@ window.allHeroes =
         "source": "Costume Quest",
         "Release date": "2024-05-06",
         "specialId": "entangling_shot",
+        "heroId": "forest_archer_costume_cute",
         "star": 3,
         "power": 506,
         "attack": 542,
@@ -19400,7 +19401,6 @@ window.allHeroes =
             "Toon: 75% extra chance to resist all status ailments, mana reductions and buff dispels."
         ],
         "family": "classic",
-        "image": "https://i.imgur.com/JqQwQQo.jpg",
         "costume_id": 2,
         "originalIndex": 295,
         "lb1": {
@@ -19454,6 +19454,7 @@ window.allHeroes =
         "source": "Costume Quest",
         "Release date": "2025-05-10",
         "specialId": "entangling_shot",
+        "heroId": "forest_archer_costume_glass",
         "star": 3,
         "power": 515,
         "attack": 556,
@@ -19468,7 +19469,6 @@ window.allHeroes =
             "Glass: 60% extra chance to reflect status ailments back to the attacker."
         ],
         "family": "classic",
-        "image": "https://imgur.com/lvzA5b8.jpg",
         "costume_id": 3,
         "originalIndex": 296,
         "lb1": {
@@ -19518,6 +19518,7 @@ window.allHeroes =
         "source": "S1 - Classic",
         "Release date": "2017-03-01",
         "specialId": "natures_blessing",
+        "heroId": "forest_female_druid",
         "star": 3,
         "power": 440,
         "attack": 446,
@@ -19528,7 +19529,6 @@ window.allHeroes =
         ],
         "passives": [],
         "family": "classic",
-        "image": "https://i.imgur.com/sdXIZmv.jpg",
         "costume_id": 0,
         "originalIndex": 297,
         "lb1": {
@@ -19568,6 +19568,7 @@ window.allHeroes =
         "source": "Costume Quest",
         "Release date": "2020-01-01",
         "specialId": "natures_blessing",
+        "heroId": "forest_female_druid_costume_native",
         "star": 3,
         "power": 469,
         "attack": 475,
@@ -19578,7 +19579,6 @@ window.allHeroes =
         ],
         "passives": [],
         "family": "classic",
-        "image": "https://i.imgur.com/ig1RoGx.jpg",
         "costume_id": 1,
         "originalIndex": 298,
         "lb1": {
@@ -19618,6 +19618,7 @@ window.allHeroes =
         "source": "Costume Quest",
         "Release date": "2024-01-22",
         "specialId": "natures_blessing",
+        "heroId": "forest_female_druid_costume_cute",
         "star": 3,
         "power": 502,
         "attack": 507,
@@ -19630,7 +19631,6 @@ window.allHeroes =
             "Toon: 75% extra chance to resist all status ailments, mana reductions and buff dispels."
         ],
         "family": "classic",
-        "image": "https://i.imgur.com/0PzrzM8.jpg",
         "costume_id": 2,
         "originalIndex": 299,
         "lb1": {
@@ -19673,6 +19673,7 @@ window.allHeroes =
         "source": "Costume Quest",
         "Release date": "2025-03-11",
         "specialId": "natures_blessing",
+        "heroId": "forest_female_druid_costume_glass",
         "star": 3,
         "power": 510,
         "attack": 472,
@@ -19686,7 +19687,6 @@ window.allHeroes =
             "Glass: 60% extra chance to reflect status ailments back to the attacker."
         ],
         "family": "classic",
-        "image": "https://i.imgur.com/Z7YMKIU.jpg",
         "costume_id": 3,
         "originalIndex": 300,
         "lb1": {
@@ -19732,6 +19732,7 @@ window.allHeroes =
         "source": "S3 - Valhalla",
         "Release date": "2020-02-27",
         "specialId": "hollow_boast",
+        "heroId": "s3_by_ulf",
         "star": 3,
         "power": 463,
         "attack": 436,
@@ -19750,7 +19751,6 @@ window.allHeroes =
         ],
         "passives": [],
         "family": "niflheim",
-        "image": "https://i.imgur.com/TVINRSf.jpg",
         "costume_id": 0,
         "originalIndex": 301,
         "lb1": {
@@ -19803,6 +19803,7 @@ window.allHeroes =
         "source": "S1 - Classic",
         "Release date": "2017-03-01",
         "specialId": "slash_of_four_blades",
+        "heroId": "goblin_fighter",
         "star": 3,
         "power": 444,
         "attack": 464,
@@ -19814,7 +19815,6 @@ window.allHeroes =
         ],
         "passives": [],
         "family": "classic",
-        "image": "https://i.imgur.com/DfWafQ3.jpg",
         "costume_id": 0,
         "originalIndex": 302,
         "lb1": {
@@ -19861,6 +19861,7 @@ window.allHeroes =
         "source": "Costume Quest",
         "Release date": "2020-05-18",
         "specialId": "slash_of_four_blades",
+        "heroId": "goblin_fighter_costume_evil",
         "star": 3,
         "power": 473,
         "attack": 514,
@@ -19872,7 +19873,6 @@ window.allHeroes =
         ],
         "passives": [],
         "family": "classic",
-        "image": "https://i.imgur.com/xs9Nn7b.jpg",
         "costume_id": 1,
         "originalIndex": 303,
         "lb1": {
@@ -19920,6 +19920,7 @@ window.allHeroes =
         "source": "Costume Quest",
         "Release date": "2024-06-28",
         "specialId": "slash_of_four_blades",
+        "heroId": "goblin_fighter_costume_cute",
         "star": 3,
         "power": 506,
         "attack": 537,
@@ -19934,7 +19935,6 @@ window.allHeroes =
             "Toon: 75% extra chance to resist all status ailments, mana reductions and buff dispels."
         ],
         "family": "classic",
-        "image": "https://i.imgur.com/rbDQHbY.jpg",
         "costume_id": 2,
         "originalIndex": 304,
         "lb1": {
@@ -19984,6 +19984,7 @@ window.allHeroes =
         "source": "Costume Quest",
         "Release date": "2025-07-16",
         "specialId": "slash_of_four_blades",
+        "heroId": "goblin_fighter_costume_glass",
         "star": 3,
         "power": 515,
         "attack": 620,
@@ -19998,7 +19999,6 @@ window.allHeroes =
             "Glass: 60% extra chance to reflect status ailments back to the attacker."
         ],
         "family": "classic",
-        "image": "https://imgur.com/1k45GDi.jpg",
         "costume_id": 3,
         "originalIndex": 305,
         "lb1": {
@@ -20047,6 +20047,7 @@ window.allHeroes =
         "source": "Astral Summon",
         "Release date": "2025-06-04",
         "specialId": "astral_pastries",
+        "heroId": "astral_dwarf_chires",
         "star": 3,
         "power": 509,
         "attack": 505,
@@ -20062,7 +20063,6 @@ window.allHeroes =
             "Destroy Fiends on Special: When this character casts their Special Skill, all Fiends are destroyed from them."
         ],
         "family": "astraldwarfs",
-        "image": "https://imgur.com/AIJJV87.jpg",
         "costume_id": 0,
         "originalIndex": 306,
         "lb1": {
@@ -20115,6 +20115,7 @@ window.allHeroes =
         "source": "Tower - Magic",
         "Release date": "2021-09-15",
         "specialId": "voluminous_vigor",
+        "heroId": "magic_dolgoon",
         "star": 3,
         "power": 479,
         "attack": 462,
@@ -20133,7 +20134,6 @@ window.allHeroes =
             "Status effect on special: When this character casts their Special Skill, they have a 50% chance to give -25% mana generation for 3 turns to all enemies. If the Special Skill is fully charged, the chance is 100%."
         ],
         "family": "magic",
-        "image": "https://i.imgur.com/vRYNJwU.jpg",
         "costume_id": 0,
         "originalIndex": 307,
         "lb1": {
@@ -20183,6 +20183,7 @@ window.allHeroes =
         "source": "S5 - Dune",
         "Release date": "2022-04-21",
         "specialId": "plentiful_harvest",
+        "heroId": "s5_faiez",
         "star": 3,
         "power": 483,
         "attack": 465,
@@ -20199,7 +20200,6 @@ window.allHeroes =
             " * Cleanses the latest cleansable status ailments from all allies."
         ],
         "family": "sun",
-        "image": "https://i.imgur.com/vZiyZG9.jpg",
         "costume_id": 0,
         "originalIndex": 308,
         "lb1": {
@@ -20246,6 +20246,7 @@ window.allHeroes =
         "source": "S5 - Dune",
         "Release date": "2024-09-07",
         "specialId": "plentiful_harvest",
+        "heroId": "s5_faiez_costume_miner",
         "star": 3,
         "power": 495,
         "attack": 456,
@@ -20264,7 +20265,6 @@ window.allHeroes =
             "Health Recovery on Buff Received: This character recovers 5% health when they receive a buff or a positive stack."
         ],
         "family": "sun",
-        "image": "https://i.imgur.com/TFnsKJy.jpg",
         "costume_id": 1,
         "originalIndex": 309,
         "lb1": {
@@ -20312,6 +20312,7 @@ window.allHeroes =
         "source": "Tower - Owls",
         "Release date": "2023-12-20",
         "specialId": "jack_of_owl_trades",
+        "heroId": "owl_featherino",
         "star": 3,
         "power": 489,
         "attack": 571,
@@ -20324,7 +20325,6 @@ window.allHeroes =
             "Reduce Mana Gain from Special Skills: Reduces the amount of mana increased by Special Skill by -80%. The effect applies to all enemies in the battle."
         ],
         "family": "owl",
-        "image": "https://i.imgur.com/zCCCscJ.jpg",
         "costume_id": 0,
         "originalIndex": 310,
         "lb1": {
@@ -20373,6 +20373,7 @@ window.allHeroes =
         "source": "Monster Island Summon",
         "Release date": "2022-11-12",
         "specialId": "bone_arrow",
+        "heroId": "monster_hunter_fianna",
         "star": 3,
         "power": 484,
         "attack": 521,
@@ -20388,7 +20389,6 @@ window.allHeroes =
             "Special Skill Damage Reduction: This character has a 10% chance to drop the direct damage received from Special Skills to 1."
         ],
         "family": "plainshunter",
-        "image": "https://i.imgur.com/QukLnei.jpg",
         "costume_id": 0,
         "originalIndex": 311,
         "lb1": {
@@ -20435,6 +20435,7 @@ window.allHeroes =
         "source": "S1 - Classic",
         "Release date": "2017-03-01",
         "specialId": "have_faith",
+        "heroId": "forest_friar",
         "star": 3,
         "power": 446,
         "attack": 458,
@@ -20446,7 +20447,6 @@ window.allHeroes =
         ],
         "passives": [],
         "family": "classic",
-        "image": "https://i.imgur.com/nprqffe.jpg",
         "costume_id": 0,
         "originalIndex": 312,
         "lb1": {
@@ -20493,6 +20493,7 @@ window.allHeroes =
         "source": "Costume Quest",
         "Release date": "2020-05-18",
         "specialId": "have_faith",
+        "heroId": "forest_friar_costume_explorer",
         "star": 3,
         "power": 476,
         "attack": 482,
@@ -20504,7 +20505,6 @@ window.allHeroes =
         ],
         "passives": [],
         "family": "classic",
-        "image": "https://i.imgur.com/ia9GSNJ.jpg",
         "costume_id": 1,
         "originalIndex": 313,
         "lb1": {
@@ -20551,6 +20551,7 @@ window.allHeroes =
         "source": "Costume Quest",
         "Release date": "2024-05-31",
         "specialId": "have_faith",
+        "heroId": "forest_friar_costume_cute",
         "star": 3,
         "power": 509,
         "attack": 526,
@@ -20564,7 +20565,6 @@ window.allHeroes =
             "Toon: 75% extra chance to resist all status ailments, mana reductions and buff dispels."
         ],
         "family": "classic",
-        "image": "https://i.imgur.com/yE4ht6i.jpg",
         "costume_id": 2,
         "originalIndex": 314,
         "lb1": {
@@ -20613,6 +20613,7 @@ window.allHeroes =
         "source": "Costume Quest",
         "Release date": "2025-06-18",
         "specialId": "have_faith",
+        "heroId": "forest_friar_costume_glass",
         "star": 3,
         "power": 517,
         "attack": 548,
@@ -20627,7 +20628,6 @@ window.allHeroes =
             "Glass: 60% extra chance to reflect status ailments back to the attacker."
         ],
         "family": "classic",
-        "image": "https://imgur.com/lcz3509.jpg",
         "costume_id": 3,
         "originalIndex": 315,
         "lb1": {
@@ -20676,6 +20676,7 @@ window.allHeroes =
         "source": "Three Kingdoms Summon",
         "Release date": "2023-02-27",
         "specialId": "enchanted_axe_swing",
+        "heroId": "journey_general_yin",
         "star": 3,
         "power": 486,
         "attack": 519,
@@ -20688,7 +20689,6 @@ window.allHeroes =
         ],
         "passives": [],
         "family": "journey",
-        "image": "https://i.imgur.com/hCb3jKN.jpg",
         "costume_id": 0,
         "originalIndex": 316,
         "lb1": {
@@ -20740,6 +20740,7 @@ window.allHeroes =
         "source": "Challenge Festival I",
         "Release date": "2021-12-15",
         "specialId": "sharp_knife",
+        "heroId": "fables_gnomer",
         "star": 3,
         "power": 481,
         "attack": 493,
@@ -20751,7 +20752,6 @@ window.allHeroes =
         ],
         "passives": [],
         "family": "grimforest",
-        "image": "https://i.imgur.com/VMip5iv.jpg",
         "costume_id": 0,
         "originalIndex": 317,
         "lb1": {
@@ -20800,6 +20800,7 @@ window.allHeroes =
         "source": "Monthly Event - Morlovia",
         "Release date": "2022-10-03",
         "specialId": "sugar_rush",
+        "heroId": "halloween_goopy",
         "star": 3,
         "power": 483,
         "attack": 500,
@@ -20814,7 +20815,6 @@ window.allHeroes =
             "Steal Buff - When this character casts their Special Skill, they have a 50%  chance to steal the newest dispellable buff from a random enemy that has buffs.  If no enemy has buffs, deals 70% damage to all enemies."
         ],
         "family": "morlovia",
-        "image": "https://i.imgur.com/WJOazL8.jpg",
         "costume_id": 0,
         "originalIndex": 318,
         "lb1": {
@@ -20866,6 +20866,7 @@ window.allHeroes =
         "source": "S4 - Wilderness",
         "Release date": "2021-03-25",
         "specialId": "elders_remedy",
+        "heroId": "s4_gramps",
         "star": 3,
         "power": 478,
         "attack": 448,
@@ -20879,7 +20880,6 @@ window.allHeroes =
             "Special Skill Damage Reduction: Received damage from Special Skills is  reduced by -20% for this character."
         ],
         "family": "underwild",
-        "image": "https://i.imgur.com/QGwMonb.jpg",
         "costume_id": 0,
         "originalIndex": 319,
         "lb1": {
@@ -20926,6 +20926,7 @@ window.allHeroes =
         "source": "S4 - Wilderness",
         "Release date": "2023-11-09",
         "specialId": "elders_remedy",
+        "heroId": "s4_gramps_costume_gardener",
         "star": 3,
         "power": 488,
         "attack": 459,
@@ -20939,7 +20940,6 @@ window.allHeroes =
             "Special Skill Damage Reduction: Received damage from Special Skills is  reduced by -20% for this character."
         ],
         "family": "underwild",
-        "image": "https://i.imgur.com/8hGBh7z.jpg",
         "costume_id": 1,
         "originalIndex": 320,
         "lb1": {
@@ -20983,6 +20983,7 @@ window.allHeroes =
         "source": "S3 - Valhalla",
         "Release date": "2020-05-28",
         "specialId": "travelers_snack",
+        "heroId": "s3_grevle",
         "star": 3,
         "power": 464,
         "attack": 403,
@@ -20994,7 +20995,6 @@ window.allHeroes =
         ],
         "passives": [],
         "family": "alfheim",
-        "image": "https://i.imgur.com/7vQQwXx.jpg",
         "costume_id": 0,
         "originalIndex": 321,
         "lb1": {
@@ -21046,6 +21046,7 @@ window.allHeroes =
         "source": "Monthly Event - Sand Empire",
         "Release date": "2018-06-21",
         "specialId": "horses_curse",
+        "heroId": "sand_horse",
         "star": 3,
         "power": 448,
         "attack": 540,
@@ -21059,7 +21060,6 @@ window.allHeroes =
         ],
         "passives": [],
         "family": "sand",
-        "image": "https://i.imgur.com/YmBbafl.jpg",
         "costume_id": 0,
         "originalIndex": 322,
         "lb1": {
@@ -21107,6 +21107,7 @@ window.allHeroes =
         "source": "S1 - Classic",
         "Release date": "2017-03-01",
         "specialId": "ramming_rush",
+        "heroId": "lizardman_warrior",
         "star": 3,
         "power": 447,
         "attack": 453,
@@ -21117,7 +21118,6 @@ window.allHeroes =
         ],
         "passives": [],
         "family": "classic",
-        "image": "https://i.imgur.com/Sq218ZB.jpg",
         "costume_id": 0,
         "originalIndex": 323,
         "lb1": {
@@ -21159,6 +21159,7 @@ window.allHeroes =
         "source": "Costume Quest",
         "Release date": "2020-05-18",
         "specialId": "ramming_rush",
+        "heroId": "lizardman_warrior_costume_dinosaur",
         "star": 3,
         "power": 476,
         "attack": 486,
@@ -21170,7 +21171,6 @@ window.allHeroes =
         ],
         "passives": [],
         "family": "classic",
-        "image": "https://i.imgur.com/aTgE0vq.jpg",
         "costume_id": 1,
         "originalIndex": 324,
         "lb1": {
@@ -21216,6 +21216,7 @@ window.allHeroes =
         "source": "Costume Quest",
         "Release date": "2024-07-16",
         "specialId": "ramming_rush",
+        "heroId": "lizardman_warrior_costume_cute",
         "star": 3,
         "power": 510,
         "attack": 483,
@@ -21229,7 +21230,6 @@ window.allHeroes =
             "Toon: 75% extra chance to resist all status ailments, mana reductions and buff dispels."
         ],
         "family": "classic",
-        "image": "https://i.imgur.com/DoAEWX7.jpg",
         "costume_id": 2,
         "originalIndex": 325,
         "lb1": {
@@ -21277,6 +21277,7 @@ window.allHeroes =
         "source": "Three Kingdoms Summon",
         "Release date": "2022-03-14",
         "specialId": "spear_of_shu",
+        "heroId": "kingdom_jing",
         "star": 3,
         "power": 482,
         "attack": 500,
@@ -21289,7 +21290,6 @@ window.allHeroes =
         ],
         "passives": [],
         "family": "kingdom",
-        "image": "https://i.imgur.com/ElDAaic.jpg",
         "costume_id": 0,
         "originalIndex": 326,
         "lb1": {
@@ -21341,6 +21341,7 @@ window.allHeroes =
         "source": "S2 - Atlantis",
         "Release date": "2019-08-01",
         "specialId": "frightening_pinch",
+        "heroId": "s2_merman",
         "star": 3,
         "power": 448,
         "attack": 474,
@@ -21352,7 +21353,6 @@ window.allHeroes =
         ],
         "passives": [],
         "family": "atlantis",
-        "image": "https://i.imgur.com/psLsMhk.jpg",
         "costume_id": 0,
         "originalIndex": 327,
         "lb1": {
@@ -21399,6 +21399,7 @@ window.allHeroes =
         "source": "S2 - Atlantis",
         "Release date": "2022-05-02",
         "specialId": "frightening_pinch",
+        "heroId": "s2_merman_costume_leutenant",
         "star": 3,
         "power": 462,
         "attack": 500,
@@ -21410,7 +21411,6 @@ window.allHeroes =
         ],
         "passives": [],
         "family": "atlantis",
-        "image": "https://i.imgur.com/vAbeKFm.jpg",
         "costume_id": 1,
         "originalIndex": 328,
         "lb1": {
@@ -21455,6 +21455,7 @@ window.allHeroes =
         "source": "S2 - Atlantis",
         "Release date": "2019-08-01",
         "specialId": "bruiser_bros",
+        "heroId": "s2_chameleon_bruiser",
         "star": 3,
         "power": 450,
         "attack": 634,
@@ -21470,7 +21471,6 @@ window.allHeroes =
         ],
         "passives": [],
         "family": "lagoon",
-        "image": "https://i.imgur.com/oEhD3JD.jpg",
         "costume_id": 0,
         "originalIndex": 329,
         "lb1": {
@@ -21517,6 +21517,7 @@ window.allHeroes =
         "source": "Challenge Festival II",
         "Release date": "2021-08-05",
         "specialId": "dual_axes",
+        "heroId": "slayer_noril",
         "star": 3,
         "power": 478,
         "attack": 455,
@@ -21532,7 +21533,6 @@ window.allHeroes =
             "Resist Damage from Status Effects: This charater has innate resistance against incoming damage from status effects."
         ],
         "family": "slayer",
-        "image": "https://i.imgur.com/sPxC3Un.jpg",
         "costume_id": 0,
         "originalIndex": 330,
         "lb1": {
@@ -21591,6 +21591,7 @@ window.allHeroes =
         "source": "Tower - Magic",
         "Release date": "2023-05-03",
         "specialId": "ancient_ritual",
+        "heroId": "magic_roxia",
         "star": 3,
         "power": 486,
         "attack": 516,
@@ -21610,7 +21611,6 @@ window.allHeroes =
             "Stack on Special: When this character casts their Special Skill, all enemies get -5% mana generation stack. If the Special Skill is fully charged, all enemies get two stacks. An enemy can have up to 10 stacks."
         ],
         "family": "magic",
-        "image": "https://i.imgur.com/M3v3YrZ.jpg",
         "costume_id": 0,
         "originalIndex": 331,
         "lb1": {
@@ -21662,6 +21662,7 @@ window.allHeroes =
         "source": "Challenge Festival I",
         "Release date": "2019-12-01",
         "specialId": "camouflage_foliage",
+        "heroId": "wonderland_bear",
         "star": 3,
         "power": 455,
         "attack": 351,
@@ -21674,7 +21675,6 @@ window.allHeroes =
         ],
         "passives": [],
         "family": "wonderland",
-        "image": "https://i.imgur.com/KcnE5Ah.jpg",
         "costume_id": 0,
         "originalIndex": 332,
         "lb1": {
@@ -21718,6 +21718,7 @@ window.allHeroes =
         "source": "Challenge Festival II",
         "Release date": "2021-06-10",
         "specialId": "nasty_hammer",
+        "heroId": "circus_whacker",
         "star": 3,
         "power": 477,
         "attack": 554,
@@ -21729,7 +21730,6 @@ window.allHeroes =
         ],
         "passives": [],
         "family": "starfall",
-        "image": "https://i.imgur.com/JVkZWPm.jpg",
         "costume_id": 0,
         "originalIndex": 333,
         "lb1": {
@@ -21778,6 +21778,7 @@ window.allHeroes =
         "source": "Goblin Summon",
         "Release date": "2024-04-15",
         "specialId": "situational_awareness",
+        "heroId": "garrison_william",
         "star": 3,
         "power": 494,
         "attack": 543,
@@ -21793,7 +21794,6 @@ window.allHeroes =
             "Guard Rally: Every 4 turns, removes all Wither effects from all allies."
         ],
         "family": "garrisonguard",
-        "image": "https://i.imgur.com/A9SHPn4.jpg",
         "costume_id": 0,
         "originalIndex": 334,
         "lb1": {
@@ -21846,6 +21846,7 @@ window.allHeroes =
         "source": "Alliance - Knights Clash",
         "Release date": "2024-01-10",
         "specialId": "paws_or_claws",
+        "heroId": "castle_bear_yona",
         "star": 3,
         "power": 490,
         "attack": 451,
@@ -21864,7 +21865,6 @@ window.allHeroes =
             "Health Recovery on Buff Received - This character recovers 5% health when  they receive a buff or a positive stack."
         ],
         "family": "stag",
-        "image": "https://i.imgur.com/uP5TQtw.jpg",
         "costume_id": 0,
         "originalIndex": 335,
         "lb1": {
@@ -21924,6 +21924,7 @@ window.allHeroes =
         "source": "Challenge Festival II",
         "Release date": "2022-12-01",
         "specialId": "tambourine_solo",
+        "heroId": "bard_zarel",
         "star": 3,
         "power": 485,
         "attack": 493,
@@ -21938,7 +21939,6 @@ window.allHeroes =
             "Defense ailment reduction: Reduces the effect of defense ailments by -80%. The effect applies to this character and all its allies in the battle."
         ],
         "family": "bard",
-        "image": "https://i.imgur.com/UoxW1c2.jpg",
         "costume_id": 0,
         "originalIndex": 336,
         "lb1": {
@@ -21985,6 +21985,7 @@ window.allHeroes =
         "source": "Monthly Event - Love Season",
         "Release date": "2023-02-14",
         "specialId": "punishing_shot",
+        "heroId": "valentines_zarola",
         "star": 3,
         "power": 486,
         "attack": 547,
@@ -21998,7 +21999,6 @@ window.allHeroes =
             "Resist Special Skill Blocking: This character has innate resistance against status ailments that block Special Skills."
         ],
         "family": "cupid",
-        "image": "https://i.imgur.com/07KHMD9.jpg",
         "costume_id": 0,
         "originalIndex": 337,
         "lb1": {
@@ -22047,6 +22047,7 @@ window.allHeroes =
         "source": "Super Elementals",
         "Release date": "2023-08-14",
         "specialId": "enchanted_symphony",
+        "heroId": "elemental_alfie",
         "star": 4,
         "power": 688,
         "attack": 705,
@@ -22067,7 +22068,6 @@ window.allHeroes =
             " - Received elemental damage: -10%"
         ],
         "family": "superelemental",
-        "image": "https://i.imgur.com/JaXIe0C.jpg",
         "costume_id": 0,
         "originalIndex": 338,
         "lb1": {
@@ -22119,6 +22119,7 @@ window.allHeroes =
         "source": "S3 - Valhalla",
         "Release date": "2020-05-28",
         "specialId": "shadow_sweep",
+        "heroId": "s3_almur",
         "star": 4,
         "power": 662,
         "attack": 626,
@@ -22131,7 +22132,6 @@ window.allHeroes =
         ],
         "passives": [],
         "family": "svartalfheim",
-        "image": "https://i.imgur.com/zT4IQhV.jpg",
         "costume_id": 0,
         "originalIndex": 339,
         "lb1": {
@@ -22181,6 +22181,7 @@ window.allHeroes =
         "source": "S3 - Valhalla",
         "Release date": "2023-03-13",
         "specialId": "shadow_sweep",
+        "heroId": "s3_almur_costume_lord",
         "star": 4,
         "power": 684,
         "attack": 667,
@@ -22193,7 +22194,6 @@ window.allHeroes =
         ],
         "passives": [],
         "family": "svartalfheim",
-        "image": "https://i.imgur.com/G55eXUT.jpg",
         "costume_id": 1,
         "originalIndex": 340,
         "lb1": {
@@ -22252,6 +22252,7 @@ window.allHeroes =
         "source": "Tower - Magic",
         "Release date": "2021-09-15",
         "specialId": "high_noon_sun",
+        "heroId": "magic_anton",
         "star": 4,
         "power": 678,
         "attack": 650,
@@ -22270,7 +22271,6 @@ window.allHeroes =
             "Healt recovery on special: When this character casts their Special Skill, they have a 50% chance to recover 15% health for all allies. If the Special Skill is fully charged, the chance is 100%."
         ],
         "family": "magic",
-        "image": "https://i.imgur.com/P0bT6Vn.jpg",
         "costume_id": 0,
         "originalIndex": 341,
         "lb1": {
@@ -22321,6 +22321,7 @@ window.allHeroes =
         "source": "Tower - Styx",
         "Release date": "2022-09-21",
         "specialId": "fruits_of_labor",
+        "heroId": "styx_brontes",
         "star": 4,
         "power": 685,
         "attack": 690,
@@ -22344,7 +22345,6 @@ window.allHeroes =
             "Resist Defense Ailments: This character has innate resistance against status ailments that affect defense. Applies also to status ailments that affect elemental defense."
         ],
         "family": "styx",
-        "image": "https://i.imgur.com/73sHBAH.jpg",
         "costume_id": 0,
         "originalIndex": 342,
         "lb1": {
@@ -22395,6 +22395,7 @@ window.allHeroes =
         "source": "S3 - Valhalla",
         "Release date": "2020-02-27",
         "specialId": "valkyrie_defense",
+        "heroId": "s3_brynhild",
         "star": 4,
         "power": 660,
         "attack": 684,
@@ -22408,7 +22409,6 @@ window.allHeroes =
         ],
         "passives": [],
         "family": "midgard",
-        "image": "https://i.imgur.com/igNkAbf.jpg",
         "costume_id": 0,
         "originalIndex": 343,
         "lb1": {
@@ -22461,6 +22461,7 @@ window.allHeroes =
         "source": "Monthly Event - Winter",
         "Release date": "2020-12-01",
         "specialId": "perilous_gift",
+        "heroId": "christmas_carol",
         "star": 4,
         "power": 649,
         "attack": 531,
@@ -22474,7 +22475,6 @@ window.allHeroes =
         ],
         "passives": [],
         "family": "christmas",
-        "image": "https://i.imgur.com/fZWbFxH.jpg",
         "costume_id": 0,
         "originalIndex": 344,
         "lb1": {
@@ -22527,6 +22527,7 @@ window.allHeroes =
         "source": "S1 - Classic",
         "Release date": "2017-03-01",
         "specialId": "piercing_strike",
+        "heroId": "elven_captain",
         "star": 4,
         "power": 643,
         "attack": 635,
@@ -22538,7 +22539,6 @@ window.allHeroes =
         ],
         "passives": [],
         "family": "classic",
-        "image": "https://i.imgur.com/jv6lywZ.jpg",
         "costume_id": 0,
         "originalIndex": 345,
         "lb1": {
@@ -22585,6 +22585,7 @@ window.allHeroes =
         "source": "Costume Quest",
         "Release date": "2020-05-18",
         "specialId": "piercing_strike",
+        "heroId": "elven_captain_costume_mask",
         "star": 4,
         "power": 688,
         "attack": 683,
@@ -22596,7 +22597,6 @@ window.allHeroes =
         ],
         "passives": [],
         "family": "classic",
-        "image": "https://i.imgur.com/zrZ4p5y.jpg",
         "costume_id": 1,
         "originalIndex": 346,
         "lb1": {
@@ -22644,6 +22644,7 @@ window.allHeroes =
         "source": "Costume Quest",
         "Release date": "2022-12-26",
         "specialId": "piercing_strike",
+        "heroId": "elven_captain_costume_cavalier",
         "star": 4,
         "power": 734,
         "attack": 745,
@@ -22656,7 +22657,6 @@ window.allHeroes =
         ],
         "passives": [],
         "family": "classic",
-        "image": "https://i.imgur.com/0FiXuyI.jpg",
         "costume_id": 2,
         "originalIndex": 347,
         "lb1": {
@@ -22709,6 +22709,7 @@ window.allHeroes =
         "source": "Costume Quest",
         "Release date": "2024-01-22",
         "specialId": "piercing_strike",
+        "heroId": "elven_captain_costume_cute",
         "star": 4,
         "power": 746,
         "attack": 760,
@@ -22723,7 +22724,6 @@ window.allHeroes =
             "Toon: 75% extra chance to resist all status ailments, mana reductions and buff dispels."
         ],
         "family": "classic",
-        "image": "https://i.imgur.com/DR6bDUS.jpg",
         "costume_id": 3,
         "originalIndex": 348,
         "lb1": {
@@ -22778,6 +22778,7 @@ window.allHeroes =
         "source": "Costume Quest",
         "Release date": "2025-01-14",
         "specialId": "piercing_strike",
+        "heroId": "elven_captain_costume_glass",
         "star": 4,
         "power": 759,
         "attack": 775,
@@ -22793,7 +22794,6 @@ window.allHeroes =
             "Glass: 60% extra chance to reflect status ailments back to the attacker."
         ],
         "family": "classic",
-        "image": "https://i.imgur.com/evExc3q.jpg",
         "costume_id": 4,
         "originalIndex": 349,
         "lb1": {
@@ -22852,6 +22852,7 @@ window.allHeroes =
         "source": "Alliance - Knights Clash",
         "Release date": "2022-01-05",
         "specialId": "sonorous_spear",
+        "heroId": "castle_raven_franz",
         "star": 4,
         "power": 681,
         "attack": 552,
@@ -22864,7 +22865,6 @@ window.allHeroes =
         ],
         "passives": [],
         "family": "raven",
-        "image": "https://i.imgur.com/Qe02pzU.jpg",
         "costume_id": 0,
         "originalIndex": 350,
         "lb1": {
@@ -22913,6 +22913,7 @@ window.allHeroes =
         "source": "Super Elementals",
         "Release date": "2025-07-04",
         "specialId": "fruit_cocktail",
+        "heroId": "slime_fruitio",
         "star": 4,
         "power": 747,
         "attack": 739,
@@ -22927,7 +22928,6 @@ window.allHeroes =
             "Slime Minion Split: If this character loses more than 25% of max health at once, they summon a Slime Mega Minion for themselves with 50% HP and 40% attack."
         ],
         "family": "slime",
-        "image": "https://imgur.com/8wrOKnx.jpg",
         "costume_id": 0,
         "originalIndex": 351,
         "lb1": {
@@ -22976,6 +22976,7 @@ window.allHeroes =
         "source": "S2 - Atlantis",
         "Release date": "2019-08-01",
         "specialId": "empowering_bash",
+        "heroId": "s2_atlantean_robot",
         "star": 4,
         "power": 647,
         "attack": 618,
@@ -22988,7 +22989,6 @@ window.allHeroes =
         ],
         "passives": [],
         "family": "atlantis",
-        "image": "https://i.imgur.com/dGtM0Hw.jpg",
         "costume_id": 0,
         "originalIndex": 352,
         "lb1": {
@@ -23039,6 +23039,7 @@ window.allHeroes =
         "source": "S2 - Atlantis",
         "Release date": "2022-05-02",
         "specialId": "empowering_bash",
+        "heroId": "s2_atlantean_robot_costume_sentinel",
         "star": 4,
         "power": 668,
         "attack": 612,
@@ -23051,7 +23052,6 @@ window.allHeroes =
         ],
         "passives": [],
         "family": "atlantis",
-        "image": "https://i.imgur.com/MAOY5JJ.jpg",
         "costume_id": 1,
         "originalIndex": 353,
         "lb1": {
@@ -23101,6 +23101,7 @@ window.allHeroes =
         "source": "S2 - Atlantis",
         "Release date": "2019-08-01",
         "specialId": "familiar_eater",
+        "heroId": "s2_chameleon_chief",
         "star": 4,
         "power": 651,
         "attack": 641,
@@ -23113,7 +23114,6 @@ window.allHeroes =
         ],
         "passives": [],
         "family": "lagoon",
-        "image": "https://i.imgur.com/Sc5af8g.jpg",
         "costume_id": 0,
         "originalIndex": 354,
         "lb1": {
@@ -23163,6 +23163,7 @@ window.allHeroes =
         "source": "S2 - Atlantis",
         "Release date": "2023-04-03",
         "specialId": "familiar_eater",
+        "heroId": "s2_chameleon_chief_costume_heavyweight",
         "star": 4,
         "power": 673,
         "attack": 586,
@@ -23175,7 +23176,6 @@ window.allHeroes =
         ],
         "passives": [],
         "family": "lagoon",
-        "image": "https://i.imgur.com/ZFJ0073.jpg",
         "costume_id": 1,
         "originalIndex": 355,
         "lb1": {
@@ -23229,6 +23229,7 @@ window.allHeroes =
         "source": "Challenge Festival I",
         "Release date": "2019-12-01",
         "specialId": "witch_killer",
+        "heroId": "fables_hansel",
         "star": 4,
         "power": 646,
         "attack": 699,
@@ -23241,7 +23242,6 @@ window.allHeroes =
         ],
         "passives": [],
         "family": "grimforest",
-        "image": "https://i.imgur.com/SkK8Ieu.jpg",
         "costume_id": 0,
         "originalIndex": 356,
         "lb1": {
@@ -23294,6 +23294,7 @@ window.allHeroes =
         "source": "Challenge Festival I",
         "Release date": "2023-08-10",
         "specialId": "witch_killer",
+        "heroId": "fables_hansel_costume_vampire_hunter",
         "star": 4,
         "power": 682,
         "attack": 670,
@@ -23306,7 +23307,6 @@ window.allHeroes =
         ],
         "passives": [],
         "family": "grimforest",
-        "image": "https://i.imgur.com/ZWQ8poJ.jpg",
         "costume_id": 1,
         "originalIndex": 357,
         "lb1": {
@@ -23357,6 +23357,7 @@ window.allHeroes =
         "source": "Monthly Event - Springvale",
         "Release date": "2018-03-28",
         "specialId": "reckless_slash",
+        "heroId": "rabbit_green",
         "star": 4,
         "power": 648,
         "attack": 743,
@@ -23368,7 +23369,6 @@ window.allHeroes =
         ],
         "passives": [],
         "family": "springvale",
-        "image": "https://i.imgur.com/KJoqPtw.jpg",
         "costume_id": 0,
         "originalIndex": 358,
         "lb1": {
@@ -23416,6 +23416,7 @@ window.allHeroes =
         "source": "Monthly Event - Springvale",
         "Release date": "2022-03-21",
         "specialId": "reckless_slash",
+        "heroId": "rabbit_green_costume_egg_hunter",
         "star": 4,
         "power": 669,
         "attack": 708,
@@ -23428,7 +23429,6 @@ window.allHeroes =
         ],
         "passives": [],
         "family": "springvale",
-        "image": "https://i.imgur.com/mwBA0kR.jpg",
         "costume_id": 1,
         "originalIndex": 359,
         "lb1": {
@@ -23476,6 +23476,7 @@ window.allHeroes =
         "source": "Challenge - Gargoyle",
         "Release date": "2022-05-12",
         "specialId": "resurrection_of_the_fallen",
+        "heroId": "gargoyle_kalo",
         "star": 4,
         "power": 677,
         "attack": 626,
@@ -23491,7 +23492,6 @@ window.allHeroes =
             "Gargoyle’s Stoneskin: Every time this Gargoyle casts a Special Skill, their Stoneskin hardens. The next 5 times they receive damage, it is dropped to 1. This effect can’t be dispelled."
         ],
         "family": "gargoyle",
-        "image": "https://i.imgur.com/g4p72ea.jpg",
         "costume_id": 0,
         "originalIndex": 360,
         "lb1": {
@@ -23539,6 +23539,7 @@ window.allHeroes =
         "source": "S1 - Classic",
         "Release date": "2017-03-01",
         "specialId": "swamp_skin",
+        "heroId": "lizardman_trapper",
         "star": 4,
         "power": 643,
         "attack": 548,
@@ -23550,7 +23551,6 @@ window.allHeroes =
         ],
         "passives": [],
         "family": "classic",
-        "image": "https://i.imgur.com/f38vwx3.jpg",
         "costume_id": 0,
         "originalIndex": 361,
         "lb1": {
@@ -23598,6 +23598,7 @@ window.allHeroes =
         "source": "Costume Quest",
         "Release date": "2020-05-18",
         "specialId": "swamp_skin",
+        "heroId": "lizardman_trapper_costume_shaman",
         "star": 4,
         "power": 690,
         "attack": 597,
@@ -23609,7 +23610,6 @@ window.allHeroes =
         ],
         "passives": [],
         "family": "classic",
-        "image": "https://i.imgur.com/5DjkhS8.jpg",
         "costume_id": 1,
         "originalIndex": 362,
         "lb1": {
@@ -23656,6 +23656,7 @@ window.allHeroes =
         "source": "Costume Quest",
         "Release date": "2023-11-27",
         "specialId": "swamp_skin",
+        "heroId": "lizardman_trapper_costume_fisher",
         "star": 4,
         "power": 736,
         "attack": 598,
@@ -23667,7 +23668,6 @@ window.allHeroes =
         ],
         "passives": [],
         "family": "classic",
-        "image": "https://i.imgur.com/54DNXMH.jpg",
         "costume_id": 2,
         "originalIndex": 363,
         "lb1": {
@@ -23714,6 +23714,7 @@ window.allHeroes =
         "source": "Costume Quest",
         "Release date": "2024-05-31",
         "specialId": "swamp_skin",
+        "heroId": "lizardman_trapper_costume_cute",
         "star": 4,
         "power": 748,
         "attack": 680,
@@ -23727,7 +23728,6 @@ window.allHeroes =
             "Toon: 75% extra chance to resist all status ailments, mana reductions and buff dispels."
         ],
         "family": "classic",
-        "image": "https://i.imgur.com/B48yiIW.jpg",
         "costume_id": 3,
         "originalIndex": 364,
         "lb1": {
@@ -23776,6 +23776,7 @@ window.allHeroes =
         "source": "Costume Quest",
         "Release date": "2025-06-18",
         "specialId": "swamp_skin",
+        "heroId": "lizardman_trapper_costume_glass",
         "star": 4,
         "power": 761,
         "attack": 737,
@@ -23790,7 +23791,6 @@ window.allHeroes =
             "Glass: 60% extra chance to reflect status ailments back to the attacker."
         ],
         "family": "classic",
-        "image": "https://imgur.com/WEPgm0c.jpg",
         "costume_id": 4,
         "originalIndex": 365,
         "lb1": {
@@ -23842,6 +23842,7 @@ window.allHeroes =
         "source": "Astral Summon",
         "Release date": "2024-03-07",
         "specialId": "cloth_of_constellations",
+        "heroId": "astral_lionstring",
         "star": 4,
         "power": 697,
         "attack": 684,
@@ -23858,7 +23859,6 @@ window.allHeroes =
             "Share Received Damage: 20% of damage received by this charater is shared  with other allies."
         ],
         "family": "astralelves",
-        "image": "https://i.imgur.com/M9HK4qH.jpg",
         "costume_id": 0,
         "originalIndex": 366,
         "lb1": {
@@ -23910,6 +23910,7 @@ window.allHeroes =
         "source": "S1 - Classic",
         "Release date": "2017-03-01",
         "specialId": "massive_chop",
+        "heroId": "forest_woodsman_warrior",
         "star": 4,
         "power": 641,
         "attack": 741,
@@ -23921,7 +23922,6 @@ window.allHeroes =
         ],
         "passives": [],
         "family": "classic",
-        "image": "https://i.imgur.com/nRRdXVw.jpg",
         "costume_id": 0,
         "originalIndex": 367,
         "lb1": {
@@ -23969,6 +23969,7 @@ window.allHeroes =
         "source": "Costume Quest",
         "Release date": "2020-05-18",
         "specialId": "massive_chop",
+        "heroId": "forest_woodsman_warrior_costume_camouflage",
         "star": 4,
         "power": 686,
         "attack": 770,
@@ -23980,7 +23981,6 @@ window.allHeroes =
         ],
         "passives": [],
         "family": "classic",
-        "image": "https://i.imgur.com/OZPuj5P.jpg",
         "costume_id": 1,
         "originalIndex": 368,
         "lb1": {
@@ -24028,6 +24028,7 @@ window.allHeroes =
         "source": "Costume Quest",
         "Release date": "2023-10-30",
         "specialId": "massive_chop",
+        "heroId": "forest_woodsman_warrior_costume_highlander",
         "star": 4,
         "power": 732,
         "attack": 840,
@@ -24039,7 +24040,6 @@ window.allHeroes =
         ],
         "passives": [],
         "family": "classic",
-        "image": "https://i.imgur.com/pBSZGi6.jpg",
         "costume_id": 2,
         "originalIndex": 369,
         "lb1": {
@@ -24087,6 +24087,7 @@ window.allHeroes =
         "source": "Costume Quest",
         "Release date": "2024-05-06",
         "specialId": "massive_chop",
+        "heroId": "forest_woodsman_warrior_costume_cute",
         "star": 4,
         "power": 744,
         "attack": 842,
@@ -24101,7 +24102,6 @@ window.allHeroes =
             "Toon: 75% extra chance to resist all status ailments, mana reductions and buff dispels."
         ],
         "family": "classic",
-        "image": "https://i.imgur.com/8mWGMUp.jpg",
         "costume_id": 3,
         "originalIndex": 370,
         "lb1": {
@@ -24155,6 +24155,7 @@ window.allHeroes =
         "source": "Costume Quest",
         "Release date": "2025-05-10",
         "specialId": "massive_chop",
+        "heroId": "forest_woodsman_warrior_costume_glass",
         "star": 4,
         "power": 756,
         "attack": 861,
@@ -24169,7 +24170,6 @@ window.allHeroes =
             "Glass: 60% extra chance to reflect status ailments back to the attacker."
         ],
         "family": "classic",
-        "image": "https://imgur.com/8scCOJR.jpg",
         "costume_id": 4,
         "originalIndex": 371,
         "lb1": {
@@ -24224,6 +24224,7 @@ window.allHeroes =
         "source": "Challenge Festival II",
         "Release date": "2021-06-10",
         "specialId": "head_hurl",
+        "heroId": "circus_marcel",
         "star": 4,
         "power": 676,
         "attack": 654,
@@ -24236,7 +24237,6 @@ window.allHeroes =
         ],
         "passives": [],
         "family": "starfall",
-        "image": "https://i.imgur.com/LwCxkKS.jpg",
         "costume_id": 0,
         "originalIndex": 372,
         "lb1": {
@@ -24288,6 +24288,7 @@ window.allHeroes =
         "source": "S1 - Classic",
         "Release date": "2017-03-01",
         "specialId": "fog_of_the_fallen",
+        "heroId": "forest_mage",
         "star": 4,
         "power": 638,
         "attack": 714,
@@ -24299,7 +24300,6 @@ window.allHeroes =
         ],
         "passives": [],
         "family": "classic",
-        "image": "https://i.imgur.com/3rwM4W7.jpg",
         "costume_id": 0,
         "originalIndex": 373,
         "lb1": {
@@ -24348,6 +24348,7 @@ window.allHeroes =
         "source": "Costume Quest",
         "Release date": "2020-01-01",
         "specialId": "fog_of_the_fallen",
+        "heroId": "forest_mage_costume_white",
         "star": 4,
         "power": 683,
         "attack": 711,
@@ -24360,7 +24361,6 @@ window.allHeroes =
         ],
         "passives": [],
         "family": "classic",
-        "image": "https://i.imgur.com/5gxdGVM.jpg",
         "costume_id": 1,
         "originalIndex": 374,
         "lb1": {
@@ -24410,6 +24410,7 @@ window.allHeroes =
         "source": "Costume Quest",
         "Release date": "2023-10-30",
         "specialId": "fog_of_the_fallen",
+        "heroId": "forest_mage_costume_party",
         "star": 4,
         "power": 729,
         "attack": 684,
@@ -24422,7 +24423,6 @@ window.allHeroes =
         ],
         "passives": [],
         "family": "classic",
-        "image": "https://i.imgur.com/XVqcInX.jpg",
         "costume_id": 2,
         "originalIndex": 375,
         "lb1": {
@@ -24472,6 +24472,7 @@ window.allHeroes =
         "source": "Costume Quest",
         "Release date": "2024-01-22",
         "specialId": "fog_of_the_fallen",
+        "heroId": "forest_mage_costume_cute",
         "star": 4,
         "power": 741,
         "attack": 800,
@@ -24486,7 +24487,6 @@ window.allHeroes =
             "Toon: 75% extra chance to resist all status ailments, mana reductions and buff dispels."
         ],
         "family": "classic",
-        "image": "https://i.imgur.com/3swBEW4.jpg",
         "costume_id": 3,
         "originalIndex": 376,
         "lb1": {
@@ -24537,6 +24537,7 @@ window.allHeroes =
         "source": "Costume Quest",
         "Release date": "2025-03-11",
         "specialId": "fog_of_the_fallen",
+        "heroId": "forest_mage_costume_glass",
         "star": 4,
         "power": 753,
         "attack": 811,
@@ -24551,7 +24552,6 @@ window.allHeroes =
             "Glass: 60% extra chance to reflect status ailments back to the attacker."
         ],
         "family": "classic",
-        "image": "https://i.imgur.com/5Bt1nJk.jpg",
         "costume_id": 4,
         "originalIndex": 377,
         "lb1": {
@@ -24600,6 +24600,7 @@ window.allHeroes =
         "source": "Monthly Event - Kalevala",
         "Release date": "2022-06-20",
         "specialId": "sprite_ballad",
+        "heroId": "kalevala_mielikki",
         "star": 4,
         "power": 682,
         "attack": 614,
@@ -24614,7 +24615,6 @@ window.allHeroes =
             "Power of Sisu - When this character starts a turn with low health for the  first time during a battle, they recover 15% health and receive 15% mana."
         ],
         "family": "kalevala",
-        "image": "https://i.imgur.com/tts9FVU.jpg",
         "costume_id": 0,
         "originalIndex": 378,
         "lb1": {
@@ -24667,6 +24667,7 @@ window.allHeroes =
         "source": "Monthly Event - Kalevala",
         "Release date": "2023-08-07",
         "specialId": "sprite_ballad",
+        "heroId": "kalevala_mielikki_costume_bear_protector",
         "star": 4,
         "power": 706,
         "attack": 609,
@@ -24679,7 +24680,6 @@ window.allHeroes =
         ],
         "passives": [],
         "family": "kalevala",
-        "image": "https://i.imgur.com/vXd3s3q.jpg",
         "costume_id": 1,
         "originalIndex": 379,
         "lb1": {
@@ -24735,6 +24735,7 @@ window.allHeroes =
         "source": "S6 - Mysteries of the Deep",
         "Release date": "2023-06-07",
         "specialId": "noxious_cleave",
+        "heroId": "tales1_mulgog",
         "star": 4,
         "power": 688,
         "attack": 718,
@@ -24756,7 +24757,6 @@ window.allHeroes =
             " * All allies get +19% mana generation for 2 turns."
         ],
         "family": "nightmaresofatlantis",
-        "image": "https://i.imgur.com/b7HL0wq.jpg",
         "costume_id": 0,
         "originalIndex": 380,
         "lb1": {
@@ -24814,6 +24814,7 @@ window.allHeroes =
         "source": "S6 - Mysteries of the Deep",
         "Release date": "2025-03-31",
         "specialId": "noxious_cleave",
+        "heroId": "tales1_mulgog_costume_bard",
         "star": 4,
         "power": 704,
         "attack": 667,
@@ -24836,7 +24837,6 @@ window.allHeroes =
             "Resist Insanity: This character has innate resistance against Insanity."
         ],
         "family": "nightmaresofatlantis",
-        "image": "https://imgur.com/X5IVjtR.jpg",
         "costume_id": 1,
         "originalIndex": 381,
         "lb1": {
@@ -24893,6 +24893,7 @@ window.allHeroes =
         "source": "Wilderness Summon",
         "Release date": "2025-02-21",
         "specialId": "a_rare_cultivar",
+        "heroId": "faun_myrtle",
         "star": 4,
         "power": 727,
         "attack": 786,
@@ -24909,7 +24910,6 @@ window.allHeroes =
             "Resist Attack Reduction: This character has innate resistance against status ailments, stacks and Wither effects that affect attack."
         ],
         "family": "woodlandfaun",
-        "image": "https://i.imgur.com/KEvkubZ.jpg",
         "costume_id": 0,
         "originalIndex": 382,
         "lb1": {
@@ -24965,6 +24965,7 @@ window.allHeroes =
         "source": "Monster Island Summon",
         "Release date": "2023-05-06",
         "specialId": "cracked_skull_strike",
+        "heroId": "monster_hunter_numbskull",
         "star": 4,
         "power": 687,
         "attack": 671,
@@ -24980,7 +24981,6 @@ window.allHeroes =
             "Hunter`s sense: When this character casts their Special Skill, they transfer the newest cleansable status ailment from themself to the target. If the Special Skill cannot target an enemy, a random enemy is chosen instead. If this character has no cleansable status ailment, they recover 8% health."
         ],
         "family": "abysshunter",
-        "image": "https://i.imgur.com/Y43vWHy.jpg",
         "costume_id": 0,
         "originalIndex": 383,
         "lb1": {
@@ -25034,6 +25034,7 @@ window.allHeroes =
         "source": "Challenge Festival II",
         "Release date": "2021-08-05",
         "specialId": "graceful_shot",
+        "heroId": "slayer_orla",
         "star": 4,
         "power": 677,
         "attack": 635,
@@ -25050,7 +25051,6 @@ window.allHeroes =
             "Resist Damage from Status Effects: This charater has innate resistance against incoming damage from status effects."
         ],
         "family": "slayer",
-        "image": "https://i.imgur.com/YWXxtDj.jpg",
         "costume_id": 0,
         "originalIndex": 384,
         "lb1": {
@@ -25108,6 +25108,7 @@ window.allHeroes =
         "source": "Challenge Festival I",
         "Release date": "2017-09-07",
         "specialId": "buccaneers_blade",
+        "heroId": "pirate_cabin_boy",
         "star": 4,
         "power": 645,
         "attack": 643,
@@ -25119,7 +25120,6 @@ window.allHeroes =
         ],
         "passives": [],
         "family": "corellia",
-        "image": "https://i.imgur.com/aPVBzpo.jpg",
         "costume_id": 0,
         "originalIndex": 385,
         "lb1": {
@@ -25168,6 +25168,7 @@ window.allHeroes =
         "source": "Challenge Festival I",
         "Release date": "2023-12-28",
         "specialId": "buccaneers_blade",
+        "heroId": "pirate_cabin_boy_costume_paper",
         "star": 4,
         "power": 681,
         "attack": 675,
@@ -25180,7 +25181,6 @@ window.allHeroes =
         ],
         "passives": [],
         "family": "corellia",
-        "image": "https://i.imgur.com/caAHKaT.jpg",
         "costume_id": 1,
         "originalIndex": 386,
         "lb1": {
@@ -25229,6 +25229,7 @@ window.allHeroes =
         "source": "S5 - Dune",
         "Release date": "2022-04-21",
         "specialId": "divine_connection",
+        "heroId": "s5_ptolemy",
         "star": 4,
         "power": 683,
         "attack": 586,
@@ -25244,7 +25245,6 @@ window.allHeroes =
             " * Cleanses the latest cleansable status ailments from all allies."
         ],
         "family": "sun",
-        "image": "https://i.imgur.com/3gaWwFG.jpg",
         "costume_id": 0,
         "originalIndex": 387,
         "lb1": {
@@ -25295,6 +25295,7 @@ window.allHeroes =
         "source": "S5 - Dune",
         "Release date": "2024-10-05",
         "specialId": "divine_connection",
+        "heroId": "s5_ptolemy_costume_log",
         "star": 4,
         "power": 699,
         "attack": 576,
@@ -25312,7 +25313,6 @@ window.allHeroes =
             " * Cleanses that latest cleansable status ailment from all allies."
         ],
         "family": "sun",
-        "image": "https://i.imgur.com/xEySNN6.jpg",
         "costume_id": 1,
         "originalIndex": 388,
         "lb1": {
@@ -25362,6 +25362,7 @@ window.allHeroes =
         "source": "Alliance - Knights Clash",
         "Release date": "2024-01-10",
         "specialId": "tome_of_the_stag",
+        "heroId": "castle_stag_raleigh",
         "star": 4,
         "power": 692,
         "attack": 656,
@@ -25376,7 +25377,6 @@ window.allHeroes =
             "Health Recovery on Buff Received - This character recovers 5% health when  they receive a buff or a positive stack."
         ],
         "family": "stag",
-        "image": "https://i.imgur.com/SZsJBr2.jpg",
         "costume_id": 0,
         "originalIndex": 389,
         "lb1": {
@@ -25424,6 +25424,7 @@ window.allHeroes =
         "source": "S1 - Classic",
         "Release date": "2017-03-01",
         "specialId": "creeping_vines",
+        "heroId": "goblin_mage",
         "star": 4,
         "power": 644,
         "attack": 728,
@@ -25435,7 +25436,6 @@ window.allHeroes =
         ],
         "passives": [],
         "family": "classic",
-        "image": "https://i.imgur.com/6Oucdm4.jpg",
         "costume_id": 0,
         "originalIndex": 390,
         "lb1": {
@@ -25482,6 +25482,7 @@ window.allHeroes =
         "source": "Costume Quest",
         "Release date": "2020-01-01",
         "specialId": "creeping_vines",
+        "heroId": "goblin_mage_costume_candy",
         "star": 4,
         "power": 688,
         "attack": 792,
@@ -25493,7 +25494,6 @@ window.allHeroes =
         ],
         "passives": [],
         "family": "classic",
-        "image": "https://i.imgur.com/9DvgVYg.jpg",
         "costume_id": 1,
         "originalIndex": 391,
         "lb1": {
@@ -25540,6 +25540,7 @@ window.allHeroes =
         "source": "Costume Quest",
         "Release date": "2023-04-17",
         "specialId": "creeping_vines",
+        "heroId": "goblin_mage_costume_toad",
         "star": 4,
         "power": 735,
         "attack": 828,
@@ -25551,7 +25552,6 @@ window.allHeroes =
         ],
         "passives": [],
         "family": "classic",
-        "image": "https://i.imgur.com/EIvqBU6.jpg",
         "costume_id": 2,
         "originalIndex": 392,
         "lb1": {
@@ -25599,6 +25599,7 @@ window.allHeroes =
         "source": "Costume Quest",
         "Release date": "2024-03-11",
         "specialId": "creeping_vines",
+        "heroId": "goblin_mage_costume_cute",
         "star": 4,
         "power": 746,
         "attack": 844,
@@ -25613,7 +25614,6 @@ window.allHeroes =
             "Toon: 75% extra chance to resist all status ailments, mana reductions and buff dispels."
         ],
         "family": "classic",
-        "image": "https://i.imgur.com/DQzJaMV.jpg",
         "costume_id": 3,
         "originalIndex": 393,
         "lb1": {
@@ -25667,6 +25667,7 @@ window.allHeroes =
         "source": "Costume Quest",
         "Release date": "2025-04-08",
         "specialId": "creeping_vines",
+        "heroId": "goblin_mage_costume_glass",
         "star": 4,
         "power": 759,
         "attack": 879,
@@ -25681,7 +25682,6 @@ window.allHeroes =
             "Glass: 60% extra chance to reflect status ailments back to the attacker."
         ],
         "family": "classic",
-        "image": "https://imgur.com/qCkUNrw.jpg",
         "costume_id": 4,
         "originalIndex": 394,
         "lb1": {
@@ -25735,6 +25735,7 @@ window.allHeroes =
         "source": "S4 - Wilderness",
         "Release date": "2021-03-25",
         "specialId": "crippling_grapple",
+        "heroId": "s4_tettukh",
         "star": 4,
         "power": 677,
         "attack": 663,
@@ -25749,7 +25750,6 @@ window.allHeroes =
             "Special Skill Damage Reduction: Received damage from Special Skills is  reduced by -20% for this character."
         ],
         "family": "underwild",
-        "image": "https://i.imgur.com/OZiH56V.jpg",
         "costume_id": 0,
         "originalIndex": 395,
         "lb1": {
@@ -25800,6 +25800,7 @@ window.allHeroes =
         "source": "S4 - Wilderness",
         "Release date": "2023-12-07",
         "specialId": "crippling_grapple",
+        "heroId": "s4_tettukh_costume_cheerleader",
         "star": 4,
         "power": 692,
         "attack": 738,
@@ -25814,7 +25815,6 @@ window.allHeroes =
             "Special Skill Damage Reduction: Received damage from Special Skills is  reduced by -20% for this character."
         ],
         "family": "underwild",
-        "image": "https://i.imgur.com/Upmqcxi.jpg",
         "costume_id": 1,
         "originalIndex": 396,
         "lb1": {
@@ -25867,6 +25867,7 @@ window.allHeroes =
         "source": "Alliance - Musketeers",
         "Release date": "2022-12-14",
         "specialId": "the_dukes_investigation",
+        "heroId": "musketeer_villiers",
         "star": 4,
         "power": 686,
         "attack": 694,
@@ -25883,7 +25884,6 @@ window.allHeroes =
             "Damage on Special Skill: When this character receives damage from Special Skills or in place of a character in Cover, there’s a 60% chance to deal 20% of the received damage on all enemies."
         ],
         "family": "musketeer",
-        "image": "https://i.imgur.com/bq60wfg.jpg",
         "costume_id": 0,
         "originalIndex": 397,
         "lb1": {
@@ -25933,6 +25933,7 @@ window.allHeroes =
         "source": "Alliance - Knights Clash",
         "Release date": "2021-10-13",
         "specialId": "squires_squirrel",
+        "heroId": "castle_raven_wren",
         "star": 4,
         "power": 680,
         "attack": 675,
@@ -25945,7 +25946,6 @@ window.allHeroes =
         ],
         "passives": [],
         "family": "raven",
-        "image": "https://i.imgur.com/YasIqZv.jpg",
         "costume_id": 0,
         "originalIndex": 398,
         "lb1": {
@@ -25994,6 +25994,7 @@ window.allHeroes =
         "source": "S5 - Dune",
         "Release date": "2022-11-24",
         "specialId": "ancient_mirror",
+        "heroId": "s5_ahmose",
         "star": 5,
         "power": 866,
         "attack": 803,
@@ -26009,7 +26010,6 @@ window.allHeroes =
             " * All enemies get -24% mana generation for 3 turns."
         ],
         "family": "moon",
-        "image": "https://i.imgur.com/4zzp1TD.jpg",
         "costume_id": 0,
         "originalIndex": 399,
         "lb1": {
@@ -26057,6 +26057,7 @@ window.allHeroes =
         "source": "S5 - Dune",
         "Release date": "2024-03-04",
         "specialId": "ancient_mirror",
+        "heroId": "s5_ahmose_costume_reborn",
         "star": 5,
         "power": 1211,
         "attack": 1167,
@@ -26074,7 +26075,6 @@ window.allHeroes =
             "Resist Sand Damage: This character has innate resistance against Sand damage."
         ],
         "family": "moon",
-        "image": "https://i.imgur.com/hOov8Aa.jpg",
         "costume_id": 1,
         "originalIndex": 400,
         "lb1": {
@@ -26125,6 +26125,7 @@ window.allHeroes =
         "source": "Legends Summon - Hero of the Month",
         "Release date": "2017-10-01",
         "specialId": "midsummers_dream",
+        "heroId": "forest_god_oberon",
         "star": 5,
         "power": 765,
         "attack": 725,
@@ -26138,7 +26139,6 @@ window.allHeroes =
         ],
         "passives": [],
         "family": 2017,
-        "image": "https://i.imgur.com/0IebpZg.jpg",
         "costume_id": 0,
         "originalIndex": 401,
         "lb1": {
@@ -26191,6 +26191,7 @@ window.allHeroes =
         "source": "Legends Summon - Hero of the Month",
         "Release date": "2021-10-20",
         "specialId": "midsummers_dream",
+        "heroId": "forest_god_oberon_costume_everoak",
         "star": 5,
         "power": 970,
         "attack": 911,
@@ -26206,7 +26207,6 @@ window.allHeroes =
             "Cleanse on Special: When this character casts their Special Skill, they cleanse the newest status ailment from all allies."
         ],
         "family": 2017,
-        "image": "https://i.imgur.com/qgThGvZ.jpg",
         "costume_id": 1,
         "originalIndex": 402,
         "lb1": {
@@ -26259,6 +26259,7 @@ window.allHeroes =
         "source": "Goblin Summon",
         "Release date": "2025-03-14",
         "specialId": "suspicious_stew",
+        "heroId": "garrison_archibald",
         "star": 5,
         "power": 1168,
         "attack": 1135,
@@ -26276,14 +26277,13 @@ window.allHeroes =
             "Guard Rally: Every 4 turns, removes all Wither effects from all allies."
         ],
         "family": "garrisonguard",
-        "image": "https://i.imgur.com/zBBsCSR.jpg",
         "costume_id": 0,
         "originalIndex": 403,
         "lb1": {
             "power": 1249,
             "attack": 1223,
             "defense": 1307,
-            "health": 2364
+            "health": 2361
         },
         "lb2": {
             "power": 1412,
@@ -26333,6 +26333,7 @@ window.allHeroes =
         "source": "Monthly Event - Springvale",
         "Release date": "2023-03-27",
         "specialId": "fabled_llama_ballad",
+        "heroId": "easter_archie",
         "star": 5,
         "power": 865,
         "attack": 871,
@@ -26345,7 +26346,6 @@ window.allHeroes =
         ],
         "passives": [],
         "family": "springvale",
-        "image": "https://i.imgur.com/LIKBIhe.jpg",
         "costume_id": 0,
         "originalIndex": 404,
         "lb1": {
@@ -26395,6 +26395,7 @@ window.allHeroes =
         "source": "Monthly Event - Springvale",
         "Release date": "2024-03-18",
         "specialId": "fabled_llama_ballad",
+        "heroId": "easter_archie_costume_gallant",
         "star": 5,
         "power": 1030,
         "attack": 1063,
@@ -26407,7 +26408,6 @@ window.allHeroes =
         ],
         "passives": [],
         "family": "springvale",
-        "image": "https://i.imgur.com/NhdULEq.jpg",
         "costume_id": 1,
         "originalIndex": 405,
         "lb1": {
@@ -26458,6 +26458,7 @@ window.allHeroes =
         "source": "Challenge - Gargoyle",
         "Release date": "2022-05-12",
         "specialId": "gargoyles_of_redemption",
+        "heroId": "gargoyle_arco",
         "star": 5,
         "power": 841,
         "attack": 776,
@@ -26472,7 +26473,6 @@ window.allHeroes =
             "Gargoyle’s Stoneskin: Every time this Gargoyle casts a Special Skill, their Stoneskin hardens. The next 4 times they receive damage, it is dropped to 1. This effect can’t be dispelled."
         ],
         "family": "gargoyle",
-        "image": "https://i.imgur.com/nhYRyEk.jpg",
         "costume_id": 0,
         "originalIndex": 406,
         "lb1": {
@@ -26517,6 +26517,7 @@ window.allHeroes =
         "source": "Challenge - Secrets of the Opera",
         "Release date": "2024-08-22",
         "specialId": "make_them_harmless",
+        "heroId": "ballerina_armand",
         "star": 5,
         "power": 1090,
         "attack": 1081,
@@ -26532,7 +26533,6 @@ window.allHeroes =
             "Heal when status ailment expires or is cleared: This character receives 10% health each time a status ailment expires or is cleansed, removed or reallocated from them. This effect can activate only once per turn."
         ],
         "family": "opera",
-        "image": "https://i.imgur.com/PHXp8yu.jpg",
         "costume_id": 0,
         "originalIndex": 407,
         "lb1": {
@@ -26589,6 +26589,7 @@ window.allHeroes =
         "source": "Alliance - Musketeers",
         "Release date": "2022-12-14",
         "specialId": "piercing_shot",
+        "heroId": "musketeer_athos",
         "star": 5,
         "power": 864,
         "attack": 865,
@@ -26605,7 +26606,6 @@ window.allHeroes =
             "Damage on Special Skill: When this character receives damage from Special Skills or in place of a character in Cover, there’s a 60% chance to deal 20% of the received damage to all enemies."
         ],
         "family": "musketeer",
-        "image": "https://i.imgur.com/HvsiBgn.jpg",
         "costume_id": 0,
         "originalIndex": 408,
         "lb1": {
@@ -26656,6 +26656,7 @@ window.allHeroes =
         "source": "S2 - Atlantis",
         "Release date": "2019-02-01",
         "specialId": "immortal_annihilator",
+        "heroId": "s2_skyllaros",
         "star": 5,
         "power": 772,
         "attack": 733,
@@ -26668,7 +26669,6 @@ window.allHeroes =
         ],
         "passives": [],
         "family": "atlantis",
-        "image": "https://i.imgur.com/DAUb4SR.jpg",
         "costume_id": 0,
         "originalIndex": 409,
         "lb1": {
@@ -26721,6 +26721,7 @@ window.allHeroes =
         "source": "S2 - Atlantis",
         "Release date": "2023-04-03",
         "specialId": "immortal_annihilator",
+        "heroId": "s2_skyllaros_costume_reef",
         "star": 5,
         "power": 942,
         "attack": 916,
@@ -26733,14 +26734,13 @@ window.allHeroes =
         ],
         "passives": [],
         "family": "atlantis",
-        "image": "https://i.imgur.com/Mrpkkq0.jpg",
         "costume_id": 1,
         "originalIndex": 410,
         "lb1": {
-            "power": 1006,
+            "power": 1005,
             "attack": 987,
             "defense": 978,
-            "health": 1872
+            "health": 1869
         },
         "lb2": {
             "power": 1133,
@@ -26790,6 +26790,7 @@ window.allHeroes =
         "source": "Mystery - Shadow Summon",
         "Release date": "2024-04-11",
         "specialId": "jewel_of_the_deep",
+        "heroId": "shadow_atwood",
         "star": 5,
         "power": 1105,
         "attack": 1122,
@@ -26805,7 +26806,6 @@ window.allHeroes =
             "Marked by the Old Ones: All damage is reduced by 5% per 10 Insanity for this character up to a maximum reduction of 50%."
         ],
         "family": "investigator",
-        "image": "https://i.imgur.com/Cwe6431.jpg",
         "costume_id": 0,
         "originalIndex": 411,
         "lb1": {
@@ -26864,6 +26864,7 @@ window.allHeroes =
         "source": "Monthly Event - Winter",
         "Release date": "2022-12-01",
         "specialId": "wisdom_of_the_gnomes",
+        "heroId": "christmas_augustus",
         "star": 5,
         "power": 851,
         "attack": 793,
@@ -26878,7 +26879,6 @@ window.allHeroes =
         ],
         "passives": [],
         "family": "christmas",
-        "image": "https://i.imgur.com/AEEIfML.jpg",
         "costume_id": 0,
         "originalIndex": 412,
         "lb1": {
@@ -26939,6 +26939,7 @@ window.allHeroes =
         "source": "Legends Summon - Hero of the Month",
         "Release date": "2021-11-01",
         "specialId": "slumber_spores",
+        "heroId": "nature_god_balbar",
         "star": 5,
         "power": 796,
         "attack": 762,
@@ -26957,7 +26958,6 @@ window.allHeroes =
             "Health recovery on buff received: This character recovers 5% health when they receive a buff or a positive stack."
         ],
         "family": 2021,
-        "image": "https://i.imgur.com/lTYrovf.jpg",
         "costume_id": 0,
         "originalIndex": 413,
         "lb1": {
@@ -27007,6 +27007,7 @@ window.allHeroes =
         "source": "Legends Summon - Hero of the Month",
         "Release date": "2021-01-01",
         "specialId": "en_garde",
+        "heroId": "nature_god_bertila",
         "star": 5,
         "power": 784,
         "attack": 718,
@@ -27019,7 +27020,6 @@ window.allHeroes =
         ],
         "passives": [],
         "family": 2021,
-        "image": "https://i.imgur.com/VlS3IND.jpg",
         "costume_id": 0,
         "originalIndex": 414,
         "lb1": {
@@ -27069,6 +27069,7 @@ window.allHeroes =
         "source": "Legends Summon - Hero of the Month",
         "Release date": "2024-05-01",
         "specialId": "command_pack",
+        "heroId": "nature_god_bo_and_runt",
         "star": 5,
         "power": 981,
         "attack": 1042,
@@ -27086,7 +27087,6 @@ window.allHeroes =
             "Mana on Minion Summon: When a Minion is summoned to an ally, this character gains 5% mana. This effect can activate only once per turn."
         ],
         "family": 2024,
-        "image": "https://i.imgur.com/6gRA2M6.jpg",
         "costume_id": 0,
         "originalIndex": 415,
         "lb1": {
@@ -27143,6 +27143,7 @@ window.allHeroes =
         "source": "Challenge Festival II",
         "Release date": "2024-11-14",
         "specialId": "odd_drum_roll",
+        "heroId": "bard_bonzo",
         "star": 5,
         "power": 1147,
         "attack": 1293,
@@ -27161,7 +27162,6 @@ window.allHeroes =
             "All Dances cast by enemies only last for 1 turn."
         ],
         "family": "bard",
-        "image": "https://i.imgur.com/jSnGpgr.jpg",
         "costume_id": 0,
         "originalIndex": 416,
         "lb1": {
@@ -27213,6 +27213,7 @@ window.allHeroes =
         "source": "Goblin Summon",
         "Release date": "2023-10-16",
         "specialId": "boar_call",
+        "heroId": "goblin_boom_and_fang",
         "star": 5,
         "power": 949,
         "attack": 891,
@@ -27228,7 +27229,6 @@ window.allHeroes =
             " * All enemies get -25% accuracy for 3 turns."
         ],
         "family": "goblin",
-        "image": "https://i.imgur.com/IpQKX8C.jpg",
         "costume_id": 0,
         "originalIndex": 417,
         "lb1": {
@@ -27277,6 +27277,7 @@ window.allHeroes =
         "source": "Wilderness Summon",
         "Release date": "2025-01-22",
         "specialId": "sylvan_blessings",
+        "heroId": "faun_bramble",
         "star": 5,
         "power": 1157,
         "attack": 1118,
@@ -27293,7 +27294,6 @@ window.allHeroes =
             "Resist Insanity: This character has innate resistance against Insanity."
         ],
         "family": "woodlandfaun",
-        "image": "https://i.imgur.com/BA1yyNs.jpg",
         "costume_id": 0,
         "originalIndex": 418,
         "lb1": {
@@ -27349,6 +27349,7 @@ window.allHeroes =
         "source": "Tower - Ninjas",
         "Release date": "2024-08-27",
         "specialId": "fatal_dreams",
+        "heroId": "ninja_chikao",
         "star": 5,
         "power": 1093,
         "attack": 1203,
@@ -27372,7 +27373,6 @@ window.allHeroes =
             "Decreased Minion Health: Enemy Minions inherit -50% less Health when summoned."
         ],
         "family": "ninja",
-        "image": "https://i.imgur.com/g0WuoGF.jpg",
         "costume_id": 0,
         "originalIndex": 419,
         "lb1": {
@@ -27426,6 +27426,7 @@ window.allHeroes =
         "source": "Legends Summon - Hero of the Month",
         "Release date": "2024-09-01",
         "specialId": "invigorating_pollen",
+        "heroId": "nature_god_chloris",
         "star": 5,
         "power": 1017,
         "attack": 914,
@@ -27442,7 +27443,6 @@ window.allHeroes =
             "Boost Health on Enemy Special: When an enemy casts their Special Skill, this character has a 50% chance to boost this character’s health by 100."
         ],
         "family": 2024,
-        "image": "https://i.imgur.com/3NHTm5Y.jpg",
         "costume_id": 0,
         "originalIndex": 420,
         "lb1": {
@@ -27493,6 +27493,7 @@ window.allHeroes =
         "source": "Legends Summon - Hero of the Month",
         "Release date": "2023-07-01",
         "specialId": "fury_of_ash",
+        "heroId": "nature_god_cinisia",
         "star": 5,
         "power": 825,
         "attack": 883,
@@ -27509,7 +27510,6 @@ window.allHeroes =
             "Resist Attack Ailments: This character has innate resistance against status ailments that affect attack."
         ],
         "family": 2023,
-        "image": "https://i.imgur.com/L1RhKDe.jpg",
         "costume_id": 0,
         "originalIndex": 421,
         "lb1": {
@@ -27559,6 +27559,7 @@ window.allHeroes =
         "source": "S4 - Wilderness",
         "Release date": "2022-01-27",
         "specialId": "spectres_flail",
+        "heroId": "s4_congalach",
         "star": 5,
         "power": 815,
         "attack": 791,
@@ -27572,7 +27573,6 @@ window.allHeroes =
             "Special Skill Damage Reduction: Received damage from Special Skills is  reduced by -20% for this character."
         ],
         "family": "underwild",
-        "image": "https://i.imgur.com/FKztylV.jpg",
         "costume_id": 0,
         "originalIndex": 422,
         "lb1": {
@@ -27620,6 +27620,7 @@ window.allHeroes =
         "source": "S4 - Wilderness",
         "Release date": "2024-08-01",
         "specialId": "spectres_flail",
+        "heroId": "s4_congalach_costume_kelp",
         "star": 5,
         "power": 1031,
         "attack": 1024,
@@ -27634,12 +27635,11 @@ window.allHeroes =
             "Increased Damage Against Boosted Health: After this character casts their Special Skill, all allies deal +70% increased normal attack and Special Skill damage against targets with boosted health for 4 turns."
         ],
         "family": "underwild",
-        "image": "https://i.imgur.com/llQVrNB.jpg",
         "costume_id": 1,
         "originalIndex": 423,
         "lb1": {
-            "power": 1102,
-            "attack": 1105,
+            "power": 1101,
+            "attack": 1102,
             "defense": 1081,
             "health": 2058
         },
@@ -27681,6 +27681,7 @@ window.allHeroes =
         "source": "Super Elementals",
         "Release date": "2024-05-20",
         "specialId": "call_of_the_elements",
+        "heroId": "elemental_craum",
         "star": 5,
         "power": 1049,
         "attack": 1027,
@@ -27702,7 +27703,6 @@ window.allHeroes =
             " - Received elemental damage: -10%"
         ],
         "family": "superelemental",
-        "image": "https://i.imgur.com/GyN20JL.jpg",
         "costume_id": 0,
         "originalIndex": 424,
         "lb1": {
@@ -27757,6 +27757,7 @@ window.allHeroes =
         "source": "Tower - Magic",
         "Release date": "2021-09-15",
         "specialId": "charmed_dual_blade",
+        "heroId": "magic_cristobal",
         "star": 5,
         "power": 813,
         "attack": 791,
@@ -27775,7 +27776,6 @@ window.allHeroes =
             "Status effect on special: When this character casts their Special Skill, they have a 50% chance to give -25% mana generation for 3 turns to all enemies. If the Special Skill is fully charged, the chance is 100%."
         ],
         "family": "magic",
-        "image": "https://i.imgur.com/H1Awz0g.jpg",
         "costume_id": 0,
         "originalIndex": 425,
         "lb1": {
@@ -27828,6 +27828,7 @@ window.allHeroes =
         "source": "S7 - Treasures of Flame and Frost",
         "Release date": "2025-01-26",
         "specialId": "blazing_venom",
+        "heroId": "tales2_dagr",
         "star": 5,
         "power": 1173,
         "attack": 1223,
@@ -27847,14 +27848,13 @@ window.allHeroes =
             " * The Burn damage is scaled by the amount of charge in the Core. All charge is exhausted when the Core is activated."
         ],
         "family": "nidavellir",
-        "image": "https://i.imgur.com/BDzoVb0.jpg",
         "costume_id": 0,
         "originalIndex": 426,
         "lb1": {
             "power": 1255,
             "attack": 1318,
             "defense": 1245,
-            "health": 2291
+            "health": 2288
         },
         "lb2": {
             "power": 1418,
@@ -27905,6 +27905,7 @@ window.allHeroes =
         "source": "Challenge - Secrets of the Opera",
         "Release date": "2024-03-21",
         "specialId": "echoes_of_the_opera",
+        "heroId": "ballerina_daroga",
         "star": 5,
         "power": 1022,
         "attack": 1065,
@@ -27920,7 +27921,6 @@ window.allHeroes =
             "Heal when status ailment expires or is cleared: This character receives 5% health each time a status ailment expires or is cleansed, removed or reallocated from them. This effect can activate only once per turn."
         ],
         "family": "opera",
-        "image": "https://i.imgur.com/Kmtj8Eb.jpg",
         "costume_id": 0,
         "originalIndex": 427,
         "lb1": {
@@ -27975,6 +27975,7 @@ window.allHeroes =
         "source": "Super Elementals",
         "Release date": "2024-01-01",
         "specialId": "jade_blades",
+        "heroId": "elemental_desmond",
         "star": 5,
         "power": 988,
         "attack": 1007,
@@ -27994,7 +27995,6 @@ window.allHeroes =
             " - Received elemental damage: -10%"
         ],
         "family": "superelemental",
-        "image": "https://i.imgur.com/oyCoXcq.jpg",
         "costume_id": 0,
         "originalIndex": 428,
         "lb1": {
@@ -28044,6 +28044,7 @@ window.allHeroes =
         "source": "Monthly Event - Love Season",
         "Release date": "2025-02-14",
         "specialId": "looking_for_love",
+        "heroId": "valentines_matchmaker_dodgrom",
         "star": 5,
         "power": 1163,
         "attack": 1145,
@@ -28058,7 +28059,6 @@ window.allHeroes =
             "Resist Special Skill Blocking: This character has innate resistance against status ailments that block Special Skills."
         ],
         "family": "cupid",
-        "image": "https://i.imgur.com/7l2ITkQ.jpg",
         "costume_id": 0,
         "originalIndex": 429,
         "lb1": {
@@ -28103,6 +28103,7 @@ window.allHeroes =
         "source": "Challenge - Beowulf",
         "Release date": "2025-03-13",
         "specialId": "challenge_the_strongest",
+        "heroId": "beowulf_ecgtheow",
         "star": 5,
         "power": 1188,
         "attack": 1266,
@@ -28118,7 +28119,6 @@ window.allHeroes =
             "Stacking Attack On Damage Received: When this character receives damage from Special Skills, they gain +30% attack Stack (Max: 10). One Stack can be gained per turn."
         ],
         "family": "beowulf",
-        "image": "https://i.imgur.com/P9xj0rz.jpg",
         "costume_id": 0,
         "originalIndex": 430,
         "lb1": {
@@ -28167,6 +28167,7 @@ window.allHeroes =
         "source": "Monthly Event - Morlovia",
         "Release date": "2023-09-25",
         "specialId": "hemlock_tea",
+        "heroId": "halloween_edwin",
         "star": 5,
         "power": 933,
         "attack": 922,
@@ -28181,7 +28182,6 @@ window.allHeroes =
             "Steal Buff: When this character casts their Special Skill, they have a 50% chance to steal the newest dispellable buff from a random enemy that has buffs. If no enemy has buffs, deals 70% damage to all enemies."
         ],
         "family": "morlovia",
-        "image": "https://i.imgur.com/NshfXdy.jpg",
         "costume_id": 0,
         "originalIndex": 431,
         "lb1": {
@@ -28235,6 +28235,7 @@ window.allHeroes =
         "source": "Challenge Festival II",
         "Release date": "2021-06-10",
         "specialId": "perfect_teamwork",
+        "heroId": "circus_eiora_and_fluffy",
         "star": 5,
         "power": 806,
         "attack": 786,
@@ -28247,7 +28248,6 @@ window.allHeroes =
         ],
         "passives": [],
         "family": "starfall",
-        "image": "https://i.imgur.com/ISxaSzG.jpg",
         "costume_id": 0,
         "originalIndex": 432,
         "lb1": {
@@ -28301,6 +28301,7 @@ window.allHeroes =
         "source": "Tower - Ninjas",
         "Release date": "2023-01-11",
         "specialId": "order_ambush",
+        "heroId": "ninja_ekanite",
         "star": 5,
         "power": 866,
         "attack": 850,
@@ -28323,7 +28324,6 @@ window.allHeroes =
         ],
         "passives": [],
         "family": "ninja",
-        "image": "https://i.imgur.com/YQskc4O.jpg",
         "costume_id": 0,
         "originalIndex": 433,
         "lb1": {
@@ -28375,6 +28375,7 @@ window.allHeroes =
         "source": "S5 - Dune",
         "Release date": "2022-04-21",
         "specialId": "luring_song",
+        "heroId": "s5_el_naddaha",
         "star": 5,
         "power": 858,
         "attack": 852,
@@ -28390,7 +28391,6 @@ window.allHeroes =
             " * Dispels the latest dispellable buff from enemies."
         ],
         "family": "moon",
-        "image": "https://i.imgur.com/IdGJmNB.jpg",
         "costume_id": 0,
         "originalIndex": 434,
         "lb1": {
@@ -28438,6 +28438,7 @@ window.allHeroes =
         "source": "S5 - Dune",
         "Release date": "2025-01-20",
         "specialId": "luring_song",
+        "heroId": "s5_el_naddaha_costume_sea",
         "star": 5,
         "power": 1199,
         "attack": 1262,
@@ -28455,7 +28456,6 @@ window.allHeroes =
             "Mana on Status Ailment Received: This character gains 5% mana when they receive a status ailment or negative stack."
         ],
         "family": "moon",
-        "image": "https://i.imgur.com/okhmn3A.jpg",
         "costume_id": 1,
         "originalIndex": 435,
         "lb1": {
@@ -28502,6 +28502,7 @@ window.allHeroes =
         "source": "S1 - Classic",
         "Release date": "2017-03-01",
         "specialId": "crescent_spear",
+        "heroId": "forest_male_elf",
         "star": 5,
         "power": 758,
         "attack": 675,
@@ -28513,7 +28514,6 @@ window.allHeroes =
         ],
         "passives": [],
         "family": "classic",
-        "image": "https://i.imgur.com/gkqoNuc.jpg",
         "costume_id": 0,
         "originalIndex": 436,
         "lb1": {
@@ -28561,6 +28561,7 @@ window.allHeroes =
         "source": "Costume Quest",
         "Release date": "2020-05-18",
         "specialId": "crescent_spear",
+        "heroId": "forest_male_elf_costume_dark",
         "star": 5,
         "power": 852,
         "attack": 740,
@@ -28572,7 +28573,6 @@ window.allHeroes =
         ],
         "passives": [],
         "family": "classic",
-        "image": "https://i.imgur.com/r8h2KIN.jpg",
         "costume_id": 1,
         "originalIndex": 437,
         "lb1": {
@@ -28619,6 +28619,7 @@ window.allHeroes =
         "source": "Costume Quest",
         "Release date": "2022-09-05",
         "specialId": "crescent_spear",
+        "heroId": "forest_male_elf_costume_king",
         "star": 5,
         "power": 968,
         "attack": 903,
@@ -28630,7 +28631,6 @@ window.allHeroes =
         ],
         "passives": [],
         "family": "classic",
-        "image": "https://i.imgur.com/45ULmYn.jpg",
         "costume_id": 2,
         "originalIndex": 438,
         "lb1": {
@@ -28643,7 +28643,7 @@ window.allHeroes =
             "power": 1165,
             "attack": 1113,
             "defense": 1204,
-            "health": 2242
+            "health": 2239
         },
         "cn_skill_info": [
             {
@@ -28678,6 +28678,7 @@ window.allHeroes =
         "source": "Costume Quest",
         "Release date": "2023-11-27",
         "specialId": "crescent_spear",
+        "heroId": "forest_male_elf_costume_cute",
         "star": 5,
         "power": 1135,
         "attack": 1171,
@@ -28692,7 +28693,6 @@ window.allHeroes =
             "Toon: 75% extra chance to resist all status ailments, mana reductions and buff dispels."
         ],
         "family": "classic",
-        "image": "https://i.imgur.com/6SvyBu6.jpg",
         "costume_id": 3,
         "originalIndex": 439,
         "lb1": {
@@ -28741,6 +28741,7 @@ window.allHeroes =
         "source": "Costume Quest",
         "Release date": "2025-01-14",
         "specialId": "crescent_spear",
+        "heroId": "forest_male_elf_costume_glass",
         "star": 5,
         "power": 1242,
         "attack": 1326,
@@ -28755,7 +28756,6 @@ window.allHeroes =
             "Glass: 60% extra chance to reflect status ailments back to the attacker."
         ],
         "family": "classic",
-        "image": "https://i.imgur.com/5zN8JJz.jpg",
         "costume_id": 4,
         "originalIndex": 440,
         "lb1": {
@@ -28805,6 +28805,7 @@ window.allHeroes =
         "source": "Legends Summon - Hero of the Month",
         "Release date": "2021-06-01",
         "specialId": "natures_payback",
+        "heroId": "forest_god_elradir",
         "star": 5,
         "power": 791,
         "attack": 766,
@@ -28820,7 +28821,6 @@ window.allHeroes =
             "Mana on Status Ailment Received: This character gains 5% mana when they receive a status ailment or a negative stack."
         ],
         "family": 2021,
-        "image": "https://i.imgur.com/WDClMpO.jpg",
         "costume_id": 0,
         "originalIndex": 441,
         "lb1": {
@@ -28872,6 +28872,7 @@ window.allHeroes =
         "source": "Tower - Magic",
         "Release date": "2025-04-17",
         "specialId": "picnic_in_the_sky",
+        "heroId": "magic_carpet_elyssa",
         "star": 5,
         "power": 1200,
         "attack": 1163,
@@ -28890,7 +28891,6 @@ window.allHeroes =
             "Weaker Mega Minions: Enemy Mega Minions have -75% HP."
         ],
         "family": "magiccarpet",
-        "image": "https://imgur.com/125Oojg.jpg",
         "costume_id": 0,
         "originalIndex": 442,
         "lb1": {
@@ -28941,6 +28941,7 @@ window.allHeroes =
         "source": "Legends Summon - Extra Draw",
         "Release date": "2022-11-22",
         "specialId": "absorbed_underlings",
+        "heroId": "mystery_enigmo",
         "star": 5,
         "power": 853,
         "attack": 824,
@@ -28956,7 +28957,6 @@ window.allHeroes =
             "Memorize Enemy Minions and Fiends: This character has innate ability to Memorize any Minion or Fiend summoned by enemies’ Special Skills. The latest Minion and Fiend that enemies summon will stay memorized until the Special Skill is cast."
         ],
         "family": "mystery",
-        "image": "https://i.imgur.com/S6ta64j.jpg",
         "costume_id": 0,
         "originalIndex": 443,
         "lb1": {
@@ -29009,6 +29009,7 @@ window.allHeroes =
         "source": "Legends Summon - Hero of the Month",
         "Release date": "2018-12-01",
         "specialId": "shattering_warcry",
+        "heroId": "forest_god_evelyn",
         "star": 5,
         "power": 768,
         "attack": 727,
@@ -29022,7 +29023,6 @@ window.allHeroes =
         ],
         "passives": [],
         "family": 2018,
-        "image": "https://i.imgur.com/YnTLDcR.jpg",
         "costume_id": 0,
         "originalIndex": 444,
         "lb1": {
@@ -29078,6 +29078,7 @@ window.allHeroes =
         "source": "Legends Summon - Hero of the Month",
         "Release date": "2023-10-02",
         "specialId": "shattering_warcry",
+        "heroId": "forest_god_evelyn_costume_huntress",
         "star": 5,
         "power": 976,
         "attack": 951,
@@ -29093,7 +29094,6 @@ window.allHeroes =
             "Cleanse on Special: When this character casts their Special Skill, they cleanse the newest status ailment from all allies."
         ],
         "family": 2018,
-        "image": "https://i.imgur.com/93B4oB9.jpg",
         "costume_id": 1,
         "originalIndex": 445,
         "lb1": {
@@ -29151,6 +29151,7 @@ window.allHeroes =
         "source": "Extra Draw - Secret Summon",
         "Release date": "2025-05-15",
         "specialId": "mimic_training_hero_green_bite",
+        "heroId": "mimic_training_hero_green",
         "star": 5,
         "power": 1200,
         "attack": 1236,
@@ -29172,7 +29173,6 @@ window.allHeroes =
             " * Uncommon Ice Heroes"
         ],
         "family": "mimic",
-        "image": "https://imgur.com/5HAwmjg.jpg",
         "costume_id": 0,
         "originalIndex": 446,
         "lb1": {
@@ -29232,6 +29232,7 @@ window.allHeroes =
         "source": "S7 - Treasures of Flame and Frost",
         "Release date": "2025-06-13",
         "specialId": "lance_of_avarice",
+        "heroId": "tales2_fafnir",
         "star": 5,
         "power": 1211,
         "attack": 1250,
@@ -29249,7 +29250,6 @@ window.allHeroes =
             " * The Frost damage is scaled by the amount of charge in the Core. All charge is exhausted when the Core is activated."
         ],
         "family": "myrkheim",
-        "image": "https://imgur.com/4ndmZBW.jpg",
         "costume_id": 0,
         "originalIndex": 447,
         "lb1": {
@@ -29306,6 +29306,7 @@ window.allHeroes =
         "source": "Challenge - Carnival of Gods",
         "Release date": "2023-11-02",
         "specialId": "remedies_and_diseases",
+        "heroId": "masquerade_februus",
         "star": 5,
         "power": 952,
         "attack": 885,
@@ -29322,7 +29323,6 @@ window.allHeroes =
             "Resist Defense Ailments: This character has innate resistance against status ailments that affect defense. Applies also to status ailments that affect elemental defense."
         ],
         "family": "maskedgod",
-        "image": "https://i.imgur.com/uBNXICu.jpg",
         "costume_id": 0,
         "originalIndex": 448,
         "lb1": {
@@ -29381,6 +29381,7 @@ window.allHeroes =
         "source": "Covenant Summon",
         "Release date": "2023-06-28",
         "specialId": "corroding_cutlass",
+        "heroId": "construct_ferrus",
         "star": 5,
         "power": 951,
         "attack": 916,
@@ -29396,7 +29397,6 @@ window.allHeroes =
             "Corrosive Core: The Construct Core of this character is Corrosive Core. The Corrosive Core activates each time this character’s Special Skill is cast: * All enemies receive Corrosive Poison for 3 turns. With a fully charged Corrosive Core, the Corrosive Poision deals 128 Poison damage and lowers the target’s mana generation by -13% each turn. Deals extra damage against heroes with Minions or a Mega Minion. * The poison damage is scaled by the amount of charge in the Core. All charge is exhausted when the Core is activated."
         ],
         "family": "construct",
-        "image": "https://i.imgur.com/cdOOWSr.jpg",
         "costume_id": 0,
         "originalIndex": 449,
         "lb1": {
@@ -29448,6 +29448,7 @@ window.allHeroes =
         "source": "Legends Summon - Hero of the Month",
         "Release date": "2025-07-01",
         "specialId": "heavy_fragrance",
+        "heroId": "nature_god_florenna",
         "star": 5,
         "power": 1116,
         "attack": 1170,
@@ -29464,7 +29465,6 @@ window.allHeroes =
             "Resist Poison: This character has innate resistance against Poison."
         ],
         "family": 2025,
-        "image": "https://imgur.com/5IV59yi.jpg",
         "costume_id": 0,
         "originalIndex": 450,
         "lb1": {
@@ -29516,6 +29516,7 @@ window.allHeroes =
         "source": "Covenant Summon",
         "Release date": "2025-04-14",
         "specialId": "barbed_arrows",
+        "heroId": "fox_foxley",
         "star": 5,
         "power": 1174,
         "attack": 1256,
@@ -29530,7 +29531,6 @@ window.allHeroes =
             "Decreased Healing: All enemies get -50% healing."
         ],
         "family": "fox",
-        "image": "https://imgur.com/WizK6Nb.jpg",
         "costume_id": 0,
         "originalIndex": 451,
         "lb1": {
@@ -29580,6 +29580,7 @@ window.allHeroes =
         "source": "Monthly Event - Morlovia",
         "Release date": "2020-10-26",
         "specialId": "electric_cut",
+        "heroId": "halloween_francine",
         "star": 5,
         "power": 795,
         "attack": 780,
@@ -29594,7 +29595,6 @@ window.allHeroes =
             "Steal Buff: When this character casts their Special Skill, they have a 50% chance to steal the newest dispellable buff from a random enemy that has buffs. If no enemy has buffs, deals 70% damage to all enemies."
         ],
         "family": "morlovia",
-        "image": "https://i.imgur.com/jBtXWpz.jpg",
         "costume_id": 0,
         "originalIndex": 452,
         "lb1": {
@@ -29647,6 +29647,7 @@ window.allHeroes =
         "source": "Monthly Event - Morlovia",
         "Release date": "2021-10-04",
         "specialId": "electric_cut",
+        "heroId": "halloween_francine_costume_mafia",
         "star": 5,
         "power": 944,
         "attack": 958,
@@ -29661,7 +29662,6 @@ window.allHeroes =
             "Steal Buff: When this character casts their Special Skill, they have a 50% chance to steal the newest dispellable buff from a random enemy that has buffs. If no enemy has buffs, deals 70% damage to all enemies."
         ],
         "family": "morlovia",
-        "image": "https://i.imgur.com/ObnUcTT.jpg",
         "costume_id": 1,
         "originalIndex": 453,
         "lb1": {
@@ -29710,6 +29710,7 @@ window.allHeroes =
         "source": "S3 - Valhalla",
         "Release date": "2020-08-27",
         "specialId": "brittling_force",
+        "heroId": "s3_frigg",
         "star": 5,
         "power": 786,
         "attack": 753,
@@ -29722,7 +29723,6 @@ window.allHeroes =
         ],
         "passives": [],
         "family": "alfheim",
-        "image": "https://i.imgur.com/UMxFVGq.jpg",
         "costume_id": 0,
         "originalIndex": 454,
         "lb1": {
@@ -29775,6 +29775,7 @@ window.allHeroes =
         "source": "S3 - Valhalla",
         "Release date": "2023-01-16",
         "specialId": "brittling_force",
+        "heroId": "s3_frigg_costume_clairvoyance",
         "star": 5,
         "power": 983,
         "attack": 970,
@@ -29787,7 +29788,6 @@ window.allHeroes =
         ],
         "passives": [],
         "family": "alfheim",
-        "image": "https://i.imgur.com/G0IAEBg.jpg",
         "costume_id": 1,
         "originalIndex": 455,
         "lb1": {
@@ -29843,6 +29843,7 @@ window.allHeroes =
         "source": "Challenge Festival I",
         "Release date": "2023-08-10",
         "specialId": "royal_poisoner",
+        "heroId": "fables_frog_prince",
         "star": 5,
         "power": 931,
         "attack": 918,
@@ -29856,7 +29857,6 @@ window.allHeroes =
         ],
         "passives": [],
         "family": "grimforest",
-        "image": "https://i.imgur.com/b7feuiD.jpg",
         "costume_id": 0,
         "originalIndex": 456,
         "lb1": {
@@ -29913,6 +29913,7 @@ window.allHeroes =
         "source": "Covenant Summon",
         "Release date": "2023-10-28",
         "specialId": "fury_of_the_ancient_forest",
+        "heroId": "construct_frond",
         "star": 5,
         "power": 980,
         "attack": 984,
@@ -29928,7 +29929,6 @@ window.allHeroes =
             "Destructive Core: The Construct Core of this character is Destructive Core. The Destructive Core activates each time this character’s Special Skill is cast: * With fully charged Destructive Core, deals 180% damage to all enemies. * The damage is scaled by the amount of charge in the Core. All charge is exchausted when the Core is activated."
         ],
         "family": "construct",
-        "image": "https://i.imgur.com/ThTeBHZ.jpg",
         "costume_id": 0,
         "originalIndex": 457,
         "lb1": {
@@ -29979,6 +29979,7 @@ window.allHeroes =
         "source": "Super Elementals",
         "Release date": "2024-06-18",
         "specialId": "revitalizing_sludge",
+        "heroId": "slime_fungustine",
         "star": 5,
         "power": 1120,
         "attack": 1081,
@@ -29996,14 +29997,13 @@ window.allHeroes =
             "Slime Minion Split: If this character loses more than 25% of max health at once, they summon a Slime Mega Minion for themselves with 50% HP and 40% attack."
         ],
         "family": "slime",
-        "image": "https://i.imgur.com/RTB91u9.jpg",
         "costume_id": 0,
         "originalIndex": 458,
         "lb1": {
             "power": 1197,
             "attack": 1165,
             "defense": 1303,
-            "health": 2142
+            "health": 2139
         },
         "lb2": {
             "power": 1351,
@@ -30053,6 +30053,7 @@ window.allHeroes =
         "source": "S6 - Mysteries of the Deep",
         "Release date": "2023-06-07",
         "specialId": "testudo_roll",
+        "heroId": "tales1_galapago",
         "star": 5,
         "power": 933,
         "attack": 803,
@@ -30077,7 +30078,6 @@ window.allHeroes =
             "Resist Insanity: This character has innate resistance against Insanity."
         ],
         "family": "defendersofatlantis",
-        "image": "https://i.imgur.com/pxAZGoS.jpg",
         "costume_id": 0,
         "originalIndex": 459,
         "lb1": {
@@ -30134,6 +30134,7 @@ window.allHeroes =
         "source": "S6 - Mysteries of the Deep",
         "Release date": "2024-07-27",
         "specialId": "testudo_roll",
+        "heroId": "tales1_galapago_costume_quarry",
         "star": 5,
         "power": 1161,
         "attack": 1059,
@@ -30158,7 +30159,6 @@ window.allHeroes =
             "Resist Insanity: This character has innate resistance against Insanity."
         ],
         "family": "defendersofatlantis",
-        "image": "https://i.imgur.com/hvltSu6.jpg",
         "costume_id": 1,
         "originalIndex": 460,
         "lb1": {
@@ -30211,6 +30211,7 @@ window.allHeroes =
         "source": "S4 - Wilderness",
         "Release date": "2021-04-22",
         "specialId": "flail_of_destruction",
+        "heroId": "s4_garjammal",
         "star": 5,
         "power": 807,
         "attack": 791,
@@ -30224,7 +30225,6 @@ window.allHeroes =
             "Decrease Ailment Duration: Duration of the first 3 status ailments this character receives from Special Skill is decreased by 1 turn."
         ],
         "family": "underwild",
-        "image": "https://i.imgur.com/kz19bRj.jpg",
         "costume_id": 0,
         "originalIndex": 461,
         "lb1": {
@@ -30273,6 +30273,7 @@ window.allHeroes =
         "source": "S4 - Wilderness",
         "Release date": "2023-06-22",
         "specialId": "flail_of_destruction",
+        "heroId": "s4_garjammal_costume_kite",
         "star": 5,
         "power": 1021,
         "attack": 1003,
@@ -30287,7 +30288,6 @@ window.allHeroes =
             "Increased Damage Against Boosted Health: After Special Skill cast, all allies' normal attacks and Special Skills deal +70% damage against targets with boosted health for 4 turns."
         ],
         "family": "underwild",
-        "image": "https://i.imgur.com/U99nNNm.jpg",
         "costume_id": 1,
         "originalIndex": 462,
         "lb1": {
@@ -30339,6 +30339,7 @@ window.allHeroes =
         "source": "Challenge - Gargoyle",
         "Release date": "2024-02-27",
         "specialId": "bone_club_party",
+        "heroId": "gargoyle_garten",
         "star": 5,
         "power": 1048,
         "attack": 1048,
@@ -30354,7 +30355,6 @@ window.allHeroes =
             "Gargoile’s Softskin: Every time this Gargoyle casts a Special Skill, their Softskin activates. The next 4 times they receive damage, it is reduced by -90%, and they resist all status ailment and mana reduction. This effect can’t be dispelled."
         ],
         "family": "gargoyle",
-        "image": "https://i.imgur.com/8K8mMLw.jpg",
         "costume_id": 0,
         "originalIndex": 463,
         "lb1": {
@@ -30405,6 +30405,7 @@ window.allHeroes =
         "source": "S6 - Mysteries of the Deep",
         "Release date": "2023-08-30",
         "specialId": "whirlpool_dash",
+        "heroId": "tales1_gelert",
         "star": 5,
         "power": 976,
         "attack": 1021,
@@ -30429,7 +30430,6 @@ window.allHeroes =
             " * All allies get +21% critical chance for 2 turns."
         ],
         "family": "defendersofatlantis",
-        "image": "https://i.imgur.com/WjoVn5I.jpg",
         "costume_id": 0,
         "originalIndex": 464,
         "lb1": {
@@ -30490,6 +30490,7 @@ window.allHeroes =
         "source": "S6 - Mysteries of the Deep",
         "Release date": "2025-06-26",
         "specialId": "whirlpool_dash",
+        "heroId": "tales1_gelert_costume_scavenger",
         "star": 5,
         "power": 1214,
         "attack": 1331,
@@ -30515,7 +30516,6 @@ window.allHeroes =
             "Resist Insanity: This character has an innate resistance against Insanity."
         ],
         "family": "defendersofatlantis",
-        "image": "https://imgur.com/A9Yjffb.jpg",
         "costume_id": 1,
         "originalIndex": 465,
         "lb1": {
@@ -30574,6 +30574,7 @@ window.allHeroes =
         "source": "Monthly Event - Winter",
         "Release date": "2023-12-01",
         "specialId": "hasty_trigger_finger",
+        "heroId": "christmas_ginger",
         "star": 5,
         "power": 949,
         "attack": 957,
@@ -30586,7 +30587,6 @@ window.allHeroes =
         ],
         "passives": [],
         "family": "christmas",
-        "image": "https://i.imgur.com/U9fsiDu.jpg",
         "costume_id": 0,
         "originalIndex": 466,
         "lb1": {
@@ -30637,6 +30637,7 @@ window.allHeroes =
         "source": "Goblin Summon",
         "Release date": "2025-07-22",
         "specialId": "holding_down_the_fort",
+        "heroId": "garrison_godfrey",
         "star": 5,
         "power": 1222,
         "attack": 1213,
@@ -30653,7 +30654,6 @@ window.allHeroes =
             "Guard Rally: Every 4 turns, removes all Wither effects from all allies."
         ],
         "family": "garrisonguard",
-        "image": "https://imgur.com/vijr1Kv.jpg",
         "costume_id": 0,
         "originalIndex": 467,
         "lb1": {
@@ -30708,6 +30708,7 @@ window.allHeroes =
         "source": "Super Elementals",
         "Release date": "2025-03-17",
         "specialId": "bone_slam",
+        "heroId": "slime_goorian",
         "star": 5,
         "power": 1184,
         "attack": 1266,
@@ -30729,7 +30730,6 @@ window.allHeroes =
             "Slime Minion Split: If this character loses more than 25% of max health at once, they summon a Slime Mega Minion for themselves with 50% HP and 40% attack."
         ],
         "family": "slime",
-        "image": "https://i.imgur.com/e1nrPfv.jpg",
         "costume_id": 0,
         "originalIndex": 468,
         "lb1": {
@@ -30785,6 +30785,7 @@ window.allHeroes =
         "source": "Legends Summon - Hero of the Month",
         "Release date": "2022-09-01",
         "specialId": "malison_of_the_wildlands",
+        "heroId": "forest_god_grace",
         "star": 5,
         "power": 811,
         "attack": 760,
@@ -30801,7 +30802,6 @@ window.allHeroes =
             "Mana on Taunt: Each time an enemy receives a Taunt status effect this character’s mana is increased by 10%."
         ],
         "family": 2022,
-        "image": "https://i.imgur.com/GvwTLSo.jpg",
         "costume_id": 0,
         "originalIndex": 469,
         "lb1": {
@@ -30851,6 +30851,7 @@ window.allHeroes =
         "source": "Challenge Festival I",
         "Release date": "2023-04-20",
         "specialId": "omen_of_retribution",
+        "heroId": "knights_green_knight",
         "star": 5,
         "power": 864,
         "attack": 885,
@@ -30863,7 +30864,6 @@ window.allHeroes =
         ],
         "passives": [],
         "family": "avalon",
-        "image": "https://i.imgur.com/4LKxVef.jpg",
         "costume_id": 0,
         "originalIndex": 470,
         "lb1": {
@@ -30921,6 +30921,7 @@ window.allHeroes =
         "source": "Legends Summon - Hero of the Month",
         "Release date": "2018-07-01",
         "specialId": "unwavering_focus",
+        "heroId": "forest_god_gregorion",
         "star": 5,
         "power": 768,
         "attack": 729,
@@ -30933,7 +30934,6 @@ window.allHeroes =
         ],
         "passives": [],
         "family": 2018,
-        "image": "https://i.imgur.com/Vz5Hvbn.jpg",
         "costume_id": 0,
         "originalIndex": 471,
         "lb1": {
@@ -30982,6 +30982,7 @@ window.allHeroes =
         "source": "Legends Summon - Hero of the Month",
         "Release date": "2024-03-08",
         "specialId": "unwavering_focus",
+        "heroId": "forest_god_gregorion_costume_alchemist",
         "star": 5,
         "power": 976,
         "attack": 958,
@@ -30996,14 +30997,13 @@ window.allHeroes =
             "Dispel on Special Skill: When this character casts their Special Skill, they dispel the newest status effect buff from all enemies."
         ],
         "family": 2018,
-        "image": "https://i.imgur.com/ONemvil.jpg",
         "costume_id": 1,
         "originalIndex": 472,
         "lb1": {
-            "power": 1043,
-            "attack": 1034,
+            "power": 1042,
+            "attack": 1031,
             "defense": 953,
-            "health": 2072
+            "health": 2069
         },
         "lb2": {
             "power": 1175,
@@ -31047,6 +31047,7 @@ window.allHeroes =
         "source": "Challenge - Beowulf",
         "Release date": "2025-02-13",
         "specialId": "gruesome_charge",
+        "heroId": "beowulf_grendel",
         "star": 5,
         "power": 1183,
         "attack": 1213,
@@ -31064,7 +31065,6 @@ window.allHeroes =
             "Stacking Attack On Damage Received: When this character receives damage from Special Skills, they gain +30% attack Stack (Max: 10). One Stack can be gained per turn."
         ],
         "family": "beowulf",
-        "image": "https://i.imgur.com/ijEHGWi.jpg",
         "costume_id": 0,
         "originalIndex": 473,
         "lb1": {
@@ -31122,6 +31122,7 @@ window.allHeroes =
         "source": "Alliance - Moths",
         "Release date": "2025-01-23",
         "specialId": "adorable_pest",
+        "heroId": "moth_grovevert",
         "star": 5,
         "power": 1178,
         "attack": 1225,
@@ -31137,7 +31138,6 @@ window.allHeroes =
             "Dodge Special Damage: This character has a 15% chance to dodge Special Skills that deal damage."
         ],
         "family": "moth",
-        "image": "https://i.imgur.com/0Q3pYS0.jpg",
         "costume_id": 0,
         "originalIndex": 474,
         "lb1": {
@@ -31191,6 +31191,7 @@ window.allHeroes =
         "source": "Three Kingdoms Summon",
         "Release date": "2022-03-14",
         "specialId": "green_dragon_crescent_blade",
+        "heroId": "kingdom_guan_yu",
         "star": 5,
         "power": 835,
         "attack": 826,
@@ -31203,7 +31204,6 @@ window.allHeroes =
         ],
         "passives": [],
         "family": "kingdom",
-        "image": "https://i.imgur.com/nDiRoqi.jpg",
         "costume_id": 0,
         "originalIndex": 475,
         "lb1": {
@@ -31257,6 +31257,7 @@ window.allHeroes =
         "source": "Three Kingdoms Summon",
         "Release date": "2024-10-01",
         "specialId": "green_dragon_crescent_blade",
+        "heroId": "kingdom_guan_yu_costume_dragon",
         "star": 5,
         "power": 1104,
         "attack": 1144,
@@ -31274,7 +31275,6 @@ window.allHeroes =
             " * Minion attack and abilities can’t be disabled."
         ],
         "family": "kingdom",
-        "image": "https://i.imgur.com/GP4J8r3.jpg",
         "costume_id": 1,
         "originalIndex": 476,
         "lb1": {
@@ -31330,6 +31330,7 @@ window.allHeroes =
         "source": "Challenge Festival I",
         "Release date": "2020-01-08",
         "specialId": "elemental_magic",
+        "heroId": "guardian_chameleon",
         "star": 5,
         "power": 780,
         "attack": 714,
@@ -31343,7 +31344,6 @@ window.allHeroes =
         ],
         "passives": [],
         "family": "guardiansteltoc",
-        "image": "https://i.imgur.com/Q04Vvnt.jpg",
         "costume_id": 0,
         "originalIndex": 477,
         "lb1": {
@@ -31394,6 +31394,7 @@ window.allHeroes =
         "source": "Monster Island Summon",
         "Release date": "2022-11-12",
         "specialId": "demolishing_crush",
+        "heroId": "monster_hunter_hammertusk",
         "star": 5,
         "power": 886,
         "attack": 819,
@@ -31408,7 +31409,6 @@ window.allHeroes =
             "Damage over Time on Special: When this character casts their Special Skill, they give a Hunter’s Mark on a random enemy. The target receives 150 damage over 3 turns. If a target already has this effect, the duration will be refreshed and the damage will be increased by 150, up to 1500 damage in total."
         ],
         "family": "plainshunter",
-        "image": "https://i.imgur.com/pL7PYXM.jpg",
         "costume_id": 0,
         "originalIndex": 478,
         "lb1": {
@@ -31462,6 +31462,7 @@ window.allHeroes =
         "source": "Covenant Summon",
         "Release date": "2023-06-28",
         "specialId": "bag_of_necessities",
+        "heroId": "construct_haulstone",
         "star": 5,
         "power": 926,
         "attack": 760,
@@ -31485,7 +31486,6 @@ window.allHeroes =
             "Repair Core: The Construct Core of this character is Repair Core. The Repair Core activates each time this character’s Special Skill is cast: * With fully charged Repair Core, boosts the health of all allies by 25%. * The healing is scaled by the amount of charge in the Core, All charge is exchausted when the Core is activated."
         ],
         "family": "construct",
-        "image": "https://i.imgur.com/nDQGLk9.jpg",
         "costume_id": 0,
         "originalIndex": 479,
         "lb1": {
@@ -31542,6 +31542,7 @@ window.allHeroes =
         "source": "S3 - Valhalla",
         "Release date": "2020-02-27",
         "specialId": "boon_of_gjallarhorn",
+        "heroId": "s3_heimdall",
         "star": 5,
         "power": 788,
         "attack": 655,
@@ -31554,7 +31555,6 @@ window.allHeroes =
         ],
         "passives": [],
         "family": "asgard",
-        "image": "https://i.imgur.com/bjKzbra.jpg",
         "costume_id": 0,
         "originalIndex": 480,
         "lb1": {
@@ -31605,6 +31605,7 @@ window.allHeroes =
         "source": "S3 - Valhalla",
         "Release date": "2022-10-24",
         "specialId": "boon_of_gjallarhorn",
+        "heroId": "s3_heimdall_costume_dreaded",
         "star": 5,
         "power": 988,
         "attack": 832,
@@ -31617,7 +31618,6 @@ window.allHeroes =
         ],
         "passives": [],
         "family": "asgard",
-        "image": "https://i.imgur.com/YoTKnv0.jpg",
         "costume_id": 1,
         "originalIndex": 481,
         "lb1": {
@@ -31665,6 +31665,7 @@ window.allHeroes =
         "source": "S1 - Classic",
         "Release date": "2017-03-01",
         "specialId": "anger_of_forest",
+        "heroId": "forest_titan",
         "star": 5,
         "power": 753,
         "attack": 657,
@@ -31676,7 +31677,6 @@ window.allHeroes =
         ],
         "passives": [],
         "family": "classic",
-        "image": "https://i.imgur.com/6787feX.jpg",
         "costume_id": 0,
         "originalIndex": 482,
         "lb1": {
@@ -31723,6 +31723,7 @@ window.allHeroes =
         "source": "Costume Quest",
         "Release date": "2020-01-01",
         "specialId": "anger_of_forest",
+        "heroId": "forest_titan_costume_jester",
         "star": 5,
         "power": 849,
         "attack": 744,
@@ -31734,7 +31735,6 @@ window.allHeroes =
         ],
         "passives": [],
         "family": "classic",
-        "image": "https://i.imgur.com/AffGFoZ.jpg",
         "costume_id": 1,
         "originalIndex": 483,
         "lb1": {
@@ -31785,6 +31785,7 @@ window.allHeroes =
         "source": "Costume Quest",
         "Release date": "2022-10-31",
         "specialId": "anger_of_forest",
+        "heroId": "forest_titan_costume_nightmare",
         "star": 5,
         "power": 966,
         "attack": 842,
@@ -31798,19 +31799,18 @@ window.allHeroes =
         ],
         "passives": [],
         "family": "classic",
-        "image": "https://i.imgur.com/IfQ1lHo.jpg",
         "costume_id": 2,
         "originalIndex": 484,
         "lb1": {
-            "power": 1031,
+            "power": 1030,
             "attack": 906,
-            "defense": 953,
+            "defense": 950,
             "health": 2306
         },
         "lb2": {
             "power": 1162,
             "attack": 1038,
-            "defense": 1090,
+            "defense": 1087,
             "health": 2639
         },
         "cn_skill_info": [
@@ -31849,6 +31849,7 @@ window.allHeroes =
         "source": "Costume Quest",
         "Release date": "2024-07-16",
         "specialId": "anger_of_forest",
+        "heroId": "forest_titan_costume_cute",
         "star": 5,
         "power": 1131,
         "attack": 940,
@@ -31863,14 +31864,13 @@ window.allHeroes =
             "Toon: 75% extra chance to resist all status ailments, mana reductions and buff dispels."
         ],
         "family": "classic",
-        "image": "https://i.imgur.com/VkOyyRt.jpg",
         "costume_id": 3,
         "originalIndex": 485,
         "lb1": {
-            "power": 1210,
+            "power": 1209,
             "attack": 1013,
             "defense": 1176,
-            "health": 2867
+            "health": 2864
         },
         "lb2": {
             "power": 1366,
@@ -31918,6 +31918,7 @@ window.allHeroes =
         "source": "Alliance - Knights Clash",
         "Release date": "2024-06-05",
         "specialId": "mending_bronze_axe",
+        "heroId": "castle_bear_humbert",
         "star": 5,
         "power": 1079,
         "attack": 1050,
@@ -31932,7 +31933,6 @@ window.allHeroes =
             "Health Recovery on Buff Received: This character recovers 5% health when  they receive a buff or a positive stack."
         ],
         "family": "bear",
-        "image": "https://i.imgur.com/wk8es22.jpg",
         "costume_id": 0,
         "originalIndex": 486,
         "lb1": {
@@ -31984,6 +31984,7 @@ window.allHeroes =
         "source": "Monthly Event - Kalevala",
         "Release date": "2022-06-20",
         "specialId": "dreaded_waters",
+        "heroId": "kalevala_iku_turso",
         "star": 5,
         "power": 836,
         "attack": 811,
@@ -31998,7 +31999,6 @@ window.allHeroes =
             "Power of Sisu: When this character starts a turn with low health for the first time during a battle, they recover 15% health and receive 15% mana."
         ],
         "family": "kalevala",
-        "image": "https://i.imgur.com/wOeJMxg.jpg",
         "costume_id": 0,
         "originalIndex": 487,
         "lb1": {
@@ -32053,6 +32053,7 @@ window.allHeroes =
         "source": "Tower - Ninjas",
         "Release date": "2024-12-05",
         "specialId": "suppressing_ki",
+        "heroId": "ninja_ito",
         "star": 5,
         "power": 1130,
         "attack": 1184,
@@ -32077,7 +32078,6 @@ window.allHeroes =
             "Decreased Minion Health: Enemy Minions inherit -50% less health when summoned."
         ],
         "family": "ninja",
-        "image": "https://i.imgur.com/TBhE7C4.jpg",
         "costume_id": 0,
         "originalIndex": 488,
         "lb1": {
@@ -32129,6 +32129,7 @@ window.allHeroes =
         "source": "Tower - Ninjas",
         "Release date": "2020-10-13",
         "specialId": "shared_visage",
+        "heroId": "ninja_jade",
         "star": 5,
         "power": 798,
         "attack": 692,
@@ -32150,7 +32151,6 @@ window.allHeroes =
         ],
         "passives": [],
         "family": "ninja",
-        "image": "https://i.imgur.com/tVOg6Mz.jpg",
         "costume_id": 0,
         "originalIndex": 489,
         "lb1": {
@@ -32202,6 +32202,7 @@ window.allHeroes =
         "source": "S1 - Classic",
         "Release date": "2017-03-01",
         "specialId": "eclipse_shield",
+        "heroId": "forest_female_elf",
         "star": 5,
         "power": 757,
         "attack": 696,
@@ -32213,7 +32214,6 @@ window.allHeroes =
         ],
         "passives": [],
         "family": "classic",
-        "image": "https://i.imgur.com/Gjh3PRB.jpg",
         "costume_id": 0,
         "originalIndex": 490,
         "lb1": {
@@ -32261,6 +32261,7 @@ window.allHeroes =
         "source": "Costume Quest",
         "Release date": "2020-05-18",
         "specialId": "eclipse_shield",
+        "heroId": "forest_female_elf_costume_mage",
         "star": 5,
         "power": 851,
         "attack": 751,
@@ -32273,7 +32274,6 @@ window.allHeroes =
         ],
         "passives": [],
         "family": "classic",
-        "image": "https://i.imgur.com/N7LZ2EP.jpg",
         "costume_id": 1,
         "originalIndex": 491,
         "lb1": {
@@ -32326,6 +32326,7 @@ window.allHeroes =
         "source": "Costume Quest",
         "Release date": "2023-04-17",
         "specialId": "eclipse_shield",
+        "heroId": "forest_female_elf_costume_fairy",
         "star": 5,
         "power": 966,
         "attack": 838,
@@ -32338,7 +32339,6 @@ window.allHeroes =
         ],
         "passives": [],
         "family": "classic",
-        "image": "https://i.imgur.com/hEckaC5.jpg",
         "costume_id": 2,
         "originalIndex": 492,
         "lb1": {
@@ -32391,6 +32391,7 @@ window.allHeroes =
         "source": "Costume Quest",
         "Release date": "2024-10-06",
         "specialId": "eclipse_shield",
+        "heroId": "forest_female_elf_costume_cute",
         "star": 5,
         "power": 1133,
         "attack": 1174,
@@ -32405,7 +32406,6 @@ window.allHeroes =
             "Toon: 75% extra chance to resist all status ailments, mana reductions and buff dispels."
         ],
         "family": "classic",
-        "image": "https://i.imgur.com/I1ETLXX.jpg",
         "costume_id": 3,
         "originalIndex": 493,
         "lb1": {
@@ -32462,6 +32462,7 @@ window.allHeroes =
         "source": "Monster Island Summon",
         "Release date": "2022-10-15",
         "specialId": "mantis_strike",
+        "heroId": "monster_hunter_kai",
         "star": 5,
         "power": 888,
         "attack": 889,
@@ -32479,7 +32480,6 @@ window.allHeroes =
             "Special Skill Damage Reduction: This character has a 10% chance to drop the direct damage received from Special Skills to 1."
         ],
         "family": "plainshunter",
-        "image": "https://i.imgur.com/D9rMcBZ.jpg",
         "costume_id": 0,
         "originalIndex": 494,
         "lb1": {
@@ -32537,6 +32537,7 @@ window.allHeroes =
         "source": "Legends Summon - Hero of the Month",
         "Release date": "2019-10-01",
         "specialId": "stiletto_cyclone",
+        "heroId": "forest_god_kingston",
         "star": 5,
         "power": 770,
         "attack": 749,
@@ -32551,7 +32552,6 @@ window.allHeroes =
             "Resist Burn: The character has an innate resistance against Burn."
         ],
         "family": 2019,
-        "image": "https://i.imgur.com/rlpoKXr.jpg",
         "costume_id": 0,
         "originalIndex": 495,
         "lb1": {
@@ -32602,6 +32602,7 @@ window.allHeroes =
         "source": "Goblin Summon",
         "Release date": "2024-11-24",
         "specialId": "laundry_day",
+        "heroId": "garrison_kolya",
         "star": 5,
         "power": 1118,
         "attack": 1128,
@@ -32619,7 +32620,6 @@ window.allHeroes =
             "Guard Rally: Every 4 turns, removes all Wither effects from all allies."
         ],
         "family": "garrisonguard",
-        "image": "https://i.imgur.com/joEtnuS.jpg",
         "costume_id": 0,
         "originalIndex": 496,
         "lb1": {
@@ -32677,6 +32677,7 @@ window.allHeroes =
         "source": "Challenge Festival I",
         "Release date": "2017-09-07",
         "specialId": "moonlight_serenade",
+        "heroId": "pirate_lady",
         "star": 5,
         "power": 765,
         "attack": 805,
@@ -32688,7 +32689,6 @@ window.allHeroes =
         ],
         "passives": [],
         "family": "corellia",
-        "image": "https://i.imgur.com/rSEO0Xi.jpg",
         "costume_id": 0,
         "originalIndex": 497,
         "lb1": {
@@ -32738,6 +32738,7 @@ window.allHeroes =
         "source": "Challenge Festival I",
         "Release date": "2023-12-28",
         "specialId": "moonlight_serenade",
+        "heroId": "pirate_lady_costume_queen",
         "star": 5,
         "power": 956,
         "attack": 1022,
@@ -32752,7 +32753,6 @@ window.allHeroes =
             "Poison on Special Skill: When this character casts their Special Skill, all enemies receive 540 Poison damage over 4 turns."
         ],
         "family": "corellia",
-        "image": "https://i.imgur.com/mpM0YIf.jpg",
         "costume_id": 1,
         "originalIndex": 498,
         "lb1": {
@@ -32802,6 +32802,7 @@ window.allHeroes =
         "source": "Challenge Festival I",
         "Release date": "2019-09-12",
         "specialId": "magical_sword",
+        "heroId": "knights_lady_of_the_lake",
         "star": 5,
         "power": 780,
         "attack": 756,
@@ -32814,7 +32815,6 @@ window.allHeroes =
         ],
         "passives": [],
         "family": "avalon",
-        "image": "https://i.imgur.com/hlRFlMx.jpg",
         "costume_id": 0,
         "originalIndex": 499,
         "lb1": {
@@ -32863,6 +32863,7 @@ window.allHeroes =
         "source": "Challenge Festival I",
         "Release date": "2021-12-15",
         "specialId": "magical_sword",
+        "heroId": "knights_lady_of_the_lake_costume_blades",
         "star": 5,
         "power": 977,
         "attack": 946,
@@ -32876,7 +32877,6 @@ window.allHeroes =
         ],
         "passives": [],
         "family": "avalon",
-        "image": "https://i.imgur.com/T9XV0yp.jpg",
         "costume_id": 1,
         "originalIndex": 500,
         "lb1": {
@@ -32928,6 +32928,7 @@ window.allHeroes =
         "source": "Legends Summon - Hero of the Month",
         "Release date": "2023-12-01",
         "specialId": "spirit_of_spring",
+        "heroId": "nature_god_leadria",
         "star": 5,
         "power": 899,
         "attack": 832,
@@ -32944,7 +32945,6 @@ window.allHeroes =
             "Boosted Health From Dead Minion: This character recovers 50 boosted health when a minion owned by them is destroyed."
         ],
         "family": 2023,
-        "image": "https://i.imgur.com/YdTKSoW.jpg",
         "costume_id": 0,
         "originalIndex": 501,
         "lb1": {
@@ -32994,6 +32994,7 @@ window.allHeroes =
         "source": "Goblin Summon",
         "Release date": "2023-12-11",
         "specialId": "flute_of_enchantment",
+        "heroId": "goblin_leafwizzle",
         "star": 5,
         "power": 980,
         "attack": 994,
@@ -33010,7 +33011,6 @@ window.allHeroes =
             " * All enemies get -25% accuracy for 3 turns."
         ],
         "family": "goblin",
-        "image": "https://i.imgur.com/Y6zioBg.jpg",
         "costume_id": 0,
         "originalIndex": 502,
         "lb1": {
@@ -33060,6 +33060,7 @@ window.allHeroes =
         "source": "Wilderness Summon",
         "Release date": "2025-03-17",
         "specialId": "claws_of_the_lioness",
+        "heroId": "wild_cat_leonie",
         "star": 5,
         "power": 1214,
         "attack": 1351,
@@ -33081,7 +33082,6 @@ window.allHeroes =
             " * - Growth and Wither effects."
         ],
         "family": "wildcat",
-        "image": "https://i.imgur.com/nW3onBB.jpg",
         "costume_id": 0,
         "originalIndex": 503,
         "lb1": {
@@ -33127,6 +33127,7 @@ window.allHeroes =
         "source": "S1 - Classic",
         "Release date": "2017-03-01",
         "specialId": "perfect_shot",
+        "heroId": "elven_archer",
         "star": 5,
         "power": 755,
         "attack": 729,
@@ -33137,7 +33138,6 @@ window.allHeroes =
         ],
         "passives": [],
         "family": "classic",
-        "image": "https://i.imgur.com/uJj6MQb.jpg",
         "costume_id": 0,
         "originalIndex": 504,
         "lb1": {
@@ -33179,6 +33179,7 @@ window.allHeroes =
         "source": "Costume Quest",
         "Release date": "2020-01-01",
         "specialId": "perfect_shot",
+        "heroId": "elven_archer_costume_moon",
         "star": 5,
         "power": 849,
         "attack": 832,
@@ -33190,7 +33191,6 @@ window.allHeroes =
         ],
         "passives": [],
         "family": "classic",
-        "image": "https://i.imgur.com/ieaiSor.jpg",
         "costume_id": 1,
         "originalIndex": 505,
         "lb1": {
@@ -33237,6 +33237,7 @@ window.allHeroes =
         "source": "Costume Quest",
         "Release date": "2023-04-17",
         "specialId": "perfect_shot",
+        "heroId": "elven_archer_costume_raven",
         "star": 5,
         "power": 964,
         "attack": 971,
@@ -33248,7 +33249,6 @@ window.allHeroes =
         ],
         "passives": [],
         "family": "classic",
-        "image": "https://i.imgur.com/UwDUNi0.jpg",
         "costume_id": 2,
         "originalIndex": 506,
         "lb1": {
@@ -33294,6 +33294,7 @@ window.allHeroes =
         "source": "Costume Quest",
         "Release date": "2024-02-12",
         "specialId": "perfect_shot",
+        "heroId": "elven_archer_costume_cute",
         "star": 5,
         "power": 1130,
         "attack": 1139,
@@ -33307,7 +33308,6 @@ window.allHeroes =
             "Toon: 75% extra chance to resist all status ailments, mana reductions and buff dispels."
         ],
         "family": "classic",
-        "image": "https://i.imgur.com/yEECSzl.jpg",
         "costume_id": 3,
         "originalIndex": 507,
         "lb1": {
@@ -33354,6 +33354,7 @@ window.allHeroes =
         "source": "Costume Quest",
         "Release date": "2025-05-10",
         "specialId": "perfect_shot",
+        "heroId": "elven_archer_costume_glass",
         "star": 5,
         "power": 1237,
         "attack": 1323,
@@ -33367,14 +33368,13 @@ window.allHeroes =
             "Glass: 60% extra chance to reflect status ailments back to the attacker."
         ],
         "family": "classic",
-        "image": "https://imgur.com/Ad7sIug.jpg",
         "costume_id": 4,
         "originalIndex": 508,
         "lb1": {
-            "power": 1323,
+            "power": 1322,
             "attack": 1424,
             "defense": 1319,
-            "health": 2362
+            "health": 2359
         },
         "lb2": {
             "power": 1496,
@@ -33420,6 +33420,7 @@ window.allHeroes =
         "source": "Alliance - Moths",
         "Release date": "2025-06-02",
         "specialId": "dozy_mead",
+        "heroId": "moth_limeboire",
         "star": 5,
         "power": 1206,
         "attack": 1231,
@@ -33435,7 +33436,6 @@ window.allHeroes =
             "Dodge Special Damage: This character has a 15% chance to dodge Special Skills that deal damage."
         ],
         "family": "moth",
-        "image": "https://imgur.com/OeIVrwK.jpg",
         "costume_id": 0,
         "originalIndex": 509,
         "lb1": {
@@ -33496,6 +33496,7 @@ window.allHeroes =
         "source": "Three Kingdoms Summon",
         "Release date": "2022-05-23",
         "specialId": "call_to_arms",
+        "heroId": "kingdom_liu_bei",
         "star": 5,
         "power": 836,
         "attack": 815,
@@ -33508,7 +33509,6 @@ window.allHeroes =
         ],
         "passives": [],
         "family": "kingdom",
-        "image": "https://i.imgur.com/Uq8cKe7.jpg",
         "costume_id": 0,
         "originalIndex": 510,
         "lb1": {
@@ -33562,6 +33562,7 @@ window.allHeroes =
         "source": "Three Kingdoms Summon",
         "Release date": "2025-01-29",
         "specialId": "call_to_arms",
+        "heroId": "kingdom_liu_bei_costume_nature",
         "star": 5,
         "power": 1107,
         "attack": 1134,
@@ -33579,19 +33580,18 @@ window.allHeroes =
             " * Minion attack and abilities can’t be disabled."
         ],
         "family": "kingdom",
-        "image": "https://i.imgur.com/rjnMev7.jpg",
         "costume_id": 1,
         "originalIndex": 511,
         "lb1": {
             "power": 1183,
             "attack": 1221,
-            "defense": 1147,
+            "defense": 1144,
             "health": 2217
         },
         "lb2": {
             "power": 1336,
             "attack": 1398,
-            "defense": 1312,
+            "defense": 1309,
             "health": 2537
         },
         "cn_skill_info": [
@@ -33637,6 +33637,7 @@ window.allHeroes =
         "source": "S4 - Wilderness",
         "Release date": "2021-11-04",
         "specialId": "transcendental_frame",
+        "heroId": "s4_lughaidh",
         "star": 5,
         "power": 810,
         "attack": 721,
@@ -33654,7 +33655,6 @@ window.allHeroes =
             "Special Skill Damage Reduction: Received damage from Special Skills is  reduced by -20% for this character."
         ],
         "family": "underwild",
-        "image": "https://i.imgur.com/RFjr7Fi.jpg",
         "costume_id": 0,
         "originalIndex": 512,
         "lb1": {
@@ -33707,6 +33707,7 @@ window.allHeroes =
         "source": "S4 - Wilderness",
         "Release date": "2024-08-29",
         "specialId": "transcendental_frame",
+        "heroId": "s4_lughaidh_costume_deathless",
         "star": 5,
         "power": 1026,
         "attack": 928,
@@ -33724,7 +33725,6 @@ window.allHeroes =
             "Boost Health on Special Skill: When this characters casts their Special Skill, they boost the health of all their allies by 10%."
         ],
         "family": "underwild",
-        "image": "https://i.imgur.com/EAwYCZr.jpg",
         "costume_id": 1,
         "originalIndex": 513,
         "lb1": {
@@ -33773,6 +33773,7 @@ window.allHeroes =
         "source": "S5 - Dune",
         "Release date": "2022-09-29",
         "specialId": "bringer_of_order",
+        "heroId": "s5_maat",
         "star": 5,
         "power": 865,
         "attack": 832,
@@ -33789,7 +33790,6 @@ window.allHeroes =
             " * All enemies get -34% attack for 3 turns."
         ],
         "family": "sun",
-        "image": "https://i.imgur.com/Lc6n5Vz.jpg",
         "costume_id": 0,
         "originalIndex": 514,
         "lb1": {
@@ -33838,6 +33838,7 @@ window.allHeroes =
         "source": "S5 - Dune",
         "Release date": "2024-02-05",
         "specialId": "bringer_of_order",
+        "heroId": "s5_maat_costume_river",
         "star": 5,
         "power": 1209,
         "attack": 1197,
@@ -33856,7 +33857,6 @@ window.allHeroes =
             "Mana on Health Boosting Special Skill: This character gains 5% mana each time an enemy casts a Special Skill that directly boosts health."
         ],
         "family": "sun",
-        "image": "https://i.imgur.com/mjmiIt0.jpg",
         "costume_id": 1,
         "originalIndex": 515,
         "lb1": {
@@ -33906,6 +33906,7 @@ window.allHeroes =
         "source": "Astral Summon",
         "Release date": "2025-01-06",
         "specialId": "astral_brew",
+        "heroId": "astral_dwarf_maegwyn",
         "star": 5,
         "power": 1160,
         "attack": 1172,
@@ -33922,7 +33923,6 @@ window.allHeroes =
             "Resist Healing Ailments: This character has innate resistance against status ailments that affect healing."
         ],
         "family": "astraldwarfs",
-        "image": "https://i.imgur.com/ZHoR1Fc.jpg",
         "costume_id": 0,
         "originalIndex": 516,
         "lb1": {
@@ -33972,6 +33972,7 @@ window.allHeroes =
         "source": "Legends Summon - Hero of the Month",
         "Release date": "2019-05-01",
         "specialId": "hide_in_shadows",
+        "heroId": "forest_god_elinor",
         "star": 5,
         "power": 770,
         "attack": 821,
@@ -33986,7 +33987,6 @@ window.allHeroes =
             "Resist Dispels: This character has an innate ability to resist dispels of buffs."
         ],
         "family": 2019,
-        "image": "https://i.imgur.com/3T1uKuW.jpg",
         "costume_id": 0,
         "originalIndex": 517,
         "lb1": {
@@ -34035,6 +34035,7 @@ window.allHeroes =
         "source": "Challenge Festival II",
         "Release date": "2022-11-03",
         "specialId": "puppy_tales",
+        "heroId": "mighty_pet_toto",
         "star": 5,
         "power": 875,
         "attack": 836,
@@ -34050,7 +34051,6 @@ window.allHeroes =
             "Friend of the Familiars: When a Minion is summoned to any ally, this character gains 5% health and 5% mana. This effect can activate only once per turn."
         ],
         "family": "pets",
-        "image": "https://i.imgur.com/V0qUVNH.jpg",
         "costume_id": 0,
         "originalIndex": 518,
         "lb1": {
@@ -34104,6 +34104,7 @@ window.allHeroes =
         "source": "Monthly Event - Beach Party",
         "Release date": "2024-06-03",
         "specialId": "super_duper_spray",
+        "heroId": "beachparty_mazoga",
         "star": 5,
         "power": 1018,
         "attack": 1065,
@@ -34119,7 +34120,6 @@ window.allHeroes =
             "Damage over time on Special: When this character casts their Special Skill, all enemies receive 254 Water damage over 2 turns."
         ],
         "family": "beachparty",
-        "image": "https://i.imgur.com/1FUEzbL.jpg",
         "costume_id": 0,
         "originalIndex": 519,
         "lb1": {
@@ -34174,6 +34174,7 @@ window.allHeroes =
         "source": "Challenge - Gargoyle",
         "Release date": "2024-05-16",
         "specialId": "fluff_in_the_air",
+        "heroId": "gargoyle_mena",
         "star": 5,
         "power": 1049,
         "attack": 1102,
@@ -34189,7 +34190,6 @@ window.allHeroes =
             "Gargoile’s Softskin: Every time this Gargoyle casts a Special Skill, their Softskin activates. The next 3 times they receive damage, it is reduced by -90%, and they resist all status ailment and mana reduction. This effect can’t be dispelled."
         ],
         "family": "gargoyle",
-        "image": "https://i.imgur.com/y4ORfSh.jpg",
         "costume_id": 0,
         "originalIndex": 520,
         "lb1": {
@@ -34241,6 +34241,7 @@ window.allHeroes =
         "source": "Monster Island Summon",
         "Release date": "2023-03-03",
         "specialId": "misty_punches",
+        "heroId": "monster_hunter_mistweaver",
         "star": 5,
         "power": 894,
         "attack": 885,
@@ -34256,7 +34257,6 @@ window.allHeroes =
             "Hunter’s Vigor: When this character casts their Special Skill, they get +20% attack for 3 turns. This effect can be active in addition to other effects that alter attack."
         ],
         "family": "junglehunter",
-        "image": "https://i.imgur.com/F4ide5S.jpg",
         "costume_id": 0,
         "originalIndex": 521,
         "lb1": {
@@ -34309,6 +34309,7 @@ window.allHeroes =
         "source": "Astral Summon",
         "Release date": "2024-03-07",
         "specialId": "leafglow_bloom",
+        "heroId": "astral_moonflower",
         "star": 5,
         "power": 1014,
         "attack": 994,
@@ -34323,20 +34324,19 @@ window.allHeroes =
             "Share Received Damage: 20% of damage received by this charater is shared with other allies."
         ],
         "family": "astralelves",
-        "image": "https://i.imgur.com/0xgP0mx.jpg",
         "costume_id": 0,
         "originalIndex": 522,
         "lb1": {
-            "power": 1080,
+            "power": 1082,
             "attack": 1072,
-            "defense": 1149,
-            "health": 1847
+            "defense": 1155,
+            "health": 1852
         },
         "lb2": {
-            "power": 1218,
+            "power": 1221,
             "attack": 1226,
-            "defense": 1315,
-            "health": 2113
+            "defense": 1323,
+            "health": 2121
         },
         "cn_skill_info": [
             {
@@ -34369,6 +34369,7 @@ window.allHeroes =
         "source": "Challenge Festival I",
         "Release date": "2018-01-05",
         "specialId": "unnatural_pact",
+        "heroId": "knights_morgan_le_fay",
         "star": 5,
         "power": 765,
         "attack": 716,
@@ -34380,7 +34381,6 @@ window.allHeroes =
         ],
         "passives": [],
         "family": "avalon",
-        "image": "https://i.imgur.com/JIPoRD4.jpg",
         "costume_id": 0,
         "originalIndex": 523,
         "lb1": {
@@ -34439,6 +34439,7 @@ window.allHeroes =
         "source": "Monthly Event - Winter",
         "Release date": "2018-12-02",
         "specialId": "super_porridge",
+        "heroId": "christmas_mrs_claus",
         "star": 5,
         "power": 770,
         "attack": 605,
@@ -34451,7 +34452,6 @@ window.allHeroes =
         ],
         "passives": [],
         "family": "christmas",
-        "image": "https://i.imgur.com/463IXXp.jpg",
         "costume_id": 0,
         "originalIndex": 524,
         "lb1": {
@@ -34501,6 +34501,7 @@ window.allHeroes =
         "source": "Monthly Event - Winter",
         "Release date": "2021-12-01",
         "specialId": "super_porridge",
+        "heroId": "christmas_mrs_claus_costume_fangirl",
         "star": 5,
         "power": 996,
         "attack": 789,
@@ -34513,7 +34514,6 @@ window.allHeroes =
         ],
         "passives": [],
         "family": "christmas",
-        "image": "https://i.imgur.com/0QsTiw8.jpg",
         "costume_id": 1,
         "originalIndex": 525,
         "lb1": {
@@ -34564,6 +34564,7 @@ window.allHeroes =
         "source": "Super Elementals",
         "Release date": "2024-10-02",
         "specialId": "insidious_goo",
+        "heroId": "slime_mucktus",
         "star": 5,
         "power": 1141,
         "attack": 1168,
@@ -34580,7 +34581,6 @@ window.allHeroes =
             "Slime Minion Split: If this character loses more than 25% of max health at once, they summon a Slime Mega Minion for themselves with 50% HP and 40% attack."
         ],
         "family": "slime",
-        "image": "https://i.imgur.com/eKwzh2k.jpg",
         "costume_id": 0,
         "originalIndex": 526,
         "lb1": {
@@ -34630,6 +34630,7 @@ window.allHeroes =
         "source": "Tower - Ninjas",
         "Release date": "2023-04-05",
         "specialId": "resolute_spirit",
+        "heroId": "ninja_myoinni",
         "star": 5,
         "power": 873,
         "attack": 817,
@@ -34652,7 +34653,6 @@ window.allHeroes =
         ],
         "passives": [],
         "family": "ninja",
-        "image": "https://i.imgur.com/tXk6QNw.jpg",
         "costume_id": 0,
         "originalIndex": 527,
         "lb1": {
@@ -34703,6 +34703,7 @@ window.allHeroes =
         "source": "Legends Summon - Hero of the Month",
         "Release date": "2025-02-01",
         "specialId": "mesmerizing_mirror",
+        "heroId": "nature_god_mystia",
         "star": 5,
         "power": 1063,
         "attack": 1095,
@@ -34719,7 +34720,6 @@ window.allHeroes =
             "Ignore Taunt: This character’s Special Skill is not affected by Taunt."
         ],
         "family": 2025,
-        "image": "https://i.imgur.com/igntudt.jpg",
         "costume_id": 0,
         "originalIndex": 528,
         "lb1": {
@@ -34768,6 +34768,7 @@ window.allHeroes =
         "source": "Legends Summon",
         "Release date": "2024-02-09",
         "specialId": "the_perfect_throw",
+        "heroId": "champions_nogu",
         "star": 5,
         "power": 1000,
         "attack": 1027,
@@ -34784,7 +34785,6 @@ window.allHeroes =
             "Health Boost on Enemy Health Boost: This character gets 450 boosted health  each time an enemy casts a Special Skill that directly boosts health."
         ],
         "family": "champions",
-        "image": "https://i.imgur.com/CtidFGk.jpg",
         "costume_id": 0,
         "originalIndex": 529,
         "lb1": {
@@ -34839,6 +34839,7 @@ window.allHeroes =
         "source": "S7 - Treasures of Flame and Frost",
         "Release date": "2024-12-03",
         "specialId": "saga_of_protection",
+        "heroId": "tales2_ott",
         "star": 5,
         "power": 1165,
         "attack": 1130,
@@ -34857,7 +34858,6 @@ window.allHeroes =
             " * The Burn damage is scaled by the amount of charge in the Core. All charge is exhausted when the Core is activated."
         ],
         "family": "nidavellir",
-        "image": "https://i.imgur.com/XIyQFXu.jpg",
         "costume_id": 0,
         "originalIndex": 530,
         "lb1": {
@@ -34909,6 +34909,7 @@ window.allHeroes =
         "source": "Mystery - Shadow Summon",
         "Release date": "2025-02-06",
         "specialId": "cut_cure_and_craze",
+        "heroId": "shadow_penelope",
         "star": 5,
         "power": 1170,
         "attack": 1176,
@@ -34922,14 +34923,13 @@ window.allHeroes =
         ],
         "passives": [],
         "family": "investigator",
-        "image": "https://i.imgur.com/mxewGNK.jpg",
         "costume_id": 0,
         "originalIndex": 531,
         "lb1": {
             "power": 1251,
             "attack": 1267,
             "defense": 1260,
-            "health": 2362
+            "health": 2359
         },
         "lb2": {
             "power": 1414,
@@ -34978,6 +34978,7 @@ window.allHeroes =
         "source": "Wilderness Summon",
         "Release date": "2024-08-31",
         "specialId": "feyfire_slash",
+        "heroId": "faun_peregrine",
         "star": 5,
         "power": 1137,
         "attack": 1135,
@@ -34994,7 +34995,6 @@ window.allHeroes =
             "Resist Attack Reduction: This character has innate resistance against status ailments, stacks and Wither effects that affect attack."
         ],
         "family": "woodlandfaun",
-        "image": "https://i.imgur.com/1bOrH83.jpg",
         "costume_id": 0,
         "originalIndex": 532,
         "lb1": {
@@ -35046,6 +35046,7 @@ window.allHeroes =
         "source": "Tower - Ninjas",
         "Release date": "2022-02-02",
         "specialId": "suffocating_smoke",
+        "heroId": "ninja_peridot",
         "star": 5,
         "power": 818,
         "attack": 815,
@@ -35068,7 +35069,6 @@ window.allHeroes =
         ],
         "passives": [],
         "family": "ninja",
-        "image": "https://i.imgur.com/E1kxfPE.jpg",
         "costume_id": 0,
         "originalIndex": 533,
         "lb1": {
@@ -35119,6 +35119,7 @@ window.allHeroes =
         "source": "S4 - Wilderness",
         "Release date": "2021-03-25",
         "specialId": "valiant_lunge",
+        "heroId": "s4_phileas_fogg",
         "star": 5,
         "power": 807,
         "attack": 832,
@@ -35133,7 +35134,6 @@ window.allHeroes =
             "Special Skill Damage Reduction: Received damage from Special Skills is reduced by -20% for this character."
         ],
         "family": "underwild",
-        "image": "https://i.imgur.com/L3xRyB9.jpg",
         "costume_id": 0,
         "originalIndex": 534,
         "lb1": {
@@ -35189,6 +35189,7 @@ window.allHeroes =
         "source": "S4 - Wilderness",
         "Release date": "2023-05-25",
         "specialId": "valiant_lunge",
+        "heroId": "s4_phileas_fogg_costume_engineer",
         "star": 5,
         "power": 1020,
         "attack": 1062,
@@ -35204,7 +35205,6 @@ window.allHeroes =
             "Increased Damage Against Boosted Health: After Special Skill cast, all allies' normal attacks and Special Skills deal +70% damage against targets with boosted health for 4 turns."
         ],
         "family": "underwild",
-        "image": "https://i.imgur.com/xWb34BS.jpg",
         "costume_id": 1,
         "originalIndex": 535,
         "lb1": {
@@ -35259,6 +35259,7 @@ window.allHeroes =
         "source": "Goblin Summon",
         "Release date": "2024-09-01",
         "specialId": "reckless_sword_swings",
+        "heroId": "garrison_pip",
         "star": 5,
         "power": 1117,
         "attack": 1172,
@@ -35275,7 +35276,6 @@ window.allHeroes =
             "Guard Rally: Every 4 turns, removes all Wither effects from all allies."
         ],
         "family": "garrisonguard",
-        "image": "https://i.imgur.com/ExQF65A.jpg",
         "costume_id": 0,
         "originalIndex": 536,
         "lb1": {
@@ -35330,6 +35330,7 @@ window.allHeroes =
         "source": "Challenge - Secrets of the Opera",
         "Release date": "2024-01-25",
         "specialId": "dance_of_the_heron",
+        "heroId": "ballerina_prince_siegfried",
         "star": 5,
         "power": 996,
         "attack": 984,
@@ -35349,7 +35350,6 @@ window.allHeroes =
             "Heal when status ailment expires or is cleared: This character receives 20% health each time a status ailment expires or is cleansed, removed or reallocated from them. This effect can activate only once per turn."
         ],
         "family": "opera",
-        "image": "https://i.imgur.com/WwCBlh0.jpg",
         "costume_id": 0,
         "originalIndex": 537,
         "lb1": {
@@ -35401,6 +35401,7 @@ window.allHeroes =
         "source": "Monthly Event - Lunar Year",
         "Release date": "2024-02-08",
         "specialId": "confident_strategy",
+        "heroId": "lunar_new_year_qinglong",
         "star": 5,
         "power": 983,
         "attack": 1001,
@@ -35415,7 +35416,6 @@ window.allHeroes =
             "Disable Minion Abilities: Attacks and abilities of all Minions owned by enemies are disabled."
         ],
         "family": "lunaryear",
-        "image": "https://i.imgur.com/PjBP5aw.jpg",
         "costume_id": 0,
         "originalIndex": 538,
         "lb1": {
@@ -35471,6 +35471,7 @@ window.allHeroes =
         "source": "Alliance - Musketeers",
         "Release date": "2022-12-14",
         "specialId": "the_queens_speech",
+        "heroId": "musketeer_queen_anne",
         "star": 5,
         "power": 877,
         "attack": 741,
@@ -35486,7 +35487,6 @@ window.allHeroes =
             "Damage on Special Skill: When this character receives damage from Special Skills or in place of a character in Cover, there’s a 60% chance to deal 20% of the received damage to all enemies."
         ],
         "family": "musketeer",
-        "image": "https://i.imgur.com/BoTIbhq.jpg",
         "costume_id": 0,
         "originalIndex": 539,
         "lb1": {
@@ -35537,6 +35537,7 @@ window.allHeroes =
         "source": "Alliance - Knights Clash",
         "Release date": "2021-10-13",
         "specialId": "howling_sword",
+        "heroId": "castle_wolf_quenell",
         "star": 5,
         "power": 816,
         "attack": 795,
@@ -35549,7 +35550,6 @@ window.allHeroes =
         ],
         "passives": [],
         "family": "wolf",
-        "image": "https://i.imgur.com/iWwRJlT.jpg",
         "costume_id": 0,
         "originalIndex": 540,
         "lb1": {
@@ -35599,6 +35599,7 @@ window.allHeroes =
         "source": "Alliance - Knights Clash",
         "Release date": "2024-12-17",
         "specialId": "howling_sword",
+        "heroId": "castle_wolf_quenell_costume_wood",
         "star": 5,
         "power": 1148,
         "attack": 1182,
@@ -35615,14 +35616,13 @@ window.allHeroes =
             " * +2 turns: 25%"
         ],
         "family": "wolf",
-        "image": "https://i.imgur.com/vtZxZ4o.jpg",
         "costume_id": 1,
         "originalIndex": 541,
         "lb1": {
             "power": 1227,
             "attack": 1274,
             "defense": 1207,
-            "health": 2279
+            "health": 2276
         },
         "lb2": {
             "power": 1386,
@@ -35665,6 +35665,7 @@ window.allHeroes =
         "source": "S3 - Valhalla",
         "Release date": "2020-02-27",
         "specialId": "nuts_of_yggdrasil",
+        "heroId": "s3_ratatoskr",
         "star": 5,
         "power": 785,
         "attack": 753,
@@ -35676,7 +35677,6 @@ window.allHeroes =
         ],
         "passives": [],
         "family": "alfheim",
-        "image": "https://i.imgur.com/IwBPUx4.jpg",
         "costume_id": 0,
         "originalIndex": 542,
         "lb1": {
@@ -35725,6 +35725,7 @@ window.allHeroes =
         "source": "S3 - Valhalla",
         "Release date": "2023-09-25",
         "specialId": "nuts_of_yggdrasil",
+        "heroId": "s3_ratatoskr_costume_architect",
         "star": 5,
         "power": 982,
         "attack": 1080,
@@ -35736,7 +35737,6 @@ window.allHeroes =
         ],
         "passives": [],
         "family": "alfheim",
-        "image": "https://i.imgur.com/AZRDhg4.jpg",
         "costume_id": 1,
         "originalIndex": 543,
         "lb1": {
@@ -35785,6 +35785,7 @@ window.allHeroes =
         "source": "Tower - Owls",
         "Release date": "2023-12-20",
         "specialId": "mixed_green_herbs",
+        "heroId": "owl_relius",
         "star": 5,
         "power": 984,
         "attack": 947,
@@ -35799,7 +35800,6 @@ window.allHeroes =
             "Reduce Mana Gain from Special Skills: Reduces the amount of mana increased by Special Skill by -80%. The effect applies to all enemies in the battle."
         ],
         "family": "owl",
-        "image": "https://i.imgur.com/6ngbYLA.jpg",
         "costume_id": 0,
         "originalIndex": 544,
         "lb1": {
@@ -35850,6 +35850,7 @@ window.allHeroes =
         "source": "Covenant Summon",
         "Release date": "2024-06-06",
         "specialId": "first_law_of_thermodynamics",
+        "heroId": "construct_rhineglow",
         "star": 5,
         "power": 1061,
         "attack": 980,
@@ -35865,7 +35866,6 @@ window.allHeroes =
             "Destructive Core: The Construct Core of this character is Destructive Core. The Destructive Core activates each time this character’s Special Skill is cast: * With fully charged Destructive Core, deals 180% damage to all enemies. * The damage is scaled by the amount of charge in the Core. All charge is  exchausted when the Core is activated."
         ],
         "family": "construct",
-        "image": "https://i.imgur.com/SQkVr8H.jpg",
         "costume_id": 0,
         "originalIndex": 545,
         "lb1": {
@@ -35917,6 +35917,7 @@ window.allHeroes =
         "source": "Super Elementals",
         "Release date": "2022-12-05",
         "specialId": "elemental_infusion_arrow",
+        "heroId": "elemental_roz",
         "star": 5,
         "power": 970,
         "attack": 939,
@@ -35935,7 +35936,6 @@ window.allHeroes =
             " - Received elemental damage: -10%"
         ],
         "family": "superelemental",
-        "image": "https://i.imgur.com/5xvOFq1.jpg",
         "costume_id": 0,
         "originalIndex": 546,
         "lb1": {
@@ -35977,6 +35977,7 @@ window.allHeroes =
         "source": "Super Elementals",
         "Release date": "2025-07-18",
         "specialId": "elemental_infusion_arrow",
+        "heroId": "elemental_roz_costume_disco",
         "star": 5,
         "power": 1221,
         "attack": 1216,
@@ -35995,7 +35996,6 @@ window.allHeroes =
             " - Received elemental damage: -25%"
         ],
         "family": "superelemental",
-        "image": "https://imgur.com/iob8I3P.jpg",
         "costume_id": 1,
         "originalIndex": 547,
         "lb1": {
@@ -36043,6 +36043,7 @@ window.allHeroes =
         "source": "Monthly Event - Springvale",
         "Release date": "2025-03-31",
         "specialId": "silencing_stick_up",
+        "heroId": "easter_sadie",
         "star": 5,
         "power": 1172,
         "attack": 1242,
@@ -36057,20 +36058,19 @@ window.allHeroes =
         ],
         "passives": [],
         "family": "springvale",
-        "image": "https://imgur.com/p0UA9id.jpg",
         "costume_id": 0,
         "originalIndex": 548,
         "lb1": {
-            "power": 1250,
+            "power": 1252,
             "attack": 1336,
-            "defense": 1203,
-            "health": 2293
+            "defense": 1206,
+            "health": 2298
         },
         "lb2": {
-            "power": 1412,
+            "power": 1415,
             "attack": 1529,
-            "defense": 1376,
-            "health": 2623
+            "defense": 1381,
+            "health": 2632
         },
         "cn_skill_info": [
             {
@@ -36110,6 +36110,7 @@ window.allHeroes =
         "source": "Three Kingdoms Summon",
         "Release date": "2023-08-14",
         "specialId": "prayer_of_the_desert",
+        "heroId": "journey_sha_wujing",
         "star": 5,
         "power": 933,
         "attack": 924,
@@ -36125,7 +36126,6 @@ window.allHeroes =
             "Health Recovery on Buff Received: This character has a 50% chance to recover 10% health when they receive a buff or possitve stack."
         ],
         "family": "journey",
-        "image": "https://i.imgur.com/zNMCJKX.jpg",
         "costume_id": 0,
         "originalIndex": 549,
         "lb1": {
@@ -36179,6 +36179,7 @@ window.allHeroes =
         "source": "Legends Summon - Hero of the Month",
         "Release date": "2020-03-01",
         "specialId": "force_of_forest",
+        "heroId": "forest_god_telluria",
         "star": 5,
         "power": 806,
         "attack": 778,
@@ -36195,7 +36196,6 @@ window.allHeroes =
             "Summon on Burn: Each time this character receives a Burn status ailment, they summon a Forest Guardian Minion for themseles. Forest Guardian Minion inherits 40% HP and 40% atack from this character."
         ],
         "family": 2022,
-        "image": "https://i.imgur.com/bmUsK1J.jpg",
         "costume_id": 0,
         "originalIndex": 550,
         "lb1": {
@@ -36249,6 +36249,7 @@ window.allHeroes =
         "source": "Goblin Summon",
         "Release date": "2023-09-18",
         "specialId": "goblin_serenade",
+        "heroId": "goblin_smarttongue",
         "star": 5,
         "power": 942,
         "attack": 908,
@@ -36265,7 +36266,6 @@ window.allHeroes =
             " * All enemies get -25% accuracy for 3 turns."
         ],
         "family": "goblin",
-        "image": "https://i.imgur.com/reMeS9l.jpg",
         "costume_id": 0,
         "originalIndex": 551,
         "lb1": {
@@ -36312,6 +36312,7 @@ window.allHeroes =
         "source": "Challenge Festival II",
         "Release date": "2023-05-18",
         "specialId": "feral_arrows",
+        "heroId": "mighty_pet_snowball",
         "star": 5,
         "power": 878,
         "attack": 879,
@@ -36328,7 +36329,6 @@ window.allHeroes =
             "Friend of the Familiars: When a Minion is summoned to any ally, this  character gains 5% health and 5% mana. This effect can activate only once  per turn."
         ],
         "family": "pets",
-        "image": "https://i.imgur.com/kEMlZAo.jpg",
         "costume_id": 0,
         "originalIndex": 552,
         "lb1": {
@@ -36381,6 +36381,7 @@ window.allHeroes =
         "source": "S6 - Mysteries of the Deep",
         "Release date": "2024-02-01",
         "specialId": "overwhelming_raid",
+        "heroId": "tales1_spartoi",
         "star": 5,
         "power": 998,
         "attack": 974,
@@ -36404,7 +36405,6 @@ window.allHeroes =
             " * The caster gets +19% mana generation for 2 turns."
         ],
         "family": "nightmaresofatlantis",
-        "image": "https://i.imgur.com/OJh8GR8.jpg",
         "costume_id": 0,
         "originalIndex": 553,
         "lb1": {
@@ -36452,6 +36452,7 @@ window.allHeroes =
         "source": "S6 - Mysteries of the Deep",
         "Release date": "2025-02-03",
         "specialId": "overwhelming_raid",
+        "heroId": "tales1_spartoi_costume_guard",
         "star": 5,
         "power": 1246,
         "attack": 1199,
@@ -36476,7 +36477,6 @@ window.allHeroes =
             "Resist Insanity: This character has innate resistance against Insanity."
         ],
         "family": "nightmaresofatlantis",
-        "image": "https://i.imgur.com/uRq8uoY.jpg",
         "costume_id": 1,
         "originalIndex": 554,
         "lb1": {
@@ -36526,6 +36526,7 @@ window.allHeroes =
         "source": "Covenant Summon",
         "Release date": "2024-11-18",
         "specialId": "fierce_pierce",
+        "heroId": "fox_spiff",
         "star": 5,
         "power": 1148,
         "attack": 1225,
@@ -36540,7 +36541,6 @@ window.allHeroes =
             "Decreased Healing: All enemies get -50% healing."
         ],
         "family": "fox",
-        "image": "https://i.imgur.com/XnfQKGA.jpg",
         "costume_id": 0,
         "originalIndex": 555,
         "lb1": {
@@ -36595,6 +36595,7 @@ window.allHeroes =
         "source": "Monster Island Summon",
         "Release date": "2023-02-09",
         "specialId": "mallet_swing_of_the_beast",
+        "heroId": "monster_hunter_staintongue",
         "star": 5,
         "power": 891,
         "attack": 898,
@@ -36610,7 +36611,6 @@ window.allHeroes =
             "Damage over Time on Special: When this character casts their Special Skill, they have 100% chance to transfer the newest status ailment from themself to the target. If the Special Skill cannot target an enemy, a random enemy is chosen instead. If this character has no status ailments, they recover 5% health."
         ],
         "family": "abysshunter",
-        "image": "https://i.imgur.com/obJIXMO.jpg",
         "costume_id": 0,
         "originalIndex": 556,
         "lb1": {
@@ -36661,6 +36661,7 @@ window.allHeroes =
         "source": "Astral Summon",
         "Release date": "2024-06-12",
         "specialId": "power_wave",
+        "heroId": "astral_starlass",
         "star": 5,
         "power": 1062,
         "attack": 1032,
@@ -36676,7 +36677,6 @@ window.allHeroes =
             "Share Received Damage: 20% of damage received by this charater is shared with other allies."
         ],
         "family": "astralelves",
-        "image": "https://i.imgur.com/VtRf87E.jpg",
         "costume_id": 0,
         "originalIndex": 557,
         "lb1": {
@@ -36732,6 +36732,7 @@ window.allHeroes =
         "source": "Three Kingdoms Summon",
         "Release date": "2025-08-02",
         "specialId": "vicious_trap",
+        "heroId": "outlaw_sun_erniang",
         "star": 5,
         "power": 1225,
         "attack": 1281,
@@ -36758,7 +36759,6 @@ window.allHeroes =
             "Resist Bleed Damage: This character has innate resistance against Bleed.    "
         ],
         "family": "outlaws",
-        "image": "https://imgur.com/YKDS8Mc.jpg",
         "costume_id": 0,
         "originalIndex": 558,
         "lb1": {
@@ -36816,6 +36816,7 @@ window.allHeroes =
         "source": "Monster Island Summon",
         "Release date": "2024-07-21",
         "specialId": "primeval_glaive",
+        "heroId": "monster_hunter_sune",
         "star": 5,
         "power": 1131,
         "attack": 1143,
@@ -36833,7 +36834,6 @@ window.allHeroes =
             "Damage over Time on Special: When this character casts their Special Skill, they give a Hunter’s Mark on a random enemy. The target receives 150 damage over 3 turns. If a target already has this effect, the duration will be refreshed and the damage will be increased by 150, up to 1500 damage in total."
         ],
         "family": "plainshunter",
-        "image": "https://i.imgur.com/Uw6kgXB.jpg",
         "costume_id": 0,
         "originalIndex": 559,
         "lb1": {
@@ -36890,6 +36890,7 @@ window.allHeroes =
         "source": "Monthly Event - Kalevala",
         "Release date": "2025-07-28",
         "specialId": "snapping_jaws",
+        "heroId": "kalevala_suomuhauki",
         "star": 5,
         "power": 1224,
         "attack": 1306,
@@ -36905,7 +36906,6 @@ window.allHeroes =
             "Power of Sisu: When this character starts a turn with low health for the first time during a battle, they recover 15% health and receive 15% mana."
         ],
         "family": "kalevala",
-        "image": "https://imgur.com/g7hgWLw.jpg",
         "costume_id": 0,
         "originalIndex": 560,
         "lb1": {
@@ -36958,6 +36958,7 @@ window.allHeroes =
         "source": "Tower - Ninjas",
         "Release date": "2023-07-26",
         "specialId": "splintering_shot",
+        "heroId": "ninja_tametomo",
         "star": 5,
         "power": 1006,
         "attack": 1046,
@@ -36983,7 +36984,6 @@ window.allHeroes =
         ],
         "passives": [],
         "family": "ninja",
-        "image": "https://i.imgur.com/QuMcU9O.jpg",
         "costume_id": 0,
         "originalIndex": 561,
         "lb1": {
@@ -37032,6 +37032,7 @@ window.allHeroes =
         "source": "S2 - Atlantis",
         "Release date": "2019-08-01",
         "specialId": "martial_prowess",
+        "heroId": "s2_junglehunter",
         "star": 5,
         "power": 773,
         "attack": 824,
@@ -37043,7 +37044,6 @@ window.allHeroes =
         ],
         "passives": [],
         "family": "lagoon",
-        "image": "https://i.imgur.com/VmIENFl.jpg",
         "costume_id": 0,
         "originalIndex": 562,
         "lb1": {
@@ -37090,6 +37090,7 @@ window.allHeroes =
         "source": "S2 - Atlantis",
         "Release date": "2022-12-12",
         "specialId": "martial_prowess",
+        "heroId": "s2_junglehunter_costume_party",
         "star": 5,
         "power": 944,
         "attack": 867,
@@ -37101,7 +37102,6 @@ window.allHeroes =
         ],
         "passives": [],
         "family": "lagoon",
-        "image": "https://i.imgur.com/UPOaKMz.jpg",
         "costume_id": 1,
         "originalIndex": 563,
         "lb1": {
@@ -37152,6 +37152,7 @@ window.allHeroes =
         "source": "Alliance - Knights Clash",
         "Release date": "2023-10-18",
         "specialId": "the_call_to_hibernate",
+        "heroId": "castle_bear_teddy",
         "star": 5,
         "power": 980,
         "attack": 997,
@@ -37169,7 +37170,6 @@ window.allHeroes =
             "Health Recovery on Buff Received: This character recovers 5% health when  they receive a buff or a positive stack."
         ],
         "family": "bear",
-        "image": "https://i.imgur.com/Aaf3CZX.jpg",
         "costume_id": 0,
         "originalIndex": 564,
         "lb1": {
@@ -37223,6 +37223,7 @@ window.allHeroes =
         "source": "Legends Summon - Hero of the Month",
         "Release date": "2020-03-01",
         "specialId": "force_of_forest",
+        "heroId": "forest_god_telluria",
         "star": 5,
         "power": 772,
         "attack": 613,
@@ -37239,7 +37240,6 @@ window.allHeroes =
             "Resist Minion Removal: The Hero has innate resistance against Minion Removal."
         ],
         "family": 2020,
-        "image": "https://i.imgur.com/xKwfgME.jpg",
         "costume_id": 0,
         "originalIndex": 565,
         "lb1": {
@@ -37299,6 +37299,7 @@ window.allHeroes =
         "source": "Tower - Magic",
         "Release date": "2023-05-03",
         "specialId": "poem_of_the_centaurs",
+        "heroId": "magic_telonius",
         "star": 5,
         "power": 890,
         "attack": 885,
@@ -37318,7 +37319,6 @@ window.allHeroes =
             "Stack on Special: When this character casts their Special Skill, all enemies get -5% mana  generation stack. If the Special Skill is fully charged, all enemies get two stacks. An enemy can have up to 10 stacks."
         ],
         "family": "magic",
-        "image": "https://i.imgur.com/WMPKV4S.jpg",
         "costume_id": 0,
         "originalIndex": 566,
         "lb1": {
@@ -37372,6 +37372,7 @@ window.allHeroes =
         "source": "Challenge Festival I",
         "Release date": "2019-02-14",
         "specialId": "mad_as_a_hatter",
+        "heroId": "wonderland_hatter",
         "star": 5,
         "power": 768,
         "attack": 735,
@@ -37383,7 +37384,6 @@ window.allHeroes =
         ],
         "passives": [],
         "family": "wonderland",
-        "image": "https://i.imgur.com/Fs3u4wr.jpg",
         "costume_id": 0,
         "originalIndex": 567,
         "lb1": {
@@ -37432,6 +37432,7 @@ window.allHeroes =
         "source": "Challenge Festival I",
         "Release date": "2024-04-18",
         "specialId": "mad_as_a_hatter",
+        "heroId": "wonderland_hatter_costume_tea",
         "star": 5,
         "power": 963,
         "attack": 953,
@@ -37446,7 +37447,6 @@ window.allHeroes =
             "Mindless Attack on Special Skill: When this character casts their Special Skill, they have a 50% chance to give Mindless Attack for 3 turns to a random enemy."
         ],
         "family": "wonderland",
-        "image": "https://i.imgur.com/SDtr1yp.jpg",
         "costume_id": 1,
         "originalIndex": 568,
         "lb1": {
@@ -37456,8 +37456,8 @@ window.allHeroes =
             "health": 2000
         },
         "lb2": {
-            "power": 1159,
-            "attack": 1177,
+            "power": 1158,
+            "attack": 1174,
             "defense": 1078,
             "health": 2289
         },
@@ -37499,6 +37499,7 @@ window.allHeroes =
         "source": "Goblin Summon",
         "Release date": "2024-07-07",
         "specialId": "reporting_for_duty",
+        "heroId": "garrison_theodosius",
         "star": 5,
         "power": 1101,
         "attack": 1089,
@@ -37517,7 +37518,6 @@ window.allHeroes =
             "Guard Rally: Every 4 turns, removes all Wither effects from all allies."
         ],
         "family": "garrisonguard",
-        "image": "https://i.imgur.com/tr0BEoG.jpg",
         "costume_id": 0,
         "originalIndex": 569,
         "lb1": {
@@ -37577,6 +37577,7 @@ window.allHeroes =
         "source": "Challenge Festival II",
         "Release date": "2021-02-11",
         "specialId": "accelerated_growth",
+        "heroId": "villain_toxicandra",
         "star": 5,
         "power": 800,
         "attack": 774,
@@ -37589,7 +37590,6 @@ window.allHeroes =
         ],
         "passives": [],
         "family": "villains",
-        "image": "https://i.imgur.com/m5DCDHL.jpg",
         "costume_id": 0,
         "originalIndex": 570,
         "lb1": {
@@ -37644,6 +37644,7 @@ window.allHeroes =
         "source": "Challenge Festival II",
         "Release date": "2025-06-15",
         "specialId": "accelerated_growth",
+        "heroId": "villain_toxicandra_costume_rose",
         "star": 5,
         "power": 1196,
         "attack": 1157,
@@ -37658,14 +37659,13 @@ window.allHeroes =
             "Curse on Special Skill: When this character casts their Special Skill, all enemies receive 461 Curse damage over 4 turns, starting low and increasing every turn."
         ],
         "family": "villains",
-        "image": "https://imgur.com/6ZuZX5t.jpg",
         "costume_id": 1,
         "originalIndex": 571,
         "lb1": {
             "power": 1279,
             "attack": 1246,
             "defense": 1414,
-            "health": 2305
+            "health": 2302
         },
         "lb2": {
             "power": 1446,
@@ -37710,6 +37710,7 @@ window.allHeroes =
         "source": "Monthly Event - Kalevala",
         "Release date": "2022-06-20",
         "specialId": "song_of_the_morass",
+        "heroId": "kalevala_vainamoinen",
         "star": 5,
         "power": 837,
         "attack": 799,
@@ -37723,7 +37724,6 @@ window.allHeroes =
             "Power of Sisu: When this character starts a turn with low health for the first time during a battle, they recover 15% health and receive 15% mana."
         ],
         "family": "kalevala",
-        "image": "https://i.imgur.com/gY0vQZu.jpg",
         "costume_id": 0,
         "originalIndex": 572,
         "lb1": {
@@ -37770,6 +37770,7 @@ window.allHeroes =
         "source": "Monthly Event - Kalevala",
         "Release date": "2024-07-22",
         "specialId": "song_of_the_morass",
+        "heroId": "kalevala_vainamoinen_costume_vainamoinen_sage",
         "star": 5,
         "power": 1083,
         "attack": 1097,
@@ -37783,20 +37784,19 @@ window.allHeroes =
             "Power of Sisu: When this character starts a turn with low health for the first time during a battle, they recover 15% health and receive 15% mana."
         ],
         "family": "kalevala",
-        "image": "https://i.imgur.com/eTqe3pF.jpg",
         "costume_id": 1,
         "originalIndex": 573,
         "lb1": {
             "power": 1157,
             "attack": 1183,
             "defense": 1147,
-            "health": 2127
+            "health": 2124
         },
         "lb2": {
             "power": 1306,
             "attack": 1353,
             "defense": 1313,
-            "health": 2434
+            "health": 2431
         },
         "cn_skill_info": [
             {
@@ -37830,6 +37830,7 @@ window.allHeroes =
         "source": "Super Elementals",
         "Release date": "2025-07-04",
         "specialId": "judgement_of_goo",
+        "heroId": "slime_verdigoo",
         "star": 5,
         "power": 1217,
         "attack": 1248,
@@ -37845,14 +37846,13 @@ window.allHeroes =
             "Slime Minion Split: If this character loses more than 25% of max health at once, they summon a Slime Mega Minion for themselves with 50% HP and 40% attack."
         ],
         "family": "slime",
-        "image": "https://imgur.com/cFHh06y.jpg",
         "costume_id": 0,
         "originalIndex": 574,
         "lb1": {
-            "power": 1303,
+            "power": 1302,
             "attack": 1345,
             "defense": 1214,
-            "health": 2624
+            "health": 2621
         },
         "lb2": {
             "power": 1472,
@@ -37894,6 +37894,7 @@ window.allHeroes =
         "source": "Tower - Owls",
         "Release date": "2024-03-13",
         "specialId": "swooping_talon",
+        "heroId": "owl_verus",
         "star": 5,
         "power": 1047,
         "attack": 1075,
@@ -37908,7 +37909,6 @@ window.allHeroes =
             "Reduce Mana Gain from Special Skills: Reduces the amount of mana increased by Special Skill by -80%. The effect applies to all enemies in the battle."
         ],
         "family": "owl",
-        "image": "https://i.imgur.com/Klnv0Ue.jpg",
         "costume_id": 0,
         "originalIndex": 575,
         "lb1": {
@@ -37965,6 +37965,7 @@ window.allHeroes =
         "source": "Legends Summon - Hero of the Month",
         "Release date": "2023-02-01",
         "specialId": "withering_seasons",
+        "heroId": "nature_god_viselus",
         "star": 5,
         "power": 820,
         "attack": 716,
@@ -37981,7 +37982,6 @@ window.allHeroes =
             "Health Boost of Poison: Boosts health of this character and nearby allies by 2% for each enemy inflicted with Poison at the end of each turn. Boosted health can exceed max HP."
         ],
         "family": 2023,
-        "image": "https://i.imgur.com/SWrRjRX.jpg",
         "costume_id": 0,
         "originalIndex": 576,
         "lb1": {
@@ -38038,6 +38038,7 @@ window.allHeroes =
         "source": "Challenge Festival II",
         "Release date": "2022-08-11",
         "specialId": "madrigal_of_mayhem",
+        "heroId": "bard_winifred",
         "star": 5,
         "power": 869,
         "attack": 830,
@@ -38053,7 +38054,6 @@ window.allHeroes =
             "Defense ailment reduction: Reduces the effect of defense ailments by 80%. The effect applies to this character and all its allies in the battle."
         ],
         "family": "bard",
-        "image": "https://i.imgur.com/keg45a3.jpg",
         "costume_id": 0,
         "originalIndex": 577,
         "lb1": {
@@ -38105,6 +38105,7 @@ window.allHeroes =
         "source": "Super Elementals",
         "Release date": "2022-12-05",
         "specialId": "staff_of_mana_control",
+        "heroId": "elemental_xandrella",
         "star": 5,
         "power": 900,
         "attack": 844,
@@ -38123,7 +38124,6 @@ window.allHeroes =
             " - Received elemental damage: -10%"
         ],
         "family": "superelemental",
-        "image": "https://i.imgur.com/KaW9HIP.jpg",
         "costume_id": 0,
         "originalIndex": 578,
         "lb1": {
@@ -38178,6 +38178,7 @@ window.allHeroes =
         "source": "Alliance - Knights Clash",
         "Release date": "2023-10-18",
         "specialId": "power_of_the_forest",
+        "heroId": "castle_stag_xiamara",
         "star": 5,
         "power": 980,
         "attack": 1044,
@@ -38192,7 +38193,6 @@ window.allHeroes =
             "Health Recovery on Buff Received: This character recovers 5% health when they receive a buff or a positive stack."
         ],
         "family": "stag",
-        "image": "https://i.imgur.com/En0uUcx.jpg",
         "costume_id": 0,
         "originalIndex": 579,
         "lb1": {
@@ -38248,6 +38248,7 @@ window.allHeroes =
         "source": "Monthly Event - Lunar Year",
         "Release date": "2025-01-27",
         "specialId": "warding_off_evil",
+        "heroId": "lunar_new_year_xiaoqing",
         "star": 5,
         "power": 1154,
         "attack": 1120,
@@ -38262,14 +38263,13 @@ window.allHeroes =
             "Disable Minion Abilities: Attacks and abilities of all Minions owned by enemies are disabled."
         ],
         "family": "lunaryear",
-        "image": "https://i.imgur.com/XmTf3zL.jpg",
         "costume_id": 0,
         "originalIndex": 580,
         "lb1": {
-            "power": 1235,
+            "power": 1234,
             "attack": 1207,
             "defense": 1274,
-            "health": 2364
+            "health": 2361
         },
         "lb2": {
             "power": 1395,
@@ -38318,6 +38318,7 @@ window.allHeroes =
         "source": "Monthly Event - Sand Empire",
         "Release date": "2018-06-21",
         "specialId": "kings_curse",
+        "heroId": "sand_king",
         "star": 5,
         "power": 770,
         "attack": 618,
@@ -38331,7 +38332,6 @@ window.allHeroes =
         ],
         "passives": [],
         "family": "sand",
-        "image": "https://i.imgur.com/jUayUm6.jpg",
         "costume_id": 0,
         "originalIndex": 581,
         "lb1": {
@@ -38385,6 +38385,7 @@ window.allHeroes =
         "source": "Monthly Event - Sand Empire",
         "Release date": "2021-06-21",
         "specialId": "kings_curse",
+        "heroId": "sand_king_costume_lifeguard",
         "star": 5,
         "power": 941,
         "attack": 800,
@@ -38398,7 +38399,6 @@ window.allHeroes =
         ],
         "passives": [],
         "family": "sand",
-        "image": "https://i.imgur.com/vpqf6zq.jpg",
         "costume_id": 1,
         "originalIndex": 582,
         "lb1": {
@@ -38455,6 +38455,7 @@ window.allHeroes =
         "source": "Mystery - Shadow Summon",
         "Release date": "2024-06-30",
         "specialId": "darts_of_the_deep",
+        "heroId": "shadow_zavinia",
         "star": 5,
         "power": 1109,
         "attack": 1180,
@@ -38470,7 +38471,6 @@ window.allHeroes =
             "Marked by the Old Ones: All damage is reduced by 5% per 10 Insanity for this character up to a maximum reduction of 50%."
         ],
         "family": "investigator",
-        "image": "https://i.imgur.com/F1mKhpD.jpg",
         "costume_id": 0,
         "originalIndex": 583,
         "lb1": {
@@ -38523,6 +38523,7 @@ window.allHeroes =
         "source": "Legends Summon - Hero of the Month",
         "Release date": "2018-02-01",
         "specialId": "emerald_flash",
+        "heroId": "forest_god_zeline",
         "star": 5,
         "power": 768,
         "attack": 764,
@@ -38537,7 +38538,6 @@ window.allHeroes =
         ],
         "passives": [],
         "family": 2018,
-        "image": "https://i.imgur.com/lrpsqzO.jpg",
         "costume_id": 0,
         "originalIndex": 584,
         "lb1": {
@@ -38599,6 +38599,7 @@ window.allHeroes =
         "source": "Legends Summon - Hero of the Month",
         "Release date": "2023-12-19",
         "specialId": "emerald_flash",
+        "heroId": "forest_god_zeline_costume_avian",
         "star": 5,
         "power": 975,
         "attack": 961,
@@ -38615,7 +38616,6 @@ window.allHeroes =
             "Cleanse on Special Skill: When this character casts their Special Skill, they cleanse the newest status ailment from all allies."
         ],
         "family": 2018,
-        "image": "https://i.imgur.com/QJNIkdZ.jpg",
         "costume_id": 1,
         "originalIndex": 585,
         "lb1": {
@@ -38625,8 +38625,8 @@ window.allHeroes =
             "health": 2056
         },
         "lb2": {
-            "power": 1173,
-            "attack": 1186,
+            "power": 1172,
+            "attack": 1183,
             "defense": 1087,
             "health": 2353
         },
@@ -38673,6 +38673,7 @@ window.allHeroes =
         "source": "Legends Summon - Hero of the Month",
         "Release date": "2020-08-01",
         "specialId": "keyknife_typhoon",
+        "heroId": "forest_god_zocc",
         "star": 5,
         "power": 775,
         "attack": 739,
@@ -38688,7 +38689,6 @@ window.allHeroes =
             "Resist Water Damage: This character has an innate resistance against Water damage."
         ],
         "family": 2020,
-        "image": "https://i.imgur.com/XA1fhlp.jpg",
         "costume_id": 0,
         "originalIndex": 586,
         "lb1": {
@@ -38739,6 +38739,7 @@ window.allHeroes =
         "source": "Super Elementals",
         "Release date": "2023-08-14",
         "specialId": "hoverboard_slam",
+        "heroId": "elemental_zuni",
         "star": 5,
         "power": 947,
         "attack": 943,
@@ -38758,19 +38759,18 @@ window.allHeroes =
             " - Received elemental damage: -10%"
         ],
         "family": "superelemental",
-        "image": "https://i.imgur.com/cAdigcK.jpg",
         "costume_id": 0,
         "originalIndex": 587,
         "lb1": {
-            "power": 1005,
-            "attack": 1007,
-            "defense": 985,
+            "power": 1009,
+            "attack": 1015,
+            "defense": 992,
             "health": 1799
         },
         "lb2": {
-            "power": 1132,
-            "attack": 1153,
-            "defense": 1127,
+            "power": 1138,
+            "attack": 1163,
+            "defense": 1136,
             "health": 2059
         },
         "cn_skill_info": [
@@ -38805,6 +38805,7 @@ window.allHeroes =
         "source": "S1 - Classic",
         "Release date": "2017-03-01",
         "specialId": "backstab",
+        "heroId": "cultist_thief",
         "star": 1,
         "power": 210,
         "attack": 215,
@@ -38815,7 +38816,6 @@ window.allHeroes =
         ],
         "passives": [],
         "family": null,
-        "image": "https://i.imgur.com/Xe6KTRG.jpg",
         "costume_id": 0,
         "originalIndex": 588,
         "cn_skill_info": []
@@ -38837,6 +38837,7 @@ window.allHeroes =
         "source": "S1 - Classic",
         "Release date": "2017-03-01",
         "specialId": "focused_shot",
+        "heroId": "blackguard_female_archer",
         "star": 1,
         "power": 212,
         "attack": 183,
@@ -38847,7 +38848,6 @@ window.allHeroes =
         ],
         "passives": [],
         "family": null,
-        "image": "https://i.imgur.com/TChsKw7.jpg",
         "costume_id": 0,
         "originalIndex": 589,
         "cn_skill_info": []
@@ -38869,6 +38869,7 @@ window.allHeroes =
         "source": "S1 - Classic",
         "Release date": "2017-03-01",
         "specialId": "focused_shot",
+        "heroId": "blackguard_scout",
         "star": 2,
         "power": 335,
         "attack": 363,
@@ -38879,7 +38880,6 @@ window.allHeroes =
         ],
         "passives": [],
         "family": null,
-        "image": "https://i.imgur.com/J6kO15m.jpg",
         "costume_id": 0,
         "originalIndex": 590,
         "cn_skill_info": []
@@ -38901,6 +38901,7 @@ window.allHeroes =
         "source": "S1 - Classic",
         "Release date": "2017-03-01",
         "specialId": "poisoned_blade",
+        "heroId": "cultist_female_poisoner",
         "star": 2,
         "power": 338,
         "attack": 336,
@@ -38911,7 +38912,6 @@ window.allHeroes =
         ],
         "passives": [],
         "family": null,
-        "image": "https://i.imgur.com/bWdwLhP.jpg",
         "costume_id": 0,
         "originalIndex": 591,
         "cn_skill_info": []
@@ -38933,6 +38933,7 @@ window.allHeroes =
         "source": "S1 - Classic",
         "Release date": "2017-03-01",
         "specialId": "attack_rally",
+        "heroId": "undead_screaming_zombie",
         "star": 2,
         "power": 333,
         "attack": 293,
@@ -38943,7 +38944,6 @@ window.allHeroes =
         ],
         "passives": [],
         "family": null,
-        "image": "https://i.imgur.com/toVI2j1.jpg",
         "costume_id": 0,
         "originalIndex": 592,
         "cn_skill_info": []
@@ -38967,6 +38967,7 @@ window.allHeroes =
         "source": "Alliance - Knights Clash",
         "Release date": "2021-10-13",
         "specialId": "apothecary_kit",
+        "heroId": "castle_raven_aderyn",
         "star": 3,
         "power": 480,
         "attack": 451,
@@ -38978,7 +38979,6 @@ window.allHeroes =
         ],
         "passives": [],
         "family": "raven",
-        "image": "https://i.imgur.com/7kv6ZGx.jpg",
         "costume_id": 0,
         "originalIndex": 593,
         "lb1": {
@@ -39023,6 +39023,7 @@ window.allHeroes =
         "source": "S3 - Valhalla",
         "Release date": "2020-05-28",
         "specialId": "tribal_rage",
+        "heroId": "s3_anwindr",
         "star": 3,
         "power": 465,
         "attack": 424,
@@ -39033,7 +39034,6 @@ window.allHeroes =
         ],
         "passives": [],
         "family": "niflheim",
-        "image": "https://i.imgur.com/MSmQZNX.jpg",
         "costume_id": 0,
         "originalIndex": 594,
         "lb1": {
@@ -39082,6 +39082,7 @@ window.allHeroes =
         "source": "S5 - Dune",
         "Release date": "2022-04-21",
         "specialId": "one_jump_ahead",
+        "heroId": "s5_aqeela",
         "star": 3,
         "power": 483,
         "attack": 450,
@@ -39095,7 +39096,6 @@ window.allHeroes =
             "Effects on Special Skill: 50% chance to perform the following actions when this character casts their Special Skill * Deals 70% damage to all enemies. * Dispels the latest dispellable buff from enemies."
         ],
         "family": "moon",
-        "image": "https://i.imgur.com/N5k1s9j.jpg",
         "costume_id": 0,
         "originalIndex": 595,
         "lb1": {
@@ -39145,6 +39145,7 @@ window.allHeroes =
         "source": "S5 - Dune",
         "Release date": "2024-08-10",
         "specialId": "one_jump_ahead",
+        "heroId": "s5_aqeela_costume_sorcerer",
         "star": 3,
         "power": 494,
         "attack": 476,
@@ -39160,7 +39161,6 @@ window.allHeroes =
             "Mana on Status Ailment Received: This character gains 5% mana when they receive a status ailment or negative stack."
         ],
         "family": "moon",
-        "image": "https://i.imgur.com/kbKyRq1.jpg",
         "costume_id": 1,
         "originalIndex": 596,
         "lb1": {
@@ -39206,6 +39206,7 @@ window.allHeroes =
         "source": "S1 - Classic",
         "Release date": "2017-03-01",
         "specialId": "electric_jolt",
+        "heroId": "cultist_mage",
         "star": 3,
         "power": 442,
         "attack": 483,
@@ -39216,7 +39217,6 @@ window.allHeroes =
         ],
         "passives": [],
         "family": "classic",
-        "image": "https://i.imgur.com/OSefjqG.jpg",
         "costume_id": 0,
         "originalIndex": 597,
         "lb1": {
@@ -39258,6 +39258,7 @@ window.allHeroes =
         "source": "Costume Quest",
         "Release date": "2020-05-18",
         "specialId": "electric_jolt",
+        "heroId": "cultist_mage_costume_voodoo",
         "star": 3,
         "power": 472,
         "attack": 532,
@@ -39269,7 +39270,6 @@ window.allHeroes =
         ],
         "passives": [],
         "family": "classic",
-        "image": "https://i.imgur.com/PBzwskK.jpg",
         "costume_id": 1,
         "originalIndex": 598,
         "lb1": {
@@ -39316,6 +39316,7 @@ window.allHeroes =
         "source": "Costume Quest",
         "Release date": "2024-01-22",
         "specialId": "electric_jolt",
+        "heroId": "cultist_mage_costume_cute",
         "star": 3,
         "power": 505,
         "attack": 561,
@@ -39329,7 +39330,6 @@ window.allHeroes =
             "Toon: 75% extra chance to resist all status ailments, mana reductions and buff dispels."
         ],
         "family": "classic",
-        "image": "https://i.imgur.com/TVzeF5e.jpg",
         "costume_id": 2,
         "originalIndex": 599,
         "lb1": {
@@ -39376,6 +39376,7 @@ window.allHeroes =
         "source": "Costume Quest",
         "Release date": "2025-03-11",
         "specialId": "electric_jolt",
+        "heroId": "cultist_mage_costume_glass",
         "star": 3,
         "power": 513,
         "attack": 587,
@@ -39389,7 +39390,6 @@ window.allHeroes =
             "Glass: 60% extra chance to reflect status ailments back to the attacker."
         ],
         "family": "classic",
-        "image": "https://i.imgur.com/GyPOLEn.jpg",
         "costume_id": 3,
         "originalIndex": 600,
         "lb1": {
@@ -39437,6 +39437,7 @@ window.allHeroes =
         "source": "Challenge - Gargoyle",
         "Release date": "2024-05-16",
         "specialId": "pointy_darts",
+        "heroId": "gargoyle_betty",
         "star": 3,
         "power": 493,
         "attack": 530,
@@ -39450,7 +39451,6 @@ window.allHeroes =
             "Gargoile’s Softskin: Every time this Gargoyle casts a Special Skill, their Softskin activates. The next 4 times they receive damage, it is reduced by -90%, and they resist all status ailment and mana reduction. This effect can’t be dispelled."
         ],
         "family": "gargoyle",
-        "image": "https://i.imgur.com/Ni9fM9U.jpg",
         "costume_id": 0,
         "originalIndex": 601,
         "lb1": {
@@ -39498,6 +39498,7 @@ window.allHeroes =
         "source": "S3 - Valhalla",
         "Release date": "2020-02-27",
         "specialId": "dual_slash",
+        "heroId": "s3_bjorn",
         "star": 3,
         "power": 463,
         "attack": 458,
@@ -39509,7 +39510,6 @@ window.allHeroes =
         ],
         "passives": [],
         "family": "midgard",
-        "image": "https://i.imgur.com/vOaNkHC.jpg",
         "costume_id": 0,
         "originalIndex": 602,
         "lb1": {
@@ -39559,6 +39559,7 @@ window.allHeroes =
         "source": "S3 - Valhalla",
         "Release date": "2022-07-04",
         "specialId": "dual_slash",
+        "heroId": "s3_bjorn_costume_viking",
         "star": 3,
         "power": 478,
         "attack": 464,
@@ -39571,7 +39572,6 @@ window.allHeroes =
         ],
         "passives": [],
         "family": "midgard",
-        "image": "https://i.imgur.com/KuvURzu.jpg",
         "costume_id": 1,
         "originalIndex": 603,
         "lb1": {
@@ -39625,6 +39625,7 @@ window.allHeroes =
         "source": "Challenge - Gargoyle",
         "Release date": "2022-05-12",
         "specialId": "abiding_dogma",
+        "heroId": "gargoyle_budatin",
         "star": 3,
         "power": 482,
         "attack": 500,
@@ -39637,7 +39638,6 @@ window.allHeroes =
             "Gargoyle’s Stoneskin: Every time this Gargoyle casts a Special Skill, their Stoneskin hardens. The next 4 times they receive damage, it is dropped to 1. This effect can’t be dispelled."
         ],
         "family": "gargoyle",
-        "image": "https://i.imgur.com/NFVk9Gf.jpg",
         "costume_id": 0,
         "originalIndex": 604,
         "lb1": {
@@ -39679,6 +39679,7 @@ window.allHeroes =
         "source": "S2 - Atlantis",
         "Release date": "2019-08-01",
         "specialId": "unholy_light",
+        "heroId": "s2_lantern_ghost",
         "star": 3,
         "power": 448,
         "attack": 413,
@@ -39690,7 +39691,6 @@ window.allHeroes =
         ],
         "passives": [],
         "family": "sakura",
-        "image": "https://i.imgur.com/L668UQC.jpg",
         "costume_id": 0,
         "originalIndex": 605,
         "lb1": {
@@ -39736,6 +39736,7 @@ window.allHeroes =
         "source": "Challenge Festival II",
         "Release date": "2021-02-11",
         "specialId": "crazed_lunge",
+        "heroId": "villain_edd",
         "star": 3,
         "power": 476,
         "attack": 526,
@@ -39747,7 +39748,6 @@ window.allHeroes =
         ],
         "passives": [],
         "family": "villains",
-        "image": "https://i.imgur.com/OuUgvKY.jpg",
         "costume_id": 0,
         "originalIndex": 606,
         "lb1": {
@@ -39797,6 +39797,7 @@ window.allHeroes =
         "source": "S2 - Atlantis",
         "Release date": "2019-08-01",
         "specialId": "song_of_regression",
+        "heroId": "s2_fiji_mermaid",
         "star": 3,
         "power": 449,
         "attack": 436,
@@ -39809,7 +39810,6 @@ window.allHeroes =
         ],
         "passives": [],
         "family": "lagoon",
-        "image": "https://i.imgur.com/5yoZu18.jpg",
         "costume_id": 0,
         "originalIndex": 607,
         "lb1": {
@@ -39855,6 +39855,7 @@ window.allHeroes =
         "source": "S2 - Atlantis",
         "Release date": "2023-04-03",
         "specialId": "song_of_regression",
+        "heroId": "s2_fiji_mermaid_costume_hunter",
         "star": 3,
         "power": 463,
         "attack": 478,
@@ -39867,7 +39868,6 @@ window.allHeroes =
         ],
         "passives": [],
         "family": "lagoon",
-        "image": "https://i.imgur.com/bezss9U.jpg",
         "costume_id": 1,
         "originalIndex": 608,
         "lb1": {
@@ -39917,6 +39917,7 @@ window.allHeroes =
         "source": "Monster Island Summon",
         "Release date": "2023-02-09",
         "specialId": "stubby_reap",
+        "heroId": "monster_hunter_greel",
         "star": 3,
         "power": 487,
         "attack": 526,
@@ -39932,7 +39933,6 @@ window.allHeroes =
             "Damage Over Time on Special: When this character casts their Special Skill, they give a Hunter’s Mark on a random enemy. The target receives 150 damage over 3 turns. If a target already has this effect, the duration will be refreshed and the damage will be increased with 150, up to 1500 damage in total."
         ],
         "family": "abysshunter",
-        "image": "https://i.imgur.com/GbQldWm.jpg",
         "costume_id": 0,
         "originalIndex": 609,
         "lb1": {
@@ -39979,6 +39979,7 @@ window.allHeroes =
         "source": "Challenge Festival I",
         "Release date": "2020-01-08",
         "specialId": "merciless_bite",
+        "heroId": "guardian_bat",
         "star": 3,
         "power": 455,
         "attack": 437,
@@ -39990,7 +39991,6 @@ window.allHeroes =
         ],
         "passives": [],
         "family": "guardiansteltoc",
-        "image": "https://i.imgur.com/yMD2ogt.jpg",
         "costume_id": 0,
         "originalIndex": 610,
         "lb1": {
@@ -40037,6 +40037,7 @@ window.allHeroes =
         "source": "Monthly Event - Morlovia",
         "Release date": "2020-10-26",
         "specialId": "explosive_o_lantern",
+        "heroId": "halloween_jack",
         "star": 3,
         "power": 468,
         "attack": 491,
@@ -40050,7 +40051,6 @@ window.allHeroes =
             "Steal Buff: When this character casts their Special Skill, they have a 50% chance to steal the newest dispellable buff from a random enemy that has buffs. If no enemy has buffs, deals 70% damage to all enemies."
         ],
         "family": "morlovia",
-        "image": "https://i.imgur.com/1pbBKiM.jpg",
         "costume_id": 0,
         "originalIndex": 611,
         "lb1": {
@@ -40102,6 +40102,7 @@ window.allHeroes =
         "source": "Challenge Festival II",
         "Release date": "2021-08-05",
         "specialId": "assassins_blades",
+        "heroId": "slayer_maeve",
         "star": 3,
         "power": 478,
         "attack": 458,
@@ -40117,7 +40118,6 @@ window.allHeroes =
             "Resist Damage from Status Effects: This charater has innate resistance against incoming damage from status effects."
         ],
         "family": "slayer",
-        "image": "https://i.imgur.com/vEp3yLs.jpg",
         "costume_id": 0,
         "originalIndex": 612,
         "lb1": {
@@ -40170,6 +40170,7 @@ window.allHeroes =
         "source": "Tower - Ninjas",
         "Release date": "2023-07-26",
         "specialId": "cursed_fumes",
+        "heroId": "ninja_morganite",
         "star": 3,
         "power": 486,
         "attack": 540,
@@ -40189,7 +40190,6 @@ window.allHeroes =
         ],
         "passives": [],
         "family": "ninja",
-        "image": "https://i.imgur.com/lHtD195.jpg",
         "costume_id": 0,
         "originalIndex": 613,
         "lb1": {
@@ -40243,6 +40243,7 @@ window.allHeroes =
         "source": "S4 - Wilderness",
         "Release date": "2021-03-25",
         "specialId": "dig_a_hole",
+        "heroId": "s4_morris",
         "star": 3,
         "power": 478,
         "attack": 507,
@@ -40260,7 +40261,6 @@ window.allHeroes =
             "Decrease Ailment Duration: Duration of the first 3 status ailments this character receives from Special Skill is decreased by 1 turn."
         ],
         "family": "underwild",
-        "image": "https://i.imgur.com/RXYQ548.jpg",
         "costume_id": 0,
         "originalIndex": 614,
         "lb1": {
@@ -40318,6 +40318,7 @@ window.allHeroes =
         "source": "S4 - Wilderness",
         "Release date": "2024-05-23",
         "specialId": "dig_a_hole",
+        "heroId": "s4_morris_costume_potter",
         "star": 3,
         "power": 488,
         "attack": 492,
@@ -40335,7 +40336,6 @@ window.allHeroes =
             "Decrease Ailment Duration: Duration of the first 3 status ailments this character receives from Special Skill is decreased by 1 turn."
         ],
         "family": "underwild",
-        "image": "https://i.imgur.com/CrJaSuf.jpg",
         "costume_id": 1,
         "originalIndex": 615,
         "lb1": {
@@ -40388,6 +40388,7 @@ window.allHeroes =
         "source": "S1 - Classic",
         "Release date": "2017-03-01",
         "specialId": "toxic_traps",
+        "heroId": "undead_horned_skeleton",
         "star": 3,
         "power": 445,
         "attack": 422,
@@ -40399,7 +40400,6 @@ window.allHeroes =
         ],
         "passives": [],
         "family": "classic",
-        "image": "https://i.imgur.com/FkvOQpS.jpg",
         "costume_id": 0,
         "originalIndex": 616,
         "lb1": {
@@ -40445,6 +40445,7 @@ window.allHeroes =
         "source": "Costume Quest",
         "Release date": "2021-01-18",
         "specialId": "toxic_traps",
+        "heroId": "undead_horned_skeleton_costume_fool",
         "star": 3,
         "power": 474,
         "attack": 421,
@@ -40455,7 +40456,6 @@ window.allHeroes =
         ],
         "passives": [],
         "family": "classic",
-        "image": "https://i.imgur.com/4wjqw3M.jpg",
         "costume_id": 1,
         "originalIndex": 617,
         "lb1": {
@@ -40503,6 +40503,7 @@ window.allHeroes =
         "source": "Costume Quest",
         "Release date": "2024-08-11",
         "specialId": "toxic_traps",
+        "heroId": "undead_horned_skeleton_costume_cute",
         "star": 3,
         "power": 508,
         "attack": 512,
@@ -40517,7 +40518,6 @@ window.allHeroes =
             "Toon: 75% extra chance to resist all status ailments, mana reductions and buff dispels."
         ],
         "family": "classic",
-        "image": "https://i.imgur.com/z96lxl3.jpg",
         "costume_id": 2,
         "originalIndex": 618,
         "lb1": {
@@ -40570,6 +40570,7 @@ window.allHeroes =
         "source": "Monthly Event - Kalevala",
         "Release date": "2022-06-20",
         "specialId": "familiar_witchcraft",
+        "heroId": "kalevala_para",
         "star": 3,
         "power": 482,
         "attack": 457,
@@ -40583,7 +40584,6 @@ window.allHeroes =
             "When this character starts a turn with low health for the first time during a battle, they recover 15% health and receive 15% mana."
         ],
         "family": "kalevala",
-        "image": "https://i.imgur.com/n5BGh1Y.jpg",
         "costume_id": 0,
         "originalIndex": 619,
         "lb1": {
@@ -40630,6 +40630,7 @@ window.allHeroes =
         "source": "S1 - Classic",
         "Release date": "2017-03-01",
         "specialId": "bleeding_stab",
+        "heroId": "blackguard_female_captain",
         "star": 3,
         "power": 446,
         "attack": 413,
@@ -40641,7 +40642,6 @@ window.allHeroes =
         ],
         "passives": [],
         "family": "classic",
-        "image": "https://i.imgur.com/IoRPZNA.jpg",
         "costume_id": 0,
         "originalIndex": 620,
         "lb1": {
@@ -40688,6 +40688,7 @@ window.allHeroes =
         "source": "Costume Quest",
         "Release date": "2020-05-18",
         "specialId": "bleeding_stab",
+        "heroId": "blackguard_female_captain_costume_musketeer",
         "star": 3,
         "power": 476,
         "attack": 423,
@@ -40699,7 +40700,6 @@ window.allHeroes =
         ],
         "passives": [],
         "family": "classic",
-        "image": "https://i.imgur.com/q3Ddqi6.jpg",
         "costume_id": 1,
         "originalIndex": 621,
         "lb1": {
@@ -40747,6 +40747,7 @@ window.allHeroes =
         "source": "Costume Quest",
         "Release date": "2024-02-12",
         "specialId": "bleeding_stab",
+        "heroId": "blackguard_female_captain_costume_cute",
         "star": 3,
         "power": 510,
         "attack": 477,
@@ -40761,7 +40762,6 @@ window.allHeroes =
             "Toon: 75% extra chance to resist all status ailments, mana reductions and buff dispels."
         ],
         "family": "classic",
-        "image": "https://i.imgur.com/6mcArhg.jpg",
         "costume_id": 2,
         "originalIndex": 622,
         "lb1": {
@@ -40811,6 +40811,7 @@ window.allHeroes =
         "source": "Costume Quest",
         "Release date": "2025-04-08",
         "specialId": "bleeding_stab",
+        "heroId": "blackguard_female_captain_costume_glass",
         "star": 3,
         "power": 519,
         "attack": 504,
@@ -40825,7 +40826,6 @@ window.allHeroes =
             "Glass: 60% extra chance to reflect status ailments back to the attacker."
         ],
         "family": "classic",
-        "image": "https://imgur.com/SdXnKqi.jpg",
         "costume_id": 3,
         "originalIndex": 623,
         "lb1": {
@@ -40873,6 +40873,7 @@ window.allHeroes =
         "source": "S1 - Classic",
         "Release date": "2017-03-01",
         "specialId": "leeching_stars",
+        "heroId": "blackguard_skulker",
         "star": 3,
         "power": 445,
         "attack": 488,
@@ -40884,7 +40885,6 @@ window.allHeroes =
         ],
         "passives": [],
         "family": "classic",
-        "image": "https://i.imgur.com/6HwABCg.jpg",
         "costume_id": 0,
         "originalIndex": 624,
         "lb1": {
@@ -40932,6 +40932,7 @@ window.allHeroes =
         "source": "Costume Quest",
         "Release date": "2020-05-18",
         "specialId": "leeching_stars",
+        "heroId": "blackguard_skulker_costume_doctor",
         "star": 3,
         "power": 474,
         "attack": 436,
@@ -40943,7 +40944,6 @@ window.allHeroes =
         ],
         "passives": [],
         "family": "classic",
-        "image": "https://i.imgur.com/7QkxYAf.jpg",
         "costume_id": 1,
         "originalIndex": 625,
         "lb1": {
@@ -40991,6 +40991,7 @@ window.allHeroes =
         "source": "Costume Quest",
         "Release date": "2024-09-08",
         "specialId": "leeching_stars",
+        "heroId": "blackguard_skulker_costume_cute",
         "star": 3,
         "power": 507,
         "attack": 479,
@@ -41005,7 +41006,6 @@ window.allHeroes =
             "Toon: 75% extra chance to resist all status ailments, mana reductions and buff dispels."
         ],
         "family": "classic",
-        "image": "https://i.imgur.com/D4cVPMi.jpg",
         "costume_id": 2,
         "originalIndex": 626,
         "lb1": {
@@ -41057,6 +41057,7 @@ window.allHeroes =
         "source": "Challenge Festival I",
         "Release date": "2021-12-15",
         "specialId": "archaic_dread",
+        "heroId": "knights_treevil",
         "star": 3,
         "power": 481,
         "attack": 434,
@@ -41070,7 +41071,6 @@ window.allHeroes =
         ],
         "passives": [],
         "family": "avalon",
-        "image": "https://i.imgur.com/8ZDDLNG.jpg",
         "costume_id": 0,
         "originalIndex": 627,
         "lb1": {
@@ -41119,6 +41119,7 @@ window.allHeroes =
         "source": "S1 - Classic",
         "Release date": "2017-03-01",
         "specialId": "piercing_hit",
+        "heroId": "undead_running_skeleton",
         "star": 3,
         "power": 441,
         "attack": 387,
@@ -41130,7 +41131,6 @@ window.allHeroes =
         ],
         "passives": [],
         "family": "classic",
-        "image": "https://i.imgur.com/HKuMtXT.jpg",
         "costume_id": 0,
         "originalIndex": 628,
         "lb1": {
@@ -41177,6 +41177,7 @@ window.allHeroes =
         "source": "Costume Quest",
         "Release date": "2020-01-01",
         "specialId": "piercing_hit",
+        "heroId": "undead_running_skeleton_costume_roman",
         "star": 3,
         "power": 470,
         "attack": 423,
@@ -41188,7 +41189,6 @@ window.allHeroes =
         ],
         "passives": [],
         "family": "classic",
-        "image": "https://i.imgur.com/Rir8owz.jpg",
         "costume_id": 1,
         "originalIndex": 629,
         "lb1": {
@@ -41236,6 +41236,7 @@ window.allHeroes =
         "source": "Costume Quest",
         "Release date": "2024-10-06",
         "specialId": "piercing_hit",
+        "heroId": "undead_running_skeleton_costume_cute",
         "star": 3,
         "power": 505,
         "attack": 483,
@@ -41250,7 +41251,6 @@ window.allHeroes =
             "Toon: 75% extra chance to resist all status ailments, mana reductions and buff dispels."
         ],
         "family": "classic",
-        "image": "https://i.imgur.com/MBq6uJ0.jpg",
         "costume_id": 2,
         "originalIndex": 630,
         "lb1": {
@@ -41303,6 +41303,7 @@ window.allHeroes =
         "source": "Challenge - Beowulf",
         "Release date": "2025-02-13",
         "specialId": "tempered_blade",
+        "heroId": "beowulf_unferth",
         "star": 3,
         "power": 505,
         "attack": 537,
@@ -41320,7 +41321,6 @@ window.allHeroes =
             "Perfect Accuracy: This character’s Special Skill never mises its target."
         ],
         "family": "beowulf",
-        "image": "https://i.imgur.com/EwK86qB.jpg",
         "costume_id": 0,
         "originalIndex": 631,
         "lb1": {
@@ -41373,6 +41373,7 @@ window.allHeroes =
         "source": "Monthly Event - Morlovia",
         "Release date": "2018-10-25",
         "specialId": "lords_blood_poisoning",
+        "heroId": "vampire_lord",
         "star": 3,
         "power": 449,
         "attack": 368,
@@ -41386,7 +41387,6 @@ window.allHeroes =
             "Steal Buff: When this character casts their Special Skill, they have a 50%  chance to steal the newest dispellable buff from a random enemy that has buffs.  If no enemy has buffs, deals 70% damage to all enemies."
         ],
         "family": "morlovia",
-        "image": "https://i.imgur.com/BKgxWVA.jpg",
         "costume_id": 0,
         "originalIndex": 632,
         "lb1": {
@@ -41432,6 +41432,7 @@ window.allHeroes =
         "source": "S5 - Dune",
         "Release date": "2022-04-21",
         "specialId": "mummy_slash",
+        "heroId": "s5_ahhotep",
         "star": 4,
         "power": 683,
         "attack": 692,
@@ -41447,7 +41448,6 @@ window.allHeroes =
             " * Dispels the latest dispellable buff from enemies."
         ],
         "family": "moon",
-        "image": "https://i.imgur.com/MLXGUOi.jpg",
         "costume_id": 0,
         "originalIndex": 633,
         "lb1": {
@@ -41493,6 +41493,7 @@ window.allHeroes =
         "source": "S5 - Dune",
         "Release date": "2024-07-13",
         "specialId": "mummy_slash",
+        "heroId": "s5_ahhotep_costume_champion",
         "star": 4,
         "power": 699,
         "attack": 660,
@@ -41510,7 +41511,6 @@ window.allHeroes =
             "Mana on Status Ailment Received: This character gains 5% mana each time they receive a status ailment or negative stack."
         ],
         "family": "moon",
-        "image": "https://i.imgur.com/ph6Gczr.jpg",
         "costume_id": 1,
         "originalIndex": 634,
         "lb1": {
@@ -41558,6 +41558,7 @@ window.allHeroes =
         "source": "S2 - Atlantis",
         "Release date": "2019-08-01",
         "specialId": "ethereal",
+        "heroId": "s2_ghost_woman",
         "star": 4,
         "power": 649,
         "attack": 771,
@@ -41570,7 +41571,6 @@ window.allHeroes =
         ],
         "passives": [],
         "family": "sakura",
-        "image": "https://i.imgur.com/VkDdipF.jpg",
         "costume_id": 0,
         "originalIndex": 635,
         "lb1": {
@@ -41618,6 +41618,7 @@ window.allHeroes =
         "source": "S2 - Atlantis",
         "Release date": "2022-05-02",
         "specialId": "ethereal",
+        "heroId": "s2_ghost_woman_costume_yurei",
         "star": 4,
         "power": 671,
         "attack": 700,
@@ -41631,7 +41632,6 @@ window.allHeroes =
         ],
         "passives": [],
         "family": "sakura",
-        "image": "https://i.imgur.com/VZyVFDJ.jpg",
         "costume_id": 1,
         "originalIndex": 636,
         "lb1": {
@@ -41682,6 +41682,7 @@ window.allHeroes =
         "source": "Tower - Ninjas",
         "Release date": "2020-10-13",
         "specialId": "blur_of_steel",
+        "heroId": "ninja_ametrine",
         "star": 4,
         "power": 670,
         "attack": 716,
@@ -41700,7 +41701,6 @@ window.allHeroes =
         ],
         "passives": [],
         "family": "ninja",
-        "image": "https://i.imgur.com/6AFRaiq.jpg",
         "costume_id": 0,
         "originalIndex": 637,
         "lb1": {
@@ -41751,6 +41751,7 @@ window.allHeroes =
         "source": "Monthly Event - Morlovia",
         "Release date": "2022-10-03",
         "specialId": "tidy_up",
+        "heroId": "halloween_ana_belle",
         "star": 4,
         "power": 683,
         "attack": 626,
@@ -41765,7 +41766,6 @@ window.allHeroes =
             "Steal Buff - When this character casts their Special Skill, they have a 50%  chance to steal the newest dispellable buff from a random enemy that has buffs.  If no enemy has buffs, deals 70% damage to all enemies."
         ],
         "family": "morlovia",
-        "image": "https://i.imgur.com/FvJxtPO.jpg",
         "costume_id": 0,
         "originalIndex": 638,
         "lb1": {
@@ -41818,6 +41818,7 @@ window.allHeroes =
         "source": "Tower - Styx",
         "Release date": "2022-09-21",
         "specialId": "potion_cocktail",
+        "heroId": "styx_arges",
         "star": 4,
         "power": 685,
         "attack": 663,
@@ -41841,7 +41842,6 @@ window.allHeroes =
             "Resist Defense Ailments: This character has innate resistance against status ailments that affect defense. Applies also to status ailments that affect elemental defense."
         ],
         "family": "styx",
-        "image": "https://i.imgur.com/yK7UFvQ.jpg",
         "costume_id": 0,
         "originalIndex": 639,
         "lb1": {
@@ -41892,6 +41892,7 @@ window.allHeroes =
         "source": "Challenge Festival I",
         "Release date": "2017-09-07",
         "specialId": "watery_grave",
+        "heroId": "pirate_first_mate",
         "star": 4,
         "power": 645,
         "attack": 541,
@@ -41903,7 +41904,6 @@ window.allHeroes =
         ],
         "passives": [],
         "family": "corellia",
-        "image": "https://i.imgur.com/BLKBB2F.jpg",
         "costume_id": 0,
         "originalIndex": 640,
         "lb1": {
@@ -41951,6 +41951,7 @@ window.allHeroes =
         "source": "Challenge Festival I",
         "Release date": "2019-02-14",
         "specialId": "dazzling_grin",
+        "heroId": "wonderland_cheshire_cat",
         "star": 4,
         "power": 649,
         "attack": 658,
@@ -41963,7 +41964,6 @@ window.allHeroes =
         ],
         "passives": [],
         "family": "wonderland",
-        "image": "https://i.imgur.com/Js5mqAr.jpg",
         "costume_id": 0,
         "originalIndex": 641,
         "lb1": {
@@ -42013,6 +42013,7 @@ window.allHeroes =
         "source": "Challenge Festival I",
         "Release date": "2023-10-05",
         "specialId": "dazzling_grin",
+        "heroId": "wonderland_cheshire_cat_costume_malicious",
         "star": 4,
         "power": 684,
         "attack": 749,
@@ -42025,7 +42026,6 @@ window.allHeroes =
         ],
         "passives": [],
         "family": "wonderland",
-        "image": "https://i.imgur.com/ImaCQvI.jpg",
         "costume_id": 1,
         "originalIndex": 642,
         "lb1": {
@@ -42075,6 +42075,7 @@ window.allHeroes =
         "source": "Challenge Festival II",
         "Release date": "2022-11-03",
         "specialId": "grand_heist",
+        "heroId": "mighty_pet_cupcake",
         "star": 4,
         "power": 684,
         "attack": 690,
@@ -42090,7 +42091,6 @@ window.allHeroes =
             "When a Fiend is summoned to any enemy, this character deals 85% damage to all enemies. This effect can activate only once per turn."
         ],
         "family": "pets",
-        "image": "https://i.imgur.com/p15TPST.jpg",
         "costume_id": 0,
         "originalIndex": 643,
         "lb1": {
@@ -42140,6 +42140,7 @@ window.allHeroes =
         "source": "S1 - Classic",
         "Release date": "2017-03-01",
         "specialId": "perfect_riposte",
+        "heroId": "undead_captain_warrior",
         "star": 4,
         "power": 642,
         "attack": 563,
@@ -42150,7 +42151,6 @@ window.allHeroes =
         ],
         "passives": [],
         "family": "classic",
-        "image": "https://i.imgur.com/wpGUug5.jpg",
         "costume_id": 0,
         "originalIndex": 644,
         "lb1": {
@@ -42190,6 +42190,7 @@ window.allHeroes =
         "source": "Costume Quest",
         "Release date": "2021-01-18",
         "specialId": "perfect_riposte",
+        "heroId": "undead_captain_warrior_costume_prince",
         "star": 4,
         "power": 688,
         "attack": 566,
@@ -42200,7 +42201,6 @@ window.allHeroes =
         ],
         "passives": [],
         "family": "classic",
-        "image": "https://i.imgur.com/sJK7XXq.jpg",
         "costume_id": 1,
         "originalIndex": 645,
         "lb1": {
@@ -42244,6 +42244,7 @@ window.allHeroes =
         "source": "Costume Quest",
         "Release date": "2023-04-17",
         "specialId": "perfect_riposte",
+        "heroId": "undead_captain_warrior_costume_reveller",
         "star": 4,
         "power": 735,
         "attack": 658,
@@ -42256,7 +42257,6 @@ window.allHeroes =
         ],
         "passives": [],
         "family": "classic",
-        "image": "https://i.imgur.com/oDvjeQX.jpg",
         "costume_id": 2,
         "originalIndex": 646,
         "lb1": {
@@ -42298,6 +42298,7 @@ window.allHeroes =
         "source": "Costume Quest",
         "Release date": "2024-04-08",
         "specialId": "perfect_riposte",
+        "heroId": "undead_captain_warrior_costume_cute",
         "star": 4,
         "power": 747,
         "attack": 656,
@@ -42310,7 +42311,6 @@ window.allHeroes =
             "Toon: 75% extra chance to resist all status ailments, mana reductions and buff dispels."
         ],
         "family": "classic",
-        "image": "https://i.imgur.com/NlALPlg.jpg",
         "costume_id": 3,
         "originalIndex": 647,
         "lb1": {
@@ -42351,6 +42351,7 @@ window.allHeroes =
         "source": "Costume Quest",
         "Release date": "2025-04-23",
         "specialId": "perfect_riposte",
+        "heroId": "undead_captain_warrior_costume_glass",
         "star": 4,
         "power": 759,
         "attack": 664,
@@ -42364,7 +42365,6 @@ window.allHeroes =
             "Glass: 60% extra chance to reflect status ailments back to the attacker."
         ],
         "family": "classic",
-        "image": "https://imgur.com/NcRhwAX.jpg",
         "costume_id": 4,
         "originalIndex": 648,
         "lb1": {
@@ -42410,6 +42410,7 @@ window.allHeroes =
         "source": "Monthly Event - Winter",
         "Release date": "2023-12-01",
         "specialId": "gloomy_tune",
+        "heroId": "christmas_dizzy",
         "star": 4,
         "power": 687,
         "attack": 675,
@@ -42422,7 +42423,6 @@ window.allHeroes =
         ],
         "passives": [],
         "family": "christmas",
-        "image": "https://i.imgur.com/84anXmA.jpg",
         "costume_id": 0,
         "originalIndex": 649,
         "lb1": {
@@ -42477,6 +42477,7 @@ window.allHeroes =
         "source": "Covenant Summon",
         "Release date": "2025-07-06",
         "specialId": "venomfang_concoction",
+        "heroId": "fox_foxglove",
         "star": 4,
         "power": 748,
         "attack": 786,
@@ -42491,7 +42492,6 @@ window.allHeroes =
             "Decreased Healing: All enemies get -50% healing."
         ],
         "family": "fox",
-        "image": "https://imgur.com/pr50hyU.jpg",
         "costume_id": 0,
         "originalIndex": 650,
         "lb1": {
@@ -42542,6 +42542,7 @@ window.allHeroes =
         "source": "S3 - Valhalla",
         "Release date": "2020-05-28",
         "specialId": "nightglade_pollen",
+        "heroId": "s3_fura",
         "star": 4,
         "power": 660,
         "attack": 707,
@@ -42554,7 +42555,6 @@ window.allHeroes =
         ],
         "passives": [],
         "family": "svartalfheim",
-        "image": "https://i.imgur.com/RvN7nUK.jpg",
         "costume_id": 0,
         "originalIndex": 651,
         "lb1": {
@@ -42602,6 +42602,7 @@ window.allHeroes =
         "source": "S3 - Valhalla",
         "Release date": "2023-01-16",
         "specialId": "nightglade_pollen",
+        "heroId": "s3_fura_costume_herbalist",
         "star": 4,
         "power": 681,
         "attack": 749,
@@ -42614,7 +42615,6 @@ window.allHeroes =
         ],
         "passives": [],
         "family": "svartalfheim",
-        "image": "https://i.imgur.com/ibwrmzt.jpg",
         "costume_id": 1,
         "originalIndex": 652,
         "lb1": {
@@ -42670,6 +42670,7 @@ window.allHeroes =
         "source": "Monthly Event - Sand Empire",
         "Release date": "2018-06-21",
         "specialId": "viziers_curse",
+        "heroId": "sand_vizier",
         "star": 4,
         "power": 649,
         "attack": 711,
@@ -42683,7 +42684,6 @@ window.allHeroes =
         ],
         "passives": [],
         "family": "sand",
-        "image": "https://i.imgur.com/xyMaVfi.jpg",
         "costume_id": 0,
         "originalIndex": 653,
         "lb1": {
@@ -42734,6 +42734,7 @@ window.allHeroes =
         "source": "Three Kingdoms Summon",
         "Release date": "2023-02-27",
         "specialId": "black_tassel_spear_sting",
+        "heroId": "journey_heifeng_guai",
         "star": 4,
         "power": 686,
         "attack": 669,
@@ -42746,7 +42747,6 @@ window.allHeroes =
         ],
         "passives": [],
         "family": "journey",
-        "image": "https://i.imgur.com/cY9fvY1.jpg",
         "costume_id": 0,
         "originalIndex": 654,
         "lb1": {
@@ -42802,6 +42802,7 @@ window.allHeroes =
         "source": "Challenge Festival II",
         "Release date": "2021-02-11",
         "specialId": "draining_blade",
+        "heroId": "villain_ingolf",
         "star": 4,
         "power": 675,
         "attack": 633,
@@ -42814,7 +42815,6 @@ window.allHeroes =
         ],
         "passives": [],
         "family": "villains",
-        "image": "https://i.imgur.com/EjtbILF.jpg",
         "costume_id": 0,
         "originalIndex": 655,
         "lb1": {
@@ -42872,6 +42872,7 @@ window.allHeroes =
         "source": "Monthly Event - Sand Empire",
         "Release date": "2018-06-21",
         "specialId": "towers_curse",
+        "heroId": "sand_tower",
         "star": 4,
         "power": 649,
         "attack": 531,
@@ -42885,7 +42886,6 @@ window.allHeroes =
         ],
         "passives": [],
         "family": "sand",
-        "image": "https://i.imgur.com/3RqMEeN.jpg",
         "costume_id": 0,
         "originalIndex": 656,
         "lb1": {
@@ -42937,6 +42937,7 @@ window.allHeroes =
         "source": "Tower - Owls",
         "Release date": "2024-02-14",
         "specialId": "scroll_of_spite",
+        "heroId": "owl_juliani",
         "star": 4,
         "power": 695,
         "attack": 677,
@@ -42951,7 +42952,6 @@ window.allHeroes =
             "Reduce Mana Gain from Special Skills: Reduces the amount of mana increased by Special Skill by -80%. The effect applies to all enemies in the battle."
         ],
         "family": "owl",
-        "image": "https://i.imgur.com/UhbZaxw.jpg",
         "costume_id": 0,
         "originalIndex": 657,
         "lb1": {
@@ -43009,6 +43009,7 @@ window.allHeroes =
         "source": "Alliance - Musketeers",
         "Release date": "2023-03-08",
         "specialId": "flower_of_kindness",
+        "heroId": "musketeer_kitty",
         "star": 4,
         "power": 686,
         "attack": 643,
@@ -43023,7 +43024,6 @@ window.allHeroes =
             "Damage on Special Skill: When this character receives damage from Special Skills or in place of a character in Cover, there’s a 60% chance to deal 20% of the received damage to all enemies."
         ],
         "family": "musketeer",
-        "image": "https://i.imgur.com/2nOJ3dV.jpg",
         "costume_id": 0,
         "originalIndex": 658,
         "lb1": {
@@ -43071,6 +43071,7 @@ window.allHeroes =
         "source": "Alliance - Knights Clash",
         "Release date": "2023-10-18",
         "specialId": "feral_swing",
+        "heroId": "castle_bear_koda",
         "star": 4,
         "power": 688,
         "attack": 711,
@@ -43085,7 +43086,6 @@ window.allHeroes =
             "Health Recovery on Buff Received: This character recovers 5% health when they receive a buff or a positive stack."
         ],
         "family": "bear",
-        "image": "https://i.imgur.com/QTVEQjn.jpg",
         "costume_id": 0,
         "originalIndex": 659,
         "lb1": {
@@ -43135,6 +43135,7 @@ window.allHeroes =
         "source": "Super Elementals",
         "Release date": "2023-11-06",
         "specialId": "energy_conjunction",
+        "heroId": "elemental_lexi",
         "star": 4,
         "power": 692,
         "attack": 677,
@@ -43154,7 +43155,6 @@ window.allHeroes =
             " - Received elemental damage: -10%"
         ],
         "family": "superelemental",
-        "image": "https://i.imgur.com/Jtfysu9.jpg",
         "costume_id": 0,
         "originalIndex": 660,
         "lb1": {
@@ -43202,6 +43202,7 @@ window.allHeroes =
         "source": "Monster Island Summon",
         "Release date": "2022-10-15",
         "specialId": "poison_tipped_arrow",
+        "heroId": "monster_hunter_meadow",
         "star": 4,
         "power": 684,
         "attack": 709,
@@ -43216,7 +43217,6 @@ window.allHeroes =
             "Special Skill Damage Reduction: This character has a 10% chance to drop the direct damage received from Special Skills to 1."
         ],
         "family": "plainshunter",
-        "image": "https://i.imgur.com/rm17UZ5.jpg",
         "costume_id": 0,
         "originalIndex": 661,
         "lb1": {
@@ -43265,6 +43265,7 @@ window.allHeroes =
         "source": "Challenge Festival I",
         "Release date": "2018-01-05",
         "specialId": "arcane_blast",
+        "heroId": "knights_merlin",
         "star": 4,
         "power": 645,
         "attack": 682,
@@ -43277,7 +43278,6 @@ window.allHeroes =
         ],
         "passives": [],
         "family": "avalon",
-        "image": "https://i.imgur.com/z8mBTci.jpg",
         "costume_id": 0,
         "originalIndex": 662,
         "lb1": {
@@ -43330,6 +43330,7 @@ window.allHeroes =
         "source": "Challenge Festival I",
         "Release date": "2023-04-20",
         "specialId": "arcane_blast",
+        "heroId": "knights_merlin_costume_astrology",
         "star": 4,
         "power": 735,
         "attack": 817,
@@ -43342,7 +43343,6 @@ window.allHeroes =
         ],
         "passives": [],
         "family": "avalon",
-        "image": "https://i.imgur.com/VwvFKmH.jpg",
         "costume_id": 1,
         "originalIndex": 663,
         "lb1": {
@@ -43394,6 +43394,7 @@ window.allHeroes =
         "source": "S2 - Atlantis",
         "Release date": "2019-08-01",
         "specialId": "scar_of_the_depths",
+        "heroId": "s2_proteus",
         "star": 4,
         "power": 650,
         "attack": 707,
@@ -43405,7 +43406,6 @@ window.allHeroes =
         ],
         "passives": [],
         "family": "atlantis",
-        "image": "https://i.imgur.com/m2PmJmo.jpg",
         "costume_id": 0,
         "originalIndex": 664,
         "lb1": {
@@ -43453,6 +43453,7 @@ window.allHeroes =
         "source": "S2 - Atlantis",
         "Release date": "2023-04-03",
         "specialId": "scar_of_the_depths",
+        "heroId": "s2_proteus_costume_farseer",
         "star": 4,
         "power": 671,
         "attack": 774,
@@ -43464,7 +43465,6 @@ window.allHeroes =
         ],
         "passives": [],
         "family": "atlantis",
-        "image": "https://i.imgur.com/5sfSAJC.jpg",
         "costume_id": 1,
         "originalIndex": 665,
         "lb1": {
@@ -43512,6 +43512,7 @@ window.allHeroes =
         "source": "S1 - Classic",
         "Release date": "2017-03-01",
         "specialId": "purification",
+        "heroId": "blackguard_knight",
         "star": 4,
         "power": 644,
         "attack": 595,
@@ -43523,7 +43524,6 @@ window.allHeroes =
         ],
         "passives": [],
         "family": "classic",
-        "image": "https://i.imgur.com/epzxGwy.jpg",
         "costume_id": 0,
         "originalIndex": 666,
         "lb1": {
@@ -43572,6 +43572,7 @@ window.allHeroes =
         "source": "Costume Quest",
         "Release date": "2020-01-01",
         "specialId": "purification",
+        "heroId": "blackguard_knight_costume_elegant",
         "star": 4,
         "power": 690,
         "attack": 645,
@@ -43584,7 +43585,6 @@ window.allHeroes =
         ],
         "passives": [],
         "family": "classic",
-        "image": "https://i.imgur.com/9nzkBMP.jpg",
         "costume_id": 1,
         "originalIndex": 667,
         "lb1": {
@@ -43638,6 +43638,7 @@ window.allHeroes =
         "source": "Costume Quest",
         "Release date": "2023-04-17",
         "specialId": "purification",
+        "heroId": "blackguard_knight_costume_healer",
         "star": 4,
         "power": 736,
         "attack": 717,
@@ -43650,7 +43651,6 @@ window.allHeroes =
         ],
         "passives": [],
         "family": "classic",
-        "image": "https://i.imgur.com/0dWPfN4.jpg",
         "costume_id": 2,
         "originalIndex": 668,
         "lb1": {
@@ -43704,6 +43704,7 @@ window.allHeroes =
         "source": "Costume Quest",
         "Release date": "2024-06-28",
         "specialId": "purification",
+        "heroId": "blackguard_knight_costume_cute",
         "star": 4,
         "power": 749,
         "attack": 804,
@@ -43718,7 +43719,6 @@ window.allHeroes =
             "Toon: 75% extra chance to resist all status ailments, mana reductions and buff dispels."
         ],
         "family": "classic",
-        "image": "https://i.imgur.com/rCKWMnx.jpg",
         "costume_id": 3,
         "originalIndex": 669,
         "lb1": {
@@ -43772,6 +43772,7 @@ window.allHeroes =
         "source": "Costume Quest",
         "Release date": "2025-07-16",
         "specialId": "purification",
+        "heroId": "blackguard_knight_costume_glass",
         "star": 4,
         "power": 761,
         "attack": 927,
@@ -43786,7 +43787,6 @@ window.allHeroes =
             "Glass: 60% extra chance to reflect status ailments back to the attacker."
         ],
         "family": "classic",
-        "image": "https://imgur.com/3o76oi9.jpg",
         "costume_id": 4,
         "originalIndex": 670,
         "lb1": {
@@ -43838,6 +43838,7 @@ window.allHeroes =
         "source": "S1 - Classic",
         "Release date": "2017-03-01",
         "specialId": "fog_of_the_fallen",
+        "heroId": "undead_female_warrior",
         "star": 4,
         "power": 639,
         "attack": 699,
@@ -43849,7 +43850,6 @@ window.allHeroes =
         ],
         "passives": [],
         "family": "classic",
-        "image": "https://i.imgur.com/G6mmZNN.jpg",
         "costume_id": 0,
         "originalIndex": 671,
         "lb1": {
@@ -43898,6 +43898,7 @@ window.allHeroes =
         "source": "Costume Quest",
         "Release date": "2021-01-18",
         "specialId": "fog_of_the_fallen",
+        "heroId": "undead_female_warrior_costume_princess",
         "star": 4,
         "power": 684,
         "attack": 756,
@@ -43910,7 +43911,6 @@ window.allHeroes =
         ],
         "passives": [],
         "family": "classic",
-        "image": "https://i.imgur.com/flsZEGB.jpg",
         "costume_id": 1,
         "originalIndex": 672,
         "lb1": {
@@ -43964,6 +43964,7 @@ window.allHeroes =
         "source": "Costume Quest",
         "Release date": "2023-11-27",
         "specialId": "fog_of_the_fallen",
+        "heroId": "undead_female_warrior_costume_rococo",
         "star": 4,
         "power": 730,
         "attack": 737,
@@ -43976,7 +43977,6 @@ window.allHeroes =
         ],
         "passives": [],
         "family": "classic",
-        "image": "https://i.imgur.com/EBmu86N.jpg",
         "costume_id": 2,
         "originalIndex": 673,
         "lb1": {
@@ -44030,6 +44030,7 @@ window.allHeroes =
         "source": "Costume Quest",
         "Release date": "2024-10-06",
         "specialId": "fog_of_the_fallen",
+        "heroId": "undead_female_warrior_costume_cute",
         "star": 4,
         "power": 742,
         "attack": 802,
@@ -44044,7 +44045,6 @@ window.allHeroes =
             "Toon: 75% extra chance to resist all status ailments, mana reductions and buff dispels."
         ],
         "family": "classic",
-        "image": "https://i.imgur.com/8kaUg4T.jpg",
         "costume_id": 3,
         "originalIndex": 674,
         "lb1": {
@@ -44099,6 +44099,7 @@ window.allHeroes =
         "source": "Tower - Magic",
         "Release date": "2021-09-15",
         "specialId": "midnight_moon",
+        "heroId": "magic_sergei",
         "star": 4,
         "power": 678,
         "attack": 658,
@@ -44115,7 +44116,6 @@ window.allHeroes =
             "When this character casts their Special Skill, they have a 50% chance to  deal 100% damage to all enemies. If the Special Skill is fully charged,  the chance is 100%."
         ],
         "family": "magic",
-        "image": "https://i.imgur.com/2gnuaoM.jpg",
         "costume_id": 0,
         "originalIndex": 675,
         "lb1": {
@@ -44161,6 +44161,7 @@ window.allHeroes =
         "source": "S6 - Mysteries of the Deep",
         "Release date": "2023-06-07",
         "specialId": "critical_tactics",
+        "heroId": "tales1_sharkhai",
         "star": 4,
         "power": 688,
         "attack": 650,
@@ -44182,7 +44183,6 @@ window.allHeroes =
             " * The caster gets +19% mana generation for 2 turns."
         ],
         "family": "nightmaresofatlantis",
-        "image": "https://i.imgur.com/pCqXNHO.jpg",
         "costume_id": 0,
         "originalIndex": 676,
         "lb1": {
@@ -44224,6 +44224,7 @@ window.allHeroes =
         "source": "S6 - Mysteries of the Deep",
         "Release date": "2025-02-03",
         "specialId": "critical_tactics",
+        "heroId": "tales1_sharkhai_costume_butcher",
         "star": 4,
         "power": 704,
         "attack": 734,
@@ -44246,7 +44247,6 @@ window.allHeroes =
             "Resist Insanity: This character has an innate resistance against Insanity."
         ],
         "family": "nightmaresofatlantis",
-        "image": "https://i.imgur.com/ER0xDRX.jpg",
         "costume_id": 1,
         "originalIndex": 677,
         "lb1": {
@@ -44292,6 +44292,7 @@ window.allHeroes =
         "source": "Mystery - Shadow Summon",
         "Release date": "2025-01-09",
         "specialId": "lantern_of_insanity",
+        "heroId": "shadow_shoggo",
         "star": 4,
         "power": 712,
         "attack": 711,
@@ -44304,7 +44305,6 @@ window.allHeroes =
         ],
         "passives": [],
         "family": "cultist",
-        "image": "https://i.imgur.com/tl6HZEf.jpg",
         "costume_id": 0,
         "originalIndex": 678,
         "lb1": {
@@ -44356,6 +44356,7 @@ window.allHeroes =
         "source": "Alliance - Moths",
         "Release date": "2025-01-23",
         "specialId": "shadow_sidestep",
+        "heroId": "moth_shyombre",
         "star": 4,
         "power": 717,
         "attack": 775,
@@ -44369,7 +44370,6 @@ window.allHeroes =
             "Dodge Special Damage: This character has a 15% chance to dodge Special Skills that deal damage."
         ],
         "family": "moth",
-        "image": "https://i.imgur.com/Gn8sJfi.jpg",
         "costume_id": 0,
         "originalIndex": 679,
         "lb1": {
@@ -44419,6 +44419,7 @@ window.allHeroes =
         "source": "S3 - Valhalla",
         "Release date": "2020-02-27",
         "specialId": "dire_ghost",
+        "heroId": "s3_stonecleave",
         "star": 4,
         "power": 661,
         "attack": 726,
@@ -44433,7 +44434,6 @@ window.allHeroes =
         ],
         "passives": [],
         "family": "helheim",
-        "image": "https://i.imgur.com/7VLylDF.jpg",
         "costume_id": 0,
         "originalIndex": 680,
         "lb1": {
@@ -44480,6 +44480,7 @@ window.allHeroes =
         "source": "S1 - Classic",
         "Release date": "2017-03-01",
         "specialId": "ramming_pulverizer",
+        "heroId": "blackguard_commander",
         "star": 4,
         "power": 639,
         "attack": 660,
@@ -44491,7 +44492,6 @@ window.allHeroes =
         ],
         "passives": [],
         "family": "classic",
-        "image": "https://i.imgur.com/XQUgnc6.jpg",
         "costume_id": 0,
         "originalIndex": 681,
         "lb1": {
@@ -44538,6 +44538,7 @@ window.allHeroes =
         "source": "Costume Quest",
         "Release date": "2020-01-01",
         "specialId": "ramming_pulverizer",
+        "heroId": "blackguard_commander_costume_metal",
         "star": 4,
         "power": 684,
         "attack": 701,
@@ -44549,7 +44550,6 @@ window.allHeroes =
         ],
         "passives": [],
         "family": "classic",
-        "image": "https://i.imgur.com/IyFUCM0.jpg",
         "costume_id": 1,
         "originalIndex": 682,
         "lb1": {
@@ -44596,6 +44596,7 @@ window.allHeroes =
         "source": "Costume Quest",
         "Release date": "2023-10-30",
         "specialId": "ramming_pulverizer",
+        "heroId": "blackguard_commander_costume_feather",
         "star": 4,
         "power": 729,
         "attack": 730,
@@ -44607,7 +44608,6 @@ window.allHeroes =
         ],
         "passives": [],
         "family": "classic",
-        "image": "https://i.imgur.com/Yc1tBJ1.jpg",
         "costume_id": 2,
         "originalIndex": 683,
         "lb1": {
@@ -44655,6 +44655,7 @@ window.allHeroes =
         "source": "Costume Quest",
         "Release date": "2024-08-11",
         "specialId": "ramming_pulverizer",
+        "heroId": "blackguard_commander_costume_cute",
         "star": 4,
         "power": 742,
         "attack": 755,
@@ -44669,7 +44670,6 @@ window.allHeroes =
             "Toon: 75% extra chance to resist all status ailments, mana reductions and buff dispels."
         ],
         "family": "classic",
-        "image": "https://i.imgur.com/XlVXDYe.jpg",
         "costume_id": 3,
         "originalIndex": 684,
         "lb1": {
@@ -44724,6 +44724,7 @@ window.allHeroes =
         "source": "Goblin Summon",
         "Release date": "2023-12-11",
         "specialId": "poisonous_mist",
+        "heroId": "goblin_acidfire",
         "star": 5,
         "power": 979,
         "attack": 1034,
@@ -44740,7 +44741,6 @@ window.allHeroes =
             " * All enemies get -25% accuracy for 3 turns."
         ],
         "family": "goblin",
-        "image": "https://i.imgur.com/KXpETJ0.jpg",
         "costume_id": 0,
         "originalIndex": 685,
         "lb1": {
@@ -44789,6 +44789,7 @@ window.allHeroes =
         "source": "Super Elementals",
         "Release date": "2023-05-22",
         "specialId": "bleed_inducing_daggers",
+        "heroId": "elemental_aconia",
         "star": 5,
         "power": 909,
         "attack": 871,
@@ -44807,7 +44808,6 @@ window.allHeroes =
             " - Received elemental damage: -10%"
         ],
         "family": "superelemental",
-        "image": "https://i.imgur.com/VT78aoB.jpg",
         "costume_id": 0,
         "originalIndex": 686,
         "lb1": {
@@ -44863,6 +44863,7 @@ window.allHeroes =
         "source": "Legends Summon - Hero of the Month",
         "Release date": "2018-04-01",
         "specialId": "nethershield",
+        "heroId": "dark_god_aeron",
         "star": 5,
         "power": 768,
         "attack": 733,
@@ -44876,7 +44877,6 @@ window.allHeroes =
         ],
         "passives": [],
         "family": 2018,
-        "image": "https://i.imgur.com/9AxepJ9.jpg",
         "costume_id": 0,
         "originalIndex": 687,
         "lb1": {
@@ -44930,6 +44930,7 @@ window.allHeroes =
         "source": "Legends Summon - Hero of the Month",
         "Release date": "2023-01-23",
         "specialId": "nethershield",
+        "heroId": "dark_god_aeron_costume_periwig",
         "star": 5,
         "power": 976,
         "attack": 898,
@@ -44944,7 +44945,6 @@ window.allHeroes =
             "Cleanse on Special: When this character casts their Special Skill, they cleanse the newest status ailment from all allies."
         ],
         "family": 2018,
-        "image": "https://i.imgur.com/WvBRV3O.jpg",
         "costume_id": 1,
         "originalIndex": 688,
         "lb1": {
@@ -44997,6 +44997,7 @@ window.allHeroes =
         "source": "Tower - Magic",
         "Release date": "2025-07-23",
         "specialId": "high_altitude_ambush",
+        "heroId": "magic_carpet_agadh",
         "star": 5,
         "power": 1222,
         "attack": 1343,
@@ -45016,7 +45017,6 @@ window.allHeroes =
             "Weaker Mega Minions: Enemy Mega Minions have -75% HP."
         ],
         "family": "magiccarpet",
-        "image": "https://imgur.com/0vA3z7q.jpg",
         "costume_id": 0,
         "originalIndex": 689,
         "lb1": {
@@ -45076,6 +45076,7 @@ window.allHeroes =
         "source": "Tower - Magic",
         "Release date": "2021-09-15",
         "specialId": "arcane_shock",
+        "heroId": "magic_agrafena",
         "star": 5,
         "power": 813,
         "attack": 756,
@@ -45096,7 +45097,6 @@ window.allHeroes =
             "Damage on Special: When this character casts their Special Skill, they have a 50% chance to deal 100% damage to all enemies. If the Special Skill is fully charged, the chance is 100%."
         ],
         "family": "magic",
-        "image": "https://i.imgur.com/19jbbwr.jpg",
         "costume_id": 0,
         "originalIndex": 690,
         "lb1": {
@@ -45161,6 +45161,7 @@ window.allHeroes =
         "source": "Tower - Magic",
         "Release date": "2025-05-29",
         "specialId": "arcane_shock",
+        "heroId": "magic_agrafena_costume_dark",
         "star": 5,
         "power": 1208,
         "attack": 1190,
@@ -45182,7 +45183,6 @@ window.allHeroes =
             "Weaker Mega Minions: Enemy Mega Minions have -75% HP."
         ],
         "family": "magic",
-        "image": "https://imgur.com/QIlXtnC.jpg",
         "costume_id": 1,
         "originalIndex": 691,
         "lb1": {
@@ -45192,10 +45192,10 @@ window.allHeroes =
             "health": 2454
         },
         "lb2": {
-            "power": 1459,
+            "power": 1460,
             "attack": 1467,
             "defense": 1530,
-            "health": 2807
+            "health": 2810
         },
         "cn_skill_info": [
             {
@@ -45242,6 +45242,7 @@ window.allHeroes =
         "source": "Legends Summon - Hero of the Month",
         "Release date": "2025-06-01",
         "specialId": "coiling_whip",
+        "heroId": "dark_god_akilius",
         "star": 5,
         "power": 1085,
         "attack": 1151,
@@ -45258,7 +45259,6 @@ window.allHeroes =
             "Health from Dead Minion: This character recovers 100 health when a Minion owned by them is destroyed."
         ],
         "family": 2025,
-        "image": "https://imgur.com/jq0Lgzp.jpg",
         "costume_id": 0,
         "originalIndex": 692,
         "lb1": {
@@ -45312,6 +45312,7 @@ window.allHeroes =
         "source": "S3 - Valhalla",
         "Release date": "2020-04-23",
         "specialId": "cube_of_dark_realm",
+        "heroId": "s3_alfrike",
         "star": 5,
         "power": 790,
         "attack": 659,
@@ -45325,7 +45326,6 @@ window.allHeroes =
         ],
         "passives": [],
         "family": "svartalfheim",
-        "image": "https://i.imgur.com/O54lA6V.jpg",
         "costume_id": 0,
         "originalIndex": 693,
         "lb1": {
@@ -45375,6 +45375,7 @@ window.allHeroes =
         "source": "S3 - Valhalla",
         "Release date": "2023-07-03",
         "specialId": "cube_of_dark_realm",
+        "heroId": "s3_alfrike_costume_hatter",
         "star": 5,
         "power": 991,
         "attack": 779,
@@ -45388,7 +45389,6 @@ window.allHeroes =
         ],
         "passives": [],
         "family": "svartalfheim",
-        "image": "https://i.imgur.com/2AJeAry.jpg",
         "costume_id": 1,
         "originalIndex": 694,
         "lb1": {
@@ -45437,6 +45437,7 @@ window.allHeroes =
         "source": "Tower - Ninjas",
         "Release date": "2023-01-11",
         "specialId": "assassins_in_the_night",
+        "heroId": "ninja_amethyst",
         "star": 5,
         "power": 867,
         "attack": 869,
@@ -45459,7 +45460,6 @@ window.allHeroes =
         ],
         "passives": [],
         "family": "ninja",
-        "image": "https://i.imgur.com/OBE1Glz.jpg",
         "costume_id": 0,
         "originalIndex": 695,
         "lb1": {
@@ -45509,6 +45509,7 @@ window.allHeroes =
         "source": "Legends Summon - Hero of the Month",
         "Release date": "2024-03-01",
         "specialId": "strange_incense",
+        "heroId": "dark_god_anoushka",
         "star": 5,
         "power": 966,
         "attack": 902,
@@ -45528,7 +45529,6 @@ window.allHeroes =
             "Health Recovery on Status Ailment Received: This character recovers 10% health when they receive a status ailment or negative stack."
         ],
         "family": 2024,
-        "image": "https://i.imgur.com/mDRIe3A.jpg",
         "costume_id": 0,
         "originalIndex": 696,
         "lb1": {
@@ -45583,6 +45583,7 @@ window.allHeroes =
         "source": "S5 - Dune",
         "Release date": "2023-03-16",
         "specialId": "mark_of_anubis",
+        "heroId": "s5_anubis",
         "star": 5,
         "power": 870,
         "attack": 815,
@@ -45599,7 +45600,6 @@ window.allHeroes =
             " * Dispells the latest dispellable buff from all enemies."
         ],
         "family": "moon",
-        "image": "https://i.imgur.com/QQQGz6W.jpg",
         "costume_id": 0,
         "originalIndex": 697,
         "lb1": {
@@ -45650,6 +45650,7 @@ window.allHeroes =
         "source": "S5 - Dune",
         "Release date": "2024-02-05",
         "specialId": "mark_of_anubis",
+        "heroId": "s5_anubis_costume_dancefloor",
         "star": 5,
         "power": 1216,
         "attack": 1187,
@@ -45668,7 +45669,6 @@ window.allHeroes =
             "Mana on Status Ailment Received: This character gains 5% mana when they receive a status ailment or negative stack."
         ],
         "family": "moon",
-        "image": "https://i.imgur.com/8BGU68M.jpg",
         "costume_id": 1,
         "originalIndex": 698,
         "lb1": {
@@ -45678,10 +45678,10 @@ window.allHeroes =
             "health": 2575
         },
         "lb2": {
-            "power": 1469,
+            "power": 1470,
             "attack": 1462,
             "defense": 1503,
-            "health": 2946
+            "health": 2949
         },
         "cn_skill_info": [
             {
@@ -45721,6 +45721,7 @@ window.allHeroes =
         "source": "Alliance - Musketeers",
         "Release date": "2022-12-14",
         "specialId": "charmers_blades",
+        "heroId": "musketeer_aramis",
         "star": 5,
         "power": 845,
         "attack": 873,
@@ -45736,7 +45737,6 @@ window.allHeroes =
             "When this character receives damage from Special Skills or in place of a character in Cover, there’s a 60% chance to deal 20% of the received damage on all enemies."
         ],
         "family": "musketeer",
-        "image": "https://i.imgur.com/7DRTWTb.jpg",
         "costume_id": 0,
         "originalIndex": 699,
         "lb1": {
@@ -45787,6 +45787,7 @@ window.allHeroes =
         "source": "Legends Summon - Hero of the Month",
         "Release date": "2022-06-01",
         "specialId": "dagger_of_shadows",
+        "heroId": "dark_god_arfanias",
         "star": 5,
         "power": 808,
         "attack": 786,
@@ -45803,7 +45804,6 @@ window.allHeroes =
             "Resist Health Steal Ailments: This hero has innate resistance against status ailments that steal health."
         ],
         "family": 2022,
-        "image": "https://i.imgur.com/VIzTbRE.jpg",
         "costume_id": 0,
         "originalIndex": 700,
         "lb1": {
@@ -45857,6 +45857,7 @@ window.allHeroes =
         "source": "Mystery - Shadow Summon",
         "Release date": "2025-05-13",
         "specialId": "necronomicon_page_13",
+        "heroId": "shadow_asketel",
         "star": 5,
         "power": 1190,
         "attack": 1219,
@@ -45869,7 +45870,6 @@ window.allHeroes =
         ],
         "passives": [],
         "family": "cultist",
-        "image": "https://imgur.com/l1cl4kl.jpg",
         "costume_id": 0,
         "originalIndex": 701,
         "lb1": {
@@ -45920,6 +45920,7 @@ window.allHeroes =
         "source": "S5 - Dune",
         "Release date": "2022-08-04",
         "specialId": "quick_and_nimble",
+        "heroId": "s5_bastet",
         "star": 5,
         "power": 862,
         "attack": 809,
@@ -45935,7 +45936,6 @@ window.allHeroes =
             " * Dispells the latest dispellable buff from all enemies."
         ],
         "family": "moon",
-        "image": "https://i.imgur.com/4N9tjf5.jpg",
         "costume_id": 0,
         "originalIndex": 702,
         "lb1": {
@@ -45985,6 +45985,7 @@ window.allHeroes =
         "source": "S5 - Dune",
         "Release date": "2024-08-10",
         "specialId": "quick_and_nimble",
+        "heroId": "s5_bastet_costume_forest",
         "star": 5,
         "power": 1206,
         "attack": 1146,
@@ -46002,7 +46003,6 @@ window.allHeroes =
             "Mana on Status Ailment Received: This character gains 5% mana when they receive a status ailment or negative stack."
         ],
         "family": "moon",
-        "image": "https://i.imgur.com/21HSfR4.jpg",
         "costume_id": 1,
         "originalIndex": 703,
         "lb1": {
@@ -46054,6 +46054,7 @@ window.allHeroes =
         "source": "Tower - Magic",
         "Release date": "2023-06-28",
         "specialId": "wand_of_mana_control",
+        "heroId": "magic_becky",
         "star": 5,
         "power": 907,
         "attack": 881,
@@ -46073,7 +46074,6 @@ window.allHeroes =
             "Health Recovery on Special: When this character casts their Special Skill, they have a 50% chance to recover 15% health for all allies. If the Special Skill is fully changed, the chance is 100%."
         ],
         "family": "magic",
-        "image": "https://i.imgur.com/xqlrby4.jpg",
         "costume_id": 0,
         "originalIndex": 704,
         "lb1": {
@@ -46129,6 +46129,7 @@ window.allHeroes =
         "source": "Challenge Festival II",
         "Release date": "2023-03-23",
         "specialId": "mystical_concerto",
+        "heroId": "bard_belladonna",
         "star": 5,
         "power": 881,
         "attack": 859,
@@ -46144,7 +46145,6 @@ window.allHeroes =
             "Mana increase reduction: Reduces the amount of mana increased by Special Skill by -80%. The effect applies to all enemies in the battle."
         ],
         "family": "bard",
-        "image": "https://i.imgur.com/sGuDCiH.jpg",
         "costume_id": 0,
         "originalIndex": 705,
         "lb1": {
@@ -46195,6 +46195,7 @@ window.allHeroes =
         "source": "S3 - Valhalla",
         "Release date": "2020-09-24",
         "specialId": "disir_of_dusk",
+        "heroId": "s3_bera",
         "star": 5,
         "power": 786,
         "attack": 743,
@@ -46208,7 +46209,6 @@ window.allHeroes =
         ],
         "passives": [],
         "family": "vanaheim",
-        "image": "https://i.imgur.com/NBFcAXz.jpg",
         "costume_id": 0,
         "originalIndex": 706,
         "lb1": {
@@ -46263,6 +46263,7 @@ window.allHeroes =
         "source": "S3 - Valhalla",
         "Release date": "2023-06-05",
         "specialId": "disir_of_dusk",
+        "heroId": "s3_bera_costume_conjurer",
         "star": 5,
         "power": 984,
         "attack": 951,
@@ -46276,7 +46277,6 @@ window.allHeroes =
         ],
         "passives": [],
         "family": "vanaheim",
-        "image": "https://i.imgur.com/jUs21jO.jpg",
         "costume_id": 1,
         "originalIndex": 707,
         "lb1": {
@@ -46331,6 +46331,7 @@ window.allHeroes =
         "source": "Challenge Festival I",
         "Release date": "2018-06-01",
         "specialId": "unstoppable_growl",
+        "heroId": "fables_boss_wolf",
         "star": 5,
         "power": 767,
         "attack": 566,
@@ -46343,7 +46344,6 @@ window.allHeroes =
         ],
         "passives": [],
         "family": "grimforest",
-        "image": "https://i.imgur.com/iVvmOFs.jpg",
         "costume_id": 0,
         "originalIndex": 708,
         "lb1": {
@@ -46395,6 +46395,7 @@ window.allHeroes =
         "source": "Covenant Summon",
         "Release date": "2024-04-25",
         "specialId": "unerring_course",
+        "heroId": "construct_carta",
         "star": 5,
         "power": 1055,
         "attack": 1025,
@@ -46412,7 +46413,6 @@ window.allHeroes =
             " * The healing is scaled by the amount of charge in the Core. All charge is exchausted when the Core is activated."
         ],
         "family": "construct",
-        "image": "https://i.imgur.com/uiGjBrD.jpg",
         "costume_id": 0,
         "originalIndex": 709,
         "lb1": {
@@ -46465,6 +46465,7 @@ window.allHeroes =
         "source": "Alliance - Knights Clash",
         "Release date": "2024-04-10",
         "specialId": "aura_of_twilight",
+        "heroId": "castle_stag_cecilia",
         "star": 5,
         "power": 1028,
         "attack": 1030,
@@ -46478,7 +46479,6 @@ window.allHeroes =
             "Health Recovery on Buff Received: This character recovers 5% health when they receive a buff or a positive stack."
         ],
         "family": "stag",
-        "image": "https://i.imgur.com/FjOt9jJ.jpg",
         "costume_id": 0,
         "originalIndex": 710,
         "lb1": {
@@ -46528,6 +46528,7 @@ window.allHeroes =
         "source": "Tower - Owls",
         "Release date": "2024-07-02",
         "specialId": "blade_wings",
+        "heroId": "owl_cennius",
         "star": 5,
         "power": 1079,
         "attack": 1130,
@@ -46543,7 +46544,6 @@ window.allHeroes =
             "Reduce Mana Gain from Special Skills: Reduces the amount of mana increased by Special Skill by -80%. The effect applies to all enemies in the battle."
         ],
         "family": "owl",
-        "image": "https://i.imgur.com/FJtndTk.jpg",
         "costume_id": 0,
         "originalIndex": 711,
         "lb1": {
@@ -46599,6 +46599,7 @@ window.allHeroes =
         "source": "Legends Summon - Hero of the Month",
         "Release date": "2021-08-01",
         "specialId": "stalling_spell",
+        "heroId": "dark_god_chakkoszrot",
         "star": 5,
         "power": 793,
         "attack": 745,
@@ -46615,7 +46616,6 @@ window.allHeroes =
             "Mana Buff on Status Ailment Received: Receives +24% mana generation for 3 turns when this character receives a status ailment or a negative stack."
         ],
         "family": 2021,
-        "image": "https://i.imgur.com/tvzGcka.jpg",
         "costume_id": 0,
         "originalIndex": 712,
         "lb1": {
@@ -46668,6 +46668,7 @@ window.allHeroes =
         "source": "Three Kingdoms Summon",
         "Release date": "2025-06-30",
         "specialId": "advice_from_beyond",
+        "heroId": "outlaw_chao_gai",
         "star": 5,
         "power": 1216,
         "attack": 1242,
@@ -46690,7 +46691,6 @@ window.allHeroes =
             "Resist Bleed Damage: This character has innate resistance against Bleed.    "
         ],
         "family": "outlaws",
-        "image": "https://imgur.com/6s8pdik.jpg",
         "costume_id": 0,
         "originalIndex": 713,
         "lb1": {
@@ -46747,6 +46747,7 @@ window.allHeroes =
         "source": "Tower - Styx",
         "Release date": "2022-11-16",
         "specialId": "boat_ride_from_the_beyond",
+        "heroId": "styx_charon",
         "star": 5,
         "power": 858,
         "attack": 741,
@@ -46769,7 +46770,6 @@ window.allHeroes =
             "Decreased Minion Health: Enemy Minions inherit -50% less Health when summoned."
         ],
         "family": "styx",
-        "image": "https://i.imgur.com/eSyywNh.jpg",
         "costume_id": 0,
         "originalIndex": 714,
         "lb1": {
@@ -46816,6 +46816,7 @@ window.allHeroes =
         "source": "Legends Summon - Hero of the Month",
         "Release date": "2020-05-01",
         "specialId": "miasma_mace",
+        "heroId": "dark_god_clarissa",
         "star": 5,
         "power": 772,
         "attack": 733,
@@ -46831,7 +46832,6 @@ window.allHeroes =
             "Resist Poison: This character has innate resistance against Poison."
         ],
         "family": 2020,
-        "image": "https://i.imgur.com/YBAuibe.jpg",
         "costume_id": 0,
         "originalIndex": 715,
         "lb1": {
@@ -46890,6 +46890,7 @@ window.allHeroes =
         "source": "Challenge Festival II",
         "Release date": "2021-02-11",
         "specialId": "doomstrike",
+        "heroId": "villain_dark_lord",
         "star": 5,
         "power": 805,
         "attack": 801,
@@ -46902,7 +46903,6 @@ window.allHeroes =
         ],
         "passives": [],
         "family": "villains",
-        "image": "https://i.imgur.com/ja50n6G.jpg",
         "costume_id": 0,
         "originalIndex": 716,
         "lb1": {
@@ -46962,6 +46962,7 @@ window.allHeroes =
         "source": "Challenge Festival II",
         "Release date": "2024-11-14",
         "specialId": "doomstrike",
+        "heroId": "villain_dark_lord_costume_astronomer",
         "star": 5,
         "power": 1205,
         "attack": 1334,
@@ -46976,7 +46977,6 @@ window.allHeroes =
             "Curse on Special Skill: When this character casts their Special Skill, all enemies receive 473 Curse damage over 4 turns, starting low and increasing every turn."
         ],
         "family": "villains",
-        "image": "https://i.imgur.com/Mz4axni.jpg",
         "costume_id": 1,
         "originalIndex": 717,
         "lb1": {
@@ -47034,6 +47034,7 @@ window.allHeroes =
         "source": "Challenge Festival II",
         "Release date": "2025-04-09",
         "specialId": "struck_by_thunder",
+        "heroId": "bard_darkbeat",
         "star": 5,
         "power": 1188,
         "attack": 1192,
@@ -47049,7 +47050,6 @@ window.allHeroes =
             "Revival Chance Reduction: The chance of revival is reduced for all enemies in the battle. The chance is 20% of the original value."
         ],
         "family": "bard",
-        "image": "https://imgur.com/ypDGkpC.jpg",
         "costume_id": 0,
         "originalIndex": 718,
         "lb1": {
@@ -47104,6 +47104,7 @@ window.allHeroes =
         "source": "Goblin Summon",
         "Release date": "2023-09-18",
         "specialId": "the_eagles_blessing",
+        "heroId": "goblin_darkfeather",
         "star": 5,
         "power": 941,
         "attack": 906,
@@ -47120,7 +47121,6 @@ window.allHeroes =
             " * All enemies get -25% accuracy for 3 turns."
         ],
         "family": "goblin",
-        "image": "https://i.imgur.com/9UklXhJ.jpg",
         "costume_id": 0,
         "originalIndex": 719,
         "lb1": {
@@ -47172,6 +47172,7 @@ window.allHeroes =
         "source": "Goblin Summon",
         "Release date": "2023-09-18",
         "specialId": "unhallowed_spirits",
+        "heroId": "goblin_deadboot",
         "star": 5,
         "power": 940,
         "attack": 964,
@@ -47189,7 +47190,6 @@ window.allHeroes =
             " * All enemies get -25% accuracy for 3 turns."
         ],
         "family": "goblin",
-        "image": "https://i.imgur.com/6DFOAwr.jpg",
         "costume_id": 0,
         "originalIndex": 720,
         "lb1": {
@@ -47246,6 +47246,7 @@ window.allHeroes =
         "source": "Astral Summon",
         "Release date": "2024-05-20",
         "specialId": "moon_crush_beam",
+        "heroId": "astral_demilune",
         "star": 5,
         "power": 1051,
         "attack": 1095,
@@ -47262,7 +47263,6 @@ window.allHeroes =
             "Share Received Damage: 20% of damage received by this charater is shared  with other allies."
         ],
         "family": "astralelves",
-        "image": "https://i.imgur.com/h0XJ3CG.jpg",
         "costume_id": 0,
         "originalIndex": 721,
         "lb1": {
@@ -47315,6 +47315,7 @@ window.allHeroes =
         "source": "Three Kingdoms Summon",
         "Release date": "2022-03-14",
         "specialId": "ladys_charm",
+        "heroId": "kingdom_diaochan",
         "star": 5,
         "power": 835,
         "attack": 805,
@@ -47327,7 +47328,6 @@ window.allHeroes =
         ],
         "passives": [],
         "family": "kingdom",
-        "image": "https://i.imgur.com/PBEksgr.jpg",
         "costume_id": 0,
         "originalIndex": 722,
         "lb1": {
@@ -47376,6 +47376,7 @@ window.allHeroes =
         "source": "Three Kingdoms Summon",
         "Release date": "2024-05-28",
         "specialId": "ladys_charm",
+        "heroId": "kingdom_diaochan_costume_flowers",
         "star": 5,
         "power": 1105,
         "attack": 1073,
@@ -47393,7 +47394,6 @@ window.allHeroes =
             " * Minion attacks and abilities can’t be disabled."
         ],
         "family": "kingdom",
-        "image": "https://i.imgur.com/ZWN9v1V.jpg",
         "costume_id": 1,
         "originalIndex": 723,
         "lb1": {
@@ -47443,6 +47443,7 @@ window.allHeroes =
         "source": "S1 - Classic",
         "Release date": "2017-03-01",
         "specialId": "shock_bolt",
+        "heroId": "magitech_sniper",
         "star": 5,
         "power": 757,
         "attack": 725,
@@ -47455,7 +47456,6 @@ window.allHeroes =
         ],
         "passives": [],
         "family": "classic",
-        "image": "https://i.imgur.com/t244Fcr.jpg",
         "costume_id": 0,
         "originalIndex": 724,
         "lb1": {
@@ -47505,6 +47505,7 @@ window.allHeroes =
         "source": "Costume Quest",
         "Release date": "2020-05-18",
         "specialId": "shock_bolt",
+        "heroId": "magitech_sniper_costume_steampunk",
         "star": 5,
         "power": 851,
         "attack": 837,
@@ -47517,7 +47518,6 @@ window.allHeroes =
         ],
         "passives": [],
         "family": "classic",
-        "image": "https://i.imgur.com/mpRxFeU.jpg",
         "costume_id": 1,
         "originalIndex": 725,
         "lb1": {
@@ -47567,6 +47567,7 @@ window.allHeroes =
         "source": "Costume Quest",
         "Release date": "2022-10-31",
         "specialId": "shock_bolt",
+        "heroId": "magitech_sniper_costume_undead",
         "star": 5,
         "power": 967,
         "attack": 940,
@@ -47579,14 +47580,13 @@ window.allHeroes =
         ],
         "passives": [],
         "family": "classic",
-        "image": "https://i.imgur.com/36NtLB6.jpg",
         "costume_id": 2,
         "originalIndex": 726,
         "lb1": {
-            "power": 1032,
+            "power": 1031,
             "attack": 1012,
             "defense": 972,
-            "health": 2007
+            "health": 2004
         },
         "lb2": {
             "power": 1163,
@@ -47634,6 +47634,7 @@ window.allHeroes =
         "source": "Costume Quest",
         "Release date": "2024-03-11",
         "specialId": "shock_bolt",
+        "heroId": "magitech_sniper_costume_cute",
         "star": 5,
         "power": 1134,
         "attack": 1167,
@@ -47649,14 +47650,13 @@ window.allHeroes =
             "Toon: 75% extra chance to resist all status ailments, mana reductions and buff dispels."
         ],
         "family": "classic",
-        "image": "https://i.imgur.com/q7quKlm.jpg",
         "costume_id": 3,
         "originalIndex": 727,
         "lb1": {
-            "power": 1213,
+            "power": 1212,
             "attack": 1258,
             "defense": 1120,
-            "health": 2388
+            "health": 2385
         },
         "lb2": {
             "power": 1370,
@@ -47706,6 +47706,7 @@ window.allHeroes =
         "source": "Costume Quest",
         "Release date": "2025-04-23",
         "specialId": "shock_bolt",
+        "heroId": "magitech_sniper_costume_glass",
         "star": 5,
         "power": 1241,
         "attack": 1337,
@@ -47721,7 +47722,6 @@ window.allHeroes =
             "Glass: 60% extra chance to reflect status ailments back to the attacker."
         ],
         "family": "classic",
-        "image": "https://imgur.com/gwMXUDN.jpg",
         "costume_id": 4,
         "originalIndex": 728,
         "lb1": {
@@ -47773,6 +47773,7 @@ window.allHeroes =
         "source": "S4 - Wilderness",
         "Release date": "2021-03-25",
         "specialId": "blinding_wisdom",
+        "heroId": "s4_doctor_moreau",
         "star": 5,
         "power": 807,
         "attack": 774,
@@ -47786,7 +47787,6 @@ window.allHeroes =
             "Special Skill Damage Reduction: Received damage from Special Skills is reduced by -20% for this character."
         ],
         "family": "underwild",
-        "image": "https://i.imgur.com/fpP6oo2.jpg",
         "costume_id": 0,
         "originalIndex": 729,
         "lb1": {
@@ -47833,6 +47833,7 @@ window.allHeroes =
         "source": "S4 - Wilderness",
         "Release date": "2023-04-27",
         "specialId": "blinding_wisdom",
+        "heroId": "s4_doctor_moreau_costume_scribe",
         "star": 5,
         "power": 1022,
         "attack": 988,
@@ -47847,7 +47848,6 @@ window.allHeroes =
             "Increased Damage Against Boosted Health: After Special Skill cast, all  allies' normal attacks and Special Skills deal +70% damage against targets with boosted health for 4 turns."
         ],
         "family": "underwild",
-        "image": "https://i.imgur.com/WWxEz6I.jpg",
         "costume_id": 1,
         "originalIndex": 730,
         "lb1": {
@@ -47899,6 +47899,7 @@ window.allHeroes =
         "source": "Astral Summon",
         "Release date": "2024-03-07",
         "specialId": "astral_dominion",
+        "heroId": "astral_dreadstar",
         "star": 5,
         "power": 1013,
         "attack": 1015,
@@ -47915,19 +47916,18 @@ window.allHeroes =
             "Share Received Damage: 20% of damage received by this charater is shared with other allies."
         ],
         "family": "astralelves",
-        "image": "https://i.imgur.com/XzGqN00.jpg",
         "costume_id": 0,
         "originalIndex": 731,
         "lb1": {
-            "power": 1081,
+            "power": 1082,
             "attack": 1094,
-            "defense": 1138,
+            "defense": 1141,
             "health": 1820
         },
         "lb2": {
-            "power": 1219,
+            "power": 1220,
             "attack": 1252,
-            "defense": 1303,
+            "defense": 1307,
             "health": 2082
         },
         "cn_skill_info": [
@@ -47971,6 +47971,7 @@ window.allHeroes =
         "source": "Monster Island Summon",
         "Release date": "2024-05-23",
         "specialId": "thundering_strike",
+        "heroId": "monster_hunter_dubhain",
         "star": 5,
         "power": 1122,
         "attack": 1095,
@@ -47986,7 +47987,6 @@ window.allHeroes =
             "Damage Over Time on Special: When this character casts their Special Skill, they give a Hunter’s Mark on a random enemy. The target receives 150 damage over 3 turns. If a target already has this effect, the duration will be refreshed and the damage will be increased by 150, up to 1500 damage in total."
         ],
         "family": "plainshunter",
-        "image": "https://i.imgur.com/erlDPi2.jpg",
         "costume_id": 0,
         "originalIndex": 732,
         "lb1": {
@@ -48041,6 +48041,7 @@ window.allHeroes =
         "source": "S7 - Treasures of Flame and Frost",
         "Release date": "2024-12-03",
         "specialId": "nights_whisper",
+        "heroId": "tales2_dularfulr",
         "star": 5,
         "power": 1165,
         "attack": 1143,
@@ -48059,7 +48060,6 @@ window.allHeroes =
             " * The Burn damage is scaled by the amount of charge in the Core. All charge is exhausted when the Core is activated."
         ],
         "family": "nidavellir",
-        "image": "https://i.imgur.com/mO16Dj6.jpg",
         "costume_id": 0,
         "originalIndex": 733,
         "lb1": {
@@ -48107,6 +48107,7 @@ window.allHeroes =
         "source": "Monthly Event - Love Season",
         "Release date": "2024-01-08",
         "specialId": "arrow_of_desire",
+        "heroId": "valentines_eros",
         "star": 5,
         "power": 966,
         "attack": 1009,
@@ -48120,7 +48121,6 @@ window.allHeroes =
             "Resist Special Skill Blocking: This character has innate resistance against status ailments that block Special Skills."
         ],
         "family": "cupid",
-        "image": "https://i.imgur.com/5JDsRr2.jpg",
         "costume_id": 0,
         "originalIndex": 734,
         "lb1": {
@@ -48173,6 +48173,7 @@ window.allHeroes =
         "source": "Extra Draw - Secret Summon",
         "Release date": "2025-06-06",
         "specialId": "mimic_training_hero_purple_bite",
+        "heroId": "mimic_training_hero_purple",
         "star": 5,
         "power": 1200,
         "attack": 1236,
@@ -48194,7 +48195,6 @@ window.allHeroes =
             " * Uncommon Ice Heroes"
         ],
         "family": "mimic",
-        "image": "https://imgur.com/HBoOGrf.jpg",
         "costume_id": 0,
         "originalIndex": 735,
         "lb1": {
@@ -48250,6 +48250,7 @@ window.allHeroes =
         "source": "Super Elementals",
         "Release date": "2023-11-06",
         "specialId": "piercing_falcon",
+        "heroId": "elemental_farrah",
         "star": 5,
         "power": 971,
         "attack": 1007,
@@ -48268,7 +48269,6 @@ window.allHeroes =
             " - Received elemental damage: -10%"
         ],
         "family": "superelemental",
-        "image": "https://i.imgur.com/ciEXCLt.jpg",
         "costume_id": 0,
         "originalIndex": 736,
         "lb1": {
@@ -48317,6 +48317,7 @@ window.allHeroes =
         "source": "S3 - Valhalla",
         "Release date": "2020-02-27",
         "specialId": "ravens_vigil",
+        "heroId": "s3_freya",
         "star": 5,
         "power": 792,
         "attack": 776,
@@ -48329,7 +48330,6 @@ window.allHeroes =
         ],
         "passives": [],
         "family": "vanaheim",
-        "image": "https://i.imgur.com/4iJaoi6.jpg",
         "costume_id": 0,
         "originalIndex": 737,
         "lb1": {
@@ -48378,6 +48378,7 @@ window.allHeroes =
         "source": "S3 - Valhalla",
         "Release date": "2022-08-01",
         "specialId": "ravens_vigil",
+        "heroId": "s3_freya_costume_witch",
         "star": 5,
         "power": 991,
         "attack": 967,
@@ -48390,7 +48391,6 @@ window.allHeroes =
         ],
         "passives": [],
         "family": "vanaheim",
-        "image": "https://i.imgur.com/Ye3Esdg.jpg",
         "costume_id": 1,
         "originalIndex": 738,
         "lb1": {
@@ -48438,6 +48438,7 @@ window.allHeroes =
         "source": "Super Elementals",
         "Release date": "2024-03-25",
         "specialId": "elemental_corruption",
+        "heroId": "elemental_gastille",
         "star": 5,
         "power": 1024,
         "attack": 1075,
@@ -48455,7 +48456,6 @@ window.allHeroes =
             " - Received elemental damage: -10%"
         ],
         "family": "superelemental",
-        "image": "https://i.imgur.com/Hq9OxQ2.jpg",
         "costume_id": 0,
         "originalIndex": 739,
         "lb1": {
@@ -48504,6 +48504,7 @@ window.allHeroes =
         "source": "Astral Summon",
         "Release date": "2025-05-07",
         "specialId": "twilight_star_strike",
+        "heroId": "astral_dwarf_gongoth",
         "star": 5,
         "power": 1184,
         "attack": 1229,
@@ -48520,7 +48521,6 @@ window.allHeroes =
             "Perfect Accuracy: This character’s Special Skill never misses its targets."
         ],
         "family": "astraldwarfs",
-        "image": "https://imgur.com/qkGDpyg.jpg",
         "costume_id": 0,
         "originalIndex": 740,
         "lb1": {
@@ -48572,6 +48572,7 @@ window.allHeroes =
         "source": "Super Elementals",
         "Release date": "2024-11-27",
         "specialId": "slime_serving",
+        "heroId": "slime_gooldron",
         "star": 5,
         "power": 1149,
         "attack": 1196,
@@ -48588,7 +48589,6 @@ window.allHeroes =
             "Slime Minion Split: If this character loses more than 25% of max health at once, they summon a Slime Mega Minion for themselves with 50% HP and 40% attack."
         ],
         "family": "slime",
-        "image": "https://i.imgur.com/pQjaPYL.jpg",
         "costume_id": 0,
         "originalIndex": 741,
         "lb1": {
@@ -48638,6 +48638,7 @@ window.allHeroes =
         "source": "Monster Island Summon",
         "Release date": "2022-12-24",
         "specialId": "titantooth_blade",
+        "heroId": "monster_hunter_goretooth",
         "star": 5,
         "power": 889,
         "attack": 908,
@@ -48653,7 +48654,6 @@ window.allHeroes =
             "Damage over time on Special: When this character casts their Special Skill, they give a Hunter’s Mark on a random enemy. The target receives 150 damage over 3 turns. If a target already has this effect, the duration will be refreshed and the damage will be increased by 150, up to 1500 damage in total."
         ],
         "family": "abysshunter",
-        "image": "https://i.imgur.com/gtuGK1d.jpg",
         "costume_id": 0,
         "originalIndex": 742,
         "lb1": {
@@ -48701,6 +48701,7 @@ window.allHeroes =
         "source": "Challenge - Gargoyle",
         "Release date": "2022-05-12",
         "specialId": "revengeful_smite",
+        "heroId": "gargoyle_goseck",
         "star": 5,
         "power": 841,
         "attack": 824,
@@ -48714,7 +48715,6 @@ window.allHeroes =
             "Gargoyle’s Stoneskin: Every time this Gargoyle casts a Special Skill, their Stoneskin hardens. The next 5 times they receive damage, it is dropped to 1. This effect can’t be dispelled."
         ],
         "family": "gargoyle",
-        "image": "https://i.imgur.com/OKV9H3h.jpg",
         "costume_id": 0,
         "originalIndex": 743,
         "lb1": {
@@ -48764,6 +48764,7 @@ window.allHeroes =
         "source": "Challenge - Beowulf",
         "Release date": "2025-07-13",
         "specialId": "harrow_the_heart",
+        "heroId": "beowulf_grendels_mother",
         "star": 5,
         "power": 1220,
         "attack": 1233,
@@ -48783,7 +48784,6 @@ window.allHeroes =
             "Stacking Attack On Damage Received: When this character receives damage from Special Skills, they gain +30% attack Stack (Max: 10). One Stack can be gained per turn."
         ],
         "family": "beowulf",
-        "image": "https://imgur.com/gAwcLIi.jpg",
         "costume_id": 0,
         "originalIndex": 744,
         "lb1": {
@@ -48833,6 +48833,7 @@ window.allHeroes =
         "source": "Super Elementals",
         "Release date": "2023-05-22",
         "specialId": "mana_manipulation",
+        "heroId": "elemental_griffex",
         "star": 5,
         "power": 908,
         "attack": 859,
@@ -48850,7 +48851,6 @@ window.allHeroes =
             " - Received elemental damage: -10%"
         ],
         "family": "superelemental",
-        "image": "https://i.imgur.com/uvhkpHJ.jpg",
         "costume_id": 0,
         "originalIndex": 745,
         "lb1": {
@@ -48899,6 +48899,7 @@ window.allHeroes =
         "source": "Legends Summon - Hero of the Month",
         "Release date": "2019-12-01",
         "specialId": "gnomish_carnage",
+        "heroId": "dark_god_grimble",
         "star": 5,
         "power": 770,
         "attack": 615,
@@ -48914,7 +48915,6 @@ window.allHeroes =
             "Resist Blind: This character has an innate resistance against status ailments that affect Accuracy. Doesn't apply to status effects from allies."
         ],
         "family": 2019,
-        "image": "https://i.imgur.com/1sMnXH3.jpg",
         "costume_id": 0,
         "originalIndex": 746,
         "lb1": {
@@ -48968,6 +48968,7 @@ window.allHeroes =
         "source": "Challenge Festival I",
         "Release date": "2017-10-05",
         "specialId": "eye_of_panther",
+        "heroId": "guardian_cat_warrior",
         "star": 5,
         "power": 765,
         "attack": 786,
@@ -48980,7 +48981,6 @@ window.allHeroes =
         ],
         "passives": [],
         "family": "guardiansteltoc",
-        "image": "https://i.imgur.com/DIjmjpT.jpg",
         "costume_id": 0,
         "originalIndex": 747,
         "lb1": {
@@ -49033,6 +49033,7 @@ window.allHeroes =
         "source": "Challenge Festival I",
         "Release date": "2022-06-16",
         "specialId": "eye_of_panther",
+        "heroId": "guardian_cat_warrior_costume_fierce",
         "star": 5,
         "power": 958,
         "attack": 972,
@@ -49045,14 +49046,13 @@ window.allHeroes =
         ],
         "passives": [],
         "family": "guardiansteltoc",
-        "image": "https://i.imgur.com/ZdPyBw5.jpg",
         "costume_id": 1,
         "originalIndex": 748,
         "lb1": {
             "power": 1023,
             "attack": 1047,
             "defense": 867,
-            "health": 2066
+            "health": 2063
         },
         "lb2": {
             "power": 1153,
@@ -49095,6 +49095,7 @@ window.allHeroes =
         "source": "Super Elementals",
         "Release date": "2024-06-18",
         "specialId": "blob_of_fury",
+        "heroId": "slime_gunktus",
         "star": 5,
         "power": 1133,
         "attack": 1190,
@@ -49118,7 +49119,6 @@ window.allHeroes =
             "Slime Minion Split: If this character loses more than 25% of max health at once, they summon a Slime Mega Minion for themselves with 50% HP and 40% attack."
         ],
         "family": "slime",
-        "image": "https://i.imgur.com/gYtmXoK.jpg",
         "costume_id": 0,
         "originalIndex": 749,
         "lb1": {
@@ -49169,6 +49169,7 @@ window.allHeroes =
         "source": "S4 - Wilderness",
         "Release date": "2021-06-17",
         "specialId": "corrupting_idol",
+        "heroId": "s4_hannah",
         "star": 5,
         "power": 807,
         "attack": 780,
@@ -49184,7 +49185,6 @@ window.allHeroes =
             "Start Battle with Mana: This character receives 20% mana at the start of the battle."
         ],
         "family": "underwild",
-        "image": "https://i.imgur.com/adxVUbU.jpg",
         "costume_id": 0,
         "originalIndex": 750,
         "lb1": {
@@ -49238,6 +49238,7 @@ window.allHeroes =
         "source": "S4 - Wilderness",
         "Release date": "2024-04-25",
         "specialId": "corrupting_idol",
+        "heroId": "s4_hannah_costume_drover",
         "star": 5,
         "power": 1022,
         "attack": 1030,
@@ -49254,7 +49255,6 @@ window.allHeroes =
             "Increased Damage Against Boosted Health: After this character casts their Special Skill, all allies deal +70% increased normal attacks and Special Skills damage against targets with boosted health for 4 turns."
         ],
         "family": "underwild",
-        "image": "https://i.imgur.com/uhuj4Z5.jpg",
         "costume_id": 1,
         "originalIndex": 751,
         "lb1": {
@@ -49311,6 +49311,7 @@ window.allHeroes =
         "source": "Monster Island Summon",
         "Release date": "2022-09-18",
         "specialId": "medicinal_fumes",
+        "heroId": "monster_hunter_hawthorn",
         "star": 5,
         "power": 888,
         "attack": 819,
@@ -49326,7 +49327,6 @@ window.allHeroes =
             "Damage Over Time on Special: When this character casts their Special Skill, they give a Hunter’s Mark on a random enemy. The target receives 150 damage over 3 turns. If a target already has this effect, the duration will be refreshed and the damage will be increased by 150, up to 1500 damage in total."
         ],
         "family": "plainshunter",
-        "image": "https://i.imgur.com/fbtStrK.jpg",
         "costume_id": 0,
         "originalIndex": 752,
         "lb1": {
@@ -49378,6 +49378,7 @@ window.allHeroes =
         "source": "Legends Summon - Hero of the Month",
         "Release date": "2017-06-01",
         "specialId": "crush_of_hel",
+        "heroId": "dark_god_hel",
         "star": 5,
         "power": 765,
         "attack": 745,
@@ -49391,7 +49392,6 @@ window.allHeroes =
         ],
         "passives": [],
         "family": 2017,
-        "image": "https://i.imgur.com/5oaRVxv.jpg",
         "costume_id": 0,
         "originalIndex": 753,
         "lb1": {
@@ -49447,6 +49447,7 @@ window.allHeroes =
         "source": "Legends Summon - Hero of the Month",
         "Release date": "2022-11-28",
         "specialId": "crush_of_hel",
+        "heroId": "dark_god_hel_costume_omen",
         "star": 5,
         "power": 971,
         "attack": 953,
@@ -49462,7 +49463,6 @@ window.allHeroes =
             "Dispel on Special Skill: When this character casts their Special Skill, they dispel the newest status effect buff from all enemies."
         ],
         "family": 2017,
-        "image": "https://i.imgur.com/8SUbwUY.jpg",
         "costume_id": 1,
         "originalIndex": 754,
         "lb1": {
@@ -49518,6 +49518,7 @@ window.allHeroes =
         "source": "S7 - Treasures of Flame and Frost",
         "Release date": "2025-02-23",
         "specialId": "dwarven_kings_levy",
+        "heroId": "tales2_hreidmarr",
         "star": 5,
         "power": 1180,
         "attack": 1157,
@@ -49536,7 +49537,6 @@ window.allHeroes =
             " * The Burn damage is scaled by the amount of charge in the Core. All charge is exhausted when the Core is activated."
         ],
         "family": "nidavellir",
-        "image": "https://i.imgur.com/UInCnGF.jpg",
         "costume_id": 0,
         "originalIndex": 755,
         "lb1": {
@@ -49590,6 +49590,7 @@ window.allHeroes =
         "source": "S4 - Wilderness",
         "Release date": "2022-03-24",
         "specialId": "pet_larva",
+        "heroId": "s4_hulda",
         "star": 5,
         "power": 816,
         "attack": 758,
@@ -49604,7 +49605,6 @@ window.allHeroes =
             "Increase Buff Duration: Duration of the first 3 buffs this character receives from Special Skill is increased by 1 turn."
         ],
         "family": "underwild",
-        "image": "https://i.imgur.com/J9OOPtS.jpg",
         "costume_id": 0,
         "originalIndex": 756,
         "lb1": {
@@ -49654,6 +49654,7 @@ window.allHeroes =
         "source": "S4 - Wilderness",
         "Release date": "2024-03-28",
         "specialId": "pet_larva",
+        "heroId": "s4_hulda_costume_nurse",
         "star": 5,
         "power": 1034,
         "attack": 982,
@@ -49669,7 +49670,6 @@ window.allHeroes =
             "Health Boost on Special Skill: When this characters casts their Special Skill, they boost the health of all their allies by 10%."
         ],
         "family": "underwild",
-        "image": "https://i.imgur.com/sPMKsgr.jpg",
         "costume_id": 1,
         "originalIndex": 757,
         "lb1": {
@@ -49720,6 +49720,7 @@ window.allHeroes =
         "source": "Mystery - Shadow Summon",
         "Release date": "2024-06-04",
         "specialId": "merciless_execution",
+        "heroId": "shadow_hunter",
         "star": 5,
         "power": 1134,
         "attack": 1184,
@@ -49736,7 +49737,6 @@ window.allHeroes =
             "Marked by the Old Ones: All damage is reduced by 5% per 10 Insanity for this character up to a maximum reduction of 50%."
         ],
         "family": "cultist",
-        "image": "https://i.imgur.com/4a7tvJs.jpg",
         "costume_id": 0,
         "originalIndex": 758,
         "lb1": {
@@ -49795,6 +49795,7 @@ window.allHeroes =
         "source": "Monster Island Summon",
         "Release date": "2023-05-26",
         "specialId": "firestone_daggers",
+        "heroId": "monster_hunter_hurricane",
         "star": 5,
         "power": 895,
         "attack": 900,
@@ -49811,7 +49812,6 @@ window.allHeroes =
             "Damage over time on special: When this character casts their Special Skill, they give a Hunter's Mark on a random enemy. The target receives 150 damage over 3 turns. If a target already has this effect, the duration will be refreshed and the damage will be increased by 150, up to 1500 damage in total."
         ],
         "family": "junglehunter",
-        "image": "https://i.imgur.com/ts6r2iS.jpg",
         "costume_id": 0,
         "originalIndex": 759,
         "lb1": {
@@ -49873,6 +49873,7 @@ window.allHeroes =
         "source": "Wilderness Summon",
         "Release date": "2025-07-18",
         "specialId": "feline_constellation",
+        "heroId": "wild_cat_imagus",
         "star": 5,
         "power": 1221,
         "attack": 1227,
@@ -49896,7 +49897,6 @@ window.allHeroes =
             " * - Growth and Wither effects."
         ],
         "family": "wildcat",
-        "image": "https://imgur.com/JT91nLv.jpg",
         "costume_id": 0,
         "originalIndex": 760,
         "lb1": {
@@ -49940,6 +49940,7 @@ window.allHeroes =
         "source": "Challenge Festival I",
         "Release date": "2019-02-14",
         "specialId": "sideswipe",
+        "heroId": "wonderland_jabberwocky",
         "star": 5,
         "power": 780,
         "attack": 743,
@@ -49951,7 +49952,6 @@ window.allHeroes =
         ],
         "passives": [],
         "family": "wonderland",
-        "image": "https://i.imgur.com/ODUCn9s.jpg",
         "costume_id": 0,
         "originalIndex": 761,
         "lb1": {
@@ -50000,6 +50000,7 @@ window.allHeroes =
         "source": "Challenge Festival I",
         "Release date": "2021-12-15",
         "specialId": "sideswipe",
+        "heroId": "wonderland_jabberwocky_costume_moth",
         "star": 5,
         "power": 977,
         "attack": 956,
@@ -50013,7 +50014,6 @@ window.allHeroes =
             "Mindless Attack On Special Skill: On Special Skill cast, 50% chance to inflict Mindless Attack on a random enemy for 3 turns."
         ],
         "family": "wonderland",
-        "image": "https://i.imgur.com/Y9oF73p.jpg",
         "costume_id": 1,
         "originalIndex": 762,
         "lb1": {
@@ -50071,6 +50071,7 @@ window.allHeroes =
         "source": "Tower - Magic",
         "Release date": "2023-11-15",
         "specialId": "vapors_of_the_underworld",
+        "heroId": "magic_jett",
         "star": 5,
         "power": 954,
         "attack": 959,
@@ -50090,7 +50091,6 @@ window.allHeroes =
             "Health Recovery on Special: When this character casts their Special Skill, they have a 50% chance to recover 15% health for all allies. If the Special Skill is fully changed, the chance is 100%."
         ],
         "family": "magic",
-        "image": "https://i.imgur.com/bHuMYnz.jpg",
         "costume_id": 0,
         "originalIndex": 763,
         "lb1": {
@@ -50145,6 +50145,7 @@ window.allHeroes =
         "source": "S2 - Atlantis",
         "Release date": "2018-12-01",
         "specialId": "break_strike",
+        "heroId": "s2_cursed_samurai",
         "star": 5,
         "power": 772,
         "attack": 780,
@@ -50157,7 +50158,6 @@ window.allHeroes =
         ],
         "passives": [],
         "family": "sakura",
-        "image": "https://i.imgur.com/OUhEZUJ.jpg",
         "costume_id": 0,
         "originalIndex": 764,
         "lb1": {
@@ -50213,6 +50213,7 @@ window.allHeroes =
         "source": "S2 - Atlantis",
         "Release date": "2021-11-15",
         "specialId": "break_strike",
+        "heroId": "s2_cursed_samurai_costume_beetle",
         "star": 5,
         "power": 942,
         "attack": 950,
@@ -50226,7 +50227,6 @@ window.allHeroes =
         ],
         "passives": [],
         "family": "sakura",
-        "image": "https://i.imgur.com/3Xk7Vld.jpg",
         "costume_id": 1,
         "originalIndex": 765,
         "lb1": {
@@ -50281,6 +50281,7 @@ window.allHeroes =
         "source": "Challenge Festival II",
         "Release date": "2021-02-11",
         "specialId": "total_beatdown",
+        "heroId": "villain_karnov",
         "star": 5,
         "power": 803,
         "attack": 766,
@@ -50292,7 +50293,6 @@ window.allHeroes =
         ],
         "passives": [],
         "family": "villains",
-        "image": "https://i.imgur.com/uCM3DQT.jpg",
         "costume_id": 0,
         "originalIndex": 766,
         "lb1": {
@@ -50343,6 +50343,7 @@ window.allHeroes =
         "source": "Challenge Festival II",
         "Release date": "2025-06-15",
         "specialId": "total_beatdown",
+        "heroId": "villain_karnov_costume_jammies",
         "star": 5,
         "power": 1201,
         "attack": 1285,
@@ -50357,12 +50358,11 @@ window.allHeroes =
             "Curse on Special Skill: When this character casts their Special Skill, all enemies receive 461 Curse damage over 4 turns, starting low and increasing every turn.      "
         ],
         "family": "villains",
-        "image": "https://imgur.com/atHtLfK.jpg",
         "costume_id": 1,
         "originalIndex": 767,
         "lb1": {
-            "power": 1285,
-            "attack": 1386,
+            "power": 1284,
+            "attack": 1383,
             "defense": 1197,
             "health": 2433
         },
@@ -50405,6 +50405,7 @@ window.allHeroes =
         "source": "Challenge - Gargoyle",
         "Release date": "2022-12-29",
         "specialId": "cry_for_absolution",
+        "heroId": "gargoyle_kemeny",
         "star": 5,
         "power": 850,
         "attack": 828,
@@ -50418,7 +50419,6 @@ window.allHeroes =
             "Gargoyle’s Stoneskin: Every time this Gargoyle casts a Special Skill, their Stoneskin hardens. The next 4 times they receive damage, it is dropped to 1. This effect can’t be dispelled."
         ],
         "family": "gargoyle",
-        "image": "https://i.imgur.com/PmkgBzd.jpg",
         "costume_id": 0,
         "originalIndex": 768,
         "lb1": {
@@ -50466,6 +50466,7 @@ window.allHeroes =
         "source": "S5 - Dune",
         "Release date": "2022-06-09",
         "specialId": "scarab_bombardment",
+        "heroId": "s5_khepri",
         "star": 5,
         "power": 860,
         "attack": 801,
@@ -50483,7 +50484,6 @@ window.allHeroes =
             " * All enemies get -24% mana generation for 3 turns."
         ],
         "family": "moon",
-        "image": "https://i.imgur.com/Z6trZDL.jpg",
         "costume_id": 0,
         "originalIndex": 769,
         "lb1": {
@@ -50532,6 +50532,7 @@ window.allHeroes =
         "source": "S5 - Dune",
         "Release date": "2025-02-17",
         "specialId": "scarab_bombardment",
+        "heroId": "s5_khepri_costume_overlord",
         "star": 5,
         "power": 1205,
         "attack": 1218,
@@ -50551,7 +50552,6 @@ window.allHeroes =
             "Resist Sand Damage: This character has innate resistance against sand damage."
         ],
         "family": "moon",
-        "image": "https://i.imgur.com/j3u49nY.jpg",
         "costume_id": 1,
         "originalIndex": 770,
         "lb1": {
@@ -50600,6 +50600,7 @@ window.allHeroes =
         "source": "Legends Summon - Hero of the Month",
         "Release date": "2018-09-01",
         "specialId": "bleeding_edge",
+        "heroId": "dark_god_september",
         "star": 5,
         "power": 768,
         "attack": 739,
@@ -50612,7 +50613,6 @@ window.allHeroes =
         ],
         "passives": [],
         "family": 2018,
-        "image": "https://i.imgur.com/1C4Lajq.jpg",
         "costume_id": 0,
         "originalIndex": 771,
         "lb1": {
@@ -50661,6 +50661,7 @@ window.allHeroes =
         "source": "Legends Summon - Hero of the Month",
         "Release date": "2024-02-09",
         "specialId": "bleeding_edge",
+        "heroId": "dark_god_september_costume_engineer",
         "star": 5,
         "power": 976,
         "attack": 963,
@@ -50675,7 +50676,6 @@ window.allHeroes =
             "Dispel on Special Skill: When this character casts their Special Skill, they dispel the newest status efect buff from all enemies."
         ],
         "family": 2018,
-        "image": "https://i.imgur.com/mLc9HWv.jpg",
         "costume_id": 1,
         "originalIndex": 772,
         "lb1": {
@@ -50721,6 +50721,7 @@ window.allHeroes =
         "source": "S5 - Dune",
         "Release date": "2022-04-21",
         "specialId": "midnight_strike",
+        "heroId": "s5_khonshu",
         "star": 5,
         "power": 858,
         "attack": 863,
@@ -50736,7 +50737,6 @@ window.allHeroes =
             " * All enemies get -24% mana generation for 3 turns."
         ],
         "family": "moon",
-        "image": "https://i.imgur.com/qiCq8Jo.jpg",
         "costume_id": 0,
         "originalIndex": 773,
         "lb1": {
@@ -50782,6 +50782,7 @@ window.allHeroes =
         "source": "S5 - Dune",
         "Release date": "2024-09-07",
         "specialId": "midnight_strike",
+        "heroId": "s5_khonshu_costume_knight",
         "star": 5,
         "power": 1199,
         "attack": 1271,
@@ -50799,7 +50800,6 @@ window.allHeroes =
             "Resist Sand Damage: This character has innate resistance against sand damage."
         ],
         "family": "moon",
-        "image": "https://i.imgur.com/dLlMk1f.jpg",
         "costume_id": 1,
         "originalIndex": 774,
         "lb1": {
@@ -50845,6 +50845,7 @@ window.allHeroes =
         "source": "Monthly Event - Springvale",
         "Release date": "2020-04-06",
         "specialId": "reckless_swing",
+        "heroId": "easter_killhare",
         "star": 5,
         "power": 789,
         "attack": 741,
@@ -50856,7 +50857,6 @@ window.allHeroes =
         ],
         "passives": [],
         "family": "springvale",
-        "image": "https://i.imgur.com/WU18HC0.jpg",
         "costume_id": 0,
         "originalIndex": 775,
         "lb1": {
@@ -50902,6 +50902,7 @@ window.allHeroes =
         "source": "Monthly Event - Springvale",
         "Release date": "2022-03-21",
         "specialId": "reckless_swing",
+        "heroId": "easter_killhare_costume_farmer",
         "star": 5,
         "power": 936,
         "attack": 879,
@@ -50913,7 +50914,6 @@ window.allHeroes =
         ],
         "passives": [],
         "family": "springvale",
-        "image": "https://i.imgur.com/vAkZp36.jpg",
         "costume_id": 1,
         "originalIndex": 776,
         "lb1": {
@@ -50963,6 +50963,7 @@ window.allHeroes =
         "source": "Challenge Festival I",
         "Release date": "2024-04-18",
         "specialId": "stolen_tarts",
+        "heroId": "wonderland_knave_of_hearts",
         "star": 5,
         "power": 1037,
         "attack": 1079,
@@ -50975,7 +50976,6 @@ window.allHeroes =
         ],
         "passives": [],
         "family": "wonderland",
-        "image": "https://i.imgur.com/BQViteC.jpg",
         "costume_id": 0,
         "originalIndex": 777,
         "lb1": {
@@ -51033,6 +51033,7 @@ window.allHeroes =
         "source": "Super Elementals",
         "Release date": "2025-02-17",
         "specialId": "slime_coated_sword",
+        "heroId": "slime_knightus",
         "star": 5,
         "power": 1180,
         "attack": 1242,
@@ -51050,7 +51051,6 @@ window.allHeroes =
             "Slime Minion Split: If this character loses more than 25% of max health at once, they summon a Slime Mega Minion for themselves with 50% HP and 40% attack."
         ],
         "family": "slime",
-        "image": "https://i.imgur.com/b5SLdod.jpg",
         "costume_id": 0,
         "originalIndex": 778,
         "lb1": {
@@ -51102,6 +51102,7 @@ window.allHeroes =
         "source": "Legends Summon - Hero of the Month",
         "Release date": "2019-02-01",
         "specialId": "power_of_ajna",
+        "heroId": "dark_god_kunchen",
         "star": 5,
         "power": 770,
         "attack": 618,
@@ -51117,7 +51118,6 @@ window.allHeroes =
             "Resist Defense Ailments: This character has an innate resistance against status ailments and negative stacks that affect defense. Doesn't apply to status ailments that affect Elemental Defense."
         ],
         "family": 2019,
-        "image": "https://i.imgur.com/4sKh1TW.jpg",
         "costume_id": 0,
         "originalIndex": 779,
         "lb1": {
@@ -51171,6 +51171,7 @@ window.allHeroes =
         "source": "S4 - Wilderness",
         "Release date": "2021-03-25",
         "specialId": "abyssal_incantation",
+        "heroId": "s4_lepiota",
         "star": 5,
         "power": 806,
         "attack": 780,
@@ -51188,7 +51189,6 @@ window.allHeroes =
             "Special Skill Damage Reduction: Received damage from Special Skills is reduced by -20% for this character."
         ],
         "family": "underwild",
-        "image": "https://i.imgur.com/eea7u0v.jpg",
         "costume_id": 0,
         "originalIndex": 780,
         "lb1": {
@@ -51242,6 +51242,7 @@ window.allHeroes =
         "source": "S4 - Wilderness",
         "Release date": "2023-04-27",
         "specialId": "abyssal_incantation",
+        "heroId": "s4_lepiota_costume_undying",
         "star": 5,
         "power": 1018,
         "attack": 982,
@@ -51260,7 +51261,6 @@ window.allHeroes =
             "Health Boost on Special Skill: On Special Skill cast, boosts all allies’ HP by 10%."
         ],
         "family": "underwild",
-        "image": "https://i.imgur.com/MgzgOOM.jpg",
         "costume_id": 1,
         "originalIndex": 781,
         "lb1": {
@@ -51309,6 +51309,7 @@ window.allHeroes =
         "source": "Monthly Event - Kalevala",
         "Release date": "2022-06-20",
         "specialId": "feather_tempest",
+        "heroId": "kalevala_louhi",
         "star": 5,
         "power": 937,
         "attack": 927,
@@ -51323,7 +51324,6 @@ window.allHeroes =
             "Power of Sisu: When this character starts a turn with low health for the first time during a battle, they recover 15% health and receive 15% mana."
         ],
         "family": "kalevala",
-        "image": "https://i.imgur.com/RQWKyOA.jpg",
         "costume_id": 0,
         "originalIndex": 782,
         "lb1": {
@@ -51377,6 +51377,7 @@ window.allHeroes =
         "source": "Monthly Event - Kalevala",
         "Release date": "2025-07-28",
         "specialId": "feather_tempest",
+        "heroId": "kalevala_louhi_costume_mistress",
         "star": 5,
         "power": 1220,
         "attack": 1185,
@@ -51391,14 +51392,13 @@ window.allHeroes =
             "Power of Sisu: When this character starts a turn with low health for the first time during a battle, they recover 15% health and receive 15% mana."
         ],
         "family": "kalevala",
-        "image": "https://imgur.com/bKgarHR.jpg",
         "costume_id": 1,
         "originalIndex": 783,
         "lb1": {
             "power": 1305,
             "attack": 1278,
             "defense": 1331,
-            "health": 2577
+            "health": 2574
         },
         "lb2": {
             "power": 1476,
@@ -51446,6 +51446,7 @@ window.allHeroes =
         "source": "Three Kingdoms Summon",
         "Release date": "2022-03-14",
         "specialId": "disrupting_charge",
+        "heroId": "kingdom_lu_bu",
         "star": 5,
         "power": 835,
         "attack": 788,
@@ -51459,7 +51460,6 @@ window.allHeroes =
         ],
         "passives": [],
         "family": "kingdom",
-        "image": "https://i.imgur.com/pOnV8Et.jpg",
         "costume_id": 0,
         "originalIndex": 784,
         "lb1": {
@@ -51514,6 +51514,7 @@ window.allHeroes =
         "source": "Three Kingdoms Summon",
         "Release date": "2024-12-28",
         "specialId": "disrupting_charge",
+        "heroId": "kingdom_lu_bu_costume_tiger_lord",
         "star": 5,
         "power": 1106,
         "attack": 1063,
@@ -51532,12 +51533,11 @@ window.allHeroes =
             " * Minion attack and abilities can’t be disabled."
         ],
         "family": "kingdom",
-        "image": "https://i.imgur.com/9cuTL09.jpg",
         "costume_id": 1,
         "originalIndex": 785,
         "lb1": {
-            "power": 1182,
-            "attack": 1147,
+            "power": 1181,
+            "attack": 1144,
             "defense": 1182,
             "health": 2322
         },
@@ -51588,6 +51588,7 @@ window.allHeroes =
         "source": "Monthly Event - Morlovia",
         "Release date": "2023-09-25",
         "specialId": "might_of_excalibroom",
+        "heroId": "halloween_lucinda",
         "star": 5,
         "power": 933,
         "attack": 865,
@@ -51603,7 +51604,6 @@ window.allHeroes =
             "Steal Buff: When this character casts their Special Skill, they have a 50% chance to steal the newest dispellable buff from a random enemy that has buffs. If no enemy has buffs, deals 70% damage to all enemies."
         ],
         "family": "morlovia",
-        "image": "https://i.imgur.com/tBoxHA4.jpg",
         "costume_id": 0,
         "originalIndex": 786,
         "lb1": {
@@ -51658,6 +51658,7 @@ window.allHeroes =
         "source": "Alliance - Knights Clash",
         "Release date": "2021-10-13",
         "specialId": "fullmetal_pelt",
+        "heroId": "castle_wolf_ludwig",
         "star": 5,
         "power": 816,
         "attack": 723,
@@ -51670,7 +51671,6 @@ window.allHeroes =
         ],
         "passives": [],
         "family": "wolf",
-        "image": "https://i.imgur.com/VV20w6e.jpg",
         "costume_id": 0,
         "originalIndex": 787,
         "lb1": {
@@ -51714,6 +51714,7 @@ window.allHeroes =
         "source": "Challenge Festival II",
         "Release date": "2023-09-04",
         "specialId": "lunar_blessing",
+        "heroId": "mighty_pet_luna",
         "star": 5,
         "power": 938,
         "attack": 914,
@@ -51730,7 +51731,6 @@ window.allHeroes =
             "Wrath of pets: When a Fiend is summoned to any enemy, this character deals 85% damage to all enemies. This effect can activate only once per turn."
         ],
         "family": "pets",
-        "image": "https://i.imgur.com/jt6SH4f.jpg",
         "costume_id": 0,
         "originalIndex": 788,
         "lb1": {
@@ -51783,6 +51783,7 @@ window.allHeroes =
         "source": "Challenge - Secrets of the Opera",
         "Release date": "2023-11-30",
         "specialId": "summon_ballerina_fiend",
+        "heroId": "ballerina_madame_giry",
         "star": 5,
         "power": 957,
         "attack": 927,
@@ -51800,7 +51801,6 @@ window.allHeroes =
             "Resist Attack Ailments: This character has innate resistance against status ailments that affect attack."
         ],
         "family": "opera",
-        "image": "https://i.imgur.com/jLIIusc.jpg",
         "costume_id": 0,
         "originalIndex": 789,
         "lb1": {
@@ -51855,6 +51855,7 @@ window.allHeroes =
         "source": "Goblin Summon",
         "Release date": "2025-02-14",
         "specialId": "join_in_joyful_song",
+        "heroId": "garrison_maisie",
         "star": 5,
         "power": 1163,
         "attack": 1124,
@@ -51871,7 +51872,6 @@ window.allHeroes =
             "Guard Rally: Every 4 turns, removes all Wither effects from all allies."
         ],
         "family": "garrisonguard",
-        "image": "https://i.imgur.com/aJDM9qb.jpg",
         "costume_id": 0,
         "originalIndex": 790,
         "lb1": {
@@ -51927,6 +51927,7 @@ window.allHeroes =
         "source": "Legends Summon - Hero of the Month",
         "Release date": "2021-03-01",
         "specialId": "grimoire_skim",
+        "heroId": "dark_god_malicna",
         "star": 5,
         "power": 788,
         "attack": 766,
@@ -51951,7 +51952,6 @@ window.allHeroes =
             "Status Effect on Mana Reduction: This character gets +94% defense against Holy for 3 turns when their mana is reduced."
         ],
         "family": 2021,
-        "image": "https://i.imgur.com/ZMAYhxa.jpg",
         "costume_id": 0,
         "originalIndex": 791,
         "lb1": {
@@ -52009,6 +52009,7 @@ window.allHeroes =
         "source": "Challenge Festival I",
         "Release date": "2017-09-07",
         "specialId": "zombie_curse",
+        "heroId": "pirate_marie_therese",
         "star": 5,
         "power": 780,
         "attack": 774,
@@ -52027,7 +52028,6 @@ window.allHeroes =
         ],
         "passives": [],
         "family": "corellia",
-        "image": "https://i.imgur.com/sKXoFnG.jpg",
         "costume_id": 0,
         "originalIndex": 792,
         "lb1": {
@@ -52080,6 +52080,7 @@ window.allHeroes =
         "source": "Challenge Festival I",
         "Release date": "2022-02-17",
         "specialId": "zombie_curse",
+        "heroId": "pirate_marie_therese_costume_priestess",
         "star": 5,
         "power": 977,
         "attack": 956,
@@ -52099,7 +52100,6 @@ window.allHeroes =
             "Poison on Special Skill: When this character casts their Special Skill, all enemies receive 504 Poison damage over 4 turns."
         ],
         "family": "corellia",
-        "image": "https://i.imgur.com/cwv2NUd.jpg",
         "costume_id": 1,
         "originalIndex": 793,
         "lb1": {
@@ -52150,6 +52150,7 @@ window.allHeroes =
         "source": "Wilderness Summon",
         "Release date": "2025-03-26",
         "specialId": "here_catch",
+        "heroId": "faun_maud",
         "star": 5,
         "power": 1171,
         "attack": 1223,
@@ -52166,7 +52167,6 @@ window.allHeroes =
             "Resist Attack Reduction: This character has innate resistance against status ailments, stacks and Wither effects that affect attack."
         ],
         "family": "woodlandfaun",
-        "image": "https://imgur.com/eOKRXit.jpg",
         "costume_id": 0,
         "originalIndex": 794,
         "lb1": {
@@ -52216,6 +52216,7 @@ window.allHeroes =
         "source": "S6 - Mysteries of the Deep",
         "Release date": "2024-01-17",
         "specialId": "shatter_psyche",
+        "heroId": "tales1_medea",
         "star": 5,
         "power": 999,
         "attack": 999,
@@ -52239,7 +52240,6 @@ window.allHeroes =
             "Resist Insanity: This character has innate resistance against Insanity."
         ],
         "family": "nightmaresofatlantis",
-        "image": "https://i.imgur.com/RtOVjbp.jpg",
         "costume_id": 0,
         "originalIndex": 795,
         "lb1": {
@@ -52289,6 +52289,7 @@ window.allHeroes =
         "source": "S6 - Mysteries of the Deep",
         "Release date": "2024-10-19",
         "specialId": "shatter_psyche",
+        "heroId": "tales1_medea_costume_goddess",
         "star": 5,
         "power": 1244,
         "attack": 1312,
@@ -52312,7 +52313,6 @@ window.allHeroes =
             "Resist Insanity: This character has innate resistance against Insanity."
         ],
         "family": "nightmaresofatlantis",
-        "image": "https://i.imgur.com/CadXjHa.jpg",
         "costume_id": 1,
         "originalIndex": 796,
         "lb1": {
@@ -52364,6 +52364,7 @@ window.allHeroes =
         "source": "Mystery - Shadow Summon",
         "Release date": "2024-05-01",
         "specialId": "grim_awakening",
+        "heroId": "shadow_melancholia",
         "star": 5,
         "power": 1129,
         "attack": 1093,
@@ -52379,7 +52380,6 @@ window.allHeroes =
             "Marked by the Old Ones: All damage is reduced by 5% per 10 Insanity for this character up to a maximum reduction of 50%."
         ],
         "family": "cultist",
-        "image": "https://i.imgur.com/okcHBcF.jpg",
         "costume_id": 0,
         "originalIndex": 797,
         "lb1": {
@@ -52437,6 +52437,7 @@ window.allHeroes =
         "source": "S2 - Atlantis",
         "Release date": "2018-02-01",
         "specialId": "black_tide",
+        "heroId": "s2_hammerhead_hulk",
         "star": 5,
         "power": 772,
         "attack": 741,
@@ -52450,7 +52451,6 @@ window.allHeroes =
         ],
         "passives": [],
         "family": "lagoon",
-        "image": "https://i.imgur.com/f9fc9eh.jpg",
         "costume_id": 0,
         "originalIndex": 798,
         "lb1": {
@@ -52506,6 +52506,7 @@ window.allHeroes =
         "source": "S2 - Atlantis",
         "Release date": "2023-02-06",
         "specialId": "black_tide",
+        "heroId": "s2_hammerhead_hulk_costume_emerald",
         "star": 5,
         "power": 944,
         "attack": 938,
@@ -52519,7 +52520,6 @@ window.allHeroes =
         ],
         "passives": [],
         "family": "lagoon",
-        "image": "https://i.imgur.com/EOk0EO8.jpg",
         "costume_id": 1,
         "originalIndex": 799,
         "lb1": {
@@ -52580,6 +52580,7 @@ window.allHeroes =
         "source": "Legends Summon - Hero of the Month",
         "Release date": "2022-11-01",
         "specialId": "scythe_of_sorceries",
+        "heroId": "dark_god_morax",
         "star": 5,
         "power": 812,
         "attack": 768,
@@ -52596,7 +52597,6 @@ window.allHeroes =
             "Mana on Health Boosting Special Skill: This character gains 5% mana each time an enemy casts a Special Skill that directly boosts health."
         ],
         "family": 2022,
-        "image": "https://i.imgur.com/9tJznmy.jpg",
         "costume_id": 0,
         "originalIndex": 800,
         "lb1": {
@@ -52652,6 +52652,7 @@ window.allHeroes =
         "source": "Alliance - Moths",
         "Release date": "2025-01-23",
         "specialId": "hungering_grave",
+        "heroId": "moth_mortewitch",
         "star": 5,
         "power": 1178,
         "attack": 1198,
@@ -52669,7 +52670,6 @@ window.allHeroes =
             "Dodge Special Damage: This character has a 15% chance to dodge Special Skills that deal damage."
         ],
         "family": "moth",
-        "image": "https://i.imgur.com/jvJDkdc.jpg",
         "costume_id": 0,
         "originalIndex": 801,
         "lb1": {
@@ -52724,6 +52724,7 @@ window.allHeroes =
         "source": "Monthly Event - Beach Party",
         "Release date": "2023-06-12",
         "specialId": "tidal_waves",
+        "heroId": "beachparty_mortimer",
         "star": 5,
         "power": 873,
         "attack": 846,
@@ -52739,7 +52740,6 @@ window.allHeroes =
             "Resist Water Damage: This character has innate resistance against Water Damage."
         ],
         "family": "beachparty",
-        "image": "https://i.imgur.com/J2WmnG0.jpg",
         "costume_id": 0,
         "originalIndex": 802,
         "lb1": {
@@ -52789,6 +52789,7 @@ window.allHeroes =
         "source": "Legends Summon - Extra Draw",
         "Release date": "2020-05-01",
         "specialId": "absordium_deflectors",
+        "heroId": "hidden_dark_god_myztero",
         "star": 5,
         "power": 799,
         "attack": 778,
@@ -52802,7 +52803,6 @@ window.allHeroes =
             "Memorize Status Ailments: This hero has an innate ability to memorize status ailments. The latest 5 status ailments that are cast on the Hero will stay memorized until the Special Skill is cast."
         ],
         "family": "mystery",
-        "image": "https://i.imgur.com/J37iEs6.jpg",
         "costume_id": 0,
         "originalIndex": 803,
         "lb1": {
@@ -52851,6 +52851,7 @@ window.allHeroes =
         "source": "Challenge Festival II",
         "Release date": "2022-08-11",
         "specialId": "song_of_calamity",
+        "heroId": "bard_narcisa",
         "star": 5,
         "power": 849,
         "attack": 844,
@@ -52865,7 +52866,6 @@ window.allHeroes =
             "Mana increase reduction: Reduces the amount of mana increased by Special Skill by -80%. The effect applies to all enemies in the battle."
         ],
         "family": "bard",
-        "image": "https://i.imgur.com/ZW5xxnu.jpg",
         "costume_id": 0,
         "originalIndex": 804,
         "lb1": {
@@ -52919,6 +52919,7 @@ window.allHeroes =
         "source": "Tower - Styx",
         "Release date": "2022-06-01",
         "specialId": "night_falls",
+        "heroId": "styx_nyx",
         "star": 5,
         "power": 854,
         "attack": 819,
@@ -52942,7 +52943,6 @@ window.allHeroes =
             "Resist Defense Ailments: This character has innate resistance against status ailments that affect defense. Applies also to status ailments that affect elemental defense."
         ],
         "family": "styx",
-        "image": "https://i.imgur.com/aQwzAEQ.jpg",
         "costume_id": 0,
         "originalIndex": 805,
         "lb1": {
@@ -52994,6 +52994,7 @@ window.allHeroes =
         "source": "S1 - Classic",
         "Release date": "2017-03-01",
         "specialId": "cleave_counter",
+        "heroId": "underworld_champion",
         "star": 5,
         "power": 756,
         "attack": 762,
@@ -53005,7 +53006,6 @@ window.allHeroes =
         ],
         "passives": [],
         "family": "classic",
-        "image": "https://i.imgur.com/0JU9Ii1.jpg",
         "costume_id": 0,
         "originalIndex": 806,
         "lb1": {
@@ -53052,6 +53052,7 @@ window.allHeroes =
         "source": "Costume Quest",
         "Release date": "2021-01-18",
         "specialId": "cleave_counter",
+        "heroId": "underworld_champion_costume_champion",
         "star": 5,
         "power": 851,
         "attack": 835,
@@ -53063,7 +53064,6 @@ window.allHeroes =
         ],
         "passives": [],
         "family": "classic",
-        "image": "https://i.imgur.com/SB2N0Vj.jpg",
         "costume_id": 1,
         "originalIndex": 807,
         "lb1": {
@@ -53112,6 +53112,7 @@ window.allHeroes =
         "source": "Costume Quest",
         "Release date": "2022-09-05",
         "specialId": "cleave_counter",
+        "heroId": "underworld_champion_costume_vampire",
         "star": 5,
         "power": 966,
         "attack": 930,
@@ -53124,7 +53125,6 @@ window.allHeroes =
         ],
         "passives": [],
         "family": "classic",
-        "image": "https://i.imgur.com/jA79vt4.jpg",
         "costume_id": 2,
         "originalIndex": 808,
         "lb1": {
@@ -53173,6 +53173,7 @@ window.allHeroes =
         "source": "Costume Quest",
         "Release date": "2023-11-27",
         "specialId": "cleave_counter",
+        "heroId": "underworld_champion_costume_cute",
         "star": 5,
         "power": 1132,
         "attack": 1151,
@@ -53187,14 +53188,13 @@ window.allHeroes =
             "Toon: 75% extra chance to resist all status ailments, mana reductions and buff dispels."
         ],
         "family": "classic",
-        "image": "https://i.imgur.com/YICnCq4.jpg",
         "costume_id": 3,
         "originalIndex": 809,
         "lb1": {
-            "power": 1211,
+            "power": 1210,
             "attack": 1241,
             "defense": 1134,
-            "health": 2388
+            "health": 2385
         },
         "lb2": {
             "power": 1367,
@@ -53241,6 +53241,7 @@ window.allHeroes =
         "source": "Costume Quest",
         "Release date": "2025-01-14",
         "specialId": "cleave_counter",
+        "heroId": "underworld_champion_costume_glass",
         "star": 5,
         "power": 1237,
         "attack": 1303,
@@ -53255,13 +53256,12 @@ window.allHeroes =
             "Glass: 60% extra chance to reflect status ailments back to the attacker."
         ],
         "family": "classic",
-        "image": "https://i.imgur.com/pN1Axne.jpg",
         "costume_id": 4,
         "originalIndex": 810,
         "lb1": {
-            "power": 1324,
+            "power": 1323,
             "attack": 1405,
-            "defense": 1274,
+            "defense": 1271,
             "health": 2508
         },
         "lb2": {
@@ -53311,6 +53311,7 @@ window.allHeroes =
         "source": "Challenge - Secrets of the Opera",
         "Release date": "2024-03-21",
         "specialId": "dance_of_the_raven",
+        "heroId": "ballerina_odile",
         "star": 5,
         "power": 1023,
         "attack": 1065,
@@ -53329,7 +53330,6 @@ window.allHeroes =
             "Heal when status ailment expires or is cleared: This character receives 5% health each time a status ailment expires or is cleansed, removed or reallocated from them. This effect can activate only once per turn."
         ],
         "family": "opera",
-        "image": "https://i.imgur.com/4D2V5En.jpg",
         "costume_id": 0,
         "originalIndex": 811,
         "lb1": {
@@ -53386,6 +53386,7 @@ window.allHeroes =
         "source": "Tower - Owls",
         "Release date": "2023-12-20",
         "specialId": "poleaxe_of_the_law",
+        "heroId": "owl_ommodus",
         "star": 5,
         "power": 984,
         "attack": 986,
@@ -53401,7 +53402,6 @@ window.allHeroes =
             "Reduce Mana Gain from Special Skills: Reduces the amount of mana increased by Special Skill by -80%. The effect applies to all enemies in the battle."
         ],
         "family": "owl",
-        "image": "https://i.imgur.com/QzvMG5C.jpg",
         "costume_id": 0,
         "originalIndex": 812,
         "lb1": {
@@ -53460,6 +53460,7 @@ window.allHeroes =
         "source": "Tower - Ninjas",
         "Release date": "2020-10-13",
         "specialId": "crippling_claws",
+        "heroId": "ninja_onyx",
         "star": 5,
         "power": 798,
         "attack": 803,
@@ -53481,7 +53482,6 @@ window.allHeroes =
         ],
         "passives": [],
         "family": "ninja",
-        "image": "https://i.imgur.com/r2WPn3d.jpg",
         "costume_id": 0,
         "originalIndex": 813,
         "lb1": {
@@ -53536,6 +53536,7 @@ window.allHeroes =
         "source": "Monthly Event - Winter",
         "Release date": "2022-12-01",
         "specialId": "putrid_perfume",
+        "heroId": "christmas_peppermint",
         "star": 5,
         "power": 851,
         "attack": 824,
@@ -53548,7 +53549,6 @@ window.allHeroes =
         ],
         "passives": [],
         "family": "christmas",
-        "image": "https://i.imgur.com/egM1t1a.jpg",
         "costume_id": 0,
         "originalIndex": 814,
         "lb1": {
@@ -53609,6 +53609,7 @@ window.allHeroes =
         "source": "Challenge - Secrets of the Opera",
         "Release date": "2023-06-20",
         "specialId": "ballad_of_obsession",
+        "heroId": "ballerina_phantom_of_the_opera",
         "star": 5,
         "power": 955,
         "attack": 945,
@@ -53628,7 +53629,6 @@ window.allHeroes =
             "Resist Attack Ailments: This character has innate resistance against status ailments that affect attack."
         ],
         "family": "opera",
-        "image": "https://i.imgur.com/7nuGOll.jpg",
         "costume_id": 0,
         "originalIndex": 815,
         "lb1": {
@@ -53681,6 +53681,7 @@ window.allHeroes =
         "source": "S6 - Mysteries of the Deep",
         "Release date": "2023-06-07",
         "specialId": "rally_of_the_deep",
+        "heroId": "tales1_phorcys",
         "star": 5,
         "power": 906,
         "attack": 922,
@@ -53705,7 +53706,6 @@ window.allHeroes =
             "Resist Insanity: This character has innate resistance against Insanity."
         ],
         "family": "defendersofatlantis",
-        "image": "https://i.imgur.com/6o3KSeL.jpg",
         "costume_id": 0,
         "originalIndex": 816,
         "lb1": {
@@ -53757,6 +53757,7 @@ window.allHeroes =
         "source": "S6 - Mysteries of the Deep",
         "Release date": "2024-05-23",
         "specialId": "rally_of_the_deep",
+        "heroId": "tales1_phorcys_costume_warrior_god",
         "star": 5,
         "power": 1124,
         "attack": 1201,
@@ -53781,7 +53782,6 @@ window.allHeroes =
             "Resist Insanity: This character has innate resistance against Insanity."
         ],
         "family": "defendersofatlantis",
-        "image": "https://i.imgur.com/FXIdE4S.jpg",
         "costume_id": 1,
         "originalIndex": 817,
         "lb1": {
@@ -53831,6 +53831,7 @@ window.allHeroes =
         "source": "Monthly Event - Love Season",
         "Release date": "2023-02-14",
         "specialId": "potions_of_covetous_desire",
+        "heroId": "valentines_phthonus",
         "star": 5,
         "power": 861,
         "attack": 824,
@@ -53845,7 +53846,6 @@ window.allHeroes =
             "Resist Special Skill Blocking: This character has innate resistance against status ailments that block Special Skills."
         ],
         "family": "cupid",
-        "image": "https://i.imgur.com/OE7cx2p.jpg",
         "costume_id": 0,
         "originalIndex": 818,
         "lb1": {
@@ -53896,6 +53896,7 @@ window.allHeroes =
         "source": "Tower - Ninjas",
         "Release date": "2021-11-10",
         "specialId": "incite_ki",
+        "heroId": "ninja_quartz",
         "star": 5,
         "power": 818,
         "attack": 751,
@@ -53918,7 +53919,6 @@ window.allHeroes =
         ],
         "passives": [],
         "family": "ninja",
-        "image": "https://i.imgur.com/DHtXxDR.jpg",
         "costume_id": 0,
         "originalIndex": 819,
         "lb1": {
@@ -53968,6 +53968,7 @@ window.allHeroes =
         "source": "S1 - Classic",
         "Release date": "2017-03-01",
         "specialId": "thunderstrike",
+        "heroId": "cultist_inventor",
         "star": 5,
         "power": 757,
         "attack": 747,
@@ -53978,7 +53979,6 @@ window.allHeroes =
         ],
         "passives": [],
         "family": "classic",
-        "image": "https://i.imgur.com/250UPh4.jpg",
         "costume_id": 0,
         "originalIndex": 820,
         "lb1": {
@@ -54020,6 +54020,7 @@ window.allHeroes =
         "source": "Costume Quest",
         "Release date": "2020-01-01",
         "specialId": "thunderstrike",
+        "heroId": "cultist_inventor_costume_steam",
         "star": 5,
         "power": 852,
         "attack": 865,
@@ -54031,7 +54032,6 @@ window.allHeroes =
         ],
         "passives": [],
         "family": "classic",
-        "image": "https://i.imgur.com/TBwlwOC.jpg",
         "costume_id": 1,
         "originalIndex": 821,
         "lb1": {
@@ -54078,6 +54078,7 @@ window.allHeroes =
         "source": "Costume Quest",
         "Release date": "2022-12-26",
         "specialId": "thunderstrike",
+        "heroId": "cultist_inventor_costume_love_doctor",
         "star": 5,
         "power": 969,
         "attack": 971,
@@ -54089,7 +54090,6 @@ window.allHeroes =
         ],
         "passives": [],
         "family": "classic",
-        "image": "https://i.imgur.com/BmY4xiU.jpg",
         "costume_id": 2,
         "originalIndex": 822,
         "lb1": {
@@ -54099,9 +54099,9 @@ window.allHeroes =
             "health": 2093
         },
         "lb2": {
-            "power": 1166,
+            "power": 1165,
             "attack": 1198,
-            "defense": 1025,
+            "defense": 1022,
             "health": 2394
         },
         "cn_skill_info": [
@@ -54135,6 +54135,7 @@ window.allHeroes =
         "source": "Costume Quest",
         "Release date": "2024-08-11",
         "specialId": "thunderstrike",
+        "heroId": "cultist_inventor_costume_cute",
         "star": 5,
         "power": 1135,
         "attack": 1069,
@@ -54148,7 +54149,6 @@ window.allHeroes =
             "Toon: 75% extra chance to resist all status ailments, mana reductions and buff dispels."
         ],
         "family": "classic",
-        "image": "https://i.imgur.com/ff1uvHj.jpg",
         "costume_id": 3,
         "originalIndex": 823,
         "lb1": {
@@ -54197,6 +54197,7 @@ window.allHeroes =
         "source": "Legends Summon",
         "Release date": "2024-04-05",
         "specialId": "three_little_rams",
+        "heroId": "champions_ramona",
         "star": 5,
         "power": 1026,
         "attack": 1021,
@@ -54214,7 +54215,6 @@ window.allHeroes =
             "Mana on Fiend Summon: When a Fiend is summoned to any enemy, this character gains 5% mana. This effect can activate only once per turn."
         ],
         "family": "champions",
-        "image": "https://i.imgur.com/ZBNdURG.jpg",
         "costume_id": 0,
         "originalIndex": 824,
         "lb1": {
@@ -54262,6 +54262,7 @@ window.allHeroes =
         "source": "Alliance - Knights Clash",
         "Release date": "2022-01-05",
         "specialId": "plague_blade",
+        "heroId": "castle_raven_rayne",
         "star": 5,
         "power": 822,
         "attack": 815,
@@ -54273,7 +54274,6 @@ window.allHeroes =
         ],
         "passives": [],
         "family": "raven",
-        "image": "https://i.imgur.com/wMh0j5F.jpg",
         "costume_id": 0,
         "originalIndex": 825,
         "lb1": {
@@ -54320,6 +54320,7 @@ window.allHeroes =
         "source": "Alliance - Musketeers",
         "Release date": "2023-09-20",
         "specialId": "dishonorable_ploy",
+        "heroId": "musketeer_rochefort",
         "star": 5,
         "power": 928,
         "attack": 883,
@@ -54333,7 +54334,6 @@ window.allHeroes =
             "Damage on Special Skill and Cover Damage: When this character receives damage from Special Skills or in place of a character in Cover, there’s a 60% chance to deal 20% of the received damage to all enemies."
         ],
         "family": "musketeer",
-        "image": "https://i.imgur.com/cnURK1S.jpg",
         "costume_id": 0,
         "originalIndex": 826,
         "lb1": {
@@ -54380,6 +54380,7 @@ window.allHeroes =
         "source": "S3 - Valhalla",
         "Release date": "2021-07-04",
         "specialId": "tricksters_transformation",
+        "heroId": "s3_loki_fish",
         "star": 5,
         "power": 788,
         "attack": 745,
@@ -54393,7 +54394,6 @@ window.allHeroes =
         ],
         "passives": [],
         "family": "niflheim",
-        "image": "https://i.imgur.com/fVTl018.jpg",
         "costume_id": 0,
         "originalIndex": 827,
         "lb1": {
@@ -54445,6 +54445,7 @@ window.allHeroes =
         "source": "S3 - Valhalla",
         "Release date": "2023-07-31",
         "specialId": "tricksters_transformation",
+        "heroId": "s3_loki_fish_costume_dapper",
         "star": 5,
         "power": 987,
         "attack": 953,
@@ -54458,14 +54459,13 @@ window.allHeroes =
         ],
         "passives": [],
         "family": "niflheim",
-        "image": "https://i.imgur.com/mbPRCrB.jpg",
         "costume_id": 1,
         "originalIndex": 828,
         "lb1": {
             "power": 1054,
             "attack": 1027,
             "defense": 1090,
-            "health": 1894
+            "health": 1891
         },
         "lb2": {
             "power": 1189,
@@ -54510,6 +54510,7 @@ window.allHeroes =
         "source": "Challenge Festival I",
         "Release date": "2017-09-07",
         "specialId": "curse_of_sargasso",
+        "heroId": "pirate_dread_captain",
         "star": 5,
         "power": 765,
         "attack": 729,
@@ -54521,7 +54522,6 @@ window.allHeroes =
         ],
         "passives": [],
         "family": "corellia",
-        "image": "https://i.imgur.com/6s6FE8i.jpg",
         "costume_id": 0,
         "originalIndex": 829,
         "lb1": {
@@ -54570,6 +54570,7 @@ window.allHeroes =
         "source": "Challenge Festival I",
         "Release date": "2023-12-28",
         "specialId": "curse_of_sargasso",
+        "heroId": "pirate_dread_captain_costume_rotten",
         "star": 5,
         "power": 957,
         "attack": 925,
@@ -54584,7 +54585,6 @@ window.allHeroes =
             "Poison on Special Skill: When this character casts their Special Skill, all enemies receive 476 Poison damage over 4 turns."
         ],
         "family": "corellia",
-        "image": "https://i.imgur.com/lR0HaHa.jpg",
         "costume_id": 1,
         "originalIndex": 830,
         "lb1": {
@@ -54633,6 +54633,7 @@ window.allHeroes =
         "source": "S1 - Classic",
         "Release date": "2017-03-01",
         "specialId": "deathstrike",
+        "heroId": "cultist_sorceress",
         "star": 5,
         "power": 757,
         "attack": 694,
@@ -54644,7 +54645,6 @@ window.allHeroes =
         ],
         "passives": [],
         "family": "classic",
-        "image": "https://i.imgur.com/YBEHGb0.jpg",
         "costume_id": 0,
         "originalIndex": 831,
         "lb1": {
@@ -54690,6 +54690,7 @@ window.allHeroes =
         "source": "Costume Quest",
         "Release date": "2020-05-18",
         "specialId": "deathstrike",
+        "heroId": "cultist_sorceress_costume_shaman",
         "star": 5,
         "power": 853,
         "attack": 737,
@@ -54700,7 +54701,6 @@ window.allHeroes =
         ],
         "passives": [],
         "family": "classic",
-        "image": "https://i.imgur.com/gwzMUaT.jpg",
         "costume_id": 1,
         "originalIndex": 832,
         "lb1": {
@@ -54743,6 +54743,7 @@ window.allHeroes =
         "source": "Costume Quest",
         "Release date": "2023-06-12",
         "specialId": "deathstrike",
+        "heroId": "cultist_sorceress_costume_snake",
         "star": 5,
         "power": 971,
         "attack": 900,
@@ -54755,19 +54756,18 @@ window.allHeroes =
         ],
         "passives": [],
         "family": "classic",
-        "image": "https://i.imgur.com/I8cTetD.jpg",
         "costume_id": 2,
         "originalIndex": 833,
         "lb1": {
             "power": 1036,
             "attack": 970,
             "defense": 932,
-            "health": 2224
+            "health": 2221
         },
         "lb2": {
-            "power": 1168,
+            "power": 1167,
             "attack": 1110,
-            "defense": 1068,
+            "defense": 1065,
             "health": 2544
         },
         "cn_skill_info": [
@@ -54808,6 +54808,7 @@ window.allHeroes =
         "source": "Costume Quest",
         "Release date": "2023-10-30",
         "specialId": "deathstrike",
+        "heroId": "cultist_sorceress_costume_cute",
         "star": 5,
         "power": 1137,
         "attack": 1091,
@@ -54822,7 +54823,6 @@ window.allHeroes =
             "Toon: 75% extra chance to resist all status ailments, mana reductions and buff dispels."
         ],
         "family": "classic",
-        "image": "https://i.imgur.com/V3r9sPS.jpg",
         "costume_id": 3,
         "originalIndex": 834,
         "lb1": {
@@ -54876,6 +54876,7 @@ window.allHeroes =
         "source": "Costume Quest",
         "Release date": "2024-12-25",
         "specialId": "deathstrike",
+        "heroId": "cultist_sorceress_costume_glass",
         "star": 5,
         "power": 1242,
         "attack": 1235,
@@ -54890,14 +54891,13 @@ window.allHeroes =
             "Glass: 60% extra chance to reflect status ailments back to the attacker."
         ],
         "family": "classic",
-        "image": "https://i.imgur.com/fdUWQiQ.jpg",
         "costume_id": 4,
         "originalIndex": 835,
         "lb1": {
             "power": 1329,
             "attack": 1331,
             "defense": 1309,
-            "health": 2659
+            "health": 2656
         },
         "lb2": {
             "power": 1503,
@@ -54947,6 +54947,7 @@ window.allHeroes =
         "source": "Tower - Ninjas",
         "Release date": "2025-01-02",
         "specialId": "shade_cloak",
+        "heroId": "ninja_satsui",
         "star": 5,
         "power": 1141,
         "attack": 1182,
@@ -54973,7 +54974,6 @@ window.allHeroes =
             "Decreased Minion Health: Enemy Minions inherit -50% less Health when summoned."
         ],
         "family": "ninja",
-        "image": "https://i.imgur.com/xzr9Szx.jpg",
         "costume_id": 0,
         "originalIndex": 836,
         "lb1": {
@@ -55028,6 +55028,7 @@ window.allHeroes =
         "source": "Covenant Summon",
         "Release date": "2024-03-10",
         "specialId": "void_bomb",
+        "heroId": "construct_nocturne",
         "star": 5,
         "power": 1016,
         "attack": 943,
@@ -55043,7 +55044,6 @@ window.allHeroes =
             "Destructive Core: The Construct Core of this character is Destructive Core. The Destructive Core activates each time this character’s Special Skill is cast: * With fully charged Repair Core, boosts the health of all allies by 25%. * The healing is scaled by the amount of charge in the Core. All charge is exchausted when the Core is activated."
         ],
         "family": "construct",
-        "image": "https://i.imgur.com/pX4j62c.jpg",
         "costume_id": 0,
         "originalIndex": 837,
         "lb1": {
@@ -55101,6 +55101,7 @@ window.allHeroes =
         "source": "Challenge Festival II",
         "Release date": "2021-08-05",
         "specialId": "curse_of_the_specter",
+        "heroId": "slayer_senan",
         "star": 5,
         "power": 807,
         "attack": 731,
@@ -55117,7 +55118,6 @@ window.allHeroes =
             "Resist Damage from Status Effects: This charater has innate resistance against incoming damage from status effects."
         ],
         "family": "slayer",
-        "image": "https://i.imgur.com/PYhKsHp.jpg",
         "costume_id": 0,
         "originalIndex": 838,
         "lb1": {
@@ -55176,6 +55176,7 @@ window.allHeroes =
         "source": "Challenge Festival II",
         "Release date": "2025-04-09",
         "specialId": "curse_of_the_specter",
+        "heroId": "slayer_senan_costume_tentacles",
         "star": 5,
         "power": 1207,
         "attack": 1245,
@@ -55193,20 +55194,19 @@ window.allHeroes =
             "Bleed on Special Skill: When this character casts their Special Skill, all enemies receive 544 Bleed damage over 4 turns."
         ],
         "family": "slayer",
-        "image": "https://imgur.com/CNY72vk.jpg",
         "costume_id": 1,
         "originalIndex": 839,
         "lb1": {
-            "power": 1291,
+            "power": 1290,
             "attack": 1340,
             "defense": 1237,
-            "health": 2506
+            "health": 2502
         },
         "lb2": {
             "power": 1458,
             "attack": 1533,
             "defense": 1414,
-            "health": 2867
+            "health": 2864
         },
         "cn_skill_info": [
             {
@@ -55248,6 +55248,7 @@ window.allHeroes =
         "source": "Monthly Event - Beach Party",
         "Release date": "2025-06-03",
         "specialId": "spreading_gossip",
+        "heroId": "beachparty_serena",
         "star": 5,
         "power": 1196,
         "attack": 1174,
@@ -55265,7 +55266,6 @@ window.allHeroes =
             "Resist Water Damage: This character has innate resistance against Water Damage."
         ],
         "family": "beachparty",
-        "image": "https://imgur.com/ebdt5jw.jpg",
         "costume_id": 0,
         "originalIndex": 840,
         "lb1": {
@@ -55320,6 +55320,7 @@ window.allHeroes =
         "source": "Legends Summon - Hero of the Month",
         "Release date": "2019-07-01",
         "specialId": "undead_rage",
+        "heroId": "dark_god_seshat",
         "star": 5,
         "power": 770,
         "attack": 760,
@@ -55335,7 +55336,6 @@ window.allHeroes =
             "Resist mana reduction: This character has innate resistance against mana reduction."
         ],
         "family": 2019,
-        "image": "https://i.imgur.com/FioNeBy.jpg",
         "costume_id": 0,
         "originalIndex": 841,
         "lb1": {
@@ -55391,6 +55391,7 @@ window.allHeroes =
         "source": "Legends Summon - Hero of the Month",
         "Release date": "2021-10-20",
         "specialId": "undead_rage",
+        "heroId": "dark_god_seshat_costume_revenant",
         "star": 5,
         "power": 979,
         "attack": 980,
@@ -55407,7 +55408,6 @@ window.allHeroes =
             "Cleanse on Special: When this character casts their Special Skill, they cleanse the newest status ailment from all allies."
         ],
         "family": 2019,
-        "image": "https://i.imgur.com/qNMuMVA.jpg",
         "costume_id": 1,
         "originalIndex": 842,
         "lb1": {
@@ -55460,6 +55460,7 @@ window.allHeroes =
         "source": "S5 - Dune",
         "Release date": "2022-09-29",
         "specialId": "legions_of_darkness",
+        "heroId": "s5_set",
         "star": 5,
         "power": 864,
         "attack": 807,
@@ -55476,7 +55477,6 @@ window.allHeroes =
             " * All enemies get -24% mana generation for 3 turns."
         ],
         "family": "moon",
-        "image": "https://i.imgur.com/8kUB8ir.jpg",
         "costume_id": 0,
         "originalIndex": 843,
         "lb1": {
@@ -55530,6 +55530,7 @@ window.allHeroes =
         "source": "S5 - Dune",
         "Release date": "2025-05-14",
         "specialId": "legions_of_darkness",
+        "heroId": "s5_set_costume_tyrant",
         "star": 5,
         "power": 1210,
         "attack": 1212,
@@ -55548,7 +55549,6 @@ window.allHeroes =
             "Resist Sand Damage: This character has innate resistance against Sand damage."
         ],
         "family": "moon",
-        "image": "https://imgur.com/olt8i8H.jpg",
         "costume_id": 1,
         "originalIndex": 844,
         "lb1": {
@@ -55604,6 +55604,7 @@ window.allHeroes =
         "source": "Covenant Summon",
         "Release date": "2023-12-24",
         "specialId": "ironbound_fury",
+        "heroId": "construct_shacklebolt",
         "star": 5,
         "power": 986,
         "attack": 994,
@@ -55619,7 +55620,6 @@ window.allHeroes =
             "Destructive Core: The Construct Core of this character is Destructive Core. The Destructive Core activates each time this character’s Special Skill is cast: * With fully charged Destructive Core, deals 180% damage to all enemies. * The damage is scaled by the amount of charge in the Core. All charge is  exchausted when the Core is activated."
         ],
         "family": "construct",
-        "image": "https://i.imgur.com/kHFYa2T.jpg",
         "costume_id": 0,
         "originalIndex": 845,
         "lb1": {
@@ -55675,6 +55675,7 @@ window.allHeroes =
         "source": "Covenant Summon",
         "Release date": "2024-12-23",
         "specialId": "bone_toss",
+        "heroId": "fox_shadowfang",
         "star": 5,
         "power": 1153,
         "attack": 1143,
@@ -55691,7 +55692,6 @@ window.allHeroes =
             "Decreased Healing: All enemies get -50% healing."
         ],
         "family": "fox",
-        "image": "https://i.imgur.com/WRT0fPv.jpg",
         "costume_id": 0,
         "originalIndex": 846,
         "lb1": {
@@ -55743,6 +55743,7 @@ window.allHeroes =
         "source": "Legends Summon - Hero of the Month",
         "Release date": "2024-08-01",
         "specialId": "guardians_retaliation",
+        "heroId": "dark_god_sir_casmir",
         "star": 5,
         "power": 1008,
         "attack": 988,
@@ -55759,7 +55760,6 @@ window.allHeroes =
             "Mana on Health Recovery: This character receives 5% mana each time its health is recovered."
         ],
         "family": 2024,
-        "image": "https://i.imgur.com/7f9DRkN.jpg",
         "costume_id": 0,
         "originalIndex": 847,
         "lb1": {
@@ -55814,6 +55814,7 @@ window.allHeroes =
         "source": "S5 - Dune",
         "Release date": "2023-05-11",
         "specialId": "disheartening_riddle",
+        "heroId": "s5_sneferu",
         "star": 5,
         "power": 872,
         "attack": 834,
@@ -55830,7 +55831,6 @@ window.allHeroes =
             " * Dispels the latest dispellable buff from all enemies."
         ],
         "family": "moon",
-        "image": "https://i.imgur.com/xRHanch.jpg",
         "costume_id": 0,
         "originalIndex": 848,
         "lb1": {
@@ -55880,6 +55880,7 @@ window.allHeroes =
         "source": "S5 - Dune",
         "Release date": "2025-07-10",
         "specialId": "disheartening_riddle",
+        "heroId": "s5_sneferu_costume_vanquisher",
         "star": 5,
         "power": 1220,
         "attack": 1209,
@@ -55898,7 +55899,6 @@ window.allHeroes =
             "Mana on Status Ailment Received: This character gains 5% mana when they receive a status ailment or negative stack."
         ],
         "family": "moon",
-        "image": "https://imgur.com/3FfUfwE.jpg",
         "costume_id": 1,
         "originalIndex": 849,
         "lb1": {
@@ -55951,6 +55951,7 @@ window.allHeroes =
         "source": "Covenant Summon",
         "Release date": "2024-10-07",
         "specialId": "swift_little_friends",
+        "heroId": "fox_swiftpaw",
         "star": 5,
         "power": 1142,
         "attack": 1194,
@@ -55967,7 +55968,6 @@ window.allHeroes =
             "Decreased Healing: All enemies get -50% healing."
         ],
         "family": "fox",
-        "image": "https://i.imgur.com/s7agDwW.jpg",
         "costume_id": 0,
         "originalIndex": 850,
         "lb1": {
@@ -56027,6 +56027,7 @@ window.allHeroes =
         "source": "Wilderness Summon",
         "Release date": "2024-09-20",
         "specialId": "disquieting_tune",
+        "heroId": "faun_tamlin",
         "star": 5,
         "power": 1139,
         "attack": 1126,
@@ -56043,7 +56044,6 @@ window.allHeroes =
             "Resist Attack Reduction: This character has innate resistance against status ailments, stacks and Wither effects that affect attack."
         ],
         "family": "woodlandfaun",
-        "image": "https://i.imgur.com/eHe26XM.jpg",
         "costume_id": 0,
         "originalIndex": 851,
         "lb1": {
@@ -56095,6 +56095,7 @@ window.allHeroes =
         "source": "Covenant Summon",
         "Release date": "2023-10-12",
         "specialId": "rod_of_torment",
+        "heroId": "construct_tenebrae",
         "star": 5,
         "power": 965,
         "attack": 1007,
@@ -56112,7 +56113,6 @@ window.allHeroes =
             " * The poison damage is scaled by the amount of charge in the Core. All charge is exhausted when the Core is activated."
         ],
         "family": "construct",
-        "image": "https://i.imgur.com/det8edh.jpg",
         "costume_id": 0,
         "originalIndex": 852,
         "lb1": {
@@ -56162,6 +56162,7 @@ window.allHeroes =
         "source": "Legends Summon - Hero of the Month",
         "Release date": "2017-11-01",
         "specialId": "soul_cage",
+        "heroId": "witch_king",
         "star": 5,
         "power": 765,
         "attack": 731,
@@ -56174,7 +56175,6 @@ window.allHeroes =
         ],
         "passives": [],
         "family": 2017,
-        "image": "https://i.imgur.com/qJmJu2G.jpg",
         "costume_id": 0,
         "originalIndex": 853,
         "lb1": {
@@ -56221,6 +56221,7 @@ window.allHeroes =
         "source": "Legends Summon - Hero of the Month",
         "Release date": "2024-01-11",
         "specialId": "soul_cage",
+        "heroId": "witch_king_costume_cosmic",
         "star": 5,
         "power": 973,
         "attack": 911,
@@ -56235,7 +56236,6 @@ window.allHeroes =
             "Dispel on Special Skill: When this character casts their Special Skill, they dispel the newest status effect buff from all enemies."
         ],
         "family": 2017,
-        "image": "https://i.imgur.com/3rXphxC.jpg",
         "costume_id": 1,
         "originalIndex": 854,
         "lb1": {
@@ -56289,6 +56289,7 @@ window.allHeroes =
         "source": "S7 - Treasures of Flame and Frost",
         "Release date": "2025-05-16",
         "specialId": "glacial_atmosphere",
+        "heroId": "tales2_thrivaldi",
         "star": 5,
         "power": 1201,
         "attack": 1227,
@@ -56306,14 +56307,13 @@ window.allHeroes =
             " * The Frost damage is scaled by the amount of charge in the Core. All charge is exhausted when the Core is activated."
         ],
         "family": "myrkheim",
-        "image": "https://imgur.com/GPSIC9I.jpg",
         "costume_id": 0,
         "originalIndex": 855,
         "lb1": {
             "power": 1285,
             "attack": 1323,
             "defense": 1240,
-            "health": 2504
+            "health": 2501
         },
         "lb2": {
             "power": 1452,
@@ -56364,6 +56364,7 @@ window.allHeroes =
         "source": "Tower - Ninjas",
         "Release date": "2024-08-27",
         "specialId": "hunt_for_prey",
+        "heroId": "ninja_tora",
         "star": 5,
         "power": 1095,
         "attack": 1233,
@@ -56388,7 +56389,6 @@ window.allHeroes =
             "Decreased Minion Health: Enemy Minions inherit -50% less Health when summoned."
         ],
         "family": "ninja",
-        "image": "https://i.imgur.com/SWoTRp0.jpg",
         "costume_id": 0,
         "originalIndex": 856,
         "lb1": {
@@ -56436,6 +56436,7 @@ window.allHeroes =
         "source": "Legends Summon - Hero of the Month",
         "Release date": "2023-04-01",
         "specialId": "marked_aim",
+        "heroId": "dark_god_turgruk",
         "star": 5,
         "power": 822,
         "attack": 846,
@@ -56451,7 +56452,6 @@ window.allHeroes =
             "Resist blind: This character has innate resistance against status ailments that affect accuracy. Doesn`t apply to status effects from allies."
         ],
         "family": 2023,
-        "image": "https://i.imgur.com/ktMsNKD.jpg",
         "costume_id": 0,
         "originalIndex": 857,
         "lb1": {
@@ -56501,6 +56501,7 @@ window.allHeroes =
         "source": "Challenge Festival I",
         "Release date": "2023-10-05",
         "specialId": "dum_and_dee",
+        "heroId": "wonderland_tweedles",
         "star": 5,
         "power": 945,
         "attack": 962,
@@ -56517,7 +56518,6 @@ window.allHeroes =
             "Resist Damage from Status Effects: This charater has innate resistance against incoming damage from status effects."
         ],
         "family": "wonderland",
-        "image": "https://i.imgur.com/oaSASQ4.jpg",
         "costume_id": 0,
         "originalIndex": 858,
         "lb1": {
@@ -56572,6 +56572,7 @@ window.allHeroes =
         "source": "S6 - Mysteries of the Deep",
         "Release date": "2023-08-02",
         "specialId": "sinister_enlace",
+        "heroId": "tales1_ultrox",
         "star": 5,
         "power": 951,
         "attack": 986,
@@ -56594,7 +56595,6 @@ window.allHeroes =
             " * The caster gets +19% mana generation for 2 turns."
         ],
         "family": "nightmaresofatlantis",
-        "image": "https://i.imgur.com/7xKKQnM.jpg",
         "costume_id": 0,
         "originalIndex": 859,
         "lb1": {
@@ -56650,6 +56650,7 @@ window.allHeroes =
         "source": "S6 - Mysteries of the Deep",
         "Release date": "2025-05-28",
         "specialId": "sinister_enlace",
+        "heroId": "tales1_ultrox_costume_ethereal",
         "star": 5,
         "power": 1184,
         "attack": 1286,
@@ -56673,7 +56674,6 @@ window.allHeroes =
             "Resist Insanity: This character has innate resistance against Insanity."
         ],
         "family": "nightmaresofatlantis",
-        "image": "https://imgur.com/p30NrpJ.jpg",
         "costume_id": 1,
         "originalIndex": 860,
         "lb1": {
@@ -56727,6 +56727,7 @@ window.allHeroes =
         "source": "Challenge - Carnival of Gods",
         "Release date": "2023-11-02",
         "specialId": "spreading_shadow",
+        "heroId": "masquerade_umbria",
         "star": 5,
         "power": 951,
         "attack": 918,
@@ -56742,7 +56743,6 @@ window.allHeroes =
             "Cleanse on Minion Death: This character is cleansed of status ailments when Minion owned by them is destroyed. "
         ],
         "family": "maskedgod",
-        "image": "https://i.imgur.com/3VyJcT7.jpg",
         "costume_id": 0,
         "originalIndex": 861,
         "lb1": {
@@ -56792,6 +56792,7 @@ window.allHeroes =
         "source": "Tower - Ninjas",
         "Release date": "2024-10-22",
         "specialId": "noxious_blossom",
+        "heroId": "ninja_umeko",
         "star": 5,
         "power": 1108,
         "attack": 1219,
@@ -56816,7 +56817,6 @@ window.allHeroes =
             "Decreased Minion Health: Enemy Minions inherit -50% less Health when summoned."
         ],
         "family": "ninja",
-        "image": "https://i.imgur.com/2sWnlMn.jpg",
         "costume_id": 0,
         "originalIndex": 862,
         "lb1": {
@@ -56871,6 +56871,7 @@ window.allHeroes =
         "source": "S2 - Atlantis",
         "Release date": "2019-02-01",
         "specialId": "depth_blast",
+        "heroId": "s2_ursena",
         "star": 5,
         "power": 775,
         "attack": 760,
@@ -56884,7 +56885,6 @@ window.allHeroes =
         ],
         "passives": [],
         "family": "atlantis",
-        "image": "https://i.imgur.com/OQ8iQcf.jpg",
         "costume_id": 0,
         "originalIndex": 863,
         "lb1": {
@@ -56940,6 +56940,7 @@ window.allHeroes =
         "source": "S2 - Atlantis",
         "Release date": "2021-11-15",
         "specialId": "depth_blast",
+        "heroId": "s2_ursena_costume_reef",
         "star": 5,
         "power": 946,
         "attack": 936,
@@ -56953,14 +56954,13 @@ window.allHeroes =
         ],
         "passives": [],
         "family": "atlantis",
-        "image": "https://i.imgur.com/HefSfvM.jpg",
         "costume_id": 1,
         "originalIndex": 864,
         "lb1": {
             "power": 1010,
             "attack": 1010,
             "defense": 995,
-            "health": 1812
+            "health": 1809
         },
         "lb2": {
             "power": 1138,
@@ -57012,6 +57012,7 @@ window.allHeroes =
         "source": "Legends Summon - Hero of the Month",
         "Release date": "2023-10-01",
         "specialId": "venomous_claws",
+        "heroId": "dark_god_uthragan",
         "star": 5,
         "power": 883,
         "attack": 929,
@@ -57027,14 +57028,13 @@ window.allHeroes =
             "Resist Poison: This character has innate resistance against Poison."
         ],
         "family": 2023,
-        "image": "https://i.imgur.com/Pb3fJn3.jpg",
         "costume_id": 0,
         "originalIndex": 865,
         "lb1": {
-            "power": 942,
+            "power": 941,
             "attack": 1001,
             "defense": 799,
-            "health": 1736
+            "health": 1733
         },
         "lb2": {
             "power": 1059,
@@ -57083,6 +57083,7 @@ window.allHeroes =
         "source": "Challenge - Gargoyle",
         "Release date": "2024-05-16",
         "specialId": "chain_blasm_strike",
+        "heroId": "gargoyle_uwe",
         "star": 5,
         "power": 1049,
         "attack": 1077,
@@ -57097,7 +57098,6 @@ window.allHeroes =
             "Gargoile’s Softskin: Every time this Gargoyle casts a Special Skill, their Softskin activates. The next 5 times they receive damage, it is reduced by -90%, and they resist all status ailment and mana reduction. This effect can’t be dispelled."
         ],
         "family": "gargoyle",
-        "image": "https://i.imgur.com/KNSk9mz.jpg",
         "costume_id": 0,
         "originalIndex": 866,
         "lb1": {
@@ -57153,6 +57153,7 @@ window.allHeroes =
         "source": "Super Elementals",
         "Release date": "2024-08-07",
         "specialId": "gloom_grenades",
+        "heroId": "elemental_vander",
         "star": 5,
         "power": 1082,
         "attack": 1114,
@@ -57172,7 +57173,6 @@ window.allHeroes =
             " - Received elemental damage: -10%"
         ],
         "family": "superelemental",
-        "image": "https://i.imgur.com/4cx1DT9.jpg",
         "costume_id": 0,
         "originalIndex": 867,
         "lb1": {
@@ -57221,6 +57221,7 @@ window.allHeroes =
         "source": "Astral Summon",
         "Release date": "2025-01-30",
         "specialId": "power_of_the_void",
+        "heroId": "astral_dwarf_vard",
         "star": 5,
         "power": 1163,
         "attack": 1205,
@@ -57237,7 +57238,6 @@ window.allHeroes =
             "Perfect Accuracy: This character’s Special Skill never misses its targets."
         ],
         "family": "astraldwarfs",
-        "image": "https://i.imgur.com/pddigSQ.jpg",
         "costume_id": 0,
         "originalIndex": 868,
         "lb1": {
@@ -57291,6 +57291,7 @@ window.allHeroes =
         "source": "Monthly Event - Morlovia",
         "Release date": "2018-10-25",
         "specialId": "kings_blood_poisoning",
+        "heroId": "vampire_king",
         "star": 5,
         "power": 773,
         "attack": 778,
@@ -57306,7 +57307,6 @@ window.allHeroes =
             "Steal Buff: When this character casts their Special Skill, they have a 50% chance to steal the newest dispellable buff from a random enemy that has buffs. If no enemy has buffs, deals 70% damage to all enemies."
         ],
         "family": "morlovia",
-        "image": "https://i.imgur.com/Trss5zi.jpg",
         "costume_id": 0,
         "originalIndex": 869,
         "lb1": {
@@ -57364,6 +57364,7 @@ window.allHeroes =
         "source": "Monthly Event - Morlovia",
         "Release date": "2021-10-04",
         "specialId": "kings_blood_poisoning",
+        "heroId": "vampire_king_costume_mafia",
         "star": 5,
         "power": 1001,
         "attack": 1040,
@@ -57377,7 +57378,6 @@ window.allHeroes =
         ],
         "passives": [],
         "family": "morlovia",
-        "image": "https://i.imgur.com/bKghYKS.jpg",
         "costume_id": 1,
         "originalIndex": 870,
         "lb1": {
@@ -57429,6 +57429,7 @@ window.allHeroes =
         "source": "Goblin Summon",
         "Release date": "2024-06-10",
         "specialId": "lucky_coin",
+        "heroId": "garrison_violet_potts",
         "star": 5,
         "power": 1093,
         "attack": 1147,
@@ -57445,7 +57446,6 @@ window.allHeroes =
             "Guard Rally: Every 4 turns, removes all Wither effects from all allies."
         ],
         "family": "garrisonguard",
-        "image": "https://i.imgur.com/ByQ3x5M.jpg",
         "costume_id": 0,
         "originalIndex": 871,
         "lb1": {
@@ -57505,6 +57505,7 @@ window.allHeroes =
         "source": "Legends Summon - Hero of the Month",
         "Release date": "2022-01-01",
         "specialId": "cursed_garden",
+        "heroId": "dark_god_viscaro",
         "star": 5,
         "power": 803,
         "attack": 731,
@@ -57523,7 +57524,6 @@ window.allHeroes =
             "Resist negative minion effects: This character has innate resistance against incoming negative effects and damage from Minions. "
         ],
         "family": 2022,
-        "image": "https://i.imgur.com/tgvzp56.jpg",
         "costume_id": 0,
         "originalIndex": 872,
         "lb1": {
@@ -57574,6 +57574,7 @@ window.allHeroes =
         "source": "Monthly Event - Springvale",
         "Release date": "2025-03-31",
         "specialId": "insurmountable_flux",
+        "heroId": "easter_viscount_cluckwood",
         "star": 5,
         "power": 1172,
         "attack": 1203,
@@ -57587,20 +57588,19 @@ window.allHeroes =
         ],
         "passives": [],
         "family": "springvale",
-        "image": "https://imgur.com/ifuZ96L.jpg",
         "costume_id": 0,
         "originalIndex": 873,
         "lb1": {
             "power": 1251,
             "attack": 1294,
             "defense": 1238,
-            "health": 2333
+            "health": 2338
         },
         "lb2": {
-            "power": 1413,
-            "attack": 1480,
+            "power": 1415,
+            "attack": 1483,
             "defense": 1417,
-            "health": 2669
+            "health": 2678
         },
         "cn_skill_info": [
             {
@@ -57638,6 +57638,7 @@ window.allHeroes =
         "source": "Astral Summon",
         "Release date": "2024-04-22",
         "specialId": "paragon_of_constellations",
+        "heroId": "astral_voidstar",
         "star": 5,
         "power": 1041,
         "attack": 1003,
@@ -57654,7 +57655,6 @@ window.allHeroes =
             "Share Received Damage: 20% of damage received by this charater is shared with other allies."
         ],
         "family": "astralelves",
-        "image": "https://i.imgur.com/ry0GZRR.jpg",
         "costume_id": 0,
         "originalIndex": 874,
         "lb1": {
@@ -57709,6 +57709,7 @@ window.allHeroes =
         "source": "Challenge - Secrets of the Opera",
         "Release date": "2024-08-22",
         "specialId": "ballad_of_pain",
+        "heroId": "ballerina_von_rothbart",
         "star": 5,
         "power": 1092,
         "attack": 1174,
@@ -57731,7 +57732,6 @@ window.allHeroes =
             "Heal when status ailment expires or is cleared: This character receives 10% health each time a status ailment expires or is cleansed, removed or reallocated from them. This effect can activate only once per turn."
         ],
         "family": "opera",
-        "image": "https://i.imgur.com/DZgjbkS.jpg",
         "costume_id": 0,
         "originalIndex": 875,
         "lb1": {
@@ -57784,6 +57784,7 @@ window.allHeroes =
         "source": "Three Kingdoms Summon",
         "Release date": "2024-02-06",
         "specialId": "wrathful_sting",
+        "heroId": "journey_xie_zi_jing",
         "star": 5,
         "power": 999,
         "attack": 1025,
@@ -57799,7 +57800,6 @@ window.allHeroes =
             "Health Recovery on Buff Received: This character has a 50% chance to recover 10% health when they receive a buff or possitve stack."
         ],
         "family": "journey",
-        "image": "https://i.imgur.com/jJUezPr.jpg",
         "costume_id": 0,
         "originalIndex": 876,
         "lb1": {
@@ -57860,6 +57860,7 @@ window.allHeroes =
         "source": "Three Kingdoms Summon",
         "Release date": "2023-04-24",
         "specialId": "fury_of_the_mountain_lord",
+        "heroId": "journey_xiong_shanjun",
         "star": 5,
         "power": 874,
         "attack": 766,
@@ -57873,7 +57874,6 @@ window.allHeroes =
         ],
         "passives": [],
         "family": "journey",
-        "image": "https://i.imgur.com/WyjU3s9.jpg",
         "costume_id": 0,
         "originalIndex": 877,
         "lb1": {
@@ -57931,6 +57931,7 @@ window.allHeroes =
         "source": "S4 - Wilderness",
         "Release date": "2021-09-09",
         "specialId": "ancient_enchantment",
+        "heroId": "s4_xnolphod",
         "star": 5,
         "power": 809,
         "attack": 768,
@@ -57945,7 +57946,6 @@ window.allHeroes =
             "Decrease Ailment Duration: Duration of the first 3 status ailments this character receives from Special Skill is decreased by 1 turn."
         ],
         "family": "underwild",
-        "image": "https://i.imgur.com/RF7rniv.jpg",
         "costume_id": 0,
         "originalIndex": 878,
         "lb1": {
@@ -58002,6 +58002,7 @@ window.allHeroes =
         "source": "S4 - Wilderness",
         "Release date": "2023-11-09",
         "specialId": "ancient_enchantment",
+        "heroId": "s4_xnolphod_costume_jailer",
         "star": 5,
         "power": 1024,
         "attack": 998,
@@ -58017,7 +58018,6 @@ window.allHeroes =
             "Health Boost on Special Skill: On Special Skill cast, boosts all allies’ HP by 10%."
         ],
         "family": "underwild",
-        "image": "https://i.imgur.com/s1HpuGG.jpg",
         "costume_id": 1,
         "originalIndex": 879,
         "lb1": {
@@ -58072,6 +58072,7 @@ window.allHeroes =
         "source": "Wilderness Summon",
         "Release date": "2024-11-05",
         "specialId": "lash_of_the_whip",
+        "heroId": "faun_ysabel",
         "star": 5,
         "power": 1146,
         "attack": 1176,
@@ -58088,7 +58089,6 @@ window.allHeroes =
             "Resist Attack Reduction: This character has innate resistance against status ailments, stacks and Wither effects that affect attack."
         ],
         "family": "woodlandfaun",
-        "image": "https://i.imgur.com/jhCBaUo.jpg",
         "costume_id": 0,
         "originalIndex": 880,
         "lb1": {
@@ -58143,6 +58143,7 @@ window.allHeroes =
         "source": "Legends Summon - Hero of the Month",
         "Release date": "2025-01-01",
         "specialId": "lance_thrust",
+        "heroId": "dark_god_zed",
         "star": 5,
         "power": 1052,
         "attack": 1155,
@@ -58159,7 +58160,6 @@ window.allHeroes =
             "Increased Special Skill Damage: This first 2 times this character casts a Special Skill that deals damage, an additional 50% is added to its power."
         ],
         "family": 2025,
-        "image": "https://i.imgur.com/G0RFHTr.jpg",
         "costume_id": 0,
         "originalIndex": 881,
         "lb1": {
@@ -58213,6 +58213,7 @@ window.allHeroes =
         "source": "Legends Summon - Hero of the Month",
         "Release date": "2020-10-01",
         "specialId": "vast_ward",
+        "heroId": "dark_god_zulag",
         "star": 5,
         "power": 778,
         "attack": 669,
@@ -58228,7 +58229,6 @@ window.allHeroes =
             "Resist Sand Damage: This character has innate resistance against Sand damage."
         ],
         "family": 2020,
-        "image": "https://i.imgur.com/oEPqMWI.jpg",
         "costume_id": 0,
         "originalIndex": 882,
         "lb1": {
@@ -58274,6 +58274,7 @@ window.allHeroes =
         "source": "S1 - Classic",
         "Release date": "2017-03-01",
         "specialId": "field_aid",
+        "heroId": "nomad_female_archer",
         "star": 1,
         "power": 213,
         "attack": 168,
@@ -58284,7 +58285,6 @@ window.allHeroes =
         ],
         "passives": [],
         "family": null,
-        "image": "https://i.imgur.com/PC7yXFg.jpg",
         "costume_id": 0,
         "originalIndex": 883,
         "cn_skill_info": []
@@ -58306,6 +58306,7 @@ window.allHeroes =
         "source": "S1 - Classic",
         "Release date": "2017-03-01",
         "specialId": "backstab",
+        "heroId": "nomad_scout",
         "star": 1,
         "power": 210,
         "attack": 208,
@@ -58316,7 +58317,6 @@ window.allHeroes =
         ],
         "passives": [],
         "family": null,
-        "image": "https://i.imgur.com/cL8WR2O.jpg",
         "costume_id": 0,
         "originalIndex": 884,
         "cn_skill_info": []
@@ -58338,6 +58338,7 @@ window.allHeroes =
         "source": "S1 - Classic",
         "Release date": "2017-03-01",
         "specialId": "fierce_slash",
+        "heroId": "nomad_fighter",
         "star": 2,
         "power": 337,
         "attack": 350,
@@ -58348,7 +58349,6 @@ window.allHeroes =
         ],
         "passives": [],
         "family": null,
-        "image": "https://i.imgur.com/MeeFayZ.jpg",
         "costume_id": 0,
         "originalIndex": 885,
         "cn_skill_info": []
@@ -58370,6 +58370,7 @@ window.allHeroes =
         "source": "S1 - Classic",
         "Release date": "2017-03-01",
         "specialId": "attack_rally",
+        "heroId": "nomad_female_thief",
         "star": 2,
         "power": 332,
         "attack": 320,
@@ -58380,7 +58381,6 @@ window.allHeroes =
         ],
         "passives": [],
         "family": null,
-        "image": "https://i.imgur.com/FTGm2in.jpg",
         "costume_id": 0,
         "originalIndex": 886,
         "cn_skill_info": []
@@ -58402,6 +58402,7 @@ window.allHeroes =
         "source": "S1 - Classic",
         "Release date": "2017-03-01",
         "specialId": "attack_rally",
+        "heroId": "nomad_shaman",
         "star": 2,
         "power": 334,
         "attack": 356,
@@ -58412,7 +58413,6 @@ window.allHeroes =
         ],
         "passives": [],
         "family": null,
-        "image": "https://i.imgur.com/TOP4jvU.jpg",
         "costume_id": 0,
         "originalIndex": 887,
         "cn_skill_info": []
@@ -58434,6 +58434,7 @@ window.allHeroes =
         "source": "S1 - Classic",
         "Release date": "2017-03-01",
         "specialId": "tackle",
+        "heroId": "orc_skirmisher",
         "star": 2,
         "power": 336,
         "attack": 312,
@@ -58444,7 +58445,6 @@ window.allHeroes =
         ],
         "passives": [],
         "family": null,
-        "image": "https://i.imgur.com/O3JN2m9.jpg",
         "costume_id": 0,
         "originalIndex": 888,
         "cn_skill_info": []
@@ -58468,6 +58468,7 @@ window.allHeroes =
         "source": "S1 - Classic",
         "Release date": "2017-03-01",
         "specialId": "sharp_cut",
+        "heroId": "nomad_female_swordmaster",
         "star": 3,
         "power": 444,
         "attack": 493,
@@ -58479,7 +58480,6 @@ window.allHeroes =
         ],
         "passives": [],
         "family": "classic",
-        "image": "https://i.imgur.com/sizxBDX.jpg",
         "costume_id": 0,
         "originalIndex": 889,
         "lb1": {
@@ -58526,6 +58526,7 @@ window.allHeroes =
         "source": "Costume Quest",
         "Release date": "2020-05-18",
         "specialId": "sharp_cut",
+        "heroId": "nomad_female_swordmaster_costume_native",
         "star": 3,
         "power": 473,
         "attack": 505,
@@ -58537,7 +58538,6 @@ window.allHeroes =
         ],
         "passives": [],
         "family": "classic",
-        "image": "https://i.imgur.com/tInZp5F.jpg",
         "costume_id": 1,
         "originalIndex": 890,
         "lb1": {
@@ -58585,6 +58585,7 @@ window.allHeroes =
         "source": "Costume Quest",
         "Release date": "2024-03-11",
         "specialId": "sharp_cut",
+        "heroId": "nomad_female_swordmaster_costume_cute",
         "star": 3,
         "power": 506,
         "attack": 586,
@@ -58599,7 +58600,6 @@ window.allHeroes =
             "Toon: 75% extra chance to resist all status ailments, mana reductions and buff dispels."
         ],
         "family": "classic",
-        "image": "https://i.imgur.com/Mwzt0jr.jpg",
         "costume_id": 2,
         "originalIndex": 891,
         "lb1": {
@@ -58649,6 +58649,7 @@ window.allHeroes =
         "source": "Costume Quest",
         "Release date": "2025-04-23",
         "specialId": "sharp_cut",
+        "heroId": "nomad_female_swordmaster_costume_glass",
         "star": 3,
         "power": 514,
         "attack": 601,
@@ -58663,7 +58664,6 @@ window.allHeroes =
             "Glass: 60% extra chance to reflect status ailments back to the attacker."
         ],
         "family": "classic",
-        "image": "https://imgur.com/rj0CDGr.jpg",
         "costume_id": 3,
         "originalIndex": 892,
         "lb1": {
@@ -58711,6 +58711,7 @@ window.allHeroes =
         "source": "S6 - Mysteries of the Deep",
         "Release date": "2023-06-07",
         "specialId": "burning_javelin",
+        "heroId": "tales1_bagreg",
         "star": 3,
         "power": 486,
         "attack": 571,
@@ -58731,7 +58732,6 @@ window.allHeroes =
             " * The caster gets +19% mana generation for 2 turns."
         ],
         "family": "nightmaresofatlantis",
-        "image": "https://i.imgur.com/rzvavLk.jpg",
         "costume_id": 0,
         "originalIndex": 893,
         "lb1": {
@@ -58778,6 +58778,7 @@ window.allHeroes =
         "source": "S6 - Mysteries of the Deep",
         "Release date": "2025-04-29",
         "specialId": "burning_javelin",
+        "heroId": "tales1_bagreg_costume_scout",
         "star": 3,
         "power": 498,
         "attack": 512,
@@ -58799,7 +58800,6 @@ window.allHeroes =
             "Resist Insanity: This character has an innate resistance against Insanity."
         ],
         "family": "nightmaresofatlantis",
-        "image": "https://imgur.com/ZuRts32.jpg",
         "costume_id": 1,
         "originalIndex": 894,
         "lb1": {
@@ -58848,6 +58848,7 @@ window.allHeroes =
         "source": "Monster Island Summon",
         "Release date": "2022-12-24",
         "specialId": "squeak_of_protection",
+        "heroId": "monster_hunter_basil",
         "star": 3,
         "power": 486,
         "attack": 460,
@@ -58863,7 +58864,6 @@ window.allHeroes =
             "Hunter`s sense: When this character casts their Special Skill, they transfer the newest cleansable status ailment from themself to the target. If the Special Skill cannot target an enemy, a random enemy is chosen instead. If this character has no cleansable status ailments, they recover 12% health."
         ],
         "family": "abysshunter",
-        "image": "https://i.imgur.com/WxAALcm.jpg",
         "costume_id": 0,
         "originalIndex": 895,
         "lb1": {
@@ -58909,6 +58909,7 @@ window.allHeroes =
         "source": "Challenge Festival I",
         "Release date": "2019-09-12",
         "specialId": "claw_power",
+        "heroId": "knights_bauchan",
         "star": 3,
         "power": 455,
         "attack": 420,
@@ -58921,7 +58922,6 @@ window.allHeroes =
         ],
         "passives": [],
         "family": "avalon",
-        "image": "https://i.imgur.com/EA1ItRL.jpg",
         "costume_id": 0,
         "originalIndex": 896,
         "lb1": {
@@ -58975,6 +58975,7 @@ window.allHeroes =
         "source": "Goblin Summon",
         "Release date": "2023-09-18",
         "specialId": "hammer_thump",
+        "heroId": "goblin_boots",
         "star": 3,
         "power": 486,
         "attack": 455,
@@ -58991,7 +58992,6 @@ window.allHeroes =
             " * All enemies get -25% accuracy for 3 turns."
         ],
         "family": "goblin",
-        "image": "https://i.imgur.com/JAko0SJ.jpg",
         "costume_id": 0,
         "originalIndex": 897,
         "lb1": {
@@ -59047,6 +59047,7 @@ window.allHeroes =
         "source": "Monthly Event - Winter",
         "Release date": "2022-12-01",
         "specialId": "frosty_punches",
+        "heroId": "christmas_buster",
         "star": 3,
         "power": 484,
         "attack": 509,
@@ -59059,7 +59060,6 @@ window.allHeroes =
         ],
         "passives": [],
         "family": "christmas",
-        "image": "https://i.imgur.com/LgUJQa9.jpg",
         "costume_id": 0,
         "originalIndex": 898,
         "lb1": {
@@ -59111,6 +59111,7 @@ window.allHeroes =
         "source": "Tower - Styx",
         "Release date": "2022-09-21",
         "specialId": "dantes_inferno",
+        "heroId": "styx_dante",
         "star": 3,
         "power": 484,
         "attack": 537,
@@ -59135,7 +59136,6 @@ window.allHeroes =
             "Resist defense ailments: This character has innate resistance against status ailments that affect defense. Applies also to status ailments that affect elemental defense."
         ],
         "family": "styx",
-        "image": "https://i.imgur.com/FNkLC6z.jpg",
         "costume_id": 0,
         "originalIndex": 899,
         "lb1": {
@@ -59188,6 +59188,7 @@ window.allHeroes =
         "source": "S3 - Valhalla",
         "Release date": "2020-02-27",
         "specialId": "tainted_axe",
+        "heroId": "s3_ei_dunn",
         "star": 3,
         "power": 466,
         "attack": 422,
@@ -59199,7 +59200,6 @@ window.allHeroes =
         ],
         "passives": [],
         "family": "niflheim",
-        "image": "https://i.imgur.com/RabUqBI.jpg",
         "costume_id": 0,
         "originalIndex": 900,
         "lb1": {
@@ -59246,6 +59246,7 @@ window.allHeroes =
         "source": "S3 - Valhalla",
         "Release date": "2023-02-13",
         "specialId": "tainted_axe",
+        "heroId": "s3_ei_dunn_costume_shield",
         "star": 3,
         "power": 481,
         "attack": 502,
@@ -59257,7 +59258,6 @@ window.allHeroes =
         ],
         "passives": [],
         "family": "niflheim",
-        "image": "https://i.imgur.com/Zi5MdT5.jpg",
         "costume_id": 1,
         "originalIndex": 901,
         "lb1": {
@@ -59305,6 +59305,7 @@ window.allHeroes =
         "source": "Alliance - Knights Clash",
         "Release date": "2023-10-18",
         "specialId": "evading_dash",
+        "heroId": "castle_stag_fawn",
         "star": 3,
         "power": 489,
         "attack": 457,
@@ -59318,7 +59319,6 @@ window.allHeroes =
             "Health Recovery on Buff Received - This character recovers 5% health when  they receive a buff or a positive stack."
         ],
         "family": "stag",
-        "image": "https://i.imgur.com/qV2EnaJ.jpg",
         "costume_id": 0,
         "originalIndex": 902,
         "lb1": {
@@ -59364,6 +59364,7 @@ window.allHeroes =
         "source": "S1 - Classic",
         "Release date": "2017-03-01",
         "specialId": "wind_prayer",
+        "heroId": "nomad_female_shaman",
         "star": 3,
         "power": 444,
         "attack": 474,
@@ -59374,7 +59375,6 @@ window.allHeroes =
         ],
         "passives": [],
         "family": "classic",
-        "image": "https://i.imgur.com/6ZyfSsX.jpg",
         "costume_id": 0,
         "originalIndex": 903,
         "lb1": {
@@ -59416,6 +59416,7 @@ window.allHeroes =
         "source": "Costume Quest",
         "Release date": "2020-01-01",
         "specialId": "wind_prayer",
+        "heroId": "nomad_female_shaman_costume_native",
         "star": 3,
         "power": 474,
         "attack": 501,
@@ -59427,7 +59428,6 @@ window.allHeroes =
         ],
         "passives": [],
         "family": "classic",
-        "image": "https://i.imgur.com/FY7tylo.jpg",
         "costume_id": 1,
         "originalIndex": 904,
         "lb1": {
@@ -59474,6 +59474,7 @@ window.allHeroes =
         "source": "Costume Quest",
         "Release date": "2024-05-06",
         "specialId": "wind_prayer",
+        "heroId": "nomad_female_shaman_costume_cute",
         "star": 3,
         "power": 507,
         "attack": 545,
@@ -59487,7 +59488,6 @@ window.allHeroes =
             "Toon: 75% extra chance to resist all status ailments, mana reductions and buff dispels."
         ],
         "family": "classic",
-        "image": "https://i.imgur.com/hDOgs06.jpg",
         "costume_id": 2,
         "originalIndex": 905,
         "lb1": {
@@ -59534,6 +59534,7 @@ window.allHeroes =
         "source": "Costume Quest",
         "Release date": "2025-07-16",
         "specialId": "wind_prayer",
+        "heroId": "nomad_female_shaman_costume_glass",
         "star": 3,
         "power": 517,
         "attack": 585,
@@ -59547,7 +59548,6 @@ window.allHeroes =
             "Glass: 60% extra chance to reflect status ailments back to the attacker."
         ],
         "family": "classic",
-        "image": "https://imgur.com/4UQcx05.jpg",
         "costume_id": 3,
         "originalIndex": 906,
         "lb1": {
@@ -59598,6 +59598,7 @@ window.allHeroes =
         "source": "S7 - Treasures of Flame and Frost",
         "Release date": "2024-12-03",
         "specialId": "dwarven_flourish",
+        "heroId": "tales2_helgi",
         "star": 3,
         "power": 499,
         "attack": 545,
@@ -59615,7 +59616,6 @@ window.allHeroes =
             " * The Burn damage is scaled by the amount of charge in the Core. All charge is exhausted when the Core is activated."
         ],
         "family": "nidavellir",
-        "image": "https://i.imgur.com/URDTarn.jpg",
         "costume_id": 0,
         "originalIndex": 907,
         "lb1": {
@@ -59662,6 +59662,7 @@ window.allHeroes =
         "source": "S1 - Classic",
         "Release date": "2017-03-01",
         "specialId": "fireball",
+        "heroId": "nomad_mage",
         "star": 3,
         "power": 445,
         "attack": 498,
@@ -59673,7 +59674,6 @@ window.allHeroes =
         ],
         "passives": [],
         "family": "classic",
-        "image": "https://i.imgur.com/7oZTOqz.jpg",
         "costume_id": 0,
         "originalIndex": 908,
         "lb1": {
@@ -59721,6 +59721,7 @@ window.allHeroes =
         "source": "Costume Quest",
         "Release date": "2021-01-18",
         "specialId": "fireball",
+        "heroId": "nomad_mage_costume_goggles",
         "star": 3,
         "power": 473,
         "attack": 524,
@@ -59732,7 +59733,6 @@ window.allHeroes =
         ],
         "passives": [],
         "family": "classic",
-        "image": "https://i.imgur.com/IPO19rX.jpg",
         "costume_id": 1,
         "originalIndex": 909,
         "lb1": {
@@ -59781,6 +59781,7 @@ window.allHeroes =
         "source": "Costume Quest",
         "Release date": "2023-12-25",
         "specialId": "fireball",
+        "heroId": "nomad_mage_costume_cute",
         "star": 3,
         "power": 506,
         "attack": 555,
@@ -59795,7 +59796,6 @@ window.allHeroes =
             "Toon: 75% extra chance to resist all status ailments, mana reductions and buff dispels."
         ],
         "family": "classic",
-        "image": "https://i.imgur.com/nGXpTVa.jpg",
         "costume_id": 2,
         "originalIndex": 910,
         "lb1": {
@@ -59849,6 +59849,7 @@ window.allHeroes =
         "source": "Costume Quest",
         "Release date": "2024-12-25",
         "specialId": "fireball",
+        "heroId": "nomad_mage_costume_glass",
         "star": 3,
         "power": 514,
         "attack": 566,
@@ -59863,7 +59864,6 @@ window.allHeroes =
             "Glass: 60% extra chance to reflect status ailments back to the attacker."
         ],
         "family": "classic",
-        "image": "https://i.imgur.com/r8eT1gi.jpg",
         "costume_id": 3,
         "originalIndex": 911,
         "lb1": {
@@ -59917,6 +59917,7 @@ window.allHeroes =
         "source": "Tower - Magic",
         "Release date": "2021-09-15",
         "specialId": "imaginary_increments",
+        "heroId": "magic_kornel",
         "star": 3,
         "power": 479,
         "attack": 472,
@@ -59933,7 +59934,6 @@ window.allHeroes =
             "Damage on special: When this character casts their Special Skill, they have a 50% chance to deal 100% damage to all enemies. If the Special Skill is fully charged, the chance is 100%."
         ],
         "family": "magic",
-        "image": "https://i.imgur.com/mQovZC2.jpg",
         "costume_id": 0,
         "originalIndex": 912,
         "lb1": {
@@ -59981,6 +59981,7 @@ window.allHeroes =
         "source": "Three Kingdoms Summon",
         "Release date": "2022-03-14",
         "specialId": "sickle_of_wu",
+        "heroId": "kingdom_li",
         "star": 3,
         "power": 483,
         "attack": 481,
@@ -59993,7 +59994,6 @@ window.allHeroes =
         ],
         "passives": [],
         "family": "kingdom",
-        "image": "https://i.imgur.com/6qcUvA0.jpg",
         "costume_id": 0,
         "originalIndex": 913,
         "lb1": {
@@ -60048,6 +60048,7 @@ window.allHeroes =
         "source": "Three Kingdoms Summon",
         "Release date": "2025-05-22",
         "specialId": "rough_and_tumble",
+        "heroId": "outlaw_liu_tang",
         "star": 3,
         "power": 507,
         "attack": 497,
@@ -60067,7 +60068,6 @@ window.allHeroes =
             "Resist Bleed Damage: This character has innate resistance against Bleed.    "
         ],
         "family": "outlaws",
-        "image": "https://imgur.com/7kDzUpm.jpg",
         "costume_id": 0,
         "originalIndex": 914,
         "lb1": {
@@ -60115,6 +60115,7 @@ window.allHeroes =
         "source": "S2 - Atlantis",
         "Release date": "2019-08-01",
         "specialId": "bloodthirst",
+        "heroId": "s2_straw_demon",
         "star": 3,
         "power": 449,
         "attack": 526,
@@ -60126,7 +60127,6 @@ window.allHeroes =
         ],
         "passives": [],
         "family": "sakura",
-        "image": "https://i.imgur.com/7ovDLzi.jpg",
         "costume_id": 0,
         "originalIndex": 915,
         "lb1": {
@@ -60173,6 +60173,7 @@ window.allHeroes =
         "source": "S1 - Classic",
         "Release date": "2017-03-01",
         "specialId": "burning_strike",
+        "heroId": "orc_warrior",
         "star": 3,
         "power": 443,
         "attack": 514,
@@ -60184,7 +60185,6 @@ window.allHeroes =
         ],
         "passives": [],
         "family": "classic",
-        "image": "https://i.imgur.com/DrsAnEe.jpg",
         "costume_id": 0,
         "originalIndex": 916,
         "lb1": {
@@ -60232,6 +60232,7 @@ window.allHeroes =
         "source": "Costume Quest",
         "Release date": "2021-01-18",
         "specialId": "burning_strike",
+        "heroId": "orc_warrior_costume_urukhai",
         "star": 3,
         "power": 472,
         "attack": 577,
@@ -60243,7 +60244,6 @@ window.allHeroes =
         ],
         "passives": [],
         "family": "classic",
-        "image": "https://i.imgur.com/DZd6oKm.jpg",
         "costume_id": 1,
         "originalIndex": 917,
         "lb1": {
@@ -60292,6 +60292,7 @@ window.allHeroes =
         "source": "Costume Quest",
         "Release date": "2024-05-31",
         "specialId": "burning_strike",
+        "heroId": "orc_warrior_costume_cute",
         "star": 3,
         "power": 505,
         "attack": 623,
@@ -60306,7 +60307,6 @@ window.allHeroes =
             "Toon: 75% extra chance to resist all status ailments, mana reductions and buff dispels."
         ],
         "family": "classic",
-        "image": "https://i.imgur.com/SWdSWFa.jpg",
         "costume_id": 2,
         "originalIndex": 918,
         "lb1": {
@@ -60359,6 +60359,7 @@ window.allHeroes =
         "source": "Challenge Festival I",
         "Release date": "2021-12-15",
         "specialId": "valuable_contribution",
+        "heroId": "wonderland_phoenicus",
         "star": 3,
         "power": 481,
         "attack": 446,
@@ -60370,7 +60371,6 @@ window.allHeroes =
         ],
         "passives": [],
         "family": "wonderland",
-        "image": "https://i.imgur.com/zBoeoLf.jpg",
         "costume_id": 0,
         "originalIndex": 919,
         "lb1": {
@@ -60416,6 +60416,7 @@ window.allHeroes =
         "source": "Alliance - Moths",
         "Release date": "2025-01-23",
         "specialId": "joyful_palette",
+        "heroId": "moth_rosepetite",
         "star": 3,
         "power": 503,
         "attack": 512,
@@ -60429,7 +60430,6 @@ window.allHeroes =
             "Dodge Special Damage: This character has a 15% chance to dodge Special Skills that deal damage."
         ],
         "family": "moth",
-        "image": "https://i.imgur.com/1hAn4iO.jpg",
         "costume_id": 0,
         "originalIndex": 920,
         "lb1": {
@@ -60484,6 +60484,7 @@ window.allHeroes =
         "source": "Monthly Event - Winter",
         "Release date": "2018-12-02",
         "specialId": "horn_attack",
+        "heroId": "christmas_reindeer",
         "star": 3,
         "power": 448,
         "attack": 540,
@@ -60496,7 +60497,6 @@ window.allHeroes =
         ],
         "passives": [],
         "family": "christmas",
-        "image": "https://i.imgur.com/mEYb8Ac.jpg",
         "costume_id": 0,
         "originalIndex": 921,
         "lb1": {
@@ -60546,6 +60546,7 @@ window.allHeroes =
         "source": "Challenge Festival II",
         "Release date": "2022-11-03",
         "specialId": "furry_loggers_swing",
+        "heroId": "mighty_pet_rufus",
         "star": 3,
         "power": 484,
         "attack": 502,
@@ -60561,7 +60562,6 @@ window.allHeroes =
             "When a Fiend is summoned to any enemy, this character deals 85% damage to all enemies. This effect can activate only once per turn."
         ],
         "family": "pets",
-        "image": "https://i.imgur.com/nTxGQkg.jpg",
         "costume_id": 0,
         "originalIndex": 922,
         "lb1": {
@@ -60610,6 +60610,7 @@ window.allHeroes =
         "source": "Challenge Festival II",
         "Release date": "2021-02-11",
         "specialId": "mad_rat_mania",
+        "heroId": "villain_skrekok",
         "star": 3,
         "power": 476,
         "attack": 493,
@@ -60621,7 +60622,6 @@ window.allHeroes =
         ],
         "passives": [],
         "family": "villains",
-        "image": "https://i.imgur.com/e258l3c.jpg",
         "costume_id": 0,
         "originalIndex": 923,
         "lb1": {
@@ -60667,6 +60667,7 @@ window.allHeroes =
         "source": "Monthly Event - Springvale",
         "Release date": "2018-03-28",
         "specialId": "compact_lance",
+        "heroId": "easter_chick_jr",
         "star": 3,
         "power": 445,
         "attack": 538,
@@ -60678,7 +60679,6 @@ window.allHeroes =
         ],
         "passives": [],
         "family": "springvale",
-        "image": "https://i.imgur.com/545SVXP.jpg",
         "costume_id": 0,
         "originalIndex": 924,
         "lb1": {
@@ -60726,6 +60726,7 @@ window.allHeroes =
         "source": "Astral Summon",
         "Release date": "2024-03-07",
         "specialId": "starplay",
+        "heroId": "astral_starswift",
         "star": 3,
         "power": 489,
         "attack": 519,
@@ -60741,7 +60742,6 @@ window.allHeroes =
             "Share Received Damage: 20% of damage received by this charater is shared  with other allies."
         ],
         "family": "astralelves",
-        "image": "https://i.imgur.com/M18GizO.jpg",
         "costume_id": 0,
         "originalIndex": 925,
         "lb1": {
@@ -60792,6 +60792,7 @@ window.allHeroes =
         "source": "S3 - Valhalla",
         "Release date": "2020-05-28",
         "specialId": "burning_shields",
+        "heroId": "s3_sudri",
         "star": 3,
         "power": 462,
         "attack": 439,
@@ -60803,7 +60804,6 @@ window.allHeroes =
         ],
         "passives": [],
         "family": "muspelheim",
-        "image": "https://i.imgur.com/kbwg0o2.jpg",
         "costume_id": 0,
         "originalIndex": 926,
         "lb1": {
@@ -60849,6 +60849,7 @@ window.allHeroes =
         "source": "S4 - Wilderness",
         "Release date": "2021-03-25",
         "specialId": "thresher_worms",
+        "heroId": "s4_vollermork",
         "star": 3,
         "power": 478,
         "attack": 476,
@@ -60862,7 +60863,6 @@ window.allHeroes =
             "Start Battle with Mana: This character receives 20% mana at the start of the battle."
         ],
         "family": "underwild",
-        "image": "https://i.imgur.com/mAw3KL3.jpg",
         "costume_id": 0,
         "originalIndex": 927,
         "lb1": {
@@ -60903,6 +60903,7 @@ window.allHeroes =
         "source": "S4 - Wilderness",
         "Release date": "2024-04-25",
         "specialId": "thresher_worms",
+        "heroId": "s4_vollermork_costume_bartender",
         "star": 3,
         "power": 488,
         "attack": 485,
@@ -60916,7 +60917,6 @@ window.allHeroes =
             "Start Battle with Mana: This character receives 20% mana at the start of the battle."
         ],
         "family": "underwild",
-        "image": "https://i.imgur.com/RK5dZz5.jpg",
         "costume_id": 1,
         "originalIndex": 928,
         "lb1": {
@@ -60958,6 +60958,7 @@ window.allHeroes =
         "source": "S5 - Dune",
         "Release date": "2022-04-21",
         "specialId": "unyielding_protector",
+        "heroId": "s5_waqas",
         "star": 3,
         "power": 483,
         "attack": 535,
@@ -60973,7 +60974,6 @@ window.allHeroes =
             " * All enemies get -34% attack for 3 turns."
         ],
         "family": "sun",
-        "image": "https://i.imgur.com/CWQ9rw6.jpg",
         "costume_id": 0,
         "originalIndex": 929,
         "lb1": {
@@ -61020,6 +61020,7 @@ window.allHeroes =
         "source": "S5 - Dune",
         "Release date": "2025-04-14",
         "specialId": "unyielding_protector",
+        "heroId": "s5_waqas_costume_blade",
         "star": 3,
         "power": 494,
         "attack": 575,
@@ -61037,7 +61038,6 @@ window.allHeroes =
             "Mana on Health Boosting Special Skill: This character gains 5% mana each time an enemy casts a Special Skill that directly boosts health."
         ],
         "family": "sun",
-        "image": "https://imgur.com/W7OyLyj.jpg",
         "costume_id": 1,
         "originalIndex": 930,
         "lb1": {
@@ -61090,6 +61090,7 @@ window.allHeroes =
         "source": "Challenge Festival II",
         "Release date": "2021-08-05",
         "specialId": "wily_wisps",
+        "heroId": "slayer_aodhan",
         "star": 4,
         "power": 677,
         "attack": 626,
@@ -61106,7 +61107,6 @@ window.allHeroes =
             "Resist Damage from Status Effects: This charater has innate resistance against incoming damage from status effects."
         ],
         "family": "slayer",
-        "image": "https://i.imgur.com/81JNp9d.jpg",
         "costume_id": 0,
         "originalIndex": 931,
         "lb1": {
@@ -61159,6 +61159,7 @@ window.allHeroes =
         "source": "S1 - Classic",
         "Release date": "2017-03-01",
         "specialId": "warcry",
+        "heroId": "orc_gladiator",
         "star": 4,
         "power": 644,
         "attack": 588,
@@ -61170,7 +61171,6 @@ window.allHeroes =
         ],
         "passives": [],
         "family": "classic",
-        "image": "https://i.imgur.com/K7cfOtS.jpg",
         "costume_id": 0,
         "originalIndex": 932,
         "lb1": {
@@ -61217,6 +61217,7 @@ window.allHeroes =
         "source": "Costume Quest",
         "Release date": "2020-01-01",
         "specialId": "warcry",
+        "heroId": "orc_gladiator_costume_chef",
         "star": 4,
         "power": 690,
         "attack": 633,
@@ -61228,7 +61229,6 @@ window.allHeroes =
         ],
         "passives": [],
         "family": "classic",
-        "image": "https://i.imgur.com/ZFrdT4t.jpg",
         "costume_id": 1,
         "originalIndex": 933,
         "lb1": {
@@ -61276,6 +61276,7 @@ window.allHeroes =
         "source": "Costume Quest",
         "Release date": "2023-06-12",
         "specialId": "warcry",
+        "heroId": "orc_gladiator_costume_sage",
         "star": 4,
         "power": 736,
         "attack": 688,
@@ -61287,7 +61288,6 @@ window.allHeroes =
         ],
         "passives": [],
         "family": "classic",
-        "image": "https://i.imgur.com/T4p2FAB.jpg",
         "costume_id": 2,
         "originalIndex": 934,
         "lb1": {
@@ -61335,6 +61335,7 @@ window.allHeroes =
         "source": "Costume Quest",
         "Release date": "2023-12-25",
         "specialId": "warcry",
+        "heroId": "orc_gladiator_costume_cute",
         "star": 4,
         "power": 748,
         "attack": 698,
@@ -61348,7 +61349,6 @@ window.allHeroes =
             "Toon: 75% extra chance to resist all status ailments, mana reductions and buff dispels."
         ],
         "family": "classic",
-        "image": "https://i.imgur.com/ufJrKaD.jpg",
         "costume_id": 3,
         "originalIndex": 935,
         "lb1": {
@@ -61398,6 +61398,7 @@ window.allHeroes =
         "source": "Costume Quest",
         "Release date": "2024-12-25",
         "specialId": "warcry",
+        "heroId": "orc_gladiator_costume_glass",
         "star": 4,
         "power": 761,
         "attack": 708,
@@ -61412,7 +61413,6 @@ window.allHeroes =
             "Glass: 60% extra chance to reflect status ailments back to the attacker."
         ],
         "family": "classic",
-        "image": "https://i.imgur.com/lVwUo5n.jpg",
         "costume_id": 4,
         "originalIndex": 936,
         "lb1": {
@@ -61462,6 +61462,7 @@ window.allHeroes =
         "source": "Monthly Event - Winter",
         "Release date": "2020-12-01",
         "specialId": "perilous_gift",
+        "heroId": "christmas_carol",
         "star": 4,
         "power": 674,
         "attack": 624,
@@ -61474,7 +61475,6 @@ window.allHeroes =
         ],
         "passives": [],
         "family": "christmas",
-        "image": "https://i.imgur.com/rj2dz3k.jpg",
         "costume_id": 0,
         "originalIndex": 937,
         "lb1": {
@@ -61523,6 +61523,7 @@ window.allHeroes =
         "source": "Challenge Festival II",
         "Release date": "2021-08-05",
         "specialId": "reanimated_spite",
+        "heroId": "slayer_cillian",
         "star": 4,
         "power": 677,
         "attack": 631,
@@ -61538,7 +61539,6 @@ window.allHeroes =
             "Resist Damage from Status Effects: This charater has innate resistance against incoming damage from status effects."
         ],
         "family": "slayer",
-        "image": "https://i.imgur.com/ema4TPc.jpg",
         "costume_id": 0,
         "originalIndex": 938,
         "lb1": {
@@ -61587,6 +61587,7 @@ window.allHeroes =
         "source": "S1 - Classic",
         "Release date": "2017-03-01",
         "specialId": "fire_storm",
+        "heroId": "nomad_axe_adventurer",
         "star": 4,
         "power": 643,
         "attack": 728,
@@ -61598,7 +61599,6 @@ window.allHeroes =
         ],
         "passives": [],
         "family": "classic",
-        "image": "https://i.imgur.com/eqgOQXS.jpg",
         "costume_id": 0,
         "originalIndex": 939,
         "lb1": {
@@ -61646,6 +61646,7 @@ window.allHeroes =
         "source": "Costume Quest",
         "Release date": "2021-01-18",
         "specialId": "fire_storm",
+        "heroId": "nomad_axe_adventurer_costume_magma",
         "star": 4,
         "power": 688,
         "attack": 786,
@@ -61657,7 +61658,6 @@ window.allHeroes =
         ],
         "passives": [],
         "family": "classic",
-        "image": "https://i.imgur.com/pAWbbb8.jpg",
         "costume_id": 1,
         "originalIndex": 940,
         "lb1": {
@@ -61706,6 +61706,7 @@ window.allHeroes =
         "source": "Costume Quest",
         "Release date": "2023-06-12",
         "specialId": "fire_storm",
+        "heroId": "nomad_axe_adventurer_costume_tracker",
         "star": 4,
         "power": 733,
         "attack": 828,
@@ -61718,7 +61719,6 @@ window.allHeroes =
         ],
         "passives": [],
         "family": "classic",
-        "image": "https://i.imgur.com/2DIxTGe.jpg",
         "costume_id": 2,
         "originalIndex": 941,
         "lb1": {
@@ -61771,6 +61771,7 @@ window.allHeroes =
         "source": "Costume Quest",
         "Release date": "2024-03-11",
         "specialId": "fire_storm",
+        "heroId": "nomad_axe_adventurer_costume_cute",
         "star": 4,
         "power": 746,
         "attack": 842,
@@ -61785,7 +61786,6 @@ window.allHeroes =
             "Toon: 75% extra chance to resist all status ailments, mana reductions and buff dispels."
         ],
         "family": "classic",
-        "image": "https://i.imgur.com/swTTE4N.jpg",
         "costume_id": 3,
         "originalIndex": 942,
         "lb1": {
@@ -61840,6 +61840,7 @@ window.allHeroes =
         "source": "Costume Quest",
         "Release date": "2025-04-08",
         "specialId": "fire_storm",
+        "heroId": "nomad_axe_adventurer_costume_glass",
         "star": 4,
         "power": 758,
         "attack": 879,
@@ -61854,7 +61855,6 @@ window.allHeroes =
             "Glass: 60% extra chance to reflect status ailments back to the attacker."
         ],
         "family": "classic",
-        "image": "https://imgur.com/7dLF49j.jpg",
         "costume_id": 4,
         "originalIndex": 943,
         "lb1": {
@@ -61907,6 +61907,7 @@ window.allHeroes =
         "source": "Challenge Festival II",
         "Release date": "2021-06-10",
         "specialId": "pompous_flex",
+        "heroId": "circus_eichbelborg",
         "star": 4,
         "power": 676,
         "attack": 637,
@@ -61918,7 +61919,6 @@ window.allHeroes =
         ],
         "passives": [],
         "family": "starfall",
-        "image": "https://i.imgur.com/B0oW04d.jpg",
         "costume_id": 0,
         "originalIndex": 944,
         "lb1": {
@@ -61964,6 +61964,7 @@ window.allHeroes =
         "source": "Alliance - Knights Clash",
         "Release date": "2021-10-13",
         "specialId": "feral_revenge",
+        "heroId": "castle_wolf_ferant",
         "star": 4,
         "power": 680,
         "attack": 635,
@@ -61975,7 +61976,6 @@ window.allHeroes =
         ],
         "passives": [],
         "family": "wolf",
-        "image": "https://i.imgur.com/iJhZeCK.jpg",
         "costume_id": 0,
         "originalIndex": 945,
         "lb1": {
@@ -62021,6 +62021,7 @@ window.allHeroes =
         "source": "Alliance - Knights Clash",
         "Release date": "2024-12-17",
         "specialId": "feral_revenge",
+        "heroId": "castle_wolf_ferant_costume_fire",
         "star": 4,
         "power": 719,
         "attack": 664,
@@ -62034,7 +62035,6 @@ window.allHeroes =
             "Ability: Increased Status Effect Duration Chance to increase the duration of cast status effects. * +1 turn: 75% * +2 turns: 25%"
         ],
         "family": "wolf",
-        "image": "https://i.imgur.com/f9WxEPE.jpg",
         "costume_id": 1,
         "originalIndex": 946,
         "lb1": {
@@ -62081,6 +62081,7 @@ window.allHeroes =
         "source": "S1 - Classic",
         "Release date": "2017-03-01",
         "specialId": "ramming_pulverizer",
+        "heroId": "orc_troopmaster",
         "star": 4,
         "power": 642,
         "attack": 569,
@@ -62092,7 +62093,6 @@ window.allHeroes =
         ],
         "passives": [],
         "family": "classic",
-        "image": "https://i.imgur.com/A5zsfun.jpg",
         "costume_id": 0,
         "originalIndex": 947,
         "lb1": {
@@ -62140,6 +62140,7 @@ window.allHeroes =
         "source": "Costume Quest",
         "Release date": "2021-01-18",
         "specialId": "ramming_pulverizer",
+        "heroId": "orc_troopmaster_costume_merchant",
         "star": 4,
         "power": 689,
         "attack": 622,
@@ -62152,7 +62153,6 @@ window.allHeroes =
         ],
         "passives": [],
         "family": "classic",
-        "image": "https://i.imgur.com/OxaIMH8.jpg",
         "costume_id": 1,
         "originalIndex": 948,
         "lb1": {
@@ -62200,6 +62200,7 @@ window.allHeroes =
         "source": "Costume Quest",
         "Release date": "2023-04-17",
         "specialId": "ramming_pulverizer",
+        "heroId": "orc_troopmaster_costume_gourmet",
         "star": 4,
         "power": 735,
         "attack": 732,
@@ -62211,7 +62212,6 @@ window.allHeroes =
         ],
         "passives": [],
         "family": "classic",
-        "image": "https://i.imgur.com/6XbZQ2N.jpg",
         "costume_id": 2,
         "originalIndex": 949,
         "lb1": {
@@ -62259,6 +62259,7 @@ window.allHeroes =
         "source": "Costume Quest",
         "Release date": "2024-05-06",
         "specialId": "ramming_pulverizer",
+        "heroId": "orc_troopmaster_costume_cute",
         "star": 4,
         "power": 747,
         "attack": 641,
@@ -62273,7 +62274,6 @@ window.allHeroes =
             "Toon: 75% extra chance to resist all status ailments, mana reductions and buff dispels."
         ],
         "family": "classic",
-        "image": "https://i.imgur.com/WFeaXms.jpg",
         "costume_id": 3,
         "originalIndex": 950,
         "lb1": {
@@ -62328,6 +62328,7 @@ window.allHeroes =
         "source": "Costume Quest",
         "Release date": "2025-05-10",
         "specialId": "ramming_pulverizer",
+        "heroId": "orc_troopmaster_costume_glass",
         "star": 4,
         "power": 760,
         "attack": 656,
@@ -62342,7 +62343,6 @@ window.allHeroes =
             "Glass: 60% extra chance to reflect status ailments back to the attacker."
         ],
         "family": "classic",
-        "image": "https://imgur.com/k3y9GLJ.jpg",
         "costume_id": 4,
         "originalIndex": 951,
         "lb1": {
@@ -62394,6 +62394,7 @@ window.allHeroes =
         "source": "Challenge Festival I",
         "Release date": "2017-10-05",
         "specialId": "blazing_beak",
+        "heroId": "guardian_falcon_priest",
         "star": 4,
         "power": 646,
         "attack": 552,
@@ -62405,7 +62406,6 @@ window.allHeroes =
         ],
         "passives": [],
         "family": "guardiansteltoc",
-        "image": "https://i.imgur.com/osWU4RP.jpg",
         "costume_id": 0,
         "originalIndex": 952,
         "lb1": {
@@ -62453,6 +62453,7 @@ window.allHeroes =
         "source": "Monthly Event - Beach Party",
         "Release date": "2023-06-12",
         "specialId": "cannonball_splash",
+        "heroId": "beachparty_itham",
         "star": 4,
         "power": 686,
         "attack": 671,
@@ -62468,7 +62469,6 @@ window.allHeroes =
             "Resist Water Damage: This character has innate resistance against Water  Damage."
         ],
         "family": "beachparty",
-        "image": "https://i.imgur.com/7w0kLrp.jpg",
         "costume_id": 0,
         "originalIndex": 953,
         "lb1": {
@@ -62520,6 +62520,7 @@ window.allHeroes =
         "source": "S5 - Dune",
         "Release date": "2022-04-21",
         "specialId": "slash_and_support",
+        "heroId": "s5_junaid",
         "star": 4,
         "power": 683,
         "attack": 748,
@@ -62535,7 +62536,6 @@ window.allHeroes =
             " * All enemies get -24% mana generation for 3 turns."
         ],
         "family": "moon",
-        "image": "https://i.imgur.com/9XxU54s.jpg",
         "costume_id": 0,
         "originalIndex": 954,
         "lb1": {
@@ -62578,6 +62578,7 @@ window.allHeroes =
         "source": "S5 - Dune",
         "Release date": "2024-11-01",
         "specialId": "slash_and_support",
+        "heroId": "s5_junaid_costume_champion",
         "star": 4,
         "power": 700,
         "attack": 719,
@@ -62595,7 +62596,6 @@ window.allHeroes =
             "Resist Sand Damage: This character has innate resistance against sand damage."
         ],
         "family": "moon",
-        "image": "https://i.imgur.com/4PhQKkZ.jpg",
         "costume_id": 1,
         "originalIndex": 955,
         "lb1": {
@@ -62638,6 +62638,7 @@ window.allHeroes =
         "source": "S1 - Classic",
         "Release date": "2017-03-01",
         "specialId": "dance_of_fire",
+        "heroId": "nomad_female_berserker",
         "star": 4,
         "power": 644,
         "attack": 675,
@@ -62649,7 +62650,6 @@ window.allHeroes =
         ],
         "passives": [],
         "family": "classic",
-        "image": "https://i.imgur.com/g0FkZzQ.jpg",
         "costume_id": 0,
         "originalIndex": 956,
         "lb1": {
@@ -62695,6 +62695,7 @@ window.allHeroes =
         "source": "Costume Quest",
         "Release date": "2021-01-18",
         "specialId": "dance_of_fire",
+        "heroId": "nomad_female_berserker_costume_shaman",
         "star": 4,
         "power": 688,
         "attack": 760,
@@ -62705,7 +62706,6 @@ window.allHeroes =
         ],
         "passives": [],
         "family": "classic",
-        "image": "https://i.imgur.com/EFoCGqV.jpg",
         "costume_id": 1,
         "originalIndex": 957,
         "lb1": {
@@ -62754,6 +62754,7 @@ window.allHeroes =
         "source": "Costume Quest",
         "Release date": "2022-09-05",
         "specialId": "dance_of_fire",
+        "heroId": "nomad_female_berserker_costume_sorceress",
         "star": 4,
         "power": 734,
         "attack": 788,
@@ -62765,7 +62766,6 @@ window.allHeroes =
         ],
         "passives": [],
         "family": "classic",
-        "image": "https://i.imgur.com/46HnfAG.jpg",
         "costume_id": 2,
         "originalIndex": 958,
         "lb1": {
@@ -62819,6 +62819,7 @@ window.allHeroes =
         "source": "Costume Quest",
         "Release date": "2024-04-08",
         "specialId": "dance_of_fire",
+        "heroId": "nomad_female_berserker_costume_cute",
         "star": 4,
         "power": 746,
         "attack": 815,
@@ -62833,7 +62834,6 @@ window.allHeroes =
             "Toon: 75% extra chance to resist all status ailments, mana reductions and buff dispels."
         ],
         "family": "classic",
-        "image": "https://i.imgur.com/nj44opt.jpg",
         "costume_id": 3,
         "originalIndex": 959,
         "lb1": {
@@ -62888,6 +62888,7 @@ window.allHeroes =
         "source": "Costume Quest",
         "Release date": "2025-04-23",
         "specialId": "dance_of_fire",
+        "heroId": "nomad_female_berserker_costume_glass",
         "star": 4,
         "power": 758,
         "attack": 838,
@@ -62902,7 +62903,6 @@ window.allHeroes =
             "Glass: 60% extra chance to reflect status ailments back to the attacker."
         ],
         "family": "classic",
-        "image": "https://imgur.com/yqIwVAP.jpg",
         "costume_id": 4,
         "originalIndex": 960,
         "lb1": {
@@ -62955,6 +62955,7 @@ window.allHeroes =
         "source": "Monthly Event - Kalevala",
         "Release date": "2022-06-20",
         "specialId": "flaming_sword",
+        "heroId": "kalevala_lemminkainen",
         "star": 4,
         "power": 682,
         "attack": 646,
@@ -62968,7 +62969,6 @@ window.allHeroes =
             "Power of Sisu: When this character starts a turn with low health for the first time during a battle, they recover 15% health and receive 15% mana."
         ],
         "family": "kalevala",
-        "image": "https://i.imgur.com/f4cHfqp.jpg",
         "costume_id": 0,
         "originalIndex": 961,
         "lb1": {
@@ -63016,6 +63016,7 @@ window.allHeroes =
         "source": "Monthly Event - Kalevala",
         "Release date": "2025-07-28",
         "specialId": "flaming_sword",
+        "heroId": "kalevala_lemminkainen_costume_swan",
         "star": 4,
         "power": 707,
         "attack": 671,
@@ -63029,7 +63030,6 @@ window.allHeroes =
             "Power of Sisu: When this character starts a turn with low health for the first time during a battle, they recover 15% health and receive 15% mana."
         ],
         "family": "kalevala",
-        "image": "https://imgur.com/Dbr4leC.jpg",
         "costume_id": 1,
         "originalIndex": 962,
         "lb1": {
@@ -63081,6 +63081,7 @@ window.allHeroes =
         "source": "Tower - Magic",
         "Release date": "2023-05-03",
         "specialId": "mageball_blast",
+        "heroId": "magic_lucy",
         "star": 4,
         "power": 686,
         "attack": 658,
@@ -63100,7 +63101,6 @@ window.allHeroes =
             "When this character casts their Special Skill, they have a 50% chance to  recover 15% health for all allies. If the Special Skill is fully charged,  the chance is 100%."
         ],
         "family": "magic",
-        "image": "https://i.imgur.com/j3M4iy4.jpg",
         "costume_id": 0,
         "originalIndex": 963,
         "lb1": {
@@ -63154,6 +63154,7 @@ window.allHeroes =
         "source": "S4 - Wilderness",
         "Release date": "2021-03-25",
         "specialId": "halflings_wit",
+        "heroId": "s4_mack",
         "star": 4,
         "power": 677,
         "attack": 646,
@@ -63167,7 +63168,6 @@ window.allHeroes =
             "Increase Buff Duration: Duration of the first 3 buff this hero receives from Special Skills is increased by 1 turn."
         ],
         "family": "underwild",
-        "image": "https://i.imgur.com/nafpwvj.jpg",
         "costume_id": 0,
         "originalIndex": 964,
         "lb1": {
@@ -63210,6 +63210,7 @@ window.allHeroes =
         "source": "S4 - Wilderness",
         "Release date": "2024-05-23",
         "specialId": "halflings_wit",
+        "heroId": "s4_mack_costume_novelist",
         "star": 4,
         "power": 692,
         "attack": 658,
@@ -63223,7 +63224,6 @@ window.allHeroes =
             "Increase Buff Duration: Duration of the first 3 buff this hero receives from Special Skills is increased by 1 turn."
         ],
         "family": "underwild",
-        "image": "https://i.imgur.com/piqOqpg.jpg",
         "costume_id": 1,
         "originalIndex": 965,
         "lb1": {
@@ -63267,6 +63267,7 @@ window.allHeroes =
         "source": "Monster Island Summon",
         "Release date": "2022-08-25",
         "specialId": "claws_of_the_hunter",
+        "heroId": "monster_hunter_maheegan",
         "star": 4,
         "power": 684,
         "attack": 656,
@@ -63282,7 +63283,6 @@ window.allHeroes =
             "Special Skill damage reduction: This character has a 10% chance to drop the direct damage received from Special Skills to 1."
         ],
         "family": "plainshunter",
-        "image": "https://i.imgur.com/c554xVo.jpg",
         "costume_id": 0,
         "originalIndex": 966,
         "lb1": {
@@ -63332,6 +63332,7 @@ window.allHeroes =
         "source": "Tower - Magic",
         "Release date": "2025-04-17",
         "specialId": "kindled_carpet",
+        "heroId": "magic_carpet_manpip",
         "star": 4,
         "power": 737,
         "attack": 754,
@@ -63350,7 +63351,6 @@ window.allHeroes =
             "Weaker Mega Minions: Enemy Mega Minions have -75% HP."
         ],
         "family": "magiccarpet",
-        "image": "https://imgur.com/xf2xQFV.jpg",
         "costume_id": 0,
         "originalIndex": 967,
         "lb1": {
@@ -63405,6 +63405,7 @@ window.allHeroes =
         "source": "Super Elementals",
         "Release date": "2023-10-09",
         "specialId": "healing_fire_spirits",
+        "heroId": "elemental_nova",
         "star": 4,
         "power": 691,
         "attack": 643,
@@ -63423,7 +63424,6 @@ window.allHeroes =
             " - Received elemental damage: -10%"
         ],
         "family": "superelemental",
-        "image": "https://i.imgur.com/bsearKJ.jpg",
         "costume_id": 0,
         "originalIndex": 968,
         "lb1": {
@@ -63480,6 +63480,7 @@ window.allHeroes =
         "source": "Challenge - Secrets of the Opera",
         "Release date": "2023-11-30",
         "specialId": "ballad_of_attraction",
+        "heroId": "ballerina_raul",
         "star": 4,
         "power": 691,
         "attack": 750,
@@ -63499,7 +63500,6 @@ window.allHeroes =
             "Resist Attack Ailments: This character has innate resistance against status  ailments that affect attack."
         ],
         "family": "opera",
-        "image": "https://i.imgur.com/QmSXHcR.jpg",
         "costume_id": 0,
         "originalIndex": 969,
         "lb1": {
@@ -63549,6 +63549,7 @@ window.allHeroes =
         "source": "S4 - Wilderness",
         "Release date": "2021-03-25",
         "specialId": "blind_rage",
+        "heroId": "s4_rokkamush",
         "star": 4,
         "power": 677,
         "attack": 707,
@@ -63562,7 +63563,6 @@ window.allHeroes =
             "Decrease Ailment Duration: Duration of the first 3 status ailments this character receives from Special Skill is decreased by 1 turn."
         ],
         "family": "underwild",
-        "image": "https://i.imgur.com/dOWSQgd.jpg",
         "costume_id": 0,
         "originalIndex": 970,
         "lb1": {
@@ -63611,6 +63611,7 @@ window.allHeroes =
         "source": "S4 - Wilderness",
         "Release date": "2024-04-25",
         "specialId": "blind_rage",
+        "heroId": "s4_rokkamush_costume_mason",
         "star": 4,
         "power": 692,
         "attack": 725,
@@ -63624,7 +63625,6 @@ window.allHeroes =
             "Decrease Ailment Duration: Duration of the first 3 status ailments this character receives from Special Skill is decreased by 1 turn."
         ],
         "family": "underwild",
-        "image": "https://i.imgur.com/AXlFl5t.jpg",
         "costume_id": 1,
         "originalIndex": 971,
         "lb1": {
@@ -63672,6 +63672,7 @@ window.allHeroes =
         "source": "S1 - Classic",
         "Release date": "2017-03-01",
         "specialId": "blade_barrage",
+        "heroId": "nomad_female_assassin",
         "star": 4,
         "power": 640,
         "attack": 767,
@@ -63683,7 +63684,6 @@ window.allHeroes =
         ],
         "passives": [],
         "family": "classic",
-        "image": "https://i.imgur.com/rridBLP.jpg",
         "costume_id": 0,
         "originalIndex": 972,
         "lb1": {
@@ -63732,6 +63732,7 @@ window.allHeroes =
         "source": "Costume Quest",
         "Release date": "2021-01-18",
         "specialId": "blade_barrage",
+        "heroId": "nomad_female_assassin_costume_poison",
         "star": 4,
         "power": 685,
         "attack": 784,
@@ -63744,7 +63745,6 @@ window.allHeroes =
         ],
         "passives": [],
         "family": "classic",
-        "image": "https://i.imgur.com/t5Qcm7v.jpg",
         "costume_id": 1,
         "originalIndex": 973,
         "lb1": {
@@ -63798,6 +63798,7 @@ window.allHeroes =
         "source": "Costume Quest",
         "Release date": "2023-10-30",
         "specialId": "blade_barrage",
+        "heroId": "nomad_female_assassin_costume_dancer",
         "star": 4,
         "power": 731,
         "attack": 862,
@@ -63809,7 +63810,6 @@ window.allHeroes =
         ],
         "passives": [],
         "family": "classic",
-        "image": "https://i.imgur.com/Zxh18lV.jpg",
         "costume_id": 2,
         "originalIndex": 974,
         "lb1": {
@@ -63857,6 +63857,7 @@ window.allHeroes =
         "source": "Costume Quest",
         "Release date": "2024-08-11",
         "specialId": "blade_barrage",
+        "heroId": "nomad_female_assassin_costume_cute",
         "star": 4,
         "power": 743,
         "attack": 842,
@@ -63871,7 +63872,6 @@ window.allHeroes =
             "Toon: 75% extra chance to resist all status ailments, mana reductions and buff dispels."
         ],
         "family": "classic",
-        "image": "https://i.imgur.com/uv68SUQ.jpg",
         "costume_id": 3,
         "originalIndex": 975,
         "lb1": {
@@ -63923,6 +63923,7 @@ window.allHeroes =
         "source": "S3 - Valhalla",
         "Release date": "2020-05-28",
         "specialId": "eternal_servitude",
+        "heroId": "s3_shadereave",
         "star": 4,
         "power": 661,
         "attack": 595,
@@ -63939,7 +63940,6 @@ window.allHeroes =
         ],
         "passives": [],
         "family": "helheim",
-        "image": "https://i.imgur.com/t4qsaZf.jpg",
         "costume_id": 0,
         "originalIndex": 976,
         "lb1": {
@@ -63988,6 +63988,7 @@ window.allHeroes =
         "source": "Tower - Ninjas",
         "Release date": "2020-10-13",
         "specialId": "channel_ki",
+        "heroId": "ninja_shale",
         "star": 4,
         "power": 670,
         "attack": 603,
@@ -64006,7 +64007,6 @@ window.allHeroes =
         ],
         "passives": [],
         "family": "ninja",
-        "image": "https://i.imgur.com/MtPyEOT.jpg",
         "costume_id": 0,
         "originalIndex": 977,
         "lb1": {
@@ -64055,6 +64055,7 @@ window.allHeroes =
         "source": "Challenge Festival I",
         "Release date": "2018-01-05",
         "specialId": "inspiring_fencing",
+        "heroId": "knights_sir_lancelot",
         "star": 4,
         "power": 645,
         "attack": 756,
@@ -64067,7 +64068,6 @@ window.allHeroes =
         ],
         "passives": [],
         "family": "avalon",
-        "image": "https://i.imgur.com/zyZ5m0r.jpg",
         "costume_id": 0,
         "originalIndex": 978,
         "lb1": {
@@ -64117,6 +64117,7 @@ window.allHeroes =
         "source": "S2 - Atlantis",
         "Release date": "2019-08-01",
         "specialId": "oji_waza",
+        "heroId": "s2_demon_master",
         "star": 4,
         "power": 650,
         "attack": 665,
@@ -64129,7 +64130,6 @@ window.allHeroes =
         ],
         "passives": [],
         "family": "sakura",
-        "image": "https://i.imgur.com/qnIyV2j.jpg",
         "costume_id": 0,
         "originalIndex": 979,
         "lb1": {
@@ -64179,6 +64179,7 @@ window.allHeroes =
         "source": "S2 - Atlantis",
         "Release date": "2023-04-03",
         "specialId": "oji_waza",
+        "heroId": "s2_demon_master_costume_steppe",
         "star": 4,
         "power": 671,
         "attack": 649,
@@ -64191,7 +64192,6 @@ window.allHeroes =
         ],
         "passives": [],
         "family": "sakura",
-        "image": "https://i.imgur.com/kQW2sKb.jpg",
         "costume_id": 1,
         "originalIndex": 980,
         "lb1": {
@@ -64239,6 +64239,7 @@ window.allHeroes =
         "source": "S3 - Valhalla",
         "Release date": "2020-02-27",
         "specialId": "magma_boulders",
+        "heroId": "s3_sumle",
         "star": 4,
         "power": 662,
         "attack": 716,
@@ -64250,7 +64251,6 @@ window.allHeroes =
         ],
         "passives": [],
         "family": "muspelheim",
-        "image": "https://i.imgur.com/yxQi63p.jpg",
         "costume_id": 0,
         "originalIndex": 981,
         "lb1": {
@@ -64297,6 +64297,7 @@ window.allHeroes =
         "source": "S3 - Valhalla",
         "Release date": "2022-07-04",
         "specialId": "magma_boulders",
+        "heroId": "s3_sumle_costume_unhallowed",
         "star": 4,
         "power": 683,
         "attack": 722,
@@ -64308,7 +64309,6 @@ window.allHeroes =
         ],
         "passives": [],
         "family": "muspelheim",
-        "image": "https://i.imgur.com/BBcd7nx.jpg",
         "costume_id": 1,
         "originalIndex": 982,
         "lb1": {
@@ -64355,6 +64355,7 @@ window.allHeroes =
         "source": "Three Kingdoms Summon",
         "Release date": "2022-03-14",
         "specialId": "royal_blades",
+        "heroId": "kingdom_sun_shangxiang",
         "star": 4,
         "power": 682,
         "attack": 782,
@@ -64366,7 +64367,6 @@ window.allHeroes =
         ],
         "passives": [],
         "family": "kingdom",
-        "image": "https://i.imgur.com/H5PMlvf.jpg",
         "costume_id": 0,
         "originalIndex": 983,
         "lb1": {
@@ -64417,6 +64417,7 @@ window.allHeroes =
         "source": "Challenge - Gargoyle",
         "Release date": "2024-10-17",
         "specialId": "firing_on_all_cylinders",
+        "heroId": "gargoyle_vonreine",
         "star": 4,
         "power": 702,
         "attack": 707,
@@ -64432,7 +64433,6 @@ window.allHeroes =
             "Gargoyle’s Stoneskin: Every time this Gargoyle casts a Special Skill, their Stoneskin hardens. The next 4 times they receive damage, it is reduced by -90%, and they resist all status ailment and mana reduction. This effect can’t be dispelled."
         ],
         "family": "gargoyle",
-        "image": "https://i.imgur.com/rPeRNSA.jpg",
         "costume_id": 0,
         "originalIndex": 984,
         "lb1": {
@@ -64487,6 +64487,7 @@ window.allHeroes =
         "source": "S2 - Atlantis",
         "Release date": "2019-08-01",
         "specialId": "spiritual_unity",
+        "heroId": "s2_rugged_fisherman",
         "star": 4,
         "power": 649,
         "attack": 605,
@@ -64500,7 +64501,6 @@ window.allHeroes =
         ],
         "passives": [],
         "family": "lagoon",
-        "image": "https://i.imgur.com/EjclF3b.jpg",
         "costume_id": 0,
         "originalIndex": 985,
         "lb1": {
@@ -64548,6 +64548,7 @@ window.allHeroes =
         "source": "S2 - Atlantis",
         "Release date": "2022-05-02",
         "specialId": "spiritual_unity",
+        "heroId": "s2_rugged_fisherman_costume_sake_master",
         "star": 4,
         "power": 671,
         "attack": 656,
@@ -64559,7 +64560,6 @@ window.allHeroes =
         ],
         "passives": [],
         "family": "lagoon",
-        "image": "https://i.imgur.com/BehrpwT.jpg",
         "costume_id": 1,
         "originalIndex": 986,
         "lb1": {
@@ -64607,6 +64607,7 @@ window.allHeroes =
         "source": "Challenge Festival II",
         "Release date": "2022-08-11",
         "specialId": "melody_of_misery",
+        "heroId": "bard_zhabog",
         "star": 4,
         "power": 682,
         "attack": 658,
@@ -64620,7 +64621,6 @@ window.allHeroes =
             "Revival chance reduction: The chance of revival is reduced for all enemies in the battle. The chance is 20% of the original value."
         ],
         "family": "bard",
-        "image": "https://i.imgur.com/GX1p5W9.jpg",
         "costume_id": 0,
         "originalIndex": 987,
         "lb1": {
@@ -64669,6 +64669,7 @@ window.allHeroes =
         "source": "Three Kingdoms Summon",
         "Release date": "2022-03-14",
         "specialId": "scion_sword",
+        "heroId": "kingdom_zhou_yu",
         "star": 4,
         "power": 683,
         "attack": 639,
@@ -64681,7 +64682,6 @@ window.allHeroes =
         ],
         "passives": [],
         "family": "kingdom",
-        "image": "https://i.imgur.com/KiDn1jL.jpg",
         "costume_id": 0,
         "originalIndex": 988,
         "lb1": {
@@ -64736,6 +64736,7 @@ window.allHeroes =
         "source": "Three Kingdoms Summon",
         "Release date": "2025-01-29",
         "specialId": "scion_sword",
+        "heroId": "kingdom_zhou_yu_costume_white_raven",
         "star": 4,
         "power": 719,
         "attack": 704,
@@ -64753,7 +64754,6 @@ window.allHeroes =
             " * Minion attack and abilities can’t be disabled."
         ],
         "family": "kingdom",
-        "image": "https://i.imgur.com/Uiw1osb.jpg",
         "costume_id": 1,
         "originalIndex": 989,
         "lb1": {
@@ -64810,6 +64810,7 @@ window.allHeroes =
         "source": "Mystery - Shadow Summon",
         "Release date": "2024-05-26",
         "specialId": "whispers_of_xulu",
+        "heroId": "shadow_abigail",
         "star": 5,
         "power": 1133,
         "attack": 1139,
@@ -64827,7 +64828,6 @@ window.allHeroes =
             "Marked by the Old Ones: All damage is reduced by 5% per 10 Insanity for this character up to a maximum reduction of 50%."
         ],
         "family": "investigator",
-        "image": "https://i.imgur.com/dHcPPcr.jpg",
         "costume_id": 0,
         "originalIndex": 990,
         "lb1": {
@@ -64890,6 +64890,7 @@ window.allHeroes =
         "source": "S7 - Treasures of Flame and Frost",
         "Release date": "2025-03-23",
         "specialId": "mana_immolation",
+        "heroId": "tales2_aethslegaur",
         "star": 5,
         "power": 1184,
         "attack": 1159,
@@ -64908,7 +64909,6 @@ window.allHeroes =
             " * The Burn damage is scaled by the amount of charge in the Core. All charge is exhausted when the Core is activated."
         ],
         "family": "nidavellir",
-        "image": "https://i.imgur.com/rCRyftg.jpg",
         "costume_id": 0,
         "originalIndex": 991,
         "lb1": {
@@ -64966,6 +64966,7 @@ window.allHeroes =
         "source": "Monthly Event - Morlovia",
         "Release date": "2022-10-03",
         "specialId": "vampiric_curse",
+        "heroId": "halloween_alucard",
         "star": 5,
         "power": 851,
         "attack": 852,
@@ -64982,7 +64983,6 @@ window.allHeroes =
             "Steal Buff: When this character casts their Special Skill, they have a 50% chance to steal the newest dispellable buff from a random enemy that has buffs. If no enemy has buffs, deals 70% damage to all enemies."
         ],
         "family": "morlovia",
-        "image": "https://i.imgur.com/ZDIKUNx.jpg",
         "costume_id": 0,
         "originalIndex": 992,
         "lb1": {
@@ -65036,6 +65036,7 @@ window.allHeroes =
         "source": "Monthly Event - Morlovia",
         "Release date": "2024-09-23",
         "specialId": "vampiric_curse",
+        "heroId": "halloween_alucard_costume_mafia",
         "star": 5,
         "power": 1105,
         "attack": 1247,
@@ -65052,7 +65053,6 @@ window.allHeroes =
             "Steal Buff: When this character casts their Special Skill, they have a 50% chance to steal the newest dispellable buff from a random enemy that has buffs. If no enemy has buffs, deals 70% damage to all enemies."
         ],
         "family": "morlovia",
-        "image": "https://i.imgur.com/ed8i62p.jpg",
         "costume_id": 1,
         "originalIndex": 993,
         "lb1": {
@@ -65104,6 +65104,7 @@ window.allHeroes =
         "source": "Monthly Event - Morlovia",
         "Release date": "2023-09-25",
         "specialId": "spear_of_blood_pact",
+        "heroId": "halloween_amber",
         "star": 5,
         "power": 933,
         "attack": 927,
@@ -65118,7 +65119,6 @@ window.allHeroes =
             "Steal Buff: When this character casts their Special Skill, they have a 50% chance to steal the newest dispellable buff from a random enemy that has buffs. If no enemy has buffs, deals 70% damage to all enemies."
         ],
         "family": "morlovia",
-        "image": "https://i.imgur.com/PmKUK6y.jpg",
         "costume_id": 0,
         "originalIndex": 994,
         "lb1": {
@@ -65171,6 +65171,7 @@ window.allHeroes =
         "source": "Monthly Event - Beach Party",
         "Release date": "2025-06-03",
         "specialId": "blazing_rave_dance",
+        "heroId": "beachparty_andy_jay",
         "star": 5,
         "power": 1196,
         "attack": 1229,
@@ -65188,14 +65189,13 @@ window.allHeroes =
             "Resist Water Damage: This character has innate resistance against Water Damage."
         ],
         "family": "beachparty",
-        "image": "https://imgur.com/ZWcSNEl.jpg",
         "costume_id": 0,
         "originalIndex": 995,
         "lb1": {
-            "power": 1280,
+            "power": 1279,
             "attack": 1325,
             "defense": 1287,
-            "health": 2364
+            "health": 2361
         },
         "lb2": {
             "power": 1446,
@@ -65236,6 +65236,7 @@ window.allHeroes =
         "source": "Legends Summon - Hero of the Month",
         "Release date": "2019-04-01",
         "specialId": "flaming_grudge",
+        "heroId": "fire_god_anzogh",
         "star": 5,
         "power": 770,
         "attack": 698,
@@ -65250,7 +65251,6 @@ window.allHeroes =
             "Resist Mana Generation Ailments: This character has an innate resistance against status ailments and negative stacks that affect mana generation. Doesn't apply to status ailments that stop mana generation or steal mana."
         ],
         "family": 2019,
-        "image": "https://i.imgur.com/1Kkc15H.jpg",
         "costume_id": 0,
         "originalIndex": 996,
         "lb1": {
@@ -65294,6 +65294,7 @@ window.allHeroes =
         "source": "Challenge - Carnival of Gods",
         "Release date": "2023-07-13",
         "specialId": "wicked_witchcraft",
+        "heroId": "masquerade_aradia",
         "star": 5,
         "power": 936,
         "attack": 887,
@@ -65308,7 +65309,6 @@ window.allHeroes =
             "Cleanse on Minion Death: This character is cleansed of status ailments when Minion owned by them is destroyed. "
         ],
         "family": "maskedgod",
-        "image": "https://i.imgur.com/KU4YzVK.jpg",
         "costume_id": 0,
         "originalIndex": 997,
         "lb1": {
@@ -65361,6 +65361,7 @@ window.allHeroes =
         "source": "Wilderness Summon",
         "Release date": "2024-10-23",
         "specialId": "forceful_advance",
+        "heroId": "faun_araminta",
         "star": 5,
         "power": 1144,
         "attack": 1159,
@@ -65377,7 +65378,6 @@ window.allHeroes =
             "Resist Attack Reduction: This character has innate resistance against status ailments, stacks and Wither effects that affect attack."
         ],
         "family": "woodlandfaun",
-        "image": "https://i.imgur.com/52hX4ns.jpg",
         "costume_id": 0,
         "originalIndex": 998,
         "lb1": {
@@ -65431,6 +65431,7 @@ window.allHeroes =
         "source": "Legends Summon - Hero of the Month",
         "Release date": "2017-08-01",
         "specialId": "might_of_ares",
+        "heroId": "fire_god_ares",
         "star": 5,
         "power": 765,
         "attack": 659,
@@ -65444,7 +65445,6 @@ window.allHeroes =
         ],
         "passives": [],
         "family": 2017,
-        "image": "https://i.imgur.com/KvZBThZ.jpg",
         "costume_id": 0,
         "originalIndex": 999,
         "lb1": {
@@ -65496,6 +65496,7 @@ window.allHeroes =
         "source": "Legends Summon - Hero of the Month",
         "Release date": "2023-03-20",
         "specialId": "might_of_ares",
+        "heroId": "fire_god_ares_costume_keymaster",
         "star": 5,
         "power": 974,
         "attack": 874,
@@ -65511,7 +65512,6 @@ window.allHeroes =
             "Cleanse on Special: When this character casts their Special Skill, they cleanse the newest status ailment from all allies."
         ],
         "family": 2017,
-        "image": "https://i.imgur.com/Pf1h54r.jpg",
         "costume_id": 1,
         "originalIndex": 1000,
         "lb1": {
@@ -65566,6 +65566,7 @@ window.allHeroes =
         "source": "Extra Draw - Secret Summon",
         "Release date": "2025-07-04",
         "specialId": "gorging_chew_red",
+        "heroId": "mimic_ascension_item_red",
         "star": 5,
         "power": 1225,
         "attack": 1268,
@@ -65591,7 +65592,6 @@ window.allHeroes =
             " * Mystic Rings"
         ],
         "family": "mimic",
-        "image": "https://imgur.com/J3WvDh7.jpg",
         "costume_id": 0,
         "originalIndex": 1001,
         "lb1": {
@@ -65651,6 +65651,7 @@ window.allHeroes =
         "source": "Super Elementals",
         "Release date": "2024-07-14",
         "specialId": "ruby_rush",
+        "heroId": "elemental_ash",
         "star": 5,
         "power": 1077,
         "attack": 1133,
@@ -65669,7 +65670,6 @@ window.allHeroes =
             " - Received elemental damage: -10%"
         ],
         "family": "superelemental",
-        "image": "https://i.imgur.com/Vb0jBsm.jpg",
         "costume_id": 0,
         "originalIndex": 1002,
         "lb1": {
@@ -65727,6 +65727,7 @@ window.allHeroes =
         "source": "Challenge Festival II",
         "Release date": "2021-02-11",
         "specialId": "brutal_bull_rush",
+        "heroId": "villain_asterius",
         "star": 5,
         "power": 802,
         "attack": 784,
@@ -65739,7 +65740,6 @@ window.allHeroes =
         ],
         "passives": [],
         "family": "villains",
-        "image": "https://i.imgur.com/i9C7vjL.jpg",
         "costume_id": 0,
         "originalIndex": 1003,
         "lb1": {
@@ -65800,6 +65800,7 @@ window.allHeroes =
         "source": "Tower - Ninjas",
         "Release date": "2025-03-05",
         "specialId": "rending_dagger",
+        "heroId": "ninja_aurum",
         "star": 5,
         "power": 1167,
         "attack": 1324,
@@ -65823,7 +65824,6 @@ window.allHeroes =
             "Decreased Minion Health: Enemy Minions inherit -50% less Health when summoned."
         ],
         "family": "ninja",
-        "image": "https://i.imgur.com/ti2OFXj.jpg",
         "costume_id": 0,
         "originalIndex": 1004,
         "lb1": {
@@ -65872,6 +65872,7 @@ window.allHeroes =
         "source": "S1 - Classic",
         "Release date": "2017-03-01",
         "specialId": "volcanic_eruption",
+        "heroId": "lionman_barbarian",
         "star": 5,
         "power": 757,
         "attack": 793,
@@ -65883,7 +65884,6 @@ window.allHeroes =
         ],
         "passives": [],
         "family": "classic",
-        "image": "https://i.imgur.com/wAibSFk.jpg",
         "costume_id": 0,
         "originalIndex": 1005,
         "lb1": {
@@ -65932,6 +65932,7 @@ window.allHeroes =
         "source": "Costume Quest",
         "Release date": "2020-05-18",
         "specialId": "volcanic_eruption",
+        "heroId": "lionman_barbarian_costume_armor",
         "star": 5,
         "power": 852,
         "attack": 883,
@@ -65944,7 +65945,6 @@ window.allHeroes =
         ],
         "passives": [],
         "family": "classic",
-        "image": "https://i.imgur.com/TDGgAGz.jpg",
         "costume_id": 1,
         "originalIndex": 1006,
         "lb1": {
@@ -65954,8 +65954,8 @@ window.allHeroes =
             "health": 1682
         },
         "lb2": {
-            "power": 1022,
-            "attack": 1090,
+            "power": 1021,
+            "attack": 1087,
             "defense": 880,
             "health": 1925
         },
@@ -65998,6 +65998,7 @@ window.allHeroes =
         "source": "Costume Quest",
         "Release date": "2023-02-20",
         "specialId": "volcanic_eruption",
+        "heroId": "lionman_barbarian_costume_babysitter",
         "star": 5,
         "power": 967,
         "attack": 1035,
@@ -66009,7 +66010,6 @@ window.allHeroes =
         ],
         "passives": [],
         "family": "classic",
-        "image": "https://i.imgur.com/6N4jIyy.jpg",
         "costume_id": 2,
         "originalIndex": 1007,
         "lb1": {
@@ -66063,6 +66063,7 @@ window.allHeroes =
         "source": "Costume Quest",
         "Release date": "2023-10-30",
         "specialId": "volcanic_eruption",
+        "heroId": "lionman_barbarian_costume_cute",
         "star": 5,
         "power": 1135,
         "attack": 1181,
@@ -66077,20 +66078,19 @@ window.allHeroes =
             "Toon: 75% extra chance to resist all status ailments, mana reductions and buff dispels."
         ],
         "family": "classic",
-        "image": "https://i.imgur.com/yS5bHHw.jpg",
         "costume_id": 3,
         "originalIndex": 1008,
         "lb1": {
-            "power": 1213,
+            "power": 1212,
             "attack": 1272,
             "defense": 1137,
-            "health": 2320
+            "health": 2317
         },
         "lb2": {
             "power": 1370,
             "attack": 1455,
             "defense": 1302,
-            "health": 2655
+            "health": 2652
         },
         "cn_skill_info": [
             {
@@ -66131,6 +66131,7 @@ window.allHeroes =
         "source": "Costume Quest",
         "Release date": "2024-12-25",
         "specialId": "volcanic_eruption",
+        "heroId": "lionman_barbarian_costume_glass",
         "star": 5,
         "power": 1242,
         "attack": 1337,
@@ -66145,7 +66146,6 @@ window.allHeroes =
             "Glass: 60% extra chance to reflect status ailments back to the attacker."
         ],
         "family": "classic",
-        "image": "https://i.imgur.com/S5acyh9.jpg",
         "costume_id": 4,
         "originalIndex": 1009,
         "lb1": {
@@ -66202,6 +66202,7 @@ window.allHeroes =
         "source": "S3 - Valhalla",
         "Release date": "2020-05-28",
         "specialId": "unbreakable_brawler",
+        "heroId": "s3_baldur",
         "star": 5,
         "power": 787,
         "attack": 807,
@@ -66215,7 +66216,6 @@ window.allHeroes =
         ],
         "passives": [],
         "family": "muspelheim",
-        "image": "https://i.imgur.com/bmdaK3F.jpg",
         "costume_id": 0,
         "originalIndex": 1010,
         "lb1": {
@@ -66264,6 +66264,7 @@ window.allHeroes =
         "source": "S3 - Valhalla",
         "Release date": "2022-11-21",
         "specialId": "unbreakable_brawler",
+        "heroId": "s3_baldur_costume_fiery",
         "star": 5,
         "power": 986,
         "attack": 988,
@@ -66277,7 +66278,6 @@ window.allHeroes =
         ],
         "passives": [],
         "family": "muspelheim",
-        "image": "https://i.imgur.com/oTqqeuM.jpg",
         "costume_id": 1,
         "originalIndex": 1011,
         "lb1": {
@@ -66324,6 +66324,7 @@ window.allHeroes =
         "source": "Challenge Festival II",
         "Release date": "2023-05-18",
         "specialId": "missile_mania",
+        "heroId": "mighty_pet_barkley",
         "star": 5,
         "power": 879,
         "attack": 894,
@@ -66340,7 +66341,6 @@ window.allHeroes =
             "Friend of the Familiars: When a Minion is summoned to any ally, this character gains 5% health and 5% mana. This effect can activate only once per turn."
         ],
         "family": "pets",
-        "image": "https://i.imgur.com/X0UJRC3.jpg",
         "costume_id": 0,
         "originalIndex": 1012,
         "lb1": {
@@ -66391,6 +66391,7 @@ window.allHeroes =
         "source": "Alliance - Knights Clash",
         "Release date": "2024-07-17",
         "specialId": "cursed_painting",
+        "heroId": "castle_bear_bearnadette",
         "star": 5,
         "power": 1078,
         "attack": 1011,
@@ -66408,7 +66409,6 @@ window.allHeroes =
             "Health Recovery on Buff Received: This character recovers 5% health when they receive a buff or a positive stack."
         ],
         "family": "bear",
-        "image": "https://i.imgur.com/jsqcXVs.jpg",
         "costume_id": 0,
         "originalIndex": 1013,
         "lb1": {
@@ -66466,6 +66466,7 @@ window.allHeroes =
         "source": "Challenge - Beowulf",
         "Release date": "2025-02-13",
         "specialId": "battle_boast",
+        "heroId": "beowulf_beowulf",
         "star": 5,
         "power": 1184,
         "attack": 1293,
@@ -66483,7 +66484,6 @@ window.allHeroes =
             "Stacking Attack On Damage Received: When this character receives damage from Special Skills, they gain +30% attack Stack (Max: 10). One Stack can be gained per turn."
         ],
         "family": "beowulf",
-        "image": "https://i.imgur.com/KcWPSJ3.jpg",
         "costume_id": 0,
         "originalIndex": 1014,
         "lb1": {
@@ -66539,6 +66539,7 @@ window.allHeroes =
         "source": "Solstice Summon",
         "Release date": "2025-06-16",
         "specialId": "righteous_pulverizer",
+        "heroId": "mahayoddha_bhima",
         "star": 5,
         "power": 1213,
         "attack": 1289,
@@ -66558,7 +66559,6 @@ window.allHeroes =
             "Extra Damage to Minions & Mega Minions: This character does +150% damage to Minions and Mega Minions."
         ],
         "family": "mahayoddha",
-        "image": "https://imgur.com/4yUfzza.jpg",
         "costume_id": 0,
         "originalIndex": 1015,
         "lb1": {
@@ -66614,6 +66614,7 @@ window.allHeroes =
         "source": "Challenge Festival I",
         "Release date": "2023-12-28",
         "specialId": "pirates_vengeance",
+        "heroId": "pirate_boatswain",
         "star": 5,
         "power": 987,
         "attack": 945,
@@ -66629,7 +66630,6 @@ window.allHeroes =
             "Resist Damage from Status Effects: This charater has innate resistance against incoming damage from status effects."
         ],
         "family": "corellia",
-        "image": "https://i.imgur.com/5f8UOBL.jpg",
         "costume_id": 0,
         "originalIndex": 1016,
         "lb1": {
@@ -66682,6 +66682,7 @@ window.allHeroes =
         "source": "Challenge Festival I",
         "Release date": "2021-07-09",
         "specialId": "just_a_flesh_wound",
+        "heroId": "knights_black_knight",
         "star": 5,
         "power": 779,
         "attack": 611,
@@ -66694,7 +66695,6 @@ window.allHeroes =
         ],
         "passives": [],
         "family": "avalon",
-        "image": "https://i.imgur.com/6so0gHz.jpg",
         "costume_id": 0,
         "originalIndex": 1017,
         "lb1": {
@@ -66740,6 +66740,7 @@ window.allHeroes =
         "source": "Challenge Festival I",
         "Release date": "2022-06-16",
         "specialId": "just_a_flesh_wound",
+        "heroId": "knights_black_knight_costume_negative",
         "star": 5,
         "power": 978,
         "attack": 792,
@@ -66752,7 +66753,6 @@ window.allHeroes =
         ],
         "passives": [],
         "family": "avalon",
-        "image": "https://i.imgur.com/BH9J6dC.jpg",
         "costume_id": 1,
         "originalIndex": 1018,
         "lb1": {
@@ -66798,6 +66798,7 @@ window.allHeroes =
         "source": "Covenant Summon",
         "Release date": "2023-08-24",
         "specialId": "songs_of_the_cherry_tree",
+        "heroId": "construct_japanese_doll",
         "star": 5,
         "power": 980,
         "attack": 885,
@@ -66813,7 +66814,6 @@ window.allHeroes =
             "Repair Core: The Construct Core of this character is Repair Core. The Repair Core activates each time this character’s Special Skill is cast: * With fully charged Repair Core, boosts the health of all allies by 25%. * The healing is scaled by the amount of charge in the Core. All charge is exchausted when the Core is activated."
         ],
         "family": "construct",
-        "image": "https://i.imgur.com/4805acd.jpg",
         "costume_id": 0,
         "originalIndex": 1019,
         "lb1": {
@@ -66864,6 +66864,7 @@ window.allHeroes =
         "source": "Monster Island Summon",
         "Release date": "2023-03-03",
         "specialId": "fury_of_the_silverback",
+        "heroId": "monster_hunter_bonecrusher",
         "star": 5,
         "power": 893,
         "attack": 912,
@@ -66879,7 +66880,6 @@ window.allHeroes =
             "Damage Over Time on Special: When this character casts their Special Skill, they give a Hunter’s Mark on a random enemy. The target receives 150 damage over 3 turns. If a target already has this effect, the duration will be refreshed and the damage will be increased with 150, up to 1500 damage in total."
         ],
         "family": "junglehunter",
-        "image": "https://i.imgur.com/sBMiou9.jpg",
         "costume_id": 0,
         "originalIndex": 1020,
         "lb1": {
@@ -66931,6 +66931,7 @@ window.allHeroes =
         "source": "Covenant Summon",
         "Release date": "2023-07-27",
         "specialId": "infernal_flames",
+        "heroId": "construct_brimstone",
         "star": 5,
         "power": 953,
         "attack": 939,
@@ -66951,7 +66952,6 @@ window.allHeroes =
             " * The damage is scaled by the amount of charge in the Core, All charge is exchausted when the Core is activated."
         ],
         "family": "construct",
-        "image": "https://i.imgur.com/HWR83YI.jpg",
         "costume_id": 0,
         "originalIndex": 1021,
         "lb1": {
@@ -67007,6 +67007,7 @@ window.allHeroes =
         "source": "Challenge Festival I",
         "Release date": "2017-09-07",
         "specialId": "pirate_shot",
+        "heroId": "pirate_swashbuckler",
         "star": 5,
         "power": 765,
         "attack": 727,
@@ -67018,7 +67019,6 @@ window.allHeroes =
         ],
         "passives": [],
         "family": "corellia",
-        "image": "https://i.imgur.com/RcRP80T.jpg",
         "costume_id": 0,
         "originalIndex": 1022,
         "lb1": {
@@ -67064,6 +67064,7 @@ window.allHeroes =
         "source": "S4 - Wilderness",
         "Release date": "2021-08-12",
         "specialId": "captains_cutlass",
+        "heroId": "s4_captain_nemo",
         "star": 5,
         "power": 809,
         "attack": 821,
@@ -67077,7 +67078,6 @@ window.allHeroes =
             "This character receives 20% mana at the start of the battle."
         ],
         "family": "underwild",
-        "image": "https://i.imgur.com/lNl4PPg.jpg",
         "costume_id": 0,
         "originalIndex": 1023,
         "lb1": {
@@ -67124,6 +67124,7 @@ window.allHeroes =
         "source": "S4 - Wilderness",
         "Release date": "2023-12-07",
         "specialId": "captains_cutlass",
+        "heroId": "s4_captain_nemo_costume_machinist",
         "star": 5,
         "power": 1024,
         "attack": 1081,
@@ -67138,14 +67139,13 @@ window.allHeroes =
             "Increased Damage Against Boosted Health: After Special Skill cast, all allies’ normal attacks and Special Skills deal +70% damage against targets with boosted health for 4 turns."
         ],
         "family": "underwild",
-        "image": "https://i.imgur.com/UjiSmNx.jpg",
         "costume_id": 1,
         "originalIndex": 1024,
         "lb1": {
             "power": 1093,
             "attack": 1164,
             "defense": 1058,
-            "health": 1894
+            "health": 1891
         },
         "lb2": {
             "power": 1233,
@@ -67188,6 +67188,7 @@ window.allHeroes =
         "source": "Alliance - Musketeers",
         "Release date": "2023-09-20",
         "specialId": "web_of_spies",
+        "heroId": "musketeer_cardinal_richelieu",
         "star": 5,
         "power": 928,
         "attack": 881,
@@ -67203,7 +67204,6 @@ window.allHeroes =
             "Damage on Special Skill: When this character receives damage from Special Skills or in place of a character in Cover, there’s a 60% chance to deal 20% of the received damage on all enemies."
         ],
         "family": "musketeer",
-        "image": "https://i.imgur.com/fhxShwu.jpg",
         "costume_id": 0,
         "originalIndex": 1025,
         "lb1": {
@@ -67253,6 +67253,7 @@ window.allHeroes =
         "source": "Challenge - Carnival of Gods",
         "Release date": "2023-09-14",
         "specialId": "master_of_ailments",
+        "heroId": "masquerade_carmenta",
         "star": 5,
         "power": 940,
         "attack": 906,
@@ -67267,7 +67268,6 @@ window.allHeroes =
             "Cleanse on Minion Death: This character is cleansed of status ailments when Minion owned by them is destroyed. "
         ],
         "family": "maskedgod",
-        "image": "https://i.imgur.com/Ud8nASe.jpg",
         "costume_id": 0,
         "originalIndex": 1026,
         "lb1": {
@@ -67321,6 +67321,7 @@ window.allHeroes =
         "source": "Astral Summon",
         "Release date": "2025-04-21",
         "specialId": "spell_lock",
+        "heroId": "astral_dwarf_ceris",
         "star": 5,
         "power": 1179,
         "attack": 1213,
@@ -67338,7 +67339,6 @@ window.allHeroes =
             "Perfect Accuracy: This character’s Special Skill never misses its targets."
         ],
         "family": "astraldwarfs",
-        "image": "https://imgur.com/RSa7LWa.jpg",
         "costume_id": 0,
         "originalIndex": 1027,
         "lb1": {
@@ -67392,6 +67392,7 @@ window.allHeroes =
         "source": "Challenge - Secrets of the Opera",
         "Release date": "2024-09-19",
         "specialId": "ballad_of_condemnation",
+        "heroId": "ballerina_charlotta",
         "star": 5,
         "power": 1100,
         "attack": 1153,
@@ -67410,7 +67411,6 @@ window.allHeroes =
             "Heal when status ailment expires or is cleared: This character receives 20% health each time a status ailment expires or is cleansed, removed or reallocated from them. This effect can activate only once per turn."
         ],
         "family": "opera",
-        "image": "https://i.imgur.com/SZzrHhg.jpg",
         "costume_id": 0,
         "originalIndex": 1028,
         "lb1": {
@@ -67467,6 +67467,7 @@ window.allHeroes =
         "source": "Super Elementals",
         "Release date": "2025-01-01",
         "specialId": "perfume_cloud",
+        "heroId": "slime_charmione",
         "star": 5,
         "power": 1169,
         "attack": 1108,
@@ -67483,7 +67484,6 @@ window.allHeroes =
             "Slime Minion Split: If this character loses more than 25% of max health at once, they summon a Slime Mega Minion for themselves with 50% HP and 40% attack."
         ],
         "family": "slime",
-        "image": "https://i.imgur.com/4w6oCQ7.jpg",
         "costume_id": 0,
         "originalIndex": 1029,
         "lb1": {
@@ -67533,6 +67533,7 @@ window.allHeroes =
         "source": "Challenge Festival II",
         "Release date": "2022-11-03",
         "specialId": "slice_and_dice",
+        "heroId": "mighty_pet_chomper",
         "star": 5,
         "power": 876,
         "attack": 850,
@@ -67548,7 +67549,6 @@ window.allHeroes =
             "Friend of the Familiars: When a Minion is summoned to any ally, this character gains 5% health and 5% mana. This effect can activate only once per turn."
         ],
         "family": "pets",
-        "image": "https://i.imgur.com/5iYa63c.jpg",
         "costume_id": 0,
         "originalIndex": 1030,
         "lb1": {
@@ -67603,6 +67603,7 @@ window.allHeroes =
         "source": "Alliance - Moths",
         "Release date": "2025-01-23",
         "specialId": "prosperity_for_domain",
+        "heroId": "moth_chunkyroi",
         "star": 5,
         "power": 1178,
         "attack": 1157,
@@ -67618,7 +67619,6 @@ window.allHeroes =
             "Dodge Special Damage: This character has a 15% chance to dodge Special Skills that deal damage."
         ],
         "family": "moth",
-        "image": "https://i.imgur.com/APgO5NR.jpg",
         "costume_id": 0,
         "originalIndex": 1031,
         "lb1": {
@@ -67672,6 +67672,7 @@ window.allHeroes =
         "source": "Challenge Festival I",
         "Release date": "2024-02-22",
         "specialId": "fairy_godmothers_blessing",
+        "heroId": "fables_cinderella",
         "star": 5,
         "power": 1007,
         "attack": 1032,
@@ -67688,7 +67689,6 @@ window.allHeroes =
             "Resist Damage from Status Effects: This charater has innate resistance against incoming damage from status effects."
         ],
         "family": "grimforest",
-        "image": "https://i.imgur.com/8MZHUmV.jpg",
         "costume_id": 0,
         "originalIndex": 1032,
         "lb1": {
@@ -67740,6 +67740,7 @@ window.allHeroes =
         "source": "Monster Island Summon",
         "Release date": "2022-08-25",
         "specialId": "bone_ritual",
+        "heroId": "monster_hunter_cleaver",
         "star": 5,
         "power": 888,
         "attack": 852,
@@ -67756,7 +67757,6 @@ window.allHeroes =
             "Damage over Time on Special: When this character casts their Special Skill, they give a Hunter’s Mark on a random enemy. The target receives 150 damage over 3 turns. If a target already has this effect, the duration will be refreshed and the damage will be increased by 150, up to 1500 damage in total."
         ],
         "family": "plainshunter",
-        "image": "https://i.imgur.com/BcrdLDo.jpg",
         "costume_id": 0,
         "originalIndex": 1033,
         "lb1": {
@@ -67810,6 +67810,7 @@ window.allHeroes =
         "source": "Monthly Event - Winter",
         "Release date": "2023-12-01",
         "specialId": "mystery_potions",
+        "heroId": "christmas_cookie",
         "star": 5,
         "power": 949,
         "attack": 916,
@@ -67822,7 +67823,6 @@ window.allHeroes =
         ],
         "passives": [],
         "family": "christmas",
-        "image": "https://i.imgur.com/n61JoD1.jpg",
         "costume_id": 0,
         "originalIndex": 1034,
         "lb1": {
@@ -67872,6 +67872,7 @@ window.allHeroes =
         "source": "Monthly Event - Love Season",
         "Release date": "2023-02-14",
         "specialId": "love_conquers_all",
+        "heroId": "valentines_cupido",
         "star": 5,
         "power": 862,
         "attack": 844,
@@ -67886,7 +67887,6 @@ window.allHeroes =
             "Resist Special Skill Blocking: This character has innate resistance against status ailments that block Special Skills."
         ],
         "family": "cupid",
-        "image": "https://i.imgur.com/4hhCXCA.jpg",
         "costume_id": 0,
         "originalIndex": 1035,
         "lb1": {
@@ -67935,6 +67935,7 @@ window.allHeroes =
         "source": "Alliance - Musketeers",
         "Release date": "2022-12-14",
         "specialId": "flaming_rapier",
+        "heroId": "musketeer_dartagnan",
         "star": 5,
         "power": 878,
         "attack": 867,
@@ -67949,7 +67950,6 @@ window.allHeroes =
             "Damage on Special Skill and Cover Damage: When this character receives damage from Special Skills or in place of a character in Cover, there’s a 60% chance of deal 20% of the received damage on all enemies."
         ],
         "family": "musketeer",
-        "image": "https://i.imgur.com/cwvEsxY.jpg",
         "costume_id": 0,
         "originalIndex": 1036,
         "lb1": {
@@ -68002,6 +68002,7 @@ window.allHeroes =
         "source": "Alliance - Knights Clash",
         "Release date": "2024-01-10",
         "specialId": "blood_petals_of_the_withered",
+        "heroId": "castle_stag_daemon",
         "star": 5,
         "power": 1027,
         "attack": 1102,
@@ -68017,7 +68018,6 @@ window.allHeroes =
             "Health Recovery on Buff Received: This character recovers 5% health when they receive a buff or a positive stack."
         ],
         "family": "stag",
-        "image": "https://i.imgur.com/uaxeVEQ.jpg",
         "costume_id": 0,
         "originalIndex": 1037,
         "lb1": {
@@ -68074,6 +68074,7 @@ window.allHeroes =
         "source": "Goblin Summon",
         "Release date": "2024-09-29",
         "specialId": "spotting_trouble",
+        "heroId": "garrison_dima",
         "star": 5,
         "power": 1122,
         "attack": 1174,
@@ -68090,7 +68091,6 @@ window.allHeroes =
             "Guard Rally: Every 4 turns, removes all Wither effects from all allies."
         ],
         "family": "garrisonguard",
-        "image": "https://i.imgur.com/z5rjaIR.jpg",
         "costume_id": 0,
         "originalIndex": 1038,
         "lb1": {
@@ -68148,6 +68148,7 @@ window.allHeroes =
         "source": "S6 - Mysteries of the Deep",
         "Release date": "2023-12-13",
         "specialId": "supernova",
+        "heroId": "tales1_domiventus",
         "star": 5,
         "power": 999,
         "attack": 984,
@@ -68168,7 +68169,6 @@ window.allHeroes =
             " * The caster get +19% mana generation for 2 turns."
         ],
         "family": "nightmaresofatlantis",
-        "image": "https://i.imgur.com/kgTv3pm.jpg",
         "costume_id": 0,
         "originalIndex": 1039,
         "lb1": {
@@ -68221,6 +68221,7 @@ window.allHeroes =
         "source": "S6 - Mysteries of the Deep",
         "Release date": "2024-12-14",
         "specialId": "supernova",
+        "heroId": "tales1_domiventus_costume_supreme",
         "star": 5,
         "power": 1245,
         "attack": 1231,
@@ -68242,7 +68243,6 @@ window.allHeroes =
             "Resist Insanity: This character has innate resistance against Insanity."
         ],
         "family": "nightmaresofatlantis",
-        "image": "https://i.imgur.com/Bwbja0V.jpg",
         "costume_id": 1,
         "originalIndex": 1040,
         "lb1": {
@@ -68293,6 +68293,7 @@ window.allHeroes =
         "source": "Super Elementals",
         "Release date": "2023-03-27",
         "specialId": "dual_laser_blades",
+        "heroId": "elemental_doxan",
         "star": 5,
         "power": 905,
         "attack": 887,
@@ -68310,7 +68311,6 @@ window.allHeroes =
             " - Received elemental damage: -10%"
         ],
         "family": "superelemental",
-        "image": "https://i.imgur.com/aM5vSU2.jpg",
         "costume_id": 0,
         "originalIndex": 1041,
         "lb1": {
@@ -68368,6 +68368,7 @@ window.allHeroes =
         "source": "Challenge Festival II",
         "Release date": "2025-06-15",
         "specialId": "infernal_drumstorm",
+        "heroId": "bard_dunnar_hart",
         "star": 5,
         "power": 1211,
         "attack": 1217,
@@ -68383,7 +68384,6 @@ window.allHeroes =
             "Revival Chance Reduction: The chance of revival is reduced for all enemies in the battle. The chance is 20% of the original value."
         ],
         "family": "bard",
-        "image": "https://imgur.com/Yf46q7H.jpg",
         "costume_id": 0,
         "originalIndex": 1042,
         "lb1": {
@@ -68447,6 +68447,7 @@ window.allHeroes =
         "source": "Monster Island Summon",
         "Release date": "2022-10-15",
         "specialId": "flail_swing",
+        "heroId": "monster_hunter_ebba",
         "star": 5,
         "power": 887,
         "attack": 848,
@@ -68463,7 +68464,6 @@ window.allHeroes =
             "Damage over Time on Special: When this character casts their Special Skill, they give a Hunter’s Mark on a random enemy. The target receives 150 damage over 3 turns. If a target already has this effect, the duration will be refreshed and the damage will be increased by 150, up to 1500 damage in total."
         ],
         "family": "plainshunter",
-        "image": "https://i.imgur.com/TiOunHw.jpg",
         "costume_id": 0,
         "originalIndex": 1043,
         "lb1": {
@@ -68514,6 +68514,7 @@ window.allHeroes =
         "source": "Challenge - Gargoyle",
         "Release date": "2022-05-12",
         "specialId": "fists_of_atonement",
+        "heroId": "gargoyle_el_duque",
         "star": 5,
         "power": 841,
         "attack": 832,
@@ -68527,7 +68528,6 @@ window.allHeroes =
             "Gargoyle’s Stoneskin: Every time this Gargoyle casts a Special Skill, their Stoneskin hardens. The next 2 times they receive damage, it is dropped to 1. This effect can’t be dispelled."
         ],
         "family": "gargoyle",
-        "image": "https://i.imgur.com/37akyr2.jpg",
         "costume_id": 0,
         "originalIndex": 1044,
         "lb1": {
@@ -68576,6 +68576,7 @@ window.allHeroes =
         "source": "Monthly Event - Love Season",
         "Release date": "2024-01-08",
         "specialId": "vanguard_of_passion",
+        "heroId": "valentines_elba",
         "star": 5,
         "power": 966,
         "attack": 988,
@@ -68590,7 +68591,6 @@ window.allHeroes =
             "Resist Special Skill Blocking: This character has innate resistance against status ailments that block Special Skills."
         ],
         "family": "cupid",
-        "image": "https://i.imgur.com/H1vwtsQ.jpg",
         "costume_id": 0,
         "originalIndex": 1045,
         "lb1": {
@@ -68638,6 +68638,7 @@ window.allHeroes =
         "source": "S1 - Classic",
         "Release date": "2017-03-01",
         "specialId": "wall_of_swords",
+        "heroId": "nomad_female_lord",
         "star": 5,
         "power": 753,
         "attack": 809,
@@ -68649,7 +68650,6 @@ window.allHeroes =
         ],
         "passives": [],
         "family": "classic",
-        "image": "https://i.imgur.com/DJkMDg0.jpg",
         "costume_id": 0,
         "originalIndex": 1046,
         "lb1": {
@@ -68696,6 +68696,7 @@ window.allHeroes =
         "source": "Costume Quest",
         "Release date": "2020-01-01",
         "specialId": "wall_of_swords",
+        "heroId": "nomad_female_lord_costume_flame",
         "star": 5,
         "power": 848,
         "attack": 909,
@@ -68707,7 +68708,6 @@ window.allHeroes =
         ],
         "passives": [],
         "family": "classic",
-        "image": "https://i.imgur.com/rs8S0na.jpg",
         "costume_id": 1,
         "originalIndex": 1047,
         "lb1": {
@@ -68717,8 +68717,8 @@ window.allHeroes =
             "health": 1756
         },
         "lb2": {
-            "power": 1017,
-            "attack": 1122,
+            "power": 1016,
+            "attack": 1119,
             "defense": 779,
             "health": 2009
         },
@@ -68754,6 +68754,7 @@ window.allHeroes =
         "source": "Costume Quest",
         "Release date": "2023-08-07",
         "specialId": "wall_of_swords",
+        "heroId": "nomad_female_lord_costume_wicked",
         "star": 5,
         "power": 964,
         "attack": 923,
@@ -68765,7 +68766,6 @@ window.allHeroes =
         ],
         "passives": [],
         "family": "classic",
-        "image": "https://i.imgur.com/mKIsd5g.jpg",
         "costume_id": 2,
         "originalIndex": 1048,
         "lb1": {
@@ -68813,6 +68813,7 @@ window.allHeroes =
         "source": "Costume Quest",
         "Release date": "2024-05-31",
         "specialId": "wall_of_swords",
+        "heroId": "nomad_female_lord_costume_cute",
         "star": 5,
         "power": 1129,
         "attack": 1021,
@@ -68827,14 +68828,13 @@ window.allHeroes =
             "Toon: 75% extra chance to resist all status ailments, mana reductions and buff dispels."
         ],
         "family": "classic",
-        "image": "https://i.imgur.com/6Zu6Ag7.jpg",
         "costume_id": 3,
         "originalIndex": 1049,
         "lb1": {
-            "power": 1207,
+            "power": 1206,
             "attack": 1100,
             "defense": 1210,
-            "health": 2561
+            "health": 2558
         },
         "lb2": {
             "power": 1363,
@@ -68881,6 +68881,7 @@ window.allHeroes =
         "source": "Costume Quest",
         "Release date": "2025-07-16",
         "specialId": "wall_of_swords",
+        "heroId": "nomad_female_lord_costume_glass",
         "star": 5,
         "power": 1232,
         "attack": 1419,
@@ -68895,14 +68896,13 @@ window.allHeroes =
             "Glass: 60% extra chance to reflect status ailments back to the attacker."
         ],
         "family": "classic",
-        "image": "https://imgur.com/ttrlvih.jpg",
         "costume_id": 4,
         "originalIndex": 1050,
         "lb1": {
             "power": 1318,
             "attack": 1529,
             "defense": 1009,
-            "health": 2686
+            "health": 2683
         },
         "lb2": {
             "power": 1491,
@@ -68950,6 +68950,7 @@ window.allHeroes =
         "source": "Legends Summon - Hero of the Month",
         "Release date": "2025-03-01",
         "specialId": "flame_surge",
+        "heroId": "fire_god_eliane",
         "star": 5,
         "power": 1066,
         "attack": 1104,
@@ -68966,7 +68967,6 @@ window.allHeroes =
             "Mana on Burn: This character gains 5% mana each time an enemy receives Burn damage."
         ],
         "family": 2025,
-        "image": "https://i.imgur.com/MByoToE.jpg",
         "costume_id": 0,
         "originalIndex": 1051,
         "lb1": {
@@ -69022,6 +69022,7 @@ window.allHeroes =
         "source": "S4 - Wilderness",
         "Release date": "2021-03-25",
         "specialId": "widows_kiss",
+        "heroId": "s4_elizabeth",
         "star": 5,
         "power": 807,
         "attack": 768,
@@ -69037,7 +69038,6 @@ window.allHeroes =
             "Increase Buff Duration: Duration of the first 3 buffs this hero receives from Special Skills is increased by 1 turn"
         ],
         "family": "underwild",
-        "image": "https://i.imgur.com/5redygr.jpg",
         "costume_id": 0,
         "originalIndex": 1052,
         "lb1": {
@@ -69094,6 +69094,7 @@ window.allHeroes =
         "source": "S4 - Wilderness",
         "Release date": "2023-04-27",
         "specialId": "widows_kiss",
+        "heroId": "s4_elizabeth_costume_bride",
         "star": 5,
         "power": 1021,
         "attack": 1016,
@@ -69110,7 +69111,6 @@ window.allHeroes =
             "Increased Damage Against Boosted Health: After Special Skill cast, all allies' normal attacks and Special Skills deal +70% damage against targets with boosted health for 4 turns."
         ],
         "family": "underwild",
-        "image": "https://i.imgur.com/aGoeueo.jpg",
         "costume_id": 1,
         "originalIndex": 1053,
         "lb1": {
@@ -69167,6 +69167,7 @@ window.allHeroes =
         "source": "Covenant Summon",
         "Release date": "2025-05-08",
         "specialId": "firewall",
+        "heroId": "fox_ember",
         "star": 5,
         "power": 1179,
         "attack": 1260,
@@ -69181,7 +69182,6 @@ window.allHeroes =
             "Decreased Healing: All enemies get -50% healing."
         ],
         "family": "fox",
-        "image": "https://imgur.com/dTQNPFE.jpg",
         "costume_id": 0,
         "originalIndex": 1054,
         "lb1": {
@@ -69238,6 +69238,7 @@ window.allHeroes =
         "source": "Challenge Festival II",
         "Release date": "2021-06-10",
         "specialId": "flames_and_rejuvenation",
+        "heroId": "circus_emilio",
         "star": 5,
         "power": 809,
         "attack": 751,
@@ -69256,7 +69257,6 @@ window.allHeroes =
         ],
         "passives": [],
         "family": "starfall",
-        "image": "https://i.imgur.com/iAnFGWC.jpg",
         "costume_id": 0,
         "originalIndex": 1055,
         "lb1": {
@@ -69317,6 +69317,7 @@ window.allHeroes =
         "source": "Challenge Festival II",
         "Release date": "2025-04-09",
         "specialId": "flames_and_rejuvenation",
+        "heroId": "circus_emilio_costume_frog",
         "star": 5,
         "power": 1210,
         "attack": 1237,
@@ -69337,7 +69338,6 @@ window.allHeroes =
             "Copy Ailment on Cleanse: When a status ailment is cleansed from this hero, a new copy of the cleansed ailment is applied on a random enemy."
         ],
         "family": "starfall",
-        "image": "https://imgur.com/Jiz6BXT.jpg",
         "costume_id": 1,
         "originalIndex": 1056,
         "lb1": {
@@ -69396,6 +69396,7 @@ window.allHeroes =
         "source": "Tower - Styx",
         "Release date": "2022-09-21",
         "specialId": "dark_orb",
+        "heroId": "styx_erebus",
         "star": 5,
         "power": 857,
         "attack": 832,
@@ -69420,7 +69421,6 @@ window.allHeroes =
             "Decreased Minion Health: Enemy Minions inherit -50% less Health when summoned."
         ],
         "family": "styx",
-        "image": "https://i.imgur.com/gnNXm6f.jpg",
         "costume_id": 0,
         "originalIndex": 1057,
         "lb1": {
@@ -69474,6 +69474,7 @@ window.allHeroes =
         "source": "Tower - Owls",
         "Release date": "2024-05-08",
         "specialId": "song_of_hoot_and_holler",
+        "heroId": "owl_eron",
         "star": 5,
         "power": 1046,
         "attack": 1106,
@@ -69488,7 +69489,6 @@ window.allHeroes =
             "Reduce Mana Gain from Special Skills: Reduces the amount of mana increased by Special Skill by -80%. The effect applies to all enemies in the battle."
         ],
         "family": "owl",
-        "image": "https://i.imgur.com/THCrCkN.jpg",
         "costume_id": 0,
         "originalIndex": 1058,
         "lb1": {
@@ -69547,6 +69547,7 @@ window.allHeroes =
         "source": "Extra Draw - Secret Summon",
         "Release date": "2025-04-22",
         "specialId": "mimic_training_hero_red_bite",
+        "heroId": "mimic_training_hero_red",
         "star": 5,
         "power": 1200,
         "attack": 1236,
@@ -69568,7 +69569,6 @@ window.allHeroes =
             " * Uncommon Fire Heroes"
         ],
         "family": "mimic",
-        "image": "https://imgur.com/RRFijVL.jpg",
         "costume_id": 0,
         "originalIndex": 1059,
         "lb1": {
@@ -69629,6 +69629,7 @@ window.allHeroes =
         "source": "S7 - Treasures of Flame and Frost",
         "Release date": "2025-07-11",
         "specialId": "self_preservation",
+        "heroId": "tales2_fimafeng",
         "star": 5,
         "power": 1220,
         "attack": 1254,
@@ -69647,7 +69648,6 @@ window.allHeroes =
             " * The Frost damage is scaled by the amount of charge in the Core. All charge is exhausted when the Core is activated."
         ],
         "family": "myrkheim",
-        "image": "https://imgur.com/TXnhxAk.jpg",
         "costume_id": 0,
         "originalIndex": 1060,
         "lb1": {
@@ -69708,6 +69708,7 @@ window.allHeroes =
         "source": "Goblin Summon",
         "Release date": "2025-04-11",
         "specialId": "calling_the_bluff",
+        "heroId": "garrison_flamehide",
         "star": 5,
         "power": 1173,
         "attack": 1200,
@@ -69723,7 +69724,6 @@ window.allHeroes =
             "Guard Rally: Every 4 turns, removes all Wither effects from all allies."
         ],
         "family": "garrisonguard",
-        "image": "https://imgur.com/6fcJPYy.jpg",
         "costume_id": 0,
         "originalIndex": 1061,
         "lb1": {
@@ -69778,6 +69778,7 @@ window.allHeroes =
         "source": "Monthly Event - Beach Party",
         "Release date": "2023-06-12",
         "specialId": "to_the_rescue",
+        "heroId": "beachparty_flip",
         "star": 5,
         "power": 873,
         "attack": 834,
@@ -69793,7 +69794,6 @@ window.allHeroes =
             "Damage over time on Special: When this character casts their Special Skill, all enemies receive 200 Water damage over 2 turns."
         ],
         "family": "beachparty",
-        "image": "https://i.imgur.com/VLECZaD.jpg",
         "costume_id": 0,
         "originalIndex": 1062,
         "lb1": {
@@ -69847,6 +69847,7 @@ window.allHeroes =
         "source": "Monthly Event - Beach Party",
         "Release date": "2025-06-03",
         "specialId": "to_the_rescue",
+        "heroId": "beachparty_flip_costume_donut",
         "star": 5,
         "power": 1184,
         "attack": 1141,
@@ -69862,7 +69863,6 @@ window.allHeroes =
             "Resist Water Damage: This character has innate resistance against Water Damage."
         ],
         "family": "beachparty",
-        "image": "https://imgur.com/r5YqJOC.jpg",
         "costume_id": 1,
         "originalIndex": 1063,
         "lb1": {
@@ -69917,6 +69917,7 @@ window.allHeroes =
         "source": "Tower - Owls",
         "Release date": "2023-12-20",
         "specialId": "royal_assault",
+        "heroId": "owl_fulvia",
         "star": 5,
         "power": 985,
         "attack": 1032,
@@ -69931,7 +69932,6 @@ window.allHeroes =
             "Reduce Mana Gain from Special Skills: Reduces the amount of mana increased by Special Skill by -80%. The effect applies to all enemies in the battle."
         ],
         "family": "owl",
-        "image": "https://i.imgur.com/Z2G4Lwa.jpg",
         "costume_id": 0,
         "originalIndex": 1064,
         "lb1": {
@@ -69985,6 +69985,7 @@ window.allHeroes =
         "source": "Tower - Ninjas",
         "Release date": "2020-10-13",
         "specialId": "awaken_ki",
+        "heroId": "ninja_garnet",
         "star": 5,
         "power": 798,
         "attack": 731,
@@ -70003,7 +70004,6 @@ window.allHeroes =
         ],
         "passives": [],
         "family": "ninja",
-        "image": "https://i.imgur.com/Vxe7UpD.jpg",
         "costume_id": 0,
         "originalIndex": 1065,
         "lb1": {
@@ -70050,6 +70050,7 @@ window.allHeroes =
         "source": "S3 - Valhalla",
         "Release date": "2020-10-22",
         "specialId": "maidens_command",
+        "heroId": "s3_gefjon",
         "star": 5,
         "power": 785,
         "attack": 772,
@@ -70061,7 +70062,6 @@ window.allHeroes =
         ],
         "passives": [],
         "family": "muspelheim",
-        "image": "https://i.imgur.com/BYGrEEN.jpg",
         "costume_id": 0,
         "originalIndex": 1066,
         "lb1": {
@@ -70108,6 +70108,7 @@ window.allHeroes =
         "source": "S3 - Valhalla",
         "Release date": "2022-09-26",
         "specialId": "maidens_command",
+        "heroId": "s3_gefjon_costume_wilderness",
         "star": 5,
         "power": 983,
         "attack": 970,
@@ -70119,7 +70120,6 @@ window.allHeroes =
         ],
         "passives": [],
         "family": "muspelheim",
-        "image": "https://i.imgur.com/ZoOkEJb.jpg",
         "costume_id": 1,
         "originalIndex": 1067,
         "lb1": {
@@ -70167,6 +70167,7 @@ window.allHeroes =
         "source": "S6 - Mysteries of the Deep",
         "Release date": "2023-09-27",
         "specialId": "underwater_magma_cube",
+        "heroId": "tales1_gestalt",
         "star": 5,
         "power": 957,
         "attack": 898,
@@ -70193,7 +70194,6 @@ window.allHeroes =
             " * The caster gets +19% mana generation for 2 turns."
         ],
         "family": "nightmaresofatlantis",
-        "image": "https://i.imgur.com/vMt41XY.jpg",
         "costume_id": 0,
         "originalIndex": 1068,
         "lb1": {
@@ -70247,6 +70247,7 @@ window.allHeroes =
         "source": "S6 - Mysteries of the Deep",
         "Release date": "2024-06-20",
         "specialId": "underwater_magma_cube",
+        "heroId": "tales1_gestalt_costume_pearls",
         "star": 5,
         "power": 1190,
         "attack": 1214,
@@ -70274,7 +70275,6 @@ window.allHeroes =
             "Resist Insanity: This character has innate resistance against Insanity."
         ],
         "family": "nightmaresofatlantis",
-        "image": "https://i.imgur.com/WnfoNeZ.jpg",
         "costume_id": 1,
         "originalIndex": 1069,
         "lb1": {
@@ -70329,6 +70329,7 @@ window.allHeroes =
         "source": "Super Elementals",
         "Release date": "2025-05-04",
         "specialId": "alchemy_experiment",
+        "heroId": "slime_gooze",
         "star": 5,
         "power": 1193,
         "attack": 1139,
@@ -70345,7 +70346,6 @@ window.allHeroes =
             "Slime Minion Split: If this character loses more than 25% of max health at once, they summon a Slime Mega Minion for themselves with 50% HP and 40% attack."
         ],
         "family": "slime",
-        "image": "https://imgur.com/GSjZbQW.jpg",
         "costume_id": 0,
         "originalIndex": 1070,
         "lb1": {
@@ -70400,6 +70400,7 @@ window.allHeroes =
         "source": "Legends Summon - Hero of the Month",
         "Release date": "2018-06-01",
         "specialId": "ashes_to_ashes",
+        "heroId": "fire_god_doom",
         "star": 5,
         "power": 768,
         "attack": 727,
@@ -70413,7 +70414,6 @@ window.allHeroes =
         ],
         "passives": [],
         "family": 2018,
-        "image": "https://i.imgur.com/pPTSbFy.jpg",
         "costume_id": 0,
         "originalIndex": 1071,
         "lb1": {
@@ -70469,6 +70469,7 @@ window.allHeroes =
         "source": "Legends Summon - Hero of the Month",
         "Release date": "2021-10-20",
         "specialId": "ashes_to_ashes",
+        "heroId": "fire_god_doom_costume_avenger",
         "star": 5,
         "power": 976,
         "attack": 922,
@@ -70483,7 +70484,6 @@ window.allHeroes =
             "Dispel on Special Skill: When this character casts their Special Skill, they dispel the newest status effect buff from all enemies."
         ],
         "family": 2018,
-        "image": "https://i.imgur.com/qMb0Vgk.jpg",
         "costume_id": 1,
         "originalIndex": 1072,
         "lb1": {
@@ -70537,6 +70537,7 @@ window.allHeroes =
         "source": "Legends Summon - Hero of the Month",
         "Release date": "2019-09-01",
         "specialId": "mending_mantra",
+        "heroId": "fire_god_nadnog",
         "star": 5,
         "power": 770,
         "attack": 628,
@@ -70551,7 +70552,6 @@ window.allHeroes =
             "Resist Healing Ailments: This character has an innate ability to resist status aliments that affect Healing"
         ],
         "family": 2019,
-        "image": "https://i.imgur.com/URTQAvF.jpg",
         "costume_id": 0,
         "originalIndex": 1073,
         "lb1": {
@@ -70600,6 +70600,7 @@ window.allHeroes =
         "source": "Challenge Festival I",
         "Release date": "2020-05-01",
         "specialId": "lord_of_the_jungle",
+        "heroId": "guardian_gorilla_chieftain",
         "star": 5,
         "power": 765,
         "attack": 786,
@@ -70612,7 +70613,6 @@ window.allHeroes =
         ],
         "passives": [],
         "family": "guardiansteltoc",
-        "image": "https://i.imgur.com/4n0L387.jpg",
         "costume_id": 0,
         "originalIndex": 1074,
         "lb1": {
@@ -70667,6 +70667,7 @@ window.allHeroes =
         "source": "Challenge Festival I",
         "Release date": "2022-04-14",
         "specialId": "lord_of_the_jungle",
+        "heroId": "guardian_gorilla_chieftain_costume_conqueror",
         "star": 5,
         "power": 960,
         "attack": 1007,
@@ -70679,7 +70680,6 @@ window.allHeroes =
         ],
         "passives": [],
         "family": "guardiansteltoc",
-        "image": "https://i.imgur.com/cXwWGpL.jpg",
         "costume_id": 1,
         "originalIndex": 1075,
         "lb1": {
@@ -70732,6 +70732,7 @@ window.allHeroes =
         "source": "Challenge - Gargoyle",
         "Release date": "2024-07-25",
         "specialId": "reflecting_stance",
+        "heroId": "gargoyle_guffa",
         "star": 5,
         "power": 1080,
         "attack": 984,
@@ -70747,7 +70748,6 @@ window.allHeroes =
             "Gargoyle’s Stoneskin: Every time this Gargoyle casts a Special Skill, their Stoneskin hardens. The next 5 times they receive damage, it is reduced by -90%, and they resist all status ailment and mana reduction. This effect can’t be dispelled."
         ],
         "family": "gargoyle",
-        "image": "https://i.imgur.com/i3PGL4o.jpg",
         "costume_id": 0,
         "originalIndex": 1076,
         "lb1": {
@@ -70799,6 +70799,7 @@ window.allHeroes =
         "source": "Astral Summon",
         "Release date": "2024-03-28",
         "specialId": "celestial_anvil",
+        "heroId": "astral_hammerclang",
         "star": 5,
         "power": 1013,
         "attack": 1027,
@@ -70815,7 +70816,6 @@ window.allHeroes =
             "Share Received Damage: 20% of damage received by this charater is shared with other allies."
         ],
         "family": "astralelves",
-        "image": "https://i.imgur.com/ujdL1Bx.jpg",
         "costume_id": 0,
         "originalIndex": 1077,
         "lb1": {
@@ -70868,6 +70868,7 @@ window.allHeroes =
         "source": "S5 - Dune",
         "Release date": "2022-12-22",
         "specialId": "motherly_care",
+        "heroId": "s5_hathor",
         "star": 5,
         "power": 843,
         "attack": 774,
@@ -70883,14 +70884,13 @@ window.allHeroes =
             " * All allies gain a small amount of mana."
         ],
         "family": "moon",
-        "image": "https://i.imgur.com/sV7BVbk.jpg",
         "costume_id": 0,
         "originalIndex": 1078,
         "lb1": {
             "power": 899,
             "attack": 834,
             "defense": 856,
-            "health": 1736
+            "health": 1733
         },
         "lb2": {
             "power": 1011,
@@ -70932,6 +70932,7 @@ window.allHeroes =
         "source": "S5 - Dune",
         "Release date": "2024-02-05",
         "specialId": "motherly_care",
+        "heroId": "s5_hathor_costume_starlit",
         "star": 5,
         "power": 1178,
         "attack": 1116,
@@ -70949,7 +70950,6 @@ window.allHeroes =
             "Resist Mana Generation Stopping: This character has an innate resistance against status ailments that affect stop mana generation."
         ],
         "family": "moon",
-        "image": "https://i.imgur.com/blidD7L.jpg",
         "costume_id": 1,
         "originalIndex": 1079,
         "lb1": {
@@ -71000,6 +71000,7 @@ window.allHeroes =
         "source": "Challenge - Gargoyle",
         "Release date": "2022-09-08",
         "specialId": "possessor_of_penance",
+        "heroId": "gargoyle_hohenwerf",
         "star": 5,
         "power": 841,
         "attack": 805,
@@ -71015,7 +71016,6 @@ window.allHeroes =
             "Gargoyle’s Stoneskin: Every time this Gargoyle casts a Special Skill, their Stoneskin hardens. The next 3 times they receive damage, it is dropped to 1. This effect can’t be dispelled."
         ],
         "family": "gargoyle",
-        "image": "https://i.imgur.com/mNDZ6lN.jpg",
         "costume_id": 0,
         "originalIndex": 1080,
         "lb1": {
@@ -71069,6 +71069,7 @@ window.allHeroes =
         "source": "Covenant Summon",
         "Release date": "2024-01-16",
         "specialId": "bulwark_charge",
+        "heroId": "construct_hornfel",
         "star": 5,
         "power": 1055,
         "attack": 1021,
@@ -71088,7 +71089,6 @@ window.allHeroes =
             "Destructive Core: The Construct Core of this character is Destructive Core. The Destructive Core activates each time this character’s Special Skill is cast: * With fully charged Destructive Core, deals 180% damage to all enemies. * The damage is scaled by the amount of charge in the Core. All charge is exchausted when the Core is activated."
         ],
         "family": "construct",
-        "image": "https://i.imgur.com/ScWEXwn.jpg",
         "costume_id": 0,
         "originalIndex": 1081,
         "lb1": {
@@ -71138,6 +71138,7 @@ window.allHeroes =
         "source": "Tower - Styx",
         "Release date": "2022-06-01",
         "specialId": "sweet_dreams",
+        "heroId": "styx_hypnos",
         "star": 5,
         "power": 849,
         "attack": 846,
@@ -71162,7 +71163,6 @@ window.allHeroes =
             "Decreased Minion Health: Enemy Minions inherit -50% less Health when summoned."
         ],
         "family": "styx",
-        "image": "https://i.imgur.com/HPFyboz.jpg",
         "costume_id": 0,
         "originalIndex": 1082,
         "lb1": {
@@ -71216,6 +71216,7 @@ window.allHeroes =
         "source": "Goblin Summon",
         "Release date": "2025-04-29",
         "specialId": "ring_around_the_rosie",
+        "heroId": "garrison_iarlaith",
         "star": 5,
         "power": 1177,
         "attack": 1200,
@@ -71231,7 +71232,6 @@ window.allHeroes =
             "Guard Rally: Every 4 turns, removes all Wither effects from all allies."
         ],
         "family": "garrisonguard",
-        "image": "https://imgur.com/ruIGzTu.jpg",
         "costume_id": 0,
         "originalIndex": 1083,
         "lb1": {
@@ -71287,6 +71287,7 @@ window.allHeroes =
         "source": "Super Elementals",
         "Release date": "2023-03-27",
         "specialId": "purifying_flame",
+        "heroId": "elemental_ignazio",
         "star": 5,
         "power": 953,
         "attack": 887,
@@ -71306,7 +71307,6 @@ window.allHeroes =
             " - Received elemental damage: -10%"
         ],
         "family": "superelemental",
-        "image": "https://i.imgur.com/y6oi4Yq.jpg",
         "costume_id": 0,
         "originalIndex": 1084,
         "lb1": {
@@ -71363,6 +71363,7 @@ window.allHeroes =
         "source": "Super Elementals",
         "Release date": "2025-05-24",
         "specialId": "purifying_flame",
+        "heroId": "elemental_ignazio_costume_medic",
         "star": 5,
         "power": 1239,
         "attack": 1175,
@@ -71382,7 +71383,6 @@ window.allHeroes =
             " - Received elemental damage: -25%"
         ],
         "family": "superelemental",
-        "image": "https://imgur.com/jf9JtOu.jpg",
         "costume_id": 1,
         "originalIndex": 1085,
         "lb1": {
@@ -71437,6 +71437,7 @@ window.allHeroes =
         "source": "Monthly Event - Kalevala",
         "Release date": "2022-06-20",
         "specialId": "forged_in_fire",
+        "heroId": "kalevala_ilmarinen",
         "star": 5,
         "power": 937,
         "attack": 863,
@@ -71451,7 +71452,6 @@ window.allHeroes =
             "Power of Sisu: When this character starts a turn with low health for the first time during a battle, they recover 15% health and receive 15% mana."
         ],
         "family": "kalevala",
-        "image": "https://i.imgur.com/WriV7pU.jpg",
         "costume_id": 0,
         "originalIndex": 1086,
         "lb1": {
@@ -71505,6 +71505,7 @@ window.allHeroes =
         "source": "Monthly Event - Kalevala",
         "Release date": "2025-07-28",
         "specialId": "forged_in_fire",
+        "heroId": "kalevala_ilmarinen_costume_gold",
         "star": 5,
         "power": 1220,
         "attack": 1151,
@@ -71519,20 +71520,19 @@ window.allHeroes =
             "Power of Sisu: When this character starts a turn with low health for the first time during a battle, they recover 15% health and receive 15% mana."
         ],
         "family": "kalevala",
-        "image": "https://imgur.com/G8Zln8R.jpg",
         "costume_id": 1,
         "originalIndex": 1087,
         "lb1": {
-            "power": 1305,
+            "power": 1304,
             "attack": 1239,
             "defense": 1346,
-            "health": 2643
+            "health": 2639
         },
         "lb2": {
             "power": 1476,
             "attack": 1419,
             "defense": 1541,
-            "health": 3024
+            "health": 3021
         },
         "cn_skill_info": [
             {
@@ -71574,6 +71574,7 @@ window.allHeroes =
         "source": "Goblin Summon",
         "Release date": "2024-07-07",
         "specialId": "aces_high",
+        "heroId": "garrison_iocantha",
         "star": 5,
         "power": 1102,
         "attack": 1170,
@@ -71589,7 +71590,6 @@ window.allHeroes =
             "Guard Rally: Every 4 turns, removes all Wither effects from all allies."
         ],
         "family": "garrisonguard",
-        "image": "https://i.imgur.com/mk7552K.jpg",
         "costume_id": 0,
         "originalIndex": 1088,
         "lb1": {
@@ -71641,6 +71641,7 @@ window.allHeroes =
         "source": "Wilderness Summon",
         "Release date": "2024-12-31",
         "specialId": "flurry_of_blows",
+        "heroId": "faun_isidore",
         "star": 5,
         "power": 1154,
         "attack": 1184,
@@ -71657,7 +71658,6 @@ window.allHeroes =
             "Resist Attack Ailments: This character has innate resistance against status ailments that affect attack."
         ],
         "family": "woodlandfaun",
-        "image": "https://i.imgur.com/sj8AKxx.jpg",
         "costume_id": 0,
         "originalIndex": 1089,
         "lb1": {
@@ -71707,6 +71707,7 @@ window.allHeroes =
         "source": "Challenge Festival II",
         "Release date": "2021-02-11",
         "specialId": "vengeful_scythe",
+        "heroId": "villain_isrod",
         "star": 5,
         "power": 804,
         "attack": 758,
@@ -71719,7 +71720,6 @@ window.allHeroes =
         ],
         "passives": [],
         "family": "villains",
-        "image": "https://i.imgur.com/LVoPJQp.jpg",
         "costume_id": 0,
         "originalIndex": 1090,
         "lb1": {
@@ -71768,6 +71768,7 @@ window.allHeroes =
         "source": "Legends Summon - Hero of the Month",
         "Release date": "2020-02-01",
         "specialId": "seal_of_fire",
+        "heroId": "fire_god_jean_francois",
         "star": 5,
         "power": 771,
         "attack": 737,
@@ -71783,7 +71784,6 @@ window.allHeroes =
             "Resist Health Steal Ailments: The Hero has an innate resistance against status ailments that Steal Health."
         ],
         "family": 2020,
-        "image": "https://i.imgur.com/Fq9orae.jpg",
         "costume_id": 0,
         "originalIndex": 1091,
         "lb1": {
@@ -71839,6 +71839,7 @@ window.allHeroes =
         "source": "S1 - Classic",
         "Release date": "2017-03-01",
         "specialId": "khans_order",
+        "heroId": "tribal_chief",
         "star": 5,
         "power": 757,
         "attack": 710,
@@ -71851,7 +71852,6 @@ window.allHeroes =
         ],
         "passives": [],
         "family": "classic",
-        "image": "https://i.imgur.com/Qk5TZ17.jpg",
         "costume_id": 0,
         "originalIndex": 1092,
         "lb1": {
@@ -71901,6 +71901,7 @@ window.allHeroes =
         "source": "Costume Quest",
         "Release date": "2021-01-18",
         "specialId": "khans_order",
+        "heroId": "tribal_chief_costume_conqueror",
         "star": 5,
         "power": 853,
         "attack": 819,
@@ -71913,7 +71914,6 @@ window.allHeroes =
         ],
         "passives": [],
         "family": "classic",
-        "image": "https://i.imgur.com/Wuav96d.jpg",
         "costume_id": 1,
         "originalIndex": 1093,
         "lb1": {
@@ -71963,6 +71963,7 @@ window.allHeroes =
         "source": "Costume Quest",
         "Release date": "2022-09-05",
         "specialId": "khans_order",
+        "heroId": "tribal_chief_costume_leopard",
         "star": 5,
         "power": 969,
         "attack": 930,
@@ -71975,7 +71976,6 @@ window.allHeroes =
         ],
         "passives": [],
         "family": "classic",
-        "image": "https://i.imgur.com/Az13Jne.jpg",
         "costume_id": 2,
         "originalIndex": 1094,
         "lb1": {
@@ -72026,6 +72026,7 @@ window.allHeroes =
         "source": "Costume Quest",
         "Release date": "2024-04-08",
         "specialId": "khans_order",
+        "heroId": "tribal_chief_costume_cute",
         "star": 5,
         "power": 1136,
         "attack": 1154,
@@ -72041,7 +72042,6 @@ window.allHeroes =
             "Toon: 75% extra chance to resist all status ailments, mana reductions and buff dispels."
         ],
         "family": "classic",
-        "image": "https://i.imgur.com/tV5jaYy.jpg",
         "costume_id": 3,
         "originalIndex": 1095,
         "lb1": {
@@ -72098,6 +72098,7 @@ window.allHeroes =
         "source": "Costume Quest",
         "Release date": "2025-06-18",
         "specialId": "khans_order",
+        "heroId": "tribal_chief_costume_glass",
         "star": 5,
         "power": 1241,
         "attack": 1310,
@@ -72113,18 +72114,17 @@ window.allHeroes =
             "Glass: 60% extra chance to reflect status ailments back to the attacker."
         ],
         "family": "classic",
-        "image": "https://imgur.com/gv5Agq9.jpg",
         "costume_id": 4,
         "originalIndex": 1096,
         "lb1": {
-            "power": 1328,
-            "attack": 1414,
+            "power": 1327,
+            "attack": 1410,
             "defense": 1165,
-            "health": 2734
+            "health": 2731
         },
         "lb2": {
-            "power": 1501,
-            "attack": 1617,
+            "power": 1500,
+            "attack": 1614,
             "defense": 1333,
             "health": 3127
         },
@@ -72168,6 +72168,7 @@ window.allHeroes =
         "source": "S5 - Dune",
         "Release date": "2022-04-21",
         "specialId": "perplexing_riddle",
+        "heroId": "s5_khafre",
         "star": 5,
         "power": 858,
         "attack": 819,
@@ -72184,7 +72185,6 @@ window.allHeroes =
             " * All enemies receive 243 Sand damage over 3 turns."
         ],
         "family": "sun",
-        "image": "https://i.imgur.com/waF0HXl.jpg",
         "costume_id": 0,
         "originalIndex": 1097,
         "lb1": {
@@ -72233,6 +72233,7 @@ window.allHeroes =
         "source": "S5 - Dune",
         "Release date": "2024-11-01",
         "specialId": "perplexing_riddle",
+        "heroId": "s5_khafre_costume_aquatic",
         "star": 5,
         "power": 1200,
         "attack": 1229,
@@ -72251,7 +72252,6 @@ window.allHeroes =
             "Increased Special Skill Damage: The first time this character casts a Special Skill that deals damage, an additional 50% is added to its power."
         ],
         "family": "sun",
-        "image": "https://i.imgur.com/5tsbayA.jpg",
         "costume_id": 1,
         "originalIndex": 1098,
         "lb1": {
@@ -72299,6 +72299,7 @@ window.allHeroes =
         "source": "S4 - Wilderness",
         "Release date": "2022-02-24",
         "specialId": "inevitable_demise",
+        "heroId": "s4_kravekrush",
         "star": 5,
         "power": 814,
         "attack": 786,
@@ -72313,7 +72314,6 @@ window.allHeroes =
             "Start Battle with Mana: This character receives 20% mana at the start of the battle."
         ],
         "family": "underwild",
-        "image": "https://i.imgur.com/xMJYpsy.jpg",
         "costume_id": 0,
         "originalIndex": 1099,
         "lb1": {
@@ -72360,6 +72360,7 @@ window.allHeroes =
         "source": "S4 - Wilderness",
         "Release date": "2024-09-26",
         "specialId": "inevitable_demise",
+        "heroId": "s4_kravekrush_costume_grillmaster",
         "star": 5,
         "power": 1031,
         "attack": 1019,
@@ -72375,7 +72376,6 @@ window.allHeroes =
             "Increased Damage Against Boosted Health: After this character casts their Special Skill, all allies deal +70% increased normal attack and Special Skills damage against targets with boosted health for 4 turns."
         ],
         "family": "underwild",
-        "image": "https://i.imgur.com/m5PtQ2l.jpg",
         "costume_id": 1,
         "originalIndex": 1100,
         "lb1": {
@@ -72423,6 +72423,7 @@ window.allHeroes =
         "source": "S3 - Valhalla",
         "Release date": "2020-07-23",
         "specialId": "tricksters_malice",
+        "heroId": "s3_loki_female",
         "star": 5,
         "power": 787,
         "attack": 747,
@@ -72435,7 +72436,6 @@ window.allHeroes =
         ],
         "passives": [],
         "family": "helheim",
-        "image": "https://i.imgur.com/NzRPKjE.jpg",
         "costume_id": 0,
         "originalIndex": 1101,
         "lb1": {
@@ -72484,6 +72484,7 @@ window.allHeroes =
         "source": "S3 - Valhalla",
         "Release date": "2023-10-23",
         "specialId": "tricksters_malice",
+        "heroId": "s3_loki_female_costume_mother",
         "star": 5,
         "power": 985,
         "attack": 876,
@@ -72496,7 +72497,6 @@ window.allHeroes =
         ],
         "passives": [],
         "family": "helheim",
-        "image": "https://i.imgur.com/R89Eh1b.jpg",
         "costume_id": 1,
         "originalIndex": 1102,
         "lb1": {
@@ -72545,6 +72545,7 @@ window.allHeroes =
         "source": "S6 - Mysteries of the Deep",
         "Release date": "2023-06-07",
         "specialId": "flanking_maneuver",
+        "heroId": "tales1_lasalle",
         "star": 5,
         "power": 935,
         "attack": 994,
@@ -72570,7 +72571,6 @@ window.allHeroes =
             "Resist Insanity: This character has innate resistance against Insanity."
         ],
         "family": "defendersofatlantis",
-        "image": "https://i.imgur.com/bpyUqBe.jpg",
         "costume_id": 0,
         "originalIndex": 1103,
         "lb1": {
@@ -72618,6 +72618,7 @@ window.allHeroes =
         "source": "S6 - Mysteries of the Deep",
         "Release date": "2024-09-21",
         "specialId": "flanking_maneuver",
+        "heroId": "tales1_lasalle_costume_jockey",
         "star": 5,
         "power": 1163,
         "attack": 1246,
@@ -72643,7 +72644,6 @@ window.allHeroes =
             "Resist Insanity: This character has innate resistance against Insanity."
         ],
         "family": "defendersofatlantis",
-        "image": "https://imgur.com/SU2agg6.jpg",
         "costume_id": 1,
         "originalIndex": 1104,
         "lb1": {
@@ -72691,6 +72691,7 @@ window.allHeroes =
         "source": "Alliance - Knights Clash",
         "Release date": "2022-01-05",
         "specialId": "impeding_bolts",
+        "heroId": "castle_raven_lewena",
         "star": 5,
         "power": 822,
         "attack": 795,
@@ -72702,7 +72703,6 @@ window.allHeroes =
         ],
         "passives": [],
         "family": "raven",
-        "image": "https://i.imgur.com/gUcWHX0.jpg",
         "costume_id": 0,
         "originalIndex": 1105,
         "lb1": {
@@ -72754,6 +72754,7 @@ window.allHeroes =
         "source": "Three Kingdoms Summon",
         "Release date": "2025-05-22",
         "specialId": "whirlwind_blows",
+        "heroId": "outlaw_li_kui",
         "star": 5,
         "power": 1203,
         "attack": 1155,
@@ -72774,7 +72775,6 @@ window.allHeroes =
             "Resist Bleed Damage: This character has innate resistance against Bleed.    "
         ],
         "family": "outlaws",
-        "image": "https://imgur.com/lLZBxt1.jpg",
         "costume_id": 0,
         "originalIndex": 1106,
         "lb1": {
@@ -72825,6 +72825,7 @@ window.allHeroes =
         "source": "Tower - Owls",
         "Release date": "2024-02-14",
         "specialId": "battleclaw_strike",
+        "heroId": "owl_lodius",
         "star": 5,
         "power": 1004,
         "attack": 1042,
@@ -72839,7 +72840,6 @@ window.allHeroes =
             "Reduce Mana Gain from Special Skills: Reduces the amount of mana increased by Special Skill by -80%. The effect applies to all enemies in the battle."
         ],
         "family": "owl",
-        "image": "https://i.imgur.com/SHNhyqR.jpg",
         "costume_id": 0,
         "originalIndex": 1107,
         "lb1": {
@@ -72901,6 +72901,7 @@ window.allHeroes =
         "source": "Goblin Summon",
         "Release date": "2023-10-16",
         "specialId": "heedless_hammer_flurry",
+        "heroId": "goblin_madhammer",
         "star": 5,
         "power": 949,
         "attack": 939,
@@ -72918,7 +72919,6 @@ window.allHeroes =
             " * All enemies get -25% accuracy for 3 turns."
         ],
         "family": "goblin",
-        "image": "https://i.imgur.com/dPF8ESH.jpg",
         "costume_id": 0,
         "originalIndex": 1108,
         "lb1": {
@@ -72979,6 +72979,7 @@ window.allHeroes =
         "source": "Tower - Ninjas",
         "Release date": "2024-09-24",
         "specialId": "lacerating_leap",
+        "heroId": "ninja_malum",
         "star": 5,
         "power": 1102,
         "attack": 1310,
@@ -73003,7 +73004,6 @@ window.allHeroes =
             "Decreased Minion Health: Enemy Minions inherit -50% less Health when summoned."
         ],
         "family": "ninja",
-        "image": "https://i.imgur.com/bcCvi3b.jpg",
         "costume_id": 0,
         "originalIndex": 1109,
         "lb1": {
@@ -73057,6 +73057,7 @@ window.allHeroes =
         "source": "Legends Summon - Hero of the Month",
         "Release date": "2025-08-01",
         "specialId": "autumnal_wind",
+        "heroId": "fire_god_maple",
         "star": 5,
         "power": 1125,
         "attack": 1106,
@@ -73073,7 +73074,6 @@ window.allHeroes =
             "Health Recovery on Buff Received: This character recover 5% health when they receive a buff or positive stack."
         ],
         "family": 2025,
-        "image": "https://imgur.com/R97TCxU.jpg",
         "costume_id": 0,
         "originalIndex": 1110,
         "lb1": {
@@ -73120,6 +73120,7 @@ window.allHeroes =
         "source": "S1 - Classic",
         "Release date": "2017-03-01",
         "specialId": "magma_smash",
+        "heroId": "nomad_female_captain",
         "star": 5,
         "power": 755,
         "attack": 669,
@@ -73131,7 +73132,6 @@ window.allHeroes =
         ],
         "passives": [],
         "family": "classic",
-        "image": "https://i.imgur.com/H8u69R9.jpg",
         "costume_id": 0,
         "originalIndex": 1111,
         "lb1": {
@@ -73181,6 +73181,7 @@ window.allHeroes =
         "source": "Costume Quest",
         "Release date": "2021-01-18",
         "specialId": "magma_smash",
+        "heroId": "nomad_female_captain_costume_pirate",
         "star": 5,
         "power": 849,
         "attack": 811,
@@ -73193,7 +73194,6 @@ window.allHeroes =
         ],
         "passives": [],
         "family": "classic",
-        "image": "https://i.imgur.com/E1sWcp1.jpg",
         "costume_id": 1,
         "originalIndex": 1112,
         "lb1": {
@@ -73243,6 +73243,7 @@ window.allHeroes =
         "source": "Costume Quest",
         "Release date": "2023-06-12",
         "specialId": "magma_smash",
+        "heroId": "nomad_female_captain_costume_thief",
         "star": 5,
         "power": 965,
         "attack": 926,
@@ -73255,7 +73256,6 @@ window.allHeroes =
         ],
         "passives": [],
         "family": "classic",
-        "image": "https://i.imgur.com/onSikNW.jpg",
         "costume_id": 2,
         "originalIndex": 1113,
         "lb1": {
@@ -73265,9 +73265,9 @@ window.allHeroes =
             "health": 2115
         },
         "lb2": {
-            "power": 1162,
+            "power": 1161,
             "attack": 1142,
-            "defense": 1068,
+            "defense": 1065,
             "health": 2420
         },
         "cn_skill_info": [
@@ -73305,6 +73305,7 @@ window.allHeroes =
         "source": "Costume Quest",
         "Release date": "2023-12-25",
         "specialId": "magma_smash",
+        "heroId": "nomad_female_captain_costume_cute",
         "star": 5,
         "power": 1132,
         "attack": 1081,
@@ -73319,7 +73320,6 @@ window.allHeroes =
             "Toon: 75% extra chance to resist all status ailments, mana reductions and buff dispels."
         ],
         "family": "classic",
-        "image": "https://i.imgur.com/CuDeIo0.jpg",
         "costume_id": 3,
         "originalIndex": 1114,
         "lb1": {
@@ -73374,6 +73374,7 @@ window.allHeroes =
         "source": "Costume Quest",
         "Release date": "2025-02-11",
         "specialId": "magma_smash",
+        "heroId": "nomad_female_captain_costume_glass",
         "star": 5,
         "power": 1237,
         "attack": 1310,
@@ -73388,18 +73389,17 @@ window.allHeroes =
             "Glass: 60% extra chance to reflect status ailments back to the attacker."
         ],
         "family": "classic",
-        "image": "https://i.imgur.com/wWSeZW9.jpg",
         "costume_id": 4,
         "originalIndex": 1115,
         "lb1": {
-            "power": 1324,
-            "attack": 1414,
+            "power": 1322,
+            "attack": 1410,
             "defense": 1246,
-            "health": 2540
+            "health": 2537
         },
         "lb2": {
-            "power": 1497,
-            "attack": 1617,
+            "power": 1496,
+            "attack": 1614,
             "defense": 1426,
             "health": 2906
         },
@@ -73444,6 +73444,7 @@ window.allHeroes =
         "source": "S2 - Atlantis",
         "Release date": "2019-02-01",
         "specialId": "dark_mirror",
+        "heroId": "s2_noble_lady",
         "star": 5,
         "power": 775,
         "attack": 696,
@@ -73456,7 +73457,6 @@ window.allHeroes =
         ],
         "passives": [],
         "family": "sakura",
-        "image": "https://i.imgur.com/xMxFVwW.jpg",
         "costume_id": 0,
         "originalIndex": 1116,
         "lb1": {
@@ -73511,6 +73511,7 @@ window.allHeroes =
         "source": "S2 - Atlantis",
         "Release date": "2023-03-06",
         "specialId": "dark_mirror",
+        "heroId": "s2_noble_lady_costume_warrior",
         "star": 5,
         "power": 947,
         "attack": 895,
@@ -73523,7 +73524,6 @@ window.allHeroes =
         ],
         "passives": [],
         "family": "sakura",
-        "image": "https://i.imgur.com/8AHvvyw.jpg",
         "costume_id": 1,
         "originalIndex": 1117,
         "lb1": {
@@ -73533,10 +73533,10 @@ window.allHeroes =
             "health": 2056
         },
         "lb2": {
-            "power": 1139,
+            "power": 1138,
             "attack": 1103,
             "defense": 1066,
-            "health": 2354
+            "health": 2351
         },
         "cn_skill_info": [
             {
@@ -73582,6 +73582,7 @@ window.allHeroes =
         "source": "Tower - Magic",
         "Release date": "2021-09-15",
         "specialId": "flame_of_the_dragon_familiar",
+        "heroId": "magic_nadezhda",
         "star": 5,
         "power": 818,
         "attack": 776,
@@ -73601,7 +73602,6 @@ window.allHeroes =
             "Health recovery on special: When this character casts their Special Skill, they have a 50% chance to recover 15% health for all allies. If the Special Skill is fully charged, the chance is 100%."
         ],
         "family": "magic",
-        "image": "https://i.imgur.com/i5g8Fr0.jpg",
         "costume_id": 0,
         "originalIndex": 1118,
         "lb1": {
@@ -73665,6 +73665,7 @@ window.allHeroes =
         "source": "Tower - Magic",
         "Release date": "2025-07-05",
         "specialId": "flame_of_the_dragon_familiar",
+        "heroId": "magic_nadezhda_costume_postmaster",
         "star": 5,
         "power": 1215,
         "attack": 1245,
@@ -73685,14 +73686,13 @@ window.allHeroes =
             "Weaker Mega Minions: Enemy Mega Minions have -75% HP."
         ],
         "family": "magic",
-        "image": "https://imgur.com/bdS7gtT.jpg",
         "costume_id": 1,
         "originalIndex": 1119,
         "lb1": {
-            "power": 1300,
+            "power": 1299,
             "attack": 1340,
             "defense": 1309,
-            "health": 2425
+            "health": 2422
         },
         "lb2": {
             "power": 1469,
@@ -73744,6 +73744,7 @@ window.allHeroes =
         "source": "Tower - Magic",
         "Release date": "2025-04-17",
         "specialId": "countering_hammock",
+        "heroId": "magic_carpet_naeem",
         "star": 5,
         "power": 1200,
         "attack": 1221,
@@ -73763,7 +73764,6 @@ window.allHeroes =
             "Weaker Mega Minions: Enemy Mega Minions have -75% HP."
         ],
         "family": "magiccarpet",
-        "image": "https://imgur.com/F7qBR0P.jpg",
         "costume_id": 0,
         "originalIndex": 1120,
         "lb1": {
@@ -73823,6 +73823,7 @@ window.allHeroes =
         "source": "Legends Summon - Hero of the Month",
         "Release date": "2018-01-01",
         "specialId": "burning_chains",
+        "heroId": "fire_god_natalya",
         "star": 5,
         "power": 765,
         "attack": 718,
@@ -73836,7 +73837,6 @@ window.allHeroes =
         ],
         "passives": [],
         "family": 2018,
-        "image": "https://i.imgur.com/vuOEJDC.jpg",
         "costume_id": 0,
         "originalIndex": 1121,
         "lb1": {
@@ -73892,6 +73892,7 @@ window.allHeroes =
         "source": "Legends Summon - Hero of the Month",
         "Release date": "2023-05-15",
         "specialId": "burning_chains",
+        "heroId": "fire_god_natalya_costume_seamstress",
         "star": 5,
         "power": 973,
         "attack": 935,
@@ -73907,14 +73908,13 @@ window.allHeroes =
             "Dispel on Special Skill: When this character casts their Special Skill, they dispel the newest status effect buff from all enemies."
         ],
         "family": 2018,
-        "image": "https://i.imgur.com/IO9WHYd.jpg",
         "costume_id": 1,
         "originalIndex": 1122,
         "lb1": {
             "power": 1039,
             "attack": 1008,
             "defense": 916,
-            "health": 2182
+            "health": 2179
         },
         "lb2": {
             "power": 1171,
@@ -73964,6 +73964,7 @@ window.allHeroes =
         "source": "Legends Summon - Hero of the Month",
         "Release date": "2023-11-01",
         "specialId": "fire_tiger",
+        "heroId": "fire_god_neema",
         "star": 5,
         "power": 891,
         "attack": 824,
@@ -73981,7 +73982,6 @@ window.allHeroes =
             "Resist Special Skill Blocking: This character has innate resistance against status ailments that block Special Skills."
         ],
         "family": 2023,
-        "image": "https://i.imgur.com/hih0AUp.jpg",
         "costume_id": 0,
         "originalIndex": 1123,
         "lb1": {
@@ -74036,6 +74036,7 @@ window.allHeroes =
         "source": "Covenant Summon",
         "Release date": "2025-06-03",
         "specialId": "paw_in_every_pie",
+        "heroId": "fox_nibbles",
         "star": 5,
         "power": 1186,
         "attack": 1229,
@@ -74050,7 +74051,6 @@ window.allHeroes =
             "Decreased Healing: All enemies get -50% healing."
         ],
         "family": "fox",
-        "image": "https://imgur.com/i6CnqeB.jpg",
         "costume_id": 0,
         "originalIndex": 1124,
         "lb1": {
@@ -74099,6 +74099,7 @@ window.allHeroes =
         "source": "Super Elementals",
         "Release date": "2024-02-26",
         "specialId": "pain_harvest",
+        "heroId": "elemental_niki",
         "star": 5,
         "power": 1010,
         "attack": 968,
@@ -74117,7 +74118,6 @@ window.allHeroes =
             " - Received elemental damage: -10%"
         ],
         "family": "superelemental",
-        "image": "https://i.imgur.com/yN68oIc.jpg",
         "costume_id": 0,
         "originalIndex": 1125,
         "lb1": {
@@ -74169,6 +74169,7 @@ window.allHeroes =
         "source": "Tower - Ninjas",
         "Release date": "2024-08-27",
         "specialId": "silent_takedown",
+        "heroId": "ninja_nomad",
         "star": 5,
         "power": 1093,
         "attack": 1248,
@@ -74192,7 +74193,6 @@ window.allHeroes =
             "Decreased Minion Health: Enemy Minions inherit -50% less Health when summoned."
         ],
         "family": "ninja",
-        "image": "https://i.imgur.com/k0TDdBr.jpg",
         "costume_id": 0,
         "originalIndex": 1126,
         "lb1": {
@@ -74248,6 +74248,7 @@ window.allHeroes =
         "source": "Legends Summon - Hero of the Month",
         "Release date": "2020-07-01",
         "specialId": "sparrow_fury",
+        "heroId": "fire_god_noor",
         "star": 5,
         "power": 774,
         "attack": 704,
@@ -74263,7 +74264,6 @@ window.allHeroes =
             "Sparrow Summoner: Summons a Sparrow Minion for self when an enemy summons any Minions by Special Skill."
         ],
         "family": 2020,
-        "image": "https://i.imgur.com/GEznO1b.jpg",
         "costume_id": 0,
         "originalIndex": 1127,
         "lb1": {
@@ -74312,6 +74312,7 @@ window.allHeroes =
         "source": "Legends Summon",
         "Release date": "2024-01-11",
         "specialId": "unstoppable_charge",
+        "heroId": "champions_norman",
         "star": 5,
         "power": 993,
         "attack": 1013,
@@ -74328,7 +74329,6 @@ window.allHeroes =
             "Ignore Taunt: The character’s Special Skill is not affected by Taunt."
         ],
         "family": "champions",
-        "image": "https://i.imgur.com/xFLIwuu.jpg",
         "costume_id": 0,
         "originalIndex": 1128,
         "lb1": {
@@ -74378,6 +74378,7 @@ window.allHeroes =
         "source": "S2 - Atlantis",
         "Release date": "2022-06-27",
         "specialId": "strength_of_the_benemoth",
+        "heroId": "s2_oceanus",
         "star": 5,
         "power": 835,
         "attack": 883,
@@ -74390,7 +74391,6 @@ window.allHeroes =
         ],
         "passives": [],
         "family": "atlantis",
-        "image": "https://i.imgur.com/BZVWKzM.jpg",
         "costume_id": 0,
         "originalIndex": 1129,
         "lb1": {
@@ -74439,6 +74439,7 @@ window.allHeroes =
         "source": "S4 - Wilderness",
         "Release date": "2021-10-07",
         "specialId": "hallowed_blade",
+        "heroId": "s4_octros",
         "star": 5,
         "power": 810,
         "attack": 762,
@@ -74453,7 +74454,6 @@ window.allHeroes =
             "Increase Buff Duration: Duration of the first 3 buff this hero receives from Special Skills is increased by 1 turn."
         ],
         "family": "underwild",
-        "image": "https://i.imgur.com/zGSnaa1.jpg",
         "costume_id": 0,
         "originalIndex": 1130,
         "lb1": {
@@ -74507,6 +74507,7 @@ window.allHeroes =
         "source": "S4 - Wilderness",
         "Release date": "2023-08-17",
         "specialId": "hallowed_blade",
+        "heroId": "s4_octros_costume_suitor",
         "star": 5,
         "power": 1027,
         "attack": 1059,
@@ -74522,7 +74523,6 @@ window.allHeroes =
             "Increased Damage Against Boosted Health: After Special Skill cast, all allies' normal attacks and Special Skills deal +70% damage against targets with boosted health for 4 turns."
         ],
         "family": "underwild",
-        "image": "https://i.imgur.com/uAzDRXt.jpg",
         "costume_id": 1,
         "originalIndex": 1131,
         "lb1": {
@@ -74577,6 +74577,7 @@ window.allHeroes =
         "source": "Mystery - Shadow Summon",
         "Release date": "2024-04-21",
         "specialId": "ritual_of_the_deep",
+        "heroId": "shadow_omen",
         "star": 5,
         "power": 1127,
         "attack": 1176,
@@ -74594,7 +74595,6 @@ window.allHeroes =
             "Marked by the Old Ones: All damage is reduced by 5% per 10 Insanity for this character up to a maximum reduction of 50%."
         ],
         "family": "cultist",
-        "image": "https://i.imgur.com/lX6ylxv.jpg",
         "costume_id": 0,
         "originalIndex": 1132,
         "lb1": {
@@ -74649,6 +74649,7 @@ window.allHeroes =
         "source": "Monster Island Summon",
         "Release date": "2022-12-24",
         "specialId": "dauntless_bladestorm",
+        "heroId": "monster_hunter_otis",
         "star": 5,
         "power": 888,
         "attack": 861,
@@ -74664,7 +74665,6 @@ window.allHeroes =
             "Damage over Time on Special: When this character casts their Special Skill, they give a Hunter’s Mark on a random enemy. The target receives 150 damage over 3 turns. If a target already has this effect, the duration will be refreshed and the damage will be increased by 150, up to 1500 damage in total."
         ],
         "family": "abysshunter",
-        "image": "https://i.imgur.com/z2xqRCU.jpg",
         "costume_id": 0,
         "originalIndex": 1133,
         "lb1": {
@@ -74717,6 +74717,7 @@ window.allHeroes =
         "source": "Monthly Event - Winter",
         "Release date": "2024-12-01",
         "specialId": "mistletoe_medley",
+        "heroId": "christmas_ottilia",
         "star": 5,
         "power": 1124,
         "attack": 1165,
@@ -74730,7 +74731,6 @@ window.allHeroes =
         ],
         "passives": [],
         "family": "christmas",
-        "image": "https://i.imgur.com/Y8kn5Mx.jpg",
         "costume_id": 0,
         "originalIndex": 1134,
         "lb1": {
@@ -74781,6 +74781,7 @@ window.allHeroes =
         "source": "Goblin Summon",
         "Release date": "2024-01-08",
         "specialId": "chords_of_havoc",
+        "heroId": "goblin_pepperflame",
         "star": 5,
         "power": 989,
         "attack": 1050,
@@ -74797,7 +74798,6 @@ window.allHeroes =
             " * All enemies get -25% accuracy for 3 turns."
         ],
         "family": "goblin",
-        "image": "https://i.imgur.com/O681MYE.jpg",
         "costume_id": 0,
         "originalIndex": 1135,
         "lb1": {
@@ -74858,6 +74858,7 @@ window.allHeroes =
         "source": "Challenge Festival II",
         "Release date": "2022-08-11",
         "specialId": "ballad_of_restoration",
+        "heroId": "bard_phenexa",
         "star": 5,
         "power": 869,
         "attack": 819,
@@ -74873,7 +74874,6 @@ window.allHeroes =
             "Revival Chance Reduction: The chance of revival is reduced for all enemies in the battle. The chance is 20% of the original value."
         ],
         "family": "bard",
-        "image": "https://i.imgur.com/LzmbqjK.jpg",
         "costume_id": 0,
         "originalIndex": 1136,
         "lb1": {
@@ -74930,6 +74930,7 @@ window.allHeroes =
         "source": "Astral Summon",
         "Release date": "2025-02-28",
         "specialId": "planar_time_widget",
+        "heroId": "astral_dwarf_pluth",
         "star": 5,
         "power": 1171,
         "attack": 1246,
@@ -74946,7 +74947,6 @@ window.allHeroes =
             "Perfect Accuracy: This character’s Special Skill never misses its targets."
         ],
         "family": "astraldwarfs",
-        "image": "https://i.imgur.com/OSAvxSD.jpg",
         "costume_id": 0,
         "originalIndex": 1137,
         "lb1": {
@@ -75001,6 +75001,7 @@ window.allHeroes =
         "source": "Challenge Festival I",
         "Release date": "2019-12-01",
         "specialId": "three_blind_mice",
+        "heroId": "fables_puss_in_boots",
         "star": 5,
         "power": 781,
         "attack": 764,
@@ -75014,7 +75015,6 @@ window.allHeroes =
         ],
         "passives": [],
         "family": "grimforest",
-        "image": "https://i.imgur.com/H73nb1h.jpg",
         "costume_id": 0,
         "originalIndex": 1138,
         "lb1": {
@@ -75069,6 +75069,7 @@ window.allHeroes =
         "source": "Challenge Festival I",
         "Release date": "2023-08-10",
         "specialId": "three_blind_mice",
+        "heroId": "fables_puss_in_boots_costume_highwaycat",
         "star": 5,
         "power": 978,
         "attack": 1066,
@@ -75082,7 +75083,6 @@ window.allHeroes =
         ],
         "passives": [],
         "family": "grimforest",
-        "image": "https://i.imgur.com/emXl6nU.jpg",
         "costume_id": 1,
         "originalIndex": 1139,
         "lb1": {
@@ -75137,6 +75137,7 @@ window.allHeroes =
         "source": "Challenge Festival I",
         "Release date": "2019-02-14",
         "specialId": "queen_of_cards",
+        "heroId": "wonderland_queen",
         "star": 5,
         "power": 768,
         "attack": 638,
@@ -75150,7 +75151,6 @@ window.allHeroes =
         ],
         "passives": [],
         "family": "wonderland",
-        "image": "https://i.imgur.com/12RLqSK.jpg",
         "costume_id": 0,
         "originalIndex": 1140,
         "lb1": {
@@ -75206,6 +75206,7 @@ window.allHeroes =
         "source": "Challenge Festival I",
         "Release date": "2023-10-05",
         "specialId": "queen_of_cards",
+        "heroId": "wonderland_queen_costume_benefactor",
         "star": 5,
         "power": 965,
         "attack": 748,
@@ -75221,7 +75222,6 @@ window.allHeroes =
             "Mindless Attack On Special Skill: On Special Skill cast, 50% chance to inflict Mindless Attack on a random enemy for 3 turns."
         ],
         "family": "wonderland",
-        "image": "https://i.imgur.com/q5xoHJ1.jpg",
         "costume_id": 1,
         "originalIndex": 1141,
         "lb1": {
@@ -75281,6 +75281,7 @@ window.allHeroes =
         "source": "Wilderness Summon",
         "Release date": "2025-03-17",
         "specialId": "royal_meatball_buffet",
+        "heroId": "wild_cat_rajesh",
         "star": 5,
         "power": 1214,
         "attack": 1320,
@@ -75304,7 +75305,6 @@ window.allHeroes =
             " * - Growth and Wither effects."
         ],
         "family": "wildcat",
-        "image": "https://i.imgur.com/8rK2qLv.jpg",
         "costume_id": 0,
         "originalIndex": 1142,
         "lb1": {
@@ -75360,6 +75360,7 @@ window.allHeroes =
         "source": "Mystery - Shadow Summon",
         "Release date": "2024-07-18",
         "specialId": "cuts_of_hulu",
+        "heroId": "shadow_rashan",
         "star": 5,
         "power": 1141,
         "attack": 1205,
@@ -75374,7 +75375,6 @@ window.allHeroes =
             "Marked by the Old Ones: All damage is reduced by 5% per 10 Insanity for this character up to a maximum reduction of 50%."
         ],
         "family": "cultist",
-        "image": "https://i.imgur.com/WJH09pj.jpg",
         "costume_id": 0,
         "originalIndex": 1143,
         "lb1": {
@@ -75435,6 +75435,7 @@ window.allHeroes =
         "source": "Tower - Magic",
         "Release date": "2023-05-03",
         "specialId": "blazing_slam_dunk",
+        "heroId": "magic_ray",
         "star": 5,
         "power": 890,
         "attack": 867,
@@ -75456,7 +75457,6 @@ window.allHeroes =
             "Stack on Special: When this character casts their Special Skill, they have a 50% chance to give 10% mana to all allies. If the Special Skill is fully charged, the chance is 100%."
         ],
         "family": "magic",
-        "image": "https://i.imgur.com/0vSBWSh.jpg",
         "costume_id": 0,
         "originalIndex": 1144,
         "lb1": {
@@ -75523,6 +75523,7 @@ window.allHeroes =
         "source": "Tower - Magic",
         "Release date": "2025-07-23",
         "specialId": "blazing_slam_dunk",
+        "heroId": "magic_ray_costume_spiky",
         "star": 5,
         "power": 1222,
         "attack": 1248,
@@ -75545,7 +75546,6 @@ window.allHeroes =
             "Weaker Mega Minions: Enemy Mega Minions have -75% HP."
         ],
         "family": "magic",
-        "image": "https://imgur.com/QG8aRPS.jpg",
         "costume_id": 1,
         "originalIndex": 1145,
         "lb1": {
@@ -75603,6 +75603,7 @@ window.allHeroes =
         "source": "Challenge Festival I",
         "Release date": "2019-12-01",
         "specialId": "forest_friends",
+        "heroId": "fables_red_hood",
         "star": 5,
         "power": 767,
         "attack": 729,
@@ -75614,7 +75615,6 @@ window.allHeroes =
         ],
         "passives": [],
         "family": "grimforest",
-        "image": "https://i.imgur.com/P4he1aZ.jpg",
         "costume_id": 0,
         "originalIndex": 1146,
         "lb1": {
@@ -75674,6 +75674,7 @@ window.allHeroes =
         "source": "S7 - Treasures of Flame and Frost",
         "Release date": "2024-12-03",
         "specialId": "master_plan",
+        "heroId": "tales2_regin",
         "star": 5,
         "power": 1165,
         "attack": 1184,
@@ -75692,14 +75693,13 @@ window.allHeroes =
             " * The Burn damage is scaled by the amount of charge in the Core. All charge is exhausted when the Core is activated."
         ],
         "family": "nidavellir",
-        "image": "https://i.imgur.com/IX7uDP5.jpg",
         "costume_id": 0,
         "originalIndex": 1147,
         "lb1": {
             "power": 1246,
             "attack": 1276,
             "defense": 1229,
-            "health": 2364
+            "health": 2361
         },
         "lb2": {
             "power": 1408,
@@ -75751,6 +75751,7 @@ window.allHeroes =
         "source": "Legends Summon - Hero of the Month",
         "Release date": "2020-12-01",
         "specialId": "occult_redemption",
+        "heroId": "fire_god_reuben",
         "star": 5,
         "power": 782,
         "attack": 766,
@@ -75765,7 +75766,6 @@ window.allHeroes =
             "Resist Mana Generation Ailments: This character has innate resistance against status ailments and negative stacks that affect Mana Generation. Doesn't apply to status ailments that stop mana generation or steal mana."
         ],
         "family": 2020,
-        "image": "https://i.imgur.com/0xyk3F5.jpg",
         "costume_id": 0,
         "originalIndex": 1148,
         "lb1": {
@@ -75816,6 +75816,7 @@ window.allHeroes =
         "source": "Monster Island Summon",
         "Release date": "2024-10-18",
         "specialId": "cloak_of_feathers",
+        "heroId": "monster_hunter_revna",
         "star": 5,
         "power": 1143,
         "attack": 1124,
@@ -75831,7 +75832,6 @@ window.allHeroes =
             "Damage over Time on Special: When this character casts their Special Skill, they give a Hunter’s Mark on a random enemy. The target receives 150 damage over 3 turns. If a target already has this effect, the duration will be refreshed and the damage will be increased by 150, up to 1500 damage in total."
         ],
         "family": "plainshunter",
-        "image": "https://i.imgur.com/Uu7gHck.jpg",
         "costume_id": 0,
         "originalIndex": 1149,
         "lb1": {
@@ -75884,6 +75884,7 @@ window.allHeroes =
         "source": "Goblin Summon",
         "Release date": "2024-03-18",
         "specialId": "goblin_explosives",
+        "heroId": "goblin_rocket",
         "star": 5,
         "power": 1020,
         "attack": 1073,
@@ -75901,7 +75902,6 @@ window.allHeroes =
             " * All enemies get -25% accuracy for 3 turns."
         ],
         "family": "goblin",
-        "image": "https://i.imgur.com/BGl8jIC.jpg",
         "costume_id": 0,
         "originalIndex": 1150,
         "lb1": {
@@ -75957,6 +75957,7 @@ window.allHeroes =
         "source": "Mystery - Shadow Summon",
         "Release date": "2025-04-03",
         "specialId": "last_words",
+        "heroId": "shadow_rosanna",
         "star": 5,
         "power": 1182,
         "attack": 1233,
@@ -75970,14 +75971,13 @@ window.allHeroes =
         ],
         "passives": [],
         "family": "investigator",
-        "image": "https://imgur.com/nHDvy8i.jpg",
         "costume_id": 0,
         "originalIndex": 1151,
         "lb1": {
             "power": 1264,
             "attack": 1329,
             "defense": 1249,
-            "health": 2322
+            "health": 2319
         },
         "lb2": {
             "power": 1429,
@@ -76022,6 +76022,7 @@ window.allHeroes =
         "source": "Legends Summon - Hero of the Month",
         "Release date": "2023-01-01",
         "specialId": "mana_scavange",
+        "heroId": "fire_god_roughian_and_nurgib",
         "star": 5,
         "power": 819,
         "attack": 809,
@@ -76038,7 +76039,6 @@ window.allHeroes =
             "Mana on Health Recovery: This character receives 5% mana each time its health is recovered."
         ],
         "family": 2023,
-        "image": "https://i.imgur.com/zCcV9K1.jpg",
         "costume_id": 0,
         "originalIndex": 1152,
         "lb1": {
@@ -76097,6 +76097,7 @@ window.allHeroes =
         "source": "Monster Island Summon",
         "Release date": "2024-06-26",
         "specialId": "scourge_of_the_strong",
+        "heroId": "monster_hunter_ruadh",
         "star": 5,
         "power": 1128,
         "attack": 1089,
@@ -76115,7 +76116,6 @@ window.allHeroes =
             "Damage over Time on Special: When this character casts their Special Skill, they give a Hunter’s Mark on a random enemy. The target receives 150 damage over 3 turns. If a target already has this effect, the duration will be refreshed and the damage will be increased by 150, up to 1500 damage in total."
         ],
         "family": "plainshunter",
-        "image": "https://i.imgur.com/O01zlXm.jpg",
         "costume_id": 0,
         "originalIndex": 1153,
         "lb1": {
@@ -76175,6 +76175,7 @@ window.allHeroes =
         "source": "Tower - Ninjas",
         "Release date": "2021-11-10",
         "specialId": "crimson_calamity",
+        "heroId": "ninja_ruby",
         "star": 5,
         "power": 818,
         "attack": 819,
@@ -76197,7 +76198,6 @@ window.allHeroes =
         ],
         "passives": [],
         "family": "ninja",
-        "image": "https://i.imgur.com/LIQiSIc.jpg",
         "costume_id": 0,
         "originalIndex": 1154,
         "lb1": {
@@ -76251,6 +76251,7 @@ window.allHeroes =
         "source": "Legends Summon - Hero of the Month",
         "Release date": "2021-10-01",
         "specialId": "sure_fire_combustion",
+        "heroId": "fire_god_russell",
         "star": 5,
         "power": 795,
         "attack": 795,
@@ -76267,7 +76268,6 @@ window.allHeroes =
             "Mana on Burn: This character gains 5% mana each time an enemy receives Burn damage."
         ],
         "family": 2021,
-        "image": "https://i.imgur.com/EoY0Pni.jpg",
         "costume_id": 0,
         "originalIndex": 1155,
         "lb1": {
@@ -76324,6 +76324,7 @@ window.allHeroes =
         "source": "Covenant Summon",
         "Release date": "2024-08-20",
         "specialId": "cover_slam",
+        "heroId": "fox_rust",
         "star": 5,
         "power": 1136,
         "attack": 1116,
@@ -76339,7 +76340,6 @@ window.allHeroes =
             "Decreased Healing: All enemies get -50% healing."
         ],
         "family": "fox",
-        "image": "https://i.imgur.com/4i0UTeY.jpg",
         "costume_id": 0,
         "originalIndex": 1156,
         "lb1": {
@@ -76401,6 +76401,7 @@ window.allHeroes =
         "source": "Challenge Festival II",
         "Release date": "2024-12-12",
         "specialId": "magical_balan",
+        "heroId": "bard_balafon",
         "star": 5,
         "power": 1151,
         "attack": 1252,
@@ -76418,14 +76419,13 @@ window.allHeroes =
             "Quick Tempo Dance: All Dances cast by enemies only last for 1 turn."
         ],
         "family": "bard",
-        "image": "https://i.imgur.com/UX2vcRH.jpg",
         "costume_id": 0,
         "originalIndex": 1157,
         "lb1": {
             "power": 1231,
             "attack": 1349,
             "defense": 1232,
-            "health": 2069
+            "health": 2066
         },
         "lb2": {
             "power": 1391,
@@ -76475,6 +76475,7 @@ window.allHeroes =
         "source": "Monthly Event - Winter",
         "Release date": "2018-12-01",
         "specialId": "ultimate_giftsack",
+        "heroId": "christmas_santa",
         "star": 5,
         "power": 774,
         "attack": 618,
@@ -76488,7 +76489,6 @@ window.allHeroes =
         ],
         "passives": [],
         "family": "christmas",
-        "image": "https://i.imgur.com/gDDhARF.jpg",
         "costume_id": 0,
         "originalIndex": 1158,
         "lb1": {
@@ -76545,6 +76545,7 @@ window.allHeroes =
         "source": "Monthly Event - Winter",
         "Release date": "2021-12-01",
         "specialId": "ultimate_giftsack",
+        "heroId": "christmas_santa_costume_metal",
         "star": 5,
         "power": 1002,
         "attack": 861,
@@ -76558,7 +76559,6 @@ window.allHeroes =
         ],
         "passives": [],
         "family": "christmas",
-        "image": "https://i.imgur.com/3zbVEXc.jpg",
         "costume_id": 1,
         "originalIndex": 1159,
         "lb1": {
@@ -76617,6 +76617,7 @@ window.allHeroes =
         "source": "Challenge Festival II",
         "Release date": "2021-08-05",
         "specialId": "fracturing_slash",
+        "heroId": "slayer_saoirse",
         "star": 5,
         "power": 810,
         "attack": 737,
@@ -76632,7 +76633,6 @@ window.allHeroes =
             "Resist Damage from Status Effects: This charater has innate resistance against incoming damage from status effects."
         ],
         "family": "slayer",
-        "image": "https://i.imgur.com/pHj3rld.jpg",
         "costume_id": 0,
         "originalIndex": 1160,
         "lb1": {
@@ -76692,6 +76692,7 @@ window.allHeroes =
         "source": "Challenge Festival II",
         "Release date": "2024-11-14",
         "specialId": "fracturing_slash",
+        "heroId": "slayer_saoirse_costume_knight",
         "star": 5,
         "power": 1212,
         "attack": 1028,
@@ -76708,7 +76709,6 @@ window.allHeroes =
             "Bleed on Special Skill: When this character casts their Special Skill, all enemies receive 452 Bleed damage over 4 turns."
         ],
         "family": "slayer",
-        "image": "https://i.imgur.com/yHVhyhO.jpg",
         "costume_id": 1,
         "originalIndex": 1161,
         "lb1": {
@@ -76718,9 +76718,9 @@ window.allHeroes =
             "health": 2638
         },
         "lb2": {
-            "power": 1466,
+            "power": 1465,
             "attack": 1266,
-            "defense": 1698,
+            "defense": 1695,
             "health": 3019
         },
         "cn_skill_info": [
@@ -76767,6 +76767,7 @@ window.allHeroes =
         "source": "Covenant Summon",
         "Release date": "2024-05-19",
         "specialId": "cauterizing_touch",
+        "heroId": "construct_scoria",
         "star": 5,
         "power": 1049,
         "attack": 1046,
@@ -76784,7 +76785,6 @@ window.allHeroes =
             " * The poison damage is scaled by the amount of charge in the Core. All charge is exhausted when the Core is activated."
         ],
         "family": "construct",
-        "image": "https://i.imgur.com/wqf6SNR.jpg",
         "costume_id": 0,
         "originalIndex": 1162,
         "lb1": {
@@ -76837,6 +76837,7 @@ window.allHeroes =
         "source": "Astral Summon",
         "Release date": "2025-07-27",
         "specialId": "light_my_fire",
+        "heroId": "astral_dwarf_sedille",
         "star": 5,
         "power": 1223,
         "attack": 1271,
@@ -76853,7 +76854,6 @@ window.allHeroes =
             "Perfect Accuracy: This character’s Special Skill never misses its targets."
         ],
         "family": "astraldwarfs",
-        "image": "https://imgur.com/hHTFqKf.jpg",
         "costume_id": 0,
         "originalIndex": 1163,
         "lb1": {
@@ -76909,6 +76909,7 @@ window.allHeroes =
         "source": "S5 - Dune",
         "Release date": "2022-09-01",
         "specialId": "pounce_of_the_lioness",
+        "heroId": "s5_sekhmet",
         "star": 5,
         "power": 863,
         "attack": 889,
@@ -76924,7 +76925,6 @@ window.allHeroes =
             " * All enemies get -34% attack for 3 turns."
         ],
         "family": "sun",
-        "image": "https://i.imgur.com/8oISZes.jpg",
         "costume_id": 0,
         "originalIndex": 1164,
         "lb1": {
@@ -76967,6 +76967,7 @@ window.allHeroes =
         "source": "S5 - Dune",
         "Release date": "2025-03-17",
         "specialId": "pounce_of_the_lioness",
+        "heroId": "s5_sekhmet_costume_warden",
         "star": 5,
         "power": 1206,
         "attack": 1328,
@@ -76984,7 +76985,6 @@ window.allHeroes =
             "Mana on Health Boosting Special Skill: This character gains 5% mana each time an enemy casts a Special Skill that directly boosts health."
         ],
         "family": "sun",
-        "image": "https://i.imgur.com/ykQVLB2.jpg",
         "costume_id": 1,
         "originalIndex": 1165,
         "lb1": {
@@ -77030,6 +77030,7 @@ window.allHeroes =
         "source": "Tower - Ninjas",
         "Release date": "2023-01-11",
         "specialId": "burning_ashes",
+        "heroId": "ninja_serandite",
         "star": 5,
         "power": 867,
         "attack": 916,
@@ -77052,7 +77053,6 @@ window.allHeroes =
         ],
         "passives": [],
         "family": "ninja",
-        "image": "https://i.imgur.com/3lmxyeL.jpg",
         "costume_id": 0,
         "originalIndex": 1166,
         "lb1": {
@@ -77104,6 +77104,7 @@ window.allHeroes =
         "source": "Legends Summon - Hero of the Month",
         "Release date": "2023-06-01",
         "specialId": "halting_counter_strike",
+        "heroId": "fire_god_skargremar",
         "star": 5,
         "power": 824,
         "attack": 766,
@@ -77120,7 +77121,6 @@ window.allHeroes =
             "Resist Defense Ailments: This character has innate resistance against ailments and negative stacks that affect defense. Doesn’t apply to status ailments that affect elemental defense."
         ],
         "family": 2023,
-        "image": "https://i.imgur.com/biXpSCt.jpg",
         "costume_id": 0,
         "originalIndex": 1167,
         "lb1": {
@@ -77176,6 +77176,7 @@ window.allHeroes =
         "source": "Astral Summon",
         "Release date": "2023-11-21",
         "specialId": "enchanted_elven_sword",
+        "heroId": "astral_sparklight",
         "star": 5,
         "power": 1012,
         "attack": 1060,
@@ -77192,7 +77193,6 @@ window.allHeroes =
             "Share Received Damage: 20% of damage received by this charater is shared with other allies."
         ],
         "family": "astralelves",
-        "image": "https://i.imgur.com/wnVpRMp.jpg",
         "costume_id": 0,
         "originalIndex": 1168,
         "lb1": {
@@ -77250,6 +77250,7 @@ window.allHeroes =
         "source": "Three Kingdoms Summon",
         "Release date": "2022-09-12",
         "specialId": "command_to_advance",
+        "heroId": "kingdom_sun_quan",
         "star": 5,
         "power": 838,
         "attack": 791,
@@ -77262,7 +77263,6 @@ window.allHeroes =
         ],
         "passives": [],
         "family": "kingdom",
-        "image": "https://i.imgur.com/EShG44Z.jpg",
         "costume_id": 0,
         "originalIndex": 1169,
         "lb1": {
@@ -77317,6 +77317,7 @@ window.allHeroes =
         "source": "Three Kingdoms Summon",
         "Release date": "2024-11-30",
         "specialId": "command_to_advance",
+        "heroId": "kingdom_sun_quan_costume_fire_bat",
         "star": 5,
         "power": 1110,
         "attack": 1125,
@@ -77334,14 +77335,13 @@ window.allHeroes =
             " * Minion attack and abilities can’t be disabled."
         ],
         "family": "kingdom",
-        "image": "https://i.imgur.com/FrxOT5n.jpg",
         "costume_id": 1,
         "originalIndex": 1170,
         "lb1": {
             "power": 1186,
             "attack": 1213,
             "defense": 1098,
-            "health": 2356
+            "health": 2353
         },
         "lb2": {
             "power": 1339,
@@ -77390,6 +77390,7 @@ window.allHeroes =
         "source": "Legends Summon - Hero of the Month",
         "Release date": "2022-08-01",
         "specialId": "hunters_mark",
+        "heroId": "fire_god_tahir",
         "star": 5,
         "power": 810,
         "attack": 795,
@@ -77406,7 +77407,6 @@ window.allHeroes =
             "Resist Bleed Damage: This character has innate resistance against Bleed."
         ],
         "family": 2022,
-        "image": "https://i.imgur.com/CooQRgw.jpg",
         "costume_id": 0,
         "originalIndex": 1171,
         "lb1": {
@@ -77461,6 +77461,7 @@ window.allHeroes =
         "source": "S5 - Dune",
         "Release date": "2022-10-27",
         "specialId": "ancient_spell",
+        "heroId": "s5_tetisheri",
         "star": 5,
         "power": 864,
         "attack": 830,
@@ -77477,7 +77478,6 @@ window.allHeroes =
             " * Dispells the latest dispellable buff from all enemies."
         ],
         "family": "moon",
-        "image": "https://i.imgur.com/vkAXXiK.jpg",
         "costume_id": 0,
         "originalIndex": 1172,
         "lb1": {
@@ -77530,6 +77530,7 @@ window.allHeroes =
         "source": "S5 - Dune",
         "Release date": "2024-05-27",
         "specialId": "ancient_spell",
+        "heroId": "s5_tetisheri_costume_molten",
         "star": 5,
         "power": 1207,
         "attack": 1254,
@@ -77548,7 +77549,6 @@ window.allHeroes =
             "Mana on Status Ailment Received: This character gains 5% mana when they receive a status ailment or negative stack."
         ],
         "family": "moon",
-        "image": "https://i.imgur.com/TVr5JnF.jpg",
         "costume_id": 1,
         "originalIndex": 1173,
         "lb1": {
@@ -77601,6 +77601,7 @@ window.allHeroes =
         "source": "Monthly Event - Springvale",
         "Release date": "2024-03-18",
         "specialId": "adventure_awaits",
+        "heroId": "easter_timothy",
         "star": 5,
         "power": 999,
         "attack": 978,
@@ -77613,7 +77614,6 @@ window.allHeroes =
         ],
         "passives": [],
         "family": "springvale",
-        "image": "https://i.imgur.com/64Tdmgl.jpg",
         "costume_id": 0,
         "originalIndex": 1174,
         "lb1": {
@@ -77668,6 +77668,7 @@ window.allHeroes =
         "source": "Alliance - Knights Clash",
         "Release date": "2023-10-18",
         "specialId": "mark_the_prey",
+        "heroId": "castle_bear_torben",
         "star": 5,
         "power": 980,
         "attack": 1034,
@@ -77682,7 +77683,6 @@ window.allHeroes =
             "Health Recovery on Buff Received: This character recovers 5% health when they receive a buff or a positive stack."
         ],
         "family": "bear",
-        "image": "https://i.imgur.com/bzqfe23.jpg",
         "costume_id": 0,
         "originalIndex": 1175,
         "lb1": {
@@ -77736,6 +77736,7 @@ window.allHeroes =
         "source": "S3 - Valhalla",
         "Release date": "2020-02-28",
         "specialId": "adamantite_claw",
+        "heroId": "s3_tyr",
         "star": 5,
         "power": 790,
         "attack": 772,
@@ -77750,7 +77751,6 @@ window.allHeroes =
         ],
         "passives": [],
         "family": "helheim",
-        "image": "https://i.imgur.com/tjoH1nb.jpg",
         "costume_id": 0,
         "originalIndex": 1176,
         "lb1": {
@@ -77809,6 +77809,7 @@ window.allHeroes =
         "source": "S3 - Valhalla",
         "Release date": "2023-02-13",
         "specialId": "adamantite_claw",
+        "heroId": "s3_tyr_costume_savage",
         "star": 5,
         "power": 989,
         "attack": 988,
@@ -77822,7 +77823,6 @@ window.allHeroes =
         ],
         "passives": [],
         "family": "helheim",
-        "image": "https://i.imgur.com/7UO34fo.jpg",
         "costume_id": 1,
         "originalIndex": 1177,
         "lb1": {
@@ -77885,6 +77885,7 @@ window.allHeroes =
         "source": "Monthly Event - Kalevala",
         "Release date": "2023-08-07",
         "specialId": "chords_of_distortion",
+        "heroId": "kalevala_ukkonen",
         "star": 5,
         "power": 917,
         "attack": 846,
@@ -77900,7 +77901,6 @@ window.allHeroes =
             "Power of Sisu: When this character starts a turn with low health for the first time during a battle, they recover 15% health and receive 15% mana."
         ],
         "family": "kalevala",
-        "image": "https://i.imgur.com/tAIchka.jpg",
         "costume_id": 0,
         "originalIndex": 1178,
         "lb1": {
@@ -77957,6 +77957,7 @@ window.allHeroes =
         "source": "Monthly Event - Kalevala",
         "Release date": "2024-07-22",
         "specialId": "chords_of_distortion",
+        "heroId": "kalevala_ukkonen_costume_ukkonen_infernal",
         "star": 5,
         "power": 1189,
         "attack": 1159,
@@ -77972,14 +77973,13 @@ window.allHeroes =
             "Power of Sisu: When this character starts a turn with low health for the first time during a battle, they recover 15% health and receive 15% mana."
         ],
         "family": "kalevala",
-        "image": "https://i.imgur.com/0QCrvIl.jpg",
         "costume_id": 1,
         "originalIndex": 1179,
         "lb1": {
             "power": 1271,
             "attack": 1248,
             "defense": 1322,
-            "health": 2427
+            "health": 2424
         },
         "lb2": {
             "power": 1437,
@@ -78028,6 +78028,7 @@ window.allHeroes =
         "source": "Monthly Event - Morlovia",
         "Release date": "2020-10-26",
         "specialId": "twilight_of_sorrow",
+        "heroId": "halloween_vanda",
         "star": 5,
         "power": 795,
         "attack": 774,
@@ -78042,7 +78043,6 @@ window.allHeroes =
             "Steal Buff: When this character casts their Special Skill, they have a 50% chance to steal the newest dispellable buff from a random enemy that has buffs. If no enemy has buffs, deals 70% damage to all enemies."
         ],
         "family": "morlovia",
-        "image": "https://i.imgur.com/FsFObHs.jpg",
         "costume_id": 0,
         "originalIndex": 1180,
         "lb1": {
@@ -78097,6 +78097,7 @@ window.allHeroes =
         "source": "Monthly Event - Morlovia",
         "Release date": "2021-10-04",
         "specialId": "twilight_of_sorrow",
+        "heroId": "halloween_vanda_costume_mafia",
         "star": 5,
         "power": 944,
         "attack": 936,
@@ -78111,7 +78112,6 @@ window.allHeroes =
             "Steal Buff: When this character casts their Special Skill, they have a 50% chance to steal the newest dispellable buff from a random enemy that has buffs. If no enemy has buffs, deals 70% damage to all enemies."
         ],
         "family": "morlovia",
-        "image": "https://i.imgur.com/yADk9kZ.jpg",
         "costume_id": 1,
         "originalIndex": 1181,
         "lb1": {
@@ -78164,6 +78164,7 @@ window.allHeroes =
         "source": "Goblin Summon",
         "Release date": "2024-04-15",
         "specialId": "sense_of_wonder",
+        "heroId": "garrison_vanya",
         "star": 5,
         "power": 1075,
         "attack": 1126,
@@ -78180,7 +78181,6 @@ window.allHeroes =
             "Guard Rally: Every 4 turns, removes all Wither effects from all allies."
         ],
         "family": "garrisonguard",
-        "image": "https://i.imgur.com/1zUxxx9.jpg",
         "costume_id": 0,
         "originalIndex": 1182,
         "lb1": {
@@ -78236,6 +78236,7 @@ window.allHeroes =
         "source": "S4 - Wilderness",
         "Release date": "2022-12-08",
         "specialId": "xenda_special",
+        "heroId": "s4_xenda",
         "star": 5,
         "power": 852,
         "attack": 834,
@@ -78250,7 +78251,6 @@ window.allHeroes =
             "Special Skill Damage Reduction: Received damage from Special Skills is reduced by -20% for this character."
         ],
         "family": "underwild",
-        "image": "https://i.imgur.com/pr4mBGS.jpg",
         "costume_id": 0,
         "originalIndex": 1183,
         "lb1": {
@@ -78308,6 +78308,7 @@ window.allHeroes =
         "source": "S4 - Wilderness",
         "Release date": "2024-05-23",
         "specialId": "xenda_special",
+        "heroId": "s4_xenda_costume_flame",
         "star": 5,
         "power": 1081,
         "attack": 1073,
@@ -78323,14 +78324,13 @@ window.allHeroes =
             "Increased Damage Against Boosted Health: After this character casts their Special Skill, all allies deal +70% increased normal attack and Special Skill damage against targets with boosted health for 4 turns."
         ],
         "family": "underwild",
-        "image": "https://i.imgur.com/QhwvGtU.jpg",
         "costume_id": 1,
         "originalIndex": 1184,
         "lb1": {
-            "power": 1156,
+            "power": 1155,
             "attack": 1157,
             "defense": 1138,
-            "health": 2196
+            "health": 2193
         },
         "lb2": {
             "power": 1304,
@@ -78378,6 +78378,7 @@ window.allHeroes =
         "source": "Monthly Event - Lunar Year",
         "Release date": "2023-01-19",
         "specialId": "reverse_recovery",
+        "heroId": "lunar_new_year_xiaotu",
         "star": 5,
         "power": 862,
         "attack": 854,
@@ -78391,7 +78392,6 @@ window.allHeroes =
             "Disable Minion Abilities: Attacks and abilities of all Minions owned by enemies are disabled."
         ],
         "family": "lunaryear",
-        "image": "https://i.imgur.com/BFeoiOp.jpg",
         "costume_id": 0,
         "originalIndex": 1185,
         "lb1": {
@@ -78440,6 +78440,7 @@ window.allHeroes =
         "source": "Three Kingdoms Summon",
         "Release date": "2023-10-09",
         "specialId": "peach_of_immortality",
+        "heroId": "journey_xiwangmu",
         "star": 5,
         "power": 947,
         "attack": 982,
@@ -78455,7 +78456,6 @@ window.allHeroes =
             "Health Recovery on Buff Received: This character has a 50% chance to recover 10% health when they receive a buff or possitve stack."
         ],
         "family": "journey",
-        "image": "https://i.imgur.com/f2m1LGV.jpg",
         "costume_id": 0,
         "originalIndex": 1186,
         "lb1": {
@@ -78502,6 +78502,7 @@ window.allHeroes =
         "source": "Legends Summon - Hero of the Month",
         "Release date": "2021-05-01",
         "specialId": "flaming_fury",
+        "heroId": "fire_god_yang_mai",
         "star": 5,
         "power": 790,
         "attack": 743,
@@ -78519,7 +78520,6 @@ window.allHeroes =
             "Resist water damage: This character has innate resistance against Water damage."
         ],
         "family": 2021,
-        "image": "https://i.imgur.com/vzzuVpu.jpg",
         "costume_id": 0,
         "originalIndex": 1187,
         "lb1": {
@@ -78570,6 +78570,7 @@ window.allHeroes =
         "source": "Wilderness Summon",
         "Release date": "2025-03-26",
         "specialId": "captivating_illusions",
+        "heroId": "faun_yolanda",
         "star": 5,
         "power": 1171,
         "attack": 1242,
@@ -78586,7 +78587,6 @@ window.allHeroes =
             "Resist Attack Reduction: This character has innate resistance against status ailments, stacks and Wither effects that affect attack."
         ],
         "family": "woodlandfaun",
-        "image": "https://imgur.com/5U97Fz9.jpg",
         "costume_id": 0,
         "originalIndex": 1188,
         "lb1": {
@@ -78642,6 +78642,7 @@ window.allHeroes =
         "source": "Legends Summon - Hero of the Month",
         "Release date": "2022-03-01",
         "specialId": "indifferent_blade",
+        "heroId": "fire_god_zagrog",
         "star": 5,
         "power": 805,
         "attack": 776,
@@ -78658,7 +78659,6 @@ window.allHeroes =
             "Resist mana ailments: This character has innate resistance against status ailments and negative stacks that affect mana generation. Applies also to status ailments that block mana or steal mana."
         ],
         "family": 2022,
-        "image": "https://i.imgur.com/jTxW191.jpg",
         "costume_id": 0,
         "originalIndex": 1189,
         "lb1": {
@@ -78713,6 +78713,7 @@ window.allHeroes =
         "source": "Legends Summon - Hero of the Month",
         "Release date": "2024-04-01",
         "specialId": "thousand_cuts",
+        "heroId": "fire_god_zarga",
         "star": 5,
         "power": 973,
         "attack": 1069,
@@ -78729,7 +78730,6 @@ window.allHeroes =
             "Mana on Bleed: This character receives 8% mana each time an enemy receives Bleed damage."
         ],
         "family": 2024,
-        "image": "https://i.imgur.com/Xh5bTXR.jpg",
         "costume_id": 0,
         "originalIndex": 1190,
         "lb1": {
@@ -78782,6 +78782,7 @@ window.allHeroes =
         "source": "Super Elementals",
         "Release date": "2023-10-09",
         "specialId": "cataclysmic_divination",
+        "heroId": "elemental_zaria",
         "star": 5,
         "power": 961,
         "attack": 999,
@@ -78800,7 +78801,6 @@ window.allHeroes =
             " - Received elemental damage: -10%"
         ],
         "family": "superelemental",
-        "image": "https://i.imgur.com/kfVoysd.jpg",
         "costume_id": 0,
         "originalIndex": 1191,
         "lb1": {
@@ -78851,6 +78851,7 @@ window.allHeroes =
         "source": "S4 - Wilderness",
         "Release date": "2021-09-09",
         "specialId": "dual_sting",
+        "heroId": "s4_zenobia",
         "star": 5,
         "power": 809,
         "attack": 824,
@@ -78864,7 +78865,6 @@ window.allHeroes =
             "Increase Buff Duration: Duration of the first 3 buff this hero receives from Special Skills is increased by 1 turn."
         ],
         "family": "underwild",
-        "image": "https://i.imgur.com/H6eN1G6.jpg",
         "costume_id": 0,
         "originalIndex": 1192,
         "lb1": {
@@ -78916,6 +78916,7 @@ window.allHeroes =
         "source": "S4 - Wilderness",
         "Release date": "2024-02-29",
         "specialId": "dual_sting",
+        "heroId": "s4_zenobia_costume_floral",
         "star": 5,
         "power": 1024,
         "attack": 1086,
@@ -78930,7 +78931,6 @@ window.allHeroes =
             "Increased Damage Against Boosted Health: After this character casts their Special Skill cast, all allies’ normal attacks and Special Skills deal +70% damage against targets with boosted health for 4 turns."
         ],
         "family": "underwild",
-        "image": "https://i.imgur.com/lrLa3g9.jpg",
         "costume_id": 1,
         "originalIndex": 1193,
         "lb1": {
@@ -78980,6 +78980,7 @@ window.allHeroes =
         "source": "Legends Summon - Hero of the Month",
         "Release date": "2024-10-01",
         "specialId": "trick_of_the_trade",
+        "heroId": "fire_god_zidane",
         "star": 5,
         "power": 1025,
         "attack": 1135,
@@ -79002,7 +79003,6 @@ window.allHeroes =
             "Resist Buff Immunity: This character has innate resistance against ailments that give immunity to new buffs."
         ],
         "family": 2024,
-        "image": "https://i.imgur.com/csrWBuw.jpg",
         "costume_id": 0,
         "originalIndex": 1194,
         "lb1": {
@@ -79061,6 +79061,7 @@ window.allHeroes =
         "source": "Legends Summon - Hero of the Month",
         "Release date": "2018-11-01",
         "specialId": "dawn_strike",
+        "heroId": "fire_god_zimkitha",
         "star": 5,
         "power": 769,
         "attack": 714,
@@ -79074,7 +79075,6 @@ window.allHeroes =
         ],
         "passives": [],
         "family": 2018,
-        "image": "https://i.imgur.com/ZnoCx4D.jpg",
         "costume_id": 0,
         "originalIndex": 1195,
         "lb1": {
@@ -79128,6 +79128,7 @@ window.allHeroes =
         "source": "Legends Summon - Hero of the Month",
         "Release date": "2023-03-20",
         "specialId": "dawn_strike",
+        "heroId": "fire_god_zimkitha_costume_adventurer",
         "star": 5,
         "power": 979,
         "attack": 908,
@@ -79143,18 +79144,17 @@ window.allHeroes =
             "Dispel on Special Skill: When this character casts their Special Skill, they dispel the newest status effect buff from all enemies."
         ],
         "family": 2018,
-        "image": "https://i.imgur.com/M65Mn9a.jpg",
         "costume_id": 1,
         "originalIndex": 1196,
         "lb1": {
             "power": 1045,
             "attack": 979,
             "defense": 944,
-            "health": 2243
+            "health": 2240
         },
         "lb2": {
-            "power": 1178,
-            "attack": 1121,
+            "power": 1177,
+            "attack": 1118,
             "defense": 1080,
             "health": 2566
         },
@@ -79193,6 +79193,7 @@ window.allHeroes =
         "source": "S1 - Classic",
         "Release date": "2017-03-01",
         "specialId": "backstab",
+        "heroId": "oriental_female_ninja",
         "star": 1,
         "power": 213,
         "attack": 222,
@@ -79203,7 +79204,6 @@ window.allHeroes =
         ],
         "passives": [],
         "family": null,
-        "image": "https://i.imgur.com/siyozo3.jpg",
         "costume_id": 0,
         "originalIndex": 1197,
         "cn_skill_info": []
@@ -79225,6 +79225,7 @@ window.allHeroes =
         "source": "S1 - Classic",
         "Release date": "2017-03-01",
         "specialId": "fierce_slash",
+        "heroId": "oriental_warrior",
         "star": 1,
         "power": 211,
         "attack": 205,
@@ -79235,7 +79236,6 @@ window.allHeroes =
         ],
         "passives": [],
         "family": null,
-        "image": "https://i.imgur.com/C6MAFbk.jpg",
         "costume_id": 0,
         "originalIndex": 1198,
         "cn_skill_info": []
@@ -79257,6 +79257,7 @@ window.allHeroes =
         "source": "S1 - Classic",
         "Release date": "2017-03-01",
         "specialId": "defensive_tactics",
+        "heroId": "oriental_monkey_warrior",
         "star": 2,
         "power": 336,
         "attack": 366,
@@ -79267,7 +79268,6 @@ window.allHeroes =
         ],
         "passives": [],
         "family": null,
-        "image": "https://i.imgur.com/twn2sqC.jpg",
         "costume_id": 0,
         "originalIndex": 1199,
         "cn_skill_info": []
@@ -79291,6 +79291,7 @@ window.allHeroes =
         "source": "S1 - Classic",
         "Release date": "2017-03-01",
         "specialId": "stunning_blow",
+        "heroId": "oriental_squire",
         "star": 2,
         "power": 335,
         "attack": 331,
@@ -79302,7 +79303,6 @@ window.allHeroes =
         ],
         "passives": [],
         "family": null,
-        "image": "https://i.imgur.com/HfePtEe.jpg",
         "costume_id": 0,
         "originalIndex": 1200,
         "cn_skill_info": []
@@ -79324,6 +79324,7 @@ window.allHeroes =
         "source": "S1 - Classic",
         "Release date": "2017-03-01",
         "specialId": "healing_chant",
+        "heroId": "oriental_panda_scout",
         "star": 2,
         "power": 334,
         "attack": 275,
@@ -79334,7 +79335,6 @@ window.allHeroes =
         ],
         "passives": [],
         "family": null,
-        "image": "https://i.imgur.com/OCarZIF.jpg",
         "costume_id": 0,
         "originalIndex": 1201,
         "cn_skill_info": []
@@ -79357,6 +79357,7 @@ window.allHeroes =
         "source": "S3 - Valhalla",
         "Release date": "2020-05-28",
         "specialId": "precise_chop",
+        "heroId": "s3_agnes",
         "star": 3,
         "power": 464,
         "attack": 556,
@@ -79368,7 +79369,6 @@ window.allHeroes =
         ],
         "passives": [],
         "family": "asgard",
-        "image": "https://i.imgur.com/epjHmoJ.jpg",
         "costume_id": 0,
         "originalIndex": 1202,
         "lb1": {
@@ -79419,6 +79419,7 @@ window.allHeroes =
         "source": "Monthly Event - Sand Empire",
         "Release date": "2018-06-21",
         "specialId": "soldiers_curse",
+        "heroId": "sand_soldier",
         "star": 3,
         "power": 448,
         "attack": 477,
@@ -79432,7 +79433,6 @@ window.allHeroes =
         ],
         "passives": [],
         "family": "sand",
-        "image": "https://i.imgur.com/N88uqSK.jpg",
         "costume_id": 0,
         "originalIndex": 1203,
         "lb1": {
@@ -79482,6 +79482,7 @@ window.allHeroes =
         "source": "S1 - Classic",
         "Release date": "2017-03-01",
         "specialId": "harmonic_slam",
+        "heroId": "oriental_brawler",
         "star": 3,
         "power": 440,
         "attack": 469,
@@ -79493,7 +79494,6 @@ window.allHeroes =
         ],
         "passives": [],
         "family": "classic",
-        "image": "https://i.imgur.com/9aCbPHu.jpg",
         "costume_id": 0,
         "originalIndex": 1204,
         "lb1": {
@@ -79540,6 +79540,7 @@ window.allHeroes =
         "source": "Costume Quest",
         "Release date": "2020-01-01",
         "specialId": "harmonic_slam",
+        "heroId": "oriental_brawler_costume_egypt",
         "star": 3,
         "power": 469,
         "attack": 539,
@@ -79551,7 +79552,6 @@ window.allHeroes =
         ],
         "passives": [],
         "family": "classic",
-        "image": "https://i.imgur.com/oMyq8FB.jpg",
         "costume_id": 1,
         "originalIndex": 1205,
         "lb1": {
@@ -79599,6 +79599,7 @@ window.allHeroes =
         "source": "Costume Quest",
         "Release date": "2024-03-11",
         "specialId": "harmonic_slam",
+        "heroId": "oriental_brawler_costume_cute",
         "star": 3,
         "power": 502,
         "attack": 548,
@@ -79613,7 +79614,6 @@ window.allHeroes =
             "Toon: 75% extra chance to resist all status ailments, mana reductions and buff dispels."
         ],
         "family": "classic",
-        "image": "https://i.imgur.com/IQ13bAv.jpg",
         "costume_id": 2,
         "originalIndex": 1206,
         "lb1": {
@@ -79667,6 +79667,7 @@ window.allHeroes =
         "source": "Costume Quest",
         "Release date": "2025-05-10",
         "specialId": "harmonic_slam",
+        "heroId": "oriental_brawler_costume_glass",
         "star": 3,
         "power": 511,
         "attack": 562,
@@ -79681,7 +79682,6 @@ window.allHeroes =
             "Glass: 60% extra chance to reflect status ailments back to the attacker."
         ],
         "family": "classic",
-        "image": "https://imgur.com/GXkDkIq.jpg",
         "costume_id": 3,
         "originalIndex": 1207,
         "lb1": {
@@ -79731,6 +79731,7 @@ window.allHeroes =
         "source": "Alliance - Knights Clash",
         "Release date": "2021-10-13",
         "specialId": "magnificent_meal",
+        "heroId": "castle_wolf_bertulf",
         "star": 3,
         "power": 480,
         "attack": 491,
@@ -79741,7 +79742,6 @@ window.allHeroes =
         ],
         "passives": [],
         "family": "raven",
-        "image": "https://i.imgur.com/0zQumOG.jpg",
         "costume_id": 0,
         "originalIndex": 1208,
         "lb1": {
@@ -79783,6 +79783,7 @@ window.allHeroes =
         "source": "Challenge Festival II",
         "Release date": "2021-06-10",
         "specialId": "whimsical_aid",
+        "heroId": "circus_candy",
         "star": 3,
         "power": 477,
         "attack": 465,
@@ -79794,7 +79795,6 @@ window.allHeroes =
         ],
         "passives": [],
         "family": "starfall",
-        "image": "https://i.imgur.com/JMKpOq5.jpg",
         "costume_id": 0,
         "originalIndex": 1209,
         "lb1": {
@@ -79840,6 +79840,7 @@ window.allHeroes =
         "source": "Monster Island Summon",
         "Release date": "2023-05-06",
         "specialId": "titanbone_chain_slash",
+        "heroId": "monster_hunter_cedar",
         "star": 3,
         "power": 487,
         "attack": 535,
@@ -79855,7 +79856,6 @@ window.allHeroes =
             "Hunter's vigor. When this character casts their Special Skill, they get +20%  attack for 3 turns. This effect can be active in addition to other effects  that alter attack."
         ],
         "family": "junglehunter",
-        "image": "https://i.imgur.com/occTuk0.jpg",
         "costume_id": 0,
         "originalIndex": 1210,
         "lb1": {
@@ -79908,6 +79908,7 @@ window.allHeroes =
         "source": "Mystery - Shadow Summon",
         "Release date": "2025-01-09",
         "specialId": "brain_link",
+        "heroId": "shadow_cthuwu",
         "star": 3,
         "power": 501,
         "attack": 486,
@@ -79920,7 +79921,6 @@ window.allHeroes =
         ],
         "passives": [],
         "family": "cultist",
-        "image": "https://i.imgur.com/I6zT7jd.jpg",
         "costume_id": 0,
         "originalIndex": 1211,
         "lb1": {
@@ -79967,6 +79967,7 @@ window.allHeroes =
         "source": "S1 - Classic",
         "Release date": "2017-03-01",
         "specialId": "leaping_attack",
+        "heroId": "oriental_female_guard",
         "star": 3,
         "power": 440,
         "attack": 488,
@@ -79977,7 +79978,6 @@ window.allHeroes =
         ],
         "passives": [],
         "family": "classic",
-        "image": "https://i.imgur.com/p1FG8Av.jpg",
         "costume_id": 0,
         "originalIndex": 1212,
         "lb1": {
@@ -80019,6 +80019,7 @@ window.allHeroes =
         "source": "Costume Quest",
         "Release date": "2021-01-18",
         "specialId": "leaping_attack",
+        "heroId": "oriental_female_guard_costume_soldier",
         "star": 3,
         "power": 469,
         "attack": 537,
@@ -80030,7 +80031,6 @@ window.allHeroes =
         ],
         "passives": [],
         "family": "classic",
-        "image": "https://i.imgur.com/4JD88JW.jpg",
         "costume_id": 1,
         "originalIndex": 1213,
         "lb1": {
@@ -80077,6 +80077,7 @@ window.allHeroes =
         "source": "Costume Quest",
         "Release date": "2024-08-11",
         "specialId": "leaping_attack",
+        "heroId": "oriental_female_guard_costume_cute",
         "star": 3,
         "power": 502,
         "attack": 537,
@@ -80090,7 +80091,6 @@ window.allHeroes =
             "Toon: 75% extra chance to resist all status ailments, mana reductions and buff dispels."
         ],
         "family": "classic",
-        "image": "https://i.imgur.com/O05gU50.jpg",
         "costume_id": 2,
         "originalIndex": 1214,
         "lb1": {
@@ -80140,6 +80140,7 @@ window.allHeroes =
         "source": "Monthly Event - Beach Party",
         "Release date": "2023-06-12",
         "specialId": "sunscreen_blast",
+        "heroId": "beachparty_dolrak",
         "star": 3,
         "power": 486,
         "attack": 524,
@@ -80155,7 +80156,6 @@ window.allHeroes =
             "Resist Water Damage: This character has innate resistance against Water Damage."
         ],
         "family": "beachparty",
-        "image": "https://i.imgur.com/0vQaoVS.jpg",
         "costume_id": 0,
         "originalIndex": 1215,
         "lb1": {
@@ -80205,6 +80205,7 @@ window.allHeroes =
         "source": "Monster Island Summon",
         "Release date": "2022-10-15",
         "specialId": "nomadic_hymn",
+        "heroId": "monster_hunter_edelaide",
         "star": 3,
         "power": 484,
         "attack": 436,
@@ -80219,7 +80220,6 @@ window.allHeroes =
             "Special Skill damage reduction: This character has a 10% chance to drop the direct damage received from Special Skills to 1."
         ],
         "family": "plainshunter",
-        "image": "https://i.imgur.com/BfXS6GU.jpg",
         "costume_id": 0,
         "originalIndex": 1216,
         "lb1": {
@@ -80274,6 +80274,7 @@ window.allHeroes =
         "source": "Alliance - Musketeers",
         "Release date": "2023-03-08",
         "specialId": "covert_stab",
+        "heroId": "musketeer_felton",
         "star": 3,
         "power": 486,
         "attack": 537,
@@ -80289,7 +80290,6 @@ window.allHeroes =
             "Damage on Special Skill: When this character receives damage from Special Skills or in place of a character in Cover, there’s a 60% chance to deal 20% of the received damage on all enemies."
         ],
         "family": "musketeer",
-        "image": "https://i.imgur.com/KO2VqaC.jpg",
         "costume_id": 0,
         "originalIndex": 1217,
         "lb1": {
@@ -80342,6 +80342,7 @@ window.allHeroes =
         "source": "S1 - Classic",
         "Release date": "2017-03-01",
         "specialId": "mystic_chop",
+        "heroId": "oriental_panda_berserker",
         "star": 3,
         "power": 443,
         "attack": 467,
@@ -80353,7 +80354,6 @@ window.allHeroes =
         ],
         "passives": [],
         "family": "classic",
-        "image": "https://i.imgur.com/Eor4cBc.jpg",
         "costume_id": 0,
         "originalIndex": 1218,
         "lb1": {
@@ -80400,6 +80400,7 @@ window.allHeroes =
         "source": "Costume Quest",
         "Release date": "2021-01-18",
         "specialId": "mystic_chop",
+        "heroId": "oriental_panda_berserker_costume_farmer",
         "star": 3,
         "power": 474,
         "attack": 529,
@@ -80411,7 +80412,6 @@ window.allHeroes =
         ],
         "passives": [],
         "family": "classic",
-        "image": "https://i.imgur.com/UfGiJQd.jpg",
         "costume_id": 1,
         "originalIndex": 1219,
         "lb1": {
@@ -80459,6 +80459,7 @@ window.allHeroes =
         "source": "Costume Quest",
         "Release date": "2023-12-25",
         "specialId": "mystic_chop",
+        "heroId": "oriental_panda_berserker_costume_cute",
         "star": 3,
         "power": 507,
         "attack": 539,
@@ -80473,7 +80474,6 @@ window.allHeroes =
             "Toon: 75% extra chance to resist all status ailments, mana reductions and buff dispels."
         ],
         "family": "classic",
-        "image": "https://i.imgur.com/IOY3xaA.jpg",
         "costume_id": 2,
         "originalIndex": 1220,
         "lb1": {
@@ -80523,6 +80523,7 @@ window.allHeroes =
         "source": "Costume Quest",
         "Release date": "2024-12-25",
         "specialId": "mystic_chop",
+        "heroId": "oriental_panda_berserker_costume_glass",
         "star": 3,
         "power": 516,
         "attack": 552,
@@ -80537,7 +80538,6 @@ window.allHeroes =
             "Glass: 60% extra chance to reflect status ailments back to the attacker."
         ],
         "family": "classic",
-        "image": "https://i.imgur.com/yqqbcRa.jpg",
         "costume_id": 3,
         "originalIndex": 1221,
         "lb1": {
@@ -80586,6 +80586,7 @@ window.allHeroes =
         "source": "S6 - Mysteries of the Deep",
         "Release date": "2023-07-05",
         "specialId": "dubious_merchandise",
+        "heroId": "tales1_jaco",
         "star": 3,
         "power": 486,
         "attack": 510,
@@ -80606,7 +80607,6 @@ window.allHeroes =
             " * All allies get +21% critical chance for 2 turns."
         ],
         "family": "defendersofatlantis",
-        "image": "https://i.imgur.com/ne5YJve.jpg",
         "costume_id": 0,
         "originalIndex": 1222,
         "lb1": {
@@ -80654,6 +80654,7 @@ window.allHeroes =
         "source": "S6 - Mysteries of the Deep",
         "Release date": "2025-02-03",
         "specialId": "dubious_merchandise",
+        "heroId": "tales1_jaco_costume_alchemist",
         "star": 3,
         "power": 497,
         "attack": 449,
@@ -80675,7 +80676,6 @@ window.allHeroes =
             "Resist Insanity: This character has an innate resistance against Insanity."
         ],
         "family": "defendersofatlantis",
-        "image": "https://i.imgur.com/frMuxcb.jpg",
         "costume_id": 1,
         "originalIndex": 1223,
         "lb1": {
@@ -80726,6 +80726,7 @@ window.allHeroes =
         "source": "Monthly Event - Winter",
         "Release date": "2023-12-01",
         "specialId": "birch_blessing",
+        "heroId": "christmas_jolly",
         "star": 3,
         "power": 487,
         "attack": 451,
@@ -80739,7 +80740,6 @@ window.allHeroes =
         ],
         "passives": [],
         "family": "christmas",
-        "image": "https://i.imgur.com/G067kns.jpg",
         "costume_id": 0,
         "originalIndex": 1224,
         "lb1": {
@@ -80792,6 +80792,7 @@ window.allHeroes =
         "source": "S1 - Classic",
         "Release date": "2017-03-01",
         "specialId": "stone_skin",
+        "heroId": "oriental_female_mage",
         "star": 3,
         "power": 444,
         "attack": 429,
@@ -80803,7 +80804,6 @@ window.allHeroes =
         ],
         "passives": [],
         "family": "classic",
-        "image": "https://i.imgur.com/h7fAkgX.jpg",
         "costume_id": 0,
         "originalIndex": 1225,
         "lb1": {
@@ -80846,6 +80846,7 @@ window.allHeroes =
         "source": "Costume Quest",
         "Release date": "2021-01-18",
         "specialId": "stone_skin",
+        "heroId": "oriental_female_mage_costume_mender",
         "star": 3,
         "power": 473,
         "attack": 431,
@@ -80857,7 +80858,6 @@ window.allHeroes =
         ],
         "passives": [],
         "family": "classic",
-        "image": "https://i.imgur.com/OOF8ysq.jpg",
         "costume_id": 1,
         "originalIndex": 1226,
         "lb1": {
@@ -80900,6 +80900,7 @@ window.allHeroes =
         "source": "Costume Quest",
         "Release date": "2024-02-12",
         "specialId": "stone_skin",
+        "heroId": "oriental_female_mage_costume_cute",
         "star": 3,
         "power": 506,
         "attack": 491,
@@ -80913,7 +80914,6 @@ window.allHeroes =
             "Toon: 75% extra chance to resist all status ailments, mana reductions and buff dispels."
         ],
         "family": "classic",
-        "image": "https://i.imgur.com/6HNw9i7.jpg",
         "costume_id": 2,
         "originalIndex": 1227,
         "lb1": {
@@ -80959,6 +80959,7 @@ window.allHeroes =
         "source": "Costume Quest",
         "Release date": "2025-03-11",
         "specialId": "stone_skin",
+        "heroId": "oriental_female_mage_costume_glass",
         "star": 3,
         "power": 514,
         "attack": 485,
@@ -80973,7 +80974,6 @@ window.allHeroes =
             "Glass: 60% extra chance to reflect status ailments back to the attacker."
         ],
         "family": "classic",
-        "image": "https://i.imgur.com/jRBcqpn.jpg",
         "costume_id": 3,
         "originalIndex": 1228,
         "lb1": {
@@ -81015,6 +81015,7 @@ window.allHeroes =
         "source": "Tower - Ninjas",
         "Release date": "2023-01-11",
         "specialId": "lightning_stream",
+        "heroId": "ninja_kinsaishi",
         "star": 3,
         "power": 486,
         "attack": 543,
@@ -81034,7 +81035,6 @@ window.allHeroes =
         ],
         "passives": [],
         "family": "ninja",
-        "image": "https://i.imgur.com/X6RI3nP.jpg",
         "costume_id": 0,
         "originalIndex": 1229,
         "lb1": {
@@ -81077,6 +81077,7 @@ window.allHeroes =
         "source": "S3 - Valhalla",
         "Release date": "2020-02-27",
         "specialId": "bee_bravado",
+        "heroId": "s3_kvasir",
         "star": 3,
         "power": 461,
         "attack": 429,
@@ -81090,7 +81091,6 @@ window.allHeroes =
         ],
         "passives": [],
         "family": "alfheim",
-        "image": "https://i.imgur.com/iXRJ2NZ.jpg",
         "costume_id": 0,
         "originalIndex": 1230,
         "lb1": {
@@ -81143,6 +81143,7 @@ window.allHeroes =
         "source": "S3 - Valhalla",
         "Release date": "2022-07-04",
         "specialId": "bee_bravado",
+        "heroId": "s3_kvasir_costume_captain",
         "star": 3,
         "power": 477,
         "attack": 429,
@@ -81156,7 +81157,6 @@ window.allHeroes =
         ],
         "passives": [],
         "family": "alfheim",
-        "image": "https://i.imgur.com/3EEFeIL.jpg",
         "costume_id": 1,
         "originalIndex": 1231,
         "lb1": {
@@ -81209,6 +81209,7 @@ window.allHeroes =
         "source": "S2 - Atlantis",
         "Release date": "2019-08-01",
         "specialId": "atlantean_blade",
+        "heroId": "s2_merwoman",
         "star": 3,
         "power": 450,
         "attack": 505,
@@ -81220,7 +81221,6 @@ window.allHeroes =
         ],
         "passives": [],
         "family": "atlantis",
-        "image": "https://i.imgur.com/4LFidrS.jpg",
         "costume_id": 0,
         "originalIndex": 1232,
         "lb1": {
@@ -81267,6 +81267,7 @@ window.allHeroes =
         "source": "S2 - Atlantis",
         "Release date": "2022-05-02",
         "specialId": "atlantean_blade",
+        "heroId": "s2_merwoman_costume_emissary",
         "star": 3,
         "power": 464,
         "attack": 534,
@@ -81278,7 +81279,6 @@ window.allHeroes =
         ],
         "passives": [],
         "family": "atlantis",
-        "image": "https://i.imgur.com/M7NWE48.jpg",
         "costume_id": 1,
         "originalIndex": 1233,
         "lb1": {
@@ -81327,6 +81327,7 @@ window.allHeroes =
         "source": "Tower - Owls",
         "Release date": "2023-12-20",
         "specialId": "owls_blessing",
+        "heroId": "owl_paeia",
         "star": 3,
         "power": 489,
         "attack": 432,
@@ -81341,7 +81342,6 @@ window.allHeroes =
             "Reduce Mana Gain from Special Skills: Reduces the amount of mana increased by Special Skill by -80%. The effect applies to all enemies in the battle."
         ],
         "family": "owl",
-        "image": "https://i.imgur.com/R9551ZQ.jpg",
         "costume_id": 0,
         "originalIndex": 1234,
         "lb1": {
@@ -81385,6 +81385,7 @@ window.allHeroes =
         "source": "Challenge Festival I",
         "Release date": "2019-12-01",
         "specialId": "pixie_dust",
+        "heroId": "fables_pixie",
         "star": 3,
         "power": 455,
         "attack": 427,
@@ -81396,7 +81397,6 @@ window.allHeroes =
         ],
         "passives": [],
         "family": "grimforest",
-        "image": "https://i.imgur.com/jFlvi1a.jpg",
         "costume_id": 0,
         "originalIndex": 1235,
         "lb1": {
@@ -81442,6 +81442,7 @@ window.allHeroes =
         "source": "S4 - Wilderness",
         "Release date": "2021-03-25",
         "specialId": "ricochet_bolt",
+        "heroId": "s4_poppy",
         "star": 3,
         "power": 478,
         "attack": 497,
@@ -81455,7 +81456,6 @@ window.allHeroes =
             "Increased Specail Skill Damage: This first time this character cast a  Special Skill that deals damage an additional 30% is added to its power."
         ],
         "family": "underwild",
-        "image": "https://i.imgur.com/pxiscDG.jpg",
         "costume_id": 0,
         "originalIndex": 1236,
         "lb1": {
@@ -81497,6 +81497,7 @@ window.allHeroes =
         "source": "S4 - Wilderness",
         "Release date": "2024-02-29",
         "specialId": "ricochet_bolt",
+        "heroId": "s4_poppy_costume_lodger",
         "star": 3,
         "power": 488,
         "attack": 510,
@@ -81510,7 +81511,6 @@ window.allHeroes =
             "Increased Special Skill Damage: The first time this character casts a Special Skill that deals damage, an additional 30% is added to its power."
         ],
         "family": "underwild",
-        "image": "https://i.imgur.com/nCfovhZ.jpg",
         "costume_id": 1,
         "originalIndex": 1237,
         "lb1": {
@@ -81553,6 +81553,7 @@ window.allHeroes =
         "source": "S5 - Dune",
         "Release date": "2022-04-21",
         "specialId": "puzzling_riddle",
+        "heroId": "s5_rekhetre",
         "star": 3,
         "power": 483,
         "attack": 470,
@@ -81568,7 +81569,6 @@ window.allHeroes =
             " * Cleanses the latest cleansable status ailments from all allies."
         ],
         "family": "sun",
-        "image": "https://i.imgur.com/nkaWucV.jpg",
         "costume_id": 0,
         "originalIndex": 1238,
         "lb1": {
@@ -81616,6 +81616,7 @@ window.allHeroes =
         "source": "S5 - Dune",
         "Release date": "2025-02-17",
         "specialId": "puzzling_riddle",
+        "heroId": "s5_rekhetre_costume_artist",
         "star": 3,
         "power": 494,
         "attack": 492,
@@ -81633,7 +81634,6 @@ window.allHeroes =
             "Health Recover on Buff Received: This character recovers 5% HP when they receive a buff or positive stack."
         ],
         "family": "sun",
-        "image": "https://i.imgur.com/K31ZD8P.jpg",
         "costume_id": 1,
         "originalIndex": 1239,
         "lb1": {
@@ -81683,6 +81683,7 @@ window.allHeroes =
         "source": "Challenge Festival II",
         "Release date": "2022-11-03",
         "specialId": "amphibian_sword_sting",
+        "heroId": "mighty_pet_ribbit",
         "star": 3,
         "power": 484,
         "attack": 486,
@@ -81698,7 +81699,6 @@ window.allHeroes =
             "When a Fiend is summoned to any enemy, this character deals 85% damage to all enemies. This effect can activate only once per turn."
         ],
         "family": "pets",
-        "image": "https://i.imgur.com/2fpNcNU.jpg",
         "costume_id": 0,
         "originalIndex": 1240,
         "lb1": {
@@ -81754,6 +81754,7 @@ window.allHeroes =
         "source": "Covenant Summon",
         "Release date": "2024-04-25",
         "specialId": "swooping_support",
+        "heroId": "construct_rustbeak",
         "star": 3,
         "power": 495,
         "attack": 495,
@@ -81772,7 +81773,6 @@ window.allHeroes =
             "* The healing is scaled by the amount of charge in the Core. All charge is exchausted when the Core is activated."
         ],
         "family": "construct",
-        "image": "https://i.imgur.com/OFz97hb.jpg",
         "costume_id": 0,
         "originalIndex": 1241,
         "lb1": {
@@ -81819,6 +81819,7 @@ window.allHeroes =
         "source": "Challenge Festival I",
         "Release date": "2021-12-15",
         "specialId": "piercing_sabre",
+        "heroId": "pirate_sally",
         "star": 3,
         "power": 481,
         "attack": 484,
@@ -81830,7 +81831,6 @@ window.allHeroes =
         ],
         "passives": [],
         "family": "corellia",
-        "image": "https://i.imgur.com/wpH6Nrx.jpg",
         "costume_id": 0,
         "originalIndex": 1242,
         "lb1": {
@@ -81875,6 +81875,7 @@ window.allHeroes =
         "source": "Wilderness Summon",
         "Release date": "2024-08-31",
         "specialId": "rejuvenating_leap",
+        "heroId": "faun_saskia",
         "star": 3,
         "power": 496,
         "attack": 535,
@@ -81891,7 +81892,6 @@ window.allHeroes =
             "Resist Defense Reduction: This character has innate resistance against status ailments, stacks and Wither effects that affect defense."
         ],
         "family": "woodlandfaun",
-        "image": "https://i.imgur.com/GNLbvP6.jpg",
         "costume_id": 0,
         "originalIndex": 1243,
         "lb1": {
@@ -81942,6 +81942,7 @@ window.allHeroes =
         "source": "Challenge - Beowulf",
         "Release date": "2025-02-13",
         "specialId": "wise_mans_counsel",
+        "heroId": "beowulf_aeschere",
         "star": 4,
         "power": 722,
         "attack": 709,
@@ -81960,7 +81961,6 @@ window.allHeroes =
             "Mana on Status Ailment Received: This character gains 5% mana when they receive a status ailment or a negative stack."
         ],
         "family": "beowulf",
-        "image": "https://i.imgur.com/b8raA4w.jpg",
         "costume_id": 0,
         "originalIndex": 1244,
         "lb1": {
@@ -82012,6 +82012,7 @@ window.allHeroes =
         "source": "Tower - Magic",
         "Release date": "2021-09-15",
         "specialId": "cheerful_charm",
+        "heroId": "magic_anastasia",
         "star": 4,
         "power": 678,
         "attack": 667,
@@ -82030,7 +82031,6 @@ window.allHeroes =
             "Status effect on special: When this character casts their Special Skill, they have a 50% chance to give -25% mana generation for 3 turns to all enemies. If the Special Skill is fully charged, the chance is 100%."
         ],
         "family": "magic",
-        "image": "https://i.imgur.com/ADu9siF.jpg",
         "costume_id": 0,
         "originalIndex": 1245,
         "lb1": {
@@ -82078,6 +82078,7 @@ window.allHeroes =
         "source": "Challenge - Gargoyle",
         "Release date": "2022-05-12",
         "specialId": "sanction_for_heresy",
+        "heroId": "gargoyle_bellerive",
         "star": 4,
         "power": 682,
         "attack": 699,
@@ -82091,7 +82092,6 @@ window.allHeroes =
             "Gargoyle’s Stoneskin: Every time this Gargoyle casts a Special Skill, their Stoneskin hardens. The next 4 times they receive damage, it is dropped to 1. This effect can’t be dispelled."
         ],
         "family": "gargoyle",
-        "image": "https://i.imgur.com/VIPkm6l.jpg",
         "costume_id": 0,
         "originalIndex": 1246,
         "lb1": {
@@ -82140,6 +82140,7 @@ window.allHeroes =
         "source": "Monster Island Summon",
         "Release date": "2022-12-24",
         "specialId": "bone_club_clonk",
+        "heroId": "monster_hunter_bogart",
         "star": 4,
         "power": 686,
         "attack": 652,
@@ -82154,7 +82155,6 @@ window.allHeroes =
             "Hunter`s sense: When this character casts their Special Skill, they transfer the newest cleansable status ailment from themself to the target. If the Special Skill cannot target an enemy, a random enemy is chosen instead. If this character has no status ailments, they recover 8% health."
         ],
         "family": "abysshunter",
-        "image": "https://i.imgur.com/Z4N4G0e.jpg",
         "costume_id": 0,
         "originalIndex": 1247,
         "lb1": {
@@ -82201,6 +82201,7 @@ window.allHeroes =
         "source": "S1 - Classic",
         "Release date": "2017-03-01",
         "specialId": "tactical_cut",
+        "heroId": "oriental_falconer",
         "star": 4,
         "power": 642,
         "attack": 607,
@@ -82212,7 +82213,6 @@ window.allHeroes =
         ],
         "passives": [],
         "family": "classic",
-        "image": "https://i.imgur.com/akseq6D.jpg",
         "costume_id": 0,
         "originalIndex": 1248,
         "lb1": {
@@ -82260,6 +82260,7 @@ window.allHeroes =
         "source": "Costume Quest",
         "Release date": "2021-01-18",
         "specialId": "tactical_cut",
+        "heroId": "oriental_falconer_costume_dodo",
         "star": 4,
         "power": 686,
         "attack": 685,
@@ -82271,7 +82272,6 @@ window.allHeroes =
         ],
         "passives": [],
         "family": "classic",
-        "image": "https://i.imgur.com/iiLBfC1.jpg",
         "costume_id": 1,
         "originalIndex": 1249,
         "lb1": {
@@ -82318,6 +82318,7 @@ window.allHeroes =
         "source": "Costume Quest",
         "Release date": "2023-10-30",
         "specialId": "tactical_cut",
+        "heroId": "oriental_falconer_costume_cub",
         "star": 4,
         "power": 733,
         "attack": 776,
@@ -82329,7 +82330,6 @@ window.allHeroes =
         ],
         "passives": [],
         "family": "classic",
-        "image": "https://i.imgur.com/AhEe43s.jpg",
         "costume_id": 2,
         "originalIndex": 1250,
         "lb1": {
@@ -82377,6 +82377,7 @@ window.allHeroes =
         "source": "Costume Quest",
         "Release date": "2024-06-28",
         "specialId": "tactical_cut",
+        "heroId": "oriental_falconer_costume_cute",
         "star": 4,
         "power": 745,
         "attack": 807,
@@ -82391,7 +82392,6 @@ window.allHeroes =
             "Toon: 75% extra chance to resist all status ailments, mana reductions and buff dispels."
         ],
         "family": "classic",
-        "image": "https://i.imgur.com/SdLEIc0.jpg",
         "costume_id": 3,
         "originalIndex": 1251,
         "lb1": {
@@ -82441,6 +82441,7 @@ window.allHeroes =
         "source": "Costume Quest",
         "Release date": "2025-07-16",
         "specialId": "tactical_cut",
+        "heroId": "oriental_falconer_costume_glass",
         "star": 4,
         "power": 757,
         "attack": 841,
@@ -82455,7 +82456,6 @@ window.allHeroes =
             "Glass: 60% extra chance to reflect status ailments back to the attacker."
         ],
         "family": "classic",
-        "image": "https://imgur.com/s68xCDI.jpg",
         "costume_id": 4,
         "originalIndex": 1252,
         "lb1": {
@@ -82509,6 +82509,7 @@ window.allHeroes =
         "source": "Challenge Festival II",
         "Release date": "2021-06-10",
         "specialId": "vitalizing_show",
+        "heroId": "circus_dandre",
         "star": 4,
         "power": 676,
         "attack": 629,
@@ -82521,7 +82522,6 @@ window.allHeroes =
         ],
         "passives": [],
         "family": "starfall",
-        "image": "https://i.imgur.com/XnqMU7V.jpg",
         "costume_id": 0,
         "originalIndex": 1253,
         "lb1": {
@@ -82571,6 +82571,7 @@ window.allHeroes =
         "source": "S2 - Atlantis",
         "Release date": "2019-08-01",
         "specialId": "tricksters_exchange",
+        "heroId": "s2_tanuki_raccoon",
         "star": 4,
         "power": 652,
         "attack": 622,
@@ -82590,7 +82591,6 @@ window.allHeroes =
         ],
         "passives": [],
         "family": "sakura",
-        "image": "https://i.imgur.com/jP1BF2A.jpg",
         "costume_id": 0,
         "originalIndex": 1254,
         "lb1": {
@@ -82652,6 +82652,7 @@ window.allHeroes =
         "source": "S2 - Atlantis",
         "Release date": "2023-02-06",
         "specialId": "tricksters_exchange",
+        "heroId": "s2_tanuki_raccoon_costume_merchant",
         "star": 4,
         "power": 674,
         "attack": 609,
@@ -82671,7 +82672,6 @@ window.allHeroes =
         ],
         "passives": [],
         "family": "sakura",
-        "image": "https://i.imgur.com/HppFUSU.jpg",
         "costume_id": 1,
         "originalIndex": 1255,
         "lb1": {
@@ -82733,6 +82733,7 @@ window.allHeroes =
         "source": "Astral Summon",
         "Release date": "2025-06-04",
         "specialId": "mischievous_tiein",
+        "heroId": "astral_dwarf_errin",
         "star": 4,
         "power": 742,
         "attack": 722,
@@ -82748,7 +82749,6 @@ window.allHeroes =
             "Destroy Fiends on Special: When this character casts their Special Skill, all Fiends are destroyed from them."
         ],
         "family": "astraldwarfs",
-        "image": "https://imgur.com/iOji58B.jpg",
         "costume_id": 0,
         "originalIndex": 1256,
         "lb1": {
@@ -82801,6 +82801,7 @@ window.allHeroes =
         "source": "S7 - Treasures of Flame and Frost",
         "Release date": "2024-12-03",
         "specialId": "poetic_justice",
+        "heroId": "tales2_fjalar",
         "star": 4,
         "power": 707,
         "attack": 718,
@@ -82819,7 +82820,6 @@ window.allHeroes =
             " * The Burn damage is scaled by the amount of charge in the Core. All charge is exhausted when the Core is activated."
         ],
         "family": "nidavellir",
-        "image": "https://i.imgur.com/iXEEsKX.jpg",
         "costume_id": 0,
         "originalIndex": 1257,
         "lb1": {
@@ -82875,6 +82875,7 @@ window.allHeroes =
         "source": "Goblin Summon",
         "Release date": "2023-09-18",
         "specialId": "magic_mirror_of_power",
+        "heroId": "goblin_goldie",
         "star": 4,
         "power": 688,
         "attack": 643,
@@ -82891,7 +82892,6 @@ window.allHeroes =
             " * All enemies get -25% accuracy for 3 turns."
         ],
         "family": "goblin",
-        "image": "https://i.imgur.com/9Zjrelm.jpg",
         "costume_id": 0,
         "originalIndex": 1258,
         "lb1": {
@@ -82940,6 +82940,7 @@ window.allHeroes =
         "source": "Challenge Festival I",
         "Release date": "2018-06-01",
         "specialId": "witch_slayer",
+        "heroId": "fables_gretel",
         "star": 4,
         "power": 646,
         "attack": 703,
@@ -82952,7 +82953,6 @@ window.allHeroes =
         ],
         "passives": [],
         "family": "grimforest",
-        "image": "https://i.imgur.com/cq0lzx6.jpg",
         "costume_id": 0,
         "originalIndex": 1259,
         "lb1": {
@@ -83004,6 +83004,7 @@ window.allHeroes =
         "source": "S4 - Wilderness",
         "Release date": "2021-03-25",
         "specialId": "invisible_strike",
+        "heroId": "s4_griffin",
         "star": 4,
         "power": 677,
         "attack": 739,
@@ -83017,7 +83018,6 @@ window.allHeroes =
             "Increased Special Skill Damage: The first time this character casts a Special Skill that deals damage, an additional 30% is added to its power."
         ],
         "family": "underwild",
-        "image": "https://i.imgur.com/MRV1QX0.jpg",
         "costume_id": 0,
         "originalIndex": 1260,
         "lb1": {
@@ -83064,6 +83064,7 @@ window.allHeroes =
         "source": "S4 - Wilderness",
         "Release date": "2023-11-09",
         "specialId": "invisible_strike",
+        "heroId": "s4_griffin_costume_priest",
         "star": 4,
         "power": 692,
         "attack": 757,
@@ -83077,7 +83078,6 @@ window.allHeroes =
             "Increased Special Skill Damage: The first time this character casts a Special Skill that deals damage, an additional 30% is added to its power."
         ],
         "family": "underwild",
-        "image": "https://i.imgur.com/bhRfq5i.jpg",
         "costume_id": 1,
         "originalIndex": 1261,
         "lb1": {
@@ -83127,6 +83127,7 @@ window.allHeroes =
         "source": "Three Kingdoms Summon",
         "Release date": "2025-05-22",
         "specialId": "intimidating_stance",
+        "heroId": "outlaw_gu_dasao",
         "star": 4,
         "power": 737,
         "attack": 750,
@@ -83147,7 +83148,6 @@ window.allHeroes =
             "Resist Bleed Damage: This character has innate resistance against Bleed.    "
         ],
         "family": "outlaws",
-        "image": "https://imgur.com/rTKzhQE.jpg",
         "costume_id": 0,
         "originalIndex": 1262,
         "lb1": {
@@ -83200,6 +83200,7 @@ window.allHeroes =
         "source": "Challenge Festival I",
         "Release date": "2017-10-05",
         "specialId": "ray_strike",
+        "heroId": "guardian_jackal_assassin",
         "star": 4,
         "power": 645,
         "attack": 765,
@@ -83211,7 +83212,6 @@ window.allHeroes =
         ],
         "passives": [],
         "family": "guardiansteltoc",
-        "image": "https://i.imgur.com/yQuuDkU.jpg",
         "costume_id": 0,
         "originalIndex": 1263,
         "lb1": {
@@ -83258,6 +83258,7 @@ window.allHeroes =
         "source": "Challenge Festival I",
         "Release date": "2023-01-26",
         "specialId": "ray_strike",
+        "heroId": "guardian_jackal_assassin_costume_bones",
         "star": 4,
         "power": 680,
         "attack": 675,
@@ -83269,7 +83270,6 @@ window.allHeroes =
         ],
         "passives": [],
         "family": "guardiansteltoc",
-        "image": "https://i.imgur.com/SmImrcW.jpg",
         "costume_id": 1,
         "originalIndex": 1264,
         "lb1": {
@@ -83317,6 +83317,7 @@ window.allHeroes =
         "source": "S3 - Valhalla",
         "Release date": "2020-05-28",
         "specialId": "angry_boar",
+        "heroId": "s3_gullinbursti",
         "star": 4,
         "power": 662,
         "attack": 607,
@@ -83328,7 +83329,6 @@ window.allHeroes =
         ],
         "passives": [],
         "family": "asgard",
-        "image": "https://i.imgur.com/sx7Ooj7.jpg",
         "costume_id": 0,
         "originalIndex": 1265,
         "lb1": {
@@ -83381,6 +83381,7 @@ window.allHeroes =
         "source": "S3 - Valhalla",
         "Release date": "2022-07-04",
         "specialId": "angry_boar",
+        "heroId": "s3_gullinbursti_costume_toxic",
         "star": 4,
         "power": 685,
         "attack": 612,
@@ -83392,7 +83393,6 @@ window.allHeroes =
         ],
         "passives": [],
         "family": "asgard",
-        "image": "https://i.imgur.com/0fW6S7f.jpg",
         "costume_id": 1,
         "originalIndex": 1266,
         "lb1": {
@@ -83447,6 +83447,7 @@ window.allHeroes =
         "source": "Monthly Event - Winter",
         "Release date": "2022-12-01",
         "specialId": "hearty_stew",
+        "heroId": "christmas_holly",
         "star": 4,
         "power": 684,
         "attack": 622,
@@ -83460,7 +83461,6 @@ window.allHeroes =
         ],
         "passives": [],
         "family": "christmas",
-        "image": "https://i.imgur.com/n6rgqje.jpg",
         "costume_id": 0,
         "originalIndex": 1267,
         "lb1": {
@@ -83513,6 +83513,7 @@ window.allHeroes =
         "source": "S1 - Classic",
         "Release date": "2017-03-01",
         "specialId": "sonic_wall",
+        "heroId": "oriental_panda_warrior",
         "star": 4,
         "power": 638,
         "attack": 603,
@@ -83525,7 +83526,6 @@ window.allHeroes =
         ],
         "passives": [],
         "family": "classic",
-        "image": "https://i.imgur.com/uyASMQ6.jpg",
         "costume_id": 0,
         "originalIndex": 1268,
         "lb1": {
@@ -83574,6 +83574,7 @@ window.allHeroes =
         "source": "Costume Quest",
         "Release date": "2021-01-18",
         "specialId": "sonic_wall",
+        "heroId": "oriental_panda_warrior_costume_armor",
         "star": 4,
         "power": 683,
         "attack": 592,
@@ -83586,7 +83587,6 @@ window.allHeroes =
         ],
         "passives": [],
         "family": "classic",
-        "image": "https://i.imgur.com/vPJgzTp.jpg",
         "costume_id": 1,
         "originalIndex": 1269,
         "lb1": {
@@ -83636,6 +83636,7 @@ window.allHeroes =
         "source": "Costume Quest",
         "Release date": "2023-11-27",
         "specialId": "sonic_wall",
+        "heroId": "oriental_panda_warrior_costume_dueller",
         "star": 4,
         "power": 729,
         "attack": 658,
@@ -83648,7 +83649,6 @@ window.allHeroes =
         ],
         "passives": [],
         "family": "classic",
-        "image": "https://i.imgur.com/3xo1OZT.jpg",
         "costume_id": 2,
         "originalIndex": 1270,
         "lb1": {
@@ -83697,6 +83697,7 @@ window.allHeroes =
         "source": "Costume Quest",
         "Release date": "2024-05-31",
         "specialId": "sonic_wall",
+        "heroId": "oriental_panda_warrior_costume_cute",
         "star": 4,
         "power": 741,
         "attack": 745,
@@ -83711,7 +83712,6 @@ window.allHeroes =
             "Toon: 75% extra chance to resist all status ailments, mana reductions and buff dispels."
         ],
         "family": "classic",
-        "image": "https://i.imgur.com/J3KLB3K.jpg",
         "costume_id": 3,
         "originalIndex": 1271,
         "lb1": {
@@ -83765,6 +83765,7 @@ window.allHeroes =
         "source": "Costume Quest",
         "Release date": "2025-06-18",
         "specialId": "sonic_wall",
+        "heroId": "oriental_panda_warrior_costume_glass",
         "star": 4,
         "power": 753,
         "attack": 813,
@@ -83779,7 +83780,6 @@ window.allHeroes =
             "Glass: 60% extra chance to reflect status ailments back to the attacker."
         ],
         "family": "classic",
-        "image": "https://imgur.com/V32B1dq.jpg",
         "costume_id": 4,
         "originalIndex": 1272,
         "lb1": {
@@ -83830,6 +83830,7 @@ window.allHeroes =
         "source": "Monthly Event - Springvale",
         "Release date": "2020-04-06",
         "specialId": "smooth_treatment",
+        "heroId": "easter_lady_woolerton",
         "star": 4,
         "power": 661,
         "attack": 626,
@@ -83841,7 +83842,6 @@ window.allHeroes =
         ],
         "passives": [],
         "family": "springvale",
-        "image": "https://i.imgur.com/qf9ikj1.jpg",
         "costume_id": 0,
         "originalIndex": 1273,
         "lb1": {
@@ -83888,6 +83888,7 @@ window.allHeroes =
         "source": "S1 - Classic",
         "Release date": "2017-03-01",
         "specialId": "slash_of_seven_blades",
+        "heroId": "oriental_female_templar",
         "star": 4,
         "power": 640,
         "attack": 616,
@@ -83899,7 +83900,6 @@ window.allHeroes =
         ],
         "passives": [],
         "family": "classic",
-        "image": "https://i.imgur.com/flDK18I.jpg",
         "costume_id": 0,
         "originalIndex": 1274,
         "lb1": {
@@ -83946,6 +83946,7 @@ window.allHeroes =
         "source": "Costume Quest",
         "Release date": "2020-01-01",
         "specialId": "slash_of_seven_blades",
+        "heroId": "oriental_female_templar_costume_kimono",
         "star": 4,
         "power": 685,
         "attack": 673,
@@ -83957,7 +83958,6 @@ window.allHeroes =
         ],
         "passives": [],
         "family": "classic",
-        "image": "https://i.imgur.com/6LRP9pF.jpg",
         "costume_id": 1,
         "originalIndex": 1275,
         "lb1": {
@@ -84004,6 +84004,7 @@ window.allHeroes =
         "source": "Costume Quest",
         "Release date": "2023-02-20",
         "specialId": "slash_of_seven_blades",
+        "heroId": "oriental_female_templar_costume_fireworks",
         "star": 4,
         "power": 731,
         "attack": 725,
@@ -84015,7 +84016,6 @@ window.allHeroes =
         ],
         "passives": [],
         "family": "classic",
-        "image": "https://i.imgur.com/kSRi1Vn.jpg",
         "costume_id": 2,
         "originalIndex": 1276,
         "lb1": {
@@ -84063,6 +84063,7 @@ window.allHeroes =
         "source": "Costume Quest",
         "Release date": "2024-02-12",
         "specialId": "slash_of_seven_blades",
+        "heroId": "oriental_female_templar_costume_cute",
         "star": 4,
         "power": 743,
         "attack": 725,
@@ -84077,7 +84078,6 @@ window.allHeroes =
             "Toon: 75% extra chance to resist all status ailments, mana reductions and buff dispels."
         ],
         "family": "classic",
-        "image": "https://i.imgur.com/9y6lz7h.jpg",
         "costume_id": 3,
         "originalIndex": 1277,
         "lb1": {
@@ -84127,6 +84127,7 @@ window.allHeroes =
         "source": "Costume Quest",
         "Release date": "2025-03-11",
         "specialId": "slash_of_seven_blades",
+        "heroId": "oriental_female_templar_costume_glass",
         "star": 4,
         "power": 755,
         "attack": 803,
@@ -84141,7 +84142,6 @@ window.allHeroes =
             "Glass: 60% extra chance to reflect status ailments back to the attacker."
         ],
         "family": "classic",
-        "image": "https://i.imgur.com/uvZCfR2.jpg",
         "costume_id": 4,
         "originalIndex": 1278,
         "lb1": {
@@ -84192,6 +84192,7 @@ window.allHeroes =
         "source": "S3 - Valhalla",
         "Release date": "2020-02-27",
         "specialId": "valkyrie_charge",
+        "heroId": "s3_mist",
         "star": 4,
         "power": 661,
         "attack": 686,
@@ -84205,7 +84206,6 @@ window.allHeroes =
         ],
         "passives": [],
         "family": "midgard",
-        "image": "https://i.imgur.com/1FjRHHb.jpg",
         "costume_id": 0,
         "originalIndex": 1279,
         "lb1": {
@@ -84255,6 +84255,7 @@ window.allHeroes =
         "source": "S5 - Dune",
         "Release date": "2022-04-21",
         "specialId": "scarab_throw",
+        "heroId": "s5_scoratek",
         "star": 4,
         "power": 683,
         "attack": 633,
@@ -84272,7 +84273,6 @@ window.allHeroes =
             " * All enemies get -24% mana generation for 3 turns."
         ],
         "family": "moon",
-        "image": "https://i.imgur.com/cEv4g9a.jpg",
         "costume_id": 0,
         "originalIndex": 1280,
         "lb1": {
@@ -84321,6 +84321,7 @@ window.allHeroes =
         "source": "S5 - Dune",
         "Release date": "2025-01-20",
         "specialId": "scarab_throw",
+        "heroId": "s5_scoratek_costume_sentinel",
         "star": 4,
         "power": 700,
         "attack": 673,
@@ -84340,7 +84341,6 @@ window.allHeroes =
             "Resist Sand Damage: This character has innate resistance against sand damage."
         ],
         "family": "moon",
-        "image": "https://i.imgur.com/uNnOzl3.jpg",
         "costume_id": 1,
         "originalIndex": 1281,
         "lb1": {
@@ -84389,6 +84389,7 @@ window.allHeroes =
         "source": "Tower - Styx",
         "Release date": "2022-09-21",
         "specialId": "artful_recreation",
+        "heroId": "styx_steropes",
         "star": 4,
         "power": 685,
         "attack": 616,
@@ -84409,7 +84410,6 @@ window.allHeroes =
             "Resist Defense Ailments: This character has innate resistance against status ailments that affect defense. Applies also to status ailments that affect elemental defense."
         ],
         "family": "styx",
-        "image": "https://i.imgur.com/JQkhZ6P.jpg",
         "costume_id": 0,
         "originalIndex": 1282,
         "lb1": {
@@ -84453,6 +84453,7 @@ window.allHeroes =
         "source": "Monthly Event - Love Season",
         "Release date": "2023-02-14",
         "specialId": "flat_cake_for_sweethearts",
+        "heroId": "valentines_voluptas",
         "star": 4,
         "power": 686,
         "attack": 650,
@@ -84466,7 +84467,6 @@ window.allHeroes =
             "Resist Special Skill Blocking: This character has innate resistance against status ailments that block Special Skills."
         ],
         "family": "cupid",
-        "image": "https://i.imgur.com/FUJWm4U.jpg",
         "costume_id": 0,
         "originalIndex": 1283,
         "lb1": {
@@ -84513,6 +84513,7 @@ window.allHeroes =
         "source": "Challenge Festival II",
         "Release date": "2022-11-03",
         "specialId": "spear_of_loyalty",
+        "heroId": "mighty_pet_waddles",
         "star": 4,
         "power": 684,
         "attack": 626,
@@ -84527,7 +84528,6 @@ window.allHeroes =
             "When a Fiend is summoned to any enemy, this character deals 85% damage to all enemies. This effect can activate only once per turn."
         ],
         "family": "pets",
-        "image": "https://i.imgur.com/acvvh6o.jpg",
         "costume_id": 0,
         "originalIndex": 1284,
         "lb1": {
@@ -84574,6 +84574,7 @@ window.allHeroes =
         "source": "Three Kingdoms Summon",
         "Release date": "2022-03-14",
         "specialId": "nobles_empathy",
+        "heroId": "kingdom_wang_yuanji",
         "star": 4,
         "power": 683,
         "attack": 675,
@@ -84585,7 +84586,6 @@ window.allHeroes =
         ],
         "passives": [],
         "family": "kingdom",
-        "image": "https://i.imgur.com/SwBxlgF.jpg",
         "costume_id": 0,
         "originalIndex": 1285,
         "lb1": {
@@ -84634,6 +84634,7 @@ window.allHeroes =
         "source": "Three Kingdoms Summon",
         "Release date": "2025-01-29",
         "specialId": "nobles_empathy",
+        "heroId": "kingdom_wang_yuanji_costume_artisan",
         "star": 4,
         "power": 720,
         "attack": 693,
@@ -84651,7 +84652,6 @@ window.allHeroes =
             " * Minion attack and abilities can’t be disabled."
         ],
         "family": "kingdom",
-        "image": "https://i.imgur.com/EPCCR66.jpg",
         "costume_id": 1,
         "originalIndex": 1286,
         "lb1": {
@@ -84702,6 +84702,7 @@ window.allHeroes =
         "source": "S1 - Classic",
         "Release date": "2017-03-01",
         "specialId": "gamblers_stance",
+        "heroId": "oriental_monkey_captain",
         "star": 4,
         "power": 644,
         "attack": 707,
@@ -84713,7 +84714,6 @@ window.allHeroes =
         ],
         "passives": [],
         "family": "classic",
-        "image": "https://i.imgur.com/EZfzNHv.jpg",
         "costume_id": 0,
         "originalIndex": 1287,
         "lb1": {
@@ -84759,6 +84759,7 @@ window.allHeroes =
         "source": "Costume Quest",
         "Release date": "2021-01-18",
         "specialId": "gamblers_stance",
+        "heroId": "oriental_monkey_captain_costume_warrior",
         "star": 4,
         "power": 690,
         "attack": 742,
@@ -84770,7 +84771,6 @@ window.allHeroes =
         ],
         "passives": [],
         "family": "classic",
-        "image": "https://i.imgur.com/Xt9qUWm.jpg",
         "costume_id": 1,
         "originalIndex": 1288,
         "lb1": {
@@ -84816,6 +84816,7 @@ window.allHeroes =
         "source": "Costume Quest",
         "Release date": "2023-10-30",
         "specialId": "gamblers_stance",
+        "heroId": "oriental_monkey_captain_costume_reveller",
         "star": 4,
         "power": 736,
         "attack": 798,
@@ -84826,7 +84827,6 @@ window.allHeroes =
         ],
         "passives": [],
         "family": "classic",
-        "image": "https://i.imgur.com/gZEff9Z.jpg",
         "costume_id": 2,
         "originalIndex": 1289,
         "lb1": {
@@ -84872,6 +84872,7 @@ window.allHeroes =
         "source": "Costume Quest",
         "Release date": "2024-07-16",
         "specialId": "gamblers_stance",
+        "heroId": "oriental_monkey_captain_costume_cute",
         "star": 4,
         "power": 748,
         "attack": 745,
@@ -84884,7 +84885,6 @@ window.allHeroes =
             "Toon: 75% extra chance to resist all status ailments, mana reductions and buff dispels."
         ],
         "family": "classic",
-        "image": "https://i.imgur.com/3dV4crJ.jpg",
         "costume_id": 3,
         "originalIndex": 1290,
         "lb1": {
@@ -84933,6 +84933,7 @@ window.allHeroes =
         "source": "Super Elementals",
         "Release date": "2023-07-17",
         "specialId": "express_delivery",
+        "heroId": "elemental_zione",
         "star": 4,
         "power": 688,
         "attack": 680,
@@ -84950,7 +84951,6 @@ window.allHeroes =
             " - Received elemental damage: -10%"
         ],
         "family": "superelemental",
-        "image": "https://i.imgur.com/b0f7111.jpg",
         "costume_id": 0,
         "originalIndex": 1291,
         "lb1": {
@@ -84996,6 +84996,7 @@ window.allHeroes =
         "source": "S4 - Wilderness",
         "Release date": "2021-03-25",
         "specialId": "colossal_chops",
+        "heroId": "s4_akkorog",
         "star": 5,
         "power": 806,
         "attack": 782,
@@ -85009,7 +85010,6 @@ window.allHeroes =
             "Increased Special Skill Damage: The first time this character casts a Special Skill that deals damage, an additional 30% is added to its power."
         ],
         "family": "underwild",
-        "image": "https://i.imgur.com/gMyh86R.jpg",
         "costume_id": 0,
         "originalIndex": 1292,
         "lb1": {
@@ -85059,6 +85059,7 @@ window.allHeroes =
         "source": "S4 - Wilderness",
         "Release date": "2024-02-01",
         "specialId": "colossal_chops",
+        "heroId": "s4_akkorog_costume_football",
         "star": 5,
         "power": 1021,
         "attack": 985,
@@ -85074,13 +85075,12 @@ window.allHeroes =
             "Increased Damage Against Boosted Health: After this character casts their Special Skill cast, all allies’ normal attacks and Special Skills deal +70% damage against targets with boosted health for 3 turns."
         ],
         "family": "underwild",
-        "image": "https://i.imgur.com/VvDq081.jpg",
         "costume_id": 1,
         "originalIndex": 1293,
         "lb1": {
-            "power": 1090,
+            "power": 1089,
             "attack": 1060,
-            "defense": 1105,
+            "defense": 1102,
             "health": 2037
         },
         "lb2": {
@@ -85129,6 +85129,7 @@ window.allHeroes =
         "source": "Monthly Event - Winter",
         "Release date": "2024-12-01",
         "specialId": "a_cozy_break",
+        "heroId": "christmas_albin",
         "star": 5,
         "power": 1122,
         "attack": 1108,
@@ -85141,7 +85142,6 @@ window.allHeroes =
         ],
         "passives": [],
         "family": "christmas",
-        "image": "https://i.imgur.com/x9XJFnx.jpg",
         "costume_id": 0,
         "originalIndex": 1294,
         "lb1": {
@@ -85193,6 +85193,7 @@ window.allHeroes =
         "source": "Alliance - Knights Clash",
         "Release date": "2024-08-14",
         "specialId": "scroll_of_new_beginnings",
+        "heroId": "castle_stag_alvar",
         "star": 5,
         "power": 1084,
         "attack": 1165,
@@ -85208,7 +85209,6 @@ window.allHeroes =
             "Health Recovery on Buff Received: This character recovers 5% health when they receive a buff or a positive stack."
         ],
         "family": "stag",
-        "image": "https://i.imgur.com/dIFfVvr.jpg",
         "costume_id": 0,
         "originalIndex": 1295,
         "lb1": {
@@ -85263,6 +85263,7 @@ window.allHeroes =
         "source": "Monster Island Summon",
         "Release date": "2025-02-27",
         "specialId": "carve_the_bones",
+        "heroId": "monster_hunter_amund",
         "star": 5,
         "power": 1166,
         "attack": 1194,
@@ -85279,7 +85280,6 @@ window.allHeroes =
             "Damage over time on Special: When this character casts their Special Skill, they give a Hunter’s Mark on a random enemy. The target receives 150 damage over 3 turns. If a target already has this effect, the duration will be refreshed and the damage will be increased by 150, up to 1500 damage in total."
         ],
         "family": "plainshunter",
-        "image": "https://i.imgur.com/Cr6rYpC.jpg",
         "costume_id": 0,
         "originalIndex": 1296,
         "lb1": {
@@ -85333,6 +85333,7 @@ window.allHeroes =
         "source": "Challenge Festival I",
         "Release date": "2022-10-06",
         "specialId": "cannon_blast",
+        "heroId": "pirate_anne",
         "star": 5,
         "power": 835,
         "attack": 819,
@@ -85345,7 +85346,6 @@ window.allHeroes =
         ],
         "passives": [],
         "family": "corellia",
-        "image": "https://i.imgur.com/YcbkyW1.jpg",
         "costume_id": 0,
         "originalIndex": 1297,
         "lb1": {
@@ -85395,6 +85395,7 @@ window.allHeroes =
         "source": "Monthly Event - Love Season",
         "Release date": "2025-02-14",
         "specialId": "love_at_first_sight",
+        "heroId": "valentines_anteros",
         "star": 5,
         "power": 1163,
         "attack": 1225,
@@ -85411,7 +85412,6 @@ window.allHeroes =
             "Resist Special Skill Blocking: This character has innate resistance against status ailments that block Special Skills."
         ],
         "family": "cupid",
-        "image": "https://i.imgur.com/ZH2Xuuj.jpg",
         "costume_id": 0,
         "originalIndex": 1298,
         "lb1": {
@@ -85462,6 +85462,7 @@ window.allHeroes =
         "source": "S4 - Wilderness",
         "Release date": "2021-07-15",
         "specialId": "blade_of_bundelkhand",
+        "heroId": "s4_aouda",
         "star": 5,
         "power": 808,
         "attack": 811,
@@ -85475,7 +85476,6 @@ window.allHeroes =
             "Increased Special Skill Damage: First time this hero casts Special Skill that does damage, additional 30% is added to its power."
         ],
         "family": "underwild",
-        "image": "https://i.imgur.com/Ri4pkcS.jpg",
         "costume_id": 0,
         "originalIndex": 1299,
         "lb1": {
@@ -85522,6 +85522,7 @@ window.allHeroes =
         "source": "S4 - Wilderness",
         "Release date": "2023-09-07",
         "specialId": "blade_of_bundelkhand",
+        "heroId": "s4_aouda_costume_lotus",
         "star": 5,
         "power": 1024,
         "attack": 1132,
@@ -85536,7 +85537,6 @@ window.allHeroes =
             "Increased Damage Against Boosted Health: After Special Skill cast, all allies' normal attacks and Special Skills deal +70% damage against targets with boosted health for 4 turns."
         ],
         "family": "underwild",
-        "image": "https://i.imgur.com/8bE9bAk.jpg",
         "costume_id": 1,
         "originalIndex": 1300,
         "lb1": {
@@ -85587,7 +85587,8 @@ window.allHeroes =
         ],
         "source": "Covenant Summon",
         "Release date": "2025-02-26",
-        "specialId": "divine_light1",
+        "specialId": "divine_light",
+        "heroId": "fox_ashen",
         "star": 5,
         "power": 1166,
         "attack": 1211,
@@ -85605,7 +85606,6 @@ window.allHeroes =
             "Decreased Healing: All enemies get -50% healing."
         ],
         "family": "fox",
-        "image": "https://i.imgur.com/JxS30IU.jpg",
         "costume_id": 0,
         "originalIndex": 1301,
         "lb1": {
@@ -85664,6 +85664,7 @@ window.allHeroes =
         "source": "Challenge Festival II",
         "Release date": "2024-11-14",
         "specialId": "booming_mend",
+        "heroId": "bard_astrid",
         "star": 5,
         "power": 1115,
         "attack": 927,
@@ -85681,7 +85682,6 @@ window.allHeroes =
             "All Dances cast by enemies only last for 1 turn."
         ],
         "family": "bard",
-        "image": "https://i.imgur.com/efuZ1Xu.jpg",
         "costume_id": 0,
         "originalIndex": 1302,
         "lb1": {
@@ -85735,6 +85735,7 @@ window.allHeroes =
         "source": "Alliance - Moths",
         "Release date": "2025-05-01",
         "specialId": "riches_to_poor",
+        "heroId": "moth_auricarc",
         "star": 5,
         "power": 1197,
         "attack": 1330,
@@ -85750,7 +85751,6 @@ window.allHeroes =
             "Dodge Special Damage: This character has a 15% chance to dodge Special Skills that deal damage."
         ],
         "family": "moth",
-        "image": "https://imgur.com/U5vFSXy.jpg",
         "costume_id": 0,
         "originalIndex": 1303,
         "lb1": {
@@ -85808,6 +85808,7 @@ window.allHeroes =
         "source": "Legends Summon - Hero of the Month",
         "Release date": "2024-06-01",
         "specialId": "falcon_screech",
+        "heroId": "holy_god_aviana",
         "star": 5,
         "power": 990,
         "attack": 1030,
@@ -85824,7 +85825,6 @@ window.allHeroes =
             "Mana on Buff Received: This character gains 5% mana when they receive a buff or a positive stack."
         ],
         "family": 2024,
-        "image": "https://i.imgur.com/0zHJdCL.jpg",
         "costume_id": 0,
         "originalIndex": 1304,
         "lb1": {
@@ -85879,6 +85879,7 @@ window.allHeroes =
         "source": "Legends Summon - Hero of the Month",
         "Release date": "2020-09-01",
         "specialId": "stunning_steel",
+        "heroId": "holy_god_bai_yeong",
         "star": 5,
         "power": 776,
         "attack": 749,
@@ -85894,7 +85895,6 @@ window.allHeroes =
             "Resist Status Ailments from Minions: This character has innate resistance against status ailments that are from minions."
         ],
         "family": 2020,
-        "image": "https://i.imgur.com/4FIVAWy.jpg",
         "costume_id": 0,
         "originalIndex": 1305,
         "lb1": {
@@ -85944,6 +85944,7 @@ window.allHeroes =
         "source": "Monthly Event - Lunar Year",
         "Release date": "2025-01-27",
         "specialId": "masterful_balance",
+        "heroId": "lunar_new_year_baishu",
         "star": 5,
         "power": 1152,
         "attack": 1176,
@@ -85959,7 +85960,6 @@ window.allHeroes =
             "Disable Minion Abilities: Attacks and abilities of all Minions owned by enemies are disabled."
         ],
         "family": "lunaryear",
-        "image": "https://i.imgur.com/hMx4yq8.jpg",
         "costume_id": 0,
         "originalIndex": 1306,
         "lb1": {
@@ -86014,6 +86014,7 @@ window.allHeroes =
         "source": "Challenge Festival II",
         "Release date": "2021-08-05",
         "specialId": "dispelling_willpower",
+        "heroId": "slayer_caitlin",
         "star": 5,
         "power": 809,
         "attack": 721,
@@ -86030,7 +86031,6 @@ window.allHeroes =
             "Resist Damage from Status Effects: This charater has innate resistance against incoming damage from status effects."
         ],
         "family": "slayer",
-        "image": "https://i.imgur.com/ERb7z96.jpg",
         "costume_id": 0,
         "originalIndex": 1307,
         "lb1": {
@@ -86092,6 +86092,7 @@ window.allHeroes =
         "source": "Challenge Festival II",
         "Release date": "2024-11-14",
         "specialId": "dispelling_willpower",
+        "heroId": "slayer_caitlin_costume_crusader",
         "star": 5,
         "power": 1210,
         "attack": 1205,
@@ -86109,7 +86110,6 @@ window.allHeroes =
             "Bleed on Special Skill: When this character casts their Special Skill, all enemies receive 528 Bleed damage over 4 turns."
         ],
         "family": "slayer",
-        "image": "https://i.imgur.com/JgYBU3i.jpg",
         "costume_id": 1,
         "originalIndex": 1308,
         "lb1": {
@@ -86166,6 +86166,7 @@ window.allHeroes =
         "source": "Legends Summon - Hero of the Month",
         "Release date": "2022-10-01",
         "specialId": "sacrament_of_salvation",
+        "heroId": "holy_god_celidana",
         "star": 5,
         "power": 812,
         "attack": 733,
@@ -86182,7 +86183,6 @@ window.allHeroes =
             "Boost Health on Enemy Special: When an enemy casts their Special Skill, this character has a 50% chance to boost this character’s health by 100."
         ],
         "family": 2022,
-        "image": "https://i.imgur.com/fzHIBe5.jpg",
         "costume_id": 0,
         "originalIndex": 1309,
         "lb1": {
@@ -86238,6 +86238,7 @@ window.allHeroes =
         "source": "Challenge - Secrets of the Opera",
         "Release date": "2023-11-30",
         "specialId": "ballad_of_passion",
+        "heroId": "ballerina_christine_daae",
         "star": 5,
         "power": 957,
         "attack": 994,
@@ -86257,7 +86258,6 @@ window.allHeroes =
             "Heal when status ailment expires or is cleared: This character receives 5% health each time a status ailment expires or is cleansed, removed or reallocated from them. This effect can activate only once per turn."
         ],
         "family": "opera",
-        "image": "https://i.imgur.com/x8CUwhf.jpg",
         "costume_id": 0,
         "originalIndex": 1310,
         "lb1": {
@@ -86308,6 +86308,7 @@ window.allHeroes =
         "source": "S5 - Dune",
         "Release date": "2022-10-27",
         "specialId": "channeler_of_the_gods",
+        "heroId": "s5_cleopatra",
         "star": 5,
         "power": 865,
         "attack": 768,
@@ -86323,7 +86324,6 @@ window.allHeroes =
             " * Cleanses the latest cleansable status ailment from all allies."
         ],
         "family": "sun",
-        "image": "https://i.imgur.com/pyEHRBi.jpg",
         "costume_id": 0,
         "originalIndex": 1311,
         "lb1": {
@@ -86374,6 +86374,7 @@ window.allHeroes =
         "source": "S5 - Dune",
         "Release date": "2024-04-29",
         "specialId": "channeler_of_the_gods",
+        "heroId": "s5_cleopatra_costume_feline",
         "star": 5,
         "power": 1210,
         "attack": 1086,
@@ -86391,7 +86392,6 @@ window.allHeroes =
             "Health Recover on Buff Received: This character recovers 5% HP when they receive a buff or positive stack."
         ],
         "family": "sun",
-        "image": "https://i.imgur.com/BWI4O98.jpg",
         "costume_id": 1,
         "originalIndex": 1312,
         "lb1": {
@@ -86404,7 +86404,7 @@ window.allHeroes =
             "power": 1462,
             "attack": 1338,
             "defense": 1541,
-            "health": 3124
+            "health": 3127
         },
         "cn_skill_info": [
             {
@@ -86439,6 +86439,7 @@ window.allHeroes =
         "source": "Alliance - Musketeers",
         "Release date": "2023-07-26",
         "specialId": "sword_dance",
+        "heroId": "musketeer_constance",
         "star": 5,
         "power": 929,
         "attack": 871,
@@ -86452,7 +86453,6 @@ window.allHeroes =
             "Damage on Special Skill and Cover Damage: When this character receives damage from Special Skills or in place of a character in Cover, there’s a 60% chance to deal 20% of the received damage on all enemies."
         ],
         "family": "musketeer",
-        "image": "https://i.imgur.com/MWL4e5h.jpg",
         "costume_id": 0,
         "originalIndex": 1313,
         "lb1": {
@@ -86506,6 +86506,7 @@ window.allHeroes =
         "source": "Monster Island Summon",
         "Release date": "2023-02-09",
         "specialId": "liturgy_of_the_fallen",
+        "heroId": "monster_hunter_dabria",
         "star": 5,
         "power": 891,
         "attack": 850,
@@ -86521,7 +86522,6 @@ window.allHeroes =
             "Hunter’s Sense: When this character casts their Special Skill, they have 100% chance to transfer the newest cleansable status ailment from themselves to the target. If the Special Skill cannot target an enemy, a random enemy is chosen instead. If this character has no status ailments, they recover 3% health."
         ],
         "family": "abysshunter",
-        "image": "https://i.imgur.com/EUt5N6q.jpg",
         "costume_id": 0,
         "originalIndex": 1314,
         "lb1": {
@@ -86570,6 +86570,7 @@ window.allHeroes =
         "source": "Legends Summon - Hero of the Month",
         "Release date": "2018-03-01",
         "specialId": "summon_temple_guardians",
+        "heroId": "holy_god_delilah",
         "star": 5,
         "power": 768,
         "attack": 737,
@@ -86582,7 +86583,6 @@ window.allHeroes =
         ],
         "passives": [],
         "family": 2018,
-        "image": "https://i.imgur.com/gbHdhVI.jpg",
         "costume_id": 0,
         "originalIndex": 1315,
         "lb1": {
@@ -86631,6 +86631,7 @@ window.allHeroes =
         "source": "Legends Summon - Hero of the Month",
         "Release date": "2023-05-15",
         "specialId": "summon_temple_guardians",
+        "heroId": "holy_god_delilah_costume_guardian",
         "star": 5,
         "power": 974,
         "attack": 916,
@@ -86645,14 +86646,13 @@ window.allHeroes =
             "Cleanse on Special: When this character casts their Special Skill, they cleanse the newest status ailment from all allies."
         ],
         "family": 2018,
-        "image": "https://i.imgur.com/muqHGtI.jpg",
         "costume_id": 1,
         "originalIndex": 1316,
         "lb1": {
-            "power": 1041,
+            "power": 1040,
             "attack": 988,
             "defense": 974,
-            "health": 2127
+            "health": 2124
         },
         "lb2": {
             "power": 1173,
@@ -86696,6 +86696,7 @@ window.allHeroes =
         "source": "Legends Summon - Hero of the Month",
         "Release date": "2021-07-01",
         "specialId": "arrows_and_claws",
+        "heroId": "holy_god_devana",
         "star": 5,
         "power": 792,
         "attack": 741,
@@ -86713,7 +86714,6 @@ window.allHeroes =
             "Resist Negative Minion Effects: This character has an innate resistance against incoming negative effects and damage from Minions."
         ],
         "family": 2021,
-        "image": "https://i.imgur.com/kOGhPnC.jpg",
         "costume_id": 0,
         "originalIndex": 1317,
         "lb1": {
@@ -86768,6 +86768,7 @@ window.allHeroes =
         "source": "Challenge Festival II",
         "Release date": "2021-06-10",
         "specialId": "directors_blessing",
+        "heroId": "circus_director_zuri",
         "star": 5,
         "power": 808,
         "attack": 766,
@@ -86780,7 +86781,6 @@ window.allHeroes =
         ],
         "passives": [],
         "family": "starfall",
-        "image": "https://i.imgur.com/NrSrxkV.jpg",
         "costume_id": 0,
         "originalIndex": 1318,
         "lb1": {
@@ -86839,6 +86839,7 @@ window.allHeroes =
         "source": "Mystery - Shadow Summon",
         "Release date": "2024-05-17",
         "specialId": "yellow_signs",
+        "heroId": "shadow_dolores",
         "star": 5,
         "power": 1098,
         "attack": 1135,
@@ -86854,7 +86855,6 @@ window.allHeroes =
             "Marked by the Old Ones: All damage is reduced by 5% per 10 Insanity for this character up to a maximum reduction of 50%."
         ],
         "family": "investigator",
-        "image": "https://i.imgur.com/sAavBEB.jpg",
         "costume_id": 0,
         "originalIndex": 1319,
         "lb1": {
@@ -86910,6 +86910,7 @@ window.allHeroes =
         "source": "Legends Summon - Hero of the Month",
         "Release date": "2018-08-01",
         "specialId": "flails_of_fury",
+        "heroId": "holy_god_drake_lee",
         "star": 5,
         "power": 768,
         "attack": 727,
@@ -86922,7 +86923,6 @@ window.allHeroes =
         ],
         "passives": [],
         "family": 2018,
-        "image": "https://i.imgur.com/DfnVeiC.jpg",
         "costume_id": 0,
         "originalIndex": 1320,
         "lb1": {
@@ -86972,6 +86972,7 @@ window.allHeroes =
         "source": "Legends Summon - Hero of the Month",
         "Release date": "2021-12-23",
         "specialId": "flails_of_fury",
+        "heroId": "holy_god_drake_lee_costume_serene",
         "star": 5,
         "power": 976,
         "attack": 943,
@@ -86986,7 +86987,6 @@ window.allHeroes =
             "Dispel on Special Skill: When this character casts their Special Skill, they dispel the newest status effect buff from all enemies."
         ],
         "family": 2018,
-        "image": "https://i.imgur.com/31loghP.jpg",
         "costume_id": 1,
         "originalIndex": 1321,
         "lb1": {
@@ -87034,6 +87034,7 @@ window.allHeroes =
         "source": "Alliance - Knights Clash",
         "Release date": "2022-01-05",
         "specialId": "ravaging_talons",
+        "heroId": "castle_raven_eloise",
         "star": 5,
         "power": 822,
         "attack": 803,
@@ -87046,7 +87047,6 @@ window.allHeroes =
         ],
         "passives": [],
         "family": "raven",
-        "image": "https://i.imgur.com/x2Zz9OK.jpg",
         "costume_id": 0,
         "originalIndex": 1322,
         "lb1": {
@@ -87101,6 +87101,7 @@ window.allHeroes =
         "source": "S6 - Mysteries of the Deep",
         "Release date": "2023-06-07",
         "specialId": "seabed_pirouette",
+        "heroId": "tales1_ephyra",
         "star": 5,
         "power": 934,
         "attack": 906,
@@ -87122,7 +87123,6 @@ window.allHeroes =
             " * All allies get +21% critical chance for 2 turns."
         ],
         "family": "defendersofatlantis",
-        "image": "https://i.imgur.com/nL4nDAx.jpg",
         "costume_id": 0,
         "originalIndex": 1323,
         "lb1": {
@@ -87173,6 +87173,7 @@ window.allHeroes =
         "source": "S6 - Mysteries of the Deep",
         "Release date": "2025-03-31",
         "specialId": "seabed_pirouette",
+        "heroId": "tales1_ephyra_costume_reef",
         "star": 5,
         "power": 1161,
         "attack": 1137,
@@ -87195,18 +87196,17 @@ window.allHeroes =
             "Resist Insanity: This character has innate resistance against Insanity."
         ],
         "family": "defendersofatlantis",
-        "image": "https://imgur.com/CAlgEAJ.jpg",
         "costume_id": 1,
         "originalIndex": 1324,
         "lb1": {
-            "power": 1241,
-            "attack": 1227,
+            "power": 1240,
+            "attack": 1224,
             "defense": 1288,
             "health": 2334
         },
         "lb2": {
-            "power": 1403,
-            "attack": 1404,
+            "power": 1402,
+            "attack": 1401,
             "defense": 1475,
             "health": 2671
         },
@@ -87243,6 +87243,7 @@ window.allHeroes =
         "source": "Three Kingdoms Summon",
         "Release date": "2023-01-02",
         "specialId": "deteriorating_morale",
+        "heroId": "journey_erlang_shen",
         "star": 5,
         "power": 860,
         "attack": 844,
@@ -87254,7 +87255,6 @@ window.allHeroes =
         ],
         "passives": [],
         "family": "journey",
-        "image": "https://i.imgur.com/vft4guR.jpg",
         "costume_id": 0,
         "originalIndex": 1325,
         "lb1": {
@@ -87310,6 +87310,7 @@ window.allHeroes =
         "source": "S5 - Dune",
         "Release date": "2023-01-19",
         "specialId": "holy_aura",
+        "heroId": "s5_eset",
         "star": 5,
         "power": 868,
         "attack": 832,
@@ -87326,7 +87327,6 @@ window.allHeroes =
             " * All enemies get -34% attack for 3 turns."
         ],
         "family": "sun",
-        "image": "https://i.imgur.com/0YdsTMt.jpg",
         "costume_id": 0,
         "originalIndex": 1326,
         "lb1": {
@@ -87379,6 +87379,7 @@ window.allHeroes =
         "source": "S5 - Dune",
         "Release date": "2025-06-11",
         "specialId": "holy_aura",
+        "heroId": "s5_eset_costume_goldensun",
         "star": 5,
         "power": 1214,
         "attack": 1238,
@@ -87397,7 +87398,6 @@ window.allHeroes =
             "Mana on Health Boosting Special Skill: This character gains 5% mana each time an enemy casts a Special Skill that directly boosts health."
         ],
         "family": "sun",
-        "image": "https://imgur.com/4M257qJ.jpg",
         "costume_id": 1,
         "originalIndex": 1327,
         "lb1": {
@@ -87452,6 +87452,7 @@ window.allHeroes =
         "source": "Extra Draw - Secret Summon",
         "Release date": "2025-05-31",
         "specialId": "mimic_training_hero_yellow_bite",
+        "heroId": "mimic_training_hero_yellow",
         "star": 5,
         "power": 1200,
         "attack": 1236,
@@ -87473,7 +87474,6 @@ window.allHeroes =
             " * Uncommon Ice Heroes"
         ],
         "family": "mimic",
-        "image": "https://imgur.com/WAwhfFp.jpg",
         "costume_id": 0,
         "originalIndex": 1328,
         "lb1": {
@@ -87531,6 +87531,7 @@ window.allHeroes =
         "source": "Legends Summon - Hero of the Month",
         "Release date": "2024-12-01",
         "specialId": "revitalizing_orb",
+        "heroId": "holy_god_faeona",
         "star": 5,
         "power": 1042,
         "attack": 1042,
@@ -87547,7 +87548,6 @@ window.allHeroes =
             "Mana on Buff Received: This character gains 5% mana when they receive a buff or positive stack."
         ],
         "family": 2024,
-        "image": "https://i.imgur.com/plLMCMU.jpg",
         "costume_id": 0,
         "originalIndex": 1329,
         "lb1": {
@@ -87596,6 +87596,7 @@ window.allHeroes =
         "source": "Challenge Festival II",
         "Release date": "2021-06-10",
         "specialId": "chakram_kick",
+        "heroId": "circus_faline",
         "star": 5,
         "power": 804,
         "attack": 784,
@@ -87607,7 +87608,6 @@ window.allHeroes =
         ],
         "passives": [],
         "family": "starfall",
-        "image": "https://i.imgur.com/8rLI8nK.jpg",
         "costume_id": 0,
         "originalIndex": 1330,
         "lb1": {
@@ -87655,6 +87655,7 @@ window.allHeroes =
         "source": "Goblin Summon",
         "Release date": "2024-08-04",
         "specialId": "esprit_de_corps",
+        "heroId": "garrison_frank_fangs_brimwell",
         "star": 5,
         "power": 1107,
         "attack": 1168,
@@ -87671,7 +87672,6 @@ window.allHeroes =
             "Guard Rally: Every 4 turns, removes all Wither effects from all allies."
         ],
         "family": "garrisonguard",
-        "image": "https://i.imgur.com/N2blWos.jpg",
         "costume_id": 0,
         "originalIndex": 1331,
         "lb1": {
@@ -87726,6 +87726,7 @@ window.allHeroes =
         "source": "Challenge Festival II",
         "Release date": "2022-11-03",
         "specialId": "bark_of_protection",
+        "heroId": "mighty_pet_furdinand",
         "star": 5,
         "power": 835,
         "attack": 782,
@@ -87743,7 +87744,6 @@ window.allHeroes =
             "Friend of the Familiars: When a Minion is summoned to any ally, this character gains 5% health and 5% mana. This effect can activate only once per turn."
         ],
         "family": "pets",
-        "image": "https://i.imgur.com/xJBNOD9.jpg",
         "costume_id": 0,
         "originalIndex": 1332,
         "lb1": {
@@ -87804,6 +87804,7 @@ window.allHeroes =
         "source": "S7 - Treasures of Flame and Frost",
         "Release date": "2024-12-03",
         "specialId": "spearwand_gale",
+        "heroId": "tales2_gandr",
         "star": 5,
         "power": 1165,
         "attack": 1168,
@@ -87822,14 +87823,13 @@ window.allHeroes =
             " * The Burn damage is scaled by the amount of charge in the Core. All charge is exhausted when the Core is activated."
         ],
         "family": "nidavellir",
-        "image": "https://i.imgur.com/hNiWYCE.jpg",
         "costume_id": 0,
         "originalIndex": 1333,
         "lb1": {
             "power": 1246,
             "attack": 1258,
             "defense": 1252,
-            "health": 2364
+            "health": 2361
         },
         "lb2": {
             "power": 1408,
@@ -87879,6 +87879,7 @@ window.allHeroes =
         "source": "Wilderness Summon",
         "Release date": "2024-12-07",
         "specialId": "purifying_light",
+        "heroId": "faun_gideon",
         "star": 5,
         "power": 1150,
         "attack": 1122,
@@ -87895,14 +87896,13 @@ window.allHeroes =
             "Mana on Status Ailment Received: This character gains 5% mana when they receive a status ailment or a negative stacks."
         ],
         "family": "woodlandfaun",
-        "image": "https://i.imgur.com/5Tx3rNq.jpg",
         "costume_id": 0,
         "originalIndex": 1334,
         "lb1": {
             "power": 1230,
             "attack": 1209,
             "defense": 1256,
-            "health": 2364
+            "health": 2361
         },
         "lb2": {
             "power": 1390,
@@ -87949,6 +87949,7 @@ window.allHeroes =
         "source": "Legends Summon - Hero of the Month",
         "Release date": "2023-03-01",
         "specialId": "reckless_charge",
+        "heroId": "holy_god_gilligan",
         "star": 5,
         "power": 821,
         "attack": 753,
@@ -87965,7 +87966,6 @@ window.allHeroes =
             "Mana Per Enemy Buff: Gains a small amount of mana for every active status effect buff that the enemy team has at the start of each turn (maximum of 20 buffs)."
         ],
         "family": 2023,
-        "image": "https://i.imgur.com/gcaSLmN.jpg",
         "costume_id": 0,
         "originalIndex": 1335,
         "lb1": {
@@ -88019,6 +88019,7 @@ window.allHeroes =
         "source": "Super Elementals",
         "Release date": "2025-06-07",
         "specialId": "coins_of_pain",
+        "heroId": "slime_goldrip",
         "star": 5,
         "power": 1202,
         "attack": 1359,
@@ -88034,7 +88035,6 @@ window.allHeroes =
             "Slime Minion Split: If this character loses more than 25% of max health at once, they summon a Slime Mega Minion for themselves with 50% HP and 40% attack."
         ],
         "family": "slime",
-        "image": "https://imgur.com/iqx1d2N.jpg",
         "costume_id": 0,
         "originalIndex": 1336,
         "lb1": {
@@ -88085,6 +88085,7 @@ window.allHeroes =
         "source": "Monthly Event - Lunar Year",
         "Release date": "2024-02-08",
         "specialId": "rejuvenating_elixir",
+        "heroId": "lunar_new_year_gongniu",
         "star": 5,
         "power": 983,
         "attack": 875,
@@ -88100,7 +88101,6 @@ window.allHeroes =
             "Disable Minion Abilities: Attacks and abilities of all Minions owned by enemies are disabled."
         ],
         "family": "lunaryear",
-        "image": "https://i.imgur.com/BDNFVzo.jpg",
         "costume_id": 0,
         "originalIndex": 1337,
         "lb1": {
@@ -88150,6 +88150,7 @@ window.allHeroes =
         "source": "Super Elementals",
         "Release date": "2025-01-20",
         "specialId": "reviving_touch",
+        "heroId": "slime_gooric",
         "star": 5,
         "power": 1172,
         "attack": 1246,
@@ -88171,14 +88172,13 @@ window.allHeroes =
             "Slime Minion Split: If this character loses more than 25% of max health at once, they summon a Slime Mega Minion for themselves with 50% HP and 40% attack."
         ],
         "family": "slime",
-        "image": "https://i.imgur.com/QoTjDm5.jpg",
         "costume_id": 0,
         "originalIndex": 1338,
         "lb1": {
-            "power": 1254,
+            "power": 1253,
             "attack": 1343,
             "defense": 1249,
-            "health": 2211
+            "health": 2208
         },
         "lb2": {
             "power": 1417,
@@ -88222,6 +88222,7 @@ window.allHeroes =
         "source": "Super Elementals",
         "Release date": "2024-04-22",
         "specialId": "holy_hibiscus_ale",
+        "heroId": "elemental_grilka",
         "star": 5,
         "power": 1039,
         "attack": 1007,
@@ -88241,7 +88242,6 @@ window.allHeroes =
             " - Received elemental damage: -10%"
         ],
         "family": "superelemental",
-        "image": "https://i.imgur.com/71dNXYj.jpg",
         "costume_id": 0,
         "originalIndex": 1339,
         "lb1": {
@@ -88296,6 +88296,7 @@ window.allHeroes =
         "source": "Challenge Festival I",
         "Release date": "2024-02-22",
         "specialId": "rain_of_arrows",
+        "heroId": "guardian_elephant",
         "star": 5,
         "power": 1009,
         "attack": 990,
@@ -88312,7 +88313,6 @@ window.allHeroes =
             "Resist Damage from Status Effects: This charater has innate resistance against incoming damage from status effects."
         ],
         "family": "guardiansteltoc",
-        "image": "https://i.imgur.com/oi9Vymu.jpg",
         "costume_id": 0,
         "originalIndex": 1340,
         "lb1": {
@@ -88374,6 +88374,7 @@ window.allHeroes =
         "source": "Challenge Festival I",
         "Release date": "2020-01-08",
         "specialId": "dance_of_spirits",
+        "heroId": "guardian_gazelle",
         "star": 5,
         "power": 780,
         "attack": 751,
@@ -88390,7 +88391,6 @@ window.allHeroes =
         ],
         "passives": [],
         "family": "guardiansteltoc",
-        "image": "https://i.imgur.com/B2LpVrC.jpg",
         "costume_id": 0,
         "originalIndex": 1341,
         "lb1": {
@@ -88452,6 +88452,7 @@ window.allHeroes =
         "source": "Challenge Festival I",
         "Release date": "2023-01-26",
         "specialId": "dance_of_spirits",
+        "heroId": "guardian_gazelle_costume_bandalore",
         "star": 5,
         "power": 976,
         "attack": 982,
@@ -88468,7 +88469,6 @@ window.allHeroes =
         ],
         "passives": [],
         "family": "guardiansteltoc",
-        "image": "https://i.imgur.com/E5qL0sl.jpg",
         "costume_id": 1,
         "originalIndex": 1342,
         "lb1": {
@@ -88478,9 +88478,9 @@ window.allHeroes =
             "health": 1898
         },
         "lb2": {
-            "power": 1175,
+            "power": 1174,
             "attack": 1212,
-            "defense": 1152,
+            "defense": 1149,
             "health": 2171
         },
         "cn_skill_info": [
@@ -88525,6 +88525,7 @@ window.allHeroes =
         "source": "Challenge Festival I",
         "Release date": "2017-10-05",
         "specialId": "stately_retribution",
+        "heroId": "guardian_owl_gentleman",
         "star": 5,
         "power": 765,
         "attack": 601,
@@ -88538,7 +88539,6 @@ window.allHeroes =
         ],
         "passives": [],
         "family": "guardiansteltoc",
-        "image": "https://i.imgur.com/XO3HIxy.jpg",
         "costume_id": 0,
         "originalIndex": 1343,
         "lb1": {
@@ -88593,6 +88593,7 @@ window.allHeroes =
         "source": "Challenge Festival I",
         "Release date": "2018-01-05",
         "specialId": "word_of_queen",
+        "heroId": "knights_guinevere",
         "star": 5,
         "power": 765,
         "attack": 669,
@@ -88605,7 +88606,6 @@ window.allHeroes =
         ],
         "passives": [],
         "family": "avalon",
-        "image": "https://i.imgur.com/dYjW9Xa.jpg",
         "costume_id": 0,
         "originalIndex": 1344,
         "lb1": {
@@ -88661,6 +88661,7 @@ window.allHeroes =
         "source": "Challenge Festival I",
         "Release date": "2023-04-20",
         "specialId": "word_of_queen",
+        "heroId": "knights_guinevere_costume_rider",
         "star": 5,
         "power": 958,
         "attack": 797,
@@ -88673,7 +88674,6 @@ window.allHeroes =
         ],
         "passives": [],
         "family": "avalon",
-        "image": "https://i.imgur.com/IeQY7xx.jpg",
         "costume_id": 1,
         "originalIndex": 1345,
         "lb1": {
@@ -88736,6 +88736,7 @@ window.allHeroes =
         "source": "Mystery - Shadow Summon",
         "Release date": "2025-07-29",
         "specialId": "essence_of_queen_nitocris",
+        "heroId": "shadow_gwendoline",
         "star": 5,
         "power": 1224,
         "attack": 1223,
@@ -88753,7 +88754,6 @@ window.allHeroes =
         ],
         "passives": [],
         "family": "investigator",
-        "image": "https://imgur.com/bX4otRm.jpg",
         "costume_id": 0,
         "originalIndex": 1346,
         "lb1": {
@@ -88811,6 +88811,7 @@ window.allHeroes =
         "source": "Covenant Summon",
         "Release date": "2024-07-12",
         "specialId": "high_energy_field",
+        "heroId": "construct_gwynn",
         "star": 5,
         "power": 1076,
         "attack": 1083,
@@ -88827,7 +88828,6 @@ window.allHeroes =
             "Corrosive Core: The Construct Core of this character is Corrosive Core. The Corrosive Core activates each time this character’s Special Skill is cast: * All enemies receive Corrosive Poison for 3 turns. With a fully charged Corrosive Core, the Corrosive Poision deals 151 Poison damage and lowers the target’s mana generation by -13% each turn. Deals extra damage against heroes with Minions or a Mega Minion. * The poison damage is scaled by the amount of charge in the Core. All charge is exhausted when the Core is activated."
         ],
         "family": "construct",
-        "image": "https://i.imgur.com/94OEbs6.jpg",
         "costume_id": 0,
         "originalIndex": 1347,
         "lb1": {
@@ -88878,6 +88878,7 @@ window.allHeroes =
         "source": "Challenge Festival II",
         "Release date": "2022-11-03",
         "specialId": "strike_of_a_thousand_howls",
+        "heroId": "mighty_pet_hachiko",
         "star": 5,
         "power": 876,
         "attack": 877,
@@ -88893,7 +88894,6 @@ window.allHeroes =
             "Wrath of Pets: When a Fiend is summoned to any enemy, this character deals 85% damage to all enemies. This effect can activate only once per turn."
         ],
         "family": "pets",
-        "image": "https://i.imgur.com/SMSyQXB.jpg",
         "costume_id": 0,
         "originalIndex": 1348,
         "lb1": {
@@ -88945,6 +88945,7 @@ window.allHeroes =
         "source": "Covenant Summon",
         "Release date": "2025-07-06",
         "specialId": "unbroken_assault",
+        "heroId": "fox_halcyon",
         "star": 5,
         "power": 1217,
         "attack": 1264,
@@ -88960,7 +88961,6 @@ window.allHeroes =
             "Decreased Healing: All enemies get -50% healing."
         ],
         "family": "fox",
-        "image": "https://imgur.com/spHpfyL.jpg",
         "costume_id": 0,
         "originalIndex": 1349,
         "lb1": {
@@ -89014,6 +89014,7 @@ window.allHeroes =
         "source": "Legends Summon - Hero of the Month",
         "Release date": "2021-12-01",
         "specialId": "dancing_dodge",
+        "heroId": "holy_god_hanitra",
         "star": 5,
         "power": 797,
         "attack": 721,
@@ -89029,7 +89030,6 @@ window.allHeroes =
             "Mana on Buff Received: This character gains 5% mana when they receive a buff or a positive stack."
         ],
         "family": 2021,
-        "image": "https://i.imgur.com/Q6iWdU3.jpg",
         "costume_id": 0,
         "originalIndex": 1350,
         "lb1": {
@@ -89085,6 +89085,7 @@ window.allHeroes =
         "source": "Astral Summon",
         "Release date": "2025-06-04",
         "specialId": "star_trail",
+        "heroId": "astral_dwarf_haumri",
         "star": 5,
         "power": 1191,
         "attack": 1268,
@@ -89102,14 +89103,13 @@ window.allHeroes =
             "Perfect Accuracy: This character’s Special Skill never misses its targets."
         ],
         "family": "astraldwarfs",
-        "image": "https://imgur.com/VuxizwX.jpg",
         "costume_id": 0,
         "originalIndex": 1351,
         "lb1": {
-            "power": 1275,
+            "power": 1274,
             "attack": 1367,
             "defense": 1272,
-            "health": 2253
+            "health": 2250
         },
         "lb2": {
             "power": 1440,
@@ -89161,6 +89161,7 @@ window.allHeroes =
         "source": "Challenge - Gargoyle",
         "Release date": "2024-06-13",
         "specialId": "drain_strike",
+        "heroId": "gargoyle_hilda",
         "star": 5,
         "power": 1065,
         "attack": 1097,
@@ -89175,7 +89176,6 @@ window.allHeroes =
             "Gargoile’s Softskin: Every time this Gargoyle casts a Special Skil, their Softskin activates. The next 4 times they receive damage, it is reduced by -90%, and they resist all status ailment and mana reduction. This effect can’t be dispelled."
         ],
         "family": "gargoyle",
-        "image": "https://i.imgur.com/Urzke5i.jpg",
         "costume_id": 0,
         "originalIndex": 1352,
         "lb1": {
@@ -89226,6 +89226,7 @@ window.allHeroes =
         "source": "S5 - Dune",
         "Release date": "2022-05-19",
         "specialId": "unrelenting_hunter",
+        "heroId": "s5_horus",
         "star": 5,
         "power": 859,
         "attack": 824,
@@ -89239,7 +89240,6 @@ window.allHeroes =
             "Effects on Special Skill: 40% chance to perform the following actions when this character casts their Special Skill ' * Deals 70% damage to all enemies.' ' * All enemies get -34% attack for 3 turns.'"
         ],
         "family": "sun",
-        "image": "https://i.imgur.com/0Yedhet.jpg",
         "costume_id": 0,
         "originalIndex": 1353,
         "lb1": {
@@ -89286,6 +89286,7 @@ window.allHeroes =
         "source": "S5 - Dune",
         "Release date": "2024-04-01",
         "specialId": "unrelenting_hunter",
+        "heroId": "s5_horus_costume_golden",
         "star": 5,
         "power": 1200,
         "attack": 1190,
@@ -89301,7 +89302,6 @@ window.allHeroes =
             "Mana on Health Boosting Special Skill: This character gains 5% mana each time an enemy casts a Special Skill that directly boosts health."
         ],
         "family": "sun",
-        "image": "https://i.imgur.com/fLHpPl2.jpg",
         "costume_id": 1,
         "originalIndex": 1354,
         "lb1": {
@@ -89311,10 +89311,10 @@ window.allHeroes =
             "health": 2578
         },
         "lb2": {
-            "power": 1450,
+            "power": 1451,
             "attack": 1467,
             "defense": 1427,
-            "health": 2949
+            "health": 2952
         },
         "cn_skill_info": [
             {
@@ -89350,6 +89350,7 @@ window.allHeroes =
         "source": "Tower - Ninjas",
         "Release date": "2024-08-27",
         "specialId": "kunai_assault",
+        "heroId": "ninja_iga",
         "star": 5,
         "power": 1095,
         "attack": 1275,
@@ -89373,7 +89374,6 @@ window.allHeroes =
             "Decreased Minion Health: Enemy Minions inherit -50% less Health when summoned."
         ],
         "family": "ninja",
-        "image": "https://i.imgur.com/y4ft1xP.jpg",
         "costume_id": 0,
         "originalIndex": 1355,
         "lb1": {
@@ -89419,6 +89419,7 @@ window.allHeroes =
         "source": "S2 - Atlantis",
         "Release date": "2019-02-01",
         "specialId": "lucky_nine",
+        "heroId": "s2_fox_girl",
         "star": 5,
         "power": 772,
         "attack": 813,
@@ -89431,7 +89432,6 @@ window.allHeroes =
         ],
         "passives": [],
         "family": "sakura",
-        "image": "https://i.imgur.com/MjynoiD.jpg",
         "costume_id": 0,
         "originalIndex": 1356,
         "lb1": {
@@ -89487,6 +89487,7 @@ window.allHeroes =
         "source": "S2 - Atlantis",
         "Release date": "2022-05-02",
         "specialId": "lucky_nine",
+        "heroId": "s2_fox_girl_costume_white_kitsune",
         "star": 5,
         "power": 943,
         "attack": 965,
@@ -89499,13 +89500,12 @@ window.allHeroes =
         ],
         "passives": [],
         "family": "sakura",
-        "image": "https://i.imgur.com/Q0YpLSK.jpg",
         "costume_id": 1,
         "originalIndex": 1357,
         "lb1": {
             "power": 1007,
             "attack": 1040,
-            "defense": 921,
+            "defense": 918,
             "health": 1864
         },
         "lb2": {
@@ -89560,6 +89560,7 @@ window.allHeroes =
         "source": "Super Elementals",
         "Release date": "2023-12-04",
         "specialId": "chains_of_light",
+        "heroId": "elemental_ironmaw",
         "star": 5,
         "power": 978,
         "attack": 1001,
@@ -89578,7 +89579,6 @@ window.allHeroes =
             " - Received elemental damage: -10%"
         ],
         "family": "superelemental",
-        "image": "https://i.imgur.com/7BkCCl9.jpg",
         "costume_id": 0,
         "originalIndex": 1358,
         "lb1": {
@@ -89634,6 +89634,7 @@ window.allHeroes =
         "source": "Legends Summon - Hero of the Month",
         "Release date": "2023-08-01",
         "specialId": "stupendous_break_in",
+        "heroId": "holy_god_ithar",
         "star": 5,
         "power": 867,
         "attack": 904,
@@ -89650,7 +89651,6 @@ window.allHeroes =
             "Resist Status Ailments From Minions: This character has innate resistance against status ailments that are from Minions."
         ],
         "family": 2023,
-        "image": "https://i.imgur.com/DDTIPj2.jpg",
         "costume_id": 0,
         "originalIndex": 1359,
         "lb1": {
@@ -89705,6 +89705,7 @@ window.allHeroes =
         "source": "Challenge - Carnival of Gods",
         "Release date": "2023-07-13",
         "specialId": "the_two_sides_of_the_moon",
+        "heroId": "masquerade_jana",
         "star": 5,
         "power": 931,
         "attack": 920,
@@ -89720,7 +89721,6 @@ window.allHeroes =
             "Cleanse on Minion Death: This character is cleansed of status ailments when Minion owned by them is destroyed. "
         ],
         "family": "maskedgod",
-        "image": "https://i.imgur.com/4FOeHzK.jpg",
         "costume_id": 0,
         "originalIndex": 1360,
         "lb1": {
@@ -89771,6 +89771,7 @@ window.allHeroes =
         "source": "Monthly Event - Springvale",
         "Release date": "2023-03-27",
         "specialId": "petals_of_nourishment",
+        "heroId": "easter_jasper",
         "star": 5,
         "power": 868,
         "attack": 797,
@@ -89784,7 +89785,6 @@ window.allHeroes =
         ],
         "passives": [],
         "family": "springvale",
-        "image": "https://i.imgur.com/Fqmw2ti.jpg",
         "costume_id": 0,
         "originalIndex": 1361,
         "lb1": {
@@ -89839,6 +89839,7 @@ window.allHeroes =
         "source": "Monthly Event - Springvale",
         "Release date": "2024-03-18",
         "specialId": "petals_of_nourishment",
+        "heroId": "easter_jasper_costume_fisherman",
         "star": 5,
         "power": 1034,
         "attack": 946,
@@ -89852,7 +89853,6 @@ window.allHeroes =
         ],
         "passives": [],
         "family": "springvale",
-        "image": "https://i.imgur.com/iHZz8KB.jpg",
         "costume_id": 1,
         "originalIndex": 1362,
         "lb1": {
@@ -89907,6 +89907,7 @@ window.allHeroes =
         "source": "Super Elementals",
         "Release date": "2022-10-10",
         "specialId": "archaic_sacred_symbol",
+        "heroId": "elemental_jequn",
         "star": 5,
         "power": 967,
         "attack": 951,
@@ -89927,7 +89928,6 @@ window.allHeroes =
             " - Received elemental damage: -10%"
         ],
         "family": "superelemental",
-        "image": "https://i.imgur.com/sJ0rROO.jpg",
         "costume_id": 0,
         "originalIndex": 1363,
         "lb1": {
@@ -89979,6 +89979,7 @@ window.allHeroes =
         "source": "Super Elementals",
         "Release date": "2025-06-20",
         "specialId": "archaic_sacred_symbol",
+        "heroId": "elemental_jequn_costume_gilded",
         "star": 5,
         "power": 1213,
         "attack": 1213,
@@ -89999,7 +90000,6 @@ window.allHeroes =
             " - Received elemental damage: -25%"
         ],
         "family": "superelemental",
-        "image": "https://imgur.com/bIp33Sf.jpg",
         "costume_id": 1,
         "originalIndex": 1364,
         "lb1": {
@@ -90049,6 +90049,7 @@ window.allHeroes =
         "source": "S1 - Classic",
         "Release date": "2017-03-01",
         "specialId": "solar_beam",
+        "heroId": "oriental_enchanted_monk",
         "star": 5,
         "power": 752,
         "attack": 749,
@@ -90060,7 +90061,6 @@ window.allHeroes =
         ],
         "passives": [],
         "family": "classic",
-        "image": "https://i.imgur.com/d5mevmf.jpg",
         "costume_id": 0,
         "originalIndex": 1365,
         "lb1": {
@@ -90107,6 +90107,7 @@ window.allHeroes =
         "source": "Costume Quest",
         "Release date": "2020-01-01",
         "specialId": "solar_beam",
+        "heroId": "oriental_enchanted_monk_costume_tiger",
         "star": 5,
         "power": 847,
         "attack": 841,
@@ -90118,7 +90119,6 @@ window.allHeroes =
         ],
         "passives": [],
         "family": "classic",
-        "image": "https://i.imgur.com/YXbYHIl.jpg",
         "costume_id": 1,
         "originalIndex": 1366,
         "lb1": {
@@ -90167,6 +90167,7 @@ window.allHeroes =
         "source": "Costume Quest",
         "Release date": "2022-12-26",
         "specialId": "solar_beam",
+        "heroId": "oriental_enchanted_monk_costume_stoneguard",
         "star": 5,
         "power": 961,
         "attack": 971,
@@ -90179,14 +90180,13 @@ window.allHeroes =
         ],
         "passives": [],
         "family": "classic",
-        "image": "https://i.imgur.com/rJxyTcK.jpg",
         "costume_id": 2,
         "originalIndex": 1367,
         "lb1": {
             "power": 1027,
             "attack": 1047,
             "defense": 890,
-            "health": 2049
+            "health": 2046
         },
         "lb2": {
             "power": 1157,
@@ -90229,6 +90229,7 @@ window.allHeroes =
         "source": "Costume Quest",
         "Release date": "2024-02-12",
         "specialId": "solar_beam",
+        "heroId": "oriental_enchanted_monk_costume_cute",
         "star": 5,
         "power": 1127,
         "attack": 1164,
@@ -90243,14 +90244,13 @@ window.allHeroes =
             "Toon: 75% extra chance to resist all status ailments, mana reductions and buff dispels."
         ],
         "family": "classic",
-        "image": "https://i.imgur.com/6UDBHvu.jpg",
         "costume_id": 3,
         "originalIndex": 1368,
         "lb1": {
             "power": 1205,
             "attack": 1255,
             "defense": 1069,
-            "health": 2444
+            "health": 2441
         },
         "lb2": {
             "power": 1361,
@@ -90297,6 +90297,7 @@ window.allHeroes =
         "source": "Costume Quest",
         "Release date": "2025-04-08",
         "specialId": "solar_beam",
+        "heroId": "oriental_enchanted_monk_costume_glass",
         "star": 5,
         "power": 1232,
         "attack": 1340,
@@ -90311,14 +90312,13 @@ window.allHeroes =
             "Glass: 60% extra chance to reflect status ailments back to the attacker."
         ],
         "family": "classic",
-        "image": "https://imgur.com/7d9tXzA.jpg",
         "costume_id": 4,
         "originalIndex": 1369,
         "lb1": {
-            "power": 1318,
+            "power": 1317,
             "attack": 1443,
             "defense": 1188,
-            "health": 2540
+            "health": 2537
         },
         "lb2": {
             "power": 1490,
@@ -90365,6 +90365,7 @@ window.allHeroes =
         "source": "Challenge - Carnival of Gods",
         "Release date": "2022-11-22",
         "specialId": "strike_from_the_skies",
+        "heroId": "masquerade_jove",
         "star": 5,
         "power": 838,
         "attack": 842,
@@ -90379,7 +90380,6 @@ window.allHeroes =
             "Cleanse on Minion Death: This character is cleansed of status ailments when Minion owned by them is destroyed."
         ],
         "family": "maskedgod",
-        "image": "https://i.imgur.com/YFCeTvj.jpg",
         "costume_id": 0,
         "originalIndex": 1370,
         "lb1": {
@@ -90427,6 +90427,7 @@ window.allHeroes =
         "source": "S1 - Classic",
         "Release date": "2017-03-01",
         "specialId": "rite_of_judgement",
+        "heroId": "exalted_female_statue",
         "star": 5,
         "power": 754,
         "attack": 609,
@@ -90439,7 +90440,6 @@ window.allHeroes =
         ],
         "passives": [],
         "family": "classic",
-        "image": "https://i.imgur.com/nIFbFrG.jpg",
         "costume_id": 0,
         "originalIndex": 1371,
         "lb1": {
@@ -90492,6 +90492,7 @@ window.allHeroes =
         "source": "Costume Quest",
         "Release date": "2021-01-18",
         "specialId": "rite_of_judgement",
+        "heroId": "exalted_female_statue_costume_sungoddess",
         "star": 5,
         "power": 849,
         "attack": 760,
@@ -90504,7 +90505,6 @@ window.allHeroes =
         ],
         "passives": [],
         "family": "classic",
-        "image": "https://i.imgur.com/KCL7Y0s.jpg",
         "costume_id": 1,
         "originalIndex": 1372,
         "lb1": {
@@ -90557,6 +90557,7 @@ window.allHeroes =
         "source": "Costume Quest",
         "Release date": "2023-02-20",
         "specialId": "rite_of_judgement",
+        "heroId": "exalted_female_statue_costume_thorns",
         "star": 5,
         "power": 966,
         "attack": 890,
@@ -90569,7 +90570,6 @@ window.allHeroes =
         ],
         "passives": [],
         "family": "classic",
-        "image": "https://i.imgur.com/feWdynO.jpg",
         "costume_id": 2,
         "originalIndex": 1373,
         "lb1": {
@@ -90622,6 +90622,7 @@ window.allHeroes =
         "source": "Costume Quest",
         "Release date": "2024-06-28",
         "specialId": "rite_of_judgement",
+        "heroId": "exalted_female_statue_costume_cute",
         "star": 5,
         "power": 1132,
         "attack": 1178,
@@ -90636,7 +90637,6 @@ window.allHeroes =
             "Toon: 75% extra chance to resist all status ailments, mana reductions and buff dispels."
         ],
         "family": "classic",
-        "image": "https://i.imgur.com/ChEEEeb.jpg",
         "costume_id": 3,
         "originalIndex": 1374,
         "lb1": {
@@ -90648,7 +90648,7 @@ window.allHeroes =
         "lb2": {
             "power": 1366,
             "attack": 1452,
-            "defense": 1153,
+            "defense": 1150,
             "health": 2935
         },
         "cn_skill_info": [
@@ -90689,6 +90689,7 @@ window.allHeroes =
         "source": "Legends Summon - Hero of the Month",
         "Release date": "2022-05-01",
         "specialId": "shieldmaidens_protection",
+        "heroId": "holy_god_kara",
         "star": 5,
         "power": 807,
         "attack": 756,
@@ -90705,7 +90706,6 @@ window.allHeroes =
             "Resist Defense Ailments: This character has innate resistance against status ailments that affect defense. Applies also to status ailments that affect elemental defense."
         ],
         "family": 2022,
-        "image": "https://i.imgur.com/ltyTaFe.jpg",
         "costume_id": 0,
         "originalIndex": 1375,
         "lb1": {
@@ -90750,6 +90750,7 @@ window.allHeroes =
         "source": "Monthly Event - Kalevala",
         "Release date": "2022-06-20",
         "specialId": "heirloom_dagger",
+        "heroId": "kalevala_kullervo",
         "star": 5,
         "power": 835,
         "attack": 815,
@@ -90764,7 +90765,6 @@ window.allHeroes =
             "Power of Sisu: When this character starts a turn with low health for the first time during a battle, they recover 15% health and receive 15% mana."
         ],
         "family": "kalevala",
-        "image": "https://i.imgur.com/tmvOfKK.jpg",
         "costume_id": 0,
         "originalIndex": 1376,
         "lb1": {
@@ -90813,6 +90813,7 @@ window.allHeroes =
         "source": "Monthly Event - Kalevala",
         "Release date": "2023-08-07",
         "specialId": "heirloom_dagger",
+        "heroId": "kalevala_kullervo_costume_battle_scarred",
         "star": 5,
         "power": 1078,
         "attack": 1062,
@@ -90827,7 +90828,6 @@ window.allHeroes =
             "Power of Sisu: When this character starts a turn with low health for the first time during a battle, they recover 15% health and receive 15% mana."
         ],
         "family": "kalevala",
-        "image": "https://i.imgur.com/llU8XwL.jpg",
         "costume_id": 1,
         "originalIndex": 1377,
         "lb1": {
@@ -90878,6 +90878,7 @@ window.allHeroes =
         "source": "Tower - Ninjas",
         "Release date": "2023-05-31",
         "specialId": "tumbling_dragon",
+        "heroId": "ninja_kushanku",
         "star": 5,
         "power": 875,
         "attack": 811,
@@ -90906,7 +90907,6 @@ window.allHeroes =
         ],
         "passives": [],
         "family": "ninja",
-        "image": "https://i.imgur.com/4sSfY3A.jpg",
         "costume_id": 0,
         "originalIndex": 1378,
         "lb1": {
@@ -90968,6 +90968,7 @@ window.allHeroes =
         "source": "Tower - Magic",
         "Release date": "2025-07-05",
         "specialId": "twostep_swing",
+        "heroId": "magic_carpet_lando",
         "star": 5,
         "power": 1217,
         "attack": 1190,
@@ -90987,7 +90988,6 @@ window.allHeroes =
             "Weaker Mega Minions: Enemy Mega Minions have -75% HP."
         ],
         "family": "magiccarpet",
-        "image": "https://imgur.com/vcJysVw.jpg",
         "costume_id": 0,
         "originalIndex": 1379,
         "lb1": {
@@ -91041,6 +91041,7 @@ window.allHeroes =
         "source": "Monthly Event - Lunar Year",
         "Release date": "2023-01-19",
         "specialId": "fierce_fu_jow_pai",
+        "heroId": "lunar_new_year_laohu",
         "star": 5,
         "power": 861,
         "attack": 844,
@@ -91054,7 +91055,6 @@ window.allHeroes =
             "Disable Minion Abilities: Attacks and abilities of all Minions owned by enemies are disabled."
         ],
         "family": "lunaryear",
-        "image": "https://i.imgur.com/3mERqj0.jpg",
         "costume_id": 0,
         "originalIndex": 1380,
         "lb1": {
@@ -91105,6 +91105,7 @@ window.allHeroes =
         "source": "Legends Summon",
         "Release date": "2024-03-08",
         "specialId": "home_run",
+        "heroId": "champions_lazara",
         "star": 5,
         "power": 1015,
         "attack": 1040,
@@ -91122,7 +91123,6 @@ window.allHeroes =
             "Damage on Attempted Enemy Cleanse: When an enemy attempts to cleanse by using Special Skill, all enemies receive 300 damage. This effect can activate only once per turn."
         ],
         "family": "champions",
-        "image": "https://i.imgur.com/mxOSRGe.jpg",
         "costume_id": 0,
         "originalIndex": 1381,
         "lb1": {
@@ -91175,6 +91175,7 @@ window.allHeroes =
         "source": "Astral Summon",
         "Release date": "2024-03-07",
         "specialId": "wandering_star_shot",
+        "heroId": "astral_lemonwood",
         "star": 5,
         "power": 1013,
         "attack": 1042,
@@ -91191,7 +91192,6 @@ window.allHeroes =
             "Share Received Damage: 20% of damage received by this charater is shared with other allies."
         ],
         "family": "astralelves",
-        "image": "https://i.imgur.com/P0rxyPZ.jpg",
         "costume_id": 0,
         "originalIndex": 1382,
         "lb1": {
@@ -91241,6 +91241,7 @@ window.allHeroes =
         "source": "S1 - Classic",
         "Release date": "2017-03-01",
         "specialId": "spartan_cleave",
+        "heroId": "oriental_warrior_king",
         "star": 5,
         "power": 752,
         "attack": 731,
@@ -91253,7 +91254,6 @@ window.allHeroes =
         ],
         "passives": [],
         "family": "classic",
-        "image": "https://i.imgur.com/SPyWzYD.jpg",
         "costume_id": 0,
         "originalIndex": 1383,
         "lb1": {
@@ -91301,6 +91301,7 @@ window.allHeroes =
         "source": "Costume Quest",
         "Release date": "2021-01-18",
         "specialId": "spartan_cleave",
+        "heroId": "oriental_warrior_king_costume_roman",
         "star": 5,
         "power": 845,
         "attack": 806,
@@ -91313,7 +91314,6 @@ window.allHeroes =
         ],
         "passives": [],
         "family": "classic",
-        "image": "https://i.imgur.com/c7cvRg8.jpg",
         "costume_id": 1,
         "originalIndex": 1384,
         "lb1": {
@@ -91363,6 +91363,7 @@ window.allHeroes =
         "source": "Costume Quest",
         "Release date": "2022-12-26",
         "specialId": "spartan_cleave",
+        "heroId": "oriental_warrior_king_costume_mage",
         "star": 5,
         "power": 960,
         "attack": 926,
@@ -91375,14 +91376,13 @@ window.allHeroes =
         ],
         "passives": [],
         "family": "classic",
-        "image": "https://i.imgur.com/6haP2Yz.jpg",
         "costume_id": 2,
         "originalIndex": 1385,
         "lb1": {
             "power": 1025,
             "attack": 998,
             "defense": 1010,
-            "health": 1918
+            "health": 1915
         },
         "lb2": {
             "power": 1155,
@@ -91430,6 +91430,7 @@ window.allHeroes =
         "source": "Costume Quest",
         "Release date": "2023-12-25",
         "specialId": "spartan_cleave",
+        "heroId": "oriental_warrior_king_costume_cute",
         "star": 5,
         "power": 1125,
         "attack": 1139,
@@ -91445,7 +91446,6 @@ window.allHeroes =
             "Toon: 75% extra chance to resist all status ailments, mana reductions and buff dispels."
         ],
         "family": "classic",
-        "image": "https://i.imgur.com/PKsAK4b.jpg",
         "costume_id": 3,
         "originalIndex": 1386,
         "lb1": {
@@ -91498,6 +91498,7 @@ window.allHeroes =
         "source": "Costume Quest",
         "Release date": "2025-02-11",
         "specialId": "spartan_cleave",
+        "heroId": "oriental_warrior_king_costume_glass",
         "star": 5,
         "power": 1232,
         "attack": 1337,
@@ -91513,7 +91514,6 @@ window.allHeroes =
             "Glass: 60% extra chance to reflect status ailments back to the attacker."
         ],
         "family": "classic",
-        "image": "https://i.imgur.com/7lvHaTO.jpg",
         "costume_id": 4,
         "originalIndex": 1387,
         "lb1": {
@@ -91570,6 +91570,7 @@ window.allHeroes =
         "source": "Tower - Owls",
         "Release date": "2024-02-14",
         "specialId": "rites_of_inner_knowledge",
+        "heroId": "owl_livia",
         "star": 5,
         "power": 1047,
         "attack": 970,
@@ -91585,7 +91586,6 @@ window.allHeroes =
             "Reduce Mana Gain from Special Skills: Reduces the amount of mana increased by Special Skill by -80%. The effect applies to all enemies in the battle."
         ],
         "family": "owl",
-        "image": "https://i.imgur.com/JTBt0dY.jpg",
         "costume_id": 0,
         "originalIndex": 1388,
         "lb1": {
@@ -91644,6 +91644,7 @@ window.allHeroes =
         "source": "Monster Island Summon",
         "Release date": "2022-08-25",
         "specialId": "wild_cleave",
+        "heroId": "monster_hunter_malin",
         "star": 5,
         "power": 885,
         "attack": 836,
@@ -91661,7 +91662,6 @@ window.allHeroes =
             "Damage over time on Special: When this character casts their Special Skill, they give a Hunter’s Mark on a random enemy. The target receives 150 damage over 3 turns. If a target already has this effect, the duration will be refreshed and the damage will be increased by 150, up to 1500 damage in total."
         ],
         "family": "plainshunter",
-        "image": "https://i.imgur.com/7OmJaIC.jpg",
         "costume_id": 0,
         "originalIndex": 1389,
         "lb1": {
@@ -91717,6 +91717,7 @@ window.allHeroes =
         "source": "Legends Summon - Hero of the Month",
         "Release date": "2020-04-01",
         "specialId": "power_punch",
+        "heroId": "holy_god_malosi",
         "star": 5,
         "power": 771,
         "attack": 743,
@@ -91731,7 +91732,6 @@ window.allHeroes =
             "Resist Defense Ailments: The hero has an innate resistance against status ailments and negative stacks that affect Defense. Doesn't apply to status ailments that affect elemental defense."
         ],
         "family": 2020,
-        "image": "https://i.imgur.com/ttNHqjc.jpg",
         "costume_id": 0,
         "originalIndex": 1390,
         "lb1": {
@@ -91779,6 +91779,7 @@ window.allHeroes =
         "source": "Monthly Event - Morlovia",
         "Release date": "2022-10-03",
         "specialId": "muffin_poisoning",
+        "heroId": "halloween_matilda",
         "star": 5,
         "power": 850,
         "attack": 817,
@@ -91796,7 +91797,6 @@ window.allHeroes =
             "Steal Buff: When this character casts their Special Skill, they have a 50% chance to steal the newest dispellable buff from a random enemy that has buffs. If no enemy has buffs, deals 70% damage to all enemies."
         ],
         "family": "morlovia",
-        "image": "https://i.imgur.com/Lb4Sdwp.jpg",
         "costume_id": 0,
         "originalIndex": 1391,
         "lb1": {
@@ -91852,6 +91852,7 @@ window.allHeroes =
         "source": "Legends Summon - Hero of the Month",
         "Release date": "2025-05-01",
         "specialId": "bounty_of_the_spring",
+        "heroId": "holy_god_may",
         "star": 5,
         "power": 1077,
         "attack": 1071,
@@ -91868,7 +91869,6 @@ window.allHeroes =
             "Mana on Buff Received: This character gains 5% mana when they receive a buff or a positive stack."
         ],
         "family": 2025,
-        "image": "https://imgur.com/KK6zHLN.jpg",
         "costume_id": 0,
         "originalIndex": 1392,
         "lb1": {
@@ -91922,6 +91922,7 @@ window.allHeroes =
         "source": "Challenge - Secrets of the Opera",
         "Release date": "2024-03-21",
         "specialId": "deceptive_smalltalk",
+        "heroId": "ballerina_meg_giry",
         "star": 5,
         "power": 1079,
         "attack": 988,
@@ -91938,7 +91939,6 @@ window.allHeroes =
             "Heal when status ailment expires or is cleared: This character receives 10% health each time a status ailment expires or is cleansed, removed or reallocated from them. This effect can activate only once per turn."
         ],
         "family": "opera",
-        "image": "https://i.imgur.com/GJH1yAl.jpg",
         "costume_id": 0,
         "originalIndex": 1393,
         "lb1": {
@@ -91996,6 +91996,7 @@ window.allHeroes =
         "source": "Astral Summon",
         "Release date": "2024-09-16",
         "specialId": "moonlight_crescendo",
+        "heroId": "astral_melodymuse",
         "star": 5,
         "power": 1099,
         "attack": 1052,
@@ -92010,14 +92011,13 @@ window.allHeroes =
             "Share Received Damage: 20% of damage received by this charater is shared with other allies."
         ],
         "family": "astralelves",
-        "image": "https://i.imgur.com/PSc9HJP.jpg",
         "costume_id": 0,
         "originalIndex": 1394,
         "lb1": {
             "power": 1175,
             "attack": 1134,
             "defense": 1245,
-            "health": 2182
+            "health": 2179
         },
         "lb2": {
             "power": 1327,
@@ -92059,6 +92059,7 @@ window.allHeroes =
         "source": "S5 - Dune",
         "Release date": "2023-04-13",
         "specialId": "impossible_riddle",
+        "heroId": "s5_meresankh",
         "star": 5,
         "power": 871,
         "attack": 772,
@@ -92076,7 +92077,6 @@ window.allHeroes =
             " * All enemies receive 231 Sand damage over 3 turns."
         ],
         "family": "sun",
-        "image": "https://i.imgur.com/PIgKmeD.jpg",
         "costume_id": 0,
         "originalIndex": 1395,
         "lb1": {
@@ -92131,6 +92131,7 @@ window.allHeroes =
         "source": "S5 - Dune",
         "Release date": "2024-06-24",
         "specialId": "impossible_riddle",
+        "heroId": "s5_meresankh_costume_disco",
         "star": 5,
         "power": 1219,
         "attack": 1194,
@@ -92150,7 +92151,6 @@ window.allHeroes =
             "Increased Special Skill Damage: The first time this character casts a Special Skill that deals damage an additional 50% is added to its power."
         ],
         "family": "sun",
-        "image": "https://i.imgur.com/4IURwj4.jpg",
         "costume_id": 1,
         "originalIndex": 1396,
         "lb1": {
@@ -92163,7 +92163,7 @@ window.allHeroes =
             "power": 1473,
             "attack": 1471,
             "defense": 1497,
-            "health": 2961
+            "health": 2964
         },
         "cn_skill_info": [
             {
@@ -92206,6 +92206,7 @@ window.allHeroes =
         "source": "Tower - Ninjas",
         "Release date": "2020-10-13",
         "specialId": "connect_ki",
+        "heroId": "ninja_mica",
         "star": 5,
         "power": 798,
         "attack": 716,
@@ -92227,7 +92228,6 @@ window.allHeroes =
         ],
         "passives": [],
         "family": "ninja",
-        "image": "https://i.imgur.com/T4WxYxG.jpg",
         "costume_id": 0,
         "originalIndex": 1397,
         "lb1": {
@@ -92274,6 +92274,7 @@ window.allHeroes =
         "source": "Astral Summon",
         "Release date": "2024-07-10",
         "specialId": "astral_summon",
+        "heroId": "astral_moonbell",
         "star": 5,
         "power": 1085,
         "attack": 1032,
@@ -92290,7 +92291,6 @@ window.allHeroes =
             "Share Received Damage: 20% of damage received by this charater is shared with other allies."
         ],
         "family": "astralelves",
-        "image": "https://i.imgur.com/EiBBCez.jpg",
         "costume_id": 0,
         "originalIndex": 1398,
         "lb1": {
@@ -92345,6 +92345,7 @@ window.allHeroes =
         "source": "Tower - Magic",
         "Release date": "2021-09-15",
         "specialId": "butterfly_swarm",
+        "heroId": "magic_motega",
         "star": 5,
         "power": 813,
         "attack": 756,
@@ -92365,7 +92366,6 @@ window.allHeroes =
             "Health recovery on Special: When this character casts their Special Skill, they have a 50% chance to recover 15% health for all allies. If the Special Skill is fully charged, the chance is 100%.'"
         ],
         "family": "magic",
-        "image": "https://i.imgur.com/87toXMW.jpg",
         "costume_id": 0,
         "originalIndex": 1399,
         "lb1": {
@@ -92417,6 +92417,7 @@ window.allHeroes =
         "source": "Monthly Event - Kalevala",
         "Release date": "2025-07-28",
         "specialId": "mending_stitches",
+        "heroId": "kalevala_mother_lemminkainen",
         "star": 5,
         "power": 1224,
         "attack": 1277,
@@ -92431,7 +92432,6 @@ window.allHeroes =
             "Power of Sisu: When this character starts a turn with low health for the first time during a battle, they recover 15% health and receive 15% mana."
         ],
         "family": "kalevala",
-        "image": "https://imgur.com/Bez27Eg.jpg",
         "costume_id": 0,
         "originalIndex": 1400,
         "lb1": {
@@ -92482,6 +92482,7 @@ window.allHeroes =
         "source": "Legends Summon - Hero of the Month",
         "Release date": "2017-09-01",
         "specialId": "dragon_fang",
+        "heroId": "holy_god_musashi",
         "star": 5,
         "power": 764,
         "attack": 786,
@@ -92494,7 +92495,6 @@ window.allHeroes =
         ],
         "passives": [],
         "family": 2017,
-        "image": "https://i.imgur.com/1PxVmlq.jpg",
         "costume_id": 0,
         "originalIndex": 1401,
         "lb1": {
@@ -92544,6 +92544,7 @@ window.allHeroes =
         "source": "Legends Summon - Hero of the Month",
         "Release date": "2023-10-02",
         "specialId": "dragon_fang",
+        "heroId": "holy_god_musashi_costume_prisoner",
         "star": 5,
         "power": 969,
         "attack": 988,
@@ -92558,7 +92559,6 @@ window.allHeroes =
             "Dispel on Special Skill: When this character casts their Special Skill, they dispel the newest status effect buff from all enemies."
         ],
         "family": 2017,
-        "image": "https://i.imgur.com/dt3i5jN.jpg",
         "costume_id": 1,
         "originalIndex": 1402,
         "lb1": {
@@ -92608,6 +92608,7 @@ window.allHeroes =
         "source": "Legends Summon - Hero of the Month",
         "Release date": "2019-11-01",
         "specialId": "sickle_of_eradication",
+        "heroId": "holy_god_neith",
         "star": 5,
         "power": 770,
         "attack": 735,
@@ -92623,7 +92624,6 @@ window.allHeroes =
             "Resist Mana Generation Stopping: This character has an innate resistance against status ailments that Stop Mana Generation."
         ],
         "family": 2019,
-        "image": "https://i.imgur.com/5p5UjK8.jpg",
         "costume_id": 0,
         "originalIndex": 1403,
         "lb1": {
@@ -92675,6 +92675,7 @@ window.allHeroes =
         "source": "Tower - Styx",
         "Release date": "2022-09-21",
         "specialId": "day_of_reckoning",
+        "heroId": "styx_nemesis",
         "star": 5,
         "power": 857,
         "attack": 877,
@@ -92698,7 +92699,6 @@ window.allHeroes =
             "Decreased Minion Health: Enemy Minions inherit -50% less Health when summoned."
         ],
         "family": "styx",
-        "image": "https://i.imgur.com/erwVVF0.jpg",
         "costume_id": 0,
         "originalIndex": 1404,
         "lb1": {
@@ -92753,6 +92753,7 @@ window.allHeroes =
         "source": "Challenge - Beowulf",
         "Release date": "2025-05-18",
         "specialId": "rush_of_flame",
+        "heroId": "beowulf_nithgaest",
         "star": 5,
         "power": 1201,
         "attack": 1295,
@@ -92769,7 +92770,6 @@ window.allHeroes =
             "Stacking Attack On Damage Received: When this character receives damage from Special Skills, they gain +30% attack Stack (Max: 10). One Stack can be gained per turn."
         ],
         "family": "beowulf",
-        "image": "https://imgur.com/25R91G2.jpg",
         "costume_id": 0,
         "originalIndex": 1405,
         "lb1": {
@@ -92820,6 +92820,7 @@ window.allHeroes =
         "source": "S3 - Valhalla",
         "Release date": "2020-03-26",
         "specialId": "twist_of_fate",
+        "heroId": "s3_norns",
         "star": 5,
         "power": 787,
         "attack": 770,
@@ -92831,7 +92832,6 @@ window.allHeroes =
         ],
         "passives": [],
         "family": "vanaheim",
-        "image": "https://i.imgur.com/evikfGP.jpg",
         "costume_id": 0,
         "originalIndex": 1406,
         "lb1": {
@@ -92876,6 +92876,7 @@ window.allHeroes =
         "source": "S3 - Valhalla",
         "Release date": "2023-08-28",
         "specialId": "twist_of_fate",
+        "heroId": "s3_norns_costume_puppeteers",
         "star": 5,
         "power": 986,
         "attack": 1062,
@@ -92887,14 +92888,13 @@ window.allHeroes =
         ],
         "passives": [],
         "family": "vanaheim",
-        "image": "https://i.imgur.com/aH5vllh.jpg",
         "costume_id": 1,
         "originalIndex": 1407,
         "lb1": {
-            "power": 1053,
+            "power": 1052,
             "attack": 1144,
             "defense": 990,
-            "health": 1791
+            "health": 1788
         },
         "lb2": {
             "power": 1187,
@@ -92935,6 +92935,7 @@ window.allHeroes =
         "source": "S3 - Valhalla",
         "Release date": "2020-11-26",
         "specialId": "fury_of_grimnir",
+        "heroId": "s3_odin",
         "star": 5,
         "power": 788,
         "attack": 762,
@@ -92947,7 +92948,6 @@ window.allHeroes =
         ],
         "passives": [],
         "family": "midgard",
-        "image": "https://i.imgur.com/WpdZnYI.jpg",
         "costume_id": 0,
         "originalIndex": 1408,
         "lb1": {
@@ -93000,6 +93000,7 @@ window.allHeroes =
         "source": "S3 - Valhalla",
         "Release date": "2023-03-13",
         "specialId": "fury_of_grimnir",
+        "heroId": "s3_odin_costume_champion",
         "star": 5,
         "power": 986,
         "attack": 956,
@@ -93012,7 +93013,6 @@ window.allHeroes =
         ],
         "passives": [],
         "family": "midgard",
-        "image": "https://i.imgur.com/guLxDJt.jpg",
         "costume_id": 1,
         "originalIndex": 1409,
         "lb1": {
@@ -93067,6 +93067,7 @@ window.allHeroes =
         "source": "Challenge Festival II",
         "Release date": "2022-12-01",
         "specialId": "rhythm_of_havoc",
+        "heroId": "bard_ogima",
         "star": 5,
         "power": 837,
         "attack": 834,
@@ -93082,7 +93083,6 @@ window.allHeroes =
             "Mana increase reduction: Reduces the amount of mana increased by Special Skill by -80%. The effect applies to all enemies in the battle."
         ],
         "family": "bard",
-        "image": "https://i.imgur.com/8WZ5oVt.jpg",
         "costume_id": 0,
         "originalIndex": 1410,
         "lb1": {
@@ -93137,6 +93137,7 @@ window.allHeroes =
         "source": "Legends Summon - Hero of the Month",
         "Release date": "2019-01-01",
         "specialId": "mana_stealer",
+        "heroId": "holy_god_onatel",
         "star": 5,
         "power": 770,
         "attack": 618,
@@ -93151,7 +93152,6 @@ window.allHeroes =
             "Resist Blind: This character has an innate ability to resist status ailments that affect Accuracy. Doesn't apply to status effects from allies."
         ],
         "family": 2019,
-        "image": "https://i.imgur.com/wCLflfr.jpg",
         "costume_id": 0,
         "originalIndex": 1411,
         "lb1": {
@@ -93199,6 +93199,7 @@ window.allHeroes =
         "source": "S5 - Dune",
         "Release date": "2022-04-21",
         "specialId": "summon_sand_golems",
+        "heroId": "s5_papyros",
         "star": 5,
         "power": 858,
         "attack": 813,
@@ -93214,7 +93215,6 @@ window.allHeroes =
             " * All allies gain a small amount of mana."
         ],
         "family": "moon",
-        "image": "https://i.imgur.com/cV84mq0.jpg",
         "costume_id": 0,
         "originalIndex": 1412,
         "lb1": {
@@ -93274,6 +93274,7 @@ window.allHeroes =
         "source": "S5 - Dune",
         "Release date": "2024-10-05",
         "specialId": "summon_sand_golems",
+        "heroId": "s5_papyros_costume_colossus",
         "star": 5,
         "power": 1200,
         "attack": 1133,
@@ -93292,7 +93293,6 @@ window.allHeroes =
             "Resist Mana Generation Stopping: This character has an innate resistance against status ailments that affect stop mana generation."
         ],
         "family": "moon",
-        "image": "https://i.imgur.com/jWPUwhw.jpg",
         "costume_id": 1,
         "originalIndex": 1413,
         "lb1": {
@@ -93352,6 +93352,7 @@ window.allHeroes =
         "source": "Challenge - Gargoyle",
         "Release date": "2021-11-24",
         "specialId": "radiant_rapid_fire",
+        "heroId": "gargoyle_penolite",
         "star": 5,
         "power": 841,
         "attack": 832,
@@ -93366,7 +93367,6 @@ window.allHeroes =
             "Gargoyle’s Stoneskin: Every time this Gargoyle casts a Special Skill, their Stoneskin hardens. The next 4 times they receive damage, it is dropped to 1. This effect can’t be dispelled."
         ],
         "family": "gargoyle",
-        "image": "https://i.imgur.com/ifFiCU7.jpg",
         "costume_id": 0,
         "originalIndex": 1414,
         "lb1": {
@@ -93423,6 +93423,7 @@ window.allHeroes =
         "source": "S6 - Mysteries of the Deep",
         "Release date": "2023-10-25",
         "specialId": "oceans_ruin",
+        "heroId": "tales1_persa",
         "star": 5,
         "power": 964,
         "attack": 978,
@@ -93446,7 +93447,6 @@ window.allHeroes =
             " * The caster get +19% mana generation for 2 turns."
         ],
         "family": "nightmaresofatlantis",
-        "image": "https://i.imgur.com/XWgWbVt.jpg",
         "costume_id": 0,
         "originalIndex": 1415,
         "lb1": {
@@ -93505,6 +93505,7 @@ window.allHeroes =
         "source": "S6 - Mysteries of the Deep",
         "Release date": "2025-01-09",
         "specialId": "oceans_ruin",
+        "heroId": "tales1_persa_costume_jellyfish_noble",
         "star": 5,
         "power": 1200,
         "attack": 1264,
@@ -93529,14 +93530,13 @@ window.allHeroes =
             "Resist Insanity: This character has innate resistance against Insanity."
         ],
         "family": "nightmaresofatlantis",
-        "image": "https://i.imgur.com/nKfadia.jpg",
         "costume_id": 1,
         "originalIndex": 1416,
         "lb1": {
             "power": 1283,
             "attack": 1363,
             "defense": 1400,
-            "health": 2071
+            "health": 2068
         },
         "lb2": {
             "power": 1451,
@@ -93588,6 +93588,7 @@ window.allHeroes =
         "source": "Tower - Owls",
         "Release date": "2025-02-05",
         "specialId": "vengeance_of_owlhalla",
+        "heroId": "owl_pertinax",
         "star": 5,
         "power": 1159,
         "attack": 1161,
@@ -93604,7 +93605,6 @@ window.allHeroes =
             "Reduce Mana Gain from Special Skills: Reduces the amount of mana increased by Special Skill by -80%. The effect applies to all enemies in the battle."
         ],
         "family": "owl",
-        "image": "https://i.imgur.com/LyzgS9S.jpg",
         "costume_id": 0,
         "originalIndex": 1417,
         "lb1": {
@@ -93661,6 +93661,7 @@ window.allHeroes =
         "source": "Wilderness Summon",
         "Release date": "2025-04-18",
         "specialId": "enchanting_melody",
+        "heroId": "faun_philomena",
         "star": 5,
         "power": 1174,
         "attack": 1254,
@@ -93677,7 +93678,6 @@ window.allHeroes =
             "Resist Attack Reduction: This character has innate resistance against status ailments, stacks and Wither effects that affect attack."
         ],
         "family": "woodlandfaun",
-        "image": "https://imgur.com/zZJxSMo.jpg",
         "costume_id": 0,
         "originalIndex": 1418,
         "lb1": {
@@ -93731,6 +93731,7 @@ window.allHeroes =
         "source": "S2 - Atlantis",
         "Release date": "2019-02-19",
         "specialId": "ruler_of_seas",
+        "heroId": "s2_poseidon",
         "star": 5,
         "power": 775,
         "attack": 745,
@@ -93743,7 +93744,6 @@ window.allHeroes =
         ],
         "passives": [],
         "family": "atlantis",
-        "image": "https://i.imgur.com/4yAjxl7.jpg",
         "costume_id": 0,
         "originalIndex": 1419,
         "lb1": {
@@ -93790,6 +93790,7 @@ window.allHeroes =
         "source": "S2 - Atlantis",
         "Release date": "2021-11-15",
         "specialId": "ruler_of_seas",
+        "heroId": "s2_poseidon_costume_slayer",
         "star": 5,
         "power": 947,
         "attack": 918,
@@ -93801,7 +93802,6 @@ window.allHeroes =
         ],
         "passives": [],
         "family": "atlantis",
-        "image": "https://i.imgur.com/jU6Z8JO.jpg",
         "costume_id": 1,
         "originalIndex": 1420,
         "lb1": {
@@ -93850,6 +93850,7 @@ window.allHeroes =
         "source": "S4 - Wilderness",
         "Release date": "2021-03-25",
         "specialId": "glorious_grace",
+        "heroId": "s4_professor_lidenbrock",
         "star": 5,
         "power": 806,
         "attack": 745,
@@ -93864,7 +93865,6 @@ window.allHeroes =
             "Start Battle with Mana: This character receives 20% mana at the start of the battle."
         ],
         "family": "underwild",
-        "image": "https://i.imgur.com/1q7ZFV3.jpg",
         "costume_id": 0,
         "originalIndex": 1421,
         "lb1": {
@@ -93914,6 +93914,7 @@ window.allHeroes =
         "source": "S4 - Wilderness",
         "Release date": "2023-04-27",
         "specialId": "glorious_grace",
+        "heroId": "s4_professor_lidenbrock_costume_jeweler",
         "star": 5,
         "power": 1020,
         "attack": 963,
@@ -93929,7 +93930,6 @@ window.allHeroes =
             "Health Boost on Special Skill: On Special Skill cast, boosts all allies’ HP by 10%."
         ],
         "family": "underwild",
-        "image": "https://i.imgur.com/CwQ3ejX.jpg",
         "costume_id": 1,
         "originalIndex": 1422,
         "lb1": {
@@ -93976,6 +93976,7 @@ window.allHeroes =
         "source": "Three Kingdoms Summon",
         "Release date": "2023-02-27",
         "specialId": "the_queens_radiance",
+        "heroId": "journey_queen_guowang",
         "star": 5,
         "power": 862,
         "attack": 797,
@@ -93988,7 +93989,6 @@ window.allHeroes =
         ],
         "passives": [],
         "family": "journey",
-        "image": "https://i.imgur.com/CNKl3X2.jpg",
         "costume_id": 0,
         "originalIndex": 1423,
         "lb1": {
@@ -94045,6 +94045,7 @@ window.allHeroes =
         "source": "Monthly Event - Sand Empire",
         "Release date": "2018-06-21",
         "specialId": "queens_curse",
+        "heroId": "sand_queen",
         "star": 5,
         "power": 772,
         "attack": 735,
@@ -94058,7 +94059,6 @@ window.allHeroes =
         ],
         "passives": [],
         "family": "sand",
-        "image": "https://i.imgur.com/XCRwmmP.jpg",
         "costume_id": 0,
         "originalIndex": 1424,
         "lb1": {
@@ -94112,6 +94112,7 @@ window.allHeroes =
         "source": "Monthly Event - Sand Empire",
         "Release date": "2021-06-21",
         "specialId": "queens_curse",
+        "heroId": "sand_queen_costume_surfer",
         "star": 5,
         "power": 944,
         "attack": 931,
@@ -94125,7 +94126,6 @@ window.allHeroes =
         ],
         "passives": [],
         "family": "sand",
-        "image": "https://i.imgur.com/ETB8w9H.jpg",
         "costume_id": 1,
         "originalIndex": 1425,
         "lb1": {
@@ -94177,6 +94177,7 @@ window.allHeroes =
         "source": "Legends Summon - Hero of the Month",
         "Release date": "2019-06-01",
         "specialId": "mystics_virtue",
+        "heroId": "holy_god_ranvir",
         "star": 5,
         "power": 770,
         "attack": 768,
@@ -94191,7 +94192,6 @@ window.allHeroes =
             "Resist Poison: This character has an innate resistance against Poison."
         ],
         "family": 2019,
-        "image": "https://i.imgur.com/pCzfhdF.jpg",
         "costume_id": 0,
         "originalIndex": 1426,
         "lb1": {
@@ -94249,6 +94249,7 @@ window.allHeroes =
         "source": "Challenge Festival II",
         "Release date": "2022-08-11",
         "specialId": "hymn_of_enrichment",
+        "heroId": "bard_rhys",
         "star": 5,
         "power": 849,
         "attack": 844,
@@ -94264,7 +94265,6 @@ window.allHeroes =
             "Mana increase reduction: Reduces the amount of mana increased by Special Skill by -80%. The effect applies to all enemies in the battle."
         ],
         "family": "bard",
-        "image": "https://i.imgur.com/CuNew0r.jpg",
         "costume_id": 0,
         "originalIndex": 1427,
         "lb1": {
@@ -94323,6 +94323,7 @@ window.allHeroes =
         "source": "Monthly Event - Sand Empire",
         "Release date": "2020-06-29",
         "specialId": "sand_cyclone",
+        "heroId": "sand_roc",
         "star": 5,
         "power": 789,
         "attack": 762,
@@ -94335,7 +94336,6 @@ window.allHeroes =
         ],
         "passives": [],
         "family": "sand",
-        "image": "https://i.imgur.com/jRrOk7n.jpg",
         "costume_id": 0,
         "originalIndex": 1428,
         "lb1": {
@@ -94386,6 +94386,7 @@ window.allHeroes =
         "source": "Monthly Event - Sand Empire",
         "Release date": "2022-05-16",
         "specialId": "sand_cyclone",
+        "heroId": "sand_roc_costume_juice",
         "star": 5,
         "power": 964,
         "attack": 950,
@@ -94398,7 +94399,6 @@ window.allHeroes =
         ],
         "passives": [],
         "family": "sand",
-        "image": "https://i.imgur.com/wRsoDQK.jpg",
         "costume_id": 1,
         "originalIndex": 1429,
         "lb1": {
@@ -94455,6 +94455,7 @@ window.allHeroes =
         "source": "Goblin Summon",
         "Release date": "2024-10-27",
         "specialId": "a_moment_of_joy",
+        "heroId": "garrison_rosalind",
         "star": 5,
         "power": 1110,
         "attack": 1083,
@@ -94471,7 +94472,6 @@ window.allHeroes =
             "Guard Rally: Every 4 turns, removes all Wither effects from all allies."
         ],
         "family": "garrisonguard",
-        "image": "https://i.imgur.com/founMKj.jpg",
         "costume_id": 0,
         "originalIndex": 1430,
         "lb1": {
@@ -94527,6 +94527,7 @@ window.allHeroes =
         "source": "Three Kingdoms Summon",
         "Release date": "2025-05-22",
         "specialId": "perilous_waters",
+        "heroId": "outlaw_ruan_xiaoqi",
         "star": 5,
         "power": 1203,
         "attack": 1248,
@@ -94547,7 +94548,6 @@ window.allHeroes =
             "Resist Bleed Damage: This character has innate resistance against Bleed.    "
         ],
         "family": "outlaws",
-        "image": "https://imgur.com/YX2qCp0.jpg",
         "costume_id": 0,
         "originalIndex": 1431,
         "lb1": {
@@ -94606,6 +94606,7 @@ window.allHeroes =
         "source": "Astral Summon",
         "Release date": "2024-12-22",
         "specialId": "doublebarreled_starstick",
+        "heroId": "astral_dwarf_salniss",
         "star": 5,
         "power": 1157,
         "attack": 1233,
@@ -94623,7 +94624,6 @@ window.allHeroes =
             "Perfect Accuracy: This character’s Special Skill never misses its targets."
         ],
         "family": "astraldwarfs",
-        "image": "https://i.imgur.com/iWjHJHA.jpg",
         "costume_id": 0,
         "originalIndex": 1432,
         "lb1": {
@@ -94678,6 +94678,7 @@ window.allHeroes =
         "source": "Alliance - Moths",
         "Release date": "2025-01-23",
         "specialId": "toxic_incense",
+        "heroId": "moth_satinpimenter",
         "star": 5,
         "power": 1178,
         "attack": 1242,
@@ -94693,7 +94694,6 @@ window.allHeroes =
             "Dodge Special Damage: This character has a 15% chance to dodge Special Skills that deal damage."
         ],
         "family": "moth",
-        "image": "https://i.imgur.com/S7h6aSM.jpg",
         "costume_id": 0,
         "originalIndex": 1433,
         "lb1": {
@@ -94754,6 +94754,7 @@ window.allHeroes =
         "source": "Goblin Summon",
         "Release date": "2024-04-15",
         "specialId": "boar_of_fury",
+        "heroId": "goblin_scrollbeast",
         "star": 5,
         "power": 1063,
         "attack": 1044,
@@ -94771,7 +94772,6 @@ window.allHeroes =
             " * All enemies get -25% accuracy for 3 turns."
         ],
         "family": "goblin",
-        "image": "https://i.imgur.com/oI9QMY8.jpg",
         "costume_id": 0,
         "originalIndex": 1434,
         "lb1": {
@@ -94832,6 +94832,7 @@ window.allHeroes =
         "source": "Covenant Summon",
         "Release date": "2023-12-08",
         "specialId": "reversed_lifeforce",
+        "heroId": "construct_shaal",
         "star": 5,
         "power": 979,
         "attack": 906,
@@ -94848,7 +94849,6 @@ window.allHeroes =
             "Repair Core: The Construct Core of this character is Repair Core. The Repair Core activates each time this character’s Special Skill is cast: * With fully charged Repair Core, boosts the health of all allies by 25%. * The healing is scaled by the amount of charge in the Core, All charge is  exchausted when the Core is activated."
         ],
         "family": "construct",
-        "image": "https://i.imgur.com/elVlVhm.jpg",
         "costume_id": 0,
         "originalIndex": 1435,
         "lb1": {
@@ -94902,6 +94902,7 @@ window.allHeroes =
         "source": "Goblin Summon",
         "Release date": "2024-04-15",
         "specialId": "rude_awakening",
+        "heroId": "garrison_shimmerscale",
         "star": 5,
         "power": 1054,
         "attack": 1054,
@@ -94917,7 +94918,6 @@ window.allHeroes =
             "Guard Rally: Every 4 turns, removes all Wither effects from all allies."
         ],
         "family": "garrisonguard",
-        "image": "https://i.imgur.com/5LBrUnk.jpg",
         "costume_id": 0,
         "originalIndex": 1436,
         "lb1": {
@@ -94972,6 +94972,7 @@ window.allHeroes =
         "source": "S3 - Valhalla",
         "Release date": "2020-02-27",
         "specialId": "gold_weaver",
+        "heroId": "s3_sif",
         "star": 5,
         "power": 788,
         "attack": 788,
@@ -94984,7 +94985,6 @@ window.allHeroes =
         ],
         "passives": [],
         "family": "midgard",
-        "image": "https://i.imgur.com/IEuL57g.jpg",
         "costume_id": 0,
         "originalIndex": 1437,
         "lb1": {
@@ -95031,6 +95031,7 @@ window.allHeroes =
         "source": "S3 - Valhalla",
         "Release date": "2022-08-29",
         "specialId": "gold_weaver",
+        "heroId": "s3_sif_costume_golden",
         "star": 5,
         "power": 987,
         "attack": 961,
@@ -95043,7 +95044,6 @@ window.allHeroes =
         ],
         "passives": [],
         "family": "midgard",
-        "image": "https://i.imgur.com/L0IBEq2.jpg",
         "costume_id": 1,
         "originalIndex": 1438,
         "lb1": {
@@ -95053,8 +95053,8 @@ window.allHeroes =
             "health": 1989
         },
         "lb2": {
-            "power": 1189,
-            "attack": 1186,
+            "power": 1188,
+            "attack": 1183,
             "defense": 1180,
             "health": 2276
         },
@@ -95090,6 +95090,7 @@ window.allHeroes =
         "source": "Covenant Summon",
         "Release date": "2025-01-11",
         "specialId": "greed_and_bribery",
+        "heroId": "fox_silverpaw",
         "star": 5,
         "power": 1155,
         "attack": 1238,
@@ -95104,7 +95105,6 @@ window.allHeroes =
             "Decreased Healing: All enemies get -50% healing."
         ],
         "family": "fox",
-        "image": "https://i.imgur.com/Cj9sBht.jpg",
         "costume_id": 0,
         "originalIndex": 1439,
         "lb1": {
@@ -95157,6 +95157,7 @@ window.allHeroes =
         "source": "Monthly Event - Springvale",
         "Release date": "2020-04-06",
         "specialId": "luminous_lance",
+        "heroId": "easter_sir_roostley",
         "star": 5,
         "power": 789,
         "attack": 778,
@@ -95169,7 +95170,6 @@ window.allHeroes =
         ],
         "passives": [],
         "family": "springvale",
-        "image": "https://i.imgur.com/YbdZndT.jpg",
         "costume_id": 0,
         "originalIndex": 1440,
         "lb1": {
@@ -95217,6 +95217,7 @@ window.allHeroes =
         "source": "Super Elementals",
         "Release date": "2024-09-04",
         "specialId": "dance_of_the_slimy",
+        "heroId": "slime_sludgus",
         "star": 5,
         "power": 1098,
         "attack": 1122,
@@ -95234,14 +95235,13 @@ window.allHeroes =
             "Slime Minion Split: If this character loses more than 25% of max health at once, they summon a Slime Mega Minion for themselves with 50% HP and 40% attack."
         ],
         "family": "slime",
-        "image": "https://i.imgur.com/IpdLyXH.jpg",
         "costume_id": 0,
         "originalIndex": 1441,
         "lb1": {
-            "power": 1174,
+            "power": 1173,
             "attack": 1209,
             "defense": 1165,
-            "health": 2142
+            "health": 2139
         },
         "lb2": {
             "power": 1325,
@@ -95289,6 +95289,7 @@ window.allHeroes =
         "source": "Three Kingdoms Summon",
         "Release date": "2024-04-02",
         "specialId": "golden_cicada",
+        "heroId": "journey_tang_sanzang",
         "star": 5,
         "power": 1025,
         "attack": 1011,
@@ -95304,7 +95305,6 @@ window.allHeroes =
             "Health Recovery on Buff Received: This character has a 50% chance to recover 10% health when they receive a buff or possitive stack."
         ],
         "family": "kingdom",
-        "image": "https://i.imgur.com/y2EYio1.jpg",
         "costume_id": 0,
         "originalIndex": 1442,
         "lb1": {
@@ -95357,6 +95357,7 @@ window.allHeroes =
         "source": "S3 - Valhalla",
         "Release date": "2021-01-28",
         "specialId": "power_of_mjolnir",
+        "heroId": "s3_thor",
         "star": 5,
         "power": 788,
         "attack": 749,
@@ -95376,7 +95377,6 @@ window.allHeroes =
         ],
         "passives": [],
         "family": "midgard",
-        "image": "https://i.imgur.com/Cls9o26.jpg",
         "costume_id": 0,
         "originalIndex": 1443,
         "lb1": {
@@ -95423,6 +95423,7 @@ window.allHeroes =
         "source": "S3 - Valhalla",
         "Release date": "2022-12-19",
         "specialId": "power_of_mjolnir",
+        "heroId": "s3_thor_costume_conduit",
         "star": 5,
         "power": 986,
         "attack": 935,
@@ -95442,7 +95443,6 @@ window.allHeroes =
         ],
         "passives": [],
         "family": "midgard",
-        "image": "https://i.imgur.com/LYyDsUh.jpg",
         "costume_id": 1,
         "originalIndex": 1444,
         "lb1": {
@@ -95493,6 +95493,7 @@ window.allHeroes =
         "source": "Monster Island Summon",
         "Release date": "2023-05-06",
         "specialId": "warcry_of_the_jungle",
+        "heroId": "monster_hunter_thunderclap",
         "star": 5,
         "power": 896,
         "attack": 861,
@@ -95509,14 +95510,13 @@ window.allHeroes =
             "Hunter's vigor: When this character casts their Special Skill, they get +20% attack for 3 turns. This effect can be active in addition to other effects that alter attack."
         ],
         "family": "junglehunter",
-        "image": "https://i.imgur.com/8fPiMj3.jpg",
         "costume_id": 0,
         "originalIndex": 1445,
         "lb1": {
             "power": 955,
             "attack": 927,
             "defense": 941,
-            "health": 1736
+            "health": 1733
         },
         "lb2": {
             "power": 1075,
@@ -95566,6 +95566,7 @@ window.allHeroes =
         "source": "Monster Island Summon",
         "Release date": "2024-05-23",
         "specialId": "guiding_arrow",
+        "heroId": "monster_hunter_thura",
         "star": 5,
         "power": 1122,
         "attack": 1168,
@@ -95582,7 +95583,6 @@ window.allHeroes =
             "Damage over time on Special: When this character casts their Special Skill, they give a Hunter’s Mark on a random enemy. The target receives 150 damage over 3 turns. If a target already has this effect, the duration will be refreshed and the damage will be increased by 150, up to 1500 damage in total."
         ],
         "family": "plainshunter",
-        "image": "https://i.imgur.com/3kaZWy1.jpg",
         "costume_id": 0,
         "originalIndex": 1446,
         "lb1": {
@@ -95632,6 +95632,7 @@ window.allHeroes =
         "source": "Tower - Ninjas",
         "Release date": "2022-02-02",
         "specialId": "lethal_needles",
+        "heroId": "ninja_topaz",
         "star": 5,
         "power": 818,
         "attack": 821,
@@ -95654,7 +95655,6 @@ window.allHeroes =
         ],
         "passives": [],
         "family": "ninja",
-        "image": "https://i.imgur.com/yKvm70P.jpg",
         "costume_id": 0,
         "originalIndex": 1447,
         "lb1": {
@@ -95711,6 +95711,7 @@ window.allHeroes =
         "source": "Legends Summon - Hero of the Month",
         "Release date": "2021-02-01",
         "specialId": "strike_of_the_cobra",
+        "heroId": "holy_god_uraeus",
         "star": 5,
         "power": 786,
         "attack": 778,
@@ -95727,7 +95728,6 @@ window.allHeroes =
             "Health from Dead Minion: This character recovers 50 health when a Minion owned by them is destroyed."
         ],
         "family": 2021,
-        "image": "https://i.imgur.com/1T6P7Be.jpg",
         "costume_id": 0,
         "originalIndex": 1448,
         "lb1": {
@@ -95788,6 +95788,7 @@ window.allHeroes =
         "source": "Tower - Magic",
         "Release date": "2023-11-15",
         "specialId": "pawns_of_divinity",
+        "heroId": "magic_vaishali",
         "star": 5,
         "power": 956,
         "attack": 939,
@@ -95809,7 +95810,6 @@ window.allHeroes =
             "Mana on Special: When this character casts their Special Skill, they have a 50% chance to give 10% mana to all allies. If the Special Skill is fully changed, the chance is 100%."
         ],
         "family": "magic",
-        "image": "https://i.imgur.com/Ssu3ay2.jpg",
         "costume_id": 0,
         "originalIndex": 1449,
         "lb1": {
@@ -95867,6 +95867,7 @@ window.allHeroes =
         "source": "S1 - Classic",
         "Release date": "2017-03-01",
         "specialId": "omniheal",
+        "heroId": "oriental_female_mystic",
         "star": 5,
         "power": 755,
         "attack": 714,
@@ -95879,7 +95880,6 @@ window.allHeroes =
         ],
         "passives": [],
         "family": "classic",
-        "image": "https://i.imgur.com/aHsNbej.jpg",
         "costume_id": 0,
         "originalIndex": 1450,
         "lb1": {
@@ -95933,6 +95933,7 @@ window.allHeroes =
         "source": "Costume Quest",
         "Release date": "2020-01-01",
         "specialId": "omniheal",
+        "heroId": "oriental_female_mystic_costume_magician",
         "star": 5,
         "power": 850,
         "attack": 797,
@@ -95945,7 +95946,6 @@ window.allHeroes =
         ],
         "passives": [],
         "family": "classic",
-        "image": "https://i.imgur.com/pm7wcbP.jpg",
         "costume_id": 1,
         "originalIndex": 1451,
         "lb1": {
@@ -95999,6 +95999,7 @@ window.allHeroes =
         "source": "Costume Quest",
         "Release date": "2022-09-05",
         "specialId": "omniheal",
+        "heroId": "oriental_female_mystic_costume_scribe",
         "star": 5,
         "power": 966,
         "attack": 897,
@@ -96011,14 +96012,13 @@ window.allHeroes =
         ],
         "passives": [],
         "family": "classic",
-        "image": "https://i.imgur.com/J8lGs8A.jpg",
         "costume_id": 2,
         "originalIndex": 1452,
         "lb1": {
             "power": 1031,
             "attack": 967,
             "defense": 976,
-            "health": 2109
+            "health": 2106
         },
         "lb2": {
             "power": 1162,
@@ -96065,6 +96065,7 @@ window.allHeroes =
         "source": "Costume Quest",
         "Release date": "2023-10-30",
         "specialId": "omniheal",
+        "heroId": "oriental_female_mystic_costume_cute",
         "star": 5,
         "power": 1132,
         "attack": 1100,
@@ -96079,7 +96080,6 @@ window.allHeroes =
             "Toon: 75% extra chance to resist all status ailments, mana reductions and buff dispels."
         ],
         "family": "classic",
-        "image": "https://i.imgur.com/zJxvLuN.jpg",
         "costume_id": 3,
         "originalIndex": 1453,
         "lb1": {
@@ -96135,6 +96135,7 @@ window.allHeroes =
         "source": "Costume Quest",
         "Release date": "2024-12-25",
         "specialId": "omniheal",
+        "heroId": "oriental_female_mystic_costume_glass",
         "star": 5,
         "power": 1238,
         "attack": 1239,
@@ -96150,7 +96151,6 @@ window.allHeroes =
             "Glass: 60% extra chance to reflect status ailments back to the attacker."
         ],
         "family": "classic",
-        "image": "https://i.imgur.com/Vcxpsu2.jpg",
         "costume_id": 4,
         "originalIndex": 1454,
         "lb1": {
@@ -96204,6 +96204,7 @@ window.allHeroes =
         "source": "Monthly Event - Morlovia",
         "Release date": "2024-09-23",
         "specialId": "blood_illusion",
+        "heroId": "halloween_wayne",
         "star": 5,
         "power": 1054,
         "attack": 1184,
@@ -96217,7 +96218,6 @@ window.allHeroes =
             "Steal Buff: When this character casts their Special Skill, they have a 50% chance to steal the newest dispellable buff from a random enemy that has buffs. If no enemy has buffs, deals 70% damage to all enemies."
         ],
         "family": "morlovia",
-        "image": "https://i.imgur.com/ogAtunM.jpg",
         "costume_id": 0,
         "originalIndex": 1455,
         "lb1": {
@@ -96274,6 +96274,7 @@ window.allHeroes =
         "source": "Challenge - Beowulf",
         "Release date": "2024-11-25",
         "specialId": "cup_of_mead",
+        "heroId": "beowulf_wealhtheow",
         "star": 5,
         "power": 1182,
         "attack": 1112,
@@ -96293,7 +96294,6 @@ window.allHeroes =
             "Resist Buff Immunity: This character has innate resistance against ailments that give immunity to new buffs."
         ],
         "family": "beowulf",
-        "image": "https://i.imgur.com/yG43ChX.jpg",
         "costume_id": 0,
         "originalIndex": 1456,
         "lb1": {
@@ -96347,6 +96347,7 @@ window.allHeroes =
         "source": "Challenge Festival I",
         "Release date": "2019-02-14",
         "specialId": "rabbits_watch",
+        "heroId": "wonderland_white_rabbit",
         "star": 5,
         "power": 779,
         "attack": 731,
@@ -96358,7 +96359,6 @@ window.allHeroes =
         ],
         "passives": [],
         "family": "wonderland",
-        "image": "https://i.imgur.com/00qNGOk.jpg",
         "costume_id": 0,
         "originalIndex": 1457,
         "lb1": {
@@ -96405,6 +96405,7 @@ window.allHeroes =
         "source": "Challenge Festival I",
         "Release date": "2022-02-17",
         "specialId": "rabbits_watch",
+        "heroId": "wonderland_white_rabbit_costume_mask",
         "star": 5,
         "power": 977,
         "attack": 941,
@@ -96418,7 +96419,6 @@ window.allHeroes =
             "Mindless Attack On Special Skill: On Special Skill cast, 50% chance to inflict Mindless Attack on a random enemy for 3 turns."
         ],
         "family": "wonderland",
-        "image": "https://i.imgur.com/qj3SAsZ.jpg",
         "costume_id": 1,
         "originalIndex": 1458,
         "lb1": {
@@ -96473,6 +96473,7 @@ window.allHeroes =
         "source": "Tower - Magic",
         "Release date": "2023-05-03",
         "specialId": "levitating_lunchbox_deluxe",
+        "heroId": "magic_willow",
         "star": 5,
         "power": 891,
         "attack": 832,
@@ -96494,7 +96495,6 @@ window.allHeroes =
             "Stack on Special: When this character casts their Special Skill, all enemies get -5% mana generation stack. If the Special Skill is fully charged, all enemies get two stacks. An enemy can have up to 10 stacks."
         ],
         "family": "magic",
-        "image": "https://i.imgur.com/Njfyzmw.jpg",
         "costume_id": 0,
         "originalIndex": 1459,
         "lb1": {
@@ -96556,6 +96556,7 @@ window.allHeroes =
         "source": "Alliance - Knights Clash",
         "Release date": "2024-01-10",
         "specialId": "ursine_protection",
+        "heroId": "castle_bear_winnie",
         "star": 5,
         "power": 1027,
         "attack": 962,
@@ -96572,7 +96573,6 @@ window.allHeroes =
             "Health Recovery on Buff Received: This character recovers 5% health when they receive a buff or a positive stack."
         ],
         "family": "stag",
-        "image": "https://i.imgur.com/Dx6MykQ.jpg",
         "costume_id": 0,
         "originalIndex": 1460,
         "lb1": {
@@ -96628,6 +96628,7 @@ window.allHeroes =
         "source": "Alliance - Knights Clash",
         "Release date": "2021-10-13",
         "specialId": "commanders_gauntlet",
+        "heroId": "castle_wolf_wolfgang",
         "star": 5,
         "power": 816,
         "attack": 768,
@@ -96640,7 +96641,6 @@ window.allHeroes =
         ],
         "passives": [],
         "family": "wolf",
-        "image": "https://i.imgur.com/8Qu4qUF.jpg",
         "costume_id": 0,
         "originalIndex": 1461,
         "lb1": {
@@ -96692,6 +96692,7 @@ window.allHeroes =
         "source": "Alliance - Knights Clash",
         "Release date": "2024-12-17",
         "specialId": "commanders_gauntlet",
+        "heroId": "castle_wolf_wolfgang_costume_treasure",
         "star": 5,
         "power": 1148,
         "attack": 1133,
@@ -96708,13 +96709,12 @@ window.allHeroes =
             " * +2 turns: 25%"
         ],
         "family": "wolf",
-        "image": "https://i.imgur.com/2DLIDng.jpg",
         "costume_id": 1,
         "originalIndex": 1462,
         "lb1": {
-            "power": 1227,
+            "power": 1226,
             "attack": 1221,
-            "defense": 1258,
+            "defense": 1255,
             "health": 2308
         },
         "lb2": {
@@ -96760,6 +96760,7 @@ window.allHeroes =
         "source": "Mystery - Shadow Summon",
         "Release date": "2025-01-09",
         "specialId": "eldritch_sign_bolts",
+        "heroId": "shadow_wulfstan",
         "star": 5,
         "power": 1165,
         "attack": 1211,
@@ -96772,7 +96773,6 @@ window.allHeroes =
         ],
         "passives": [],
         "family": "cultist",
-        "image": "https://i.imgur.com/EHlubEr.jpg",
         "costume_id": 0,
         "originalIndex": 1463,
         "lb1": {
@@ -96827,6 +96827,7 @@ window.allHeroes =
         "source": "Super Elementals",
         "Release date": "2023-07-17",
         "specialId": "cascading_whirlwind",
+        "heroId": "elemental_xavier",
         "star": 5,
         "power": 940,
         "attack": 951,
@@ -96846,7 +96847,6 @@ window.allHeroes =
             " - Received elemental damage: -10%"
         ],
         "family": "superelemental",
-        "image": "https://i.imgur.com/DZtGVoI.jpg",
         "costume_id": 0,
         "originalIndex": 1464,
         "lb1": {
@@ -96894,6 +96894,7 @@ window.allHeroes =
         "source": "Super Elementals",
         "Release date": "2022-10-10",
         "specialId": "unwavering_devotion",
+        "heroId": "elemental_zandria",
         "star": 5,
         "power": 895,
         "attack": 815,
@@ -96913,7 +96914,6 @@ window.allHeroes =
             " - Received elemental damage: -10%"
         ],
         "family": "superelemental",
-        "image": "https://i.imgur.com/h5xLq71.jpg",
         "costume_id": 0,
         "originalIndex": 1465,
         "lb1": {
@@ -96965,6 +96965,7 @@ window.allHeroes =
         "source": "Tower - Magic",
         "Release date": "2025-05-29",
         "specialId": "soaring_blast",
+        "heroId": "magic_carpet_zazha",
         "star": 5,
         "power": 1210,
         "attack": 1297,
@@ -96983,7 +96984,6 @@ window.allHeroes =
             "Weaker Mega Minions: Enemy Mega Minions have -75% HP."
         ],
         "family": "magiccarpet",
-        "image": "https://imgur.com/da8x4gT.jpg",
         "costume_id": 0,
         "originalIndex": 1466,
         "lb1": {
@@ -97033,6 +97033,7 @@ window.allHeroes =
         "source": "S4 - Wilderness",
         "Release date": "2021-12-02",
         "specialId": "swift_stingers",
+        "heroId": "s4_zekena",
         "star": 5,
         "power": 812,
         "attack": 801,
@@ -97047,7 +97048,6 @@ window.allHeroes =
             "Increase Buff Duration: Duration of the first 3 buff this hero receives from Special Skills is increased by 1 turn."
         ],
         "family": "underwild",
-        "image": "https://i.imgur.com/hsqxizP.jpg",
         "costume_id": 0,
         "originalIndex": 1467,
         "lb1": {
@@ -97103,6 +97103,7 @@ window.allHeroes =
         "source": "S4 - Wilderness",
         "Release date": "2024-06-20",
         "specialId": "swift_stingers",
+        "heroId": "s4_zekena_costume_vines",
         "star": 5,
         "power": 1028,
         "attack": 1046,
@@ -97117,7 +97118,6 @@ window.allHeroes =
             "Increased Damage Against Boosted Health: After this character casts their Special Skill cast, all allies’ normal attacks and Special Skills deal +70% damage against targets with boosted health for 4 turns ."
         ],
         "family": "underwild",
-        "image": "https://i.imgur.com/KswtgYH.jpg",
         "costume_id": 1,
         "originalIndex": 1468,
         "lb1": {
@@ -97172,6 +97172,7 @@ window.allHeroes =
         "source": "Monthly Event - Beach Party",
         "Release date": "2024-06-03",
         "specialId": "ice_cream_smash",
+        "heroId": "beachparty_zenukwa",
         "star": 5,
         "power": 1016,
         "attack": 992,
@@ -97187,7 +97188,6 @@ window.allHeroes =
             "Resist Water Damage: This character has innate resistance against Water Damage."
         ],
         "family": "beachparty",
-        "image": "https://i.imgur.com/wpHKBfv.jpg",
         "costume_id": 0,
         "originalIndex": 1469,
         "lb1": {
@@ -97239,6 +97239,7 @@ window.allHeroes =
         "source": "Three Kingdoms Summon",
         "Release date": "2022-03-14",
         "specialId": "viper_blade",
+        "heroId": "kingdom_zhang_fei",
         "star": 5,
         "power": 835,
         "attack": 856,
@@ -97250,7 +97251,6 @@ window.allHeroes =
         ],
         "passives": [],
         "family": "kingdom",
-        "image": "https://i.imgur.com/stJf0Qg.jpg",
         "costume_id": 0,
         "originalIndex": 1470,
         "lb1": {
@@ -97299,6 +97299,7 @@ window.allHeroes =
         "source": "Three Kingdoms Summon",
         "Release date": "2024-10-29",
         "specialId": "viper_blade",
+        "heroId": "kingdom_zhang_fei_costume_bear_slayer",
         "star": 5,
         "power": 1104,
         "attack": 1194,
@@ -97316,18 +97317,17 @@ window.allHeroes =
             " * Minion attack and abilities can’t be disabled."
         ],
         "family": "kingdom",
-        "image": "https://i.imgur.com/LeENxWF.jpg",
         "costume_id": 1,
         "originalIndex": 1471,
         "lb1": {
             "power": 1180,
             "attack": 1287,
             "defense": 1071,
-            "health": 2182
+            "health": 2179
         },
         "lb2": {
-            "power": 1333,
-            "attack": 1474,
+            "power": 1332,
+            "attack": 1471,
             "defense": 1227,
             "health": 2496
         },
@@ -97371,6 +97371,7 @@ window.allHeroes =
         "source": "Three Kingdoms Summon",
         "Release date": "2022-03-14",
         "specialId": "martial_masterstroke",
+        "heroId": "kingdom_zhuge_liang",
         "star": 5,
         "power": 835,
         "attack": 710,
@@ -97384,7 +97385,6 @@ window.allHeroes =
         ],
         "passives": [],
         "family": "kingdom",
-        "image": "https://i.imgur.com/jjSBiGT.jpg",
         "costume_id": 0,
         "originalIndex": 1472,
         "lb1": {
@@ -97434,6 +97434,7 @@ window.allHeroes =
         "source": "Three Kingdoms Summon",
         "Release date": "2024-05-28",
         "specialId": "martial_masterstroke",
+        "heroId": "kingdom_zhuge_liang_costume_crane",
         "star": 5,
         "power": 1105,
         "attack": 950,
@@ -97452,7 +97453,6 @@ window.allHeroes =
             " * Minion attacks and abilities can’t be disabled."
         ],
         "family": "kingdom",
-        "image": "https://i.imgur.com/zdjoPv7.jpg",
         "costume_id": 1,
         "originalIndex": 1473,
         "lb1": {
@@ -97502,6 +97502,7 @@ window.allHeroes =
         "source": "Legends Summon - Hero of the Month",
         "Release date": "2024-01-01",
         "specialId": "dawnlight_rally",
+        "heroId": "holy_god_zora",
         "star": 5,
         "power": 953,
         "attack": 871,
@@ -97518,7 +97519,6 @@ window.allHeroes =
             "Mana on Status Ailment Received: This character gains 5% mana when they receive a status ailment or negative stack."
         ],
         "family": 2024,
-        "image": "https://i.imgur.com/wf4Kvkm.jpg",
         "costume_id": 0,
         "originalIndex": 1474,
         "lb1": {
@@ -97574,8 +97574,9 @@ window.allHeroes =
             "Bypassers"
         ],
         "source": "Extra Draw - Secret Summon",
-        "Release date": "",
-        "specialId": "",
+        "Release date": "2025-08-05",
+        "specialId": "gorging_chew_green",
+        "heroId": "mimic_ascension_item_green",
         "star": 5,
         "power": 1225,
         "attack": 1268,
@@ -97601,7 +97602,6 @@ window.allHeroes =
             " * Mysterious Tonic"
         ],
         "family": "mimic",
-        "image": "https://imgur.com/Green.jpg",
         "costume_id": 0,
         "originalIndex": 1475,
         "lb1": {
@@ -97663,7 +97663,8 @@ window.allHeroes =
         ],
         "source": "Extra Draw - Secret Summon",
         "Release date": "",
-        "specialId": "",
+        "specialId": "gorging_chew_yellow",
+        "heroId": "mimic_ascension_item_yellow",
         "star": 5,
         "power": 1225,
         "attack": 1268,
@@ -97689,7 +97690,6 @@ window.allHeroes =
             " * Poison Darts"
         ],
         "family": "mimic",
-        "image": "https://imgur.com/Yellow.jpg",
         "costume_id": 0,
         "originalIndex": 1476,
         "lb1": {
@@ -97751,7 +97751,8 @@ window.allHeroes =
         ],
         "source": "Extra Draw - Secret Summon",
         "Release date": "",
-        "specialId": "",
+        "specialId": "gorging_chew_purple",
+        "heroId": "mimic_ascension_item_purple",
         "star": 5,
         "power": 1225,
         "attack": 1268,
@@ -97777,7 +97778,6 @@ window.allHeroes =
             " * Royal Tabard"
         ],
         "family": "mimic",
-        "image": "https://imgur.com/Purple.jpg",
         "costume_id": 0,
         "originalIndex": 1477,
         "lb1": {

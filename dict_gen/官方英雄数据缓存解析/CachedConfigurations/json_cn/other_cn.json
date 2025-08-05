@@ -2627,6 +2627,12 @@
             "type": "CovenantQuest",
             "startTime": "2025-09-24 07:00:00",
             "endTime": "2025-09-27 07:00:00"
+          },
+          {
+            "id": "SecretSummonAscensionMimicGreen",
+            "type": "MysteryHero",
+            "startTime": "2025-08-05 07:00:00",
+            "endTime": "2025-08-06 07:00:00"
           }
         ],
         "challengeEventEntries": [
@@ -79580,5 +79586,5 @@
     "criticalOperationPendingDelaySeconds": 3,
     "allowedCriticalOperationPendingCount": 3
   },
-  "otherConfigId": 3075200959
+  "otherConfigId": 4191826321
 }

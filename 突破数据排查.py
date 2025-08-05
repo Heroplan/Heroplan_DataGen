@@ -1,20 +1,30 @@
 import json
-import math  # 引入math模块以使用向上取整
+import math  # 引入math模块以使用向下取整
 
 # 定义各星级的成长系数
 MULTIPLIERS = {
     3: {'base':1.736,'lb1': 1.1336, 'lb2': 1.2358},
     4: {'base':2.125,'lb1': 1.0866, 'lb2': 1.1595},
-    5: {'base':2.06,'lb1': 1.077, 'lb2': 1.144}
+    5: {'base':2.06,'lb1': 1.077, 'lb2': 1.145}
 }
 
 # 定义误差阈值
-ERROR_THRESHOLD = 10
-
+ERROR_THRESHOLD = 2
+def load_heroes_from_js(file_path):
+    """从JS文件中加载英雄数据"""
+    with open(file_path, 'r', encoding='utf-8') as f:
+        js_content = f.read()
+    
+    # 移除 window.allHeroes = 部分，只保留数组内容
+    start_idx = js_content.find('[')
+    end_idx = js_content.rfind(']') + 1
+    json_content = js_content[start_idx:end_idx]
+    
+    return json.loads(json_content)
 # 打开日志文件准备写入
-with open('deviation_log_ceil.txt', 'w', encoding='utf-8') as log_file:
-    print("开始检测英雄突破数据偏差（使用向上取整）...")
-    log_file.write("英雄突破数据偏差日志 (计算方式: 向上取整)\n")
+with open('../logs/deviation_log_floor.txt', 'w', encoding='utf-8') as log_file:
+    print("开始检测英雄突破数据偏差（使用向下取整）...")
+    log_file.write("英雄突破数据偏差日志 (计算方式: 向下取整)\n")
     log_file.write("======================================\n")
     log_file.write(f"误差阈值: > {ERROR_THRESHOLD}\n")
     log_file.write(f"3星系数: LB1={MULTIPLIERS[3]['lb1']}, LB2={MULTIPLIERS[3]['lb2']}\n")
@@ -22,9 +32,8 @@ with open('deviation_log_ceil.txt', 'w', encoding='utf-8') as log_file:
     log_file.write(f"5星系数: LB1={MULTIPLIERS[5]['lb1']}, LB2={MULTIPLIERS[5]['lb2']}\n")
     log_file.write("======================================\n\n")
 
-    # 加载英雄数据
-    with open('heroes_data_cn.json', 'r', encoding='utf-8') as f:
-        heroes_data = json.load(f)
+    # 加载英雄数据（从JS文件）
+    heroes_data = load_heroes_from_js('heroes_data_cn.js')
 
     deviation_found = False
     # 遍历所有英雄
@@ -55,11 +64,11 @@ with open('deviation_log_ceil.txt', 'w', encoding='utf-8') as log_file:
             'health': hero['lb1'].get('health', 0)
         }
         
-        # *** 修正：使用 math.ceil() 进行向上取整 ***
+        # *** 修正：使用 math.floor() 进行向下取整 ***
         predicted_lb1_stats = {
-            'attack': math.ceil(base_stats['attack'] * multipliers['lb1']),
-            'defense': math.ceil(base_stats['defense'] * multipliers['lb1']),
-            'health': math.ceil(base_stats['health'] * multipliers['lb1'])
+            'attack': math.floor(base_stats['attack'] * multipliers['lb1']),
+            'defense': math.floor(base_stats['defense'] * multipliers['lb1']),
+            'health': math.floor(base_stats['health'] * multipliers['lb1'])
         }
 
         # 比较误差
@@ -78,12 +87,12 @@ with open('deviation_log_ceil.txt', 'w', encoding='utf-8') as log_file:
                 'health': hero['lb2'].get('health', 0)
             }
             
-            # *** 修正：使用 math.ceil() 进行向上取整 ***
+            # *** 修正：使用 math.floor() 进行向下取整 ***
             # LB2的理论值基于LB1的理论值计算
             predicted_lb2_stats = {
-                'attack': math.ceil(predicted_lb1_stats['attack'] * multipliers['lb2']),
-                'defense': math.ceil(predicted_lb1_stats['defense'] * multipliers['lb2']),
-                'health': math.ceil(predicted_lb1_stats['health'] * multipliers['lb2'])
+                'attack': math.floor(predicted_lb1_stats['attack'] * multipliers['lb2']),
+                'defense': math.floor(predicted_lb1_stats['defense'] * multipliers['lb2']),
+                'health': math.floor(predicted_lb1_stats['health'] * multipliers['lb2'])
             }
 
             # 比较误差
@@ -105,4 +114,4 @@ with open('deviation_log_ceil.txt', 'w', encoding='utf-8') as log_file:
     if not deviation_found:
         log_file.write("所有英雄均未发现误差超过10的突破数据。\n")
 
-print("脚本执行完毕。请查看当前目录下生成的 'deviation_log_ceil.txt' 文件。")
+print("脚本执行完毕。请查看../logs/下生成的 'deviation_log_floor.txt' 文件。")

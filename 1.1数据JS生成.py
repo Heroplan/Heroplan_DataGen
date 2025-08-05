@@ -576,6 +576,7 @@ def generate_js_data_with_translation(heroes_base_dir, output_path_cn, output_pa
             common_data = {
                 'Release date': extra.get('Release date', ''), 
                 'specialId': extra.get('specialId', ''),
+                'heroId': extra.get('heroId', ''),
                 'star': current_star, 
                 'power': hero_data.get('power'), 
                 'attack': hero_data.get('attack'), 
@@ -584,7 +585,6 @@ def generate_js_data_with_translation(heroes_base_dir, output_path_cn, output_pa
                 'effects': formatted_effects, 
                 'passives': flatten_list(hero_data.get('passives', [])), 
                 'family': hero_family, 
-                'image': hero_data.get('image'), 
                 'costume_id': 0, 
                 'originalIndex': original_index_counter
             }
@@ -684,6 +684,7 @@ def generate_js_data_with_translation(heroes_base_dir, output_path_cn, output_pa
                     common_data_c = {
                         'Release date': extra_c.get('Release date', ''), 
                         'specialId': extra_c.get('specialId', ''),
+                        'heroId': extra_c.get('heroId', ''),
                         'star': current_star, 
                         'power': costume_data.get('power'), 
                         'attack': costume_data.get('attack'), 
@@ -692,7 +693,6 @@ def generate_js_data_with_translation(heroes_base_dir, output_path_cn, output_pa
                         'effects': formatted_effects_c, 
                         'passives': flatten_list(costume_data.get('passives', [])), 
                         'family': hero_family, 
-                        'image': costume_data.get('image'), 
                         'costume_id': costume_id, 
                         'originalIndex': original_index_counter
                     }
@@ -790,6 +790,7 @@ def generate_js_data_with_translation(heroes_base_dir, output_path_cn, output_pa
             common_data = {
                 'Release date': hero_data.get('Release date', ''), 
                 'specialId': hero_data.get('specialId', ''),
+                'heroId': hero_data.get('heroId', ''),
                 'star': current_star, 
                 'power': hero_data.get('power'), 
                 'attack': hero_data.get('attack'), 
@@ -798,7 +799,6 @@ def generate_js_data_with_translation(heroes_base_dir, output_path_cn, output_pa
                 'effects': formatted_effects_extra, 
                 'passives': hero_data.get('passives', []), 
                 'family': hero_data.get('family', ''), 
-                'image': hero_data.get('image', ''), 
                 'costume_id': hero_data.get('costume_id', 0), 
                 'originalIndex': original_index_counter
             }

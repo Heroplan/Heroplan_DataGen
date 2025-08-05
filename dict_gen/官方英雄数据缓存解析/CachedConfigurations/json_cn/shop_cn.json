@@ -1091,7 +1091,6 @@
         "id": "com.smallgiantgames.empires.beachparty_booster",
         "dollarValue": 12,
         "zyngaStoreDollarValueOverride": 11,
-        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -26834,7 +26833,6 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.luxury_threekingdoms",
         "dollarValue": 100,
-        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -74040,12 +74038,16 @@
         "id": "dragon_dynamic_01_marmora",
         "products": [
           {
-            "id": "com.smallgiantgames.empires.dynamic_10c",
+            "id": "com.smallgiantgames.empires.dynamic_5d",
             "purchaseLimit": 3
           },
           {
-            "id": "com.smallgiantgames.empires.dynamic_3b",
-            "purchaseLimit": 3
+            "id": "com.smallgiantgames.empires.dynamic_20d",
+            "purchaseLimit": 2
+          },
+          {
+            "id": "com.smallgiantgames.empires.dynamic_100d",
+            "purchaseLimit": 1
           }
         ],
         "mode": "Dragon",
@@ -83052,24 +83054,16 @@
         "id": "dynamic_offer_42_blue_klaern",
         "products": [
           {
-            "id": "com.smallgiantgames.empires.dynamic_12",
+            "id": "com.smallgiantgames.empires.dynamic_10c",
+            "purchaseLimit": 2
+          },
+          {
+            "id": "com.smallgiantgames.empires.dynamic_7c",
+            "purchaseLimit": 2
+          },
+          {
+            "id": "com.smallgiantgames.empires.dynamic_29",
             "purchaseLimit": 3
-          },
-          {
-            "id": "com.smallgiantgames.empires.dynamic_20",
-            "purchaseLimit": 2
-          },
-          {
-            "id": "com.smallgiantgames.empires.dynamic_3",
-            "purchaseLimit": 3
-          },
-          {
-            "id": "com.smallgiantgames.empires.dynamic_15",
-            "purchaseLimit": 2
-          },
-          {
-            "id": "com.smallgiantgames.empires.dynamic_10",
-            "purchaseLimit": 2
           }
         ],
         "offerCategory": "Dynamic",
@@ -86718,83 +86712,19 @@
       },
       {
         "id": "com.smallgiantgames.empires.dynamic_18",
-        "schedule": [
-          {
-            "activationTime": 772876800,
-            "contents": [
-              {
-                "type": "Gem",
-                "amount": 1800
-              },
-              {
-                "type": "Item",
-                "id": "lottery_costume_key",
-                "amount": 30
-              }
-            ]
-          }
-        ]
+        "schedule": []
       },
       {
         "id": "com.smallgiantgames.empires.dynamic_21",
-        "schedule": [
-          {
-            "activationTime": 801828000,
-            "contents": [
-              {
-                "type": "Gem",
-                "amount": 2600,
-                "zyngaStoreExtraAmount": 200
-              }
-            ]
-          }
-        ]
+        "schedule": []
       },
       {
         "id": "com.smallgiantgames.empires.dynamic_23",
-        "schedule": [
-          {
-            "activationTime": 747212400,
-            "contents": [
-              {
-                "type": "Gem",
-                "amount": 2600
-              },
-              {
-                "type": "Item",
-                "id": "refill_food_giant",
-                "amount": 15
-              }
-            ]
-          }
-        ]
+        "schedule": []
       },
       {
         "id": "com.smallgiantgames.empires.dynamic_25",
-        "schedule": [
-          {
-            "activationTime": 806583600,
-            "contents": [
-              {
-                "type": "Item",
-                "id": "lottery_goblin_coin",
-                "amount": 500,
-                "zyngaStoreExtraAmount": 100
-              },
-              {
-                "type": "Item",
-                "id": "lottery_tower_coin",
-                "amount": 500,
-                "zyngaStoreExtraAmount": 100
-              },
-              {
-                "type": "Item",
-                "id": "hero_limitbreak_alpha",
-                "amount": 5
-              }
-            ]
-          }
-        ]
+        "schedule": []
       },
       {
         "id": "com.smallgiantgames.empires.dynamic_29",
@@ -86833,6 +86763,26 @@
                 "id": "hero_limitbreak_alpha",
                 "amount": 3,
                 "zyngaStoreExtraAmount": 1
+              }
+            ]
+          },
+          {
+            "activationTime": 807622200,
+            "contents": [
+              {
+                "type": "Gem",
+                "amount": 3000,
+                "zyngaStoreExtraAmount": 400
+              },
+              {
+                "type": "Item",
+                "id": "hero_limitbreak_alpha",
+                "amount": 2
+              },
+              {
+                "type": "Product",
+                "id": "hero_cap_increase",
+                "amount": 1
               }
             ]
           }
@@ -87224,213 +87174,55 @@
       },
       {
         "id": "offer_dynamic_free_c",
-        "schedule": [
-          {
-            "activationTime": 795607200,
-            "contents": [
-              {
-                "type": "Hero",
-                "id": "trainer_rainbow_epic",
-                "amount": 1
-              }
-            ]
-          }
-        ]
+        "schedule": []
       },
       {
         "id": "offer_dynamic_free_d",
-        "schedule": [
-          {
-            "activationTime": 795607200,
-            "contents": [
-              {
-                "type": "Hero",
-                "id": "trainer_rainbow_epic",
-                "amount": 2
-              }
-            ]
-          }
-        ]
+        "schedule": []
       },
       {
         "id": "offer_dynamic_free_e",
-        "schedule": [
-          {
-            "activationTime": 798804000,
-            "contents": [
-              {
-                "type": "Item",
-                "id": "refill_food_large",
-                "amount": 1
-              },
-              {
-                "type": "Hero",
-                "id": "trainer_rainbow_common",
-                "amount": 1
-              }
-            ]
-          }
-        ]
+        "schedule": []
       },
       {
         "id": "offer_dynamic_free_f",
-        "schedule": [
-          {
-            "activationTime": 795607200,
-            "contents": [
-              {
-                "type": "Item",
-                "id": "tome_levels_epic",
-                "amount": 1
-              }
-            ]
-          }
-        ]
+        "schedule": []
       },
       {
         "id": "offer_dynamic_free_g",
-        "schedule": [
-          {
-            "activationTime": 798285600,
-            "contents": [
-              {
-                "type": "Hero",
-                "id": "trainer_rainbow_uncommon",
-                "amount": 1
-              }
-            ]
-          }
-        ]
+        "schedule": []
       },
       {
         "id": "offer_dynamic_free_h",
-        "schedule": [
-          {
-            "activationTime": 798285600,
-            "contents": [
-              {
-                "type": "Hero",
-                "id": "trainer_rainbow_uncommon",
-                "amount": 2
-              }
-            ]
-          }
-        ]
+        "schedule": []
       },
       {
         "id": "offer_dynamic_free_i",
-        "schedule": [
-          {
-            "activationTime": 798285600,
-            "contents": [
-              {
-                "type": "Hero",
-                "id": "trainer_rainbow_rare",
-                "amount": 3
-              },
-              {
-                "type": "Hero",
-                "id": "trainer_rainbow_uncommon",
-                "amount": 4
-              }
-            ]
-          }
-        ]
+        "schedule": []
       },
       {
         "id": "offer_dynamic_free_j",
-        "schedule": [
-          {
-            "activationTime": 785674800,
-            "contents": [
-              {
-                "type": "Item",
-                "id": "lottery_hotm_coin",
-                "amount": 400
-              }
-            ]
-          }
-        ]
+        "schedule": []
       },
       {
         "id": "offer_dynamic_free_k",
-        "schedule": [
-          {
-            "activationTime": 802958400,
-            "contents": [
-              {
-                "type": "Item",
-                "id": "misc_loot_ticket",
-                "amount": 5
-              }
-            ]
-          }
-        ]
+        "schedule": []
       },
       {
         "id": "offer_dynamic_free_l",
-        "schedule": [
-          {
-            "activationTime": 783685800,
-            "contents": [
-              {
-                "type": "Item",
-                "id": "lottery_pickup_coin",
-                "amount": 100
-              }
-            ]
-          }
-        ]
+        "schedule": []
       },
       {
         "id": "offer_dynamic_free_m",
-        "schedule": [
-          {
-            "activationTime": 783685800,
-            "contents": [
-              {
-                "type": "Item",
-                "id": "hero_limitbreak_legendary_blue",
-                "amount": 1
-              },
-              {
-                "type": "Item",
-                "id": "lottery_super_elemental_coin",
-                "amount": 300
-              }
-            ]
-          }
-        ]
+        "schedule": []
       },
       {
         "id": "offer_dynamic_free_n",
-        "schedule": [
-          {
-            "activationTime": 783685800,
-            "contents": [
-              {
-                "type": "Item",
-                "id": "lottery_mercenary_war_coin",
-                "amount": 300
-              }
-            ]
-          }
-        ]
+        "schedule": []
       },
       {
         "id": "offer_dynamic_free_o",
-        "schedule": [
-          {
-            "activationTime": 783685800,
-            "contents": [
-              {
-                "type": "Item",
-                "id": "lottery_pickup_coin",
-                "amount": 300
-              }
-            ]
-          }
-        ]
+        "schedule": []
       },
       {
         "id": "offer_dynamic_free_p",
@@ -87449,73 +87241,19 @@
       },
       {
         "id": "offer_dynamic_free_q",
-        "schedule": [
-          {
-            "activationTime": 783252000,
-            "contents": [
-              {
-                "type": "Item",
-                "id": "hero_royal_tabard",
-                "amount": 1
-              },
-              {
-                "type": "Item",
-                "id": "hero_mystic_rings",
-                "amount": 1
-              }
-            ]
-          }
-        ]
+        "schedule": []
       },
       {
         "id": "offer_dynamic_free_r",
-        "schedule": [
-          {
-            "activationTime": 802353600,
-            "contents": [
-              {
-                "type": "Hero",
-                "id": "trainer_rainbow_common",
-                "amount": 1
-              }
-            ]
-          }
-        ]
+        "schedule": []
       },
       {
         "id": "offer_dynamic_free_s",
-        "schedule": [
-          {
-            "activationTime": 783252000,
-            "contents": [
-              {
-                "type": "Item",
-                "id": "hero_poison_darts",
-                "amount": 1
-              },
-              {
-                "type": "Item",
-                "id": "tome_levels_epic",
-                "amount": 1
-              }
-            ]
-          }
-        ]
+        "schedule": []
       },
       {
         "id": "offer_dynamic_free_t",
-        "schedule": [
-          {
-            "activationTime": 802526400,
-            "contents": [
-              {
-                "type": "Hero",
-                "id": "trainer_rainbow_uncommon",
-                "amount": 1
-              }
-            ]
-          }
-        ]
+        "schedule": []
       },
       {
         "id": "offer_dynamic_free_aa",
@@ -87554,103 +87292,27 @@
       },
       {
         "id": "offer_dynamic_free_cc",
-        "schedule": [
-          {
-            "activationTime": 795607200,
-            "contents": [
-              {
-                "type": "Item",
-                "id": "refill_food_giant",
-                "amount": 2
-              }
-            ]
-          }
-        ]
+        "schedule": []
       },
       {
         "id": "offer_dynamic_free_dd",
-        "schedule": [
-          {
-            "activationTime": 795607200,
-            "contents": [
-              {
-                "type": "Item",
-                "id": "tome_levels_epic",
-                "amount": 1
-              }
-            ]
-          }
-        ]
+        "schedule": []
       },
       {
         "id": "offer_dynamic_free_ee",
-        "schedule": [
-          {
-            "activationTime": 795607200,
-            "contents": [
-              {
-                "type": "Item",
-                "id": "refill_food_giant",
-                "amount": 10
-              }
-            ]
-          }
-        ]
+        "schedule": []
       },
       {
         "id": "offer_dynamic_free_ff",
-        "schedule": [
-          {
-            "activationTime": 801230400,
-            "contents": [
-              {
-                "type": "Troop",
-                "id": "rainbow_uncommon_trainer",
-                "amount": 1
-              }
-            ]
-          }
-        ]
+        "schedule": []
       },
       {
         "id": "offer_dynamic_free_gg",
-        "schedule": [
-          {
-            "activationTime": 798285600,
-            "contents": [
-              {
-                "type": "Hero",
-                "id": "trainer_rainbow_rare",
-                "amount": 2
-              },
-              {
-                "type": "Hero",
-                "id": "trainer_rainbow_uncommon",
-                "amount": 1
-              }
-            ]
-          }
-        ]
+        "schedule": []
       },
       {
         "id": "offer_dynamic_free_hh",
-        "schedule": [
-          {
-            "activationTime": 798285600,
-            "contents": [
-              {
-                "type": "Hero",
-                "id": "trainer_rainbow_rare",
-                "amount": 1
-              },
-              {
-                "type": "Hero",
-                "id": "trainer_rainbow_uncommon",
-                "amount": 3
-              }
-            ]
-          }
-        ]
+        "schedule": []
       },
       {
         "id": "offer_dynamic_free_ii",
@@ -87669,18 +87331,7 @@
       },
       {
         "id": "offer_dynamic_free_jj",
-        "schedule": [
-          {
-            "activationTime": 785674800,
-            "contents": [
-              {
-                "type": "Item",
-                "id": "lottery_untold_tales_coin",
-                "amount": 400
-              }
-            ]
-          }
-        ]
+        "schedule": []
       },
       {
         "id": "offer_dynamic_free_kk",
@@ -87699,121 +87350,35 @@
       },
       {
         "id": "offer_dynamic_free_ll",
-        "schedule": [
-          {
-            "activationTime": 784031400,
-            "contents": [
-              {
-                "type": "Item",
-                "id": "hero_limitbreak_alpha",
-                "amount": 1
-              }
-            ]
-          }
-        ]
+        "schedule": []
       },
       {
         "id": "offer_dynamic_free_mm",
-        "schedule": [
-          {
-            "activationTime": 782204400,
-            "contents": [
-              {
-                "type": "Item",
-                "id": "lottery_valhalla_coin",
-                "amount": 100
-              }
-            ]
-          }
-        ]
+        "schedule": []
       },
       {
         "id": "offer_dynamic_free_u",
-        "schedule": [
-          {
-            "activationTime": 803044800,
-            "contents": [
-              {
-                "type": "Troop",
-                "id": "rainbow_uncommon_trainer",
-                "amount": 1
-              }
-            ]
-          }
-        ]
+        "schedule": []
       },
       {
         "id": "offer_dynamic_free_v",
-        "schedule": [
-          {
-            "activationTime": 802699200,
-            "contents": [
-              {
-                "type": "Item",
-                "id": "refill_energy_pve_full",
-                "amount": 1
-              }
-            ]
-          }
-        ]
+        "schedule": []
       },
       {
         "id": "offer_dynamic_free_w",
-        "schedule": [
-          {
-            "activationTime": 783426600,
-            "contents": [
-              {
-                "type": "Item",
-                "id": "lottery_item_ascension",
-                "amount": 30
-              }
-            ]
-          }
-        ]
+        "schedule": []
       },
       {
         "id": "offer_dynamic_free_x",
-        "schedule": [
-          {
-            "activationTime": 784371600,
-            "contents": [
-              {
-                "type": "Item",
-                "id": "lottery_wilderness_coin",
-                "amount": 100
-              }
-            ]
-          }
-        ]
+        "schedule": []
       },
       {
         "id": "offer_dynamic_free_y",
-        "schedule": [
-          {
-            "activationTime": 784371600,
-            "contents": [
-              {
-                "type": "Gem",
-                "amount": 100
-              }
-            ]
-          }
-        ]
+        "schedule": []
       },
       {
         "id": "offer_dynamic_free_z",
-        "schedule": [
-          {
-            "activationTime": 796039200,
-            "contents": [
-              {
-                "type": "Gem",
-                "amount": 1000
-              }
-            ]
-          }
-        ]
+        "schedule": []
       },
       {
         "id": "com.smallgiantgames.empires.dynamic_3c",
@@ -87878,6 +87443,47 @@
         "schedule": [
           {
             "activationTime": 806482800,
+            "contents": [
+              {
+                "type": "Item",
+                "id": "lottery_ancient_dragon_coin",
+                "amount": 150,
+                "zyngaStoreExtraAmount": 50
+              },
+              {
+                "type": "Item",
+                "id": "dragon_feathered_headdress",
+                "amount": 5
+              },
+              {
+                "type": "Item",
+                "id": "dragon_topaz_eagle_statue",
+                "amount": 5
+              },
+              {
+                "type": "Item",
+                "id": "dragon_amethyst_snake_statue",
+                "amount": 5
+              },
+              {
+                "type": "Item",
+                "id": "dragon_ruby_horse_statue",
+                "amount": 5
+              },
+              {
+                "type": "Item",
+                "id": "dragon_sapphire_whale_statue",
+                "amount": 5
+              },
+              {
+                "type": "Item",
+                "id": "dragon_jade_turtle_statue",
+                "amount": 5
+              }
+            ]
+          },
+          {
+            "activationTime": 807692400,
             "contents": [
               {
                 "type": "Item",
@@ -87988,6 +87594,27 @@
                 "id": "lottery_elite_dragon",
                 "amount": 3,
                 "zyngaStoreExtraAmount": 1
+              }
+            ]
+          },
+          {
+            "activationTime": 807622200,
+            "contents": [
+              {
+                "type": "Item",
+                "id": "lottery_wilderness_coin",
+                "amount": 400
+              },
+              {
+                "type": "Item",
+                "id": "lottery_mercenary_war_coin",
+                "amount": 400
+              },
+              {
+                "type": "Item",
+                "id": "lottery_elite_hero",
+                "amount": 3,
+                "zyngaStoreExtraAmount": 2
               }
             ]
           }
@@ -88200,6 +87827,52 @@
                 "zyngaStoreExtraAmount": 1
               }
             ]
+          },
+          {
+            "activationTime": 807692400,
+            "contents": [
+              {
+                "type": "Item",
+                "id": "lottery_ancient_dragon_coin",
+                "amount": 200,
+                "zyngaStoreExtraAmount": 100
+              },
+              {
+                "type": "Item",
+                "id": "dragon_ornate_headdress",
+                "amount": 2
+              },
+              {
+                "type": "Item",
+                "id": "dragon_uncut_topaz",
+                "amount": 2
+              },
+              {
+                "type": "Item",
+                "id": "dragon_uncut_sapphire",
+                "amount": 2
+              },
+              {
+                "type": "Item",
+                "id": "dragon_uncut_jade",
+                "amount": 2
+              },
+              {
+                "type": "Item",
+                "id": "dragon_uncut_amethyst",
+                "amount": 2
+              },
+              {
+                "type": "Item",
+                "id": "dragon_uncut_ruby",
+                "amount": 2
+              },
+              {
+                "type": "Item",
+                "id": "dragon_rainbow_chalice",
+                "amount": 1
+              }
+            ]
           }
         ]
       },
@@ -88282,24 +87955,7 @@
       },
       {
         "id": "com.smallgiantgames.empires.dynamic_30d",
-        "schedule": [
-          {
-            "activationTime": 796644000,
-            "contents": [
-              {
-                "type": "Gem",
-                "amount": 3200,
-                "zyngaStoreExtraAmount": 200
-              },
-              {
-                "type": "Item",
-                "id": "lottery_covenant_coin",
-                "amount": 400,
-                "zyngaStoreExtraAmount": 100
-              }
-            ]
-          }
-        ]
+        "schedule": []
       },
       {
         "id": "com.smallgiantgames.empires.dynamic_100b",
@@ -88333,28 +87989,7 @@
       },
       {
         "id": "com.smallgiantgames.empires.dynamic_100c",
-        "schedule": [
-          {
-            "activationTime": 804081600,
-            "contents": [
-              {
-                "type": "Gem",
-                "amount": 11000
-              },
-              {
-                "type": "Hero",
-                "id": "trainer_rainbow_rare",
-                "amount": 30,
-                "zyngaStoreExtraAmount": 10
-              },
-              {
-                "type": "Item",
-                "id": "lottery_covenant_coin",
-                "amount": 750
-              }
-            ]
-          }
-        ]
+        "schedule": []
       },
       {
         "id": "com.smallgiantgames.empires.dynamic_100d",
@@ -88381,6 +88016,47 @@
                 "type": "Item",
                 "id": "lottery_ancient_dragon_coin",
                 "amount": 400
+              }
+            ]
+          },
+          {
+            "activationTime": 807692400,
+            "contents": [
+              {
+                "type": "Gem",
+                "amount": 10000,
+                "zyngaStoreExtraAmount": 1000
+              },
+              {
+                "type": "Item",
+                "id": "lottery_ancient_dragon_coin",
+                "amount": 300,
+                "zyngaStoreExtraAmount": 100
+              },
+              {
+                "type": "Item",
+                "id": "dragon_ruby_pendant",
+                "amount": 1
+              },
+              {
+                "type": "Item",
+                "id": "dragon_topaz_pendant",
+                "amount": 1
+              },
+              {
+                "type": "Item",
+                "id": "dragon_amethyst_pendant",
+                "amount": 1
+              },
+              {
+                "type": "Item",
+                "id": "dragon_sapphire_pendant",
+                "amount": 1
+              },
+              {
+                "type": "Item",
+                "id": "dragon_jade_pendant",
+                "amount": 1
               }
             ]
           }
@@ -88463,6 +88139,27 @@
                 "type": "Item",
                 "id": "dragon_ornate_headdress",
                 "amount": 2
+              }
+            ]
+          },
+          {
+            "activationTime": 807622200,
+            "contents": [
+              {
+                "type": "Item",
+                "id": "relic_level_up_xp_multiplier",
+                "amount": 1
+              },
+              {
+                "type": "Hero",
+                "id": "trainer_rainbow_rare",
+                "amount": 7,
+                "zyngaStoreExtraAmount": 2
+              },
+              {
+                "type": "Item",
+                "id": "refill_food_giant",
+                "amount": 3
               }
             ]
           }
@@ -88713,1273 +88410,6 @@
     "scalingGemPriceEnabled": false,
     "forcedOffers": [],
     "scheduledOffers": [
-      {
-        "id": "easter_free_10",
-        "slot": "LeftTop",
-        "customContents": [
-          "seasonalcalendar_free_day21",
-          "seasonalcalendar_10_day38"
-        ],
-        "scheduledManually": true,
-        "startTime": "2025-04-20 07:00:00",
-        "endTime": "2025-04-21 07:00:00"
-      },
-      {
-        "id": "easter_5_10",
-        "slot": "LeftTop",
-        "customContents": [
-          "seasonalcalendar_5_day22",
-          "seasonalcalendar_10_day22"
-        ],
-        "scheduledManually": true,
-        "startTime": "2025-04-21 07:00:00",
-        "endTime": "2025-04-22 07:00:00"
-      },
-      {
-        "id": "easter_10_30",
-        "slot": "LeftTop",
-        "customContents": [
-          "seasonalcalendar_10_day23",
-          "seasonalcalendar_30_day23"
-        ],
-        "scheduledManually": true,
-        "startTime": "2025-04-22 07:00:00",
-        "endTime": "2025-04-23 07:00:00"
-      },
-      {
-        "id": "easter_5_10",
-        "slot": "LeftTop",
-        "customContents": [
-          "seasonalcalendar_5_day24",
-          "seasonalcalendar_10_day24"
-        ],
-        "scheduledManually": true,
-        "startTime": "2025-04-23 07:00:00",
-        "endTime": "2025-04-24 07:00:00"
-      },
-      {
-        "id": "easter_10_30",
-        "slot": "LeftTop",
-        "customContents": [
-          "seasonalcalendar_10_day25",
-          "seasonalcalendar_30_day25"
-        ],
-        "scheduledManually": true,
-        "startTime": "2025-04-24 07:00:00",
-        "endTime": "2025-04-25 07:00:00"
-      },
-      {
-        "id": "easter_5_100",
-        "slot": "LeftTop",
-        "customContents": [
-          "seasonalcalendar_5_day26",
-          "seasonalcalendar_100_day26"
-        ],
-        "scheduledManually": true,
-        "startTime": "2025-04-25 07:00:00",
-        "endTime": "2025-04-26 07:00:00"
-      },
-      {
-        "id": "easter_10_30",
-        "slot": "LeftTop",
-        "customContents": [
-          "seasonalcalendar_10_day27",
-          "seasonalcalendar_30_day27"
-        ],
-        "scheduledManually": true,
-        "startTime": "2025-04-26 07:00:00",
-        "endTime": "2025-04-27 07:00:00"
-      },
-      {
-        "id": "easter_free_10",
-        "slot": "LeftTop",
-        "customContents": [
-          "seasonalcalendar_free_day28",
-          "seasonalcalendar_10_day22"
-        ],
-        "scheduledManually": true,
-        "startTime": "2025-04-27 07:00:00",
-        "endTime": "2025-04-28 07:00:00"
-      },
-      {
-        "id": "easter_5_10",
-        "slot": "LeftTop",
-        "customContents": [
-          "seasonalcalendar_5_day29",
-          "seasonalcalendar_10_day29"
-        ],
-        "scheduledManually": true,
-        "startTime": "2025-04-28 07:00:00",
-        "endTime": "2025-04-29 07:00:00"
-      },
-      {
-        "id": "easter_10_100",
-        "slot": "LeftTop",
-        "customContents": [
-          "seasonalcalendar_10_day30",
-          "seasonalcalendar_100_day30"
-        ],
-        "scheduledManually": true,
-        "startTime": "2025-04-29 07:00:00",
-        "endTime": "2025-04-30 07:00:00"
-      },
-      {
-        "id": "golden_week_1",
-        "slot": "LeftBottom",
-        "scheduledManually": true,
-        "startTime": "2025-04-29 07:00:00",
-        "endTime": "2025-04-30 07:00:00"
-      },
-      {
-        "id": "easter_5_10",
-        "slot": "LeftTop",
-        "customContents": [
-          "seasonalcalendar_5_day31",
-          "seasonalcalendar_10_day31"
-        ],
-        "scheduledManually": true,
-        "startTime": "2025-04-30 07:00:00",
-        "endTime": "2025-05-01 07:00:00"
-      },
-      {
-        "id": "golden_week_2",
-        "slot": "LeftExtraBottom",
-        "scheduledManually": true,
-        "startTime": "2025-04-30 07:00:00",
-        "endTime": "2025-05-01 07:00:00"
-      },
-      {
-        "id": "easter_10_30",
-        "slot": "LeftTop",
-        "customContents": [
-          "seasonalcalendar_10_day32",
-          "seasonalcalendar_30_day32"
-        ],
-        "scheduledManually": true,
-        "startTime": "2025-05-01 07:00:00",
-        "endTime": "2025-05-02 07:00:00"
-      },
-      {
-        "id": "golden_week_3",
-        "slot": "LeftExtraBottom",
-        "scheduledManually": true,
-        "startTime": "2025-05-01 07:00:00",
-        "endTime": "2025-05-02 07:00:00"
-      },
-      {
-        "id": "easter_5_30",
-        "slot": "LeftTop",
-        "customContents": [
-          "seasonalcalendar_5_day33",
-          "seasonalcalendar_30_day33"
-        ],
-        "scheduledManually": true,
-        "startTime": "2025-05-02 07:00:00",
-        "endTime": "2025-05-03 07:00:00"
-      },
-      {
-        "id": "golden_week_4",
-        "slot": "LeftExtraBottom",
-        "scheduledManually": true,
-        "startTime": "2025-05-02 07:00:00",
-        "endTime": "2025-05-03 07:00:00"
-      },
-      {
-        "id": "easter_5_10",
-        "slot": "LeftTop",
-        "customContents": [
-          "seasonalcalendar_5_day34",
-          "seasonalcalendar_10_day34"
-        ],
-        "scheduledManually": true,
-        "startTime": "2025-05-03 07:00:00",
-        "endTime": "2025-05-04 07:00:00"
-      },
-      {
-        "id": "golden_week_7",
-        "slot": "LeftExtraBottom",
-        "scheduledManually": true,
-        "startTime": "2025-05-03 07:00:00",
-        "endTime": "2025-05-04 07:00:00"
-      },
-      {
-        "id": "easter_free_10",
-        "slot": "LeftTop",
-        "customContents": [
-          "seasonalcalendar_free_day35",
-          "seasonalcalendar_10_day16"
-        ],
-        "scheduledManually": true,
-        "startTime": "2025-05-04 07:00:00",
-        "endTime": "2025-05-05 07:00:00"
-      },
-      {
-        "id": "golden_week_5",
-        "slot": "LeftExtraBottom",
-        "scheduledManually": true,
-        "startTime": "2025-05-04 07:00:00",
-        "endTime": "2025-05-05 07:00:00"
-      },
-      {
-        "id": "easter_5_10",
-        "slot": "LeftTop",
-        "customContents": [
-          "seasonalcalendar_5_day36",
-          "seasonalcalendar_10_day36"
-        ],
-        "scheduledManually": true,
-        "startTime": "2025-05-05 07:00:00",
-        "endTime": "2025-05-06 07:00:00"
-      },
-      {
-        "id": "golden_week_6",
-        "slot": "LeftExtraBottom",
-        "scheduledManually": true,
-        "startTime": "2025-05-05 07:00:00",
-        "endTime": "2025-05-06 07:00:00"
-      },
-      {
-        "id": "easter_10_30",
-        "slot": "LeftTop",
-        "customContents": [
-          "seasonalcalendar_10_day37",
-          "seasonalcalendar_30_day37"
-        ],
-        "scheduledManually": true,
-        "startTime": "2025-05-06 07:00:00",
-        "endTime": "2025-05-07 07:00:00"
-      },
-      {
-        "id": "easter_5_10",
-        "slot": "LeftTop",
-        "customContents": [
-          "seasonalcalendar_5_day38",
-          "seasonalcalendar_10_day38"
-        ],
-        "scheduledManually": true,
-        "startTime": "2025-05-07 07:00:00",
-        "endTime": "2025-05-08 07:00:00"
-      },
-      {
-        "id": "easter_5_10",
-        "slot": "LeftTop",
-        "customContents": [
-          "seasonalcalendar_5_day39",
-          "seasonalcalendar_10_day39"
-        ],
-        "scheduledManually": true,
-        "startTime": "2025-05-08 07:00:00",
-        "endTime": "2025-05-09 07:00:00"
-      },
-      {
-        "id": "easter_10_30",
-        "slot": "LeftTop",
-        "customContents": [
-          "seasonalcalendar_10_day40",
-          "seasonalcalendar_30_day40"
-        ],
-        "scheduledManually": true,
-        "startTime": "2025-05-09 07:00:00",
-        "endTime": "2025-05-10 07:00:00"
-      },
-      {
-        "id": "easter_5_100",
-        "slot": "LeftTop",
-        "customContents": [
-          "seasonalcalendar_5_day41",
-          "seasonalcalendar_100_day41"
-        ],
-        "scheduledManually": true,
-        "startTime": "2025-05-10 07:00:00",
-        "endTime": "2025-05-11 07:00:00"
-      },
-      {
-        "id": "easter_free_10",
-        "slot": "LeftTop",
-        "customContents": [
-          "seasonalcalendar_free_day42",
-          "seasonalcalendar_10_day15"
-        ],
-        "scheduledManually": true,
-        "startTime": "2025-05-11 07:00:00",
-        "endTime": "2025-05-12 07:00:00"
-      },
-      {
-        "id": "com.smallgiantgames.empires.guestip1_booster",
-        "slot": "ShopOnly",
-        "scheduledManually": true,
-        "startTime": "2025-05-26 07:00:00",
-        "endTime": "2025-07-07 07:00:00"
-      },
-      {
-        "id": "beach_5_10",
-        "slot": "LeftTop",
-        "customContents": [
-          "seasonalcalendar_5_day2",
-          "seasonalcalendar_10_day2"
-        ],
-        "scheduledManually": true,
-        "startTime": "2025-06-03 07:00:00",
-        "endTime": "2025-06-04 07:00:00"
-      },
-      {
-        "id": "com.smallgiantgames.empires.beachparty_booster",
-        "slot": "LeftTop",
-        "scheduledManually": true,
-        "startTime": "2025-06-03 07:00:00",
-        "endTime": "2025-07-15 07:00:00"
-      },
-      {
-        "id": "beach_5_10",
-        "slot": "LeftTop",
-        "customContents": [
-          "seasonalcalendar_5_day3",
-          "seasonalcalendar_10_day3"
-        ],
-        "scheduledManually": true,
-        "startTime": "2025-06-04 07:00:00",
-        "endTime": "2025-06-05 07:00:00"
-      },
-      {
-        "id": "beach_10_30",
-        "slot": "LeftTop",
-        "customContents": [
-          "seasonalcalendar_10_day4",
-          "seasonalcalendar_30_day4"
-        ],
-        "scheduledManually": true,
-        "startTime": "2025-06-05 07:00:00",
-        "endTime": "2025-06-06 07:00:00"
-      },
-      {
-        "id": "beach_5_10",
-        "slot": "LeftTop",
-        "customContents": [
-          "seasonalcalendar_5_day5",
-          "seasonalcalendar_10_day5"
-        ],
-        "scheduledManually": true,
-        "startTime": "2025-06-06 07:00:00",
-        "endTime": "2025-06-07 07:00:00"
-      },
-      {
-        "id": "beach_5_100",
-        "slot": "LeftTop",
-        "customContents": [
-          "seasonalcalendar_5_day6",
-          "seasonalcalendar_100_day6"
-        ],
-        "scheduledManually": true,
-        "startTime": "2025-06-07 07:00:00",
-        "endTime": "2025-06-08 07:00:00"
-      },
-      {
-        "id": "beach_free_10",
-        "slot": "LeftTop",
-        "customContents": [
-          "seasonalcalendar_free_day7",
-          "seasonalcalendar_10_day39"
-        ],
-        "scheduledManually": true,
-        "startTime": "2025-06-08 07:00:00",
-        "endTime": "2025-06-09 07:00:00"
-      },
-      {
-        "id": "beach_5_10",
-        "slot": "LeftTop",
-        "customContents": [
-          "seasonalcalendar_5_day8",
-          "seasonalcalendar_10_day8"
-        ],
-        "scheduledManually": true,
-        "startTime": "2025-06-09 07:00:00",
-        "endTime": "2025-06-10 07:00:00"
-      },
-      {
-        "id": "beach_10_30",
-        "slot": "LeftTop",
-        "customContents": [
-          "seasonalcalendar_10_day9",
-          "seasonalcalendar_30_day9"
-        ],
-        "scheduledManually": true,
-        "startTime": "2025-06-10 07:00:00",
-        "endTime": "2025-06-11 07:00:00"
-      },
-      {
-        "id": "dragon_triple_majestic",
-        "slot": "RightBottom",
-        "startTime": "2025-06-10 07:00:00",
-        "endTime": "2025-06-12 07:00:00"
-      },
-      {
-        "id": "ancient_dragon_calendar",
-        "slot": "LeftExtraTop",
-        "scheduledManually": true,
-        "startTime": "2025-06-10 07:00:00",
-        "endTime": "2025-06-14 07:00:00"
-      },
-      {
-        "id": "shadow_calendar",
-        "slot": "RightExtraTop",
-        "scheduledManually": true,
-        "startTime": "2025-06-10 07:00:00",
-        "endTime": "2025-06-14 07:00:00"
-      },
-      {
-        "id": "com.smallgiantgames.empires.alliancegiftoffer",
-        "slot": "ShopOnly",
-        "scheduledManually": true,
-        "startTime": "2025-06-10 12:00:00",
-        "endTime": "2025-06-12 07:00:00"
-      },
-      {
-        "id": "beach_5_10",
-        "slot": "LeftTop",
-        "customContents": [
-          "seasonalcalendar_5_day10",
-          "seasonalcalendar_10_day10"
-        ],
-        "scheduledManually": true,
-        "startTime": "2025-06-11 07:00:00",
-        "endTime": "2025-06-12 07:00:00"
-      },
-      {
-        "id": "double_wilderness_2",
-        "slot": "LeftExtraTop",
-        "scheduledManually": true,
-        "startTime": "2025-06-11 07:00:00",
-        "endTime": "2025-06-12 07:00:00"
-      },
-      {
-        "id": "aethercrystalsoffer2",
-        "slot": "LeftBottom",
-        "scheduledManually": true,
-        "startTime": "2025-06-11 07:00:00",
-        "endTime": "2025-06-13 07:00:00"
-      },
-      {
-        "id": "dragon_silver_coins",
-        "slot": "LeftBottom",
-        "startTime": "2025-06-11 07:00:00",
-        "endTime": "2025-06-13 07:00:00"
-      },
-      {
-        "id": "dragon_trainer_1",
-        "slot": "RightExtraTop",
-        "scheduledManually": true,
-        "startTime": "2025-06-11 07:00:00",
-        "endTime": "2025-06-13 07:00:00"
-      },
-      {
-        "id": "xp_pyramid",
-        "slot": "RightBottom",
-        "scheduledManually": true,
-        "startTime": "2025-06-11 07:00:00",
-        "endTime": "2025-06-13 07:00:00"
-      },
-      {
-        "id": "legendary_troop_calendar",
-        "slot": "RightExtraBottom",
-        "scheduledManually": true,
-        "startTime": "2025-06-11 07:00:00",
-        "endTime": "2025-06-14 07:00:00"
-      },
-      {
-        "id": "com.smallgiantgames.empires.season5_calendar",
-        "slot": "RightTop",
-        "scheduledManually": true,
-        "startTime": "2025-06-11 07:00:00",
-        "endTime": "2025-06-15 07:00:00"
-      },
-      {
-        "id": "beach_5_10",
-        "slot": "LeftTop",
-        "customContents": [
-          "seasonalcalendar_5_day11",
-          "seasonalcalendar_10_day11"
-        ],
-        "scheduledManually": true,
-        "startTime": "2025-06-12 07:00:00",
-        "endTime": "2025-06-13 07:00:00"
-      },
-      {
-        "id": "triple_levelupsummon",
-        "slot": "LeftExtraTop",
-        "scheduledManually": true,
-        "startTime": "2025-06-12 07:00:00",
-        "endTime": "2025-06-13 07:00:00"
-      },
-      {
-        "id": "dragon_flaming",
-        "slot": "RightBottom",
-        "startTime": "2025-06-12 07:00:00",
-        "endTime": "2025-06-14 07:00:00"
-      },
-      {
-        "id": "quintuple_sacred",
-        "slot": "LeftExtraBottom",
-        "scheduledManually": true,
-        "startTime": "2025-06-12 07:00:00",
-        "endTime": "2025-06-14 07:00:00"
-      },
-      {
-        "id": "beach_10_30",
-        "slot": "LeftTop",
-        "customContents": [
-          "seasonalcalendar_10_day12",
-          "seasonalcalendar_30_day12"
-        ],
-        "scheduledManually": true,
-        "startTime": "2025-06-13 07:00:00",
-        "endTime": "2025-06-14 07:00:00"
-      },
-      {
-        "id": "triple_levelupsummon",
-        "slot": "LeftBottom",
-        "scheduledManually": true,
-        "startTime": "2025-06-13 07:00:00",
-        "endTime": "2025-06-14 07:00:00"
-      },
-      {
-        "id": "dragon_double_snowys_treasure",
-        "slot": "RightTop",
-        "startTime": "2025-06-13 07:00:00",
-        "endTime": "2025-06-15 07:00:00"
-      },
-      {
-        "id": "luxury_dunes",
-        "slot": "RightMiddle",
-        "scheduledManually": true,
-        "startTime": "2025-06-13 07:00:00",
-        "endTime": "2025-06-15 07:00:00"
-      },
-      {
-        "id": "tales2_calendar",
-        "slot": "LeftExtraTop",
-        "scheduledManually": true,
-        "startTime": "2025-06-13 07:00:00",
-        "endTime": "2025-06-17 07:00:00"
-      },
-      {
-        "id": "beach_5_100",
-        "slot": "LeftTop",
-        "customContents": [
-          "seasonalcalendar_5_day13",
-          "seasonalcalendar_100_day13"
-        ],
-        "scheduledManually": true,
-        "startTime": "2025-06-14 07:00:00",
-        "endTime": "2025-06-15 07:00:00"
-      },
-      {
-        "id": "triple_levelupsummon",
-        "slot": "RightExtraTop",
-        "scheduledManually": true,
-        "startTime": "2025-06-14 07:00:00",
-        "endTime": "2025-06-15 07:00:00"
-      },
-      {
-        "id": "ascensioncrystalsoffer",
-        "slot": "LeftBottom",
-        "scheduledManually": true,
-        "startTime": "2025-06-14 07:00:00",
-        "endTime": "2025-06-16 07:00:00"
-      },
-      {
-        "id": "com.smallgiantgames.empires.armyyellow",
-        "slot": "ShopOnly",
-        "scheduledManually": true,
-        "startTime": "2025-06-14 07:00:00",
-        "endTime": "2025-06-16 07:00:00"
-      },
-      {
-        "id": "dragon_owlfords",
-        "slot": "RightBottom",
-        "startTime": "2025-06-14 07:00:00",
-        "endTime": "2025-06-16 07:00:00"
-      },
-      {
-        "id": "rosterexpansionoffer",
-        "slot": "LeftExtraBottom",
-        "scheduledManually": true,
-        "startTime": "2025-06-14 07:00:00",
-        "endTime": "2025-06-16 07:00:00"
-      },
-      {
-        "id": "beach_free_10",
-        "slot": "LeftTop",
-        "customContents": [
-          "seasonalcalendar_free_day14",
-          "seasonalcalendar_10_day36"
-        ],
-        "scheduledManually": true,
-        "startTime": "2025-06-15 07:00:00",
-        "endTime": "2025-06-16 07:00:00"
-      },
-      {
-        "id": "triple_levelupsummon",
-        "slot": "RightBottom",
-        "scheduledManually": true,
-        "startTime": "2025-06-15 07:00:00",
-        "endTime": "2025-06-16 07:00:00"
-      },
-      {
-        "id": "com.smallgiantgames.empires.triple_limitbreak",
-        "slot": "RightTop",
-        "customContents": [
-          "triple_limitbreak_5_2",
-          "triple_limitbreak_30_2",
-          "triple_limitbreak_100"
-        ],
-        "scheduledManually": true,
-        "startTime": "2025-06-15 07:00:00",
-        "endTime": "2025-06-17 07:00:00"
-      },
-      {
-        "id": "dragon_dragon_magic",
-        "slot": "LeftTop",
-        "startTime": "2025-06-15 07:00:00",
-        "endTime": "2025-06-17 07:00:00"
-      },
-      {
-        "id": "eventoffer_double_calendar",
-        "slot": "RightExtraTop",
-        "scheduledManually": true,
-        "startTime": "2025-06-15 07:00:00",
-        "endTime": "2025-06-19 07:00:00"
-      },
-      {
-        "id": "beach_10_30",
-        "slot": "LeftTop",
-        "customContents": [
-          "seasonalcalendar_10_day15",
-          "seasonalcalendar_30_day15"
-        ],
-        "scheduledManually": true,
-        "startTime": "2025-06-16 07:00:00",
-        "endTime": "2025-06-17 07:00:00"
-      },
-      {
-        "id": "solstice_day1",
-        "slot": "LeftExtraBottom",
-        "customContents": [
-          "solstice2025_day1_free",
-          "solstice2025_day1_5",
-          "solstice2025_day1_30"
-        ],
-        "scheduledManually": true,
-        "startTime": "2025-06-16 07:00:00",
-        "endTime": "2025-06-17 07:00:00"
-      },
-      {
-        "id": "com.smallgiantgames.empires.hotmeventoffer",
-        "slot": "ShopOnly",
-        "scheduledManually": true,
-        "startTime": "2025-06-16 07:00:00",
-        "endTime": "2025-06-18 07:00:00"
-      },
-      {
-        "id": "com.smallgiantgames.empires.mystery2",
-        "slot": "LeftBottom",
-        "scheduledManually": true,
-        "startTime": "2025-06-16 07:00:00",
-        "endTime": "2025-06-18 07:00:00"
-      },
-      {
-        "id": "dragon_select_asc3_stormcaller",
-        "slot": "RightTop",
-        "startTime": "2025-06-16 07:00:00",
-        "endTime": "2025-06-18 07:00:00"
-      },
-      {
-        "id": "beach_10_30",
-        "slot": "LeftTop",
-        "customContents": [
-          "seasonalcalendar_10_day16",
-          "seasonalcalendar_30_day16"
-        ],
-        "scheduledManually": true,
-        "startTime": "2025-06-17 07:00:00",
-        "endTime": "2025-06-18 07:00:00"
-      },
-      {
-        "id": "com.smallgiantgames.empires.lootticketoffer2",
-        "slot": "RightBottom",
-        "startTime": "2025-06-17 07:00:00",
-        "endTime": "2025-06-18 07:00:00"
-      },
-      {
-        "id": "solstice_day2",
-        "slot": "LeftExtraBottom",
-        "customContents": [
-          "solstice2025_day2_free",
-          "solstice2025_day2_3",
-          "solstice2025_day2_20"
-        ],
-        "scheduledManually": true,
-        "startTime": "2025-06-17 07:00:00",
-        "endTime": "2025-06-18 07:00:00"
-      },
-      {
-        "id": "dragon_triple_majestic",
-        "slot": "RightBottom",
-        "startTime": "2025-06-17 07:00:00",
-        "endTime": "2025-06-19 07:00:00"
-      },
-      {
-        "id": "quintuple_rose_dragon",
-        "slot": "LeftExtraTop",
-        "scheduledManually": true,
-        "startTime": "2025-06-17 07:00:00",
-        "endTime": "2025-06-19 07:00:00"
-      },
-      {
-        "id": "beach_5_100",
-        "slot": "LeftTop",
-        "customContents": [
-          "seasonalcalendar_5_day17",
-          "seasonalcalendar_100_day17"
-        ],
-        "scheduledManually": true,
-        "startTime": "2025-06-18 07:00:00",
-        "endTime": "2025-06-19 07:00:00"
-      },
-      {
-        "id": "com.smallgiantgames.empires.hotmeventoffer_ending",
-        "slot": "ShopOnly",
-        "scheduledManually": true,
-        "startTime": "2025-06-18 07:00:00",
-        "endTime": "2025-06-19 07:00:00"
-      },
-      {
-        "id": "solstice_day3",
-        "slot": "LeftExtraBottom",
-        "customContents": [
-          "solstice2025_day3_free",
-          "solstice2025_day3_15",
-          "solstice2025_day3_50"
-        ],
-        "scheduledManually": true,
-        "startTime": "2025-06-18 07:00:00",
-        "endTime": "2025-06-19 07:00:00"
-      },
-      {
-        "id": "com.smallgiantgames.empires.limitbreakaether_dark",
-        "slot": "RightBottom",
-        "startTime": "2025-06-18 07:00:00",
-        "endTime": "2025-06-19 19:00:00"
-      },
-      {
-        "id": "aethercrystalsoffer2",
-        "slot": "LeftBottom",
-        "scheduledManually": true,
-        "startTime": "2025-06-18 07:00:00",
-        "endTime": "2025-06-20 07:00:00"
-      },
-      {
-        "id": "dragon_silver_coins",
-        "slot": "LeftBottom",
-        "startTime": "2025-06-18 07:00:00",
-        "endTime": "2025-06-20 07:00:00"
-      },
-      {
-        "id": "dragon_trainer_2",
-        "slot": "RightExtraTop",
-        "scheduledManually": true,
-        "startTime": "2025-06-18 07:00:00",
-        "endTime": "2025-06-20 07:00:00"
-      },
-      {
-        "id": "selectableoffer_elemental3",
-        "slot": "RightTop",
-        "scheduledManually": true,
-        "startTime": "2025-06-18 07:00:00",
-        "endTime": "2025-06-20 07:00:00"
-      },
-      {
-        "id": "wardrobe",
-        "slot": "RightMiddle",
-        "scheduledManually": true,
-        "startTime": "2025-06-18 07:00:00",
-        "endTime": "2025-06-22 07:00:00"
-      },
-      {
-        "id": "beach_5_10",
-        "slot": "LeftTop",
-        "customContents": [
-          "seasonalcalendar_5_day18",
-          "seasonalcalendar_10_day18"
-        ],
-        "scheduledManually": true,
-        "startTime": "2025-06-19 07:00:00",
-        "endTime": "2025-06-20 07:00:00"
-      },
-      {
-        "id": "solstice_day4",
-        "slot": "LeftExtraBottom",
-        "customContents": [
-          "solstice2025_day4_5",
-          "solstice2025_day4_30",
-          "solstice2025_day4_100"
-        ],
-        "scheduledManually": true,
-        "startTime": "2025-06-19 07:00:00",
-        "endTime": "2025-06-20 07:00:00"
-      },
-      {
-        "id": "dragon_flaming",
-        "slot": "RightBottom",
-        "startTime": "2025-06-19 07:00:00",
-        "endTime": "2025-06-21 07:00:00"
-      },
-      {
-        "id": "selectable_ascension_2",
-        "slot": "ShopOnly",
-        "scheduledManually": true,
-        "startTime": "2025-06-19 07:00:00",
-        "endTime": "2025-06-21 07:00:00"
-      },
-      {
-        "id": "beach_5_10",
-        "slot": "LeftTop",
-        "customContents": [
-          "seasonalcalendar_5_day19",
-          "seasonalcalendar_10_day19"
-        ],
-        "scheduledManually": true,
-        "startTime": "2025-06-20 07:00:00",
-        "endTime": "2025-06-21 07:00:00"
-      },
-      {
-        "id": "harvester_hype2",
-        "slot": "RightTop",
-        "scheduledManually": true,
-        "startTime": "2025-06-20 07:00:00",
-        "endTime": "2025-06-21 07:00:00"
-      },
-      {
-        "id": "solstice_day5",
-        "slot": "LeftExtraBottom",
-        "customContents": [
-          "solstice2025_day5_10",
-          "solstice2025_day5_30",
-          "solstice2025_day5_100"
-        ],
-        "scheduledManually": true,
-        "startTime": "2025-06-20 07:00:00",
-        "endTime": "2025-06-21 07:00:00"
-      },
-      {
-        "id": "dragon_double_snowys_treasure",
-        "slot": "RightTop",
-        "startTime": "2025-06-20 07:00:00",
-        "endTime": "2025-06-22 07:00:00"
-      },
-      {
-        "id": "atlantis_calendar",
-        "slot": "RightExtraTop",
-        "scheduledManually": true,
-        "startTime": "2025-06-20 07:00:00",
-        "endTime": "2025-06-24 07:00:00"
-      },
-      {
-        "id": "superelemental_yellow_calendar",
-        "slot": "LeftExtraTop",
-        "scheduledManually": true,
-        "startTime": "2025-06-20 07:00:00",
-        "endTime": "2025-06-24 07:00:00"
-      },
-      {
-        "id": "beach_10_30",
-        "slot": "LeftTop",
-        "customContents": [
-          "seasonalcalendar_10_day20",
-          "seasonalcalendar_30_day20"
-        ],
-        "scheduledManually": true,
-        "startTime": "2025-06-21 07:00:00",
-        "endTime": "2025-06-22 07:00:00"
-      },
-      {
-        "id": "com.smallgiantgames.empires.triple11_arctic",
-        "slot": "RightTop",
-        "scheduledManually": true,
-        "startTime": "2025-06-21 07:00:00",
-        "endTime": "2025-06-22 07:00:00"
-      },
-      {
-        "id": "solstice_day6",
-        "slot": "LeftExtraBottom",
-        "customContents": [
-          "solstice2025_day6_3",
-          "solstice2025_day6_25",
-          "solstice2025_day6_100"
-        ],
-        "scheduledManually": true,
-        "startTime": "2025-06-21 07:00:00",
-        "endTime": "2025-06-22 07:00:00"
-      },
-      {
-        "id": "ascensioncrystalsoffer",
-        "slot": "LeftBottom",
-        "scheduledManually": true,
-        "startTime": "2025-06-21 07:00:00",
-        "endTime": "2025-06-23 07:00:00"
-      },
-      {
-        "id": "dragon_owlfords",
-        "slot": "RightBottom",
-        "startTime": "2025-06-21 07:00:00",
-        "endTime": "2025-06-23 07:00:00"
-      },
-      {
-        "id": "beach_free_10",
-        "slot": "LeftTop",
-        "customContents": [
-          "seasonalcalendar_free_day21",
-          "seasonalcalendar_10_day38"
-        ],
-        "scheduledManually": true,
-        "startTime": "2025-06-22 07:00:00",
-        "endTime": "2025-06-23 07:00:00"
-      },
-      {
-        "id": "solstice_day7",
-        "slot": "LeftExtraBottom",
-        "customContents": [
-          "solstice2025_day7_5",
-          "solstice2025_day7_30",
-          "solstice2025_day7_100"
-        ],
-        "scheduledManually": true,
-        "startTime": "2025-06-22 07:00:00",
-        "endTime": "2025-06-23 07:00:00"
-      },
-      {
-        "id": "dragon_dragon_magic",
-        "slot": "LeftTop",
-        "startTime": "2025-06-22 07:00:00",
-        "endTime": "2025-06-24 07:00:00"
-      },
-      {
-        "id": "beach_5_10",
-        "slot": "LeftTop",
-        "customContents": [
-          "seasonalcalendar_5_day22",
-          "seasonalcalendar_10_day22"
-        ],
-        "scheduledManually": true,
-        "startTime": "2025-06-23 07:00:00",
-        "endTime": "2025-06-24 07:00:00"
-      },
-      {
-        "id": "com.smallgiantgames.empires.double_covenant",
-        "slot": "RightMiddle",
-        "scheduledManually": true,
-        "startTime": "2025-06-23 07:00:00",
-        "endTime": "2025-06-24 07:00:00"
-      },
-      {
-        "id": "step_up_endless",
-        "slot": "RightTop",
-        "scheduledManually": true,
-        "startTime": "2025-06-23 07:00:00",
-        "endTime": "2025-06-24 07:00:00"
-      },
-      {
-        "id": "dragon_select_asc3_stormcaller",
-        "slot": "RightTop",
-        "startTime": "2025-06-23 07:00:00",
-        "endTime": "2025-06-25 07:00:00"
-      },
-      {
-        "id": "triple_alpha",
-        "slot": "RightBottom",
-        "scheduledManually": true,
-        "startTime": "2025-06-23 07:00:00",
-        "endTime": "2025-06-25 07:00:00"
-      },
-      {
-        "id": "beach_10_30",
-        "slot": "LeftTop",
-        "customContents": [
-          "seasonalcalendar_10_day23",
-          "seasonalcalendar_30_day23"
-        ],
-        "scheduledManually": true,
-        "startTime": "2025-06-24 07:00:00",
-        "endTime": "2025-06-25 07:00:00"
-      },
-      {
-        "id": "com.smallgiantgames.empires.double_covenant2",
-        "slot": "RightTop",
-        "scheduledManually": true,
-        "startTime": "2025-06-24 07:00:00",
-        "endTime": "2025-06-25 07:00:00"
-      },
-      {
-        "id": "dragon_festival",
-        "slot": "LeftExtraTop",
-        "scheduledManually": true,
-        "startTime": "2025-06-24 07:00:00",
-        "endTime": "2025-06-26 07:00:00"
-      },
-      {
-        "id": "dragon_triple_majestic",
-        "slot": "RightBottom",
-        "startTime": "2025-06-24 07:00:00",
-        "endTime": "2025-06-26 07:00:00"
-      },
-      {
-        "id": "goblins_calendar",
-        "slot": "RightExtraTop",
-        "scheduledManually": true,
-        "startTime": "2025-06-24 07:00:00",
-        "endTime": "2025-06-28 07:00:00"
-      },
-      {
-        "id": "beach_5_10",
-        "slot": "LeftTop",
-        "customContents": [
-          "seasonalcalendar_5_day24",
-          "seasonalcalendar_10_day24"
-        ],
-        "scheduledManually": true,
-        "startTime": "2025-06-25 07:00:00",
-        "endTime": "2025-06-26 07:00:00"
-      },
-      {
-        "id": "com.smallgiantgames.empires.double_covenant",
-        "slot": "RightTop",
-        "scheduledManually": true,
-        "startTime": "2025-06-25 07:00:00",
-        "endTime": "2025-06-26 07:00:00"
-      },
-      {
-        "id": "unlock_rocket",
-        "slot": "RightBottom",
-        "scheduledManually": true,
-        "startTime": "2025-06-25 07:00:00",
-        "endTime": "2025-06-26 07:00:00"
-      },
-      {
-        "id": "aethercrystalsoffer2",
-        "slot": "LeftBottom",
-        "scheduledManually": true,
-        "startTime": "2025-06-25 07:00:00",
-        "endTime": "2025-06-27 07:00:00"
-      },
-      {
-        "id": "com.smallgiantgames.empires.selectable_ascension_4",
-        "slot": "ShopOnly",
-        "scheduledManually": true,
-        "startTime": "2025-06-25 07:00:00",
-        "endTime": "2025-06-27 07:00:00"
-      },
-      {
-        "id": "dragon_silver_coins",
-        "slot": "LeftBottom",
-        "startTime": "2025-06-25 07:00:00",
-        "endTime": "2025-06-27 07:00:00"
-      },
-      {
-        "id": "ancient_dragon_calendar",
-        "slot": "LeftExtraTop",
-        "scheduledManually": true,
-        "startTime": "2025-06-25 07:00:00",
-        "endTime": "2025-06-29 07:00:00"
-      },
-      {
-        "id": "alliancequest_calendar",
-        "slot": "LeftExtraBottom",
-        "scheduledManually": true,
-        "startTime": "2025-06-25 07:00:00",
-        "endTime": "2025-06-30 07:00:00"
-      },
-      {
-        "id": "beach_10_30",
-        "slot": "LeftTop",
-        "customContents": [
-          "seasonalcalendar_10_day25",
-          "seasonalcalendar_30_day25"
-        ],
-        "scheduledManually": true,
-        "startTime": "2025-06-26 07:00:00",
-        "endTime": "2025-06-27 07:00:00"
-      },
-      {
-        "id": "com.smallgiantgames.empires.double_covenant2",
-        "slot": "RightTop",
-        "scheduledManually": true,
-        "startTime": "2025-06-26 07:00:00",
-        "endTime": "2025-06-27 07:00:00"
-      },
-      {
-        "id": "dragon_flaming",
-        "slot": "RightBottom",
-        "startTime": "2025-06-26 07:00:00",
-        "endTime": "2025-06-28 07:00:00"
-      },
-      {
-        "id": "mastertraineroffer2",
-        "slot": "RightBottom",
-        "scheduledManually": true,
-        "startTime": "2025-06-26 07:00:00",
-        "endTime": "2025-06-28 07:00:00"
-      },
-      {
-        "id": "legendary_troop_calendar",
-        "slot": "RightExtraBottom",
-        "scheduledManually": true,
-        "startTime": "2025-06-26 07:00:00",
-        "endTime": "2025-06-29 07:00:00"
-      },
-      {
-        "id": "tales1_calendar",
-        "slot": "RightMiddle",
-        "scheduledManually": true,
-        "startTime": "2025-06-26 07:00:00",
-        "endTime": "2025-06-30 07:00:00"
-      },
-      {
-        "id": "beach_5_100",
-        "slot": "LeftTop",
-        "customContents": [
-          "seasonalcalendar_5_day26",
-          "seasonalcalendar_100_day26"
-        ],
-        "scheduledManually": true,
-        "startTime": "2025-06-27 07:00:00",
-        "endTime": "2025-06-28 07:00:00"
-      },
-      {
-        "id": "dragon_double_snowys_treasure",
-        "slot": "RightTop",
-        "startTime": "2025-06-27 07:00:00",
-        "endTime": "2025-06-29 07:00:00"
-      },
-      {
-        "id": "step_up_fire",
-        "slot": "RightTop",
-        "scheduledManually": true,
-        "startTime": "2025-06-27 07:00:00",
-        "endTime": "2025-06-29 07:00:00"
-      },
-      {
-        "id": "beach_10_30",
-        "slot": "LeftTop",
-        "customContents": [
-          "seasonalcalendar_10_day27",
-          "seasonalcalendar_30_day27"
-        ],
-        "scheduledManually": true,
-        "startTime": "2025-06-28 07:00:00",
-        "endTime": "2025-06-29 07:00:00"
-      },
-      {
-        "id": "double_wilderness",
-        "slot": "RightExtraTop",
-        "scheduledManually": true,
-        "startTime": "2025-06-28 07:00:00",
-        "endTime": "2025-06-29 07:00:00"
-      },
-      {
-        "id": "emblemvault",
-        "slot": "LeftExtraTop",
-        "scheduledManually": true,
-        "startTime": "2025-06-28 07:00:00",
-        "endTime": "2025-06-29 11:00:00"
-      },
-      {
-        "id": "offer_elementalpurple",
-        "slot": "ShopOnly",
-        "scheduledManually": true,
-        "startTime": "2025-06-28 07:00:00",
-        "endTime": "2025-06-29 19:00:00"
-      },
-      {
-        "id": "ascensioncrystalsoffer",
-        "slot": "LeftBottom",
-        "scheduledManually": true,
-        "startTime": "2025-06-28 07:00:00",
-        "endTime": "2025-06-30 07:00:00"
-      },
-      {
-        "id": "dragon_owlfords",
-        "slot": "RightBottom",
-        "startTime": "2025-06-28 07:00:00",
-        "endTime": "2025-06-30 07:00:00"
-      },
-      {
-        "id": "beach_free_10",
-        "slot": "LeftTop",
-        "customContents": [
-          "seasonalcalendar_free_day28",
-          "seasonalcalendar_10_day22"
-        ],
-        "scheduledManually": true,
-        "startTime": "2025-06-29 07:00:00",
-        "endTime": "2025-06-30 07:00:00"
-      },
-      {
-        "id": "double_wilderness_2",
-        "slot": "RightExtraTop",
-        "scheduledManually": true,
-        "startTime": "2025-06-29 07:00:00",
-        "endTime": "2025-06-30 07:00:00"
-      },
-      {
-        "id": "dragon_dragon_magic",
-        "slot": "LeftTop",
-        "startTime": "2025-06-29 07:00:00",
-        "endTime": "2025-07-01 07:00:00"
-      },
-      {
-        "id": "m_emblemvault",
-        "slot": "RightBottom",
-        "scheduledManually": true,
-        "startTime": "2025-06-29 07:00:00",
-        "endTime": "2025-07-01 07:00:00"
-      },
-      {
-        "id": "beach_5_10",
-        "slot": "LeftTop",
-        "customContents": [
-          "seasonalcalendar_5_day29",
-          "seasonalcalendar_10_day29"
-        ],
-        "scheduledManually": true,
-        "startTime": "2025-06-30 07:00:00",
-        "endTime": "2025-07-01 07:00:00"
-      },
-      {
-        "id": "double_wilderness",
-        "slot": "RightExtraTop",
-        "scheduledManually": true,
-        "startTime": "2025-06-30 07:00:00",
-        "endTime": "2025-07-01 07:00:00"
-      },
-      {
-        "id": "dragon_select_asc3_stormcaller",
-        "slot": "RightTop",
-        "startTime": "2025-06-30 07:00:00",
-        "endTime": "2025-07-02 07:00:00"
-      },
-      {
-        "id": "selectable_limitbreak",
-        "slot": "LeftBottom",
-        "scheduledManually": true,
-        "startTime": "2025-06-30 07:00:00",
-        "endTime": "2025-07-02 07:00:00"
-      },
-      {
-        "id": "com.smallgiantgames.empires.threekingdomsoffer",
-        "slot": "RightTop",
-        "scheduledManually": true,
-        "startTime": "2025-06-30 07:00:00",
-        "endTime": "2025-07-05 07:00:00"
-      },
       {
         "id": "beach_10_100",
         "slot": "LeftTop",
@@ -90679,13 +89109,6 @@
         "scheduledManually": true,
         "startTime": "2025-07-16 07:00:00",
         "endTime": "2025-07-20 07:00:00"
-      },
-      {
-        "id": "dynamic_offer_42_blue_klaern",
-        "slot": "RightBottom",
-        "scheduledManually": true,
-        "startTime": "2025-07-17 07:00:00",
-        "endTime": "2025-07-18 06:30:00"
       },
       {
         "id": "dynamic_offer_63_construct_shacklebolt",
@@ -91545,13 +89968,6 @@
         "endTime": "2025-08-05 07:00:00"
       },
       {
-        "id": "dragon_dynamic_01_marmora",
-        "slot": "LeftExtraTop",
-        "scheduledManually": true,
-        "startTime": "2025-08-03 10:00:00",
-        "endTime": "2025-08-04 06:30:00"
-      },
-      {
         "id": "dynamic_offer_37_blue_esme",
         "slot": "LeftBottom",
         "scheduledManually": true,
@@ -91604,6 +90020,13 @@
         "endTime": "2025-08-06 07:00:00"
       },
       {
+        "id": "dynamic_offer_42_blue_klaern",
+        "slot": "RightExtraTop",
+        "scheduledManually": true,
+        "startTime": "2025-08-04 11:30:00",
+        "endTime": "2025-08-05 06:30:00"
+      },
+      {
         "id": "dynamic_offer_40_red_yang_mai",
         "slot": "RightMiddle",
         "scheduledManually": true,
@@ -91634,6 +90057,13 @@
         "scheduledManually": true,
         "startTime": "2025-08-05 07:00:00",
         "endTime": "2025-08-06 07:00:00"
+      },
+      {
+        "id": "dragon_dynamic_01_marmora",
+        "slot": "LeftTop",
+        "scheduledManually": true,
+        "startTime": "2025-08-05 07:00:00",
+        "endTime": "2025-08-07 06:30:00"
       },
       {
         "id": "dragon_triple_majestic",
@@ -112212,5 +110642,5 @@
       }
     ]
   },
-  "shopConfigId": 2119450984
+  "shopConfigId": 2898588454
 }

@@ -23,7 +23,7 @@
             "Bypassers"
         ],
         "source": "secretsummon",
-        "Release date": "",
+        "Release date": "2025-08-05",
         "star": 5,
         "power": 1225,
         "attack": 1268,
@@ -51,6 +51,8 @@
         "family": "mimic",
         "image": "https://imgur.com/Green.jpg",
         "costume_id": 0,
+        "specialId": "gorging_chew_green",
+        "heroId": "mimic_ascension_item_green",
         "lb1": {
             "attack": 1367,
             "defense": 1367,
@@ -114,6 +116,8 @@
         "family": "mimic",
         "image": "https://imgur.com/Yellow.jpg",
         "costume_id": 0,
+        "specialId": "gorging_chew_yellow",
+        "heroId": "mimic_ascension_item_yellow",
         "lb1": {
             "attack": 1367,
             "defense": 1367,
@@ -177,6 +181,8 @@
         "family": "mimic",
         "image": "https://imgur.com/Purple.jpg",
         "costume_id": 0,
+        "specialId": "gorging_chew_purple",
+        "heroId": "mimic_ascension_item_purple",
         "lb1": {
             "attack": 1367,
             "defense": 1367,
