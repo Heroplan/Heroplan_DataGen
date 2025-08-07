@@ -838,5 +838,7 @@
     "Status Effect Blocker 1": "單體狀態效果格擋",
     "Devouring Goo 1": "對單個目標施放吞噬黏液",
     "Hit Random 3": "隨機攻擊3個目標",
-    "Dodge Buff All": "全體閃避增益"
+    "Dodge Buff All": "全體閃避增益",
+    "Frostfall Ward Buff All": "全體霜降護體增益",
+    "Critical Chance All": "全體暴擊機率"
 }

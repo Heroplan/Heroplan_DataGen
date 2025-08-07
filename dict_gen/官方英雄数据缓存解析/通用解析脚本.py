@@ -1,11 +1,11 @@
 # Universal Interactive Binary Parser & Translator
 #
 # The definitive all-in-one tool for parsing, transforming, and localizing
-# serialized binary files. Supports a context-aware workflow for advanced
-# multi-file data linkage (e.g., hero-costume name composition).
+# serialized binary files. Features a fully adaptive, dual-mode context-aware
+# workflow for both individual files and entire directories.
 #
 # Author: Your Name Here (with AI collaboration)
-# Version: 11.3.0 (Context-Aware Workflow)
+# Version: 15.3.0 (Dual-Mode Context & Final)
 # Last Updated: 2025-07-30
 
 import json
@@ -30,20 +30,11 @@ REPLACEMENT_RULES = {
         {
             'file': 'heroes_name_fancy_cn.txt', 
             'prefix': 'heroes.name_fancy.',
-            # 新的复合规则，将在处理非 characters 文件时，利用缓存进行查找
-            'compound_rule': {
-                'trigger_keyword': '_costume',
-                'separator': '-'
-            }
+            'compound_rule': { 'trigger_keyword': '_costume', 'separator': '-' }
         }
     ],
-    ('families', 'featuredFamilies','family'):[ 
-        {'file': 'family_title_cn.txt', 'prefix': 'herocard.family.title.'}
-    ],
-    ('eventId', 'origin','lotteryProductType'): [
-        {'file': 'event_name_cn.txt', 'prefix': 'event.name.'},
-        {'file': 'lottery_title_cn.txt', 'prefix': 'lottery.title.'}
-    ],
+    ('families', 'featuredFamilies','family'):[{'file': 'family_title_cn.txt', 'prefix': 'herocard.family.title.'}],
+    ('eventId', 'origin','lotteryProductType'): [{'file': 'event_name_cn.txt', 'prefix': 'event.name.'},{'file': 'lottery_title_cn.txt', 'prefix': 'lottery.title.'}],
     ('aetherGift',): [{'file': 'aether_power_en.txt', 'prefix': 'limitbreak.gift.title.'}],
     ('manaSpeedId',): [{'file': 'base_values_cn.txt', 'prefix': 'base.'}],
     ('classType',): [{'file': 'base_values_cn.txt', 'prefix': 'base.'}],
@@ -55,7 +46,6 @@ REPLACEMENT_RULES = {
 # --- 全局变量与辅助函数 ---
 FLATTENED_REPLACEMENT_RULES = {}
 LOOKUP_TABLES = {}
-# --- 新增：上下文缓存 ---
 CHARACTERS_CACHE = {}
 
 def flatten_rules(rules_dict):
@@ -93,27 +83,18 @@ def process_single_replacement(value, rules_list):
     if not isinstance(value, str): return value
     lower_value = value.lower()
     for rule in rules_list:
-        # --- 增强：复合规则逻辑 (利用上下文缓存) ---
         compound_rule = rule.get('compound_rule')
         if compound_rule and compound_rule['trigger_keyword'] in lower_value and CHARACTERS_CACHE:
             trigger = compound_rule['trigger_keyword']
             base_id = lower_value.split(trigger)[0]
-            
-            # 1. 在缓存中查找本体名称
             base_name = CHARACTERS_CACHE.get(base_id)
-            
-            # 2. 在文件中查找服装名称
             costume_table = LOOKUP_TABLES.get(rule['file'])
             costume_name = value
             if costume_table:
                 costume_name = costume_table.get(rule['prefix'] + lower_value, value)
-
-            # 3. 组合结果
             if base_name and costume_name != value:
                 return f"{base_name}{compound_rule.get('separator', '-')}{costume_name}"
-            return costume_name # 未找到本体，则只返回服装的查找结果
-
-        # --- 常规规则逻辑 ---
+            return costume_name
         else:
             table = LOOKUP_TABLES.get(rule['file'])
             if table:
@@ -211,63 +192,90 @@ def get_start_offset(data, filename):
     if data and data[0] == 0x0B: return 1
     return 0
 
-def process_path(path):
+def run_processing_job(files_to_process, output_dir):
     global CHARACTERS_CACHE
+    CHARACTERS_CACHE = {}
+
+    char_file_path = None
+    for f in files_to_process:
+        if 'characters' in os.path.basename(f).lower():
+            char_file_path = f
+            break
+            
+    # --- 关键升级：双模态上下文加载 ---
+    if char_file_path:
+        # 模式A：文件夹处理，动态生成上下文
+        print("\n--- 检测到 characters 文件，将优先处理以建立上下文 ---")
+        # process_file 现在返回是否成功，以便我们知道是否要加载缓存
+        if process_file(char_file_path, output_dir, is_context_builder=True):
+            # 成功生成了新的json，现在从它加载缓存
+            char_json_path = os.path.join(output_dir, os.path.splitext(os.path.basename(char_file_path))[0] + "_cn.json")
+            try:
+                with open(char_json_path, 'r', encoding='utf-8') as f:
+                    char_data = json.load(f)
+                print("--- 正在填充英雄名称上下文缓存... ---")
+                for original_id, hero_data in char_data.items():
+                    translated_name = hero_data.get('id')
+                    if translated_name:
+                        CHARACTERS_CACHE[original_id.lower()] = translated_name
+                print(f"✅ 缓存填充完毕，共 {len(CHARACTERS_CACHE)} 条记录。")
+            except Exception as e:
+                print(f"❌ 填充上下文缓存时出错: {e}")
+    else:
+        # 模式B：单个文件处理，尝试加载全局备用缓存
+        print("\n--- 未检测到 characters 文件，尝试加载全局备用缓存... ---")
+        try:
+            with open('characters_cn.json', 'r', encoding='utf-8') as f:
+                char_data = json.load(f)
+            for original_id, hero_data in char_data.items():
+                translated_name = hero_data.get('id')
+                if translated_name:
+                    CHARACTERS_CACHE[original_id.lower()] = translated_name
+            print(f"✅ 成功从 'characters_cn.json' 加载了 {len(CHARACTERS_CACHE)} 条备用上下文记录。")
+        except FileNotFoundError:
+            print("🟡 全局备用缓存 'characters_cn.json' 未找到，复合名称翻译将不可用。")
+        except Exception as e:
+            print(f"❌ 加载全局备用缓存时出错: {e}")
+
+    for filepath in files_to_process:
+        if filepath == char_file_path: continue # 已经处理过，跳过
+        process_file(filepath, output_dir, is_context_builder=False)
+
+def process_path(path):
     path = path.strip().strip('"')
     if not os.path.exists(path):
         print(f"❌ 错误: 路径不存在 '{path}'"); return
     
-    files_to_process, output_dir = [], ""
+    files_to_process, base_dir = [], ""
     if os.path.isdir(path):
-        print(f"\n--- 正在扫描文件夹: '{os.path.basename(path)}' ---")
-        output_dir = os.path.join(path, 'json_cn')
-        # 建立文件列表，并确保 'characters' 优先
-        temp_files = []
-        for item in os.listdir(path):
-            full_item_path = os.path.join(path, item)
-            if os.path.isfile(full_item_path) and not full_item_path.endswith('.py'):
-                if 'characters' in item.lower():
-                    files_to_process.insert(0, full_item_path) # 插入到队首
-                else:
-                    temp_files.append(full_item_path)
-        files_to_process.extend(temp_files)
+        base_dir = path
+        files_to_process = [os.path.join(path, item) for item in os.listdir(path) if os.path.isfile(os.path.join(path, item)) and not item.endswith('.py')]
     elif os.path.isfile(path):
+        base_dir = os.path.dirname(path)
         files_to_process.append(path)
-        output_dir = os.path.join(os.path.dirname(path), 'json_cn')
 
+    if not files_to_process:
+        print("🟡 未找到可处理的文件。")
+        return
+
+    output_dir = os.path.join(base_dir, 'json_cn')
     os.makedirs(output_dir, exist_ok=True)
-    if os.path.isdir(path): print(f"所有JSON文件将被保存在: '{output_dir}'")
-    
-    # 在处理任何文件之前，重置缓存
-    CHARACTERS_CACHE = {}
-    
-    for filepath in files_to_process:
-        process_file(filepath, output_dir)
+    print(f"\n--- 正在处理任务，所有JSON文件将被保存在: '{output_dir}' ---")
+    run_processing_job(files_to_process, output_dir)
 
-def process_file(filepath, output_dir):
-    global CHARACTERS_CACHE
+def process_file(filepath, output_dir, is_context_builder=False):
     basename = os.path.basename(filepath)
     output_filename = os.path.join(output_dir, os.path.splitext(basename)[0] + "_cn.json")
     print(f"\n--- 正在处理文件: '{basename}' ---")
     try:
-        with open(filepath, 'rb') as f:
-            binary_data = f.read()
+        with open(filepath, 'rb') as f: binary_data = f.read()
         print(f"文件读取成功，共 {len(binary_data)} 字节。")
-        if not binary_data:
-            print("🟡 文件为空，已跳过。"); return
+        if not binary_data: print("🟡 文件为空，已跳过。"); return False
         start_offset = get_start_offset(binary_data, basename)
         print(f"确定起始解析偏移量为: {start_offset}")
         
-        # 'characters' 文件有特殊的顶层结构
         if 'characters' in basename.lower():
             parsed_data, final_offset = parse_characters_file(binary_data, start_offset)
-            # --- 关键：处理完 characters 后，立即填充上下文缓存 ---
-            print("--- 正在填充英雄名称上下文缓存... ---")
-            for original_id, hero_data in parsed_data.items():
-                translated_name = hero_data.get('id')
-                if translated_name:
-                    CHARACTERS_CACHE[original_id] = translated_name
-            print(f"✅ 缓存填充完毕，共 {len(CHARACTERS_CACHE)} 条记录。")
         else:
             parsed_data, final_offset = parse_object(binary_data, start_offset)
             
@@ -276,38 +284,35 @@ def process_file(filepath, output_dir):
         with open(output_filename, 'w', encoding='utf-8') as f:
             json.dump(parsed_data, f, indent=2, ensure_ascii=False)
         print(f"✅ 操作成功！结果已保存到 '{output_filename}'")
+        return True
     except Exception as e:
-        print(f"❌ 在处理 '{basename}' 过程中发生错误: {e}")
-        traceback.print_exc()
+        print(f"❌ 在处理 '{basename}' 过程中发生错误: {e}"); traceback.print_exc()
+        return False
 
 def parse_characters_file(data, start_offset):
     parsed_data, offset = {}, start_offset
     while offset < len(data):
         if data[offset] != 0x0B: break
-        
-        # 预读原始ID以用作顶层键
         temp_offset = offset + 1 
-        id_field_len = data[temp_offset]; temp_offset +=1
-        id_field_name = data[temp_offset:temp_offset+id_field_len].decode('utf-8', 'ignore')
         original_id = f"unknown_id_{offset}"
-        if id_field_name == 'id':
-            temp_offset += id_field_len
-            id_type_code = data[temp_offset]; temp_offset += 1
-            if id_type_code == 0x08:
-                id_len = data[temp_offset]; temp_offset += 1
-                original_id = data[temp_offset:temp_offset+id_len].decode('utf-8', 'ignore')
-
-        # 正常解析和翻译整个对象
+        try:
+            id_field_len = data[temp_offset]; temp_offset +=1
+            if data[temp_offset:temp_offset+id_field_len].decode('utf-8', 'ignore') == 'id':
+                temp_offset += id_field_len
+                id_type_code = data[temp_offset]; temp_offset += 1
+                if id_type_code == 0x08:
+                    id_len = data[temp_offset]; temp_offset += 1
+                    original_id = data[temp_offset:temp_offset+id_len].decode('utf-8', 'ignore')
+        except Exception: pass
         offset += 1
         hero_obj, offset = parse_object(data, offset)
         parsed_data[original_id] = hero_obj
-             
     return parsed_data, offset
 
 def main():
     global FLATTENED_REPLACEMENT_RULES
     print("=====================================================")
-    print("✅ 通用二进制解析器 v15.0 (上下文工作流)")
+    print("✅ 通用二进制解析器 v15.3 (双模态上下文)")
     print("=====================================================")
     
     FLATTENED_REPLACEMENT_RULES = flatten_rules(REPLACEMENT_RULES)

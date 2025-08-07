@@ -1,5 +1,6 @@
 {
   "otherConfig": {
+    "abCode": "ftue_energy_flow_active",
     "logic": {
       "dragonAscension": {
         "characterRecipes": [
@@ -2746,8 +2747,8 @@
             "advertisedHero": "moth_lilareine",
             "featuredHeroes": [
               "莉拉瑞恩",
-              "萨丁皮门特",
-              "淳绮罗翼"
+              "佩普布勒",
+              "奥瑞卡克"
             ],
             "eventBonus": "event_hero_bonus_alliance_quest",
             "startTime": "2025-08-14 07:00:00",
@@ -77780,6 +77781,51 @@
                 ]
               }
             ]
+          },
+          {
+            "id": "festival_b_2025",
+            "statBonuses": [
+              {
+                "bonusLevels": []
+              },
+              {
+                "bonusLevels": []
+              },
+              {
+                "bonusLevels": []
+              },
+              {
+                "bonusLevels": []
+              },
+              {
+                "bonusLevels": [
+                  {
+                    "attackBonusPerMil": 450,
+                    "defenseBonusPerMil": 450,
+                    "healthBonusPerMil": 470,
+                    "manaBonusPerMil": 10
+                  },
+                  {
+                    "attackBonusPerMil": 500,
+                    "defenseBonusPerMil": 500,
+                    "healthBonusPerMil": 520,
+                    "manaBonusPerMil": 20
+                  },
+                  {
+                    "attackBonusPerMil": 550,
+                    "defenseBonusPerMil": 550,
+                    "healthBonusPerMil": 570,
+                    "manaBonusPerMil": 30
+                  },
+                  {
+                    "attackBonusPerMil": 600,
+                    "defenseBonusPerMil": 600,
+                    "healthBonusPerMil": 620,
+                    "manaBonusPerMil": 50
+                  }
+                ]
+              }
+            ]
           }
         ],
         "enabled": true
@@ -79495,8 +79541,8 @@
     "languageSelectionEnabled": true,
     "maxVersionToShowUpdateOutReminderAndroid": "78.0.2",
     "maxVersionToShowUpdateOutReminderIos": "78.0.2",
-    "maxVersionToShowUpdateOutReminderAndroidStandalone": "78.0.2",
-    "standaloneNewVersionRolloutPercentage": 100,
+    "maxVersionToShowUpdateOutReminderAndroidStandalone": "78.0.4",
+    "standaloneNewVersionRolloutPercentage": 60,
     "fastClientLogFlushTimeSeconds": 5,
     "accountDeletionEnabled": true,
     "popupSuppression": {
@@ -79586,5 +79632,5 @@
     "criticalOperationPendingDelaySeconds": 3,
     "allowedCriticalOperationPendingCount": 3
   },
-  "otherConfigId": 4191826321
+  "otherConfigId": 4275115384
 }

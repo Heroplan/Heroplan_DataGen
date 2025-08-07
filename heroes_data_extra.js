@@ -29021,5 +29021,67 @@ window.allHeroesExtra = [
         "baseHealth": 1071,
         "specialId": "vicious_trap",
         "heroId": "outlaw_sun_erniang"
+    },
+    {
+        "name": "Snorri",
+        "element": "Green",
+        "rarity": 4,
+        "fancy name": "Dwarven Storyteller",
+        "Release date": "2025-08-06",
+        "AetherPower": "Fiend Resist",
+        "skill_types": [
+            "Snipers",
+            "Extra Damage Dealers",
+            "Bypassers",
+            "DoT Attackers",
+            "Debuffers (ATK)"
+        ],
+        "heroId": "tales2_snorri",
+        "baseAttack": 352,
+        "baseDefense": 340,
+        "baseHealth": 601,
+        "specialId": "bound_by_tales"
+    },
+    {
+        "name": "Ascension Mimic Nature",
+        "element": "Green",
+        "rarity": 5,
+        "fancy name": "Grinning Cache of Evil",
+        "Release date": "2025-08-05",
+        "AetherPower": "Bulwark",
+        "skill_types": [
+            "Healers (Special)",
+            "Minions Counters",
+            "AoE Attackers (Hit-3)",
+            "Mana Raisers",
+            "Immunity Providers",
+            "Ghost Form & Hiding",
+            "Bypassers"
+        ],
+        "heroId": "mimic_ascension_item_green",
+        "baseAttack": 616,
+        "baseDefense": 616,
+        "baseHealth": 1045,
+        "specialId": "gorging_chew_green"
+    },
+    {
+        "name": "Motsognir",
+        "element": "Yellow",
+        "rarity": 5,
+        "fancy name": "Dwarven Frontier Wildman",
+        "Release date": "2025-08-06",
+        "AetherPower": "Regen",
+        "skill_types": [
+            "Damage Reducers",
+            "Bypassers",
+            "Buffers (ATK)",
+            "DoT Attackers",
+            "Debuffers (ATK)"
+        ],
+        "heroId": "tales2_motsognir",
+        "baseAttack": 547,
+        "baseDefense": 570,
+        "baseHealth": 1145,
+        "specialId": "stalwart_rally"
     }
 ];
