@@ -43262,7 +43262,7 @@
         "statusEffect": "Burn",
         "id": "burn_glass_nashgar",
         "buff": "MinorDebuff",
-        "damageMultiplierPerMil": 25,
+        "damageMultiplierPerMil": 50,
         "damageMultiplierIncrementPerLevelPerMil": 2
       },
       {
@@ -50070,7 +50070,7 @@
         "statusEffect": "MoonriseWard",
         "id": "ice_ward_motsognir",
         "buff": "MinorBuff",
-        "fixedDamageModifier": 65076,
+        "fixedDamageModifier": 64976,
         "fixedDamageModifierPerLevel": 236,
         "validEffectSources": [
           "SpecialSkill",
@@ -50660,14 +50660,14 @@
         "statusEffect": "Frost",
         "id": "frost_single_zengar_costume",
         "buff": "MinorDebuff",
-        "damageMultiplierPerMil": 80,
+        "damageMultiplierPerMil": 210,
         "damageMultiplierIncrementPerLevelPerMil": 10
       },
       {
         "statusEffect": "Frost",
         "id": "frost_nearby_zengar_costume",
         "buff": "MinorDebuff",
-        "damageMultiplierPerMil": 190,
+        "damageMultiplierPerMil": 120,
         "damageMultiplierIncrementPerLevelPerMil": 10
       },
       {
@@ -51230,7 +51230,7 @@
         "statusEffect": "CritModifier",
         "id": "crit_increase_motsognir",
         "buff": "MinorBuff",
-        "critIncrementPerMil": 260,
+        "critIncrementPerMil": 410,
         "incrementPerLevelPerMil": 20
       },
       {
@@ -51305,7 +51305,7 @@
         "statusEffect": "DefenseModifier",
         "id": "basic_defense_nettletail",
         "buff": "MinorBuff",
-        "defenseMultiplierPerMil": 1280,
+        "defenseMultiplierPerMil": 1180,
         "defenseMultiplierIncrementPerLevelPerMil": 10
       },
       {
@@ -51342,10 +51342,10 @@
         "statusEffect": "UnderWater",
         "id": "underwater_with_absorb_healing_riverfang",
         "buff": "MinorDebuff",
-        "damageMultiplierPerMil": 64,
+        "damageMultiplierPerMil": 120,
         "damageMultiplierIncrementPerLevelPerMil": 3,
         "additionalCasterSideEffect": "Heal",
-        "additionalCasterSideEffectPowerPerMil": 300,
+        "additionalCasterSideEffectPowerPerMil": 500,
         "additionalCasterSideEffectTargetType": "Single"
       },
       {
@@ -51483,7 +51483,7 @@
         "statusEffect": "FixedHealthRecovery",
         "id": "hp_recovery_vaishali_costume",
         "buff": "MinorBuff",
-        "healthPoints": 144,
+        "healthPoints": 171,
         "healthPointsIncrementPerLevel": 9
       },
       {
@@ -51504,7 +51504,7 @@
         "statusEffect": "AttackModifier",
         "id": "stun_vaishali_costume",
         "buff": "MinorDebuff",
-        "attackMultiplierPerMil": 660,
+        "attackMultiplierPerMil": 710,
         "attackMultiplierIncrementPerLevelPerMil": 226
       },
       {
@@ -60348,7 +60348,7 @@
             "id": "damage_clown_costume"
           }
         ],
-        "healthPerMil": 300,
+        "healthPerMil": 200,
         "monsterHealthPerMil": 50
       },
       {
@@ -63414,7 +63414,7 @@
         "effectTriggers": [
           "Turn"
         ],
-        "attackPercentPerMil": 440
+        "attackPercentPerMil": 300
       },
       {
         "effectType": "Damage",
@@ -76731,5 +76731,5 @@
       "SharedDamage"
     ]
   },
-  "battleConfigId": 29852659
+  "battleConfigId": 4175771665
 }

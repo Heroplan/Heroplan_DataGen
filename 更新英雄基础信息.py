@@ -160,11 +160,14 @@ def main_sync_process():
                     
                     # --- 关键新增：写入 heroId 字段 ---
                     hero_extra['heroId'] = original_id
-                    
+
                     hero_extra['baseAttack'] = matched_char.get('baseAttack')
                     hero_extra['baseDefense'] = matched_char.get('baseDefense')
                     hero_extra['baseHealth'] = matched_char.get('baseHealth')
                     hero_extra['specialId'] = matched_char.get('specialId')
+                    hero_extra['passiveSkills'] = matched_char.get('passiveSkills')
+                    hero_extra['costumeBonusPassiveSkillIds'] = matched_char.get('costumeBonusPassiveSkillIds')
+                    
                     if 'aetherGift' in matched_char: hero_extra['AetherPower'] = matched_char.get('aetherGift')
                     release_date_str = matched_char.get('canBeReceivedDate')
                     if release_date_str: hero_extra['Release date'] = release_date_str.split(' ')[0]

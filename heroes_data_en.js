@@ -17,6 +17,7 @@ window.allHeroes =
         "source": "S1 - Classic",
         "Release date": "2017-03-01",
         "specialId": "fierce_slash",
+        "passiveSkills": null,
         "heroId": "nordic_warrior",
         "star": 1,
         "power": 210,
@@ -49,6 +50,7 @@ window.allHeroes =
         "source": "S1 - Classic",
         "Release date": "2017-03-01",
         "specialId": "hacking_attack",
+        "passiveSkills": null,
         "heroId": "nordic_female_scout",
         "star": 1,
         "power": 210,
@@ -81,6 +83,7 @@ window.allHeroes =
         "source": "S1 - Classic",
         "Release date": "2017-03-01",
         "specialId": "defensive_tactics",
+        "passiveSkills": null,
         "heroId": "royal_pikeman",
         "star": 2,
         "power": 332,
@@ -113,6 +116,7 @@ window.allHeroes =
         "source": "S1 - Classic",
         "Release date": "2017-03-01",
         "specialId": "fierce_slash",
+        "passiveSkills": null,
         "heroId": "nordic_female_warrior",
         "star": 2,
         "power": 334,
@@ -145,6 +149,7 @@ window.allHeroes =
         "source": "S1 - Classic",
         "Release date": "2017-03-01",
         "specialId": "attack_rally",
+        "passiveSkills": null,
         "heroId": "dwarven_scout",
         "star": 2,
         "power": 333,
@@ -182,6 +187,10 @@ window.allHeroes =
         "source": "Tower - Magic",
         "Release date": "2025-04-17",
         "specialId": "sewing_back_together",
+        "passiveSkills": [
+            "reduce_big_minion_health",
+            "fly_magic_carpet"
+        ],
         "heroId": "magic_carpet_bertha",
         "star": 3,
         "power": 509,
@@ -247,6 +256,7 @@ window.allHeroes =
         "source": "Monthly Event - Springvale",
         "Release date": "2020-04-06",
         "specialId": "compact_lance",
+        "passiveSkills": null,
         "heroId": "easter_chick_jr",
         "star": 3,
         "power": 462,
@@ -310,6 +320,10 @@ window.allHeroes =
         "source": "Monster Island Summon",
         "Release date": "2022-08-25",
         "specialId": "hunting_ballad",
+        "passiveSkills": [
+            "hunters_mark_on_special",
+            "special_damage_reduction_monster_hunters"
+        ],
         "heroId": "monster_hunter_dawn",
         "star": 3,
         "power": 484,
@@ -379,6 +393,7 @@ window.allHeroes =
         "source": "Monthly Event - Winter",
         "Release date": "2020-12-01",
         "specialId": "northern_wanderer",
+        "passiveSkills": null,
         "heroId": "christmas_frosty",
         "star": 3,
         "power": 475,
@@ -437,6 +452,7 @@ window.allHeroes =
         "source": "S2 - Atlantis",
         "Release date": "2019-08-22",
         "specialId": "jungle_slash",
+        "passiveSkills": null,
         "heroId": "s2_croc_man",
         "star": 3,
         "power": 447,
@@ -495,6 +511,7 @@ window.allHeroes =
         "source": "S1 - Classic",
         "Release date": "2017-03-01",
         "specialId": "wolf_bite",
+        "passiveSkills": null,
         "heroId": "nordic_chained_werewolf",
         "star": 3,
         "power": 441,
@@ -555,6 +572,8 @@ window.allHeroes =
         "source": "Costume Quest",
         "Release date": "2021-01-18",
         "specialId": "wolf_bite",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null,
         "heroId": "nordic_chained_werewolf_costume_raccoon",
         "star": 3,
         "power": 470,
@@ -616,6 +635,10 @@ window.allHeroes =
         "source": "Costume Quest",
         "Release date": "2024-04-08",
         "specialId": "wolf_bite",
+        "passiveSkills": [
+            "toon_resist_debuffs_manareduction_dispels"
+        ],
+        "costumeBonusPassiveSkillIds": null,
         "heroId": "nordic_chained_werewolf_costume_cute",
         "star": 3,
         "power": 504,
@@ -680,6 +703,10 @@ window.allHeroes =
         "source": "Costume Quest",
         "Release date": "2025-06-18",
         "specialId": "wolf_bite",
+        "passiveSkills": [
+            "glass_reflect_debuffs"
+        ],
+        "costumeBonusPassiveSkillIds": null,
         "heroId": "nordic_chained_werewolf_costume_glass",
         "star": 3,
         "power": 513,
@@ -741,6 +768,7 @@ window.allHeroes =
         "source": "Challenge Festival I",
         "Release date": "2021-12-15",
         "specialId": "guardian_armor",
+        "passiveSkills": null,
         "heroId": "guardian_lemur",
         "star": 3,
         "power": 481,
@@ -799,6 +827,7 @@ window.allHeroes =
         "source": "S1 - Classic",
         "Release date": "2017-03-01",
         "specialId": "stone_skin",
+        "passiveSkills": null,
         "heroId": "royal_knight",
         "star": 3,
         "power": 441,
@@ -853,6 +882,8 @@ window.allHeroes =
         "source": "Costume Quest",
         "Release date": "2020-01-01",
         "specialId": "stone_skin",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null,
         "heroId": "royal_knight_costume_blacksmith",
         "star": 3,
         "power": 470,
@@ -911,6 +942,10 @@ window.allHeroes =
         "source": "Costume Quest",
         "Release date": "2024-09-08",
         "specialId": "stone_skin",
+        "passiveSkills": [
+            "toon_resist_debuffs_manareduction_dispels"
+        ],
+        "costumeBonusPassiveSkillIds": null,
         "heroId": "royal_knight_costume_cute",
         "star": 3,
         "power": 503,
@@ -967,6 +1002,9 @@ window.allHeroes =
         "source": "S4 - Wilderness",
         "Release date": "2021-03-25",
         "specialId": "healthiest_catch",
+        "passiveSkills": [
+            "increase_buff_duration"
+        ],
         "heroId": "s4_helo",
         "star": 3,
         "power": 478,
@@ -1027,6 +1065,10 @@ window.allHeroes =
         "source": "S4 - Wilderness",
         "Release date": "2023-12-07",
         "specialId": "healthiest_catch",
+        "passiveSkills": [
+            "increase_buff_duration"
+        ],
+        "costumeBonusPassiveSkillIds": null,
         "heroId": "s4_helo_costume_baker",
         "star": 3,
         "power": 488,
@@ -1087,6 +1129,9 @@ window.allHeroes =
         "source": "S5 - Dune",
         "Release date": "2022-04-21",
         "specialId": "disabling_decree",
+        "passiveSkills": [
+            "moon_extra_special_damage_and_mana_regen_debuff"
+        ],
         "heroId": "s5_jarif",
         "star": 3,
         "power": 483,
@@ -1149,6 +1194,13 @@ window.allHeroes =
         "source": "S5 - Dune",
         "Release date": "2025-03-17",
         "specialId": "disabling_decree",
+        "passiveSkills": [
+            "moon_extra_special_damage_and_mana_regen_debuff"
+        ],
+        "costumeBonusPassiveSkillIds": [
+            "resist_sand",
+            "iterate_passive_effects_on_special"
+        ],
         "heroId": "s5_jarif_costume_curator",
         "star": 3,
         "power": 495,
@@ -1214,6 +1266,7 @@ window.allHeroes =
         "source": "S3 - Valhalla",
         "Release date": "2020-05-28",
         "specialId": "jab_and_hook",
+        "passiveSkills": null,
         "heroId": "s3_jarvur",
         "star": 3,
         "power": 466,
@@ -1274,6 +1327,9 @@ window.allHeroes =
         "source": "Monthly Event - Kalevala",
         "Release date": "2022-06-20",
         "specialId": "arrows_of_fury",
+        "passiveSkills": [
+            "heal_mana_on_low_health_once"
+        ],
         "heroId": "kalevala_joukahainen",
         "star": 3,
         "power": 482,
@@ -1342,6 +1398,10 @@ window.allHeroes =
         "source": "Monthly Event - Kalevala",
         "Release date": "2025-07-28",
         "specialId": "arrows_of_fury",
+        "passiveSkills": [
+            "heal_mana_on_low_health_once"
+        ],
+        "costumeBonusPassiveSkillIds": null,
         "heroId": "kalevala_joukahainen_costume_frozen",
         "star": 3,
         "power": 499,
@@ -1406,6 +1466,7 @@ window.allHeroes =
         "source": "S1 - Classic",
         "Release date": "2017-03-01",
         "specialId": "ramming_rush",
+        "passiveSkills": null,
         "heroId": "dwarven_smasher",
         "star": 3,
         "power": 442,
@@ -1458,6 +1519,8 @@ window.allHeroes =
         "source": "Costume Quest",
         "Release date": "2020-05-18",
         "specialId": "ramming_rush",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null,
         "heroId": "dwarven_smasher_costume_smith",
         "star": 3,
         "power": 472,
@@ -1516,6 +1579,10 @@ window.allHeroes =
         "source": "Costume Quest",
         "Release date": "2024-06-28",
         "specialId": "ramming_rush",
+        "passiveSkills": [
+            "toon_resist_debuffs_manareduction_dispels"
+        ],
+        "costumeBonusPassiveSkillIds": null,
         "heroId": "dwarven_smasher_costume_cute",
         "star": 3,
         "power": 505,
@@ -1576,6 +1643,7 @@ window.allHeroes =
         "source": "S3 - Valhalla",
         "Release date": "2020-02-27",
         "specialId": "frosty_axes",
+        "passiveSkills": null,
         "heroId": "s3_nordri",
         "star": 3,
         "power": 464,
@@ -1634,6 +1702,8 @@ window.allHeroes =
         "source": "S3 - Valhalla",
         "Release date": "2023-04-10",
         "specialId": "frosty_axes",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null,
         "heroId": "s3_nordri_costume_explorer",
         "star": 3,
         "power": 479,
@@ -1694,6 +1764,9 @@ window.allHeroes =
         "source": "Alliance - Musketeers",
         "Release date": "2023-03-08",
         "specialId": "piercing_practice_slash",
+        "passiveSkills": [
+            "damage_all_enemies_on_cover_or_special_damage_received"
+        ],
         "heroId": "musketeer_planchet",
         "star": 3,
         "power": 486,
@@ -1756,6 +1829,9 @@ window.allHeroes =
         "source": "Challenge - Gargoyle",
         "Release date": "2022-05-12",
         "specialId": "faithful_force",
+        "passiveSkills": [
+            "gargoyle_stone"
+        ],
         "heroId": "gargoyle_soroca",
         "star": 3,
         "power": 482,
@@ -1822,6 +1898,10 @@ window.allHeroes =
         "source": "Challenge - Secrets of the Opera",
         "Release date": "2024-01-25",
         "specialId": "dance_of_the_little_swan",
+        "passiveSkills": [
+            "heal_on_expired_or_cleared_debuff",
+            "resist_defense_modifier_debuffs"
+        ],
         "heroId": "ballerina_swan_maiden",
         "star": 3,
         "power": 514,
@@ -1890,6 +1970,7 @@ window.allHeroes =
         "source": "S1 - Classic",
         "Release date": "2017-03-01",
         "specialId": "cold_blast",
+        "passiveSkills": null,
         "heroId": "nordic_mage",
         "star": 3,
         "power": 445,
@@ -1948,6 +2029,8 @@ window.allHeroes =
         "source": "Costume Quest",
         "Release date": "2021-01-18",
         "specialId": "cold_blast",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null,
         "heroId": "nordic_mage_costume_hermit",
         "star": 3,
         "power": 474,
@@ -2007,6 +2090,10 @@ window.allHeroes =
         "source": "Costume Quest",
         "Release date": "2024-07-16",
         "specialId": "cold_blast",
+        "passiveSkills": [
+            "toon_resist_debuffs_manareduction_dispels"
+        ],
+        "costumeBonusPassiveSkillIds": null,
         "heroId": "nordic_mage_costume_cute",
         "star": 3,
         "power": 507,
@@ -2073,6 +2160,7 @@ window.allHeroes =
         "source": "S1 - Classic",
         "Release date": "2017-03-01",
         "specialId": "chilling_slash",
+        "passiveSkills": null,
         "heroId": "nordic_swordman",
         "star": 3,
         "power": 442,
@@ -2131,6 +2219,8 @@ window.allHeroes =
         "source": "Costume Quest",
         "Release date": "2021-01-18",
         "specialId": "chilling_slash",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null,
         "heroId": "nordic_swordman_costume_climber",
         "star": 3,
         "power": 471,
@@ -2190,6 +2280,10 @@ window.allHeroes =
         "source": "Costume Quest",
         "Release date": "2023-12-25",
         "specialId": "chilling_slash",
+        "passiveSkills": [
+            "toon_resist_debuffs_manareduction_dispels"
+        ],
+        "costumeBonusPassiveSkillIds": null,
         "heroId": "nordic_swordman_costume_cute",
         "star": 3,
         "power": 503,
@@ -2258,6 +2352,10 @@ window.allHeroes =
         "source": "Tower - Styx",
         "Release date": "2022-09-21",
         "specialId": "poets_protection",
+        "passiveSkills": [
+            "resist_all_defense_debuffs",
+            "reduce_minion_health"
+        ],
         "heroId": "styx_virgil",
         "star": 3,
         "power": 484,
@@ -2328,6 +2426,7 @@ window.allHeroes =
         "source": "Challenge Festival I",
         "Release date": "2017-09-07",
         "specialId": "destructive_strike",
+        "passiveSkills": null,
         "heroId": "pirate_vodnik",
         "star": 3,
         "power": 455,
@@ -2387,6 +2486,7 @@ window.allHeroes =
         "source": "Three Kingdoms Summon",
         "Release date": "2022-03-14",
         "specialId": "sword_of_wei",
+        "passiveSkills": null,
         "heroId": "kingdom_yao",
         "star": 3,
         "power": 483,
@@ -2451,6 +2551,7 @@ window.allHeroes =
         "source": "S2 - Atlantis",
         "Release date": "2019-08-01",
         "specialId": "tidal_wave",
+        "passiveSkills": null,
         "heroId": "s2_chameleon_mage",
         "star": 4,
         "power": 648,
@@ -2509,6 +2610,8 @@ window.allHeroes =
         "source": "S2 - Atlantis",
         "Release date": "2023-03-06",
         "specialId": "tidal_wave",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null,
         "heroId": "s2_chameleon_mage_costume_alchemist",
         "star": 4,
         "power": 669,
@@ -2568,6 +2671,9 @@ window.allHeroes =
         "source": "S6 - Mysteries of the Deep",
         "Release date": "2023-09-27",
         "specialId": "close_order_formation",
+        "passiveSkills": [
+            "tales1_extra_special_damage_and_add_critical"
+        ],
         "heroId": "tales1_aqualith",
         "star": 4,
         "power": 688,
@@ -2635,6 +2741,12 @@ window.allHeroes =
         "source": "S6 - Mysteries of the Deep",
         "Release date": "2025-05-28",
         "specialId": "close_order_formation",
+        "passiveSkills": [
+            "tales1_extra_special_damage_and_add_critical"
+        ],
+        "costumeBonusPassiveSkillIds": [
+            "resist_insanity"
+        ],
         "heroId": "tales1_aqualith_costume_purple",
         "star": 4,
         "power": 704,
@@ -2703,6 +2815,9 @@ window.allHeroes =
         "source": "S5 - Dune",
         "Release date": "2022-04-21",
         "specialId": "counterstance",
+        "passiveSkills": [
+            "sun_extra_special_heal_and_cleanse_latest_debuff"
+        ],
         "heroId": "s5_azmia",
         "star": 4,
         "power": 683,
@@ -2767,6 +2882,13 @@ window.allHeroes =
         "source": "S5 - Dune",
         "Release date": "2024-06-24",
         "specialId": "counterstance",
+        "passiveSkills": [
+            "sun_extra_special_heal_and_cleanse_latest_debuff"
+        ],
+        "costumeBonusPassiveSkillIds": [
+            "heal_on_buff",
+            "guaranteed_passive_effects_on_special"
+        ],
         "heroId": "s5_azmia_costume_dancing",
         "star": 4,
         "power": 699,
@@ -2832,6 +2954,10 @@ window.allHeroes =
         "source": "Covenant Summon",
         "Release date": "2024-04-25",
         "specialId": "frost_and_rime",
+        "passiveSkills": [
+            "destructive_core",
+            "resist_special_blocking"
+        ],
         "heroId": "construct_bonechill",
         "star": 4,
         "power": 699,
@@ -2897,6 +3023,7 @@ window.allHeroes =
         "source": "S1 - Classic",
         "Release date": "2017-03-01",
         "specialId": "perfect_riposte",
+        "passiveSkills": null,
         "heroId": "dwarven_guard",
         "star": 4,
         "power": 643,
@@ -2947,6 +3074,8 @@ window.allHeroes =
         "source": "Costume Quest",
         "Release date": "2020-05-18",
         "specialId": "perfect_riposte",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null,
         "heroId": "dwarven_guard_costume_ram",
         "star": 4,
         "power": 689,
@@ -2997,6 +3126,8 @@ window.allHeroes =
         "source": "Costume Quest",
         "Release date": "2023-11-27",
         "specialId": "perfect_riposte",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null,
         "heroId": "dwarven_guard_costume_tavern",
         "star": 4,
         "power": 735,
@@ -3047,6 +3178,10 @@ window.allHeroes =
         "source": "Costume Quest",
         "Release date": "2024-09-08",
         "specialId": "perfect_riposte",
+        "passiveSkills": [
+            "toon_resist_debuffs_manareduction_dispels"
+        ],
+        "costumeBonusPassiveSkillIds": null,
         "heroId": "dwarven_guard_costume_cute",
         "star": 4,
         "power": 747,
@@ -3103,6 +3238,7 @@ window.allHeroes =
         "source": "Challenge Festival I",
         "Release date": "2019-02-14",
         "specialId": "pest_control",
+        "passiveSkills": null,
         "heroId": "wonderland_captain",
         "star": 4,
         "power": 650,
@@ -3163,6 +3299,10 @@ window.allHeroes =
         "source": "Super Elementals",
         "Release date": "2025-07-31",
         "specialId": "surprise_goo",
+        "passiveSkills": [
+            "summon_slime_minion_on_damage_blue",
+            "summon_slime_minion_on_death_blue"
+        ],
         "heroId": "slime_choozen",
         "star": 4,
         "power": 752,
@@ -3229,6 +3369,10 @@ window.allHeroes =
         "source": "S7 - Treasures of Flame and Frost",
         "Release date": "2025-05-16",
         "specialId": "iceberg_aura",
+        "passiveSkills": [
+            "arctic_core",
+            "resist_frost_with_health_boost_and_mana"
+        ],
         "heroId": "tales2_dain",
         "star": 4,
         "power": 732,
@@ -3290,6 +3434,10 @@ window.allHeroes =
         "source": "Challenge - Carnival of Gods",
         "Release date": "2023-07-13",
         "specialId": "potions_of_havoc_and_healing",
+        "passiveSkills": [
+            "cleanse_on_own_familiar_death",
+            "resist_all_defense_debuffs"
+        ],
         "heroId": "masquerade_fosco",
         "star": 4,
         "power": 689,
@@ -3358,6 +3506,9 @@ window.allHeroes =
         "source": "Monthly Event - Morlovia",
         "Release date": "2020-10-26",
         "specialId": "undead_razer",
+        "passiveSkills": [
+            "halloween_steal_buff_or_deal_damage"
+        ],
         "heroId": "halloween_frank",
         "star": 4,
         "power": 667,
@@ -3427,6 +3578,10 @@ window.allHeroes =
         "source": "Monthly Event - Morlovia",
         "Release date": "2021-10-04",
         "specialId": "undead_razer",
+        "passiveSkills": [
+            "halloween_steal_buff_or_deal_damage"
+        ],
+        "costumeBonusPassiveSkillIds": null,
         "heroId": "halloween_frank_costume_mafia",
         "star": 4,
         "power": 681,
@@ -3504,6 +3659,9 @@ window.allHeroes =
         "source": "Challenge Festival II",
         "Release date": "2022-12-01",
         "specialId": "the_mighty_crescendo",
+        "passiveSkills": [
+            "attack_reduction_multiplier"
+        ],
         "heroId": "bard_garyas",
         "star": 4,
         "power": 685,
@@ -3565,6 +3723,10 @@ window.allHeroes =
         "source": "Goblin Summon",
         "Release date": "2024-04-15",
         "specialId": "scale_of_the_newt",
+        "passiveSkills": [
+            "remove_wither_from_allies",
+            "resist_direct_mana_reductions"
+        ],
         "heroId": "garrison_greg",
         "star": 4,
         "power": 698,
@@ -3633,6 +3795,7 @@ window.allHeroes =
         "source": "S1 - Classic",
         "Release date": "2017-03-01",
         "specialId": "ramming_pulverizer",
+        "passiveSkills": null,
         "heroId": "nordic_ancestral_warrior",
         "star": 4,
         "power": 642,
@@ -3691,6 +3854,8 @@ window.allHeroes =
         "source": "Costume Quest",
         "Release date": "2021-01-18",
         "specialId": "ramming_pulverizer",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null,
         "heroId": "nordic_ancestral_warrior_costume_corrupted",
         "star": 4,
         "power": 687,
@@ -3748,6 +3913,8 @@ window.allHeroes =
         "source": "Costume Quest",
         "Release date": "2023-06-12",
         "specialId": "ramming_pulverizer",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null,
         "heroId": "nordic_ancestral_warrior_costume_messenger",
         "star": 4,
         "power": 733,
@@ -3807,6 +3974,10 @@ window.allHeroes =
         "source": "Costume Quest",
         "Release date": "2023-12-25",
         "specialId": "ramming_pulverizer",
+        "passiveSkills": [
+            "toon_resist_debuffs_manareduction_dispels"
+        ],
+        "costumeBonusPassiveSkillIds": null,
         "heroId": "nordic_ancestral_warrior_costume_cute",
         "star": 4,
         "power": 746,
@@ -3874,6 +4045,10 @@ window.allHeroes =
         "source": "Costume Quest",
         "Release date": "2024-12-25",
         "specialId": "ramming_pulverizer",
+        "passiveSkills": [
+            "glass_reflect_debuffs"
+        ],
+        "costumeBonusPassiveSkillIds": null,
         "heroId": "nordic_ancestral_warrior_costume_glass",
         "star": 4,
         "power": 758,
@@ -3943,6 +4118,9 @@ window.allHeroes =
         "source": "Challenge - Gargoyle",
         "Release date": "2024-05-16",
         "specialId": "moon_boomerang",
+        "passiveSkills": [
+            "gargoyle_soft_skin"
+        ],
         "heroId": "gargoyle_grumbl",
         "star": 4,
         "power": 701,
@@ -4011,6 +4189,7 @@ window.allHeroes =
         "source": "S3 - Valhalla",
         "Release date": "2020-05-28",
         "specialId": "ice_boom",
+        "passiveSkills": null,
         "heroId": "s3_jott",
         "star": 4,
         "power": 664,
@@ -4071,6 +4250,7 @@ window.allHeroes =
         "source": "S1 - Classic",
         "Release date": "2017-03-01",
         "specialId": "blessed_brew",
+        "passiveSkills": null,
         "heroId": "dwarwen_brewmaster",
         "star": 4,
         "power": 647,
@@ -4133,6 +4313,8 @@ window.allHeroes =
         "source": "Costume Quest",
         "Release date": "2020-05-18",
         "specialId": "blessed_brew",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null,
         "heroId": "dwarwen_brewmaster_costume_guitarist",
         "star": 4,
         "power": 692,
@@ -4195,6 +4377,8 @@ window.allHeroes =
         "source": "Costume Quest",
         "Release date": "2022-10-31",
         "specialId": "blessed_brew",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null,
         "heroId": "dwarwen_brewmaster_costume_wood_carver",
         "star": 4,
         "power": 739,
@@ -4261,6 +4445,10 @@ window.allHeroes =
         "source": "Costume Quest",
         "Release date": "2024-02-12",
         "specialId": "blessed_brew",
+        "passiveSkills": [
+            "toon_resist_debuffs_manareduction_dispels"
+        ],
+        "costumeBonusPassiveSkillIds": null,
         "heroId": "dwarwen_brewmaster_costume_cute",
         "star": 4,
         "power": 751,
@@ -4328,6 +4516,10 @@ window.allHeroes =
         "source": "Costume Quest",
         "Release date": "2025-03-11",
         "specialId": "blessed_brew",
+        "passiveSkills": [
+            "glass_reflect_debuffs"
+        ],
+        "costumeBonusPassiveSkillIds": null,
         "heroId": "dwarwen_brewmaster_costume_glass",
         "star": 4,
         "power": 763,
@@ -4397,6 +4589,10 @@ window.allHeroes =
         "source": "Monster Island Summon",
         "Release date": "2023-05-06",
         "specialId": "jungle_riposte",
+        "passiveSkills": [
+            "hunters_mark_on_special",
+            "attack_modifier_on_special"
+        ],
         "heroId": "monster_hunter_knuckles",
         "star": 4,
         "power": 687,
@@ -4456,6 +4652,9 @@ window.allHeroes =
         "source": "Super Elementals",
         "Release date": "2023-09-11",
         "specialId": "shackles_of_the_sea",
+        "passiveSkills": [
+            "strong_troop_damage_modifier"
+        ],
         "heroId": "elemental_linus",
         "star": 4,
         "power": 688,
@@ -4523,6 +4722,7 @@ window.allHeroes =
         "source": "S3 - Valhalla",
         "Release date": "2020-02-27",
         "specialId": "chain_of_pain",
+        "passiveSkills": null,
         "heroId": "s3_mireweave",
         "star": 4,
         "power": 660,
@@ -4583,6 +4783,9 @@ window.allHeroes =
         "source": "Tower - Owls",
         "Release date": "2023-12-20",
         "specialId": "ill_fated_experiment",
+        "passiveSkills": [
+            "mana_generation_modifier_all_enemies_stronger"
+        ],
         "heroId": "owl_olbec",
         "star": 4,
         "power": 693,
@@ -4652,6 +4855,9 @@ window.allHeroes =
         "source": "Tower - Ninjas",
         "Release date": "2024-09-24",
         "specialId": "iron_discipline_cut",
+        "passiveSkills": [
+            "reduce_minion_health"
+        ],
         "heroId": "ninja_osamu",
         "star": 4,
         "power": 701,
@@ -4725,6 +4931,7 @@ window.allHeroes =
         "source": "Challenge Festival II",
         "Release date": "2021-02-11",
         "specialId": "valkyries_fortitude",
+        "passiveSkills": null,
         "heroId": "villain_sanngrior",
         "star": 4,
         "power": 675,
@@ -4786,6 +4993,7 @@ window.allHeroes =
         "source": "Tower - Ninjas",
         "Release date": "2020-10-13",
         "specialId": "from_shadows",
+        "passiveSkills": null,
         "heroId": "ninja_sapphire",
         "star": 4,
         "power": 670,
@@ -4851,6 +5059,7 @@ window.allHeroes =
         "source": "S1 - Classic",
         "Release date": "2017-03-01",
         "specialId": "piercing_strike",
+        "passiveSkills": null,
         "heroId": "royal_female_knight",
         "star": 4,
         "power": 643,
@@ -4909,6 +5118,8 @@ window.allHeroes =
         "source": "Costume Quest",
         "Release date": "2020-01-01",
         "specialId": "piercing_strike",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null,
         "heroId": "royal_female_knight_costume_winter",
         "star": 4,
         "power": 688,
@@ -4967,6 +5178,8 @@ window.allHeroes =
         "source": "Costume Quest",
         "Release date": "2023-11-27",
         "specialId": "piercing_strike",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null,
         "heroId": "royal_female_knight_costume_prospector",
         "star": 4,
         "power": 734,
@@ -5026,6 +5239,10 @@ window.allHeroes =
         "source": "Costume Quest",
         "Release date": "2024-07-16",
         "specialId": "piercing_strike",
+        "passiveSkills": [
+            "toon_resist_debuffs_manareduction_dispels"
+        ],
+        "costumeBonusPassiveSkillIds": null,
         "heroId": "royal_female_knight_costume_cute",
         "star": 4,
         "power": 746,
@@ -5092,6 +5309,7 @@ window.allHeroes =
         "source": "S2 - Atlantis",
         "Release date": "2019-08-01",
         "specialId": "heroic_noble",
+        "passiveSkills": null,
         "heroId": "s2_triton",
         "star": 4,
         "power": 652,
@@ -5150,6 +5368,8 @@ window.allHeroes =
         "source": "S2 - Atlantis",
         "Release date": "2023-04-03",
         "specialId": "heroic_noble",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null,
         "heroId": "s2_triton_costume_champion",
         "star": 4,
         "power": 673,
@@ -5211,6 +5431,9 @@ window.allHeroes =
         "source": "Monthly Event - Morlovia",
         "Release date": "2018-10-25",
         "specialId": "queens_blood_poisoning",
+        "passiveSkills": [
+            "halloween_steal_buff_or_deal_damage"
+        ],
         "heroId": "vampire_queen",
         "star": 4,
         "power": 649,
@@ -5274,6 +5497,7 @@ window.allHeroes =
         "source": "Three Kingdoms Summon",
         "Release date": "2022-03-14",
         "specialId": "qilin_blade",
+        "passiveSkills": null,
         "heroId": "kingdom_xiahou_dun",
         "star": 4,
         "power": 683,
@@ -5338,6 +5562,9 @@ window.allHeroes =
         "source": "S4 - Wilderness",
         "Release date": "2021-03-25",
         "specialId": "fishbone_blades",
+        "passiveSkills": [
+            "increase_special_damage"
+        ],
         "heroId": "s4_zila_lei",
         "star": 4,
         "power": 677,
@@ -5398,6 +5625,10 @@ window.allHeroes =
         "source": "S4 - Wilderness",
         "Release date": "2024-01-04",
         "specialId": "fishbone_blades",
+        "passiveSkills": [
+            "increase_special_damage"
+        ],
+        "costumeBonusPassiveSkillIds": null,
         "heroId": "s4_zila_lei_costume_dancer",
         "star": 4,
         "power": 692,
@@ -5461,6 +5692,10 @@ window.allHeroes =
         "source": "Monster Island Summon",
         "Release date": "2022-09-18",
         "specialId": "hunting_charge",
+        "passiveSkills": [
+            "hunters_mark_on_special",
+            "special_damage_reduction_monster_hunters"
+        ],
         "heroId": "monster_hunter_adalinda",
         "star": 5,
         "power": 888,
@@ -5532,6 +5767,7 @@ window.allHeroes =
         "source": "Legends Summon - Hero of the Month",
         "Release date": "2018-10-01",
         "specialId": "icy_resilience",
+        "passiveSkills": null,
         "heroId": "ice_god_october",
         "star": 5,
         "power": 768,
@@ -5596,6 +5832,10 @@ window.allHeroes =
         "source": "Legends Summon - Hero of the Month",
         "Release date": "2023-01-23",
         "specialId": "icy_resilience",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": [
+            "extra_special_cleanse_newest"
+        ],
         "heroId": "ice_god_october_costume_farmer",
         "star": 5,
         "power": 978,
@@ -5661,6 +5901,9 @@ window.allHeroes =
         "source": "Monthly Event - Kalevala",
         "Release date": "2022-06-20",
         "specialId": "summer_carol",
+        "passiveSkills": [
+            "heal_mana_on_low_health_once"
+        ],
         "heroId": "kalevala_aino",
         "star": 5,
         "power": 835,
@@ -5725,6 +5968,10 @@ window.allHeroes =
         "source": "Monthly Event - Kalevala",
         "Release date": "2023-08-07",
         "specialId": "summer_carol",
+        "passiveSkills": [
+            "heal_mana_on_low_health_once"
+        ],
+        "costumeBonusPassiveSkillIds": null,
         "heroId": "kalevala_aino_costume_water_maiden",
         "star": 5,
         "power": 1079,
@@ -5789,6 +6036,7 @@ window.allHeroes =
         "source": "Legends Summon - Hero of the Month",
         "Release date": "2018-05-01",
         "specialId": "spirit_arrow",
+        "passiveSkills": null,
         "heroId": "ice_god_eskimo",
         "star": 5,
         "power": 768,
@@ -5852,6 +6100,10 @@ window.allHeroes =
         "source": "Legends Summon - Hero of the Month",
         "Release date": "2021-12-23",
         "specialId": "spirit_arrow",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": [
+            "extra_special_cleanse_newest"
+        ],
         "heroId": "ice_god_eskimo_costume_champion",
         "star": 5,
         "power": 976,
@@ -5922,6 +6174,10 @@ window.allHeroes =
         "source": "Legends Summon - Hero of the Month",
         "Release date": "2021-09-01",
         "specialId": "shimmering_shield",
+        "passiveSkills": [
+            "heal_on_debuff",
+            "resist_heal_multiplier_debuffs"
+        ],
         "heroId": "ice_god_alexandrine",
         "star": 5,
         "power": 794,
@@ -5991,6 +6247,7 @@ window.allHeroes =
         "source": "Challenge Festival I",
         "Release date": "2019-02-14",
         "specialId": "timeless_timepiece",
+        "passiveSkills": null,
         "heroId": "wonderland_alice",
         "star": 5,
         "power": 769,
@@ -6053,6 +6310,10 @@ window.allHeroes =
         "source": "Tower - Styx",
         "Release date": "2023-07-19",
         "specialId": "tidal_force",
+        "passiveSkills": [
+            "resist_all_defense_debuffs",
+            "reduce_minion_health"
+        ],
         "heroId": "styx_amphitrite",
         "star": 5,
         "power": 927,
@@ -6137,6 +6398,10 @@ window.allHeroes =
         "source": "S7 - Treasures of Flame and Frost",
         "Release date": "2024-12-28",
         "specialId": "saga_of_deliverance",
+        "passiveSkills": [
+            "molten_core",
+            "resist_burn_with_health_boost_and_mana"
+        ],
         "heroId": "tales2_andvari",
         "star": 5,
         "power": 1169,
@@ -6205,6 +6470,9 @@ window.allHeroes =
         "source": "Super Elementals",
         "Release date": "2023-01-30",
         "specialId": "radiant_comeback",
+        "passiveSkills": [
+            "strong_troop_damage_modifier"
+        ],
         "heroId": "elemental_anzia",
         "star": 5,
         "power": 901,
@@ -6268,6 +6536,10 @@ window.allHeroes =
         "source": "Legends Summon - Hero of the Month",
         "Release date": "2023-09-01",
         "specialId": "radiating_frost",
+        "passiveSkills": [
+            "resist_special_blocking",
+            "resist_water"
+        ],
         "heroId": "ice_god_areax",
         "star": 5,
         "power": 875,
@@ -6335,6 +6607,7 @@ window.allHeroes =
         "source": "S2 - Atlantis",
         "Release date": "2019-02-01",
         "specialId": "divine_protection",
+        "passiveSkills": null,
         "heroId": "s2_ariel",
         "star": 5,
         "power": 772,
@@ -6401,6 +6674,8 @@ window.allHeroes =
         "source": "S2 - Atlantis",
         "Release date": "2021-11-15",
         "specialId": "divine_protection",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null,
         "heroId": "s2_ariel_costume_enchanter",
         "star": 5,
         "power": 942,
@@ -6467,6 +6742,9 @@ window.allHeroes =
         "source": "Alliance - Knights Clash",
         "Release date": "2024-04-10",
         "specialId": "frostbite",
+        "passiveSkills": [
+            "heal_on_buff_alliance_quest_family"
+        ],
         "heroId": "castle_bear_armel",
         "star": 5,
         "power": 1030,
@@ -6540,6 +6818,10 @@ window.allHeroes =
         "source": "Extra Draw - Secret Summon",
         "Release date": "2025-07-26",
         "specialId": "gorging_chew_blue",
+        "passiveSkills": [
+            "mimic_ascension_item_blue",
+            "never_miss_special"
+        ],
         "heroId": "mimic_ascension_item_blue",
         "star": 5,
         "power": 1225,
@@ -6629,6 +6911,11 @@ window.allHeroes =
         "source": "Wilderness Summon",
         "Release date": "2025-02-21",
         "specialId": "portents_of_future",
+        "passiveSkills": [
+            "resist_negative_attack_modifiers_including_wither",
+            "resist_insanity",
+            "minion_and_mega_minion_accuracy_modifier"
+        ],
         "heroId": "faun_ascian",
         "star": 5,
         "power": 1165,
@@ -6706,6 +6993,7 @@ window.allHeroes =
         "source": "Legends Summon - Hero of the Month",
         "Release date": "2017-07-01",
         "specialId": "athenas_bow",
+        "passiveSkills": null,
         "heroId": "ice_god_athena",
         "star": 5,
         "power": 765,
@@ -6775,6 +7063,10 @@ window.allHeroes =
         "source": "Legends Summon - Hero of the Month",
         "Release date": "2021-12-23",
         "specialId": "athenas_bow",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": [
+            "extra_special_dispel_newest"
+        ],
         "heroId": "ice_god_athena_costume_wargoddess",
         "star": 5,
         "power": 972,
@@ -6842,6 +7134,9 @@ window.allHeroes =
         "source": "S6 - Mysteries of the Deep",
         "Release date": "2023-11-22",
         "specialId": "aphotic_maw",
+        "passiveSkills": [
+            "tales1_extra_special_damage_and_add_stacking_mana_generation"
+        ],
         "heroId": "tales1_atlanteia",
         "star": 5,
         "power": 999,
@@ -6920,6 +7215,12 @@ window.allHeroes =
         "source": "S6 - Mysteries of the Deep",
         "Release date": "2024-11-21",
         "specialId": "aphotic_maw",
+        "passiveSkills": [
+            "tales1_extra_special_damage_and_add_stacking_mana_generation"
+        ],
+        "costumeBonusPassiveSkillIds": [
+            "resist_insanity"
+        ],
         "heroId": "tales1_atlanteia_costume_siren",
         "star": 5,
         "power": 1244,
@@ -6996,6 +7297,7 @@ window.allHeroes =
         "source": "Tower - Ninjas",
         "Release date": "2023-05-31",
         "specialId": "light_grenades",
+        "passiveSkills": null,
         "heroId": "ninja_azurite",
         "star": 5,
         "power": 877,
@@ -7073,6 +7375,10 @@ window.allHeroes =
         "source": "Legends Summon - Hero of the Month",
         "Release date": "2022-12-01",
         "specialId": "double_flail_mayhem",
+        "passiveSkills": [
+            "resist_attack_modifier_debuffs",
+            "heal_on_enemy_bleed"
+        ],
         "heroId": "ice_god_balur",
         "star": 5,
         "power": 813,
@@ -7135,6 +7441,9 @@ window.allHeroes =
         "source": "S5 - Dune",
         "Release date": "2022-07-07",
         "specialId": "divine_reflection",
+        "passiveSkills": [
+            "sun_extra_special_heal_and_cleanse_latest_debuff"
+        ],
         "heroId": "s5_bennu",
         "star": 5,
         "power": 861,
@@ -7194,6 +7503,13 @@ window.allHeroes =
         "source": "S5 - Dune",
         "Release date": "2024-12-10",
         "specialId": "divine_reflection",
+        "passiveSkills": [
+            "sun_extra_special_heal_and_cleanse_latest_debuff"
+        ],
+        "costumeBonusPassiveSkillIds": [
+            "heal_on_buff",
+            "guaranteed_passive_effects_on_special"
+        ],
         "heroId": "s5_bennu_costume_heron",
         "star": 5,
         "power": 1203,
@@ -7258,6 +7574,10 @@ window.allHeroes =
         "source": "Challenge Festival II",
         "Release date": "2025-01-16",
         "specialId": "joyful_noise",
+        "passiveSkills": [
+            "set_dance_duration",
+            "set_ballad_duration"
+        ],
         "heroId": "bard_bhaltair",
         "star": 5,
         "power": 1171,
@@ -7330,6 +7650,7 @@ window.allHeroes =
         "source": "Challenge Festival II",
         "Release date": "2021-06-10",
         "specialId": "bobo_blitz",
+        "passiveSkills": null,
         "heroId": "circus_bobo",
         "star": 5,
         "power": 805,
@@ -7392,6 +7713,10 @@ window.allHeroes =
         "source": "Challenge Festival II",
         "Release date": "2022-11-03",
         "specialId": "spectral_visions",
+        "passiveSkills": [
+            "heal_and_add_mana_on_ally_minion",
+            "damage_enemies_on_enemy_parasite"
+        ],
         "heroId": "mighty_pet_bubbles",
         "star": 5,
         "power": 876,
@@ -7457,6 +7782,7 @@ window.allHeroes =
         "source": "Mystery - Shadow Summon",
         "Release date": "2025-03-06",
         "specialId": "petrifying_knuckles",
+        "passiveSkills": null,
         "heroId": "shadow_burton",
         "star": 5,
         "power": 1177,
@@ -7523,6 +7849,10 @@ window.allHeroes =
         "source": "Goblin Summon",
         "Release date": "2024-05-13",
         "specialId": "soothing_melody",
+        "passiveSkills": [
+            "remove_wither_from_allies",
+            "resist_direct_mana_reductions"
+        ],
         "heroId": "garrison_caelen",
         "star": 5,
         "power": 1092,
@@ -7595,6 +7925,10 @@ window.allHeroes =
         "source": "Tower - Magic",
         "Release date": "2023-05-03",
         "specialId": "mechanical_augmentations",
+        "passiveSkills": [
+            "magic_mana_regen_stack_on_special",
+            "magic_damage_on_full_charge_to_not_red"
+        ],
         "heroId": "magic_camilla",
         "star": 5,
         "power": 867,
@@ -7670,6 +8004,7 @@ window.allHeroes =
         "source": "Three Kingdoms Summon",
         "Release date": "2022-07-18",
         "specialId": "order_to_overwhelm",
+        "passiveSkills": null,
         "heroId": "kingdom_cao_cao",
         "star": 5,
         "power": 837,
@@ -7739,6 +8074,10 @@ window.allHeroes =
         "source": "Three Kingdoms Summon",
         "Release date": "2024-08-02",
         "specialId": "order_to_overwhelm",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": [
+            "kingdom_unstoppable_minions"
+        ],
         "heroId": "kingdom_cao_cao_costume_ice",
         "star": 5,
         "power": 1108,
@@ -7816,6 +8155,9 @@ window.allHeroes =
         "source": "Challenge Festival II",
         "Release date": "2021-08-05",
         "specialId": "breaker_blade",
+        "passiveSkills": [
+            "resist_status_effect_damage"
+        ],
         "heroId": "slayer_cathal",
         "star": 5,
         "power": 811,
@@ -7884,6 +8226,10 @@ window.allHeroes =
         "source": "Challenge - Carnival of Gods",
         "Release date": "2023-07-13",
         "specialId": "summon_rock_golems",
+        "passiveSkills": [
+            "cleanse_on_own_familiar_death",
+            "resist_all_defense_debuffs"
+        ],
         "heroId": "masquerade_cel",
         "star": 5,
         "power": 933,
@@ -7948,6 +8294,9 @@ window.allHeroes =
         "source": "Challenge Festival II",
         "Release date": "2023-06-15",
         "specialId": "moonlight_sonata",
+        "passiveSkills": [
+            "attack_reduction_multiplier"
+        ],
         "heroId": "bard_celimene",
         "star": 5,
         "power": 902,
@@ -8015,6 +8364,9 @@ window.allHeroes =
         "source": "S6 - Mysteries of the Deep",
         "Release date": "2023-07-05",
         "specialId": "tidal_vortex",
+        "passiveSkills": [
+            "tales1_extra_special_damage_and_add_critical"
+        ],
         "heroId": "tales1_ceto",
         "star": 5,
         "power": 936,
@@ -8098,6 +8450,12 @@ window.allHeroes =
         "source": "S6 - Mysteries of the Deep",
         "Release date": "2025-03-03",
         "specialId": "tidal_vortex",
+        "passiveSkills": [
+            "tales1_extra_special_damage_and_add_critical"
+        ],
+        "costumeBonusPassiveSkillIds": [
+            "resist_insanity"
+        ],
         "heroId": "tales1_ceto_costume_queen",
         "star": 5,
         "power": 1164,
@@ -8177,6 +8535,10 @@ window.allHeroes =
         "source": "Three Kingdoms Summon",
         "Release date": "2023-12-04",
         "specialId": "lunar_locket",
+        "passiveSkills": [
+            "heal_on_buff_with_chance",
+            "mana_on_buff_with_chance"
+        ],
         "heroId": "journey_change",
         "star": 5,
         "power": 978,
@@ -8246,6 +8608,9 @@ window.allHeroes =
         "source": "Monthly Event - Morlovia",
         "Release date": "2024-09-23",
         "specialId": "horrifying_wail",
+        "passiveSkills": [
+            "halloween_steal_buff_or_deal_damage"
+        ],
         "heroId": "halloween_chester",
         "star": 5,
         "power": 1052,
@@ -8315,6 +8680,9 @@ window.allHeroes =
         "source": "Alliance - Moths",
         "Release date": "2025-06-25",
         "specialId": "mutating_mixture",
+        "passiveSkills": [
+            "dodge_enemy_damage_special"
+        ],
         "heroId": "moth_chimister",
         "star": 5,
         "power": 1214,
@@ -8397,6 +8765,10 @@ window.allHeroes =
         "source": "Solstice Summon",
         "Release date": "2025-06-16",
         "specialId": "gift_of_rejuvenation",
+        "passiveSkills": [
+            "resist_negative_minion_and_mega_minion_effects",
+            "mana_on_damage_received"
+        ],
         "heroId": "mahayoddha_chitrangada",
         "star": 5,
         "power": 1213,
@@ -8465,6 +8837,10 @@ window.allHeroes =
         "source": "Goblin Summon",
         "Release date": "2025-05-27",
         "specialId": "strict_standards",
+        "passiveSkills": [
+            "remove_wither_from_allies",
+            "resist_direct_mana_reductions"
+        ],
         "heroId": "garrison_ciara",
         "star": 5,
         "power": 1184,
@@ -8534,6 +8910,10 @@ window.allHeroes =
         "source": "Challenge Festival II",
         "Release date": "2023-02-23",
         "specialId": "frozen_wind",
+        "passiveSkills": [
+            "heal_and_add_mana_on_ally_minion",
+            "damage_enemies_on_enemy_parasite"
+        ],
         "heroId": "mighty_pet_cinnamon",
         "star": 5,
         "power": 878,
@@ -8599,6 +8979,10 @@ window.allHeroes =
         "source": "Legends Summon - Hero of the Month",
         "Release date": "2025-04-01",
         "specialId": "strength_of_the_accursed",
+        "passiveSkills": [
+            "resist_burn",
+            "resist_special_blocking"
+        ],
         "heroId": "ice_god_claeg",
         "star": 5,
         "power": 1072,
@@ -8665,6 +9049,7 @@ window.allHeroes =
         "source": "Tower - Ninjas",
         "Release date": "2020-10-13",
         "specialId": "katana_rain",
+        "passiveSkills": null,
         "heroId": "ninja_cobalt",
         "star": 5,
         "power": 798,
@@ -8734,6 +9119,10 @@ window.allHeroes =
         "source": "Astral Summon",
         "Release date": "2024-10-14",
         "specialId": "constellation_crush",
+        "passiveSkills": [
+            "share_received_damage",
+            "resist_poison"
+        ],
         "heroId": "astral_cosmicspeaker",
         "star": 5,
         "power": 1106,
@@ -8808,6 +9197,7 @@ window.allHeroes =
         "source": "Challenge Festival II",
         "Release date": "2021-02-11",
         "specialId": "freezing_crystal",
+        "passiveSkills": null,
         "heroId": "villain_crystalis",
         "star": 5,
         "power": 801,
@@ -8879,6 +9269,10 @@ window.allHeroes =
         "source": "Monthly Event - Beach Party",
         "Release date": "2024-06-03",
         "specialId": "waters_of_nourishment",
+        "passiveSkills": [
+            "resist_water",
+            "underwater_on_special_beach"
+        ],
         "heroId": "beachparty_davey_wavey",
         "star": 5,
         "power": 1016,
@@ -8945,6 +9339,7 @@ window.allHeroes =
         "source": "Alliance - Knights Clash",
         "Release date": "2021-10-13",
         "specialId": "fiendslayer",
+        "passiveSkills": null,
         "heroId": "castle_wolf_esme",
         "star": 5,
         "power": 816,
@@ -9008,6 +9403,9 @@ window.allHeroes =
         "source": "S4 - Wilderness",
         "Release date": "2021-12-30",
         "specialId": "saturated_suffering",
+        "passiveSkills": [
+            "start_battle_with_mana"
+        ],
         "heroId": "s4_exeera",
         "star": 5,
         "power": 813,
@@ -9074,6 +9472,12 @@ window.allHeroes =
         "source": "S4 - Wilderness",
         "Release date": "2024-09-26",
         "specialId": "saturated_suffering",
+        "passiveSkills": [
+            "start_battle_with_mana"
+        ],
+        "costumeBonusPassiveSkillIds": [
+            "extra_special_increased_damage_against_boosted_health"
+        ],
         "heroId": "s4_exeera_costume_hierophant",
         "star": 5,
         "power": 1030,
@@ -9147,6 +9551,10 @@ window.allHeroes =
         "source": "Extra Draw - Secret Summon",
         "Release date": "2025-05-03",
         "specialId": "mimic_training_hero_blue_bite",
+        "passiveSkills": [
+            "mimic_training_hero_blue",
+            "never_miss_special"
+        ],
         "heroId": "mimic_training_hero_blue",
         "star": 5,
         "power": 1200,
@@ -9225,6 +9633,7 @@ window.allHeroes =
         "source": "S3 - Valhalla",
         "Release date": "2020-02-27",
         "specialId": "gargantuan_bite",
+        "passiveSkills": null,
         "heroId": "s3_fenrir",
         "star": 5,
         "power": 785,
@@ -9290,6 +9699,8 @@ window.allHeroes =
         "source": "S3 - Valhalla",
         "Release date": "2023-04-10",
         "specialId": "gargantuan_bite",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null,
         "heroId": "s3_fenrir_costume_guardian",
         "star": 5,
         "power": 982,
@@ -9354,6 +9765,11 @@ window.allHeroes =
         "source": "Goblin Summon",
         "Release date": "2024-12-09",
         "specialId": "keep_the_peace",
+        "passiveSkills": [
+            "remove_growth_from_enemies",
+            "resist_direct_mana_reductions",
+            "mana_on_debuff"
+        ],
         "heroId": "garrison_fergus",
         "star": 5,
         "power": 1132,
@@ -9427,6 +9843,7 @@ window.allHeroes =
         "source": "Challenge Festival I",
         "Release date": "2019-11-11",
         "specialId": "commodores_revenge",
+        "passiveSkills": null,
         "heroId": "pirate_commodore_finley",
         "star": 5,
         "power": 781,
@@ -9490,6 +9907,10 @@ window.allHeroes =
         "source": "Challenge Festival I",
         "Release date": "2022-04-14",
         "specialId": "commodores_revenge",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": [
+            "extra_special_poison"
+        ],
         "heroId": "pirate_commodore_finley_costume_bleak",
         "star": 5,
         "power": 978,
@@ -9555,6 +9976,10 @@ window.allHeroes =
         "source": "Challenge - Secrets of the Opera",
         "Release date": "2023-11-30",
         "specialId": "voice_of_authority",
+        "passiveSkills": [
+            "heal_on_expired_or_cleared_debuff_fast",
+            "resist_attack_modifier_debuffs"
+        ],
         "heroId": "ballerina_firmin",
         "star": 5,
         "power": 957,
@@ -9620,6 +10045,9 @@ window.allHeroes =
         "source": "Goblin Summon",
         "Release date": "2023-11-13",
         "specialId": "shady_concerto",
+        "passiveSkills": [
+            "goblin_damage_and_accuracy_debuff_on_special"
+        ],
         "heroId": "goblin_fizzcoil",
         "star": 5,
         "power": 954,
@@ -9690,6 +10118,9 @@ window.allHeroes =
         "source": "Challenge - Carnival of Gods",
         "Release date": "2022-11-22",
         "specialId": "bad_fortune",
+        "passiveSkills": [
+            "cleanse_on_own_familiar_death"
+        ],
         "heroId": "masquerade_fortuna",
         "star": 5,
         "power": 873,
@@ -9766,6 +10197,9 @@ window.allHeroes =
         "source": "Legends Summon - Hero of the Month",
         "Release date": "2019-03-01",
         "specialId": "polar_bash",
+        "passiveSkills": [
+            "resist_attack_modifier_debuffs"
+        ],
         "heroId": "ice_god_frida",
         "star": 5,
         "power": 770,
@@ -9835,6 +10269,10 @@ window.allHeroes =
         "source": "Legends Summon - Hero of the Month",
         "Release date": "2021-04-01",
         "specialId": "cold_command",
+        "passiveSkills": [
+            "cleanse_on_own_familiar_death",
+            "resist_burn"
+        ],
         "heroId": "ice_god_frosth",
         "star": 5,
         "power": 789,
@@ -9895,6 +10333,10 @@ window.allHeroes =
         "source": "Goblin Summon",
         "Release date": "2025-01-17",
         "specialId": "raising_morale",
+        "passiveSkills": [
+            "remove_wither_from_allies",
+            "resist_direct_mana_reductions"
+        ],
         "heroId": "garrison_frostsnout",
         "star": 5,
         "power": 1156,
@@ -9964,6 +10406,9 @@ window.allHeroes =
         "source": "Challenge - Gargoyle",
         "Release date": "2021-11-24",
         "specialId": "educated_exorcism",
+        "passiveSkills": [
+            "gargoyle_stone"
+        ],
         "heroId": "gargoyle_gaillard",
         "star": 5,
         "power": 841,
@@ -10028,6 +10473,10 @@ window.allHeroes =
         "source": "Covenant Summon",
         "Release date": "2023-09-21",
         "specialId": "star_construct",
+        "passiveSkills": [
+            "destructive_core",
+            "resist_special_blocking"
+        ],
         "heroId": "construct_blue_mage",
         "star": 5,
         "power": 980,
@@ -10101,6 +10550,10 @@ window.allHeroes =
         "source": "Legends Summon - Hero of the Month",
         "Release date": "2024-02-01",
         "specialId": "hunters_instinct",
+        "passiveSkills": [
+            "mana_on_enemy_defense_buff",
+            "resist_special_blocking"
+        ],
         "heroId": "ice_god_callum",
         "star": 5,
         "power": 960,
@@ -10171,6 +10624,9 @@ window.allHeroes =
         "source": "Legends Summon - Hero of the Month",
         "Release date": "2020-11-01",
         "specialId": "midnight_magic",
+        "passiveSkills": [
+            "resist_buff_immunity"
+        ],
         "heroId": "ice_god_glenda",
         "star": 5,
         "power": 780,
@@ -10243,6 +10699,10 @@ window.allHeroes =
         "source": "Super Elementals",
         "Release date": "2025-07-31",
         "specialId": "gooey_rose",
+        "passiveSkills": [
+            "summon_slime_minion_on_damage_blue",
+            "summon_slime_minion_on_death_blue"
+        ],
         "heroId": "slime_gloozmer",
         "star": 5,
         "power": 1225,
@@ -10320,6 +10780,9 @@ window.allHeroes =
         "source": "Goblin Summon",
         "Release date": "2024-02-19",
         "specialId": "spirits_of_the_mountain",
+        "passiveSkills": [
+            "goblin_damage_and_accuracy_debuff_on_special"
+        ],
         "heroId": "goblin_grimsteel",
         "star": 5,
         "power": 1063,
@@ -10385,6 +10848,7 @@ window.allHeroes =
         "source": "Challenge Festival I",
         "Release date": "2023-01-26",
         "specialId": "brutal_support",
+        "passiveSkills": null,
         "heroId": "guardian_hippo",
         "star": 5,
         "power": 841,
@@ -10445,6 +10909,9 @@ window.allHeroes =
         "source": "S5 - Dune",
         "Release date": "2023-02-16",
         "specialId": "bewildering_riddle",
+        "passiveSkills": [
+            "sun_extra_special_heal_and_cleanse_latest_debuff"
+        ],
         "heroId": "s5_hetepheres",
         "star": 5,
         "power": 869,
@@ -10516,6 +10983,13 @@ window.allHeroes =
         "source": "S5 - Dune",
         "Release date": "2024-03-04",
         "specialId": "bewildering_riddle",
+        "passiveSkills": [
+            "sun_extra_special_heal_and_cleanse_latest_debuff"
+        ],
+        "costumeBonusPassiveSkillIds": [
+            "heal_on_buff",
+            "guaranteed_passive_effects_on_special"
+        ],
         "heroId": "s5_hetepheres_costume_spa",
         "star": 5,
         "power": 1214,
@@ -10587,6 +11061,9 @@ window.allHeroes =
         "source": "Monthly Event - Love Season",
         "Release date": "2023-02-14",
         "specialId": "grips_of_longing",
+        "passiveSkills": [
+            "resist_special_blocking"
+        ],
         "heroId": "valentines_himeros",
         "star": 5,
         "power": 861,
@@ -10661,6 +11138,10 @@ window.allHeroes =
         "source": "S7 - Treasures of Flame and Frost",
         "Release date": "2025-04-14",
         "specialId": "glacial_fissure_cleave",
+        "passiveSkills": [
+            "arctic_core",
+            "resist_frost_with_health_boost_and_mana"
+        ],
         "heroId": "tales2_hogne",
         "star": 5,
         "power": 1194,
@@ -10737,6 +11218,11 @@ window.allHeroes =
         "source": "Challenge - Beowulf",
         "Release date": "2024-11-25",
         "specialId": "kings_feast",
+        "passiveSkills": [
+            "attack_buff_on_damage_received",
+            "heal_on_expired_or_cleared_debuff_average",
+            "never_miss_special"
+        ],
         "heroId": "beowulf_hrothgar",
         "star": 5,
         "power": 1182,
@@ -10811,6 +11297,7 @@ window.allHeroes =
         "source": "Mystery - Shadow Summon",
         "Release date": "2025-06-10",
         "specialId": "eye_of_yog-sir",
+        "passiveSkills": null,
         "heroId": "shadow_hysteria",
         "star": 5,
         "power": 1201,
@@ -10873,6 +11360,10 @@ window.allHeroes =
         "source": "Legends Summon - Hero of the Month",
         "Release date": "2022-02-01",
         "specialId": "erase_strength",
+        "passiveSkills": [
+            "mana_on_dispel_buff",
+            "resist_burn"
+        ],
         "heroId": "ice_god_iris",
         "star": 5,
         "power": 804,
@@ -10941,6 +11432,7 @@ window.allHeroes =
         "source": "S1 - Classic",
         "Release date": "2017-03-01",
         "specialId": "glacial_shatter",
+        "passiveSkills": null,
         "heroId": "nordic_ice_enchantress",
         "star": 5,
         "power": 755,
@@ -10999,6 +11491,8 @@ window.allHeroes =
         "source": "Costume Quest",
         "Release date": "2020-01-01",
         "specialId": "glacial_shatter",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null,
         "heroId": "nordic_ice_enchantress_costume_aqua",
         "star": 5,
         "power": 848,
@@ -11058,6 +11552,8 @@ window.allHeroes =
         "source": "Costume Quest",
         "Release date": "2022-09-05",
         "specialId": "glacial_shatter",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null,
         "heroId": "nordic_ice_enchantress_costume_ruler",
         "star": 5,
         "power": 962,
@@ -11123,6 +11619,10 @@ window.allHeroes =
         "source": "Costume Quest",
         "Release date": "2024-05-06",
         "specialId": "glacial_shatter",
+        "passiveSkills": [
+            "toon_resist_debuffs_manareduction_dispels"
+        ],
+        "costumeBonusPassiveSkillIds": null,
         "heroId": "nordic_ice_enchantress_costume_cute",
         "star": 5,
         "power": 1128,
@@ -11191,6 +11691,10 @@ window.allHeroes =
         "source": "Costume Quest",
         "Release date": "2025-06-18",
         "specialId": "glacial_shatter",
+        "passiveSkills": [
+            "glass_reflect_debuffs"
+        ],
+        "costumeBonusPassiveSkillIds": null,
         "heroId": "nordic_ice_enchantress_costume_glass",
         "star": 5,
         "power": 1236,
@@ -11263,6 +11767,11 @@ window.allHeroes =
         "source": "Astral Summon",
         "Release date": "2025-03-27",
         "specialId": "planetary_charge",
+        "passiveSkills": [
+            "never_miss_special",
+            "resist_negative_minion_and_mega_minion_effects",
+            "bypass_minions_and_mega_minions"
+        ],
         "heroId": "astral_dwarf_ixinn",
         "star": 5,
         "power": 1176,
@@ -11333,6 +11842,9 @@ window.allHeroes =
         "source": "Super Elementals",
         "Release date": "2024-01-29",
         "specialId": "chain_lightning",
+        "passiveSkills": [
+            "strong_troop_damage_modifier"
+        ],
         "heroId": "elemental_jolt",
         "star": 5,
         "power": 997,
@@ -11408,6 +11920,11 @@ window.allHeroes =
         "source": "Wilderness Summon",
         "Release date": "2025-05-20",
         "specialId": "charm_of_protection",
+        "passiveSkills": [
+            "resist_negative_defense_modifiers_including_wither",
+            "resist_insanity",
+            "minion_and_mega_minion_accuracy_modifier"
+        ],
         "heroId": "faun_jolyon",
         "star": 5,
         "power": 1182,
@@ -11476,6 +11993,9 @@ window.allHeroes =
         "source": "Monthly Event - Love Season",
         "Release date": "2024-01-08",
         "specialId": "tough_love",
+        "passiveSkills": [
+            "resist_special_blocking"
+        ],
         "heroId": "valentines_kabeiroi",
         "star": 5,
         "power": 966,
@@ -11542,6 +12062,9 @@ window.allHeroes =
         "source": "Goblin Summon",
         "Release date": "2023-09-18",
         "specialId": "dubious_cuisine",
+        "passiveSkills": [
+            "goblin_damage_and_accuracy_debuff_on_special"
+        ],
         "heroId": "goblin_kettle",
         "star": 5,
         "power": 940,
@@ -11627,6 +12150,7 @@ window.allHeroes =
         "source": "Challenge Festival I",
         "Release date": "2018-01-05",
         "specialId": "excalibur",
+        "passiveSkills": null,
         "heroId": "knights_king_arthur",
         "star": 5,
         "power": 765,
@@ -11695,6 +12219,10 @@ window.allHeroes =
         "source": "Legends Summon - Hero of the Month",
         "Release date": "2022-07-01",
         "specialId": "hailstorm",
+        "passiveSkills": [
+            "resist_direct_mana_reductions",
+            "resist_special_blocking"
+        ],
         "heroId": "ice_god_klaern",
         "star": 5,
         "power": 809,
@@ -11767,6 +12295,7 @@ window.allHeroes =
         "source": "Monthly Event - Winter",
         "Release date": "2020-12-01",
         "specialId": "scourge_of_joy",
+        "passiveSkills": null,
         "heroId": "christmas_krampus",
         "star": 5,
         "power": 802,
@@ -11833,6 +12362,8 @@ window.allHeroes =
         "source": "Monthly Event - Winter",
         "Release date": "2021-12-01",
         "specialId": "scourge_of_joy",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null,
         "heroId": "christmas_krampus_costume_eager_devil",
         "star": 5,
         "power": 1039,
@@ -11900,6 +12431,10 @@ window.allHeroes =
         "source": "Wilderness Summon",
         "Release date": "2025-06-28",
         "specialId": "pursuing_shot",
+        "passiveSkills": [
+            "resist_all_defense_effects",
+            "revive_chance_nine_lives"
+        ],
         "heroId": "wild_cat_lennart",
         "star": 5,
         "power": 1215,
@@ -11972,6 +12507,7 @@ window.allHeroes =
         "source": "S3 - Valhalla",
         "Release date": "2020-12-24",
         "specialId": "tricksters_mischief",
+        "passiveSkills": null,
         "heroId": "s3_loki_male",
         "star": 5,
         "power": 787,
@@ -12027,6 +12563,8 @@ window.allHeroes =
         "source": "S3 - Valhalla",
         "Release date": "2023-05-08",
         "specialId": "tricksters_mischief",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null,
         "heroId": "s3_loki_male_costume_shapeshifter",
         "star": 5,
         "power": 986,
@@ -12087,6 +12625,10 @@ window.allHeroes =
         "source": "Alliance - Knights Clash",
         "Release date": "2023-10-18",
         "specialId": "sapphire_eyes",
+        "passiveSkills": [
+            "heal_on_buff_alliance_quest_family",
+            "mana_on_buff"
+        ],
         "heroId": "castle_stag_lysanor",
         "star": 5,
         "power": 980,
@@ -12154,6 +12696,10 @@ window.allHeroes =
         "source": "Super Elementals",
         "Release date": "2025-04-25",
         "specialId": "slimy_balls",
+        "passiveSkills": [
+            "summon_slime_minion_on_damage_blue",
+            "summon_slime_minion_on_death_blue"
+        ],
         "heroId": "slime_magistine",
         "star": 5,
         "power": 1191,
@@ -12222,6 +12768,7 @@ window.allHeroes =
         "source": "S1 - Classic",
         "Release date": "2017-03-01",
         "specialId": "strike_of_the_ancients",
+        "passiveSkills": null,
         "heroId": "exalted_warrior",
         "star": 5,
         "power": 754,
@@ -12280,6 +12827,8 @@ window.allHeroes =
         "source": "Costume Quest",
         "Release date": "2020-05-18",
         "specialId": "strike_of_the_ancients",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null,
         "heroId": "exalted_warrior_costume_ice",
         "star": 5,
         "power": 849,
@@ -12338,6 +12887,8 @@ window.allHeroes =
         "source": "Costume Quest",
         "Release date": "2022-10-31",
         "specialId": "strike_of_the_ancients",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null,
         "heroId": "exalted_warrior_costume_underworld",
         "star": 5,
         "power": 964,
@@ -12397,6 +12948,10 @@ window.allHeroes =
         "source": "Costume Quest",
         "Release date": "2024-01-22",
         "specialId": "strike_of_the_ancients",
+        "passiveSkills": [
+            "toon_resist_debuffs_manareduction_dispels"
+        ],
+        "costumeBonusPassiveSkillIds": null,
         "heroId": "exalted_warrior_costume_cute",
         "star": 5,
         "power": 1130,
@@ -12465,6 +13020,10 @@ window.allHeroes =
         "source": "Costume Quest",
         "Release date": "2025-03-11",
         "specialId": "strike_of_the_ancients",
+        "passiveSkills": [
+            "glass_reflect_debuffs"
+        ],
+        "costumeBonusPassiveSkillIds": null,
         "heroId": "exalted_warrior_costume_glass",
         "star": 5,
         "power": 1236,
@@ -12533,6 +13092,9 @@ window.allHeroes =
         "source": "Tower - Owls",
         "Release date": "2024-03-13",
         "specialId": "healing_mirror",
+        "passiveSkills": [
+            "mana_generation_modifier_all_enemies_stronger"
+        ],
         "heroId": "owl_mariol",
         "star": 5,
         "power": 1047,
@@ -12599,6 +13161,7 @@ window.allHeroes =
         "source": "Monthly Event - Springvale",
         "Release date": "2018-03-28",
         "specialId": "reckless_finisher",
+        "passiveSkills": null,
         "heroId": "rabbit_blue",
         "star": 5,
         "power": 763,
@@ -12657,6 +13220,8 @@ window.allHeroes =
         "source": "Monthly Event - Springvale",
         "Release date": "2022-03-21",
         "specialId": "reckless_finisher",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null,
         "heroId": "rabbit_blue_costume_riftbreaker",
         "star": 5,
         "power": 905,
@@ -12717,6 +13282,9 @@ window.allHeroes =
         "source": "Challenge - Gargoyle",
         "Release date": "2022-12-29",
         "specialId": "heretic_slayer",
+        "passiveSkills": [
+            "gargoyle_stone"
+        ],
         "heroId": "gargoyle_matrera",
         "star": 5,
         "power": 850,
@@ -12786,6 +13354,10 @@ window.allHeroes =
         "source": "Legends Summon - Hero of the Month",
         "Release date": "2024-11-01",
         "specialId": "freezing_fairy_mist",
+        "passiveSkills": [
+            "mana_on_enemy_frost",
+            "resist_burn"
+        ],
         "heroId": "ice_god_mene",
         "star": 5,
         "power": 1034,
@@ -12852,6 +13424,9 @@ window.allHeroes =
         "source": "Legends Summon - Hero of the Month",
         "Release date": "2019-08-01",
         "specialId": "wrath_of_tundra",
+        "passiveSkills": [
+            "resist_special_blocking"
+        ],
         "heroId": "ice_god_miki",
         "star": 5,
         "power": 770,
@@ -12916,6 +13491,9 @@ window.allHeroes =
         "source": "Alliance - Musketeers",
         "Release date": "2023-03-08",
         "specialId": "masterful_manipulation",
+        "passiveSkills": [
+            "damage_all_enemies_on_cover_or_special_damage_received"
+        ],
         "heroId": "musketeer_milady_de_winter",
         "star": 5,
         "power": 866,
@@ -12990,6 +13568,9 @@ window.allHeroes =
         "source": "Tower - Magic",
         "Release date": "2021-09-15",
         "specialId": "restoration_and_annihilation",
+        "passiveSkills": [
+            "magic_add_mana_on_full_charge_to_not_blue"
+        ],
         "heroId": "magic_milena",
         "star": 5,
         "power": 813,
@@ -13067,6 +13648,12 @@ window.allHeroes =
         "source": "Tower - Magic",
         "Release date": "2025-04-17",
         "specialId": "restoration_and_annihilation",
+        "passiveSkills": [
+            "magic_add_mana_on_full_charge_costume"
+        ],
+        "costumeBonusPassiveSkillIds": [
+            "reduce_big_minion_health"
+        ],
         "heroId": "magic_milena_costume_ice",
         "star": 5,
         "power": 1206,
@@ -13143,6 +13730,9 @@ window.allHeroes =
         "source": "Monthly Event - Morlovia",
         "Release date": "2022-10-03",
         "specialId": "litter_of_kittens",
+        "passiveSkills": [
+            "halloween_steal_buff_or_deal_damage"
+        ],
         "heroId": "halloween_miriam_and_midnight",
         "star": 5,
         "power": 850,
@@ -13208,6 +13798,7 @@ window.allHeroes =
         "source": "S2 - Atlantis",
         "Release date": "2019-08-01",
         "specialId": "chain_strike",
+        "passiveSkills": null,
         "heroId": "s2_mercenary_woman",
         "star": 5,
         "power": 774,
@@ -13270,6 +13861,8 @@ window.allHeroes =
         "source": "S2 - Atlantis",
         "Release date": "2023-01-09",
         "specialId": "chain_strike",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null,
         "heroId": "s2_mercenary_woman_costume_dancer",
         "star": 5,
         "power": 946,
@@ -13331,6 +13924,7 @@ window.allHeroes =
         "source": "Monthly Event - Springvale",
         "Release date": "2024-03-18",
         "specialId": "mooing_for_a_fight",
+        "passiveSkills": null,
         "heroId": "easter_miss_ethel",
         "star": 5,
         "power": 999,
@@ -13392,6 +13986,11 @@ window.allHeroes =
         "source": "Legends Summon",
         "Release date": "2024-05-03",
         "specialId": "cut_down_the_competition",
+        "passiveSkills": [
+            "resist_attack_modifier_debuffs",
+            "damage_on_enemy_special_if_enemy_faster_than_slow_mistra",
+            "mana_gen_on_debuff"
+        ],
         "heroId": "champions_mistra",
         "star": 5,
         "power": 1042,
@@ -13461,6 +14060,10 @@ window.allHeroes =
         "source": "Monthly Event - Beach Party",
         "Release date": "2023-06-12",
         "specialId": "seastar_burst",
+        "passiveSkills": [
+            "resist_water",
+            "underwater_on_special_beach"
+        ],
         "heroId": "beachparty_misty",
         "star": 5,
         "power": 875,
@@ -13528,6 +14131,11 @@ window.allHeroes =
         "source": "Challenge - Beowulf",
         "Release date": "2025-02-13",
         "specialId": "chilling_counterattack",
+        "passiveSkills": [
+            "resist_buff_immunity",
+            "resist_mana_reductions_with_health_boost_and_mana",
+            "mana_on_buff"
+        ],
         "heroId": "beowulf_modthryth",
         "star": 5,
         "power": 1183,
@@ -13604,6 +14212,10 @@ window.allHeroes =
         "source": "Astral Summon",
         "Release date": "2024-08-19",
         "specialId": "astral_myrrh",
+        "passiveSkills": [
+            "share_received_damage",
+            "resist_poison"
+        ],
         "heroId": "astral_mooncure",
         "star": 5,
         "power": 1086,
@@ -13673,6 +14285,9 @@ window.allHeroes =
         "source": "S4 - Wilderness",
         "Release date": "2021-06-17",
         "specialId": "deathly_glaive",
+        "passiveSkills": [
+            "increase_special_damage"
+        ],
         "heroId": "s4_morel",
         "star": 5,
         "power": 807,
@@ -13737,6 +14352,12 @@ window.allHeroes =
         "source": "S4 - Wilderness",
         "Release date": "2023-07-20",
         "specialId": "deathly_glaive",
+        "passiveSkills": [
+            "increase_special_damage"
+        ],
+        "costumeBonusPassiveSkillIds": [
+            "extra_special_increased_damage_against_boosted_health"
+        ],
         "heroId": "s4_morel_costume_sage",
         "star": 5,
         "power": 1021,
@@ -13803,6 +14424,7 @@ window.allHeroes =
         "source": "Monthly Event - Winter",
         "Release date": "2021-12-01",
         "specialId": "herring_blaster",
+        "passiveSkills": null,
         "heroId": "christmas_mr_pengi",
         "star": 5,
         "power": 821,
@@ -13874,6 +14496,8 @@ window.allHeroes =
         "source": "Monthly Event - Winter",
         "Release date": "2024-12-01",
         "specialId": "herring_blaster",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null,
         "heroId": "christmas_mr_pengi_costume_snowboarder",
         "star": 5,
         "power": 1064,
@@ -13946,6 +14570,10 @@ window.allHeroes =
         "source": "Covenant Summon",
         "Release date": "2024-02-08",
         "specialId": "pathfinders_compass",
+        "passiveSkills": [
+            "repair_core",
+            "resist_special_blocking"
+        ],
         "heroId": "construct_nautica",
         "star": 5,
         "power": 995,
@@ -14018,6 +14646,10 @@ window.allHeroes =
         "source": "Three Kingdoms Summon",
         "Release date": "2023-06-19",
         "specialId": "wrath_of_the_nine_beaks",
+        "passiveSkills": [
+            "heal_on_buff_with_chance",
+            "mana_on_buff_with_chance"
+        ],
         "heroId": "journey_nineheaded_beast",
         "star": 5,
         "power": 939,
@@ -14094,6 +14726,9 @@ window.allHeroes =
         "source": "Super Elementals",
         "Release date": "2024-06-17",
         "specialId": "ice_and_slice",
+        "passiveSkills": [
+            "strong_troop_damage_modifier"
+        ],
         "heroId": "elemental_nylora",
         "star": 5,
         "power": 1064,
@@ -14167,6 +14802,10 @@ window.allHeroes =
         "source": "Challenge - Secrets of the Opera",
         "Release date": "2023-06-20",
         "specialId": "dance_of_the_swan",
+        "passiveSkills": [
+            "heal_on_expired_or_cleared_debuff",
+            "resist_defense_modifier_debuffs"
+        ],
         "heroId": "ballerina_odette",
         "star": 5,
         "power": 955,
@@ -14247,6 +14886,7 @@ window.allHeroes =
         "source": "Tower - Ninjas",
         "Release date": "2023-01-11",
         "specialId": "standing_fortress",
+        "passiveSkills": null,
         "heroId": "ninja_oniwakamaru",
         "star": 5,
         "power": 866,
@@ -14320,6 +14960,11 @@ window.allHeroes =
         "source": "Astral Summon",
         "Release date": "2025-07-02",
         "specialId": "lunar_bloom",
+        "passiveSkills": [
+            "resist_heal_multiplier_debuffs",
+            "resist_negative_minion_and_mega_minion_effects",
+            "eat_fiends_on_special_cast"
+        ],
         "heroId": "astral_dwarf_orcur",
         "star": 5,
         "power": 1216,
@@ -14386,6 +15031,9 @@ window.allHeroes =
         "source": "Monthly Event - Kalevala",
         "Release date": "2024-07-22",
         "specialId": "boreal_bash",
+        "passiveSkills": [
+            "heal_mana_on_low_health_once"
+        ],
         "heroId": "kalevala_otso",
         "star": 5,
         "power": 1034,
@@ -14451,6 +15099,9 @@ window.allHeroes =
         "source": "S4 - Wilderness",
         "Release date": "2021-12-02",
         "specialId": "helping_hands",
+        "passiveSkills": [
+            "increase_buff_duration"
+        ],
         "heroId": "s4_passepartout",
         "star": 5,
         "power": 811,
@@ -14518,6 +15169,12 @@ window.allHeroes =
         "source": "S4 - Wilderness",
         "Release date": "2023-10-12",
         "specialId": "helping_hands",
+        "passiveSkills": [
+            "increase_buff_duration"
+        ],
+        "costumeBonusPassiveSkillIds": [
+            "extra_special_health_boost"
+        ],
         "heroId": "s4_passepartout_costume_artist",
         "star": 5,
         "power": 1026,
@@ -14587,6 +15244,9 @@ window.allHeroes =
         "source": "Alliance - Moths",
         "Release date": "2025-02-20",
         "specialId": "dusk_till_dawn",
+        "passiveSkills": [
+            "dodge_enemy_damage_special"
+        ],
         "heroId": "moth_pepperbleu",
         "star": 5,
         "power": 1185,
@@ -14663,6 +15323,7 @@ window.allHeroes =
         "source": "Legends Summon - Hero of the Month",
         "Release date": "2017-12-01",
         "specialId": "everlasting_wound",
+        "passiveSkills": null,
         "heroId": "ice_god_perseus",
         "star": 5,
         "power": 765,
@@ -14732,6 +15393,10 @@ window.allHeroes =
         "source": "Legends Summon - Hero of the Month",
         "Release date": "2022-11-28",
         "specialId": "everlasting_wound",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": [
+            "extra_special_dispel_newest"
+        ],
         "heroId": "ice_god_perseus_costume_frozen",
         "star": 5,
         "power": 973,
@@ -14798,6 +15463,9 @@ window.allHeroes =
         "source": "Challenge - Gargoyle",
         "Release date": "2024-02-27",
         "specialId": "one_hit_wonder",
+        "passiveSkills": [
+            "gargoyle_soft_skin"
+        ],
         "heroId": "gargoyle_pophit",
         "star": 5,
         "power": 1048,
@@ -14874,6 +15542,9 @@ window.allHeroes =
         "source": "Alliance - Musketeers",
         "Release date": "2022-12-14",
         "specialId": "musketeers_mead",
+        "passiveSkills": [
+            "damage_all_enemies_on_cover_or_special_damage_received"
+        ],
         "heroId": "musketeer_porthos",
         "star": 5,
         "power": 876,
@@ -14942,6 +15613,11 @@ window.allHeroes =
         "source": "Astral Summon",
         "Release date": "2024-12-22",
         "specialId": "frozen_path",
+        "passiveSkills": [
+            "never_miss_special",
+            "resist_negative_minion_and_mega_minion_effects",
+            "bypass_minions_and_mega_minions"
+        ],
         "heroId": "astral_dwarf_quari",
         "star": 5,
         "power": 1157,
@@ -15021,6 +15697,9 @@ window.allHeroes =
         "source": "Super Elementals",
         "Release date": "2023-09-11",
         "specialId": "pineapple_barbeque",
+        "passiveSkills": [
+            "strong_troop_damage_modifier"
+        ],
         "heroId": "elemental_quinn",
         "star": 5,
         "power": 954,
@@ -15092,6 +15771,7 @@ window.allHeroes =
         "source": "Alliance - Knights Clash",
         "Release date": "2022-01-05",
         "specialId": "echoes_of_pain",
+        "passiveSkills": null,
         "heroId": "castle_raven_quintin",
         "star": 5,
         "power": 822,
@@ -15153,6 +15833,9 @@ window.allHeroes =
         "source": "Legends Summon - Hero of the Month",
         "Release date": "2020-06-01",
         "specialId": "ice_treatment",
+        "passiveSkills": [
+            "resist_attack_modifier_debuffs"
+        ],
         "heroId": "ice_god_raffaele",
         "star": 5,
         "power": 773,
@@ -15224,6 +15907,9 @@ window.allHeroes =
         "source": "Challenge Festival II",
         "Release date": "2021-08-05",
         "specialId": "cleansing_determination",
+        "passiveSkills": [
+            "resist_status_effect_damage"
+        ],
         "heroId": "slayer_rian",
         "star": 5,
         "power": 808,
@@ -15298,6 +15984,7 @@ window.allHeroes =
         "source": "S1 - Classic",
         "Release date": "2017-03-01",
         "specialId": "cloud_hammer",
+        "passiveSkills": null,
         "heroId": "nordic_male_lord",
         "star": 5,
         "power": 755,
@@ -15356,6 +16043,8 @@ window.allHeroes =
         "source": "Costume Quest",
         "Release date": "2020-01-01",
         "specialId": "cloud_hammer",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null,
         "heroId": "nordic_male_lord_costume_senior",
         "star": 5,
         "power": 849,
@@ -15415,6 +16104,8 @@ window.allHeroes =
         "source": "Costume Quest",
         "Release date": "2023-09-04",
         "specialId": "cloud_hammer",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null,
         "heroId": "nordic_male_lord_costume_injustice",
         "star": 5,
         "power": 965,
@@ -15474,6 +16165,10 @@ window.allHeroes =
         "source": "Costume Quest",
         "Release date": "2023-10-30",
         "specialId": "cloud_hammer",
+        "passiveSkills": [
+            "toon_resist_debuffs_manareduction_dispels"
+        ],
+        "costumeBonusPassiveSkillIds": null,
         "heroId": "nordic_male_lord_costume_cute",
         "star": 5,
         "power": 1130,
@@ -15542,6 +16237,10 @@ window.allHeroes =
         "source": "Costume Quest",
         "Release date": "2024-12-25",
         "specialId": "cloud_hammer",
+        "passiveSkills": [
+            "glass_reflect_debuffs"
+        ],
+        "costumeBonusPassiveSkillIds": null,
         "heroId": "nordic_male_lord_costume_glass",
         "star": 5,
         "power": 1235,
@@ -15611,6 +16310,7 @@ window.allHeroes =
         "source": "Challenge Festival I",
         "Release date": "2019-12-01",
         "specialId": "legerdemain",
+        "passiveSkills": null,
         "heroId": "fables_rumpelstiltskin",
         "star": 5,
         "power": 767,
@@ -15700,6 +16400,8 @@ window.allHeroes =
         "source": "Challenge Festival I",
         "Release date": "2022-06-16",
         "specialId": "legerdemain",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null,
         "heroId": "fables_rumpelstiltskin_costume_eternal",
         "star": 5,
         "power": 961,
@@ -15783,6 +16485,9 @@ window.allHeroes =
         "source": "S4 - Wilderness",
         "Release date": "2021-05-20",
         "specialId": "vengeful_backstab",
+        "passiveSkills": [
+            "decrease_debuff_duration"
+        ],
         "heroId": "s4_russula",
         "star": 5,
         "power": 807,
@@ -15855,6 +16560,12 @@ window.allHeroes =
         "source": "S4 - Wilderness",
         "Release date": "2024-01-04",
         "specialId": "vengeful_backstab",
+        "passiveSkills": [
+            "decrease_debuff_duration"
+        ],
+        "costumeBonusPassiveSkillIds": [
+            "extra_special_increased_damage_against_boosted_health"
+        ],
         "heroId": "s4_russula_costume_painter",
         "star": 5,
         "power": 1021,
@@ -15931,6 +16642,9 @@ window.allHeroes =
         "source": "Covenant Summon",
         "Release date": "2025-02-02",
         "specialId": "ill_bring_you_back",
+        "passiveSkills": [
+            "reduced_healing_for_all_enemies"
+        ],
         "heroId": "fox_sable",
         "star": 5,
         "power": 1158,
@@ -16006,6 +16720,7 @@ window.allHeroes =
         "source": "Mystery - Shadow Summon",
         "Release date": "2025-07-08",
         "specialId": "deranged_existence",
+        "passiveSkills": null,
         "heroId": "shadow_salvatore",
         "star": 5,
         "power": 1218,
@@ -16074,6 +16789,11 @@ window.allHeroes =
         "source": "Legends Summon",
         "Release date": "2023-11-29",
         "specialId": "thousand_palm_strikes",
+        "passiveSkills": [
+            "mana_on_dispel_buff_satori",
+            "health_boost_on_dispel",
+            "mana_gen_on_debuff"
+        ],
         "heroId": "champions_satori",
         "star": 5,
         "power": 982,
@@ -16145,6 +16865,9 @@ window.allHeroes =
         "source": "Tower - Ninjas",
         "Release date": "2024-11-19",
         "specialId": "purifying_ki",
+        "passiveSkills": [
+            "reduce_minion_health"
+        ],
         "heroId": "ninja_sawano",
         "star": 5,
         "power": 1116,
@@ -16219,6 +16942,10 @@ window.allHeroes =
         "source": "Monster Island Summon",
         "Release date": "2024-08-13",
         "specialId": "chitin_cage",
+        "passiveSkills": [
+            "hunters_mark_on_special",
+            "special_damage_reduction_monster_hunters"
+        ],
         "heroId": "monster_hunter_sigyn",
         "star": 5,
         "power": 1134,
@@ -16287,6 +17014,10 @@ window.allHeroes =
         "source": "Legends Summon - Hero of the Month",
         "Release date": "2024-07-01",
         "specialId": "conjure_the_azure_spirit",
+        "passiveSkills": [
+            "attack_buff_on_mana_reduction",
+            "resist_special_blocking"
+        ],
         "heroId": "ice_god_sini",
         "star": 5,
         "power": 999,
@@ -16360,6 +17091,9 @@ window.allHeroes =
         "source": "Alliance - Knights Clash",
         "Release date": "2024-06-05",
         "specialId": "gilded_antlers",
+        "passiveSkills": [
+            "heal_on_buff_alliance_quest_family"
+        ],
         "heroId": "castle_stag_siofra",
         "star": 5,
         "power": 1060,
@@ -16432,6 +17166,7 @@ window.allHeroes =
         "source": "S3 - Valhalla",
         "Release date": "2020-06-25",
         "specialId": "iceberg_crush",
+        "passiveSkills": null,
         "heroId": "s3_skadi",
         "star": 5,
         "power": 788,
@@ -16504,6 +17239,8 @@ window.allHeroes =
         "source": "S3 - Valhalla",
         "Release date": "2022-07-04",
         "specialId": "iceberg_crush",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null,
         "heroId": "s3_skadi_costume_ravager",
         "star": 5,
         "power": 987,
@@ -16577,6 +17314,10 @@ window.allHeroes =
         "source": "Covenant Summon",
         "Release date": "2024-08-09",
         "specialId": "searing_frost",
+        "passiveSkills": [
+            "corrosive_core",
+            "resist_special_blocking"
+        ],
         "heroId": "construct_skarn",
         "star": 5,
         "power": 1083,
@@ -16645,6 +17386,10 @@ window.allHeroes =
         "source": "Super Elementals",
         "Release date": "2024-10-30",
         "specialId": "throwing_daggers",
+        "passiveSkills": [
+            "summon_slime_minion_on_damage_blue",
+            "summon_slime_minion_on_death_blue"
+        ],
         "heroId": "slime_slimgo",
         "star": 5,
         "power": 1145,
@@ -16713,6 +17458,7 @@ window.allHeroes =
         "source": "Challenge Festival I",
         "Release date": "2019-12-01",
         "specialId": "enchanted_edge",
+        "passiveSkills": null,
         "heroId": "fables_snow_white",
         "star": 5,
         "power": 780,
@@ -16785,6 +17531,8 @@ window.allHeroes =
         "source": "Challenge Festival I",
         "Release date": "2021-12-15",
         "specialId": "enchanted_edge",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null,
         "heroId": "fables_snow_white_costume_slayer",
         "star": 5,
         "power": 976,
@@ -16854,6 +17602,9 @@ window.allHeroes =
         "source": "S5 - Dune",
         "Release date": "2022-04-21",
         "specialId": "jaws_of_the_river",
+        "passiveSkills": [
+            "sun_extra_special_damage_and_dot"
+        ],
         "heroId": "s5_sobek",
         "star": 5,
         "power": 858,
@@ -16917,6 +17668,13 @@ window.allHeroes =
         "source": "S5 - Dune",
         "Release date": "2024-07-13",
         "specialId": "jaws_of_the_river",
+        "passiveSkills": [
+            "sun_extra_special_damage_and_dot"
+        ],
+        "costumeBonusPassiveSkillIds": [
+            "increase_special_damage_buff",
+            "iterate_passive_effects_on_special"
+        ],
         "heroId": "s5_sobek_costume_guardian",
         "star": 5,
         "power": 1201,
@@ -16994,6 +17752,11 @@ window.allHeroes =
         "source": "Three Kingdoms Summon",
         "Release date": "2025-05-22",
         "specialId": "righteous_strike",
+        "passiveSkills": [
+            "resist_bleed",
+            "righteous_rebellion_parent",
+            "cleanse_on_special_critical_damage_all_safe"
+        ],
         "heroId": "outlaw_song_jiang",
         "star": 5,
         "power": 1203,
@@ -17072,6 +17835,10 @@ window.allHeroes =
         "source": "Monster Island Summon",
         "Release date": "2023-05-06",
         "specialId": "icebound_ritual",
+        "passiveSkills": [
+            "hunters_mark_on_special",
+            "monster_hunter_reallocate_debuff_or_heal"
+        ],
         "heroId": "monster_hunter_sorrow",
         "star": 5,
         "power": 948,
@@ -17138,6 +17905,10 @@ window.allHeroes =
         "source": "Astral Summon",
         "Release date": "2023-11-21",
         "specialId": "scepter_of_constellations",
+        "passiveSkills": [
+            "share_received_damage",
+            "resist_poison"
+        ],
         "heroId": "astral_starwalker",
         "star": 5,
         "power": 1010,
@@ -17211,6 +17982,10 @@ window.allHeroes =
         "source": "Legends Summon - Hero of the Month",
         "Release date": "2023-05-01",
         "specialId": "easy_breezy_aura",
+        "passiveSkills": [
+            "resist_parasites",
+            "resist_heal_multiplier_debuffs"
+        ],
         "heroId": "ice_god_suzuna",
         "star": 5,
         "power": 823,
@@ -17283,6 +18058,9 @@ window.allHeroes =
         "source": "Alliance - Moths",
         "Release date": "2025-03-20",
         "specialId": "bizarre_mist",
+        "passiveSkills": [
+            "dodge_enemy_damage_special"
+        ],
         "heroId": "moth_tealmoine",
         "star": 5,
         "power": 1189,
@@ -17352,6 +18130,7 @@ window.allHeroes =
         "source": "S2 - Atlantis",
         "Release date": "2022-05-30",
         "specialId": "amphibious_assault",
+        "passiveSkills": null,
         "heroId": "s2_tethys",
         "star": 5,
         "power": 835,
@@ -17420,6 +18199,9 @@ window.allHeroes =
         "source": "S6 - Mysteries of the Deep",
         "Release date": "2023-06-07",
         "specialId": "oceans_embrace",
+        "passiveSkills": [
+            "tales1_extra_special_damage_and_add_critical"
+        ],
         "heroId": "tales1_thalassa",
         "star": 5,
         "power": 952,
@@ -17496,6 +18278,12 @@ window.allHeroes =
         "source": "S6 - Mysteries of the Deep",
         "Release date": "2024-08-24",
         "specialId": "oceans_embrace",
+        "passiveSkills": [
+            "tales1_extra_special_damage_and_add_critical"
+        ],
+        "costumeBonusPassiveSkillIds": [
+            "resist_insanity"
+        ],
         "heroId": "tales1_thalassa_costume_crystals",
         "star": 5,
         "power": 1184,
@@ -17573,6 +18361,10 @@ window.allHeroes =
         "source": "Tower - Styx",
         "Release date": "2023-02-08",
         "specialId": "delay_the_inevitable",
+        "passiveSkills": [
+            "resist_all_defense_debuffs",
+            "reduce_minion_health"
+        ],
         "heroId": "styx_thanatos",
         "star": 5,
         "power": 861,
@@ -17648,6 +18440,7 @@ window.allHeroes =
         "source": "Challenge Festival II",
         "Release date": "2021-06-10",
         "specialId": "multi_throw",
+        "passiveSkills": null,
         "heroId": "circus_theobald",
         "star": 5,
         "power": 803,
@@ -17706,6 +18499,7 @@ window.allHeroes =
         "source": "S1 - Classic",
         "Release date": "2017-03-01",
         "specialId": "icecold_finisher",
+        "passiveSkills": null,
         "heroId": "royal_knight_commander",
         "star": 5,
         "power": 757,
@@ -17758,6 +18552,8 @@ window.allHeroes =
         "source": "Costume Quest",
         "Release date": "2021-01-18",
         "specialId": "icecold_finisher",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null,
         "heroId": "royal_knight_commander_costume_king",
         "star": 5,
         "power": 852,
@@ -17818,6 +18614,8 @@ window.allHeroes =
         "source": "Costume Quest",
         "Release date": "2023-07-10",
         "specialId": "icecold_finisher",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null,
         "heroId": "royal_knight_commander_costume_gryphon",
         "star": 5,
         "power": 968,
@@ -17881,6 +18679,10 @@ window.allHeroes =
         "source": "Costume Quest",
         "Release date": "2024-09-08",
         "specialId": "icecold_finisher",
+        "passiveSkills": [
+            "toon_resist_debuffs_manareduction_dispels"
+        ],
+        "costumeBonusPassiveSkillIds": null,
         "heroId": "royal_knight_commander_costume_cute",
         "star": 5,
         "power": 1135,
@@ -17946,6 +18748,9 @@ window.allHeroes =
         "source": "Tower - Owls",
         "Release date": "2023-12-20",
         "specialId": "for_queen_and_hollow",
+        "passiveSkills": [
+            "mana_generation_modifier_all_enemies_stronger"
+        ],
         "heroId": "owl_timius",
         "star": 5,
         "power": 985,
@@ -18021,6 +18826,7 @@ window.allHeroes =
         "source": "Monthly Event - Winter",
         "Release date": "2022-12-01",
         "specialId": "malevolent_toys",
+        "passiveSkills": null,
         "heroId": "christmas_tinsel",
         "star": 5,
         "power": 851,
@@ -18091,6 +18897,10 @@ window.allHeroes =
         "source": "Monster Island Summon",
         "Release date": "2023-07-27",
         "specialId": "protective_stance",
+        "passiveSkills": [
+            "hunters_mark_on_special",
+            "attack_modifier_on_special"
+        ],
         "heroId": "monster_hunter_tremor",
         "star": 5,
         "power": 948,
@@ -18163,6 +18973,10 @@ window.allHeroes =
         "source": "Tower - Magic",
         "Release date": "2023-08-23",
         "specialId": "scroll_of_equations",
+        "passiveSkills": [
+            "magic_mana_regen_stack_on_special",
+            "magic_damage_on_full_charge_to_not_red"
+        ],
         "heroId": "magic_ulius",
         "star": 5,
         "power": 936,
@@ -18240,6 +19054,9 @@ window.allHeroes =
         "source": "Legends Summon - Hero of the Month",
         "Release date": "2020-01-01",
         "specialId": "aquatic_outbreak",
+        "passiveSkills": [
+            "resist_negative_minion_effects"
+        ],
         "heroId": "ice_god_vela",
         "star": 5,
         "power": 771,
@@ -18313,6 +19130,11 @@ window.allHeroes =
         "source": "Wilderness Summon",
         "Release date": "2024-08-31",
         "specialId": "red_shoes",
+        "passiveSkills": [
+            "resist_negative_attack_modifiers_including_wither",
+            "resist_insanity",
+            "minion_and_mega_minion_accuracy_modifier"
+        ],
         "heroId": "faun_verity",
         "star": 5,
         "power": 1137,
@@ -18381,6 +19203,9 @@ window.allHeroes =
         "source": "Challenge - Gargoyle",
         "Release date": "2024-10-17",
         "specialId": "cold_fire",
+        "passiveSkills": [
+            "gargoyle_soft_skin"
+        ],
         "heroId": "gargoyle_vincent",
         "star": 5,
         "power": 1107,
@@ -18457,6 +19282,10 @@ window.allHeroes =
         "source": "Monster Island Summon",
         "Release date": "2022-11-12",
         "specialId": "harpoon_sentry",
+        "passiveSkills": [
+            "hunters_mark_on_special",
+            "special_damage_reduction_monster_hunters"
+        ],
         "heroId": "monster_hunter_waterpipe",
         "star": 5,
         "power": 887,
@@ -18525,6 +19354,9 @@ window.allHeroes =
         "source": "Covenant Summon",
         "Release date": "2024-08-20",
         "specialId": "never_ending_winter",
+        "passiveSkills": [
+            "reduced_healing_for_all_enemies"
+        ],
         "heroId": "fox_whitefang",
         "star": 5,
         "power": 1136,
@@ -18594,6 +19426,7 @@ window.allHeroes =
         "source": "Monthly Event - Winter",
         "Release date": "2023-12-01",
         "specialId": "blue_shroom_wand",
+        "passiveSkills": null,
         "heroId": "christmas_zappa",
         "star": 5,
         "power": 949,
@@ -18662,6 +19495,9 @@ window.allHeroes =
         "source": "Super Elementals",
         "Release date": "2023-01-30",
         "specialId": "great_frost_axe",
+        "passiveSkills": [
+            "strong_troop_damage_modifier"
+        ],
         "heroId": "elemental_zengar",
         "star": 5,
         "power": 901,
@@ -18734,6 +19570,7 @@ window.allHeroes =
         "source": "Tower - Ninjas",
         "Release date": "2021-11-10",
         "specialId": "wall_of_ki",
+        "passiveSkills": null,
         "heroId": "ninja_zircon",
         "star": 5,
         "power": 818,
@@ -18803,6 +19640,7 @@ window.allHeroes =
         "source": "S1 - Classic",
         "Release date": "2017-03-01",
         "specialId": "hacking_attack",
+        "passiveSkills": null,
         "heroId": "forest_female_warrior",
         "star": 1,
         "power": 209,
@@ -18835,6 +19673,7 @@ window.allHeroes =
         "source": "S1 - Classic",
         "Release date": "2017-03-01",
         "specialId": "axe_throw",
+        "passiveSkills": null,
         "heroId": "forest_woodsman",
         "star": 1,
         "power": 210,
@@ -18867,6 +19706,7 @@ window.allHeroes =
         "source": "S1 - Classic",
         "Release date": "2017-03-01",
         "specialId": "tackle",
+        "passiveSkills": null,
         "heroId": "forest_thug",
         "star": 2,
         "power": 335,
@@ -18899,6 +19739,7 @@ window.allHeroes =
         "source": "S1 - Classic",
         "Release date": "2017-03-01",
         "specialId": "mark_of_ivy",
+        "passiveSkills": null,
         "heroId": "forest_female_illusionist",
         "star": 2,
         "power": 335,
@@ -18931,6 +19772,7 @@ window.allHeroes =
         "source": "S1 - Classic",
         "Release date": "2017-03-01",
         "specialId": "focused_shot",
+        "passiveSkills": null,
         "heroId": "goblin_archer",
         "star": 2,
         "power": 333,
@@ -18965,6 +19807,9 @@ window.allHeroes =
         "source": "Challenge - Carnival of Gods",
         "Release date": "2023-07-13",
         "specialId": "bewitched_daggers",
+        "passiveSkills": [
+            "cleanse_on_own_familiar_death"
+        ],
         "heroId": "masquerade_alessia",
         "star": 3,
         "power": 488,
@@ -19025,6 +19870,7 @@ window.allHeroes =
         "source": "S1 - Classic",
         "Release date": "2017-03-01",
         "specialId": "calming_mist",
+        "passiveSkills": null,
         "heroId": "forest_female_spirit",
         "star": 3,
         "power": 441,
@@ -19083,6 +19929,8 @@ window.allHeroes =
         "source": "Costume Quest",
         "Release date": "2020-05-18",
         "specialId": "calming_mist",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null,
         "heroId": "forest_female_spirit_costume_autumn",
         "star": 3,
         "power": 471,
@@ -19143,6 +19991,10 @@ window.allHeroes =
         "source": "Costume Quest",
         "Release date": "2024-04-08",
         "specialId": "calming_mist",
+        "passiveSkills": [
+            "toon_resist_debuffs_manareduction_dispels"
+        ],
+        "costumeBonusPassiveSkillIds": null,
         "heroId": "forest_female_spirit_costume_cute",
         "star": 3,
         "power": 504,
@@ -19207,6 +20059,10 @@ window.allHeroes =
         "source": "Costume Quest",
         "Release date": "2025-04-23",
         "specialId": "calming_mist",
+        "passiveSkills": [
+            "glass_reflect_debuffs"
+        ],
+        "costumeBonusPassiveSkillIds": null,
         "heroId": "forest_female_spirit_costume_glass",
         "star": 3,
         "power": 513,
@@ -19269,6 +20125,7 @@ window.allHeroes =
         "source": "S1 - Classic",
         "Release date": "2017-03-01",
         "specialId": "entangling_shot",
+        "passiveSkills": null,
         "heroId": "forest_archer",
         "star": 3,
         "power": 444,
@@ -19327,6 +20184,8 @@ window.allHeroes =
         "source": "Costume Quest",
         "Release date": "2020-05-18",
         "specialId": "entangling_shot",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null,
         "heroId": "forest_archer_costume_warrior",
         "star": 3,
         "power": 473,
@@ -19386,6 +20245,10 @@ window.allHeroes =
         "source": "Costume Quest",
         "Release date": "2024-05-06",
         "specialId": "entangling_shot",
+        "passiveSkills": [
+            "toon_resist_debuffs_manareduction_dispels"
+        ],
+        "costumeBonusPassiveSkillIds": null,
         "heroId": "forest_archer_costume_cute",
         "star": 3,
         "power": 506,
@@ -19454,6 +20317,10 @@ window.allHeroes =
         "source": "Costume Quest",
         "Release date": "2025-05-10",
         "specialId": "entangling_shot",
+        "passiveSkills": [
+            "glass_reflect_debuffs"
+        ],
+        "costumeBonusPassiveSkillIds": null,
         "heroId": "forest_archer_costume_glass",
         "star": 3,
         "power": 515,
@@ -19518,6 +20385,7 @@ window.allHeroes =
         "source": "S1 - Classic",
         "Release date": "2017-03-01",
         "specialId": "natures_blessing",
+        "passiveSkills": null,
         "heroId": "forest_female_druid",
         "star": 3,
         "power": 440,
@@ -19568,6 +20436,8 @@ window.allHeroes =
         "source": "Costume Quest",
         "Release date": "2020-01-01",
         "specialId": "natures_blessing",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null,
         "heroId": "forest_female_druid_costume_native",
         "star": 3,
         "power": 469,
@@ -19618,6 +20488,10 @@ window.allHeroes =
         "source": "Costume Quest",
         "Release date": "2024-01-22",
         "specialId": "natures_blessing",
+        "passiveSkills": [
+            "toon_resist_debuffs_manareduction_dispels"
+        ],
+        "costumeBonusPassiveSkillIds": null,
         "heroId": "forest_female_druid_costume_cute",
         "star": 3,
         "power": 502,
@@ -19673,6 +20547,10 @@ window.allHeroes =
         "source": "Costume Quest",
         "Release date": "2025-03-11",
         "specialId": "natures_blessing",
+        "passiveSkills": [
+            "glass_reflect_debuffs"
+        ],
+        "costumeBonusPassiveSkillIds": null,
         "heroId": "forest_female_druid_costume_glass",
         "star": 3,
         "power": 510,
@@ -19732,6 +20610,7 @@ window.allHeroes =
         "source": "S3 - Valhalla",
         "Release date": "2020-02-27",
         "specialId": "hollow_boast",
+        "passiveSkills": null,
         "heroId": "s3_by_ulf",
         "star": 3,
         "power": 463,
@@ -19803,6 +20682,7 @@ window.allHeroes =
         "source": "S1 - Classic",
         "Release date": "2017-03-01",
         "specialId": "slash_of_four_blades",
+        "passiveSkills": null,
         "heroId": "goblin_fighter",
         "star": 3,
         "power": 444,
@@ -19861,6 +20741,8 @@ window.allHeroes =
         "source": "Costume Quest",
         "Release date": "2020-05-18",
         "specialId": "slash_of_four_blades",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null,
         "heroId": "goblin_fighter_costume_evil",
         "star": 3,
         "power": 473,
@@ -19920,6 +20802,10 @@ window.allHeroes =
         "source": "Costume Quest",
         "Release date": "2024-06-28",
         "specialId": "slash_of_four_blades",
+        "passiveSkills": [
+            "toon_resist_debuffs_manareduction_dispels"
+        ],
+        "costumeBonusPassiveSkillIds": null,
         "heroId": "goblin_fighter_costume_cute",
         "star": 3,
         "power": 506,
@@ -19984,6 +20870,10 @@ window.allHeroes =
         "source": "Costume Quest",
         "Release date": "2025-07-16",
         "specialId": "slash_of_four_blades",
+        "passiveSkills": [
+            "glass_reflect_debuffs"
+        ],
+        "costumeBonusPassiveSkillIds": null,
         "heroId": "goblin_fighter_costume_glass",
         "star": 3,
         "power": 515,
@@ -20047,6 +20937,11 @@ window.allHeroes =
         "source": "Astral Summon",
         "Release date": "2025-06-04",
         "specialId": "astral_pastries",
+        "passiveSkills": [
+            "eat_fiends_on_special_cast",
+            "resist_negative_minion_and_mega_minion_effects",
+            "bypass_minions_and_mega_minions"
+        ],
         "heroId": "astral_dwarf_chires",
         "star": 3,
         "power": 509,
@@ -20115,6 +21010,9 @@ window.allHeroes =
         "source": "Tower - Magic",
         "Release date": "2021-09-15",
         "specialId": "voluminous_vigor",
+        "passiveSkills": [
+            "magic_mana_regen_debuff_on_special"
+        ],
         "heroId": "magic_dolgoon",
         "star": 3,
         "power": 479,
@@ -20183,6 +21081,9 @@ window.allHeroes =
         "source": "S5 - Dune",
         "Release date": "2022-04-21",
         "specialId": "plentiful_harvest",
+        "passiveSkills": [
+            "sun_extra_special_heal_and_cleanse_latest_debuff"
+        ],
         "heroId": "s5_faiez",
         "star": 3,
         "power": 483,
@@ -20246,6 +21147,13 @@ window.allHeroes =
         "source": "S5 - Dune",
         "Release date": "2024-09-07",
         "specialId": "plentiful_harvest",
+        "passiveSkills": [
+            "sun_extra_special_heal_and_cleanse_latest_debuff"
+        ],
+        "costumeBonusPassiveSkillIds": [
+            "heal_on_buff",
+            "guaranteed_passive_effects_on_special"
+        ],
         "heroId": "s5_faiez_costume_miner",
         "star": 3,
         "power": 495,
@@ -20312,6 +21220,9 @@ window.allHeroes =
         "source": "Tower - Owls",
         "Release date": "2023-12-20",
         "specialId": "jack_of_owl_trades",
+        "passiveSkills": [
+            "mana_generation_modifier_all_enemies_stronger"
+        ],
         "heroId": "owl_featherino",
         "star": 3,
         "power": 489,
@@ -20373,6 +21284,10 @@ window.allHeroes =
         "source": "Monster Island Summon",
         "Release date": "2022-11-12",
         "specialId": "bone_arrow",
+        "passiveSkills": [
+            "hunters_mark_on_special",
+            "special_damage_reduction_monster_hunters"
+        ],
         "heroId": "monster_hunter_fianna",
         "star": 3,
         "power": 484,
@@ -20435,6 +21350,7 @@ window.allHeroes =
         "source": "S1 - Classic",
         "Release date": "2017-03-01",
         "specialId": "have_faith",
+        "passiveSkills": null,
         "heroId": "forest_friar",
         "star": 3,
         "power": 446,
@@ -20493,6 +21409,8 @@ window.allHeroes =
         "source": "Costume Quest",
         "Release date": "2020-05-18",
         "specialId": "have_faith",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null,
         "heroId": "forest_friar_costume_explorer",
         "star": 3,
         "power": 476,
@@ -20551,6 +21469,10 @@ window.allHeroes =
         "source": "Costume Quest",
         "Release date": "2024-05-31",
         "specialId": "have_faith",
+        "passiveSkills": [
+            "toon_resist_debuffs_manareduction_dispels"
+        ],
+        "costumeBonusPassiveSkillIds": null,
         "heroId": "forest_friar_costume_cute",
         "star": 3,
         "power": 509,
@@ -20613,6 +21535,10 @@ window.allHeroes =
         "source": "Costume Quest",
         "Release date": "2025-06-18",
         "specialId": "have_faith",
+        "passiveSkills": [
+            "glass_reflect_debuffs"
+        ],
+        "costumeBonusPassiveSkillIds": null,
         "heroId": "forest_friar_costume_glass",
         "star": 3,
         "power": 517,
@@ -20676,6 +21602,7 @@ window.allHeroes =
         "source": "Three Kingdoms Summon",
         "Release date": "2023-02-27",
         "specialId": "enchanted_axe_swing",
+        "passiveSkills": null,
         "heroId": "journey_general_yin",
         "star": 3,
         "power": 486,
@@ -20740,6 +21667,7 @@ window.allHeroes =
         "source": "Challenge Festival I",
         "Release date": "2021-12-15",
         "specialId": "sharp_knife",
+        "passiveSkills": null,
         "heroId": "fables_gnomer",
         "star": 3,
         "power": 481,
@@ -20800,6 +21728,9 @@ window.allHeroes =
         "source": "Monthly Event - Morlovia",
         "Release date": "2022-10-03",
         "specialId": "sugar_rush",
+        "passiveSkills": [
+            "halloween_steal_buff_or_deal_damage"
+        ],
         "heroId": "halloween_goopy",
         "star": 3,
         "power": 483,
@@ -20866,6 +21797,9 @@ window.allHeroes =
         "source": "S4 - Wilderness",
         "Release date": "2021-03-25",
         "specialId": "elders_remedy",
+        "passiveSkills": [
+            "special_damage_reduction"
+        ],
         "heroId": "s4_gramps",
         "star": 3,
         "power": 478,
@@ -20926,6 +21860,10 @@ window.allHeroes =
         "source": "S4 - Wilderness",
         "Release date": "2023-11-09",
         "specialId": "elders_remedy",
+        "passiveSkills": [
+            "special_damage_reduction"
+        ],
+        "costumeBonusPassiveSkillIds": null,
         "heroId": "s4_gramps_costume_gardener",
         "star": 3,
         "power": 488,
@@ -20983,6 +21921,7 @@ window.allHeroes =
         "source": "S3 - Valhalla",
         "Release date": "2020-05-28",
         "specialId": "travelers_snack",
+        "passiveSkills": null,
         "heroId": "s3_grevle",
         "star": 3,
         "power": 464,
@@ -21046,6 +21985,7 @@ window.allHeroes =
         "source": "Monthly Event - Sand Empire",
         "Release date": "2018-06-21",
         "specialId": "horses_curse",
+        "passiveSkills": null,
         "heroId": "sand_horse",
         "star": 3,
         "power": 448,
@@ -21107,6 +22047,7 @@ window.allHeroes =
         "source": "S1 - Classic",
         "Release date": "2017-03-01",
         "specialId": "ramming_rush",
+        "passiveSkills": null,
         "heroId": "lizardman_warrior",
         "star": 3,
         "power": 447,
@@ -21159,6 +22100,8 @@ window.allHeroes =
         "source": "Costume Quest",
         "Release date": "2020-05-18",
         "specialId": "ramming_rush",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null,
         "heroId": "lizardman_warrior_costume_dinosaur",
         "star": 3,
         "power": 476,
@@ -21216,6 +22159,10 @@ window.allHeroes =
         "source": "Costume Quest",
         "Release date": "2024-07-16",
         "specialId": "ramming_rush",
+        "passiveSkills": [
+            "toon_resist_debuffs_manareduction_dispels"
+        ],
+        "costumeBonusPassiveSkillIds": null,
         "heroId": "lizardman_warrior_costume_cute",
         "star": 3,
         "power": 510,
@@ -21277,6 +22224,7 @@ window.allHeroes =
         "source": "Three Kingdoms Summon",
         "Release date": "2022-03-14",
         "specialId": "spear_of_shu",
+        "passiveSkills": null,
         "heroId": "kingdom_jing",
         "star": 3,
         "power": 482,
@@ -21341,6 +22289,7 @@ window.allHeroes =
         "source": "S2 - Atlantis",
         "Release date": "2019-08-01",
         "specialId": "frightening_pinch",
+        "passiveSkills": null,
         "heroId": "s2_merman",
         "star": 3,
         "power": 448,
@@ -21399,6 +22348,8 @@ window.allHeroes =
         "source": "S2 - Atlantis",
         "Release date": "2022-05-02",
         "specialId": "frightening_pinch",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null,
         "heroId": "s2_merman_costume_leutenant",
         "star": 3,
         "power": 462,
@@ -21455,6 +22406,7 @@ window.allHeroes =
         "source": "S2 - Atlantis",
         "Release date": "2019-08-01",
         "specialId": "bruiser_bros",
+        "passiveSkills": null,
         "heroId": "s2_chameleon_bruiser",
         "star": 3,
         "power": 450,
@@ -21517,6 +22469,9 @@ window.allHeroes =
         "source": "Challenge Festival II",
         "Release date": "2021-08-05",
         "specialId": "dual_axes",
+        "passiveSkills": [
+            "resist_status_effect_damage"
+        ],
         "heroId": "slayer_noril",
         "star": 3,
         "power": 478,
@@ -21591,6 +22546,10 @@ window.allHeroes =
         "source": "Tower - Magic",
         "Release date": "2023-05-03",
         "specialId": "ancient_ritual",
+        "passiveSkills": [
+            "magic_mana_regen_stack_on_special",
+            "magic_add_mana_on_full_charge_to_not_blue"
+        ],
         "heroId": "magic_roxia",
         "star": 3,
         "power": 486,
@@ -21662,6 +22621,7 @@ window.allHeroes =
         "source": "Challenge Festival I",
         "Release date": "2019-12-01",
         "specialId": "camouflage_foliage",
+        "passiveSkills": null,
         "heroId": "wonderland_bear",
         "star": 3,
         "power": 455,
@@ -21718,6 +22678,7 @@ window.allHeroes =
         "source": "Challenge Festival II",
         "Release date": "2021-06-10",
         "specialId": "nasty_hammer",
+        "passiveSkills": null,
         "heroId": "circus_whacker",
         "star": 3,
         "power": 477,
@@ -21778,6 +22739,10 @@ window.allHeroes =
         "source": "Goblin Summon",
         "Release date": "2024-04-15",
         "specialId": "situational_awareness",
+        "passiveSkills": [
+            "remove_wither_from_allies",
+            "resist_direct_mana_reductions"
+        ],
         "heroId": "garrison_william",
         "star": 3,
         "power": 494,
@@ -21846,6 +22811,9 @@ window.allHeroes =
         "source": "Alliance - Knights Clash",
         "Release date": "2024-01-10",
         "specialId": "paws_or_claws",
+        "passiveSkills": [
+            "heal_on_buff_alliance_quest_family"
+        ],
         "heroId": "castle_bear_yona",
         "star": 3,
         "power": 490,
@@ -21924,6 +22892,9 @@ window.allHeroes =
         "source": "Challenge Festival II",
         "Release date": "2022-12-01",
         "specialId": "tambourine_solo",
+        "passiveSkills": [
+            "defense_modifier_reduction_all_allies"
+        ],
         "heroId": "bard_zarel",
         "star": 3,
         "power": 485,
@@ -21985,6 +22956,9 @@ window.allHeroes =
         "source": "Monthly Event - Love Season",
         "Release date": "2023-02-14",
         "specialId": "punishing_shot",
+        "passiveSkills": [
+            "resist_special_blocking"
+        ],
         "heroId": "valentines_zarola",
         "star": 3,
         "power": 486,
@@ -22047,6 +23021,9 @@ window.allHeroes =
         "source": "Super Elementals",
         "Release date": "2023-08-14",
         "specialId": "enchanted_symphony",
+        "passiveSkills": [
+            "strong_troop_damage_modifier"
+        ],
         "heroId": "elemental_alfie",
         "star": 4,
         "power": 688,
@@ -22119,6 +23096,7 @@ window.allHeroes =
         "source": "S3 - Valhalla",
         "Release date": "2020-05-28",
         "specialId": "shadow_sweep",
+        "passiveSkills": null,
         "heroId": "s3_almur",
         "star": 4,
         "power": 662,
@@ -22181,6 +23159,8 @@ window.allHeroes =
         "source": "S3 - Valhalla",
         "Release date": "2023-03-13",
         "specialId": "shadow_sweep",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null,
         "heroId": "s3_almur_costume_lord",
         "star": 4,
         "power": 684,
@@ -22252,6 +23232,9 @@ window.allHeroes =
         "source": "Tower - Magic",
         "Release date": "2021-09-15",
         "specialId": "high_noon_sun",
+        "passiveSkills": [
+            "magic_heal_on_full_charge_to_not_green"
+        ],
         "heroId": "magic_anton",
         "star": 4,
         "power": 678,
@@ -22321,6 +23304,10 @@ window.allHeroes =
         "source": "Tower - Styx",
         "Release date": "2022-09-21",
         "specialId": "fruits_of_labor",
+        "passiveSkills": [
+            "resist_all_defense_debuffs",
+            "reduce_minion_health"
+        ],
         "heroId": "styx_brontes",
         "star": 4,
         "power": 685,
@@ -22395,6 +23382,7 @@ window.allHeroes =
         "source": "S3 - Valhalla",
         "Release date": "2020-02-27",
         "specialId": "valkyrie_defense",
+        "passiveSkills": null,
         "heroId": "s3_brynhild",
         "star": 4,
         "power": 660,
@@ -22461,6 +23449,7 @@ window.allHeroes =
         "source": "Monthly Event - Winter",
         "Release date": "2020-12-01",
         "specialId": "perilous_gift",
+        "passiveSkills": null,
         "heroId": "christmas_carol",
         "star": 4,
         "power": 649,
@@ -22527,6 +23516,7 @@ window.allHeroes =
         "source": "S1 - Classic",
         "Release date": "2017-03-01",
         "specialId": "piercing_strike",
+        "passiveSkills": null,
         "heroId": "elven_captain",
         "star": 4,
         "power": 643,
@@ -22585,6 +23575,8 @@ window.allHeroes =
         "source": "Costume Quest",
         "Release date": "2020-05-18",
         "specialId": "piercing_strike",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null,
         "heroId": "elven_captain_costume_mask",
         "star": 4,
         "power": 688,
@@ -22644,6 +23636,8 @@ window.allHeroes =
         "source": "Costume Quest",
         "Release date": "2022-12-26",
         "specialId": "piercing_strike",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null,
         "heroId": "elven_captain_costume_cavalier",
         "star": 4,
         "power": 734,
@@ -22709,6 +23703,10 @@ window.allHeroes =
         "source": "Costume Quest",
         "Release date": "2024-01-22",
         "specialId": "piercing_strike",
+        "passiveSkills": [
+            "toon_resist_debuffs_manareduction_dispels"
+        ],
+        "costumeBonusPassiveSkillIds": null,
         "heroId": "elven_captain_costume_cute",
         "star": 4,
         "power": 746,
@@ -22778,6 +23776,10 @@ window.allHeroes =
         "source": "Costume Quest",
         "Release date": "2025-01-14",
         "specialId": "piercing_strike",
+        "passiveSkills": [
+            "glass_reflect_debuffs"
+        ],
+        "costumeBonusPassiveSkillIds": null,
         "heroId": "elven_captain_costume_glass",
         "star": 4,
         "power": 759,
@@ -22852,6 +23854,7 @@ window.allHeroes =
         "source": "Alliance - Knights Clash",
         "Release date": "2022-01-05",
         "specialId": "sonorous_spear",
+        "passiveSkills": null,
         "heroId": "castle_raven_franz",
         "star": 4,
         "power": 681,
@@ -22913,6 +23916,10 @@ window.allHeroes =
         "source": "Super Elementals",
         "Release date": "2025-07-04",
         "specialId": "fruit_cocktail",
+        "passiveSkills": [
+            "summon_slime_minion_on_damage_green",
+            "summon_slime_minion_on_death_green"
+        ],
         "heroId": "slime_fruitio",
         "star": 4,
         "power": 747,
@@ -22976,6 +23983,7 @@ window.allHeroes =
         "source": "S2 - Atlantis",
         "Release date": "2019-08-01",
         "specialId": "empowering_bash",
+        "passiveSkills": null,
         "heroId": "s2_atlantean_robot",
         "star": 4,
         "power": 647,
@@ -23039,6 +24047,8 @@ window.allHeroes =
         "source": "S2 - Atlantis",
         "Release date": "2022-05-02",
         "specialId": "empowering_bash",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null,
         "heroId": "s2_atlantean_robot_costume_sentinel",
         "star": 4,
         "power": 668,
@@ -23101,6 +24111,7 @@ window.allHeroes =
         "source": "S2 - Atlantis",
         "Release date": "2019-08-01",
         "specialId": "familiar_eater",
+        "passiveSkills": null,
         "heroId": "s2_chameleon_chief",
         "star": 4,
         "power": 651,
@@ -23163,6 +24174,8 @@ window.allHeroes =
         "source": "S2 - Atlantis",
         "Release date": "2023-04-03",
         "specialId": "familiar_eater",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null,
         "heroId": "s2_chameleon_chief_costume_heavyweight",
         "star": 4,
         "power": 673,
@@ -23229,6 +24242,7 @@ window.allHeroes =
         "source": "Challenge Festival I",
         "Release date": "2019-12-01",
         "specialId": "witch_killer",
+        "passiveSkills": null,
         "heroId": "fables_hansel",
         "star": 4,
         "power": 646,
@@ -23294,6 +24308,8 @@ window.allHeroes =
         "source": "Challenge Festival I",
         "Release date": "2023-08-10",
         "specialId": "witch_killer",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null,
         "heroId": "fables_hansel_costume_vampire_hunter",
         "star": 4,
         "power": 682,
@@ -23357,6 +24373,7 @@ window.allHeroes =
         "source": "Monthly Event - Springvale",
         "Release date": "2018-03-28",
         "specialId": "reckless_slash",
+        "passiveSkills": null,
         "heroId": "rabbit_green",
         "star": 4,
         "power": 648,
@@ -23416,6 +24433,8 @@ window.allHeroes =
         "source": "Monthly Event - Springvale",
         "Release date": "2022-03-21",
         "specialId": "reckless_slash",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null,
         "heroId": "rabbit_green_costume_egg_hunter",
         "star": 4,
         "power": 669,
@@ -23476,6 +24495,9 @@ window.allHeroes =
         "source": "Challenge - Gargoyle",
         "Release date": "2022-05-12",
         "specialId": "resurrection_of_the_fallen",
+        "passiveSkills": [
+            "gargoyle_stone"
+        ],
         "heroId": "gargoyle_kalo",
         "star": 4,
         "power": 677,
@@ -23539,6 +24561,7 @@ window.allHeroes =
         "source": "S1 - Classic",
         "Release date": "2017-03-01",
         "specialId": "swamp_skin",
+        "passiveSkills": null,
         "heroId": "lizardman_trapper",
         "star": 4,
         "power": 643,
@@ -23598,6 +24621,8 @@ window.allHeroes =
         "source": "Costume Quest",
         "Release date": "2020-05-18",
         "specialId": "swamp_skin",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null,
         "heroId": "lizardman_trapper_costume_shaman",
         "star": 4,
         "power": 690,
@@ -23656,6 +24681,8 @@ window.allHeroes =
         "source": "Costume Quest",
         "Release date": "2023-11-27",
         "specialId": "swamp_skin",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null,
         "heroId": "lizardman_trapper_costume_fisher",
         "star": 4,
         "power": 736,
@@ -23714,6 +24741,10 @@ window.allHeroes =
         "source": "Costume Quest",
         "Release date": "2024-05-31",
         "specialId": "swamp_skin",
+        "passiveSkills": [
+            "toon_resist_debuffs_manareduction_dispels"
+        ],
+        "costumeBonusPassiveSkillIds": null,
         "heroId": "lizardman_trapper_costume_cute",
         "star": 4,
         "power": 748,
@@ -23776,6 +24807,10 @@ window.allHeroes =
         "source": "Costume Quest",
         "Release date": "2025-06-18",
         "specialId": "swamp_skin",
+        "passiveSkills": [
+            "glass_reflect_debuffs"
+        ],
+        "costumeBonusPassiveSkillIds": null,
         "heroId": "lizardman_trapper_costume_glass",
         "star": 4,
         "power": 761,
@@ -23842,6 +24877,10 @@ window.allHeroes =
         "source": "Astral Summon",
         "Release date": "2024-03-07",
         "specialId": "cloth_of_constellations",
+        "passiveSkills": [
+            "share_received_damage",
+            "resist_poison"
+        ],
         "heroId": "astral_lionstring",
         "star": 4,
         "power": 697,
@@ -23910,6 +24949,7 @@ window.allHeroes =
         "source": "S1 - Classic",
         "Release date": "2017-03-01",
         "specialId": "massive_chop",
+        "passiveSkills": null,
         "heroId": "forest_woodsman_warrior",
         "star": 4,
         "power": 641,
@@ -23969,6 +25009,8 @@ window.allHeroes =
         "source": "Costume Quest",
         "Release date": "2020-05-18",
         "specialId": "massive_chop",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null,
         "heroId": "forest_woodsman_warrior_costume_camouflage",
         "star": 4,
         "power": 686,
@@ -24028,6 +25070,8 @@ window.allHeroes =
         "source": "Costume Quest",
         "Release date": "2023-10-30",
         "specialId": "massive_chop",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null,
         "heroId": "forest_woodsman_warrior_costume_highlander",
         "star": 4,
         "power": 732,
@@ -24087,6 +25131,10 @@ window.allHeroes =
         "source": "Costume Quest",
         "Release date": "2024-05-06",
         "specialId": "massive_chop",
+        "passiveSkills": [
+            "toon_resist_debuffs_manareduction_dispels"
+        ],
+        "costumeBonusPassiveSkillIds": null,
         "heroId": "forest_woodsman_warrior_costume_cute",
         "star": 4,
         "power": 744,
@@ -24155,6 +25203,10 @@ window.allHeroes =
         "source": "Costume Quest",
         "Release date": "2025-05-10",
         "specialId": "massive_chop",
+        "passiveSkills": [
+            "glass_reflect_debuffs"
+        ],
+        "costumeBonusPassiveSkillIds": null,
         "heroId": "forest_woodsman_warrior_costume_glass",
         "star": 4,
         "power": 756,
@@ -24224,6 +25276,7 @@ window.allHeroes =
         "source": "Challenge Festival II",
         "Release date": "2021-06-10",
         "specialId": "head_hurl",
+        "passiveSkills": null,
         "heroId": "circus_marcel",
         "star": 4,
         "power": 676,
@@ -24288,6 +25341,7 @@ window.allHeroes =
         "source": "S1 - Classic",
         "Release date": "2017-03-01",
         "specialId": "fog_of_the_fallen",
+        "passiveSkills": null,
         "heroId": "forest_mage",
         "star": 4,
         "power": 638,
@@ -24348,6 +25402,8 @@ window.allHeroes =
         "source": "Costume Quest",
         "Release date": "2020-01-01",
         "specialId": "fog_of_the_fallen",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null,
         "heroId": "forest_mage_costume_white",
         "star": 4,
         "power": 683,
@@ -24410,6 +25466,8 @@ window.allHeroes =
         "source": "Costume Quest",
         "Release date": "2023-10-30",
         "specialId": "fog_of_the_fallen",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null,
         "heroId": "forest_mage_costume_party",
         "star": 4,
         "power": 729,
@@ -24472,6 +25530,10 @@ window.allHeroes =
         "source": "Costume Quest",
         "Release date": "2024-01-22",
         "specialId": "fog_of_the_fallen",
+        "passiveSkills": [
+            "toon_resist_debuffs_manareduction_dispels"
+        ],
+        "costumeBonusPassiveSkillIds": null,
         "heroId": "forest_mage_costume_cute",
         "star": 4,
         "power": 741,
@@ -24537,6 +25599,10 @@ window.allHeroes =
         "source": "Costume Quest",
         "Release date": "2025-03-11",
         "specialId": "fog_of_the_fallen",
+        "passiveSkills": [
+            "glass_reflect_debuffs"
+        ],
+        "costumeBonusPassiveSkillIds": null,
         "heroId": "forest_mage_costume_glass",
         "star": 4,
         "power": 753,
@@ -24600,6 +25666,9 @@ window.allHeroes =
         "source": "Monthly Event - Kalevala",
         "Release date": "2022-06-20",
         "specialId": "sprite_ballad",
+        "passiveSkills": [
+            "heal_mana_on_low_health_once"
+        ],
         "heroId": "kalevala_mielikki",
         "star": 4,
         "power": 682,
@@ -24667,6 +25736,10 @@ window.allHeroes =
         "source": "Monthly Event - Kalevala",
         "Release date": "2023-08-07",
         "specialId": "sprite_ballad",
+        "passiveSkills": [
+            "heal_mana_on_low_health_once"
+        ],
+        "costumeBonusPassiveSkillIds": null,
         "heroId": "kalevala_mielikki_costume_bear_protector",
         "star": 4,
         "power": 706,
@@ -24735,6 +25808,9 @@ window.allHeroes =
         "source": "S6 - Mysteries of the Deep",
         "Release date": "2023-06-07",
         "specialId": "noxious_cleave",
+        "passiveSkills": [
+            "tales1_extra_special_damage_and_add_stacking_mana_generation"
+        ],
         "heroId": "tales1_mulgog",
         "star": 4,
         "power": 688,
@@ -24814,6 +25890,12 @@ window.allHeroes =
         "source": "S6 - Mysteries of the Deep",
         "Release date": "2025-03-31",
         "specialId": "noxious_cleave",
+        "passiveSkills": [
+            "tales1_extra_special_damage_and_add_stacking_mana_generation"
+        ],
+        "costumeBonusPassiveSkillIds": [
+            "resist_insanity"
+        ],
         "heroId": "tales1_mulgog_costume_bard",
         "star": 4,
         "power": 704,
@@ -24893,6 +25975,11 @@ window.allHeroes =
         "source": "Wilderness Summon",
         "Release date": "2025-02-21",
         "specialId": "a_rare_cultivar",
+        "passiveSkills": [
+            "resist_negative_attack_modifiers_including_wither",
+            "resist_insanity",
+            "minion_and_mega_minion_accuracy_modifier"
+        ],
         "heroId": "faun_myrtle",
         "star": 4,
         "power": 727,
@@ -24965,6 +26052,10 @@ window.allHeroes =
         "source": "Monster Island Summon",
         "Release date": "2023-05-06",
         "specialId": "cracked_skull_strike",
+        "passiveSkills": [
+            "hunters_mark_on_special",
+            "monster_hunter_reallocate_debuff_or_heal"
+        ],
         "heroId": "monster_hunter_numbskull",
         "star": 4,
         "power": 687,
@@ -25034,6 +26125,9 @@ window.allHeroes =
         "source": "Challenge Festival II",
         "Release date": "2021-08-05",
         "specialId": "graceful_shot",
+        "passiveSkills": [
+            "resist_status_effect_damage"
+        ],
         "heroId": "slayer_orla",
         "star": 4,
         "power": 677,
@@ -25108,6 +26202,7 @@ window.allHeroes =
         "source": "Challenge Festival I",
         "Release date": "2017-09-07",
         "specialId": "buccaneers_blade",
+        "passiveSkills": null,
         "heroId": "pirate_cabin_boy",
         "star": 4,
         "power": 645,
@@ -25168,6 +26263,8 @@ window.allHeroes =
         "source": "Challenge Festival I",
         "Release date": "2023-12-28",
         "specialId": "buccaneers_blade",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null,
         "heroId": "pirate_cabin_boy_costume_paper",
         "star": 4,
         "power": 681,
@@ -25229,6 +26326,9 @@ window.allHeroes =
         "source": "S5 - Dune",
         "Release date": "2022-04-21",
         "specialId": "divine_connection",
+        "passiveSkills": [
+            "sun_extra_special_heal_and_cleanse_latest_debuff"
+        ],
         "heroId": "s5_ptolemy",
         "star": 4,
         "power": 683,
@@ -25295,6 +26395,13 @@ window.allHeroes =
         "source": "S5 - Dune",
         "Release date": "2024-10-05",
         "specialId": "divine_connection",
+        "passiveSkills": [
+            "sun_extra_special_heal_and_cleanse_latest_debuff"
+        ],
+        "costumeBonusPassiveSkillIds": [
+            "heal_on_buff",
+            "guaranteed_passive_effects_on_special"
+        ],
         "heroId": "s5_ptolemy_costume_log",
         "star": 4,
         "power": 699,
@@ -25362,6 +26469,9 @@ window.allHeroes =
         "source": "Alliance - Knights Clash",
         "Release date": "2024-01-10",
         "specialId": "tome_of_the_stag",
+        "passiveSkills": [
+            "heal_on_buff_alliance_quest_family"
+        ],
         "heroId": "castle_stag_raleigh",
         "star": 4,
         "power": 692,
@@ -25424,6 +26534,7 @@ window.allHeroes =
         "source": "S1 - Classic",
         "Release date": "2017-03-01",
         "specialId": "creeping_vines",
+        "passiveSkills": null,
         "heroId": "goblin_mage",
         "star": 4,
         "power": 644,
@@ -25482,6 +26593,8 @@ window.allHeroes =
         "source": "Costume Quest",
         "Release date": "2020-01-01",
         "specialId": "creeping_vines",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null,
         "heroId": "goblin_mage_costume_candy",
         "star": 4,
         "power": 688,
@@ -25540,6 +26653,8 @@ window.allHeroes =
         "source": "Costume Quest",
         "Release date": "2023-04-17",
         "specialId": "creeping_vines",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null,
         "heroId": "goblin_mage_costume_toad",
         "star": 4,
         "power": 735,
@@ -25599,6 +26714,10 @@ window.allHeroes =
         "source": "Costume Quest",
         "Release date": "2024-03-11",
         "specialId": "creeping_vines",
+        "passiveSkills": [
+            "toon_resist_debuffs_manareduction_dispels"
+        ],
+        "costumeBonusPassiveSkillIds": null,
         "heroId": "goblin_mage_costume_cute",
         "star": 4,
         "power": 746,
@@ -25667,6 +26786,10 @@ window.allHeroes =
         "source": "Costume Quest",
         "Release date": "2025-04-08",
         "specialId": "creeping_vines",
+        "passiveSkills": [
+            "glass_reflect_debuffs"
+        ],
+        "costumeBonusPassiveSkillIds": null,
         "heroId": "goblin_mage_costume_glass",
         "star": 4,
         "power": 759,
@@ -25736,6 +26859,10 @@ window.allHeroes =
         "source": "S7 - Treasures of Flame and Frost",
         "Release date": "2025-08-06",
         "specialId": "bound_by_tales",
+        "passiveSkills": [
+            "arctic_core",
+            "resist_frost_with_health_boost_and_mana"
+        ],
         "heroId": "tales2_snorri",
         "star": 4,
         "power": 757,
@@ -25804,6 +26931,9 @@ window.allHeroes =
         "source": "S4 - Wilderness",
         "Release date": "2021-03-25",
         "specialId": "crippling_grapple",
+        "passiveSkills": [
+            "special_damage_reduction"
+        ],
         "heroId": "s4_tettukh",
         "star": 4,
         "power": 677,
@@ -25869,6 +26999,10 @@ window.allHeroes =
         "source": "S4 - Wilderness",
         "Release date": "2023-12-07",
         "specialId": "crippling_grapple",
+        "passiveSkills": [
+            "special_damage_reduction"
+        ],
+        "costumeBonusPassiveSkillIds": null,
         "heroId": "s4_tettukh_costume_cheerleader",
         "star": 4,
         "power": 692,
@@ -25936,6 +27070,9 @@ window.allHeroes =
         "source": "Alliance - Musketeers",
         "Release date": "2022-12-14",
         "specialId": "the_dukes_investigation",
+        "passiveSkills": [
+            "damage_all_enemies_on_cover_or_special_damage_received"
+        ],
         "heroId": "musketeer_villiers",
         "star": 4,
         "power": 686,
@@ -26002,6 +27139,7 @@ window.allHeroes =
         "source": "Alliance - Knights Clash",
         "Release date": "2021-10-13",
         "specialId": "squires_squirrel",
+        "passiveSkills": null,
         "heroId": "castle_raven_wren",
         "star": 4,
         "power": 680,
@@ -26063,6 +27201,9 @@ window.allHeroes =
         "source": "S5 - Dune",
         "Release date": "2022-11-24",
         "specialId": "ancient_mirror",
+        "passiveSkills": [
+            "moon_extra_special_damage_and_mana_regen_debuff"
+        ],
         "heroId": "s5_ahmose",
         "star": 5,
         "power": 866,
@@ -26126,6 +27267,13 @@ window.allHeroes =
         "source": "S5 - Dune",
         "Release date": "2024-03-04",
         "specialId": "ancient_mirror",
+        "passiveSkills": [
+            "moon_extra_special_damage_and_mana_regen_debuff"
+        ],
+        "costumeBonusPassiveSkillIds": [
+            "resist_sand",
+            "iterate_passive_effects_on_special"
+        ],
         "heroId": "s5_ahmose_costume_reborn",
         "star": 5,
         "power": 1211,
@@ -26194,6 +27342,7 @@ window.allHeroes =
         "source": "Legends Summon - Hero of the Month",
         "Release date": "2017-10-01",
         "specialId": "midsummers_dream",
+        "passiveSkills": null,
         "heroId": "forest_god_oberon",
         "star": 5,
         "power": 765,
@@ -26260,6 +27409,10 @@ window.allHeroes =
         "source": "Legends Summon - Hero of the Month",
         "Release date": "2021-10-20",
         "specialId": "midsummers_dream",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": [
+            "extra_special_cleanse_newest"
+        ],
         "heroId": "forest_god_oberon_costume_everoak",
         "star": 5,
         "power": 970,
@@ -26328,6 +27481,10 @@ window.allHeroes =
         "source": "Goblin Summon",
         "Release date": "2025-03-14",
         "specialId": "suspicious_stew",
+        "passiveSkills": [
+            "remove_growth_from_enemies",
+            "resist_direct_mana_reductions"
+        ],
         "heroId": "garrison_archibald",
         "star": 5,
         "power": 1168,
@@ -26402,6 +27559,7 @@ window.allHeroes =
         "source": "Monthly Event - Springvale",
         "Release date": "2023-03-27",
         "specialId": "fabled_llama_ballad",
+        "passiveSkills": null,
         "heroId": "easter_archie",
         "star": 5,
         "power": 865,
@@ -26464,6 +27622,8 @@ window.allHeroes =
         "source": "Monthly Event - Springvale",
         "Release date": "2024-03-18",
         "specialId": "fabled_llama_ballad",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null,
         "heroId": "easter_archie_costume_gallant",
         "star": 5,
         "power": 1030,
@@ -26527,6 +27687,9 @@ window.allHeroes =
         "source": "Challenge - Gargoyle",
         "Release date": "2022-05-12",
         "specialId": "gargoyles_of_redemption",
+        "passiveSkills": [
+            "gargoyle_stone"
+        ],
         "heroId": "gargoyle_arco",
         "star": 5,
         "power": 841,
@@ -26586,6 +27749,10 @@ window.allHeroes =
         "source": "Challenge - Secrets of the Opera",
         "Release date": "2024-08-22",
         "specialId": "make_them_harmless",
+        "passiveSkills": [
+            "heal_on_expired_or_cleared_debuff",
+            "resist_attack_modifier_debuffs"
+        ],
         "heroId": "ballerina_armand",
         "star": 5,
         "power": 1090,
@@ -26660,6 +27827,10 @@ window.allHeroes =
         "source": "Extra Draw - Secret Summon",
         "Release date": "2025-08-05",
         "specialId": "gorging_chew_green",
+        "passiveSkills": [
+            "mimic_ascension_item_green",
+            "never_miss_special"
+        ],
         "heroId": "mimic_ascension_item_green",
         "star": 5,
         "power": 1225,
@@ -26748,6 +27919,9 @@ window.allHeroes =
         "source": "Alliance - Musketeers",
         "Release date": "2022-12-14",
         "specialId": "piercing_shot",
+        "passiveSkills": [
+            "damage_all_enemies_on_cover_or_special_damage_received"
+        ],
         "heroId": "musketeer_athos",
         "star": 5,
         "power": 864,
@@ -26815,6 +27989,7 @@ window.allHeroes =
         "source": "S2 - Atlantis",
         "Release date": "2019-02-01",
         "specialId": "immortal_annihilator",
+        "passiveSkills": null,
         "heroId": "s2_skyllaros",
         "star": 5,
         "power": 772,
@@ -26880,6 +28055,8 @@ window.allHeroes =
         "source": "S2 - Atlantis",
         "Release date": "2023-04-03",
         "specialId": "immortal_annihilator",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null,
         "heroId": "s2_skyllaros_costume_reef",
         "star": 5,
         "power": 942,
@@ -26949,6 +28126,9 @@ window.allHeroes =
         "source": "Mystery - Shadow Summon",
         "Release date": "2024-04-11",
         "specialId": "jewel_of_the_deep",
+        "passiveSkills": [
+            "insanity_damage_reduction"
+        ],
         "heroId": "shadow_atwood",
         "star": 5,
         "power": 1105,
@@ -27023,6 +28203,7 @@ window.allHeroes =
         "source": "Monthly Event - Winter",
         "Release date": "2022-12-01",
         "specialId": "wisdom_of_the_gnomes",
+        "passiveSkills": null,
         "heroId": "christmas_augustus",
         "star": 5,
         "power": 851,
@@ -27098,6 +28279,10 @@ window.allHeroes =
         "source": "Legends Summon - Hero of the Month",
         "Release date": "2021-11-01",
         "specialId": "slumber_spores",
+        "passiveSkills": [
+            "heal_on_buff",
+            "resist_buff_immunity"
+        ],
         "heroId": "nature_god_balbar",
         "star": 5,
         "power": 796,
@@ -27166,6 +28351,10 @@ window.allHeroes =
         "source": "Legends Summon - Hero of the Month",
         "Release date": "2021-01-01",
         "specialId": "en_garde",
+        "passiveSkills": [
+            "mana_on_own_familiar_death",
+            "resist_accuracy_modifier_debuffs"
+        ],
         "heroId": "nature_god_bertila",
         "star": 5,
         "power": 784,
@@ -27228,6 +28417,10 @@ window.allHeroes =
         "source": "Legends Summon - Hero of the Month",
         "Release date": "2024-05-01",
         "specialId": "command_pack",
+        "passiveSkills": [
+            "mana_on_ally_minion_summon",
+            "resist_minion_removal"
+        ],
         "heroId": "nature_god_bo_and_runt",
         "star": 5,
         "power": 981,
@@ -27302,6 +28495,10 @@ window.allHeroes =
         "source": "Challenge Festival II",
         "Release date": "2024-11-14",
         "specialId": "odd_drum_roll",
+        "passiveSkills": [
+            "set_dance_duration",
+            "set_ballad_duration"
+        ],
         "heroId": "bard_bonzo",
         "star": 5,
         "power": 1147,
@@ -27372,6 +28569,9 @@ window.allHeroes =
         "source": "Goblin Summon",
         "Release date": "2023-10-16",
         "specialId": "boar_call",
+        "passiveSkills": [
+            "goblin_damage_and_accuracy_debuff_on_special"
+        ],
         "heroId": "goblin_boom_and_fang",
         "star": 5,
         "power": 949,
@@ -27436,6 +28636,11 @@ window.allHeroes =
         "source": "Wilderness Summon",
         "Release date": "2025-01-22",
         "specialId": "sylvan_blessings",
+        "passiveSkills": [
+            "resist_insanity",
+            "resist_negative_defense_modifiers_including_wither",
+            "minion_and_mega_minion_accuracy_modifier"
+        ],
         "heroId": "faun_bramble",
         "star": 5,
         "power": 1157,
@@ -27508,6 +28713,9 @@ window.allHeroes =
         "source": "Tower - Ninjas",
         "Release date": "2024-08-27",
         "specialId": "fatal_dreams",
+        "passiveSkills": [
+            "reduce_minion_health"
+        ],
         "heroId": "ninja_chikao",
         "star": 5,
         "power": 1093,
@@ -27585,6 +28793,10 @@ window.allHeroes =
         "source": "Legends Summon - Hero of the Month",
         "Release date": "2024-09-01",
         "specialId": "invigorating_pollen",
+        "passiveSkills": [
+            "healthboost_on_enemy_special",
+            "resist_heal_multiplier_debuffs"
+        ],
         "heroId": "nature_god_chloris",
         "star": 5,
         "power": 1017,
@@ -27652,6 +28864,10 @@ window.allHeroes =
         "source": "Legends Summon - Hero of the Month",
         "Release date": "2023-07-01",
         "specialId": "fury_of_ash",
+        "passiveSkills": [
+            "increased_attack_per_enemies_not_green_cinisia",
+            "resist_attack_modifier_debuffs"
+        ],
         "heroId": "nature_god_cinisia",
         "star": 5,
         "power": 825,
@@ -27718,6 +28934,9 @@ window.allHeroes =
         "source": "S4 - Wilderness",
         "Release date": "2022-01-27",
         "specialId": "spectres_flail",
+        "passiveSkills": [
+            "special_damage_reduction"
+        ],
         "heroId": "s4_congalach",
         "star": 5,
         "power": 815,
@@ -27779,6 +28998,12 @@ window.allHeroes =
         "source": "S4 - Wilderness",
         "Release date": "2024-08-01",
         "specialId": "spectres_flail",
+        "passiveSkills": [
+            "special_damage_reduction"
+        ],
+        "costumeBonusPassiveSkillIds": [
+            "extra_special_increased_damage_against_boosted_health"
+        ],
         "heroId": "s4_congalach_costume_kelp",
         "star": 5,
         "power": 1031,
@@ -27840,6 +29065,9 @@ window.allHeroes =
         "source": "Super Elementals",
         "Release date": "2024-05-20",
         "specialId": "call_of_the_elements",
+        "passiveSkills": [
+            "strong_troop_damage_modifier"
+        ],
         "heroId": "elemental_craum",
         "star": 5,
         "power": 1049,
@@ -27916,6 +29144,9 @@ window.allHeroes =
         "source": "Tower - Magic",
         "Release date": "2021-09-15",
         "specialId": "charmed_dual_blade",
+        "passiveSkills": [
+            "magic_mana_regen_debuff_on_special"
+        ],
         "heroId": "magic_cristobal",
         "star": 5,
         "power": 813,
@@ -27987,6 +29218,10 @@ window.allHeroes =
         "source": "S7 - Treasures of Flame and Frost",
         "Release date": "2025-01-26",
         "specialId": "blazing_venom",
+        "passiveSkills": [
+            "molten_core",
+            "resist_burn_with_health_boost_and_mana"
+        ],
         "heroId": "tales2_dagr",
         "star": 5,
         "power": 1173,
@@ -28064,6 +29299,10 @@ window.allHeroes =
         "source": "Challenge - Secrets of the Opera",
         "Release date": "2024-03-21",
         "specialId": "echoes_of_the_opera",
+        "passiveSkills": [
+            "heal_on_expired_or_cleared_debuff_fast",
+            "resist_attack_modifier_debuffs"
+        ],
         "heroId": "ballerina_daroga",
         "star": 5,
         "power": 1022,
@@ -28134,6 +29373,9 @@ window.allHeroes =
         "source": "Super Elementals",
         "Release date": "2024-01-01",
         "specialId": "jade_blades",
+        "passiveSkills": [
+            "strong_troop_damage_modifier"
+        ],
         "heroId": "elemental_desmond",
         "star": 5,
         "power": 988,
@@ -28203,6 +29445,9 @@ window.allHeroes =
         "source": "Monthly Event - Love Season",
         "Release date": "2025-02-14",
         "specialId": "looking_for_love",
+        "passiveSkills": [
+            "resist_special_blocking"
+        ],
         "heroId": "valentines_matchmaker_dodgrom",
         "star": 5,
         "power": 1163,
@@ -28262,6 +29507,11 @@ window.allHeroes =
         "source": "Challenge - Beowulf",
         "Release date": "2025-03-13",
         "specialId": "challenge_the_strongest",
+        "passiveSkills": [
+            "attack_buff_on_damage_received",
+            "mana_on_buff",
+            "never_miss_special"
+        ],
         "heroId": "beowulf_ecgtheow",
         "star": 5,
         "power": 1188,
@@ -28326,6 +29576,9 @@ window.allHeroes =
         "source": "Monthly Event - Morlovia",
         "Release date": "2023-09-25",
         "specialId": "hemlock_tea",
+        "passiveSkills": [
+            "halloween_steal_buff_or_deal_damage"
+        ],
         "heroId": "halloween_edwin",
         "star": 5,
         "power": 933,
@@ -28394,6 +29647,7 @@ window.allHeroes =
         "source": "Challenge Festival II",
         "Release date": "2021-06-10",
         "specialId": "perfect_teamwork",
+        "passiveSkills": null,
         "heroId": "circus_eiora_and_fluffy",
         "star": 5,
         "power": 806,
@@ -28460,6 +29714,7 @@ window.allHeroes =
         "source": "Tower - Ninjas",
         "Release date": "2023-01-11",
         "specialId": "order_ambush",
+        "passiveSkills": null,
         "heroId": "ninja_ekanite",
         "star": 5,
         "power": 866,
@@ -28534,6 +29789,9 @@ window.allHeroes =
         "source": "S5 - Dune",
         "Release date": "2022-04-21",
         "specialId": "luring_song",
+        "passiveSkills": [
+            "moon_extra_special_damage_and_dispel_latest_buff"
+        ],
         "heroId": "s5_el_naddaha",
         "star": 5,
         "power": 858,
@@ -28597,6 +29855,13 @@ window.allHeroes =
         "source": "S5 - Dune",
         "Release date": "2025-01-20",
         "specialId": "luring_song",
+        "passiveSkills": [
+            "moon_extra_special_damage_and_dispel_latest_buff"
+        ],
+        "costumeBonusPassiveSkillIds": [
+            "mana_on_debuff",
+            "guaranteed_passive_effects_on_special"
+        ],
         "heroId": "s5_el_naddaha_costume_sea",
         "star": 5,
         "power": 1199,
@@ -28661,6 +29926,7 @@ window.allHeroes =
         "source": "S1 - Classic",
         "Release date": "2017-03-01",
         "specialId": "crescent_spear",
+        "passiveSkills": null,
         "heroId": "forest_male_elf",
         "star": 5,
         "power": 758,
@@ -28720,6 +29986,8 @@ window.allHeroes =
         "source": "Costume Quest",
         "Release date": "2020-05-18",
         "specialId": "crescent_spear",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null,
         "heroId": "forest_male_elf_costume_dark",
         "star": 5,
         "power": 852,
@@ -28778,6 +30046,8 @@ window.allHeroes =
         "source": "Costume Quest",
         "Release date": "2022-09-05",
         "specialId": "crescent_spear",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null,
         "heroId": "forest_male_elf_costume_king",
         "star": 5,
         "power": 968,
@@ -28837,6 +30107,10 @@ window.allHeroes =
         "source": "Costume Quest",
         "Release date": "2023-11-27",
         "specialId": "crescent_spear",
+        "passiveSkills": [
+            "toon_resist_debuffs_manareduction_dispels"
+        ],
+        "costumeBonusPassiveSkillIds": null,
         "heroId": "forest_male_elf_costume_cute",
         "star": 5,
         "power": 1135,
@@ -28900,6 +30174,10 @@ window.allHeroes =
         "source": "Costume Quest",
         "Release date": "2025-01-14",
         "specialId": "crescent_spear",
+        "passiveSkills": [
+            "glass_reflect_debuffs"
+        ],
+        "costumeBonusPassiveSkillIds": null,
         "heroId": "forest_male_elf_costume_glass",
         "star": 5,
         "power": 1242,
@@ -28964,6 +30242,10 @@ window.allHeroes =
         "source": "Legends Summon - Hero of the Month",
         "Release date": "2021-06-01",
         "specialId": "natures_payback",
+        "passiveSkills": [
+            "mana_on_debuff",
+            "resist_special_blocking"
+        ],
         "heroId": "forest_god_elradir",
         "star": 5,
         "power": 791,
@@ -29031,6 +30313,10 @@ window.allHeroes =
         "source": "Tower - Magic",
         "Release date": "2025-04-17",
         "specialId": "picnic_in_the_sky",
+        "passiveSkills": [
+            "reduce_big_minion_health",
+            "fly_magic_carpet"
+        ],
         "heroId": "magic_carpet_elyssa",
         "star": 5,
         "power": 1200,
@@ -29100,6 +30386,9 @@ window.allHeroes =
         "source": "Legends Summon - Extra Draw",
         "Release date": "2022-11-22",
         "specialId": "absorbed_underlings",
+        "passiveSkills": [
+            "memorize_familiars"
+        ],
         "heroId": "mystery_enigmo",
         "star": 5,
         "power": 853,
@@ -29168,6 +30457,7 @@ window.allHeroes =
         "source": "Legends Summon - Hero of the Month",
         "Release date": "2018-12-01",
         "specialId": "shattering_warcry",
+        "passiveSkills": null,
         "heroId": "forest_god_evelyn",
         "star": 5,
         "power": 768,
@@ -29237,6 +30527,10 @@ window.allHeroes =
         "source": "Legends Summon - Hero of the Month",
         "Release date": "2023-10-02",
         "specialId": "shattering_warcry",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": [
+            "extra_special_cleanse_newest"
+        ],
         "heroId": "forest_god_evelyn_costume_huntress",
         "star": 5,
         "power": 976,
@@ -29310,6 +30604,10 @@ window.allHeroes =
         "source": "Extra Draw - Secret Summon",
         "Release date": "2025-05-15",
         "specialId": "mimic_training_hero_green_bite",
+        "passiveSkills": [
+            "mimic_training_hero_green",
+            "never_miss_special"
+        ],
         "heroId": "mimic_training_hero_green",
         "star": 5,
         "power": 1200,
@@ -29391,6 +30689,10 @@ window.allHeroes =
         "source": "S7 - Treasures of Flame and Frost",
         "Release date": "2025-06-13",
         "specialId": "lance_of_avarice",
+        "passiveSkills": [
+            "arctic_core",
+            "resist_frost_with_health_boost_and_mana"
+        ],
         "heroId": "tales2_fafnir",
         "star": 5,
         "power": 1211,
@@ -29465,6 +30767,10 @@ window.allHeroes =
         "source": "Challenge - Carnival of Gods",
         "Release date": "2023-11-02",
         "specialId": "remedies_and_diseases",
+        "passiveSkills": [
+            "cleanse_on_own_familiar_death",
+            "resist_all_defense_debuffs"
+        ],
         "heroId": "masquerade_februus",
         "star": 5,
         "power": 952,
@@ -29540,6 +30846,10 @@ window.allHeroes =
         "source": "Covenant Summon",
         "Release date": "2023-06-28",
         "specialId": "corroding_cutlass",
+        "passiveSkills": [
+            "corrosive_core",
+            "resist_special_blocking"
+        ],
         "heroId": "construct_ferrus",
         "star": 5,
         "power": 951,
@@ -29607,6 +30917,10 @@ window.allHeroes =
         "source": "Legends Summon - Hero of the Month",
         "Release date": "2025-07-01",
         "specialId": "heavy_fragrance",
+        "passiveSkills": [
+            "resist_poison",
+            "mana_on_debuff"
+        ],
         "heroId": "nature_god_florenna",
         "star": 5,
         "power": 1116,
@@ -29675,6 +30989,9 @@ window.allHeroes =
         "source": "Covenant Summon",
         "Release date": "2025-04-14",
         "specialId": "barbed_arrows",
+        "passiveSkills": [
+            "reduced_healing_for_all_enemies"
+        ],
         "heroId": "fox_foxley",
         "star": 5,
         "power": 1174,
@@ -29739,6 +31056,9 @@ window.allHeroes =
         "source": "Monthly Event - Morlovia",
         "Release date": "2020-10-26",
         "specialId": "electric_cut",
+        "passiveSkills": [
+            "halloween_steal_buff_or_deal_damage"
+        ],
         "heroId": "halloween_francine",
         "star": 5,
         "power": 795,
@@ -29806,6 +31126,10 @@ window.allHeroes =
         "source": "Monthly Event - Morlovia",
         "Release date": "2021-10-04",
         "specialId": "electric_cut",
+        "passiveSkills": [
+            "halloween_steal_buff_or_deal_damage"
+        ],
+        "costumeBonusPassiveSkillIds": null,
         "heroId": "halloween_francine_costume_mafia",
         "star": 5,
         "power": 944,
@@ -29869,6 +31193,7 @@ window.allHeroes =
         "source": "S3 - Valhalla",
         "Release date": "2020-08-27",
         "specialId": "brittling_force",
+        "passiveSkills": null,
         "heroId": "s3_frigg",
         "star": 5,
         "power": 786,
@@ -29934,6 +31259,8 @@ window.allHeroes =
         "source": "S3 - Valhalla",
         "Release date": "2023-01-16",
         "specialId": "brittling_force",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null,
         "heroId": "s3_frigg_costume_clairvoyance",
         "star": 5,
         "power": 983,
@@ -30002,6 +31329,7 @@ window.allHeroes =
         "source": "Challenge Festival I",
         "Release date": "2023-08-10",
         "specialId": "royal_poisoner",
+        "passiveSkills": null,
         "heroId": "fables_frog_prince",
         "star": 5,
         "power": 931,
@@ -30072,6 +31400,10 @@ window.allHeroes =
         "source": "Covenant Summon",
         "Release date": "2023-10-28",
         "specialId": "fury_of_the_ancient_forest",
+        "passiveSkills": [
+            "destructive_core",
+            "resist_special_blocking"
+        ],
         "heroId": "construct_frond",
         "star": 5,
         "power": 980,
@@ -30138,6 +31470,10 @@ window.allHeroes =
         "source": "Super Elementals",
         "Release date": "2024-06-18",
         "specialId": "revitalizing_sludge",
+        "passiveSkills": [
+            "summon_slime_minion_on_damage_green",
+            "summon_slime_minion_on_death_green"
+        ],
         "heroId": "slime_fungustine",
         "star": 5,
         "power": 1120,
@@ -30212,6 +31548,9 @@ window.allHeroes =
         "source": "S6 - Mysteries of the Deep",
         "Release date": "2023-06-07",
         "specialId": "testudo_roll",
+        "passiveSkills": [
+            "tales1_extra_special_damage_and_add_critical"
+        ],
         "heroId": "tales1_galapago",
         "star": 5,
         "power": 933,
@@ -30293,6 +31632,12 @@ window.allHeroes =
         "source": "S6 - Mysteries of the Deep",
         "Release date": "2024-07-27",
         "specialId": "testudo_roll",
+        "passiveSkills": [
+            "tales1_extra_special_damage_and_add_critical"
+        ],
+        "costumeBonusPassiveSkillIds": [
+            "resist_insanity"
+        ],
         "heroId": "tales1_galapago_costume_quarry",
         "star": 5,
         "power": 1161,
@@ -30370,6 +31715,9 @@ window.allHeroes =
         "source": "S4 - Wilderness",
         "Release date": "2021-04-22",
         "specialId": "flail_of_destruction",
+        "passiveSkills": [
+            "decrease_debuff_duration"
+        ],
         "heroId": "s4_garjammal",
         "star": 5,
         "power": 807,
@@ -30432,6 +31780,12 @@ window.allHeroes =
         "source": "S4 - Wilderness",
         "Release date": "2023-06-22",
         "specialId": "flail_of_destruction",
+        "passiveSkills": [
+            "decrease_debuff_duration"
+        ],
+        "costumeBonusPassiveSkillIds": [
+            "extra_special_increased_damage_against_boosted_health"
+        ],
         "heroId": "s4_garjammal_costume_kite",
         "star": 5,
         "power": 1021,
@@ -30498,6 +31852,9 @@ window.allHeroes =
         "source": "Challenge - Gargoyle",
         "Release date": "2024-02-27",
         "specialId": "bone_club_party",
+        "passiveSkills": [
+            "gargoyle_soft_skin"
+        ],
         "heroId": "gargoyle_garten",
         "star": 5,
         "power": 1048,
@@ -30564,6 +31921,9 @@ window.allHeroes =
         "source": "S6 - Mysteries of the Deep",
         "Release date": "2023-08-30",
         "specialId": "whirlpool_dash",
+        "passiveSkills": [
+            "tales1_extra_special_damage_and_add_critical"
+        ],
         "heroId": "tales1_gelert",
         "star": 5,
         "power": 976,
@@ -30649,6 +32009,12 @@ window.allHeroes =
         "source": "S6 - Mysteries of the Deep",
         "Release date": "2025-06-26",
         "specialId": "whirlpool_dash",
+        "passiveSkills": [
+            "tales1_extra_special_damage_and_add_critical"
+        ],
+        "costumeBonusPassiveSkillIds": [
+            "resist_insanity"
+        ],
         "heroId": "tales1_gelert_costume_scavenger",
         "star": 5,
         "power": 1214,
@@ -30733,6 +32099,7 @@ window.allHeroes =
         "source": "Monthly Event - Winter",
         "Release date": "2023-12-01",
         "specialId": "hasty_trigger_finger",
+        "passiveSkills": null,
         "heroId": "christmas_ginger",
         "star": 5,
         "power": 949,
@@ -30796,6 +32163,10 @@ window.allHeroes =
         "source": "Goblin Summon",
         "Release date": "2025-07-22",
         "specialId": "holding_down_the_fort",
+        "passiveSkills": [
+            "remove_wither_from_allies",
+            "resist_direct_mana_reductions"
+        ],
         "heroId": "garrison_godfrey",
         "star": 5,
         "power": 1222,
@@ -30867,6 +32238,10 @@ window.allHeroes =
         "source": "Super Elementals",
         "Release date": "2025-03-17",
         "specialId": "bone_slam",
+        "passiveSkills": [
+            "summon_slime_minion_on_damage_green",
+            "summon_slime_minion_on_death_green"
+        ],
         "heroId": "slime_goorian",
         "star": 5,
         "power": 1184,
@@ -30944,6 +32319,10 @@ window.allHeroes =
         "source": "Legends Summon - Hero of the Month",
         "Release date": "2022-09-01",
         "specialId": "malison_of_the_wildlands",
+        "passiveSkills": [
+            "add_mana_on_enemy_taunt",
+            "resist_burn"
+        ],
         "heroId": "forest_god_grace",
         "star": 5,
         "power": 811,
@@ -31010,6 +32389,7 @@ window.allHeroes =
         "source": "Challenge Festival I",
         "Release date": "2023-04-20",
         "specialId": "omen_of_retribution",
+        "passiveSkills": null,
         "heroId": "knights_green_knight",
         "star": 5,
         "power": 864,
@@ -31080,6 +32460,7 @@ window.allHeroes =
         "source": "Legends Summon - Hero of the Month",
         "Release date": "2018-07-01",
         "specialId": "unwavering_focus",
+        "passiveSkills": null,
         "heroId": "forest_god_gregorion",
         "star": 5,
         "power": 768,
@@ -31141,6 +32522,10 @@ window.allHeroes =
         "source": "Legends Summon - Hero of the Month",
         "Release date": "2024-03-08",
         "specialId": "unwavering_focus",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": [
+            "extra_special_dispel_newest"
+        ],
         "heroId": "forest_god_gregorion_costume_alchemist",
         "star": 5,
         "power": 976,
@@ -31206,6 +32591,11 @@ window.allHeroes =
         "source": "Challenge - Beowulf",
         "Release date": "2025-02-13",
         "specialId": "gruesome_charge",
+        "passiveSkills": [
+            "attack_buff_on_damage_received",
+            "resist_mana_reductions_with_health_boost_and_mana",
+            "never_miss_special"
+        ],
         "heroId": "beowulf_grendel",
         "star": 5,
         "power": 1183,
@@ -31281,6 +32671,9 @@ window.allHeroes =
         "source": "Alliance - Moths",
         "Release date": "2025-01-23",
         "specialId": "adorable_pest",
+        "passiveSkills": [
+            "dodge_enemy_damage_special"
+        ],
         "heroId": "moth_grovevert",
         "star": 5,
         "power": 1178,
@@ -31350,6 +32743,7 @@ window.allHeroes =
         "source": "Three Kingdoms Summon",
         "Release date": "2022-03-14",
         "specialId": "green_dragon_crescent_blade",
+        "passiveSkills": null,
         "heroId": "kingdom_guan_yu",
         "star": 5,
         "power": 835,
@@ -31416,6 +32810,10 @@ window.allHeroes =
         "source": "Three Kingdoms Summon",
         "Release date": "2024-10-01",
         "specialId": "green_dragon_crescent_blade",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": [
+            "kingdom_unstoppable_minions"
+        ],
         "heroId": "kingdom_guan_yu_costume_dragon",
         "star": 5,
         "power": 1104,
@@ -31489,6 +32887,7 @@ window.allHeroes =
         "source": "Challenge Festival I",
         "Release date": "2020-01-08",
         "specialId": "elemental_magic",
+        "passiveSkills": null,
         "heroId": "guardian_chameleon",
         "star": 5,
         "power": 780,
@@ -31553,6 +32952,10 @@ window.allHeroes =
         "source": "Monster Island Summon",
         "Release date": "2022-11-12",
         "specialId": "demolishing_crush",
+        "passiveSkills": [
+            "hunters_mark_on_special",
+            "special_damage_reduction_monster_hunters"
+        ],
         "heroId": "monster_hunter_hammertusk",
         "star": 5,
         "power": 886,
@@ -31621,6 +33024,10 @@ window.allHeroes =
         "source": "Covenant Summon",
         "Release date": "2023-06-28",
         "specialId": "bag_of_necessities",
+        "passiveSkills": [
+            "repair_core",
+            "resist_special_blocking"
+        ],
         "heroId": "construct_haulstone",
         "star": 5,
         "power": 926,
@@ -31701,6 +33108,7 @@ window.allHeroes =
         "source": "S3 - Valhalla",
         "Release date": "2020-02-27",
         "specialId": "boon_of_gjallarhorn",
+        "passiveSkills": null,
         "heroId": "s3_heimdall",
         "star": 5,
         "power": 788,
@@ -31764,6 +33172,8 @@ window.allHeroes =
         "source": "S3 - Valhalla",
         "Release date": "2022-10-24",
         "specialId": "boon_of_gjallarhorn",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null,
         "heroId": "s3_heimdall_costume_dreaded",
         "star": 5,
         "power": 988,
@@ -31824,6 +33234,7 @@ window.allHeroes =
         "source": "S1 - Classic",
         "Release date": "2017-03-01",
         "specialId": "anger_of_forest",
+        "passiveSkills": null,
         "heroId": "forest_titan",
         "star": 5,
         "power": 753,
@@ -31882,6 +33293,8 @@ window.allHeroes =
         "source": "Costume Quest",
         "Release date": "2020-01-01",
         "specialId": "anger_of_forest",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null,
         "heroId": "forest_titan_costume_jester",
         "star": 5,
         "power": 849,
@@ -31944,6 +33357,8 @@ window.allHeroes =
         "source": "Costume Quest",
         "Release date": "2022-10-31",
         "specialId": "anger_of_forest",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null,
         "heroId": "forest_titan_costume_nightmare",
         "star": 5,
         "power": 966,
@@ -32008,6 +33423,10 @@ window.allHeroes =
         "source": "Costume Quest",
         "Release date": "2024-07-16",
         "specialId": "anger_of_forest",
+        "passiveSkills": [
+            "toon_resist_debuffs_manareduction_dispels"
+        ],
+        "costumeBonusPassiveSkillIds": null,
         "heroId": "forest_titan_costume_cute",
         "star": 5,
         "power": 1131,
@@ -32077,6 +33496,9 @@ window.allHeroes =
         "source": "Alliance - Knights Clash",
         "Release date": "2024-06-05",
         "specialId": "mending_bronze_axe",
+        "passiveSkills": [
+            "heal_on_buff_alliance_quest_family"
+        ],
         "heroId": "castle_bear_humbert",
         "star": 5,
         "power": 1079,
@@ -32143,6 +33565,9 @@ window.allHeroes =
         "source": "Monthly Event - Kalevala",
         "Release date": "2022-06-20",
         "specialId": "dreaded_waters",
+        "passiveSkills": [
+            "heal_mana_on_low_health_once"
+        ],
         "heroId": "kalevala_iku_turso",
         "star": 5,
         "power": 836,
@@ -32212,6 +33637,9 @@ window.allHeroes =
         "source": "Tower - Ninjas",
         "Release date": "2024-12-05",
         "specialId": "suppressing_ki",
+        "passiveSkills": [
+            "reduce_minion_health"
+        ],
         "heroId": "ninja_ito",
         "star": 5,
         "power": 1130,
@@ -32288,6 +33716,7 @@ window.allHeroes =
         "source": "Tower - Ninjas",
         "Release date": "2020-10-13",
         "specialId": "shared_visage",
+        "passiveSkills": null,
         "heroId": "ninja_jade",
         "star": 5,
         "power": 798,
@@ -32361,6 +33790,7 @@ window.allHeroes =
         "source": "S1 - Classic",
         "Release date": "2017-03-01",
         "specialId": "eclipse_shield",
+        "passiveSkills": null,
         "heroId": "forest_female_elf",
         "star": 5,
         "power": 757,
@@ -32420,6 +33850,8 @@ window.allHeroes =
         "source": "Costume Quest",
         "Release date": "2020-05-18",
         "specialId": "eclipse_shield",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null,
         "heroId": "forest_female_elf_costume_mage",
         "star": 5,
         "power": 851,
@@ -32485,6 +33917,8 @@ window.allHeroes =
         "source": "Costume Quest",
         "Release date": "2023-04-17",
         "specialId": "eclipse_shield",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null,
         "heroId": "forest_female_elf_costume_fairy",
         "star": 5,
         "power": 966,
@@ -32550,6 +33984,10 @@ window.allHeroes =
         "source": "Costume Quest",
         "Release date": "2024-10-06",
         "specialId": "eclipse_shield",
+        "passiveSkills": [
+            "toon_resist_debuffs_manareduction_dispels"
+        ],
+        "costumeBonusPassiveSkillIds": null,
         "heroId": "forest_female_elf_costume_cute",
         "star": 5,
         "power": 1133,
@@ -32621,6 +34059,10 @@ window.allHeroes =
         "source": "Monster Island Summon",
         "Release date": "2022-10-15",
         "specialId": "mantis_strike",
+        "passiveSkills": [
+            "hunters_mark_on_special",
+            "special_damage_reduction_monster_hunters"
+        ],
         "heroId": "monster_hunter_kai",
         "star": 5,
         "power": 888,
@@ -32696,6 +34138,9 @@ window.allHeroes =
         "source": "Legends Summon - Hero of the Month",
         "Release date": "2019-10-01",
         "specialId": "stiletto_cyclone",
+        "passiveSkills": [
+            "resist_burn"
+        ],
         "heroId": "forest_god_kingston",
         "star": 5,
         "power": 770,
@@ -32761,6 +34206,10 @@ window.allHeroes =
         "source": "Goblin Summon",
         "Release date": "2024-11-24",
         "specialId": "laundry_day",
+        "passiveSkills": [
+            "remove_wither_from_allies",
+            "resist_direct_mana_reductions"
+        ],
         "heroId": "garrison_kolya",
         "star": 5,
         "power": 1118,
@@ -32836,6 +34285,7 @@ window.allHeroes =
         "source": "Challenge Festival I",
         "Release date": "2017-09-07",
         "specialId": "moonlight_serenade",
+        "passiveSkills": null,
         "heroId": "pirate_lady",
         "star": 5,
         "power": 765,
@@ -32897,6 +34347,10 @@ window.allHeroes =
         "source": "Challenge Festival I",
         "Release date": "2023-12-28",
         "specialId": "moonlight_serenade",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": [
+            "extra_special_poison"
+        ],
         "heroId": "pirate_lady_costume_queen",
         "star": 5,
         "power": 956,
@@ -32961,6 +34415,7 @@ window.allHeroes =
         "source": "Challenge Festival I",
         "Release date": "2019-09-12",
         "specialId": "magical_sword",
+        "passiveSkills": null,
         "heroId": "knights_lady_of_the_lake",
         "star": 5,
         "power": 780,
@@ -33022,6 +34477,8 @@ window.allHeroes =
         "source": "Challenge Festival I",
         "Release date": "2021-12-15",
         "specialId": "magical_sword",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null,
         "heroId": "knights_lady_of_the_lake_costume_blades",
         "star": 5,
         "power": 977,
@@ -33087,6 +34544,10 @@ window.allHeroes =
         "source": "Legends Summon - Hero of the Month",
         "Release date": "2023-12-01",
         "specialId": "spirit_of_spring",
+        "passiveSkills": [
+            "healtboost_on_minion_death",
+            "resist_max_health_reduction"
+        ],
         "heroId": "nature_god_leadria",
         "star": 5,
         "power": 899,
@@ -33153,6 +34614,9 @@ window.allHeroes =
         "source": "Goblin Summon",
         "Release date": "2023-12-11",
         "specialId": "flute_of_enchantment",
+        "passiveSkills": [
+            "goblin_damage_and_accuracy_debuff_on_special"
+        ],
         "heroId": "goblin_leafwizzle",
         "star": 5,
         "power": 980,
@@ -33219,6 +34683,10 @@ window.allHeroes =
         "source": "Wilderness Summon",
         "Release date": "2025-03-17",
         "specialId": "claws_of_the_lioness",
+        "passiveSkills": [
+            "resist_all_defense_effects",
+            "revive_chance_nine_lives"
+        ],
         "heroId": "wild_cat_leonie",
         "star": 5,
         "power": 1214,
@@ -33286,6 +34754,7 @@ window.allHeroes =
         "source": "S1 - Classic",
         "Release date": "2017-03-01",
         "specialId": "perfect_shot",
+        "passiveSkills": null,
         "heroId": "elven_archer",
         "star": 5,
         "power": 755,
@@ -33338,6 +34807,8 @@ window.allHeroes =
         "source": "Costume Quest",
         "Release date": "2020-01-01",
         "specialId": "perfect_shot",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null,
         "heroId": "elven_archer_costume_moon",
         "star": 5,
         "power": 849,
@@ -33396,6 +34867,8 @@ window.allHeroes =
         "source": "Costume Quest",
         "Release date": "2023-04-17",
         "specialId": "perfect_shot",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null,
         "heroId": "elven_archer_costume_raven",
         "star": 5,
         "power": 964,
@@ -33453,6 +34926,10 @@ window.allHeroes =
         "source": "Costume Quest",
         "Release date": "2024-02-12",
         "specialId": "perfect_shot",
+        "passiveSkills": [
+            "toon_resist_debuffs_manareduction_dispels"
+        ],
+        "costumeBonusPassiveSkillIds": null,
         "heroId": "elven_archer_costume_cute",
         "star": 5,
         "power": 1130,
@@ -33513,6 +34990,10 @@ window.allHeroes =
         "source": "Costume Quest",
         "Release date": "2025-05-10",
         "specialId": "perfect_shot",
+        "passiveSkills": [
+            "glass_reflect_debuffs"
+        ],
+        "costumeBonusPassiveSkillIds": null,
         "heroId": "elven_archer_costume_glass",
         "star": 5,
         "power": 1237,
@@ -33579,6 +35060,9 @@ window.allHeroes =
         "source": "Alliance - Moths",
         "Release date": "2025-06-02",
         "specialId": "dozy_mead",
+        "passiveSkills": [
+            "dodge_enemy_damage_special"
+        ],
         "heroId": "moth_limeboire",
         "star": 5,
         "power": 1206,
@@ -33655,6 +35139,7 @@ window.allHeroes =
         "source": "Three Kingdoms Summon",
         "Release date": "2022-05-23",
         "specialId": "call_to_arms",
+        "passiveSkills": null,
         "heroId": "kingdom_liu_bei",
         "star": 5,
         "power": 836,
@@ -33721,6 +35206,10 @@ window.allHeroes =
         "source": "Three Kingdoms Summon",
         "Release date": "2025-01-29",
         "specialId": "call_to_arms",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": [
+            "kingdom_unstoppable_minions"
+        ],
         "heroId": "kingdom_liu_bei_costume_nature",
         "star": 5,
         "power": 1107,
@@ -33796,6 +35285,9 @@ window.allHeroes =
         "source": "S4 - Wilderness",
         "Release date": "2021-11-04",
         "specialId": "transcendental_frame",
+        "passiveSkills": [
+            "special_damage_reduction"
+        ],
         "heroId": "s4_lughaidh",
         "star": 5,
         "power": 810,
@@ -33866,6 +35358,12 @@ window.allHeroes =
         "source": "S4 - Wilderness",
         "Release date": "2024-08-29",
         "specialId": "transcendental_frame",
+        "passiveSkills": [
+            "special_damage_reduction"
+        ],
+        "costumeBonusPassiveSkillIds": [
+            "extra_special_health_boost"
+        ],
         "heroId": "s4_lughaidh_costume_deathless",
         "star": 5,
         "power": 1026,
@@ -33932,6 +35430,9 @@ window.allHeroes =
         "source": "S5 - Dune",
         "Release date": "2022-09-29",
         "specialId": "bringer_of_order",
+        "passiveSkills": [
+            "sun_extra_special_damage_and_attack_debuff"
+        ],
         "heroId": "s5_maat",
         "star": 5,
         "power": 865,
@@ -33997,6 +35498,13 @@ window.allHeroes =
         "source": "S5 - Dune",
         "Release date": "2024-02-05",
         "specialId": "bringer_of_order",
+        "passiveSkills": [
+            "sun_extra_special_damage_and_attack_debuff"
+        ],
+        "costumeBonusPassiveSkillIds": [
+            "mana_on_enemy_health_boost_special",
+            "iterate_passive_effects_on_special"
+        ],
         "heroId": "s5_maat_costume_river",
         "star": 5,
         "power": 1209,
@@ -34065,6 +35573,11 @@ window.allHeroes =
         "source": "Astral Summon",
         "Release date": "2025-01-06",
         "specialId": "astral_brew",
+        "passiveSkills": [
+            "resist_heal_multiplier_debuffs",
+            "resist_negative_minion_and_mega_minion_effects",
+            "eat_fiends_on_special_cast"
+        ],
         "heroId": "astral_dwarf_maegwyn",
         "star": 5,
         "power": 1160,
@@ -34131,6 +35644,9 @@ window.allHeroes =
         "source": "Legends Summon - Hero of the Month",
         "Release date": "2019-05-01",
         "specialId": "hide_in_shadows",
+        "passiveSkills": [
+            "resist_buff_dispels"
+        ],
         "heroId": "forest_god_elinor",
         "star": 5,
         "power": 770,
@@ -34194,6 +35710,10 @@ window.allHeroes =
         "source": "Challenge Festival II",
         "Release date": "2022-11-03",
         "specialId": "puppy_tales",
+        "passiveSkills": [
+            "heal_and_add_mana_on_ally_minion",
+            "damage_enemies_on_enemy_parasite"
+        ],
         "heroId": "mighty_pet_toto",
         "star": 5,
         "power": 875,
@@ -34263,6 +35783,10 @@ window.allHeroes =
         "source": "Monthly Event - Beach Party",
         "Release date": "2024-06-03",
         "specialId": "super_duper_spray",
+        "passiveSkills": [
+            "resist_water",
+            "underwater_on_special_beach"
+        ],
         "heroId": "beachparty_mazoga",
         "star": 5,
         "power": 1018,
@@ -34333,6 +35857,9 @@ window.allHeroes =
         "source": "Challenge - Gargoyle",
         "Release date": "2024-05-16",
         "specialId": "fluff_in_the_air",
+        "passiveSkills": [
+            "gargoyle_soft_skin"
+        ],
         "heroId": "gargoyle_mena",
         "star": 5,
         "power": 1049,
@@ -34400,6 +35927,10 @@ window.allHeroes =
         "source": "Monster Island Summon",
         "Release date": "2023-03-03",
         "specialId": "misty_punches",
+        "passiveSkills": [
+            "hunters_mark_on_special",
+            "attack_modifier_on_special"
+        ],
         "heroId": "monster_hunter_mistweaver",
         "star": 5,
         "power": 894,
@@ -34468,6 +35999,10 @@ window.allHeroes =
         "source": "Astral Summon",
         "Release date": "2024-03-07",
         "specialId": "leafglow_bloom",
+        "passiveSkills": [
+            "share_received_damage",
+            "resist_poison"
+        ],
         "heroId": "astral_moonflower",
         "star": 5,
         "power": 1014,
@@ -34528,6 +36063,7 @@ window.allHeroes =
         "source": "Challenge Festival I",
         "Release date": "2018-01-05",
         "specialId": "unnatural_pact",
+        "passiveSkills": null,
         "heroId": "knights_morgan_le_fay",
         "star": 5,
         "power": 765,
@@ -34598,6 +36134,7 @@ window.allHeroes =
         "source": "Monthly Event - Winter",
         "Release date": "2018-12-02",
         "specialId": "super_porridge",
+        "passiveSkills": null,
         "heroId": "christmas_mrs_claus",
         "star": 5,
         "power": 770,
@@ -34660,6 +36197,8 @@ window.allHeroes =
         "source": "Monthly Event - Winter",
         "Release date": "2021-12-01",
         "specialId": "super_porridge",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null,
         "heroId": "christmas_mrs_claus_costume_fangirl",
         "star": 5,
         "power": 996,
@@ -34723,6 +36262,10 @@ window.allHeroes =
         "source": "Super Elementals",
         "Release date": "2024-10-02",
         "specialId": "insidious_goo",
+        "passiveSkills": [
+            "summon_slime_minion_on_damage_green",
+            "summon_slime_minion_on_death_green"
+        ],
         "heroId": "slime_mucktus",
         "star": 5,
         "power": 1141,
@@ -34789,6 +36332,7 @@ window.allHeroes =
         "source": "Tower - Ninjas",
         "Release date": "2023-04-05",
         "specialId": "resolute_spirit",
+        "passiveSkills": null,
         "heroId": "ninja_myoinni",
         "star": 5,
         "power": 873,
@@ -34862,6 +36406,10 @@ window.allHeroes =
         "source": "Legends Summon - Hero of the Month",
         "Release date": "2025-02-01",
         "specialId": "mesmerizing_mirror",
+        "passiveSkills": [
+            "bypass_taunt_effects",
+            "resist_special_blocking"
+        ],
         "heroId": "nature_god_mystia",
         "star": 5,
         "power": 1063,
@@ -34927,6 +36475,11 @@ window.allHeroes =
         "source": "Legends Summon",
         "Release date": "2024-02-09",
         "specialId": "the_perfect_throw",
+        "passiveSkills": [
+            "healthboost_on_enemy_healthboost",
+            "mana_on_enemy_healthboost_nogu",
+            "mana_gen_on_debuff"
+        ],
         "heroId": "champions_nogu",
         "star": 5,
         "power": 1000,
@@ -34998,6 +36551,10 @@ window.allHeroes =
         "source": "S7 - Treasures of Flame and Frost",
         "Release date": "2024-12-03",
         "specialId": "saga_of_protection",
+        "passiveSkills": [
+            "molten_core",
+            "resist_burn_with_health_boost_and_mana"
+        ],
         "heroId": "tales2_ott",
         "star": 5,
         "power": 1165,
@@ -35068,6 +36625,7 @@ window.allHeroes =
         "source": "Mystery - Shadow Summon",
         "Release date": "2025-02-06",
         "specialId": "cut_cure_and_craze",
+        "passiveSkills": null,
         "heroId": "shadow_penelope",
         "star": 5,
         "power": 1170,
@@ -35137,6 +36695,11 @@ window.allHeroes =
         "source": "Wilderness Summon",
         "Release date": "2024-08-31",
         "specialId": "feyfire_slash",
+        "passiveSkills": [
+            "resist_negative_attack_modifiers_including_wither",
+            "resist_insanity",
+            "minion_and_mega_minion_accuracy_modifier"
+        ],
         "heroId": "faun_peregrine",
         "star": 5,
         "power": 1137,
@@ -35205,6 +36768,7 @@ window.allHeroes =
         "source": "Tower - Ninjas",
         "Release date": "2022-02-02",
         "specialId": "suffocating_smoke",
+        "passiveSkills": null,
         "heroId": "ninja_peridot",
         "star": 5,
         "power": 818,
@@ -35278,6 +36842,9 @@ window.allHeroes =
         "source": "S4 - Wilderness",
         "Release date": "2021-03-25",
         "specialId": "valiant_lunge",
+        "passiveSkills": [
+            "special_damage_reduction"
+        ],
         "heroId": "s4_phileas_fogg",
         "star": 5,
         "power": 807,
@@ -35348,6 +36915,12 @@ window.allHeroes =
         "source": "S4 - Wilderness",
         "Release date": "2023-05-25",
         "specialId": "valiant_lunge",
+        "passiveSkills": [
+            "special_damage_reduction"
+        ],
+        "costumeBonusPassiveSkillIds": [
+            "extra_special_increased_damage_against_boosted_health"
+        ],
         "heroId": "s4_phileas_fogg_costume_engineer",
         "star": 5,
         "power": 1020,
@@ -35418,6 +36991,10 @@ window.allHeroes =
         "source": "Goblin Summon",
         "Release date": "2024-09-01",
         "specialId": "reckless_sword_swings",
+        "passiveSkills": [
+            "remove_wither_from_allies",
+            "resist_direct_mana_reductions"
+        ],
         "heroId": "garrison_pip",
         "star": 5,
         "power": 1117,
@@ -35489,6 +37066,10 @@ window.allHeroes =
         "source": "Challenge - Secrets of the Opera",
         "Release date": "2024-01-25",
         "specialId": "dance_of_the_heron",
+        "passiveSkills": [
+            "heal_on_expired_or_cleared_debuff_slow",
+            "resist_defense_modifier_debuffs"
+        ],
         "heroId": "ballerina_prince_siegfried",
         "star": 5,
         "power": 996,
@@ -35560,6 +37141,9 @@ window.allHeroes =
         "source": "Monthly Event - Lunar Year",
         "Release date": "2024-02-08",
         "specialId": "confident_strategy",
+        "passiveSkills": [
+            "enemy_minion_follower_silencer"
+        ],
         "heroId": "lunar_new_year_qinglong",
         "star": 5,
         "power": 983,
@@ -35630,6 +37214,9 @@ window.allHeroes =
         "source": "Alliance - Musketeers",
         "Release date": "2022-12-14",
         "specialId": "the_queens_speech",
+        "passiveSkills": [
+            "damage_all_enemies_on_cover_or_special_damage_received"
+        ],
         "heroId": "musketeer_queen_anne",
         "star": 5,
         "power": 877,
@@ -35696,6 +37283,7 @@ window.allHeroes =
         "source": "Alliance - Knights Clash",
         "Release date": "2021-10-13",
         "specialId": "howling_sword",
+        "passiveSkills": null,
         "heroId": "castle_wolf_quenell",
         "star": 5,
         "power": 816,
@@ -35758,6 +37346,10 @@ window.allHeroes =
         "source": "Alliance - Knights Clash",
         "Release date": "2024-12-17",
         "specialId": "howling_sword",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": [
+            "increase_cast_status_effect_duration"
+        ],
         "heroId": "castle_wolf_quenell_costume_wood",
         "star": 5,
         "power": 1148,
@@ -35824,6 +37416,7 @@ window.allHeroes =
         "source": "S3 - Valhalla",
         "Release date": "2020-02-27",
         "specialId": "nuts_of_yggdrasil",
+        "passiveSkills": null,
         "heroId": "s3_ratatoskr",
         "star": 5,
         "power": 785,
@@ -35884,6 +37477,8 @@ window.allHeroes =
         "source": "S3 - Valhalla",
         "Release date": "2023-09-25",
         "specialId": "nuts_of_yggdrasil",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null,
         "heroId": "s3_ratatoskr_costume_architect",
         "star": 5,
         "power": 982,
@@ -35944,6 +37539,9 @@ window.allHeroes =
         "source": "Tower - Owls",
         "Release date": "2023-12-20",
         "specialId": "mixed_green_herbs",
+        "passiveSkills": [
+            "mana_generation_modifier_all_enemies_stronger"
+        ],
         "heroId": "owl_relius",
         "star": 5,
         "power": 984,
@@ -36009,6 +37607,10 @@ window.allHeroes =
         "source": "Covenant Summon",
         "Release date": "2024-06-06",
         "specialId": "first_law_of_thermodynamics",
+        "passiveSkills": [
+            "destructive_core",
+            "resist_special_blocking"
+        ],
         "heroId": "construct_rhineglow",
         "star": 5,
         "power": 1061,
@@ -36076,6 +37678,9 @@ window.allHeroes =
         "source": "Super Elementals",
         "Release date": "2022-12-05",
         "specialId": "elemental_infusion_arrow",
+        "passiveSkills": [
+            "strong_troop_damage_modifier"
+        ],
         "heroId": "elemental_roz",
         "star": 5,
         "power": 970,
@@ -36136,6 +37741,10 @@ window.allHeroes =
         "source": "Super Elementals",
         "Release date": "2025-07-18",
         "specialId": "elemental_infusion_arrow",
+        "passiveSkills": [
+            "strong_troop_damage_modifier_costume"
+        ],
+        "costumeBonusPassiveSkillIds": null,
         "heroId": "elemental_roz_costume_disco",
         "star": 5,
         "power": 1221,
@@ -36202,6 +37811,7 @@ window.allHeroes =
         "source": "Monthly Event - Springvale",
         "Release date": "2025-03-31",
         "specialId": "silencing_stick_up",
+        "passiveSkills": null,
         "heroId": "easter_sadie",
         "star": 5,
         "power": 1172,
@@ -36269,6 +37879,10 @@ window.allHeroes =
         "source": "Three Kingdoms Summon",
         "Release date": "2023-08-14",
         "specialId": "prayer_of_the_desert",
+        "passiveSkills": [
+            "heal_on_buff_with_chance",
+            "mana_on_buff_with_chance"
+        ],
         "heroId": "journey_sha_wujing",
         "star": 5,
         "power": 933,
@@ -36338,6 +37952,9 @@ window.allHeroes =
         "source": "Legends Summon - Hero of the Month",
         "Release date": "2020-03-01",
         "specialId": "force_of_forest",
+        "passiveSkills": [
+            "resist_minion_removal"
+        ],
         "heroId": "forest_god_telluria",
         "star": 5,
         "power": 806,
@@ -36408,6 +38025,9 @@ window.allHeroes =
         "source": "Goblin Summon",
         "Release date": "2023-09-18",
         "specialId": "goblin_serenade",
+        "passiveSkills": [
+            "goblin_damage_and_accuracy_debuff_on_special"
+        ],
         "heroId": "goblin_smarttongue",
         "star": 5,
         "power": 942,
@@ -36471,6 +38091,10 @@ window.allHeroes =
         "source": "Challenge Festival II",
         "Release date": "2023-05-18",
         "specialId": "feral_arrows",
+        "passiveSkills": [
+            "heal_and_add_mana_on_ally_minion",
+            "damage_enemies_on_enemy_parasite"
+        ],
         "heroId": "mighty_pet_snowball",
         "star": 5,
         "power": 878,
@@ -36540,6 +38164,9 @@ window.allHeroes =
         "source": "S6 - Mysteries of the Deep",
         "Release date": "2024-02-01",
         "specialId": "overwhelming_raid",
+        "passiveSkills": [
+            "tales1_extra_special_damage_and_add_stacking_mana_generation"
+        ],
         "heroId": "tales1_spartoi",
         "star": 5,
         "power": 998,
@@ -36611,6 +38238,12 @@ window.allHeroes =
         "source": "S6 - Mysteries of the Deep",
         "Release date": "2025-02-03",
         "specialId": "overwhelming_raid",
+        "passiveSkills": [
+            "tales1_extra_special_damage_and_add_stacking_mana_generation"
+        ],
+        "costumeBonusPassiveSkillIds": [
+            "resist_insanity"
+        ],
         "heroId": "tales1_spartoi_costume_guard",
         "star": 5,
         "power": 1246,
@@ -36685,6 +38318,9 @@ window.allHeroes =
         "source": "Covenant Summon",
         "Release date": "2024-11-18",
         "specialId": "fierce_pierce",
+        "passiveSkills": [
+            "reduced_healing_for_all_enemies"
+        ],
         "heroId": "fox_spiff",
         "star": 5,
         "power": 1148,
@@ -36754,6 +38390,10 @@ window.allHeroes =
         "source": "Monster Island Summon",
         "Release date": "2023-02-09",
         "specialId": "mallet_swing_of_the_beast",
+        "passiveSkills": [
+            "hunters_mark_on_special",
+            "monster_hunter_reallocate_debuff_or_heal"
+        ],
         "heroId": "monster_hunter_staintongue",
         "star": 5,
         "power": 891,
@@ -36820,6 +38460,10 @@ window.allHeroes =
         "source": "Astral Summon",
         "Release date": "2024-06-12",
         "specialId": "power_wave",
+        "passiveSkills": [
+            "share_received_damage",
+            "resist_poison"
+        ],
         "heroId": "astral_starlass",
         "star": 5,
         "power": 1062,
@@ -36891,6 +38535,11 @@ window.allHeroes =
         "source": "Three Kingdoms Summon",
         "Release date": "2025-08-02",
         "specialId": "vicious_trap",
+        "passiveSkills": [
+            "resist_bleed",
+            "righteous_rebellion_parent",
+            "health_boost_on_special_critical_damage_all"
+        ],
         "heroId": "outlaw_sun_erniang",
         "star": 5,
         "power": 1225,
@@ -36975,6 +38624,10 @@ window.allHeroes =
         "source": "Monster Island Summon",
         "Release date": "2024-07-21",
         "specialId": "primeval_glaive",
+        "passiveSkills": [
+            "hunters_mark_on_special",
+            "special_damage_reduction_monster_hunters"
+        ],
         "heroId": "monster_hunter_sune",
         "star": 5,
         "power": 1131,
@@ -37049,6 +38702,9 @@ window.allHeroes =
         "source": "Monthly Event - Kalevala",
         "Release date": "2025-07-28",
         "specialId": "snapping_jaws",
+        "passiveSkills": [
+            "heal_mana_on_low_health_once"
+        ],
         "heroId": "kalevala_suomuhauki",
         "star": 5,
         "power": 1224,
@@ -37117,6 +38773,7 @@ window.allHeroes =
         "source": "Tower - Ninjas",
         "Release date": "2023-07-26",
         "specialId": "splintering_shot",
+        "passiveSkills": null,
         "heroId": "ninja_tametomo",
         "star": 5,
         "power": 1006,
@@ -37191,6 +38848,7 @@ window.allHeroes =
         "source": "S2 - Atlantis",
         "Release date": "2019-08-01",
         "specialId": "martial_prowess",
+        "passiveSkills": null,
         "heroId": "s2_junglehunter",
         "star": 5,
         "power": 773,
@@ -37249,6 +38907,8 @@ window.allHeroes =
         "source": "S2 - Atlantis",
         "Release date": "2022-12-12",
         "specialId": "martial_prowess",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null,
         "heroId": "s2_junglehunter_costume_party",
         "star": 5,
         "power": 944,
@@ -37311,6 +38971,9 @@ window.allHeroes =
         "source": "Alliance - Knights Clash",
         "Release date": "2023-10-18",
         "specialId": "the_call_to_hibernate",
+        "passiveSkills": [
+            "heal_on_buff_alliance_quest_family"
+        ],
         "heroId": "castle_bear_teddy",
         "star": 5,
         "power": 980,
@@ -37382,6 +39045,9 @@ window.allHeroes =
         "source": "Legends Summon - Hero of the Month",
         "Release date": "2020-03-01",
         "specialId": "force_of_forest",
+        "passiveSkills": [
+            "resist_minion_removal"
+        ],
         "heroId": "forest_god_telluria",
         "star": 5,
         "power": 772,
@@ -37458,6 +39124,10 @@ window.allHeroes =
         "source": "Tower - Magic",
         "Release date": "2023-05-03",
         "specialId": "poem_of_the_centaurs",
+        "passiveSkills": [
+            "magic_mana_regen_stack_on_special",
+            "magic_damage_on_full_charge_to_not_red"
+        ],
         "heroId": "magic_telonius",
         "star": 5,
         "power": 890,
@@ -37531,6 +39201,7 @@ window.allHeroes =
         "source": "Challenge Festival I",
         "Release date": "2019-02-14",
         "specialId": "mad_as_a_hatter",
+        "passiveSkills": null,
         "heroId": "wonderland_hatter",
         "star": 5,
         "power": 768,
@@ -37591,6 +39262,10 @@ window.allHeroes =
         "source": "Challenge Festival I",
         "Release date": "2024-04-18",
         "specialId": "mad_as_a_hatter",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": [
+            "possession_on_special"
+        ],
         "heroId": "wonderland_hatter_costume_tea",
         "star": 5,
         "power": 963,
@@ -37658,6 +39333,11 @@ window.allHeroes =
         "source": "Goblin Summon",
         "Release date": "2024-07-07",
         "specialId": "reporting_for_duty",
+        "passiveSkills": [
+            "remove_wither_from_allies",
+            "resist_direct_mana_reductions",
+            "mana_on_debuff"
+        ],
         "heroId": "garrison_theodosius",
         "star": 5,
         "power": 1101,
@@ -37736,6 +39416,7 @@ window.allHeroes =
         "source": "Challenge Festival II",
         "Release date": "2021-02-11",
         "specialId": "accelerated_growth",
+        "passiveSkills": null,
         "heroId": "villain_toxicandra",
         "star": 5,
         "power": 800,
@@ -37803,6 +39484,10 @@ window.allHeroes =
         "source": "Challenge Festival II",
         "Release date": "2025-06-15",
         "specialId": "accelerated_growth",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": [
+            "extra_special_curse"
+        ],
         "heroId": "villain_toxicandra_costume_rose",
         "star": 5,
         "power": 1196,
@@ -37869,6 +39554,9 @@ window.allHeroes =
         "source": "Monthly Event - Kalevala",
         "Release date": "2022-06-20",
         "specialId": "song_of_the_morass",
+        "passiveSkills": [
+            "heal_mana_on_low_health_once"
+        ],
         "heroId": "kalevala_vainamoinen",
         "star": 5,
         "power": 837,
@@ -37929,6 +39617,10 @@ window.allHeroes =
         "source": "Monthly Event - Kalevala",
         "Release date": "2024-07-22",
         "specialId": "song_of_the_morass",
+        "passiveSkills": [
+            "heal_mana_on_low_health_once"
+        ],
+        "costumeBonusPassiveSkillIds": null,
         "heroId": "kalevala_vainamoinen_costume_vainamoinen_sage",
         "star": 5,
         "power": 1083,
@@ -37989,6 +39681,10 @@ window.allHeroes =
         "source": "Super Elementals",
         "Release date": "2025-07-04",
         "specialId": "judgement_of_goo",
+        "passiveSkills": [
+            "summon_slime_minion_on_damage_green",
+            "summon_slime_minion_on_death_green"
+        ],
         "heroId": "slime_verdigoo",
         "star": 5,
         "power": 1217,
@@ -38053,6 +39749,9 @@ window.allHeroes =
         "source": "Tower - Owls",
         "Release date": "2024-03-13",
         "specialId": "swooping_talon",
+        "passiveSkills": [
+            "mana_generation_modifier_all_enemies_stronger"
+        ],
         "heroId": "owl_verus",
         "star": 5,
         "power": 1047,
@@ -38124,6 +39823,10 @@ window.allHeroes =
         "source": "Legends Summon - Hero of the Month",
         "Release date": "2023-02-01",
         "specialId": "withering_seasons",
+        "passiveSkills": [
+            "healthboost_per_poisoned_enemy",
+            "resist_poison"
+        ],
         "heroId": "nature_god_viselus",
         "star": 5,
         "power": 820,
@@ -38197,6 +39900,9 @@ window.allHeroes =
         "source": "Challenge Festival II",
         "Release date": "2022-08-11",
         "specialId": "madrigal_of_mayhem",
+        "passiveSkills": [
+            "defense_modifier_reduction_all_allies"
+        ],
         "heroId": "bard_winifred",
         "star": 5,
         "power": 869,
@@ -38264,6 +39970,9 @@ window.allHeroes =
         "source": "Super Elementals",
         "Release date": "2022-12-05",
         "specialId": "staff_of_mana_control",
+        "passiveSkills": [
+            "strong_troop_damage_modifier"
+        ],
         "heroId": "elemental_xandrella",
         "star": 5,
         "power": 900,
@@ -38337,6 +40046,9 @@ window.allHeroes =
         "source": "Alliance - Knights Clash",
         "Release date": "2023-10-18",
         "specialId": "power_of_the_forest",
+        "passiveSkills": [
+            "heal_on_buff_alliance_quest_family"
+        ],
         "heroId": "castle_stag_xiamara",
         "star": 5,
         "power": 980,
@@ -38407,6 +40119,9 @@ window.allHeroes =
         "source": "Monthly Event - Lunar Year",
         "Release date": "2025-01-27",
         "specialId": "warding_off_evil",
+        "passiveSkills": [
+            "enemy_minion_follower_silencer"
+        ],
         "heroId": "lunar_new_year_xiaoqing",
         "star": 5,
         "power": 1154,
@@ -38477,6 +40192,7 @@ window.allHeroes =
         "source": "Monthly Event - Sand Empire",
         "Release date": "2018-06-21",
         "specialId": "kings_curse",
+        "passiveSkills": null,
         "heroId": "sand_king",
         "star": 5,
         "power": 770,
@@ -38544,6 +40260,8 @@ window.allHeroes =
         "source": "Monthly Event - Sand Empire",
         "Release date": "2021-06-21",
         "specialId": "kings_curse",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null,
         "heroId": "sand_king_costume_lifeguard",
         "star": 5,
         "power": 941,
@@ -38614,6 +40332,9 @@ window.allHeroes =
         "source": "Mystery - Shadow Summon",
         "Release date": "2024-06-30",
         "specialId": "darts_of_the_deep",
+        "passiveSkills": [
+            "insanity_damage_reduction"
+        ],
         "heroId": "shadow_zavinia",
         "star": 5,
         "power": 1109,
@@ -38682,6 +40403,7 @@ window.allHeroes =
         "source": "Legends Summon - Hero of the Month",
         "Release date": "2018-02-01",
         "specialId": "emerald_flash",
+        "passiveSkills": null,
         "heroId": "forest_god_zeline",
         "star": 5,
         "power": 768,
@@ -38758,6 +40480,10 @@ window.allHeroes =
         "source": "Legends Summon - Hero of the Month",
         "Release date": "2023-12-19",
         "specialId": "emerald_flash",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": [
+            "extra_special_cleanse_newest"
+        ],
         "heroId": "forest_god_zeline_costume_avian",
         "star": 5,
         "power": 975,
@@ -38832,6 +40558,9 @@ window.allHeroes =
         "source": "Legends Summon - Hero of the Month",
         "Release date": "2020-08-01",
         "specialId": "keyknife_typhoon",
+        "passiveSkills": [
+            "resist_water"
+        ],
         "heroId": "forest_god_zocc",
         "star": 5,
         "power": 775,
@@ -38898,6 +40627,9 @@ window.allHeroes =
         "source": "Super Elementals",
         "Release date": "2023-08-14",
         "specialId": "hoverboard_slam",
+        "passiveSkills": [
+            "strong_troop_damage_modifier"
+        ],
         "heroId": "elemental_zuni",
         "star": 5,
         "power": 947,
@@ -38964,6 +40696,7 @@ window.allHeroes =
         "source": "S1 - Classic",
         "Release date": "2017-03-01",
         "specialId": "backstab",
+        "passiveSkills": null,
         "heroId": "cultist_thief",
         "star": 1,
         "power": 210,
@@ -38996,6 +40729,7 @@ window.allHeroes =
         "source": "S1 - Classic",
         "Release date": "2017-03-01",
         "specialId": "focused_shot",
+        "passiveSkills": null,
         "heroId": "blackguard_female_archer",
         "star": 1,
         "power": 212,
@@ -39028,6 +40762,7 @@ window.allHeroes =
         "source": "S1 - Classic",
         "Release date": "2017-03-01",
         "specialId": "focused_shot",
+        "passiveSkills": null,
         "heroId": "blackguard_scout",
         "star": 2,
         "power": 335,
@@ -39060,6 +40795,7 @@ window.allHeroes =
         "source": "S1 - Classic",
         "Release date": "2017-03-01",
         "specialId": "poisoned_blade",
+        "passiveSkills": null,
         "heroId": "cultist_female_poisoner",
         "star": 2,
         "power": 338,
@@ -39092,6 +40828,7 @@ window.allHeroes =
         "source": "S1 - Classic",
         "Release date": "2017-03-01",
         "specialId": "attack_rally",
+        "passiveSkills": null,
         "heroId": "undead_screaming_zombie",
         "star": 2,
         "power": 333,
@@ -39126,6 +40863,7 @@ window.allHeroes =
         "source": "Alliance - Knights Clash",
         "Release date": "2021-10-13",
         "specialId": "apothecary_kit",
+        "passiveSkills": null,
         "heroId": "castle_raven_aderyn",
         "star": 3,
         "power": 480,
@@ -39182,6 +40920,7 @@ window.allHeroes =
         "source": "S3 - Valhalla",
         "Release date": "2020-05-28",
         "specialId": "tribal_rage",
+        "passiveSkills": null,
         "heroId": "s3_anwindr",
         "star": 3,
         "power": 465,
@@ -39241,6 +40980,9 @@ window.allHeroes =
         "source": "S5 - Dune",
         "Release date": "2022-04-21",
         "specialId": "one_jump_ahead",
+        "passiveSkills": [
+            "moon_extra_special_damage_and_dispel_latest_buff"
+        ],
         "heroId": "s5_aqeela",
         "star": 3,
         "power": 483,
@@ -39304,6 +41046,13 @@ window.allHeroes =
         "source": "S5 - Dune",
         "Release date": "2024-08-10",
         "specialId": "one_jump_ahead",
+        "passiveSkills": [
+            "moon_extra_special_damage_and_dispel_latest_buff"
+        ],
+        "costumeBonusPassiveSkillIds": [
+            "mana_on_debuff",
+            "iterate_passive_effects_on_special"
+        ],
         "heroId": "s5_aqeela_costume_sorcerer",
         "star": 3,
         "power": 494,
@@ -39365,6 +41114,7 @@ window.allHeroes =
         "source": "S1 - Classic",
         "Release date": "2017-03-01",
         "specialId": "electric_jolt",
+        "passiveSkills": null,
         "heroId": "cultist_mage",
         "star": 3,
         "power": 442,
@@ -39417,6 +41167,8 @@ window.allHeroes =
         "source": "Costume Quest",
         "Release date": "2020-05-18",
         "specialId": "electric_jolt",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null,
         "heroId": "cultist_mage_costume_voodoo",
         "star": 3,
         "power": 472,
@@ -39475,6 +41227,10 @@ window.allHeroes =
         "source": "Costume Quest",
         "Release date": "2024-01-22",
         "specialId": "electric_jolt",
+        "passiveSkills": [
+            "toon_resist_debuffs_manareduction_dispels"
+        ],
+        "costumeBonusPassiveSkillIds": null,
         "heroId": "cultist_mage_costume_cute",
         "star": 3,
         "power": 505,
@@ -39535,6 +41291,10 @@ window.allHeroes =
         "source": "Costume Quest",
         "Release date": "2025-03-11",
         "specialId": "electric_jolt",
+        "passiveSkills": [
+            "glass_reflect_debuffs"
+        ],
+        "costumeBonusPassiveSkillIds": null,
         "heroId": "cultist_mage_costume_glass",
         "star": 3,
         "power": 513,
@@ -39596,6 +41356,9 @@ window.allHeroes =
         "source": "Challenge - Gargoyle",
         "Release date": "2024-05-16",
         "specialId": "pointy_darts",
+        "passiveSkills": [
+            "gargoyle_soft_skin"
+        ],
         "heroId": "gargoyle_betty",
         "star": 3,
         "power": 493,
@@ -39657,6 +41420,7 @@ window.allHeroes =
         "source": "S3 - Valhalla",
         "Release date": "2020-02-27",
         "specialId": "dual_slash",
+        "passiveSkills": null,
         "heroId": "s3_bjorn",
         "star": 3,
         "power": 463,
@@ -39718,6 +41482,8 @@ window.allHeroes =
         "source": "S3 - Valhalla",
         "Release date": "2022-07-04",
         "specialId": "dual_slash",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null,
         "heroId": "s3_bjorn_costume_viking",
         "star": 3,
         "power": 478,
@@ -39784,6 +41550,9 @@ window.allHeroes =
         "source": "Challenge - Gargoyle",
         "Release date": "2022-05-12",
         "specialId": "abiding_dogma",
+        "passiveSkills": [
+            "gargoyle_stone"
+        ],
         "heroId": "gargoyle_budatin",
         "star": 3,
         "power": 482,
@@ -39838,6 +41607,7 @@ window.allHeroes =
         "source": "S2 - Atlantis",
         "Release date": "2019-08-01",
         "specialId": "unholy_light",
+        "passiveSkills": null,
         "heroId": "s2_lantern_ghost",
         "star": 3,
         "power": 448,
@@ -39895,6 +41665,7 @@ window.allHeroes =
         "source": "Challenge Festival II",
         "Release date": "2021-02-11",
         "specialId": "crazed_lunge",
+        "passiveSkills": null,
         "heroId": "villain_edd",
         "star": 3,
         "power": 476,
@@ -39956,6 +41727,7 @@ window.allHeroes =
         "source": "S2 - Atlantis",
         "Release date": "2019-08-01",
         "specialId": "song_of_regression",
+        "passiveSkills": null,
         "heroId": "s2_fiji_mermaid",
         "star": 3,
         "power": 449,
@@ -40014,6 +41786,8 @@ window.allHeroes =
         "source": "S2 - Atlantis",
         "Release date": "2023-04-03",
         "specialId": "song_of_regression",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null,
         "heroId": "s2_fiji_mermaid_costume_hunter",
         "star": 3,
         "power": 463,
@@ -40076,6 +41850,10 @@ window.allHeroes =
         "source": "Monster Island Summon",
         "Release date": "2023-02-09",
         "specialId": "stubby_reap",
+        "passiveSkills": [
+            "hunters_mark_on_special",
+            "monster_hunter_reallocate_debuff_or_heal"
+        ],
         "heroId": "monster_hunter_greel",
         "star": 3,
         "power": 487,
@@ -40138,6 +41916,7 @@ window.allHeroes =
         "source": "Challenge Festival I",
         "Release date": "2020-01-08",
         "specialId": "merciless_bite",
+        "passiveSkills": null,
         "heroId": "guardian_bat",
         "star": 3,
         "power": 455,
@@ -40196,6 +41975,9 @@ window.allHeroes =
         "source": "Monthly Event - Morlovia",
         "Release date": "2020-10-26",
         "specialId": "explosive_o_lantern",
+        "passiveSkills": [
+            "halloween_steal_buff_or_deal_damage"
+        ],
         "heroId": "halloween_jack",
         "star": 3,
         "power": 468,
@@ -40261,6 +42043,9 @@ window.allHeroes =
         "source": "Challenge Festival II",
         "Release date": "2021-08-05",
         "specialId": "assassins_blades",
+        "passiveSkills": [
+            "resist_status_effect_damage"
+        ],
         "heroId": "slayer_maeve",
         "star": 3,
         "power": 478,
@@ -40329,6 +42114,7 @@ window.allHeroes =
         "source": "Tower - Ninjas",
         "Release date": "2023-07-26",
         "specialId": "cursed_fumes",
+        "passiveSkills": null,
         "heroId": "ninja_morganite",
         "star": 3,
         "power": 486,
@@ -40402,6 +42188,9 @@ window.allHeroes =
         "source": "S4 - Wilderness",
         "Release date": "2021-03-25",
         "specialId": "dig_a_hole",
+        "passiveSkills": [
+            "decrease_debuff_duration"
+        ],
         "heroId": "s4_morris",
         "star": 3,
         "power": 478,
@@ -40477,6 +42266,10 @@ window.allHeroes =
         "source": "S4 - Wilderness",
         "Release date": "2024-05-23",
         "specialId": "dig_a_hole",
+        "passiveSkills": [
+            "decrease_debuff_duration"
+        ],
+        "costumeBonusPassiveSkillIds": null,
         "heroId": "s4_morris_costume_potter",
         "star": 3,
         "power": 488,
@@ -40547,6 +42340,7 @@ window.allHeroes =
         "source": "S1 - Classic",
         "Release date": "2017-03-01",
         "specialId": "toxic_traps",
+        "passiveSkills": null,
         "heroId": "undead_horned_skeleton",
         "star": 3,
         "power": 445,
@@ -40604,6 +42398,8 @@ window.allHeroes =
         "source": "Costume Quest",
         "Release date": "2021-01-18",
         "specialId": "toxic_traps",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null,
         "heroId": "undead_horned_skeleton_costume_fool",
         "star": 3,
         "power": 474,
@@ -40662,6 +42458,10 @@ window.allHeroes =
         "source": "Costume Quest",
         "Release date": "2024-08-11",
         "specialId": "toxic_traps",
+        "passiveSkills": [
+            "toon_resist_debuffs_manareduction_dispels"
+        ],
+        "costumeBonusPassiveSkillIds": null,
         "heroId": "undead_horned_skeleton_costume_cute",
         "star": 3,
         "power": 508,
@@ -40729,6 +42529,9 @@ window.allHeroes =
         "source": "Monthly Event - Kalevala",
         "Release date": "2022-06-20",
         "specialId": "familiar_witchcraft",
+        "passiveSkills": [
+            "heal_mana_on_low_health_once"
+        ],
         "heroId": "kalevala_para",
         "star": 3,
         "power": 482,
@@ -40789,6 +42592,7 @@ window.allHeroes =
         "source": "S1 - Classic",
         "Release date": "2017-03-01",
         "specialId": "bleeding_stab",
+        "passiveSkills": null,
         "heroId": "blackguard_female_captain",
         "star": 3,
         "power": 446,
@@ -40847,6 +42651,8 @@ window.allHeroes =
         "source": "Costume Quest",
         "Release date": "2020-05-18",
         "specialId": "bleeding_stab",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null,
         "heroId": "blackguard_female_captain_costume_musketeer",
         "star": 3,
         "power": 476,
@@ -40906,6 +42712,10 @@ window.allHeroes =
         "source": "Costume Quest",
         "Release date": "2024-02-12",
         "specialId": "bleeding_stab",
+        "passiveSkills": [
+            "toon_resist_debuffs_manareduction_dispels"
+        ],
+        "costumeBonusPassiveSkillIds": null,
         "heroId": "blackguard_female_captain_costume_cute",
         "star": 3,
         "power": 510,
@@ -40970,6 +42780,10 @@ window.allHeroes =
         "source": "Costume Quest",
         "Release date": "2025-04-08",
         "specialId": "bleeding_stab",
+        "passiveSkills": [
+            "glass_reflect_debuffs"
+        ],
+        "costumeBonusPassiveSkillIds": null,
         "heroId": "blackguard_female_captain_costume_glass",
         "star": 3,
         "power": 519,
@@ -41032,6 +42846,7 @@ window.allHeroes =
         "source": "S1 - Classic",
         "Release date": "2017-03-01",
         "specialId": "leeching_stars",
+        "passiveSkills": null,
         "heroId": "blackguard_skulker",
         "star": 3,
         "power": 445,
@@ -41091,6 +42906,8 @@ window.allHeroes =
         "source": "Costume Quest",
         "Release date": "2020-05-18",
         "specialId": "leeching_stars",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null,
         "heroId": "blackguard_skulker_costume_doctor",
         "star": 3,
         "power": 474,
@@ -41150,6 +42967,10 @@ window.allHeroes =
         "source": "Costume Quest",
         "Release date": "2024-09-08",
         "specialId": "leeching_stars",
+        "passiveSkills": [
+            "toon_resist_debuffs_manareduction_dispels"
+        ],
+        "costumeBonusPassiveSkillIds": null,
         "heroId": "blackguard_skulker_costume_cute",
         "star": 3,
         "power": 507,
@@ -41216,6 +43037,7 @@ window.allHeroes =
         "source": "Challenge Festival I",
         "Release date": "2021-12-15",
         "specialId": "archaic_dread",
+        "passiveSkills": null,
         "heroId": "knights_treevil",
         "star": 3,
         "power": 481,
@@ -41278,6 +43100,7 @@ window.allHeroes =
         "source": "S1 - Classic",
         "Release date": "2017-03-01",
         "specialId": "piercing_hit",
+        "passiveSkills": null,
         "heroId": "undead_running_skeleton",
         "star": 3,
         "power": 441,
@@ -41336,6 +43159,8 @@ window.allHeroes =
         "source": "Costume Quest",
         "Release date": "2020-01-01",
         "specialId": "piercing_hit",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null,
         "heroId": "undead_running_skeleton_costume_roman",
         "star": 3,
         "power": 470,
@@ -41395,6 +43220,10 @@ window.allHeroes =
         "source": "Costume Quest",
         "Release date": "2024-10-06",
         "specialId": "piercing_hit",
+        "passiveSkills": [
+            "toon_resist_debuffs_manareduction_dispels"
+        ],
+        "costumeBonusPassiveSkillIds": null,
         "heroId": "undead_running_skeleton_costume_cute",
         "star": 3,
         "power": 505,
@@ -41462,6 +43291,10 @@ window.allHeroes =
         "source": "Challenge - Beowulf",
         "Release date": "2025-02-13",
         "specialId": "tempered_blade",
+        "passiveSkills": [
+            "never_miss_special",
+            "resist_mana_reductions_with_health_boost_and_mana"
+        ],
         "heroId": "beowulf_unferth",
         "star": 3,
         "power": 505,
@@ -41532,6 +43365,9 @@ window.allHeroes =
         "source": "Monthly Event - Morlovia",
         "Release date": "2018-10-25",
         "specialId": "lords_blood_poisoning",
+        "passiveSkills": [
+            "halloween_steal_buff_or_deal_damage"
+        ],
         "heroId": "vampire_lord",
         "star": 3,
         "power": 449,
@@ -41591,6 +43427,9 @@ window.allHeroes =
         "source": "S5 - Dune",
         "Release date": "2022-04-21",
         "specialId": "mummy_slash",
+        "passiveSkills": [
+            "moon_extra_special_damage_and_dispel_latest_buff"
+        ],
         "heroId": "s5_ahhotep",
         "star": 4,
         "power": 683,
@@ -41652,6 +43491,13 @@ window.allHeroes =
         "source": "S5 - Dune",
         "Release date": "2024-07-13",
         "specialId": "mummy_slash",
+        "passiveSkills": [
+            "moon_extra_special_damage_and_dispel_latest_buff"
+        ],
+        "costumeBonusPassiveSkillIds": [
+            "mana_on_debuff",
+            "iterate_passive_effects_on_special"
+        ],
         "heroId": "s5_ahhotep_costume_champion",
         "star": 4,
         "power": 699,
@@ -41717,6 +43563,7 @@ window.allHeroes =
         "source": "S2 - Atlantis",
         "Release date": "2019-08-01",
         "specialId": "ethereal",
+        "passiveSkills": null,
         "heroId": "s2_ghost_woman",
         "star": 4,
         "power": 649,
@@ -41777,6 +43624,8 @@ window.allHeroes =
         "source": "S2 - Atlantis",
         "Release date": "2022-05-02",
         "specialId": "ethereal",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null,
         "heroId": "s2_ghost_woman_costume_yurei",
         "star": 4,
         "power": 671,
@@ -41841,6 +43690,7 @@ window.allHeroes =
         "source": "Tower - Ninjas",
         "Release date": "2020-10-13",
         "specialId": "blur_of_steel",
+        "passiveSkills": null,
         "heroId": "ninja_ametrine",
         "star": 4,
         "power": 670,
@@ -41910,6 +43760,9 @@ window.allHeroes =
         "source": "Monthly Event - Morlovia",
         "Release date": "2022-10-03",
         "specialId": "tidy_up",
+        "passiveSkills": [
+            "halloween_steal_buff_or_deal_damage"
+        ],
         "heroId": "halloween_ana_belle",
         "star": 4,
         "power": 683,
@@ -41977,6 +43830,10 @@ window.allHeroes =
         "source": "Tower - Styx",
         "Release date": "2022-09-21",
         "specialId": "potion_cocktail",
+        "passiveSkills": [
+            "resist_all_defense_debuffs",
+            "reduce_minion_health"
+        ],
         "heroId": "styx_arges",
         "star": 4,
         "power": 685,
@@ -42051,6 +43908,7 @@ window.allHeroes =
         "source": "Challenge Festival I",
         "Release date": "2017-09-07",
         "specialId": "watery_grave",
+        "passiveSkills": null,
         "heroId": "pirate_first_mate",
         "star": 4,
         "power": 645,
@@ -42110,6 +43968,7 @@ window.allHeroes =
         "source": "Challenge Festival I",
         "Release date": "2019-02-14",
         "specialId": "dazzling_grin",
+        "passiveSkills": null,
         "heroId": "wonderland_cheshire_cat",
         "star": 4,
         "power": 649,
@@ -42172,6 +44031,8 @@ window.allHeroes =
         "source": "Challenge Festival I",
         "Release date": "2023-10-05",
         "specialId": "dazzling_grin",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null,
         "heroId": "wonderland_cheshire_cat_costume_malicious",
         "star": 4,
         "power": 684,
@@ -42234,6 +44095,10 @@ window.allHeroes =
         "source": "Challenge Festival II",
         "Release date": "2022-11-03",
         "specialId": "grand_heist",
+        "passiveSkills": [
+            "heal_and_add_mana_on_ally_minion",
+            "damage_enemies_on_enemy_parasite"
+        ],
         "heroId": "mighty_pet_cupcake",
         "star": 4,
         "power": 684,
@@ -42299,6 +44164,7 @@ window.allHeroes =
         "source": "S1 - Classic",
         "Release date": "2017-03-01",
         "specialId": "perfect_riposte",
+        "passiveSkills": null,
         "heroId": "undead_captain_warrior",
         "star": 4,
         "power": 642,
@@ -42349,6 +44215,8 @@ window.allHeroes =
         "source": "Costume Quest",
         "Release date": "2021-01-18",
         "specialId": "perfect_riposte",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null,
         "heroId": "undead_captain_warrior_costume_prince",
         "star": 4,
         "power": 688,
@@ -42403,6 +44271,8 @@ window.allHeroes =
         "source": "Costume Quest",
         "Release date": "2023-04-17",
         "specialId": "perfect_riposte",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null,
         "heroId": "undead_captain_warrior_costume_reveller",
         "star": 4,
         "power": 735,
@@ -42457,6 +44327,10 @@ window.allHeroes =
         "source": "Costume Quest",
         "Release date": "2024-04-08",
         "specialId": "perfect_riposte",
+        "passiveSkills": [
+            "toon_resist_debuffs_manareduction_dispels"
+        ],
+        "costumeBonusPassiveSkillIds": null,
         "heroId": "undead_captain_warrior_costume_cute",
         "star": 4,
         "power": 747,
@@ -42510,6 +44384,10 @@ window.allHeroes =
         "source": "Costume Quest",
         "Release date": "2025-04-23",
         "specialId": "perfect_riposte",
+        "passiveSkills": [
+            "glass_reflect_debuffs"
+        ],
+        "costumeBonusPassiveSkillIds": null,
         "heroId": "undead_captain_warrior_costume_glass",
         "star": 4,
         "power": 759,
@@ -42569,6 +44447,7 @@ window.allHeroes =
         "source": "Monthly Event - Winter",
         "Release date": "2023-12-01",
         "specialId": "gloomy_tune",
+        "passiveSkills": null,
         "heroId": "christmas_dizzy",
         "star": 4,
         "power": 687,
@@ -42636,6 +44515,9 @@ window.allHeroes =
         "source": "Covenant Summon",
         "Release date": "2025-07-06",
         "specialId": "venomfang_concoction",
+        "passiveSkills": [
+            "reduced_healing_for_all_enemies"
+        ],
         "heroId": "fox_foxglove",
         "star": 4,
         "power": 748,
@@ -42701,6 +44583,7 @@ window.allHeroes =
         "source": "S3 - Valhalla",
         "Release date": "2020-05-28",
         "specialId": "nightglade_pollen",
+        "passiveSkills": null,
         "heroId": "s3_fura",
         "star": 4,
         "power": 660,
@@ -42761,6 +44644,8 @@ window.allHeroes =
         "source": "S3 - Valhalla",
         "Release date": "2023-01-16",
         "specialId": "nightglade_pollen",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null,
         "heroId": "s3_fura_costume_herbalist",
         "star": 4,
         "power": 681,
@@ -42829,6 +44714,7 @@ window.allHeroes =
         "source": "Monthly Event - Sand Empire",
         "Release date": "2018-06-21",
         "specialId": "viziers_curse",
+        "passiveSkills": null,
         "heroId": "sand_vizier",
         "star": 4,
         "power": 649,
@@ -42893,6 +44779,7 @@ window.allHeroes =
         "source": "Three Kingdoms Summon",
         "Release date": "2023-02-27",
         "specialId": "black_tassel_spear_sting",
+        "passiveSkills": null,
         "heroId": "journey_heifeng_guai",
         "star": 4,
         "power": 686,
@@ -42961,6 +44848,7 @@ window.allHeroes =
         "source": "Challenge Festival II",
         "Release date": "2021-02-11",
         "specialId": "draining_blade",
+        "passiveSkills": null,
         "heroId": "villain_ingolf",
         "star": 4,
         "power": 675,
@@ -43031,6 +44919,7 @@ window.allHeroes =
         "source": "Monthly Event - Sand Empire",
         "Release date": "2018-06-21",
         "specialId": "towers_curse",
+        "passiveSkills": null,
         "heroId": "sand_tower",
         "star": 4,
         "power": 649,
@@ -43096,6 +44985,9 @@ window.allHeroes =
         "source": "Tower - Owls",
         "Release date": "2024-02-14",
         "specialId": "scroll_of_spite",
+        "passiveSkills": [
+            "mana_generation_modifier_all_enemies_stronger"
+        ],
         "heroId": "owl_juliani",
         "star": 4,
         "power": 695,
@@ -43168,6 +45060,9 @@ window.allHeroes =
         "source": "Alliance - Musketeers",
         "Release date": "2023-03-08",
         "specialId": "flower_of_kindness",
+        "passiveSkills": [
+            "damage_all_enemies_on_cover_or_special_damage_received"
+        ],
         "heroId": "musketeer_kitty",
         "star": 4,
         "power": 686,
@@ -43230,6 +45125,9 @@ window.allHeroes =
         "source": "Alliance - Knights Clash",
         "Release date": "2023-10-18",
         "specialId": "feral_swing",
+        "passiveSkills": [
+            "heal_on_buff_alliance_quest_family"
+        ],
         "heroId": "castle_bear_koda",
         "star": 4,
         "power": 688,
@@ -43294,6 +45192,9 @@ window.allHeroes =
         "source": "Super Elementals",
         "Release date": "2023-11-06",
         "specialId": "energy_conjunction",
+        "passiveSkills": [
+            "strong_troop_damage_modifier"
+        ],
         "heroId": "elemental_lexi",
         "star": 4,
         "power": 692,
@@ -43361,6 +45262,10 @@ window.allHeroes =
         "source": "Monster Island Summon",
         "Release date": "2022-10-15",
         "specialId": "poison_tipped_arrow",
+        "passiveSkills": [
+            "hunters_mark_on_special",
+            "special_damage_reduction_monster_hunters"
+        ],
         "heroId": "monster_hunter_meadow",
         "star": 4,
         "power": 684,
@@ -43424,6 +45329,7 @@ window.allHeroes =
         "source": "Challenge Festival I",
         "Release date": "2018-01-05",
         "specialId": "arcane_blast",
+        "passiveSkills": null,
         "heroId": "knights_merlin",
         "star": 4,
         "power": 645,
@@ -43489,6 +45395,8 @@ window.allHeroes =
         "source": "Challenge Festival I",
         "Release date": "2023-04-20",
         "specialId": "arcane_blast",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null,
         "heroId": "knights_merlin_costume_astrology",
         "star": 4,
         "power": 735,
@@ -43553,6 +45461,7 @@ window.allHeroes =
         "source": "S2 - Atlantis",
         "Release date": "2019-08-01",
         "specialId": "scar_of_the_depths",
+        "passiveSkills": null,
         "heroId": "s2_proteus",
         "star": 4,
         "power": 650,
@@ -43612,6 +45521,8 @@ window.allHeroes =
         "source": "S2 - Atlantis",
         "Release date": "2023-04-03",
         "specialId": "scar_of_the_depths",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null,
         "heroId": "s2_proteus_costume_farseer",
         "star": 4,
         "power": 671,
@@ -43671,6 +45582,7 @@ window.allHeroes =
         "source": "S1 - Classic",
         "Release date": "2017-03-01",
         "specialId": "purification",
+        "passiveSkills": null,
         "heroId": "blackguard_knight",
         "star": 4,
         "power": 644,
@@ -43731,6 +45643,8 @@ window.allHeroes =
         "source": "Costume Quest",
         "Release date": "2020-01-01",
         "specialId": "purification",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null,
         "heroId": "blackguard_knight_costume_elegant",
         "star": 4,
         "power": 690,
@@ -43797,6 +45711,8 @@ window.allHeroes =
         "source": "Costume Quest",
         "Release date": "2023-04-17",
         "specialId": "purification",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null,
         "heroId": "blackguard_knight_costume_healer",
         "star": 4,
         "power": 736,
@@ -43863,6 +45779,10 @@ window.allHeroes =
         "source": "Costume Quest",
         "Release date": "2024-06-28",
         "specialId": "purification",
+        "passiveSkills": [
+            "toon_resist_debuffs_manareduction_dispels"
+        ],
+        "costumeBonusPassiveSkillIds": null,
         "heroId": "blackguard_knight_costume_cute",
         "star": 4,
         "power": 749,
@@ -43931,6 +45851,10 @@ window.allHeroes =
         "source": "Costume Quest",
         "Release date": "2025-07-16",
         "specialId": "purification",
+        "passiveSkills": [
+            "glass_reflect_debuffs"
+        ],
+        "costumeBonusPassiveSkillIds": null,
         "heroId": "blackguard_knight_costume_glass",
         "star": 4,
         "power": 761,
@@ -43997,6 +45921,7 @@ window.allHeroes =
         "source": "S1 - Classic",
         "Release date": "2017-03-01",
         "specialId": "fog_of_the_fallen",
+        "passiveSkills": null,
         "heroId": "undead_female_warrior",
         "star": 4,
         "power": 639,
@@ -44057,6 +45982,8 @@ window.allHeroes =
         "source": "Costume Quest",
         "Release date": "2021-01-18",
         "specialId": "fog_of_the_fallen",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null,
         "heroId": "undead_female_warrior_costume_princess",
         "star": 4,
         "power": 684,
@@ -44123,6 +46050,8 @@ window.allHeroes =
         "source": "Costume Quest",
         "Release date": "2023-11-27",
         "specialId": "fog_of_the_fallen",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null,
         "heroId": "undead_female_warrior_costume_rococo",
         "star": 4,
         "power": 730,
@@ -44189,6 +46118,10 @@ window.allHeroes =
         "source": "Costume Quest",
         "Release date": "2024-10-06",
         "specialId": "fog_of_the_fallen",
+        "passiveSkills": [
+            "toon_resist_debuffs_manareduction_dispels"
+        ],
+        "costumeBonusPassiveSkillIds": null,
         "heroId": "undead_female_warrior_costume_cute",
         "star": 4,
         "power": 742,
@@ -44258,6 +46191,9 @@ window.allHeroes =
         "source": "Tower - Magic",
         "Release date": "2021-09-15",
         "specialId": "midnight_moon",
+        "passiveSkills": [
+            "magic_damage_on_full_charge_to_not_purple"
+        ],
         "heroId": "magic_sergei",
         "star": 4,
         "power": 678,
@@ -44320,6 +46256,9 @@ window.allHeroes =
         "source": "S6 - Mysteries of the Deep",
         "Release date": "2023-06-07",
         "specialId": "critical_tactics",
+        "passiveSkills": [
+            "tales1_extra_special_damage_and_add_stacking_mana_generation"
+        ],
         "heroId": "tales1_sharkhai",
         "star": 4,
         "power": 688,
@@ -44383,6 +46322,12 @@ window.allHeroes =
         "source": "S6 - Mysteries of the Deep",
         "Release date": "2025-02-03",
         "specialId": "critical_tactics",
+        "passiveSkills": [
+            "tales1_extra_special_damage_and_add_stacking_mana_generation"
+        ],
+        "costumeBonusPassiveSkillIds": [
+            "resist_insanity"
+        ],
         "heroId": "tales1_sharkhai_costume_butcher",
         "star": 4,
         "power": 704,
@@ -44451,6 +46396,7 @@ window.allHeroes =
         "source": "Mystery - Shadow Summon",
         "Release date": "2025-01-09",
         "specialId": "lantern_of_insanity",
+        "passiveSkills": null,
         "heroId": "shadow_shoggo",
         "star": 4,
         "power": 712,
@@ -44515,6 +46461,9 @@ window.allHeroes =
         "source": "Alliance - Moths",
         "Release date": "2025-01-23",
         "specialId": "shadow_sidestep",
+        "passiveSkills": [
+            "dodge_enemy_damage_special"
+        ],
         "heroId": "moth_shyombre",
         "star": 4,
         "power": 717,
@@ -44578,6 +46527,7 @@ window.allHeroes =
         "source": "S3 - Valhalla",
         "Release date": "2020-02-27",
         "specialId": "dire_ghost",
+        "passiveSkills": null,
         "heroId": "s3_stonecleave",
         "star": 4,
         "power": 661,
@@ -44639,6 +46589,7 @@ window.allHeroes =
         "source": "S1 - Classic",
         "Release date": "2017-03-01",
         "specialId": "ramming_pulverizer",
+        "passiveSkills": null,
         "heroId": "blackguard_commander",
         "star": 4,
         "power": 639,
@@ -44697,6 +46648,8 @@ window.allHeroes =
         "source": "Costume Quest",
         "Release date": "2020-01-01",
         "specialId": "ramming_pulverizer",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null,
         "heroId": "blackguard_commander_costume_metal",
         "star": 4,
         "power": 684,
@@ -44755,6 +46708,8 @@ window.allHeroes =
         "source": "Costume Quest",
         "Release date": "2023-10-30",
         "specialId": "ramming_pulverizer",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null,
         "heroId": "blackguard_commander_costume_feather",
         "star": 4,
         "power": 729,
@@ -44814,6 +46769,10 @@ window.allHeroes =
         "source": "Costume Quest",
         "Release date": "2024-08-11",
         "specialId": "ramming_pulverizer",
+        "passiveSkills": [
+            "toon_resist_debuffs_manareduction_dispels"
+        ],
+        "costumeBonusPassiveSkillIds": null,
         "heroId": "blackguard_commander_costume_cute",
         "star": 4,
         "power": 742,
@@ -44883,6 +46842,9 @@ window.allHeroes =
         "source": "Goblin Summon",
         "Release date": "2023-12-11",
         "specialId": "poisonous_mist",
+        "passiveSkills": [
+            "goblin_damage_and_accuracy_debuff_on_special"
+        ],
         "heroId": "goblin_acidfire",
         "star": 5,
         "power": 979,
@@ -44948,6 +46910,9 @@ window.allHeroes =
         "source": "Super Elementals",
         "Release date": "2023-05-22",
         "specialId": "bleed_inducing_daggers",
+        "passiveSkills": [
+            "strong_troop_damage_modifier"
+        ],
         "heroId": "elemental_aconia",
         "star": 5,
         "power": 909,
@@ -45022,6 +46987,7 @@ window.allHeroes =
         "source": "Legends Summon - Hero of the Month",
         "Release date": "2018-04-01",
         "specialId": "nethershield",
+        "passiveSkills": null,
         "heroId": "dark_god_aeron",
         "star": 5,
         "power": 768,
@@ -45089,6 +47055,10 @@ window.allHeroes =
         "source": "Legends Summon - Hero of the Month",
         "Release date": "2023-01-23",
         "specialId": "nethershield",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": [
+            "extra_special_cleanse_newest"
+        ],
         "heroId": "dark_god_aeron_costume_periwig",
         "star": 5,
         "power": 976,
@@ -45156,6 +47126,10 @@ window.allHeroes =
         "source": "Tower - Magic",
         "Release date": "2025-07-23",
         "specialId": "high_altitude_ambush",
+        "passiveSkills": [
+            "reduce_big_minion_health",
+            "fly_magic_carpet"
+        ],
         "heroId": "magic_carpet_agadh",
         "star": 5,
         "power": 1222,
@@ -45235,6 +47209,9 @@ window.allHeroes =
         "source": "Tower - Magic",
         "Release date": "2021-09-15",
         "specialId": "arcane_shock",
+        "passiveSkills": [
+            "magic_damage_on_full_charge_to_not_purple"
+        ],
         "heroId": "magic_agrafena",
         "star": 5,
         "power": 813,
@@ -45320,6 +47297,12 @@ window.allHeroes =
         "source": "Tower - Magic",
         "Release date": "2025-05-29",
         "specialId": "arcane_shock",
+        "passiveSkills": [
+            "magic_damage_on_full_charge_costume"
+        ],
+        "costumeBonusPassiveSkillIds": [
+            "reduce_big_minion_health"
+        ],
         "heroId": "magic_agrafena_costume_dark",
         "star": 5,
         "power": 1208,
@@ -45401,6 +47384,10 @@ window.allHeroes =
         "source": "Legends Summon - Hero of the Month",
         "Release date": "2025-06-01",
         "specialId": "coiling_whip",
+        "passiveSkills": [
+            "heal_on_own_familiar_death_more",
+            "resist_negative_minion_effects"
+        ],
         "heroId": "dark_god_akilius",
         "star": 5,
         "power": 1085,
@@ -45471,6 +47458,7 @@ window.allHeroes =
         "source": "S3 - Valhalla",
         "Release date": "2020-04-23",
         "specialId": "cube_of_dark_realm",
+        "passiveSkills": null,
         "heroId": "s3_alfrike",
         "star": 5,
         "power": 790,
@@ -45534,6 +47522,8 @@ window.allHeroes =
         "source": "S3 - Valhalla",
         "Release date": "2023-07-03",
         "specialId": "cube_of_dark_realm",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null,
         "heroId": "s3_alfrike_costume_hatter",
         "star": 5,
         "power": 991,
@@ -45596,6 +47586,7 @@ window.allHeroes =
         "source": "Tower - Ninjas",
         "Release date": "2023-01-11",
         "specialId": "assassins_in_the_night",
+        "passiveSkills": null,
         "heroId": "ninja_amethyst",
         "star": 5,
         "power": 867,
@@ -45668,6 +47659,10 @@ window.allHeroes =
         "source": "Legends Summon - Hero of the Month",
         "Release date": "2024-03-01",
         "specialId": "strange_incense",
+        "passiveSkills": [
+            "heal_on_debuff",
+            "resist_accuracy_modifier_debuffs"
+        ],
         "heroId": "dark_god_anoushka",
         "star": 5,
         "power": 966,
@@ -45742,6 +47737,9 @@ window.allHeroes =
         "source": "S5 - Dune",
         "Release date": "2023-03-16",
         "specialId": "mark_of_anubis",
+        "passiveSkills": [
+            "moon_extra_special_damage_and_dispel_latest_buff"
+        ],
         "heroId": "s5_anubis",
         "star": 5,
         "power": 870,
@@ -45809,6 +47807,13 @@ window.allHeroes =
         "source": "S5 - Dune",
         "Release date": "2024-02-05",
         "specialId": "mark_of_anubis",
+        "passiveSkills": [
+            "moon_extra_special_damage_and_dispel_latest_buff"
+        ],
+        "costumeBonusPassiveSkillIds": [
+            "mana_on_debuff",
+            "guaranteed_passive_effects_on_special"
+        ],
         "heroId": "s5_anubis_costume_dancefloor",
         "star": 5,
         "power": 1216,
@@ -45880,6 +47885,9 @@ window.allHeroes =
         "source": "Alliance - Musketeers",
         "Release date": "2022-12-14",
         "specialId": "charmers_blades",
+        "passiveSkills": [
+            "damage_all_enemies_on_cover_or_special_damage_received"
+        ],
         "heroId": "musketeer_aramis",
         "star": 5,
         "power": 845,
@@ -45946,6 +47954,10 @@ window.allHeroes =
         "source": "Legends Summon - Hero of the Month",
         "Release date": "2022-06-01",
         "specialId": "dagger_of_shadows",
+        "passiveSkills": [
+            "resist_health_steal",
+            "attack_buff_on_mana_reduction"
+        ],
         "heroId": "dark_god_arfanias",
         "star": 5,
         "power": 808,
@@ -46016,6 +48028,7 @@ window.allHeroes =
         "source": "Mystery - Shadow Summon",
         "Release date": "2025-05-13",
         "specialId": "necronomicon_page_13",
+        "passiveSkills": null,
         "heroId": "shadow_asketel",
         "star": 5,
         "power": 1190,
@@ -46079,6 +48092,9 @@ window.allHeroes =
         "source": "S5 - Dune",
         "Release date": "2022-08-04",
         "specialId": "quick_and_nimble",
+        "passiveSkills": [
+            "moon_extra_special_damage_and_dispel_latest_buff"
+        ],
         "heroId": "s5_bastet",
         "star": 5,
         "power": 862,
@@ -46144,6 +48160,13 @@ window.allHeroes =
         "source": "S5 - Dune",
         "Release date": "2024-08-10",
         "specialId": "quick_and_nimble",
+        "passiveSkills": [
+            "moon_extra_special_damage_and_dispel_latest_buff"
+        ],
+        "costumeBonusPassiveSkillIds": [
+            "mana_on_debuff",
+            "iterate_passive_effects_on_special"
+        ],
         "heroId": "s5_bastet_costume_forest",
         "star": 5,
         "power": 1206,
@@ -46213,6 +48236,10 @@ window.allHeroes =
         "source": "Tower - Magic",
         "Release date": "2023-06-28",
         "specialId": "wand_of_mana_control",
+        "passiveSkills": [
+            "magic_mana_regen_stack_on_special",
+            "magic_heal_on_full_charge_to_not_green"
+        ],
         "heroId": "magic_becky",
         "star": 5,
         "power": 907,
@@ -46288,6 +48315,9 @@ window.allHeroes =
         "source": "Challenge Festival II",
         "Release date": "2023-03-23",
         "specialId": "mystical_concerto",
+        "passiveSkills": [
+            "mana_generation_modifier_all_enemies_stronger"
+        ],
         "heroId": "bard_belladonna",
         "star": 5,
         "power": 881,
@@ -46354,6 +48384,7 @@ window.allHeroes =
         "source": "S3 - Valhalla",
         "Release date": "2020-09-24",
         "specialId": "disir_of_dusk",
+        "passiveSkills": null,
         "heroId": "s3_bera",
         "star": 5,
         "power": 786,
@@ -46422,6 +48453,8 @@ window.allHeroes =
         "source": "S3 - Valhalla",
         "Release date": "2023-06-05",
         "specialId": "disir_of_dusk",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null,
         "heroId": "s3_bera_costume_conjurer",
         "star": 5,
         "power": 984,
@@ -46490,6 +48523,7 @@ window.allHeroes =
         "source": "Challenge Festival I",
         "Release date": "2018-06-01",
         "specialId": "unstoppable_growl",
+        "passiveSkills": null,
         "heroId": "fables_boss_wolf",
         "star": 5,
         "power": 767,
@@ -46554,6 +48588,10 @@ window.allHeroes =
         "source": "Covenant Summon",
         "Release date": "2024-04-25",
         "specialId": "unerring_course",
+        "passiveSkills": [
+            "repair_core",
+            "resist_special_blocking"
+        ],
         "heroId": "construct_carta",
         "star": 5,
         "power": 1055,
@@ -46624,6 +48662,9 @@ window.allHeroes =
         "source": "Alliance - Knights Clash",
         "Release date": "2024-04-10",
         "specialId": "aura_of_twilight",
+        "passiveSkills": [
+            "heal_on_buff_alliance_quest_family"
+        ],
         "heroId": "castle_stag_cecilia",
         "star": 5,
         "power": 1028,
@@ -46687,6 +48728,9 @@ window.allHeroes =
         "source": "Tower - Owls",
         "Release date": "2024-07-02",
         "specialId": "blade_wings",
+        "passiveSkills": [
+            "mana_generation_modifier_all_enemies_stronger"
+        ],
         "heroId": "owl_cennius",
         "star": 5,
         "power": 1079,
@@ -46758,6 +48802,10 @@ window.allHeroes =
         "source": "Legends Summon - Hero of the Month",
         "Release date": "2021-08-01",
         "specialId": "stalling_spell",
+        "passiveSkills": [
+            "mana_gen_on_debuff",
+            "resist_direct_mana_reductions"
+        ],
         "heroId": "dark_god_chakkoszrot",
         "star": 5,
         "power": 793,
@@ -46827,6 +48875,11 @@ window.allHeroes =
         "source": "Three Kingdoms Summon",
         "Release date": "2025-06-30",
         "specialId": "advice_from_beyond",
+        "passiveSkills": [
+            "resist_bleed",
+            "righteous_rebellion_parent",
+            "cleanse_on_special_critical_damage_all_safe"
+        ],
         "heroId": "outlaw_chao_gai",
         "star": 5,
         "power": 1216,
@@ -46906,6 +48959,10 @@ window.allHeroes =
         "source": "Tower - Styx",
         "Release date": "2022-11-16",
         "specialId": "boat_ride_from_the_beyond",
+        "passiveSkills": [
+            "resist_all_defense_debuffs",
+            "reduce_minion_health"
+        ],
         "heroId": "styx_charon",
         "star": 5,
         "power": 858,
@@ -46975,6 +49032,9 @@ window.allHeroes =
         "source": "Legends Summon - Hero of the Month",
         "Release date": "2020-05-01",
         "specialId": "miasma_mace",
+        "passiveSkills": [
+            "resist_poison"
+        ],
         "heroId": "dark_god_clarissa",
         "star": 5,
         "power": 772,
@@ -47049,6 +49109,7 @@ window.allHeroes =
         "source": "Challenge Festival II",
         "Release date": "2021-02-11",
         "specialId": "doomstrike",
+        "passiveSkills": null,
         "heroId": "villain_dark_lord",
         "star": 5,
         "power": 805,
@@ -47121,6 +49182,10 @@ window.allHeroes =
         "source": "Challenge Festival II",
         "Release date": "2024-11-14",
         "specialId": "doomstrike",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": [
+            "extra_special_curse"
+        ],
         "heroId": "villain_dark_lord_costume_astronomer",
         "star": 5,
         "power": 1205,
@@ -47193,6 +49258,9 @@ window.allHeroes =
         "source": "Challenge Festival II",
         "Release date": "2025-04-09",
         "specialId": "struck_by_thunder",
+        "passiveSkills": [
+            "revival_chance_modifier_all_enemies"
+        ],
         "heroId": "bard_darkbeat",
         "star": 5,
         "power": 1188,
@@ -47263,6 +49331,9 @@ window.allHeroes =
         "source": "Goblin Summon",
         "Release date": "2023-09-18",
         "specialId": "the_eagles_blessing",
+        "passiveSkills": [
+            "goblin_damage_and_accuracy_debuff_on_special"
+        ],
         "heroId": "goblin_darkfeather",
         "star": 5,
         "power": 941,
@@ -47331,6 +49402,9 @@ window.allHeroes =
         "source": "Goblin Summon",
         "Release date": "2023-09-18",
         "specialId": "unhallowed_spirits",
+        "passiveSkills": [
+            "goblin_damage_and_accuracy_debuff_on_special"
+        ],
         "heroId": "goblin_deadboot",
         "star": 5,
         "power": 940,
@@ -47405,6 +49479,10 @@ window.allHeroes =
         "source": "Astral Summon",
         "Release date": "2024-05-20",
         "specialId": "moon_crush_beam",
+        "passiveSkills": [
+            "share_received_damage",
+            "resist_poison"
+        ],
         "heroId": "astral_demilune",
         "star": 5,
         "power": 1051,
@@ -47474,6 +49552,7 @@ window.allHeroes =
         "source": "Three Kingdoms Summon",
         "Release date": "2022-03-14",
         "specialId": "ladys_charm",
+        "passiveSkills": null,
         "heroId": "kingdom_diaochan",
         "star": 5,
         "power": 835,
@@ -47535,6 +49614,10 @@ window.allHeroes =
         "source": "Three Kingdoms Summon",
         "Release date": "2024-05-28",
         "specialId": "ladys_charm",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": [
+            "kingdom_unstoppable_minions"
+        ],
         "heroId": "kingdom_diaochan_costume_flowers",
         "star": 5,
         "power": 1105,
@@ -47602,6 +49685,7 @@ window.allHeroes =
         "source": "S1 - Classic",
         "Release date": "2017-03-01",
         "specialId": "shock_bolt",
+        "passiveSkills": null,
         "heroId": "magitech_sniper",
         "star": 5,
         "power": 757,
@@ -47664,6 +49748,8 @@ window.allHeroes =
         "source": "Costume Quest",
         "Release date": "2020-05-18",
         "specialId": "shock_bolt",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null,
         "heroId": "magitech_sniper_costume_steampunk",
         "star": 5,
         "power": 851,
@@ -47726,6 +49812,8 @@ window.allHeroes =
         "source": "Costume Quest",
         "Release date": "2022-10-31",
         "specialId": "shock_bolt",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null,
         "heroId": "magitech_sniper_costume_undead",
         "star": 5,
         "power": 967,
@@ -47793,6 +49881,10 @@ window.allHeroes =
         "source": "Costume Quest",
         "Release date": "2024-03-11",
         "specialId": "shock_bolt",
+        "passiveSkills": [
+            "toon_resist_debuffs_manareduction_dispels"
+        ],
+        "costumeBonusPassiveSkillIds": null,
         "heroId": "magitech_sniper_costume_cute",
         "star": 5,
         "power": 1134,
@@ -47865,6 +49957,10 @@ window.allHeroes =
         "source": "Costume Quest",
         "Release date": "2025-04-23",
         "specialId": "shock_bolt",
+        "passiveSkills": [
+            "glass_reflect_debuffs"
+        ],
+        "costumeBonusPassiveSkillIds": null,
         "heroId": "magitech_sniper_costume_glass",
         "star": 5,
         "power": 1241,
@@ -47932,6 +50028,9 @@ window.allHeroes =
         "source": "S4 - Wilderness",
         "Release date": "2021-03-25",
         "specialId": "blinding_wisdom",
+        "passiveSkills": [
+            "special_damage_reduction"
+        ],
         "heroId": "s4_doctor_moreau",
         "star": 5,
         "power": 807,
@@ -47992,6 +50091,12 @@ window.allHeroes =
         "source": "S4 - Wilderness",
         "Release date": "2023-04-27",
         "specialId": "blinding_wisdom",
+        "passiveSkills": [
+            "special_damage_reduction"
+        ],
+        "costumeBonusPassiveSkillIds": [
+            "extra_special_increased_damage_against_boosted_health"
+        ],
         "heroId": "s4_doctor_moreau_costume_scribe",
         "star": 5,
         "power": 1022,
@@ -48058,6 +50163,10 @@ window.allHeroes =
         "source": "Astral Summon",
         "Release date": "2024-03-07",
         "specialId": "astral_dominion",
+        "passiveSkills": [
+            "share_received_damage",
+            "resist_poison"
+        ],
         "heroId": "astral_dreadstar",
         "star": 5,
         "power": 1013,
@@ -48130,6 +50239,10 @@ window.allHeroes =
         "source": "Monster Island Summon",
         "Release date": "2024-05-23",
         "specialId": "thundering_strike",
+        "passiveSkills": [
+            "hunters_mark_on_special",
+            "special_damage_reduction_monster_hunters"
+        ],
         "heroId": "monster_hunter_dubhain",
         "star": 5,
         "power": 1122,
@@ -48200,6 +50313,10 @@ window.allHeroes =
         "source": "S7 - Treasures of Flame and Frost",
         "Release date": "2024-12-03",
         "specialId": "nights_whisper",
+        "passiveSkills": [
+            "molten_core",
+            "resist_burn_with_health_boost_and_mana"
+        ],
         "heroId": "tales2_dularfulr",
         "star": 5,
         "power": 1165,
@@ -48266,6 +50383,9 @@ window.allHeroes =
         "source": "Monthly Event - Love Season",
         "Release date": "2024-01-08",
         "specialId": "arrow_of_desire",
+        "passiveSkills": [
+            "resist_special_blocking"
+        ],
         "heroId": "valentines_eros",
         "star": 5,
         "power": 966,
@@ -48332,6 +50452,10 @@ window.allHeroes =
         "source": "Extra Draw - Secret Summon",
         "Release date": "2025-06-06",
         "specialId": "mimic_training_hero_purple_bite",
+        "passiveSkills": [
+            "mimic_training_hero_purple",
+            "never_miss_special"
+        ],
         "heroId": "mimic_training_hero_purple",
         "star": 5,
         "power": 1200,
@@ -48409,6 +50533,9 @@ window.allHeroes =
         "source": "Super Elementals",
         "Release date": "2023-11-06",
         "specialId": "piercing_falcon",
+        "passiveSkills": [
+            "strong_troop_damage_modifier"
+        ],
         "heroId": "elemental_farrah",
         "star": 5,
         "power": 971,
@@ -48476,6 +50603,7 @@ window.allHeroes =
         "source": "S3 - Valhalla",
         "Release date": "2020-02-27",
         "specialId": "ravens_vigil",
+        "passiveSkills": null,
         "heroId": "s3_freya",
         "star": 5,
         "power": 792,
@@ -48537,6 +50665,8 @@ window.allHeroes =
         "source": "S3 - Valhalla",
         "Release date": "2022-08-01",
         "specialId": "ravens_vigil",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null,
         "heroId": "s3_freya_costume_witch",
         "star": 5,
         "power": 991,
@@ -48597,6 +50727,9 @@ window.allHeroes =
         "source": "Super Elementals",
         "Release date": "2024-03-25",
         "specialId": "elemental_corruption",
+        "passiveSkills": [
+            "strong_troop_damage_modifier"
+        ],
         "heroId": "elemental_gastille",
         "star": 5,
         "power": 1024,
@@ -48663,6 +50796,11 @@ window.allHeroes =
         "source": "Astral Summon",
         "Release date": "2025-05-07",
         "specialId": "twilight_star_strike",
+        "passiveSkills": [
+            "never_miss_special",
+            "resist_negative_minion_and_mega_minion_effects",
+            "bypass_minions_and_mega_minions"
+        ],
         "heroId": "astral_dwarf_gongoth",
         "star": 5,
         "power": 1184,
@@ -48731,6 +50869,10 @@ window.allHeroes =
         "source": "Super Elementals",
         "Release date": "2024-11-27",
         "specialId": "slime_serving",
+        "passiveSkills": [
+            "summon_slime_minion_on_damage_purple",
+            "summon_slime_minion_on_death_purple"
+        ],
         "heroId": "slime_gooldron",
         "star": 5,
         "power": 1149,
@@ -48797,6 +50939,10 @@ window.allHeroes =
         "source": "Monster Island Summon",
         "Release date": "2022-12-24",
         "specialId": "titantooth_blade",
+        "passiveSkills": [
+            "hunters_mark_on_special",
+            "monster_hunter_reallocate_debuff_or_heal"
+        ],
         "heroId": "monster_hunter_goretooth",
         "star": 5,
         "power": 889,
@@ -48860,6 +51006,9 @@ window.allHeroes =
         "source": "Challenge - Gargoyle",
         "Release date": "2022-05-12",
         "specialId": "revengeful_smite",
+        "passiveSkills": [
+            "gargoyle_stone"
+        ],
         "heroId": "gargoyle_goseck",
         "star": 5,
         "power": 841,
@@ -48923,6 +51072,11 @@ window.allHeroes =
         "source": "Challenge - Beowulf",
         "Release date": "2025-07-13",
         "specialId": "harrow_the_heart",
+        "passiveSkills": [
+            "attack_buff_on_damage_received",
+            "resist_mana_reductions_with_health_boost_and_mana",
+            "mana_on_buff"
+        ],
         "heroId": "beowulf_grendels_mother",
         "star": 5,
         "power": 1220,
@@ -48992,6 +51146,9 @@ window.allHeroes =
         "source": "Super Elementals",
         "Release date": "2023-05-22",
         "specialId": "mana_manipulation",
+        "passiveSkills": [
+            "strong_troop_damage_modifier"
+        ],
         "heroId": "elemental_griffex",
         "star": 5,
         "power": 908,
@@ -49058,6 +51215,9 @@ window.allHeroes =
         "source": "Legends Summon - Hero of the Month",
         "Release date": "2019-12-01",
         "specialId": "gnomish_carnage",
+        "passiveSkills": [
+            "resist_accuracy_modifier_debuffs"
+        ],
         "heroId": "dark_god_grimble",
         "star": 5,
         "power": 770,
@@ -49127,6 +51287,7 @@ window.allHeroes =
         "source": "Challenge Festival I",
         "Release date": "2017-10-05",
         "specialId": "eye_of_panther",
+        "passiveSkills": null,
         "heroId": "guardian_cat_warrior",
         "star": 5,
         "power": 765,
@@ -49192,6 +51353,8 @@ window.allHeroes =
         "source": "Challenge Festival I",
         "Release date": "2022-06-16",
         "specialId": "eye_of_panther",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null,
         "heroId": "guardian_cat_warrior_costume_fierce",
         "star": 5,
         "power": 958,
@@ -49254,6 +51417,10 @@ window.allHeroes =
         "source": "Super Elementals",
         "Release date": "2024-06-18",
         "specialId": "blob_of_fury",
+        "passiveSkills": [
+            "summon_slime_minion_on_damage_purple",
+            "summon_slime_minion_on_death_purple"
+        ],
         "heroId": "slime_gunktus",
         "star": 5,
         "power": 1133,
@@ -49328,6 +51495,9 @@ window.allHeroes =
         "source": "S4 - Wilderness",
         "Release date": "2021-06-17",
         "specialId": "corrupting_idol",
+        "passiveSkills": [
+            "start_battle_with_mana"
+        ],
         "heroId": "s4_hannah",
         "star": 5,
         "power": 807,
@@ -49397,6 +51567,12 @@ window.allHeroes =
         "source": "S4 - Wilderness",
         "Release date": "2024-04-25",
         "specialId": "corrupting_idol",
+        "passiveSkills": [
+            "start_battle_with_mana"
+        ],
+        "costumeBonusPassiveSkillIds": [
+            "extra_special_increased_damage_against_boosted_health"
+        ],
         "heroId": "s4_hannah_costume_drover",
         "star": 5,
         "power": 1022,
@@ -49470,6 +51646,10 @@ window.allHeroes =
         "source": "Monster Island Summon",
         "Release date": "2022-09-18",
         "specialId": "medicinal_fumes",
+        "passiveSkills": [
+            "hunters_mark_on_special",
+            "special_damage_reduction_monster_hunters"
+        ],
         "heroId": "monster_hunter_hawthorn",
         "star": 5,
         "power": 888,
@@ -49537,6 +51717,7 @@ window.allHeroes =
         "source": "Legends Summon - Hero of the Month",
         "Release date": "2017-06-01",
         "specialId": "crush_of_hel",
+        "passiveSkills": null,
         "heroId": "dark_god_hel",
         "star": 5,
         "power": 765,
@@ -49606,6 +51787,10 @@ window.allHeroes =
         "source": "Legends Summon - Hero of the Month",
         "Release date": "2022-11-28",
         "specialId": "crush_of_hel",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": [
+            "extra_special_dispel_newest"
+        ],
         "heroId": "dark_god_hel_costume_omen",
         "star": 5,
         "power": 971,
@@ -49677,6 +51862,10 @@ window.allHeroes =
         "source": "S7 - Treasures of Flame and Frost",
         "Release date": "2025-02-23",
         "specialId": "dwarven_kings_levy",
+        "passiveSkills": [
+            "molten_core",
+            "resist_burn_with_health_boost_and_mana"
+        ],
         "heroId": "tales2_hreidmarr",
         "star": 5,
         "power": 1180,
@@ -49749,6 +51938,9 @@ window.allHeroes =
         "source": "S4 - Wilderness",
         "Release date": "2022-03-24",
         "specialId": "pet_larva",
+        "passiveSkills": [
+            "increase_buff_duration"
+        ],
         "heroId": "s4_hulda",
         "star": 5,
         "power": 816,
@@ -49813,6 +52005,12 @@ window.allHeroes =
         "source": "S4 - Wilderness",
         "Release date": "2024-03-28",
         "specialId": "pet_larva",
+        "passiveSkills": [
+            "increase_buff_duration"
+        ],
+        "costumeBonusPassiveSkillIds": [
+            "extra_special_health_boost"
+        ],
         "heroId": "s4_hulda_costume_nurse",
         "star": 5,
         "power": 1034,
@@ -49879,6 +52077,9 @@ window.allHeroes =
         "source": "Mystery - Shadow Summon",
         "Release date": "2024-06-04",
         "specialId": "merciless_execution",
+        "passiveSkills": [
+            "insanity_damage_reduction"
+        ],
         "heroId": "shadow_hunter",
         "star": 5,
         "power": 1134,
@@ -49954,6 +52155,10 @@ window.allHeroes =
         "source": "Monster Island Summon",
         "Release date": "2023-05-26",
         "specialId": "firestone_daggers",
+        "passiveSkills": [
+            "hunters_mark_on_special",
+            "attack_modifier_on_special"
+        ],
         "heroId": "monster_hunter_hurricane",
         "star": 5,
         "power": 895,
@@ -50032,6 +52237,10 @@ window.allHeroes =
         "source": "Wilderness Summon",
         "Release date": "2025-07-18",
         "specialId": "feline_constellation",
+        "passiveSkills": [
+            "resist_all_defense_effects",
+            "revive_chance_nine_lives"
+        ],
         "heroId": "wild_cat_imagus",
         "star": 5,
         "power": 1221,
@@ -50099,6 +52308,7 @@ window.allHeroes =
         "source": "Challenge Festival I",
         "Release date": "2019-02-14",
         "specialId": "sideswipe",
+        "passiveSkills": null,
         "heroId": "wonderland_jabberwocky",
         "star": 5,
         "power": 780,
@@ -50159,6 +52369,10 @@ window.allHeroes =
         "source": "Challenge Festival I",
         "Release date": "2021-12-15",
         "specialId": "sideswipe",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": [
+            "possession_on_special"
+        ],
         "heroId": "wonderland_jabberwocky_costume_moth",
         "star": 5,
         "power": 977,
@@ -50230,6 +52444,10 @@ window.allHeroes =
         "source": "Tower - Magic",
         "Release date": "2023-11-15",
         "specialId": "vapors_of_the_underworld",
+        "passiveSkills": [
+            "magic_mana_regen_stack_on_special",
+            "magic_heal_on_full_charge_to_not_green"
+        ],
         "heroId": "magic_jett",
         "star": 5,
         "power": 954,
@@ -50304,6 +52522,7 @@ window.allHeroes =
         "source": "S2 - Atlantis",
         "Release date": "2018-12-01",
         "specialId": "break_strike",
+        "passiveSkills": null,
         "heroId": "s2_cursed_samurai",
         "star": 5,
         "power": 772,
@@ -50372,6 +52591,8 @@ window.allHeroes =
         "source": "S2 - Atlantis",
         "Release date": "2021-11-15",
         "specialId": "break_strike",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null,
         "heroId": "s2_cursed_samurai_costume_beetle",
         "star": 5,
         "power": 942,
@@ -50440,6 +52661,7 @@ window.allHeroes =
         "source": "Challenge Festival II",
         "Release date": "2021-02-11",
         "specialId": "total_beatdown",
+        "passiveSkills": null,
         "heroId": "villain_karnov",
         "star": 5,
         "power": 803,
@@ -50502,6 +52724,10 @@ window.allHeroes =
         "source": "Challenge Festival II",
         "Release date": "2025-06-15",
         "specialId": "total_beatdown",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": [
+            "extra_special_curse"
+        ],
         "heroId": "villain_karnov_costume_jammies",
         "star": 5,
         "power": 1201,
@@ -50564,6 +52790,9 @@ window.allHeroes =
         "source": "Challenge - Gargoyle",
         "Release date": "2022-12-29",
         "specialId": "cry_for_absolution",
+        "passiveSkills": [
+            "gargoyle_stone"
+        ],
         "heroId": "gargoyle_kemeny",
         "star": 5,
         "power": 850,
@@ -50625,6 +52854,9 @@ window.allHeroes =
         "source": "S5 - Dune",
         "Release date": "2022-06-09",
         "specialId": "scarab_bombardment",
+        "passiveSkills": [
+            "moon_extra_special_damage_and_mana_regen_debuff"
+        ],
         "heroId": "s5_khepri",
         "star": 5,
         "power": 860,
@@ -50691,6 +52923,13 @@ window.allHeroes =
         "source": "S5 - Dune",
         "Release date": "2025-02-17",
         "specialId": "scarab_bombardment",
+        "passiveSkills": [
+            "moon_extra_special_damage_and_mana_regen_debuff"
+        ],
+        "costumeBonusPassiveSkillIds": [
+            "resist_sand",
+            "iterate_passive_effects_on_special"
+        ],
         "heroId": "s5_khepri_costume_overlord",
         "star": 5,
         "power": 1205,
@@ -50759,6 +52998,7 @@ window.allHeroes =
         "source": "Legends Summon - Hero of the Month",
         "Release date": "2018-09-01",
         "specialId": "bleeding_edge",
+        "passiveSkills": null,
         "heroId": "dark_god_september",
         "star": 5,
         "power": 768,
@@ -50820,6 +53060,10 @@ window.allHeroes =
         "source": "Legends Summon - Hero of the Month",
         "Release date": "2024-02-09",
         "specialId": "bleeding_edge",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": [
+            "extra_special_dispel_newest"
+        ],
         "heroId": "dark_god_september_costume_engineer",
         "star": 5,
         "power": 976,
@@ -50880,6 +53124,9 @@ window.allHeroes =
         "source": "S5 - Dune",
         "Release date": "2022-04-21",
         "specialId": "midnight_strike",
+        "passiveSkills": [
+            "moon_extra_special_damage_and_mana_regen_debuff"
+        ],
         "heroId": "s5_khonshu",
         "star": 5,
         "power": 858,
@@ -50941,6 +53188,13 @@ window.allHeroes =
         "source": "S5 - Dune",
         "Release date": "2024-09-07",
         "specialId": "midnight_strike",
+        "passiveSkills": [
+            "moon_extra_special_damage_and_mana_regen_debuff"
+        ],
+        "costumeBonusPassiveSkillIds": [
+            "resist_sand",
+            "iterate_passive_effects_on_special"
+        ],
         "heroId": "s5_khonshu_costume_knight",
         "star": 5,
         "power": 1199,
@@ -51004,6 +53258,7 @@ window.allHeroes =
         "source": "Monthly Event - Springvale",
         "Release date": "2020-04-06",
         "specialId": "reckless_swing",
+        "passiveSkills": null,
         "heroId": "easter_killhare",
         "star": 5,
         "power": 789,
@@ -51061,6 +53316,8 @@ window.allHeroes =
         "source": "Monthly Event - Springvale",
         "Release date": "2022-03-21",
         "specialId": "reckless_swing",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null,
         "heroId": "easter_killhare_costume_farmer",
         "star": 5,
         "power": 936,
@@ -51122,6 +53379,7 @@ window.allHeroes =
         "source": "Challenge Festival I",
         "Release date": "2024-04-18",
         "specialId": "stolen_tarts",
+        "passiveSkills": null,
         "heroId": "wonderland_knave_of_hearts",
         "star": 5,
         "power": 1037,
@@ -51192,6 +53450,10 @@ window.allHeroes =
         "source": "Super Elementals",
         "Release date": "2025-02-17",
         "specialId": "slime_coated_sword",
+        "passiveSkills": [
+            "summon_slime_minion_on_damage_purple",
+            "summon_slime_minion_on_death_purple"
+        ],
         "heroId": "slime_knightus",
         "star": 5,
         "power": 1180,
@@ -51261,6 +53523,9 @@ window.allHeroes =
         "source": "Legends Summon - Hero of the Month",
         "Release date": "2019-02-01",
         "specialId": "power_of_ajna",
+        "passiveSkills": [
+            "resist_defense_modifier_debuffs"
+        ],
         "heroId": "dark_god_kunchen",
         "star": 5,
         "power": 770,
@@ -51330,6 +53595,9 @@ window.allHeroes =
         "source": "S4 - Wilderness",
         "Release date": "2021-03-25",
         "specialId": "abyssal_incantation",
+        "passiveSkills": [
+            "special_damage_reduction"
+        ],
         "heroId": "s4_lepiota",
         "star": 5,
         "power": 806,
@@ -51401,6 +53669,12 @@ window.allHeroes =
         "source": "S4 - Wilderness",
         "Release date": "2023-04-27",
         "specialId": "abyssal_incantation",
+        "passiveSkills": [
+            "special_damage_reduction"
+        ],
+        "costumeBonusPassiveSkillIds": [
+            "extra_special_health_boost"
+        ],
         "heroId": "s4_lepiota_costume_undying",
         "star": 5,
         "power": 1018,
@@ -51468,6 +53742,9 @@ window.allHeroes =
         "source": "Monthly Event - Kalevala",
         "Release date": "2022-06-20",
         "specialId": "feather_tempest",
+        "passiveSkills": [
+            "heal_mana_on_low_health_once"
+        ],
         "heroId": "kalevala_louhi",
         "star": 5,
         "power": 937,
@@ -51536,6 +53813,10 @@ window.allHeroes =
         "source": "Monthly Event - Kalevala",
         "Release date": "2025-07-28",
         "specialId": "feather_tempest",
+        "passiveSkills": [
+            "heal_mana_on_low_health_once"
+        ],
+        "costumeBonusPassiveSkillIds": null,
         "heroId": "kalevala_louhi_costume_mistress",
         "star": 5,
         "power": 1220,
@@ -51605,6 +53886,7 @@ window.allHeroes =
         "source": "Three Kingdoms Summon",
         "Release date": "2022-03-14",
         "specialId": "disrupting_charge",
+        "passiveSkills": null,
         "heroId": "kingdom_lu_bu",
         "star": 5,
         "power": 835,
@@ -51673,6 +53955,10 @@ window.allHeroes =
         "source": "Three Kingdoms Summon",
         "Release date": "2024-12-28",
         "specialId": "disrupting_charge",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": [
+            "kingdom_unstoppable_minions"
+        ],
         "heroId": "kingdom_lu_bu_costume_tiger_lord",
         "star": 5,
         "power": 1106,
@@ -51747,6 +54033,9 @@ window.allHeroes =
         "source": "Monthly Event - Morlovia",
         "Release date": "2023-09-25",
         "specialId": "might_of_excalibroom",
+        "passiveSkills": [
+            "halloween_steal_buff_or_deal_damage"
+        ],
         "heroId": "halloween_lucinda",
         "star": 5,
         "power": 933,
@@ -51817,6 +54106,7 @@ window.allHeroes =
         "source": "Alliance - Knights Clash",
         "Release date": "2021-10-13",
         "specialId": "fullmetal_pelt",
+        "passiveSkills": null,
         "heroId": "castle_wolf_ludwig",
         "star": 5,
         "power": 816,
@@ -51873,6 +54163,10 @@ window.allHeroes =
         "source": "Challenge Festival II",
         "Release date": "2023-09-04",
         "specialId": "lunar_blessing",
+        "passiveSkills": [
+            "heal_and_add_mana_on_ally_minion",
+            "damage_enemies_on_enemy_parasite"
+        ],
         "heroId": "mighty_pet_luna",
         "star": 5,
         "power": 938,
@@ -51942,6 +54236,10 @@ window.allHeroes =
         "source": "Challenge - Secrets of the Opera",
         "Release date": "2023-11-30",
         "specialId": "summon_ballerina_fiend",
+        "passiveSkills": [
+            "heal_on_expired_or_cleared_debuff_slow",
+            "resist_attack_modifier_debuffs"
+        ],
         "heroId": "ballerina_madame_giry",
         "star": 5,
         "power": 957,
@@ -52014,6 +54312,10 @@ window.allHeroes =
         "source": "Goblin Summon",
         "Release date": "2025-02-14",
         "specialId": "join_in_joyful_song",
+        "passiveSkills": [
+            "remove_wither_from_allies",
+            "resist_direct_mana_reductions"
+        ],
         "heroId": "garrison_maisie",
         "star": 5,
         "power": 1163,
@@ -52086,6 +54388,10 @@ window.allHeroes =
         "source": "Legends Summon - Hero of the Month",
         "Release date": "2021-03-01",
         "specialId": "grimoire_skim",
+        "passiveSkills": [
+            "holy_defense_on_mana_reduction",
+            "resist_health_steal"
+        ],
         "heroId": "dark_god_malicna",
         "star": 5,
         "power": 788,
@@ -52168,6 +54474,7 @@ window.allHeroes =
         "source": "Challenge Festival I",
         "Release date": "2017-09-07",
         "specialId": "zombie_curse",
+        "passiveSkills": null,
         "heroId": "pirate_marie_therese",
         "star": 5,
         "power": 780,
@@ -52239,6 +54546,10 @@ window.allHeroes =
         "source": "Challenge Festival I",
         "Release date": "2022-02-17",
         "specialId": "zombie_curse",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": [
+            "extra_special_poison"
+        ],
         "heroId": "pirate_marie_therese_costume_priestess",
         "star": 5,
         "power": 977,
@@ -52309,6 +54620,11 @@ window.allHeroes =
         "source": "Wilderness Summon",
         "Release date": "2025-03-26",
         "specialId": "here_catch",
+        "passiveSkills": [
+            "resist_negative_attack_modifiers_including_wither",
+            "resist_insanity",
+            "minion_and_mega_minion_accuracy_modifier"
+        ],
         "heroId": "faun_maud",
         "star": 5,
         "power": 1171,
@@ -52375,6 +54691,9 @@ window.allHeroes =
         "source": "S6 - Mysteries of the Deep",
         "Release date": "2024-01-17",
         "specialId": "shatter_psyche",
+        "passiveSkills": [
+            "tales1_extra_special_damage_and_add_stacking_mana_generation"
+        ],
         "heroId": "tales1_medea",
         "star": 5,
         "power": 999,
@@ -52448,6 +54767,12 @@ window.allHeroes =
         "source": "S6 - Mysteries of the Deep",
         "Release date": "2024-10-19",
         "specialId": "shatter_psyche",
+        "passiveSkills": [
+            "tales1_extra_special_damage_and_add_stacking_mana_generation"
+        ],
+        "costumeBonusPassiveSkillIds": [
+            "resist_insanity"
+        ],
         "heroId": "tales1_medea_costume_goddess",
         "star": 5,
         "power": 1244,
@@ -52523,6 +54848,9 @@ window.allHeroes =
         "source": "Mystery - Shadow Summon",
         "Release date": "2024-05-01",
         "specialId": "grim_awakening",
+        "passiveSkills": [
+            "insanity_damage_reduction"
+        ],
         "heroId": "shadow_melancholia",
         "star": 5,
         "power": 1129,
@@ -52596,6 +54924,7 @@ window.allHeroes =
         "source": "S2 - Atlantis",
         "Release date": "2018-02-01",
         "specialId": "black_tide",
+        "passiveSkills": null,
         "heroId": "s2_hammerhead_hulk",
         "star": 5,
         "power": 772,
@@ -52665,6 +54994,8 @@ window.allHeroes =
         "source": "S2 - Atlantis",
         "Release date": "2023-02-06",
         "specialId": "black_tide",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null,
         "heroId": "s2_hammerhead_hulk_costume_emerald",
         "star": 5,
         "power": 944,
@@ -52739,6 +55070,10 @@ window.allHeroes =
         "source": "Legends Summon - Hero of the Month",
         "Release date": "2022-11-01",
         "specialId": "scythe_of_sorceries",
+        "passiveSkills": [
+            "mana_on_enemy_health_boost_special",
+            "resist_mana_generation_modifier_debuffs"
+        ],
         "heroId": "dark_god_morax",
         "star": 5,
         "power": 812,
@@ -52811,6 +55146,9 @@ window.allHeroes =
         "source": "Alliance - Moths",
         "Release date": "2025-01-23",
         "specialId": "hungering_grave",
+        "passiveSkills": [
+            "dodge_enemy_damage_special"
+        ],
         "heroId": "moth_mortewitch",
         "star": 5,
         "power": 1178,
@@ -52883,6 +55221,10 @@ window.allHeroes =
         "source": "Monthly Event - Beach Party",
         "Release date": "2023-06-12",
         "specialId": "tidal_waves",
+        "passiveSkills": [
+            "resist_water",
+            "underwater_on_special_beach"
+        ],
         "heroId": "beachparty_mortimer",
         "star": 5,
         "power": 873,
@@ -52948,6 +55290,9 @@ window.allHeroes =
         "source": "Legends Summon - Extra Draw",
         "Release date": "2020-05-01",
         "specialId": "absordium_deflectors",
+        "passiveSkills": [
+            "absorb_major_debuffs"
+        ],
         "heroId": "hidden_dark_god_myztero",
         "star": 5,
         "power": 799,
@@ -53010,6 +55355,9 @@ window.allHeroes =
         "source": "Challenge Festival II",
         "Release date": "2022-08-11",
         "specialId": "song_of_calamity",
+        "passiveSkills": [
+            "mana_generation_modifier_all_enemies_stronger"
+        ],
         "heroId": "bard_narcisa",
         "star": 5,
         "power": 849,
@@ -53078,6 +55426,10 @@ window.allHeroes =
         "source": "Tower - Styx",
         "Release date": "2022-06-01",
         "specialId": "night_falls",
+        "passiveSkills": [
+            "resist_all_defense_debuffs",
+            "reduce_minion_health"
+        ],
         "heroId": "styx_nyx",
         "star": 5,
         "power": 854,
@@ -53153,6 +55505,7 @@ window.allHeroes =
         "source": "S1 - Classic",
         "Release date": "2017-03-01",
         "specialId": "cleave_counter",
+        "passiveSkills": null,
         "heroId": "underworld_champion",
         "star": 5,
         "power": 756,
@@ -53211,6 +55564,8 @@ window.allHeroes =
         "source": "Costume Quest",
         "Release date": "2021-01-18",
         "specialId": "cleave_counter",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null,
         "heroId": "underworld_champion_costume_champion",
         "star": 5,
         "power": 851,
@@ -53271,6 +55626,8 @@ window.allHeroes =
         "source": "Costume Quest",
         "Release date": "2022-09-05",
         "specialId": "cleave_counter",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null,
         "heroId": "underworld_champion_costume_vampire",
         "star": 5,
         "power": 966,
@@ -53332,6 +55689,10 @@ window.allHeroes =
         "source": "Costume Quest",
         "Release date": "2023-11-27",
         "specialId": "cleave_counter",
+        "passiveSkills": [
+            "toon_resist_debuffs_manareduction_dispels"
+        ],
+        "costumeBonusPassiveSkillIds": null,
         "heroId": "underworld_champion_costume_cute",
         "star": 5,
         "power": 1132,
@@ -53400,6 +55761,10 @@ window.allHeroes =
         "source": "Costume Quest",
         "Release date": "2025-01-14",
         "specialId": "cleave_counter",
+        "passiveSkills": [
+            "glass_reflect_debuffs"
+        ],
+        "costumeBonusPassiveSkillIds": null,
         "heroId": "underworld_champion_costume_glass",
         "star": 5,
         "power": 1237,
@@ -53470,6 +55835,10 @@ window.allHeroes =
         "source": "Challenge - Secrets of the Opera",
         "Release date": "2024-03-21",
         "specialId": "dance_of_the_raven",
+        "passiveSkills": [
+            "heal_on_expired_or_cleared_debuff_fast",
+            "resist_defense_modifier_debuffs"
+        ],
         "heroId": "ballerina_odile",
         "star": 5,
         "power": 1023,
@@ -53545,6 +55914,9 @@ window.allHeroes =
         "source": "Tower - Owls",
         "Release date": "2023-12-20",
         "specialId": "poleaxe_of_the_law",
+        "passiveSkills": [
+            "mana_generation_modifier_all_enemies_stronger"
+        ],
         "heroId": "owl_ommodus",
         "star": 5,
         "power": 984,
@@ -53619,6 +55991,7 @@ window.allHeroes =
         "source": "Tower - Ninjas",
         "Release date": "2020-10-13",
         "specialId": "crippling_claws",
+        "passiveSkills": null,
         "heroId": "ninja_onyx",
         "star": 5,
         "power": 798,
@@ -53695,6 +56068,7 @@ window.allHeroes =
         "source": "Monthly Event - Winter",
         "Release date": "2022-12-01",
         "specialId": "putrid_perfume",
+        "passiveSkills": null,
         "heroId": "christmas_peppermint",
         "star": 5,
         "power": 851,
@@ -53768,6 +56142,10 @@ window.allHeroes =
         "source": "Challenge - Secrets of the Opera",
         "Release date": "2023-06-20",
         "specialId": "ballad_of_obsession",
+        "passiveSkills": [
+            "heal_on_expired_or_cleared_debuff",
+            "resist_attack_modifier_debuffs"
+        ],
         "heroId": "ballerina_phantom_of_the_opera",
         "star": 5,
         "power": 955,
@@ -53840,6 +56218,9 @@ window.allHeroes =
         "source": "S6 - Mysteries of the Deep",
         "Release date": "2023-06-07",
         "specialId": "rally_of_the_deep",
+        "passiveSkills": [
+            "tales1_extra_special_damage_and_add_critical"
+        ],
         "heroId": "tales1_phorcys",
         "star": 5,
         "power": 906,
@@ -53916,6 +56297,12 @@ window.allHeroes =
         "source": "S6 - Mysteries of the Deep",
         "Release date": "2024-05-23",
         "specialId": "rally_of_the_deep",
+        "passiveSkills": [
+            "tales1_extra_special_damage_and_add_critical"
+        ],
+        "costumeBonusPassiveSkillIds": [
+            "resist_insanity"
+        ],
         "heroId": "tales1_phorcys_costume_warrior_god",
         "star": 5,
         "power": 1124,
@@ -53990,6 +56377,9 @@ window.allHeroes =
         "source": "Monthly Event - Love Season",
         "Release date": "2023-02-14",
         "specialId": "potions_of_covetous_desire",
+        "passiveSkills": [
+            "resist_special_blocking"
+        ],
         "heroId": "valentines_phthonus",
         "star": 5,
         "power": 861,
@@ -54055,6 +56445,7 @@ window.allHeroes =
         "source": "Tower - Ninjas",
         "Release date": "2021-11-10",
         "specialId": "incite_ki",
+        "passiveSkills": null,
         "heroId": "ninja_quartz",
         "star": 5,
         "power": 818,
@@ -54127,6 +56518,7 @@ window.allHeroes =
         "source": "S1 - Classic",
         "Release date": "2017-03-01",
         "specialId": "thunderstrike",
+        "passiveSkills": null,
         "heroId": "cultist_inventor",
         "star": 5,
         "power": 757,
@@ -54179,6 +56571,8 @@ window.allHeroes =
         "source": "Costume Quest",
         "Release date": "2020-01-01",
         "specialId": "thunderstrike",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null,
         "heroId": "cultist_inventor_costume_steam",
         "star": 5,
         "power": 852,
@@ -54237,6 +56631,8 @@ window.allHeroes =
         "source": "Costume Quest",
         "Release date": "2022-12-26",
         "specialId": "thunderstrike",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null,
         "heroId": "cultist_inventor_costume_love_doctor",
         "star": 5,
         "power": 969,
@@ -54294,6 +56690,10 @@ window.allHeroes =
         "source": "Costume Quest",
         "Release date": "2024-08-11",
         "specialId": "thunderstrike",
+        "passiveSkills": [
+            "toon_resist_debuffs_manareduction_dispels"
+        ],
+        "costumeBonusPassiveSkillIds": null,
         "heroId": "cultist_inventor_costume_cute",
         "star": 5,
         "power": 1135,
@@ -54356,6 +56756,11 @@ window.allHeroes =
         "source": "Legends Summon",
         "Release date": "2024-04-05",
         "specialId": "three_little_rams",
+        "passiveSkills": [
+            "mana_on_ally_fiend_summon_ramona",
+            "health_boost_on_ally_fiend_summon_ramona",
+            "mana_gen_on_debuff"
+        ],
         "heroId": "champions_ramona",
         "star": 5,
         "power": 1026,
@@ -54421,6 +56826,7 @@ window.allHeroes =
         "source": "Alliance - Knights Clash",
         "Release date": "2022-01-05",
         "specialId": "plague_blade",
+        "passiveSkills": null,
         "heroId": "castle_raven_rayne",
         "star": 5,
         "power": 822,
@@ -54479,6 +56885,9 @@ window.allHeroes =
         "source": "Alliance - Musketeers",
         "Release date": "2023-09-20",
         "specialId": "dishonorable_ploy",
+        "passiveSkills": [
+            "damage_all_enemies_on_cover_or_special_damage_received"
+        ],
         "heroId": "musketeer_rochefort",
         "star": 5,
         "power": 928,
@@ -54539,6 +56948,7 @@ window.allHeroes =
         "source": "S3 - Valhalla",
         "Release date": "2021-07-04",
         "specialId": "tricksters_transformation",
+        "passiveSkills": null,
         "heroId": "s3_loki_fish",
         "star": 5,
         "power": 788,
@@ -54604,6 +57014,8 @@ window.allHeroes =
         "source": "S3 - Valhalla",
         "Release date": "2023-07-31",
         "specialId": "tricksters_transformation",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null,
         "heroId": "s3_loki_fish_costume_dapper",
         "star": 5,
         "power": 987,
@@ -54669,6 +57081,7 @@ window.allHeroes =
         "source": "Challenge Festival I",
         "Release date": "2017-09-07",
         "specialId": "curse_of_sargasso",
+        "passiveSkills": null,
         "heroId": "pirate_dread_captain",
         "star": 5,
         "power": 765,
@@ -54729,6 +57142,10 @@ window.allHeroes =
         "source": "Challenge Festival I",
         "Release date": "2023-12-28",
         "specialId": "curse_of_sargasso",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": [
+            "extra_special_poison"
+        ],
         "heroId": "pirate_dread_captain_costume_rotten",
         "star": 5,
         "power": 957,
@@ -54792,6 +57209,7 @@ window.allHeroes =
         "source": "S1 - Classic",
         "Release date": "2017-03-01",
         "specialId": "deathstrike",
+        "passiveSkills": null,
         "heroId": "cultist_sorceress",
         "star": 5,
         "power": 757,
@@ -54849,6 +57267,8 @@ window.allHeroes =
         "source": "Costume Quest",
         "Release date": "2020-05-18",
         "specialId": "deathstrike",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null,
         "heroId": "cultist_sorceress_costume_shaman",
         "star": 5,
         "power": 853,
@@ -54902,6 +57322,8 @@ window.allHeroes =
         "source": "Costume Quest",
         "Release date": "2023-06-12",
         "specialId": "deathstrike",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null,
         "heroId": "cultist_sorceress_costume_snake",
         "star": 5,
         "power": 971,
@@ -54967,6 +57389,10 @@ window.allHeroes =
         "source": "Costume Quest",
         "Release date": "2023-10-30",
         "specialId": "deathstrike",
+        "passiveSkills": [
+            "toon_resist_debuffs_manareduction_dispels"
+        ],
+        "costumeBonusPassiveSkillIds": null,
         "heroId": "cultist_sorceress_costume_cute",
         "star": 5,
         "power": 1137,
@@ -55035,6 +57461,10 @@ window.allHeroes =
         "source": "Costume Quest",
         "Release date": "2024-12-25",
         "specialId": "deathstrike",
+        "passiveSkills": [
+            "glass_reflect_debuffs"
+        ],
+        "costumeBonusPassiveSkillIds": null,
         "heroId": "cultist_sorceress_costume_glass",
         "star": 5,
         "power": 1242,
@@ -55106,6 +57536,9 @@ window.allHeroes =
         "source": "Tower - Ninjas",
         "Release date": "2025-01-02",
         "specialId": "shade_cloak",
+        "passiveSkills": [
+            "reduce_minion_health"
+        ],
         "heroId": "ninja_satsui",
         "star": 5,
         "power": 1141,
@@ -55187,6 +57620,10 @@ window.allHeroes =
         "source": "Covenant Summon",
         "Release date": "2024-03-10",
         "specialId": "void_bomb",
+        "passiveSkills": [
+            "repair_core",
+            "resist_special_blocking"
+        ],
         "heroId": "construct_nocturne",
         "star": 5,
         "power": 1016,
@@ -55260,6 +57697,9 @@ window.allHeroes =
         "source": "Challenge Festival II",
         "Release date": "2021-08-05",
         "specialId": "curse_of_the_specter",
+        "passiveSkills": [
+            "resist_status_effect_damage"
+        ],
         "heroId": "slayer_senan",
         "star": 5,
         "power": 807,
@@ -55335,6 +57775,12 @@ window.allHeroes =
         "source": "Challenge Festival II",
         "Release date": "2025-04-09",
         "specialId": "curse_of_the_specter",
+        "passiveSkills": [
+            "resist_status_effect_damage"
+        ],
+        "costumeBonusPassiveSkillIds": [
+            "extra_special_bleed"
+        ],
         "heroId": "slayer_senan_costume_tentacles",
         "star": 5,
         "power": 1207,
@@ -55407,6 +57853,10 @@ window.allHeroes =
         "source": "Monthly Event - Beach Party",
         "Release date": "2025-06-03",
         "specialId": "spreading_gossip",
+        "passiveSkills": [
+            "resist_water",
+            "underwater_on_special_beach"
+        ],
         "heroId": "beachparty_serena",
         "star": 5,
         "power": 1196,
@@ -55479,6 +57929,9 @@ window.allHeroes =
         "source": "Legends Summon - Hero of the Month",
         "Release date": "2019-07-01",
         "specialId": "undead_rage",
+        "passiveSkills": [
+            "resist_direct_mana_reductions"
+        ],
         "heroId": "dark_god_seshat",
         "star": 5,
         "power": 770,
@@ -55550,6 +58003,12 @@ window.allHeroes =
         "source": "Legends Summon - Hero of the Month",
         "Release date": "2021-10-20",
         "specialId": "undead_rage",
+        "passiveSkills": [
+            "resist_direct_mana_reductions"
+        ],
+        "costumeBonusPassiveSkillIds": [
+            "extra_special_cleanse_newest"
+        ],
         "heroId": "dark_god_seshat_costume_revenant",
         "star": 5,
         "power": 979,
@@ -55619,6 +58078,9 @@ window.allHeroes =
         "source": "S5 - Dune",
         "Release date": "2022-09-29",
         "specialId": "legions_of_darkness",
+        "passiveSkills": [
+            "moon_extra_special_damage_and_mana_regen_debuff"
+        ],
         "heroId": "s5_set",
         "star": 5,
         "power": 864,
@@ -55689,6 +58151,13 @@ window.allHeroes =
         "source": "S5 - Dune",
         "Release date": "2025-05-14",
         "specialId": "legions_of_darkness",
+        "passiveSkills": [
+            "moon_extra_special_damage_and_mana_regen_debuff"
+        ],
+        "costumeBonusPassiveSkillIds": [
+            "resist_sand",
+            "iterate_passive_effects_on_special"
+        ],
         "heroId": "s5_set_costume_tyrant",
         "star": 5,
         "power": 1210,
@@ -55763,6 +58232,10 @@ window.allHeroes =
         "source": "Covenant Summon",
         "Release date": "2023-12-24",
         "specialId": "ironbound_fury",
+        "passiveSkills": [
+            "destructive_core",
+            "resist_special_blocking"
+        ],
         "heroId": "construct_shacklebolt",
         "star": 5,
         "power": 986,
@@ -55834,6 +58307,9 @@ window.allHeroes =
         "source": "Covenant Summon",
         "Release date": "2024-12-23",
         "specialId": "bone_toss",
+        "passiveSkills": [
+            "reduced_healing_for_all_enemies"
+        ],
         "heroId": "fox_shadowfang",
         "star": 5,
         "power": 1153,
@@ -55902,6 +58378,10 @@ window.allHeroes =
         "source": "Legends Summon - Hero of the Month",
         "Release date": "2024-08-01",
         "specialId": "guardians_retaliation",
+        "passiveSkills": [
+            "mana_on_heal",
+            "resist_mana_generation_modifier_debuffs"
+        ],
         "heroId": "dark_god_sir_casmir",
         "star": 5,
         "power": 1008,
@@ -55973,6 +58453,9 @@ window.allHeroes =
         "source": "S5 - Dune",
         "Release date": "2023-05-11",
         "specialId": "disheartening_riddle",
+        "passiveSkills": [
+            "moon_extra_special_damage_and_dispel_latest_buff"
+        ],
         "heroId": "s5_sneferu",
         "star": 5,
         "power": 872,
@@ -56039,6 +58522,13 @@ window.allHeroes =
         "source": "S5 - Dune",
         "Release date": "2025-07-10",
         "specialId": "disheartening_riddle",
+        "passiveSkills": [
+            "moon_extra_special_damage_and_dispel_latest_buff"
+        ],
+        "costumeBonusPassiveSkillIds": [
+            "mana_on_debuff",
+            "iterate_passive_effects_on_special"
+        ],
         "heroId": "s5_sneferu_costume_vanquisher",
         "star": 5,
         "power": 1220,
@@ -56110,6 +58600,9 @@ window.allHeroes =
         "source": "Covenant Summon",
         "Release date": "2024-10-07",
         "specialId": "swift_little_friends",
+        "passiveSkills": [
+            "reduced_healing_for_all_enemies"
+        ],
         "heroId": "fox_swiftpaw",
         "star": 5,
         "power": 1142,
@@ -56186,6 +58679,11 @@ window.allHeroes =
         "source": "Wilderness Summon",
         "Release date": "2024-09-20",
         "specialId": "disquieting_tune",
+        "passiveSkills": [
+            "resist_negative_attack_modifiers_including_wither",
+            "mana_on_debuff",
+            "resist_insanity"
+        ],
         "heroId": "faun_tamlin",
         "star": 5,
         "power": 1139,
@@ -56254,6 +58752,10 @@ window.allHeroes =
         "source": "Covenant Summon",
         "Release date": "2023-10-12",
         "specialId": "rod_of_torment",
+        "passiveSkills": [
+            "corrosive_core",
+            "resist_special_blocking"
+        ],
         "heroId": "construct_tenebrae",
         "star": 5,
         "power": 965,
@@ -56321,6 +58823,7 @@ window.allHeroes =
         "source": "Legends Summon - Hero of the Month",
         "Release date": "2017-11-01",
         "specialId": "soul_cage",
+        "passiveSkills": null,
         "heroId": "witch_king",
         "star": 5,
         "power": 765,
@@ -56380,6 +58883,10 @@ window.allHeroes =
         "source": "Legends Summon - Hero of the Month",
         "Release date": "2024-01-11",
         "specialId": "soul_cage",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": [
+            "extra_special_dispel_newest"
+        ],
         "heroId": "witch_king_costume_cosmic",
         "star": 5,
         "power": 973,
@@ -56448,6 +58955,10 @@ window.allHeroes =
         "source": "S7 - Treasures of Flame and Frost",
         "Release date": "2025-05-16",
         "specialId": "glacial_atmosphere",
+        "passiveSkills": [
+            "arctic_core",
+            "resist_frost_with_health_boost_and_mana"
+        ],
         "heroId": "tales2_thrivaldi",
         "star": 5,
         "power": 1201,
@@ -56523,6 +59034,9 @@ window.allHeroes =
         "source": "Tower - Ninjas",
         "Release date": "2024-08-27",
         "specialId": "hunt_for_prey",
+        "passiveSkills": [
+            "reduce_minion_health"
+        ],
         "heroId": "ninja_tora",
         "star": 5,
         "power": 1095,
@@ -56595,6 +59109,10 @@ window.allHeroes =
         "source": "Legends Summon - Hero of the Month",
         "Release date": "2023-04-01",
         "specialId": "marked_aim",
+        "passiveSkills": [
+            "resist_accuracy_modifier_debuffs",
+            "increase_special_damage_buff"
+        ],
         "heroId": "dark_god_turgruk",
         "star": 5,
         "power": 822,
@@ -56660,6 +59178,9 @@ window.allHeroes =
         "source": "Challenge Festival I",
         "Release date": "2023-10-05",
         "specialId": "dum_and_dee",
+        "passiveSkills": [
+            "resist_status_effect_damage"
+        ],
         "heroId": "wonderland_tweedles",
         "star": 5,
         "power": 945,
@@ -56731,6 +59252,9 @@ window.allHeroes =
         "source": "S6 - Mysteries of the Deep",
         "Release date": "2023-08-02",
         "specialId": "sinister_enlace",
+        "passiveSkills": [
+            "tales1_extra_special_damage_and_add_stacking_mana_generation"
+        ],
         "heroId": "tales1_ultrox",
         "star": 5,
         "power": 951,
@@ -56809,6 +59333,12 @@ window.allHeroes =
         "source": "S6 - Mysteries of the Deep",
         "Release date": "2025-05-28",
         "specialId": "sinister_enlace",
+        "passiveSkills": [
+            "tales1_extra_special_damage_and_add_stacking_mana_generation"
+        ],
+        "costumeBonusPassiveSkillIds": [
+            "resist_insanity"
+        ],
         "heroId": "tales1_ultrox_costume_ethereal",
         "star": 5,
         "power": 1184,
@@ -56886,6 +59416,9 @@ window.allHeroes =
         "source": "Challenge - Carnival of Gods",
         "Release date": "2023-11-02",
         "specialId": "spreading_shadow",
+        "passiveSkills": [
+            "cleanse_on_own_familiar_death"
+        ],
         "heroId": "masquerade_umbria",
         "star": 5,
         "power": 951,
@@ -56951,6 +59484,9 @@ window.allHeroes =
         "source": "Tower - Ninjas",
         "Release date": "2024-10-22",
         "specialId": "noxious_blossom",
+        "passiveSkills": [
+            "reduce_minion_health"
+        ],
         "heroId": "ninja_umeko",
         "star": 5,
         "power": 1108,
@@ -57030,6 +59566,7 @@ window.allHeroes =
         "source": "S2 - Atlantis",
         "Release date": "2019-02-01",
         "specialId": "depth_blast",
+        "passiveSkills": null,
         "heroId": "s2_ursena",
         "star": 5,
         "power": 775,
@@ -57099,6 +59636,8 @@ window.allHeroes =
         "source": "S2 - Atlantis",
         "Release date": "2021-11-15",
         "specialId": "depth_blast",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null,
         "heroId": "s2_ursena_costume_reef",
         "star": 5,
         "power": 946,
@@ -57171,6 +59710,10 @@ window.allHeroes =
         "source": "Legends Summon - Hero of the Month",
         "Release date": "2023-10-01",
         "specialId": "venomous_claws",
+        "passiveSkills": [
+            "resist_stop_mana_generation",
+            "resist_poison"
+        ],
         "heroId": "dark_god_uthragan",
         "star": 5,
         "power": 883,
@@ -57242,6 +59785,9 @@ window.allHeroes =
         "source": "Challenge - Gargoyle",
         "Release date": "2024-05-16",
         "specialId": "chain_blasm_strike",
+        "passiveSkills": [
+            "gargoyle_soft_skin"
+        ],
         "heroId": "gargoyle_uwe",
         "star": 5,
         "power": 1049,
@@ -57312,6 +59858,9 @@ window.allHeroes =
         "source": "Super Elementals",
         "Release date": "2024-08-07",
         "specialId": "gloom_grenades",
+        "passiveSkills": [
+            "strong_troop_damage_modifier"
+        ],
         "heroId": "elemental_vander",
         "star": 5,
         "power": 1082,
@@ -57380,6 +59929,11 @@ window.allHeroes =
         "source": "Astral Summon",
         "Release date": "2025-01-30",
         "specialId": "power_of_the_void",
+        "passiveSkills": [
+            "never_miss_special",
+            "resist_negative_minion_and_mega_minion_effects",
+            "bypass_minions_and_mega_minions"
+        ],
         "heroId": "astral_dwarf_vard",
         "star": 5,
         "power": 1163,
@@ -57450,6 +60004,9 @@ window.allHeroes =
         "source": "Monthly Event - Morlovia",
         "Release date": "2018-10-25",
         "specialId": "kings_blood_poisoning",
+        "passiveSkills": [
+            "halloween_steal_buff_or_deal_damage"
+        ],
         "heroId": "vampire_king",
         "star": 5,
         "power": 773,
@@ -57523,6 +60080,10 @@ window.allHeroes =
         "source": "Monthly Event - Morlovia",
         "Release date": "2021-10-04",
         "specialId": "kings_blood_poisoning",
+        "passiveSkills": [
+            "halloween_steal_buff_or_deal_damage"
+        ],
+        "costumeBonusPassiveSkillIds": null,
         "heroId": "vampire_king_costume_mafia",
         "star": 5,
         "power": 1001,
@@ -57588,6 +60149,10 @@ window.allHeroes =
         "source": "Goblin Summon",
         "Release date": "2024-06-10",
         "specialId": "lucky_coin",
+        "passiveSkills": [
+            "remove_wither_from_allies",
+            "resist_direct_mana_reductions"
+        ],
         "heroId": "garrison_violet_potts",
         "star": 5,
         "power": 1093,
@@ -57664,6 +60229,10 @@ window.allHeroes =
         "source": "Legends Summon - Hero of the Month",
         "Release date": "2022-01-01",
         "specialId": "cursed_garden",
+        "passiveSkills": [
+            "summon_cursed_sapling_fiend_on_enemy_minion_summon",
+            "resist_negative_minion_effects"
+        ],
         "heroId": "dark_god_viscaro",
         "star": 5,
         "power": 803,
@@ -57733,6 +60302,7 @@ window.allHeroes =
         "source": "Monthly Event - Springvale",
         "Release date": "2025-03-31",
         "specialId": "insurmountable_flux",
+        "passiveSkills": null,
         "heroId": "easter_viscount_cluckwood",
         "star": 5,
         "power": 1172,
@@ -57797,6 +60367,10 @@ window.allHeroes =
         "source": "Astral Summon",
         "Release date": "2024-04-22",
         "specialId": "paragon_of_constellations",
+        "passiveSkills": [
+            "share_received_damage",
+            "resist_poison"
+        ],
         "heroId": "astral_voidstar",
         "star": 5,
         "power": 1041,
@@ -57868,6 +60442,10 @@ window.allHeroes =
         "source": "Challenge - Secrets of the Opera",
         "Release date": "2024-08-22",
         "specialId": "ballad_of_pain",
+        "passiveSkills": [
+            "heal_on_expired_or_cleared_debuff",
+            "resist_defense_modifier_debuffs"
+        ],
         "heroId": "ballerina_von_rothbart",
         "star": 5,
         "power": 1092,
@@ -57943,6 +60521,10 @@ window.allHeroes =
         "source": "Three Kingdoms Summon",
         "Release date": "2024-02-06",
         "specialId": "wrathful_sting",
+        "passiveSkills": [
+            "heal_on_buff_with_chance",
+            "mana_on_buff_with_chance"
+        ],
         "heroId": "journey_xie_zi_jing",
         "star": 5,
         "power": 999,
@@ -58019,6 +60601,7 @@ window.allHeroes =
         "source": "Three Kingdoms Summon",
         "Release date": "2023-04-24",
         "specialId": "fury_of_the_mountain_lord",
+        "passiveSkills": null,
         "heroId": "journey_xiong_shanjun",
         "star": 5,
         "power": 874,
@@ -58090,6 +60673,9 @@ window.allHeroes =
         "source": "S4 - Wilderness",
         "Release date": "2021-09-09",
         "specialId": "ancient_enchantment",
+        "passiveSkills": [
+            "decrease_debuff_duration"
+        ],
         "heroId": "s4_xnolphod",
         "star": 5,
         "power": 809,
@@ -58161,6 +60747,12 @@ window.allHeroes =
         "source": "S4 - Wilderness",
         "Release date": "2023-11-09",
         "specialId": "ancient_enchantment",
+        "passiveSkills": [
+            "decrease_debuff_duration"
+        ],
+        "costumeBonusPassiveSkillIds": [
+            "extra_special_health_boost"
+        ],
         "heroId": "s4_xnolphod_costume_jailer",
         "star": 5,
         "power": 1024,
@@ -58231,6 +60823,11 @@ window.allHeroes =
         "source": "Wilderness Summon",
         "Release date": "2024-11-05",
         "specialId": "lash_of_the_whip",
+        "passiveSkills": [
+            "resist_negative_attack_modifiers_including_wither",
+            "resist_insanity",
+            "minion_and_mega_minion_accuracy_modifier"
+        ],
         "heroId": "faun_ysabel",
         "star": 5,
         "power": 1146,
@@ -58302,6 +60899,10 @@ window.allHeroes =
         "source": "Legends Summon - Hero of the Month",
         "Release date": "2025-01-01",
         "specialId": "lance_thrust",
+        "passiveSkills": [
+            "increase_special_damage_buff_zed",
+            "resist_accuracy_modifier_debuffs"
+        ],
         "heroId": "dark_god_zed",
         "star": 5,
         "power": 1052,
@@ -58372,6 +60973,9 @@ window.allHeroes =
         "source": "Legends Summon - Hero of the Month",
         "Release date": "2020-10-01",
         "specialId": "vast_ward",
+        "passiveSkills": [
+            "resist_sand"
+        ],
         "heroId": "dark_god_zulag",
         "star": 5,
         "power": 778,
@@ -58433,6 +61037,7 @@ window.allHeroes =
         "source": "S1 - Classic",
         "Release date": "2017-03-01",
         "specialId": "field_aid",
+        "passiveSkills": null,
         "heroId": "nomad_female_archer",
         "star": 1,
         "power": 213,
@@ -58465,6 +61070,7 @@ window.allHeroes =
         "source": "S1 - Classic",
         "Release date": "2017-03-01",
         "specialId": "backstab",
+        "passiveSkills": null,
         "heroId": "nomad_scout",
         "star": 1,
         "power": 210,
@@ -58497,6 +61103,7 @@ window.allHeroes =
         "source": "S1 - Classic",
         "Release date": "2017-03-01",
         "specialId": "fierce_slash",
+        "passiveSkills": null,
         "heroId": "nomad_fighter",
         "star": 2,
         "power": 337,
@@ -58529,6 +61136,7 @@ window.allHeroes =
         "source": "S1 - Classic",
         "Release date": "2017-03-01",
         "specialId": "attack_rally",
+        "passiveSkills": null,
         "heroId": "nomad_female_thief",
         "star": 2,
         "power": 332,
@@ -58561,6 +61169,7 @@ window.allHeroes =
         "source": "S1 - Classic",
         "Release date": "2017-03-01",
         "specialId": "attack_rally",
+        "passiveSkills": null,
         "heroId": "nomad_shaman",
         "star": 2,
         "power": 334,
@@ -58593,6 +61202,7 @@ window.allHeroes =
         "source": "S1 - Classic",
         "Release date": "2017-03-01",
         "specialId": "tackle",
+        "passiveSkills": null,
         "heroId": "orc_skirmisher",
         "star": 2,
         "power": 336,
@@ -58627,6 +61237,7 @@ window.allHeroes =
         "source": "S1 - Classic",
         "Release date": "2017-03-01",
         "specialId": "sharp_cut",
+        "passiveSkills": null,
         "heroId": "nomad_female_swordmaster",
         "star": 3,
         "power": 444,
@@ -58685,6 +61296,8 @@ window.allHeroes =
         "source": "Costume Quest",
         "Release date": "2020-05-18",
         "specialId": "sharp_cut",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null,
         "heroId": "nomad_female_swordmaster_costume_native",
         "star": 3,
         "power": 473,
@@ -58744,6 +61357,10 @@ window.allHeroes =
         "source": "Costume Quest",
         "Release date": "2024-03-11",
         "specialId": "sharp_cut",
+        "passiveSkills": [
+            "toon_resist_debuffs_manareduction_dispels"
+        ],
+        "costumeBonusPassiveSkillIds": null,
         "heroId": "nomad_female_swordmaster_costume_cute",
         "star": 3,
         "power": 506,
@@ -58808,6 +61425,10 @@ window.allHeroes =
         "source": "Costume Quest",
         "Release date": "2025-04-23",
         "specialId": "sharp_cut",
+        "passiveSkills": [
+            "glass_reflect_debuffs"
+        ],
+        "costumeBonusPassiveSkillIds": null,
         "heroId": "nomad_female_swordmaster_costume_glass",
         "star": 3,
         "power": 514,
@@ -58870,6 +61491,9 @@ window.allHeroes =
         "source": "S6 - Mysteries of the Deep",
         "Release date": "2023-06-07",
         "specialId": "burning_javelin",
+        "passiveSkills": [
+            "tales1_extra_special_damage_and_add_stacking_mana_generation"
+        ],
         "heroId": "tales1_bagreg",
         "star": 3,
         "power": 486,
@@ -58937,6 +61561,12 @@ window.allHeroes =
         "source": "S6 - Mysteries of the Deep",
         "Release date": "2025-04-29",
         "specialId": "burning_javelin",
+        "passiveSkills": [
+            "tales1_extra_special_damage_and_add_stacking_mana_generation"
+        ],
+        "costumeBonusPassiveSkillIds": [
+            "resist_insanity"
+        ],
         "heroId": "tales1_bagreg_costume_scout",
         "star": 3,
         "power": 498,
@@ -59007,6 +61637,10 @@ window.allHeroes =
         "source": "Monster Island Summon",
         "Release date": "2022-12-24",
         "specialId": "squeak_of_protection",
+        "passiveSkills": [
+            "hunters_mark_on_special",
+            "monster_hunter_reallocate_debuff_or_heal"
+        ],
         "heroId": "monster_hunter_basil",
         "star": 3,
         "power": 486,
@@ -59068,6 +61702,7 @@ window.allHeroes =
         "source": "Challenge Festival I",
         "Release date": "2019-09-12",
         "specialId": "claw_power",
+        "passiveSkills": null,
         "heroId": "knights_bauchan",
         "star": 3,
         "power": 455,
@@ -59134,6 +61769,9 @@ window.allHeroes =
         "source": "Goblin Summon",
         "Release date": "2023-09-18",
         "specialId": "hammer_thump",
+        "passiveSkills": [
+            "goblin_damage_and_accuracy_debuff_on_special"
+        ],
         "heroId": "goblin_boots",
         "star": 3,
         "power": 486,
@@ -59206,6 +61844,7 @@ window.allHeroes =
         "source": "Monthly Event - Winter",
         "Release date": "2022-12-01",
         "specialId": "frosty_punches",
+        "passiveSkills": null,
         "heroId": "christmas_buster",
         "star": 3,
         "power": 484,
@@ -59270,6 +61909,10 @@ window.allHeroes =
         "source": "Tower - Styx",
         "Release date": "2022-09-21",
         "specialId": "dantes_inferno",
+        "passiveSkills": [
+            "resist_all_defense_debuffs",
+            "reduce_minion_health"
+        ],
         "heroId": "styx_dante",
         "star": 3,
         "power": 484,
@@ -59347,6 +61990,7 @@ window.allHeroes =
         "source": "S3 - Valhalla",
         "Release date": "2020-02-27",
         "specialId": "tainted_axe",
+        "passiveSkills": null,
         "heroId": "s3_ei_dunn",
         "star": 3,
         "power": 466,
@@ -59405,6 +62049,8 @@ window.allHeroes =
         "source": "S3 - Valhalla",
         "Release date": "2023-02-13",
         "specialId": "tainted_axe",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null,
         "heroId": "s3_ei_dunn_costume_shield",
         "star": 3,
         "power": 481,
@@ -59464,6 +62110,9 @@ window.allHeroes =
         "source": "Alliance - Knights Clash",
         "Release date": "2023-10-18",
         "specialId": "evading_dash",
+        "passiveSkills": [
+            "heal_on_buff_alliance_quest_family"
+        ],
         "heroId": "castle_stag_fawn",
         "star": 3,
         "power": 489,
@@ -59523,6 +62172,7 @@ window.allHeroes =
         "source": "S1 - Classic",
         "Release date": "2017-03-01",
         "specialId": "wind_prayer",
+        "passiveSkills": null,
         "heroId": "nomad_female_shaman",
         "star": 3,
         "power": 444,
@@ -59575,6 +62225,8 @@ window.allHeroes =
         "source": "Costume Quest",
         "Release date": "2020-01-01",
         "specialId": "wind_prayer",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null,
         "heroId": "nomad_female_shaman_costume_native",
         "star": 3,
         "power": 474,
@@ -59633,6 +62285,10 @@ window.allHeroes =
         "source": "Costume Quest",
         "Release date": "2024-05-06",
         "specialId": "wind_prayer",
+        "passiveSkills": [
+            "toon_resist_debuffs_manareduction_dispels"
+        ],
+        "costumeBonusPassiveSkillIds": null,
         "heroId": "nomad_female_shaman_costume_cute",
         "star": 3,
         "power": 507,
@@ -59693,6 +62349,10 @@ window.allHeroes =
         "source": "Costume Quest",
         "Release date": "2025-07-16",
         "specialId": "wind_prayer",
+        "passiveSkills": [
+            "glass_reflect_debuffs"
+        ],
+        "costumeBonusPassiveSkillIds": null,
         "heroId": "nomad_female_shaman_costume_glass",
         "star": 3,
         "power": 517,
@@ -59757,6 +62417,10 @@ window.allHeroes =
         "source": "S7 - Treasures of Flame and Frost",
         "Release date": "2024-12-03",
         "specialId": "dwarven_flourish",
+        "passiveSkills": [
+            "molten_core",
+            "resist_burn_with_health_boost_and_mana"
+        ],
         "heroId": "tales2_helgi",
         "star": 3,
         "power": 499,
@@ -59821,6 +62485,7 @@ window.allHeroes =
         "source": "S1 - Classic",
         "Release date": "2017-03-01",
         "specialId": "fireball",
+        "passiveSkills": null,
         "heroId": "nomad_mage",
         "star": 3,
         "power": 445,
@@ -59880,6 +62545,8 @@ window.allHeroes =
         "source": "Costume Quest",
         "Release date": "2021-01-18",
         "specialId": "fireball",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null,
         "heroId": "nomad_mage_costume_goggles",
         "star": 3,
         "power": 473,
@@ -59940,6 +62607,10 @@ window.allHeroes =
         "source": "Costume Quest",
         "Release date": "2023-12-25",
         "specialId": "fireball",
+        "passiveSkills": [
+            "toon_resist_debuffs_manareduction_dispels"
+        ],
+        "costumeBonusPassiveSkillIds": null,
         "heroId": "nomad_mage_costume_cute",
         "star": 3,
         "power": 506,
@@ -60008,6 +62679,10 @@ window.allHeroes =
         "source": "Costume Quest",
         "Release date": "2024-12-25",
         "specialId": "fireball",
+        "passiveSkills": [
+            "glass_reflect_debuffs"
+        ],
+        "costumeBonusPassiveSkillIds": null,
         "heroId": "nomad_mage_costume_glass",
         "star": 3,
         "power": 514,
@@ -60076,6 +62751,9 @@ window.allHeroes =
         "source": "Tower - Magic",
         "Release date": "2021-09-15",
         "specialId": "imaginary_increments",
+        "passiveSkills": [
+            "magic_damage_on_full_charge_to_not_red"
+        ],
         "heroId": "magic_kornel",
         "star": 3,
         "power": 479,
@@ -60140,6 +62818,7 @@ window.allHeroes =
         "source": "Three Kingdoms Summon",
         "Release date": "2022-03-14",
         "specialId": "sickle_of_wu",
+        "passiveSkills": null,
         "heroId": "kingdom_li",
         "star": 3,
         "power": 483,
@@ -60207,6 +62886,11 @@ window.allHeroes =
         "source": "Three Kingdoms Summon",
         "Release date": "2025-05-22",
         "specialId": "rough_and_tumble",
+        "passiveSkills": [
+            "resist_bleed",
+            "righteous_rebellion_parent",
+            "cleanse_on_special_critical_damage_all_safe"
+        ],
         "heroId": "outlaw_liu_tang",
         "star": 3,
         "power": 507,
@@ -60274,6 +62958,7 @@ window.allHeroes =
         "source": "S2 - Atlantis",
         "Release date": "2019-08-01",
         "specialId": "bloodthirst",
+        "passiveSkills": null,
         "heroId": "s2_straw_demon",
         "star": 3,
         "power": 449,
@@ -60332,6 +63017,7 @@ window.allHeroes =
         "source": "S1 - Classic",
         "Release date": "2017-03-01",
         "specialId": "burning_strike",
+        "passiveSkills": null,
         "heroId": "orc_warrior",
         "star": 3,
         "power": 443,
@@ -60391,6 +63077,8 @@ window.allHeroes =
         "source": "Costume Quest",
         "Release date": "2021-01-18",
         "specialId": "burning_strike",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null,
         "heroId": "orc_warrior_costume_urukhai",
         "star": 3,
         "power": 472,
@@ -60451,6 +63139,10 @@ window.allHeroes =
         "source": "Costume Quest",
         "Release date": "2024-05-31",
         "specialId": "burning_strike",
+        "passiveSkills": [
+            "toon_resist_debuffs_manareduction_dispels"
+        ],
+        "costumeBonusPassiveSkillIds": null,
         "heroId": "orc_warrior_costume_cute",
         "star": 3,
         "power": 505,
@@ -60518,6 +63210,7 @@ window.allHeroes =
         "source": "Challenge Festival I",
         "Release date": "2021-12-15",
         "specialId": "valuable_contribution",
+        "passiveSkills": null,
         "heroId": "wonderland_phoenicus",
         "star": 3,
         "power": 481,
@@ -60575,6 +63268,9 @@ window.allHeroes =
         "source": "Alliance - Moths",
         "Release date": "2025-01-23",
         "specialId": "joyful_palette",
+        "passiveSkills": [
+            "dodge_enemy_damage_special"
+        ],
         "heroId": "moth_rosepetite",
         "star": 3,
         "power": 503,
@@ -60643,6 +63339,7 @@ window.allHeroes =
         "source": "Monthly Event - Winter",
         "Release date": "2018-12-02",
         "specialId": "horn_attack",
+        "passiveSkills": null,
         "heroId": "christmas_reindeer",
         "star": 3,
         "power": 448,
@@ -60705,6 +63402,10 @@ window.allHeroes =
         "source": "Challenge Festival II",
         "Release date": "2022-11-03",
         "specialId": "furry_loggers_swing",
+        "passiveSkills": [
+            "heal_and_add_mana_on_ally_minion",
+            "damage_enemies_on_enemy_parasite"
+        ],
         "heroId": "mighty_pet_rufus",
         "star": 3,
         "power": 484,
@@ -60769,6 +63470,7 @@ window.allHeroes =
         "source": "Challenge Festival II",
         "Release date": "2021-02-11",
         "specialId": "mad_rat_mania",
+        "passiveSkills": null,
         "heroId": "villain_skrekok",
         "star": 3,
         "power": 476,
@@ -60826,6 +63528,7 @@ window.allHeroes =
         "source": "Monthly Event - Springvale",
         "Release date": "2018-03-28",
         "specialId": "compact_lance",
+        "passiveSkills": null,
         "heroId": "easter_chick_jr",
         "star": 3,
         "power": 445,
@@ -60885,6 +63588,10 @@ window.allHeroes =
         "source": "Astral Summon",
         "Release date": "2024-03-07",
         "specialId": "starplay",
+        "passiveSkills": [
+            "share_received_damage",
+            "resist_poison"
+        ],
         "heroId": "astral_starswift",
         "star": 3,
         "power": 489,
@@ -60951,6 +63658,7 @@ window.allHeroes =
         "source": "S3 - Valhalla",
         "Release date": "2020-05-28",
         "specialId": "burning_shields",
+        "passiveSkills": null,
         "heroId": "s3_sudri",
         "star": 3,
         "power": 462,
@@ -61008,6 +63716,9 @@ window.allHeroes =
         "source": "S4 - Wilderness",
         "Release date": "2021-03-25",
         "specialId": "thresher_worms",
+        "passiveSkills": [
+            "start_battle_with_mana"
+        ],
         "heroId": "s4_vollermork",
         "star": 3,
         "power": 478,
@@ -61062,6 +63773,10 @@ window.allHeroes =
         "source": "S4 - Wilderness",
         "Release date": "2024-04-25",
         "specialId": "thresher_worms",
+        "passiveSkills": [
+            "start_battle_with_mana"
+        ],
+        "costumeBonusPassiveSkillIds": null,
         "heroId": "s4_vollermork_costume_bartender",
         "star": 3,
         "power": 488,
@@ -61117,6 +63832,9 @@ window.allHeroes =
         "source": "S5 - Dune",
         "Release date": "2022-04-21",
         "specialId": "unyielding_protector",
+        "passiveSkills": [
+            "sun_extra_special_damage_and_attack_debuff"
+        ],
         "heroId": "s5_waqas",
         "star": 3,
         "power": 483,
@@ -61179,6 +63897,13 @@ window.allHeroes =
         "source": "S5 - Dune",
         "Release date": "2025-04-14",
         "specialId": "unyielding_protector",
+        "passiveSkills": [
+            "sun_extra_special_damage_and_attack_debuff"
+        ],
+        "costumeBonusPassiveSkillIds": [
+            "mana_on_enemy_health_boost_special",
+            "iterate_passive_effects_on_special"
+        ],
         "heroId": "s5_waqas_costume_blade",
         "star": 3,
         "power": 494,
@@ -61249,6 +63974,9 @@ window.allHeroes =
         "source": "Challenge Festival II",
         "Release date": "2021-08-05",
         "specialId": "wily_wisps",
+        "passiveSkills": [
+            "resist_status_effect_damage"
+        ],
         "heroId": "slayer_aodhan",
         "star": 4,
         "power": 677,
@@ -61318,6 +64046,7 @@ window.allHeroes =
         "source": "S1 - Classic",
         "Release date": "2017-03-01",
         "specialId": "warcry",
+        "passiveSkills": null,
         "heroId": "orc_gladiator",
         "star": 4,
         "power": 644,
@@ -61376,6 +64105,8 @@ window.allHeroes =
         "source": "Costume Quest",
         "Release date": "2020-01-01",
         "specialId": "warcry",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null,
         "heroId": "orc_gladiator_costume_chef",
         "star": 4,
         "power": 690,
@@ -61435,6 +64166,8 @@ window.allHeroes =
         "source": "Costume Quest",
         "Release date": "2023-06-12",
         "specialId": "warcry",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null,
         "heroId": "orc_gladiator_costume_sage",
         "star": 4,
         "power": 736,
@@ -61494,6 +64227,10 @@ window.allHeroes =
         "source": "Costume Quest",
         "Release date": "2023-12-25",
         "specialId": "warcry",
+        "passiveSkills": [
+            "toon_resist_debuffs_manareduction_dispels"
+        ],
+        "costumeBonusPassiveSkillIds": null,
         "heroId": "orc_gladiator_costume_cute",
         "star": 4,
         "power": 748,
@@ -61557,6 +64294,10 @@ window.allHeroes =
         "source": "Costume Quest",
         "Release date": "2024-12-25",
         "specialId": "warcry",
+        "passiveSkills": [
+            "glass_reflect_debuffs"
+        ],
+        "costumeBonusPassiveSkillIds": null,
         "heroId": "orc_gladiator_costume_glass",
         "star": 4,
         "power": 761,
@@ -61621,6 +64362,7 @@ window.allHeroes =
         "source": "Monthly Event - Winter",
         "Release date": "2020-12-01",
         "specialId": "perilous_gift",
+        "passiveSkills": null,
         "heroId": "christmas_carol",
         "star": 4,
         "power": 674,
@@ -61682,6 +64424,9 @@ window.allHeroes =
         "source": "Challenge Festival II",
         "Release date": "2021-08-05",
         "specialId": "reanimated_spite",
+        "passiveSkills": [
+            "resist_status_effect_damage"
+        ],
         "heroId": "slayer_cillian",
         "star": 4,
         "power": 677,
@@ -61746,6 +64491,7 @@ window.allHeroes =
         "source": "S1 - Classic",
         "Release date": "2017-03-01",
         "specialId": "fire_storm",
+        "passiveSkills": null,
         "heroId": "nomad_axe_adventurer",
         "star": 4,
         "power": 643,
@@ -61805,6 +64551,8 @@ window.allHeroes =
         "source": "Costume Quest",
         "Release date": "2021-01-18",
         "specialId": "fire_storm",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null,
         "heroId": "nomad_axe_adventurer_costume_magma",
         "star": 4,
         "power": 688,
@@ -61865,6 +64613,8 @@ window.allHeroes =
         "source": "Costume Quest",
         "Release date": "2023-06-12",
         "specialId": "fire_storm",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null,
         "heroId": "nomad_axe_adventurer_costume_tracker",
         "star": 4,
         "power": 733,
@@ -61930,6 +64680,10 @@ window.allHeroes =
         "source": "Costume Quest",
         "Release date": "2024-03-11",
         "specialId": "fire_storm",
+        "passiveSkills": [
+            "toon_resist_debuffs_manareduction_dispels"
+        ],
+        "costumeBonusPassiveSkillIds": null,
         "heroId": "nomad_axe_adventurer_costume_cute",
         "star": 4,
         "power": 746,
@@ -61999,6 +64753,10 @@ window.allHeroes =
         "source": "Costume Quest",
         "Release date": "2025-04-08",
         "specialId": "fire_storm",
+        "passiveSkills": [
+            "glass_reflect_debuffs"
+        ],
+        "costumeBonusPassiveSkillIds": null,
         "heroId": "nomad_axe_adventurer_costume_glass",
         "star": 4,
         "power": 758,
@@ -62066,6 +64824,7 @@ window.allHeroes =
         "source": "Challenge Festival II",
         "Release date": "2021-06-10",
         "specialId": "pompous_flex",
+        "passiveSkills": null,
         "heroId": "circus_eichbelborg",
         "star": 4,
         "power": 676,
@@ -62123,6 +64882,7 @@ window.allHeroes =
         "source": "Alliance - Knights Clash",
         "Release date": "2021-10-13",
         "specialId": "feral_revenge",
+        "passiveSkills": null,
         "heroId": "castle_wolf_ferant",
         "star": 4,
         "power": 680,
@@ -62180,6 +64940,10 @@ window.allHeroes =
         "source": "Alliance - Knights Clash",
         "Release date": "2024-12-17",
         "specialId": "feral_revenge",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": [
+            "increase_cast_status_effect_duration"
+        ],
         "heroId": "castle_wolf_ferant_costume_fire",
         "star": 4,
         "power": 719,
@@ -62240,6 +65004,7 @@ window.allHeroes =
         "source": "S1 - Classic",
         "Release date": "2017-03-01",
         "specialId": "ramming_pulverizer",
+        "passiveSkills": null,
         "heroId": "orc_troopmaster",
         "star": 4,
         "power": 642,
@@ -62299,6 +65064,8 @@ window.allHeroes =
         "source": "Costume Quest",
         "Release date": "2021-01-18",
         "specialId": "ramming_pulverizer",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null,
         "heroId": "orc_troopmaster_costume_merchant",
         "star": 4,
         "power": 689,
@@ -62359,6 +65126,8 @@ window.allHeroes =
         "source": "Costume Quest",
         "Release date": "2023-04-17",
         "specialId": "ramming_pulverizer",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null,
         "heroId": "orc_troopmaster_costume_gourmet",
         "star": 4,
         "power": 735,
@@ -62418,6 +65187,10 @@ window.allHeroes =
         "source": "Costume Quest",
         "Release date": "2024-05-06",
         "specialId": "ramming_pulverizer",
+        "passiveSkills": [
+            "toon_resist_debuffs_manareduction_dispels"
+        ],
+        "costumeBonusPassiveSkillIds": null,
         "heroId": "orc_troopmaster_costume_cute",
         "star": 4,
         "power": 747,
@@ -62487,6 +65260,10 @@ window.allHeroes =
         "source": "Costume Quest",
         "Release date": "2025-05-10",
         "specialId": "ramming_pulverizer",
+        "passiveSkills": [
+            "glass_reflect_debuffs"
+        ],
+        "costumeBonusPassiveSkillIds": null,
         "heroId": "orc_troopmaster_costume_glass",
         "star": 4,
         "power": 760,
@@ -62553,6 +65330,7 @@ window.allHeroes =
         "source": "Challenge Festival I",
         "Release date": "2017-10-05",
         "specialId": "blazing_beak",
+        "passiveSkills": null,
         "heroId": "guardian_falcon_priest",
         "star": 4,
         "power": 646,
@@ -62612,6 +65390,10 @@ window.allHeroes =
         "source": "Monthly Event - Beach Party",
         "Release date": "2023-06-12",
         "specialId": "cannonball_splash",
+        "passiveSkills": [
+            "resist_water",
+            "underwater_on_special_beach"
+        ],
         "heroId": "beachparty_itham",
         "star": 4,
         "power": 686,
@@ -62679,6 +65461,9 @@ window.allHeroes =
         "source": "S5 - Dune",
         "Release date": "2022-04-21",
         "specialId": "slash_and_support",
+        "passiveSkills": [
+            "moon_extra_special_damage_and_mana_regen_debuff"
+        ],
         "heroId": "s5_junaid",
         "star": 4,
         "power": 683,
@@ -62737,6 +65522,13 @@ window.allHeroes =
         "source": "S5 - Dune",
         "Release date": "2024-11-01",
         "specialId": "slash_and_support",
+        "passiveSkills": [
+            "moon_extra_special_damage_and_mana_regen_debuff"
+        ],
+        "costumeBonusPassiveSkillIds": [
+            "resist_sand",
+            "iterate_passive_effects_on_special"
+        ],
         "heroId": "s5_junaid_costume_champion",
         "star": 4,
         "power": 700,
@@ -62797,6 +65589,7 @@ window.allHeroes =
         "source": "S1 - Classic",
         "Release date": "2017-03-01",
         "specialId": "dance_of_fire",
+        "passiveSkills": null,
         "heroId": "nomad_female_berserker",
         "star": 4,
         "power": 644,
@@ -62854,6 +65647,8 @@ window.allHeroes =
         "source": "Costume Quest",
         "Release date": "2021-01-18",
         "specialId": "dance_of_fire",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null,
         "heroId": "nomad_female_berserker_costume_shaman",
         "star": 4,
         "power": 688,
@@ -62913,6 +65708,8 @@ window.allHeroes =
         "source": "Costume Quest",
         "Release date": "2022-09-05",
         "specialId": "dance_of_fire",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null,
         "heroId": "nomad_female_berserker_costume_sorceress",
         "star": 4,
         "power": 734,
@@ -62978,6 +65775,10 @@ window.allHeroes =
         "source": "Costume Quest",
         "Release date": "2024-04-08",
         "specialId": "dance_of_fire",
+        "passiveSkills": [
+            "toon_resist_debuffs_manareduction_dispels"
+        ],
+        "costumeBonusPassiveSkillIds": null,
         "heroId": "nomad_female_berserker_costume_cute",
         "star": 4,
         "power": 746,
@@ -63047,6 +65848,10 @@ window.allHeroes =
         "source": "Costume Quest",
         "Release date": "2025-04-23",
         "specialId": "dance_of_fire",
+        "passiveSkills": [
+            "glass_reflect_debuffs"
+        ],
+        "costumeBonusPassiveSkillIds": null,
         "heroId": "nomad_female_berserker_costume_glass",
         "star": 4,
         "power": 758,
@@ -63114,6 +65919,9 @@ window.allHeroes =
         "source": "Monthly Event - Kalevala",
         "Release date": "2022-06-20",
         "specialId": "flaming_sword",
+        "passiveSkills": [
+            "heal_mana_on_low_health_once"
+        ],
         "heroId": "kalevala_lemminkainen",
         "star": 4,
         "power": 682,
@@ -63175,6 +65983,10 @@ window.allHeroes =
         "source": "Monthly Event - Kalevala",
         "Release date": "2025-07-28",
         "specialId": "flaming_sword",
+        "passiveSkills": [
+            "heal_mana_on_low_health_once"
+        ],
+        "costumeBonusPassiveSkillIds": null,
         "heroId": "kalevala_lemminkainen_costume_swan",
         "star": 4,
         "power": 707,
@@ -63240,6 +66052,10 @@ window.allHeroes =
         "source": "Tower - Magic",
         "Release date": "2023-05-03",
         "specialId": "mageball_blast",
+        "passiveSkills": [
+            "magic_mana_regen_stack_on_special",
+            "magic_heal_on_full_charge_to_not_green"
+        ],
         "heroId": "magic_lucy",
         "star": 4,
         "power": 686,
@@ -63313,6 +66129,9 @@ window.allHeroes =
         "source": "S4 - Wilderness",
         "Release date": "2021-03-25",
         "specialId": "halflings_wit",
+        "passiveSkills": [
+            "increase_buff_duration"
+        ],
         "heroId": "s4_mack",
         "star": 4,
         "power": 677,
@@ -63369,6 +66188,10 @@ window.allHeroes =
         "source": "S4 - Wilderness",
         "Release date": "2024-05-23",
         "specialId": "halflings_wit",
+        "passiveSkills": [
+            "increase_buff_duration"
+        ],
+        "costumeBonusPassiveSkillIds": null,
         "heroId": "s4_mack_costume_novelist",
         "star": 4,
         "power": 692,
@@ -63426,6 +66249,10 @@ window.allHeroes =
         "source": "Monster Island Summon",
         "Release date": "2022-08-25",
         "specialId": "claws_of_the_hunter",
+        "passiveSkills": [
+            "hunters_mark_on_special",
+            "special_damage_reduction_monster_hunters"
+        ],
         "heroId": "monster_hunter_maheegan",
         "star": 4,
         "power": 684,
@@ -63491,6 +66318,10 @@ window.allHeroes =
         "source": "Tower - Magic",
         "Release date": "2025-04-17",
         "specialId": "kindled_carpet",
+        "passiveSkills": [
+            "reduce_big_minion_health",
+            "fly_magic_carpet"
+        ],
         "heroId": "magic_carpet_manpip",
         "star": 4,
         "power": 737,
@@ -63564,6 +66395,9 @@ window.allHeroes =
         "source": "Super Elementals",
         "Release date": "2023-10-09",
         "specialId": "healing_fire_spirits",
+        "passiveSkills": [
+            "strong_troop_damage_modifier"
+        ],
         "heroId": "elemental_nova",
         "star": 4,
         "power": 691,
@@ -63639,6 +66473,10 @@ window.allHeroes =
         "source": "Challenge - Secrets of the Opera",
         "Release date": "2023-11-30",
         "specialId": "ballad_of_attraction",
+        "passiveSkills": [
+            "heal_on_expired_or_cleared_debuff",
+            "resist_attack_modifier_debuffs"
+        ],
         "heroId": "ballerina_raul",
         "star": 4,
         "power": 691,
@@ -63708,6 +66546,9 @@ window.allHeroes =
         "source": "S4 - Wilderness",
         "Release date": "2021-03-25",
         "specialId": "blind_rage",
+        "passiveSkills": [
+            "decrease_debuff_duration"
+        ],
         "heroId": "s4_rokkamush",
         "star": 4,
         "power": 677,
@@ -63770,6 +66611,10 @@ window.allHeroes =
         "source": "S4 - Wilderness",
         "Release date": "2024-04-25",
         "specialId": "blind_rage",
+        "passiveSkills": [
+            "decrease_debuff_duration"
+        ],
+        "costumeBonusPassiveSkillIds": null,
         "heroId": "s4_rokkamush_costume_mason",
         "star": 4,
         "power": 692,
@@ -63831,6 +66676,7 @@ window.allHeroes =
         "source": "S1 - Classic",
         "Release date": "2017-03-01",
         "specialId": "blade_barrage",
+        "passiveSkills": null,
         "heroId": "nomad_female_assassin",
         "star": 4,
         "power": 640,
@@ -63891,6 +66737,8 @@ window.allHeroes =
         "source": "Costume Quest",
         "Release date": "2021-01-18",
         "specialId": "blade_barrage",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null,
         "heroId": "nomad_female_assassin_costume_poison",
         "star": 4,
         "power": 685,
@@ -63957,6 +66805,8 @@ window.allHeroes =
         "source": "Costume Quest",
         "Release date": "2023-10-30",
         "specialId": "blade_barrage",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null,
         "heroId": "nomad_female_assassin_costume_dancer",
         "star": 4,
         "power": 731,
@@ -64016,6 +66866,10 @@ window.allHeroes =
         "source": "Costume Quest",
         "Release date": "2024-08-11",
         "specialId": "blade_barrage",
+        "passiveSkills": [
+            "toon_resist_debuffs_manareduction_dispels"
+        ],
+        "costumeBonusPassiveSkillIds": null,
         "heroId": "nomad_female_assassin_costume_cute",
         "star": 4,
         "power": 743,
@@ -64082,6 +66936,7 @@ window.allHeroes =
         "source": "S3 - Valhalla",
         "Release date": "2020-05-28",
         "specialId": "eternal_servitude",
+        "passiveSkills": null,
         "heroId": "s3_shadereave",
         "star": 4,
         "power": 661,
@@ -64147,6 +67002,7 @@ window.allHeroes =
         "source": "Tower - Ninjas",
         "Release date": "2020-10-13",
         "specialId": "channel_ki",
+        "passiveSkills": null,
         "heroId": "ninja_shale",
         "star": 4,
         "power": 670,
@@ -64214,6 +67070,7 @@ window.allHeroes =
         "source": "Challenge Festival I",
         "Release date": "2018-01-05",
         "specialId": "inspiring_fencing",
+        "passiveSkills": null,
         "heroId": "knights_sir_lancelot",
         "star": 4,
         "power": 645,
@@ -64276,6 +67133,7 @@ window.allHeroes =
         "source": "S2 - Atlantis",
         "Release date": "2019-08-01",
         "specialId": "oji_waza",
+        "passiveSkills": null,
         "heroId": "s2_demon_master",
         "star": 4,
         "power": 650,
@@ -64338,6 +67196,8 @@ window.allHeroes =
         "source": "S2 - Atlantis",
         "Release date": "2023-04-03",
         "specialId": "oji_waza",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null,
         "heroId": "s2_demon_master_costume_steppe",
         "star": 4,
         "power": 671,
@@ -64398,6 +67258,7 @@ window.allHeroes =
         "source": "S3 - Valhalla",
         "Release date": "2020-02-27",
         "specialId": "magma_boulders",
+        "passiveSkills": null,
         "heroId": "s3_sumle",
         "star": 4,
         "power": 662,
@@ -64456,6 +67317,8 @@ window.allHeroes =
         "source": "S3 - Valhalla",
         "Release date": "2022-07-04",
         "specialId": "magma_boulders",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null,
         "heroId": "s3_sumle_costume_unhallowed",
         "star": 4,
         "power": 683,
@@ -64514,6 +67377,7 @@ window.allHeroes =
         "source": "Three Kingdoms Summon",
         "Release date": "2022-03-14",
         "specialId": "royal_blades",
+        "passiveSkills": null,
         "heroId": "kingdom_sun_shangxiang",
         "star": 4,
         "power": 682,
@@ -64576,6 +67440,9 @@ window.allHeroes =
         "source": "Challenge - Gargoyle",
         "Release date": "2024-10-17",
         "specialId": "firing_on_all_cylinders",
+        "passiveSkills": [
+            "gargoyle_soft_skin"
+        ],
         "heroId": "gargoyle_vonreine",
         "star": 4,
         "power": 702,
@@ -64646,6 +67513,7 @@ window.allHeroes =
         "source": "S2 - Atlantis",
         "Release date": "2019-08-01",
         "specialId": "spiritual_unity",
+        "passiveSkills": null,
         "heroId": "s2_rugged_fisherman",
         "star": 4,
         "power": 649,
@@ -64707,6 +67575,8 @@ window.allHeroes =
         "source": "S2 - Atlantis",
         "Release date": "2022-05-02",
         "specialId": "spiritual_unity",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null,
         "heroId": "s2_rugged_fisherman_costume_sake_master",
         "star": 4,
         "power": 671,
@@ -64766,6 +67636,9 @@ window.allHeroes =
         "source": "Challenge Festival II",
         "Release date": "2022-08-11",
         "specialId": "melody_of_misery",
+        "passiveSkills": [
+            "revival_chance_modifier_all_enemies"
+        ],
         "heroId": "bard_zhabog",
         "star": 4,
         "power": 682,
@@ -64828,6 +67701,7 @@ window.allHeroes =
         "source": "Three Kingdoms Summon",
         "Release date": "2022-03-14",
         "specialId": "scion_sword",
+        "passiveSkills": null,
         "heroId": "kingdom_zhou_yu",
         "star": 4,
         "power": 683,
@@ -64895,6 +67769,10 @@ window.allHeroes =
         "source": "Three Kingdoms Summon",
         "Release date": "2025-01-29",
         "specialId": "scion_sword",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": [
+            "kingdom_unstoppable_minions"
+        ],
         "heroId": "kingdom_zhou_yu_costume_white_raven",
         "star": 4,
         "power": 719,
@@ -64969,6 +67847,9 @@ window.allHeroes =
         "source": "Mystery - Shadow Summon",
         "Release date": "2024-05-26",
         "specialId": "whispers_of_xulu",
+        "passiveSkills": [
+            "insanity_damage_reduction"
+        ],
         "heroId": "shadow_abigail",
         "star": 5,
         "power": 1133,
@@ -65049,6 +67930,10 @@ window.allHeroes =
         "source": "S7 - Treasures of Flame and Frost",
         "Release date": "2025-03-23",
         "specialId": "mana_immolation",
+        "passiveSkills": [
+            "molten_core",
+            "resist_burn_with_health_boost_and_mana"
+        ],
         "heroId": "tales2_aethslegaur",
         "star": 5,
         "power": 1184,
@@ -65125,6 +68010,9 @@ window.allHeroes =
         "source": "Monthly Event - Morlovia",
         "Release date": "2022-10-03",
         "specialId": "vampiric_curse",
+        "passiveSkills": [
+            "halloween_steal_buff_or_deal_damage"
+        ],
         "heroId": "halloween_alucard",
         "star": 5,
         "power": 851,
@@ -65195,6 +68083,10 @@ window.allHeroes =
         "source": "Monthly Event - Morlovia",
         "Release date": "2024-09-23",
         "specialId": "vampiric_curse",
+        "passiveSkills": [
+            "halloween_steal_buff_or_deal_damage"
+        ],
+        "costumeBonusPassiveSkillIds": null,
         "heroId": "halloween_alucard_costume_mafia",
         "star": 5,
         "power": 1105,
@@ -65263,6 +68155,9 @@ window.allHeroes =
         "source": "Monthly Event - Morlovia",
         "Release date": "2023-09-25",
         "specialId": "spear_of_blood_pact",
+        "passiveSkills": [
+            "halloween_steal_buff_or_deal_damage"
+        ],
         "heroId": "halloween_amber",
         "star": 5,
         "power": 933,
@@ -65330,6 +68225,10 @@ window.allHeroes =
         "source": "Monthly Event - Beach Party",
         "Release date": "2025-06-03",
         "specialId": "blazing_rave_dance",
+        "passiveSkills": [
+            "resist_water",
+            "underwater_on_special_beach"
+        ],
         "heroId": "beachparty_andy_jay",
         "star": 5,
         "power": 1196,
@@ -65395,6 +68294,9 @@ window.allHeroes =
         "source": "Legends Summon - Hero of the Month",
         "Release date": "2019-04-01",
         "specialId": "flaming_grudge",
+        "passiveSkills": [
+            "resist_mana_generation_modifier_debuffs"
+        ],
         "heroId": "fire_god_anzogh",
         "star": 5,
         "power": 770,
@@ -65453,6 +68355,9 @@ window.allHeroes =
         "source": "Challenge - Carnival of Gods",
         "Release date": "2023-07-13",
         "specialId": "wicked_witchcraft",
+        "passiveSkills": [
+            "cleanse_on_own_familiar_death"
+        ],
         "heroId": "masquerade_aradia",
         "star": 5,
         "power": 936,
@@ -65520,6 +68425,11 @@ window.allHeroes =
         "source": "Wilderness Summon",
         "Release date": "2024-10-23",
         "specialId": "forceful_advance",
+        "passiveSkills": [
+            "resist_negative_attack_modifiers_including_wither",
+            "resist_insanity",
+            "minion_and_mega_minion_accuracy_modifier"
+        ],
         "heroId": "faun_araminta",
         "star": 5,
         "power": 1144,
@@ -65590,6 +68500,7 @@ window.allHeroes =
         "source": "Legends Summon - Hero of the Month",
         "Release date": "2017-08-01",
         "specialId": "might_of_ares",
+        "passiveSkills": null,
         "heroId": "fire_god_ares",
         "star": 5,
         "power": 765,
@@ -65655,6 +68566,10 @@ window.allHeroes =
         "source": "Legends Summon - Hero of the Month",
         "Release date": "2023-03-20",
         "specialId": "might_of_ares",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": [
+            "extra_special_cleanse_newest"
+        ],
         "heroId": "fire_god_ares_costume_keymaster",
         "star": 5,
         "power": 974,
@@ -65725,6 +68640,10 @@ window.allHeroes =
         "source": "Extra Draw - Secret Summon",
         "Release date": "2025-07-04",
         "specialId": "gorging_chew_red",
+        "passiveSkills": [
+            "mimic_ascension_item_red",
+            "never_miss_special"
+        ],
         "heroId": "mimic_ascension_item_red",
         "star": 5,
         "power": 1225,
@@ -65810,6 +68729,9 @@ window.allHeroes =
         "source": "Super Elementals",
         "Release date": "2024-07-14",
         "specialId": "ruby_rush",
+        "passiveSkills": [
+            "strong_troop_damage_modifier"
+        ],
         "heroId": "elemental_ash",
         "star": 5,
         "power": 1077,
@@ -65886,6 +68808,7 @@ window.allHeroes =
         "source": "Challenge Festival II",
         "Release date": "2021-02-11",
         "specialId": "brutal_bull_rush",
+        "passiveSkills": null,
         "heroId": "villain_asterius",
         "star": 5,
         "power": 802,
@@ -65959,6 +68882,9 @@ window.allHeroes =
         "source": "Tower - Ninjas",
         "Release date": "2025-03-05",
         "specialId": "rending_dagger",
+        "passiveSkills": [
+            "reduce_minion_health"
+        ],
         "heroId": "ninja_aurum",
         "star": 5,
         "power": 1167,
@@ -66031,6 +68957,7 @@ window.allHeroes =
         "source": "S1 - Classic",
         "Release date": "2017-03-01",
         "specialId": "volcanic_eruption",
+        "passiveSkills": null,
         "heroId": "lionman_barbarian",
         "star": 5,
         "power": 757,
@@ -66091,6 +69018,8 @@ window.allHeroes =
         "source": "Costume Quest",
         "Release date": "2020-05-18",
         "specialId": "volcanic_eruption",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null,
         "heroId": "lionman_barbarian_costume_armor",
         "star": 5,
         "power": 852,
@@ -66157,6 +69086,8 @@ window.allHeroes =
         "source": "Costume Quest",
         "Release date": "2023-02-20",
         "specialId": "volcanic_eruption",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null,
         "heroId": "lionman_barbarian_costume_babysitter",
         "star": 5,
         "power": 967,
@@ -66222,6 +69153,10 @@ window.allHeroes =
         "source": "Costume Quest",
         "Release date": "2023-10-30",
         "specialId": "volcanic_eruption",
+        "passiveSkills": [
+            "toon_resist_debuffs_manareduction_dispels"
+        ],
+        "costumeBonusPassiveSkillIds": null,
         "heroId": "lionman_barbarian_costume_cute",
         "star": 5,
         "power": 1135,
@@ -66290,6 +69225,10 @@ window.allHeroes =
         "source": "Costume Quest",
         "Release date": "2024-12-25",
         "specialId": "volcanic_eruption",
+        "passiveSkills": [
+            "glass_reflect_debuffs"
+        ],
+        "costumeBonusPassiveSkillIds": null,
         "heroId": "lionman_barbarian_costume_glass",
         "star": 5,
         "power": 1242,
@@ -66361,6 +69300,7 @@ window.allHeroes =
         "source": "S3 - Valhalla",
         "Release date": "2020-05-28",
         "specialId": "unbreakable_brawler",
+        "passiveSkills": null,
         "heroId": "s3_baldur",
         "star": 5,
         "power": 787,
@@ -66423,6 +69363,8 @@ window.allHeroes =
         "source": "S3 - Valhalla",
         "Release date": "2022-11-21",
         "specialId": "unbreakable_brawler",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null,
         "heroId": "s3_baldur_costume_fiery",
         "star": 5,
         "power": 986,
@@ -66483,6 +69425,10 @@ window.allHeroes =
         "source": "Challenge Festival II",
         "Release date": "2023-05-18",
         "specialId": "missile_mania",
+        "passiveSkills": [
+            "heal_and_add_mana_on_ally_minion",
+            "damage_enemies_on_enemy_parasite"
+        ],
         "heroId": "mighty_pet_barkley",
         "star": 5,
         "power": 879,
@@ -66550,6 +69496,9 @@ window.allHeroes =
         "source": "Alliance - Knights Clash",
         "Release date": "2024-07-17",
         "specialId": "cursed_painting",
+        "passiveSkills": [
+            "heal_on_buff_alliance_quest_family"
+        ],
         "heroId": "castle_bear_bearnadette",
         "star": 5,
         "power": 1078,
@@ -66625,6 +69574,11 @@ window.allHeroes =
         "source": "Challenge - Beowulf",
         "Release date": "2025-02-13",
         "specialId": "battle_boast",
+        "passiveSkills": [
+            "attack_buff_on_damage_received",
+            "resist_mana_reductions_with_health_boost_and_mana",
+            "never_miss_special"
+        ],
         "heroId": "beowulf_beowulf",
         "star": 5,
         "power": 1184,
@@ -66698,6 +69652,10 @@ window.allHeroes =
         "source": "Solstice Summon",
         "Release date": "2025-06-16",
         "specialId": "righteous_pulverizer",
+        "passiveSkills": [
+            "increased_damage_against_minions_and_mega_minions",
+            "mana_on_damage_received"
+        ],
         "heroId": "mahayoddha_bhima",
         "star": 5,
         "power": 1213,
@@ -66773,6 +69731,9 @@ window.allHeroes =
         "source": "Challenge Festival I",
         "Release date": "2023-12-28",
         "specialId": "pirates_vengeance",
+        "passiveSkills": [
+            "resist_status_effect_damage"
+        ],
         "heroId": "pirate_boatswain",
         "star": 5,
         "power": 987,
@@ -66841,6 +69802,7 @@ window.allHeroes =
         "source": "Challenge Festival I",
         "Release date": "2021-07-09",
         "specialId": "just_a_flesh_wound",
+        "passiveSkills": null,
         "heroId": "knights_black_knight",
         "star": 5,
         "power": 779,
@@ -66899,6 +69861,8 @@ window.allHeroes =
         "source": "Challenge Festival I",
         "Release date": "2022-06-16",
         "specialId": "just_a_flesh_wound",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null,
         "heroId": "knights_black_knight_costume_negative",
         "star": 5,
         "power": 978,
@@ -66957,6 +69921,10 @@ window.allHeroes =
         "source": "Covenant Summon",
         "Release date": "2023-08-24",
         "specialId": "songs_of_the_cherry_tree",
+        "passiveSkills": [
+            "repair_core",
+            "resist_special_blocking"
+        ],
         "heroId": "construct_japanese_doll",
         "star": 5,
         "power": 980,
@@ -67023,6 +69991,10 @@ window.allHeroes =
         "source": "Monster Island Summon",
         "Release date": "2023-03-03",
         "specialId": "fury_of_the_silverback",
+        "passiveSkills": [
+            "hunters_mark_on_special",
+            "attack_modifier_on_special"
+        ],
         "heroId": "monster_hunter_bonecrusher",
         "star": 5,
         "power": 893,
@@ -67090,6 +70062,10 @@ window.allHeroes =
         "source": "Covenant Summon",
         "Release date": "2023-07-27",
         "specialId": "infernal_flames",
+        "passiveSkills": [
+            "destructive_core",
+            "resist_special_blocking"
+        ],
         "heroId": "construct_brimstone",
         "star": 5,
         "power": 953,
@@ -67166,6 +70142,7 @@ window.allHeroes =
         "source": "Challenge Festival I",
         "Release date": "2017-09-07",
         "specialId": "pirate_shot",
+        "passiveSkills": null,
         "heroId": "pirate_swashbuckler",
         "star": 5,
         "power": 765,
@@ -67223,6 +70200,9 @@ window.allHeroes =
         "source": "S4 - Wilderness",
         "Release date": "2021-08-12",
         "specialId": "captains_cutlass",
+        "passiveSkills": [
+            "start_battle_with_mana"
+        ],
         "heroId": "s4_captain_nemo",
         "star": 5,
         "power": 809,
@@ -67283,6 +70263,12 @@ window.allHeroes =
         "source": "S4 - Wilderness",
         "Release date": "2023-12-07",
         "specialId": "captains_cutlass",
+        "passiveSkills": [
+            "start_battle_with_mana"
+        ],
+        "costumeBonusPassiveSkillIds": [
+            "extra_special_increased_damage_against_boosted_health"
+        ],
         "heroId": "s4_captain_nemo_costume_machinist",
         "star": 5,
         "power": 1024,
@@ -67347,6 +70333,9 @@ window.allHeroes =
         "source": "Alliance - Musketeers",
         "Release date": "2023-09-20",
         "specialId": "web_of_spies",
+        "passiveSkills": [
+            "damage_all_enemies_on_cover_or_special_damage_received"
+        ],
         "heroId": "musketeer_cardinal_richelieu",
         "star": 5,
         "power": 928,
@@ -67412,6 +70401,9 @@ window.allHeroes =
         "source": "Challenge - Carnival of Gods",
         "Release date": "2023-09-14",
         "specialId": "master_of_ailments",
+        "passiveSkills": [
+            "cleanse_on_own_familiar_death"
+        ],
         "heroId": "masquerade_carmenta",
         "star": 5,
         "power": 940,
@@ -67480,6 +70472,11 @@ window.allHeroes =
         "source": "Astral Summon",
         "Release date": "2025-04-21",
         "specialId": "spell_lock",
+        "passiveSkills": [
+            "never_miss_special",
+            "resist_negative_minion_and_mega_minion_effects",
+            "bypass_minions_and_mega_minions"
+        ],
         "heroId": "astral_dwarf_ceris",
         "star": 5,
         "power": 1179,
@@ -67551,6 +70548,10 @@ window.allHeroes =
         "source": "Challenge - Secrets of the Opera",
         "Release date": "2024-09-19",
         "specialId": "ballad_of_condemnation",
+        "passiveSkills": [
+            "heal_on_expired_or_cleared_debuff_slow",
+            "resist_attack_modifier_debuffs"
+        ],
         "heroId": "ballerina_charlotta",
         "star": 5,
         "power": 1100,
@@ -67626,6 +70627,10 @@ window.allHeroes =
         "source": "Super Elementals",
         "Release date": "2025-01-01",
         "specialId": "perfume_cloud",
+        "passiveSkills": [
+            "summon_slime_minion_on_damage_red",
+            "summon_slime_minion_on_death_red"
+        ],
         "heroId": "slime_charmione",
         "star": 5,
         "power": 1169,
@@ -67692,6 +70697,10 @@ window.allHeroes =
         "source": "Challenge Festival II",
         "Release date": "2022-11-03",
         "specialId": "slice_and_dice",
+        "passiveSkills": [
+            "heal_and_add_mana_on_ally_minion",
+            "damage_enemies_on_enemy_parasite"
+        ],
         "heroId": "mighty_pet_chomper",
         "star": 5,
         "power": 876,
@@ -67762,6 +70771,9 @@ window.allHeroes =
         "source": "Alliance - Moths",
         "Release date": "2025-01-23",
         "specialId": "prosperity_for_domain",
+        "passiveSkills": [
+            "dodge_enemy_damage_special"
+        ],
         "heroId": "moth_chunkyroi",
         "star": 5,
         "power": 1178,
@@ -67831,6 +70843,9 @@ window.allHeroes =
         "source": "Challenge Festival I",
         "Release date": "2024-02-22",
         "specialId": "fairy_godmothers_blessing",
+        "passiveSkills": [
+            "resist_status_effect_damage"
+        ],
         "heroId": "fables_cinderella",
         "star": 5,
         "power": 1007,
@@ -67899,6 +70914,10 @@ window.allHeroes =
         "source": "Monster Island Summon",
         "Release date": "2022-08-25",
         "specialId": "bone_ritual",
+        "passiveSkills": [
+            "hunters_mark_on_special",
+            "special_damage_reduction_monster_hunters"
+        ],
         "heroId": "monster_hunter_cleaver",
         "star": 5,
         "power": 888,
@@ -67969,6 +70988,7 @@ window.allHeroes =
         "source": "Monthly Event - Winter",
         "Release date": "2023-12-01",
         "specialId": "mystery_potions",
+        "passiveSkills": null,
         "heroId": "christmas_cookie",
         "star": 5,
         "power": 949,
@@ -68031,6 +71051,9 @@ window.allHeroes =
         "source": "Monthly Event - Love Season",
         "Release date": "2023-02-14",
         "specialId": "love_conquers_all",
+        "passiveSkills": [
+            "resist_special_blocking"
+        ],
         "heroId": "valentines_cupido",
         "star": 5,
         "power": 862,
@@ -68094,6 +71117,9 @@ window.allHeroes =
         "source": "Alliance - Musketeers",
         "Release date": "2022-12-14",
         "specialId": "flaming_rapier",
+        "passiveSkills": [
+            "damage_all_enemies_on_cover_or_special_damage_received"
+        ],
         "heroId": "musketeer_dartagnan",
         "star": 5,
         "power": 878,
@@ -68161,6 +71187,9 @@ window.allHeroes =
         "source": "Alliance - Knights Clash",
         "Release date": "2024-01-10",
         "specialId": "blood_petals_of_the_withered",
+        "passiveSkills": [
+            "heal_on_buff_alliance_quest_family"
+        ],
         "heroId": "castle_stag_daemon",
         "star": 5,
         "power": 1027,
@@ -68233,6 +71262,10 @@ window.allHeroes =
         "source": "Goblin Summon",
         "Release date": "2024-09-29",
         "specialId": "spotting_trouble",
+        "passiveSkills": [
+            "remove_wither_from_allies",
+            "resist_direct_mana_reductions"
+        ],
         "heroId": "garrison_dima",
         "star": 5,
         "power": 1122,
@@ -68307,6 +71340,9 @@ window.allHeroes =
         "source": "S6 - Mysteries of the Deep",
         "Release date": "2023-12-13",
         "specialId": "supernova",
+        "passiveSkills": [
+            "tales1_extra_special_damage_and_add_stacking_mana_generation"
+        ],
         "heroId": "tales1_domiventus",
         "star": 5,
         "power": 999,
@@ -68380,6 +71416,12 @@ window.allHeroes =
         "source": "S6 - Mysteries of the Deep",
         "Release date": "2024-12-14",
         "specialId": "supernova",
+        "passiveSkills": [
+            "tales1_extra_special_damage_and_add_stacking_mana_generation"
+        ],
+        "costumeBonusPassiveSkillIds": [
+            "resist_insanity"
+        ],
         "heroId": "tales1_domiventus_costume_supreme",
         "star": 5,
         "power": 1245,
@@ -68452,6 +71494,9 @@ window.allHeroes =
         "source": "Super Elementals",
         "Release date": "2023-03-27",
         "specialId": "dual_laser_blades",
+        "passiveSkills": [
+            "strong_troop_damage_modifier"
+        ],
         "heroId": "elemental_doxan",
         "star": 5,
         "power": 905,
@@ -68527,6 +71572,9 @@ window.allHeroes =
         "source": "Challenge Festival II",
         "Release date": "2025-06-15",
         "specialId": "infernal_drumstorm",
+        "passiveSkills": [
+            "revival_chance_modifier_all_enemies"
+        ],
         "heroId": "bard_dunnar_hart",
         "star": 5,
         "power": 1211,
@@ -68606,6 +71654,10 @@ window.allHeroes =
         "source": "Monster Island Summon",
         "Release date": "2022-10-15",
         "specialId": "flail_swing",
+        "passiveSkills": [
+            "hunters_mark_on_special",
+            "special_damage_reduction_monster_hunters"
+        ],
         "heroId": "monster_hunter_ebba",
         "star": 5,
         "power": 887,
@@ -68673,6 +71725,9 @@ window.allHeroes =
         "source": "Challenge - Gargoyle",
         "Release date": "2022-05-12",
         "specialId": "fists_of_atonement",
+        "passiveSkills": [
+            "gargoyle_stone"
+        ],
         "heroId": "gargoyle_el_duque",
         "star": 5,
         "power": 841,
@@ -68735,6 +71790,9 @@ window.allHeroes =
         "source": "Monthly Event - Love Season",
         "Release date": "2024-01-08",
         "specialId": "vanguard_of_passion",
+        "passiveSkills": [
+            "resist_special_blocking"
+        ],
         "heroId": "valentines_elba",
         "star": 5,
         "power": 966,
@@ -68797,6 +71855,7 @@ window.allHeroes =
         "source": "S1 - Classic",
         "Release date": "2017-03-01",
         "specialId": "wall_of_swords",
+        "passiveSkills": null,
         "heroId": "nomad_female_lord",
         "star": 5,
         "power": 753,
@@ -68855,6 +71914,8 @@ window.allHeroes =
         "source": "Costume Quest",
         "Release date": "2020-01-01",
         "specialId": "wall_of_swords",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null,
         "heroId": "nomad_female_lord_costume_flame",
         "star": 5,
         "power": 848,
@@ -68913,6 +71974,8 @@ window.allHeroes =
         "source": "Costume Quest",
         "Release date": "2023-08-07",
         "specialId": "wall_of_swords",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null,
         "heroId": "nomad_female_lord_costume_wicked",
         "star": 5,
         "power": 964,
@@ -68972,6 +72035,10 @@ window.allHeroes =
         "source": "Costume Quest",
         "Release date": "2024-05-31",
         "specialId": "wall_of_swords",
+        "passiveSkills": [
+            "toon_resist_debuffs_manareduction_dispels"
+        ],
+        "costumeBonusPassiveSkillIds": null,
         "heroId": "nomad_female_lord_costume_cute",
         "star": 5,
         "power": 1129,
@@ -69040,6 +72107,10 @@ window.allHeroes =
         "source": "Costume Quest",
         "Release date": "2025-07-16",
         "specialId": "wall_of_swords",
+        "passiveSkills": [
+            "glass_reflect_debuffs"
+        ],
+        "costumeBonusPassiveSkillIds": null,
         "heroId": "nomad_female_lord_costume_glass",
         "star": 5,
         "power": 1232,
@@ -69109,6 +72180,10 @@ window.allHeroes =
         "source": "Legends Summon - Hero of the Month",
         "Release date": "2025-03-01",
         "specialId": "flame_surge",
+        "passiveSkills": [
+            "mana_on_enemy_burn",
+            "resist_burn"
+        ],
         "heroId": "fire_god_eliane",
         "star": 5,
         "power": 1066,
@@ -69181,6 +72256,9 @@ window.allHeroes =
         "source": "S4 - Wilderness",
         "Release date": "2021-03-25",
         "specialId": "widows_kiss",
+        "passiveSkills": [
+            "increase_buff_duration"
+        ],
         "heroId": "s4_elizabeth",
         "star": 5,
         "power": 807,
@@ -69253,6 +72331,12 @@ window.allHeroes =
         "source": "S4 - Wilderness",
         "Release date": "2023-04-27",
         "specialId": "widows_kiss",
+        "passiveSkills": [
+            "increase_buff_duration"
+        ],
+        "costumeBonusPassiveSkillIds": [
+            "extra_special_increased_damage_against_boosted_health"
+        ],
         "heroId": "s4_elizabeth_costume_bride",
         "star": 5,
         "power": 1021,
@@ -69326,6 +72410,9 @@ window.allHeroes =
         "source": "Covenant Summon",
         "Release date": "2025-05-08",
         "specialId": "firewall",
+        "passiveSkills": [
+            "reduced_healing_for_all_enemies"
+        ],
         "heroId": "fox_ember",
         "star": 5,
         "power": 1179,
@@ -69397,6 +72484,7 @@ window.allHeroes =
         "source": "Challenge Festival II",
         "Release date": "2021-06-10",
         "specialId": "flames_and_rejuvenation",
+        "passiveSkills": null,
         "heroId": "circus_emilio",
         "star": 5,
         "power": 809,
@@ -69476,6 +72564,10 @@ window.allHeroes =
         "source": "Challenge Festival II",
         "Release date": "2025-04-09",
         "specialId": "flames_and_rejuvenation",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": [
+            "cleansed_ailments_to_enemy"
+        ],
         "heroId": "circus_emilio_costume_frog",
         "star": 5,
         "power": 1210,
@@ -69555,6 +72647,10 @@ window.allHeroes =
         "source": "Tower - Styx",
         "Release date": "2022-09-21",
         "specialId": "dark_orb",
+        "passiveSkills": [
+            "resist_all_defense_debuffs",
+            "reduce_minion_health"
+        ],
         "heroId": "styx_erebus",
         "star": 5,
         "power": 857,
@@ -69633,6 +72729,9 @@ window.allHeroes =
         "source": "Tower - Owls",
         "Release date": "2024-05-08",
         "specialId": "song_of_hoot_and_holler",
+        "passiveSkills": [
+            "mana_generation_modifier_all_enemies_stronger"
+        ],
         "heroId": "owl_eron",
         "star": 5,
         "power": 1046,
@@ -69706,6 +72805,10 @@ window.allHeroes =
         "source": "Extra Draw - Secret Summon",
         "Release date": "2025-04-22",
         "specialId": "mimic_training_hero_red_bite",
+        "passiveSkills": [
+            "mimic_training_hero_red",
+            "never_miss_special"
+        ],
         "heroId": "mimic_training_hero_red",
         "star": 5,
         "power": 1200,
@@ -69788,6 +72891,10 @@ window.allHeroes =
         "source": "S7 - Treasures of Flame and Frost",
         "Release date": "2025-07-11",
         "specialId": "self_preservation",
+        "passiveSkills": [
+            "arctic_core",
+            "resist_frost_with_health_boost_and_mana"
+        ],
         "heroId": "tales2_fimafeng",
         "star": 5,
         "power": 1220,
@@ -69867,6 +72974,10 @@ window.allHeroes =
         "source": "Goblin Summon",
         "Release date": "2025-04-11",
         "specialId": "calling_the_bluff",
+        "passiveSkills": [
+            "remove_growth_from_enemies",
+            "resist_direct_mana_reductions"
+        ],
         "heroId": "garrison_flamehide",
         "star": 5,
         "power": 1173,
@@ -69937,6 +73048,10 @@ window.allHeroes =
         "source": "Monthly Event - Beach Party",
         "Release date": "2023-06-12",
         "specialId": "to_the_rescue",
+        "passiveSkills": [
+            "resist_water",
+            "underwater_on_special_beach"
+        ],
         "heroId": "beachparty_flip",
         "star": 5,
         "power": 873,
@@ -70006,6 +73121,11 @@ window.allHeroes =
         "source": "Monthly Event - Beach Party",
         "Release date": "2025-06-03",
         "specialId": "to_the_rescue",
+        "passiveSkills": [
+            "resist_water",
+            "underwater_on_special_beach"
+        ],
+        "costumeBonusPassiveSkillIds": null,
         "heroId": "beachparty_flip_costume_donut",
         "star": 5,
         "power": 1184,
@@ -70076,6 +73196,9 @@ window.allHeroes =
         "source": "Tower - Owls",
         "Release date": "2023-12-20",
         "specialId": "royal_assault",
+        "passiveSkills": [
+            "mana_generation_modifier_all_enemies_stronger"
+        ],
         "heroId": "owl_fulvia",
         "star": 5,
         "power": 985,
@@ -70144,6 +73267,7 @@ window.allHeroes =
         "source": "Tower - Ninjas",
         "Release date": "2020-10-13",
         "specialId": "awaken_ki",
+        "passiveSkills": null,
         "heroId": "ninja_garnet",
         "star": 5,
         "power": 798,
@@ -70209,6 +73333,7 @@ window.allHeroes =
         "source": "S3 - Valhalla",
         "Release date": "2020-10-22",
         "specialId": "maidens_command",
+        "passiveSkills": null,
         "heroId": "s3_gefjon",
         "star": 5,
         "power": 785,
@@ -70267,6 +73392,8 @@ window.allHeroes =
         "source": "S3 - Valhalla",
         "Release date": "2022-09-26",
         "specialId": "maidens_command",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null,
         "heroId": "s3_gefjon_costume_wilderness",
         "star": 5,
         "power": 983,
@@ -70326,6 +73453,9 @@ window.allHeroes =
         "source": "S6 - Mysteries of the Deep",
         "Release date": "2023-09-27",
         "specialId": "underwater_magma_cube",
+        "passiveSkills": [
+            "tales1_extra_special_damage_and_add_stacking_mana_generation"
+        ],
         "heroId": "tales1_gestalt",
         "star": 5,
         "power": 957,
@@ -70406,6 +73536,12 @@ window.allHeroes =
         "source": "S6 - Mysteries of the Deep",
         "Release date": "2024-06-20",
         "specialId": "underwater_magma_cube",
+        "passiveSkills": [
+            "tales1_extra_special_damage_and_add_stacking_mana_generation"
+        ],
+        "costumeBonusPassiveSkillIds": [
+            "resist_insanity"
+        ],
         "heroId": "tales1_gestalt_costume_pearls",
         "star": 5,
         "power": 1190,
@@ -70488,6 +73624,10 @@ window.allHeroes =
         "source": "Super Elementals",
         "Release date": "2025-05-04",
         "specialId": "alchemy_experiment",
+        "passiveSkills": [
+            "summon_slime_minion_on_damage_red",
+            "summon_slime_minion_on_death_red"
+        ],
         "heroId": "slime_gooze",
         "star": 5,
         "power": 1193,
@@ -70559,6 +73699,7 @@ window.allHeroes =
         "source": "Legends Summon - Hero of the Month",
         "Release date": "2018-06-01",
         "specialId": "ashes_to_ashes",
+        "passiveSkills": null,
         "heroId": "fire_god_doom",
         "star": 5,
         "power": 768,
@@ -70628,6 +73769,10 @@ window.allHeroes =
         "source": "Legends Summon - Hero of the Month",
         "Release date": "2021-10-20",
         "specialId": "ashes_to_ashes",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": [
+            "extra_special_dispel_newest"
+        ],
         "heroId": "fire_god_doom_costume_avenger",
         "star": 5,
         "power": 976,
@@ -70696,6 +73841,9 @@ window.allHeroes =
         "source": "Legends Summon - Hero of the Month",
         "Release date": "2019-09-01",
         "specialId": "mending_mantra",
+        "passiveSkills": [
+            "resist_heal_multiplier_debuffs"
+        ],
         "heroId": "fire_god_nadnog",
         "star": 5,
         "power": 770,
@@ -70759,6 +73907,7 @@ window.allHeroes =
         "source": "Challenge Festival I",
         "Release date": "2020-05-01",
         "specialId": "lord_of_the_jungle",
+        "passiveSkills": null,
         "heroId": "guardian_gorilla_chieftain",
         "star": 5,
         "power": 765,
@@ -70826,6 +73975,8 @@ window.allHeroes =
         "source": "Challenge Festival I",
         "Release date": "2022-04-14",
         "specialId": "lord_of_the_jungle",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null,
         "heroId": "guardian_gorilla_chieftain_costume_conqueror",
         "star": 5,
         "power": 960,
@@ -70891,6 +74042,9 @@ window.allHeroes =
         "source": "Challenge - Gargoyle",
         "Release date": "2024-07-25",
         "specialId": "reflecting_stance",
+        "passiveSkills": [
+            "gargoyle_soft_skin"
+        ],
         "heroId": "gargoyle_guffa",
         "star": 5,
         "power": 1080,
@@ -70958,6 +74112,10 @@ window.allHeroes =
         "source": "Astral Summon",
         "Release date": "2024-03-28",
         "specialId": "celestial_anvil",
+        "passiveSkills": [
+            "share_received_damage",
+            "resist_poison"
+        ],
         "heroId": "astral_hammerclang",
         "star": 5,
         "power": 1013,
@@ -71027,6 +74185,9 @@ window.allHeroes =
         "source": "S5 - Dune",
         "Release date": "2022-12-22",
         "specialId": "motherly_care",
+        "passiveSkills": [
+            "moon_extra_special_heal_and_add_mana"
+        ],
         "heroId": "s5_hathor",
         "star": 5,
         "power": 843,
@@ -71091,6 +74252,13 @@ window.allHeroes =
         "source": "S5 - Dune",
         "Release date": "2024-02-05",
         "specialId": "motherly_care",
+        "passiveSkills": [
+            "moon_extra_special_heal_and_add_mana"
+        ],
+        "costumeBonusPassiveSkillIds": [
+            "resist_stop_mana_generation",
+            "guaranteed_passive_effects_on_special"
+        ],
         "heroId": "s5_hathor_costume_starlit",
         "star": 5,
         "power": 1178,
@@ -71159,6 +74327,9 @@ window.allHeroes =
         "source": "Challenge - Gargoyle",
         "Release date": "2022-09-08",
         "specialId": "possessor_of_penance",
+        "passiveSkills": [
+            "gargoyle_stone"
+        ],
         "heroId": "gargoyle_hohenwerf",
         "star": 5,
         "power": 841,
@@ -71228,6 +74399,10 @@ window.allHeroes =
         "source": "Covenant Summon",
         "Release date": "2024-01-16",
         "specialId": "bulwark_charge",
+        "passiveSkills": [
+            "destructive_core",
+            "resist_special_blocking"
+        ],
         "heroId": "construct_hornfel",
         "star": 5,
         "power": 1055,
@@ -71297,6 +74472,10 @@ window.allHeroes =
         "source": "Tower - Styx",
         "Release date": "2022-06-01",
         "specialId": "sweet_dreams",
+        "passiveSkills": [
+            "resist_all_defense_debuffs",
+            "reduce_minion_health"
+        ],
         "heroId": "styx_hypnos",
         "star": 5,
         "power": 849,
@@ -71375,6 +74554,10 @@ window.allHeroes =
         "source": "Goblin Summon",
         "Release date": "2025-04-29",
         "specialId": "ring_around_the_rosie",
+        "passiveSkills": [
+            "remove_wither_from_allies",
+            "resist_direct_mana_reductions"
+        ],
         "heroId": "garrison_iarlaith",
         "star": 5,
         "power": 1177,
@@ -71446,6 +74629,9 @@ window.allHeroes =
         "source": "Super Elementals",
         "Release date": "2023-03-27",
         "specialId": "purifying_flame",
+        "passiveSkills": [
+            "strong_troop_damage_modifier"
+        ],
         "heroId": "elemental_ignazio",
         "star": 5,
         "power": 953,
@@ -71522,6 +74708,10 @@ window.allHeroes =
         "source": "Super Elementals",
         "Release date": "2025-05-24",
         "specialId": "purifying_flame",
+        "passiveSkills": [
+            "strong_troop_damage_modifier_costume"
+        ],
+        "costumeBonusPassiveSkillIds": null,
         "heroId": "elemental_ignazio_costume_medic",
         "star": 5,
         "power": 1239,
@@ -71596,6 +74786,9 @@ window.allHeroes =
         "source": "Monthly Event - Kalevala",
         "Release date": "2022-06-20",
         "specialId": "forged_in_fire",
+        "passiveSkills": [
+            "heal_mana_on_low_health_once"
+        ],
         "heroId": "kalevala_ilmarinen",
         "star": 5,
         "power": 937,
@@ -71664,6 +74857,10 @@ window.allHeroes =
         "source": "Monthly Event - Kalevala",
         "Release date": "2025-07-28",
         "specialId": "forged_in_fire",
+        "passiveSkills": [
+            "heal_mana_on_low_health_once"
+        ],
+        "costumeBonusPassiveSkillIds": null,
         "heroId": "kalevala_ilmarinen_costume_gold",
         "star": 5,
         "power": 1220,
@@ -71733,6 +74930,10 @@ window.allHeroes =
         "source": "Goblin Summon",
         "Release date": "2024-07-07",
         "specialId": "aces_high",
+        "passiveSkills": [
+            "remove_wither_from_allies",
+            "resist_direct_mana_reductions"
+        ],
         "heroId": "garrison_iocantha",
         "star": 5,
         "power": 1102,
@@ -71800,6 +75001,11 @@ window.allHeroes =
         "source": "Wilderness Summon",
         "Release date": "2024-12-31",
         "specialId": "flurry_of_blows",
+        "passiveSkills": [
+            "resist_negative_attack_modifiers_including_wither",
+            "resist_insanity",
+            "minion_and_mega_minion_accuracy_modifier"
+        ],
         "heroId": "faun_isidore",
         "star": 5,
         "power": 1154,
@@ -71866,6 +75072,7 @@ window.allHeroes =
         "source": "Challenge Festival II",
         "Release date": "2021-02-11",
         "specialId": "vengeful_scythe",
+        "passiveSkills": null,
         "heroId": "villain_isrod",
         "star": 5,
         "power": 804,
@@ -71927,6 +75134,9 @@ window.allHeroes =
         "source": "Legends Summon - Hero of the Month",
         "Release date": "2020-02-01",
         "specialId": "seal_of_fire",
+        "passiveSkills": [
+            "resist_health_steal"
+        ],
         "heroId": "fire_god_jean_francois",
         "star": 5,
         "power": 771,
@@ -71998,6 +75208,7 @@ window.allHeroes =
         "source": "S1 - Classic",
         "Release date": "2017-03-01",
         "specialId": "khans_order",
+        "passiveSkills": null,
         "heroId": "tribal_chief",
         "star": 5,
         "power": 757,
@@ -72060,6 +75271,8 @@ window.allHeroes =
         "source": "Costume Quest",
         "Release date": "2021-01-18",
         "specialId": "khans_order",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null,
         "heroId": "tribal_chief_costume_conqueror",
         "star": 5,
         "power": 853,
@@ -72122,6 +75335,8 @@ window.allHeroes =
         "source": "Costume Quest",
         "Release date": "2022-09-05",
         "specialId": "khans_order",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null,
         "heroId": "tribal_chief_costume_leopard",
         "star": 5,
         "power": 969,
@@ -72185,6 +75400,10 @@ window.allHeroes =
         "source": "Costume Quest",
         "Release date": "2024-04-08",
         "specialId": "khans_order",
+        "passiveSkills": [
+            "toon_resist_debuffs_manareduction_dispels"
+        ],
+        "costumeBonusPassiveSkillIds": null,
         "heroId": "tribal_chief_costume_cute",
         "star": 5,
         "power": 1136,
@@ -72257,6 +75476,10 @@ window.allHeroes =
         "source": "Costume Quest",
         "Release date": "2025-06-18",
         "specialId": "khans_order",
+        "passiveSkills": [
+            "glass_reflect_debuffs"
+        ],
+        "costumeBonusPassiveSkillIds": null,
         "heroId": "tribal_chief_costume_glass",
         "star": 5,
         "power": 1241,
@@ -72327,6 +75550,9 @@ window.allHeroes =
         "source": "S5 - Dune",
         "Release date": "2022-04-21",
         "specialId": "perplexing_riddle",
+        "passiveSkills": [
+            "sun_extra_special_damage_and_dot"
+        ],
         "heroId": "s5_khafre",
         "star": 5,
         "power": 858,
@@ -72392,6 +75618,13 @@ window.allHeroes =
         "source": "S5 - Dune",
         "Release date": "2024-11-01",
         "specialId": "perplexing_riddle",
+        "passiveSkills": [
+            "sun_extra_special_damage_and_dot"
+        ],
+        "costumeBonusPassiveSkillIds": [
+            "increase_special_damage_buff",
+            "iterate_passive_effects_on_special"
+        ],
         "heroId": "s5_khafre_costume_aquatic",
         "star": 5,
         "power": 1200,
@@ -72458,6 +75691,9 @@ window.allHeroes =
         "source": "S4 - Wilderness",
         "Release date": "2022-02-24",
         "specialId": "inevitable_demise",
+        "passiveSkills": [
+            "start_battle_with_mana"
+        ],
         "heroId": "s4_kravekrush",
         "star": 5,
         "power": 814,
@@ -72519,6 +75755,12 @@ window.allHeroes =
         "source": "S4 - Wilderness",
         "Release date": "2024-09-26",
         "specialId": "inevitable_demise",
+        "passiveSkills": [
+            "start_battle_with_mana"
+        ],
+        "costumeBonusPassiveSkillIds": [
+            "extra_special_increased_damage_against_boosted_health"
+        ],
         "heroId": "s4_kravekrush_costume_grillmaster",
         "star": 5,
         "power": 1031,
@@ -72582,6 +75824,7 @@ window.allHeroes =
         "source": "S3 - Valhalla",
         "Release date": "2020-07-23",
         "specialId": "tricksters_malice",
+        "passiveSkills": null,
         "heroId": "s3_loki_female",
         "star": 5,
         "power": 787,
@@ -72643,6 +75886,8 @@ window.allHeroes =
         "source": "S3 - Valhalla",
         "Release date": "2023-10-23",
         "specialId": "tricksters_malice",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null,
         "heroId": "s3_loki_female_costume_mother",
         "star": 5,
         "power": 985,
@@ -72704,6 +75949,9 @@ window.allHeroes =
         "source": "S6 - Mysteries of the Deep",
         "Release date": "2023-06-07",
         "specialId": "flanking_maneuver",
+        "passiveSkills": [
+            "tales1_extra_special_damage_and_add_critical"
+        ],
         "heroId": "tales1_lasalle",
         "star": 5,
         "power": 935,
@@ -72777,6 +76025,12 @@ window.allHeroes =
         "source": "S6 - Mysteries of the Deep",
         "Release date": "2024-09-21",
         "specialId": "flanking_maneuver",
+        "passiveSkills": [
+            "tales1_extra_special_damage_and_add_critical"
+        ],
+        "costumeBonusPassiveSkillIds": [
+            "resist_insanity"
+        ],
         "heroId": "tales1_lasalle_costume_jockey",
         "star": 5,
         "power": 1163,
@@ -72850,6 +76104,7 @@ window.allHeroes =
         "source": "Alliance - Knights Clash",
         "Release date": "2022-01-05",
         "specialId": "impeding_bolts",
+        "passiveSkills": null,
         "heroId": "castle_raven_lewena",
         "star": 5,
         "power": 822,
@@ -72913,6 +76168,11 @@ window.allHeroes =
         "source": "Three Kingdoms Summon",
         "Release date": "2025-05-22",
         "specialId": "whirlwind_blows",
+        "passiveSkills": [
+            "resist_bleed",
+            "righteous_rebellion_parent",
+            "cleanse_on_special_critical_damage_all_safe"
+        ],
         "heroId": "outlaw_li_kui",
         "star": 5,
         "power": 1203,
@@ -72984,6 +76244,9 @@ window.allHeroes =
         "source": "Tower - Owls",
         "Release date": "2024-02-14",
         "specialId": "battleclaw_strike",
+        "passiveSkills": [
+            "mana_generation_modifier_all_enemies_stronger"
+        ],
         "heroId": "owl_lodius",
         "star": 5,
         "power": 1004,
@@ -73060,6 +76323,9 @@ window.allHeroes =
         "source": "Goblin Summon",
         "Release date": "2023-10-16",
         "specialId": "heedless_hammer_flurry",
+        "passiveSkills": [
+            "goblin_damage_and_accuracy_debuff_on_special"
+        ],
         "heroId": "goblin_madhammer",
         "star": 5,
         "power": 949,
@@ -73138,6 +76404,9 @@ window.allHeroes =
         "source": "Tower - Ninjas",
         "Release date": "2024-09-24",
         "specialId": "lacerating_leap",
+        "passiveSkills": [
+            "reduce_minion_health"
+        ],
         "heroId": "ninja_malum",
         "star": 5,
         "power": 1102,
@@ -73216,6 +76485,10 @@ window.allHeroes =
         "source": "Legends Summon - Hero of the Month",
         "Release date": "2025-08-01",
         "specialId": "autumnal_wind",
+        "passiveSkills": [
+            "heal_on_buff",
+            "resist_buff_immunity"
+        ],
         "heroId": "fire_god_maple",
         "star": 5,
         "power": 1125,
@@ -73279,6 +76552,7 @@ window.allHeroes =
         "source": "S1 - Classic",
         "Release date": "2017-03-01",
         "specialId": "magma_smash",
+        "passiveSkills": null,
         "heroId": "nomad_female_captain",
         "star": 5,
         "power": 755,
@@ -73340,6 +76614,8 @@ window.allHeroes =
         "source": "Costume Quest",
         "Release date": "2021-01-18",
         "specialId": "magma_smash",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null,
         "heroId": "nomad_female_captain_costume_pirate",
         "star": 5,
         "power": 849,
@@ -73402,6 +76678,8 @@ window.allHeroes =
         "source": "Costume Quest",
         "Release date": "2023-06-12",
         "specialId": "magma_smash",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null,
         "heroId": "nomad_female_captain_costume_thief",
         "star": 5,
         "power": 965,
@@ -73464,6 +76742,10 @@ window.allHeroes =
         "source": "Costume Quest",
         "Release date": "2023-12-25",
         "specialId": "magma_smash",
+        "passiveSkills": [
+            "toon_resist_debuffs_manareduction_dispels"
+        ],
+        "costumeBonusPassiveSkillIds": null,
         "heroId": "nomad_female_captain_costume_cute",
         "star": 5,
         "power": 1132,
@@ -73533,6 +76815,10 @@ window.allHeroes =
         "source": "Costume Quest",
         "Release date": "2025-02-11",
         "specialId": "magma_smash",
+        "passiveSkills": [
+            "glass_reflect_debuffs"
+        ],
+        "costumeBonusPassiveSkillIds": null,
         "heroId": "nomad_female_captain_costume_glass",
         "star": 5,
         "power": 1237,
@@ -73603,6 +76889,7 @@ window.allHeroes =
         "source": "S2 - Atlantis",
         "Release date": "2019-02-01",
         "specialId": "dark_mirror",
+        "passiveSkills": null,
         "heroId": "s2_noble_lady",
         "star": 5,
         "power": 775,
@@ -73670,6 +76957,8 @@ window.allHeroes =
         "source": "S2 - Atlantis",
         "Release date": "2023-03-06",
         "specialId": "dark_mirror",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null,
         "heroId": "s2_noble_lady_costume_warrior",
         "star": 5,
         "power": 947,
@@ -73741,6 +77030,9 @@ window.allHeroes =
         "source": "Tower - Magic",
         "Release date": "2021-09-15",
         "specialId": "flame_of_the_dragon_familiar",
+        "passiveSkills": [
+            "magic_heal_on_full_charge_to_not_red"
+        ],
         "heroId": "magic_nadezhda",
         "star": 5,
         "power": 818,
@@ -73824,6 +77116,12 @@ window.allHeroes =
         "source": "Tower - Magic",
         "Release date": "2025-07-05",
         "specialId": "flame_of_the_dragon_familiar",
+        "passiveSkills": [
+            "magic_heal_on_full_charge_costume"
+        ],
+        "costumeBonusPassiveSkillIds": [
+            "reduce_big_minion_health"
+        ],
         "heroId": "magic_nadezhda_costume_postmaster",
         "star": 5,
         "power": 1215,
@@ -73903,6 +77201,10 @@ window.allHeroes =
         "source": "Tower - Magic",
         "Release date": "2025-04-17",
         "specialId": "countering_hammock",
+        "passiveSkills": [
+            "reduce_big_minion_health",
+            "fly_magic_carpet"
+        ],
         "heroId": "magic_carpet_naeem",
         "star": 5,
         "power": 1200,
@@ -73982,6 +77284,7 @@ window.allHeroes =
         "source": "Legends Summon - Hero of the Month",
         "Release date": "2018-01-01",
         "specialId": "burning_chains",
+        "passiveSkills": null,
         "heroId": "fire_god_natalya",
         "star": 5,
         "power": 765,
@@ -74051,6 +77354,10 @@ window.allHeroes =
         "source": "Legends Summon - Hero of the Month",
         "Release date": "2023-05-15",
         "specialId": "burning_chains",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": [
+            "extra_special_dispel_newest"
+        ],
         "heroId": "fire_god_natalya_costume_seamstress",
         "star": 5,
         "power": 973,
@@ -74123,6 +77430,10 @@ window.allHeroes =
         "source": "Legends Summon - Hero of the Month",
         "Release date": "2023-11-01",
         "specialId": "fire_tiger",
+        "passiveSkills": [
+            "resist_special_blocking",
+            "bypass_taunt_effects"
+        ],
         "heroId": "fire_god_neema",
         "star": 5,
         "power": 891,
@@ -74195,6 +77506,9 @@ window.allHeroes =
         "source": "Covenant Summon",
         "Release date": "2025-06-03",
         "specialId": "paw_in_every_pie",
+        "passiveSkills": [
+            "reduced_healing_for_all_enemies"
+        ],
         "heroId": "fox_nibbles",
         "star": 5,
         "power": 1186,
@@ -74258,6 +77572,9 @@ window.allHeroes =
         "source": "Super Elementals",
         "Release date": "2024-02-26",
         "specialId": "pain_harvest",
+        "passiveSkills": [
+            "strong_troop_damage_modifier"
+        ],
         "heroId": "elemental_niki",
         "star": 5,
         "power": 1010,
@@ -74328,6 +77645,9 @@ window.allHeroes =
         "source": "Tower - Ninjas",
         "Release date": "2024-08-27",
         "specialId": "silent_takedown",
+        "passiveSkills": [
+            "reduce_minion_health"
+        ],
         "heroId": "ninja_nomad",
         "star": 5,
         "power": 1093,
@@ -74407,6 +77727,9 @@ window.allHeroes =
         "source": "Legends Summon - Hero of the Month",
         "Release date": "2020-07-01",
         "specialId": "sparrow_fury",
+        "passiveSkills": [
+            "summon_familiar_on_enemy_minion_summon"
+        ],
         "heroId": "fire_god_noor",
         "star": 5,
         "power": 774,
@@ -74471,6 +77794,11 @@ window.allHeroes =
         "source": "Legends Summon",
         "Release date": "2024-01-11",
         "specialId": "unstoppable_charge",
+        "passiveSkills": [
+            "bypass_taunt_effects",
+            "add_mana_on_enemy_taunt_norman",
+            "mana_gen_on_debuff"
+        ],
         "heroId": "champions_norman",
         "star": 5,
         "power": 993,
@@ -74537,6 +77865,7 @@ window.allHeroes =
         "source": "S2 - Atlantis",
         "Release date": "2022-06-27",
         "specialId": "strength_of_the_benemoth",
+        "passiveSkills": null,
         "heroId": "s2_oceanus",
         "star": 5,
         "power": 835,
@@ -74598,6 +77927,9 @@ window.allHeroes =
         "source": "S4 - Wilderness",
         "Release date": "2021-10-07",
         "specialId": "hallowed_blade",
+        "passiveSkills": [
+            "increase_buff_duration"
+        ],
         "heroId": "s4_octros",
         "star": 5,
         "power": 810,
@@ -74666,6 +77998,12 @@ window.allHeroes =
         "source": "S4 - Wilderness",
         "Release date": "2023-08-17",
         "specialId": "hallowed_blade",
+        "passiveSkills": [
+            "increase_buff_duration"
+        ],
+        "costumeBonusPassiveSkillIds": [
+            "extra_special_increased_damage_against_boosted_health"
+        ],
         "heroId": "s4_octros_costume_suitor",
         "star": 5,
         "power": 1027,
@@ -74736,6 +78074,9 @@ window.allHeroes =
         "source": "Mystery - Shadow Summon",
         "Release date": "2024-04-21",
         "specialId": "ritual_of_the_deep",
+        "passiveSkills": [
+            "insanity_damage_reduction"
+        ],
         "heroId": "shadow_omen",
         "star": 5,
         "power": 1127,
@@ -74808,6 +78149,10 @@ window.allHeroes =
         "source": "Monster Island Summon",
         "Release date": "2022-12-24",
         "specialId": "dauntless_bladestorm",
+        "passiveSkills": [
+            "hunters_mark_on_special",
+            "monster_hunter_reallocate_debuff_or_heal"
+        ],
         "heroId": "monster_hunter_otis",
         "star": 5,
         "power": 888,
@@ -74876,6 +78221,7 @@ window.allHeroes =
         "source": "Monthly Event - Winter",
         "Release date": "2024-12-01",
         "specialId": "mistletoe_medley",
+        "passiveSkills": null,
         "heroId": "christmas_ottilia",
         "star": 5,
         "power": 1124,
@@ -74940,6 +78286,9 @@ window.allHeroes =
         "source": "Goblin Summon",
         "Release date": "2024-01-08",
         "specialId": "chords_of_havoc",
+        "passiveSkills": [
+            "goblin_damage_and_accuracy_debuff_on_special"
+        ],
         "heroId": "goblin_pepperflame",
         "star": 5,
         "power": 989,
@@ -75017,6 +78366,9 @@ window.allHeroes =
         "source": "Challenge Festival II",
         "Release date": "2022-08-11",
         "specialId": "ballad_of_restoration",
+        "passiveSkills": [
+            "revival_chance_modifier_all_enemies"
+        ],
         "heroId": "bard_phenexa",
         "star": 5,
         "power": 869,
@@ -75089,6 +78441,11 @@ window.allHeroes =
         "source": "Astral Summon",
         "Release date": "2025-02-28",
         "specialId": "planar_time_widget",
+        "passiveSkills": [
+            "never_miss_special",
+            "resist_negative_minion_and_mega_minion_effects",
+            "bypass_minions_and_mega_minions"
+        ],
         "heroId": "astral_dwarf_pluth",
         "star": 5,
         "power": 1171,
@@ -75160,6 +78517,7 @@ window.allHeroes =
         "source": "Challenge Festival I",
         "Release date": "2019-12-01",
         "specialId": "three_blind_mice",
+        "passiveSkills": null,
         "heroId": "fables_puss_in_boots",
         "star": 5,
         "power": 781,
@@ -75228,6 +78586,8 @@ window.allHeroes =
         "source": "Challenge Festival I",
         "Release date": "2023-08-10",
         "specialId": "three_blind_mice",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null,
         "heroId": "fables_puss_in_boots_costume_highwaycat",
         "star": 5,
         "power": 978,
@@ -75296,6 +78656,7 @@ window.allHeroes =
         "source": "Challenge Festival I",
         "Release date": "2019-02-14",
         "specialId": "queen_of_cards",
+        "passiveSkills": null,
         "heroId": "wonderland_queen",
         "star": 5,
         "power": 768,
@@ -75365,6 +78726,10 @@ window.allHeroes =
         "source": "Challenge Festival I",
         "Release date": "2023-10-05",
         "specialId": "queen_of_cards",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": [
+            "possession_on_special"
+        ],
         "heroId": "wonderland_queen_costume_benefactor",
         "star": 5,
         "power": 965,
@@ -75440,6 +78805,10 @@ window.allHeroes =
         "source": "Wilderness Summon",
         "Release date": "2025-03-17",
         "specialId": "royal_meatball_buffet",
+        "passiveSkills": [
+            "resist_all_defense_effects",
+            "revive_chance_nine_lives"
+        ],
         "heroId": "wild_cat_rajesh",
         "star": 5,
         "power": 1214,
@@ -75519,6 +78888,9 @@ window.allHeroes =
         "source": "Mystery - Shadow Summon",
         "Release date": "2024-07-18",
         "specialId": "cuts_of_hulu",
+        "passiveSkills": [
+            "insanity_damage_reduction"
+        ],
         "heroId": "shadow_rashan",
         "star": 5,
         "power": 1141,
@@ -75594,6 +78966,10 @@ window.allHeroes =
         "source": "Tower - Magic",
         "Release date": "2023-05-03",
         "specialId": "blazing_slam_dunk",
+        "passiveSkills": [
+            "magic_mana_regen_stack_on_special",
+            "magic_add_mana_on_full_charge_to_not_blue"
+        ],
         "heroId": "magic_ray",
         "star": 5,
         "power": 890,
@@ -75682,6 +79058,13 @@ window.allHeroes =
         "source": "Tower - Magic",
         "Release date": "2025-07-23",
         "specialId": "blazing_slam_dunk",
+        "passiveSkills": [
+            "magic_mana_regen_stack_on_special_costume",
+            "magic_add_mana_on_full_charge_costume"
+        ],
+        "costumeBonusPassiveSkillIds": [
+            "reduce_big_minion_health"
+        ],
         "heroId": "magic_ray_costume_spiky",
         "star": 5,
         "power": 1222,
@@ -75762,6 +79145,7 @@ window.allHeroes =
         "source": "Challenge Festival I",
         "Release date": "2019-12-01",
         "specialId": "forest_friends",
+        "passiveSkills": null,
         "heroId": "fables_red_hood",
         "star": 5,
         "power": 767,
@@ -75833,6 +79217,10 @@ window.allHeroes =
         "source": "S7 - Treasures of Flame and Frost",
         "Release date": "2024-12-03",
         "specialId": "master_plan",
+        "passiveSkills": [
+            "molten_core",
+            "resist_burn_with_health_boost_and_mana"
+        ],
         "heroId": "tales2_regin",
         "star": 5,
         "power": 1165,
@@ -75910,6 +79298,9 @@ window.allHeroes =
         "source": "Legends Summon - Hero of the Month",
         "Release date": "2020-12-01",
         "specialId": "occult_redemption",
+        "passiveSkills": [
+            "resist_mana_generation_modifier_debuffs"
+        ],
         "heroId": "fire_god_reuben",
         "star": 5,
         "power": 782,
@@ -75975,6 +79366,10 @@ window.allHeroes =
         "source": "Monster Island Summon",
         "Release date": "2024-10-18",
         "specialId": "cloak_of_feathers",
+        "passiveSkills": [
+            "hunters_mark_on_special",
+            "special_damage_reduction_monster_hunters"
+        ],
         "heroId": "monster_hunter_revna",
         "star": 5,
         "power": 1143,
@@ -76043,6 +79438,9 @@ window.allHeroes =
         "source": "Goblin Summon",
         "Release date": "2024-03-18",
         "specialId": "goblin_explosives",
+        "passiveSkills": [
+            "goblin_damage_and_accuracy_debuff_on_special"
+        ],
         "heroId": "goblin_rocket",
         "star": 5,
         "power": 1020,
@@ -76116,6 +79514,7 @@ window.allHeroes =
         "source": "Mystery - Shadow Summon",
         "Release date": "2025-04-03",
         "specialId": "last_words",
+        "passiveSkills": null,
         "heroId": "shadow_rosanna",
         "star": 5,
         "power": 1182,
@@ -76181,6 +79580,10 @@ window.allHeroes =
         "source": "Legends Summon - Hero of the Month",
         "Release date": "2023-01-01",
         "specialId": "mana_scavange",
+        "passiveSkills": [
+            "mana_on_heal",
+            "eat_random_enemy_minions_with_mana_per_eaten_minion"
+        ],
         "heroId": "fire_god_roughian_and_nurgib",
         "star": 5,
         "power": 819,
@@ -76256,6 +79659,10 @@ window.allHeroes =
         "source": "Monster Island Summon",
         "Release date": "2024-06-26",
         "specialId": "scourge_of_the_strong",
+        "passiveSkills": [
+            "hunters_mark_on_special",
+            "special_damage_reduction_monster_hunters"
+        ],
         "heroId": "monster_hunter_ruadh",
         "star": 5,
         "power": 1128,
@@ -76334,6 +79741,7 @@ window.allHeroes =
         "source": "Tower - Ninjas",
         "Release date": "2021-11-10",
         "specialId": "crimson_calamity",
+        "passiveSkills": null,
         "heroId": "ninja_ruby",
         "star": 5,
         "power": 818,
@@ -76410,6 +79818,10 @@ window.allHeroes =
         "source": "Legends Summon - Hero of the Month",
         "Release date": "2021-10-01",
         "specialId": "sure_fire_combustion",
+        "passiveSkills": [
+            "mana_on_enemy_burn",
+            "resist_attack_modifier_debuffs"
+        ],
         "heroId": "fire_god_russell",
         "star": 5,
         "power": 795,
@@ -76483,6 +79895,9 @@ window.allHeroes =
         "source": "Covenant Summon",
         "Release date": "2024-08-20",
         "specialId": "cover_slam",
+        "passiveSkills": [
+            "reduced_healing_for_all_enemies"
+        ],
         "heroId": "fox_rust",
         "star": 5,
         "power": 1136,
@@ -76560,6 +79975,10 @@ window.allHeroes =
         "source": "Challenge Festival II",
         "Release date": "2024-12-12",
         "specialId": "magical_balan",
+        "passiveSkills": [
+            "set_dance_duration",
+            "set_ballad_duration"
+        ],
         "heroId": "bard_balafon",
         "star": 5,
         "power": 1151,
@@ -76634,6 +80053,7 @@ window.allHeroes =
         "source": "Monthly Event - Winter",
         "Release date": "2018-12-01",
         "specialId": "ultimate_giftsack",
+        "passiveSkills": null,
         "heroId": "christmas_santa",
         "star": 5,
         "power": 774,
@@ -76704,6 +80124,8 @@ window.allHeroes =
         "source": "Monthly Event - Winter",
         "Release date": "2021-12-01",
         "specialId": "ultimate_giftsack",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null,
         "heroId": "christmas_santa_costume_metal",
         "star": 5,
         "power": 1002,
@@ -76776,6 +80198,9 @@ window.allHeroes =
         "source": "Challenge Festival II",
         "Release date": "2021-08-05",
         "specialId": "fracturing_slash",
+        "passiveSkills": [
+            "resist_status_effect_damage"
+        ],
         "heroId": "slayer_saoirse",
         "star": 5,
         "power": 810,
@@ -76851,6 +80276,12 @@ window.allHeroes =
         "source": "Challenge Festival II",
         "Release date": "2024-11-14",
         "specialId": "fracturing_slash",
+        "passiveSkills": [
+            "resist_status_effect_damage"
+        ],
+        "costumeBonusPassiveSkillIds": [
+            "extra_special_bleed"
+        ],
         "heroId": "slayer_saoirse_costume_knight",
         "star": 5,
         "power": 1212,
@@ -76926,6 +80357,10 @@ window.allHeroes =
         "source": "Covenant Summon",
         "Release date": "2024-05-19",
         "specialId": "cauterizing_touch",
+        "passiveSkills": [
+            "corrosive_core",
+            "resist_special_blocking"
+        ],
         "heroId": "construct_scoria",
         "star": 5,
         "power": 1049,
@@ -76996,6 +80431,11 @@ window.allHeroes =
         "source": "Astral Summon",
         "Release date": "2025-07-27",
         "specialId": "light_my_fire",
+        "passiveSkills": [
+            "never_miss_special",
+            "resist_negative_minion_and_mega_minion_effects",
+            "bypass_minions_and_mega_minions"
+        ],
         "heroId": "astral_dwarf_sedille",
         "star": 5,
         "power": 1223,
@@ -77068,6 +80508,9 @@ window.allHeroes =
         "source": "S5 - Dune",
         "Release date": "2022-09-01",
         "specialId": "pounce_of_the_lioness",
+        "passiveSkills": [
+            "sun_extra_special_damage_and_attack_debuff"
+        ],
         "heroId": "s5_sekhmet",
         "star": 5,
         "power": 863,
@@ -77126,6 +80569,13 @@ window.allHeroes =
         "source": "S5 - Dune",
         "Release date": "2025-03-17",
         "specialId": "pounce_of_the_lioness",
+        "passiveSkills": [
+            "sun_extra_special_damage_and_attack_debuff"
+        ],
+        "costumeBonusPassiveSkillIds": [
+            "mana_on_enemy_health_boost_special",
+            "iterate_passive_effects_on_special"
+        ],
         "heroId": "s5_sekhmet_costume_warden",
         "star": 5,
         "power": 1206,
@@ -77189,6 +80639,7 @@ window.allHeroes =
         "source": "Tower - Ninjas",
         "Release date": "2023-01-11",
         "specialId": "burning_ashes",
+        "passiveSkills": null,
         "heroId": "ninja_serandite",
         "star": 5,
         "power": 867,
@@ -77263,6 +80714,10 @@ window.allHeroes =
         "source": "Legends Summon - Hero of the Month",
         "Release date": "2023-06-01",
         "specialId": "halting_counter_strike",
+        "passiveSkills": [
+            "resist_special_blocking",
+            "resist_defense_modifier_debuffs"
+        ],
         "heroId": "fire_god_skargremar",
         "star": 5,
         "power": 824,
@@ -77335,6 +80790,10 @@ window.allHeroes =
         "source": "Astral Summon",
         "Release date": "2023-11-21",
         "specialId": "enchanted_elven_sword",
+        "passiveSkills": [
+            "share_received_damage",
+            "resist_poison"
+        ],
         "heroId": "astral_sparklight",
         "star": 5,
         "power": 1012,
@@ -77409,6 +80868,7 @@ window.allHeroes =
         "source": "Three Kingdoms Summon",
         "Release date": "2022-09-12",
         "specialId": "command_to_advance",
+        "passiveSkills": null,
         "heroId": "kingdom_sun_quan",
         "star": 5,
         "power": 838,
@@ -77476,6 +80936,10 @@ window.allHeroes =
         "source": "Three Kingdoms Summon",
         "Release date": "2024-11-30",
         "specialId": "command_to_advance",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": [
+            "kingdom_unstoppable_minions"
+        ],
         "heroId": "kingdom_sun_quan_costume_fire_bat",
         "star": 5,
         "power": 1110,
@@ -77549,6 +81013,10 @@ window.allHeroes =
         "source": "Legends Summon - Hero of the Month",
         "Release date": "2022-08-01",
         "specialId": "hunters_mark",
+        "passiveSkills": [
+            "heal_on_debuff_tahir",
+            "resist_bleed"
+        ],
         "heroId": "fire_god_tahir",
         "star": 5,
         "power": 810,
@@ -77620,6 +81088,9 @@ window.allHeroes =
         "source": "S5 - Dune",
         "Release date": "2022-10-27",
         "specialId": "ancient_spell",
+        "passiveSkills": [
+            "moon_extra_special_damage_and_dispel_latest_buff"
+        ],
         "heroId": "s5_tetisheri",
         "star": 5,
         "power": 864,
@@ -77689,6 +81160,13 @@ window.allHeroes =
         "source": "S5 - Dune",
         "Release date": "2024-05-27",
         "specialId": "ancient_spell",
+        "passiveSkills": [
+            "moon_extra_special_damage_and_dispel_latest_buff"
+        ],
+        "costumeBonusPassiveSkillIds": [
+            "mana_on_debuff",
+            "iterate_passive_effects_on_special"
+        ],
         "heroId": "s5_tetisheri_costume_molten",
         "star": 5,
         "power": 1207,
@@ -77760,6 +81238,7 @@ window.allHeroes =
         "source": "Monthly Event - Springvale",
         "Release date": "2024-03-18",
         "specialId": "adventure_awaits",
+        "passiveSkills": null,
         "heroId": "easter_timothy",
         "star": 5,
         "power": 999,
@@ -77827,6 +81306,9 @@ window.allHeroes =
         "source": "Alliance - Knights Clash",
         "Release date": "2023-10-18",
         "specialId": "mark_the_prey",
+        "passiveSkills": [
+            "heal_on_buff_alliance_quest_family"
+        ],
         "heroId": "castle_bear_torben",
         "star": 5,
         "power": 980,
@@ -77895,6 +81377,7 @@ window.allHeroes =
         "source": "S3 - Valhalla",
         "Release date": "2020-02-28",
         "specialId": "adamantite_claw",
+        "passiveSkills": null,
         "heroId": "s3_tyr",
         "star": 5,
         "power": 790,
@@ -77968,6 +81451,8 @@ window.allHeroes =
         "source": "S3 - Valhalla",
         "Release date": "2023-02-13",
         "specialId": "adamantite_claw",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null,
         "heroId": "s3_tyr_costume_savage",
         "star": 5,
         "power": 989,
@@ -78044,6 +81529,9 @@ window.allHeroes =
         "source": "Monthly Event - Kalevala",
         "Release date": "2023-08-07",
         "specialId": "chords_of_distortion",
+        "passiveSkills": [
+            "heal_mana_on_low_health_once"
+        ],
         "heroId": "kalevala_ukkonen",
         "star": 5,
         "power": 917,
@@ -78116,6 +81604,10 @@ window.allHeroes =
         "source": "Monthly Event - Kalevala",
         "Release date": "2024-07-22",
         "specialId": "chords_of_distortion",
+        "passiveSkills": [
+            "heal_mana_on_low_health_once"
+        ],
+        "costumeBonusPassiveSkillIds": null,
         "heroId": "kalevala_ukkonen_costume_ukkonen_infernal",
         "star": 5,
         "power": 1189,
@@ -78187,6 +81679,9 @@ window.allHeroes =
         "source": "Monthly Event - Morlovia",
         "Release date": "2020-10-26",
         "specialId": "twilight_of_sorrow",
+        "passiveSkills": [
+            "halloween_steal_buff_or_deal_damage"
+        ],
         "heroId": "halloween_vanda",
         "star": 5,
         "power": 795,
@@ -78256,6 +81751,10 @@ window.allHeroes =
         "source": "Monthly Event - Morlovia",
         "Release date": "2021-10-04",
         "specialId": "twilight_of_sorrow",
+        "passiveSkills": [
+            "halloween_steal_buff_or_deal_damage"
+        ],
+        "costumeBonusPassiveSkillIds": null,
         "heroId": "halloween_vanda_costume_mafia",
         "star": 5,
         "power": 944,
@@ -78323,6 +81822,11 @@ window.allHeroes =
         "source": "Goblin Summon",
         "Release date": "2024-04-15",
         "specialId": "sense_of_wonder",
+        "passiveSkills": [
+            "remove_wither_from_allies",
+            "resist_direct_mana_reductions",
+            "mana_on_debuff"
+        ],
         "heroId": "garrison_vanya",
         "star": 5,
         "power": 1075,
@@ -78395,6 +81899,9 @@ window.allHeroes =
         "source": "S4 - Wilderness",
         "Release date": "2022-12-08",
         "specialId": "xenda_special",
+        "passiveSkills": [
+            "special_damage_reduction"
+        ],
         "heroId": "s4_xenda",
         "star": 5,
         "power": 852,
@@ -78467,6 +81974,12 @@ window.allHeroes =
         "source": "S4 - Wilderness",
         "Release date": "2024-05-23",
         "specialId": "xenda_special",
+        "passiveSkills": [
+            "special_damage_reduction"
+        ],
+        "costumeBonusPassiveSkillIds": [
+            "extra_special_increased_damage_against_boosted_health"
+        ],
         "heroId": "s4_xenda_costume_flame",
         "star": 5,
         "power": 1081,
@@ -78537,6 +82050,9 @@ window.allHeroes =
         "source": "Monthly Event - Lunar Year",
         "Release date": "2023-01-19",
         "specialId": "reverse_recovery",
+        "passiveSkills": [
+            "enemy_minion_follower_silencer"
+        ],
         "heroId": "lunar_new_year_xiaotu",
         "star": 5,
         "power": 862,
@@ -78599,6 +82115,10 @@ window.allHeroes =
         "source": "Three Kingdoms Summon",
         "Release date": "2023-10-09",
         "specialId": "peach_of_immortality",
+        "passiveSkills": [
+            "heal_on_buff_with_chance",
+            "mana_on_buff_with_chance"
+        ],
         "heroId": "journey_xiwangmu",
         "star": 5,
         "power": 947,
@@ -78661,6 +82181,10 @@ window.allHeroes =
         "source": "Legends Summon - Hero of the Month",
         "Release date": "2021-05-01",
         "specialId": "flaming_fury",
+        "passiveSkills": [
+            "attack_buff_on_mana_reduction",
+            "resist_water"
+        ],
         "heroId": "fire_god_yang_mai",
         "star": 5,
         "power": 790,
@@ -78729,6 +82253,11 @@ window.allHeroes =
         "source": "Wilderness Summon",
         "Release date": "2025-03-26",
         "specialId": "captivating_illusions",
+        "passiveSkills": [
+            "resist_negative_attack_modifiers_including_wither",
+            "resist_insanity",
+            "minion_and_mega_minion_accuracy_modifier"
+        ],
         "heroId": "faun_yolanda",
         "star": 5,
         "power": 1171,
@@ -78801,6 +82330,10 @@ window.allHeroes =
         "source": "Legends Summon - Hero of the Month",
         "Release date": "2022-03-01",
         "specialId": "indifferent_blade",
+        "passiveSkills": [
+            "resist_all_attack_modifiers",
+            "resist_all_mana_debuffs"
+        ],
         "heroId": "fire_god_zagrog",
         "star": 5,
         "power": 805,
@@ -78872,6 +82405,10 @@ window.allHeroes =
         "source": "Legends Summon - Hero of the Month",
         "Release date": "2024-04-01",
         "specialId": "thousand_cuts",
+        "passiveSkills": [
+            "mana_on_bleed",
+            "heal_on_enemy_bleed"
+        ],
         "heroId": "fire_god_zarga",
         "star": 5,
         "power": 973,
@@ -78941,6 +82478,9 @@ window.allHeroes =
         "source": "Super Elementals",
         "Release date": "2023-10-09",
         "specialId": "cataclysmic_divination",
+        "passiveSkills": [
+            "strong_troop_damage_modifier"
+        ],
         "heroId": "elemental_zaria",
         "star": 5,
         "power": 961,
@@ -79010,6 +82550,9 @@ window.allHeroes =
         "source": "S4 - Wilderness",
         "Release date": "2021-09-09",
         "specialId": "dual_sting",
+        "passiveSkills": [
+            "increase_buff_duration"
+        ],
         "heroId": "s4_zenobia",
         "star": 5,
         "power": 809,
@@ -79075,6 +82618,12 @@ window.allHeroes =
         "source": "S4 - Wilderness",
         "Release date": "2024-02-29",
         "specialId": "dual_sting",
+        "passiveSkills": [
+            "increase_buff_duration"
+        ],
+        "costumeBonusPassiveSkillIds": [
+            "extra_special_increased_damage_against_boosted_health"
+        ],
         "heroId": "s4_zenobia_costume_floral",
         "star": 5,
         "power": 1024,
@@ -79139,6 +82688,10 @@ window.allHeroes =
         "source": "Legends Summon - Hero of the Month",
         "Release date": "2024-10-01",
         "specialId": "trick_of_the_trade",
+        "passiveSkills": [
+            "resist_buff_immunity",
+            "increased_attack_per_enemies_not_red_zidane"
+        ],
         "heroId": "fire_god_zidane",
         "star": 5,
         "power": 1025,
@@ -79220,6 +82773,7 @@ window.allHeroes =
         "source": "Legends Summon - Hero of the Month",
         "Release date": "2018-11-01",
         "specialId": "dawn_strike",
+        "passiveSkills": null,
         "heroId": "fire_god_zimkitha",
         "star": 5,
         "power": 769,
@@ -79287,6 +82841,10 @@ window.allHeroes =
         "source": "Legends Summon - Hero of the Month",
         "Release date": "2023-03-20",
         "specialId": "dawn_strike",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": [
+            "extra_special_dispel_newest"
+        ],
         "heroId": "fire_god_zimkitha_costume_adventurer",
         "star": 5,
         "power": 979,
@@ -79352,6 +82910,7 @@ window.allHeroes =
         "source": "S1 - Classic",
         "Release date": "2017-03-01",
         "specialId": "backstab",
+        "passiveSkills": null,
         "heroId": "oriental_female_ninja",
         "star": 1,
         "power": 213,
@@ -79384,6 +82943,7 @@ window.allHeroes =
         "source": "S1 - Classic",
         "Release date": "2017-03-01",
         "specialId": "fierce_slash",
+        "passiveSkills": null,
         "heroId": "oriental_warrior",
         "star": 1,
         "power": 211,
@@ -79416,6 +82976,7 @@ window.allHeroes =
         "source": "S1 - Classic",
         "Release date": "2017-03-01",
         "specialId": "defensive_tactics",
+        "passiveSkills": null,
         "heroId": "oriental_monkey_warrior",
         "star": 2,
         "power": 336,
@@ -79450,6 +83011,7 @@ window.allHeroes =
         "source": "S1 - Classic",
         "Release date": "2017-03-01",
         "specialId": "stunning_blow",
+        "passiveSkills": null,
         "heroId": "oriental_squire",
         "star": 2,
         "power": 335,
@@ -79483,6 +83045,7 @@ window.allHeroes =
         "source": "S1 - Classic",
         "Release date": "2017-03-01",
         "specialId": "healing_chant",
+        "passiveSkills": null,
         "heroId": "oriental_panda_scout",
         "star": 2,
         "power": 334,
@@ -79516,6 +83079,7 @@ window.allHeroes =
         "source": "S3 - Valhalla",
         "Release date": "2020-05-28",
         "specialId": "precise_chop",
+        "passiveSkills": null,
         "heroId": "s3_agnes",
         "star": 3,
         "power": 464,
@@ -79578,6 +83142,7 @@ window.allHeroes =
         "source": "Monthly Event - Sand Empire",
         "Release date": "2018-06-21",
         "specialId": "soldiers_curse",
+        "passiveSkills": null,
         "heroId": "sand_soldier",
         "star": 3,
         "power": 448,
@@ -79641,6 +83206,7 @@ window.allHeroes =
         "source": "S1 - Classic",
         "Release date": "2017-03-01",
         "specialId": "harmonic_slam",
+        "passiveSkills": null,
         "heroId": "oriental_brawler",
         "star": 3,
         "power": 440,
@@ -79699,6 +83265,8 @@ window.allHeroes =
         "source": "Costume Quest",
         "Release date": "2020-01-01",
         "specialId": "harmonic_slam",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null,
         "heroId": "oriental_brawler_costume_egypt",
         "star": 3,
         "power": 469,
@@ -79758,6 +83326,10 @@ window.allHeroes =
         "source": "Costume Quest",
         "Release date": "2024-03-11",
         "specialId": "harmonic_slam",
+        "passiveSkills": [
+            "toon_resist_debuffs_manareduction_dispels"
+        ],
+        "costumeBonusPassiveSkillIds": null,
         "heroId": "oriental_brawler_costume_cute",
         "star": 3,
         "power": 502,
@@ -79826,6 +83398,10 @@ window.allHeroes =
         "source": "Costume Quest",
         "Release date": "2025-05-10",
         "specialId": "harmonic_slam",
+        "passiveSkills": [
+            "glass_reflect_debuffs"
+        ],
+        "costumeBonusPassiveSkillIds": null,
         "heroId": "oriental_brawler_costume_glass",
         "star": 3,
         "power": 511,
@@ -79890,6 +83466,7 @@ window.allHeroes =
         "source": "Alliance - Knights Clash",
         "Release date": "2021-10-13",
         "specialId": "magnificent_meal",
+        "passiveSkills": null,
         "heroId": "castle_wolf_bertulf",
         "star": 3,
         "power": 480,
@@ -79942,6 +83519,7 @@ window.allHeroes =
         "source": "Challenge Festival II",
         "Release date": "2021-06-10",
         "specialId": "whimsical_aid",
+        "passiveSkills": null,
         "heroId": "circus_candy",
         "star": 3,
         "power": 477,
@@ -79999,6 +83577,10 @@ window.allHeroes =
         "source": "Monster Island Summon",
         "Release date": "2023-05-06",
         "specialId": "titanbone_chain_slash",
+        "passiveSkills": [
+            "hunters_mark_on_special",
+            "attack_modifier_on_special"
+        ],
         "heroId": "monster_hunter_cedar",
         "star": 3,
         "power": 487,
@@ -80067,6 +83649,7 @@ window.allHeroes =
         "source": "Mystery - Shadow Summon",
         "Release date": "2025-01-09",
         "specialId": "brain_link",
+        "passiveSkills": null,
         "heroId": "shadow_cthuwu",
         "star": 3,
         "power": 501,
@@ -80126,6 +83709,7 @@ window.allHeroes =
         "source": "S1 - Classic",
         "Release date": "2017-03-01",
         "specialId": "leaping_attack",
+        "passiveSkills": null,
         "heroId": "oriental_female_guard",
         "star": 3,
         "power": 440,
@@ -80178,6 +83762,8 @@ window.allHeroes =
         "source": "Costume Quest",
         "Release date": "2021-01-18",
         "specialId": "leaping_attack",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null,
         "heroId": "oriental_female_guard_costume_soldier",
         "star": 3,
         "power": 469,
@@ -80236,6 +83822,10 @@ window.allHeroes =
         "source": "Costume Quest",
         "Release date": "2024-08-11",
         "specialId": "leaping_attack",
+        "passiveSkills": [
+            "toon_resist_debuffs_manareduction_dispels"
+        ],
+        "costumeBonusPassiveSkillIds": null,
         "heroId": "oriental_female_guard_costume_cute",
         "star": 3,
         "power": 502,
@@ -80299,6 +83889,10 @@ window.allHeroes =
         "source": "Monthly Event - Beach Party",
         "Release date": "2023-06-12",
         "specialId": "sunscreen_blast",
+        "passiveSkills": [
+            "resist_water",
+            "underwater_on_special_beach"
+        ],
         "heroId": "beachparty_dolrak",
         "star": 3,
         "power": 486,
@@ -80364,6 +83958,10 @@ window.allHeroes =
         "source": "Monster Island Summon",
         "Release date": "2022-10-15",
         "specialId": "nomadic_hymn",
+        "passiveSkills": [
+            "hunters_mark_on_special",
+            "special_damage_reduction_monster_hunters"
+        ],
         "heroId": "monster_hunter_edelaide",
         "star": 3,
         "power": 484,
@@ -80433,6 +84031,9 @@ window.allHeroes =
         "source": "Alliance - Musketeers",
         "Release date": "2023-03-08",
         "specialId": "covert_stab",
+        "passiveSkills": [
+            "damage_all_enemies_on_cover_or_special_damage_received"
+        ],
         "heroId": "musketeer_felton",
         "star": 3,
         "power": 486,
@@ -80501,6 +84102,7 @@ window.allHeroes =
         "source": "S1 - Classic",
         "Release date": "2017-03-01",
         "specialId": "mystic_chop",
+        "passiveSkills": null,
         "heroId": "oriental_panda_berserker",
         "star": 3,
         "power": 443,
@@ -80559,6 +84161,8 @@ window.allHeroes =
         "source": "Costume Quest",
         "Release date": "2021-01-18",
         "specialId": "mystic_chop",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null,
         "heroId": "oriental_panda_berserker_costume_farmer",
         "star": 3,
         "power": 474,
@@ -80618,6 +84222,10 @@ window.allHeroes =
         "source": "Costume Quest",
         "Release date": "2023-12-25",
         "specialId": "mystic_chop",
+        "passiveSkills": [
+            "toon_resist_debuffs_manareduction_dispels"
+        ],
+        "costumeBonusPassiveSkillIds": null,
         "heroId": "oriental_panda_berserker_costume_cute",
         "star": 3,
         "power": 507,
@@ -80682,6 +84290,10 @@ window.allHeroes =
         "source": "Costume Quest",
         "Release date": "2024-12-25",
         "specialId": "mystic_chop",
+        "passiveSkills": [
+            "glass_reflect_debuffs"
+        ],
+        "costumeBonusPassiveSkillIds": null,
         "heroId": "oriental_panda_berserker_costume_glass",
         "star": 3,
         "power": 516,
@@ -80745,6 +84357,9 @@ window.allHeroes =
         "source": "S6 - Mysteries of the Deep",
         "Release date": "2023-07-05",
         "specialId": "dubious_merchandise",
+        "passiveSkills": [
+            "tales1_extra_special_damage_and_add_critical"
+        ],
         "heroId": "tales1_jaco",
         "star": 3,
         "power": 486,
@@ -80813,6 +84428,12 @@ window.allHeroes =
         "source": "S6 - Mysteries of the Deep",
         "Release date": "2025-02-03",
         "specialId": "dubious_merchandise",
+        "passiveSkills": [
+            "tales1_extra_special_damage_and_add_critical"
+        ],
+        "costumeBonusPassiveSkillIds": [
+            "resist_insanity"
+        ],
         "heroId": "tales1_jaco_costume_alchemist",
         "star": 3,
         "power": 497,
@@ -80885,6 +84506,7 @@ window.allHeroes =
         "source": "Monthly Event - Winter",
         "Release date": "2023-12-01",
         "specialId": "birch_blessing",
+        "passiveSkills": null,
         "heroId": "christmas_jolly",
         "star": 3,
         "power": 487,
@@ -80951,6 +84573,7 @@ window.allHeroes =
         "source": "S1 - Classic",
         "Release date": "2017-03-01",
         "specialId": "stone_skin",
+        "passiveSkills": null,
         "heroId": "oriental_female_mage",
         "star": 3,
         "power": 444,
@@ -81005,6 +84628,8 @@ window.allHeroes =
         "source": "Costume Quest",
         "Release date": "2021-01-18",
         "specialId": "stone_skin",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null,
         "heroId": "oriental_female_mage_costume_mender",
         "star": 3,
         "power": 473,
@@ -81059,6 +84684,10 @@ window.allHeroes =
         "source": "Costume Quest",
         "Release date": "2024-02-12",
         "specialId": "stone_skin",
+        "passiveSkills": [
+            "toon_resist_debuffs_manareduction_dispels"
+        ],
+        "costumeBonusPassiveSkillIds": null,
         "heroId": "oriental_female_mage_costume_cute",
         "star": 3,
         "power": 506,
@@ -81118,6 +84747,10 @@ window.allHeroes =
         "source": "Costume Quest",
         "Release date": "2025-03-11",
         "specialId": "stone_skin",
+        "passiveSkills": [
+            "glass_reflect_debuffs"
+        ],
+        "costumeBonusPassiveSkillIds": null,
         "heroId": "oriental_female_mage_costume_glass",
         "star": 3,
         "power": 514,
@@ -81174,6 +84807,7 @@ window.allHeroes =
         "source": "Tower - Ninjas",
         "Release date": "2023-01-11",
         "specialId": "lightning_stream",
+        "passiveSkills": null,
         "heroId": "ninja_kinsaishi",
         "star": 3,
         "power": 486,
@@ -81236,6 +84870,7 @@ window.allHeroes =
         "source": "S3 - Valhalla",
         "Release date": "2020-02-27",
         "specialId": "bee_bravado",
+        "passiveSkills": null,
         "heroId": "s3_kvasir",
         "star": 3,
         "power": 461,
@@ -81302,6 +84937,8 @@ window.allHeroes =
         "source": "S3 - Valhalla",
         "Release date": "2022-07-04",
         "specialId": "bee_bravado",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null,
         "heroId": "s3_kvasir_costume_captain",
         "star": 3,
         "power": 477,
@@ -81368,6 +85005,7 @@ window.allHeroes =
         "source": "S2 - Atlantis",
         "Release date": "2019-08-01",
         "specialId": "atlantean_blade",
+        "passiveSkills": null,
         "heroId": "s2_merwoman",
         "star": 3,
         "power": 450,
@@ -81426,6 +85064,8 @@ window.allHeroes =
         "source": "S2 - Atlantis",
         "Release date": "2022-05-02",
         "specialId": "atlantean_blade",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null,
         "heroId": "s2_merwoman_costume_emissary",
         "star": 3,
         "power": 464,
@@ -81486,6 +85126,9 @@ window.allHeroes =
         "source": "Tower - Owls",
         "Release date": "2023-12-20",
         "specialId": "owls_blessing",
+        "passiveSkills": [
+            "mana_generation_modifier_all_enemies_stronger"
+        ],
         "heroId": "owl_paeia",
         "star": 3,
         "power": 489,
@@ -81544,6 +85187,7 @@ window.allHeroes =
         "source": "Challenge Festival I",
         "Release date": "2019-12-01",
         "specialId": "pixie_dust",
+        "passiveSkills": null,
         "heroId": "fables_pixie",
         "star": 3,
         "power": 455,
@@ -81601,6 +85245,9 @@ window.allHeroes =
         "source": "S4 - Wilderness",
         "Release date": "2021-03-25",
         "specialId": "ricochet_bolt",
+        "passiveSkills": [
+            "increase_special_damage"
+        ],
         "heroId": "s4_poppy",
         "star": 3,
         "power": 478,
@@ -81656,6 +85303,10 @@ window.allHeroes =
         "source": "S4 - Wilderness",
         "Release date": "2024-02-29",
         "specialId": "ricochet_bolt",
+        "passiveSkills": [
+            "increase_special_damage"
+        ],
+        "costumeBonusPassiveSkillIds": null,
         "heroId": "s4_poppy_costume_lodger",
         "star": 3,
         "power": 488,
@@ -81712,6 +85363,9 @@ window.allHeroes =
         "source": "S5 - Dune",
         "Release date": "2022-04-21",
         "specialId": "puzzling_riddle",
+        "passiveSkills": [
+            "sun_extra_special_heal_and_cleanse_latest_debuff"
+        ],
         "heroId": "s5_rekhetre",
         "star": 3,
         "power": 483,
@@ -81775,6 +85429,13 @@ window.allHeroes =
         "source": "S5 - Dune",
         "Release date": "2025-02-17",
         "specialId": "puzzling_riddle",
+        "passiveSkills": [
+            "sun_extra_special_heal_and_cleanse_latest_debuff"
+        ],
+        "costumeBonusPassiveSkillIds": [
+            "heal_on_buff",
+            "guaranteed_passive_effects_on_special"
+        ],
         "heroId": "s5_rekhetre_costume_artist",
         "star": 3,
         "power": 494,
@@ -81842,6 +85503,10 @@ window.allHeroes =
         "source": "Challenge Festival II",
         "Release date": "2022-11-03",
         "specialId": "amphibian_sword_sting",
+        "passiveSkills": [
+            "heal_and_add_mana_on_ally_minion",
+            "damage_enemies_on_enemy_parasite"
+        ],
         "heroId": "mighty_pet_ribbit",
         "star": 3,
         "power": 484,
@@ -81913,6 +85578,10 @@ window.allHeroes =
         "source": "Covenant Summon",
         "Release date": "2024-04-25",
         "specialId": "swooping_support",
+        "passiveSkills": [
+            "repair_core",
+            "resist_special_blocking"
+        ],
         "heroId": "construct_rustbeak",
         "star": 3,
         "power": 495,
@@ -81978,6 +85647,7 @@ window.allHeroes =
         "source": "Challenge Festival I",
         "Release date": "2021-12-15",
         "specialId": "piercing_sabre",
+        "passiveSkills": null,
         "heroId": "pirate_sally",
         "star": 3,
         "power": 481,
@@ -82034,6 +85704,11 @@ window.allHeroes =
         "source": "Wilderness Summon",
         "Release date": "2024-08-31",
         "specialId": "rejuvenating_leap",
+        "passiveSkills": [
+            "resist_negative_defense_modifiers_including_wither",
+            "resist_insanity",
+            "minion_and_mega_minion_accuracy_modifier"
+        ],
         "heroId": "faun_saskia",
         "star": 3,
         "power": 496,
@@ -82101,6 +85776,10 @@ window.allHeroes =
         "source": "Challenge - Beowulf",
         "Release date": "2025-02-13",
         "specialId": "wise_mans_counsel",
+        "passiveSkills": [
+            "mana_on_debuff",
+            "resist_mana_reductions_with_health_boost_and_mana"
+        ],
         "heroId": "beowulf_aeschere",
         "star": 4,
         "power": 722,
@@ -82171,6 +85850,9 @@ window.allHeroes =
         "source": "Tower - Magic",
         "Release date": "2021-09-15",
         "specialId": "cheerful_charm",
+        "passiveSkills": [
+            "magic_mana_regen_debuff_on_special"
+        ],
         "heroId": "magic_anastasia",
         "star": 4,
         "power": 678,
@@ -82237,6 +85919,9 @@ window.allHeroes =
         "source": "Challenge - Gargoyle",
         "Release date": "2022-05-12",
         "specialId": "sanction_for_heresy",
+        "passiveSkills": [
+            "gargoyle_stone"
+        ],
         "heroId": "gargoyle_bellerive",
         "star": 4,
         "power": 682,
@@ -82299,6 +85984,10 @@ window.allHeroes =
         "source": "Monster Island Summon",
         "Release date": "2022-12-24",
         "specialId": "bone_club_clonk",
+        "passiveSkills": [
+            "hunters_mark_on_special",
+            "monster_hunter_reallocate_debuff_or_heal"
+        ],
         "heroId": "monster_hunter_bogart",
         "star": 4,
         "power": 686,
@@ -82360,6 +86049,7 @@ window.allHeroes =
         "source": "S1 - Classic",
         "Release date": "2017-03-01",
         "specialId": "tactical_cut",
+        "passiveSkills": null,
         "heroId": "oriental_falconer",
         "star": 4,
         "power": 642,
@@ -82419,6 +86109,8 @@ window.allHeroes =
         "source": "Costume Quest",
         "Release date": "2021-01-18",
         "specialId": "tactical_cut",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null,
         "heroId": "oriental_falconer_costume_dodo",
         "star": 4,
         "power": 686,
@@ -82477,6 +86169,8 @@ window.allHeroes =
         "source": "Costume Quest",
         "Release date": "2023-10-30",
         "specialId": "tactical_cut",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null,
         "heroId": "oriental_falconer_costume_cub",
         "star": 4,
         "power": 733,
@@ -82536,6 +86230,10 @@ window.allHeroes =
         "source": "Costume Quest",
         "Release date": "2024-06-28",
         "specialId": "tactical_cut",
+        "passiveSkills": [
+            "toon_resist_debuffs_manareduction_dispels"
+        ],
+        "costumeBonusPassiveSkillIds": null,
         "heroId": "oriental_falconer_costume_cute",
         "star": 4,
         "power": 745,
@@ -82600,6 +86298,10 @@ window.allHeroes =
         "source": "Costume Quest",
         "Release date": "2025-07-16",
         "specialId": "tactical_cut",
+        "passiveSkills": [
+            "glass_reflect_debuffs"
+        ],
+        "costumeBonusPassiveSkillIds": null,
         "heroId": "oriental_falconer_costume_glass",
         "star": 4,
         "power": 757,
@@ -82668,6 +86370,7 @@ window.allHeroes =
         "source": "Challenge Festival II",
         "Release date": "2021-06-10",
         "specialId": "vitalizing_show",
+        "passiveSkills": null,
         "heroId": "circus_dandre",
         "star": 4,
         "power": 676,
@@ -82730,6 +86433,7 @@ window.allHeroes =
         "source": "S2 - Atlantis",
         "Release date": "2019-08-01",
         "specialId": "tricksters_exchange",
+        "passiveSkills": null,
         "heroId": "s2_tanuki_raccoon",
         "star": 4,
         "power": 652,
@@ -82811,6 +86515,8 @@ window.allHeroes =
         "source": "S2 - Atlantis",
         "Release date": "2023-02-06",
         "specialId": "tricksters_exchange",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null,
         "heroId": "s2_tanuki_raccoon_costume_merchant",
         "star": 4,
         "power": 674,
@@ -82892,6 +86598,11 @@ window.allHeroes =
         "source": "Astral Summon",
         "Release date": "2025-06-04",
         "specialId": "mischievous_tiein",
+        "passiveSkills": [
+            "eat_fiends_on_special_cast",
+            "resist_negative_minion_and_mega_minion_effects",
+            "bypass_minions_and_mega_minions"
+        ],
         "heroId": "astral_dwarf_errin",
         "star": 4,
         "power": 742,
@@ -82960,6 +86671,10 @@ window.allHeroes =
         "source": "S7 - Treasures of Flame and Frost",
         "Release date": "2024-12-03",
         "specialId": "poetic_justice",
+        "passiveSkills": [
+            "molten_core",
+            "resist_burn_with_health_boost_and_mana"
+        ],
         "heroId": "tales2_fjalar",
         "star": 4,
         "power": 707,
@@ -83034,6 +86749,9 @@ window.allHeroes =
         "source": "Goblin Summon",
         "Release date": "2023-09-18",
         "specialId": "magic_mirror_of_power",
+        "passiveSkills": [
+            "goblin_damage_and_accuracy_debuff_on_special"
+        ],
         "heroId": "goblin_goldie",
         "star": 4,
         "power": 688,
@@ -83099,6 +86817,7 @@ window.allHeroes =
         "source": "Challenge Festival I",
         "Release date": "2018-06-01",
         "specialId": "witch_slayer",
+        "passiveSkills": null,
         "heroId": "fables_gretel",
         "star": 4,
         "power": 646,
@@ -83163,6 +86882,9 @@ window.allHeroes =
         "source": "S4 - Wilderness",
         "Release date": "2021-03-25",
         "specialId": "invisible_strike",
+        "passiveSkills": [
+            "increase_special_damage"
+        ],
         "heroId": "s4_griffin",
         "star": 4,
         "power": 677,
@@ -83223,6 +86945,10 @@ window.allHeroes =
         "source": "S4 - Wilderness",
         "Release date": "2023-11-09",
         "specialId": "invisible_strike",
+        "passiveSkills": [
+            "increase_special_damage"
+        ],
+        "costumeBonusPassiveSkillIds": null,
         "heroId": "s4_griffin_costume_priest",
         "star": 4,
         "power": 692,
@@ -83286,6 +87012,11 @@ window.allHeroes =
         "source": "Three Kingdoms Summon",
         "Release date": "2025-05-22",
         "specialId": "intimidating_stance",
+        "passiveSkills": [
+            "resist_bleed",
+            "righteous_rebellion_parent",
+            "cleanse_on_special_critical_damage_all_safe"
+        ],
         "heroId": "outlaw_gu_dasao",
         "star": 4,
         "power": 737,
@@ -83359,6 +87090,7 @@ window.allHeroes =
         "source": "Challenge Festival I",
         "Release date": "2017-10-05",
         "specialId": "ray_strike",
+        "passiveSkills": null,
         "heroId": "guardian_jackal_assassin",
         "star": 4,
         "power": 645,
@@ -83417,6 +87149,8 @@ window.allHeroes =
         "source": "Challenge Festival I",
         "Release date": "2023-01-26",
         "specialId": "ray_strike",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null,
         "heroId": "guardian_jackal_assassin_costume_bones",
         "star": 4,
         "power": 680,
@@ -83476,6 +87210,7 @@ window.allHeroes =
         "source": "S3 - Valhalla",
         "Release date": "2020-05-28",
         "specialId": "angry_boar",
+        "passiveSkills": null,
         "heroId": "s3_gullinbursti",
         "star": 4,
         "power": 662,
@@ -83540,6 +87275,8 @@ window.allHeroes =
         "source": "S3 - Valhalla",
         "Release date": "2022-07-04",
         "specialId": "angry_boar",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null,
         "heroId": "s3_gullinbursti_costume_toxic",
         "star": 4,
         "power": 685,
@@ -83606,6 +87343,7 @@ window.allHeroes =
         "source": "Monthly Event - Winter",
         "Release date": "2022-12-01",
         "specialId": "hearty_stew",
+        "passiveSkills": null,
         "heroId": "christmas_holly",
         "star": 4,
         "power": 684,
@@ -83672,6 +87410,7 @@ window.allHeroes =
         "source": "S1 - Classic",
         "Release date": "2017-03-01",
         "specialId": "sonic_wall",
+        "passiveSkills": null,
         "heroId": "oriental_panda_warrior",
         "star": 4,
         "power": 638,
@@ -83733,6 +87472,8 @@ window.allHeroes =
         "source": "Costume Quest",
         "Release date": "2021-01-18",
         "specialId": "sonic_wall",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null,
         "heroId": "oriental_panda_warrior_costume_armor",
         "star": 4,
         "power": 683,
@@ -83795,6 +87536,8 @@ window.allHeroes =
         "source": "Costume Quest",
         "Release date": "2023-11-27",
         "specialId": "sonic_wall",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null,
         "heroId": "oriental_panda_warrior_costume_dueller",
         "star": 4,
         "power": 729,
@@ -83856,6 +87599,10 @@ window.allHeroes =
         "source": "Costume Quest",
         "Release date": "2024-05-31",
         "specialId": "sonic_wall",
+        "passiveSkills": [
+            "toon_resist_debuffs_manareduction_dispels"
+        ],
+        "costumeBonusPassiveSkillIds": null,
         "heroId": "oriental_panda_warrior_costume_cute",
         "star": 4,
         "power": 741,
@@ -83924,6 +87671,10 @@ window.allHeroes =
         "source": "Costume Quest",
         "Release date": "2025-06-18",
         "specialId": "sonic_wall",
+        "passiveSkills": [
+            "glass_reflect_debuffs"
+        ],
+        "costumeBonusPassiveSkillIds": null,
         "heroId": "oriental_panda_warrior_costume_glass",
         "star": 4,
         "power": 753,
@@ -83989,6 +87740,7 @@ window.allHeroes =
         "source": "Monthly Event - Springvale",
         "Release date": "2020-04-06",
         "specialId": "smooth_treatment",
+        "passiveSkills": null,
         "heroId": "easter_lady_woolerton",
         "star": 4,
         "power": 661,
@@ -84047,6 +87799,7 @@ window.allHeroes =
         "source": "S1 - Classic",
         "Release date": "2017-03-01",
         "specialId": "slash_of_seven_blades",
+        "passiveSkills": null,
         "heroId": "oriental_female_templar",
         "star": 4,
         "power": 640,
@@ -84105,6 +87858,8 @@ window.allHeroes =
         "source": "Costume Quest",
         "Release date": "2020-01-01",
         "specialId": "slash_of_seven_blades",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null,
         "heroId": "oriental_female_templar_costume_kimono",
         "star": 4,
         "power": 685,
@@ -84163,6 +87918,8 @@ window.allHeroes =
         "source": "Costume Quest",
         "Release date": "2023-02-20",
         "specialId": "slash_of_seven_blades",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null,
         "heroId": "oriental_female_templar_costume_fireworks",
         "star": 4,
         "power": 731,
@@ -84222,6 +87979,10 @@ window.allHeroes =
         "source": "Costume Quest",
         "Release date": "2024-02-12",
         "specialId": "slash_of_seven_blades",
+        "passiveSkills": [
+            "toon_resist_debuffs_manareduction_dispels"
+        ],
+        "costumeBonusPassiveSkillIds": null,
         "heroId": "oriental_female_templar_costume_cute",
         "star": 4,
         "power": 743,
@@ -84286,6 +88047,10 @@ window.allHeroes =
         "source": "Costume Quest",
         "Release date": "2025-03-11",
         "specialId": "slash_of_seven_blades",
+        "passiveSkills": [
+            "glass_reflect_debuffs"
+        ],
+        "costumeBonusPassiveSkillIds": null,
         "heroId": "oriental_female_templar_costume_glass",
         "star": 4,
         "power": 755,
@@ -84351,6 +88116,7 @@ window.allHeroes =
         "source": "S3 - Valhalla",
         "Release date": "2020-02-27",
         "specialId": "valkyrie_charge",
+        "passiveSkills": null,
         "heroId": "s3_mist",
         "star": 4,
         "power": 661,
@@ -84414,6 +88180,9 @@ window.allHeroes =
         "source": "S5 - Dune",
         "Release date": "2022-04-21",
         "specialId": "scarab_throw",
+        "passiveSkills": [
+            "moon_extra_special_damage_and_mana_regen_debuff"
+        ],
         "heroId": "s5_scoratek",
         "star": 4,
         "power": 683,
@@ -84480,6 +88249,13 @@ window.allHeroes =
         "source": "S5 - Dune",
         "Release date": "2025-01-20",
         "specialId": "scarab_throw",
+        "passiveSkills": [
+            "moon_extra_special_damage_and_mana_regen_debuff"
+        ],
+        "costumeBonusPassiveSkillIds": [
+            "resist_sand",
+            "iterate_passive_effects_on_special"
+        ],
         "heroId": "s5_scoratek_costume_sentinel",
         "star": 4,
         "power": 700,
@@ -84548,6 +88324,10 @@ window.allHeroes =
         "source": "Tower - Styx",
         "Release date": "2022-09-21",
         "specialId": "artful_recreation",
+        "passiveSkills": [
+            "resist_all_defense_debuffs",
+            "reduce_minion_health"
+        ],
         "heroId": "styx_steropes",
         "star": 4,
         "power": 685,
@@ -84612,6 +88392,9 @@ window.allHeroes =
         "source": "Monthly Event - Love Season",
         "Release date": "2023-02-14",
         "specialId": "flat_cake_for_sweethearts",
+        "passiveSkills": [
+            "resist_special_blocking"
+        ],
         "heroId": "valentines_voluptas",
         "star": 4,
         "power": 686,
@@ -84672,6 +88455,10 @@ window.allHeroes =
         "source": "Challenge Festival II",
         "Release date": "2022-11-03",
         "specialId": "spear_of_loyalty",
+        "passiveSkills": [
+            "heal_and_add_mana_on_ally_minion",
+            "damage_enemies_on_enemy_parasite"
+        ],
         "heroId": "mighty_pet_waddles",
         "star": 4,
         "power": 684,
@@ -84733,6 +88520,7 @@ window.allHeroes =
         "source": "Three Kingdoms Summon",
         "Release date": "2022-03-14",
         "specialId": "nobles_empathy",
+        "passiveSkills": null,
         "heroId": "kingdom_wang_yuanji",
         "star": 4,
         "power": 683,
@@ -84793,6 +88581,10 @@ window.allHeroes =
         "source": "Three Kingdoms Summon",
         "Release date": "2025-01-29",
         "specialId": "nobles_empathy",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": [
+            "kingdom_unstoppable_minions"
+        ],
         "heroId": "kingdom_wang_yuanji_costume_artisan",
         "star": 4,
         "power": 720,
@@ -84861,6 +88653,7 @@ window.allHeroes =
         "source": "S1 - Classic",
         "Release date": "2017-03-01",
         "specialId": "gamblers_stance",
+        "passiveSkills": null,
         "heroId": "oriental_monkey_captain",
         "star": 4,
         "power": 644,
@@ -84918,6 +88711,8 @@ window.allHeroes =
         "source": "Costume Quest",
         "Release date": "2021-01-18",
         "specialId": "gamblers_stance",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null,
         "heroId": "oriental_monkey_captain_costume_warrior",
         "star": 4,
         "power": 690,
@@ -84975,6 +88770,8 @@ window.allHeroes =
         "source": "Costume Quest",
         "Release date": "2023-10-30",
         "specialId": "gamblers_stance",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null,
         "heroId": "oriental_monkey_captain_costume_reveller",
         "star": 4,
         "power": 736,
@@ -85031,6 +88828,10 @@ window.allHeroes =
         "source": "Costume Quest",
         "Release date": "2024-07-16",
         "specialId": "gamblers_stance",
+        "passiveSkills": [
+            "toon_resist_debuffs_manareduction_dispels"
+        ],
+        "costumeBonusPassiveSkillIds": null,
         "heroId": "oriental_monkey_captain_costume_cute",
         "star": 4,
         "power": 748,
@@ -85092,6 +88893,9 @@ window.allHeroes =
         "source": "Super Elementals",
         "Release date": "2023-07-17",
         "specialId": "express_delivery",
+        "passiveSkills": [
+            "strong_troop_damage_modifier"
+        ],
         "heroId": "elemental_zione",
         "star": 4,
         "power": 688,
@@ -85155,6 +88959,9 @@ window.allHeroes =
         "source": "S4 - Wilderness",
         "Release date": "2021-03-25",
         "specialId": "colossal_chops",
+        "passiveSkills": [
+            "increase_special_damage"
+        ],
         "heroId": "s4_akkorog",
         "star": 5,
         "power": 806,
@@ -85218,6 +89025,12 @@ window.allHeroes =
         "source": "S4 - Wilderness",
         "Release date": "2024-02-01",
         "specialId": "colossal_chops",
+        "passiveSkills": [
+            "increase_special_damage"
+        ],
+        "costumeBonusPassiveSkillIds": [
+            "extra_special_increased_damage_against_boosted_health"
+        ],
         "heroId": "s4_akkorog_costume_football",
         "star": 5,
         "power": 1021,
@@ -85288,6 +89101,7 @@ window.allHeroes =
         "source": "Monthly Event - Winter",
         "Release date": "2024-12-01",
         "specialId": "a_cozy_break",
+        "passiveSkills": null,
         "heroId": "christmas_albin",
         "star": 5,
         "power": 1122,
@@ -85352,6 +89166,9 @@ window.allHeroes =
         "source": "Alliance - Knights Clash",
         "Release date": "2024-08-14",
         "specialId": "scroll_of_new_beginnings",
+        "passiveSkills": [
+            "heal_on_buff_alliance_quest_family"
+        ],
         "heroId": "castle_stag_alvar",
         "star": 5,
         "power": 1084,
@@ -85422,6 +89239,10 @@ window.allHeroes =
         "source": "Monster Island Summon",
         "Release date": "2025-02-27",
         "specialId": "carve_the_bones",
+        "passiveSkills": [
+            "hunters_mark_on_special",
+            "special_damage_reduction_monster_hunters"
+        ],
         "heroId": "monster_hunter_amund",
         "star": 5,
         "power": 1166,
@@ -85492,6 +89313,7 @@ window.allHeroes =
         "source": "Challenge Festival I",
         "Release date": "2022-10-06",
         "specialId": "cannon_blast",
+        "passiveSkills": null,
         "heroId": "pirate_anne",
         "star": 5,
         "power": 835,
@@ -85554,6 +89376,9 @@ window.allHeroes =
         "source": "Monthly Event - Love Season",
         "Release date": "2025-02-14",
         "specialId": "love_at_first_sight",
+        "passiveSkills": [
+            "resist_special_blocking"
+        ],
         "heroId": "valentines_anteros",
         "star": 5,
         "power": 1163,
@@ -85621,6 +89446,9 @@ window.allHeroes =
         "source": "S4 - Wilderness",
         "Release date": "2021-07-15",
         "specialId": "blade_of_bundelkhand",
+        "passiveSkills": [
+            "increase_special_damage"
+        ],
         "heroId": "s4_aouda",
         "star": 5,
         "power": 808,
@@ -85681,6 +89509,12 @@ window.allHeroes =
         "source": "S4 - Wilderness",
         "Release date": "2023-09-07",
         "specialId": "blade_of_bundelkhand",
+        "passiveSkills": [
+            "increase_special_damage"
+        ],
+        "costumeBonusPassiveSkillIds": [
+            "extra_special_increased_damage_against_boosted_health"
+        ],
         "heroId": "s4_aouda_costume_lotus",
         "star": 5,
         "power": 1024,
@@ -85746,7 +89580,10 @@ window.allHeroes =
         ],
         "source": "Covenant Summon",
         "Release date": "2025-02-26",
-        "specialId": "divine_light",
+        "specialId": "divine_light1",
+        "passiveSkills": [
+            "reduced_healing_for_all_enemies"
+        ],
         "heroId": "fox_ashen",
         "star": 5,
         "power": 1166,
@@ -85823,6 +89660,10 @@ window.allHeroes =
         "source": "Challenge Festival II",
         "Release date": "2024-11-14",
         "specialId": "booming_mend",
+        "passiveSkills": [
+            "set_dance_duration",
+            "set_ballad_duration"
+        ],
         "heroId": "bard_astrid",
         "star": 5,
         "power": 1115,
@@ -85894,6 +89735,9 @@ window.allHeroes =
         "source": "Alliance - Moths",
         "Release date": "2025-05-01",
         "specialId": "riches_to_poor",
+        "passiveSkills": [
+            "dodge_enemy_damage_special"
+        ],
         "heroId": "moth_auricarc",
         "star": 5,
         "power": 1197,
@@ -85967,6 +89811,10 @@ window.allHeroes =
         "source": "Legends Summon - Hero of the Month",
         "Release date": "2024-06-01",
         "specialId": "falcon_screech",
+        "passiveSkills": [
+            "mana_on_buff",
+            "resist_bleed"
+        ],
         "heroId": "holy_god_aviana",
         "star": 5,
         "power": 990,
@@ -86038,6 +89886,9 @@ window.allHeroes =
         "source": "Legends Summon - Hero of the Month",
         "Release date": "2020-09-01",
         "specialId": "stunning_steel",
+        "passiveSkills": [
+            "resist_debuffs_from_minions"
+        ],
         "heroId": "holy_god_bai_yeong",
         "star": 5,
         "power": 776,
@@ -86103,6 +89954,9 @@ window.allHeroes =
         "source": "Monthly Event - Lunar Year",
         "Release date": "2025-01-27",
         "specialId": "masterful_balance",
+        "passiveSkills": [
+            "enemy_minion_follower_silencer"
+        ],
         "heroId": "lunar_new_year_baishu",
         "star": 5,
         "power": 1152,
@@ -86173,6 +90027,9 @@ window.allHeroes =
         "source": "Challenge Festival II",
         "Release date": "2021-08-05",
         "specialId": "dispelling_willpower",
+        "passiveSkills": [
+            "resist_status_effect_damage"
+        ],
         "heroId": "slayer_caitlin",
         "star": 5,
         "power": 809,
@@ -86251,6 +90108,12 @@ window.allHeroes =
         "source": "Challenge Festival II",
         "Release date": "2024-11-14",
         "specialId": "dispelling_willpower",
+        "passiveSkills": [
+            "resist_status_effect_damage"
+        ],
+        "costumeBonusPassiveSkillIds": [
+            "extra_special_bleed"
+        ],
         "heroId": "slayer_caitlin_costume_crusader",
         "star": 5,
         "power": 1210,
@@ -86325,6 +90188,10 @@ window.allHeroes =
         "source": "Legends Summon - Hero of the Month",
         "Release date": "2022-10-01",
         "specialId": "sacrament_of_salvation",
+        "passiveSkills": [
+            "healthboost_on_enemy_special",
+            "resist_max_health_reduction"
+        ],
         "heroId": "holy_god_celidana",
         "star": 5,
         "power": 812,
@@ -86397,6 +90264,10 @@ window.allHeroes =
         "source": "Challenge - Secrets of the Opera",
         "Release date": "2023-11-30",
         "specialId": "ballad_of_passion",
+        "passiveSkills": [
+            "heal_on_expired_or_cleared_debuff_fast",
+            "resist_attack_modifier_debuffs"
+        ],
         "heroId": "ballerina_christine_daae",
         "star": 5,
         "power": 957,
@@ -86467,6 +90338,9 @@ window.allHeroes =
         "source": "S5 - Dune",
         "Release date": "2022-10-27",
         "specialId": "channeler_of_the_gods",
+        "passiveSkills": [
+            "sun_extra_special_heal_and_cleanse_latest_debuff"
+        ],
         "heroId": "s5_cleopatra",
         "star": 5,
         "power": 865,
@@ -86533,6 +90407,13 @@ window.allHeroes =
         "source": "S5 - Dune",
         "Release date": "2024-04-29",
         "specialId": "channeler_of_the_gods",
+        "passiveSkills": [
+            "sun_extra_special_heal_and_cleanse_latest_debuff"
+        ],
+        "costumeBonusPassiveSkillIds": [
+            "heal_on_buff",
+            "guaranteed_passive_effects_on_special"
+        ],
         "heroId": "s5_cleopatra_costume_feline",
         "star": 5,
         "power": 1210,
@@ -86598,6 +90479,9 @@ window.allHeroes =
         "source": "Alliance - Musketeers",
         "Release date": "2023-07-26",
         "specialId": "sword_dance",
+        "passiveSkills": [
+            "damage_all_enemies_on_cover_or_special_damage_received"
+        ],
         "heroId": "musketeer_constance",
         "star": 5,
         "power": 929,
@@ -86665,6 +90549,10 @@ window.allHeroes =
         "source": "Monster Island Summon",
         "Release date": "2023-02-09",
         "specialId": "liturgy_of_the_fallen",
+        "passiveSkills": [
+            "hunters_mark_on_special",
+            "monster_hunter_reallocate_debuff_or_heal"
+        ],
         "heroId": "monster_hunter_dabria",
         "star": 5,
         "power": 891,
@@ -86729,6 +90617,7 @@ window.allHeroes =
         "source": "Legends Summon - Hero of the Month",
         "Release date": "2018-03-01",
         "specialId": "summon_temple_guardians",
+        "passiveSkills": null,
         "heroId": "holy_god_delilah",
         "star": 5,
         "power": 768,
@@ -86790,6 +90679,10 @@ window.allHeroes =
         "source": "Legends Summon - Hero of the Month",
         "Release date": "2023-05-15",
         "specialId": "summon_temple_guardians",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": [
+            "extra_special_cleanse_newest"
+        ],
         "heroId": "holy_god_delilah_costume_guardian",
         "star": 5,
         "power": 974,
@@ -86855,6 +90748,10 @@ window.allHeroes =
         "source": "Legends Summon - Hero of the Month",
         "Release date": "2021-07-01",
         "specialId": "arrows_and_claws",
+        "passiveSkills": [
+            "resist_negative_minion_effects",
+            "resist_buff_dispels"
+        ],
         "heroId": "holy_god_devana",
         "star": 5,
         "power": 792,
@@ -86927,6 +90824,7 @@ window.allHeroes =
         "source": "Challenge Festival II",
         "Release date": "2021-06-10",
         "specialId": "directors_blessing",
+        "passiveSkills": null,
         "heroId": "circus_director_zuri",
         "star": 5,
         "power": 808,
@@ -86998,6 +90896,9 @@ window.allHeroes =
         "source": "Mystery - Shadow Summon",
         "Release date": "2024-05-17",
         "specialId": "yellow_signs",
+        "passiveSkills": [
+            "insanity_damage_reduction"
+        ],
         "heroId": "shadow_dolores",
         "star": 5,
         "power": 1098,
@@ -87069,6 +90970,7 @@ window.allHeroes =
         "source": "Legends Summon - Hero of the Month",
         "Release date": "2018-08-01",
         "specialId": "flails_of_fury",
+        "passiveSkills": null,
         "heroId": "holy_god_drake_lee",
         "star": 5,
         "power": 768,
@@ -87131,6 +91033,10 @@ window.allHeroes =
         "source": "Legends Summon - Hero of the Month",
         "Release date": "2021-12-23",
         "specialId": "flails_of_fury",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": [
+            "extra_special_dispel_newest"
+        ],
         "heroId": "holy_god_drake_lee_costume_serene",
         "star": 5,
         "power": 976,
@@ -87193,6 +91099,7 @@ window.allHeroes =
         "source": "Alliance - Knights Clash",
         "Release date": "2022-01-05",
         "specialId": "ravaging_talons",
+        "passiveSkills": null,
         "heroId": "castle_raven_eloise",
         "star": 5,
         "power": 822,
@@ -87260,6 +91167,9 @@ window.allHeroes =
         "source": "S6 - Mysteries of the Deep",
         "Release date": "2023-06-07",
         "specialId": "seabed_pirouette",
+        "passiveSkills": [
+            "tales1_extra_special_damage_and_add_critical"
+        ],
         "heroId": "tales1_ephyra",
         "star": 5,
         "power": 934,
@@ -87332,6 +91242,12 @@ window.allHeroes =
         "source": "S6 - Mysteries of the Deep",
         "Release date": "2025-03-31",
         "specialId": "seabed_pirouette",
+        "passiveSkills": [
+            "tales1_extra_special_damage_and_add_critical"
+        ],
+        "costumeBonusPassiveSkillIds": [
+            "resist_insanity"
+        ],
         "heroId": "tales1_ephyra_costume_reef",
         "star": 5,
         "power": 1161,
@@ -87402,6 +91318,7 @@ window.allHeroes =
         "source": "Three Kingdoms Summon",
         "Release date": "2023-01-02",
         "specialId": "deteriorating_morale",
+        "passiveSkills": null,
         "heroId": "journey_erlang_shen",
         "star": 5,
         "power": 860,
@@ -87469,6 +91386,9 @@ window.allHeroes =
         "source": "S5 - Dune",
         "Release date": "2023-01-19",
         "specialId": "holy_aura",
+        "passiveSkills": [
+            "sun_extra_special_damage_and_attack_debuff"
+        ],
         "heroId": "s5_eset",
         "star": 5,
         "power": 868,
@@ -87538,6 +91458,13 @@ window.allHeroes =
         "source": "S5 - Dune",
         "Release date": "2025-06-11",
         "specialId": "holy_aura",
+        "passiveSkills": [
+            "sun_extra_special_damage_and_attack_debuff"
+        ],
+        "costumeBonusPassiveSkillIds": [
+            "mana_on_enemy_health_boost_special",
+            "iterate_passive_effects_on_special"
+        ],
         "heroId": "s5_eset_costume_goldensun",
         "star": 5,
         "power": 1214,
@@ -87611,6 +91538,10 @@ window.allHeroes =
         "source": "Extra Draw - Secret Summon",
         "Release date": "2025-05-31",
         "specialId": "mimic_training_hero_yellow_bite",
+        "passiveSkills": [
+            "mimic_training_hero_yellow",
+            "never_miss_special"
+        ],
         "heroId": "mimic_training_hero_yellow",
         "star": 5,
         "power": 1200,
@@ -87690,6 +91621,10 @@ window.allHeroes =
         "source": "Legends Summon - Hero of the Month",
         "Release date": "2024-12-01",
         "specialId": "revitalizing_orb",
+        "passiveSkills": [
+            "mana_on_buff",
+            "resist_direct_mana_reductions"
+        ],
         "heroId": "holy_god_faeona",
         "star": 5,
         "power": 1042,
@@ -87755,6 +91690,7 @@ window.allHeroes =
         "source": "Challenge Festival II",
         "Release date": "2021-06-10",
         "specialId": "chakram_kick",
+        "passiveSkills": null,
         "heroId": "circus_faline",
         "star": 5,
         "power": 804,
@@ -87814,6 +91750,10 @@ window.allHeroes =
         "source": "Goblin Summon",
         "Release date": "2024-08-04",
         "specialId": "esprit_de_corps",
+        "passiveSkills": [
+            "remove_wither_from_allies",
+            "resist_direct_mana_reductions"
+        ],
         "heroId": "garrison_frank_fangs_brimwell",
         "star": 5,
         "power": 1107,
@@ -87885,6 +91825,10 @@ window.allHeroes =
         "source": "Challenge Festival II",
         "Release date": "2022-11-03",
         "specialId": "bark_of_protection",
+        "passiveSkills": [
+            "heal_and_add_mana_on_ally_minion",
+            "damage_enemies_on_enemy_parasite"
+        ],
         "heroId": "mighty_pet_furdinand",
         "star": 5,
         "power": 835,
@@ -87963,6 +91907,10 @@ window.allHeroes =
         "source": "S7 - Treasures of Flame and Frost",
         "Release date": "2024-12-03",
         "specialId": "spearwand_gale",
+        "passiveSkills": [
+            "molten_core",
+            "resist_burn_with_health_boost_and_mana"
+        ],
         "heroId": "tales2_gandr",
         "star": 5,
         "power": 1165,
@@ -88038,6 +91986,11 @@ window.allHeroes =
         "source": "Wilderness Summon",
         "Release date": "2024-12-07",
         "specialId": "purifying_light",
+        "passiveSkills": [
+            "mana_on_debuff",
+            "resist_insanity",
+            "resist_negative_defense_modifiers_including_wither"
+        ],
         "heroId": "faun_gideon",
         "star": 5,
         "power": 1150,
@@ -88108,6 +92061,10 @@ window.allHeroes =
         "source": "Legends Summon - Hero of the Month",
         "Release date": "2023-03-01",
         "specialId": "reckless_charge",
+        "passiveSkills": [
+            "fixed_mana_per_enemy_buff",
+            "resist_mana_debuffs"
+        ],
         "heroId": "holy_god_gilligan",
         "star": 5,
         "power": 821,
@@ -88178,6 +92135,10 @@ window.allHeroes =
         "source": "Super Elementals",
         "Release date": "2025-06-07",
         "specialId": "coins_of_pain",
+        "passiveSkills": [
+            "summon_slime_minion_on_damage_yellow",
+            "summon_slime_minion_on_death_yellow"
+        ],
         "heroId": "slime_goldrip",
         "star": 5,
         "power": 1202,
@@ -88244,6 +92205,10 @@ window.allHeroes =
         "source": "Monthly Event - Lunar Year",
         "Release date": "2024-02-08",
         "specialId": "rejuvenating_elixir",
+        "passiveSkills": [
+            "enemy_minion_follower_silencer",
+            "heal_on_debuff"
+        ],
         "heroId": "lunar_new_year_gongniu",
         "star": 5,
         "power": 983,
@@ -88309,6 +92274,10 @@ window.allHeroes =
         "source": "Super Elementals",
         "Release date": "2025-01-20",
         "specialId": "reviving_touch",
+        "passiveSkills": [
+            "summon_slime_minion_on_damage_yellow",
+            "summon_slime_minion_on_death_yellow"
+        ],
         "heroId": "slime_gooric",
         "star": 5,
         "power": 1172,
@@ -88381,6 +92350,9 @@ window.allHeroes =
         "source": "Super Elementals",
         "Release date": "2024-04-22",
         "specialId": "holy_hibiscus_ale",
+        "passiveSkills": [
+            "strong_troop_damage_modifier"
+        ],
         "heroId": "elemental_grilka",
         "star": 5,
         "power": 1039,
@@ -88455,6 +92427,9 @@ window.allHeroes =
         "source": "Challenge Festival I",
         "Release date": "2024-02-22",
         "specialId": "rain_of_arrows",
+        "passiveSkills": [
+            "resist_status_effect_damage"
+        ],
         "heroId": "guardian_elephant",
         "star": 5,
         "power": 1009,
@@ -88533,6 +92508,7 @@ window.allHeroes =
         "source": "Challenge Festival I",
         "Release date": "2020-01-08",
         "specialId": "dance_of_spirits",
+        "passiveSkills": null,
         "heroId": "guardian_gazelle",
         "star": 5,
         "power": 780,
@@ -88611,6 +92587,8 @@ window.allHeroes =
         "source": "Challenge Festival I",
         "Release date": "2023-01-26",
         "specialId": "dance_of_spirits",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null,
         "heroId": "guardian_gazelle_costume_bandalore",
         "star": 5,
         "power": 976,
@@ -88684,6 +92662,7 @@ window.allHeroes =
         "source": "Challenge Festival I",
         "Release date": "2017-10-05",
         "specialId": "stately_retribution",
+        "passiveSkills": null,
         "heroId": "guardian_owl_gentleman",
         "star": 5,
         "power": 765,
@@ -88752,6 +92731,7 @@ window.allHeroes =
         "source": "Challenge Festival I",
         "Release date": "2018-01-05",
         "specialId": "word_of_queen",
+        "passiveSkills": null,
         "heroId": "knights_guinevere",
         "star": 5,
         "power": 765,
@@ -88820,6 +92800,8 @@ window.allHeroes =
         "source": "Challenge Festival I",
         "Release date": "2023-04-20",
         "specialId": "word_of_queen",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null,
         "heroId": "knights_guinevere_costume_rider",
         "star": 5,
         "power": 958,
@@ -88895,6 +92877,7 @@ window.allHeroes =
         "source": "Mystery - Shadow Summon",
         "Release date": "2025-07-29",
         "specialId": "essence_of_queen_nitocris",
+        "passiveSkills": null,
         "heroId": "shadow_gwendoline",
         "star": 5,
         "power": 1224,
@@ -88970,6 +92953,10 @@ window.allHeroes =
         "source": "Covenant Summon",
         "Release date": "2024-07-12",
         "specialId": "high_energy_field",
+        "passiveSkills": [
+            "corrosive_core",
+            "resist_special_blocking"
+        ],
         "heroId": "construct_gwynn",
         "star": 5,
         "power": 1076,
@@ -89037,6 +93024,10 @@ window.allHeroes =
         "source": "Challenge Festival II",
         "Release date": "2022-11-03",
         "specialId": "strike_of_a_thousand_howls",
+        "passiveSkills": [
+            "heal_and_add_mana_on_ally_minion",
+            "damage_enemies_on_enemy_parasite"
+        ],
         "heroId": "mighty_pet_hachiko",
         "star": 5,
         "power": 876,
@@ -89104,6 +93095,9 @@ window.allHeroes =
         "source": "Covenant Summon",
         "Release date": "2025-07-06",
         "specialId": "unbroken_assault",
+        "passiveSkills": [
+            "reduced_healing_for_all_enemies"
+        ],
         "heroId": "fox_halcyon",
         "star": 5,
         "power": 1217,
@@ -89173,6 +93167,10 @@ window.allHeroes =
         "source": "Legends Summon - Hero of the Month",
         "Release date": "2021-12-01",
         "specialId": "dancing_dodge",
+        "passiveSkills": [
+            "mana_on_buff",
+            "resist_special_blocking"
+        ],
         "heroId": "holy_god_hanitra",
         "star": 5,
         "power": 797,
@@ -89244,6 +93242,11 @@ window.allHeroes =
         "source": "Astral Summon",
         "Release date": "2025-06-04",
         "specialId": "star_trail",
+        "passiveSkills": [
+            "never_miss_special",
+            "resist_negative_minion_and_mega_minion_effects",
+            "bypass_minions_and_mega_minions"
+        ],
         "heroId": "astral_dwarf_haumri",
         "star": 5,
         "power": 1191,
@@ -89320,6 +93323,9 @@ window.allHeroes =
         "source": "Challenge - Gargoyle",
         "Release date": "2024-06-13",
         "specialId": "drain_strike",
+        "passiveSkills": [
+            "gargoyle_soft_skin"
+        ],
         "heroId": "gargoyle_hilda",
         "star": 5,
         "power": 1065,
@@ -89385,6 +93391,9 @@ window.allHeroes =
         "source": "S5 - Dune",
         "Release date": "2022-05-19",
         "specialId": "unrelenting_hunter",
+        "passiveSkills": [
+            "sun_extra_special_damage_and_attack_debuff"
+        ],
         "heroId": "s5_horus",
         "star": 5,
         "power": 859,
@@ -89445,6 +93454,13 @@ window.allHeroes =
         "source": "S5 - Dune",
         "Release date": "2024-04-01",
         "specialId": "unrelenting_hunter",
+        "passiveSkills": [
+            "sun_extra_special_damage_and_attack_debuff"
+        ],
+        "costumeBonusPassiveSkillIds": [
+            "mana_on_enemy_health_boost_special",
+            "iterate_passive_effects_on_special"
+        ],
         "heroId": "s5_horus_costume_golden",
         "star": 5,
         "power": 1200,
@@ -89509,6 +93525,9 @@ window.allHeroes =
         "source": "Tower - Ninjas",
         "Release date": "2024-08-27",
         "specialId": "kunai_assault",
+        "passiveSkills": [
+            "reduce_minion_health"
+        ],
         "heroId": "ninja_iga",
         "star": 5,
         "power": 1095,
@@ -89578,6 +93597,7 @@ window.allHeroes =
         "source": "S2 - Atlantis",
         "Release date": "2019-02-01",
         "specialId": "lucky_nine",
+        "passiveSkills": null,
         "heroId": "s2_fox_girl",
         "star": 5,
         "power": 772,
@@ -89646,6 +93666,8 @@ window.allHeroes =
         "source": "S2 - Atlantis",
         "Release date": "2022-05-02",
         "specialId": "lucky_nine",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null,
         "heroId": "s2_fox_girl_costume_white_kitsune",
         "star": 5,
         "power": 943,
@@ -89719,6 +93741,9 @@ window.allHeroes =
         "source": "Super Elementals",
         "Release date": "2023-12-04",
         "specialId": "chains_of_light",
+        "passiveSkills": [
+            "strong_troop_damage_modifier"
+        ],
         "heroId": "elemental_ironmaw",
         "star": 5,
         "power": 978,
@@ -89793,6 +93818,10 @@ window.allHeroes =
         "source": "Legends Summon - Hero of the Month",
         "Release date": "2023-08-01",
         "specialId": "stupendous_break_in",
+        "passiveSkills": [
+            "dodge_enemy_damage_special",
+            "resist_debuffs_from_minions"
+        ],
         "heroId": "holy_god_ithar",
         "star": 5,
         "power": 867,
@@ -89864,6 +93893,9 @@ window.allHeroes =
         "source": "Challenge - Carnival of Gods",
         "Release date": "2023-07-13",
         "specialId": "the_two_sides_of_the_moon",
+        "passiveSkills": [
+            "cleanse_on_own_familiar_death"
+        ],
         "heroId": "masquerade_jana",
         "star": 5,
         "power": 931,
@@ -89930,6 +93962,7 @@ window.allHeroes =
         "source": "Monthly Event - Springvale",
         "Release date": "2023-03-27",
         "specialId": "petals_of_nourishment",
+        "passiveSkills": null,
         "heroId": "easter_jasper",
         "star": 5,
         "power": 868,
@@ -89998,6 +94031,8 @@ window.allHeroes =
         "source": "Monthly Event - Springvale",
         "Release date": "2024-03-18",
         "specialId": "petals_of_nourishment",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null,
         "heroId": "easter_jasper_costume_fisherman",
         "star": 5,
         "power": 1034,
@@ -90066,6 +94101,9 @@ window.allHeroes =
         "source": "Super Elementals",
         "Release date": "2022-10-10",
         "specialId": "archaic_sacred_symbol",
+        "passiveSkills": [
+            "strong_troop_damage_modifier"
+        ],
         "heroId": "elemental_jequn",
         "star": 5,
         "power": 967,
@@ -90138,6 +94176,10 @@ window.allHeroes =
         "source": "Super Elementals",
         "Release date": "2025-06-20",
         "specialId": "archaic_sacred_symbol",
+        "passiveSkills": [
+            "strong_troop_damage_modifier_costume"
+        ],
+        "costumeBonusPassiveSkillIds": null,
         "heroId": "elemental_jequn_costume_gilded",
         "star": 5,
         "power": 1213,
@@ -90208,6 +94250,7 @@ window.allHeroes =
         "source": "S1 - Classic",
         "Release date": "2017-03-01",
         "specialId": "solar_beam",
+        "passiveSkills": null,
         "heroId": "oriental_enchanted_monk",
         "star": 5,
         "power": 752,
@@ -90266,6 +94309,8 @@ window.allHeroes =
         "source": "Costume Quest",
         "Release date": "2020-01-01",
         "specialId": "solar_beam",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null,
         "heroId": "oriental_enchanted_monk_costume_tiger",
         "star": 5,
         "power": 847,
@@ -90326,6 +94371,8 @@ window.allHeroes =
         "source": "Costume Quest",
         "Release date": "2022-12-26",
         "specialId": "solar_beam",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null,
         "heroId": "oriental_enchanted_monk_costume_stoneguard",
         "star": 5,
         "power": 961,
@@ -90388,6 +94435,10 @@ window.allHeroes =
         "source": "Costume Quest",
         "Release date": "2024-02-12",
         "specialId": "solar_beam",
+        "passiveSkills": [
+            "toon_resist_debuffs_manareduction_dispels"
+        ],
+        "costumeBonusPassiveSkillIds": null,
         "heroId": "oriental_enchanted_monk_costume_cute",
         "star": 5,
         "power": 1127,
@@ -90456,6 +94507,10 @@ window.allHeroes =
         "source": "Costume Quest",
         "Release date": "2025-04-08",
         "specialId": "solar_beam",
+        "passiveSkills": [
+            "glass_reflect_debuffs"
+        ],
+        "costumeBonusPassiveSkillIds": null,
         "heroId": "oriental_enchanted_monk_costume_glass",
         "star": 5,
         "power": 1232,
@@ -90524,6 +94579,9 @@ window.allHeroes =
         "source": "Challenge - Carnival of Gods",
         "Release date": "2022-11-22",
         "specialId": "strike_from_the_skies",
+        "passiveSkills": [
+            "cleanse_on_own_familiar_death"
+        ],
         "heroId": "masquerade_jove",
         "star": 5,
         "power": 838,
@@ -90586,6 +94644,7 @@ window.allHeroes =
         "source": "S1 - Classic",
         "Release date": "2017-03-01",
         "specialId": "rite_of_judgement",
+        "passiveSkills": null,
         "heroId": "exalted_female_statue",
         "star": 5,
         "power": 754,
@@ -90651,6 +94710,8 @@ window.allHeroes =
         "source": "Costume Quest",
         "Release date": "2021-01-18",
         "specialId": "rite_of_judgement",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null,
         "heroId": "exalted_female_statue_costume_sungoddess",
         "star": 5,
         "power": 849,
@@ -90716,6 +94777,8 @@ window.allHeroes =
         "source": "Costume Quest",
         "Release date": "2023-02-20",
         "specialId": "rite_of_judgement",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null,
         "heroId": "exalted_female_statue_costume_thorns",
         "star": 5,
         "power": 966,
@@ -90781,6 +94844,10 @@ window.allHeroes =
         "source": "Costume Quest",
         "Release date": "2024-06-28",
         "specialId": "rite_of_judgement",
+        "passiveSkills": [
+            "toon_resist_debuffs_manareduction_dispels"
+        ],
+        "costumeBonusPassiveSkillIds": null,
         "heroId": "exalted_female_statue_costume_cute",
         "star": 5,
         "power": 1132,
@@ -90848,6 +94915,10 @@ window.allHeroes =
         "source": "Legends Summon - Hero of the Month",
         "Release date": "2022-05-01",
         "specialId": "shieldmaidens_protection",
+        "passiveSkills": [
+            "resist_all_defense_debuffs",
+            "mana_on_dispel_buff"
+        ],
         "heroId": "holy_god_kara",
         "star": 5,
         "power": 807,
@@ -90909,6 +94980,9 @@ window.allHeroes =
         "source": "Monthly Event - Kalevala",
         "Release date": "2022-06-20",
         "specialId": "heirloom_dagger",
+        "passiveSkills": [
+            "heal_mana_on_low_health_once"
+        ],
         "heroId": "kalevala_kullervo",
         "star": 5,
         "power": 835,
@@ -90972,6 +95046,10 @@ window.allHeroes =
         "source": "Monthly Event - Kalevala",
         "Release date": "2023-08-07",
         "specialId": "heirloom_dagger",
+        "passiveSkills": [
+            "heal_mana_on_low_health_once"
+        ],
+        "costumeBonusPassiveSkillIds": null,
         "heroId": "kalevala_kullervo_costume_battle_scarred",
         "star": 5,
         "power": 1078,
@@ -91037,6 +95115,7 @@ window.allHeroes =
         "source": "Tower - Ninjas",
         "Release date": "2023-05-31",
         "specialId": "tumbling_dragon",
+        "passiveSkills": null,
         "heroId": "ninja_kushanku",
         "star": 5,
         "power": 875,
@@ -91127,6 +95206,10 @@ window.allHeroes =
         "source": "Tower - Magic",
         "Release date": "2025-07-05",
         "specialId": "twostep_swing",
+        "passiveSkills": [
+            "reduce_big_minion_health",
+            "fly_magic_carpet"
+        ],
         "heroId": "magic_carpet_lando",
         "star": 5,
         "power": 1217,
@@ -91200,6 +95283,9 @@ window.allHeroes =
         "source": "Monthly Event - Lunar Year",
         "Release date": "2023-01-19",
         "specialId": "fierce_fu_jow_pai",
+        "passiveSkills": [
+            "enemy_minion_follower_silencer"
+        ],
         "heroId": "lunar_new_year_laohu",
         "star": 5,
         "power": 861,
@@ -91264,6 +95350,11 @@ window.allHeroes =
         "source": "Legends Summon",
         "Release date": "2024-03-08",
         "specialId": "home_run",
+        "passiveSkills": [
+            "damage_on_enemy_cleanse",
+            "health_boost_on_ally_cleanse",
+            "mana_gen_on_debuff"
+        ],
         "heroId": "champions_lazara",
         "star": 5,
         "power": 1015,
@@ -91334,6 +95425,10 @@ window.allHeroes =
         "source": "Astral Summon",
         "Release date": "2024-03-07",
         "specialId": "wandering_star_shot",
+        "passiveSkills": [
+            "share_received_damage",
+            "resist_poison"
+        ],
         "heroId": "astral_lemonwood",
         "star": 5,
         "power": 1013,
@@ -91400,6 +95495,7 @@ window.allHeroes =
         "source": "S1 - Classic",
         "Release date": "2017-03-01",
         "specialId": "spartan_cleave",
+        "passiveSkills": null,
         "heroId": "oriental_warrior_king",
         "star": 5,
         "power": 752,
@@ -91460,6 +95556,8 @@ window.allHeroes =
         "source": "Costume Quest",
         "Release date": "2021-01-18",
         "specialId": "spartan_cleave",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null,
         "heroId": "oriental_warrior_king_costume_roman",
         "star": 5,
         "power": 845,
@@ -91522,6 +95620,8 @@ window.allHeroes =
         "source": "Costume Quest",
         "Release date": "2022-12-26",
         "specialId": "spartan_cleave",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null,
         "heroId": "oriental_warrior_king_costume_mage",
         "star": 5,
         "power": 960,
@@ -91589,6 +95689,10 @@ window.allHeroes =
         "source": "Costume Quest",
         "Release date": "2023-12-25",
         "specialId": "spartan_cleave",
+        "passiveSkills": [
+            "toon_resist_debuffs_manareduction_dispels"
+        ],
+        "costumeBonusPassiveSkillIds": null,
         "heroId": "oriental_warrior_king_costume_cute",
         "star": 5,
         "power": 1125,
@@ -91657,6 +95761,10 @@ window.allHeroes =
         "source": "Costume Quest",
         "Release date": "2025-02-11",
         "specialId": "spartan_cleave",
+        "passiveSkills": [
+            "glass_reflect_debuffs"
+        ],
+        "costumeBonusPassiveSkillIds": null,
         "heroId": "oriental_warrior_king_costume_glass",
         "star": 5,
         "power": 1232,
@@ -91729,6 +95837,9 @@ window.allHeroes =
         "source": "Tower - Owls",
         "Release date": "2024-02-14",
         "specialId": "rites_of_inner_knowledge",
+        "passiveSkills": [
+            "mana_generation_modifier_all_enemies_stronger"
+        ],
         "heroId": "owl_livia",
         "star": 5,
         "power": 1047,
@@ -91803,6 +95914,10 @@ window.allHeroes =
         "source": "Monster Island Summon",
         "Release date": "2022-08-25",
         "specialId": "wild_cleave",
+        "passiveSkills": [
+            "hunters_mark_on_special",
+            "special_damage_reduction_monster_hunters"
+        ],
         "heroId": "monster_hunter_malin",
         "star": 5,
         "power": 885,
@@ -91876,6 +95991,9 @@ window.allHeroes =
         "source": "Legends Summon - Hero of the Month",
         "Release date": "2020-04-01",
         "specialId": "power_punch",
+        "passiveSkills": [
+            "resist_defense_modifier_debuffs"
+        ],
         "heroId": "holy_god_malosi",
         "star": 5,
         "power": 771,
@@ -91938,6 +96056,9 @@ window.allHeroes =
         "source": "Monthly Event - Morlovia",
         "Release date": "2022-10-03",
         "specialId": "muffin_poisoning",
+        "passiveSkills": [
+            "halloween_steal_buff_or_deal_damage"
+        ],
         "heroId": "halloween_matilda",
         "star": 5,
         "power": 850,
@@ -92011,6 +96132,10 @@ window.allHeroes =
         "source": "Legends Summon - Hero of the Month",
         "Release date": "2025-05-01",
         "specialId": "bounty_of_the_spring",
+        "passiveSkills": [
+            "mana_on_buff",
+            "resist_minion_removal"
+        ],
         "heroId": "holy_god_may",
         "star": 5,
         "power": 1077,
@@ -92081,6 +96206,10 @@ window.allHeroes =
         "source": "Challenge - Secrets of the Opera",
         "Release date": "2024-03-21",
         "specialId": "deceptive_smalltalk",
+        "passiveSkills": [
+            "heal_on_expired_or_cleared_debuff",
+            "resist_defense_modifier_debuffs"
+        ],
         "heroId": "ballerina_meg_giry",
         "star": 5,
         "power": 1079,
@@ -92155,6 +96284,10 @@ window.allHeroes =
         "source": "Astral Summon",
         "Release date": "2024-09-16",
         "specialId": "moonlight_crescendo",
+        "passiveSkills": [
+            "share_received_damage",
+            "resist_poison"
+        ],
         "heroId": "astral_melodymuse",
         "star": 5,
         "power": 1099,
@@ -92218,6 +96351,9 @@ window.allHeroes =
         "source": "S5 - Dune",
         "Release date": "2023-04-13",
         "specialId": "impossible_riddle",
+        "passiveSkills": [
+            "sun_extra_special_damage_and_dot"
+        ],
         "heroId": "s5_meresankh",
         "star": 5,
         "power": 871,
@@ -92290,6 +96426,13 @@ window.allHeroes =
         "source": "S5 - Dune",
         "Release date": "2024-06-24",
         "specialId": "impossible_riddle",
+        "passiveSkills": [
+            "sun_extra_special_damage_and_dot"
+        ],
+        "costumeBonusPassiveSkillIds": [
+            "increase_special_damage_buff",
+            "iterate_passive_effects_on_special"
+        ],
         "heroId": "s5_meresankh_costume_disco",
         "star": 5,
         "power": 1219,
@@ -92365,6 +96508,7 @@ window.allHeroes =
         "source": "Tower - Ninjas",
         "Release date": "2020-10-13",
         "specialId": "connect_ki",
+        "passiveSkills": null,
         "heroId": "ninja_mica",
         "star": 5,
         "power": 798,
@@ -92433,6 +96577,10 @@ window.allHeroes =
         "source": "Astral Summon",
         "Release date": "2024-07-10",
         "specialId": "astral_summon",
+        "passiveSkills": [
+            "share_received_damage",
+            "resist_poison"
+        ],
         "heroId": "astral_moonbell",
         "star": 5,
         "power": 1085,
@@ -92504,6 +96652,9 @@ window.allHeroes =
         "source": "Tower - Magic",
         "Release date": "2021-09-15",
         "specialId": "butterfly_swarm",
+        "passiveSkills": [
+            "magic_heal_on_full_charge_to_not_yellow"
+        ],
         "heroId": "magic_motega",
         "star": 5,
         "power": 813,
@@ -92576,6 +96727,9 @@ window.allHeroes =
         "source": "Monthly Event - Kalevala",
         "Release date": "2025-07-28",
         "specialId": "mending_stitches",
+        "passiveSkills": [
+            "heal_mana_on_low_health_once"
+        ],
         "heroId": "kalevala_mother_lemminkainen",
         "star": 5,
         "power": 1224,
@@ -92644,6 +96798,10 @@ window.allHeroes =
         "source": "S7 - Treasures of Flame and Frost",
         "Release date": "2025-08-06",
         "specialId": "stalwart_rally",
+        "passiveSkills": [
+            "arctic_core",
+            "resist_frost_with_health_boost_and_mana"
+        ],
         "heroId": "tales2_motsognir",
         "star": 5,
         "power": 1226,
@@ -92709,6 +96867,7 @@ window.allHeroes =
         "source": "Legends Summon - Hero of the Month",
         "Release date": "2017-09-01",
         "specialId": "dragon_fang",
+        "passiveSkills": null,
         "heroId": "holy_god_musashi",
         "star": 5,
         "power": 764,
@@ -92771,6 +96930,10 @@ window.allHeroes =
         "source": "Legends Summon - Hero of the Month",
         "Release date": "2023-10-02",
         "specialId": "dragon_fang",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": [
+            "extra_special_dispel_newest"
+        ],
         "heroId": "holy_god_musashi_costume_prisoner",
         "star": 5,
         "power": 969,
@@ -92835,6 +96998,9 @@ window.allHeroes =
         "source": "Legends Summon - Hero of the Month",
         "Release date": "2019-11-01",
         "specialId": "sickle_of_eradication",
+        "passiveSkills": [
+            "resist_stop_mana_generation"
+        ],
         "heroId": "holy_god_neith",
         "star": 5,
         "power": 770,
@@ -92902,6 +97068,10 @@ window.allHeroes =
         "source": "Tower - Styx",
         "Release date": "2022-09-21",
         "specialId": "day_of_reckoning",
+        "passiveSkills": [
+            "resist_all_defense_debuffs",
+            "reduce_minion_health"
+        ],
         "heroId": "styx_nemesis",
         "star": 5,
         "power": 857,
@@ -92980,6 +97150,11 @@ window.allHeroes =
         "source": "Challenge - Beowulf",
         "Release date": "2025-05-18",
         "specialId": "rush_of_flame",
+        "passiveSkills": [
+            "attack_buff_on_damage_received",
+            "resist_mana_reductions_with_health_boost_and_mana",
+            "never_miss_special"
+        ],
         "heroId": "beowulf_nithgaest",
         "star": 5,
         "power": 1201,
@@ -93047,6 +97222,7 @@ window.allHeroes =
         "source": "S3 - Valhalla",
         "Release date": "2020-03-26",
         "specialId": "twist_of_fate",
+        "passiveSkills": null,
         "heroId": "s3_norns",
         "star": 5,
         "power": 787,
@@ -93103,6 +97279,8 @@ window.allHeroes =
         "source": "S3 - Valhalla",
         "Release date": "2023-08-28",
         "specialId": "twist_of_fate",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null,
         "heroId": "s3_norns_costume_puppeteers",
         "star": 5,
         "power": 986,
@@ -93162,6 +97340,7 @@ window.allHeroes =
         "source": "S3 - Valhalla",
         "Release date": "2020-11-26",
         "specialId": "fury_of_grimnir",
+        "passiveSkills": null,
         "heroId": "s3_odin",
         "star": 5,
         "power": 788,
@@ -93227,6 +97406,8 @@ window.allHeroes =
         "source": "S3 - Valhalla",
         "Release date": "2023-03-13",
         "specialId": "fury_of_grimnir",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null,
         "heroId": "s3_odin_costume_champion",
         "star": 5,
         "power": 986,
@@ -93294,6 +97475,9 @@ window.allHeroes =
         "source": "Challenge Festival II",
         "Release date": "2022-12-01",
         "specialId": "rhythm_of_havoc",
+        "passiveSkills": [
+            "mana_generation_modifier_all_enemies_stronger"
+        ],
         "heroId": "bard_ogima",
         "star": 5,
         "power": 837,
@@ -93364,6 +97548,9 @@ window.allHeroes =
         "source": "Legends Summon - Hero of the Month",
         "Release date": "2019-01-01",
         "specialId": "mana_stealer",
+        "passiveSkills": [
+            "resist_accuracy_modifier_debuffs"
+        ],
         "heroId": "holy_god_onatel",
         "star": 5,
         "power": 770,
@@ -93426,6 +97613,9 @@ window.allHeroes =
         "source": "S5 - Dune",
         "Release date": "2022-04-21",
         "specialId": "summon_sand_golems",
+        "passiveSkills": [
+            "moon_extra_special_heal_and_add_mana"
+        ],
         "heroId": "s5_papyros",
         "star": 5,
         "power": 858,
@@ -93501,6 +97691,13 @@ window.allHeroes =
         "source": "S5 - Dune",
         "Release date": "2024-10-05",
         "specialId": "summon_sand_golems",
+        "passiveSkills": [
+            "moon_extra_special_heal_and_add_mana"
+        ],
+        "costumeBonusPassiveSkillIds": [
+            "resist_stop_mana_generation",
+            "guaranteed_passive_effects_on_special"
+        ],
         "heroId": "s5_papyros_costume_colossus",
         "star": 5,
         "power": 1200,
@@ -93579,6 +97776,9 @@ window.allHeroes =
         "source": "Challenge - Gargoyle",
         "Release date": "2021-11-24",
         "specialId": "radiant_rapid_fire",
+        "passiveSkills": [
+            "gargoyle_stone"
+        ],
         "heroId": "gargoyle_penolite",
         "star": 5,
         "power": 841,
@@ -93650,6 +97850,9 @@ window.allHeroes =
         "source": "S6 - Mysteries of the Deep",
         "Release date": "2023-10-25",
         "specialId": "oceans_ruin",
+        "passiveSkills": [
+            "tales1_extra_special_damage_and_add_stacking_mana_generation"
+        ],
         "heroId": "tales1_persa",
         "star": 5,
         "power": 964,
@@ -93732,6 +97935,12 @@ window.allHeroes =
         "source": "S6 - Mysteries of the Deep",
         "Release date": "2025-01-09",
         "specialId": "oceans_ruin",
+        "passiveSkills": [
+            "tales1_extra_special_damage_and_add_stacking_mana_generation"
+        ],
+        "costumeBonusPassiveSkillIds": [
+            "resist_insanity"
+        ],
         "heroId": "tales1_persa_costume_jellyfish_noble",
         "star": 5,
         "power": 1200,
@@ -93815,6 +98024,9 @@ window.allHeroes =
         "source": "Tower - Owls",
         "Release date": "2025-02-05",
         "specialId": "vengeance_of_owlhalla",
+        "passiveSkills": [
+            "mana_generation_modifier_all_enemies_stronger"
+        ],
         "heroId": "owl_pertinax",
         "star": 5,
         "power": 1159,
@@ -93888,6 +98100,11 @@ window.allHeroes =
         "source": "Wilderness Summon",
         "Release date": "2025-04-18",
         "specialId": "enchanting_melody",
+        "passiveSkills": [
+            "resist_negative_attack_modifiers_including_wither",
+            "resist_insanity",
+            "minion_and_mega_minion_accuracy_modifier"
+        ],
         "heroId": "faun_philomena",
         "star": 5,
         "power": 1174,
@@ -93958,6 +98175,7 @@ window.allHeroes =
         "source": "S2 - Atlantis",
         "Release date": "2019-02-19",
         "specialId": "ruler_of_seas",
+        "passiveSkills": null,
         "heroId": "s2_poseidon",
         "star": 5,
         "power": 775,
@@ -94017,6 +98235,8 @@ window.allHeroes =
         "source": "S2 - Atlantis",
         "Release date": "2021-11-15",
         "specialId": "ruler_of_seas",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null,
         "heroId": "s2_poseidon_costume_slayer",
         "star": 5,
         "power": 947,
@@ -94077,6 +98297,9 @@ window.allHeroes =
         "source": "S4 - Wilderness",
         "Release date": "2021-03-25",
         "specialId": "glorious_grace",
+        "passiveSkills": [
+            "start_battle_with_mana"
+        ],
         "heroId": "s4_professor_lidenbrock",
         "star": 5,
         "power": 806,
@@ -94141,6 +98364,12 @@ window.allHeroes =
         "source": "S4 - Wilderness",
         "Release date": "2023-04-27",
         "specialId": "glorious_grace",
+        "passiveSkills": [
+            "start_battle_with_mana"
+        ],
+        "costumeBonusPassiveSkillIds": [
+            "extra_special_health_boost"
+        ],
         "heroId": "s4_professor_lidenbrock_costume_jeweler",
         "star": 5,
         "power": 1020,
@@ -94203,6 +98432,7 @@ window.allHeroes =
         "source": "Three Kingdoms Summon",
         "Release date": "2023-02-27",
         "specialId": "the_queens_radiance",
+        "passiveSkills": null,
         "heroId": "journey_queen_guowang",
         "star": 5,
         "power": 862,
@@ -94272,6 +98502,7 @@ window.allHeroes =
         "source": "Monthly Event - Sand Empire",
         "Release date": "2018-06-21",
         "specialId": "queens_curse",
+        "passiveSkills": null,
         "heroId": "sand_queen",
         "star": 5,
         "power": 772,
@@ -94339,6 +98570,8 @@ window.allHeroes =
         "source": "Monthly Event - Sand Empire",
         "Release date": "2021-06-21",
         "specialId": "queens_curse",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null,
         "heroId": "sand_queen_costume_surfer",
         "star": 5,
         "power": 944,
@@ -94404,6 +98637,9 @@ window.allHeroes =
         "source": "Legends Summon - Hero of the Month",
         "Release date": "2019-06-01",
         "specialId": "mystics_virtue",
+        "passiveSkills": [
+            "resist_poison"
+        ],
         "heroId": "holy_god_ranvir",
         "star": 5,
         "power": 770,
@@ -94476,6 +98712,9 @@ window.allHeroes =
         "source": "Challenge Festival II",
         "Release date": "2022-08-11",
         "specialId": "hymn_of_enrichment",
+        "passiveSkills": [
+            "mana_generation_modifier_all_enemies_stronger"
+        ],
         "heroId": "bard_rhys",
         "star": 5,
         "power": 849,
@@ -94550,6 +98789,7 @@ window.allHeroes =
         "source": "Monthly Event - Sand Empire",
         "Release date": "2020-06-29",
         "specialId": "sand_cyclone",
+        "passiveSkills": null,
         "heroId": "sand_roc",
         "star": 5,
         "power": 789,
@@ -94613,6 +98853,8 @@ window.allHeroes =
         "source": "Monthly Event - Sand Empire",
         "Release date": "2022-05-16",
         "specialId": "sand_cyclone",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null,
         "heroId": "sand_roc_costume_juice",
         "star": 5,
         "power": 964,
@@ -94682,6 +98924,10 @@ window.allHeroes =
         "source": "Goblin Summon",
         "Release date": "2024-10-27",
         "specialId": "a_moment_of_joy",
+        "passiveSkills": [
+            "remove_wither_from_allies",
+            "resist_direct_mana_reductions"
+        ],
         "heroId": "garrison_rosalind",
         "star": 5,
         "power": 1110,
@@ -94754,6 +99000,11 @@ window.allHeroes =
         "source": "Three Kingdoms Summon",
         "Release date": "2025-05-22",
         "specialId": "perilous_waters",
+        "passiveSkills": [
+            "resist_bleed",
+            "righteous_rebellion_parent",
+            "cleanse_on_special_critical_damage_all_safe"
+        ],
         "heroId": "outlaw_ruan_xiaoqi",
         "star": 5,
         "power": 1203,
@@ -94833,6 +99084,11 @@ window.allHeroes =
         "source": "Astral Summon",
         "Release date": "2024-12-22",
         "specialId": "doublebarreled_starstick",
+        "passiveSkills": [
+            "never_miss_special",
+            "resist_negative_minion_and_mega_minion_effects",
+            "bypass_minions_and_mega_minions"
+        ],
         "heroId": "astral_dwarf_salniss",
         "star": 5,
         "power": 1157,
@@ -94905,6 +99161,9 @@ window.allHeroes =
         "source": "Alliance - Moths",
         "Release date": "2025-01-23",
         "specialId": "toxic_incense",
+        "passiveSkills": [
+            "dodge_enemy_damage_special"
+        ],
         "heroId": "moth_satinpimenter",
         "star": 5,
         "power": 1178,
@@ -94981,6 +99240,9 @@ window.allHeroes =
         "source": "Goblin Summon",
         "Release date": "2024-04-15",
         "specialId": "boar_of_fury",
+        "passiveSkills": [
+            "goblin_damage_and_accuracy_debuff_on_special"
+        ],
         "heroId": "goblin_scrollbeast",
         "star": 5,
         "power": 1063,
@@ -95059,6 +99321,10 @@ window.allHeroes =
         "source": "Covenant Summon",
         "Release date": "2023-12-08",
         "specialId": "reversed_lifeforce",
+        "passiveSkills": [
+            "repair_core",
+            "resist_special_blocking"
+        ],
         "heroId": "construct_shaal",
         "star": 5,
         "power": 979,
@@ -95129,6 +99395,10 @@ window.allHeroes =
         "source": "Goblin Summon",
         "Release date": "2024-04-15",
         "specialId": "rude_awakening",
+        "passiveSkills": [
+            "remove_wither_from_allies",
+            "resist_direct_mana_reductions"
+        ],
         "heroId": "garrison_shimmerscale",
         "star": 5,
         "power": 1054,
@@ -95199,6 +99469,7 @@ window.allHeroes =
         "source": "S3 - Valhalla",
         "Release date": "2020-02-27",
         "specialId": "gold_weaver",
+        "passiveSkills": null,
         "heroId": "s3_sif",
         "star": 5,
         "power": 788,
@@ -95258,6 +99529,8 @@ window.allHeroes =
         "source": "S3 - Valhalla",
         "Release date": "2022-08-29",
         "specialId": "gold_weaver",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null,
         "heroId": "s3_sif_costume_golden",
         "star": 5,
         "power": 987,
@@ -95317,6 +99590,9 @@ window.allHeroes =
         "source": "Covenant Summon",
         "Release date": "2025-01-11",
         "specialId": "greed_and_bribery",
+        "passiveSkills": [
+            "reduced_healing_for_all_enemies"
+        ],
         "heroId": "fox_silverpaw",
         "star": 5,
         "power": 1155,
@@ -95384,6 +99660,7 @@ window.allHeroes =
         "source": "Monthly Event - Springvale",
         "Release date": "2020-04-06",
         "specialId": "luminous_lance",
+        "passiveSkills": null,
         "heroId": "easter_sir_roostley",
         "star": 5,
         "power": 789,
@@ -95444,6 +99721,10 @@ window.allHeroes =
         "source": "Super Elementals",
         "Release date": "2024-09-04",
         "specialId": "dance_of_the_slimy",
+        "passiveSkills": [
+            "summon_slime_minion_on_damage_yellow",
+            "summon_slime_minion_on_death_yellow"
+        ],
         "heroId": "slime_sludgus",
         "star": 5,
         "power": 1098,
@@ -95516,6 +99797,10 @@ window.allHeroes =
         "source": "Three Kingdoms Summon",
         "Release date": "2024-04-02",
         "specialId": "golden_cicada",
+        "passiveSkills": [
+            "heal_on_buff_with_chance",
+            "mana_on_buff_with_chance"
+        ],
         "heroId": "journey_tang_sanzang",
         "star": 5,
         "power": 1025,
@@ -95584,6 +99869,7 @@ window.allHeroes =
         "source": "S3 - Valhalla",
         "Release date": "2021-01-28",
         "specialId": "power_of_mjolnir",
+        "passiveSkills": null,
         "heroId": "s3_thor",
         "star": 5,
         "power": 788,
@@ -95650,6 +99936,8 @@ window.allHeroes =
         "source": "S3 - Valhalla",
         "Release date": "2022-12-19",
         "specialId": "power_of_mjolnir",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null,
         "heroId": "s3_thor_costume_conduit",
         "star": 5,
         "power": 986,
@@ -95720,6 +100008,10 @@ window.allHeroes =
         "source": "Monster Island Summon",
         "Release date": "2023-05-06",
         "specialId": "warcry_of_the_jungle",
+        "passiveSkills": [
+            "hunters_mark_on_special",
+            "attack_modifier_on_special"
+        ],
         "heroId": "monster_hunter_thunderclap",
         "star": 5,
         "power": 896,
@@ -95793,6 +100085,10 @@ window.allHeroes =
         "source": "Monster Island Summon",
         "Release date": "2024-05-23",
         "specialId": "guiding_arrow",
+        "passiveSkills": [
+            "hunters_mark_on_special",
+            "special_damage_reduction_monster_hunters"
+        ],
         "heroId": "monster_hunter_thura",
         "star": 5,
         "power": 1122,
@@ -95859,6 +100155,7 @@ window.allHeroes =
         "source": "Tower - Ninjas",
         "Release date": "2022-02-02",
         "specialId": "lethal_needles",
+        "passiveSkills": null,
         "heroId": "ninja_topaz",
         "star": 5,
         "power": 818,
@@ -95938,6 +100235,10 @@ window.allHeroes =
         "source": "Legends Summon - Hero of the Month",
         "Release date": "2021-02-01",
         "specialId": "strike_of_the_cobra",
+        "passiveSkills": [
+            "heal_on_own_familiar_death",
+            "resist_sand"
+        ],
         "heroId": "holy_god_uraeus",
         "star": 5,
         "power": 786,
@@ -96015,6 +100316,10 @@ window.allHeroes =
         "source": "Tower - Magic",
         "Release date": "2023-11-15",
         "specialId": "pawns_of_divinity",
+        "passiveSkills": [
+            "magic_mana_regen_stack_on_special",
+            "magic_add_mana_on_full_charge_to_not_blue"
+        ],
         "heroId": "magic_vaishali",
         "star": 5,
         "power": 956,
@@ -96094,6 +100399,7 @@ window.allHeroes =
         "source": "S1 - Classic",
         "Release date": "2017-03-01",
         "specialId": "omniheal",
+        "passiveSkills": null,
         "heroId": "oriental_female_mystic",
         "star": 5,
         "power": 755,
@@ -96160,6 +100466,8 @@ window.allHeroes =
         "source": "Costume Quest",
         "Release date": "2020-01-01",
         "specialId": "omniheal",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null,
         "heroId": "oriental_female_mystic_costume_magician",
         "star": 5,
         "power": 850,
@@ -96226,6 +100534,8 @@ window.allHeroes =
         "source": "Costume Quest",
         "Release date": "2022-09-05",
         "specialId": "omniheal",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null,
         "heroId": "oriental_female_mystic_costume_scribe",
         "star": 5,
         "power": 966,
@@ -96292,6 +100602,10 @@ window.allHeroes =
         "source": "Costume Quest",
         "Release date": "2023-10-30",
         "specialId": "omniheal",
+        "passiveSkills": [
+            "toon_resist_debuffs_manareduction_dispels"
+        ],
+        "costumeBonusPassiveSkillIds": null,
         "heroId": "oriental_female_mystic_costume_cute",
         "star": 5,
         "power": 1132,
@@ -96362,6 +100676,10 @@ window.allHeroes =
         "source": "Costume Quest",
         "Release date": "2024-12-25",
         "specialId": "omniheal",
+        "passiveSkills": [
+            "glass_reflect_debuffs"
+        ],
+        "costumeBonusPassiveSkillIds": null,
         "heroId": "oriental_female_mystic_costume_glass",
         "star": 5,
         "power": 1238,
@@ -96431,6 +100749,9 @@ window.allHeroes =
         "source": "Monthly Event - Morlovia",
         "Release date": "2024-09-23",
         "specialId": "blood_illusion",
+        "passiveSkills": [
+            "halloween_steal_buff_or_deal_damage"
+        ],
         "heroId": "halloween_wayne",
         "star": 5,
         "power": 1054,
@@ -96501,6 +100822,11 @@ window.allHeroes =
         "source": "Challenge - Beowulf",
         "Release date": "2024-11-25",
         "specialId": "cup_of_mead",
+        "passiveSkills": [
+            "resist_buff_immunity",
+            "heal_on_expired_or_cleared_debuff",
+            "mana_on_buff"
+        ],
         "heroId": "beowulf_wealhtheow",
         "star": 5,
         "power": 1182,
@@ -96574,6 +100900,7 @@ window.allHeroes =
         "source": "Challenge Festival I",
         "Release date": "2019-02-14",
         "specialId": "rabbits_watch",
+        "passiveSkills": null,
         "heroId": "wonderland_white_rabbit",
         "star": 5,
         "power": 779,
@@ -96632,6 +100959,10 @@ window.allHeroes =
         "source": "Challenge Festival I",
         "Release date": "2022-02-17",
         "specialId": "rabbits_watch",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": [
+            "possession_on_special"
+        ],
         "heroId": "wonderland_white_rabbit_costume_mask",
         "star": 5,
         "power": 977,
@@ -96700,6 +101031,10 @@ window.allHeroes =
         "source": "Tower - Magic",
         "Release date": "2023-05-03",
         "specialId": "levitating_lunchbox_deluxe",
+        "passiveSkills": [
+            "magic_mana_regen_stack_on_special",
+            "magic_heal_on_full_charge_to_not_green"
+        ],
         "heroId": "magic_willow",
         "star": 5,
         "power": 891,
@@ -96783,6 +101118,10 @@ window.allHeroes =
         "source": "Alliance - Knights Clash",
         "Release date": "2024-01-10",
         "specialId": "ursine_protection",
+        "passiveSkills": [
+            "heal_on_buff_alliance_quest_family",
+            "mana_on_buff"
+        ],
         "heroId": "castle_bear_winnie",
         "star": 5,
         "power": 1027,
@@ -96855,6 +101194,7 @@ window.allHeroes =
         "source": "Alliance - Knights Clash",
         "Release date": "2021-10-13",
         "specialId": "commanders_gauntlet",
+        "passiveSkills": null,
         "heroId": "castle_wolf_wolfgang",
         "star": 5,
         "power": 816,
@@ -96919,6 +101259,10 @@ window.allHeroes =
         "source": "Alliance - Knights Clash",
         "Release date": "2024-12-17",
         "specialId": "commanders_gauntlet",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": [
+            "increase_cast_status_effect_duration"
+        ],
         "heroId": "castle_wolf_wolfgang_costume_treasure",
         "star": 5,
         "power": 1148,
@@ -96987,6 +101331,7 @@ window.allHeroes =
         "source": "Mystery - Shadow Summon",
         "Release date": "2025-01-09",
         "specialId": "eldritch_sign_bolts",
+        "passiveSkills": null,
         "heroId": "shadow_wulfstan",
         "star": 5,
         "power": 1165,
@@ -97054,6 +101399,9 @@ window.allHeroes =
         "source": "Super Elementals",
         "Release date": "2023-07-17",
         "specialId": "cascading_whirlwind",
+        "passiveSkills": [
+            "strong_troop_damage_modifier"
+        ],
         "heroId": "elemental_xavier",
         "star": 5,
         "power": 940,
@@ -97121,6 +101469,9 @@ window.allHeroes =
         "source": "Super Elementals",
         "Release date": "2022-10-10",
         "specialId": "unwavering_devotion",
+        "passiveSkills": [
+            "strong_troop_damage_modifier"
+        ],
         "heroId": "elemental_zandria",
         "star": 5,
         "power": 895,
@@ -97192,6 +101543,10 @@ window.allHeroes =
         "source": "Tower - Magic",
         "Release date": "2025-05-29",
         "specialId": "soaring_blast",
+        "passiveSkills": [
+            "reduce_big_minion_health",
+            "fly_magic_carpet"
+        ],
         "heroId": "magic_carpet_zazha",
         "star": 5,
         "power": 1210,
@@ -97260,6 +101615,9 @@ window.allHeroes =
         "source": "S4 - Wilderness",
         "Release date": "2021-12-02",
         "specialId": "swift_stingers",
+        "passiveSkills": [
+            "increase_buff_duration"
+        ],
         "heroId": "s4_zekena",
         "star": 5,
         "power": 812,
@@ -97330,6 +101688,12 @@ window.allHeroes =
         "source": "S4 - Wilderness",
         "Release date": "2024-06-20",
         "specialId": "swift_stingers",
+        "passiveSkills": [
+            "increase_buff_duration"
+        ],
+        "costumeBonusPassiveSkillIds": [
+            "extra_special_increased_damage_against_boosted_health"
+        ],
         "heroId": "s4_zekena_costume_vines",
         "star": 5,
         "power": 1028,
@@ -97399,6 +101763,10 @@ window.allHeroes =
         "source": "Monthly Event - Beach Party",
         "Release date": "2024-06-03",
         "specialId": "ice_cream_smash",
+        "passiveSkills": [
+            "resist_water",
+            "underwater_on_special_beach"
+        ],
         "heroId": "beachparty_zenukwa",
         "star": 5,
         "power": 1016,
@@ -97466,6 +101834,7 @@ window.allHeroes =
         "source": "Three Kingdoms Summon",
         "Release date": "2022-03-14",
         "specialId": "viper_blade",
+        "passiveSkills": null,
         "heroId": "kingdom_zhang_fei",
         "star": 5,
         "power": 835,
@@ -97526,6 +101895,10 @@ window.allHeroes =
         "source": "Three Kingdoms Summon",
         "Release date": "2024-10-29",
         "specialId": "viper_blade",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": [
+            "kingdom_unstoppable_minions"
+        ],
         "heroId": "kingdom_zhang_fei_costume_bear_slayer",
         "star": 5,
         "power": 1104,
@@ -97598,6 +101971,7 @@ window.allHeroes =
         "source": "Three Kingdoms Summon",
         "Release date": "2022-03-14",
         "specialId": "martial_masterstroke",
+        "passiveSkills": null,
         "heroId": "kingdom_zhuge_liang",
         "star": 5,
         "power": 835,
@@ -97661,6 +102035,10 @@ window.allHeroes =
         "source": "Three Kingdoms Summon",
         "Release date": "2024-05-28",
         "specialId": "martial_masterstroke",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": [
+            "kingdom_unstoppable_minions"
+        ],
         "heroId": "kingdom_zhuge_liang_costume_crane",
         "star": 5,
         "power": 1105,
@@ -97729,6 +102107,10 @@ window.allHeroes =
         "source": "Legends Summon - Hero of the Month",
         "Release date": "2024-01-01",
         "specialId": "dawnlight_rally",
+        "passiveSkills": [
+            "mana_on_debuff",
+            "resist_direct_mana_reductions"
+        ],
         "heroId": "holy_god_zora",
         "star": 5,
         "power": 953,

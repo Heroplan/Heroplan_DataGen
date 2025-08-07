@@ -576,6 +576,7 @@ def generate_js_data_with_translation(heroes_base_dir, output_path_cn, output_pa
             common_data = {
                 'Release date': extra.get('Release date', ''), 
                 'specialId': extra.get('specialId', ''),
+                'passiveSkills': extra.get('passiveSkills', ''),
                 'heroId': extra.get('heroId', ''),
                 'star': current_star, 
                 'power': hero_data.get('power'), 
@@ -684,6 +685,8 @@ def generate_js_data_with_translation(heroes_base_dir, output_path_cn, output_pa
                     common_data_c = {
                         'Release date': extra_c.get('Release date', ''), 
                         'specialId': extra_c.get('specialId', ''),
+                        'passiveSkills': extra_c.get('passiveSkills', ''),
+                        'costumeBonusPassiveSkillIds': extra_c.get('costumeBonusPassiveSkillIds', ''),
                         'heroId': extra_c.get('heroId', ''),
                         'star': current_star, 
                         'power': costume_data.get('power'), 

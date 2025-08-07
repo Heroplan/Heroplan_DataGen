@@ -13,7 +13,9 @@ window.allHeroesExtra = [
         "rarity": 1,
         "element": "Blue",
         "specialId": "fierce_slash",
-        "heroId": "nordic_warrior"
+        "heroId": "nordic_warrior",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Sigrunn",
@@ -29,7 +31,9 @@ window.allHeroesExtra = [
         "rarity": 1,
         "element": "Blue",
         "specialId": "hacking_attack",
-        "heroId": "nordic_female_scout"
+        "heroId": "nordic_female_scout",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Olaf",
@@ -45,7 +49,9 @@ window.allHeroesExtra = [
         "rarity": 2,
         "element": "Blue",
         "specialId": "defensive_tactics",
-        "heroId": "royal_pikeman"
+        "heroId": "royal_pikeman",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Ragnhild",
@@ -61,7 +67,9 @@ window.allHeroesExtra = [
         "rarity": 2,
         "element": "Blue",
         "specialId": "fierce_slash",
-        "heroId": "nordic_female_warrior"
+        "heroId": "nordic_female_warrior",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Toril",
@@ -77,7 +85,9 @@ window.allHeroesExtra = [
         "rarity": 2,
         "element": "Blue",
         "specialId": "attack_rally",
-        "heroId": "dwarven_scout"
+        "heroId": "dwarven_scout",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Bertha",
@@ -96,7 +106,12 @@ window.allHeroesExtra = [
         "rarity": 3,
         "element": "Blue",
         "specialId": "sewing_back_together",
-        "heroId": "magic_carpet_bertha"
+        "heroId": "magic_carpet_bertha",
+        "passiveSkills": [
+            "reduce_big_minion_health",
+            "fly_magic_carpet"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Chick Jr",
@@ -113,7 +128,9 @@ window.allHeroesExtra = [
         "rarity": 3,
         "element": "Blue",
         "specialId": "compact_lance",
-        "heroId": "easter_chick_jr"
+        "heroId": "easter_chick_jr",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Dawn",
@@ -133,7 +150,12 @@ window.allHeroesExtra = [
         "rarity": 3,
         "element": "Blue",
         "specialId": "hunting_ballad",
-        "heroId": "monster_hunter_dawn"
+        "heroId": "monster_hunter_dawn",
+        "passiveSkills": [
+            "hunters_mark_on_special",
+            "special_damage_reduction_monster_hunters"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Frosty",
@@ -150,7 +172,9 @@ window.allHeroesExtra = [
         "rarity": 3,
         "element": "Blue",
         "specialId": "northern_wanderer",
-        "heroId": "christmas_frosty"
+        "heroId": "christmas_frosty",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Gato",
@@ -167,7 +191,9 @@ window.allHeroesExtra = [
         "rarity": 3,
         "element": "Blue",
         "specialId": "jungle_slash",
-        "heroId": "s2_croc_man"
+        "heroId": "s2_croc_man",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Graymane",
@@ -184,7 +210,9 @@ window.allHeroesExtra = [
         "rarity": 3,
         "element": "Blue",
         "specialId": "wolf_bite",
-        "heroId": "nordic_chained_werewolf"
+        "heroId": "nordic_chained_werewolf",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Graymane Costume1",
@@ -206,7 +234,9 @@ window.allHeroesExtra = [
         "rarity": 3,
         "element": "Blue",
         "specialId": "wolf_bite",
-        "heroId": "nordic_chained_werewolf_costume_raccoon"
+        "heroId": "nordic_chained_werewolf_costume_raccoon",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Graymane Toon",
@@ -228,7 +258,11 @@ window.allHeroesExtra = [
         "rarity": 3,
         "element": "Blue",
         "specialId": "wolf_bite",
-        "heroId": "nordic_chained_werewolf_costume_cute"
+        "heroId": "nordic_chained_werewolf_costume_cute",
+        "passiveSkills": [
+            "toon_resist_debuffs_manareduction_dispels"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Graymane Glass",
@@ -250,7 +284,11 @@ window.allHeroesExtra = [
         "rarity": 3,
         "element": "Blue",
         "specialId": "wolf_bite",
-        "heroId": "nordic_chained_werewolf_costume_glass"
+        "heroId": "nordic_chained_werewolf_costume_glass",
+        "passiveSkills": [
+            "glass_reflect_debuffs"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Guardian Lemur",
@@ -267,7 +305,9 @@ window.allHeroesExtra = [
         "rarity": 3,
         "element": "Blue",
         "specialId": "guardian_armor",
-        "heroId": "guardian_lemur"
+        "heroId": "guardian_lemur",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Gunnar",
@@ -284,7 +324,9 @@ window.allHeroesExtra = [
         "rarity": 3,
         "element": "Blue",
         "specialId": "stone_skin",
-        "heroId": "royal_knight"
+        "heroId": "royal_knight",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Gunnar Costume1",
@@ -305,7 +347,9 @@ window.allHeroesExtra = [
         "rarity": 3,
         "element": "Blue",
         "specialId": "stone_skin",
-        "heroId": "royal_knight_costume_blacksmith"
+        "heroId": "royal_knight_costume_blacksmith",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Gunnar Toon",
@@ -326,7 +370,11 @@ window.allHeroesExtra = [
         "rarity": 3,
         "element": "Blue",
         "specialId": "stone_skin",
-        "heroId": "royal_knight_costume_cute"
+        "heroId": "royal_knight_costume_cute",
+        "passiveSkills": [
+            "toon_resist_debuffs_manareduction_dispels"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Helo",
@@ -343,7 +391,11 @@ window.allHeroesExtra = [
         "rarity": 3,
         "element": "Blue",
         "specialId": "healthiest_catch",
-        "heroId": "s4_helo"
+        "heroId": "s4_helo",
+        "passiveSkills": [
+            "increase_buff_duration"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Helo Costume1",
@@ -364,7 +416,11 @@ window.allHeroesExtra = [
         "rarity": 3,
         "element": "Blue",
         "specialId": "healthiest_catch",
-        "heroId": "s4_helo_costume_baker"
+        "heroId": "s4_helo_costume_baker",
+        "passiveSkills": [
+            "increase_buff_duration"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Jarif",
@@ -381,7 +437,11 @@ window.allHeroesExtra = [
         "rarity": 3,
         "element": "Blue",
         "specialId": "disabling_decree",
-        "heroId": "s5_jarif"
+        "heroId": "s5_jarif",
+        "passiveSkills": [
+            "moon_extra_special_damage_and_mana_regen_debuff"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Jarif Costume1",
@@ -402,7 +462,14 @@ window.allHeroesExtra = [
         "rarity": 3,
         "element": "Blue",
         "specialId": "disabling_decree",
-        "heroId": "s5_jarif_costume_curator"
+        "heroId": "s5_jarif_costume_curator",
+        "passiveSkills": [
+            "moon_extra_special_damage_and_mana_regen_debuff"
+        ],
+        "costumeBonusPassiveSkillIds": [
+            "resist_sand",
+            "iterate_passive_effects_on_special"
+        ]
     },
     {
         "name": "Jarvur",
@@ -420,7 +487,9 @@ window.allHeroesExtra = [
         "rarity": 3,
         "element": "Blue",
         "specialId": "jab_and_hook",
-        "heroId": "s3_jarvur"
+        "heroId": "s3_jarvur",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Joukahainen",
@@ -438,7 +507,11 @@ window.allHeroesExtra = [
         "rarity": 3,
         "element": "Blue",
         "specialId": "arrows_of_fury",
-        "heroId": "kalevala_joukahainen"
+        "heroId": "kalevala_joukahainen",
+        "passiveSkills": [
+            "heal_mana_on_low_health_once"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Karil",
@@ -454,7 +527,9 @@ window.allHeroesExtra = [
         "rarity": 3,
         "element": "Blue",
         "specialId": "ramming_rush",
-        "heroId": "dwarven_smasher"
+        "heroId": "dwarven_smasher",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Karil Costume1",
@@ -475,7 +550,9 @@ window.allHeroesExtra = [
         "rarity": 3,
         "element": "Blue",
         "specialId": "ramming_rush",
-        "heroId": "dwarven_smasher_costume_smith"
+        "heroId": "dwarven_smasher_costume_smith",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Karil Toon",
@@ -496,7 +573,11 @@ window.allHeroesExtra = [
         "rarity": 3,
         "element": "Blue",
         "specialId": "ramming_rush",
-        "heroId": "dwarven_smasher_costume_cute"
+        "heroId": "dwarven_smasher_costume_cute",
+        "passiveSkills": [
+            "toon_resist_debuffs_manareduction_dispels"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Nordri",
@@ -513,7 +594,9 @@ window.allHeroesExtra = [
         "rarity": 3,
         "element": "Blue",
         "specialId": "frosty_axes",
-        "heroId": "s3_nordri"
+        "heroId": "s3_nordri",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Nordri Costume1",
@@ -534,7 +617,9 @@ window.allHeroesExtra = [
         "rarity": 3,
         "element": "Blue",
         "specialId": "frosty_axes",
-        "heroId": "s3_nordri_costume_explorer"
+        "heroId": "s3_nordri_costume_explorer",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Planchet",
@@ -552,7 +637,11 @@ window.allHeroesExtra = [
         "rarity": 3,
         "element": "Blue",
         "specialId": "piercing_practice_slash",
-        "heroId": "musketeer_planchet"
+        "heroId": "musketeer_planchet",
+        "passiveSkills": [
+            "damage_all_enemies_on_cover_or_special_damage_received"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Soroca",
@@ -570,7 +659,11 @@ window.allHeroesExtra = [
         "rarity": 3,
         "element": "Blue",
         "specialId": "faithful_force",
-        "heroId": "gargoyle_soroca"
+        "heroId": "gargoyle_soroca",
+        "passiveSkills": [
+            "gargoyle_stone"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Swan Maiden",
@@ -590,7 +683,12 @@ window.allHeroesExtra = [
         "rarity": 3,
         "element": "Blue",
         "specialId": "dance_of_the_little_swan",
-        "heroId": "ballerina_swan_maiden"
+        "heroId": "ballerina_swan_maiden",
+        "passiveSkills": [
+            "heal_on_expired_or_cleared_debuff",
+            "resist_defense_modifier_debuffs"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Ulmer",
@@ -607,7 +705,9 @@ window.allHeroesExtra = [
         "rarity": 3,
         "element": "Blue",
         "specialId": "cold_blast",
-        "heroId": "nordic_mage"
+        "heroId": "nordic_mage",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Ulmer Costume1",
@@ -628,7 +728,9 @@ window.allHeroesExtra = [
         "rarity": 3,
         "element": "Blue",
         "specialId": "cold_blast",
-        "heroId": "nordic_mage_costume_hermit"
+        "heroId": "nordic_mage_costume_hermit",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Ulmer Toon",
@@ -650,7 +752,11 @@ window.allHeroesExtra = [
         "rarity": 3,
         "element": "Blue",
         "specialId": "cold_blast",
-        "heroId": "nordic_mage_costume_cute"
+        "heroId": "nordic_mage_costume_cute",
+        "passiveSkills": [
+            "toon_resist_debuffs_manareduction_dispels"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Valen",
@@ -667,7 +773,9 @@ window.allHeroesExtra = [
         "rarity": 3,
         "element": "Blue",
         "specialId": "chilling_slash",
-        "heroId": "nordic_swordman"
+        "heroId": "nordic_swordman",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Valen Costume1",
@@ -688,7 +796,9 @@ window.allHeroesExtra = [
         "rarity": 3,
         "element": "Blue",
         "specialId": "chilling_slash",
-        "heroId": "nordic_swordman_costume_climber"
+        "heroId": "nordic_swordman_costume_climber",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Valen Toon",
@@ -710,7 +820,11 @@ window.allHeroesExtra = [
         "rarity": 3,
         "element": "Blue",
         "specialId": "chilling_slash",
-        "heroId": "nordic_swordman_costume_cute"
+        "heroId": "nordic_swordman_costume_cute",
+        "passiveSkills": [
+            "toon_resist_debuffs_manareduction_dispels"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Virgil",
@@ -728,7 +842,12 @@ window.allHeroesExtra = [
         "rarity": 3,
         "element": "Blue",
         "specialId": "poets_protection",
-        "heroId": "styx_virgil"
+        "heroId": "styx_virgil",
+        "passiveSkills": [
+            "resist_all_defense_debuffs",
+            "reduce_minion_health"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Vodnik",
@@ -745,7 +864,9 @@ window.allHeroesExtra = [
         "rarity": 3,
         "element": "Blue",
         "specialId": "destructive_strike",
-        "heroId": "pirate_vodnik"
+        "heroId": "pirate_vodnik",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Yao",
@@ -763,7 +884,9 @@ window.allHeroesExtra = [
         "rarity": 3,
         "element": "Blue",
         "specialId": "sword_of_wei",
-        "heroId": "kingdom_yao"
+        "heroId": "kingdom_yao",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Agwe",
@@ -780,7 +903,9 @@ window.allHeroesExtra = [
         "rarity": 4,
         "element": "Blue",
         "specialId": "tidal_wave",
-        "heroId": "s2_chameleon_mage"
+        "heroId": "s2_chameleon_mage",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Agwe Costume1",
@@ -801,7 +926,9 @@ window.allHeroesExtra = [
         "rarity": 4,
         "element": "Blue",
         "specialId": "tidal_wave",
-        "heroId": "s2_chameleon_mage_costume_alchemist"
+        "heroId": "s2_chameleon_mage_costume_alchemist",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Aqualith",
@@ -818,7 +945,11 @@ window.allHeroesExtra = [
         "rarity": 4,
         "element": "Blue",
         "specialId": "close_order_formation",
-        "heroId": "tales1_aqualith"
+        "heroId": "tales1_aqualith",
+        "passiveSkills": [
+            "tales1_extra_special_damage_and_add_critical"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Aqualith Costume1",
@@ -839,7 +970,13 @@ window.allHeroesExtra = [
         "rarity": 4,
         "element": "Blue",
         "specialId": "close_order_formation",
-        "heroId": "tales1_aqualith_costume_purple"
+        "heroId": "tales1_aqualith_costume_purple",
+        "passiveSkills": [
+            "tales1_extra_special_damage_and_add_critical"
+        ],
+        "costumeBonusPassiveSkillIds": [
+            "resist_insanity"
+        ]
     },
     {
         "name": "Azmia",
@@ -856,7 +993,11 @@ window.allHeroesExtra = [
         "rarity": 4,
         "element": "Blue",
         "specialId": "counterstance",
-        "heroId": "s5_azmia"
+        "heroId": "s5_azmia",
+        "passiveSkills": [
+            "sun_extra_special_heal_and_cleanse_latest_debuff"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Azmia Costume1",
@@ -879,7 +1020,14 @@ window.allHeroesExtra = [
         "rarity": 4,
         "element": "Blue",
         "specialId": "counterstance",
-        "heroId": "s5_azmia_costume_dancing"
+        "heroId": "s5_azmia_costume_dancing",
+        "passiveSkills": [
+            "sun_extra_special_heal_and_cleanse_latest_debuff"
+        ],
+        "costumeBonusPassiveSkillIds": [
+            "heal_on_buff",
+            "guaranteed_passive_effects_on_special"
+        ]
     },
     {
         "name": "Bonechill",
@@ -897,7 +1045,12 @@ window.allHeroesExtra = [
         "rarity": 4,
         "element": "Blue",
         "specialId": "frost_and_rime",
-        "heroId": "construct_bonechill"
+        "heroId": "construct_bonechill",
+        "passiveSkills": [
+            "destructive_core",
+            "resist_special_blocking"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Boril",
@@ -913,7 +1066,9 @@ window.allHeroesExtra = [
         "rarity": 4,
         "element": "Blue",
         "specialId": "perfect_riposte",
-        "heroId": "dwarven_guard"
+        "heroId": "dwarven_guard",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Boril Costume1",
@@ -933,7 +1088,9 @@ window.allHeroesExtra = [
         "rarity": 4,
         "element": "Blue",
         "specialId": "perfect_riposte",
-        "heroId": "dwarven_guard_costume_ram"
+        "heroId": "dwarven_guard_costume_ram",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Boril Costume2",
@@ -953,7 +1110,9 @@ window.allHeroesExtra = [
         "rarity": 4,
         "element": "Blue",
         "specialId": "perfect_riposte",
-        "heroId": "dwarven_guard_costume_tavern"
+        "heroId": "dwarven_guard_costume_tavern",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Boril Toon",
@@ -973,7 +1132,11 @@ window.allHeroesExtra = [
         "rarity": 4,
         "element": "Blue",
         "specialId": "perfect_riposte",
-        "heroId": "dwarven_guard_costume_cute"
+        "heroId": "dwarven_guard_costume_cute",
+        "passiveSkills": [
+            "toon_resist_debuffs_manareduction_dispels"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Captain of Diamonds",
@@ -991,7 +1154,9 @@ window.allHeroesExtra = [
         "rarity": 4,
         "element": "Blue",
         "specialId": "pest_control",
-        "heroId": "wonderland_captain"
+        "heroId": "wonderland_captain",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Dain",
@@ -1012,7 +1177,12 @@ window.allHeroesExtra = [
         "rarity": 4,
         "element": "Blue",
         "specialId": "iceberg_aura",
-        "heroId": "tales2_dain"
+        "heroId": "tales2_dain",
+        "passiveSkills": [
+            "arctic_core",
+            "resist_frost_with_health_boost_and_mana"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Fosco",
@@ -1030,7 +1200,12 @@ window.allHeroesExtra = [
         "rarity": 4,
         "element": "Blue",
         "specialId": "potions_of_havoc_and_healing",
-        "heroId": "masquerade_fosco"
+        "heroId": "masquerade_fosco",
+        "passiveSkills": [
+            "cleanse_on_own_familiar_death",
+            "resist_all_defense_debuffs"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Frank",
@@ -1048,7 +1223,11 @@ window.allHeroesExtra = [
         "rarity": 4,
         "element": "Blue",
         "specialId": "undead_razer",
-        "heroId": "halloween_frank"
+        "heroId": "halloween_frank",
+        "passiveSkills": [
+            "halloween_steal_buff_or_deal_damage"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Frank Costume1",
@@ -1072,7 +1251,11 @@ window.allHeroesExtra = [
         "rarity": 4,
         "element": "Blue",
         "specialId": "undead_razer",
-        "heroId": "halloween_frank_costume_mafia"
+        "heroId": "halloween_frank_costume_mafia",
+        "passiveSkills": [
+            "halloween_steal_buff_or_deal_damage"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Garyas",
@@ -1091,7 +1274,11 @@ window.allHeroesExtra = [
         "rarity": 4,
         "element": "Blue",
         "specialId": "the_mighty_crescendo",
-        "heroId": "bard_garyas"
+        "heroId": "bard_garyas",
+        "passiveSkills": [
+            "attack_reduction_multiplier"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Greg",
@@ -1109,7 +1296,12 @@ window.allHeroesExtra = [
         "rarity": 4,
         "element": "Blue",
         "specialId": "scale_of_the_newt",
-        "heroId": "garrison_greg"
+        "heroId": "garrison_greg",
+        "passiveSkills": [
+            "remove_wither_from_allies",
+            "resist_direct_mana_reductions"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Grimm",
@@ -1126,7 +1318,9 @@ window.allHeroesExtra = [
         "rarity": 4,
         "element": "Blue",
         "specialId": "ramming_pulverizer",
-        "heroId": "nordic_ancestral_warrior"
+        "heroId": "nordic_ancestral_warrior",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Grimm Costume1",
@@ -1147,7 +1341,9 @@ window.allHeroesExtra = [
         "rarity": 4,
         "element": "Blue",
         "specialId": "ramming_pulverizer",
-        "heroId": "nordic_ancestral_warrior_costume_corrupted"
+        "heroId": "nordic_ancestral_warrior_costume_corrupted",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Grimm Costume2",
@@ -1168,7 +1364,9 @@ window.allHeroesExtra = [
         "rarity": 4,
         "element": "Blue",
         "specialId": "ramming_pulverizer",
-        "heroId": "nordic_ancestral_warrior_costume_messenger"
+        "heroId": "nordic_ancestral_warrior_costume_messenger",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Grimm Toon",
@@ -1190,7 +1388,11 @@ window.allHeroesExtra = [
         "rarity": 4,
         "element": "Blue",
         "specialId": "ramming_pulverizer",
-        "heroId": "nordic_ancestral_warrior_costume_cute"
+        "heroId": "nordic_ancestral_warrior_costume_cute",
+        "passiveSkills": [
+            "toon_resist_debuffs_manareduction_dispels"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Grimm Glass",
@@ -1212,7 +1414,11 @@ window.allHeroesExtra = [
         "rarity": 4,
         "element": "Blue",
         "specialId": "ramming_pulverizer",
-        "heroId": "nordic_ancestral_warrior_costume_glass"
+        "heroId": "nordic_ancestral_warrior_costume_glass",
+        "passiveSkills": [
+            "glass_reflect_debuffs"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Grumbl",
@@ -1231,7 +1437,11 @@ window.allHeroesExtra = [
         "rarity": 4,
         "element": "Blue",
         "specialId": "moon_boomerang",
-        "heroId": "gargoyle_grumbl"
+        "heroId": "gargoyle_grumbl",
+        "passiveSkills": [
+            "gargoyle_soft_skin"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Jott",
@@ -1250,7 +1460,9 @@ window.allHeroesExtra = [
         "rarity": 4,
         "element": "Blue",
         "specialId": "ice_boom",
-        "heroId": "s3_jott"
+        "heroId": "s3_jott",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Kiril",
@@ -1268,7 +1480,9 @@ window.allHeroesExtra = [
         "rarity": 4,
         "element": "Blue",
         "specialId": "blessed_brew",
-        "heroId": "dwarwen_brewmaster"
+        "heroId": "dwarwen_brewmaster",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Kiril Costume1",
@@ -1290,7 +1504,9 @@ window.allHeroesExtra = [
         "rarity": 4,
         "element": "Blue",
         "specialId": "blessed_brew",
-        "heroId": "dwarwen_brewmaster_costume_guitarist"
+        "heroId": "dwarwen_brewmaster_costume_guitarist",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Kiril Costume2",
@@ -1312,7 +1528,9 @@ window.allHeroesExtra = [
         "rarity": 4,
         "element": "Blue",
         "specialId": "blessed_brew",
-        "heroId": "dwarwen_brewmaster_costume_wood_carver"
+        "heroId": "dwarwen_brewmaster_costume_wood_carver",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Kiril Toon",
@@ -1334,7 +1552,11 @@ window.allHeroesExtra = [
         "rarity": 4,
         "element": "Blue",
         "specialId": "blessed_brew",
-        "heroId": "dwarwen_brewmaster_costume_cute"
+        "heroId": "dwarwen_brewmaster_costume_cute",
+        "passiveSkills": [
+            "toon_resist_debuffs_manareduction_dispels"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Kiril Glass",
@@ -1357,7 +1579,11 @@ window.allHeroesExtra = [
         "rarity": 4,
         "element": "Blue",
         "specialId": "blessed_brew",
-        "heroId": "dwarwen_brewmaster_costume_glass"
+        "heroId": "dwarwen_brewmaster_costume_glass",
+        "passiveSkills": [
+            "glass_reflect_debuffs"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Knuckles",
@@ -1377,7 +1603,12 @@ window.allHeroesExtra = [
         "rarity": 4,
         "element": "Blue",
         "specialId": "jungle_riposte",
-        "heroId": "monster_hunter_knuckles"
+        "heroId": "monster_hunter_knuckles",
+        "passiveSkills": [
+            "hunters_mark_on_special",
+            "attack_modifier_on_special"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Linus",
@@ -1395,7 +1626,11 @@ window.allHeroesExtra = [
         "rarity": 4,
         "element": "Blue",
         "specialId": "shackles_of_the_sea",
-        "heroId": "elemental_linus"
+        "heroId": "elemental_linus",
+        "passiveSkills": [
+            "strong_troop_damage_modifier"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Mireweave",
@@ -1413,7 +1648,9 @@ window.allHeroesExtra = [
         "rarity": 4,
         "element": "Blue",
         "specialId": "chain_of_pain",
-        "heroId": "s3_mireweave"
+        "heroId": "s3_mireweave",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Olbec",
@@ -1432,7 +1669,11 @@ window.allHeroesExtra = [
         "rarity": 4,
         "element": "Blue",
         "specialId": "ill_fated_experiment",
-        "heroId": "owl_olbec"
+        "heroId": "owl_olbec",
+        "passiveSkills": [
+            "mana_generation_modifier_all_enemies_stronger"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Osamu",
@@ -1451,7 +1692,11 @@ window.allHeroesExtra = [
         "rarity": 4,
         "element": "Blue",
         "specialId": "iron_discipline_cut",
-        "heroId": "ninja_osamu"
+        "heroId": "ninja_osamu",
+        "passiveSkills": [
+            "reduce_minion_health"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Sanngrior",
@@ -1468,7 +1713,9 @@ window.allHeroesExtra = [
         "rarity": 4,
         "element": "Blue",
         "specialId": "valkyries_fortitude",
-        "heroId": "villain_sanngrior"
+        "heroId": "villain_sanngrior",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Sapphire",
@@ -1487,7 +1734,9 @@ window.allHeroesExtra = [
         "rarity": 4,
         "element": "Blue",
         "specialId": "from_shadows",
-        "heroId": "ninja_sapphire"
+        "heroId": "ninja_sapphire",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Sonya",
@@ -1504,7 +1753,9 @@ window.allHeroesExtra = [
         "rarity": 4,
         "element": "Blue",
         "specialId": "piercing_strike",
-        "heroId": "royal_female_knight"
+        "heroId": "royal_female_knight",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Sonya Costume1",
@@ -1525,7 +1776,9 @@ window.allHeroesExtra = [
         "rarity": 4,
         "element": "Blue",
         "specialId": "piercing_strike",
-        "heroId": "royal_female_knight_costume_winter"
+        "heroId": "royal_female_knight_costume_winter",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Sonya Costume2",
@@ -1546,7 +1799,9 @@ window.allHeroesExtra = [
         "rarity": 4,
         "element": "Blue",
         "specialId": "piercing_strike",
-        "heroId": "royal_female_knight_costume_prospector"
+        "heroId": "royal_female_knight_costume_prospector",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Sonya Toon",
@@ -1568,7 +1823,11 @@ window.allHeroesExtra = [
         "rarity": 4,
         "element": "Blue",
         "specialId": "piercing_strike",
-        "heroId": "royal_female_knight_costume_cute"
+        "heroId": "royal_female_knight_costume_cute",
+        "passiveSkills": [
+            "toon_resist_debuffs_manareduction_dispels"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Triton",
@@ -1585,7 +1844,9 @@ window.allHeroesExtra = [
         "rarity": 4,
         "element": "Blue",
         "specialId": "heroic_noble",
-        "heroId": "s2_triton"
+        "heroId": "s2_triton",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Triton Costume1",
@@ -1606,7 +1867,9 @@ window.allHeroesExtra = [
         "rarity": 4,
         "element": "Blue",
         "specialId": "heroic_noble",
-        "heroId": "s2_triton_costume_champion"
+        "heroId": "s2_triton_costume_champion",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Valeria",
@@ -1625,7 +1888,11 @@ window.allHeroesExtra = [
         "rarity": 4,
         "element": "Blue",
         "specialId": "queens_blood_poisoning",
-        "heroId": "vampire_queen"
+        "heroId": "vampire_queen",
+        "passiveSkills": [
+            "halloween_steal_buff_or_deal_damage"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Xiahou Dun",
@@ -1643,7 +1910,9 @@ window.allHeroesExtra = [
         "rarity": 4,
         "element": "Blue",
         "specialId": "qilin_blade",
-        "heroId": "kingdom_xiahou_dun"
+        "heroId": "kingdom_xiahou_dun",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Zila Lei",
@@ -1660,7 +1929,11 @@ window.allHeroesExtra = [
         "rarity": 4,
         "element": "Blue",
         "specialId": "fishbone_blades",
-        "heroId": "s4_zila_lei"
+        "heroId": "s4_zila_lei",
+        "passiveSkills": [
+            "increase_special_damage"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Zila Lei Costume1",
@@ -1681,7 +1954,11 @@ window.allHeroesExtra = [
         "rarity": 4,
         "element": "Blue",
         "specialId": "fishbone_blades",
-        "heroId": "s4_zila_lei_costume_dancer"
+        "heroId": "s4_zila_lei_costume_dancer",
+        "passiveSkills": [
+            "increase_special_damage"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Adalinda",
@@ -1700,7 +1977,12 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Blue",
         "specialId": "hunting_charge",
-        "heroId": "monster_hunter_adalinda"
+        "heroId": "monster_hunter_adalinda",
+        "passiveSkills": [
+            "hunters_mark_on_special",
+            "special_damage_reduction_monster_hunters"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Aegir",
@@ -1719,7 +2001,9 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Blue",
         "specialId": "icy_resilience",
-        "heroId": "ice_god_october"
+        "heroId": "ice_god_october",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Aegir Costume1",
@@ -1742,7 +2026,11 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Blue",
         "specialId": "icy_resilience",
-        "heroId": "ice_god_october_costume_farmer"
+        "heroId": "ice_god_october_costume_farmer",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": [
+            "extra_special_cleanse_newest"
+        ]
     },
     {
         "name": "Aino",
@@ -1760,7 +2048,11 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Blue",
         "specialId": "summer_carol",
-        "heroId": "kalevala_aino"
+        "heroId": "kalevala_aino",
+        "passiveSkills": [
+            "heal_mana_on_low_health_once"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Aino Costume1",
@@ -1782,7 +2074,11 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Blue",
         "specialId": "summer_carol",
-        "heroId": "kalevala_aino_costume_water_maiden"
+        "heroId": "kalevala_aino_costume_water_maiden",
+        "passiveSkills": [
+            "heal_mana_on_low_health_once"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Alasie",
@@ -1801,7 +2097,9 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Blue",
         "specialId": "spirit_arrow",
-        "heroId": "ice_god_eskimo"
+        "heroId": "ice_god_eskimo",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Alasie Costume1",
@@ -1825,7 +2123,11 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Blue",
         "specialId": "spirit_arrow",
-        "heroId": "ice_god_eskimo_costume_champion"
+        "heroId": "ice_god_eskimo_costume_champion",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": [
+            "extra_special_cleanse_newest"
+        ]
     },
     {
         "name": "Alexandrine",
@@ -1845,7 +2147,12 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Blue",
         "specialId": "shimmering_shield",
-        "heroId": "ice_god_alexandrine"
+        "heroId": "ice_god_alexandrine",
+        "passiveSkills": [
+            "heal_on_debuff",
+            "resist_heal_multiplier_debuffs"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Alice",
@@ -1862,7 +2169,9 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Blue",
         "specialId": "timeless_timepiece",
-        "heroId": "wonderland_alice"
+        "heroId": "wonderland_alice",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Amphitrite",
@@ -1881,7 +2190,12 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Blue",
         "specialId": "tidal_force",
-        "heroId": "styx_amphitrite"
+        "heroId": "styx_amphitrite",
+        "passiveSkills": [
+            "resist_all_defense_debuffs",
+            "reduce_minion_health"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Andvari",
@@ -1903,7 +2217,12 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Blue",
         "specialId": "saga_of_deliverance",
-        "heroId": "tales2_andvari"
+        "heroId": "tales2_andvari",
+        "passiveSkills": [
+            "molten_core",
+            "resist_burn_with_health_boost_and_mana"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Anzia",
@@ -1920,7 +2239,11 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Blue",
         "specialId": "radiant_comeback",
-        "heroId": "elemental_anzia"
+        "heroId": "elemental_anzia",
+        "passiveSkills": [
+            "strong_troop_damage_modifier"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Areax",
@@ -1939,7 +2262,12 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Blue",
         "specialId": "radiating_frost",
-        "heroId": "ice_god_areax"
+        "heroId": "ice_god_areax",
+        "passiveSkills": [
+            "resist_special_blocking",
+            "resist_water"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Ariel",
@@ -1957,7 +2285,9 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Blue",
         "specialId": "divine_protection",
-        "heroId": "s2_ariel"
+        "heroId": "s2_ariel",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Ariel Costume1",
@@ -1979,7 +2309,9 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Blue",
         "specialId": "divine_protection",
-        "heroId": "s2_ariel_costume_enchanter"
+        "heroId": "s2_ariel_costume_enchanter",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Armel",
@@ -1997,7 +2329,11 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Blue",
         "specialId": "frostbite",
-        "heroId": "castle_bear_armel"
+        "heroId": "castle_bear_armel",
+        "passiveSkills": [
+            "heal_on_buff_alliance_quest_family"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Ascian",
@@ -2017,7 +2353,13 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Blue",
         "specialId": "portents_of_future",
-        "heroId": "faun_ascian"
+        "heroId": "faun_ascian",
+        "passiveSkills": [
+            "resist_negative_attack_modifiers_including_wither",
+            "resist_insanity",
+            "minion_and_mega_minion_accuracy_modifier"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Athena",
@@ -2037,7 +2379,9 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Blue",
         "specialId": "athenas_bow",
-        "heroId": "ice_god_athena"
+        "heroId": "ice_god_athena",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Athena Costume1",
@@ -2061,7 +2405,11 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Blue",
         "specialId": "athenas_bow",
-        "heroId": "ice_god_athena_costume_wargoddess"
+        "heroId": "ice_god_athena_costume_wargoddess",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": [
+            "extra_special_dispel_newest"
+        ]
     },
     {
         "name": "Atlanteia",
@@ -2082,7 +2430,11 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Blue",
         "specialId": "aphotic_maw",
-        "heroId": "tales1_atlanteia"
+        "heroId": "tales1_atlanteia",
+        "passiveSkills": [
+            "tales1_extra_special_damage_and_add_stacking_mana_generation"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Atlanteia Costume1",
@@ -2107,7 +2459,13 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Blue",
         "specialId": "aphotic_maw",
-        "heroId": "tales1_atlanteia_costume_siren"
+        "heroId": "tales1_atlanteia_costume_siren",
+        "passiveSkills": [
+            "tales1_extra_special_damage_and_add_stacking_mana_generation"
+        ],
+        "costumeBonusPassiveSkillIds": [
+            "resist_insanity"
+        ]
     },
     {
         "name": "Azurite",
@@ -2124,7 +2482,9 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Blue",
         "specialId": "light_grenades",
-        "heroId": "ninja_azurite"
+        "heroId": "ninja_azurite",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Balur",
@@ -2143,7 +2503,12 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Blue",
         "specialId": "double_flail_mayhem",
-        "heroId": "ice_god_balur"
+        "heroId": "ice_god_balur",
+        "passiveSkills": [
+            "resist_attack_modifier_debuffs",
+            "heal_on_enemy_bleed"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Bennu",
@@ -2160,7 +2525,11 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Blue",
         "specialId": "divine_reflection",
-        "heroId": "s5_bennu"
+        "heroId": "s5_bennu",
+        "passiveSkills": [
+            "sun_extra_special_heal_and_cleanse_latest_debuff"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Bennu Costume1",
@@ -2183,7 +2552,14 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Blue",
         "specialId": "divine_reflection",
-        "heroId": "s5_bennu_costume_heron"
+        "heroId": "s5_bennu_costume_heron",
+        "passiveSkills": [
+            "sun_extra_special_heal_and_cleanse_latest_debuff"
+        ],
+        "costumeBonusPassiveSkillIds": [
+            "heal_on_buff",
+            "guaranteed_passive_effects_on_special"
+        ]
     },
     {
         "name": "Bhaltair",
@@ -2202,7 +2578,12 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Blue",
         "specialId": "joyful_noise",
-        "heroId": "bard_bhaltair"
+        "heroId": "bard_bhaltair",
+        "passiveSkills": [
+            "set_dance_duration",
+            "set_ballad_duration"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Bobo",
@@ -2220,7 +2601,9 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Blue",
         "specialId": "bobo_blitz",
-        "heroId": "circus_bobo"
+        "heroId": "circus_bobo",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Bubbles",
@@ -2238,7 +2621,12 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Blue",
         "specialId": "spectral_visions",
-        "heroId": "mighty_pet_bubbles"
+        "heroId": "mighty_pet_bubbles",
+        "passiveSkills": [
+            "heal_and_add_mana_on_ally_minion",
+            "damage_enemies_on_enemy_parasite"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Burton",
@@ -2256,7 +2644,9 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Blue",
         "specialId": "petrifying_knuckles",
-        "heroId": "shadow_burton"
+        "heroId": "shadow_burton",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Caelen",
@@ -2274,7 +2664,12 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Blue",
         "specialId": "soothing_melody",
-        "heroId": "garrison_caelen"
+        "heroId": "garrison_caelen",
+        "passiveSkills": [
+            "remove_wither_from_allies",
+            "resist_direct_mana_reductions"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Camilla",
@@ -2295,7 +2690,12 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Blue",
         "specialId": "mechanical_augmentations",
-        "heroId": "magic_camilla"
+        "heroId": "magic_camilla",
+        "passiveSkills": [
+            "magic_mana_regen_stack_on_special",
+            "magic_damage_on_full_charge_to_not_red"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Cao Cao",
@@ -2314,7 +2714,9 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Blue",
         "specialId": "order_to_overwhelm",
-        "heroId": "kingdom_cao_cao"
+        "heroId": "kingdom_cao_cao",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Cao Cao Costume1",
@@ -2337,7 +2739,11 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Blue",
         "specialId": "order_to_overwhelm",
-        "heroId": "kingdom_cao_cao_costume_ice"
+        "heroId": "kingdom_cao_cao_costume_ice",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": [
+            "kingdom_unstoppable_minions"
+        ]
     },
     {
         "name": "Cathal",
@@ -2358,7 +2764,11 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Blue",
         "specialId": "breaker_blade",
-        "heroId": "slayer_cathal"
+        "heroId": "slayer_cathal",
+        "passiveSkills": [
+            "resist_status_effect_damage"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Cel",
@@ -2375,7 +2785,12 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Blue",
         "specialId": "summon_rock_golems",
-        "heroId": "masquerade_cel"
+        "heroId": "masquerade_cel",
+        "passiveSkills": [
+            "cleanse_on_own_familiar_death",
+            "resist_all_defense_debuffs"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Celimene",
@@ -2393,7 +2808,11 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Blue",
         "specialId": "moonlight_sonata",
-        "heroId": "bard_celimene"
+        "heroId": "bard_celimene",
+        "passiveSkills": [
+            "attack_reduction_multiplier"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Ceto",
@@ -2415,7 +2834,11 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Blue",
         "specialId": "tidal_vortex",
-        "heroId": "tales1_ceto"
+        "heroId": "tales1_ceto",
+        "passiveSkills": [
+            "tales1_extra_special_damage_and_add_critical"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Ceto Costume1",
@@ -2441,7 +2864,13 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Blue",
         "specialId": "tidal_vortex",
-        "heroId": "tales1_ceto_costume_queen"
+        "heroId": "tales1_ceto_costume_queen",
+        "passiveSkills": [
+            "tales1_extra_special_damage_and_add_critical"
+        ],
+        "costumeBonusPassiveSkillIds": [
+            "resist_insanity"
+        ]
     },
     {
         "name": "Chang'e",
@@ -2459,7 +2888,12 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Blue",
         "specialId": "lunar_locket",
-        "heroId": "journey_change"
+        "heroId": "journey_change",
+        "passiveSkills": [
+            "heal_on_buff_with_chance",
+            "mana_on_buff_with_chance"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Chester",
@@ -2477,7 +2911,11 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Blue",
         "specialId": "horrifying_wail",
-        "heroId": "halloween_chester"
+        "heroId": "halloween_chester",
+        "passiveSkills": [
+            "halloween_steal_buff_or_deal_damage"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Chimister",
@@ -2499,7 +2937,11 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Blue",
         "specialId": "mutating_mixture",
-        "heroId": "moth_chimister"
+        "heroId": "moth_chimister",
+        "passiveSkills": [
+            "dodge_enemy_damage_special"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Chitrangada",
@@ -2519,7 +2961,12 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Blue",
         "specialId": "gift_of_rejuvenation",
-        "heroId": "mahayoddha_chitrangada"
+        "heroId": "mahayoddha_chitrangada",
+        "passiveSkills": [
+            "resist_negative_minion_and_mega_minion_effects",
+            "mana_on_damage_received"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Ciara",
@@ -2537,7 +2984,12 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Blue",
         "specialId": "strict_standards",
-        "heroId": "garrison_ciara"
+        "heroId": "garrison_ciara",
+        "passiveSkills": [
+            "remove_wither_from_allies",
+            "resist_direct_mana_reductions"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Cinnamon",
@@ -2555,7 +3007,12 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Blue",
         "specialId": "frozen_wind",
-        "heroId": "mighty_pet_cinnamon"
+        "heroId": "mighty_pet_cinnamon",
+        "passiveSkills": [
+            "heal_and_add_mana_on_ally_minion",
+            "damage_enemies_on_enemy_parasite"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Claeg",
@@ -2573,7 +3030,12 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Blue",
         "specialId": "strength_of_the_accursed",
-        "heroId": "ice_god_claeg"
+        "heroId": "ice_god_claeg",
+        "passiveSkills": [
+            "resist_burn",
+            "resist_special_blocking"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Cobalt",
@@ -2592,7 +3054,9 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Blue",
         "specialId": "katana_rain",
-        "heroId": "ninja_cobalt"
+        "heroId": "ninja_cobalt",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Cosmicspeaker",
@@ -2612,7 +3076,12 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Blue",
         "specialId": "constellation_crush",
-        "heroId": "astral_cosmicspeaker"
+        "heroId": "astral_cosmicspeaker",
+        "passiveSkills": [
+            "share_received_damage",
+            "resist_poison"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Crystalis",
@@ -2633,7 +3102,9 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Blue",
         "specialId": "freezing_crystal",
-        "heroId": "villain_crystalis"
+        "heroId": "villain_crystalis",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Davey Wavey",
@@ -2653,7 +3124,12 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Blue",
         "specialId": "waters_of_nourishment",
-        "heroId": "beachparty_davey_wavey"
+        "heroId": "beachparty_davey_wavey",
+        "passiveSkills": [
+            "resist_water",
+            "underwater_on_special_beach"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Esme",
@@ -2672,7 +3148,9 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Blue",
         "specialId": "fiendslayer",
-        "heroId": "castle_wolf_esme"
+        "heroId": "castle_wolf_esme",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Exeera",
@@ -2689,7 +3167,11 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Blue",
         "specialId": "saturated_suffering",
-        "heroId": "s4_exeera"
+        "heroId": "s4_exeera",
+        "passiveSkills": [
+            "start_battle_with_mana"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Exeera Costume1",
@@ -2711,7 +3193,13 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Blue",
         "specialId": "saturated_suffering",
-        "heroId": "s4_exeera_costume_hierophant"
+        "heroId": "s4_exeera_costume_hierophant",
+        "passiveSkills": [
+            "start_battle_with_mana"
+        ],
+        "costumeBonusPassiveSkillIds": [
+            "extra_special_increased_damage_against_boosted_health"
+        ]
     },
     {
         "name": "Experience Mimic Ice",
@@ -2733,7 +3221,12 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Blue",
         "specialId": "mimic_training_hero_blue_bite",
-        "heroId": "mimic_training_hero_blue"
+        "heroId": "mimic_training_hero_blue",
+        "passiveSkills": [
+            "mimic_training_hero_blue",
+            "never_miss_special"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Fenrir",
@@ -2752,7 +3245,9 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Blue",
         "specialId": "gargantuan_bite",
-        "heroId": "s3_fenrir"
+        "heroId": "s3_fenrir",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Fenrir Costume1",
@@ -2775,7 +3270,9 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Blue",
         "specialId": "gargantuan_bite",
-        "heroId": "s3_fenrir_costume_guardian"
+        "heroId": "s3_fenrir_costume_guardian",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Fergus",
@@ -2793,7 +3290,13 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Blue",
         "specialId": "keep_the_peace",
-        "heroId": "garrison_fergus"
+        "heroId": "garrison_fergus",
+        "passiveSkills": [
+            "remove_growth_from_enemies",
+            "resist_direct_mana_reductions",
+            "mana_on_debuff"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Finley",
@@ -2811,7 +3314,9 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Blue",
         "specialId": "commodores_revenge",
-        "heroId": "pirate_commodore_finley"
+        "heroId": "pirate_commodore_finley",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Finley Costume1",
@@ -2834,7 +3339,11 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Blue",
         "specialId": "commodores_revenge",
-        "heroId": "pirate_commodore_finley_costume_bleak"
+        "heroId": "pirate_commodore_finley_costume_bleak",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": [
+            "extra_special_poison"
+        ]
     },
     {
         "name": "Firmin Richard",
@@ -2853,7 +3362,12 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Blue",
         "specialId": "voice_of_authority",
-        "heroId": "ballerina_firmin"
+        "heroId": "ballerina_firmin",
+        "passiveSkills": [
+            "heal_on_expired_or_cleared_debuff_fast",
+            "resist_attack_modifier_debuffs"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Fizzcoil",
@@ -2871,7 +3385,11 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Blue",
         "specialId": "shady_concerto",
-        "heroId": "goblin_fizzcoil"
+        "heroId": "goblin_fizzcoil",
+        "passiveSkills": [
+            "goblin_damage_and_accuracy_debuff_on_special"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Fortuna",
@@ -2891,7 +3409,11 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Blue",
         "specialId": "bad_fortune",
-        "heroId": "masquerade_fortuna"
+        "heroId": "masquerade_fortuna",
+        "passiveSkills": [
+            "cleanse_on_own_familiar_death"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Frida",
@@ -2910,7 +3432,11 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Blue",
         "specialId": "polar_bash",
-        "heroId": "ice_god_frida"
+        "heroId": "ice_god_frida",
+        "passiveSkills": [
+            "resist_attack_modifier_debuffs"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Frosth",
@@ -2928,7 +3454,12 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Blue",
         "specialId": "cold_command",
-        "heroId": "ice_god_frosth"
+        "heroId": "ice_god_frosth",
+        "passiveSkills": [
+            "cleanse_on_own_familiar_death",
+            "resist_burn"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Frostsnout",
@@ -2946,7 +3477,12 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Blue",
         "specialId": "raising_morale",
-        "heroId": "garrison_frostsnout"
+        "heroId": "garrison_frostsnout",
+        "passiveSkills": [
+            "remove_wither_from_allies",
+            "resist_direct_mana_reductions"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Gaillard",
@@ -2965,7 +3501,11 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Blue",
         "specialId": "educated_exorcism",
-        "heroId": "gargoyle_gaillard"
+        "heroId": "gargoyle_gaillard",
+        "passiveSkills": [
+            "gargoyle_stone"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Ghealach",
@@ -2984,7 +3524,12 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Blue",
         "specialId": "star_construct",
-        "heroId": "construct_blue_mage"
+        "heroId": "construct_blue_mage",
+        "passiveSkills": [
+            "destructive_core",
+            "resist_special_blocking"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Gladius",
@@ -3003,7 +3548,12 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Blue",
         "specialId": "hunters_instinct",
-        "heroId": "ice_god_callum"
+        "heroId": "ice_god_callum",
+        "passiveSkills": [
+            "mana_on_enemy_defense_buff",
+            "resist_special_blocking"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Glenda",
@@ -3022,7 +3572,11 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Blue",
         "specialId": "midnight_magic",
-        "heroId": "ice_god_glenda"
+        "heroId": "ice_god_glenda",
+        "passiveSkills": [
+            "resist_buff_immunity"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Grimsteel",
@@ -3040,7 +3594,11 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Blue",
         "specialId": "spirits_of_the_mountain",
-        "heroId": "goblin_grimsteel"
+        "heroId": "goblin_grimsteel",
+        "passiveSkills": [
+            "goblin_damage_and_accuracy_debuff_on_special"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Guardian Hippo",
@@ -3057,7 +3615,9 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Blue",
         "specialId": "brutal_support",
-        "heroId": "guardian_hippo"
+        "heroId": "guardian_hippo",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Hetepheres",
@@ -3075,7 +3635,11 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Blue",
         "specialId": "bewildering_riddle",
-        "heroId": "s5_hetepheres"
+        "heroId": "s5_hetepheres",
+        "passiveSkills": [
+            "sun_extra_special_heal_and_cleanse_latest_debuff"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Hetepheres Costume1",
@@ -3098,7 +3662,14 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Blue",
         "specialId": "bewildering_riddle",
-        "heroId": "s5_hetepheres_costume_spa"
+        "heroId": "s5_hetepheres_costume_spa",
+        "passiveSkills": [
+            "sun_extra_special_heal_and_cleanse_latest_debuff"
+        ],
+        "costumeBonusPassiveSkillIds": [
+            "heal_on_buff",
+            "guaranteed_passive_effects_on_special"
+        ]
     },
     {
         "name": "Himeros",
@@ -3116,7 +3687,11 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Blue",
         "specialId": "grips_of_longing",
-        "heroId": "valentines_himeros"
+        "heroId": "valentines_himeros",
+        "passiveSkills": [
+            "resist_special_blocking"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Hogne",
@@ -3140,7 +3715,12 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Blue",
         "specialId": "glacial_fissure_cleave",
-        "heroId": "tales2_hogne"
+        "heroId": "tales2_hogne",
+        "passiveSkills": [
+            "arctic_core",
+            "resist_frost_with_health_boost_and_mana"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Hrothgar",
@@ -3160,7 +3740,13 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Blue",
         "specialId": "kings_feast",
-        "heroId": "beowulf_hrothgar"
+        "heroId": "beowulf_hrothgar",
+        "passiveSkills": [
+            "attack_buff_on_damage_received",
+            "heal_on_expired_or_cleared_debuff_average",
+            "never_miss_special"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Hysteria",
@@ -3177,7 +3763,9 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Blue",
         "specialId": "eye_of_yog-sir",
-        "heroId": "shadow_hysteria"
+        "heroId": "shadow_hysteria",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Iris",
@@ -3196,7 +3784,12 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Blue",
         "specialId": "erase_strength",
-        "heroId": "ice_god_iris"
+        "heroId": "ice_god_iris",
+        "passiveSkills": [
+            "mana_on_dispel_buff",
+            "resist_burn"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Isarnia",
@@ -3213,7 +3806,9 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Blue",
         "specialId": "glacial_shatter",
-        "heroId": "nordic_ice_enchantress"
+        "heroId": "nordic_ice_enchantress",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Isarnia Costume1",
@@ -3234,7 +3829,9 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Blue",
         "specialId": "glacial_shatter",
-        "heroId": "nordic_ice_enchantress_costume_aqua"
+        "heroId": "nordic_ice_enchantress_costume_aqua",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Isarnia Costume2",
@@ -3256,7 +3853,9 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Blue",
         "specialId": "glacial_shatter",
-        "heroId": "nordic_ice_enchantress_costume_ruler"
+        "heroId": "nordic_ice_enchantress_costume_ruler",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Isarnia Toon",
@@ -3278,7 +3877,11 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Blue",
         "specialId": "glacial_shatter",
-        "heroId": "nordic_ice_enchantress_costume_cute"
+        "heroId": "nordic_ice_enchantress_costume_cute",
+        "passiveSkills": [
+            "toon_resist_debuffs_manareduction_dispels"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Isarnia Glass",
@@ -3300,7 +3903,11 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Blue",
         "specialId": "glacial_shatter",
-        "heroId": "nordic_ice_enchantress_costume_glass"
+        "heroId": "nordic_ice_enchantress_costume_glass",
+        "passiveSkills": [
+            "glass_reflect_debuffs"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Ixinn",
@@ -3321,7 +3928,13 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Blue",
         "specialId": "planetary_charge",
-        "heroId": "astral_dwarf_ixinn"
+        "heroId": "astral_dwarf_ixinn",
+        "passiveSkills": [
+            "never_miss_special",
+            "resist_negative_minion_and_mega_minion_effects",
+            "bypass_minions_and_mega_minions"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Jolt",
@@ -3340,7 +3953,11 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Blue",
         "specialId": "chain_lightning",
-        "heroId": "elemental_jolt"
+        "heroId": "elemental_jolt",
+        "passiveSkills": [
+            "strong_troop_damage_modifier"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Jolyon",
@@ -3359,7 +3976,13 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Blue",
         "specialId": "charm_of_protection",
-        "heroId": "faun_jolyon"
+        "heroId": "faun_jolyon",
+        "passiveSkills": [
+            "resist_negative_defense_modifiers_including_wither",
+            "resist_insanity",
+            "minion_and_mega_minion_accuracy_modifier"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Kabeiroi",
@@ -3377,7 +4000,11 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Blue",
         "specialId": "tough_love",
-        "heroId": "valentines_kabeiroi"
+        "heroId": "valentines_kabeiroi",
+        "passiveSkills": [
+            "resist_special_blocking"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Kettle",
@@ -3397,7 +4024,11 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Blue",
         "specialId": "dubious_cuisine",
-        "heroId": "goblin_kettle"
+        "heroId": "goblin_kettle",
+        "passiveSkills": [
+            "goblin_damage_and_accuracy_debuff_on_special"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "King Arthur",
@@ -3416,7 +4047,9 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Blue",
         "specialId": "excalibur",
-        "heroId": "knights_king_arthur"
+        "heroId": "knights_king_arthur",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Klaern",
@@ -3435,7 +4068,12 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Blue",
         "specialId": "hailstorm",
-        "heroId": "ice_god_klaern"
+        "heroId": "ice_god_klaern",
+        "passiveSkills": [
+            "resist_direct_mana_reductions",
+            "resist_special_blocking"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Krampus",
@@ -3454,7 +4092,9 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Blue",
         "specialId": "scourge_of_joy",
-        "heroId": "christmas_krampus"
+        "heroId": "christmas_krampus",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Krampus Costume1",
@@ -3477,7 +4117,9 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Blue",
         "specialId": "scourge_of_joy",
-        "heroId": "christmas_krampus_costume_eager_devil"
+        "heroId": "christmas_krampus_costume_eager_devil",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Lord Loki",
@@ -3493,7 +4135,9 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Blue",
         "specialId": "tricksters_mischief",
-        "heroId": "s3_loki_male"
+        "heroId": "s3_loki_male",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Lord Loki Costume1",
@@ -3514,7 +4158,9 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Blue",
         "specialId": "tricksters_mischief",
-        "heroId": "s3_loki_male_costume_shapeshifter"
+        "heroId": "s3_loki_male_costume_shapeshifter",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Lysanor",
@@ -3533,7 +4179,12 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Blue",
         "specialId": "sapphire_eyes",
-        "heroId": "castle_stag_lysanor"
+        "heroId": "castle_stag_lysanor",
+        "passiveSkills": [
+            "heal_on_buff_alliance_quest_family",
+            "mana_on_buff"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Magistine",
@@ -3553,7 +4204,12 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Blue",
         "specialId": "slimy_balls",
-        "heroId": "slime_magistine"
+        "heroId": "slime_magistine",
+        "passiveSkills": [
+            "summon_slime_minion_on_damage_blue",
+            "summon_slime_minion_on_death_blue"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Magni",
@@ -3570,7 +4226,9 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Blue",
         "specialId": "strike_of_the_ancients",
-        "heroId": "exalted_warrior"
+        "heroId": "exalted_warrior",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Magni Costume1",
@@ -3591,7 +4249,9 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Blue",
         "specialId": "strike_of_the_ancients",
-        "heroId": "exalted_warrior_costume_ice"
+        "heroId": "exalted_warrior_costume_ice",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Magni Costume2",
@@ -3612,7 +4272,9 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Blue",
         "specialId": "strike_of_the_ancients",
-        "heroId": "exalted_warrior_costume_underworld"
+        "heroId": "exalted_warrior_costume_underworld",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Magni Toon",
@@ -3634,7 +4296,11 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Blue",
         "specialId": "strike_of_the_ancients",
-        "heroId": "exalted_warrior_costume_cute"
+        "heroId": "exalted_warrior_costume_cute",
+        "passiveSkills": [
+            "toon_resist_debuffs_manareduction_dispels"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Magni Glass",
@@ -3656,7 +4322,11 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Blue",
         "specialId": "strike_of_the_ancients",
-        "heroId": "exalted_warrior_costume_glass"
+        "heroId": "exalted_warrior_costume_glass",
+        "passiveSkills": [
+            "glass_reflect_debuffs"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Mariol",
@@ -3674,7 +4344,11 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Blue",
         "specialId": "healing_mirror",
-        "heroId": "owl_mariol"
+        "heroId": "owl_mariol",
+        "passiveSkills": [
+            "mana_generation_modifier_all_enemies_stronger"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Master Lepus",
@@ -3691,7 +4365,9 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Blue",
         "specialId": "reckless_finisher",
-        "heroId": "rabbit_blue"
+        "heroId": "rabbit_blue",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Master Lepus Costume1",
@@ -3712,7 +4388,9 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Blue",
         "specialId": "reckless_finisher",
-        "heroId": "rabbit_blue_costume_riftbreaker"
+        "heroId": "rabbit_blue_costume_riftbreaker",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Matrera",
@@ -3731,7 +4409,11 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Blue",
         "specialId": "heretic_slayer",
-        "heroId": "gargoyle_matrera"
+        "heroId": "gargoyle_matrera",
+        "passiveSkills": [
+            "gargoyle_stone"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Mene",
@@ -3750,7 +4432,12 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Blue",
         "specialId": "freezing_fairy_mist",
-        "heroId": "ice_god_mene"
+        "heroId": "ice_god_mene",
+        "passiveSkills": [
+            "mana_on_enemy_frost",
+            "resist_burn"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Miki",
@@ -3768,7 +4455,11 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Blue",
         "specialId": "wrath_of_tundra",
-        "heroId": "ice_god_miki"
+        "heroId": "ice_god_miki",
+        "passiveSkills": [
+            "resist_special_blocking"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Milady de Winter",
@@ -3786,7 +4477,11 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Blue",
         "specialId": "masterful_manipulation",
-        "heroId": "musketeer_milady_de_winter"
+        "heroId": "musketeer_milady_de_winter",
+        "passiveSkills": [
+            "damage_all_enemies_on_cover_or_special_damage_received"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Milena",
@@ -3806,7 +4501,11 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Blue",
         "specialId": "restoration_and_annihilation",
-        "heroId": "magic_milena"
+        "heroId": "magic_milena",
+        "passiveSkills": [
+            "magic_add_mana_on_full_charge_to_not_blue"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Milena Costume1",
@@ -3830,7 +4529,13 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Blue",
         "specialId": "restoration_and_annihilation",
-        "heroId": "magic_milena_costume_ice"
+        "heroId": "magic_milena_costume_ice",
+        "passiveSkills": [
+            "magic_add_mana_on_full_charge_costume"
+        ],
+        "costumeBonusPassiveSkillIds": [
+            "reduce_big_minion_health"
+        ]
     },
     {
         "name": "Miriam & Midnight",
@@ -3849,7 +4554,11 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Blue",
         "specialId": "litter_of_kittens",
-        "heroId": "halloween_miriam_and_midnight"
+        "heroId": "halloween_miriam_and_midnight",
+        "passiveSkills": [
+            "halloween_steal_buff_or_deal_damage"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Misandra",
@@ -3867,7 +4576,9 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Blue",
         "specialId": "chain_strike",
-        "heroId": "s2_mercenary_woman"
+        "heroId": "s2_mercenary_woman",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Misandra Costume1",
@@ -3889,7 +4600,9 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Blue",
         "specialId": "chain_strike",
-        "heroId": "s2_mercenary_woman_costume_dancer"
+        "heroId": "s2_mercenary_woman_costume_dancer",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Miss Ethel",
@@ -3907,7 +4620,9 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Blue",
         "specialId": "mooing_for_a_fight",
-        "heroId": "easter_miss_ethel"
+        "heroId": "easter_miss_ethel",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Mistra",
@@ -3925,7 +4640,13 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Blue",
         "specialId": "cut_down_the_competition",
-        "heroId": "champions_mistra"
+        "heroId": "champions_mistra",
+        "passiveSkills": [
+            "resist_attack_modifier_debuffs",
+            "damage_on_enemy_special_if_enemy_faster_than_slow_mistra",
+            "mana_gen_on_debuff"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Misty",
@@ -3944,7 +4665,12 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Blue",
         "specialId": "seastar_burst",
-        "heroId": "beachparty_misty"
+        "heroId": "beachparty_misty",
+        "passiveSkills": [
+            "resist_water",
+            "underwater_on_special_beach"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Modthryth",
@@ -3964,7 +4690,13 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Blue",
         "specialId": "chilling_counterattack",
-        "heroId": "beowulf_modthryth"
+        "heroId": "beowulf_modthryth",
+        "passiveSkills": [
+            "resist_buff_immunity",
+            "resist_mana_reductions_with_health_boost_and_mana",
+            "mana_on_buff"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Mooncure",
@@ -3985,7 +4717,12 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Blue",
         "specialId": "astral_myrrh",
-        "heroId": "astral_mooncure"
+        "heroId": "astral_mooncure",
+        "passiveSkills": [
+            "share_received_damage",
+            "resist_poison"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Morel",
@@ -4002,7 +4739,11 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Blue",
         "specialId": "deathly_glaive",
-        "heroId": "s4_morel"
+        "heroId": "s4_morel",
+        "passiveSkills": [
+            "increase_special_damage"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Morel Costume1",
@@ -4026,7 +4767,13 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Blue",
         "specialId": "deathly_glaive",
-        "heroId": "s4_morel_costume_sage"
+        "heroId": "s4_morel_costume_sage",
+        "passiveSkills": [
+            "increase_special_damage"
+        ],
+        "costumeBonusPassiveSkillIds": [
+            "extra_special_increased_damage_against_boosted_health"
+        ]
     },
     {
         "name": "Mr Pengi",
@@ -4044,7 +4791,9 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Blue",
         "specialId": "herring_blaster",
-        "heroId": "christmas_mr_pengi"
+        "heroId": "christmas_mr_pengi",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Mr Pengi Costume1",
@@ -4067,7 +4816,9 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Blue",
         "specialId": "herring_blaster",
-        "heroId": "christmas_mr_pengi_costume_snowboarder"
+        "heroId": "christmas_mr_pengi_costume_snowboarder",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Nautica",
@@ -4087,7 +4838,12 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Blue",
         "specialId": "pathfinders_compass",
-        "heroId": "construct_nautica"
+        "heroId": "construct_nautica",
+        "passiveSkills": [
+            "repair_core",
+            "resist_special_blocking"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Nine-Headed Beast",
@@ -4106,7 +4862,12 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Blue",
         "specialId": "wrath_of_the_nine_beaks",
-        "heroId": "journey_nineheaded_beast"
+        "heroId": "journey_nineheaded_beast",
+        "passiveSkills": [
+            "heal_on_buff_with_chance",
+            "mana_on_buff_with_chance"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Nylora",
@@ -4123,7 +4884,11 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Blue",
         "specialId": "ice_and_slice",
-        "heroId": "elemental_nylora"
+        "heroId": "elemental_nylora",
+        "passiveSkills": [
+            "strong_troop_damage_modifier"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Odette",
@@ -4143,7 +4908,12 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Blue",
         "specialId": "dance_of_the_swan",
-        "heroId": "ballerina_odette"
+        "heroId": "ballerina_odette",
+        "passiveSkills": [
+            "heal_on_expired_or_cleared_debuff",
+            "resist_defense_modifier_debuffs"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Oniwakamaru",
@@ -4161,7 +4931,9 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Blue",
         "specialId": "standing_fortress",
-        "heroId": "ninja_oniwakamaru"
+        "heroId": "ninja_oniwakamaru",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Otso",
@@ -4180,7 +4952,11 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Blue",
         "specialId": "boreal_bash",
-        "heroId": "kalevala_otso"
+        "heroId": "kalevala_otso",
+        "passiveSkills": [
+            "heal_mana_on_low_health_once"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Passepartout",
@@ -4199,7 +4975,11 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Blue",
         "specialId": "helping_hands",
-        "heroId": "s4_passepartout"
+        "heroId": "s4_passepartout",
+        "passiveSkills": [
+            "increase_buff_duration"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Passepartout Costume1",
@@ -4223,7 +5003,13 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Blue",
         "specialId": "helping_hands",
-        "heroId": "s4_passepartout_costume_artist"
+        "heroId": "s4_passepartout_costume_artist",
+        "passiveSkills": [
+            "increase_buff_duration"
+        ],
+        "costumeBonusPassiveSkillIds": [
+            "extra_special_health_boost"
+        ]
     },
     {
         "name": "Pepperbleu",
@@ -4245,7 +5031,11 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Blue",
         "specialId": "dusk_till_dawn",
-        "heroId": "moth_pepperbleu"
+        "heroId": "moth_pepperbleu",
+        "passiveSkills": [
+            "dodge_enemy_damage_special"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Perseus",
@@ -4264,7 +5054,9 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Blue",
         "specialId": "everlasting_wound",
-        "heroId": "ice_god_perseus"
+        "heroId": "ice_god_perseus",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Perseus Costume1",
@@ -4288,7 +5080,11 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Blue",
         "specialId": "everlasting_wound",
-        "heroId": "ice_god_perseus_costume_frozen"
+        "heroId": "ice_god_perseus_costume_frozen",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": [
+            "extra_special_dispel_newest"
+        ]
     },
     {
         "name": "Pophit",
@@ -4307,7 +5103,11 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Blue",
         "specialId": "one_hit_wonder",
-        "heroId": "gargoyle_pophit"
+        "heroId": "gargoyle_pophit",
+        "passiveSkills": [
+            "gargoyle_soft_skin"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Porthos",
@@ -4328,7 +5128,11 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Blue",
         "specialId": "musketeers_mead",
-        "heroId": "musketeer_porthos"
+        "heroId": "musketeer_porthos",
+        "passiveSkills": [
+            "damage_all_enemies_on_cover_or_special_damage_received"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Quari",
@@ -4348,7 +5152,13 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Blue",
         "specialId": "frozen_path",
-        "heroId": "astral_dwarf_quari"
+        "heroId": "astral_dwarf_quari",
+        "passiveSkills": [
+            "never_miss_special",
+            "resist_negative_minion_and_mega_minion_effects",
+            "bypass_minions_and_mega_minions"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Quinn",
@@ -4368,7 +5178,11 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Blue",
         "specialId": "pineapple_barbeque",
-        "heroId": "elemental_quinn"
+        "heroId": "elemental_quinn",
+        "passiveSkills": [
+            "strong_troop_damage_modifier"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Quintin",
@@ -4386,7 +5200,9 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Blue",
         "specialId": "echoes_of_pain",
-        "heroId": "castle_raven_quintin"
+        "heroId": "castle_raven_quintin",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Raffaele",
@@ -4405,7 +5221,11 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Blue",
         "specialId": "ice_treatment",
-        "heroId": "ice_god_raffaele"
+        "heroId": "ice_god_raffaele",
+        "passiveSkills": [
+            "resist_attack_modifier_debuffs"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Rian",
@@ -4427,7 +5247,11 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Blue",
         "specialId": "cleansing_determination",
-        "heroId": "slayer_rian"
+        "heroId": "slayer_rian",
+        "passiveSkills": [
+            "resist_status_effect_damage"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Richard",
@@ -4444,7 +5268,9 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Blue",
         "specialId": "cloud_hammer",
-        "heroId": "nordic_male_lord"
+        "heroId": "nordic_male_lord",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Richard Costume1",
@@ -4465,7 +5291,9 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Blue",
         "specialId": "cloud_hammer",
-        "heroId": "nordic_male_lord_costume_senior"
+        "heroId": "nordic_male_lord_costume_senior",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Richard Costume2",
@@ -4487,7 +5315,9 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Blue",
         "specialId": "cloud_hammer",
-        "heroId": "nordic_male_lord_costume_injustice"
+        "heroId": "nordic_male_lord_costume_injustice",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Richard Toon",
@@ -4509,7 +5339,11 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Blue",
         "specialId": "cloud_hammer",
-        "heroId": "nordic_male_lord_costume_cute"
+        "heroId": "nordic_male_lord_costume_cute",
+        "passiveSkills": [
+            "toon_resist_debuffs_manareduction_dispels"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Richard Glass",
@@ -4531,7 +5365,11 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Blue",
         "specialId": "cloud_hammer",
-        "heroId": "nordic_male_lord_costume_glass"
+        "heroId": "nordic_male_lord_costume_glass",
+        "passiveSkills": [
+            "glass_reflect_debuffs"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Rumpelstiltskin",
@@ -4552,7 +5390,9 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Blue",
         "specialId": "legerdemain",
-        "heroId": "fables_rumpelstiltskin"
+        "heroId": "fables_rumpelstiltskin",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Rumpelstiltskin Costume1",
@@ -4579,7 +5419,9 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Blue",
         "specialId": "legerdemain",
-        "heroId": "fables_rumpelstiltskin_costume_eternal"
+        "heroId": "fables_rumpelstiltskin_costume_eternal",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Russula",
@@ -4599,7 +5441,11 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Blue",
         "specialId": "vengeful_backstab",
-        "heroId": "s4_russula"
+        "heroId": "s4_russula",
+        "passiveSkills": [
+            "decrease_debuff_duration"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Russula Costume1",
@@ -4625,7 +5471,13 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Blue",
         "specialId": "vengeful_backstab",
-        "heroId": "s4_russula_costume_painter"
+        "heroId": "s4_russula_costume_painter",
+        "passiveSkills": [
+            "decrease_debuff_duration"
+        ],
+        "costumeBonusPassiveSkillIds": [
+            "extra_special_increased_damage_against_boosted_health"
+        ]
     },
     {
         "name": "Sable",
@@ -4647,7 +5499,11 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Blue",
         "specialId": "ill_bring_you_back",
-        "heroId": "fox_sable"
+        "heroId": "fox_sable",
+        "passiveSkills": [
+            "reduced_healing_for_all_enemies"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Satori",
@@ -4666,7 +5522,13 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Blue",
         "specialId": "thousand_palm_strikes",
-        "heroId": "champions_satori"
+        "heroId": "champions_satori",
+        "passiveSkills": [
+            "mana_on_dispel_buff_satori",
+            "health_boost_on_dispel",
+            "mana_gen_on_debuff"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Sawano",
@@ -4685,7 +5547,11 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Blue",
         "specialId": "purifying_ki",
-        "heroId": "ninja_sawano"
+        "heroId": "ninja_sawano",
+        "passiveSkills": [
+            "reduce_minion_health"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Sigyn",
@@ -4704,7 +5570,12 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Blue",
         "specialId": "chitin_cage",
-        "heroId": "monster_hunter_sigyn"
+        "heroId": "monster_hunter_sigyn",
+        "passiveSkills": [
+            "hunters_mark_on_special",
+            "special_damage_reduction_monster_hunters"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Sini",
@@ -4725,7 +5596,12 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Blue",
         "specialId": "conjure_the_azure_spirit",
-        "heroId": "ice_god_sini"
+        "heroId": "ice_god_sini",
+        "passiveSkills": [
+            "attack_buff_on_mana_reduction",
+            "resist_special_blocking"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Siofra",
@@ -4744,7 +5620,11 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Blue",
         "specialId": "gilded_antlers",
-        "heroId": "castle_stag_siofra"
+        "heroId": "castle_stag_siofra",
+        "passiveSkills": [
+            "heal_on_buff_alliance_quest_family"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Skadi",
@@ -4764,7 +5644,9 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Blue",
         "specialId": "iceberg_crush",
-        "heroId": "s3_skadi"
+        "heroId": "s3_skadi",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Skadi Costume1",
@@ -4788,7 +5670,9 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Blue",
         "specialId": "iceberg_crush",
-        "heroId": "s3_skadi_costume_ravager"
+        "heroId": "s3_skadi_costume_ravager",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Skarn",
@@ -4809,7 +5693,12 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Blue",
         "specialId": "searing_frost",
-        "heroId": "construct_skarn"
+        "heroId": "construct_skarn",
+        "passiveSkills": [
+            "corrosive_core",
+            "resist_special_blocking"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Slimgo",
@@ -4827,7 +5716,12 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Blue",
         "specialId": "throwing_daggers",
-        "heroId": "slime_slimgo"
+        "heroId": "slime_slimgo",
+        "passiveSkills": [
+            "summon_slime_minion_on_damage_blue",
+            "summon_slime_minion_on_death_blue"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Snow White",
@@ -4847,7 +5741,9 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Blue",
         "specialId": "enchanted_edge",
-        "heroId": "fables_snow_white"
+        "heroId": "fables_snow_white",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Snow White Costume1",
@@ -4871,7 +5767,9 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Blue",
         "specialId": "enchanted_edge",
-        "heroId": "fables_snow_white_costume_slayer"
+        "heroId": "fables_snow_white_costume_slayer",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Sobek",
@@ -4888,7 +5786,11 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Blue",
         "specialId": "jaws_of_the_river",
-        "heroId": "s5_sobek"
+        "heroId": "s5_sobek",
+        "passiveSkills": [
+            "sun_extra_special_damage_and_dot"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Sobek Costume1",
@@ -4909,7 +5811,14 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Blue",
         "specialId": "jaws_of_the_river",
-        "heroId": "s5_sobek_costume_guardian"
+        "heroId": "s5_sobek_costume_guardian",
+        "passiveSkills": [
+            "sun_extra_special_damage_and_dot"
+        ],
+        "costumeBonusPassiveSkillIds": [
+            "increase_special_damage_buff",
+            "iterate_passive_effects_on_special"
+        ]
     },
     {
         "name": "Song Jiang",
@@ -4929,7 +5838,13 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Blue",
         "specialId": "righteous_strike",
-        "heroId": "outlaw_song_jiang"
+        "heroId": "outlaw_song_jiang",
+        "passiveSkills": [
+            "resist_bleed",
+            "righteous_rebellion_parent",
+            "cleanse_on_special_critical_damage_all_safe"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Sorrow",
@@ -4949,7 +5864,12 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Blue",
         "specialId": "icebound_ritual",
-        "heroId": "monster_hunter_sorrow"
+        "heroId": "monster_hunter_sorrow",
+        "passiveSkills": [
+            "hunters_mark_on_special",
+            "monster_hunter_reallocate_debuff_or_heal"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Starwalker",
@@ -4969,7 +5889,12 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Blue",
         "specialId": "scepter_of_constellations",
-        "heroId": "astral_starwalker"
+        "heroId": "astral_starwalker",
+        "passiveSkills": [
+            "share_received_damage",
+            "resist_poison"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Suzuna",
@@ -4988,7 +5913,12 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Blue",
         "specialId": "easy_breezy_aura",
-        "heroId": "ice_god_suzuna"
+        "heroId": "ice_god_suzuna",
+        "passiveSkills": [
+            "resist_parasites",
+            "resist_heal_multiplier_debuffs"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Tealmoine",
@@ -5008,7 +5938,11 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Blue",
         "specialId": "bizarre_mist",
-        "heroId": "moth_tealmoine"
+        "heroId": "moth_tealmoine",
+        "passiveSkills": [
+            "dodge_enemy_damage_special"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Tethys",
@@ -5026,7 +5960,9 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Blue",
         "specialId": "amphibious_assault",
-        "heroId": "s2_tethys"
+        "heroId": "s2_tethys",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Thalassa",
@@ -5044,7 +5980,11 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Blue",
         "specialId": "oceans_embrace",
-        "heroId": "tales1_thalassa"
+        "heroId": "tales1_thalassa",
+        "passiveSkills": [
+            "tales1_extra_special_damage_and_add_critical"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Thalassa Costume1",
@@ -5066,7 +6006,13 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Blue",
         "specialId": "oceans_embrace",
-        "heroId": "tales1_thalassa_costume_crystals"
+        "heroId": "tales1_thalassa_costume_crystals",
+        "passiveSkills": [
+            "tales1_extra_special_damage_and_add_critical"
+        ],
+        "costumeBonusPassiveSkillIds": [
+            "resist_insanity"
+        ]
     },
     {
         "name": "Thanatos",
@@ -5085,7 +6031,12 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Blue",
         "specialId": "delay_the_inevitable",
-        "heroId": "styx_thanatos"
+        "heroId": "styx_thanatos",
+        "passiveSkills": [
+            "resist_all_defense_debuffs",
+            "reduce_minion_health"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Theobald",
@@ -5104,7 +6055,9 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Blue",
         "specialId": "multi_throw",
-        "heroId": "circus_theobald"
+        "heroId": "circus_theobald",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Thorne",
@@ -5120,7 +6073,9 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Blue",
         "specialId": "icecold_finisher",
-        "heroId": "royal_knight_commander"
+        "heroId": "royal_knight_commander",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Thorne Costume1",
@@ -5141,7 +6096,9 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Blue",
         "specialId": "icecold_finisher",
-        "heroId": "royal_knight_commander_costume_king"
+        "heroId": "royal_knight_commander_costume_king",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Thorne Costume2",
@@ -5163,7 +6120,9 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Blue",
         "specialId": "icecold_finisher",
-        "heroId": "royal_knight_commander_costume_gryphon"
+        "heroId": "royal_knight_commander_costume_gryphon",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Thorne Toon",
@@ -5184,7 +6143,11 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Blue",
         "specialId": "icecold_finisher",
-        "heroId": "royal_knight_commander_costume_cute"
+        "heroId": "royal_knight_commander_costume_cute",
+        "passiveSkills": [
+            "toon_resist_debuffs_manareduction_dispels"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Timius",
@@ -5205,7 +6168,11 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Blue",
         "specialId": "for_queen_and_hollow",
-        "heroId": "owl_timius"
+        "heroId": "owl_timius",
+        "passiveSkills": [
+            "mana_generation_modifier_all_enemies_stronger"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Tinsel",
@@ -5224,7 +6191,9 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Blue",
         "specialId": "malevolent_toys",
-        "heroId": "christmas_tinsel"
+        "heroId": "christmas_tinsel",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Tremor",
@@ -5244,7 +6213,12 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Blue",
         "specialId": "protective_stance",
-        "heroId": "monster_hunter_tremor"
+        "heroId": "monster_hunter_tremor",
+        "passiveSkills": [
+            "hunters_mark_on_special",
+            "attack_modifier_on_special"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Ulius",
@@ -5264,7 +6238,12 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Blue",
         "specialId": "scroll_of_equations",
-        "heroId": "magic_ulius"
+        "heroId": "magic_ulius",
+        "passiveSkills": [
+            "magic_mana_regen_stack_on_special",
+            "magic_damage_on_full_charge_to_not_red"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Vela",
@@ -5284,7 +6263,11 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Blue",
         "specialId": "aquatic_outbreak",
-        "heroId": "ice_god_vela"
+        "heroId": "ice_god_vela",
+        "passiveSkills": [
+            "resist_negative_minion_effects"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Verity",
@@ -5303,7 +6286,13 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Blue",
         "specialId": "red_shoes",
-        "heroId": "faun_verity"
+        "heroId": "faun_verity",
+        "passiveSkills": [
+            "resist_negative_attack_modifiers_including_wither",
+            "resist_insanity",
+            "minion_and_mega_minion_accuracy_modifier"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Vincent",
@@ -5323,7 +6312,11 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Blue",
         "specialId": "cold_fire",
-        "heroId": "gargoyle_vincent"
+        "heroId": "gargoyle_vincent",
+        "passiveSkills": [
+            "gargoyle_soft_skin"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Waterpipe",
@@ -5343,7 +6336,12 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Blue",
         "specialId": "harpoon_sentry",
-        "heroId": "monster_hunter_waterpipe"
+        "heroId": "monster_hunter_waterpipe",
+        "passiveSkills": [
+            "hunters_mark_on_special",
+            "special_damage_reduction_monster_hunters"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Whitefang",
@@ -5362,7 +6360,11 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Blue",
         "specialId": "never_ending_winter",
-        "heroId": "fox_whitefang"
+        "heroId": "fox_whitefang",
+        "passiveSkills": [
+            "reduced_healing_for_all_enemies"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Zappa",
@@ -5380,7 +6382,9 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Blue",
         "specialId": "blue_shroom_wand",
-        "heroId": "christmas_zappa"
+        "heroId": "christmas_zappa",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Zengar",
@@ -5398,7 +6402,11 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Blue",
         "specialId": "great_frost_axe",
-        "heroId": "elemental_zengar"
+        "heroId": "elemental_zengar",
+        "passiveSkills": [
+            "strong_troop_damage_modifier"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Zircon",
@@ -5417,7 +6425,9 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Blue",
         "specialId": "wall_of_ki",
-        "heroId": "ninja_zircon"
+        "heroId": "ninja_zircon",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Aife",
@@ -5433,7 +6443,9 @@ window.allHeroesExtra = [
         "rarity": 1,
         "element": "Green",
         "specialId": "hacking_attack",
-        "heroId": "forest_female_warrior"
+        "heroId": "forest_female_warrior",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Derric",
@@ -5449,7 +6461,9 @@ window.allHeroesExtra = [
         "rarity": 1,
         "element": "Green",
         "specialId": "axe_throw",
-        "heroId": "forest_woodsman"
+        "heroId": "forest_woodsman",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Brogan",
@@ -5465,7 +6479,9 @@ window.allHeroesExtra = [
         "rarity": 2,
         "element": "Green",
         "specialId": "tackle",
-        "heroId": "forest_thug"
+        "heroId": "forest_thug",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Jenneh",
@@ -5481,7 +6497,9 @@ window.allHeroesExtra = [
         "rarity": 2,
         "element": "Green",
         "specialId": "mark_of_ivy",
-        "heroId": "forest_female_illusionist"
+        "heroId": "forest_female_illusionist",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Needler",
@@ -5497,7 +6515,9 @@ window.allHeroesExtra = [
         "rarity": 2,
         "element": "Green",
         "specialId": "focused_shot",
-        "heroId": "goblin_archer"
+        "heroId": "goblin_archer",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Alessia",
@@ -5514,7 +6534,11 @@ window.allHeroesExtra = [
         "rarity": 3,
         "element": "Green",
         "specialId": "bewitched_daggers",
-        "heroId": "masquerade_alessia"
+        "heroId": "masquerade_alessia",
+        "passiveSkills": [
+            "cleanse_on_own_familiar_death"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Belith",
@@ -5531,7 +6555,9 @@ window.allHeroesExtra = [
         "rarity": 3,
         "element": "Green",
         "specialId": "calming_mist",
-        "heroId": "forest_female_spirit"
+        "heroId": "forest_female_spirit",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Belith Costume1",
@@ -5552,7 +6578,9 @@ window.allHeroesExtra = [
         "rarity": 3,
         "element": "Green",
         "specialId": "calming_mist",
-        "heroId": "forest_female_spirit_costume_autumn"
+        "heroId": "forest_female_spirit_costume_autumn",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Belith Toon",
@@ -5574,7 +6602,11 @@ window.allHeroesExtra = [
         "rarity": 3,
         "element": "Green",
         "specialId": "calming_mist",
-        "heroId": "forest_female_spirit_costume_cute"
+        "heroId": "forest_female_spirit_costume_cute",
+        "passiveSkills": [
+            "toon_resist_debuffs_manareduction_dispels"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Belith Glass",
@@ -5596,7 +6628,11 @@ window.allHeroesExtra = [
         "rarity": 3,
         "element": "Green",
         "specialId": "calming_mist",
-        "heroId": "forest_female_spirit_costume_glass"
+        "heroId": "forest_female_spirit_costume_glass",
+        "passiveSkills": [
+            "glass_reflect_debuffs"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Berden",
@@ -5613,7 +6649,9 @@ window.allHeroesExtra = [
         "rarity": 3,
         "element": "Green",
         "specialId": "entangling_shot",
-        "heroId": "forest_archer"
+        "heroId": "forest_archer",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Berden Costume1",
@@ -5634,7 +6672,9 @@ window.allHeroesExtra = [
         "rarity": 3,
         "element": "Green",
         "specialId": "entangling_shot",
-        "heroId": "forest_archer_costume_warrior"
+        "heroId": "forest_archer_costume_warrior",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Berden Toon",
@@ -5656,7 +6696,11 @@ window.allHeroesExtra = [
         "rarity": 3,
         "element": "Green",
         "specialId": "entangling_shot",
-        "heroId": "forest_archer_costume_cute"
+        "heroId": "forest_archer_costume_cute",
+        "passiveSkills": [
+            "toon_resist_debuffs_manareduction_dispels"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Berden Glass",
@@ -5678,7 +6722,11 @@ window.allHeroesExtra = [
         "rarity": 3,
         "element": "Green",
         "specialId": "entangling_shot",
-        "heroId": "forest_archer_costume_glass"
+        "heroId": "forest_archer_costume_glass",
+        "passiveSkills": [
+            "glass_reflect_debuffs"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Brienne",
@@ -5694,7 +6742,9 @@ window.allHeroesExtra = [
         "rarity": 3,
         "element": "Green",
         "specialId": "natures_blessing",
-        "heroId": "forest_female_druid"
+        "heroId": "forest_female_druid",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Brienne Costume1",
@@ -5714,7 +6764,9 @@ window.allHeroesExtra = [
         "rarity": 3,
         "element": "Green",
         "specialId": "natures_blessing",
-        "heroId": "forest_female_druid_costume_native"
+        "heroId": "forest_female_druid_costume_native",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Brienne Toon",
@@ -5734,7 +6786,11 @@ window.allHeroesExtra = [
         "rarity": 3,
         "element": "Green",
         "specialId": "natures_blessing",
-        "heroId": "forest_female_druid_costume_cute"
+        "heroId": "forest_female_druid_costume_cute",
+        "passiveSkills": [
+            "toon_resist_debuffs_manareduction_dispels"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Brienne Glass",
@@ -5755,7 +6811,11 @@ window.allHeroesExtra = [
         "rarity": 3,
         "element": "Green",
         "specialId": "natures_blessing",
-        "heroId": "forest_female_druid_costume_glass"
+        "heroId": "forest_female_druid_costume_glass",
+        "passiveSkills": [
+            "glass_reflect_debuffs"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "By-Ulf",
@@ -5774,7 +6834,9 @@ window.allHeroesExtra = [
         "rarity": 3,
         "element": "Green",
         "specialId": "hollow_boast",
-        "heroId": "s3_by_ulf"
+        "heroId": "s3_by_ulf",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Carver",
@@ -5791,7 +6853,9 @@ window.allHeroesExtra = [
         "rarity": 3,
         "element": "Green",
         "specialId": "slash_of_four_blades",
-        "heroId": "goblin_fighter"
+        "heroId": "goblin_fighter",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Carver Costume1",
@@ -5812,7 +6876,9 @@ window.allHeroesExtra = [
         "rarity": 3,
         "element": "Green",
         "specialId": "slash_of_four_blades",
-        "heroId": "goblin_fighter_costume_evil"
+        "heroId": "goblin_fighter_costume_evil",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Carver Toon",
@@ -5834,7 +6900,11 @@ window.allHeroesExtra = [
         "rarity": 3,
         "element": "Green",
         "specialId": "slash_of_four_blades",
-        "heroId": "goblin_fighter_costume_cute"
+        "heroId": "goblin_fighter_costume_cute",
+        "passiveSkills": [
+            "toon_resist_debuffs_manareduction_dispels"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Chires",
@@ -5852,7 +6922,13 @@ window.allHeroesExtra = [
         "rarity": 3,
         "element": "Green",
         "specialId": "astral_pastries",
-        "heroId": "astral_dwarf_chires"
+        "heroId": "astral_dwarf_chires",
+        "passiveSkills": [
+            "eat_fiends_on_special_cast",
+            "resist_negative_minion_and_mega_minion_effects",
+            "bypass_minions_and_mega_minions"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Dolgoon",
@@ -5871,7 +6947,11 @@ window.allHeroesExtra = [
         "rarity": 3,
         "element": "Green",
         "specialId": "voluminous_vigor",
-        "heroId": "magic_dolgoon"
+        "heroId": "magic_dolgoon",
+        "passiveSkills": [
+            "magic_mana_regen_debuff_on_special"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Faiez",
@@ -5889,7 +6969,11 @@ window.allHeroesExtra = [
         "rarity": 3,
         "element": "Green",
         "specialId": "plentiful_harvest",
-        "heroId": "s5_faiez"
+        "heroId": "s5_faiez",
+        "passiveSkills": [
+            "sun_extra_special_heal_and_cleanse_latest_debuff"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Faiez Costume1",
@@ -5912,7 +6996,14 @@ window.allHeroesExtra = [
         "rarity": 3,
         "element": "Green",
         "specialId": "plentiful_harvest",
-        "heroId": "s5_faiez_costume_miner"
+        "heroId": "s5_faiez_costume_miner",
+        "passiveSkills": [
+            "sun_extra_special_heal_and_cleanse_latest_debuff"
+        ],
+        "costumeBonusPassiveSkillIds": [
+            "heal_on_buff",
+            "guaranteed_passive_effects_on_special"
+        ]
     },
     {
         "name": "Featherino",
@@ -5930,7 +7021,11 @@ window.allHeroesExtra = [
         "rarity": 3,
         "element": "Green",
         "specialId": "jack_of_owl_trades",
-        "heroId": "owl_featherino"
+        "heroId": "owl_featherino",
+        "passiveSkills": [
+            "mana_generation_modifier_all_enemies_stronger"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Fianna",
@@ -5948,7 +7043,12 @@ window.allHeroesExtra = [
         "rarity": 3,
         "element": "Green",
         "specialId": "bone_arrow",
-        "heroId": "monster_hunter_fianna"
+        "heroId": "monster_hunter_fianna",
+        "passiveSkills": [
+            "hunters_mark_on_special",
+            "special_damage_reduction_monster_hunters"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Friar Tuck",
@@ -5965,7 +7065,9 @@ window.allHeroesExtra = [
         "rarity": 3,
         "element": "Green",
         "specialId": "have_faith",
-        "heroId": "forest_friar"
+        "heroId": "forest_friar",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Friar Tuck Costume1",
@@ -5986,7 +7088,9 @@ window.allHeroesExtra = [
         "rarity": 3,
         "element": "Green",
         "specialId": "have_faith",
-        "heroId": "forest_friar_costume_explorer"
+        "heroId": "forest_friar_costume_explorer",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Friar Tuck Toon",
@@ -6007,7 +7111,11 @@ window.allHeroesExtra = [
         "rarity": 3,
         "element": "Green",
         "specialId": "have_faith",
-        "heroId": "forest_friar_costume_cute"
+        "heroId": "forest_friar_costume_cute",
+        "passiveSkills": [
+            "toon_resist_debuffs_manareduction_dispels"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Friar Tuck Glass",
@@ -6029,7 +7137,11 @@ window.allHeroesExtra = [
         "rarity": 3,
         "element": "Green",
         "specialId": "have_faith",
-        "heroId": "forest_friar_costume_glass"
+        "heroId": "forest_friar_costume_glass",
+        "passiveSkills": [
+            "glass_reflect_debuffs"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "General Yin",
@@ -6047,7 +7159,9 @@ window.allHeroesExtra = [
         "rarity": 3,
         "element": "Green",
         "specialId": "enchanted_axe_swing",
-        "heroId": "journey_general_yin"
+        "heroId": "journey_general_yin",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Gnomer",
@@ -6064,7 +7178,9 @@ window.allHeroesExtra = [
         "rarity": 3,
         "element": "Green",
         "specialId": "sharp_knife",
-        "heroId": "fables_gnomer"
+        "heroId": "fables_gnomer",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Goopy",
@@ -6082,7 +7198,11 @@ window.allHeroesExtra = [
         "rarity": 3,
         "element": "Green",
         "specialId": "sugar_rush",
-        "heroId": "halloween_goopy"
+        "heroId": "halloween_goopy",
+        "passiveSkills": [
+            "halloween_steal_buff_or_deal_damage"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Gramps",
@@ -6099,7 +7219,11 @@ window.allHeroesExtra = [
         "rarity": 3,
         "element": "Green",
         "specialId": "elders_remedy",
-        "heroId": "s4_gramps"
+        "heroId": "s4_gramps",
+        "passiveSkills": [
+            "special_damage_reduction"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Gramps Costume1",
@@ -6120,7 +7244,11 @@ window.allHeroesExtra = [
         "rarity": 3,
         "element": "Green",
         "specialId": "elders_remedy",
-        "heroId": "s4_gramps_costume_gardener"
+        "heroId": "s4_gramps_costume_gardener",
+        "passiveSkills": [
+            "special_damage_reduction"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Grevle",
@@ -6138,7 +7266,9 @@ window.allHeroesExtra = [
         "rarity": 3,
         "element": "Green",
         "specialId": "travelers_snack",
-        "heroId": "s3_grevle"
+        "heroId": "s3_grevle",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Hisan",
@@ -6158,7 +7288,9 @@ window.allHeroesExtra = [
         "rarity": 3,
         "element": "Green",
         "specialId": "horses_curse",
-        "heroId": "sand_horse"
+        "heroId": "sand_horse",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Isshtak",
@@ -6174,7 +7306,9 @@ window.allHeroesExtra = [
         "rarity": 3,
         "element": "Green",
         "specialId": "ramming_rush",
-        "heroId": "lizardman_warrior"
+        "heroId": "lizardman_warrior",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Isshtak Costume1",
@@ -6195,7 +7329,9 @@ window.allHeroesExtra = [
         "rarity": 3,
         "element": "Green",
         "specialId": "ramming_rush",
-        "heroId": "lizardman_warrior_costume_dinosaur"
+        "heroId": "lizardman_warrior_costume_dinosaur",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Isshtak Toon",
@@ -6216,7 +7352,11 @@ window.allHeroesExtra = [
         "rarity": 3,
         "element": "Green",
         "specialId": "ramming_rush",
-        "heroId": "lizardman_warrior_costume_cute"
+        "heroId": "lizardman_warrior_costume_cute",
+        "passiveSkills": [
+            "toon_resist_debuffs_manareduction_dispels"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Jing",
@@ -6234,7 +7374,9 @@ window.allHeroesExtra = [
         "rarity": 3,
         "element": "Green",
         "specialId": "spear_of_shu",
-        "heroId": "kingdom_jing"
+        "heroId": "kingdom_jing",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Mnesseus",
@@ -6251,7 +7393,9 @@ window.allHeroesExtra = [
         "rarity": 3,
         "element": "Green",
         "specialId": "frightening_pinch",
-        "heroId": "s2_merman"
+        "heroId": "s2_merman",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Mnesseus Costume1",
@@ -6272,7 +7416,9 @@ window.allHeroesExtra = [
         "rarity": 3,
         "element": "Green",
         "specialId": "frightening_pinch",
-        "heroId": "s2_merman_costume_leutenant"
+        "heroId": "s2_merman_costume_leutenant",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Muggy",
@@ -6288,7 +7434,9 @@ window.allHeroesExtra = [
         "rarity": 3,
         "element": "Green",
         "specialId": "bruiser_bros",
-        "heroId": "s2_chameleon_bruiser"
+        "heroId": "s2_chameleon_bruiser",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Noril",
@@ -6310,7 +7458,11 @@ window.allHeroesExtra = [
         "rarity": 3,
         "element": "Green",
         "specialId": "dual_axes",
-        "heroId": "slayer_noril"
+        "heroId": "slayer_noril",
+        "passiveSkills": [
+            "resist_status_effect_damage"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Roxia",
@@ -6332,7 +7484,12 @@ window.allHeroesExtra = [
         "rarity": 3,
         "element": "Green",
         "specialId": "ancient_ritual",
-        "heroId": "magic_roxia"
+        "heroId": "magic_roxia",
+        "passiveSkills": [
+            "magic_mana_regen_stack_on_special",
+            "magic_add_mana_on_full_charge_to_not_blue"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Shrubbear",
@@ -6349,7 +7506,9 @@ window.allHeroesExtra = [
         "rarity": 3,
         "element": "Green",
         "specialId": "camouflage_foliage",
-        "heroId": "wonderland_bear"
+        "heroId": "wonderland_bear",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Whacker",
@@ -6366,7 +7525,9 @@ window.allHeroesExtra = [
         "rarity": 3,
         "element": "Green",
         "specialId": "nasty_hammer",
-        "heroId": "circus_whacker"
+        "heroId": "circus_whacker",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "William",
@@ -6384,7 +7545,12 @@ window.allHeroesExtra = [
         "rarity": 3,
         "element": "Green",
         "specialId": "situational_awareness",
-        "heroId": "garrison_william"
+        "heroId": "garrison_william",
+        "passiveSkills": [
+            "remove_wither_from_allies",
+            "resist_direct_mana_reductions"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Yona",
@@ -6403,7 +7569,11 @@ window.allHeroesExtra = [
         "rarity": 3,
         "element": "Green",
         "specialId": "paws_or_claws",
-        "heroId": "castle_bear_yona"
+        "heroId": "castle_bear_yona",
+        "passiveSkills": [
+            "heal_on_buff_alliance_quest_family"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Zarel",
@@ -6421,7 +7591,11 @@ window.allHeroesExtra = [
         "rarity": 3,
         "element": "Green",
         "specialId": "tambourine_solo",
-        "heroId": "bard_zarel"
+        "heroId": "bard_zarel",
+        "passiveSkills": [
+            "defense_modifier_reduction_all_allies"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Zarola",
@@ -6438,7 +7612,11 @@ window.allHeroesExtra = [
         "rarity": 3,
         "element": "Green",
         "specialId": "punishing_shot",
-        "heroId": "valentines_zarola"
+        "heroId": "valentines_zarola",
+        "passiveSkills": [
+            "resist_special_blocking"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Alfie",
@@ -6457,7 +7635,11 @@ window.allHeroesExtra = [
         "rarity": 4,
         "element": "Green",
         "specialId": "enchanted_symphony",
-        "heroId": "elemental_alfie"
+        "heroId": "elemental_alfie",
+        "passiveSkills": [
+            "strong_troop_damage_modifier"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Almur",
@@ -6475,7 +7657,9 @@ window.allHeroesExtra = [
         "rarity": 4,
         "element": "Green",
         "specialId": "shadow_sweep",
-        "heroId": "s3_almur"
+        "heroId": "s3_almur",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Almur Costume1",
@@ -6497,7 +7681,9 @@ window.allHeroesExtra = [
         "rarity": 4,
         "element": "Green",
         "specialId": "shadow_sweep",
-        "heroId": "s3_almur_costume_lord"
+        "heroId": "s3_almur_costume_lord",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Anton",
@@ -6518,7 +7704,11 @@ window.allHeroesExtra = [
         "rarity": 4,
         "element": "Green",
         "specialId": "high_noon_sun",
-        "heroId": "magic_anton"
+        "heroId": "magic_anton",
+        "passiveSkills": [
+            "magic_heal_on_full_charge_to_not_green"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Brontes",
@@ -6537,7 +7727,12 @@ window.allHeroesExtra = [
         "rarity": 4,
         "element": "Green",
         "specialId": "fruits_of_labor",
-        "heroId": "styx_brontes"
+        "heroId": "styx_brontes",
+        "passiveSkills": [
+            "resist_all_defense_debuffs",
+            "reduce_minion_health"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Brynhild",
@@ -6556,7 +7751,9 @@ window.allHeroesExtra = [
         "rarity": 4,
         "element": "Green",
         "specialId": "valkyrie_defense",
-        "heroId": "s3_brynhild"
+        "heroId": "s3_brynhild",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Buddy",
@@ -6575,7 +7772,9 @@ window.allHeroesExtra = [
         "rarity": 4,
         "element": "Red",
         "specialId": "perilous_gift",
-        "heroId": "christmas_carol"
+        "heroId": "christmas_carol",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Caedmon",
@@ -6592,7 +7791,9 @@ window.allHeroesExtra = [
         "rarity": 4,
         "element": "Green",
         "specialId": "piercing_strike",
-        "heroId": "elven_captain"
+        "heroId": "elven_captain",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Caedmon Costume1",
@@ -6613,7 +7814,9 @@ window.allHeroesExtra = [
         "rarity": 4,
         "element": "Green",
         "specialId": "piercing_strike",
-        "heroId": "elven_captain_costume_mask"
+        "heroId": "elven_captain_costume_mask",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Caedmon Costume2",
@@ -6635,7 +7838,9 @@ window.allHeroesExtra = [
         "rarity": 4,
         "element": "Green",
         "specialId": "piercing_strike",
-        "heroId": "elven_captain_costume_cavalier"
+        "heroId": "elven_captain_costume_cavalier",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Caedmon Toon",
@@ -6657,7 +7862,11 @@ window.allHeroesExtra = [
         "rarity": 4,
         "element": "Green",
         "specialId": "piercing_strike",
-        "heroId": "elven_captain_costume_cute"
+        "heroId": "elven_captain_costume_cute",
+        "passiveSkills": [
+            "toon_resist_debuffs_manareduction_dispels"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Caedmon Glass",
@@ -6680,7 +7889,11 @@ window.allHeroesExtra = [
         "rarity": 4,
         "element": "Green",
         "specialId": "piercing_strike",
-        "heroId": "elven_captain_costume_glass"
+        "heroId": "elven_captain_costume_glass",
+        "passiveSkills": [
+            "glass_reflect_debuffs"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Franz",
@@ -6698,7 +7911,9 @@ window.allHeroesExtra = [
         "rarity": 4,
         "element": "Green",
         "specialId": "sonorous_spear",
-        "heroId": "castle_raven_franz"
+        "heroId": "castle_raven_franz",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Gadeirus",
@@ -6716,7 +7931,9 @@ window.allHeroesExtra = [
         "rarity": 4,
         "element": "Green",
         "specialId": "empowering_bash",
-        "heroId": "s2_atlantean_robot"
+        "heroId": "s2_atlantean_robot",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Gadeirus Costume1",
@@ -6739,7 +7956,9 @@ window.allHeroesExtra = [
         "rarity": 4,
         "element": "Green",
         "specialId": "empowering_bash",
-        "heroId": "s2_atlantean_robot_costume_sentinel"
+        "heroId": "s2_atlantean_robot_costume_sentinel",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Gobbler",
@@ -6757,7 +7976,9 @@ window.allHeroesExtra = [
         "rarity": 4,
         "element": "Green",
         "specialId": "familiar_eater",
-        "heroId": "s2_chameleon_chief"
+        "heroId": "s2_chameleon_chief",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Gobbler Costume1",
@@ -6779,7 +8000,9 @@ window.allHeroesExtra = [
         "rarity": 4,
         "element": "Green",
         "specialId": "familiar_eater",
-        "heroId": "s2_chameleon_chief_costume_heavyweight"
+        "heroId": "s2_chameleon_chief_costume_heavyweight",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Hansel",
@@ -6797,7 +8020,9 @@ window.allHeroesExtra = [
         "rarity": 4,
         "element": "Green",
         "specialId": "witch_killer",
-        "heroId": "fables_hansel"
+        "heroId": "fables_hansel",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Hansel Costume1",
@@ -6819,7 +8044,9 @@ window.allHeroesExtra = [
         "rarity": 4,
         "element": "Green",
         "specialId": "witch_killer",
-        "heroId": "fables_hansel_costume_vampire_hunter"
+        "heroId": "fables_hansel_costume_vampire_hunter",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Jack O'Hare",
@@ -6836,7 +8063,9 @@ window.allHeroesExtra = [
         "rarity": 4,
         "element": "Green",
         "specialId": "reckless_slash",
-        "heroId": "rabbit_green"
+        "heroId": "rabbit_green",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Jack O'Hare Costume1",
@@ -6858,7 +8087,9 @@ window.allHeroesExtra = [
         "rarity": 4,
         "element": "Green",
         "specialId": "reckless_slash",
-        "heroId": "rabbit_green_costume_egg_hunter"
+        "heroId": "rabbit_green_costume_egg_hunter",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Kalo",
@@ -6875,7 +8106,11 @@ window.allHeroesExtra = [
         "rarity": 4,
         "element": "Green",
         "specialId": "resurrection_of_the_fallen",
-        "heroId": "gargoyle_kalo"
+        "heroId": "gargoyle_kalo",
+        "passiveSkills": [
+            "gargoyle_stone"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Kashhrek",
@@ -6892,7 +8127,9 @@ window.allHeroesExtra = [
         "rarity": 4,
         "element": "Green",
         "specialId": "swamp_skin",
-        "heroId": "lizardman_trapper"
+        "heroId": "lizardman_trapper",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Kashhrek Costume1",
@@ -6914,7 +8151,9 @@ window.allHeroesExtra = [
         "rarity": 4,
         "element": "Green",
         "specialId": "swamp_skin",
-        "heroId": "lizardman_trapper_costume_shaman"
+        "heroId": "lizardman_trapper_costume_shaman",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Kashhrek Costume2",
@@ -6935,7 +8174,9 @@ window.allHeroesExtra = [
         "rarity": 4,
         "element": "Green",
         "specialId": "swamp_skin",
-        "heroId": "lizardman_trapper_costume_fisher"
+        "heroId": "lizardman_trapper_costume_fisher",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Kashhrek Toon",
@@ -6956,7 +8197,11 @@ window.allHeroesExtra = [
         "rarity": 4,
         "element": "Green",
         "specialId": "swamp_skin",
-        "heroId": "lizardman_trapper_costume_cute"
+        "heroId": "lizardman_trapper_costume_cute",
+        "passiveSkills": [
+            "toon_resist_debuffs_manareduction_dispels"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Kashhrek Glass",
@@ -6978,7 +8223,11 @@ window.allHeroesExtra = [
         "rarity": 4,
         "element": "Green",
         "specialId": "swamp_skin",
-        "heroId": "lizardman_trapper_costume_glass"
+        "heroId": "lizardman_trapper_costume_glass",
+        "passiveSkills": [
+            "glass_reflect_debuffs"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Lionstring",
@@ -6999,7 +8248,12 @@ window.allHeroesExtra = [
         "rarity": 4,
         "element": "Green",
         "specialId": "cloth_of_constellations",
-        "heroId": "astral_lionstring"
+        "heroId": "astral_lionstring",
+        "passiveSkills": [
+            "share_received_damage",
+            "resist_poison"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Little John",
@@ -7016,7 +8270,9 @@ window.allHeroesExtra = [
         "rarity": 4,
         "element": "Green",
         "specialId": "massive_chop",
-        "heroId": "forest_woodsman_warrior"
+        "heroId": "forest_woodsman_warrior",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Little John Costume1",
@@ -7038,7 +8294,9 @@ window.allHeroesExtra = [
         "rarity": 4,
         "element": "Green",
         "specialId": "massive_chop",
-        "heroId": "forest_woodsman_warrior_costume_camouflage"
+        "heroId": "forest_woodsman_warrior_costume_camouflage",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Little John Costume2",
@@ -7059,7 +8317,9 @@ window.allHeroesExtra = [
         "rarity": 4,
         "element": "Green",
         "specialId": "massive_chop",
-        "heroId": "forest_woodsman_warrior_costume_highlander"
+        "heroId": "forest_woodsman_warrior_costume_highlander",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Little John Toon",
@@ -7081,7 +8341,11 @@ window.allHeroesExtra = [
         "rarity": 4,
         "element": "Green",
         "specialId": "massive_chop",
-        "heroId": "forest_woodsman_warrior_costume_cute"
+        "heroId": "forest_woodsman_warrior_costume_cute",
+        "passiveSkills": [
+            "toon_resist_debuffs_manareduction_dispels"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Little John Glass",
@@ -7103,7 +8367,11 @@ window.allHeroesExtra = [
         "rarity": 4,
         "element": "Green",
         "specialId": "massive_chop",
-        "heroId": "forest_woodsman_warrior_costume_glass"
+        "heroId": "forest_woodsman_warrior_costume_glass",
+        "passiveSkills": [
+            "glass_reflect_debuffs"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Marcel",
@@ -7122,7 +8390,9 @@ window.allHeroesExtra = [
         "rarity": 4,
         "element": "Green",
         "specialId": "head_hurl",
-        "heroId": "circus_marcel"
+        "heroId": "circus_marcel",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Melendor",
@@ -7139,7 +8409,9 @@ window.allHeroesExtra = [
         "rarity": 4,
         "element": "Green",
         "specialId": "fog_of_the_fallen",
-        "heroId": "forest_mage"
+        "heroId": "forest_mage",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Melendor Costume1",
@@ -7161,7 +8433,9 @@ window.allHeroesExtra = [
         "rarity": 4,
         "element": "Green",
         "specialId": "fog_of_the_fallen",
-        "heroId": "forest_mage_costume_white"
+        "heroId": "forest_mage_costume_white",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Melendor Costume2",
@@ -7183,7 +8457,9 @@ window.allHeroesExtra = [
         "rarity": 4,
         "element": "Green",
         "specialId": "fog_of_the_fallen",
-        "heroId": "forest_mage_costume_party"
+        "heroId": "forest_mage_costume_party",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Melendor Toon",
@@ -7205,7 +8481,11 @@ window.allHeroesExtra = [
         "rarity": 4,
         "element": "Green",
         "specialId": "fog_of_the_fallen",
-        "heroId": "forest_mage_costume_cute"
+        "heroId": "forest_mage_costume_cute",
+        "passiveSkills": [
+            "toon_resist_debuffs_manareduction_dispels"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Melendor Glass",
@@ -7227,7 +8507,11 @@ window.allHeroesExtra = [
         "rarity": 4,
         "element": "Green",
         "specialId": "fog_of_the_fallen",
-        "heroId": "forest_mage_costume_glass"
+        "heroId": "forest_mage_costume_glass",
+        "passiveSkills": [
+            "glass_reflect_debuffs"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Mielikki",
@@ -7245,7 +8529,11 @@ window.allHeroesExtra = [
         "rarity": 4,
         "element": "Green",
         "specialId": "sprite_ballad",
-        "heroId": "kalevala_mielikki"
+        "heroId": "kalevala_mielikki",
+        "passiveSkills": [
+            "heal_mana_on_low_health_once"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Mielikki Costume1",
@@ -7267,7 +8555,11 @@ window.allHeroesExtra = [
         "rarity": 4,
         "element": "Green",
         "specialId": "sprite_ballad",
-        "heroId": "kalevala_mielikki_costume_bear_protector"
+        "heroId": "kalevala_mielikki_costume_bear_protector",
+        "passiveSkills": [
+            "heal_mana_on_low_health_once"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Mulgog",
@@ -7287,7 +8579,11 @@ window.allHeroesExtra = [
         "rarity": 4,
         "element": "Green",
         "specialId": "noxious_cleave",
-        "heroId": "tales1_mulgog"
+        "heroId": "tales1_mulgog",
+        "passiveSkills": [
+            "tales1_extra_special_damage_and_add_stacking_mana_generation"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Mulgog Costume1",
@@ -7311,7 +8607,13 @@ window.allHeroesExtra = [
         "rarity": 4,
         "element": "Green",
         "specialId": "noxious_cleave",
-        "heroId": "tales1_mulgog_costume_bard"
+        "heroId": "tales1_mulgog_costume_bard",
+        "passiveSkills": [
+            "tales1_extra_special_damage_and_add_stacking_mana_generation"
+        ],
+        "costumeBonusPassiveSkillIds": [
+            "resist_insanity"
+        ]
     },
     {
         "name": "Myrtle",
@@ -7330,7 +8632,13 @@ window.allHeroesExtra = [
         "rarity": 4,
         "element": "Green",
         "specialId": "a_rare_cultivar",
-        "heroId": "faun_myrtle"
+        "heroId": "faun_myrtle",
+        "passiveSkills": [
+            "resist_negative_attack_modifiers_including_wither",
+            "resist_insanity",
+            "minion_and_mega_minion_accuracy_modifier"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Numbskull",
@@ -7349,7 +8657,12 @@ window.allHeroesExtra = [
         "rarity": 4,
         "element": "Green",
         "specialId": "cracked_skull_strike",
-        "heroId": "monster_hunter_numbskull"
+        "heroId": "monster_hunter_numbskull",
+        "passiveSkills": [
+            "hunters_mark_on_special",
+            "monster_hunter_reallocate_debuff_or_heal"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Orla",
@@ -7371,7 +8684,11 @@ window.allHeroesExtra = [
         "rarity": 4,
         "element": "Green",
         "specialId": "graceful_shot",
-        "heroId": "slayer_orla"
+        "heroId": "slayer_orla",
+        "passiveSkills": [
+            "resist_status_effect_damage"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Peters",
@@ -7388,7 +8705,9 @@ window.allHeroesExtra = [
         "rarity": 4,
         "element": "Green",
         "specialId": "buccaneers_blade",
-        "heroId": "pirate_cabin_boy"
+        "heroId": "pirate_cabin_boy",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Peters Costume1",
@@ -7410,7 +8729,9 @@ window.allHeroesExtra = [
         "rarity": 4,
         "element": "Green",
         "specialId": "buccaneers_blade",
-        "heroId": "pirate_cabin_boy_costume_paper"
+        "heroId": "pirate_cabin_boy_costume_paper",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Ptolemy",
@@ -7428,7 +8749,11 @@ window.allHeroesExtra = [
         "rarity": 4,
         "element": "Green",
         "specialId": "divine_connection",
-        "heroId": "s5_ptolemy"
+        "heroId": "s5_ptolemy",
+        "passiveSkills": [
+            "sun_extra_special_heal_and_cleanse_latest_debuff"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Ptolemy Costume1",
@@ -7452,7 +8777,14 @@ window.allHeroesExtra = [
         "rarity": 4,
         "element": "Green",
         "specialId": "divine_connection",
-        "heroId": "s5_ptolemy_costume_log"
+        "heroId": "s5_ptolemy_costume_log",
+        "passiveSkills": [
+            "sun_extra_special_heal_and_cleanse_latest_debuff"
+        ],
+        "costumeBonusPassiveSkillIds": [
+            "heal_on_buff",
+            "guaranteed_passive_effects_on_special"
+        ]
     },
     {
         "name": "Raleigh",
@@ -7470,7 +8802,11 @@ window.allHeroesExtra = [
         "rarity": 4,
         "element": "Green",
         "specialId": "tome_of_the_stag",
-        "heroId": "castle_stag_raleigh"
+        "heroId": "castle_stag_raleigh",
+        "passiveSkills": [
+            "heal_on_buff_alliance_quest_family"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Skittleskull",
@@ -7487,7 +8823,9 @@ window.allHeroesExtra = [
         "rarity": 4,
         "element": "Green",
         "specialId": "creeping_vines",
-        "heroId": "goblin_mage"
+        "heroId": "goblin_mage",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Skittleskull Costume1",
@@ -7508,7 +8846,9 @@ window.allHeroesExtra = [
         "rarity": 4,
         "element": "Green",
         "specialId": "creeping_vines",
-        "heroId": "goblin_mage_costume_candy"
+        "heroId": "goblin_mage_costume_candy",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Skittleskull Costume2",
@@ -7529,7 +8869,9 @@ window.allHeroesExtra = [
         "rarity": 4,
         "element": "Green",
         "specialId": "creeping_vines",
-        "heroId": "goblin_mage_costume_toad"
+        "heroId": "goblin_mage_costume_toad",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Skittleskull Toon",
@@ -7551,7 +8893,11 @@ window.allHeroesExtra = [
         "rarity": 4,
         "element": "Green",
         "specialId": "creeping_vines",
-        "heroId": "goblin_mage_costume_cute"
+        "heroId": "goblin_mage_costume_cute",
+        "passiveSkills": [
+            "toon_resist_debuffs_manareduction_dispels"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Skittleskull Glass",
@@ -7573,7 +8919,11 @@ window.allHeroesExtra = [
         "rarity": 4,
         "element": "Green",
         "specialId": "creeping_vines",
-        "heroId": "goblin_mage_costume_glass"
+        "heroId": "goblin_mage_costume_glass",
+        "passiveSkills": [
+            "glass_reflect_debuffs"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Tettukh",
@@ -7591,7 +8941,11 @@ window.allHeroesExtra = [
         "rarity": 4,
         "element": "Green",
         "specialId": "crippling_grapple",
-        "heroId": "s4_tettukh"
+        "heroId": "s4_tettukh",
+        "passiveSkills": [
+            "special_damage_reduction"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Tettukh Costume1",
@@ -7613,7 +8967,11 @@ window.allHeroesExtra = [
         "rarity": 4,
         "element": "Green",
         "specialId": "crippling_grapple",
-        "heroId": "s4_tettukh_costume_cheerleader"
+        "heroId": "s4_tettukh_costume_cheerleader",
+        "passiveSkills": [
+            "special_damage_reduction"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Villiers",
@@ -7633,7 +8991,11 @@ window.allHeroesExtra = [
         "rarity": 4,
         "element": "Green",
         "specialId": "the_dukes_investigation",
-        "heroId": "musketeer_villiers"
+        "heroId": "musketeer_villiers",
+        "passiveSkills": [
+            "damage_all_enemies_on_cover_or_special_damage_received"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Wren",
@@ -7651,7 +9013,9 @@ window.allHeroesExtra = [
         "rarity": 4,
         "element": "Green",
         "specialId": "squires_squirrel",
-        "heroId": "castle_raven_wren"
+        "heroId": "castle_raven_wren",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Ahmose",
@@ -7668,7 +9032,11 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Green",
         "specialId": "ancient_mirror",
-        "heroId": "s5_ahmose"
+        "heroId": "s5_ahmose",
+        "passiveSkills": [
+            "moon_extra_special_damage_and_mana_regen_debuff"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Ahmose Costume1",
@@ -7689,7 +9057,14 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Green",
         "specialId": "ancient_mirror",
-        "heroId": "s5_ahmose_costume_reborn"
+        "heroId": "s5_ahmose_costume_reborn",
+        "passiveSkills": [
+            "moon_extra_special_damage_and_mana_regen_debuff"
+        ],
+        "costumeBonusPassiveSkillIds": [
+            "resist_sand",
+            "iterate_passive_effects_on_special"
+        ]
     },
     {
         "name": "Alberich",
@@ -7709,7 +9084,9 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Green",
         "specialId": "midsummers_dream",
-        "heroId": "forest_god_oberon"
+        "heroId": "forest_god_oberon",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Alberich Costume1",
@@ -7734,7 +9111,11 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Green",
         "specialId": "midsummers_dream",
-        "heroId": "forest_god_oberon_costume_everoak"
+        "heroId": "forest_god_oberon_costume_everoak",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": [
+            "extra_special_cleanse_newest"
+        ]
     },
     {
         "name": "Archibald",
@@ -7754,7 +9135,12 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Green",
         "specialId": "suspicious_stew",
-        "heroId": "garrison_archibald"
+        "heroId": "garrison_archibald",
+        "passiveSkills": [
+            "remove_growth_from_enemies",
+            "resist_direct_mana_reductions"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Archie",
@@ -7772,7 +9158,9 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Green",
         "specialId": "fabled_llama_ballad",
-        "heroId": "easter_archie"
+        "heroId": "easter_archie",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Archie Costume1",
@@ -7794,7 +9182,9 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Green",
         "specialId": "fabled_llama_ballad",
-        "heroId": "easter_archie_costume_gallant"
+        "heroId": "easter_archie_costume_gallant",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Arco",
@@ -7813,7 +9203,11 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Green",
         "specialId": "gargoyles_of_redemption",
-        "heroId": "gargoyle_arco"
+        "heroId": "gargoyle_arco",
+        "passiveSkills": [
+            "gargoyle_stone"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Armand Moncharmin",
@@ -7831,7 +9225,12 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Green",
         "specialId": "make_them_harmless",
-        "heroId": "ballerina_armand"
+        "heroId": "ballerina_armand",
+        "passiveSkills": [
+            "heal_on_expired_or_cleared_debuff",
+            "resist_attack_modifier_debuffs"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Athos",
@@ -7851,7 +9250,11 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Green",
         "specialId": "piercing_shot",
-        "heroId": "musketeer_athos"
+        "heroId": "musketeer_athos",
+        "passiveSkills": [
+            "damage_all_enemies_on_cover_or_special_damage_received"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Atomos",
@@ -7869,7 +9272,9 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Green",
         "specialId": "immortal_annihilator",
-        "heroId": "s2_skyllaros"
+        "heroId": "s2_skyllaros",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Atomos Costume1",
@@ -7891,7 +9296,9 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Green",
         "specialId": "immortal_annihilator",
-        "heroId": "s2_skyllaros_costume_reef"
+        "heroId": "s2_skyllaros_costume_reef",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Atwood",
@@ -7910,7 +9317,11 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Green",
         "specialId": "jewel_of_the_deep",
-        "heroId": "shadow_atwood"
+        "heroId": "shadow_atwood",
+        "passiveSkills": [
+            "insanity_damage_reduction"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Augustus",
@@ -7930,7 +9341,9 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Green",
         "specialId": "wisdom_of_the_gnomes",
-        "heroId": "christmas_augustus"
+        "heroId": "christmas_augustus",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Balbar",
@@ -7950,7 +9363,12 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Green",
         "specialId": "slumber_spores",
-        "heroId": "nature_god_balbar"
+        "heroId": "nature_god_balbar",
+        "passiveSkills": [
+            "heal_on_buff",
+            "resist_buff_immunity"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Bertila",
@@ -7968,7 +9386,12 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Green",
         "specialId": "en_garde",
-        "heroId": "nature_god_bertila"
+        "heroId": "nature_god_bertila",
+        "passiveSkills": [
+            "mana_on_own_familiar_death",
+            "resist_accuracy_modifier_debuffs"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Bo & Runt",
@@ -7988,7 +9411,12 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Green",
         "specialId": "command_pack",
-        "heroId": "nature_god_bo_and_runt"
+        "heroId": "nature_god_bo_and_runt",
+        "passiveSkills": [
+            "mana_on_ally_minion_summon",
+            "resist_minion_removal"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Bonzo",
@@ -8007,7 +9435,12 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Green",
         "specialId": "odd_drum_roll",
-        "heroId": "bard_bonzo"
+        "heroId": "bard_bonzo",
+        "passiveSkills": [
+            "set_dance_duration",
+            "set_ballad_duration"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Boom & Fang",
@@ -8024,7 +9457,11 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Green",
         "specialId": "boar_call",
-        "heroId": "goblin_boom_and_fang"
+        "heroId": "goblin_boom_and_fang",
+        "passiveSkills": [
+            "goblin_damage_and_accuracy_debuff_on_special"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Bramble",
@@ -8043,7 +9480,13 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Green",
         "specialId": "sylvan_blessings",
-        "heroId": "faun_bramble"
+        "heroId": "faun_bramble",
+        "passiveSkills": [
+            "resist_insanity",
+            "resist_negative_defense_modifiers_including_wither",
+            "minion_and_mega_minion_accuracy_modifier"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Chikao",
@@ -8062,7 +9505,11 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Green",
         "specialId": "fatal_dreams",
-        "heroId": "ninja_chikao"
+        "heroId": "ninja_chikao",
+        "passiveSkills": [
+            "reduce_minion_health"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Chloris",
@@ -8080,7 +9527,12 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Green",
         "specialId": "invigorating_pollen",
-        "heroId": "nature_god_chloris"
+        "heroId": "nature_god_chloris",
+        "passiveSkills": [
+            "healthboost_on_enemy_special",
+            "resist_heal_multiplier_debuffs"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Cinisia",
@@ -8099,7 +9551,12 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Green",
         "specialId": "fury_of_ash",
-        "heroId": "nature_god_cinisia"
+        "heroId": "nature_god_cinisia",
+        "passiveSkills": [
+            "increased_attack_per_enemies_not_green_cinisia",
+            "resist_attack_modifier_debuffs"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Congalach",
@@ -8117,7 +9574,11 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Green",
         "specialId": "spectres_flail",
-        "heroId": "s4_congalach"
+        "heroId": "s4_congalach",
+        "passiveSkills": [
+            "special_damage_reduction"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Congalach Costume1",
@@ -8139,7 +9600,13 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Green",
         "specialId": "spectres_flail",
-        "heroId": "s4_congalach_costume_kelp"
+        "heroId": "s4_congalach_costume_kelp",
+        "passiveSkills": [
+            "special_damage_reduction"
+        ],
+        "costumeBonusPassiveSkillIds": [
+            "extra_special_increased_damage_against_boosted_health"
+        ]
     },
     {
         "name": "Craum",
@@ -8156,7 +9623,11 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Green",
         "specialId": "call_of_the_elements",
-        "heroId": "elemental_craum"
+        "heroId": "elemental_craum",
+        "passiveSkills": [
+            "strong_troop_damage_modifier"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Cristobal",
@@ -8175,7 +9646,11 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Green",
         "specialId": "charmed_dual_blade",
-        "heroId": "magic_cristobal"
+        "heroId": "magic_cristobal",
+        "passiveSkills": [
+            "magic_mana_regen_debuff_on_special"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Dagr",
@@ -8196,7 +9671,12 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Green",
         "specialId": "blazing_venom",
-        "heroId": "tales2_dagr"
+        "heroId": "tales2_dagr",
+        "passiveSkills": [
+            "molten_core",
+            "resist_burn_with_health_boost_and_mana"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Daroga",
@@ -8215,7 +9695,12 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Green",
         "specialId": "echoes_of_the_opera",
-        "heroId": "ballerina_daroga"
+        "heroId": "ballerina_daroga",
+        "passiveSkills": [
+            "heal_on_expired_or_cleared_debuff_fast",
+            "resist_attack_modifier_debuffs"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Desmond",
@@ -8233,7 +9718,11 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Green",
         "specialId": "jade_blades",
-        "heroId": "elemental_desmond"
+        "heroId": "elemental_desmond",
+        "passiveSkills": [
+            "strong_troop_damage_modifier"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Dodgrom",
@@ -8251,7 +9740,11 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Green",
         "specialId": "looking_for_love",
-        "heroId": "valentines_matchmaker_dodgrom"
+        "heroId": "valentines_matchmaker_dodgrom",
+        "passiveSkills": [
+            "resist_special_blocking"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Ecgtheow",
@@ -8269,7 +9762,13 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Green",
         "specialId": "challenge_the_strongest",
-        "heroId": "beowulf_ecgtheow"
+        "heroId": "beowulf_ecgtheow",
+        "passiveSkills": [
+            "attack_buff_on_damage_received",
+            "mana_on_buff",
+            "never_miss_special"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Edwin",
@@ -8287,7 +9786,11 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Green",
         "specialId": "hemlock_tea",
-        "heroId": "halloween_edwin"
+        "heroId": "halloween_edwin",
+        "passiveSkills": [
+            "halloween_steal_buff_or_deal_damage"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Eiora & Fluffy",
@@ -8305,7 +9808,9 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Green",
         "specialId": "perfect_teamwork",
-        "heroId": "circus_eiora_and_fluffy"
+        "heroId": "circus_eiora_and_fluffy",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Ekanite",
@@ -8323,7 +9828,9 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Green",
         "specialId": "order_ambush",
-        "heroId": "ninja_ekanite"
+        "heroId": "ninja_ekanite",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "El Naddaha",
@@ -8340,7 +9847,11 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Green",
         "specialId": "luring_song",
-        "heroId": "s5_el_naddaha"
+        "heroId": "s5_el_naddaha",
+        "passiveSkills": [
+            "moon_extra_special_damage_and_dispel_latest_buff"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "El Naddaha Costume1",
@@ -8362,7 +9873,14 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Green",
         "specialId": "luring_song",
-        "heroId": "s5_el_naddaha_costume_sea"
+        "heroId": "s5_el_naddaha_costume_sea",
+        "passiveSkills": [
+            "moon_extra_special_damage_and_dispel_latest_buff"
+        ],
+        "costumeBonusPassiveSkillIds": [
+            "mana_on_debuff",
+            "guaranteed_passive_effects_on_special"
+        ]
     },
     {
         "name": "Elkanen",
@@ -8379,7 +9897,9 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Green",
         "specialId": "crescent_spear",
-        "heroId": "forest_male_elf"
+        "heroId": "forest_male_elf",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Elkanen Costume1",
@@ -8401,7 +9921,9 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Green",
         "specialId": "crescent_spear",
-        "heroId": "forest_male_elf_costume_dark"
+        "heroId": "forest_male_elf_costume_dark",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Elkanen Costume2",
@@ -8422,7 +9944,9 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Green",
         "specialId": "crescent_spear",
-        "heroId": "forest_male_elf_costume_king"
+        "heroId": "forest_male_elf_costume_king",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Elkanen Toon",
@@ -8444,7 +9968,11 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Green",
         "specialId": "crescent_spear",
-        "heroId": "forest_male_elf_costume_cute"
+        "heroId": "forest_male_elf_costume_cute",
+        "passiveSkills": [
+            "toon_resist_debuffs_manareduction_dispels"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Elkanen Glass",
@@ -8466,7 +9994,11 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Green",
         "specialId": "crescent_spear",
-        "heroId": "forest_male_elf_costume_glass"
+        "heroId": "forest_male_elf_costume_glass",
+        "passiveSkills": [
+            "glass_reflect_debuffs"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Elradir",
@@ -8485,7 +10017,12 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Green",
         "specialId": "natures_payback",
-        "heroId": "forest_god_elradir"
+        "heroId": "forest_god_elradir",
+        "passiveSkills": [
+            "mana_on_debuff",
+            "resist_special_blocking"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Elyssa",
@@ -8505,7 +10042,12 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Green",
         "specialId": "picnic_in_the_sky",
-        "heroId": "magic_carpet_elyssa"
+        "heroId": "magic_carpet_elyssa",
+        "passiveSkills": [
+            "reduce_big_minion_health",
+            "fly_magic_carpet"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Enigmo",
@@ -8524,7 +10066,11 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Green",
         "specialId": "absorbed_underlings",
-        "heroId": "mystery_enigmo"
+        "heroId": "mystery_enigmo",
+        "passiveSkills": [
+            "memorize_familiars"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Evelyn",
@@ -8543,7 +10089,9 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Green",
         "specialId": "shattering_warcry",
-        "heroId": "forest_god_evelyn"
+        "heroId": "forest_god_evelyn",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Evelyn Costume1",
@@ -8567,7 +10115,11 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Green",
         "specialId": "shattering_warcry",
-        "heroId": "forest_god_evelyn_costume_huntress"
+        "heroId": "forest_god_evelyn_costume_huntress",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": [
+            "extra_special_cleanse_newest"
+        ]
     },
     {
         "name": "Experience Mimic Nature",
@@ -8589,7 +10141,12 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Green",
         "specialId": "mimic_training_hero_green_bite",
-        "heroId": "mimic_training_hero_green"
+        "heroId": "mimic_training_hero_green",
+        "passiveSkills": [
+            "mimic_training_hero_green",
+            "never_miss_special"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Fafnir",
@@ -8611,7 +10168,12 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Green",
         "specialId": "lance_of_avarice",
-        "heroId": "tales2_fafnir"
+        "heroId": "tales2_fafnir",
+        "passiveSkills": [
+            "arctic_core",
+            "resist_frost_with_health_boost_and_mana"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Februus",
@@ -8630,7 +10192,12 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Green",
         "specialId": "remedies_and_diseases",
-        "heroId": "masquerade_februus"
+        "heroId": "masquerade_februus",
+        "passiveSkills": [
+            "cleanse_on_own_familiar_death",
+            "resist_all_defense_debuffs"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Ferrus",
@@ -8651,7 +10218,12 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Green",
         "specialId": "corroding_cutlass",
-        "heroId": "construct_ferrus"
+        "heroId": "construct_ferrus",
+        "passiveSkills": [
+            "corrosive_core",
+            "resist_special_blocking"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Foxley",
@@ -8670,7 +10242,11 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Green",
         "specialId": "barbed_arrows",
-        "heroId": "fox_foxley"
+        "heroId": "fox_foxley",
+        "passiveSkills": [
+            "reduced_healing_for_all_enemies"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Francine",
@@ -8688,7 +10264,11 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Green",
         "specialId": "electric_cut",
-        "heroId": "halloween_francine"
+        "heroId": "halloween_francine",
+        "passiveSkills": [
+            "halloween_steal_buff_or_deal_damage"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Francine Costume1",
@@ -8710,7 +10290,11 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Green",
         "specialId": "electric_cut",
-        "heroId": "halloween_francine_costume_mafia"
+        "heroId": "halloween_francine_costume_mafia",
+        "passiveSkills": [
+            "halloween_steal_buff_or_deal_damage"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Frigg",
@@ -8728,7 +10312,9 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Green",
         "specialId": "brittling_force",
-        "heroId": "s3_frigg"
+        "heroId": "s3_frigg",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Frigg Costume1",
@@ -8750,7 +10336,9 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Green",
         "specialId": "brittling_force",
-        "heroId": "s3_frigg_costume_clairvoyance"
+        "heroId": "s3_frigg_costume_clairvoyance",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Frog Prince",
@@ -8770,7 +10358,9 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Green",
         "specialId": "royal_poisoner",
-        "heroId": "fables_frog_prince"
+        "heroId": "fables_frog_prince",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Frond",
@@ -8789,7 +10379,12 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Green",
         "specialId": "fury_of_the_ancient_forest",
-        "heroId": "construct_frond"
+        "heroId": "construct_frond",
+        "passiveSkills": [
+            "destructive_core",
+            "resist_special_blocking"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Fungustine",
@@ -8808,7 +10403,12 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Green",
         "specialId": "revitalizing_sludge",
-        "heroId": "slime_fungustine"
+        "heroId": "slime_fungustine",
+        "passiveSkills": [
+            "summon_slime_minion_on_damage_green",
+            "summon_slime_minion_on_death_green"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Galapago",
@@ -8828,7 +10428,11 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Green",
         "specialId": "testudo_roll",
-        "heroId": "tales1_galapago"
+        "heroId": "tales1_galapago",
+        "passiveSkills": [
+            "tales1_extra_special_damage_and_add_critical"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Galapago Costume1",
@@ -8852,7 +10456,13 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Green",
         "specialId": "testudo_roll",
-        "heroId": "tales1_galapago_costume_quarry"
+        "heroId": "tales1_galapago_costume_quarry",
+        "passiveSkills": [
+            "tales1_extra_special_damage_and_add_critical"
+        ],
+        "costumeBonusPassiveSkillIds": [
+            "resist_insanity"
+        ]
     },
     {
         "name": "Garjammal",
@@ -8869,7 +10479,11 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Green",
         "specialId": "flail_of_destruction",
-        "heroId": "s4_garjammal"
+        "heroId": "s4_garjammal",
+        "passiveSkills": [
+            "decrease_debuff_duration"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Garjammal Costume1",
@@ -8892,7 +10506,13 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Green",
         "specialId": "flail_of_destruction",
-        "heroId": "s4_garjammal_costume_kite"
+        "heroId": "s4_garjammal_costume_kite",
+        "passiveSkills": [
+            "decrease_debuff_duration"
+        ],
+        "costumeBonusPassiveSkillIds": [
+            "extra_special_increased_damage_against_boosted_health"
+        ]
     },
     {
         "name": "Garten",
@@ -8912,7 +10532,11 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Green",
         "specialId": "bone_club_party",
-        "heroId": "gargoyle_garten"
+        "heroId": "gargoyle_garten",
+        "passiveSkills": [
+            "gargoyle_soft_skin"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Gelert",
@@ -8932,7 +10556,11 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Green",
         "specialId": "whirlpool_dash",
-        "heroId": "tales1_gelert"
+        "heroId": "tales1_gelert",
+        "passiveSkills": [
+            "tales1_extra_special_damage_and_add_critical"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Ginger",
@@ -8950,7 +10578,9 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Green",
         "specialId": "hasty_trigger_finger",
-        "heroId": "christmas_ginger"
+        "heroId": "christmas_ginger",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Goorian",
@@ -8968,7 +10598,12 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Green",
         "specialId": "bone_slam",
-        "heroId": "slime_goorian"
+        "heroId": "slime_goorian",
+        "passiveSkills": [
+            "summon_slime_minion_on_damage_green",
+            "summon_slime_minion_on_death_green"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Grace",
@@ -8988,7 +10623,12 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Green",
         "specialId": "malison_of_the_wildlands",
-        "heroId": "forest_god_grace"
+        "heroId": "forest_god_grace",
+        "passiveSkills": [
+            "add_mana_on_enemy_taunt",
+            "resist_burn"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Green Knight",
@@ -9006,7 +10646,9 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Green",
         "specialId": "omen_of_retribution",
-        "heroId": "knights_green_knight"
+        "heroId": "knights_green_knight",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Gregorion",
@@ -9024,7 +10666,9 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Green",
         "specialId": "unwavering_focus",
-        "heroId": "forest_god_gregorion"
+        "heroId": "forest_god_gregorion",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Gregorion Costume1",
@@ -9047,7 +10691,11 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Green",
         "specialId": "unwavering_focus",
-        "heroId": "forest_god_gregorion_costume_alchemist"
+        "heroId": "forest_god_gregorion_costume_alchemist",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": [
+            "extra_special_dispel_newest"
+        ]
     },
     {
         "name": "Grendel",
@@ -9066,7 +10714,13 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Green",
         "specialId": "gruesome_charge",
-        "heroId": "beowulf_grendel"
+        "heroId": "beowulf_grendel",
+        "passiveSkills": [
+            "attack_buff_on_damage_received",
+            "resist_mana_reductions_with_health_boost_and_mana",
+            "never_miss_special"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Grovevert",
@@ -9087,7 +10741,11 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Green",
         "specialId": "adorable_pest",
-        "heroId": "moth_grovevert"
+        "heroId": "moth_grovevert",
+        "passiveSkills": [
+            "dodge_enemy_damage_special"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Guan Yu",
@@ -9105,7 +10763,9 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Green",
         "specialId": "green_dragon_crescent_blade",
-        "heroId": "kingdom_guan_yu"
+        "heroId": "kingdom_guan_yu",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Guan Yu Costume1",
@@ -9127,7 +10787,11 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Green",
         "specialId": "green_dragon_crescent_blade",
-        "heroId": "kingdom_guan_yu_costume_dragon"
+        "heroId": "kingdom_guan_yu_costume_dragon",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": [
+            "kingdom_unstoppable_minions"
+        ]
     },
     {
         "name": "Guardian Chameleon",
@@ -9146,7 +10810,9 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Green",
         "specialId": "elemental_magic",
-        "heroId": "guardian_chameleon"
+        "heroId": "guardian_chameleon",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Hammertusk",
@@ -9164,7 +10830,12 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Green",
         "specialId": "demolishing_crush",
-        "heroId": "monster_hunter_hammertusk"
+        "heroId": "monster_hunter_hammertusk",
+        "passiveSkills": [
+            "hunters_mark_on_special",
+            "special_damage_reduction_monster_hunters"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Haulstone",
@@ -9185,7 +10856,12 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Green",
         "specialId": "bag_of_necessities",
-        "heroId": "construct_haulstone"
+        "heroId": "construct_haulstone",
+        "passiveSkills": [
+            "repair_core",
+            "resist_special_blocking"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Heimdall",
@@ -9203,7 +10879,9 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Green",
         "specialId": "boon_of_gjallarhorn",
-        "heroId": "s3_heimdall"
+        "heroId": "s3_heimdall",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Heimdall Costume1",
@@ -9226,7 +10904,9 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Green",
         "specialId": "boon_of_gjallarhorn",
-        "heroId": "s3_heimdall_costume_dreaded"
+        "heroId": "s3_heimdall_costume_dreaded",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Horghall",
@@ -9243,7 +10923,9 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Green",
         "specialId": "anger_of_forest",
-        "heroId": "forest_titan"
+        "heroId": "forest_titan",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Horghall Costume1",
@@ -9264,7 +10946,9 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Green",
         "specialId": "anger_of_forest",
-        "heroId": "forest_titan_costume_jester"
+        "heroId": "forest_titan_costume_jester",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Horghall Costume2",
@@ -9287,7 +10971,9 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Green",
         "specialId": "anger_of_forest",
-        "heroId": "forest_titan_costume_nightmare"
+        "heroId": "forest_titan_costume_nightmare",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Horghall Toon",
@@ -9309,7 +10995,11 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Green",
         "specialId": "anger_of_forest",
-        "heroId": "forest_titan_costume_cute"
+        "heroId": "forest_titan_costume_cute",
+        "passiveSkills": [
+            "toon_resist_debuffs_manareduction_dispels"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Humbert",
@@ -9328,7 +11018,11 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Green",
         "specialId": "mending_bronze_axe",
-        "heroId": "castle_bear_humbert"
+        "heroId": "castle_bear_humbert",
+        "passiveSkills": [
+            "heal_on_buff_alliance_quest_family"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Iku-Turso",
@@ -9347,7 +11041,11 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Green",
         "specialId": "dreaded_waters",
-        "heroId": "kalevala_iku_turso"
+        "heroId": "kalevala_iku_turso",
+        "passiveSkills": [
+            "heal_mana_on_low_health_once"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Ito",
@@ -9369,7 +11067,11 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Green",
         "specialId": "suppressing_ki",
-        "heroId": "ninja_ito"
+        "heroId": "ninja_ito",
+        "passiveSkills": [
+            "reduce_minion_health"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Jade",
@@ -9387,7 +11089,9 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Green",
         "specialId": "shared_visage",
-        "heroId": "ninja_jade"
+        "heroId": "ninja_jade",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Kadilen",
@@ -9404,7 +11108,9 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Green",
         "specialId": "eclipse_shield",
-        "heroId": "forest_female_elf"
+        "heroId": "forest_female_elf",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Kadilen Costume1",
@@ -9426,7 +11132,9 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Green",
         "specialId": "eclipse_shield",
-        "heroId": "forest_female_elf_costume_mage"
+        "heroId": "forest_female_elf_costume_mage",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Kadilen Costume2",
@@ -9448,7 +11156,9 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Green",
         "specialId": "eclipse_shield",
-        "heroId": "forest_female_elf_costume_fairy"
+        "heroId": "forest_female_elf_costume_fairy",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Kadilen Toon",
@@ -9470,7 +11180,11 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Green",
         "specialId": "eclipse_shield",
-        "heroId": "forest_female_elf_costume_cute"
+        "heroId": "forest_female_elf_costume_cute",
+        "passiveSkills": [
+            "toon_resist_debuffs_manareduction_dispels"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Kai",
@@ -9490,7 +11204,12 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Green",
         "specialId": "mantis_strike",
-        "heroId": "monster_hunter_kai"
+        "heroId": "monster_hunter_kai",
+        "passiveSkills": [
+            "hunters_mark_on_special",
+            "special_damage_reduction_monster_hunters"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Kingston",
@@ -9508,7 +11227,11 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Green",
         "specialId": "stiletto_cyclone",
-        "heroId": "forest_god_kingston"
+        "heroId": "forest_god_kingston",
+        "passiveSkills": [
+            "resist_burn"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Kolya",
@@ -9528,7 +11251,12 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Green",
         "specialId": "laundry_day",
-        "heroId": "garrison_kolya"
+        "heroId": "garrison_kolya",
+        "passiveSkills": [
+            "remove_wither_from_allies",
+            "resist_direct_mana_reductions"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Lady Locke",
@@ -9545,7 +11273,9 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Green",
         "specialId": "moonlight_serenade",
-        "heroId": "pirate_lady"
+        "heroId": "pirate_lady",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Lady Locke Costume1",
@@ -9567,7 +11297,11 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Green",
         "specialId": "moonlight_serenade",
-        "heroId": "pirate_lady_costume_queen"
+        "heroId": "pirate_lady_costume_queen",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": [
+            "extra_special_poison"
+        ]
     },
     {
         "name": "Lady of the Lake",
@@ -9585,7 +11319,9 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Green",
         "specialId": "magical_sword",
-        "heroId": "knights_lady_of_the_lake"
+        "heroId": "knights_lady_of_the_lake",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Lady of the Lake Costume1",
@@ -9607,7 +11343,9 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Green",
         "specialId": "magical_sword",
-        "heroId": "knights_lady_of_the_lake_costume_blades"
+        "heroId": "knights_lady_of_the_lake_costume_blades",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Leadria",
@@ -9625,7 +11363,12 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Green",
         "specialId": "spirit_of_spring",
-        "heroId": "nature_god_leadria"
+        "heroId": "nature_god_leadria",
+        "passiveSkills": [
+            "healtboost_on_minion_death",
+            "resist_max_health_reduction"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Leafwhisk",
@@ -9643,7 +11386,11 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Green",
         "specialId": "flute_of_enchantment",
-        "heroId": "goblin_leafwizzle"
+        "heroId": "goblin_leafwizzle",
+        "passiveSkills": [
+            "goblin_damage_and_accuracy_debuff_on_special"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Leonie",
@@ -9662,7 +11409,12 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Green",
         "specialId": "claws_of_the_lioness",
-        "heroId": "wild_cat_leonie"
+        "heroId": "wild_cat_leonie",
+        "passiveSkills": [
+            "resist_all_defense_effects",
+            "revive_chance_nine_lives"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Lianna",
@@ -9678,7 +11430,9 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Green",
         "specialId": "perfect_shot",
-        "heroId": "elven_archer"
+        "heroId": "elven_archer",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Lianna Costume1",
@@ -9699,7 +11453,9 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Green",
         "specialId": "perfect_shot",
-        "heroId": "elven_archer_costume_moon"
+        "heroId": "elven_archer_costume_moon",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Lianna Costume2",
@@ -9720,7 +11476,9 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Green",
         "specialId": "perfect_shot",
-        "heroId": "elven_archer_costume_raven"
+        "heroId": "elven_archer_costume_raven",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Lianna Toon",
@@ -9741,7 +11499,11 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Green",
         "specialId": "perfect_shot",
-        "heroId": "elven_archer_costume_cute"
+        "heroId": "elven_archer_costume_cute",
+        "passiveSkills": [
+            "toon_resist_debuffs_manareduction_dispels"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Lianna Glass",
@@ -9762,7 +11524,11 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Green",
         "specialId": "perfect_shot",
-        "heroId": "elven_archer_costume_glass"
+        "heroId": "elven_archer_costume_glass",
+        "passiveSkills": [
+            "glass_reflect_debuffs"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Limeboire",
@@ -9783,7 +11549,11 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Green",
         "specialId": "dozy_mead",
-        "heroId": "moth_limeboire"
+        "heroId": "moth_limeboire",
+        "passiveSkills": [
+            "dodge_enemy_damage_special"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Liu Bei",
@@ -9801,7 +11571,9 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Green",
         "specialId": "call_to_arms",
-        "heroId": "kingdom_liu_bei"
+        "heroId": "kingdom_liu_bei",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Liu Bei Costume1",
@@ -9823,7 +11595,11 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Green",
         "specialId": "call_to_arms",
-        "heroId": "kingdom_liu_bei_costume_nature"
+        "heroId": "kingdom_liu_bei_costume_nature",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": [
+            "kingdom_unstoppable_minions"
+        ]
     },
     {
         "name": "Lughaidh",
@@ -9844,7 +11620,11 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Green",
         "specialId": "transcendental_frame",
-        "heroId": "s4_lughaidh"
+        "heroId": "s4_lughaidh",
+        "passiveSkills": [
+            "special_damage_reduction"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Lughaidh Costume1",
@@ -9868,7 +11648,13 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Green",
         "specialId": "transcendental_frame",
-        "heroId": "s4_lughaidh_costume_deathless"
+        "heroId": "s4_lughaidh_costume_deathless",
+        "passiveSkills": [
+            "special_damage_reduction"
+        ],
+        "costumeBonusPassiveSkillIds": [
+            "extra_special_health_boost"
+        ]
     },
     {
         "name": "Ma'at",
@@ -9886,7 +11672,11 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Green",
         "specialId": "bringer_of_order",
-        "heroId": "s5_maat"
+        "heroId": "s5_maat",
+        "passiveSkills": [
+            "sun_extra_special_damage_and_attack_debuff"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Ma'at Costume1",
@@ -9908,7 +11698,14 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Green",
         "specialId": "bringer_of_order",
-        "heroId": "s5_maat_costume_river"
+        "heroId": "s5_maat_costume_river",
+        "passiveSkills": [
+            "sun_extra_special_damage_and_attack_debuff"
+        ],
+        "costumeBonusPassiveSkillIds": [
+            "mana_on_enemy_health_boost_special",
+            "iterate_passive_effects_on_special"
+        ]
     },
     {
         "name": "Maegwyn",
@@ -9926,7 +11723,13 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Green",
         "specialId": "astral_brew",
-        "heroId": "astral_dwarf_maegwyn"
+        "heroId": "astral_dwarf_maegwyn",
+        "passiveSkills": [
+            "resist_heal_multiplier_debuffs",
+            "resist_negative_minion_and_mega_minion_effects",
+            "eat_fiends_on_special_cast"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Margaret",
@@ -9944,7 +11747,11 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Green",
         "specialId": "hide_in_shadows",
-        "heroId": "forest_god_elinor"
+        "heroId": "forest_god_elinor",
+        "passiveSkills": [
+            "resist_buff_dispels"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Max",
@@ -9962,7 +11769,12 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Green",
         "specialId": "puppy_tales",
-        "heroId": "mighty_pet_toto"
+        "heroId": "mighty_pet_toto",
+        "passiveSkills": [
+            "heal_and_add_mana_on_ally_minion",
+            "damage_enemies_on_enemy_parasite"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Mazoga",
@@ -9981,7 +11793,12 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Green",
         "specialId": "super_duper_spray",
-        "heroId": "beachparty_mazoga"
+        "heroId": "beachparty_mazoga",
+        "passiveSkills": [
+            "resist_water",
+            "underwater_on_special_beach"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Mena",
@@ -10001,7 +11818,11 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Green",
         "specialId": "fluff_in_the_air",
-        "heroId": "gargoyle_mena"
+        "heroId": "gargoyle_mena",
+        "passiveSkills": [
+            "gargoyle_soft_skin"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Mistweaver",
@@ -10021,7 +11842,12 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Green",
         "specialId": "misty_punches",
-        "heroId": "monster_hunter_mistweaver"
+        "heroId": "monster_hunter_mistweaver",
+        "passiveSkills": [
+            "hunters_mark_on_special",
+            "attack_modifier_on_special"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Moonflower",
@@ -10039,7 +11865,12 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Green",
         "specialId": "leafglow_bloom",
-        "heroId": "astral_moonflower"
+        "heroId": "astral_moonflower",
+        "passiveSkills": [
+            "share_received_damage",
+            "resist_poison"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Morgan Le Fay",
@@ -10056,7 +11887,9 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Green",
         "specialId": "unnatural_pact",
-        "heroId": "knights_morgan_le_fay"
+        "heroId": "knights_morgan_le_fay",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Mother North",
@@ -10074,7 +11907,9 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Green",
         "specialId": "super_porridge",
-        "heroId": "christmas_mrs_claus"
+        "heroId": "christmas_mrs_claus",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Mother North Costume1",
@@ -10096,7 +11931,9 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Green",
         "specialId": "super_porridge",
-        "heroId": "christmas_mrs_claus_costume_fangirl"
+        "heroId": "christmas_mrs_claus_costume_fangirl",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Mucktus",
@@ -10115,7 +11952,12 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Green",
         "specialId": "insidious_goo",
-        "heroId": "slime_mucktus"
+        "heroId": "slime_mucktus",
+        "passiveSkills": [
+            "summon_slime_minion_on_damage_green",
+            "summon_slime_minion_on_death_green"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Myoin-ni",
@@ -10133,7 +11975,9 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Green",
         "specialId": "resolute_spirit",
-        "heroId": "ninja_myoinni"
+        "heroId": "ninja_myoinni",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Mystia",
@@ -10151,7 +11995,12 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Green",
         "specialId": "mesmerizing_mirror",
-        "heroId": "nature_god_mystia"
+        "heroId": "nature_god_mystia",
+        "passiveSkills": [
+            "bypass_taunt_effects",
+            "resist_special_blocking"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Nogu",
@@ -10168,7 +12017,13 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Green",
         "specialId": "the_perfect_throw",
-        "heroId": "champions_nogu"
+        "heroId": "champions_nogu",
+        "passiveSkills": [
+            "healthboost_on_enemy_healthboost",
+            "mana_on_enemy_healthboost_nogu",
+            "mana_gen_on_debuff"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Ott",
@@ -10190,7 +12045,12 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Green",
         "specialId": "saga_of_protection",
-        "heroId": "tales2_ott"
+        "heroId": "tales2_ott",
+        "passiveSkills": [
+            "molten_core",
+            "resist_burn_with_health_boost_and_mana"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Penelope",
@@ -10209,7 +12069,9 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Green",
         "specialId": "cut_cure_and_craze",
-        "heroId": "shadow_penelope"
+        "heroId": "shadow_penelope",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Peregrine",
@@ -10228,7 +12090,13 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Green",
         "specialId": "feyfire_slash",
-        "heroId": "faun_peregrine"
+        "heroId": "faun_peregrine",
+        "passiveSkills": [
+            "resist_negative_attack_modifiers_including_wither",
+            "resist_insanity",
+            "minion_and_mega_minion_accuracy_modifier"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Peridot",
@@ -10248,7 +12116,9 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Green",
         "specialId": "suffocating_smoke",
-        "heroId": "ninja_peridot"
+        "heroId": "ninja_peridot",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Phileas Fogg",
@@ -10266,7 +12136,11 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Green",
         "specialId": "valiant_lunge",
-        "heroId": "s4_phileas_fogg"
+        "heroId": "s4_phileas_fogg",
+        "passiveSkills": [
+            "special_damage_reduction"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Phileas Fogg Costume1",
@@ -10290,7 +12164,13 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Green",
         "specialId": "valiant_lunge",
-        "heroId": "s4_phileas_fogg_costume_engineer"
+        "heroId": "s4_phileas_fogg_costume_engineer",
+        "passiveSkills": [
+            "special_damage_reduction"
+        ],
+        "costumeBonusPassiveSkillIds": [
+            "extra_special_increased_damage_against_boosted_health"
+        ]
     },
     {
         "name": "Pip",
@@ -10309,7 +12189,12 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Green",
         "specialId": "reckless_sword_swings",
-        "heroId": "garrison_pip"
+        "heroId": "garrison_pip",
+        "passiveSkills": [
+            "remove_wither_from_allies",
+            "resist_direct_mana_reductions"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Prince Siegfried",
@@ -10328,7 +12213,12 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Green",
         "specialId": "dance_of_the_heron",
-        "heroId": "ballerina_prince_siegfried"
+        "heroId": "ballerina_prince_siegfried",
+        "passiveSkills": [
+            "heal_on_expired_or_cleared_debuff_slow",
+            "resist_defense_modifier_debuffs"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Qinglong",
@@ -10347,7 +12237,11 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Green",
         "specialId": "confident_strategy",
-        "heroId": "lunar_new_year_qinglong"
+        "heroId": "lunar_new_year_qinglong",
+        "passiveSkills": [
+            "enemy_minion_follower_silencer"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Queen Anne",
@@ -10366,7 +12260,11 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Green",
         "specialId": "the_queens_speech",
-        "heroId": "musketeer_queen_anne"
+        "heroId": "musketeer_queen_anne",
+        "passiveSkills": [
+            "damage_all_enemies_on_cover_or_special_damage_received"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Quenell",
@@ -10384,7 +12282,9 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Green",
         "specialId": "howling_sword",
-        "heroId": "castle_wolf_quenell"
+        "heroId": "castle_wolf_quenell",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Quenell Costume1",
@@ -10406,7 +12306,11 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Green",
         "specialId": "howling_sword",
-        "heroId": "castle_wolf_quenell_costume_wood"
+        "heroId": "castle_wolf_quenell_costume_wood",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": [
+            "increase_cast_status_effect_duration"
+        ]
     },
     {
         "name": "Ratatoskr",
@@ -10425,7 +12329,9 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Green",
         "specialId": "nuts_of_yggdrasil",
-        "heroId": "s3_ratatoskr"
+        "heroId": "s3_ratatoskr",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Ratatoskr Costume1",
@@ -10448,7 +12354,9 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Green",
         "specialId": "nuts_of_yggdrasil",
-        "heroId": "s3_ratatoskr_costume_architect"
+        "heroId": "s3_ratatoskr_costume_architect",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Relius",
@@ -10466,7 +12374,11 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Green",
         "specialId": "mixed_green_herbs",
-        "heroId": "owl_relius"
+        "heroId": "owl_relius",
+        "passiveSkills": [
+            "mana_generation_modifier_all_enemies_stronger"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Rhineglow",
@@ -10485,7 +12397,12 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Green",
         "specialId": "first_law_of_thermodynamics",
-        "heroId": "construct_rhineglow"
+        "heroId": "construct_rhineglow",
+        "passiveSkills": [
+            "destructive_core",
+            "resist_special_blocking"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Roz",
@@ -10503,7 +12420,11 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Green",
         "specialId": "elemental_infusion_arrow",
-        "heroId": "elemental_roz"
+        "heroId": "elemental_roz",
+        "passiveSkills": [
+            "strong_troop_damage_modifier"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Sadie",
@@ -10523,7 +12444,9 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Green",
         "specialId": "silencing_stick_up",
-        "heroId": "easter_sadie"
+        "heroId": "easter_sadie",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Sha Wujing",
@@ -10541,7 +12464,12 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Green",
         "specialId": "prayer_of_the_desert",
-        "heroId": "journey_sha_wujing"
+        "heroId": "journey_sha_wujing",
+        "passiveSkills": [
+            "heal_on_buff_with_chance",
+            "mana_on_buff_with_chance"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Silvaria",
@@ -10559,7 +12487,11 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Green",
         "specialId": "force_of_forest",
-        "heroId": "forest_god_telluria"
+        "heroId": "forest_god_telluria",
+        "passiveSkills": [
+            "resist_minion_removal"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Smarttongue",
@@ -10577,7 +12509,11 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Green",
         "specialId": "goblin_serenade",
-        "heroId": "goblin_smarttongue"
+        "heroId": "goblin_smarttongue",
+        "passiveSkills": [
+            "goblin_damage_and_accuracy_debuff_on_special"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Snowball",
@@ -10596,7 +12532,12 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Green",
         "specialId": "feral_arrows",
-        "heroId": "mighty_pet_snowball"
+        "heroId": "mighty_pet_snowball",
+        "passiveSkills": [
+            "heal_and_add_mana_on_ally_minion",
+            "damage_enemies_on_enemy_parasite"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Spartoi",
@@ -10614,7 +12555,11 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Green",
         "specialId": "overwhelming_raid",
-        "heroId": "tales1_spartoi"
+        "heroId": "tales1_spartoi",
+        "passiveSkills": [
+            "tales1_extra_special_damage_and_add_stacking_mana_generation"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Spartoi Costume1",
@@ -10636,7 +12581,13 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Green",
         "specialId": "overwhelming_raid",
-        "heroId": "tales1_spartoi_costume_guard"
+        "heroId": "tales1_spartoi_costume_guard",
+        "passiveSkills": [
+            "tales1_extra_special_damage_and_add_stacking_mana_generation"
+        ],
+        "costumeBonusPassiveSkillIds": [
+            "resist_insanity"
+        ]
     },
     {
         "name": "Spiff",
@@ -10655,7 +12606,11 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Green",
         "specialId": "fierce_pierce",
-        "heroId": "fox_spiff"
+        "heroId": "fox_spiff",
+        "passiveSkills": [
+            "reduced_healing_for_all_enemies"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Staintongue",
@@ -10674,7 +12629,12 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Green",
         "specialId": "mallet_swing_of_the_beast",
-        "heroId": "monster_hunter_staintongue"
+        "heroId": "monster_hunter_staintongue",
+        "passiveSkills": [
+            "hunters_mark_on_special",
+            "monster_hunter_reallocate_debuff_or_heal"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Starlass",
@@ -10693,7 +12653,12 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Green",
         "specialId": "power_wave",
-        "heroId": "astral_starlass"
+        "heroId": "astral_starlass",
+        "passiveSkills": [
+            "share_received_damage",
+            "resist_poison"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Sune",
@@ -10713,7 +12678,12 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Green",
         "specialId": "primeval_glaive",
-        "heroId": "monster_hunter_sune"
+        "heroId": "monster_hunter_sune",
+        "passiveSkills": [
+            "hunters_mark_on_special",
+            "special_damage_reduction_monster_hunters"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Tametomo",
@@ -10731,7 +12701,9 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Green",
         "specialId": "splintering_shot",
-        "heroId": "ninja_tametomo"
+        "heroId": "ninja_tametomo",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Tarlak",
@@ -10748,7 +12720,9 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Green",
         "specialId": "martial_prowess",
-        "heroId": "s2_junglehunter"
+        "heroId": "s2_junglehunter",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Tarlak Costume1",
@@ -10769,7 +12743,9 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Green",
         "specialId": "martial_prowess",
-        "heroId": "s2_junglehunter_costume_party"
+        "heroId": "s2_junglehunter_costume_party",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Teddy",
@@ -10789,7 +12765,11 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Green",
         "specialId": "the_call_to_hibernate",
-        "heroId": "castle_bear_teddy"
+        "heroId": "castle_bear_teddy",
+        "passiveSkills": [
+            "heal_on_buff_alliance_quest_family"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Telluria",
@@ -10809,7 +12789,11 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Green",
         "specialId": "force_of_forest",
-        "heroId": "forest_god_telluria"
+        "heroId": "forest_god_telluria",
+        "passiveSkills": [
+            "resist_minion_removal"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Telonius",
@@ -10830,7 +12814,12 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Green",
         "specialId": "poem_of_the_centaurs",
-        "heroId": "magic_telonius"
+        "heroId": "magic_telonius",
+        "passiveSkills": [
+            "magic_mana_regen_stack_on_special",
+            "magic_damage_on_full_charge_to_not_red"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "The Hatter",
@@ -10847,7 +12836,9 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Green",
         "specialId": "mad_as_a_hatter",
-        "heroId": "wonderland_hatter"
+        "heroId": "wonderland_hatter",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "The Hatter Costume1",
@@ -10869,7 +12860,11 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Green",
         "specialId": "mad_as_a_hatter",
-        "heroId": "wonderland_hatter_costume_tea"
+        "heroId": "wonderland_hatter_costume_tea",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": [
+            "possession_on_special"
+        ]
     },
     {
         "name": "Theodosius",
@@ -10888,7 +12883,13 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Green",
         "specialId": "reporting_for_duty",
-        "heroId": "garrison_theodosius"
+        "heroId": "garrison_theodosius",
+        "passiveSkills": [
+            "remove_wither_from_allies",
+            "resist_direct_mana_reductions",
+            "mana_on_debuff"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Toxicandra",
@@ -10906,7 +12907,9 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Green",
         "specialId": "accelerated_growth",
-        "heroId": "villain_toxicandra"
+        "heroId": "villain_toxicandra",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Toxicandra Costume1",
@@ -10929,7 +12932,11 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Green",
         "specialId": "accelerated_growth",
-        "heroId": "villain_toxicandra_costume_rose"
+        "heroId": "villain_toxicandra_costume_rose",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": [
+            "extra_special_curse"
+        ]
     },
     {
         "name": "Vainamoinen",
@@ -10946,7 +12953,11 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Green",
         "specialId": "song_of_the_morass",
-        "heroId": "kalevala_vainamoinen"
+        "heroId": "kalevala_vainamoinen",
+        "passiveSkills": [
+            "heal_mana_on_low_health_once"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Vainamoinen Costume1",
@@ -10967,7 +12978,11 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Green",
         "specialId": "song_of_the_morass",
-        "heroId": "kalevala_vainamoinen_costume_vainamoinen_sage"
+        "heroId": "kalevala_vainamoinen_costume_vainamoinen_sage",
+        "passiveSkills": [
+            "heal_mana_on_low_health_once"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Verus",
@@ -10985,7 +13000,11 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Green",
         "specialId": "swooping_talon",
-        "heroId": "owl_verus"
+        "heroId": "owl_verus",
+        "passiveSkills": [
+            "mana_generation_modifier_all_enemies_stronger"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Viselus",
@@ -11004,7 +13023,12 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Green",
         "specialId": "withering_seasons",
-        "heroId": "nature_god_viselus"
+        "heroId": "nature_god_viselus",
+        "passiveSkills": [
+            "healthboost_per_poisoned_enemy",
+            "resist_poison"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Winifred",
@@ -11023,7 +13047,11 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Green",
         "specialId": "madrigal_of_mayhem",
-        "heroId": "bard_winifred"
+        "heroId": "bard_winifred",
+        "passiveSkills": [
+            "defense_modifier_reduction_all_allies"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Xandrella",
@@ -11042,7 +13070,11 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Green",
         "specialId": "staff_of_mana_control",
-        "heroId": "elemental_xandrella"
+        "heroId": "elemental_xandrella",
+        "passiveSkills": [
+            "strong_troop_damage_modifier"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Xiamara",
@@ -11060,7 +13092,11 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Green",
         "specialId": "power_of_the_forest",
-        "heroId": "castle_stag_xiamara"
+        "heroId": "castle_stag_xiamara",
+        "passiveSkills": [
+            "heal_on_buff_alliance_quest_family"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Xiaoqing",
@@ -11079,7 +13115,11 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Green",
         "specialId": "warding_off_evil",
-        "heroId": "lunar_new_year_xiaoqing"
+        "heroId": "lunar_new_year_xiaoqing",
+        "passiveSkills": [
+            "enemy_minion_follower_silencer"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Yunan",
@@ -11098,7 +13138,9 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Green",
         "specialId": "kings_curse",
-        "heroId": "sand_king"
+        "heroId": "sand_king",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Yunan Costume1",
@@ -11121,7 +13163,9 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Green",
         "specialId": "kings_curse",
-        "heroId": "sand_king_costume_lifeguard"
+        "heroId": "sand_king_costume_lifeguard",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Zavinia",
@@ -11140,7 +13184,11 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Green",
         "specialId": "darts_of_the_deep",
-        "heroId": "shadow_zavinia"
+        "heroId": "shadow_zavinia",
+        "passiveSkills": [
+            "insanity_damage_reduction"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Zeline",
@@ -11160,7 +13208,9 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Green",
         "specialId": "emerald_flash",
-        "heroId": "forest_god_zeline"
+        "heroId": "forest_god_zeline",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Zeline Costume1",
@@ -11185,7 +13235,11 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Green",
         "specialId": "emerald_flash",
-        "heroId": "forest_god_zeline_costume_avian"
+        "heroId": "forest_god_zeline_costume_avian",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": [
+            "extra_special_cleanse_newest"
+        ]
     },
     {
         "name": "Zocc",
@@ -11203,7 +13257,11 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Green",
         "specialId": "keyknife_typhoon",
-        "heroId": "forest_god_zocc"
+        "heroId": "forest_god_zocc",
+        "passiveSkills": [
+            "resist_water"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Zuni",
@@ -11222,7 +13280,11 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Green",
         "specialId": "hoverboard_slam",
-        "heroId": "elemental_zuni"
+        "heroId": "elemental_zuni",
+        "passiveSkills": [
+            "strong_troop_damage_modifier"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Fletcher",
@@ -11238,7 +13300,9 @@ window.allHeroesExtra = [
         "rarity": 1,
         "element": "Purple",
         "specialId": "backstab",
-        "heroId": "cultist_thief"
+        "heroId": "cultist_thief",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Nightshade",
@@ -11254,7 +13318,9 @@ window.allHeroesExtra = [
         "rarity": 1,
         "element": "Purple",
         "specialId": "focused_shot",
-        "heroId": "blackguard_female_archer"
+        "heroId": "blackguard_female_archer",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Julius",
@@ -11270,7 +13336,9 @@ window.allHeroesExtra = [
         "rarity": 2,
         "element": "Purple",
         "specialId": "focused_shot",
-        "heroId": "blackguard_scout"
+        "heroId": "blackguard_scout",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Layla",
@@ -11286,7 +13354,9 @@ window.allHeroesExtra = [
         "rarity": 2,
         "element": "Purple",
         "specialId": "poisoned_blade",
-        "heroId": "cultist_female_poisoner"
+        "heroId": "cultist_female_poisoner",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Silthus",
@@ -11302,7 +13372,9 @@ window.allHeroesExtra = [
         "rarity": 2,
         "element": "Purple",
         "specialId": "attack_rally",
-        "heroId": "undead_screaming_zombie"
+        "heroId": "undead_screaming_zombie",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Aderyn",
@@ -11319,7 +13391,9 @@ window.allHeroesExtra = [
         "rarity": 3,
         "element": "Purple",
         "specialId": "apothecary_kit",
-        "heroId": "castle_raven_aderyn"
+        "heroId": "castle_raven_aderyn",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "An-Windr",
@@ -11335,7 +13409,9 @@ window.allHeroesExtra = [
         "rarity": 3,
         "element": "Purple",
         "specialId": "tribal_rage",
-        "heroId": "s3_anwindr"
+        "heroId": "s3_anwindr",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Aqeela",
@@ -11354,7 +13430,11 @@ window.allHeroesExtra = [
         "rarity": 3,
         "element": "Purple",
         "specialId": "one_jump_ahead",
-        "heroId": "s5_aqeela"
+        "heroId": "s5_aqeela",
+        "passiveSkills": [
+            "moon_extra_special_damage_and_dispel_latest_buff"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Aqeela Costume1",
@@ -11377,7 +13457,14 @@ window.allHeroesExtra = [
         "rarity": 3,
         "element": "Purple",
         "specialId": "one_jump_ahead",
-        "heroId": "s5_aqeela_costume_sorcerer"
+        "heroId": "s5_aqeela_costume_sorcerer",
+        "passiveSkills": [
+            "moon_extra_special_damage_and_dispel_latest_buff"
+        ],
+        "costumeBonusPassiveSkillIds": [
+            "mana_on_debuff",
+            "iterate_passive_effects_on_special"
+        ]
     },
     {
         "name": "Balthazar",
@@ -11393,7 +13480,9 @@ window.allHeroesExtra = [
         "rarity": 3,
         "element": "Purple",
         "specialId": "electric_jolt",
-        "heroId": "cultist_mage"
+        "heroId": "cultist_mage",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Balthazar Costume1",
@@ -11414,7 +13503,9 @@ window.allHeroesExtra = [
         "rarity": 3,
         "element": "Purple",
         "specialId": "electric_jolt",
-        "heroId": "cultist_mage_costume_voodoo"
+        "heroId": "cultist_mage_costume_voodoo",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Balthazar Toon",
@@ -11435,7 +13526,11 @@ window.allHeroesExtra = [
         "rarity": 3,
         "element": "Purple",
         "specialId": "electric_jolt",
-        "heroId": "cultist_mage_costume_cute"
+        "heroId": "cultist_mage_costume_cute",
+        "passiveSkills": [
+            "toon_resist_debuffs_manareduction_dispels"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Balthazar Glass",
@@ -11456,7 +13551,11 @@ window.allHeroesExtra = [
         "rarity": 3,
         "element": "Purple",
         "specialId": "electric_jolt",
-        "heroId": "cultist_mage_costume_glass"
+        "heroId": "cultist_mage_costume_glass",
+        "passiveSkills": [
+            "glass_reflect_debuffs"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Betty",
@@ -11474,7 +13573,11 @@ window.allHeroesExtra = [
         "rarity": 3,
         "element": "Purple",
         "specialId": "pointy_darts",
-        "heroId": "gargoyle_betty"
+        "heroId": "gargoyle_betty",
+        "passiveSkills": [
+            "gargoyle_soft_skin"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Bjorn",
@@ -11492,7 +13595,9 @@ window.allHeroesExtra = [
         "rarity": 3,
         "element": "Purple",
         "specialId": "dual_slash",
-        "heroId": "s3_bjorn"
+        "heroId": "s3_bjorn",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Bjorn Costume1",
@@ -11514,7 +13619,9 @@ window.allHeroesExtra = [
         "rarity": 3,
         "element": "Purple",
         "specialId": "dual_slash",
-        "heroId": "s3_bjorn_costume_viking"
+        "heroId": "s3_bjorn_costume_viking",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Budatin",
@@ -11533,7 +13640,11 @@ window.allHeroesExtra = [
         "rarity": 3,
         "element": "Purple",
         "specialId": "abiding_dogma",
-        "heroId": "gargoyle_budatin"
+        "heroId": "gargoyle_budatin",
+        "passiveSkills": [
+            "gargoyle_stone"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Chochin",
@@ -11550,7 +13661,9 @@ window.allHeroesExtra = [
         "rarity": 3,
         "element": "Purple",
         "specialId": "unholy_light",
-        "heroId": "s2_lantern_ghost"
+        "heroId": "s2_lantern_ghost",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Edd",
@@ -11567,7 +13680,9 @@ window.allHeroesExtra = [
         "rarity": 3,
         "element": "Purple",
         "specialId": "crazed_lunge",
-        "heroId": "villain_edd"
+        "heroId": "villain_edd",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Gill-Ra",
@@ -11585,7 +13700,9 @@ window.allHeroesExtra = [
         "rarity": 3,
         "element": "Purple",
         "specialId": "song_of_regression",
-        "heroId": "s2_fiji_mermaid"
+        "heroId": "s2_fiji_mermaid",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Gill-Ra Costume1",
@@ -11607,7 +13724,9 @@ window.allHeroesExtra = [
         "rarity": 3,
         "element": "Purple",
         "specialId": "song_of_regression",
-        "heroId": "s2_fiji_mermaid_costume_hunter"
+        "heroId": "s2_fiji_mermaid_costume_hunter",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Greel",
@@ -11627,7 +13746,12 @@ window.allHeroesExtra = [
         "rarity": 3,
         "element": "Purple",
         "specialId": "stubby_reap",
-        "heroId": "monster_hunter_greel"
+        "heroId": "monster_hunter_greel",
+        "passiveSkills": [
+            "hunters_mark_on_special",
+            "monster_hunter_reallocate_debuff_or_heal"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Guardian Bat",
@@ -11644,7 +13768,9 @@ window.allHeroesExtra = [
         "rarity": 3,
         "element": "Purple",
         "specialId": "merciless_bite",
-        "heroId": "guardian_bat"
+        "heroId": "guardian_bat",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Jack",
@@ -11661,7 +13787,11 @@ window.allHeroesExtra = [
         "rarity": 3,
         "element": "Purple",
         "specialId": "explosive_o_lantern",
-        "heroId": "halloween_jack"
+        "heroId": "halloween_jack",
+        "passiveSkills": [
+            "halloween_steal_buff_or_deal_damage"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Maeve",
@@ -11682,7 +13812,11 @@ window.allHeroesExtra = [
         "rarity": 3,
         "element": "Purple",
         "specialId": "assassins_blades",
-        "heroId": "slayer_maeve"
+        "heroId": "slayer_maeve",
+        "passiveSkills": [
+            "resist_status_effect_damage"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Morganite",
@@ -11699,7 +13833,9 @@ window.allHeroesExtra = [
         "rarity": 3,
         "element": "Purple",
         "specialId": "cursed_fumes",
-        "heroId": "ninja_morganite"
+        "heroId": "ninja_morganite",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Morris",
@@ -11719,7 +13855,11 @@ window.allHeroesExtra = [
         "rarity": 3,
         "element": "Purple",
         "specialId": "dig_a_hole",
-        "heroId": "s4_morris"
+        "heroId": "s4_morris",
+        "passiveSkills": [
+            "decrease_debuff_duration"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Morris Costume1",
@@ -11743,7 +13883,11 @@ window.allHeroesExtra = [
         "rarity": 3,
         "element": "Purple",
         "specialId": "dig_a_hole",
-        "heroId": "s4_morris_costume_potter"
+        "heroId": "s4_morris_costume_potter",
+        "passiveSkills": [
+            "decrease_debuff_duration"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Oberon",
@@ -11760,7 +13904,9 @@ window.allHeroesExtra = [
         "rarity": 3,
         "element": "Purple",
         "specialId": "toxic_traps",
-        "heroId": "undead_horned_skeleton"
+        "heroId": "undead_horned_skeleton",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Oberon Costume1",
@@ -11780,7 +13926,9 @@ window.allHeroesExtra = [
         "rarity": 3,
         "element": "Purple",
         "specialId": "toxic_traps",
-        "heroId": "undead_horned_skeleton_costume_fool"
+        "heroId": "undead_horned_skeleton_costume_fool",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Oberon Toon",
@@ -11802,7 +13950,11 @@ window.allHeroesExtra = [
         "rarity": 3,
         "element": "Purple",
         "specialId": "toxic_traps",
-        "heroId": "undead_horned_skeleton_costume_cute"
+        "heroId": "undead_horned_skeleton_costume_cute",
+        "passiveSkills": [
+            "toon_resist_debuffs_manareduction_dispels"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Para",
@@ -11819,7 +13971,11 @@ window.allHeroesExtra = [
         "rarity": 3,
         "element": "Purple",
         "specialId": "familiar_witchcraft",
-        "heroId": "kalevala_para"
+        "heroId": "kalevala_para",
+        "passiveSkills": [
+            "heal_mana_on_low_health_once"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Prisca",
@@ -11836,7 +13992,9 @@ window.allHeroesExtra = [
         "rarity": 3,
         "element": "Purple",
         "specialId": "bleeding_stab",
-        "heroId": "blackguard_female_captain"
+        "heroId": "blackguard_female_captain",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Prisca Costume1",
@@ -11857,7 +14015,9 @@ window.allHeroesExtra = [
         "rarity": 3,
         "element": "Purple",
         "specialId": "bleeding_stab",
-        "heroId": "blackguard_female_captain_costume_musketeer"
+        "heroId": "blackguard_female_captain_costume_musketeer",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Prisca Toon",
@@ -11879,7 +14039,11 @@ window.allHeroesExtra = [
         "rarity": 3,
         "element": "Purple",
         "specialId": "bleeding_stab",
-        "heroId": "blackguard_female_captain_costume_cute"
+        "heroId": "blackguard_female_captain_costume_cute",
+        "passiveSkills": [
+            "toon_resist_debuffs_manareduction_dispels"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Prisca Glass",
@@ -11901,7 +14065,11 @@ window.allHeroesExtra = [
         "rarity": 3,
         "element": "Purple",
         "specialId": "bleeding_stab",
-        "heroId": "blackguard_female_captain_costume_glass"
+        "heroId": "blackguard_female_captain_costume_glass",
+        "passiveSkills": [
+            "glass_reflect_debuffs"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Renfeld",
@@ -11918,7 +14086,9 @@ window.allHeroesExtra = [
         "rarity": 3,
         "element": "Purple",
         "specialId": "leeching_stars",
-        "heroId": "blackguard_skulker"
+        "heroId": "blackguard_skulker",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Renfeld Costume1",
@@ -11940,7 +14110,9 @@ window.allHeroesExtra = [
         "rarity": 3,
         "element": "Purple",
         "specialId": "leeching_stars",
-        "heroId": "blackguard_skulker_costume_doctor"
+        "heroId": "blackguard_skulker_costume_doctor",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Renfeld Toon",
@@ -11962,7 +14134,11 @@ window.allHeroesExtra = [
         "rarity": 3,
         "element": "Purple",
         "specialId": "leeching_stars",
-        "heroId": "blackguard_skulker_costume_cute"
+        "heroId": "blackguard_skulker_costume_cute",
+        "passiveSkills": [
+            "toon_resist_debuffs_manareduction_dispels"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Treevil",
@@ -11981,7 +14157,9 @@ window.allHeroesExtra = [
         "rarity": 3,
         "element": "Purple",
         "specialId": "archaic_dread",
-        "heroId": "knights_treevil"
+        "heroId": "knights_treevil",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Tyrum",
@@ -11998,7 +14176,9 @@ window.allHeroesExtra = [
         "rarity": 3,
         "element": "Purple",
         "specialId": "piercing_hit",
-        "heroId": "undead_running_skeleton"
+        "heroId": "undead_running_skeleton",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Tyrum Costume1",
@@ -12019,7 +14199,9 @@ window.allHeroesExtra = [
         "rarity": 3,
         "element": "Purple",
         "specialId": "piercing_hit",
-        "heroId": "undead_running_skeleton_costume_roman"
+        "heroId": "undead_running_skeleton_costume_roman",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Tyrum Toon",
@@ -12041,7 +14223,11 @@ window.allHeroesExtra = [
         "rarity": 3,
         "element": "Purple",
         "specialId": "piercing_hit",
-        "heroId": "undead_running_skeleton_costume_cute"
+        "heroId": "undead_running_skeleton_costume_cute",
+        "passiveSkills": [
+            "toon_resist_debuffs_manareduction_dispels"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Unferth",
@@ -12059,7 +14245,12 @@ window.allHeroesExtra = [
         "rarity": 3,
         "element": "Purple",
         "specialId": "tempered_blade",
-        "heroId": "beowulf_unferth"
+        "heroId": "beowulf_unferth",
+        "passiveSkills": [
+            "never_miss_special",
+            "resist_mana_reductions_with_health_boost_and_mana"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Vlad",
@@ -12077,7 +14268,11 @@ window.allHeroesExtra = [
         "rarity": 3,
         "element": "Purple",
         "specialId": "lords_blood_poisoning",
-        "heroId": "vampire_lord"
+        "heroId": "vampire_lord",
+        "passiveSkills": [
+            "halloween_steal_buff_or_deal_damage"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Ahhotep",
@@ -12094,7 +14289,11 @@ window.allHeroesExtra = [
         "rarity": 4,
         "element": "Purple",
         "specialId": "mummy_slash",
-        "heroId": "s5_ahhotep"
+        "heroId": "s5_ahhotep",
+        "passiveSkills": [
+            "moon_extra_special_damage_and_dispel_latest_buff"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Ahhotep Costume1",
@@ -12115,7 +14314,14 @@ window.allHeroesExtra = [
         "rarity": 4,
         "element": "Purple",
         "specialId": "mummy_slash",
-        "heroId": "s5_ahhotep_costume_champion"
+        "heroId": "s5_ahhotep_costume_champion",
+        "passiveSkills": [
+            "moon_extra_special_damage_and_dispel_latest_buff"
+        ],
+        "costumeBonusPassiveSkillIds": [
+            "mana_on_debuff",
+            "iterate_passive_effects_on_special"
+        ]
     },
     {
         "name": "Ameonna",
@@ -12133,7 +14339,9 @@ window.allHeroesExtra = [
         "rarity": 4,
         "element": "Purple",
         "specialId": "ethereal",
-        "heroId": "s2_ghost_woman"
+        "heroId": "s2_ghost_woman",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Ameonna Costume1",
@@ -12157,7 +14365,9 @@ window.allHeroesExtra = [
         "rarity": 4,
         "element": "Purple",
         "specialId": "ethereal",
-        "heroId": "s2_ghost_woman_costume_yurei"
+        "heroId": "s2_ghost_woman_costume_yurei",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Ametrine",
@@ -12176,7 +14386,9 @@ window.allHeroesExtra = [
         "rarity": 4,
         "element": "Purple",
         "specialId": "blur_of_steel",
-        "heroId": "ninja_ametrine"
+        "heroId": "ninja_ametrine",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Ana-Belle",
@@ -12196,7 +14408,11 @@ window.allHeroesExtra = [
         "rarity": 4,
         "element": "Purple",
         "specialId": "tidy_up",
-        "heroId": "halloween_ana_belle"
+        "heroId": "halloween_ana_belle",
+        "passiveSkills": [
+            "halloween_steal_buff_or_deal_damage"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Arges",
@@ -12214,7 +14430,12 @@ window.allHeroesExtra = [
         "rarity": 4,
         "element": "Purple",
         "specialId": "potion_cocktail",
-        "heroId": "styx_arges"
+        "heroId": "styx_arges",
+        "passiveSkills": [
+            "resist_all_defense_debuffs",
+            "reduce_minion_health"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Boomer",
@@ -12231,7 +14452,9 @@ window.allHeroesExtra = [
         "rarity": 4,
         "element": "Purple",
         "specialId": "watery_grave",
-        "heroId": "pirate_first_mate"
+        "heroId": "pirate_first_mate",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Cheshire Cat",
@@ -12249,7 +14472,9 @@ window.allHeroesExtra = [
         "rarity": 4,
         "element": "Purple",
         "specialId": "dazzling_grin",
-        "heroId": "wonderland_cheshire_cat"
+        "heroId": "wonderland_cheshire_cat",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Cheshire Cat Costume1",
@@ -12271,7 +14496,9 @@ window.allHeroesExtra = [
         "rarity": 4,
         "element": "Purple",
         "specialId": "dazzling_grin",
-        "heroId": "wonderland_cheshire_cat_costume_malicious"
+        "heroId": "wonderland_cheshire_cat_costume_malicious",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Cupcake",
@@ -12288,7 +14515,12 @@ window.allHeroesExtra = [
         "rarity": 4,
         "element": "Purple",
         "specialId": "grand_heist",
-        "heroId": "mighty_pet_cupcake"
+        "heroId": "mighty_pet_cupcake",
+        "passiveSkills": [
+            "heal_and_add_mana_on_ally_minion",
+            "damage_enemies_on_enemy_parasite"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Cyprian",
@@ -12304,7 +14536,9 @@ window.allHeroesExtra = [
         "rarity": 4,
         "element": "Purple",
         "specialId": "perfect_riposte",
-        "heroId": "undead_captain_warrior"
+        "heroId": "undead_captain_warrior",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Cyprian Costume1",
@@ -12324,7 +14558,9 @@ window.allHeroesExtra = [
         "rarity": 4,
         "element": "Purple",
         "specialId": "perfect_riposte",
-        "heroId": "undead_captain_warrior_costume_prince"
+        "heroId": "undead_captain_warrior_costume_prince",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Cyprian Costume2",
@@ -12346,7 +14582,9 @@ window.allHeroesExtra = [
         "rarity": 4,
         "element": "Purple",
         "specialId": "perfect_riposte",
-        "heroId": "undead_captain_warrior_costume_reveller"
+        "heroId": "undead_captain_warrior_costume_reveller",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Cyprian Toon",
@@ -12366,7 +14604,11 @@ window.allHeroesExtra = [
         "rarity": 4,
         "element": "Purple",
         "specialId": "perfect_riposte",
-        "heroId": "undead_captain_warrior_costume_cute"
+        "heroId": "undead_captain_warrior_costume_cute",
+        "passiveSkills": [
+            "toon_resist_debuffs_manareduction_dispels"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Cyprian Glass",
@@ -12386,7 +14628,11 @@ window.allHeroesExtra = [
         "rarity": 4,
         "element": "Purple",
         "specialId": "perfect_riposte",
-        "heroId": "undead_captain_warrior_costume_glass"
+        "heroId": "undead_captain_warrior_costume_glass",
+        "passiveSkills": [
+            "glass_reflect_debuffs"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Dizzy",
@@ -12404,7 +14650,9 @@ window.allHeroesExtra = [
         "rarity": 4,
         "element": "Purple",
         "specialId": "gloomy_tune",
-        "heroId": "christmas_dizzy"
+        "heroId": "christmas_dizzy",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Fura",
@@ -12422,7 +14670,9 @@ window.allHeroesExtra = [
         "rarity": 4,
         "element": "Purple",
         "specialId": "nightglade_pollen",
-        "heroId": "s3_fura"
+        "heroId": "s3_fura",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Fura Costume1",
@@ -12444,7 +14694,9 @@ window.allHeroesExtra = [
         "rarity": 4,
         "element": "Purple",
         "specialId": "nightglade_pollen",
-        "heroId": "s3_fura_costume_herbalist"
+        "heroId": "s3_fura_costume_herbalist",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Gafar",
@@ -12463,7 +14715,9 @@ window.allHeroesExtra = [
         "rarity": 4,
         "element": "Purple",
         "specialId": "viziers_curse",
-        "heroId": "sand_vizier"
+        "heroId": "sand_vizier",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Heifeng Guai",
@@ -12481,7 +14735,9 @@ window.allHeroesExtra = [
         "rarity": 4,
         "element": "Purple",
         "specialId": "black_tassel_spear_sting",
-        "heroId": "journey_heifeng_guai"
+        "heroId": "journey_heifeng_guai",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Ingolf",
@@ -12502,7 +14758,9 @@ window.allHeroesExtra = [
         "rarity": 4,
         "element": "Purple",
         "specialId": "draining_blade",
-        "heroId": "villain_ingolf"
+        "heroId": "villain_ingolf",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Jabbar",
@@ -12521,7 +14779,9 @@ window.allHeroesExtra = [
         "rarity": 4,
         "element": "Purple",
         "specialId": "towers_curse",
-        "heroId": "sand_tower"
+        "heroId": "sand_tower",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Juliani",
@@ -12540,7 +14800,11 @@ window.allHeroesExtra = [
         "rarity": 4,
         "element": "Purple",
         "specialId": "scroll_of_spite",
-        "heroId": "owl_juliani"
+        "heroId": "owl_juliani",
+        "passiveSkills": [
+            "mana_generation_modifier_all_enemies_stronger"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Kitty",
@@ -12559,7 +14823,11 @@ window.allHeroesExtra = [
         "rarity": 4,
         "element": "Purple",
         "specialId": "flower_of_kindness",
-        "heroId": "musketeer_kitty"
+        "heroId": "musketeer_kitty",
+        "passiveSkills": [
+            "damage_all_enemies_on_cover_or_special_damage_received"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Koda",
@@ -12576,7 +14844,11 @@ window.allHeroesExtra = [
         "rarity": 4,
         "element": "Purple",
         "specialId": "feral_swing",
-        "heroId": "castle_bear_koda"
+        "heroId": "castle_bear_koda",
+        "passiveSkills": [
+            "heal_on_buff_alliance_quest_family"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Lexi",
@@ -12594,7 +14866,11 @@ window.allHeroesExtra = [
         "rarity": 4,
         "element": "Purple",
         "specialId": "energy_conjunction",
-        "heroId": "elemental_lexi"
+        "heroId": "elemental_lexi",
+        "passiveSkills": [
+            "strong_troop_damage_modifier"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Meadow",
@@ -12611,7 +14887,12 @@ window.allHeroesExtra = [
         "rarity": 4,
         "element": "Purple",
         "specialId": "poison_tipped_arrow",
-        "heroId": "monster_hunter_meadow"
+        "heroId": "monster_hunter_meadow",
+        "passiveSkills": [
+            "hunters_mark_on_special",
+            "special_damage_reduction_monster_hunters"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Merlin",
@@ -12629,7 +14910,9 @@ window.allHeroesExtra = [
         "rarity": 4,
         "element": "Purple",
         "specialId": "arcane_blast",
-        "heroId": "knights_merlin"
+        "heroId": "knights_merlin",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Merlin Costume1",
@@ -12651,7 +14934,9 @@ window.allHeroesExtra = [
         "rarity": 4,
         "element": "Purple",
         "specialId": "arcane_blast",
-        "heroId": "knights_merlin_costume_astrology"
+        "heroId": "knights_merlin_costume_astrology",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Proteus",
@@ -12668,7 +14953,9 @@ window.allHeroesExtra = [
         "rarity": 4,
         "element": "Purple",
         "specialId": "scar_of_the_depths",
-        "heroId": "s2_proteus"
+        "heroId": "s2_proteus",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Proteus Costume1",
@@ -12689,7 +14976,9 @@ window.allHeroesExtra = [
         "rarity": 4,
         "element": "Purple",
         "specialId": "scar_of_the_depths",
-        "heroId": "s2_proteus_costume_farseer"
+        "heroId": "s2_proteus_costume_farseer",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Rigard",
@@ -12706,7 +14995,9 @@ window.allHeroesExtra = [
         "rarity": 4,
         "element": "Purple",
         "specialId": "purification",
-        "heroId": "blackguard_knight"
+        "heroId": "blackguard_knight",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Rigard Costume1",
@@ -12728,7 +15019,9 @@ window.allHeroesExtra = [
         "rarity": 4,
         "element": "Purple",
         "specialId": "purification",
-        "heroId": "blackguard_knight_costume_elegant"
+        "heroId": "blackguard_knight_costume_elegant",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Rigard Costume2",
@@ -12750,7 +15043,9 @@ window.allHeroesExtra = [
         "rarity": 4,
         "element": "Purple",
         "specialId": "purification",
-        "heroId": "blackguard_knight_costume_healer"
+        "heroId": "blackguard_knight_costume_healer",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Rigard Toon",
@@ -12772,7 +15067,11 @@ window.allHeroesExtra = [
         "rarity": 4,
         "element": "Purple",
         "specialId": "purification",
-        "heroId": "blackguard_knight_costume_cute"
+        "heroId": "blackguard_knight_costume_cute",
+        "passiveSkills": [
+            "toon_resist_debuffs_manareduction_dispels"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Sabina",
@@ -12789,7 +15088,9 @@ window.allHeroesExtra = [
         "rarity": 4,
         "element": "Purple",
         "specialId": "fog_of_the_fallen",
-        "heroId": "undead_female_warrior"
+        "heroId": "undead_female_warrior",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Sabina Costume1",
@@ -12811,7 +15112,9 @@ window.allHeroesExtra = [
         "rarity": 4,
         "element": "Purple",
         "specialId": "fog_of_the_fallen",
-        "heroId": "undead_female_warrior_costume_princess"
+        "heroId": "undead_female_warrior_costume_princess",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Sabina Costume2",
@@ -12833,7 +15136,9 @@ window.allHeroesExtra = [
         "rarity": 4,
         "element": "Purple",
         "specialId": "fog_of_the_fallen",
-        "heroId": "undead_female_warrior_costume_rococo"
+        "heroId": "undead_female_warrior_costume_rococo",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Sabina Toon",
@@ -12855,7 +15160,11 @@ window.allHeroesExtra = [
         "rarity": 4,
         "element": "Purple",
         "specialId": "fog_of_the_fallen",
-        "heroId": "undead_female_warrior_costume_cute"
+        "heroId": "undead_female_warrior_costume_cute",
+        "passiveSkills": [
+            "toon_resist_debuffs_manareduction_dispels"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Sergei",
@@ -12873,7 +15182,11 @@ window.allHeroesExtra = [
         "rarity": 4,
         "element": "Purple",
         "specialId": "midnight_moon",
-        "heroId": "magic_sergei"
+        "heroId": "magic_sergei",
+        "passiveSkills": [
+            "magic_damage_on_full_charge_to_not_purple"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Shar'Khai",
@@ -12889,7 +15202,11 @@ window.allHeroesExtra = [
         "rarity": 4,
         "element": "Purple",
         "specialId": "critical_tactics",
-        "heroId": "tales1_sharkhai"
+        "heroId": "tales1_sharkhai",
+        "passiveSkills": [
+            "tales1_extra_special_damage_and_add_stacking_mana_generation"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Shar'Khai Costume1",
@@ -12909,7 +15226,13 @@ window.allHeroesExtra = [
         "rarity": 4,
         "element": "Purple",
         "specialId": "critical_tactics",
-        "heroId": "tales1_sharkhai_costume_butcher"
+        "heroId": "tales1_sharkhai_costume_butcher",
+        "passiveSkills": [
+            "tales1_extra_special_damage_and_add_stacking_mana_generation"
+        ],
+        "costumeBonusPassiveSkillIds": [
+            "resist_insanity"
+        ]
     },
     {
         "name": "Shoggo",
@@ -12927,7 +15250,9 @@ window.allHeroesExtra = [
         "rarity": 4,
         "element": "Purple",
         "specialId": "lantern_of_insanity",
-        "heroId": "shadow_shoggo"
+        "heroId": "shadow_shoggo",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Shyombre",
@@ -12947,7 +15272,11 @@ window.allHeroesExtra = [
         "rarity": 4,
         "element": "Purple",
         "specialId": "shadow_sidestep",
-        "heroId": "moth_shyombre"
+        "heroId": "moth_shyombre",
+        "passiveSkills": [
+            "dodge_enemy_damage_special"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Stonecleave",
@@ -12967,7 +15296,9 @@ window.allHeroesExtra = [
         "rarity": 4,
         "element": "Purple",
         "specialId": "dire_ghost",
-        "heroId": "s3_stonecleave"
+        "heroId": "s3_stonecleave",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Tiburtus",
@@ -12984,7 +15315,9 @@ window.allHeroesExtra = [
         "rarity": 4,
         "element": "Purple",
         "specialId": "ramming_pulverizer",
-        "heroId": "blackguard_commander"
+        "heroId": "blackguard_commander",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Tiburtus Costume1",
@@ -13005,7 +15338,9 @@ window.allHeroesExtra = [
         "rarity": 4,
         "element": "Purple",
         "specialId": "ramming_pulverizer",
-        "heroId": "blackguard_commander_costume_metal"
+        "heroId": "blackguard_commander_costume_metal",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Tiburtus Costume2",
@@ -13026,7 +15361,9 @@ window.allHeroesExtra = [
         "rarity": 4,
         "element": "Purple",
         "specialId": "ramming_pulverizer",
-        "heroId": "blackguard_commander_costume_feather"
+        "heroId": "blackguard_commander_costume_feather",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Tiburtus Toon",
@@ -13048,7 +15385,11 @@ window.allHeroesExtra = [
         "rarity": 4,
         "element": "Purple",
         "specialId": "ramming_pulverizer",
-        "heroId": "blackguard_commander_costume_cute"
+        "heroId": "blackguard_commander_costume_cute",
+        "passiveSkills": [
+            "toon_resist_debuffs_manareduction_dispels"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Acidfire",
@@ -13066,7 +15407,11 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Purple",
         "specialId": "poisonous_mist",
-        "heroId": "goblin_acidfire"
+        "heroId": "goblin_acidfire",
+        "passiveSkills": [
+            "goblin_damage_and_accuracy_debuff_on_special"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Aconia",
@@ -13083,7 +15428,11 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Purple",
         "specialId": "bleed_inducing_daggers",
-        "heroId": "elemental_aconia"
+        "heroId": "elemental_aconia",
+        "passiveSkills": [
+            "strong_troop_damage_modifier"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Aeron",
@@ -13103,7 +15452,9 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Purple",
         "specialId": "nethershield",
-        "heroId": "dark_god_aeron"
+        "heroId": "dark_god_aeron",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Aeron Costume1",
@@ -13126,7 +15477,11 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Purple",
         "specialId": "nethershield",
-        "heroId": "dark_god_aeron_costume_periwig"
+        "heroId": "dark_god_aeron_costume_periwig",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": [
+            "extra_special_cleanse_newest"
+        ]
     },
     {
         "name": "Agrafena",
@@ -13147,7 +15502,11 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Purple",
         "specialId": "arcane_shock",
-        "heroId": "magic_agrafena"
+        "heroId": "magic_agrafena",
+        "passiveSkills": [
+            "magic_damage_on_full_charge_to_not_purple"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Agrafena Costume1",
@@ -13172,7 +15531,13 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Purple",
         "specialId": "arcane_shock",
-        "heroId": "magic_agrafena_costume_dark"
+        "heroId": "magic_agrafena_costume_dark",
+        "passiveSkills": [
+            "magic_damage_on_full_charge_costume"
+        ],
+        "costumeBonusPassiveSkillIds": [
+            "reduce_big_minion_health"
+        ]
     },
     {
         "name": "Akilius",
@@ -13191,7 +15556,12 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Purple",
         "specialId": "coiling_whip",
-        "heroId": "dark_god_akilius"
+        "heroId": "dark_god_akilius",
+        "passiveSkills": [
+            "heal_on_own_familiar_death_more",
+            "resist_negative_minion_effects"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Alfrike",
@@ -13209,7 +15579,9 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Purple",
         "specialId": "cube_of_dark_realm",
-        "heroId": "s3_alfrike"
+        "heroId": "s3_alfrike",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Alfrike Costume1",
@@ -13231,7 +15603,9 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Purple",
         "specialId": "cube_of_dark_realm",
-        "heroId": "s3_alfrike_costume_hatter"
+        "heroId": "s3_alfrike_costume_hatter",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Amethyst",
@@ -13249,7 +15623,9 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Purple",
         "specialId": "assassins_in_the_night",
-        "heroId": "ninja_amethyst"
+        "heroId": "ninja_amethyst",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Anoushka",
@@ -13268,7 +15644,12 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Purple",
         "specialId": "strange_incense",
-        "heroId": "dark_god_anoushka"
+        "heroId": "dark_god_anoushka",
+        "passiveSkills": [
+            "heal_on_debuff",
+            "resist_accuracy_modifier_debuffs"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Anubis",
@@ -13286,7 +15667,11 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Purple",
         "specialId": "mark_of_anubis",
-        "heroId": "s5_anubis"
+        "heroId": "s5_anubis",
+        "passiveSkills": [
+            "moon_extra_special_damage_and_dispel_latest_buff"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Anubis Costume1",
@@ -13308,7 +15693,14 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Purple",
         "specialId": "mark_of_anubis",
-        "heroId": "s5_anubis_costume_dancefloor"
+        "heroId": "s5_anubis_costume_dancefloor",
+        "passiveSkills": [
+            "moon_extra_special_damage_and_dispel_latest_buff"
+        ],
+        "costumeBonusPassiveSkillIds": [
+            "mana_on_debuff",
+            "guaranteed_passive_effects_on_special"
+        ]
     },
     {
         "name": "Aramis",
@@ -13327,7 +15719,11 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Purple",
         "specialId": "charmers_blades",
-        "heroId": "musketeer_aramis"
+        "heroId": "musketeer_aramis",
+        "passiveSkills": [
+            "damage_all_enemies_on_cover_or_special_damage_received"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Arfanias",
@@ -13346,7 +15742,12 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Purple",
         "specialId": "dagger_of_shadows",
-        "heroId": "dark_god_arfanias"
+        "heroId": "dark_god_arfanias",
+        "passiveSkills": [
+            "resist_health_steal",
+            "attack_buff_on_mana_reduction"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Asketel",
@@ -13364,7 +15765,9 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Purple",
         "specialId": "necronomicon_page_13",
-        "heroId": "shadow_asketel"
+        "heroId": "shadow_asketel",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Bastet",
@@ -13383,7 +15786,11 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Purple",
         "specialId": "quick_and_nimble",
-        "heroId": "s5_bastet"
+        "heroId": "s5_bastet",
+        "passiveSkills": [
+            "moon_extra_special_damage_and_dispel_latest_buff"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Bastet Costume1",
@@ -13406,7 +15813,14 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Purple",
         "specialId": "quick_and_nimble",
-        "heroId": "s5_bastet_costume_forest"
+        "heroId": "s5_bastet_costume_forest",
+        "passiveSkills": [
+            "moon_extra_special_damage_and_dispel_latest_buff"
+        ],
+        "costumeBonusPassiveSkillIds": [
+            "mana_on_debuff",
+            "iterate_passive_effects_on_special"
+        ]
     },
     {
         "name": "Becky",
@@ -13427,7 +15841,12 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Purple",
         "specialId": "wand_of_mana_control",
-        "heroId": "magic_becky"
+        "heroId": "magic_becky",
+        "passiveSkills": [
+            "magic_mana_regen_stack_on_special",
+            "magic_heal_on_full_charge_to_not_green"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Belladonna",
@@ -13446,7 +15865,11 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Purple",
         "specialId": "mystical_concerto",
-        "heroId": "bard_belladonna"
+        "heroId": "bard_belladonna",
+        "passiveSkills": [
+            "mana_generation_modifier_all_enemies_stronger"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Bera",
@@ -13464,7 +15887,9 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Purple",
         "specialId": "disir_of_dusk",
-        "heroId": "s3_bera"
+        "heroId": "s3_bera",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Bera Costume1",
@@ -13486,7 +15911,9 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Purple",
         "specialId": "disir_of_dusk",
-        "heroId": "s3_bera_costume_conjurer"
+        "heroId": "s3_bera_costume_conjurer",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Boss Wolf",
@@ -13504,7 +15931,9 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Purple",
         "specialId": "unstoppable_growl",
-        "heroId": "fables_boss_wolf"
+        "heroId": "fables_boss_wolf",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Carta",
@@ -13523,7 +15952,12 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Purple",
         "specialId": "unerring_course",
-        "heroId": "construct_carta"
+        "heroId": "construct_carta",
+        "passiveSkills": [
+            "repair_core",
+            "resist_special_blocking"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Cecilia",
@@ -13541,7 +15975,11 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Purple",
         "specialId": "aura_of_twilight",
-        "heroId": "castle_stag_cecilia"
+        "heroId": "castle_stag_cecilia",
+        "passiveSkills": [
+            "heal_on_buff_alliance_quest_family"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Cennius",
@@ -13560,7 +15998,11 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Purple",
         "specialId": "blade_wings",
-        "heroId": "owl_cennius"
+        "heroId": "owl_cennius",
+        "passiveSkills": [
+            "mana_generation_modifier_all_enemies_stronger"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Chakkoszrot",
@@ -13579,7 +16021,12 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Purple",
         "specialId": "stalling_spell",
-        "heroId": "dark_god_chakkoszrot"
+        "heroId": "dark_god_chakkoszrot",
+        "passiveSkills": [
+            "mana_gen_on_debuff",
+            "resist_direct_mana_reductions"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Charon",
@@ -13597,7 +16044,12 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Purple",
         "specialId": "boat_ride_from_the_beyond",
-        "heroId": "styx_charon"
+        "heroId": "styx_charon",
+        "passiveSkills": [
+            "resist_all_defense_debuffs",
+            "reduce_minion_health"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Clarissa",
@@ -13616,7 +16068,11 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Purple",
         "specialId": "miasma_mace",
-        "heroId": "dark_god_clarissa"
+        "heroId": "dark_god_clarissa",
+        "passiveSkills": [
+            "resist_poison"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Dark Lord",
@@ -13637,7 +16093,9 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Purple",
         "specialId": "doomstrike",
-        "heroId": "villain_dark_lord"
+        "heroId": "villain_dark_lord",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Dark Lord Costume1",
@@ -13662,7 +16120,11 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Purple",
         "specialId": "doomstrike",
-        "heroId": "villain_dark_lord_costume_astronomer"
+        "heroId": "villain_dark_lord_costume_astronomer",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": [
+            "extra_special_curse"
+        ]
     },
     {
         "name": "Darkbeat",
@@ -13681,7 +16143,11 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Purple",
         "specialId": "struck_by_thunder",
-        "heroId": "bard_darkbeat"
+        "heroId": "bard_darkbeat",
+        "passiveSkills": [
+            "revival_chance_modifier_all_enemies"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Darkfeather",
@@ -13699,7 +16165,11 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Purple",
         "specialId": "the_eagles_blessing",
-        "heroId": "goblin_darkfeather"
+        "heroId": "goblin_darkfeather",
+        "passiveSkills": [
+            "goblin_damage_and_accuracy_debuff_on_special"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Deadboot",
@@ -13718,7 +16188,11 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Purple",
         "specialId": "unhallowed_spirits",
-        "heroId": "goblin_deadboot"
+        "heroId": "goblin_deadboot",
+        "passiveSkills": [
+            "goblin_damage_and_accuracy_debuff_on_special"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Demilune",
@@ -13738,7 +16212,12 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Purple",
         "specialId": "moon_crush_beam",
-        "heroId": "astral_demilune"
+        "heroId": "astral_demilune",
+        "passiveSkills": [
+            "share_received_damage",
+            "resist_poison"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Diaochan",
@@ -13756,7 +16235,9 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Purple",
         "specialId": "ladys_charm",
-        "heroId": "kingdom_diaochan"
+        "heroId": "kingdom_diaochan",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Diaochan Costume1",
@@ -13778,7 +16259,11 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Purple",
         "specialId": "ladys_charm",
-        "heroId": "kingdom_diaochan_costume_flowers"
+        "heroId": "kingdom_diaochan_costume_flowers",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": [
+            "kingdom_unstoppable_minions"
+        ]
     },
     {
         "name": "Domitia",
@@ -13796,7 +16281,9 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Purple",
         "specialId": "shock_bolt",
-        "heroId": "magitech_sniper"
+        "heroId": "magitech_sniper",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Domitia Costume1",
@@ -13818,7 +16305,9 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Purple",
         "specialId": "shock_bolt",
-        "heroId": "magitech_sniper_costume_steampunk"
+        "heroId": "magitech_sniper_costume_steampunk",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Domitia Costume2",
@@ -13840,7 +16329,9 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Purple",
         "specialId": "shock_bolt",
-        "heroId": "magitech_sniper_costume_undead"
+        "heroId": "magitech_sniper_costume_undead",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Domitia Toon",
@@ -13863,7 +16354,11 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Purple",
         "specialId": "shock_bolt",
-        "heroId": "magitech_sniper_costume_cute"
+        "heroId": "magitech_sniper_costume_cute",
+        "passiveSkills": [
+            "toon_resist_debuffs_manareduction_dispels"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Domitia Glass",
@@ -13886,7 +16381,11 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Purple",
         "specialId": "shock_bolt",
-        "heroId": "magitech_sniper_costume_glass"
+        "heroId": "magitech_sniper_costume_glass",
+        "passiveSkills": [
+            "glass_reflect_debuffs"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Dr Moreau",
@@ -13903,7 +16402,11 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Purple",
         "specialId": "blinding_wisdom",
-        "heroId": "s4_doctor_moreau"
+        "heroId": "s4_doctor_moreau",
+        "passiveSkills": [
+            "special_damage_reduction"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Dr Moreau Costume1",
@@ -13924,7 +16427,13 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Purple",
         "specialId": "blinding_wisdom",
-        "heroId": "s4_doctor_moreau_costume_scribe"
+        "heroId": "s4_doctor_moreau_costume_scribe",
+        "passiveSkills": [
+            "special_damage_reduction"
+        ],
+        "costumeBonusPassiveSkillIds": [
+            "extra_special_increased_damage_against_boosted_health"
+        ]
     },
     {
         "name": "Dreadstar",
@@ -13945,7 +16454,12 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Purple",
         "specialId": "astral_dominion",
-        "heroId": "astral_dreadstar"
+        "heroId": "astral_dreadstar",
+        "passiveSkills": [
+            "share_received_damage",
+            "resist_poison"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Dubhan",
@@ -13964,7 +16478,12 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Purple",
         "specialId": "thundering_strike",
-        "heroId": "monster_hunter_dubhain"
+        "heroId": "monster_hunter_dubhain",
+        "passiveSkills": [
+            "hunters_mark_on_special",
+            "special_damage_reduction_monster_hunters"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Dularfulr",
@@ -13985,7 +16504,12 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Purple",
         "specialId": "nights_whisper",
-        "heroId": "tales2_dularfulr"
+        "heroId": "tales2_dularfulr",
+        "passiveSkills": [
+            "molten_core",
+            "resist_burn_with_health_boost_and_mana"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Eros",
@@ -14002,7 +16526,11 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Purple",
         "specialId": "arrow_of_desire",
-        "heroId": "valentines_eros"
+        "heroId": "valentines_eros",
+        "passiveSkills": [
+            "resist_special_blocking"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Experience Mimic Dark",
@@ -14024,7 +16552,12 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Purple",
         "specialId": "mimic_training_hero_purple_bite",
-        "heroId": "mimic_training_hero_purple"
+        "heroId": "mimic_training_hero_purple",
+        "passiveSkills": [
+            "mimic_training_hero_purple",
+            "never_miss_special"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Farrah",
@@ -14042,7 +16575,11 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Purple",
         "specialId": "piercing_falcon",
-        "heroId": "elemental_farrah"
+        "heroId": "elemental_farrah",
+        "passiveSkills": [
+            "strong_troop_damage_modifier"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Freya",
@@ -14060,7 +16597,9 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Purple",
         "specialId": "ravens_vigil",
-        "heroId": "s3_freya"
+        "heroId": "s3_freya",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Freya Costume1",
@@ -14082,7 +16621,9 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Purple",
         "specialId": "ravens_vigil",
-        "heroId": "s3_freya_costume_witch"
+        "heroId": "s3_freya_costume_witch",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Gastille",
@@ -14099,7 +16640,11 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Purple",
         "specialId": "elemental_corruption",
-        "heroId": "elemental_gastille"
+        "heroId": "elemental_gastille",
+        "passiveSkills": [
+            "strong_troop_damage_modifier"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Gongoth",
@@ -14117,7 +16662,13 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Purple",
         "specialId": "twilight_star_strike",
-        "heroId": "astral_dwarf_gongoth"
+        "heroId": "astral_dwarf_gongoth",
+        "passiveSkills": [
+            "never_miss_special",
+            "resist_negative_minion_and_mega_minion_effects",
+            "bypass_minions_and_mega_minions"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Gooldron",
@@ -14136,7 +16687,12 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Purple",
         "specialId": "slime_serving",
-        "heroId": "slime_gooldron"
+        "heroId": "slime_gooldron",
+        "passiveSkills": [
+            "summon_slime_minion_on_damage_purple",
+            "summon_slime_minion_on_death_purple"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Goretooth",
@@ -14154,7 +16710,12 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Purple",
         "specialId": "titantooth_blade",
-        "heroId": "monster_hunter_goretooth"
+        "heroId": "monster_hunter_goretooth",
+        "passiveSkills": [
+            "hunters_mark_on_special",
+            "monster_hunter_reallocate_debuff_or_heal"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Goseck",
@@ -14172,7 +16733,11 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Purple",
         "specialId": "revengeful_smite",
-        "heroId": "gargoyle_goseck"
+        "heroId": "gargoyle_goseck",
+        "passiveSkills": [
+            "gargoyle_stone"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Griffex",
@@ -14189,7 +16754,11 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Purple",
         "specialId": "mana_manipulation",
-        "heroId": "elemental_griffex"
+        "heroId": "elemental_griffex",
+        "passiveSkills": [
+            "strong_troop_damage_modifier"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Grimble",
@@ -14208,7 +16777,11 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Purple",
         "specialId": "gnomish_carnage",
-        "heroId": "dark_god_grimble"
+        "heroId": "dark_god_grimble",
+        "passiveSkills": [
+            "resist_accuracy_modifier_debuffs"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Guardian Panther",
@@ -14226,7 +16799,9 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Purple",
         "specialId": "eye_of_panther",
-        "heroId": "guardian_cat_warrior"
+        "heroId": "guardian_cat_warrior",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Guardian Panther Costume1",
@@ -14248,7 +16823,9 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Purple",
         "specialId": "eye_of_panther",
-        "heroId": "guardian_cat_warrior_costume_fierce"
+        "heroId": "guardian_cat_warrior_costume_fierce",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Gunktus",
@@ -14266,7 +16843,12 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Purple",
         "specialId": "blob_of_fury",
-        "heroId": "slime_gunktus"
+        "heroId": "slime_gunktus",
+        "passiveSkills": [
+            "summon_slime_minion_on_damage_purple",
+            "summon_slime_minion_on_death_purple"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Hannah",
@@ -14285,7 +16867,11 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Purple",
         "specialId": "corrupting_idol",
-        "heroId": "s4_hannah"
+        "heroId": "s4_hannah",
+        "passiveSkills": [
+            "start_battle_with_mana"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Hannah Costume1",
@@ -14308,7 +16894,13 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Purple",
         "specialId": "corrupting_idol",
-        "heroId": "s4_hannah_costume_drover"
+        "heroId": "s4_hannah_costume_drover",
+        "passiveSkills": [
+            "start_battle_with_mana"
+        ],
+        "costumeBonusPassiveSkillIds": [
+            "extra_special_increased_damage_against_boosted_health"
+        ]
     },
     {
         "name": "Hawthorn",
@@ -14328,7 +16920,12 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Purple",
         "specialId": "medicinal_fumes",
-        "heroId": "monster_hunter_hawthorn"
+        "heroId": "monster_hunter_hawthorn",
+        "passiveSkills": [
+            "hunters_mark_on_special",
+            "special_damage_reduction_monster_hunters"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Hel",
@@ -14348,7 +16945,9 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Purple",
         "specialId": "crush_of_hel",
-        "heroId": "dark_god_hel"
+        "heroId": "dark_god_hel",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Hel Costume1",
@@ -14373,7 +16972,11 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Purple",
         "specialId": "crush_of_hel",
-        "heroId": "dark_god_hel_costume_omen"
+        "heroId": "dark_god_hel_costume_omen",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": [
+            "extra_special_dispel_newest"
+        ]
     },
     {
         "name": "Hreidmarr",
@@ -14397,7 +17000,12 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Purple",
         "specialId": "dwarven_kings_levy",
-        "heroId": "tales2_hreidmarr"
+        "heroId": "tales2_hreidmarr",
+        "passiveSkills": [
+            "molten_core",
+            "resist_burn_with_health_boost_and_mana"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Hulda",
@@ -14416,7 +17024,11 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Purple",
         "specialId": "pet_larva",
-        "heroId": "s4_hulda"
+        "heroId": "s4_hulda",
+        "passiveSkills": [
+            "increase_buff_duration"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Hulda Costume1",
@@ -14439,7 +17051,13 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Purple",
         "specialId": "pet_larva",
-        "heroId": "s4_hulda_costume_nurse"
+        "heroId": "s4_hulda_costume_nurse",
+        "passiveSkills": [
+            "increase_buff_duration"
+        ],
+        "costumeBonusPassiveSkillIds": [
+            "extra_special_health_boost"
+        ]
     },
     {
         "name": "Hunter",
@@ -14457,7 +17075,11 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Purple",
         "specialId": "merciless_execution",
-        "heroId": "shadow_hunter"
+        "heroId": "shadow_hunter",
+        "passiveSkills": [
+            "insanity_damage_reduction"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Hurricane",
@@ -14478,7 +17100,12 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Purple",
         "specialId": "firestone_daggers",
-        "heroId": "monster_hunter_hurricane"
+        "heroId": "monster_hunter_hurricane",
+        "passiveSkills": [
+            "hunters_mark_on_special",
+            "attack_modifier_on_special"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Jabberwock",
@@ -14495,7 +17122,9 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Purple",
         "specialId": "sideswipe",
-        "heroId": "wonderland_jabberwocky"
+        "heroId": "wonderland_jabberwocky",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Jabberwock Costume1",
@@ -14517,7 +17146,11 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Purple",
         "specialId": "sideswipe",
-        "heroId": "wonderland_jabberwocky_costume_moth"
+        "heroId": "wonderland_jabberwocky_costume_moth",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": [
+            "possession_on_special"
+        ]
     },
     {
         "name": "Jett",
@@ -14540,7 +17173,12 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Purple",
         "specialId": "vapors_of_the_underworld",
-        "heroId": "magic_jett"
+        "heroId": "magic_jett",
+        "passiveSkills": [
+            "magic_mana_regen_stack_on_special",
+            "magic_heal_on_full_charge_to_not_green"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Kageburado",
@@ -14558,7 +17196,9 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Purple",
         "specialId": "break_strike",
-        "heroId": "s2_cursed_samurai"
+        "heroId": "s2_cursed_samurai",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Kageburado Costume1",
@@ -14581,7 +17221,9 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Purple",
         "specialId": "break_strike",
-        "heroId": "s2_cursed_samurai_costume_beetle"
+        "heroId": "s2_cursed_samurai_costume_beetle",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Karnov",
@@ -14600,7 +17242,9 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Purple",
         "specialId": "total_beatdown",
-        "heroId": "villain_karnov"
+        "heroId": "villain_karnov",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Karnov Costume1",
@@ -14625,7 +17269,11 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Purple",
         "specialId": "total_beatdown",
-        "heroId": "villain_karnov_costume_jammies"
+        "heroId": "villain_karnov_costume_jammies",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": [
+            "extra_special_curse"
+        ]
     },
     {
         "name": "Kemeny",
@@ -14643,7 +17291,11 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Purple",
         "specialId": "cry_for_absolution",
-        "heroId": "gargoyle_kemeny"
+        "heroId": "gargoyle_kemeny",
+        "passiveSkills": [
+            "gargoyle_stone"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Khepri",
@@ -14661,7 +17313,11 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Purple",
         "specialId": "scarab_bombardment",
-        "heroId": "s5_khepri"
+        "heroId": "s5_khepri",
+        "passiveSkills": [
+            "moon_extra_special_damage_and_mana_regen_debuff"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Khepri Costume1",
@@ -14683,7 +17339,14 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Purple",
         "specialId": "scarab_bombardment",
-        "heroId": "s5_khepri_costume_overlord"
+        "heroId": "s5_khepri_costume_overlord",
+        "passiveSkills": [
+            "moon_extra_special_damage_and_mana_regen_debuff"
+        ],
+        "costumeBonusPassiveSkillIds": [
+            "resist_sand",
+            "iterate_passive_effects_on_special"
+        ]
     },
     {
         "name": "Khiona",
@@ -14701,7 +17364,9 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Purple",
         "specialId": "bleeding_edge",
-        "heroId": "dark_god_september"
+        "heroId": "dark_god_september",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Khiona Costume1",
@@ -14724,7 +17389,11 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Purple",
         "specialId": "bleeding_edge",
-        "heroId": "dark_god_september_costume_engineer"
+        "heroId": "dark_god_september_costume_engineer",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": [
+            "extra_special_dispel_newest"
+        ]
     },
     {
         "name": "Khonshu",
@@ -14741,7 +17410,11 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Purple",
         "specialId": "midnight_strike",
-        "heroId": "s5_khonshu"
+        "heroId": "s5_khonshu",
+        "passiveSkills": [
+            "moon_extra_special_damage_and_mana_regen_debuff"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Khonshu Costume1",
@@ -14762,7 +17435,14 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Purple",
         "specialId": "midnight_strike",
-        "heroId": "s5_khonshu_costume_knight"
+        "heroId": "s5_khonshu_costume_knight",
+        "passiveSkills": [
+            "moon_extra_special_damage_and_mana_regen_debuff"
+        ],
+        "costumeBonusPassiveSkillIds": [
+            "resist_sand",
+            "iterate_passive_effects_on_special"
+        ]
     },
     {
         "name": "Killhare",
@@ -14779,7 +17459,9 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Purple",
         "specialId": "reckless_swing",
-        "heroId": "easter_killhare"
+        "heroId": "easter_killhare",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Killhare Costume1",
@@ -14800,7 +17482,9 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Purple",
         "specialId": "reckless_swing",
-        "heroId": "easter_killhare_costume_farmer"
+        "heroId": "easter_killhare_costume_farmer",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Knave of Hearts",
@@ -14819,7 +17503,9 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Purple",
         "specialId": "stolen_tarts",
-        "heroId": "wonderland_knave_of_hearts"
+        "heroId": "wonderland_knave_of_hearts",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Knightus",
@@ -14840,7 +17526,12 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Purple",
         "specialId": "slime_coated_sword",
-        "heroId": "slime_knightus"
+        "heroId": "slime_knightus",
+        "passiveSkills": [
+            "summon_slime_minion_on_damage_purple",
+            "summon_slime_minion_on_death_purple"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Kunchen",
@@ -14859,7 +17550,11 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Purple",
         "specialId": "power_of_ajna",
-        "heroId": "dark_god_kunchen"
+        "heroId": "dark_god_kunchen",
+        "passiveSkills": [
+            "resist_defense_modifier_debuffs"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Lepiota",
@@ -14881,7 +17576,11 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Purple",
         "specialId": "abyssal_incantation",
-        "heroId": "s4_lepiota"
+        "heroId": "s4_lepiota",
+        "passiveSkills": [
+            "special_damage_reduction"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Lepiota Costume1",
@@ -14907,7 +17606,13 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Purple",
         "specialId": "abyssal_incantation",
-        "heroId": "s4_lepiota_costume_undying"
+        "heroId": "s4_lepiota_costume_undying",
+        "passiveSkills": [
+            "special_damage_reduction"
+        ],
+        "costumeBonusPassiveSkillIds": [
+            "extra_special_health_boost"
+        ]
     },
     {
         "name": "Louhi",
@@ -14925,7 +17630,11 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Purple",
         "specialId": "feather_tempest",
-        "heroId": "kalevala_louhi"
+        "heroId": "kalevala_louhi",
+        "passiveSkills": [
+            "heal_mana_on_low_health_once"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Lu Bu",
@@ -14944,7 +17653,9 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Purple",
         "specialId": "disrupting_charge",
-        "heroId": "kingdom_lu_bu"
+        "heroId": "kingdom_lu_bu",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Lu Bu Costume1",
@@ -14967,7 +17678,11 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Purple",
         "specialId": "disrupting_charge",
-        "heroId": "kingdom_lu_bu_costume_tiger_lord"
+        "heroId": "kingdom_lu_bu_costume_tiger_lord",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": [
+            "kingdom_unstoppable_minions"
+        ]
     },
     {
         "name": "Lucinda",
@@ -14986,7 +17701,11 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Purple",
         "specialId": "might_of_excalibroom",
-        "heroId": "halloween_lucinda"
+        "heroId": "halloween_lucinda",
+        "passiveSkills": [
+            "halloween_steal_buff_or_deal_damage"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Ludwig",
@@ -15004,7 +17723,9 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Purple",
         "specialId": "fullmetal_pelt",
-        "heroId": "castle_wolf_ludwig"
+        "heroId": "castle_wolf_ludwig",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Luna",
@@ -15022,7 +17743,12 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Purple",
         "specialId": "lunar_blessing",
-        "heroId": "mighty_pet_luna"
+        "heroId": "mighty_pet_luna",
+        "passiveSkills": [
+            "heal_and_add_mana_on_ally_minion",
+            "damage_enemies_on_enemy_parasite"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Madame Giry",
@@ -15042,7 +17768,12 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Purple",
         "specialId": "summon_ballerina_fiend",
-        "heroId": "ballerina_madame_giry"
+        "heroId": "ballerina_madame_giry",
+        "passiveSkills": [
+            "heal_on_expired_or_cleared_debuff_slow",
+            "resist_attack_modifier_debuffs"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Maisie",
@@ -15061,7 +17792,12 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Purple",
         "specialId": "join_in_joyful_song",
-        "heroId": "garrison_maisie"
+        "heroId": "garrison_maisie",
+        "passiveSkills": [
+            "remove_wither_from_allies",
+            "resist_direct_mana_reductions"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Malicna",
@@ -15081,7 +17817,12 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Purple",
         "specialId": "grimoire_skim",
-        "heroId": "dark_god_malicna"
+        "heroId": "dark_god_malicna",
+        "passiveSkills": [
+            "holy_defense_on_mana_reduction",
+            "resist_health_steal"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Marie-Therese",
@@ -15100,7 +17841,9 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Purple",
         "specialId": "zombie_curse",
-        "heroId": "pirate_marie_therese"
+        "heroId": "pirate_marie_therese",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Marie-Therese Costume1",
@@ -15124,7 +17867,11 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Purple",
         "specialId": "zombie_curse",
-        "heroId": "pirate_marie_therese_costume_priestess"
+        "heroId": "pirate_marie_therese_costume_priestess",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": [
+            "extra_special_poison"
+        ]
     },
     {
         "name": "Maud",
@@ -15143,7 +17890,13 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Purple",
         "specialId": "here_catch",
-        "heroId": "faun_maud"
+        "heroId": "faun_maud",
+        "passiveSkills": [
+            "resist_negative_attack_modifiers_including_wither",
+            "resist_insanity",
+            "minion_and_mega_minion_accuracy_modifier"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Medea",
@@ -15161,7 +17914,11 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Purple",
         "specialId": "shatter_psyche",
-        "heroId": "tales1_medea"
+        "heroId": "tales1_medea",
+        "passiveSkills": [
+            "tales1_extra_special_damage_and_add_stacking_mana_generation"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Medea Costume1",
@@ -15183,7 +17940,13 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Purple",
         "specialId": "shatter_psyche",
-        "heroId": "tales1_medea_costume_goddess"
+        "heroId": "tales1_medea_costume_goddess",
+        "passiveSkills": [
+            "tales1_extra_special_damage_and_add_stacking_mana_generation"
+        ],
+        "costumeBonusPassiveSkillIds": [
+            "resist_insanity"
+        ]
     },
     {
         "name": "Melancholia",
@@ -15203,7 +17966,11 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Purple",
         "specialId": "grim_awakening",
-        "heroId": "shadow_melancholia"
+        "heroId": "shadow_melancholia",
+        "passiveSkills": [
+            "insanity_damage_reduction"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Mok-Arr",
@@ -15221,7 +17988,9 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Purple",
         "specialId": "black_tide",
-        "heroId": "s2_hammerhead_hulk"
+        "heroId": "s2_hammerhead_hulk",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Mok-Arr Costume1",
@@ -15245,7 +18014,9 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Purple",
         "specialId": "black_tide",
-        "heroId": "s2_hammerhead_hulk_costume_emerald"
+        "heroId": "s2_hammerhead_hulk_costume_emerald",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Morax",
@@ -15265,7 +18036,12 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Purple",
         "specialId": "scythe_of_sorceries",
-        "heroId": "dark_god_morax"
+        "heroId": "dark_god_morax",
+        "passiveSkills": [
+            "mana_on_enemy_health_boost_special",
+            "resist_mana_generation_modifier_debuffs"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Mortewitch",
@@ -15287,7 +18063,11 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Purple",
         "specialId": "hungering_grave",
-        "heroId": "moth_mortewitch"
+        "heroId": "moth_mortewitch",
+        "passiveSkills": [
+            "dodge_enemy_damage_special"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Mortimer",
@@ -15305,7 +18085,12 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Purple",
         "specialId": "tidal_waves",
-        "heroId": "beachparty_mortimer"
+        "heroId": "beachparty_mortimer",
+        "passiveSkills": [
+            "resist_water",
+            "underwater_on_special_beach"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Myztero",
@@ -15321,7 +18106,11 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Purple",
         "specialId": "absordium_deflectors",
-        "heroId": "hidden_dark_god_myztero"
+        "heroId": "hidden_dark_god_myztero",
+        "passiveSkills": [
+            "absorb_major_debuffs"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Narcisa",
@@ -15339,7 +18128,11 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Purple",
         "specialId": "song_of_calamity",
-        "heroId": "bard_narcisa"
+        "heroId": "bard_narcisa",
+        "passiveSkills": [
+            "mana_generation_modifier_all_enemies_stronger"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Nyx",
@@ -15357,7 +18150,12 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Purple",
         "specialId": "night_falls",
-        "heroId": "styx_nyx"
+        "heroId": "styx_nyx",
+        "passiveSkills": [
+            "resist_all_defense_debuffs",
+            "reduce_minion_health"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Obakan",
@@ -15374,7 +18172,9 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Purple",
         "specialId": "cleave_counter",
-        "heroId": "underworld_champion"
+        "heroId": "underworld_champion",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Obakan Costume1",
@@ -15395,7 +18195,9 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Purple",
         "specialId": "cleave_counter",
-        "heroId": "underworld_champion_costume_champion"
+        "heroId": "underworld_champion_costume_champion",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Obakan Costume2",
@@ -15417,7 +18219,9 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Purple",
         "specialId": "cleave_counter",
-        "heroId": "underworld_champion_costume_vampire"
+        "heroId": "underworld_champion_costume_vampire",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Obakan Toon",
@@ -15439,7 +18243,11 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Purple",
         "specialId": "cleave_counter",
-        "heroId": "underworld_champion_costume_cute"
+        "heroId": "underworld_champion_costume_cute",
+        "passiveSkills": [
+            "toon_resist_debuffs_manareduction_dispels"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Obakan Glass",
@@ -15461,7 +18269,11 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Purple",
         "specialId": "cleave_counter",
-        "heroId": "underworld_champion_costume_glass"
+        "heroId": "underworld_champion_costume_glass",
+        "passiveSkills": [
+            "glass_reflect_debuffs"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Odile",
@@ -15481,7 +18293,12 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Purple",
         "specialId": "dance_of_the_raven",
-        "heroId": "ballerina_odile"
+        "heroId": "ballerina_odile",
+        "passiveSkills": [
+            "heal_on_expired_or_cleared_debuff_fast",
+            "resist_defense_modifier_debuffs"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Ommodus",
@@ -15501,7 +18318,11 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Purple",
         "specialId": "poleaxe_of_the_law",
-        "heroId": "owl_ommodus"
+        "heroId": "owl_ommodus",
+        "passiveSkills": [
+            "mana_generation_modifier_all_enemies_stronger"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Onyx",
@@ -15521,7 +18342,9 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Purple",
         "specialId": "crippling_claws",
-        "heroId": "ninja_onyx"
+        "heroId": "ninja_onyx",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Peppermint",
@@ -15540,7 +18363,9 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Purple",
         "specialId": "putrid_perfume",
-        "heroId": "christmas_peppermint"
+        "heroId": "christmas_peppermint",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Phantom of the Opera",
@@ -15561,7 +18386,12 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Purple",
         "specialId": "ballad_of_obsession",
-        "heroId": "ballerina_phantom_of_the_opera"
+        "heroId": "ballerina_phantom_of_the_opera",
+        "passiveSkills": [
+            "heal_on_expired_or_cleared_debuff",
+            "resist_attack_modifier_debuffs"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Phorcys",
@@ -15581,7 +18411,11 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Purple",
         "specialId": "rally_of_the_deep",
-        "heroId": "tales1_phorcys"
+        "heroId": "tales1_phorcys",
+        "passiveSkills": [
+            "tales1_extra_special_damage_and_add_critical"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Phorcys Costume1",
@@ -15605,7 +18439,13 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Purple",
         "specialId": "rally_of_the_deep",
-        "heroId": "tales1_phorcys_costume_warrior_god"
+        "heroId": "tales1_phorcys_costume_warrior_god",
+        "passiveSkills": [
+            "tales1_extra_special_damage_and_add_critical"
+        ],
+        "costumeBonusPassiveSkillIds": [
+            "resist_insanity"
+        ]
     },
     {
         "name": "Phthonus",
@@ -15623,7 +18463,11 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Purple",
         "specialId": "potions_of_covetous_desire",
-        "heroId": "valentines_phthonus"
+        "heroId": "valentines_phthonus",
+        "passiveSkills": [
+            "resist_special_blocking"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Quartz",
@@ -15641,7 +18485,9 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Purple",
         "specialId": "incite_ki",
-        "heroId": "ninja_quartz"
+        "heroId": "ninja_quartz",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Quintus",
@@ -15657,7 +18503,9 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Purple",
         "specialId": "thunderstrike",
-        "heroId": "cultist_inventor"
+        "heroId": "cultist_inventor",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Quintus Costume1",
@@ -15678,7 +18526,9 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Purple",
         "specialId": "thunderstrike",
-        "heroId": "cultist_inventor_costume_steam"
+        "heroId": "cultist_inventor_costume_steam",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Quintus Costume2",
@@ -15699,7 +18549,9 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Purple",
         "specialId": "thunderstrike",
-        "heroId": "cultist_inventor_costume_love_doctor"
+        "heroId": "cultist_inventor_costume_love_doctor",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Quintus Toon",
@@ -15720,7 +18572,11 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Purple",
         "specialId": "thunderstrike",
-        "heroId": "cultist_inventor_costume_cute"
+        "heroId": "cultist_inventor_costume_cute",
+        "passiveSkills": [
+            "toon_resist_debuffs_manareduction_dispels"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Ramona",
@@ -15738,7 +18594,13 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Purple",
         "specialId": "three_little_rams",
-        "heroId": "champions_ramona"
+        "heroId": "champions_ramona",
+        "passiveSkills": [
+            "mana_on_ally_fiend_summon_ramona",
+            "health_boost_on_ally_fiend_summon_ramona",
+            "mana_gen_on_debuff"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Rayne",
@@ -15755,7 +18617,9 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Purple",
         "specialId": "plague_blade",
-        "heroId": "castle_raven_rayne"
+        "heroId": "castle_raven_rayne",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Rochefort",
@@ -15772,7 +18636,11 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Purple",
         "specialId": "dishonorable_ploy",
-        "heroId": "musketeer_rochefort"
+        "heroId": "musketeer_rochefort",
+        "passiveSkills": [
+            "damage_all_enemies_on_cover_or_special_damage_received"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Salmon Loki",
@@ -15789,7 +18657,9 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Purple",
         "specialId": "tricksters_transformation",
-        "heroId": "s3_loki_fish"
+        "heroId": "s3_loki_fish",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Salmon Loki Costume1",
@@ -15810,7 +18680,9 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Purple",
         "specialId": "tricksters_transformation",
-        "heroId": "s3_loki_fish_costume_dapper"
+        "heroId": "s3_loki_fish_costume_dapper",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Sargasso",
@@ -15827,7 +18699,9 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Purple",
         "specialId": "curse_of_sargasso",
-        "heroId": "pirate_dread_captain"
+        "heroId": "pirate_dread_captain",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Sargasso Costume1",
@@ -15849,7 +18723,11 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Purple",
         "specialId": "curse_of_sargasso",
-        "heroId": "pirate_dread_captain_costume_rotten"
+        "heroId": "pirate_dread_captain_costume_rotten",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": [
+            "extra_special_poison"
+        ]
     },
     {
         "name": "Sartana",
@@ -15866,7 +18744,9 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Purple",
         "specialId": "deathstrike",
-        "heroId": "cultist_sorceress"
+        "heroId": "cultist_sorceress",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Sartana Costume1",
@@ -15886,7 +18766,9 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Purple",
         "specialId": "deathstrike",
-        "heroId": "cultist_sorceress_costume_shaman"
+        "heroId": "cultist_sorceress_costume_shaman",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Sartana Costume2",
@@ -15907,7 +18789,9 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Purple",
         "specialId": "deathstrike",
-        "heroId": "cultist_sorceress_costume_snake"
+        "heroId": "cultist_sorceress_costume_snake",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Sartana Toon",
@@ -15929,7 +18813,11 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Purple",
         "specialId": "deathstrike",
-        "heroId": "cultist_sorceress_costume_cute"
+        "heroId": "cultist_sorceress_costume_cute",
+        "passiveSkills": [
+            "toon_resist_debuffs_manareduction_dispels"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Sartana Glass",
@@ -15951,7 +18839,11 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Purple",
         "specialId": "deathstrike",
-        "heroId": "cultist_sorceress_costume_glass"
+        "heroId": "cultist_sorceress_costume_glass",
+        "passiveSkills": [
+            "glass_reflect_debuffs"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Satsui",
@@ -15971,7 +18863,11 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Purple",
         "specialId": "shade_cloak",
-        "heroId": "ninja_satsui"
+        "heroId": "ninja_satsui",
+        "passiveSkills": [
+            "reduce_minion_health"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Scath",
@@ -15990,7 +18886,12 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Purple",
         "specialId": "void_bomb",
-        "heroId": "construct_nocturne"
+        "heroId": "construct_nocturne",
+        "passiveSkills": [
+            "repair_core",
+            "resist_special_blocking"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Senan",
@@ -16012,7 +18913,11 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Purple",
         "specialId": "curse_of_the_specter",
-        "heroId": "slayer_senan"
+        "heroId": "slayer_senan",
+        "passiveSkills": [
+            "resist_status_effect_damage"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Senan Costume1",
@@ -16038,7 +18943,13 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Purple",
         "specialId": "curse_of_the_specter",
-        "heroId": "slayer_senan_costume_tentacles"
+        "heroId": "slayer_senan_costume_tentacles",
+        "passiveSkills": [
+            "resist_status_effect_damage"
+        ],
+        "costumeBonusPassiveSkillIds": [
+            "extra_special_bleed"
+        ]
     },
     {
         "name": "Serena",
@@ -16057,7 +18968,12 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Purple",
         "specialId": "spreading_gossip",
-        "heroId": "beachparty_serena"
+        "heroId": "beachparty_serena",
+        "passiveSkills": [
+            "resist_water",
+            "underwater_on_special_beach"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Seshat",
@@ -16076,7 +18992,11 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Purple",
         "specialId": "undead_rage",
-        "heroId": "dark_god_seshat"
+        "heroId": "dark_god_seshat",
+        "passiveSkills": [
+            "resist_direct_mana_reductions"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Seshat Costume1",
@@ -16100,7 +19020,13 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Purple",
         "specialId": "undead_rage",
-        "heroId": "dark_god_seshat_costume_revenant"
+        "heroId": "dark_god_seshat_costume_revenant",
+        "passiveSkills": [
+            "resist_direct_mana_reductions"
+        ],
+        "costumeBonusPassiveSkillIds": [
+            "extra_special_cleanse_newest"
+        ]
     },
     {
         "name": "Set",
@@ -16118,7 +19044,11 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Purple",
         "specialId": "legions_of_darkness",
-        "heroId": "s5_set"
+        "heroId": "s5_set",
+        "passiveSkills": [
+            "moon_extra_special_damage_and_mana_regen_debuff"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Set Costume1",
@@ -16140,7 +19070,14 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Purple",
         "specialId": "legions_of_darkness",
-        "heroId": "s5_set_costume_tyrant"
+        "heroId": "s5_set_costume_tyrant",
+        "passiveSkills": [
+            "moon_extra_special_damage_and_mana_regen_debuff"
+        ],
+        "costumeBonusPassiveSkillIds": [
+            "resist_sand",
+            "iterate_passive_effects_on_special"
+        ]
     },
     {
         "name": "Shacklebolt",
@@ -16159,7 +19096,12 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Purple",
         "specialId": "ironbound_fury",
-        "heroId": "construct_shacklebolt"
+        "heroId": "construct_shacklebolt",
+        "passiveSkills": [
+            "destructive_core",
+            "resist_special_blocking"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Shadowfang",
@@ -16179,7 +19121,11 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Purple",
         "specialId": "bone_toss",
-        "heroId": "fox_shadowfang"
+        "heroId": "fox_shadowfang",
+        "passiveSkills": [
+            "reduced_healing_for_all_enemies"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Sir Casmir",
@@ -16198,7 +19144,12 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Purple",
         "specialId": "guardians_retaliation",
-        "heroId": "dark_god_sir_casmir"
+        "heroId": "dark_god_sir_casmir",
+        "passiveSkills": [
+            "mana_on_heal",
+            "resist_mana_generation_modifier_debuffs"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Sneferu",
@@ -16216,7 +19167,11 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Purple",
         "specialId": "disheartening_riddle",
-        "heroId": "s5_sneferu"
+        "heroId": "s5_sneferu",
+        "passiveSkills": [
+            "moon_extra_special_damage_and_dispel_latest_buff"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Swiftpaw",
@@ -16237,7 +19192,11 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Purple",
         "specialId": "swift_little_friends",
-        "heroId": "fox_swiftpaw"
+        "heroId": "fox_swiftpaw",
+        "passiveSkills": [
+            "reduced_healing_for_all_enemies"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Tamlin",
@@ -16255,7 +19214,13 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Purple",
         "specialId": "disquieting_tune",
-        "heroId": "faun_tamlin"
+        "heroId": "faun_tamlin",
+        "passiveSkills": [
+            "resist_negative_attack_modifiers_including_wither",
+            "mana_on_debuff",
+            "resist_insanity"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Tenebrae",
@@ -16276,7 +19241,12 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Purple",
         "specialId": "rod_of_torment",
-        "heroId": "construct_tenebrae"
+        "heroId": "construct_tenebrae",
+        "passiveSkills": [
+            "corrosive_core",
+            "resist_special_blocking"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Thoth-Amun",
@@ -16296,7 +19266,9 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Purple",
         "specialId": "soul_cage",
-        "heroId": "witch_king"
+        "heroId": "witch_king",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Thoth-Amun Costume1",
@@ -16317,7 +19289,11 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Purple",
         "specialId": "soul_cage",
-        "heroId": "witch_king_costume_cosmic"
+        "heroId": "witch_king_costume_cosmic",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": [
+            "extra_special_dispel_newest"
+        ]
     },
     {
         "name": "Thrivaldi",
@@ -16340,7 +19316,12 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Purple",
         "specialId": "glacial_atmosphere",
-        "heroId": "tales2_thrivaldi"
+        "heroId": "tales2_thrivaldi",
+        "passiveSkills": [
+            "arctic_core",
+            "resist_frost_with_health_boost_and_mana"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Tora",
@@ -16361,7 +19342,11 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Purple",
         "specialId": "hunt_for_prey",
-        "heroId": "ninja_tora"
+        "heroId": "ninja_tora",
+        "passiveSkills": [
+            "reduce_minion_health"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Turgruk",
@@ -16379,7 +19364,12 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Purple",
         "specialId": "marked_aim",
-        "heroId": "dark_god_turgruk"
+        "heroId": "dark_god_turgruk",
+        "passiveSkills": [
+            "resist_accuracy_modifier_debuffs",
+            "increase_special_damage_buff"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Tweedles",
@@ -16398,7 +19388,11 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Purple",
         "specialId": "dum_and_dee",
-        "heroId": "wonderland_tweedles"
+        "heroId": "wonderland_tweedles",
+        "passiveSkills": [
+            "resist_status_effect_damage"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Ultrox",
@@ -16416,7 +19410,11 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Purple",
         "specialId": "sinister_enlace",
-        "heroId": "tales1_ultrox"
+        "heroId": "tales1_ultrox",
+        "passiveSkills": [
+            "tales1_extra_special_damage_and_add_stacking_mana_generation"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Ultrox Costume1",
@@ -16439,7 +19437,13 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Purple",
         "specialId": "sinister_enlace",
-        "heroId": "tales1_ultrox_costume_ethereal"
+        "heroId": "tales1_ultrox_costume_ethereal",
+        "passiveSkills": [
+            "tales1_extra_special_damage_and_add_stacking_mana_generation"
+        ],
+        "costumeBonusPassiveSkillIds": [
+            "resist_insanity"
+        ]
     },
     {
         "name": "Umbria",
@@ -16457,7 +19461,11 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Purple",
         "specialId": "spreading_shadow",
-        "heroId": "masquerade_umbria"
+        "heroId": "masquerade_umbria",
+        "passiveSkills": [
+            "cleanse_on_own_familiar_death"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Umeko",
@@ -16476,7 +19484,11 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Purple",
         "specialId": "noxious_blossom",
-        "heroId": "ninja_umeko"
+        "heroId": "ninja_umeko",
+        "passiveSkills": [
+            "reduce_minion_health"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Ursena",
@@ -16494,7 +19506,9 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Purple",
         "specialId": "depth_blast",
-        "heroId": "s2_ursena"
+        "heroId": "s2_ursena",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Ursena Costume1",
@@ -16517,7 +19531,9 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Purple",
         "specialId": "depth_blast",
-        "heroId": "s2_ursena_costume_reef"
+        "heroId": "s2_ursena_costume_reef",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Uthragan",
@@ -16535,7 +19551,12 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Purple",
         "specialId": "venomous_claws",
-        "heroId": "dark_god_uthragan"
+        "heroId": "dark_god_uthragan",
+        "passiveSkills": [
+            "resist_stop_mana_generation",
+            "resist_poison"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Uwe",
@@ -16555,7 +19576,11 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Purple",
         "specialId": "chain_blasm_strike",
-        "heroId": "gargoyle_uwe"
+        "heroId": "gargoyle_uwe",
+        "passiveSkills": [
+            "gargoyle_soft_skin"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Vander",
@@ -16574,7 +19599,11 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Purple",
         "specialId": "gloom_grenades",
-        "heroId": "elemental_vander"
+        "heroId": "elemental_vander",
+        "passiveSkills": [
+            "strong_troop_damage_modifier"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Vard",
@@ -16592,7 +19621,13 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Purple",
         "specialId": "power_of_the_void",
-        "heroId": "astral_dwarf_vard"
+        "heroId": "astral_dwarf_vard",
+        "passiveSkills": [
+            "never_miss_special",
+            "resist_negative_minion_and_mega_minion_effects",
+            "bypass_minions_and_mega_minions"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Victor",
@@ -16612,7 +19647,11 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Purple",
         "specialId": "kings_blood_poisoning",
-        "heroId": "vampire_king"
+        "heroId": "vampire_king",
+        "passiveSkills": [
+            "halloween_steal_buff_or_deal_damage"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Victor Costume1",
@@ -16636,7 +19675,11 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Purple",
         "specialId": "kings_blood_poisoning",
-        "heroId": "vampire_king_costume_mafia"
+        "heroId": "vampire_king_costume_mafia",
+        "passiveSkills": [
+            "halloween_steal_buff_or_deal_damage"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Violet Potts",
@@ -16655,7 +19698,12 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Purple",
         "specialId": "lucky_coin",
-        "heroId": "garrison_violet_potts"
+        "heroId": "garrison_violet_potts",
+        "passiveSkills": [
+            "remove_wither_from_allies",
+            "resist_direct_mana_reductions"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Viscaro",
@@ -16673,7 +19721,12 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Purple",
         "specialId": "cursed_garden",
-        "heroId": "dark_god_viscaro"
+        "heroId": "dark_god_viscaro",
+        "passiveSkills": [
+            "summon_cursed_sapling_fiend_on_enemy_minion_summon",
+            "resist_negative_minion_effects"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Viscount Cluckwood",
@@ -16691,7 +19744,9 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Purple",
         "specialId": "insurmountable_flux",
-        "heroId": "easter_viscount_cluckwood"
+        "heroId": "easter_viscount_cluckwood",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Voidstar",
@@ -16711,7 +19766,12 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Purple",
         "specialId": "paragon_of_constellations",
-        "heroId": "astral_voidstar"
+        "heroId": "astral_voidstar",
+        "passiveSkills": [
+            "share_received_damage",
+            "resist_poison"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Von Rothbart",
@@ -16730,7 +19790,12 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Purple",
         "specialId": "ballad_of_pain",
-        "heroId": "ballerina_von_rothbart"
+        "heroId": "ballerina_von_rothbart",
+        "passiveSkills": [
+            "heal_on_expired_or_cleared_debuff",
+            "resist_defense_modifier_debuffs"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Xie Zi Jing",
@@ -16748,7 +19813,12 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Purple",
         "specialId": "wrathful_sting",
-        "heroId": "journey_xie_zi_jing"
+        "heroId": "journey_xie_zi_jing",
+        "passiveSkills": [
+            "heal_on_buff_with_chance",
+            "mana_on_buff_with_chance"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Xiong Shanjun",
@@ -16767,7 +19837,9 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Purple",
         "specialId": "fury_of_the_mountain_lord",
-        "heroId": "journey_xiong_shanjun"
+        "heroId": "journey_xiong_shanjun",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Xnolphod",
@@ -16787,7 +19859,11 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Purple",
         "specialId": "ancient_enchantment",
-        "heroId": "s4_xnolphod"
+        "heroId": "s4_xnolphod",
+        "passiveSkills": [
+            "decrease_debuff_duration"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Xnolphod Costume1",
@@ -16812,7 +19888,13 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Purple",
         "specialId": "ancient_enchantment",
-        "heroId": "s4_xnolphod_costume_jailer"
+        "heroId": "s4_xnolphod_costume_jailer",
+        "passiveSkills": [
+            "decrease_debuff_duration"
+        ],
+        "costumeBonusPassiveSkillIds": [
+            "extra_special_health_boost"
+        ]
     },
     {
         "name": "Ysabel",
@@ -16831,7 +19913,13 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Purple",
         "specialId": "lash_of_the_whip",
-        "heroId": "faun_ysabel"
+        "heroId": "faun_ysabel",
+        "passiveSkills": [
+            "resist_negative_attack_modifiers_including_wither",
+            "resist_insanity",
+            "minion_and_mega_minion_accuracy_modifier"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Zed",
@@ -16850,7 +19938,12 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Purple",
         "specialId": "lance_thrust",
-        "heroId": "dark_god_zed"
+        "heroId": "dark_god_zed",
+        "passiveSkills": [
+            "increase_special_damage_buff_zed",
+            "resist_accuracy_modifier_debuffs"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Zulag",
@@ -16868,7 +19961,11 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Purple",
         "specialId": "vast_ward",
-        "heroId": "dark_god_zulag"
+        "heroId": "dark_god_zulag",
+        "passiveSkills": [
+            "resist_sand"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Sharan",
@@ -16884,7 +19981,9 @@ window.allHeroesExtra = [
         "rarity": 1,
         "element": "Red",
         "specialId": "field_aid",
-        "heroId": "nomad_female_archer"
+        "heroId": "nomad_female_archer",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Tudan",
@@ -16900,7 +19999,9 @@ window.allHeroesExtra = [
         "rarity": 1,
         "element": "Red",
         "specialId": "backstab",
-        "heroId": "nomad_scout"
+        "heroId": "nomad_scout",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Farid",
@@ -16916,7 +20017,9 @@ window.allHeroesExtra = [
         "rarity": 2,
         "element": "Red",
         "specialId": "fierce_slash",
-        "heroId": "nomad_fighter"
+        "heroId": "nomad_fighter",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Jill",
@@ -16932,7 +20035,9 @@ window.allHeroesExtra = [
         "rarity": 2,
         "element": "Red",
         "specialId": "attack_rally",
-        "heroId": "nomad_female_thief"
+        "heroId": "nomad_female_thief",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Shaarkot",
@@ -16948,7 +20053,9 @@ window.allHeroesExtra = [
         "rarity": 2,
         "element": "Red",
         "specialId": "attack_rally",
-        "heroId": "nomad_shaman"
+        "heroId": "nomad_shaman",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Zudak",
@@ -16964,7 +20071,9 @@ window.allHeroesExtra = [
         "rarity": 2,
         "element": "Red",
         "specialId": "tackle",
-        "heroId": "orc_skirmisher"
+        "heroId": "orc_skirmisher",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Azar",
@@ -16981,7 +20090,9 @@ window.allHeroesExtra = [
         "rarity": 3,
         "element": "Red",
         "specialId": "sharp_cut",
-        "heroId": "nomad_female_swordmaster"
+        "heroId": "nomad_female_swordmaster",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Azar Costume1",
@@ -17002,7 +20113,9 @@ window.allHeroesExtra = [
         "rarity": 3,
         "element": "Red",
         "specialId": "sharp_cut",
-        "heroId": "nomad_female_swordmaster_costume_native"
+        "heroId": "nomad_female_swordmaster_costume_native",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Azar Toon",
@@ -17024,7 +20137,11 @@ window.allHeroesExtra = [
         "rarity": 3,
         "element": "Red",
         "specialId": "sharp_cut",
-        "heroId": "nomad_female_swordmaster_costume_cute"
+        "heroId": "nomad_female_swordmaster_costume_cute",
+        "passiveSkills": [
+            "toon_resist_debuffs_manareduction_dispels"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Azar Glass",
@@ -17046,7 +20163,11 @@ window.allHeroesExtra = [
         "rarity": 3,
         "element": "Red",
         "specialId": "sharp_cut",
-        "heroId": "nomad_female_swordmaster_costume_glass"
+        "heroId": "nomad_female_swordmaster_costume_glass",
+        "passiveSkills": [
+            "glass_reflect_debuffs"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Bagreg",
@@ -17063,7 +20184,11 @@ window.allHeroesExtra = [
         "rarity": 3,
         "element": "Red",
         "specialId": "burning_javelin",
-        "heroId": "tales1_bagreg"
+        "heroId": "tales1_bagreg",
+        "passiveSkills": [
+            "tales1_extra_special_damage_and_add_stacking_mana_generation"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Bagreg Costume1",
@@ -17084,7 +20209,13 @@ window.allHeroesExtra = [
         "rarity": 3,
         "element": "Red",
         "specialId": "burning_javelin",
-        "heroId": "tales1_bagreg_costume_scout"
+        "heroId": "tales1_bagreg_costume_scout",
+        "passiveSkills": [
+            "tales1_extra_special_damage_and_add_stacking_mana_generation"
+        ],
+        "costumeBonusPassiveSkillIds": [
+            "resist_insanity"
+        ]
     },
     {
         "name": "Basil",
@@ -17102,7 +20233,12 @@ window.allHeroesExtra = [
         "rarity": 3,
         "element": "Red",
         "specialId": "squeak_of_protection",
-        "heroId": "monster_hunter_basil"
+        "heroId": "monster_hunter_basil",
+        "passiveSkills": [
+            "hunters_mark_on_special",
+            "monster_hunter_reallocate_debuff_or_heal"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Bauchan",
@@ -17120,7 +20256,9 @@ window.allHeroesExtra = [
         "rarity": 3,
         "element": "Red",
         "specialId": "claw_power",
-        "heroId": "knights_bauchan"
+        "heroId": "knights_bauchan",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Boots",
@@ -17138,7 +20276,11 @@ window.allHeroesExtra = [
         "rarity": 3,
         "element": "Red",
         "specialId": "hammer_thump",
-        "heroId": "goblin_boots"
+        "heroId": "goblin_boots",
+        "passiveSkills": [
+            "goblin_damage_and_accuracy_debuff_on_special"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Buster",
@@ -17156,7 +20298,9 @@ window.allHeroesExtra = [
         "rarity": 3,
         "element": "Red",
         "specialId": "frosty_punches",
-        "heroId": "christmas_buster"
+        "heroId": "christmas_buster",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Dante",
@@ -17174,7 +20318,12 @@ window.allHeroesExtra = [
         "rarity": 3,
         "element": "Red",
         "specialId": "dantes_inferno",
-        "heroId": "styx_dante"
+        "heroId": "styx_dante",
+        "passiveSkills": [
+            "resist_all_defense_debuffs",
+            "reduce_minion_health"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Ei-Dunn",
@@ -17191,7 +20340,9 @@ window.allHeroesExtra = [
         "rarity": 3,
         "element": "Red",
         "specialId": "tainted_axe",
-        "heroId": "s3_ei_dunn"
+        "heroId": "s3_ei_dunn",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Ei-Dunn Costume1",
@@ -17212,7 +20363,9 @@ window.allHeroesExtra = [
         "rarity": 3,
         "element": "Red",
         "specialId": "tainted_axe",
-        "heroId": "s3_ei_dunn_costume_shield"
+        "heroId": "s3_ei_dunn_costume_shield",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Fawn",
@@ -17230,7 +20383,11 @@ window.allHeroesExtra = [
         "rarity": 3,
         "element": "Red",
         "specialId": "evading_dash",
-        "heroId": "castle_stag_fawn"
+        "heroId": "castle_stag_fawn",
+        "passiveSkills": [
+            "heal_on_buff_alliance_quest_family"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Hawkmoon",
@@ -17246,7 +20403,9 @@ window.allHeroesExtra = [
         "rarity": 3,
         "element": "Red",
         "specialId": "wind_prayer",
-        "heroId": "nomad_female_shaman"
+        "heroId": "nomad_female_shaman",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Hawkmoon Costume1",
@@ -17267,7 +20426,9 @@ window.allHeroesExtra = [
         "rarity": 3,
         "element": "Red",
         "specialId": "wind_prayer",
-        "heroId": "nomad_female_shaman_costume_native"
+        "heroId": "nomad_female_shaman_costume_native",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Hawkmoon Toon",
@@ -17288,7 +20449,11 @@ window.allHeroesExtra = [
         "rarity": 3,
         "element": "Red",
         "specialId": "wind_prayer",
-        "heroId": "nomad_female_shaman_costume_cute"
+        "heroId": "nomad_female_shaman_costume_cute",
+        "passiveSkills": [
+            "toon_resist_debuffs_manareduction_dispels"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Helgi",
@@ -17309,7 +20474,12 @@ window.allHeroesExtra = [
         "rarity": 3,
         "element": "Red",
         "specialId": "dwarven_flourish",
-        "heroId": "tales2_helgi"
+        "heroId": "tales2_helgi",
+        "passiveSkills": [
+            "molten_core",
+            "resist_burn_with_health_boost_and_mana"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Jahangir",
@@ -17326,7 +20496,9 @@ window.allHeroesExtra = [
         "rarity": 3,
         "element": "Red",
         "specialId": "fireball",
-        "heroId": "nomad_mage"
+        "heroId": "nomad_mage",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Jahangir Costume1",
@@ -17347,7 +20519,9 @@ window.allHeroesExtra = [
         "rarity": 3,
         "element": "Red",
         "specialId": "fireball",
-        "heroId": "nomad_mage_costume_goggles"
+        "heroId": "nomad_mage_costume_goggles",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Jahangir Toon",
@@ -17369,7 +20543,11 @@ window.allHeroesExtra = [
         "rarity": 3,
         "element": "Red",
         "specialId": "fireball",
-        "heroId": "nomad_mage_costume_cute"
+        "heroId": "nomad_mage_costume_cute",
+        "passiveSkills": [
+            "toon_resist_debuffs_manareduction_dispels"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Jahangir Glass",
@@ -17391,7 +20569,11 @@ window.allHeroesExtra = [
         "rarity": 3,
         "element": "Red",
         "specialId": "fireball",
-        "heroId": "nomad_mage_costume_glass"
+        "heroId": "nomad_mage_costume_glass",
+        "passiveSkills": [
+            "glass_reflect_debuffs"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Kornel",
@@ -17408,7 +20590,11 @@ window.allHeroesExtra = [
         "rarity": 3,
         "element": "Red",
         "specialId": "imaginary_increments",
-        "heroId": "magic_kornel"
+        "heroId": "magic_kornel",
+        "passiveSkills": [
+            "magic_damage_on_full_charge_to_not_red"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Li",
@@ -17426,7 +20612,9 @@ window.allHeroesExtra = [
         "rarity": 3,
         "element": "Red",
         "specialId": "sickle_of_wu",
-        "heroId": "kingdom_li"
+        "heroId": "kingdom_li",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Liu Tang",
@@ -17444,7 +20632,13 @@ window.allHeroesExtra = [
         "rarity": 3,
         "element": "Red",
         "specialId": "rough_and_tumble",
-        "heroId": "outlaw_liu_tang"
+        "heroId": "outlaw_liu_tang",
+        "passiveSkills": [
+            "resist_bleed",
+            "righteous_rebellion_parent",
+            "cleanse_on_special_critical_damage_all_safe"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Namahage",
@@ -17461,7 +20655,9 @@ window.allHeroesExtra = [
         "rarity": 3,
         "element": "Red",
         "specialId": "bloodthirst",
-        "heroId": "s2_straw_demon"
+        "heroId": "s2_straw_demon",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Nashgar",
@@ -17478,7 +20674,9 @@ window.allHeroesExtra = [
         "rarity": 3,
         "element": "Red",
         "specialId": "burning_strike",
-        "heroId": "orc_warrior"
+        "heroId": "orc_warrior",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Nashgar Costume1",
@@ -17499,7 +20697,9 @@ window.allHeroesExtra = [
         "rarity": 3,
         "element": "Red",
         "specialId": "burning_strike",
-        "heroId": "orc_warrior_costume_urukhai"
+        "heroId": "orc_warrior_costume_urukhai",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Nashgar Toon",
@@ -17521,7 +20721,11 @@ window.allHeroesExtra = [
         "rarity": 3,
         "element": "Red",
         "specialId": "burning_strike",
-        "heroId": "orc_warrior_costume_cute"
+        "heroId": "orc_warrior_costume_cute",
+        "passiveSkills": [
+            "toon_resist_debuffs_manareduction_dispels"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Phoenicus",
@@ -17538,7 +20742,9 @@ window.allHeroesExtra = [
         "rarity": 3,
         "element": "Red",
         "specialId": "valuable_contribution",
-        "heroId": "wonderland_phoenicus"
+        "heroId": "wonderland_phoenicus",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Rosepetite",
@@ -17558,7 +20764,11 @@ window.allHeroesExtra = [
         "rarity": 3,
         "element": "Red",
         "specialId": "joyful_palette",
-        "heroId": "moth_rosepetite"
+        "heroId": "moth_rosepetite",
+        "passiveSkills": [
+            "dodge_enemy_damage_special"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Rudolph",
@@ -17576,7 +20786,9 @@ window.allHeroesExtra = [
         "rarity": 3,
         "element": "Red",
         "specialId": "horn_attack",
-        "heroId": "christmas_reindeer"
+        "heroId": "christmas_reindeer",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Rufus",
@@ -17594,7 +20806,12 @@ window.allHeroesExtra = [
         "rarity": 3,
         "element": "Red",
         "specialId": "furry_loggers_swing",
-        "heroId": "mighty_pet_rufus"
+        "heroId": "mighty_pet_rufus",
+        "passiveSkills": [
+            "heal_and_add_mana_on_ally_minion",
+            "damage_enemies_on_enemy_parasite"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Skrekok",
@@ -17611,7 +20828,9 @@ window.allHeroesExtra = [
         "rarity": 3,
         "element": "Red",
         "specialId": "mad_rat_mania",
-        "heroId": "villain_skrekok"
+        "heroId": "villain_skrekok",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Squire Wabbit",
@@ -17628,7 +20847,9 @@ window.allHeroesExtra = [
         "rarity": 3,
         "element": "Blue",
         "specialId": "compact_lance",
-        "heroId": "easter_chick_jr"
+        "heroId": "easter_chick_jr",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Starswift",
@@ -17646,7 +20867,12 @@ window.allHeroesExtra = [
         "rarity": 3,
         "element": "Red",
         "specialId": "starplay",
-        "heroId": "astral_starswift"
+        "heroId": "astral_starswift",
+        "passiveSkills": [
+            "share_received_damage",
+            "resist_poison"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Sudri",
@@ -17663,7 +20889,9 @@ window.allHeroesExtra = [
         "rarity": 3,
         "element": "Red",
         "specialId": "burning_shields",
-        "heroId": "s3_sudri"
+        "heroId": "s3_sudri",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Vollermork",
@@ -17680,7 +20908,11 @@ window.allHeroesExtra = [
         "rarity": 3,
         "element": "Red",
         "specialId": "thresher_worms",
-        "heroId": "s4_vollermork"
+        "heroId": "s4_vollermork",
+        "passiveSkills": [
+            "start_battle_with_mana"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Vollermork Costume1",
@@ -17701,7 +20933,11 @@ window.allHeroesExtra = [
         "rarity": 3,
         "element": "Red",
         "specialId": "thresher_worms",
-        "heroId": "s4_vollermork_costume_bartender"
+        "heroId": "s4_vollermork_costume_bartender",
+        "passiveSkills": [
+            "start_battle_with_mana"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Waqas",
@@ -17718,7 +20954,11 @@ window.allHeroesExtra = [
         "rarity": 3,
         "element": "Red",
         "specialId": "unyielding_protector",
-        "heroId": "s5_waqas"
+        "heroId": "s5_waqas",
+        "passiveSkills": [
+            "sun_extra_special_damage_and_attack_debuff"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Waqas Costume1",
@@ -17739,7 +20979,14 @@ window.allHeroesExtra = [
         "rarity": 3,
         "element": "Red",
         "specialId": "unyielding_protector",
-        "heroId": "s5_waqas_costume_blade"
+        "heroId": "s5_waqas_costume_blade",
+        "passiveSkills": [
+            "sun_extra_special_damage_and_attack_debuff"
+        ],
+        "costumeBonusPassiveSkillIds": [
+            "mana_on_enemy_health_boost_special",
+            "iterate_passive_effects_on_special"
+        ]
     },
     {
         "name": "Aodhan",
@@ -17761,7 +21008,11 @@ window.allHeroesExtra = [
         "rarity": 4,
         "element": "Red",
         "specialId": "wily_wisps",
-        "heroId": "slayer_aodhan"
+        "heroId": "slayer_aodhan",
+        "passiveSkills": [
+            "resist_status_effect_damage"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Boldtusk",
@@ -17778,7 +21029,9 @@ window.allHeroesExtra = [
         "rarity": 4,
         "element": "Red",
         "specialId": "warcry",
-        "heroId": "orc_gladiator"
+        "heroId": "orc_gladiator",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Boldtusk Costume1",
@@ -17799,7 +21052,9 @@ window.allHeroesExtra = [
         "rarity": 4,
         "element": "Red",
         "specialId": "warcry",
-        "heroId": "orc_gladiator_costume_chef"
+        "heroId": "orc_gladiator_costume_chef",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Boldtusk Costume2",
@@ -17821,7 +21076,9 @@ window.allHeroesExtra = [
         "rarity": 4,
         "element": "Red",
         "specialId": "warcry",
-        "heroId": "orc_gladiator_costume_sage"
+        "heroId": "orc_gladiator_costume_sage",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Boldtusk Toon",
@@ -17842,7 +21099,11 @@ window.allHeroesExtra = [
         "rarity": 4,
         "element": "Red",
         "specialId": "warcry",
-        "heroId": "orc_gladiator_costume_cute"
+        "heroId": "orc_gladiator_costume_cute",
+        "passiveSkills": [
+            "toon_resist_debuffs_manareduction_dispels"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Boldtusk Glass",
@@ -17864,7 +21125,11 @@ window.allHeroesExtra = [
         "rarity": 4,
         "element": "Red",
         "specialId": "warcry",
-        "heroId": "orc_gladiator_costume_glass"
+        "heroId": "orc_gladiator_costume_glass",
+        "passiveSkills": [
+            "glass_reflect_debuffs"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Carol",
@@ -17882,7 +21147,9 @@ window.allHeroesExtra = [
         "rarity": 4,
         "element": "Red",
         "specialId": "perilous_gift",
-        "heroId": "christmas_carol"
+        "heroId": "christmas_carol",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Cillian",
@@ -17903,7 +21170,11 @@ window.allHeroesExtra = [
         "rarity": 4,
         "element": "Red",
         "specialId": "reanimated_spite",
-        "heroId": "slayer_cillian"
+        "heroId": "slayer_cillian",
+        "passiveSkills": [
+            "resist_status_effect_damage"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Colen",
@@ -17920,7 +21191,9 @@ window.allHeroesExtra = [
         "rarity": 4,
         "element": "Red",
         "specialId": "fire_storm",
-        "heroId": "nomad_axe_adventurer"
+        "heroId": "nomad_axe_adventurer",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Colen Costume1",
@@ -17941,7 +21214,9 @@ window.allHeroesExtra = [
         "rarity": 4,
         "element": "Red",
         "specialId": "fire_storm",
-        "heroId": "nomad_axe_adventurer_costume_magma"
+        "heroId": "nomad_axe_adventurer_costume_magma",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Colen Costume2",
@@ -17963,7 +21238,9 @@ window.allHeroesExtra = [
         "rarity": 4,
         "element": "Red",
         "specialId": "fire_storm",
-        "heroId": "nomad_axe_adventurer_costume_tracker"
+        "heroId": "nomad_axe_adventurer_costume_tracker",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Colen Toon",
@@ -17985,7 +21262,11 @@ window.allHeroesExtra = [
         "rarity": 4,
         "element": "Red",
         "specialId": "fire_storm",
-        "heroId": "nomad_axe_adventurer_costume_cute"
+        "heroId": "nomad_axe_adventurer_costume_cute",
+        "passiveSkills": [
+            "toon_resist_debuffs_manareduction_dispels"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Colen Glass",
@@ -18007,7 +21288,11 @@ window.allHeroesExtra = [
         "rarity": 4,
         "element": "Red",
         "specialId": "fire_storm",
-        "heroId": "nomad_axe_adventurer_costume_glass"
+        "heroId": "nomad_axe_adventurer_costume_glass",
+        "passiveSkills": [
+            "glass_reflect_debuffs"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Eichbelborg",
@@ -18024,7 +21309,9 @@ window.allHeroesExtra = [
         "rarity": 4,
         "element": "Red",
         "specialId": "pompous_flex",
-        "heroId": "circus_eichbelborg"
+        "heroId": "circus_eichbelborg",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Ferant",
@@ -18041,7 +21328,9 @@ window.allHeroesExtra = [
         "rarity": 4,
         "element": "Red",
         "specialId": "feral_revenge",
-        "heroId": "castle_wolf_ferant"
+        "heroId": "castle_wolf_ferant",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Ferant Costume1",
@@ -18062,7 +21351,11 @@ window.allHeroesExtra = [
         "rarity": 4,
         "element": "Red",
         "specialId": "feral_revenge",
-        "heroId": "castle_wolf_ferant_costume_fire"
+        "heroId": "castle_wolf_ferant_costume_fire",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": [
+            "increase_cast_status_effect_duration"
+        ]
     },
     {
         "name": "Gormek",
@@ -18079,7 +21372,9 @@ window.allHeroesExtra = [
         "rarity": 4,
         "element": "Red",
         "specialId": "ramming_pulverizer",
-        "heroId": "orc_troopmaster"
+        "heroId": "orc_troopmaster",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Gormek Costume1",
@@ -18101,7 +21396,9 @@ window.allHeroesExtra = [
         "rarity": 4,
         "element": "Red",
         "specialId": "ramming_pulverizer",
-        "heroId": "orc_troopmaster_costume_merchant"
+        "heroId": "orc_troopmaster_costume_merchant",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Gormek Costume2",
@@ -18122,7 +21419,9 @@ window.allHeroesExtra = [
         "rarity": 4,
         "element": "Red",
         "specialId": "ramming_pulverizer",
-        "heroId": "orc_troopmaster_costume_gourmet"
+        "heroId": "orc_troopmaster_costume_gourmet",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Gormek Toon",
@@ -18144,7 +21443,11 @@ window.allHeroesExtra = [
         "rarity": 4,
         "element": "Red",
         "specialId": "ramming_pulverizer",
-        "heroId": "orc_troopmaster_costume_cute"
+        "heroId": "orc_troopmaster_costume_cute",
+        "passiveSkills": [
+            "toon_resist_debuffs_manareduction_dispels"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Gormek Glass",
@@ -18166,7 +21469,11 @@ window.allHeroesExtra = [
         "rarity": 4,
         "element": "Red",
         "specialId": "ramming_pulverizer",
-        "heroId": "orc_troopmaster_costume_glass"
+        "heroId": "orc_troopmaster_costume_glass",
+        "passiveSkills": [
+            "glass_reflect_debuffs"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Guardian Falcon",
@@ -18183,7 +21490,9 @@ window.allHeroesExtra = [
         "rarity": 4,
         "element": "Red",
         "specialId": "blazing_beak",
-        "heroId": "guardian_falcon_priest"
+        "heroId": "guardian_falcon_priest",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Itham",
@@ -18201,7 +21510,12 @@ window.allHeroesExtra = [
         "rarity": 4,
         "element": "Red",
         "specialId": "cannonball_splash",
-        "heroId": "beachparty_itham"
+        "heroId": "beachparty_itham",
+        "passiveSkills": [
+            "resist_water",
+            "underwater_on_special_beach"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Junaid",
@@ -18218,7 +21532,11 @@ window.allHeroesExtra = [
         "rarity": 4,
         "element": "Red",
         "specialId": "slash_and_support",
-        "heroId": "s5_junaid"
+        "heroId": "s5_junaid",
+        "passiveSkills": [
+            "moon_extra_special_damage_and_mana_regen_debuff"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Junaid Costume1",
@@ -18239,7 +21557,14 @@ window.allHeroesExtra = [
         "rarity": 4,
         "element": "Red",
         "specialId": "slash_and_support",
-        "heroId": "s5_junaid_costume_champion"
+        "heroId": "s5_junaid_costume_champion",
+        "passiveSkills": [
+            "moon_extra_special_damage_and_mana_regen_debuff"
+        ],
+        "costumeBonusPassiveSkillIds": [
+            "resist_sand",
+            "iterate_passive_effects_on_special"
+        ]
     },
     {
         "name": "Kelile",
@@ -18256,7 +21581,9 @@ window.allHeroesExtra = [
         "rarity": 4,
         "element": "Red",
         "specialId": "dance_of_fire",
-        "heroId": "nomad_female_berserker"
+        "heroId": "nomad_female_berserker",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Kelile Costume1",
@@ -18276,7 +21603,9 @@ window.allHeroesExtra = [
         "rarity": 4,
         "element": "Red",
         "specialId": "dance_of_fire",
-        "heroId": "nomad_female_berserker_costume_shaman"
+        "heroId": "nomad_female_berserker_costume_shaman",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Kelile Costume2",
@@ -18298,7 +21627,9 @@ window.allHeroesExtra = [
         "rarity": 4,
         "element": "Red",
         "specialId": "dance_of_fire",
-        "heroId": "nomad_female_berserker_costume_sorceress"
+        "heroId": "nomad_female_berserker_costume_sorceress",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Kelile Toon",
@@ -18320,7 +21651,11 @@ window.allHeroesExtra = [
         "rarity": 4,
         "element": "Red",
         "specialId": "dance_of_fire",
-        "heroId": "nomad_female_berserker_costume_cute"
+        "heroId": "nomad_female_berserker_costume_cute",
+        "passiveSkills": [
+            "toon_resist_debuffs_manareduction_dispels"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Kelile Glass",
@@ -18342,7 +21677,11 @@ window.allHeroesExtra = [
         "rarity": 4,
         "element": "Red",
         "specialId": "dance_of_fire",
-        "heroId": "nomad_female_berserker_costume_glass"
+        "heroId": "nomad_female_berserker_costume_glass",
+        "passiveSkills": [
+            "glass_reflect_debuffs"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Lemminkainen",
@@ -18359,7 +21698,11 @@ window.allHeroesExtra = [
         "rarity": 4,
         "element": "Red",
         "specialId": "flaming_sword",
-        "heroId": "kalevala_lemminkainen"
+        "heroId": "kalevala_lemminkainen",
+        "passiveSkills": [
+            "heal_mana_on_low_health_once"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Lucy",
@@ -18380,7 +21723,12 @@ window.allHeroesExtra = [
         "rarity": 4,
         "element": "Red",
         "specialId": "mageball_blast",
-        "heroId": "magic_lucy"
+        "heroId": "magic_lucy",
+        "passiveSkills": [
+            "magic_mana_regen_stack_on_special",
+            "magic_heal_on_full_charge_to_not_green"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Mack",
@@ -18397,7 +21745,11 @@ window.allHeroesExtra = [
         "rarity": 4,
         "element": "Red",
         "specialId": "halflings_wit",
-        "heroId": "s4_mack"
+        "heroId": "s4_mack",
+        "passiveSkills": [
+            "increase_buff_duration"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Mack Costume1",
@@ -18418,7 +21770,11 @@ window.allHeroesExtra = [
         "rarity": 4,
         "element": "Red",
         "specialId": "halflings_wit",
-        "heroId": "s4_mack_costume_novelist"
+        "heroId": "s4_mack_costume_novelist",
+        "passiveSkills": [
+            "increase_buff_duration"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Maheegan",
@@ -18436,7 +21792,12 @@ window.allHeroesExtra = [
         "rarity": 4,
         "element": "Red",
         "specialId": "claws_of_the_hunter",
-        "heroId": "monster_hunter_maheegan"
+        "heroId": "monster_hunter_maheegan",
+        "passiveSkills": [
+            "hunters_mark_on_special",
+            "special_damage_reduction_monster_hunters"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Manpip",
@@ -18455,7 +21816,12 @@ window.allHeroesExtra = [
         "rarity": 4,
         "element": "Red",
         "specialId": "kindled_carpet",
-        "heroId": "magic_carpet_manpip"
+        "heroId": "magic_carpet_manpip",
+        "passiveSkills": [
+            "reduce_big_minion_health",
+            "fly_magic_carpet"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Nova",
@@ -18473,7 +21839,11 @@ window.allHeroesExtra = [
         "rarity": 4,
         "element": "Red",
         "specialId": "healing_fire_spirits",
-        "heroId": "elemental_nova"
+        "heroId": "elemental_nova",
+        "passiveSkills": [
+            "strong_troop_damage_modifier"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Raul",
@@ -18496,7 +21866,12 @@ window.allHeroesExtra = [
         "rarity": 4,
         "element": "Red",
         "specialId": "ballad_of_attraction",
-        "heroId": "ballerina_raul"
+        "heroId": "ballerina_raul",
+        "passiveSkills": [
+            "heal_on_expired_or_cleared_debuff",
+            "resist_attack_modifier_debuffs"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Rokkamush",
@@ -18514,7 +21889,11 @@ window.allHeroesExtra = [
         "rarity": 4,
         "element": "Red",
         "specialId": "blind_rage",
-        "heroId": "s4_rokkamush"
+        "heroId": "s4_rokkamush",
+        "passiveSkills": [
+            "decrease_debuff_duration"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Rokkamush Costume1",
@@ -18536,7 +21915,11 @@ window.allHeroesExtra = [
         "rarity": 4,
         "element": "Red",
         "specialId": "blind_rage",
-        "heroId": "s4_rokkamush_costume_mason"
+        "heroId": "s4_rokkamush_costume_mason",
+        "passiveSkills": [
+            "decrease_debuff_duration"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Scarlett",
@@ -18553,7 +21936,9 @@ window.allHeroesExtra = [
         "rarity": 4,
         "element": "Red",
         "specialId": "blade_barrage",
-        "heroId": "nomad_female_assassin"
+        "heroId": "nomad_female_assassin",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Scarlett Costume1",
@@ -18575,7 +21960,9 @@ window.allHeroesExtra = [
         "rarity": 4,
         "element": "Red",
         "specialId": "blade_barrage",
-        "heroId": "nomad_female_assassin_costume_poison"
+        "heroId": "nomad_female_assassin_costume_poison",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Scarlett Costume2",
@@ -18597,7 +21984,9 @@ window.allHeroesExtra = [
         "rarity": 4,
         "element": "Red",
         "specialId": "blade_barrage",
-        "heroId": "nomad_female_assassin_costume_dancer"
+        "heroId": "nomad_female_assassin_costume_dancer",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Scarlett Toon",
@@ -18619,7 +22008,11 @@ window.allHeroesExtra = [
         "rarity": 4,
         "element": "Red",
         "specialId": "blade_barrage",
-        "heroId": "nomad_female_assassin_costume_cute"
+        "heroId": "nomad_female_assassin_costume_cute",
+        "passiveSkills": [
+            "toon_resist_debuffs_manareduction_dispels"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Shadereave",
@@ -18636,7 +22029,9 @@ window.allHeroesExtra = [
         "rarity": 4,
         "element": "Red",
         "specialId": "eternal_servitude",
-        "heroId": "s3_shadereave"
+        "heroId": "s3_shadereave",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Shale",
@@ -18653,7 +22048,9 @@ window.allHeroesExtra = [
         "rarity": 4,
         "element": "Red",
         "specialId": "channel_ki",
-        "heroId": "ninja_shale"
+        "heroId": "ninja_shale",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Sir Lancelot",
@@ -18671,7 +22068,9 @@ window.allHeroesExtra = [
         "rarity": 4,
         "element": "Red",
         "specialId": "inspiring_fencing",
-        "heroId": "knights_sir_lancelot"
+        "heroId": "knights_sir_lancelot",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Sumitomo",
@@ -18689,7 +22088,9 @@ window.allHeroesExtra = [
         "rarity": 4,
         "element": "Red",
         "specialId": "oji_waza",
-        "heroId": "s2_demon_master"
+        "heroId": "s2_demon_master",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Sumitomo Costume1",
@@ -18711,7 +22112,9 @@ window.allHeroesExtra = [
         "rarity": 4,
         "element": "Red",
         "specialId": "oji_waza",
-        "heroId": "s2_demon_master_costume_steppe"
+        "heroId": "s2_demon_master_costume_steppe",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Sumle",
@@ -18729,7 +22132,9 @@ window.allHeroesExtra = [
         "rarity": 4,
         "element": "Red",
         "specialId": "magma_boulders",
-        "heroId": "s3_sumle"
+        "heroId": "s3_sumle",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Sumle Costume1",
@@ -18751,7 +22156,9 @@ window.allHeroesExtra = [
         "rarity": 4,
         "element": "Red",
         "specialId": "magma_boulders",
-        "heroId": "s3_sumle_costume_unhallowed"
+        "heroId": "s3_sumle_costume_unhallowed",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Sun Shangxiang",
@@ -18768,7 +22175,9 @@ window.allHeroesExtra = [
         "rarity": 4,
         "element": "Red",
         "specialId": "royal_blades",
-        "heroId": "kingdom_sun_shangxiang"
+        "heroId": "kingdom_sun_shangxiang",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Vonreine",
@@ -18788,7 +22197,11 @@ window.allHeroesExtra = [
         "rarity": 4,
         "element": "Red",
         "specialId": "firing_on_all_cylinders",
-        "heroId": "gargoyle_vonreine"
+        "heroId": "gargoyle_vonreine",
+        "passiveSkills": [
+            "gargoyle_soft_skin"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Wilbur",
@@ -18806,7 +22219,9 @@ window.allHeroesExtra = [
         "rarity": 4,
         "element": "Red",
         "specialId": "spiritual_unity",
-        "heroId": "s2_rugged_fisherman"
+        "heroId": "s2_rugged_fisherman",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Wilbur Costume1",
@@ -18827,7 +22242,9 @@ window.allHeroesExtra = [
         "rarity": 4,
         "element": "Red",
         "specialId": "spiritual_unity",
-        "heroId": "s2_rugged_fisherman_costume_sake_master"
+        "heroId": "s2_rugged_fisherman_costume_sake_master",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Zhabog",
@@ -18845,7 +22262,11 @@ window.allHeroesExtra = [
         "rarity": 4,
         "element": "Red",
         "specialId": "melody_of_misery",
-        "heroId": "bard_zhabog"
+        "heroId": "bard_zhabog",
+        "passiveSkills": [
+            "revival_chance_modifier_all_enemies"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Zhou Yu",
@@ -18863,7 +22284,9 @@ window.allHeroesExtra = [
         "rarity": 4,
         "element": "Red",
         "specialId": "scion_sword",
-        "heroId": "kingdom_zhou_yu"
+        "heroId": "kingdom_zhou_yu",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Zhou Yu Costume1",
@@ -18885,7 +22308,11 @@ window.allHeroesExtra = [
         "rarity": 4,
         "element": "Red",
         "specialId": "scion_sword",
-        "heroId": "kingdom_zhou_yu_costume_white_raven"
+        "heroId": "kingdom_zhou_yu_costume_white_raven",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": [
+            "kingdom_unstoppable_minions"
+        ]
     },
     {
         "name": "Abigail",
@@ -18904,7 +22331,11 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Red",
         "specialId": "whispers_of_xulu",
-        "heroId": "shadow_abigail"
+        "heroId": "shadow_abigail",
+        "passiveSkills": [
+            "insanity_damage_reduction"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Aethslegaur",
@@ -18928,7 +22359,12 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Red",
         "specialId": "mana_immolation",
-        "heroId": "tales2_aethslegaur"
+        "heroId": "tales2_aethslegaur",
+        "passiveSkills": [
+            "molten_core",
+            "resist_burn_with_health_boost_and_mana"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Alucard",
@@ -18948,7 +22384,11 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Red",
         "specialId": "vampiric_curse",
-        "heroId": "halloween_alucard"
+        "heroId": "halloween_alucard",
+        "passiveSkills": [
+            "halloween_steal_buff_or_deal_damage"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Alucard Costume1",
@@ -18972,7 +22412,11 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Red",
         "specialId": "vampiric_curse",
-        "heroId": "halloween_alucard_costume_mafia"
+        "heroId": "halloween_alucard_costume_mafia",
+        "passiveSkills": [
+            "halloween_steal_buff_or_deal_damage"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Amber",
@@ -18990,7 +22434,11 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Red",
         "specialId": "spear_of_blood_pact",
-        "heroId": "halloween_amber"
+        "heroId": "halloween_amber",
+        "passiveSkills": [
+            "halloween_steal_buff_or_deal_damage"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Andy Jay",
@@ -19008,7 +22456,12 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Red",
         "specialId": "blazing_rave_dance",
-        "heroId": "beachparty_andy_jay"
+        "heroId": "beachparty_andy_jay",
+        "passiveSkills": [
+            "resist_water",
+            "underwater_on_special_beach"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Anzogh",
@@ -19026,7 +22479,11 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Red",
         "specialId": "flaming_grudge",
-        "heroId": "fire_god_anzogh"
+        "heroId": "fire_god_anzogh",
+        "passiveSkills": [
+            "resist_mana_generation_modifier_debuffs"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Aradia",
@@ -19044,7 +22501,11 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Red",
         "specialId": "wicked_witchcraft",
-        "heroId": "masquerade_aradia"
+        "heroId": "masquerade_aradia",
+        "passiveSkills": [
+            "cleanse_on_own_familiar_death"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Araminta",
@@ -19064,7 +22525,13 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Red",
         "specialId": "forceful_advance",
-        "heroId": "faun_araminta"
+        "heroId": "faun_araminta",
+        "passiveSkills": [
+            "resist_negative_attack_modifiers_including_wither",
+            "resist_insanity",
+            "minion_and_mega_minion_accuracy_modifier"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Ares",
@@ -19082,7 +22549,9 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Red",
         "specialId": "might_of_ares",
-        "heroId": "fire_god_ares"
+        "heroId": "fire_god_ares",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Ares Costume1",
@@ -19106,7 +22575,11 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Red",
         "specialId": "might_of_ares",
-        "heroId": "fire_god_ares_costume_keymaster"
+        "heroId": "fire_god_ares_costume_keymaster",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": [
+            "extra_special_cleanse_newest"
+        ]
     },
     {
         "name": "Ash",
@@ -19124,7 +22597,11 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Red",
         "specialId": "ruby_rush",
-        "heroId": "elemental_ash"
+        "heroId": "elemental_ash",
+        "passiveSkills": [
+            "strong_troop_damage_modifier"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Asterius",
@@ -19145,7 +22622,9 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Red",
         "specialId": "brutal_bull_rush",
-        "heroId": "villain_asterius"
+        "heroId": "villain_asterius",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Aurum",
@@ -19166,7 +22645,11 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Red",
         "specialId": "rending_dagger",
-        "heroId": "ninja_aurum"
+        "heroId": "ninja_aurum",
+        "passiveSkills": [
+            "reduce_minion_health"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Azlar",
@@ -19183,7 +22666,9 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Red",
         "specialId": "volcanic_eruption",
-        "heroId": "lionman_barbarian"
+        "heroId": "lionman_barbarian",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Azlar Costume1",
@@ -19205,7 +22690,9 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Red",
         "specialId": "volcanic_eruption",
-        "heroId": "lionman_barbarian_costume_armor"
+        "heroId": "lionman_barbarian_costume_armor",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Azlar Costume2",
@@ -19227,7 +22714,9 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Red",
         "specialId": "volcanic_eruption",
-        "heroId": "lionman_barbarian_costume_babysitter"
+        "heroId": "lionman_barbarian_costume_babysitter",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Azlar Toon",
@@ -19249,7 +22738,11 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Red",
         "specialId": "volcanic_eruption",
-        "heroId": "lionman_barbarian_costume_cute"
+        "heroId": "lionman_barbarian_costume_cute",
+        "passiveSkills": [
+            "toon_resist_debuffs_manareduction_dispels"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Azlar Glass",
@@ -19271,7 +22764,11 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Red",
         "specialId": "volcanic_eruption",
-        "heroId": "lionman_barbarian_costume_glass"
+        "heroId": "lionman_barbarian_costume_glass",
+        "passiveSkills": [
+            "glass_reflect_debuffs"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Baldur",
@@ -19290,7 +22787,9 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Red",
         "specialId": "unbreakable_brawler",
-        "heroId": "s3_baldur"
+        "heroId": "s3_baldur",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Baldur Costume1",
@@ -19314,7 +22813,9 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Red",
         "specialId": "unbreakable_brawler",
-        "heroId": "s3_baldur_costume_fiery"
+        "heroId": "s3_baldur_costume_fiery",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Barkley",
@@ -19333,7 +22834,12 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Red",
         "specialId": "missile_mania",
-        "heroId": "mighty_pet_barkley"
+        "heroId": "mighty_pet_barkley",
+        "passiveSkills": [
+            "heal_and_add_mana_on_ally_minion",
+            "damage_enemies_on_enemy_parasite"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Bearnadette",
@@ -19351,7 +22857,11 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Red",
         "specialId": "cursed_painting",
-        "heroId": "castle_bear_bearnadette"
+        "heroId": "castle_bear_bearnadette",
+        "passiveSkills": [
+            "heal_on_buff_alliance_quest_family"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Beowulf",
@@ -19372,7 +22882,13 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Red",
         "specialId": "battle_boast",
-        "heroId": "beowulf_beowulf"
+        "heroId": "beowulf_beowulf",
+        "passiveSkills": [
+            "attack_buff_on_damage_received",
+            "resist_mana_reductions_with_health_boost_and_mana",
+            "never_miss_special"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Bhima",
@@ -19394,7 +22910,12 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Red",
         "specialId": "righteous_pulverizer",
-        "heroId": "mahayoddha_bhima"
+        "heroId": "mahayoddha_bhima",
+        "passiveSkills": [
+            "increased_damage_against_minions_and_mega_minions",
+            "mana_on_damage_received"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Black Caesar",
@@ -19412,7 +22933,11 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Red",
         "specialId": "pirates_vengeance",
-        "heroId": "pirate_boatswain"
+        "heroId": "pirate_boatswain",
+        "passiveSkills": [
+            "resist_status_effect_damage"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Black Knight",
@@ -19430,7 +22955,9 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Red",
         "specialId": "just_a_flesh_wound",
-        "heroId": "knights_black_knight"
+        "heroId": "knights_black_knight",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Black Knight Costume1",
@@ -19452,7 +22979,9 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Red",
         "specialId": "just_a_flesh_wound",
-        "heroId": "knights_black_knight_costume_negative"
+        "heroId": "knights_black_knight_costume_negative",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Blossom",
@@ -19471,7 +23000,12 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Red",
         "specialId": "songs_of_the_cherry_tree",
-        "heroId": "construct_japanese_doll"
+        "heroId": "construct_japanese_doll",
+        "passiveSkills": [
+            "repair_core",
+            "resist_special_blocking"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Bonecrusher",
@@ -19491,7 +23025,12 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Red",
         "specialId": "fury_of_the_silverback",
-        "heroId": "monster_hunter_bonecrusher"
+        "heroId": "monster_hunter_bonecrusher",
+        "passiveSkills": [
+            "hunters_mark_on_special",
+            "attack_modifier_on_special"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Brimstone",
@@ -19511,7 +23050,12 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Red",
         "specialId": "infernal_flames",
-        "heroId": "construct_brimstone"
+        "heroId": "construct_brimstone",
+        "passiveSkills": [
+            "destructive_core",
+            "resist_special_blocking"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Captain Kestrel",
@@ -19528,7 +23072,9 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Red",
         "specialId": "pirate_shot",
-        "heroId": "pirate_swashbuckler"
+        "heroId": "pirate_swashbuckler",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Captain Nemo",
@@ -19545,7 +23091,11 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Red",
         "specialId": "captains_cutlass",
-        "heroId": "s4_captain_nemo"
+        "heroId": "s4_captain_nemo",
+        "passiveSkills": [
+            "start_battle_with_mana"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Captain Nemo Costume1",
@@ -19567,7 +23117,13 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Red",
         "specialId": "captains_cutlass",
-        "heroId": "s4_captain_nemo_costume_machinist"
+        "heroId": "s4_captain_nemo_costume_machinist",
+        "passiveSkills": [
+            "start_battle_with_mana"
+        ],
+        "costumeBonusPassiveSkillIds": [
+            "extra_special_increased_damage_against_boosted_health"
+        ]
     },
     {
         "name": "Cardinal Richelieu",
@@ -19586,7 +23142,11 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Red",
         "specialId": "web_of_spies",
-        "heroId": "musketeer_cardinal_richelieu"
+        "heroId": "musketeer_cardinal_richelieu",
+        "passiveSkills": [
+            "damage_all_enemies_on_cover_or_special_damage_received"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Carmenta",
@@ -19604,7 +23164,11 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Red",
         "specialId": "master_of_ailments",
-        "heroId": "masquerade_carmenta"
+        "heroId": "masquerade_carmenta",
+        "passiveSkills": [
+            "cleanse_on_own_familiar_death"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Ceris",
@@ -19625,7 +23189,13 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Red",
         "specialId": "spell_lock",
-        "heroId": "astral_dwarf_ceris"
+        "heroId": "astral_dwarf_ceris",
+        "passiveSkills": [
+            "never_miss_special",
+            "resist_negative_minion_and_mega_minion_effects",
+            "bypass_minions_and_mega_minions"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Charlotta",
@@ -19646,7 +23216,12 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Red",
         "specialId": "ballad_of_condemnation",
-        "heroId": "ballerina_charlotta"
+        "heroId": "ballerina_charlotta",
+        "passiveSkills": [
+            "heal_on_expired_or_cleared_debuff_slow",
+            "resist_attack_modifier_debuffs"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Charmione",
@@ -19666,7 +23241,12 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Red",
         "specialId": "perfume_cloud",
-        "heroId": "slime_charmione"
+        "heroId": "slime_charmione",
+        "passiveSkills": [
+            "summon_slime_minion_on_damage_red",
+            "summon_slime_minion_on_death_red"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Chomper",
@@ -19684,7 +23264,12 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Red",
         "specialId": "slice_and_dice",
-        "heroId": "mighty_pet_chomper"
+        "heroId": "mighty_pet_chomper",
+        "passiveSkills": [
+            "heal_and_add_mana_on_ally_minion",
+            "damage_enemies_on_enemy_parasite"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Chunkyroi",
@@ -19705,7 +23290,11 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Red",
         "specialId": "prosperity_for_domain",
-        "heroId": "moth_chunkyroi"
+        "heroId": "moth_chunkyroi",
+        "passiveSkills": [
+            "dodge_enemy_damage_special"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Cinderella",
@@ -19724,7 +23313,11 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Red",
         "specialId": "fairy_godmothers_blessing",
-        "heroId": "fables_cinderella"
+        "heroId": "fables_cinderella",
+        "passiveSkills": [
+            "resist_status_effect_damage"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Cleaver",
@@ -19743,7 +23336,12 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Red",
         "specialId": "bone_ritual",
-        "heroId": "monster_hunter_cleaver"
+        "heroId": "monster_hunter_cleaver",
+        "passiveSkills": [
+            "hunters_mark_on_special",
+            "special_damage_reduction_monster_hunters"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Cookie",
@@ -19761,7 +23359,9 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Red",
         "specialId": "mystery_potions",
-        "heroId": "christmas_cookie"
+        "heroId": "christmas_cookie",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Cupido",
@@ -19779,7 +23379,11 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Red",
         "specialId": "love_conquers_all",
-        "heroId": "valentines_cupido"
+        "heroId": "valentines_cupido",
+        "passiveSkills": [
+            "resist_special_blocking"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "D'Artagnan",
@@ -19797,7 +23401,11 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Red",
         "specialId": "flaming_rapier",
-        "heroId": "musketeer_dartagnan"
+        "heroId": "musketeer_dartagnan",
+        "passiveSkills": [
+            "damage_all_enemies_on_cover_or_special_damage_received"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Daemon",
@@ -19816,7 +23424,11 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Red",
         "specialId": "blood_petals_of_the_withered",
-        "heroId": "castle_stag_daemon"
+        "heroId": "castle_stag_daemon",
+        "passiveSkills": [
+            "heal_on_buff_alliance_quest_family"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Dima",
@@ -19835,7 +23447,12 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Red",
         "specialId": "spotting_trouble",
-        "heroId": "garrison_dima"
+        "heroId": "garrison_dima",
+        "passiveSkills": [
+            "remove_wither_from_allies",
+            "resist_direct_mana_reductions"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Domiventus",
@@ -19855,7 +23472,11 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Red",
         "specialId": "supernova",
-        "heroId": "tales1_domiventus"
+        "heroId": "tales1_domiventus",
+        "passiveSkills": [
+            "tales1_extra_special_damage_and_add_stacking_mana_generation"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Domiventus Costume1",
@@ -19879,7 +23500,13 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Red",
         "specialId": "supernova",
-        "heroId": "tales1_domiventus_costume_supreme"
+        "heroId": "tales1_domiventus_costume_supreme",
+        "passiveSkills": [
+            "tales1_extra_special_damage_and_add_stacking_mana_generation"
+        ],
+        "costumeBonusPassiveSkillIds": [
+            "resist_insanity"
+        ]
     },
     {
         "name": "Doxan",
@@ -19897,7 +23524,11 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Red",
         "specialId": "dual_laser_blades",
-        "heroId": "elemental_doxan"
+        "heroId": "elemental_doxan",
+        "passiveSkills": [
+            "strong_troop_damage_modifier"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Dunnar Hart",
@@ -19921,7 +23552,11 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Red",
         "specialId": "infernal_drumstorm",
-        "heroId": "bard_dunnar_hart"
+        "heroId": "bard_dunnar_hart",
+        "passiveSkills": [
+            "revival_chance_modifier_all_enemies"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Ebba",
@@ -19941,7 +23576,12 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Red",
         "specialId": "flail_swing",
-        "heroId": "monster_hunter_ebba"
+        "heroId": "monster_hunter_ebba",
+        "passiveSkills": [
+            "hunters_mark_on_special",
+            "special_damage_reduction_monster_hunters"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "El Duque",
@@ -19960,7 +23600,11 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Red",
         "specialId": "fists_of_atonement",
-        "heroId": "gargoyle_el_duque"
+        "heroId": "gargoyle_el_duque",
+        "passiveSkills": [
+            "gargoyle_stone"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Elba",
@@ -19978,7 +23622,11 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Red",
         "specialId": "vanguard_of_passion",
-        "heroId": "valentines_elba"
+        "heroId": "valentines_elba",
+        "passiveSkills": [
+            "resist_special_blocking"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Elena",
@@ -19995,7 +23643,9 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Red",
         "specialId": "wall_of_swords",
-        "heroId": "nomad_female_lord"
+        "heroId": "nomad_female_lord",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Elena Costume1",
@@ -20016,7 +23666,9 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Red",
         "specialId": "wall_of_swords",
-        "heroId": "nomad_female_lord_costume_flame"
+        "heroId": "nomad_female_lord_costume_flame",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Elena Costume2",
@@ -20037,7 +23689,9 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Red",
         "specialId": "wall_of_swords",
-        "heroId": "nomad_female_lord_costume_wicked"
+        "heroId": "nomad_female_lord_costume_wicked",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Elena Toon",
@@ -20059,7 +23713,11 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Red",
         "specialId": "wall_of_swords",
-        "heroId": "nomad_female_lord_costume_cute"
+        "heroId": "nomad_female_lord_costume_cute",
+        "passiveSkills": [
+            "toon_resist_debuffs_manareduction_dispels"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Eliane",
@@ -20078,7 +23736,12 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Red",
         "specialId": "flame_surge",
-        "heroId": "fire_god_eliane"
+        "heroId": "fire_god_eliane",
+        "passiveSkills": [
+            "mana_on_enemy_burn",
+            "resist_burn"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Elizabeth",
@@ -20097,7 +23760,11 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Red",
         "specialId": "widows_kiss",
-        "heroId": "s4_elizabeth"
+        "heroId": "s4_elizabeth",
+        "passiveSkills": [
+            "increase_buff_duration"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Elizabeth Costume1",
@@ -20122,7 +23789,13 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Red",
         "specialId": "widows_kiss",
-        "heroId": "s4_elizabeth_costume_bride"
+        "heroId": "s4_elizabeth_costume_bride",
+        "passiveSkills": [
+            "increase_buff_duration"
+        ],
+        "costumeBonusPassiveSkillIds": [
+            "extra_special_increased_damage_against_boosted_health"
+        ]
     },
     {
         "name": "Ember",
@@ -20144,7 +23817,11 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Red",
         "specialId": "firewall",
-        "heroId": "fox_ember"
+        "heroId": "fox_ember",
+        "passiveSkills": [
+            "reduced_healing_for_all_enemies"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Emilio",
@@ -20162,7 +23839,9 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Red",
         "specialId": "flames_and_rejuvenation",
-        "heroId": "circus_emilio"
+        "heroId": "circus_emilio",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Emilio Costume1",
@@ -20184,7 +23863,11 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Red",
         "specialId": "flames_and_rejuvenation",
-        "heroId": "circus_emilio_costume_frog"
+        "heroId": "circus_emilio_costume_frog",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": [
+            "cleansed_ailments_to_enemy"
+        ]
     },
     {
         "name": "Erebus",
@@ -20201,7 +23884,12 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Red",
         "specialId": "dark_orb",
-        "heroId": "styx_erebus"
+        "heroId": "styx_erebus",
+        "passiveSkills": [
+            "resist_all_defense_debuffs",
+            "reduce_minion_health"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Eron",
@@ -20219,7 +23907,11 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Red",
         "specialId": "song_of_hoot_and_holler",
-        "heroId": "owl_eron"
+        "heroId": "owl_eron",
+        "passiveSkills": [
+            "mana_generation_modifier_all_enemies_stronger"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Experience Mimic",
@@ -20241,7 +23933,12 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Red",
         "specialId": "mimic_training_hero_red_bite",
-        "heroId": "mimic_training_hero_red"
+        "heroId": "mimic_training_hero_red",
+        "passiveSkills": [
+            "mimic_training_hero_red",
+            "never_miss_special"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Flamehide",
@@ -20259,7 +23956,12 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Red",
         "specialId": "calling_the_bluff",
-        "heroId": "garrison_flamehide"
+        "heroId": "garrison_flamehide",
+        "passiveSkills": [
+            "remove_growth_from_enemies",
+            "resist_direct_mana_reductions"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Flip",
@@ -20277,7 +23979,12 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Red",
         "specialId": "to_the_rescue",
-        "heroId": "beachparty_flip"
+        "heroId": "beachparty_flip",
+        "passiveSkills": [
+            "resist_water",
+            "underwater_on_special_beach"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Flip Costume1",
@@ -20299,7 +24006,12 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Red",
         "specialId": "to_the_rescue",
-        "heroId": "beachparty_flip_costume_donut"
+        "heroId": "beachparty_flip_costume_donut",
+        "passiveSkills": [
+            "resist_water",
+            "underwater_on_special_beach"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Fulvia",
@@ -20318,7 +24030,11 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Red",
         "specialId": "royal_assault",
-        "heroId": "owl_fulvia"
+        "heroId": "owl_fulvia",
+        "passiveSkills": [
+            "mana_generation_modifier_all_enemies_stronger"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Garnet",
@@ -20335,7 +24051,9 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Red",
         "specialId": "awaken_ki",
-        "heroId": "ninja_garnet"
+        "heroId": "ninja_garnet",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Gefjon",
@@ -20352,7 +24070,9 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Red",
         "specialId": "maidens_command",
-        "heroId": "s3_gefjon"
+        "heroId": "s3_gefjon",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Gefjon Costume1",
@@ -20373,7 +24093,9 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Red",
         "specialId": "maidens_command",
-        "heroId": "s3_gefjon_costume_wilderness"
+        "heroId": "s3_gefjon_costume_wilderness",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Gestalt",
@@ -20391,7 +24113,11 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Red",
         "specialId": "underwater_magma_cube",
-        "heroId": "tales1_gestalt"
+        "heroId": "tales1_gestalt",
+        "passiveSkills": [
+            "tales1_extra_special_damage_and_add_stacking_mana_generation"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Gestalt Costume1",
@@ -20413,7 +24139,13 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Red",
         "specialId": "underwater_magma_cube",
-        "heroId": "tales1_gestalt_costume_pearls"
+        "heroId": "tales1_gestalt_costume_pearls",
+        "passiveSkills": [
+            "tales1_extra_special_damage_and_add_stacking_mana_generation"
+        ],
+        "costumeBonusPassiveSkillIds": [
+            "resist_insanity"
+        ]
     },
     {
         "name": "Gooze",
@@ -20431,7 +24163,12 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Red",
         "specialId": "alchemy_experiment",
-        "heroId": "slime_gooze"
+        "heroId": "slime_gooze",
+        "passiveSkills": [
+            "summon_slime_minion_on_damage_red",
+            "summon_slime_minion_on_death_red"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Gravemaker",
@@ -20451,7 +24188,9 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Red",
         "specialId": "ashes_to_ashes",
-        "heroId": "fire_god_doom"
+        "heroId": "fire_god_doom",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Gravemaker Costume1",
@@ -20475,7 +24214,11 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Red",
         "specialId": "ashes_to_ashes",
-        "heroId": "fire_god_doom_costume_avenger"
+        "heroId": "fire_god_doom_costume_avenger",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": [
+            "extra_special_dispel_newest"
+        ]
     },
     {
         "name": "Grazul",
@@ -20493,7 +24236,11 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Red",
         "specialId": "mending_mantra",
-        "heroId": "fire_god_nadnog"
+        "heroId": "fire_god_nadnog",
+        "passiveSkills": [
+            "resist_heal_multiplier_debuffs"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Guardian Kong",
@@ -20511,7 +24258,9 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Red",
         "specialId": "lord_of_the_jungle",
-        "heroId": "guardian_gorilla_chieftain"
+        "heroId": "guardian_gorilla_chieftain",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Guardian Kong Costume1",
@@ -20533,7 +24282,9 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Red",
         "specialId": "lord_of_the_jungle",
-        "heroId": "guardian_gorilla_chieftain_costume_conqueror"
+        "heroId": "guardian_gorilla_chieftain_costume_conqueror",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Guffa",
@@ -20553,7 +24304,11 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Red",
         "specialId": "reflecting_stance",
-        "heroId": "gargoyle_guffa"
+        "heroId": "gargoyle_guffa",
+        "passiveSkills": [
+            "gargoyle_soft_skin"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Hammerclang",
@@ -20573,7 +24328,12 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Red",
         "specialId": "celestial_anvil",
-        "heroId": "astral_hammerclang"
+        "heroId": "astral_hammerclang",
+        "passiveSkills": [
+            "share_received_damage",
+            "resist_poison"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Hathor",
@@ -20590,7 +24350,11 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Red",
         "specialId": "motherly_care",
-        "heroId": "s5_hathor"
+        "heroId": "s5_hathor",
+        "passiveSkills": [
+            "moon_extra_special_heal_and_add_mana"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Hathor Costume1",
@@ -20613,7 +24377,14 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Red",
         "specialId": "motherly_care",
-        "heroId": "s5_hathor_costume_starlit"
+        "heroId": "s5_hathor_costume_starlit",
+        "passiveSkills": [
+            "moon_extra_special_heal_and_add_mana"
+        ],
+        "costumeBonusPassiveSkillIds": [
+            "resist_stop_mana_generation",
+            "guaranteed_passive_effects_on_special"
+        ]
     },
     {
         "name": "Hohenwerf",
@@ -20632,7 +24403,11 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Red",
         "specialId": "possessor_of_penance",
-        "heroId": "gargoyle_hohenwerf"
+        "heroId": "gargoyle_hohenwerf",
+        "passiveSkills": [
+            "gargoyle_stone"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Hornfel",
@@ -20649,7 +24424,12 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Red",
         "specialId": "bulwark_charge",
-        "heroId": "construct_hornfel"
+        "heroId": "construct_hornfel",
+        "passiveSkills": [
+            "destructive_core",
+            "resist_special_blocking"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Hypnos",
@@ -20667,7 +24447,12 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Red",
         "specialId": "sweet_dreams",
-        "heroId": "styx_hypnos"
+        "heroId": "styx_hypnos",
+        "passiveSkills": [
+            "resist_all_defense_debuffs",
+            "reduce_minion_health"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Iarlaith",
@@ -20686,7 +24471,12 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Red",
         "specialId": "ring_around_the_rosie",
-        "heroId": "garrison_iarlaith"
+        "heroId": "garrison_iarlaith",
+        "passiveSkills": [
+            "remove_wither_from_allies",
+            "resist_direct_mana_reductions"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Ignazio",
@@ -20705,7 +24495,11 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Red",
         "specialId": "purifying_flame",
-        "heroId": "elemental_ignazio"
+        "heroId": "elemental_ignazio",
+        "passiveSkills": [
+            "strong_troop_damage_modifier"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Ignazio Costume1",
@@ -20728,7 +24522,11 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Red",
         "specialId": "purifying_flame",
-        "heroId": "elemental_ignazio_costume_medic"
+        "heroId": "elemental_ignazio_costume_medic",
+        "passiveSkills": [
+            "strong_troop_damage_modifier_costume"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Ilmarinen",
@@ -20746,7 +24544,11 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Red",
         "specialId": "forged_in_fire",
-        "heroId": "kalevala_ilmarinen"
+        "heroId": "kalevala_ilmarinen",
+        "passiveSkills": [
+            "heal_mana_on_low_health_once"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Iocantha",
@@ -20764,7 +24566,12 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Red",
         "specialId": "aces_high",
-        "heroId": "garrison_iocantha"
+        "heroId": "garrison_iocantha",
+        "passiveSkills": [
+            "remove_wither_from_allies",
+            "resist_direct_mana_reductions"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Isidore",
@@ -20783,7 +24590,13 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Red",
         "specialId": "flurry_of_blows",
-        "heroId": "faun_isidore"
+        "heroId": "faun_isidore",
+        "passiveSkills": [
+            "resist_negative_attack_modifiers_including_wither",
+            "resist_insanity",
+            "minion_and_mega_minion_accuracy_modifier"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Isrod",
@@ -20801,7 +24614,9 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Red",
         "specialId": "vengeful_scythe",
-        "heroId": "villain_isrod"
+        "heroId": "villain_isrod",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Jean-Francois",
@@ -20820,7 +24635,11 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Red",
         "specialId": "seal_of_fire",
-        "heroId": "fire_god_jean_francois"
+        "heroId": "fire_god_jean_francois",
+        "passiveSkills": [
+            "resist_health_steal"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Khagan",
@@ -20838,7 +24657,9 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Red",
         "specialId": "khans_order",
-        "heroId": "tribal_chief"
+        "heroId": "tribal_chief",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Khagan Costume1",
@@ -20860,7 +24681,9 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Red",
         "specialId": "khans_order",
-        "heroId": "tribal_chief_costume_conqueror"
+        "heroId": "tribal_chief_costume_conqueror",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Khagan Costume2",
@@ -20882,7 +24705,9 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Red",
         "specialId": "khans_order",
-        "heroId": "tribal_chief_costume_leopard"
+        "heroId": "tribal_chief_costume_leopard",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Khagan Toon",
@@ -20905,7 +24730,11 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Red",
         "specialId": "khans_order",
-        "heroId": "tribal_chief_costume_cute"
+        "heroId": "tribal_chief_costume_cute",
+        "passiveSkills": [
+            "toon_resist_debuffs_manareduction_dispels"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Khagan Glass",
@@ -20928,7 +24757,11 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Red",
         "specialId": "khans_order",
-        "heroId": "tribal_chief_costume_glass"
+        "heroId": "tribal_chief_costume_glass",
+        "passiveSkills": [
+            "glass_reflect_debuffs"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Khufu",
@@ -20946,7 +24779,11 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Red",
         "specialId": "perplexing_riddle",
-        "heroId": "s5_khafre"
+        "heroId": "s5_khafre",
+        "passiveSkills": [
+            "sun_extra_special_damage_and_dot"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Khufu Costume1",
@@ -20967,7 +24804,14 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Red",
         "specialId": "perplexing_riddle",
-        "heroId": "s5_khafre_costume_aquatic"
+        "heroId": "s5_khafre_costume_aquatic",
+        "passiveSkills": [
+            "sun_extra_special_damage_and_dot"
+        ],
+        "costumeBonusPassiveSkillIds": [
+            "increase_special_damage_buff",
+            "iterate_passive_effects_on_special"
+        ]
     },
     {
         "name": "Kravekrush",
@@ -20984,7 +24828,11 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Red",
         "specialId": "inevitable_demise",
-        "heroId": "s4_kravekrush"
+        "heroId": "s4_kravekrush",
+        "passiveSkills": [
+            "start_battle_with_mana"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Kravekrush Costume1",
@@ -21005,7 +24853,13 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Red",
         "specialId": "inevitable_demise",
-        "heroId": "s4_kravekrush_costume_grillmaster"
+        "heroId": "s4_kravekrush_costume_grillmaster",
+        "passiveSkills": [
+            "start_battle_with_mana"
+        ],
+        "costumeBonusPassiveSkillIds": [
+            "extra_special_increased_damage_against_boosted_health"
+        ]
     },
     {
         "name": "Lady Loki",
@@ -21023,7 +24877,9 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Red",
         "specialId": "tricksters_malice",
-        "heroId": "s3_loki_female"
+        "heroId": "s3_loki_female",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Lady Loki Costume1",
@@ -21045,7 +24901,9 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Red",
         "specialId": "tricksters_malice",
-        "heroId": "s3_loki_female_costume_mother"
+        "heroId": "s3_loki_female_costume_mother",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Lasalle",
@@ -21063,7 +24921,11 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Red",
         "specialId": "flanking_maneuver",
-        "heroId": "tales1_lasalle"
+        "heroId": "tales1_lasalle",
+        "passiveSkills": [
+            "tales1_extra_special_damage_and_add_critical"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Lasalle Costume1",
@@ -21085,7 +24947,13 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Red",
         "specialId": "flanking_maneuver",
-        "heroId": "tales1_lasalle_costume_jockey"
+        "heroId": "tales1_lasalle_costume_jockey",
+        "passiveSkills": [
+            "tales1_extra_special_damage_and_add_critical"
+        ],
+        "costumeBonusPassiveSkillIds": [
+            "resist_insanity"
+        ]
     },
     {
         "name": "Lewena",
@@ -21103,7 +24971,9 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Red",
         "specialId": "impeding_bolts",
-        "heroId": "castle_raven_lewena"
+        "heroId": "castle_raven_lewena",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Li Kui",
@@ -21122,7 +24992,13 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Red",
         "specialId": "whirlwind_blows",
-        "heroId": "outlaw_li_kui"
+        "heroId": "outlaw_li_kui",
+        "passiveSkills": [
+            "resist_bleed",
+            "righteous_rebellion_parent",
+            "cleanse_on_special_critical_damage_all_safe"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Lodius",
@@ -21141,7 +25017,11 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Red",
         "specialId": "battleclaw_strike",
-        "heroId": "owl_lodius"
+        "heroId": "owl_lodius",
+        "passiveSkills": [
+            "mana_generation_modifier_all_enemies_stronger"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Madhammer",
@@ -21160,7 +25040,11 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Red",
         "specialId": "heedless_hammer_flurry",
-        "heroId": "goblin_madhammer"
+        "heroId": "goblin_madhammer",
+        "passiveSkills": [
+            "goblin_damage_and_accuracy_debuff_on_special"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Malum",
@@ -21181,7 +25065,11 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Red",
         "specialId": "lacerating_leap",
-        "heroId": "ninja_malum"
+        "heroId": "ninja_malum",
+        "passiveSkills": [
+            "reduce_minion_health"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Marjana",
@@ -21198,7 +25086,9 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Red",
         "specialId": "magma_smash",
-        "heroId": "nomad_female_captain"
+        "heroId": "nomad_female_captain",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Marjana Costume1",
@@ -21220,7 +25110,9 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Red",
         "specialId": "magma_smash",
-        "heroId": "nomad_female_captain_costume_pirate"
+        "heroId": "nomad_female_captain_costume_pirate",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Marjana Costume2",
@@ -21242,7 +25134,9 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Red",
         "specialId": "magma_smash",
-        "heroId": "nomad_female_captain_costume_thief"
+        "heroId": "nomad_female_captain_costume_thief",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Marjana Toon",
@@ -21264,7 +25158,11 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Red",
         "specialId": "magma_smash",
-        "heroId": "nomad_female_captain_costume_cute"
+        "heroId": "nomad_female_captain_costume_cute",
+        "passiveSkills": [
+            "toon_resist_debuffs_manareduction_dispels"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Marjana Glass",
@@ -21286,7 +25184,11 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Red",
         "specialId": "magma_smash",
-        "heroId": "nomad_female_captain_costume_glass"
+        "heroId": "nomad_female_captain_costume_glass",
+        "passiveSkills": [
+            "glass_reflect_debuffs"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Mitsuko",
@@ -21304,7 +25206,9 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Red",
         "specialId": "dark_mirror",
-        "heroId": "s2_noble_lady"
+        "heroId": "s2_noble_lady",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Mitsuko Costume1",
@@ -21326,7 +25230,9 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Red",
         "specialId": "dark_mirror",
-        "heroId": "s2_noble_lady_costume_warrior"
+        "heroId": "s2_noble_lady_costume_warrior",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Nadezhda",
@@ -21346,7 +25252,11 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Red",
         "specialId": "flame_of_the_dragon_familiar",
-        "heroId": "magic_nadezhda"
+        "heroId": "magic_nadezhda",
+        "passiveSkills": [
+            "magic_heal_on_full_charge_to_not_red"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Naeem",
@@ -21365,7 +25275,12 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Red",
         "specialId": "countering_hammock",
-        "heroId": "magic_carpet_naeem"
+        "heroId": "magic_carpet_naeem",
+        "passiveSkills": [
+            "reduce_big_minion_health",
+            "fly_magic_carpet"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Natalya",
@@ -21384,7 +25299,9 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Red",
         "specialId": "burning_chains",
-        "heroId": "fire_god_natalya"
+        "heroId": "fire_god_natalya",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Natalya Costume1",
@@ -21408,7 +25325,11 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Red",
         "specialId": "burning_chains",
-        "heroId": "fire_god_natalya_costume_seamstress"
+        "heroId": "fire_god_natalya_costume_seamstress",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": [
+            "extra_special_dispel_newest"
+        ]
     },
     {
         "name": "Neema",
@@ -21428,7 +25349,12 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Red",
         "specialId": "fire_tiger",
-        "heroId": "fire_god_neema"
+        "heroId": "fire_god_neema",
+        "passiveSkills": [
+            "resist_special_blocking",
+            "bypass_taunt_effects"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Nibbles",
@@ -21447,7 +25373,11 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Red",
         "specialId": "paw_in_every_pie",
-        "heroId": "fox_nibbles"
+        "heroId": "fox_nibbles",
+        "passiveSkills": [
+            "reduced_healing_for_all_enemies"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Niki",
@@ -21465,7 +25395,11 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Red",
         "specialId": "pain_harvest",
-        "heroId": "elemental_niki"
+        "heroId": "elemental_niki",
+        "passiveSkills": [
+            "strong_troop_damage_modifier"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Nomad",
@@ -21486,7 +25420,11 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Red",
         "specialId": "silent_takedown",
-        "heroId": "ninja_nomad"
+        "heroId": "ninja_nomad",
+        "passiveSkills": [
+            "reduce_minion_health"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Noor",
@@ -21505,7 +25443,11 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Red",
         "specialId": "sparrow_fury",
-        "heroId": "fire_god_noor"
+        "heroId": "fire_god_noor",
+        "passiveSkills": [
+            "summon_familiar_on_enemy_minion_summon"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Norman",
@@ -21522,7 +25464,13 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Red",
         "specialId": "unstoppable_charge",
-        "heroId": "champions_norman"
+        "heroId": "champions_norman",
+        "passiveSkills": [
+            "bypass_taunt_effects",
+            "add_mana_on_enemy_taunt_norman",
+            "mana_gen_on_debuff"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Oceanus",
@@ -21540,7 +25488,9 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Red",
         "specialId": "strength_of_the_benemoth",
-        "heroId": "s2_oceanus"
+        "heroId": "s2_oceanus",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Octros",
@@ -21558,7 +25508,11 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Red",
         "specialId": "hallowed_blade",
-        "heroId": "s4_octros"
+        "heroId": "s4_octros",
+        "passiveSkills": [
+            "increase_buff_duration"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Octros Costume1",
@@ -21581,7 +25535,13 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Red",
         "specialId": "hallowed_blade",
-        "heroId": "s4_octros_costume_suitor"
+        "heroId": "s4_octros_costume_suitor",
+        "passiveSkills": [
+            "increase_buff_duration"
+        ],
+        "costumeBonusPassiveSkillIds": [
+            "extra_special_increased_damage_against_boosted_health"
+        ]
     },
     {
         "name": "Omen",
@@ -21600,7 +25560,11 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Red",
         "specialId": "ritual_of_the_deep",
-        "heroId": "shadow_omen"
+        "heroId": "shadow_omen",
+        "passiveSkills": [
+            "insanity_damage_reduction"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Otis",
@@ -21619,7 +25583,12 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Red",
         "specialId": "dauntless_bladestorm",
-        "heroId": "monster_hunter_otis"
+        "heroId": "monster_hunter_otis",
+        "passiveSkills": [
+            "hunters_mark_on_special",
+            "monster_hunter_reallocate_debuff_or_heal"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Ottilia",
@@ -21638,7 +25607,9 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Red",
         "specialId": "mistletoe_medley",
-        "heroId": "christmas_ottilia"
+        "heroId": "christmas_ottilia",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Pepperflame",
@@ -21656,7 +25627,11 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Red",
         "specialId": "chords_of_havoc",
-        "heroId": "goblin_pepperflame"
+        "heroId": "goblin_pepperflame",
+        "passiveSkills": [
+            "goblin_damage_and_accuracy_debuff_on_special"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Phenexa",
@@ -21675,7 +25650,11 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Red",
         "specialId": "ballad_of_restoration",
-        "heroId": "bard_phenexa"
+        "heroId": "bard_phenexa",
+        "passiveSkills": [
+            "revival_chance_modifier_all_enemies"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Pluth",
@@ -21695,7 +25674,13 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Red",
         "specialId": "planar_time_widget",
-        "heroId": "astral_dwarf_pluth"
+        "heroId": "astral_dwarf_pluth",
+        "passiveSkills": [
+            "never_miss_special",
+            "resist_negative_minion_and_mega_minion_effects",
+            "bypass_minions_and_mega_minions"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Puss in Boots",
@@ -21714,7 +25699,9 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Red",
         "specialId": "three_blind_mice",
-        "heroId": "fables_puss_in_boots"
+        "heroId": "fables_puss_in_boots",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Puss in Boots Costume1",
@@ -21737,7 +25724,9 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Red",
         "specialId": "three_blind_mice",
-        "heroId": "fables_puss_in_boots_costume_highwaycat"
+        "heroId": "fables_puss_in_boots_costume_highwaycat",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Queen of Hearts",
@@ -21756,7 +25745,9 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Red",
         "specialId": "queen_of_cards",
-        "heroId": "wonderland_queen"
+        "heroId": "wonderland_queen",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Queen of Hearts Costume1",
@@ -21779,7 +25770,11 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Red",
         "specialId": "queen_of_cards",
-        "heroId": "wonderland_queen_costume_benefactor"
+        "heroId": "wonderland_queen_costume_benefactor",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": [
+            "possession_on_special"
+        ]
     },
     {
         "name": "Rajesh",
@@ -21801,7 +25796,12 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Red",
         "specialId": "royal_meatball_buffet",
-        "heroId": "wild_cat_rajesh"
+        "heroId": "wild_cat_rajesh",
+        "passiveSkills": [
+            "resist_all_defense_effects",
+            "revive_chance_nine_lives"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Rashan",
@@ -21819,7 +25819,11 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Red",
         "specialId": "cuts_of_hulu",
-        "heroId": "shadow_rashan"
+        "heroId": "shadow_rashan",
+        "passiveSkills": [
+            "insanity_damage_reduction"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Ray",
@@ -21844,7 +25848,12 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Red",
         "specialId": "blazing_slam_dunk",
-        "heroId": "magic_ray"
+        "heroId": "magic_ray",
+        "passiveSkills": [
+            "magic_mana_regen_stack_on_special",
+            "magic_add_mana_on_full_charge_to_not_blue"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Red Hood",
@@ -21862,7 +25871,9 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Red",
         "specialId": "forest_friends",
-        "heroId": "fables_red_hood"
+        "heroId": "fables_red_hood",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Regin",
@@ -21885,7 +25896,12 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Red",
         "specialId": "master_plan",
-        "heroId": "tales2_regin"
+        "heroId": "tales2_regin",
+        "passiveSkills": [
+            "molten_core",
+            "resist_burn_with_health_boost_and_mana"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Reuben",
@@ -21903,7 +25919,11 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Red",
         "specialId": "occult_redemption",
-        "heroId": "fire_god_reuben"
+        "heroId": "fire_god_reuben",
+        "passiveSkills": [
+            "resist_mana_generation_modifier_debuffs"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Revna",
@@ -21921,7 +25941,12 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Red",
         "specialId": "cloak_of_feathers",
-        "heroId": "monster_hunter_revna"
+        "heroId": "monster_hunter_revna",
+        "passiveSkills": [
+            "hunters_mark_on_special",
+            "special_damage_reduction_monster_hunters"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Rocket",
@@ -21939,7 +25964,11 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Red",
         "specialId": "goblin_explosives",
-        "heroId": "goblin_rocket"
+        "heroId": "goblin_rocket",
+        "passiveSkills": [
+            "goblin_damage_and_accuracy_debuff_on_special"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Rosanna",
@@ -21957,7 +25986,9 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Red",
         "specialId": "last_words",
-        "heroId": "shadow_rosanna"
+        "heroId": "shadow_rosanna",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Roughian & Nurgib",
@@ -21978,7 +26009,12 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Red",
         "specialId": "mana_scavange",
-        "heroId": "fire_god_roughian_and_nurgib"
+        "heroId": "fire_god_roughian_and_nurgib",
+        "passiveSkills": [
+            "mana_on_heal",
+            "eat_random_enemy_minions_with_mana_per_eaten_minion"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Ruadh",
@@ -21999,7 +26035,12 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Red",
         "specialId": "scourge_of_the_strong",
-        "heroId": "monster_hunter_ruadh"
+        "heroId": "monster_hunter_ruadh",
+        "passiveSkills": [
+            "hunters_mark_on_special",
+            "special_damage_reduction_monster_hunters"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Ruby",
@@ -22018,7 +26059,9 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Red",
         "specialId": "crimson_calamity",
-        "heroId": "ninja_ruby"
+        "heroId": "ninja_ruby",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Russell",
@@ -22037,7 +26080,12 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Red",
         "specialId": "sure_fire_combustion",
-        "heroId": "fire_god_russell"
+        "heroId": "fire_god_russell",
+        "passiveSkills": [
+            "mana_on_enemy_burn",
+            "resist_attack_modifier_debuffs"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Rust",
@@ -22056,7 +26104,11 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Red",
         "specialId": "cover_slam",
-        "heroId": "fox_rust"
+        "heroId": "fox_rust",
+        "passiveSkills": [
+            "reduced_healing_for_all_enemies"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Salimata",
@@ -22075,7 +26127,12 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Red",
         "specialId": "magical_balan",
-        "heroId": "bard_balafon"
+        "heroId": "bard_balafon",
+        "passiveSkills": [
+            "set_dance_duration",
+            "set_ballad_duration"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Santa Claus",
@@ -22094,7 +26151,9 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Red",
         "specialId": "ultimate_giftsack",
-        "heroId": "christmas_santa"
+        "heroId": "christmas_santa",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Santa Claus Costume1",
@@ -22117,7 +26176,9 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Red",
         "specialId": "ultimate_giftsack",
-        "heroId": "christmas_santa_costume_metal"
+        "heroId": "christmas_santa_costume_metal",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Saoirse",
@@ -22138,7 +26199,11 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Red",
         "specialId": "fracturing_slash",
-        "heroId": "slayer_saoirse"
+        "heroId": "slayer_saoirse",
+        "passiveSkills": [
+            "resist_status_effect_damage"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Saoirse Costume1",
@@ -22164,7 +26229,13 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Red",
         "specialId": "fracturing_slash",
-        "heroId": "slayer_saoirse_costume_knight"
+        "heroId": "slayer_saoirse_costume_knight",
+        "passiveSkills": [
+            "resist_status_effect_damage"
+        ],
+        "costumeBonusPassiveSkillIds": [
+            "extra_special_bleed"
+        ]
     },
     {
         "name": "Scoria",
@@ -22186,7 +26257,12 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Red",
         "specialId": "cauterizing_touch",
-        "heroId": "construct_scoria"
+        "heroId": "construct_scoria",
+        "passiveSkills": [
+            "corrosive_core",
+            "resist_special_blocking"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Sekhmet",
@@ -22203,7 +26279,11 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Red",
         "specialId": "pounce_of_the_lioness",
-        "heroId": "s5_sekhmet"
+        "heroId": "s5_sekhmet",
+        "passiveSkills": [
+            "sun_extra_special_damage_and_attack_debuff"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Sekhmet Costume1",
@@ -22224,7 +26304,14 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Red",
         "specialId": "pounce_of_the_lioness",
-        "heroId": "s5_sekhmet_costume_warden"
+        "heroId": "s5_sekhmet_costume_warden",
+        "passiveSkills": [
+            "sun_extra_special_damage_and_attack_debuff"
+        ],
+        "costumeBonusPassiveSkillIds": [
+            "mana_on_enemy_health_boost_special",
+            "iterate_passive_effects_on_special"
+        ]
     },
     {
         "name": "Serandite",
@@ -22242,7 +26329,9 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Red",
         "specialId": "burning_ashes",
-        "heroId": "ninja_serandite"
+        "heroId": "ninja_serandite",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Skargremar",
@@ -22261,7 +26350,12 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Red",
         "specialId": "halting_counter_strike",
-        "heroId": "fire_god_skargremar"
+        "heroId": "fire_god_skargremar",
+        "passiveSkills": [
+            "resist_special_blocking",
+            "resist_defense_modifier_debuffs"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Sparklight",
@@ -22281,7 +26375,12 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Red",
         "specialId": "enchanted_elven_sword",
-        "heroId": "astral_sparklight"
+        "heroId": "astral_sparklight",
+        "passiveSkills": [
+            "share_received_damage",
+            "resist_poison"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Sun Quan",
@@ -22299,7 +26398,9 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Red",
         "specialId": "command_to_advance",
-        "heroId": "kingdom_sun_quan"
+        "heroId": "kingdom_sun_quan",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Sun Quan Costume1",
@@ -22321,7 +26422,11 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Red",
         "specialId": "command_to_advance",
-        "heroId": "kingdom_sun_quan_costume_fire_bat"
+        "heroId": "kingdom_sun_quan_costume_fire_bat",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": [
+            "kingdom_unstoppable_minions"
+        ]
     },
     {
         "name": "Tahir",
@@ -22341,7 +26446,12 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Red",
         "specialId": "hunters_mark",
-        "heroId": "fire_god_tahir"
+        "heroId": "fire_god_tahir",
+        "passiveSkills": [
+            "heal_on_debuff_tahir",
+            "resist_bleed"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Tetisheri",
@@ -22359,7 +26469,11 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Red",
         "specialId": "ancient_spell",
-        "heroId": "s5_tetisheri"
+        "heroId": "s5_tetisheri",
+        "passiveSkills": [
+            "moon_extra_special_damage_and_dispel_latest_buff"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Tetisheri Costume1",
@@ -22381,7 +26495,14 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Red",
         "specialId": "ancient_spell",
-        "heroId": "s5_tetisheri_costume_molten"
+        "heroId": "s5_tetisheri_costume_molten",
+        "passiveSkills": [
+            "moon_extra_special_damage_and_dispel_latest_buff"
+        ],
+        "costumeBonusPassiveSkillIds": [
+            "mana_on_debuff",
+            "iterate_passive_effects_on_special"
+        ]
     },
     {
         "name": "Timothy",
@@ -22399,7 +26520,9 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Red",
         "specialId": "adventure_awaits",
-        "heroId": "easter_timothy"
+        "heroId": "easter_timothy",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Torben",
@@ -22418,7 +26541,11 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Red",
         "specialId": "mark_the_prey",
-        "heroId": "castle_bear_torben"
+        "heroId": "castle_bear_torben",
+        "passiveSkills": [
+            "heal_on_buff_alliance_quest_family"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Tyr",
@@ -22438,7 +26565,9 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Red",
         "specialId": "adamantite_claw",
-        "heroId": "s3_tyr"
+        "heroId": "s3_tyr",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Tyr Costume1",
@@ -22462,7 +26591,9 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Red",
         "specialId": "adamantite_claw",
-        "heroId": "s3_tyr_costume_savage"
+        "heroId": "s3_tyr_costume_savage",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Ukkonen",
@@ -22481,7 +26612,11 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Red",
         "specialId": "chords_of_distortion",
-        "heroId": "kalevala_ukkonen"
+        "heroId": "kalevala_ukkonen",
+        "passiveSkills": [
+            "heal_mana_on_low_health_once"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Ukkonen Costume1",
@@ -22504,7 +26639,11 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Red",
         "specialId": "chords_of_distortion",
-        "heroId": "kalevala_ukkonen_costume_ukkonen_infernal"
+        "heroId": "kalevala_ukkonen_costume_ukkonen_infernal",
+        "passiveSkills": [
+            "heal_mana_on_low_health_once"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Vanda",
@@ -22523,7 +26662,11 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Red",
         "specialId": "twilight_of_sorrow",
-        "heroId": "halloween_vanda"
+        "heroId": "halloween_vanda",
+        "passiveSkills": [
+            "halloween_steal_buff_or_deal_damage"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Vanda Costume1",
@@ -22546,7 +26689,11 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Red",
         "specialId": "twilight_of_sorrow",
-        "heroId": "halloween_vanda_costume_mafia"
+        "heroId": "halloween_vanda_costume_mafia",
+        "passiveSkills": [
+            "halloween_steal_buff_or_deal_damage"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Vanya",
@@ -22564,7 +26711,13 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Red",
         "specialId": "sense_of_wonder",
-        "heroId": "garrison_vanya"
+        "heroId": "garrison_vanya",
+        "passiveSkills": [
+            "remove_wither_from_allies",
+            "resist_direct_mana_reductions",
+            "mana_on_debuff"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Xenda",
@@ -22584,7 +26737,11 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Red",
         "specialId": "xenda_special",
-        "heroId": "s4_xenda"
+        "heroId": "s4_xenda",
+        "passiveSkills": [
+            "special_damage_reduction"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Xenda Costume1",
@@ -22608,7 +26765,13 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Red",
         "specialId": "xenda_special",
-        "heroId": "s4_xenda_costume_flame"
+        "heroId": "s4_xenda_costume_flame",
+        "passiveSkills": [
+            "special_damage_reduction"
+        ],
+        "costumeBonusPassiveSkillIds": [
+            "extra_special_increased_damage_against_boosted_health"
+        ]
     },
     {
         "name": "Xiaotu",
@@ -22626,7 +26789,11 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Red",
         "specialId": "reverse_recovery",
-        "heroId": "lunar_new_year_xiaotu"
+        "heroId": "lunar_new_year_xiaotu",
+        "passiveSkills": [
+            "enemy_minion_follower_silencer"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Xiwangmu",
@@ -22644,7 +26811,12 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Red",
         "specialId": "peach_of_immortality",
-        "heroId": "journey_xiwangmu"
+        "heroId": "journey_xiwangmu",
+        "passiveSkills": [
+            "heal_on_buff_with_chance",
+            "mana_on_buff_with_chance"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Yang Mai",
@@ -22664,7 +26836,12 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Red",
         "specialId": "flaming_fury",
-        "heroId": "fire_god_yang_mai"
+        "heroId": "fire_god_yang_mai",
+        "passiveSkills": [
+            "attack_buff_on_mana_reduction",
+            "resist_water"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Yolanda",
@@ -22684,7 +26861,13 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Red",
         "specialId": "captivating_illusions",
-        "heroId": "faun_yolanda"
+        "heroId": "faun_yolanda",
+        "passiveSkills": [
+            "resist_negative_attack_modifiers_including_wither",
+            "resist_insanity",
+            "minion_and_mega_minion_accuracy_modifier"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Zagrog",
@@ -22703,7 +26886,12 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Red",
         "specialId": "indifferent_blade",
-        "heroId": "fire_god_zagrog"
+        "heroId": "fire_god_zagrog",
+        "passiveSkills": [
+            "resist_all_attack_modifiers",
+            "resist_all_mana_debuffs"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Zarga",
@@ -22724,7 +26912,12 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Red",
         "specialId": "thousand_cuts",
-        "heroId": "fire_god_zarga"
+        "heroId": "fire_god_zarga",
+        "passiveSkills": [
+            "mana_on_bleed",
+            "heal_on_enemy_bleed"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Zaria",
@@ -22741,7 +26934,11 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Red",
         "specialId": "cataclysmic_divination",
-        "heroId": "elemental_zaria"
+        "heroId": "elemental_zaria",
+        "passiveSkills": [
+            "strong_troop_damage_modifier"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Zenobia",
@@ -22762,7 +26959,11 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Red",
         "specialId": "dual_sting",
-        "heroId": "s4_zenobia"
+        "heroId": "s4_zenobia",
+        "passiveSkills": [
+            "increase_buff_duration"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Zenobia Costume1",
@@ -22788,7 +26989,13 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Red",
         "specialId": "dual_sting",
-        "heroId": "s4_zenobia_costume_floral"
+        "heroId": "s4_zenobia_costume_floral",
+        "passiveSkills": [
+            "increase_buff_duration"
+        ],
+        "costumeBonusPassiveSkillIds": [
+            "extra_special_increased_damage_against_boosted_health"
+        ]
     },
     {
         "name": "Zidane",
@@ -22807,7 +27014,12 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Red",
         "specialId": "trick_of_the_trade",
-        "heroId": "fire_god_zidane"
+        "heroId": "fire_god_zidane",
+        "passiveSkills": [
+            "resist_buff_immunity",
+            "increased_attack_per_enemies_not_red_zidane"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Zimkitha",
@@ -22826,7 +27038,9 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Red",
         "specialId": "dawn_strike",
-        "heroId": "fire_god_zimkitha"
+        "heroId": "fire_god_zimkitha",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Zimkitha Costume1",
@@ -22849,7 +27063,11 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Red",
         "specialId": "dawn_strike",
-        "heroId": "fire_god_zimkitha_costume_adventurer"
+        "heroId": "fire_god_zimkitha_costume_adventurer",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": [
+            "extra_special_dispel_newest"
+        ]
     },
     {
         "name": "Hikaru",
@@ -22865,7 +27083,9 @@ window.allHeroesExtra = [
         "rarity": 1,
         "element": "Yellow",
         "specialId": "backstab",
-        "heroId": "oriental_female_ninja"
+        "heroId": "oriental_female_ninja",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Kenjiro",
@@ -22881,7 +27101,9 @@ window.allHeroesExtra = [
         "rarity": 1,
         "element": "Yellow",
         "specialId": "fierce_slash",
-        "heroId": "oriental_warrior"
+        "heroId": "oriental_warrior",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Hou",
@@ -22897,7 +27119,9 @@ window.allHeroesExtra = [
         "rarity": 2,
         "element": "Yellow",
         "specialId": "defensive_tactics",
-        "heroId": "oriental_monkey_warrior"
+        "heroId": "oriental_monkey_warrior",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Nash",
@@ -22914,7 +27138,9 @@ window.allHeroesExtra = [
         "rarity": 2,
         "element": "Yellow",
         "specialId": "stunning_blow",
-        "heroId": "oriental_squire"
+        "heroId": "oriental_squire",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Sha Ji",
@@ -22930,7 +27156,9 @@ window.allHeroesExtra = [
         "rarity": 2,
         "element": "Yellow",
         "specialId": "healing_chant",
-        "heroId": "oriental_panda_scout"
+        "heroId": "oriental_panda_scout",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Agnes",
@@ -22947,7 +27175,9 @@ window.allHeroesExtra = [
         "rarity": 3,
         "element": "Yellow",
         "specialId": "precise_chop",
-        "heroId": "s3_agnes"
+        "heroId": "s3_agnes",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Arman",
@@ -22966,7 +27196,9 @@ window.allHeroesExtra = [
         "rarity": 3,
         "element": "Yellow",
         "specialId": "soldiers_curse",
-        "heroId": "sand_soldier"
+        "heroId": "sand_soldier",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Bane",
@@ -22983,7 +27215,9 @@ window.allHeroesExtra = [
         "rarity": 3,
         "element": "Yellow",
         "specialId": "harmonic_slam",
-        "heroId": "oriental_brawler"
+        "heroId": "oriental_brawler",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Bane Costume1",
@@ -23004,7 +27238,9 @@ window.allHeroesExtra = [
         "rarity": 3,
         "element": "Yellow",
         "specialId": "harmonic_slam",
-        "heroId": "oriental_brawler_costume_egypt"
+        "heroId": "oriental_brawler_costume_egypt",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Bane Toon",
@@ -23026,7 +27262,11 @@ window.allHeroesExtra = [
         "rarity": 3,
         "element": "Yellow",
         "specialId": "harmonic_slam",
-        "heroId": "oriental_brawler_costume_cute"
+        "heroId": "oriental_brawler_costume_cute",
+        "passiveSkills": [
+            "toon_resist_debuffs_manareduction_dispels"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Bane Glass",
@@ -23048,7 +27288,11 @@ window.allHeroesExtra = [
         "rarity": 3,
         "element": "Yellow",
         "specialId": "harmonic_slam",
-        "heroId": "oriental_brawler_costume_glass"
+        "heroId": "oriental_brawler_costume_glass",
+        "passiveSkills": [
+            "glass_reflect_debuffs"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Bertulf",
@@ -23064,7 +27308,9 @@ window.allHeroesExtra = [
         "rarity": 3,
         "element": "Yellow",
         "specialId": "magnificent_meal",
-        "heroId": "castle_wolf_bertulf"
+        "heroId": "castle_wolf_bertulf",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Candy",
@@ -23081,7 +27327,9 @@ window.allHeroesExtra = [
         "rarity": 3,
         "element": "Yellow",
         "specialId": "whimsical_aid",
-        "heroId": "circus_candy"
+        "heroId": "circus_candy",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Cedar",
@@ -23101,7 +27349,12 @@ window.allHeroesExtra = [
         "rarity": 3,
         "element": "Yellow",
         "specialId": "titanbone_chain_slash",
-        "heroId": "monster_hunter_cedar"
+        "heroId": "monster_hunter_cedar",
+        "passiveSkills": [
+            "hunters_mark_on_special",
+            "attack_modifier_on_special"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Cthuwu",
@@ -23119,7 +27372,9 @@ window.allHeroesExtra = [
         "rarity": 3,
         "element": "Yellow",
         "specialId": "brain_link",
-        "heroId": "shadow_cthuwu"
+        "heroId": "shadow_cthuwu",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Dawa",
@@ -23135,7 +27390,9 @@ window.allHeroesExtra = [
         "rarity": 3,
         "element": "Yellow",
         "specialId": "leaping_attack",
-        "heroId": "oriental_female_guard"
+        "heroId": "oriental_female_guard",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Dawa Costume1",
@@ -23156,7 +27413,9 @@ window.allHeroesExtra = [
         "rarity": 3,
         "element": "Yellow",
         "specialId": "leaping_attack",
-        "heroId": "oriental_female_guard_costume_soldier"
+        "heroId": "oriental_female_guard_costume_soldier",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Dawa Toon",
@@ -23177,7 +27436,11 @@ window.allHeroesExtra = [
         "rarity": 3,
         "element": "Yellow",
         "specialId": "leaping_attack",
-        "heroId": "oriental_female_guard_costume_cute"
+        "heroId": "oriental_female_guard_costume_cute",
+        "passiveSkills": [
+            "toon_resist_debuffs_manareduction_dispels"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Dolrak",
@@ -23196,7 +27459,12 @@ window.allHeroesExtra = [
         "rarity": 3,
         "element": "Yellow",
         "specialId": "sunscreen_blast",
-        "heroId": "beachparty_dolrak"
+        "heroId": "beachparty_dolrak",
+        "passiveSkills": [
+            "resist_water",
+            "underwater_on_special_beach"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Edelaide",
@@ -23215,7 +27483,12 @@ window.allHeroesExtra = [
         "rarity": 3,
         "element": "Yellow",
         "specialId": "nomadic_hymn",
-        "heroId": "monster_hunter_edelaide"
+        "heroId": "monster_hunter_edelaide",
+        "passiveSkills": [
+            "hunters_mark_on_special",
+            "special_damage_reduction_monster_hunters"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Felton",
@@ -23234,7 +27507,11 @@ window.allHeroesExtra = [
         "rarity": 3,
         "element": "Yellow",
         "specialId": "covert_stab",
-        "heroId": "musketeer_felton"
+        "heroId": "musketeer_felton",
+        "passiveSkills": [
+            "damage_all_enemies_on_cover_or_special_damage_received"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Gan Ju",
@@ -23251,7 +27528,9 @@ window.allHeroesExtra = [
         "rarity": 3,
         "element": "Yellow",
         "specialId": "mystic_chop",
-        "heroId": "oriental_panda_berserker"
+        "heroId": "oriental_panda_berserker",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Gan Ju Costume1",
@@ -23272,7 +27551,9 @@ window.allHeroesExtra = [
         "rarity": 3,
         "element": "Yellow",
         "specialId": "mystic_chop",
-        "heroId": "oriental_panda_berserker_costume_farmer"
+        "heroId": "oriental_panda_berserker_costume_farmer",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Gan Ju Toon",
@@ -23294,7 +27575,11 @@ window.allHeroesExtra = [
         "rarity": 3,
         "element": "Yellow",
         "specialId": "mystic_chop",
-        "heroId": "oriental_panda_berserker_costume_cute"
+        "heroId": "oriental_panda_berserker_costume_cute",
+        "passiveSkills": [
+            "toon_resist_debuffs_manareduction_dispels"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Gan Ju Glass",
@@ -23316,7 +27601,11 @@ window.allHeroesExtra = [
         "rarity": 3,
         "element": "Yellow",
         "specialId": "mystic_chop",
-        "heroId": "oriental_panda_berserker_costume_glass"
+        "heroId": "oriental_panda_berserker_costume_glass",
+        "passiveSkills": [
+            "glass_reflect_debuffs"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Jaco",
@@ -23334,7 +27623,11 @@ window.allHeroesExtra = [
         "rarity": 3,
         "element": "Yellow",
         "specialId": "dubious_merchandise",
-        "heroId": "tales1_jaco"
+        "heroId": "tales1_jaco",
+        "passiveSkills": [
+            "tales1_extra_special_damage_and_add_critical"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Jaco Costume1",
@@ -23356,7 +27649,13 @@ window.allHeroesExtra = [
         "rarity": 3,
         "element": "Yellow",
         "specialId": "dubious_merchandise",
-        "heroId": "tales1_jaco_costume_alchemist"
+        "heroId": "tales1_jaco_costume_alchemist",
+        "passiveSkills": [
+            "tales1_extra_special_damage_and_add_critical"
+        ],
+        "costumeBonusPassiveSkillIds": [
+            "resist_insanity"
+        ]
     },
     {
         "name": "Jolly",
@@ -23375,7 +27674,9 @@ window.allHeroesExtra = [
         "rarity": 3,
         "element": "Yellow",
         "specialId": "birch_blessing",
-        "heroId": "christmas_jolly"
+        "heroId": "christmas_jolly",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Kailani",
@@ -23392,7 +27693,9 @@ window.allHeroesExtra = [
         "rarity": 3,
         "element": "Yellow",
         "specialId": "stone_skin",
-        "heroId": "oriental_female_mage"
+        "heroId": "oriental_female_mage",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Kailani Costume1",
@@ -23413,7 +27716,9 @@ window.allHeroesExtra = [
         "rarity": 3,
         "element": "Yellow",
         "specialId": "stone_skin",
-        "heroId": "oriental_female_mage_costume_mender"
+        "heroId": "oriental_female_mage_costume_mender",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Kailani Toon",
@@ -23434,7 +27739,11 @@ window.allHeroesExtra = [
         "rarity": 3,
         "element": "Yellow",
         "specialId": "stone_skin",
-        "heroId": "oriental_female_mage_costume_cute"
+        "heroId": "oriental_female_mage_costume_cute",
+        "passiveSkills": [
+            "toon_resist_debuffs_manareduction_dispels"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Kailani Glass",
@@ -23456,7 +27765,11 @@ window.allHeroesExtra = [
         "rarity": 3,
         "element": "Yellow",
         "specialId": "stone_skin",
-        "heroId": "oriental_female_mage_costume_glass"
+        "heroId": "oriental_female_mage_costume_glass",
+        "passiveSkills": [
+            "glass_reflect_debuffs"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Kinsaishi",
@@ -23472,7 +27785,9 @@ window.allHeroesExtra = [
         "rarity": 3,
         "element": "Yellow",
         "specialId": "lightning_stream",
-        "heroId": "ninja_kinsaishi"
+        "heroId": "ninja_kinsaishi",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Kvasir",
@@ -23490,7 +27805,9 @@ window.allHeroesExtra = [
         "rarity": 3,
         "element": "Yellow",
         "specialId": "bee_bravado",
-        "heroId": "s3_kvasir"
+        "heroId": "s3_kvasir",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Kvasir Costume1",
@@ -23512,7 +27829,9 @@ window.allHeroesExtra = [
         "rarity": 3,
         "element": "Yellow",
         "specialId": "bee_bravado",
-        "heroId": "s3_kvasir_costume_captain"
+        "heroId": "s3_kvasir_costume_captain",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Melia",
@@ -23529,7 +27848,9 @@ window.allHeroesExtra = [
         "rarity": 3,
         "element": "Yellow",
         "specialId": "atlantean_blade",
-        "heroId": "s2_merwoman"
+        "heroId": "s2_merwoman",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Melia Costume1",
@@ -23550,7 +27871,9 @@ window.allHeroesExtra = [
         "rarity": 3,
         "element": "Yellow",
         "specialId": "atlantean_blade",
-        "heroId": "s2_merwoman_costume_emissary"
+        "heroId": "s2_merwoman_costume_emissary",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Paeia",
@@ -23568,7 +27891,11 @@ window.allHeroesExtra = [
         "rarity": 3,
         "element": "Yellow",
         "specialId": "owls_blessing",
-        "heroId": "owl_paeia"
+        "heroId": "owl_paeia",
+        "passiveSkills": [
+            "mana_generation_modifier_all_enemies_stronger"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Pixie",
@@ -23585,7 +27912,9 @@ window.allHeroesExtra = [
         "rarity": 3,
         "element": "Yellow",
         "specialId": "pixie_dust",
-        "heroId": "fables_pixie"
+        "heroId": "fables_pixie",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Poppy",
@@ -23602,7 +27931,11 @@ window.allHeroesExtra = [
         "rarity": 3,
         "element": "Yellow",
         "specialId": "ricochet_bolt",
-        "heroId": "s4_poppy"
+        "heroId": "s4_poppy",
+        "passiveSkills": [
+            "increase_special_damage"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Poppy Costume1",
@@ -23623,7 +27956,11 @@ window.allHeroesExtra = [
         "rarity": 3,
         "element": "Yellow",
         "specialId": "ricochet_bolt",
-        "heroId": "s4_poppy_costume_lodger"
+        "heroId": "s4_poppy_costume_lodger",
+        "passiveSkills": [
+            "increase_special_damage"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Rekhetre",
@@ -23641,7 +27978,11 @@ window.allHeroesExtra = [
         "rarity": 3,
         "element": "Yellow",
         "specialId": "puzzling_riddle",
-        "heroId": "s5_rekhetre"
+        "heroId": "s5_rekhetre",
+        "passiveSkills": [
+            "sun_extra_special_heal_and_cleanse_latest_debuff"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Rekhetre Costume1",
@@ -23663,7 +28004,14 @@ window.allHeroesExtra = [
         "rarity": 3,
         "element": "Yellow",
         "specialId": "puzzling_riddle",
-        "heroId": "s5_rekhetre_costume_artist"
+        "heroId": "s5_rekhetre_costume_artist",
+        "passiveSkills": [
+            "sun_extra_special_heal_and_cleanse_latest_debuff"
+        ],
+        "costumeBonusPassiveSkillIds": [
+            "heal_on_buff",
+            "guaranteed_passive_effects_on_special"
+        ]
     },
     {
         "name": "Ribbit",
@@ -23681,7 +28029,12 @@ window.allHeroesExtra = [
         "rarity": 3,
         "element": "Yellow",
         "specialId": "amphibian_sword_sting",
-        "heroId": "mighty_pet_ribbit"
+        "heroId": "mighty_pet_ribbit",
+        "passiveSkills": [
+            "heal_and_add_mana_on_ally_minion",
+            "damage_enemies_on_enemy_parasite"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Rustbeak",
@@ -23700,7 +28053,12 @@ window.allHeroesExtra = [
         "rarity": 3,
         "element": "Yellow",
         "specialId": "swooping_support",
-        "heroId": "construct_rustbeak"
+        "heroId": "construct_rustbeak",
+        "passiveSkills": [
+            "repair_core",
+            "resist_special_blocking"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Sally",
@@ -23716,7 +28074,9 @@ window.allHeroesExtra = [
         "rarity": 3,
         "element": "Yellow",
         "specialId": "piercing_sabre",
-        "heroId": "pirate_sally"
+        "heroId": "pirate_sally",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Saskia",
@@ -23735,7 +28095,13 @@ window.allHeroesExtra = [
         "rarity": 3,
         "element": "Yellow",
         "specialId": "rejuvenating_leap",
-        "heroId": "faun_saskia"
+        "heroId": "faun_saskia",
+        "passiveSkills": [
+            "resist_negative_defense_modifiers_including_wither",
+            "resist_insanity",
+            "minion_and_mega_minion_accuracy_modifier"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Aeschere",
@@ -23754,7 +28120,12 @@ window.allHeroesExtra = [
         "rarity": 4,
         "element": "Yellow",
         "specialId": "wise_mans_counsel",
-        "heroId": "beowulf_aeschere"
+        "heroId": "beowulf_aeschere",
+        "passiveSkills": [
+            "mana_on_debuff",
+            "resist_mana_reductions_with_health_boost_and_mana"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Anastasia",
@@ -23773,7 +28144,11 @@ window.allHeroesExtra = [
         "rarity": 4,
         "element": "Yellow",
         "specialId": "cheerful_charm",
-        "heroId": "magic_anastasia"
+        "heroId": "magic_anastasia",
+        "passiveSkills": [
+            "magic_mana_regen_debuff_on_special"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Bellerive",
@@ -23790,7 +28165,11 @@ window.allHeroesExtra = [
         "rarity": 4,
         "element": "Yellow",
         "specialId": "sanction_for_heresy",
-        "heroId": "gargoyle_bellerive"
+        "heroId": "gargoyle_bellerive",
+        "passiveSkills": [
+            "gargoyle_stone"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Bogart",
@@ -23809,7 +28188,12 @@ window.allHeroesExtra = [
         "rarity": 4,
         "element": "Yellow",
         "specialId": "bone_club_clonk",
-        "heroId": "monster_hunter_bogart"
+        "heroId": "monster_hunter_bogart",
+        "passiveSkills": [
+            "hunters_mark_on_special",
+            "monster_hunter_reallocate_debuff_or_heal"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Chao",
@@ -23826,7 +28210,9 @@ window.allHeroesExtra = [
         "rarity": 4,
         "element": "Yellow",
         "specialId": "tactical_cut",
-        "heroId": "oriental_falconer"
+        "heroId": "oriental_falconer",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Chao Costume1",
@@ -23848,7 +28234,9 @@ window.allHeroesExtra = [
         "rarity": 4,
         "element": "Yellow",
         "specialId": "tactical_cut",
-        "heroId": "oriental_falconer_costume_dodo"
+        "heroId": "oriental_falconer_costume_dodo",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Chao Costume2",
@@ -23869,7 +28257,9 @@ window.allHeroesExtra = [
         "rarity": 4,
         "element": "Yellow",
         "specialId": "tactical_cut",
-        "heroId": "oriental_falconer_costume_cub"
+        "heroId": "oriental_falconer_costume_cub",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Chao Toon",
@@ -23891,7 +28281,11 @@ window.allHeroesExtra = [
         "rarity": 4,
         "element": "Yellow",
         "specialId": "tactical_cut",
-        "heroId": "oriental_falconer_costume_cute"
+        "heroId": "oriental_falconer_costume_cute",
+        "passiveSkills": [
+            "toon_resist_debuffs_manareduction_dispels"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "D'Andre",
@@ -23909,7 +28303,9 @@ window.allHeroesExtra = [
         "rarity": 4,
         "element": "Yellow",
         "specialId": "vitalizing_show",
-        "heroId": "circus_dandre"
+        "heroId": "circus_dandre",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Danzaburo",
@@ -23929,7 +28325,9 @@ window.allHeroesExtra = [
         "rarity": 4,
         "element": "Yellow",
         "specialId": "tricksters_exchange",
-        "heroId": "s2_tanuki_raccoon"
+        "heroId": "s2_tanuki_raccoon",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Danzaburo Costume1",
@@ -23954,7 +28352,9 @@ window.allHeroesExtra = [
         "rarity": 4,
         "element": "Yellow",
         "specialId": "tricksters_exchange",
-        "heroId": "s2_tanuki_raccoon_costume_merchant"
+        "heroId": "s2_tanuki_raccoon_costume_merchant",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Errin",
@@ -23973,7 +28373,13 @@ window.allHeroesExtra = [
         "rarity": 4,
         "element": "Yellow",
         "specialId": "mischievous_tiein",
-        "heroId": "astral_dwarf_errin"
+        "heroId": "astral_dwarf_errin",
+        "passiveSkills": [
+            "eat_fiends_on_special_cast",
+            "resist_negative_minion_and_mega_minion_effects",
+            "bypass_minions_and_mega_minions"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Fjalar",
@@ -23995,7 +28401,12 @@ window.allHeroesExtra = [
         "rarity": 4,
         "element": "Yellow",
         "specialId": "poetic_justice",
-        "heroId": "tales2_fjalar"
+        "heroId": "tales2_fjalar",
+        "passiveSkills": [
+            "molten_core",
+            "resist_burn_with_health_boost_and_mana"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Goldie",
@@ -24013,7 +28424,11 @@ window.allHeroesExtra = [
         "rarity": 4,
         "element": "Yellow",
         "specialId": "magic_mirror_of_power",
-        "heroId": "goblin_goldie"
+        "heroId": "goblin_goldie",
+        "passiveSkills": [
+            "goblin_damage_and_accuracy_debuff_on_special"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Gretel",
@@ -24031,7 +28446,9 @@ window.allHeroesExtra = [
         "rarity": 4,
         "element": "Yellow",
         "specialId": "witch_slayer",
-        "heroId": "fables_gretel"
+        "heroId": "fables_gretel",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Griffin",
@@ -24048,7 +28465,11 @@ window.allHeroesExtra = [
         "rarity": 4,
         "element": "Yellow",
         "specialId": "invisible_strike",
-        "heroId": "s4_griffin"
+        "heroId": "s4_griffin",
+        "passiveSkills": [
+            "increase_special_damage"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Griffin Costume1",
@@ -24069,7 +28490,11 @@ window.allHeroesExtra = [
         "rarity": 4,
         "element": "Yellow",
         "specialId": "invisible_strike",
-        "heroId": "s4_griffin_costume_priest"
+        "heroId": "s4_griffin_costume_priest",
+        "passiveSkills": [
+            "increase_special_damage"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Gu Dasao",
@@ -24087,7 +28512,13 @@ window.allHeroesExtra = [
         "rarity": 4,
         "element": "Yellow",
         "specialId": "intimidating_stance",
-        "heroId": "outlaw_gu_dasao"
+        "heroId": "outlaw_gu_dasao",
+        "passiveSkills": [
+            "resist_bleed",
+            "righteous_rebellion_parent",
+            "cleanse_on_special_critical_damage_all_safe"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Guardian Jackal",
@@ -24104,7 +28535,9 @@ window.allHeroesExtra = [
         "rarity": 4,
         "element": "Yellow",
         "specialId": "ray_strike",
-        "heroId": "guardian_jackal_assassin"
+        "heroId": "guardian_jackal_assassin",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Guardian Jackal Costume1",
@@ -24125,7 +28558,9 @@ window.allHeroesExtra = [
         "rarity": 4,
         "element": "Yellow",
         "specialId": "ray_strike",
-        "heroId": "guardian_jackal_assassin_costume_bones"
+        "heroId": "guardian_jackal_assassin_costume_bones",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Gullinbursti",
@@ -24144,7 +28579,9 @@ window.allHeroesExtra = [
         "rarity": 4,
         "element": "Yellow",
         "specialId": "angry_boar",
-        "heroId": "s3_gullinbursti"
+        "heroId": "s3_gullinbursti",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Gullinbursti Costume1",
@@ -24167,7 +28604,9 @@ window.allHeroesExtra = [
         "rarity": 4,
         "element": "Yellow",
         "specialId": "angry_boar",
-        "heroId": "s3_gullinbursti_costume_toxic"
+        "heroId": "s3_gullinbursti_costume_toxic",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Holly",
@@ -24185,7 +28624,9 @@ window.allHeroesExtra = [
         "rarity": 4,
         "element": "Yellow",
         "specialId": "hearty_stew",
-        "heroId": "christmas_holly"
+        "heroId": "christmas_holly",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Hu Tao",
@@ -24202,7 +28643,9 @@ window.allHeroesExtra = [
         "rarity": 4,
         "element": "Yellow",
         "specialId": "sonic_wall",
-        "heroId": "oriental_panda_warrior"
+        "heroId": "oriental_panda_warrior",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Hu Tao Costume1",
@@ -24224,7 +28667,9 @@ window.allHeroesExtra = [
         "rarity": 4,
         "element": "Yellow",
         "specialId": "sonic_wall",
-        "heroId": "oriental_panda_warrior_costume_armor"
+        "heroId": "oriental_panda_warrior_costume_armor",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Hu Tao Costume2",
@@ -24246,7 +28691,9 @@ window.allHeroesExtra = [
         "rarity": 4,
         "element": "Yellow",
         "specialId": "sonic_wall",
-        "heroId": "oriental_panda_warrior_costume_dueller"
+        "heroId": "oriental_panda_warrior_costume_dueller",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Hu Tao Toon",
@@ -24268,7 +28715,11 @@ window.allHeroesExtra = [
         "rarity": 4,
         "element": "Yellow",
         "specialId": "sonic_wall",
-        "heroId": "oriental_panda_warrior_costume_cute"
+        "heroId": "oriental_panda_warrior_costume_cute",
+        "passiveSkills": [
+            "toon_resist_debuffs_manareduction_dispels"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Hu Tao Glass",
@@ -24290,7 +28741,11 @@ window.allHeroesExtra = [
         "rarity": 4,
         "element": "Yellow",
         "specialId": "sonic_wall",
-        "heroId": "oriental_panda_warrior_costume_glass"
+        "heroId": "oriental_panda_warrior_costume_glass",
+        "passiveSkills": [
+            "glass_reflect_debuffs"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Lady Woolerton",
@@ -24307,7 +28762,9 @@ window.allHeroesExtra = [
         "rarity": 4,
         "element": "Yellow",
         "specialId": "smooth_treatment",
-        "heroId": "easter_lady_woolerton"
+        "heroId": "easter_lady_woolerton",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Li Xiu",
@@ -24324,7 +28781,9 @@ window.allHeroesExtra = [
         "rarity": 4,
         "element": "Yellow",
         "specialId": "slash_of_seven_blades",
-        "heroId": "oriental_female_templar"
+        "heroId": "oriental_female_templar",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Li Xiu Costume1",
@@ -24345,7 +28804,9 @@ window.allHeroesExtra = [
         "rarity": 4,
         "element": "Yellow",
         "specialId": "slash_of_seven_blades",
-        "heroId": "oriental_female_templar_costume_kimono"
+        "heroId": "oriental_female_templar_costume_kimono",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Li Xiu Costume2",
@@ -24366,7 +28827,9 @@ window.allHeroesExtra = [
         "rarity": 4,
         "element": "Yellow",
         "specialId": "slash_of_seven_blades",
-        "heroId": "oriental_female_templar_costume_fireworks"
+        "heroId": "oriental_female_templar_costume_fireworks",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Li Xiu Toon",
@@ -24388,7 +28851,11 @@ window.allHeroesExtra = [
         "rarity": 4,
         "element": "Yellow",
         "specialId": "slash_of_seven_blades",
-        "heroId": "oriental_female_templar_costume_cute"
+        "heroId": "oriental_female_templar_costume_cute",
+        "passiveSkills": [
+            "toon_resist_debuffs_manareduction_dispels"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Li Xiu Glass",
@@ -24410,7 +28877,11 @@ window.allHeroesExtra = [
         "rarity": 4,
         "element": "Yellow",
         "specialId": "slash_of_seven_blades",
-        "heroId": "oriental_female_templar_costume_glass"
+        "heroId": "oriental_female_templar_costume_glass",
+        "passiveSkills": [
+            "glass_reflect_debuffs"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Mist",
@@ -24429,7 +28900,9 @@ window.allHeroesExtra = [
         "rarity": 4,
         "element": "Yellow",
         "specialId": "valkyrie_charge",
-        "heroId": "s3_mist"
+        "heroId": "s3_mist",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Scoratek",
@@ -24447,7 +28920,11 @@ window.allHeroesExtra = [
         "rarity": 4,
         "element": "Yellow",
         "specialId": "scarab_throw",
-        "heroId": "s5_scoratek"
+        "heroId": "s5_scoratek",
+        "passiveSkills": [
+            "moon_extra_special_damage_and_mana_regen_debuff"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Scoratek Costume1",
@@ -24469,7 +28946,14 @@ window.allHeroesExtra = [
         "rarity": 4,
         "element": "Yellow",
         "specialId": "scarab_throw",
-        "heroId": "s5_scoratek_costume_sentinel"
+        "heroId": "s5_scoratek_costume_sentinel",
+        "passiveSkills": [
+            "moon_extra_special_damage_and_mana_regen_debuff"
+        ],
+        "costumeBonusPassiveSkillIds": [
+            "resist_sand",
+            "iterate_passive_effects_on_special"
+        ]
     },
     {
         "name": "Steropes",
@@ -24486,7 +28970,12 @@ window.allHeroesExtra = [
         "rarity": 4,
         "element": "Yellow",
         "specialId": "artful_recreation",
-        "heroId": "styx_steropes"
+        "heroId": "styx_steropes",
+        "passiveSkills": [
+            "resist_all_defense_debuffs",
+            "reduce_minion_health"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Voluptas",
@@ -24503,7 +28992,11 @@ window.allHeroesExtra = [
         "rarity": 4,
         "element": "Yellow",
         "specialId": "flat_cake_for_sweethearts",
-        "heroId": "valentines_voluptas"
+        "heroId": "valentines_voluptas",
+        "passiveSkills": [
+            "resist_special_blocking"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Waddles",
@@ -24520,7 +29013,12 @@ window.allHeroesExtra = [
         "rarity": 4,
         "element": "Yellow",
         "specialId": "spear_of_loyalty",
-        "heroId": "mighty_pet_waddles"
+        "heroId": "mighty_pet_waddles",
+        "passiveSkills": [
+            "heal_and_add_mana_on_ally_minion",
+            "damage_enemies_on_enemy_parasite"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Wang Yuanji",
@@ -24537,7 +29035,9 @@ window.allHeroesExtra = [
         "rarity": 4,
         "element": "Yellow",
         "specialId": "nobles_empathy",
-        "heroId": "kingdom_wang_yuanji"
+        "heroId": "kingdom_wang_yuanji",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Wang Yuanji Costume1",
@@ -24559,7 +29059,11 @@ window.allHeroesExtra = [
         "rarity": 4,
         "element": "Yellow",
         "specialId": "nobles_empathy",
-        "heroId": "kingdom_wang_yuanji_costume_artisan"
+        "heroId": "kingdom_wang_yuanji_costume_artisan",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": [
+            "kingdom_unstoppable_minions"
+        ]
     },
     {
         "name": "Wu Kong",
@@ -24576,7 +29080,9 @@ window.allHeroesExtra = [
         "rarity": 4,
         "element": "Yellow",
         "specialId": "gamblers_stance",
-        "heroId": "oriental_monkey_captain"
+        "heroId": "oriental_monkey_captain",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Wu Kong Costume1",
@@ -24597,7 +29103,9 @@ window.allHeroesExtra = [
         "rarity": 4,
         "element": "Yellow",
         "specialId": "gamblers_stance",
-        "heroId": "oriental_monkey_captain_costume_warrior"
+        "heroId": "oriental_monkey_captain_costume_warrior",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Wu Kong Costume2",
@@ -24618,7 +29126,9 @@ window.allHeroesExtra = [
         "rarity": 4,
         "element": "Yellow",
         "specialId": "gamblers_stance",
-        "heroId": "oriental_monkey_captain_costume_reveller"
+        "heroId": "oriental_monkey_captain_costume_reveller",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Wu Kong Toon",
@@ -24639,7 +29149,11 @@ window.allHeroesExtra = [
         "rarity": 4,
         "element": "Yellow",
         "specialId": "gamblers_stance",
-        "heroId": "oriental_monkey_captain_costume_cute"
+        "heroId": "oriental_monkey_captain_costume_cute",
+        "passiveSkills": [
+            "toon_resist_debuffs_manareduction_dispels"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Zione",
@@ -24658,7 +29172,11 @@ window.allHeroesExtra = [
         "rarity": 4,
         "element": "Yellow",
         "specialId": "express_delivery",
-        "heroId": "elemental_zione"
+        "heroId": "elemental_zione",
+        "passiveSkills": [
+            "strong_troop_damage_modifier"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Akkorog",
@@ -24675,7 +29193,11 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Yellow",
         "specialId": "colossal_chops",
-        "heroId": "s4_akkorog"
+        "heroId": "s4_akkorog",
+        "passiveSkills": [
+            "increase_special_damage"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Akkorog Costume1",
@@ -24699,7 +29221,13 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Yellow",
         "specialId": "colossal_chops",
-        "heroId": "s4_akkorog_costume_football"
+        "heroId": "s4_akkorog_costume_football",
+        "passiveSkills": [
+            "increase_special_damage"
+        ],
+        "costumeBonusPassiveSkillIds": [
+            "extra_special_increased_damage_against_boosted_health"
+        ]
     },
     {
         "name": "Albin",
@@ -24717,7 +29245,9 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Yellow",
         "specialId": "a_cozy_break",
-        "heroId": "christmas_albin"
+        "heroId": "christmas_albin",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Alvar",
@@ -24736,7 +29266,11 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Yellow",
         "specialId": "scroll_of_new_beginnings",
-        "heroId": "castle_stag_alvar"
+        "heroId": "castle_stag_alvar",
+        "passiveSkills": [
+            "heal_on_buff_alliance_quest_family"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Amund",
@@ -24754,7 +29288,12 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Yellow",
         "specialId": "carve_the_bones",
-        "heroId": "monster_hunter_amund"
+        "heroId": "monster_hunter_amund",
+        "passiveSkills": [
+            "hunters_mark_on_special",
+            "special_damage_reduction_monster_hunters"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Anne",
@@ -24774,7 +29313,9 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Yellow",
         "specialId": "cannon_blast",
-        "heroId": "pirate_anne"
+        "heroId": "pirate_anne",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Anteros",
@@ -24791,7 +29332,11 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Yellow",
         "specialId": "love_at_first_sight",
-        "heroId": "valentines_anteros"
+        "heroId": "valentines_anteros",
+        "passiveSkills": [
+            "resist_special_blocking"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Aouda",
@@ -24808,7 +29353,11 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Yellow",
         "specialId": "blade_of_bundelkhand",
-        "heroId": "s4_aouda"
+        "heroId": "s4_aouda",
+        "passiveSkills": [
+            "increase_special_damage"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Aouda Costume1",
@@ -24830,7 +29379,13 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Yellow",
         "specialId": "blade_of_bundelkhand",
-        "heroId": "s4_aouda_costume_lotus"
+        "heroId": "s4_aouda_costume_lotus",
+        "passiveSkills": [
+            "increase_special_damage"
+        ],
+        "costumeBonusPassiveSkillIds": [
+            "extra_special_increased_damage_against_boosted_health"
+        ]
     },
     {
         "name": "Ashen",
@@ -24849,8 +29404,12 @@ window.allHeroesExtra = [
         "baseHealth": 998,
         "rarity": 5,
         "element": "Yellow",
-        "specialId": "divine_light",
-        "heroId": "fox_ashen"
+        "specialId": "divine_light1",
+        "heroId": "fox_ashen",
+        "passiveSkills": [
+            "reduced_healing_for_all_enemies"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Astrid",
@@ -24868,7 +29427,12 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Yellow",
         "specialId": "booming_mend",
-        "heroId": "bard_astrid"
+        "heroId": "bard_astrid",
+        "passiveSkills": [
+            "set_dance_duration",
+            "set_ballad_duration"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Auricarc",
@@ -24889,7 +29453,11 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Yellow",
         "specialId": "riches_to_poor",
-        "heroId": "moth_auricarc"
+        "heroId": "moth_auricarc",
+        "passiveSkills": [
+            "dodge_enemy_damage_special"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Aviana",
@@ -24908,7 +29476,12 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Yellow",
         "specialId": "falcon_screech",
-        "heroId": "holy_god_aviana"
+        "heroId": "holy_god_aviana",
+        "passiveSkills": [
+            "mana_on_buff",
+            "resist_bleed"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Bai Yeong",
@@ -24927,7 +29500,11 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Yellow",
         "specialId": "stunning_steel",
-        "heroId": "holy_god_bai_yeong"
+        "heroId": "holy_god_bai_yeong",
+        "passiveSkills": [
+            "resist_debuffs_from_minions"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Baishu",
@@ -24946,7 +29523,11 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Yellow",
         "specialId": "masterful_balance",
-        "heroId": "lunar_new_year_baishu"
+        "heroId": "lunar_new_year_baishu",
+        "passiveSkills": [
+            "enemy_minion_follower_silencer"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Caitlin",
@@ -24968,7 +29549,11 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Yellow",
         "specialId": "dispelling_willpower",
-        "heroId": "slayer_caitlin"
+        "heroId": "slayer_caitlin",
+        "passiveSkills": [
+            "resist_status_effect_damage"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Caitlin Costume1",
@@ -24995,7 +29580,13 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Yellow",
         "specialId": "dispelling_willpower",
-        "heroId": "slayer_caitlin_costume_crusader"
+        "heroId": "slayer_caitlin_costume_crusader",
+        "passiveSkills": [
+            "resist_status_effect_damage"
+        ],
+        "costumeBonusPassiveSkillIds": [
+            "extra_special_bleed"
+        ]
     },
     {
         "name": "Celidana",
@@ -25014,7 +29605,12 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Yellow",
         "specialId": "sacrament_of_salvation",
-        "heroId": "holy_god_celidana"
+        "heroId": "holy_god_celidana",
+        "passiveSkills": [
+            "healthboost_on_enemy_special",
+            "resist_max_health_reduction"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Christine Daae",
@@ -25036,7 +29632,12 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Yellow",
         "specialId": "ballad_of_passion",
-        "heroId": "ballerina_christine_daae"
+        "heroId": "ballerina_christine_daae",
+        "passiveSkills": [
+            "heal_on_expired_or_cleared_debuff_fast",
+            "resist_attack_modifier_debuffs"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Cleopatra",
@@ -25054,7 +29655,11 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Yellow",
         "specialId": "channeler_of_the_gods",
-        "heroId": "s5_cleopatra"
+        "heroId": "s5_cleopatra",
+        "passiveSkills": [
+            "sun_extra_special_heal_and_cleanse_latest_debuff"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Cleopatra Costume1",
@@ -25078,7 +29683,14 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Yellow",
         "specialId": "channeler_of_the_gods",
-        "heroId": "s5_cleopatra_costume_feline"
+        "heroId": "s5_cleopatra_costume_feline",
+        "passiveSkills": [
+            "sun_extra_special_heal_and_cleanse_latest_debuff"
+        ],
+        "costumeBonusPassiveSkillIds": [
+            "heal_on_buff",
+            "guaranteed_passive_effects_on_special"
+        ]
     },
     {
         "name": "Constance",
@@ -25096,7 +29708,11 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Yellow",
         "specialId": "sword_dance",
-        "heroId": "musketeer_constance"
+        "heroId": "musketeer_constance",
+        "passiveSkills": [
+            "damage_all_enemies_on_cover_or_special_damage_received"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Dabria",
@@ -25114,7 +29730,12 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Yellow",
         "specialId": "liturgy_of_the_fallen",
-        "heroId": "monster_hunter_dabria"
+        "heroId": "monster_hunter_dabria",
+        "passiveSkills": [
+            "hunters_mark_on_special",
+            "monster_hunter_reallocate_debuff_or_heal"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Delilah",
@@ -25132,7 +29753,9 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Yellow",
         "specialId": "summon_temple_guardians",
-        "heroId": "holy_god_delilah"
+        "heroId": "holy_god_delilah",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Delilah Costume1",
@@ -25155,7 +29778,11 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Yellow",
         "specialId": "summon_temple_guardians",
-        "heroId": "holy_god_delilah_costume_guardian"
+        "heroId": "holy_god_delilah_costume_guardian",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": [
+            "extra_special_cleanse_newest"
+        ]
     },
     {
         "name": "Devana",
@@ -25175,7 +29802,12 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Yellow",
         "specialId": "arrows_and_claws",
-        "heroId": "holy_god_devana"
+        "heroId": "holy_god_devana",
+        "passiveSkills": [
+            "resist_negative_minion_effects",
+            "resist_buff_dispels"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Director Zuri",
@@ -25193,7 +29825,9 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Yellow",
         "specialId": "directors_blessing",
-        "heroId": "circus_director_zuri"
+        "heroId": "circus_director_zuri",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Dolores",
@@ -25214,7 +29848,11 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Yellow",
         "specialId": "yellow_signs",
-        "heroId": "shadow_dolores"
+        "heroId": "shadow_dolores",
+        "passiveSkills": [
+            "insanity_damage_reduction"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Drake Fong",
@@ -25233,7 +29871,9 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Yellow",
         "specialId": "flails_of_fury",
-        "heroId": "holy_god_drake_lee"
+        "heroId": "holy_god_drake_lee",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Drake Fong Costume1",
@@ -25257,7 +29897,11 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Yellow",
         "specialId": "flails_of_fury",
-        "heroId": "holy_god_drake_lee_costume_serene"
+        "heroId": "holy_god_drake_lee_costume_serene",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": [
+            "extra_special_dispel_newest"
+        ]
     },
     {
         "name": "Eloise",
@@ -25274,7 +29918,9 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Yellow",
         "specialId": "ravaging_talons",
-        "heroId": "castle_raven_eloise"
+        "heroId": "castle_raven_eloise",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Ephyra",
@@ -25293,7 +29939,11 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Yellow",
         "specialId": "seabed_pirouette",
-        "heroId": "tales1_ephyra"
+        "heroId": "tales1_ephyra",
+        "passiveSkills": [
+            "tales1_extra_special_damage_and_add_critical"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Ephyra Costume1",
@@ -25316,7 +29966,13 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Yellow",
         "specialId": "seabed_pirouette",
-        "heroId": "tales1_ephyra_costume_reef"
+        "heroId": "tales1_ephyra_costume_reef",
+        "passiveSkills": [
+            "tales1_extra_special_damage_and_add_critical"
+        ],
+        "costumeBonusPassiveSkillIds": [
+            "resist_insanity"
+        ]
     },
     {
         "name": "Erlang Shen",
@@ -25333,7 +29989,9 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Yellow",
         "specialId": "deteriorating_morale",
-        "heroId": "journey_erlang_shen"
+        "heroId": "journey_erlang_shen",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Eset",
@@ -25353,7 +30011,11 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Yellow",
         "specialId": "holy_aura",
-        "heroId": "s5_eset"
+        "heroId": "s5_eset",
+        "passiveSkills": [
+            "sun_extra_special_damage_and_attack_debuff"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Eset Costume1",
@@ -25377,7 +30039,14 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Yellow",
         "specialId": "holy_aura",
-        "heroId": "s5_eset_costume_goldensun"
+        "heroId": "s5_eset_costume_goldensun",
+        "passiveSkills": [
+            "sun_extra_special_damage_and_attack_debuff"
+        ],
+        "costumeBonusPassiveSkillIds": [
+            "mana_on_enemy_health_boost_special",
+            "iterate_passive_effects_on_special"
+        ]
     },
     {
         "name": "Experience Mimic Holy",
@@ -25399,7 +30068,12 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Yellow",
         "specialId": "mimic_training_hero_yellow_bite",
-        "heroId": "mimic_training_hero_yellow"
+        "heroId": "mimic_training_hero_yellow",
+        "passiveSkills": [
+            "mimic_training_hero_yellow",
+            "never_miss_special"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Faeona",
@@ -25419,7 +30093,12 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Yellow",
         "specialId": "revitalizing_orb",
-        "heroId": "holy_god_faeona"
+        "heroId": "holy_god_faeona",
+        "passiveSkills": [
+            "mana_on_buff",
+            "resist_direct_mana_reductions"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Faline",
@@ -25436,7 +30115,9 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Yellow",
         "specialId": "chakram_kick",
-        "heroId": "circus_faline"
+        "heroId": "circus_faline",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Frank 'Fangs' Brimwell",
@@ -25454,7 +30135,12 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Yellow",
         "specialId": "esprit_de_corps",
-        "heroId": "garrison_frank_fangs_brimwell"
+        "heroId": "garrison_frank_fangs_brimwell",
+        "passiveSkills": [
+            "remove_wither_from_allies",
+            "resist_direct_mana_reductions"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Furdinand",
@@ -25474,7 +30160,12 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Yellow",
         "specialId": "bark_of_protection",
-        "heroId": "mighty_pet_furdinand"
+        "heroId": "mighty_pet_furdinand",
+        "passiveSkills": [
+            "heal_and_add_mana_on_ally_minion",
+            "damage_enemies_on_enemy_parasite"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Gandr",
@@ -25497,7 +30188,12 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Yellow",
         "specialId": "spearwand_gale",
-        "heroId": "tales2_gandr"
+        "heroId": "tales2_gandr",
+        "passiveSkills": [
+            "molten_core",
+            "resist_burn_with_health_boost_and_mana"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Gideon",
@@ -25516,7 +30212,13 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Yellow",
         "specialId": "purifying_light",
-        "heroId": "faun_gideon"
+        "heroId": "faun_gideon",
+        "passiveSkills": [
+            "mana_on_debuff",
+            "resist_insanity",
+            "resist_negative_defense_modifiers_including_wither"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Gilligan",
@@ -25534,7 +30236,12 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Yellow",
         "specialId": "reckless_charge",
-        "heroId": "holy_god_gilligan"
+        "heroId": "holy_god_gilligan",
+        "passiveSkills": [
+            "fixed_mana_per_enemy_buff",
+            "resist_mana_debuffs"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Goldrip",
@@ -25552,7 +30259,12 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Yellow",
         "specialId": "coins_of_pain",
-        "heroId": "slime_goldrip"
+        "heroId": "slime_goldrip",
+        "passiveSkills": [
+            "summon_slime_minion_on_damage_yellow",
+            "summon_slime_minion_on_death_yellow"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Gongniu",
@@ -25570,7 +30282,12 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Yellow",
         "specialId": "rejuvenating_elixir",
-        "heroId": "lunar_new_year_gongniu"
+        "heroId": "lunar_new_year_gongniu",
+        "passiveSkills": [
+            "enemy_minion_follower_silencer",
+            "heal_on_debuff"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Gooric",
@@ -25588,7 +30305,12 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Yellow",
         "specialId": "reviving_touch",
-        "heroId": "slime_gooric"
+        "heroId": "slime_gooric",
+        "passiveSkills": [
+            "summon_slime_minion_on_damage_yellow",
+            "summon_slime_minion_on_death_yellow"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Grilka",
@@ -25607,7 +30329,11 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Yellow",
         "specialId": "holy_hibiscus_ale",
-        "heroId": "elemental_grilka"
+        "heroId": "elemental_grilka",
+        "passiveSkills": [
+            "strong_troop_damage_modifier"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Guardian Elephant",
@@ -25628,7 +30354,11 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Yellow",
         "specialId": "rain_of_arrows",
-        "heroId": "guardian_elephant"
+        "heroId": "guardian_elephant",
+        "passiveSkills": [
+            "resist_status_effect_damage"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Guardian Gazelle",
@@ -25650,7 +30380,9 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Yellow",
         "specialId": "dance_of_spirits",
-        "heroId": "guardian_gazelle"
+        "heroId": "guardian_gazelle",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Guardian Gazelle Costume1",
@@ -25676,7 +30408,9 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Yellow",
         "specialId": "dance_of_spirits",
-        "heroId": "guardian_gazelle_costume_bandalore"
+        "heroId": "guardian_gazelle_costume_bandalore",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Guardian Owl",
@@ -25695,7 +30429,9 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Yellow",
         "specialId": "stately_retribution",
-        "heroId": "guardian_owl_gentleman"
+        "heroId": "guardian_owl_gentleman",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Guinevere",
@@ -25713,7 +30449,9 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Yellow",
         "specialId": "word_of_queen",
-        "heroId": "knights_guinevere"
+        "heroId": "knights_guinevere",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Guinevere Costume1",
@@ -25735,7 +30473,9 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Yellow",
         "specialId": "word_of_queen",
-        "heroId": "knights_guinevere_costume_rider"
+        "heroId": "knights_guinevere_costume_rider",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Gwynn",
@@ -25755,7 +30495,12 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Yellow",
         "specialId": "high_energy_field",
-        "heroId": "construct_gwynn"
+        "heroId": "construct_gwynn",
+        "passiveSkills": [
+            "corrosive_core",
+            "resist_special_blocking"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Hachiko",
@@ -25773,7 +30518,12 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Yellow",
         "specialId": "strike_of_a_thousand_howls",
-        "heroId": "mighty_pet_hachiko"
+        "heroId": "mighty_pet_hachiko",
+        "passiveSkills": [
+            "heal_and_add_mana_on_ally_minion",
+            "damage_enemies_on_enemy_parasite"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Hanitra",
@@ -25791,7 +30541,12 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Yellow",
         "specialId": "dancing_dodge",
-        "heroId": "holy_god_hanitra"
+        "heroId": "holy_god_hanitra",
+        "passiveSkills": [
+            "mana_on_buff",
+            "resist_special_blocking"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Haumri",
@@ -25813,7 +30568,13 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Yellow",
         "specialId": "star_trail",
-        "heroId": "astral_dwarf_haumri"
+        "heroId": "astral_dwarf_haumri",
+        "passiveSkills": [
+            "never_miss_special",
+            "resist_negative_minion_and_mega_minion_effects",
+            "bypass_minions_and_mega_minions"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Hilda",
@@ -25835,7 +30596,11 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Yellow",
         "specialId": "drain_strike",
-        "heroId": "gargoyle_hilda"
+        "heroId": "gargoyle_hilda",
+        "passiveSkills": [
+            "gargoyle_soft_skin"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Horus",
@@ -25852,7 +30617,11 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Yellow",
         "specialId": "unrelenting_hunter",
-        "heroId": "s5_horus"
+        "heroId": "s5_horus",
+        "passiveSkills": [
+            "sun_extra_special_damage_and_attack_debuff"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Horus Costume1",
@@ -25873,7 +30642,14 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Yellow",
         "specialId": "unrelenting_hunter",
-        "heroId": "s5_horus_costume_golden"
+        "heroId": "s5_horus_costume_golden",
+        "passiveSkills": [
+            "sun_extra_special_damage_and_attack_debuff"
+        ],
+        "costumeBonusPassiveSkillIds": [
+            "mana_on_enemy_health_boost_special",
+            "iterate_passive_effects_on_special"
+        ]
     },
     {
         "name": "Iga",
@@ -25892,7 +30668,11 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Yellow",
         "specialId": "kunai_assault",
-        "heroId": "ninja_iga"
+        "heroId": "ninja_iga",
+        "passiveSkills": [
+            "reduce_minion_health"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Inari",
@@ -25911,7 +30691,9 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Yellow",
         "specialId": "lucky_nine",
-        "heroId": "s2_fox_girl"
+        "heroId": "s2_fox_girl",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Inari Costume1",
@@ -25934,7 +30716,9 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Yellow",
         "specialId": "lucky_nine",
-        "heroId": "s2_fox_girl_costume_white_kitsune"
+        "heroId": "s2_fox_girl_costume_white_kitsune",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Ironmaw",
@@ -25954,7 +30738,11 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Yellow",
         "specialId": "chains_of_light",
-        "heroId": "elemental_ironmaw"
+        "heroId": "elemental_ironmaw",
+        "passiveSkills": [
+            "strong_troop_damage_modifier"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Ithar",
@@ -25974,7 +30762,12 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Yellow",
         "specialId": "stupendous_break_in",
-        "heroId": "holy_god_ithar"
+        "heroId": "holy_god_ithar",
+        "passiveSkills": [
+            "dodge_enemy_damage_special",
+            "resist_debuffs_from_minions"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Jana",
@@ -25993,7 +30786,11 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Yellow",
         "specialId": "the_two_sides_of_the_moon",
-        "heroId": "masquerade_jana"
+        "heroId": "masquerade_jana",
+        "passiveSkills": [
+            "cleanse_on_own_familiar_death"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Jasper",
@@ -26011,7 +30808,9 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Yellow",
         "specialId": "petals_of_nourishment",
-        "heroId": "easter_jasper"
+        "heroId": "easter_jasper",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Jasper Costume1",
@@ -26033,7 +30832,9 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Yellow",
         "specialId": "petals_of_nourishment",
-        "heroId": "easter_jasper_costume_fisherman"
+        "heroId": "easter_jasper_costume_fisherman",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Jequn",
@@ -26052,7 +30853,11 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Yellow",
         "specialId": "archaic_sacred_symbol",
-        "heroId": "elemental_jequn"
+        "heroId": "elemental_jequn",
+        "passiveSkills": [
+            "strong_troop_damage_modifier"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Jequn Costume1",
@@ -26075,7 +30880,11 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Yellow",
         "specialId": "archaic_sacred_symbol",
-        "heroId": "elemental_jequn_costume_gilded"
+        "heroId": "elemental_jequn_costume_gilded",
+        "passiveSkills": [
+            "strong_troop_damage_modifier_costume"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Joon",
@@ -26092,7 +30901,9 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Yellow",
         "specialId": "solar_beam",
-        "heroId": "oriental_enchanted_monk"
+        "heroId": "oriental_enchanted_monk",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Joon Costume1",
@@ -26113,7 +30924,9 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Yellow",
         "specialId": "solar_beam",
-        "heroId": "oriental_enchanted_monk_costume_tiger"
+        "heroId": "oriental_enchanted_monk_costume_tiger",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Joon Costume2",
@@ -26135,7 +30948,9 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Yellow",
         "specialId": "solar_beam",
-        "heroId": "oriental_enchanted_monk_costume_stoneguard"
+        "heroId": "oriental_enchanted_monk_costume_stoneguard",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Joon Toon",
@@ -26157,7 +30972,11 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Yellow",
         "specialId": "solar_beam",
-        "heroId": "oriental_enchanted_monk_costume_cute"
+        "heroId": "oriental_enchanted_monk_costume_cute",
+        "passiveSkills": [
+            "toon_resist_debuffs_manareduction_dispels"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Joon Glass",
@@ -26179,7 +30998,11 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Yellow",
         "specialId": "solar_beam",
-        "heroId": "oriental_enchanted_monk_costume_glass"
+        "heroId": "oriental_enchanted_monk_costume_glass",
+        "passiveSkills": [
+            "glass_reflect_debuffs"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Jove",
@@ -26197,7 +31020,11 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Yellow",
         "specialId": "strike_from_the_skies",
-        "heroId": "masquerade_jove"
+        "heroId": "masquerade_jove",
+        "passiveSkills": [
+            "cleanse_on_own_familiar_death"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Justice",
@@ -26214,7 +31041,9 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Yellow",
         "specialId": "rite_of_judgement",
-        "heroId": "exalted_female_statue"
+        "heroId": "exalted_female_statue",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Justice Costume1",
@@ -26236,7 +31065,9 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Yellow",
         "specialId": "rite_of_judgement",
-        "heroId": "exalted_female_statue_costume_sungoddess"
+        "heroId": "exalted_female_statue_costume_sungoddess",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Justice Costume2",
@@ -26258,7 +31089,9 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Yellow",
         "specialId": "rite_of_judgement",
-        "heroId": "exalted_female_statue_costume_thorns"
+        "heroId": "exalted_female_statue_costume_thorns",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Justice Toon",
@@ -26280,7 +31113,11 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Yellow",
         "specialId": "rite_of_judgement",
-        "heroId": "exalted_female_statue_costume_cute"
+        "heroId": "exalted_female_statue_costume_cute",
+        "passiveSkills": [
+            "toon_resist_debuffs_manareduction_dispels"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Kara",
@@ -26298,7 +31135,12 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Yellow",
         "specialId": "shieldmaidens_protection",
-        "heroId": "holy_god_kara"
+        "heroId": "holy_god_kara",
+        "passiveSkills": [
+            "resist_all_defense_debuffs",
+            "mana_on_dispel_buff"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Kullervo",
@@ -26315,7 +31157,11 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Yellow",
         "specialId": "heirloom_dagger",
-        "heroId": "kalevala_kullervo"
+        "heroId": "kalevala_kullervo",
+        "passiveSkills": [
+            "heal_mana_on_low_health_once"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Kullervo Costume1",
@@ -26336,7 +31182,11 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Yellow",
         "specialId": "heirloom_dagger",
-        "heroId": "kalevala_kullervo_costume_battle_scarred"
+        "heroId": "kalevala_kullervo_costume_battle_scarred",
+        "passiveSkills": [
+            "heal_mana_on_low_health_once"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Kushanku",
@@ -26355,7 +31205,9 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Yellow",
         "specialId": "tumbling_dragon",
-        "heroId": "ninja_kushanku"
+        "heroId": "ninja_kushanku",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Laohu",
@@ -26373,7 +31225,11 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Yellow",
         "specialId": "fierce_fu_jow_pai",
-        "heroId": "lunar_new_year_laohu"
+        "heroId": "lunar_new_year_laohu",
+        "passiveSkills": [
+            "enemy_minion_follower_silencer"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Lazara",
@@ -26392,7 +31248,13 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Yellow",
         "specialId": "home_run",
-        "heroId": "champions_lazara"
+        "heroId": "champions_lazara",
+        "passiveSkills": [
+            "damage_on_enemy_cleanse",
+            "health_boost_on_ally_cleanse",
+            "mana_gen_on_debuff"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Lemonwood",
@@ -26413,7 +31275,12 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Yellow",
         "specialId": "wandering_star_shot",
-        "heroId": "astral_lemonwood"
+        "heroId": "astral_lemonwood",
+        "passiveSkills": [
+            "share_received_damage",
+            "resist_poison"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Leonidas",
@@ -26431,7 +31298,9 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Yellow",
         "specialId": "spartan_cleave",
-        "heroId": "oriental_warrior_king"
+        "heroId": "oriental_warrior_king",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Leonidas Costume1",
@@ -26453,7 +31322,9 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Yellow",
         "specialId": "spartan_cleave",
-        "heroId": "oriental_warrior_king_costume_roman"
+        "heroId": "oriental_warrior_king_costume_roman",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Leonidas Costume2",
@@ -26475,7 +31346,9 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Yellow",
         "specialId": "spartan_cleave",
-        "heroId": "oriental_warrior_king_costume_mage"
+        "heroId": "oriental_warrior_king_costume_mage",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Leonidas Toon",
@@ -26498,7 +31371,11 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Yellow",
         "specialId": "spartan_cleave",
-        "heroId": "oriental_warrior_king_costume_cute"
+        "heroId": "oriental_warrior_king_costume_cute",
+        "passiveSkills": [
+            "toon_resist_debuffs_manareduction_dispels"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Leonidas Glass",
@@ -26521,7 +31398,11 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Yellow",
         "specialId": "spartan_cleave",
-        "heroId": "oriental_warrior_king_costume_glass"
+        "heroId": "oriental_warrior_king_costume_glass",
+        "passiveSkills": [
+            "glass_reflect_debuffs"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Livia",
@@ -26540,7 +31421,11 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Yellow",
         "specialId": "rites_of_inner_knowledge",
-        "heroId": "owl_livia"
+        "heroId": "owl_livia",
+        "passiveSkills": [
+            "mana_generation_modifier_all_enemies_stronger"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Malin",
@@ -26560,7 +31445,12 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Yellow",
         "specialId": "wild_cleave",
-        "heroId": "monster_hunter_malin"
+        "heroId": "monster_hunter_malin",
+        "passiveSkills": [
+            "hunters_mark_on_special",
+            "special_damage_reduction_monster_hunters"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Malosi",
@@ -26578,7 +31468,11 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Yellow",
         "specialId": "power_punch",
-        "heroId": "holy_god_malosi"
+        "heroId": "holy_god_malosi",
+        "passiveSkills": [
+            "resist_defense_modifier_debuffs"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Matilda",
@@ -26596,7 +31490,11 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Yellow",
         "specialId": "muffin_poisoning",
-        "heroId": "halloween_matilda"
+        "heroId": "halloween_matilda",
+        "passiveSkills": [
+            "halloween_steal_buff_or_deal_damage"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "May",
@@ -26614,7 +31512,12 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Yellow",
         "specialId": "bounty_of_the_spring",
-        "heroId": "holy_god_may"
+        "heroId": "holy_god_may",
+        "passiveSkills": [
+            "mana_on_buff",
+            "resist_minion_removal"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Meg Giry",
@@ -26633,7 +31536,12 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Yellow",
         "specialId": "deceptive_smalltalk",
-        "heroId": "ballerina_meg_giry"
+        "heroId": "ballerina_meg_giry",
+        "passiveSkills": [
+            "heal_on_expired_or_cleared_debuff",
+            "resist_defense_modifier_debuffs"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Melodymuse",
@@ -26651,7 +31559,12 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Yellow",
         "specialId": "moonlight_crescendo",
-        "heroId": "astral_melodymuse"
+        "heroId": "astral_melodymuse",
+        "passiveSkills": [
+            "share_received_damage",
+            "resist_poison"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Meresankh",
@@ -26669,7 +31582,11 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Yellow",
         "specialId": "impossible_riddle",
-        "heroId": "s5_meresankh"
+        "heroId": "s5_meresankh",
+        "passiveSkills": [
+            "sun_extra_special_damage_and_dot"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Meresankh Costume1",
@@ -26691,7 +31608,14 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Yellow",
         "specialId": "impossible_riddle",
-        "heroId": "s5_meresankh_costume_disco"
+        "heroId": "s5_meresankh_costume_disco",
+        "passiveSkills": [
+            "sun_extra_special_damage_and_dot"
+        ],
+        "costumeBonusPassiveSkillIds": [
+            "increase_special_damage_buff",
+            "iterate_passive_effects_on_special"
+        ]
     },
     {
         "name": "Mica",
@@ -26709,7 +31633,9 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Yellow",
         "specialId": "connect_ki",
-        "heroId": "ninja_mica"
+        "heroId": "ninja_mica",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Moonbell",
@@ -26729,7 +31655,12 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Yellow",
         "specialId": "astral_summon",
-        "heroId": "astral_moonbell"
+        "heroId": "astral_moonbell",
+        "passiveSkills": [
+            "share_received_damage",
+            "resist_poison"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Motega",
@@ -26750,7 +31681,11 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Yellow",
         "specialId": "butterfly_swarm",
-        "heroId": "magic_motega"
+        "heroId": "magic_motega",
+        "passiveSkills": [
+            "magic_heal_on_full_charge_to_not_yellow"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Musashi",
@@ -26769,7 +31704,9 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Yellow",
         "specialId": "dragon_fang",
-        "heroId": "holy_god_musashi"
+        "heroId": "holy_god_musashi",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Musashi Costume1",
@@ -26793,7 +31730,11 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Yellow",
         "specialId": "dragon_fang",
-        "heroId": "holy_god_musashi_costume_prisoner"
+        "heroId": "holy_god_musashi_costume_prisoner",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": [
+            "extra_special_dispel_newest"
+        ]
     },
     {
         "name": "Neith",
@@ -26812,7 +31753,11 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Yellow",
         "specialId": "sickle_of_eradication",
-        "heroId": "holy_god_neith"
+        "heroId": "holy_god_neith",
+        "passiveSkills": [
+            "resist_stop_mana_generation"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Nemesis",
@@ -26830,7 +31775,12 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Yellow",
         "specialId": "day_of_reckoning",
-        "heroId": "styx_nemesis"
+        "heroId": "styx_nemesis",
+        "passiveSkills": [
+            "resist_all_defense_debuffs",
+            "reduce_minion_health"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Nithgaest",
@@ -26848,7 +31798,13 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Yellow",
         "specialId": "rush_of_flame",
-        "heroId": "beowulf_nithgaest"
+        "heroId": "beowulf_nithgaest",
+        "passiveSkills": [
+            "attack_buff_on_damage_received",
+            "resist_mana_reductions_with_health_boost_and_mana",
+            "never_miss_special"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Norns",
@@ -26864,7 +31820,9 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Yellow",
         "specialId": "twist_of_fate",
-        "heroId": "s3_norns"
+        "heroId": "s3_norns",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Norns Costume1",
@@ -26884,7 +31842,9 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Yellow",
         "specialId": "twist_of_fate",
-        "heroId": "s3_norns_costume_puppeteers"
+        "heroId": "s3_norns_costume_puppeteers",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Odin",
@@ -26902,7 +31862,9 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Yellow",
         "specialId": "fury_of_grimnir",
-        "heroId": "s3_odin"
+        "heroId": "s3_odin",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Odin Costume1",
@@ -26924,7 +31886,9 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Yellow",
         "specialId": "fury_of_grimnir",
-        "heroId": "s3_odin_costume_champion"
+        "heroId": "s3_odin_costume_champion",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Ogima",
@@ -26943,7 +31907,11 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Yellow",
         "specialId": "rhythm_of_havoc",
-        "heroId": "bard_ogima"
+        "heroId": "bard_ogima",
+        "passiveSkills": [
+            "mana_generation_modifier_all_enemies_stronger"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Onatel",
@@ -26962,7 +31930,11 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Yellow",
         "specialId": "mana_stealer",
-        "heroId": "holy_god_onatel"
+        "heroId": "holy_god_onatel",
+        "passiveSkills": [
+            "resist_accuracy_modifier_debuffs"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Papyros",
@@ -26980,7 +31952,11 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Yellow",
         "specialId": "summon_sand_golems",
-        "heroId": "s5_papyros"
+        "heroId": "s5_papyros",
+        "passiveSkills": [
+            "moon_extra_special_heal_and_add_mana"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Papyros Costume1",
@@ -27004,7 +31980,14 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Yellow",
         "specialId": "summon_sand_golems",
-        "heroId": "s5_papyros_costume_colossus"
+        "heroId": "s5_papyros_costume_colossus",
+        "passiveSkills": [
+            "moon_extra_special_heal_and_add_mana"
+        ],
+        "costumeBonusPassiveSkillIds": [
+            "resist_stop_mana_generation",
+            "guaranteed_passive_effects_on_special"
+        ]
     },
     {
         "name": "Penolite",
@@ -27024,7 +32007,11 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Yellow",
         "specialId": "radiant_rapid_fire",
-        "heroId": "gargoyle_penolite"
+        "heroId": "gargoyle_penolite",
+        "passiveSkills": [
+            "gargoyle_stone"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Persa",
@@ -27045,7 +32032,11 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Yellow",
         "specialId": "oceans_ruin",
-        "heroId": "tales1_persa"
+        "heroId": "tales1_persa",
+        "passiveSkills": [
+            "tales1_extra_special_damage_and_add_stacking_mana_generation"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Persa Costume1",
@@ -27070,7 +32061,13 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Yellow",
         "specialId": "oceans_ruin",
-        "heroId": "tales1_persa_costume_jellyfish_noble"
+        "heroId": "tales1_persa_costume_jellyfish_noble",
+        "passiveSkills": [
+            "tales1_extra_special_damage_and_add_stacking_mana_generation"
+        ],
+        "costumeBonusPassiveSkillIds": [
+            "resist_insanity"
+        ]
     },
     {
         "name": "Pertinax",
@@ -27092,7 +32089,11 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Yellow",
         "specialId": "vengeance_of_owlhalla",
-        "heroId": "owl_pertinax"
+        "heroId": "owl_pertinax",
+        "passiveSkills": [
+            "mana_generation_modifier_all_enemies_stronger"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Philomena",
@@ -27111,7 +32112,13 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Yellow",
         "specialId": "enchanting_melody",
-        "heroId": "faun_philomena"
+        "heroId": "faun_philomena",
+        "passiveSkills": [
+            "resist_negative_attack_modifiers_including_wither",
+            "resist_insanity",
+            "minion_and_mega_minion_accuracy_modifier"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Poseidon",
@@ -27128,7 +32135,9 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Yellow",
         "specialId": "ruler_of_seas",
-        "heroId": "s2_poseidon"
+        "heroId": "s2_poseidon",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Poseidon Costume1",
@@ -27149,7 +32158,9 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Yellow",
         "specialId": "ruler_of_seas",
-        "heroId": "s2_poseidon_costume_slayer"
+        "heroId": "s2_poseidon_costume_slayer",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Prof Lidenbrock",
@@ -27167,7 +32178,11 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Yellow",
         "specialId": "glorious_grace",
-        "heroId": "s4_professor_lidenbrock"
+        "heroId": "s4_professor_lidenbrock",
+        "passiveSkills": [
+            "start_battle_with_mana"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Prof Lidenbrock Costume1",
@@ -27189,7 +32204,13 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Yellow",
         "specialId": "glorious_grace",
-        "heroId": "s4_professor_lidenbrock_costume_jeweler"
+        "heroId": "s4_professor_lidenbrock_costume_jeweler",
+        "passiveSkills": [
+            "start_battle_with_mana"
+        ],
+        "costumeBonusPassiveSkillIds": [
+            "extra_special_health_boost"
+        ]
     },
     {
         "name": "Queen Guowang",
@@ -27206,7 +32227,9 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Yellow",
         "specialId": "the_queens_radiance",
-        "heroId": "journey_queen_guowang"
+        "heroId": "journey_queen_guowang",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Rana",
@@ -27225,7 +32248,9 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Yellow",
         "specialId": "queens_curse",
-        "heroId": "sand_queen"
+        "heroId": "sand_queen",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Rana Costume1",
@@ -27248,7 +32273,9 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Yellow",
         "specialId": "queens_curse",
-        "heroId": "sand_queen_costume_surfer"
+        "heroId": "sand_queen_costume_surfer",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Ranvir",
@@ -27267,7 +32294,11 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Yellow",
         "specialId": "mystics_virtue",
-        "heroId": "holy_god_ranvir"
+        "heroId": "holy_god_ranvir",
+        "passiveSkills": [
+            "resist_poison"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Rhys",
@@ -27288,7 +32319,11 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Yellow",
         "specialId": "hymn_of_enrichment",
-        "heroId": "bard_rhys"
+        "heroId": "bard_rhys",
+        "passiveSkills": [
+            "mana_generation_modifier_all_enemies_stronger"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Roc",
@@ -27306,7 +32341,9 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Yellow",
         "specialId": "sand_cyclone",
-        "heroId": "sand_roc"
+        "heroId": "sand_roc",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Roc Costume1",
@@ -27328,7 +32365,9 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Yellow",
         "specialId": "sand_cyclone",
-        "heroId": "sand_roc_costume_juice"
+        "heroId": "sand_roc_costume_juice",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Rosalind",
@@ -27348,7 +32387,12 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Yellow",
         "specialId": "a_moment_of_joy",
-        "heroId": "garrison_rosalind"
+        "heroId": "garrison_rosalind",
+        "passiveSkills": [
+            "remove_wither_from_allies",
+            "resist_direct_mana_reductions"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Ruan Xiaoqi",
@@ -27367,7 +32411,13 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Yellow",
         "specialId": "perilous_waters",
-        "heroId": "outlaw_ruan_xiaoqi"
+        "heroId": "outlaw_ruan_xiaoqi",
+        "passiveSkills": [
+            "resist_bleed",
+            "righteous_rebellion_parent",
+            "cleanse_on_special_critical_damage_all_safe"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Salniss",
@@ -27387,7 +32437,13 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Yellow",
         "specialId": "doublebarreled_starstick",
-        "heroId": "astral_dwarf_salniss"
+        "heroId": "astral_dwarf_salniss",
+        "passiveSkills": [
+            "never_miss_special",
+            "resist_negative_minion_and_mega_minion_effects",
+            "bypass_minions_and_mega_minions"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Satinpimenter",
@@ -27408,7 +32464,11 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Yellow",
         "specialId": "toxic_incense",
-        "heroId": "moth_satinpimenter"
+        "heroId": "moth_satinpimenter",
+        "passiveSkills": [
+            "dodge_enemy_damage_special"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Scrollbeast",
@@ -27427,7 +32487,11 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Yellow",
         "specialId": "boar_of_fury",
-        "heroId": "goblin_scrollbeast"
+        "heroId": "goblin_scrollbeast",
+        "passiveSkills": [
+            "goblin_damage_and_accuracy_debuff_on_special"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Shaal",
@@ -27447,7 +32511,12 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Yellow",
         "specialId": "reversed_lifeforce",
-        "heroId": "construct_shaal"
+        "heroId": "construct_shaal",
+        "passiveSkills": [
+            "repair_core",
+            "resist_special_blocking"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Shimmerscale",
@@ -27465,7 +32534,12 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Yellow",
         "specialId": "rude_awakening",
-        "heroId": "garrison_shimmerscale"
+        "heroId": "garrison_shimmerscale",
+        "passiveSkills": [
+            "remove_wither_from_allies",
+            "resist_direct_mana_reductions"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Sif",
@@ -27484,7 +32558,9 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Yellow",
         "specialId": "gold_weaver",
-        "heroId": "s3_sif"
+        "heroId": "s3_sif",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Sif Costume1",
@@ -27507,7 +32583,9 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Yellow",
         "specialId": "gold_weaver",
-        "heroId": "s3_sif_costume_golden"
+        "heroId": "s3_sif_costume_golden",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Silverpaw",
@@ -27526,7 +32604,11 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Yellow",
         "specialId": "greed_and_bribery",
-        "heroId": "fox_silverpaw"
+        "heroId": "fox_silverpaw",
+        "passiveSkills": [
+            "reduced_healing_for_all_enemies"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Sir Roostley",
@@ -27543,7 +32625,9 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Yellow",
         "specialId": "luminous_lance",
-        "heroId": "easter_sir_roostley"
+        "heroId": "easter_sir_roostley",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Sludgus",
@@ -27560,7 +32644,12 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Yellow",
         "specialId": "dance_of_the_slimy",
-        "heroId": "slime_sludgus"
+        "heroId": "slime_sludgus",
+        "passiveSkills": [
+            "summon_slime_minion_on_damage_yellow",
+            "summon_slime_minion_on_death_yellow"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Tang Sanzang",
@@ -27578,7 +32667,12 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Yellow",
         "specialId": "golden_cicada",
-        "heroId": "journey_tang_sanzang"
+        "heroId": "journey_tang_sanzang",
+        "passiveSkills": [
+            "heal_on_buff_with_chance",
+            "mana_on_buff_with_chance"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Thor",
@@ -27596,7 +32690,9 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Yellow",
         "specialId": "power_of_mjolnir",
-        "heroId": "s3_thor"
+        "heroId": "s3_thor",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Thor Costume1",
@@ -27617,7 +32713,9 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Yellow",
         "specialId": "power_of_mjolnir",
-        "heroId": "s3_thor_costume_conduit"
+        "heroId": "s3_thor_costume_conduit",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Thunderclap",
@@ -27636,7 +32734,12 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Yellow",
         "specialId": "warcry_of_the_jungle",
-        "heroId": "monster_hunter_thunderclap"
+        "heroId": "monster_hunter_thunderclap",
+        "passiveSkills": [
+            "hunters_mark_on_special",
+            "attack_modifier_on_special"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Thura",
@@ -27655,7 +32758,12 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Yellow",
         "specialId": "guiding_arrow",
-        "heroId": "monster_hunter_thura"
+        "heroId": "monster_hunter_thura",
+        "passiveSkills": [
+            "hunters_mark_on_special",
+            "special_damage_reduction_monster_hunters"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Topaz",
@@ -27673,7 +32781,9 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Yellow",
         "specialId": "lethal_needles",
-        "heroId": "ninja_topaz"
+        "heroId": "ninja_topaz",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Uraeus",
@@ -27693,7 +32803,12 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Yellow",
         "specialId": "strike_of_the_cobra",
-        "heroId": "holy_god_uraeus"
+        "heroId": "holy_god_uraeus",
+        "passiveSkills": [
+            "heal_on_own_familiar_death",
+            "resist_sand"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Vaishali",
@@ -27714,7 +32829,12 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Yellow",
         "specialId": "pawns_of_divinity",
-        "heroId": "magic_vaishali"
+        "heroId": "magic_vaishali",
+        "passiveSkills": [
+            "magic_mana_regen_stack_on_special",
+            "magic_add_mana_on_full_charge_to_not_blue"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Vivica",
@@ -27732,7 +32852,9 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Yellow",
         "specialId": "omniheal",
-        "heroId": "oriental_female_mystic"
+        "heroId": "oriental_female_mystic",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Vivica Costume1",
@@ -27754,7 +32876,9 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Yellow",
         "specialId": "omniheal",
-        "heroId": "oriental_female_mystic_costume_magician"
+        "heroId": "oriental_female_mystic_costume_magician",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Vivica Costume2",
@@ -27776,7 +32900,9 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Yellow",
         "specialId": "omniheal",
-        "heroId": "oriental_female_mystic_costume_scribe"
+        "heroId": "oriental_female_mystic_costume_scribe",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Vivica Toon",
@@ -27798,7 +32924,11 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Yellow",
         "specialId": "omniheal",
-        "heroId": "oriental_female_mystic_costume_cute"
+        "heroId": "oriental_female_mystic_costume_cute",
+        "passiveSkills": [
+            "toon_resist_debuffs_manareduction_dispels"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Vivica Glass",
@@ -27821,7 +32951,11 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Yellow",
         "specialId": "omniheal",
-        "heroId": "oriental_female_mystic_costume_glass"
+        "heroId": "oriental_female_mystic_costume_glass",
+        "passiveSkills": [
+            "glass_reflect_debuffs"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Wayne",
@@ -27839,7 +32973,11 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Yellow",
         "specialId": "blood_illusion",
-        "heroId": "halloween_wayne"
+        "heroId": "halloween_wayne",
+        "passiveSkills": [
+            "halloween_steal_buff_or_deal_damage"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Wealhtheow",
@@ -27859,7 +32997,13 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Yellow",
         "specialId": "cup_of_mead",
-        "heroId": "beowulf_wealhtheow"
+        "heroId": "beowulf_wealhtheow",
+        "passiveSkills": [
+            "resist_buff_immunity",
+            "heal_on_expired_or_cleared_debuff",
+            "mana_on_buff"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "White Rabbit",
@@ -27876,7 +33020,9 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Yellow",
         "specialId": "rabbits_watch",
-        "heroId": "wonderland_white_rabbit"
+        "heroId": "wonderland_white_rabbit",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "White Rabbit Costume1",
@@ -27897,7 +33043,11 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Yellow",
         "specialId": "rabbits_watch",
-        "heroId": "wonderland_white_rabbit_costume_mask"
+        "heroId": "wonderland_white_rabbit_costume_mask",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": [
+            "possession_on_special"
+        ]
     },
     {
         "name": "Willow",
@@ -27921,7 +33071,12 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Yellow",
         "specialId": "levitating_lunchbox_deluxe",
-        "heroId": "magic_willow"
+        "heroId": "magic_willow",
+        "passiveSkills": [
+            "magic_mana_regen_stack_on_special",
+            "magic_heal_on_full_charge_to_not_green"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Winnie",
@@ -27940,7 +33095,12 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Yellow",
         "specialId": "ursine_protection",
-        "heroId": "castle_bear_winnie"
+        "heroId": "castle_bear_winnie",
+        "passiveSkills": [
+            "heal_on_buff_alliance_quest_family",
+            "mana_on_buff"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Wolfgang",
@@ -27959,7 +33119,9 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Yellow",
         "specialId": "commanders_gauntlet",
-        "heroId": "castle_wolf_wolfgang"
+        "heroId": "castle_wolf_wolfgang",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Wolfgang Costume1",
@@ -27982,7 +33144,11 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Yellow",
         "specialId": "commanders_gauntlet",
-        "heroId": "castle_wolf_wolfgang_costume_treasure"
+        "heroId": "castle_wolf_wolfgang_costume_treasure",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": [
+            "increase_cast_status_effect_duration"
+        ]
     },
     {
         "name": "Wulfstan",
@@ -28000,7 +33166,9 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Yellow",
         "specialId": "eldritch_sign_bolts",
-        "heroId": "shadow_wulfstan"
+        "heroId": "shadow_wulfstan",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Xavier",
@@ -28019,7 +33187,11 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Yellow",
         "specialId": "cascading_whirlwind",
-        "heroId": "elemental_xavier"
+        "heroId": "elemental_xavier",
+        "passiveSkills": [
+            "strong_troop_damage_modifier"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Zandria",
@@ -28037,7 +33209,11 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Yellow",
         "specialId": "unwavering_devotion",
-        "heroId": "elemental_zandria"
+        "heroId": "elemental_zandria",
+        "passiveSkills": [
+            "strong_troop_damage_modifier"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Zazha",
@@ -28057,7 +33233,12 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Yellow",
         "specialId": "soaring_blast",
-        "heroId": "magic_carpet_zazha"
+        "heroId": "magic_carpet_zazha",
+        "passiveSkills": [
+            "reduce_big_minion_health",
+            "fly_magic_carpet"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Zekena",
@@ -28075,7 +33256,11 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Yellow",
         "specialId": "swift_stingers",
-        "heroId": "s4_zekena"
+        "heroId": "s4_zekena",
+        "passiveSkills": [
+            "increase_buff_duration"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Zekena Costume1",
@@ -28098,7 +33283,13 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Yellow",
         "specialId": "swift_stingers",
-        "heroId": "s4_zekena_costume_vines"
+        "heroId": "s4_zekena_costume_vines",
+        "passiveSkills": [
+            "increase_buff_duration"
+        ],
+        "costumeBonusPassiveSkillIds": [
+            "extra_special_increased_damage_against_boosted_health"
+        ]
     },
     {
         "name": "Zenuk'wa",
@@ -28117,7 +33308,12 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Yellow",
         "specialId": "ice_cream_smash",
-        "heroId": "beachparty_zenukwa"
+        "heroId": "beachparty_zenukwa",
+        "passiveSkills": [
+            "resist_water",
+            "underwater_on_special_beach"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Zhang Fei",
@@ -28134,7 +33330,9 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Yellow",
         "specialId": "viper_blade",
-        "heroId": "kingdom_zhang_fei"
+        "heroId": "kingdom_zhang_fei",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Zhang Fei Costume1",
@@ -28156,7 +33354,11 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Yellow",
         "specialId": "viper_blade",
-        "heroId": "kingdom_zhang_fei_costume_bear_slayer"
+        "heroId": "kingdom_zhang_fei_costume_bear_slayer",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": [
+            "kingdom_unstoppable_minions"
+        ]
     },
     {
         "name": "Zhuge Liang",
@@ -28175,7 +33377,9 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Yellow",
         "specialId": "martial_masterstroke",
-        "heroId": "kingdom_zhuge_liang"
+        "heroId": "kingdom_zhuge_liang",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Zhuge Liang Costume1",
@@ -28198,7 +33402,11 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Yellow",
         "specialId": "martial_masterstroke",
-        "heroId": "kingdom_zhuge_liang_costume_crane"
+        "heroId": "kingdom_zhuge_liang_costume_crane",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": [
+            "kingdom_unstoppable_minions"
+        ]
     },
     {
         "name": "Zora",
@@ -28216,7 +33424,12 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Yellow",
         "specialId": "dawnlight_rally",
-        "heroId": "holy_god_zora"
+        "heroId": "holy_god_zora",
+        "passiveSkills": [
+            "mana_on_debuff",
+            "resist_direct_mana_reductions"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Gelert Costume1",
@@ -28240,7 +33453,13 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Green",
         "specialId": "whirlpool_dash",
-        "heroId": "tales1_gelert_costume_scavenger"
+        "heroId": "tales1_gelert_costume_scavenger",
+        "passiveSkills": [
+            "tales1_extra_special_damage_and_add_critical"
+        ],
+        "costumeBonusPassiveSkillIds": [
+            "resist_insanity"
+        ]
     },
     {
         "name": "Lennart",
@@ -28260,7 +33479,12 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Blue",
         "specialId": "pursuing_shot",
-        "heroId": "wild_cat_lennart"
+        "heroId": "wild_cat_lennart",
+        "passiveSkills": [
+            "resist_all_defense_effects",
+            "revive_chance_nine_lives"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Chao Gai",
@@ -28279,7 +33503,13 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Purple",
         "specialId": "advice_from_beyond",
-        "heroId": "outlaw_chao_gai"
+        "heroId": "outlaw_chao_gai",
+        "passiveSkills": [
+            "resist_bleed",
+            "righteous_rebellion_parent",
+            "cleanse_on_special_critical_damage_all_safe"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Florenna",
@@ -28298,7 +33528,12 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Green",
         "specialId": "heavy_fragrance",
-        "heroId": "nature_god_florenna"
+        "heroId": "nature_god_florenna",
+        "passiveSkills": [
+            "resist_poison",
+            "mana_on_debuff"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Orcur",
@@ -28317,7 +33552,13 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Blue",
         "specialId": "lunar_bloom",
-        "heroId": "astral_dwarf_orcur"
+        "heroId": "astral_dwarf_orcur",
+        "passiveSkills": [
+            "resist_heal_multiplier_debuffs",
+            "resist_negative_minion_and_mega_minion_effects",
+            "eat_fiends_on_special_cast"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Fruitio",
@@ -28335,7 +33576,12 @@ window.allHeroesExtra = [
         "rarity": 4,
         "element": "Green",
         "specialId": "fruit_cocktail",
-        "heroId": "slime_fruitio"
+        "heroId": "slime_fruitio",
+        "passiveSkills": [
+            "summon_slime_minion_on_damage_green",
+            "summon_slime_minion_on_death_green"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Lando",
@@ -28355,7 +33601,12 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Yellow",
         "specialId": "twostep_swing",
-        "heroId": "magic_carpet_lando"
+        "heroId": "magic_carpet_lando",
+        "passiveSkills": [
+            "reduce_big_minion_health",
+            "fly_magic_carpet"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Nadezhda Costume1",
@@ -28380,7 +33631,13 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Red",
         "specialId": "flame_of_the_dragon_familiar",
-        "heroId": "magic_nadezhda_costume_postmaster"
+        "heroId": "magic_nadezhda_costume_postmaster",
+        "passiveSkills": [
+            "magic_heal_on_full_charge_costume"
+        ],
+        "costumeBonusPassiveSkillIds": [
+            "reduce_big_minion_health"
+        ]
     },
     {
         "name": "Verdigoo",
@@ -28397,7 +33654,12 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Green",
         "specialId": "judgement_of_goo",
-        "heroId": "slime_verdigoo"
+        "heroId": "slime_verdigoo",
+        "passiveSkills": [
+            "summon_slime_minion_on_damage_green",
+            "summon_slime_minion_on_death_green"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Foxglove",
@@ -28416,7 +33678,11 @@ window.allHeroesExtra = [
         "rarity": 4,
         "element": "Purple",
         "specialId": "venomfang_concoction",
-        "heroId": "fox_foxglove"
+        "heroId": "fox_foxglove",
+        "passiveSkills": [
+            "reduced_healing_for_all_enemies"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Halcyon",
@@ -28435,7 +33701,11 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Yellow",
         "specialId": "unbroken_assault",
-        "heroId": "fox_halcyon"
+        "heroId": "fox_halcyon",
+        "passiveSkills": [
+            "reduced_healing_for_all_enemies"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Fimafeng",
@@ -28457,7 +33727,12 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Red",
         "specialId": "self_preservation",
-        "heroId": "tales2_fimafeng"
+        "heroId": "tales2_fimafeng",
+        "passiveSkills": [
+            "arctic_core",
+            "resist_frost_with_health_boost_and_mana"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Salvatore",
@@ -28476,7 +33751,9 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Blue",
         "specialId": "deranged_existence",
-        "heroId": "shadow_salvatore"
+        "heroId": "shadow_salvatore",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Sneferu Costume1",
@@ -28498,7 +33775,14 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Purple",
         "specialId": "disheartening_riddle",
-        "heroId": "s5_sneferu_costume_vanquisher"
+        "heroId": "s5_sneferu_costume_vanquisher",
+        "passiveSkills": [
+            "moon_extra_special_damage_and_dispel_latest_buff"
+        ],
+        "costumeBonusPassiveSkillIds": [
+            "mana_on_debuff",
+            "iterate_passive_effects_on_special"
+        ]
     },
     {
         "name": "Grendel's Mother",
@@ -28517,7 +33801,13 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Purple",
         "specialId": "harrow_the_heart",
-        "heroId": "beowulf_grendels_mother"
+        "heroId": "beowulf_grendels_mother",
+        "passiveSkills": [
+            "attack_buff_on_damage_received",
+            "resist_mana_reductions_with_health_boost_and_mana",
+            "mana_on_buff"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Carver Glass",
@@ -28539,7 +33829,11 @@ window.allHeroesExtra = [
         "rarity": 3,
         "element": "Green",
         "specialId": "slash_of_four_blades",
-        "heroId": "goblin_fighter_costume_glass"
+        "heroId": "goblin_fighter_costume_glass",
+        "passiveSkills": [
+            "glass_reflect_debuffs"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Chao Glass",
@@ -28561,7 +33855,11 @@ window.allHeroesExtra = [
         "rarity": 4,
         "element": "Yellow",
         "specialId": "tactical_cut",
-        "heroId": "oriental_falconer_costume_glass"
+        "heroId": "oriental_falconer_costume_glass",
+        "passiveSkills": [
+            "glass_reflect_debuffs"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Elena Glass",
@@ -28583,7 +33881,11 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Red",
         "specialId": "wall_of_swords",
-        "heroId": "nomad_female_lord_costume_glass"
+        "heroId": "nomad_female_lord_costume_glass",
+        "passiveSkills": [
+            "glass_reflect_debuffs"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Hawkmoon Glass",
@@ -28604,7 +33906,11 @@ window.allHeroesExtra = [
         "rarity": 3,
         "element": "Red",
         "specialId": "wind_prayer",
-        "heroId": "nomad_female_shaman_costume_glass"
+        "heroId": "nomad_female_shaman_costume_glass",
+        "passiveSkills": [
+            "glass_reflect_debuffs"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Rigard Glass",
@@ -28626,7 +33932,11 @@ window.allHeroesExtra = [
         "rarity": 4,
         "element": "Purple",
         "specialId": "purification",
-        "heroId": "blackguard_knight_costume_glass"
+        "heroId": "blackguard_knight_costume_glass",
+        "passiveSkills": [
+            "glass_reflect_debuffs"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Imagus",
@@ -28644,7 +33954,12 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Purple",
         "specialId": "feline_constellation",
-        "heroId": "wild_cat_imagus"
+        "heroId": "wild_cat_imagus",
+        "passiveSkills": [
+            "resist_all_defense_effects",
+            "revive_chance_nine_lives"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Roz Costume1",
@@ -28666,7 +33981,11 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Green",
         "specialId": "elemental_infusion_arrow",
-        "heroId": "elemental_roz_costume_disco"
+        "heroId": "elemental_roz_costume_disco",
+        "passiveSkills": [
+            "strong_troop_damage_modifier_costume"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Ascension Mimic",
@@ -28688,7 +34007,12 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Red",
         "specialId": "gorging_chew_red",
-        "heroId": "mimic_ascension_item_red"
+        "heroId": "mimic_ascension_item_red",
+        "passiveSkills": [
+            "mimic_ascension_item_red",
+            "never_miss_special"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Godfrey",
@@ -28707,7 +34031,12 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Green",
         "specialId": "holding_down_the_fort",
-        "heroId": "garrison_godfrey"
+        "heroId": "garrison_godfrey",
+        "passiveSkills": [
+            "remove_wither_from_allies",
+            "resist_direct_mana_reductions"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Agadh",
@@ -28728,7 +34057,12 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Purple",
         "specialId": "high_altitude_ambush",
-        "heroId": "magic_carpet_agadh"
+        "heroId": "magic_carpet_agadh",
+        "passiveSkills": [
+            "reduce_big_minion_health",
+            "fly_magic_carpet"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Ray Costume1",
@@ -28756,7 +34090,14 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Red",
         "specialId": "blazing_slam_dunk",
-        "heroId": "magic_ray_costume_spiky"
+        "heroId": "magic_ray_costume_spiky",
+        "passiveSkills": [
+            "magic_mana_regen_stack_on_special_costume",
+            "magic_add_mana_on_full_charge_costume"
+        ],
+        "costumeBonusPassiveSkillIds": [
+            "reduce_big_minion_health"
+        ]
     },
     {
         "name": "Ascension Mimic Ice",
@@ -28778,7 +34119,12 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Blue",
         "specialId": "gorging_chew_blue",
-        "heroId": "mimic_ascension_item_blue"
+        "heroId": "mimic_ascension_item_blue",
+        "passiveSkills": [
+            "mimic_ascension_item_blue",
+            "never_miss_special"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Gwendoline",
@@ -28800,7 +34146,9 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Yellow",
         "specialId": "essence_of_queen_nitocris",
-        "heroId": "shadow_gwendoline"
+        "heroId": "shadow_gwendoline",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Ilmarinen Costume1",
@@ -28822,7 +34170,11 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Red",
         "specialId": "forged_in_fire",
-        "heroId": "kalevala_ilmarinen_costume_gold"
+        "heroId": "kalevala_ilmarinen_costume_gold",
+        "passiveSkills": [
+            "heal_mana_on_low_health_once"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Joukahainen Costume1",
@@ -28844,7 +34196,11 @@ window.allHeroesExtra = [
         "rarity": 3,
         "element": "Blue",
         "specialId": "arrows_of_fury",
-        "heroId": "kalevala_joukahainen_costume_frozen"
+        "heroId": "kalevala_joukahainen_costume_frozen",
+        "passiveSkills": [
+            "heal_mana_on_low_health_once"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Lemminkainen Costume1",
@@ -28865,7 +34221,11 @@ window.allHeroesExtra = [
         "rarity": 4,
         "element": "Red",
         "specialId": "flaming_sword",
-        "heroId": "kalevala_lemminkainen_costume_swan"
+        "heroId": "kalevala_lemminkainen_costume_swan",
+        "passiveSkills": [
+            "heal_mana_on_low_health_once"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Louhi Costume1",
@@ -28887,7 +34247,11 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Purple",
         "specialId": "feather_tempest",
-        "heroId": "kalevala_louhi_costume_mistress"
+        "heroId": "kalevala_louhi_costume_mistress",
+        "passiveSkills": [
+            "heal_mana_on_low_health_once"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Mother Lemminkainen",
@@ -28906,7 +34270,11 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Yellow",
         "specialId": "mending_stitches",
-        "heroId": "kalevala_mother_lemminkainen"
+        "heroId": "kalevala_mother_lemminkainen",
+        "passiveSkills": [
+            "heal_mana_on_low_health_once"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Sedille",
@@ -28927,7 +34295,13 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Red",
         "specialId": "light_my_fire",
-        "heroId": "astral_dwarf_sedille"
+        "heroId": "astral_dwarf_sedille",
+        "passiveSkills": [
+            "never_miss_special",
+            "resist_negative_minion_and_mega_minion_effects",
+            "bypass_minions_and_mega_minions"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Suomuhauki",
@@ -28947,7 +34321,11 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Green",
         "specialId": "snapping_jaws",
-        "heroId": "kalevala_suomuhauki"
+        "heroId": "kalevala_suomuhauki",
+        "passiveSkills": [
+            "heal_mana_on_low_health_once"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Choozen",
@@ -28964,7 +34342,12 @@ window.allHeroesExtra = [
         "rarity": 4,
         "element": "Blue",
         "specialId": "surprise_goo",
-        "heroId": "slime_choozen"
+        "heroId": "slime_choozen",
+        "passiveSkills": [
+            "summon_slime_minion_on_damage_blue",
+            "summon_slime_minion_on_death_blue"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Gloozmer",
@@ -28984,7 +34367,12 @@ window.allHeroesExtra = [
         "rarity": 5,
         "element": "Blue",
         "specialId": "gooey_rose",
-        "heroId": "slime_gloozmer"
+        "heroId": "slime_gloozmer",
+        "passiveSkills": [
+            "summon_slime_minion_on_damage_blue",
+            "summon_slime_minion_on_death_blue"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Maple",
@@ -29001,7 +34389,12 @@ window.allHeroesExtra = [
         "baseDefense": 564,
         "baseHealth": 999,
         "specialId": "autumnal_wind",
-        "heroId": "fire_god_maple"
+        "heroId": "fire_god_maple",
+        "passiveSkills": [
+            "heal_on_buff",
+            "resist_buff_immunity"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Sun Erniang",
@@ -29020,7 +34413,13 @@ window.allHeroesExtra = [
         "baseDefense": 595,
         "baseHealth": 1071,
         "specialId": "vicious_trap",
-        "heroId": "outlaw_sun_erniang"
+        "heroId": "outlaw_sun_erniang",
+        "passiveSkills": [
+            "resist_bleed",
+            "righteous_rebellion_parent",
+            "health_boost_on_special_critical_damage_all"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Snorri",
@@ -29037,10 +34436,15 @@ window.allHeroesExtra = [
             "Debuffers (ATK)"
         ],
         "heroId": "tales2_snorri",
-        "baseAttack": 352,
-        "baseDefense": 340,
-        "baseHealth": 601,
-        "specialId": "bound_by_tales"
+        "baseAttack": 365,
+        "baseDefense": 353,
+        "baseHealth": 642,
+        "specialId": "bound_by_tales",
+        "passiveSkills": [
+            "arctic_core",
+            "resist_frost_with_health_boost_and_mana"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Ascension Mimic Nature",
@@ -29062,7 +34466,12 @@ window.allHeroesExtra = [
         "baseAttack": 616,
         "baseDefense": 616,
         "baseHealth": 1045,
-        "specialId": "gorging_chew_green"
+        "specialId": "gorging_chew_green",
+        "passiveSkills": [
+            "mimic_ascension_item_green",
+            "never_miss_special"
+        ],
+        "costumeBonusPassiveSkillIds": null
     },
     {
         "name": "Motsognir",
@@ -29079,9 +34488,14 @@ window.allHeroesExtra = [
             "Debuffers (ATK)"
         ],
         "heroId": "tales2_motsognir",
-        "baseAttack": 547,
-        "baseDefense": 570,
-        "baseHealth": 1145,
-        "specialId": "stalwart_rally"
+        "baseAttack": 570,
+        "baseDefense": 593,
+        "baseHealth": 1211,
+        "specialId": "stalwart_rally",
+        "passiveSkills": [
+            "arctic_core",
+            "resist_frost_with_health_boost_and_mana"
+        ],
+        "costumeBonusPassiveSkillIds": null
     }
 ];

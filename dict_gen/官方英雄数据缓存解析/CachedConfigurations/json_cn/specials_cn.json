@@ -709,13 +709,9 @@
         "properties": [
           "reduce_max_health_neartotarget_merith"
         ],
+        "buffToRemove": "MinorBuff",
+        "buffToRemoveTargetType": "NearToTarget",
         "statusEffects": [
-          {
-            "id": "silence",
-            "sideAffected": "Enemies",
-            "statusTargetType": "NearToTarget",
-            "turns": 1
-          },
           {
             "id": "add_paralysis_on_removal_merith",
             "sideAffected": "Enemies",
@@ -34190,7 +34186,7 @@
             "id": "burn_glass_nashgar",
             "sideAffected": "Enemies",
             "statusTargetType": "Single",
-            "turns": 6
+            "turns": 4
           }
         ]
       },
@@ -40862,13 +40858,13 @@
           "sideAffected": "Enemies",
           "typeOfTarget": "Single",
           "effectType": "Damage",
-          "powerMultiplierPerMil": 5450,
+          "powerMultiplierPerMil": 6050,
           "powerMultiplierIncrementPerLevelPerMil": 50
         },
         "maxLevel": 8,
         "properties": [
           "eat_familiars",
-          "reduce_max_health_if_minions_eiora_costume"
+          "reduce_max_health_eiora_costume"
         ]
       },
       {
@@ -45680,7 +45676,7 @@
           "sideAffected": "Enemies",
           "typeOfTarget": "Single",
           "effectType": "Damage",
-          "powerMultiplierPerMil": 1550,
+          "powerMultiplierPerMil": 4150,
           "powerMultiplierIncrementPerLevelPerMil": 50
         },
         "maxLevel": 8,
@@ -46008,7 +46004,7 @@
           "sideAffected": "Enemies",
           "typeOfTarget": "Single",
           "effectType": "Damage",
-          "powerMultiplierPerMil": 7650,
+          "powerMultiplierPerMil": 8150,
           "powerMultiplierIncrementPerLevelPerMil": 50
         },
         "maxLevel": 8,
@@ -46068,7 +46064,7 @@
           "sideAffected": "Allies",
           "typeOfTarget": "All",
           "effectType": "HealthBoost",
-          "powerMultiplierPerMil": 500,
+          "powerMultiplierPerMil": 600,
           "powerMultiplierIncrementPerLevelPerMil": 100,
           "hasFixedPower": true
         },
@@ -46391,7 +46387,7 @@
           "sideAffected": "Allies",
           "typeOfTarget": "All",
           "effectType": "HealthBoost",
-          "powerMultiplierPerMil": 230,
+          "powerMultiplierPerMil": 205,
           "powerMultiplierIncrementPerLevelPerMil": 10,
           "hasFixedPower": true
         },
@@ -46566,10 +46562,13 @@
           "sideAffected": "Enemies",
           "typeOfTarget": "NearToTarget",
           "effectType": "Damage",
-          "powerMultiplierPerMil": 3400,
+          "powerMultiplierPerMil": 3650,
           "powerMultiplierIncrementPerLevelPerMil": 50
         },
         "maxLevel": 8,
+        "buffToRemove": "MinorBuff",
+        "buffToRemoveTargetType": "NearToTarget",
+        "removeBuffsFirst": true,
         "statusEffects": [
           {
             "id": "underwater_with_absorb_healing_riverfang",
@@ -52169,7 +52168,7 @@
       {
         "propertyType": "ReduceMaxHealth",
         "id": "reduce_max_health_neartotarget_merith",
-        "reduction": 550,
+        "reduction": 650,
         "reductionIncrementPerLevel": 50,
         "targetType": "NearToTarget",
         "sideAffected": "Enemies"
@@ -55084,8 +55083,8 @@
         "propertyType": "ConditionalEffect",
         "id": "heal_lowest_hp_ally_most_zuri_costume",
         "includeMissedTargetsInComparison": true,
-        "powerForTargetsThatMeetConditionPerMil": 630,
-        "powerForOtherTargetsPerMil": 280,
+        "powerForTargetsThatMeetConditionPerMil": 580,
+        "powerForOtherTargetsPerMil": 380,
         "powerIncrementPerLevelPerMil": 10,
         "directionOfCondition": "Lowest",
         "statForCondition": "CurrentHp",
@@ -56214,6 +56213,14 @@
         "sideAffected": "Allies"
       },
       {
+        "propertyType": "ReduceMaxHealth",
+        "id": "reduce_max_health_eiora_costume",
+        "reduction": 500,
+        "reductionIncrementPerLevel": 50,
+        "targetType": "All",
+        "sideAffected": "Enemies"
+      },
+      {
         "propertyType": "AddStatusEffects",
         "id": "add_status_effects_sadie",
         "statusEffects": [
@@ -56594,7 +56601,7 @@
         "propertyType": "MainTargetElementDependentEffect",
         "id": "damage_neartotarget_when_main_target_is_fire_zengar_costume",
         "element": "Red",
-        "effectPowerPerMil": 4650,
+        "effectPowerPerMil": 3650,
         "effectPowerIncrementPerLevelPerMil": 50,
         "effectType": "Damage",
         "targetType": "NearToTargetExceptMainTarget",
@@ -56902,7 +56909,7 @@
       {
         "propertyType": "SecondaryDirectEffect",
         "id": "damage_single_lilli",
-        "powerMultiplierPerMil": 7650,
+        "powerMultiplierPerMil": 8150,
         "powerMultiplierIncrementPerLevelPerMil": 50,
         "effectType": "Damage",
         "targetType": "Single",
@@ -56956,7 +56963,7 @@
       {
         "propertyType": "Growth",
         "id": "growth_hygil",
-        "baseAttackIncrease": 360,
+        "baseAttackIncrease": 410,
         "baseAttackIncreasePerLevel": 20,
         "baseDefenseIncrease": 0,
         "targetType": "All",
@@ -57517,5 +57524,5 @@
       }
     ]
   },
-  "specialsConfigId": 1471909651
+  "specialsConfigId": 325536104
 }
