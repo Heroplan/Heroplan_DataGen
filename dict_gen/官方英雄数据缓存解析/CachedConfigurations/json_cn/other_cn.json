@@ -1,5 +1,6 @@
 {
   "otherConfig": {
+    "abCode": "ftue_energy_flow_active",
     "logic": {
       "dragonAscension": {
         "characterRecipes": [
@@ -67538,7 +67539,7 @@
                   0,
                   0
                 ],
-                "element": "Red",
+                "element": "红",
                 "buildingLevel": 5,
                 "researchCost": {
                   "food": 36700
@@ -67566,7 +67567,7 @@
                   0,
                   0
                 ],
-                "element": "Blue",
+                "element": "蓝",
                 "buildingLevel": 6,
                 "researchCost": {
                   "food": 57900
@@ -67594,7 +67595,7 @@
                   0,
                   0
                 ],
-                "element": "Green",
+                "element": "绿",
                 "buildingLevel": 7,
                 "researchCost": {
                   "food": 85300
@@ -67622,7 +67623,7 @@
                   0,
                   0
                 ],
-                "element": "Purple",
+                "element": "紫",
                 "buildingLevel": 8,
                 "researchCost": {
                   "food": 119000
@@ -67650,7 +67651,7 @@
                   0,
                   0
                 ],
-                "element": "Yellow",
+                "element": "黄",
                 "buildingLevel": 9,
                 "researchCost": {
                   "food": 166000
@@ -67787,7 +67788,7 @@
                   0,
                   0
                 ],
-                "element": "Red",
+                "element": "红",
                 "buildingLevel": 14,
                 "researchCost": {
                   "food": 509000
@@ -67814,7 +67815,7 @@
                   0,
                   0
                 ],
-                "element": "Blue",
+                "element": "蓝",
                 "buildingLevel": 15,
                 "researchCost": {
                   "food": 603000
@@ -67841,7 +67842,7 @@
                   0,
                   0
                 ],
-                "element": "Green",
+                "element": "绿",
                 "buildingLevel": 16,
                 "researchCost": {
                   "food": 708000
@@ -67868,7 +67869,7 @@
                   0,
                   0
                 ],
-                "element": "Purple",
+                "element": "紫",
                 "buildingLevel": 17,
                 "researchCost": {
                   "food": 822000
@@ -67895,7 +67896,7 @@
                   0,
                   0
                 ],
-                "element": "Yellow",
+                "element": "黄",
                 "buildingLevel": 18,
                 "researchCost": {
                   "food": 945000
@@ -68051,7 +68052,7 @@
                   0,
                   0
                 ],
-                "element": "Red",
+                "element": "红",
                 "buildingLevel": 3,
                 "researchCost": {
                   "fish": 104220
@@ -68084,7 +68085,7 @@
                   0,
                   0
                 ],
-                "element": "Blue",
+                "element": "蓝",
                 "buildingLevel": 4,
                 "researchCost": {
                   "fish": 153540
@@ -68117,7 +68118,7 @@
                   0,
                   0
                 ],
-                "element": "Green",
+                "element": "绿",
                 "buildingLevel": 5,
                 "researchCost": {
                   "fish": 214200
@@ -68150,7 +68151,7 @@
                   0,
                   0
                 ],
-                "element": "Purple",
+                "element": "紫",
                 "buildingLevel": 6,
                 "researchCost": {
                   "fish": 298800
@@ -68183,7 +68184,7 @@
                   0,
                   0
                 ],
-                "element": "Yellow",
+                "element": "黄",
                 "buildingLevel": 7,
                 "researchCost": {
                   "fish": 387000
@@ -70297,7 +70298,7 @@
           {
             "id": "common_red",
             "rarity": 1,
-            "element": "Red",
+            "element": "红",
             "cost": {
               "food": 100,
               "iron": 200,
@@ -70313,7 +70314,7 @@
           {
             "id": "common_blue",
             "rarity": 1,
-            "element": "Blue",
+            "element": "蓝",
             "cost": {
               "food": 100,
               "iron": 200,
@@ -70329,7 +70330,7 @@
           {
             "id": "common_green",
             "rarity": 1,
-            "element": "Green",
+            "element": "绿",
             "cost": {
               "food": 100,
               "iron": 200,
@@ -70345,7 +70346,7 @@
           {
             "id": "common_yellow",
             "rarity": 1,
-            "element": "Yellow",
+            "element": "黄",
             "cost": {
               "food": 100,
               "iron": 200,
@@ -70361,7 +70362,7 @@
           {
             "id": "common_purple",
             "rarity": 1,
-            "element": "Purple",
+            "element": "紫",
             "cost": {
               "food": 100,
               "iron": 200,
@@ -70377,7 +70378,7 @@
           {
             "id": "uncommon_red",
             "rarity": 2,
-            "element": "Red",
+            "element": "红",
             "cost": {
               "food": 200,
               "iron": 400,
@@ -70393,7 +70394,7 @@
           {
             "id": "uncommon_blue",
             "rarity": 2,
-            "element": "Blue",
+            "element": "蓝",
             "cost": {
               "food": 200,
               "iron": 400,
@@ -70409,7 +70410,7 @@
           {
             "id": "uncommon_green",
             "rarity": 2,
-            "element": "Green",
+            "element": "绿",
             "cost": {
               "food": 200,
               "iron": 400,
@@ -70425,7 +70426,7 @@
           {
             "id": "uncommon_yellow",
             "rarity": 2,
-            "element": "Yellow",
+            "element": "黄",
             "cost": {
               "food": 200,
               "iron": 400,
@@ -70441,7 +70442,7 @@
           {
             "id": "uncommon_purple",
             "rarity": 2,
-            "element": "Purple",
+            "element": "紫",
             "cost": {
               "food": 200,
               "iron": 400,
@@ -70457,7 +70458,7 @@
           {
             "id": "rare_red",
             "rarity": 3,
-            "element": "Red",
+            "element": "红",
             "cost": {
               "food": 5000,
               "iron": 1233,
@@ -70473,7 +70474,7 @@
           {
             "id": "rare_blue",
             "rarity": 3,
-            "element": "Blue",
+            "element": "蓝",
             "cost": {
               "food": 5000,
               "iron": 1233,
@@ -70489,7 +70490,7 @@
           {
             "id": "rare_green",
             "rarity": 3,
-            "element": "Green",
+            "element": "绿",
             "cost": {
               "food": 5000,
               "iron": 1233,
@@ -70505,7 +70506,7 @@
           {
             "id": "rare_yellow",
             "rarity": 3,
-            "element": "Yellow",
+            "element": "黄",
             "cost": {
               "food": 5000,
               "iron": 1233,
@@ -70521,7 +70522,7 @@
           {
             "id": "rare_purple",
             "rarity": 3,
-            "element": "Purple",
+            "element": "紫",
             "cost": {
               "food": 5000,
               "iron": 1233,
@@ -70537,7 +70538,7 @@
           {
             "id": "epic_red",
             "rarity": 4,
-            "element": "Red",
+            "element": "红",
             "cost": {
               "food": 200,
               "iron": 400,
@@ -70553,7 +70554,7 @@
           {
             "id": "epic_blue",
             "rarity": 4,
-            "element": "Blue",
+            "element": "蓝",
             "cost": {
               "food": 200,
               "iron": 400,
@@ -70569,7 +70570,7 @@
           {
             "id": "epic_green",
             "rarity": 4,
-            "element": "Green",
+            "element": "绿",
             "cost": {
               "food": 200,
               "iron": 400,
@@ -70585,7 +70586,7 @@
           {
             "id": "epic_yellow",
             "rarity": 4,
-            "element": "Yellow",
+            "element": "黄",
             "cost": {
               "food": 200,
               "iron": 400,
@@ -70601,7 +70602,7 @@
           {
             "id": "epic_purple",
             "rarity": 4,
-            "element": "Purple",
+            "element": "紫",
             "cost": {
               "food": 200,
               "iron": 400,
@@ -70617,7 +70618,7 @@
           {
             "id": "legendary_red",
             "rarity": 5,
-            "element": "Red",
+            "element": "红",
             "cost": {
               "food": 200,
               "iron": 400,
@@ -70633,7 +70634,7 @@
           {
             "id": "legendary_green",
             "rarity": 5,
-            "element": "Green",
+            "element": "绿",
             "cost": {
               "food": 200,
               "iron": 400,
@@ -70649,7 +70650,7 @@
           {
             "id": "legendary_blue",
             "rarity": 5,
-            "element": "Blue",
+            "element": "蓝",
             "cost": {
               "food": 200,
               "iron": 400,
@@ -70665,7 +70666,7 @@
           {
             "id": "legendary_yellow",
             "rarity": 5,
-            "element": "Green",
+            "element": "绿",
             "cost": {
               "food": 200,
               "iron": 400,
@@ -70681,7 +70682,7 @@
           {
             "id": "legendary_purple",
             "rarity": 5,
-            "element": "Green",
+            "element": "绿",
             "cost": {
               "food": 200,
               "iron": 400,
@@ -71048,35 +71049,35 @@
             "supportType": "TileEnhancement",
             "id": "tile_enhancement_red",
             "tileEnhancementId": "war_attack_modifier",
-            "element": "Red",
+            "element": "红",
             "sideAffected": "Enemies"
           },
           {
             "supportType": "TileEnhancement",
             "id": "tile_enhancement_green",
             "tileEnhancementId": "war_attack_modifier",
-            "element": "Green",
+            "element": "绿",
             "sideAffected": "Enemies"
           },
           {
             "supportType": "TileEnhancement",
             "id": "tile_enhancement_blue",
             "tileEnhancementId": "war_attack_modifier",
-            "element": "Blue",
+            "element": "蓝",
             "sideAffected": "Enemies"
           },
           {
             "supportType": "TileEnhancement",
             "id": "tile_enhancement_yellow",
             "tileEnhancementId": "war_attack_modifier",
-            "element": "Yellow",
+            "element": "黄",
             "sideAffected": "Enemies"
           },
           {
             "supportType": "TileEnhancement",
             "id": "tile_enhancement_purple",
             "tileEnhancementId": "war_attack_modifier",
-            "element": "Purple",
+            "element": "紫",
             "sideAffected": "Enemies"
           },
           {
@@ -77825,6 +77826,51 @@
                 ]
               }
             ]
+          },
+          {
+            "id": "elemental_aug_2025",
+            "statBonuses": [
+              {
+                "bonusLevels": []
+              },
+              {
+                "bonusLevels": []
+              },
+              {
+                "bonusLevels": []
+              },
+              {
+                "bonusLevels": []
+              },
+              {
+                "bonusLevels": [
+                  {
+                    "attackBonusPerMil": 280,
+                    "defenseBonusPerMil": 280,
+                    "healthBonusPerMil": 300,
+                    "manaBonusPerMil": 20
+                  },
+                  {
+                    "attackBonusPerMil": 320,
+                    "defenseBonusPerMil": 320,
+                    "healthBonusPerMil": 350,
+                    "manaBonusPerMil": 30
+                  },
+                  {
+                    "attackBonusPerMil": 360,
+                    "defenseBonusPerMil": 360,
+                    "healthBonusPerMil": 400,
+                    "manaBonusPerMil": 40
+                  },
+                  {
+                    "attackBonusPerMil": 400,
+                    "defenseBonusPerMil": 400,
+                    "healthBonusPerMil": 450,
+                    "manaBonusPerMil": 50
+                  }
+                ]
+              }
+            ]
           }
         ],
         "enabled": true
@@ -79541,7 +79587,7 @@
     "maxVersionToShowUpdateOutReminderAndroid": "78.0.2",
     "maxVersionToShowUpdateOutReminderIos": "78.0.2",
     "maxVersionToShowUpdateOutReminderAndroidStandalone": "78.0.4",
-    "standaloneNewVersionRolloutPercentage": 60,
+    "standaloneNewVersionRolloutPercentage": 100,
     "fastClientLogFlushTimeSeconds": 5,
     "accountDeletionEnabled": true,
     "popupSuppression": {
@@ -79631,5 +79677,5 @@
     "criticalOperationPendingDelaySeconds": 3,
     "allowedCriticalOperationPendingCount": 3
   },
-  "otherConfigId": 1596753322
+  "otherConfigId": 834894911
 }

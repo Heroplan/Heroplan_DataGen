@@ -36222,7 +36222,7 @@
         ]
       },
       {
-        "id": "经验拟态兽",
+        "id": "Trove of Thousand Teeth",
         "entities": [
           {
             "type": "TrainerCharacter",
@@ -36267,7 +36267,7 @@
         ]
       },
       {
-        "id": "经验拟态兽",
+        "id": "Trove of Thousand Teeth",
         "entities": [
           {
             "type": "TrainerCharacter",
@@ -36312,7 +36312,7 @@
         ]
       },
       {
-        "id": "经验拟态兽",
+        "id": "Trove of Thousand Teeth",
         "entities": [
           {
             "type": "TrainerCharacter",
@@ -36357,7 +36357,7 @@
         ]
       },
       {
-        "id": "经验拟态兽",
+        "id": "Trove of Thousand Teeth",
         "entities": [
           {
             "type": "TrainerCharacter",
@@ -36402,7 +36402,7 @@
         ]
       },
       {
-        "id": "经验拟态兽",
+        "id": "Trove of Thousand Teeth",
         "entities": [
           {
             "type": "TrainerCharacter",
@@ -37172,35 +37172,35 @@
           {
             "type": "AscensionItem",
             "rarity": 4,
-            "element": "黄",
+            "element": "Yellow",
             "amount": 1,
             "weight": 3
           },
           {
             "type": "AscensionItem",
             "rarity": 3,
-            "element": "黄",
+            "element": "Yellow",
             "amount": 1,
             "weight": 7
           },
           {
             "type": "LimitBreaker",
             "rarity": 5,
-            "element": "黄",
+            "element": "Yellow",
             "amount": 1,
             "weight": 1
           },
           {
             "type": "LimitBreaker",
             "rarity": 4,
-            "element": "黄",
+            "element": "Yellow",
             "amount": 1,
             "weight": 3
           },
           {
             "type": "LimitBreaker",
             "rarity": 3,
-            "element": "黄",
+            "element": "Yellow",
             "amount": 1,
             "weight": 6
           }
@@ -37255,35 +37255,35 @@
           {
             "type": "AscensionItem",
             "rarity": 4,
-            "element": "红",
+            "element": "Red",
             "amount": 1,
             "weight": 3
           },
           {
             "type": "AscensionItem",
             "rarity": 3,
-            "element": "红",
+            "element": "Red",
             "amount": 1,
             "weight": 7
           },
           {
             "type": "LimitBreaker",
             "rarity": 5,
-            "element": "红",
+            "element": "Red",
             "amount": 1,
             "weight": 1
           },
           {
             "type": "LimitBreaker",
             "rarity": 4,
-            "element": "红",
+            "element": "Red",
             "amount": 1,
             "weight": 3
           },
           {
             "type": "LimitBreaker",
             "rarity": 3,
-            "element": "红",
+            "element": "Red",
             "amount": 1,
             "weight": 6
           }
@@ -37338,35 +37338,35 @@
           {
             "type": "AscensionItem",
             "rarity": 4,
-            "element": "蓝",
+            "element": "Blue",
             "amount": 1,
             "weight": 3
           },
           {
             "type": "AscensionItem",
             "rarity": 3,
-            "element": "蓝",
+            "element": "Blue",
             "amount": 1,
             "weight": 7
           },
           {
             "type": "LimitBreaker",
             "rarity": 5,
-            "element": "蓝",
+            "element": "Blue",
             "amount": 1,
             "weight": 1
           },
           {
             "type": "LimitBreaker",
             "rarity": 4,
-            "element": "蓝",
+            "element": "Blue",
             "amount": 1,
             "weight": 3
           },
           {
             "type": "LimitBreaker",
             "rarity": 3,
-            "element": "蓝",
+            "element": "Blue",
             "amount": 1,
             "weight": 6
           }
@@ -37421,35 +37421,35 @@
           {
             "type": "AscensionItem",
             "rarity": 4,
-            "element": "绿",
+            "element": "Green",
             "amount": 1,
             "weight": 3
           },
           {
             "type": "AscensionItem",
             "rarity": 3,
-            "element": "绿",
+            "element": "Green",
             "amount": 1,
             "weight": 7
           },
           {
             "type": "LimitBreaker",
             "rarity": 5,
-            "element": "绿",
+            "element": "Green",
             "amount": 1,
             "weight": 1
           },
           {
             "type": "LimitBreaker",
             "rarity": 4,
-            "element": "绿",
+            "element": "Green",
             "amount": 1,
             "weight": 3
           },
           {
             "type": "LimitBreaker",
             "rarity": 3,
-            "element": "绿",
+            "element": "Green",
             "amount": 1,
             "weight": 6
           }
@@ -37504,35 +37504,35 @@
           {
             "type": "AscensionItem",
             "rarity": 4,
-            "element": "紫",
+            "element": "Purple",
             "amount": 1,
             "weight": 3
           },
           {
             "type": "AscensionItem",
             "rarity": 3,
-            "element": "紫",
+            "element": "Purple",
             "amount": 1,
             "weight": 7
           },
           {
             "type": "LimitBreaker",
             "rarity": 5,
-            "element": "紫",
+            "element": "Purple",
             "amount": 1,
             "weight": 1
           },
           {
             "type": "LimitBreaker",
             "rarity": 4,
-            "element": "紫",
+            "element": "Purple",
             "amount": 1,
             "weight": 3
           },
           {
             "type": "LimitBreaker",
             "rarity": 3,
-            "element": "紫",
+            "element": "Purple",
             "amount": 1,
             "weight": 6
           }

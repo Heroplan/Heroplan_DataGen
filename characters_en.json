@@ -10892,7 +10892,7 @@
     "specialId": "great_frost_axe",
     "canBeReceivedDate": "2023-01-30 07:00:00",
     "origin": "元素较量",
-    "costumeBonusesId": "elemental"
+    "costumeBonusesId": "elemental_aug_2025"
   },
   "elemental_anzia": {
     "id": "Galactic Savior",
@@ -21526,9 +21526,9 @@
     "id": "Cultivating Beast",
     "element": "Blue",
     "family": "超级元素人家族",
-    "baseHealth": 843,
+    "baseHealth": 846,
     "baseAttack": 422,
-    "baseDefense": 399,
+    "baseDefense": 400,
     "manaSpeedId": "快速",
     "passiveSkills": [
       "strong_troop_damage_modifier_costume"
@@ -26663,9 +26663,9 @@
     "id": "Music Mothuoso",
     "element": "Green",
     "family": "飞蛾家族",
-    "baseHealth": 585,
-    "baseAttack": 390,
-    "baseDefense": 341,
+    "baseHealth": 600,
+    "baseAttack": 395,
+    "baseDefense": 346,
     "manaSpeedId": "快速",
     "passiveSkills": [
       "dodge_enemy_damage_special"
@@ -28629,9 +28629,9 @@
     "id": "Marquise Moth",
     "element": "Purple",
     "family": "飞蛾家族",
-    "baseHealth": 1060,
-    "baseAttack": 565,
-    "baseDefense": 595,
+    "baseHealth": 1099,
+    "baseAttack": 593,
+    "baseDefense": 623,
     "manaSpeedId": "慢",
     "passiveSkills": [
       "dodge_enemy_damage_special"

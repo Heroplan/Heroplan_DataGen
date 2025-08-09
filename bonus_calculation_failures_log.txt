@@ -1,0 +1,11 @@
+共有 2 套已匹配服装的奖励计算失败。
+================================
+
+Name: Director Zuri costume1
+  Fancy Name: Master of Clowns
+  失败原因: 在 other.json 中未找到有效的 costumeBonusesId 'festival_b_2025'
+
+Name: Eiora & Fluffy costume1
+  Fancy Name: Dark Duo
+  失败原因: 在 other.json 中未找到有效的 costumeBonusesId 'festival_b_2025'
+

@@ -1,4 +1,4 @@
-✅ 成功匹配的服装 (446 / 0)
+✅ 成功匹配的服装 (448 / 0)
 ================================
 Name: Berden Costume1, Fancy Name: Adroit Archer
 Name: Hannah Costume1, Fancy Name: Adventurous Drover
@@ -69,6 +69,7 @@ Name: Scarlett Costume2, Fancy Name: Dancer from the Sandsea
 Name: Azmia Costume1, Fancy Name: Dancing Tavern Keeper
 Name: Salmon Loki Costume1, Fancy Name: Dapper Fish
 Name: Rigard Costume1, Fancy Name: Dapper Noble
+Name: Eiora & Fluffy costume1, Fancy Name: Dark Duo
 Name: Grimm Costume2, Fancy Name: Dark Messenger
 Name: Grimm Toon, Fancy Name: Dark Toon
 Name: Set Costume1, Fancy Name: Dark Tyrant
@@ -230,6 +231,7 @@ Name: Chao Costume1, Fancy Name: Master Conservator
 Name: Kiril Costume1, Fancy Name: Master Shredder
 Name: Marjana Costume2, Fancy Name: Master Thief of Windemer
 Name: Kiril Costume2, Fancy Name: Master Wood Carver
+Name: Director Zuri costume1, Fancy Name: Master of Clowns
 Name: Zhang Fei Costume1, Fancy Name: Merciless Bear General
 Name: Joon Costume2, Fancy Name: Might of the Sun
 Name: Little John Costume2, Fancy Name: Mighty Highlander

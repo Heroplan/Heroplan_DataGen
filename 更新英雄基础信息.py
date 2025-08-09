@@ -4,6 +4,7 @@ import datetime
 import unicodedata
 import os
 import sys
+from collections import OrderedDict
 
 # ==============================================================================
 # --- 用户配置区：在这里添加您的所有自定义规则 ---
@@ -14,6 +15,30 @@ MANUAL_OVERRIDE_RULES = [
 GLOBAL_CORRECTIONS = {
     #"AetherPower": { "Counterattack": "Pain Return" }
 }
+
+# --- 新增：最终输出顺序定义 ---
+# 这是你期望的最终输出顺序
+DESIRED_KEY_ORDER = [
+    "name",
+    "fancy name",
+    "element",
+    "rarity",
+    "Release date",
+    "AetherPower",
+    "skill_types",
+    "heroId",
+    "baseAttack",
+    "baseDefense",
+    "baseHealth",
+    "specialId",
+    "specialId_costume",
+    "passiveSkills",
+    "costumeBonusPassiveSkillIds",
+    "attackBonus",
+    "defenseBonus",
+    "healthBonus",
+    "manaBonus"
+]
 # ==============================================================================
 
 # --- 全局变量 ---
@@ -68,7 +93,6 @@ def load_all_data_sources():
         
         if normalized_key not in multi_map:
             multi_map[normalized_key] = []
-        # --- 关键升级：在列表中同时存储原始ID和数据 ---
         multi_map[normalized_key].append({'original_id': original_id, 'data': data})
 
     CHARACTERS_DATA = multi_map
@@ -146,7 +170,6 @@ def main_sync_process():
         if candidate_list:
             match_found = False
             for candidate in candidate_list:
-                # --- 关键升级：从 candidate 中同时获取原始ID和数据 ---
                 original_id = candidate['original_id']
                 matched_char = candidate['data']
 
@@ -158,26 +181,31 @@ def main_sync_process():
                     is_costume = any(keyword in hero_extra.get("name", "").lower() for keyword in costume_keywords)
                     if is_costume: MATCHED_COSTUMES.add(fancy_name)
                     
-                    # --- 关键新增：写入 heroId 字段 ---
                     hero_extra['heroId'] = original_id
-
                     hero_extra['baseAttack'] = matched_char.get('baseAttack')
                     hero_extra['baseDefense'] = matched_char.get('baseDefense')
                     hero_extra['baseHealth'] = matched_char.get('baseHealth')
-                    hero_extra['specialId'] = matched_char.get('specialId')
                     hero_extra['passiveSkills'] = matched_char.get('passiveSkills')
-                    hero_extra['costumeBonusPassiveSkillIds'] = matched_char.get('costumeBonusPassiveSkillIds')
+                    
+                    if 'parentHeroId' in matched_char:
+                        parent_hero_data = CHARACTERS_DATA['__raw__'].get(matched_char['parentHeroId'])
+                        if parent_hero_data:
+                            hero_extra['specialId'] = parent_hero_data.get('specialId')
+                            hero_extra['specialId_costume'] = matched_char.get('specialId')
+                        else:
+                            hero_extra['specialId'] = matched_char.get('specialId')
+                    else:
+                        hero_extra['specialId'] = matched_char.get('specialId')
                     
                     if 'aetherGift' in matched_char: hero_extra['AetherPower'] = matched_char.get('aetherGift')
                     release_date_str = matched_char.get('canBeReceivedDate')
                     if release_date_str: hero_extra['Release date'] = release_date_str.split(' ')[0]
 
                     if 'parentHeroId' in matched_char:
+                        hero_extra['costumeBonusPassiveSkillIds'] = matched_char.get('costumeBonusPassiveSkillIds')
                         parent_hero_id = matched_char['parentHeroId']
                         parent_hero_data = CHARACTERS_DATA['__raw__'].get(parent_hero_id)
                         if parent_hero_data:
-                            if 'specialId' in parent_hero_data:
-                                hero_extra['specialId'] = parent_hero_data.get('specialId')
                             costume_bonuses_id = parent_hero_data.get('costumeBonusesId', 'default')
                             rarity = matched_char.get('rarity')
                             bonuses, reason = calculate_costume_bonus(hero_extra, rarity, costume_bonuses_id)
@@ -188,7 +216,11 @@ def main_sync_process():
                                 BONUS_CALCULATION_FAILURES.append({"name": hero_extra.get("name"), "fancy_name": fancy_name, "reason": reason})
                         else:
                             BONUS_CALCULATION_FAILURES.append({"name": hero_extra.get("name"), "fancy_name": fancy_name, "reason": f"未找到 parentHeroId '{parent_hero_id}'"})
-                    elif is_costume:
+                    else:
+                        if 'costumeBonusPassiveSkillIds' in hero_extra:
+                            del hero_extra['costumeBonusPassiveSkillIds']
+                    
+                    if not 'parentHeroId' in matched_char and is_costume:
                          BONUS_CALCULATION_FAILURES.append({"name": hero_extra.get("name"), "fancy_name": fancy_name, "reason": "缺少 'parentHeroId' 字段"})
                     
                     match_found = True
@@ -230,27 +262,46 @@ def main_sync_process():
     if manual_correction_count > 0: print(f"✅ 手动覆盖完成：成功应用 {manual_correction_count} 条修正 (详情见 correction_log.txt)。")
     if global_correction_count > 0: print(f"✅ 全局修正完成：成功应用 {global_correction_count} 条修正 (详情见 correction_log.txt)。")
     if not manual_correction_count and not global_correction_count: print("🟡 未应用任何修正规则。")
-    print("\n--- 阶段 4: 开始执行最终数据排查 ---")
+    
+    # --- 新增步骤：在写入文件前，强制重排所有键的顺序 ---
+    print("\n--- 阶段 4: 开始最终排序 ---")
+    reordered_list = []
+    for hero_dict in HEROES_EXTRA_DATA:
+        reordered_hero = OrderedDict()
+        for key in DESIRED_KEY_ORDER:
+            if key in hero_dict:
+                reordered_hero[key] = hero_dict[key]
+        # 添加任何不在预设顺序中的“漏网之鱼”，防止数据丢失
+        for key, value in hero_dict.items():
+            if key not in reordered_hero:
+                reordered_hero[key] = value
+        reordered_list.append(reordered_hero)
+    print("✅ 所有英雄数据的键已按最终顺序重新排列。")
+
+    print("\n--- 阶段 5: 开始执行最终数据排查 ---")
     anomalies = []
     anomaly_date = "2200-01-01"
-    for hero_extra in HEROES_EXTRA_DATA:
+    for hero_extra in reordered_list:
         if hero_extra.get("Release date") == anomaly_date:
             anomalies.append(hero_extra)
     if anomalies:
         print(f"🚨 警告: 发现 {len(anomalies)} 条记录的发布日期为 '{anomaly_date}' (详情见 final_check_anomalies_log.txt)。")
     else:
         print("✅ 数据排查完成：未发现发布日期异常。")
+
     output_file = 'heroes_data_extra_updated.js'
     print(f"\n正在生成更新后的JS文件: '{output_file}'...")
     try:
-        updated_json_str = json.dumps(HEROES_EXTRA_DATA, indent=4, ensure_ascii=False)
+        # 使用排序后的列表来生成JSON
+        updated_json_str = json.dumps(reordered_list, indent=4, ensure_ascii=False)
         updated_js_content = f"window.allHeroesExtra = {updated_json_str};"
         with open(output_file, 'w', encoding='utf-8') as f:
             f.write(updated_js_content)
-        print(f"✅ 成功写入 '{output_file}'。")
+        print(f"🎉 成功写入 '{output_file}'。所有数据已同步并排序。")
     except Exception as e:
         print(f"❌ 写入更新文件时发生错误: {e}")
 
+    # ... (日志写入部分保持不变) ...
     sync_report_file = 'sync_report.txt'
     try:
         print(f"正在生成同步报告: '{sync_report_file}'...")

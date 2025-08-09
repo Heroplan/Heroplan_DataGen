@@ -39,6 +39,7 @@ REPLACEMENT_RULES = {
     ('manaSpeedId',): [{'file': 'base_values_cn.txt', 'prefix': 'base.'}],
     ('classType',): [{'file': 'base_values_cn.txt', 'prefix': 'base.'}],
     ('rarity',): [{'file': 'base_values_cn.txt', 'prefix': 'base.'}],
+    ('element',): [{'file': 'base_values_cn.txt', 'prefix': 'base.'}],
     ('specialId',): [{'file': 'skill_name_cn.txt', 'prefix': 'specials.name.'}]
 }
 # ==============================================================================

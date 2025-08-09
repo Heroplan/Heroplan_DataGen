@@ -907,9 +907,9 @@ def append_missing_heroes_to_extra_data(missing_heroes_list, file_path):
         processed_names_this_run.add(name)
         blank_entries.append({
             "name": name,
+            "fancy name": "",
             "element": hero_info.get("color", "").capitalize(),
             "rarity": hero_info.get("star", 0),
-            "fancy name": "",
             "Release date": "",
             "AetherPower": "",
             "skill_types": []
@@ -935,17 +935,39 @@ def append_missing_heroes_to_cn_skill_data(missing_names_list, file_path):
     """
     检测缺失中文技能分类数据的英雄，并将其以空白格式追加到指定的JSON文件中。
     会自动处理服装名称，将其转换为 'C', 'C2', 'C3', 'C4' 后缀格式。
+    在写入前会严格校验文件格式，防止意外清空。
     """
+    if not missing_names_list:
+        return
+        
     logging.info(f"检测到 {len(missing_names_list)} 个英雄可能在 '{file_path}' 中缺少条目。正在检查并准备追加...")
     
     existing_data = {}
-    if os.path.exists(file_path):
-        with open(file_path, 'r', encoding='utf-8') as f:
-            try:
-                existing_data = json.load(f)
-            except json.JSONDecodeError:
-                logging.error(f"无法解析 '{file_path}'。将创建一个新文件。")
-    
+    # --- 新增修改：开始文件格式校验 ---
+    if os.path.exists(file_path) and os.path.getsize(file_path) > 0:
+        try:
+            with open(file_path, 'r', encoding='utf-8') as f:
+                loaded_json = json.load(f)
+            
+            # 确保加载的是一个字典
+            if not isinstance(loaded_json, dict):
+                error_msg = f"文件 '{file_path}' 内容格式不正确，应为一个JSON对象(字典)，但检测到类型为 {type(loaded_json).__name__}。"
+                logging.critical(error_msg)
+                print(f"\n严重错误: {error_msg}")
+                print("请手动修复该文件，然后重新运行脚本。为防止数据丢失，操作已中止。")
+                return # 中止函数执行
+            
+            existing_data = loaded_json
+
+        except json.JSONDecodeError as e:
+            # 如果JSON格式损坏，则中止
+            error_msg = f"文件 '{file_path}' 格式错误，不是有效的JSON: {e}"
+            logging.critical(error_msg)
+            print(f"\n严重错误: {error_msg}")
+            print("请手动修复该文件，然后重新运行脚本。为防止数据丢失，操作已中止。")
+            return # 中止函数执行
+    # --- 新增修改：结束文件格式校验 ---
+
     new_entries_count = 0
     for hero_name_full in sorted(list(set(missing_names_list))):
         parts = hero_name_full.split()
