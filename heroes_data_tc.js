@@ -91072,16 +91072,16 @@ window.allHeroes =
         "costume_id": 1,
         "originalIndex": 1323,
         "lb1": {
-            "power": 862,
-            "attack": 759,
-            "defense": 932,
-            "health": 1505
+            "power": 1307,
+            "attack": 1212,
+            "defense": 1490,
+            "health": 2435
         },
         "lb2": {
-            "power": 968,
-            "attack": 868,
-            "defense": 1066,
-            "health": 1722
+            "power": 1478,
+            "attack": 1388,
+            "defense": 1705,
+            "health": 2789
         },
         "cn_skill_info": [
             {
