@@ -2444,11 +2444,11 @@
             "id": "GuestIP1",
             "type": "GuestIP",
             "featuredHeroes": [
-              "The Greatest of All Time",
-              "The Second City Saint",
-              "Mami",
-              "The Game",
-              "The Heartbreak Kid"
+              "guestip1_hero1",
+              "guestip1_hero2",
+              "guestip1_hero8",
+              "guestip1_hero4",
+              "guestip1_hero3"
             ],
             "startTime": "2025-05-26 07:00:00",
             "endTime": "2025-07-07 07:00:00"
@@ -2646,9 +2646,9 @@
             "manuallyOverwritten": true,
             "advertisedHero": "beowulf_nithgaest",
             "featuredHeroes": [
-              "Beowulf's Bane",
-              "Master of the Mead-Hall",
-              "Sword of the Geats"
+              "beowulf_nithgaest",
+              "beowulf_hrothgar",
+              "beowulf_beowulf"
             ],
             "eventBonus": "event_hero_bonus_challenge_events",
             "startTime": "2025-05-18 07:00:00",
@@ -2662,9 +2662,9 @@
             "manuallyOverwritten": true,
             "advertisedHero": "bard_dunnar_hart",
             "featuredHeroes": [
-              "The Magmatic Drummer",
-              "Sovereign of Cerbera-Sovereign of Flora",
-              "Champion Bruiser-Bedtime Bruiser"
+              "bard_dunnar_hart",
+              "villain_toxicandra_costume_rose",
+              "villain_karnov_costume_jammies"
             ],
             "eventBonus": "event_hero_bonus_challenge_events",
             "startTime": "2025-06-15 07:00:00",
@@ -2679,9 +2679,9 @@
             "manuallyOverwritten": true,
             "advertisedHero": "beowulf_grendels_mother",
             "featuredHeroes": [
-              "Terror-Spreading Tarn-Hag",
-              "Beowulf's Bane",
-              "Remorseless Shieldmaiden"
+              "beowulf_grendels_mother",
+              "beowulf_nithgaest",
+              "beowulf_modthryth"
             ],
             "eventBonus": "event_hero_bonus_challenge_events",
             "startTime": "2025-07-13 07:00:00",
@@ -2696,9 +2696,9 @@
             "manuallyOverwritten": true,
             "advertisedHero": "bard_merith",
             "featuredHeroes": [
-              "Serpentine Violinist",
-              "Master of Circus-Master of Clowns",
-              "Dynamic Duo-Dark Duo"
+              "bard_merith",
+              "circus_director_zuri_costume_clown",
+              "circus_eiora_and_fluffy_costume_dark"
             ],
             "eventBonus": "event_hero_bonus_challenge_events",
             "startTime": "2025-08-08 07:00:00",
@@ -2714,9 +2714,9 @@
             "eventEndingOffer": "",
             "advertisedHero": "moth_limeboire",
             "featuredHeroes": [
-              "Moth Barkeeper",
-              "The Master Marksmoth",
-              "The Mothician"
+              "moth_limeboire",
+              "moth_auricarc",
+              "moth_pepperbleu"
             ],
             "eventBonus": "event_hero_bonus_alliance_quest",
             "startTime": "2025-06-02 07:00:00",
@@ -2730,9 +2730,9 @@
             "eventEndingOffer": "",
             "advertisedHero": "moth_chimister",
             "featuredHeroes": [
-              "The Lab Moth",
-              "Moth Barkeeper",
-              "Moth of the Mist"
+              "moth_chimister",
+              "moth_limeboire",
+              "moth_tealmoine"
             ],
             "eventBonus": "event_hero_bonus_alliance_quest",
             "startTime": "2025-06-25 07:00:00",
@@ -2746,9 +2746,9 @@
             "eventEndingOffer": "",
             "advertisedHero": "moth_lilareine",
             "featuredHeroes": [
-              "Marquise Moth",
-              "The Mothician",
-              "The Master Marksmoth"
+              "moth_lilareine",
+              "moth_pepperbleu",
+              "moth_auricarc"
             ],
             "eventBonus": "event_hero_bonus_alliance_quest",
             "startTime": "2025-08-14 07:00:00",
@@ -3558,9 +3558,9 @@
               "manuallyOverwritten": true,
               "advertisedHero": "magic_carpet_zazha",
               "featuredHeroes": [
-                "Magic Carpet Charmer",
-                "Tower Headmaster-Tower Postmaster",
-                "Magic Carpet Drifter"
+                "magic_carpet_lando",
+                "magic_nadezhda_costume_postmaster",
+                "magic_carpet_naeem"
               ],
               "startTime": "2025-07-05 07:00:00",
               "endTime": "2025-07-10 07:00:00"
@@ -3574,9 +3574,9 @@
               "manuallyOverwritten": true,
               "advertisedHero": "magic_carpet_zazha",
               "featuredHeroes": [
-                "Magic Carpet Assassin",
-                "Champion of the Court-Champion of the Bramble",
-                "Magic Carpet Gourmand"
+                "magic_carpet_agadh",
+                "magic_ray_costume_spiky",
+                "magic_carpet_elyssa"
               ],
               "startTime": "2025-07-23 07:00:00",
               "endTime": "2025-07-28 07:00:00"
@@ -3587,9 +3587,9 @@
               "eventOffer": "com.smallgiantgames.empires.toweroffer",
               "manuallyOverwritten": true,
               "featuredHeroes": [
-                "Magic Carpet Cat Lady",
-                "Mystic Chess Master-Mystic Pie Master",
-                "Magic Carpet Assassin"
+                "magic_carpet_lilli",
+                "magic_vaishali_costume_chef",
+                "magic_carpet_agadh"
               ],
               "startTime": "2025-08-20 07:00:00",
               "endTime": "2025-08-25 07:00:00"

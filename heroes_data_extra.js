@@ -6276,7 +6276,7 @@ window.allHeroesExtra = [
         "skill_types": [
             "DoT Attackers",
             "Snipers",
-            "AoE Attackers (Hit-3)"
+            "Chain & Random Attackers"
         ],
         "heroId": "elemental_zengar",
         "baseAttack": 427,
@@ -20476,19 +20476,19 @@ window.allHeroesExtra = [
     {
         "name": "Squire Wabbit",
         "fancy name": "Squire of Springvale",
-        "element": "Blue",
+        "element": "Red",
         "rarity": 3,
         "Release date": "2018-03-28",
-        "AetherPower": "Special Boost",
+        "AetherPower": "Rage",
         "skill_types": [
             "Negative Effects On Self Or Allies",
             "Snipers"
         ],
-        "heroId": "easter_chick_jr",
-        "baseAttack": 301,
-        "baseDefense": 238,
-        "baseHealth": 405,
-        "specialId": "compact_lance",
+        "heroId": "rabbit_red",
+        "baseAttack": 310,
+        "baseDefense": 220,
+        "baseHealth": 350,
+        "specialId": "reckless_stab",
         "passiveSkills": null
     },
     {
@@ -33986,6 +33986,213 @@ window.allHeroesExtra = [
         "attackBonus": "60%",
         "defenseBonus": "60%",
         "healthBonus": "62%",
+        "manaBonus": "5%"
+    },
+    {
+        "name": "Karil glass",
+        "fancy name": "The Hotblooded Vitrail",
+        "element": "Blue",
+        "rarity": 3,
+        "Release date": "2025-08-10",
+        "AetherPower": "Rage",
+        "skill_types": [
+            "AoE Attackers (Hit-3)",
+            "Bypassers"
+        ],
+        "heroId": "dwarven_smasher_costume_glass",
+        "baseAttack": 295,
+        "baseDefense": 206,
+        "baseHealth": 412,
+        "specialId": "ramming_rush",
+        "specialId_costume": "glass_ramming_rush",
+        "passiveSkills": [
+            "glass_reflect_debuffs"
+        ],
+        "costumeBonusPassiveSkillIds": null,
+        "attackBonus": "17%",
+        "defenseBonus": "17%",
+        "healthBonus": "22%",
+        "manaBonus": "5%"
+    },
+    {
+        "name": "Sonya glass",
+        "fancy name": "Glass Champion",
+        "element": "Blue",
+        "rarity": 4,
+        "Release date": "2025-08-10",
+        "AetherPower": "Special Boost",
+        "skill_types": [
+            "Snipers",
+            "Bypassers",
+            "Dispellers"
+            
+        ],
+        "heroId": "royal_female_knight_costume_glass",
+        "baseAttack": 331,
+        "baseDefense": 300,
+        "baseHealth": 460,
+        "specialId": "piercing_strike",
+        "specialId_costume": "glass_piercing_strike",
+        "passiveSkills": [
+            "glass_reflect_debuffs"
+        ],
+        "costumeBonusPassiveSkillIds": null,
+        "attackBonus": "19%",
+        "defenseBonus": "19%",
+        "healthBonus": "24%",
+        "manaBonus": "5%"
+    },
+    {
+        "name": "Riverfang",
+        "fancy name": "The Conjurer Corsac Fox",
+        "element": "Blue",
+        "rarity": 5,
+        "Release date": "2025-08-09",
+        "AetherPower": "Special Boost",
+        "skill_types": [
+            "AoE Attackers (Hit-3)",
+            "Dispellers",
+            "Healers (Special)",
+            "DoT Attackers",
+            "Extra Damage Dealers",
+            "Healing Reducers"
+        ],
+        "heroId": "fox_riverfang",
+        "baseAttack": 621,
+        "baseDefense": 588,
+        "baseHealth": 1095,
+        "specialId": "vicious_cyclone",
+        "passiveSkills": [
+            "reduced_healing_for_all_enemies"
+        ]
+    },
+    {
+        "name": "Zengar costume1",
+        "fancy name": "Cultivating Beast",
+        "element": "Blue",
+        "rarity": 5,
+        "Release date": "2025-08-12",
+        "AetherPower": "Counterattack",
+        "skill_types": [
+            "DoT Attackers",
+            "Snipers",
+            "Chain & Random Attackers"
+        ],
+        "heroId": "elemental_zengar_costume_farmer",
+        "baseAttack": 422,
+        "baseDefense": 400,
+        "baseHealth": 846,
+        "specialId": "great_frost_axe",
+        "specialId_costume": "great_frost_hoe",
+        "passiveSkills": [
+            "strong_troop_damage_modifier_costume"
+        ],
+        "costumeBonusPassiveSkillIds": null,
+        "attackBonus": "40%",
+        "defenseBonus": "40%",
+        "healthBonus": "45%",
+        "manaBonus": "5%"
+    },
+    {
+        "name": "Nettletail",
+        "fancy name": "The Kind Grovekeeper Fox",
+        "element": "Green",
+        "rarity": 3,
+        "Release date": "2025-08-09",
+        "AetherPower": "Heal Increase",
+        "skill_types": [
+            "Health Boosters",
+            "Buffers (DEF)",
+            "Healing Reducers"
+        ],
+        "heroId": "fox_nettletail",
+        "baseAttack": 310,
+        "baseDefense": 295,
+        "baseHealth": 478,
+        "specialId": "friendly_critters_feast",
+        "passiveSkills": [
+            "reduced_healing_for_all_enemies"
+        ]
+    },
+    {
+        "name": "Nashgar glass",
+        "fancy name": "Last to Shatter",
+        "element": "Red",
+        "rarity": 3,
+        "Release date": "2025-08-10",
+        "AetherPower": "Attack Up",
+        "skill_types": [
+            "DoT Attackers",
+            "Snipers",
+            "Bypassers"
+        ],
+        "heroId": "orc_warrior_costume_glass",
+        "baseAttack": 316,
+        "baseDefense": 201,
+        "baseHealth": 372,
+        "specialId": "burning_strike",
+        "specialId_costume": "glass_burning_strike",
+        "passiveSkills": [
+            "glass_reflect_debuffs"
+        ],
+        "costumeBonusPassiveSkillIds": null,
+        "attackBonus": "17%",
+        "defenseBonus": "17%",
+        "healthBonus": "22%",
+        "manaBonus": "5%"
+    },
+    {
+        "name": "Wu Kong glass",
+        "fancy name": "Glass Monkey",
+        "element": "Yellow",
+        "rarity": 4,
+        "Release date": "2025-08-10",
+        "AetherPower": "Gamble",
+        "skill_types": [
+            "Buffers (ATK)",
+            "Reflectors",
+            "Negative Effects On Self Or Allies"
+        ],
+        "heroId": "oriental_monkey_captain_costume_glass",
+        "baseAttack": 306,
+        "baseDefense": 316,
+        "baseHealth": 495,
+        "specialId": "gamblers_stance",
+        "specialId_costume": "glass_gamblers_stance",
+        "passiveSkills": [
+            "glass_reflect_debuffs"
+        ],
+        "costumeBonusPassiveSkillIds": null,
+        "attackBonus": "19%",
+        "defenseBonus": "19%",
+        "healthBonus": "24%",
+        "manaBonus": "5%"
+    },
+    {
+        "name": "Justice glass",
+        "fancy name": "Vitrail of Stone",
+        "element": "Yellow",
+        "rarity": 5,
+        "Release date": "2025-08-10",
+        "AetherPower": "Defense Up",
+        "skill_types": [
+            "AoE Attackers (Hit-5)",
+            "Debuffers (ATK)",
+            "Bypassers"
+        ],
+        "heroId": "exalted_female_statue_costume_glass",
+        "baseAttack": 374,
+        "baseDefense": 290,
+        "baseHealth": 676,
+        "specialId": "rite_of_judgement",
+        "specialId_costume": "rite_of_glass",
+        "passiveSkills": [
+            "glass_reflect_debuffs"
+        ],
+        "costumeBonusPassiveSkillIds": null,
+        "attackBonus": "75%",
+        "defenseBonus": "75%",
+        "healthBonus": "78%",
         "manaBonus": "5%"
     }
 ];

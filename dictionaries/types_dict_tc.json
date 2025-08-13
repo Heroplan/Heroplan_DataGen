@@ -841,5 +841,10 @@
     "Dodge Buff All": "全體閃避增益",
     "Frostfall Ward Buff All": "全體霜降護體增益",
     "Critical Chance All": "全體暴擊機率",
-    "Delayed Paralyze 3": "延遲麻痺3個目標"
+    "Delayed Paralyze 3": "延遲麻痺3個目標",
+    "Lasting Increased Damage from Ailments 3": "3個目標承受的狀態異常傷害持續增加",
+    "Damage 2 if Fire": "若目標為火焰系則额外對2個目標造成傷害",
+    "Dot 2 if Fire": "若目標為火焰系則额外對2個目標造成持續傷害",
+    "Friendly Criters’ Feast": "友善生物盛宴",
+    "Lasting Defense Buff All": "全體持續防禦增益"
 }

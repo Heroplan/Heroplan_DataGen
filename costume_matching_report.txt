@@ -1,4 +1,4 @@
-✅ 成功匹配的服装 (448 / 0)
+✅ 成功匹配的服装 (454 / 0)
 ================================
 Name: Berden Costume1, Fancy Name: Adroit Archer
 Name: Hannah Costume1, Fancy Name: Adventurous Drover
@@ -65,6 +65,7 @@ Name: Thor Costume1, Fancy Name: Conduit of Thunder
 Name: Bera Costume1, Fancy Name: Conjurer of the Disir
 Name: Guardian Kong Costume1, Fancy Name: Conqueror Kong
 Name: Thoth-Amun Costume1, Fancy Name: Cosmic Conjurer
+Name: Zengar costume1, Fancy Name: Cultivating Beast
 Name: Scarlett Costume2, Fancy Name: Dancer from the Sandsea
 Name: Azmia Costume1, Fancy Name: Dancing Tavern Keeper
 Name: Salmon Loki Costume1, Fancy Name: Dapper Fish
@@ -142,12 +143,14 @@ Name: Berden Glass, Fancy Name: Glass Archer
 Name: Colen Glass, Fancy Name: Glass Bounty hunter
 Name: Bane Glass, Fancy Name: Glass Brawler
 Name: Rigard Glass, Fancy Name: Glass Cavalier
+Name: Sonya glass, Fancy Name: Glass Champion
 Name: Kashhrek Glass, Fancy Name: Glass Chieftain
 Name: Carver Glass, Fancy Name: Glass Cutpurse
 Name: Li Xiu Glass, Fancy Name: Glass General
 Name: Kailani Glass, Fancy Name: Glass Healer
 Name: Azlar Glass, Fancy Name: Glass Leor
 Name: Balthazar Glass, Fancy Name: Glass Magician
+Name: Wu Kong glass, Fancy Name: Glass Monkey
 Name: Vivica Glass, Fancy Name: Glass Scholar
 Name: Domitia Glass, Fancy Name: Glass Sniper
 Name: Elkanen Glass, Fancy Name: Glass Spearmaster
@@ -209,6 +212,7 @@ Name: Ma'at Costume1, Fancy Name: Lady of the Iteru
 Name: Aino Costume1, Fancy Name: Lake Maiden
 Name: Tiburtus Costume2, Fancy Name: Lamenting Duke
 Name: Nashgar Costume1, Fancy Name: Last to Retreat
+Name: Nashgar glass, Fancy Name: Last to Shatter
 Name: Lepiota Costume1, Fancy Name: Leader of the Undying
 Name: Azlar Costume2, Fancy Name: Leor Babysitter
 Name: Mnesseus Costume1, Fancy Name: Lieutenant of Atlantis
@@ -357,6 +361,7 @@ Name: Emilio Costume1, Fancy Name: The Great Frog Tamer
 Name: Karil Costume1, Fancy Name: The Heated
 Name: Gregorion Costume1, Fancy Name: The Hermit Alchemist
 Name: Karil Toon, Fancy Name: The Hotblooded Toon
+Name: Karil glass, Fancy Name: The Hotblooded Vitrail
 Name: Gormek Toon, Fancy Name: The Hungry Toon
 Name: Gormek Glass, Fancy Name: The Hungry Vitrail
 Name: Caitlin Costume1, Fancy Name: The Justicar Crusader
@@ -429,6 +434,7 @@ Name: Kelile Glass, Fancy Name: Vitrail of Dragonia
 Name: Isarnia Glass, Fancy Name: Vitrail of Glaceholm
 Name: Magni Glass, Fancy Name: Vitrail of Ice
 Name: Brienne Glass, Fancy Name: Vitrail of Rathwood
+Name: Justice glass, Fancy Name: Vitrail of Stone
 Name: Marjana Glass, Fancy Name: Vitrail of Windemer
 Name: Melendor Glass, Fancy Name: Vitrail of the Forest
 Name: Joon Glass, Fancy Name: Vitrail of the Sun

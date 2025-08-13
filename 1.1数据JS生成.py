@@ -986,14 +986,14 @@ def append_missing_heroes_to_cn_skill_data(missing_names_list, file_path):
         if not suffix:
             output_key = base_name
         elif normalized_base in SPECIAL_COSTUME_HEROES:
-            if suffix == "costume1": output_key = f"{base_name} C"
-            elif suffix == "toon": output_key = f"{base_name} C2"
-            elif suffix == "glass": output_key = f"{base_name} C3"
+            if suffix == "Costume1": output_key = f"{base_name} C"
+            elif suffix == "Toon": output_key = f"{base_name} C2"
+            elif suffix == "Glass": output_key = f"{base_name} C3"
         else:
-            if suffix == "costume1": output_key = f"{base_name} C"
-            elif suffix == "costume2": output_key = f"{base_name} C2"
-            elif suffix == "toon": output_key = f"{base_name} C3"
-            elif suffix == "glass": output_key = f"{base_name} C4"
+            if suffix == "Costume1": output_key = f"{base_name} C"
+            elif suffix == "Costume2": output_key = f"{base_name} C2"
+            elif suffix == "Toon": output_key = f"{base_name} C3"
+            elif suffix == "Glass": output_key = f"{base_name} C4"
         
         if not output_key:
             logging.warning(f"无法为 '{hero_name_full}' 确定输出键名。已跳过。")

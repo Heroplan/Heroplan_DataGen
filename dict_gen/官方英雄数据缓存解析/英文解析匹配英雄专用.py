@@ -25,7 +25,7 @@ SPECIAL_BOOLEAN_TRUE_KEYS = ('hasImprovedTalentSkill', 'isSecret', 'isDefaultRid
 SPECIAL_DURATION_KEYS = ('duration', 'timeOfDay','preparationDuration','mapDuration','aftermathDuration')
 
 REPLACEMENT_RULES = {
-    ('heroes', 'featuredHeroes','costumeId','id','parentHeroId2'): [
+    ('heroes', 'featuredHeroes2','costumeId','id','parentHeroId2'): [
         {
             'file': 'heroes_name_fancy_en.txt', 
             'prefix': 'heroes.name_fancy.',

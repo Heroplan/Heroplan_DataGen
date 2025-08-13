@@ -96991,10 +96991,10 @@
               "endDate": "2024-12-28 07:00:00",
               "overridden": true,
               "featuredHeroes": [
-                "Prince of the Jungle-Prince of the Lūʻau",
-                "Spellcaster Fashionista",
-                "Nine-tailed Spirit-White Kitsune Spirit",
-                "Leaders of the Pack"
+                "s2_junglehunter_costume_party",
+                "ice_god_suzuna",
+                "s2_fox_girl_costume_white_kitsune",
+                "nature_god_bo_and_runt"
               ],
               "advertisedHero": "s2_junglehunter_costume_party",
               "adSummonEnabled": true
@@ -97007,10 +97007,10 @@
               "endDate": "2025-01-15 07:00:00",
               "overridden": true,
               "featuredHeroes": [
-                "Magnificent Mercenary-Magnificent Hula Dancer",
-                "Pioneering Rearguard",
-                "Savage Butcher-Savage Blademaster",
-                "The Falcon Commander"
+                "s2_mercenary_woman_costume_dancer",
+                "fire_god_skargremar",
+                "s2_hammerhead_hulk_costume_emerald",
+                "holy_god_aviana"
               ],
               "advertisedHero": "s2_mercenary_woman_costume_dancer",
               "adSummonEnabled": true
@@ -97023,10 +97023,10 @@
               "endDate": "2025-02-12 07:00:00",
               "overridden": true,
               "featuredHeroes": [
-                "Fatal Beauty-Blazing Beauty",
-                "Meliai Warmage",
-                "Goddess of all Rivers",
-                "The Azure Conjurer"
+                "s2_noble_lady_costume_warrior",
+                "nature_god_cinisia",
+                "s2_tethys",
+                "ice_god_sini"
               ],
               "advertisedHero": "s2_noble_lady_costume_warrior",
               "adSummonEnabled": true
@@ -97039,10 +97039,10 @@
               "endDate": "2025-05-27 07:00:00",
               "overridden": true,
               "featuredHeroes": [
-                "Nine-tailed Spirit-White Kitsune Spirit",
-                "Toxic Abomination",
-                "Magnificent Mercenary-Magnificent Hula Dancer",
-                "Charming Privateer"
+                "s2_fox_girl_costume_white_kitsune",
+                "dark_god_uthragan",
+                "s2_mercenary_woman_costume_dancer",
+                "fire_god_zidane"
               ],
               "advertisedHero": "s2_fox_girl_costume_white_kitsune",
               "adSummonEnabled": true
@@ -97055,10 +97055,10 @@
               "endDate": "2025-06-24 07:00:00",
               "overridden": true,
               "featuredHeroes": [
-                "Prince of the Jungle-Prince of the Lūʻau",
-                "Fire Wizard",
-                "Nine-tailed Spirit-White Kitsune Spirit",
-                "Fairy Queen of the Night"
+                "s2_junglehunter_costume_party",
+                "fire_god_neema",
+                "s2_fox_girl_costume_white_kitsune",
+                "ice_god_mene"
               ],
               "advertisedHero": "s2_junglehunter_costume_party",
               "adSummonEnabled": true
@@ -97071,10 +97071,10 @@
               "endDate": "2025-07-21 07:00:00",
               "overridden": true,
               "featuredHeroes": [
-                "Magnificent Mercenary-Magnificent Hula Dancer",
-                "Queen of Eternal Spring",
-                "Savage Butcher-Savage Blademaster",
-                "Elven White Mage"
+                "s2_mercenary_woman_costume_dancer",
+                "nature_god_leadria",
+                "s2_hammerhead_hulk_costume_emerald",
+                "holy_god_faeona"
               ],
               "advertisedHero": "s2_mercenary_woman_costume_dancer",
               "adSummonEnabled": true
@@ -97087,10 +97087,10 @@
               "endDate": "2025-08-19 07:00:00",
               "overridden": true,
               "featuredHeroes": [
-                "Fatal Beauty-Blazing Beauty",
-                "Knight of the Rose",
-                "Goddess of all Rivers",
-                "Imperial Lancer"
+                "s2_noble_lady_costume_warrior",
+                "holy_god_zora",
+                "s2_tethys",
+                "dark_god_zed"
               ],
               "advertisedHero": "s2_noble_lady_costume_warrior",
               "adSummonEnabled": true
@@ -97103,10 +97103,10 @@
               "endDate": "2025-09-16 07:00:00",
               "overridden": true,
               "featuredHeroes": [
-                "Guardian of Atlantis-Guardian of the Reef",
-                "Relentless Tracker",
-                "Empress of the Depths-Deadly Reef Queen",
-                "Mesmerizing Enchantress"
+                "s2_skyllaros_costume_reef",
+                "ice_god_callum",
+                "s2_ursena_costume_reef",
+                "nature_god_mystia"
               ],
               "advertisedHero": "s2_skyllaros_costume_reef",
               "adSummonEnabled": true
@@ -97182,9 +97182,9 @@
               "startDate": "2024-06-07 07:00:00",
               "endDate": "2024-06-10 07:00:00",
               "featuredHeroes": [
-                "Queen of Svartalfheim-Hatter of Svartalfheim",
-                "Relentless Justice-Savage Justice",
-                "Fair-Haired Deity-Golden Deity"
+                "s3_alfrike_costume_hatter",
+                "s3_tyr_costume_savage",
+                "s3_sif_costume_golden"
               ],
               "advertisedHero": "s3_alfrike_costume_hatter",
               "adSummonEnabled": true
@@ -97197,9 +97197,9 @@
               "endDate": "2024-07-14 07:00:00",
               "overridden": true,
               "featuredHeroes": [
-                "Trickster Fish-Dapper Fish",
-                "Luminous God-Fiery God",
-                "God of Thunder-Conduit of Thunder"
+                "s3_loki_fish_costume_dapper",
+                "s3_baldur_costume_fiery",
+                "s3_thor_costume_conduit"
               ],
               "advertisedHero": "s3_loki_fish_costume_dapper",
               "adSummonEnabled": true
@@ -97212,9 +97212,9 @@
               "endDate": "2024-08-18 07:00:00",
               "overridden": true,
               "featuredHeroes": [
-                "Weavers of Destiny-Puppeteers of Destiny",
-                "Wise All-Father-Valiant All-Father",
-                "Goddess of Harvest-Goddess of the Wild"
+                "s3_norns_costume_puppeteers",
+                "s3_odin_costume_champion",
+                "s3_gefjon_costume_wilderness"
               ],
               "advertisedHero": "s3_norns_costume_puppeteers",
               "adSummonEnabled": true
@@ -97227,9 +97227,9 @@
               "endDate": "2024-09-15 07:00:00",
               "overridden": true,
               "featuredHeroes": [
-                "Messenger of Yggdrasil-Architect of Yggdrasil",
-                "Leader of Niflheim-Guardian of Niflheim",
-                "Goddess of Jotunheim-Guardian of Jotunheim"
+                "s3_ratatoskr_costume_architect",
+                "s3_fenrir_costume_guardian",
+                "s3_skadi_costume_ravager"
               ],
               "advertisedHero": "s3_ratatoskr_costume_architect",
               "adSummonEnabled": true
@@ -97242,9 +97242,9 @@
               "endDate": "2024-10-13 07:00:00",
               "overridden": true,
               "featuredHeroes": [
-                "Trickster Goddess-Trickster Mother",
-                "Vigilant Watchman-Dreaded Watchman",
-                "Trickster God-Shapeshifter God"
+                "s3_loki_female_costume_mother",
+                "s3_heimdall_costume_dreaded",
+                "s3_loki_male_costume_shapeshifter"
               ],
               "advertisedHero": "s3_loki_female_costume_mother",
               "adSummonEnabled": true
@@ -97257,9 +97257,9 @@
               "endDate": "2024-11-10 07:00:00",
               "overridden": true,
               "featuredHeroes": [
-                "Princess of the Dísir-Conjurer of the Dísir",
-                "Goddess of Foresight-Goddess of Clairvoyance",
-                "Lady of the Slain-Witch of the Fallen"
+                "s3_bera_costume_conjurer",
+                "s3_frigg_costume_clairvoyance",
+                "s3_freya_costume_witch"
               ],
               "advertisedHero": "s3_bera_costume_conjurer",
               "adSummonEnabled": true
@@ -97272,9 +97272,9 @@
               "endDate": "2024-12-04 07:00:00",
               "overridden": true,
               "featuredHeroes": [
-                "Trickster God-Shapeshifter God",
-                "Lady of the Slain-Witch of the Fallen",
-                "Fair-Haired Deity-Golden Deity"
+                "s3_loki_male_costume_shapeshifter",
+                "s3_freya_costume_witch",
+                "s3_sif_costume_golden"
               ],
               "advertisedHero": "s3_loki_male_costume_shapeshifter",
               "adSummonEnabled": true
@@ -97287,9 +97287,9 @@
               "endDate": "2025-01-01 07:00:00",
               "overridden": true,
               "featuredHeroes": [
-                "Trickster Fish-Dapper Fish",
-                "Luminous God-Fiery God",
-                "God of Thunder-Conduit of Thunder"
+                "s3_loki_fish_costume_dapper",
+                "s3_baldur_costume_fiery",
+                "s3_thor_costume_conduit"
               ],
               "advertisedHero": "s3_loki_fish_costume_dapper",
               "adSummonEnabled": true
@@ -97301,9 +97301,9 @@
               "startDate": "2025-01-17 07:00:00",
               "endDate": "2025-01-20 07:00:00",
               "featuredHeroes": [
-                "Weavers of Destiny-Puppeteers of Destiny",
-                "Wise All-Father-Valiant All-Father",
-                "Goddess of Harvest-Goddess of the Wild"
+                "s3_norns_costume_puppeteers",
+                "s3_odin_costume_champion",
+                "s3_gefjon_costume_wilderness"
               ],
               "advertisedHero": "s3_norns_costume_puppeteers",
               "adSummonEnabled": true
@@ -97315,9 +97315,9 @@
               "startDate": "2025-02-14 07:00:00",
               "endDate": "2025-02-17 07:00:00",
               "featuredHeroes": [
-                "Messenger of Yggdrasil-Architect of Yggdrasil",
-                "Leader of Niflheim-Guardian of Niflheim",
-                "Goddess of Jotunheim-Guardian of Jotunheim"
+                "s3_ratatoskr_costume_architect",
+                "s3_fenrir_costume_guardian",
+                "s3_skadi_costume_ravager"
               ],
               "advertisedHero": "s3_ratatoskr_costume_architect",
               "adSummonEnabled": true
@@ -97329,9 +97329,9 @@
               "startDate": "2025-03-14 07:00:00",
               "endDate": "2025-03-17 07:00:00",
               "featuredHeroes": [
-                "Trickster Goddess-Trickster Mother",
-                "Vigilant Watchman-Dreaded Watchman",
-                "Trickster God-Shapeshifter God"
+                "s3_loki_female_costume_mother",
+                "s3_heimdall_costume_dreaded",
+                "s3_loki_male_costume_shapeshifter"
               ],
               "advertisedHero": "s3_loki_female_costume_mother",
               "adSummonEnabled": true
@@ -97343,9 +97343,9 @@
               "startDate": "2025-04-11 07:00:00",
               "endDate": "2025-04-14 07:00:00",
               "featuredHeroes": [
-                "Princess of the Dísir-Conjurer of the Dísir",
-                "Goddess of Foresight-Goddess of Clairvoyance",
-                "Lady of the Slain-Witch of the Fallen"
+                "s3_bera_costume_conjurer",
+                "s3_frigg_costume_clairvoyance",
+                "s3_freya_costume_witch"
               ],
               "advertisedHero": "s3_bera_costume_conjurer",
               "adSummonEnabled": true
@@ -97358,9 +97358,9 @@
               "endDate": "2025-05-07 07:00:00",
               "overridden": true,
               "featuredHeroes": [
-                "Queen of Svartalfheim-Hatter of Svartalfheim",
-                "Relentless Justice-Savage Justice",
-                "Fair-Haired Deity-Golden Deity"
+                "s3_alfrike_costume_hatter",
+                "s3_tyr_costume_savage",
+                "s3_sif_costume_golden"
               ],
               "advertisedHero": "s3_alfrike_costume_hatter",
               "adSummonEnabled": true
@@ -97373,9 +97373,9 @@
               "endDate": "2025-06-05 07:00:00",
               "overridden": true,
               "featuredHeroes": [
-                "Trickster Fish-Dapper Fish",
-                "Luminous God-Fiery God",
-                "God of Thunder-Conduit of Thunder"
+                "s3_loki_fish_costume_dapper",
+                "s3_baldur_costume_fiery",
+                "s3_thor_costume_conduit"
               ],
               "advertisedHero": "s3_loki_fish_costume_dapper",
               "adSummonEnabled": true
@@ -97388,9 +97388,9 @@
               "endDate": "2025-07-05 07:00:00",
               "overridden": true,
               "featuredHeroes": [
-                "Weavers of Destiny-Puppeteers of Destiny",
-                "Wise All-Father-Valiant All-Father",
-                "Goddess of Harvest-Goddess of the Wild"
+                "s3_norns_costume_puppeteers",
+                "s3_odin_costume_champion",
+                "s3_gefjon_costume_wilderness"
               ],
               "advertisedHero": "s3_norns_costume_puppeteers",
               "adSummonEnabled": true
@@ -97403,9 +97403,9 @@
               "endDate": "2025-08-01 07:00:00",
               "overridden": true,
               "featuredHeroes": [
-                "Messenger of Yggdrasil-Architect of Yggdrasil",
-                "Leader of Niflheim-Guardian of Niflheim",
-                "Goddess of Jotunheim-Guardian of Jotunheim"
+                "s3_ratatoskr_costume_architect",
+                "s3_fenrir_costume_guardian",
+                "s3_skadi_costume_ravager"
               ],
               "advertisedHero": "s3_ratatoskr_costume_architect",
               "adSummonEnabled": true
@@ -97418,9 +97418,9 @@
               "endDate": "2025-08-29 07:00:00",
               "overridden": true,
               "featuredHeroes": [
-                "Trickster Goddess-Trickster Mother",
-                "Vigilant Watchman-Dreaded Watchman",
-                "Trickster God-Shapeshifter God"
+                "s3_loki_female_costume_mother",
+                "s3_heimdall_costume_dreaded",
+                "s3_loki_male_costume_shapeshifter"
               ],
               "advertisedHero": "s3_loki_female_costume_mother",
               "adSummonEnabled": true
@@ -97433,9 +97433,9 @@
               "endDate": "2025-09-25 07:00:00",
               "overridden": true,
               "featuredHeroes": [
-                "Princess of the Dísir-Conjurer of the Dísir",
-                "Goddess of Foresight-Goddess of Clairvoyance",
-                "Lady of the Slain-Witch of the Fallen"
+                "s3_bera_costume_conjurer",
+                "s3_frigg_costume_clairvoyance",
+                "s3_freya_costume_witch"
               ],
               "advertisedHero": "s3_bera_costume_conjurer",
               "adSummonEnabled": true
@@ -97510,9 +97510,9 @@
               "endDate": "2024-03-04 07:00:00",
               "overridden": true,
               "featuredHeroes": [
-                "Myriapod Queen-Apocynacid Queen",
-                "Octopod Champion-Molluscan Suitor",
-                "Devious Scientist-Devious Scribe"
+                "s4_zenobia_costume_floral",
+                "s4_octros_costume_suitor",
+                "s4_doctor_moreau_costume_scribe"
               ],
               "advertisedHero": "s4_zenobia_costume_floral",
               "adSummonEnabled": true
@@ -97525,9 +97525,9 @@
               "endDate": "2024-04-29 07:00:00",
               "overridden": true,
               "featuredHeroes": [
-                "Adventurous Archaeologist-Adventurous Drover",
-                "Leader of the Eloi-Leader of the Undying",
-                "Courageous Voyager-Exquisite Engineer"
+                "s4_hannah_costume_drover",
+                "s4_lepiota_costume_undying",
+                "s4_phileas_fogg_costume_engineer"
               ],
               "advertisedHero": "s4_hannah_costume_drover",
               "adSummonEnabled": true
@@ -97540,9 +97540,9 @@
               "endDate": "2024-05-27 07:00:00",
               "overridden": true,
               "featuredHeroes": [
-                "Heiress of the Underworld-Heiress to the Flame",
-                "Head of the Moles-Head Nurse",
-                "Arachnid Aristocrat-Bridal Aristocrat"
+                "s4_xenda_costume_flame",
+                "s4_hulda_costume_nurse",
+                "s4_elizabeth_costume_bride"
               ],
               "advertisedHero": "s4_xenda_costume_flame",
               "adSummonEnabled": true
@@ -97555,9 +97555,9 @@
               "endDate": "2024-06-24 07:00:00",
               "overridden": true,
               "featuredHeroes": [
-                "Myriapod Prince-Apocynacid Prince",
-                "Courageous Voyager-Exquisite Engineer",
-                "Leader of the Eloi-Leader of the Undying"
+                "s4_zekena_costume_vines",
+                "s4_phileas_fogg_costume_engineer",
+                "s4_lepiota_costume_undying"
               ],
               "advertisedHero": "s4_zekena_costume_vines",
               "adSummonEnabled": true
@@ -97570,9 +97570,9 @@
               "endDate": "2024-07-08 07:00:00",
               "overridden": true,
               "featuredHeroes": [
-                "Head of the Moles-Head Nurse",
-                "Arachnid Aristocrat-Bridal Aristocrat",
-                "Myriapod Queen-Apocynacid Queen"
+                "s4_hulda_costume_nurse",
+                "s4_elizabeth_costume_bride",
+                "s4_zenobia_costume_floral"
               ],
               "advertisedHero": "s4_hulda_costume_nurse",
               "adSummonEnabled": true
@@ -97585,9 +97585,9 @@
               "endDate": "2024-08-05 07:00:00",
               "overridden": true,
               "featuredHeroes": [
-                "Warrior of the Depths-Warrior of Kelp",
-                "Courageous Voyager-Exquisite Engineer",
-                "Arachnid Aristocrat-Bridal Aristocrat"
+                "s4_congalach_costume_kelp",
+                "s4_phileas_fogg_costume_engineer",
+                "s4_elizabeth_costume_bride"
               ],
               "advertisedHero": "s4_congalach_costume_kelp",
               "adSummonEnabled": true
@@ -97600,9 +97600,9 @@
               "endDate": "2024-09-02 07:00:00",
               "overridden": true,
               "featuredHeroes": [
-                "King of the Depths-The Deathless King",
-                "Head of the Moles-Head Nurse",
-                "Myriapod Prince-Apocynacid Prince"
+                "s4_lughaidh_costume_deathless",
+                "s4_hulda_costume_nurse",
+                "s4_zekena_costume_vines"
               ],
               "advertisedHero": "s4_lughaidh_costume_deathless",
               "adSummonEnabled": true
@@ -97615,9 +97615,9 @@
               "endDate": "2024-09-30 07:00:00",
               "overridden": true,
               "featuredHeroes": [
-                "Ettin Commander-Ettin Grillmaster",
-                "Octopod Priest-Octopod Hierophant",
-                "Morlock Chieftain-Morlock Running Back"
+                "s4_kravekrush_costume_grillmaster",
+                "s4_exeera_costume_hierophant",
+                "s4_akkorog_costume_football"
               ],
               "advertisedHero": "s4_kravekrush_costume_grillmaster",
               "adSummonEnabled": true
@@ -97630,9 +97630,9 @@
               "endDate": "2024-10-28 07:00:00",
               "overridden": true,
               "featuredHeroes": [
-                "Heiress of the Underworld-Heiress to the Flame",
-                "Head of the Moles-Head Nurse",
-                "King of the Depths-The Deathless King"
+                "s4_xenda_costume_flame",
+                "s4_hulda_costume_nurse",
+                "s4_lughaidh_costume_deathless"
               ],
               "advertisedHero": "s4_xenda_costume_flame",
               "adSummonEnabled": true
@@ -97645,9 +97645,9 @@
               "endDate": "2024-11-20 07:00:00",
               "overridden": true,
               "featuredHeroes": [
-                "Kind-hearted Princess-Lotus Princess",
-                "Eloi Hunter-Eloi Sage",
-                "Morlock Battle Master-Morlock Kite Master"
+                "s4_aouda_costume_lotus",
+                "s4_morel_costume_sage",
+                "s4_garjammal_costume_kite"
               ],
               "advertisedHero": "s4_aouda_costume_lotus",
               "adSummonEnabled": true
@@ -97660,9 +97660,9 @@
               "endDate": "2024-12-23 07:00:00",
               "overridden": true,
               "featuredHeroes": [
-                "Enigmatic Explorer-Enigmatic Machinist",
-                "King of the Depths-The Deathless King",
-                "Kind-hearted Princess-Lotus Princess"
+                "s4_captain_nemo_costume_machinist",
+                "s4_lughaidh_costume_deathless",
+                "s4_aouda_costume_lotus"
               ],
               "advertisedHero": "s4_captain_nemo_costume_machinist",
               "adSummonEnabled": true
@@ -97675,9 +97675,9 @@
               "endDate": "2025-01-09 07:00:00",
               "overridden": true,
               "featuredHeroes": [
-                "Myriapod Queen-Apocynacid Queen",
-                "Clever Voyager-Elegant Artist",
-                "Leader of the Eloi-Leader of the Undying"
+                "s4_zenobia_costume_floral",
+                "s4_passepartout_costume_artist",
+                "s4_lepiota_costume_undying"
               ],
               "advertisedHero": "s4_zenobia_costume_floral",
               "adSummonEnabled": true
@@ -97690,9 +97690,9 @@
               "endDate": "2025-01-31 07:00:00",
               "overridden": true,
               "featuredHeroes": [
-                "Morlock Chieftain-Morlock Running Back",
-                "Octopod Sorcerer-Octopod Jailer",
-                "Warrior of the Depths-Warrior of Kelp"
+                "s4_akkorog_costume_football",
+                "s4_xnolphod_costume_jailer",
+                "s4_congalach_costume_kelp"
               ],
               "advertisedHero": "s4_akkorog_costume_football",
               "adSummonEnabled": true
@@ -97705,9 +97705,9 @@
               "endDate": "2025-02-28 07:00:00",
               "overridden": true,
               "featuredHeroes": [
-                "Eloi Rogue-Eloi Painter",
-                "Octopod Champion-Molluscan Suitor",
-                "Devious Scientist-Devious Scribe"
+                "s4_russula_costume_painter",
+                "s4_octros_costume_suitor",
+                "s4_doctor_moreau_costume_scribe"
               ],
               "advertisedHero": "s4_russula_costume_painter",
               "adSummonEnabled": true
@@ -97720,9 +97720,9 @@
               "endDate": "2025-03-28 07:00:00",
               "overridden": true,
               "featuredHeroes": [
-                "Head of the Moles-Head Nurse",
-                "Ettin Commander-Ettin Grillmaster",
-                "Eloi Hunter-Eloi Sage"
+                "s4_hulda_costume_nurse",
+                "s4_kravekrush_costume_grillmaster",
+                "s4_morel_costume_sage"
               ],
               "advertisedHero": "s4_hulda_costume_nurse",
               "adSummonEnabled": true
@@ -97735,9 +97735,9 @@
               "endDate": "2025-04-25 07:00:00",
               "overridden": true,
               "featuredHeroes": [
-                "Heiress of the Underworld-Heiress to the Flame",
-                "Leader of the Eloi-Leader of the Undying",
-                "Devious Scientist-Devious Scribe"
+                "s4_xenda_costume_flame",
+                "s4_lepiota_costume_undying",
+                "s4_doctor_moreau_costume_scribe"
               ],
               "advertisedHero": "s4_xenda_costume_flame",
               "adSummonEnabled": true
@@ -97750,9 +97750,9 @@
               "endDate": "2025-05-13 07:00:00",
               "overridden": true,
               "featuredHeroes": [
-                "Adventurous Archaeologist-Adventurous Drover",
-                "Sagacious Scientist-Sagacious Jeweler",
-                "Arachnid Aristocrat-Bridal Aristocrat"
+                "s4_hannah_costume_drover",
+                "s4_professor_lidenbrock_costume_jeweler",
+                "s4_elizabeth_costume_bride"
               ],
               "advertisedHero": "s4_hannah_costume_drover",
               "adSummonEnabled": true
@@ -97765,9 +97765,9 @@
               "endDate": "2025-06-10 07:00:00",
               "overridden": true,
               "featuredHeroes": [
-                "Myriapod Prince-Apocynacid Prince",
-                "Courageous Voyager-Exquisite Engineer",
-                "Leader of the Eloi-Leader of the Undying"
+                "s4_zekena_costume_vines",
+                "s4_phileas_fogg_costume_engineer",
+                "s4_lepiota_costume_undying"
               ],
               "advertisedHero": "s4_zekena_costume_vines",
               "adSummonEnabled": true
@@ -97780,9 +97780,9 @@
               "endDate": "2025-07-10 07:00:00",
               "overridden": true,
               "featuredHeroes": [
-                "Octopod Priest-Octopod Hierophant",
-                "Adventurous Archaeologist-Adventurous Drover",
-                "Morlock Chieftain-Morlock Running Back"
+                "s4_exeera_costume_hierophant",
+                "s4_hannah_costume_drover",
+                "s4_akkorog_costume_football"
               ],
               "advertisedHero": "s4_exeera_costume_hierophant",
               "adSummonEnabled": true
@@ -97795,9 +97795,9 @@
               "endDate": "2025-08-06 07:00:00",
               "overridden": true,
               "featuredHeroes": [
-                "King of the Depths-The Deathless King",
-                "Courageous Voyager-Exquisite Engineer",
-                "Arachnid Aristocrat-Bridal Aristocrat"
+                "s4_lughaidh_costume_deathless",
+                "s4_phileas_fogg_costume_engineer",
+                "s4_elizabeth_costume_bride"
               ],
               "advertisedHero": "s4_lughaidh_costume_deathless",
               "adSummonEnabled": true
@@ -97810,9 +97810,9 @@
               "endDate": "2025-09-02 07:00:00",
               "overridden": true,
               "featuredHeroes": [
-                "Warrior of the Depths-Warrior of Kelp",
-                "Enigmatic Explorer-Enigmatic Machinist",
-                "Eloi Rogue-Eloi Painter"
+                "s4_congalach_costume_kelp",
+                "s4_captain_nemo_costume_machinist",
+                "s4_russula_costume_painter"
               ],
               "advertisedHero": "s4_congalach_costume_kelp",
               "adSummonEnabled": true
@@ -97825,9 +97825,9 @@
               "endDate": "2025-09-30 07:00:00",
               "overridden": true,
               "featuredHeroes": [
-                "Ettin Commander-Ettin Grillmaster",
-                "Morlock Chieftain-Morlock Running Back",
-                "Myriapod Queen-Apocynacid Queen"
+                "s4_kravekrush_costume_grillmaster",
+                "s4_akkorog_costume_football",
+                "s4_zenobia_costume_floral"
               ],
               "advertisedHero": "s4_kravekrush_costume_grillmaster",
               "adSummonEnabled": true
@@ -97952,9 +97952,9 @@
               "endDate": "2024-02-09 07:00:00",
               "overridden": true,
               "featuredHeroes": [
-                "Goddess of Motherhood-Starlit Mother",
-                "Lady of Harmony-Lady of the Iteru",
-                "God of the Afterlife-Arbiter of the Dancefloor"
+                "s5_hathor_costume_starlit",
+                "s5_maat_costume_river",
+                "s5_anubis_costume_dancefloor"
               ],
               "advertisedHero": "s5_hathor_costume_starlit"
             },
@@ -97966,9 +97966,9 @@
               "endDate": "2024-03-08 07:00:00",
               "overridden": true,
               "featuredHeroes": [
-                "Cunning Sphinx-Sphinx at the Spa",
-                "Mummy Pharaoh-Pharaoh Reborn",
-                "Goddess of Motherhood-Starlit Mother"
+                "s5_hetepheres_costume_spa",
+                "s5_ahmose_costume_reborn",
+                "s5_hathor_costume_starlit"
               ],
               "advertisedHero": "s5_hetepheres_costume_spa"
             },
@@ -97980,9 +97980,9 @@
               "endDate": "2024-04-05 07:00:00",
               "overridden": true,
               "featuredHeroes": [
-                "God of the Hunt-Golden Hunter",
-                "God of the Afterlife-Arbiter of the Dancefloor",
-                "Lady of Harmony-Lady of the Iteru"
+                "s5_horus_costume_golden",
+                "s5_anubis_costume_dancefloor",
+                "s5_maat_costume_river"
               ],
               "advertisedHero": "s5_horus_costume_golden"
             },
@@ -97993,9 +97993,9 @@
               "startDate": "2024-05-27 07:00:00",
               "endDate": "2024-05-31 07:00:00",
               "featuredHeroes": [
-                "Mummy Queen-Molten Queen",
-                "God of the Hunt-Golden Hunter",
-                "God of the Afterlife-Arbiter of the Dancefloor"
+                "s5_tetisheri_costume_molten",
+                "s5_horus_costume_golden",
+                "s5_anubis_costume_dancefloor"
               ],
               "advertisedHero": "s5_tetisheri_costume_molten"
             },
@@ -98006,9 +98006,9 @@
               "startDate": "2024-06-24 07:00:00",
               "endDate": "2024-06-28 07:00:00",
               "featuredHeroes": [
-                "Sphinx of the Sun-Sphinx of the Disco",
-                "Lady of Harmony-Lady of the Iteru",
-                "Goddess of Motherhood-Starlit Mother"
+                "s5_meresankh_costume_disco",
+                "s5_maat_costume_river",
+                "s5_hathor_costume_starlit"
               ],
               "advertisedHero": "s5_meresankh_costume_disco"
             },
@@ -98020,9 +98020,9 @@
               "endDate": "2024-07-17 07:00:00",
               "overridden": true,
               "featuredHeroes": [
-                "God of the River-Guardian of the River",
-                "Divine Pharaoh-Feline Pharaoh",
-                "Sphinx of the Sun-Sphinx of the Disco"
+                "s5_sobek_costume_guardian",
+                "s5_cleopatra_costume_feline",
+                "s5_meresankh_costume_disco"
               ],
               "advertisedHero": "s5_sobek_costume_guardian"
             },
@@ -98034,9 +98034,9 @@
               "endDate": "2024-08-14 07:00:00",
               "overridden": true,
               "featuredHeroes": [
-                "Eye of the Moon-Eye of the Forest",
-                "Mummy Queen-Molten Queen",
-                "God of the Hunt-Golden Hunter"
+                "s5_bastet_costume_forest",
+                "s5_tetisheri_costume_molten",
+                "s5_horus_costume_golden"
               ],
               "advertisedHero": "s5_bastet_costume_forest"
             },
@@ -98048,9 +98048,9 @@
               "endDate": "2024-09-11 07:00:00",
               "overridden": true,
               "featuredHeroes": [
-                "God of the Moon-Knight of the Moon",
-                "Divine Pharaoh-Feline Pharaoh",
-                "God of the Afterlife-Arbiter of the Dancefloor"
+                "s5_khonshu_costume_knight",
+                "s5_cleopatra_costume_feline",
+                "s5_anubis_costume_dancefloor"
               ],
               "advertisedHero": "s5_khonshu_costume_knight"
             },
@@ -98062,9 +98062,9 @@
               "endDate": "2024-10-09 07:00:00",
               "overridden": true,
               "featuredHeroes": [
-                "Golem of Paper and Sand-Colossus of Paper and Sand",
-                "God of the River-Guardian of the River",
-                "Sphinx of the Sun-Sphinx of the Disco"
+                "s5_papyros_costume_colossus",
+                "s5_sobek_costume_guardian",
+                "s5_meresankh_costume_disco"
               ],
               "advertisedHero": "s5_papyros_costume_colossus"
             },
@@ -98076,9 +98076,9 @@
               "endDate": "2024-11-05 07:00:00",
               "overridden": true,
               "featuredHeroes": [
-                "Acute Androsphinx-Aquatic Androsphinx",
-                "Divine Pharaoh-Feline Pharaoh",
-                "Cunning Sphinx-Sphinx at the Spa"
+                "s5_khafre_costume_aquatic",
+                "s5_cleopatra_costume_feline",
+                "s5_hetepheres_costume_spa"
               ],
               "advertisedHero": "s5_khafre_costume_aquatic"
             },
@@ -98090,9 +98090,9 @@
               "endDate": "2024-12-14 07:00:00",
               "overridden": true,
               "featuredHeroes": [
-                "Spirit of Creation-Heron of Creation",
-                "God of the Hunt-Golden Hunter",
-                "God of the Afterlife-Arbiter of the Dancefloor"
+                "s5_bennu_costume_heron",
+                "s5_horus_costume_golden",
+                "s5_anubis_costume_dancefloor"
               ],
               "advertisedHero": "s5_bennu_costume_heron"
             },
@@ -98104,9 +98104,9 @@
               "endDate": "2025-01-24 07:00:00",
               "overridden": true,
               "featuredHeroes": [
-                "Siren of the River-Siren of the Sea",
-                "Spirit of Creation-Heron of Creation",
-                "Acute Androsphinx-Aquatic Androsphinx"
+                "s5_el_naddaha_costume_sea",
+                "s5_bennu_costume_heron",
+                "s5_khafre_costume_aquatic"
               ],
               "advertisedHero": "s5_el_naddaha_costume_sea"
             },
@@ -98118,9 +98118,9 @@
               "endDate": "2025-02-21 07:00:00",
               "overridden": true,
               "featuredHeroes": [
-                "Scarab God-Scarab Overlord",
-                "Siren of the River-Siren of the Sea",
-                "Spirit of Creation-Heron of Creation"
+                "s5_khepri_costume_overlord",
+                "s5_el_naddaha_costume_sea",
+                "s5_bennu_costume_heron"
               ],
               "advertisedHero": "s5_khepri_costume_overlord"
             },
@@ -98132,9 +98132,9 @@
               "endDate": "2025-03-21 07:00:00",
               "overridden": true,
               "featuredHeroes": [
-                "Eye of the Sun-Warden of the Sun",
-                "Scarab God-Scarab Overlord",
-                "Siren of the River-Siren of the Sea"
+                "s5_sekhmet_costume_warden",
+                "s5_khepri_costume_overlord",
+                "s5_el_naddaha_costume_sea"
               ],
               "advertisedHero": "s5_sekhmet_costume_warden"
             },
@@ -98146,9 +98146,9 @@
               "endDate": "2025-04-18 07:00:00",
               "overridden": true,
               "featuredHeroes": [
-                "Lady of Harmony-Lady of the Iteru",
-                "Goddess of Motherhood-Starlit Mother",
-                "Mummy Queen-Molten Queen"
+                "s5_maat_costume_river",
+                "s5_hathor_costume_starlit",
+                "s5_tetisheri_costume_molten"
               ],
               "advertisedHero": "s5_hathor_costume_starlit"
             },
@@ -98160,9 +98160,9 @@
               "endDate": "2025-05-18 07:00:00",
               "overridden": true,
               "featuredHeroes": [
-                "Dark Usurper-Dark Tyrant",
-                "God of the River-Guardian of the River",
-                "Golem of Paper and Sand-Colossus of Paper and Sand"
+                "s5_set_costume_tyrant",
+                "s5_sobek_costume_guardian",
+                "s5_papyros_costume_colossus"
               ],
               "advertisedHero": "s5_set_costume_tyrant"
             },
@@ -98174,9 +98174,9 @@
               "endDate": "2025-06-15 07:00:00",
               "overridden": true,
               "featuredHeroes": [
-                "Lady of Ten Thousand Names-Lady of the Golden Sun",
-                "Goddess of Motherhood-Starlit Mother",
-                "Cunning Sphinx-Sphinx at the Spa"
+                "s5_eset_costume_goldensun",
+                "s5_hathor_costume_starlit",
+                "s5_hetepheres_costume_spa"
               ],
               "advertisedHero": "s5_eset_costume_goldensun"
             },
@@ -98188,9 +98188,9 @@
               "endDate": "2025-07-14 07:00:00",
               "overridden": true,
               "featuredHeroes": [
-                "Sphinx of the Moon-Vanquisher of the Moon",
-                "God of the Hunt-Golden Hunter",
-                "God of the Afterlife-Arbiter of the Dancefloor"
+                "s5_sneferu_costume_vanquisher",
+                "s5_horus_costume_golden",
+                "s5_anubis_costume_dancefloor"
               ],
               "advertisedHero": "s5_sneferu_costume_vanquisher"
             },
@@ -98202,9 +98202,9 @@
               "endDate": "2025-08-10 07:00:00",
               "overridden": true,
               "featuredHeroes": [
-                "Sphinx of the Sun-Sphinx of the Disco",
-                "Lady of Harmony-Lady of the Iteru",
-                "Goddess of Motherhood-Starlit Mother"
+                "s5_meresankh_costume_disco",
+                "s5_maat_costume_river",
+                "s5_hathor_costume_starlit"
               ],
               "advertisedHero": "s5_meresankh_costume_disco"
             },
@@ -98216,9 +98216,9 @@
               "endDate": "2025-09-07 07:00:00",
               "overridden": true,
               "featuredHeroes": [
-                "God of the River-Guardian of the River",
-                "Cunning Sphinx-Sphinx at the Spa",
-                "Mummy Pharaoh-Pharaoh Reborn"
+                "s5_sobek_costume_guardian",
+                "s5_hetepheres_costume_spa",
+                "s5_ahmose_costume_reborn"
               ],
               "advertisedHero": "s5_sobek_costume_guardian"
             }
@@ -98298,9 +98298,9 @@
               "endDate": "2024-04-01 07:00:00",
               "overridden": true,
               "featuredHeroes": [
-                "Primordial God of the Depths",
-                "The Eternal Hadal Being",
-                "Naga Berserker"
+                "tales1_phorcys",
+                "tales1_domiventus",
+                "tales1_spartoi"
               ],
               "advertisedHero": "tales1_phorcys"
             },
@@ -98311,9 +98311,9 @@
               "startDate": "2024-05-23 07:00:00",
               "endDate": "2024-05-27 07:00:00",
               "featuredHeroes": [
-                "Primordial God of the Depths-Warrior God of the Depths",
-                "Naga Queen of the Deep",
-                "The Eternal Hadal Being"
+                "tales1_phorcys_costume_warrior_god",
+                "tales1_medea",
+                "tales1_domiventus"
               ],
               "advertisedHero": "tales1_phorcys_costume_warrior_god"
             },
@@ -98325,9 +98325,9 @@
               "endDate": "2024-06-24 07:00:00",
               "overridden": true,
               "featuredHeroes": [
-                "Prince of the Eternal Deep-Prince of the Eternal Pearls",
-                "Naga Berserker",
-                "Glacial Nereid of the Deep"
+                "tales1_gestalt_costume_pearls",
+                "tales1_spartoi",
+                "tales1_atlanteia"
               ],
               "advertisedHero": "tales1_gestalt_costume_pearls"
             },
@@ -98339,9 +98339,9 @@
               "endDate": "2024-07-31 07:00:00",
               "overridden": true,
               "featuredHeroes": [
-                "Wise Sage of the Oceans-Wise Roller of the Quarry",
-                "Primordial God of the Depths-Warrior God of the Depths",
-                "Prince of the Eternal Deep-Prince of the Eternal Pearls"
+                "tales1_galapago_costume_quarry",
+                "tales1_phorcys_costume_warrior_god",
+                "tales1_gestalt_costume_pearls"
               ],
               "advertisedHero": "tales1_galapago_costume_quarry"
             },
@@ -98353,9 +98353,9 @@
               "endDate": "2024-08-28 07:00:00",
               "overridden": true,
               "featuredHeroes": [
-                "Primordial Goddess of the Oceans-Primordial Goddess of the Crystals",
-                "Treasure Hunter of the Deep",
-                "Temple Keeper of the Deep"
+                "tales1_thalassa_costume_crystals",
+                "tales1_gelert",
+                "tales1_ultrox"
               ],
               "advertisedHero": "tales1_thalassa_costume_crystals"
             },
@@ -98367,9 +98367,9 @@
               "endDate": "2024-09-25 07:00:00",
               "overridden": true,
               "featuredHeroes": [
-                "Flamboyant Hussar of Atlantis-Flamboyant Jockey of Atlantis",
-                "Primordial God of the Depths-Warrior God of the Depths",
-                "Wise Sage of the Oceans-Wise Roller of the Quarry"
+                "tales1_lasalle_costume_jockey",
+                "tales1_phorcys_costume_warrior_god",
+                "tales1_galapago_costume_quarry"
               ],
               "advertisedHero": "tales1_lasalle_costume_jockey"
             },
@@ -98381,9 +98381,9 @@
               "endDate": "2024-10-23 07:00:00",
               "overridden": true,
               "featuredHeroes": [
-                "Naga Queen of the Deep-Naga Goddess of the Deep",
-                "Primordial Goddess of the Oceans-Primordial Goddess of the Crystals",
-                "Prince of the Eternal Deep-Prince of the Eternal Pearls"
+                "tales1_medea_costume_goddess",
+                "tales1_thalassa_costume_crystals",
+                "tales1_gestalt_costume_pearls"
               ],
               "advertisedHero": "tales1_medea_costume_goddess"
             },
@@ -98395,9 +98395,9 @@
               "endDate": "2024-11-25 07:00:00",
               "overridden": true,
               "featuredHeroes": [
-                "Glacial Nereid of the Deep-Glacial Siren of the Deep",
-                "Naga Queen of the Deep-Naga Goddess of the Deep",
-                "Flamboyant Hussar of Atlantis-Flamboyant Jockey of Atlantis"
+                "tales1_atlanteia_costume_siren",
+                "tales1_medea_costume_goddess",
+                "tales1_lasalle_costume_jockey"
               ],
               "advertisedHero": "tales1_atlanteia_costume_siren"
             },
@@ -98409,9 +98409,9 @@
               "endDate": "2024-12-18 07:00:00",
               "overridden": true,
               "featuredHeroes": [
-                "The Eternal Hadal Being-The Supreme Hadal Being",
-                "Primordial Goddess of the Oceans-Primordial Goddess of the Crystals",
-                "Glacial Nereid of the Deep-Glacial Siren of the Deep"
+                "tales1_domiventus_costume_supreme",
+                "tales1_thalassa_costume_crystals",
+                "tales1_atlanteia_costume_siren"
               ],
               "advertisedHero": "tales1_domiventus_costume_supreme"
             },
@@ -98423,9 +98423,9 @@
               "endDate": "2025-01-13 07:00:00",
               "overridden": true,
               "featuredHeroes": [
-                "Water Spirit of Plunder-Jellyfish Noble",
-                "The Eternal Hadal Being-The Supreme Hadal Being",
-                "Glacial Nereid of the Deep-Glacial Siren of the Deep"
+                "tales1_persa_costume_jellyfish_noble",
+                "tales1_domiventus_costume_supreme",
+                "tales1_atlanteia_costume_siren"
               ],
               "advertisedHero": "tales1_persa_costume_jellyfish_noble"
             },
@@ -98437,9 +98437,9 @@
               "endDate": "2025-02-07 07:00:00",
               "overridden": true,
               "featuredHeroes": [
-                "Naga Berserker-Naga Guard",
-                "Water Spirit of Plunder-Jellyfish Noble",
-                "The Eternal Hadal Being-The Supreme Hadal Being"
+                "tales1_spartoi_costume_guard",
+                "tales1_persa_costume_jellyfish_noble",
+                "tales1_domiventus_costume_supreme"
               ],
               "advertisedHero": "tales1_spartoi_costume_guard"
             },
@@ -98451,9 +98451,9 @@
               "endDate": "2025-03-07 07:00:00",
               "overridden": true,
               "featuredHeroes": [
-                "Primordial Goddess of Sea Monsters-Primordial Queen of Sea Monsters",
-                "Naga Queen of the Deep-Naga Goddess of the Deep",
-                "Naga Berserker-Naga Guard"
+                "tales1_ceto_costume_queen",
+                "tales1_medea_costume_goddess",
+                "tales1_spartoi_costume_guard"
               ],
               "advertisedHero": "tales1_ceto_costume_queen"
             },
@@ -98465,9 +98465,9 @@
               "endDate": "2025-04-04 07:00:00",
               "overridden": true,
               "featuredHeroes": [
-                "Nereid Princess-Princess of the Reef",
-                "Primordial Goddess of Sea Monsters-Primordial Queen of Sea Monsters",
-                "Prince of the Eternal Deep-Prince of the Eternal Pearls"
+                "tales1_ephyra_costume_reef",
+                "tales1_ceto_costume_queen",
+                "tales1_gestalt_costume_pearls"
               ],
               "advertisedHero": "tales1_ephyra_costume_reef"
             },
@@ -98479,9 +98479,9 @@
               "endDate": "2025-05-03 07:00:00",
               "overridden": true,
               "featuredHeroes": [
-                "Primordial God of the Depths-Warrior God of the Depths",
-                "The Eternal Hadal Being-The Supreme Hadal Being",
-                "Naga Queen of the Deep-Naga Goddess of the Deep"
+                "tales1_phorcys_costume_warrior_god",
+                "tales1_domiventus_costume_supreme",
+                "tales1_medea_costume_goddess"
               ],
               "advertisedHero": "tales1_phorcys_costume_warrior_god"
             },
@@ -98493,9 +98493,9 @@
               "endDate": "2025-06-01 07:00:00",
               "overridden": true,
               "featuredHeroes": [
-                "Temple Keeper of the Deep-Siphoner of the Deep",
-                "Naga Berserker-Naga Guard",
-                "Primordial Goddess of Sea Monsters-Primordial Queen of Sea Monsters"
+                "tales1_ultrox_costume_ethereal",
+                "tales1_spartoi_costume_guard",
+                "tales1_ceto_costume_queen"
               ],
               "advertisedHero": "tales1_ultrox_costume_ethereal"
             },
@@ -98507,9 +98507,9 @@
               "endDate": "2025-06-30 07:00:00",
               "overridden": true,
               "featuredHeroes": [
-                "Treasure Hunter of the Deep-Scavenger of the Deep",
-                "Glacial Nereid of the Deep-Glacial Siren of the Deep",
-                "Prince of the Eternal Deep-Prince of the Eternal Pearls"
+                "tales1_gelert_costume_scavenger",
+                "tales1_atlanteia_costume_siren",
+                "tales1_gestalt_costume_pearls"
               ],
               "advertisedHero": "tales1_gelert_costume_scavenger"
             },
@@ -98520,9 +98520,9 @@
               "startDate": "2025-07-24 07:00:00",
               "endDate": "2025-07-28 07:00:00",
               "featuredHeroes": [
-                "Prince of the Eternal Deep-Prince of the Eternal Pearls",
-                "Treasure Hunter of the Deep-Scavenger of the Deep",
-                "Temple Keeper of the Deep-Siphoner of the Deep"
+                "tales1_gestalt_costume_pearls",
+                "tales1_gelert_costume_scavenger",
+                "tales1_ultrox_costume_ethereal"
               ],
               "advertisedHero": "tales1_gestalt_costume_pearls"
             },
@@ -98533,9 +98533,9 @@
               "startDate": "2025-08-21 07:00:00",
               "endDate": "2025-08-25 07:00:00",
               "featuredHeroes": [
-                "Water Spirit of Plunder-Jellyfish Noble",
-                "Primordial God of the Depths-Warrior God of the Depths",
-                "Wise Sage of the Oceans-Wise Roller of the Quarry"
+                "tales1_persa_costume_jellyfish_noble",
+                "tales1_phorcys_costume_warrior_god",
+                "tales1_galapago_costume_quarry"
               ],
               "advertisedHero": "tales1_persa_costume_jellyfish_noble"
             },
@@ -98546,9 +98546,9 @@
               "startDate": "2025-09-18 07:00:00",
               "endDate": "2025-09-22 07:00:00",
               "featuredHeroes": [
-                "Glacial Nereid of the Deep-Glacial Siren of the Deep",
-                "Prince of the Eternal Deep-Prince of the Eternal Pearls",
-                "Treasure Hunter of the Deep-Scavenger of the Deep"
+                "tales1_atlanteia_costume_siren",
+                "tales1_gestalt_costume_pearls",
+                "tales1_gelert_costume_scavenger"
               ],
               "advertisedHero": "tales1_atlanteia_costume_siren"
             }
@@ -98621,9 +98621,9 @@
               "endDate": "2024-12-07 07:00:00",
               "overridden": true,
               "featuredHeroes": [
-                "Dwarven Fabled Prince",
-                "Dwarven Merry Trickster",
-                "Dwarven Wind Warrior"
+                "tales2_regin",
+                "tales2_ott",
+                "tales2_gandr"
               ],
               "advertisedHero": "tales2_regin"
             },
@@ -98635,9 +98635,9 @@
               "endDate": "2025-01-01 07:00:00",
               "overridden": true,
               "featuredHeroes": [
-                "Dwarven Oracle",
-                "Dwarven Dark Seer",
-                "Dwarven Fabled Prince"
+                "tales2_andvari",
+                "tales2_dularfulr",
+                "tales2_regin"
               ],
               "advertisedHero": "tales2_andvari"
             },
@@ -98649,9 +98649,9 @@
               "endDate": "2025-01-30 07:00:00",
               "overridden": true,
               "featuredHeroes": [
-                "Dwarven Mountain Shaman",
-                "Dwarven Oracle",
-                "Dwarven Merry Trickster"
+                "tales2_dagr",
+                "tales2_andvari",
+                "tales2_ott"
               ],
               "advertisedHero": "tales2_dagr"
             },
@@ -98663,9 +98663,9 @@
               "endDate": "2025-02-27 07:00:00",
               "overridden": true,
               "featuredHeroes": [
-                "Dwarven Mountain King",
-                "Dwarven Fabled Prince",
-                "Dwarven Mountain Shaman"
+                "tales2_hreidmarr",
+                "tales2_regin",
+                "tales2_dagr"
               ],
               "advertisedHero": "tales2_hreidmarr"
             },
@@ -98677,9 +98677,9 @@
               "endDate": "2025-03-27 07:00:00",
               "overridden": true,
               "featuredHeroes": [
-                "Dwarven Fire Seeker",
-                "Dwarven Wind Warrior",
-                "Dwarven Oracle"
+                "tales2_aethslegaur",
+                "tales2_gandr",
+                "tales2_andvari"
               ],
               "advertisedHero": "tales2_aethslegaur"
             },
@@ -98691,9 +98691,9 @@
               "endDate": "2025-04-18 07:00:00",
               "overridden": true,
               "featuredHeroes": [
-                "Dwarven Great Knight",
-                "Dwarven Dark Seer",
-                "Dwarven Fabled Prince"
+                "tales2_hogne",
+                "tales2_dularfulr",
+                "tales2_regin"
               ],
               "advertisedHero": "tales2_hogne"
             },
@@ -98705,9 +98705,9 @@
               "endDate": "2025-05-20 07:00:00",
               "overridden": true,
               "featuredHeroes": [
-                "Dwarven Frost Seeker",
-                "Dwarven Mountain King",
-                "Dwarven Mountain Shaman"
+                "tales2_thrivaldi",
+                "tales2_hreidmarr",
+                "tales2_dagr"
               ],
               "advertisedHero": "tales2_thrivaldi"
             },
@@ -98719,9 +98719,9 @@
               "endDate": "2025-06-17 07:00:00",
               "overridden": true,
               "featuredHeroes": [
-                "Dwarven Lord of Myrkheim",
-                "Dwarven Dark Seer",
-                "Dwarven Frost Seeker"
+                "tales2_fafnir",
+                "tales2_dularfulr",
+                "tales2_thrivaldi"
               ],
               "advertisedHero": "tales2_fafnir"
             },
@@ -98733,9 +98733,9 @@
               "endDate": "2025-07-15 07:00:00",
               "overridden": true,
               "featuredHeroes": [
-                "Dwarven Survivalist",
-                "Dwarven Lord of Myrkheim",
-                "Dwarven Great Knight"
+                "tales2_fimafeng",
+                "tales2_fafnir",
+                "tales2_hogne"
               ],
               "advertisedHero": "tales2_fimafeng"
             },
@@ -98747,9 +98747,9 @@
               "endDate": "2025-08-10 07:00:00",
               "overridden": true,
               "featuredHeroes": [
-                "Dwarven Frontier Wildman",
-                "Dwarven Survivalist",
-                "Dwarven Lord of Myrkheim"
+                "tales2_motsognir",
+                "tales2_fimafeng",
+                "tales2_fafnir"
               ],
               "advertisedHero": "tales2_motsognir"
             },
@@ -98760,9 +98760,9 @@
               "startDate": "2025-09-09 07:00:00",
               "endDate": "2025-09-13 07:00:00",
               "featuredHeroes": [
-                "Dwarven Fabled Prince",
-                "Dwarven Merry Trickster",
-                "Dwarven Wind Warrior"
+                "tales2_regin",
+                "tales2_ott",
+                "tales2_gandr"
               ],
               "advertisedHero": "tales2_regin"
             },
@@ -98773,9 +98773,9 @@
               "startDate": "2025-10-07 07:00:00",
               "endDate": "2025-10-11 07:00:00",
               "featuredHeroes": [
-                "Dwarven Fabled Prince",
-                "Dwarven Merry Trickster",
-                "Dwarven Wind Warrior"
+                "tales2_regin",
+                "tales2_ott",
+                "tales2_gandr"
               ],
               "advertisedHero": "tales2_regin"
             },
@@ -98786,9 +98786,9 @@
               "startDate": "2025-11-04 07:00:00",
               "endDate": "2025-11-08 07:00:00",
               "featuredHeroes": [
-                "Dwarven Fabled Prince",
-                "Dwarven Merry Trickster",
-                "Dwarven Wind Warrior"
+                "tales2_regin",
+                "tales2_ott",
+                "tales2_gandr"
               ],
               "advertisedHero": "tales2_regin"
             },
@@ -98799,9 +98799,9 @@
               "startDate": "2025-12-02 07:00:00",
               "endDate": "2025-12-06 07:00:00",
               "featuredHeroes": [
-                "Dwarven Fabled Prince",
-                "Dwarven Merry Trickster",
-                "Dwarven Wind Warrior"
+                "tales2_regin",
+                "tales2_ott",
+                "tales2_gandr"
               ],
               "advertisedHero": "tales2_regin"
             },
@@ -98812,9 +98812,9 @@
               "startDate": "2025-12-30 07:00:00",
               "endDate": "2026-01-03 07:00:00",
               "featuredHeroes": [
-                "Dwarven Fabled Prince",
-                "Dwarven Merry Trickster",
-                "Dwarven Wind Warrior"
+                "tales2_regin",
+                "tales2_ott",
+                "tales2_gandr"
               ],
               "advertisedHero": "tales2_regin"
             }
@@ -98886,8 +98886,8 @@
               "endDate": "2024-08-27 07:00:00",
               "overridden": true,
               "featuredHeroes": [
-                "The Ranger Arctic Fox",
-                "The Guardian Red Fox"
+                "fox_whitefang",
+                "fox_rust"
               ],
               "advertisedHero": "fox_whitefang"
             }
@@ -99291,7 +99291,7 @@
                 "hotm_quest4"
               ],
               "featuredHeroes": [
-                "Sumo Champion"
+                "champions_satori"
               ],
               "advertisedHero": "champions_satori",
               "latestIncludedHeroOfTheMonthDate": 754729200
@@ -99307,7 +99307,7 @@
                 "hotm_quest3"
               ],
               "featuredHeroes": [
-                "Javelin Throw Champion"
+                "champions_nogu"
               ],
               "advertisedHero": "champions_nogu",
               "latestIncludedHeroOfTheMonthDate": 757407600
@@ -99323,7 +99323,7 @@
                 "hotm_quest2"
               ],
               "featuredHeroes": [
-                "Baseball Champion"
+                "champions_lazara"
               ],
               "advertisedHero": "champions_lazara",
               "latestIncludedHeroOfTheMonthDate": 760086000
@@ -99339,7 +99339,7 @@
                 "hotm_quest2"
               ],
               "featuredHeroes": [
-                "Ram Turismo Champion"
+                "champions_ramona"
               ],
               "advertisedHero": "champions_ramona",
               "latestIncludedHeroOfTheMonthDate": 762591600
@@ -99355,7 +99355,7 @@
                 "hotm_quest3"
               ],
               "featuredHeroes": [
-                "Baseball Champion"
+                "champions_lazara"
               ],
               "advertisedHero": "champions_lazara",
               "latestIncludedHeroOfTheMonthDate": 762591600
@@ -99371,7 +99371,7 @@
                 "hotm_quest4"
               ],
               "featuredHeroes": [
-                "Discus Throw Champion"
+                "champions_mistra"
               ],
               "advertisedHero": "champions_mistra",
               "latestIncludedHeroOfTheMonthDate": 767862000
@@ -99387,7 +99387,7 @@
                 "hotm_quest4"
               ],
               "featuredHeroes": [
-                "Ram Turismo Champion"
+                "champions_ramona"
               ],
               "advertisedHero": "champions_ramona",
               "latestIncludedHeroOfTheMonthDate": 770540400
@@ -99450,8 +99450,8 @@
                 "super_elemental_quest_yellow"
               ],
               "featuredHeroes": [
-                "Golden Slime King",
-                "Wise Sanctuary Goo"
+                "slime_goldrip",
+                "slime_gooric"
               ],
               "advertisedHero": "slime_goldrip",
               "latestIncludedNonEventHeroDate": 800175600,
@@ -99474,8 +99474,8 @@
                 "super_elemental_quest_blue"
               ],
               "featuredHeroes": [
-                "Gentle Trickster Slime",
-                "Spell Weaving Slime"
+                "slime_gloozmer",
+                "slime_magistine"
               ],
               "advertisedHero": "slime_gloozmer",
               "latestIncludedNonEventHeroDate": 801817200,
@@ -99498,8 +99498,8 @@
                 "super_elemental_quest_yellow"
               ],
               "featuredHeroes": [
-                "The Cosmic Enigma-The Gilded Enigma",
-                "Golden Slime King"
+                "elemental_jequn_costume_gilded",
+                "slime_goldrip"
               ],
               "advertisedHero": "elemental_jequn_costume_gilded",
               "latestIncludedNonEventHeroDate": 800175600,
@@ -99522,8 +99522,8 @@
                 "super_elemental_quest_red"
               ],
               "featuredHeroes": [
-                "Fierce Bounty Hunter",
-                "Scythe Master of the Dark Sea"
+                "elemental_ash",
+                "elemental_niki"
               ],
               "advertisedHero": "elemental_ash",
               "latestIncludedNonEventHeroDate": 803977200,
@@ -99546,8 +99546,8 @@
                 "super_elemental_quest_red"
               ],
               "featuredHeroes": [
-                "Fierce Bounty Hunter",
-                "Scythe Master of the Dark Sea"
+                "elemental_ash",
+                "elemental_niki"
               ],
               "advertisedHero": "elemental_ash",
               "latestIncludedNonEventHeroDate": 807692400,
@@ -99570,8 +99570,8 @@
                 "super_elemental_quest_purple"
               ],
               "featuredHeroes": [
-                "Slippery Courier Slime",
-                "Multidimensional Hazard"
+                "slime_sliposi",
+                "elemental_gastille"
               ],
               "advertisedHero": "slime_sliposi",
               "latestIncludedNonEventHeroDate": 804236400,
@@ -99594,8 +99594,8 @@
                 "super_elemental_quest_purple"
               ],
               "featuredHeroes": [
-                "Modifier of Reality-Modifier of Obscura",
-                "Multidimensional Hazard"
+                "elemental_griffex_costume_camera",
+                "elemental_gastille"
               ],
               "advertisedHero": "elemental_griffex_costume_camera",
               "latestIncludedNonEventHeroDate": 805186800,
@@ -99618,8 +99618,8 @@
                 "super_elemental_quest_green"
               ],
               "featuredHeroes": [
-                "Gooey Emerald Arbiter",
-                "Barbaric Sludge"
+                "slime_verdigoo",
+                "slime_goorian"
               ],
               "advertisedHero": "slime_verdigoo",
               "latestIncludedNonEventHeroDate": 799743600,
@@ -99642,8 +99642,8 @@
                 "super_elemental_quest_green"
               ],
               "featuredHeroes": [
-                "Natural Sharpshooter-Disco Sharpshooter",
-                "Gooey Emerald Arbiter"
+                "elemental_roz_costume_disco",
+                "slime_verdigoo"
               ],
               "advertisedHero": "elemental_roz_costume_disco",
               "latestIncludedNonEventHeroDate": 800607600,
@@ -99666,8 +99666,8 @@
                 "super_elemental_quest_blue"
               ],
               "featuredHeroes": [
-                "Universal Beast-Cultivating Beast",
-                "Gentle Trickster Slime"
+                "elemental_zengar_costume_farmer",
+                "slime_gloozmer"
               ],
               "advertisedHero": "elemental_zengar_costume_farmer",
               "latestIncludedNonEventHeroDate": 802854000,
@@ -99762,8 +99762,8 @@
               "endDate": "2024-06-24 07:00:00",
               "overridden": true,
               "featuredHeroes": [
-                "Rejuvenating Forest Slime",
-                "Relentless Battle Blob"
+                "slime_fungustine",
+                "slime_gunktus"
               ],
               "advertisedHero": "slime_fungustine",
               "includeCostumes": true
@@ -99784,8 +99784,8 @@
               "endDate": "2024-12-02 07:00:00",
               "overridden": true,
               "featuredHeroes": [
-                "Master of the Mead-Hall",
-                "Ring-Graced, Royal-Hearted"
+                "beowulf_hrothgar",
+                "beowulf_wealhtheow"
               ],
               "latestIncludedHeroDate": 722736000,
               "advertisedHero": "beowulf_wealhtheow",
@@ -99799,8 +99799,8 @@
               "endDate": "2025-03-24 07:00:00",
               "overridden": true,
               "featuredHeroes": [
-                "Leor Survivor",
-                "Gourmand Tigris Chief"
+                "wild_cat_leonie",
+                "wild_cat_rajesh"
               ],
               "advertisedHero": "wild_cat_leonie",
               "manuallySelectedHeroes": [
@@ -100276,8 +100276,8 @@
               "endDate": "2025-06-23 07:00:00",
               "overridden": true,
               "featuredHeroes": [
-                "Son of Vayu",
-                "Warrior Princess of Manipura"
+                "mahayoddha_bhima",
+                "mahayoddha_chitrangada"
               ],
               "latestIncludedHeroDate": 740300400,
               "advertisedHero": "mahayoddha_bhima",
@@ -100305,12 +100305,12 @@
               "endDate": "2024-07-01 07:00:00",
               "overridden": true,
               "featuredHeroes": [
-                "Master Strategist-Strategist Supreme",
-                "Navigator Construct",
-                "Chosen by the Lunar Light",
-                "Black Swan",
-                "Everburning Construct",
-                "Cleric Construct"
+                "kingdom_zhuge_liang_costume_crane",
+                "construct_nautica",
+                "journey_change",
+                "ballerina_odile",
+                "construct_scoria",
+                "construct_shaal"
               ],
               "advertisedHero": "kingdom_zhuge_liang",
               "includedHeroes": [
@@ -100390,12 +100390,12 @@
               "endDate": "2024-08-13 07:00:00",
               "overridden": true,
               "featuredHeroes": [
-                "Balefrost Construct",
-                "Energy Flow Construct",
-                "Everburning Construct",
-                "Happy-Go-Lucky Halfling",
-                "Party Gargoyle",
-                "Virtuoso Gargoyle"
+                "construct_skarn",
+                "construct_gwynn",
+                "construct_scoria",
+                "garrison_violet_potts",
+                "gargoyle_garten",
+                "gargoyle_pophit"
               ],
               "advertisedHero": "construct_skarn",
               "includedHeroes": [
@@ -100475,12 +100475,12 @@
               "endDate": "2024-05-13 07:00:00",
               "overridden": true,
               "featuredHeroes": [
-                "Baseball Champion",
-                "Head of the Moles-Head Nurse",
-                "Ram Turismo Champion",
-                "Traveling Llama Troubadour-Gallant Llama Troubadour",
-                "Discus Throw Champion",
-                "Arctic Ambassador"
+                "champions_lazara",
+                "s4_hulda_costume_nurse",
+                "champions_ramona",
+                "easter_archie_costume_gallant",
+                "champions_mistra",
+                "castle_bear_armel"
               ],
               "advertisedHero": "champions_mistra",
               "includedHeroes": [
@@ -100560,12 +100560,12 @@
               "endDate": "2024-02-12 07:00:00",
               "overridden": true,
               "featuredHeroes": [
-                "Navigator Construct",
-                "Cleric Construct",
-                "Imprisoned Construct",
-                "Gnome Wizard",
-                "Duplicitous Duke",
-                "Blade Alchemist"
+                "construct_nautica",
+                "construct_shaal",
+                "construct_shacklebolt",
+                "christmas_zappa",
+                "musketeer_cardinal_richelieu",
+                "elemental_desmond"
               ],
               "advertisedHero": "construct_nautica",
               "includedHeroes": [
@@ -100645,12 +100645,12 @@
               "endDate": "2024-02-25 07:00:00",
               "overridden": true,
               "featuredHeroes": [
-                "Greatbow Saboteur",
-                "Scorpion Demoness",
-                "Navigator Construct",
-                "Electric Navigator",
-                "Jousting Champion",
-                "Warlord of the Unwavering Orcs"
+                "ninja_tametomo",
+                "journey_xie_zi_jing",
+                "construct_nautica",
+                "elemental_jolt",
+                "champions_norman",
+                "elemental_ironmaw"
               ],
               "advertisedHero": "ninja_tametomo",
               "includedHeroes": [
@@ -100730,12 +100730,12 @@
               "endDate": "2024-03-14 07:00:00",
               "overridden": true,
               "featuredHeroes": [
-                "Void Tank Construct",
-                "Boatswain of Corellia",
-                "Greatbow Saboteur",
-                "True Arrow of Teltoc",
-                "Housemaid of Grimforest",
-                "Navigator Construct"
+                "construct_nocturne",
+                "pirate_boatswain",
+                "ninja_tametomo",
+                "guardian_elephant",
+                "fables_cinderella",
+                "construct_nautica"
               ],
               "advertisedHero": "construct_nocturne",
               "includedHeroes": [
@@ -100815,12 +100815,12 @@
               "endDate": "2024-04-02 07:00:00",
               "overridden": true,
               "featuredHeroes": [
-                "Party Gargoyle",
-                "Crescent Owl",
-                "Hermit of the Frozen Mountain",
-                "Black Swan",
-                "Famed Goblin Flutist",
-                "Baseball Champion"
+                "gargoyle_garten",
+                "mighty_pet_luna",
+                "goblin_grimsteel",
+                "ballerina_odile",
+                "goblin_pepperflame",
+                "champions_lazara"
               ],
               "advertisedHero": "gargoyle_garten",
               "includedHeroes": [
@@ -100900,12 +100900,12 @@
               "endDate": "2024-04-29 07:00:00",
               "overridden": true,
               "featuredHeroes": [
-                "Cartographer Construct",
-                "Jade Eyed Gentleman",
-                "Stalwart Protector of Love",
-                "Black Swan",
-                "Navigator Construct",
-                "Starlet Ballerina"
+                "construct_carta",
+                "ballerina_daroga",
+                "valentines_elba",
+                "ballerina_odile",
+                "construct_nautica",
+                "ballerina_meg_giry"
               ],
               "advertisedHero": "construct_carta",
               "includedHeroes": [
@@ -100985,12 +100985,12 @@
               "endDate": "2024-05-23 07:00:00",
               "overridden": true,
               "featuredHeroes": [
-                "Everburning Construct",
-                "Cartographer Construct",
-                "Multidimensional Hazard",
-                "Astral Elf Marksman",
-                "Royal Vanguard of Owl Tower",
-                "Scout Commander of Owl Tower"
+                "construct_scoria",
+                "construct_carta",
+                "elemental_gastille",
+                "astral_lemonwood",
+                "owl_timius",
+                "owl_verus"
               ],
               "advertisedHero": "construct_scoria",
               "includedHeroes": [
@@ -101070,12 +101070,12 @@
               "endDate": "2024-05-31 07:00:00",
               "overridden": true,
               "featuredHeroes": [
-                "Herbalist of Owl Tower",
-                "Berserker of Owl Tower",
-                "Everburning Construct",
-                "Royal Vanguard of Owl Tower",
-                "Black Swan",
-                "Lizardfolk Lanternbearer"
+                "owl_relius",
+                "owl_lodius",
+                "construct_scoria",
+                "owl_timius",
+                "ballerina_odile",
+                "garrison_shimmerscale"
               ],
               "advertisedHero": "owl_relius",
               "includedHeroes": [
@@ -101155,12 +101155,12 @@
               "endDate": "2024-06-10 07:00:00",
               "overridden": true,
               "featuredHeroes": [
-                "Supercapacitor Construct",
-                "Minstrel of Owl Tower",
-                "Imprisoned Construct",
-                "Cleric Construct",
-                "Chosen by the Lunar Light",
-                "Jade Eyed Gentleman"
+                "construct_rhineglow",
+                "owl_eron",
+                "construct_shacklebolt",
+                "construct_shaal",
+                "journey_change",
+                "ballerina_daroga"
               ],
               "advertisedHero": "construct_rhineglow",
               "includedHeroes": [
@@ -101240,12 +101240,12 @@
               "endDate": "2024-07-16 07:00:00",
               "overridden": true,
               "featuredHeroes": [
-                "Energy Flow Construct",
-                "Rejuvenating Forest Slime",
-                "Everburning Construct",
-                "Navigator Construct",
-                "Brilliant Beauty-Flower Beauty",
-                "Cartographer Construct"
+                "construct_gwynn",
+                "slime_fungustine",
+                "construct_scoria",
+                "construct_nautica",
+                "kingdom_diaochan_costume_flowers",
+                "construct_carta"
               ],
               "advertisedHero": "construct_gwynn",
               "includedHeroes": [
@@ -101325,12 +101325,12 @@
               "endDate": "2024-07-30 07:00:00",
               "overridden": true,
               "featuredHeroes": [
-                "Energy Flow Construct",
-                "Relentless Battle Blob",
-                "Multidimensional Hazard",
-                "Jade Eyed Gentleman",
-                "Hermit of the Frozen Mountain",
-                "Retired Boar Rider"
+                "construct_gwynn",
+                "slime_gunktus",
+                "elemental_gastille",
+                "ballerina_daroga",
+                "goblin_grimsteel",
+                "goblin_scrollbeast"
               ],
               "advertisedHero": "construct_gwynn",
               "includedHeroes": [
@@ -101410,12 +101410,12 @@
               "endDate": "2024-09-17 07:00:00",
               "overridden": true,
               "featuredHeroes": [
-                "Hulu-Metal User",
-                "Feared Magician",
-                "Cyborg Captain",
-                "Balefrost Construct",
-                "Elemental Shaman",
-                "Rejuvenating Forest Slime"
+                "shadow_rashan",
+                "ballerina_von_rothbart",
+                "elemental_vander",
+                "construct_skarn",
+                "elemental_craum",
+                "slime_fungustine"
               ],
               "advertisedHero": "shadow_rashan",
               "includedHeroes": [
@@ -101507,12 +101507,12 @@
               "endDate": "2024-10-11 07:00:00",
               "overridden": true,
               "featuredHeroes": [
-                "The Assassin Silver Fox",
-                "The Guardian Red Fox",
-                "The Ranger Arctic Fox",
-                "Sceptical Patron of Arts",
-                "Supersonic Blade Master",
-                "Master of Kunai Storm"
+                "fox_swiftpaw",
+                "fox_rust",
+                "fox_whitefang",
+                "ballerina_armand",
+                "elemental_farrah",
+                "ninja_iga"
               ],
               "advertisedHero": "fox_swiftpaw",
               "includedHeroes": [
@@ -101604,12 +101604,12 @@
               "endDate": "2024-10-23 07:00:00",
               "overridden": true,
               "featuredHeroes": [
-                "Carnelian Hunter",
-                "Astral Elf Marksman",
-                "Navigator Construct",
-                "Feared Magician",
-                "Sceptical Patron of Arts",
-                "Everburning Construct"
+                "monster_hunter_revna",
+                "astral_lemonwood",
+                "construct_nautica",
+                "ballerina_von_rothbart",
+                "ballerina_armand",
+                "construct_scoria"
               ],
               "advertisedHero": "monster_hunter_revna",
               "includedHeroes": [
@@ -101700,12 +101700,12 @@
               "endDate": "2024-11-11 07:00:00",
               "overridden": true,
               "featuredHeroes": [
-                "Relentless Battle Blob",
-                "Goddess of Motherhood-Starlit Mother",
-                "Star-Blessed Hunter",
-                "Sceptical Patron of Arts",
-                "The Assassin Silver Fox",
-                "The Ranger Arctic Fox"
+                "slime_gunktus",
+                "s5_hathor_costume_starlit",
+                "monster_hunter_thura",
+                "ballerina_armand",
+                "fox_swiftpaw",
+                "fox_whitefang"
               ],
               "advertisedHero": "slime_gunktus",
               "includedHeroes": [
@@ -101799,12 +101799,12 @@
               "endDate": "2024-11-22 07:00:00",
               "overridden": true,
               "featuredHeroes": [
-                "The Royal Knight Fox",
-                "The Guardian Red Fox",
-                "Warlord of Wei-Warlord of Ice",
-                "Hidden Claw of Owl Tower",
-                "Carnelian Hunter",
-                "Master Strategist-Strategist Supreme"
+                "fox_spiff",
+                "fox_rust",
+                "kingdom_cao_cao_costume_ice",
+                "owl_cennius",
+                "monster_hunter_revna",
+                "kingdom_zhuge_liang_costume_crane"
               ],
               "advertisedHero": "fox_spiff",
               "includedHeroes": [
@@ -101898,12 +101898,12 @@
               "endDate": "2024-12-27 07:00:00",
               "overridden": true,
               "featuredHeroes": [
-                "The Bone Collector Sand Fox",
-                "The Ranger Arctic Fox",
-                "Singing Tavern Slime",
-                "Sceptical Patron of Arts",
-                "Sneaky Rogue Slime",
-                "Carnelian Hunter"
+                "fox_shadowfang",
+                "fox_whitefang",
+                "slime_sludgus",
+                "ballerina_armand",
+                "slime_slimgo",
+                "monster_hunter_revna"
               ],
               "advertisedHero": "fox_shadowfang",
               "includedHeroes": [
@@ -101997,12 +101997,12 @@
               "endDate": "2025-01-15 07:00:00",
               "overridden": true,
               "featuredHeroes": [
-                "The Pirate Fennec Fox",
-                "The Assassin Silver Fox",
-                "Charming Theater Goo",
-                "The Hogmaster",
-                "Stolid Sentry",
-                "Astral Dwarf Pilgrim"
+                "fox_silverpaw",
+                "fox_swiftpaw",
+                "slime_charmione",
+                "garrison_dima",
+                "garrison_kolya",
+                "astral_dwarf_quari"
               ],
               "advertisedHero": "fox_silverpaw",
               "includedHeroes": [
@@ -102096,12 +102096,12 @@
               "endDate": "2025-02-06 07:00:00",
               "overridden": true,
               "featuredHeroes": [
-                "The Lost Princess Fox",
-                "The Pirate Fennec Fox",
-                "The Bone Collector Sand Fox",
-                "Cheerful Captain",
-                "Sceptical Patron of Arts",
-                "Feared Magician"
+                "fox_sable",
+                "fox_silverpaw",
+                "fox_shadowfang",
+                "garrison_rosalind",
+                "ballerina_armand",
+                "ballerina_von_rothbart"
               ],
               "advertisedHero": "fox_sable",
               "includedHeroes": [
@@ -102195,12 +102195,12 @@
               "endDate": "2025-03-02 07:00:00",
               "overridden": true,
               "featuredHeroes": [
-                "The Silver-backed Fox",
-                "The Lost Princess Fox",
-                "Knight Guardian of Owl Tower",
-                "Portrait Painter",
-                "Bard of Resurrection",
-                "Master of the Mead-Hall"
+                "fox_ashen",
+                "fox_sable",
+                "owl_pertinax",
+                "castle_bear_bearnadette",
+                "bard_astrid",
+                "beowulf_hrothgar"
               ],
               "advertisedHero": "fox_ashen",
               "includedHeroes": [
@@ -102294,12 +102294,12 @@
               "endDate": "2025-03-12 07:00:00",
               "overridden": true,
               "featuredHeroes": [
-                "The Lost Princess Fox",
-                "The Bone Collector Sand Fox",
-                "The Pirate Fennec Fox",
-                "Stolid Sentry",
-                "Singing Tavern Slime",
-                "Astral Dwarf Pilgrim"
+                "fox_sable",
+                "fox_shadowfang",
+                "fox_silverpaw",
+                "garrison_kolya",
+                "slime_sludgus",
+                "astral_dwarf_quari"
               ],
               "advertisedHero": "fox_sable",
               "includedHeroes": [
@@ -102393,12 +102393,12 @@
               "endDate": "2025-04-01 07:00:00",
               "overridden": true,
               "featuredHeroes": [
-                "Sceptical Patron of Arts",
-                "Fierce War-Leader",
-                "The Ranger Arctic Fox",
-                "Unnerving Quartermaster",
-                "The Lost Princess Fox",
-                "Cheerful Captain"
+                "ballerina_armand",
+                "beowulf_ecgtheow",
+                "fox_whitefang",
+                "garrison_archibald",
+                "fox_sable",
+                "garrison_rosalind"
               ],
               "advertisedHero": "garrison_rosalind",
               "includedHeroes": [
@@ -102492,12 +102492,12 @@
               "endDate": "2025-04-18 07:00:00",
               "overridden": true,
               "featuredHeroes": [
-                "The Outlaw Gray Fox",
-                "Unflappable Constable",
-                "The Bone Collector Sand Fox",
-                "Singing Tavern Slime",
-                "The Hogmaster",
-                "Master of the Mead-Hall"
+                "fox_foxley",
+                "garrison_fergus",
+                "fox_shadowfang",
+                "slime_sludgus",
+                "garrison_dima",
+                "beowulf_hrothgar"
               ],
               "advertisedHero": "fox_foxley",
               "includedHeroes": [
@@ -102591,12 +102591,12 @@
               "endDate": "2025-05-12 07:00:00",
               "overridden": true,
               "featuredHeroes": [
-                "The Fire Caller Fox",
-                "Lizardfolk Gambler",
-                "The Pirate Fennec Fox",
-                "Nervous Messenger",
-                "The Clergymoth",
-                "The Merry Mason"
+                "fox_ember",
+                "garrison_flamehide",
+                "fox_silverpaw",
+                "garrison_pip",
+                "moth_satinpimenter",
+                "garrison_maisie"
               ],
               "advertisedHero": "fox_ember",
               "includedHeroes": [
@@ -102690,12 +102690,12 @@
               "endDate": "2025-05-27 07:00:00",
               "overridden": true,
               "featuredHeroes": [
-                "The Lost Princess Fox",
-                "Lizardfolk Gambler",
-                "Astral Dwarf Pilgrim",
-                "Teacher of the Arcane Arts-Teacher of Arctic Spells",
-                "Astral Dwarf Contender",
-                "Astral Dwarf Magus"
+                "fox_sable",
+                "garrison_flamehide",
+                "astral_dwarf_quari",
+                "magic_milena_costume_ice",
+                "astral_dwarf_gongoth",
+                "astral_dwarf_ceris"
               ],
               "advertisedHero": "astral_dwarf_ceris",
               "includedHeroes": [
@@ -102789,12 +102789,12 @@
               "endDate": "2025-06-07 07:00:00",
               "overridden": true,
               "featuredHeroes": [
-                "The Hungry Fox Kit",
-                "Dwarven Mountain King",
-                "The Lost Princess Fox",
-                "The Pirate Fennec Fox",
-                "Dwarven Mountain Shaman",
-                "Fierce War-Leader"
+                "fox_nibbles",
+                "tales2_hreidmarr",
+                "fox_sable",
+                "fox_silverpaw",
+                "tales2_dagr",
+                "beowulf_ecgtheow"
               ],
               "advertisedHero": "fox_nibbles",
               "includedHeroes": [
@@ -102888,12 +102888,12 @@
               "endDate": "2025-06-27 07:00:00",
               "overridden": true,
               "featuredHeroes": [
-                "Magic Carpet Mender",
-                "Collector of Mystical Artifacts",
-                "Dwarven Lord of Myrkheim",
-                "The Outlaw Gray Fox",
-                "The Fire Caller Fox",
-                "The Hungry Fox Kit"
+                "magic_carpet_zazha",
+                "shadow_hysteria",
+                "tales2_fafnir",
+                "fox_foxley",
+                "fox_ember",
+                "fox_nibbles"
               ],
               "advertisedHero": "tales2_fafnir",
               "includedHeroes": [
@@ -102987,12 +102987,12 @@
               "endDate": "2025-07-10 07:00:00",
               "overridden": true,
               "featuredHeroes": [
-                "The Sentinel Gray Fox",
-                "Golden Slime King",
-                "Conductor of Flames-Flame Surgeon",
-                "Beowulf's Bane",
-                "The Master Marksmoth",
-                "Exacting Commander"
+                "fox_halcyon",
+                "slime_goldrip",
+                "elemental_ignazio_costume_medic",
+                "beowulf_nithgaest",
+                "moth_auricarc",
+                "garrison_ciara"
               ],
               "advertisedHero": "fox_halcyon",
               "includedHeroes": [
@@ -103087,12 +103087,12 @@
               "endDate": "2025-07-29 07:00:00",
               "overridden": true,
               "featuredHeroes": [
-                "Iron Ox of Water Margin",
-                "Dwarven Dark Seer",
-                "Master of the Mead-Hall",
-                "Dwarven Lord of Myrkheim",
-                "Golden Slime King",
-                "The Magmatic Drummer"
+                "outlaw_li_kui",
+                "tales2_dularfulr",
+                "beowulf_hrothgar",
+                "tales2_fafnir",
+                "slime_goldrip",
+                "bard_dunnar_hart"
               ],
               "advertisedHero": "outlaw_li_kui",
               "includedHeroes": [
@@ -103187,12 +103187,12 @@
               "endDate": "2025-08-13 07:00:00",
               "overridden": true,
               "featuredHeroes": [
-                "The Conjurer Corsac Fox",
-                "Mothling Breeder",
-                "Magic Carpet Drifter",
-                "Astral Dwarf Demolisher",
-                "Astral Dwarf Contender",
-                "The Lost Princess Fox"
+                "fox_riverfang",
+                "moth_grovevert",
+                "magic_carpet_naeem",
+                "astral_dwarf_ixinn",
+                "astral_dwarf_gongoth",
+                "fox_sable"
               ],
               "advertisedHero": "fox_riverfang",
               "includedHeroes": [
@@ -103304,12 +103304,12 @@
               "endDate": "2024-05-13 07:00:00",
               "overridden": true,
               "featuredHeroes": [
-                "Baseball Champion",
-                "Head of the Moles-Head Nurse",
-                "Ram Turismo Champion",
-                "Traveling Llama Troubadour-Gallant Llama Troubadour",
-                "Discus Throw Champion",
-                "Arctic Ambassador"
+                "champions_lazara",
+                "s4_hulda_costume_nurse",
+                "champions_ramona",
+                "easter_archie_costume_gallant",
+                "champions_mistra",
+                "castle_bear_armel"
               ],
               "advertisedHero": "champions_mistra",
               "includedHeroes": [
@@ -103389,12 +103389,12 @@
               "endDate": "2024-01-20 07:00:00",
               "overridden": true,
               "featuredHeroes": [
-                "Minotaur Construct",
-                "Supersonic Blade Master",
-                "Mystic Chess Master",
-                "Starborne Mage Construct",
-                "Herald of Sacrifice",
-                "Elven Construct"
+                "construct_hornfel",
+                "elemental_farrah",
+                "magic_vaishali",
+                "construct_blue_mage",
+                "magic_jett",
+                "construct_frond"
               ],
               "advertisedHero": "construct_hornfel",
               "includedHeroes": [
@@ -103474,12 +103474,12 @@
               "endDate": "2024-02-12 07:00:00",
               "overridden": true,
               "featuredHeroes": [
-                "Navigator Construct",
-                "Cleric Construct",
-                "Imprisoned Construct",
-                "Gnome Wizard",
-                "Duplicitous Duke",
-                "Blade Alchemist"
+                "construct_nautica",
+                "construct_shaal",
+                "construct_shacklebolt",
+                "christmas_zappa",
+                "musketeer_cardinal_richelieu",
+                "elemental_desmond"
               ],
               "advertisedHero": "construct_nautica",
               "includedHeroes": [
@@ -103559,12 +103559,12 @@
               "endDate": "2024-02-25 07:00:00",
               "overridden": true,
               "featuredHeroes": [
-                "Greatbow Saboteur",
-                "Scorpion Demoness",
-                "Navigator Construct",
-                "Electric Navigator",
-                "Jousting Champion",
-                "Warlord of the Unwavering Orcs"
+                "ninja_tametomo",
+                "journey_xie_zi_jing",
+                "construct_nautica",
+                "elemental_jolt",
+                "champions_norman",
+                "elemental_ironmaw"
               ],
               "advertisedHero": "ninja_tametomo",
               "includedHeroes": [
@@ -103644,12 +103644,12 @@
               "endDate": "2024-03-14 07:00:00",
               "overridden": true,
               "featuredHeroes": [
-                "Void Tank Construct",
-                "Boatswain of Corellia",
-                "Greatbow Saboteur",
-                "True Arrow of Teltoc",
-                "Housemaid of Grimforest",
-                "Navigator Construct"
+                "construct_nocturne",
+                "pirate_boatswain",
+                "ninja_tametomo",
+                "guardian_elephant",
+                "fables_cinderella",
+                "construct_nautica"
               ],
               "advertisedHero": "construct_nocturne",
               "includedHeroes": [
@@ -103729,12 +103729,12 @@
               "endDate": "2024-04-02 07:00:00",
               "overridden": true,
               "featuredHeroes": [
-                "Party Gargoyle",
-                "Crescent Owl",
-                "Hermit of the Frozen Mountain",
-                "Black Swan",
-                "Famed Goblin Flutist",
-                "Baseball Champion"
+                "gargoyle_garten",
+                "mighty_pet_luna",
+                "goblin_grimsteel",
+                "ballerina_odile",
+                "goblin_pepperflame",
+                "champions_lazara"
               ],
               "advertisedHero": "gargoyle_garten",
               "includedHeroes": [
@@ -103814,12 +103814,12 @@
               "endDate": "2024-04-29 07:00:00",
               "overridden": true,
               "featuredHeroes": [
-                "Cartographer Construct",
-                "Jade Eyed Gentleman",
-                "Stalwart Protector of Love",
-                "Black Swan",
-                "Navigator Construct",
-                "Starlet Ballerina"
+                "construct_carta",
+                "ballerina_daroga",
+                "valentines_elba",
+                "ballerina_odile",
+                "construct_nautica",
+                "ballerina_meg_giry"
               ],
               "advertisedHero": "construct_carta",
               "includedHeroes": [
@@ -103899,9 +103899,9 @@
               "endDate": "2024-06-04 07:00:00",
               "overridden": true,
               "featuredHeroes": [
-                "Herbalist of Owl Tower",
-                "Berserker of Owl Tower",
-                "Everburning Construct"
+                "owl_relius",
+                "owl_lodius",
+                "construct_scoria"
               ],
               "advertisedHero": "owl_relius",
               "includedHeroes": [
@@ -103981,9 +103981,9 @@
               "endDate": "2024-09-04 07:00:00",
               "overridden": true,
               "featuredHeroes": [
-                "Reckless Faun Scout",
-                "Mysterious Faun Merchant",
-                "Hidden Claw of Owl Tower"
+                "faun_peregrine",
+                "faun_verity",
+                "owl_cennius"
               ],
               "advertisedHero": "faun_peregrine",
               "includedHeroes": [
@@ -104063,9 +104063,9 @@
               "endDate": "2024-09-24 07:00:00",
               "overridden": true,
               "featuredHeroes": [
-                "Eerie Faun Flautist",
-                "Mysterious Faun Merchant",
-                "Relentless Battle Blob"
+                "faun_tamlin",
+                "faun_verity",
+                "slime_gunktus"
               ],
               "advertisedHero": "faun_tamlin",
               "includedHeroes": [
@@ -104145,9 +104145,9 @@
               "endDate": "2024-10-27 07:00:00",
               "overridden": true,
               "featuredHeroes": [
-                "Fearsome Faun Warrior",
-                "Eerie Faun Flautist",
-                "Reckless Faun Scout"
+                "faun_araminta",
+                "faun_tamlin",
+                "faun_peregrine"
               ],
               "advertisedHero": "faun_araminta",
               "includedHeroes": [
@@ -104227,9 +104227,9 @@
               "endDate": "2024-11-09 07:00:00",
               "overridden": true,
               "featuredHeroes": [
-                "Dauntless Faun Gladiator",
-                "Carnelian Hunter",
-                "Nervous Messenger"
+                "faun_ysabel",
+                "monster_hunter_revna",
+                "garrison_pip"
               ],
               "advertisedHero": "faun_ysabel",
               "includedHeroes": [
@@ -104309,9 +104309,9 @@
               "endDate": "2024-12-11 07:00:00",
               "overridden": true,
               "featuredHeroes": [
-                "Courageous Faun Commander",
-                "Feared Magician",
-                "Mysterious Faun Merchant"
+                "faun_gideon",
+                "ballerina_von_rothbart",
+                "faun_verity"
               ],
               "advertisedHero": "faun_gideon",
               "includedHeroes": [
@@ -104391,9 +104391,9 @@
               "endDate": "2025-01-04 07:00:00",
               "overridden": true,
               "featuredHeroes": [
-                "Charismatic Faun Champion",
-                "Dauntless Faun Gladiator",
-                "Master of the Mead-Hall"
+                "faun_isidore",
+                "faun_ysabel",
+                "beowulf_hrothgar"
               ],
               "advertisedHero": "faun_isidore",
               "includedHeroes": [
@@ -104473,9 +104473,9 @@
               "endDate": "2025-01-26 07:00:00",
               "overridden": true,
               "featuredHeroes": [
-                "Gentle Faun Gardener",
-                "Charismatic Faun Champion",
-                "Shadowy Kunoichi"
+                "faun_bramble",
+                "faun_isidore",
+                "ninja_satsui"
               ],
               "advertisedHero": "faun_bramble",
               "includedHeroes": [
@@ -104555,9 +104555,9 @@
               "endDate": "2025-02-25 07:00:00",
               "overridden": true,
               "featuredHeroes": [
-                "All-Seeing Faun Augur",
-                "Dauntless Faun Gladiator",
-                "Gentle Faun Gardener"
+                "faun_ascian",
+                "faun_ysabel",
+                "faun_bramble"
               ],
               "advertisedHero": "faun_ascian",
               "includedHeroes": [
@@ -104638,9 +104638,9 @@
               "endDate": "2025-03-08 07:00:00",
               "overridden": true,
               "featuredHeroes": [
-                "Gentle Faun Gardener",
-                "All-Seeing Faun Augur",
-                "Mysterious Faun Merchant"
+                "faun_bramble",
+                "faun_ascian",
+                "faun_verity"
               ],
               "advertisedHero": "faun_bramble",
               "includedHeroes": [
@@ -104721,10 +104721,10 @@
               "endDate": "2025-03-29 13:00:00",
               "overridden": true,
               "featuredHeroes": [
-                "Ambitious Faun Alchemist",
-                "Sanguine Faun Seeress",
-                "Ring-Graced, Royal-Hearted",
-                "Mothling Breeder"
+                "faun_maud",
+                "faun_yolanda",
+                "beowulf_wealhtheow",
+                "moth_grovevert"
               ],
               "advertisedHero": "faun_maud",
               "includedHeroes": [
@@ -104807,10 +104807,10 @@
               "endDate": "2025-04-09 07:00:00",
               "overridden": true,
               "featuredHeroes": [
-                "Unflappable Constable",
-                "Knight Guardian of Owl Tower",
-                "Gentle Faun Gardener",
-                "Sanguine Faun Seeress"
+                "garrison_fergus",
+                "owl_pertinax",
+                "faun_bramble",
+                "faun_yolanda"
               ],
               "advertisedHero": "garrison_fergus",
               "includedHeroes": [
@@ -104893,10 +104893,10 @@
               "endDate": "2025-04-23 07:00:00",
               "overridden": true,
               "featuredHeroes": [
-                "Mesmerizing Faun Minstrel",
-                "Mysterious Faun Merchant",
-                "Reckless Faun Scout",
-                "Bard of Spirit Festivals"
+                "faun_philomena",
+                "faun_verity",
+                "faun_peregrine",
+                "bard_balafon"
               ],
               "advertisedHero": "faun_philomena",
               "includedHeroes": [
@@ -104980,10 +104980,10 @@
               "endDate": "2025-05-08 07:00:00",
               "overridden": true,
               "featuredHeroes": [
-                "Gentle Faun Gardener",
-                "All-Seeing Faun Augur",
-                "Bard of Resurrection",
-                "Sword-Breaking Hell-Brute"
+                "faun_bramble",
+                "faun_ascian",
+                "bard_astrid",
+                "beowulf_grendel"
               ],
               "advertisedHero": "bard_astrid",
               "includedHeroes": [
@@ -105067,10 +105067,10 @@
               "endDate": "2025-05-24 07:00:00",
               "overridden": true,
               "featuredHeroes": [
-                "Thoughtful Faun Tinkerer",
-                "Gentle Faun Gardener",
-                "Mysterious Faun Merchant",
-                "Sanguine Faun Seeress"
+                "faun_jolyon",
+                "faun_bramble",
+                "faun_verity",
+                "faun_yolanda"
               ],
               "advertisedHero": "faun_jolyon",
               "includedHeroes": [
@@ -105153,10 +105153,10 @@
               "endDate": "2025-05-16 07:00:00",
               "overridden": true,
               "featuredHeroes": [
-                "The Master Marksmoth",
-                "Unnerving Quartermaster",
-                "Magic Carpet Drifter",
-                "Astral Dwarf Magus"
+                "moth_auricarc",
+                "garrison_archibald",
+                "magic_carpet_naeem",
+                "astral_dwarf_ceris"
               ],
               "advertisedHero": "moth_auricarc",
               "includedHeroes": [
@@ -105242,10 +105242,10 @@
               "endDate": "2025-06-12 07:00:00",
               "overridden": true,
               "featuredHeroes": [
-                "Gentle Faun Gardener",
-                "All-Seeing Faun Augur",
-                "Mesmerizing Faun Minstrel",
-                "Dauntless Faun Gladiator"
+                "faun_bramble",
+                "faun_ascian",
+                "faun_philomena",
+                "faun_ysabel"
               ],
               "advertisedHero": "faun_bramble",
               "includedHeroes": [
@@ -105328,10 +105328,10 @@
               "endDate": "2025-07-02 07:00:00",
               "overridden": true,
               "featuredHeroes": [
-                "Sharp-Eyed Bobcat",
-                "Leor Survivor",
-                "Gourmand Tigris Chief",
-                "Multidimensional Hazard"
+                "wild_cat_lennart",
+                "wild_cat_leonie",
+                "wild_cat_rajesh",
+                "elemental_gastille"
               ],
               "advertisedHero": "wild_cat_lennart",
               "includedHeroes": [
@@ -105419,10 +105419,10 @@
               "endDate": "2025-07-13 07:00:00",
               "overridden": true,
               "featuredHeroes": [
-                "Astral Dwarf Contender",
-                "Bard of Resurrection",
-                "Astral Dwarf Pilgrim",
-                "Destruction Star of Water Margin"
+                "astral_dwarf_gongoth",
+                "bard_astrid",
+                "astral_dwarf_quari",
+                "outlaw_ruan_xiaoqi"
               ],
               "advertisedHero": "outlaw_ruan_xiaoqi",
               "includedHeroes": [
@@ -105510,10 +105510,10 @@
               "endDate": "2025-07-22 07:00:00",
               "overridden": true,
               "featuredHeroes": [
-                "Fluffy Constellationist",
-                "Sharp-Eyed Bobcat",
-                "Wise Sanctuary Goo",
-                "Astral Dwarf Magus"
+                "wild_cat_imagus",
+                "wild_cat_lennart",
+                "slime_gooric",
+                "astral_dwarf_ceris"
               ],
               "advertisedHero": "wild_cat_imagus",
               "includedHeroes": [
@@ -105601,10 +105601,10 @@
               "endDate": "2025-08-07 07:00:00",
               "overridden": true,
               "featuredHeroes": [
-                "Gentle Faun Gardener",
-                "Astral Dwarf Augur",
-                "Wise Sanctuary Goo",
-                "Terror-Spreading Tarn-Hag"
+                "faun_bramble",
+                "astral_dwarf_haumri",
+                "slime_gooric",
+                "beowulf_grendels_mother"
               ],
               "advertisedHero": "faun_bramble",
               "includedHeroes": [
@@ -105691,10 +105691,10 @@
               "endDate": "2025-08-27 07:00:00",
               "overridden": true,
               "featuredHeroes": [
-                "Messenger of the Chentari",
-                "Fluffy Constellationist",
-                "Sharp-Eyed Bobcat",
-                "Leor Survivor"
+                "wild_cat_stravia",
+                "wild_cat_imagus",
+                "wild_cat_lennart",
+                "wild_cat_leonie"
               ],
               "advertisedHero": "wild_cat_stravia",
               "includedHeroes": [
@@ -105798,10 +105798,10 @@
               "endDate": "2025-07-18 07:00:00",
               "overridden": true,
               "featuredHeroes": [
-                "Primordial Goddess of Sea Monsters",
-                "Nereid Princess",
-                "True Arrow of Teltoc",
-                "Chieftain of Teltoc"
+                "tales1_ceto",
+                "tales1_ephyra",
+                "guardian_elephant",
+                "guardian_gorilla_chieftain"
               ],
               "advertisedHero": "tales1_ceto"
             },
@@ -105813,10 +105813,10 @@
               "endDate": "2025-03-28 07:00:00",
               "overridden": true,
               "featuredHeroes": [
-                "Goddess of Motherhood",
-                "Divine Pharaoh",
-                "Bard of Whispers",
-                "Bard of Valor"
+                "s5_hathor",
+                "s5_cleopatra",
+                "bard_phenexa",
+                "bard_rhys"
               ],
               "advertisedHero": "s5_hathor"
             },
@@ -105828,10 +105828,10 @@
               "endDate": "2025-02-21 07:00:00",
               "overridden": true,
               "featuredHeroes": [
-                "Brute of Teltoc",
-                "Warrior of Teltoc",
-                "Occult Duo",
-                "Vampire Scion"
+                "guardian_hippo",
+                "guardian_cat_warrior",
+                "halloween_miriam_and_midnight",
+                "halloween_alucard"
               ],
               "advertisedHero": "guardian_hippo"
             },
@@ -105843,10 +105843,10 @@
               "endDate": "2025-04-30 07:00:00",
               "overridden": true,
               "featuredHeroes": [
-                "Druid of Teltoc",
-                "Elementalist of Teltoc",
-                "Trickster God",
-                "Lady of the Slain"
+                "guardian_gazelle",
+                "guardian_chameleon",
+                "s3_loki_male",
+                "s3_freya"
               ],
               "advertisedHero": "guardian_gazelle"
             },
@@ -105858,10 +105858,10 @@
               "endDate": "2025-05-20 07:00:00",
               "overridden": true,
               "featuredHeroes": [
-                "Shadow Monk of 999 Swords",
-                "The Strongest Bannerlord",
-                "Savage Hunter",
-                "Hunter Journeyman"
+                "ninja_oniwakamaru",
+                "ninja_myoinni",
+                "monster_hunter_goretooth",
+                "monster_hunter_hawthorn"
               ],
               "advertisedHero": "ninja_oniwakamaru"
             },
@@ -105873,10 +105873,10 @@
               "endDate": "2025-06-16 07:00:00",
               "overridden": true,
               "featuredHeroes": [
-                "Primordial God of the Depths",
-                "Wise Sage of the Oceans",
-                "Celestial of Darkness",
-                "Son of Zeus"
+                "tales1_phorcys",
+                "tales1_galapago",
+                "dark_god_hel",
+                "ice_god_perseus"
               ],
               "advertisedHero": "tales1_phorcys"
             },
@@ -105888,10 +105888,10 @@
               "endDate": "2025-08-20 07:00:00",
               "overridden": true,
               "featuredHeroes": [
-                "Treasure Hunter of the Deep",
-                "Flamboyant Hussar of Atlantis",
-                "God of Peaceful Demise",
-                "Goddess of the Sea"
+                "tales1_gelert",
+                "tales1_lasalle",
+                "styx_thanatos",
+                "styx_amphitrite"
               ],
               "advertisedHero": "tales1_gelert"
             }
@@ -105920,8 +105920,8 @@
                 "goblin"
               ],
               "featuredHeroes": [
-                "The Merry Mason",
-                "The Hogmaster"
+                "garrison_maisie",
+                "garrison_dima"
               ],
               "advertisedHero": "garrison_maisie"
             },
@@ -105936,8 +105936,8 @@
                 "goblin"
               ],
               "featuredHeroes": [
-                "Lizardfolk Gambler",
-                "Unnerving Quartermaster"
+                "garrison_flamehide",
+                "garrison_archibald"
               ],
               "advertisedHero": "garrison_flamehide"
             },
@@ -105952,8 +105952,8 @@
                 "goblin"
               ],
               "featuredHeroes": [
-                "Happy-Go-Lucky Halfling",
-                "Retired Boar Rider"
+                "garrison_violet_potts",
+                "goblin_scrollbeast"
               ],
               "advertisedHero": "garrison_violet_potts"
             },
@@ -105968,8 +105968,8 @@
                 "goblin"
               ],
               "featuredHeroes": [
-                "Famed Goblin Flutist",
-                "Adept Eagle Trainer"
+                "goblin_pepperflame",
+                "goblin_darkfeather"
               ],
               "advertisedHero": "goblin_pepperflame"
             },
@@ -105984,8 +105984,8 @@
                 "goblin"
               ],
               "featuredHeroes": [
-                "Goblin Necromancer",
-                "Famed Goblin Flutist"
+                "goblin_acidfire",
+                "goblin_pepperflame"
               ],
               "advertisedHero": "goblin_acidfire"
             },
@@ -106000,8 +106000,8 @@
                 "goblin"
               ],
               "featuredHeroes": [
-                "Hermit of the Frozen Mountain",
-                "Adept Eagle Trainer"
+                "goblin_grimsteel",
+                "goblin_darkfeather"
               ],
               "advertisedHero": "goblin_grimsteel"
             },
@@ -106016,8 +106016,8 @@
                 "goblin"
               ],
               "featuredHeroes": [
-                "Demolitions Expert",
-                "Goblin Troupe Violinist"
+                "goblin_rocket",
+                "goblin_fizzcoil"
               ],
               "advertisedHero": "goblin_rocket"
             },
@@ -106032,8 +106032,8 @@
                 "goblin"
               ],
               "featuredHeroes": [
-                "The Steadfast Sapper",
-                "Lizardfolk Lanternbearer"
+                "garrison_vanya",
+                "garrison_shimmerscale"
               ],
               "advertisedHero": "garrison_vanya"
             },
@@ -106048,8 +106048,8 @@
                 "goblin"
               ],
               "featuredHeroes": [
-                "The Pensive Poet",
-                "Lizardfolk Lanternbearer"
+                "garrison_caelen",
+                "garrison_shimmerscale"
               ],
               "advertisedHero": "garrison_caelen"
             },
@@ -106064,8 +106064,8 @@
                 "goblin"
               ],
               "featuredHeroes": [
-                "Retired Boar Rider",
-                "Famed Goblin Flutist"
+                "goblin_scrollbeast",
+                "goblin_pepperflame"
               ],
               "advertisedHero": "goblin_scrollbeast"
             },
@@ -106080,8 +106080,8 @@
                 "goblin"
               ],
               "featuredHeroes": [
-                "The Steadfast Sapper",
-                "Hermit of the Frozen Mountain"
+                "garrison_vanya",
+                "goblin_grimsteel"
               ],
               "advertisedHero": "goblin_grimsteel"
             },
@@ -106096,8 +106096,8 @@
                 "goblin"
               ],
               "featuredHeroes": [
-                "Happy-Go-Lucky Halfling",
-                "Adept Eagle Trainer"
+                "garrison_violet_potts",
+                "goblin_darkfeather"
               ],
               "advertisedHero": "garrison_violet_potts"
             },
@@ -106112,8 +106112,8 @@
                 "goblin"
               ],
               "featuredHeroes": [
-                "Master-at-Arms",
-                "Courageous Corporal"
+                "garrison_iocantha",
+                "garrison_theodosius"
               ],
               "advertisedHero": "garrison_iocantha"
             },
@@ -106128,8 +106128,8 @@
                 "goblin"
               ],
               "featuredHeroes": [
-                "Streetwise Sergeant",
-                "Master-at-Arms"
+                "garrison_frank_fangs_brimwell",
+                "garrison_iocantha"
               ],
               "advertisedHero": "garrison_frank_fangs_brimwell"
             },
@@ -106144,8 +106144,8 @@
                 "goblin"
               ],
               "featuredHeroes": [
-                "Lizardfolk Lanternbearer",
-                "Happy-Go-Lucky Halfling"
+                "garrison_shimmerscale",
+                "garrison_violet_potts"
               ],
               "advertisedHero": "garrison_shimmerscale"
             },
@@ -106160,8 +106160,8 @@
                 "goblin"
               ],
               "featuredHeroes": [
-                "Nervous Messenger",
-                "Streetwise Sergeant"
+                "garrison_pip",
+                "garrison_frank_fangs_brimwell"
               ],
               "advertisedHero": "garrison_pip"
             },
@@ -106176,8 +106176,8 @@
                 "goblin"
               ],
               "featuredHeroes": [
-                "The Hogmaster",
-                "Nervous Messenger"
+                "garrison_dima",
+                "garrison_pip"
               ],
               "advertisedHero": "garrison_dima"
             },
@@ -106192,8 +106192,8 @@
                 "goblin"
               ],
               "featuredHeroes": [
-                "Cheerful Captain",
-                "The Hogmaster"
+                "garrison_rosalind",
+                "garrison_dima"
               ],
               "advertisedHero": "garrison_rosalind"
             },
@@ -106208,8 +106208,8 @@
                 "goblin"
               ],
               "featuredHeroes": [
-                "Stolid Sentry",
-                "Cheerful Captain"
+                "garrison_kolya",
+                "garrison_rosalind"
               ],
               "advertisedHero": "garrison_kolya"
             },
@@ -106224,8 +106224,8 @@
                 "goblin"
               ],
               "featuredHeroes": [
-                "Lizardfolk Lanternbearer",
-                "Hermit of the Frozen Mountain"
+                "garrison_shimmerscale",
+                "goblin_grimsteel"
               ],
               "advertisedHero": "goblin_grimsteel"
             },
@@ -106240,8 +106240,8 @@
                 "goblin"
               ],
               "featuredHeroes": [
-                "Unflappable Constable",
-                "Stolid Sentry"
+                "garrison_fergus",
+                "garrison_kolya"
               ],
               "advertisedHero": "garrison_fergus"
             },
@@ -106256,8 +106256,8 @@
                 "goblin"
               ],
               "featuredHeroes": [
-                "The Merry Mason",
-                "Lizardfolk Flagbearer"
+                "garrison_maisie",
+                "garrison_frostsnout"
               ],
               "advertisedHero": "garrison_maisie"
             },
@@ -106272,8 +106272,8 @@
                 "goblin"
               ],
               "featuredHeroes": [
-                "Lizardfolk Flagbearer",
-                "Unflappable Constable"
+                "garrison_frostsnout",
+                "garrison_fergus"
               ],
               "advertisedHero": "garrison_frostsnout"
             },
@@ -106288,8 +106288,8 @@
                 "goblin"
               ],
               "featuredHeroes": [
-                "Unnerving Quartermaster",
-                "Master-at-Arms"
+                "garrison_archibald",
+                "garrison_iocantha"
               ],
               "advertisedHero": "garrison_archibald"
             },
@@ -106304,8 +106304,8 @@
                 "goblin"
               ],
               "featuredHeroes": [
-                "The Merry Mason",
-                "The Hogmaster"
+                "garrison_maisie",
+                "garrison_dima"
               ],
               "advertisedHero": "garrison_maisie"
             },
@@ -106320,8 +106320,8 @@
                 "goblin"
               ],
               "featuredHeroes": [
-                "Lizardfolk Gambler",
-                "Unnerving Quartermaster"
+                "garrison_flamehide",
+                "garrison_archibald"
               ],
               "advertisedHero": "garrison_flamehide"
             },
@@ -106336,8 +106336,8 @@
                 "goblin"
               ],
               "featuredHeroes": [
-                "The Stylish Swordsman",
-                "Stolid Sentry"
+                "garrison_iarlaith",
+                "garrison_kolya"
               ],
               "advertisedHero": "garrison_iarlaith"
             },
@@ -106352,8 +106352,8 @@
                 "goblin"
               ],
               "featuredHeroes": [
-                "Exacting Commander",
-                "The Stylish Swordsman"
+                "garrison_ciara",
+                "garrison_iarlaith"
               ],
               "advertisedHero": "garrison_ciara"
             },
@@ -106368,8 +106368,8 @@
                 "goblin"
               ],
               "featuredHeroes": [
-                "Unnerving Quartermaster",
-                "The Hogmaster"
+                "garrison_archibald",
+                "garrison_dima"
               ],
               "advertisedHero": "garrison_archibald"
             },
@@ -106384,8 +106384,8 @@
                 "goblin"
               ],
               "featuredHeroes": [
-                "Garrulous Guardsman",
-                "Lizardfolk Gambler"
+                "garrison_godfrey",
+                "garrison_flamehide"
               ],
               "advertisedHero": "garrison_godfrey"
             }
@@ -106413,8 +106413,8 @@
                 "astralelves"
               ],
               "featuredHeroes": [
-                "Astral Dwarf Contender",
-                "Astral Dwarf Magus"
+                "astral_dwarf_gongoth",
+                "astral_dwarf_ceris"
               ],
               "advertisedHero": "astral_dwarf_gongoth"
             },
@@ -106429,8 +106429,8 @@
                 "astralelves"
               ],
               "featuredHeroes": [
-                "Astral Dwarf Grand Master",
-                "Astral Dwarf Pilgrim"
+                "astral_dwarf_vard",
+                "astral_dwarf_quari"
               ],
               "advertisedHero": "astral_dwarf_vard"
             },
@@ -106445,8 +106445,8 @@
                 "astralelves"
               ],
               "featuredHeroes": [
-                "Astral Dwarf Demolisher",
-                "Astral Dwarf Warden"
+                "astral_dwarf_ixinn",
+                "astral_dwarf_salniss"
               ],
               "advertisedHero": "astral_dwarf_ixinn"
             },
@@ -106461,8 +106461,8 @@
                 "astralelves"
               ],
               "featuredHeroes": [
-                "Astral Elf Marksman",
-                "Astral Elf Blacksmith"
+                "astral_lemonwood",
+                "astral_hammerclang"
               ],
               "advertisedHero": "astral_lemonwood"
             },
@@ -106477,8 +106477,8 @@
                 "astralelves"
               ],
               "featuredHeroes": [
-                "Astral Elf Oracle",
-                "King of the Astral Elves"
+                "astral_demilune",
+                "astral_starwalker"
               ],
               "advertisedHero": "astral_demilune"
             },
@@ -106493,8 +106493,8 @@
                 "astralelves"
               ],
               "featuredHeroes": [
-                "Astral Elf Arbalist",
-                "Astral Elf Marksman"
+                "astral_starlass",
+                "astral_lemonwood"
               ],
               "advertisedHero": "astral_starlass"
             },
@@ -106509,8 +106509,8 @@
                 "astralelves"
               ],
               "featuredHeroes": [
-                "Astral Elf Marksman",
-                "Astral Elf Oracle"
+                "astral_lemonwood",
+                "astral_demilune"
               ],
               "advertisedHero": "astral_lemonwood"
             },
@@ -106525,8 +106525,8 @@
                 "astralelves"
               ],
               "featuredHeroes": [
-                "Astral Elf Summoner",
-                "Astral Elf Arbalist"
+                "astral_moonbell",
+                "astral_starlass"
               ],
               "advertisedHero": "astral_moonbell"
             },
@@ -106541,8 +106541,8 @@
                 "astralelves"
               ],
               "featuredHeroes": [
-                "Astral Elf Summoner",
-                "Astral Elf Oracle"
+                "astral_moonbell",
+                "astral_demilune"
               ],
               "advertisedHero": "astral_moonbell"
             },
@@ -106557,8 +106557,8 @@
                 "astralelves"
               ],
               "featuredHeroes": [
-                "Astral Elf Incense Master",
-                "Astral Elf Summoner"
+                "astral_mooncure",
+                "astral_moonbell"
               ],
               "advertisedHero": "astral_mooncure"
             },
@@ -106573,8 +106573,8 @@
                 "astralelves"
               ],
               "featuredHeroes": [
-                "Astral Elf Poet",
-                "Astral Elf Arbalist"
+                "astral_melodymuse",
+                "astral_starlass"
               ],
               "advertisedHero": "astral_melodymuse"
             },
@@ -106589,8 +106589,8 @@
                 "astralelves"
               ],
               "featuredHeroes": [
-                "Astral Elf Astronomer",
-                "Astral Elf Poet"
+                "astral_cosmicspeaker",
+                "astral_melodymuse"
               ],
               "advertisedHero": "astral_cosmicspeaker"
             },
@@ -106605,8 +106605,8 @@
                 "astralelves"
               ],
               "featuredHeroes": [
-                "Astral Elf Oracle",
-                "Astral Elf Blacksmith"
+                "astral_demilune",
+                "astral_hammerclang"
               ],
               "advertisedHero": "astral_demilune"
             },
@@ -106621,8 +106621,8 @@
                 "astralelves"
               ],
               "featuredHeroes": [
-                "Astral Elf Summoner",
-                "Astral Elf Marksman"
+                "astral_moonbell",
+                "astral_lemonwood"
               ],
               "advertisedHero": "astral_lemonwood"
             },
@@ -106637,8 +106637,8 @@
                 "astralelves"
               ],
               "featuredHeroes": [
-                "Astral Dwarf Tinkerer",
-                "Astral Dwarf Grand Master"
+                "astral_dwarf_pluth",
+                "astral_dwarf_vard"
               ],
               "advertisedHero": "astral_dwarf_pluth"
             },
@@ -106653,8 +106653,8 @@
                 "astralelves"
               ],
               "featuredHeroes": [
-                "Astral Dwarf Warden",
-                "Astral Dwarf Pilgrim"
+                "astral_dwarf_salniss",
+                "astral_dwarf_quari"
               ],
               "advertisedHero": "astral_dwarf_salniss"
             },
@@ -106669,8 +106669,8 @@
                 "astralelves"
               ],
               "featuredHeroes": [
-                "Barmaid of the Astral Dwarves",
-                "Astral Dwarf Warden"
+                "astral_dwarf_maegwyn",
+                "astral_dwarf_salniss"
               ],
               "advertisedHero": "astral_dwarf_maegwyn"
             },
@@ -106685,8 +106685,8 @@
                 "astralelves"
               ],
               "featuredHeroes": [
-                "Astral Dwarf Magus",
-                "Astral Dwarf Demolisher"
+                "astral_dwarf_ceris",
+                "astral_dwarf_ixinn"
               ],
               "advertisedHero": "astral_dwarf_ceris"
             },
@@ -106701,8 +106701,8 @@
                 "astralelves"
               ],
               "featuredHeroes": [
-                "Astral Dwarf Augur",
-                "Astral Dwarf Demolisher"
+                "astral_dwarf_haumri",
+                "astral_dwarf_ixinn"
               ],
               "advertisedHero": "astral_dwarf_haumri"
             },
@@ -106717,8 +106717,8 @@
                 "astralelves"
               ],
               "featuredHeroes": [
-                "Astral Dwarf Gardener",
-                "Astral Dwarf Magus"
+                "astral_dwarf_orcur",
+                "astral_dwarf_ceris"
               ],
               "advertisedHero": "astral_dwarf_orcur"
             },
@@ -106733,8 +106733,8 @@
                 "astralelves"
               ],
               "featuredHeroes": [
-                "Astral Dwarf Lightbearer",
-                "Astral Dwarf Augur"
+                "astral_dwarf_sedille",
+                "astral_dwarf_haumri"
               ],
               "advertisedHero": "astral_dwarf_sedille"
             },
@@ -106749,8 +106749,8 @@
                 "astralelves"
               ],
               "featuredHeroes": [
-                "Astral Dwarf Magus",
-                "Astral Elf Marksman"
+                "astral_dwarf_ceris",
+                "astral_lemonwood"
               ],
               "advertisedHero": "astral_dwarf_ceris"
             },
@@ -106765,8 +106765,8 @@
                 "astralelves"
               ],
               "featuredHeroes": [
-                "Astral Dwarf Augur",
-                "Astral Dwarf Demolisher"
+                "astral_dwarf_haumri",
+                "astral_dwarf_ixinn"
               ],
               "advertisedHero": "astral_dwarf_haumri"
             }
@@ -106795,9 +106795,9 @@
                 "shadow_quest_part2"
               ],
               "featuredHeroes": [
-                "Reckless Private Investigator",
-                "Hybrid of the Deep",
-                "Eldritch Ammunition Artisan"
+                "shadow_dolores",
+                "shadow_zavinia",
+                "shadow_wulfstan"
               ],
               "advertisedHero": "shadow_wulfstan",
               "includedHeroes": [
@@ -106850,9 +106850,9 @@
                 "shadow_quest_part2"
               ],
               "featuredHeroes": [
-                "Homunculus Investigator",
-                "Fierce Ex-Librarian",
-                "Reckless Private Investigator"
+                "shadow_burton",
+                "shadow_penelope",
+                "shadow_dolores"
               ],
               "advertisedHero": "shadow_burton",
               "includedHeroes": [
@@ -106905,9 +106905,9 @@
                 "shadow_quest_part2"
               ],
               "featuredHeroes": [
-                "Fierce Ex-Librarian",
-                "Captivated by the Unknown",
-                "Eldritch Ammunition Artisan"
+                "shadow_penelope",
+                "shadow_atwood",
+                "shadow_wulfstan"
               ],
               "advertisedHero": "shadow_penelope",
               "includedHeroes": [
@@ -106960,9 +106960,9 @@
                 "shadow_quest_part2"
               ],
               "featuredHeroes": [
-                "Trueshot",
-                "Homunculus Investigator",
-                "Captivated by the Unknown"
+                "shadow_rosanna",
+                "shadow_burton",
+                "shadow_atwood"
               ],
               "advertisedHero": "shadow_rosanna",
               "includedHeroes": [
@@ -107015,9 +107015,9 @@
                 "shadow_quest_part2"
               ],
               "featuredHeroes": [
-                "Seeker of Lost Knowledge",
-                "Trueshot",
-                "Homunculus Investigator"
+                "shadow_asketel",
+                "shadow_rosanna",
+                "shadow_burton"
               ],
               "advertisedHero": "shadow_asketel",
               "includedHeroes": [
@@ -107070,9 +107070,9 @@
                 "shadow_quest_part2"
               ],
               "featuredHeroes": [
-                "Collector of Mystical Artifacts",
-                "Seeker of Lost Knowledge",
-                "Fierce Ex-Librarian"
+                "shadow_hysteria",
+                "shadow_asketel",
+                "shadow_penelope"
               ],
               "advertisedHero": "shadow_hysteria",
               "includedHeroes": [
@@ -107125,9 +107125,9 @@
                 "shadow_quest_part2"
               ],
               "featuredHeroes": [
-                "Twisted Medium",
-                "Homunculus Investigator",
-                "Collector of Mystical Artifacts"
+                "shadow_salvatore",
+                "shadow_burton",
+                "shadow_hysteria"
               ],
               "advertisedHero": "shadow_salvatore",
               "includedHeroes": [
@@ -107180,9 +107180,9 @@
                 "shadow_quest_part2"
               ],
               "featuredHeroes": [
-                "Fanatical Archaeologist",
-                "Captivated by the Unknown",
-                "Collector of Mystical Artifacts"
+                "shadow_gwendoline",
+                "shadow_atwood",
+                "shadow_hysteria"
               ],
               "advertisedHero": "shadow_gwendoline",
               "includedHeroes": [
@@ -107235,9 +107235,9 @@
                 "shadow_quest_part2"
               ],
               "featuredHeroes": [
-                "Trueshot",
-                "Homunculus Investigator",
-                "Captivated by the Unknown"
+                "shadow_rosanna",
+                "shadow_burton",
+                "shadow_atwood"
               ],
               "advertisedHero": "shadow_rosanna",
               "includedHeroes": [
@@ -107290,9 +107290,9 @@
                 "shadow_quest_part2"
               ],
               "featuredHeroes": [
-                "Seeker of Lost Knowledge",
-                "Trueshot",
-                "Homunculus Investigator"
+                "shadow_asketel",
+                "shadow_rosanna",
+                "shadow_burton"
               ],
               "advertisedHero": "shadow_asketel",
               "includedHeroes": [
@@ -107681,9 +107681,9 @@
               "endDate": "2025-05-27 07:00:00",
               "overridden": true,
               "featuredHeroes": [
-                "Timely Rain of Water Margin",
-                "Destruction Star of Water Margin",
-                "Iron Ox of Water Margin"
+                "outlaw_song_jiang",
+                "outlaw_ruan_xiaoqi",
+                "outlaw_li_kui"
               ],
               "limitedPoolSummonConfiguration": {
                 "enabled": true,
@@ -107711,9 +107711,9 @@
               "endDate": "2025-07-05 07:00:00",
               "overridden": true,
               "featuredHeroes": [
-                "Pagoda-Shifting Heavenly King of Water Margin",
-                "Timely Rain of Water Margin",
-                "Iron Ox of Water Margin"
+                "outlaw_chao_gai",
+                "outlaw_song_jiang",
+                "outlaw_li_kui"
               ],
               "limitedPoolSummonConfiguration": {
                 "enabled": true,
@@ -107741,9 +107741,9 @@
               "endDate": "2025-08-07 07:00:00",
               "overridden": true,
               "featuredHeroes": [
-                "Strong Star of Water Margin",
-                "Destruction Star of Water Margin",
-                "Timely Rain of Water Margin"
+                "outlaw_sun_erniang",
+                "outlaw_ruan_xiaoqi",
+                "outlaw_song_jiang"
               ],
               "limitedPoolSummonConfiguration": {
                 "enabled": true,
@@ -107920,8 +107920,8 @@
             "startDate": "2024-03-05 07:00:00",
             "endDate": "2024-03-10 07:00:00",
             "featuredHeroes": [
-              "Hunter Blademaster",
-              "Savage Hunter"
+              "monster_hunter_otis",
+              "monster_hunter_goretooth"
             ]
           },
           {
@@ -107932,9 +107932,9 @@
             "endDate": "2024-05-26 07:00:00",
             "overridden": true,
             "featuredHeroes": [
-              "Star-Blessed Hunter",
-              "The Storm God's Chosen",
-              "Ape Assassin"
+              "monster_hunter_thura",
+              "monster_hunter_dubhain",
+              "monster_hunter_hurricane"
             ]
           },
           {
@@ -107945,9 +107945,9 @@
             "endDate": "2024-06-29 07:00:00",
             "overridden": true,
             "featuredHeroes": [
-              "Abyssal Huntsman",
-              "Star-Blessed Hunter",
-              "The Storm God's Chosen"
+              "monster_hunter_ruadh",
+              "monster_hunter_thura",
+              "monster_hunter_dubhain"
             ]
           },
           {
@@ -107958,9 +107958,9 @@
             "endDate": "2024-07-24 07:00:00",
             "overridden": true,
             "featuredHeroes": [
-              "Malachite Hunter",
-              "Abyssal Huntsman",
-              "Star-Blessed Hunter"
+              "monster_hunter_sune",
+              "monster_hunter_ruadh",
+              "monster_hunter_thura"
             ],
             "eventOffer": "monsterisland_calendar"
           },
@@ -107972,9 +107972,9 @@
             "endDate": "2024-08-16 07:00:00",
             "overridden": true,
             "featuredHeroes": [
-              "Scorpion Handler",
-              "Star-Blessed Hunter",
-              "The Storm God's Chosen"
+              "monster_hunter_sigyn",
+              "monster_hunter_thura",
+              "monster_hunter_dubhain"
             ],
             "eventOffer": "monsterisland_calendar"
           },
@@ -107986,9 +107986,9 @@
             "endDate": "2025-03-03 07:00:00",
             "overridden": true,
             "featuredHeroes": [
-              "Tenacious Tracker",
-              "Carnelian Hunter",
-              "Scorpion Handler"
+              "monster_hunter_amund",
+              "monster_hunter_revna",
+              "monster_hunter_sigyn"
             ],
             "eventOffer": "monsterisland_calendar"
           },
@@ -108000,9 +108000,9 @@
             "endDate": "2200-04-01 07:00:00",
             "overridden": true,
             "featuredHeroes": [
-              "Tenacious Tracker",
-              "Carnelian Hunter",
-              "Scorpion Handler"
+              "monster_hunter_amund",
+              "monster_hunter_revna",
+              "monster_hunter_sigyn"
             ],
             "eventOffer": "monsterisland_calendar"
           }
@@ -109780,8 +109780,8 @@
             "startDate": "2025-05-15 07:00:00",
             "endDate": "2025-05-17 07:00:00",
             "featuredHeroes": [
-              "Brilliant Beauty-Flower Beauty",
-              "Astral Elf Summoner"
+              "kingdom_diaochan_costume_flowers",
+              "astral_moonbell"
             ],
             "extraHeroesPoolId": "default"
           },
@@ -109792,8 +109792,8 @@
             "startDate": "2025-05-07 07:00:00",
             "endDate": "2025-05-09 07:00:00",
             "featuredHeroes": [
-              "Malachite Hunter",
-              "Cyborg Captain"
+              "monster_hunter_sune",
+              "elemental_vander"
             ],
             "extraHeroesPoolId": "default",
             "adSummonEnabled": true
@@ -109805,8 +109805,8 @@
             "startDate": "2025-04-06 07:00:00",
             "endDate": "2025-04-08 07:00:00",
             "featuredHeroes": [
-              "Supersonic Blade Master",
-              "Fluffy Gargoyle"
+              "elemental_farrah",
+              "gargoyle_uwe"
             ],
             "extraHeroesPoolId": "default",
             "adSummonEnabled": true
@@ -109818,8 +109818,8 @@
             "startDate": "2025-01-07 07:00:00",
             "endDate": "2025-01-09 07:00:00",
             "featuredHeroes": [
-              "Enraged Gorilla",
-              "Masked God of Purification"
+              "monster_hunter_thunderclap",
+              "masquerade_februus"
             ],
             "extraHeroesPoolId": "default",
             "adSummonEnabled": true
@@ -109831,8 +109831,8 @@
             "startDate": "2024-10-31 07:00:00",
             "endDate": "2024-11-02 07:00:00",
             "featuredHeroes": [
-              "Orangutan Brawler",
-              "Ruthless Miscreant"
+              "monster_hunter_mistweaver",
+              "musketeer_rochefort"
             ],
             "extraHeroesPoolId": "default",
             "adSummonEnabled": true
@@ -109844,8 +109844,8 @@
             "startDate": "2024-09-24 07:00:00",
             "endDate": "2024-09-26 07:00:00",
             "featuredHeroes": [
-              "Masked Goddess of the Moon",
-              "Masked Goddess of Witchcraft"
+              "masquerade_jana",
+              "masquerade_aradia"
             ],
             "extraHeroesPoolId": "default",
             "adSummonEnabled": true
@@ -109857,8 +109857,8 @@
             "startDate": "2024-07-30 07:00:00",
             "endDate": "2024-08-01 07:00:00",
             "featuredHeroes": [
-              "Centaur of the Woodlands",
-              "Arcanist Tinkerer"
+              "magic_telonius",
+              "magic_camilla"
             ],
             "extraHeroesPoolId": "default",
             "adSummonEnabled": true
@@ -109870,8 +109870,8 @@
             "startDate": "2024-07-25 07:00:00",
             "endDate": "2024-07-27 07:00:00",
             "featuredHeroes": [
-              "Masked God of the Sky",
-              "Pug of War"
+              "masquerade_jove",
+              "mighty_pet_barkley"
             ],
             "extraHeroesPoolId": "default",
             "adSummonEnabled": true
@@ -109883,8 +109883,8 @@
             "startDate": "2024-06-28 07:00:00",
             "endDate": "2024-06-30 07:00:00",
             "featuredHeroes": [
-              "Bard of Illusion",
-              "Starlight Conjurer"
+              "bard_celimene",
+              "magic_becky"
             ],
             "extraHeroesPoolId": "default",
             "adSummonEnabled": true
@@ -109896,8 +109896,8 @@
             "startDate": "2024-04-14 07:00:00",
             "endDate": "2024-04-16 07:00:00",
             "featuredHeroes": [
-              "Hamster Brawler Champion",
-              "Hunter Blademaster"
+              "mighty_pet_chomper",
+              "monster_hunter_otis"
             ],
             "extraHeroesPoolId": "default",
             "adSummonEnabled": true
@@ -109909,8 +109909,8 @@
             "startDate": "2024-01-30 07:00:00",
             "endDate": "2024-02-01 07:00:00",
             "featuredHeroes": [
-              "Mother Night",
-              "Ninja of the Piercing Flames"
+              "styx_nyx",
+              "ninja_serandite"
             ],
             "extraHeroesPoolId": "default",
             "adSummonEnabled": true
@@ -109922,8 +109922,8 @@
             "startDate": "2024-03-05 07:00:00",
             "endDate": "2024-03-07 07:00:00",
             "featuredHeroes": [
-              "Brute of Teltoc",
-              "Challenger of Avalon"
+              "guardian_hippo",
+              "knights_green_knight"
             ],
             "extraHeroesPoolId": "default"
           },
@@ -109934,8 +109934,8 @@
             "startDate": "2024-03-14 07:00:00",
             "endDate": "2024-03-16 07:00:00",
             "featuredHeroes": [
-              "Hunting Chieftain",
-              "Ferocious Gargoyle"
+              "monster_hunter_cleaver",
+              "gargoyle_hohenwerf"
             ],
             "extraHeroesPoolId": "default",
             "adSummonEnabled": true
@@ -109947,8 +109947,8 @@
             "startDate": "2024-03-22 07:00:00",
             "endDate": "2024-03-24 07:00:00",
             "featuredHeroes": [
-              "Bard of Glamour",
-              "Princess of the Hunt"
+              "bard_narcisa",
+              "monster_hunter_adalinda"
             ],
             "extraHeroesPoolId": "default",
             "adSummonEnabled": true
@@ -109960,8 +109960,8 @@
             "startDate": "2024-03-19 07:00:00",
             "endDate": "2024-03-21 07:00:00",
             "featuredHeroes": [
-              "Harpoon Engineer",
-              "Porcelain Doll Construct"
+              "monster_hunter_waterpipe",
+              "construct_japanese_doll"
             ],
             "extraHeroesPoolId": "default"
           },
@@ -109972,8 +109972,8 @@
             "startDate": "2024-04-04 07:00:00",
             "endDate": "2024-04-06 07:00:00",
             "featuredHeroes": [
-              "God of Deep Darkness",
-              "Hunter Knight"
+              "styx_erebus",
+              "monster_hunter_kai"
             ],
             "extraHeroesPoolId": "default",
             "adSummonEnabled": true
@@ -109985,8 +109985,8 @@
             "startDate": "2024-04-08 07:00:00",
             "endDate": "2024-04-10 07:00:00",
             "featuredHeroes": [
-              "Hunter Mercenary",
-              "Ruffian of the Canine Expedition"
+              "monster_hunter_ebba",
+              "mighty_pet_furdinand"
             ],
             "extraHeroesPoolId": "default"
           },
@@ -109997,8 +109997,8 @@
             "startDate": "2024-04-23 07:00:00",
             "endDate": "2024-04-25 07:00:00",
             "featuredHeroes": [
-              "Canine Storyteller",
-              "Hardened Gargoyle"
+              "mighty_pet_toto",
+              "gargoyle_kemeny"
             ],
             "extraHeroesPoolId": "default",
             "adSummonEnabled": true
@@ -110010,8 +110010,8 @@
             "startDate": "2024-05-02 07:00:00",
             "endDate": "2024-05-04 07:00:00",
             "featuredHeroes": [
-              "Copycat of the Illusionary Arts",
-              "Savage Hunter"
+              "mighty_pet_bubbles",
+              "monster_hunter_goretooth"
             ],
             "extraHeroesPoolId": "default",
             "adSummonEnabled": true
@@ -110023,8 +110023,8 @@
             "startDate": "2024-05-13 07:00:00",
             "endDate": "2024-05-15 07:00:00",
             "featuredHeroes": [
-              "Jolly Musketeer",
-              "Shadowy Gargoyle"
+              "musketeer_porthos",
+              "gargoyle_matrera"
             ],
             "extraHeroesPoolId": "default",
             "adSummonEnabled": true
@@ -110036,8 +110036,8 @@
             "startDate": "2024-05-21 07:00:00",
             "endDate": "2024-05-23 07:00:00",
             "featuredHeroes": [
-              "Masked Goddess of Fate",
-              "Ardent Musketeer"
+              "masquerade_fortuna",
+              "musketeer_dartagnan"
             ],
             "extraHeroesPoolId": "default",
             "adSummonEnabled": true
@@ -110049,8 +110049,8 @@
             "startDate": "2024-06-04 07:00:00",
             "endDate": "2024-06-06 07:00:00",
             "featuredHeroes": [
-              "Hidden Assassin",
-              "God of Peaceful Demise"
+              "ninja_amethyst",
+              "styx_thanatos"
             ],
             "extraHeroesPoolId": "default",
             "adSummonEnabled": true
@@ -110062,8 +110062,8 @@
             "startDate": "2024-06-11 07:00:00",
             "endDate": "2024-06-13 07:00:00",
             "featuredHeroes": [
-              "Knight of the Arctic Circle",
-              "Machiavellian Villainess"
+              "mighty_pet_cinnamon",
+              "musketeer_milady_de_winter"
             ],
             "extraHeroesPoolId": "default",
             "adSummonEnabled": true
@@ -110075,8 +110075,8 @@
             "startDate": "2024-06-21 07:00:00",
             "endDate": "2024-06-23 07:00:00",
             "featuredHeroes": [
-              "Goddess of the Sea",
-              "Hunter Occultist"
+              "styx_amphitrite",
+              "monster_hunter_dabria"
             ],
             "extraHeroesPoolId": "default",
             "adSummonEnabled": true
@@ -110088,8 +110088,8 @@
             "startDate": "2024-07-02 07:00:00",
             "endDate": "2024-07-04 07:00:00",
             "featuredHeroes": [
-              "Masked Goddess of Earth",
-              "Peculiar Inventor Wizard"
+              "masquerade_cel",
+              "magic_ulius"
             ],
             "extraHeroesPoolId": "default",
             "adSummonEnabled": true
@@ -110101,8 +110101,8 @@
             "startDate": "2024-07-05 10:00:00",
             "endDate": "2024-07-07 07:00:00",
             "featuredHeroes": [
-              "Champion of the Court",
-              "The Strongest Bannerlord"
+              "magic_ray",
+              "ninja_myoinni"
             ],
             "extraHeroesPoolId": "default"
           },
@@ -110113,8 +110113,8 @@
             "startDate": "2024-07-10 12:00:00",
             "endDate": "2024-07-12 07:00:00",
             "featuredHeroes": [
-              "Mystic Chess Master",
-              "Crescent Owl"
+              "magic_vaishali",
+              "mighty_pet_luna"
             ],
             "extraHeroesPoolId": "default"
           },
@@ -110125,8 +110125,8 @@
             "startDate": "2024-08-30 07:00:00",
             "endDate": "2024-09-01 07:00:00",
             "featuredHeroes": [
-              "Master of Levitation",
-              "Duplicitous Duke"
+              "magic_willow",
+              "musketeer_cardinal_richelieu"
             ],
             "extraHeroesPoolId": "default",
             "adSummonEnabled": true
@@ -110138,8 +110138,8 @@
             "startDate": "2024-09-20 07:00:00",
             "endDate": "2024-09-22 07:00:00",
             "featuredHeroes": [
-              "Relentless Hunter",
-              "Herald of Sacrifice"
+              "monster_hunter_staintongue",
+              "magic_jett"
             ],
             "extraHeroesPoolId": "default",
             "adSummonEnabled": true
@@ -110151,8 +110151,8 @@
             "startDate": "2024-10-13 07:00:00",
             "endDate": "2024-10-15 07:00:00",
             "featuredHeroes": [
-              "Greatbow Saboteur",
-              "Masked Goddess of Spells"
+              "ninja_tametomo",
+              "masquerade_carmenta"
             ],
             "extraHeroesPoolId": "default"
           },
@@ -110163,8 +110163,8 @@
             "startDate": "2024-10-18 07:00:00",
             "endDate": "2024-10-20 07:00:00",
             "featuredHeroes": [
-              "Commodore of Corellia-Bleak Commodore",
-              "Reanimated Huntress-High Revenant Archer"
+              "pirate_commodore_finley_costume_bleak",
+              "dark_god_seshat_costume_revenant"
             ],
             "extraHeroesPoolId": "default"
           },
@@ -110175,8 +110175,8 @@
             "startDate": "2024-11-13 07:00:00",
             "endDate": "2024-11-15 07:00:00",
             "featuredHeroes": [
-              "Warrior God of Heaven",
-              "The Pureheart"
+              "journey_erlang_shen",
+              "castle_bear_teddy"
             ],
             "extraHeroesPoolId": "default",
             "adSummonEnabled": true
@@ -110188,8 +110188,8 @@
             "startDate": "2024-11-09 07:00:00",
             "endDate": "2024-11-11 07:00:00",
             "featuredHeroes": [
-              "Heir to the Throne",
-              "Cosmic Chef"
+              "fables_frog_prince",
+              "elemental_quinn"
             ],
             "extraHeroesPoolId": "default",
             "adSummonEnabled": true
@@ -110201,8 +110201,8 @@
             "startDate": "2024-11-22 07:00:00",
             "endDate": "2024-11-25 07:00:00",
             "featuredHeroes": [
-              "Trickster God-Shapeshifter God",
-              "Cleric Construct"
+              "s3_loki_male_costume_shapeshifter",
+              "construct_shaal"
             ],
             "extraHeroesPoolId": "default",
             "adSummonEnabled": true
@@ -110214,8 +110214,8 @@
             "startDate": "2024-12-11 07:00:00",
             "endDate": "2024-12-13 07:00:00",
             "featuredHeroes": [
-              "Celestial of Darkness",
-              "Terror of Avalon"
+              "dark_god_hel",
+              "knights_black_knight"
             ],
             "extraHeroesPoolId": "default",
             "adSummonEnabled": true
@@ -110227,8 +110227,8 @@
             "startDate": "2024-11-28 07:00:00",
             "endDate": "2024-11-30 07:00:00",
             "featuredHeroes": [
-              "Ruthless Miscreant",
-              "Baboon Swordmaster"
+              "musketeer_rochefort",
+              "monster_hunter_tremor"
             ],
             "extraHeroesPoolId": "default",
             "adSummonEnabled": true
@@ -110240,8 +110240,8 @@
             "startDate": "2024-12-14 07:00:00",
             "endDate": "2024-12-16 07:00:00",
             "featuredHeroes": [
-              "Silverback Chieftain",
-              "Masked God of Purification"
+              "monster_hunter_bonecrusher",
+              "masquerade_februus"
             ],
             "extraHeroesPoolId": "default",
             "adSummonEnabled": true
@@ -110253,8 +110253,8 @@
             "startDate": "2024-12-26 07:00:00",
             "endDate": "2024-12-28 07:00:00",
             "featuredHeroes": [
-              "Icebound Wraith",
-              "Courageous Musketeer"
+              "monster_hunter_sorrow",
+              "musketeer_constance"
             ],
             "extraHeroesPoolId": "default",
             "adSummonEnabled": true
@@ -110266,8 +110266,8 @@
             "startDate": "2025-01-28 07:00:00",
             "endDate": "2025-01-30 07:00:00",
             "featuredHeroes": [
-              "Ape Assassin",
-              "Masked Goddess of Shadows"
+              "monster_hunter_hurricane",
+              "masquerade_umbria"
             ],
             "extraHeroesPoolId": "default",
             "adSummonEnabled": true
@@ -110279,8 +110279,8 @@
             "startDate": "2025-02-08 07:00:00",
             "endDate": "2025-02-10 07:00:00",
             "featuredHeroes": [
-              "Gnome Explorer",
-              "Gnome Wizard"
+              "christmas_ginger",
+              "christmas_zappa"
             ],
             "extraHeroesPoolId": "default",
             "adSummonEnabled": true
@@ -110292,8 +110292,8 @@
             "startDate": "2025-02-25 07:00:00",
             "endDate": "2025-02-28 07:00:00",
             "featuredHeroes": [
-              "Feared Magician",
-              "Goddess of Motherhood-Starlit Mother"
+              "ballerina_von_rothbart",
+              "s5_hathor_costume_starlit"
             ],
             "extraHeroesPoolId": "default"
           },
@@ -110304,8 +110304,8 @@
             "startDate": "2025-03-12 07:00:00",
             "endDate": "2025-03-13 07:00:00",
             "featuredHeroes": [
-              "Navigator Construct",
-              "Master Strategist-Strategist Supreme"
+              "construct_nautica",
+              "kingdom_zhuge_liang_costume_crane"
             ],
             "extraHeroesPoolId": "default"
           },
@@ -110316,8 +110316,8 @@
             "startDate": "2025-03-16 07:00:00",
             "endDate": "2025-03-17 07:00:00",
             "featuredHeroes": [
-              "Pedantic Gargoyle",
-              "Multidimensional Hazard"
+              "gargoyle_mena",
+              "elemental_gastille"
             ],
             "extraHeroesPoolId": "default"
           },
@@ -110328,8 +110328,8 @@
             "startDate": "2025-03-25 10:30:00",
             "endDate": "2025-03-26 10:30:00",
             "featuredHeroes": [
-              "Virtuoso Gargoyle",
-              "Party Gargoyle"
+              "gargoyle_pophit",
+              "gargoyle_garten"
             ],
             "extraHeroesPoolId": "default"
           },
@@ -110340,8 +110340,8 @@
             "startDate": "2025-04-01 07:00:00",
             "endDate": "2025-04-03 07:00:00",
             "featuredHeroes": [
-              "Black Swan",
-              "Jade Eyed Gentleman"
+              "ballerina_odile",
+              "ballerina_daroga"
             ],
             "extraHeroesPoolId": "default"
           },
@@ -110352,8 +110352,8 @@
             "startDate": "2025-04-04 07:00:00",
             "endDate": "2025-04-06 07:00:00",
             "featuredHeroes": [
-              "Elementalist of Teltoc",
-              "Druid of Teltoc-Swift Striker of Teltoc"
+              "guardian_chameleon",
+              "guardian_gazelle_costume_bandalore"
             ],
             "extraHeroesPoolId": "default",
             "adSummonEnabled": true
@@ -110365,8 +110365,8 @@
             "startDate": "2025-04-13 07:00:00",
             "endDate": "2025-04-15 07:00:00",
             "featuredHeroes": [
-              "Trickster God-Shapeshifter God",
-              "Shadow Monk of 999 Swords"
+              "s3_loki_male_costume_shapeshifter",
+              "ninja_oniwakamaru"
             ],
             "extraHeroesPoolId": "default",
             "adSummonEnabled": true
@@ -110378,8 +110378,8 @@
             "startDate": "2025-04-18 07:00:00",
             "endDate": "2025-04-20 07:00:00",
             "featuredHeroes": [
-              "The Unfriendly Ghost",
-              "Ruthless Shinobi"
+              "halloween_chester",
+              "ninja_malum"
             ],
             "extraHeroesPoolId": "default"
           },
@@ -110390,8 +110390,8 @@
             "startDate": "2025-04-27 07:00:00",
             "endDate": "2025-04-29 07:00:00",
             "featuredHeroes": [
-              "Vampire Scion-Vampire Kingpin",
-              "Poison Flower Ninja"
+              "halloween_alucard_costume_mafia",
+              "ninja_umeko"
             ],
             "extraHeroesPoolId": "default",
             "adSummonEnabled": true
@@ -110403,8 +110403,8 @@
             "startDate": "2025-05-03 07:00:00",
             "endDate": "2025-05-05 07:00:00",
             "featuredHeroes": [
-              "Carnelian Hunter",
-              "Elemental Shaman"
+              "monster_hunter_revna",
+              "elemental_craum"
             ],
             "extraHeroesPoolId": "default"
           },
@@ -110415,8 +110415,8 @@
             "startDate": "2025-05-21 07:00:00",
             "endDate": "2025-05-23 07:00:00",
             "featuredHeroes": [
-              "The Guardian Red Fox",
-              "The Royal Knight Fox"
+              "fox_rust",
+              "fox_spiff"
             ],
             "extraHeroesPoolId": "default",
             "adSummonEnabled": true
@@ -110428,8 +110428,8 @@
             "startDate": "2025-05-09 09:30:00",
             "endDate": "2025-05-12 07:00:00",
             "featuredHeroes": [
-              "The Ranger Arctic Fox",
-              "Naga Queen of the Deep-Naga Goddess of the Deep"
+              "fox_whitefang",
+              "tales1_medea_costume_goddess"
             ],
             "extraHeroesPoolId": "default"
           },
@@ -110440,8 +110440,8 @@
             "startDate": "2025-05-20 11:30:00",
             "endDate": "2025-05-21 07:00:00",
             "featuredHeroes": [
-              "Nervous Messenger",
-              "Master-at-Arms"
+              "garrison_pip",
+              "garrison_iocantha"
             ],
             "extraHeroesPoolId": "default"
           },
@@ -110452,8 +110452,8 @@
             "startDate": "2025-05-28 07:00:00",
             "endDate": "2025-05-30 07:00:00",
             "featuredHeroes": [
-              "Multidimensional Hazard",
-              "Shadow Monk of 999 Swords"
+              "elemental_gastille",
+              "ninja_oniwakamaru"
             ],
             "extraHeroesPoolId": "default"
           },
@@ -110464,8 +110464,8 @@
             "startDate": "2025-05-31 07:00:00",
             "endDate": "2025-06-01 07:00:00",
             "featuredHeroes": [
-              "Hermit of the Frozen Mountain",
-              "Fearless Gargoyle"
+              "goblin_grimsteel",
+              "gargoyle_hilda"
             ],
             "extraHeroesPoolId": "default"
           },
@@ -110476,8 +110476,8 @@
             "startDate": "2025-06-05 12:00:00",
             "endDate": "2025-06-06 06:30:00",
             "featuredHeroes": [
-              "Trickster God-Shapeshifter God",
-              "Courageous Corporal"
+              "s3_loki_male_costume_shapeshifter",
+              "garrison_theodosius"
             ],
             "extraHeroesPoolId": "default"
           },
@@ -110488,8 +110488,8 @@
             "startDate": "2025-06-09 12:00:00",
             "endDate": "2025-06-11 06:30:00",
             "featuredHeroes": [
-              "Naga Queen of the Deep-Naga Goddess of the Deep",
-              "Dwarven Wind Warrior"
+              "tales1_medea_costume_goddess",
+              "tales2_gandr"
             ],
             "extraHeroesPoolId": "default",
             "adSummonEnabled": true
@@ -110501,8 +110501,8 @@
             "startDate": "2025-06-12 12:00:00",
             "endDate": "2025-06-14 06:30:00",
             "featuredHeroes": [
-              "Rejuvenating Forest Slime",
-              "The Pirate Fennec Fox"
+              "slime_fungustine",
+              "fox_silverpaw"
             ],
             "extraHeroesPoolId": "default"
           },
@@ -110513,8 +110513,8 @@
             "startDate": "2025-06-21 11:00:00",
             "endDate": "2025-06-23 12:00:00",
             "featuredHeroes": [
-              "Charismatic Faun Champion",
-              "True Arrow of Teltoc"
+              "faun_isidore",
+              "guardian_elephant"
             ],
             "extraHeroesPoolId": "default"
           },
@@ -110525,8 +110525,8 @@
             "startDate": "2025-06-29 11:00:00",
             "endDate": "2025-06-30 07:00:00",
             "featuredHeroes": [
-              "Astral Dwarf Warden",
-              "Bard of Spirit Festivals"
+              "astral_dwarf_salniss",
+              "bard_balafon"
             ],
             "extraHeroesPoolId": "default"
           },
@@ -110537,8 +110537,8 @@
             "startDate": "2025-07-02 10:30:00",
             "endDate": "2025-07-04 07:00:00",
             "featuredHeroes": [
-              "Carnelian Hunter",
-              "The Eternal Hadal Being-The Supreme Hadal Being"
+              "monster_hunter_revna",
+              "tales1_domiventus_costume_supreme"
             ],
             "extraHeroesPoolId": "default"
           },
@@ -110549,8 +110549,8 @@
             "startDate": "2025-07-07 11:00:00",
             "endDate": "2025-07-09 07:00:00",
             "featuredHeroes": [
-              "Barmaid of the Astral Dwarves",
-              "Brilliant Beauty-Flower Beauty"
+              "astral_dwarf_maegwyn",
+              "kingdom_diaochan_costume_flowers"
             ],
             "extraHeroesPoolId": "default"
           },
@@ -110561,8 +110561,8 @@
             "startDate": "2025-07-12 07:00:00",
             "endDate": "2025-07-13 07:00:00",
             "featuredHeroes": [
-              "Ring-Graced, Royal-Hearted",
-              "One-dwarf Band"
+              "beowulf_wealhtheow",
+              "bard_bhaltair"
             ],
             "extraHeroesPoolId": "default"
           },
@@ -110573,8 +110573,8 @@
             "startDate": "2025-07-14 12:00:00",
             "endDate": "2025-07-16 07:00:00",
             "featuredHeroes": [
-              "The Clergymoth",
-              "The Mothmancer"
+              "moth_satinpimenter",
+              "moth_mortewitch"
             ],
             "extraHeroesPoolId": "default",
             "adSummonEnabled": true
@@ -110586,8 +110586,8 @@
             "startDate": "2025-07-17 10:30:00",
             "endDate": "2025-07-18 07:00:00",
             "featuredHeroes": [
-              "Trickster God-Shapeshifter God",
-              "Shadow Monk of 999 Swords"
+              "s3_loki_male_costume_shapeshifter",
+              "ninja_oniwakamaru"
             ],
             "extraHeroesPoolId": "default"
           },
@@ -110598,8 +110598,8 @@
             "startDate": "2025-07-20 10:00:00",
             "endDate": "2025-07-22 07:00:00",
             "featuredHeroes": [
-              "The Pirate Fennec Fox",
-              "God of the Afterlife-Arbiter of the Dancefloor"
+              "fox_silverpaw",
+              "s5_anubis_costume_dancefloor"
             ],
             "extraHeroesPoolId": "default",
             "adSummonEnabled": true
@@ -110611,8 +110611,8 @@
             "startDate": "2025-07-22 10:30:00",
             "endDate": "2025-07-24 07:00:00",
             "featuredHeroes": [
-              "Astral Dwarf Grand Master",
-              "Dwarven Mountain Shaman"
+              "astral_dwarf_vard",
+              "tales2_dagr"
             ],
             "extraHeroesPoolId": "default",
             "adSummonEnabled": true
