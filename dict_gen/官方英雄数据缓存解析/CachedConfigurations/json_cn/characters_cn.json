@@ -21556,7 +21556,7 @@
     "aetherGift": "Damage Reduction",
     "rarity": 5,
     "specialId": "内存操控",
-    "canBeReceivedDate": "2025-09-09 07:00:00",
+    "canBeReceivedDate": "2025-08-28 07:00:00",
     "origin": "元素较量",
     "parentHeroId": "葛瑞菲斯"
   },
@@ -25258,7 +25258,7 @@
     "aetherGift": "Dodge",
     "rarity": 5,
     "specialId": "猎人强击",
-    "canBeReceivedDate": "2200-01-01 07:00:00",
+    "canBeReceivedDate": "2025-08-26 07:00:00",
     "origin": "烈焰与冰霜宝藏"
   },
   "tales2_motsognir": {
@@ -25334,7 +25334,7 @@
     "aetherGift": "Dodge",
     "rarity": 3,
     "specialId": "山羊冲刺",
-    "canBeReceivedDate": "2200-01-01 07:00:00",
+    "canBeReceivedDate": "2025-08-26 07:00:00",
     "origin": "烈焰与冰霜宝藏"
   },
   "faun_saskia": {
@@ -28582,7 +28582,7 @@
     "aetherGift": "Damage Reduction",
     "rarity": 5,
     "specialId": "北极星远征",
-    "canBeReceivedDate": "2200-01-01 07:00:00",
+    "canBeReceivedDate": "2025-08-24 07:00:00",
     "origin": "星体召唤"
   },
   "astral_dwarf_sedille": {
@@ -28983,7 +28983,7 @@
     "aetherGift": "Dodge",
     "rarity": 5,
     "specialId": "樱桃布丁上桌了！",
-    "canBeReceivedDate": "2200-01-01 07:00:00",
+    "canBeReceivedDate": "2025-09-04 07:00:00",
     "origin": "元素较量"
   },
   "slime_sliposi": {
@@ -29002,7 +29002,7 @@
     "aetherGift": "Dodge",
     "rarity": 5,
     "specialId": "粘糊快递",
-    "canBeReceivedDate": "2025-08-28 07:00:00",
+    "canBeReceivedDate": "2025-09-25 07:00:00",
     "origin": "元素较量"
   },
   "slime_gloozmer": {

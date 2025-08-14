@@ -19980,6 +19980,7 @@
         "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [],
+        "allianceGiftCustomContentId": "dynamic4_alliancegift",
         "dynamicOfferProduct": true
       },
       {
@@ -21617,6 +21618,7 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.threekingdomsoffer_day2",
         "dollarValue": 30,
+        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -34587,6 +34589,7 @@
         "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [],
+        "allianceGiftCustomContentId": "dynamic2_alliancegift",
         "dynamicOfferProduct": true
       },
       {
@@ -55061,8 +55064,8 @@
         "contents": [
           {
             "type": "Item",
-            "id": "lottery_untold_tales_coin",
-            "amount": 50
+            "id": "lottery_challenge_coin",
+            "amount": 5
           }
         ]
       },
@@ -55070,9 +55073,9 @@
         "id": "dynamic4_alliancegift",
         "contents": [
           {
-            "type": "Hero",
-            "id": "trainer_rainbow_common",
-            "amount": 1
+            "type": "Item",
+            "id": "lottery_legendary_troop",
+            "amount": 100
           }
         ]
       },
@@ -55081,12 +55084,12 @@
         "contents": [
           {
             "type": "Item",
-            "id": "lottery_mercenary_war_coin",
+            "id": "lottery_covenant_coin",
             "amount": 50
           },
           {
             "type": "Item",
-            "id": "lottery_wilderness_coin",
+            "id": "lottery_legendary_troop",
             "amount": 50
           }
         ]
@@ -77931,26 +77934,30 @@
         "products": [
           {
             "id": "com.smallgiantgames.empires.threekingdomsoffer_day1",
-            "purchaseLimit": 8
+            "purchaseLimit": 6
           },
           {
             "id": "com.smallgiantgames.empires.threekingdomsoffer_day1_2",
-            "purchaseLimit": 2,
+            "purchaseLimit": 1
+          },
+          {
+            "id": "com.smallgiantgames.empires.threekingdomsoffer_day2",
+            "purchaseLimit": 1,
             "unlockInterval": 1
           },
           {
             "id": "com.smallgiantgames.empires.threekingdomsoffer_day3",
-            "purchaseLimit": 6,
+            "purchaseLimit": 4,
             "unlockInterval": 2
           },
           {
             "id": "com.smallgiantgames.empires.threekingdomsoffer_day4",
-            "purchaseLimit": 6,
+            "purchaseLimit": 4,
             "unlockInterval": 3
           },
           {
             "id": "com.smallgiantgames.empires.threekingdomsoffer_day5",
-            "purchaseLimit": 4,
+            "purchaseLimit": 3,
             "unlockInterval": 4
           }
         ],
@@ -80496,38 +80503,19 @@
         "id": "dynamic_offer_21_shrubbear",
         "products": [
           {
-            "id": "com.smallgiantgames.empires.dynamic_7",
-            "purchaseLimit": 4
-          },
-          {
-            "id": "com.smallgiantgames.empires.dynamic_15",
-            "purchaseLimit": 2
-          },
-          {
-            "id": "com.smallgiantgames.empires.dynamic_10",
+            "id": "com.smallgiantgames.empires.dynamic_5d",
             "purchaseLimit": 3
           },
           {
-            "id": "com.smallgiantgames.empires.dynamic_30",
+            "id": "com.smallgiantgames.empires.dynamic_10d",
             "purchaseLimit": 2
-          },
-          {
-            "id": "com.smallgiantgames.empires.dynamic_7b",
-            "purchaseLimit": 3
-          },
-          {
-            "id": "com.smallgiantgames.empires.dynamic_15b",
-            "purchaseLimit": 2
-          },
-          {
-            "id": "com.smallgiantgames.empires.dynamic_10b",
-            "purchaseLimit": 3
           }
         ],
         "requiresQuestsUnlocked": true,
         "offerCategory": "Dynamic",
         "priorityInShop": 1,
         "zyngaStoreEnabled": true,
+        "dynamicType": "AllianceGift",
         "titleKey": "shop.offers.title.dynamic.shrubbeary_secrets"
       },
       {
@@ -82903,42 +82891,23 @@
         "id": "dynamic_offer_36_yellow_eloise",
         "products": [
           {
-            "id": "com.smallgiantgames.empires.dynamic_12",
+            "id": "com.smallgiantgames.empires.dynamic_5c",
             "purchaseLimit": 3
           },
           {
-            "id": "com.smallgiantgames.empires.dynamic_30",
+            "id": "com.smallgiantgames.empires.dynamic_12c",
             "purchaseLimit": 2
           },
           {
-            "id": "com.smallgiantgames.empires.dynamic_5",
-            "purchaseLimit": 3
-          },
-          {
-            "id": "com.smallgiantgames.empires.dynamic_20",
-            "purchaseLimit": 2
-          },
-          {
-            "id": "com.smallgiantgames.empires.dynamic_10",
-            "purchaseLimit": 3
-          },
-          {
-            "id": "com.smallgiantgames.empires.dynamic_20b",
-            "purchaseLimit": 2
-          },
-          {
-            "id": "com.smallgiantgames.empires.dynamic_5b",
-            "purchaseLimit": 3
-          },
-          {
-            "id": "com.smallgiantgames.empires.dynamic_15",
-            "purchaseLimit": 2
+            "id": "com.smallgiantgames.empires.dynamic_29",
+            "purchaseLimit": 1
           }
         ],
         "offerCategory": "Dynamic",
         "priorityInShop": 1,
         "zyngaStoreEnabled": true,
         "offerLayoutSource": "dynamic_offer_1_yellow_eloise",
+        "dynamicType": "AllianceGift",
         "titleKey": "shop.offers.title.dynamic.feel_the_power"
       },
       {
@@ -83341,32 +83310,12 @@
       {
         "offerType": "Dynamic",
         "id": "dynamic_offer_50_red_carmenta",
-        "products": [
-          {
-            "id": "com.smallgiantgames.empires.dynamic_3",
-            "purchaseLimit": 2
-          },
-          {
-            "id": "com.smallgiantgames.empires.dynamic_3b",
-            "purchaseLimit": 3
-          },
-          {
-            "id": "com.smallgiantgames.empires.dynamic_5",
-            "purchaseLimit": 3
-          },
-          {
-            "id": "com.smallgiantgames.empires.dynamic_20b",
-            "purchaseLimit": 2
-          },
-          {
-            "id": "com.smallgiantgames.empires.dynamic_100",
-            "purchaseLimit": 1
-          }
-        ],
+        "products": [],
         "offerCategory": "Dynamic",
         "priorityInShop": 1,
         "zyngaStoreEnabled": true,
         "offerLayoutSource": "dynamic_offer_15_red_carmenta",
+        "dynamicType": "AllianceGift",
         "titleKey": "shop.offers.title.dynamic.ancient_treasure"
       },
       {
@@ -87522,6 +87471,27 @@
                 "amount": 1
               }
             ]
+          },
+          {
+            "activationTime": 808221600,
+            "contents": [
+              {
+                "type": "Item",
+                "id": "tome_limit_break_1",
+                "amount": 1
+              },
+              {
+                "type": "Item",
+                "id": "lottery_challenge_coin",
+                "amount": 30
+              },
+              {
+                "type": "Item",
+                "id": "lottery_covenant_coin",
+                "amount": 200,
+                "zyngaStoreExtraAmount": 100
+              }
+            ]
           }
         ]
       },
@@ -88917,6 +88887,43 @@
                 "amount": 5
               }
             ]
+          },
+          {
+            "activationTime": 808221600,
+            "contents": [
+              {
+                "type": "Troop",
+                "id": "rainbow_uncommon_trainer",
+                "amount": 8,
+                "zyngaStoreExtraAmount": 1
+              },
+              {
+                "type": "Item",
+                "id": "refill_food_giant",
+                "amount": 1
+              },
+              {
+                "type": "Item",
+                "id": "refill_iron_giant",
+                "amount": 1
+              }
+            ]
+          },
+          {
+            "activationTime": 808315200,
+            "contents": [
+              {
+                "type": "Hero",
+                "id": "trainer_rainbow_rare",
+                "amount": 10
+              },
+              {
+                "type": "Item",
+                "id": "refill_food_giant",
+                "amount": 2,
+                "zyngaStoreExtraAmount": 2
+              }
+            ]
           }
         ]
       },
@@ -89069,6 +89076,27 @@
                 "type": "Item",
                 "id": "lottery_elite_hero",
                 "amount": 3
+              }
+            ]
+          },
+          {
+            "activationTime": 808315200,
+            "contents": [
+              {
+                "type": "Item",
+                "id": "lottery_covenant_coin",
+                "amount": 300,
+                "zyngaStoreExtraAmount": 100
+              },
+              {
+                "type": "Item",
+                "id": "lottery_costume_key",
+                "amount": 15
+              },
+              {
+                "type": "Item",
+                "id": "lottery_elite_hero",
+                "amount": 1
               }
             ]
           }
@@ -89945,6 +89973,27 @@
                 "amount": 1
               }
             ]
+          },
+          {
+            "activationTime": 808221600,
+            "contents": [
+              {
+                "type": "Troop",
+                "id": "rainbow_uncommon_trainer",
+                "amount": 8,
+                "zyngaStoreExtraAmount": 1
+              },
+              {
+                "type": "Item",
+                "id": "refill_food_giant",
+                "amount": 1
+              },
+              {
+                "type": "Item",
+                "id": "refill_iron_giant",
+                "amount": 1
+              }
+            ]
           }
         ]
       },
@@ -90399,6 +90448,22 @@
                 "type": "Item",
                 "id": "lottery_elite_dragon",
                 "amount": 6
+              }
+            ]
+          },
+          {
+            "activationTime": 808221600,
+            "contents": [
+              {
+                "type": "Item",
+                "id": "lottery_challenge_coin",
+                "amount": 50,
+                "zyngaStoreExtraAmount": 10
+              },
+              {
+                "type": "Item",
+                "id": "hero_limitbreak_alpha",
+                "amount": 1
               }
             ]
           }
@@ -91680,13 +91745,6 @@
         "endTime": "2025-08-06 07:00:00"
       },
       {
-        "id": "dynamic_offer_42_blue_klaern",
-        "slot": "RightExtraTop",
-        "scheduledManually": true,
-        "startTime": "2025-08-04 11:30:00",
-        "endTime": "2025-08-05 06:30:00"
-      },
-      {
         "id": "dynamic_offer_40_red_yang_mai",
         "slot": "RightMiddle",
         "scheduledManually": true,
@@ -91744,13 +91802,6 @@
         "scheduledManually": true,
         "startTime": "2025-08-05 07:00:00",
         "endTime": "2025-08-09 07:00:00"
-      },
-      {
-        "id": "dynamic_offer_45_red_alucard",
-        "slot": "RightExtraTop",
-        "scheduledManually": true,
-        "startTime": "2025-08-05 11:00:00",
-        "endTime": "2025-08-06 06:30:00"
       },
       {
         "id": "dynamic_offer_41_yellow_sif",
@@ -92109,6 +92160,13 @@
         "endTime": "2025-08-14 07:00:00"
       },
       {
+        "id": "dynamic_offer_36_yellow_eloise",
+        "slot": "LeftExtraBottom",
+        "scheduledManually": true,
+        "startTime": "2025-08-11 10:00:00",
+        "endTime": "2025-08-12 06:30:00"
+      },
+      {
         "id": "dynamic_offer_48_green_lughaidh",
         "slot": "ShopOnly",
         "scheduledManually": true,
@@ -92165,6 +92223,13 @@
         "slot": "LeftExtraTop",
         "startTime": "2025-08-12 07:00:00",
         "endTime": "2025-08-16 07:00:00"
+      },
+      {
+        "id": "dynamic_offer_21_shrubbear",
+        "slot": "RightExtraTop",
+        "scheduledManually": true,
+        "startTime": "2025-08-12 12:00:00",
+        "endTime": "2025-08-13 06:30:00"
       },
       {
         "id": "dynamic_offer_25_seshat",
@@ -92856,6 +92921,13 @@
         "endTime": "2025-09-01 07:00:00"
       },
       {
+        "id": "com.smallgiantgames.empires.threekingdomsoffer",
+        "slot": "RightExtraTop",
+        "scheduledManually": true,
+        "startTime": "2025-08-30 07:00:00",
+        "endTime": "2025-09-04 07:00:00"
+      },
+      {
         "id": "kalevala_free_10",
         "slot": "LeftTop",
         "customContents": [
@@ -92967,6 +93039,13 @@
         "endTime": "2025-09-06 07:00:00"
       },
       {
+        "id": "superelemental_red_calendar",
+        "slot": "RightExtraTop",
+        "scheduledManually": true,
+        "startTime": "2025-09-04 07:00:00",
+        "endTime": "2025-09-08 07:00:00"
+      },
+      {
         "id": "kalevala_10_30",
         "slot": "LeftTop",
         "customContents": [
@@ -93041,12 +93120,6 @@
         "slot": "RightBottom",
         "startTime": "2025-09-09 07:00:00",
         "endTime": "2025-09-11 07:00:00"
-      },
-      {
-        "id": "superelemental_purple_calendar",
-        "slot": "LeftExtraTop",
-        "startTime": "2025-09-09 07:00:00",
-        "endTime": "2025-09-13 07:00:00"
       },
       {
         "id": "legendary_troop_calendar",
@@ -93184,7 +93257,7 @@
         "endTime": "2025-09-27 07:00:00"
       },
       {
-        "id": "superelemental_red_calendar",
+        "id": "superelemental_purple_calendar",
         "slot": "LeftExtraTop",
         "startTime": "2025-09-25 07:00:00",
         "endTime": "2025-09-29 07:00:00"
@@ -97124,44 +97197,44 @@
           "seasonHeroesRotation": [
             {
               "heroes": [
-                "Prince of the Jungle-Prince of the Lūʻau",
-                "Nine-tailed Spirit-White Kitsune Spirit"
+                "s2_junglehunter_costume_party",
+                "s2_fox_girl_costume_white_kitsune"
               ]
             },
             {
               "heroes": [
-                "Magnificent Mercenary-Magnificent Hula Dancer",
-                "Savage Butcher-Savage Blademaster"
+                "s2_mercenary_woman_costume_dancer",
+                "s2_hammerhead_hulk_costume_emerald"
               ]
             },
             {
               "heroes": [
-                "Fatal Beauty-Blazing Beauty",
-                "Goddess of all Rivers"
+                "s2_noble_lady_costume_warrior",
+                "s2_tethys"
               ]
             },
             {
               "heroes": [
-                "Guardian of Atlantis-Guardian of the Reef",
-                "Empress of the Depths-Deadly Reef Queen"
+                "s2_skyllaros_costume_reef",
+                "s2_ursena_costume_reef"
               ]
             },
             {
               "heroes": [
-                "Titan of Sea",
-                "Princess of Atlantis-Enchanter of Atlantis"
+                "s2_oceanus",
+                "s2_ariel_costume_enchanter"
               ]
             },
             {
               "heroes": [
-                "Cursed Warlord-Beetle Samurai",
-                "Ruler of Atlantis-Slayer of Atlantis"
+                "s2_cursed_samurai_costume_beetle",
+                "s2_poseidon_costume_slayer"
               ]
             },
             {
               "heroes": [
-                "Nine-tailed Spirit-White Kitsune Spirit",
-                "Magnificent Mercenary-Magnificent Hula Dancer"
+                "s2_fox_girl_costume_white_kitsune",
+                "s2_mercenary_woman_costume_dancer"
               ]
             }
           ]
@@ -97452,44 +97525,44 @@
           "seasonHeroesRotation": [
             {
               "heroes": [
-                "Princess of the Dísir-Conjurer of the Dísir",
-                "Goddess of Foresight-Goddess of Clairvoyance",
-                "Lady of the Slain-Witch of the Fallen"
+                "s3_bera_costume_conjurer",
+                "s3_frigg_costume_clairvoyance",
+                "s3_freya_costume_witch"
               ]
             },
             {
               "heroes": [
-                "Queen of Svartalfheim-Hatter of Svartalfheim",
-                "Relentless Justice-Savage Justice",
-                "Fair-Haired Deity-Golden Deity"
+                "s3_alfrike_costume_hatter",
+                "s3_tyr_costume_savage",
+                "s3_sif_costume_golden"
               ]
             },
             {
               "heroes": [
-                "Trickster Fish-Dapper Fish",
-                "Luminous God-Fiery God",
-                "God of Thunder-Conduit of Thunder"
+                "s3_loki_fish_costume_dapper",
+                "s3_baldur_costume_fiery",
+                "s3_thor_costume_conduit"
               ]
             },
             {
               "heroes": [
-                "Weavers of Destiny-Puppeteers of Destiny",
-                "Wise All-Father-Valiant All-Father",
-                "Goddess of Harvest-Goddess of the Wild"
+                "s3_norns_costume_puppeteers",
+                "s3_odin_costume_champion",
+                "s3_gefjon_costume_wilderness"
               ]
             },
             {
               "heroes": [
-                "Messenger of Yggdrasil-Architect of Yggdrasil",
-                "Leader of Niflheim-Guardian of Niflheim",
-                "Goddess of Jotunheim-Guardian of Jotunheim"
+                "s3_ratatoskr_costume_architect",
+                "s3_fenrir_costume_guardian",
+                "s3_skadi_costume_ravager"
               ]
             },
             {
               "heroes": [
-                "Trickster Goddess-Trickster Mother",
-                "Vigilant Watchman-Dreaded Watchman",
-                "Trickster God-Shapeshifter God"
+                "s3_loki_female_costume_mother",
+                "s3_heimdall_costume_dreaded",
+                "s3_loki_male_costume_shapeshifter"
               ]
             }
           ]
@@ -97844,93 +97917,93 @@
           "seasonHeroesRotation": [
             {
               "heroes": [
-                "Heiress of the Underworld-Heiress to the Flame",
-                "Leader of the Eloi-Leader of the Undying",
-                "Devious Scientist-Devious Scribe"
+                "s4_xenda_costume_flame",
+                "s4_lepiota_costume_undying",
+                "s4_doctor_moreau_costume_scribe"
               ]
             },
             {
               "heroes": [
-                "Adventurous Archaeologist-Adventurous Drover",
-                "Sagacious Scientist-Sagacious Jeweler",
-                "Arachnid Aristocrat-Bridal Aristocrat"
+                "s4_hannah_costume_drover",
+                "s4_professor_lidenbrock_costume_jeweler",
+                "s4_elizabeth_costume_bride"
               ]
             },
             {
               "heroes": [
-                "Myriapod Prince-Apocynacid Prince",
-                "Courageous Voyager-Exquisite Engineer",
-                "Leader of the Eloi-Leader of the Undying"
+                "s4_zekena_costume_vines",
+                "s4_phileas_fogg_costume_engineer",
+                "s4_lepiota_costume_undying"
               ]
             },
             {
               "heroes": [
-                "Octopod Priest-Octopod Hierophant",
-                "Adventurous Archaeologist-Adventurous Drover",
-                "Morlock Chieftain-Morlock Running Back"
+                "s4_exeera_costume_hierophant",
+                "s4_hannah_costume_drover",
+                "s4_akkorog_costume_football"
               ]
             },
             {
               "heroes": [
-                "King of the Depths-The Deathless King",
-                "Courageous Voyager-Exquisite Engineer",
-                "Arachnid Aristocrat-Bridal Aristocrat"
+                "s4_lughaidh_costume_deathless",
+                "s4_phileas_fogg_costume_engineer",
+                "s4_elizabeth_costume_bride"
               ]
             },
             {
               "heroes": [
-                "Warrior of the Depths-Warrior of Kelp",
-                "Enigmatic Explorer-Enigmatic Machinist",
-                "Eloi Rogue-Eloi Painter"
+                "s4_congalach_costume_kelp",
+                "s4_captain_nemo_costume_machinist",
+                "s4_russula_costume_painter"
               ]
             },
             {
               "heroes": [
-                "Ettin Commander-Ettin Grillmaster",
-                "Morlock Chieftain-Morlock Running Back",
-                "Myriapod Queen-Apocynacid Queen"
+                "s4_kravekrush_costume_grillmaster",
+                "s4_akkorog_costume_football",
+                "s4_zenobia_costume_floral"
               ]
             },
             {
               "heroes": [
-                "Kind-hearted Princess-Lotus Princess",
-                "Eloi Hunter-Eloi Sage",
-                "Morlock Battle Master-Morlock Kite Master"
+                "s4_aouda_costume_lotus",
+                "s4_morel_costume_sage",
+                "s4_garjammal_costume_kite"
               ]
             },
             {
               "heroes": [
-                "Enigmatic Explorer-Enigmatic Machinist",
-                "King of the Depths-The Deathless King",
-                "Kind-hearted Princess-Lotus Princess"
+                "s4_captain_nemo_costume_machinist",
+                "s4_lughaidh_costume_deathless",
+                "s4_aouda_costume_lotus"
               ]
             },
             {
               "heroes": [
-                "Myriapod Queen-Apocynacid Queen",
-                "Clever Voyager-Elegant Artist",
-                "Leader of the Eloi-Leader of the Undying"
+                "s4_zenobia_costume_floral",
+                "s4_passepartout_costume_artist",
+                "s4_lepiota_costume_undying"
               ]
             },
             {
               "heroes": [
-                "Morlock Chieftain-Morlock Running Back",
-                "Octopod Sorcerer-Octopod Jailer",
-                "Warrior of the Depths-Warrior of Kelp"
+                "s4_akkorog_costume_football",
+                "s4_xnolphod_costume_jailer",
+                "s4_congalach_costume_kelp"
               ]
             },
             {
               "heroes": [
-                "Eloi Rogue-Eloi Painter",
-                "Octopod Champion-Molluscan Suitor",
-                "Devious Scientist-Devious Scribe"
+                "s4_russula_costume_painter",
+                "s4_octros_costume_suitor",
+                "s4_doctor_moreau_costume_scribe"
               ]
             },
             {
               "heroes": [
-                "Head of the Moles-Head Nurse",
-                "Ettin Commander-Ettin Grillmaster",
-                "Eloi Hunter-Eloi Sage"
+                "s4_hulda_costume_nurse",
+                "s4_kravekrush_costume_grillmaster",
+                "s4_morel_costume_sage"
               ]
             }
           ]
@@ -98234,51 +98307,51 @@
           "seasonHeroesRotation": [
             {
               "heroes": [
-                "Sphinx of the Sun-Sphinx of the Disco",
-                "Lady of Harmony-Lady of the Iteru",
-                "Goddess of Motherhood-Starlit Mother"
+                "s5_meresankh_costume_disco",
+                "s5_maat_costume_river",
+                "s5_hathor_costume_starlit"
               ]
             },
             {
               "heroes": [
-                "God of the River-Guardian of the River",
-                "Cunning Sphinx-Sphinx at the Spa",
-                "Mummy Pharaoh-Pharaoh Reborn"
+                "s5_sobek_costume_guardian",
+                "s5_hetepheres_costume_spa",
+                "s5_ahmose_costume_reborn"
               ]
             },
             {
               "heroes": [
-                "Eye of the Moon-Eye of the Forest",
-                "Mummy Queen-Molten Queen",
-                "God of the Hunt-Golden Hunter"
+                "s5_bastet_costume_forest",
+                "s5_tetisheri_costume_molten",
+                "s5_horus_costume_golden"
               ]
             },
             {
               "heroes": [
-                "God of the Moon-Knight of the Moon",
-                "Divine Pharaoh-Feline Pharaoh",
-                "God of the Afterlife-Arbiter of the Dancefloor"
+                "s5_khonshu_costume_knight",
+                "s5_cleopatra_costume_feline",
+                "s5_anubis_costume_dancefloor"
               ]
             },
             {
               "heroes": [
-                "Golem of Paper and Sand-Colossus of Paper and Sand",
-                "God of the River-Guardian of the River",
-                "Sphinx of the Sun-Sphinx of the Disco"
+                "s5_papyros_costume_colossus",
+                "s5_sobek_costume_guardian",
+                "s5_meresankh_costume_disco"
               ]
             },
             {
               "heroes": [
-                "Divine Pharaoh-Feline Pharaoh",
-                "Goddess of Motherhood-Starlit Mother",
-                "Cunning Sphinx-Sphinx at the Spa"
+                "s5_cleopatra_costume_feline",
+                "s5_hathor_costume_starlit",
+                "s5_hetepheres_costume_spa"
               ]
             },
             {
               "heroes": [
-                "Mummy Queen-Molten Queen",
-                "God of the Hunt-Golden Hunter",
-                "God of the Afterlife-Arbiter of the Dancefloor"
+                "s5_tetisheri_costume_molten",
+                "s5_horus_costume_golden",
+                "s5_anubis_costume_dancefloor"
               ]
             }
           ]
@@ -98564,44 +98637,44 @@
           "seasonHeroesRotation": [
             {
               "heroes": [
-                "Primordial God of the Depths-Warrior God of the Depths",
-                "Water Spirit of Plunder-Jellyfish Noble",
-                "Primordial Goddess of Sea Monsters-Primordial Queen of Sea Monsters"
+                "tales1_phorcys_costume_warrior_god",
+                "tales1_persa_costume_jellyfish_noble",
+                "tales1_ceto_costume_queen"
               ]
             },
             {
               "heroes": [
-                "Naga Queen of the Deep-Naga Goddess of the Deep",
-                "Wise Sage of the Oceans-Wise Roller of the Quarry",
-                "Glacial Nereid of the Deep-Glacial Siren of the Deep"
+                "tales1_medea_costume_goddess",
+                "tales1_galapago_costume_quarry",
+                "tales1_atlanteia_costume_siren"
               ]
             },
             {
               "heroes": [
-                "Naga Berserker-Naga Guard",
-                "Treasure Hunter of the Deep-Scavenger of the Deep",
-                "Primordial Goddess of Sea Monsters-Primordial Queen of Sea Monsters"
+                "tales1_spartoi_costume_guard",
+                "tales1_gelert_costume_scavenger",
+                "tales1_ceto_costume_queen"
               ]
             },
             {
               "heroes": [
-                "Prince of the Eternal Deep-Prince of the Eternal Pearls",
-                "Treasure Hunter of the Deep-Scavenger of the Deep",
-                "Temple Keeper of the Deep-Siphoner of the Deep"
+                "tales1_gestalt_costume_pearls",
+                "tales1_gelert_costume_scavenger",
+                "tales1_ultrox_costume_ethereal"
               ]
             },
             {
               "heroes": [
-                "Water Spirit of Plunder-Jellyfish Noble",
-                "Primordial God of the Depths-Warrior God of the Depths",
-                "Wise Sage of the Oceans-Wise Roller of the Quarry"
+                "tales1_persa_costume_jellyfish_noble",
+                "tales1_phorcys_costume_warrior_god",
+                "tales1_galapago_costume_quarry"
               ]
             },
             {
               "heroes": [
-                "Glacial Nereid of the Deep-Glacial Siren of the Deep",
-                "Prince of the Eternal Deep-Prince of the Eternal Pearls",
-                "Treasure Hunter of the Deep-Scavenger of the Deep"
+                "tales1_atlanteia_costume_siren",
+                "tales1_gestalt_costume_pearls",
+                "tales1_gelert_costume_scavenger"
               ]
             }
           ]
@@ -98755,16 +98828,17 @@
             },
             {
               "lotteryProductType": "MapSeasonSummon",
-              "id": "lottery_season_untold_tales2_2025_9_9",
+              "id": "lottery_season_untold_tales2_2025_8_26",
               "productId": "lottery_season_untold_tales2",
-              "startDate": "2025-09-09 07:00:00",
-              "endDate": "2025-09-13 07:00:00",
+              "startDate": "2025-08-26 07:00:00",
+              "endDate": "2025-08-30 07:00:00",
+              "overridden": true,
               "featuredHeroes": [
-                "tales2_regin",
+                "tales2_svafa",
                 "tales2_ott",
                 "tales2_gandr"
               ],
-              "advertisedHero": "tales2_regin"
+              "advertisedHero": "tales2_svafa"
             },
             {
               "lotteryProductType": "MapSeasonSummon",
@@ -98826,44 +98900,44 @@
           "seasonHeroesRotation": [
             {
               "heroes": [
-                "Dwarven Fabled Prince",
-                "Dwarven Merry Trickster",
-                "Dwarven Wind Warrior"
+                "tales2_regin",
+                "tales2_ott",
+                "tales2_gandr"
               ]
             },
             {
               "heroes": [
-                "Dwarven Fabled Prince",
-                "Dwarven Merry Trickster",
-                "Dwarven Wind Warrior"
+                "tales2_regin",
+                "tales2_ott",
+                "tales2_gandr"
               ]
             },
             {
               "heroes": [
-                "Dwarven Fabled Prince",
-                "Dwarven Merry Trickster",
-                "Dwarven Wind Warrior"
+                "tales2_regin",
+                "tales2_ott",
+                "tales2_gandr"
               ]
             },
             {
               "heroes": [
-                "Dwarven Fabled Prince",
-                "Dwarven Merry Trickster",
-                "Dwarven Wind Warrior"
+                "tales2_regin",
+                "tales2_ott",
+                "tales2_gandr"
               ]
             },
             {
               "heroes": [
-                "Dwarven Fabled Prince",
-                "Dwarven Merry Trickster",
-                "Dwarven Wind Warrior"
+                "tales2_regin",
+                "tales2_ott",
+                "tales2_gandr"
               ]
             },
             {
               "heroes": [
-                "Dwarven Fabled Prince",
-                "Dwarven Merry Trickster",
-                "Dwarven Wind Warrior"
+                "tales2_regin",
+                "tales2_ott",
+                "tales2_gandr"
               ]
             }
           ]
@@ -99209,62 +99283,62 @@
           "featuredCostumesRotation": [
             {
               "heroes": [
-                "Wielder of Frostmorrow-Toon Frostmorrow",
-                "Lady of Windemer-Toon of Windemer"
+                "royal_knight_commander_costume_cute",
+                "nomad_female_captain_costume_cute"
               ]
             },
             {
               "heroes": [
-                "Shieldmaster of Moonlight-Toon Shieldmaster",
-                "Ancient of Ice-Toon of Ice"
+                "forest_female_elf_costume_cute",
+                "exalted_warrior_costume_cute"
               ]
             },
             {
               "heroes": [
-                "The Noble Heart-The Noble Toon",
-                "Flame of the Sun-Toon of the Sun"
+                "elven_archer_costume_cute",
+                "oriental_enchanted_monk_costume_cute"
               ]
             },
             {
               "heroes": [
-                "Last of the Leors-Toon Leor",
-                "Magitech Sniper-Toon Sniper"
+                "lionman_barbarian_costume_cute",
+                "magitech_sniper_costume_cute"
               ]
             },
             {
               "heroes": [
-                "Hammer of Justice-Hammer of Toon Power",
-                "Chief of Tribes-Chief of Toons"
+                "nordic_male_lord_costume_cute",
+                "tribal_chief_costume_cute"
               ]
             },
             {
               "heroes": [
-                "Protector of Glaceholm-Protector of Toons",
-                "Unyielding King-Unyielding Toon"
+                "nordic_ice_enchantress_costume_cute",
+                "oriental_warrior_king_costume_cute"
               ]
             },
             {
               "heroes": [
-                "Captain of the Royal Guard-Captain of the Royal Toons",
-                "Hammer of Justice-Hammer of Toon Power"
+                "nomad_female_lord_costume_cute",
+                "nordic_male_lord_costume_cute"
               ]
             },
             {
               "heroes": [
-                "Ancient of Stone-Toon of Stone",
-                "The Noble Heart-The Noble Toon"
+                "exalted_female_statue_costume_cute",
+                "elven_archer_costume_cute"
               ]
             },
             {
               "heroes": [
-                "Lady of Windemer-Vitrail of Windemer",
-                "Executor from Descenthia-Vitrail from Descenthia"
+                "nomad_female_captain_costume_glass",
+                "cultist_sorceress_costume_glass"
               ]
             },
             {
               "heroes": [
-                "Mad Scientist-Toon Scientist",
-                "Flame of the Sun-Toon of the Sun"
+                "cultist_inventor_costume_cute",
+                "oriental_enchanted_monk_costume_cute"
               ]
             }
           ],
@@ -99396,32 +99470,32 @@
           "featuredEntityRotation": [
             {
               "heroes": [
-                "Sumo Champion"
+                "champions_satori"
               ]
             },
             {
               "heroes": [
-                "Jousting Champion"
+                "champions_norman"
               ]
             },
             {
               "heroes": [
-                "Ram Turismo Champion"
+                "champions_ramona"
               ]
             },
             {
               "heroes": [
-                "Baseball Champion"
+                "champions_lazara"
               ]
             },
             {
               "heroes": [
-                "Baseball Champion"
+                "champions_lazara"
               ]
             },
             {
               "heroes": [
-                "Discus Throw Champion"
+                "champions_mistra"
               ]
             }
           ],
@@ -99515,17 +99589,17 @@
               "lotteryProductType": "超级元素人召唤",
               "id": "lottery_super_elemental_red_2025_7_14",
               "productId": "lottery_super_elemental_red",
-              "startDate": "2025-09-25 07:00:00",
-              "endDate": "2025-09-29 07:00:00",
+              "startDate": "2025-09-04 07:00:00",
+              "endDate": "2025-09-08 07:00:00",
               "overridden": true,
               "questLines": [
                 "super_elemental_quest_red"
               ],
               "featuredHeroes": [
-                "elemental_ash",
-                "elemental_niki"
+                "slime_zestique",
+                "elemental_ash"
               ],
-              "advertisedHero": "elemental_ash",
+              "advertisedHero": "slime_zestique",
               "latestIncludedNonEventHeroDate": 803977200,
               "bonusHeroes": [
                 "trainer_red_common",
@@ -99570,10 +99644,10 @@
                 "super_elemental_quest_purple"
               ],
               "featuredHeroes": [
-                "slime_sliposi",
+                "elemental_griffex_costume_camera",
                 "elemental_gastille"
               ],
-              "advertisedHero": "slime_sliposi",
+              "advertisedHero": "elemental_griffex_costume_camera",
               "latestIncludedNonEventHeroDate": 804236400,
               "bonusHeroes": [
                 "trainer_purple_common",
@@ -99587,17 +99661,17 @@
               "lotteryProductType": "超级元素人召唤",
               "id": "lottery_super_elemental_purple_2025_10_6",
               "productId": "lottery_super_elemental_purple",
-              "startDate": "2025-09-09 07:00:00",
-              "endDate": "2025-09-13 07:00:00",
+              "startDate": "2025-09-25 07:00:00",
+              "endDate": "2025-09-29 07:00:00",
               "overridden": true,
               "questLines": [
                 "super_elemental_quest_purple"
               ],
               "featuredHeroes": [
-                "elemental_griffex_costume_camera",
+                "slime_sliposi",
                 "elemental_gastille"
               ],
-              "advertisedHero": "elemental_griffex_costume_camera",
+              "advertisedHero": "slime_sliposi",
               "latestIncludedNonEventHeroDate": 805186800,
               "bonusHeroes": [
                 "trainer_purple_common",
@@ -99685,62 +99759,62 @@
           "featuredEntityRotation": [
             {
               "heroes": [
-                "Hospitable Quartermaster",
-                "Warlord of the Unwavering Orcs"
+                "elemental_grilka",
+                "elemental_ironmaw"
               ]
             },
             {
               "heroes": [
-                "Hospitable Quartermaster",
-                "Warlord of the Unwavering Orcs"
+                "elemental_grilka",
+                "elemental_ironmaw"
               ]
             },
             {
               "heroes": [
-                "Elemental Shaman",
-                "Blade Alchemist"
+                "elemental_craum",
+                "elemental_desmond"
               ]
             },
             {
               "heroes": [
-                "Elemental Shaman",
-                "Blade Alchemist"
+                "elemental_craum",
+                "elemental_desmond"
               ]
             },
             {
               "heroes": [
-                "Cold Blooded Assassin",
-                "Electric Navigator"
+                "elemental_nylora",
+                "elemental_jolt"
               ]
             },
             {
               "heroes": [
-                "Cold Blooded Assassin",
-                "Electric Navigator"
+                "elemental_nylora",
+                "elemental_jolt"
               ]
             },
             {
               "heroes": [
-                "Fierce Bounty Hunter",
-                "Scythe Master of the Dark Sea"
+                "elemental_ash",
+                "elemental_niki"
               ]
             },
             {
               "heroes": [
-                "Fierce Bounty Hunter",
-                "Scythe Master of the Dark Sea"
+                "elemental_ash",
+                "elemental_niki"
               ]
             },
             {
               "heroes": [
-                "Cyborg Captain",
-                "Multidimensional Hazard"
+                "elemental_vander",
+                "elemental_gastille"
               ]
             },
             {
               "heroes": [
-                "Cyborg Captain",
-                "Multidimensional Hazard"
+                "elemental_vander",
+                "elemental_gastille"
               ]
             }
           ],
@@ -106749,10 +106823,10 @@
                 "astralelves"
               ],
               "featuredHeroes": [
-                "astral_dwarf_ceris",
-                "astral_lemonwood"
+                "astral_dwarf_hygil",
+                "astral_dwarf_ceris"
               ],
-              "advertisedHero": "astral_dwarf_ceris"
+              "advertisedHero": "astral_dwarf_hygil"
             },
             {
               "lotteryProductType": "星体召唤",
@@ -106986,7 +107060,7 @@
                 "masquerade_februus",
                 "pirate_commodore_finley_costume_bleak",
                 "holy_god_onatel",
-                "tales1_sharkhai",
+                "tales1_sharkhai_costume_butcher",
                 "guardian_jackal_assassin_costume_bones",
                 "masquerade_fosco",
                 "gargoyle_kalo",
@@ -107206,7 +107280,7 @@
                 "masquerade_februus",
                 "pirate_commodore_finley_costume_bleak",
                 "holy_god_onatel",
-                "tales1_sharkhai",
+                "tales1_sharkhai_costume_butcher",
                 "guardian_jackal_assassin_costume_bones",
                 "masquerade_fosco",
                 "gargoyle_kalo",
@@ -107690,16 +107764,16 @@
                 "requiredItemId": "lottery_3kw_limited_pool_summon_coin",
                 "requiredItemAmount": 100,
                 "heroes": [
-                  "Valiant General-Inferno General",
-                  "Scorpion Demoness",
-                  "Sand Monk",
-                  "Unparalleled Beauty",
-                  "Bear Mountain Lord",
-                  "Warrior God of Heaven",
-                  "Warlord of Wu-Warlord of Fortune",
-                  "Nine-Headed Prince Consort",
-                  "Merciless General-Merciless Bear General",
-                  "Great Mystery of the River"
+                  "kingdom_guan_yu_costume_dragon",
+                  "journey_xie_zi_jing",
+                  "journey_sha_wujing",
+                  "journey_queen_guowang",
+                  "journey_xiong_shanjun",
+                  "journey_erlang_shen",
+                  "kingdom_sun_quan_costume_fire_bat",
+                  "journey_nineheaded_beast",
+                  "kingdom_zhang_fei_costume_bear_slayer",
+                  "journey_tang_sanzang"
                 ]
               }
             },
@@ -107720,16 +107794,16 @@
                 "requiredItemId": "lottery_3kw_limited_pool_summon_coin",
                 "requiredItemAmount": 100,
                 "heroes": [
-                  "Brilliant Beauty-Flower Beauty",
-                  "Scorpion Demoness",
-                  "Master Strategist-Strategist Supreme",
-                  "Unparalleled Beauty",
-                  "Bear Mountain Lord",
-                  "Chosen by the Lunar Light",
-                  "Warlord of Wei-Warlord of Ice",
-                  "Warrior God of Heaven",
-                  "Warlord of Shu-Warlord of Forest",
-                  "Sand Monk"
+                  "kingdom_diaochan_costume_flowers",
+                  "journey_xie_zi_jing",
+                  "kingdom_zhuge_liang_costume_crane",
+                  "journey_queen_guowang",
+                  "journey_xiong_shanjun",
+                  "journey_change",
+                  "kingdom_cao_cao_costume_ice",
+                  "journey_erlang_shen",
+                  "kingdom_liu_bei_costume_nature",
+                  "journey_sha_wujing"
                 ]
               }
             },
@@ -107750,16 +107824,16 @@
                 "requiredItemId": "lottery_3kw_limited_pool_summon_coin",
                 "requiredItemAmount": 100,
                 "heroes": [
-                  "Warlord of Shu-Warlord of Forest",
-                  "Scorpion Demoness",
-                  "Warlord of Wei-Warlord of Ice",
-                  "Wrathful Warlord-Wrathful Tiger Warlord",
-                  "Bear Mountain Lord",
-                  "Warrior God of Heaven",
-                  "Warlord of Wu-Warlord of Fortune",
-                  "Nine-Headed Prince Consort",
-                  "Merciless General-Merciless Bear General",
-                  "Great Mystery of the River"
+                  "kingdom_liu_bei_costume_nature",
+                  "journey_xie_zi_jing",
+                  "kingdom_cao_cao_costume_ice",
+                  "kingdom_lu_bu_costume_tiger_lord",
+                  "journey_xiong_shanjun",
+                  "journey_erlang_shen",
+                  "kingdom_sun_quan_costume_fire_bat",
+                  "journey_nineheaded_beast",
+                  "kingdom_zhang_fei_costume_bear_slayer",
+                  "journey_tang_sanzang"
                 ]
               }
             }
@@ -107767,30 +107841,30 @@
           "featuredEntityRotation": [
             {
               "heroes": [
-                "Timely Rain of Water Margin",
-                "Destruction Star of Water Margin",
-                "Iron Ox of Water Margin"
+                "outlaw_song_jiang",
+                "outlaw_ruan_xiaoqi",
+                "outlaw_li_kui"
               ]
             },
             {
               "heroes": [
-                "Timely Rain of Water Margin",
-                "Destruction Star of Water Margin",
-                "Iron Ox of Water Margin"
+                "outlaw_song_jiang",
+                "outlaw_ruan_xiaoqi",
+                "outlaw_li_kui"
               ]
             },
             {
               "heroes": [
-                "Great Mystery of the River",
-                "Nine-Headed Prince Consort",
-                "Valiant General"
+                "journey_tang_sanzang",
+                "journey_nineheaded_beast",
+                "kingdom_guan_yu"
               ]
             },
             {
               "heroes": [
-                "Timely Rain of Water Margin",
-                "Destruction Star of Water Margin",
-                "Iron Ox of Water Margin"
+                "outlaw_song_jiang",
+                "outlaw_ruan_xiaoqi",
+                "outlaw_li_kui"
               ]
             }
           ],
@@ -107837,9 +107911,9 @@
             "eventId": "忍者高塔",
             "featuredEntities": {
               "heroes": [
-                "Silent Executioner",
-                "Master of Kunai Storm",
-                "Silent Huntress"
+                "ninja_nomad",
+                "ninja_iga",
+                "ninja_tora"
               ]
             }
           },
@@ -107848,9 +107922,9 @@
             "eventId": "魔法高塔",
             "featuredEntities": {
               "heroes": [
-                "Magic Carpet Charmer",
-                "Tower Headmaster-Tower Postmaster",
-                "Magic Carpet Drifter"
+                "magic_carpet_lando",
+                "magic_nadezhda_costume_postmaster",
+                "magic_carpet_naeem"
               ]
             }
           },
@@ -107859,9 +107933,9 @@
             "eventId": "魔法高塔",
             "featuredEntities": {
               "heroes": [
-                "Magic Carpet Assassin",
-                "Champion of the Court-Champion of the Bramble",
-                "Teacher of the Arcane Arts-Teacher of Arctic Spells"
+                "magic_carpet_agadh",
+                "magic_ray_costume_spiky",
+                "magic_milena_costume_ice"
               ]
             }
           },
@@ -107870,9 +107944,9 @@
             "eventId": "冥河高塔",
             "featuredEntities": {
               "heroes": [
-                "Goddess of the Sea",
-                "Ferryman of Styx",
-                "God of Deep Darkness"
+                "styx_amphitrite",
+                "styx_charon",
+                "styx_erebus"
               ]
             }
           },
@@ -107881,9 +107955,9 @@
             "eventId": "忍者高塔",
             "featuredEntities": {
               "heroes": [
-                "Ninja Outlook",
-                "Shinobi Squad Leader",
-                "Ninja of Soaring Vitality"
+                "ninja_azurite",
+                "ninja_ekanite",
+                "ninja_garnet"
               ]
             }
           },
@@ -107892,9 +107966,9 @@
             "eventId": "猫头鹰高塔",
             "featuredEntities": {
               "heroes": [
-                "Queen of Owl Tower",
-                "Herbalist of Owl Tower",
-                "Royal Vanguard of Owl Tower"
+                "owl_fulvia",
+                "owl_relius",
+                "owl_timius"
               ]
             }
           }
@@ -108010,8 +108084,8 @@
         "featuredEntityRotation": [
           {
             "heroes": [
-              "Hunter Blademaster",
-              "Savage Hunter"
+              "monster_hunter_otis",
+              "monster_hunter_goretooth"
             ]
           }
         ],
@@ -109401,26 +109475,26 @@
               100
             ],
             "heroes": [
-              "Captain of the Royal Guard",
-              "The Noble Heart",
-              "Hammer of Justice",
-              "Scholar Supreme",
-              "Executor from Descenthia",
-              "The Fiery Healer",
-              "Forest God",
-              "Aquatic Conjurer",
-              "Blind Seer",
-              "Reanimated Huntress",
-              "Fatal Beauty",
-              "Prince of the Jungle",
-              "Princess of Atlantis",
-              "Ruler of Atlantis",
-              "Cursed Warlord",
-              "Relentless Justice",
-              "Messenger of Yggdrasil",
-              "Goddess of Jotunheim",
-              "God of Thunder",
-              "Lady of the Slain"
+              "nomad_female_lord",
+              "elven_archer",
+              "nordic_male_lord",
+              "oriental_female_mystic",
+              "cultist_sorceress",
+              "fire_god_nadnog",
+              "forest_god_telluria",
+              "ice_god_vela",
+              "holy_god_onatel",
+              "dark_god_seshat",
+              "s2_noble_lady",
+              "s2_junglehunter",
+              "s2_ariel",
+              "s2_poseidon",
+              "s2_cursed_samurai",
+              "s3_tyr",
+              "s3_ratatoskr",
+              "s3_skadi",
+              "s3_thor",
+              "s3_freya"
             ]
           },
           {
@@ -109430,26 +109504,26 @@
               100
             ],
             "heroes": [
-              "Lady of Windemer",
-              "Ancient of the Woods",
-              "Protector of Glaceholm",
-              "Flame of the Sun",
-              "Mad Scientist",
-              "Long-Lost Daughter",
-              "Celestial of Nature",
-              "Tranquil Channeler",
-              "Reigning Champion",
-              "The Goat-Riding Gnome",
-              "Fatal Beauty",
-              "Guardian of Atlantis",
-              "Magnificent Mercenary",
-              "Nine-tailed Spirit",
-              "Savage Butcher",
-              "Goddess of Harvest",
-              "Vigilant Watchman",
-              "Trickster God",
-              "Fair-Haired Deity",
-              "Princess of the Dísir"
+              "nomad_female_captain",
+              "forest_titan",
+              "nordic_ice_enchantress",
+              "oriental_enchanted_monk",
+              "cultist_inventor",
+              "fire_god_zimkitha",
+              "forest_god_zeline",
+              "ice_god_raffaele",
+              "holy_god_malosi",
+              "dark_god_grimble",
+              "s2_noble_lady",
+              "s2_skyllaros",
+              "s2_mercenary_woman",
+              "s2_fox_girl",
+              "s2_hammerhead_hulk",
+              "s3_gefjon",
+              "s3_heimdall",
+              "s3_loki_male",
+              "s3_sif",
+              "s3_bera"
             ]
           },
           {
@@ -109459,26 +109533,26 @@
               100
             ],
             "heroes": [
-              "Chief of Tribes",
-              "Spearmaster of Moonlight",
-              "Wielder of Frostmorrow",
-              "Unyielding King",
-              "Magitech Sniper",
-              "Shaman with a Grudge",
-              "Treasure Hunter",
-              "Arctic Menace",
-              "Blade Dancer",
-              "Mirage Assassin",
-              "Protector of Grimforest",
-              "Enchantress of Avalon",
-              "Jester of Grimforest",
-              "Elite Guardian of Teltoc",
-              "Dread Captain of Corellia",
-              "Luminous God",
-              "Goddess of Foresight",
-              "Leader of Niflheim",
-              "Weavers of Destiny",
-              "Trickster Fish"
+              "tribal_chief",
+              "forest_male_elf",
+              "royal_knight_commander",
+              "oriental_warrior_king",
+              "magitech_sniper",
+              "fire_god_anzogh",
+              "forest_god_elinor",
+              "ice_god_frida",
+              "holy_god_bai_yeong",
+              "dark_god_september",
+              "fables_red_hood",
+              "knights_morgan_le_fay",
+              "fables_rumpelstiltskin",
+              "guardian_owl_gentleman",
+              "pirate_dread_captain",
+              "s3_baldur",
+              "s3_frigg",
+              "s3_fenrir",
+              "s3_norns",
+              "s3_loki_fish"
             ]
           },
           {
@@ -109488,26 +109562,26 @@
               100
             ],
             "heroes": [
-              "Last of the Leors",
-              "Shieldmaster of Moonlight",
-              "Ancient of Ice",
-              "Ancient of Stone",
-              "Praetorian Bodyguard",
-              "Deity of War",
-              "Seelie Champion",
-              "Celestial of Ice",
-              "Invincible Ronin",
-              "Master of Crypts",
-              "Buccaneer Captain of Corellia",
-              "Lady of Corellia",
-              "King of Avalon",
-              "Queen of Avalon",
-              "Warrior of Teltoc",
-              "The Gift-Bringer",
-              "The Northern Chef",
-              "Guardian of Springvale",
-              "Queen of Sand Empire",
-              "Vampire King"
+              "lionman_barbarian",
+              "forest_female_elf",
+              "exalted_warrior",
+              "exalted_female_statue",
+              "underworld_champion",
+              "fire_god_ares",
+              "forest_god_oberon",
+              "ice_god_athena",
+              "holy_god_musashi",
+              "witch_king",
+              "pirate_swashbuckler",
+              "pirate_lady",
+              "knights_king_arthur",
+              "knights_guinevere",
+              "guardian_cat_warrior",
+              "christmas_santa",
+              "christmas_mrs_claus",
+              "rabbit_blue",
+              "sand_queen",
+              "vampire_king"
             ]
           },
           {
@@ -109517,26 +109591,26 @@
               100
             ],
             "heroes": [
-              "Enigmatic Explorer",
-              "Morlock Battle Master",
-              "Clever Voyager",
-              "Morlock Chieftain",
-              "Leader of the Eloi",
-              "Fireborn Enchantress",
-              "Celestial of Nature",
-              "Huntress of Ice Giants",
-              "Hero of the Forbidden Island",
-              "Steadfast Judge",
-              "Chieftain of Teltoc",
-              "Riddler of Wonderland",
-              "Adventurer of Wonderland",
-              "Druid of Teltoc",
-              "Governor of Grimforest",
-              "Vampire Queen",
-              "The Monstress",
-              "Holiday Ghoul",
-              "Protector of Sand Empire",
-              "Savage Protector of Springvale"
+              "s4_captain_nemo",
+              "s4_garjammal",
+              "s4_passepartout",
+              "s4_akkorog",
+              "s4_lepiota",
+              "fire_god_natalya",
+              "forest_god_zeline",
+              "ice_god_eskimo",
+              "holy_god_delilah",
+              "dark_god_aeron",
+              "guardian_gorilla_chieftain",
+              "wonderland_hatter",
+              "wonderland_alice",
+              "guardian_gazelle",
+              "fables_boss_wolf",
+              "halloween_vanda",
+              "halloween_francine",
+              "christmas_krampus",
+              "sand_roc",
+              "easter_killhare"
             ]
           },
           {
@@ -109546,26 +109620,26 @@
               100
             ],
             "heroes": [
-              "Myriapod Queen",
-              "Courageous Voyager",
-              "Eloi Hunter",
-              "Kind-hearted Princess",
-              "Head of the Moles",
-              "Unseparable Team",
-              "Blightwalker Druid",
-              "Spellcaster Fashionista",
-              "Quixotic Adventurer",
-              "Vicious Tracker",
-              "Marksman of the Castle",
-              "Champion of the Castle",
-              "Archmage of the Castle",
-              "Enchanter of the Castle",
-              "Defender of the Castle",
-              "Champion of the Court",
-              "Charms Professor",
-              "Teacher of the Arcane Arts",
-              "Master Groundskeeper",
-              "Superintendent Supreme"
+              "s4_zenobia",
+              "s4_phileas_fogg",
+              "s4_morel",
+              "s4_aouda",
+              "s4_hulda",
+              "fire_god_roughian_and_nurgib",
+              "nature_god_viselus",
+              "ice_god_suzuna",
+              "holy_god_gilligan",
+              "dark_god_turgruk",
+              "castle_raven_lewena",
+              "castle_wolf_quenell",
+              "castle_wolf_esme",
+              "castle_raven_eloise",
+              "castle_wolf_ludwig",
+              "magic_ray",
+              "magic_cristobal",
+              "magic_milena",
+              "magic_motega",
+              "magic_agrafena"
             ]
           },
           {
@@ -109575,26 +109649,26 @@
               100
             ],
             "heroes": [
-              "Octopod Champion",
-              "King of the Depths",
-              "Octopod Priest",
-              "Myriapod Prince",
-              "Octopod Sorcerer",
-              "Pioneering Rearguard",
-              "Meliai Warmage",
-              "Half-horse Ice Mage",
-              "Virtuous Cat Burglar",
-              "Toxic Abomination",
-              "Duplicitous Duke",
-              "Veteran Musketeer",
-              "Jolly Musketeer",
-              "Courageous Musketeer",
-              "Romantic Musketeer",
-              "Tower Headmaster",
-              "Centaur of the Woodlands",
-              "Arcanist Tinkerer",
-              "Mystic Chess Master",
-              "Starlight Conjurer"
+              "s4_octros",
+              "s4_lughaidh",
+              "s4_exeera",
+              "s4_zekena",
+              "s4_xnolphod",
+              "fire_god_skargremar",
+              "nature_god_cinisia",
+              "ice_god_areax",
+              "holy_god_ithar",
+              "dark_god_uthragan",
+              "musketeer_cardinal_richelieu",
+              "musketeer_athos",
+              "musketeer_porthos",
+              "musketeer_constance",
+              "musketeer_aramis",
+              "magic_nadezhda",
+              "magic_telonius",
+              "magic_camilla",
+              "magic_vaishali",
+              "magic_becky"
             ]
           },
           {
@@ -109604,26 +109678,26 @@
               100
             ],
             "heroes": [
-              "Lady of Windemer",
-              "Ancient of the Woods",
-              "Protector of Glaceholm",
-              "Flame of the Sun",
-              "Mad Scientist",
-              "Long-Lost Daughter",
-              "Celestial of Nature",
-              "Tranquil Channeler",
-              "Reigning Champion",
-              "The Goat-Riding Gnome",
-              "Fatal Beauty",
-              "Guardian of Atlantis",
-              "Magnificent Mercenary",
-              "Nine-tailed Spirit",
-              "Savage Butcher",
-              "Goddess of Harvest",
-              "Vigilant Watchman",
-              "Trickster God",
-              "Fair-Haired Deity",
-              "Princess of the Dísir"
+              "nomad_female_captain",
+              "forest_titan",
+              "nordic_ice_enchantress",
+              "oriental_enchanted_monk",
+              "cultist_inventor",
+              "fire_god_zimkitha",
+              "forest_god_zeline",
+              "ice_god_raffaele",
+              "holy_god_malosi",
+              "dark_god_grimble",
+              "s2_noble_lady",
+              "s2_skyllaros",
+              "s2_mercenary_woman",
+              "s2_fox_girl",
+              "s2_hammerhead_hulk",
+              "s3_gefjon",
+              "s3_heimdall",
+              "s3_loki_male",
+              "s3_sif",
+              "s3_bera"
             ],
             "pendingConfiguration": true
           },
@@ -109634,26 +109708,26 @@
               100
             ],
             "heroes": [
-              "Lady of Windemer",
-              "Ancient of the Woods",
-              "Protector of Glaceholm",
-              "Flame of the Sun",
-              "Mad Scientist",
-              "Long-Lost Daughter",
-              "Celestial of Nature",
-              "Tranquil Channeler",
-              "Reigning Champion",
-              "The Goat-Riding Gnome",
-              "Fatal Beauty",
-              "Guardian of Atlantis",
-              "Magnificent Mercenary",
-              "Nine-tailed Spirit",
-              "Savage Butcher",
-              "Goddess of Harvest",
-              "Vigilant Watchman",
-              "Trickster God",
-              "Fair-Haired Deity",
-              "Princess of the Dísir"
+              "nomad_female_captain",
+              "forest_titan",
+              "nordic_ice_enchantress",
+              "oriental_enchanted_monk",
+              "cultist_inventor",
+              "fire_god_zimkitha",
+              "forest_god_zeline",
+              "ice_god_raffaele",
+              "holy_god_malosi",
+              "dark_god_grimble",
+              "s2_noble_lady",
+              "s2_skyllaros",
+              "s2_mercenary_woman",
+              "s2_fox_girl",
+              "s2_hammerhead_hulk",
+              "s3_gefjon",
+              "s3_heimdall",
+              "s3_loki_male",
+              "s3_sif",
+              "s3_bera"
             ],
             "pendingConfiguration": true
           }
@@ -109672,16 +109746,16 @@
               30
             ],
             "heroes": [
-              "Hidden Claw of Owl Tower",
-              "Royal Vanguard of Owl Tower",
-              "Courtier of Owl Tower",
-              "Lawbringer of Owl Tower",
-              "Berserker of Owl Tower",
-              "Gentle Faun Gardener",
-              "Mysterious Faun Merchant",
-              "Fearsome Faun Warrior",
-              "Eerie Faun Flautist",
-              "Courageous Faun Commander"
+              "owl_cennius",
+              "owl_timius",
+              "owl_mariol",
+              "owl_ommodus",
+              "owl_lodius",
+              "faun_bramble",
+              "faun_verity",
+              "faun_araminta",
+              "faun_tamlin",
+              "faun_gideon"
             ]
           },
           {
@@ -109693,16 +109767,16 @@
               10
             ],
             "heroes": [
-              "Princess of Atlantis-Enchanter of Atlantis",
-              "Guardian of Atlantis-Guardian of the Reef",
-              "Magnificent Mercenary-Magnificent Hula Dancer",
-              "Titan of Sea",
-              "Goddess of all Rivers",
-              "Primordial Goddess of the Oceans-Primordial Goddess of the Crystals",
-              "Wise Sage of the Oceans-Wise Roller of the Quarry",
-              "Temple Keeper of the Deep",
-              "Nereid Princess",
-              "Treasure Hunter of the Deep"
+              "s2_ariel_costume_enchanter",
+              "s2_skyllaros_costume_reef",
+              "s2_mercenary_woman_costume_dancer",
+              "s2_oceanus",
+              "s2_tethys",
+              "tales1_thalassa_costume_crystals",
+              "tales1_galapago_costume_quarry",
+              "tales1_ultrox",
+              "tales1_ephyra",
+              "tales1_gelert"
             ]
           },
           {
@@ -109714,16 +109788,16 @@
               10
             ],
             "heroes": [
-              "Princess of Atlantis-Enchanter of Atlantis",
-              "Guardian of Atlantis-Guardian of the Reef",
-              "Magnificent Mercenary-Magnificent Hula Dancer",
-              "Titan of Sea",
-              "Goddess of all Rivers",
-              "Primordial Goddess of the Oceans-Primordial Goddess of the Crystals",
-              "Wise Sage of the Oceans-Wise Roller of the Quarry",
-              "Temple Keeper of the Deep",
-              "Nereid Princess",
-              "Treasure Hunter of the Deep"
+              "s2_ariel_costume_enchanter",
+              "s2_skyllaros_costume_reef",
+              "s2_mercenary_woman_costume_dancer",
+              "s2_oceanus",
+              "s2_tethys",
+              "tales1_thalassa_costume_crystals",
+              "tales1_galapago_costume_quarry",
+              "tales1_ultrox",
+              "tales1_ephyra",
+              "tales1_gelert"
             ]
           },
           {
@@ -109735,16 +109809,16 @@
               20
             ],
             "heroes": [
-              "Cold Blooded Assassin",
-              "Elemental Shaman",
-              "Hospitable Quartermaster",
-              "Multidimensional Hazard",
-              "Scythe Master of the Dark Sea",
-              "Electric Navigator",
-              "Blade Alchemist",
-              "The Cosmic Enigma-The Gilded Enigma",
-              "Supersonic Blade Master",
-              "Conductor of Flames-Flame Surgeon"
+              "elemental_nylora",
+              "elemental_craum",
+              "elemental_grilka",
+              "elemental_gastille",
+              "elemental_niki",
+              "elemental_jolt",
+              "elemental_desmond",
+              "elemental_jequn_costume_gilded",
+              "elemental_farrah",
+              "elemental_ignazio_costume_medic"
             ]
           },
           {
@@ -109756,16 +109830,16 @@
               20
             ],
             "heroes": [
-              "Adept Eagle Trainer",
-              "Hermit of the Frozen Mountain",
-              "Retired Boar Rider",
-              "Famed Goblin Flutist",
-              "Enchanter of Beasts",
-              "The Steadfast Sapper",
-              "Nervous Messenger",
-              "The Hogmaster",
-              "Lizardfolk Lanternbearer",
-              "Courageous Corporal"
+              "goblin_darkfeather",
+              "goblin_grimsteel",
+              "goblin_scrollbeast",
+              "goblin_pepperflame",
+              "goblin_leafwizzle",
+              "garrison_vanya",
+              "garrison_pip",
+              "garrison_dima",
+              "garrison_shimmerscale",
+              "garrison_theodosius"
             ]
           }
         ]
@@ -111532,11 +111606,11 @@
             "overridden": true,
             "advertisedHero": "villain_dark_lord",
             "featuredFamilies": [
-              "恶棍家族",
-              "星落家族",
-              "杀手家族",
-              "吟游诗人家族",
-              "石像鬼家族"
+              "villains",
+              "circus",
+              "slayers",
+              "bard",
+              "gargoyle"
             ]
           },
           {
@@ -111548,11 +111622,11 @@
             "overridden": true,
             "advertisedHero": "kalevala_ilmarinen",
             "featuredFamilies": [
-              "渡鸦家族",
-              "恶狼家族",
-              "蛮荒地界家族",
-              "冥河家族",
-              "卡勒瓦拉家族"
+              "raven",
+              "wolf",
+              "abyss",
+              "styx",
+              "kalevala"
             ]
           }
         ]
@@ -112400,5 +112474,5 @@
       }
     ]
   },
-  "shopConfigId": 2367274288
+  "shopConfigId": 2160968460
 }

@@ -6276,7 +6276,7 @@ window.allHeroesExtra = [
         "skill_types": [
             "DoT Attackers",
             "Snipers",
-            "AoE Attackers (Hit-3)"
+            "Chain & Random Attackers"
         ],
         "heroId": "elemental_zengar",
         "baseAttack": 427,
@@ -33995,7 +33995,10 @@ window.allHeroesExtra = [
         "rarity": 3,
         "Release date": "2025-08-10",
         "AetherPower": "Rage",
-        "skill_types": [],
+        "skill_types": [
+            "AoE Attackers (Hit-3)",
+            "Bypassers"
+        ],
         "heroId": "dwarven_smasher_costume_glass",
         "baseAttack": 295,
         "baseDefense": 206,
@@ -34018,7 +34021,11 @@ window.allHeroesExtra = [
         "rarity": 4,
         "Release date": "2025-08-10",
         "AetherPower": "Special Boost",
-        "skill_types": [],
+        "skill_types": [
+            "Snipers",
+            "Bypassers",
+            "Dispellers"
+        ],
         "heroId": "royal_female_knight_costume_glass",
         "baseAttack": 331,
         "baseDefense": 300,
@@ -34041,7 +34048,14 @@ window.allHeroesExtra = [
         "rarity": 5,
         "Release date": "2025-08-09",
         "AetherPower": "Special Boost",
-        "skill_types": [],
+        "skill_types": [
+            "AoE Attackers (Hit-3)",
+            "Dispellers",
+            "Healers (Special)",
+            "DoT Attackers",
+            "Extra Damage Dealers",
+            "Healing Reducers"
+        ],
         "heroId": "fox_riverfang",
         "baseAttack": 621,
         "baseDefense": 588,
@@ -34058,7 +34072,11 @@ window.allHeroesExtra = [
         "rarity": 5,
         "Release date": "2025-08-12",
         "AetherPower": "Counterattack",
-        "skill_types": [],
+        "skill_types": [
+            "DoT Attackers",
+            "Snipers",
+            "Chain & Random Attackers"
+        ],
         "heroId": "elemental_zengar_costume_farmer",
         "baseAttack": 422,
         "baseDefense": 400,
@@ -34081,7 +34099,11 @@ window.allHeroesExtra = [
         "rarity": 3,
         "Release date": "2025-08-09",
         "AetherPower": "Heal Increase",
-        "skill_types": [],
+        "skill_types": [
+            "Health Boosters",
+            "Buffers (DEF)",
+            "Healing Reducers"
+        ],
         "heroId": "fox_nettletail",
         "baseAttack": 310,
         "baseDefense": 295,
@@ -34098,7 +34120,11 @@ window.allHeroesExtra = [
         "rarity": 3,
         "Release date": "2025-08-10",
         "AetherPower": "Attack Up",
-        "skill_types": [],
+        "skill_types": [
+            "DoT Attackers",
+            "Snipers",
+            "Bypassers"
+        ],
         "heroId": "orc_warrior_costume_glass",
         "baseAttack": 316,
         "baseDefense": 201,
@@ -34121,7 +34147,11 @@ window.allHeroesExtra = [
         "rarity": 4,
         "Release date": "2025-08-10",
         "AetherPower": "Gamble",
-        "skill_types": [],
+        "skill_types": [
+            "Buffers (ATK)",
+            "Reflectors",
+            "Negative Effects On Self Or Allies"
+        ],
         "heroId": "oriental_monkey_captain_costume_glass",
         "baseAttack": 306,
         "baseDefense": 316,
@@ -34144,7 +34174,11 @@ window.allHeroesExtra = [
         "rarity": 5,
         "Release date": "2025-08-10",
         "AetherPower": "Defense Up",
-        "skill_types": [],
+        "skill_types": [
+            "AoE Attackers (Hit-5)",
+            "Debuffers (ATK)",
+            "Bypassers"
+        ],
         "heroId": "exalted_female_statue_costume_glass",
         "baseAttack": 374,
         "baseDefense": 290,

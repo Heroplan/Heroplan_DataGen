@@ -1774,7 +1774,7 @@
           "sideAffected": "Enemies",
           "typeOfTarget": "NearToTargetMinor",
           "effectType": "Damage",
-          "powerMultiplierPerMil": 3000,
+          "powerMultiplierPerMil": 3300,
           "powerMultiplierIncrementPerLevelPerMil": 50
         },
         "maxLevel": 8,
@@ -1835,7 +1835,7 @@
             "turns": 4
           },
           {
-            "id": "ares_crit",
+            "id": "ares_crit_more",
             "sideAffected": "Allies",
             "statusTargetType": "NearToTarget",
             "turns": 4
@@ -3563,13 +3563,13 @@
           "sideAffected": "Enemies",
           "typeOfTarget": "Single",
           "effectType": "Damage",
-          "powerMultiplierPerMil": 4650,
+          "powerMultiplierPerMil": 5150,
           "powerMultiplierIncrementPerLevelPerMil": 50
         },
         "maxLevel": 8,
         "statusEffects": [
           {
-            "id": "crit_increase",
+            "id": "crit_gregorion",
             "sideAffected": "Allies",
             "statusTargetType": "All",
             "turns": 3
@@ -3588,7 +3588,7 @@
           "sideAffected": "Enemies",
           "typeOfTarget": "NearToTarget",
           "effectType": "Damage",
-          "powerMultiplierPerMil": 2650,
+          "powerMultiplierPerMil": 2950,
           "powerMultiplierIncrementPerLevelPerMil": 50
         },
         "maxLevel": 8,
@@ -10667,7 +10667,7 @@
           "sideAffected": "Enemies",
           "typeOfTarget": "NearToTarget",
           "effectType": "Damage",
-          "powerMultiplierPerMil": 2350,
+          "powerMultiplierPerMil": 2650,
           "powerMultiplierIncrementPerLevelPerMil": 50
         },
         "maxLevel": 8,
@@ -10703,7 +10703,7 @@
           "sideAffected": "Enemies",
           "typeOfTarget": "NearToTargetMinor",
           "effectType": "Damage",
-          "powerMultiplierPerMil": 2850,
+          "powerMultiplierPerMil": 3150,
           "powerMultiplierIncrementPerLevelPerMil": 50
         },
         "maxLevel": 8,
@@ -12239,7 +12239,7 @@
           "sideAffected": "Enemies",
           "typeOfTarget": "NearToTarget",
           "effectType": "Damage",
-          "powerMultiplierPerMil": 2500,
+          "powerMultiplierPerMil": 2800,
           "powerMultiplierIncrementPerLevelPerMil": 50
         },
         "maxLevel": 8,
@@ -13258,7 +13258,7 @@
           "sideAffected": "Enemies",
           "typeOfTarget": "All",
           "effectType": "Damage",
-          "powerMultiplierPerMil": 2300,
+          "powerMultiplierPerMil": 2600,
           "powerMultiplierIncrementPerLevelPerMil": 50
         },
         "maxLevel": 8,
@@ -17035,13 +17035,13 @@
           "sideAffected": "Enemies",
           "typeOfTarget": "All",
           "effectType": "Damage",
-          "powerMultiplierPerMil": 2350,
+          "powerMultiplierPerMil": 2650,
           "powerMultiplierIncrementPerLevelPerMil": 50
         },
         "maxLevel": 8,
         "statusEffects": [
           {
-            "id": "underwater_with_absorb_healing",
+            "id": "underwater_with_absorb_healing_klaern",
             "sideAffected": "Enemies",
             "statusTargetType": "All",
             "turns": 5
@@ -17890,7 +17890,7 @@
           "sideAffected": "Enemies",
           "typeOfTarget": "Single",
           "effectType": "Damage",
-          "powerMultiplierPerMil": 3450,
+          "powerMultiplierPerMil": 3650,
           "powerMultiplierIncrementPerLevelPerMil": 50
         },
         "maxLevel": 8,
@@ -26186,7 +26186,7 @@
           "sideAffected": "Enemies",
           "typeOfTarget": "Single",
           "effectType": "Damage",
-          "powerMultiplierPerMil": 4500,
+          "powerMultiplierPerMil": 5000,
           "powerMultiplierIncrementPerLevelPerMil": 50
         },
         "maxLevel": 8,
@@ -26361,7 +26361,7 @@
           "sideAffected": "Enemies",
           "typeOfTarget": "All",
           "effectType": "Damage",
-          "powerMultiplierPerMil": 2350,
+          "powerMultiplierPerMil": 2650,
           "powerMultiplierIncrementPerLevelPerMil": 50
         },
         "maxLevel": 8,
@@ -36529,7 +36529,7 @@
           "sideAffected": "Enemies",
           "typeOfTarget": "All",
           "effectType": "Damage",
-          "powerMultiplierPerMil": 2150,
+          "powerMultiplierPerMil": 2450,
           "powerMultiplierIncrementPerLevelPerMil": 50
         },
         "maxLevel": 8,
@@ -36855,7 +36855,7 @@
         "directEffect": {
           "sideAffected": "Enemies",
           "typeOfTarget": "Single",
-          "powerMultiplierPerMil": 3500,
+          "powerMultiplierPerMil": 4950,
           "powerMultiplierIncrementPerLevelPerMil": 50
         },
         "maxLevel": 8,
@@ -37726,7 +37726,10 @@
         "id": "alchemy_experiment",
         "directEffect": {
           "sideAffected": "Enemies",
-          "typeOfTarget": "All"
+          "typeOfTarget": "All",
+          "effectType": "Damage",
+          "powerMultiplierPerMil": 3150,
+          "powerMultiplierIncrementPerLevelPerMil": 50
         },
         "maxLevel": 8,
         "statusEffects": [
@@ -42306,6 +42309,14 @@
         "properties": [
           "damage_pluth",
           "increase_debuff_turns_all_enemies_pluth"
+        ],
+        "statusEffects": [
+          {
+            "id": "mana_regen_reduction_pluth",
+            "sideAffected": "Enemies",
+            "statusTargetType": "All",
+            "turns": 2
+          }
         ]
       },
       {
@@ -42914,7 +42925,7 @@
           "sideAffected": "Enemies",
           "typeOfTarget": "All",
           "effectType": "Damage",
-          "powerMultiplierPerMil": 2250,
+          "powerMultiplierPerMil": 2650,
           "powerMultiplierIncrementPerLevelPerMil": 50
         },
         "maxLevel": 8,
@@ -44023,7 +44034,7 @@
           "sideAffected": "Enemies",
           "typeOfTarget": "NearToTarget",
           "effectType": "Damage",
-          "powerMultiplierPerMil": 2750,
+          "powerMultiplierPerMil": 3000,
           "powerMultiplierIncrementPerLevelPerMil": 50
         },
         "maxLevel": 8,
@@ -44413,12 +44424,11 @@
         },
         "maxLevel": 8,
         "properties": [
+          "remove_all_debuffs_safe_single",
           "ice_strike_fimafeng"
         ],
-        "buffToRemove": "MinorDebuff",
         "buffToRemoveSideAffected": "Allies",
         "buffToRemoveTargetType": "Single",
-        "removeBuffsFirst": true,
         "statusEffects": [
           {
             "id": "stacking_mana_generation_fimafeng",
@@ -45206,7 +45216,7 @@
         },
         "maxLevel": 8,
         "properties": [
-          "ailments_to_buffs_caster",
+          "ailments_to_buffs_all_allies",
           "damage_zazha",
           "health_steal_boosted_zazha"
         ]
@@ -45747,13 +45757,13 @@
         },
         "maxLevel": 8,
         "properties": [
-          "ailments_to_buffs_nearby_allies"
+          "ailments_to_buffs_all_allies"
         ],
         "statusEffects": [
           {
             "id": "resist_mana_effecst_add_mana_elyssa",
             "sideAffected": "Allies",
-            "statusTargetType": "NearToTarget",
+            "statusTargetType": "All",
             "turns": 4
           }
         ]
@@ -45818,7 +45828,7 @@
         "properties": [
           "hp_recovery_first_bertha",
           "revive_bertha",
-          "ailments_to_buffs_caster"
+          "ailments_to_buffs_all_allies"
         ]
       },
       {
@@ -46215,7 +46225,7 @@
           "sideAffected": "Allies",
           "typeOfTarget": "All",
           "effectType": "Heal",
-          "powerMultiplierPerMil": 83,
+          "powerMultiplierPerMil": 130,
           "powerMultiplierIncrementPerLevelPerMil": 10
         },
         "maxLevel": 8,
@@ -55445,7 +55455,7 @@
       {
         "propertyType": "SecondaryDirectEffect",
         "id": "damage_pluth",
-        "powerMultiplierPerMil": 1550,
+        "powerMultiplierPerMil": 1800,
         "powerMultiplierIncrementPerLevelPerMil": 50,
         "effectType": "Damage",
         "targetType": "All",
@@ -56900,7 +56910,7 @@
       {
         "propertyType": "SecondaryDirectEffect",
         "id": "damage_all_lando",
-        "powerMultiplierPerMil": 3650,
+        "powerMultiplierPerMil": 4150,
         "powerMultiplierIncrementPerLevelPerMil": 50,
         "effectType": "Damage",
         "targetType": "All",
@@ -57524,5 +57534,5 @@
       }
     ]
   },
-  "specialsConfigId": 325536104
+  "specialsConfigId": 1500511166
 }

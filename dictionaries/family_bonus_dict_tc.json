@@ -109,7 +109,7 @@
   "Lunar Year Dragon bonus: {MULTIPLIERPERCENTCHANGE}% critical chance": "農曆龍年加成：{MULTIPLIERPERCENTCHANGE}%暴擊率",
   "{MULTIPLIERPERCENTCHANGE}% critical chance": "{MULTIPLIERPERCENTCHANGE}%暴擊率",
   "Replaces {TILESPERTURN} regular shields with same color as this Hero with Power Gems each turn. Only {MAXTILESONBOARD} Power Gems per element can be on the board at the same time.": "每回合用力量寶石，取代與此英雄相同顏色的{TILESPERTURN}普通護盾。僅同種元素的{MAXTILESONBOARD}力量寶石能同時置於面板上。",
-  "Each Special Skill dodged damages the attacker for {FIXEDVALUE} damage": "每次閃避特殊技能時，都會對攻擊者造成{1MEMBERFIXEDVALUE}/{2MEMBERSFIXEDVALUE}/{3MEMBERSFIXEDVALUE}點傷害。",
+  "Each Special Skill dodged damages the attacker for {FIXEDVALUE} damage": "每次閃避特殊技能時，都會對攻擊者造成{FIXEDVALUE}點傷害",
   "{MULTIPLIERPERCENTCHANGE}% defense": "{MULTIPLIERPERCENTCHANGE}%防禦",
   "Lunar Year Ox bonus: {MULTIPLIERPERCENTCHANGE}% defense": "農曆牛年加成：{MULTIPLIERPERCENTCHANGE}%防禦",
   "{CHANCE}% chance to cleanse most recent cleansable status ailment at the end of each turn": "有{CHANCE}%的機率能在每個回合結束時，淨化最近受到的可淨化狀態異常",

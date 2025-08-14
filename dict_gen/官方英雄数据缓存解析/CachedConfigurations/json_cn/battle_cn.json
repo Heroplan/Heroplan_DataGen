@@ -32052,7 +32052,7 @@
         "statusEffect": "FixedHealthRecovery",
         "id": "ares_regen",
         "buff": "MinorBuff",
-        "healthPoints": 145,
+        "healthPoints": 180,
         "healthPointsIncrementPerLevel": 10
       },
       {
@@ -37913,7 +37913,7 @@
         "statusEffect": "IncreasingCounterAttack",
         "id": "increasing_counter_attack_ares_costume",
         "buff": "MinorBuff",
-        "damageDeflectionPerMil": 790,
+        "damageDeflectionPerMil": 890,
         "damageDeflectionPerLevelPerMil": 30,
         "damageDeflectionIncrementPerTurnPerMil": 100,
         "damageDeflectionIncrementPerTurnPerLevelPerMil": 0,
@@ -38987,7 +38987,7 @@
         "statusEffect": "CritModifier",
         "id": "crit_increase_gregorion_costume",
         "buff": "MinorBuff",
-        "critIncrementPerMil": 260,
+        "critIncrementPerMil": 310,
         "incrementPerLevelPerMil": 20
       },
       {
@@ -39065,14 +39065,14 @@
         "statusEffect": "HealMultiplier",
         "id": "reduce_healing_cinisia",
         "buff": "MinorDebuff",
-        "healMultiplierPerMil": 750,
+        "healMultiplierPerMil": 650,
         "healMultiplierPerLevelPerMil": 206
       },
       {
         "statusEffect": "Bleeding",
         "id": "bleed_cinisia",
         "buff": "MinorDebuff",
-        "damageMultiplierPerMil": 200,
+        "damageMultiplierPerMil": 220,
         "damageMultiplierIncrementPerLevelPerMil": 5
       },
       {
@@ -44738,7 +44738,7 @@
             "powerMultiplierIncrementPerLevelPerMil": 50
           }
         ],
-        "activationChancePerMil": 500,
+        "activationChancePerMil": 550,
         "effectActivationTypes": [
           "EnemySpecial"
         ]
@@ -46297,7 +46297,7 @@
           {
             "typeOfTarget": "Random",
             "effectType": "Damage",
-            "powerMultiplierPerMil": 2650,
+            "powerMultiplierPerMil": 3150,
             "powerMultiplierIncrementPerLevelPerMil": 50
           }
         ],
@@ -46751,15 +46751,23 @@
         "statusEffect": "FixedHealthRecovery",
         "id": "health_boost_recovery_ares_costume",
         "buff": "MinorBuff",
-        "healthPoints": 123,
+        "healthPoints": 155,
         "healthPointsIncrementPerLevel": 10,
         "isHealthBoost": true
+      },
+      {
+        "statusEffect": "CritModifier",
+        "id": "ares_crit_more",
+        "buff": "MinorBuff",
+        "iconOverrideStatusEffectId": "ares_crit",
+        "critIncrementPerMil": 320,
+        "incrementPerLevelPerMil": 20
       },
       {
         "statusEffect": "AttackModifier",
         "id": "attack_buff_ithar",
         "buff": "MinorBuff",
-        "attackMultiplierPerMil": 1350,
+        "attackMultiplierPerMil": 1400,
         "attackMultiplierIncrementPerLevelPerMil": 0
       },
       {
@@ -48504,7 +48512,7 @@
         "removalTrigger": "DamageReceived",
         "receivedDamageMultiplierPerMil": 1660,
         "receivedDamageMultiplierIncrementPerLevelPerMil": 20,
-        "totalDamageNeededToWakeUp": 500
+        "totalDamageNeededToWakeUp": 750
       },
       {
         "statusEffect": "CritModifier",
@@ -49791,7 +49799,7 @@
         "statusEffect": "CounterAttack",
         "id": "counterattack_nithgaest",
         "buff": "MinorBuff",
-        "damageDeflectionPerMil": 1050,
+        "damageDeflectionPerMil": 1150,
         "damageDeflectionPerLevelPerMil": 50
       },
       {
@@ -50182,8 +50190,8 @@
             "sideAffected": "Allies",
             "effectTriggerRemovalReasons": [],
             "excludeEffectTriggerRemovalReasons": [],
-            "fixedPower": 160,
-            "fixedPowerIncrementPerLevel": 20
+            "fixedPower": 240,
+            "fixedPowerIncrementPerLevel": 30
           }
         ],
         "iconOverrideStatusEffectId": "health_boost_on_removal_atwood"
@@ -50388,7 +50396,7 @@
         "statusEffect": "Burn",
         "id": "burn_nithgaest",
         "buff": "MinorDebuff",
-        "damageMultiplierPerMil": 15,
+        "damageMultiplierPerMil": 25,
         "damageMultiplierIncrementPerLevelPerMil": 10
       },
       {
@@ -50996,8 +51004,8 @@
         "statusEffect": "FixedHealthRecovery",
         "id": "hp_recovery_nibbles",
         "buff": "MinorBuff",
-        "healthPoints": 140,
-        "healthPointsIncrementPerLevel": 10
+        "healthPoints": 170,
+        "healthPointsIncrementPerLevel": 20
       },
       {
         "statusEffect": "Poison",
@@ -51934,6 +51942,33 @@
         "iconOverrideStatusEffectId": "hp_recovery",
         "healthPoints": 200,
         "healthPointsIncrementPerLevel": 10
+      },
+      {
+        "statusEffect": "ManaGenerationModifier",
+        "id": "mana_regen_reduction_pluth",
+        "buff": "MinorDebuff",
+        "iconOverrideStatusEffectId": "mana_regen_reduction",
+        "manaGenerationMultiplierPerMil": 870,
+        "manaGenerationMultiplierIncrementPerLevelPerMil": 246
+      },
+      {
+        "statusEffect": "CritModifier",
+        "id": "crit_gregorion",
+        "buff": "MinorBuff",
+        "iconOverrideStatusEffectId": "ares_crit",
+        "critIncrementPerMil": 210,
+        "incrementPerLevelPerMil": 20
+      },
+      {
+        "statusEffect": "UnderWater",
+        "id": "underwater_with_absorb_healing_klaern",
+        "buff": "MinorDebuff",
+        "iconOverrideStatusEffectId": "underwater_with_absorb_healing",
+        "damageMultiplierPerMil": 84,
+        "damageMultiplierIncrementPerLevelPerMil": 3,
+        "additionalCasterSideEffect": "Heal",
+        "additionalCasterSideEffectPowerPerMil": 350,
+        "additionalCasterSideEffectTargetType": "Single"
       }
     ],
     "tileEnhancements": [
@@ -57689,7 +57724,7 @@
         "id": "league_heal_modifier_non_featured_family",
         "targets": "Single",
         "targetsSideAffected": "Allies",
-        "healMultiplierPerMil": 700
+        "healMultiplierPerMil": 650
       },
       {
         "passiveSkillType": "HealModifier",
@@ -57723,7 +57758,7 @@
         "targetsSideAffected": "Allies",
         "hasCustomText": true,
         "modifierStatType": "AccuracyMultiplier",
-        "powerMultiplierPerMil": 900
+        "powerMultiplierPerMil": 850
       },
       {
         "passiveSkillType": "StatModifierAgainstTarget",
@@ -57732,7 +57767,7 @@
         "targetsSideAffected": "Allies",
         "hasCustomText": true,
         "modifierStatType": "ReceivedDamageMultiplier",
-        "powerMultiplierPerMil": 850
+        "powerMultiplierPerMil": 800
       },
       {
         "passiveSkillType": "StatModifierAgainstTarget",
@@ -72623,15 +72658,15 @@
         "statMultipliers": [
           {
             "type": "AttackMultiplier",
-            "multiplierPerMil": 1500
+            "multiplierPerMil": 1800
           },
           {
             "type": "DefenseMultiplier",
-            "multiplierPerMil": 1500
+            "multiplierPerMil": 1800
           },
           {
             "type": "HealthMultiplier",
-            "multiplierPerMil": 1500
+            "multiplierPerMil": 1800
           }
         ],
         "extraPassiveSkillIds": [
@@ -72647,15 +72682,15 @@
         "statMultipliers": [
           {
             "type": "AttackMultiplier",
-            "multiplierPerMil": 1800
+            "multiplierPerMil": 2200
           },
           {
             "type": "DefenseMultiplier",
-            "multiplierPerMil": 1800
+            "multiplierPerMil": 2200
           },
           {
             "type": "HealthMultiplier",
-            "multiplierPerMil": 1800
+            "multiplierPerMil": 2200
           }
         ],
         "extraPassiveSkillIds": [
@@ -72671,15 +72706,15 @@
         "statMultipliers": [
           {
             "type": "AttackMultiplier",
-            "multiplierPerMil": 2400
+            "multiplierPerMil": 2700
           },
           {
             "type": "DefenseMultiplier",
-            "multiplierPerMil": 2400
+            "multiplierPerMil": 2700
           },
           {
             "type": "HealthMultiplier",
-            "multiplierPerMil": 2400
+            "multiplierPerMil": 2700
           }
         ],
         "extraPassiveSkillIds": [
@@ -76731,5 +76766,5 @@
       "SharedDamage"
     ]
   },
-  "battleConfigId": 4175771665
+  "battleConfigId": 3416127494
 }

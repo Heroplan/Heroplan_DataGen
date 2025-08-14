@@ -170,7 +170,7 @@
 "familybonuses.description.short.damage_gem_per_turn.match_damage","每回合用力量寶石，取代與此英雄相同顏色的{TILESPERTURN}普通護盾。僅同種元素的{MAXTILESONBOARD}力量寶石能同時置於面板上。"
 "familybonuses.description.short.damage_gem_per_turn.match_effect.directeffect.damage.all.enemies","每回合用力量寶石，取代與此英雄相同顏色的{TILESPERTURN}普通護盾。僅同種元素的{MAXTILESONBOARD}力量寶石能同時置於面板上。"
 "familybonuses.description.short.damage_gem_per_turn.match_effect.directeffect.damage.random.enemies","每回合用力量寶石，取代與此英雄相同顏色的{TILESPERTURN}普通護盾。僅同種元素的{MAXTILESONBOARD}力量寶石能同時置於面板上。"
-"familybonuses.description.short.damage_on_special_dodge_wild_cat","每次閃避特殊技能時，都會對攻擊者造成{1MEMBERFIXEDVALUE}/{2MEMBERSFIXEDVALUE}/{3MEMBERSFIXEDVALUE}點傷害。"
+"familybonuses.description.short.damage_on_special_dodge_wild_cat","每次閃避特殊技能時，都會對攻擊者造成{FIXEDVALUE}點傷害"
 "familybonuses.description.short.defense_multiplier","{MULTIPLIERPERCENTCHANGE}%防禦"
 "familybonuses.description.short.defense_multiplier_atlantis","{MULTIPLIERPERCENTCHANGE}%防禦"
 "familybonuses.description.short.defense_multiplier_classic","{MULTIPLIERPERCENTCHANGE}%防禦"

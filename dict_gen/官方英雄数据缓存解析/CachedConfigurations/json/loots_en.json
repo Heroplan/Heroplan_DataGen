@@ -23015,312 +23015,36 @@
         "id": "pvp_league_first_round_qualification_reward",
         "entities": [
           {
-            "type": "CurrentSeasonSummonToken",
+            "type": "Item",
+            "itemTypeResolver": {
+              "resolverType": "Fixed",
+              "itemType": "HeroLimitBreak"
+            },
             "amountResolver": {
+              "resolverType": "Fixed",
+              "amount": 2
+            },
+            "rarityResolver": {
+              "resolverType": "Fixed",
+              "rarity": 3
+            },
+            "additionalDrawCount": 1
+          },
+          {
+            "type": "TrainerCharacter",
+            "amountResolver": {
+              "resolverType": "Fixed",
+              "amount": 1
+            },
+            "rarityResolver": {
               "resolverType": "WeightedRandom",
-              "amounts": [
-                1,
-                2,
-                3
-              ],
               "weights": [
+                0,
                 50,
-                30,
-                20
-              ]
-            }
-          },
-          {
-            "type": "Item",
-            "itemTypeResolver": {
-              "resolverType": "Fixed",
-              "itemType": "ItemCrafting"
-            },
-            "rarityResolver": {
-              "resolverType": "WeightedRandom",
-              "weights": [
-                0,
-                59,
-                35,
-                4,
-                2
-              ]
-            }
-          },
-          {
-            "type": "Item",
-            "itemTypeResolver": {
-              "resolverType": "Fixed",
-              "itemType": "AscensionMaterial"
-            },
-            "rarityResolver": {
-              "resolverType": "WeightedRandom",
-              "weights": [
-                0,
-                49,
-                50,
-                1,
-                0
-              ]
-            }
-          },
-          {
-            "type": "Item",
-            "itemTypeResolver": {
-              "resolverType": "Fixed",
-              "itemType": "Battle"
-            },
-            "rarityResolver": {
-              "resolverType": "WeightedRandom",
-              "weights": [
-                0,
-                59,
-                35,
-                4,
-                2,
-                0
-              ]
-            }
-          },
-          {
-            "type": "Item",
-            "itemTypeResolver": {
-              "resolverType": "Fixed",
-              "itemType": "HeroEmblem"
-            },
-            "amountResolver": {
-              "resolverType": "Fixed",
-              "amount": 5
-            },
-            "rarityResolver": {
-              "resolverType": "Fixed",
-              "rarity": 4
-            }
-          },
-          {
-            "type": "Item",
-            "idResolver": {
-              "resolverType": "WeightedRandom",
-              "entityIds": [
-                "refill_food_tiny",
-                "refill_food_small"
-              ],
-              "weights": [
-                90,
-                10
-              ]
-            }
-          },
-          {
-            "type": "Item",
-            "idResolver": {
-              "resolverType": "WeightedRandom",
-              "entityIds": [
-                "lottery_basic",
-                "lottery_elite_troop",
-                "lottery_elite_hero"
-              ],
-              "weights": [
-                96,
-                3,
-                1
-              ]
-            }
-          }
-        ]
-      },
-      {
-        "id": "pvp_league_second_round_qualification_reward",
-        "entities": [
-          {
-            "type": "CurrentSeasonSummonToken",
-            "amountResolver": {
-              "resolverType": "WeightedRandom",
-              "amounts": [
-                2,
-                3,
-                5
-              ],
-              "weights": [
-                70,
-                20,
-                10
-              ]
-            }
-          },
-          {
-            "type": "Item",
-            "itemTypeResolver": {
-              "resolverType": "Fixed",
-              "itemType": "ItemCrafting"
-            },
-            "rarityResolver": {
-              "resolverType": "WeightedRandom",
-              "weights": [
-                0,
-                55,
-                35,
-                6,
-                4
+                50
               ]
             },
             "additionalDrawCount": 1
-          },
-          {
-            "type": "Item",
-            "itemTypeResolver": {
-              "resolverType": "Fixed",
-              "itemType": "AscensionMaterial"
-            },
-            "rarityResolver": {
-              "resolverType": "WeightedRandom",
-              "weights": [
-                0,
-                40,
-                40,
-                20,
-                0
-              ]
-            },
-            "additionalDrawCount": 1
-          },
-          {
-            "type": "Item",
-            "itemTypeResolver": {
-              "resolverType": "Fixed",
-              "itemType": "Battle"
-            },
-            "rarityResolver": {
-              "resolverType": "WeightedRandom",
-              "weights": [
-                0,
-                55,
-                35,
-                6,
-                4,
-                0
-              ]
-            },
-            "additionalDrawCount": 1
-          },
-          {
-            "type": "Item",
-            "itemTypeResolver": {
-              "resolverType": "Fixed",
-              "itemType": "HeroEmblem"
-            },
-            "amountResolver": {
-              "resolverType": "Fixed",
-              "amount": 10
-            },
-            "rarityResolver": {
-              "resolverType": "Fixed",
-              "rarity": 4
-            }
-          },
-          {
-            "type": "Item",
-            "idResolver": {
-              "resolverType": "WeightedRandom",
-              "entityIds": [
-                "refill_food_tiny",
-                "refill_food_small"
-              ],
-              "weights": [
-                80,
-                20
-              ]
-            }
-          },
-          {
-            "type": "Item",
-            "idResolver": {
-              "resolverType": "WeightedRandom",
-              "entityIds": [
-                "lottery_basic",
-                "lottery_elite_troop",
-                "lottery_elite_hero"
-              ],
-              "weights": [
-                92,
-                5,
-                3
-              ]
-            }
-          }
-        ]
-      },
-      {
-        "id": "pvp_league_third_round_qualification_reward",
-        "entities": [
-          {
-            "type": "CurrentSeasonSummonToken",
-            "amountResolver": {
-              "resolverType": "WeightedRandom",
-              "amounts": [
-                5,
-                10
-              ],
-              "weights": [
-                60,
-                40
-              ]
-            }
-          },
-          {
-            "type": "Item",
-            "itemTypeResolver": {
-              "resolverType": "Fixed",
-              "itemType": "ItemCrafting"
-            },
-            "rarityResolver": {
-              "resolverType": "WeightedRandom",
-              "weights": [
-                0,
-                53,
-                35,
-                8,
-                4
-              ]
-            },
-            "additionalDrawCount": 1
-          },
-          {
-            "type": "Item",
-            "itemTypeResolver": {
-              "resolverType": "Fixed",
-              "itemType": "AscensionMaterial"
-            },
-            "rarityResolver": {
-              "resolverType": "WeightedRandom",
-              "weights": [
-                0,
-                35,
-                40,
-                25,
-                0
-              ]
-            },
-            "additionalDrawCount": 1
-          },
-          {
-            "type": "Item",
-            "itemTypeResolver": {
-              "resolverType": "Fixed",
-              "itemType": "Battle"
-            },
-            "rarityResolver": {
-              "resolverType": "WeightedRandom",
-              "weights": [
-                0,
-                53,
-                35,
-                8,
-                4,
-                0
-              ]
-            },
-            "additionalDrawCount": 2
           },
           {
             "type": "Item",
@@ -23339,109 +23063,101 @@
           },
           {
             "type": "Item",
-            "idResolver": {
-              "resolverType": "WeightedRandom",
-              "entityIds": [
-                "refill_food_tiny",
-                "refill_food_small"
-              ],
-              "weights": [
-                70,
-                30
-              ]
+            "itemTypeResolver": {
+              "resolverType": "Fixed",
+              "itemType": "HeroEmblem"
+            },
+            "amountResolver": {
+              "resolverType": "Fixed",
+              "amount": 2
+            },
+            "rarityResolver": {
+              "resolverType": "Fixed",
+              "rarity": 5
             }
           },
           {
             "type": "Item",
+            "amountResolver": {
+              "resolverType": "Fixed",
+              "amount": 1
+            },
             "idResolver": {
               "resolverType": "WeightedRandom",
               "entityIds": [
-                "lottery_basic",
                 "lottery_elite_troop",
                 "lottery_elite_hero"
               ],
               "weights": [
-                88,
-                8,
-                4
+                90,
+                10
               ]
+            },
+            "additionalDrawCount": 1
+          },
+          {
+            "type": "Item",
+            "amountResolver": {
+              "resolverType": "Fixed",
+              "amount": 1
+            },
+            "idResolver": {
+              "resolverType": "Fixed",
+              "entityId": "refill_energy_pvp_full"
             }
           }
         ]
       },
       {
-        "id": "pvp_league_fourth_round_qualification_reward",
+        "id": "pvp_league_second_round_qualification_reward",
         "entities": [
           {
-            "type": "CurrentSeasonSummonToken",
+            "type": "Item",
+            "itemTypeResolver": {
+              "resolverType": "Fixed",
+              "itemType": "HeroLimitBreak"
+            },
             "amountResolver": {
-              "resolverType": "WeightedRandom",
-              "amounts": [
-                10,
-                20,
-                30
-              ],
-              "weights": [
-                50,
-                25,
-                25
-              ]
+              "resolverType": "Fixed",
+              "amount": 2
+            },
+            "rarityResolver": {
+              "resolverType": "Fixed",
+              "rarity": 3
+            },
+            "additionalDrawCount": 2
+          },
+          {
+            "type": "Item",
+            "itemTypeResolver": {
+              "resolverType": "Fixed",
+              "itemType": "HeroLimitBreak"
+            },
+            "amountResolver": {
+              "resolverType": "Fixed",
+              "amount": 2
+            },
+            "rarityResolver": {
+              "resolverType": "Fixed",
+              "rarity": 4
             }
           },
           {
-            "type": "Item",
-            "itemTypeResolver": {
+            "type": "TrainerCharacter",
+            "amountResolver": {
               "resolverType": "Fixed",
-              "itemType": "ItemCrafting"
+              "amount": 1
             },
             "rarityResolver": {
               "resolverType": "WeightedRandom",
               "weights": [
                 0,
-                51,
-                35,
-                8,
-                6
+                25,
+                50,
+                25
               ]
             },
-            "additionalDrawCount": 5
-          },
-          {
-            "type": "Item",
-            "itemTypeResolver": {
-              "resolverType": "Fixed",
-              "itemType": "AscensionMaterial"
-            },
-            "rarityResolver": {
-              "resolverType": "WeightedRandom",
-              "weights": [
-                0,
-                0,
-                55,
-                45,
-                0
-              ]
-            },
-            "additionalDrawCount": 5
-          },
-          {
-            "type": "Item",
-            "itemTypeResolver": {
-              "resolverType": "Fixed",
-              "itemType": "Battle"
-            },
-            "rarityResolver": {
-              "resolverType": "WeightedRandom",
-              "weights": [
-                0,
-                51,
-                35,
-                8,
-                6,
-                0
-              ]
-            },
-            "additionalDrawCount": 7
+            "additionalDrawCount": 2
           },
           {
             "type": "Item",
@@ -23451,45 +23167,292 @@
             },
             "amountResolver": {
               "resolverType": "Fixed",
-              "amount": 30
+              "amount": 20
             },
             "rarityResolver": {
               "resolverType": "Fixed",
               "rarity": 4
-            }
+            },
+            "additionalDrawCount": 1
           },
           {
             "type": "Item",
-            "idResolver": {
-              "resolverType": "WeightedRandom",
-              "entityIds": [
-                "refill_food_medium",
-                "refill_food_large",
-                "refill_food_giant"
-              ],
-              "weights": [
-                65,
-                25,
-                10
-              ]
-            }
+            "itemTypeResolver": {
+              "resolverType": "Fixed",
+              "itemType": "HeroEmblem"
+            },
+            "amountResolver": {
+              "resolverType": "Fixed",
+              "amount": 2
+            },
+            "rarityResolver": {
+              "resolverType": "Fixed",
+              "rarity": 5
+            },
+            "additionalDrawCount": 1
           },
           {
             "type": "Item",
+            "amountResolver": {
+              "resolverType": "Fixed",
+              "amount": 1
+            },
             "idResolver": {
               "resolverType": "WeightedRandom",
               "entityIds": [
-                "lottery_basic",
                 "lottery_elite_troop",
                 "lottery_elite_hero"
               ],
               "weights": [
-                86,
-                9,
-                5
+                90,
+                10
+              ]
+            },
+            "additionalDrawCount": 1
+          },
+          {
+            "type": "Item",
+            "amountResolver": {
+              "resolverType": "Fixed",
+              "amount": 2
+            },
+            "idResolver": {
+              "resolverType": "Fixed",
+              "entityId": "refill_energy_pvp_full"
+            }
+          }
+        ]
+      },
+      {
+        "id": "pvp_league_third_round_qualification_reward",
+        "entities": [
+          {
+            "type": "Item",
+            "itemTypeResolver": {
+              "resolverType": "Fixed",
+              "itemType": "HeroLimitBreak"
+            },
+            "amountResolver": {
+              "resolverType": "Fixed",
+              "amount": 2
+            },
+            "rarityResolver": {
+              "resolverType": "Fixed",
+              "rarity": 3
+            },
+            "additionalDrawCount": 3
+          },
+          {
+            "type": "Item",
+            "itemTypeResolver": {
+              "resolverType": "Fixed",
+              "itemType": "HeroLimitBreak"
+            },
+            "amountResolver": {
+              "resolverType": "Fixed",
+              "amount": 2
+            },
+            "rarityResolver": {
+              "resolverType": "Fixed",
+              "rarity": 4
+            },
+            "additionalDrawCount": 1
+          },
+          {
+            "type": "TrainerCharacter",
+            "amountResolver": {
+              "resolverType": "Fixed",
+              "amount": 1
+            },
+            "rarityResolver": {
+              "resolverType": "WeightedRandom",
+              "weights": [
+                0,
+                0,
+                50,
+                50
               ]
             },
             "additionalDrawCount": 3
+          },
+          {
+            "type": "Item",
+            "itemTypeResolver": {
+              "resolverType": "Fixed",
+              "itemType": "HeroEmblem"
+            },
+            "amountResolver": {
+              "resolverType": "Fixed",
+              "amount": 20
+            },
+            "rarityResolver": {
+              "resolverType": "Fixed",
+              "rarity": 4
+            },
+            "additionalDrawCount": 2
+          },
+          {
+            "type": "Item",
+            "itemTypeResolver": {
+              "resolverType": "Fixed",
+              "itemType": "HeroEmblem"
+            },
+            "amountResolver": {
+              "resolverType": "Fixed",
+              "amount": 2
+            },
+            "rarityResolver": {
+              "resolverType": "Fixed",
+              "rarity": 5
+            },
+            "additionalDrawCount": 2
+          },
+          {
+            "type": "Item",
+            "amountResolver": {
+              "resolverType": "Fixed",
+              "amount": 1
+            },
+            "idResolver": {
+              "resolverType": "WeightedRandom",
+              "entityIds": [
+                "lottery_elite_troop",
+                "lottery_elite_hero"
+              ],
+              "weights": [
+                90,
+                10
+              ]
+            },
+            "additionalDrawCount": 1
+          },
+          {
+            "type": "Item",
+            "amountResolver": {
+              "resolverType": "Fixed",
+              "amount": 3
+            },
+            "idResolver": {
+              "resolverType": "Fixed",
+              "entityId": "refill_energy_pvp_full"
+            }
+          }
+        ]
+      },
+      {
+        "id": "pvp_league_fourth_round_qualification_reward",
+        "entities": [
+          {
+            "type": "Item",
+            "itemTypeResolver": {
+              "resolverType": "Fixed",
+              "itemType": "HeroLimitBreak"
+            },
+            "amountResolver": {
+              "resolverType": "Fixed",
+              "amount": 2
+            },
+            "rarityResolver": {
+              "resolverType": "Fixed",
+              "rarity": 3
+            },
+            "additionalDrawCount": 4
+          },
+          {
+            "type": "Item",
+            "itemTypeResolver": {
+              "resolverType": "Fixed",
+              "itemType": "HeroLimitBreak"
+            },
+            "amountResolver": {
+              "resolverType": "Fixed",
+              "amount": 2
+            },
+            "rarityResolver": {
+              "resolverType": "Fixed",
+              "rarity": 4
+            },
+            "additionalDrawCount": 2
+          },
+          {
+            "type": "TrainerCharacter",
+            "amountResolver": {
+              "resolverType": "Fixed",
+              "amount": 1
+            },
+            "rarityResolver": {
+              "resolverType": "WeightedRandom",
+              "weights": [
+                0,
+                0,
+                25,
+                50,
+                25
+              ]
+            },
+            "additionalDrawCount": 4
+          },
+          {
+            "type": "Item",
+            "itemTypeResolver": {
+              "resolverType": "Fixed",
+              "itemType": "HeroEmblem"
+            },
+            "amountResolver": {
+              "resolverType": "Fixed",
+              "amount": 20
+            },
+            "rarityResolver": {
+              "resolverType": "Fixed",
+              "rarity": 4
+            },
+            "additionalDrawCount": 3
+          },
+          {
+            "type": "Item",
+            "itemTypeResolver": {
+              "resolverType": "Fixed",
+              "itemType": "HeroEmblem"
+            },
+            "amountResolver": {
+              "resolverType": "Fixed",
+              "amount": 2
+            },
+            "rarityResolver": {
+              "resolverType": "Fixed",
+              "rarity": 5
+            },
+            "additionalDrawCount": 3
+          },
+          {
+            "type": "Item",
+            "amountResolver": {
+              "resolverType": "Fixed",
+              "amount": 1
+            },
+            "idResolver": {
+              "resolverType": "WeightedRandom",
+              "entityIds": [
+                "lottery_elite_troop",
+                "lottery_elite_hero"
+              ],
+              "weights": [
+                90,
+                10
+              ]
+            },
+            "additionalDrawCount": 1
+          },
+          {
+            "type": "Item",
+            "amountResolver": {
+              "resolverType": "Fixed",
+              "amount": 4
+            },
+            "idResolver": {
+              "resolverType": "Fixed",
+              "entityId": "refill_energy_pvp_full"
+            }
           }
         ]
       },
@@ -40895,5 +40858,5 @@
       }
     ]
   },
-  "lootsConfigId": 3025046673
+  "lootsConfigId": 987246182
 }

@@ -1,546 +1,6 @@
 {
   "languageOverridesConfig": {
     "overrides": {
-      "Italian": {
-        "overrideEntries": [
-          {
-            "key": "familyeffect.statuseffect.long.statuseffectperturn.minor.stackinghealthgeneration.single.allies",
-            "text": "[#!]{CHANCE}%[#]/[#!]{2MEMBERSCHANCE}%[#]/[#!]{3MEMBERSCHANCE}%[#] di probabilità di ricevere la seguente iterazione al termine di ogni turno:\n[*][#!]Iterazione (Max: {MAXSTACK}):[#] l'evocatore recupera {HEAL} HP a ogni turno."
-          },
-          {
-            "key": "specials.v2.statuseffect.minor.healthboostonremoval.all.allies.onremoval.healthboost.single.allies",
-            "text": "Aumenta di {REMOVALEFFECT1FIXEDPOWER} la Salute di tutti gli alleati dopo {TURNS} turni, o immediatamente, se l'effetto viene rimosso prima del termine previsto. La Salute potenziata può superare gli HP massimi."
-          },
-          {
-            "key": "statuseffects.description.healthboostonremoval.onremoval.healthboost.single.allies",
-            "text": "Aumenta la Salute di [#!]{HEALTHBOOST}[#] dopo [#!]{TURNSLEFT}[#] turni, o immediatamente, se questo effetto viene rimosso o sostituito prima del termine previsto."
-          },
-          {
-            "key": "specials.v2.statuseffect.major.buildupdamageonremoval.all.allies.onremoval.damage.random.enemies.expiration",
-            "text": "Tutti gli alleati infliggono {DAMAGE} - {MAXDAMAGE} danni a un nemico casuale dopo {TURNS} turni, in base ai danni subiti dagli alleati mentre questo effetto era attivo. Questo effetto non può essere annullato."
-          },
-          {
-            "key": "specials.v2.statuseffect.major.ghost.single.allies.onremoval.expiration.crit_increase_chao_gai.all.allies",
-            "text": "L'evocatore assume la forma di Fantasma per {TURNS} turni. \n[*] Quando la forma di Fantasma si esaurisce:\n[*] Tutti gli alleati ottengono il {REMOVALEFFECT1STATUSEFFECT1CRIT}% di possibilità critica per {REMOVALEFFECT1STATUSEFFECT1TURNS} turni. Questo effetto non può essere annullato."
-          },
-          {
-            "key": "statuseffects.description.ghost.onremoval.expiration.crit_increase_chao_gai.all.allies",
-            "text": "Immune da attacchi normali, attacchi delle Abilità speciali, abilità passive che infliggono danni, effetti di stato e iterazioni, inclusi Crescita e Avvizzimento. Non può guadagnare mana.\nDopo [#!]{TURNSLEFT}[#] turni:\n[*] Tutti gli alleati ricevono il {STATUSEFFECT1CRIT}% di possibilità critica per {STATUSEFFECT1TURNS} turni. Questo effetto non può essere annullato."
-          },
-          {
-            "key": "specials.v2.property.removestatuseffects.minordebuff.all.allies.effectonremoval.addmana.single",
-            "text": "Annulla tutti i disturbi da tutti gli alleati e aumenta il mana di tutti gli alleati del {POWER}% per ogni disturbo annullato."
-          },
-          {
-            "key": "herocard.passive_skill.description.resist.alldefensemodifiers.defensewither.defensegrowth.allstatuseffectsandstacks",
-            "text": "Questo personaggio non è influenzato dagli effetti che aumentano o riducono la [#!]Difesa[#].\n\nQuesto include:\n[*] Le magie benefiche e i disturbi degli effetti di stato\n[*] Le iterazioni positive e negative\n[*] Gli effetti di Crescita e Avvizzimento"
-          },
-          {
-            "key": "button.proceed",
-            "text": "Procedi"
-          },
-          {
-            "key": "dialog.download_all.message",
-            "text": "Questo download è molto grande e potrebbe comportare costi aggiuntivi per le connessioni a consumo.\n\nConfermi?"
-          },
-          {
-            "key": "options.button.download_all_content",
-            "text": "Scarica tutti i contenuti"
-          },
-          {
-            "key": "options.label.download_all_content",
-            "text": "Avvia il download di tutti i contenuti di gioco. Usa questa opzione solo se riscontri frequenti problemi di connettività."
-          },
-          {
-            "key": "familybonuses.description.short.damage_on_special_dodge_wild_cat",
-            "text": "Ogni Abilità speciale schivata infligge all'attaccante [#!]{1MEMBERFIXEDVALUE}/{2MEMBERSFIXEDVALUE}/{3MEMBERSFIXEDVALUE} danni."
-          },
-          {
-            "key": "shop.offers.subtitle.harvester_hype_xp_info",
-            "text": "Da usare per ottenere un addestramento più efficace del 25% durante l'aumento di livello degli Eroi"
-          }
-        ]
-      },
-      "Russian": {
-        "overrideEntries": [
-          {
-            "key": "familyeffect.statuseffect.long.statuseffectperturn.minor.stackinghealthgeneration.single.allies",
-            "text": "[#!]{CHANCE} %[#]/[#!]{2MEMBERSCHANCE} %[#]/[#!]{3MEMBERSCHANCE} %[#] шанс получить в конце хода следующие складываемые эффекты:\n[*][#!]Складываемые (до: {MAXSTACK}):[#] Герой восстанавливает {HEAL} ОЗ каждый ход."
-          },
-          {
-            "key": "specials.v2.statuseffect.minor.healthboostonremoval.all.allies.onremoval.healthboost.single.allies",
-            "text": "Увеличивает здоровье всех союзников на {REMOVALEFFECT1FIXEDPOWER} спустя {TURNS} х. Если эффект снимается до истечения срока, то здоровье увеличивается немедленно. Повышенное здоровье может превысить макс. кол-во очков здоровья."
-          },
-          {
-            "key": "statuseffects.description.healthboostonremoval.onremoval.healthboost.single.allies",
-            "text": "Увеличивает здоровье на [#!]{HEALTHBOOST}[#] спустя [#!]{TURNSLEFT}[#] х. Если эффект снимается или заменяется до истечения срока, здоровье увеличивается немедленно."
-          },
-          {
-            "key": "specials.v2.statuseffect.major.buildupdamageonremoval.all.allies.onremoval.damage.random.enemies.expiration",
-            "text": "Все союзники наносят {DAMAGE}-{MAXDAMAGE} урона случайному врагу спустя {TURNS} х. в зависимости от урона, который получили союзники, пока этот эффект был активен. Этот эффект нельзя снять."
-          },
-          {
-            "key": "specials.v2.statuseffect.major.ghost.single.allies.onremoval.expiration.crit_increase_chao_gai.all.allies",
-            "text": "Герой переходит в форму призрака на {TURNS} х. \n[*] Когда форма призрака заканчивается:\n[*] Все союзники получают {REMOVALEFFECT1STATUSEFFECT1CRIT} % вероятности критического удара на {REMOVALEFFECT1STATUSEFFECT1TURNS} х. Этот эффект нельзя снять."
-          },
-          {
-            "key": "statuseffects.description.ghost.onremoval.expiration.crit_increase_chao_gai.all.allies",
-            "text": "Иммунитет к обычным атакам, атакам особыми навыками, наносящим урон пассивным способностям, эффектам статуса и складываемым эффектам (включая рост и увядание). Невозможно получать ману. \nСпустя [#!]{TURNSLEFT}[#] х.: \n[*]Все союзники получают {STATUSEFFECT1CRIT} % вероятности критического удара на {STATUSEFFECT1TURNS} х. Этот эффект нельзя снять."
-          },
-          {
-            "key": "specials.v2.property.removestatuseffects.minordebuff.all.allies.effectonremoval.addmana.single",
-            "text": "Очищает всех союзников от всех недугов и увеличивает их ману на {POWER} % за каждый очищенный недуг."
-          },
-          {
-            "key": "herocard.passive_skill.description.resist.alldefensemodifiers.defensewither.defensegrowth.allstatuseffectsandstacks",
-            "text": "Этот персонаж не подвержен эффектам, усиливающим или уменьшающим [#!]защиту[#].\n\nВ это число входят\n[*] усиления эффектов статуса и недугов\n[*] положительные и отрицательные эффекты \n[*] эффекты роста и увядания"
-          },
-          {
-            "key": "button.proceed",
-            "text": "Продолжить"
-          },
-          {
-            "key": "dialog.download_all.message",
-            "text": "Объем загружаемых данных слишком велик, что может вызвать дополнительные траты в условиях ограниченного трафика. \n\nВы уверены, что хотите продолжить?"
-          },
-          {
-            "key": "options.button.download_all_content",
-            "text": "Загрузить все данные"
-          },
-          {
-            "key": "options.label.download_all_content",
-            "text": "Инициирует загрузку всего игрового контента. Используйте только в тех случаях, если испытываете частые проблемы с подключением."
-          },
-          {
-            "key": "familybonuses.description.short.damage_on_special_dodge_wild_cat",
-            "text": "За каждое уклонение от особого навыка атакующий получает [#!]{1MEMBERFIXEDVALUE}/{2MEMBERSFIXEDVALUE}/{3MEMBERSFIXEDVALUE} урона."
-          },
-          {
-            "key": "shop.offers.subtitle.harvester_hype_xp_info",
-            "text": "Используйте, чтобы обучение героев стало на 25 % эффективнее."
-          }
-        ]
-      },
-      "Polish": {
-        "overrideEntries": [
-          {
-            "key": "familyeffect.statuseffect.long.statuseffectperturn.minor.stackinghealthgeneration.single.allies",
-            "text": "[#!]{CHANCE}%[#]/[#!]{2MEMBERSCHANCE}%[#]/[#!]{3MEMBERSCHANCE}%[#] szans na otrzymanie następujących kumulacji na koniec każdej tury:\n[*][#!]Kumulacja (maks.: {MAXSTACK}):[#] inicjator odzyskuje {HEAL} PŻ w każdej turze."
-          },
-          {
-            "key": "specials.v2.statuseffect.minor.healthboostonremoval.all.allies.onremoval.healthboost.single.allies",
-            "text": "Wzmacnia zdrowie wszystkich sojuszników o {REMOVALEFFECT1FIXEDPOWER} pkt. po upływie {TURNS} tur lub natychmiast, jeśli ten efekt zostanie zdjęty, zanim upłynie czas jego trwania. Wzmocnione zdrowie może przekroczyć maks. PŻ."
-          },
-          {
-            "key": "statuseffects.description.healthboostonremoval.onremoval.healthboost.single.allies",
-            "text": "Wzmacnia zdrowie o [#!]{HEALTHBOOST}[#] po upływie [#!]{TURNSLEFT}[#] tur lub natychmiast, jeśli efekt zostanie usunięty lub zastąpiony, zanim upłynie czas jego trwania."
-          },
-          {
-            "key": "specials.v2.statuseffect.major.buildupdamageonremoval.all.allies.onremoval.damage.random.enemies.expiration",
-            "text": "Wszyscy sojusznicy zadają {DAMAGE} - {MAXDAMAGE} pkt. obrażeń losowemu wrogowi po upływie {TURNS} tur, w zależności od obrażeń otrzymanych przez sojuszników, gdy ten efekt był aktywny. Odwołanie tego efektu nie jest możliwe."
-          },
-          {
-            "key": "specials.v2.statuseffect.major.ghost.single.allies.onremoval.expiration.crit_increase_chao_gai.all.allies",
-            "text": "Rzucający przeobraża się w ducha na okres {TURNS} tur. \n[*] Gdy postać ducha dobiega końca:\n[*] Wszyscy sojusznicy zyskują {REMOVALEFFECT1STATUSEFFECT1CRIT}% szans na trafienie krytyczne na okres {REMOVALEFFECT1STATUSEFFECT1TURNS} tur. Odwołanie tego efektu nie jest możliwe."
-          },
-          {
-            "key": "statuseffects.description.ghost.onremoval.expiration.crit_increase_chao_gai.all.allies",
-            "text": "Odporność na ataki normalne, ataki z użyciem umiejętności specjalnej, pasywne efekty zadające obrażenia, efekty ze statusu i kumulacje, w tym wzrost i suszę. Nie może zyskiwać many. \nPo upływie [#!]{TURNSLEFT}[#] tur: \n[*]Wszyscy sojusznicy zyskują {STATUSEFFECT1CRIT}% szans na trafienie krytyczne na okres {STATUSEFFECT1TURNS} tur. Odwołanie tego efektu nie jest możliwe."
-          },
-          {
-            "key": "specials.v2.property.removestatuseffects.minordebuff.all.allies.effectonremoval.addmana.single",
-            "text": "Oczyszcza wszystkich sojuszników ze wszystkich dolegliwości ze statusu i zwiększa ich manę o {POWER}% za każdą oczyszczoną dolegliwość."
-          },
-          {
-            "key": "herocard.passive_skill.description.resist.alldefensemodifiers.defensewither.defensegrowth.allstatuseffectsandstacks",
-            "text": "Na tę postać nie wpływają efekty zmniejszające bądź zwiększające [#!]obronę[#].\n\nObejmuje to \n[*] wzmocnienia i dolegliwości ze statusu\n[*], pozytywne i negatywne kumulacje\n[*] oraz efekty wzrostu i suszy."
-          },
-          {
-            "key": "button.proceed",
-            "text": "Kontynuuj"
-          },
-          {
-            "key": "dialog.download_all.message",
-            "text": "Plik do pobrania jest sporych rozmiarów, więc pobieranie może się wiązać z poniesieniem dodatkowych opłat za połączenia taryfowe.\n\nCzy na pewno chcesz pobrać plik?"
-          },
-          {
-            "key": "options.button.download_all_content",
-            "text": "Pobierz całą zawartość"
-          },
-          {
-            "key": "options.label.download_all_content",
-            "text": "Rozpocznie się pobieranie całej zawartości gry. Korzystaj z tej funkcji tylko wtedy, gdy masz częste problemy z połączeniem."
-          },
-          {
-            "key": "familybonuses.description.short.damage_on_special_dodge_wild_cat",
-            "text": "Każde uniknięcie umiejętności specjalnej zadaje atakującemu [#!]{1MEMBERFIXEDVALUE}/{2MEMBERSFIXEDVALUE}/{3MEMBERSFIXEDVALUE} pkt. obrażeń."
-          },
-          {
-            "key": "shop.offers.subtitle.harvester_hype_xp_info",
-            "text": "Użyj, aby szkolenie bohaterów podczas zwiększania poziomu było o 25% skuteczniejsze"
-          }
-        ]
-      },
-      "ChineseTraditional": {
-        "overrideEntries": [
-          {
-            "key": "familyeffect.statuseffect.long.statuseffectperturn.minor.stackinghealthgeneration.single.allies",
-            "text": "[#!]{CHANCE}%[#]/[#!]{2MEMBERSCHANCE}%[#]/[#!]{3MEMBERSCHANCE}%[#]的機率可在每回合結束時收到下列疊加：\n[*][#!]疊加（上限：{MAXSTACK}）：[#]施法者每個回合恢復{HEAL}生命值。"
-          },
-          {
-            "key": "specials.v2.statuseffect.minor.healthboostonremoval.all.allies.onremoval.healthboost.single.allies",
-            "text": "所有盟友在{TURNS}個回合後獲得生命值加成{REMOVALEFFECT1FIXEDPOWER}點生命值。若效果在持續時間結束前移除，則會立即恢復。生命值加成可超越最大生命值。"
-          },
-          {
-            "key": "statuseffects.description.healthboostonremoval.onremoval.healthboost.single.allies",
-            "text": "[#!]{TURNSLEFT}[#]個回合後，獲得[#!]{HEALTHBOOST}[#]點生命值加成，若此效果在持續時間結束前遭移除或被取代，則立刻生效。"
-          },
-          {
-            "key": "specials.v2.statuseffect.major.buildupdamageonremoval.all.allies.onremoval.damage.random.enemies.expiration",
-            "text": "此效果啟用時，將根據盟友所受到的傷害，在{TURNS}個回合後由所有盟友對一名隨機敵人造成{DAMAGE} - {MAXDAMAGE}點傷害。此效果無法驅散。"
-          },
-          {
-            "key": "specials.v2.statuseffect.major.ghost.single.allies.onremoval.expiration.crit_increase_chao_gai.all.allies",
-            "text": "施法者轉變為幽靈型態，持續{TURNS}個回合。 \n[*] 當幽靈形態期間結束時：\n[*] 所有盟友獲得{REMOVALEFFECT1STATUSEFFECT1CRIT}%暴擊率，持續{REMOVALEFFECT1STATUSEFFECT1TURNS}回合。此效果無法驅散。"
-          },
-          {
-            "key": "statuseffects.description.ghost.onremoval.expiration.crit_increase_chao_gai.all.allies",
-            "text": "免疫普通攻擊、特殊技能攻擊、會造成傷害的被動、狀態效果和疊加；包括成長和枯萎。無法獲得法力。\n經過[#!]{TURNSLEFT}[#]回合後：\n[*]所有盟友獲得{STATUSEFFECT1CRIT}%暴擊率，持續{STATUSEFFECT1TURNS}個回合。此效果無法驅散。"
-          },
-          {
-            "key": "specials.v2.property.removestatuseffects.minordebuff.all.allies.effectonremoval.addmana.single",
-            "text": "淨化所有盟友的所有狀態異常，根據每個淨化的異常，提升所有盟友的法力{POWER}%。"
-          },
-          {
-            "key": "herocard.passive_skill.description.resist.alldefensemodifiers.defensewither.defensegrowth.allstatuseffectsandstacks",
-            "text": "此角色不受增加或減少[#!]防禦[#]的效果影響。\n\n這包括\n[*]狀態效果增益以及異常\n[*]正面與負面疊加\n[*]成長和枯萎效果"
-          },
-          {
-            "key": "button.proceed",
-            "text": "繼續"
-          },
-          {
-            "key": "dialog.download_all.message",
-            "text": "此下載非常大，可能會對計量連接產生額外費用。\n\n你確定嗎?"
-          },
-          {
-            "key": "options.button.download_all_content",
-            "text": "下載所有內容"
-          },
-          {
-            "key": "options.label.download_all_content",
-            "text": "開始下載所有遊戲內容。僅在遇到頻繁連接問題時使用此選項。"
-          },
-          {
-            "key": "familybonuses.description.short.damage_on_special_dodge_wild_cat",
-            "text": "每次閃避特殊技能時，都會對攻擊者造成[#!]{1MEMBERFIXEDVALUE}/{2MEMBERSFIXEDVALUE}/{3MEMBERSFIXEDVALUE}點傷害。"
-          },
-          {
-            "key": "shop.offers.subtitle.harvester_hype_xp_info",
-            "text": "用於在升級英雄時獲取+25%訓練效果"
-          }
-        ]
-      },
-      "Korean": {
-        "overrideEntries": [
-          {
-            "key": "familyeffect.statuseffect.long.statuseffectperturn.minor.stackinghealthgeneration.single.allies",
-            "text": "[#!]{CHANCE}%[#]/[#!]{2MEMBERSCHANCE}%[#]/[#!]{3MEMBERSCHANCE}%[#] 확률로 턴 종료 시 다음 중첩을 받습니다:\n[*][#!]중첩 (최대: {MAXSTACK}):[#] 시전자가 턴마다 {HEAL} HP를 회복합니다."
-          },
-          {
-            "key": "specials.v2.statuseffect.minor.healthboostonremoval.all.allies.onremoval.healthboost.single.allies",
-            "text": "모든 아군이 {TURNS}턴 후 {REMOVALEFFECT1FIXEDPOWER} HP를 받거나, 지속 시간이 종료되기 전에 효과가 제거된 경우에는 즉시 받습니다. 높아진 HP는 최대 HP를 초과할 수 있습니다."
-          },
-          {
-            "key": "statuseffects.description.healthboostonremoval.onremoval.healthboost.single.allies",
-            "text": "[#!]{TURNSLEFT}[#]턴 후, 모든 아군이 [#!]{HEALTHBOOST}[#] HP를 받거나, 지속 시간이 종료되기 전에 이 효과가 제거 또는 교체된 경우에는 즉시 받습니다."
-          },
-          {
-            "key": "specials.v2.statuseffect.major.buildupdamageonremoval.all.allies.onremoval.damage.random.enemies.expiration",
-            "text": "이 효과가 지속되는 동안에는 아군이 받은 피해에 근거하여, {TURNS}턴 후에 모든 아군이 무작위 적에게 {DAMAGE} - {MAXDAMAGE} 피해를 줍니다. 이 효과는 해제할 수 없습니다."
-          },
-          {
-            "key": "specials.v2.statuseffect.major.ghost.single.allies.onremoval.expiration.crit_increase_chao_gai.all.allies",
-            "text": "시전자가 {TURNS}턴 동안 유령 형태로 변합니다. \n[*] 유령 형태가 종료 후:\n[*] 모든 아군이 {REMOVALEFFECT1STATUSEFFECT1TURNS}턴 동안 {REMOVALEFFECT1STATUSEFFECT1CRIT}% 치명타 확률을 얻습니다. 이 효과는 해제할 수 없습니다."
-          },
-          {
-            "key": "statuseffects.description.ghost.onremoval.expiration.crit_increase_chao_gai.all.allies",
-            "text": "일반 공격, 특수 기술 공격, 피해 패시브 스킬, 상태 효과, 중첩에 면역이며 성장과 시들기에도 면역입니다. 마나를 획득할 수 없습니다. \n[#!]{TURNSLEFT}[#] 턴 후: \n[*]모든 아군이 {STATUSEFFECT1CRIT}% 치명타 확률을 {STATUSEFFECT1TURNS}턴 동안 받습니다. 이 효과는 해제할 수 없습니다."
-          },
-          {
-            "key": "specials.v2.property.removestatuseffects.minordebuff.all.allies.effectonremoval.addmana.single",
-            "text": "모든 아군의 모든 상태 이상을 정화하고, 치유된 상태 이상 하나당 모든 아군의 마나를 {POWER}%만큼 증가시킵니다."
-          },
-          {
-            "key": "herocard.passive_skill.description.resist.alldefensemodifiers.defensewither.defensegrowth.allstatuseffectsandstacks",
-            "text": "이 캐릭터는 [#!]방어력[#]을 증가 또는 감소시키는 효과의 영향을 받지 않습니다.\n\n여기에는 다음이 포함됩니다\n[*] 상태 효과 버프와 질병\n[*] 플러스 및 마이너스 스택\n[*] 쇠퇴와 성장 효과"
-          },
-          {
-            "key": "button.proceed",
-            "text": "진행"
-          },
-          {
-            "key": "dialog.download_all.message",
-            "text": "이 다운로드 파일은 크기가 매우 크며, 계량 연결의 경우 추가 요금이 부과될 수 있습니다.\n\n정말로 계속하시겠습니까?"
-          },
-          {
-            "key": "options.button.download_all_content",
-            "text": "모든 콘텐츠 다운로드"
-          },
-          {
-            "key": "options.label.download_all_content",
-            "text": "모든 게임 콘텐츠 다운로드를 시작합니다. 잦은 연결 문제를 경험하는 경우에만 이 옵션을 사용하세요."
-          },
-          {
-            "key": "familybonuses.description.short.damage_on_special_dodge_wild_cat",
-            "text": "특수 스킬을 회피할 때마다 공격자에게 [#!]{1MEMBERFIXEDVALUE}/{2MEMBERSFIXEDVALUE}/{3MEMBERSFIXEDVALUE} 피해를 입힙니다."
-          },
-          {
-            "key": "shop.offers.subtitle.harvester_hype_xp_info",
-            "text": "사용하면 영웅 레벨을 올릴 때 훈련 효과가 25% 상승합니다"
-          }
-        ]
-      },
-      "German": {
-        "overrideEntries": [
-          {
-            "key": "familyeffect.statuseffect.long.statuseffectperturn.minor.stackinghealthgeneration.single.allies",
-            "text": "[#!]{CHANCE} %[#]/[#!]{2MEMBERSCHANCE} %[#]/[#!]{3MEMBERSCHANCE} %[#] Chance auf die folgenden Stapel am Ende jeder Runde:\n[*][#!]Stapel (Max.: {MAXSTACK}):[#] Der Wirker stellt {HEAL} LP jede Runde wieder her."
-          },
-          {
-            "key": "specials.v2.statuseffect.minor.healthboostonremoval.all.allies.onremoval.healthboost.single.allies",
-            "text": "Das Leben aller Verbündeten wird nach {TURNS} Runden oder sofort, wenn der Effekt vor Ablauf der Dauer entfernt wird, um  {REMOVALEFFECT1FIXEDPOWER} Leben verstärkt. Das verstärkte Leben kann die max. LP übersteigen."
-          },
-          {
-            "key": "statuseffects.description.healthboostonremoval.onremoval.healthboost.single.allies",
-            "text": "Verstärkt das Leben sofort oder nach [#!]{TURNSLEFT}[#] Zügen, wenn der Effekt vor Ablauf der Dauer entfernt wird, um [#!]{HEALTHBOOST}[#]."
-          },
-          {
-            "key": "specials.v2.statuseffect.major.buildupdamageonremoval.all.allies.onremoval.damage.random.enemies.expiration",
-            "text": "Alle Verbündeten verursachen {DAMAGE}–{MAXDAMAGE} Schaden an einem zufälligen Gegner nach {TURNS} Zügen, basierend auf dem Schaden, den Verbündete erlitten haben, während dieser Effekt aktiv war. Dieser Effekt kann nicht gebannt werden."
-          },
-          {
-            "key": "specials.v2.statuseffect.major.ghost.single.allies.onremoval.expiration.crit_increase_chao_gai.all.allies",
-            "text": "Der Wirker wechselt für {TURNS} Züge in die Geisterform.\n[*] Wenn die Geist-Form abläuft:\n[*] Alle Verbündeten erhalten für {REMOVALEFFECT1STATUSEFFECT1TURNS} Züge {REMOVALEFFECT1STATUSEFFECT1CRIT} % Chance auf kritische Treffer. Dieser Effekt kann nicht gebannt werden."
-          },
-          {
-            "key": "statuseffects.description.ghost.onremoval.expiration.crit_increase_chao_gai.all.allies",
-            "text": "Immun gegen normale Angriffe, Spezialfähigkeiten, Schaden verursachende passive Fähigkeiten, Statuseffekte und Steigerungen, einschließlich Wachstum und Verwelken. Kann kein Mana erhalten. \nNach [#!]{TURNSLEFT}[#] Zügen: \n[*]Alle Verbündeten erhalten {STATUSEFFECT1CRIT} % Chance auf kritische Treffer für {STATUSEFFECT1TURNS} Züge. Dieser Effekt kann nicht gebannt werden."
-          },
-          {
-            "key": "specials.v2.property.removestatuseffects.minordebuff.all.allies.effectonremoval.addmana.single",
-            "text": "Reinigt alle Statusleiden aller Verbündeten und erhöht das Mana aller Verbündeten um {POWER} % für jedes gereinigte Statusleiden."
-          },
-          {
-            "key": "herocard.passive_skill.description.resist.alldefensemodifiers.defensewither.defensegrowth.allstatuseffectsandstacks",
-            "text": "Dieser Charakter wird nicht von Effekten beeinflusst, die die [#!]Verteidigung[#] erhöhen oder verringern.\n\nDazu gehören \n[*] Statusleiden und -stärkungen,\n[*] positive und negative Steigerungen sowie \n[*] Verwelkungs- und Wachstumseffekte."
-          },
-          {
-            "key": "button.proceed",
-            "text": "Fortfahren"
-          },
-          {
-            "key": "dialog.download_all.message",
-            "text": "Dieser Download ist ziemlich groß und kann bei Verbindungen mit Datenvolumen zusätzliche Kosten verursachen. Bist du sicher?"
-          },
-          {
-            "key": "options.button.download_all_content",
-            "text": "Alle Inhalte herunterladen"
-          },
-          {
-            "key": "options.label.download_all_content",
-            "text": "Startet den Download für alle Spielinhalte. Benutz das nur, wenn du oft Probleme mit der Verbindung hast."
-          },
-          {
-            "key": "familybonuses.description.short.damage_on_special_dodge_wild_cat",
-            "text": "Jede ausgewichene Spezialfähigkeit fügt dem Angreifer [#!]{1MEMBERFIXEDVALUE}/{2MEMBERSFIXEDVALUE}/{3MEMBERSFIXEDVALUE} Schaden zu."
-          },
-          {
-            "key": "shop.offers.subtitle.harvester_hype_xp_info",
-            "text": "Nutze diese Funktion, um beim Aufwerten von Helden +25 % effektiveres Training zu erhalten"
-          }
-        ]
-      },
-      "Japanese": {
-        "overrideEntries": [
-          {
-            "key": "familyeffect.statuseffect.long.statuseffectperturn.minor.stackinghealthgeneration.single.allies",
-            "text": "各ターン終了時に[#!]{CHANCE}%[#]/[#!]{2MEMBERSCHANCE}%[#]/[#!]{3MEMBERSCHANCE}%[#]の確率で以下の累積を追加する：\n[*][#!]累積効果(最大：{MAXSTACK}):[#]術者のHPがターン毎に{HEAL}回復する。"
-          },
-          {
-            "key": "specials.v2.statuseffect.minor.healthboostonremoval.all.allies.onremoval.healthboost.single.allies",
-            "text": "{TURNS}ターン後に、仲間全員のライフが{REMOVALEFFECT1FIXEDPOWER}ブーストされる。前述のターン終了前にこの効果が消去されると、その時点でライフが付与される。ライフ値が最大HPを超えた場合は、一時的に最大HP値が増加する。"
-          },
-          {
-            "key": "statuseffects.description.healthboostonremoval.onremoval.healthboost.single.allies",
-            "text": "[#!]{TURNSLEFT}[#]ターン後に、仲間全員のライフが[#!]{HEALTHBOOST}[#]ブーストされる。前述のターン終了前にこの効果が消去されると、その時点でライフが付与される。"
-          },
-          {
-            "key": "specials.v2.statuseffect.major.buildupdamageonremoval.all.allies.onremoval.damage.random.enemies.expiration",
-            "text": "{TURNS}ターン後に、この効果が発動中に仲間が受けたダメージに基づいて、仲間全員が{DAMAGE}-{MAXDAMAGE}のダメージをランダムな敵1体に与える。この効果は解除できない。"
-          },
-          {
-            "key": "specials.v2.statuseffect.major.ghost.single.allies.onremoval.expiration.crit_increase_chao_gai.all.allies",
-            "text": "{TURNS}ターンの間、術者がゴースト形態になる。\n[*]ゴースト形態が終了すると：\n[*]{REMOVALEFFECT1STATUSEFFECT1TURNS}ターンの間、味方全員のクリティカル攻撃成功率が{REMOVALEFFECT1STATUSEFFECT1CRIT}%になる。この効果は解除できない。"
-          },
-          {
-            "key": "statuseffects.description.ghost.onremoval.expiration.crit_increase_chao_gai.all.allies",
-            "text": "通常攻撃、特殊スキル攻撃、ダメージ付きのパッシブ、ステータス効果、累積効果を無効にする。これには成長効果や弱体化も含まれる。マナも獲得できなくなる。\n[#!]{TURNSLEFT}[#]ターン後：\n{STATUSEFFECT1TURNS}ターンの間、仲間全員のクリティカル攻撃を与える確率が{STATUSEFFECT1CRIT}%になる。この効果は解除できない。"
-          },
-          {
-            "key": "specials.v2.property.removestatuseffects.minordebuff.all.allies.effectonremoval.addmana.single",
-            "text": "仲間全員のステータス異常を浄化する。ステータス異常を1つ浄化するごとに仲間全員のマナが{POWER}%上昇する。"
-          },
-          {
-            "key": "herocard.passive_skill.description.resist.alldefensemodifiers.defensewither.defensegrowth.allstatuseffectsandstacks",
-            "text": "このキャラクターは[#!]防御力[#]の増減に影響するステータス効果を無効化する。\n\nこれには\n[*]ステータス効果バフやステータス異常、\n[*]プラスやマイナスの累積、\n[*]弱化および成長効果を含む。"
-          },
-          {
-            "key": "button.proceed",
-            "text": "進む"
-          },
-          {
-            "key": "dialog.download_all.message",
-            "text": "このダウンロードコンテンツは非常に大容量のため、追加の通信料がかかる場合があります。\n\n本当によろしいですか？"
-          },
-          {
-            "key": "options.button.download_all_content",
-            "text": "すべてのコンテンツをダウンロード"
-          },
-          {
-            "key": "options.label.download_all_content",
-            "text": "すべてのゲームコンテンツのダウンロードを開始します。頻繁に接続に関する問題が発生する場合のみ、このオプションを使用してください。"
-          },
-          {
-            "key": "familybonuses.description.short.damage_on_special_dodge_wild_cat",
-            "text": "特殊スキルを回避するごとに攻撃者に[#!]{1MEMBERFIXEDVALUE}/{2MEMBERSFIXEDVALUE}/{3MEMBERSFIXEDVALUE}ダメージを与える。"
-          },
-          {
-            "key": "shop.offers.subtitle.harvester_hype_xp_info",
-            "text": "英雄をレベルアップする際に使用すると、+25%効果的に訓練できる"
-          }
-        ]
-      },
-      "Swedish": {
-        "overrideEntries": [
-          {
-            "key": "familyeffect.statuseffect.long.statuseffectperturn.minor.stackinghealthgeneration.single.allies",
-            "text": "[#!]{CHANCE} %[#]/[#!]{2MEMBERSCHANCE} %[#]/[#!]{3MEMBERSCHANCE} %[#] chans att få följande staplar i slutet av varje runda:\n[*][#!]Stapel (max: {MAXSTACK}):[#] Användaren får tillbaka {HEAL} hälsa varje runda."
-          },
-          {
-            "key": "specials.v2.statuseffect.minor.healthboostonremoval.all.allies.onremoval.healthboost.single.allies",
-            "text": "Stärker alla allierades hälsa med {REMOVALEFFECT1FIXEDPOWER} efter {TURNS} rundor eller omedelbart om effekten tas bort innan dess. Hälsan kan komma att överstiga maxhälsan."
-          },
-          {
-            "key": "statuseffects.description.healthboostonremoval.onremoval.healthboost.single.allies",
-            "text": "Öka hälsan med [#!]{HEALTHBOOST}[#] efter [#!]{TURNSLEFT}[#] rundor, eller omedelbart om effekten tas bort innan dess."
-          },
-          {
-            "key": "specials.v2.statuseffect.major.buildupdamageonremoval.all.allies.onremoval.damage.random.enemies.expiration",
-            "text": "Alla allierade gör {DAMAGE}–{MAXDAMAGE} skada mot en slumpvald fiende efter {TURNS} rundor baserat på skadan som de allierade tog under tiden som effekten var aktiv. Effekten kan inte avbrytas."
-          },
-          {
-            "key": "specials.v2.statuseffect.major.ghost.single.allies.onremoval.expiration.crit_increase_chao_gai.all.allies",
-            "text": "Användaren antar spökform under {TURNS} rundor.\n[*] När spökformen upphör:\n[*] Alla allierade får {REMOVALEFFECT1STATUSEFFECT1CRIT} % kritisk chans i {REMOVALEFFECT1STATUSEFFECT1TURNS} rundor. Effekten kan inte avbrytas."
-          },
-          {
-            "key": "statuseffects.description.ghost.onremoval.expiration.crit_increase_chao_gai.all.allies",
-            "text": "Immun mot vanliga attacker, specialattacker, statuseffekter och staplar; vittring och tillväxt. Kan inte skapa mana. \nEfter [#!]{TURNSLEFT}[#] rundor: \n[*]Alla allierade får {STATUSEFFECT1CRIT} % kritisk träffchans i {STATUSEFFECT1TURNS} rundor. Effekten kan inte avbrytas"
-          },
-          {
-            "key": "specials.v2.property.removestatuseffects.minordebuff.all.allies.effectonremoval.addmana.single",
-            "text": "Rensar alla negativa statuseffekter från alla allierade och ökar alla allierades mana med {POWER} % för varje rensar negativ effekt."
-          },
-          {
-            "key": "herocard.passive_skill.description.resist.alldefensemodifiers.defensewither.defensegrowth.allstatuseffectsandstacks",
-            "text": "Den här karaktären påverkas inte av effekter som höjer eller sänker [#!]försvar[#].\n\nDet här innefattar: \n[*] Positiva och negativa statuseffekter\n[*] Positiva och negativa staplar\n[*] Vittrings- och tillväxteffekter"
-          },
-          {
-            "key": "button.proceed",
-            "text": "Fortsätt"
-          },
-          {
-            "key": "dialog.download_all.message",
-            "text": "Den här nedladdningen är mycket stor och kan medföra extra avgifter på anslutningar med datapriser.\n\nÄr du säker?"
-          },
-          {
-            "key": "options.button.download_all_content",
-            "text": "Ladda ner allt innehåll"
-          },
-          {
-            "key": "options.label.download_all_content",
-            "text": "Påbörjar nedladdning av allt innehåll. Använd endast den här funktionen om du har återkommande anslutningsproblem."
-          },
-          {
-            "key": "familybonuses.description.short.damage_on_special_dodge_wild_cat",
-            "text": "Varje specialförmåga som undviks gör [#!]{1MEMBERFIXEDVALUE}/{2MEMBERSFIXEDVALUE}/{3MEMBERSFIXEDVALUE} skada mot anfallaren."
-          },
-          {
-            "key": "shop.offers.subtitle.harvester_hype_xp_info",
-            "text": "Används för att få 25 % mer effektiv träning när du ökar nivån på hjältar"
-          }
-        ]
-      },
-      "Turkish": {
-        "overrideEntries": [
-          {
-            "key": "familyeffect.statuseffect.long.statuseffectperturn.minor.stackinghealthgeneration.single.allies",
-            "text": "Her turun sonunda şu istifleri almak için [#!]%{CHANCE}[#]/[#!]%{2MEMBERSCHANCE}[#]/[#!]%{3MEMBERSCHANCE}[#] şans:\n[*][#!]İstif (Maks.: {MAXSTACK}):[#] Eylemci her turda {HEAL} SP yeniler."
-          },
-          {
-            "key": "specials.v2.statuseffect.minor.healthboostonremoval.all.allies.onremoval.healthboost.single.allies",
-            "text": "Tüm müttefiklerin sağlığını, {TURNS} tur sonra veya efekt, süresi sona ermeden önce kaldırılırsa anında {REMOVALEFFECT1FIXEDPOWER} artırır. Güçlendirilen sağlık, maks. SP'yi geçebilir."
-          },
-          {
-            "key": "statuseffects.description.healthboostonremoval.onremoval.healthboost.single.allies",
-            "text": "Tüm müttefiklerin sağlığını, [#!]{TURNSLEFT}[#] tur sonra veya bu efekt, süresi sona ermeden önce kaldırılırsa anında [#!]{HEALTHBOOST}[#] artırır."
-          },
-          {
-            "key": "specials.v2.statuseffect.major.buildupdamageonremoval.all.allies.onremoval.damage.random.enemies.expiration",
-            "text": "Tüm müttefikler, efekt aktifken müttefiklerin aldığı hasara bağlı olarak {TURNS} turun ardından rastgele bir düşmana {DAMAGE} - {MAXDAMAGE} hasar verir. Bu efekt bozulamaz."
-          },
-          {
-            "key": "specials.v2.statuseffect.major.ghost.single.allies.onremoval.expiration.crit_increase_chao_gai.all.allies",
-            "text": "Eylemci {TURNS} boyunca Hayalet formuna dönüşür. \n[*] Hayalet formun süresi dolduğunda:\n[*] Tüm müttefikler {REMOVALEFFECT1STATUSEFFECT1TURNS} tur boyunca %{REMOVALEFFECT1STATUSEFFECT1CRIT} kritik şans alır. Bu efekt bozulamaz."
-          },
-          {
-            "key": "statuseffects.description.ghost.onremoval.expiration.crit_increase_chao_gai.all.allies",
-            "text": "Normal saldırılara, Özel Yetenek saldırılarına, hasar veren pasiflere, büyüme ve soldurma da dâhil olmak üzere durum efektlerine ve istiflere karşı bağışıktır. Mana kazanamaz. \n[#!]{TURNSLEFT}[#] turdan sonra: \n[*]Tüm müttefikler {STATUSEFFECT1TURNS} tur boyunca %{STATUSEFFECT1CRIT} kritik şansı alır. Bu efekt bozulamaz."
-          },
-          {
-            "key": "specials.v2.property.removestatuseffects.minordebuff.all.allies.effectonremoval.addmana.single",
-            "text": "Tüm müttefiklerden tüm durum engellerini arındırır ve arındırılan her engel için tüm müttefiklerin manasını %{POWER} artırır."
-          },
-          {
-            "key": "herocard.passive_skill.description.resist.alldefensemodifiers.defensewither.defensegrowth.allstatuseffectsandstacks",
-            "text": "Bu karakter [#!]savunmayı[#] artıran veya azaltan efektlerden etkilenmez.\n\nBuna \n[*] Durum efekti buff'ları ve engelleri\n[*] Olumlu ve olumsuz istifler\n[*] Büyüme ve Soldurma efektleri dâhildir."
-          },
-          {
-            "key": "button.proceed",
-            "text": "Devam et"
-          },
-          {
-            "key": "dialog.download_all.message",
-            "text": "Bu indirme işlemi çok büyüktür ve ücretli bağlantılarda ek ücrete tabi olabilir.\n\nEmin misin?"
-          },
-          {
-            "key": "options.button.download_all_content",
-            "text": "Tüm içeriği indir"
-          },
-          {
-            "key": "options.label.download_all_content",
-            "text": "Tüm oyun içeriği için indirmeyi başlatır. Bunu yalnızca sık sık bağlantı sorunları yaşıyorsan kullan."
-          },
-          {
-            "key": "familybonuses.description.short.damage_on_special_dodge_wild_cat",
-            "text": "Savuşturulan her Özel Yetenek, saldırgana [#!]{1MEMBERFIXEDVALUE}/{2MEMBERSFIXEDVALUE}/{3MEMBERSFIXEDVALUE} hasar verir."
-          },
-          {
-            "key": "shop.offers.subtitle.harvester_hype_xp_info",
-            "text": "Kahramanların seviyesini yükseltirken eğitimlerin +%25 daha etkili olması için kullan"
-          }
-        ]
-      },
       "English": {
         "overrideEntries": [
           {
@@ -598,486 +58,6 @@
           {
             "key": "shop.offers.subtitle.harvester_hype_xp_info",
             "text": "Use to get +25% more effective training when leveling up Heroes"
-          }
-        ]
-      },
-      "Arabic": {
-        "overrideEntries": [
-          {
-            "key": "familyeffect.statuseffect.long.statuseffectperturn.minor.stackinghealthgeneration.single.allies",
-            "text": "[#!]{CHANCE}%[#]/[#!]{2MEMBERSCHANCE}%[#]/[#!]{3MEMBERSCHANCE}%[#] فرصة للحصول على التراكمات التالية في نهاية كل جولة:\n[*][#!]تراكم (الحد الأقصى: {MAXSTACK}):[#] يستعيد الرامي {HEAL} من نقاط الصحة في كل جولة."
-          },
-          {
-            "key": "specials.v2.statuseffect.minor.healthboostonremoval.all.allies.onremoval.healthboost.single.allies",
-            "text": "يعزز صحة جميع الحلفاء بمقدار {REMOVALEFFECT1FIXEDPOWER} بعد {TURNS} من الجولات. أو على الفور إذا أُزيل التأثير قبل انتهاء المدة. يمكن للصحة المعززة تجاوز نقاط الصحة القصوى."
-          },
-          {
-            "key": "statuseffects.description.healthboostonremoval.onremoval.healthboost.single.allies",
-            "text": "يعزز الصحة بنسبة [#!]{HEALTHBOOST}[#] بعد [#!]{TURNSLEFT}[#] من الجولات، أو فورًا إذا أُزيل هذا التأثير أو استُبدل قبل انتهاء المدة."
-          },
-          {
-            "key": "specials.v2.statuseffect.major.buildupdamageonremoval.all.allies.onremoval.damage.random.enemies.expiration",
-            "text": "يلحق جميع الحلفاء {DAMAGE} - {MAXDAMAGE} بعدو عشوائي بعد {TURNS} من الأدوار، بناءً على الضرر الذي تلقاه الحلفاء بينما كان هذه التأثير نشطًا. لا يمكن إزالة هذا التأثير."
-          },
-          {
-            "key": "specials.v2.statuseffect.major.ghost.single.allies.onremoval.expiration.crit_increase_chao_gai.all.allies",
-            "text": "يتحول الملقي إلى شبح لمدة {TURNS} من الجولات.\n[*] عندما ينتهي وقت هيئة الشبح:\n[*] يحصل جميع الحلفاء على فرصة حاسمة بنسبة {REMOVALEFFECT1STATUSEFFECT1CRIT}% لمدة {REMOVALEFFECT1STATUSEFFECT1TURNS} من الجولات. لا يمكن إزالة هذا التأثير."
-          },
-          {
-            "key": "statuseffects.description.ghost.onremoval.expiration.crit_increase_chao_gai.all.allies",
-            "text": "محصّن ضد الهجمات العادية، وهجمات المهارات الخاصة، وقدرات إلحاق الضرر الخاملة، وتأثيرات الحالة والتراكمات؛ بما في ذلك النمو والتلف. لا يمكن اكتساب القوة.\nبعد [#!]{TURNSLEFT}[#] من الجولات:\n[*]يحصل جميع الحلفاء على فرصة حاسمة بنسبة {STATUSEFFECT1CRIT}% لمدة {STATUSEFFECT1TURNS} من الجولات. لن يمكن إزالة هذا التأثير."
-          },
-          {
-            "key": "specials.v2.property.removestatuseffects.minordebuff.all.allies.effectonremoval.addmana.single",
-            "text": "لتطهير جميع الحلفاء من حالات الأمراض بأمان، ويزيد قوة جميع الحلفاء بنسبة {POWER}% لكل مرض تم تطهيره."
-          },
-          {
-            "key": "herocard.passive_skill.description.resist.alldefensemodifiers.defensewither.defensegrowth.allstatuseffectsandstacks",
-            "text": "لا تتأثر هذه الشخصية بالتأثيرات التي تزيد أو تقلل من [#!]الدفاع[#].\n\nيشمل هذا \n[*] علاوات التأثيرات على الحالة والأمراض\n[*] التراكمات الإيجابية والسلبية[*] تأثيري النمو والتلف"
-          },
-          {
-            "key": "button.proceed",
-            "text": "متابعة"
-          },
-          {
-            "key": "dialog.download_all.message",
-            "text": "عملية التنزيل كبيرة جدًّا، وقد يؤدي ذلك إلى فرض رسوم إضافية عند استخدام شبكات محدودة البيانات.\n\nهل أنت متأكد أنك تريد المتابعة؟"
-          },
-          {
-            "key": "options.button.download_all_content",
-            "text": "تنزيل كل المحتوى"
-          },
-          {
-            "key": "options.label.download_all_content",
-            "text": "يبدأ تنزيل كل محتوى اللعبة. استخدم هذا الخيار فقط إذا كنت تواجه مشاكل متكررة في الاتصال."
-          },
-          {
-            "key": "familybonuses.description.short.damage_on_special_dodge_wild_cat",
-            "text": "تتسب كل مهارة خاصة يتم تفاديها في إلحاق ضرر بالمهاجم بمقدار [#!]{1MEMBERFIXEDVALUE}/{2MEMBERSFIXEDVALUE}/{3MEMBERSFIXEDVALUE} من الضرر."
-          },
-          {
-            "key": "shop.offers.subtitle.harvester_hype_xp_info",
-            "text": "يستخدم للحصول على +25% من التدريب الأكثر فعالية عند رفع مستويات الأبطال"
-          }
-        ]
-      },
-      "French": {
-        "overrideEntries": [
-          {
-            "key": "familyeffect.statuseffect.long.statuseffectperturn.minor.stackinghealthgeneration.single.allies",
-            "text": "[#!]{CHANCE} %[#]/[#!]{2MEMBERSCHANCE} %[#]/[#!]{3MEMBERSCHANCE} %[#] de chances de recevoir les cumuls suivants à la fin de chaque tour :\n[*][#!]Cumul (max : {MAXSTACK}) :[#] Le lanceur récupère {HEAL} PV chaque tour."
-          },
-          {
-            "key": "specials.v2.statuseffect.minor.healthboostonremoval.all.allies.onremoval.healthboost.single.allies",
-            "text": "La santé de tous les alliés est boostée de {REMOVALEFFECT1FIXEDPOWER} au bout de {TURNS} tours, ou immédiatement si l'effet prend fin avant d'arriver à terme. Le maximum de PV peut être dépassé."
-          },
-          {
-            "key": "statuseffects.description.healthboostonremoval.onremoval.healthboost.single.allies",
-            "text": "La santé est boostée de [#!]{HEALTHBOOST}[#] au bout de [#!]{TURNSLEFT}[#] tours, ou immédiatement si l'effet prend fin ou est remplacé avant d'arriver à terme."
-          },
-          {
-            "key": "specials.v2.statuseffect.major.buildupdamageonremoval.all.allies.onremoval.damage.random.enemies.expiration",
-            "text": "Tous les alliés infligent entre {DAMAGE} et {MAXDAMAGE} points de dégâts à un ennemi aléatoire au bout de {TURNS} tours. La valeur dépend des dégâts subis par les alliés pendant l'effet. Cet effet ne peut pas être dissipé."
-          },
-          {
-            "key": "specials.v2.statuseffect.major.ghost.single.allies.onremoval.expiration.crit_increase_chao_gai.all.allies",
-            "text": "Le lanceur passe en forme de fantôme pour {TURNS} tours.\n[*] Quand la forme de fantôme prend fin :\n[*] Tous les alliés reçoivent {REMOVALEFFECT1STATUSEFFECT1CRIT} % de chances de coup critique pendant {REMOVALEFFECT1STATUSEFFECT1TURNS} tours. Cet effet ne peut pas être dissipé."
-          },
-          {
-            "key": "statuseffects.description.ghost.onremoval.expiration.crit_increase_chao_gai.all.allies",
-            "text": "Immunité contre les attaques normales, les attaques de compétence spéciale et les compétences passives, effets et charges infligeant des dégâts, y compris la croissance et le flétrissement. Impossible de gagner du mana.\nAu bout de [#!]{TURNSLEFT}[#] tours :\n[*]Tous les alliés reçoivent {STATUSEFFECT1CRIT} % de chances de coup critique pendant {STATUSEFFECT1TURNS} tours. Cet effet ne peut pas être dissipé."
-          },
-          {
-            "key": "specials.v2.property.removestatuseffects.minordebuff.all.allies.effectonremoval.addmana.single",
-            "text": "Purifie tous les effets négatifs des alliés, et augmente leur mana de {POWER} % pour chaque effet purifié."
-          },
-          {
-            "key": "herocard.passive_skill.description.resist.alldefensemodifiers.defensewither.defensegrowth.allstatuseffectsandstacks",
-            "text": "Ce personnage n'est pas affecté par les effets qui augmentent ou réduisent la [#!]défense[#].\n\nCela inclut : \n[*] Les bonus et effets négatifs\n[*] Les cumuls positifs et négatifs\n[*] Les effets de croissance et de flétrissement"
-          },
-          {
-            "key": "button.proceed",
-            "text": "Continuer"
-          },
-          {
-            "key": "dialog.download_all.message",
-            "text": "Ce téléchargement est très volumineux et risque d'entraîner des frais supplémentaires pour les connexions limitées.\n\nVoulez-vous continuer ?"
-          },
-          {
-            "key": "options.button.download_all_content",
-            "text": "Télécharger tout le contenu"
-          },
-          {
-            "key": "options.label.download_all_content",
-            "text": "Lance le téléchargement de tout le contenu du jeu. Utilisez ceci uniquement si vous rencontrez des problèmes de réseau fréquents."
-          },
-          {
-            "key": "familybonuses.description.short.damage_on_special_dodge_wild_cat",
-            "text": "Chaque compétence spéciale esquivée inflige [#!]{1MEMBERFIXEDVALUE}/{2MEMBERSFIXEDVALUE}/{3MEMBERSFIXEDVALUE} points de dégâts à l'attaquant."
-          },
-          {
-            "key": "shop.offers.subtitle.harvester_hype_xp_info",
-            "text": "Permet de rendre l'entraînement 25 % plus efficace lorsque vous améliorez vos héros."
-          }
-        ]
-      },
-      "Portuguese": {
-        "overrideEntries": [
-          {
-            "key": "familyeffect.statuseffect.long.statuseffectperturn.minor.stackinghealthgeneration.single.allies",
-            "text": "[#!]{CHANCE}%[#]/[#!]{2MEMBERSCHANCE}%[#]/[#!]{3MEMBERSCHANCE}%[#] de chance de receber um dos seguintes acúmulos ao fim de cada turno:\n[*][#!]Acúmulo (máx.: {MAXSTACK}):[#] o invocador recupera {HEAL} PV a cada turno."
-          },
-          {
-            "key": "specials.v2.statuseffect.minor.healthboostonremoval.all.allies.onremoval.healthboost.single.allies",
-            "text": "Reforça a vida de todos os aliados em {REMOVALEFFECT1FIXEDPOWER} após {TURNS} turnos, ou imediatamente quando o efeito é removido antes de acabar. A vida reforçada pode exceder o limite de PV."
-          },
-          {
-            "key": "statuseffects.description.healthboostonremoval.onremoval.healthboost.single.allies",
-            "text": "Reforça a vida em [#!]{HEALTHBOOST}[#] após[#!]{TURNSLEFT}[#] turnos, ou imediatamente quando o efeito é removido ou substituído antes de acabar."
-          },
-          {
-            "key": "specials.v2.statuseffect.major.buildupdamageonremoval.all.allies.onremoval.damage.random.enemies.expiration",
-            "text": "Todos os aliados causam {DAMAGE} a {MAXDAMAGE} de dano a um inimigo aleatório após {TURNS} turnos com base no dano que os aliados sofrem enquanto este efeito está ativo. Este efeito não pode ser dissipado."
-          },
-          {
-            "key": "specials.v2.statuseffect.major.ghost.single.allies.onremoval.expiration.crit_increase_chao_gai.all.allies",
-            "text": "O invocador assume a forma de Fantasma por {TURNS} turnos. \n[*] Quando a forma de Fantasma expira:\n[*] Todos os aliados recebem {REMOVALEFFECT1STATUSEFFECT1CRIT}% de chance crítica por {REMOVALEFFECT1STATUSEFFECT1TURNS} turnos. Este efeito não pode ser dissipado."
-          },
-          {
-            "key": "statuseffects.description.ghost.onremoval.expiration.crit_increase_chao_gai.all.allies",
-            "text": "Imune a ataques normais, ataques de habilidades especiais, habilidades passivas que causam dano, efeitos de status e acumulações, inclusive Crescimento e Definhar. Não pode ganhar mana.\nApós[#!]{TURNSLEFT}[#] turnos: \n[*] Todos os aliados recebem {STATUSEFFECT1CRIT}% de chance crítica por {STATUSEFFECT1TURNS} turnos. Este efeito não pode ser dissipado."
-          },
-          {
-            "key": "specials.v2.property.removestatuseffects.minordebuff.all.allies.effectonremoval.addmana.single",
-            "text": "Expurga todos os males de status de todos os aliados e aumenta em {POWER}% o mana de todos os aliados por cada mal expurgado."
-          },
-          {
-            "key": "herocard.passive_skill.description.resist.alldefensemodifiers.defensewither.defensegrowth.allstatuseffectsandstacks",
-            "text": "Este personagem não é afetado por efeitos que aumentam ou reduzem a [#!]defesa[#].\n\nIsso inclui:\n[*] Males e reforços de efeitos de status\n[*] Acumulações positivas e negativas\n[*] Efeitos Atrofia e Crescimento"
-          },
-          {
-            "key": "button.proceed",
-            "text": "Continuar"
-          },
-          {
-            "key": "dialog.download_all.message",
-            "text": "O download é muito grande e pode resultar em cobranças adicionais em conexões com limites de transferência.\n\nTem certeza de que quer continuar?"
-          },
-          {
-            "key": "options.button.download_all_content",
-            "text": "Baixar todo o conteúdo"
-          },
-          {
-            "key": "options.label.download_all_content",
-            "text": "Inicia o download de todo o conteúdo do jogo. Use apenas caso você encontre problemas de conectividade frequentemente."
-          },
-          {
-            "key": "familybonuses.description.short.damage_on_special_dodge_wild_cat",
-            "text": "Cada habilidade especial esquivada causa [#!]{1MEMBERFIXEDVALUE}/{2MEMBERSFIXEDVALUE}/{3MEMBERSFIXEDVALUE} de dano ao atacante."
-          },
-          {
-            "key": "shop.offers.subtitle.harvester_hype_xp_info",
-            "text": "Use para tornar o treinamento 25% mais eficaz ao subir heróis de nível"
-          }
-        ]
-      },
-      "Indonesian": {
-        "overrideEntries": [
-          {
-            "key": "familyeffect.statuseffect.long.statuseffectperturn.minor.stackinghealthgeneration.single.allies",
-            "text": "Peluang [#!]{CHANCE}%[#]/[#!]{2MEMBERSCHANCE}%[#]/[#!]{3MEMBERSCHANCE}%[#] untuk menerima tumpukan berikut pada akhir giliran:\n[*][#!]Tumpukan (Maks: {MAXSTACK}):[#] HP Perapal pulih {HEAL} setiap giliran."
-          },
-          {
-            "key": "specials.v2.statuseffect.minor.healthboostonremoval.all.allies.onremoval.healthboost.single.allies",
-            "text": "Kesehatan semua sekutu meningkat {REMOVALEFFECT1FIXEDPOWER} setelah {TURNS} giliran atau segera jika efek dihapus sebelum durasi berakhir. Kesehatan yang ditingkatkan dapat melebihi HP maksimal."
-          },
-          {
-            "key": "statuseffects.description.healthboostonremoval.onremoval.healthboost.single.allies",
-            "text": "Meningkatkan kesehatan sebesar [#!]{HEALTHBOOST}[#] setelah [#!]{TURNSLEFT}[#] giliran, atau segera jika efek dihapus sebelum durasi berakhir."
-          },
-          {
-            "key": "specials.v2.statuseffect.major.buildupdamageonremoval.all.allies.onremoval.damage.random.enemies.expiration",
-            "text": "Semua sekutu menimbulkan {DAMAGE} - {MAXDAMAGE} kerusakan pada satu musuh acak setelah {TURNS} giliran, berdasarkan kerusakan yang diterima sekutu selama efek ini aktif. Efek ini tidak bisa dienyahkan."
-          },
-          {
-            "key": "specials.v2.statuseffect.major.ghost.single.allies.onremoval.expiration.crit_increase_chao_gai.all.allies",
-            "text": "Perapal berubah wujud menjadi Hantu selama {TURNS} giliran. \n[*] Saat wujud Hantu berakhir:\n[*] Semua sekutu mendapat peluang kritis {REMOVALEFFECT1STATUSEFFECT1CRIT}% selama {REMOVALEFFECT1STATUSEFFECT1TURNS} giliran. Efek ini tidak bisa dienyahkan."
-          },
-          {
-            "key": "statuseffects.description.ghost.onremoval.expiration.crit_increase_chao_gai.all.allies",
-            "text": "Kebal terhadap serangan normal, serangan Keahlian Khusus, kemampuan pasif yang menimbulkan kerusakan, efek status, dan tumpukan; termasuk Bertumbuh dan Layu. Tidak bisa meraih mana.\nSetelah [#!]{TURNSLEFT}[#] giliran: \n[*]Semua sekutu mendapat peluang kritis {STATUSEFFECT1CRIT}% selama {STATUSEFFECT1TURNS} giliran. Efek ini tidak bisa dienyahkan."
-          },
-          {
-            "key": "specials.v2.property.removestatuseffects.minordebuff.all.allies.effectonremoval.addmana.single",
-            "text": "Membersihkan semua status pelemahan dari semua sekutu, dan menambah mana semua sekutu sebesar {POWER}% untuk setiap pelemahan yang dibersihkan."
-          },
-          {
-            "key": "herocard.passive_skill.description.resist.alldefensemodifiers.defensewither.defensegrowth.allstatuseffectsandstacks",
-            "text": "Karakter ini tidak terpengaruh oleh efek yang meningkatkan atau mengurangi [#!]pertahanan[#].\n\nIni termasuk \n[*] Genjotan dan pelemahan efek status\n[*] Tumpukan positif dan negatif\n[*] Efek Layu dan Bertumbuh."
-          },
-          {
-            "key": "button.proceed",
-            "text": "Lanjut"
-          },
-          {
-            "key": "dialog.download_all.message",
-            "text": "Unduhan ini sangat besar dan mungkin terkena biaya tambahan pada koneksi Internet terukur.\n\nYakin melanjutkan?"
-          },
-          {
-            "key": "options.button.download_all_content",
-            "text": "Unduh semua konten"
-          },
-          {
-            "key": "options.label.download_all_content",
-            "text": "Memulai pengunduhan untuk semua konten game. Gunakan ini hanya jika sering terjadi masalah konektivitas."
-          },
-          {
-            "key": "familybonuses.description.short.damage_on_special_dodge_wild_cat",
-            "text": "Setiap Keahlian Khusus berkelit dari kerusakan penyerang sebesar [#!]{1MEMBERFIXEDVALUE}/{2MEMBERSFIXEDVALUE}/{3MEMBERSFIXEDVALUE} kerusakan."
-          },
-          {
-            "key": "shop.offers.subtitle.harvester_hype_xp_info",
-            "text": "Gunakan untuk mendapatkan pelatihan +25% lebih efektif saat menaikkan level Pahlawan"
-          }
-        ]
-      },
-      "Finnish": {
-        "overrideEntries": [
-          {
-            "key": "familyeffect.statuseffect.long.statuseffectperturn.minor.stackinghealthgeneration.single.allies",
-            "text": "[#!]{CHANCE} %:n[#]/[#!]{2MEMBERSCHANCE} %:n[#]/[#!]{3MEMBERSCHANCE} %:n[#] mahdollisuus saada seuraavat kasautumat jokaisen vuoron lopussa:\n[*][#!]Kasauma (maksimi: {MAXSTACK}):[#] Loitsija palauttaa {HEAL} terveyspistettä joka vuorolla."
-          },
-          {
-            "key": "specials.v2.statuseffect.minor.healthboostonremoval.all.allies.onremoval.healthboost.single.allies",
-            "text": "Tehostaa kaikkien liittolaisten terveyttä {REMOVALEFFECT1FIXEDPOWER} pisteellä {TURNS} vuoron jälkeen, tai välittömästi, jos vaikutus poistetaan ennen keston päättymistä. Tehostettu terveys voi ylittää maksimiterveyden."
-          },
-          {
-            "key": "statuseffects.description.healthboostonremoval.onremoval.healthboost.single.allies",
-            "text": "Tehostaa terveyttä [#!]{HEALTHBOOST}[#] pisteellä [#!]{TURNSLEFT}[#] vuoron jälkeen, tai välittömästi, jos tämä vaikutus poistetaan tai korvataan ennen keston päättymistä."
-          },
-          {
-            "key": "specials.v2.statuseffect.major.buildupdamageonremoval.all.allies.onremoval.damage.random.enemies.expiration",
-            "text": "Kaikki liittolaiset tekevät {DAMAGE}–{MAXDAMAGE} vauriota satunnaiselle viholliselle {TURNS} vuoron jälkeen. Vaurion määrä perustuu liittolaisten kärsimään vaurioon vaikutuksen voimassaoloaikana. Vaikutusta ei voi häivyttää."
-          },
-          {
-            "key": "specials.v2.statuseffect.major.ghost.single.allies.onremoval.expiration.crit_increase_chao_gai.all.allies",
-            "text": "Loitsija muuttuu haamuksi {TURNS} vuoron ajaksi. \n[*] Kun haamuna oleminen päättyy:\n[*] Kaikki liittolaiset saavat {REMOVALEFFECT1STATUSEFFECT1CRIT} % kriittisiä iskuja {REMOVALEFFECT1STATUSEFFECT1TURNS} vuoron ajaksi. Vaikutusta ei voi häivyttää."
-          },
-          {
-            "key": "statuseffects.description.ghost.onremoval.expiration.crit_increase_chao_gai.all.allies",
-            "text": "Immuuni normaalihyökkäyksille, erikoistaitohyökkäyksille, vauriota tuottaville passiivisille taidoille, tilaefekteille ja kasaumille, kuten kasvulle ja näivetykselle. Ei voi saada manaa. \n[#!]{TURNSLEFT}[#] vuoron jälkeen: \n[*]Kaikki liittolaiset saavat {STATUSEFFECT1CRIT} % kriittisiä iskuja {STATUSEFFECT1TURNS} vuoron ajaksi. Tätä vaikutusta ei voi häivyttää."
-          },
-          {
-            "key": "specials.v2.property.removestatuseffects.minordebuff.all.allies.effectonremoval.addmana.single",
-            "text": "Puhdistaa kaikki vaivat kaikilta liittolaisilta, ja lisää kaikkien liittolaisten manaa {POWER} % jokaista puhdistettua vaivaa kohti."
-          },
-          {
-            "key": "herocard.passive_skill.description.resist.alldefensemodifiers.defensewither.defensegrowth.allstatuseffectsandstacks",
-            "text": "Tämä hahmo on immuuni efekteille, jotka lisäävät tai vähentävät [#!]puolustusta[#].\n\nTämä koskee \n[*] Tilaefektitehosteita ja vaivoja\n[*] Positiivisia ja negatiivisia kasaumia\n[*] Näivetys- ja kasvuefektejä"
-          },
-          {
-            "key": "button.proceed",
-            "text": "Jatka"
-          },
-          {
-            "key": "dialog.download_all.message",
-            "text": "Tämä lataus on todella suuri, ja se voi aiheuttaa lisämaksuja liittymillä, joiden datasiirtoa mitataan.\n\nHaluatko varmasti jatkaa?"
-          },
-          {
-            "key": "options.button.download_all_content",
-            "text": "Lataa kaikki sisältö"
-          },
-          {
-            "key": "options.label.download_all_content",
-            "text": "Aloittaa kaiken pelisisällön lataamisen. Käytä tätä vain, jos sinulla on säännöllisiä yhteysongelmia."
-          },
-          {
-            "key": "familybonuses.description.short.damage_on_special_dodge_wild_cat",
-            "text": "Jokainen väistetty erikoistaito tuottaa hyökkääjälle [#!]{1MEMBERFIXEDVALUE}/{2MEMBERSFIXEDVALUE}/{3MEMBERSFIXEDVALUE} vauriota."
-          },
-          {
-            "key": "shop.offers.subtitle.harvester_hype_xp_info",
-            "text": "Tällä saat +25 % enemmän koulutusta, kun nostat sankareiden tasoa"
-          }
-        ]
-      },
-      "Danish": {
-        "overrideEntries": [
-          {
-            "key": "familyeffect.statuseffect.long.statuseffectperturn.minor.stackinghealthgeneration.single.allies",
-            "text": "[#!]{CHANCE} %[#]/[#!]{2MEMBERSCHANCE} %[#]/[#!]{3MEMBERSCHANCE} %[#] chance for at få følgende kumulative, når hver runde slutter:\n[*][#!]Kumulativ (Maks.: {MAXSTACK}):[#] Kasteren gendanner {HEAL} HP i hver runde."
-          },
-          {
-            "key": "specials.v2.statuseffect.minor.healthboostonremoval.all.allies.onremoval.healthboost.single.allies",
-            "text": "Forstærker allieredes helbred med {REMOVALEFFECT1FIXEDPOWER} efter {TURNS} runder eller med det samme, hvis effekten fjernes, før varigheden slutter. Forstærket helbred kan overstige maks. HP."
-          },
-          {
-            "key": "statuseffects.description.healthboostonremoval.onremoval.healthboost.single.allies",
-            "text": "Boost dit helbred med [#!]{HEALTHBOOST}[#] efter [#!]{TURNSLEFT}[#] runder, eller med det samme, hvis denne effekt fjernes eller erstattes, før den slutter."
-          },
-          {
-            "key": "specials.v2.statuseffect.major.buildupdamageonremoval.all.allies.onremoval.damage.random.enemies.expiration",
-            "text": "Alle allierede forvolder {DAMAGE}-{MAXDAMAGE} skade på en vilkårlig fjende efter {TURNS} runder, baseret på den skade, de allierede har taget, mens denne effekt var aktiv. Denne effekt kan ikke ophæves."
-          },
-          {
-            "key": "specials.v2.statuseffect.major.ghost.single.allies.onremoval.expiration.crit_increase_chao_gai.all.allies",
-            "text": "Kasteren tager form som spøgelse i {TURNS} runder. \n[*] Når spøgelsesformen er forbi:\n[*] Alle allierede får {REMOVALEFFECT1STATUSEFFECT1CRIT} % kritisk chance i {REMOVALEFFECT1STATUSEFFECT1TURNS} runder. Denne effekt kan ikke ophæves."
-          },
-          {
-            "key": "statuseffects.description.ghost.onremoval.expiration.crit_increase_chao_gai.all.allies",
-            "text": "Immun over for normale angreb, angreb med særlige egenskaber, passive skadegivere, statuseffekter og stakke, heriblandt vækst og visne. Kan ikke få mana. \nEfter [#!]{TURNSLEFT}[#] runder: \n[*]Alle allierede får {STATUSEFFECT1CRIT} % kritisk chance i {STATUSEFFECT1TURNS} runder. Denne effekt kan ikke ophæves."
-          },
-          {
-            "key": "specials.v2.property.removestatuseffects.minordebuff.all.allies.effectonremoval.addmana.single",
-            "text": "Fjerner alle statuslidelser fra alle allierede og øger alle allieredes mana med {POWER} % for hver af de rensede lidelser."
-          },
-          {
-            "key": "herocard.passive_skill.description.resist.alldefensemodifiers.defensewither.defensegrowth.allstatuseffectsandstacks",
-            "text": "Denne figur er ikke påvirket af effekter, der øger eller reducerer [#!]forsvar[#].\n\nDette inkluderer \n[*]statuseffektbuffere og lidelser,\n[*] positive og negative kumulative effekter\n[*] samt vækst- og visne-effekter"
-          },
-          {
-            "key": "button.proceed",
-            "text": "Fortsæt"
-          },
-          {
-            "key": "dialog.download_all.message",
-            "text": "Denne download er meget stor og kan føre til ekstra gebyrer på forbrugsbaserede forbindelser.\n\nEr du sikker?"
-          },
-          {
-            "key": "options.button.download_all_content",
-            "text": "Download alt indhold"
-          },
-          {
-            "key": "options.label.download_all_content",
-            "text": "Starter download af alt spilindhold. Brug kun dette, hvis du ofte oplever forbindelsesproblemer."
-          },
-          {
-            "key": "familybonuses.description.short.damage_on_special_dodge_wild_cat",
-            "text": "Hver særlige egenskab, der undviges, giver angriberen [#!]{1MEMBERFIXEDVALUE}/{2MEMBERSFIXEDVALUE}/{3MEMBERSFIXEDVALUE} skade."
-          },
-          {
-            "key": "shop.offers.subtitle.harvester_hype_xp_info",
-            "text": "Brug denne for at få +25 % mere effektiv træning, når du opgraderer helte"
-          }
-        ]
-      },
-      "Spanish": {
-        "overrideEntries": [
-          {
-            "key": "familyeffect.statuseffect.long.statuseffectperturn.minor.stackinghealthgeneration.single.allies",
-            "text": "[#!]{CHANCE} %[#]/[#!]{2MEMBERSCHANCE} %[#]/[#!]{3MEMBERSCHANCE} %[#] de probabilidad de recibir las siguientes acumulaciones al final de cada turno:\n[*][#!]Acumulación (máx.: {MAXSTACK}):[#] El héroe recupera {HEAL} de VIT en cada turno."
-          },
-          {
-            "key": "specials.v2.statuseffect.minor.healthboostonremoval.all.allies.onremoval.healthboost.single.allies",
-            "text": "Potencia la vitalidad de todos los aliados en {REMOVALEFFECT1FIXEDPOWER} pasados {TURNS} turnos o inmediatamente si el efecto se elimina antes de que termine. La vitalidad potenciada puede exceder la VIT máxima."
-          },
-          {
-            "key": "statuseffects.description.healthboostonremoval.onremoval.healthboost.single.allies",
-            "text": "Potencia la vitalidad en [#!]{HEALTHBOOST}[#] pasados [#!]{TURNSLEFT}[#] turnos o inmediatamente si el efecto se elimina o se reemplaza antes de que termine."
-          },
-          {
-            "key": "specials.v2.statuseffect.major.buildupdamageonremoval.all.allies.onremoval.damage.random.enemies.expiration",
-            "text": "Todos los aliados infligen {DAMAGE}-{MAXDAMAGE} de daño a un enemigo aleatorio pasados {TURNS} turnos en función del daño que los aliados recibieron mientras estaba activo este efecto. Este efecto no se puede descartar."
-          },
-          {
-            "key": "specials.v2.statuseffect.major.ghost.single.allies.onremoval.expiration.crit_increase_chao_gai.all.allies",
-            "text": "El héroe cambia a forma fantasma durante {TURNS} turnos.\n[*] Cuando la forma termina:\n[*] Todos los aliados obtienen un {REMOVALEFFECT1STATUSEFFECT1CRIT} % de probabilidad de crítico durante {REMOVALEFFECT1STATUSEFFECT1TURNS} turnos. Este efecto no se puede descartar."
-          },
-          {
-            "key": "statuseffects.description.ghost.onremoval.expiration.crit_increase_chao_gai.all.allies",
-            "text": "Es inmune a los ataques normales y los de habilidades especiales, así como a las habilidades pasivas, los efectos de estado y las acumulaciones que infligen daño, como crecimiento y merma. No puede obtener maná.\nPasados [#!]{TURNSLEFT}[#] turnos:\n[*] Todos los aliados obtienen un {STATUSEFFECT1CRIT} % de probabilidad de crítico durante {STATUSEFFECT1TURNS} turnos. Este efecto no se puede descartar."
-          },
-          {
-            "key": "specials.v2.property.removestatuseffects.minordebuff.all.allies.effectonremoval.addmana.single",
-            "text": "Purifica los estados alterados de todos los aliados y aumenta el maná de todos los aliados un {POWER} % por cada estado purificado."
-          },
-          {
-            "key": "herocard.passive_skill.description.resist.alldefensemodifiers.defensewither.defensegrowth.allstatuseffectsandstacks",
-            "text": "A este personaje no le afectan los efectos que aumentan o reducen la [#!]defensa[#].\n\nEsto incluye:\n[*] Bendiciones y alteraciones de estado\n[*] Acumulaciones positivas y negativas\n[*] Efectos de crecimiento y merma"
-          },
-          {
-            "key": "button.proceed",
-            "text": "Continuar"
-          },
-          {
-            "key": "dialog.download_all.message",
-            "text": "Esta descarga es bastante grande y es posible que se apliquen cargos adicionales por conexiones de uso medido.\n\n¿Seguro?"
-          },
-          {
-            "key": "options.button.download_all_content",
-            "text": "Descargar todo el contenido"
-          },
-          {
-            "key": "options.label.download_all_content",
-            "text": "Inicia la descarga de todo el contenido del juego. Usa esta opción solo si sueles tener problemas de conexión."
-          },
-          {
-            "key": "familybonuses.description.short.damage_on_special_dodge_wild_cat",
-            "text": "Cada vez que se esquiva una habilidad especial, inflige [#!]{1MEMBERFIXEDVALUE}/{2MEMBERSFIXEDVALUE}/{3MEMBERSFIXEDVALUE} de daño al atacante."
-          },
-          {
-            "key": "shop.offers.subtitle.harvester_hype_xp_info",
-            "text": "Sirve para lograr un entrenamiento un 25 % más efectivo al hacer que los héroes suban de nivel."
-          }
-        ]
-      },
-      "Norwegian": {
-        "overrideEntries": [
-          {
-            "key": "familyeffect.statuseffect.long.statuseffectperturn.minor.stackinghealthgeneration.single.allies",
-            "text": "[#!]{CHANCE} %[#]/[#!]{2MEMBERSCHANCE} %[#]/[#!]{3MEMBERSCHANCE} %[#] sjanse til å motta følgende stabler ved slutten av hver runde:\n[*][#!]Stabel (Maks: {MAXSTACK}):[#] Brukeren får tilbake {HEAL} HP hver runde."
-          },
-          {
-            "key": "specials.v2.statuseffect.minor.healthboostonremoval.all.allies.onremoval.healthboost.single.allies",
-            "text": "Øker helsen til alle allierte med {REMOVALEFFECT1FIXEDPOWER} etter {TURNS} runder, eller umiddelbart hvis effekten fjenes før den utløper. Økt helse kan overskride maksimal HP."
-          },
-          {
-            "key": "statuseffects.description.healthboostonremoval.onremoval.healthboost.single.allies",
-            "text": "Øk helsen med [#!]{HEALTHBOOST}[#] etter [#!]{TURNSLEFT}[#] runder, eller umiddelbart hvis denne effekten fjernes eller erstattes før varigheten er over."
-          },
-          {
-            "key": "specials.v2.statuseffect.major.buildupdamageonremoval.all.allies.onremoval.damage.random.enemies.expiration",
-            "text": "Alle allierte påfører {DAMAGE}–{MAXDAMAGE} skade på en tilfeldig fiende etter {TURNS} runder, basert på skaden allierte hadde tatt mens denne effekten var aktiv. Denne effekten kan ikke fjernes."
-          },
-          {
-            "key": "specials.v2.statuseffect.major.ghost.single.allies.onremoval.expiration.crit_increase_chao_gai.all.allies",
-            "text": "Denne brukeren skifter til spøkelsesform i {TURNS} runder. \n[*] Når spøkelsesformen utløper:\n[*] Alle allierte får {REMOVALEFFECT1STATUSEFFECT1CRIT} % kritisk sjanse i {REMOVALEFFECT1STATUSEFFECT1TURNS} runder. Denne effekten er ufjernbar."
-          },
-          {
-            "key": "statuseffects.description.ghost.onremoval.expiration.crit_increase_chao_gai.all.allies",
-            "text": "Immun mot normale angrep, angrep med spesialferdigheter, passive ferdigheter som påfører skade, statuseffekter og stabler; inkludert vekst og visne. Kan ikke få mana. \nEtter [#!]{TURNSLEFT}[#] runder: \n[*]Alle allierte får {STATUSEFFECT1CRIT} % fulltreffersjanse i {STATUSEFFECT1TURNS} runder. Denne effekten kan ikke fjernes."
-          },
-          {
-            "key": "specials.v2.property.removestatuseffects.minordebuff.all.allies.effectonremoval.addmana.single",
-            "text": "Renser alle statuslidelser på en trygg måte fra alle allierte, og øker alle alliertes mana med {POWER} % for hver rensede lidelse."
-          },
-          {
-            "key": "herocard.passive_skill.description.resist.alldefensemodifiers.defensewither.defensegrowth.allstatuseffectsandstacks",
-            "text": "Denne figuren påvirkes ikke av effekter som øker eller reduserer [#!]forsvar[#].\n\nDette inkluderer \n[*] statuseffektøkninger og -lidelser\n[*], positive og negative stabler\n[*] samt visne- og veksteffekter."
-          },
-          {
-            "key": "button.proceed",
-            "text": "Fortsett"
-          },
-          {
-            "key": "dialog.download_all.message",
-            "text": "Denne nedlastingen er svært stor og kan medføre ekstra gebyrer for forbruksbaserte tilkoblinger.\n\nEr du sikker?"
-          },
-          {
-            "key": "options.button.download_all_content",
-            "text": "Last ned alt innhold"
-          },
-          {
-            "key": "options.label.download_all_content",
-            "text": "Starter nedlasting av alt spillinnhold. Bruk bare dette hvis du opplever hyppige tilkoblingsproblemer."
-          },
-          {
-            "key": "familybonuses.description.short.damage_on_special_dodge_wild_cat",
-            "text": "Hver spesialferdighet man unnviker, skader angriperen med [#!]{1MEMBERFIXEDVALUE}/{2MEMBERSFIXEDVALUE}/{3MEMBERSFIXEDVALUE} skade."
-          },
-          {
-            "key": "shop.offers.subtitle.harvester_hype_xp_info",
-            "text": "Bruk for å få +25 % mer effektiv trening når du øker nivået på helter"
           }
         ]
       },
@@ -1141,6 +121,846 @@
           }
         ]
       },
+      "French": {
+        "overrideEntries": [
+          {
+            "key": "familyeffect.statuseffect.long.statuseffectperturn.minor.stackinghealthgeneration.single.allies",
+            "text": "[#!]{CHANCE} %[#]/[#!]{2MEMBERSCHANCE} %[#]/[#!]{3MEMBERSCHANCE} %[#] de chances de recevoir les cumuls suivants à la fin de chaque tour :\n[*][#!]Cumul (max : {MAXSTACK}) :[#] Le lanceur récupère {HEAL} PV chaque tour."
+          },
+          {
+            "key": "specials.v2.statuseffect.minor.healthboostonremoval.all.allies.onremoval.healthboost.single.allies",
+            "text": "La santé de tous les alliés est boostée de {REMOVALEFFECT1FIXEDPOWER} au bout de {TURNS} tours, ou immédiatement si l'effet prend fin avant d'arriver à terme. Le maximum de PV peut être dépassé."
+          },
+          {
+            "key": "statuseffects.description.healthboostonremoval.onremoval.healthboost.single.allies",
+            "text": "La santé est boostée de [#!]{HEALTHBOOST}[#] au bout de [#!]{TURNSLEFT}[#] tours, ou immédiatement si l'effet prend fin ou est remplacé avant d'arriver à terme."
+          },
+          {
+            "key": "specials.v2.statuseffect.major.buildupdamageonremoval.all.allies.onremoval.damage.random.enemies.expiration",
+            "text": "Tous les alliés infligent entre {DAMAGE} et {MAXDAMAGE} points de dégâts à un ennemi aléatoire au bout de {TURNS} tours. La valeur dépend des dégâts subis par les alliés pendant l'effet. Cet effet ne peut pas être dissipé."
+          },
+          {
+            "key": "specials.v2.statuseffect.major.ghost.single.allies.onremoval.expiration.crit_increase_chao_gai.all.allies",
+            "text": "Le lanceur passe en forme de fantôme pour {TURNS} tours.\n[*] Quand la forme de fantôme prend fin :\n[*] Tous les alliés reçoivent {REMOVALEFFECT1STATUSEFFECT1CRIT} % de chances de coup critique pendant {REMOVALEFFECT1STATUSEFFECT1TURNS} tours. Cet effet ne peut pas être dissipé."
+          },
+          {
+            "key": "statuseffects.description.ghost.onremoval.expiration.crit_increase_chao_gai.all.allies",
+            "text": "Immunité contre les attaques normales, les attaques de compétence spéciale et les compétences passives, effets et charges infligeant des dégâts, y compris la croissance et le flétrissement. Impossible de gagner du mana.\nAu bout de [#!]{TURNSLEFT}[#] tours :\n[*]Tous les alliés reçoivent {STATUSEFFECT1CRIT} % de chances de coup critique pendant {STATUSEFFECT1TURNS} tours. Cet effet ne peut pas être dissipé."
+          },
+          {
+            "key": "specials.v2.property.removestatuseffects.minordebuff.all.allies.effectonremoval.addmana.single",
+            "text": "Purifie tous les effets négatifs des alliés, et augmente leur mana de {POWER} % pour chaque effet purifié."
+          },
+          {
+            "key": "herocard.passive_skill.description.resist.alldefensemodifiers.defensewither.defensegrowth.allstatuseffectsandstacks",
+            "text": "Ce personnage n'est pas affecté par les effets qui augmentent ou réduisent la [#!]défense[#].\n\nCela inclut : \n[*] Les bonus et effets négatifs\n[*] Les cumuls positifs et négatifs\n[*] Les effets de croissance et de flétrissement"
+          },
+          {
+            "key": "button.proceed",
+            "text": "Continuer"
+          },
+          {
+            "key": "dialog.download_all.message",
+            "text": "Ce téléchargement est très volumineux et risque d'entraîner des frais supplémentaires pour les connexions limitées.\n\nVoulez-vous continuer ?"
+          },
+          {
+            "key": "options.button.download_all_content",
+            "text": "Télécharger tout le contenu"
+          },
+          {
+            "key": "options.label.download_all_content",
+            "text": "Lance le téléchargement de tout le contenu du jeu. Utilisez ceci uniquement si vous rencontrez des problèmes de réseau fréquents."
+          },
+          {
+            "key": "familybonuses.description.short.damage_on_special_dodge_wild_cat",
+            "text": "Chaque compétence spéciale esquivée inflige [#!]{1MEMBERFIXEDVALUE}/{2MEMBERSFIXEDVALUE}/{3MEMBERSFIXEDVALUE} points de dégâts à l'attaquant."
+          },
+          {
+            "key": "shop.offers.subtitle.harvester_hype_xp_info",
+            "text": "Permet de rendre l'entraînement 25 % plus efficace lorsque vous améliorez vos héros."
+          }
+        ]
+      },
+      "German": {
+        "overrideEntries": [
+          {
+            "key": "familyeffect.statuseffect.long.statuseffectperturn.minor.stackinghealthgeneration.single.allies",
+            "text": "[#!]{CHANCE} %[#]/[#!]{2MEMBERSCHANCE} %[#]/[#!]{3MEMBERSCHANCE} %[#] Chance auf die folgenden Stapel am Ende jeder Runde:\n[*][#!]Stapel (Max.: {MAXSTACK}):[#] Der Wirker stellt {HEAL} LP jede Runde wieder her."
+          },
+          {
+            "key": "specials.v2.statuseffect.minor.healthboostonremoval.all.allies.onremoval.healthboost.single.allies",
+            "text": "Das Leben aller Verbündeten wird nach {TURNS} Runden oder sofort, wenn der Effekt vor Ablauf der Dauer entfernt wird, um  {REMOVALEFFECT1FIXEDPOWER} Leben verstärkt. Das verstärkte Leben kann die max. LP übersteigen."
+          },
+          {
+            "key": "statuseffects.description.healthboostonremoval.onremoval.healthboost.single.allies",
+            "text": "Verstärkt das Leben sofort oder nach [#!]{TURNSLEFT}[#] Zügen, wenn der Effekt vor Ablauf der Dauer entfernt wird, um [#!]{HEALTHBOOST}[#]."
+          },
+          {
+            "key": "specials.v2.statuseffect.major.buildupdamageonremoval.all.allies.onremoval.damage.random.enemies.expiration",
+            "text": "Alle Verbündeten verursachen {DAMAGE}–{MAXDAMAGE} Schaden an einem zufälligen Gegner nach {TURNS} Zügen, basierend auf dem Schaden, den Verbündete erlitten haben, während dieser Effekt aktiv war. Dieser Effekt kann nicht gebannt werden."
+          },
+          {
+            "key": "specials.v2.statuseffect.major.ghost.single.allies.onremoval.expiration.crit_increase_chao_gai.all.allies",
+            "text": "Der Wirker wechselt für {TURNS} Züge in die Geisterform.\n[*] Wenn die Geist-Form abläuft:\n[*] Alle Verbündeten erhalten für {REMOVALEFFECT1STATUSEFFECT1TURNS} Züge {REMOVALEFFECT1STATUSEFFECT1CRIT} % Chance auf kritische Treffer. Dieser Effekt kann nicht gebannt werden."
+          },
+          {
+            "key": "statuseffects.description.ghost.onremoval.expiration.crit_increase_chao_gai.all.allies",
+            "text": "Immun gegen normale Angriffe, Spezialfähigkeiten, Schaden verursachende passive Fähigkeiten, Statuseffekte und Steigerungen, einschließlich Wachstum und Verwelken. Kann kein Mana erhalten. \nNach [#!]{TURNSLEFT}[#] Zügen: \n[*]Alle Verbündeten erhalten {STATUSEFFECT1CRIT} % Chance auf kritische Treffer für {STATUSEFFECT1TURNS} Züge. Dieser Effekt kann nicht gebannt werden."
+          },
+          {
+            "key": "specials.v2.property.removestatuseffects.minordebuff.all.allies.effectonremoval.addmana.single",
+            "text": "Reinigt alle Statusleiden aller Verbündeten und erhöht das Mana aller Verbündeten um {POWER} % für jedes gereinigte Statusleiden."
+          },
+          {
+            "key": "herocard.passive_skill.description.resist.alldefensemodifiers.defensewither.defensegrowth.allstatuseffectsandstacks",
+            "text": "Dieser Charakter wird nicht von Effekten beeinflusst, die die [#!]Verteidigung[#] erhöhen oder verringern.\n\nDazu gehören \n[*] Statusleiden und -stärkungen,\n[*] positive und negative Steigerungen sowie \n[*] Verwelkungs- und Wachstumseffekte."
+          },
+          {
+            "key": "button.proceed",
+            "text": "Fortfahren"
+          },
+          {
+            "key": "dialog.download_all.message",
+            "text": "Dieser Download ist ziemlich groß und kann bei Verbindungen mit Datenvolumen zusätzliche Kosten verursachen. Bist du sicher?"
+          },
+          {
+            "key": "options.button.download_all_content",
+            "text": "Alle Inhalte herunterladen"
+          },
+          {
+            "key": "options.label.download_all_content",
+            "text": "Startet den Download für alle Spielinhalte. Benutz das nur, wenn du oft Probleme mit der Verbindung hast."
+          },
+          {
+            "key": "familybonuses.description.short.damage_on_special_dodge_wild_cat",
+            "text": "Jede ausgewichene Spezialfähigkeit fügt dem Angreifer [#!]{1MEMBERFIXEDVALUE}/{2MEMBERSFIXEDVALUE}/{3MEMBERSFIXEDVALUE} Schaden zu."
+          },
+          {
+            "key": "shop.offers.subtitle.harvester_hype_xp_info",
+            "text": "Nutze diese Funktion, um beim Aufwerten von Helden +25 % effektiveres Training zu erhalten"
+          }
+        ]
+      },
+      "Indonesian": {
+        "overrideEntries": [
+          {
+            "key": "familyeffect.statuseffect.long.statuseffectperturn.minor.stackinghealthgeneration.single.allies",
+            "text": "Peluang [#!]{CHANCE}%[#]/[#!]{2MEMBERSCHANCE}%[#]/[#!]{3MEMBERSCHANCE}%[#] untuk menerima tumpukan berikut pada akhir giliran:\n[*][#!]Tumpukan (Maks: {MAXSTACK}):[#] HP Perapal pulih {HEAL} setiap giliran."
+          },
+          {
+            "key": "specials.v2.statuseffect.minor.healthboostonremoval.all.allies.onremoval.healthboost.single.allies",
+            "text": "Kesehatan semua sekutu meningkat {REMOVALEFFECT1FIXEDPOWER} setelah {TURNS} giliran atau segera jika efek dihapus sebelum durasi berakhir. Kesehatan yang ditingkatkan dapat melebihi HP maksimal."
+          },
+          {
+            "key": "statuseffects.description.healthboostonremoval.onremoval.healthboost.single.allies",
+            "text": "Meningkatkan kesehatan sebesar [#!]{HEALTHBOOST}[#] setelah [#!]{TURNSLEFT}[#] giliran, atau segera jika efek dihapus sebelum durasi berakhir."
+          },
+          {
+            "key": "specials.v2.statuseffect.major.buildupdamageonremoval.all.allies.onremoval.damage.random.enemies.expiration",
+            "text": "Semua sekutu menimbulkan {DAMAGE} - {MAXDAMAGE} kerusakan pada satu musuh acak setelah {TURNS} giliran, berdasarkan kerusakan yang diterima sekutu selama efek ini aktif. Efek ini tidak bisa dienyahkan."
+          },
+          {
+            "key": "specials.v2.statuseffect.major.ghost.single.allies.onremoval.expiration.crit_increase_chao_gai.all.allies",
+            "text": "Perapal berubah wujud menjadi Hantu selama {TURNS} giliran. \n[*] Saat wujud Hantu berakhir:\n[*] Semua sekutu mendapat peluang kritis {REMOVALEFFECT1STATUSEFFECT1CRIT}% selama {REMOVALEFFECT1STATUSEFFECT1TURNS} giliran. Efek ini tidak bisa dienyahkan."
+          },
+          {
+            "key": "statuseffects.description.ghost.onremoval.expiration.crit_increase_chao_gai.all.allies",
+            "text": "Kebal terhadap serangan normal, serangan Keahlian Khusus, kemampuan pasif yang menimbulkan kerusakan, efek status, dan tumpukan; termasuk Bertumbuh dan Layu. Tidak bisa meraih mana.\nSetelah [#!]{TURNSLEFT}[#] giliran: \n[*]Semua sekutu mendapat peluang kritis {STATUSEFFECT1CRIT}% selama {STATUSEFFECT1TURNS} giliran. Efek ini tidak bisa dienyahkan."
+          },
+          {
+            "key": "specials.v2.property.removestatuseffects.minordebuff.all.allies.effectonremoval.addmana.single",
+            "text": "Membersihkan semua status pelemahan dari semua sekutu, dan menambah mana semua sekutu sebesar {POWER}% untuk setiap pelemahan yang dibersihkan."
+          },
+          {
+            "key": "herocard.passive_skill.description.resist.alldefensemodifiers.defensewither.defensegrowth.allstatuseffectsandstacks",
+            "text": "Karakter ini tidak terpengaruh oleh efek yang meningkatkan atau mengurangi [#!]pertahanan[#].\n\nIni termasuk \n[*] Genjotan dan pelemahan efek status\n[*] Tumpukan positif dan negatif\n[*] Efek Layu dan Bertumbuh."
+          },
+          {
+            "key": "button.proceed",
+            "text": "Lanjut"
+          },
+          {
+            "key": "dialog.download_all.message",
+            "text": "Unduhan ini sangat besar dan mungkin terkena biaya tambahan pada koneksi Internet terukur.\n\nYakin melanjutkan?"
+          },
+          {
+            "key": "options.button.download_all_content",
+            "text": "Unduh semua konten"
+          },
+          {
+            "key": "options.label.download_all_content",
+            "text": "Memulai pengunduhan untuk semua konten game. Gunakan ini hanya jika sering terjadi masalah konektivitas."
+          },
+          {
+            "key": "familybonuses.description.short.damage_on_special_dodge_wild_cat",
+            "text": "Setiap Keahlian Khusus berkelit dari kerusakan penyerang sebesar [#!]{1MEMBERFIXEDVALUE}/{2MEMBERSFIXEDVALUE}/{3MEMBERSFIXEDVALUE} kerusakan."
+          },
+          {
+            "key": "shop.offers.subtitle.harvester_hype_xp_info",
+            "text": "Gunakan untuk mendapatkan pelatihan +25% lebih efektif saat menaikkan level Pahlawan"
+          }
+        ]
+      },
+      "Italian": {
+        "overrideEntries": [
+          {
+            "key": "familyeffect.statuseffect.long.statuseffectperturn.minor.stackinghealthgeneration.single.allies",
+            "text": "[#!]{CHANCE}%[#]/[#!]{2MEMBERSCHANCE}%[#]/[#!]{3MEMBERSCHANCE}%[#] di probabilità di ricevere la seguente iterazione al termine di ogni turno:\n[*][#!]Iterazione (Max: {MAXSTACK}):[#] l'evocatore recupera {HEAL} HP a ogni turno."
+          },
+          {
+            "key": "specials.v2.statuseffect.minor.healthboostonremoval.all.allies.onremoval.healthboost.single.allies",
+            "text": "Aumenta di {REMOVALEFFECT1FIXEDPOWER} la Salute di tutti gli alleati dopo {TURNS} turni, o immediatamente, se l'effetto viene rimosso prima del termine previsto. La Salute potenziata può superare gli HP massimi."
+          },
+          {
+            "key": "statuseffects.description.healthboostonremoval.onremoval.healthboost.single.allies",
+            "text": "Aumenta la Salute di [#!]{HEALTHBOOST}[#] dopo [#!]{TURNSLEFT}[#] turni, o immediatamente, se questo effetto viene rimosso o sostituito prima del termine previsto."
+          },
+          {
+            "key": "specials.v2.statuseffect.major.buildupdamageonremoval.all.allies.onremoval.damage.random.enemies.expiration",
+            "text": "Tutti gli alleati infliggono {DAMAGE} - {MAXDAMAGE} danni a un nemico casuale dopo {TURNS} turni, in base ai danni subiti dagli alleati mentre questo effetto era attivo. Questo effetto non può essere annullato."
+          },
+          {
+            "key": "specials.v2.statuseffect.major.ghost.single.allies.onremoval.expiration.crit_increase_chao_gai.all.allies",
+            "text": "L'evocatore assume la forma di Fantasma per {TURNS} turni. \n[*] Quando la forma di Fantasma si esaurisce:\n[*] Tutti gli alleati ottengono il {REMOVALEFFECT1STATUSEFFECT1CRIT}% di possibilità critica per {REMOVALEFFECT1STATUSEFFECT1TURNS} turni. Questo effetto non può essere annullato."
+          },
+          {
+            "key": "statuseffects.description.ghost.onremoval.expiration.crit_increase_chao_gai.all.allies",
+            "text": "Immune da attacchi normali, attacchi delle Abilità speciali, abilità passive che infliggono danni, effetti di stato e iterazioni, inclusi Crescita e Avvizzimento. Non può guadagnare mana.\nDopo [#!]{TURNSLEFT}[#] turni:\n[*] Tutti gli alleati ricevono il {STATUSEFFECT1CRIT}% di possibilità critica per {STATUSEFFECT1TURNS} turni. Questo effetto non può essere annullato."
+          },
+          {
+            "key": "specials.v2.property.removestatuseffects.minordebuff.all.allies.effectonremoval.addmana.single",
+            "text": "Annulla tutti i disturbi da tutti gli alleati e aumenta il mana di tutti gli alleati del {POWER}% per ogni disturbo annullato."
+          },
+          {
+            "key": "herocard.passive_skill.description.resist.alldefensemodifiers.defensewither.defensegrowth.allstatuseffectsandstacks",
+            "text": "Questo personaggio non è influenzato dagli effetti che aumentano o riducono la [#!]Difesa[#].\n\nQuesto include:\n[*] Le magie benefiche e i disturbi degli effetti di stato\n[*] Le iterazioni positive e negative\n[*] Gli effetti di Crescita e Avvizzimento"
+          },
+          {
+            "key": "button.proceed",
+            "text": "Procedi"
+          },
+          {
+            "key": "dialog.download_all.message",
+            "text": "Questo download è molto grande e potrebbe comportare costi aggiuntivi per le connessioni a consumo.\n\nConfermi?"
+          },
+          {
+            "key": "options.button.download_all_content",
+            "text": "Scarica tutti i contenuti"
+          },
+          {
+            "key": "options.label.download_all_content",
+            "text": "Avvia il download di tutti i contenuti di gioco. Usa questa opzione solo se riscontri frequenti problemi di connettività."
+          },
+          {
+            "key": "familybonuses.description.short.damage_on_special_dodge_wild_cat",
+            "text": "Ogni Abilità speciale schivata infligge all'attaccante [#!]{1MEMBERFIXEDVALUE}/{2MEMBERSFIXEDVALUE}/{3MEMBERSFIXEDVALUE} danni."
+          },
+          {
+            "key": "shop.offers.subtitle.harvester_hype_xp_info",
+            "text": "Da usare per ottenere un addestramento più efficace del 25% durante l'aumento di livello degli Eroi"
+          }
+        ]
+      },
+      "Polish": {
+        "overrideEntries": [
+          {
+            "key": "familyeffect.statuseffect.long.statuseffectperturn.minor.stackinghealthgeneration.single.allies",
+            "text": "[#!]{CHANCE}%[#]/[#!]{2MEMBERSCHANCE}%[#]/[#!]{3MEMBERSCHANCE}%[#] szans na otrzymanie następujących kumulacji na koniec każdej tury:\n[*][#!]Kumulacja (maks.: {MAXSTACK}):[#] inicjator odzyskuje {HEAL} PŻ w każdej turze."
+          },
+          {
+            "key": "specials.v2.statuseffect.minor.healthboostonremoval.all.allies.onremoval.healthboost.single.allies",
+            "text": "Wzmacnia zdrowie wszystkich sojuszników o {REMOVALEFFECT1FIXEDPOWER} pkt. po upływie {TURNS} tur lub natychmiast, jeśli ten efekt zostanie zdjęty, zanim upłynie czas jego trwania. Wzmocnione zdrowie może przekroczyć maks. PŻ."
+          },
+          {
+            "key": "statuseffects.description.healthboostonremoval.onremoval.healthboost.single.allies",
+            "text": "Wzmacnia zdrowie o [#!]{HEALTHBOOST}[#] po upływie [#!]{TURNSLEFT}[#] tur lub natychmiast, jeśli efekt zostanie usunięty lub zastąpiony, zanim upłynie czas jego trwania."
+          },
+          {
+            "key": "specials.v2.statuseffect.major.buildupdamageonremoval.all.allies.onremoval.damage.random.enemies.expiration",
+            "text": "Wszyscy sojusznicy zadają {DAMAGE} - {MAXDAMAGE} pkt. obrażeń losowemu wrogowi po upływie {TURNS} tur, w zależności od obrażeń otrzymanych przez sojuszników, gdy ten efekt był aktywny. Odwołanie tego efektu nie jest możliwe."
+          },
+          {
+            "key": "specials.v2.statuseffect.major.ghost.single.allies.onremoval.expiration.crit_increase_chao_gai.all.allies",
+            "text": "Rzucający przeobraża się w ducha na okres {TURNS} tur. \n[*] Gdy postać ducha dobiega końca:\n[*] Wszyscy sojusznicy zyskują {REMOVALEFFECT1STATUSEFFECT1CRIT}% szans na trafienie krytyczne na okres {REMOVALEFFECT1STATUSEFFECT1TURNS} tur. Odwołanie tego efektu nie jest możliwe."
+          },
+          {
+            "key": "statuseffects.description.ghost.onremoval.expiration.crit_increase_chao_gai.all.allies",
+            "text": "Odporność na ataki normalne, ataki z użyciem umiejętności specjalnej, pasywne efekty zadające obrażenia, efekty ze statusu i kumulacje, w tym wzrost i suszę. Nie może zyskiwać many. \nPo upływie [#!]{TURNSLEFT}[#] tur: \n[*]Wszyscy sojusznicy zyskują {STATUSEFFECT1CRIT}% szans na trafienie krytyczne na okres {STATUSEFFECT1TURNS} tur. Odwołanie tego efektu nie jest możliwe."
+          },
+          {
+            "key": "specials.v2.property.removestatuseffects.minordebuff.all.allies.effectonremoval.addmana.single",
+            "text": "Oczyszcza wszystkich sojuszników ze wszystkich dolegliwości ze statusu i zwiększa ich manę o {POWER}% za każdą oczyszczoną dolegliwość."
+          },
+          {
+            "key": "herocard.passive_skill.description.resist.alldefensemodifiers.defensewither.defensegrowth.allstatuseffectsandstacks",
+            "text": "Na tę postać nie wpływają efekty zmniejszające bądź zwiększające [#!]obronę[#].\n\nObejmuje to \n[*] wzmocnienia i dolegliwości ze statusu\n[*], pozytywne i negatywne kumulacje\n[*] oraz efekty wzrostu i suszy."
+          },
+          {
+            "key": "button.proceed",
+            "text": "Kontynuuj"
+          },
+          {
+            "key": "dialog.download_all.message",
+            "text": "Plik do pobrania jest sporych rozmiarów, więc pobieranie może się wiązać z poniesieniem dodatkowych opłat za połączenia taryfowe.\n\nCzy na pewno chcesz pobrać plik?"
+          },
+          {
+            "key": "options.button.download_all_content",
+            "text": "Pobierz całą zawartość"
+          },
+          {
+            "key": "options.label.download_all_content",
+            "text": "Rozpocznie się pobieranie całej zawartości gry. Korzystaj z tej funkcji tylko wtedy, gdy masz częste problemy z połączeniem."
+          },
+          {
+            "key": "familybonuses.description.short.damage_on_special_dodge_wild_cat",
+            "text": "Każde uniknięcie umiejętności specjalnej zadaje atakującemu [#!]{1MEMBERFIXEDVALUE}/{2MEMBERSFIXEDVALUE}/{3MEMBERSFIXEDVALUE} pkt. obrażeń."
+          },
+          {
+            "key": "shop.offers.subtitle.harvester_hype_xp_info",
+            "text": "Użyj, aby szkolenie bohaterów podczas zwiększania poziomu było o 25% skuteczniejsze"
+          }
+        ]
+      },
+      "Portuguese": {
+        "overrideEntries": [
+          {
+            "key": "familyeffect.statuseffect.long.statuseffectperturn.minor.stackinghealthgeneration.single.allies",
+            "text": "[#!]{CHANCE}%[#]/[#!]{2MEMBERSCHANCE}%[#]/[#!]{3MEMBERSCHANCE}%[#] de chance de receber um dos seguintes acúmulos ao fim de cada turno:\n[*][#!]Acúmulo (máx.: {MAXSTACK}):[#] o invocador recupera {HEAL} PV a cada turno."
+          },
+          {
+            "key": "specials.v2.statuseffect.minor.healthboostonremoval.all.allies.onremoval.healthboost.single.allies",
+            "text": "Reforça a vida de todos os aliados em {REMOVALEFFECT1FIXEDPOWER} após {TURNS} turnos, ou imediatamente quando o efeito é removido antes de acabar. A vida reforçada pode exceder o limite de PV."
+          },
+          {
+            "key": "statuseffects.description.healthboostonremoval.onremoval.healthboost.single.allies",
+            "text": "Reforça a vida em [#!]{HEALTHBOOST}[#] após[#!]{TURNSLEFT}[#] turnos, ou imediatamente quando o efeito é removido ou substituído antes de acabar."
+          },
+          {
+            "key": "specials.v2.statuseffect.major.buildupdamageonremoval.all.allies.onremoval.damage.random.enemies.expiration",
+            "text": "Todos os aliados causam {DAMAGE} a {MAXDAMAGE} de dano a um inimigo aleatório após {TURNS} turnos com base no dano que os aliados sofrem enquanto este efeito está ativo. Este efeito não pode ser dissipado."
+          },
+          {
+            "key": "specials.v2.statuseffect.major.ghost.single.allies.onremoval.expiration.crit_increase_chao_gai.all.allies",
+            "text": "O invocador assume a forma de Fantasma por {TURNS} turnos. \n[*] Quando a forma de Fantasma expira:\n[*] Todos os aliados recebem {REMOVALEFFECT1STATUSEFFECT1CRIT}% de chance crítica por {REMOVALEFFECT1STATUSEFFECT1TURNS} turnos. Este efeito não pode ser dissipado."
+          },
+          {
+            "key": "statuseffects.description.ghost.onremoval.expiration.crit_increase_chao_gai.all.allies",
+            "text": "Imune a ataques normais, ataques de habilidades especiais, habilidades passivas que causam dano, efeitos de status e acumulações, inclusive Crescimento e Definhar. Não pode ganhar mana.\nApós[#!]{TURNSLEFT}[#] turnos: \n[*] Todos os aliados recebem {STATUSEFFECT1CRIT}% de chance crítica por {STATUSEFFECT1TURNS} turnos. Este efeito não pode ser dissipado."
+          },
+          {
+            "key": "specials.v2.property.removestatuseffects.minordebuff.all.allies.effectonremoval.addmana.single",
+            "text": "Expurga todos os males de status de todos os aliados e aumenta em {POWER}% o mana de todos os aliados por cada mal expurgado."
+          },
+          {
+            "key": "herocard.passive_skill.description.resist.alldefensemodifiers.defensewither.defensegrowth.allstatuseffectsandstacks",
+            "text": "Este personagem não é afetado por efeitos que aumentam ou reduzem a [#!]defesa[#].\n\nIsso inclui:\n[*] Males e reforços de efeitos de status\n[*] Acumulações positivas e negativas\n[*] Efeitos Atrofia e Crescimento"
+          },
+          {
+            "key": "button.proceed",
+            "text": "Continuar"
+          },
+          {
+            "key": "dialog.download_all.message",
+            "text": "O download é muito grande e pode resultar em cobranças adicionais em conexões com limites de transferência.\n\nTem certeza de que quer continuar?"
+          },
+          {
+            "key": "options.button.download_all_content",
+            "text": "Baixar todo o conteúdo"
+          },
+          {
+            "key": "options.label.download_all_content",
+            "text": "Inicia o download de todo o conteúdo do jogo. Use apenas caso você encontre problemas de conectividade frequentemente."
+          },
+          {
+            "key": "familybonuses.description.short.damage_on_special_dodge_wild_cat",
+            "text": "Cada habilidade especial esquivada causa [#!]{1MEMBERFIXEDVALUE}/{2MEMBERSFIXEDVALUE}/{3MEMBERSFIXEDVALUE} de dano ao atacante."
+          },
+          {
+            "key": "shop.offers.subtitle.harvester_hype_xp_info",
+            "text": "Use para tornar o treinamento 25% mais eficaz ao subir heróis de nível"
+          }
+        ]
+      },
+      "Russian": {
+        "overrideEntries": [
+          {
+            "key": "familyeffect.statuseffect.long.statuseffectperturn.minor.stackinghealthgeneration.single.allies",
+            "text": "[#!]{CHANCE} %[#]/[#!]{2MEMBERSCHANCE} %[#]/[#!]{3MEMBERSCHANCE} %[#] шанс получить в конце хода следующие складываемые эффекты:\n[*][#!]Складываемые (до: {MAXSTACK}):[#] Герой восстанавливает {HEAL} ОЗ каждый ход."
+          },
+          {
+            "key": "specials.v2.statuseffect.minor.healthboostonremoval.all.allies.onremoval.healthboost.single.allies",
+            "text": "Увеличивает здоровье всех союзников на {REMOVALEFFECT1FIXEDPOWER} спустя {TURNS} х. Если эффект снимается до истечения срока, то здоровье увеличивается немедленно. Повышенное здоровье может превысить макс. кол-во очков здоровья."
+          },
+          {
+            "key": "statuseffects.description.healthboostonremoval.onremoval.healthboost.single.allies",
+            "text": "Увеличивает здоровье на [#!]{HEALTHBOOST}[#] спустя [#!]{TURNSLEFT}[#] х. Если эффект снимается или заменяется до истечения срока, здоровье увеличивается немедленно."
+          },
+          {
+            "key": "specials.v2.statuseffect.major.buildupdamageonremoval.all.allies.onremoval.damage.random.enemies.expiration",
+            "text": "Все союзники наносят {DAMAGE}-{MAXDAMAGE} урона случайному врагу спустя {TURNS} х. в зависимости от урона, который получили союзники, пока этот эффект был активен. Этот эффект нельзя снять."
+          },
+          {
+            "key": "specials.v2.statuseffect.major.ghost.single.allies.onremoval.expiration.crit_increase_chao_gai.all.allies",
+            "text": "Герой переходит в форму призрака на {TURNS} х. \n[*] Когда форма призрака заканчивается:\n[*] Все союзники получают {REMOVALEFFECT1STATUSEFFECT1CRIT} % вероятности критического удара на {REMOVALEFFECT1STATUSEFFECT1TURNS} х. Этот эффект нельзя снять."
+          },
+          {
+            "key": "statuseffects.description.ghost.onremoval.expiration.crit_increase_chao_gai.all.allies",
+            "text": "Иммунитет к обычным атакам, атакам особыми навыками, наносящим урон пассивным способностям, эффектам статуса и складываемым эффектам (включая рост и увядание). Невозможно получать ману. \nСпустя [#!]{TURNSLEFT}[#] х.: \n[*]Все союзники получают {STATUSEFFECT1CRIT} % вероятности критического удара на {STATUSEFFECT1TURNS} х. Этот эффект нельзя снять."
+          },
+          {
+            "key": "specials.v2.property.removestatuseffects.minordebuff.all.allies.effectonremoval.addmana.single",
+            "text": "Очищает всех союзников от всех недугов и увеличивает их ману на {POWER} % за каждый очищенный недуг."
+          },
+          {
+            "key": "herocard.passive_skill.description.resist.alldefensemodifiers.defensewither.defensegrowth.allstatuseffectsandstacks",
+            "text": "Этот персонаж не подвержен эффектам, усиливающим или уменьшающим [#!]защиту[#].\n\nВ это число входят\n[*] усиления эффектов статуса и недугов\n[*] положительные и отрицательные эффекты \n[*] эффекты роста и увядания"
+          },
+          {
+            "key": "button.proceed",
+            "text": "Продолжить"
+          },
+          {
+            "key": "dialog.download_all.message",
+            "text": "Объем загружаемых данных слишком велик, что может вызвать дополнительные траты в условиях ограниченного трафика. \n\nВы уверены, что хотите продолжить?"
+          },
+          {
+            "key": "options.button.download_all_content",
+            "text": "Загрузить все данные"
+          },
+          {
+            "key": "options.label.download_all_content",
+            "text": "Инициирует загрузку всего игрового контента. Используйте только в тех случаях, если испытываете частые проблемы с подключением."
+          },
+          {
+            "key": "familybonuses.description.short.damage_on_special_dodge_wild_cat",
+            "text": "За каждое уклонение от особого навыка атакующий получает [#!]{1MEMBERFIXEDVALUE}/{2MEMBERSFIXEDVALUE}/{3MEMBERSFIXEDVALUE} урона."
+          },
+          {
+            "key": "shop.offers.subtitle.harvester_hype_xp_info",
+            "text": "Используйте, чтобы обучение героев стало на 25 % эффективнее."
+          }
+        ]
+      },
+      "Spanish": {
+        "overrideEntries": [
+          {
+            "key": "familyeffect.statuseffect.long.statuseffectperturn.minor.stackinghealthgeneration.single.allies",
+            "text": "[#!]{CHANCE} %[#]/[#!]{2MEMBERSCHANCE} %[#]/[#!]{3MEMBERSCHANCE} %[#] de probabilidad de recibir las siguientes acumulaciones al final de cada turno:\n[*][#!]Acumulación (máx.: {MAXSTACK}):[#] El héroe recupera {HEAL} de VIT en cada turno."
+          },
+          {
+            "key": "specials.v2.statuseffect.minor.healthboostonremoval.all.allies.onremoval.healthboost.single.allies",
+            "text": "Potencia la vitalidad de todos los aliados en {REMOVALEFFECT1FIXEDPOWER} pasados {TURNS} turnos o inmediatamente si el efecto se elimina antes de que termine. La vitalidad potenciada puede exceder la VIT máxima."
+          },
+          {
+            "key": "statuseffects.description.healthboostonremoval.onremoval.healthboost.single.allies",
+            "text": "Potencia la vitalidad en [#!]{HEALTHBOOST}[#] pasados [#!]{TURNSLEFT}[#] turnos o inmediatamente si el efecto se elimina o se reemplaza antes de que termine."
+          },
+          {
+            "key": "specials.v2.statuseffect.major.buildupdamageonremoval.all.allies.onremoval.damage.random.enemies.expiration",
+            "text": "Todos los aliados infligen {DAMAGE}-{MAXDAMAGE} de daño a un enemigo aleatorio pasados {TURNS} turnos en función del daño que los aliados recibieron mientras estaba activo este efecto. Este efecto no se puede descartar."
+          },
+          {
+            "key": "specials.v2.statuseffect.major.ghost.single.allies.onremoval.expiration.crit_increase_chao_gai.all.allies",
+            "text": "El héroe cambia a forma fantasma durante {TURNS} turnos.\n[*] Cuando la forma termina:\n[*] Todos los aliados obtienen un {REMOVALEFFECT1STATUSEFFECT1CRIT} % de probabilidad de crítico durante {REMOVALEFFECT1STATUSEFFECT1TURNS} turnos. Este efecto no se puede descartar."
+          },
+          {
+            "key": "statuseffects.description.ghost.onremoval.expiration.crit_increase_chao_gai.all.allies",
+            "text": "Es inmune a los ataques normales y los de habilidades especiales, así como a las habilidades pasivas, los efectos de estado y las acumulaciones que infligen daño, como crecimiento y merma. No puede obtener maná.\nPasados [#!]{TURNSLEFT}[#] turnos:\n[*] Todos los aliados obtienen un {STATUSEFFECT1CRIT} % de probabilidad de crítico durante {STATUSEFFECT1TURNS} turnos. Este efecto no se puede descartar."
+          },
+          {
+            "key": "specials.v2.property.removestatuseffects.minordebuff.all.allies.effectonremoval.addmana.single",
+            "text": "Purifica los estados alterados de todos los aliados y aumenta el maná de todos los aliados un {POWER} % por cada estado purificado."
+          },
+          {
+            "key": "herocard.passive_skill.description.resist.alldefensemodifiers.defensewither.defensegrowth.allstatuseffectsandstacks",
+            "text": "A este personaje no le afectan los efectos que aumentan o reducen la [#!]defensa[#].\n\nEsto incluye:\n[*] Bendiciones y alteraciones de estado\n[*] Acumulaciones positivas y negativas\n[*] Efectos de crecimiento y merma"
+          },
+          {
+            "key": "button.proceed",
+            "text": "Continuar"
+          },
+          {
+            "key": "dialog.download_all.message",
+            "text": "Esta descarga es bastante grande y es posible que se apliquen cargos adicionales por conexiones de uso medido.\n\n¿Seguro?"
+          },
+          {
+            "key": "options.button.download_all_content",
+            "text": "Descargar todo el contenido"
+          },
+          {
+            "key": "options.label.download_all_content",
+            "text": "Inicia la descarga de todo el contenido del juego. Usa esta opción solo si sueles tener problemas de conexión."
+          },
+          {
+            "key": "familybonuses.description.short.damage_on_special_dodge_wild_cat",
+            "text": "Cada vez que se esquiva una habilidad especial, inflige [#!]{1MEMBERFIXEDVALUE}/{2MEMBERSFIXEDVALUE}/{3MEMBERSFIXEDVALUE} de daño al atacante."
+          },
+          {
+            "key": "shop.offers.subtitle.harvester_hype_xp_info",
+            "text": "Sirve para lograr un entrenamiento un 25 % más efectivo al hacer que los héroes suban de nivel."
+          }
+        ]
+      },
+      "Danish": {
+        "overrideEntries": [
+          {
+            "key": "familyeffect.statuseffect.long.statuseffectperturn.minor.stackinghealthgeneration.single.allies",
+            "text": "[#!]{CHANCE} %[#]/[#!]{2MEMBERSCHANCE} %[#]/[#!]{3MEMBERSCHANCE} %[#] chance for at få følgende kumulative, når hver runde slutter:\n[*][#!]Kumulativ (Maks.: {MAXSTACK}):[#] Kasteren gendanner {HEAL} HP i hver runde."
+          },
+          {
+            "key": "specials.v2.statuseffect.minor.healthboostonremoval.all.allies.onremoval.healthboost.single.allies",
+            "text": "Forstærker allieredes helbred med {REMOVALEFFECT1FIXEDPOWER} efter {TURNS} runder eller med det samme, hvis effekten fjernes, før varigheden slutter. Forstærket helbred kan overstige maks. HP."
+          },
+          {
+            "key": "statuseffects.description.healthboostonremoval.onremoval.healthboost.single.allies",
+            "text": "Boost dit helbred med [#!]{HEALTHBOOST}[#] efter [#!]{TURNSLEFT}[#] runder, eller med det samme, hvis denne effekt fjernes eller erstattes, før den slutter."
+          },
+          {
+            "key": "specials.v2.statuseffect.major.buildupdamageonremoval.all.allies.onremoval.damage.random.enemies.expiration",
+            "text": "Alle allierede forvolder {DAMAGE}-{MAXDAMAGE} skade på en vilkårlig fjende efter {TURNS} runder, baseret på den skade, de allierede har taget, mens denne effekt var aktiv. Denne effekt kan ikke ophæves."
+          },
+          {
+            "key": "specials.v2.statuseffect.major.ghost.single.allies.onremoval.expiration.crit_increase_chao_gai.all.allies",
+            "text": "Kasteren tager form som spøgelse i {TURNS} runder. \n[*] Når spøgelsesformen er forbi:\n[*] Alle allierede får {REMOVALEFFECT1STATUSEFFECT1CRIT} % kritisk chance i {REMOVALEFFECT1STATUSEFFECT1TURNS} runder. Denne effekt kan ikke ophæves."
+          },
+          {
+            "key": "statuseffects.description.ghost.onremoval.expiration.crit_increase_chao_gai.all.allies",
+            "text": "Immun over for normale angreb, angreb med særlige egenskaber, passive skadegivere, statuseffekter og stakke, heriblandt vækst og visne. Kan ikke få mana. \nEfter [#!]{TURNSLEFT}[#] runder: \n[*]Alle allierede får {STATUSEFFECT1CRIT} % kritisk chance i {STATUSEFFECT1TURNS} runder. Denne effekt kan ikke ophæves."
+          },
+          {
+            "key": "specials.v2.property.removestatuseffects.minordebuff.all.allies.effectonremoval.addmana.single",
+            "text": "Fjerner alle statuslidelser fra alle allierede og øger alle allieredes mana med {POWER} % for hver af de rensede lidelser."
+          },
+          {
+            "key": "herocard.passive_skill.description.resist.alldefensemodifiers.defensewither.defensegrowth.allstatuseffectsandstacks",
+            "text": "Denne figur er ikke påvirket af effekter, der øger eller reducerer [#!]forsvar[#].\n\nDette inkluderer \n[*]statuseffektbuffere og lidelser,\n[*] positive og negative kumulative effekter\n[*] samt vækst- og visne-effekter"
+          },
+          {
+            "key": "button.proceed",
+            "text": "Fortsæt"
+          },
+          {
+            "key": "dialog.download_all.message",
+            "text": "Denne download er meget stor og kan føre til ekstra gebyrer på forbrugsbaserede forbindelser.\n\nEr du sikker?"
+          },
+          {
+            "key": "options.button.download_all_content",
+            "text": "Download alt indhold"
+          },
+          {
+            "key": "options.label.download_all_content",
+            "text": "Starter download af alt spilindhold. Brug kun dette, hvis du ofte oplever forbindelsesproblemer."
+          },
+          {
+            "key": "familybonuses.description.short.damage_on_special_dodge_wild_cat",
+            "text": "Hver særlige egenskab, der undviges, giver angriberen [#!]{1MEMBERFIXEDVALUE}/{2MEMBERSFIXEDVALUE}/{3MEMBERSFIXEDVALUE} skade."
+          },
+          {
+            "key": "shop.offers.subtitle.harvester_hype_xp_info",
+            "text": "Brug denne for at få +25 % mere effektiv træning, når du opgraderer helte"
+          }
+        ]
+      },
+      "Finnish": {
+        "overrideEntries": [
+          {
+            "key": "familyeffect.statuseffect.long.statuseffectperturn.minor.stackinghealthgeneration.single.allies",
+            "text": "[#!]{CHANCE} %:n[#]/[#!]{2MEMBERSCHANCE} %:n[#]/[#!]{3MEMBERSCHANCE} %:n[#] mahdollisuus saada seuraavat kasautumat jokaisen vuoron lopussa:\n[*][#!]Kasauma (maksimi: {MAXSTACK}):[#] Loitsija palauttaa {HEAL} terveyspistettä joka vuorolla."
+          },
+          {
+            "key": "specials.v2.statuseffect.minor.healthboostonremoval.all.allies.onremoval.healthboost.single.allies",
+            "text": "Tehostaa kaikkien liittolaisten terveyttä {REMOVALEFFECT1FIXEDPOWER} pisteellä {TURNS} vuoron jälkeen, tai välittömästi, jos vaikutus poistetaan ennen keston päättymistä. Tehostettu terveys voi ylittää maksimiterveyden."
+          },
+          {
+            "key": "statuseffects.description.healthboostonremoval.onremoval.healthboost.single.allies",
+            "text": "Tehostaa terveyttä [#!]{HEALTHBOOST}[#] pisteellä [#!]{TURNSLEFT}[#] vuoron jälkeen, tai välittömästi, jos tämä vaikutus poistetaan tai korvataan ennen keston päättymistä."
+          },
+          {
+            "key": "specials.v2.statuseffect.major.buildupdamageonremoval.all.allies.onremoval.damage.random.enemies.expiration",
+            "text": "Kaikki liittolaiset tekevät {DAMAGE}–{MAXDAMAGE} vauriota satunnaiselle viholliselle {TURNS} vuoron jälkeen. Vaurion määrä perustuu liittolaisten kärsimään vaurioon vaikutuksen voimassaoloaikana. Vaikutusta ei voi häivyttää."
+          },
+          {
+            "key": "specials.v2.statuseffect.major.ghost.single.allies.onremoval.expiration.crit_increase_chao_gai.all.allies",
+            "text": "Loitsija muuttuu haamuksi {TURNS} vuoron ajaksi. \n[*] Kun haamuna oleminen päättyy:\n[*] Kaikki liittolaiset saavat {REMOVALEFFECT1STATUSEFFECT1CRIT} % kriittisiä iskuja {REMOVALEFFECT1STATUSEFFECT1TURNS} vuoron ajaksi. Vaikutusta ei voi häivyttää."
+          },
+          {
+            "key": "statuseffects.description.ghost.onremoval.expiration.crit_increase_chao_gai.all.allies",
+            "text": "Immuuni normaalihyökkäyksille, erikoistaitohyökkäyksille, vauriota tuottaville passiivisille taidoille, tilaefekteille ja kasaumille, kuten kasvulle ja näivetykselle. Ei voi saada manaa. \n[#!]{TURNSLEFT}[#] vuoron jälkeen: \n[*]Kaikki liittolaiset saavat {STATUSEFFECT1CRIT} % kriittisiä iskuja {STATUSEFFECT1TURNS} vuoron ajaksi. Tätä vaikutusta ei voi häivyttää."
+          },
+          {
+            "key": "specials.v2.property.removestatuseffects.minordebuff.all.allies.effectonremoval.addmana.single",
+            "text": "Puhdistaa kaikki vaivat kaikilta liittolaisilta, ja lisää kaikkien liittolaisten manaa {POWER} % jokaista puhdistettua vaivaa kohti."
+          },
+          {
+            "key": "herocard.passive_skill.description.resist.alldefensemodifiers.defensewither.defensegrowth.allstatuseffectsandstacks",
+            "text": "Tämä hahmo on immuuni efekteille, jotka lisäävät tai vähentävät [#!]puolustusta[#].\n\nTämä koskee \n[*] Tilaefektitehosteita ja vaivoja\n[*] Positiivisia ja negatiivisia kasaumia\n[*] Näivetys- ja kasvuefektejä"
+          },
+          {
+            "key": "button.proceed",
+            "text": "Jatka"
+          },
+          {
+            "key": "dialog.download_all.message",
+            "text": "Tämä lataus on todella suuri, ja se voi aiheuttaa lisämaksuja liittymillä, joiden datasiirtoa mitataan.\n\nHaluatko varmasti jatkaa?"
+          },
+          {
+            "key": "options.button.download_all_content",
+            "text": "Lataa kaikki sisältö"
+          },
+          {
+            "key": "options.label.download_all_content",
+            "text": "Aloittaa kaiken pelisisällön lataamisen. Käytä tätä vain, jos sinulla on säännöllisiä yhteysongelmia."
+          },
+          {
+            "key": "familybonuses.description.short.damage_on_special_dodge_wild_cat",
+            "text": "Jokainen väistetty erikoistaito tuottaa hyökkääjälle [#!]{1MEMBERFIXEDVALUE}/{2MEMBERSFIXEDVALUE}/{3MEMBERSFIXEDVALUE} vauriota."
+          },
+          {
+            "key": "shop.offers.subtitle.harvester_hype_xp_info",
+            "text": "Tällä saat +25 % enemmän koulutusta, kun nostat sankareiden tasoa"
+          }
+        ]
+      },
+      "Norwegian": {
+        "overrideEntries": [
+          {
+            "key": "familyeffect.statuseffect.long.statuseffectperturn.minor.stackinghealthgeneration.single.allies",
+            "text": "[#!]{CHANCE} %[#]/[#!]{2MEMBERSCHANCE} %[#]/[#!]{3MEMBERSCHANCE} %[#] sjanse til å motta følgende stabler ved slutten av hver runde:\n[*][#!]Stabel (Maks: {MAXSTACK}):[#] Brukeren får tilbake {HEAL} HP hver runde."
+          },
+          {
+            "key": "specials.v2.statuseffect.minor.healthboostonremoval.all.allies.onremoval.healthboost.single.allies",
+            "text": "Øker helsen til alle allierte med {REMOVALEFFECT1FIXEDPOWER} etter {TURNS} runder, eller umiddelbart hvis effekten fjenes før den utløper. Økt helse kan overskride maksimal HP."
+          },
+          {
+            "key": "statuseffects.description.healthboostonremoval.onremoval.healthboost.single.allies",
+            "text": "Øk helsen med [#!]{HEALTHBOOST}[#] etter [#!]{TURNSLEFT}[#] runder, eller umiddelbart hvis denne effekten fjernes eller erstattes før varigheten er over."
+          },
+          {
+            "key": "specials.v2.statuseffect.major.buildupdamageonremoval.all.allies.onremoval.damage.random.enemies.expiration",
+            "text": "Alle allierte påfører {DAMAGE}–{MAXDAMAGE} skade på en tilfeldig fiende etter {TURNS} runder, basert på skaden allierte hadde tatt mens denne effekten var aktiv. Denne effekten kan ikke fjernes."
+          },
+          {
+            "key": "specials.v2.statuseffect.major.ghost.single.allies.onremoval.expiration.crit_increase_chao_gai.all.allies",
+            "text": "Denne brukeren skifter til spøkelsesform i {TURNS} runder. \n[*] Når spøkelsesformen utløper:\n[*] Alle allierte får {REMOVALEFFECT1STATUSEFFECT1CRIT} % kritisk sjanse i {REMOVALEFFECT1STATUSEFFECT1TURNS} runder. Denne effekten er ufjernbar."
+          },
+          {
+            "key": "statuseffects.description.ghost.onremoval.expiration.crit_increase_chao_gai.all.allies",
+            "text": "Immun mot normale angrep, angrep med spesialferdigheter, passive ferdigheter som påfører skade, statuseffekter og stabler; inkludert vekst og visne. Kan ikke få mana. \nEtter [#!]{TURNSLEFT}[#] runder: \n[*]Alle allierte får {STATUSEFFECT1CRIT} % fulltreffersjanse i {STATUSEFFECT1TURNS} runder. Denne effekten kan ikke fjernes."
+          },
+          {
+            "key": "specials.v2.property.removestatuseffects.minordebuff.all.allies.effectonremoval.addmana.single",
+            "text": "Renser alle statuslidelser på en trygg måte fra alle allierte, og øker alle alliertes mana med {POWER} % for hver rensede lidelse."
+          },
+          {
+            "key": "herocard.passive_skill.description.resist.alldefensemodifiers.defensewither.defensegrowth.allstatuseffectsandstacks",
+            "text": "Denne figuren påvirkes ikke av effekter som øker eller reduserer [#!]forsvar[#].\n\nDette inkluderer \n[*] statuseffektøkninger og -lidelser\n[*], positive og negative stabler\n[*] samt visne- og veksteffekter."
+          },
+          {
+            "key": "button.proceed",
+            "text": "Fortsett"
+          },
+          {
+            "key": "dialog.download_all.message",
+            "text": "Denne nedlastingen er svært stor og kan medføre ekstra gebyrer for forbruksbaserte tilkoblinger.\n\nEr du sikker?"
+          },
+          {
+            "key": "options.button.download_all_content",
+            "text": "Last ned alt innhold"
+          },
+          {
+            "key": "options.label.download_all_content",
+            "text": "Starter nedlasting av alt spillinnhold. Bruk bare dette hvis du opplever hyppige tilkoblingsproblemer."
+          },
+          {
+            "key": "familybonuses.description.short.damage_on_special_dodge_wild_cat",
+            "text": "Hver spesialferdighet man unnviker, skader angriperen med [#!]{1MEMBERFIXEDVALUE}/{2MEMBERSFIXEDVALUE}/{3MEMBERSFIXEDVALUE} skade."
+          },
+          {
+            "key": "shop.offers.subtitle.harvester_hype_xp_info",
+            "text": "Bruk for å få +25 % mer effektiv trening når du øker nivået på helter"
+          }
+        ]
+      },
+      "Swedish": {
+        "overrideEntries": [
+          {
+            "key": "familyeffect.statuseffect.long.statuseffectperturn.minor.stackinghealthgeneration.single.allies",
+            "text": "[#!]{CHANCE} %[#]/[#!]{2MEMBERSCHANCE} %[#]/[#!]{3MEMBERSCHANCE} %[#] chans att få följande staplar i slutet av varje runda:\n[*][#!]Stapel (max: {MAXSTACK}):[#] Användaren får tillbaka {HEAL} hälsa varje runda."
+          },
+          {
+            "key": "specials.v2.statuseffect.minor.healthboostonremoval.all.allies.onremoval.healthboost.single.allies",
+            "text": "Stärker alla allierades hälsa med {REMOVALEFFECT1FIXEDPOWER} efter {TURNS} rundor eller omedelbart om effekten tas bort innan dess. Hälsan kan komma att överstiga maxhälsan."
+          },
+          {
+            "key": "statuseffects.description.healthboostonremoval.onremoval.healthboost.single.allies",
+            "text": "Öka hälsan med [#!]{HEALTHBOOST}[#] efter [#!]{TURNSLEFT}[#] rundor, eller omedelbart om effekten tas bort innan dess."
+          },
+          {
+            "key": "specials.v2.statuseffect.major.buildupdamageonremoval.all.allies.onremoval.damage.random.enemies.expiration",
+            "text": "Alla allierade gör {DAMAGE}–{MAXDAMAGE} skada mot en slumpvald fiende efter {TURNS} rundor baserat på skadan som de allierade tog under tiden som effekten var aktiv. Effekten kan inte avbrytas."
+          },
+          {
+            "key": "specials.v2.statuseffect.major.ghost.single.allies.onremoval.expiration.crit_increase_chao_gai.all.allies",
+            "text": "Användaren antar spökform under {TURNS} rundor.\n[*] När spökformen upphör:\n[*] Alla allierade får {REMOVALEFFECT1STATUSEFFECT1CRIT} % kritisk chans i {REMOVALEFFECT1STATUSEFFECT1TURNS} rundor. Effekten kan inte avbrytas."
+          },
+          {
+            "key": "statuseffects.description.ghost.onremoval.expiration.crit_increase_chao_gai.all.allies",
+            "text": "Immun mot vanliga attacker, specialattacker, statuseffekter och staplar; vittring och tillväxt. Kan inte skapa mana. \nEfter [#!]{TURNSLEFT}[#] rundor: \n[*]Alla allierade får {STATUSEFFECT1CRIT} % kritisk träffchans i {STATUSEFFECT1TURNS} rundor. Effekten kan inte avbrytas"
+          },
+          {
+            "key": "specials.v2.property.removestatuseffects.minordebuff.all.allies.effectonremoval.addmana.single",
+            "text": "Rensar alla negativa statuseffekter från alla allierade och ökar alla allierades mana med {POWER} % för varje rensar negativ effekt."
+          },
+          {
+            "key": "herocard.passive_skill.description.resist.alldefensemodifiers.defensewither.defensegrowth.allstatuseffectsandstacks",
+            "text": "Den här karaktären påverkas inte av effekter som höjer eller sänker [#!]försvar[#].\n\nDet här innefattar: \n[*] Positiva och negativa statuseffekter\n[*] Positiva och negativa staplar\n[*] Vittrings- och tillväxteffekter"
+          },
+          {
+            "key": "button.proceed",
+            "text": "Fortsätt"
+          },
+          {
+            "key": "dialog.download_all.message",
+            "text": "Den här nedladdningen är mycket stor och kan medföra extra avgifter på anslutningar med datapriser.\n\nÄr du säker?"
+          },
+          {
+            "key": "options.button.download_all_content",
+            "text": "Ladda ner allt innehåll"
+          },
+          {
+            "key": "options.label.download_all_content",
+            "text": "Påbörjar nedladdning av allt innehåll. Använd endast den här funktionen om du har återkommande anslutningsproblem."
+          },
+          {
+            "key": "familybonuses.description.short.damage_on_special_dodge_wild_cat",
+            "text": "Varje specialförmåga som undviks gör [#!]{1MEMBERFIXEDVALUE}/{2MEMBERSFIXEDVALUE}/{3MEMBERSFIXEDVALUE} skada mot anfallaren."
+          },
+          {
+            "key": "shop.offers.subtitle.harvester_hype_xp_info",
+            "text": "Används för att få 25 % mer effektiv träning när du ökar nivån på hjältar"
+          }
+        ]
+      },
+      "Korean": {
+        "overrideEntries": [
+          {
+            "key": "familyeffect.statuseffect.long.statuseffectperturn.minor.stackinghealthgeneration.single.allies",
+            "text": "[#!]{CHANCE}%[#]/[#!]{2MEMBERSCHANCE}%[#]/[#!]{3MEMBERSCHANCE}%[#] 확률로 턴 종료 시 다음 중첩을 받습니다:\n[*][#!]중첩 (최대: {MAXSTACK}):[#] 시전자가 턴마다 {HEAL} HP를 회복합니다."
+          },
+          {
+            "key": "specials.v2.statuseffect.minor.healthboostonremoval.all.allies.onremoval.healthboost.single.allies",
+            "text": "모든 아군이 {TURNS}턴 후 {REMOVALEFFECT1FIXEDPOWER} HP를 받거나, 지속 시간이 종료되기 전에 효과가 제거된 경우에는 즉시 받습니다. 높아진 HP는 최대 HP를 초과할 수 있습니다."
+          },
+          {
+            "key": "statuseffects.description.healthboostonremoval.onremoval.healthboost.single.allies",
+            "text": "[#!]{TURNSLEFT}[#]턴 후, 모든 아군이 [#!]{HEALTHBOOST}[#] HP를 받거나, 지속 시간이 종료되기 전에 이 효과가 제거 또는 교체된 경우에는 즉시 받습니다."
+          },
+          {
+            "key": "specials.v2.statuseffect.major.buildupdamageonremoval.all.allies.onremoval.damage.random.enemies.expiration",
+            "text": "이 효과가 지속되는 동안에는 아군이 받은 피해에 근거하여, {TURNS}턴 후에 모든 아군이 무작위 적에게 {DAMAGE} - {MAXDAMAGE} 피해를 줍니다. 이 효과는 해제할 수 없습니다."
+          },
+          {
+            "key": "specials.v2.statuseffect.major.ghost.single.allies.onremoval.expiration.crit_increase_chao_gai.all.allies",
+            "text": "시전자가 {TURNS}턴 동안 유령 형태로 변합니다. \n[*] 유령 형태가 종료 후:\n[*] 모든 아군이 {REMOVALEFFECT1STATUSEFFECT1TURNS}턴 동안 {REMOVALEFFECT1STATUSEFFECT1CRIT}% 치명타 확률을 얻습니다. 이 효과는 해제할 수 없습니다."
+          },
+          {
+            "key": "statuseffects.description.ghost.onremoval.expiration.crit_increase_chao_gai.all.allies",
+            "text": "일반 공격, 특수 기술 공격, 피해 패시브 스킬, 상태 효과, 중첩에 면역이며 성장과 시들기에도 면역입니다. 마나를 획득할 수 없습니다. \n[#!]{TURNSLEFT}[#] 턴 후: \n[*]모든 아군이 {STATUSEFFECT1CRIT}% 치명타 확률을 {STATUSEFFECT1TURNS}턴 동안 받습니다. 이 효과는 해제할 수 없습니다."
+          },
+          {
+            "key": "specials.v2.property.removestatuseffects.minordebuff.all.allies.effectonremoval.addmana.single",
+            "text": "모든 아군의 모든 상태 이상을 정화하고, 치유된 상태 이상 하나당 모든 아군의 마나를 {POWER}%만큼 증가시킵니다."
+          },
+          {
+            "key": "herocard.passive_skill.description.resist.alldefensemodifiers.defensewither.defensegrowth.allstatuseffectsandstacks",
+            "text": "이 캐릭터는 [#!]방어력[#]을 증가 또는 감소시키는 효과의 영향을 받지 않습니다.\n\n여기에는 다음이 포함됩니다\n[*] 상태 효과 버프와 질병\n[*] 플러스 및 마이너스 스택\n[*] 쇠퇴와 성장 효과"
+          },
+          {
+            "key": "button.proceed",
+            "text": "진행"
+          },
+          {
+            "key": "dialog.download_all.message",
+            "text": "이 다운로드 파일은 크기가 매우 크며, 계량 연결의 경우 추가 요금이 부과될 수 있습니다.\n\n정말로 계속하시겠습니까?"
+          },
+          {
+            "key": "options.button.download_all_content",
+            "text": "모든 콘텐츠 다운로드"
+          },
+          {
+            "key": "options.label.download_all_content",
+            "text": "모든 게임 콘텐츠 다운로드를 시작합니다. 잦은 연결 문제를 경험하는 경우에만 이 옵션을 사용하세요."
+          },
+          {
+            "key": "familybonuses.description.short.damage_on_special_dodge_wild_cat",
+            "text": "특수 스킬을 회피할 때마다 공격자에게 [#!]{1MEMBERFIXEDVALUE}/{2MEMBERSFIXEDVALUE}/{3MEMBERSFIXEDVALUE} 피해를 입힙니다."
+          },
+          {
+            "key": "shop.offers.subtitle.harvester_hype_xp_info",
+            "text": "사용하면 영웅 레벨을 올릴 때 훈련 효과가 25% 상승합니다"
+          }
+        ]
+      },
+      "Japanese": {
+        "overrideEntries": [
+          {
+            "key": "familyeffect.statuseffect.long.statuseffectperturn.minor.stackinghealthgeneration.single.allies",
+            "text": "各ターン終了時に[#!]{CHANCE}%[#]/[#!]{2MEMBERSCHANCE}%[#]/[#!]{3MEMBERSCHANCE}%[#]の確率で以下の累積を追加する：\n[*][#!]累積効果(最大：{MAXSTACK}):[#]術者のHPがターン毎に{HEAL}回復する。"
+          },
+          {
+            "key": "specials.v2.statuseffect.minor.healthboostonremoval.all.allies.onremoval.healthboost.single.allies",
+            "text": "{TURNS}ターン後に、仲間全員のライフが{REMOVALEFFECT1FIXEDPOWER}ブーストされる。前述のターン終了前にこの効果が消去されると、その時点でライフが付与される。ライフ値が最大HPを超えた場合は、一時的に最大HP値が増加する。"
+          },
+          {
+            "key": "statuseffects.description.healthboostonremoval.onremoval.healthboost.single.allies",
+            "text": "[#!]{TURNSLEFT}[#]ターン後に、仲間全員のライフが[#!]{HEALTHBOOST}[#]ブーストされる。前述のターン終了前にこの効果が消去されると、その時点でライフが付与される。"
+          },
+          {
+            "key": "specials.v2.statuseffect.major.buildupdamageonremoval.all.allies.onremoval.damage.random.enemies.expiration",
+            "text": "{TURNS}ターン後に、この効果が発動中に仲間が受けたダメージに基づいて、仲間全員が{DAMAGE}-{MAXDAMAGE}のダメージをランダムな敵1体に与える。この効果は解除できない。"
+          },
+          {
+            "key": "specials.v2.statuseffect.major.ghost.single.allies.onremoval.expiration.crit_increase_chao_gai.all.allies",
+            "text": "{TURNS}ターンの間、術者がゴースト形態になる。\n[*]ゴースト形態が終了すると：\n[*]{REMOVALEFFECT1STATUSEFFECT1TURNS}ターンの間、味方全員のクリティカル攻撃成功率が{REMOVALEFFECT1STATUSEFFECT1CRIT}%になる。この効果は解除できない。"
+          },
+          {
+            "key": "statuseffects.description.ghost.onremoval.expiration.crit_increase_chao_gai.all.allies",
+            "text": "通常攻撃、特殊スキル攻撃、ダメージ付きのパッシブ、ステータス効果、累積効果を無効にする。これには成長効果や弱体化も含まれる。マナも獲得できなくなる。\n[#!]{TURNSLEFT}[#]ターン後：\n{STATUSEFFECT1TURNS}ターンの間、仲間全員のクリティカル攻撃を与える確率が{STATUSEFFECT1CRIT}%になる。この効果は解除できない。"
+          },
+          {
+            "key": "specials.v2.property.removestatuseffects.minordebuff.all.allies.effectonremoval.addmana.single",
+            "text": "仲間全員のステータス異常を浄化する。ステータス異常を1つ浄化するごとに仲間全員のマナが{POWER}%上昇する。"
+          },
+          {
+            "key": "herocard.passive_skill.description.resist.alldefensemodifiers.defensewither.defensegrowth.allstatuseffectsandstacks",
+            "text": "このキャラクターは[#!]防御力[#]の増減に影響するステータス効果を無効化する。\n\nこれには\n[*]ステータス効果バフやステータス異常、\n[*]プラスやマイナスの累積、\n[*]弱化および成長効果を含む。"
+          },
+          {
+            "key": "button.proceed",
+            "text": "進む"
+          },
+          {
+            "key": "dialog.download_all.message",
+            "text": "このダウンロードコンテンツは非常に大容量のため、追加の通信料がかかる場合があります。\n\n本当によろしいですか？"
+          },
+          {
+            "key": "options.button.download_all_content",
+            "text": "すべてのコンテンツをダウンロード"
+          },
+          {
+            "key": "options.label.download_all_content",
+            "text": "すべてのゲームコンテンツのダウンロードを開始します。頻繁に接続に関する問題が発生する場合のみ、このオプションを使用してください。"
+          },
+          {
+            "key": "familybonuses.description.short.damage_on_special_dodge_wild_cat",
+            "text": "特殊スキルを回避するごとに攻撃者に[#!]{1MEMBERFIXEDVALUE}/{2MEMBERSFIXEDVALUE}/{3MEMBERSFIXEDVALUE}ダメージを与える。"
+          },
+          {
+            "key": "shop.offers.subtitle.harvester_hype_xp_info",
+            "text": "英雄をレベルアップする際に使用すると、+25%効果的に訓練できる"
+          }
+        ]
+      },
       "ChineseSimplified": {
         "overrideEntries": [
           {
@@ -1198,6 +1018,186 @@
           {
             "key": "shop.offers.subtitle.harvester_hype_xp_info",
             "text": "用于在英雄升级时获得+25%的训练效率"
+          }
+        ]
+      },
+      "ChineseTraditional": {
+        "overrideEntries": [
+          {
+            "key": "familyeffect.statuseffect.long.statuseffectperturn.minor.stackinghealthgeneration.single.allies",
+            "text": "[#!]{CHANCE}%[#]/[#!]{2MEMBERSCHANCE}%[#]/[#!]{3MEMBERSCHANCE}%[#]的機率可在每回合結束時收到下列疊加：\n[*][#!]疊加（上限：{MAXSTACK}）：[#]施法者每個回合恢復{HEAL}生命值。"
+          },
+          {
+            "key": "specials.v2.statuseffect.minor.healthboostonremoval.all.allies.onremoval.healthboost.single.allies",
+            "text": "所有盟友在{TURNS}個回合後獲得生命值加成{REMOVALEFFECT1FIXEDPOWER}點生命值。若效果在持續時間結束前移除，則會立即恢復。生命值加成可超越最大生命值。"
+          },
+          {
+            "key": "statuseffects.description.healthboostonremoval.onremoval.healthboost.single.allies",
+            "text": "[#!]{TURNSLEFT}[#]個回合後，獲得[#!]{HEALTHBOOST}[#]點生命值加成，若此效果在持續時間結束前遭移除或被取代，則立刻生效。"
+          },
+          {
+            "key": "specials.v2.statuseffect.major.buildupdamageonremoval.all.allies.onremoval.damage.random.enemies.expiration",
+            "text": "此效果啟用時，將根據盟友所受到的傷害，在{TURNS}個回合後由所有盟友對一名隨機敵人造成{DAMAGE} - {MAXDAMAGE}點傷害。此效果無法驅散。"
+          },
+          {
+            "key": "specials.v2.statuseffect.major.ghost.single.allies.onremoval.expiration.crit_increase_chao_gai.all.allies",
+            "text": "施法者轉變為幽靈型態，持續{TURNS}個回合。 \n[*] 當幽靈形態期間結束時：\n[*] 所有盟友獲得{REMOVALEFFECT1STATUSEFFECT1CRIT}%暴擊率，持續{REMOVALEFFECT1STATUSEFFECT1TURNS}回合。此效果無法驅散。"
+          },
+          {
+            "key": "statuseffects.description.ghost.onremoval.expiration.crit_increase_chao_gai.all.allies",
+            "text": "免疫普通攻擊、特殊技能攻擊、會造成傷害的被動、狀態效果和疊加；包括成長和枯萎。無法獲得法力。\n經過[#!]{TURNSLEFT}[#]回合後：\n[*]所有盟友獲得{STATUSEFFECT1CRIT}%暴擊率，持續{STATUSEFFECT1TURNS}個回合。此效果無法驅散。"
+          },
+          {
+            "key": "specials.v2.property.removestatuseffects.minordebuff.all.allies.effectonremoval.addmana.single",
+            "text": "淨化所有盟友的所有狀態異常，根據每個淨化的異常，提升所有盟友的法力{POWER}%。"
+          },
+          {
+            "key": "herocard.passive_skill.description.resist.alldefensemodifiers.defensewither.defensegrowth.allstatuseffectsandstacks",
+            "text": "此角色不受增加或減少[#!]防禦[#]的效果影響。\n\n這包括\n[*]狀態效果增益以及異常\n[*]正面與負面疊加\n[*]成長和枯萎效果"
+          },
+          {
+            "key": "button.proceed",
+            "text": "繼續"
+          },
+          {
+            "key": "dialog.download_all.message",
+            "text": "此下載非常大，可能會對計量連接產生額外費用。\n\n你確定嗎?"
+          },
+          {
+            "key": "options.button.download_all_content",
+            "text": "下載所有內容"
+          },
+          {
+            "key": "options.label.download_all_content",
+            "text": "開始下載所有遊戲內容。僅在遇到頻繁連接問題時使用此選項。"
+          },
+          {
+            "key": "familybonuses.description.short.damage_on_special_dodge_wild_cat",
+            "text": "每次閃避特殊技能時，都會對攻擊者造成[#!]{1MEMBERFIXEDVALUE}/{2MEMBERSFIXEDVALUE}/{3MEMBERSFIXEDVALUE}點傷害。"
+          },
+          {
+            "key": "shop.offers.subtitle.harvester_hype_xp_info",
+            "text": "用於在升級英雄時獲取+25%訓練效果"
+          }
+        ]
+      },
+      "Turkish": {
+        "overrideEntries": [
+          {
+            "key": "familyeffect.statuseffect.long.statuseffectperturn.minor.stackinghealthgeneration.single.allies",
+            "text": "Her turun sonunda şu istifleri almak için [#!]%{CHANCE}[#]/[#!]%{2MEMBERSCHANCE}[#]/[#!]%{3MEMBERSCHANCE}[#] şans:\n[*][#!]İstif (Maks.: {MAXSTACK}):[#] Eylemci her turda {HEAL} SP yeniler."
+          },
+          {
+            "key": "specials.v2.statuseffect.minor.healthboostonremoval.all.allies.onremoval.healthboost.single.allies",
+            "text": "Tüm müttefiklerin sağlığını, {TURNS} tur sonra veya efekt, süresi sona ermeden önce kaldırılırsa anında {REMOVALEFFECT1FIXEDPOWER} artırır. Güçlendirilen sağlık, maks. SP'yi geçebilir."
+          },
+          {
+            "key": "statuseffects.description.healthboostonremoval.onremoval.healthboost.single.allies",
+            "text": "Tüm müttefiklerin sağlığını, [#!]{TURNSLEFT}[#] tur sonra veya bu efekt, süresi sona ermeden önce kaldırılırsa anında [#!]{HEALTHBOOST}[#] artırır."
+          },
+          {
+            "key": "specials.v2.statuseffect.major.buildupdamageonremoval.all.allies.onremoval.damage.random.enemies.expiration",
+            "text": "Tüm müttefikler, efekt aktifken müttefiklerin aldığı hasara bağlı olarak {TURNS} turun ardından rastgele bir düşmana {DAMAGE} - {MAXDAMAGE} hasar verir. Bu efekt bozulamaz."
+          },
+          {
+            "key": "specials.v2.statuseffect.major.ghost.single.allies.onremoval.expiration.crit_increase_chao_gai.all.allies",
+            "text": "Eylemci {TURNS} boyunca Hayalet formuna dönüşür. \n[*] Hayalet formun süresi dolduğunda:\n[*] Tüm müttefikler {REMOVALEFFECT1STATUSEFFECT1TURNS} tur boyunca %{REMOVALEFFECT1STATUSEFFECT1CRIT} kritik şans alır. Bu efekt bozulamaz."
+          },
+          {
+            "key": "statuseffects.description.ghost.onremoval.expiration.crit_increase_chao_gai.all.allies",
+            "text": "Normal saldırılara, Özel Yetenek saldırılarına, hasar veren pasiflere, büyüme ve soldurma da dâhil olmak üzere durum efektlerine ve istiflere karşı bağışıktır. Mana kazanamaz. \n[#!]{TURNSLEFT}[#] turdan sonra: \n[*]Tüm müttefikler {STATUSEFFECT1TURNS} tur boyunca %{STATUSEFFECT1CRIT} kritik şansı alır. Bu efekt bozulamaz."
+          },
+          {
+            "key": "specials.v2.property.removestatuseffects.minordebuff.all.allies.effectonremoval.addmana.single",
+            "text": "Tüm müttefiklerden tüm durum engellerini arındırır ve arındırılan her engel için tüm müttefiklerin manasını %{POWER} artırır."
+          },
+          {
+            "key": "herocard.passive_skill.description.resist.alldefensemodifiers.defensewither.defensegrowth.allstatuseffectsandstacks",
+            "text": "Bu karakter [#!]savunmayı[#] artıran veya azaltan efektlerden etkilenmez.\n\nBuna \n[*] Durum efekti buff'ları ve engelleri\n[*] Olumlu ve olumsuz istifler\n[*] Büyüme ve Soldurma efektleri dâhildir."
+          },
+          {
+            "key": "button.proceed",
+            "text": "Devam et"
+          },
+          {
+            "key": "dialog.download_all.message",
+            "text": "Bu indirme işlemi çok büyüktür ve ücretli bağlantılarda ek ücrete tabi olabilir.\n\nEmin misin?"
+          },
+          {
+            "key": "options.button.download_all_content",
+            "text": "Tüm içeriği indir"
+          },
+          {
+            "key": "options.label.download_all_content",
+            "text": "Tüm oyun içeriği için indirmeyi başlatır. Bunu yalnızca sık sık bağlantı sorunları yaşıyorsan kullan."
+          },
+          {
+            "key": "familybonuses.description.short.damage_on_special_dodge_wild_cat",
+            "text": "Savuşturulan her Özel Yetenek, saldırgana [#!]{1MEMBERFIXEDVALUE}/{2MEMBERSFIXEDVALUE}/{3MEMBERSFIXEDVALUE} hasar verir."
+          },
+          {
+            "key": "shop.offers.subtitle.harvester_hype_xp_info",
+            "text": "Kahramanların seviyesini yükseltirken eğitimlerin +%25 daha etkili olması için kullan"
+          }
+        ]
+      },
+      "Arabic": {
+        "overrideEntries": [
+          {
+            "key": "familyeffect.statuseffect.long.statuseffectperturn.minor.stackinghealthgeneration.single.allies",
+            "text": "[#!]{CHANCE}%[#]/[#!]{2MEMBERSCHANCE}%[#]/[#!]{3MEMBERSCHANCE}%[#] فرصة للحصول على التراكمات التالية في نهاية كل جولة:\n[*][#!]تراكم (الحد الأقصى: {MAXSTACK}):[#] يستعيد الرامي {HEAL} من نقاط الصحة في كل جولة."
+          },
+          {
+            "key": "specials.v2.statuseffect.minor.healthboostonremoval.all.allies.onremoval.healthboost.single.allies",
+            "text": "يعزز صحة جميع الحلفاء بمقدار {REMOVALEFFECT1FIXEDPOWER} بعد {TURNS} من الجولات. أو على الفور إذا أُزيل التأثير قبل انتهاء المدة. يمكن للصحة المعززة تجاوز نقاط الصحة القصوى."
+          },
+          {
+            "key": "statuseffects.description.healthboostonremoval.onremoval.healthboost.single.allies",
+            "text": "يعزز الصحة بنسبة [#!]{HEALTHBOOST}[#] بعد [#!]{TURNSLEFT}[#] من الجولات، أو فورًا إذا أُزيل هذا التأثير أو استُبدل قبل انتهاء المدة."
+          },
+          {
+            "key": "specials.v2.statuseffect.major.buildupdamageonremoval.all.allies.onremoval.damage.random.enemies.expiration",
+            "text": "يلحق جميع الحلفاء {DAMAGE} - {MAXDAMAGE} بعدو عشوائي بعد {TURNS} من الأدوار، بناءً على الضرر الذي تلقاه الحلفاء بينما كان هذه التأثير نشطًا. لا يمكن إزالة هذا التأثير."
+          },
+          {
+            "key": "specials.v2.statuseffect.major.ghost.single.allies.onremoval.expiration.crit_increase_chao_gai.all.allies",
+            "text": "يتحول الملقي إلى شبح لمدة {TURNS} من الجولات.\n[*] عندما ينتهي وقت هيئة الشبح:\n[*] يحصل جميع الحلفاء على فرصة حاسمة بنسبة {REMOVALEFFECT1STATUSEFFECT1CRIT}% لمدة {REMOVALEFFECT1STATUSEFFECT1TURNS} من الجولات. لا يمكن إزالة هذا التأثير."
+          },
+          {
+            "key": "statuseffects.description.ghost.onremoval.expiration.crit_increase_chao_gai.all.allies",
+            "text": "محصّن ضد الهجمات العادية، وهجمات المهارات الخاصة، وقدرات إلحاق الضرر الخاملة، وتأثيرات الحالة والتراكمات؛ بما في ذلك النمو والتلف. لا يمكن اكتساب القوة.\nبعد [#!]{TURNSLEFT}[#] من الجولات:\n[*]يحصل جميع الحلفاء على فرصة حاسمة بنسبة {STATUSEFFECT1CRIT}% لمدة {STATUSEFFECT1TURNS} من الجولات. لن يمكن إزالة هذا التأثير."
+          },
+          {
+            "key": "specials.v2.property.removestatuseffects.minordebuff.all.allies.effectonremoval.addmana.single",
+            "text": "لتطهير جميع الحلفاء من حالات الأمراض بأمان، ويزيد قوة جميع الحلفاء بنسبة {POWER}% لكل مرض تم تطهيره."
+          },
+          {
+            "key": "herocard.passive_skill.description.resist.alldefensemodifiers.defensewither.defensegrowth.allstatuseffectsandstacks",
+            "text": "لا تتأثر هذه الشخصية بالتأثيرات التي تزيد أو تقلل من [#!]الدفاع[#].\n\nيشمل هذا \n[*] علاوات التأثيرات على الحالة والأمراض\n[*] التراكمات الإيجابية والسلبية[*] تأثيري النمو والتلف"
+          },
+          {
+            "key": "button.proceed",
+            "text": "متابعة"
+          },
+          {
+            "key": "dialog.download_all.message",
+            "text": "عملية التنزيل كبيرة جدًّا، وقد يؤدي ذلك إلى فرض رسوم إضافية عند استخدام شبكات محدودة البيانات.\n\nهل أنت متأكد أنك تريد المتابعة؟"
+          },
+          {
+            "key": "options.button.download_all_content",
+            "text": "تنزيل كل المحتوى"
+          },
+          {
+            "key": "options.label.download_all_content",
+            "text": "يبدأ تنزيل كل محتوى اللعبة. استخدم هذا الخيار فقط إذا كنت تواجه مشاكل متكررة في الاتصال."
+          },
+          {
+            "key": "familybonuses.description.short.damage_on_special_dodge_wild_cat",
+            "text": "تتسب كل مهارة خاصة يتم تفاديها في إلحاق ضرر بالمهاجم بمقدار [#!]{1MEMBERFIXEDVALUE}/{2MEMBERSFIXEDVALUE}/{3MEMBERSFIXEDVALUE} من الضرر."
+          },
+          {
+            "key": "shop.offers.subtitle.harvester_hype_xp_info",
+            "text": "يستخدم للحصول على +25% من التدريب الأكثر فعالية عند رفع مستويات الأبطال"
           }
         ]
       }

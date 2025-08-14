@@ -170,7 +170,7 @@
 "familybonuses.description.short.damage_gem_per_turn.match_damage","每回合，与此英雄颜色相同的{TILESPERTURN}面普通盾牌将被权力宝石所代替。每种元素在面板上同一时间最多只能有{MAXTILESONBOARD}颗权力宝石。"
 "familybonuses.description.short.damage_gem_per_turn.match_effect.directeffect.damage.all.enemies","每回合，与此英雄颜色相同的{TILESPERTURN}面普通盾牌将被权力宝石所代替。每种元素在面板上同一时间最多只能有{MAXTILESONBOARD}颗权力宝石。"
 "familybonuses.description.short.damage_gem_per_turn.match_effect.directeffect.damage.random.enemies","每回合，与此英雄颜色相同的{TILESPERTURN}面普通盾牌将被权力宝石所代替。每种元素在面板上同一时间最多只能有{MAXTILESONBOARD}颗权力宝石。"
-"familybonuses.description.short.damage_on_special_dodge_wild_cat","每次闪避特殊技能时，对攻击者造成{1MEMBERFIXEDVALUE}/{2MEMBERSFIXEDVALUE}/{3MEMBERSFIXEDVALUE} 点伤害。"
+"familybonuses.description.short.damage_on_special_dodge_wild_cat","每次闪避特殊技能时，对攻击者造成{FIXEDVALUE}点伤害"
 "familybonuses.description.short.defense_multiplier","{MULTIPLIERPERCENTCHANGE}%防御"
 "familybonuses.description.short.defense_multiplier_atlantis","{MULTIPLIERPERCENTCHANGE}%防御"
 "familybonuses.description.short.defense_multiplier_classic","{MULTIPLIERPERCENTCHANGE}%防御"

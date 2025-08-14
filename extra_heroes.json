@@ -62,7 +62,8 @@
             "attack": 1564,
             "defense": 1564,
             "health": 2654
-        }
+        },
+        "Lottery_Only":1
     },
     
     {
@@ -127,6 +128,84 @@
             "attack": 1564,
             "defense": 1564,
             "health": 2654
-        }
+        },
+        "Lottery_Only":1
+    },
+    {
+        "name": "Bartholomew",
+        "fancy_name": "Bell Pepper Barbarian",
+        "color": "Red",
+        "Release date": "",
+        "star": 5,
+        "family": "vegetable",
+        "costume_id": 0,
+        "heroId": "vegetable_bartholomew",
+        "Lottery_Only":1
+    },
+    {
+        "name": "Elsbeth",
+        "fancy_name": "Beetroot Knight",
+        "color": "Purple",
+        "Release date": "",
+        "star": 5,
+        "family": "vegetable",
+        "costume_id": 0,
+        "heroId": "vegetable_elsbeth",
+        "Lottery_Only":1
+    },
+    {
+        "name": "Zestique",
+        "fancy_name": "Sweet Blushing Slime",
+        "color": "Red",
+        "Release date": "",
+        "star": 5,
+        "family": "slime",
+        "costume_id": 0,
+        "heroId": "slime_zestique",
+        "Lottery_Only":1
+    },
+    {
+        "name": "Svafa",
+        "fancy_name": "Dwarven Big Game Hunter",
+        "color": "Blue",
+        "Release date": "",
+        "star": 5,
+        "family": "myrkheim",
+        "costume_id": 0,
+        "heroId": "tales2_svafa",
+        "Lottery_Only":1
+    },
+    {
+        "name": "Griffex C1",
+        "fancy_name": "Modifier of Obscura",
+        "color": "Purple",
+        "Release date": "",
+        "star": 5,
+        "family": "superelemental",
+        "costume_id": 0,
+        "heroId": "elemental_griffex_costume_camera",
+        "Lottery_Only":1
+    },
+    {
+        "name": "Hygil",
+        "fancy_name": "Astral Dwarf Cartographer",
+        "color": "Green",
+        "Release date": "",
+        "star": 5,
+        "family": "astral_dwarfs",
+        "costume_id": 0,
+        "heroId": "astral_dwarf_hygil",
+        "Lottery_Only":1
+    },
+    {
+        "name": "Stravia",
+        "fancy_name": "Messenger of the Chentari",
+        "color": "Yellow",
+        "Release date": "",
+        "star": 5,
+        "family": "wild_cat",
+        "costume_id": 0,
+        "heroId": "wild_cat_stravia",
+        "Lottery_Only":1
     }
 ]

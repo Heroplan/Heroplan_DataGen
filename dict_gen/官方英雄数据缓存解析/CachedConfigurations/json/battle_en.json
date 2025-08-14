@@ -11023,7 +11023,7 @@
       {
         "id": "Squire of Springvale",
         "element": "Red",
-        "family": "春谷家族",
+        "family": "easter",
         "baseHealth": 420,
         "baseAttack": 275,
         "baseDefense": 130,
@@ -11038,7 +11038,7 @@
       {
         "id": "Guardian of Springvale",
         "element": "Blue",
-        "family": "春谷家族",
+        "family": "easter",
         "baseHealth": 480,
         "baseAttack": 275,
         "baseDefense": 150,
@@ -11053,7 +11053,7 @@
       {
         "id": "Champion of Springvale",
         "element": "Green",
-        "family": "春谷家族",
+        "family": "easter",
         "baseHealth": 450,
         "baseAttack": 275,
         "baseDefense": 140,
@@ -13539,7 +13539,7 @@
       {
         "id": "Commander of Valkyries",
         "element": "Yellow",
-        "family": "米德加德王国",
+        "family": "midgard",
         "baseHealth": 420,
         "baseAttack": 275,
         "baseDefense": 120,
@@ -13555,7 +13555,7 @@
       {
         "id": "Beekeeper of Alfheim",
         "element": "Yellow",
-        "family": "艾尔夫海姆王国",
+        "family": "alfheim",
         "baseHealth": 420,
         "baseAttack": 275,
         "baseDefense": 120,
@@ -13599,7 +13599,7 @@
       {
         "id": "Weavers of Destiny",
         "element": "Yellow",
-        "family": "瓦纳海姆王国",
+        "family": "vanaheim",
         "baseHealth": 420,
         "baseAttack": 275,
         "baseDefense": 120,
@@ -13662,7 +13662,7 @@
       {
         "id": "s3_ultimate_ice_king",
         "element": "Blue",
-        "family": "约顿海姆王国",
+        "family": "jotunheim",
         "baseHealth": 4000,
         "baseAttack": 350,
         "baseDefense": 120,
@@ -13677,7 +13677,7 @@
       {
         "id": "Cursed Viking Bruiser",
         "element": "Purple",
-        "family": "尼福尔海姆王国",
+        "family": "niflheim",
         "baseHealth": 420,
         "baseAttack": 275,
         "baseDefense": 120,
@@ -13693,7 +13693,7 @@
       {
         "id": "Barbaric Ice Giant",
         "element": "Blue",
-        "family": "约顿海姆王国",
+        "family": "jotunheim",
         "baseHealth": 420,
         "baseAttack": 275,
         "baseDefense": 120,
@@ -13731,7 +13731,7 @@
       {
         "id": "s3_boss_ice_king",
         "element": "Blue",
-        "family": "约顿海姆王国",
+        "family": "jotunheim",
         "baseHealth": 420,
         "baseAttack": 275,
         "baseDefense": 120,
@@ -13746,7 +13746,7 @@
       {
         "id": "Ice Dwarf of Jotunheim",
         "element": "Blue",
-        "family": "约顿海姆王国",
+        "family": "jotunheim",
         "baseHealth": 420,
         "baseAttack": 275,
         "baseDefense": 120,
@@ -13857,7 +13857,7 @@
       {
         "id": "Squire of Springvale",
         "element": "Blue",
-        "family": "春谷家族",
+        "family": "easter",
         "baseHealth": 420,
         "baseAttack": 275,
         "baseDefense": 120,
@@ -13873,7 +13873,7 @@
       {
         "id": "Mender of Springvale",
         "element": "Yellow",
-        "family": "春谷家族",
+        "family": "easter",
         "baseHealth": 500,
         "baseAttack": 250,
         "baseDefense": 160,
@@ -13889,7 +13889,7 @@
       {
         "id": "Savage Protector of Springvale",
         "element": "Purple",
-        "family": "春谷家族",
+        "family": "easter",
         "baseHealth": 680,
         "baseAttack": 260,
         "baseDefense": 180,
@@ -13905,7 +13905,7 @@
       {
         "id": "Mighty Knight of Springvale",
         "element": "Yellow",
-        "family": "春谷家族",
+        "family": "easter",
         "baseHealth": 680,
         "baseAttack": 260,
         "baseDefense": 180,
@@ -13921,7 +13921,7 @@
       {
         "id": "Shadowblade of Svartalfheim",
         "element": "Green",
-        "family": "瓦特海姆王国",
+        "family": "svartalfheim",
         "baseHealth": 440,
         "baseAttack": 285,
         "baseDefense": 120,
@@ -13937,7 +13937,7 @@
       {
         "id": "Poisoner of Svartalfheim",
         "element": "Purple",
-        "family": "瓦特海姆王国",
+        "family": "svartalfheim",
         "baseHealth": 440,
         "baseAttack": 285,
         "baseDefense": 120,
@@ -13981,7 +13981,7 @@
       {
         "id": "s3_fafnir",
         "element": "Purple",
-        "family": "瓦特海姆王国",
+        "family": "svartalfheim",
         "baseHealth": 500,
         "baseAttack": 285,
         "baseDefense": 120,
@@ -14462,7 +14462,7 @@
       {
         "id": "Cursed Viking Battler",
         "element": "Red",
-        "family": "尼福尔海姆王国",
+        "family": "niflheim",
         "baseHealth": 420,
         "baseAttack": 275,
         "baseDefense": 120,
@@ -14477,7 +14477,7 @@
       {
         "id": "Cursed Viking Brawler",
         "element": "Green",
-        "family": "尼福尔海姆王国",
+        "family": "niflheim",
         "baseHealth": 420,
         "baseAttack": 275,
         "baseDefense": 120,
@@ -14733,7 +14733,7 @@
       {
         "id": "Leader of Niflheim",
         "element": "Blue",
-        "family": "尼福尔海姆王国",
+        "family": "niflheim",
         "baseHealth": 680,
         "baseAttack": 260,
         "baseDefense": 180,
@@ -14834,7 +14834,7 @@
       {
         "id": "Fire Dwarf of Muspelheim",
         "element": "Red",
-        "family": "穆斯贝尔海姆王国",
+        "family": "muspelheim",
         "baseHealth": 420,
         "baseAttack": 275,
         "baseDefense": 120,
@@ -14849,7 +14849,7 @@
       {
         "id": "Burly Fire Giant",
         "element": "Red",
-        "family": "穆斯贝尔海姆王国",
+        "family": "muspelheim",
         "baseHealth": 420,
         "baseAttack": 275,
         "baseDefense": 120,
@@ -14864,7 +14864,7 @@
       {
         "id": "Brutish Draugr",
         "element": "Red",
-        "family": "海姆冥界王国",
+        "family": "helheim",
         "baseHealth": 420,
         "baseAttack": 275,
         "baseDefense": 120,
@@ -14879,7 +14879,7 @@
       {
         "id": "Relentless Draugr",
         "element": "Purple",
-        "family": "海姆冥界王国",
+        "family": "helheim",
         "baseHealth": 420,
         "baseAttack": 275,
         "baseDefense": 120,
@@ -14957,7 +14957,7 @@
       {
         "id": "s3_fire_king",
         "element": "Red",
-        "family": "穆斯贝尔海姆王国",
+        "family": "muspelheim",
         "baseHealth": 420,
         "baseAttack": 275,
         "baseDefense": 120,
@@ -14971,7 +14971,7 @@
       {
         "id": "s3_ultimate_fire_king",
         "element": "Red",
-        "family": "穆斯贝尔海姆王国",
+        "family": "muspelheim",
         "baseHealth": 4000,
         "baseAttack": 350,
         "baseDefense": 120,
@@ -15243,7 +15243,7 @@
       {
         "id": "Queen of Svartalfheim",
         "element": "Purple",
-        "family": "瓦特海姆王国",
+        "family": "svartalfheim",
         "baseHealth": 420,
         "baseAttack": 275,
         "baseDefense": 120,
@@ -15258,7 +15258,7 @@
       {
         "id": "Golden Boar",
         "element": "Yellow",
-        "family": "阿斯加德王国",
+        "family": "asgard",
         "baseHealth": 420,
         "baseAttack": 275,
         "baseDefense": 120,
@@ -17318,7 +17318,7 @@
       {
         "id": "Teacher of the Arcane Arts",
         "element": "Blue",
-        "family": "魔法家族",
+        "family": "magic",
         "baseHealth": 430,
         "baseAttack": 275,
         "baseDefense": 150,
@@ -17336,7 +17336,7 @@
       {
         "id": "Charms Professor",
         "element": "Green",
-        "family": "魔法家族",
+        "family": "magic",
         "baseHealth": 430,
         "baseAttack": 275,
         "baseDefense": 150,
@@ -17354,7 +17354,7 @@
       {
         "id": "Master Groundskeeper",
         "element": "Yellow",
-        "family": "魔法家族",
+        "family": "magic",
         "baseHealth": 430,
         "baseAttack": 275,
         "baseDefense": 150,
@@ -17372,7 +17372,7 @@
       {
         "id": "Superintendent Supreme",
         "element": "Purple",
-        "family": "魔法家族",
+        "family": "magic",
         "baseHealth": 430,
         "baseAttack": 275,
         "baseDefense": 150,
@@ -17390,7 +17390,7 @@
       {
         "id": "Tower Headmaster",
         "element": "Red",
-        "family": "魔法家族",
+        "family": "magic",
         "baseHealth": 430,
         "baseAttack": 275,
         "baseDefense": 150,
@@ -17408,7 +17408,7 @@
       {
         "id": "Young Scholar",
         "element": "Green",
-        "family": "魔法家族",
+        "family": "magic",
         "baseHealth": 430,
         "baseAttack": 275,
         "baseDefense": 150,
@@ -17426,7 +17426,7 @@
       {
         "id": "Apprentice Summoner",
         "element": "Yellow",
-        "family": "魔法家族",
+        "family": "magic",
         "baseHealth": 430,
         "baseAttack": 275,
         "baseDefense": 150,
@@ -17444,7 +17444,7 @@
       {
         "id": "Student of the Arcane",
         "element": "Purple",
-        "family": "魔法家族",
+        "family": "magic",
         "baseHealth": 430,
         "baseAttack": 275,
         "baseDefense": 150,
@@ -17462,7 +17462,7 @@
       {
         "id": "Erudite Librarian",
         "element": "Green",
-        "family": "魔法家族",
+        "family": "magic",
         "baseHealth": 430,
         "baseAttack": 275,
         "baseDefense": 150,
@@ -17480,7 +17480,7 @@
       {
         "id": "Veteran Caretaker",
         "element": "Red",
-        "family": "魔法家族",
+        "family": "magic",
         "baseHealth": 430,
         "baseAttack": 275,
         "baseDefense": 150,
@@ -18075,7 +18075,7 @@
       {
         "id": "Voodoo Queen of Corellia-Soul-Stealing Priestess",
         "element": "Purple",
-        "family": "海盗家族",
+        "family": "pirate",
         "baseHealth": 680,
         "baseAttack": 320,
         "baseDefense": 210,
@@ -18093,7 +18093,7 @@
       {
         "id": "Warrior of Teltoc-Fierce Panther",
         "element": "Purple",
-        "family": "守护者家族",
+        "family": "guardian",
         "baseHealth": 680,
         "baseAttack": 320,
         "baseDefense": 210,
@@ -18108,7 +18108,7 @@
       {
         "id": "Sorceress of Avalon-Lady of Blades",
         "element": "Green",
-        "family": "阿瓦隆家族",
+        "family": "knight",
         "baseHealth": 680,
         "baseAttack": 320,
         "baseDefense": 210,
@@ -18123,7 +18123,7 @@
       {
         "id": "Jester of Grimforest-Eternal Trickster",
         "element": "Blue",
-        "family": "肃煞森林家族",
+        "family": "fable",
         "baseHealth": 680,
         "baseAttack": 320,
         "baseDefense": 210,
@@ -18138,7 +18138,7 @@
       {
         "id": "Horror of Wonderland-Jabbermoth",
         "element": "Purple",
-        "family": "仙境家族",
+        "family": "wonderland",
         "baseHealth": 680,
         "baseAttack": 320,
         "baseDefense": 210,
@@ -18153,7 +18153,7 @@
       {
         "id": "Commodore of Corellia-Bleak Commodore",
         "element": "Blue",
-        "family": "海盗家族",
+        "family": "pirate",
         "baseHealth": 680,
         "baseAttack": 320,
         "baseDefense": 210,
@@ -18168,7 +18168,7 @@
       {
         "id": "Chieftain of Teltoc-Conqueror Kong",
         "element": "Red",
-        "family": "守护者家族",
+        "family": "guardian",
         "baseHealth": 680,
         "baseAttack": 320,
         "baseDefense": 210,
@@ -18183,7 +18183,7 @@
       {
         "id": "Terror of Avalon-Negative Knight",
         "element": "Red",
-        "family": "阿瓦隆家族",
+        "family": "knight",
         "baseHealth": 680,
         "baseAttack": 320,
         "baseDefense": 210,
@@ -18198,7 +18198,7 @@
       {
         "id": "Princess of Grimforest-Slayer White",
         "element": "Blue",
-        "family": "肃煞森林家族",
+        "family": "fable",
         "baseHealth": 680,
         "baseAttack": 320,
         "baseDefense": 210,
@@ -18213,7 +18213,7 @@
       {
         "id": "Guide of Wonderland-Mask of Madness",
         "element": "Yellow",
-        "family": "仙境家族",
+        "family": "wonderland",
         "baseHealth": 680,
         "baseAttack": 320,
         "baseDefense": 210,
@@ -18580,7 +18580,7 @@
       {
         "id": "Siren of the River",
         "element": "Green",
-        "family": "月亮家族",
+        "family": "moon",
         "baseHealth": 420,
         "baseAttack": 275,
         "baseDefense": 120,
@@ -18598,7 +18598,7 @@
       {
         "id": "Spirit of Creation",
         "element": "Blue",
-        "family": "太阳家族",
+        "family": "sun",
         "baseHealth": 420,
         "baseAttack": 275,
         "baseDefense": 120,
@@ -19109,7 +19109,7 @@
       {
         "id": "Expert Blacksmith",
         "element": "Red",
-        "family": "卡勒瓦拉家族",
+        "family": "kalevala",
         "baseHealth": 480,
         "baseAttack": 275,
         "baseDefense": 150,
@@ -19127,7 +19127,7 @@
       {
         "id": "Witch of the North",
         "element": "Purple",
-        "family": "卡勒瓦拉家族",
+        "family": "kalevala",
         "baseHealth": 480,
         "baseAttack": 275,
         "baseDefense": 150,
@@ -19145,7 +19145,7 @@
       {
         "id": "Eternal Bard",
         "element": "Green",
-        "family": "卡勒瓦拉家族",
+        "family": "kalevala",
         "baseHealth": 480,
         "baseAttack": 275,
         "baseDefense": 150,
@@ -19163,7 +19163,7 @@
       {
         "id": "Vengeful Son",
         "element": "Yellow",
-        "family": "卡勒瓦拉家族",
+        "family": "kalevala",
         "baseHealth": 480,
         "baseAttack": 275,
         "baseDefense": 150,
@@ -19181,7 +19181,7 @@
       {
         "id": "Summer Maiden",
         "element": "Blue",
-        "family": "卡勒瓦拉家族",
+        "family": "kalevala",
         "baseHealth": 480,
         "baseAttack": 275,
         "baseDefense": 150,
@@ -19199,7 +19199,7 @@
       {
         "id": "Beast of the Depths",
         "element": "Green",
-        "family": "卡勒瓦拉家族",
+        "family": "kalevala",
         "baseHealth": 480,
         "baseAttack": 275,
         "baseDefense": 150,
@@ -19217,7 +19217,7 @@
       {
         "id": "Spirit of the Forest",
         "element": "Green",
-        "family": "卡勒瓦拉家族",
+        "family": "kalevala",
         "baseHealth": 450,
         "baseAttack": 275,
         "baseDefense": 140,
@@ -19235,7 +19235,7 @@
       {
         "id": "Undying Champion",
         "element": "Red",
-        "family": "卡勒瓦拉家族",
+        "family": "kalevala",
         "baseHealth": 450,
         "baseAttack": 275,
         "baseDefense": 140,
@@ -19253,7 +19253,7 @@
       {
         "id": "Ferocious Hunter",
         "element": "Blue",
-        "family": "卡勒瓦拉家族",
+        "family": "kalevala",
         "baseHealth": 420,
         "baseAttack": 275,
         "baseDefense": 130,
@@ -19271,7 +19271,7 @@
       {
         "id": "Household Familiar",
         "element": "Purple",
-        "family": "卡勒瓦拉家族",
+        "family": "kalevala",
         "baseHealth": 420,
         "baseAttack": 275,
         "baseDefense": 130,
@@ -19305,7 +19305,7 @@
       {
         "id": "Golem of Paper and Sand",
         "element": "Yellow",
-        "family": "月亮家族",
+        "family": "moon",
         "baseHealth": 420,
         "baseAttack": 275,
         "baseDefense": 130,
@@ -19323,7 +19323,7 @@
       {
         "id": "God of the River",
         "element": "Blue",
-        "family": "太阳家族",
+        "family": "sun",
         "baseHealth": 420,
         "baseAttack": 275,
         "baseDefense": 130,
@@ -19341,7 +19341,7 @@
       {
         "id": "Divine Pharaoh",
         "element": "Yellow",
-        "family": "太阳家族",
+        "family": "sun",
         "baseHealth": 420,
         "baseAttack": 275,
         "baseDefense": 130,
@@ -19359,7 +19359,7 @@
       {
         "id": "Mummy Warrior",
         "element": "Purple",
-        "family": "月亮家族",
+        "family": "moon",
         "baseHealth": 420,
         "baseAttack": 275,
         "baseDefense": 130,
@@ -19531,7 +19531,7 @@
       {
         "id": "Master of Sleep",
         "element": "Red",
-        "family": "冥河家族",
+        "family": "styx",
         "baseHealth": 430,
         "baseAttack": 275,
         "baseDefense": 150,
@@ -19549,7 +19549,7 @@
       {
         "id": "Mother Night",
         "element": "Purple",
-        "family": "冥河家族",
+        "family": "styx",
         "baseHealth": 430,
         "baseAttack": 275,
         "baseDefense": 150,
@@ -19567,7 +19567,7 @@
       {
         "id": "God of Deep Darkness",
         "element": "Red",
-        "family": "冥河家族",
+        "family": "styx",
         "baseHealth": 430,
         "baseAttack": 275,
         "baseDefense": 150,
@@ -19585,7 +19585,7 @@
       {
         "id": "God of Peaceful Demise",
         "element": "Blue",
-        "family": "冥河家族",
+        "family": "styx",
         "baseHealth": 430,
         "baseAttack": 275,
         "baseDefense": 150,
@@ -19603,7 +19603,7 @@
       {
         "id": "Ferryman of Styx",
         "element": "Purple",
-        "family": "冥河家族",
+        "family": "styx",
         "baseHealth": 430,
         "baseAttack": 275,
         "baseDefense": 150,
@@ -19621,7 +19621,7 @@
       {
         "id": "Goddess of the Sea",
         "element": "Blue",
-        "family": "冥河家族",
+        "family": "styx",
         "baseHealth": 430,
         "baseAttack": 275,
         "baseDefense": 150,
@@ -19639,7 +19639,7 @@
       {
         "id": "Goddess of Divine Retribution",
         "element": "Yellow",
-        "family": "冥河家族",
+        "family": "styx",
         "baseHealth": 430,
         "baseAttack": 275,
         "baseDefense": 150,
@@ -19657,7 +19657,7 @@
       {
         "id": "Potion Merchant Cyclops",
         "element": "Purple",
-        "family": "冥河家族",
+        "family": "styx",
         "baseHealth": 430,
         "baseAttack": 275,
         "baseDefense": 150,
@@ -19675,7 +19675,7 @@
       {
         "id": "Farmer Cyclops",
         "element": "Green",
-        "family": "冥河家族",
+        "family": "styx",
         "baseHealth": 430,
         "baseAttack": 275,
         "baseDefense": 150,
@@ -19693,7 +19693,7 @@
       {
         "id": "Artist Cyclops",
         "element": "Yellow",
-        "family": "冥河家族",
+        "family": "styx",
         "baseHealth": 430,
         "baseAttack": 275,
         "baseDefense": 150,
@@ -19711,7 +19711,7 @@
       {
         "id": "Adventurer of the Underworld",
         "element": "Red",
-        "family": "冥河家族",
+        "family": "styx",
         "baseHealth": 430,
         "baseAttack": 275,
         "baseDefense": 150,
@@ -19729,7 +19729,7 @@
       {
         "id": "Guide to the Underworld",
         "element": "Blue",
-        "family": "冥河家族",
+        "family": "styx",
         "baseHealth": 430,
         "baseAttack": 275,
         "baseDefense": 150,
@@ -19925,7 +19925,7 @@
       {
         "id": "Lady of the Slain",
         "element": "Purple",
-        "family": "瓦纳海姆王国",
+        "family": "vanaheim",
         "baseHealth": 480,
         "baseAttack": 275,
         "baseDefense": 150,
@@ -19940,7 +19940,7 @@
       {
         "id": "Princess of the Dísir",
         "element": "Purple",
-        "family": "瓦纳海姆王国",
+        "family": "vanaheim",
         "baseHealth": 480,
         "baseAttack": 275,
         "baseDefense": 150,
@@ -19955,7 +19955,7 @@
       {
         "id": "Goddess of Foresight",
         "element": "Green",
-        "family": "艾尔夫海姆王国",
+        "family": "alfheim",
         "baseHealth": 480,
         "baseAttack": 275,
         "baseDefense": 150,
@@ -19970,7 +19970,7 @@
       {
         "id": "Wise All-Father",
         "element": "Yellow",
-        "family": "米德加德王国",
+        "family": "midgard",
         "baseHealth": 480,
         "baseAttack": 275,
         "baseDefense": 150,
@@ -19985,7 +19985,7 @@
       {
         "id": "God of Thunder",
         "element": "Yellow",
-        "family": "米德加德王国",
+        "family": "midgard",
         "baseHealth": 480,
         "baseAttack": 275,
         "baseDefense": 150,
@@ -20000,7 +20000,7 @@
       {
         "id": "Captain of Santa's Guards",
         "element": "Blue",
-        "family": "冬日家族",
+        "family": "winter",
         "baseHealth": 480,
         "baseAttack": 275,
         "baseDefense": 150,
@@ -20282,7 +20282,7 @@
       {
         "id": "God of the Hunt",
         "element": "Yellow",
-        "family": "太阳家族",
+        "family": "sun",
         "baseHealth": 480,
         "baseAttack": 275,
         "baseDefense": 150,
@@ -20300,7 +20300,7 @@
       {
         "id": "God of the Moon",
         "element": "Purple",
-        "family": "月亮家族",
+        "family": "moon",
         "baseHealth": 480,
         "baseAttack": 275,
         "baseDefense": 150,
@@ -20318,7 +20318,7 @@
       {
         "id": "Scarab Guard",
         "element": "Yellow",
-        "family": "月亮家族",
+        "family": "moon",
         "baseHealth": 480,
         "baseAttack": 275,
         "baseDefense": 150,
@@ -20336,7 +20336,7 @@
       {
         "id": "Scarab God",
         "element": "Purple",
-        "family": "月亮家族",
+        "family": "moon",
         "baseHealth": 480,
         "baseAttack": 275,
         "baseDefense": 150,
@@ -20354,7 +20354,7 @@
       {
         "id": "Eye of the Sun",
         "element": "Red",
-        "family": "太阳家族",
+        "family": "sun",
         "baseHealth": 480,
         "baseAttack": 275,
         "baseDefense": 150,
@@ -20372,7 +20372,7 @@
       {
         "id": "Eye of the Moon",
         "element": "Purple",
-        "family": "月亮家族",
+        "family": "moon",
         "baseHealth": 480,
         "baseAttack": 275,
         "baseDefense": 150,
@@ -20460,7 +20460,7 @@
       {
         "id": "Defender of Space-Time",
         "element": "Yellow",
-        "family": "超级元素人家族",
+        "family": "super_elemental",
         "baseHealth": 480,
         "baseAttack": 275,
         "baseDefense": 150,
@@ -20478,7 +20478,7 @@
       {
         "id": "The Cosmic Enigma",
         "element": "Yellow",
-        "family": "超级元素人家族",
+        "family": "super_elemental",
         "baseHealth": 480,
         "baseAttack": 275,
         "baseDefense": 150,
@@ -20552,7 +20552,7 @@
       {
         "id": "castle_raven_eloise_covenant",
         "element": "Yellow",
-        "family": "渡鸦家族",
+        "family": "raven",
         "baseHealth": 480,
         "baseAttack": 275,
         "baseDefense": 150,
@@ -20568,7 +20568,7 @@
       {
         "id": "castle_raven_lewena_covenant",
         "element": "Red",
-        "family": "渡鸦家族",
+        "family": "raven",
         "baseHealth": 480,
         "baseAttack": 275,
         "baseDefense": 150,
@@ -20584,7 +20584,7 @@
       {
         "id": "castle_raven_quintin_covenant",
         "element": "Blue",
-        "family": "渡鸦家族",
+        "family": "raven",
         "baseHealth": 480,
         "baseAttack": 275,
         "baseDefense": 150,
@@ -20600,7 +20600,7 @@
       {
         "id": "castle_raven_rayne_covenant",
         "element": "Purple",
-        "family": "渡鸦家族",
+        "family": "raven",
         "baseHealth": 480,
         "baseAttack": 275,
         "baseDefense": 150,
@@ -20616,7 +20616,7 @@
       {
         "id": "castle_raven_franz_covenant",
         "element": "Green",
-        "family": "渡鸦家族",
+        "family": "raven",
         "baseHealth": 480,
         "baseAttack": 275,
         "baseDefense": 150,
@@ -20632,7 +20632,7 @@
       {
         "id": "s2_misandra_covenant",
         "element": "Blue",
-        "family": "环礁湖家族",
+        "family": "lagoon",
         "baseHealth": 480,
         "baseAttack": 275,
         "baseDefense": 150,
@@ -20648,7 +20648,7 @@
       {
         "id": "s2_tarlak_covenant",
         "element": "Green",
-        "family": "环礁湖家族",
+        "family": "lagoon",
         "baseHealth": 480,
         "baseAttack": 275,
         "baseDefense": 150,
@@ -20664,7 +20664,7 @@
       {
         "id": "s2_atomos_covenant",
         "element": "Green",
-        "family": "亚特兰蒂斯家族",
+        "family": "atlantis",
         "baseHealth": 480,
         "baseAttack": 275,
         "baseDefense": 150,
@@ -20680,7 +20680,7 @@
       {
         "id": "s2_ariel_costume_covenant",
         "element": "Blue",
-        "family": "亚特兰蒂斯家族",
+        "family": "atlantis",
         "baseHealth": 480,
         "baseAttack": 275,
         "baseDefense": 150,
@@ -20696,7 +20696,7 @@
       {
         "id": "s2_poseidon_costume_covenant",
         "element": "Yellow",
-        "family": "亚特兰蒂斯家族",
+        "family": "atlantis",
         "baseHealth": 480,
         "baseAttack": 275,
         "baseDefense": 150,
@@ -20712,7 +20712,7 @@
       {
         "id": "s2_ursena_costume_covenant",
         "element": "Purple",
-        "family": "亚特兰蒂斯家族",
+        "family": "atlantis",
         "baseHealth": 480,
         "baseAttack": 275,
         "baseDefense": 150,
@@ -20728,7 +20728,7 @@
       {
         "id": "s2_proteus_covenant",
         "element": "Purple",
-        "family": "亚特兰蒂斯家族",
+        "family": "atlantis",
         "baseHealth": 480,
         "baseAttack": 275,
         "baseDefense": 150,
@@ -20744,7 +20744,7 @@
       {
         "id": "circus_director_zuri_covenant",
         "element": "Yellow",
-        "family": "星落家族",
+        "family": "circus",
         "baseHealth": 480,
         "baseAttack": 275,
         "baseDefense": 150,
@@ -20760,7 +20760,7 @@
       {
         "id": "circus_faline_covenant",
         "element": "Yellow",
-        "family": "星落家族",
+        "family": "circus",
         "baseHealth": 480,
         "baseAttack": 275,
         "baseDefense": 150,
@@ -20776,7 +20776,7 @@
       {
         "id": "s3_freya_costume_covenant",
         "element": "Purple",
-        "family": "瓦纳海姆王国",
+        "family": "vanaheim",
         "baseHealth": 480,
         "baseAttack": 275,
         "baseDefense": 150,
@@ -20792,7 +20792,7 @@
       {
         "id": "s3_bera_covenant",
         "element": "Purple",
-        "family": "瓦纳海姆王国",
+        "family": "vanaheim",
         "baseHealth": 480,
         "baseAttack": 275,
         "baseDefense": 150,
@@ -20808,7 +20808,7 @@
       {
         "id": "s3_frigg_covenant",
         "element": "Green",
-        "family": "艾尔夫海姆王国",
+        "family": "alfheim",
         "baseHealth": 480,
         "baseAttack": 275,
         "baseDefense": 150,
@@ -20824,7 +20824,7 @@
       {
         "id": "s3_ratatoskr_covenant",
         "element": "Green",
-        "family": "艾尔夫海姆王国",
+        "family": "alfheim",
         "baseHealth": 480,
         "baseAttack": 275,
         "baseDefense": 150,
@@ -20840,7 +20840,7 @@
       {
         "id": "s3_sif_costume_covenant",
         "element": "Yellow",
-        "family": "米德加德王国",
+        "family": "midgard",
         "baseHealth": 480,
         "baseAttack": 275,
         "baseDefense": 150,
@@ -20856,7 +20856,7 @@
       {
         "id": "s3_odin_covenant",
         "element": "Yellow",
-        "family": "米德加德王国",
+        "family": "midgard",
         "baseHealth": 480,
         "baseAttack": 275,
         "baseDefense": 150,
@@ -20872,7 +20872,7 @@
       {
         "id": "s3_thor_covenant",
         "element": "Yellow",
-        "family": "米德加德王国",
+        "family": "midgard",
         "baseHealth": 480,
         "baseAttack": 275,
         "baseDefense": 150,
@@ -20888,7 +20888,7 @@
       {
         "id": "halloween_vanda_costume_covenant",
         "element": "Red",
-        "family": "莫洛维亚家族",
+        "family": "halloween",
         "baseHealth": 480,
         "baseAttack": 275,
         "baseDefense": 150,
@@ -20907,7 +20907,7 @@
       {
         "id": "christmas_krampus_covenant",
         "element": "Blue",
-        "family": "冬日家族",
+        "family": "winter",
         "baseHealth": 510,
         "baseAttack": 245,
         "baseDefense": 170,
@@ -20923,7 +20923,7 @@
       {
         "id": "christmas_mr_pengi_covenant",
         "element": "Blue",
-        "family": "冬日家族",
+        "family": "winter",
         "baseHealth": 480,
         "baseAttack": 275,
         "baseDefense": 150,
@@ -20939,7 +20939,7 @@
       {
         "id": "easter_master_lepus_costume_covenant",
         "element": "Blue",
-        "family": "春谷家族",
+        "family": "easter",
         "baseHealth": 480,
         "baseAttack": 275,
         "baseDefense": 150,
@@ -20955,7 +20955,7 @@
       {
         "id": "sand_roc_costume_covenant",
         "element": "Yellow",
-        "family": "飞沙帝国家族",
+        "family": "sand",
         "baseHealth": 480,
         "baseAttack": 275,
         "baseDefense": 150,
@@ -20971,7 +20971,7 @@
       {
         "id": "halloween_victor_costume_covenant",
         "element": "Purple",
-        "family": "莫洛维亚家族",
+        "family": "halloween",
         "baseHealth": 480,
         "baseAttack": 275,
         "baseDefense": 150,
@@ -20990,7 +20990,7 @@
       {
         "id": "christmas_mother_north_costume_covenant",
         "element": "Green",
-        "family": "冬日家族",
+        "family": "winter",
         "baseHealth": 480,
         "baseAttack": 275,
         "baseDefense": 150,
@@ -21006,7 +21006,7 @@
       {
         "id": "ninja_cobalt_covenant",
         "element": "Blue",
-        "family": "忍者家族",
+        "family": "ninja",
         "baseHealth": 480,
         "baseAttack": 275,
         "baseDefense": 150,
@@ -21022,7 +21022,7 @@
       {
         "id": "ninja_onyx_covenant",
         "element": "Purple",
-        "family": "忍者家族",
+        "family": "ninja",
         "baseHealth": 480,
         "baseAttack": 275,
         "baseDefense": 150,
@@ -21038,7 +21038,7 @@
       {
         "id": "ninja_mica_covenant",
         "element": "Yellow",
-        "family": "忍者家族",
+        "family": "ninja",
         "baseHealth": 480,
         "baseAttack": 275,
         "baseDefense": 150,
@@ -21054,7 +21054,7 @@
       {
         "id": "magic_milena_covenant",
         "element": "Blue",
-        "family": "魔法家族",
+        "family": "magic",
         "baseHealth": 480,
         "baseAttack": 275,
         "baseDefense": 150,
@@ -21070,7 +21070,7 @@
       {
         "id": "magic_motega_covenant",
         "element": "Yellow",
-        "family": "魔法家族",
+        "family": "magic",
         "baseHealth": 480,
         "baseAttack": 275,
         "baseDefense": 150,
@@ -21086,7 +21086,7 @@
       {
         "id": "s4_elizabeth_covenant",
         "element": "Red",
-        "family": "蛮荒地界家族",
+        "family": "abyss",
         "baseHealth": 480,
         "baseAttack": 275,
         "baseDefense": 150,
@@ -21105,7 +21105,7 @@
       {
         "id": "s4_morel_covenant",
         "element": "Blue",
-        "family": "蛮荒地界家族",
+        "family": "abyss",
         "baseHealth": 480,
         "baseAttack": 275,
         "baseDefense": 150,
@@ -21124,7 +21124,7 @@
       {
         "id": "s4_hulda_covenant",
         "element": "Purple",
-        "family": "蛮荒地界家族",
+        "family": "abyss",
         "baseHealth": 480,
         "baseAttack": 275,
         "baseDefense": 150,
@@ -21143,7 +21143,7 @@
       {
         "id": "s4_xnolphod_covenant",
         "element": "Purple",
-        "family": "蛮荒地界家族",
+        "family": "abyss",
         "baseHealth": 480,
         "baseAttack": 275,
         "baseDefense": 150,
@@ -21162,7 +21162,7 @@
       {
         "id": "s4_octros_covenant",
         "element": "Red",
-        "family": "蛮荒地界家族",
+        "family": "abyss",
         "baseHealth": 480,
         "baseAttack": 275,
         "baseDefense": 150,
@@ -21181,7 +21181,7 @@
       {
         "id": "fables_boss_wolf_covenant",
         "element": "Purple",
-        "family": "肃煞森林家族",
+        "family": "fable",
         "baseHealth": 480,
         "baseAttack": 275,
         "baseDefense": 150,
@@ -21197,7 +21197,7 @@
       {
         "id": "fables_red_hood_covenant",
         "element": "Red",
-        "family": "肃煞森林家族",
+        "family": "fable",
         "baseHealth": 480,
         "baseAttack": 275,
         "baseDefense": 150,
@@ -21213,7 +21213,7 @@
       {
         "id": "fables_rumpelstiltskin_covenant",
         "element": "Blue",
-        "family": "肃煞森林家族",
+        "family": "fable",
         "baseHealth": 480,
         "baseAttack": 275,
         "baseDefense": 150,
@@ -21229,7 +21229,7 @@
       {
         "id": "fables_puss_in_boots_covenant",
         "element": "Red",
-        "family": "肃煞森林家族",
+        "family": "fable",
         "baseHealth": 480,
         "baseAttack": 275,
         "baseDefense": 150,
@@ -21245,7 +21245,7 @@
       {
         "id": "fables_snow_white_costume_covenant",
         "element": "Blue",
-        "family": "肃煞森林家族",
+        "family": "fable",
         "baseHealth": 480,
         "baseAttack": 275,
         "baseDefense": 150,
@@ -21261,7 +21261,7 @@
       {
         "id": "wonderland_alice_covenant",
         "element": "Blue",
-        "family": "仙境家族",
+        "family": "wonderland",
         "baseHealth": 480,
         "baseAttack": 275,
         "baseDefense": 150,
@@ -21277,7 +21277,7 @@
       {
         "id": "wonderland_hatter_covenant",
         "element": "Green",
-        "family": "仙境家族",
+        "family": "wonderland",
         "baseHealth": 480,
         "baseAttack": 275,
         "baseDefense": 150,
@@ -21293,7 +21293,7 @@
       {
         "id": "wonderland_queen_of_hearts_covenant",
         "element": "Red",
-        "family": "仙境家族",
+        "family": "wonderland",
         "baseHealth": 480,
         "baseAttack": 275,
         "baseDefense": 150,
@@ -21309,7 +21309,7 @@
       {
         "id": "wonderland_jabberwock_costume_covenant",
         "element": "Purple",
-        "family": "仙境家族",
+        "family": "wonderland",
         "baseHealth": 480,
         "baseAttack": 275,
         "baseDefense": 150,
@@ -21325,7 +21325,7 @@
       {
         "id": "wonderland_white_rabbit_costume_covenant",
         "element": "Yellow",
-        "family": "仙境家族",
+        "family": "wonderland",
         "baseHealth": 480,
         "baseAttack": 275,
         "baseDefense": 150,
@@ -21341,7 +21341,7 @@
       {
         "id": "gargoyle_penolite_covenant",
         "element": "Yellow",
-        "family": "石像鬼家族",
+        "family": "gargoyle",
         "baseHealth": 480,
         "baseAttack": 275,
         "baseDefense": 150,
@@ -21360,7 +21360,7 @@
       {
         "id": "gargoyle_penolite_treasure",
         "element": "Yellow",
-        "family": "石像鬼家族",
+        "family": "gargoyle",
         "baseHealth": 480,
         "baseAttack": 275,
         "baseDefense": 150,
@@ -21381,7 +21381,7 @@
       {
         "id": "gargoyle_arco_covenant",
         "element": "Green",
-        "family": "石像鬼家族",
+        "family": "gargoyle",
         "baseHealth": 480,
         "baseAttack": 275,
         "baseDefense": 150,
@@ -21400,7 +21400,7 @@
       {
         "id": "gargoyle_goseck_covenant",
         "element": "Purple",
-        "family": "石像鬼家族",
+        "family": "gargoyle",
         "baseHealth": 480,
         "baseAttack": 275,
         "baseDefense": 150,
@@ -21579,7 +21579,7 @@
       {
         "id": "castle_wolf_ludwig_covenant",
         "element": "Purple",
-        "family": "恶狼家族",
+        "family": "wolf",
         "baseHealth": 510,
         "baseAttack": 245,
         "baseDefense": 170,
@@ -21595,7 +21595,7 @@
       {
         "id": "castle_wolf_wolfgang_covenant",
         "element": "Yellow",
-        "family": "恶狼家族",
+        "family": "wolf",
         "baseHealth": 480,
         "baseAttack": 275,
         "baseDefense": 150,
@@ -21611,7 +21611,7 @@
       {
         "id": "ninja_ruby_covenant",
         "element": "Red",
-        "family": "忍者家族",
+        "family": "ninja",
         "baseHealth": 480,
         "baseAttack": 275,
         "baseDefense": 150,
@@ -21627,7 +21627,7 @@
       {
         "id": "ninja_peridot_covenant",
         "element": "Green",
-        "family": "忍者家族",
+        "family": "ninja",
         "baseHealth": 480,
         "baseAttack": 275,
         "baseDefense": 150,
@@ -21643,7 +21643,7 @@
       {
         "id": "s3_skadi_costume_covenant",
         "element": "Blue",
-        "family": "约顿海姆王国",
+        "family": "jotunheim",
         "baseHealth": 480,
         "baseAttack": 275,
         "baseDefense": 150,
@@ -21659,7 +21659,7 @@
       {
         "id": "s3_lord_loki_covenant",
         "element": "Blue",
-        "family": "约顿海姆王国",
+        "family": "jotunheim",
         "baseHealth": 480,
         "baseAttack": 275,
         "baseDefense": 150,
@@ -21675,7 +21675,7 @@
       {
         "id": "s3_alfrike_covenant",
         "element": "Purple",
-        "family": "瓦特海姆王国",
+        "family": "svartalfheim",
         "baseHealth": 480,
         "baseAttack": 275,
         "baseDefense": 150,
@@ -21691,7 +21691,7 @@
       {
         "id": "s2_inari_costume_covenant",
         "element": "Yellow",
-        "family": "樱花家族",
+        "family": "japanese",
         "baseHealth": 480,
         "baseAttack": 275,
         "baseDefense": 150,
@@ -21707,7 +21707,7 @@
       {
         "id": "s2_kageburado_costume_covenant",
         "element": "Purple",
-        "family": "樱花家族",
+        "family": "japanese",
         "baseHealth": 480,
         "baseAttack": 275,
         "baseDefense": 150,
@@ -21723,7 +21723,7 @@
       {
         "id": "s2_mitsuko_covenant",
         "element": "Red",
-        "family": "樱花家族",
+        "family": "japanese",
         "baseHealth": 480,
         "baseAttack": 275,
         "baseDefense": 150,
@@ -21739,7 +21739,7 @@
       {
         "id": "castle_wolf_quenell_covenant",
         "element": "Green",
-        "family": "恶狼家族",
+        "family": "wolf",
         "baseHealth": 480,
         "baseAttack": 275,
         "baseDefense": 150,
@@ -21755,7 +21755,7 @@
       {
         "id": "castle_wolf_ferant_covenant",
         "element": "Red",
-        "family": "恶狼家族",
+        "family": "wolf",
         "baseHealth": 480,
         "baseAttack": 275,
         "baseDefense": 150,
@@ -21771,7 +21771,7 @@
       {
         "id": "villain_crystalis_covenant",
         "element": "Blue",
-        "family": "恶棍家族",
+        "family": "villains",
         "baseHealth": 480,
         "baseAttack": 275,
         "baseDefense": 150,
@@ -21787,7 +21787,7 @@
       {
         "id": "villain_dark_lord_covenant",
         "element": "Purple",
-        "family": "恶棍家族",
+        "family": "villains",
         "baseHealth": 480,
         "baseAttack": 275,
         "baseDefense": 150,
@@ -21803,7 +21803,7 @@
       {
         "id": "villain_toxicandra_covenant",
         "element": "Green",
-        "family": "恶棍家族",
+        "family": "villains",
         "baseHealth": 480,
         "baseAttack": 275,
         "baseDefense": 150,
@@ -21819,7 +21819,7 @@
       {
         "id": "s4_prof_lidenbrock_covenant",
         "element": "Yellow",
-        "family": "蛮荒地界家族",
+        "family": "abyss",
         "baseHealth": 480,
         "baseAttack": 275,
         "baseDefense": 150,
@@ -21838,7 +21838,7 @@
       {
         "id": "s4_zenobia_covenant",
         "element": "Red",
-        "family": "蛮荒地界家族",
+        "family": "abyss",
         "baseHealth": 480,
         "baseAttack": 275,
         "baseDefense": 150,
@@ -21857,7 +21857,7 @@
       {
         "id": "s4_hannah_covenant",
         "element": "Purple",
-        "family": "蛮荒地界家族",
+        "family": "abyss",
         "baseHealth": 480,
         "baseAttack": 275,
         "baseDefense": 150,
@@ -21876,7 +21876,7 @@
       {
         "id": "s4_congalach_covenant",
         "element": "Green",
-        "family": "蛮荒地界家族",
+        "family": "abyss",
         "baseHealth": 480,
         "baseAttack": 275,
         "baseDefense": 150,
@@ -21895,7 +21895,7 @@
       {
         "id": "s4_russula_covenant",
         "element": "Blue",
-        "family": "蛮荒地界家族",
+        "family": "abyss",
         "baseHealth": 480,
         "baseAttack": 275,
         "baseDefense": 150,
@@ -21914,7 +21914,7 @@
       {
         "id": "kalevala_kullervo_covenant",
         "element": "Yellow",
-        "family": "卡勒瓦拉家族",
+        "family": "kalevala",
         "baseHealth": 480,
         "baseAttack": 275,
         "baseDefense": 150,
@@ -21933,7 +21933,7 @@
       {
         "id": "slayer_senan_covenant",
         "element": "Purple",
-        "family": "杀手家族",
+        "family": "slayers",
         "baseHealth": 480,
         "baseAttack": 275,
         "baseDefense": 150,
@@ -21952,7 +21952,7 @@
       {
         "id": "gargoyle_kalo_covenant",
         "element": "Green",
-        "family": "石像鬼家族",
+        "family": "gargoyle",
         "baseHealth": 480,
         "baseAttack": 275,
         "baseDefense": 150,
@@ -21971,7 +21971,7 @@
       {
         "id": "easter_killhare_costume_covenant",
         "element": "Purple",
-        "family": "春谷家族",
+        "family": "easter",
         "baseHealth": 480,
         "baseAttack": 275,
         "baseDefense": 150,
@@ -21987,7 +21987,7 @@
       {
         "id": "slayer_caitlin_covenant",
         "element": "Yellow",
-        "family": "杀手家族",
+        "family": "slayers",
         "baseHealth": 480,
         "baseAttack": 275,
         "baseDefense": 150,
@@ -22006,7 +22006,7 @@
       {
         "id": "Ruffian of the Canine Expedition",
         "element": "Yellow",
-        "family": "超能萌宠家族",
+        "family": "mighty_pet",
         "baseHealth": 680,
         "baseAttack": 320,
         "baseDefense": 210,
@@ -22025,7 +22025,7 @@
       {
         "id": "Knight of the Arctic Circle",
         "element": "Blue",
-        "family": "超能萌宠家族",
+        "family": "mighty_pet",
         "baseHealth": 680,
         "baseAttack": 320,
         "baseDefense": 210,
@@ -22044,7 +22044,7 @@
       {
         "id": "Clawful Stray Cat",
         "element": "Green",
-        "family": "超能萌宠家族",
+        "family": "mighty_pet",
         "baseHealth": 680,
         "baseAttack": 320,
         "baseDefense": 210,
@@ -22063,7 +22063,7 @@
       {
         "id": "Hamster Brawler Champion",
         "element": "Red",
-        "family": "超能萌宠家族",
+        "family": "mighty_pet",
         "baseHealth": 680,
         "baseAttack": 320,
         "baseDefense": 210,
@@ -22085,7 +22085,7 @@
       {
         "id": "Puppy of Loyalty",
         "element": "Yellow",
-        "family": "超能萌宠家族",
+        "family": "mighty_pet",
         "baseHealth": 680,
         "baseAttack": 320,
         "baseDefense": 210,
@@ -22104,7 +22104,7 @@
       {
         "id": "Captain of the Duck's Guard",
         "element": "Yellow",
-        "family": "超能萌宠家族",
+        "family": "mighty_pet",
         "baseHealth": 500,
         "baseAttack": 250,
         "baseDefense": 180,
@@ -22123,7 +22123,7 @@
       {
         "id": "Clawsome Bandit",
         "element": "Purple",
-        "family": "超能萌宠家族",
+        "family": "mighty_pet",
         "baseHealth": 500,
         "baseAttack": 250,
         "baseDefense": 180,
@@ -22142,7 +22142,7 @@
       {
         "id": "Gladiator of Frog Kingdom",
         "element": "Yellow",
-        "family": "超能萌宠家族",
+        "family": "mighty_pet",
         "baseHealth": 500,
         "baseAttack": 250,
         "baseDefense": 180,
@@ -22161,7 +22161,7 @@
       {
         "id": "Furry Woodcutter",
         "element": "Red",
-        "family": "超能萌宠家族",
+        "family": "mighty_pet",
         "baseHealth": 500,
         "baseAttack": 250,
         "baseDefense": 180,
@@ -22222,7 +22222,7 @@
       {
         "id": "Dark Usurper",
         "element": "Purple",
-        "family": "月亮家族",
+        "family": "moon",
         "baseHealth": 480,
         "baseAttack": 275,
         "baseDefense": 150,
@@ -22240,7 +22240,7 @@
       {
         "id": "Lady of Ten Thousand Names",
         "element": "Yellow",
-        "family": "太阳家族",
+        "family": "sun",
         "baseHealth": 480,
         "baseAttack": 275,
         "baseDefense": 150,
@@ -22258,7 +22258,7 @@
       {
         "id": "Mummy Queen",
         "element": "Red",
-        "family": "月亮家族",
+        "family": "moon",
         "baseHealth": 480,
         "baseAttack": 275,
         "baseDefense": 150,
@@ -22276,7 +22276,7 @@
       {
         "id": "Lady of Harmony",
         "element": "Green",
-        "family": "太阳家族",
+        "family": "sun",
         "baseHealth": 480,
         "baseAttack": 275,
         "baseDefense": 150,
@@ -22294,7 +22294,7 @@
       {
         "id": "Goddess of Motherhood",
         "element": "Red",
-        "family": "月亮家族",
+        "family": "moon",
         "baseHealth": 480,
         "baseAttack": 275,
         "baseDefense": 150,
@@ -22312,7 +22312,7 @@
       {
         "id": "God of the Afterlife",
         "element": "Purple",
-        "family": "月亮家族",
+        "family": "moon",
         "baseHealth": 480,
         "baseAttack": 275,
         "baseDefense": 150,
@@ -22327,7 +22327,7 @@
       {
         "id": "Mummy Pharaoh",
         "element": "Green",
-        "family": "月亮家族",
+        "family": "moon",
         "baseHealth": 480,
         "baseAttack": 275,
         "baseDefense": 150,
@@ -22345,7 +22345,7 @@
       {
         "id": "s5_set_final",
         "element": "Purple",
-        "family": "月亮家族",
+        "family": "moon",
         "baseHealth": 2500,
         "baseAttack": 300,
         "baseDefense": 100,
@@ -22397,7 +22397,7 @@
       {
         "id": "Copycat of the Illusionary Arts",
         "element": "Blue",
-        "family": "超能萌宠家族",
+        "family": "mighty_pet",
         "baseHealth": 680,
         "baseAttack": 320,
         "baseDefense": 210,
@@ -22416,7 +22416,7 @@
       {
         "id": "Canine Storyteller",
         "element": "Green",
-        "family": "超能萌宠家族",
+        "family": "mighty_pet",
         "baseHealth": 680,
         "baseAttack": 320,
         "baseDefense": 210,
@@ -22435,7 +22435,7 @@
       {
         "id": "castle_wolf_esme_covenant",
         "element": "Blue",
-        "family": "恶狼家族",
+        "family": "wolf",
         "baseHealth": 480,
         "baseAttack": 275,
         "baseDefense": 150,
@@ -22451,7 +22451,7 @@
       {
         "id": "sand_rana_costume_covenant",
         "element": "Yellow",
-        "family": "飞沙帝国家族",
+        "family": "sand",
         "baseHealth": 480,
         "baseAttack": 275,
         "baseDefense": 150,
@@ -22467,7 +22467,7 @@
       {
         "id": "kingdom_zhuge_liang_covenant",
         "element": "Yellow",
-        "family": "三国家族",
+        "family": "kingdom",
         "baseHealth": 480,
         "baseAttack": 275,
         "baseDefense": 150,
@@ -22483,7 +22483,7 @@
       {
         "id": "kingdom_liu_bei_covenant",
         "element": "Green",
-        "family": "三国家族",
+        "family": "kingdom",
         "baseHealth": 480,
         "baseAttack": 275,
         "baseDefense": 150,
@@ -22499,7 +22499,7 @@
       {
         "id": "kingdom_diaochan_covenant",
         "element": "Purple",
-        "family": "三国家族",
+        "family": "kingdom",
         "baseHealth": 480,
         "baseAttack": 275,
         "baseDefense": 150,
@@ -22759,7 +22759,7 @@
       {
         "id": "Natural Sharpshooter",
         "element": "Green",
-        "family": "超级元素人家族",
+        "family": "super_elemental",
         "baseHealth": 480,
         "baseAttack": 275,
         "baseDefense": 150,
@@ -22777,7 +22777,7 @@
       {
         "id": "Master of Elemental Creations",
         "element": "Green",
-        "family": "超级元素人家族",
+        "family": "super_elemental",
         "baseHealth": 480,
         "baseAttack": 275,
         "baseDefense": 150,
@@ -22821,7 +22821,7 @@
       {
         "id": "Valiant Valet",
         "element": "Blue",
-        "family": "火枪手家族",
+        "family": "musketeer",
         "baseHealth": 420,
         "baseAttack": 275,
         "baseDefense": 120,
@@ -22876,7 +22876,7 @@
       {
         "id": "Ardent Musketeer",
         "element": "Red",
-        "family": "火枪手家族",
+        "family": "musketeer",
         "baseHealth": 420,
         "baseAttack": 275,
         "baseDefense": 120,
@@ -22918,7 +22918,7 @@
       {
         "id": "Romantic Musketeer",
         "element": "Purple",
-        "family": "火枪手家族",
+        "family": "musketeer",
         "baseHealth": 420,
         "baseAttack": 275,
         "baseDefense": 120,
@@ -22933,7 +22933,7 @@
       {
         "id": "Elegant Monarch",
         "element": "Green",
-        "family": "火枪手家族",
+        "family": "musketeer",
         "baseHealth": 420,
         "baseAttack": 275,
         "baseDefense": 120,
@@ -22948,7 +22948,7 @@
       {
         "id": "Veteran Musketeer",
         "element": "Green",
-        "family": "火枪手家族",
+        "family": "musketeer",
         "baseHealth": 420,
         "baseAttack": 275,
         "baseDefense": 120,
@@ -22977,7 +22977,7 @@
       {
         "id": "Pompous Duke",
         "element": "Green",
-        "family": "火枪手家族",
+        "family": "musketeer",
         "baseHealth": 420,
         "baseAttack": 275,
         "baseDefense": 120,
@@ -22992,7 +22992,7 @@
       {
         "id": "Jolly Musketeer",
         "element": "Blue",
-        "family": "火枪手家族",
+        "family": "musketeer",
         "baseHealth": 420,
         "baseAttack": 275,
         "baseDefense": 120,
@@ -23217,7 +23217,7 @@
       {
         "id": "Warlord of Shu",
         "element": "Green",
-        "family": "三国家族",
+        "family": "kingdom",
         "baseHealth": 480,
         "baseAttack": 275,
         "baseDefense": 150,
@@ -23232,7 +23232,7 @@
       {
         "id": "Warlord of Wu",
         "element": "Red",
-        "family": "三国家族",
+        "family": "kingdom",
         "baseHealth": 480,
         "baseAttack": 275,
         "baseDefense": 150,
@@ -23247,7 +23247,7 @@
       {
         "id": "Warrior God of Heaven",
         "element": "Yellow",
-        "family": "西游家族",
+        "family": "journey",
         "baseHealth": 480,
         "baseAttack": 275,
         "baseDefense": 150,
@@ -23262,7 +23262,7 @@
       {
         "id": "Warlord of Wei",
         "element": "Blue",
-        "family": "三国家族",
+        "family": "kingdom",
         "baseHealth": 480,
         "baseAttack": 275,
         "baseDefense": 150,
@@ -23277,7 +23277,7 @@
       {
         "id": "Brilliant Beauty",
         "element": "Purple",
-        "family": "三国家族",
+        "family": "kingdom",
         "baseHealth": 480,
         "baseAttack": 275,
         "baseDefense": 150,
@@ -23292,7 +23292,7 @@
       {
         "id": "Merciless General",
         "element": "Yellow",
-        "family": "三国家族",
+        "family": "kingdom",
         "baseHealth": 480,
         "baseAttack": 275,
         "baseDefense": 150,
@@ -23307,7 +23307,7 @@
       {
         "id": "Noble Battler",
         "element": "Red",
-        "family": "三国家族",
+        "family": "kingdom",
         "baseHealth": 450,
         "baseAttack": 275,
         "baseDefense": 140,
@@ -23322,7 +23322,7 @@
       {
         "id": "One-Eyed Commander",
         "element": "Blue",
-        "family": "三国家族",
+        "family": "kingdom",
         "baseHealth": 450,
         "baseAttack": 275,
         "baseDefense": 140,
@@ -23337,7 +23337,7 @@
       {
         "id": "Young Commander",
         "element": "Red",
-        "family": "三国家族",
+        "family": "kingdom",
         "baseHealth": 450,
         "baseAttack": 275,
         "baseDefense": 140,
@@ -23352,7 +23352,7 @@
       {
         "id": "Wrathful Warlord",
         "element": "Purple",
-        "family": "三国家族",
+        "family": "kingdom",
         "baseHealth": 480,
         "baseAttack": 275,
         "baseDefense": 150,
@@ -23367,7 +23367,7 @@
       {
         "id": "Master Strategist",
         "element": "Yellow",
-        "family": "三国家族",
+        "family": "kingdom",
         "baseHealth": 480,
         "baseAttack": 275,
         "baseDefense": 150,
@@ -23382,7 +23382,7 @@
       {
         "id": "Valiant General",
         "element": "Green",
-        "family": "三国家族",
+        "family": "kingdom",
         "baseHealth": 480,
         "baseAttack": 275,
         "baseDefense": 150,
@@ -23503,7 +23503,7 @@
       {
         "id": "Galactic Savior",
         "element": "Blue",
-        "family": "超级元素人家族",
+        "family": "super_elemental",
         "baseHealth": 480,
         "baseAttack": 275,
         "baseDefense": 150,
@@ -23521,7 +23521,7 @@
       {
         "id": "Universal Beast",
         "element": "Blue",
-        "family": "超级元素人家族",
+        "family": "super_elemental",
         "baseHealth": 480,
         "baseAttack": 275,
         "baseDefense": 150,
@@ -23950,7 +23950,7 @@
       {
         "id": "tales1_boss_lasalle",
         "element": "Red",
-        "family": "亚特兰蒂斯卫士家族",
+        "family": "tales1_goodies",
         "baseHealth": 480,
         "baseAttack": 275,
         "baseDefense": 150,
@@ -23965,7 +23965,7 @@
       {
         "id": "tales1_boss_sharkhai",
         "element": "Purple",
-        "family": "亚特兰蒂斯梦魇家族",
+        "family": "tales1_baddies",
         "baseHealth": 480,
         "baseAttack": 275,
         "baseDefense": 150,
@@ -23980,7 +23980,7 @@
       {
         "id": "tales1_boss_mulgog",
         "element": "Green",
-        "family": "亚特兰蒂斯梦魇家族",
+        "family": "tales1_baddies",
         "baseHealth": 480,
         "baseAttack": 275,
         "baseDefense": 150,
@@ -23995,7 +23995,7 @@
       {
         "id": "tales1_boss_bagreg",
         "element": "Red",
-        "family": "亚特兰蒂斯梦魇家族",
+        "family": "tales1_baddies",
         "baseHealth": 480,
         "baseAttack": 275,
         "baseDefense": 150,
@@ -24080,7 +24080,7 @@
       {
         "id": "Exiled Plasma Blade",
         "element": "Red",
-        "family": "超级元素人家族",
+        "family": "super_elemental",
         "baseHealth": 480,
         "baseAttack": 275,
         "baseDefense": 150,
@@ -24098,7 +24098,7 @@
       {
         "id": "Conductor of Flames",
         "element": "Red",
-        "family": "超级元素人家族",
+        "family": "super_elemental",
         "baseHealth": 480,
         "baseAttack": 275,
         "baseDefense": 150,
@@ -24116,7 +24116,7 @@
       {
         "id": "Starlight Conjurer",
         "element": "Purple",
-        "family": "魔法家族",
+        "family": "magic",
         "baseHealth": 430,
         "baseAttack": 275,
         "baseDefense": 150,
@@ -24135,7 +24135,7 @@
       {
         "id": "Champion of the Court",
         "element": "Red",
-        "family": "魔法家族",
+        "family": "magic",
         "baseHealth": 430,
         "baseAttack": 275,
         "baseDefense": 150,
@@ -24154,7 +24154,7 @@
       {
         "id": "Arcanist Tinkerer",
         "element": "Blue",
-        "family": "魔法家族",
+        "family": "magic",
         "baseHealth": 430,
         "baseAttack": 275,
         "baseDefense": 150,
@@ -24173,7 +24173,7 @@
       {
         "id": "Master of Levitation",
         "element": "Yellow",
-        "family": "魔法家族",
+        "family": "magic",
         "baseHealth": 430,
         "baseAttack": 275,
         "baseDefense": 150,
@@ -24192,7 +24192,7 @@
       {
         "id": "Mageball Prodigy",
         "element": "Red",
-        "family": "魔法家族",
+        "family": "magic",
         "baseHealth": 430,
         "baseAttack": 275,
         "baseDefense": 150,
@@ -24211,7 +24211,7 @@
       {
         "id": "Ancient Scribble Enthusiast",
         "element": "Green",
-        "family": "魔法家族",
+        "family": "magic",
         "baseHealth": 430,
         "baseAttack": 275,
         "baseDefense": 150,
@@ -24230,7 +24230,7 @@
       {
         "id": "Centaur of the Woodlands",
         "element": "Green",
-        "family": "魔法家族",
+        "family": "magic",
         "baseHealth": 430,
         "baseAttack": 275,
         "baseDefense": 150,
@@ -24319,7 +24319,7 @@
       {
         "id": "Modifier of Reality",
         "element": "Purple",
-        "family": "超级元素人家族",
+        "family": "super_elemental",
         "baseHealth": 480,
         "baseAttack": 275,
         "baseDefense": 150,
@@ -24337,7 +24337,7 @@
       {
         "id": "Cyber Rogue",
         "element": "Purple",
-        "family": "超级元素人家族",
+        "family": "super_elemental",
         "baseHealth": 480,
         "baseAttack": 275,
         "baseDefense": 150,
@@ -24476,7 +24476,7 @@
       {
         "id": "Snorkeling Gnome",
         "element": "Blue",
-        "family": "海滩派对家族",
+        "family": "beachparty",
         "baseHealth": 480,
         "baseAttack": 275,
         "baseDefense": 150,
@@ -24495,7 +24495,7 @@
       {
         "id": "Seal Lifeguard",
         "element": "Red",
-        "family": "海滩派对家族",
+        "family": "beachparty",
         "baseHealth": 480,
         "baseAttack": 275,
         "baseDefense": 150,
@@ -24514,7 +24514,7 @@
       {
         "id": "Dark Elf Surfer",
         "element": "Purple",
-        "family": "海滩派对家族",
+        "family": "beachparty",
         "baseHealth": 480,
         "baseAttack": 275,
         "baseDefense": 150,
@@ -24533,7 +24533,7 @@
       {
         "id": "Elf Swimming School Instructor",
         "element": "Red",
-        "family": "海滩派对家族",
+        "family": "beachparty",
         "baseHealth": 480,
         "baseAttack": 275,
         "baseDefense": 150,
@@ -24552,7 +24552,7 @@
       {
         "id": "Overly Tanned Dwarf",
         "element": "Yellow",
-        "family": "海滩派对家族",
+        "family": "beachparty",
         "baseHealth": 480,
         "baseAttack": 275,
         "baseDefense": 150,
@@ -24571,7 +24571,7 @@
       {
         "id": "Shoreside Socialite",
         "element": "Purple",
-        "family": "海滩派对家族",
+        "family": "beachparty",
         "baseHealth": 480,
         "baseAttack": 275,
         "baseDefense": 150,
@@ -24594,7 +24594,7 @@
       {
         "id": "Reveler of Sunlit Shores",
         "element": "Red",
-        "family": "海滩派对家族",
+        "family": "beachparty",
         "baseHealth": 480,
         "baseAttack": 275,
         "baseDefense": 150,
@@ -24873,7 +24873,7 @@
       {
         "id": "Treasure Hunter of the Deep",
         "element": "Green",
-        "family": "亚特兰蒂斯卫士家族",
+        "family": "tales1_goodies",
         "baseHealth": 480,
         "baseAttack": 275,
         "baseDefense": 150,
@@ -24888,7 +24888,7 @@
       {
         "id": "Temple Keeper of the Deep",
         "element": "Purple",
-        "family": "亚特兰蒂斯梦魇家族",
+        "family": "tales1_baddies",
         "baseHealth": 480,
         "baseAttack": 275,
         "baseDefense": 150,
@@ -24903,7 +24903,7 @@
       {
         "id": "Dodgy Merchant of the Deep",
         "element": "Yellow",
-        "family": "亚特兰蒂斯卫士家族",
+        "family": "tales1_goodies",
         "baseHealth": 480,
         "baseAttack": 275,
         "baseDefense": 150,
@@ -24918,7 +24918,7 @@
       {
         "id": "tales1_boss_ursena",
         "element": "Purple",
-        "family": "亚特兰蒂斯梦魇家族",
+        "family": "tales1_baddies",
         "baseHealth": 1200,
         "baseAttack": 300,
         "baseDefense": 100,
@@ -24982,7 +24982,7 @@
       {
         "id": "Goblin Brawler",
         "element": "Red",
-        "family": "哥布林家族",
+        "family": "goblin",
         "baseHealth": 480,
         "baseAttack": 275,
         "baseDefense": 150,
@@ -25000,7 +25000,7 @@
       {
         "id": "Goblin Cultist",
         "element": "Purple",
-        "family": "哥布林家族",
+        "family": "goblin",
         "baseHealth": 480,
         "baseAttack": 275,
         "baseDefense": 150,
@@ -25018,7 +25018,7 @@
       {
         "id": "Adept Eagle Trainer",
         "element": "Purple",
-        "family": "哥布林家族",
+        "family": "goblin",
         "baseHealth": 480,
         "baseAttack": 275,
         "baseDefense": 150,
@@ -25036,7 +25036,7 @@
       {
         "id": "Kitchen Alchemist",
         "element": "Blue",
-        "family": "哥布林家族",
+        "family": "goblin",
         "baseHealth": 480,
         "baseAttack": 275,
         "baseDefense": 150,
@@ -25054,7 +25054,7 @@
       {
         "id": "Goblin Bard",
         "element": "Green",
-        "family": "哥布林家族",
+        "family": "goblin",
         "baseHealth": 480,
         "baseAttack": 275,
         "baseDefense": 150,
@@ -25072,7 +25072,7 @@
       {
         "id": "Reckless Duo",
         "element": "Green",
-        "family": "哥布林家族",
+        "family": "goblin",
         "baseHealth": 480,
         "baseAttack": 275,
         "baseDefense": 150,
@@ -25090,7 +25090,7 @@
       {
         "id": "Goblin Beauty",
         "element": "Yellow",
-        "family": "哥布林家族",
+        "family": "goblin",
         "baseHealth": 480,
         "baseAttack": 275,
         "baseDefense": 150,
@@ -25108,7 +25108,7 @@
       {
         "id": "Oblivious Guard",
         "element": "Red",
-        "family": "哥布林家族",
+        "family": "goblin",
         "baseHealth": 480,
         "baseAttack": 275,
         "baseDefense": 150,
@@ -25126,7 +25126,7 @@
       {
         "id": "tales_1_ultrox_final_boss",
         "element": "Purple",
-        "family": "亚特兰蒂斯梦魇家族",
+        "family": "tales1_baddies",
         "baseHealth": 700,
         "baseAttack": 275,
         "baseDefense": 150,
@@ -25144,7 +25144,7 @@
       {
         "id": "Prince of the Eternal Deep",
         "element": "Red",
-        "family": "亚特兰蒂斯梦魇家族",
+        "family": "tales1_baddies",
         "baseHealth": 480,
         "baseAttack": 275,
         "baseDefense": 150,
@@ -25159,7 +25159,7 @@
       {
         "id": "Naga Queen of the Deep",
         "element": "Purple",
-        "family": "亚特兰蒂斯梦魇家族",
+        "family": "tales1_baddies",
         "baseHealth": 480,
         "baseAttack": 275,
         "baseDefense": 150,
@@ -25174,7 +25174,7 @@
       {
         "id": "Naga Berserker",
         "element": "Green",
-        "family": "亚特兰蒂斯梦魇家族",
+        "family": "tales1_baddies",
         "baseHealth": 480,
         "baseAttack": 275,
         "baseDefense": 150,
@@ -25189,7 +25189,7 @@
       {
         "id": "Water Spirit of Plunder",
         "element": "Yellow",
-        "family": "亚特兰蒂斯梦魇家族",
+        "family": "tales1_baddies",
         "baseHealth": 480,
         "baseAttack": 275,
         "baseDefense": 150,
@@ -25204,7 +25204,7 @@
       {
         "id": "Glacial Nereid of the Deep",
         "element": "Blue",
-        "family": "亚特兰蒂斯梦魇家族",
+        "family": "tales1_baddies",
         "baseHealth": 480,
         "baseAttack": 275,
         "baseDefense": 150,
@@ -25219,7 +25219,7 @@
       {
         "id": "tales1_gestalt_final",
         "element": "Red",
-        "family": "亚特兰蒂斯梦魇家族",
+        "family": "tales1_baddies",
         "baseHealth": 800,
         "baseAttack": 250,
         "baseDefense": 150,
@@ -26732,7 +26732,7 @@
       {
         "id": "tales1_medea_deadly",
         "element": "Purple",
-        "family": "亚特兰蒂斯梦魇家族",
+        "family": "tales1_baddies",
         "baseHealth": 480,
         "baseAttack": 275,
         "baseDefense": 150,
@@ -26747,7 +26747,7 @@
       {
         "id": "tales1_domiventus_deadly",
         "element": "Red",
-        "family": "亚特兰蒂斯梦魇家族",
+        "family": "tales1_baddies",
         "baseHealth": 480,
         "baseAttack": 275,
         "baseDefense": 150,
@@ -26762,7 +26762,7 @@
       {
         "id": "tales1_boss_sharkhai_deadly",
         "element": "Purple",
-        "family": "亚特兰蒂斯梦魇家族",
+        "family": "tales1_baddies",
         "baseHealth": 480,
         "baseAttack": 275,
         "baseDefense": 150,
@@ -26777,7 +26777,7 @@
       {
         "id": "tales1_spartoi_deadly",
         "element": "Green",
-        "family": "亚特兰蒂斯梦魇家族",
+        "family": "tales1_baddies",
         "baseHealth": 480,
         "baseAttack": 275,
         "baseDefense": 150,
@@ -26792,7 +26792,7 @@
       {
         "id": "tales1_richard_deadly",
         "element": "Blue",
-        "family": "亚特兰蒂斯卫士家族",
+        "family": "tales1_goodies",
         "baseHealth": 480,
         "baseAttack": 295,
         "baseDefense": 150,
@@ -26807,7 +26807,7 @@
       {
         "id": "tales1_elena_deadly",
         "element": "Red",
-        "family": "亚特兰蒂斯卫士家族",
+        "family": "tales1_goodies",
         "baseHealth": 470,
         "baseAttack": 285,
         "baseDefense": 150,
@@ -26822,7 +26822,7 @@
       {
         "id": "tales1_lasalle_deadly",
         "element": "Red",
-        "family": "亚特兰蒂斯卫士家族",
+        "family": "tales1_goodies",
         "baseHealth": 470,
         "baseAttack": 285,
         "baseDefense": 150,
@@ -26837,7 +26837,7 @@
       {
         "id": "tales1_galapago_deadly",
         "element": "Green",
-        "family": "亚特兰蒂斯卫士家族",
+        "family": "tales1_goodies",
         "baseHealth": 500,
         "baseAttack": 255,
         "baseDefense": 160,
@@ -26852,7 +26852,7 @@
       {
         "id": "tales1_jaco_deadly",
         "element": "Yellow",
-        "family": "亚特兰蒂斯卫士家族",
+        "family": "tales1_goodies",
         "baseHealth": 460,
         "baseAttack": 265,
         "baseDefense": 150,
@@ -26867,7 +26867,7 @@
       {
         "id": "tales1_ultrox_deadly",
         "element": "Purple",
-        "family": "亚特兰蒂斯梦魇家族",
+        "family": "tales1_baddies",
         "baseHealth": 480,
         "baseAttack": 275,
         "baseDefense": 150,
@@ -26885,7 +26885,7 @@
       {
         "id": "tales1_gestalt_deadly",
         "element": "Red",
-        "family": "亚特兰蒂斯梦魇家族",
+        "family": "tales1_baddies",
         "baseHealth": 480,
         "baseAttack": 275,
         "baseDefense": 150,
@@ -26902,7 +26902,7 @@
       {
         "id": "tales1_boss_ursena_deadly",
         "element": "Purple",
-        "family": "亚特兰蒂斯梦魇家族",
+        "family": "tales1_baddies",
         "baseHealth": 480,
         "baseAttack": 275,
         "baseDefense": 150,
@@ -28011,7 +28011,7 @@
       {
         "id": "astral_starwalker_boss",
         "element": "Blue",
-        "family": "星体精灵家族",
+        "family": "astral_elves",
         "baseHealth": 480,
         "baseAttack": 275,
         "baseDefense": 150,
@@ -28030,7 +28030,7 @@
       {
         "id": "astral_sparklight_boss",
         "element": "Red",
-        "family": "星体精灵家族",
+        "family": "astral_elves",
         "baseHealth": 480,
         "baseAttack": 275,
         "baseDefense": 150,
@@ -28049,7 +28049,7 @@
       {
         "id": "astral_dreadstar_boss",
         "element": "Purple",
-        "family": "星体精灵家族",
+        "family": "astral_elves",
         "baseHealth": 480,
         "baseAttack": 275,
         "baseDefense": 150,
@@ -28068,7 +28068,7 @@
       {
         "id": "astral_hammerclang_boss",
         "element": "Red",
-        "family": "星体精灵家族",
+        "family": "astral_elves",
         "baseHealth": 480,
         "baseAttack": 275,
         "baseDefense": 150,
@@ -28087,7 +28087,7 @@
       {
         "id": "astral_lemonwood_boss",
         "element": "Yellow",
-        "family": "星体精灵家族",
+        "family": "astral_elves",
         "baseHealth": 480,
         "baseAttack": 275,
         "baseDefense": 150,
@@ -28106,7 +28106,7 @@
       {
         "id": "astral_moonflower_boss",
         "element": "Green",
-        "family": "星体精灵家族",
+        "family": "astral_elves",
         "baseHealth": 480,
         "baseAttack": 275,
         "baseDefense": 150,
@@ -28125,7 +28125,7 @@
       {
         "id": "astral_lionstring_boss",
         "element": "Green",
-        "family": "星体精灵家族",
+        "family": "astral_elves",
         "baseHealth": 480,
         "baseAttack": 275,
         "baseDefense": 150,
@@ -28144,7 +28144,7 @@
       {
         "id": "astral_starswift_boss",
         "element": "Red",
-        "family": "星体精灵家族",
+        "family": "astral_elves",
         "baseHealth": 480,
         "baseAttack": 275,
         "baseDefense": 150,
@@ -28648,7 +28648,7 @@
       {
         "id": "fluffy_gargoyles_grumbl",
         "element": "Blue",
-        "family": "石像鬼家族",
+        "family": "gargoyle",
         "baseHealth": 480,
         "baseAttack": 250,
         "baseDefense": 180,
@@ -28666,7 +28666,7 @@
       {
         "id": "fluffy_gargoyles_uwe",
         "element": "Purple",
-        "family": "石像鬼家族",
+        "family": "gargoyle",
         "baseHealth": 480,
         "baseAttack": 250,
         "baseDefense": 180,
@@ -28687,7 +28687,7 @@
       {
         "id": "fluffy_gargoyles_mena",
         "element": "Green",
-        "family": "石像鬼家族",
+        "family": "gargoyle",
         "baseHealth": 480,
         "baseAttack": 275,
         "baseDefense": 150,
@@ -28708,7 +28708,7 @@
       {
         "id": "fluffy_gargoyles_hilda",
         "element": "Yellow",
-        "family": "石像鬼家族",
+        "family": "gargoyle",
         "baseHealth": 480,
         "baseAttack": 275,
         "baseDefense": 150,
@@ -28726,7 +28726,7 @@
       {
         "id": "fluffy_gargoyles_betty",
         "element": "Purple",
-        "family": "石像鬼家族",
+        "family": "gargoyle",
         "baseHealth": 480,
         "baseAttack": 275,
         "baseDefense": 150,
@@ -28879,7 +28879,7 @@
       {
         "id": "shadow_dolores_boss",
         "element": "Yellow",
-        "family": "调查员家族",
+        "family": "investigator",
         "baseHealth": 480,
         "baseAttack": 275,
         "baseDefense": 150,
@@ -28897,7 +28897,7 @@
       {
         "id": "shadow_atwood_boss",
         "element": "Green",
-        "family": "调查员家族",
+        "family": "investigator",
         "baseHealth": 480,
         "baseAttack": 275,
         "baseDefense": 150,
@@ -28915,7 +28915,7 @@
       {
         "id": "shadow_melancholia_boss",
         "element": "Purple",
-        "family": "异教徒家族",
+        "family": "cultist",
         "baseHealth": 480,
         "baseAttack": 275,
         "baseDefense": 150,
@@ -28933,7 +28933,7 @@
       {
         "id": "shadow_omen_boss",
         "element": "Red",
-        "family": "异教徒家族",
+        "family": "cultist",
         "baseHealth": 480,
         "baseAttack": 275,
         "baseDefense": 150,
@@ -28951,7 +28951,7 @@
       {
         "id": "shadow_hysteria_boss",
         "element": "Blue",
-        "family": "异教徒家族",
+        "family": "cultist",
         "baseHealth": 480,
         "baseAttack": 275,
         "baseDefense": 150,
@@ -28969,7 +28969,7 @@
       {
         "id": "shadow_shoggo_boss",
         "element": "Purple",
-        "family": "异教徒家族",
+        "family": "cultist",
         "baseHealth": 480,
         "baseAttack": 275,
         "baseDefense": 150,
@@ -28987,7 +28987,7 @@
       {
         "id": "Wanderer of the Steppes",
         "element": "Blue",
-        "family": "卡勒瓦拉家族",
+        "family": "kalevala",
         "baseHealth": 480,
         "baseAttack": 275,
         "baseDefense": 150,
@@ -29005,7 +29005,7 @@
       {
         "id": "kalevala_ukkonen_costume",
         "element": "Red",
-        "family": "卡勒瓦拉家族",
+        "family": "kalevala",
         "baseHealth": 480,
         "baseAttack": 275,
         "baseDefense": 150,
@@ -29023,7 +29023,7 @@
       {
         "id": "kalevala_vainamoinen_costume",
         "element": "Green",
-        "family": "卡勒瓦拉家族",
+        "family": "kalevala",
         "baseHealth": 480,
         "baseAttack": 275,
         "baseDefense": 150,
@@ -29041,7 +29041,7 @@
       {
         "id": "Cursed Kin of Väinämöinen",
         "element": "Red",
-        "family": "卡勒瓦拉家族",
+        "family": "kalevala",
         "baseHealth": 480,
         "baseAttack": 275,
         "baseDefense": 150,
@@ -29087,7 +29087,7 @@
       {
         "id": "Crescent Owl",
         "element": "Purple",
-        "family": "超能萌宠家族",
+        "family": "mighty_pet",
         "baseHealth": 680,
         "baseAttack": 320,
         "baseDefense": 210,
@@ -29106,7 +29106,7 @@
       {
         "id": "Pug of War",
         "element": "Red",
-        "family": "超能萌宠家族",
+        "family": "mighty_pet",
         "baseHealth": 680,
         "baseAttack": 320,
         "baseDefense": 210,
@@ -29525,7 +29525,7 @@
       {
         "id": "tales2_regin_boss",
         "element": "Red",
-        "family": "尼达维利尔王国",
+        "family": "nidavellir",
         "baseHealth": 480,
         "baseAttack": 275,
         "baseDefense": 150,
@@ -29543,7 +29543,7 @@
       {
         "id": "tales2_dularfulr_boss",
         "element": "Purple",
-        "family": "尼达维利尔王国",
+        "family": "nidavellir",
         "baseHealth": 480,
         "baseAttack": 275,
         "baseDefense": 150,
@@ -29561,7 +29561,7 @@
       {
         "id": "tales2_gandr_boss",
         "element": "Yellow",
-        "family": "尼达维利尔王国",
+        "family": "nidavellir",
         "baseHealth": 480,
         "baseAttack": 275,
         "baseDefense": 150,
@@ -29579,7 +29579,7 @@
       {
         "id": "tales2_ott_boss",
         "element": "Green",
-        "family": "尼达维利尔王国",
+        "family": "nidavellir",
         "baseHealth": 480,
         "baseAttack": 275,
         "baseDefense": 150,
@@ -29597,7 +29597,7 @@
       {
         "id": "tales2_dagr_boss",
         "element": "Green",
-        "family": "尼达维利尔王国",
+        "family": "nidavellir",
         "baseHealth": 480,
         "baseAttack": 275,
         "baseDefense": 150,
@@ -29615,7 +29615,7 @@
       {
         "id": "tales2_hreidmarr_boss",
         "element": "Purple",
-        "family": "尼达维利尔王国",
+        "family": "nidavellir",
         "baseHealth": 480,
         "baseAttack": 275,
         "baseDefense": 150,
@@ -29633,7 +29633,7 @@
       {
         "id": "tales2_andvari_boss",
         "element": "Blue",
-        "family": "尼达维利尔王国",
+        "family": "nidavellir",
         "baseHealth": 480,
         "baseAttack": 275,
         "baseDefense": 150,
@@ -29651,7 +29651,7 @@
       {
         "id": "tales2_fjalar_boss",
         "element": "Yellow",
-        "family": "尼达维利尔王国",
+        "family": "nidavellir",
         "baseHealth": 480,
         "baseAttack": 275,
         "baseDefense": 150,
@@ -29669,7 +29669,7 @@
       {
         "id": "tales2_helgi_boss",
         "element": "Red",
-        "family": "尼达维利尔王国",
+        "family": "nidavellir",
         "baseHealth": 480,
         "baseAttack": 275,
         "baseDefense": 150,
@@ -29700,7 +29700,7 @@
       {
         "id": "tales2_aethslegaur_boss",
         "element": "Red",
-        "family": "尼达维利尔王国",
+        "family": "nidavellir",
         "baseHealth": 480,
         "baseAttack": 275,
         "baseDefense": 150,
@@ -29819,7 +29819,7 @@
       {
         "id": "moths_tealmoine",
         "element": "Blue",
-        "family": "飞蛾家族",
+        "family": "moths",
         "baseHealth": 420,
         "baseAttack": 275,
         "baseDefense": 120,
@@ -29837,7 +29837,7 @@
       {
         "id": "moths_satinpimenter",
         "element": "Yellow",
-        "family": "飞蛾家族",
+        "family": "moths",
         "baseHealth": 420,
         "baseAttack": 275,
         "baseDefense": 120,
@@ -29855,7 +29855,7 @@
       {
         "id": "moths_groververt",
         "element": "Green",
-        "family": "飞蛾家族",
+        "family": "moths",
         "baseHealth": 420,
         "baseAttack": 275,
         "baseDefense": 120,
@@ -29873,7 +29873,7 @@
       {
         "id": "moths_mortewitch",
         "element": "Purple",
-        "family": "飞蛾家族",
+        "family": "moths",
         "baseHealth": 420,
         "baseAttack": 275,
         "baseDefense": 120,
@@ -29891,7 +29891,7 @@
       {
         "id": "moths_pepperbleu",
         "element": "Blue",
-        "family": "飞蛾家族",
+        "family": "moths",
         "baseHealth": 420,
         "baseAttack": 275,
         "baseDefense": 120,
@@ -30095,7 +30095,7 @@
       {
         "id": "moths_chunkyroi",
         "element": "Red",
-        "family": "飞蛾家族",
+        "family": "moths",
         "baseHealth": 420,
         "baseAttack": 275,
         "baseDefense": 120,
@@ -30113,7 +30113,7 @@
       {
         "id": "moths_rosepetite",
         "element": "Red",
-        "family": "飞蛾家族",
+        "family": "moths",
         "baseHealth": 420,
         "baseAttack": 275,
         "baseDefense": 120,
@@ -30131,7 +30131,7 @@
       {
         "id": "moths_shyombre",
         "element": "Purple",
-        "family": "飞蛾家族",
+        "family": "moths",
         "baseHealth": 420,
         "baseAttack": 275,
         "baseDefense": 120,
@@ -30149,7 +30149,7 @@
       {
         "id": "moths_joyvert",
         "element": "Green",
-        "family": "飞蛾家族",
+        "family": "moths",
         "baseHealth": 420,
         "baseAttack": 275,
         "baseDefense": 120,
@@ -30167,7 +30167,7 @@
       {
         "id": "tales2_hogne_boss",
         "element": "Blue",
-        "family": "马克海姆",
+        "family": "myrkheim",
         "baseHealth": 480,
         "baseAttack": 275,
         "baseDefense": 150,
@@ -30185,7 +30185,7 @@
       {
         "id": "tales2_bragi_boss",
         "element": "Yellow",
-        "family": "马克海姆",
+        "family": "myrkheim",
         "baseHealth": 480,
         "baseAttack": 275,
         "baseDefense": 150,
@@ -30203,7 +30203,7 @@
       {
         "id": "tales2_thrivaldi_boss",
         "element": "Purple",
-        "family": "马克海姆",
+        "family": "myrkheim",
         "baseHealth": 480,
         "baseAttack": 275,
         "baseDefense": 150,
@@ -30221,7 +30221,7 @@
       {
         "id": "tales2_dain_boss",
         "element": "Blue",
-        "family": "马克海姆",
+        "family": "myrkheim",
         "baseHealth": 480,
         "baseAttack": 275,
         "baseDefense": 150,
@@ -30239,7 +30239,7 @@
       {
         "id": "tales2_bryggvir_boss",
         "element": "Blue",
-        "family": "马克海姆",
+        "family": "myrkheim",
         "baseHealth": 480,
         "baseAttack": 275,
         "baseDefense": 150,
@@ -30778,7 +30778,7 @@
       {
         "id": "beowulf_hrothgar_boss",
         "element": "Blue",
-        "family": "贝奥武夫家族",
+        "family": "beowulf",
         "baseHealth": 480,
         "baseAttack": 275,
         "baseDefense": 150,
@@ -30800,7 +30800,7 @@
       {
         "id": "beowulf_unferth_boss",
         "element": "Purple",
-        "family": "贝奥武夫家族",
+        "family": "beowulf",
         "baseHealth": 480,
         "baseAttack": 275,
         "baseDefense": 150,
@@ -30819,7 +30819,7 @@
       {
         "id": "beowulf_grendel_boss",
         "element": "Green",
-        "family": "贝奥武夫家族",
+        "family": "beowulf",
         "baseHealth": 480,
         "baseAttack": 275,
         "baseDefense": 150,
@@ -30841,7 +30841,7 @@
       {
         "id": "beowulf_ecgtheow_boss",
         "element": "Green",
-        "family": "贝奥武夫家族",
+        "family": "beowulf",
         "baseHealth": 480,
         "baseAttack": 275,
         "baseDefense": 150,
@@ -30863,7 +30863,7 @@
       {
         "id": "beowulf_aeschere_boss",
         "element": "Yellow",
-        "family": "贝奥武夫家族",
+        "family": "beowulf",
         "baseHealth": 480,
         "baseAttack": 275,
         "baseDefense": 150,
@@ -31001,7 +31001,7 @@
       {
         "id": "tales2_fafnir_boss",
         "element": "Green",
-        "family": "马克海姆",
+        "family": "myrkheim",
         "baseHealth": 600,
         "baseAttack": 345,
         "baseDefense": 165,
@@ -31019,7 +31019,7 @@
       {
         "id": "tales2_aethslegaur_boss_final",
         "element": "Red",
-        "family": "尼达维利尔王国",
+        "family": "nidavellir",
         "baseHealth": 600,
         "baseAttack": 345,
         "baseDefense": 165,
@@ -31037,7 +31037,7 @@
       {
         "id": "tales2_thrivaldi_boss_final",
         "element": "Purple",
-        "family": "马克海姆",
+        "family": "myrkheim",
         "baseHealth": 550,
         "baseAttack": 335,
         "baseDefense": 150,
@@ -31205,7 +31205,7 @@
       {
         "id": "Magic Carpet Mender",
         "element": "Yellow",
-        "family": "魔毯家族",
+        "family": "magic_carpet",
         "baseHealth": 430,
         "baseAttack": 275,
         "baseDefense": 150,
@@ -31225,7 +31225,7 @@
       {
         "id": "Magic Carpet Assassin",
         "element": "Purple",
-        "family": "魔毯家族",
+        "family": "magic_carpet",
         "baseHealth": 430,
         "baseAttack": 275,
         "baseDefense": 150,
@@ -31245,7 +31245,7 @@
       {
         "id": "Magic Carpet Gourmand",
         "element": "Green",
-        "family": "魔毯家族",
+        "family": "magic_carpet",
         "baseHealth": 430,
         "baseAttack": 275,
         "baseDefense": 150,
@@ -31265,7 +31265,7 @@
       {
         "id": "Magic Carpet Drifter",
         "element": "Red",
-        "family": "魔毯家族",
+        "family": "magic_carpet",
         "baseHealth": 430,
         "baseAttack": 275,
         "baseDefense": 150,
@@ -31285,7 +31285,7 @@
       {
         "id": "Magic Carpet Charmer",
         "element": "Yellow",
-        "family": "魔毯家族",
+        "family": "magic_carpet",
         "baseHealth": 430,
         "baseAttack": 275,
         "baseDefense": 150,
@@ -31305,7 +31305,7 @@
       {
         "id": "Magic Carpet Cat Lady",
         "element": "Purple",
-        "family": "魔毯家族",
+        "family": "magic_carpet",
         "baseHealth": 430,
         "baseAttack": 275,
         "baseDefense": 150,
@@ -31325,7 +31325,7 @@
       {
         "id": "magic_milena_costume",
         "element": "Blue",
-        "family": "魔法家族",
+        "family": "magic",
         "baseHealth": 430,
         "baseAttack": 275,
         "baseDefense": 150,
@@ -31345,7 +31345,7 @@
       {
         "id": "magic_agrafena_costume",
         "element": "Purple",
-        "family": "魔法家族",
+        "family": "magic",
         "baseHealth": 430,
         "baseAttack": 275,
         "baseDefense": 150,
@@ -31365,7 +31365,7 @@
       {
         "id": "magic_nadezhda_costume",
         "element": "Red",
-        "family": "魔法家族",
+        "family": "magic",
         "baseHealth": 430,
         "baseAttack": 275,
         "baseDefense": 150,
@@ -31385,7 +31385,7 @@
       {
         "id": "Nervous Magic Carpet Flier",
         "element": "Red",
-        "family": "魔毯家族",
+        "family": "magic_carpet",
         "baseHealth": 430,
         "baseAttack": 275,
         "baseDefense": 150,
@@ -31405,7 +31405,7 @@
       {
         "id": "Maker of Magic Carpets",
         "element": "Blue",
-        "family": "魔毯家族",
+        "family": "magic_carpet",
         "baseHealth": 430,
         "baseAttack": 275,
         "baseDefense": 150,
@@ -31503,7 +31503,7 @@
       {
         "id": "tales1_deadly_boss_mulgog",
         "element": "Green",
-        "family": "亚特兰蒂斯梦魇家族",
+        "family": "tales1_baddies",
         "baseHealth": 470,
         "baseAttack": 295,
         "baseDefense": 150,
@@ -31518,7 +31518,7 @@
       {
         "id": "tales1_deadly_boss_bagreg",
         "element": "Red",
-        "family": "亚特兰蒂斯梦魇家族",
+        "family": "tales1_baddies",
         "baseHealth": 470,
         "baseAttack": 295,
         "baseDefense": 150,
@@ -31623,7 +31623,7 @@
       {
         "id": "Hulking Pike",
         "element": "Green",
-        "family": "卡勒瓦拉家族",
+        "family": "kalevala",
         "baseHealth": 480,
         "baseAttack": 275,
         "baseDefense": 150,
@@ -31641,7 +31641,7 @@
       {
         "id": "Champion's Savior",
         "element": "Yellow",
-        "family": "卡勒瓦拉家族",
+        "family": "kalevala",
         "baseHealth": 480,
         "baseAttack": 275,
         "baseDefense": 150,
@@ -31659,7 +31659,7 @@
       {
         "id": "kalevala_louhi_costume",
         "element": "Purple",
-        "family": "卡勒瓦拉家族",
+        "family": "kalevala",
         "baseHealth": 480,
         "baseAttack": 275,
         "baseDefense": 150,
@@ -31677,7 +31677,7 @@
       {
         "id": "kalevala_lemminkainen_costume",
         "element": "Red",
-        "family": "卡勒瓦拉家族",
+        "family": "kalevala",
         "baseHealth": 480,
         "baseAttack": 275,
         "baseDefense": 150,
@@ -31695,7 +31695,7 @@
       {
         "id": "kalevala_ilmarinen_costume",
         "element": "Red",
-        "family": "卡勒瓦拉家族",
+        "family": "kalevala",
         "baseHealth": 480,
         "baseAttack": 275,
         "baseDefense": 150,
@@ -31713,7 +31713,7 @@
       {
         "id": "kalevala_kullervo_costume",
         "element": "Yellow",
-        "family": "卡勒瓦拉家族",
+        "family": "kalevala",
         "baseHealth": 480,
         "baseAttack": 275,
         "baseDefense": 150,
@@ -31731,7 +31731,7 @@
       {
         "id": "kalevala_joukahainen_costume",
         "element": "Blue",
-        "family": "卡勒瓦拉家族",
+        "family": "kalevala",
         "baseHealth": 480,
         "baseAttack": 275,
         "baseDefense": 150,
@@ -32052,7 +32052,7 @@
         "statusEffect": "FixedHealthRecovery",
         "id": "ares_regen",
         "buff": "MinorBuff",
-        "healthPoints": 145,
+        "healthPoints": 180,
         "healthPointsIncrementPerLevel": 10
       },
       {
@@ -37913,7 +37913,7 @@
         "statusEffect": "IncreasingCounterAttack",
         "id": "increasing_counter_attack_ares_costume",
         "buff": "MinorBuff",
-        "damageDeflectionPerMil": 790,
+        "damageDeflectionPerMil": 890,
         "damageDeflectionPerLevelPerMil": 30,
         "damageDeflectionIncrementPerTurnPerMil": 100,
         "damageDeflectionIncrementPerTurnPerLevelPerMil": 0,
@@ -38987,7 +38987,7 @@
         "statusEffect": "CritModifier",
         "id": "crit_increase_gregorion_costume",
         "buff": "MinorBuff",
-        "critIncrementPerMil": 260,
+        "critIncrementPerMil": 310,
         "incrementPerLevelPerMil": 20
       },
       {
@@ -39065,14 +39065,14 @@
         "statusEffect": "HealMultiplier",
         "id": "reduce_healing_cinisia",
         "buff": "MinorDebuff",
-        "healMultiplierPerMil": 750,
+        "healMultiplierPerMil": 650,
         "healMultiplierPerLevelPerMil": 206
       },
       {
         "statusEffect": "Bleeding",
         "id": "bleed_cinisia",
         "buff": "MinorDebuff",
-        "damageMultiplierPerMil": 200,
+        "damageMultiplierPerMil": 220,
         "damageMultiplierIncrementPerLevelPerMil": 5
       },
       {
@@ -44738,7 +44738,7 @@
             "powerMultiplierIncrementPerLevelPerMil": 50
           }
         ],
-        "activationChancePerMil": 500,
+        "activationChancePerMil": 550,
         "effectActivationTypes": [
           "EnemySpecial"
         ]
@@ -46297,7 +46297,7 @@
           {
             "typeOfTarget": "Random",
             "effectType": "Damage",
-            "powerMultiplierPerMil": 2650,
+            "powerMultiplierPerMil": 3150,
             "powerMultiplierIncrementPerLevelPerMil": 50
           }
         ],
@@ -46751,15 +46751,23 @@
         "statusEffect": "FixedHealthRecovery",
         "id": "health_boost_recovery_ares_costume",
         "buff": "MinorBuff",
-        "healthPoints": 123,
+        "healthPoints": 155,
         "healthPointsIncrementPerLevel": 10,
         "isHealthBoost": true
+      },
+      {
+        "statusEffect": "CritModifier",
+        "id": "ares_crit_more",
+        "buff": "MinorBuff",
+        "iconOverrideStatusEffectId": "ares_crit",
+        "critIncrementPerMil": 320,
+        "incrementPerLevelPerMil": 20
       },
       {
         "statusEffect": "AttackModifier",
         "id": "attack_buff_ithar",
         "buff": "MinorBuff",
-        "attackMultiplierPerMil": 1350,
+        "attackMultiplierPerMil": 1400,
         "attackMultiplierIncrementPerLevelPerMil": 0
       },
       {
@@ -48504,7 +48512,7 @@
         "removalTrigger": "DamageReceived",
         "receivedDamageMultiplierPerMil": 1660,
         "receivedDamageMultiplierIncrementPerLevelPerMil": 20,
-        "totalDamageNeededToWakeUp": 500
+        "totalDamageNeededToWakeUp": 750
       },
       {
         "statusEffect": "CritModifier",
@@ -49791,7 +49799,7 @@
         "statusEffect": "CounterAttack",
         "id": "counterattack_nithgaest",
         "buff": "MinorBuff",
-        "damageDeflectionPerMil": 1050,
+        "damageDeflectionPerMil": 1150,
         "damageDeflectionPerLevelPerMil": 50
       },
       {
@@ -50182,8 +50190,8 @@
             "sideAffected": "Allies",
             "effectTriggerRemovalReasons": [],
             "excludeEffectTriggerRemovalReasons": [],
-            "fixedPower": 160,
-            "fixedPowerIncrementPerLevel": 20
+            "fixedPower": 240,
+            "fixedPowerIncrementPerLevel": 30
           }
         ],
         "iconOverrideStatusEffectId": "health_boost_on_removal_atwood"
@@ -50388,7 +50396,7 @@
         "statusEffect": "Burn",
         "id": "burn_nithgaest",
         "buff": "MinorDebuff",
-        "damageMultiplierPerMil": 15,
+        "damageMultiplierPerMil": 25,
         "damageMultiplierIncrementPerLevelPerMil": 10
       },
       {
@@ -50996,8 +51004,8 @@
         "statusEffect": "FixedHealthRecovery",
         "id": "hp_recovery_nibbles",
         "buff": "MinorBuff",
-        "healthPoints": 140,
-        "healthPointsIncrementPerLevel": 10
+        "healthPoints": 170,
+        "healthPointsIncrementPerLevel": 20
       },
       {
         "statusEffect": "Poison",
@@ -51934,6 +51942,33 @@
         "iconOverrideStatusEffectId": "hp_recovery",
         "healthPoints": 200,
         "healthPointsIncrementPerLevel": 10
+      },
+      {
+        "statusEffect": "ManaGenerationModifier",
+        "id": "mana_regen_reduction_pluth",
+        "buff": "MinorDebuff",
+        "iconOverrideStatusEffectId": "mana_regen_reduction",
+        "manaGenerationMultiplierPerMil": 870,
+        "manaGenerationMultiplierIncrementPerLevelPerMil": 246
+      },
+      {
+        "statusEffect": "CritModifier",
+        "id": "crit_gregorion",
+        "buff": "MinorBuff",
+        "iconOverrideStatusEffectId": "ares_crit",
+        "critIncrementPerMil": 210,
+        "incrementPerLevelPerMil": 20
+      },
+      {
+        "statusEffect": "UnderWater",
+        "id": "underwater_with_absorb_healing_klaern",
+        "buff": "MinorDebuff",
+        "iconOverrideStatusEffectId": "underwater_with_absorb_healing",
+        "damageMultiplierPerMil": 84,
+        "damageMultiplierIncrementPerLevelPerMil": 3,
+        "additionalCasterSideEffect": "Heal",
+        "additionalCasterSideEffectPowerPerMil": 350,
+        "additionalCasterSideEffectTargetType": "Single"
       }
     ],
     "tileEnhancements": [
@@ -57689,7 +57724,7 @@
         "id": "league_heal_modifier_non_featured_family",
         "targets": "Single",
         "targetsSideAffected": "Allies",
-        "healMultiplierPerMil": 700
+        "healMultiplierPerMil": 650
       },
       {
         "passiveSkillType": "HealModifier",
@@ -57723,7 +57758,7 @@
         "targetsSideAffected": "Allies",
         "hasCustomText": true,
         "modifierStatType": "AccuracyMultiplier",
-        "powerMultiplierPerMil": 900
+        "powerMultiplierPerMil": 850
       },
       {
         "passiveSkillType": "StatModifierAgainstTarget",
@@ -57732,7 +57767,7 @@
         "targetsSideAffected": "Allies",
         "hasCustomText": true,
         "modifierStatType": "ReceivedDamageMultiplier",
-        "powerMultiplierPerMil": 850
+        "powerMultiplierPerMil": 800
       },
       {
         "passiveSkillType": "StatModifierAgainstTarget",
@@ -68762,47 +68797,47 @@
       {
         "effectType": "NpcsFamily",
         "id": "realm_alfheim",
-        "family": "艾尔夫海姆王国"
+        "family": "alfheim"
       },
       {
         "effectType": "NpcsFamily",
         "id": "realm_asgard",
-        "family": "阿斯加德王国"
+        "family": "asgard"
       },
       {
         "effectType": "NpcsFamily",
         "id": "realm_helheim",
-        "family": "海姆冥界王国"
+        "family": "helheim"
       },
       {
         "effectType": "NpcsFamily",
         "id": "realm_jotunheim",
-        "family": "约顿海姆王国"
+        "family": "jotunheim"
       },
       {
         "effectType": "NpcsFamily",
         "id": "realm_midgard",
-        "family": "米德加德王国"
+        "family": "midgard"
       },
       {
         "effectType": "NpcsFamily",
         "id": "realm_muspelheim",
-        "family": "穆斯贝尔海姆王国"
+        "family": "muspelheim"
       },
       {
         "effectType": "NpcsFamily",
         "id": "realm_niflheim",
-        "family": "尼福尔海姆王国"
+        "family": "niflheim"
       },
       {
         "effectType": "NpcsFamily",
         "id": "realm_svartalfheim",
-        "family": "瓦特海姆王国"
+        "family": "svartalfheim"
       },
       {
         "effectType": "NpcsFamily",
         "id": "realm_vanaheim",
-        "family": "瓦纳海姆王国"
+        "family": "vanaheim"
       },
       {
         "effectType": "CustomSpecialTiles",
@@ -70764,7 +70799,7 @@
       {
         "effectType": "NpcsFamily",
         "id": "family_masquerade",
-        "family": "蒙面之神家族"
+        "family": "masquerade_pve"
       },
       {
         "effectType": "SummonFamiliarOnSpecialWithChance",
@@ -72623,15 +72658,15 @@
         "statMultipliers": [
           {
             "type": "AttackMultiplier",
-            "multiplierPerMil": 1500
+            "multiplierPerMil": 1800
           },
           {
             "type": "DefenseMultiplier",
-            "multiplierPerMil": 1500
+            "multiplierPerMil": 1800
           },
           {
             "type": "HealthMultiplier",
-            "multiplierPerMil": 1500
+            "multiplierPerMil": 1800
           }
         ],
         "extraPassiveSkillIds": [
@@ -72647,15 +72682,15 @@
         "statMultipliers": [
           {
             "type": "AttackMultiplier",
-            "multiplierPerMil": 1800
+            "multiplierPerMil": 2200
           },
           {
             "type": "DefenseMultiplier",
-            "multiplierPerMil": 1800
+            "multiplierPerMil": 2200
           },
           {
             "type": "HealthMultiplier",
-            "multiplierPerMil": 1800
+            "multiplierPerMil": 2200
           }
         ],
         "extraPassiveSkillIds": [
@@ -72671,15 +72706,15 @@
         "statMultipliers": [
           {
             "type": "AttackMultiplier",
-            "multiplierPerMil": 2400
+            "multiplierPerMil": 2700
           },
           {
             "type": "DefenseMultiplier",
-            "multiplierPerMil": 2400
+            "multiplierPerMil": 2700
           },
           {
             "type": "HealthMultiplier",
-            "multiplierPerMil": 2400
+            "multiplierPerMil": 2700
           }
         ],
         "extraPassiveSkillIds": [
@@ -76731,5 +76766,5 @@
       "SharedDamage"
     ]
   },
-  "battleConfigId": 4175771665
+  "battleConfigId": 3416127494
 }

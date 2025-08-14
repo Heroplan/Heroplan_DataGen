@@ -230,13 +230,13 @@ if __name__ == "__main__":
 
     full_simplified_chinese_content, full_simplified_chinese_data = "", {}
     if sim_chinese_file:
-        full_simplified_chinese_content, full_simplified_chinese_data = process_language_file(sim_chinese_file, is_json=True)
+        full_simplified_chinese_content, full_simplified_chinese_data = process_language_file(sim_chinese_file, is_json=False)
         if full_simplified_chinese_data:
             print(f"简体中文文件 '{sim_chinese_file}' 清理和解析完成，共 {len(full_simplified_chinese_data)} 条目。")
 
     full_traditional_chinese_content, full_traditional_chinese_data = "", {}
     if tra_chinese_file:
-        full_traditional_chinese_content, full_traditional_chinese_data = process_language_file(tra_chinese_file, is_json=True)
+        full_traditional_chinese_content, full_traditional_chinese_data = process_language_file(tra_chinese_file, is_json=False)
         if full_traditional_chinese_data:
             print(f"繁体中文文件 '{tra_chinese_file}' 清理和解析完成，共 {len(full_traditional_chinese_data)} 条目。")
 
