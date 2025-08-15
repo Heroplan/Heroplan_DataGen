@@ -38458,9 +38458,10 @@ window.allHeroes =
             "狙击手"
         ],
         "source": "神话召唤 - 月英",
-        "Release date": "2020-03-01",
-        "specialId": "force_of_forest",
+        "Release date": "2022-04-01",
+        "specialId": "power_of_flora",
         "passiveSkills": [
+            "summon_on_burn",
             "resist_minion_removal"
         ],
         "heroId": "nature_god_silvaria",

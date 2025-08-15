@@ -12265,7 +12265,7 @@ window.allHeroesExtra = [
         "fancy name": "Forest God",
         "element": "Green",
         "rarity": 5,
-        "Release date": "2020-03-01",
+        "Release date": "2022-04-01",
         "AetherPower": "Special Boost",
         "skill_types": [
             "Debuffers (DEF)",
@@ -12273,11 +12273,12 @@ window.allHeroesExtra = [
             "Snipers"
         ],
         "heroId": "nature_god_silvaria",
-        "baseAttack": 298,
-        "baseDefense": 404,
+        "baseAttack": 378,
+        "baseDefense": 364,
         "baseHealth": 692,
-        "specialId": "force_of_forest",
+        "specialId": "power_of_flora",
         "passiveSkills": [
+            "summon_on_burn",
             "resist_minion_removal"
         ]
     },
