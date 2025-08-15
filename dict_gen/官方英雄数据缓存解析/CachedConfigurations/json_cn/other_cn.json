@@ -1,6 +1,5 @@
 {
   "otherConfig": {
-    "abCode": "ftue_energy_flow_active",
     "logic": {
       "dragonAscension": {
         "characterRecipes": [
@@ -2820,8 +2819,8 @@
               "海姆冥界王国"
             ],
             "eventBonus": "event_hero_bonus_treasure_quest",
-            "startTime": "2025-08-25 07:00:00",
-            "endTime": "2025-08-27 07:00:00"
+            "startTime": "2025-09-02 07:00:00",
+            "endTime": "2025-09-04 07:00:00"
           },
           {
             "id": "TreasureQuestCovenantSuperElemental",
@@ -3589,7 +3588,7 @@
               "featuredHeroes": [
                 "莉莉",
                 "吠舍离-秘派大师",
-                "阿加德"
+                "扎莎"
               ],
               "startTime": "2025-08-20 07:00:00",
               "endTime": "2025-08-25 07:00:00"
@@ -78000,6 +77999,51 @@
                 ]
               }
             ]
+          },
+          {
+            "id": "magic_aug_2025",
+            "statBonuses": [
+              {
+                "bonusLevels": []
+              },
+              {
+                "bonusLevels": []
+              },
+              {
+                "bonusLevels": []
+              },
+              {
+                "bonusLevels": []
+              },
+              {
+                "bonusLevels": [
+                  {
+                    "attackBonusPerMil": 260,
+                    "defenseBonusPerMil": 260,
+                    "healthBonusPerMil": 260,
+                    "manaBonusPerMil": 10
+                  },
+                  {
+                    "attackBonusPerMil": 280,
+                    "defenseBonusPerMil": 280,
+                    "healthBonusPerMil": 280,
+                    "manaBonusPerMil": 10
+                  },
+                  {
+                    "attackBonusPerMil": 300,
+                    "defenseBonusPerMil": 300,
+                    "healthBonusPerMil": 300,
+                    "manaBonusPerMil": 10
+                  },
+                  {
+                    "attackBonusPerMil": 320,
+                    "defenseBonusPerMil": 320,
+                    "healthBonusPerMil": 320,
+                    "manaBonusPerMil": 10
+                  }
+                ]
+              }
+            ]
           }
         ],
         "enabled": true
@@ -79806,5 +79850,5 @@
     "criticalOperationPendingDelaySeconds": 3,
     "allowedCriticalOperationPendingCount": 3
   },
-  "otherConfigId": 3799008175
+  "otherConfigId": 1817838074
 }

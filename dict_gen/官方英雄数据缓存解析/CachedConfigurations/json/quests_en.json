@@ -2,7 +2,7 @@
   "questsConfig": {
     "enabled": true,
     "playerLevelRequirement": 10,
-    "mapPositionsCount": 9,
+    "mapPositionsCount": 8,
     "simultaneousRecurringQuestsCount": 2,
     "specialRecurringQuestDayOfWeek": "Wednesday",
     "specialRecurringQuestTimeOfDay": 25200,
@@ -106091,5 +106091,5 @@
       ]
     }
   },
-  "questsConfigId": 1144184968
+  "questsConfigId": 1495211605
 }

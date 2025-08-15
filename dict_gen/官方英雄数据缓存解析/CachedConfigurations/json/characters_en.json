@@ -17416,7 +17416,7 @@
     "specialId": "pawns_of_divinity",
     "canBeReceivedDate": "2023-11-15 07:00:00",
     "origin": "魔法高塔",
-    "costumeBonusesId": "magic"
+    "costumeBonusesId": "magic_aug_2025"
   },
   "magic_jett": {
     "id": "Herald of Sacrifice",
@@ -21608,7 +21608,7 @@
     "element": "Yellow",
     "family": "magic",
     "baseHealth": 827,
-    "baseAttack": 455,
+    "baseAttack": 456,
     "baseDefense": 462,
     "manaSpeedId": "魔法",
     "passiveSkills": [
@@ -27392,9 +27392,9 @@
     "id": "Messenger of the Chentari",
     "element": "Yellow",
     "family": "wild_cat",
-    "baseHealth": 967,
-    "baseAttack": 636,
-    "baseDefense": 535,
+    "baseHealth": 1050,
+    "baseAttack": 664,
+    "baseDefense": 563,
     "manaSpeedId": "飞速",
     "passiveSkills": [
       "resist_all_defense_effects",
@@ -28181,9 +28181,9 @@
     "id": "Magic Carpet Cat Lady",
     "element": "Purple",
     "family": "magic_carpet",
-    "baseHealth": 1010,
-    "baseAttack": 549,
-    "baseDefense": 600,
+    "baseHealth": 1097,
+    "baseAttack": 585,
+    "baseDefense": 635,
     "manaSpeedId": "慢",
     "passiveSkills": [
       "resist_negative_minion_and_mega_minion_effects",
@@ -28569,9 +28569,9 @@
     "id": "Astral Dwarf Cartographer",
     "element": "Green",
     "family": "astral_dwarfs",
-    "baseHealth": 1100,
-    "baseAttack": 544,
-    "baseDefense": 600,
+    "baseHealth": 1099,
+    "baseAttack": 583,
+    "baseDefense": 639,
     "manaSpeedId": "慢",
     "passiveSkills": [
       "never_miss_special",

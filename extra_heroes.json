@@ -192,7 +192,7 @@
         "color": "Green",
         "Release date": "",
         "star": 5,
-        "family": "astral_dwarfs",
+        "family": "astraldwarfs",
         "costume_id": 0,
         "heroId": "astral_dwarf_hygil",
         "Lottery_Only":1
@@ -203,9 +203,42 @@
         "color": "Yellow",
         "Release date": "",
         "star": 5,
-        "family": "wild_cat",
+        "family": "wildcat",
         "costume_id": 0,
         "heroId": "wild_cat_stravia",
+        "Lottery_Only":1
+    },
+    {
+        "name": "Lilli",
+        "fancy_name": "Magic Carpet Cat Lady",
+        "color": "Purple",
+        "Release date": "",
+        "star": 5,
+        "family": "magiccarpet",
+        "costume_id": 0,
+        "heroId": "magic_carpet_lilli",
+        "Lottery_Only":1
+    },
+    {
+        "name": "Lilareine",
+        "fancy_name": "Marquise Moth",
+        "color": "Purple",
+        "Release date": "",
+        "star": 5,
+        "family": "moth",
+        "costume_id": 0,
+        "heroId": "moth_lilareine",
+        "Lottery_Only":1
+    },
+    {
+        "name": "Vaishali C1",
+        "fancy_name": "Mystic Pie Master",
+        "color": "Yellow",
+        "Release date": "",
+        "star": 5,
+        "family": "magic",
+        "costume_id": 0,
+        "heroId": "magic_vaishali_costume_chef",
         "Lottery_Only":1
     }
 ]
