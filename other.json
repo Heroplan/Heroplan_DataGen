@@ -1,6 +1,5 @@
 {
   "otherConfig": {
-    "abCode": "ftue_energy_flow_active",
     "logic": {
       "dragonAscension": {
         "characterRecipes": [
@@ -2764,9 +2763,9 @@
             "eventEndingOffer": "",
             "manuallyOverwritten": true,
             "featuredFamilies": [
-              "阿瓦隆家族",
-              "肃煞森林家族",
-              "仙境家族"
+              "knight",
+              "fable",
+              "wonderland"
             ],
             "eventBonus": "event_hero_bonus_treasure_quest",
             "startTime": "2025-06-23 07:00:00",
@@ -2780,11 +2779,11 @@
             "eventEndingOffer": "",
             "manuallyOverwritten": true,
             "featuredFamilies": [
-              "火枪手家族",
-              "海盗家族",
-              "吟游诗人家族",
-              "星落家族",
-              "恶棍家族"
+              "musketeer",
+              "pirate",
+              "bard",
+              "circus",
+              "villains"
             ],
             "eventBonus": "event_hero_bonus_treasure_quest",
             "startTime": "2025-07-14 07:00:00",
@@ -2798,11 +2797,11 @@
             "eventEndingOffer": "",
             "manuallyOverwritten": true,
             "featuredFamilies": [
-              "穆斯贝尔海姆王国",
-              "艾尔夫海姆王国",
-              "阿斯加德王国",
-              "瓦纳海姆王国",
-              "卡勒瓦拉家族"
+              "muspelheim",
+              "alfheim",
+              "asgard",
+              "vanaheim",
+              "kalevala"
             ],
             "eventBonus": "event_hero_bonus_treasure_quest",
             "startTime": "2025-08-04 07:00:00",
@@ -2813,15 +2812,15 @@
             "type": "TreasureQuest",
             "manuallyOverwritten": true,
             "featuredFamilies": [
-              "米德加德王国",
-              "约顿海姆王国",
-              "瓦特海姆王国",
-              "尼福尔海姆王国",
-              "海姆冥界王国"
+              "midgard",
+              "jotunheim",
+              "svartalfheim",
+              "niflheim",
+              "helheim"
             ],
             "eventBonus": "event_hero_bonus_treasure_quest",
-            "startTime": "2025-08-25 07:00:00",
-            "endTime": "2025-08-27 07:00:00"
+            "startTime": "2025-09-02 07:00:00",
+            "endTime": "2025-09-04 07:00:00"
           },
           {
             "id": "TreasureQuestCovenantSuperElemental",
@@ -2830,10 +2829,10 @@
             "eventOffer": "",
             "eventEndingOffer": "",
             "featuredFamilies": [
-              "恶狼家族",
-              "猫头鹰家族",
-              "守护者家族",
-              "超能萌宠家族"
+              "wolf",
+              "owl",
+              "guardian",
+              "mighty_pet"
             ],
             "eventBonus": "event_hero_bonus_treasure_quest",
             "startTime": "2025-09-15 07:00:00",
@@ -2846,7 +2845,7 @@
             "eventOffer": "",
             "eventEndingOffer": "",
             "featuredFamilies": [
-              "经典家族"
+              "classic"
             ],
             "eventBonus": "event_hero_bonus_treasure_quest",
             "startTime": "2025-10-06 07:00:00",
@@ -2859,10 +2858,10 @@
             "eventOffer": "",
             "eventEndingOffer": "",
             "featuredFamilies": [
-              "月亮家族",
-              "太阳家族",
-              "蒙面之神家族",
-              "爱神家族"
+              "moon",
+              "sun",
+              "masquerade",
+              "cupid"
             ],
             "eventBonus": "event_hero_bonus_treasure_quest",
             "startTime": "2025-10-27 07:00:00",
@@ -2875,9 +2874,9 @@
             "eventOffer": "",
             "eventEndingOffer": "",
             "featuredFamilies": [
-              "亚特兰蒂斯家族",
-              "亚特兰蒂斯梦魇家族",
-              "亚特兰蒂斯卫士家族"
+              "atlantis",
+              "tales1_baddies",
+              "tales1_goodies"
             ],
             "eventBonus": "event_hero_bonus_treasure_quest",
             "startTime": "2025-11-17 07:00:00",
@@ -2890,8 +2889,8 @@
             "eventOffer": "",
             "eventEndingOffer": "",
             "featuredFamilies": [
-              "三国家族",
-              "西游家族"
+              "kingdom",
+              "journey"
             ],
             "eventBonus": "event_hero_bonus_treasure_quest",
             "startTime": "2025-12-08 07:00:00",
@@ -3019,9 +3018,9 @@
               "eventId": "挑战节 1",
               "featuredEntities": {
                 "heroes": [
-                  "Housemaid of Grimforest",
-                  "True Arrow of Teltoc",
-                  "Princess of Grimforest-Slayer White"
+                  "fables_cinderella",
+                  "guardian_elephant",
+                  "fables_snow_white_costume_slayer"
                 ]
               }
             },
@@ -3030,9 +3029,9 @@
               "eventId": "挑战节 1",
               "featuredEntities": {
                 "heroes": [
-                  "Heir to the Throne",
-                  "Cat of Grimforest-Masked Highwaycat",
-                  "Voodoo Queen of Corellia-Soul-Stealing Priestess"
+                  "fables_frog_prince",
+                  "fables_puss_in_boots_costume_highwaycat",
+                  "pirate_marie_therese_costume_priestess"
                 ]
               }
             },
@@ -3041,9 +3040,9 @@
               "eventId": "挑战节 2",
               "featuredEntities": {
                 "heroes": [
-                  "Bard of Supernatural",
-                  "Bard of Spirits",
-                  "Bard of Whispers"
+                  "bard_belladonna",
+                  "bard_ogima",
+                  "bard_phenexa"
                 ]
               }
             },
@@ -3052,9 +3051,9 @@
               "eventId": "挑战节 2",
               "featuredEntities": {
                 "heroes": [
-                  "Bard of Illusion",
-                  "Bard of Valor",
-                  "Bard of Whispers"
+                  "bard_celimene",
+                  "bard_rhys",
+                  "bard_phenexa"
                 ]
               }
             },
@@ -3063,9 +3062,9 @@
               "eventId": "超能萌宠",
               "featuredEntities": {
                 "heroes": [
-                  "Pug of War",
-                  "Ruffian of the Canine Expedition",
-                  "Canine Storyteller"
+                  "mighty_pet_barkley",
+                  "mighty_pet_furdinand",
+                  "mighty_pet_toto"
                 ]
               }
             },
@@ -3074,9 +3073,9 @@
               "eventId": "众神狂欢节",
               "featuredEntities": {
                 "heroes": [
-                  "Masked Goddess of Witchcraft",
-                  "Masked Goddess of Earth",
-                  "Masked Goddess of Fate"
+                  "masquerade_aradia",
+                  "masquerade_cel",
+                  "masquerade_fortuna"
                 ]
               }
             },
@@ -3085,9 +3084,9 @@
               "eventId": "众神狂欢节",
               "featuredEntities": {
                 "heroes": [
-                  "Masked Goddess of Spells",
-                  "Masked Goddess of the Moon",
-                  "Masked God of the Sky"
+                  "masquerade_carmenta",
+                  "masquerade_jana",
+                  "masquerade_jove"
                 ]
               }
             },
@@ -3096,9 +3095,9 @@
               "eventId": "众神狂欢节",
               "featuredEntities": {
                 "heroes": [
-                  "Masked Goddess of Witchcraft",
-                  "Masked Goddess of Earth",
-                  "Masked Goddess of Fate"
+                  "masquerade_aradia",
+                  "masquerade_cel",
+                  "masquerade_fortuna"
                 ]
               }
             },
@@ -3107,9 +3106,9 @@
               "eventId": "众神狂欢节",
               "featuredEntities": {
                 "heroes": [
-                  "Masked God of Purification",
-                  "Masked Goddess of Shadows",
-                  "Masked Goddess of the Moon"
+                  "masquerade_februus",
+                  "masquerade_umbria",
+                  "masquerade_jana"
                 ]
               }
             },
@@ -3118,9 +3117,9 @@
               "eventId": "挑战节 1",
               "featuredEntities": {
                 "heroes": [
-                  "Twins of Wonderland",
-                  "Monarch of Wonderland-Benefactor of Wonderland",
-                  "Brute of Teltoc"
+                  "wonderland_tweedles",
+                  "wonderland_queen_costume_benefactor",
+                  "guardian_hippo"
                 ]
               }
             },
@@ -3129,9 +3128,9 @@
               "eventId": "歌剧之谜",
               "featuredEntities": {
                 "heroes": [
-                  "Future King",
-                  "Matron of Dancers",
-                  "The White Swan"
+                  "ballerina_prince_siegfried",
+                  "ballerina_madame_giry",
+                  "ballerina_odette"
                 ]
               }
             },
@@ -3140,9 +3139,9 @@
               "eventId": "挑战节 1",
               "featuredEntities": {
                 "heroes": [
-                  "Boatswain of Corellia",
-                  "Dread Captain of Corellia-Rotten Captain of Corellia",
-                  "Heir to the Throne"
+                  "pirate_boatswain",
+                  "pirate_dread_captain_costume_rotten",
+                  "fables_frog_prince"
                 ]
               }
             },
@@ -3151,9 +3150,9 @@
               "eventId": "歌剧之谜",
               "featuredEntities": {
                 "heroes": [
-                  "Songbird of the Opera",
-                  "Mysterious Mastermind",
-                  "Upstart Patron"
+                  "ballerina_christine_daae",
+                  "ballerina_phantom_of_the_opera",
+                  "ballerina_firmin"
                 ]
               }
             },
@@ -3162,9 +3161,9 @@
               "eventId": "挑战节 1",
               "featuredEntities": {
                 "heroes": [
-                  "Thief of Wonderland",
-                  "Azure Knight",
-                  "Riddler of Wonderland-Tea Connoisseur of Wonderland"
+                  "wonderland_knave_of_hearts",
+                  "knights_gawain",
+                  "wonderland_hatter_costume_tea"
                 ]
               }
             },
@@ -3173,9 +3172,9 @@
               "eventId": "重返圣所",
               "featuredEntities": {
                 "heroes": [
-                  "Party Gargoyle",
-                  "Fluffy Gargoyle",
-                  "Pedantic Gargoyle"
+                  "gargoyle_garten",
+                  "gargoyle_uwe",
+                  "gargoyle_mena"
                 ]
               }
             },
@@ -3184,9 +3183,9 @@
               "eventId": "贝奥武夫挑战",
               "featuredEntities": {
                 "heroes": [
-                  "Sword of the Geats",
-                  "Master of the Mead-Hall",
-                  "Ring-Graced, Royal-Hearted"
+                  "beowulf_beowulf",
+                  "beowulf_hrothgar",
+                  "beowulf_wealhtheow"
                 ]
               }
             }
@@ -3232,9 +3231,9 @@
               "eventId": "英勇火枪手",
               "featuredEntities": {
                 "heroes": [
-                  "Courageous Musketeer",
-                  "Machiavellian Villainess",
-                  "Elegant Monarch"
+                  "musketeer_constance",
+                  "musketeer_milady_de_winter",
+                  "musketeer_queen_anne"
                 ]
               }
             },
@@ -3243,9 +3242,9 @@
               "eventId": "英勇火枪手",
               "featuredEntities": {
                 "heroes": [
-                  "Duplicitous Duke",
-                  "Ruthless Miscreant",
-                  "Jolly Musketeer"
+                  "musketeer_cardinal_richelieu",
+                  "musketeer_rochefort",
+                  "musketeer_porthos"
                 ]
               }
             },
@@ -3254,9 +3253,9 @@
               "eventId": "骑士冲击",
               "featuredEntities": {
                 "heroes": [
-                  "Guardian of the Emerald Forest",
-                  "Lord of the Highlands",
-                  "Seer of the Sapphire Dream"
+                  "castle_stag_xiamara",
+                  "castle_bear_torben",
+                  "castle_stag_lysanor"
                 ]
               }
             },
@@ -3265,9 +3264,9 @@
               "eventId": "骑士冲击",
               "featuredEntities": {
                 "heroes": [
-                  "Blessed by Twilight",
-                  "Arctic Ambassador",
-                  "The Pureheart"
+                  "castle_stag_cecilia",
+                  "castle_bear_armel",
+                  "castle_bear_teddy"
                 ]
               }
             },
@@ -3276,9 +3275,9 @@
               "eventId": "飞蛾之夜",
               "featuredEntities": {
                 "heroes": [
-                  "The Mothmancer",
-                  "The Clergymoth",
-                  "Marquis Moth"
+                  "moth_mortewitch",
+                  "moth_satinpimenter",
+                  "moth_chunkyroi"
                 ]
               }
             },
@@ -3287,9 +3286,9 @@
               "eventId": "飞蛾之夜",
               "featuredEntities": {
                 "heroes": [
-                  "The Mothmancer",
-                  "The Clergymoth",
-                  "Marquis Moth"
+                  "moth_mortewitch",
+                  "moth_satinpimenter",
+                  "moth_chunkyroi"
                 ]
               }
             }
@@ -3589,7 +3588,7 @@
               "featuredHeroes": [
                 "magic_carpet_lilli",
                 "magic_vaishali_costume_chef",
-                "magic_carpet_agadh"
+                "magic_carpet_zazha"
               ],
               "startTime": "2025-08-20 07:00:00",
               "endTime": "2025-08-25 07:00:00"
@@ -14532,9 +14531,9 @@
         "eventEntries": [
           {
             "featuredFamilies": [
-              "肃煞森林家族",
-              "仙境家族",
-              "阿瓦隆家族"
+              "fable",
+              "wonderland",
+              "knight"
             ],
             "featuredClassesPerRound": [
               [
@@ -14589,9 +14588,9 @@
           },
           {
             "featuredFamilies": [
-              "肃煞森林家族",
-              "仙境家族",
-              "阿瓦隆家族"
+              "fable",
+              "wonderland",
+              "knight"
             ],
             "featuredClassesPerRound": [
               [
@@ -14646,15 +14645,15 @@
           },
           {
             "featuredFamilies": [
-              "约顿海姆王国",
-              "穆斯贝尔海姆王国",
-              "米德加德王国",
-              "瓦纳海姆王国",
-              "阿斯加德王国",
-              "艾尔夫海姆王国",
-              "海姆冥界王国",
-              "瓦特海姆王国",
-              "尼福尔海姆王国"
+              "jotunheim",
+              "muspelheim",
+              "midgard",
+              "vanaheim",
+              "asgard",
+              "alfheim",
+              "helheim",
+              "svartalfheim",
+              "niflheim"
             ],
             "featuredClassesPerRound": [
               [
@@ -14688,11 +14687,11 @@
           },
           {
             "featuredFamilies": [
-              "蛮荒地界家族",
-              "杀手家族",
-              "魔法家族",
-              "恶棍家族",
-              "星落家族",
+              "abyss",
+              "slayers",
+              "magic",
+              "villains",
+              "circus",
               "hotm2021",
               "hotm2022"
             ],
@@ -14769,9 +14768,9 @@
           },
           {
             "featuredFamilies": [
-              "肃煞森林家族",
-              "仙境家族",
-              "阿瓦隆家族"
+              "fable",
+              "wonderland",
+              "knight"
             ],
             "featuredClassesPerRound": [
               [
@@ -14826,11 +14825,11 @@
           },
           {
             "featuredFamilies": [
-              "渡鸦家族",
-              "恶狼家族",
-              "蛮荒地界家族",
-              "冥河家族",
-              "卡勒瓦拉家族"
+              "raven",
+              "wolf",
+              "abyss",
+              "styx",
+              "kalevala"
             ],
             "featuredClassesPerRound": [
               [
@@ -14885,9 +14884,9 @@
           },
           {
             "featuredFamilies": [
-              "肃煞森林家族",
-              "仙境家族",
-              "阿瓦隆家族"
+              "fable",
+              "wonderland",
+              "knight"
             ],
             "featuredClassesPerRound": [
               [
@@ -14942,9 +14941,9 @@
           },
           {
             "featuredFamilies": [
-              "肃煞森林家族",
-              "仙境家族",
-              "阿瓦隆家族"
+              "fable",
+              "wonderland",
+              "knight"
             ],
             "featuredClassesPerRound": [
               [
@@ -49785,31 +49784,31 @@
                 {
                   "cost": 10,
                   "heroes": [
-                    "Mirage Assassin",
-                    "Holy Centaur",
-                    "Lady of Corellia",
-                    "Fireborn Enchantress",
-                    "Tranquil Channeler"
+                    "dark_god_september",
+                    "holy_god_ranvir",
+                    "pirate_lady",
+                    "fire_god_natalya",
+                    "ice_god_raffaele"
                   ]
                 },
                 {
                   "cost": 15,
                   "heroes": [
-                    "The Accursed",
-                    "Kind-hearted Princess",
-                    "Celestial of Nature",
-                    "Buccaneer Captain of Corellia",
-                    "Knife-Throwing Miracle Bear"
+                    "slayer_senan",
+                    "s4_aouda",
+                    "forest_god_zeline",
+                    "pirate_swashbuckler",
+                    "circus_theobald"
                   ]
                 },
                 {
                   "cost": 20,
                   "heroes": [
-                    "Ninja of Elusive Winds",
-                    "Master of Circus",
-                    "Champion of the Castle",
-                    "Monstrous Minotaur",
-                    "Eloi Hunter"
+                    "ninja_onyx",
+                    "circus_director_zuri",
+                    "castle_wolf_quenell",
+                    "villain_asterius",
+                    "s4_morel"
                   ]
                 }
               ],
@@ -49824,31 +49823,31 @@
                 {
                   "cost": 10,
                   "heroes": [
-                    "Wicked Lector",
-                    "Lemurian Goddess",
-                    "The Adept Archer",
-                    "Raging Pyromancer",
-                    "Aquatic Conjurer"
+                    "dark_god_malicna",
+                    "holy_god_hanitra",
+                    "forest_god_gregorion",
+                    "fire_god_russell",
+                    "ice_god_vela"
                   ]
                 },
                 {
                   "cost": 15,
                   "heroes": [
-                    "Defender of the Castle",
-                    "The Enlightened",
-                    "Charms Professor",
-                    "The Untamable",
-                    "Ninja of Whispering Seas"
+                    "castle_wolf_ludwig",
+                    "slayer_caitlin",
+                    "magic_cristobal",
+                    "slayer_saoirse",
+                    "ninja_cobalt"
                   ]
                 },
                 {
                   "cost": 20,
                   "heroes": [
-                    "Queen of Svartalfheim",
-                    "Astonishing Acrobat",
-                    "Goddess of Foresight",
-                    "The Great Phoenix Tamer",
-                    "Commodore of Corellia-Bleak Commodore"
+                    "s3_alfrike",
+                    "circus_faline",
+                    "s3_frigg",
+                    "circus_emilio",
+                    "pirate_commodore_finley_costume_bleak"
                   ]
                 }
               ],
@@ -49862,31 +49861,31 @@
                 {
                   "cost": 10,
                   "heroes": [
-                    "Shadow Assassin",
-                    "Queen of Avalon",
-                    "Grove Cervitaur",
-                    "Nomadic Hunter",
-                    "Shield Against Injustice"
+                    "dark_god_arfanias",
+                    "knights_guinevere",
+                    "forest_god_grace",
+                    "fire_god_tahir",
+                    "ice_god_alexandrine"
                   ]
                 },
                 {
                   "cost": 15,
                   "heroes": [
-                    "Bane of Karemdol",
-                    "Morlock Chieftain",
-                    "Riddler of Wonderland",
-                    "Monarch of Wonderland",
-                    "Adventurer of Wonderland"
+                    "villain_dark_lord",
+                    "s4_akkorog",
+                    "wonderland_hatter",
+                    "wonderland_queen",
+                    "wonderland_alice"
                   ]
                 },
                 {
                   "cost": 20,
                   "heroes": [
-                    "Ninja of Quiet Graves",
-                    "Hallowed Defender",
-                    "Resolute Gargoyle",
-                    "Marksman of the Castle",
-                    "Teacher of the Arcane Arts"
+                    "ninja_quartz",
+                    "holy_god_kara",
+                    "gargoyle_arco",
+                    "castle_raven_lewena",
+                    "magic_milena"
                   ]
                 }
               ],
@@ -49899,31 +49898,31 @@
                 {
                   "cost": 10,
                   "heroes": [
-                    "Voodoo Queen of Corellia",
-                    "Invincible Ronin",
-                    "The Noble Assassin",
-                    "Deity of War",
-                    "Magnificent Mercenary"
+                    "pirate_marie_therese",
+                    "holy_god_musashi",
+                    "forest_god_kingston",
+                    "fire_god_ares",
+                    "s2_mercenary_woman"
                   ]
                 },
                 {
                   "cost": 15,
                   "heroes": [
-                    "Executor from Descenthia-Monstress of Descenthia",
-                    "Master of Martial Arts",
-                    "Seelie Champion",
-                    "Arachnid Aristocrat",
-                    "Guardian of Springvale"
+                    "cultist_sorceress_costume_shaman",
+                    "holy_god_drake_lee",
+                    "forest_god_oberon",
+                    "s4_elizabeth",
+                    "rabbit_blue"
                   ]
                 },
                 {
                   "cost": 20,
                   "heroes": [
-                    "Superintendent Supreme",
-                    "Ninja of Perfect Precision",
-                    "Valiant General",
-                    "Chieftain of Teltoc-Conqueror Kong",
-                    "Astute Gargoyle"
+                    "magic_agrafena",
+                    "ninja_topaz",
+                    "kingdom_guan_yu",
+                    "guardian_gorilla_chieftain_costume_conqueror",
+                    "gargoyle_gaillard"
                   ]
                 }
               ],
@@ -49936,31 +49935,31 @@
                 {
                   "cost": 10,
                   "heroes": [
-                    "Corrupted Druid",
-                    "Quixotic Adventurer",
-                    "Ninja of Deadly Toxins",
-                    "Ettin Commander",
-                    "Expert Dispeller"
+                    "dark_god_viscaro",
+                    "holy_god_gilligan",
+                    "ninja_peridot",
+                    "s4_kravekrush",
+                    "ice_god_iris"
                   ]
                 },
                 {
                   "cost": 15,
                   "heroes": [
-                    "Reanimated Huntress-High Revenant Archer",
-                    "Commander of the Castle",
-                    "Warrior of the Depths",
-                    "Monstrous Minotaur",
-                    "Magical Godmother"
+                    "dark_god_seshat_costume_revenant",
+                    "castle_wolf_wolfgang",
+                    "s4_congalach",
+                    "villain_asterius",
+                    "ice_god_glenda"
                   ]
                 },
                 {
                   "cost": 20,
                   "heroes": [
-                    "God of the Moon",
-                    "Sagacious Scientist",
-                    "Warlord of Shu",
-                    "Ferocious Gargoyle",
-                    "Stalker of the Castle"
+                    "s5_khonshu",
+                    "s4_professor_lidenbrock",
+                    "kingdom_liu_bei",
+                    "gargoyle_hohenwerf",
+                    "castle_raven_quintin"
                   ]
                 }
               ],
@@ -49973,31 +49972,31 @@
                 {
                   "cost": 10,
                   "heroes": [
-                    "Horror of Wonderland-Jabbermoth",
-                    "Ninja of Silent Screams",
-                    "Dynamic Duo",
-                    "Sparrow Whisperer",
-                    "Winter Bringer"
+                    "wonderland_jabberwocky_costume_moth",
+                    "ninja_mica",
+                    "circus_eiora_and_fluffy",
+                    "fire_god_noor",
+                    "ice_god_frosth"
                   ]
                 },
                 {
                   "cost": 15,
                   "heroes": [
-                    "Hardened Gargoyle",
-                    "Enchanter of the Castle",
-                    "Bard of Creation",
-                    "Vampire Queen-Queen of Crime",
-                    "Celestial of Ice-Goddess of War"
+                    "gargoyle_kemeny",
+                    "castle_raven_eloise",
+                    "bard_winifred",
+                    "halloween_vanda_costume_mafia",
+                    "ice_god_athena_costume_wargoddess"
                   ]
                 },
                 {
                   "cost": 20,
                   "heroes": [
-                    "Brilliant Beauty",
-                    "Guide of Wonderland-Mask of Madness",
-                    "Courageous Voyager",
-                    "Ninja of Soaring Vitality",
-                    "Goddess of all Rivers"
+                    "kingdom_diaochan",
+                    "wonderland_white_rabbit_costume_mask",
+                    "s4_phileas_fogg",
+                    "ninja_garnet",
+                    "s2_tethys"
                   ]
                 }
               ],
@@ -50010,31 +50009,31 @@
                 {
                   "cost": 10,
                   "heroes": [
-                    "Toxic Abomination",
-                    "Wise All-Father-Valiant All-Father",
-                    "Fist of the Sun",
-                    "Princess of Grimforest-Slayer White",
-                    "The Monstress-The Mobstress"
+                    "dark_god_uthragan",
+                    "s3_odin_costume_champion",
+                    "fire_god_yang_mai",
+                    "fables_snow_white_costume_slayer",
+                    "halloween_francine_costume_mafia"
                   ]
                 },
                 {
                   "cost": 15,
                   "heroes": [
-                    "Devious Scientist-Devious Scribe",
-                    "Hunter Occultist",
-                    "Lunar Protector Rabbit",
-                    "Knight of the Arctic Circle",
-                    "Shinobi Squad Leader"
+                    "s4_doctor_moreau_costume_scribe",
+                    "monster_hunter_dabria",
+                    "lunar_new_year_xiaotu",
+                    "mighty_pet_cinnamon",
+                    "ninja_ekanite"
                   ]
                 },
                 {
                   "cost": 20,
                   "heroes": [
-                    "Bard of Glamour",
-                    "Figurehead of Corellia",
-                    "Cupid of Affection",
-                    "Copycat of the Illusionary Arts",
-                    "Veteran Musketeer"
+                    "bard_narcisa",
+                    "pirate_anne",
+                    "valentines_cupido",
+                    "mighty_pet_bubbles",
+                    "musketeer_athos"
                   ]
                 }
               ],
@@ -50047,31 +50046,31 @@
                 {
                   "cost": 10,
                   "heroes": [
-                    "Lizardfolk High Priest",
-                    "Unhallowed Pastry Chef",
-                    "God of Deep Darkness",
-                    "Cupid of Unrequited Love",
-                    "Forest God"
+                    "dark_god_chakkoszrot",
+                    "halloween_matilda",
+                    "styx_erebus",
+                    "valentines_himeros",
+                    "nature_god_silvaria"
                   ]
                 },
                 {
                   "cost": 15,
                   "heroes": [
-                    "Mother Night",
-                    "Lunar Brawler Tiger",
-                    "Pug of War",
-                    "Occult Duo",
-                    "Elegant Monarch"
+                    "styx_nyx",
+                    "lunar_new_year_laohu",
+                    "mighty_pet_barkley",
+                    "halloween_miriam_and_midnight",
+                    "musketeer_queen_anne"
                   ]
                 },
                 {
                   "cost": 20,
                   "heroes": [
-                    "Warrior of Teltoc-Fierce Panther",
-                    "The Cosmic Enigma",
-                    "Bard of Whispers",
-                    "Gnome Tinkerer",
-                    "Challenger of Avalon"
+                    "guardian_cat_warrior_costume_fierce",
+                    "elemental_jequn",
+                    "bard_phenexa",
+                    "christmas_tinsel",
+                    "knights_green_knight"
                   ]
                 }
               ],
@@ -50084,31 +50083,31 @@
                 {
                   "cost": 10,
                   "heroes": [
-                    "Cyber Rogue",
-                    "Goddess of Divine Retribution",
-                    "Myriapod Queen",
-                    "Peculiar Inventor Wizard",
-                    "Queen of Eternal Spring"
+                    "elemental_aconia",
+                    "styx_nemesis",
+                    "s4_zenobia",
+                    "magic_ulius",
+                    "nature_god_leadria"
                   ]
                 },
                 {
                   "cost": 15,
                   "heroes": [
-                    "Starlight Conjurer",
-                    "Courageous Musketeer",
-                    "Seal Lifeguard",
-                    "God of Peaceful Demise",
-                    "Traveling Llama Troubadour"
+                    "magic_becky",
+                    "musketeer_constance",
+                    "beachparty_flip",
+                    "styx_thanatos",
+                    "easter_archie"
                   ]
                 },
                 {
                   "cost": 20,
                   "heroes": [
-                    "Ruthless Miscreant",
-                    "Unparalleled Beauty",
-                    "Master of Sleep",
-                    "Masked Goddess of Earth",
-                    "Master of Elemental Creations"
+                    "musketeer_rochefort",
+                    "journey_queen_guowang",
+                    "styx_hypnos",
+                    "masquerade_cel",
+                    "elemental_xandrella"
                   ]
                 }
               ],
@@ -50121,31 +50120,31 @@
                 {
                   "cost": 10,
                   "heroes": [
-                    "Herald of Sacrifice",
-                    "Dual Blade Specialist",
-                    "Porcelain Doll Construct",
-                    "God of the River",
-                    "Masked God of Purification"
+                    "magic_jett",
+                    "elemental_xavier",
+                    "construct_japanese_doll",
+                    "s5_sobek",
+                    "masquerade_februus"
                   ]
                 },
                 {
                   "cost": 15,
                   "heroes": [
-                    "Hidden Assassin",
-                    "Ruffian of the Canine Expedition",
-                    "Masked Goddess of Witchcraft",
-                    "Arcanist Tinkerer",
-                    "Reckless Duo"
+                    "ninja_amethyst",
+                    "mighty_pet_furdinand",
+                    "masquerade_aradia",
+                    "magic_camilla",
+                    "goblin_boom_and_fang"
                   ]
                 },
                 {
                   "cost": 20,
                   "heroes": [
-                    "Crescent Owl",
-                    "Warrior God of Heaven",
-                    "Conductor of Flames",
-                    "Shadow Monk of 999 Swords",
-                    "Elven Construct"
+                    "mighty_pet_luna",
+                    "journey_erlang_shen",
+                    "elemental_ignazio",
+                    "ninja_oniwakamaru",
+                    "construct_frond"
                   ]
                 }
               ],
@@ -50158,31 +50157,31 @@
                 {
                   "cost": 10,
                   "heroes": [
-                    "Dark Elf Surfer",
-                    "Unparalleled Beauty",
-                    "Fire Wizard",
-                    "Kitchen Alchemist",
-                    "Vigilant Watchman-Dreaded Watchman"
+                    "beachparty_mortimer",
+                    "journey_queen_guowang",
+                    "fire_god_neema",
+                    "goblin_kettle",
+                    "s3_heimdall_costume_dreaded"
                   ]
                 },
                 {
                   "cost": 15,
                   "heroes": [
-                    "Bear Mountain Lord",
-                    "Ursine Armorer",
-                    "Ninja of the Piercing Flames",
-                    "Harpoon Engineer",
-                    "Lady of Harmony-Lady of the Iteru"
+                    "journey_xiong_shanjun",
+                    "castle_bear_winnie",
+                    "ninja_serandite",
+                    "monster_hunter_waterpipe",
+                    "s5_maat_costume_river"
                   ]
                 },
                 {
                   "cost": 20,
                   "heroes": [
-                    "Goblin Cultist",
-                    "The Fist of Deception",
-                    "Boatswain of Corellia",
-                    "The White Swan",
-                    "Guardian of the Emerald Forest"
+                    "goblin_deadboot",
+                    "ninja_kushanku",
+                    "pirate_boatswain",
+                    "ballerina_odette",
+                    "castle_stag_xiamara"
                   ]
                 }
               ],
@@ -50195,31 +50194,31 @@
                 {
                   "cost": 10,
                   "heroes": [
-                    "Astral Elf Great Knight",
-                    "Lunar Guardian Ox",
-                    "Duplicitous Duke",
-                    "Machiavellian Villainess",
-                    "The Pureheart"
+                    "astral_voidstar",
+                    "lunar_new_year_gongniu",
+                    "musketeer_cardinal_richelieu",
+                    "musketeer_milady_de_winter",
+                    "castle_bear_teddy"
                   ]
                 },
                 {
                   "cost": 15,
                   "heroes": [
-                    "Romantic Musketeer",
-                    "Masked Goddess of the Moon",
-                    "Lord of the Highlands",
-                    "Masked Goddess of Fate",
-                    "Goblin Bard"
+                    "musketeer_aramis",
+                    "masquerade_jana",
+                    "castle_bear_torben",
+                    "masquerade_fortuna",
+                    "goblin_smarttongue"
                   ]
                 },
                 {
                   "cost": 20,
                   "heroes": [
-                    "God of the Afterlife-Arbiter of the Dancefloor",
-                    "Starlet Ballerina",
-                    "Goblin Brawler",
-                    "Brute of Teltoc",
-                    "Pirate Construct"
+                    "s5_anubis_costume_dancefloor",
+                    "ballerina_meg_giry",
+                    "goblin_madhammer",
+                    "guardian_hippo",
+                    "construct_ferrus"
                   ]
                 }
               ],
@@ -50232,31 +50231,31 @@
                 {
                   "cost": 10,
                   "heroes": [
-                    "Astral Elf Great Knight",
-                    "Lunar Guardian Ox",
-                    "Duplicitous Duke",
-                    "Machiavellian Villainess",
-                    "The Pureheart"
+                    "astral_voidstar",
+                    "lunar_new_year_gongniu",
+                    "musketeer_cardinal_richelieu",
+                    "musketeer_milady_de_winter",
+                    "castle_bear_teddy"
                   ]
                 },
                 {
                   "cost": 15,
                   "heroes": [
-                    "Romantic Musketeer",
-                    "Masked Goddess of the Moon",
-                    "Lord of the Highlands",
-                    "Masked Goddess of Fate",
-                    "Goblin Bard"
+                    "musketeer_aramis",
+                    "masquerade_jana",
+                    "castle_bear_torben",
+                    "masquerade_fortuna",
+                    "goblin_smarttongue"
                   ]
                 },
                 {
                   "cost": 20,
                   "heroes": [
-                    "God of the Afterlife-Arbiter of the Dancefloor",
-                    "Starlet Ballerina",
-                    "Goblin Brawler",
-                    "Brute of Teltoc",
-                    "Pirate Construct"
+                    "s5_anubis_costume_dancefloor",
+                    "ballerina_meg_giry",
+                    "goblin_madhammer",
+                    "guardian_hippo",
+                    "construct_ferrus"
                   ]
                 }
               ],
@@ -78000,6 +77999,51 @@
                 ]
               }
             ]
+          },
+          {
+            "id": "magic_aug_2025",
+            "statBonuses": [
+              {
+                "bonusLevels": []
+              },
+              {
+                "bonusLevels": []
+              },
+              {
+                "bonusLevels": []
+              },
+              {
+                "bonusLevels": []
+              },
+              {
+                "bonusLevels": [
+                  {
+                    "attackBonusPerMil": 260,
+                    "defenseBonusPerMil": 260,
+                    "healthBonusPerMil": 260,
+                    "manaBonusPerMil": 10
+                  },
+                  {
+                    "attackBonusPerMil": 280,
+                    "defenseBonusPerMil": 280,
+                    "healthBonusPerMil": 280,
+                    "manaBonusPerMil": 10
+                  },
+                  {
+                    "attackBonusPerMil": 300,
+                    "defenseBonusPerMil": 300,
+                    "healthBonusPerMil": 300,
+                    "manaBonusPerMil": 10
+                  },
+                  {
+                    "attackBonusPerMil": 320,
+                    "defenseBonusPerMil": 320,
+                    "healthBonusPerMil": 320,
+                    "manaBonusPerMil": 10
+                  }
+                ]
+              }
+            ]
           }
         ],
         "enabled": true
@@ -79806,5 +79850,5 @@
     "criticalOperationPendingDelaySeconds": 3,
     "allowedCriticalOperationPendingCount": 3
   },
-  "otherConfigId": 3799008175
+  "otherConfigId": 1817838074
 }

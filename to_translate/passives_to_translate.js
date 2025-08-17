@@ -2499,42 +2499,49 @@ const allTranslations =
     },
     {
         "originalIndex": 365,
+        "name": "Joyvert",
+        "passives": [
+            "Dodge Special Damage: This character has a 15% chance to dodge Special Skills that deal damage."
+        ]
+    },
+    {
+        "originalIndex": 366,
         "name": "Kalo",
         "passives": [
             "Gargoyle’s Stoneskin: Every time this Gargoyle casts a Special Skill, their Stoneskin hardens. The next 5 times they receive damage, it is dropped to 1. This effect can’t be dispelled."
         ]
     },
     {
-        "originalIndex": 366,
+        "originalIndex": 367,
         "name": "Kashhrek",
         "passives": []
     },
     {
-        "originalIndex": 367,
+        "originalIndex": 368,
         "name": "Kashhrek C1",
         "passives": []
     },
     {
-        "originalIndex": 368,
+        "originalIndex": 369,
         "name": "Kashhrek C2",
         "passives": []
     },
     {
-        "originalIndex": 369,
+        "originalIndex": 370,
         "name": "Kashhrek Toon",
         "passives": [
             "Toon: 75% extra chance to resist all status ailments, mana reductions and buff dispels."
         ]
     },
     {
-        "originalIndex": 370,
+        "originalIndex": 371,
         "name": "Kashhrek Glass",
         "passives": [
             "Glass: 60% extra chance to reflect status ailments back to the attacker."
         ]
     },
     {
-        "originalIndex": 371,
+        "originalIndex": 372,
         "name": "Lionstring",
         "passives": [
             "Resist Poison: This character has innate resistance against Poison.",
@@ -2542,82 +2549,82 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 372,
+        "originalIndex": 373,
         "name": "Little John",
         "passives": []
     },
     {
-        "originalIndex": 373,
+        "originalIndex": 374,
         "name": "Little John C1",
         "passives": []
     },
     {
-        "originalIndex": 374,
+        "originalIndex": 375,
         "name": "Little John C2",
         "passives": []
     },
     {
-        "originalIndex": 375,
+        "originalIndex": 376,
         "name": "Little John Toon",
         "passives": [
             "Toon: 75% extra chance to resist all status ailments, mana reductions and buff dispels."
         ]
     },
     {
-        "originalIndex": 376,
+        "originalIndex": 377,
         "name": "Little John Glass",
         "passives": [
             "Glass: 60% extra chance to reflect status ailments back to the attacker."
         ]
     },
     {
-        "originalIndex": 377,
+        "originalIndex": 378,
         "name": "Marcel",
         "passives": []
     },
     {
-        "originalIndex": 378,
+        "originalIndex": 379,
         "name": "Melendor",
         "passives": []
     },
     {
-        "originalIndex": 379,
+        "originalIndex": 380,
         "name": "Melendor C1",
         "passives": []
     },
     {
-        "originalIndex": 380,
+        "originalIndex": 381,
         "name": "Melendor C2",
         "passives": []
     },
     {
-        "originalIndex": 381,
+        "originalIndex": 382,
         "name": "Melendor Toon",
         "passives": [
             "Toon: 75% extra chance to resist all status ailments, mana reductions and buff dispels."
         ]
     },
     {
-        "originalIndex": 382,
+        "originalIndex": 383,
         "name": "Melendor Glass",
         "passives": [
             "Glass: 60% extra chance to reflect status ailments back to the attacker."
         ]
     },
     {
-        "originalIndex": 383,
+        "originalIndex": 384,
         "name": "Mielikki",
         "passives": [
             "Power of Sisu - When this character starts a turn with low health for the  first time during a battle, they recover 15% health and receive 15% mana."
         ]
     },
     {
-        "originalIndex": 384,
+        "originalIndex": 385,
         "name": "Mielikki C1",
         "passives": []
     },
     {
-        "originalIndex": 385,
+        "originalIndex": 386,
         "name": "Mulgog",
         "passives": [
             "Effects on Special Skill: 50% chance to perform the following actions when this character casts their Special Skill",
@@ -2626,7 +2633,7 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 386,
+        "originalIndex": 387,
         "name": "Mulgog C1",
         "passives": [
             "Effects on Special Skill: 50% chance to perform the following actions when this character casts their Special Skill",
@@ -2636,7 +2643,7 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 387,
+        "originalIndex": 388,
         "name": "Myrtle",
         "passives": [
             "Minion Blind: All enemies’ Minions have -60% accuracy. All enemies’ Mega Minions have -50% accuracy.",
@@ -2645,7 +2652,7 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 388,
+        "originalIndex": 389,
         "name": "Numbskull",
         "passives": [
             "Damage over time on special: When this character casts their Special Skill, they give a Hunter's Mark on a random enemy. The target receives 150 damage over 3 turns. If a target already has this effect, the duration will be refreshed and the damage will be increased by 150, up to 1500 damage in total.",
@@ -2653,24 +2660,24 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 389,
+        "originalIndex": 390,
         "name": "Orla",
         "passives": [
             "Resist Damage from Status Effects: This charater has innate resistance against incoming damage from status effects."
         ]
     },
     {
-        "originalIndex": 390,
+        "originalIndex": 391,
         "name": "Peters",
         "passives": []
     },
     {
-        "originalIndex": 391,
+        "originalIndex": 392,
         "name": "Peters C1",
         "passives": []
     },
     {
-        "originalIndex": 392,
+        "originalIndex": 393,
         "name": "Ptolemy",
         "passives": [
             "Effects on Special Skill: 60% chance to perform the following actions when this character casts their Special Skill",
@@ -2679,7 +2686,7 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 393,
+        "originalIndex": 394,
         "name": "Ptolemy C1",
         "passives": [
             "Health Recover on Buff Received: This character recovers 5% HP when they receive a buff or positive stack.",
@@ -2690,43 +2697,43 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 394,
+        "originalIndex": 395,
         "name": "Raleigh",
         "passives": [
             "Health Recovery on Buff Received - This character recovers 5% health when  they receive a buff or a positive stack."
         ]
     },
     {
-        "originalIndex": 395,
+        "originalIndex": 396,
         "name": "Skittleskull",
         "passives": []
     },
     {
-        "originalIndex": 396,
+        "originalIndex": 397,
         "name": "Skittleskull C1",
         "passives": []
     },
     {
-        "originalIndex": 397,
+        "originalIndex": 398,
         "name": "Skittleskull C2",
         "passives": []
     },
     {
-        "originalIndex": 398,
+        "originalIndex": 399,
         "name": "Skittleskull Toon",
         "passives": [
             "Toon: 75% extra chance to resist all status ailments, mana reductions and buff dispels."
         ]
     },
     {
-        "originalIndex": 399,
+        "originalIndex": 400,
         "name": "Skittleskull Glass",
         "passives": [
             "Glass: 60% extra chance to reflect status ailments back to the attacker."
         ]
     },
     {
-        "originalIndex": 400,
+        "originalIndex": 401,
         "name": "Snorri",
         "passives": [
             "Empowered Resist Frost: This character has innate resistance against Frost and gains 450 boosted heath and 5% mana each time they resist.",
@@ -2736,33 +2743,33 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 401,
+        "originalIndex": 402,
         "name": "Tettukh",
         "passives": [
             "Special Skill Damage Reduction: Received damage from Special Skills is  reduced by -20% for this character."
         ]
     },
     {
-        "originalIndex": 402,
+        "originalIndex": 403,
         "name": "Tettukh C1",
         "passives": [
             "Special Skill Damage Reduction: Received damage from Special Skills is  reduced by -20% for this character."
         ]
     },
     {
-        "originalIndex": 403,
+        "originalIndex": 404,
         "name": "Villiers",
         "passives": [
             "Damage on Special Skill: When this character receives damage from Special Skills or in place of a character in Cover, there’s a 60% chance to deal 20% of the received damage on all enemies."
         ]
     },
     {
-        "originalIndex": 404,
+        "originalIndex": 405,
         "name": "Wren",
         "passives": []
     },
     {
-        "originalIndex": 405,
+        "originalIndex": 406,
         "name": "Ahmose",
         "passives": [
             "Effects on Special Skill: 70% chance to perform the following actions when this character casts their Special Skill",
@@ -2771,7 +2778,7 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 406,
+        "originalIndex": 407,
         "name": "Ahmose C1",
         "passives": [
             "Effects on Special Skill: 70% chance to perform the following actions when this character casts their Special Skill.",
@@ -2782,19 +2789,19 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 407,
+        "originalIndex": 408,
         "name": "Alberich",
         "passives": []
     },
     {
-        "originalIndex": 408,
+        "originalIndex": 409,
         "name": "Alberich C1",
         "passives": [
             "Cleanse on Special: When this character casts their Special Skill, they cleanse the newest status ailment from all allies."
         ]
     },
     {
-        "originalIndex": 409,
+        "originalIndex": 410,
         "name": "Archibald",
         "passives": [
             "Resist Mana reduction: This character has an innate resistance against mana Reduction.",
@@ -2802,24 +2809,24 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 410,
+        "originalIndex": 411,
         "name": "Archie",
         "passives": []
     },
     {
-        "originalIndex": 411,
+        "originalIndex": 412,
         "name": "Archie C1",
         "passives": []
     },
     {
-        "originalIndex": 412,
+        "originalIndex": 413,
         "name": "Arco",
         "passives": [
             "Gargoyle’s Stoneskin: Every time this Gargoyle casts a Special Skill, their Stoneskin hardens. The next 4 times they receive damage, it is dropped to 1. This effect can’t be dispelled."
         ]
     },
     {
-        "originalIndex": 413,
+        "originalIndex": 414,
         "name": "Armand Moncharmin",
         "passives": [
             "Resist Attack Ailments: This character has innate resistance against status ailments that affect attack.",
@@ -2827,7 +2834,7 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 414,
+        "originalIndex": 415,
         "name": "Ascension Mimic Nature",
         "passives": [
             "Perfect Accuracy: This character’s Special Skill never misses its targets.",
@@ -2844,36 +2851,36 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 415,
+        "originalIndex": 416,
         "name": "Athos",
         "passives": [
             "Damage on Special Skill: When this character receives damage from Special Skills or in place of a character in Cover, there’s a 60% chance to deal 20% of the received damage to all enemies."
         ]
     },
     {
-        "originalIndex": 416,
+        "originalIndex": 417,
         "name": "Atomos",
         "passives": []
     },
     {
-        "originalIndex": 417,
+        "originalIndex": 418,
         "name": "Atomos C1",
         "passives": []
     },
     {
-        "originalIndex": 418,
+        "originalIndex": 419,
         "name": "Atwood",
         "passives": [
             "Marked by the Old Ones: All damage is reduced by 5% per 10 Insanity for this character up to a maximum reduction of 50%."
         ]
     },
     {
-        "originalIndex": 419,
+        "originalIndex": 420,
         "name": "Augustus",
         "passives": []
     },
     {
-        "originalIndex": 420,
+        "originalIndex": 421,
         "name": "Balbar",
         "passives": [
             "Resist buff immunity: This character has innate resistance against status ailments that give immunity to new buffs.",
@@ -2881,12 +2888,12 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 421,
+        "originalIndex": 422,
         "name": "Bertila",
         "passives": []
     },
     {
-        "originalIndex": 422,
+        "originalIndex": 423,
         "name": "Bo & Runt",
         "passives": [
             "Resist Minion Removal: This character has innate resistance against Minion removal.",
@@ -2894,7 +2901,7 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 423,
+        "originalIndex": 424,
         "name": "Bonzo",
         "passives": [
             "Quick Tempo: Ballad",
@@ -2904,7 +2911,7 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 424,
+        "originalIndex": 425,
         "name": "Boom & Fang",
         "passives": [
             "Effects on Special Skill: 50% chance to perform the following actions when this character casts their Special Skill.",
@@ -2913,7 +2920,7 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 425,
+        "originalIndex": 426,
         "name": "Bramble",
         "passives": [
             "Minion Blind: All enemies’ Minions have -60% accuracy. All enemies’ Mega Minions have -50% accuracy.",
@@ -2922,14 +2929,14 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 426,
+        "originalIndex": 427,
         "name": "Chikao",
         "passives": [
             "Decreased Minion Health: Enemy Minions inherit -50% less Health when summoned."
         ]
     },
     {
-        "originalIndex": 427,
+        "originalIndex": 428,
         "name": "Chloris",
         "passives": [
             "Resist Healing Ailments: This character has innate resistance against ailments that affect healing.",
@@ -2937,7 +2944,7 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 428,
+        "originalIndex": 429,
         "name": "Cinisia",
         "passives": [
             "Increased Attack Per Non-Nature Enemy: At the start of the battle, this character’s attack is increased by 5% for enemy that is not of Nature element. In battles with multiple waves, this effect is refreshed at the beginning of each wave.",
@@ -2945,14 +2952,14 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 429,
+        "originalIndex": 430,
         "name": "Congalach",
         "passives": [
             "Special Skill Damage Reduction: Received damage from Special Skills is  reduced by -20% for this character."
         ]
     },
     {
-        "originalIndex": 430,
+        "originalIndex": 431,
         "name": "Congalach C1",
         "passives": [
             "Special Skill Damage Reduction: Received damage from Special Skills is reduced by -20% for this character.",
@@ -2960,7 +2967,7 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 431,
+        "originalIndex": 432,
         "name": "Craum",
         "passives": [
             "Troop Mastery:",
@@ -2971,14 +2978,14 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 432,
+        "originalIndex": 433,
         "name": "Cristobal",
         "passives": [
             "Status effect on special: When this character casts their Special Skill, they have a 50% chance to give -25% mana generation for 3 turns to all enemies. If the Special Skill is fully charged, the chance is 100%."
         ]
     },
     {
-        "originalIndex": 433,
+        "originalIndex": 434,
         "name": "Dagr",
         "passives": [
             "Empowered Resist Burn: This character has innate resistance against Burn and gains 450 boosted health and 5% mana each time they resist.",
@@ -2989,7 +2996,7 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 434,
+        "originalIndex": 435,
         "name": "Daroga",
         "passives": [
             "Resist Attack Ailments: This character has innate resistance against status ailments that affect attack.",
@@ -2997,7 +3004,7 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 435,
+        "originalIndex": 436,
         "name": "Desmond",
         "passives": [
             "Troop Mastery:",
@@ -3008,14 +3015,14 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 436,
+        "originalIndex": 437,
         "name": "Dodgrom",
         "passives": [
             "Resist Special Skill Blocking: This character has innate resistance against status ailments that block Special Skills."
         ]
     },
     {
-        "originalIndex": 437,
+        "originalIndex": 438,
         "name": "Ecgtheow",
         "passives": [
             "Perfect Accuracy: This character’s Special Skill never mises its target.",
@@ -3024,31 +3031,31 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 438,
+        "originalIndex": 439,
         "name": "Edwin",
         "passives": [
             "Steal Buff: When this character casts their Special Skill, they have a 50% chance to steal the newest dispellable buff from a random enemy that has buffs. If no enemy has buffs, deals 70% damage to all enemies."
         ]
     },
     {
-        "originalIndex": 439,
+        "originalIndex": 440,
         "name": "Eiora & Fluffy",
         "passives": []
     },
     {
-        "originalIndex": 440,
+        "originalIndex": 441,
         "name": "Eiora & Fluffy C1",
         "passives": [
             "Copy Ailment on Cleanse: When a status ailment is cleansed from this hero, a new copy of the cleansed ailment is applied on a random enemy."
         ]
     },
     {
-        "originalIndex": 441,
+        "originalIndex": 442,
         "name": "Ekanite",
         "passives": []
     },
     {
-        "originalIndex": 442,
+        "originalIndex": 443,
         "name": "El Naddaha",
         "passives": [
             "Effects on Special Skill: 50% chance to perform the following actions when this character casts their Special Skill",
@@ -3057,7 +3064,7 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 443,
+        "originalIndex": 444,
         "name": "El Naddaha C1",
         "passives": [
             "Effects on Special Skill: 50% chance to perform the following actions when this character casts their Special Skill",
@@ -3068,36 +3075,36 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 444,
+        "originalIndex": 445,
         "name": "Elkanen",
         "passives": []
     },
     {
-        "originalIndex": 445,
+        "originalIndex": 446,
         "name": "Elkanen C1",
         "passives": []
     },
     {
-        "originalIndex": 446,
+        "originalIndex": 447,
         "name": "Elkanen C2",
         "passives": []
     },
     {
-        "originalIndex": 447,
+        "originalIndex": 448,
         "name": "Elkanen Toon",
         "passives": [
             "Toon: 75% extra chance to resist all status ailments, mana reductions and buff dispels."
         ]
     },
     {
-        "originalIndex": 448,
+        "originalIndex": 449,
         "name": "Elkanen Glass",
         "passives": [
             "Glass: 60% extra chance to reflect status ailments back to the attacker."
         ]
     },
     {
-        "originalIndex": 449,
+        "originalIndex": 450,
         "name": "Elradir",
         "passives": [
             "Resist Special Skill Blocking: This character has innate resistance against status ailments that Block Special Skills.",
@@ -3105,7 +3112,7 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 450,
+        "originalIndex": 451,
         "name": "Elyssa",
         "passives": [
             "Flight Momentum: If this character has any amount of Flight Momentum, they receive:",
@@ -3116,26 +3123,26 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 451,
+        "originalIndex": 452,
         "name": "Enigmo",
         "passives": [
             "Memorize Enemy Minions and Fiends: This character has innate ability to Memorize any Minion or Fiend summoned by enemies’ Special Skills. The latest Minion and Fiend that enemies summon will stay memorized until the Special Skill is cast."
         ]
     },
     {
-        "originalIndex": 452,
+        "originalIndex": 453,
         "name": "Evelyn",
         "passives": []
     },
     {
-        "originalIndex": 453,
+        "originalIndex": 454,
         "name": "Evelyn C1",
         "passives": [
             "Cleanse on Special: When this character casts their Special Skill, they cleanse the newest status ailment from all allies."
         ]
     },
     {
-        "originalIndex": 454,
+        "originalIndex": 455,
         "name": "Experience Mimic Nature",
         "passives": [
             "Perfect Accuracy: This character’s Special Skill never misses its targets.",
@@ -3148,7 +3155,7 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 455,
+        "originalIndex": 456,
         "name": "Fafnir",
         "passives": [
             "Empowered Resist Frost: This character has innate resistance against Frost and gains 450 boosted heath and 5% mana each time they resist.",
@@ -3158,7 +3165,7 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 456,
+        "originalIndex": 457,
         "name": "Februus",
         "passives": [
             "Cleanse on Minion Death: This character is cleansed of status ailments when Minion owned by them is destroyed. ",
@@ -3166,7 +3173,7 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 457,
+        "originalIndex": 458,
         "name": "Ferrus",
         "passives": [
             "Resist Special Skill Blocking: This character has innate resistance against status ailments that block Special Skill.",
@@ -3174,7 +3181,7 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 458,
+        "originalIndex": 459,
         "name": "Florenna",
         "passives": [
             "Mana on Status Ailment Received: This character gains 5% mana when they receive a status ailment or a negative stack.",
@@ -3182,43 +3189,43 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 459,
+        "originalIndex": 460,
         "name": "Foxley",
         "passives": [
             "Decreased Healing: All enemies get -50% healing."
         ]
     },
     {
-        "originalIndex": 460,
+        "originalIndex": 461,
         "name": "Francine",
         "passives": [
             "Steal Buff: When this character casts their Special Skill, they have a 50% chance to steal the newest dispellable buff from a random enemy that has buffs. If no enemy has buffs, deals 70% damage to all enemies."
         ]
     },
     {
-        "originalIndex": 461,
+        "originalIndex": 462,
         "name": "Francine C1",
         "passives": [
             "Steal Buff: When this character casts their Special Skill, they have a 50% chance to steal the newest dispellable buff from a random enemy that has buffs. If no enemy has buffs, deals 70% damage to all enemies."
         ]
     },
     {
-        "originalIndex": 462,
+        "originalIndex": 463,
         "name": "Frigg",
         "passives": []
     },
     {
-        "originalIndex": 463,
+        "originalIndex": 464,
         "name": "Frigg C1",
         "passives": []
     },
     {
-        "originalIndex": 464,
+        "originalIndex": 465,
         "name": "Frog Prince",
         "passives": []
     },
     {
-        "originalIndex": 465,
+        "originalIndex": 466,
         "name": "Frond",
         "passives": [
             "Resist Special Skill Blocking: This character has innate resistance against status ailments that block Special Skill.",
@@ -3226,7 +3233,7 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 466,
+        "originalIndex": 467,
         "name": "Fungustine",
         "passives": [
             "Slime Minion Upon Defeat: When this character is defeated, they summon Slime Mega Minions to nearby allies with 50% HP and 40% attack inherited from this character.",
@@ -3234,7 +3241,7 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 467,
+        "originalIndex": 468,
         "name": "Galapago",
         "passives": [
             "Effects on Special Skill: 50% chance to perform the following actions when this character casts their Special Skill",
@@ -3244,7 +3251,7 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 468,
+        "originalIndex": 469,
         "name": "Galapago C1",
         "passives": [
             "Effects on Special Skill: 50% chance to perform the following actions when this character casts their Special Skill",
@@ -3254,14 +3261,14 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 469,
+        "originalIndex": 470,
         "name": "Garjammal",
         "passives": [
             "Decrease Ailment Duration: Duration of the first 3 status ailments this character receives from Special Skill is decreased by 1 turn."
         ]
     },
     {
-        "originalIndex": 470,
+        "originalIndex": 471,
         "name": "Garjammal C1",
         "passives": [
             "Decrease Ailment Duration: Duration of the first 3 status ailments this character receives from Special Skill is decreased by 1 turn.",
@@ -3269,14 +3276,14 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 471,
+        "originalIndex": 472,
         "name": "Garten",
         "passives": [
             "Gargoile’s Softskin: Every time this Gargoyle casts a Special Skill, their Softskin activates. The next 4 times they receive damage, it is reduced by -90%, and they resist all status ailment and mana reduction. This effect can’t be dispelled."
         ]
     },
     {
-        "originalIndex": 472,
+        "originalIndex": 473,
         "name": "Gelert",
         "passives": [
             "Effects on Special Skill: 50% chance to perform the following actions when this character casts their Special Skill",
@@ -3285,7 +3292,7 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 473,
+        "originalIndex": 474,
         "name": "Gelert C1",
         "passives": [
             "Effects on Special Skill: 50% chance to perform the following actions when this character casts their Special Skill",
@@ -3295,12 +3302,12 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 474,
+        "originalIndex": 475,
         "name": "Ginger",
         "passives": []
     },
     {
-        "originalIndex": 475,
+        "originalIndex": 476,
         "name": "Godfrey",
         "passives": [
             "Resist Mana reduction: This character has an innate resistance against mana Reduction.",
@@ -3308,7 +3315,7 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 476,
+        "originalIndex": 477,
         "name": "Goorian",
         "passives": [
             "Slime Minion Upon Defeat: When this character is defeated, they summon Slime Mega Minions to nearby allies with 50% HP and 40% attack inherited from this character.",
@@ -3316,7 +3323,7 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 477,
+        "originalIndex": 478,
         "name": "Grace",
         "passives": [
             "Resist Burn: This character has innate resistance against Burn.",
@@ -3324,24 +3331,24 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 478,
+        "originalIndex": 479,
         "name": "Green Knight",
         "passives": []
     },
     {
-        "originalIndex": 479,
+        "originalIndex": 480,
         "name": "Gregorion",
         "passives": []
     },
     {
-        "originalIndex": 480,
+        "originalIndex": 481,
         "name": "Gregorion C1",
         "passives": [
             "Dispel on Special Skill: When this character casts their Special Skill, they dispel the newest status effect buff from all enemies."
         ]
     },
     {
-        "originalIndex": 481,
+        "originalIndex": 482,
         "name": "Grendel",
         "passives": [
             "Perfect Accuracy: This character’s Special Skill never mises its target.",
@@ -3350,19 +3357,19 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 482,
+        "originalIndex": 483,
         "name": "Grovevert",
         "passives": [
             "Dodge Special Damage: This character has a 15% chance to dodge Special Skills that deal damage."
         ]
     },
     {
-        "originalIndex": 483,
+        "originalIndex": 484,
         "name": "Guan Yu",
         "passives": []
     },
     {
-        "originalIndex": 484,
+        "originalIndex": 485,
         "name": "Guan Yu C1",
         "passives": [
             "Unstoppable Minions:",
@@ -3372,12 +3379,12 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 485,
+        "originalIndex": 486,
         "name": "Guardian Chameleon",
         "passives": []
     },
     {
-        "originalIndex": 486,
+        "originalIndex": 487,
         "name": "Hammertusk",
         "passives": [
             "Special Skill Damage Reduction: This character has a 10% chance to drop the direct damage received from Special Skills to 1.",
@@ -3385,7 +3392,7 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 487,
+        "originalIndex": 488,
         "name": "Haulstone",
         "passives": [
             "Resist Special Skill Blocking: This character has innate resistance against status ailments that block Special Skill.",
@@ -3393,87 +3400,87 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 488,
+        "originalIndex": 489,
         "name": "Heimdall",
         "passives": []
     },
     {
-        "originalIndex": 489,
+        "originalIndex": 490,
         "name": "Heimdall C1",
         "passives": []
     },
     {
-        "originalIndex": 490,
+        "originalIndex": 491,
         "name": "Horghall",
         "passives": []
     },
     {
-        "originalIndex": 491,
+        "originalIndex": 492,
         "name": "Horghall C1",
         "passives": []
     },
     {
-        "originalIndex": 492,
+        "originalIndex": 493,
         "name": "Horghall C2",
         "passives": []
     },
     {
-        "originalIndex": 493,
+        "originalIndex": 494,
         "name": "Horghall Toon",
         "passives": [
             "Toon: 75% extra chance to resist all status ailments, mana reductions and buff dispels."
         ]
     },
     {
-        "originalIndex": 494,
+        "originalIndex": 495,
         "name": "Humbert",
         "passives": [
             "Health Recovery on Buff Received: This character recovers 5% health when  they receive a buff or a positive stack."
         ]
     },
     {
-        "originalIndex": 495,
+        "originalIndex": 496,
         "name": "Iku-Turso",
         "passives": [
             "Power of Sisu: When this character starts a turn with low health for the first time during a battle, they recover 15% health and receive 15% mana."
         ]
     },
     {
-        "originalIndex": 496,
+        "originalIndex": 497,
         "name": "Ito",
         "passives": [
             "Decreased Minion Health: Enemy Minions inherit -50% less health when summoned."
         ]
     },
     {
-        "originalIndex": 497,
+        "originalIndex": 498,
         "name": "Jade",
         "passives": []
     },
     {
-        "originalIndex": 498,
+        "originalIndex": 499,
         "name": "Kadilen",
         "passives": []
     },
     {
-        "originalIndex": 499,
+        "originalIndex": 500,
         "name": "Kadilen C1",
         "passives": []
     },
     {
-        "originalIndex": 500,
+        "originalIndex": 501,
         "name": "Kadilen C2",
         "passives": []
     },
     {
-        "originalIndex": 501,
+        "originalIndex": 502,
         "name": "Kadilen Toon",
         "passives": [
             "Toon: 75% extra chance to resist all status ailments, mana reductions and buff dispels."
         ]
     },
     {
-        "originalIndex": 502,
+        "originalIndex": 503,
         "name": "Kai",
         "passives": [
             "Damage over Time on Special: When this character casts their Special Skill, they give a Hunter’s Mark on a random enemy. The target receives 150 damage over 3 turns. If a target already has this effect, the duration will be refreshed and the damage will be increased by 150, up to 1500 damage in total.",
@@ -3481,14 +3488,14 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 503,
+        "originalIndex": 504,
         "name": "Kingston",
         "passives": [
             "Resist Burn: The character has an innate resistance against Burn."
         ]
     },
     {
-        "originalIndex": 504,
+        "originalIndex": 505,
         "name": "Kolya",
         "passives": [
             "Resist Mana reduction: This character has an innate resistance against mana Reduction.",
@@ -3496,29 +3503,29 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 505,
+        "originalIndex": 506,
         "name": "Lady Locke",
         "passives": []
     },
     {
-        "originalIndex": 506,
+        "originalIndex": 507,
         "name": "Lady Locke C1",
         "passives": [
             "Poison on Special Skill: When this character casts their Special Skill, all enemies receive 540 Poison damage over 4 turns."
         ]
     },
     {
-        "originalIndex": 507,
+        "originalIndex": 508,
         "name": "Lady of the Lake",
         "passives": []
     },
     {
-        "originalIndex": 508,
+        "originalIndex": 509,
         "name": "Lady of the Lake C1",
         "passives": []
     },
     {
-        "originalIndex": 509,
+        "originalIndex": 510,
         "name": "Leadria",
         "passives": [
             "Resist Max Health Reduction: This character has innate resistance against max health reduction.",
@@ -3526,7 +3533,7 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 510,
+        "originalIndex": 511,
         "name": "Leafwhisk",
         "passives": [
             "Effects on Special Skill: 50% chance to perform the following actions when this character casts their Special Skill.",
@@ -3535,7 +3542,7 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 511,
+        "originalIndex": 512,
         "name": "Leonie",
         "passives": [
             "Nine Lives:",
@@ -3550,48 +3557,48 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 512,
+        "originalIndex": 513,
         "name": "Lianna",
         "passives": []
     },
     {
-        "originalIndex": 513,
+        "originalIndex": 514,
         "name": "Lianna C1",
         "passives": []
     },
     {
-        "originalIndex": 514,
+        "originalIndex": 515,
         "name": "Lianna C2",
         "passives": []
     },
     {
-        "originalIndex": 515,
+        "originalIndex": 516,
         "name": "Lianna Toon",
         "passives": [
             "Toon: 75% extra chance to resist all status ailments, mana reductions and buff dispels."
         ]
     },
     {
-        "originalIndex": 516,
+        "originalIndex": 517,
         "name": "Lianna Glass",
         "passives": [
             "Glass: 60% extra chance to reflect status ailments back to the attacker."
         ]
     },
     {
-        "originalIndex": 517,
+        "originalIndex": 518,
         "name": "Limeboire",
         "passives": [
             "Dodge Special Damage: This character has a 15% chance to dodge Special Skills that deal damage."
         ]
     },
     {
-        "originalIndex": 518,
+        "originalIndex": 519,
         "name": "Liu Bei",
         "passives": []
     },
     {
-        "originalIndex": 519,
+        "originalIndex": 520,
         "name": "Liu Bei C1",
         "passives": [
             "Unstoppable Minions:",
@@ -3601,14 +3608,14 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 520,
+        "originalIndex": 521,
         "name": "Lughaidh",
         "passives": [
             "Special Skill Damage Reduction: Received damage from Special Skills is  reduced by -20% for this character."
         ]
     },
     {
-        "originalIndex": 521,
+        "originalIndex": 522,
         "name": "Lughaidh C1",
         "passives": [
             "Special Skill Damage Reduction: Received damage from Special Skills is reduced by -20% for this character.",
@@ -3616,7 +3623,7 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 522,
+        "originalIndex": 523,
         "name": "Ma'at",
         "passives": [
             "Effects on Special Skill: 50% chance to perform the following actions when this character casts their Special Skill:",
@@ -3625,7 +3632,7 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 523,
+        "originalIndex": 524,
         "name": "Ma'at C1",
         "passives": [
             "Effects on special skill: 50% chance to perform the following actions when this character casts their Special Skill:",
@@ -3636,7 +3643,7 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 524,
+        "originalIndex": 525,
         "name": "Maegwyn",
         "passives": [
             "Destroy Fiends on Special: When this character casts their Special Skill, all fiends are destroyed from them.",
@@ -3645,14 +3652,14 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 525,
+        "originalIndex": 526,
         "name": "Margaret",
         "passives": [
             "Resist Dispels: This character has an innate ability to resist dispels of buffs."
         ]
     },
     {
-        "originalIndex": 526,
+        "originalIndex": 527,
         "name": "Max",
         "passives": [
             "Wrath of Pets: When a Fiend is summoned to any enemy, this character deals 85% damage to all enemies. This effect can activate only once per turn.",
@@ -3660,7 +3667,7 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 527,
+        "originalIndex": 528,
         "name": "Mazoga",
         "passives": [
             "Resist Water Damage: This character has innate resistance against Water Damage.",
@@ -3668,21 +3675,21 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 528,
+        "originalIndex": 529,
         "name": "Mena",
         "passives": [
             "Gargoile’s Softskin: Every time this Gargoyle casts a Special Skill, their Softskin activates. The next 3 times they receive damage, it is reduced by -90%, and they resist all status ailment and mana reduction. This effect can’t be dispelled."
         ]
     },
     {
-        "originalIndex": 529,
+        "originalIndex": 530,
         "name": "Merith",
         "passives": [
             "Revival Chance Reduction: The chance of revival is reduced for all enemies in the battle. The chance is 20% of the original value."
         ]
     },
     {
-        "originalIndex": 530,
+        "originalIndex": 531,
         "name": "Mistweaver",
         "passives": [
             "Damage Over Time on Special: When this character casts their Special Skill, they give a Hunter’s Mark on a random enemy. The target receives 150 damage over 3 turns. If a target already has this effect, the duration will be refreshed and the damage will be increased with 150, up to 1500 damage in total.",
@@ -3690,7 +3697,7 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 531,
+        "originalIndex": 532,
         "name": "Moonflower",
         "passives": [
             "Resist Poison: This character has innate resistance against Poison.",
@@ -3698,22 +3705,22 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 532,
+        "originalIndex": 533,
         "name": "Morgan Le Fay",
         "passives": []
     },
     {
-        "originalIndex": 533,
+        "originalIndex": 534,
         "name": "Mother North",
         "passives": []
     },
     {
-        "originalIndex": 534,
+        "originalIndex": 535,
         "name": "Mother North C1",
         "passives": []
     },
     {
-        "originalIndex": 535,
+        "originalIndex": 536,
         "name": "Mucktus",
         "passives": [
             "Slime Minion Upon Defeat: When this character is defeated, they summon Slime Mega Minions to nearby allies with 50% HP and 40% attack inherited from this character.",
@@ -3721,12 +3728,12 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 536,
+        "originalIndex": 537,
         "name": "Myoin-ni",
         "passives": []
     },
     {
-        "originalIndex": 537,
+        "originalIndex": 538,
         "name": "Mystia",
         "passives": [
             "Resist Special Skill Blocking: This character has innate resistance against status ailments that block Special Skills.",
@@ -3734,7 +3741,7 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 538,
+        "originalIndex": 539,
         "name": "Nogu",
         "passives": [
             "Mana Buff on Status Ailment Received: Receives +24% mana generation for 3  turns when this character receives a status ailment or a negative stack.",
@@ -3743,7 +3750,7 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 539,
+        "originalIndex": 540,
         "name": "Ott",
         "passives": [
             "Empowered Resist Burn: This character has innate resistance against Burn and gains 450 boosted health and 5% mana each time they resist.",
@@ -3754,12 +3761,12 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 540,
+        "originalIndex": 541,
         "name": "Penelope",
         "passives": []
     },
     {
-        "originalIndex": 541,
+        "originalIndex": 542,
         "name": "Peregrine",
         "passives": [
             "Minion Blind: All enemies’ Minions have -60% accuracy. All enemies’ Mega Minions have -50% accuracy.",
@@ -3768,19 +3775,19 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 542,
+        "originalIndex": 543,
         "name": "Peridot",
         "passives": []
     },
     {
-        "originalIndex": 543,
+        "originalIndex": 544,
         "name": "Phileas Fogg",
         "passives": [
             "Special Skill Damage Reduction: Received damage from Special Skills is reduced by -20% for this character."
         ]
     },
     {
-        "originalIndex": 544,
+        "originalIndex": 545,
         "name": "Phileas Fogg C1",
         "passives": [
             "Special Skill Damage Reduction: Received damage from Special Skills is reduced by -20% for this character.",
@@ -3788,7 +3795,7 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 545,
+        "originalIndex": 546,
         "name": "Pip",
         "passives": [
             "Resist Mana reduction: This character has an innate resistance against mana Reduction.",
@@ -3796,7 +3803,7 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 546,
+        "originalIndex": 547,
         "name": "Prince Siegfried",
         "passives": [
             "Resist Defense Ailments: This character has innate resistance against status ailments that affect defense. Doesn’t apply to status ailments that affect elemental defense.",
@@ -3804,26 +3811,26 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 547,
+        "originalIndex": 548,
         "name": "Qinglong",
         "passives": [
             "Disable Minion Abilities: Attacks and abilities of all Minions owned by enemies are disabled."
         ]
     },
     {
-        "originalIndex": 548,
+        "originalIndex": 549,
         "name": "Queen Anne",
         "passives": [
             "Damage on Special Skill: When this character receives damage from Special Skills or in place of a character in Cover, there’s a 60% chance to deal 20% of the received damage to all enemies."
         ]
     },
     {
-        "originalIndex": 549,
+        "originalIndex": 550,
         "name": "Quenell",
         "passives": []
     },
     {
-        "originalIndex": 550,
+        "originalIndex": 551,
         "name": "Quenell C1",
         "passives": [
             "Ability: Increased Status Effect Duration. Chance to increase the duration of cast status effects.",
@@ -3832,24 +3839,24 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 551,
+        "originalIndex": 552,
         "name": "Ratatoskr",
         "passives": []
     },
     {
-        "originalIndex": 552,
+        "originalIndex": 553,
         "name": "Ratatoskr C1",
         "passives": []
     },
     {
-        "originalIndex": 553,
+        "originalIndex": 554,
         "name": "Relius",
         "passives": [
             "Reduce Mana Gain from Special Skills: Reduces the amount of mana increased by Special Skill by -80%. The effect applies to all enemies in the battle."
         ]
     },
     {
-        "originalIndex": 554,
+        "originalIndex": 555,
         "name": "Rhineglow",
         "passives": [
             "Resist Special Skill Blocking: This character has innate resistance against status ailments that block Special Skill.",
@@ -3857,7 +3864,7 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 555,
+        "originalIndex": 556,
         "name": "Roz",
         "passives": [
             "Troop Mastery:",
@@ -3868,7 +3875,7 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 556,
+        "originalIndex": 557,
         "name": "Roz C1",
         "passives": [
             "Troop Mastery:",
@@ -3879,12 +3886,12 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 557,
+        "originalIndex": 558,
         "name": "Sadie",
         "passives": []
     },
     {
-        "originalIndex": 558,
+        "originalIndex": 559,
         "name": "Sha Wujing",
         "passives": [
             "Mana on Buff Received: This character has a 50% chance to gain 10% mana when they receive a buff or possitive stack.",
@@ -3892,7 +3899,7 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 559,
+        "originalIndex": 560,
         "name": "Silvaria",
         "passives": [
             "Resist Minion Removal: This character has innate resistance against Minion removal.",
@@ -3900,7 +3907,7 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 560,
+        "originalIndex": 561,
         "name": "Smarttongue",
         "passives": [
             "Effects on Special Skill: 50% chance to perform the following actions when this character casts their Special Skill.",
@@ -3909,7 +3916,7 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 561,
+        "originalIndex": 562,
         "name": "Snowball",
         "passives": [
             "Wrath of Pets: When a Fiend is summoned to any enemy, this character deals  85% damage to all enemies. This effect can activate only once per turn.",
@@ -3917,7 +3924,7 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 562,
+        "originalIndex": 563,
         "name": "Spartoi",
         "passives": [
             "Effects on Special Skill:",
@@ -3927,7 +3934,7 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 563,
+        "originalIndex": 564,
         "name": "Spartoi C1",
         "passives": [
             "Effects on Special Skill:",
@@ -3938,14 +3945,14 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 564,
+        "originalIndex": 565,
         "name": "Spiff",
         "passives": [
             "Decreased Healing: All enemies get -50% healing."
         ]
     },
     {
-        "originalIndex": 565,
+        "originalIndex": 566,
         "name": "Staintongue",
         "passives": [
             "Hunter’s Sense: When this character casts their Special Skill, they have 100% chance to transfer the newest status ailment from themself to the target. If the Special Skill cannot target an enemy, a random enemy is chosen instead. If this character has no status ailments, they recover 12% health.",
@@ -3953,7 +3960,7 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 566,
+        "originalIndex": 567,
         "name": "Starlass",
         "passives": [
             "Resist Poison: This character has innate resistance against Poison.",
@@ -3961,7 +3968,7 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 567,
+        "originalIndex": 568,
         "name": "Sun Erniang",
         "passives": [
             "Health Boost on Critical Special Attack: When this character scores a critical hit with their Special Skill, they boost the health of all their allies by 10%. This effect can activate once per turn.",
@@ -3973,7 +3980,7 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 568,
+        "originalIndex": 569,
         "name": "Sune",
         "passives": [
             "Special Skill Damage Reduction: This character has a 10% chance to drop the direct damage received from Special Skills to 1.",
@@ -3981,43 +3988,43 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 569,
+        "originalIndex": 570,
         "name": "Suomuhauki",
         "passives": [
             "Power of Sisu: When this character starts a turn with low health for the first time during a battle, they recover 15% health and receive 15% mana."
         ]
     },
     {
-        "originalIndex": 570,
+        "originalIndex": 571,
         "name": "Tametomo",
         "passives": []
     },
     {
-        "originalIndex": 571,
+        "originalIndex": 572,
         "name": "Tarlak",
         "passives": []
     },
     {
-        "originalIndex": 572,
+        "originalIndex": 573,
         "name": "Tarlak C1",
         "passives": []
     },
     {
-        "originalIndex": 573,
+        "originalIndex": 574,
         "name": "Teddy",
         "passives": [
             "Health Recovery on Buff Received: This character recovers 5% health when  they receive a buff or a positive stack."
         ]
     },
     {
-        "originalIndex": 574,
+        "originalIndex": 575,
         "name": "Telluria",
         "passives": [
             "Resist Minion Removal: The Hero has innate resistance against Minion Removal."
         ]
     },
     {
-        "originalIndex": 575,
+        "originalIndex": 576,
         "name": "Telonius",
         "passives": [
             "Damage on Special: When this character casts their Special Skill, they have a 50% chance to deal 100% damage to all enemies. If the Special Skill is fully charged, the chance is 100%.",
@@ -4025,19 +4032,19 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 576,
+        "originalIndex": 577,
         "name": "The Hatter",
         "passives": []
     },
     {
-        "originalIndex": 577,
+        "originalIndex": 578,
         "name": "The Hatter C1",
         "passives": [
             "Mindless Attack on Special Skill: When this character casts their Special Skill, they have a 50% chance to give Mindless Attack for 3 turns to a random enemy."
         ]
     },
     {
-        "originalIndex": 578,
+        "originalIndex": 579,
         "name": "Theodosius",
         "passives": [
             "Mana on Status Ailment Received: This character gains 5% mana when they receive a status ailment or negative stack.",
@@ -4046,33 +4053,33 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 579,
+        "originalIndex": 580,
         "name": "Toxicandra",
         "passives": []
     },
     {
-        "originalIndex": 580,
+        "originalIndex": 581,
         "name": "Toxicandra C1",
         "passives": [
             "Curse on Special Skill: When this character casts their Special Skill, all enemies receive 461 Curse damage over 4 turns, starting low and increasing every turn."
         ]
     },
     {
-        "originalIndex": 581,
+        "originalIndex": 582,
         "name": "Vainamoinen",
         "passives": [
             "Power of Sisu: When this character starts a turn with low health for the first time during a battle, they recover 15% health and receive 15% mana."
         ]
     },
     {
-        "originalIndex": 582,
+        "originalIndex": 583,
         "name": "Vainamoinen C1",
         "passives": [
             "Power of Sisu: When this character starts a turn with low health for the first time during a battle, they recover 15% health and receive 15% mana."
         ]
     },
     {
-        "originalIndex": 583,
+        "originalIndex": 584,
         "name": "Verdigoo",
         "passives": [
             "Slime Minion Upon Defeat: When this character is defeated, they summon Slime Mega Minions to nearby allies with 50% HP and 40% attack inherited from this character.",
@@ -4080,14 +4087,14 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 584,
+        "originalIndex": 585,
         "name": "Verus",
         "passives": [
             "Reduce Mana Gain from Special Skills: Reduces the amount of mana increased by Special Skill by -80%. The effect applies to all enemies in the battle."
         ]
     },
     {
-        "originalIndex": 585,
+        "originalIndex": 586,
         "name": "Viselus",
         "passives": [
             "Resist Poison: This character has innate resistance against Poison.",
@@ -4095,14 +4102,14 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 586,
+        "originalIndex": 587,
         "name": "Winifred",
         "passives": [
             "Defense ailment reduction: Reduces the effect of defense ailments by 80%. The effect applies to this character and all its allies in the battle."
         ]
     },
     {
-        "originalIndex": 587,
+        "originalIndex": 588,
         "name": "Xandrella",
         "passives": [
             "Troop Mastery:",
@@ -4113,57 +4120,57 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 588,
+        "originalIndex": 589,
         "name": "Xiamara",
         "passives": [
             "Health Recovery on Buff Received: This character recovers 5% health when they receive a buff or a positive stack."
         ]
     },
     {
-        "originalIndex": 589,
+        "originalIndex": 590,
         "name": "Xiaoqing",
         "passives": [
             "Disable Minion Abilities: Attacks and abilities of all Minions owned by enemies are disabled."
         ]
     },
     {
-        "originalIndex": 590,
+        "originalIndex": 591,
         "name": "Yunan",
         "passives": []
     },
     {
-        "originalIndex": 591,
+        "originalIndex": 592,
         "name": "Yunan C1",
         "passives": []
     },
     {
-        "originalIndex": 592,
+        "originalIndex": 593,
         "name": "Zavinia",
         "passives": [
             "Marked by the Old Ones: All damage is reduced by 5% per 10 Insanity for this character up to a maximum reduction of 50%."
         ]
     },
     {
-        "originalIndex": 593,
+        "originalIndex": 594,
         "name": "Zeline",
         "passives": []
     },
     {
-        "originalIndex": 594,
+        "originalIndex": 595,
         "name": "Zeline C1",
         "passives": [
             "Cleanse on Special Skill: When this character casts their Special Skill, they cleanse the newest status ailment from all allies."
         ]
     },
     {
-        "originalIndex": 595,
+        "originalIndex": 596,
         "name": "Zocc",
         "passives": [
             "Resist Water Damage: This character has an innate resistance against Water damage."
         ]
     },
     {
-        "originalIndex": 596,
+        "originalIndex": 597,
         "name": "Zuni",
         "passives": [
             "Troop Mastery:",
@@ -4174,49 +4181,49 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 597,
+        "originalIndex": 598,
         "name": "Fletcher",
         "passives": []
     },
     {
-        "originalIndex": 598,
+        "originalIndex": 599,
         "name": "Nightshade",
         "passives": []
     },
     {
-        "originalIndex": 599,
+        "originalIndex": 600,
         "name": "Julius",
         "passives": []
     },
     {
-        "originalIndex": 600,
+        "originalIndex": 601,
         "name": "Layla",
         "passives": []
     },
     {
-        "originalIndex": 601,
+        "originalIndex": 602,
         "name": "Silthus",
         "passives": []
     },
     {
-        "originalIndex": 602,
+        "originalIndex": 603,
         "name": "Aderyn",
         "passives": []
     },
     {
-        "originalIndex": 603,
+        "originalIndex": 604,
         "name": "An-Windr",
         "passives": []
     },
     {
-        "originalIndex": 604,
+        "originalIndex": 605,
         "name": "Aqeela",
         "passives": [
             "Effects on Special Skill: 50% chance to perform the following actions when this character casts their Special Skill * Deals 70% damage to all enemies. * Dispels the latest dispellable buff from enemies."
         ]
     },
     {
-        "originalIndex": 605,
+        "originalIndex": 606,
         "name": "Aqeela C1",
         "passives": [
             "Effects on Special Skill: 50% chance to perform the following actions when this character casts their Special Skill: * Deals 70% damage to all enemies. * Dispells the latest dispellable buff from all enemies.",
@@ -4225,75 +4232,75 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 606,
+        "originalIndex": 607,
         "name": "Balthazar",
         "passives": []
     },
     {
-        "originalIndex": 607,
+        "originalIndex": 608,
         "name": "Balthazar C1",
         "passives": []
     },
     {
-        "originalIndex": 608,
+        "originalIndex": 609,
         "name": "Balthazar Toon",
         "passives": [
             "Toon: 75% extra chance to resist all status ailments, mana reductions and buff dispels."
         ]
     },
     {
-        "originalIndex": 609,
+        "originalIndex": 610,
         "name": "Balthazar Glass",
         "passives": [
             "Glass: 60% extra chance to reflect status ailments back to the attacker."
         ]
     },
     {
-        "originalIndex": 610,
+        "originalIndex": 611,
         "name": "Betty",
         "passives": [
             "Gargoile’s Softskin: Every time this Gargoyle casts a Special Skill, their Softskin activates. The next 4 times they receive damage, it is reduced by -90%, and they resist all status ailment and mana reduction. This effect can’t be dispelled."
         ]
     },
     {
-        "originalIndex": 611,
+        "originalIndex": 612,
         "name": "Bjorn",
         "passives": []
     },
     {
-        "originalIndex": 612,
+        "originalIndex": 613,
         "name": "Bjorn C1",
         "passives": []
     },
     {
-        "originalIndex": 613,
+        "originalIndex": 614,
         "name": "Budatin",
         "passives": [
             "Gargoyle’s Stoneskin: Every time this Gargoyle casts a Special Skill, their Stoneskin hardens. The next 4 times they receive damage, it is dropped to 1. This effect can’t be dispelled."
         ]
     },
     {
-        "originalIndex": 614,
+        "originalIndex": 615,
         "name": "Chochin",
         "passives": []
     },
     {
-        "originalIndex": 615,
+        "originalIndex": 616,
         "name": "Edd",
         "passives": []
     },
     {
-        "originalIndex": 616,
+        "originalIndex": 617,
         "name": "Gill-Ra",
         "passives": []
     },
     {
-        "originalIndex": 617,
+        "originalIndex": 618,
         "name": "Gill-Ra C1",
         "passives": []
     },
     {
-        "originalIndex": 618,
+        "originalIndex": 619,
         "name": "Greel",
         "passives": [
             "Hunter’s Sense: When this character casts their Special Skill, they have 100% chance to transfer the newest status ailment from themself to the target. If the Special Skill cannot target an enemy, a random enemy is chosen instead. If this character has no status ailments, they recover 12% health.",
@@ -4301,132 +4308,132 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 619,
+        "originalIndex": 620,
         "name": "Guardian Bat",
         "passives": []
     },
     {
-        "originalIndex": 620,
+        "originalIndex": 621,
         "name": "Jack",
         "passives": [
             "Steal Buff: When this character casts their Special Skill, they have a 50% chance to steal the newest dispellable buff from a random enemy that has buffs. If no enemy has buffs, deals 70% damage to all enemies."
         ]
     },
     {
-        "originalIndex": 621,
+        "originalIndex": 622,
         "name": "Maeve",
         "passives": [
             "Resist Damage from Status Effects: This charater has innate resistance against incoming damage from status effects."
         ]
     },
     {
-        "originalIndex": 622,
+        "originalIndex": 623,
         "name": "Morganite",
         "passives": []
     },
     {
-        "originalIndex": 623,
+        "originalIndex": 624,
         "name": "Morris",
         "passives": [
             "Decrease Ailment Duration: Duration of the first 3 status ailments this character receives from Special Skill is decreased by 1 turn."
         ]
     },
     {
-        "originalIndex": 624,
+        "originalIndex": 625,
         "name": "Morris C1",
         "passives": [
             "Decrease Ailment Duration: Duration of the first 3 status ailments this character receives from Special Skill is decreased by 1 turn."
         ]
     },
     {
-        "originalIndex": 625,
+        "originalIndex": 626,
         "name": "Oberon",
         "passives": []
     },
     {
-        "originalIndex": 626,
+        "originalIndex": 627,
         "name": "Oberon C1",
         "passives": []
     },
     {
-        "originalIndex": 627,
+        "originalIndex": 628,
         "name": "Oberon Toon",
         "passives": [
             "Toon: 75% extra chance to resist all status ailments, mana reductions and buff dispels."
         ]
     },
     {
-        "originalIndex": 628,
+        "originalIndex": 629,
         "name": "Para",
         "passives": [
             "When this character starts a turn with low health for the first time during a battle, they recover 15% health and receive 15% mana."
         ]
     },
     {
-        "originalIndex": 629,
+        "originalIndex": 630,
         "name": "Prisca",
         "passives": []
     },
     {
-        "originalIndex": 630,
+        "originalIndex": 631,
         "name": "Prisca C1",
         "passives": []
     },
     {
-        "originalIndex": 631,
+        "originalIndex": 632,
         "name": "Prisca Toon",
         "passives": [
             "Toon: 75% extra chance to resist all status ailments, mana reductions and buff dispels."
         ]
     },
     {
-        "originalIndex": 632,
+        "originalIndex": 633,
         "name": "Prisca Glass",
         "passives": [
             "Glass: 60% extra chance to reflect status ailments back to the attacker."
         ]
     },
     {
-        "originalIndex": 633,
+        "originalIndex": 634,
         "name": "Renfeld",
         "passives": []
     },
     {
-        "originalIndex": 634,
+        "originalIndex": 635,
         "name": "Renfeld C1",
         "passives": []
     },
     {
-        "originalIndex": 635,
+        "originalIndex": 636,
         "name": "Renfeld Toon",
         "passives": [
             "Toon: 75% extra chance to resist all status ailments, mana reductions and buff dispels."
         ]
     },
     {
-        "originalIndex": 636,
+        "originalIndex": 637,
         "name": "Treevil",
         "passives": []
     },
     {
-        "originalIndex": 637,
+        "originalIndex": 638,
         "name": "Tyrum",
         "passives": []
     },
     {
-        "originalIndex": 638,
+        "originalIndex": 639,
         "name": "Tyrum C1",
         "passives": []
     },
     {
-        "originalIndex": 639,
+        "originalIndex": 640,
         "name": "Tyrum Toon",
         "passives": [
             "Toon: 75% extra chance to resist all status ailments, mana reductions and buff dispels."
         ]
     },
     {
-        "originalIndex": 640,
+        "originalIndex": 641,
         "name": "Unferth",
         "passives": [
             "Empowered Resist Mana Reductions: This character has innate resistance against mana reduction. They also gain 600 boosted health and 10% mana each time they resist.",
@@ -4434,14 +4441,14 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 641,
+        "originalIndex": 642,
         "name": "Vlad",
         "passives": [
             "Steal Buff: When this character casts their Special Skill, they have a 50%  chance to steal the newest dispellable buff from a random enemy that has buffs.  If no enemy has buffs, deals 70% damage to all enemies."
         ]
     },
     {
-        "originalIndex": 642,
+        "originalIndex": 643,
         "name": "Ahhotep",
         "passives": [
             "Effects on Special Skill: 60% chance to perform the following actions when this character casts their Special Skill",
@@ -4450,7 +4457,7 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 643,
+        "originalIndex": 644,
         "name": "Ahhotep C1",
         "passives": [
             "Effects on Special Skill: 60% chance to perform the following actions when this character casts their Special Skill",
@@ -4461,29 +4468,29 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 644,
+        "originalIndex": 645,
         "name": "Ameonna",
         "passives": []
     },
     {
-        "originalIndex": 645,
+        "originalIndex": 646,
         "name": "Ameonna C1",
         "passives": []
     },
     {
-        "originalIndex": 646,
+        "originalIndex": 647,
         "name": "Ametrine",
         "passives": []
     },
     {
-        "originalIndex": 647,
+        "originalIndex": 648,
         "name": "Ana-Belle",
         "passives": [
             "Steal Buff - When this character casts their Special Skill, they have a 50%  chance to steal the newest dispellable buff from a random enemy that has buffs.  If no enemy has buffs, deals 70% damage to all enemies."
         ]
     },
     {
-        "originalIndex": 648,
+        "originalIndex": 649,
         "name": "Arges",
         "passives": [
             "Decreased Minion Health: Enemy Minions inherit -50% less Health when summoned.",
@@ -4491,22 +4498,22 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 649,
+        "originalIndex": 650,
         "name": "Boomer",
         "passives": []
     },
     {
-        "originalIndex": 650,
+        "originalIndex": 651,
         "name": "Cheshire Cat",
         "passives": []
     },
     {
-        "originalIndex": 651,
+        "originalIndex": 652,
         "name": "Cheshire Cat C1",
         "passives": []
     },
     {
-        "originalIndex": 652,
+        "originalIndex": 653,
         "name": "Cupcake",
         "passives": [
             "When a Minion is summoned to any ally, this character gains 5% health and 5% mana. This effect can activate only once per turn.",
@@ -4514,99 +4521,99 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 653,
+        "originalIndex": 654,
         "name": "Cyprian",
         "passives": []
     },
     {
-        "originalIndex": 654,
+        "originalIndex": 655,
         "name": "Cyprian C1",
         "passives": []
     },
     {
-        "originalIndex": 655,
+        "originalIndex": 656,
         "name": "Cyprian C2",
         "passives": []
     },
     {
-        "originalIndex": 656,
+        "originalIndex": 657,
         "name": "Cyprian Toon",
         "passives": [
             "Toon: 75% extra chance to resist all status ailments, mana reductions and buff dispels."
         ]
     },
     {
-        "originalIndex": 657,
+        "originalIndex": 658,
         "name": "Cyprian Glass",
         "passives": [
             "Glass: 60% extra chance to reflect status ailments back to the attacker."
         ]
     },
     {
-        "originalIndex": 658,
+        "originalIndex": 659,
         "name": "Dizzy",
         "passives": []
     },
     {
-        "originalIndex": 659,
+        "originalIndex": 660,
         "name": "Foxglove",
         "passives": [
             "Decreased Healing: All enemies get -50% healing."
         ]
     },
     {
-        "originalIndex": 660,
+        "originalIndex": 661,
         "name": "Fura",
         "passives": []
     },
     {
-        "originalIndex": 661,
+        "originalIndex": 662,
         "name": "Fura C1",
         "passives": []
     },
     {
-        "originalIndex": 662,
+        "originalIndex": 663,
         "name": "Gafar",
         "passives": []
     },
     {
-        "originalIndex": 663,
+        "originalIndex": 664,
         "name": "Heifeng Guai",
         "passives": []
     },
     {
-        "originalIndex": 664,
+        "originalIndex": 665,
         "name": "Ingolf",
         "passives": []
     },
     {
-        "originalIndex": 665,
+        "originalIndex": 666,
         "name": "Jabbar",
         "passives": []
     },
     {
-        "originalIndex": 666,
+        "originalIndex": 667,
         "name": "Juliani",
         "passives": [
             "Reduce Mana Gain from Special Skills: Reduces the amount of mana increased by Special Skill by -80%. The effect applies to all enemies in the battle."
         ]
     },
     {
-        "originalIndex": 667,
+        "originalIndex": 668,
         "name": "Kitty",
         "passives": [
             "Damage on Special Skill: When this character receives damage from Special Skills or in place of a character in Cover, there’s a 60% chance to deal 20% of the received damage to all enemies."
         ]
     },
     {
-        "originalIndex": 668,
+        "originalIndex": 669,
         "name": "Koda",
         "passives": [
             "Health Recovery on Buff Received: This character recovers 5% health when they receive a buff or a positive stack."
         ]
     },
     {
-        "originalIndex": 669,
+        "originalIndex": 670,
         "name": "Lexi",
         "passives": [
             "Troop Mastery:",
@@ -4617,7 +4624,7 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 670,
+        "originalIndex": 671,
         "name": "Meadow",
         "passives": [
             "Status effect on Special: When this character casts their Special Skill, they give a Hunter’s Mark on a random enemy. The target receives 150 damage over 3 turns. If a target already has this effect, the duration will be refreshed and the damage will be increased by 150, up to 1500 damage in total.",
@@ -4625,85 +4632,85 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 671,
+        "originalIndex": 672,
         "name": "Merlin",
         "passives": []
     },
     {
-        "originalIndex": 672,
+        "originalIndex": 673,
         "name": "Merlin C1",
         "passives": []
     },
     {
-        "originalIndex": 673,
+        "originalIndex": 674,
         "name": "Proteus",
         "passives": []
     },
     {
-        "originalIndex": 674,
+        "originalIndex": 675,
         "name": "Proteus C1",
         "passives": []
     },
     {
-        "originalIndex": 675,
+        "originalIndex": 676,
         "name": "Rigard",
         "passives": []
     },
     {
-        "originalIndex": 676,
+        "originalIndex": 677,
         "name": "Rigard C1",
         "passives": []
     },
     {
-        "originalIndex": 677,
+        "originalIndex": 678,
         "name": "Rigard C2",
         "passives": []
     },
     {
-        "originalIndex": 678,
+        "originalIndex": 679,
         "name": "Rigard Toon",
         "passives": [
             "Toon: 75% extra chance to resist all status ailments, mana reductions and buff dispels."
         ]
     },
     {
-        "originalIndex": 679,
+        "originalIndex": 680,
         "name": "Rigard Glass",
         "passives": [
             "Glass: 60% extra chance to reflect status ailments back to the attacker."
         ]
     },
     {
-        "originalIndex": 680,
+        "originalIndex": 681,
         "name": "Sabina",
         "passives": []
     },
     {
-        "originalIndex": 681,
+        "originalIndex": 682,
         "name": "Sabina C1",
         "passives": []
     },
     {
-        "originalIndex": 682,
+        "originalIndex": 683,
         "name": "Sabina C2",
         "passives": []
     },
     {
-        "originalIndex": 683,
+        "originalIndex": 684,
         "name": "Sabina Toon",
         "passives": [
             "Toon: 75% extra chance to resist all status ailments, mana reductions and buff dispels."
         ]
     },
     {
-        "originalIndex": 684,
+        "originalIndex": 685,
         "name": "Sergei",
         "passives": [
             "When this character casts their Special Skill, they have a 50% chance to  deal 100% damage to all enemies. If the Special Skill is fully charged,  the chance is 100%."
         ]
     },
     {
-        "originalIndex": 685,
+        "originalIndex": 686,
         "name": "Shar'Khai",
         "passives": [
             "Effects on Special Skill:",
@@ -4713,7 +4720,7 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 686,
+        "originalIndex": 687,
         "name": "Shar'Khai C1",
         "passives": [
             "Effects on Special Skill:",
@@ -4724,46 +4731,46 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 687,
+        "originalIndex": 688,
         "name": "Shoggo",
         "passives": []
     },
     {
-        "originalIndex": 688,
+        "originalIndex": 689,
         "name": "Shyombre",
         "passives": [
             "Dodge Special Damage: This character has a 15% chance to dodge Special Skills that deal damage."
         ]
     },
     {
-        "originalIndex": 689,
+        "originalIndex": 690,
         "name": "Stonecleave",
         "passives": []
     },
     {
-        "originalIndex": 690,
+        "originalIndex": 691,
         "name": "Tiburtus",
         "passives": []
     },
     {
-        "originalIndex": 691,
+        "originalIndex": 692,
         "name": "Tiburtus C1",
         "passives": []
     },
     {
-        "originalIndex": 692,
+        "originalIndex": 693,
         "name": "Tiburtus C2",
         "passives": []
     },
     {
-        "originalIndex": 693,
+        "originalIndex": 694,
         "name": "Tiburtus Toon",
         "passives": [
             "Toon: 75% extra chance to resist all status ailments, mana reductions and buff dispels."
         ]
     },
     {
-        "originalIndex": 694,
+        "originalIndex": 695,
         "name": "Acidfire",
         "passives": [
             "Effects on Special Skill: 40% chance to perform the following actions when this character casts their Special Skill.",
@@ -4772,7 +4779,7 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 695,
+        "originalIndex": 696,
         "name": "Aconia",
         "passives": [
             "Troop Mastery:",
@@ -4783,19 +4790,19 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 696,
+        "originalIndex": 697,
         "name": "Aeron",
         "passives": []
     },
     {
-        "originalIndex": 697,
+        "originalIndex": 698,
         "name": "Aeron C1",
         "passives": [
             "Cleanse on Special: When this character casts their Special Skill, they cleanse the newest status ailment from all allies."
         ]
     },
     {
-        "originalIndex": 698,
+        "originalIndex": 699,
         "name": "Agadh",
         "passives": [
             "Flight Momentum: If this character has any amount of Flight Momentum, they receive:",
@@ -4806,14 +4813,14 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 699,
+        "originalIndex": 700,
         "name": "Agrafena",
         "passives": [
             "Damage on Special: When this character casts their Special Skill, they have a 50% chance to deal 100% damage to all enemies. If the Special Skill is fully charged, the chance is 100%."
         ]
     },
     {
-        "originalIndex": 700,
+        "originalIndex": 701,
         "name": "Agrafena C1",
         "passives": [
             "Damage on Special: When this character casts their Special Skill, they have a 60% chance to deal 150% damage to all enemies. If the Special Skill is fully charged, the chance is 100%.",
@@ -4821,7 +4828,7 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 701,
+        "originalIndex": 702,
         "name": "Akilius",
         "passives": [
             "Resist Negative Minion Effects: This character has innate resistance against incoming negative effects and damage from Minions.",
@@ -4829,22 +4836,22 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 702,
+        "originalIndex": 703,
         "name": "Alfrike",
         "passives": []
     },
     {
-        "originalIndex": 703,
+        "originalIndex": 704,
         "name": "Alfrike C1",
         "passives": []
     },
     {
-        "originalIndex": 704,
+        "originalIndex": 705,
         "name": "Amethyst",
         "passives": []
     },
     {
-        "originalIndex": 705,
+        "originalIndex": 706,
         "name": "Anoushka",
         "passives": [
             "Resist Blind: This character has innate resistance against status ailments that affect accurancy. Doesn’t apply to status effects from allies.",
@@ -4852,7 +4859,7 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 706,
+        "originalIndex": 707,
         "name": "Anubis",
         "passives": [
             "Effects on special skill: 60% chance to perform the following actions when this character casts their Special Skill:",
@@ -4861,7 +4868,7 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 707,
+        "originalIndex": 708,
         "name": "Anubis C1",
         "passives": [
             "Effects on special skill: 60% chance to perform the following actions when this character casts their Special Skill:",
@@ -4872,14 +4879,14 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 708,
+        "originalIndex": 709,
         "name": "Aramis",
         "passives": [
             "When this character receives damage from Special Skills or in place of a character in Cover, there’s a 60% chance to deal 20% of the received damage on all enemies."
         ]
     },
     {
-        "originalIndex": 709,
+        "originalIndex": 710,
         "name": "Arfanias",
         "passives": [
             "Status Effect on Mana Reduction: This character gets +30% attack for 3 turns when their mana reduced.",
@@ -4887,12 +4894,12 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 710,
+        "originalIndex": 711,
         "name": "Asketel",
         "passives": []
     },
     {
-        "originalIndex": 711,
+        "originalIndex": 712,
         "name": "Bastet",
         "passives": [
             "Effects on Special Skill: 50% chance to perform the following actions when this character casts their Special Skill",
@@ -4901,7 +4908,7 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 712,
+        "originalIndex": 713,
         "name": "Bastet C1",
         "passives": [
             "Effects on Special Skill: 50% chance to perform the following actions when this character casts their Special Skill:",
@@ -4912,7 +4919,7 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 713,
+        "originalIndex": 714,
         "name": "Becky",
         "passives": [
             "Stack on Special: When this character casts their Special Skill, all enemies get -5% mana generation stack. If the Special Skill is fully changed, all enemies get two stacks. An enemy can have up to 10 stacks.",
@@ -4920,29 +4927,29 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 714,
+        "originalIndex": 715,
         "name": "Belladonna",
         "passives": [
             "Mana increase reduction: Reduces the amount of mana increased by Special Skill by -80%. The effect applies to all enemies in the battle."
         ]
     },
     {
-        "originalIndex": 715,
+        "originalIndex": 716,
         "name": "Bera",
         "passives": []
     },
     {
-        "originalIndex": 716,
+        "originalIndex": 717,
         "name": "Bera C1",
         "passives": []
     },
     {
-        "originalIndex": 717,
+        "originalIndex": 718,
         "name": "Boss Wolf",
         "passives": []
     },
     {
-        "originalIndex": 718,
+        "originalIndex": 719,
         "name": "Carta",
         "passives": [
             "Resist Special Skill Blocking: This character has innate resistance against status ailments that block Special Skill.",
@@ -4952,21 +4959,21 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 719,
+        "originalIndex": 720,
         "name": "Cecilia",
         "passives": [
             "Health Recovery on Buff Received: This character recovers 5% health when they receive a buff or a positive stack."
         ]
     },
     {
-        "originalIndex": 720,
+        "originalIndex": 721,
         "name": "Cennius",
         "passives": [
             "Reduce Mana Gain from Special Skills: Reduces the amount of mana increased by Special Skill by -80%. The effect applies to all enemies in the battle."
         ]
     },
     {
-        "originalIndex": 721,
+        "originalIndex": 722,
         "name": "Chakkoszrot",
         "passives": [
             "Resist Mana reduction: This character has an innate resistance against mana Reduction.",
@@ -4974,7 +4981,7 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 722,
+        "originalIndex": 723,
         "name": "Chao Gai",
         "passives": [
             "Cleanse on Critical Special Attack: When this character scores a critical hit with their Special Skill, they safely cleanse the latest cleansable status effect from all allies. This effect can activate once per turn.",
@@ -4986,7 +4993,7 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 723,
+        "originalIndex": 724,
         "name": "Charon",
         "passives": [
             "Resist Defense Ailments: This Hero has innate resistance against status ailments that affect defense. Applies also to status ailments that affect elemental defense.",
@@ -4994,33 +5001,33 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 724,
+        "originalIndex": 725,
         "name": "Clarissa",
         "passives": [
             "Resist Poison: This character has innate resistance against Poison."
         ]
     },
     {
-        "originalIndex": 725,
+        "originalIndex": 726,
         "name": "Dark Lord",
         "passives": []
     },
     {
-        "originalIndex": 726,
+        "originalIndex": 727,
         "name": "Dark Lord C1",
         "passives": [
             "Curse on Special Skill: When this character casts their Special Skill, all enemies receive 473 Curse damage over 4 turns, starting low and increasing every turn."
         ]
     },
     {
-        "originalIndex": 727,
+        "originalIndex": 728,
         "name": "Darkbeat",
         "passives": [
             "Revival Chance Reduction: The chance of revival is reduced for all enemies in the battle. The chance is 20% of the original value."
         ]
     },
     {
-        "originalIndex": 728,
+        "originalIndex": 729,
         "name": "Darkfeather",
         "passives": [
             "Effects on Special Skill: 50% chance to perform the following actions when this character casts their Special Skill.",
@@ -5029,7 +5036,7 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 729,
+        "originalIndex": 730,
         "name": "Deadboot",
         "passives": [
             "Effects on Special Skill: 30% chance to perform the following actions when this character casts their Special Skill.",
@@ -5038,7 +5045,7 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 730,
+        "originalIndex": 731,
         "name": "Demilune",
         "passives": [
             "Resist Poison: This character has innate resistance against Poison.",
@@ -5046,12 +5053,12 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 731,
+        "originalIndex": 732,
         "name": "Diaochan",
         "passives": []
     },
     {
-        "originalIndex": 732,
+        "originalIndex": 733,
         "name": "Diaochan C1",
         "passives": [
             "Unstoppable Minions:",
@@ -5061,43 +5068,43 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 733,
+        "originalIndex": 734,
         "name": "Domitia",
         "passives": []
     },
     {
-        "originalIndex": 734,
+        "originalIndex": 735,
         "name": "Domitia C1",
         "passives": []
     },
     {
-        "originalIndex": 735,
+        "originalIndex": 736,
         "name": "Domitia C2",
         "passives": []
     },
     {
-        "originalIndex": 736,
+        "originalIndex": 737,
         "name": "Domitia Toon",
         "passives": [
             "Toon: 75% extra chance to resist all status ailments, mana reductions and buff dispels."
         ]
     },
     {
-        "originalIndex": 737,
+        "originalIndex": 738,
         "name": "Domitia Glass",
         "passives": [
             "Glass: 60% extra chance to reflect status ailments back to the attacker."
         ]
     },
     {
-        "originalIndex": 738,
+        "originalIndex": 739,
         "name": "Dr. Moreau",
         "passives": [
             "Special Skill Damage Reduction: Received damage from Special Skills is reduced by -20% for this character."
         ]
     },
     {
-        "originalIndex": 739,
+        "originalIndex": 740,
         "name": "Dr. Moreau C1",
         "passives": [
             "Special Skill Damage Reduction: Received damage from Special Skills is reduced by -20% for this character.",
@@ -5105,7 +5112,7 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 740,
+        "originalIndex": 741,
         "name": "Dreadstar",
         "passives": [
             "Resist Poison: This character has innate resistance against Poison.",
@@ -5113,7 +5120,7 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 741,
+        "originalIndex": 742,
         "name": "Dubhan",
         "passives": [
             "Special Skill Damage Reduction: This character has a 10% chance to drop the direct damage received from Special Skills to 1.",
@@ -5121,7 +5128,7 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 742,
+        "originalIndex": 743,
         "name": "Dularfulr",
         "passives": [
             "Empowered Resist Burn: This character has innate resistance against Burn and gains 450 boosted heath and 5% mana each time they resist.",
@@ -5132,14 +5139,14 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 743,
+        "originalIndex": 744,
         "name": "Eros",
         "passives": [
             "Resist Special Skill Blocking: This character has innate resistance against status ailments that block Special Skills."
         ]
     },
     {
-        "originalIndex": 744,
+        "originalIndex": 745,
         "name": "Experience Mimic Dark",
         "passives": [
             "Perfect Accuracy: This character’s Special Skill never misses its targets.",
@@ -5152,7 +5159,7 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 745,
+        "originalIndex": 746,
         "name": "Farrah",
         "passives": [
             "Troop Mastery:",
@@ -5163,17 +5170,17 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 746,
+        "originalIndex": 747,
         "name": "Freya",
         "passives": []
     },
     {
-        "originalIndex": 747,
+        "originalIndex": 748,
         "name": "Freya C1",
         "passives": []
     },
     {
-        "originalIndex": 748,
+        "originalIndex": 749,
         "name": "Gastille",
         "passives": [
             "Troop Mastery:",
@@ -5184,7 +5191,7 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 749,
+        "originalIndex": 750,
         "name": "Gongoth",
         "passives": [
             "Superior Bypass Minions: All damage done by this character bypasses Minions and Mega Minions.",
@@ -5193,7 +5200,7 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 750,
+        "originalIndex": 751,
         "name": "Gooldron",
         "passives": [
             "Slime Minion Upon Defeat: When this character is defeated, they summon Slime Mega Minions to nearby allies with 50% HP and 40% attack inherited from this character.",
@@ -5201,7 +5208,7 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 751,
+        "originalIndex": 752,
         "name": "Goretooth",
         "passives": [
             "Hunter’s sense: When this character casts their Special Skill, they transfer the newest cleansable status ailment from themself to the target. If the Special Skill cannot target an enemy, a random enemy is chosen instead. If this character has no status ailments, they recover 3% health.",
@@ -5209,14 +5216,14 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 752,
+        "originalIndex": 753,
         "name": "Goseck",
         "passives": [
             "Gargoyle’s Stoneskin: Every time this Gargoyle casts a Special Skill, their Stoneskin hardens. The next 5 times they receive damage, it is dropped to 1. This effect can’t be dispelled."
         ]
     },
     {
-        "originalIndex": 753,
+        "originalIndex": 754,
         "name": "Grendel's Mother",
         "passives": [
             "Mana of Buff Received: This character gains 5% mana when they receive a buff or possive stack.",
@@ -5225,7 +5232,7 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 754,
+        "originalIndex": 755,
         "name": "Griffex",
         "passives": [
             "Troop Mastery:",
@@ -5236,24 +5243,24 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 755,
+        "originalIndex": 756,
         "name": "Grimble",
         "passives": [
             "Resist Blind: This character has an innate resistance against status ailments that affect Accuracy. Doesn't apply to status effects from allies."
         ]
     },
     {
-        "originalIndex": 756,
+        "originalIndex": 757,
         "name": "Guardian Panther",
         "passives": []
     },
     {
-        "originalIndex": 757,
+        "originalIndex": 758,
         "name": "Guardian Panther C1",
         "passives": []
     },
     {
-        "originalIndex": 758,
+        "originalIndex": 759,
         "name": "Gunktus",
         "passives": [
             "Slime Minion Upon Defeat: When this character is defeated, they summon Slime Mega Minions to nearby allies with 50% HP and 40% attack inherited from this character.",
@@ -5261,14 +5268,14 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 759,
+        "originalIndex": 760,
         "name": "Hannah",
         "passives": [
             "Start Battle with Mana: This character receives 20% mana at the start of the battle."
         ]
     },
     {
-        "originalIndex": 760,
+        "originalIndex": 761,
         "name": "Hannah C1",
         "passives": [
             "Start Battle With Mana: This Hero receives 20% mana at the start of the battle.",
@@ -5276,7 +5283,7 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 761,
+        "originalIndex": 762,
         "name": "Hawthorn",
         "passives": [
             "Special Skill Damage Reduction: This character has a 10% chance to drop the direct damage received from Special Skills to 1.",
@@ -5284,19 +5291,19 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 762,
+        "originalIndex": 763,
         "name": "Hel",
         "passives": []
     },
     {
-        "originalIndex": 763,
+        "originalIndex": 764,
         "name": "Hel C1",
         "passives": [
             "Dispel on Special Skill: When this character casts their Special Skill, they dispel the newest status effect buff from all enemies."
         ]
     },
     {
-        "originalIndex": 764,
+        "originalIndex": 765,
         "name": "Hreidmarr",
         "passives": [
             "Empowered Resist Burn: This character has innate resistance against Burn and gains 450 boosted health and 5% mana each time they resist.",
@@ -5307,14 +5314,14 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 765,
+        "originalIndex": 766,
         "name": "Hulda",
         "passives": [
             "Increase Buff Duration: Duration of the first 3 buffs this character receives from Special Skill is increased by 1 turn."
         ]
     },
     {
-        "originalIndex": 766,
+        "originalIndex": 767,
         "name": "Hulda C1",
         "passives": [
             "Increase Buff Duration: Duration of the first 3 buffs this character receives from Special Skills is increased by 1 turn.",
@@ -5322,14 +5329,14 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 767,
+        "originalIndex": 768,
         "name": "Hunter",
         "passives": [
             "Marked by the Old Ones: All damage is reduced by 5% per 10 Insanity for this character up to a maximum reduction of 50%."
         ]
     },
     {
-        "originalIndex": 768,
+        "originalIndex": 769,
         "name": "Hurricane",
         "passives": [
             "Hunter's Vigor: When this character casts their Special Skill, they get +20% attack for 3 turns. This effect can be active in addition to other effects that alter attack.",
@@ -5337,7 +5344,7 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 769,
+        "originalIndex": 770,
         "name": "Imagus",
         "passives": [
             "Nine Lives:",
@@ -5352,19 +5359,19 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 770,
+        "originalIndex": 771,
         "name": "Jabberwock",
         "passives": []
     },
     {
-        "originalIndex": 771,
+        "originalIndex": 772,
         "name": "Jabberwock C1",
         "passives": [
             "Mindless Attack On Special Skill: On Special Skill cast, 50% chance to inflict Mindless Attack on a random enemy for 3 turns."
         ]
     },
     {
-        "originalIndex": 772,
+        "originalIndex": 773,
         "name": "Jett",
         "passives": [
             "Stack on Special: When this character casts their Special Skill, all enemies get -5% mana generation stack. If the Special Skill is fully changed, all enemies get two stacks. An enemy can have up to 10 stacks.",
@@ -5372,36 +5379,36 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 773,
+        "originalIndex": 774,
         "name": "Kageburado",
         "passives": []
     },
     {
-        "originalIndex": 774,
+        "originalIndex": 775,
         "name": "Kageburado C1",
         "passives": []
     },
     {
-        "originalIndex": 775,
+        "originalIndex": 776,
         "name": "Karnov",
         "passives": []
     },
     {
-        "originalIndex": 776,
+        "originalIndex": 777,
         "name": "Karnov C1",
         "passives": [
             "Curse on Special Skill: When this character casts their Special Skill, all enemies receive 461 Curse damage over 4 turns, starting low and increasing every turn.      "
         ]
     },
     {
-        "originalIndex": 777,
+        "originalIndex": 778,
         "name": "Kemeny",
         "passives": [
             "Gargoyle’s Stoneskin: Every time this Gargoyle casts a Special Skill, their Stoneskin hardens. The next 4 times they receive damage, it is dropped to 1. This effect can’t be dispelled."
         ]
     },
     {
-        "originalIndex": 778,
+        "originalIndex": 779,
         "name": "Khepri",
         "passives": [
             "Effects on Special Skill: 60% chance to perform the following actions when this character casts their Special Skill",
@@ -5410,7 +5417,7 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 779,
+        "originalIndex": 780,
         "name": "Khepri C1",
         "passives": [
             "Effects on Special Skill: 60% chance to perform the following actions when this character casts their Special Skill",
@@ -5421,19 +5428,19 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 780,
+        "originalIndex": 781,
         "name": "Khiona",
         "passives": []
     },
     {
-        "originalIndex": 781,
+        "originalIndex": 782,
         "name": "Khiona C1",
         "passives": [
             "Dispel on Special Skill: When this character casts their Special Skill, they dispel the newest status efect buff from all enemies."
         ]
     },
     {
-        "originalIndex": 782,
+        "originalIndex": 783,
         "name": "Khonshu",
         "passives": [
             "Effects on Special Skill: 40% chance to perform the following actions when this character casts their Special Skill",
@@ -5442,7 +5449,7 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 783,
+        "originalIndex": 784,
         "name": "Khonshu C1",
         "passives": [
             "Effects on Special Skill: 40% chance to perform the following actions when this character casts their Special Skill",
@@ -5453,22 +5460,22 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 784,
+        "originalIndex": 785,
         "name": "Killhare",
         "passives": []
     },
     {
-        "originalIndex": 785,
+        "originalIndex": 786,
         "name": "Killhare C1",
         "passives": []
     },
     {
-        "originalIndex": 786,
+        "originalIndex": 787,
         "name": "Knave of Hearts",
         "passives": []
     },
     {
-        "originalIndex": 787,
+        "originalIndex": 788,
         "name": "Knightus",
         "passives": [
             "Slime Minion Upon Defeat: When this character is defeated, they summon Slime Mega Minions to nearby allies with 50% HP and 40% attack inherited from this character.",
@@ -5476,21 +5483,21 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 788,
+        "originalIndex": 789,
         "name": "Kunchen",
         "passives": [
             "Resist Defense Ailments: This character has an innate resistance against status ailments and negative stacks that affect defense. Doesn't apply to status ailments that affect Elemental Defense."
         ]
     },
     {
-        "originalIndex": 789,
+        "originalIndex": 790,
         "name": "Lepiota",
         "passives": [
             "Special Skill Damage Reduction: Received damage from Special Skills is reduced by -20% for this character."
         ]
     },
     {
-        "originalIndex": 790,
+        "originalIndex": 791,
         "name": "Lepiota C1",
         "passives": [
             "Special Skill Damage Reduction: Received damage from Special Skills is reduced by -20% for this character.",
@@ -5498,26 +5505,33 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 791,
+        "originalIndex": 792,
+        "name": "Lilareine",
+        "passives": [
+            "Dodge Special Damage: This character has a 15% chance to dodge Special Skills that deal damage."
+        ]
+    },
+    {
+        "originalIndex": 793,
         "name": "Louhi",
         "passives": [
             "Power of Sisu: When this character starts a turn with low health for the first time during a battle, they recover 15% health and receive 15% mana."
         ]
     },
     {
-        "originalIndex": 792,
+        "originalIndex": 794,
         "name": "Louhi C1",
         "passives": [
             "Power of Sisu: When this character starts a turn with low health for the first time during a battle, they recover 15% health and receive 15% mana."
         ]
     },
     {
-        "originalIndex": 793,
+        "originalIndex": 795,
         "name": "Lu Bu",
         "passives": []
     },
     {
-        "originalIndex": 794,
+        "originalIndex": 796,
         "name": "Lu Bu C1",
         "passives": [
             "Unstoppable Minions:",
@@ -5527,19 +5541,19 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 795,
+        "originalIndex": 797,
         "name": "Lucinda",
         "passives": [
             "Steal Buff: When this character casts their Special Skill, they have a 50% chance to steal the newest dispellable buff from a random enemy that has buffs. If no enemy has buffs, deals 70% damage to all enemies."
         ]
     },
     {
-        "originalIndex": 796,
+        "originalIndex": 798,
         "name": "Ludwig",
         "passives": []
     },
     {
-        "originalIndex": 797,
+        "originalIndex": 799,
         "name": "Luna",
         "passives": [
             "Friend of the Familiars: When a Minion is summoned to any ally, this character gains 5% health and 5% mana. This effect can activate only once per turn.",
@@ -5547,7 +5561,7 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 798,
+        "originalIndex": 800,
         "name": "Madame Giry",
         "passives": [
             "Heal when status ailment expires or is cleared: This character receives 20% health each time a status ailment expires or is cleansed, removed or reallocated from them. This effect can activate only once per turn.",
@@ -5555,7 +5569,7 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 799,
+        "originalIndex": 801,
         "name": "Maisie",
         "passives": [
             "Resist Mana reduction: This character has an innate resistance against mana Reduction.",
@@ -5563,7 +5577,7 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 800,
+        "originalIndex": 802,
         "name": "Malicna",
         "passives": [
             "Resist Health Steal Ailments: This character has innate resistance against status ailments that steal health.",
@@ -5571,19 +5585,19 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 801,
+        "originalIndex": 803,
         "name": "Marie-Therese",
         "passives": []
     },
     {
-        "originalIndex": 802,
+        "originalIndex": 804,
         "name": "Marie-Therese C1",
         "passives": [
             "Poison on Special Skill: When this character casts their Special Skill, all enemies receive 504 Poison damage over 4 turns."
         ]
     },
     {
-        "originalIndex": 803,
+        "originalIndex": 805,
         "name": "Maud",
         "passives": [
             "Minion Blind: All enemies’ Minions have -60% accuracy. All enemies’ Mega Minions have -50% accuracy.",
@@ -5592,7 +5606,7 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 804,
+        "originalIndex": 806,
         "name": "Medea",
         "passives": [
             "Effects on Special Skill: 50% chance to perform the following actions when this character casts their Special Skill",
@@ -5602,7 +5616,7 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 805,
+        "originalIndex": 807,
         "name": "Medea C1",
         "passives": [
             "Effects on Special Skill: 50% chance to perform the following actions when this character casts their Special Skill",
@@ -5612,24 +5626,24 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 806,
+        "originalIndex": 808,
         "name": "Melancholia",
         "passives": [
             "Marked by the Old Ones: All damage is reduced by 5% per 10 Insanity for this character up to a maximum reduction of 50%."
         ]
     },
     {
-        "originalIndex": 807,
+        "originalIndex": 809,
         "name": "Mok-Arr",
         "passives": []
     },
     {
-        "originalIndex": 808,
+        "originalIndex": 810,
         "name": "Mok-Arr C1",
         "passives": []
     },
     {
-        "originalIndex": 809,
+        "originalIndex": 811,
         "name": "Morax",
         "passives": [
             "Resist Mana Generation Ailments: This character has innate resistance against status ailments and negative stacks that affect mana generation. Doesn’t apply to status ailments that stop mana generation or steal mana.",
@@ -5637,14 +5651,14 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 810,
+        "originalIndex": 812,
         "name": "Mortewitch",
         "passives": [
             "Dodge Special Damage: This character has a 15% chance to dodge Special Skills that deal damage."
         ]
     },
     {
-        "originalIndex": 811,
+        "originalIndex": 813,
         "name": "Mortimer",
         "passives": [
             "Damage over time on Special: When this character casts their Special Skill, all enemies receive 202 Water damage over 2 turns.",
@@ -5652,21 +5666,21 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 812,
+        "originalIndex": 814,
         "name": "Myztero",
         "passives": [
             "Memorize Status Ailments: This hero has an innate ability to memorize status ailments. The latest 5 status ailments that are cast on the Hero will stay memorized until the Special Skill is cast."
         ]
     },
     {
-        "originalIndex": 813,
+        "originalIndex": 815,
         "name": "Narcisa",
         "passives": [
             "Mana increase reduction: Reduces the amount of mana increased by Special Skill by -80%. The effect applies to all enemies in the battle."
         ]
     },
     {
-        "originalIndex": 814,
+        "originalIndex": 816,
         "name": "Nyx",
         "passives": [
             "Decreased Minion Health: Enemy Minions inherit -50% less Health when summoned.",
@@ -5674,36 +5688,36 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 815,
+        "originalIndex": 817,
         "name": "Obakan",
         "passives": []
     },
     {
-        "originalIndex": 816,
+        "originalIndex": 818,
         "name": "Obakan C1",
         "passives": []
     },
     {
-        "originalIndex": 817,
+        "originalIndex": 819,
         "name": "Obakan C2",
         "passives": []
     },
     {
-        "originalIndex": 818,
+        "originalIndex": 820,
         "name": "Obakan Toon",
         "passives": [
             "Toon: 75% extra chance to resist all status ailments, mana reductions and buff dispels."
         ]
     },
     {
-        "originalIndex": 819,
+        "originalIndex": 821,
         "name": "Obakan Glass",
         "passives": [
             "Glass: 60% extra chance to reflect status ailments back to the attacker."
         ]
     },
     {
-        "originalIndex": 820,
+        "originalIndex": 822,
         "name": "Odile",
         "passives": [
             "Resist Defense Ailments: This character has innate resistance against status ailments that affect defense. Doesn’t apply to status ailments that affect elemental defense.",
@@ -5711,24 +5725,24 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 821,
+        "originalIndex": 823,
         "name": "Ommodus",
         "passives": [
             "Reduce Mana Gain from Special Skills: Reduces the amount of mana increased by Special Skill by -80%. The effect applies to all enemies in the battle."
         ]
     },
     {
-        "originalIndex": 822,
+        "originalIndex": 824,
         "name": "Onyx",
         "passives": []
     },
     {
-        "originalIndex": 823,
+        "originalIndex": 825,
         "name": "Peppermint",
         "passives": []
     },
     {
-        "originalIndex": 824,
+        "originalIndex": 826,
         "name": "Phantom of the Opera",
         "passives": [
             "Heal when status ailment expires or is cleared: This character receives 10% health each time a status ailment expires or is cleansed, removed or reallocated from them. This effect can activate only once per turn.",
@@ -5736,7 +5750,7 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 825,
+        "originalIndex": 827,
         "name": "Phorcys",
         "passives": [
             "Effects on Special Skill: 50% chance to perform the following actions when this character casts their Special Skill",
@@ -5746,7 +5760,7 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 826,
+        "originalIndex": 828,
         "name": "Phorcys C1",
         "passives": [
             "Effects on Special Skill: 50% chance to perform the following actions when this character casts their Special Skill",
@@ -5756,41 +5770,41 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 827,
+        "originalIndex": 829,
         "name": "Phthonus",
         "passives": [
             "Resist Special Skill Blocking: This character has innate resistance against status ailments that block Special Skills."
         ]
     },
     {
-        "originalIndex": 828,
+        "originalIndex": 830,
         "name": "Quartz",
         "passives": []
     },
     {
-        "originalIndex": 829,
+        "originalIndex": 831,
         "name": "Quintus",
         "passives": []
     },
     {
-        "originalIndex": 830,
+        "originalIndex": 832,
         "name": "Quintus C1",
         "passives": []
     },
     {
-        "originalIndex": 831,
+        "originalIndex": 833,
         "name": "Quintus C2",
         "passives": []
     },
     {
-        "originalIndex": 832,
+        "originalIndex": 834,
         "name": "Quintus Toon",
         "passives": [
             "Toon: 75% extra chance to resist all status ailments, mana reductions and buff dispels."
         ]
     },
     {
-        "originalIndex": 833,
+        "originalIndex": 835,
         "name": "Ramona",
         "passives": [
             "Mana Buff on Status Ailment Received: Receives +24% mana generation for 3 turns when this character receives a status ailment or a negative stack.",
@@ -5799,77 +5813,77 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 834,
+        "originalIndex": 836,
         "name": "Rayne",
         "passives": []
     },
     {
-        "originalIndex": 835,
+        "originalIndex": 837,
         "name": "Rochefort",
         "passives": [
             "Damage on Special Skill and Cover Damage: When this character receives damage from Special Skills or in place of a character in Cover, there’s a 60% chance to deal 20% of the received damage to all enemies."
         ]
     },
     {
-        "originalIndex": 836,
+        "originalIndex": 838,
         "name": "Salmon Loki",
         "passives": []
     },
     {
-        "originalIndex": 837,
+        "originalIndex": 839,
         "name": "Salmon Loki C1",
         "passives": []
     },
     {
-        "originalIndex": 838,
+        "originalIndex": 840,
         "name": "Sargasso",
         "passives": []
     },
     {
-        "originalIndex": 839,
+        "originalIndex": 841,
         "name": "Sargasso C1",
         "passives": [
             "Poison on Special Skill: When this character casts their Special Skill, all enemies receive 476 Poison damage over 4 turns."
         ]
     },
     {
-        "originalIndex": 840,
+        "originalIndex": 842,
         "name": "Sartana",
         "passives": []
     },
     {
-        "originalIndex": 841,
+        "originalIndex": 843,
         "name": "Sartana C1",
         "passives": []
     },
     {
-        "originalIndex": 842,
+        "originalIndex": 844,
         "name": "Sartana C2",
         "passives": []
     },
     {
-        "originalIndex": 843,
+        "originalIndex": 845,
         "name": "Sartana Toon",
         "passives": [
             "Toon: 75% extra chance to resist all status ailments, mana reductions and buff dispels."
         ]
     },
     {
-        "originalIndex": 844,
+        "originalIndex": 846,
         "name": "Sartana Glass",
         "passives": [
             "Glass: 60% extra chance to reflect status ailments back to the attacker."
         ]
     },
     {
-        "originalIndex": 845,
+        "originalIndex": 847,
         "name": "Satsui",
         "passives": [
             "Decreased Minion Health: Enemy Minions inherit -50% less Health when summoned."
         ]
     },
     {
-        "originalIndex": 846,
+        "originalIndex": 848,
         "name": "Scath",
         "passives": [
             "Resist Special Skill Blocking: This character has innate resistance against status ailments that block Special Skill.",
@@ -5877,14 +5891,14 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 847,
+        "originalIndex": 849,
         "name": "Senan",
         "passives": [
             "Resist Damage from Status Effects: This charater has innate resistance against incoming damage from status effects."
         ]
     },
     {
-        "originalIndex": 848,
+        "originalIndex": 850,
         "name": "Senan C1",
         "passives": [
             "Resist Damage from Status Effects: This character has innate resistance against incoming damage from status effects.",
@@ -5892,7 +5906,7 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 849,
+        "originalIndex": 851,
         "name": "Serena",
         "passives": [
             "Damage over time on Special: When this character casts their Special Skill, all enemies receive 278 Water damage over 2 turns.",
@@ -5900,14 +5914,14 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 850,
+        "originalIndex": 852,
         "name": "Seshat",
         "passives": [
             "Resist mana reduction: This character has innate resistance against mana reduction."
         ]
     },
     {
-        "originalIndex": 851,
+        "originalIndex": 853,
         "name": "Seshat C1",
         "passives": [
             "Resist mana reduction: This character has innate resistance against mana reduction.",
@@ -5915,7 +5929,7 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 852,
+        "originalIndex": 854,
         "name": "Set",
         "passives": [
             "Effects on Special Skill: 70% chance to perform the following actions when this character casts their Special Skill",
@@ -5924,7 +5938,7 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 853,
+        "originalIndex": 855,
         "name": "Set C1",
         "passives": [
             "Effects on Special Skill: 70% chance to perform the following actions when this character casts their Special Skill",
@@ -5935,7 +5949,7 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 854,
+        "originalIndex": 856,
         "name": "Shacklebolt",
         "passives": [
             "Resist Special Skill Blocking: This character has innate resistance against status ailments that block Special Skill.",
@@ -5943,14 +5957,14 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 855,
+        "originalIndex": 857,
         "name": "Shadowfang",
         "passives": [
             "Decreased Healing: All enemies get -50% healing."
         ]
     },
     {
-        "originalIndex": 856,
+        "originalIndex": 858,
         "name": "Sir Casmir",
         "passives": [
             "Resist Mana Generation Ailments: This character has innate resistance against ailments and negative stacks that affect mana generation. Doesn’t apply to status ailments that stop mana generation or steal mana.",
@@ -5958,7 +5972,7 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 857,
+        "originalIndex": 859,
         "name": "Sneferu",
         "passives": [
             "Effects on special skill: 70% chance to perform the following actions when this character casts their Special Skill",
@@ -5967,7 +5981,7 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 858,
+        "originalIndex": 860,
         "name": "Sneferu C1",
         "passives": [
             "Effects on special skill: 70% chance to perform the following actions when this character casts their Special Skill",
@@ -5978,14 +5992,14 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 859,
+        "originalIndex": 861,
         "name": "Swiftpaw",
         "passives": [
             "Decreased Healing: All enemies get -50% healing."
         ]
     },
     {
-        "originalIndex": 860,
+        "originalIndex": 862,
         "name": "Tamlin",
         "passives": [
             "Resist Insanity: This character has innate resistance against Insanity.",
@@ -5994,7 +6008,7 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 861,
+        "originalIndex": 863,
         "name": "Tenebrae",
         "passives": [
             "Resist Special Skill Blocking: This character has innate resistance against status ailments that block Special Skill.",
@@ -6004,19 +6018,19 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 862,
+        "originalIndex": 864,
         "name": "Thoth-Amun",
         "passives": []
     },
     {
-        "originalIndex": 863,
+        "originalIndex": 865,
         "name": "Thoth-Amun C1",
         "passives": [
             "Dispel on Special Skill: When this character casts their Special Skill, they dispel the newest status effect buff from all enemies."
         ]
     },
     {
-        "originalIndex": 864,
+        "originalIndex": 866,
         "name": "Thrivaldi",
         "passives": [
             "Empowered Resist Frost: This character has innate resistance against Frost and gains 450 boosted health and 5% mana each time they resist.",
@@ -6026,14 +6040,14 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 865,
+        "originalIndex": 867,
         "name": "Tora",
         "passives": [
             "Decreased Minion Health: Enemy Minions inherit -50% less Health when summoned."
         ]
     },
     {
-        "originalIndex": 866,
+        "originalIndex": 868,
         "name": "Turgruk",
         "passives": [
             "Increased special skill damage: The first time this character casts a Special Skill that deals damage, an additional 50% is added to its power.",
@@ -6041,14 +6055,14 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 867,
+        "originalIndex": 869,
         "name": "Tweedles",
         "passives": [
             "Resist Damage from Status Effects: This charater has innate resistance against incoming damage from status effects."
         ]
     },
     {
-        "originalIndex": 868,
+        "originalIndex": 870,
         "name": "Ultrox",
         "passives": [
             "Effects on Special Skill: 50% chance to perform the following actions when this character casts their Special Skill",
@@ -6057,7 +6071,7 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 869,
+        "originalIndex": 871,
         "name": "Ultrox C1",
         "passives": [
             "Effects on Special Skill: 50% chance to perform the following actions when this character casts their Special Skill",
@@ -6067,31 +6081,31 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 870,
+        "originalIndex": 872,
         "name": "Umbria",
         "passives": [
             "Cleanse on Minion Death: This character is cleansed of status ailments when Minion owned by them is destroyed. "
         ]
     },
     {
-        "originalIndex": 871,
+        "originalIndex": 873,
         "name": "Umeko",
         "passives": [
             "Decreased Minion Health: Enemy Minions inherit -50% less Health when summoned."
         ]
     },
     {
-        "originalIndex": 872,
+        "originalIndex": 874,
         "name": "Ursena",
         "passives": []
     },
     {
-        "originalIndex": 873,
+        "originalIndex": 875,
         "name": "Ursena C1",
         "passives": []
     },
     {
-        "originalIndex": 874,
+        "originalIndex": 876,
         "name": "Uthragan",
         "passives": [
             "Mana Generation Stopping: This character has innate resistance against status ailments that stop mana generation.",
@@ -6099,14 +6113,14 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 875,
+        "originalIndex": 877,
         "name": "Uwe",
         "passives": [
             "Gargoile’s Softskin: Every time this Gargoyle casts a Special Skill, their Softskin activates. The next 5 times they receive damage, it is reduced by -90%, and they resist all status ailment and mana reduction. This effect can’t be dispelled."
         ]
     },
     {
-        "originalIndex": 876,
+        "originalIndex": 878,
         "name": "Vander",
         "passives": [
             "Troop Mastery:",
@@ -6117,7 +6131,7 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 877,
+        "originalIndex": 879,
         "name": "Vard",
         "passives": [
             "Superior Bypass Minions: All damage done by this character bypasses Minions and Mega Minions.",
@@ -6126,19 +6140,19 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 878,
+        "originalIndex": 880,
         "name": "Victor",
         "passives": [
             "Steal Buff: When this character casts their Special Skill, they have a 50% chance to steal the newest dispellable buff from a random enemy that has buffs. If no enemy has buffs, deals 70% damage to all enemies."
         ]
     },
     {
-        "originalIndex": 879,
+        "originalIndex": 881,
         "name": "Victor C1",
         "passives": []
     },
     {
-        "originalIndex": 880,
+        "originalIndex": 882,
         "name": "Violet Potts",
         "passives": [
             "Resist Mana reduction: This character has an innate resistance against mana Reduction.",
@@ -6146,7 +6160,7 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 881,
+        "originalIndex": 883,
         "name": "Viscaro",
         "passives": [
             "Cursed sapling summoner: When an enemy summons any minions by special skill, this character summons a Cursed Sapling Fiend for that enemy.",
@@ -6154,12 +6168,12 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 882,
+        "originalIndex": 884,
         "name": "Viscount Cluckwood",
         "passives": []
     },
     {
-        "originalIndex": 883,
+        "originalIndex": 885,
         "name": "Voidstar",
         "passives": [
             "Resist Poison: This character has innate resistance against Poison.",
@@ -6167,7 +6181,7 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 884,
+        "originalIndex": 886,
         "name": "Von Rothbart",
         "passives": [
             "Resist Defense Ailments: This character has innate resistance against status ailments that affect defense. Doesn’t apply to status ailments that affect elemental defense.",
@@ -6175,7 +6189,7 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 885,
+        "originalIndex": 887,
         "name": "Xie Zi Jing",
         "passives": [
             "Mana on Buff Received: This character has a 50% chance to gain 10% mana when they receive a buff or possitive stack.",
@@ -6183,19 +6197,19 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 886,
+        "originalIndex": 888,
         "name": "Xiong Shanjun",
         "passives": []
     },
     {
-        "originalIndex": 887,
+        "originalIndex": 889,
         "name": "Xnolphod",
         "passives": [
             "Decrease Ailment Duration: Duration of the first 3 status ailments this character receives from Special Skill is decreased by 1 turn."
         ]
     },
     {
-        "originalIndex": 888,
+        "originalIndex": 890,
         "name": "Xnolphod C1",
         "passives": [
             "Decrease Ailment Duration: Duration of the first 3 status ailments this character receives from Special Skill is decreased by 1 turn.",
@@ -6203,7 +6217,7 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 889,
+        "originalIndex": 891,
         "name": "Ysabel",
         "passives": [
             "Minion Blind: All enemies’ Minions have -60% accuracy. All enemies’ Mega Minions have -50% accuracy.",
@@ -6212,7 +6226,7 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 890,
+        "originalIndex": 892,
         "name": "Zed",
         "passives": [
             "Resist Blind: This character has innate resistance against status ailments that affect accuracy. Doesn’t apply to original status effects from allies.",
@@ -6220,68 +6234,68 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 891,
+        "originalIndex": 893,
         "name": "Zulag",
         "passives": [
             "Resist Sand Damage: This character has innate resistance against Sand damage."
         ]
     },
     {
-        "originalIndex": 892,
+        "originalIndex": 894,
         "name": "Sharan",
         "passives": []
     },
     {
-        "originalIndex": 893,
+        "originalIndex": 895,
         "name": "Tudan",
         "passives": []
     },
     {
-        "originalIndex": 894,
+        "originalIndex": 896,
         "name": "Farid",
         "passives": []
     },
     {
-        "originalIndex": 895,
+        "originalIndex": 897,
         "name": "Jill",
         "passives": []
     },
     {
-        "originalIndex": 896,
+        "originalIndex": 898,
         "name": "Shaarkot",
         "passives": []
     },
     {
-        "originalIndex": 897,
+        "originalIndex": 899,
         "name": "Zudak",
         "passives": []
     },
     {
-        "originalIndex": 898,
+        "originalIndex": 900,
         "name": "Azar",
         "passives": []
     },
     {
-        "originalIndex": 899,
+        "originalIndex": 901,
         "name": "Azar C1",
         "passives": []
     },
     {
-        "originalIndex": 900,
+        "originalIndex": 902,
         "name": "Azar Toon",
         "passives": [
             "Toon: 75% extra chance to resist all status ailments, mana reductions and buff dispels."
         ]
     },
     {
-        "originalIndex": 901,
+        "originalIndex": 903,
         "name": "Azar Glass",
         "passives": [
             "Glass: 60% extra chance to reflect status ailments back to the attacker."
         ]
     },
     {
-        "originalIndex": 902,
+        "originalIndex": 904,
         "name": "Bagreg",
         "passives": [
             "Effects on Special Skill: 50% chance to perform the following actions when this character casts their Special Skill",
@@ -6290,7 +6304,7 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 903,
+        "originalIndex": 905,
         "name": "Bagreg C1",
         "passives": [
             "Effects on Special Skill: 50% chance to perform the following actions when this character casts their Special Skill",
@@ -6300,7 +6314,7 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 904,
+        "originalIndex": 906,
         "name": "Basil",
         "passives": [
             "Damage over time on special: When this character casts their Special Skill, they give a Hunter’s Mark on a random enemy. The target receives 150 damage over 3 turns. If a target already has this effect, the duration will be refreshed and the damage will be increased by 150, up to 1500 damage in total.",
@@ -6308,12 +6322,12 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 905,
+        "originalIndex": 907,
         "name": "Bauchan",
         "passives": []
     },
     {
-        "originalIndex": 906,
+        "originalIndex": 908,
         "name": "Boots",
         "passives": [
             "Effects on Special Skill: 50% chance to perform the following actions when this character casts their Special Skill.",
@@ -6322,12 +6336,12 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 907,
+        "originalIndex": 909,
         "name": "Buster",
         "passives": []
     },
     {
-        "originalIndex": 908,
+        "originalIndex": 910,
         "name": "Dante",
         "passives": [
             "Decreased Minion Health: Enemy Minions inherit -50% less Health when summoned.",
@@ -6335,48 +6349,48 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 909,
+        "originalIndex": 911,
         "name": "Ei-Dunn",
         "passives": []
     },
     {
-        "originalIndex": 910,
+        "originalIndex": 912,
         "name": "Ei-Dunn C1",
         "passives": []
     },
     {
-        "originalIndex": 911,
+        "originalIndex": 913,
         "name": "Fawn",
         "passives": [
             "Health Recovery on Buff Received - This character recovers 5% health when  they receive a buff or a positive stack."
         ]
     },
     {
-        "originalIndex": 912,
+        "originalIndex": 914,
         "name": "Hawkmoon",
         "passives": []
     },
     {
-        "originalIndex": 913,
+        "originalIndex": 915,
         "name": "Hawkmoon C1",
         "passives": []
     },
     {
-        "originalIndex": 914,
+        "originalIndex": 916,
         "name": "Hawkmoon Toon",
         "passives": [
             "Toon: 75% extra chance to resist all status ailments, mana reductions and buff dispels."
         ]
     },
     {
-        "originalIndex": 915,
+        "originalIndex": 917,
         "name": "Hawkmoon Glass",
         "passives": [
             "Glass: 60% extra chance to reflect status ailments back to the attacker."
         ]
     },
     {
-        "originalIndex": 916,
+        "originalIndex": 918,
         "name": "Helgi",
         "passives": [
             "Empowered Resist Burn: This character has innate resistance against Burn and gains 450 boosted health and 5% mana each time they resist.",
@@ -6387,43 +6401,43 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 917,
+        "originalIndex": 919,
         "name": "Jahangir",
         "passives": []
     },
     {
-        "originalIndex": 918,
+        "originalIndex": 920,
         "name": "Jahangir C1",
         "passives": []
     },
     {
-        "originalIndex": 919,
+        "originalIndex": 921,
         "name": "Jahangir Toon",
         "passives": [
             "Toon: 75% extra chance to resist all status ailments, mana reductions and buff dispels."
         ]
     },
     {
-        "originalIndex": 920,
+        "originalIndex": 922,
         "name": "Jahangir Glass",
         "passives": [
             "Glass: 60% extra chance to reflect status ailments back to the attacker."
         ]
     },
     {
-        "originalIndex": 921,
+        "originalIndex": 923,
         "name": "Kornel",
         "passives": [
             "Damage on special: When this character casts their Special Skill, they have a 50% chance to deal 100% damage to all enemies. If the Special Skill is fully charged, the chance is 100%."
         ]
     },
     {
-        "originalIndex": 922,
+        "originalIndex": 924,
         "name": "Li",
         "passives": []
     },
     {
-        "originalIndex": 923,
+        "originalIndex": 925,
         "name": "Liu Tang",
         "passives": [
             "Cleanse on Critical Special Attack: When this character scores a critical hit with their Special Skill, they safely cleanse the latest cleansable status effect from all allies. This effect can activate once per turn.",
@@ -6435,53 +6449,53 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 924,
+        "originalIndex": 926,
         "name": "Namahage",
         "passives": []
     },
     {
-        "originalIndex": 925,
+        "originalIndex": 927,
         "name": "Nashgar",
         "passives": []
     },
     {
-        "originalIndex": 926,
+        "originalIndex": 928,
         "name": "Nashgar C1",
         "passives": []
     },
     {
-        "originalIndex": 927,
+        "originalIndex": 929,
         "name": "Nashgar Toon",
         "passives": [
             "Toon: 75% extra chance to resist all status ailments, mana reductions and buff dispels."
         ]
     },
     {
-        "originalIndex": 928,
+        "originalIndex": 930,
         "name": "Nashgar Glass",
         "passives": [
             "Glass: 60% extra chance to reflect status ailments back to the attacker."
         ]
     },
     {
-        "originalIndex": 929,
+        "originalIndex": 931,
         "name": "Phoenicus",
         "passives": []
     },
     {
-        "originalIndex": 930,
+        "originalIndex": 932,
         "name": "Rosepetite",
         "passives": [
             "Dodge Special Damage: This character has a 15% chance to dodge Special Skills that deal damage."
         ]
     },
     {
-        "originalIndex": 931,
+        "originalIndex": 933,
         "name": "Rudolph",
         "passives": []
     },
     {
-        "originalIndex": 932,
+        "originalIndex": 934,
         "name": "Rufus",
         "passives": [
             "When a Minion is summoned to any ally, this character gains 5% health and 5% mana. This effect can activate only once per turn.",
@@ -6489,17 +6503,17 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 933,
+        "originalIndex": 935,
         "name": "Skrekok",
         "passives": []
     },
     {
-        "originalIndex": 934,
+        "originalIndex": 936,
         "name": "Squire Wabbit",
         "passives": []
     },
     {
-        "originalIndex": 935,
+        "originalIndex": 937,
         "name": "Starswift",
         "passives": [
             "Resist Poison: This character has innate resistance against Poison.",
@@ -6507,26 +6521,26 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 936,
+        "originalIndex": 938,
         "name": "Sudri",
         "passives": []
     },
     {
-        "originalIndex": 937,
+        "originalIndex": 939,
         "name": "Vollermork",
         "passives": [
             "Start Battle with Mana: This character receives 20% mana at the start of the battle."
         ]
     },
     {
-        "originalIndex": 938,
+        "originalIndex": 940,
         "name": "Vollermork C1",
         "passives": [
             "Start Battle with Mana: This character receives 20% mana at the start of the battle."
         ]
     },
     {
-        "originalIndex": 939,
+        "originalIndex": 941,
         "name": "Waqas",
         "passives": [
             "Effects on Special Skill: 70% chance to perform the following actions when this character casts their Special Skill",
@@ -6535,7 +6549,7 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 940,
+        "originalIndex": 942,
         "name": "Waqas C1",
         "passives": [
             "Effects on Special Skill: 70% chance to perform the following actions when this character casts their Special Skill",
@@ -6546,135 +6560,135 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 941,
+        "originalIndex": 943,
         "name": "Aodhan",
         "passives": [
             "Resist Damage from Status Effects: This charater has innate resistance against incoming damage from status effects."
         ]
     },
     {
-        "originalIndex": 942,
+        "originalIndex": 944,
         "name": "Boldtusk",
         "passives": []
     },
     {
-        "originalIndex": 943,
+        "originalIndex": 945,
         "name": "Boldtusk C1",
         "passives": []
     },
     {
-        "originalIndex": 944,
+        "originalIndex": 946,
         "name": "Boldtusk C2",
         "passives": []
     },
     {
-        "originalIndex": 945,
+        "originalIndex": 947,
         "name": "Boldtusk Toon",
         "passives": [
             "Toon: 75% extra chance to resist all status ailments, mana reductions and buff dispels."
         ]
     },
     {
-        "originalIndex": 946,
+        "originalIndex": 948,
         "name": "Boldtusk Glass",
         "passives": [
             "Glass: 60% extra chance to reflect status ailments back to the attacker."
         ]
     },
     {
-        "originalIndex": 947,
+        "originalIndex": 949,
         "name": "Carol",
         "passives": []
     },
     {
-        "originalIndex": 948,
+        "originalIndex": 950,
         "name": "Cillian",
         "passives": [
             "Resist Damage from Status Effects: This charater has innate resistance against incoming damage from status effects."
         ]
     },
     {
-        "originalIndex": 949,
+        "originalIndex": 951,
         "name": "Colen",
         "passives": []
     },
     {
-        "originalIndex": 950,
+        "originalIndex": 952,
         "name": "Colen C1",
         "passives": []
     },
     {
-        "originalIndex": 951,
+        "originalIndex": 953,
         "name": "Colen C2",
         "passives": []
     },
     {
-        "originalIndex": 952,
+        "originalIndex": 954,
         "name": "Colen Toon",
         "passives": [
             "Toon: 75% extra chance to resist all status ailments, mana reductions and buff dispels."
         ]
     },
     {
-        "originalIndex": 953,
+        "originalIndex": 955,
         "name": "Colen Glass",
         "passives": [
             "Glass: 60% extra chance to reflect status ailments back to the attacker."
         ]
     },
     {
-        "originalIndex": 954,
+        "originalIndex": 956,
         "name": "Eichbelborg",
         "passives": []
     },
     {
-        "originalIndex": 955,
+        "originalIndex": 957,
         "name": "Ferant",
         "passives": []
     },
     {
-        "originalIndex": 956,
+        "originalIndex": 958,
         "name": "Ferant C1",
         "passives": [
             "Ability: Increased Status Effect Duration Chance to increase the duration of cast status effects. * +1 turn: 75% * +2 turns: 25%"
         ]
     },
     {
-        "originalIndex": 957,
+        "originalIndex": 959,
         "name": "Gormek",
         "passives": []
     },
     {
-        "originalIndex": 958,
+        "originalIndex": 960,
         "name": "Gormek C1",
         "passives": []
     },
     {
-        "originalIndex": 959,
+        "originalIndex": 961,
         "name": "Gormek C2",
         "passives": []
     },
     {
-        "originalIndex": 960,
+        "originalIndex": 962,
         "name": "Gormek Toon",
         "passives": [
             "Toon: 75% extra chance to resist all status ailments, mana reductions and buff dispels."
         ]
     },
     {
-        "originalIndex": 961,
+        "originalIndex": 963,
         "name": "Gormek Glass",
         "passives": [
             "Glass: 60% extra chance to reflect status ailments back to the attacker."
         ]
     },
     {
-        "originalIndex": 962,
+        "originalIndex": 964,
         "name": "Guardian Falcon",
         "passives": []
     },
     {
-        "originalIndex": 963,
+        "originalIndex": 965,
         "name": "Itham",
         "passives": [
             "Damage over time on Special: When this character casts their Special Skill, all enemies receive 160 Water damage over 2 turns.",
@@ -6682,7 +6696,7 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 964,
+        "originalIndex": 966,
         "name": "Junaid",
         "passives": [
             "Effects on Special Skill: 50% chance to perform the following actions when this character casts their Special Skill",
@@ -6691,7 +6705,7 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 965,
+        "originalIndex": 967,
         "name": "Junaid C1",
         "passives": [
             "Effects on Special Skill: 50% chance to perform the following actions when this character casts their Special Skill",
@@ -6702,50 +6716,50 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 966,
+        "originalIndex": 968,
         "name": "Kelile",
         "passives": []
     },
     {
-        "originalIndex": 967,
+        "originalIndex": 969,
         "name": "Kelile C1",
         "passives": []
     },
     {
-        "originalIndex": 968,
+        "originalIndex": 970,
         "name": "Kelile C2",
         "passives": []
     },
     {
-        "originalIndex": 969,
+        "originalIndex": 971,
         "name": "Kelile Toon",
         "passives": [
             "Toon: 75% extra chance to resist all status ailments, mana reductions and buff dispels."
         ]
     },
     {
-        "originalIndex": 970,
+        "originalIndex": 972,
         "name": "Kelile Glass",
         "passives": [
             "Glass: 60% extra chance to reflect status ailments back to the attacker."
         ]
     },
     {
-        "originalIndex": 971,
+        "originalIndex": 973,
         "name": "Lemminkainen",
         "passives": [
             "Power of Sisu: When this character starts a turn with low health for the first time during a battle, they recover 15% health and receive 15% mana."
         ]
     },
     {
-        "originalIndex": 972,
+        "originalIndex": 974,
         "name": "Lemminkainen C1",
         "passives": [
             "Power of Sisu: When this character starts a turn with low health for the first time during a battle, they recover 15% health and receive 15% mana."
         ]
     },
     {
-        "originalIndex": 973,
+        "originalIndex": 975,
         "name": "Lucy",
         "passives": [
             "When this character casts their Special Skill, all enemies get -5% mana  generation stack. If the Special Skill is fully charged, all enemies get  two stacks. An enemy can have up to 10 stacks.",
@@ -6753,21 +6767,21 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 974,
+        "originalIndex": 976,
         "name": "Mack",
         "passives": [
             "Increase Buff Duration: Duration of the first 3 buff this hero receives from Special Skills is increased by 1 turn."
         ]
     },
     {
-        "originalIndex": 975,
+        "originalIndex": 977,
         "name": "Mack C1",
         "passives": [
             "Increase Buff Duration: Duration of the first 3 buff this hero receives from Special Skills is increased by 1 turn."
         ]
     },
     {
-        "originalIndex": 976,
+        "originalIndex": 978,
         "name": "Maheegan",
         "passives": [
             "When this character casts their Special Skill, they give a Hunter’s Mark on a random enemy. The target receives 150 damage over 3 turns. If a target already has this effect, the duration will be refreshed and the damage will be increased by 150, up to 1500 damage in total.",
@@ -6775,7 +6789,7 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 977,
+        "originalIndex": 979,
         "name": "Manpip",
         "passives": [
             "Flight Momentum: If this character has any amount of Flight Momentum, they receive:",
@@ -6786,7 +6800,7 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 978,
+        "originalIndex": 980,
         "name": "Nova",
         "passives": [
             "Troop Mastery:",
@@ -6797,7 +6811,7 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 979,
+        "originalIndex": 981,
         "name": "Raul",
         "passives": [
             "Heal when status ailment expires or is cleared: This character receives 10%  health each time a status ailment expires or is cleansed, removed or  reallocated from them. This effect can activate only once per turn.",
@@ -6805,112 +6819,112 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 980,
+        "originalIndex": 982,
         "name": "Rokkamush",
         "passives": [
             "Decrease Ailment Duration: Duration of the first 3 status ailments this character receives from Special Skill is decreased by 1 turn."
         ]
     },
     {
-        "originalIndex": 981,
+        "originalIndex": 983,
         "name": "Rokkamush C1",
         "passives": [
             "Decrease Ailment Duration: Duration of the first 3 status ailments this character receives from Special Skill is decreased by 1 turn."
         ]
     },
     {
-        "originalIndex": 982,
+        "originalIndex": 984,
         "name": "Scarlett",
         "passives": []
     },
     {
-        "originalIndex": 983,
+        "originalIndex": 985,
         "name": "Scarlett C1",
         "passives": []
     },
     {
-        "originalIndex": 984,
+        "originalIndex": 986,
         "name": "Scarlett C2",
         "passives": []
     },
     {
-        "originalIndex": 985,
+        "originalIndex": 987,
         "name": "Scarlett Toon",
         "passives": [
             "Toon: 75% extra chance to resist all status ailments, mana reductions and buff dispels."
         ]
     },
     {
-        "originalIndex": 986,
+        "originalIndex": 988,
         "name": "Shadereave",
         "passives": []
     },
     {
-        "originalIndex": 987,
+        "originalIndex": 989,
         "name": "Shale",
         "passives": []
     },
     {
-        "originalIndex": 988,
+        "originalIndex": 990,
         "name": "Sir Lancelot",
         "passives": []
     },
     {
-        "originalIndex": 989,
+        "originalIndex": 991,
         "name": "Sumitomo",
         "passives": []
     },
     {
-        "originalIndex": 990,
+        "originalIndex": 992,
         "name": "Sumitomo C1",
         "passives": []
     },
     {
-        "originalIndex": 991,
+        "originalIndex": 993,
         "name": "Sumle",
         "passives": []
     },
     {
-        "originalIndex": 992,
+        "originalIndex": 994,
         "name": "Sumle C1",
         "passives": []
     },
     {
-        "originalIndex": 993,
+        "originalIndex": 995,
         "name": "Sun Shangxiang",
         "passives": []
     },
     {
-        "originalIndex": 994,
+        "originalIndex": 996,
         "name": "Vonreine",
         "passives": [
             "Gargoyle’s Stoneskin: Every time this Gargoyle casts a Special Skill, their Stoneskin hardens. The next 4 times they receive damage, it is reduced by -90%, and they resist all status ailment and mana reduction. This effect can’t be dispelled."
         ]
     },
     {
-        "originalIndex": 995,
+        "originalIndex": 997,
         "name": "Wilbur",
         "passives": []
     },
     {
-        "originalIndex": 996,
+        "originalIndex": 998,
         "name": "Wilbur C1",
         "passives": []
     },
     {
-        "originalIndex": 997,
+        "originalIndex": 999,
         "name": "Zhabog",
         "passives": [
             "Revival chance reduction: The chance of revival is reduced for all enemies in the battle. The chance is 20% of the original value."
         ]
     },
     {
-        "originalIndex": 998,
+        "originalIndex": 1000,
         "name": "Zhou Yu",
         "passives": []
     },
     {
-        "originalIndex": 999,
+        "originalIndex": 1001,
         "name": "Zhou Yu C1",
         "passives": [
             "Unstoppable Minions:",
@@ -6920,14 +6934,14 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1000,
+        "originalIndex": 1002,
         "name": "Abigail",
         "passives": [
             "Marked by the Old Ones: All damage is reduced by 5% per 10 Insanity for this character up to a maximum reduction of 50%."
         ]
     },
     {
-        "originalIndex": 1001,
+        "originalIndex": 1003,
         "name": "Aethslegaur",
         "passives": [
             "Empowered Resist Burn: This character has innate resistance against Burn and gains 450 boosted health and 5% mana each time they resist.",
@@ -6938,28 +6952,28 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1002,
+        "originalIndex": 1004,
         "name": "Alucard",
         "passives": [
             "Steal Buff: When this character casts their Special Skill, they have a 50% chance to steal the newest dispellable buff from a random enemy that has buffs. If no enemy has buffs, deals 70% damage to all enemies."
         ]
     },
     {
-        "originalIndex": 1003,
+        "originalIndex": 1005,
         "name": "Alucard C1",
         "passives": [
             "Steal Buff: When this character casts their Special Skill, they have a 50% chance to steal the newest dispellable buff from a random enemy that has buffs. If no enemy has buffs, deals 70% damage to all enemies."
         ]
     },
     {
-        "originalIndex": 1004,
+        "originalIndex": 1006,
         "name": "Amber",
         "passives": [
             "Steal Buff: When this character casts their Special Skill, they have a 50% chance to steal the newest dispellable buff from a random enemy that has buffs. If no enemy has buffs, deals 70% damage to all enemies."
         ]
     },
     {
-        "originalIndex": 1005,
+        "originalIndex": 1007,
         "name": "Andy Jay",
         "passives": [
             "Damage over time on Special: When this character casts their Special Skill, all enemies receive 292 Water damage over 2 turns.",
@@ -6967,21 +6981,21 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1006,
+        "originalIndex": 1008,
         "name": "Anzogh",
         "passives": [
             "Resist Mana Generation Ailments: This character has an innate resistance against status ailments and negative stacks that affect mana generation. Doesn't apply to status ailments that stop mana generation or steal mana."
         ]
     },
     {
-        "originalIndex": 1007,
+        "originalIndex": 1009,
         "name": "Aradia",
         "passives": [
             "Cleanse on Minion Death: This character is cleansed of status ailments when Minion owned by them is destroyed. "
         ]
     },
     {
-        "originalIndex": 1008,
+        "originalIndex": 1010,
         "name": "Araminta",
         "passives": [
             "Minion Blind: All enemies’ Minions have -60% accuracy. All enemies’ Mega Minions have -50% accuracy.",
@@ -6990,19 +7004,19 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1009,
+        "originalIndex": 1011,
         "name": "Ares",
         "passives": []
     },
     {
-        "originalIndex": 1010,
+        "originalIndex": 1012,
         "name": "Ares C1",
         "passives": [
             "Cleanse on Special: When this character casts their Special Skill, they cleanse the newest status ailment from all allies."
         ]
     },
     {
-        "originalIndex": 1011,
+        "originalIndex": 1013,
         "name": "Ascension Mimic",
         "passives": [
             "Perfect Accuracy: This character’s Special Skill never misses its targets.",
@@ -7019,7 +7033,7 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1012,
+        "originalIndex": 1014,
         "name": "Ash",
         "passives": [
             "Troop Mastery:",
@@ -7030,58 +7044,58 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1013,
+        "originalIndex": 1015,
         "name": "Asterius",
         "passives": []
     },
     {
-        "originalIndex": 1014,
+        "originalIndex": 1016,
         "name": "Aurum",
         "passives": [
             "Decreased Minion Health: Enemy Minions inherit -50% less Health when summoned."
         ]
     },
     {
-        "originalIndex": 1015,
+        "originalIndex": 1017,
         "name": "Azlar",
         "passives": []
     },
     {
-        "originalIndex": 1016,
+        "originalIndex": 1018,
         "name": "Azlar C1",
         "passives": []
     },
     {
-        "originalIndex": 1017,
+        "originalIndex": 1019,
         "name": "Azlar C2",
         "passives": []
     },
     {
-        "originalIndex": 1018,
+        "originalIndex": 1020,
         "name": "Azlar Toon",
         "passives": [
             "Toon: 75% extra chance to resist all status ailments, mana reductions and buff dispels."
         ]
     },
     {
-        "originalIndex": 1019,
+        "originalIndex": 1021,
         "name": "Azlar Glass",
         "passives": [
             "Glass: 60% extra chance to reflect status ailments back to the attacker."
         ]
     },
     {
-        "originalIndex": 1020,
+        "originalIndex": 1022,
         "name": "Baldur",
         "passives": []
     },
     {
-        "originalIndex": 1021,
+        "originalIndex": 1023,
         "name": "Baldur C1",
         "passives": []
     },
     {
-        "originalIndex": 1022,
+        "originalIndex": 1024,
         "name": "Barkley",
         "passives": [
             "Wrath of Pets: When a Fiend is summoned to any enemy, this character deals 85% damage to all enemies. This effect can activate only once per turn.",
@@ -7089,14 +7103,14 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1023,
+        "originalIndex": 1025,
         "name": "Bearnadette",
         "passives": [
             "Health Recovery on Buff Received: This character recovers 5% health when they receive a buff or a positive stack."
         ]
     },
     {
-        "originalIndex": 1024,
+        "originalIndex": 1026,
         "name": "Beowulf",
         "passives": [
             "Perfect Accuracy: This character’s Special Skill never mises its target.",
@@ -7105,7 +7119,7 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1025,
+        "originalIndex": 1027,
         "name": "Bhima",
         "passives": [
             "Mana on Damage Received:",
@@ -7115,24 +7129,24 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1026,
+        "originalIndex": 1028,
         "name": "Black Caesar",
         "passives": [
             "Resist Damage from Status Effects: This charater has innate resistance against incoming damage from status effects."
         ]
     },
     {
-        "originalIndex": 1027,
+        "originalIndex": 1029,
         "name": "Black Knight",
         "passives": []
     },
     {
-        "originalIndex": 1028,
+        "originalIndex": 1030,
         "name": "Black Knight C1",
         "passives": []
     },
     {
-        "originalIndex": 1029,
+        "originalIndex": 1031,
         "name": "Blossom",
         "passives": [
             "Resist Special Skill Blocking: This character has innate resistance against status ailments that block Special Skill.",
@@ -7140,7 +7154,7 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1030,
+        "originalIndex": 1032,
         "name": "Bonecrusher",
         "passives": [
             "Hunter’s Vigor: When this character casts their Special Skill, they get +20% attack for 3 turns. This effect can be active in addition to other effects that alter attack.",
@@ -7148,7 +7162,7 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1031,
+        "originalIndex": 1033,
         "name": "Brimstone",
         "passives": [
             "Resist Special Skill Blocking: This character has innate resistance against status ailments that block Special Skill.",
@@ -7159,19 +7173,19 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1032,
+        "originalIndex": 1034,
         "name": "Captain Kestrel",
         "passives": []
     },
     {
-        "originalIndex": 1033,
+        "originalIndex": 1035,
         "name": "Captain Nemo",
         "passives": [
             "This character receives 20% mana at the start of the battle."
         ]
     },
     {
-        "originalIndex": 1034,
+        "originalIndex": 1036,
         "name": "Captain Nemo C1",
         "passives": [
             "Start Battle with Mana: This character receives 20% mana at the start of the battle.",
@@ -7179,21 +7193,21 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1035,
+        "originalIndex": 1037,
         "name": "Cardinal Richelieu",
         "passives": [
             "Damage on Special Skill: When this character receives damage from Special Skills or in place of a character in Cover, there’s a 60% chance to deal 20% of the received damage on all enemies."
         ]
     },
     {
-        "originalIndex": 1036,
+        "originalIndex": 1038,
         "name": "Carmenta",
         "passives": [
             "Cleanse on Minion Death: This character is cleansed of status ailments when Minion owned by them is destroyed. "
         ]
     },
     {
-        "originalIndex": 1037,
+        "originalIndex": 1039,
         "name": "Ceris",
         "passives": [
             "Superior Bypass Minions: All damage done by this character bypasses Minions and Mega Minions.",
@@ -7202,7 +7216,7 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1038,
+        "originalIndex": 1040,
         "name": "Charlotta",
         "passives": [
             "Resist Attack Ailments: This character has innate resistance against status ailments that affect attack.",
@@ -7210,7 +7224,7 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1039,
+        "originalIndex": 1041,
         "name": "Charmione",
         "passives": [
             "Slime Minion Upon Defeat: When this character is defeated, they summon Slime Mega Minions to nearby allies with 50% HP and 40% attack inherited from this character.",
@@ -7218,7 +7232,7 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1040,
+        "originalIndex": 1042,
         "name": "Chomper",
         "passives": [
             "Wrath of Pets: When a Fiend is summoned to any enemy, this character deals 85% damage to all enemies. This effect can activate only once per turn.",
@@ -7226,21 +7240,21 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1041,
+        "originalIndex": 1043,
         "name": "Chunkyroi",
         "passives": [
             "Dodge Special Damage: This character has a 15% chance to dodge Special Skills that deal damage."
         ]
     },
     {
-        "originalIndex": 1042,
+        "originalIndex": 1044,
         "name": "Cinderella",
         "passives": [
             "Resist Damage from Status Effects: This charater has innate resistance against incoming damage from status effects."
         ]
     },
     {
-        "originalIndex": 1043,
+        "originalIndex": 1045,
         "name": "Cleaver",
         "passives": [
             "Special Skill Damage Reduction: This character has a 10% chance to drop the direct damage received from Special Skills to 1.",
@@ -7248,33 +7262,33 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1044,
+        "originalIndex": 1046,
         "name": "Cookie",
         "passives": []
     },
     {
-        "originalIndex": 1045,
+        "originalIndex": 1047,
         "name": "Cupido",
         "passives": [
             "Resist Special Skill Blocking: This character has innate resistance against status ailments that block Special Skills."
         ]
     },
     {
-        "originalIndex": 1046,
+        "originalIndex": 1048,
         "name": "D Artagnan",
         "passives": [
             "Damage on Special Skill and Cover Damage: When this character receives damage from Special Skills or in place of a character in Cover, there’s a 60% chance of deal 20% of the received damage on all enemies."
         ]
     },
     {
-        "originalIndex": 1047,
+        "originalIndex": 1049,
         "name": "Daemon",
         "passives": [
             "Health Recovery on Buff Received: This character recovers 5% health when they receive a buff or a positive stack."
         ]
     },
     {
-        "originalIndex": 1048,
+        "originalIndex": 1050,
         "name": "Dima",
         "passives": [
             "Resist Mana reduction: This character has an innate resistance against mana reduction.",
@@ -7282,7 +7296,7 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1049,
+        "originalIndex": 1051,
         "name": "Domiventus",
         "passives": [
             "Effects on Special Skill: 50% chance to perform the following actions when this character casts their Special Skill:",
@@ -7291,7 +7305,7 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1050,
+        "originalIndex": 1052,
         "name": "Domiventus C1",
         "passives": [
             "Effects on Special Skill: 50% chance to perform the following actions when this character casts their Special Skill:",
@@ -7301,7 +7315,7 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1051,
+        "originalIndex": 1053,
         "name": "Doxan",
         "passives": [
             "Troop Mastery:",
@@ -7312,14 +7326,14 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1052,
+        "originalIndex": 1054,
         "name": "Dunnar Hart",
         "passives": [
             "Revival Chance Reduction: The chance of revival is reduced for all enemies in the battle. The chance is 20% of the original value."
         ]
     },
     {
-        "originalIndex": 1053,
+        "originalIndex": 1055,
         "name": "Ebba",
         "passives": [
             "Special Skill Damage Reduction: This character has a 10% chance to drop the direct damage received from Special Skills to 1.",
@@ -7327,50 +7341,50 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1054,
+        "originalIndex": 1056,
         "name": "El Duque",
         "passives": [
             "Gargoyle’s Stoneskin: Every time this Gargoyle casts a Special Skill, their Stoneskin hardens. The next 2 times they receive damage, it is dropped to 1. This effect can’t be dispelled."
         ]
     },
     {
-        "originalIndex": 1055,
+        "originalIndex": 1057,
         "name": "Elba",
         "passives": [
             "Resist Special Skill Blocking: This character has innate resistance against status ailments that block Special Skills."
         ]
     },
     {
-        "originalIndex": 1056,
+        "originalIndex": 1058,
         "name": "Elena",
         "passives": []
     },
     {
-        "originalIndex": 1057,
+        "originalIndex": 1059,
         "name": "Elena C1",
         "passives": []
     },
     {
-        "originalIndex": 1058,
+        "originalIndex": 1060,
         "name": "Elena C2",
         "passives": []
     },
     {
-        "originalIndex": 1059,
+        "originalIndex": 1061,
         "name": "Elena Toon",
         "passives": [
             "Toon: 75% extra chance to resist all status ailments, mana reductions and buff dispels."
         ]
     },
     {
-        "originalIndex": 1060,
+        "originalIndex": 1062,
         "name": "Elena Glass",
         "passives": [
             "Glass: 60% extra chance to reflect status ailments back to the attacker."
         ]
     },
     {
-        "originalIndex": 1061,
+        "originalIndex": 1063,
         "name": "Eliane",
         "passives": [
             "Resist Burn: This character has innate resistance against Burn.",
@@ -7378,14 +7392,14 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1062,
+        "originalIndex": 1064,
         "name": "Elizabeth",
         "passives": [
             "Increase Buff Duration: Duration of the first 3 buffs this hero receives from Special Skills is increased by 1 turn"
         ]
     },
     {
-        "originalIndex": 1063,
+        "originalIndex": 1065,
         "name": "Elizabeth C1",
         "passives": [
             "Increase Buff Duration: Duration of the first 3 buff this hero receives from Special Skills is increased by 1 turn.",
@@ -7393,26 +7407,26 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1064,
+        "originalIndex": 1066,
         "name": "Ember",
         "passives": [
             "Decreased Healing: All enemies get -50% healing."
         ]
     },
     {
-        "originalIndex": 1065,
+        "originalIndex": 1067,
         "name": "Emilio",
         "passives": []
     },
     {
-        "originalIndex": 1066,
+        "originalIndex": 1068,
         "name": "Emilio C1",
         "passives": [
             "Copy Ailment on Cleanse: When a status ailment is cleansed from this hero, a new copy of the cleansed ailment is applied on a random enemy."
         ]
     },
     {
-        "originalIndex": 1067,
+        "originalIndex": 1069,
         "name": "Erebus",
         "passives": [
             "Resist defense Ailments: This character has innate resistance against status ailments that affect defense. Applies also to status ailments that affect elemental defense.",
@@ -7420,14 +7434,14 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1068,
+        "originalIndex": 1070,
         "name": "Eron",
         "passives": [
             "Reduce Mana Gain from Special Skills: Reduces the amount of mana increased by Special Skill by -80%. The effect applies to all enemies in the battle."
         ]
     },
     {
-        "originalIndex": 1069,
+        "originalIndex": 1071,
         "name": "Experience Mimic",
         "passives": [
             "Perfect Accuracy: This character’s Special Skill never misses its targets.",
@@ -7440,7 +7454,7 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1070,
+        "originalIndex": 1072,
         "name": "Fimafeng",
         "passives": [
             "Empowered Resist Frost: This character has innate resistance against Frost and gains 450 boosted health and 5% mana each time they resist.",
@@ -7450,7 +7464,7 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1071,
+        "originalIndex": 1073,
         "name": "Flamehide",
         "passives": [
             "Resist Mana reduction: This character has an innate resistance against mana reduction.",
@@ -7458,7 +7472,7 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1072,
+        "originalIndex": 1074,
         "name": "Flip",
         "passives": [
             "Resist Water Damage: This character has innate resistance against Water Damage.",
@@ -7466,7 +7480,7 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1073,
+        "originalIndex": 1075,
         "name": "Flip C1",
         "passives": [
             "Damage over time on Special: When this character casts their Special Skill, all enemies receive 272 Water damage over 2 turns.",
@@ -7474,29 +7488,29 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1074,
+        "originalIndex": 1076,
         "name": "Fulvia",
         "passives": [
             "Reduce Mana Gain from Special Skills: Reduces the amount of mana increased by Special Skill by -80%. The effect applies to all enemies in the battle."
         ]
     },
     {
-        "originalIndex": 1075,
+        "originalIndex": 1077,
         "name": "Garnet",
         "passives": []
     },
     {
-        "originalIndex": 1076,
+        "originalIndex": 1078,
         "name": "Gefjon",
         "passives": []
     },
     {
-        "originalIndex": 1077,
+        "originalIndex": 1079,
         "name": "Gefjon C1",
         "passives": []
     },
     {
-        "originalIndex": 1078,
+        "originalIndex": 1080,
         "name": "Gestalt",
         "passives": [
             "Effects on Special Skill: 50% chance to perform the following actions when this character casts their Special Skill",
@@ -7505,7 +7519,7 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1079,
+        "originalIndex": 1081,
         "name": "Gestalt C1",
         "passives": [
             "Effects on Special Skill: 50% chance to perform the following actions when this character casts their Special Skill",
@@ -7515,7 +7529,7 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1080,
+        "originalIndex": 1082,
         "name": "Gooze",
         "passives": [
             "Slime Minion Upon Defeat: When this character is defeated, they summon Slime Mega Minions to nearby allies with 50% HP and 40% attack inherited from this character.",
@@ -7523,43 +7537,43 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1081,
+        "originalIndex": 1083,
         "name": "Gravemaker",
         "passives": []
     },
     {
-        "originalIndex": 1082,
+        "originalIndex": 1084,
         "name": "Gravemaker C1",
         "passives": [
             "Dispel on Special Skill: When this character casts their Special Skill, they dispel the newest status effect buff from all enemies."
         ]
     },
     {
-        "originalIndex": 1083,
+        "originalIndex": 1085,
         "name": "Grazul",
         "passives": [
             "Resist Healing Ailments: This character has an innate ability to resist status aliments that affect Healing"
         ]
     },
     {
-        "originalIndex": 1084,
+        "originalIndex": 1086,
         "name": "Guardian Kong",
         "passives": []
     },
     {
-        "originalIndex": 1085,
+        "originalIndex": 1087,
         "name": "Guardian Kong C1",
         "passives": []
     },
     {
-        "originalIndex": 1086,
+        "originalIndex": 1088,
         "name": "Guffa",
         "passives": [
             "Gargoyle’s Stoneskin: Every time this Gargoyle casts a Special Skill, their Stoneskin hardens. The next 5 times they receive damage, it is reduced by -90%, and they resist all status ailment and mana reduction. This effect can’t be dispelled."
         ]
     },
     {
-        "originalIndex": 1087,
+        "originalIndex": 1089,
         "name": "Hammerclang",
         "passives": [
             "Resist Poison: This character has innate resistance against Poison.",
@@ -7567,7 +7581,7 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1088,
+        "originalIndex": 1090,
         "name": "Hathor",
         "passives": [
             "Effects on Special Skill: 50% chance to perform the following actions when this character casts their Special Skill.",
@@ -7576,7 +7590,7 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1089,
+        "originalIndex": 1091,
         "name": "Hathor C1",
         "passives": [
             "Effects on Special Skill: 50% chance to perform the following actions when this character casts their Special Skill.",
@@ -7587,14 +7601,14 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1090,
+        "originalIndex": 1092,
         "name": "Hohenwerf",
         "passives": [
             "Gargoyle’s Stoneskin: Every time this Gargoyle casts a Special Skill, their Stoneskin hardens. The next 3 times they receive damage, it is dropped to 1. This effect can’t be dispelled."
         ]
     },
     {
-        "originalIndex": 1091,
+        "originalIndex": 1093,
         "name": "Hornfel",
         "passives": [
             "Resist Special Skill Blocking: This character has innate resistance against status ailments that block Special Skill.",
@@ -7602,7 +7616,7 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1092,
+        "originalIndex": 1094,
         "name": "Hypnos",
         "passives": [
             "Resist Defense Ailments: This character has innate resistance against status ailments that affect defense. Applies also to status ailments that affect elemental defense.",
@@ -7610,7 +7624,7 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1093,
+        "originalIndex": 1095,
         "name": "Iarlaith",
         "passives": [
             "Resist Mana reduction: This character has an innate resistance against mana Reduction.",
@@ -7618,7 +7632,7 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1094,
+        "originalIndex": 1096,
         "name": "Ignazio",
         "passives": [
             "Troop Mastery:",
@@ -7629,7 +7643,7 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1095,
+        "originalIndex": 1097,
         "name": "Ignazio C1",
         "passives": [
             "Troop Mastery:",
@@ -7640,21 +7654,21 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1096,
+        "originalIndex": 1098,
         "name": "Ilmarinen",
         "passives": [
             "Power of Sisu: When this character starts a turn with low health for the first time during a battle, they recover 15% health and receive 15% mana."
         ]
     },
     {
-        "originalIndex": 1097,
+        "originalIndex": 1099,
         "name": "Ilmarinen C1",
         "passives": [
             "Power of Sisu: When this character starts a turn with low health for the first time during a battle, they recover 15% health and receive 15% mana."
         ]
     },
     {
-        "originalIndex": 1098,
+        "originalIndex": 1100,
         "name": "Iocantha",
         "passives": [
             "Resist Mana reduction: This character has an innate resistance against mana Reduction.",
@@ -7662,7 +7676,7 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1099,
+        "originalIndex": 1101,
         "name": "Isidore",
         "passives": [
             "Minion Blind: All enemies’ Minions have -60% accuracy. All enemies’ Mega Minions have -50% accuracy.",
@@ -7671,48 +7685,48 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1100,
+        "originalIndex": 1102,
         "name": "Isrod",
         "passives": []
     },
     {
-        "originalIndex": 1101,
+        "originalIndex": 1103,
         "name": "Jean-Francois",
         "passives": [
             "Resist Health Steal Ailments: The Hero has an innate resistance against status ailments that Steal Health."
         ]
     },
     {
-        "originalIndex": 1102,
+        "originalIndex": 1104,
         "name": "Khagan",
         "passives": []
     },
     {
-        "originalIndex": 1103,
+        "originalIndex": 1105,
         "name": "Khagan C1",
         "passives": []
     },
     {
-        "originalIndex": 1104,
+        "originalIndex": 1106,
         "name": "Khagan C2",
         "passives": []
     },
     {
-        "originalIndex": 1105,
+        "originalIndex": 1107,
         "name": "Khagan Toon",
         "passives": [
             "Toon: 75% extra chance to resist all status ailments, mana reductions and buff dispels."
         ]
     },
     {
-        "originalIndex": 1106,
+        "originalIndex": 1108,
         "name": "Khagan Glass",
         "passives": [
             "Glass: 60% extra chance to reflect status ailments back to the attacker."
         ]
     },
     {
-        "originalIndex": 1107,
+        "originalIndex": 1109,
         "name": "Khufu",
         "passives": [
             "Effects on Special Skill: 70% chance to perform the following actions when this character casts their Special Skill",
@@ -7721,7 +7735,7 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1108,
+        "originalIndex": 1110,
         "name": "Khufu C1",
         "passives": [
             "Effects on Special Skill: 70% chance to perform the following actions when this character casts their Special Skill",
@@ -7732,14 +7746,14 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1109,
+        "originalIndex": 1111,
         "name": "Kravekrush",
         "passives": [
             "Start Battle with Mana: This character receives 20% mana at the start of the battle."
         ]
     },
     {
-        "originalIndex": 1110,
+        "originalIndex": 1112,
         "name": "Kravekrush C1",
         "passives": [
             "Start Battle with Mana: This character receives 20% mana at the start of the battle.",
@@ -7747,17 +7761,17 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1111,
+        "originalIndex": 1113,
         "name": "Lady Loki",
         "passives": []
     },
     {
-        "originalIndex": 1112,
+        "originalIndex": 1114,
         "name": "Lady Loki C1",
         "passives": []
     },
     {
-        "originalIndex": 1113,
+        "originalIndex": 1115,
         "name": "Lasalle",
         "passives": [
             "Effects on Special Skill: 50% chance to perform the following actions when this character casts their Special Skill",
@@ -7767,7 +7781,7 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1114,
+        "originalIndex": 1116,
         "name": "Lasalle C1",
         "passives": [
             "Effects on Special Skill: 50% chance to perform the following actions when this character casts their Special Skill",
@@ -7777,12 +7791,12 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1115,
+        "originalIndex": 1117,
         "name": "Lewena",
         "passives": []
     },
     {
-        "originalIndex": 1116,
+        "originalIndex": 1118,
         "name": "Li Kui",
         "passives": [
             "Cleanse on Critical Special Attack: When this character scores a critical hit with their Special Skill, they safely cleanse the latest cleansable status effect from all allies. This effect can activate once per turn.",
@@ -7794,14 +7808,14 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1117,
+        "originalIndex": 1119,
         "name": "Lodius",
         "passives": [
             "Reduce Mana Gain from Special Skills: Reduces the amount of mana increased by Special Skill by -80%. The effect applies to all enemies in the battle."
         ]
     },
     {
-        "originalIndex": 1118,
+        "originalIndex": 1120,
         "name": "Madhammer",
         "passives": [
             "Effects on Special Skill: 50% chance to perform the following actions when this character casts their Special Skill.",
@@ -7810,14 +7824,14 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1119,
+        "originalIndex": 1121,
         "name": "Malum",
         "passives": [
             "Decreased Minion Health: Enemy Minions inherit -50% less Health when summoned."
         ]
     },
     {
-        "originalIndex": 1120,
+        "originalIndex": 1122,
         "name": "Maple",
         "passives": [
             "Resist Buff Immunity: This character has innate resistance against status ailments that give immunity to new buffs.",
@@ -7825,53 +7839,53 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1121,
+        "originalIndex": 1123,
         "name": "Marjana",
         "passives": []
     },
     {
-        "originalIndex": 1122,
+        "originalIndex": 1124,
         "name": "Marjana C1",
         "passives": []
     },
     {
-        "originalIndex": 1123,
+        "originalIndex": 1125,
         "name": "Marjana C2",
         "passives": []
     },
     {
-        "originalIndex": 1124,
+        "originalIndex": 1126,
         "name": "Marjana Toon",
         "passives": [
             "Toon: 75% extra chance to resist all status ailments, mana reductions and buff dispels."
         ]
     },
     {
-        "originalIndex": 1125,
+        "originalIndex": 1127,
         "name": "Marjana Glass",
         "passives": [
             "Glass: 60% extra chance to reflect status ailments back to the attacker."
         ]
     },
     {
-        "originalIndex": 1126,
+        "originalIndex": 1128,
         "name": "Mitsuko",
         "passives": []
     },
     {
-        "originalIndex": 1127,
+        "originalIndex": 1129,
         "name": "Mitsuko C1",
         "passives": []
     },
     {
-        "originalIndex": 1128,
+        "originalIndex": 1130,
         "name": "Nadezhda",
         "passives": [
             "Health recovery on special: When this character casts their Special Skill, they have a 50% chance to recover 15% health for all allies. If the Special Skill is fully charged, the chance is 100%."
         ]
     },
     {
-        "originalIndex": 1129,
+        "originalIndex": 1131,
         "name": "Nadezhda C1",
         "passives": [
             "Health Recovery on Special: When this character casts their Special Skill, they have a 60% chance to recover 20% health for allies. If the Special Skill is fully charged, the chance is 100%.",
@@ -7879,7 +7893,7 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1130,
+        "originalIndex": 1132,
         "name": "Naeem",
         "passives": [
             "Flight Momentum: If this character has any amount of Flight Momentum, they receive:",
@@ -7890,19 +7904,19 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1131,
+        "originalIndex": 1133,
         "name": "Natalya",
         "passives": []
     },
     {
-        "originalIndex": 1132,
+        "originalIndex": 1134,
         "name": "Natalya C1",
         "passives": [
             "Dispel on Special Skill: When this character casts their Special Skill, they dispel the newest status effect buff from all enemies."
         ]
     },
     {
-        "originalIndex": 1133,
+        "originalIndex": 1135,
         "name": "Neema",
         "passives": [
             "Ignore Taunt: This character’s Special Skill is not affected by Taunt.",
@@ -7910,14 +7924,14 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1134,
+        "originalIndex": 1136,
         "name": "Nibbles",
         "passives": [
             "Decreased Healing: All enemies get -50% healing."
         ]
     },
     {
-        "originalIndex": 1135,
+        "originalIndex": 1137,
         "name": "Niki",
         "passives": [
             "Troop Mastery:",
@@ -7928,21 +7942,21 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1136,
+        "originalIndex": 1138,
         "name": "Nomad",
         "passives": [
             "Decreased Minion Health: Enemy Minions inherit -50% less Health when summoned."
         ]
     },
     {
-        "originalIndex": 1137,
+        "originalIndex": 1139,
         "name": "Noor",
         "passives": [
             "Sparrow Summoner: Summons a Sparrow Minion for self when an enemy summons any Minions by Special Skill."
         ]
     },
     {
-        "originalIndex": 1138,
+        "originalIndex": 1140,
         "name": "Norman",
         "passives": [
             "Mana Buff on Status Ailment Received: The character with this skill receives +24% mana generation for 3 turns when they receive any status ailment or a negative stack.",
@@ -7951,19 +7965,19 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1139,
+        "originalIndex": 1141,
         "name": "Oceanus",
         "passives": []
     },
     {
-        "originalIndex": 1140,
+        "originalIndex": 1142,
         "name": "Octros",
         "passives": [
             "Increase Buff Duration: Duration of the first 3 buff this hero receives from Special Skills is increased by 1 turn."
         ]
     },
     {
-        "originalIndex": 1141,
+        "originalIndex": 1143,
         "name": "Octros C1",
         "passives": [
             "Increase Buff Duration: Duration of the first 3 buff this hero receives from Special Skills is increased by 1 turn.",
@@ -7971,14 +7985,14 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1142,
+        "originalIndex": 1144,
         "name": "Omen",
         "passives": [
             "Marked by the Old Ones: All damage is reduced by 5% per 10 Insanity for this character up to a maximum reduction of 50%."
         ]
     },
     {
-        "originalIndex": 1143,
+        "originalIndex": 1145,
         "name": "Otis",
         "passives": [
             "Hunter’s Sense: When this character casts their Special Skill, they have 100% chance to transfer the newest status ailment from themself to the target. If the Special Skill cannot target an enemy, a random enemy is chosen instead. If this character has no status ailments, they recover 12% health.",
@@ -7986,12 +8000,12 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1144,
+        "originalIndex": 1146,
         "name": "Ottilia",
         "passives": []
     },
     {
-        "originalIndex": 1145,
+        "originalIndex": 1147,
         "name": "Pepperflame",
         "passives": [
             "Effects on Special Skill: 40% chance to perform the following actions when this character casts their Special Skill.",
@@ -8000,14 +8014,14 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1146,
+        "originalIndex": 1148,
         "name": "Phenexa",
         "passives": [
             "Revival Chance Reduction: The chance of revival is reduced for all enemies in the battle. The chance is 20% of the original value."
         ]
     },
     {
-        "originalIndex": 1147,
+        "originalIndex": 1149,
         "name": "Pluth",
         "passives": [
             "Superior Bypass Minions: All damage done by this character bypasses Minions and Mega Minions.",
@@ -8016,29 +8030,29 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1148,
+        "originalIndex": 1150,
         "name": "Puss in Boots",
         "passives": []
     },
     {
-        "originalIndex": 1149,
+        "originalIndex": 1151,
         "name": "Puss in Boots C1",
         "passives": []
     },
     {
-        "originalIndex": 1150,
+        "originalIndex": 1152,
         "name": "Queen of Hearts",
         "passives": []
     },
     {
-        "originalIndex": 1151,
+        "originalIndex": 1153,
         "name": "Queen of Hearts C1",
         "passives": [
             "Mindless Attack On Special Skill: On Special Skill cast, 50% chance to inflict Mindless Attack on a random enemy for 3 turns."
         ]
     },
     {
-        "originalIndex": 1152,
+        "originalIndex": 1154,
         "name": "Rajesh",
         "passives": [
             "Nine Lives:",
@@ -8053,14 +8067,14 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1153,
+        "originalIndex": 1155,
         "name": "Rashan",
         "passives": [
             "Marked by the Old Ones: All damage is reduced by 5% per 10 Insanity for this character up to a maximum reduction of 50%."
         ]
     },
     {
-        "originalIndex": 1154,
+        "originalIndex": 1156,
         "name": "Ray",
         "passives": [
             "Mana on Special: When this character casts their Special Skill, all enemies get -5% mana generation stack. If the Special Skill is fully charged, all enemies get two stacks. An enemy can have up to 10 stacks.",
@@ -8068,7 +8082,7 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1155,
+        "originalIndex": 1157,
         "name": "Ray C1",
         "passives": [
             "Mana on Special: When this character casts their Special Skill, they have a 60% chance to give 10% mana to all allies. If the Special Skill is fully charged, the chance is 100%.",
@@ -8077,12 +8091,12 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1156,
+        "originalIndex": 1158,
         "name": "Red Hood",
         "passives": []
     },
     {
-        "originalIndex": 1157,
+        "originalIndex": 1159,
         "name": "Regin",
         "passives": [
             "Empowered Resist Burn: This character has innate resistance against Burn and gains 450 boosted heath and 5% mana each time they resist.",
@@ -8093,14 +8107,14 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1158,
+        "originalIndex": 1160,
         "name": "Reuben",
         "passives": [
             "Resist Mana Generation Ailments: This character has innate resistance against status ailments and negative stacks that affect Mana Generation. Doesn't apply to status ailments that stop mana generation or steal mana."
         ]
     },
     {
-        "originalIndex": 1159,
+        "originalIndex": 1161,
         "name": "Revna",
         "passives": [
             "Special Skill Damage Reduction: This character has a 10% chance to drop the direct damage received from Special Skills to 1.",
@@ -8108,7 +8122,7 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1160,
+        "originalIndex": 1162,
         "name": "Rocket",
         "passives": [
             "Effects on Special Skill: 40% chance to perform the following actions when this character casts their Special Skill.",
@@ -8117,12 +8131,12 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1161,
+        "originalIndex": 1163,
         "name": "Rosanna",
         "passives": []
     },
     {
-        "originalIndex": 1162,
+        "originalIndex": 1164,
         "name": "Roughian & Nurgib",
         "passives": [
             "Eat Minions and Gain Mana Over Time: Every 3 turns eats all Minions from a random enemy and gains a small amount of mana for each eaten Minion.",
@@ -8130,7 +8144,7 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1163,
+        "originalIndex": 1165,
         "name": "Ruadh",
         "passives": [
             "Special Skill Damage Reduction: This character has a 10% chance to drop the direct damage received from Special Skills to 1.",
@@ -8138,12 +8152,12 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1164,
+        "originalIndex": 1166,
         "name": "Ruby",
         "passives": []
     },
     {
-        "originalIndex": 1165,
+        "originalIndex": 1167,
         "name": "Russell",
         "passives": [
             "Resist Attack Ailments: This character has innate resistance against status ailments that affect Attack.",
@@ -8151,14 +8165,14 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1166,
+        "originalIndex": 1168,
         "name": "Rust",
         "passives": [
             "Decreased Healing: All enemies get -50% healing."
         ]
     },
     {
-        "originalIndex": 1167,
+        "originalIndex": 1169,
         "name": "Salimata",
         "passives": [
             "Quick Tempo Ballad: All Ballads cast by enemies only last for 1 turn.",
@@ -8166,24 +8180,24 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1168,
+        "originalIndex": 1170,
         "name": "Santa Claus",
         "passives": []
     },
     {
-        "originalIndex": 1169,
+        "originalIndex": 1171,
         "name": "Santa Claus C1",
         "passives": []
     },
     {
-        "originalIndex": 1170,
+        "originalIndex": 1172,
         "name": "Saoirse",
         "passives": [
             "Resist Damage from Status Effects: This charater has innate resistance against incoming damage from status effects."
         ]
     },
     {
-        "originalIndex": 1171,
+        "originalIndex": 1173,
         "name": "Saoirse C1",
         "passives": [
             "Resist Damage from Status Effects: This charater has innate resistance against incoming damage from status effects.",
@@ -8191,7 +8205,7 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1172,
+        "originalIndex": 1174,
         "name": "Scoria",
         "passives": [
             "Resist Special Skill Blocking: This character has innate resistance against status ailments that block Special Skill.",
@@ -8201,7 +8215,7 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1173,
+        "originalIndex": 1175,
         "name": "Sedille",
         "passives": [
             "Superior Bypass Minions: All damage done by this character bypasses Minions and Mega Minions.",
@@ -8210,7 +8224,7 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1174,
+        "originalIndex": 1176,
         "name": "Sekhmet",
         "passives": [
             "Effects on Special Skill: 50% chance to perform the following actions when this character casts their Special Skill",
@@ -8219,7 +8233,7 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1175,
+        "originalIndex": 1177,
         "name": "Sekhmet C1",
         "passives": [
             "Effects on Special Skill: 50% chance to perform the following actions when this character casts their Special Skill",
@@ -8230,12 +8244,12 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1176,
+        "originalIndex": 1178,
         "name": "Serandite",
         "passives": []
     },
     {
-        "originalIndex": 1177,
+        "originalIndex": 1179,
         "name": "Skargremar",
         "passives": [
             "Resist Special Skill Blocking: This character has innate resistance against ailments that block Special Skills.",
@@ -8243,7 +8257,7 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1178,
+        "originalIndex": 1180,
         "name": "Sparklight",
         "passives": [
             "Resist Poison: This character has innate resistance against Poison.",
@@ -8251,12 +8265,12 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1179,
+        "originalIndex": 1181,
         "name": "Sun Quan",
         "passives": []
     },
     {
-        "originalIndex": 1180,
+        "originalIndex": 1182,
         "name": "Sun Quan C1",
         "passives": [
             "Unstoppable Minions:",
@@ -8266,7 +8280,7 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1181,
+        "originalIndex": 1183,
         "name": "Tahir",
         "passives": [
             "Health recovery on status Ailment Received: This character recovers 50 HP when they receive a status ailment or a negative stack.",
@@ -8274,7 +8288,7 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1182,
+        "originalIndex": 1184,
         "name": "Tetisheri",
         "passives": [
             "Effects on Special Skill: 50% chance to perform the following actions when this character casts their Special Skill",
@@ -8283,7 +8297,7 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1183,
+        "originalIndex": 1185,
         "name": "Tetisheri C1",
         "passives": [
             "Effects on Special Skill: 50% chance to perform the following actions when this character casts their Special Skill",
@@ -8294,57 +8308,57 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1184,
+        "originalIndex": 1186,
         "name": "Timothy",
         "passives": []
     },
     {
-        "originalIndex": 1185,
+        "originalIndex": 1187,
         "name": "Torben",
         "passives": [
             "Health Recovery on Buff Received: This character recovers 5% health when they receive a buff or a positive stack."
         ]
     },
     {
-        "originalIndex": 1186,
+        "originalIndex": 1188,
         "name": "Tyr",
         "passives": []
     },
     {
-        "originalIndex": 1187,
+        "originalIndex": 1189,
         "name": "Tyr C1",
         "passives": []
     },
     {
-        "originalIndex": 1188,
+        "originalIndex": 1190,
         "name": "Ukkonen",
         "passives": [
             "Power of Sisu: When this character starts a turn with low health for the first time during a battle, they recover 15% health and receive 15% mana."
         ]
     },
     {
-        "originalIndex": 1189,
+        "originalIndex": 1191,
         "name": "Ukkonen C1",
         "passives": [
             "Power of Sisu: When this character starts a turn with low health for the first time during a battle, they recover 15% health and receive 15% mana."
         ]
     },
     {
-        "originalIndex": 1190,
+        "originalIndex": 1192,
         "name": "Vanda",
         "passives": [
             "Steal Buff: When this character casts their Special Skill, they have a 50% chance to steal the newest dispellable buff from a random enemy that has buffs. If no enemy has buffs, deals 70% damage to all enemies."
         ]
     },
     {
-        "originalIndex": 1191,
+        "originalIndex": 1193,
         "name": "Vanda C1",
         "passives": [
             "Steal Buff: When this character casts their Special Skill, they have a 50% chance to steal the newest dispellable buff from a random enemy that has buffs. If no enemy has buffs, deals 70% damage to all enemies."
         ]
     },
     {
-        "originalIndex": 1192,
+        "originalIndex": 1194,
         "name": "Vanya",
         "passives": [
             "Resist Mana reduction: This character has an innate resistance against mana Reduction.",
@@ -8353,14 +8367,14 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1193,
+        "originalIndex": 1195,
         "name": "Xenda",
         "passives": [
             "Special Skill Damage Reduction: Received damage from Special Skills is reduced by -20% for this character."
         ]
     },
     {
-        "originalIndex": 1194,
+        "originalIndex": 1196,
         "name": "Xenda C1",
         "passives": [
             "Special Skill Damage Reduction: Received damage from Special Skills is reduced by -20% for this character.",
@@ -8368,14 +8382,14 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1195,
+        "originalIndex": 1197,
         "name": "Xiaotu",
         "passives": [
             "Disable Minion Abilities: Attacks and abilities of all Minions owned by enemies are disabled."
         ]
     },
     {
-        "originalIndex": 1196,
+        "originalIndex": 1198,
         "name": "Xiwangmu",
         "passives": [
             "Mana on Buff Received: This character has a 50% chance to gain 10% mana when they receive a buff or possitive stack.",
@@ -8383,7 +8397,7 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1197,
+        "originalIndex": 1199,
         "name": "Yang Mai",
         "passives": [
             "Status effect on mana reduction: The caster gets +30% attack for 3 turns when their mana is reduced.",
@@ -8391,7 +8405,7 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1198,
+        "originalIndex": 1200,
         "name": "Yolanda",
         "passives": [
             "Minion Blind: All enemies’ Minions have -60% accuracy. All enemies’ Mega Minions have -50% accuracy.",
@@ -8400,7 +8414,7 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1199,
+        "originalIndex": 1201,
         "name": "Zagrog",
         "passives": [
             "Resist attack status effects: This character has innate resistance against all status effects and stacks that effect attack. This includes buffs.",
@@ -8408,7 +8422,7 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1200,
+        "originalIndex": 1202,
         "name": "Zarga",
         "passives": [
             "Heal on Bleed: This character regenerates 50 HP each time an enemy receives Bleed damage.",
@@ -8416,7 +8430,7 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1201,
+        "originalIndex": 1203,
         "name": "Zaria",
         "passives": [
             "Troop Mastery:",
@@ -8427,14 +8441,14 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1202,
+        "originalIndex": 1204,
         "name": "Zenobia",
         "passives": [
             "Increase Buff Duration: Duration of the first 3 buff this hero receives from Special Skills is increased by 1 turn."
         ]
     },
     {
-        "originalIndex": 1203,
+        "originalIndex": 1205,
         "name": "Zenobia C1",
         "passives": [
             "Increase Buff Duration: Duration of the first 3 buffs this character receives from Special Skill is increased by 1 turn.",
@@ -8442,7 +8456,7 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1204,
+        "originalIndex": 1206,
         "name": "Zidane",
         "passives": [
             "Increased Attack per Non-Fire Enemy: At the start of each battle, this character’s attack is increased by +5% for every enemy that is not of Fire element. In battles with multiple waves, the effect is refreshed at the beginning of each wave.",
@@ -8450,88 +8464,88 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1205,
+        "originalIndex": 1207,
         "name": "Zimkitha",
         "passives": []
     },
     {
-        "originalIndex": 1206,
+        "originalIndex": 1208,
         "name": "Zimkitha C1",
         "passives": [
             "Dispel on Special Skill: When this character casts their Special Skill, they dispel the newest status effect buff from all enemies."
         ]
     },
     {
-        "originalIndex": 1207,
+        "originalIndex": 1209,
         "name": "Hikaru",
         "passives": []
     },
     {
-        "originalIndex": 1208,
+        "originalIndex": 1210,
         "name": "Kenjiro",
         "passives": []
     },
     {
-        "originalIndex": 1209,
+        "originalIndex": 1211,
         "name": "Hou",
         "passives": []
     },
     {
-        "originalIndex": 1210,
+        "originalIndex": 1212,
         "name": "Nash",
         "passives": []
     },
     {
-        "originalIndex": 1211,
+        "originalIndex": 1213,
         "name": "Sha Ji",
         "passives": []
     },
     {
-        "originalIndex": 1212,
+        "originalIndex": 1214,
         "name": "Agnes",
         "passives": []
     },
     {
-        "originalIndex": 1213,
+        "originalIndex": 1215,
         "name": "Arman",
         "passives": []
     },
     {
-        "originalIndex": 1214,
+        "originalIndex": 1216,
         "name": "Bane",
         "passives": []
     },
     {
-        "originalIndex": 1215,
+        "originalIndex": 1217,
         "name": "Bane C1",
         "passives": []
     },
     {
-        "originalIndex": 1216,
+        "originalIndex": 1218,
         "name": "Bane Toon",
         "passives": [
             "Toon: 75% extra chance to resist all status ailments, mana reductions and buff dispels."
         ]
     },
     {
-        "originalIndex": 1217,
+        "originalIndex": 1219,
         "name": "Bane Glass",
         "passives": [
             "Glass: 60% extra chance to reflect status ailments back to the attacker."
         ]
     },
     {
-        "originalIndex": 1218,
+        "originalIndex": 1220,
         "name": "Bertulf",
         "passives": []
     },
     {
-        "originalIndex": 1219,
+        "originalIndex": 1221,
         "name": "Candy",
         "passives": []
     },
     {
-        "originalIndex": 1220,
+        "originalIndex": 1222,
         "name": "Cedar",
         "passives": [
             "Damage over time on special. When this character casts their Special Skill,  they give a Hunter's Mark on a random enemy. The target receives 150 damage  over 3 turns. If a target already has this effect, the duration will be refreshed and the damage will be increased by 150, up to 1500 damage in total.",
@@ -8539,29 +8553,29 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1221,
+        "originalIndex": 1223,
         "name": "Cthuwu",
         "passives": []
     },
     {
-        "originalIndex": 1222,
+        "originalIndex": 1224,
         "name": "Dawa",
         "passives": []
     },
     {
-        "originalIndex": 1223,
+        "originalIndex": 1225,
         "name": "Dawa C1",
         "passives": []
     },
     {
-        "originalIndex": 1224,
+        "originalIndex": 1226,
         "name": "Dawa Toon",
         "passives": [
             "Toon: 75% extra chance to resist all status ailments, mana reductions and buff dispels."
         ]
     },
     {
-        "originalIndex": 1225,
+        "originalIndex": 1227,
         "name": "Dolrak",
         "passives": [
             "Damage over time on Special: When this character casts their Special Skill, all enemies receive 124 Water damage over 2 turns.",
@@ -8569,7 +8583,7 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1226,
+        "originalIndex": 1228,
         "name": "Edelaide",
         "passives": [
             "When this character casts their Special Skill, they give a Hunter’s Mark on a random enemy. The target receives 150 damage over 3 turns. If a target already has this effect, the duration will be refreshed and the damage will be increased by 150, up to 1500 damage in total.",
@@ -8577,38 +8591,38 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1227,
+        "originalIndex": 1229,
         "name": "Felton",
         "passives": [
             "Damage on Special Skill: When this character receives damage from Special Skills or in place of a character in Cover, there’s a 60% chance to deal 20% of the received damage on all enemies."
         ]
     },
     {
-        "originalIndex": 1228,
+        "originalIndex": 1230,
         "name": "Gan Ju",
         "passives": []
     },
     {
-        "originalIndex": 1229,
+        "originalIndex": 1231,
         "name": "Gan Ju C1",
         "passives": []
     },
     {
-        "originalIndex": 1230,
+        "originalIndex": 1232,
         "name": "Gan Ju Toon",
         "passives": [
             "Toon: 75% extra chance to resist all status ailments, mana reductions and buff dispels."
         ]
     },
     {
-        "originalIndex": 1231,
+        "originalIndex": 1233,
         "name": "Gan Ju Glass",
         "passives": [
             "Glass: 60% extra chance to reflect status ailments back to the attacker."
         ]
     },
     {
-        "originalIndex": 1232,
+        "originalIndex": 1234,
         "name": "Jaco",
         "passives": [
             "Effects on Special Skill: 50% chance to perform the following actions when this character casts their Special Skill",
@@ -8617,7 +8631,7 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1233,
+        "originalIndex": 1235,
         "name": "Jaco C1",
         "passives": [
             "Effects on Special Skill: 50% chance to perform the following actions when this character casts their Special Skill",
@@ -8627,87 +8641,87 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1234,
+        "originalIndex": 1236,
         "name": "Jolly",
         "passives": []
     },
     {
-        "originalIndex": 1235,
+        "originalIndex": 1237,
         "name": "Kailani",
         "passives": []
     },
     {
-        "originalIndex": 1236,
+        "originalIndex": 1238,
         "name": "Kailani C1",
         "passives": []
     },
     {
-        "originalIndex": 1237,
+        "originalIndex": 1239,
         "name": "Kailani Toon",
         "passives": [
             "Toon: 75% extra chance to resist all status ailments, mana reductions and buff dispels."
         ]
     },
     {
-        "originalIndex": 1238,
+        "originalIndex": 1240,
         "name": "Kailani Glass",
         "passives": [
             "Glass: 60% extra chance to reflect status ailments back to the attacker."
         ]
     },
     {
-        "originalIndex": 1239,
+        "originalIndex": 1241,
         "name": "Kinsaishi",
         "passives": []
     },
     {
-        "originalIndex": 1240,
+        "originalIndex": 1242,
         "name": "Kvasir",
         "passives": []
     },
     {
-        "originalIndex": 1241,
+        "originalIndex": 1243,
         "name": "Kvasir C1",
         "passives": []
     },
     {
-        "originalIndex": 1242,
+        "originalIndex": 1244,
         "name": "Melia",
         "passives": []
     },
     {
-        "originalIndex": 1243,
+        "originalIndex": 1245,
         "name": "Melia C1",
         "passives": []
     },
     {
-        "originalIndex": 1244,
+        "originalIndex": 1246,
         "name": "Paeia",
         "passives": [
             "Reduce Mana Gain from Special Skills: Reduces the amount of mana increased by Special Skill by -80%. The effect applies to all enemies in the battle."
         ]
     },
     {
-        "originalIndex": 1245,
+        "originalIndex": 1247,
         "name": "Pixie",
         "passives": []
     },
     {
-        "originalIndex": 1246,
+        "originalIndex": 1248,
         "name": "Poppy",
         "passives": [
             "Increased Specail Skill Damage: This first time this character cast a  Special Skill that deals damage an additional 30% is added to its power."
         ]
     },
     {
-        "originalIndex": 1247,
+        "originalIndex": 1249,
         "name": "Poppy C1",
         "passives": [
             "Increased Special Skill Damage: The first time this character casts a Special Skill that deals damage, an additional 30% is added to its power."
         ]
     },
     {
-        "originalIndex": 1248,
+        "originalIndex": 1250,
         "name": "Rekhetre",
         "passives": [
             "Effects on Special Skill: 60% chance to perform the following actions when this character casts their Special Skill",
@@ -8716,7 +8730,7 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1249,
+        "originalIndex": 1251,
         "name": "Rekhetre C1",
         "passives": [
             "Effects on Special Skill: 60% chance to perform the following actions when this character casts their Special Skill",
@@ -8727,7 +8741,7 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1250,
+        "originalIndex": 1252,
         "name": "Ribbit",
         "passives": [
             "When a Minion is summoned to any ally, this character gains 5% health and 5% mana. This effect can activate only once per turn.",
@@ -8735,7 +8749,7 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1251,
+        "originalIndex": 1253,
         "name": "Rustbeak",
         "passives": [
             "Resist Special Skill Blocking: This character has innate resistance against status ailments that block Special Skill.",
@@ -8746,12 +8760,12 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1252,
+        "originalIndex": 1254,
         "name": "Sally",
         "passives": []
     },
     {
-        "originalIndex": 1253,
+        "originalIndex": 1255,
         "name": "Saskia",
         "passives": [
             "Minion Blind: All enemies’ Minions have -60% accuracy. All enemies’ Mega Minions have -50% accuracy.",
@@ -8760,7 +8774,7 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1254,
+        "originalIndex": 1256,
         "name": "Aeschere",
         "passives": [
             "Empowered Resist Mana Reductions: This character has innate resistance against mana reduction. They also gain 600 boosted health and 10% mana each time they resist.",
@@ -8768,21 +8782,21 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1255,
+        "originalIndex": 1257,
         "name": "Anastasia",
         "passives": [
             "Status effect on special: When this character casts their Special Skill, they have a 50% chance to give -25% mana generation for 3 turns to all enemies. If the Special Skill is fully charged, the chance is 100%."
         ]
     },
     {
-        "originalIndex": 1256,
+        "originalIndex": 1258,
         "name": "Bellerive",
         "passives": [
             "Gargoyle’s Stoneskin: Every time this Gargoyle casts a Special Skill, their Stoneskin hardens. The next 4 times they receive damage, it is dropped to 1. This effect can’t be dispelled."
         ]
     },
     {
-        "originalIndex": 1257,
+        "originalIndex": 1259,
         "name": "Bogart",
         "passives": [
             "Damage over time on special: When this character casts their Special Skill, they give a Hunter’s Mark on a random enemy. The target receives 150 damage over 3 turns. If a target already has this effect, the duration will be refreshed and the damage will be increased by 150, up to 1500 damage in total.",
@@ -8790,51 +8804,51 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1258,
+        "originalIndex": 1260,
         "name": "Chao",
         "passives": []
     },
     {
-        "originalIndex": 1259,
+        "originalIndex": 1261,
         "name": "Chao C1",
         "passives": []
     },
     {
-        "originalIndex": 1260,
+        "originalIndex": 1262,
         "name": "Chao C2",
         "passives": []
     },
     {
-        "originalIndex": 1261,
+        "originalIndex": 1263,
         "name": "Chao Toon",
         "passives": [
             "Toon: 75% extra chance to resist all status ailments, mana reductions and buff dispels."
         ]
     },
     {
-        "originalIndex": 1262,
+        "originalIndex": 1264,
         "name": "Chao Glass",
         "passives": [
             "Glass: 60% extra chance to reflect status ailments back to the attacker."
         ]
     },
     {
-        "originalIndex": 1263,
+        "originalIndex": 1265,
         "name": "D'Andre",
         "passives": []
     },
     {
-        "originalIndex": 1264,
+        "originalIndex": 1266,
         "name": "Danzaburo",
         "passives": []
     },
     {
-        "originalIndex": 1265,
+        "originalIndex": 1267,
         "name": "Danzaburo C1",
         "passives": []
     },
     {
-        "originalIndex": 1266,
+        "originalIndex": 1268,
         "name": "Errin",
         "passives": [
             "Superior Bypass Minions: All damage done by this character bypasses Minions and Mega Minions.",
@@ -8843,7 +8857,7 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1267,
+        "originalIndex": 1269,
         "name": "Fjalar",
         "passives": [
             "Empowered Resist Burn: This character has innate resistance against Burn and gains 450 boosted heath and 5% mana each time they resist.",
@@ -8854,7 +8868,7 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1268,
+        "originalIndex": 1270,
         "name": "Goldie",
         "passives": [
             "Effects on Special Skill: 50% chance to perform the following actions when this character casts their Special Skill.",
@@ -8863,26 +8877,26 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1269,
+        "originalIndex": 1271,
         "name": "Gretel",
         "passives": []
     },
     {
-        "originalIndex": 1270,
+        "originalIndex": 1272,
         "name": "Griffin",
         "passives": [
             "Increased Special Skill Damage: The first time this character casts a Special Skill that deals damage, an additional 30% is added to its power."
         ]
     },
     {
-        "originalIndex": 1271,
+        "originalIndex": 1273,
         "name": "Griffin C1",
         "passives": [
             "Increased Special Skill Damage: The first time this character casts a Special Skill that deals damage, an additional 30% is added to its power."
         ]
     },
     {
-        "originalIndex": 1272,
+        "originalIndex": 1274,
         "name": "Gu Dasao",
         "passives": [
             "Cleanse on Critical Special Attack: When this character scores a critical hit with their Special Skill, they safely cleanse the latest cleansable status effect from all allies. This effect can activate once per turn.",
@@ -8894,100 +8908,100 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1273,
+        "originalIndex": 1275,
         "name": "Guardian Jackal",
         "passives": []
     },
     {
-        "originalIndex": 1274,
+        "originalIndex": 1276,
         "name": "Guardian Jackal C1",
         "passives": []
     },
     {
-        "originalIndex": 1275,
+        "originalIndex": 1277,
         "name": "Gullinbursti",
         "passives": []
     },
     {
-        "originalIndex": 1276,
+        "originalIndex": 1278,
         "name": "Gullinbursti C1",
         "passives": []
     },
     {
-        "originalIndex": 1277,
+        "originalIndex": 1279,
         "name": "Holly",
         "passives": []
     },
     {
-        "originalIndex": 1278,
+        "originalIndex": 1280,
         "name": "Hu Tao",
         "passives": []
     },
     {
-        "originalIndex": 1279,
+        "originalIndex": 1281,
         "name": "Hu Tao C1",
         "passives": []
     },
     {
-        "originalIndex": 1280,
+        "originalIndex": 1282,
         "name": "Hu Tao C2",
         "passives": []
     },
     {
-        "originalIndex": 1281,
+        "originalIndex": 1283,
         "name": "Hu Tao Toon",
         "passives": [
             "Toon: 75% extra chance to resist all status ailments, mana reductions and buff dispels."
         ]
     },
     {
-        "originalIndex": 1282,
+        "originalIndex": 1284,
         "name": "Hu Tao Glass",
         "passives": [
             "Glass: 60% extra chance to reflect status ailments back to the attacker."
         ]
     },
     {
-        "originalIndex": 1283,
+        "originalIndex": 1285,
         "name": "Lady Woolerton",
         "passives": []
     },
     {
-        "originalIndex": 1284,
+        "originalIndex": 1286,
         "name": "Li Xiu",
         "passives": []
     },
     {
-        "originalIndex": 1285,
+        "originalIndex": 1287,
         "name": "Li Xiu C1",
         "passives": []
     },
     {
-        "originalIndex": 1286,
+        "originalIndex": 1288,
         "name": "Li Xiu C2",
         "passives": []
     },
     {
-        "originalIndex": 1287,
+        "originalIndex": 1289,
         "name": "Li Xiu Toon",
         "passives": [
             "Toon: 75% extra chance to resist all status ailments, mana reductions and buff dispels."
         ]
     },
     {
-        "originalIndex": 1288,
+        "originalIndex": 1290,
         "name": "Li Xiu Glass",
         "passives": [
             "Glass: 60% extra chance to reflect status ailments back to the attacker."
         ]
     },
     {
-        "originalIndex": 1289,
+        "originalIndex": 1291,
         "name": "Mist",
         "passives": []
     },
     {
-        "originalIndex": 1290,
+        "originalIndex": 1292,
         "name": "Scoratek",
         "passives": [
             "Effects on Special Skill: 50% chance to perform the following actions when this character casts their Special Skill",
@@ -8996,7 +9010,7 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1291,
+        "originalIndex": 1293,
         "name": "Scoratek C1",
         "passives": [
             "Effects on Special Skill: 50% chance to perform the following actions when this character casts their Special Skill",
@@ -9007,7 +9021,7 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1292,
+        "originalIndex": 1294,
         "name": "Steropes",
         "passives": [
             "Decreased Minion Health: Enemy Minions inherit -50% less Health when summoned.",
@@ -9015,14 +9029,14 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1293,
+        "originalIndex": 1295,
         "name": "Voluptas",
         "passives": [
             "Resist Special Skill Blocking: This character has innate resistance against status ailments that block Special Skills."
         ]
     },
     {
-        "originalIndex": 1294,
+        "originalIndex": 1296,
         "name": "Waddles",
         "passives": [
             "When a Minion is summoned to any ally, this character gains 5% health and 5% mana. This effect can activate only once per turn.",
@@ -9030,12 +9044,12 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1295,
+        "originalIndex": 1297,
         "name": "Wang Yuanji",
         "passives": []
     },
     {
-        "originalIndex": 1296,
+        "originalIndex": 1298,
         "name": "Wang Yuanji C1",
         "passives": [
             "Unstoppable Minions:",
@@ -9045,36 +9059,36 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1297,
+        "originalIndex": 1299,
         "name": "Wu Kong",
         "passives": []
     },
     {
-        "originalIndex": 1298,
+        "originalIndex": 1300,
         "name": "Wu Kong C1",
         "passives": []
     },
     {
-        "originalIndex": 1299,
+        "originalIndex": 1301,
         "name": "Wu Kong C2",
         "passives": []
     },
     {
-        "originalIndex": 1300,
+        "originalIndex": 1302,
         "name": "Wu Kong Toon",
         "passives": [
             "Toon: 75% extra chance to resist all status ailments, mana reductions and buff dispels."
         ]
     },
     {
-        "originalIndex": 1301,
+        "originalIndex": 1303,
         "name": "Wu Kong Glass",
         "passives": [
             "Glass: 60% extra chance to reflect status ailments back to the attacker."
         ]
     },
     {
-        "originalIndex": 1302,
+        "originalIndex": 1304,
         "name": "Zione",
         "passives": [
             "Troop Mastery:",
@@ -9085,14 +9099,14 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1303,
+        "originalIndex": 1305,
         "name": "Akkorog",
         "passives": [
             "Increased Special Skill Damage: The first time this character casts a Special Skill that deals damage, an additional 30% is added to its power."
         ]
     },
     {
-        "originalIndex": 1304,
+        "originalIndex": 1306,
         "name": "Akkorog C1",
         "passives": [
             "Increased Special Skill Damage: This first time this character cast a Special Skill that deals damage an additional 30% is added to its power.",
@@ -9100,19 +9114,19 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1305,
+        "originalIndex": 1307,
         "name": "Albin",
         "passives": []
     },
     {
-        "originalIndex": 1306,
+        "originalIndex": 1308,
         "name": "Alvar",
         "passives": [
             "Health Recovery on Buff Received: This character recovers 5% health when they receive a buff or a positive stack."
         ]
     },
     {
-        "originalIndex": 1307,
+        "originalIndex": 1309,
         "name": "Amund",
         "passives": [
             "Special Skill Damage Reduction: This character has a 10% chance to drop the direct damage received from Special Skills to 1.",
@@ -9120,26 +9134,26 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1308,
+        "originalIndex": 1310,
         "name": "Anne",
         "passives": []
     },
     {
-        "originalIndex": 1309,
+        "originalIndex": 1311,
         "name": "Anteros",
         "passives": [
             "Resist Special Skill Blocking: This character has innate resistance against status ailments that block Special Skills."
         ]
     },
     {
-        "originalIndex": 1310,
+        "originalIndex": 1312,
         "name": "Aouda",
         "passives": [
             "Increased Special Skill Damage: First time this hero casts Special Skill that does damage, additional 30% is added to its power."
         ]
     },
     {
-        "originalIndex": 1311,
+        "originalIndex": 1313,
         "name": "Aouda C1",
         "passives": [
             "Increased Special Skill Damage: This first time this character cast a Special Skill that deals damage an additional 30% is added to its power.",
@@ -9147,14 +9161,14 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1312,
+        "originalIndex": 1314,
         "name": "Ashen",
         "passives": [
             "Decreased Healing: All enemies get -50% healing."
         ]
     },
     {
-        "originalIndex": 1313,
+        "originalIndex": 1315,
         "name": "Astrid",
         "passives": [
             "Quick Tempo: Ballad",
@@ -9164,14 +9178,14 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1314,
+        "originalIndex": 1316,
         "name": "Auricarc",
         "passives": [
             "Dodge Special Damage: This character has a 15% chance to dodge Special Skills that deal damage."
         ]
     },
     {
-        "originalIndex": 1315,
+        "originalIndex": 1317,
         "name": "Aviana",
         "passives": [
             "Resist Bleed Damage: This character has innate resistance against Bleed.",
@@ -9179,28 +9193,28 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1316,
+        "originalIndex": 1318,
         "name": "Bai Yeong",
         "passives": [
             "Resist Status Ailments from Minions: This character has innate resistance against status ailments that are from minions."
         ]
     },
     {
-        "originalIndex": 1317,
+        "originalIndex": 1319,
         "name": "Baishu",
         "passives": [
             "Disable Minion Abilities: Attacks and abilities of all Minions owned by enemies are disabled."
         ]
     },
     {
-        "originalIndex": 1318,
+        "originalIndex": 1320,
         "name": "Caitlin",
         "passives": [
             "Resist Damage from Status Effects: This charater has innate resistance against incoming damage from status effects."
         ]
     },
     {
-        "originalIndex": 1319,
+        "originalIndex": 1321,
         "name": "Caitlin C1",
         "passives": [
             "Resist Damage from Status Effects: This charater has innate resistance against incoming damage from status effects.",
@@ -9208,7 +9222,7 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1320,
+        "originalIndex": 1322,
         "name": "Celidana",
         "passives": [
             "Resist Max Health Reduction: This character has innate resistance against max health reduction.",
@@ -9216,7 +9230,7 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1321,
+        "originalIndex": 1323,
         "name": "Christine Daae",
         "passives": [
             "Resist Attack Ailments: This character has innate resistance against status ailments that affect attack.",
@@ -9224,7 +9238,7 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1322,
+        "originalIndex": 1324,
         "name": "Cleopatra",
         "passives": [
             "Effects on Special Skill: 60% chance to perform the following actions when this character casts their Special Skill",
@@ -9233,7 +9247,7 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1323,
+        "originalIndex": 1325,
         "name": "Cleopatra C1",
         "passives": [
             "Effects on Special Skill: 60% chance to perform the following actions when this character casts their Special Skill",
@@ -9244,14 +9258,14 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1324,
+        "originalIndex": 1326,
         "name": "Constance",
         "passives": [
             "Damage on Special Skill and Cover Damage: When this character receives damage from Special Skills or in place of a character in Cover, there’s a 60% chance to deal 20% of the received damage on all enemies."
         ]
     },
     {
-        "originalIndex": 1325,
+        "originalIndex": 1327,
         "name": "Dabria",
         "passives": [
             "Damage Over Time on Special: When this character casts their Special Skill, they give a Hunter’s Mark on a random enemy. The target receives 150 damage over 3 turns. If a target already has this effect, the duration will be refreshed and the damage will be increased with 150, up to 1500 damage in total.",
@@ -9259,19 +9273,19 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1326,
+        "originalIndex": 1328,
         "name": "Delilah",
         "passives": []
     },
     {
-        "originalIndex": 1327,
+        "originalIndex": 1329,
         "name": "Delilah C1",
         "passives": [
             "Cleanse on Special: When this character casts their Special Skill, they cleanse the newest status ailment from all allies."
         ]
     },
     {
-        "originalIndex": 1328,
+        "originalIndex": 1330,
         "name": "Devana",
         "passives": [
             "Resist Dispels: This character has an innate resistance against Dispels of buffs.",
@@ -9279,43 +9293,43 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1329,
+        "originalIndex": 1331,
         "name": "Director Zuri",
         "passives": []
     },
     {
-        "originalIndex": 1330,
+        "originalIndex": 1332,
         "name": "Director Zuri C1",
         "passives": [
             "Copy Ailment on Cleanse: When a status ailment is cleansed from this hero, a new copy of the cleansed ailment is applied on a random enemy."
         ]
     },
     {
-        "originalIndex": 1331,
+        "originalIndex": 1333,
         "name": "Dolores",
         "passives": [
             "Marked by the Old Ones: All damage is reduced by 5% per 10 Insanity for this character up to a maximum reduction of 50%."
         ]
     },
     {
-        "originalIndex": 1332,
+        "originalIndex": 1334,
         "name": "Drake Fong",
         "passives": []
     },
     {
-        "originalIndex": 1333,
+        "originalIndex": 1335,
         "name": "Drake Fong C1",
         "passives": [
             "Dispel on Special Skill: When this character casts their Special Skill, they dispel the newest status effect buff from all enemies."
         ]
     },
     {
-        "originalIndex": 1334,
+        "originalIndex": 1336,
         "name": "Eloise",
         "passives": []
     },
     {
-        "originalIndex": 1335,
+        "originalIndex": 1337,
         "name": "Ephyra",
         "passives": [
             "Effects on Special Skill: 50% chance to perform the following actions when this character casts their Special Skill",
@@ -9324,7 +9338,7 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1336,
+        "originalIndex": 1338,
         "name": "Ephyra C1",
         "passives": [
             "Effects on Special Skill: 50% chance to perform the following actions when this character casts their Special Skill",
@@ -9334,12 +9348,12 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1337,
+        "originalIndex": 1339,
         "name": "Erlang Shen",
         "passives": []
     },
     {
-        "originalIndex": 1338,
+        "originalIndex": 1340,
         "name": "Eset",
         "passives": [
             "Effects on Special Skill: 70% chance to perform the following actions when this character casts their Special Skill.",
@@ -9348,7 +9362,7 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1339,
+        "originalIndex": 1341,
         "name": "Eset C1",
         "passives": [
             "Effects on Special Skill: 70% chance to perform the following actions when this character casts their Special Skill.",
@@ -9359,7 +9373,7 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1340,
+        "originalIndex": 1342,
         "name": "Experience Mimic Holy",
         "passives": [
             "Perfect Accuracy: This character’s Special Skill never misses its targets.",
@@ -9372,7 +9386,7 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1341,
+        "originalIndex": 1343,
         "name": "Faeona",
         "passives": [
             "Resist Mana Reduction: This character has innate resistance against mana reduction.",
@@ -9380,12 +9394,12 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1342,
+        "originalIndex": 1344,
         "name": "Faline",
         "passives": []
     },
     {
-        "originalIndex": 1343,
+        "originalIndex": 1345,
         "name": "Frank 'Fangs' Brimwell",
         "passives": [
             "Resist Mana reduction: This character has an innate resistance against mana Reduction.",
@@ -9393,7 +9407,7 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1344,
+        "originalIndex": 1346,
         "name": "Furdinand",
         "passives": [
             "Wrath of Pets: When a Fiend is summoned to any enemy, this character deals 85% damage to all enemies. This effect can activate only once per turn.",
@@ -9401,7 +9415,7 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1345,
+        "originalIndex": 1347,
         "name": "Gandr",
         "passives": [
             "Empowered Resist Burn: This character has innate resistance against Burn and gains 450 boosted heath and 5% mana each time they resist.",
@@ -9412,7 +9426,7 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1346,
+        "originalIndex": 1348,
         "name": "Gideon",
         "passives": [
             "Resist Defense Reduction: This character has innate resistance against status ailments, stacks and Wither effects that affect defense.",
@@ -9421,7 +9435,7 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1347,
+        "originalIndex": 1349,
         "name": "Gilligan",
         "passives": [
             "Resist Mana Ailments: This character has innate resistance against ailments that affect mana.",
@@ -9429,7 +9443,7 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1348,
+        "originalIndex": 1350,
         "name": "Goldrip",
         "passives": [
             "Slime Minion Upon Defeat: When this character is defeated, they summon Slime Mega Minions to nearby allies with 50% HP and 40% attack inherited from this character.",
@@ -9437,7 +9451,7 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1349,
+        "originalIndex": 1351,
         "name": "Gongniu",
         "passives": [
             "Health Recovery on Status Ailment Received: This character recovers 10%  health when they receive a status ailment or a negative stack.",
@@ -9445,7 +9459,7 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1350,
+        "originalIndex": 1352,
         "name": "Gooric",
         "passives": [
             "Slime Minion Upon Defeat: When this character is defeated, they summon Slime Mega Minions to nearby allies with 50% HP and 40% attack inherited from this character.",
@@ -9453,7 +9467,7 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1351,
+        "originalIndex": 1353,
         "name": "Grilka",
         "passives": [
             "Troop Mastery:",
@@ -9464,44 +9478,44 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1352,
+        "originalIndex": 1354,
         "name": "Guardian Elephant",
         "passives": [
             "Resist Damage from Status Effects: This charater has innate resistance against incoming damage from status effects."
         ]
     },
     {
-        "originalIndex": 1353,
+        "originalIndex": 1355,
         "name": "Guardian Gazelle",
         "passives": []
     },
     {
-        "originalIndex": 1354,
+        "originalIndex": 1356,
         "name": "Guardian Gazelle C1",
         "passives": []
     },
     {
-        "originalIndex": 1355,
+        "originalIndex": 1357,
         "name": "Guardian Owl",
         "passives": []
     },
     {
-        "originalIndex": 1356,
+        "originalIndex": 1358,
         "name": "Guinevere",
         "passives": []
     },
     {
-        "originalIndex": 1357,
+        "originalIndex": 1359,
         "name": "Guinevere C1",
         "passives": []
     },
     {
-        "originalIndex": 1358,
+        "originalIndex": 1360,
         "name": "Gwendoline",
         "passives": []
     },
     {
-        "originalIndex": 1359,
+        "originalIndex": 1361,
         "name": "Gwynn",
         "passives": [
             "Resist Special Skill Blocking: This character has innate resistance against status ailments that block Special Skill.",
@@ -9509,7 +9523,7 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1360,
+        "originalIndex": 1362,
         "name": "Hachiko",
         "passives": [
             "Friend of the Familiars: When a Minion is summoned to any ally, this character gains 5% health and 5% mana. This effect can activate only once per turn.",
@@ -9517,14 +9531,14 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1361,
+        "originalIndex": 1363,
         "name": "Halcyon",
         "passives": [
             "Decreased Healing: All enemies get -50% healing."
         ]
     },
     {
-        "originalIndex": 1362,
+        "originalIndex": 1364,
         "name": "Hanitra",
         "passives": [
             "Resist Special Skill Blocking: This character has innate resistance against status ailments that block Special Skill.",
@@ -9532,7 +9546,7 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1363,
+        "originalIndex": 1365,
         "name": "Haumri",
         "passives": [
             "Superior Bypass Minions: All damage done by this character bypasses Minions and Mega Minions.",
@@ -9541,21 +9555,21 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1364,
+        "originalIndex": 1366,
         "name": "Hilda",
         "passives": [
             "Gargoile’s Softskin: Every time this Gargoyle casts a Special Skil, their Softskin activates. The next 4 times they receive damage, it is reduced by -90%, and they resist all status ailment and mana reduction. This effect can’t be dispelled."
         ]
     },
     {
-        "originalIndex": 1365,
+        "originalIndex": 1367,
         "name": "Horus",
         "passives": [
             "Effects on Special Skill: 40% chance to perform the following actions when this character casts their Special Skill ' * Deals 70% damage to all enemies.' ' * All enemies get -34% attack for 3 turns.'"
         ]
     },
     {
-        "originalIndex": 1366,
+        "originalIndex": 1368,
         "name": "Horus C1",
         "passives": [
             "Effects on Special Skill: 40% chance to perform the following actions when this character casts their Special Skill ' * Deals 70% damage to all enemies.' ' * All enemies get -34% attack for 3 turns.'",
@@ -9564,24 +9578,24 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1367,
+        "originalIndex": 1369,
         "name": "Iga",
         "passives": [
             "Decreased Minion Health: Enemy Minions inherit -50% less Health when summoned."
         ]
     },
     {
-        "originalIndex": 1368,
+        "originalIndex": 1370,
         "name": "Inari",
         "passives": []
     },
     {
-        "originalIndex": 1369,
+        "originalIndex": 1371,
         "name": "Inari C1",
         "passives": []
     },
     {
-        "originalIndex": 1370,
+        "originalIndex": 1372,
         "name": "Ironmaw",
         "passives": [
             "Troop Mastery:",
@@ -9592,7 +9606,7 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1371,
+        "originalIndex": 1373,
         "name": "Ithar",
         "passives": [
             "Dodge Special Damage: This character has a 15% chance to dodge Special Skills that deal damage.",
@@ -9600,24 +9614,24 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1372,
+        "originalIndex": 1374,
         "name": "Jana",
         "passives": [
             "Cleanse on Minion Death: This character is cleansed of status ailments when Minion owned by them is destroyed. "
         ]
     },
     {
-        "originalIndex": 1373,
+        "originalIndex": 1375,
         "name": "Jasper",
         "passives": []
     },
     {
-        "originalIndex": 1374,
+        "originalIndex": 1376,
         "name": "Jasper C1",
         "passives": []
     },
     {
-        "originalIndex": 1375,
+        "originalIndex": 1377,
         "name": "Jequn",
         "passives": [
             "Troop Mastery:",
@@ -9628,7 +9642,7 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1376,
+        "originalIndex": 1378,
         "name": "Jequn C1",
         "passives": [
             "'Troop Mastery:'",
@@ -9639,72 +9653,72 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1377,
+        "originalIndex": 1379,
         "name": "Joon",
         "passives": []
     },
     {
-        "originalIndex": 1378,
+        "originalIndex": 1380,
         "name": "Joon C1",
         "passives": []
     },
     {
-        "originalIndex": 1379,
+        "originalIndex": 1381,
         "name": "Joon C2",
         "passives": []
     },
     {
-        "originalIndex": 1380,
+        "originalIndex": 1382,
         "name": "Joon Toon",
         "passives": [
             "Toon: 75% extra chance to resist all status ailments, mana reductions and buff dispels."
         ]
     },
     {
-        "originalIndex": 1381,
+        "originalIndex": 1383,
         "name": "Joon Glass",
         "passives": [
             "Glass: 60% extra chance to reflect status ailments back to the attacker."
         ]
     },
     {
-        "originalIndex": 1382,
+        "originalIndex": 1384,
         "name": "Jove",
         "passives": [
             "Cleanse on Minion Death: This character is cleansed of status ailments when Minion owned by them is destroyed."
         ]
     },
     {
-        "originalIndex": 1383,
+        "originalIndex": 1385,
         "name": "Justice",
         "passives": []
     },
     {
-        "originalIndex": 1384,
+        "originalIndex": 1386,
         "name": "Justice C1",
         "passives": []
     },
     {
-        "originalIndex": 1385,
+        "originalIndex": 1387,
         "name": "Justice C2",
         "passives": []
     },
     {
-        "originalIndex": 1386,
+        "originalIndex": 1388,
         "name": "Justice Toon",
         "passives": [
             "Toon: 75% extra chance to resist all status ailments, mana reductions and buff dispels."
         ]
     },
     {
-        "originalIndex": 1387,
+        "originalIndex": 1389,
         "name": "Justice Glass",
         "passives": [
             "Glass: 60% extra chance to reflect status ailments back to the attacker."
         ]
     },
     {
-        "originalIndex": 1388,
+        "originalIndex": 1390,
         "name": "Kara",
         "passives": [
             "Mana on Buff Dispel: This character receives 10% mana each time a buff is dispelled from this character.",
@@ -9712,26 +9726,26 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1389,
+        "originalIndex": 1391,
         "name": "Kullervo",
         "passives": [
             "Power of Sisu: When this character starts a turn with low health for the first time during a battle, they recover 15% health and receive 15% mana."
         ]
     },
     {
-        "originalIndex": 1390,
+        "originalIndex": 1392,
         "name": "Kullervo C1",
         "passives": [
             "Power of Sisu: When this character starts a turn with low health for the first time during a battle, they recover 15% health and receive 15% mana."
         ]
     },
     {
-        "originalIndex": 1391,
+        "originalIndex": 1393,
         "name": "Kushanku",
         "passives": []
     },
     {
-        "originalIndex": 1392,
+        "originalIndex": 1394,
         "name": "Lando",
         "passives": [
             "Flight Momentum: If this character has any amount of Flight Momentum, they receive:",
@@ -9742,14 +9756,14 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1393,
+        "originalIndex": 1395,
         "name": "Laohu",
         "passives": [
             "Disable Minion Abilities: Attacks and abilities of all Minions owned by enemies are disabled."
         ]
     },
     {
-        "originalIndex": 1394,
+        "originalIndex": 1396,
         "name": "Lazara",
         "passives": [
             "Mana Buff on Status Ailment Received: Receives +24% mana generation for 3 turns when this character receives a status ailment or a negative stack.",
@@ -9758,7 +9772,7 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1395,
+        "originalIndex": 1397,
         "name": "Lemonwood",
         "passives": [
             "Resist Poison: This character has innate resistance against Poison.",
@@ -9766,43 +9780,43 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1396,
+        "originalIndex": 1398,
         "name": "Leonidas",
         "passives": []
     },
     {
-        "originalIndex": 1397,
+        "originalIndex": 1399,
         "name": "Leonidas C1",
         "passives": []
     },
     {
-        "originalIndex": 1398,
+        "originalIndex": 1400,
         "name": "Leonidas C2",
         "passives": []
     },
     {
-        "originalIndex": 1399,
+        "originalIndex": 1401,
         "name": "Leonidas Toon",
         "passives": [
             "Toon: 75% extra chance to resist all status ailments, mana reductions and buff dispels."
         ]
     },
     {
-        "originalIndex": 1400,
+        "originalIndex": 1402,
         "name": "Leonidas Glass",
         "passives": [
             "Glass: 60% extra chance to reflect status ailments back to the attacker."
         ]
     },
     {
-        "originalIndex": 1401,
+        "originalIndex": 1403,
         "name": "Livia",
         "passives": [
             "Reduce Mana Gain from Special Skills: Reduces the amount of mana increased by Special Skill by -80%. The effect applies to all enemies in the battle."
         ]
     },
     {
-        "originalIndex": 1402,
+        "originalIndex": 1404,
         "name": "Malin",
         "passives": [
             "Special Skill Damage Reduction: This character has a 10% chance to drop the direct damage received from Special Skills to 1.",
@@ -9810,21 +9824,21 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1403,
+        "originalIndex": 1405,
         "name": "Malosi",
         "passives": [
             "Resist Defense Ailments: The hero has an innate resistance against status ailments and negative stacks that affect Defense. Doesn't apply to status ailments that affect elemental defense."
         ]
     },
     {
-        "originalIndex": 1404,
+        "originalIndex": 1406,
         "name": "Matilda",
         "passives": [
             "Steal Buff: When this character casts their Special Skill, they have a 50% chance to steal the newest dispellable buff from a random enemy that has buffs. If no enemy has buffs, deals 70% damage to all enemies."
         ]
     },
     {
-        "originalIndex": 1405,
+        "originalIndex": 1407,
         "name": "May",
         "passives": [
             "Resist Minion Removal: This character has innate resistance against Minion removal.",
@@ -9832,7 +9846,7 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1406,
+        "originalIndex": 1408,
         "name": "Meg Giry",
         "passives": [
             "Resist Defense Ailments: This character has innate resistance against status ailments that affect defense.",
@@ -9840,7 +9854,7 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1407,
+        "originalIndex": 1409,
         "name": "Melodymuse",
         "passives": [
             "Resist Poison: This character has innate resistance against Poison.",
@@ -9848,7 +9862,7 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1408,
+        "originalIndex": 1410,
         "name": "Meresankh",
         "passives": [
             "Effects on Special Skill: 60% chance to perform the following actions when this character casts their Special Skill",
@@ -9857,7 +9871,7 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1409,
+        "originalIndex": 1411,
         "name": "Meresankh C1",
         "passives": [
             "Effects on Special Skill: 60% chance to perform the following actions when this character casts their Special Skill",
@@ -9868,12 +9882,12 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1410,
+        "originalIndex": 1412,
         "name": "Mica",
         "passives": []
     },
     {
-        "originalIndex": 1411,
+        "originalIndex": 1413,
         "name": "Moonbell",
         "passives": [
             "Resist Poison: This character has innate resistance against Poison.",
@@ -9881,21 +9895,21 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1412,
+        "originalIndex": 1414,
         "name": "Motega",
         "passives": [
             "Health recovery on Special: When this character casts their Special Skill, they have a 50% chance to recover 15% health for all allies. If the Special Skill is fully charged, the chance is 100%.'"
         ]
     },
     {
-        "originalIndex": 1413,
+        "originalIndex": 1415,
         "name": "Mother Lemminkainen",
         "passives": [
             "Power of Sisu: When this character starts a turn with low health for the first time during a battle, they recover 15% health and receive 15% mana."
         ]
     },
     {
-        "originalIndex": 1414,
+        "originalIndex": 1416,
         "name": "Motsognir",
         "passives": [
             "Empowered Resist Frost: This character has innate resistance against Frost and gains 450 boosted heath and 5% mana each time they resist.",
@@ -9905,26 +9919,26 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1415,
+        "originalIndex": 1417,
         "name": "Musashi",
         "passives": []
     },
     {
-        "originalIndex": 1416,
+        "originalIndex": 1418,
         "name": "Musashi C1",
         "passives": [
             "Dispel on Special Skill: When this character casts their Special Skill, they dispel the newest status effect buff from all enemies."
         ]
     },
     {
-        "originalIndex": 1417,
+        "originalIndex": 1419,
         "name": "Neith",
         "passives": [
             "Resist Mana Generation Stopping: This character has an innate resistance against status ailments that Stop Mana Generation."
         ]
     },
     {
-        "originalIndex": 1418,
+        "originalIndex": 1420,
         "name": "Nemesis",
         "passives": [
             "Resist Defense Ailments: Duration of the defense status ailments this character receives from Special Skills is decreased by 2 turns.",
@@ -9932,7 +9946,7 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1419,
+        "originalIndex": 1421,
         "name": "Nithgaest",
         "passives": [
             "Perfect Accuracy: This character’s Special Skill never mises its target.",
@@ -9941,41 +9955,41 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1420,
+        "originalIndex": 1422,
         "name": "Norns",
         "passives": []
     },
     {
-        "originalIndex": 1421,
+        "originalIndex": 1423,
         "name": "Norns C1",
         "passives": []
     },
     {
-        "originalIndex": 1422,
+        "originalIndex": 1424,
         "name": "Odin",
         "passives": []
     },
     {
-        "originalIndex": 1423,
+        "originalIndex": 1425,
         "name": "Odin C1",
         "passives": []
     },
     {
-        "originalIndex": 1424,
+        "originalIndex": 1426,
         "name": "Ogima",
         "passives": [
             "Mana increase reduction: Reduces the amount of mana increased by Special Skill by -80%. The effect applies to all enemies in the battle."
         ]
     },
     {
-        "originalIndex": 1425,
+        "originalIndex": 1427,
         "name": "Onatel",
         "passives": [
             "Resist Blind: This character has an innate ability to resist status ailments that affect Accuracy. Doesn't apply to status effects from allies."
         ]
     },
     {
-        "originalIndex": 1426,
+        "originalIndex": 1428,
         "name": "Papyros",
         "passives": [
             "Effects on Special Skill: 60% chance to perform the following actions when this character casts their Special Skill",
@@ -9984,7 +9998,7 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1427,
+        "originalIndex": 1429,
         "name": "Papyros C1",
         "passives": [
             "Effects on Special Skill: 60% chance to perform the following actions when this character casts their Special Skill",
@@ -9995,14 +10009,14 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1428,
+        "originalIndex": 1430,
         "name": "Penolite",
         "passives": [
             "Gargoyle’s Stoneskin: Every time this Gargoyle casts a Special Skill, their Stoneskin hardens. The next 4 times they receive damage, it is dropped to 1. This effect can’t be dispelled."
         ]
     },
     {
-        "originalIndex": 1429,
+        "originalIndex": 1431,
         "name": "Persa",
         "passives": [
             "Effects on Special Skill:",
@@ -10012,7 +10026,7 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1430,
+        "originalIndex": 1432,
         "name": "Persa C1",
         "passives": [
             "Effects on Special Skill:",
@@ -10023,14 +10037,14 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1431,
+        "originalIndex": 1433,
         "name": "Pertinax",
         "passives": [
             "Reduce Mana Gain from Special Skills: Reduces the amount of mana increased by Special Skill by -80%. The effect applies to all enemies in the battle."
         ]
     },
     {
-        "originalIndex": 1432,
+        "originalIndex": 1434,
         "name": "Philomena",
         "passives": [
             "Minion Blind: All enemies’ Minions have -60% accuracy. All enemies’ Mega Minions have -50% accuracy.",
@@ -10039,24 +10053,24 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1433,
+        "originalIndex": 1435,
         "name": "Poseidon",
         "passives": []
     },
     {
-        "originalIndex": 1434,
+        "originalIndex": 1436,
         "name": "Poseidon C1",
         "passives": []
     },
     {
-        "originalIndex": 1435,
+        "originalIndex": 1437,
         "name": "Prof. Lidenbrock",
         "passives": [
             "Start Battle with Mana: This character receives 20% mana at the start of the battle."
         ]
     },
     {
-        "originalIndex": 1436,
+        "originalIndex": 1438,
         "name": "Prof. Lidenbrock C1",
         "passives": [
             "Start Battle with Mana: This character receives 20% mana at the start of the battle.",
@@ -10064,46 +10078,46 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1437,
+        "originalIndex": 1439,
         "name": "Queen Guowang",
         "passives": []
     },
     {
-        "originalIndex": 1438,
+        "originalIndex": 1440,
         "name": "Rana",
         "passives": []
     },
     {
-        "originalIndex": 1439,
+        "originalIndex": 1441,
         "name": "Rana C1",
         "passives": []
     },
     {
-        "originalIndex": 1440,
+        "originalIndex": 1442,
         "name": "Ranvir",
         "passives": [
             "Resist Poison: This character has an innate resistance against Poison."
         ]
     },
     {
-        "originalIndex": 1441,
+        "originalIndex": 1443,
         "name": "Rhys",
         "passives": [
             "Mana increase reduction: Reduces the amount of mana increased by Special Skill by -80%. The effect applies to all enemies in the battle."
         ]
     },
     {
-        "originalIndex": 1442,
+        "originalIndex": 1444,
         "name": "Roc",
         "passives": []
     },
     {
-        "originalIndex": 1443,
+        "originalIndex": 1445,
         "name": "Roc C1",
         "passives": []
     },
     {
-        "originalIndex": 1444,
+        "originalIndex": 1446,
         "name": "Rosalind",
         "passives": [
             "Resist Mana reduction: This character has an innate resistance against mana Reduction.",
@@ -10111,7 +10125,7 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1445,
+        "originalIndex": 1447,
         "name": "Ruan Xiaoqi",
         "passives": [
             "Cleanse on Critical Special Attack: When this character scores a critical hit with their Special Skill, they safely cleanse the latest cleansable status effect from all allies. This effect can activate once per turn.",
@@ -10123,7 +10137,7 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1446,
+        "originalIndex": 1448,
         "name": "Salniss",
         "passives": [
             "Superior Bypass Minions: All damage done by this character bypasses Minions and Mega Minions.",
@@ -10132,14 +10146,14 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1447,
+        "originalIndex": 1449,
         "name": "Satinpimenter",
         "passives": [
             "Dodge Special Damage: This character has a 15% chance to dodge Special Skills that deal damage."
         ]
     },
     {
-        "originalIndex": 1448,
+        "originalIndex": 1450,
         "name": "Scrollbeast",
         "passives": [
             "Effects on Special Skill: 60% chance to perform the following actions when this character casts their Special Skill.",
@@ -10148,7 +10162,7 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1449,
+        "originalIndex": 1451,
         "name": "Shaal",
         "passives": [
             "Resist Special Skill Blocking: This character has innate resistance against status ailments that block Special Skill.",
@@ -10156,7 +10170,7 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1450,
+        "originalIndex": 1452,
         "name": "Shimmerscale",
         "passives": [
             "Resist Mana reduction: This character has an innate resistance against mana Reduction.",
@@ -10164,29 +10178,29 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1451,
+        "originalIndex": 1453,
         "name": "Sif",
         "passives": []
     },
     {
-        "originalIndex": 1452,
+        "originalIndex": 1454,
         "name": "Sif C1",
         "passives": []
     },
     {
-        "originalIndex": 1453,
+        "originalIndex": 1455,
         "name": "Silverpaw",
         "passives": [
             "Decreased Healing: All enemies get -50% healing."
         ]
     },
     {
-        "originalIndex": 1454,
+        "originalIndex": 1456,
         "name": "Sir Roostley",
         "passives": []
     },
     {
-        "originalIndex": 1455,
+        "originalIndex": 1457,
         "name": "Sludgus",
         "passives": [
             "Slime Minion Upon Defeat: When this character is defeated, they summon Slime Mega Minions to nearby allies with 50% HP and 40% attack inherited from this character.",
@@ -10194,7 +10208,7 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1456,
+        "originalIndex": 1458,
         "name": "Tang Sanzang",
         "passives": [
             "Mana on Buff Received: This character has a 50% chance to recover 10% mana when they receive a buff or possitve stack.",
@@ -10202,17 +10216,17 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1457,
+        "originalIndex": 1459,
         "name": "Thor",
         "passives": []
     },
     {
-        "originalIndex": 1458,
+        "originalIndex": 1460,
         "name": "Thor C1",
         "passives": []
     },
     {
-        "originalIndex": 1459,
+        "originalIndex": 1461,
         "name": "Thunderclap",
         "passives": [
             "Damage over time on special: When this character casts their Special Skill, they give a Hunter's Mark on a random enemy. The target receives 150 damage over 3 turns. If a target already has this effect, the duration will be refreshed and the damage will be increased by 150, up to 1500 damage in total.",
@@ -10220,7 +10234,7 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1460,
+        "originalIndex": 1462,
         "name": "Thura",
         "passives": [
             "Special Skill Damage Reduction: This character has a 10% chance to drop the direct damage received from Special Skills to 1.",
@@ -10228,12 +10242,12 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1461,
+        "originalIndex": 1463,
         "name": "Topaz",
         "passives": []
     },
     {
-        "originalIndex": 1462,
+        "originalIndex": 1464,
         "name": "Uraeus",
         "passives": [
             "Resist Sand Damage: This character has an innate resistance against Sand damage.",
@@ -10241,7 +10255,7 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1463,
+        "originalIndex": 1465,
         "name": "Vaishali",
         "passives": [
             "Stack on Special: When this character casts their Special Skill, all enemies get -5% mana generation stack. If the Special Skill is fully changed, all enemies get two stacks. An enemy can have up to 10 stacks.",
@@ -10249,43 +10263,43 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1464,
+        "originalIndex": 1466,
         "name": "Vivica",
         "passives": []
     },
     {
-        "originalIndex": 1465,
+        "originalIndex": 1467,
         "name": "Vivica C1",
         "passives": []
     },
     {
-        "originalIndex": 1466,
+        "originalIndex": 1468,
         "name": "Vivica C2",
         "passives": []
     },
     {
-        "originalIndex": 1467,
+        "originalIndex": 1469,
         "name": "Vivica Toon",
         "passives": [
             "Toon: 75% extra chance to resist all status ailments, mana reductions and buff dispels."
         ]
     },
     {
-        "originalIndex": 1468,
+        "originalIndex": 1470,
         "name": "Vivica Glass",
         "passives": [
             "Glass: 60% extra chance to reflect status ailments back to the attacker."
         ]
     },
     {
-        "originalIndex": 1469,
+        "originalIndex": 1471,
         "name": "Wayne",
         "passives": [
             "Steal Buff: When this character casts their Special Skill, they have a 50% chance to steal the newest dispellable buff from a random enemy that has buffs. If no enemy has buffs, deals 70% damage to all enemies."
         ]
     },
     {
-        "originalIndex": 1470,
+        "originalIndex": 1472,
         "name": "Wealhtheow",
         "passives": [
             "Mana on Buff Received: This character gains 5% mana when they receive a buff or positive stack.",
@@ -10294,19 +10308,19 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1471,
+        "originalIndex": 1473,
         "name": "White Rabbit",
         "passives": []
     },
     {
-        "originalIndex": 1472,
+        "originalIndex": 1474,
         "name": "White Rabbit C1",
         "passives": [
             "Mindless Attack On Special Skill: On Special Skill cast, 50% chance to inflict Mindless Attack on a random enemy for 3 turns."
         ]
     },
     {
-        "originalIndex": 1473,
+        "originalIndex": 1475,
         "name": "Willow",
         "passives": [
             "Health recovery on Special: When this character casts their Special Skill, they have a 50% chance to recover 15% health for all allies. If the Special Skill is fully charged, the chance is 100%.",
@@ -10314,7 +10328,7 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1474,
+        "originalIndex": 1476,
         "name": "Winnie",
         "passives": [
             "Mana on Buff Received: Gain 5% mana when receiving a buff or a positive stack",
@@ -10322,12 +10336,12 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1475,
+        "originalIndex": 1477,
         "name": "Wolfgang",
         "passives": []
     },
     {
-        "originalIndex": 1476,
+        "originalIndex": 1478,
         "name": "Wolfgang C1",
         "passives": [
             "Increased Status Effect Duration: Chance to increase the duration of cast status effects",
@@ -10336,12 +10350,12 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1477,
+        "originalIndex": 1479,
         "name": "Wulfstan",
         "passives": []
     },
     {
-        "originalIndex": 1478,
+        "originalIndex": 1480,
         "name": "Xavier",
         "passives": [
             "Troop Mastery:",
@@ -10352,7 +10366,7 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1479,
+        "originalIndex": 1481,
         "name": "Zandria",
         "passives": [
             "Troop Mastery:",
@@ -10363,7 +10377,7 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1480,
+        "originalIndex": 1482,
         "name": "Zazha",
         "passives": [
             "Flight Momentum: If this character has any amount of Flight Momentum, they receive:",
@@ -10374,21 +10388,21 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1481,
+        "originalIndex": 1483,
         "name": "Zekena",
         "passives": [
             "Increase Buff Duration: Duration of the first 3 buff this hero receives from Special Skills is increased by 1 turn."
         ]
     },
     {
-        "originalIndex": 1482,
+        "originalIndex": 1484,
         "name": "Zekena C1",
         "passives": [
             "Increased Damage Against Boosted Health: After this character casts their Special Skill cast, all allies’ normal attacks and Special Skills deal +70% damage against targets with boosted health for 4 turns ."
         ]
     },
     {
-        "originalIndex": 1483,
+        "originalIndex": 1485,
         "name": "Zenuk'wa",
         "passives": [
             "Damage over time on Special: When this character casts their Special Skill, all enemies receive 238 Water damage over 2 turns.",
@@ -10396,12 +10410,12 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1484,
+        "originalIndex": 1486,
         "name": "Zhang Fei",
         "passives": []
     },
     {
-        "originalIndex": 1485,
+        "originalIndex": 1487,
         "name": "Zhang Fei C1",
         "passives": [
             "Unstoppable Minions:",
@@ -10411,12 +10425,12 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1486,
+        "originalIndex": 1488,
         "name": "Zhuge Liang",
         "passives": []
     },
     {
-        "originalIndex": 1487,
+        "originalIndex": 1489,
         "name": "Zhuge Liang C1",
         "passives": [
             "Unstoppable Minions:",
@@ -10426,7 +10440,7 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1488,
+        "originalIndex": 1490,
         "name": "Zora",
         "passives": [
             "Resist Mana Reduction: This character has innate resistance against mana reduction.",
@@ -10434,7 +10448,7 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1489,
+        "originalIndex": 1491,
         "name": "Ascension Mimic Holy",
         "passives": [
             "Perfect Accuracy: This character’s Special Skill never misses its targets.",
@@ -10451,7 +10465,7 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1490,
+        "originalIndex": 1492,
         "name": "Ascension Mimic Dark",
         "passives": [
             "Perfect Accuracy: This character’s Special Skill never misses its targets.",
@@ -10466,5 +10480,50 @@ const allTranslations =
             " * Trap Tools",
             " * Royal Tabard"
         ]
+    },
+    {
+        "originalIndex": 1493,
+        "name": "Bartholomew",
+        "passives": []
+    },
+    {
+        "originalIndex": 1494,
+        "name": "Elsbeth",
+        "passives": []
+    },
+    {
+        "originalIndex": 1495,
+        "name": "Zestique",
+        "passives": []
+    },
+    {
+        "originalIndex": 1496,
+        "name": "Svafa",
+        "passives": []
+    },
+    {
+        "originalIndex": 1497,
+        "name": "Griffex C1",
+        "passives": []
+    },
+    {
+        "originalIndex": 1498,
+        "name": "Hygil",
+        "passives": []
+    },
+    {
+        "originalIndex": 1499,
+        "name": "Stravia",
+        "passives": []
+    },
+    {
+        "originalIndex": 1500,
+        "name": "Lilli",
+        "passives": []
+    },
+    {
+        "originalIndex": 1501,
+        "name": "Vaishali C1",
+        "passives": []
     }
 ];

@@ -846,5 +846,7 @@
     "Damage 2 if Fire": "若目标为火焰系则额外对2个目标造成伤害",
     "Dot 2 if Fire": "若目标为火焰系则额外对2个目标造成持续伤害",
     "Friendly Criters’ Feast": "友善生物盛宴",
-    "Lasting Defense Buff All": "全体持续防御增益"
+    "Lasting Defense Buff All": "全体持续防御增益",
+    "Mana Increase on Resist All": "全体抵抗时增加法力",
+    "Self Mark for SS cast": "自我标记以施放特殊技能"
 }

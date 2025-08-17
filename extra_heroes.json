@@ -220,17 +220,6 @@
         "Lottery_Only":1
     },
     {
-        "name": "Lilareine",
-        "fancy_name": "Marquise Moth",
-        "color": "Purple",
-        "Release date": "",
-        "star": 5,
-        "family": "moth",
-        "costume_id": 0,
-        "heroId": "moth_lilareine",
-        "Lottery_Only":1
-    },
-    {
         "name": "Vaishali C1",
         "fancy_name": "Mystic Pie Master",
         "color": "Yellow",

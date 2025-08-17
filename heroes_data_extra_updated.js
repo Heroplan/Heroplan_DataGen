@@ -34194,5 +34194,49 @@ window.allHeroesExtra = [
         "defenseBonus": "75%",
         "healthBonus": "78%",
         "manaBonus": "5%"
+    },
+    {
+        "name": "Joyvert",
+        "fancy name": "Music Mothuoso",
+        "element": "Green",
+        "rarity": 4,
+        "Release date": "2025-08-14",
+        "AetherPower": "Special Boost",
+        "skill_types": [
+            "Snipers",
+            "Sleepweavers",
+            "Dodgers"
+        ],
+        "heroId": "moth_joyvert",
+        "baseAttack": 395,
+        "baseDefense": 346,
+        "baseHealth": 600,
+        "specialId": "goodnight_lullaby",
+        "passiveSkills": [
+            "dodge_enemy_damage_special"
+        ]
+    },
+    {
+        "name": "Lilareine",
+        "fancy name": "Marquise Moth",
+        "element": "Purple",
+        "rarity": 5,
+        "Release date": "2025-08-14",
+        "AetherPower": "Special Armor",
+        "skill_types": [
+            "Dodgers",
+            "Health Boosters",
+            "Cleansers",
+            "Mana Generation Buffers",
+            "Stacking Heroes"
+        ],
+        "heroId": "moth_lilareine",
+        "baseAttack": 593,
+        "baseDefense": 623,
+        "baseHealth": 1099,
+        "specialId": "revitalizing_melody",
+        "passiveSkills": [
+            "dodge_enemy_damage_special"
+        ]
     }
 ];
