@@ -10557,5 +10557,10 @@ const translatedPassivesCN =
         "originalIndex": 1501,
         "name": "Vaishali C1",
         "passives": []
+    },
+    {
+        "originalIndex": 1502,
+        "name": "Lu Zhishen",
+        "passives": []
     }
 ];

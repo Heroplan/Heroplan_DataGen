@@ -23,7 +23,7 @@
             "Bypassers"
         ],
         "source": "secretsummon",
-        "Release date": "",
+        "Release date": "2025-08-18",
         "star": 5,
         "power": 1225,
         "attack": 1268,
@@ -228,6 +228,17 @@
         "family": "magic",
         "costume_id": 0,
         "heroId": "magic_vaishali_costume_chef",
+        "Lottery_Only":1
+    },
+    {
+        "name": "Lu Zhishen",
+        "fancy_name": "Flowery Monk of Water Margin",
+        "color": "Red",
+        "Release date": "",
+        "star": 5,
+        "family": "outlaw",
+        "costume_id": 0,
+        "heroId": "outlaw_lu_zhishen",
         "Lottery_Only":1
     }
 ]

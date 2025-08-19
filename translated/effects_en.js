@@ -14492,5 +14492,10 @@ const allTranslations =
         "originalIndex": 1501,
         "name": "吠舍离 (Vaishali) C1",
         "effects": []
+    },
+    {
+        "originalIndex": 1502,
+        "name": "鲁智深 (Lu Zhishen)",
+        "effects": []
     }
 ];

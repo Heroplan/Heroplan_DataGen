@@ -103135,7 +103135,7 @@ window.allHeroes =
             "繞過"
         ],
         "source": "額外抽獎 - 秘密召喚",
-        "Release date": "",
+        "Release date": "2025-08-18",
         "specialId": "gorging_chew_yellow",
         "heroId": "mimic_ascension_item_yellow",
         "star": 5,
@@ -103520,6 +103520,32 @@ window.allHeroes =
         "family": "magic",
         "costume_id": 0,
         "originalIndex": 1501,
+        "cn_skill_info": []
+    },
+    {
+        "name": "魯智深 (Lu Zhishen)",
+        "fancy_name": "《水滸傳》之花和尚",
+        "AetherPower": "",
+        "color": "紅",
+        "class": "",
+        "speed": "",
+        "skill": "",
+        "types": [],
+        "skill_types": [],
+        "source": "",
+        "Release date": "",
+        "specialId": "",
+        "heroId": "outlaw_lu_zhishen",
+        "star": 5,
+        "power": null,
+        "attack": null,
+        "defense": null,
+        "health": null,
+        "effects": [],
+        "passives": [],
+        "family": "outlaw",
+        "costume_id": 0,
+        "originalIndex": 1502,
         "cn_skill_info": []
     }
 ];

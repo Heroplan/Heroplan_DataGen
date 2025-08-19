@@ -2633,6 +2633,12 @@
             "type": "MysteryHero",
             "startTime": "2025-08-05 07:00:00",
             "endTime": "2025-08-06 07:00:00"
+          },
+          {
+            "id": "SecretSummonAscensionMimicYellow",
+            "type": "MysteryHero",
+            "startTime": "2025-08-18 07:00:00",
+            "endTime": "2025-08-19 07:00:00"
           }
         ],
         "challengeEventEntries": [
@@ -50231,31 +50237,31 @@
                 {
                   "cost": 10,
                   "heroes": [
-                    "astral_voidstar",
-                    "lunar_new_year_gongniu",
-                    "musketeer_cardinal_richelieu",
-                    "musketeer_milady_de_winter",
-                    "castle_bear_teddy"
+                    "gargoyle_uwe",
+                    "holy_god_aviana",
+                    "masquerade_carmenta",
+                    "christmas_tinsel",
+                    "construct_haulstone"
                   ]
                 },
                 {
                   "cost": 15,
                   "heroes": [
-                    "musketeer_aramis",
-                    "masquerade_jana",
-                    "castle_bear_torben",
-                    "masquerade_fortuna",
-                    "goblin_smarttongue"
+                    "s5_bastet_costume_forest",
+                    "journey_erlang_shen",
+                    "construct_brimstone",
+                    "construct_skarn",
+                    "owl_relius"
                   ]
                 },
                 {
                   "cost": 20,
                   "heroes": [
-                    "s5_anubis_costume_dancefloor",
-                    "ballerina_meg_giry",
-                    "goblin_madhammer",
-                    "guardian_hippo",
-                    "construct_ferrus"
+                    "goblin_acidfire",
+                    "champions_lazara",
+                    "owl_lodius",
+                    "astral_starwalker",
+                    "gargoyle_garten"
                   ]
                 }
               ],
@@ -50280,21 +50286,30 @@
           "entries": [
             {
               "overridden": true,
-              "id": "mercenary_war_22_5_2025",
-              "startTime": "2025-05-22 07:00:00",
-              "endTime": "2025-05-27 07:00:00"
-            },
-            {
-              "overridden": true,
-              "id": "mercenary_war_30_6_2025",
-              "startTime": "2025-06-30 07:00:00",
-              "endTime": "2025-07-05 07:00:00"
-            },
-            {
-              "overridden": true,
               "id": "mercenary_war_28_7_2025",
               "startTime": "2025-08-02 07:00:00",
               "endTime": "2025-08-07 07:00:00"
+            },
+            {
+              "overridden": true,
+              "id": "mercenary_war_30_8_2025",
+              "startTime": "2025-08-30 07:00:00",
+              "endTime": "2025-09-04 07:00:00"
+            },
+            {
+              "id": "mercenary_war_14_10_2025",
+              "startTime": "2025-10-14 07:00:00",
+              "endTime": "2025-10-19 07:00:00"
+            },
+            {
+              "id": "mercenary_war_9_12_2025",
+              "startTime": "2025-12-09 07:00:00",
+              "endTime": "2025-12-14 07:00:00"
+            },
+            {
+              "id": "mercenary_war_3_2_2026",
+              "startTime": "2026-02-03 07:00:00",
+              "endTime": "2026-02-08 07:00:00"
             }
           ]
         },
@@ -79850,5 +79865,5 @@
     "criticalOperationPendingDelaySeconds": 3,
     "allowedCriticalOperationPendingCount": 3
   },
-  "otherConfigId": 1817838074
+  "otherConfigId": 3553540399
 }

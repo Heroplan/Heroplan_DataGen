@@ -2633,6 +2633,12 @@
             "type": "MysteryHero",
             "startTime": "2025-08-05 07:00:00",
             "endTime": "2025-08-06 07:00:00"
+          },
+          {
+            "id": "SecretSummonAscensionMimicYellow",
+            "type": "MysteryHero",
+            "startTime": "2025-08-18 07:00:00",
+            "endTime": "2025-08-19 07:00:00"
           }
         ],
         "challengeEventEntries": [
@@ -50231,31 +50237,31 @@
                 {
                   "cost": 10,
                   "heroes": [
-                    "虚空之星",
-                    "公牛",
-                    "红衣主教黎塞留",
-                    "米莱狄·德·温特",
-                    "泰迪"
+                    "乌韦",
+                    "阿维亚纳",
+                    "卡耳门塔",
+                    "金丝儿",
+                    "运输石"
                   ]
                 },
                 {
                   "cost": 15,
                   "heroes": [
-                    "阿拉密斯",
-                    "嘉娜",
-                    "托本",
-                    "福尔图娜",
-                    "巧舌妇"
+                    "巴斯泰托-森林之眼",
+                    "二郎神",
+                    "硫磺",
+                    "斯卡恩",
+                    "雷利乌斯"
                   ]
                 },
                 {
                   "cost": 20,
                   "heroes": [
-                    "阿努比斯-舞池仲裁者",
-                    "梅格·吉瑞",
-                    "疯锤儿",
-                    "河马守护者",
-                    "费洛斯"
+                    "酸火",
+                    "拉扎拉",
+                    "洛迪乌斯",
+                    "星游者",
+                    "加滕"
                   ]
                 }
               ],
@@ -50280,21 +50286,30 @@
           "entries": [
             {
               "overridden": true,
-              "id": "mercenary_war_22_5_2025",
-              "startTime": "2025-05-22 07:00:00",
-              "endTime": "2025-05-27 07:00:00"
-            },
-            {
-              "overridden": true,
-              "id": "mercenary_war_30_6_2025",
-              "startTime": "2025-06-30 07:00:00",
-              "endTime": "2025-07-05 07:00:00"
-            },
-            {
-              "overridden": true,
               "id": "mercenary_war_28_7_2025",
               "startTime": "2025-08-02 07:00:00",
               "endTime": "2025-08-07 07:00:00"
+            },
+            {
+              "overridden": true,
+              "id": "mercenary_war_30_8_2025",
+              "startTime": "2025-08-30 07:00:00",
+              "endTime": "2025-09-04 07:00:00"
+            },
+            {
+              "id": "mercenary_war_14_10_2025",
+              "startTime": "2025-10-14 07:00:00",
+              "endTime": "2025-10-19 07:00:00"
+            },
+            {
+              "id": "mercenary_war_9_12_2025",
+              "startTime": "2025-12-09 07:00:00",
+              "endTime": "2025-12-14 07:00:00"
+            },
+            {
+              "id": "mercenary_war_3_2_2026",
+              "startTime": "2026-02-03 07:00:00",
+              "endTime": "2026-02-08 07:00:00"
             }
           ]
         },
@@ -79850,5 +79865,5 @@
     "criticalOperationPendingDelaySeconds": 3,
     "allowedCriticalOperationPendingCount": 3
   },
-  "otherConfigId": 1817838074
+  "otherConfigId": 3553540399
 }

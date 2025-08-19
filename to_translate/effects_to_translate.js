@@ -14492,5 +14492,10 @@ const allTranslations =
         "originalIndex": 1501,
         "name": "Vaishali C1",
         "effects": []
+    },
+    {
+        "originalIndex": 1502,
+        "name": "Lu Zhishen",
+        "effects": []
     }
 ];
