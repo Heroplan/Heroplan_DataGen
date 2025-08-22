@@ -5489,17 +5489,79 @@ This Hero has the following perks in this event:'
 
 === quests_name (zh-Hans) 翻译分析调试信息 ===
 
---- 无重复英文名称 ---
+--- 重复的英文名称（标准化后相同） ---
+
+'covenant quest' 有以下变体:
+- [quests.name.covenant] 原始: 'Covenant Quest' 标准化: 'Covenant Quest'
+- [quests.name.covenant_1] 原始: 'Covenant Quest' 标准化: 'Covenant Quest'
+- [quests.name.covenant_2] 原始: 'Covenant Quest' 标准化: 'Covenant Quest'
+
+'farholme pass' 有以下变体:
+- [quests.name.element_extra] 原始: 'Farholme Pass' 标准化: 'Farholme Pass'
+- [quests.name.element_extra2] 原始: 'Farholme Pass' 标准化: 'Farholme Pass'
+
+'goblin village' 有以下变体:
+- [quests.name.goblin] 原始: 'Goblin Village' 标准化: 'Goblin Village'
+- [quests.special_rule.name.goblin] 原始: 'Goblin Village' 标准化: 'Goblin Village'
+
+'mirages of omega' 有以下变体:
+- [quests.name.limit_breaker_dark] 原始: 'Mirages of Omega' 标准化: 'Mirages of Omega'
+- [quests.name.limit_breaker_fire] 原始: 'Mirages of Omega' 标准化: 'Mirages of Omega'
+- [quests.name.limit_breaker_holy] 原始: 'Mirages of Omega' 标准化: 'Mirages of Omega'
+- [quests.name.limit_breaker_ice] 原始: 'Mirages of Omega' 标准化: 'Mirages of Omega'
+- [quests.name.limit_breaker_nature] 原始: 'Mirages of Omega' 标准化: 'Mirages of Omega'
+
+总重复组数: 4
 
 --- 无未匹配英文条目 ---
 
---- 无未使用的zh-Hans翻译 ---
+--- 未使用的zh-Hans翻译 ---
+- [quests.name.covenant_1] 盟约任务
+- [quests.name.covenant_2] 盟约任务
+- [quests.name.element_extra2] 法霍姆山口
+- [quests.name.limit_breaker_fire] 欧米茄幻象
+- [quests.name.limit_breaker_holy] 欧米茄幻象
+- [quests.name.limit_breaker_ice] 欧米茄幻象
+- [quests.name.limit_breaker_nature] 欧米茄幻象
+- [quests.special_rule.name.goblin] 哥布林村
+总数: 8
 
 
 === quests_name (zh-Hant) 翻译分析调试信息 ===
 
---- 无重复英文名称 ---
+--- 重复的英文名称（标准化后相同） ---
+
+'covenant quest' 有以下变体:
+- [quests.name.covenant] 原始: 'Covenant Quest' 标准化: 'Covenant Quest'
+- [quests.name.covenant_1] 原始: 'Covenant Quest' 标准化: 'Covenant Quest'
+- [quests.name.covenant_2] 原始: 'Covenant Quest' 标准化: 'Covenant Quest'
+
+'farholme pass' 有以下变体:
+- [quests.name.element_extra] 原始: 'Farholme Pass' 标准化: 'Farholme Pass'
+- [quests.name.element_extra2] 原始: 'Farholme Pass' 标准化: 'Farholme Pass'
+
+'goblin village' 有以下变体:
+- [quests.name.goblin] 原始: 'Goblin Village' 标准化: 'Goblin Village'
+- [quests.special_rule.name.goblin] 原始: 'Goblin Village' 标准化: 'Goblin Village'
+
+'mirages of omega' 有以下变体:
+- [quests.name.limit_breaker_dark] 原始: 'Mirages of Omega' 标准化: 'Mirages of Omega'
+- [quests.name.limit_breaker_fire] 原始: 'Mirages of Omega' 标准化: 'Mirages of Omega'
+- [quests.name.limit_breaker_holy] 原始: 'Mirages of Omega' 标准化: 'Mirages of Omega'
+- [quests.name.limit_breaker_ice] 原始: 'Mirages of Omega' 标准化: 'Mirages of Omega'
+- [quests.name.limit_breaker_nature] 原始: 'Mirages of Omega' 标准化: 'Mirages of Omega'
+
+总重复组数: 4
 
 --- 无未匹配英文条目 ---
 
---- 无未使用的zh-Hant翻译 ---
+--- 未使用的zh-Hant翻译 ---
+- [quests.name.covenant_1] 聖約任務
+- [quests.name.covenant_2] 聖約任務
+- [quests.name.element_extra2] 法霍姆山口
+- [quests.name.limit_breaker_fire] 奧米加幻影
+- [quests.name.limit_breaker_holy] 奧米加幻影
+- [quests.name.limit_breaker_ice] 奧米加幻影
+- [quests.name.limit_breaker_nature] 奧米加幻影
+- [quests.special_rule.name.goblin] 哥布林村
+总数: 8

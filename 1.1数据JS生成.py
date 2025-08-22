@@ -1061,3 +1061,4 @@ if __name__ == '__main__':
     else:
         logging.critical(f"错误: 英雄数据目录不存在: '{HEROES_DATA_DIR}'")
         print(f"错误: 英雄数据目录不存在: '{HEROES_DATA_DIR}'")
+    input("\n按任意键退出...")

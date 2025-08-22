@@ -56156,7 +56156,7 @@
       {
         "propertyType": "IceStrike",
         "id": "ice_strike_svafa",
-        "fixedPower": 690,
+        "fixedPower": 540,
         "fixedPowerIncrementPerLevel": 30,
         "targetType": "NearToTarget",
         "sideAffected": "Enemies",
@@ -57534,5 +57534,5 @@
       }
     ]
   },
-  "specialsConfigId": 1500511166
+  "specialsConfigId": 2023932682
 }

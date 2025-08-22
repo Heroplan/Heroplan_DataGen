@@ -88,7 +88,7 @@ def load_all_data_sources():
     raw_chars = {}
     try:
         # 加载核心英雄数据
-        with open('characters_en.json', 'r', encoding='utf-8') as f:
+        with open('./dict_gen/官方英雄数据缓存解析/CachedConfigurations/json/characters_en.json', 'r', encoding='utf-8') as f:
             raw_chars = json.load(f)
     except Exception as e:
         print(f"❌ 严重错误: 无法加载 'characters_en.json'。错误: {e}"); return False
@@ -96,7 +96,7 @@ def load_all_data_sources():
     translation_table = {}
     try:
         # 加载英雄的 "fancy name" 翻译文件
-        with open('heroes_name_fancy_en.txt', 'r', encoding='utf-8') as f:
+        with open('./dict_gen/官方语言字典生成/generated_txt/heroes_name_fancy_en.txt', 'r', encoding='utf-8') as f:
             for line in f:
                 if ',' in line:
                     k, v = line.split(',', 1)
@@ -141,13 +141,13 @@ def load_all_data_sources():
         
     try:
         # 加载包含服装奖励规则的 other.json 文件
-        with open('other.json', 'r', encoding='utf-8') as f:
+        with open('./dict_gen/官方英雄数据缓存解析/CachedConfigurations/json/other_en.json', 'r', encoding='utf-8') as f:
             other_data = json.load(f)
         bonuses_list = other_data.get("otherConfig", {}).get("logic", {}).get("costumes", {}).get("costumeBonuses", [])
         COSTUME_BONUSES_DATA = {bonus['id']: bonus for bonus in bonuses_list}
-        print(f"✅ 成功加载 'other.json' 并提取了 {len(COSTUME_BONUSES_DATA)} 套服装奖励规则。")
+        print(f"✅ 成功加载 'other_en.json' 并提取了 {len(COSTUME_BONUSES_DATA)} 套服装奖励规则。")
     except Exception as e:
-        print(f"🟡 警告: 无法加载 'other.json'。服装奖励将不可用。错误: {e}")
+        print(f"🟡 警告: 无法加载 'other_en.json'。服装奖励将不可用。错误: {e}")
     return True
 def calculate_costume_bonus(hero_extra_entry, rarity, costume_bonuses_id):
     """
@@ -481,4 +481,4 @@ if __name__ == "__main__":
         print("\n由于核心数据文件加载失败，程序已终止。")
     
     # 等待用户按键退出，以便在命令行中查看输出信息
-    input("\n按 Enter 键退出...")
+    input("\n按任意键退出...")

@@ -1237,7 +1237,7 @@
     "rarity": 5,
     "specialId": "championship_carrot",
     "canBeReceivedDate": "2022-03-21 07:00:00",
-    "origin": "春谷节",
+    "origin": "Easter",
     "parentHeroId": "easter_killhare"
   },
   "rabbit_blue_costume_riftbreaker": {
@@ -1253,7 +1253,7 @@
     "rarity": 5,
     "specialId": "rift_blade",
     "canBeReceivedDate": "2022-03-21 07:00:00",
-    "origin": "春谷节",
+    "origin": "Easter",
     "parentHeroId": "rabbit_blue"
   },
   "sand_queen_costume_surfer": {
@@ -1666,7 +1666,7 @@
     "rarity": 5,
     "specialId": "hyper_porridge",
     "canBeReceivedDate": "2021-12-01 07:00:00",
-    "origin": "圣诞节",
+    "origin": "Christmas",
     "parentHeroId": "christmas_mrs_claus"
   },
   "christmas_santa_costume_metal": {
@@ -1682,7 +1682,7 @@
     "rarity": 5,
     "specialId": "gift_of_rock",
     "canBeReceivedDate": "2021-12-01 07:00:00",
-    "origin": "圣诞节",
+    "origin": "Christmas",
     "parentHeroId": "christmas_santa"
   },
   "christmas_krampus_costume_eager_devil": {
@@ -1698,7 +1698,7 @@
     "rarity": 5,
     "specialId": "merriest_misery",
     "canBeReceivedDate": "2021-12-01 07:00:00",
-    "origin": "圣诞节",
+    "origin": "Christmas",
     "parentHeroId": "christmas_krampus"
   },
   "rabbit_green_costume_egg_hunter": {
@@ -1714,7 +1714,7 @@
     "rarity": 4,
     "specialId": "egg_barrage",
     "canBeReceivedDate": "2022-03-21 07:00:00",
-    "origin": "春谷节",
+    "origin": "Easter",
     "parentHeroId": "rabbit_green"
   },
   "s2_fox_girl_costume_white_kitsune": {
@@ -4046,7 +4046,7 @@
     "aetherGift": "Rage",
     "rarity": 3,
     "specialId": "reckless_stab",
-    "origin": "春谷节"
+    "origin": "Easter"
   },
   "fire_god_ares": {
     "id": "Deity of War",
@@ -4122,7 +4122,7 @@
     "aetherGift": "Attack Up",
     "rarity": 4,
     "specialId": "reckless_slash",
-    "origin": "春谷节",
+    "origin": "Easter",
     "costumeBonusesId": "seasonal"
   },
   "pirate_lady": {
@@ -4217,7 +4217,7 @@
     "aetherGift": "Attack Up",
     "rarity": 5,
     "specialId": "reckless_finisher",
-    "origin": "春谷节",
+    "origin": "Easter",
     "costumeBonusesId": "easter"
   },
   "holy_god_musashi": {
@@ -5273,7 +5273,7 @@
     "aetherGift": "Attack Up",
     "rarity": 4,
     "specialId": "giftsack",
-    "origin": "圣诞节"
+    "origin": "Christmas"
   },
   "christmas_mrs_claus": {
     "id": "The Northern Chef",
@@ -5287,7 +5287,7 @@
     "aetherGift": "Defense Up",
     "rarity": 5,
     "specialId": "super_porridge",
-    "origin": "圣诞节",
+    "origin": "Christmas",
     "costumeBonusesId": "christmas"
   },
   "christmas_santa": {
@@ -5302,7 +5302,7 @@
     "aetherGift": "Mana Boost",
     "rarity": 5,
     "specialId": "ultimate_giftsack",
-    "origin": "圣诞节",
+    "origin": "Christmas",
     "costumeBonusesId": "christmas"
   },
   "christmas_reindeer": {
@@ -5317,7 +5317,7 @@
     "aetherGift": "Attack Up",
     "rarity": 3,
     "specialId": "horn_attack",
-    "origin": "圣诞节"
+    "origin": "Christmas"
   },
   "holy_god_onatel": {
     "id": "Blind Seer",
@@ -6384,7 +6384,7 @@
     "aetherGift": "Special Boost",
     "rarity": 3,
     "specialId": "compact_lance",
-    "origin": "春谷节"
+    "origin": "Easter"
   },
   "easter_lady_woolerton": {
     "id": "Mender of Springvale",
@@ -6398,7 +6398,7 @@
     "aetherGift": "Defense Up",
     "rarity": 4,
     "specialId": "smooth_treatment",
-    "origin": "春谷节"
+    "origin": "Easter"
   },
   "easter_sir_roostley": {
     "id": "Mighty Knight of Springvale",
@@ -6412,7 +6412,7 @@
     "aetherGift": "Special Boost",
     "rarity": 5,
     "specialId": "luminous_lance",
-    "origin": "春谷节"
+    "origin": "Easter"
   },
   "easter_killhare": {
     "id": "Savage Protector of Springvale",
@@ -6426,7 +6426,7 @@
     "aetherGift": "Attack Up",
     "rarity": 5,
     "specialId": "reckless_swing",
-    "origin": "春谷节",
+    "origin": "Easter",
     "costumeBonusesId": "easter"
   },
   "hidden_dark_god_myztero": {
@@ -6906,7 +6906,7 @@
     "rarity": 4,
     "specialId": "perilous_gift",
     "canBeReceivedDate": "2020-12-01 07:00:00",
-    "origin": "圣诞节"
+    "origin": "Christmas"
   },
   "christmas_frosty": {
     "id": "Northern Sentinel",
@@ -6921,7 +6921,7 @@
     "rarity": 3,
     "specialId": "northern_wanderer",
     "canBeReceivedDate": "2020-12-01 07:00:00",
-    "origin": "圣诞节"
+    "origin": "Christmas"
   },
   "christmas_krampus": {
     "id": "Holiday Ghoul",
@@ -6936,7 +6936,7 @@
     "rarity": 5,
     "specialId": "scourge_of_joy",
     "canBeReceivedDate": "2020-12-01 07:00:00",
-    "origin": "圣诞节",
+    "origin": "Christmas",
     "costumeBonusesId": "christmas"
   },
   "nature_god_bertila": {
@@ -8682,7 +8682,7 @@
     "rarity": 5,
     "specialId": "herring_blaster",
     "canBeReceivedDate": "2021-12-01 07:00:00",
-    "origin": "圣诞节",
+    "origin": "Christmas",
     "costumeBonusesId": "christmas"
   },
   "dark_god_viscaro": {
@@ -10654,7 +10654,7 @@
     "rarity": 5,
     "specialId": "hunting_charge",
     "canBeReceivedDate": "2022-09-18 07:00:00",
-    "origin": "怪兽岛",
+    "origin": "MonsterIsland1",
     "additionalBattleSpecificHeroEffectOrigin": "MonsterIsland2"
   },
   "monster_hunter_hawthorn": {
@@ -10674,7 +10674,7 @@
     "rarity": 5,
     "specialId": "medicinal_fumes",
     "canBeReceivedDate": "2022-09-18 07:00:00",
-    "origin": "怪兽岛",
+    "origin": "MonsterIsland1",
     "additionalBattleSpecificHeroEffectOrigin": "MonsterIsland2"
   },
   "monster_hunter_kai": {
@@ -10694,7 +10694,7 @@
     "rarity": 5,
     "specialId": "mantis_strike",
     "canBeReceivedDate": "2022-10-15 07:00:00",
-    "origin": "怪兽岛",
+    "origin": "MonsterIsland1",
     "additionalBattleSpecificHeroEffectOrigin": "MonsterIsland2"
   },
   "monster_hunter_cleaver": {
@@ -10714,7 +10714,7 @@
     "rarity": 5,
     "specialId": "bone_ritual",
     "canBeReceivedDate": "2022-08-25 07:00:00",
-    "origin": "怪兽岛",
+    "origin": "MonsterIsland1",
     "additionalBattleSpecificHeroEffectOrigin": "MonsterIsland2"
   },
   "monster_hunter_malin": {
@@ -10734,7 +10734,7 @@
     "rarity": 5,
     "specialId": "wild_cleave",
     "canBeReceivedDate": "2022-08-25 07:00:00",
-    "origin": "怪兽岛",
+    "origin": "MonsterIsland1",
     "additionalBattleSpecificHeroEffectOrigin": "MonsterIsland2"
   },
   "monster_hunter_waterpipe": {
@@ -10754,7 +10754,7 @@
     "rarity": 5,
     "specialId": "harpoon_sentry",
     "canBeReceivedDate": "2022-11-12 07:00:00",
-    "origin": "怪兽岛",
+    "origin": "MonsterIsland1",
     "additionalBattleSpecificHeroEffectOrigin": "MonsterIsland2"
   },
   "monster_hunter_meadow": {
@@ -10774,7 +10774,7 @@
     "rarity": 4,
     "specialId": "poison_tipped_arrow",
     "canBeReceivedDate": "2022-10-15 07:00:00",
-    "origin": "怪兽岛",
+    "origin": "MonsterIsland1",
     "additionalBattleSpecificHeroEffectOrigin": "MonsterIsland2"
   },
   "monster_hunter_hammertusk": {
@@ -10794,7 +10794,7 @@
     "rarity": 5,
     "specialId": "demolishing_crush",
     "canBeReceivedDate": "2022-11-12 07:00:00",
-    "origin": "怪兽岛",
+    "origin": "MonsterIsland1",
     "additionalBattleSpecificHeroEffectOrigin": "MonsterIsland2"
   },
   "monster_hunter_ebba": {
@@ -10814,7 +10814,7 @@
     "rarity": 5,
     "specialId": "flail_swing",
     "canBeReceivedDate": "2022-10-15 07:00:00",
-    "origin": "怪兽岛",
+    "origin": "MonsterIsland1",
     "additionalBattleSpecificHeroEffectOrigin": "MonsterIsland2"
   },
   "monster_hunter_edelaide": {
@@ -10834,7 +10834,7 @@
     "rarity": 3,
     "specialId": "nomadic_hymn",
     "canBeReceivedDate": "2022-10-15 07:00:00",
-    "origin": "怪兽岛",
+    "origin": "MonsterIsland1",
     "additionalBattleSpecificHeroEffectOrigin": "MonsterIsland2"
   },
   "elemental_zandria": {
@@ -10853,7 +10853,7 @@
     "rarity": 5,
     "specialId": "unwavering_devotion",
     "canBeReceivedDate": "2022-10-10 07:00:00",
-    "origin": "元素较量",
+    "origin": "SuperElemental",
     "costumeBonusesId": "elemental"
   },
   "elemental_jequn": {
@@ -10872,7 +10872,7 @@
     "rarity": 5,
     "specialId": "archaic_sacred_symbol",
     "canBeReceivedDate": "2022-10-10 07:00:00",
-    "origin": "元素较量",
+    "origin": "SuperElemental",
     "costumeBonusesId": "elemental"
   },
   "elemental_zengar": {
@@ -10891,7 +10891,7 @@
     "rarity": 5,
     "specialId": "great_frost_axe",
     "canBeReceivedDate": "2023-01-30 07:00:00",
-    "origin": "元素较量",
+    "origin": "SuperElemental",
     "costumeBonusesId": "elemental_aug_2025"
   },
   "elemental_anzia": {
@@ -10910,7 +10910,7 @@
     "rarity": 5,
     "specialId": "radiant_comeback",
     "canBeReceivedDate": "2023-01-30 07:00:00",
-    "origin": "元素较量",
+    "origin": "SuperElemental",
     "costumeBonusesId": "elemental"
   },
   "elemental_xandrella": {
@@ -10929,7 +10929,7 @@
     "rarity": 5,
     "specialId": "staff_of_mana_control",
     "canBeReceivedDate": "2022-12-05 07:00:00",
-    "origin": "元素较量",
+    "origin": "SuperElemental",
     "costumeBonusesId": "elemental"
   },
   "elemental_roz": {
@@ -10948,7 +10948,7 @@
     "rarity": 5,
     "specialId": "elemental_infusion_arrow",
     "canBeReceivedDate": "2022-12-05 07:00:00",
-    "origin": "元素较量",
+    "origin": "SuperElemental",
     "costumeBonusesId": "elemental"
   },
   "elemental_doxan": {
@@ -10967,7 +10967,7 @@
     "rarity": 5,
     "specialId": "dual_laser_blades",
     "canBeReceivedDate": "2023-03-27 07:00:00",
-    "origin": "元素较量",
+    "origin": "SuperElemental",
     "costumeBonusesId": "elemental"
   },
   "elemental_ignazio": {
@@ -10986,7 +10986,7 @@
     "rarity": 5,
     "specialId": "purifying_flame",
     "canBeReceivedDate": "2023-03-27 07:00:00",
-    "origin": "元素较量",
+    "origin": "SuperElemental",
     "costumeBonusesId": "elemental"
   },
   "elemental_griffex": {
@@ -11005,7 +11005,7 @@
     "rarity": 5,
     "specialId": "mana_manipulation",
     "canBeReceivedDate": "2023-05-22 07:00:00",
-    "origin": "元素较量",
+    "origin": "SuperElemental",
     "costumeBonusesId": "elemental"
   },
   "elemental_aconia": {
@@ -11024,7 +11024,7 @@
     "rarity": 5,
     "specialId": "bleed_inducing_daggers",
     "canBeReceivedDate": "2023-05-22 07:00:00",
-    "origin": "元素较量",
+    "origin": "SuperElemental",
     "costumeBonusesId": "elemental"
   },
   "holy_god_celidana": {
@@ -11063,7 +11063,7 @@
     "rarity": 3,
     "specialId": "hunting_ballad",
     "canBeReceivedDate": "2022-08-25 07:00:00",
-    "origin": "怪兽岛",
+    "origin": "MonsterIsland1",
     "additionalBattleSpecificHeroEffectOrigin": "MonsterIsland2"
   },
   "monster_hunter_fianna": {
@@ -11083,7 +11083,7 @@
     "rarity": 3,
     "specialId": "bone_arrow",
     "canBeReceivedDate": "2022-11-12 07:00:00",
-    "origin": "怪兽岛",
+    "origin": "MonsterIsland1",
     "additionalBattleSpecificHeroEffectOrigin": "MonsterIsland2"
   },
   "monster_hunter_maheegan": {
@@ -11103,7 +11103,7 @@
     "rarity": 4,
     "specialId": "claws_of_the_hunter",
     "canBeReceivedDate": "2022-08-25 07:00:00",
-    "origin": "怪兽岛",
+    "origin": "MonsterIsland1",
     "additionalBattleSpecificHeroEffectOrigin": "MonsterIsland2"
   },
   "halloween_lucinda": {
@@ -14849,7 +14849,7 @@
     "rarity": 5,
     "specialId": "vigorous_villanelle",
     "canBeReceivedDate": "2024-03-18 07:00:00",
-    "origin": "春谷节",
+    "origin": "Easter",
     "parentHeroId": "easter_archie"
   },
   "easter_jasper_costume_fisherman": {
@@ -14865,7 +14865,7 @@
     "rarity": 5,
     "specialId": "dreams_of_nourishment",
     "canBeReceivedDate": "2024-03-18 07:00:00",
-    "origin": "春谷节",
+    "origin": "Easter",
     "parentHeroId": "easter_jasper"
   },
   "wonderland_alice_costume_warping": {
@@ -16204,7 +16204,7 @@
     "rarity": 5,
     "specialId": "dauntless_bladestorm",
     "canBeReceivedDate": "2022-12-24 07:00:00",
-    "origin": "怪兽岛",
+    "origin": "MonsterIsland1",
     "additionalBattleSpecificHeroEffectOrigin": "MonsterIsland2"
   },
   "monster_hunter_goretooth": {
@@ -16224,7 +16224,7 @@
     "rarity": 5,
     "specialId": "titantooth_blade",
     "canBeReceivedDate": "2022-12-24 07:00:00",
-    "origin": "怪兽岛",
+    "origin": "MonsterIsland1",
     "additionalBattleSpecificHeroEffectOrigin": "MonsterIsland2"
   },
   "monster_hunter_dabria": {
@@ -16244,7 +16244,7 @@
     "rarity": 5,
     "specialId": "liturgy_of_the_fallen",
     "canBeReceivedDate": "2023-02-09 07:00:00",
-    "origin": "怪兽岛",
+    "origin": "MonsterIsland1",
     "additionalBattleSpecificHeroEffectOrigin": "MonsterIsland2"
   },
   "monster_hunter_sorrow": {
@@ -16264,7 +16264,7 @@
     "rarity": 5,
     "specialId": "icebound_ritual",
     "canBeReceivedDate": "2023-05-06 07:00:00",
-    "origin": "怪兽岛",
+    "origin": "MonsterIsland1",
     "additionalBattleSpecificHeroEffectOrigin": "MonsterIsland2"
   },
   "monster_hunter_staintongue": {
@@ -16284,7 +16284,7 @@
     "rarity": 5,
     "specialId": "mallet_swing_of_the_beast",
     "canBeReceivedDate": "2023-02-09 07:00:00",
-    "origin": "怪兽岛",
+    "origin": "MonsterIsland1",
     "additionalBattleSpecificHeroEffectOrigin": "MonsterIsland2"
   },
   "monster_hunter_bogart": {
@@ -16304,7 +16304,7 @@
     "rarity": 4,
     "specialId": "bone_club_clonk",
     "canBeReceivedDate": "2022-12-24 07:00:00",
-    "origin": "怪兽岛",
+    "origin": "MonsterIsland1",
     "additionalBattleSpecificHeroEffectOrigin": "MonsterIsland2"
   },
   "monster_hunter_numbskull": {
@@ -16324,7 +16324,7 @@
     "rarity": 4,
     "specialId": "cracked_skull_strike",
     "canBeReceivedDate": "2023-05-06 07:00:00",
-    "origin": "怪兽岛",
+    "origin": "MonsterIsland1",
     "additionalBattleSpecificHeroEffectOrigin": "MonsterIsland2"
   },
   "monster_hunter_basil": {
@@ -16344,7 +16344,7 @@
     "rarity": 3,
     "specialId": "squeak_of_protection",
     "canBeReceivedDate": "2022-12-24 07:00:00",
-    "origin": "怪兽岛",
+    "origin": "MonsterIsland1",
     "additionalBattleSpecificHeroEffectOrigin": "MonsterIsland2"
   },
   "monster_hunter_greel": {
@@ -16364,7 +16364,7 @@
     "rarity": 3,
     "specialId": "stubby_reap",
     "canBeReceivedDate": "2023-02-09 07:00:00",
-    "origin": "怪兽岛",
+    "origin": "MonsterIsland1",
     "additionalBattleSpecificHeroEffectOrigin": "MonsterIsland2"
   },
   "musketeer_athos": {
@@ -16398,7 +16398,7 @@
     "rarity": 5,
     "specialId": "wisdom_of_the_gnomes",
     "canBeReceivedDate": "2022-12-01 07:00:00",
-    "origin": "圣诞节"
+    "origin": "Christmas"
   },
   "christmas_tinsel": {
     "id": "Gnome Tinkerer",
@@ -16413,7 +16413,7 @@
     "rarity": 5,
     "specialId": "malevolent_toys",
     "canBeReceivedDate": "2022-12-01 07:00:00",
-    "origin": "圣诞节"
+    "origin": "Christmas"
   },
   "christmas_peppermint": {
     "id": "Gnome Alchemist",
@@ -16428,7 +16428,7 @@
     "rarity": 5,
     "specialId": "putrid_perfume",
     "canBeReceivedDate": "2022-12-01 07:00:00",
-    "origin": "圣诞节"
+    "origin": "Christmas"
   },
   "christmas_holly": {
     "id": "Gnome Head Chef",
@@ -16443,7 +16443,7 @@
     "rarity": 4,
     "specialId": "hearty_stew",
     "canBeReceivedDate": "2022-12-01 07:00:00",
-    "origin": "圣诞节"
+    "origin": "Christmas"
   },
   "christmas_buster": {
     "id": "Grumpy Garden Gnome",
@@ -16458,7 +16458,7 @@
     "rarity": 3,
     "specialId": "frosty_punches",
     "canBeReceivedDate": "2022-12-01 07:00:00",
-    "origin": "圣诞节"
+    "origin": "Christmas"
   },
   "musketeer_cardinal_richelieu": {
     "id": "Duplicitous Duke",
@@ -17007,7 +17007,7 @@
     "rarity": 5,
     "specialId": "misty_punches",
     "canBeReceivedDate": "2023-03-03 07:00:00",
-    "origin": "怪兽岛",
+    "origin": "MonsterIsland1",
     "additionalBattleSpecificHeroEffectOrigin": "MonsterIsland2"
   },
   "monster_hunter_bonecrusher": {
@@ -17027,7 +17027,7 @@
     "rarity": 5,
     "specialId": "fury_of_the_silverback",
     "canBeReceivedDate": "2023-03-03 07:00:00",
-    "origin": "怪兽岛",
+    "origin": "MonsterIsland1",
     "additionalBattleSpecificHeroEffectOrigin": "MonsterIsland2"
   },
   "journey_queen_guowang": {
@@ -17114,7 +17114,7 @@
     "rarity": 5,
     "specialId": "firestone_daggers",
     "canBeReceivedDate": "2023-05-26 07:00:00",
-    "origin": "怪兽岛",
+    "origin": "MonsterIsland1",
     "additionalBattleSpecificHeroEffectOrigin": "MonsterIsland2"
   },
   "monster_hunter_knuckles": {
@@ -17134,7 +17134,7 @@
     "rarity": 4,
     "specialId": "jungle_riposte",
     "canBeReceivedDate": "2023-05-06 07:00:00",
-    "origin": "怪兽岛",
+    "origin": "MonsterIsland1",
     "additionalBattleSpecificHeroEffectOrigin": "MonsterIsland2"
   },
   "monster_hunter_thunderclap": {
@@ -17154,7 +17154,7 @@
     "rarity": 5,
     "specialId": "warcry_of_the_jungle",
     "canBeReceivedDate": "2023-05-06 07:00:00",
-    "origin": "怪兽岛",
+    "origin": "MonsterIsland1",
     "additionalBattleSpecificHeroEffectOrigin": "MonsterIsland2"
   },
   "monster_hunter_cedar": {
@@ -17174,7 +17174,7 @@
     "rarity": 3,
     "specialId": "titanbone_chain_slash",
     "canBeReceivedDate": "2023-05-06 07:00:00",
-    "origin": "怪兽岛",
+    "origin": "MonsterIsland1",
     "additionalBattleSpecificHeroEffectOrigin": "MonsterIsland2"
   },
   "monster_hunter_tremor": {
@@ -17194,7 +17194,7 @@
     "rarity": 5,
     "specialId": "protective_stance",
     "canBeReceivedDate": "2023-07-27 07:00:00",
-    "origin": "怪兽岛",
+    "origin": "MonsterIsland1",
     "additionalBattleSpecificHeroEffectOrigin": "MonsterIsland2"
   },
   "easter_jasper": {
@@ -17210,7 +17210,7 @@
     "rarity": 5,
     "specialId": "petals_of_nourishment",
     "canBeReceivedDate": "2023-03-27 07:00:00",
-    "origin": "春谷节",
+    "origin": "Easter",
     "costumeBonusesId": "easter"
   },
   "easter_archie": {
@@ -17226,7 +17226,7 @@
     "rarity": 5,
     "specialId": "fabled_llama_ballad",
     "canBeReceivedDate": "2023-03-27 07:00:00",
-    "origin": "春谷节",
+    "origin": "Easter",
     "costumeBonusesId": "easter"
   },
   "dark_god_turgruk": {
@@ -18609,7 +18609,7 @@
     "rarity": 5,
     "specialId": "cascading_whirlwind",
     "canBeReceivedDate": "2023-07-17 07:00:00",
-    "origin": "元素较量"
+    "origin": "SuperElemental"
   },
   "elemental_zione": {
     "id": "Mechanized Delivery Expert",
@@ -18627,7 +18627,7 @@
     "rarity": 4,
     "specialId": "express_delivery",
     "canBeReceivedDate": "2023-07-17 07:00:00",
-    "origin": "元素较量"
+    "origin": "SuperElemental"
   },
   "elemental_zuni": {
     "id": "Hoverboarding Elf",
@@ -18645,7 +18645,7 @@
     "rarity": 5,
     "specialId": "hoverboard_slam",
     "canBeReceivedDate": "2023-08-14 07:00:00",
-    "origin": "元素较量"
+    "origin": "SuperElemental"
   },
   "holy_god_ithar": {
     "id": "Virtuous Cat Burglar",
@@ -18834,7 +18834,7 @@
     "rarity": 4,
     "specialId": "enchanted_symphony",
     "canBeReceivedDate": "2023-08-14 07:00:00",
-    "origin": "元素较量"
+    "origin": "SuperElemental"
   },
   "elemental_quinn": {
     "id": "Cosmic Chef",
@@ -18852,7 +18852,7 @@
     "rarity": 5,
     "specialId": "pineapple_barbeque",
     "canBeReceivedDate": "2023-09-11 07:00:00",
-    "origin": "元素较量"
+    "origin": "SuperElemental"
   },
   "elemental_linus": {
     "id": "Carefree Convict",
@@ -18870,7 +18870,7 @@
     "rarity": 4,
     "specialId": "shackles_of_the_sea",
     "canBeReceivedDate": "2023-09-11 07:00:00",
-    "origin": "元素较量"
+    "origin": "SuperElemental"
   },
   "construct_shaal": {
     "id": "Cleric Construct",
@@ -19891,7 +19891,7 @@
     "rarity": 5,
     "specialId": "herring_surprise",
     "canBeReceivedDate": "2024-12-01 07:00:00",
-    "origin": "圣诞节",
+    "origin": "Christmas",
     "parentHeroId": "christmas_mr_pengi"
   },
   "lionman_barbarian_costume_glass": {
@@ -20755,7 +20755,7 @@
     "parentHeroId": "dwarven_guard"
   },
   "undead_female_warrior_costume_glass": {
-    "id": "Deathbound Vitrails",
+    "id": "Deathbound Vitrail",
     "element": "Purple",
     "family": "classic",
     "baseHealth": 436,
@@ -21135,7 +21135,7 @@
     "parentHeroId": "undead_horned_skeleton"
   },
   "nordic_mage_costume_glass": {
-    "id": "Vitrail of Glaceholms",
+    "id": "Vitrail of Glaceholm",
     "element": "Blue",
     "family": "classic",
     "baseHealth": 392,
@@ -21481,7 +21481,7 @@
     "rarity": 5,
     "specialId": "cauterizing_flame",
     "canBeReceivedDate": "2025-05-24 07:00:00",
-    "origin": "元素较量",
+    "origin": "SuperElemental",
     "parentHeroId": "elemental_ignazio"
   },
   "elemental_jequn_costume_gilded": {
@@ -21500,7 +21500,7 @@
     "rarity": 5,
     "specialId": "golden_sacred_symbol",
     "canBeReceivedDate": "2025-06-20 07:00:00",
-    "origin": "元素较量",
+    "origin": "SuperElemental",
     "parentHeroId": "elemental_jequn"
   },
   "elemental_roz_costume_disco": {
@@ -21519,7 +21519,7 @@
     "rarity": 5,
     "specialId": "sonic_infusion_arrow",
     "canBeReceivedDate": "2025-07-18 07:00:00",
-    "origin": "元素较量",
+    "origin": "SuperElemental",
     "parentHeroId": "elemental_roz"
   },
   "elemental_zengar_costume_farmer": {
@@ -21538,7 +21538,7 @@
     "rarity": 5,
     "specialId": "great_frost_hoe",
     "canBeReceivedDate": "2025-08-12 07:00:00",
-    "origin": "元素较量",
+    "origin": "SuperElemental",
     "parentHeroId": "elemental_zengar"
   },
   "elemental_griffex_costume_camera": {
@@ -21557,7 +21557,7 @@
     "rarity": 5,
     "specialId": "memory_manipulation",
     "canBeReceivedDate": "2025-08-28 07:00:00",
-    "origin": "元素较量",
+    "origin": "SuperElemental",
     "parentHeroId": "elemental_griffex"
   },
   "beachparty_flip_costume_donut": {
@@ -21718,7 +21718,7 @@
     "rarity": 5,
     "specialId": "dual_data_blades",
     "canBeReceivedDate": "2200-01-01 07:00:00",
-    "origin": "元素较量",
+    "origin": "SuperElemental",
     "parentHeroId": "elemental_doxan"
   },
   "elemental_zandria_costume_planet": {
@@ -21737,7 +21737,7 @@
     "rarity": 5,
     "specialId": "cosmic_devotion",
     "canBeReceivedDate": "2200-01-01 07:00:00",
-    "origin": "元素较量",
+    "origin": "SuperElemental",
     "parentHeroId": "elemental_zandria"
   },
   "elemental_xandrella_costume_idol": {
@@ -21756,7 +21756,7 @@
     "rarity": 5,
     "specialId": "melody_of_mana_control",
     "canBeReceivedDate": "2200-01-01 07:00:00",
-    "origin": "元素较量",
+    "origin": "SuperElemental",
     "parentHeroId": "elemental_xandrella"
   },
   "elemental_anzia_costume_jailer": {
@@ -21775,7 +21775,7 @@
     "rarity": 5,
     "specialId": "radiant_shackles",
     "canBeReceivedDate": "2200-01-01 07:00:00",
-    "origin": "元素较量",
+    "origin": "SuperElemental",
     "parentHeroId": "elemental_anzia"
   },
   "elemental_aconia_costume_courier": {
@@ -21794,7 +21794,7 @@
     "rarity": 5,
     "specialId": "lacerating_letters",
     "canBeReceivedDate": "2200-01-01 07:00:00",
-    "origin": "元素较量",
+    "origin": "SuperElemental",
     "parentHeroId": "elemental_aconia"
   },
   "tales1_domiventus": {
@@ -21927,7 +21927,7 @@
     "rarity": 4,
     "specialId": "healing_fire_spirits",
     "canBeReceivedDate": "2023-10-09 07:00:00",
-    "origin": "元素较量"
+    "origin": "SuperElemental"
   },
   "elemental_lexi": {
     "id": "Artisan of Elemental Energy",
@@ -21945,7 +21945,7 @@
     "rarity": 4,
     "specialId": "energy_conjunction",
     "canBeReceivedDate": "2023-11-06 07:00:00",
-    "origin": "元素较量"
+    "origin": "SuperElemental"
   },
   "elemental_zaria": {
     "id": "Three-Eyed Psychic",
@@ -21963,7 +21963,7 @@
     "rarity": 5,
     "specialId": "cataclysmic_divination",
     "canBeReceivedDate": "2023-10-09 07:00:00",
-    "origin": "元素较量"
+    "origin": "SuperElemental"
   },
   "elemental_farrah": {
     "id": "Supersonic Blade Master",
@@ -21981,7 +21981,7 @@
     "rarity": 5,
     "specialId": "piercing_falcon",
     "canBeReceivedDate": "2023-11-06 07:00:00",
-    "origin": "元素较量"
+    "origin": "SuperElemental"
   },
   "castle_bear_torben": {
     "id": "Lord of the Highlands",
@@ -22416,7 +22416,7 @@
     "rarity": 5,
     "specialId": "scepter_of_constellations",
     "canBeReceivedDate": "2023-11-21 07:00:00",
-    "origin": "星体召唤"
+    "origin": "AstralElves"
   },
   "astral_sparklight": {
     "id": "Astral Elf Champion",
@@ -22435,7 +22435,7 @@
     "rarity": 5,
     "specialId": "enchanted_elven_sword",
     "canBeReceivedDate": "2023-11-21 07:00:00",
-    "origin": "星体召唤"
+    "origin": "AstralElves"
   },
   "nature_god_leadria": {
     "id": "Queen of Eternal Spring",
@@ -22510,7 +22510,7 @@
     "rarity": 5,
     "specialId": "chains_of_light",
     "canBeReceivedDate": "2023-12-04 07:00:00",
-    "origin": "元素较量"
+    "origin": "SuperElemental"
   },
   "elemental_desmond": {
     "id": "Blade Alchemist",
@@ -22528,7 +22528,7 @@
     "rarity": 5,
     "specialId": "jade_blades",
     "canBeReceivedDate": "2024-01-01 07:00:00",
-    "origin": "元素较量"
+    "origin": "SuperElemental"
   },
   "christmas_ginger": {
     "id": "Gnome Explorer",
@@ -22543,7 +22543,7 @@
     "rarity": 5,
     "specialId": "hasty_trigger_finger",
     "canBeReceivedDate": "2023-12-01 07:00:00",
-    "origin": "圣诞节"
+    "origin": "Christmas"
   },
   "christmas_zappa": {
     "id": "Gnome Wizard",
@@ -22558,7 +22558,7 @@
     "rarity": 5,
     "specialId": "blue_shroom_wand",
     "canBeReceivedDate": "2023-12-01 07:00:00",
-    "origin": "圣诞节"
+    "origin": "Christmas"
   },
   "christmas_cookie": {
     "id": "Gnome Scientist",
@@ -22573,7 +22573,7 @@
     "rarity": 5,
     "specialId": "mystery_potions",
     "canBeReceivedDate": "2023-12-01 07:00:00",
-    "origin": "圣诞节"
+    "origin": "Christmas"
   },
   "christmas_dizzy": {
     "id": "Gnome Entertainer",
@@ -22588,7 +22588,7 @@
     "rarity": 4,
     "specialId": "gloomy_tune",
     "canBeReceivedDate": "2023-12-01 07:00:00",
-    "origin": "圣诞节"
+    "origin": "Christmas"
   },
   "christmas_jolly": {
     "id": "Gnome Lumberjack",
@@ -22603,7 +22603,7 @@
     "rarity": 3,
     "specialId": "birch_blessing",
     "canBeReceivedDate": "2023-12-01 07:00:00",
-    "origin": "圣诞节"
+    "origin": "Christmas"
   },
   "shadow_salvatore": {
     "id": "Twisted Medium",
@@ -22933,7 +22933,7 @@
     "rarity": 5,
     "specialId": "chain_lightning",
     "canBeReceivedDate": "2024-01-29 07:00:00",
-    "origin": "元素较量"
+    "origin": "SuperElemental"
   },
   "journey_xie_zi_jing": {
     "id": "Scorpion Demoness",
@@ -23317,7 +23317,7 @@
     "rarity": 5,
     "specialId": "pain_harvest",
     "canBeReceivedDate": "2024-02-26 07:00:00",
-    "origin": "元素较量"
+    "origin": "SuperElemental"
   },
   "elemental_gastille": {
     "id": "Multidimensional Hazard",
@@ -23335,7 +23335,7 @@
     "rarity": 5,
     "specialId": "elemental_corruption",
     "canBeReceivedDate": "2024-03-25 07:00:00",
-    "origin": "元素较量"
+    "origin": "SuperElemental"
   },
   "champions_norman": {
     "id": "Jousting Champion",
@@ -23692,7 +23692,7 @@
     "rarity": 5,
     "specialId": "moonlight_crescendo",
     "canBeReceivedDate": "2024-09-16 07:00:00",
-    "origin": "星体召唤"
+    "origin": "AstralElves"
   },
   "astral_hammerclang": {
     "id": "Astral Elf Blacksmith",
@@ -23711,7 +23711,7 @@
     "rarity": 5,
     "specialId": "celestial_anvil",
     "canBeReceivedDate": "2024-03-28 07:00:00",
-    "origin": "星体召唤"
+    "origin": "AstralElves"
   },
   "astral_moonbell": {
     "id": "Astral Elf Summoner",
@@ -23730,7 +23730,7 @@
     "rarity": 5,
     "specialId": "astral_summon",
     "canBeReceivedDate": "2024-07-10 07:00:00",
-    "origin": "星体召唤"
+    "origin": "AstralElves"
   },
   "astral_demilune": {
     "id": "Astral Elf Oracle",
@@ -23749,7 +23749,7 @@
     "rarity": 5,
     "specialId": "moon_crush_beam",
     "canBeReceivedDate": "2024-05-20 07:00:00",
-    "origin": "星体召唤"
+    "origin": "AstralElves"
   },
   "astral_mooncure": {
     "id": "Astral Elf Incense Master",
@@ -23768,7 +23768,7 @@
     "rarity": 5,
     "specialId": "astral_myrrh",
     "canBeReceivedDate": "2024-08-19 07:00:00",
-    "origin": "星体召唤"
+    "origin": "AstralElves"
   },
   "astral_moonflower": {
     "id": "Astral Elf Botanist",
@@ -23787,7 +23787,7 @@
     "rarity": 5,
     "specialId": "leafglow_bloom",
     "canBeReceivedDate": "2024-03-07 07:00:00",
-    "origin": "星体召唤"
+    "origin": "AstralElves"
   },
   "astral_dreadstar": {
     "id": "Queen of the Astral Elves",
@@ -23806,7 +23806,7 @@
     "rarity": 5,
     "specialId": "astral_dominion",
     "canBeReceivedDate": "2024-03-07 07:00:00",
-    "origin": "星体召唤"
+    "origin": "AstralElves"
   },
   "astral_starlass": {
     "id": "Astral Elf Arbalist",
@@ -23825,7 +23825,7 @@
     "rarity": 5,
     "specialId": "power_wave",
     "canBeReceivedDate": "2024-06-12 07:00:00",
-    "origin": "星体召唤"
+    "origin": "AstralElves"
   },
   "astral_lemonwood": {
     "id": "Astral Elf Marksman",
@@ -23844,7 +23844,7 @@
     "rarity": 5,
     "specialId": "wandering_star_shot",
     "canBeReceivedDate": "2024-03-07 07:00:00",
-    "origin": "星体召唤"
+    "origin": "AstralElves"
   },
   "astral_voidstar": {
     "id": "Astral Elf Great Knight",
@@ -23863,7 +23863,7 @@
     "rarity": 5,
     "specialId": "paragon_of_constellations",
     "canBeReceivedDate": "2024-04-22 07:00:00",
-    "origin": "星体召唤"
+    "origin": "AstralElves"
   },
   "astral_lionstring": {
     "id": "Astral Elf Dressmaker",
@@ -23882,7 +23882,7 @@
     "rarity": 4,
     "specialId": "cloth_of_constellations",
     "canBeReceivedDate": "2024-03-07 07:00:00",
-    "origin": "星体召唤"
+    "origin": "AstralElves"
   },
   "astral_starswift": {
     "id": "Astral Elf Youth",
@@ -23901,7 +23901,7 @@
     "rarity": 3,
     "specialId": "starplay",
     "canBeReceivedDate": "2024-03-07 07:00:00",
-    "origin": "星体召唤"
+    "origin": "AstralElves"
   },
   "fire_god_zarga": {
     "id": "Fast Blade",
@@ -23935,7 +23935,7 @@
     "rarity": 5,
     "specialId": "adventure_awaits",
     "canBeReceivedDate": "2024-03-18 07:00:00",
-    "origin": "春谷节"
+    "origin": "Easter"
   },
   "easter_miss_ethel": {
     "id": "Defender of Springvale",
@@ -23950,7 +23950,7 @@
     "rarity": 5,
     "specialId": "mooing_for_a_fight",
     "canBeReceivedDate": "2024-03-18 07:00:00",
-    "origin": "春谷节"
+    "origin": "Easter"
   },
   "elemental_grilka": {
     "id": "Hospitable Quartermaster",
@@ -23968,7 +23968,7 @@
     "rarity": 5,
     "specialId": "holy_hibiscus_ale",
     "canBeReceivedDate": "2024-04-22 07:00:00",
-    "origin": "元素较量"
+    "origin": "SuperElemental"
   },
   "elemental_craum": {
     "id": "Elemental Shaman",
@@ -23986,7 +23986,7 @@
     "rarity": 5,
     "specialId": "call_of_the_elements",
     "canBeReceivedDate": "2024-05-20 07:00:00",
-    "origin": "元素较量"
+    "origin": "SuperElemental"
   },
   "elemental_nylora": {
     "id": "Cold Blooded Assassin",
@@ -24004,7 +24004,7 @@
     "rarity": 5,
     "specialId": "ice_and_slice",
     "canBeReceivedDate": "2024-06-17 07:00:00",
-    "origin": "元素较量"
+    "origin": "SuperElemental"
   },
   "elemental_ash": {
     "id": "Fierce Bounty Hunter",
@@ -24022,7 +24022,7 @@
     "rarity": 5,
     "specialId": "ruby_rush",
     "canBeReceivedDate": "2024-07-14 07:00:00",
-    "origin": "元素较量"
+    "origin": "SuperElemental"
   },
   "elemental_vander": {
     "id": "Cyborg Captain",
@@ -24040,7 +24040,7 @@
     "rarity": 5,
     "specialId": "gloom_grenades",
     "canBeReceivedDate": "2024-08-07 07:00:00",
-    "origin": "元素较量"
+    "origin": "SuperElemental"
   },
   "garrison_theodosius": {
     "id": "Courageous Corporal",
@@ -24570,7 +24570,7 @@
     "rarity": 5,
     "specialId": "guiding_arrow",
     "canBeReceivedDate": "2024-05-23 07:00:00",
-    "origin": "怪兽岛",
+    "origin": "MonsterIsland1",
     "additionalBattleSpecificHeroEffectOrigin": "MonsterIsland2"
   },
   "monster_hunter_dubhain": {
@@ -24590,7 +24590,7 @@
     "rarity": 5,
     "specialId": "thundering_strike",
     "canBeReceivedDate": "2024-05-23 07:00:00",
-    "origin": "怪兽岛",
+    "origin": "MonsterIsland1",
     "additionalBattleSpecificHeroEffectOrigin": "MonsterIsland2"
   },
   "astral_cosmicspeaker": {
@@ -24610,7 +24610,7 @@
     "rarity": 5,
     "specialId": "constellation_crush",
     "canBeReceivedDate": "2024-10-14 07:00:00",
-    "origin": "星体召唤"
+    "origin": "AstralElves"
   },
   "holy_god_aviana": {
     "id": "The Falcon Commander",
@@ -24705,7 +24705,7 @@
     "rarity": 5,
     "specialId": "revitalizing_sludge",
     "canBeReceivedDate": "2024-06-18 07:00:00",
-    "origin": "元素较量"
+    "origin": "SuperElemental"
   },
   "kalevala_otso": {
     "id": "Wanderer of the Steppes",
@@ -24742,7 +24742,7 @@
     "rarity": 5,
     "specialId": "scourge_of_the_strong",
     "canBeReceivedDate": "2024-06-26 07:00:00",
-    "origin": "怪兽岛",
+    "origin": "MonsterIsland1",
     "additionalBattleSpecificHeroEffectOrigin": "MonsterIsland2"
   },
   "monster_hunter_sigyn": {
@@ -24762,7 +24762,7 @@
     "rarity": 5,
     "specialId": "chitin_cage",
     "canBeReceivedDate": "2024-08-13 07:00:00",
-    "origin": "怪兽岛",
+    "origin": "MonsterIsland1",
     "additionalBattleSpecificHeroEffectOrigin": "MonsterIsland2"
   },
   "monster_hunter_sune": {
@@ -24782,7 +24782,7 @@
     "rarity": 5,
     "specialId": "primeval_glaive",
     "canBeReceivedDate": "2024-07-21 07:00:00",
-    "origin": "怪兽岛",
+    "origin": "MonsterIsland1",
     "additionalBattleSpecificHeroEffectOrigin": "MonsterIsland2"
   },
   "slime_sludgus": {
@@ -24802,7 +24802,7 @@
     "rarity": 5,
     "specialId": "dance_of_the_slimy",
     "canBeReceivedDate": "2024-09-04 07:00:00",
-    "origin": "元素较量"
+    "origin": "SuperElemental"
   },
   "slime_slimgo": {
     "id": "Sneaky Rogue Slime",
@@ -24821,7 +24821,7 @@
     "rarity": 5,
     "specialId": "throwing_daggers",
     "canBeReceivedDate": "2024-10-30 07:00:00",
-    "origin": "元素较量"
+    "origin": "SuperElemental"
   },
   "slime_gooze": {
     "id": "Escaped Alchemy lab Goo",
@@ -24840,7 +24840,7 @@
     "rarity": 5,
     "specialId": "alchemy_experiment",
     "canBeReceivedDate": "2025-05-04 07:00:00",
-    "origin": "元素较量"
+    "origin": "SuperElemental"
   },
   "slime_gooldron": {
     "id": "Nerdy Cauldron Slime",
@@ -24859,7 +24859,7 @@
     "rarity": 5,
     "specialId": "slime_serving",
     "canBeReceivedDate": "2024-11-27 07:00:00",
-    "origin": "元素较量"
+    "origin": "SuperElemental"
   },
   "slime_charmione": {
     "id": "Charming Theater Goo",
@@ -24878,7 +24878,7 @@
     "rarity": 5,
     "specialId": "perfume_cloud",
     "canBeReceivedDate": "2025-01-01 07:00:00",
-    "origin": "元素较量"
+    "origin": "SuperElemental"
   },
   "slime_knightus": {
     "id": "Chivalric Temple Slime",
@@ -24897,7 +24897,7 @@
     "rarity": 5,
     "specialId": "slime_coated_sword",
     "canBeReceivedDate": "2025-02-17 07:00:00",
-    "origin": "元素较量"
+    "origin": "SuperElemental"
   },
   "slime_mucktus": {
     "id": "Fiendish Forest Blob",
@@ -24916,7 +24916,7 @@
     "rarity": 5,
     "specialId": "insidious_goo",
     "canBeReceivedDate": "2024-10-02 07:00:00",
-    "origin": "元素较量"
+    "origin": "SuperElemental"
   },
   "slime_gooric": {
     "id": "Wise Sanctuary Goo",
@@ -24935,7 +24935,7 @@
     "rarity": 5,
     "specialId": "reviving_touch",
     "canBeReceivedDate": "2025-01-20 07:00:00",
-    "origin": "元素较量"
+    "origin": "SuperElemental"
   },
   "faun_verity": {
     "id": "Mysterious Faun Merchant",
@@ -25578,7 +25578,7 @@
     "rarity": 5,
     "specialId": "cloak_of_feathers",
     "canBeReceivedDate": "2024-10-18 11:30:00",
-    "origin": "怪兽岛",
+    "origin": "MonsterIsland1",
     "additionalBattleSpecificHeroEffectOrigin": "MonsterIsland2"
   },
   "monster_hunter_njal": {
@@ -25598,7 +25598,7 @@
     "rarity": 5,
     "specialId": "first_frost",
     "canBeReceivedDate": "2200-01-01 07:00:00",
-    "origin": "怪兽岛",
+    "origin": "MonsterIsland1",
     "additionalBattleSpecificHeroEffectOrigin": "MonsterIsland2"
   },
   "garrison_dima": {
@@ -26104,7 +26104,7 @@
     "rarity": 5,
     "specialId": "staggering_blows",
     "canBeReceivedDate": "2200-01-01 07:00:00",
-    "origin": "怪兽岛",
+    "origin": "MonsterIsland1",
     "additionalBattleSpecificHeroEffectOrigin": "MonsterIsland2"
   },
   "monster_hunter_amund": {
@@ -26124,7 +26124,7 @@
     "rarity": 5,
     "specialId": "carve_the_bones",
     "canBeReceivedDate": "2025-02-27 07:00:00",
-    "origin": "怪兽岛",
+    "origin": "MonsterIsland1",
     "additionalBattleSpecificHeroEffectOrigin": "MonsterIsland2"
   },
   "monster_hunter_sorcha": {
@@ -26144,7 +26144,7 @@
     "rarity": 5,
     "specialId": "weakening_strike",
     "canBeReceivedDate": "2200-01-01 07:00:00",
-    "origin": "怪兽岛",
+    "origin": "MonsterIsland1",
     "additionalBattleSpecificHeroEffectOrigin": "MonsterIsland2"
   },
   "garrison_kolya": {
@@ -26259,7 +26259,7 @@
     "rarity": 5,
     "specialId": "a_cozy_break",
     "canBeReceivedDate": "2024-12-01 07:00:00",
-    "origin": "圣诞节"
+    "origin": "Christmas"
   },
   "christmas_ottilia": {
     "id": "Gnome Decorator",
@@ -26274,7 +26274,7 @@
     "rarity": 5,
     "specialId": "mistletoe_medley",
     "canBeReceivedDate": "2024-12-01 07:00:00",
-    "origin": "圣诞节"
+    "origin": "Christmas"
   },
   "holy_god_faeona": {
     "id": "Elven White Mage",
@@ -26559,7 +26559,7 @@
     "rarity": 5,
     "specialId": "doublebarreled_starstick",
     "canBeReceivedDate": "2024-12-22 07:00:00",
-    "origin": "星体召唤"
+    "origin": "AstralElves"
   },
   "astral_dwarf_maegwyn": {
     "id": "Barmaid of the Astral Dwarves",
@@ -26579,7 +26579,7 @@
     "rarity": 5,
     "specialId": "astral_brew",
     "canBeReceivedDate": "2025-01-06 07:00:00",
-    "origin": "星体召唤"
+    "origin": "AstralElves"
   },
   "astral_dwarf_pluth": {
     "id": "Astral Dwarf Tinkerer",
@@ -26599,7 +26599,7 @@
     "rarity": 5,
     "specialId": "planar_time_widget",
     "canBeReceivedDate": "2025-02-28 07:00:00",
-    "origin": "星体召唤"
+    "origin": "AstralElves"
   },
   "astral_dwarf_quari": {
     "id": "Astral Dwarf Pilgrim",
@@ -26619,7 +26619,7 @@
     "rarity": 5,
     "specialId": "frozen_path",
     "canBeReceivedDate": "2024-12-22 07:00:00",
-    "origin": "星体召唤"
+    "origin": "AstralElves"
   },
   "astral_dwarf_vard": {
     "id": "Astral Dwarf Grand Master",
@@ -26639,7 +26639,7 @@
     "rarity": 5,
     "specialId": "power_of_the_void",
     "canBeReceivedDate": "2025-01-30 07:00:00",
-    "origin": "星体召唤"
+    "origin": "AstralElves"
   },
   "moth_shyombre": {
     "id": "Shadow Moth",
@@ -27458,7 +27458,7 @@
     "rarity": 5,
     "specialId": "insurmountable_flux",
     "canBeReceivedDate": "2025-03-31 07:00:00",
-    "origin": "春谷节"
+    "origin": "Easter"
   },
   "easter_sadie": {
     "id": "Mischievous Mallard",
@@ -27473,7 +27473,7 @@
     "rarity": 5,
     "specialId": "silencing_stick_up",
     "canBeReceivedDate": "2025-03-31 07:00:00",
-    "origin": "春谷节"
+    "origin": "Easter"
   },
   "fox_ember": {
     "id": "The Fire Caller Fox",
@@ -27528,7 +27528,7 @@
     "rarity": 5,
     "specialId": "slimy_balls",
     "canBeReceivedDate": "2025-04-25 07:00:00",
-    "origin": "元素较量"
+    "origin": "SuperElemental"
   },
   "slime_goorian": {
     "id": "Barbaric Sludge",
@@ -27547,7 +27547,7 @@
     "rarity": 5,
     "specialId": "bone_slam",
     "canBeReceivedDate": "2025-03-17 07:00:00",
-    "origin": "元素较量"
+    "origin": "SuperElemental"
   },
   "astral_dwarf_haumri": {
     "id": "Astral Dwarf Augur",
@@ -27567,7 +27567,7 @@
     "rarity": 5,
     "specialId": "star_trail",
     "canBeReceivedDate": "2025-06-04 07:00:00",
-    "origin": "星体召唤"
+    "origin": "AstralElves"
   },
   "astral_dwarf_ixinn": {
     "id": "Astral Dwarf Demolisher",
@@ -27587,7 +27587,7 @@
     "rarity": 5,
     "specialId": "planetary_charge",
     "canBeReceivedDate": "2025-03-27 07:00:00",
-    "origin": "星体召唤"
+    "origin": "AstralElves"
   },
   "astral_dwarf_gongoth": {
     "id": "Astral Dwarf Contender",
@@ -27607,7 +27607,7 @@
     "rarity": 5,
     "specialId": "twilight_star_strike",
     "canBeReceivedDate": "2025-05-07 07:00:00",
-    "origin": "星体召唤"
+    "origin": "AstralElves"
   },
   "astral_dwarf_ceris": {
     "id": "Astral Dwarf Magus",
@@ -27627,7 +27627,7 @@
     "rarity": 5,
     "specialId": "spell_lock",
     "canBeReceivedDate": "2025-04-21 07:00:00",
-    "origin": "星体召唤"
+    "origin": "AstralElves"
   },
   "astral_dwarf_orcur": {
     "id": "Astral Dwarf Gardener",
@@ -27647,7 +27647,7 @@
     "rarity": 5,
     "specialId": "lunar_bloom",
     "canBeReceivedDate": "2025-07-02 07:00:00",
-    "origin": "星体召唤"
+    "origin": "AstralElves"
   },
   "astral_dwarf_errin": {
     "id": "Astral Dwarf Toymaker",
@@ -27667,7 +27667,7 @@
     "rarity": 4,
     "specialId": "mischievous_tiein",
     "canBeReceivedDate": "2025-06-04 07:00:00",
-    "origin": "星体召唤"
+    "origin": "AstralElves"
   },
   "astral_dwarf_chires": {
     "id": "Astral Dwarf Sweet Tooth",
@@ -27687,7 +27687,7 @@
     "rarity": 3,
     "specialId": "astral_pastries",
     "canBeReceivedDate": "2025-06-04 07:00:00",
-    "origin": "星体召唤"
+    "origin": "AstralElves"
   },
   "mimic_training_hero_red": {
     "id": "Trove of Thousand Teeth",
@@ -28525,7 +28525,7 @@
     "rarity": 4,
     "specialId": "fruit_cocktail",
     "canBeReceivedDate": "2025-07-04 07:00:00",
-    "origin": "元素较量"
+    "origin": "SuperElemental"
   },
   "slime_choozen": {
     "id": "Shy Chest Slime",
@@ -28544,7 +28544,7 @@
     "rarity": 4,
     "specialId": "surprise_goo",
     "canBeReceivedDate": "2025-07-31 07:00:00",
-    "origin": "元素较量"
+    "origin": "SuperElemental"
   },
   "slime_harubo": {
     "id": "Patrolling Slime",
@@ -28563,7 +28563,7 @@
     "rarity": 3,
     "specialId": "sticky_spear",
     "canBeReceivedDate": "2026-01-01 07:00:00",
-    "origin": "元素较量"
+    "origin": "SuperElemental"
   },
   "astral_dwarf_hygil": {
     "id": "Astral Dwarf Cartographer",
@@ -28583,7 +28583,7 @@
     "rarity": 5,
     "specialId": "polestar_expedition",
     "canBeReceivedDate": "2025-08-24 07:00:00",
-    "origin": "星体召唤"
+    "origin": "AstralElves"
   },
   "astral_dwarf_sedille": {
     "id": "Astral Dwarf Lightbearer",
@@ -28603,7 +28603,7 @@
     "rarity": 5,
     "specialId": "light_my_fire",
     "canBeReceivedDate": "2025-07-27 07:00:00",
-    "origin": "星体召唤"
+    "origin": "AstralElves"
   },
   "astral_dwarf_lemniss": {
     "id": "Astral Dwarf Miner",
@@ -28623,7 +28623,7 @@
     "rarity": 5,
     "specialId": "astral_gemstones",
     "canBeReceivedDate": "2200-01-01 07:00:00",
-    "origin": "星体召唤"
+    "origin": "AstralElves"
   },
   "moth_lilareine": {
     "id": "Marquise Moth",
@@ -28946,7 +28946,7 @@
     "rarity": 5,
     "specialId": "judgement_of_goo",
     "canBeReceivedDate": "2025-07-04 07:00:00",
-    "origin": "元素较量"
+    "origin": "SuperElemental"
   },
   "slime_goldrip": {
     "id": "Golden Slime King",
@@ -28965,7 +28965,7 @@
     "rarity": 5,
     "specialId": "coins_of_pain",
     "canBeReceivedDate": "2025-06-07 07:00:00",
-    "origin": "元素较量"
+    "origin": "SuperElemental"
   },
   "slime_zestique": {
     "id": "Sweet Blushing Slime",
@@ -28984,7 +28984,7 @@
     "rarity": 5,
     "specialId": "cherry_pudding_served",
     "canBeReceivedDate": "2025-09-04 07:00:00",
-    "origin": "元素较量"
+    "origin": "SuperElemental"
   },
   "slime_sliposi": {
     "id": "Slippery Courier Slime",
@@ -29003,7 +29003,7 @@
     "rarity": 5,
     "specialId": "sticky_express",
     "canBeReceivedDate": "2025-09-25 07:00:00",
-    "origin": "元素较量"
+    "origin": "SuperElemental"
   },
   "slime_gloozmer": {
     "id": "Gentle Trickster Slime",
@@ -29022,7 +29022,7 @@
     "rarity": 5,
     "specialId": "gooey_rose",
     "canBeReceivedDate": "2025-07-31 07:00:00",
-    "origin": "元素较量"
+    "origin": "SuperElemental"
   },
   "slime_slaymire": {
     "id": "Stubborn Slime Executor",
@@ -29041,7 +29041,7 @@
     "rarity": 5,
     "specialId": "glutinous_execution",
     "canBeReceivedDate": "2200-01-01 07:00:00",
-    "origin": "元素较量"
+    "origin": "SuperElemental"
   },
   "slime_labblub": {
     "id": "Curious Scientist Slime",
@@ -29060,7 +29060,7 @@
     "rarity": 5,
     "specialId": "minion_scrutiny",
     "canBeReceivedDate": "2200-01-01 07:00:00",
-    "origin": "元素较量"
+    "origin": "SuperElemental"
   },
   "fox_riverfang": {
     "id": "The Conjurer Corsac Fox",

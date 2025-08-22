@@ -848,5 +848,8 @@
     "Friendly Criters’ Feast": "友善生物盛宴",
     "Lasting Defense Buff All": "全體持續防禦增益",
     "Mana Increase on Resist All": "全體抵抗時增加法力",
-    "Self Mark for SS cast": "自我標記以施放特殊技能"
+    "Self Mark for SS cast": "自我標記以施放特殊技能",
+    "Replace Attack Buffs All": "全體替換攻擊增益",
+    "Replace Defense Buffs All": "全體替換防禦增益",
+    "Replace Mana Gen Buffs All": "全體替換法力生成增益"
 }

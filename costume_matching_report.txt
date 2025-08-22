@@ -1,4 +1,4 @@
-✅ 成功匹配的服装 (454 / 0)
+✅ 成功匹配的服装 (455 / 0)
 ================================
 Name: Berden Costume1, Fancy Name: Adroit Archer
 Name: Hannah Costume1, Fancy Name: Adventurous Drover
@@ -261,6 +261,7 @@ Name: Garjammal Costume1, Fancy Name: Morlock Kite Master
 Name: Akkorog Costume1, Fancy Name: Morlock Running Back
 Name: Tiburtus Toon, Fancy Name: Mournful Toon
 Name: Ahhotep Costume1, Fancy Name: Mummy Champion
+Name: Vaishali costume1, Fancy Name: Mystic Pie Master
 Name: Medea Costume1, Fancy Name: Naga Goddess of the Deep
 Name: Spartoi Costume1, Fancy Name: Naga Guard
 Name: Black Knight Costume1, Fancy Name: Negative Knight

@@ -53,7 +53,7 @@
           },
           {
             "key": "familybonuses.description.short.damage_on_special_dodge_wild_cat",
-            "text": "Ogni Abilità speciale schivata infligge all'attaccante [#!]{1MEMBERFIXEDVALUE}/{2MEMBERSFIXEDVALUE}/{3MEMBERSFIXEDVALUE} danni."
+            "text": "Ogni Abilità speciale schivata infligge all'attaccante [#!]{FIXEDVALUE} danni"
           },
           {
             "key": "shop.offers.subtitle.harvester_hype_xp_info",
@@ -113,7 +113,7 @@
           },
           {
             "key": "familybonuses.description.short.damage_on_special_dodge_wild_cat",
-            "text": "За каждое уклонение от особого навыка атакующий получает [#!]{1MEMBERFIXEDVALUE}/{2MEMBERSFIXEDVALUE}/{3MEMBERSFIXEDVALUE} урона."
+            "text": "За каждое уклонение от особого навыка атакующий получает [#!]{FIXEDVALUE} урона"
           },
           {
             "key": "shop.offers.subtitle.harvester_hype_xp_info",
@@ -177,7 +177,7 @@
           },
           {
             "key": "familybonuses.description.short.damage_on_special_dodge_wild_cat",
-            "text": "Każde uniknięcie umiejętności specjalnej zadaje atakującemu [#!]{1MEMBERFIXEDVALUE}/{2MEMBERSFIXEDVALUE}/{3MEMBERSFIXEDVALUE} pkt. obrażeń."
+            "text": "Każde uniknięcie umiejętności specjalnej zadaje atakującemu [#!]{FIXEDVALUE} pkt. obrażeń"
           },
           {
             "key": "shop.offers.subtitle.harvester_hype_xp_info",
@@ -237,7 +237,7 @@
           },
           {
             "key": "familybonuses.description.short.damage_on_special_dodge_wild_cat",
-            "text": "每次閃避特殊技能時，都會對攻擊者造成[#!]{1MEMBERFIXEDVALUE}/{2MEMBERSFIXEDVALUE}/{3MEMBERSFIXEDVALUE}點傷害。"
+            "text": "每次閃避特殊技能時，都會對攻擊者造成[#!]{FIXEDVALUE}點傷害"
           },
           {
             "key": "shop.offers.subtitle.harvester_hype_xp_info",
@@ -297,7 +297,7 @@
           },
           {
             "key": "familybonuses.description.short.damage_on_special_dodge_wild_cat",
-            "text": "특수 스킬을 회피할 때마다 공격자에게 [#!]{1MEMBERFIXEDVALUE}/{2MEMBERSFIXEDVALUE}/{3MEMBERSFIXEDVALUE} 피해를 입힙니다."
+            "text": "특수 스킬을 회피할 때마다 공격자에게 [#!]{FIXEDVALUE} 피해를 입힙니다"
           },
           {
             "key": "shop.offers.subtitle.harvester_hype_xp_info",
@@ -357,7 +357,7 @@
           },
           {
             "key": "familybonuses.description.short.damage_on_special_dodge_wild_cat",
-            "text": "Jede ausgewichene Spezialfähigkeit fügt dem Angreifer [#!]{1MEMBERFIXEDVALUE}/{2MEMBERSFIXEDVALUE}/{3MEMBERSFIXEDVALUE} Schaden zu."
+            "text": "Jede ausgewichene Spezialfähigkeit fügt dem Angreifer [#!]{FIXEDVALUE} Schaden zu"
           },
           {
             "key": "shop.offers.subtitle.harvester_hype_xp_info",
@@ -417,7 +417,7 @@
           },
           {
             "key": "familybonuses.description.short.damage_on_special_dodge_wild_cat",
-            "text": "特殊スキルを回避するごとに攻撃者に[#!]{1MEMBERFIXEDVALUE}/{2MEMBERSFIXEDVALUE}/{3MEMBERSFIXEDVALUE}ダメージを与える。"
+            "text": "特殊スキルを回避するごとに攻撃者に[#!]{FIXEDVALUE}ダメージを与える"
           },
           {
             "key": "shop.offers.subtitle.harvester_hype_xp_info",
@@ -477,7 +477,7 @@
           },
           {
             "key": "familybonuses.description.short.damage_on_special_dodge_wild_cat",
-            "text": "Varje specialförmåga som undviks gör [#!]{1MEMBERFIXEDVALUE}/{2MEMBERSFIXEDVALUE}/{3MEMBERSFIXEDVALUE} skada mot anfallaren."
+            "text": "Varje specialförmåga som undviks gör [#!]{FIXEDVALUE} skada mot anfallaren"
           },
           {
             "key": "shop.offers.subtitle.harvester_hype_xp_info",
@@ -537,7 +537,7 @@
           },
           {
             "key": "familybonuses.description.short.damage_on_special_dodge_wild_cat",
-            "text": "Savuşturulan her Özel Yetenek, saldırgana [#!]{1MEMBERFIXEDVALUE}/{2MEMBERSFIXEDVALUE}/{3MEMBERSFIXEDVALUE} hasar verir."
+            "text": "Savuşturulan her Özel Yetenek, saldırgana [#!]{FIXEDVALUE} hasar verir"
           },
           {
             "key": "shop.offers.subtitle.harvester_hype_xp_info",
@@ -657,7 +657,7 @@
           },
           {
             "key": "familybonuses.description.short.damage_on_special_dodge_wild_cat",
-            "text": "تتسب كل مهارة خاصة يتم تفاديها في إلحاق ضرر بالمهاجم بمقدار [#!]{1MEMBERFIXEDVALUE}/{2MEMBERSFIXEDVALUE}/{3MEMBERSFIXEDVALUE} من الضرر."
+            "text": "تتسب كل مهارة خاصة يتم تفاديها في إلحاق ضرر بالمهاجم بمقدار [#!]{FIXEDVALUE} من الضرر"
           },
           {
             "key": "shop.offers.subtitle.harvester_hype_xp_info",
@@ -717,11 +717,15 @@
           },
           {
             "key": "familybonuses.description.short.damage_on_special_dodge_wild_cat",
-            "text": "Chaque compétence spéciale esquivée inflige [#!]{1MEMBERFIXEDVALUE}/{2MEMBERSFIXEDVALUE}/{3MEMBERSFIXEDVALUE} points de dégâts à l'attaquant."
+            "text": "Chaque compétence spéciale esquivée inflige [#!]{FIXEDVALUE} points de dégâts à l'attaquant"
           },
           {
             "key": "shop.offers.subtitle.harvester_hype_xp_info",
             "text": "Permet de rendre l'entraînement 25 % plus efficace lorsque vous améliorez vos héros."
+          },
+          {
+            "key": "specials.v2.statuseffect.minor.frost.single.enemies",
+            "text": "La cible subit {DAMAGE} points dégâts de givre sur {TURNS} tours."
           }
         ]
       },
@@ -777,7 +781,7 @@
           },
           {
             "key": "familybonuses.description.short.damage_on_special_dodge_wild_cat",
-            "text": "Cada habilidade especial esquivada causa [#!]{1MEMBERFIXEDVALUE}/{2MEMBERSFIXEDVALUE}/{3MEMBERSFIXEDVALUE} de dano ao atacante."
+            "text": "Cada habilidade especial esquivada causa [#!]{FIXEDVALUE} de dano ao atacante"
           },
           {
             "key": "shop.offers.subtitle.harvester_hype_xp_info",
@@ -837,7 +841,7 @@
           },
           {
             "key": "familybonuses.description.short.damage_on_special_dodge_wild_cat",
-            "text": "Setiap Keahlian Khusus berkelit dari kerusakan penyerang sebesar [#!]{1MEMBERFIXEDVALUE}/{2MEMBERSFIXEDVALUE}/{3MEMBERSFIXEDVALUE} kerusakan."
+            "text": "Setiap Keahlian Khusus berkelit dari kerusakan penyerang sebesar [#!]{FIXEDVALUE} kerusakan"
           },
           {
             "key": "shop.offers.subtitle.harvester_hype_xp_info",
@@ -897,7 +901,7 @@
           },
           {
             "key": "familybonuses.description.short.damage_on_special_dodge_wild_cat",
-            "text": "Jokainen väistetty erikoistaito tuottaa hyökkääjälle [#!]{1MEMBERFIXEDVALUE}/{2MEMBERSFIXEDVALUE}/{3MEMBERSFIXEDVALUE} vauriota."
+            "text": "Jokainen väistetty erikoistaito tuottaa hyökkääjälle [#!]{FIXEDVALUE} vauriota"
           },
           {
             "key": "shop.offers.subtitle.harvester_hype_xp_info",
@@ -957,7 +961,7 @@
           },
           {
             "key": "familybonuses.description.short.damage_on_special_dodge_wild_cat",
-            "text": "Hver særlige egenskab, der undviges, giver angriberen [#!]{1MEMBERFIXEDVALUE}/{2MEMBERSFIXEDVALUE}/{3MEMBERSFIXEDVALUE} skade."
+            "text": "Hver særlige egenskab, der undviges, giver angriberen [#!]{FIXEDVALUE} skade"
           },
           {
             "key": "shop.offers.subtitle.harvester_hype_xp_info",
@@ -1017,11 +1021,15 @@
           },
           {
             "key": "familybonuses.description.short.damage_on_special_dodge_wild_cat",
-            "text": "Cada vez que se esquiva una habilidad especial, inflige [#!]{1MEMBERFIXEDVALUE}/{2MEMBERSFIXEDVALUE}/{3MEMBERSFIXEDVALUE} de daño al atacante."
+            "text": "Cada vez que se esquiva una habilidad especial, inflige [#!]{FIXEDVALUE} de daño al atacante"
           },
           {
             "key": "shop.offers.subtitle.harvester_hype_xp_info",
             "text": "Sirve para lograr un entrenamiento un 25 % más efectivo al hacer que los héroes suban de nivel."
+          },
+          {
+            "key": "lottery.description.covenantsummon",
+            "text": "Esta invocación no incluye ningún héroe [#ffc3ff]legendario[#] clásico"
           }
         ]
       },
@@ -1077,7 +1085,7 @@
           },
           {
             "key": "familybonuses.description.short.damage_on_special_dodge_wild_cat",
-            "text": "Hver spesialferdighet man unnviker, skader angriperen med [#!]{1MEMBERFIXEDVALUE}/{2MEMBERSFIXEDVALUE}/{3MEMBERSFIXEDVALUE} skade."
+            "text": "Hver spesialferdighet man unnviker, skader angriperen med [#!]{FIXEDVALUE} skade"
           },
           {
             "key": "shop.offers.subtitle.harvester_hype_xp_info",
@@ -1137,7 +1145,7 @@
           },
           {
             "key": "familybonuses.description.short.damage_on_special_dodge_wild_cat",
-            "text": "Elke speciale vaardigheid die wordt ontweken brengt de aanvaller [#!]{1MEMBERFIXEDVALUE}/{2MEMBERSFIXEDVALUE}/{3MEMBERSFIXEDVALUE} schade toe."
+            "text": "Elke speciale vaardigheid die wordt ontweken brengt de aanvaller [#!]{FIXEDVALUE} schade toe"
           },
           {
             "key": "shop.offers.subtitle.harvester_hype_xp_info",
@@ -1197,7 +1205,7 @@
           },
           {
             "key": "familybonuses.description.short.damage_on_special_dodge_wild_cat",
-            "text": "每次闪避特殊技能时，对攻击者造成[#!]{1MEMBERFIXEDVALUE}/{2MEMBERSFIXEDVALUE}/{3MEMBERSFIXEDVALUE} 点伤害。"
+            "text": "每次闪避特殊技能时，对攻击者造成[#!]{FIXEDVALUE}点伤害"
           },
           {
             "key": "shop.offers.subtitle.harvester_hype_xp_info",
@@ -1207,5 +1215,5 @@
       }
     }
   },
-  "languageOverridesConfigId": 3829545112
+  "languageOverridesConfigId": 869123734
 }

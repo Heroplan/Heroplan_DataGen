@@ -34238,5 +34238,85 @@ window.allHeroesExtra = [
         "passiveSkills": [
             "dodge_enemy_damage_special"
         ]
+    },
+    {
+        "name": "Lilli",
+        "fancy name": "Magic Carpet Cat Lady",
+        "element": "Purple",
+        "rarity": 5,
+        "Release date": "2025-08-20",
+        "AetherPower": "Damage Reduction",
+        "skill_types": ["Minions Counters",
+            "Snipers",
+            "Status Effect Conversion",
+            "Extra Damage Dealers"
+
+        ],
+        "heroId": "magic_carpet_lilli",
+        "baseAttack": 585,
+        "baseDefense": 635,
+        "baseHealth": 1097,
+        "specialId": "catnip_fury",
+        "passiveSkills": [
+            "resist_negative_minion_and_mega_minion_effects",
+            "fly_magic_carpet"
+        ]
+    },
+    {
+        "name": "Ascension Mimic Holy",
+        "fancy name": "Grinning Cache of Evil",
+        "element": "Yellow",
+        "rarity": 5,
+        "Release date": "2025-08-18",
+        "AetherPower": "Bulwark",
+        "skill_types": [
+            "Healers (Special)",
+            "Minions Counters",
+            "AoE Attackers (Hit-3)",
+            "Mana Raisers",
+            "Immunity Providers",
+            "Ghost Form & Hiding",
+            "Bypassers"],
+        "heroId": "mimic_ascension_item_yellow",
+        "baseAttack": 616,
+        "baseDefense": 616,
+        "baseHealth": 1045,
+        "specialId": "gorging_chew_yellow",
+        "passiveSkills": [
+            "mimic_ascension_item_yellow",
+            "never_miss_special"
+        ]
+    },
+    {
+        "name": "Vaishali costume1",
+        "fancy name": "Mystic Pie Master",
+        "element": "Yellow",
+        "rarity": 5,
+        "Release date": "2025-08-20",
+        "AetherPower": "Ailment Immunity",
+        "skill_types": [
+            "Buffers (ATK)",
+            "Cleansers",
+            "Debuffers (ATK)",
+            "Dispellers",
+            "DoT Attackers",
+            "Heal over Time (HoT)"],
+        "heroId": "magic_vaishali_costume_chef",
+        "baseAttack": 456,
+        "baseDefense": 462,
+        "baseHealth": 827,
+        "specialId": "pawns_of_divinity",
+        "specialId_costume": "crust_of_divinity",
+        "passiveSkills": [
+            "magic_mana_regen_stack_on_special_costume",
+            "magic_add_mana_on_full_charge_costume"
+        ],
+        "costumeBonusPassiveSkillIds": [
+            "reduce_big_minion_health"
+        ],
+        "attackBonus": "32%",
+        "defenseBonus": "32%",
+        "healthBonus": "32%",
+        "manaBonus": "1%"
     }
 ];

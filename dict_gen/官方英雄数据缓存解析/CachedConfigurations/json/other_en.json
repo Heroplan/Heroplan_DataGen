@@ -1,5 +1,6 @@
 {
   "otherConfig": {
+    "abCode": "ftue_energy_flow_active",
     "logic": {
       "dragonAscension": {
         "characterRecipes": [
@@ -56730,7 +56731,7 @@
             "rarity": 3,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2200-01-01 07:00:00",
-            "costumeId": "Mage of Glaceholm-Vitrail of Glaceholms",
+            "costumeId": "Mage of Glaceholm-Vitrail of Glaceholm",
             "parentHeroId": "nordic_mage"
           },
           {
@@ -56934,7 +56935,7 @@
             "rarity": 4,
             "notAllowedAsLoot": true,
             "canBeReceivedDate": "2200-01-01 07:00:00",
-            "costumeId": "Deathbound Lady-Deathbound Vitrails",
+            "costumeId": "Deathbound Lady-Deathbound Vitrail",
             "parentHeroId": "undead_female_warrior"
           },
           {
@@ -79865,5 +79866,5 @@
     "criticalOperationPendingDelaySeconds": 3,
     "allowedCriticalOperationPendingCount": 3
   },
-  "otherConfigId": 3553540399
+  "otherConfigId": 3159712639
 }
