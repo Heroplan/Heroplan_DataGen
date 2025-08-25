@@ -121,28 +121,6 @@
         "Lottery_Only":1
     },
     {
-        "name": "Hygil",
-        "fancy_name": "Astral Dwarf Cartographer",
-        "color": "Green",
-        "Release date": "",
-        "star": 5,
-        "family": "astral_dwarfs",
-        "costume_id": 0,
-        "heroId": "astral_dwarf_hygil",
-        "Lottery_Only":1
-    },
-    {
-        "name": "Stravia",
-        "fancy_name": "Messenger of the Chentari",
-        "color": "Yellow",
-        "Release date": "",
-        "star": 5,
-        "family": "wild_cat",
-        "costume_id": 0,
-        "heroId": "wild_cat_stravia",
-        "Lottery_Only":1
-    },
-    {
         "name": "Lu Zhishen",
         "fancy_name": "Flowery Monk of Water Margin",
         "color": "Red",

@@ -27264,7 +27264,7 @@
             "statusTargetType": "Single"
           },
           {
-            "id": "basic_defense_lu_zhishen",
+            "id": "crit_increase_lu_zhishen",
             "sideAffected": "Allies",
             "statusTargetType": "All",
             "turns": 4
@@ -56643,7 +56643,7 @@
       {
         "propertyType": "ElementDependentEffect",
         "id": "reduce_mana_more_for_yellow_griffex_costume",
-        "effectPowerPerMil": 65076,
+        "effectPowerPerMil": 65126,
         "effectPowerIncrementPerLevelPerMil": 236,
         "element": "黄",
         "effectPowerAgainstElementPerMil": 64676,
@@ -56665,10 +56665,10 @@
       {
         "propertyType": "ElementDependentEffect",
         "id": "add_mana_more_for_purple_griffex_costume",
-        "effectPowerPerMil": 30,
+        "effectPowerPerMil": 80,
         "effectPowerIncrementPerLevelPerMil": 10,
         "element": "紫",
-        "effectPowerAgainstElementPerMil": 110,
+        "effectPowerAgainstElementPerMil": 160,
         "effectPowerAgainstElementIncrementPerLevelPerMil": 20,
         "effectType": "AddMana",
         "targetType": "AllExceptCaster",
@@ -57084,7 +57084,7 @@
       {
         "propertyType": "SecondaryDirectEffect",
         "id": "damage_lu_zhishen",
-        "powerMultiplierPerMil": 2850,
+        "powerMultiplierPerMil": 3050,
         "powerMultiplierIncrementPerLevelPerMil": 50,
         "effectType": "Damage",
         "targetType": "All",
@@ -57534,5 +57534,5 @@
       }
     ]
   },
-  "specialsConfigId": 2023932682
+  "specialsConfigId": 625374730
 }

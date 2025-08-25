@@ -851,5 +851,18 @@
     "Self Mark for SS cast": "自我标记以施放特殊技能",
     "Replace Attack Buffs All": "全体替换攻击增益",
     "Replace Defense Buffs All": "全体替换防御增益",
-    "Replace Mana Gen Buffs All": "全体替换法力生成增益"
+    "Replace Mana Gen Buffs All": "全体替换法力生成增益",
+    "Attack Growth All": "全体攻击力成长",
+    "Defense Growth All": "全体防御力成长",
+    "Damage Link 1": "伤害链接 (单体)",
+    "Attack Growth 3": "3个目标攻击力成长",
+    "Bypass Chance All": "全体几率穿透",
+    "Buff Steal each turn All": "全体每回合偷取增益",
+    "Mana Reduction All on Defeat": "被击败时全体法力降低",
+    "Destroys Mega/Minions": "摧毁超级小兵/小兵",
+    "Damage if caster Defeat 4": "若施法者被击败则对4个目标造成伤害",
+    "Mana Reduction if caster Defeat 4": "若施法者被击败则降低4个目标的法力",
+    "Mana Debuff Immunity All": "全体法力减益免疫",
+    "Resist SS blocking All": "全体抵抗特殊技能格挡",
+    "Max Health Reduction on Defeat": "被击败时降低最大生命值"
 }

@@ -35814,5 +35814,55 @@ window.allHeroesExtra = [
         "healthBonus": "32%",
         "manaBonus": "1%",
         "family": "magic"
+    },
+    {
+        "name": "Hygil",
+        "fancy name": "Astral Dwarf Cartographer",
+        "element": "Green",
+        "rarity": 5,
+        "Release date": "2025-08-24",
+        "AetherPower": "Damage Reduction",
+        "skill_types": [
+            "Snipers",
+            "Extra Damage Dealers",
+            "Ability Scores Modifiers",
+            "Mana Generation Buffers",
+            "Bypassers",
+            "Minions Counters"
+        ],
+        "heroId": "astral_dwarf_hygil",
+        "baseAttack": 583,
+        "baseDefense": 639,
+        "baseHealth": 1099,
+        "specialId": "polestar_expedition",
+        "passiveSkills": [
+            "never_miss_special",
+            "resist_negative_minion_and_mega_minion_effects",
+            "bypass_minions_and_mega_minions"
+        ],
+        "family": "astral_dwarfs"
+    },
+    {
+        "name": "Stravia",
+        "fancy name": "Messenger of the Chentari",
+        "element": "Yellow",
+        "rarity": 5,
+        "Release date": "2025-08-23",
+        "AetherPower": "Fiend Resist",
+        "skill_types": [
+            "AoE Attackers (Hit-5)",
+            "DoT Attackers",
+            "Max Health Reducers"
+        ],
+        "heroId": "wild_cat_stravia",
+        "baseAttack": 664,
+        "baseDefense": 563,
+        "baseHealth": 1050,
+        "specialId": "couriers_dash",
+        "passiveSkills": [
+            "resist_all_defense_effects",
+            "revive_chance_nine_lives"
+        ],
+        "family": "wild_cat"
     }
 ];

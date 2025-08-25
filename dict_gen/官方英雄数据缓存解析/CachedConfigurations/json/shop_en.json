@@ -52233,7 +52233,7 @@
           {
             "type": "Hero",
             "id": "trainer_rainbow_common",
-            "amount": 1
+            "amount": 3
           },
           {
             "type": "Item",
@@ -52337,7 +52337,7 @@
           {
             "type": "Hero",
             "id": "trainer_rainbow_common",
-            "amount": 1
+            "amount": 3
           },
           {
             "type": "Item",
@@ -111375,5 +111375,5 @@
       }
     ]
   },
-  "shopConfigId": 2682960843
+  "shopConfigId": 2229022471
 }

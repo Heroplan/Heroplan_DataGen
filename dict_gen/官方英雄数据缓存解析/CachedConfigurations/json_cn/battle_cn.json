@@ -47088,7 +47088,7 @@
         "id": "increasing_special_damage_until_special_cast_lu_zhishen",
         "buff": "MinorBuff",
         "removalTrigger": "SpecialCast",
-        "powerAdditionPerMil": 160,
+        "powerAdditionPerMil": 260,
         "powerAdditionIncrementPerLevelPerMil": 20,
         "powerAdditionIncrementPerTurnPerMil": 300,
         "powerAdditionIncrementPerTurnPerLevelPerMil": 0,
@@ -76766,5 +76766,5 @@
       "SharedDamage"
     ]
   },
-  "battleConfigId": 3416127494
+  "battleConfigId": 1137267151
 }

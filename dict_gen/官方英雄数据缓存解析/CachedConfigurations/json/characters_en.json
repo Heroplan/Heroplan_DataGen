@@ -11006,7 +11006,7 @@
     "specialId": "mana_manipulation",
     "canBeReceivedDate": "2023-05-22 07:00:00",
     "origin": "SuperElemental",
-    "costumeBonusesId": "elemental"
+    "costumeBonusesId": "elemental_aug_2025_less"
   },
   "elemental_aconia": {
     "id": "Cyber Rogue",
@@ -21545,9 +21545,9 @@
     "id": "Modifier of Obscura",
     "element": "Purple",
     "family": "super_elemental",
-    "baseHealth": 827,
-    "baseAttack": 412,
-    "baseDefense": 430,
+    "baseHealth": 829,
+    "baseAttack": 413,
+    "baseDefense": 431,
     "manaSpeedId": "慢",
     "passiveSkills": [
       "strong_troop_damage_modifier_costume"
@@ -25246,9 +25246,9 @@
     "id": "Dwarven Big Game Hunter",
     "element": "Blue",
     "family": "myrkheim",
-    "baseHealth": 1058,
-    "baseAttack": 590,
-    "baseDefense": 558,
+    "baseHealth": 1097,
+    "baseAttack": 623,
+    "baseDefense": 591,
     "manaSpeedId": "飞速",
     "passiveSkills": [
       "arctic_core",
@@ -25322,9 +25322,9 @@
     "id": "Dwarven Goat Rider",
     "element": "Blue",
     "family": "myrkheim",
-    "baseHealth": 373,
-    "baseAttack": 320,
-    "baseDefense": 310,
+    "baseHealth": 397,
+    "baseAttack": 328,
+    "baseDefense": 318,
     "manaSpeedId": "中等",
     "passiveSkills": [
       "arctic_core",
@@ -27838,9 +27838,9 @@
     "id": "Flowery Monk of Water Margin",
     "element": "Red",
     "family": "outlaw",
-    "baseHealth": 1078,
-    "baseAttack": 617,
-    "baseDefense": 599,
+    "baseHealth": 1087,
+    "baseAttack": 620,
+    "baseDefense": 602,
     "manaSpeedId": "中等",
     "passiveSkills": [
       "resist_bleed",
