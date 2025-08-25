@@ -115,7 +115,7 @@
         "color": "Purple",
         "Release date": "",
         "star": 5,
-        "family": "superelemental",
+        "family": "super_elemental",
         "costume_id": 0,
         "heroId": "elemental_griffex_costume_camera",
         "Lottery_Only":1
@@ -126,7 +126,7 @@
         "color": "Green",
         "Release date": "",
         "star": 5,
-        "family": "astraldwarfs",
+        "family": "astral_dwarfs",
         "costume_id": 0,
         "heroId": "astral_dwarf_hygil",
         "Lottery_Only":1
@@ -137,7 +137,7 @@
         "color": "Yellow",
         "Release date": "",
         "star": 5,
-        "family": "wildcat",
+        "family": "wild_cat",
         "costume_id": 0,
         "heroId": "wild_cat_stravia",
         "Lottery_Only":1

@@ -4,6 +4,46 @@ import yaml
 import re
 import json # 引入 json 模块
 
+# --- [新增] 家族名称修正字典 ---
+# 此字典用于将从YAML文件名中提取的旧家族名映射到新的、正确的新名称。
+family_name_corrections = {
+    "avalon": "knight",
+    "magiccarpet": "magic_carpet",
+    "outlaws": "outlaw",
+    "springvale": "easter",
+    "morlovia": "halloween",
+    "christmas": "winter",
+    "2017": "hotm2017",
+    "2018": "hotm2018",
+    "2019": "hotm2019",
+    "2020": "hotm2020",
+    "2021": "hotm2021",
+    "2022": "hotm2022",
+    "2023": "hotm2023",
+    "2024": "hotm2024",
+    "2025": "hotm2025",
+    "sakura": "japanese",
+    "grimforest": "fable",
+    "guardiansteltoc": "guardian",
+    "underwild": "abyss",
+    "plainshunter": "plains_hunter",
+    "superelemental": "super_elemental",
+    "pets": "mighty_pet",
+    "starfall": "circus",
+    "lunaryear": "zodiac",
+    "junglehunter": "jungle_hunter",
+    "abysshunter": "abyss_hunter",
+    "defendersofatlantis": "tales1_goodies",
+    "nightmaresofatlantis": "tales1_baddies",
+    "slayer": "slayers",
+    "astralelves": "astral_elves",
+    "garrisonguard": "garrison",
+    "woodlandfaun": "faun",
+    "astraldwarfs": "astrald_warfs",
+    "moth": "moths",
+    "wildcat": "wild_cat"
+}
+
 def extract_family_name(filename):
     """从文件名中提取家族名称（格式为：数字-名称.yml）"""
     match = re.match(r'^\d+-(.+)\.yml$', filename)
@@ -26,6 +66,10 @@ def process_families():
             family_name = extract_family_name(filename)
             
             if family_name:
+                # --- [修改] 应用名称修正字典 ---
+                # 如果旧名称在字典中，则使用新名称，否则保留原名
+                family_name = family_name_corrections.get(family_name, family_name)
+
                 with open(filepath, 'r', encoding='utf-8') as file:
                     data = yaml.safe_load(file)
                     
@@ -55,6 +99,9 @@ def process_families():
 
     # 5. 将完全相同的内容写入两个目标文件
     try:
+        os.makedirs(os.path.dirname(output_js_to_translate), exist_ok=True)
+        os.makedirs(os.path.dirname(output_js_en_backup), exist_ok=True)
+        
         with open(output_js_to_translate, 'w', encoding='utf-8') as f:
             f.write(final_js_content)
         print(f"成功创建待翻译文件: {output_js_to_translate}")

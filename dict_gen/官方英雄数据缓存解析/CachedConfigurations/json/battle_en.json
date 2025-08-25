@@ -1462,7 +1462,7 @@
           "levelUpStepPerMil": 20
         },
         "versionSafe": true,
-        "origin": "忍者高塔",
+        "origin": "Ninja Tower",
         "canBeReceivedDate": "2020-10-13 07:00:00",
         "canBeAscendedToDate": "2200-01-01 07:00:00"
       },
@@ -1495,7 +1495,7 @@
           "levelUpStepPerMil": 20
         },
         "versionSafe": true,
-        "origin": "忍者高塔",
+        "origin": "Ninja Tower",
         "canBeReceivedDate": "2020-10-13 07:00:00",
         "canBeAscendedToDate": "2200-01-01 07:00:00"
       },
@@ -1528,7 +1528,7 @@
           "levelUpStepPerMil": 20
         },
         "versionSafe": true,
-        "origin": "忍者高塔",
+        "origin": "Ninja Tower",
         "canBeReceivedDate": "2020-10-13 07:00:00",
         "canBeAscendedToDate": "2200-01-01 07:00:00"
       },
@@ -1561,7 +1561,7 @@
           "levelUpStepPerMil": 20
         },
         "versionSafe": true,
-        "origin": "忍者高塔",
+        "origin": "Ninja Tower",
         "canBeReceivedDate": "2020-10-13 07:00:00",
         "canBeAscendedToDate": "2200-01-01 07:00:00"
       },
@@ -1594,7 +1594,7 @@
           "levelUpStepPerMil": 20
         },
         "versionSafe": true,
-        "origin": "忍者高塔",
+        "origin": "Ninja Tower",
         "canBeReceivedDate": "2020-10-13 07:00:00",
         "canBeAscendedToDate": "2200-01-01 07:00:00"
       },
@@ -1747,7 +1747,7 @@
           "levelUpStepPerMil": 30
         },
         "versionSafe": true,
-        "origin": "魔法高塔",
+        "origin": "Tower of Magic",
         "canBeReceivedDate": "2022-03-02 07:00:00",
         "canBeAscendedToDate": "2200-01-01 07:00:00"
       },
@@ -1780,7 +1780,7 @@
           "levelUpStepPerMil": 30
         },
         "versionSafe": true,
-        "origin": "魔法高塔",
+        "origin": "Tower of Magic",
         "canBeReceivedDate": "2022-03-02 07:00:00",
         "canBeAscendedToDate": "2200-01-01 07:00:00"
       },
@@ -1813,7 +1813,7 @@
           "levelUpStepPerMil": 30
         },
         "versionSafe": true,
-        "origin": "魔法高塔",
+        "origin": "Tower of Magic",
         "canBeReceivedDate": "2022-03-02 07:00:00",
         "canBeAscendedToDate": "2200-01-01 07:00:00"
       },
@@ -1846,7 +1846,7 @@
           "levelUpStepPerMil": 30
         },
         "versionSafe": true,
-        "origin": "魔法高塔",
+        "origin": "Tower of Magic",
         "canBeReceivedDate": "2022-03-02 07:00:00",
         "canBeAscendedToDate": "2200-01-01 07:00:00"
       },
@@ -1879,7 +1879,7 @@
           "levelUpStepPerMil": 30
         },
         "versionSafe": true,
-        "origin": "魔法高塔",
+        "origin": "Tower of Magic",
         "canBeReceivedDate": "2022-03-02 07:00:00",
         "canBeAscendedToDate": "2200-01-01 07:00:00"
       },
@@ -1912,7 +1912,7 @@
           "levelUpStepPerMil": 20
         },
         "versionSafe": true,
-        "origin": "冥河高塔",
+        "origin": "Tower of Styx",
         "canBeReceivedDate": "2022-09-21 07:00:00",
         "canBeAscendedToDate": "2200-01-01 07:00:00"
       },
@@ -1945,7 +1945,7 @@
           "levelUpStepPerMil": 20
         },
         "versionSafe": true,
-        "origin": "冥河高塔",
+        "origin": "Tower of Styx",
         "canBeReceivedDate": "2022-09-21 07:00:00",
         "canBeAscendedToDate": "2200-01-01 07:00:00"
       },
@@ -1978,7 +1978,7 @@
           "levelUpStepPerMil": 20
         },
         "versionSafe": true,
-        "origin": "冥河高塔",
+        "origin": "Tower of Styx",
         "canBeReceivedDate": "2022-09-21 07:00:00",
         "canBeAscendedToDate": "2200-01-01 07:00:00"
       },
@@ -2011,7 +2011,7 @@
           "levelUpStepPerMil": 20
         },
         "versionSafe": true,
-        "origin": "冥河高塔",
+        "origin": "Tower of Styx",
         "canBeReceivedDate": "2022-09-21 07:00:00",
         "canBeAscendedToDate": "2200-01-01 07:00:00"
       },
@@ -2044,7 +2044,7 @@
           "levelUpStepPerMil": 20
         },
         "versionSafe": true,
-        "origin": "冥河高塔",
+        "origin": "Tower of Styx",
         "canBeReceivedDate": "2022-09-21 07:00:00",
         "canBeAscendedToDate": "2200-01-01 07:00:00"
       },
@@ -72341,7 +72341,7 @@
             "multiplierPerMil": 1150
           }
         ],
-        "origin": "BeachParty",
+        "origin": "Beach Party",
         "rarity": 5
       },
       {
@@ -72361,7 +72361,7 @@
             "multiplierPerMil": 1250
           }
         ],
-        "origin": "BeachParty",
+        "origin": "Beach Party",
         "rarity": 4
       },
       {
@@ -72381,7 +72381,7 @@
             "multiplierPerMil": 1500
           }
         ],
-        "origin": "BeachParty",
+        "origin": "Beach Party",
         "rarity": 3
       },
       {
@@ -72401,7 +72401,7 @@
             "multiplierPerMil": 1500
           }
         ],
-        "origin": "BeachParty",
+        "origin": "Beach Party",
         "rarity": 2
       },
       {
@@ -72421,7 +72421,7 @@
             "multiplierPerMil": 1500
           }
         ],
-        "origin": "BeachParty",
+        "origin": "Beach Party",
         "rarity": 1
       },
       {
@@ -72930,7 +72930,7 @@
             "multiplierPerMil": 1250
           }
         ],
-        "origin": "特邀活动",
+        "origin": "Special Guest Event",
         "rarity": 1
       },
       {
@@ -72950,7 +72950,7 @@
             "multiplierPerMil": 1250
           }
         ],
-        "origin": "特邀活动",
+        "origin": "Special Guest Event",
         "rarity": 2
       },
       {
@@ -72970,7 +72970,7 @@
             "multiplierPerMil": 1250
           }
         ],
-        "origin": "特邀活动",
+        "origin": "Special Guest Event",
         "rarity": 3
       },
       {
@@ -72990,7 +72990,7 @@
             "multiplierPerMil": 1250
           }
         ],
-        "origin": "特邀活动",
+        "origin": "Special Guest Event",
         "rarity": 4
       },
       {
@@ -73010,7 +73010,7 @@
             "multiplierPerMil": 1250
           }
         ],
-        "origin": "特邀活动",
+        "origin": "Special Guest Event",
         "rarity": 5
       },
       {

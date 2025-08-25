@@ -1,7 +1,7 @@
 window.families_bonus = [
     {
         "originalIndex": 0,
-        "name": "avalon",
+        "name": "knight",
         "bonus": [
             "2 / 3 / 4 / 5 位独特英雄的加成：",
             "+5% / +10% / +15% / +20% 暴击几率。",
@@ -29,7 +29,7 @@ window.families_bonus = [
     },
     {
         "originalIndex": 3,
-        "name": "magiccarpet",
+        "name": "magic_carpet",
         "bonus": [
             "该家族的英雄拥有飞行动量。",
             "* 英雄开始时拥有满额飞行动量。",
@@ -51,7 +51,7 @@ window.families_bonus = [
     },
     {
         "originalIndex": 5,
-        "name": "outlaws",
+        "name": "outlaw",
         "bonus": [
             "1 / 2 / 3 位英雄的加成：",
             "* +50% / +60% / +70% 暴击几率。",
@@ -70,7 +70,7 @@ window.families_bonus = [
     },
     {
         "originalIndex": 7,
-        "name": "springvale",
+        "name": "easter",
         "bonus": [
             "2 / 3 位独特英雄的加成：",
             "+10% / +20% 攻击力。",
@@ -88,7 +88,7 @@ window.families_bonus = [
     },
     {
         "originalIndex": 9,
-        "name": "morlovia",
+        "name": "halloween",
         "bonus": [
             "1 / 2 / 3 位独特英雄的加成：",
             "+3% / +6% / +9% 法力生成。",
@@ -97,7 +97,7 @@ window.families_bonus = [
     },
     {
         "originalIndex": 10,
-        "name": "christmas",
+        "name": "winter",
         "bonus": [
             "2 / 3 位独特英雄的加成：",
             "小兵从其召唤者继承的生命 +2% / +3%。",
@@ -142,7 +142,7 @@ window.families_bonus = [
     },
     {
         "originalIndex": 15,
-        "name": "2017",
+        "name": "hotm2017",
         "bonus": [
             "1 / 2 / 3 位英雄的加成：",
             "+5% / +10% / +15% 法力生成。",
@@ -152,7 +152,7 @@ window.families_bonus = [
     },
     {
         "originalIndex": 16,
-        "name": "2018",
+        "name": "hotm2018",
         "bonus": [
             "1 / 2 / 3 位英雄的加成：",
             "+10% / +15% / +20% 防御。",
@@ -162,7 +162,7 @@ window.families_bonus = [
     },
     {
         "originalIndex": 17,
-        "name": "2019",
+        "name": "hotm2019",
         "bonus": [
             "1 / 2 / 3 位英雄的加成：",
             "+10% / +15% / +20% 攻击力。",
@@ -172,7 +172,7 @@ window.families_bonus = [
     },
     {
         "originalIndex": 18,
-        "name": "2020",
+        "name": "hotm2020",
         "bonus": [
             "1 / 2 / 3 位英雄的加成：",
             "+10% / +15% / +20% 治疗。",
@@ -182,7 +182,7 @@ window.families_bonus = [
     },
     {
         "originalIndex": 19,
-        "name": "2021",
+        "name": "hotm2021",
         "bonus": [
             "1 / 2 / 3 位英雄的加成：",
             "+10% / +15% / +20% 暴击几率。",
@@ -192,7 +192,7 @@ window.families_bonus = [
     },
     {
         "originalIndex": 20,
-        "name": "2022",
+        "name": "hotm2022",
         "bonus": [
             "1 / 2 / 3 位英雄的加成：",
             "+10% / +15% / +20% 攻击力。",
@@ -202,7 +202,7 @@ window.families_bonus = [
     },
     {
         "originalIndex": 21,
-        "name": "2023",
+        "name": "hotm2023",
         "bonus": [
             "1 / 2 / 3 位英雄的加成：",
             "* +10% / +15% / +20% 防御。",
@@ -212,7 +212,7 @@ window.families_bonus = [
     },
     {
         "originalIndex": 22,
-        "name": "2024",
+        "name": "hotm2024",
         "bonus": [
             "1 / 2 / 3 位英雄的加成：",
             "* +10% / +15% / +20% 治疗。",
@@ -222,14 +222,14 @@ window.families_bonus = [
     },
     {
         "originalIndex": 23,
-        "name": "2025",
+        "name": "hotm2025",
         "bonus": [
             "加成将于 2026 年 1 月 1 日激活"
         ]
     },
     {
         "originalIndex": 24,
-        "name": "sakura",
+        "name": "japanese",
         "bonus": [
             "1 / 2 / 3 / 4 / 5 位独特英雄的加成：",
             "+3% / +6% / +9% / +11 / +13% 法力生成。"
@@ -245,7 +245,7 @@ window.families_bonus = [
     },
     {
         "originalIndex": 26,
-        "name": "grimforest",
+        "name": "fable",
         "bonus": [
             "2 / 3 / 4 / 5 位独特英雄的加成：",
             "+3% / +6% / +10% / +15% 攻击力。",
@@ -327,7 +327,7 @@ window.families_bonus = [
     },
     {
         "originalIndex": 36,
-        "name": "guardiansteltoc",
+        "name": "guardian",
         "bonus": [
             "2 / 3 / 4 / 5 位独特英雄的加成：",
             "+5% / +10% / +15% / +20% 防御。",
@@ -337,7 +337,7 @@ window.families_bonus = [
     },
     {
         "originalIndex": 37,
-        "name": "underwild",
+        "name": "abyss",
         "bonus": [
             "1 / 2 / 3 / 4 / 5 位独特英雄的加成：",
             "当此英雄施放其特殊技能时，有 20% / 24% / 28% / 32% / 36% 的几率在面板上生成一个蛮荒地界宝石。",
@@ -427,14 +427,14 @@ window.families_bonus = [
         "originalIndex": 46,
         "name": "bard",
         "bonus": [
-            "吟游诗人家族支援其他家族和王国。",
-            "* 单人英雄将获得 +5% 法力生成。（单人英雄即为在战队内没有其他来自同一家族或王国成员的英雄）。",
+            "吟游诗人家族为队伍中唯一属于该家族的英雄提供单人加成:",
+            "* +5% 法力生成。",
             "该家族的成员在挑战节活动中拥有额外特权。"
         ]
     },
     {
         "originalIndex": 47,
-        "name": "plainshunter",
+        "name": "plains_hunter",
         "bonus": [
             "2 / 3 / 4 / 5 位英雄的加成：",
             "+5% / +10% / +15% / +20% 攻击力。",
@@ -443,7 +443,7 @@ window.families_bonus = [
     },
     {
         "originalIndex": 48,
-        "name": "superelemental",
+        "name": "super_elemental",
         "bonus": [
             "每回合，一个或多个盾牌会强化为力量宝石。",
             "数量与队伍中<<英雄元素>>英雄的数量相同。面板上最多可同时存在 5 个同元素的力量宝石。",
@@ -452,7 +452,7 @@ window.families_bonus = [
     },
     {
         "originalIndex": 49,
-        "name": "pets",
+        "name": "mighty_pet",
         "bonus": [
             "1 / 2 / 3 位英雄的加成：",
             "附身于此英雄的恶魔吸收的最大生命值减少 -2% / -3% / -4%。",
@@ -485,7 +485,7 @@ window.families_bonus = [
     },
     {
         "originalIndex": 52,
-        "name": "starfall",
+        "name": "circus",
         "bonus": [
             "1 / 2 / 3 位英雄的加成：",
             "在每回合结束时，有 50% / 75% / 100% 的几率净化英雄最新获得的可净化状态异常。",
@@ -506,7 +506,7 @@ window.families_bonus = [
     },
     {
         "originalIndex": 54,
-        "name": "lunaryear",
+        "name": "zodiac",
         "bonus": [
             "与同一家族的其他独特英雄组队时，英雄会变得更强。",
             "农历新年家族以不同的农历生肖英雄为特色。每个农历生肖英雄在与至少 1 名其他农历新年英雄配对时，会为农历新年家族的成员提供不同的加成。",
@@ -543,7 +543,7 @@ window.families_bonus = [
     },
     {
         "originalIndex": 57,
-        "name": "junglehunter",
+        "name": "jungle_hunter",
         "bonus": [
             "2 / 3 / 4 / 5 位英雄的加成：",
             "+5% / +10% / +15% / +20% 生命值。",
@@ -555,7 +555,7 @@ window.families_bonus = [
     },
     {
         "originalIndex": 58,
-        "name": "abysshunter",
+        "name": "abyss_hunter",
         "bonus": [
             "2 / 3 / 4 / 5 位英雄的加成：",
             "+5% / +10% / +15% / +20% 防御。",
@@ -564,7 +564,7 @@ window.families_bonus = [
     },
     {
         "originalIndex": 59,
-        "name": "defendersofatlantis",
+        "name": "tales1_goodies",
         "bonus": [
             "1 / 2 位独特英雄的加成：",
             "当此角色受到特殊技能伤害后，有 50% / 75% 的几率给予所有盟友 +36% 攻击力，持续 3 回合。如果敌方的特殊技能击杀了此角色，则此几率变为 75% / 100%。",
@@ -575,7 +575,7 @@ window.families_bonus = [
     },
     {
         "originalIndex": 60,
-        "name": "nightmaresofatlantis",
+        "name": "tales1_baddies",
         "bonus": [
             "1 / 2 位独特英雄的加成：",
             "当一名敌人对此角色造成特殊技能伤害时，该敌人有 50% / 75% 的几率获得 -10% 法力生成，持续 3 回合。如果敌方的特殊技能击杀了此角色，则此几率变为 75% / 100%。",
@@ -603,7 +603,7 @@ window.families_bonus = [
     },
     {
         "originalIndex": 63,
-        "name": "slayer",
+        "name": "slayers",
         "bonus": [
             "1 / 2 / 3 位英雄的加成：",
             "* 叠加（最多 10 层）：施法者每回合恢复 15 点生命值。",
@@ -663,7 +663,7 @@ window.families_bonus = [
     },
     {
         "originalIndex": 69,
-        "name": "astralelves",
+        "name": "astral_elves",
         "bonus": [
             "1 / 2 位独特英雄的加成：",
             "对此角色造成特殊技能伤害的敌人有 50% / 70% 几率会被随机驱散一个可驱散的增益状态效果。"
@@ -697,7 +697,7 @@ window.families_bonus = [
     },
     {
         "originalIndex": 73,
-        "name": "garrisonguard",
+        "name": "garrison",
         "bonus": [
             "1 / 2 / 3 位英雄的加成：",
             "战斗开始时，召唤一个新兵守卫超级小兵，该小兵继承此角色的 20% / 25% / 30% 生命值和 100% / 120% / 140% 攻击力。"
@@ -741,7 +741,7 @@ window.families_bonus = [
     },
     {
         "originalIndex": 78,
-        "name": "woodlandfaun",
+        "name": "faun",
         "bonus": [
             "1 / 2 位英雄的加成：",
             "* 75% / 100% 几率抵抗法力减损和法力状态异常。此家族成员每次成功抵抗效果都会赋予该角色 15% 法力。",
@@ -776,7 +776,7 @@ window.families_bonus = [
     },
     {
         "originalIndex": 82,
-        "name": "astraldwarfs",
+        "name": "astrald_warfs",
         "bonus": [
             "1 / 2 位独特英雄的加成：",
             "* 在每回合结束时所有敌人有 25% / 50% 几率会被随机驱散一个可驱散的增益状态效果。",
@@ -785,7 +785,7 @@ window.families_bonus = [
     },
     {
         "originalIndex": 83,
-        "name": "moth",
+        "name": "moths",
         "bonus": [
             "1 / 2 / 3 位英雄的加成：",
             "每回合开始时，对一个随机敌人施放飞蛾粉尘，持续 2 / 3 / 4 回合。",
@@ -798,7 +798,7 @@ window.families_bonus = [
     },
     {
         "originalIndex": 84,
-        "name": "wildcat",
+        "name": "wild_cat",
         "bonus": [
             "1 / 2 / 3 位独特英雄的加成：",
             "有 5% / 10% / 15% 的几率闪避特殊技能。",

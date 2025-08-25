@@ -505,16 +505,16 @@
         "bonusChestLimit": 12,
         "bonusChestEnabled": true,
         "bucketWeights": [
-          1480,
+          980,
           595,
           9,
-          605,
-          285,
-          4,
+          2570,
+          730,
+          6,
           10,
-          1465,
-          445,
-          2
+          0,
+          0,
+          0
         ],
         "associatedSeason": "UntoldTales1",
         "extraAssociatedFamilies": [
@@ -1109,7 +1109,7 @@
             "amount": 1
           }
         ],
-        "origin": "BeachParty",
+        "origin": "Beach Party",
         "boosterGemValueForRefund": 500
       },
       {
@@ -1213,7 +1213,7 @@
             "amount": 1
           }
         ],
-        "origin": "特邀活动",
+        "origin": "Special Guest Event",
         "boosterGemValueForRefund": 500,
         "ignoreQuestXpLevelRequirement": true
       },
@@ -1221,7 +1221,6 @@
         "productType": "Bundle",
         "id": "com.smallgiantgames.empires.bundle_pve_energy_refill_offer",
         "dollarValue": 4,
-        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -19978,7 +19977,6 @@
         "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [],
-        "allianceGiftCustomContentId": "dynamic4_alliancegift",
         "dynamicOfferProduct": true
       },
       {
@@ -34599,6 +34597,7 @@
         "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [],
+        "allianceGiftCustomContentId": "dynamic2_alliancegift",
         "dynamicOfferProduct": true
       },
       {
@@ -35265,6 +35264,7 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.dragon_festival_1a",
         "dollarValue": 5,
+        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -35293,6 +35293,7 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.dragon_festival_1b",
         "dollarValue": 5,
+        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -35321,6 +35322,7 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.dragon_festival_2a",
         "dollarValue": 12,
+        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -35350,6 +35352,7 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.dragon_festival_2b",
         "dollarValue": 12,
+        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -35379,6 +35382,7 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.dragon_festival_3a",
         "dollarValue": 30,
+        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -35417,6 +35421,7 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.dragon_festival_3b",
         "dollarValue": 20,
+        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -52254,7 +52259,7 @@
           {
             "type": "Dragon",
             "id": "trainer_dragon_rainbow_novice_common",
-            "amount": 1
+            "amount": 3
           },
           {
             "type": "Item",
@@ -52436,7 +52441,7 @@
           {
             "type": "Dragon",
             "id": "trainer_dragon_rainbow_novice_common",
-            "amount": 1
+            "amount": 3
           },
           {
             "type": "Item",
@@ -55365,13 +55370,13 @@
         "contents": [
           {
             "type": "Item",
-            "id": "misc_loot_ticket",
-            "amount": 2
+            "id": "lottery_goblin_coin",
+            "amount": 50
           },
           {
             "type": "Item",
-            "id": "titan_battle_scroll_of_alteration",
-            "amount": 2
+            "id": "lottery_tower_coin",
+            "amount": 50
           }
         ]
       },
@@ -77636,7 +77641,28 @@
       {
         "offerType": "Dynamic",
         "id": "dynamic_offer_5_red_yang_mai",
-        "products": [],
+        "products": [
+          {
+            "id": "com.smallgiantgames.empires.dynamic_15",
+            "purchaseLimit": 3
+          },
+          {
+            "id": "com.smallgiantgames.empires.dynamic_30",
+            "purchaseLimit": 2
+          },
+          {
+            "id": "com.smallgiantgames.empires.dynamic_7",
+            "purchaseLimit": 4
+          },
+          {
+            "id": "com.smallgiantgames.empires.dynamic_12",
+            "purchaseLimit": 4
+          },
+          {
+            "id": "com.smallgiantgames.empires.dynamic_7c",
+            "purchaseLimit": 2
+          }
+        ],
         "requiresQuestsUnlocked": true,
         "offerCategory": "Dynamic",
         "priorityInShop": 1,
@@ -79831,12 +79857,20 @@
         "id": "dynamic_offer_7_blue_klaern",
         "products": [
           {
-            "id": "com.smallgiantgames.empires.dynamic_17",
-            "purchaseLimit": 2
+            "id": "com.smallgiantgames.empires.dynamic_3",
+            "purchaseLimit": 3
+          },
+          {
+            "id": "com.smallgiantgames.empires.dynamic_5c",
+            "purchaseLimit": 3
           },
           {
             "id": "com.smallgiantgames.empires.dynamic_7",
             "purchaseLimit": 3
+          },
+          {
+            "id": "com.smallgiantgames.empires.dynamic_30",
+            "purchaseLimit": 2
           }
         ],
         "requiresQuestsUnlocked": true,
@@ -79912,24 +79946,16 @@
         "id": "dynamic_offer_10_red_alucard",
         "products": [
           {
-            "id": "com.smallgiantgames.empires.dynamic_3",
-            "purchaseLimit": 3
-          },
-          {
-            "id": "com.smallgiantgames.empires.dynamic_5c",
-            "purchaseLimit": 3
-          },
-          {
-            "id": "com.smallgiantgames.empires.dynamic_10b",
+            "id": "com.smallgiantgames.empires.dynamic_5",
             "purchaseLimit": 2
           },
           {
-            "id": "com.smallgiantgames.empires.dynamic_30b",
+            "id": "com.smallgiantgames.empires.dynamic_10",
             "purchaseLimit": 2
           },
           {
-            "id": "com.smallgiantgames.empires.dynamic_100",
-            "purchaseLimit": 1
+            "id": "com.smallgiantgames.empires.dynamic_12b",
+            "purchaseLimit": 2
           }
         ],
         "requiresQuestsUnlocked": true,
@@ -80754,7 +80780,7 @@
             "purchaseLimit": 3
           },
           {
-            "id": "com.smallgiantgames.empires.dynamic_15d",
+            "id": "com.smallgiantgames.empires.dynamic_15c",
             "purchaseLimit": 2
           },
           {
@@ -82160,20 +82186,28 @@
         "id": "dynamic_offer_22_ludwig",
         "products": [
           {
-            "id": "com.smallgiantgames.empires.dynamic_7",
-            "purchaseLimit": 4
-          },
-          {
-            "id": "com.smallgiantgames.empires.dynamic_15",
+            "id": "com.smallgiantgames.empires.dynamic_3",
             "purchaseLimit": 3
           },
           {
-            "id": "com.smallgiantgames.empires.dynamic_15b",
+            "id": "com.smallgiantgames.empires.dynamic_5c",
             "purchaseLimit": 3
           },
           {
-            "id": "com.smallgiantgames.empires.dynamic_10",
+            "id": "com.smallgiantgames.empires.dynamic_7c",
             "purchaseLimit": 3
+          },
+          {
+            "id": "com.smallgiantgames.empires.dynamic_10b",
+            "purchaseLimit": 2
+          },
+          {
+            "id": "com.smallgiantgames.empires.dynamic_20b",
+            "purchaseLimit": 2
+          },
+          {
+            "id": "com.smallgiantgames.empires.dynamic_30",
+            "purchaseLimit": 2
           }
         ],
         "requiresQuestsUnlocked": true,
@@ -82214,23 +82248,11 @@
         "id": "dynamic_offer_24_tahir",
         "products": [
           {
-            "id": "com.smallgiantgames.empires.dynamic_3",
-            "purchaseLimit": 3
+            "id": "com.smallgiantgames.empires.dynamic_10c",
+            "purchaseLimit": 2
           },
           {
-            "id": "com.smallgiantgames.empires.dynamic_3b",
-            "purchaseLimit": 3
-          },
-          {
-            "id": "com.smallgiantgames.empires.dynamic_5",
-            "purchaseLimit": 3
-          },
-          {
-            "id": "com.smallgiantgames.empires.dynamic_7b",
-            "purchaseLimit": 3
-          },
-          {
-            "id": "com.smallgiantgames.empires.dynamic_30",
+            "id": "com.smallgiantgames.empires.dynamic_15d",
             "purchaseLimit": 2
           }
         ],
@@ -82238,6 +82260,7 @@
         "offerCategory": "Dynamic",
         "priorityInShop": 1,
         "zyngaStoreEnabled": true,
+        "dynamicType": "AllianceGift",
         "titleKey": "shop.offers.title.dynamic.bullseye_deals"
       },
       {
@@ -82245,32 +82268,16 @@
         "id": "dynamic_offer_25_seshat",
         "products": [
           {
-            "id": "com.smallgiantgames.empires.dynamic_10",
-            "purchaseLimit": 3
-          },
-          {
-            "id": "com.smallgiantgames.empires.dynamic_15",
-            "purchaseLimit": 3
-          },
-          {
-            "id": "com.smallgiantgames.empires.dynamic_15b",
+            "id": "com.smallgiantgames.empires.dynamic_5",
             "purchaseLimit": 2
           },
           {
-            "id": "com.smallgiantgames.empires.dynamic_20",
+            "id": "com.smallgiantgames.empires.dynamic_7b",
             "purchaseLimit": 2
           },
           {
-            "id": "com.smallgiantgames.empires.dynamic_12",
-            "purchaseLimit": 3
-          },
-          {
-            "id": "com.smallgiantgames.empires.dynamic_15c",
-            "purchaseLimit": 2
-          },
-          {
-            "id": "com.smallgiantgames.empires.dynamic_7",
-            "purchaseLimit": 2
+            "id": "com.smallgiantgames.empires.dynamic_29",
+            "purchaseLimit": 1
           }
         ],
         "requiresQuestsUnlocked": true,
@@ -83181,15 +83188,23 @@
         "id": "dynamic_offer_36_yellow_eloise",
         "products": [
           {
-            "id": "com.smallgiantgames.empires.dynamic_5c",
+            "id": "com.smallgiantgames.empires.dynamic_3",
             "purchaseLimit": 3
           },
           {
-            "id": "com.smallgiantgames.empires.dynamic_12c",
+            "id": "com.smallgiantgames.empires.dynamic_3b",
+            "purchaseLimit": 3
+          },
+          {
+            "id": "com.smallgiantgames.empires.dynamic_10",
             "purchaseLimit": 2
           },
           {
-            "id": "com.smallgiantgames.empires.dynamic_29",
+            "id": "com.smallgiantgames.empires.dynamic_20",
+            "purchaseLimit": 2
+          },
+          {
+            "id": "com.smallgiantgames.empires.dynamic_100",
             "purchaseLimit": 1
           }
         ],
@@ -83197,7 +83212,6 @@
         "priorityInShop": 1,
         "zyngaStoreEnabled": true,
         "offerLayoutSource": "dynamic_offer_1_yellow_eloise",
-        "dynamicType": "AllianceGift",
         "titleKey": "shop.offers.title.dynamic.feel_the_power"
       },
       {
@@ -83341,24 +83355,16 @@
         "id": "dynamic_offer_41_yellow_sif",
         "products": [
           {
-            "id": "com.smallgiantgames.empires.dynamic_3",
-            "purchaseLimit": 3
-          },
-          {
-            "id": "com.smallgiantgames.empires.dynamic_10",
-            "purchaseLimit": 3
-          },
-          {
-            "id": "com.smallgiantgames.empires.dynamic_5",
-            "purchaseLimit": 3
-          },
-          {
-            "id": "com.smallgiantgames.empires.dynamic_15",
+            "id": "com.smallgiantgames.empires.dynamic_5b",
             "purchaseLimit": 2
           },
           {
-            "id": "com.smallgiantgames.empires.dynamic_7",
+            "id": "com.smallgiantgames.empires.dynamic_10b",
             "purchaseLimit": 3
+          },
+          {
+            "id": "com.smallgiantgames.empires.dynamic_10c",
+            "purchaseLimit": 2
           }
         ],
         "offerCategory": "Dynamic",
@@ -83403,23 +83409,15 @@
         "id": "dynamic_offer_43_green_gadeirus",
         "products": [
           {
-            "id": "com.smallgiantgames.empires.dynamic_3",
-            "purchaseLimit": 3
-          },
-          {
-            "id": "com.smallgiantgames.empires.dynamic_5",
-            "purchaseLimit": 3
-          },
-          {
-            "id": "com.smallgiantgames.empires.dynamic_7b",
+            "id": "com.smallgiantgames.empires.dynamic_15",
             "purchaseLimit": 2
           },
           {
-            "id": "com.smallgiantgames.empires.dynamic_10",
-            "purchaseLimit": 3
+            "id": "com.smallgiantgames.empires.dynamic_100b",
+            "purchaseLimit": 1
           },
           {
-            "id": "com.smallgiantgames.empires.dynamic_30c",
+            "id": "com.smallgiantgames.empires.dynamic_12c",
             "purchaseLimit": 2
           }
         ],
@@ -83668,15 +83666,27 @@
         "id": "dynamic_offer_52_sparkles",
         "products": [
           {
-            "id": "com.smallgiantgames.empires.dynamic_3c",
-            "purchaseLimit": 3
+            "id": "com.smallgiantgames.empires.dynamic_12",
+            "purchaseLimit": 4
+          },
+          {
+            "id": "com.smallgiantgames.empires.dynamic_50",
+            "purchaseLimit": 1
           },
           {
             "id": "com.smallgiantgames.empires.dynamic_5b",
             "purchaseLimit": 2
           },
           {
-            "id": "com.smallgiantgames.empires.dynamic_10b",
+            "id": "com.smallgiantgames.empires.dynamic_20",
+            "purchaseLimit": 2
+          },
+          {
+            "id": "com.smallgiantgames.empires.dynamic_7",
+            "purchaseLimit": 2
+          },
+          {
+            "id": "com.smallgiantgames.empires.dynamic_5d",
             "purchaseLimit": 2
           }
         ],
@@ -83976,23 +83986,15 @@
         "id": "dynamic_offer_63_construct_shacklebolt",
         "products": [
           {
-            "id": "com.smallgiantgames.empires.dynamic_3b",
-            "purchaseLimit": 3
-          },
-          {
-            "id": "com.smallgiantgames.empires.dynamic_5",
+            "id": "com.smallgiantgames.empires.dynamic_10b",
             "purchaseLimit": 2
           },
           {
-            "id": "com.smallgiantgames.empires.dynamic_5b",
+            "id": "com.smallgiantgames.empires.dynamic_10c",
             "purchaseLimit": 2
           },
           {
-            "id": "com.smallgiantgames.empires.dynamic_20b",
-            "purchaseLimit": 2
-          },
-          {
-            "id": "com.smallgiantgames.empires.dynamic_30",
+            "id": "com.smallgiantgames.empires.dynamic_12b",
             "purchaseLimit": 2
           }
         ],
@@ -84007,15 +84009,11 @@
         "id": "dynamic_offer_64_motega",
         "products": [
           {
-            "id": "com.smallgiantgames.empires.dynamic_3c",
+            "id": "com.smallgiantgames.empires.dynamic_10c",
             "purchaseLimit": 2
           },
           {
-            "id": "com.smallgiantgames.empires.dynamic_7c",
-            "purchaseLimit": 2
-          },
-          {
-            "id": "com.smallgiantgames.empires.dynamic_12d",
+            "id": "com.smallgiantgames.empires.dynamic_15b",
             "purchaseLimit": 2
           }
         ],
@@ -84023,7 +84021,6 @@
         "priorityInShop": 1,
         "zyngaStoreEnabled": true,
         "offerLayoutSource": "dynamic_offer_31_motega",
-        "dynamicType": "AllianceGift",
         "titleKey": "shop.offers.title.dynamic.mystic_wonders"
       },
       {
@@ -84031,19 +84028,19 @@
         "id": "dynamic_offer_65_moonflower",
         "products": [
           {
-            "id": "com.smallgiantgames.empires.dynamic_10",
-            "purchaseLimit": 3
+            "id": "offer_dynamic_free",
+            "purchaseLimit": 1
           },
           {
-            "id": "com.smallgiantgames.empires.dynamic_20",
+            "id": "com.smallgiantgames.empires.dynamic_8",
             "purchaseLimit": 2
           },
           {
-            "id": "com.smallgiantgames.empires.dynamic_12",
-            "purchaseLimit": 4
+            "id": "com.smallgiantgames.empires.dynamic_12c",
+            "purchaseLimit": 2
           },
           {
-            "id": "com.smallgiantgames.empires.dynamic_20b",
+            "id": "com.smallgiantgames.empires.dynamic_30c",
             "purchaseLimit": 2
           }
         ],
@@ -85969,16 +85966,6 @@
         "id": "com.smallgiantgames.empires.dynamic_3",
         "schedule": [
           {
-            "activationTime": 808902000,
-            "contents": [
-              {
-                "type": "Item",
-                "id": "hero_trap_tools",
-                "amount": 4
-              }
-            ]
-          },
-          {
             "activationTime": 809074800,
             "contents": [
               {
@@ -86059,53 +86046,76 @@
                 "zyngaStoreExtraAmount": 1
               }
             ]
+          },
+          {
+            "activationTime": 809852400,
+            "contents": [
+              {
+                "type": "Item",
+                "id": "refill_iron_giant",
+                "amount": 3,
+                "zyngaStoreExtraAmount": 1
+              },
+              {
+                "type": "Item",
+                "id": "refill_food_giant",
+                "amount": 3
+              },
+              {
+                "type": "Item",
+                "id": "time_skip_hour",
+                "amount": 5
+              },
+              {
+                "type": "Item",
+                "id": "lottery_elite_hero",
+                "amount": 1
+              }
+            ]
+          },
+          {
+            "activationTime": 809938800,
+            "contents": [
+              {
+                "type": "Item",
+                "id": "misc_loot_ticket",
+                "amount": 10,
+                "zyngaStoreExtraAmount": 1
+              },
+              {
+                "type": "Item",
+                "id": "titan_battle_scroll_of_alteration",
+                "amount": 10,
+                "zyngaStoreExtraAmount": 1
+              },
+              {
+                "type": "Item",
+                "id": "titan_battle_hurricane",
+                "amount": 10,
+                "zyngaStoreExtraAmount": 1
+              }
+            ]
+          },
+          {
+            "activationTime": 810025200,
+            "contents": [
+              {
+                "type": "Gem",
+                "amount": 300,
+                "zyngaStoreExtraAmount": 30
+              },
+              {
+                "type": "Item",
+                "id": "misc_loot_ticket",
+                "amount": 25
+              }
+            ]
           }
         ]
       },
       {
         "id": "com.smallgiantgames.empires.dynamic_5",
         "schedule": [
-          {
-            "activationTime": 808902000,
-            "contents": [
-              {
-                "type": "Item",
-                "id": "lottery_ancient_dragon_coin",
-                "amount": 150,
-                "zyngaStoreExtraAmount": 50
-              },
-              {
-                "type": "Item",
-                "id": "dragon_feathered_headdress",
-                "amount": 5
-              },
-              {
-                "type": "Item",
-                "id": "dragon_topaz_eagle_statue",
-                "amount": 5
-              },
-              {
-                "type": "Item",
-                "id": "dragon_amethyst_snake_statue",
-                "amount": 5
-              },
-              {
-                "type": "Item",
-                "id": "dragon_ruby_horse_statue",
-                "amount": 5
-              },
-              {
-                "type": "Item",
-                "id": "dragon_sapphire_whale_statue",
-                "amount": 5
-              },
-              {
-                "type": "Item",
-                "id": "dragon_jade_turtle_statue",
-                "amount": 5
-              }
-            ]
-          },
           {
             "activationTime": 809074800,
             "contents": [
@@ -86249,45 +86259,54 @@
                 "amount": 1
               }
             ]
+          },
+          {
+            "activationTime": 809865000,
+            "contents": [
+              {
+                "type": "Item",
+                "id": "misc_loot_ticket",
+                "amount": 15
+              },
+              {
+                "type": "Item",
+                "id": "titan_battle_scroll_of_alteration",
+                "amount": 15,
+                "zyngaStoreExtraAmount": 2
+              },
+              {
+                "type": "Item",
+                "id": "titan_battle_hurricane",
+                "amount": 15,
+                "zyngaStoreExtraAmount": 2
+              }
+            ]
+          },
+          {
+            "activationTime": 809956800,
+            "contents": [
+              {
+                "type": "Gem",
+                "amount": 500,
+                "zyngaStoreExtraAmount": 50
+              },
+              {
+                "type": "Product",
+                "id": "hero_cap_increase",
+                "amount": 1
+              },
+              {
+                "type": "Item",
+                "id": "misc_loot_ticket",
+                "amount": 10
+              }
+            ]
           }
         ]
       },
       {
         "id": "com.smallgiantgames.empires.dynamic_10",
         "schedule": [
-          {
-            "activationTime": 808902000,
-            "contents": [
-              {
-                "type": "Item",
-                "id": "refill_food_large",
-                "amount": 20,
-                "zyngaStoreExtraAmount": 2
-              },
-              {
-                "type": "Item",
-                "id": "refill_food_giant",
-                "amount": 20,
-                "zyngaStoreExtraAmount": 2
-              }
-            ]
-          },
-          {
-            "activationTime": 808988400,
-            "contents": [
-              {
-                "type": "Gem",
-                "amount": 1000,
-                "zyngaStoreExtraAmount": 100
-              },
-              {
-                "type": "Item",
-                "id": "lottery_goblin_coin",
-                "amount": 300,
-                "zyngaStoreExtraAmount": 50
-              }
-            ]
-          },
           {
             "activationTime": 809074800,
             "contents": [
@@ -86406,48 +86425,61 @@
                 "zyngaStoreExtraAmount": 10
               }
             ]
+          },
+          {
+            "activationTime": 809852400,
+            "contents": [
+              {
+                "type": "Item",
+                "id": "hero_damascus_blade",
+                "amount": 1
+              },
+              {
+                "type": "Hero",
+                "id": "trainer_rainbow_uncommon",
+                "amount": 20,
+                "zyngaStoreExtraAmount": 4
+              }
+            ]
+          },
+          {
+            "activationTime": 809938800,
+            "contents": [
+              {
+                "type": "Item",
+                "id": "refill_food_large",
+                "amount": 20,
+                "zyngaStoreExtraAmount": 2
+              },
+              {
+                "type": "Item",
+                "id": "refill_food_giant",
+                "amount": 20,
+                "zyngaStoreExtraAmount": 2
+              }
+            ]
+          },
+          {
+            "activationTime": 809956800,
+            "contents": [
+              {
+                "type": "Item",
+                "id": "lottery_super_elemental_coin",
+                "amount": 700,
+                "zyngaStoreExtraAmount": 100
+              },
+              {
+                "type": "Item",
+                "id": "hero_limitbreak_alpha",
+                "amount": 1
+              }
+            ]
           }
         ]
       },
       {
         "id": "com.smallgiantgames.empires.dynamic_15",
         "schedule": [
-          {
-            "activationTime": 808815600,
-            "contents": [
-              {
-                "type": "Item",
-                "id": "lottery_alliance_coin",
-                "amount": 100,
-                "zyngaStoreExtraAmount": 15
-              },
-              {
-                "type": "Item",
-                "id": "hero_mysterious_tonic",
-                "amount": 1
-              }
-            ]
-          },
-          {
-            "activationTime": 808988400,
-            "contents": [
-              {
-                "type": "Gem",
-                "amount": 1500
-              },
-              {
-                "type": "Item",
-                "id": "hero_limitbreak_alpha",
-                "amount": 1
-              },
-              {
-                "type": "Item",
-                "id": "lottery_goblin_coin",
-                "amount": 200,
-                "zyngaStoreExtraAmount": 150
-              }
-            ]
-          },
           {
             "activationTime": 809074800,
             "contents": [
@@ -86562,59 +86594,57 @@
                 "zyngaStoreExtraAmount": 100
               }
             ]
+          },
+          {
+            "activationTime": 809852400,
+            "contents": [
+              {
+                "type": "Gem",
+                "amount": 1500
+              },
+              {
+                "type": "Item",
+                "id": "lottery_mercenary_war_coin",
+                "amount": 200,
+                "zyngaStoreExtraAmount": 200
+              },
+              {
+                "type": "Item",
+                "id": "emblem_master_barbarian",
+                "amount": 10
+              },
+              {
+                "type": "Item",
+                "id": "emblem_barbarian",
+                "amount": 100
+              }
+            ]
+          },
+          {
+            "activationTime": 810025200,
+            "contents": [
+              {
+                "type": "Gem",
+                "amount": 1500
+              },
+              {
+                "type": "Item",
+                "id": "lottery_mercenary_war_coin",
+                "amount": 200,
+                "zyngaStoreExtraAmount": 200
+              },
+              {
+                "type": "Item",
+                "id": "hero_limitbreak_alpha",
+                "amount": 1
+              }
+            ]
           }
         ]
       },
       {
         "id": "com.smallgiantgames.empires.dynamic_20",
         "schedule": [
-          {
-            "activationTime": 808902000,
-            "contents": [
-              {
-                "type": "Hero",
-                "id": "trainer_rainbow_epic",
-                "amount": 5
-              },
-              {
-                "type": "Hero",
-                "id": "trainer_rainbow_rare",
-                "amount": 15,
-                "zyngaStoreExtraAmount": 3
-              },
-              {
-                "type": "Hero",
-                "id": "trainer_rainbow_uncommon",
-                "amount": 15,
-                "zyngaStoreExtraAmount": 3
-              },
-              {
-                "type": "Hero",
-                "id": "trainer_rainbow_common",
-                "amount": 30
-              }
-            ]
-          },
-          {
-            "activationTime": 808988400,
-            "contents": [
-              {
-                "type": "Gem",
-                "amount": 2000
-              },
-              {
-                "type": "Item",
-                "id": "hero_tome_of_tactics",
-                "amount": 1
-              },
-              {
-                "type": "Item",
-                "id": "lottery_goblin_coin",
-                "amount": 200,
-                "zyngaStoreExtraAmount": 200
-              }
-            ]
-          },
           {
             "activationTime": 809074800,
             "contents": [
@@ -86729,32 +86759,47 @@
                 "amount": 1
               }
             ]
+          },
+          {
+            "activationTime": 809852400,
+            "contents": [
+              {
+                "type": "Gem",
+                "amount": 2200,
+                "zyngaStoreExtraAmount": 300
+              },
+              {
+                "type": "Item",
+                "id": "refill_food_giant",
+                "amount": 15
+              }
+            ]
+          },
+          {
+            "activationTime": 809938800,
+            "contents": [
+              {
+                "type": "Gem",
+                "amount": 2000
+              },
+              {
+                "type": "Item",
+                "id": "lottery_super_elemental_coin",
+                "amount": 300,
+                "zyngaStoreExtraAmount": 200
+              },
+              {
+                "type": "Item",
+                "id": "hero_limitbreak_legendary_red",
+                "amount": 1
+              }
+            ]
           }
         ]
       },
       {
         "id": "com.smallgiantgames.empires.dynamic_30",
         "schedule": [
-          {
-            "activationTime": 808902000,
-            "contents": [
-              {
-                "type": "Gem",
-                "amount": 3000,
-                "zyngaStoreExtraAmount": 400
-              },
-              {
-                "type": "Item",
-                "id": "hero_limitbreak_alpha",
-                "amount": 1
-              },
-              {
-                "type": "Item",
-                "id": "lottery_goblin_coin",
-                "amount": 500
-              }
-            ]
-          },
           {
             "activationTime": 809074800,
             "contents": [
@@ -86886,23 +86931,62 @@
             ]
           },
           {
-            "activationTime": 809001000,
+            "activationTime": 809852400,
             "contents": [
               {
-                "type": "Item",
-                "id": "tome_limit_break_1",
-                "amount": 1
+                "type": "Gem",
+                "amount": 3000,
+                "zyngaStoreExtraAmount": 400
               },
               {
                 "type": "Item",
-                "id": "lottery_tower_coin",
+                "id": "lottery_mercenary_war_coin",
                 "amount": 300
               },
               {
                 "type": "Item",
                 "id": "hero_limitbreak_alpha",
-                "amount": 2,
-                "zyngaStoreExtraAmount": 1
+                "amount": 2
+              }
+            ]
+          },
+          {
+            "activationTime": 809938800,
+            "contents": [
+              {
+                "type": "Gem",
+                "amount": 3000,
+                "zyngaStoreExtraAmount": 400
+              },
+              {
+                "type": "Item",
+                "id": "hero_royal_tabard",
+                "amount": 1
+              },
+              {
+                "type": "Item",
+                "id": "hero_damascus_blade",
+                "amount": 1
+              }
+            ]
+          },
+          {
+            "activationTime": 810025200,
+            "contents": [
+              {
+                "type": "Gem",
+                "amount": 3000,
+                "zyngaStoreExtraAmount": 400
+              },
+              {
+                "type": "Hero",
+                "id": "trainer_rainbow_uncommon",
+                "amount": 8
+              },
+              {
+                "type": "Troop",
+                "id": "rainbow_uncommon_trainer",
+                "amount": 8
               }
             ]
           }
@@ -86911,26 +86995,6 @@
       {
         "id": "com.smallgiantgames.empires.dynamic_50",
         "schedule": [
-          {
-            "activationTime": 808642800,
-            "contents": [
-              {
-                "type": "Gem",
-                "amount": 5000,
-                "zyngaStoreExtraAmount": 800
-              },
-              {
-                "type": "Hero",
-                "id": "trainer_rainbow_epic",
-                "amount": 10
-              },
-              {
-                "type": "Hero",
-                "id": "trainer_rainbow_rare",
-                "amount": 16
-              }
-            ]
-          },
           {
             "activationTime": 809074800,
             "contents": [
@@ -86953,6 +87017,33 @@
               {
                 "type": "Item",
                 "id": "lottery_tower_coin",
+                "amount": 400,
+                "zyngaStoreExtraAmount": 100
+              }
+            ]
+          },
+          {
+            "activationTime": 809938800,
+            "contents": [
+              {
+                "type": "Item",
+                "id": "tome_levels_legendary",
+                "amount": 1
+              },
+              {
+                "type": "Item",
+                "id": "tome_levels_epic",
+                "amount": 10,
+                "zyngaStoreExtraAmount": 2
+              },
+              {
+                "type": "Hero",
+                "id": "trainer_rainbow_epic",
+                "amount": 5
+              },
+              {
+                "type": "Item",
+                "id": "lottery_mercenary_war_coin",
                 "amount": 400,
                 "zyngaStoreExtraAmount": 100
               }
@@ -87043,58 +87134,52 @@
                 "amount": 2
               }
             ]
+          },
+          {
+            "activationTime": 809852400,
+            "contents": [
+              {
+                "type": "Gem",
+                "amount": 10000,
+                "zyngaStoreExtraAmount": 1000
+              },
+              {
+                "type": "Item",
+                "id": "hero_mystic_rings",
+                "amount": 1
+              },
+              {
+                "type": "Item",
+                "id": "hero_mysterious_tonic",
+                "amount": 1
+              },
+              {
+                "type": "Item",
+                "id": "hero_poison_darts",
+                "amount": 1
+              },
+              {
+                "type": "Item",
+                "id": "hero_royal_tabard",
+                "amount": 1
+              },
+              {
+                "type": "Item",
+                "id": "hero_farsight_telescope",
+                "amount": 1
+              },
+              {
+                "type": "Item",
+                "id": "hero_limitbreak_alpha",
+                "amount": 1
+              }
+            ]
           }
         ]
       },
       {
         "id": "com.smallgiantgames.empires.dynamic_7",
         "schedule": [
-          {
-            "activationTime": 808902000,
-            "contents": [
-              {
-                "type": "Gem",
-                "amount": 750,
-                "zyngaStoreExtraAmount": 100
-              },
-              {
-                "type": "Item",
-                "id": "misc_loot_ticket",
-                "amount": 30
-              },
-              {
-                "type": "Item",
-                "id": "refill_energy_pve_full",
-                "amount": 2
-              },
-              {
-                "type": "Item",
-                "id": "refill_food_giant",
-                "amount": 1
-              }
-            ]
-          },
-          {
-            "activationTime": 808988400,
-            "contents": [
-              {
-                "type": "Item",
-                "id": "lottery_tower_coin",
-                "amount": 250,
-                "zyngaStoreExtraAmount": 50
-              },
-              {
-                "type": "Hero",
-                "id": "trainer_rainbow_uncommon",
-                "amount": 7
-              },
-              {
-                "type": "Item",
-                "id": "refill_food_giant",
-                "amount": 3
-              }
-            ]
-          },
           {
             "activationTime": 809074800,
             "contents": [
@@ -87166,29 +87251,68 @@
                 "amount": 5
               }
             ]
+          },
+          {
+            "activationTime": 809852400,
+            "contents": [
+              {
+                "type": "Item",
+                "id": "lottery_super_elemental_coin",
+                "amount": 250,
+                "zyngaStoreExtraAmount": 50
+              },
+              {
+                "type": "Hero",
+                "id": "trainer_rainbow_uncommon",
+                "amount": 10
+              },
+              {
+                "type": "Troop",
+                "id": "rainbow_uncommon_trainer",
+                "amount": 4
+              }
+            ]
+          },
+          {
+            "activationTime": 809938800,
+            "contents": [
+              {
+                "type": "Gem",
+                "amount": 700,
+                "zyngaStoreExtraAmount": 100
+              },
+              {
+                "type": "Item",
+                "id": "lottery_item_ascension",
+                "amount": 15
+              }
+            ]
+          },
+          {
+            "activationTime": 810025200,
+            "contents": [
+              {
+                "type": "Gem",
+                "amount": 700,
+                "zyngaStoreExtraAmount": 100
+              },
+              {
+                "type": "Item",
+                "id": "hero_adventurers_kit",
+                "amount": 100
+              },
+              {
+                "type": "Item",
+                "id": "hero_strong_rope",
+                "amount": 100
+              }
+            ]
           }
         ]
       },
       {
         "id": "com.smallgiantgames.empires.dynamic_8",
         "schedule": [
-          {
-            "activationTime": 808210800,
-            "contents": [
-              {
-                "type": "Hero",
-                "id": "trainer_rainbow_uncommon",
-                "amount": 20,
-                "zyngaStoreExtraAmount": 2
-              },
-              {
-                "type": "Item",
-                "id": "refill_food_giant",
-                "amount": 10,
-                "zyngaStoreExtraAmount": 1
-              }
-            ]
-          },
           {
             "activationTime": 809001000,
             "contents": [
@@ -87204,43 +87328,28 @@
                 "amount": 1
               }
             ]
+          },
+          {
+            "activationTime": 809341200,
+            "contents": [
+              {
+                "type": "Item",
+                "id": "lottery_untold_tales_coin",
+                "amount": 600,
+                "zyngaStoreExtraAmount": 50
+              },
+              {
+                "type": "Item",
+                "id": "tome_levels_epic",
+                "amount": 1
+              }
+            ]
           }
         ]
       },
       {
         "id": "com.smallgiantgames.empires.dynamic_12",
         "schedule": [
-          {
-            "activationTime": 808902000,
-            "contents": [
-              {
-                "type": "Item",
-                "id": "lottery_goblin_coin",
-                "amount": 550,
-                "zyngaStoreExtraAmount": 100
-              },
-              {
-                "type": "Item",
-                "id": "emblem_master_monk",
-                "amount": 15
-              },
-              {
-                "type": "Item",
-                "id": "emblem_monk",
-                "amount": 150
-              },
-              {
-                "type": "Item",
-                "id": "refill_food_giant",
-                "amount": 2
-              },
-              {
-                "type": "Item",
-                "id": "refill_iron_giant",
-                "amount": 2
-              }
-            ]
-          },
           {
             "activationTime": 809074800,
             "contents": [
@@ -87352,6 +87461,38 @@
                 "amount": 4
               }
             ]
+          },
+          {
+            "activationTime": 809852400,
+            "contents": [
+              {
+                "type": "Hero",
+                "id": "trainer_rainbow_rare",
+                "amount": 20,
+                "zyngaStoreExtraAmount": 2
+              },
+              {
+                "type": "Item",
+                "id": "lottery_super_elemental_coin",
+                "amount": 350,
+                "zyngaStoreExtraAmount": 50
+              }
+            ]
+          },
+          {
+            "activationTime": 809938800,
+            "contents": [
+              {
+                "type": "Gem",
+                "amount": 1200
+              },
+              {
+                "type": "Item",
+                "id": "lottery_mercenary_war_coin",
+                "amount": 350,
+                "zyngaStoreExtraAmount": 100
+              }
+            ]
           }
         ]
       },
@@ -87439,6 +87580,21 @@
                 "id": "lottery_covenant_coin",
                 "amount": 200,
                 "zyngaStoreExtraAmount": 100
+              }
+            ]
+          },
+          {
+            "activationTime": 809865000,
+            "contents": [
+              {
+                "type": "Gem",
+                "amount": 3000,
+                "zyngaStoreExtraAmount": 400
+              },
+              {
+                "type": "Item",
+                "id": "misc_free_talent_point",
+                "amount": 3
               }
             ]
           }
@@ -87531,37 +87687,22 @@
                 "amount": 2
               }
             ]
+          },
+          {
+            "activationTime": 809341200,
+            "contents": [
+              {
+                "type": "Troop",
+                "id": "rainbow_uncommon_trainer",
+                "amount": 1
+              }
+            ]
           }
         ]
       },
       {
         "id": "com.smallgiantgames.empires.dynamic_3b",
         "schedule": [
-          {
-            "activationTime": 808902000,
-            "contents": [
-              {
-                "type": "Gem",
-                "amount": 300,
-                "zyngaStoreExtraAmount": 30
-              },
-              {
-                "type": "Item",
-                "id": "lottery_ascension_coin",
-                "amount": 100
-              }
-            ]
-          },
-          {
-            "activationTime": 808988400,
-            "contents": [
-              {
-                "type": "Item",
-                "id": "hero_hidden_blade",
-                "amount": 4
-              }
-            ]
-          },
           {
             "activationTime": 809074800,
             "contents": [
@@ -87652,34 +87793,35 @@
                 "zyngaStoreExtraAmount": 1
               }
             ]
+          },
+          {
+            "activationTime": 809852400,
+            "contents": [
+              {
+                "type": "Item",
+                "id": "titan_battle_hurricane",
+                "amount": 10,
+                "zyngaStoreExtraAmount": 1
+              },
+              {
+                "type": "Item",
+                "id": "titan_battle_giant_harpoon",
+                "amount": 10,
+                "zyngaStoreExtraAmount": 1
+              },
+              {
+                "type": "Item",
+                "id": "titan_battle_titan_banner",
+                "amount": 10,
+                "zyngaStoreExtraAmount": 1
+              }
+            ]
           }
         ]
       },
       {
         "id": "com.smallgiantgames.empires.dynamic_5b",
         "schedule": [
-          {
-            "activationTime": 808642800,
-            "contents": [
-              {
-                "type": "Item",
-                "id": "hero_limitbreak_rare_green",
-                "amount": 40,
-                "zyngaStoreExtraAmount": 10
-              },
-              {
-                "type": "Item",
-                "id": "hero_limitbreak_epic_green",
-                "amount": 30,
-                "zyngaStoreExtraAmount": 10
-              },
-              {
-                "type": "Item",
-                "id": "hero_limitbreak_legendary_green",
-                "amount": 1
-              }
-            ]
-          },
           {
             "activationTime": 808988400,
             "contents": [
@@ -87811,33 +87953,50 @@
                 "zyngaStoreExtraAmount": 2
               }
             ]
+          },
+          {
+            "activationTime": 809938800,
+            "contents": [
+              {
+                "type": "Item",
+                "id": "lottery_super_elemental_coin",
+                "amount": 450,
+                "zyngaStoreExtraAmount": 50
+              },
+              {
+                "type": "Item",
+                "id": "refill_food_giant",
+                "amount": 3
+              }
+            ]
+          },
+          {
+            "activationTime": 809082000,
+            "contents": [
+              {
+                "type": "Item",
+                "id": "relic_level_up_xp_multiplier",
+                "amount": 1
+              },
+              {
+                "type": "Item",
+                "id": "refill_food_giant",
+                "amount": 3,
+                "zyngaStoreExtraAmount": 1
+              },
+              {
+                "type": "Hero",
+                "id": "trainer_rainbow_rare",
+                "amount": 3,
+                "zyngaStoreExtraAmount": 1
+              }
+            ]
           }
         ]
       },
       {
         "id": "com.smallgiantgames.empires.dynamic_10b",
         "schedule": [
-          {
-            "activationTime": 808729200,
-            "contents": [
-              {
-                "type": "Item",
-                "id": "lottery_alliance_coin",
-                "amount": 45,
-                "zyngaStoreExtraAmount": 10
-              },
-              {
-                "type": "Item",
-                "id": "tome_levels_epic",
-                "amount": 2
-              },
-              {
-                "type": "Item",
-                "id": "battle_trebuchet",
-                "amount": 30
-              }
-            ]
-          },
           {
             "activationTime": 809247600,
             "contents": [
@@ -87957,42 +88116,61 @@
                 "amount": 1
               }
             ]
+          },
+          {
+            "activationTime": 809938800,
+            "contents": [
+              {
+                "type": "Item",
+                "id": "refill_food_large",
+                "amount": 20,
+                "zyngaStoreExtraAmount": 2
+              },
+              {
+                "type": "Item",
+                "id": "refill_food_giant",
+                "amount": 20,
+                "zyngaStoreExtraAmount": 2
+              }
+            ]
+          },
+          {
+            "activationTime": 810043200,
+            "contents": [
+              {
+                "type": "Item",
+                "id": "relic_level_up_xp_multiplier",
+                "amount": 1
+              },
+              {
+                "type": "Hero",
+                "id": "trainer_rainbow_rare",
+                "amount": 15,
+                "zyngaStoreExtraAmount": 2
+              }
+            ]
+          },
+          {
+            "activationTime": 809082000,
+            "contents": [
+              {
+                "type": "Item",
+                "id": "hero_limitbreak_alpha",
+                "amount": 2
+              },
+              {
+                "type": "Item",
+                "id": "lottery_item_limit_break",
+                "amount": 35,
+                "zyngaStoreExtraAmount": 10
+              }
+            ]
           }
         ]
       },
       {
         "id": "com.smallgiantgames.empires.dynamic_7b",
         "schedule": [
-          {
-            "activationTime": 808729200,
-            "contents": [
-              {
-                "type": "Gem",
-                "amount": 700
-              },
-              {
-                "type": "Item",
-                "id": "lottery_alliance_coin",
-                "amount": 25,
-                "zyngaStoreExtraAmount": 5
-              }
-            ]
-          },
-          {
-            "activationTime": 808988400,
-            "contents": [
-              {
-                "type": "Gem",
-                "amount": 700,
-                "zyngaStoreExtraAmount": 100
-              },
-              {
-                "type": "Item",
-                "id": "lottery_item_limit_break",
-                "amount": 20
-              }
-            ]
-          },
           {
             "activationTime": 809074800,
             "contents": [
@@ -88063,6 +88241,27 @@
                 "type": "Gem",
                 "amount": 1000,
                 "zyngaStoreExtraAmount": 100
+              }
+            ]
+          },
+          {
+            "activationTime": 809865000,
+            "contents": [
+              {
+                "type": "Item",
+                "id": "lottery_super_elemental_coin",
+                "amount": 300
+              },
+              {
+                "type": "Item",
+                "id": "lottery_mercenary_war_coin",
+                "amount": 200
+              },
+              {
+                "type": "Item",
+                "id": "lottery_elite_hero",
+                "amount": 2,
+                "zyngaStoreExtraAmount": 1
               }
             ]
           }
@@ -88316,40 +88515,6 @@
         "id": "com.smallgiantgames.empires.dynamic_3c",
         "schedule": [
           {
-            "activationTime": 808902000,
-            "contents": [
-              {
-                "type": "Item",
-                "id": "hero_limitbreak_rare_purple",
-                "amount": 50,
-                "zyngaStoreExtraAmount": 5
-              },
-              {
-                "type": "Item",
-                "id": "hero_limitbreak_epic_purple",
-                "amount": 40,
-                "zyngaStoreExtraAmount": 5
-              }
-            ]
-          },
-          {
-            "activationTime": 808988400,
-            "contents": [
-              {
-                "type": "Item",
-                "id": "hero_limitbreak_rare_red",
-                "amount": 50,
-                "zyngaStoreExtraAmount": 5
-              },
-              {
-                "type": "Item",
-                "id": "hero_limitbreak_epic_red",
-                "amount": 40,
-                "zyngaStoreExtraAmount": 5
-              }
-            ]
-          },
-          {
             "activationTime": 809074800,
             "contents": [
               {
@@ -88473,21 +88638,6 @@
             ]
           },
           {
-            "activationTime": 808642800,
-            "contents": [
-              {
-                "type": "Item",
-                "id": "lottery_elite_dragon",
-                "amount": 2
-              },
-              {
-                "type": "Product",
-                "id": "dragon_cap_increase",
-                "amount": 1
-              }
-            ]
-          },
-          {
             "activationTime": 809506800,
             "contents": [
               {
@@ -88499,6 +88649,22 @@
                 "id": "lottery_wilderness_coin",
                 "amount": 250,
                 "zyngaStoreExtraAmount": 50
+              }
+            ]
+          },
+          {
+            "activationTime": 809938800,
+            "contents": [
+              {
+                "type": "Item",
+                "id": "lottery_elite_hero",
+                "amount": 3,
+                "zyngaStoreExtraAmount": 1
+              },
+              {
+                "type": "Item",
+                "id": "hero_limitbreak_alpha",
+                "amount": 1
               }
             ]
           }
@@ -88593,6 +88759,81 @@
                 "zyngaStoreExtraAmount": 100
               }
             ]
+          },
+          {
+            "activationTime": 810043200,
+            "contents": [
+              {
+                "type": "Item",
+                "id": "tome_levels_epic",
+                "amount": 5,
+                "zyngaStoreExtraAmount": 1
+              }
+            ]
+          },
+          {
+            "activationTime": 809082000,
+            "contents": [
+              {
+                "type": "Item",
+                "id": "lottery_covenant_coin",
+                "amount": 450,
+                "zyngaStoreExtraAmount": 50
+              },
+              {
+                "type": "Item",
+                "id": "lottery_goblin_coin",
+                "amount": 450,
+                "zyngaStoreExtraAmount": 50
+              }
+            ]
+          },
+          {
+            "activationTime": 809172000,
+            "contents": [
+              {
+                "type": "Item",
+                "id": "lottery_tower_coin",
+                "amount": 500,
+                "zyngaStoreExtraAmount": 100
+              },
+              {
+                "type": "Item",
+                "id": "misc_loot_ticket",
+                "amount": 50
+              },
+              {
+                "type": "Item",
+                "id": "hero_limitbreak_alpha",
+                "amount": 1
+              }
+            ]
+          },
+          {
+            "activationTime": 809256600,
+            "contents": [
+              {
+                "type": "Item",
+                "id": "lottery_tower_coin",
+                "amount": 300,
+                "zyngaStoreExtraAmount": 100
+              },
+              {
+                "type": "Item",
+                "id": "lottery_untold_tales_coin",
+                "amount": 300
+              },
+              {
+                "type": "Item",
+                "id": "lottery_elite_hero",
+                "amount": 3
+              },
+              {
+                "type": "Item",
+                "id": "misc_loot_ticket",
+                "amount": 30
+              }
+            ]
           }
         ]
       },
@@ -88651,52 +88892,6 @@
       {
         "id": "com.smallgiantgames.empires.dynamic_20b",
         "schedule": [
-          {
-            "activationTime": 808902000,
-            "contents": [
-              {
-                "type": "Item",
-                "id": "lottery_ancient_dragon_coin",
-                "amount": 200,
-                "zyngaStoreExtraAmount": 100
-              },
-              {
-                "type": "Item",
-                "id": "dragon_ornate_headdress",
-                "amount": 2
-              },
-              {
-                "type": "Item",
-                "id": "dragon_uncut_topaz",
-                "amount": 2
-              },
-              {
-                "type": "Item",
-                "id": "dragon_uncut_sapphire",
-                "amount": 2
-              },
-              {
-                "type": "Item",
-                "id": "dragon_uncut_jade",
-                "amount": 2
-              },
-              {
-                "type": "Item",
-                "id": "dragon_uncut_amethyst",
-                "amount": 2
-              },
-              {
-                "type": "Item",
-                "id": "dragon_uncut_ruby",
-                "amount": 2
-              },
-              {
-                "type": "Item",
-                "id": "dragon_rainbow_chalice",
-                "amount": 1
-              }
-            ]
-          },
           {
             "activationTime": 809074800,
             "contents": [
@@ -88779,34 +88974,32 @@
                 "zyngaStoreExtraAmount": 200
               }
             ]
+          },
+          {
+            "activationTime": 809938800,
+            "contents": [
+              {
+                "type": "Gem",
+                "amount": 2000,
+                "zyngaStoreExtraAmount": 300
+              },
+              {
+                "type": "Item",
+                "id": "hero_limitbreak_legendary_purple",
+                "amount": 1
+              },
+              {
+                "type": "Item",
+                "id": "hero_limitbreak_alpha",
+                "amount": 1
+              }
+            ]
           }
         ]
       },
       {
         "id": "com.smallgiantgames.empires.dynamic_20c",
         "schedule": [
-          {
-            "activationTime": 808210800,
-            "contents": [
-              {
-                "type": "Item",
-                "id": "misc_free_talent_point",
-                "amount": 2
-              },
-              {
-                "type": "Hero",
-                "id": "trainer_rainbow_rare",
-                "amount": 10,
-                "zyngaStoreExtraAmount": 1
-              },
-              {
-                "type": "Item",
-                "id": "lottery_covenant_coin",
-                "amount": 500,
-                "zyngaStoreExtraAmount": 100
-              }
-            ]
-          },
           {
             "activationTime": 808988400,
             "contents": [
@@ -89179,6 +89372,34 @@
                 "amount": 200
               }
             ]
+          },
+          {
+            "activationTime": 809341200,
+            "contents": [
+              {
+                "type": "Item",
+                "id": "lottery_wilderness_coin",
+                "amount": 300,
+                "zyngaStoreExtraAmount": 100
+              },
+              {
+                "type": "Item",
+                "id": "lottery_tower_coin",
+                "amount": 300,
+                "zyngaStoreExtraAmount": 100
+              },
+              {
+                "type": "Item",
+                "id": "lottery_untold_tales_coin",
+                "amount": 300,
+                "zyngaStoreExtraAmount": 100
+              },
+              {
+                "type": "Item",
+                "id": "tome_levels_legendary",
+                "amount": 1
+              }
+            ]
           }
         ]
       },
@@ -89211,31 +89432,6 @@
         "id": "com.smallgiantgames.empires.dynamic_100b",
         "schedule": [
           {
-            "activationTime": 805892400,
-            "contents": [
-              {
-                "type": "Item",
-                "id": "hero_limitbreak_alpha",
-                "amount": 10
-              },
-              {
-                "type": "Item",
-                "id": "tome_levels_epic",
-                "amount": 10
-              },
-              {
-                "type": "Item",
-                "id": "tome_limit_break_1",
-                "amount": 1
-              },
-              {
-                "type": "Item",
-                "id": "tome_levels_legendary",
-                "amount": 1
-              }
-            ]
-          },
-          {
             "activationTime": 809074800,
             "contents": [
               {
@@ -89257,6 +89453,26 @@
                 "type": "Item",
                 "id": "lottery_ancient_dragon_coin",
                 "amount": 400
+              }
+            ]
+          },
+          {
+            "activationTime": 810025200,
+            "contents": [
+              {
+                "type": "Gem",
+                "amount": 10000,
+                "zyngaStoreExtraAmount": 1000
+              },
+              {
+                "type": "Item",
+                "id": "lottery_mercenary_war_coin",
+                "amount": 1000
+              },
+              {
+                "type": "Item",
+                "id": "tome_levels_epic",
+                "amount": 10
               }
             ]
           }
@@ -89408,55 +89624,49 @@
                 "zyngaStoreExtraAmount": 2
               }
             ]
+          },
+          {
+            "activationTime": 809938800,
+            "contents": [
+              {
+                "type": "Gem",
+                "amount": 500,
+                "zyngaStoreExtraAmount": 50
+              },
+              {
+                "type": "Item",
+                "id": "misc_loot_ticket",
+                "amount": 35,
+                "zyngaStoreExtraAmount": 5
+              }
+            ]
+          },
+          {
+            "activationTime": 810025200,
+            "contents": [
+              {
+                "type": "Troop",
+                "id": "rainbow_rare_trainer",
+                "amount": 2
+              },
+              {
+                "type": "Troop",
+                "id": "rainbow_uncommon_trainer",
+                "amount": 3,
+                "zyngaStoreExtraAmount": 1
+              },
+              {
+                "type": "Troop",
+                "id": "rainbow_common_trainer",
+                "amount": 4
+              }
+            ]
           }
         ]
       },
       {
         "id": "com.smallgiantgames.empires.dynamic_7c",
         "schedule": [
-          {
-            "activationTime": 808815600,
-            "contents": [
-              {
-                "type": "Item",
-                "id": "lottery_alliance_coin",
-                "amount": 35,
-                "zyngaStoreExtraAmount": 5
-              },
-              {
-                "type": "Hero",
-                "id": "trainer_rainbow_rare",
-                "amount": 8,
-                "zyngaStoreExtraAmount": 1
-              }
-            ]
-          },
-          {
-            "activationTime": 808988400,
-            "contents": [
-              {
-                "type": "Hero",
-                "id": "trainer_rainbow_rare",
-                "amount": 5,
-                "zyngaStoreExtraAmount": 1
-              },
-              {
-                "type": "Hero",
-                "id": "trainer_rainbow_uncommon",
-                "amount": 8
-              },
-              {
-                "type": "Hero",
-                "id": "trainer_rainbow_common",
-                "amount": 10
-              },
-              {
-                "type": "Item",
-                "id": "refill_food_giant",
-                "amount": 4
-              }
-            ]
-          },
           {
             "activationTime": 809074800,
             "contents": [
@@ -89517,6 +89727,42 @@
                 "amount": 200
               }
             ]
+          },
+          {
+            "activationTime": 809852400,
+            "contents": [
+              {
+                "type": "Gem",
+                "amount": 700,
+                "zyngaStoreExtraAmount": 100
+              },
+              {
+                "type": "Item",
+                "id": "lottery_item_ascension",
+                "amount": 15
+              }
+            ]
+          },
+          {
+            "activationTime": 809938800,
+            "contents": [
+              {
+                "type": "Hero",
+                "id": "trainer_rainbow_rare",
+                "amount": 10,
+                "zyngaStoreExtraAmount": 2
+              },
+              {
+                "type": "Hero",
+                "id": "trainer_rainbow_uncommon",
+                "amount": 10
+              },
+              {
+                "type": "Item",
+                "id": "refill_food_large",
+                "amount": 2
+              }
+            ]
           }
         ]
       },
@@ -89545,23 +89791,6 @@
       {
         "id": "com.smallgiantgames.empires.dynamic_12b",
         "schedule": [
-          {
-            "activationTime": 808470000,
-            "contents": [
-              {
-                "type": "Hero",
-                "id": "trainer_rainbow_rare",
-                "amount": 20,
-                "zyngaStoreExtraAmount": 2
-              },
-              {
-                "type": "Item",
-                "id": "lottery_super_elemental_coin",
-                "amount": 350,
-                "zyngaStoreExtraAmount": 50
-              }
-            ]
-          },
           {
             "activationTime": 809074800,
             "contents": [
@@ -89650,37 +89879,49 @@
                 "amount": 20
               }
             ]
+          },
+          {
+            "activationTime": 809956800,
+            "contents": [
+              {
+                "type": "Item",
+                "id": "lottery_super_elemental_coin",
+                "amount": 400,
+                "zyngaStoreExtraAmount": 150
+              },
+              {
+                "type": "Item",
+                "id": "lottery_elite_hero",
+                "amount": 4
+              },
+              {
+                "type": "Item",
+                "id": "lottery_item_ascension",
+                "amount": 30
+              }
+            ]
+          },
+          {
+            "activationTime": 810043200,
+            "contents": [
+              {
+                "type": "Item",
+                "id": "lottery_mercenary_war_coin",
+                "amount": 700,
+                "zyngaStoreExtraAmount": 150
+              },
+              {
+                "type": "Item",
+                "id": "hero_mystic_rings",
+                "amount": 1
+              }
+            ]
           }
         ]
       },
       {
         "id": "com.smallgiantgames.empires.dynamic_15b",
         "schedule": [
-          {
-            "activationTime": 808902000,
-            "contents": [
-              {
-                "type": "Gem",
-                "amount": 1500,
-                "zyngaStoreExtraAmount": 200
-              },
-              {
-                "type": "Item",
-                "id": "misc_loot_ticket",
-                "amount": 50
-              },
-              {
-                "type": "Item",
-                "id": "lottery_ascension_coin",
-                "amount": 200
-              },
-              {
-                "type": "Item",
-                "id": "refill_energy_pve_full",
-                "amount": 2
-              }
-            ]
-          },
           {
             "activationTime": 808988400,
             "contents": [
@@ -89742,6 +89983,22 @@
                 "zyngaStoreExtraAmount": 2
               }
             ]
+          },
+          {
+            "activationTime": 809256600,
+            "contents": [
+              {
+                "type": "Item",
+                "id": "lottery_wilderness_coin",
+                "amount": 500,
+                "zyngaStoreExtraAmount": 100
+              },
+              {
+                "type": "Item",
+                "id": "lottery_item_ascension",
+                "amount": 50
+              }
+            ]
           }
         ]
       },
@@ -89783,6 +90040,22 @@
                 "zyngaStoreExtraAmount": 150
               }
             ]
+          },
+          {
+            "activationTime": 809334000,
+            "contents": [
+              {
+                "type": "Item",
+                "id": "lottery_tower_coin",
+                "amount": 700,
+                "zyngaStoreExtraAmount": 150
+              },
+              {
+                "type": "Item",
+                "id": "tome_levels_epic",
+                "amount": 4
+              }
+            ]
           }
         ]
       },
@@ -89822,21 +90095,6 @@
                 "id": "lottery_elite_hero",
                 "amount": 2,
                 "zyngaStoreExtraAmount": 1
-              }
-            ]
-          },
-          {
-            "activationTime": 808642800,
-            "contents": [
-              {
-                "type": "Item",
-                "id": "dragon_rainbow_chalice",
-                "amount": 1
-              },
-              {
-                "type": "Item",
-                "id": "dragon_dragonstone_pendant",
-                "amount": 1
               }
             ]
           },
@@ -89892,6 +90150,37 @@
                 "amount": 20
               }
             ]
+          },
+          {
+            "activationTime": 810025200,
+            "contents": [
+              {
+                "type": "Gem",
+                "amount": 1200,
+                "zyngaStoreExtraAmount": 200
+              },
+              {
+                "type": "Item",
+                "id": "lottery_elite_hero",
+                "amount": 6
+              }
+            ]
+          },
+          {
+            "activationTime": 809341200,
+            "contents": [
+              {
+                "type": "Item",
+                "id": "lottery_tower_coin",
+                "amount": 900,
+                "zyngaStoreExtraAmount": 100
+              },
+              {
+                "type": "Item",
+                "id": "hero_limitbreak_alpha",
+                "amount": 1
+              }
+            ]
           }
         ]
       },
@@ -89926,22 +90215,6 @@
                 "type": "Item",
                 "id": "refill_iron_giant",
                 "amount": 2
-              }
-            ]
-          },
-          {
-            "activationTime": 808837200,
-            "contents": [
-              {
-                "type": "Item",
-                "id": "hero_limitbreak_alpha",
-                "amount": 2
-              },
-              {
-                "type": "Item",
-                "id": "lottery_alliance_coin",
-                "amount": 40,
-                "zyngaStoreExtraAmount": 10
               }
             ]
           },
@@ -90023,6 +90296,28 @@
                 "amount": 4
               }
             ]
+          },
+          {
+            "activationTime": 809172000,
+            "contents": [
+              {
+                "type": "Item",
+                "id": "lottery_covenant_coin",
+                "amount": 550,
+                "zyngaStoreExtraAmount": 50
+              },
+              {
+                "type": "Item",
+                "id": "lottery_goblin_coin",
+                "amount": 550,
+                "zyngaStoreExtraAmount": 50
+              },
+              {
+                "type": "Product",
+                "id": "hero_cap_increase",
+                "amount": 1
+              }
+            ]
           }
         ]
       }
@@ -90039,7 +90334,7 @@
         ]
       }
     ],
-    "scalingGemPriceEnabled": true,
+    "scalingGemPriceEnabled": false,
     "forcedOffers": [],
     "scheduledOffers": [
       {
@@ -90696,6 +90991,13 @@
         "endTime": "2025-08-22 07:00:00"
       },
       {
+        "id": "mastertraineroffer2",
+        "slot": "LeftBottom",
+        "scheduledManually": true,
+        "startTime": "2025-08-21 07:00:00",
+        "endTime": "2025-08-22 07:00:00"
+      },
+      {
         "id": "dragon_dynamic_01_marmora",
         "slot": "RightExtraTop",
         "scheduledManually": true,
@@ -90716,18 +91018,18 @@
         "endTime": "2025-08-23 07:00:00"
       },
       {
-        "id": "mastertraineroffer2",
-        "slot": "LeftBottom",
-        "scheduledManually": true,
-        "startTime": "2025-08-21 07:00:00",
-        "endTime": "2025-08-23 07:00:00"
-      },
-      {
         "id": "tales1_calendar",
         "slot": "LeftExtraTop",
         "scheduledManually": true,
         "startTime": "2025-08-21 07:00:00",
         "endTime": "2025-08-25 07:00:00"
+      },
+      {
+        "id": "dynamic_offer_41_yellow_sif",
+        "slot": "RightExtraBottom",
+        "scheduledManually": true,
+        "startTime": "2025-08-21 09:00:00",
+        "endTime": "2025-08-22 06:30:00"
       },
       {
         "id": "com.smallgiantgames.empires.double_covenant",
@@ -90749,6 +91051,13 @@
         "scheduledManually": true,
         "startTime": "2025-08-22 07:00:00",
         "endTime": "2025-08-23 06:30:00"
+      },
+      {
+        "id": "dragon_festival",
+        "slot": "RightExtraBottom",
+        "scheduledManually": true,
+        "startTime": "2025-08-22 07:00:00",
+        "endTime": "2025-08-23 07:00:00"
       },
       {
         "id": "kalevala_5_100",
@@ -90773,6 +91082,13 @@
         "scheduledManually": true,
         "startTime": "2025-08-22 07:00:00",
         "endTime": "2025-08-24 07:00:00"
+      },
+      {
+        "id": "dynamic_offer_24_tahir",
+        "slot": "LeftBottom",
+        "scheduledManually": true,
+        "startTime": "2025-08-22 10:00:00",
+        "endTime": "2025-08-23 06:30:00"
       },
       {
         "id": "com.smallgiantgames.empires.double_covenant2",
@@ -90833,6 +91149,13 @@
         "endTime": "2025-08-25 07:00:00"
       },
       {
+        "id": "dynamic_offer_64_motega",
+        "slot": "RightExtraBottom",
+        "scheduledManually": true,
+        "startTime": "2025-08-23 09:30:00",
+        "endTime": "2025-08-24 06:30:00"
+      },
+      {
         "id": "dynamic_offer_20_norns",
         "slot": "RightBottom",
         "startTime": "2025-08-24 07:00:00",
@@ -90882,6 +91205,13 @@
         "scheduledManually": true,
         "startTime": "2025-08-24 07:00:00",
         "endTime": "2025-08-28 07:00:00"
+      },
+      {
+        "id": "dynamic_offer_65_moonflower",
+        "slot": "ShopOnly",
+        "scheduledManually": true,
+        "startTime": "2025-08-24 09:00:00",
+        "endTime": "2025-08-26 06:30:00"
       },
       {
         "id": "dynamic_offer_30_construct_shacklebolt",
@@ -91162,6 +91492,20 @@
         "endTime": "2025-09-02 07:00:00"
       },
       {
+        "id": "dynamic_offer_36_yellow_eloise",
+        "slot": "ShopOnly",
+        "scheduledManually": true,
+        "startTime": "2025-08-30 07:00:00",
+        "endTime": "2025-08-31 06:30:00"
+      },
+      {
+        "id": "dynamic_offer_5_red_yang_mai",
+        "slot": "RightBottom",
+        "scheduledManually": true,
+        "startTime": "2025-08-30 07:00:00",
+        "endTime": "2025-08-31 06:30:00"
+      },
+      {
         "id": "kalevala_5_10",
         "slot": "LeftTop",
         "customContents": [
@@ -91205,6 +91549,25 @@
         "endTime": "2025-09-04 07:00:00"
       },
       {
+        "id": "dynamic_offer_25_seshat",
+        "slot": "RightMiddle",
+        "scheduledManually": true,
+        "startTime": "2025-08-30 10:30:00",
+        "endTime": "2025-08-31 10:00:00"
+      },
+      {
+        "id": "dynamic_offer_22_ludwig",
+        "slot": "ShopOnly",
+        "startTime": "2025-08-31 07:00:00",
+        "endTime": "2025-09-01 06:30:00"
+      },
+      {
+        "id": "dynamic_offer_52_sparkles",
+        "slot": "RightBottom",
+        "startTime": "2025-08-31 07:00:00",
+        "endTime": "2025-09-01 06:30:00"
+      },
+      {
         "id": "kalevala_free_10",
         "slot": "LeftTop",
         "customContents": [
@@ -91229,6 +91592,27 @@
         "endTime": "2025-09-02 07:00:00"
       },
       {
+        "id": "dynamic_offer_10_red_alucard",
+        "slot": "RightMiddle",
+        "scheduledManually": true,
+        "startTime": "2025-08-31 12:00:00",
+        "endTime": "2025-09-01 11:30:00"
+      },
+      {
+        "id": "dynamic_offer_43_green_gadeirus",
+        "slot": "RightExtraBottom",
+        "scheduledManually": true,
+        "startTime": "2025-09-01 07:00:00",
+        "endTime": "2025-09-02 06:30:00"
+      },
+      {
+        "id": "dynamic_offer_7_blue_klaern",
+        "slot": "ShopOnly",
+        "scheduledManually": true,
+        "startTime": "2025-09-01 07:00:00",
+        "endTime": "2025-09-02 06:30:00"
+      },
+      {
         "id": "kalevala_5_10",
         "slot": "LeftTop",
         "customContents": [
@@ -91251,6 +91635,13 @@
         "scheduledManually": true,
         "startTime": "2025-09-01 07:00:00",
         "endTime": "2025-09-03 07:00:00"
+      },
+      {
+        "id": "dynamic_offer_63_construct_shacklebolt",
+        "slot": "RightMiddle",
+        "scheduledManually": true,
+        "startTime": "2025-09-01 12:00:00",
+        "endTime": "2025-09-02 11:30:00"
       },
       {
         "id": "kalevala_10_30",
@@ -92286,7 +92677,6 @@
         "limitPerCycle": 2
       }
     ],
-    "instantPveEnergyFlowEnabled": true,
     "avatarShop": {
       "featured": {
         "referenceDate": 582811200,
@@ -97245,7 +97635,7 @@
           "enabled": true,
           "lotteryEntries": [
             {
-              "lotteryProductType": "丰收召唤",
+              "lotteryProductType": "Harvest Summon",
               "id": "lottery_harvest",
               "productId": "lottery_harvest_default",
               "startDate": "2024-08-20 07:00:00",
@@ -97271,7 +97661,7 @@
           "enabled": true,
           "lotteryEntries": [
             {
-              "lotteryProductType": "服装召唤",
+              "lotteryProductType": "Costume Summon",
               "id": "costume_summon__2024_6_3",
               "productId": "lottery_costume_default",
               "startDate": "2024-05-31 07:00:00",
@@ -97286,7 +97676,7 @@
               ]
             },
             {
-              "lotteryProductType": "服装召唤",
+              "lotteryProductType": "Costume Summon",
               "id": "costume_summon__2024_6_28",
               "productId": "lottery_costume_default",
               "startDate": "2024-06-28 07:00:00",
@@ -97301,7 +97691,7 @@
               ]
             },
             {
-              "lotteryProductType": "服装召唤",
+              "lotteryProductType": "Costume Summon",
               "id": "costume_summon__2024_7_13",
               "productId": "lottery_costume_default",
               "startDate": "2024-07-16 07:00:00",
@@ -97316,7 +97706,7 @@
               ]
             },
             {
-              "lotteryProductType": "服装召唤",
+              "lotteryProductType": "Costume Summon",
               "id": "costume_summon_2024_8_10",
               "productId": "lottery_costume_default",
               "startDate": "2024-08-11 07:00:00",
@@ -97331,7 +97721,7 @@
               ]
             },
             {
-              "lotteryProductType": "服装召唤",
+              "lotteryProductType": "Costume Summon",
               "id": "costume_summon__2024_9_07",
               "productId": "lottery_costume_default",
               "startDate": "2024-09-08 07:00:00",
@@ -97346,7 +97736,7 @@
               ]
             },
             {
-              "lotteryProductType": "服装召唤",
+              "lotteryProductType": "Costume Summon",
               "id": "costume_summon__2024_10_21",
               "productId": "lottery_costume_default",
               "startDate": "2024-11-03 07:00:00",
@@ -97361,7 +97751,7 @@
               ]
             },
             {
-              "lotteryProductType": "服装召唤",
+              "lotteryProductType": "Costume Summon",
               "id": "costume_summon__2024_11_18",
               "productId": "lottery_costume_default",
               "startDate": "2024-11-30 07:00:00",
@@ -97376,7 +97766,7 @@
               ]
             },
             {
-              "lotteryProductType": "服装召唤",
+              "lotteryProductType": "Costume Summon",
               "id": "costume_summon__2024_12_16",
               "productId": "lottery_costume_default",
               "startDate": "2024-12-25 07:00:00",
@@ -97391,7 +97781,7 @@
               ]
             },
             {
-              "lotteryProductType": "服装召唤",
+              "lotteryProductType": "Costume Summon",
               "id": "costume_summon__2025_1_13",
               "productId": "lottery_costume_default",
               "startDate": "2025-01-14 07:00:00",
@@ -97406,7 +97796,7 @@
               ]
             },
             {
-              "lotteryProductType": "服装召唤",
+              "lotteryProductType": "Costume Summon",
               "id": "costume_summon__2025_2_10",
               "productId": "lottery_costume_default",
               "startDate": "2025-02-11 07:00:00",
@@ -97421,7 +97811,7 @@
               ]
             },
             {
-              "lotteryProductType": "服装召唤",
+              "lotteryProductType": "Costume Summon",
               "id": "costume_summon__2025_2_22",
               "productId": "lottery_costume_default",
               "startDate": "2025-02-22 07:00:00",
@@ -97436,7 +97826,7 @@
               ]
             },
             {
-              "lotteryProductType": "服装召唤",
+              "lotteryProductType": "Costume Summon",
               "id": "costume_summon__2025_3_10",
               "productId": "lottery_costume_default",
               "startDate": "2025-03-11 07:00:00",
@@ -97451,7 +97841,7 @@
               ]
             },
             {
-              "lotteryProductType": "服装召唤",
+              "lotteryProductType": "Costume Summon",
               "id": "costume_summon__2025_3_20",
               "productId": "lottery_costume_default",
               "startDate": "2025-03-20 07:00:00",
@@ -97466,7 +97856,7 @@
               ]
             },
             {
-              "lotteryProductType": "服装召唤",
+              "lotteryProductType": "Costume Summon",
               "id": "costume_summon__2025_4_8",
               "productId": "lottery_costume_default",
               "startDate": "2025-04-08 07:00:00",
@@ -97481,7 +97871,7 @@
               ]
             },
             {
-              "lotteryProductType": "服装召唤",
+              "lotteryProductType": "Costume Summon",
               "id": "costume_summon__2025_4_23",
               "productId": "lottery_costume_default",
               "startDate": "2025-04-23 07:00:00",
@@ -97496,7 +97886,7 @@
               ]
             },
             {
-              "lotteryProductType": "服装召唤",
+              "lotteryProductType": "Costume Summon",
               "id": "costume_summon__2025_5_10",
               "productId": "lottery_costume_default",
               "startDate": "2025-05-10 07:00:00",
@@ -97511,7 +97901,7 @@
               ]
             },
             {
-              "lotteryProductType": "服装召唤",
+              "lotteryProductType": "Costume Summon",
               "id": "costume_summon__2025_6_18",
               "productId": "lottery_costume_default",
               "startDate": "2025-06-18 07:00:00",
@@ -97526,7 +97916,7 @@
               ]
             },
             {
-              "lotteryProductType": "服装召唤",
+              "lotteryProductType": "Costume Summon",
               "id": "costume_summon__2025_6_30",
               "productId": "lottery_costume_default",
               "startDate": "2025-07-16 07:00:00",
@@ -97541,7 +97931,7 @@
               ]
             },
             {
-              "lotteryProductType": "服装召唤",
+              "lotteryProductType": "Costume Summon",
               "id": "costume_summon__2025_7_28",
               "productId": "lottery_costume_default",
               "startDate": "2025-08-10 07:00:00",
@@ -97556,7 +97946,7 @@
               ]
             },
             {
-              "lotteryProductType": "服装召唤",
+              "lotteryProductType": "Costume Summon",
               "id": "costume_summon__2025_8_25",
               "productId": "lottery_costume_default",
               "startDate": "2025-09-07 07:00:00",
@@ -97647,7 +98037,7 @@
           "enabled": true,
           "lotteryEntries": [
             {
-              "lotteryProductType": "神话召唤",
+              "lotteryProductType": "Legends Summon",
               "id": "lottery_hotm_event_2024_12_23",
               "productId": "lottery_hotm_event_default",
               "startDate": "2024-12-23 07:00:00",
@@ -97663,7 +98053,7 @@
               "latestIncludedHeroOfTheMonthDate": 754729200
             },
             {
-              "lotteryProductType": "神话召唤",
+              "lotteryProductType": "Legends Summon",
               "id": "lottery_hotm_event_2024_1_10",
               "productId": "lottery_hotm_event_default",
               "startDate": "2025-01-10 07:00:00",
@@ -97679,7 +98069,7 @@
               "latestIncludedHeroOfTheMonthDate": 757407600
             },
             {
-              "lotteryProductType": "神话召唤",
+              "lotteryProductType": "Legends Summon",
               "id": "lottery_hotm_Event_2025_2_2",
               "productId": "lottery_hotm_event_default",
               "startDate": "2025-02-02 07:00:00",
@@ -97695,7 +98085,7 @@
               "latestIncludedHeroOfTheMonthDate": 760086000
             },
             {
-              "lotteryProductType": "神话召唤",
+              "lotteryProductType": "Legends Summon",
               "id": "lottery_hotm_event_2025_3_17",
               "productId": "lottery_hotm_event_default",
               "startDate": "2025-03-01 07:00:00",
@@ -97711,7 +98101,7 @@
               "latestIncludedHeroOfTheMonthDate": 762591600
             },
             {
-              "lotteryProductType": "神话召唤",
+              "lotteryProductType": "Legends Summon",
               "id": "lottery_hotm_event_2025_4_14",
               "productId": "lottery_hotm_event_default",
               "startDate": "2025-03-30 07:00:00",
@@ -97727,7 +98117,7 @@
               "latestIncludedHeroOfTheMonthDate": 762591600
             },
             {
-              "lotteryProductType": "神话召唤",
+              "lotteryProductType": "Legends Summon",
               "id": "lottery_hotm_event_2025_5_19",
               "productId": "lottery_hotm_event_default",
               "startDate": "2025-05-19 07:00:00",
@@ -97743,7 +98133,7 @@
               "latestIncludedHeroOfTheMonthDate": 767862000
             },
             {
-              "lotteryProductType": "神话召唤",
+              "lotteryProductType": "Legends Summon",
               "id": "lottery_hotm_event_2025_6_16",
               "productId": "lottery_hotm_event_default",
               "startDate": "2025-06-16 07:00:00",
@@ -97806,7 +98196,7 @@
           "enabled": true,
           "lotteryEntries": [
             {
-              "lotteryProductType": "超级元素人召唤",
+              "lotteryProductType": "Super Elemental Summon",
               "id": "lottery_super_elemental_yellow_2025_6_7",
               "productId": "lottery_super_elemental_yellow",
               "startDate": "2025-06-07 07:00:00",
@@ -97830,7 +98220,7 @@
               "eventOffer": "superelemental_yellow_calendar"
             },
             {
-              "lotteryProductType": "超级元素人召唤",
+              "lotteryProductType": "Super Elemental Summon",
               "id": "lottery_super_elemental_blue_2025_6_16",
               "productId": "lottery_super_elemental_blue",
               "startDate": "2025-07-31 07:00:00",
@@ -97854,7 +98244,7 @@
               "eventOffer": "superelemental_blue_calendar"
             },
             {
-              "lotteryProductType": "超级元素人召唤",
+              "lotteryProductType": "Super Elemental Summon",
               "id": "lottery_super_elemental_yellow_2025_6_20",
               "productId": "lottery_super_elemental_yellow",
               "startDate": "2025-06-20 07:00:00",
@@ -97878,7 +98268,7 @@
               "eventOffer": "superelemental_yellow_calendar"
             },
             {
-              "lotteryProductType": "超级元素人召唤",
+              "lotteryProductType": "Super Elemental Summon",
               "id": "lottery_super_elemental_red_2025_7_14",
               "productId": "lottery_super_elemental_red",
               "startDate": "2025-09-04 07:00:00",
@@ -97902,7 +98292,7 @@
               "eventOffer": "superelemental_red_calendar"
             },
             {
-              "lotteryProductType": "超级元素人召唤",
+              "lotteryProductType": "Super Elemental Summon",
               "id": "lottery_super_elemental_red_2025_8_11",
               "productId": "lottery_super_elemental_red",
               "startDate": "2025-10-07 07:00:00",
@@ -97926,7 +98316,7 @@
               "eventOffer": "superelemental_red_calendar"
             },
             {
-              "lotteryProductType": "超级元素人召唤",
+              "lotteryProductType": "Super Elemental Summon",
               "id": "lottery_super_elemental_purple_2025_9_8",
               "productId": "lottery_super_elemental_purple",
               "startDate": "2025-08-28 07:00:00",
@@ -97950,7 +98340,7 @@
               "eventOffer": "superelemental_purple_calendar"
             },
             {
-              "lotteryProductType": "超级元素人召唤",
+              "lotteryProductType": "Super Elemental Summon",
               "id": "lottery_super_elemental_purple_2025_10_6",
               "productId": "lottery_super_elemental_purple",
               "startDate": "2025-09-25 07:00:00",
@@ -97974,7 +98364,7 @@
               "eventOffer": "superelemental_purple_calendar"
             },
             {
-              "lotteryProductType": "超级元素人召唤",
+              "lotteryProductType": "Super Elemental Summon",
               "id": "lottery_super_elemental_green_2025_12_29",
               "productId": "lottery_super_elemental_green",
               "startDate": "2025-07-04 07:00:00",
@@ -97998,7 +98388,7 @@
               "eventOffer": "superelemental_green_calendar"
             },
             {
-              "lotteryProductType": "超级元素人召唤",
+              "lotteryProductType": "Super Elemental Summon",
               "id": "lottery_super_elemental_green_2026_1_26",
               "productId": "lottery_super_elemental_green",
               "startDate": "2025-07-18 07:00:00",
@@ -98022,7 +98412,7 @@
               "eventOffer": "superelemental_green_calendar"
             },
             {
-              "lotteryProductType": "超级元素人召唤",
+              "lotteryProductType": "Super Elemental Summon",
               "id": "lottery_super_elemental_blue_2026_2_23",
               "productId": "lottery_super_elemental_blue",
               "startDate": "2025-08-12 07:00:00",
@@ -98121,7 +98511,7 @@
           "enabled": true,
           "lotteryEntries": [
             {
-              "lotteryProductType": "黑色星期五召唤",
+              "lotteryProductType": "Black Friday Summon",
               "id": "lottery_solstice_2024",
               "productId": "lottery_black_solstice_default",
               "startDate": "2024-06-18 07:00:00",
@@ -98135,7 +98525,7 @@
               "includeCostumes": true
             },
             {
-              "lotteryProductType": "黑色星期五召唤",
+              "lotteryProductType": "Black Friday Summon",
               "id": "lottery_black_2200",
               "productId": "lottery_black_default",
               "startDate": "2200-11-22 07:00:00",
@@ -98143,7 +98533,7 @@
               "overridden": true
             },
             {
-              "lotteryProductType": "黑色星期五召唤",
+              "lotteryProductType": "Black Friday Summon",
               "id": "lottery_black_2024",
               "productId": "lottery_black_default",
               "startDate": "2024-11-25 07:00:00",
@@ -98158,7 +98548,7 @@
               "includeCostumes": true
             },
             {
-              "lotteryProductType": "黑色星期五召唤",
+              "lotteryProductType": "Black Friday Summon",
               "id": "lottery_birthday_2025",
               "productId": "lottery_black_7th_birthday",
               "startDate": "2025-03-17 07:00:00",
@@ -98635,7 +99025,7 @@
               ]
             },
             {
-              "lotteryProductType": "黑色星期五召唤",
+              "lotteryProductType": "Black Friday Summon",
               "id": "lottery_solstice_2025",
               "productId": "lottery_black_solstice_default",
               "startDate": "2025-06-16 07:00:00",
@@ -98664,7 +99054,7 @@
           "skipAutoGeneration": true,
           "lotteryEntries": [
             {
-              "lotteryProductType": "盟约召唤",
+              "lotteryProductType": "Covenant Summon",
               "id": "lottery_covenant_2024_06_27",
               "productId": "lottery_covenant_default",
               "startDate": "2024-06-27 07:00:00",
@@ -98749,7 +99139,7 @@
               ]
             },
             {
-              "lotteryProductType": "盟约召唤",
+              "lotteryProductType": "Covenant Summon",
               "id": "lottery_covenant_2024_08_09",
               "productId": "lottery_covenant_default",
               "startDate": "2024-08-09 07:00:00",
@@ -98834,7 +99224,7 @@
               ]
             },
             {
-              "lotteryProductType": "盟约召唤",
+              "lotteryProductType": "Covenant Summon",
               "id": "lottery_covenant_2024_05_09",
               "productId": "lottery_covenant_default",
               "startDate": "2024-05-09 07:00:00",
@@ -98919,7 +99309,7 @@
               ]
             },
             {
-              "lotteryProductType": "盟约召唤",
+              "lotteryProductType": "Covenant Summon",
               "id": "lottery_covenant_2024_02_08",
               "productId": "lottery_covenant_default",
               "startDate": "2024-02-08 07:00:00",
@@ -99004,7 +99394,7 @@
               ]
             },
             {
-              "lotteryProductType": "盟约召唤",
+              "lotteryProductType": "Covenant Summon",
               "id": "lottery_covenant_2024_02_21",
               "productId": "lottery_covenant_default",
               "startDate": "2024-02-21 07:00:00",
@@ -99089,7 +99479,7 @@
               ]
             },
             {
-              "lotteryProductType": "盟约召唤",
+              "lotteryProductType": "Covenant Summon",
               "id": "lottery_covenant_2024_03_10",
               "productId": "lottery_covenant_default",
               "startDate": "2024-03-10 07:00:00",
@@ -99174,7 +99564,7 @@
               ]
             },
             {
-              "lotteryProductType": "盟约召唤",
+              "lotteryProductType": "Covenant Summon",
               "id": "lottery_covenant_2024_03_29",
               "productId": "lottery_covenant_default",
               "startDate": "2024-03-29 07:00:00",
@@ -99259,7 +99649,7 @@
               ]
             },
             {
-              "lotteryProductType": "盟约召唤",
+              "lotteryProductType": "Covenant Summon",
               "id": "lottery_covenant_2024_04_25",
               "productId": "lottery_covenant_default",
               "startDate": "2024-04-25 07:00:00",
@@ -99344,7 +99734,7 @@
               ]
             },
             {
-              "lotteryProductType": "盟约召唤",
+              "lotteryProductType": "Covenant Summon",
               "id": "lottery_covenant_2024_05_19",
               "productId": "lottery_covenant_default",
               "startDate": "2024-05-19 07:00:00",
@@ -99429,7 +99819,7 @@
               ]
             },
             {
-              "lotteryProductType": "盟约召唤",
+              "lotteryProductType": "Covenant Summon",
               "id": "lottery_covenant_2024_05_25",
               "productId": "lottery_covenant_default",
               "startDate": "2024-05-27 07:00:00",
@@ -99514,7 +99904,7 @@
               ]
             },
             {
-              "lotteryProductType": "盟约召唤",
+              "lotteryProductType": "Covenant Summon",
               "id": "lottery_covenant_2024_06_06",
               "productId": "lottery_covenant_default",
               "startDate": "2024-06-06 07:00:00",
@@ -99599,7 +99989,7 @@
               ]
             },
             {
-              "lotteryProductType": "盟约召唤",
+              "lotteryProductType": "Covenant Summon",
               "id": "lottery_covenant_2024_07_12",
               "productId": "lottery_covenant_default",
               "startDate": "2024-07-12 07:00:00",
@@ -99684,7 +100074,7 @@
               ]
             },
             {
-              "lotteryProductType": "盟约召唤",
+              "lotteryProductType": "Covenant Summon",
               "id": "lottery_covenant_2024_07_26",
               "productId": "lottery_covenant_default",
               "startDate": "2024-07-26 07:00:00",
@@ -99769,7 +100159,7 @@
               ]
             },
             {
-              "lotteryProductType": "盟约召唤",
+              "lotteryProductType": "Covenant Summon",
               "id": "lottery_covenant_2024_09_13",
               "productId": "lottery_covenant_default",
               "startDate": "2024-09-12 12:00:00",
@@ -99866,7 +100256,7 @@
               ]
             },
             {
-              "lotteryProductType": "盟约召唤",
+              "lotteryProductType": "Covenant Summon",
               "id": "lottery_covenant_2024_10_7",
               "productId": "lottery_covenant_default",
               "startDate": "2024-10-07 07:00:00",
@@ -99963,7 +100353,7 @@
               ]
             },
             {
-              "lotteryProductType": "盟约召唤",
+              "lotteryProductType": "Covenant Summon",
               "id": "lottery_covent_2024_10_18",
               "productId": "lottery_covenant_default",
               "startDate": "2024-10-18 11:30:00",
@@ -100059,7 +100449,7 @@
               ]
             },
             {
-              "lotteryProductType": "盟约召唤",
+              "lotteryProductType": "Covenant Summon",
               "id": "lottery_covenant_2024_11_8",
               "productId": "lottery_covenant_default",
               "startDate": "2024-11-08 14:00:00",
@@ -100158,7 +100548,7 @@
               ]
             },
             {
-              "lotteryProductType": "盟约召唤",
+              "lotteryProductType": "Covenant Summon",
               "id": "lottery_covenant_2024_11_18",
               "productId": "lottery_covenant_default",
               "startDate": "2024-11-18 07:00:00",
@@ -100257,7 +100647,7 @@
               ]
             },
             {
-              "lotteryProductType": "盟约召唤",
+              "lotteryProductType": "Covenant Summon",
               "id": "lottery_covenant_2024_12_23",
               "productId": "lottery_covenant_default",
               "startDate": "2024-12-23 07:00:00",
@@ -100356,7 +100746,7 @@
               ]
             },
             {
-              "lotteryProductType": "盟约召唤",
+              "lotteryProductType": "Covenant Summon",
               "id": "lottery_covenant_2025_01_11",
               "productId": "lottery_covenant_default",
               "startDate": "2025-01-11 07:00:00",
@@ -100455,7 +100845,7 @@
               ]
             },
             {
-              "lotteryProductType": "盟约召唤",
+              "lotteryProductType": "Covenant Summon",
               "id": "lottery_covenant_2025_02_02",
               "productId": "lottery_covenant_default",
               "startDate": "2025-02-02 07:00:00",
@@ -100554,7 +100944,7 @@
               ]
             },
             {
-              "lotteryProductType": "盟约召唤",
+              "lotteryProductType": "Covenant Summon",
               "id": "lottery_covenant_2025_2_26",
               "productId": "lottery_covenant_default",
               "startDate": "2025-02-26 07:00:00",
@@ -100653,7 +101043,7 @@
               ]
             },
             {
-              "lotteryProductType": "盟约召唤",
+              "lotteryProductType": "Covenant Summon",
               "id": "lottery_covenant_2025_3_8",
               "productId": "lottery_covenant_default",
               "startDate": "2025-03-08 07:00:00",
@@ -100752,7 +101142,7 @@
               ]
             },
             {
-              "lotteryProductType": "盟约召唤",
+              "lotteryProductType": "Covenant Summon",
               "id": "lottery_covenant_2025_3_29",
               "productId": "lottery_covenant_default",
               "startDate": "2025-03-29 13:00:00",
@@ -100851,7 +101241,7 @@
               ]
             },
             {
-              "lotteryProductType": "盟约召唤",
+              "lotteryProductType": "Covenant Summon",
               "id": "lottery_covenant_2025_4_14",
               "productId": "lottery_covenant_default",
               "startDate": "2025-04-14 11:00:00",
@@ -100950,7 +101340,7 @@
               ]
             },
             {
-              "lotteryProductType": "盟约召唤",
+              "lotteryProductType": "Covenant Summon",
               "id": "lottery_covenant_2025_5_8",
               "productId": "lottery_covenant_default",
               "startDate": "2025-05-08 07:00:00",
@@ -101049,7 +101439,7 @@
               ]
             },
             {
-              "lotteryProductType": "盟约召唤",
+              "lotteryProductType": "Covenant Summon",
               "id": "loterry_covenant_2025_5_31",
               "productId": "lottery_covenant_default",
               "startDate": "2025-05-24 11:00:00",
@@ -101148,7 +101538,7 @@
               ]
             },
             {
-              "lotteryProductType": "盟约召唤",
+              "lotteryProductType": "Covenant Summon",
               "id": "loterry_covenant_2025_6_3",
               "productId": "lottery_covenant_default",
               "startDate": "2025-06-03 07:00:00",
@@ -101247,7 +101637,7 @@
               ]
             },
             {
-              "lotteryProductType": "盟约召唤",
+              "lotteryProductType": "Covenant Summon",
               "id": "loterry_covenant_2025_6_23",
               "productId": "lottery_covenant_default",
               "startDate": "2025-06-23 07:00:00",
@@ -101346,7 +101736,7 @@
               ]
             },
             {
-              "lotteryProductType": "盟约召唤",
+              "lotteryProductType": "Covenant Summon",
               "id": "lottery_covenant_2025_7_6",
               "productId": "lottery_covenant_default",
               "startDate": "2025-07-06 07:00:00",
@@ -101446,7 +101836,7 @@
               ]
             },
             {
-              "lotteryProductType": "盟约召唤",
+              "lotteryProductType": "Covenant Summon",
               "id": "lottery_covenant_2025_7_25",
               "productId": "lottery_covenant_default",
               "startDate": "2025-07-25 07:00:00",
@@ -101546,7 +101936,7 @@
               ]
             },
             {
-              "lotteryProductType": "盟约召唤",
+              "lotteryProductType": "Covenant Summon",
               "id": "lottery_covenant_2025_8_9",
               "productId": "lottery_covenant_default",
               "startDate": "2025-08-09 07:00:00",
@@ -101647,7 +102037,7 @@
               ]
             },
             {
-              "lotteryProductType": "盟约召唤",
+              "lotteryProductType": "Covenant Summon",
               "id": "lottery_covenant_2025_8_18",
               "productId": "lottery_covenant_default",
               "startDate": "2025-08-18 07:00:00",
@@ -101748,7 +102138,7 @@
               ]
             },
             {
-              "lotteryProductType": "盟约召唤",
+              "lotteryProductType": "Covenant Summon",
               "id": "lottery_covenant_2025_8_20",
               "productId": "lottery_covenant_default",
               "startDate": "2025-08-20 10:30:00",
@@ -101865,7 +102255,7 @@
           "skipAutoGeneration": true,
           "lotteryEntries": [
             {
-              "lotteryProductType": "荒野召唤",
+              "lotteryProductType": "Wilderness Summon",
               "id": "lottery_wilderness_2024_05_09",
               "productId": "lottery_wilderness_default",
               "startDate": "2024-05-09 07:00:00",
@@ -101950,7 +102340,7 @@
               ]
             },
             {
-              "lotteryProductType": "荒野召唤",
+              "lotteryProductType": "Wilderness Summon",
               "id": "lottery_wilderness_2024_01_16",
               "productId": "lottery_wilderness_default",
               "startDate": "2024-01-16 07:00:00",
@@ -102035,7 +102425,7 @@
               ]
             },
             {
-              "lotteryProductType": "荒野召唤",
+              "lotteryProductType": "Wilderness Summon",
               "id": "lottery_wilderness_2024_02_08",
               "productId": "lottery_wilderness_default",
               "startDate": "2024-02-08 07:00:00",
@@ -102120,7 +102510,7 @@
               ]
             },
             {
-              "lotteryProductType": "荒野召唤",
+              "lotteryProductType": "Wilderness Summon",
               "id": "lottery_wilderness_2024_02_21",
               "productId": "lottery_wilderness_default",
               "startDate": "2024-02-21 07:00:00",
@@ -102205,7 +102595,7 @@
               ]
             },
             {
-              "lotteryProductType": "荒野召唤",
+              "lotteryProductType": "Wilderness Summon",
               "id": "lottery_wilderness_2024_03_10",
               "productId": "lottery_wilderness_default",
               "startDate": "2024-03-10 07:00:00",
@@ -102290,7 +102680,7 @@
               ]
             },
             {
-              "lotteryProductType": "荒野召唤",
+              "lotteryProductType": "Wilderness Summon",
               "id": "lottery_wilderness_2024_03_29",
               "productId": "lottery_wilderness_default",
               "startDate": "2024-03-29 07:00:00",
@@ -102375,7 +102765,7 @@
               ]
             },
             {
-              "lotteryProductType": "荒野召唤",
+              "lotteryProductType": "Wilderness Summon",
               "id": "lottery_wilderness_2024_04_25",
               "productId": "lottery_wilderness_default",
               "startDate": "2024-04-25 07:00:00",
@@ -102460,7 +102850,7 @@
               ]
             },
             {
-              "lotteryProductType": "荒野召唤",
+              "lotteryProductType": "Wilderness Summon",
               "id": "lottery_wilderness_2024_06_01",
               "productId": "lottery_wilderness_default",
               "startDate": "2024-06-01 07:00:00",
@@ -102542,7 +102932,7 @@
               ]
             },
             {
-              "lotteryProductType": "荒野召唤",
+              "lotteryProductType": "Wilderness Summon",
               "id": "lottery_wilderness_2024_08_31",
               "productId": "lottery_wilderness_default",
               "startDate": "2024-08-31 07:00:00",
@@ -102624,7 +103014,7 @@
               ]
             },
             {
-              "lotteryProductType": "荒野召唤",
+              "lotteryProductType": "Wilderness Summon",
               "id": "lottery_wilderness_2024_09_20",
               "productId": "lottery_wilderness_default",
               "startDate": "2024-09-20 07:00:00",
@@ -102706,7 +103096,7 @@
               ]
             },
             {
-              "lotteryProductType": "荒野召唤",
+              "lotteryProductType": "Wilderness Summon",
               "id": "lottery_wilderness_2024_23_10",
               "productId": "lottery_wilderness_default",
               "startDate": "2024-10-23 07:00:00",
@@ -102788,7 +103178,7 @@
               ]
             },
             {
-              "lotteryProductType": "荒野召唤",
+              "lotteryProductType": "Wilderness Summon",
               "id": "lottery_wilderness_2024_05_11",
               "productId": "lottery_wilderness_default",
               "startDate": "2024-11-05 07:00:00",
@@ -102870,7 +103260,7 @@
               ]
             },
             {
-              "lotteryProductType": "荒野召唤",
+              "lotteryProductType": "Wilderness Summon",
               "id": "lottery_wilderness_2024_07_12",
               "productId": "lottery_wilderness_default",
               "startDate": "2024-12-07 07:00:00",
@@ -102952,7 +103342,7 @@
               ]
             },
             {
-              "lotteryProductType": "荒野召唤",
+              "lotteryProductType": "Wilderness Summon",
               "id": "lottery_wilderness_2024_31_12",
               "productId": "lottery_wilderness_default",
               "startDate": "2024-12-31 07:00:00",
@@ -103034,7 +103424,7 @@
               ]
             },
             {
-              "lotteryProductType": "荒野召唤",
+              "lotteryProductType": "Wilderness Summon",
               "id": "lottery_wilderness_2025_22_1",
               "productId": "lottery_wilderness_default",
               "startDate": "2025-01-22 07:00:00",
@@ -103116,7 +103506,7 @@
               ]
             },
             {
-              "lotteryProductType": "荒野召唤",
+              "lotteryProductType": "Wilderness Summon",
               "id": "lottery_wilderness_2025_21_2",
               "productId": "lottery_wilderness_default",
               "startDate": "2025-02-21 07:00:00",
@@ -103199,7 +103589,7 @@
               ]
             },
             {
-              "lotteryProductType": "荒野召唤",
+              "lotteryProductType": "Wilderness Summon",
               "id": "lottery_wilderness_2025_4_3",
               "productId": "lottery_wilderness_default",
               "startDate": "2025-03-04 07:00:00",
@@ -103282,7 +103672,7 @@
               ]
             },
             {
-              "lotteryProductType": "荒野召唤",
+              "lotteryProductType": "Wilderness Summon",
               "id": "lottery_wilderness_2025_26_3",
               "productId": "lottery_wilderness_default",
               "startDate": "2025-03-26 07:00:00",
@@ -103368,7 +103758,7 @@
               ]
             },
             {
-              "lotteryProductType": "荒野召唤",
+              "lotteryProductType": "Wilderness Summon",
               "id": "lottery_wilderness_2025_2_4",
               "productId": "lottery_wilderness_default",
               "startDate": "2025-04-05 07:00:00",
@@ -103454,7 +103844,7 @@
               ]
             },
             {
-              "lotteryProductType": "荒野召唤",
+              "lotteryProductType": "Wilderness Summon",
               "id": "lottery_wilderness_2025_4_19",
               "productId": "lottery_wilderness_default",
               "startDate": "2025-04-18 07:00:00",
@@ -103541,7 +103931,7 @@
               ]
             },
             {
-              "lotteryProductType": "荒野召唤",
+              "lotteryProductType": "Wilderness Summon",
               "id": "lottery_wilderness_2025_5_6",
               "productId": "lottery_wilderness_default",
               "startDate": "2025-05-06 07:00:00",
@@ -103628,7 +104018,7 @@
               ]
             },
             {
-              "lotteryProductType": "荒野召唤",
+              "lotteryProductType": "Wilderness Summon",
               "id": "lottery_wilderness_2025_5_20",
               "productId": "lottery_wilderness_default",
               "startDate": "2025-05-20 07:00:00",
@@ -103714,7 +104104,7 @@
               ]
             },
             {
-              "lotteryProductType": "荒野召唤",
+              "lotteryProductType": "Wilderness Summon",
               "id": "lottery_wilderness_2025_12_5",
               "productId": "lottery_wilderness_default",
               "startDate": "2025-05-12 11:30:00",
@@ -103803,7 +104193,7 @@
               ]
             },
             {
-              "lotteryProductType": "荒野召唤",
+              "lotteryProductType": "Wilderness Summon",
               "id": "lottery_wilderness_2025_6_8",
               "productId": "lottery_wilderness_default",
               "startDate": "2025-06-08 07:00:00",
@@ -103889,7 +104279,7 @@
               ]
             },
             {
-              "lotteryProductType": "荒野召唤",
+              "lotteryProductType": "Wilderness Summon",
               "id": "lottery_wilderness_2025_6_28",
               "productId": "lottery_wilderness_default",
               "startDate": "2025-06-28 07:00:00",
@@ -103980,7 +104370,7 @@
               ]
             },
             {
-              "lotteryProductType": "荒野召唤",
+              "lotteryProductType": "Wilderness Summon",
               "id": "lottery_wilderness_2025_7_10",
               "productId": "lottery_wilderness_default",
               "startDate": "2025-07-10 07:00:00",
@@ -104071,7 +104461,7 @@
               ]
             },
             {
-              "lotteryProductType": "荒野召唤",
+              "lotteryProductType": "Wilderness Summon",
               "id": "lottery_wilderness_2025_7_18",
               "productId": "lottery_wilderness_default",
               "startDate": "2025-07-18 07:00:00",
@@ -104162,7 +104552,7 @@
               ]
             },
             {
-              "lotteryProductType": "荒野召唤",
+              "lotteryProductType": "Wilderness Summon",
               "id": "lottery_wilderness_2025_8_3",
               "productId": "lottery_wilderness_default",
               "startDate": "2025-08-03 07:00:00",
@@ -104252,7 +104642,7 @@
               ]
             },
             {
-              "lotteryProductType": "荒野召唤",
+              "lotteryProductType": "Wilderness Summon",
               "id": "lottery_wilderness_2025_8_23",
               "productId": "lottery_wilderness_default",
               "startDate": "2025-08-23 07:00:00",
@@ -104358,7 +104748,7 @@
           "skipAutoGeneration": true,
           "lotteryEntries": [
             {
-              "lotteryProductType": "即时力量",
+              "lotteryProductType": "Instant Power",
               "id": "lottery_instantpower_2025_7_14",
               "productId": "lottery_ascension_default",
               "startDate": "2025-07-14 07:00:00",
@@ -104373,7 +104763,7 @@
               "advertisedHero": "tales1_ceto"
             },
             {
-              "lotteryProductType": "即时力量",
+              "lotteryProductType": "Instant Power",
               "id": "lottery_instantpower_2025_3_24",
               "productId": "lottery_ascension_default",
               "startDate": "2025-03-24 07:00:00",
@@ -104388,7 +104778,7 @@
               "advertisedHero": "s5_hathor"
             },
             {
-              "lotteryProductType": "即时力量",
+              "lotteryProductType": "Instant Power",
               "id": "lottery_instantpower_2025_2_17",
               "productId": "lottery_ascension_default",
               "startDate": "2025-02-17 07:00:00",
@@ -104403,7 +104793,7 @@
               "advertisedHero": "guardian_hippo"
             },
             {
-              "lotteryProductType": "即时力量",
+              "lotteryProductType": "Instant Power",
               "id": "lottery_instantpower_2025_4_26",
               "productId": "lottery_ascension_default",
               "startDate": "2025-04-26 07:00:00",
@@ -104418,7 +104808,7 @@
               "advertisedHero": "guardian_gazelle"
             },
             {
-              "lotteryProductType": "即时力量",
+              "lotteryProductType": "Instant Power",
               "id": "lottery_instantpower_2025_5_17",
               "productId": "lottery_ascension_default",
               "startDate": "2025-05-17 07:00:00",
@@ -104433,7 +104823,7 @@
               "advertisedHero": "ninja_oniwakamaru"
             },
             {
-              "lotteryProductType": "即时力量",
+              "lotteryProductType": "Instant Power",
               "id": "loterry_instantpower_2025_6_12",
               "productId": "lottery_ascension_default",
               "startDate": "2025-06-12 07:00:00",
@@ -104448,7 +104838,7 @@
               "advertisedHero": "tales1_phorcys"
             },
             {
-              "lotteryProductType": "即时力量",
+              "lotteryProductType": "Instant Power",
               "id": "lottery_instantpower_2025_8_16",
               "productId": "lottery_ascension_default",
               "startDate": "2025-08-16 07:00:00",
@@ -104477,7 +104867,7 @@
           "skipAutoGeneration": true,
           "lotteryEntries": [
             {
-              "lotteryProductType": "哥布林召唤",
+              "lotteryProductType": "Goblin Summon",
               "id": "lottery_goblin_2025_08_19",
               "productId": "lottery_goblin_default",
               "startDate": "2025-08-19 07:00:00",
@@ -104493,7 +104883,7 @@
               "advertisedHero": "garrison_fergus"
             },
             {
-              "lotteryProductType": "哥布林召唤",
+              "lotteryProductType": "Goblin Summon",
               "id": "lottery_goblin_2025_09_16",
               "productId": "lottery_goblin_default",
               "startDate": "2025-09-16 07:00:00",
@@ -104509,7 +104899,7 @@
               "advertisedHero": "garrison_flamehide"
             },
             {
-              "lotteryProductType": "哥布林召唤",
+              "lotteryProductType": "Goblin Summon",
               "id": "lottery_goblin_2024_07_19",
               "productId": "lottery_goblin_default",
               "startDate": "2024-07-19 07:00:00",
@@ -104525,7 +104915,7 @@
               "advertisedHero": "garrison_violet_potts"
             },
             {
-              "lotteryProductType": "哥布林召唤",
+              "lotteryProductType": "Goblin Summon",
               "id": "lottery_goblin_2024_1_8",
               "productId": "lottery_goblin_default",
               "startDate": "2024-01-08 07:00:00",
@@ -104541,7 +104931,7 @@
               "advertisedHero": "goblin_pepperflame"
             },
             {
-              "lotteryProductType": "哥布林召唤",
+              "lotteryProductType": "Goblin Summon",
               "id": "lottery_goblin_2024_1_31",
               "productId": "lottery_goblin_default",
               "startDate": "2024-01-31 07:00:00",
@@ -104557,7 +104947,7 @@
               "advertisedHero": "goblin_acidfire"
             },
             {
-              "lotteryProductType": "哥布林召唤",
+              "lotteryProductType": "Goblin Summon",
               "id": "lottery_goblin_2024_2_19",
               "productId": "lottery_goblin_default",
               "startDate": "2024-02-19 07:00:00",
@@ -104573,7 +104963,7 @@
               "advertisedHero": "goblin_grimsteel"
             },
             {
-              "lotteryProductType": "哥布林召唤",
+              "lotteryProductType": "Goblin Summon",
               "id": "lottery_goblin_2024_3_14",
               "productId": "lottery_goblin_default",
               "startDate": "2024-03-18 07:00:00",
@@ -104589,7 +104979,7 @@
               "advertisedHero": "goblin_rocket"
             },
             {
-              "lotteryProductType": "哥布林召唤",
+              "lotteryProductType": "Goblin Summon",
               "id": "lottery_goblin_2024_4_15",
               "productId": "lottery_goblin_default",
               "startDate": "2024-04-15 07:00:00",
@@ -104605,7 +104995,7 @@
               "advertisedHero": "garrison_vanya"
             },
             {
-              "lotteryProductType": "哥布林召唤",
+              "lotteryProductType": "Goblin Summon",
               "id": "lottery_goblin_2024_5_13",
               "productId": "lottery_goblin_default",
               "startDate": "2024-05-13 07:00:00",
@@ -104621,7 +105011,7 @@
               "advertisedHero": "garrison_caelen"
             },
             {
-              "lotteryProductType": "哥布林召唤",
+              "lotteryProductType": "Goblin Summon",
               "id": "lottery_goblin_2024_5_2",
               "productId": "lottery_goblin_default",
               "startDate": "2024-05-02 07:00:00",
@@ -104637,7 +105027,7 @@
               "advertisedHero": "goblin_scrollbeast"
             },
             {
-              "lotteryProductType": "哥布林召唤",
+              "lotteryProductType": "Goblin Summon",
               "id": "lottery_goblin_2024_5_30",
               "productId": "lottery_goblin_default",
               "startDate": "2024-05-30 07:00:00",
@@ -104653,7 +105043,7 @@
               "advertisedHero": "goblin_grimsteel"
             },
             {
-              "lotteryProductType": "哥布林召唤",
+              "lotteryProductType": "Goblin Summon",
               "id": "lottery_goblin_2024_6_10",
               "productId": "lottery_goblin_default",
               "startDate": "2024-06-10 07:00:00",
@@ -104669,7 +105059,7 @@
               "advertisedHero": "garrison_violet_potts"
             },
             {
-              "lotteryProductType": "哥布林召唤",
+              "lotteryProductType": "Goblin Summon",
               "id": "lottery_goblin_2024_7_07",
               "productId": "lottery_goblin_default",
               "startDate": "2024-07-07 07:00:00",
@@ -104685,7 +105075,7 @@
               "advertisedHero": "garrison_iocantha"
             },
             {
-              "lotteryProductType": "哥布林召唤",
+              "lotteryProductType": "Goblin Summon",
               "id": "lottery_goblin2024_8_04",
               "productId": "lottery_goblin_default",
               "startDate": "2024-08-04 07:00:00",
@@ -104701,7 +105091,7 @@
               "advertisedHero": "garrison_frank_fangs_brimwell"
             },
             {
-              "lotteryProductType": "哥布林召唤",
+              "lotteryProductType": "Goblin Summon",
               "id": "lottery_goblin_2024_6_24",
               "productId": "lottery_goblin_default",
               "startDate": "2024-06-24 09:00:00",
@@ -104717,7 +105107,7 @@
               "advertisedHero": "garrison_shimmerscale"
             },
             {
-              "lotteryProductType": "哥布林召唤",
+              "lotteryProductType": "Goblin Summon",
               "id": "lottery_goblin_24024_9_1",
               "productId": "lottery_goblin_default",
               "startDate": "2024-09-01 07:00:00",
@@ -104733,7 +105123,7 @@
               "advertisedHero": "garrison_pip"
             },
             {
-              "lotteryProductType": "哥布林召唤",
+              "lotteryProductType": "Goblin Summon",
               "id": "lottery_goblin_2024_9_29",
               "productId": "lottery_goblin_default",
               "startDate": "2024-09-29 07:00:00",
@@ -104749,7 +105139,7 @@
               "advertisedHero": "garrison_dima"
             },
             {
-              "lotteryProductType": "哥布林召唤",
+              "lotteryProductType": "Goblin Summon",
               "id": "lottery_goblin_2024_10_27",
               "productId": "lottery_goblin_default",
               "startDate": "2024-10-27 07:00:00",
@@ -104765,7 +105155,7 @@
               "advertisedHero": "garrison_rosalind"
             },
             {
-              "lotteryProductType": "哥布林召唤",
+              "lotteryProductType": "Goblin Summon",
               "id": "lottery_goblin_2024_11_24",
               "productId": "lottery_goblin_default",
               "startDate": "2024-11-24 07:00:00",
@@ -104781,7 +105171,7 @@
               "advertisedHero": "garrison_kolya"
             },
             {
-              "lotteryProductType": "哥布林召唤",
+              "lotteryProductType": "Goblin Summon",
               "id": "lottery_goblin_2024_11_13",
               "productId": "lottery_goblin_default",
               "startDate": "2024-11-13 13:30:00",
@@ -104797,7 +105187,7 @@
               "advertisedHero": "goblin_grimsteel"
             },
             {
-              "lotteryProductType": "哥布林召唤",
+              "lotteryProductType": "Goblin Summon",
               "id": "lottery_goblin_2024_12_9",
               "productId": "lottery_goblin_default",
               "startDate": "2024-12-09 07:00:00",
@@ -104813,7 +105203,7 @@
               "advertisedHero": "garrison_fergus"
             },
             {
-              "lotteryProductType": "哥布林召唤",
+              "lotteryProductType": "Goblin Summon",
               "id": "lottery_goblin_2025_2_17",
               "productId": "lottery_goblin_default",
               "startDate": "2025-02-14 07:00:00",
@@ -104829,7 +105219,7 @@
               "advertisedHero": "garrison_maisie"
             },
             {
-              "lotteryProductType": "哥布林召唤",
+              "lotteryProductType": "Goblin Summon",
               "id": "lottery_goblin_2025_1_20",
               "productId": "lottery_goblin_default",
               "startDate": "2025-01-17 07:00:00",
@@ -104845,7 +105235,7 @@
               "advertisedHero": "garrison_frostsnout"
             },
             {
-              "lotteryProductType": "哥布林召唤",
+              "lotteryProductType": "Goblin Summon",
               "id": "lottery_goblin_2025_3_17",
               "productId": "lottery_goblin_default",
               "startDate": "2025-03-14 07:00:00",
@@ -104861,7 +105251,7 @@
               "advertisedHero": "garrison_archibald"
             },
             {
-              "lotteryProductType": "哥布林召唤",
+              "lotteryProductType": "Goblin Summon",
               "id": "lottery_goblin_2025_3_3",
               "productId": "lottery_goblin_default",
               "startDate": "2025-03-03 07:00:00",
@@ -104877,7 +105267,7 @@
               "advertisedHero": "garrison_maisie"
             },
             {
-              "lotteryProductType": "哥布林召唤",
+              "lotteryProductType": "Goblin Summon",
               "id": "lottery_goblin_2025_4_11",
               "productId": "lottery_goblin_default",
               "startDate": "2025-04-11 07:00:00",
@@ -104893,7 +105283,7 @@
               "advertisedHero": "garrison_flamehide"
             },
             {
-              "lotteryProductType": "哥布林召唤",
+              "lotteryProductType": "Goblin Summon",
               "id": "lottery_goblin_2025_4_29",
               "productId": "lottery_goblin_default",
               "startDate": "2025-04-29 07:00:00",
@@ -104909,7 +105299,7 @@
               "advertisedHero": "garrison_iarlaith"
             },
             {
-              "lotteryProductType": "哥布林召唤",
+              "lotteryProductType": "Goblin Summon",
               "id": "lottery_goblin_2025_5_27",
               "productId": "lottery_goblin_default",
               "startDate": "2025-05-27 07:00:00",
@@ -104925,7 +105315,7 @@
               "advertisedHero": "garrison_ciara"
             },
             {
-              "lotteryProductType": "哥布林召唤",
+              "lotteryProductType": "Goblin Summon",
               "id": "lottery_goblin_2025_6_24",
               "productId": "lottery_goblin_default",
               "startDate": "2025-06-24 07:00:00",
@@ -104941,7 +105331,7 @@
               "advertisedHero": "garrison_archibald"
             },
             {
-              "lotteryProductType": "哥布林召唤",
+              "lotteryProductType": "Goblin Summon",
               "id": "lottery_goblin_2025_7_22",
               "productId": "lottery_goblin_default",
               "startDate": "2025-07-22 07:00:00",
@@ -104970,7 +105360,7 @@
           "skipAutoGeneration": true,
           "lotteryEntries": [
             {
-              "lotteryProductType": "星体召唤",
+              "lotteryProductType": "Astral Summon",
               "id": "lottery_astralelves_2025_5_7",
               "productId": "lottery_astralelves_default",
               "startDate": "2025-05-07 07:00:00",
@@ -104986,7 +105376,7 @@
               "advertisedHero": "astral_dwarf_gongoth"
             },
             {
-              "lotteryProductType": "星体召唤",
+              "lotteryProductType": "Astral Summon",
               "id": "lottery_astralelves_2025_1_30",
               "productId": "lottery_astralelves_default",
               "startDate": "2025-01-30 07:00:00",
@@ -105002,7 +105392,7 @@
               "advertisedHero": "astral_dwarf_vard"
             },
             {
-              "lotteryProductType": "星体召唤",
+              "lotteryProductType": "Astral Summon",
               "id": "lottery_astralelves_2025_3_27",
               "productId": "lottery_astralelves_default",
               "startDate": "2025-03-27 07:00:00",
@@ -105018,7 +105408,7 @@
               "advertisedHero": "astral_dwarf_ixinn"
             },
             {
-              "lotteryProductType": "星体召唤",
+              "lotteryProductType": "Astral Summon",
               "id": "lottery_astralelves_2024_5_7",
               "productId": "lottery_astralelves_default",
               "startDate": "2024-05-07 07:00:00",
@@ -105034,7 +105424,7 @@
               "advertisedHero": "astral_lemonwood"
             },
             {
-              "lotteryProductType": "星体召唤",
+              "lotteryProductType": "Astral Summon",
               "id": "lottery_astralelves_2024_5_20",
               "productId": "lottery_astralelves_default",
               "startDate": "2024-05-20 07:00:00",
@@ -105050,7 +105440,7 @@
               "advertisedHero": "astral_demilune"
             },
             {
-              "lotteryProductType": "星体召唤",
+              "lotteryProductType": "Astral Summon",
               "id": "lottery_astralelves_2024_6_27",
               "productId": "lottery_astralelves_default",
               "startDate": "2024-06-12 07:00:00",
@@ -105066,7 +105456,7 @@
               "advertisedHero": "astral_starlass"
             },
             {
-              "lotteryProductType": "星体召唤",
+              "lotteryProductType": "Astral Summon",
               "id": "lottery_astralelves_2024_7_25",
               "productId": "lottery_astralelves_default",
               "startDate": "2024-06-29 07:00:00",
@@ -105082,7 +105472,7 @@
               "advertisedHero": "astral_lemonwood"
             },
             {
-              "lotteryProductType": "星体召唤",
+              "lotteryProductType": "Astral Summon",
               "id": "lottery_astralelves_2024_8_22",
               "productId": "lottery_astralelves_default",
               "startDate": "2024-07-10 07:00:00",
@@ -105098,7 +105488,7 @@
               "advertisedHero": "astral_moonbell"
             },
             {
-              "lotteryProductType": "星体召唤",
+              "lotteryProductType": "Astral Summon",
               "id": "lottery_astralelves_2024_9_19",
               "productId": "lottery_astralelves_default",
               "startDate": "2024-07-22 07:00:00",
@@ -105114,7 +105504,7 @@
               "advertisedHero": "astral_moonbell"
             },
             {
-              "lotteryProductType": "星体召唤",
+              "lotteryProductType": "Astral Summon",
               "id": "lottery_astralelves_2024_11_14",
               "productId": "lottery_astralelves_default",
               "startDate": "2024-08-19 07:00:00",
@@ -105130,7 +105520,7 @@
               "advertisedHero": "astral_mooncure"
             },
             {
-              "lotteryProductType": "星体召唤",
+              "lotteryProductType": "Astral Summon",
               "id": "lottery_astralelves_2024_9_7",
               "productId": "lottery_astralelves_default",
               "startDate": "2024-09-16 07:00:00",
@@ -105146,7 +105536,7 @@
               "advertisedHero": "astral_melodymuse"
             },
             {
-              "lotteryProductType": "星体召唤",
+              "lotteryProductType": "Astral Summon",
               "id": "lottery_astralelves_2024_10_17",
               "productId": "lottery_astralelves_default",
               "startDate": "2024-10-14 07:00:00",
@@ -105162,7 +105552,7 @@
               "advertisedHero": "astral_cosmicspeaker"
             },
             {
-              "lotteryProductType": "星体召唤",
+              "lotteryProductType": "Astral Summon",
               "id": "lottery_astralelves_2024_12_13",
               "productId": "lottery_astralelves_default",
               "startDate": "2024-12-13 07:00:00",
@@ -105178,7 +105568,7 @@
               "advertisedHero": "astral_demilune"
             },
             {
-              "lotteryProductType": "星体召唤",
+              "lotteryProductType": "Astral Summon",
               "id": "lottery_astralelves_2024_12_12",
               "productId": "lottery_astralelves_default",
               "startDate": "2024-11-11 07:00:00",
@@ -105194,7 +105584,7 @@
               "advertisedHero": "astral_lemonwood"
             },
             {
-              "lotteryProductType": "星体召唤",
+              "lotteryProductType": "Astral Summon",
               "id": "lottery_astralelves_2025_2_27",
               "productId": "lottery_astralelves_default",
               "startDate": "2025-02-28 07:00:00",
@@ -105210,7 +105600,7 @@
               "advertisedHero": "astral_dwarf_pluth"
             },
             {
-              "lotteryProductType": "星体召唤",
+              "lotteryProductType": "Astral Summon",
               "id": "lottery_astralelves_2024_12_22",
               "productId": "lottery_astralelves_default",
               "startDate": "2024-12-22 07:00:00",
@@ -105226,7 +105616,7 @@
               "advertisedHero": "astral_dwarf_salniss"
             },
             {
-              "lotteryProductType": "星体召唤",
+              "lotteryProductType": "Astral Summon",
               "id": "lottery_astralelves_2025_1_6",
               "productId": "lottery_astralelves_default",
               "startDate": "2025-01-06 07:00:00",
@@ -105242,7 +105632,7 @@
               "advertisedHero": "astral_dwarf_maegwyn"
             },
             {
-              "lotteryProductType": "星体召唤",
+              "lotteryProductType": "Astral Summon",
               "id": "lottery_astralelves_2025_4_21",
               "productId": "lottery_astralelves_default",
               "startDate": "2025-04-21 07:00:00",
@@ -105258,7 +105648,7 @@
               "advertisedHero": "astral_dwarf_ceris"
             },
             {
-              "lotteryProductType": "星体召唤",
+              "lotteryProductType": "Astral Summon",
               "id": "lottery_astralelves_2025_6_4",
               "productId": "lottery_astralelves_default",
               "startDate": "2025-06-04 07:00:00",
@@ -105274,7 +105664,7 @@
               "advertisedHero": "astral_dwarf_haumri"
             },
             {
-              "lotteryProductType": "星体召唤",
+              "lotteryProductType": "Astral Summon",
               "id": "lottery_astralelves_2025_7_2",
               "productId": "lottery_astralelves_default",
               "startDate": "2025-07-02 07:00:00",
@@ -105290,7 +105680,7 @@
               "advertisedHero": "astral_dwarf_orcur"
             },
             {
-              "lotteryProductType": "星体召唤",
+              "lotteryProductType": "Astral Summon",
               "id": "lottery_astralelves_2025_7_27",
               "productId": "lottery_astralelves_default",
               "startDate": "2025-07-27 07:00:00",
@@ -105306,7 +105696,7 @@
               "advertisedHero": "astral_dwarf_sedille"
             },
             {
-              "lotteryProductType": "星体召唤",
+              "lotteryProductType": "Astral Summon",
               "id": "lottery_astralelves_2025_08_24",
               "productId": "lottery_astralelves_default",
               "startDate": "2025-08-24 07:00:00",
@@ -105322,7 +105712,7 @@
               "advertisedHero": "astral_dwarf_hygil"
             },
             {
-              "lotteryProductType": "星体召唤",
+              "lotteryProductType": "Astral Summon",
               "id": "lottery_astralelves_2025_09_21",
               "productId": "lottery_astralelves_default",
               "startDate": "2025-09-21 07:00:00",
@@ -105351,7 +105741,7 @@
           "enabled": true,
           "lotteryEntries": [
             {
-              "lotteryProductType": "暗影召唤",
+              "lotteryProductType": "Shadow Summon",
               "id": "2025_01_01",
               "productId": "lottery_shadow_default",
               "startDate": "2025-01-09 07:00:00",
@@ -105406,7 +105796,7 @@
               ]
             },
             {
-              "lotteryProductType": "暗影召唤",
+              "lotteryProductType": "Shadow Summon",
               "id": "2025_03_06",
               "productId": "lottery_shadow_default",
               "startDate": "2025-03-06 07:00:00",
@@ -105461,7 +105851,7 @@
               ]
             },
             {
-              "lotteryProductType": "暗影召唤",
+              "lotteryProductType": "Shadow Summon",
               "id": "2025_02_06",
               "productId": "lottery_shadow_default",
               "startDate": "2025-02-06 07:00:00",
@@ -105516,7 +105906,7 @@
               ]
             },
             {
-              "lotteryProductType": "暗影召唤",
+              "lotteryProductType": "Shadow Summon",
               "id": "2025_04_03",
               "productId": "lottery_shadow_default",
               "startDate": "2025-04-03 07:00:00",
@@ -105571,7 +105961,7 @@
               ]
             },
             {
-              "lotteryProductType": "暗影召唤",
+              "lotteryProductType": "Shadow Summon",
               "id": "2025_05_13",
               "productId": "lottery_shadow_default",
               "startDate": "2025-05-13 07:00:00",
@@ -105626,7 +106016,7 @@
               ]
             },
             {
-              "lotteryProductType": "暗影召唤",
+              "lotteryProductType": "Shadow Summon",
               "id": "2025_06_10",
               "productId": "lottery_shadow_default",
               "startDate": "2025-06-10 07:00:00",
@@ -105681,7 +106071,7 @@
               ]
             },
             {
-              "lotteryProductType": "暗影召唤",
+              "lotteryProductType": "Shadow Summon",
               "id": "2025_07_08",
               "productId": "lottery_shadow_default",
               "startDate": "2025-07-08 07:00:00",
@@ -105736,7 +106126,7 @@
               ]
             },
             {
-              "lotteryProductType": "暗影召唤",
+              "lotteryProductType": "Shadow Summon",
               "id": "2025_07_29",
               "productId": "lottery_shadow_default",
               "startDate": "2025-07-29 07:00:00",
@@ -105791,7 +106181,7 @@
               ]
             },
             {
-              "lotteryProductType": "暗影召唤",
+              "lotteryProductType": "Shadow Summon",
               "id": "2025_09_09",
               "productId": "lottery_shadow_default",
               "startDate": "2025-09-09 07:00:00",
@@ -105846,7 +106236,7 @@
               ]
             },
             {
-              "lotteryProductType": "暗影召唤",
+              "lotteryProductType": "Shadow Summon",
               "id": "2025_09_23",
               "productId": "lottery_shadow_default",
               "startDate": "2025-09-23 07:00:00",
@@ -105913,7 +106303,7 @@
           "enabled": true,
           "lotteryEntries": [
             {
-              "lotteryProductType": "远古巨龙召唤",
+              "lotteryProductType": "Ancient Dragon Summon",
               "id": "lottery_ancient_dragon_2025_2_4",
               "productId": "lottery_ancient_dragon_default",
               "startDate": "2025-02-04 07:00:00",
@@ -105931,7 +106321,7 @@
               "eventOffer": "ancient_dragon_calendar"
             },
             {
-              "lotteryProductType": "远古巨龙召唤",
+              "lotteryProductType": "Ancient Dragon Summon",
               "id": "lottery_ancient_dragon_2025_2_18",
               "productId": "lottery_ancient_dragon_default",
               "startDate": "2025-02-18 07:00:00",
@@ -105949,7 +106339,7 @@
               "eventOffer": "ancient_dragon_calendar"
             },
             {
-              "lotteryProductType": "远古巨龙召唤",
+              "lotteryProductType": "Ancient Dragon Summon",
               "id": "lottery_ancient_dragon_2025_3_4",
               "productId": "lottery_ancient_dragon_default",
               "startDate": "2025-03-04 07:00:00",
@@ -105967,7 +106357,7 @@
               "eventOffer": "ancient_dragon_calendar"
             },
             {
-              "lotteryProductType": "远古巨龙召唤",
+              "lotteryProductType": "Ancient Dragon Summon",
               "id": "lottery_ancient_dragon_2025_3_18",
               "productId": "lottery_ancient_dragon_default",
               "startDate": "2025-03-18 07:00:00",
@@ -105985,7 +106375,7 @@
               "eventOffer": "ancient_dragon_calendar"
             },
             {
-              "lotteryProductType": "远古巨龙召唤",
+              "lotteryProductType": "Ancient Dragon Summon",
               "id": "lottery_ancient_dragon_2025_4_1",
               "productId": "lottery_ancient_dragon_default",
               "startDate": "2025-04-01 07:00:00",
@@ -106003,7 +106393,7 @@
               "eventOffer": "ancient_dragon_calendar"
             },
             {
-              "lotteryProductType": "远古巨龙召唤",
+              "lotteryProductType": "Ancient Dragon Summon",
               "id": "lottery_ancient_dragon_2025_4_15",
               "productId": "lottery_ancient_dragon_default",
               "startDate": "2025-04-15 07:00:00",
@@ -106021,7 +106411,7 @@
               "eventOffer": "ancient_dragon_calendar"
             },
             {
-              "lotteryProductType": "远古巨龙召唤",
+              "lotteryProductType": "Ancient Dragon Summon",
               "id": "lottery_ancient_dragon_2025_4_28",
               "productId": "lottery_ancient_dragon_default",
               "startDate": "2025-04-28 07:00:00",
@@ -106039,7 +106429,7 @@
               "eventOffer": "ancient_dragon_calendar"
             },
             {
-              "lotteryProductType": "远古巨龙召唤",
+              "lotteryProductType": "Ancient Dragon Summon",
               "id": "lottery_ancient_dragon_2025_5_15",
               "productId": "lottery_ancient_dragon_default",
               "startDate": "2025-05-15 07:00:00",
@@ -106057,7 +106447,7 @@
               "eventOffer": "ancient_dragon_calendar"
             },
             {
-              "lotteryProductType": "远古巨龙召唤",
+              "lotteryProductType": "Ancient Dragon Summon",
               "id": "lottery_ancient_dragon_2025_5_26",
               "productId": "lottery_ancient_dragon_default",
               "startDate": "2025-05-26 07:00:00",
@@ -106075,7 +106465,7 @@
               "eventOffer": "ancient_dragon_calendar"
             },
             {
-              "lotteryProductType": "远古巨龙召唤",
+              "lotteryProductType": "Ancient Dragon Summon",
               "id": "lottery_ancient_dragon_2025_6_10",
               "productId": "lottery_ancient_dragon_default",
               "startDate": "2025-06-10 07:00:00",
@@ -106093,7 +106483,7 @@
               "eventOffer": "ancient_dragon_calendar"
             },
             {
-              "lotteryProductType": "远古巨龙召唤",
+              "lotteryProductType": "Ancient Dragon Summon",
               "id": "lottery_ancient_dragon_2025_6_25",
               "productId": "lottery_ancient_dragon_default",
               "startDate": "2025-06-25 07:00:00",
@@ -106111,7 +106501,7 @@
               "eventOffer": "ancient_dragon_calendar"
             },
             {
-              "lotteryProductType": "远古巨龙召唤",
+              "lotteryProductType": "Ancient Dragon Summon",
               "id": "lottery_ancient_dragon_2025_7_8",
               "productId": "lottery_ancient_dragon_default",
               "startDate": "2025-07-08 07:00:00",
@@ -106129,7 +106519,7 @@
               "eventOffer": "ancient_dragon_calendar"
             },
             {
-              "lotteryProductType": "远古巨龙召唤",
+              "lotteryProductType": "Ancient Dragon Summon",
               "id": "lottery_ancient_dragon_2025_7_22",
               "productId": "lottery_ancient_dragon_default",
               "startDate": "2025-07-22 07:00:00",
@@ -106147,7 +106537,7 @@
               "eventOffer": "ancient_dragon_calendar"
             },
             {
-              "lotteryProductType": "远古巨龙召唤",
+              "lotteryProductType": "Ancient Dragon Summon",
               "id": "lottery_ancient_dragon_2025_8_5",
               "productId": "lottery_ancient_dragon_default",
               "startDate": "2025-08-05 07:00:00",
@@ -106165,7 +106555,7 @@
               "eventOffer": "ancient_dragon_calendar"
             },
             {
-              "lotteryProductType": "远古巨龙召唤",
+              "lotteryProductType": "Ancient Dragon Summon",
               "id": "lottery_ancient_dragon_2025_8_19",
               "productId": "lottery_ancient_dragon_default",
               "startDate": "2025-08-19 07:00:00",
@@ -106183,7 +106573,7 @@
               "eventOffer": "ancient_dragon_calendar"
             },
             {
-              "lotteryProductType": "远古巨龙召唤",
+              "lotteryProductType": "Ancient Dragon Summon",
               "id": "lottery_ancient_dragon_2025_9_2",
               "productId": "lottery_ancient_dragon_default",
               "startDate": "2025-09-02 07:00:00",
@@ -106200,7 +106590,7 @@
               "eventOffer": "ancient_dragon_calendar"
             },
             {
-              "lotteryProductType": "远古巨龙召唤",
+              "lotteryProductType": "Ancient Dragon Summon",
               "id": "lottery_ancient_dragon_2025_9_16",
               "productId": "lottery_ancient_dragon_default",
               "startDate": "2025-09-16 07:00:00",
@@ -106217,7 +106607,7 @@
               "eventOffer": "ancient_dragon_calendar"
             },
             {
-              "lotteryProductType": "远古巨龙召唤",
+              "lotteryProductType": "Ancient Dragon Summon",
               "id": "lottery_ancient_dragon_2025_9_30",
               "productId": "lottery_ancient_dragon_default",
               "startDate": "2025-09-30 07:00:00",
@@ -106241,7 +106631,7 @@
           "enabled": true,
           "lotteryEntries": [
             {
-              "lotteryProductType": "三国召唤",
+              "lotteryProductType": "3 Kingdoms Summon",
               "id": "mercenary_war_28_7_2025",
               "productId": "lottery_mercenary_war_default",
               "startDate": "2025-08-02 07:00:00",
@@ -106271,7 +106661,7 @@
               }
             },
             {
-              "lotteryProductType": "三国召唤",
+              "lotteryProductType": "3 Kingdoms Summon",
               "id": "mercenary_war_30_8_2025",
               "productId": "lottery_mercenary_war_default",
               "startDate": "2025-08-30 07:00:00",
@@ -106301,7 +106691,7 @@
               }
             },
             {
-              "lotteryProductType": "三国召唤",
+              "lotteryProductType": "3 Kingdoms Summon",
               "id": "mercenary_war_14_10_2025",
               "productId": "lottery_mercenary_war_default",
               "startDate": "2025-10-14 07:00:00",
@@ -106313,7 +106703,7 @@
               ]
             },
             {
-              "lotteryProductType": "三国召唤",
+              "lotteryProductType": "3 Kingdoms Summon",
               "id": "mercenary_war_9_12_2025",
               "productId": "lottery_mercenary_war_default",
               "startDate": "2025-12-09 07:00:00",
@@ -106325,7 +106715,7 @@
               ]
             },
             {
-              "lotteryProductType": "三国召唤",
+              "lotteryProductType": "3 Kingdoms Summon",
               "id": "mercenary_war_3_2_2026",
               "productId": "lottery_mercenary_war_default",
               "startDate": "2026-02-03 07:00:00",
@@ -106374,7 +106764,7 @@
         "enabled": true,
         "lotteryEntries": [
           {
-            "lotteryProductType": "高塔召唤",
+            "lotteryProductType": "Tower Summon",
             "id": "lottery_tower_magic_normal_5_7_2025",
             "productId": "lottery_tower_magic_default",
             "startDate": "2025-07-05 07:00:00",
@@ -106384,7 +106774,7 @@
             ]
           },
           {
-            "lotteryProductType": "高塔召唤",
+            "lotteryProductType": "Tower Summon",
             "id": "lottery_tower_magic_normal_23_7_2025",
             "productId": "lottery_tower_magic_default",
             "startDate": "2025-07-23 07:00:00",
@@ -106394,7 +106784,7 @@
             ]
           },
           {
-            "lotteryProductType": "高塔召唤",
+            "lotteryProductType": "Tower Summon",
             "id": "lottery_tower_magic_normal_20_8_2025",
             "productId": "lottery_tower_magic_default",
             "startDate": "2025-08-20 07:00:00",
@@ -106407,7 +106797,7 @@
         "featuredEntityRotation": [
           {
             "id": "ninja1",
-            "eventId": "忍者高塔",
+            "eventId": "Ninja Tower",
             "featuredEntities": {
               "heroes": [
                 "ninja_nomad",
@@ -106418,7 +106808,7 @@
           },
           {
             "id": "magic1",
-            "eventId": "魔法高塔",
+            "eventId": "Tower of Magic",
             "featuredEntities": {
               "heroes": [
                 "magic_carpet_lando",
@@ -106429,7 +106819,7 @@
           },
           {
             "id": "magic2",
-            "eventId": "魔法高塔",
+            "eventId": "Tower of Magic",
             "featuredEntities": {
               "heroes": [
                 "magic_carpet_agadh",
@@ -106440,7 +106830,7 @@
           },
           {
             "id": "styx1",
-            "eventId": "冥河高塔",
+            "eventId": "Tower of Styx",
             "featuredEntities": {
               "heroes": [
                 "styx_amphitrite",
@@ -106451,7 +106841,7 @@
           },
           {
             "id": "ninja2",
-            "eventId": "忍者高塔",
+            "eventId": "Ninja Tower",
             "featuredEntities": {
               "heroes": [
                 "ninja_azurite",
@@ -106462,7 +106852,7 @@
           },
           {
             "id": "owl1",
-            "eventId": "猫头鹰高塔",
+            "eventId": "Owl Tower",
             "featuredEntities": {
               "heroes": [
                 "owl_fulvia",
@@ -106487,7 +106877,7 @@
         "enabled": true,
         "lotteryEntries": [
           {
-            "lotteryProductType": "怪兽岛召唤",
+            "lotteryProductType": "Monster Island Summon",
             "id": "MonsterIsland2_5_3_2024",
             "productId": "lottery_monster_island_default",
             "startDate": "2024-03-05 07:00:00",
@@ -106498,7 +106888,7 @@
             ]
           },
           {
-            "lotteryProductType": "怪兽岛召唤",
+            "lotteryProductType": "Monster Island Summon",
             "id": "MonsterIsland2_23_5_2024",
             "productId": "lottery_monster_island_default",
             "startDate": "2024-05-23 07:00:00",
@@ -106511,7 +106901,7 @@
             ]
           },
           {
-            "lotteryProductType": "怪兽岛召唤",
+            "lotteryProductType": "Monster Island Summon",
             "id": "MonsterIsland2_26_6_2024",
             "productId": "lottery_monster_island_default",
             "startDate": "2024-06-26 07:00:00",
@@ -106524,7 +106914,7 @@
             ]
           },
           {
-            "lotteryProductType": "怪兽岛召唤",
+            "lotteryProductType": "Monster Island Summon",
             "id": "MonsterIsland2_22_7_2024",
             "productId": "lottery_monster_island_default",
             "startDate": "2024-07-21 07:00:00",
@@ -106538,7 +106928,7 @@
             "eventOffer": "monsterisland_calendar"
           },
           {
-            "lotteryProductType": "怪兽岛召唤",
+            "lotteryProductType": "Monster Island Summon",
             "id": "MonsterIsland2_13_8_2024",
             "productId": "lottery_monster_island_default",
             "startDate": "2024-08-13 07:00:00",
@@ -106552,7 +106942,7 @@
             "eventOffer": "monsterisland_calendar"
           },
           {
-            "lotteryProductType": "怪兽岛召唤",
+            "lotteryProductType": "Monster Island Summon",
             "id": "MonsterIsland2_27_2_2025",
             "productId": "lottery_monster_island_default",
             "startDate": "2025-02-27 07:00:00",
@@ -106566,7 +106956,7 @@
             "eventOffer": "monsterisland_calendar"
           },
           {
-            "lotteryProductType": "怪兽岛召唤",
+            "lotteryProductType": "Monster Island Summon",
             "id": "MonsterIsland2_28_3_2025",
             "productId": "lottery_monster_island_default",
             "startDate": "2200-03-28 07:00:00",
@@ -106602,7 +106992,7 @@
             "skipAutoGeneration": true,
             "lotteryEntries": [
               {
-                "lotteryProductType": "进阶召唤",
+                "lotteryProductType": "Ascension Summon",
                 "id": "lottery_limitbreakitemsummon_2025_3_21",
                 "productId": "lottery_item_limit_break",
                 "startDate": "2025-03-21 07:00:00",
@@ -106610,7 +107000,7 @@
                 "overridden": true
               },
               {
-                "lotteryProductType": "进阶召唤",
+                "lotteryProductType": "Ascension Summon",
                 "id": "lottery_limitbreakitemsummon_2025_3_27",
                 "productId": "lottery_item_limit_break",
                 "startDate": "2025-03-27 07:00:00",
@@ -106618,7 +107008,7 @@
                 "overridden": true
               },
               {
-                "lotteryProductType": "进阶召唤",
+                "lotteryProductType": "Ascension Summon",
                 "id": "lottery_limitbreakitemsummon_2025_4_2",
                 "productId": "lottery_item_limit_break",
                 "startDate": "2025-04-02 07:00:00",
@@ -106626,7 +107016,7 @@
                 "overridden": true
               },
               {
-                "lotteryProductType": "进阶召唤",
+                "lotteryProductType": "Ascension Summon",
                 "id": "lottery_limitbreakitemsummon_2025_4_9",
                 "productId": "lottery_item_limit_break",
                 "startDate": "2025-04-09 07:00:00",
@@ -106634,7 +107024,7 @@
                 "overridden": true
               },
               {
-                "lotteryProductType": "进阶召唤",
+                "lotteryProductType": "Ascension Summon",
                 "id": "lottery_limitbreakitemsummon_2025_4_16",
                 "productId": "lottery_item_limit_break",
                 "startDate": "2025-04-16 07:00:00",
@@ -106642,7 +107032,7 @@
                 "overridden": true
               },
               {
-                "lotteryProductType": "进阶召唤",
+                "lotteryProductType": "Ascension Summon",
                 "id": "lottery_limitbreakitemsummon_2025_4_23",
                 "productId": "lottery_item_limit_break",
                 "startDate": "2025-04-23 07:00:00",
@@ -106650,7 +107040,7 @@
                 "overridden": true
               },
               {
-                "lotteryProductType": "进阶召唤",
+                "lotteryProductType": "Ascension Summon",
                 "id": "lottery_limitbreakitemsummon_2025_4_30",
                 "productId": "lottery_item_limit_break",
                 "startDate": "2025-04-30 07:00:00",
@@ -106658,7 +107048,7 @@
                 "overridden": true
               },
               {
-                "lotteryProductType": "进阶召唤",
+                "lotteryProductType": "Ascension Summon",
                 "id": "lottery_limitbreakitemsummon_2025_5_7",
                 "productId": "lottery_item_limit_break",
                 "startDate": "2025-05-07 07:00:00",
@@ -106666,7 +107056,7 @@
                 "overridden": true
               },
               {
-                "lotteryProductType": "进阶召唤",
+                "lotteryProductType": "Ascension Summon",
                 "id": "lottery_limitbreakitemsummon_2025_5_14",
                 "productId": "lottery_item_limit_break",
                 "startDate": "2025-05-14 07:00:00",
@@ -106674,7 +107064,7 @@
                 "overridden": true
               },
               {
-                "lotteryProductType": "进阶召唤",
+                "lotteryProductType": "Ascension Summon",
                 "id": "lottery_limitbreakitemsummon_2025_5_21",
                 "productId": "lottery_item_limit_break",
                 "startDate": "2025-05-21 07:00:00",
@@ -106682,7 +107072,7 @@
                 "overridden": true
               },
               {
-                "lotteryProductType": "进阶召唤",
+                "lotteryProductType": "Ascension Summon",
                 "id": "lottery_limitbreakitemsummon_2025_5_28",
                 "productId": "lottery_item_limit_break",
                 "startDate": "2025-05-28 07:00:00",
@@ -106690,7 +107080,7 @@
                 "overridden": true
               },
               {
-                "lotteryProductType": "进阶召唤",
+                "lotteryProductType": "Ascension Summon",
                 "id": "lottery_limitbreakitemsummon_2025_6_4",
                 "productId": "lottery_item_limit_break",
                 "startDate": "2025-06-04 07:00:00",
@@ -106698,7 +107088,7 @@
                 "overridden": true
               },
               {
-                "lotteryProductType": "进阶召唤",
+                "lotteryProductType": "Ascension Summon",
                 "id": "lottery_limitbreakitemsummon_2025_6_11",
                 "productId": "lottery_item_limit_break",
                 "startDate": "2025-06-11 07:00:00",
@@ -106706,7 +107096,7 @@
                 "overridden": true
               },
               {
-                "lotteryProductType": "进阶召唤",
+                "lotteryProductType": "Ascension Summon",
                 "id": "lottery_limitbreakitemsummon_2025_6_18",
                 "productId": "lottery_item_limit_break",
                 "startDate": "2025-06-18 07:00:00",
@@ -106714,7 +107104,7 @@
                 "overridden": true
               },
               {
-                "lotteryProductType": "进阶召唤",
+                "lotteryProductType": "Ascension Summon",
                 "id": "lottery_limitbreakitemsummon_2025_6_25",
                 "productId": "lottery_item_limit_break",
                 "startDate": "2025-06-25 07:00:00",
@@ -106722,7 +107112,7 @@
                 "overridden": true
               },
               {
-                "lotteryProductType": "进阶召唤",
+                "lotteryProductType": "Ascension Summon",
                 "id": "lottery_limitbreakitemsummon_2025_7_30",
                 "productId": "lottery_item_limit_break",
                 "startDate": "2025-07-30 07:00:00",
@@ -106730,7 +107120,7 @@
                 "overridden": true
               },
               {
-                "lotteryProductType": "进阶召唤",
+                "lotteryProductType": "Ascension Summon",
                 "id": "lottery_limitbreakitemsummon_2025_7_2",
                 "productId": "lottery_item_limit_break",
                 "startDate": "2025-07-02 07:00:00",
@@ -106738,7 +107128,7 @@
                 "overridden": true
               },
               {
-                "lotteryProductType": "进阶召唤",
+                "lotteryProductType": "Ascension Summon",
                 "id": "lottery_limitbreakitemsummon_2025_7_9",
                 "productId": "lottery_item_limit_break",
                 "startDate": "2025-07-09 07:00:00",
@@ -106746,7 +107136,7 @@
                 "overridden": true
               },
               {
-                "lotteryProductType": "进阶召唤",
+                "lotteryProductType": "Ascension Summon",
                 "id": "lottery_limitbreakitemsummon_2025_7_23",
                 "productId": "lottery_item_limit_break",
                 "startDate": "2025-07-23 07:00:00",
@@ -106754,7 +107144,7 @@
                 "overridden": true
               },
               {
-                "lotteryProductType": "进阶召唤",
+                "lotteryProductType": "Ascension Summon",
                 "id": "lottery_limitbreakitemsummon_2025_7_16",
                 "productId": "lottery_item_limit_break",
                 "startDate": "2025-07-16 07:00:00",
@@ -106762,7 +107152,7 @@
                 "overridden": true
               },
               {
-                "lotteryProductType": "进阶召唤",
+                "lotteryProductType": "Ascension Summon",
                 "id": "lottery_limitbreakitemsummon_2025_8_6",
                 "productId": "lottery_item_limit_break",
                 "startDate": "2025-08-06 07:00:00",
@@ -106770,7 +107160,7 @@
                 "overridden": true
               },
               {
-                "lotteryProductType": "进阶召唤",
+                "lotteryProductType": "Ascension Summon",
                 "id": "lottery_limitbreakitemsummon_2025_8_13",
                 "productId": "lottery_item_limit_break",
                 "startDate": "2025-08-13 07:00:00",
@@ -106778,7 +107168,7 @@
                 "overridden": true
               },
               {
-                "lotteryProductType": "进阶召唤",
+                "lotteryProductType": "Ascension Summon",
                 "id": "lottery_limitbreakitemsummon_2025_8_20",
                 "productId": "lottery_item_limit_break",
                 "startDate": "2025-08-20 07:00:00",
@@ -106786,7 +107176,7 @@
                 "overridden": true
               },
               {
-                "lotteryProductType": "进阶召唤",
+                "lotteryProductType": "Ascension Summon",
                 "id": "lottery_limitbreakitemsummon_2025_8_27",
                 "productId": "lottery_item_limit_break",
                 "startDate": "2025-08-27 07:00:00",
@@ -106936,7 +107326,7 @@
             "skipAutoGeneration": true,
             "lotteryEntries": [
               {
-                "lotteryProductType": "进阶召唤",
+                "lotteryProductType": "Ascension Summon",
                 "id": "lottery_ascensionitemsummon_2025_3_24",
                 "productId": "lottery_item_ascension",
                 "startDate": "2025-03-24 07:00:00",
@@ -106944,7 +107334,7 @@
                 "overridden": true
               },
               {
-                "lotteryProductType": "进阶召唤",
+                "lotteryProductType": "Ascension Summon",
                 "id": "lottery_ascensionitemsummon_2025_4_5",
                 "productId": "lottery_item_ascension",
                 "startDate": "2025-04-05 07:00:00",
@@ -106952,7 +107342,7 @@
                 "overridden": true
               },
               {
-                "lotteryProductType": "进阶召唤",
+                "lotteryProductType": "Ascension Summon",
                 "id": "lottery_ascensionitemsummon_2025_4_12",
                 "productId": "lottery_item_ascension",
                 "startDate": "2025-04-12 07:00:00",
@@ -106960,7 +107350,7 @@
                 "overridden": true
               },
               {
-                "lotteryProductType": "进阶召唤",
+                "lotteryProductType": "Ascension Summon",
                 "id": "lottery_ascensionitemsummon_2025_4_19",
                 "productId": "lottery_item_ascension",
                 "startDate": "2025-04-19 07:00:00",
@@ -106968,7 +107358,7 @@
                 "overridden": true
               },
               {
-                "lotteryProductType": "进阶召唤",
+                "lotteryProductType": "Ascension Summon",
                 "id": "lottery_ascensionitemsummon_2025_4_26",
                 "productId": "lottery_item_ascension",
                 "startDate": "2025-04-26 07:00:00",
@@ -106976,7 +107366,7 @@
                 "overridden": true
               },
               {
-                "lotteryProductType": "进阶召唤",
+                "lotteryProductType": "Ascension Summon",
                 "id": "lottery_ascensionitemsummon_2025_5_3",
                 "productId": "lottery_item_ascension",
                 "startDate": "2025-05-03 07:00:00",
@@ -106984,7 +107374,7 @@
                 "overridden": true
               },
               {
-                "lotteryProductType": "进阶召唤",
+                "lotteryProductType": "Ascension Summon",
                 "id": "lottery_ascensionitemsummon_2025_5_10",
                 "productId": "lottery_item_ascension",
                 "startDate": "2025-05-10 07:00:00",
@@ -106992,7 +107382,7 @@
                 "overridden": true
               },
               {
-                "lotteryProductType": "进阶召唤",
+                "lotteryProductType": "Ascension Summon",
                 "id": "lottery_ascensionitemsummon_2025_5_17",
                 "productId": "lottery_item_ascension",
                 "startDate": "2025-05-17 07:00:00",
@@ -107000,7 +107390,7 @@
                 "overridden": true
               },
               {
-                "lotteryProductType": "进阶召唤",
+                "lotteryProductType": "Ascension Summon",
                 "id": "lottery_ascensionitemsummon_2025_5_24",
                 "productId": "lottery_item_ascension",
                 "startDate": "2025-05-24 07:00:00",
@@ -107008,7 +107398,7 @@
                 "overridden": true
               },
               {
-                "lotteryProductType": "进阶召唤",
+                "lotteryProductType": "Ascension Summon",
                 "id": "lottery_ascensionitemsummon_2025_5_31",
                 "productId": "lottery_item_ascension",
                 "startDate": "2025-05-31 07:00:00",
@@ -107016,7 +107406,7 @@
                 "overridden": true
               },
               {
-                "lotteryProductType": "进阶召唤",
+                "lotteryProductType": "Ascension Summon",
                 "id": "lottery_ascensionitemsummon_2025_6_7",
                 "productId": "lottery_item_ascension",
                 "startDate": "2025-06-07 07:00:00",
@@ -107024,7 +107414,7 @@
                 "overridden": true
               },
               {
-                "lotteryProductType": "进阶召唤",
+                "lotteryProductType": "Ascension Summon",
                 "id": "lottery_ascensionitemsummon_2025_6_14",
                 "productId": "lottery_item_ascension",
                 "startDate": "2025-06-14 07:00:00",
@@ -107032,7 +107422,7 @@
                 "overridden": true
               },
               {
-                "lotteryProductType": "进阶召唤",
+                "lotteryProductType": "Ascension Summon",
                 "id": "lottery_ascensionitemsummon_2025_6_21",
                 "productId": "lottery_item_ascension",
                 "startDate": "2025-06-21 07:00:00",
@@ -107040,7 +107430,7 @@
                 "overridden": true
               },
               {
-                "lotteryProductType": "进阶召唤",
+                "lotteryProductType": "Ascension Summon",
                 "id": "lottery_ascensionitemsummon_2025_6_281",
                 "productId": "lottery_item_ascension",
                 "startDate": "2025-06-28 07:00:00",
@@ -107048,7 +107438,7 @@
                 "overridden": true
               },
               {
-                "lotteryProductType": "进阶召唤",
+                "lotteryProductType": "Ascension Summon",
                 "id": "lottery_ascensionitemsummon_2025_7_5",
                 "productId": "lottery_item_ascension",
                 "startDate": "2025-07-05 07:00:00",
@@ -107056,7 +107446,7 @@
                 "overridden": true
               },
               {
-                "lotteryProductType": "进阶召唤",
+                "lotteryProductType": "Ascension Summon",
                 "id": "lottery_ascensionitemsummon_2025_7_12",
                 "productId": "lottery_item_ascension",
                 "startDate": "2025-07-12 07:00:00",
@@ -107064,7 +107454,7 @@
                 "overridden": true
               },
               {
-                "lotteryProductType": "进阶召唤",
+                "lotteryProductType": "Ascension Summon",
                 "id": "lottery_ascensionitemsummon_2025_7_19",
                 "productId": "lottery_item_ascension",
                 "startDate": "2025-07-19 07:00:00",
@@ -107072,7 +107462,7 @@
                 "overridden": true
               },
               {
-                "lotteryProductType": "进阶召唤",
+                "lotteryProductType": "Ascension Summon",
                 "id": "lottery_ascensionitemsummon_2025_7_26",
                 "productId": "lottery_item_ascension",
                 "startDate": "2025-07-26 07:00:00",
@@ -107080,7 +107470,7 @@
                 "overridden": true
               },
               {
-                "lotteryProductType": "进阶召唤",
+                "lotteryProductType": "Ascension Summon",
                 "id": "lottery_ascensionitemsummon_2025_8_2",
                 "productId": "lottery_item_ascension",
                 "startDate": "2025-08-02 07:00:00",
@@ -107088,7 +107478,7 @@
                 "overridden": true
               },
               {
-                "lotteryProductType": "进阶召唤",
+                "lotteryProductType": "Ascension Summon",
                 "id": "lottery_ascensionitemsummon_2025_8_16",
                 "productId": "lottery_item_ascension",
                 "startDate": "2025-08-16 07:00:00",
@@ -107096,7 +107486,7 @@
                 "overridden": true
               },
               {
-                "lotteryProductType": "进阶召唤",
+                "lotteryProductType": "Ascension Summon",
                 "id": "lottery_ascensionitemsummon_2025_8_9",
                 "productId": "lottery_item_ascension",
                 "startDate": "2025-08-09 07:00:00",
@@ -107104,7 +107494,7 @@
                 "overridden": true
               },
               {
-                "lotteryProductType": "进阶召唤",
+                "lotteryProductType": "Ascension Summon",
                 "id": "lottery_ascensionitemsummon_2025_8_23",
                 "productId": "lottery_item_ascension",
                 "startDate": "2025-08-23 07:00:00",
@@ -107112,7 +107502,7 @@
                 "overridden": true
               },
               {
-                "lotteryProductType": "进阶召唤",
+                "lotteryProductType": "Ascension Summon",
                 "id": "lottery_ascensionitemsummon_2025_8_30",
                 "productId": "lottery_item_ascension",
                 "startDate": "2025-08-30 07:00:00",
@@ -108347,7 +108737,7 @@
         "enabled": true,
         "lotteryEntries": [
           {
-            "lotteryProductType": "节选召唤",
+            "lotteryProductType": "Pick Up Summon",
             "id": "pickup_summon_09_1525",
             "productId": "lottery_pickup_default",
             "startDate": "2025-05-15 07:00:00",
@@ -108359,7 +108749,7 @@
             "extraHeroesPoolId": "default"
           },
           {
-            "lotteryProductType": "节选召唤",
+            "lotteryProductType": "Pick Up Summon",
             "id": "pickup_summon_050725",
             "productId": "lottery_pickup_default",
             "startDate": "2025-05-07 07:00:00",
@@ -108372,7 +108762,7 @@
             "adSummonEnabled": true
           },
           {
-            "lotteryProductType": "节选召唤",
+            "lotteryProductType": "Pick Up Summon",
             "id": "pickup_summon_040625",
             "productId": "lottery_pickup_default",
             "startDate": "2025-04-06 07:00:00",
@@ -108385,7 +108775,7 @@
             "adSummonEnabled": true
           },
           {
-            "lotteryProductType": "节选召唤",
+            "lotteryProductType": "Pick Up Summon",
             "id": "pickup_summon_120725",
             "productId": "lottery_pickup_default",
             "startDate": "2025-01-07 07:00:00",
@@ -108398,7 +108788,7 @@
             "adSummonEnabled": true
           },
           {
-            "lotteryProductType": "节选召唤",
+            "lotteryProductType": "Pick Up Summon",
             "id": "pickup_summon111324",
             "productId": "lottery_pickup_default",
             "startDate": "2024-10-31 07:00:00",
@@ -108411,7 +108801,7 @@
             "adSummonEnabled": true
           },
           {
-            "lotteryProductType": "节选召唤",
+            "lotteryProductType": "Pick Up Summon",
             "id": "pickup_summon_092424",
             "productId": "lottery_pickup_default",
             "startDate": "2024-09-24 07:00:00",
@@ -108424,7 +108814,7 @@
             "adSummonEnabled": true
           },
           {
-            "lotteryProductType": "节选召唤",
+            "lotteryProductType": "Pick Up Summon",
             "id": "pickup_summon_073024",
             "productId": "lottery_pickup_default",
             "startDate": "2024-07-30 07:00:00",
@@ -108437,7 +108827,7 @@
             "adSummonEnabled": true
           },
           {
-            "lotteryProductType": "节选召唤",
+            "lotteryProductType": "Pick Up Summon",
             "id": "pickup_summon_072524",
             "productId": "lottery_pickup_default",
             "startDate": "2024-07-25 07:00:00",
@@ -108450,7 +108840,7 @@
             "adSummonEnabled": true
           },
           {
-            "lotteryProductType": "节选召唤",
+            "lotteryProductType": "Pick Up Summon",
             "id": "pickup_summon_062824",
             "productId": "lottery_pickup_default",
             "startDate": "2024-06-28 07:00:00",
@@ -108463,7 +108853,7 @@
             "adSummonEnabled": true
           },
           {
-            "lotteryProductType": "节选召唤",
+            "lotteryProductType": "Pick Up Summon",
             "id": "pickup_summon_041424",
             "productId": "lottery_pickup_default",
             "startDate": "2024-04-14 07:00:00",
@@ -108476,7 +108866,7 @@
             "adSummonEnabled": true
           },
           {
-            "lotteryProductType": "节选召唤",
+            "lotteryProductType": "Pick Up Summon",
             "id": "pickup_summon_301224",
             "productId": "lottery_pickup_default",
             "startDate": "2024-01-30 07:00:00",
@@ -108489,7 +108879,7 @@
             "adSummonEnabled": true
           },
           {
-            "lotteryProductType": "节选召唤",
+            "lotteryProductType": "Pick Up Summon",
             "id": "pickup_summon_050324",
             "productId": "lottery_pickup_default",
             "startDate": "2024-03-05 07:00:00",
@@ -108501,7 +108891,7 @@
             "extraHeroesPoolId": "default"
           },
           {
-            "lotteryProductType": "节选召唤",
+            "lotteryProductType": "Pick Up Summon",
             "id": "pickup_summon_140324",
             "productId": "lottery_pickup_default",
             "startDate": "2024-03-14 07:00:00",
@@ -108514,7 +108904,7 @@
             "adSummonEnabled": true
           },
           {
-            "lotteryProductType": "节选召唤",
+            "lotteryProductType": "Pick Up Summon",
             "id": "pickup_summon_220324",
             "productId": "lottery_pickup_default",
             "startDate": "2024-03-22 07:00:00",
@@ -108527,7 +108917,7 @@
             "adSummonEnabled": true
           },
           {
-            "lotteryProductType": "节选召唤",
+            "lotteryProductType": "Pick Up Summon",
             "id": "pickup_summon_190324",
             "productId": "lottery_pickup_default",
             "startDate": "2024-03-19 07:00:00",
@@ -108539,7 +108929,7 @@
             "extraHeroesPoolId": "default"
           },
           {
-            "lotteryProductType": "节选召唤",
+            "lotteryProductType": "Pick Up Summon",
             "id": "pickup_summon_040424",
             "productId": "lottery_pickup_default",
             "startDate": "2024-04-04 07:00:00",
@@ -108552,7 +108942,7 @@
             "adSummonEnabled": true
           },
           {
-            "lotteryProductType": "节选召唤",
+            "lotteryProductType": "Pick Up Summon",
             "id": "pickup_summon_040824",
             "productId": "lottery_pickup_default",
             "startDate": "2024-04-08 07:00:00",
@@ -108564,7 +108954,7 @@
             "extraHeroesPoolId": "default"
           },
           {
-            "lotteryProductType": "节选召唤",
+            "lotteryProductType": "Pick Up Summon",
             "id": "pickup_summon_0402324",
             "productId": "lottery_pickup_default",
             "startDate": "2024-04-23 07:00:00",
@@ -108577,7 +108967,7 @@
             "adSummonEnabled": true
           },
           {
-            "lotteryProductType": "节选召唤",
+            "lotteryProductType": "Pick Up Summon",
             "id": "pickup_summon_050224",
             "productId": "lottery_pickup_default",
             "startDate": "2024-05-02 07:00:00",
@@ -108590,7 +108980,7 @@
             "adSummonEnabled": true
           },
           {
-            "lotteryProductType": "节选召唤",
+            "lotteryProductType": "Pick Up Summon",
             "id": "pickup_summon_051324",
             "productId": "lottery_pickup_default",
             "startDate": "2024-05-13 07:00:00",
@@ -108603,7 +108993,7 @@
             "adSummonEnabled": true
           },
           {
-            "lotteryProductType": "节选召唤",
+            "lotteryProductType": "Pick Up Summon",
             "id": "pickup_summon_052124",
             "productId": "lottery_pickup_default",
             "startDate": "2024-05-21 07:00:00",
@@ -108616,7 +109006,7 @@
             "adSummonEnabled": true
           },
           {
-            "lotteryProductType": "节选召唤",
+            "lotteryProductType": "Pick Up Summon",
             "id": "pickup_summon_060424",
             "productId": "lottery_pickup_default",
             "startDate": "2024-06-04 07:00:00",
@@ -108629,7 +109019,7 @@
             "adSummonEnabled": true
           },
           {
-            "lotteryProductType": "节选召唤",
+            "lotteryProductType": "Pick Up Summon",
             "id": "pickup_summon_061124",
             "productId": "lottery_pickup_default",
             "startDate": "2024-06-11 07:00:00",
@@ -108642,7 +109032,7 @@
             "adSummonEnabled": true
           },
           {
-            "lotteryProductType": "节选召唤",
+            "lotteryProductType": "Pick Up Summon",
             "id": "pickup_summon_062124",
             "productId": "lottery_pickup_default",
             "startDate": "2024-06-21 07:00:00",
@@ -108655,7 +109045,7 @@
             "adSummonEnabled": true
           },
           {
-            "lotteryProductType": "节选召唤",
+            "lotteryProductType": "Pick Up Summon",
             "id": "pickup_summon_070224",
             "productId": "lottery_pickup_default",
             "startDate": "2024-07-02 07:00:00",
@@ -108668,7 +109058,7 @@
             "adSummonEnabled": true
           },
           {
-            "lotteryProductType": "节选召唤",
+            "lotteryProductType": "Pick Up Summon",
             "id": "pickup_summon_070524",
             "productId": "lottery_pickup_default",
             "startDate": "2024-07-05 10:00:00",
@@ -108680,7 +109070,7 @@
             "extraHeroesPoolId": "default"
           },
           {
-            "lotteryProductType": "节选召唤",
+            "lotteryProductType": "Pick Up Summon",
             "id": "pickup_summon_071024",
             "productId": "lottery_pickup_default",
             "startDate": "2024-07-10 12:00:00",
@@ -108692,7 +109082,7 @@
             "extraHeroesPoolId": "default"
           },
           {
-            "lotteryProductType": "节选召唤",
+            "lotteryProductType": "Pick Up Summon",
             "id": "pickup_summon_083024",
             "productId": "lottery_pickup_default",
             "startDate": "2024-08-30 07:00:00",
@@ -108705,7 +109095,7 @@
             "adSummonEnabled": true
           },
           {
-            "lotteryProductType": "节选召唤",
+            "lotteryProductType": "Pick Up Summon",
             "id": "pickup_summon_091624",
             "productId": "lottery_pickup_default",
             "startDate": "2024-09-20 07:00:00",
@@ -108718,7 +109108,7 @@
             "adSummonEnabled": true
           },
           {
-            "lotteryProductType": "节选召唤",
+            "lotteryProductType": "Pick Up Summon",
             "id": "pickup_summon_101324",
             "productId": "lottery_pickup_default",
             "startDate": "2024-10-13 07:00:00",
@@ -108730,7 +109120,7 @@
             "extraHeroesPoolId": "default"
           },
           {
-            "lotteryProductType": "节选召唤",
+            "lotteryProductType": "Pick Up Summon",
             "id": "pickup_summon_101824",
             "productId": "lottery_pickup_default",
             "startDate": "2024-10-18 07:00:00",
@@ -108742,7 +109132,7 @@
             "extraHeroesPoolId": "default"
           },
           {
-            "lotteryProductType": "节选召唤",
+            "lotteryProductType": "Pick Up Summon",
             "id": "pickup_summon_103124",
             "productId": "lottery_pickup_default",
             "startDate": "2024-11-13 07:00:00",
@@ -108755,7 +109145,7 @@
             "adSummonEnabled": true
           },
           {
-            "lotteryProductType": "节选召唤",
+            "lotteryProductType": "Pick Up Summon",
             "id": "pickup_summon_110524",
             "productId": "lottery_pickup_default",
             "startDate": "2024-11-09 07:00:00",
@@ -108768,7 +109158,7 @@
             "adSummonEnabled": true
           },
           {
-            "lotteryProductType": "节选召唤",
+            "lotteryProductType": "Pick Up Summon",
             "id": "pickup_summon_111124",
             "productId": "lottery_pickup_default",
             "startDate": "2024-11-22 07:00:00",
@@ -108781,7 +109171,7 @@
             "adSummonEnabled": true
           },
           {
-            "lotteryProductType": "节选召唤",
+            "lotteryProductType": "Pick Up Summon",
             "id": "pickup_summon_111224",
             "productId": "lottery_pickup_default",
             "startDate": "2024-12-11 07:00:00",
@@ -108794,7 +109184,7 @@
             "adSummonEnabled": true
           },
           {
-            "lotteryProductType": "节选召唤",
+            "lotteryProductType": "Pick Up Summon",
             "id": "pickup_summon_112824",
             "productId": "lottery_pickup_default",
             "startDate": "2024-11-28 07:00:00",
@@ -108807,7 +109197,7 @@
             "adSummonEnabled": true
           },
           {
-            "lotteryProductType": "节选召唤",
+            "lotteryProductType": "Pick Up Summon",
             "id": "pickup_summon_121424",
             "productId": "lottery_pickup_default",
             "startDate": "2024-12-14 07:00:00",
@@ -108820,7 +109210,7 @@
             "adSummonEnabled": true
           },
           {
-            "lotteryProductType": "节选召唤",
+            "lotteryProductType": "Pick Up Summon",
             "id": "pickup_summon_122624",
             "productId": "lottery_pickup_default",
             "startDate": "2024-12-26 07:00:00",
@@ -108833,7 +109223,7 @@
             "adSummonEnabled": true
           },
           {
-            "lotteryProductType": "节选召唤",
+            "lotteryProductType": "Pick Up Summon",
             "id": "pickup_summon_12825",
             "productId": "lottery_pickup_default",
             "startDate": "2025-01-28 07:00:00",
@@ -108846,7 +109236,7 @@
             "adSummonEnabled": true
           },
           {
-            "lotteryProductType": "节选召唤",
+            "lotteryProductType": "Pick Up Summon",
             "id": "pickup_summon_020825",
             "productId": "lottery_pickup_default",
             "startDate": "2025-02-08 07:00:00",
@@ -108859,7 +109249,7 @@
             "adSummonEnabled": true
           },
           {
-            "lotteryProductType": "节选召唤",
+            "lotteryProductType": "Pick Up Summon",
             "id": "pickup_summon_022625",
             "productId": "lottery_pickup_default",
             "startDate": "2025-02-25 07:00:00",
@@ -108871,7 +109261,7 @@
             "extraHeroesPoolId": "default"
           },
           {
-            "lotteryProductType": "节选召唤",
+            "lotteryProductType": "Pick Up Summon",
             "id": "pickup_summon_031225",
             "productId": "lottery_pickup_default",
             "startDate": "2025-03-12 07:00:00",
@@ -108883,7 +109273,7 @@
             "extraHeroesPoolId": "default"
           },
           {
-            "lotteryProductType": "节选召唤",
+            "lotteryProductType": "Pick Up Summon",
             "id": "pickup_summon_031625",
             "productId": "lottery_pickup_default",
             "startDate": "2025-03-16 07:00:00",
@@ -108895,7 +109285,7 @@
             "extraHeroesPoolId": "default"
           },
           {
-            "lotteryProductType": "节选召唤",
+            "lotteryProductType": "Pick Up Summon",
             "id": "pickup_summon_032525",
             "productId": "lottery_pickup_default",
             "startDate": "2025-03-25 10:30:00",
@@ -108907,7 +109297,7 @@
             "extraHeroesPoolId": "default"
           },
           {
-            "lotteryProductType": "节选召唤",
+            "lotteryProductType": "Pick Up Summon",
             "id": "pickup_summon_033125",
             "productId": "lottery_pickup_default",
             "startDate": "2025-04-01 07:00:00",
@@ -108919,7 +109309,7 @@
             "extraHeroesPoolId": "default"
           },
           {
-            "lotteryProductType": "节选召唤",
+            "lotteryProductType": "Pick Up Summon",
             "id": "pickup_summon_040425",
             "productId": "lottery_pickup_default",
             "startDate": "2025-04-04 07:00:00",
@@ -108932,7 +109322,7 @@
             "adSummonEnabled": true
           },
           {
-            "lotteryProductType": "节选召唤",
+            "lotteryProductType": "Pick Up Summon",
             "id": "pickup_summon_04_1325",
             "productId": "lottery_pickup_default",
             "startDate": "2025-04-13 07:00:00",
@@ -108945,7 +109335,7 @@
             "adSummonEnabled": true
           },
           {
-            "lotteryProductType": "节选召唤",
+            "lotteryProductType": "Pick Up Summon",
             "id": "pickup_summon_test",
             "productId": "lottery_pickup_default",
             "startDate": "2025-04-18 07:00:00",
@@ -108957,7 +109347,7 @@
             "extraHeroesPoolId": "default"
           },
           {
-            "lotteryProductType": "节选召唤",
+            "lotteryProductType": "Pick Up Summon",
             "id": "pickup_summon_04_27",
             "productId": "lottery_pickup_default",
             "startDate": "2025-04-27 07:00:00",
@@ -108970,7 +109360,7 @@
             "adSummonEnabled": true
           },
           {
-            "lotteryProductType": "节选召唤",
+            "lotteryProductType": "Pick Up Summon",
             "id": "pickup_summon_050325",
             "productId": "lottery_pickup_default",
             "startDate": "2025-05-03 07:00:00",
@@ -108982,7 +109372,7 @@
             "extraHeroesPoolId": "default"
           },
           {
-            "lotteryProductType": "节选召唤",
+            "lotteryProductType": "Pick Up Summon",
             "id": "pickup_summon_052125",
             "productId": "lottery_pickup_default",
             "startDate": "2025-05-21 07:00:00",
@@ -108995,7 +109385,7 @@
             "adSummonEnabled": true
           },
           {
-            "lotteryProductType": "节选召唤",
+            "lotteryProductType": "Pick Up Summon",
             "id": "pickup_summon_09_0525",
             "productId": "lottery_pickup_default",
             "startDate": "2025-05-09 09:30:00",
@@ -109007,7 +109397,7 @@
             "extraHeroesPoolId": "default"
           },
           {
-            "lotteryProductType": "节选召唤",
+            "lotteryProductType": "Pick Up Summon",
             "id": "pickup_summon_200525",
             "productId": "lottery_pickup_default",
             "startDate": "2025-05-20 11:30:00",
@@ -109019,7 +109409,7 @@
             "extraHeroesPoolId": "default"
           },
           {
-            "lotteryProductType": "节选召唤",
+            "lotteryProductType": "Pick Up Summon",
             "id": "pickup_summon_280525",
             "productId": "lottery_pickup_default",
             "startDate": "2025-05-28 07:00:00",
@@ -109031,7 +109421,7 @@
             "extraHeroesPoolId": "default"
           },
           {
-            "lotteryProductType": "节选召唤",
+            "lotteryProductType": "Pick Up Summon",
             "id": "pickup_summon310525",
             "productId": "lottery_pickup_default",
             "startDate": "2025-05-31 07:00:00",
@@ -109043,7 +109433,7 @@
             "extraHeroesPoolId": "default"
           },
           {
-            "lotteryProductType": "节选召唤",
+            "lotteryProductType": "Pick Up Summon",
             "id": "pickup_summon_050625",
             "productId": "lottery_pickup_default",
             "startDate": "2025-06-05 12:00:00",
@@ -109055,7 +109445,7 @@
             "extraHeroesPoolId": "default"
           },
           {
-            "lotteryProductType": "节选召唤",
+            "lotteryProductType": "Pick Up Summon",
             "id": "pickup_summon_090625",
             "productId": "lottery_pickup_default",
             "startDate": "2025-06-09 12:00:00",
@@ -109068,7 +109458,7 @@
             "adSummonEnabled": true
           },
           {
-            "lotteryProductType": "节选召唤",
+            "lotteryProductType": "Pick Up Summon",
             "id": "pickup_summon_120625",
             "productId": "lottery_pickup_default",
             "startDate": "2025-06-12 12:00:00",
@@ -109080,7 +109470,7 @@
             "extraHeroesPoolId": "default"
           },
           {
-            "lotteryProductType": "节选召唤",
+            "lotteryProductType": "Pick Up Summon",
             "id": "pickup_summon_210625",
             "productId": "lottery_pickup_default",
             "startDate": "2025-06-21 11:00:00",
@@ -109092,7 +109482,7 @@
             "extraHeroesPoolId": "default"
           },
           {
-            "lotteryProductType": "节选召唤",
+            "lotteryProductType": "Pick Up Summon",
             "id": "pickup_summon_290625",
             "productId": "lottery_pickup_default",
             "startDate": "2025-06-29 11:00:00",
@@ -109104,7 +109494,7 @@
             "extraHeroesPoolId": "default"
           },
           {
-            "lotteryProductType": "节选召唤",
+            "lotteryProductType": "Pick Up Summon",
             "id": "pickup_summon_020725",
             "productId": "lottery_pickup_default",
             "startDate": "2025-07-02 10:30:00",
@@ -109116,7 +109506,7 @@
             "extraHeroesPoolId": "default"
           },
           {
-            "lotteryProductType": "节选召唤",
+            "lotteryProductType": "Pick Up Summon",
             "id": "pickup_summon_070725",
             "productId": "lottery_pickup_default",
             "startDate": "2025-07-07 11:00:00",
@@ -109128,7 +109518,7 @@
             "extraHeroesPoolId": "default"
           },
           {
-            "lotteryProductType": "节选召唤",
+            "lotteryProductType": "Pick Up Summon",
             "id": "pickup_summon_071225",
             "productId": "lottery_pickup_default",
             "startDate": "2025-07-12 07:00:00",
@@ -109140,7 +109530,7 @@
             "extraHeroesPoolId": "default"
           },
           {
-            "lotteryProductType": "节选召唤",
+            "lotteryProductType": "Pick Up Summon",
             "id": "pickup_summon_071425",
             "productId": "lottery_pickup_default",
             "startDate": "2025-07-14 12:00:00",
@@ -109153,7 +109543,7 @@
             "adSummonEnabled": true
           },
           {
-            "lotteryProductType": "节选召唤",
+            "lotteryProductType": "Pick Up Summon",
             "id": "pickup_summon_071725",
             "productId": "lottery_pickup_default",
             "startDate": "2025-07-17 10:30:00",
@@ -109165,7 +109555,7 @@
             "extraHeroesPoolId": "default"
           },
           {
-            "lotteryProductType": "节选召唤",
+            "lotteryProductType": "Pick Up Summon",
             "id": "pickup_summon_072025",
             "productId": "lottery_pickup_default",
             "startDate": "2025-07-20 10:00:00",
@@ -109178,7 +109568,7 @@
             "adSummonEnabled": true
           },
           {
-            "lotteryProductType": "节选召唤",
+            "lotteryProductType": "Pick Up Summon",
             "id": "pickup_summon_072225",
             "productId": "lottery_pickup_default",
             "startDate": "2025-07-22 10:30:00",
@@ -109191,7 +109581,7 @@
             "adSummonEnabled": true
           },
           {
-            "lotteryProductType": "节选召唤",
+            "lotteryProductType": "Pick Up Summon",
             "id": "pickup_summon_081525",
             "productId": "lottery_pickup_default",
             "startDate": "2025-08-15 09:00:00",
@@ -109219,7 +109609,7 @@
         "enabled": true,
         "lotteryEntries": [
           {
-            "lotteryProductType": "传奇队伍召唤",
+            "lotteryProductType": "Legendary Troop Summon",
             "id": "lottery_legendary_troop_sorcerer_ranger",
             "productId": "lottery_legendary_troop_default",
             "startDate": "2025-03-11 07:00:00",
@@ -109287,7 +109677,7 @@
             }
           },
           {
-            "lotteryProductType": "传奇队伍召唤",
+            "lotteryProductType": "Legendary Troop Summon",
             "id": "lottery_legendary_troop_sorcerer_ranger1",
             "productId": "lottery_legendary_troop_default",
             "startDate": "2025-03-28 07:00:00",
@@ -109355,7 +109745,7 @@
             }
           },
           {
-            "lotteryProductType": "传奇队伍召唤",
+            "lotteryProductType": "Legendary Troop Summon",
             "id": "lottery_legendary_troop_fighter_rogue",
             "productId": "lottery_legendary_troop_default",
             "startDate": "2025-04-10 07:00:00",
@@ -109423,7 +109813,7 @@
             }
           },
           {
-            "lotteryProductType": "传奇队伍召唤",
+            "lotteryProductType": "Legendary Troop Summon",
             "id": "lottery_legendary_troop_fighter_rogue1",
             "productId": "lottery_legendary_troop_default",
             "startDate": "2025-04-24 07:00:00",
@@ -109491,7 +109881,7 @@
             }
           },
           {
-            "lotteryProductType": "传奇队伍召唤",
+            "lotteryProductType": "Legendary Troop Summon",
             "id": "lottery_legendary_troop_ranger_sorcerer",
             "productId": "lottery_legendary_troop_default",
             "startDate": "2025-05-12 07:00:00",
@@ -109559,7 +109949,7 @@
             }
           },
           {
-            "lotteryProductType": "传奇队伍召唤",
+            "lotteryProductType": "Legendary Troop Summon",
             "id": "lottery_legendary_troop_ranger_sorcerer1",
             "productId": "lottery_legendary_troop_default",
             "startDate": "2025-05-28 07:00:00",
@@ -109627,7 +110017,7 @@
             }
           },
           {
-            "lotteryProductType": "传奇队伍召唤",
+            "lotteryProductType": "Legendary Troop Summon",
             "id": "lottery_legendary_troop_barbarian_monk",
             "productId": "lottery_legendary_troop_default",
             "startDate": "2025-06-11 07:00:00",
@@ -109695,7 +110085,7 @@
             }
           },
           {
-            "lotteryProductType": "传奇队伍召唤",
+            "lotteryProductType": "Legendary Troop Summon",
             "id": "lottery_legendary_troop_barbarian_monk1",
             "productId": "lottery_legendary_troop_default",
             "startDate": "2025-06-26 07:00:00",
@@ -109763,7 +110153,7 @@
             }
           },
           {
-            "lotteryProductType": "传奇队伍召唤",
+            "lotteryProductType": "Legendary Troop Summon",
             "id": "lottery_legendary_troop_cleric_paladin",
             "productId": "lottery_legendary_troop_default",
             "startDate": "2025-07-09 07:00:00",
@@ -109831,7 +110221,7 @@
             }
           },
           {
-            "lotteryProductType": "传奇队伍召唤",
+            "lotteryProductType": "Legendary Troop Summon",
             "id": "lottery_legendary_troop_cleric_paladin1",
             "productId": "lottery_legendary_troop_default",
             "startDate": "2025-07-27 07:00:00",
@@ -109899,7 +110289,7 @@
             }
           },
           {
-            "lotteryProductType": "传奇队伍召唤",
+            "lotteryProductType": "Legendary Troop Summon",
             "id": "lottery_legendary_troop_rogue_fighter",
             "productId": "lottery_legendary_troop_default",
             "startDate": "2025-08-11 07:00:00",
@@ -109967,7 +110357,7 @@
             }
           },
           {
-            "lotteryProductType": "传奇队伍召唤",
+            "lotteryProductType": "Legendary Troop Summon",
             "id": "lottery_legendary_troop_rogue_fighter2",
             "productId": "lottery_legendary_troop_default",
             "startDate": "2025-08-25 07:00:00",
@@ -110035,7 +110425,7 @@
             }
           },
           {
-            "lotteryProductType": "传奇队伍召唤",
+            "lotteryProductType": "Legendary Troop Summon",
             "id": "lottery_legendary_troop_druid_wizard",
             "productId": "lottery_legendary_troop_default",
             "startDate": "2025-09-10 07:00:00",
@@ -110109,7 +110499,7 @@
         "enabled": false,
         "lotteryEntries": [
           {
-            "lotteryProductType": "英雄锦标赛召唤",
+            "lotteryProductType": "Hero League Summon",
             "id": "league_3_6_2024",
             "productId": "lottery_league_default",
             "startDate": "2024-06-03 07:00:00",
@@ -110125,7 +110515,7 @@
             ]
           },
           {
-            "lotteryProductType": "英雄锦标赛召唤",
+            "lotteryProductType": "Hero League Summon",
             "id": "league_5_8_2024",
             "productId": "lottery_league_default",
             "startDate": "2024-08-05 07:00:00",
@@ -110985,5 +111375,5 @@
       }
     ]
   },
-  "shopConfigId": 2965928131
+  "shopConfigId": 2682960843
 }

@@ -28468,8 +28468,8 @@
     "aetherGift": "Mana Boost",
     "rarity": 5,
     "specialId": "无尽匕首",
-    "canBeReceivedDate": "2025-09-01 07:00:00",
-    "origin": "MonthlyHeroSeptember2025"
+    "canBeReceivedDate": "2025-10-01 07:00:00",
+    "origin": "MonthlyHeroOctober2025"
   },
   "moth_auricarc": {
     "id": "奥瑞卡克",
@@ -28505,8 +28505,8 @@
     "aetherGift": "Rage",
     "rarity": 5,
     "specialId": "光之利斧",
-    "canBeReceivedDate": "2025-10-01 07:00:00",
-    "origin": "MonthlyHeroOctober2025"
+    "canBeReceivedDate": "2025-09-01 07:00:00",
+    "origin": "MonthlyHeroSeptember2025"
   },
   "slime_fruitio": {
     "id": "弗鲁提奥",

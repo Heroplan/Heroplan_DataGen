@@ -68,6 +68,16 @@ hero_name_corrections = {
     # 在这里继续添加其他需要纠正的英雄名字
 }
 
+# --- [新增] family修正字典 ---
+family_corrections = {
+    "zodiac_dragon": "zodiac",
+    "zodiac_ox": "zodiac",
+    "zodiac_rabbit": "zodiac",
+    "zodiac_rat": "zodiac",
+    "zodiac_snake": "zodiac",
+    "zodiac_tiger": "zodiac",
+}
+
 typo_corrections = {
     "Racoon Bite": "Raccoon Bite", "Slash of the four Blades": "Slash of Four Blades",
     "Enchanted Symptony": "Enchanted Symphony", "Veridant Minor": "Verdant Mirror",
@@ -529,25 +539,29 @@ def generate_js_data_with_translation(heroes_base_dir, output_path_cn, output_pa
                 hero_name_raw = corrected_name
             
             processed_hero_names.add(normalize_for_hero_name(hero_name_raw))
-            hero_family = hero_data.get('family')
+            
+            # --- 从 heroes_data_extra.js 获取 family 并应用修正 ---
+            extra = heroes_extra_lookup.get(normalize_for_hero_name(hero_name_raw), {})
+            hero_family = extra.get('family', '')
+            hero_family = family_corrections.get(hero_family, hero_family) # <--- 应用修正
+            
             source_to_translate = hero_data.get('source')
             
             if hero_family == 'slime': source_to_translate = 'superelemental'
             elif hero_family == 'opera': source_to_translate = 'opera'
-            elif hero_family in ['defendersofatlantis', 'nightmaresofatlantis']: source_to_translate = 'untoldtales1'
+            elif hero_family in ['tales1_goodies', 'tales1_baddies']: source_to_translate = 'untoldtales1'
             elif hero_family in ['nidavellir', 'myrkheim']: source_to_translate = 'untoldtales2'
             elif hero_family in ['plainshunter', 'myrkhjunglehuntereim', 'abysshunter', 'junglehunter']: source_to_translate = 'monsterisland'
             elif hero_family in ['fox']: source_to_translate = 'covenant'
-            elif hero_family in ['wildcat']: source_to_translate = 'wilderness'
+            elif hero_family in ['wild_cat']: source_to_translate = 'wilderness'
             elif hero_family in ['beowulf']: source_to_translate = 'beowulf'
-            elif hero_family in ['astralelves', 'astraldwarfs']: source_to_translate = 'astral'
+            elif hero_family in ['astral_elves', 'astral_dwarfs']: source_to_translate = 'astral'
             elif hero_family in ['gargoyle']: source_to_translate = 'gargoyle'
             elif hero_family in ['investigator', 'cultist']: source_to_translate = 'shadow'
             elif hero_family in ['mystery']: source_to_translate = 'tavernoflegendssecret'
-            elif hero_family in ['avalon', 'corellia', 'grimforest', 'guardiansteltoc', 'wonderland']: source_to_translate = 'challengefestival1'
-            elif hero_family in ['villains', 'starfall', 'slayer', 'bard', 'pets']: source_to_translate = 'challengefestival2'
+            elif hero_family in ['knight', 'pirate', 'fable', 'guardian', 'wonderland']: source_to_translate = 'challengefestival1'
+            elif hero_family in ['villains', 'circus', 'slayers', 'bard', 'mighty_pet']: source_to_translate = 'challengefestival2'
 
-            extra = heroes_extra_lookup.get(normalize_for_hero_name(hero_name_raw), {})
             # --- 修改: 检测到缺失时，保存名字、颜色和星级 ---
             if not extra: 
                 missing_extra_info.append({
@@ -585,7 +599,7 @@ def generate_js_data_with_translation(heroes_base_dir, output_path_cn, output_pa
                 'health': hero_data.get('health'), 
                 'effects': formatted_effects, 
                 'passives': flatten_list(hero_data.get('passives', [])), 
-                'family': hero_family, 
+                'family': hero_family,
                 'costume_id': 0, 
                 'originalIndex': original_index_counter
             }
@@ -658,6 +672,10 @@ def generate_js_data_with_translation(heroes_base_dir, output_path_cn, output_pa
                     yml_costume_full_name = f"{hero_name_raw} {final_suffix}".strip()
                     
                     extra_c = heroes_extra_lookup.get(normalize_for_hero_name(yml_costume_full_name), {})
+                    # --- 为皮肤英雄获取 family 并应用修正 ---
+                    costume_family = extra_c.get('family', hero_family)
+                    costume_family = family_corrections.get(costume_family, costume_family) # <--- 应用修正
+                    
                     # --- 修改: 检测到缺失时，保存名字、颜色和星级 ---
                     if not extra_c:
                         missing_extra_info.append({
@@ -695,7 +713,7 @@ def generate_js_data_with_translation(heroes_base_dir, output_path_cn, output_pa
                         'health': costume_data.get('health'), 
                         'effects': formatted_effects_c, 
                         'passives': flatten_list(costume_data.get('passives', [])), 
-                        'family': hero_family, 
+                        'family': costume_family,
                         'costume_id': costume_id, 
                         'originalIndex': original_index_counter
                     }
@@ -774,6 +792,11 @@ def generate_js_data_with_translation(heroes_base_dir, output_path_cn, output_pa
             normalized_name_extra = normalize_for_hero_name(strip_ignorable_suffix(hero_name_raw))
             unmatched_stats_keys.discard(normalized_name_extra)
             current_star = hero_data.get('star', 0)
+            
+            # --- 为附加英雄获取 family 并应用修正 ---
+            hero_family_extra = hero_data.get('family', '')
+            hero_family_extra = family_corrections.get(hero_family_extra, hero_family_extra) # <--- 应用修正
+            
             name_trans = translate_name(hero_name_raw)
             fancy_name_trans = translate_single_value(hero_data.get('fancy_name', ''), 'heroes_name_fancy')
             aether_power_trans = translate_single_value(hero_data.get('AetherPower', ''), 'aether_powers')
@@ -801,7 +824,7 @@ def generate_js_data_with_translation(heroes_base_dir, output_path_cn, output_pa
                 'health': hero_data.get('health'), 
                 'effects': formatted_effects_extra, 
                 'passives': hero_data.get('passives', []), 
-                'family': hero_data.get('family', ''), 
+                'family': hero_family_extra, 
                 'costume_id': hero_data.get('costume_id', 0), 
                 'originalIndex': original_index_counter
             }
@@ -986,14 +1009,14 @@ def append_missing_heroes_to_cn_skill_data(missing_names_list, file_path):
         if not suffix:
             output_key = base_name
         elif normalized_base in SPECIAL_COSTUME_HEROES:
-            if suffix == "Costume1": output_key = f"{base_name} C"
-            elif suffix == "Toon": output_key = f"{base_name} C2"
-            elif suffix == "Glass": output_key = f"{base_name} C3"
+            if suffix == "costume1": output_key = f"{base_name} C"
+            elif suffix == "toon": output_key = f"{base_name} C2"
+            elif suffix == "glass": output_key = f"{base_name} C3"
         else:
-            if suffix == "Costume1": output_key = f"{base_name} C"
-            elif suffix == "Costume2": output_key = f"{base_name} C2"
-            elif suffix == "Toon": output_key = f"{base_name} C3"
-            elif suffix == "Glass": output_key = f"{base_name} C4"
+            if suffix == "costume1": output_key = f"{base_name} C"
+            elif suffix == "costume2": output_key = f"{base_name} C2"
+            elif suffix == "toon": output_key = f"{base_name} C3"
+            elif suffix == "glass": output_key = f"{base_name} C4"
         
         if not output_key:
             logging.warning(f"无法为 '{hero_name_full}' 确定输出键名。已跳过。")

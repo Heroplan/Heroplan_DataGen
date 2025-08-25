@@ -28,7 +28,7 @@ window.allHeroes =
             "Deals 115% damage to all enemies"
         ],
         "passives": [],
-        "family": null,
+        "family": "classic",
         "costume_id": 0,
         "originalIndex": 0,
         "cn_skill_info": []
@@ -61,7 +61,7 @@ window.allHeroes =
             "Deals 275% damage to the target"
         ],
         "passives": [],
-        "family": null,
+        "family": "classic",
         "costume_id": 0,
         "originalIndex": 1,
         "cn_skill_info": []
@@ -94,7 +94,7 @@ window.allHeroes =
             "All allies get +63% defense for 4 turns"
         ],
         "passives": [],
-        "family": null,
+        "family": "classic",
         "costume_id": 0,
         "originalIndex": 2,
         "cn_skill_info": []
@@ -127,7 +127,7 @@ window.allHeroes =
             "Deals 115% damage to all enemies"
         ],
         "passives": [],
-        "family": null,
+        "family": "classic",
         "costume_id": 0,
         "originalIndex": 3,
         "cn_skill_info": []
@@ -160,7 +160,7 @@ window.allHeroes =
             "All allies get +48% attack for 4 turns"
         ],
         "passives": [],
-        "family": null,
+        "family": "classic",
         "costume_id": 0,
         "originalIndex": 4,
         "cn_skill_info": []
@@ -209,7 +209,7 @@ window.allHeroes =
             " * The effects diminish the less Flight Momentum character has.",
             "Weaker Mega Minions: Enemy Mega Minions have -75% HP."
         ],
-        "family": "magiccarpet",
+        "family": "magic_carpet",
         "costume_id": 0,
         "originalIndex": 5,
         "lb1": {
@@ -268,7 +268,7 @@ window.allHeroes =
             "The caster gets -20% attack for 3 turns. This effect can't be cleansed."
         ],
         "passives": [],
-        "family": "springvale",
+        "family": "easter",
         "costume_id": 0,
         "originalIndex": 6,
         "lb1": {
@@ -317,7 +317,7 @@ window.allHeroes =
             "Minions Summoners",
             "Mana Reducers or Blockers"
         ],
-        "source": "Monster Island Summon",
+        "source": "Covenant Summon",
         "Release date": "2022-08-25",
         "specialId": "hunting_ballad",
         "passiveSkills": [
@@ -340,7 +340,7 @@ window.allHeroes =
             "Special Skill Damage Reduction: This character has a 10% chance to drop the direct damage received from Special Skills to 1.",
             "Status effect on Special: When this character casts their Special Skill, they give a Hunter’s Mark on a random enemy. The target receives 150 damage over 3 turns. If a target already has this effect, the duration will be refreshed and the damage will be increased by 150, up to 1500 damage in total."
         ],
-        "family": "plainshunter",
+        "family": "plains_hunter",
         "costume_id": 0,
         "originalIndex": 7,
         "lb1": {
@@ -405,7 +405,7 @@ window.allHeroes =
             "Summons an Elf Minion for each ally with 10% HP and 10% attack inherited from the caster."
         ],
         "passives": [],
-        "family": "christmas",
+        "family": "winter",
         "costume_id": 0,
         "originalIndex": 8,
         "lb1": {
@@ -780,7 +780,7 @@ window.allHeroes =
             "All allies get +94% defense against Nature for 4 turns."
         ],
         "passives": [],
-        "family": "guardiansteltoc",
+        "family": "guardian",
         "costume_id": 0,
         "originalIndex": 14,
         "lb1": {
@@ -1018,7 +1018,7 @@ window.allHeroes =
         "passives": [
             "Increase Buff Duration: Duration of the first 3 buff this hero receives  from Special Skills is increased by 1 turn."
         ],
-        "family": "underwild",
+        "family": "abyss",
         "costume_id": 0,
         "originalIndex": 18,
         "lb1": {
@@ -1082,7 +1082,7 @@ window.allHeroes =
         "passives": [
             "Increase Buff Duration: Duration of the first 3 buff this hero receives  from Special Skills is increased by 1 turn."
         ],
-        "family": "underwild",
+        "family": "abyss",
         "costume_id": 1,
         "originalIndex": 19,
         "lb1": {
@@ -2502,7 +2502,7 @@ window.allHeroes =
             "The more mana the enemies have, the more damage they will receive, up to 400%."
         ],
         "passives": [],
-        "family": "corellia",
+        "family": "pirate",
         "costume_id": 0,
         "originalIndex": 41,
         "lb1": {
@@ -2758,7 +2758,7 @@ window.allHeroes =
             " * Deals 80% damage to all enemies.",
             " * All allies get +21% critical chance for 2 turns."
         ],
-        "family": "defendersofatlantis",
+        "family": "tales1_goodies",
         "costume_id": 0,
         "originalIndex": 45,
         "lb1": {
@@ -2832,7 +2832,7 @@ window.allHeroes =
             " * All allies get +21% critical chance for 2 turns.",
             "Resist Insanity: This character has innate resistance against Insanity."
         ],
-        "family": "defendersofatlantis",
+        "family": "tales1_goodies",
         "costume_id": 1,
         "originalIndex": 46,
         "lb1": {
@@ -3517,7 +3517,7 @@ window.allHeroes =
             "Resist Defense Ailments: This character has innate resistance against status ailments that affect defense. Applies also to status ailments that affect elemental defense.",
             "Cleanse on Minion Death: This character is cleansed of status ailments when Minion owned by them is destroyed. "
         ],
-        "family": "maskedgod",
+        "family": "masquerade",
         "costume_id": 0,
         "originalIndex": 57,
         "lb1": {
@@ -3587,7 +3587,7 @@ window.allHeroes =
         "passives": [
             "Steal Buff: When this character casts their Special Skill, they have a 50% chance to steal the newest dispellable buff from a random enemy that has buffs. If no enemy has buffs, deals 70% damage to all enemies."
         ],
-        "family": "morlovia",
+        "family": "halloween",
         "costume_id": 0,
         "originalIndex": 58,
         "lb1": {
@@ -3661,7 +3661,7 @@ window.allHeroes =
         "passives": [
             "Steal Buff: When this character casts their Special Skill, they have a 50% chance to steal the newest dispellable buff from a random enemy that has buffs. If no enemy has buffs, deals 70% damage to all enemies."
         ],
-        "family": "morlovia",
+        "family": "halloween",
         "costume_id": 1,
         "originalIndex": 59,
         "lb1": {
@@ -3806,7 +3806,7 @@ window.allHeroes =
             "Resist Mana reduction: This character has an innate resistance against Mana Reduction.",
             "Guard Rally: Every 4 turns, removes all Wither effects from all allies."
         ],
-        "family": "garrisonguard",
+        "family": "garrison",
         "costume_id": 0,
         "originalIndex": 61,
         "lb1": {
@@ -4650,7 +4650,7 @@ window.allHeroes =
             "Stacking Heroes",
             "Buffers (ATK)"
         ],
-        "source": "Monster Island Summon",
+        "source": "Monthly Event - Kalevala",
         "Release date": "2023-05-06",
         "specialId": "jungle_riposte",
         "passiveSkills": [
@@ -4672,7 +4672,7 @@ window.allHeroes =
             "Damage over time on special: When this character casts their Special Skill, they give a Hunter`s Mark on a random enemy. The target receives 150 damage over 3 turns. If a target already has this effect, the duration will be refreshed and the damage will be increased by 150, up to 1500 damage in total.",
             "Hunter`s vigor: When this character casts their Special Skill, they get +20% attack for 3 turns. This effect can be active in addition to other effects that alter attack."
         ],
-        "family": "junglehunter",
+        "family": "jungle_hunter",
         "costume_id": 0,
         "originalIndex": 74,
         "lb1": {
@@ -4737,7 +4737,7 @@ window.allHeroes =
             "Passive Skill as defending character: This hero receives less elemental  damage from Troops of stronger element.",
             " - Received elemental damage: -10%"
         ],
-        "family": "superelemental",
+        "family": "super_elemental",
         "costume_id": 0,
         "originalIndex": 75,
         "lb1": {
@@ -5584,7 +5584,7 @@ window.allHeroes =
         "passives": [
             "Steal Buff - When this character casts their Special Skill, they have a 50%  chance to steal the newest dispellable buff from a random enemy that has buffs.  If no enemy has buffs, deals 70% damage to all enemies."
         ],
-        "family": "morlovia",
+        "family": "halloween",
         "costume_id": 0,
         "originalIndex": 88,
         "lb1": {
@@ -5714,7 +5714,7 @@ window.allHeroes =
         "passives": [
             "Increased Special Skill Damage: The first time this character casts a Special Skill that deals damage, an additional 30% is added to its power."
         ],
-        "family": "underwild",
+        "family": "abyss",
         "costume_id": 0,
         "originalIndex": 90,
         "lb1": {
@@ -5778,7 +5778,7 @@ window.allHeroes =
         "passives": [
             "Increased Special Skill Damage: The first time this character casts a Special Skill that deals damage, an additional 30% is added to its power."
         ],
-        "family": "underwild",
+        "family": "abyss",
         "costume_id": 1,
         "originalIndex": 91,
         "lb1": {
@@ -5825,7 +5825,7 @@ window.allHeroes =
             "DoT Attackers",
             "Fiends Summoners"
         ],
-        "source": "Monster Island Summon",
+        "source": "Covenant Summon",
         "Release date": "2022-09-18",
         "specialId": "hunting_charge",
         "passiveSkills": [
@@ -5848,7 +5848,7 @@ window.allHeroes =
             "Special Skill Damage Reduction: This character has a 10% chance to drop the direct damage received from Special Skills to 1.",
             "Damage over time on Special: When this character casts their Special Skill, they give a Hunter’s Mark on a random enemy. The target receives 150 damage over 3 turns. If a target already has this effect, the duration will be refreshed and the damage will be increased by 150, up to 1500 damage in total."
         ],
-        "family": "plainshunter",
+        "family": "plains_hunter",
         "costume_id": 0,
         "originalIndex": 92,
         "lb1": {
@@ -5917,7 +5917,7 @@ window.allHeroes =
             "Element Link recovers 4% health for all Ice allies for 6 turns. This effect can't be cleansed."
         ],
         "passives": [],
-        "family": 2018,
+        "family": "hotm2018",
         "costume_id": 0,
         "originalIndex": 93,
         "lb1": {
@@ -5987,7 +5987,7 @@ window.allHeroes =
         "passives": [
             "Cleanse on Special: When this character casts their Special Skill, they cleanse the newest status ailment from all allies."
         ],
-        "family": 2018,
+        "family": "hotm2018",
         "costume_id": 1,
         "originalIndex": 94,
         "lb1": {
@@ -6185,7 +6185,7 @@ window.allHeroes =
             "Elemental Link gives all Ice allies +5% attack and +5% defense for 6 turns. This effect can't be cleansed"
         ],
         "passives": [],
-        "family": 2018,
+        "family": "hotm2018",
         "costume_id": 0,
         "originalIndex": 97,
         "lb1": {
@@ -6255,7 +6255,7 @@ window.allHeroes =
         "passives": [
             "Cleanse on Special: When this character casts their Special Skill, they cleanse the newest status ailment from all allies."
         ],
-        "family": 2018,
+        "family": "hotm2018",
         "costume_id": 1,
         "originalIndex": 98,
         "lb1": {
@@ -6330,7 +6330,7 @@ window.allHeroes =
             "Resist Healing Ailments: This character has an innate resistance against status ailments that affect Healing.",
             "Health Recovery on Status Ailment Received: This character recovers 10% health when they receive a status ailment or a negative stack."
         ],
-        "family": 2021,
+        "family": "hotm2021",
         "costume_id": 0,
         "originalIndex": 99,
         "lb1": {
@@ -6626,7 +6626,7 @@ window.allHeroes =
             "Passive Skill as defending character: This hero receives less elemental  damage from Troops of stronger element.",
             " - Received elemental damage: -10%"
         ],
-        "family": "superelemental",
+        "family": "super_elemental",
         "costume_id": 0,
         "originalIndex": 103,
         "lb1": {
@@ -6692,7 +6692,7 @@ window.allHeroes =
             "Resist Special Skill Blocking: This character has innate resistance against status ailments that block Special Skills.",
             "Resist Water Damage: This character has innate resistance against Water damage."
         ],
-        "family": 2023,
+        "family": "hotm2023",
         "costume_id": 0,
         "originalIndex": 104,
         "lb1": {
@@ -7069,7 +7069,7 @@ window.allHeroes =
             "Resist Insanity: This character has innate resistance against Insanity.",
             "Resist Attack Reduction: This character has innate resistance against status ailments, stacks and Wither effects that affect attack."
         ],
-        "family": "woodlandfaun",
+        "family": "faun",
         "costume_id": 0,
         "originalIndex": 109,
         "lb1": {
@@ -7143,7 +7143,7 @@ window.allHeroes =
             "Element Link gives all Ice  allies +15% attack and +15% defense for 6 turns. This effect can’t be dispelled."
         ],
         "passives": [],
-        "family": 2017,
+        "family": "hotm2017",
         "costume_id": 0,
         "originalIndex": 110,
         "lb1": {
@@ -7218,7 +7218,7 @@ window.allHeroes =
         "passives": [
             "Dispel on Special Skill: When this character casts their Special Skill, they dispel the newest status effect buff from all enemies."
         ],
-        "family": 2017,
+        "family": "hotm2017",
         "costume_id": 1,
         "originalIndex": 111,
         "lb1": {
@@ -7293,7 +7293,7 @@ window.allHeroes =
             " * Deals 80% damage to all enemies.",
             " * The caster get +19% mana generation for 2 turns."
         ],
-        "family": "nightmaresofatlantis",
+        "family": "tales1_baddies",
         "costume_id": 0,
         "originalIndex": 112,
         "lb1": {
@@ -7378,7 +7378,7 @@ window.allHeroes =
             " * The caster get +19% mana generation for 2 turns.",
             "Resist Insanity: This character has innate resistance against Insanity."
         ],
-        "family": "nightmaresofatlantis",
+        "family": "tales1_baddies",
         "costume_id": 1,
         "originalIndex": 113,
         "lb1": {
@@ -7530,7 +7530,7 @@ window.allHeroes =
             "Heal on Bleed: This character regenerates 50 HP each time an enemy receives Bleed damage.",
             "Resist Attack Ailments: This character has innate resistance against status ailments that affect attack."
         ],
-        "family": 2022,
+        "family": "hotm2022",
         "costume_id": 0,
         "originalIndex": 115,
         "lb1": {
@@ -7799,7 +7799,7 @@ window.allHeroes =
             "The enemy with the highest base attack gets -60% attack for 4 turns. This effect can't be cleansed."
         ],
         "passives": [],
-        "family": "starfall",
+        "family": "circus",
         "costume_id": 0,
         "originalIndex": 119,
         "lb1": {
@@ -7868,7 +7868,7 @@ window.allHeroes =
             "Wrath of Pets: When a Fiend is summoned to any enemy, this character deals 85% damage to all enemies. This effect can activate only once per turn.",
             "Friend of the Familiars: When a Minion is summoned to any ally, this character gains 5% health and 5% mana. This effect can activate only once per turn."
         ],
-        "family": "pets",
+        "family": "mighty_pet",
         "costume_id": 0,
         "originalIndex": 120,
         "lb1": {
@@ -8007,7 +8007,7 @@ window.allHeroes =
             "Resist Mana reduction: This character has an innate resistance against mana Reduction.",
             "Guard Rally: Every 4 turns, removes all Wither effects from all allies."
         ],
-        "family": "garrisonguard",
+        "family": "garrison",
         "costume_id": 0,
         "originalIndex": 122,
         "lb1": {
@@ -8272,7 +8272,7 @@ window.allHeroes =
         "AetherPower": "Attack Up",
         "color": "Blue",
         "class": "Barbarian",
-        "speed": "Slayer",
+        "speed": "Slow",
         "skill": "Breaker Blade",
         "types": [
             "Hit 1",
@@ -8309,7 +8309,7 @@ window.allHeroes =
         "passives": [
             "Resist Damage from Status Effects: This charater has innate resistance against incoming damage from status effects."
         ],
-        "family": "slayer",
+        "family": "slayers",
         "costume_id": 0,
         "originalIndex": 126,
         "lb1": {
@@ -8381,7 +8381,7 @@ window.allHeroes =
             "Cleanse on Minion Death: This character is cleansed of status ailments when Minion owned by them is destroyed. ",
             "Resist Defense Ailments: This character has innate resistance against status ailments that affect defense. Applies also to status ailments that affect elemental defense."
         ],
-        "family": "maskedgod",
+        "family": "masquerade",
         "costume_id": 0,
         "originalIndex": 127,
         "lb1": {
@@ -8524,7 +8524,7 @@ window.allHeroes =
             " * Deals 80% damage to all enemies.",
             " * All allies get +21% critical chance for 2 turns."
         ],
-        "family": "defendersofatlantis",
+        "family": "tales1_goodies",
         "costume_id": 0,
         "originalIndex": 129,
         "lb1": {
@@ -8614,7 +8614,7 @@ window.allHeroes =
             " * All allies get +21% critical chance for 2 turns.",
             "Resist Insanity: This character has innate resistance against Insanity."
         ],
-        "family": "defendersofatlantis",
+        "family": "tales1_goodies",
         "costume_id": 1,
         "originalIndex": 130,
         "lb1": {
@@ -8761,7 +8761,7 @@ window.allHeroes =
         "passives": [
             "Steal Buff: When this character casts their Special Skill, they have a 50% chance to steal the newest dispellable buff from a random enemy that has buffs. If no enemy has buffs, deals 70% damage to all enemies."
         ],
-        "family": "morlovia",
+        "family": "halloween",
         "costume_id": 0,
         "originalIndex": 132,
         "lb1": {
@@ -8837,7 +8837,7 @@ window.allHeroes =
         "passives": [
             "Dodge Special Damage: This character has a 15% chance to dodge Special Skills that deal damage."
         ],
-        "family": "moth",
+        "family": "moths",
         "costume_id": 0,
         "originalIndex": 133,
         "lb1": {
@@ -8992,7 +8992,7 @@ window.allHeroes =
             "Resist Mana reduction: This character has an innate resistance against mana Reduction.",
             "Guard Rally: Every 4 turns, removes all Wither effects from all allies."
         ],
-        "family": "garrisonguard",
+        "family": "garrison",
         "costume_id": 0,
         "originalIndex": 135,
         "lb1": {
@@ -9065,7 +9065,7 @@ window.allHeroes =
             "Friend of the Familiars: When a Minion is summoned to any ally, this character gains 5% health and 5% mana. This effect can activate only once per turn.",
             "Wrath of Pets: When a Fiend is summoned to any enemy, this character deals 85% damage to all enemies. This effect can activate only once per turn."
         ],
-        "family": "pets",
+        "family": "mighty_pet",
         "costume_id": 0,
         "originalIndex": 136,
         "lb1": {
@@ -9134,7 +9134,7 @@ window.allHeroes =
             "Resist Special Skill Blocking: This character has innate resistance against status ailments that block Special Skill.",
             "Resist Burn: This character has innate resistance against Burn."
         ],
-        "family": 2025,
+        "family": "hotm2025",
         "costume_id": 0,
         "originalIndex": 137,
         "lb1": {
@@ -9275,7 +9275,7 @@ window.allHeroes =
             "Resist Poison: This character has innate resistance against Poison.",
             "Share Received Damage: 20% of damage received by this charater is shared with other allies."
         ],
-        "family": "astralelves",
+        "family": "astral_elves",
         "costume_id": 0,
         "originalIndex": 139,
         "lb1": {
@@ -9555,7 +9555,7 @@ window.allHeroes =
         "passives": [
             "Start Battle with Mana: This character receives 20% mana at the start of the battle."
         ],
-        "family": "underwild",
+        "family": "abyss",
         "costume_id": 0,
         "originalIndex": 143,
         "lb1": {
@@ -9628,7 +9628,7 @@ window.allHeroes =
             "Start Battle with Mana: This character receives 20% mana at the start of the battle.",
             "Increased Damage Against Boosted Health: After this character casts their Special Skill, all allies deal +70% increased normal attack and Special Skills damage against targets with boosted health for 4 turns."
         ],
-        "family": "underwild",
+        "family": "abyss",
         "costume_id": 1,
         "originalIndex": 144,
         "lb1": {
@@ -9923,7 +9923,7 @@ window.allHeroes =
             "Resist Mana reduction: This character has an innate resistance against mana Reduction.",
             "Guard Rally: Every 4 turns, removes all Wither effects from all allies."
         ],
-        "family": "garrisonguard",
+        "family": "garrison",
         "costume_id": 0,
         "originalIndex": 148,
         "lb1": {
@@ -9992,7 +9992,7 @@ window.allHeroes =
             "All hit targets get -34% defense for 3 turns"
         ],
         "passives": [],
-        "family": "corellia",
+        "family": "pirate",
         "costume_id": 0,
         "originalIndex": 149,
         "lb1": {
@@ -10061,7 +10061,7 @@ window.allHeroes =
         "passives": [
             "Poison on Special Skill: When this character casts their Special Skill, all enemies receive 528 Poison damage over 4 turns."
         ],
-        "family": "corellia",
+        "family": "pirate",
         "costume_id": 1,
         "originalIndex": 150,
         "lb1": {
@@ -10273,7 +10273,7 @@ window.allHeroes =
         "passives": [
             "Cleanse on Minion Death: This character is cleansed of status ailments when Minion owned by them is destroyed. "
         ],
-        "family": "maskedgod",
+        "family": "masquerade",
         "costume_id": 0,
         "originalIndex": 153,
         "lb1": {
@@ -10351,7 +10351,7 @@ window.allHeroes =
         "passives": [
             "Resist Attack Ailments: This character has an innate resistance against status ailments that affect Attack."
         ],
-        "family": 2019,
+        "family": "hotm2019",
         "costume_id": 0,
         "originalIndex": 154,
         "lb1": {
@@ -10424,7 +10424,7 @@ window.allHeroes =
             "Resist Burn: This character has innate resistance against Burn.",
             "Cleanse on Minion Death: This character is cleansed of status ailments when a Minion owned by them is destroyed."
         ],
-        "family": 2021,
+        "family": "hotm2021",
         "costume_id": 0,
         "originalIndex": 155,
         "lb1": {
@@ -10488,7 +10488,7 @@ window.allHeroes =
             "Resist Mana Reduction: This character has an innate resistance against mana reduction.",
             "Guard Rally: Every 4 turns, removes all Wither effects from all allies."
         ],
-        "family": "garrisonguard",
+        "family": "garrison",
         "costume_id": 0,
         "originalIndex": 156,
         "lb1": {
@@ -10706,7 +10706,7 @@ window.allHeroes =
             "Resist Special Skill Blocking: This character has innate resistance against status ailments that block Special Skills.",
             "Mana on Enemy Defensive Buffs: This character gains 10% mana when any enemy receives a defenseive buff."
         ],
-        "family": 2024,
+        "family": "hotm2024",
         "costume_id": 0,
         "originalIndex": 159,
         "lb1": {
@@ -10778,7 +10778,7 @@ window.allHeroes =
         "passives": [
             "Resist Buff Immunity: This character has innate resistance against status ailments that give immunity to new buffs."
         ],
-        "family": 2020,
+        "family": "hotm2020",
         "costume_id": 0,
         "originalIndex": 160,
         "lb1": {
@@ -10996,7 +10996,7 @@ window.allHeroes =
             "All allies get +34% mana generation for 3 turns."
         ],
         "passives": [],
-        "family": "guardiansteltoc",
+        "family": "guardian",
         "costume_id": 0,
         "originalIndex": 163,
         "lb1": {
@@ -11516,7 +11516,7 @@ window.allHeroes =
             "Resist Burn: This character has innate resistance against Burn.",
             "Mana on Buff Dispel: This character receives 10% mana each time a buff is dispelled from this character. This effect can activate only once per turn."
         ],
-        "family": 2022,
+        "family": "hotm2022",
         "costume_id": 0,
         "originalIndex": 170,
         "lb1": {
@@ -11925,7 +11925,7 @@ window.allHeroes =
             "Superior Resist Negative Minion Effects: This character has innate resistance against incoming negative effects and damage from Minions and Mega Minions.",
             "Perfect Accuracy: This character’s Special Skill never misses its targets."
         ],
-        "family": "astraldwarfs",
+        "family": "astral_dwarfs",
         "costume_id": 0,
         "originalIndex": 176,
         "lb1": {
@@ -12000,7 +12000,7 @@ window.allHeroes =
             "Passive Skill as defending character: This hero receives less elemental  damage from Troops of stronger element.",
             " - Received elemental damage: -10%"
         ],
-        "family": "superelemental",
+        "family": "super_elemental",
         "costume_id": 0,
         "originalIndex": 177,
         "lb1": {
@@ -12078,7 +12078,7 @@ window.allHeroes =
             "Resist Insanity: This character has innate resistance against Insanity.",
             "Resist Defense Ailments: This character has innate resistance against status ailments, stacks and Wither effects that affect defense. "
         ],
-        "family": "woodlandfaun",
+        "family": "faun",
         "costume_id": 0,
         "originalIndex": 178,
         "lb1": {
@@ -12300,7 +12300,7 @@ window.allHeroes =
             "The caster gets +74% defense against Special Skills for 4 turns."
         ],
         "passives": [],
-        "family": "avalon",
+        "family": "knight",
         "costume_id": 0,
         "originalIndex": 181,
         "lb1": {
@@ -12374,7 +12374,7 @@ window.allHeroes =
             "Resist Special Skill Blocking: This character has innate resistance against status ailments that block Special Skills.",
             "Resist Mana Reduction: This character has innate resistance against mana reduction."
         ],
-        "family": 2022,
+        "family": "hotm2022",
         "costume_id": 0,
         "originalIndex": 182,
         "lb1": {
@@ -12445,7 +12445,7 @@ window.allHeroes =
             "All allies get +50% attack for 3 turns"
         ],
         "passives": [],
-        "family": "christmas",
+        "family": "winter",
         "costume_id": 0,
         "originalIndex": 183,
         "lb1": {
@@ -12513,7 +12513,7 @@ window.allHeroes =
             "All allies get +45% attack, and a further 20% increase every time they are hit during 3 turns."
         ],
         "passives": [],
-        "family": "christmas",
+        "family": "winter",
         "costume_id": 1,
         "originalIndex": 184,
         "lb1": {
@@ -12594,7 +12594,7 @@ window.allHeroes =
             " * - Positive and negative stacks.",
             " * - Growth and Wither effects."
         ],
-        "family": "wildcat",
+        "family": "wild_cat",
         "costume_id": 0,
         "originalIndex": 185,
         "lb1": {
@@ -13309,7 +13309,7 @@ window.allHeroes =
             "The caster gets -20% defense for 3 turns. This effect can't be cleansed."
         ],
         "passives": [],
-        "family": "springvale",
+        "family": "easter",
         "costume_id": 0,
         "originalIndex": 196,
         "lb1": {
@@ -13369,7 +13369,7 @@ window.allHeroes =
             "The caster gets -24% mana generation for 4 turns. This effect can't be cleansed."
         ],
         "passives": [],
-        "family": "springvale",
+        "family": "easter",
         "costume_id": 1,
         "originalIndex": 197,
         "lb1": {
@@ -13510,7 +13510,7 @@ window.allHeroes =
             "Resist Burn: This character has innate resistance against Burn.",
             "Mana on Frost: This character gains 5% mana each time an enemy receives Frost damage."
         ],
-        "family": 2024,
+        "family": "hotm2024",
         "costume_id": 0,
         "originalIndex": 199,
         "lb1": {
@@ -13577,7 +13577,7 @@ window.allHeroes =
         "passives": [
             "Resist Special Skill Blocking: This character has an innate resistance against status aliments that Block Special Skills."
         ],
-        "family": 2019,
+        "family": "hotm2019",
         "costume_id": 0,
         "originalIndex": 200,
         "lb1": {
@@ -13883,7 +13883,7 @@ window.allHeroes =
         "passives": [
             "Steal Buff: When this character casts their Special Skill, they have a 50% chance to steal the newest dispellable buff from a random enemy that has buffs. If no enemy has buffs, deals 70% damage to all enemies."
         ],
-        "family": "morlovia",
+        "family": "halloween",
         "costume_id": 0,
         "originalIndex": 204,
         "lb1": {
@@ -14073,7 +14073,7 @@ window.allHeroes =
             "The caster gets -15% mana generation for 3 turns. This effect can’t be cleansed."
         ],
         "passives": [],
-        "family": "springvale",
+        "family": "easter",
         "costume_id": 0,
         "originalIndex": 207,
         "lb1": {
@@ -14368,7 +14368,7 @@ window.allHeroes =
             "Resist Poison: This character has innate resistance against Poison.",
             "Share Received Damage: 20% of damage received by this charater is shared with other allies."
         ],
-        "family": "astralelves",
+        "family": "astral_elves",
         "costume_id": 0,
         "originalIndex": 211,
         "lb1": {
@@ -14437,7 +14437,7 @@ window.allHeroes =
         "passives": [
             "Increased Special Skill Damage: The first time this character casts a Special Skill that does damage, an additional 30% is added to its power."
         ],
-        "family": "underwild",
+        "family": "abyss",
         "costume_id": 0,
         "originalIndex": 212,
         "lb1": {
@@ -14509,7 +14509,7 @@ window.allHeroes =
             "Increased Special Skill Damage: This first time this character cast a Special Skill that deals damage an additional 30% is added to its power.",
             "Increased Damage Against Boosted Health: After Special Skill cast, all allies' normal attacks and Special Skills deal +70% damage against targets with boosted health for 4 turns."
         ],
-        "family": "underwild",
+        "family": "abyss",
         "costume_id": 1,
         "originalIndex": 213,
         "lb1": {
@@ -14574,7 +14574,7 @@ window.allHeroes =
             "Summons an Elf Minion for the caster and nearby allies with 10% HP and 10% attack inheried from the caster."
         ],
         "passives": [],
-        "family": "christmas",
+        "family": "winter",
         "costume_id": 0,
         "originalIndex": 214,
         "lb1": {
@@ -14647,7 +14647,7 @@ window.allHeroes =
             "Summons an Elf minion for the caster and nearby allies with 10% HP and 10% attack inherited from the caster."
         ],
         "passives": [],
-        "family": "christmas",
+        "family": "winter",
         "costume_id": 1,
         "originalIndex": 215,
         "lb1": {
@@ -14883,7 +14883,7 @@ window.allHeroes =
             "Passive Skill as defending character: This hero receives less elemental  damage from Troops of stronger element.",
             " - Received elemental damage: -10%"
         ],
-        "family": "superelemental",
+        "family": "super_elemental",
         "costume_id": 0,
         "originalIndex": 218,
         "lb1": {
@@ -15117,7 +15117,7 @@ window.allHeroes =
             "Superior Resist Negative Minion Effects: This character has innate resistance against incoming negative effects and damage from Minions and Mega Minions.",
             "Resist Healing Ailments: This character has innate resistance against status ailments that affect healing."
         ],
-        "family": "astraldwarfs",
+        "family": "astral_dwarfs",
         "costume_id": 0,
         "originalIndex": 221,
         "lb1": {
@@ -15252,7 +15252,7 @@ window.allHeroes =
         "passives": [
             "Increase Buff Duration: Duration of the first 3 buff this hero receives from Special Skills is increased by 1 turn."
         ],
-        "family": "underwild",
+        "family": "abyss",
         "costume_id": 0,
         "originalIndex": 223,
         "lb1": {
@@ -15326,7 +15326,7 @@ window.allHeroes =
             "Increase Buff Duration: Duration of the first 3 buff this hero receives from Special Skills is increased by 1 turn.",
             "Health Boost on Special Skill: On Special Skill cast, boosts all allies’ HP by 10%."
         ],
-        "family": "underwild",
+        "family": "abyss",
         "costume_id": 1,
         "originalIndex": 224,
         "lb1": {
@@ -15399,7 +15399,7 @@ window.allHeroes =
         "passives": [
             "Dodge Special Damage: This character has a 15% chance to dodge Special Skills that deal damage."
         ],
-        "family": "moth",
+        "family": "moths",
         "costume_id": 0,
         "originalIndex": 225,
         "lb1": {
@@ -15473,7 +15473,7 @@ window.allHeroes =
             "Elemental Link gives 10% mana generation for all Ice allies for 4 turns. This effect can’t be displelled."
         ],
         "passives": [],
-        "family": 2017,
+        "family": "hotm2017",
         "costume_id": 0,
         "originalIndex": 226,
         "lb1": {
@@ -15548,7 +15548,7 @@ window.allHeroes =
         "passives": [
             "Dispel on Special Skill: When this character casts their Special Skill, they dispel the newest status effect buff from all enemies."
         ],
-        "family": 2017,
+        "family": "hotm2017",
         "costume_id": 1,
         "originalIndex": 227,
         "lb1": {
@@ -15770,7 +15770,7 @@ window.allHeroes =
             "Superior Resist Negative Minion Effects: This character has innate resistance against incoming negative effects and damage from Minions and Mega Minions.",
             "Perfect Accuracy: This character’s Special Skill never misses its targets."
         ],
-        "family": "astraldwarfs",
+        "family": "astral_dwarfs",
         "costume_id": 0,
         "originalIndex": 230,
         "lb1": {
@@ -15857,7 +15857,7 @@ window.allHeroes =
             "Passive Skill as defending character: This hero receives less elemental  damage from Troops of stronger element.",
             " - Received elemental damage: -10%"
         ],
-        "family": "superelemental",
+        "family": "super_elemental",
         "costume_id": 0,
         "originalIndex": 231,
         "lb1": {
@@ -15987,7 +15987,7 @@ window.allHeroes =
         "passives": [
             "Resist Attack Ailments: This character has innate resistance against status ailments that affect Attack."
         ],
-        "family": 2020,
+        "family": "hotm2020",
         "costume_id": 0,
         "originalIndex": 233,
         "lb1": {
@@ -16023,7 +16023,7 @@ window.allHeroes =
         "AetherPower": "Defense Up",
         "color": "Blue",
         "class": "Cleric",
-        "speed": "Slayer",
+        "speed": "Slow",
         "skill": "Cleansing determination",
         "types": [
             "Cleanser All",
@@ -16062,7 +16062,7 @@ window.allHeroes =
         "passives": [
             "Resist Damage from Status Effects: This charater has innate resistance against incoming damage from status effects."
         ],
-        "family": "slayer",
+        "family": "slayers",
         "costume_id": 0,
         "originalIndex": 234,
         "lb1": {
@@ -16549,7 +16549,7 @@ window.allHeroes =
             " * All allies get +48% attack for 3 turns."
         ],
         "passives": [],
-        "family": "grimforest",
+        "family": "fable",
         "costume_id": 0,
         "originalIndex": 241,
         "lb1": {
@@ -16640,7 +16640,7 @@ window.allHeroes =
             " * All enemies are immune to new status effect buffs for 4 turns."
         ],
         "passives": [],
-        "family": "grimforest",
+        "family": "fable",
         "costume_id": 1,
         "originalIndex": 242,
         "lb1": {
@@ -16722,7 +16722,7 @@ window.allHeroes =
         "passives": [
             "Decrease Ailment Duration: Duration of the first 3 status ailments this character receives from Special Skill is decreased by 1 turn."
         ],
-        "family": "underwild",
+        "family": "abyss",
         "costume_id": 0,
         "originalIndex": 243,
         "lb1": {
@@ -16801,7 +16801,7 @@ window.allHeroes =
             "Decrease Ailment Duration: Duration of the first 3 status ailments this character receives from Special Skill is decreased by 1 turn.",
             "Increased Damage Against Boosted Health: After this character casts their Special Skill cast, all allies’ normal attacks and Special Skills deal +70% damage against targets with boosted health for 3 turns."
         ],
-        "family": "underwild",
+        "family": "abyss",
         "costume_id": 1,
         "originalIndex": 244,
         "lb1": {
@@ -16954,7 +16954,7 @@ window.allHeroes =
             "Inflicts 30 Insanity on all allies except the caster."
         ],
         "passives": [],
-        "family": "investigator",
+        "family": "cultist",
         "costume_id": 0,
         "originalIndex": 246,
         "lb1": {
@@ -17158,7 +17158,7 @@ window.allHeroes =
             "Fiends Summoners",
             "DoT Attackers"
         ],
-        "source": "Monster Island Summon",
+        "source": "Covenant Summon",
         "Release date": "2024-08-13",
         "specialId": "chitin_cage",
         "passiveSkills": [
@@ -17181,7 +17181,7 @@ window.allHeroes =
             "Special Skill damage reduction: This character has a 10% chance to drop the direct damage received from Special Skills to 1.",
             "Damage over Time on Special: When this character casts their Special Skill, they give a Hunter’s Mark on a random enemy. The target receives 150 damage over 3 turns. If a target already has this effect, the duration will be refreshed and the damage will be increased by 150, up to 1500 damage in total."
         ],
-        "family": "plainshunter",
+        "family": "plains_hunter",
         "costume_id": 0,
         "originalIndex": 249,
         "lb1": {
@@ -17253,7 +17253,7 @@ window.allHeroes =
             "Resist Special Skill Blocking: This character has innate resistance against status ailments that block Special Skills.",
             "Status Effect on Mana Reduction: This character get +30% attack for 3 turns when their mana is reduced."
         ],
-        "family": 2024,
+        "family": "hotm2024",
         "costume_id": 0,
         "originalIndex": 250,
         "lb1": {
@@ -17689,7 +17689,7 @@ window.allHeroes =
             "Deals 180% damage to all enemies, and additional 15% damage per removed status effect, up to 420% damage in total."
         ],
         "passives": [],
-        "family": "grimforest",
+        "family": "fable",
         "costume_id": 0,
         "originalIndex": 256,
         "lb1": {
@@ -17764,7 +17764,7 @@ window.allHeroes =
             "Deals additional 30% damage per removed status effect, up to 500% damage in total."
         ],
         "passives": [],
-        "family": "grimforest",
+        "family": "fable",
         "costume_id": 1,
         "originalIndex": 257,
         "lb1": {
@@ -17997,7 +17997,7 @@ window.allHeroes =
             " * Each of these effects can activate once per turn.",
             "Resist Bleed Damage: This character has innate resistance against Bleed.    "
         ],
-        "family": "outlaws",
+        "family": "outlaw",
         "costume_id": 0,
         "originalIndex": 260,
         "lb1": {
@@ -18051,7 +18051,7 @@ window.allHeroes =
             "Cleansers",
             "AoE Attackers (Hit-5)"
         ],
-        "source": "Monster Island Summon",
+        "source": "Covenant Summon",
         "Release date": "2023-05-06",
         "specialId": "icebound_ritual",
         "passiveSkills": [
@@ -18073,7 +18073,7 @@ window.allHeroes =
             "Hunter’s sense: When this character casts their Special Skill, they transfer the newest cleansable status ailment from themself to the target. If the Special Skill cannot target an enemy, a random enemy is chosen instead. If this character has no cleansable status ailment, they recover 8% health.",
             "Damage over time on special: When this character casts their Special Skill, they give a Hunter’s Mark on a random enemy. The target receives 150 damage over 3 turns. If a target already has this effect, the duration will be refreshed and the damage will be increased by 150, up to 1500 damage in total."
         ],
-        "family": "abysshunter",
+        "family": "abyss_hunter",
         "costume_id": 0,
         "originalIndex": 261,
         "lb1": {
@@ -18144,7 +18144,7 @@ window.allHeroes =
             "Share Received Damage: 20% of damage received by this charater is shared with other allies.",
             "Resist Poison: This character has innate resistance against Poison."
         ],
-        "family": "astralelves",
+        "family": "astral_elves",
         "costume_id": 0,
         "originalIndex": 262,
         "lb1": {
@@ -18221,7 +18221,7 @@ window.allHeroes =
             "Resist Healing Ailments: This character has innate resistance against status ailments that affect healing.",
             "Resist Fiends: This character can't receive Fiends."
         ],
-        "family": 2023,
+        "family": "hotm2023",
         "costume_id": 0,
         "originalIndex": 263,
         "lb1": {
@@ -18294,7 +18294,7 @@ window.allHeroes =
         "passives": [
             "Dodge Special Damage: This character has a 15% chance to dodge Special Skills that deal damage."
         ],
-        "family": "moth",
+        "family": "moths",
         "costume_id": 0,
         "originalIndex": 264,
         "lb1": {
@@ -18443,7 +18443,7 @@ window.allHeroes =
             " * All allies get +21% critical chance for 2 turns.",
             "Resist Insanity: This character has innate resistance against Insanity."
         ],
-        "family": "defendersofatlantis",
+        "family": "tales1_goodies",
         "costume_id": 0,
         "originalIndex": 266,
         "lb1": {
@@ -18525,7 +18525,7 @@ window.allHeroes =
             " * All allies get +21% critical chance for 2 turns.",
             "Resist Insanity: This character has innate resistance against Insanity."
         ],
-        "family": "defendersofatlantis",
+        "family": "tales1_goodies",
         "costume_id": 1,
         "originalIndex": 267,
         "lb1": {
@@ -18672,7 +18672,7 @@ window.allHeroes =
             "All allies get +45% attack, and a further increase of +20% every time they are hit, for 4 turns."
         ],
         "passives": [],
-        "family": "starfall",
+        "family": "circus",
         "costume_id": 0,
         "originalIndex": 269,
         "lb1": {
@@ -19059,7 +19059,7 @@ window.allHeroes =
             "The target and nearby enemies get -10% accuracy, and a further -5% decrease per each Ice shield on the board for 4 turns, up to -50% accuracy."
         ],
         "passives": [],
-        "family": "christmas",
+        "family": "winter",
         "costume_id": 0,
         "originalIndex": 275,
         "lb1": {
@@ -19113,7 +19113,7 @@ window.allHeroes =
             "Buffers (ATK)",
             "DoT Attackers"
         ],
-        "source": "Monster Island Summon",
+        "source": "Monthly Event - Kalevala",
         "Release date": "2023-07-27",
         "specialId": "protective_stance",
         "passiveSkills": [
@@ -19135,7 +19135,7 @@ window.allHeroes =
             "Damage over time on special: When this character casts their Special Skill, they give a Hunter's Mark on a random enemy. The target receives 150 damage over 3 turns. If a target already has this effect, the duration will be refreshed and the damage will be increased by 150, up to 1500 damage in total.",
             "Hunter's vigor: When this character casts their Special Skill, they get +20% attack for 3 turns. This effect can be active in addition to other effects that alter attack."
         ],
-        "family": "junglehunter",
+        "family": "jungle_hunter",
         "costume_id": 0,
         "originalIndex": 276,
         "lb1": {
@@ -19292,7 +19292,7 @@ window.allHeroes =
         "passives": [
             "Resist Negative Minion Effects: This character has an innate resistance against incoming negative effects and damage from Minions."
         ],
-        "family": 2020,
+        "family": "hotm2020",
         "costume_id": 0,
         "originalIndex": 278,
         "lb1": {
@@ -19370,7 +19370,7 @@ window.allHeroes =
             "Resist Insanity: This character has innate resistance against Insanity.",
             "Resist Attack Reduction: This character has innate resistance against status ailments, stacks and Wither effects that affect attack."
         ],
-        "family": "woodlandfaun",
+        "family": "faun",
         "costume_id": 0,
         "originalIndex": 279,
         "lb1": {
@@ -19498,7 +19498,7 @@ window.allHeroes =
             "Mana Reducers or Blockers",
             "Minions Summoners"
         ],
-        "source": "Monster Island Summon",
+        "source": "Covenant Summon",
         "Release date": "2022-11-12",
         "specialId": "harpoon_sentry",
         "passiveSkills": [
@@ -19521,7 +19521,7 @@ window.allHeroes =
             "Damage over Time on Special: When this character casts their Special Skill, they give a Hunter’s Mark on a random enemy. The target receives 150 damage over 3 turns. If a target already has this effect, the duration will be refreshed and the damage will be increased by 150, up to 1500 damage in total.",
             "Special Skill damage reduction: This character has a 10% chance to drop the direct damage received from Special Skills to 1."
         ],
-        "family": "plainshunter",
+        "family": "plains_hunter",
         "costume_id": 0,
         "originalIndex": 281,
         "lb1": {
@@ -19658,7 +19658,7 @@ window.allHeroes =
             "The target receives 531 Frost damage over 3 turns. This effect spreads to nearby enemies."
         ],
         "passives": [],
-        "family": "christmas",
+        "family": "winter",
         "costume_id": 0,
         "originalIndex": 283,
         "lb1": {
@@ -19736,7 +19736,7 @@ window.allHeroes =
             "Passive Skill as defending character: This hero receives less elemental  damage from Troops of stronger element.",
             " - Received elemental damage: -10%"
         ],
-        "family": "superelemental",
+        "family": "super_elemental",
         "costume_id": 0,
         "originalIndex": 284,
         "lb1": {
@@ -19811,7 +19811,7 @@ window.allHeroes =
             "Passive Skill as defending character: This hero receives less elemental  damage from Troops of stronger element.",
             " - Received elemental damage: -25%"
         ],
-        "family": "superelemental",
+        "family": "super_elemental",
         "costume_id": 1,
         "originalIndex": 285,
         "lb1": {
@@ -19945,7 +19945,7 @@ window.allHeroes =
             "Deals 275% damage to the target"
         ],
         "passives": [],
-        "family": null,
+        "family": "classic",
         "costume_id": 0,
         "originalIndex": 287,
         "cn_skill_info": []
@@ -19978,7 +19978,7 @@ window.allHeroes =
             "Deals 255% damage to the target"
         ],
         "passives": [],
-        "family": null,
+        "family": "classic",
         "costume_id": 0,
         "originalIndex": 288,
         "cn_skill_info": []
@@ -20011,7 +20011,7 @@ window.allHeroes =
             "Deals 200% damage to the target and minor damage to nearby enemies"
         ],
         "passives": [],
-        "family": null,
+        "family": "classic",
         "costume_id": 0,
         "originalIndex": 289,
         "cn_skill_info": []
@@ -20044,7 +20044,7 @@ window.allHeroes =
             "Deals 245% damage to the target"
         ],
         "passives": [],
-        "family": null,
+        "family": "classic",
         "costume_id": 0,
         "originalIndex": 290,
         "cn_skill_info": []
@@ -20077,7 +20077,7 @@ window.allHeroes =
             "Deals 250% damage to the target"
         ],
         "passives": [],
-        "family": null,
+        "family": "classic",
         "costume_id": 0,
         "originalIndex": 291,
         "cn_skill_info": []
@@ -20117,7 +20117,7 @@ window.allHeroes =
         "passives": [
             "Cleanse on Minion Death: This character is cleansed of status ailments when Minion owned by them is destroyed. "
         ],
-        "family": "maskedgod",
+        "family": "masquerade",
         "costume_id": 0,
         "originalIndex": 292,
         "lb1": {
@@ -21251,7 +21251,7 @@ window.allHeroes =
             "Superior Resist Negative Minion Effects: This character has innate resistance against incoming negative effects and damage from Minions and Mega Minions.",
             "Destroy Fiends on Special: When this character casts their Special Skill, all Fiends are destroyed from them."
         ],
-        "family": "astraldwarfs",
+        "family": "astral_dwarfs",
         "costume_id": 0,
         "originalIndex": 310,
         "lb1": {
@@ -21575,7 +21575,7 @@ window.allHeroes =
             "DoT Attackers",
             "Fiends Summoners"
         ],
-        "source": "Monster Island Summon",
+        "source": "Covenant Summon",
         "Release date": "2022-11-12",
         "specialId": "bone_arrow",
         "passiveSkills": [
@@ -21597,7 +21597,7 @@ window.allHeroes =
             "Status effect on Special: When this character casts their Special Skill, they give a Hunter’s Mark on a random enemy. The target receives 150 damage over 3 turns. If a target already has this effect, the duration will be refreshed and the damage will be increased by 150, up to 1500 damage in total.",
             "Special Skill Damage Reduction: This character has a 10% chance to drop the direct damage received from Special Skills to 1."
         ],
-        "family": "plainshunter",
+        "family": "plains_hunter",
         "costume_id": 0,
         "originalIndex": 315,
         "lb1": {
@@ -21973,7 +21973,7 @@ window.allHeroes =
             "The target receives 94 Bleed damage over 2 turns."
         ],
         "passives": [],
-        "family": "grimforest",
+        "family": "fable",
         "costume_id": 0,
         "originalIndex": 321,
         "lb1": {
@@ -22039,7 +22039,7 @@ window.allHeroes =
         "passives": [
             "Steal Buff - When this character casts their Special Skill, they have a 50%  chance to steal the newest dispellable buff from a random enemy that has buffs.  If no enemy has buffs, deals 70% damage to all enemies."
         ],
-        "family": "morlovia",
+        "family": "halloween",
         "costume_id": 0,
         "originalIndex": 322,
         "lb1": {
@@ -22107,7 +22107,7 @@ window.allHeroes =
         "passives": [
             "Special Skill Damage Reduction: Received damage from Special Skills is  reduced by -20% for this character."
         ],
-        "family": "underwild",
+        "family": "abyss",
         "costume_id": 0,
         "originalIndex": 323,
         "lb1": {
@@ -22171,7 +22171,7 @@ window.allHeroes =
         "passives": [
             "Special Skill Damage Reduction: Received damage from Special Skills is  reduced by -20% for this character."
         ],
-        "family": "underwild",
+        "family": "abyss",
         "costume_id": 1,
         "originalIndex": 324,
         "lb1": {
@@ -22809,7 +22809,7 @@ window.allHeroes =
         "AetherPower": "Rage",
         "color": "Green",
         "class": "Barbarian",
-        "speed": "Slayer",
+        "speed": "Slow",
         "skill": "Dual Axes",
         "types": [
             "Hit 1",
@@ -22845,7 +22845,7 @@ window.allHeroes =
         "passives": [
             "Resist Damage from Status Effects: This charater has innate resistance against incoming damage from status effects."
         ],
-        "family": "slayer",
+        "family": "slayers",
         "costume_id": 0,
         "originalIndex": 335,
         "lb1": {
@@ -23048,7 +23048,7 @@ window.allHeroes =
             "The enemy with the highest base attack gets -54% attack for 3 turns."
         ],
         "passives": [],
-        "family": "starfall",
+        "family": "circus",
         "costume_id": 0,
         "originalIndex": 338,
         "lb1": {
@@ -23116,7 +23116,7 @@ window.allHeroes =
             "Resist Mana reduction: This character has an innate resistance against mana Reduction.",
             "Guard Rally: Every 4 turns, removes all Wither effects from all allies."
         ],
-        "family": "garrisonguard",
+        "family": "garrison",
         "costume_id": 0,
         "originalIndex": 339,
         "lb1": {
@@ -23190,7 +23190,7 @@ window.allHeroes =
         "passives": [
             "Health Recovery on Buff Received - This character recovers 5% health when  they receive a buff or a positive stack."
         ],
-        "family": "stag",
+        "family": "bear",
         "costume_id": 0,
         "originalIndex": 340,
         "lb1": {
@@ -23402,7 +23402,7 @@ window.allHeroes =
             "Passive Skill as defending character: This hero receives less elemental  damage from Troops of stronger element.",
             " - Received elemental damage: -10%"
         ],
-        "family": "superelemental",
+        "family": "super_elemental",
         "costume_id": 0,
         "originalIndex": 343,
         "lb1": {
@@ -23821,7 +23821,7 @@ window.allHeroes =
             "The target and nearby enemies get -34% defense for 3 turns."
         ],
         "passives": [],
-        "family": "christmas",
+        "family": "winter",
         "costume_id": 0,
         "originalIndex": 349,
         "lb1": {
@@ -24613,7 +24613,7 @@ window.allHeroes =
             "The caster gets +74% defense against Special Skills for 3 turns"
         ],
         "passives": [],
-        "family": "grimforest",
+        "family": "fable",
         "costume_id": 0,
         "originalIndex": 361,
         "lb1": {
@@ -24680,7 +24680,7 @@ window.allHeroes =
             "The caster gets +84% defense against Special Skills for 3 turns."
         ],
         "passives": [],
-        "family": "grimforest",
+        "family": "fable",
         "costume_id": 1,
         "originalIndex": 362,
         "lb1": {
@@ -24743,7 +24743,7 @@ window.allHeroes =
             "The caster gets -20% defense for 3 turns. This effect can't be cleansed"
         ],
         "passives": [],
-        "family": "springvale",
+        "family": "easter",
         "costume_id": 0,
         "originalIndex": 363,
         "lb1": {
@@ -24805,7 +24805,7 @@ window.allHeroes =
             "All allies except the caster get -20% attack for 3 turns. This effect can't be dispelled."
         ],
         "passives": [],
-        "family": "springvale",
+        "family": "easter",
         "costume_id": 1,
         "originalIndex": 364,
         "lb1": {
@@ -24870,7 +24870,7 @@ window.allHeroes =
         "passives": [
             "Dodge Special Damage: This character has a 15% chance to dodge Special Skills that deal damage."
         ],
-        "family": "moth",
+        "family": "moths",
         "costume_id": 0,
         "originalIndex": 365,
         "lb1": {
@@ -25320,7 +25320,7 @@ window.allHeroes =
             "Resist Poison: This character has innate resistance against Poison.",
             "Share Received Damage: 20% of damage received by this charater is shared  with other allies."
         ],
-        "family": "astralelves",
+        "family": "astral_elves",
         "costume_id": 0,
         "originalIndex": 372,
         "lb1": {
@@ -25712,7 +25712,7 @@ window.allHeroes =
             "The target and nearby enemies get -34% defense for 3 turns."
         ],
         "passives": [],
-        "family": "starfall",
+        "family": "circus",
         "costume_id": 0,
         "originalIndex": 378,
         "lb1": {
@@ -26255,7 +26255,7 @@ window.allHeroes =
             " * Deals 80% damage to all enemies.",
             " * All allies get +19% mana generation for 2 turns."
         ],
-        "family": "nightmaresofatlantis",
+        "family": "tales1_baddies",
         "costume_id": 0,
         "originalIndex": 386,
         "lb1": {
@@ -26341,7 +26341,7 @@ window.allHeroes =
             " * All allies get +19% mana generation for 2 turns.",
             "Resist Insanity: This character has innate resistance against Insanity."
         ],
-        "family": "nightmaresofatlantis",
+        "family": "tales1_baddies",
         "costume_id": 1,
         "originalIndex": 387,
         "lb1": {
@@ -26419,7 +26419,7 @@ window.allHeroes =
             "Resist Insanity: This character has innate resistance against Insanity.",
             "Resist Attack Reduction: This character has innate resistance against status ailments, stacks and Wither effects that affect attack."
         ],
-        "family": "woodlandfaun",
+        "family": "faun",
         "costume_id": 0,
         "originalIndex": 388,
         "lb1": {
@@ -26472,7 +26472,7 @@ window.allHeroes =
             "DoT Attackers",
             "Cleansers"
         ],
-        "source": "Monster Island Summon",
+        "source": "Covenant Summon",
         "Release date": "2023-05-06",
         "specialId": "cracked_skull_strike",
         "passiveSkills": [
@@ -26494,7 +26494,7 @@ window.allHeroes =
             "Damage over time on special: When this character casts their Special Skill, they give a Hunter's Mark on a random enemy. The target receives 150 damage over 3 turns. If a target already has this effect, the duration will be refreshed and the damage will be increased by 150, up to 1500 damage in total.",
             "Hunter`s sense: When this character casts their Special Skill, they transfer the newest cleansable status ailment from themself to the target. If the Special Skill cannot target an enemy, a random enemy is chosen instead. If this character has no cleansable status ailment, they recover 8% health."
         ],
-        "family": "abysshunter",
+        "family": "abyss_hunter",
         "costume_id": 0,
         "originalIndex": 389,
         "lb1": {
@@ -26529,7 +26529,7 @@ window.allHeroes =
         "AetherPower": "Attack Up",
         "color": "Green",
         "class": "Ranger",
-        "speed": "Slayer",
+        "speed": "Slow",
         "skill": "Graceful Shot",
         "types": [
             "Hit 1",
@@ -26567,7 +26567,7 @@ window.allHeroes =
         "passives": [
             "Resist Damage from Status Effects: This charater has innate resistance against incoming damage from status effects."
         ],
-        "family": "slayer",
+        "family": "slayers",
         "costume_id": 0,
         "originalIndex": 390,
         "lb1": {
@@ -26637,7 +26637,7 @@ window.allHeroes =
             "The target gets silenced for 3 turns"
         ],
         "passives": [],
-        "family": "corellia",
+        "family": "pirate",
         "costume_id": 0,
         "originalIndex": 391,
         "lb1": {
@@ -26700,7 +26700,7 @@ window.allHeroes =
             "The target gets -24% defense for 3 turns."
         ],
         "passives": [],
-        "family": "corellia",
+        "family": "pirate",
         "costume_id": 1,
         "originalIndex": 392,
         "lb1": {
@@ -27371,7 +27371,7 @@ window.allHeroes =
         "passives": [
             "Special Skill Damage Reduction: Received damage from Special Skills is  reduced by -20% for this character."
         ],
-        "family": "underwild",
+        "family": "abyss",
         "costume_id": 0,
         "originalIndex": 402,
         "lb1": {
@@ -27440,7 +27440,7 @@ window.allHeroes =
         "passives": [
             "Special Skill Damage Reduction: Received damage from Special Skills is  reduced by -20% for this character."
         ],
-        "family": "underwild",
+        "family": "abyss",
         "costume_id": 1,
         "originalIndex": 403,
         "lb1": {
@@ -27779,7 +27779,7 @@ window.allHeroes =
             "Element Link gives all Nature allies +15% attack and +15 defense for 6 turns. This effect can't be dispelled."
         ],
         "passives": [],
-        "family": 2017,
+        "family": "hotm2017",
         "costume_id": 0,
         "originalIndex": 408,
         "lb1": {
@@ -27851,7 +27851,7 @@ window.allHeroes =
         "passives": [
             "Cleanse on Special: When this character casts their Special Skill, they cleanse the newest status ailment from all allies."
         ],
-        "family": 2017,
+        "family": "hotm2017",
         "costume_id": 1,
         "originalIndex": 409,
         "lb1": {
@@ -27925,7 +27925,7 @@ window.allHeroes =
             "Resist Mana reduction: This character has an innate resistance against mana Reduction.",
             "Guard Rally: Every 4 turns, removes all Wither effects from all allies."
         ],
-        "family": "garrisonguard",
+        "family": "garrison",
         "costume_id": 0,
         "originalIndex": 410,
         "lb1": {
@@ -27995,7 +27995,7 @@ window.allHeroes =
             "The caster gets -10% accuracy for 4 turns. This effect can't be cleansed. Chance to miss also applies to offensive Special Skills."
         ],
         "passives": [],
-        "family": "springvale",
+        "family": "easter",
         "costume_id": 0,
         "originalIndex": 411,
         "lb1": {
@@ -28059,7 +28059,7 @@ window.allHeroes =
             "The caster gets -10% accuracy for 4 turns. This effect can’t be cleansed. (Chance to miss also applies to offensive Special Skills."
         ],
         "passives": [],
-        "family": "springvale",
+        "family": "easter",
         "costume_id": 1,
         "originalIndex": 412,
         "lb1": {
@@ -28641,7 +28641,7 @@ window.allHeroes =
             "All allies get +34% defense and a further 6% increase per each Nature shields on the board for 5 turns, up to +82% defense."
         ],
         "passives": [],
-        "family": "christmas",
+        "family": "winter",
         "costume_id": 0,
         "originalIndex": 420,
         "lb1": {
@@ -28724,7 +28724,7 @@ window.allHeroes =
             "Resist buff immunity: This character has innate resistance against status ailments that give immunity to new buffs.",
             "Health recovery on buff received: This character recovers 5% health when they receive a buff or a positive stack."
         ],
-        "family": 2021,
+        "family": "hotm2021",
         "costume_id": 0,
         "originalIndex": 421,
         "lb1": {
@@ -28790,7 +28790,7 @@ window.allHeroes =
             "Element Link summons a Nature Minion for all Nature allies with 6% HP and 10% attack inherited from the caster."
         ],
         "passives": [],
-        "family": 2021,
+        "family": "hotm2021",
         "costume_id": 0,
         "originalIndex": 422,
         "lb1": {
@@ -28861,7 +28861,7 @@ window.allHeroes =
             "Resist Minion Removal: This character has innate resistance against Minion removal.",
             "Mana on Minion Summon: When a Minion is summoned to an ally, this character gains 5% mana. This effect can activate only once per turn."
         ],
-        "family": 2024,
+        "family": "hotm2024",
         "costume_id": 0,
         "originalIndex": 423,
         "lb1": {
@@ -29080,7 +29080,7 @@ window.allHeroes =
             "Resist Defense Reduction: This character has innate resistance against status ailments, stacks and Wither effects that affect defense.",
             "Resist Insanity: This character has innate resistance against Insanity."
         ],
-        "family": "woodlandfaun",
+        "family": "faun",
         "costume_id": 0,
         "originalIndex": 426,
         "lb1": {
@@ -29236,7 +29236,7 @@ window.allHeroes =
             "Resist Healing Ailments: This character has innate resistance against ailments that affect healing.",
             "Boost Health on Enemy Special: When an enemy casts their Special Skill, this character has a 50% chance to boost this character’s health by 100."
         ],
-        "family": 2024,
+        "family": "hotm2024",
         "costume_id": 0,
         "originalIndex": 428,
         "lb1": {
@@ -29307,7 +29307,7 @@ window.allHeroes =
             "Increased Attack Per Non-Nature Enemy: At the start of the battle, this character’s attack is increased by 5% for enemy that is not of Nature element. In battles with multiple waves, this effect is refreshed at the beginning of each wave.",
             "Resist Attack Ailments: This character has innate resistance against status ailments that affect attack."
         ],
-        "family": 2023,
+        "family": "hotm2023",
         "costume_id": 0,
         "originalIndex": 429,
         "lb1": {
@@ -29373,7 +29373,7 @@ window.allHeroes =
         "passives": [
             "Special Skill Damage Reduction: Received damage from Special Skills is  reduced by -20% for this character."
         ],
-        "family": "underwild",
+        "family": "abyss",
         "costume_id": 0,
         "originalIndex": 430,
         "lb1": {
@@ -29441,7 +29441,7 @@ window.allHeroes =
             "Special Skill Damage Reduction: Received damage from Special Skills is reduced by -20% for this character.",
             "Increased Damage Against Boosted Health: After this character casts their Special Skill, all allies deal +70% increased normal attack and Special Skill damage against targets with boosted health for 4 turns."
         ],
-        "family": "underwild",
+        "family": "abyss",
         "costume_id": 1,
         "originalIndex": 431,
         "lb1": {
@@ -29512,7 +29512,7 @@ window.allHeroes =
             "Passive Skill as defending character: This hero receives less elemental  damage from Troops of stronger element.",
             " - Received elemental damage: -10%"
         ],
-        "family": "superelemental",
+        "family": "super_elemental",
         "costume_id": 0,
         "originalIndex": 432,
         "lb1": {
@@ -29818,7 +29818,7 @@ window.allHeroes =
             "Passive Skill as defending character: This hero receives less elemental  damage from Troops of stronger element.",
             " - Received elemental damage: -10%"
         ],
-        "family": "superelemental",
+        "family": "super_elemental",
         "costume_id": 0,
         "originalIndex": 436,
         "lb1": {
@@ -30016,7 +30016,7 @@ window.allHeroes =
         "passives": [
             "Steal Buff: When this character casts their Special Skill, they have a 50% chance to steal the newest dispellable buff from a random enemy that has buffs. If no enemy has buffs, deals 70% damage to all enemies."
         ],
-        "family": "morlovia",
+        "family": "halloween",
         "costume_id": 0,
         "originalIndex": 439,
         "lb1": {
@@ -30083,7 +30083,7 @@ window.allHeroes =
             "Reduces max health from all enemies who own Minions by 404. Max health can't get lower than 30% of the original max health."
         ],
         "passives": [],
-        "family": "starfall",
+        "family": "circus",
         "costume_id": 0,
         "originalIndex": 440,
         "lb1": {
@@ -30155,7 +30155,7 @@ window.allHeroes =
         "passives": [
             "Copy Ailment on Cleanse: When a status ailment is cleansed from this hero, a new copy of the cleansed ailment is applied on a random enemy."
         ],
-        "family": "starfall",
+        "family": "circus",
         "costume_id": 1,
         "originalIndex": 441,
         "lb1": {
@@ -30756,7 +30756,7 @@ window.allHeroes =
             "Resist Special Skill Blocking: This character has innate resistance against status ailments that Block Special Skills.",
             "Mana on Status Ailment Received: This character gains 5% mana when they receive a status ailment or a negative stack."
         ],
-        "family": 2021,
+        "family": "hotm2021",
         "costume_id": 0,
         "originalIndex": 450,
         "lb1": {
@@ -30830,7 +30830,7 @@ window.allHeroes =
             " * The effects diminish the less Flight Momentum character has.",
             "Weaker Mega Minions: Enemy Mega Minions have -75% HP."
         ],
-        "family": "magiccarpet",
+        "family": "magic_carpet",
         "costume_id": 0,
         "originalIndex": 451,
         "lb1": {
@@ -30966,7 +30966,7 @@ window.allHeroes =
             "Element Link recovers 4% health for all Nature allies for 6 turns. This effect can't be cleansed"
         ],
         "passives": [],
-        "family": 2018,
+        "family": "hotm2018",
         "costume_id": 0,
         "originalIndex": 453,
         "lb1": {
@@ -31041,7 +31041,7 @@ window.allHeroes =
         "passives": [
             "Cleanse on Special: When this character casts their Special Skill, they cleanse the newest status ailment from all allies."
         ],
-        "family": 2018,
+        "family": "hotm2018",
         "costume_id": 1,
         "originalIndex": 454,
         "lb1": {
@@ -31282,7 +31282,7 @@ window.allHeroes =
             "Cleanse on Minion Death: This character is cleansed of status ailments when Minion owned by them is destroyed. ",
             "Resist Defense Ailments: This character has innate resistance against status ailments that affect defense. Applies also to status ailments that affect elemental defense."
         ],
-        "family": "maskedgod",
+        "family": "masquerade",
         "costume_id": 0,
         "originalIndex": 457,
         "lb1": {
@@ -31432,7 +31432,7 @@ window.allHeroes =
             "Mana on Status Ailment Received: This character gains 5% mana when they receive a status ailment or a negative stack.",
             "Resist Poison: This character has innate resistance against Poison."
         ],
-        "family": 2025,
+        "family": "hotm2025",
         "costume_id": 0,
         "originalIndex": 459,
         "lb1": {
@@ -31568,7 +31568,7 @@ window.allHeroes =
         "passives": [
             "Steal Buff: When this character casts their Special Skill, they have a 50% chance to steal the newest dispellable buff from a random enemy that has buffs. If no enemy has buffs, deals 70% damage to all enemies."
         ],
-        "family": "morlovia",
+        "family": "halloween",
         "costume_id": 0,
         "originalIndex": 461,
         "lb1": {
@@ -31639,7 +31639,7 @@ window.allHeroes =
         "passives": [
             "Steal Buff: When this character casts their Special Skill, they have a 50% chance to steal the newest dispellable buff from a random enemy that has buffs. If no enemy has buffs, deals 70% damage to all enemies."
         ],
-        "family": "morlovia",
+        "family": "halloween",
         "costume_id": 1,
         "originalIndex": 462,
         "lb1": {
@@ -31838,7 +31838,7 @@ window.allHeroes =
             "Allies share the damage this character would receive from Special Skill  attacks and normal attacks for 5 turns."
         ],
         "passives": [],
-        "family": "grimforest",
+        "family": "fable",
         "costume_id": 0,
         "originalIndex": 465,
         "lb1": {
@@ -32070,7 +32070,7 @@ window.allHeroes =
             " * All allies get +21% critical chance for 2 turns.",
             "Resist Insanity: This character has innate resistance against Insanity."
         ],
-        "family": "defendersofatlantis",
+        "family": "tales1_goodies",
         "costume_id": 0,
         "originalIndex": 468,
         "lb1": {
@@ -32157,7 +32157,7 @@ window.allHeroes =
             " * All allies get +21% critical chance for 2 turns.",
             "Resist Insanity: This character has innate resistance against Insanity."
         ],
-        "family": "defendersofatlantis",
+        "family": "tales1_goodies",
         "costume_id": 1,
         "originalIndex": 469,
         "lb1": {
@@ -32226,7 +32226,7 @@ window.allHeroes =
         "passives": [
             "Decrease Ailment Duration: Duration of the first 3 status ailments this character receives from Special Skill is decreased by 1 turn."
         ],
-        "family": "underwild",
+        "family": "abyss",
         "costume_id": 0,
         "originalIndex": 470,
         "lb1": {
@@ -32295,7 +32295,7 @@ window.allHeroes =
             "Decrease Ailment Duration: Duration of the first 3 status ailments this character receives from Special Skill is decreased by 1 turn.",
             "Increased Damage Against Boosted Health: After Special Skill cast, all allies' normal attacks and Special Skills deal +70% damage against targets with boosted health for 4 turns."
         ],
-        "family": "underwild",
+        "family": "abyss",
         "costume_id": 1,
         "originalIndex": 471,
         "lb1": {
@@ -32443,7 +32443,7 @@ window.allHeroes =
             " * Deals 80% damage to all enemies.",
             " * All allies get +21% critical chance for 2 turns."
         ],
-        "family": "defendersofatlantis",
+        "family": "tales1_goodies",
         "costume_id": 0,
         "originalIndex": 473,
         "lb1": {
@@ -32535,7 +32535,7 @@ window.allHeroes =
             " * All allies get +21% critical chance for 2 turns.",
             "Resist Insanity: This character has an innate resistance against Insanity."
         ],
-        "family": "defendersofatlantis",
+        "family": "tales1_goodies",
         "costume_id": 1,
         "originalIndex": 474,
         "lb1": {
@@ -32607,7 +32607,7 @@ window.allHeroes =
             "All allies’ except the caster’s Special Skill deal an additional +20% damage for 3 turns."
         ],
         "passives": [],
-        "family": "christmas",
+        "family": "winter",
         "costume_id": 0,
         "originalIndex": 475,
         "lb1": {
@@ -32678,7 +32678,7 @@ window.allHeroes =
             "Resist Mana reduction: This character has an innate resistance against mana Reduction.",
             "Guard Rally: Every 4 turns, removes all Wither effects from all allies."
         ],
-        "family": "garrisonguard",
+        "family": "garrison",
         "costume_id": 0,
         "originalIndex": 476,
         "lb1": {
@@ -32834,7 +32834,7 @@ window.allHeroes =
             "Resist Burn: This character has innate resistance against Burn.",
             "Mana on Taunt: Each time an enemy receives a Taunt status effect this character’s mana is increased by 10%."
         ],
-        "family": 2022,
+        "family": "hotm2022",
         "costume_id": 0,
         "originalIndex": 478,
         "lb1": {
@@ -32897,7 +32897,7 @@ window.allHeroes =
             "If the caster dies during the next 5 turns, they are resurrected in the beginning of their next turn with 45% health and 765 damage is dealt to all enemies. All status effects and stacks are removed when the caster dies."
         ],
         "passives": [],
-        "family": "avalon",
+        "family": "knight",
         "costume_id": 0,
         "originalIndex": 479,
         "lb1": {
@@ -32968,7 +32968,7 @@ window.allHeroes =
             "Element Link gives all Nature allies +5% attack and +5% defense for 6 turns. This effect can't be cleansed."
         ],
         "passives": [],
-        "family": 2018,
+        "family": "hotm2018",
         "costume_id": 0,
         "originalIndex": 480,
         "lb1": {
@@ -33035,7 +33035,7 @@ window.allHeroes =
         "passives": [
             "Dispel on Special Skill: When this character casts their Special Skill, they dispel the newest status effect buff from all enemies."
         ],
-        "family": 2018,
+        "family": "hotm2018",
         "costume_id": 1,
         "originalIndex": 481,
         "lb1": {
@@ -33184,7 +33184,7 @@ window.allHeroes =
         "passives": [
             "Dodge Special Damage: This character has a 15% chance to dodge Special Skills that deal damage."
         ],
-        "family": "moth",
+        "family": "moths",
         "costume_id": 0,
         "originalIndex": 483,
         "lb1": {
@@ -33396,7 +33396,7 @@ window.allHeroes =
             "All allies get +36% critical chance for 4 turns."
         ],
         "passives": [],
-        "family": "guardiansteltoc",
+        "family": "guardian",
         "costume_id": 0,
         "originalIndex": 486,
         "lb1": {
@@ -33444,7 +33444,7 @@ window.allHeroes =
             "DoT Attackers",
             "Extra Damage Dealers"
         ],
-        "source": "Monster Island Summon",
+        "source": "Covenant Summon",
         "Release date": "2022-11-12",
         "specialId": "demolishing_crush",
         "passiveSkills": [
@@ -33465,7 +33465,7 @@ window.allHeroes =
             "Special Skill Damage Reduction: This character has a 10% chance to drop the direct damage received from Special Skills to 1.",
             "Damage over Time on Special: When this character casts their Special Skill, they give a Hunter’s Mark on a random enemy. The target receives 150 damage over 3 turns. If a target already has this effect, the duration will be refreshed and the damage will be increased by 150, up to 1500 damage in total."
         ],
-        "family": "plainshunter",
+        "family": "plains_hunter",
         "costume_id": 0,
         "originalIndex": 487,
         "lb1": {
@@ -34551,7 +34551,7 @@ window.allHeroes =
             "Snipers",
             "Healing Reducers"
         ],
-        "source": "Monster Island Summon",
+        "source": "Covenant Summon",
         "Release date": "2022-10-15",
         "specialId": "mantis_strike",
         "passiveSkills": [
@@ -34575,7 +34575,7 @@ window.allHeroes =
             "Damage over Time on Special: When this character casts their Special Skill, they give a Hunter’s Mark on a random enemy. The target receives 150 damage over 3 turns. If a target already has this effect, the duration will be refreshed and the damage will be increased by 150, up to 1500 damage in total.",
             "Special Skill Damage Reduction: This character has a 10% chance to drop the direct damage received from Special Skills to 1."
         ],
-        "family": "plainshunter",
+        "family": "plains_hunter",
         "costume_id": 0,
         "originalIndex": 503,
         "lb1": {
@@ -34650,7 +34650,7 @@ window.allHeroes =
         "passives": [
             "Resist Burn: The character has an innate resistance against Burn."
         ],
-        "family": 2019,
+        "family": "hotm2019",
         "costume_id": 0,
         "originalIndex": 504,
         "lb1": {
@@ -34722,7 +34722,7 @@ window.allHeroes =
             "Resist Mana reduction: This character has an innate resistance against mana Reduction.",
             "Guard Rally: Every 4 turns, removes all Wither effects from all allies."
         ],
-        "family": "garrisonguard",
+        "family": "garrison",
         "costume_id": 0,
         "originalIndex": 505,
         "lb1": {
@@ -34792,7 +34792,7 @@ window.allHeroes =
             "Cleanses status ailments from all allies"
         ],
         "passives": [],
-        "family": "corellia",
+        "family": "pirate",
         "costume_id": 0,
         "originalIndex": 506,
         "lb1": {
@@ -34860,7 +34860,7 @@ window.allHeroes =
         "passives": [
             "Poison on Special Skill: When this character casts their Special Skill, all enemies receive 540 Poison damage over 4 turns."
         ],
-        "family": "corellia",
+        "family": "pirate",
         "costume_id": 1,
         "originalIndex": 507,
         "lb1": {
@@ -34923,7 +34923,7 @@ window.allHeroes =
             "The Minion removes -10% mana from the target when it hits them"
         ],
         "passives": [],
-        "family": "avalon",
+        "family": "knight",
         "costume_id": 0,
         "originalIndex": 508,
         "lb1": {
@@ -34987,7 +34987,7 @@ window.allHeroes =
             "* -24% mana generation for 3 turns. This effect can’t be cleansed."
         ],
         "passives": [],
-        "family": "avalon",
+        "family": "knight",
         "costume_id": 1,
         "originalIndex": 509,
         "lb1": {
@@ -35059,7 +35059,7 @@ window.allHeroes =
             "Resist Max Health Reduction: This character has innate resistance against max health reduction.",
             "Boosted Health From Dead Minion: This character recovers 50 boosted health when a minion owned by them is destroyed."
         ],
-        "family": 2023,
+        "family": "hotm2023",
         "costume_id": 0,
         "originalIndex": 510,
         "lb1": {
@@ -35203,7 +35203,7 @@ window.allHeroes =
             " * - Positive and negative stacks.",
             " * - Growth and Wither effects."
         ],
-        "family": "wildcat",
+        "family": "wild_cat",
         "costume_id": 0,
         "originalIndex": 512,
         "lb1": {
@@ -35573,7 +35573,7 @@ window.allHeroes =
         "passives": [
             "Dodge Special Damage: This character has a 15% chance to dodge Special Skills that deal damage."
         ],
-        "family": "moth",
+        "family": "moths",
         "costume_id": 0,
         "originalIndex": 518,
         "lb1": {
@@ -35800,7 +35800,7 @@ window.allHeroes =
         "passives": [
             "Special Skill Damage Reduction: Received damage from Special Skills is  reduced by -20% for this character."
         ],
-        "family": "underwild",
+        "family": "abyss",
         "costume_id": 0,
         "originalIndex": 521,
         "lb1": {
@@ -35876,7 +35876,7 @@ window.allHeroes =
             "Special Skill Damage Reduction: Received damage from Special Skills is reduced by -20% for this character.",
             "Boost Health on Special Skill: When this characters casts their Special Skill, they boost the health of all their allies by 10%."
         ],
-        "family": "underwild",
+        "family": "abyss",
         "costume_id": 1,
         "originalIndex": 522,
         "lb1": {
@@ -36089,7 +36089,7 @@ window.allHeroes =
             "Superior Resist Negative Minion Effects: This character has innate resistance against incoming negative effects and damage from Minions and Mega Minions.",
             "Resist Healing Ailments: This character has innate resistance against status ailments that affect healing."
         ],
-        "family": "astraldwarfs",
+        "family": "astral_dwarfs",
         "costume_id": 0,
         "originalIndex": 525,
         "lb1": {
@@ -36156,7 +36156,7 @@ window.allHeroes =
         "passives": [
             "Resist Dispels: This character has an innate ability to resist dispels of buffs."
         ],
-        "family": 2019,
+        "family": "hotm2019",
         "costume_id": 0,
         "originalIndex": 526,
         "lb1": {
@@ -36224,7 +36224,7 @@ window.allHeroes =
             "Wrath of Pets: When a Fiend is summoned to any enemy, this character deals 85% damage to all enemies. This effect can activate only once per turn.",
             "Friend of the Familiars: When a Minion is summoned to any ally, this character gains 5% health and 5% mana. This effect can activate only once per turn."
         ],
-        "family": "pets",
+        "family": "mighty_pet",
         "costume_id": 0,
         "originalIndex": 527,
         "lb1": {
@@ -36488,7 +36488,7 @@ window.allHeroes =
             "Stacking Heroes",
             "DoT Attackers"
         ],
-        "source": "Monster Island Summon",
+        "source": "Covenant Summon",
         "Release date": "2023-03-03",
         "specialId": "misty_punches",
         "passiveSkills": [
@@ -36510,7 +36510,7 @@ window.allHeroes =
             "Damage Over Time on Special: When this character casts their Special Skill, they give a Hunter’s Mark on a random enemy. The target receives 150 damage over 3 turns. If a target already has this effect, the duration will be refreshed and the damage will be increased with 150, up to 1500 damage in total.",
             "Hunter’s Vigor: When this character casts their Special Skill, they get +20% attack for 3 turns. This effect can be active in addition to other effects that alter attack."
         ],
-        "family": "junglehunter",
+        "family": "jungle_hunter",
         "costume_id": 0,
         "originalIndex": 531,
         "lb1": {
@@ -36581,7 +36581,7 @@ window.allHeroes =
             "Resist Poison: This character has innate resistance against Poison.",
             "Share Received Damage: 20% of damage received by this charater is shared with other allies."
         ],
-        "family": "astralelves",
+        "family": "astral_elves",
         "costume_id": 0,
         "originalIndex": 532,
         "lb1": {
@@ -36639,7 +36639,7 @@ window.allHeroes =
             "The caster and nearby allies gets +94% defense against Fire for 4 turns."
         ],
         "passives": [],
-        "family": "avalon",
+        "family": "knight",
         "costume_id": 0,
         "originalIndex": 533,
         "lb1": {
@@ -36711,7 +36711,7 @@ window.allHeroes =
             "Summons an Elf Minion for each ally with 10% HP and 10% attack inherited from the caster."
         ],
         "passives": [],
-        "family": "christmas",
+        "family": "winter",
         "costume_id": 0,
         "originalIndex": 534,
         "lb1": {
@@ -36775,7 +36775,7 @@ window.allHeroes =
             "All allies regenerate 612 HP over 4 turns."
         ],
         "passives": [],
-        "family": "christmas",
+        "family": "winter",
         "costume_id": 1,
         "originalIndex": 535,
         "lb1": {
@@ -36990,7 +36990,7 @@ window.allHeroes =
             "Resist Special Skill Blocking: This character has innate resistance against status ailments that block Special Skills.",
             "Ignore Taunt: This character’s Special Skill is not affected by Taunt."
         ],
-        "family": 2025,
+        "family": "hotm2025",
         "costume_id": 0,
         "originalIndex": 538,
         "lb1": {
@@ -37280,7 +37280,7 @@ window.allHeroes =
             "Resist Insanity: This character has innate resistance against Insanity.",
             "Resist Attack Reduction: This character has innate resistance against status ailments, stacks and Wither effects that affect attack."
         ],
-        "family": "woodlandfaun",
+        "family": "faun",
         "costume_id": 0,
         "originalIndex": 542,
         "lb1": {
@@ -37423,7 +37423,7 @@ window.allHeroes =
         "passives": [
             "Special Skill Damage Reduction: Received damage from Special Skills is reduced by -20% for this character."
         ],
-        "family": "underwild",
+        "family": "abyss",
         "costume_id": 0,
         "originalIndex": 544,
         "lb1": {
@@ -37500,7 +37500,7 @@ window.allHeroes =
             "Special Skill Damage Reduction: Received damage from Special Skills is reduced by -20% for this character.",
             "Increased Damage Against Boosted Health: After Special Skill cast, all allies' normal attacks and Special Skills deal +70% damage against targets with boosted health for 4 turns."
         ],
-        "family": "underwild",
+        "family": "abyss",
         "costume_id": 1,
         "originalIndex": 545,
         "lb1": {
@@ -37575,7 +37575,7 @@ window.allHeroes =
             "Resist Mana reduction: This character has an innate resistance against mana Reduction.",
             "Guard Rally: Every 4 turns, removes all Wither effects from all allies."
         ],
-        "family": "garrisonguard",
+        "family": "garrison",
         "costume_id": 0,
         "originalIndex": 546,
         "lb1": {
@@ -37722,7 +37722,7 @@ window.allHeroes =
         "passives": [
             "Disable Minion Abilities: Attacks and abilities of all Minions owned by enemies are disabled."
         ],
-        "family": "lunaryear",
+        "family": "zodiac",
         "costume_id": 0,
         "originalIndex": 548,
         "lb1": {
@@ -38263,7 +38263,7 @@ window.allHeroes =
             "Passive Skill as defending character: This hero receives less elemental  damage from Troops of stronger element.",
             " - Received elemental damage: -10%"
         ],
-        "family": "superelemental",
+        "family": "super_elemental",
         "costume_id": 0,
         "originalIndex": 556,
         "lb1": {
@@ -38327,7 +38327,7 @@ window.allHeroes =
             "Passive Skill as defending character: This hero receives less elemental  damage from Troops of stronger element.",
             " - Received elemental damage: -25%"
         ],
-        "family": "superelemental",
+        "family": "super_elemental",
         "costume_id": 1,
         "originalIndex": 557,
         "lb1": {
@@ -38390,7 +38390,7 @@ window.allHeroes =
             "Reduces max health of the caster by 400. The effect is stronger against targets with boosted health. (Max health can’t get lower than 30% of the original max health. Any boosted health is reduced by an additional 400.)"
         ],
         "passives": [],
-        "family": "springvale",
+        "family": "easter",
         "costume_id": 0,
         "originalIndex": 558,
         "lb1": {
@@ -38536,7 +38536,7 @@ window.allHeroes =
             "Resist Minion Removal: This character has innate resistance against Minion removal.",
             "Summon on Burn: Each time this character receives a Burn status ailment, they summon a Forest Guardian Minion for themseles. Forest Guardian Minion inherits 40% HP and 40% atack from this character."
         ],
-        "family": 2022,
+        "family": "hotm2022",
         "costume_id": 0,
         "originalIndex": 560,
         "lb1": {
@@ -38676,7 +38676,7 @@ window.allHeroes =
             "Wrath of Pets: When a Fiend is summoned to any enemy, this character deals  85% damage to all enemies. This effect can activate only once per turn.",
             "Friend of the Familiars: When a Minion is summoned to any ally, this  character gains 5% health and 5% mana. This effect can activate only once  per turn."
         ],
-        "family": "pets",
+        "family": "mighty_pet",
         "costume_id": 0,
         "originalIndex": 562,
         "lb1": {
@@ -38755,7 +38755,7 @@ window.allHeroes =
             " * Deals 80% damage to all enemies.",
             " * The caster gets +19% mana generation for 2 turns."
         ],
-        "family": "nightmaresofatlantis",
+        "family": "tales1_baddies",
         "costume_id": 0,
         "originalIndex": 563,
         "lb1": {
@@ -38833,7 +38833,7 @@ window.allHeroes =
             " * The caster gets +19% mana generation for 2 turns.",
             "Resist Insanity: This character has innate resistance against Insanity."
         ],
-        "family": "nightmaresofatlantis",
+        "family": "tales1_baddies",
         "costume_id": 1,
         "originalIndex": 564,
         "lb1": {
@@ -38952,7 +38952,7 @@ window.allHeroes =
             "DoT Attackers",
             "Cleansers"
         ],
-        "source": "Monster Island Summon",
+        "source": "Covenant Summon",
         "Release date": "2023-02-09",
         "specialId": "mallet_swing_of_the_beast",
         "passiveSkills": [
@@ -38974,7 +38974,7 @@ window.allHeroes =
             "Hunter’s Sense: When this character casts their Special Skill, they have 100% chance to transfer the newest status ailment from themself to the target. If the Special Skill cannot target an enemy, a random enemy is chosen instead. If this character has no status ailments, they recover 12% health.",
             "Damage over Time on Special: When this character casts their Special Skill, they have 100% chance to transfer the newest status ailment from themself to the target. If the Special Skill cannot target an enemy, a random enemy is chosen instead. If this character has no status ailments, they recover 5% health."
         ],
-        "family": "abysshunter",
+        "family": "abyss_hunter",
         "costume_id": 0,
         "originalIndex": 566,
         "lb1": {
@@ -39044,7 +39044,7 @@ window.allHeroes =
             "Resist Poison: This character has innate resistance against Poison.",
             "Share Received Damage: 20% of damage received by this charater is shared with other allies."
         ],
-        "family": "astralelves",
+        "family": "astral_elves",
         "costume_id": 0,
         "originalIndex": 567,
         "lb1": {
@@ -39131,7 +39131,7 @@ window.allHeroes =
             " * Each of these effects can activate once per turn.",
             "Resist Bleed Damage: This character has innate resistance against Bleed.    "
         ],
-        "family": "outlaws",
+        "family": "outlaw",
         "costume_id": 0,
         "originalIndex": 568,
         "lb1": {
@@ -39186,7 +39186,7 @@ window.allHeroes =
             "AoE Attackers (Hit-3)",
             "Mana Reducers or Blockers"
         ],
-        "source": "Monster Island Summon",
+        "source": "Covenant Summon",
         "Release date": "2024-07-21",
         "specialId": "primeval_glaive",
         "passiveSkills": [
@@ -39210,7 +39210,7 @@ window.allHeroes =
             "Special Skill Damage Reduction: This character has a 10% chance to drop the direct damage received from Special Skills to 1.",
             "Damage over Time on Special: When this character casts their Special Skill, they give a Hunter’s Mark on a random enemy. The target receives 150 damage over 3 turns. If a target already has this effect, the duration will be refreshed and the damage will be increased by 150, up to 1500 damage in total."
         ],
-        "family": "plainshunter",
+        "family": "plains_hunter",
         "costume_id": 0,
         "originalIndex": 569,
         "lb1": {
@@ -39629,7 +39629,7 @@ window.allHeroes =
         "passives": [
             "Resist Minion Removal: The Hero has innate resistance against Minion Removal."
         ],
-        "family": 2020,
+        "family": "hotm2020",
         "costume_id": 0,
         "originalIndex": 575,
         "lb1": {
@@ -39921,7 +39921,7 @@ window.allHeroes =
             "Resist Mana reduction: This character has an innate resistance against mana Reduction.",
             "Guard Rally: Every 4 turns, removes all Wither effects from all allies."
         ],
-        "family": "garrisonguard",
+        "family": "garrison",
         "costume_id": 0,
         "originalIndex": 579,
         "lb1": {
@@ -40408,7 +40408,7 @@ window.allHeroes =
             "Resist Poison: This character has innate resistance against Poison.",
             "Health Boost of Poison: Boosts health of this character and nearby allies by 2% for each enemy inflicted with Poison at the end of each turn. Boosted health can exceed max HP."
         ],
-        "family": 2023,
+        "family": "hotm2023",
         "costume_id": 0,
         "originalIndex": 586,
         "lb1": {
@@ -40556,7 +40556,7 @@ window.allHeroes =
             "Passive Skill as defending character: This hero receives less elemental  damage from Troops of stronger element.",
             " - Received elemental damage: -10%"
         ],
-        "family": "superelemental",
+        "family": "super_elemental",
         "costume_id": 0,
         "originalIndex": 588,
         "lb1": {
@@ -40701,7 +40701,7 @@ window.allHeroes =
         "passives": [
             "Disable Minion Abilities: Attacks and abilities of all Minions owned by enemies are disabled."
         ],
-        "family": "lunaryear",
+        "family": "zodiac",
         "costume_id": 0,
         "originalIndex": 590,
         "lb1": {
@@ -40915,7 +40915,7 @@ window.allHeroes =
         "passives": [
             "Marked by the Old Ones: All damage is reduced by 5% per 10 Insanity for this character up to a maximum reduction of 50%."
         ],
-        "family": "investigator",
+        "family": "cultist",
         "costume_id": 0,
         "originalIndex": 593,
         "lb1": {
@@ -40983,7 +40983,7 @@ window.allHeroes =
             "Elemental Link gives +10% mana generation for all Nature allies for 4 turns. This effect can't be dispelled."
         ],
         "passives": [],
-        "family": 2018,
+        "family": "hotm2018",
         "costume_id": 0,
         "originalIndex": 594,
         "lb1": {
@@ -41065,7 +41065,7 @@ window.allHeroes =
         "passives": [
             "Cleanse on Special Skill: When this character casts their Special Skill, they cleanse the newest status ailment from all allies."
         ],
-        "family": 2018,
+        "family": "hotm2018",
         "costume_id": 1,
         "originalIndex": 595,
         "lb1": {
@@ -41141,7 +41141,7 @@ window.allHeroes =
         "passives": [
             "Resist Water Damage: This character has an innate resistance against Water damage."
         ],
-        "family": 2020,
+        "family": "hotm2020",
         "costume_id": 0,
         "originalIndex": 596,
         "lb1": {
@@ -41214,7 +41214,7 @@ window.allHeroes =
             "Passive Skill as defending character: This hero receives less elemental  damage from Troops of stronger element.",
             " - Received elemental damage: -10%"
         ],
-        "family": "superelemental",
+        "family": "super_elemental",
         "costume_id": 0,
         "originalIndex": 597,
         "lb1": {
@@ -41272,7 +41272,7 @@ window.allHeroes =
             "Deals 265% damage to the target"
         ],
         "passives": [],
-        "family": null,
+        "family": "classic",
         "costume_id": 0,
         "originalIndex": 598,
         "cn_skill_info": []
@@ -41305,7 +41305,7 @@ window.allHeroes =
             "Deals 250% damage to the target"
         ],
         "passives": [],
-        "family": null,
+        "family": "classic",
         "costume_id": 0,
         "originalIndex": 599,
         "cn_skill_info": []
@@ -41338,7 +41338,7 @@ window.allHeroes =
             "Deals 250% damage to the target"
         ],
         "passives": [],
-        "family": null,
+        "family": "classic",
         "costume_id": 0,
         "originalIndex": 600,
         "cn_skill_info": []
@@ -41371,7 +41371,7 @@ window.allHeroes =
             "The target receives 78 damage over 6 turns"
         ],
         "passives": [],
-        "family": null,
+        "family": "classic",
         "costume_id": 0,
         "originalIndex": 601,
         "cn_skill_info": []
@@ -41404,7 +41404,7 @@ window.allHeroes =
             "All allies get +48% attack for 4 turns"
         ],
         "passives": [],
-        "family": null,
+        "family": "classic",
         "costume_id": 0,
         "originalIndex": 602,
         "cn_skill_info": []
@@ -42184,7 +42184,7 @@ window.allHeroes =
             "The target and nearby enemies get -24% mana generation for 3 turns."
         ],
         "passives": [],
-        "family": "sakura",
+        "family": "japanese",
         "costume_id": 0,
         "originalIndex": 615,
         "lb1": {
@@ -42412,7 +42412,7 @@ window.allHeroes =
             "Cleansers",
             "DoT Attackers"
         ],
-        "source": "Monster Island Summon",
+        "source": "Covenant Summon",
         "Release date": "2023-02-09",
         "specialId": "stubby_reap",
         "passiveSkills": [
@@ -42434,7 +42434,7 @@ window.allHeroes =
             "Hunter’s Sense: When this character casts their Special Skill, they have 100% chance to transfer the newest status ailment from themself to the target. If the Special Skill cannot target an enemy, a random enemy is chosen instead. If this character has no status ailments, they recover 12% health.",
             "Damage Over Time on Special: When this character casts their Special Skill, they give a Hunter’s Mark on a random enemy. The target receives 150 damage over 3 turns. If a target already has this effect, the duration will be refreshed and the damage will be increased with 150, up to 1500 damage in total."
         ],
-        "family": "abysshunter",
+        "family": "abyss_hunter",
         "costume_id": 0,
         "originalIndex": 619,
         "lb1": {
@@ -42493,7 +42493,7 @@ window.allHeroes =
             "The damage is increased by 50% per each dead ally."
         ],
         "passives": [],
-        "family": "guardiansteltoc",
+        "family": "guardian",
         "costume_id": 0,
         "originalIndex": 620,
         "lb1": {
@@ -42556,7 +42556,7 @@ window.allHeroes =
         "passives": [
             "Steal Buff: When this character casts their Special Skill, they have a 50% chance to steal the newest dispellable buff from a random enemy that has buffs. If no enemy has buffs, deals 70% damage to all enemies."
         ],
-        "family": "morlovia",
+        "family": "halloween",
         "costume_id": 0,
         "originalIndex": 621,
         "lb1": {
@@ -42590,7 +42590,7 @@ window.allHeroes =
         "AetherPower": "Attack Up",
         "color": "Purple",
         "class": "Rogue",
-        "speed": "Slayer",
+        "speed": "Slow",
         "skill": "Assassin's Blades",
         "types": [
             "Hit 3",
@@ -42626,7 +42626,7 @@ window.allHeroes =
         "passives": [
             "Resist Damage from Status Effects: This charater has innate resistance against incoming damage from status effects."
         ],
-        "family": "slayer",
+        "family": "slayers",
         "costume_id": 0,
         "originalIndex": 622,
         "lb1": {
@@ -42773,7 +42773,7 @@ window.allHeroes =
         "passives": [
             "Decrease Ailment Duration: Duration of the first 3 status ailments this character receives from Special Skill is decreased by 1 turn."
         ],
-        "family": "underwild",
+        "family": "abyss",
         "costume_id": 0,
         "originalIndex": 624,
         "lb1": {
@@ -42852,7 +42852,7 @@ window.allHeroes =
         "passives": [
             "Decrease Ailment Duration: Duration of the first 3 status ailments this character receives from Special Skill is decreased by 1 turn."
         ],
-        "family": "underwild",
+        "family": "abyss",
         "costume_id": 1,
         "originalIndex": 625,
         "lb1": {
@@ -43616,7 +43616,7 @@ window.allHeroes =
             "All enemies get -34% mana generation for 6 turns."
         ],
         "passives": [],
-        "family": "avalon",
+        "family": "knight",
         "costume_id": 0,
         "originalIndex": 637,
         "lb1": {
@@ -43946,7 +43946,7 @@ window.allHeroes =
         "passives": [
             "Steal Buff: When this character casts their Special Skill, they have a 50%  chance to steal the newest dispellable buff from a random enemy that has buffs.  If no enemy has buffs, deals 70% damage to all enemies."
         ],
-        "family": "morlovia",
+        "family": "halloween",
         "costume_id": 0,
         "originalIndex": 642,
         "lb1": {
@@ -44141,7 +44141,7 @@ window.allHeroes =
             "While in Ghost form the caster gains +82% attack. While in Ghost form Character can't gain mana and can't be healed by Special Skills, but is immune to normal attacks, Special Skill attacks, damage dealing passives, status effects and stacks. Immune to new Growth and Wither effects."
         ],
         "passives": [],
-        "family": "sakura",
+        "family": "japanese",
         "costume_id": 0,
         "originalIndex": 645,
         "lb1": {
@@ -44204,7 +44204,7 @@ window.allHeroes =
             "While in Ghost form, all allies except the caster regenerate 140 HP every turn."
         ],
         "passives": [],
-        "family": "sakura",
+        "family": "japanese",
         "costume_id": 1,
         "originalIndex": 646,
         "lb1": {
@@ -44342,7 +44342,7 @@ window.allHeroes =
         "passives": [
             "Steal Buff - When this character casts their Special Skill, they have a 50%  chance to steal the newest dispellable buff from a random enemy that has buffs.  If no enemy has buffs, deals 70% damage to all enemies."
         ],
-        "family": "morlovia",
+        "family": "halloween",
         "costume_id": 0,
         "originalIndex": 648,
         "lb1": {
@@ -44485,7 +44485,7 @@ window.allHeroes =
             "The caster and nearby allies get +94% defense against Holy for 3 turns"
         ],
         "passives": [],
-        "family": "corellia",
+        "family": "pirate",
         "costume_id": 0,
         "originalIndex": 650,
         "lb1": {
@@ -44679,7 +44679,7 @@ window.allHeroes =
             "When a Minion is summoned to any ally, this character gains 5% health and 5% mana. This effect can activate only once per turn.",
             "When a Fiend is summoned to any enemy, this character deals 85% damage to all enemies. This effect can activate only once per turn."
         ],
-        "family": "pets",
+        "family": "mighty_pet",
         "costume_id": 0,
         "originalIndex": 653,
         "lb1": {
@@ -45025,7 +45025,7 @@ window.allHeroes =
             "The caster and nearby allies reflect all status effects and 100% damage back to the attacker and block all other negative effect from enemies’ Holy Special Skills for 4 turns. (Status effects cast by characters, Minions and Fiends on the same side cannot be reflected.)"
         ],
         "passives": [],
-        "family": "christmas",
+        "family": "winter",
         "costume_id": 0,
         "originalIndex": 659,
         "lb1": {
@@ -45779,7 +45779,7 @@ window.allHeroes =
             "Passive Skill as defending character: This hero receives less elemental  damage from Troops of stronger element.",
             " - Received elemental damage: -10%"
         ],
-        "family": "superelemental",
+        "family": "super_elemental",
         "costume_id": 0,
         "originalIndex": 670,
         "lb1": {
@@ -45824,7 +45824,7 @@ window.allHeroes =
             "DoT Attackers",
             "Snipers"
         ],
-        "source": "Monster Island Summon",
+        "source": "Covenant Summon",
         "Release date": "2022-10-15",
         "specialId": "poison_tipped_arrow",
         "passiveSkills": [
@@ -45845,7 +45845,7 @@ window.allHeroes =
             "Status effect on Special: When this character casts their Special Skill, they give a Hunter’s Mark on a random enemy. The target receives 150 damage over 3 turns. If a target already has this effect, the duration will be refreshed and the damage will be increased by 150, up to 1500 damage in total.",
             "Special Skill Damage Reduction: This character has a 10% chance to drop the direct damage received from Special Skills to 1."
         ],
-        "family": "plainshunter",
+        "family": "plains_hunter",
         "costume_id": 0,
         "originalIndex": 671,
         "lb1": {
@@ -45907,7 +45907,7 @@ window.allHeroes =
             "The target automatically casts Mindless Attack on a random ally when mana is full at the start of a turn during 3 turns."
         ],
         "passives": [],
-        "family": "avalon",
+        "family": "knight",
         "costume_id": 0,
         "originalIndex": 672,
         "lb1": {
@@ -45974,7 +45974,7 @@ window.allHeroes =
             "The target automatically casts Mindless Attack on a random ally when mana is full at the start of a turn during 3 turns"
         ],
         "passives": [],
-        "family": "avalon",
+        "family": "knight",
         "costume_id": 1,
         "originalIndex": 673,
         "lb1": {
@@ -46845,7 +46845,7 @@ window.allHeroes =
             " * Deals 80% damage to all enemies.",
             " * The caster gets +19% mana generation for 2 turns."
         ],
-        "family": "nightmaresofatlantis",
+        "family": "tales1_baddies",
         "costume_id": 0,
         "originalIndex": 686,
         "lb1": {
@@ -46915,7 +46915,7 @@ window.allHeroes =
             " * The caster gets +19% mana generation for 2 turns.",
             "Resist Insanity: This character has an innate resistance against Insanity."
         ],
-        "family": "nightmaresofatlantis",
+        "family": "tales1_baddies",
         "costume_id": 1,
         "originalIndex": 687,
         "lb1": {
@@ -47042,7 +47042,7 @@ window.allHeroes =
         "passives": [
             "Dodge Special Damage: This character has a 15% chance to dodge Special Skills that deal damage."
         ],
-        "family": "moth",
+        "family": "moths",
         "costume_id": 0,
         "originalIndex": 689,
         "lb1": {
@@ -47496,7 +47496,7 @@ window.allHeroes =
             "Passive Skill as defending character: This hero receives less elemental  damage from Troops of stronger element.",
             " - Received elemental damage: -10%"
         ],
-        "family": "superelemental",
+        "family": "super_elemental",
         "costume_id": 0,
         "originalIndex": 696,
         "lb1": {
@@ -47566,7 +47566,7 @@ window.allHeroes =
             "Element Link gives all Dark allies + 5% attack and + 5% defense for 6 turns. This effect can't be dispelled."
         ],
         "passives": [],
-        "family": 2018,
+        "family": "hotm2018",
         "costume_id": 0,
         "originalIndex": 697,
         "lb1": {
@@ -47638,7 +47638,7 @@ window.allHeroes =
         "passives": [
             "Cleanse on Special: When this character casts their Special Skill, they cleanse the newest status ailment from all allies."
         ],
-        "family": 2018,
+        "family": "hotm2018",
         "costume_id": 1,
         "originalIndex": 698,
         "lb1": {
@@ -47714,7 +47714,7 @@ window.allHeroes =
             " * The effects diminish the less Flight Momentum character has.",
             "Weaker Mega Minions: Enemy Mega Minions have -75% HP."
         ],
-        "family": "magiccarpet",
+        "family": "magic_carpet",
         "costume_id": 0,
         "originalIndex": 699,
         "lb1": {
@@ -47969,7 +47969,7 @@ window.allHeroes =
             "Resist Negative Minion Effects: This character has innate resistance against incoming negative effects and damage from Minions.",
             "Health from Dead Minion: This character recovers 100 health when a Minion owned by them is destroyed."
         ],
-        "family": 2025,
+        "family": "hotm2025",
         "costume_id": 0,
         "originalIndex": 702,
         "lb1": {
@@ -48247,7 +48247,7 @@ window.allHeroes =
             "Resist Blind: This character has innate resistance against status ailments that affect accurancy. Doesn’t apply to status effects from allies.",
             "Health Recovery on Status Ailment Received: This character recovers 10% health when they receive a status ailment or negative stack."
         ],
-        "family": 2024,
+        "family": "hotm2024",
         "costume_id": 0,
         "originalIndex": 706,
         "lb1": {
@@ -48539,7 +48539,7 @@ window.allHeroes =
             "Status Effect on Mana Reduction: This character gets +30% attack for 3 turns when their mana reduced.",
             "Resist Health Steal Ailments: This hero has innate resistance against status ailments that steal health."
         ],
-        "family": 2022,
+        "family": "hotm2022",
         "costume_id": 0,
         "originalIndex": 710,
         "lb1": {
@@ -49101,7 +49101,7 @@ window.allHeroes =
             "All allies counterattack with 115% of the damage received for 4 turns."
         ],
         "passives": [],
-        "family": "grimforest",
+        "family": "fable",
         "costume_id": 0,
         "originalIndex": 718,
         "lb1": {
@@ -49387,7 +49387,7 @@ window.allHeroes =
             "Resist Mana reduction: This character has an innate resistance against mana Reduction.",
             "Mana Buff on Status Ailment Received: Receives +24% mana generation for 3 turns when this character receives a status ailment or a negative stack."
         ],
-        "family": 2021,
+        "family": "hotm2021",
         "costume_id": 0,
         "originalIndex": 722,
         "lb1": {
@@ -49467,7 +49467,7 @@ window.allHeroes =
             " * Each of these effects can activate once per turn.",
             "Resist Bleed Damage: This character has innate resistance against Bleed.    "
         ],
-        "family": "outlaws",
+        "family": "outlaw",
         "costume_id": 0,
         "originalIndex": 723,
         "lb1": {
@@ -49615,7 +49615,7 @@ window.allHeroes =
         "passives": [
             "Resist Poison: This character has innate resistance against Poison."
         ],
-        "family": 2020,
+        "family": "hotm2020",
         "costume_id": 0,
         "originalIndex": 725,
         "lb1": {
@@ -50064,7 +50064,7 @@ window.allHeroes =
             "Resist Poison: This character has innate resistance against Poison.",
             "Share Received Damage: 20% of damage received by this charater is shared  with other allies."
         ],
-        "family": "astralelves",
+        "family": "astral_elves",
         "costume_id": 0,
         "originalIndex": 731,
         "lb1": {
@@ -50609,7 +50609,7 @@ window.allHeroes =
         "passives": [
             "Special Skill Damage Reduction: Received damage from Special Skills is reduced by -20% for this character."
         ],
-        "family": "underwild",
+        "family": "abyss",
         "costume_id": 0,
         "originalIndex": 739,
         "lb1": {
@@ -50676,7 +50676,7 @@ window.allHeroes =
             "Special Skill Damage Reduction: Received damage from Special Skills is reduced by -20% for this character.",
             "Increased Damage Against Boosted Health: After Special Skill cast, all  allies' normal attacks and Special Skills deal +70% damage against targets with boosted health for 4 turns."
         ],
-        "family": "underwild",
+        "family": "abyss",
         "costume_id": 1,
         "originalIndex": 740,
         "lb1": {
@@ -50748,7 +50748,7 @@ window.allHeroes =
             "Resist Poison: This character has innate resistance against Poison.",
             "Share Received Damage: 20% of damage received by this charater is shared with other allies."
         ],
-        "family": "astralelves",
+        "family": "astral_elves",
         "costume_id": 0,
         "originalIndex": 741,
         "lb1": {
@@ -50801,7 +50801,7 @@ window.allHeroes =
             "Healers (Special)",
             "Snipers"
         ],
-        "source": "Monster Island Summon",
+        "source": "Covenant Summon",
         "Release date": "2024-05-23",
         "specialId": "thundering_strike",
         "passiveSkills": [
@@ -50823,7 +50823,7 @@ window.allHeroes =
             "Special Skill Damage Reduction: This character has a 10% chance to drop the direct damage received from Special Skills to 1.",
             "Damage Over Time on Special: When this character casts their Special Skill, they give a Hunter’s Mark on a random enemy. The target receives 150 damage over 3 turns. If a target already has this effect, the duration will be refreshed and the damage will be increased by 150, up to 1500 damage in total."
         ],
-        "family": "plainshunter",
+        "family": "plains_hunter",
         "costume_id": 0,
         "originalIndex": 742,
         "lb1": {
@@ -51119,7 +51119,7 @@ window.allHeroes =
             "Passive Skill as defending character: This hero receives less elemental  damage from Troops of stronger element.",
             " - Received elemental damage: -10%"
         ],
-        "family": "superelemental",
+        "family": "super_elemental",
         "costume_id": 0,
         "originalIndex": 746,
         "lb1": {
@@ -51312,7 +51312,7 @@ window.allHeroes =
             "Passive Skill as defending character: This hero receives less elemental  damage from Troops of stronger element.",
             " - Received elemental damage: -10%"
         ],
-        "family": "superelemental",
+        "family": "super_elemental",
         "costume_id": 0,
         "originalIndex": 749,
         "lb1": {
@@ -51382,7 +51382,7 @@ window.allHeroes =
             "Superior Resist Negative Minion Effects: This character has innate resistance against incoming negative effects and damage from Minions and Mega Minions.",
             "Perfect Accuracy: This character’s Special Skill never misses its targets."
         ],
-        "family": "astraldwarfs",
+        "family": "astral_dwarfs",
         "costume_id": 0,
         "originalIndex": 750,
         "lb1": {
@@ -51501,7 +51501,7 @@ window.allHeroes =
             "Mana Reducers or Blockers",
             "Snipers"
         ],
-        "source": "Monster Island Summon",
+        "source": "Covenant Summon",
         "Release date": "2022-12-24",
         "specialId": "titantooth_blade",
         "passiveSkills": [
@@ -51523,7 +51523,7 @@ window.allHeroes =
             "Hunter’s sense: When this character casts their Special Skill, they transfer the newest cleansable status ailment from themself to the target. If the Special Skill cannot target an enemy, a random enemy is chosen instead. If this character has no status ailments, they recover 3% health.",
             "Damage over time on Special: When this character casts their Special Skill, they give a Hunter’s Mark on a random enemy. The target receives 150 damage over 3 turns. If a target already has this effect, the duration will be refreshed and the damage will be increased by 150, up to 1500 damage in total."
         ],
-        "family": "abysshunter",
+        "family": "abyss_hunter",
         "costume_id": 0,
         "originalIndex": 752,
         "lb1": {
@@ -51731,7 +51731,7 @@ window.allHeroes =
             "Passive Skill as defending character: This hero receives less elemental  damage from Troops of stronger element.",
             " - Received elemental damage: -10%"
         ],
-        "family": "superelemental",
+        "family": "super_elemental",
         "costume_id": 0,
         "originalIndex": 755,
         "lb1": {
@@ -51798,7 +51798,7 @@ window.allHeroes =
         "passives": [
             "Resist Blind: This character has an innate resistance against status ailments that affect Accuracy. Doesn't apply to status effects from allies."
         ],
-        "family": 2019,
+        "family": "hotm2019",
         "costume_id": 0,
         "originalIndex": 756,
         "lb1": {
@@ -51865,7 +51865,7 @@ window.allHeroes =
             "Dispels buffs from the target and nearby enemies"
         ],
         "passives": [],
-        "family": "guardiansteltoc",
+        "family": "guardian",
         "costume_id": 0,
         "originalIndex": 757,
         "lb1": {
@@ -51932,7 +51932,7 @@ window.allHeroes =
             "All enemies are immune to new status effect buffs for 3 turns."
         ],
         "passives": [],
-        "family": "guardiansteltoc",
+        "family": "guardian",
         "costume_id": 1,
         "originalIndex": 758,
         "lb1": {
@@ -52078,7 +52078,7 @@ window.allHeroes =
         "passives": [
             "Start Battle with Mana: This character receives 20% mana at the start of the battle."
         ],
-        "family": "underwild",
+        "family": "abyss",
         "costume_id": 0,
         "originalIndex": 760,
         "lb1": {
@@ -52154,7 +52154,7 @@ window.allHeroes =
             "Start Battle With Mana: This Hero receives 20% mana at the start of the battle.",
             "Increased Damage Against Boosted Health: After this character casts their Special Skill, all allies deal +70% increased normal attacks and Special Skills damage against targets with boosted health for 4 turns."
         ],
-        "family": "underwild",
+        "family": "abyss",
         "costume_id": 1,
         "originalIndex": 761,
         "lb1": {
@@ -52208,7 +52208,7 @@ window.allHeroes =
             "Reflectors",
             "Heal over Time (HoT)"
         ],
-        "source": "Monster Island Summon",
+        "source": "Covenant Summon",
         "Release date": "2022-09-18",
         "specialId": "medicinal_fumes",
         "passiveSkills": [
@@ -52230,7 +52230,7 @@ window.allHeroes =
             "Special Skill Damage Reduction: This character has a 10% chance to drop the direct damage received from Special Skills to 1.",
             "Damage Over Time on Special: When this character casts their Special Skill, they give a Hunter’s Mark on a random enemy. The target receives 150 damage over 3 turns. If a target already has this effect, the duration will be refreshed and the damage will be increased by 150, up to 1500 damage in total."
         ],
-        "family": "plainshunter",
+        "family": "plains_hunter",
         "costume_id": 0,
         "originalIndex": 762,
         "lb1": {
@@ -52296,7 +52296,7 @@ window.allHeroes =
             "Elemental Link gives all Dark allies +15% attack and +15% defense for 6 turns. This effect can’t be displelled."
         ],
         "passives": [],
-        "family": 2017,
+        "family": "hotm2017",
         "costume_id": 0,
         "originalIndex": 763,
         "lb1": {
@@ -52371,7 +52371,7 @@ window.allHeroes =
         "passives": [
             "Dispel on Special Skill: When this character casts their Special Skill, they dispel the newest status effect buff from all enemies."
         ],
-        "family": 2017,
+        "family": "hotm2017",
         "costume_id": 1,
         "originalIndex": 764,
         "lb1": {
@@ -52520,7 +52520,7 @@ window.allHeroes =
         "passives": [
             "Increase Buff Duration: Duration of the first 3 buffs this character receives from Special Skill is increased by 1 turn."
         ],
-        "family": "underwild",
+        "family": "abyss",
         "costume_id": 0,
         "originalIndex": 766,
         "lb1": {
@@ -52591,7 +52591,7 @@ window.allHeroes =
             "Increase Buff Duration: Duration of the first 3 buffs this character receives from Special Skills is increased by 1 turn.",
             "Health Boost on Special Skill: When this characters casts their Special Skill, they boost the health of all their allies by 10%."
         ],
-        "family": "underwild",
+        "family": "abyss",
         "costume_id": 1,
         "originalIndex": 767,
         "lb1": {
@@ -52661,7 +52661,7 @@ window.allHeroes =
         "passives": [
             "Marked by the Old Ones: All damage is reduced by 5% per 10 Insanity for this character up to a maximum reduction of 50%."
         ],
-        "family": "cultist",
+        "family": "investigator",
         "costume_id": 0,
         "originalIndex": 768,
         "lb1": {
@@ -52717,7 +52717,7 @@ window.allHeroes =
             "Stacking Heroes",
             "Buffers (ATK)"
         ],
-        "source": "Monster Island Summon",
+        "source": "Monthly Event - Kalevala",
         "Release date": "2023-05-26",
         "specialId": "firestone_daggers",
         "passiveSkills": [
@@ -52740,7 +52740,7 @@ window.allHeroes =
             "Hunter's Vigor: When this character casts their Special Skill, they get +20% attack for 3 turns. This effect can be active in addition to other effects that alter attack.",
             "Damage over time on special: When this character casts their Special Skill, they give a Hunter's Mark on a random enemy. The target receives 150 damage over 3 turns. If a target already has this effect, the duration will be refreshed and the damage will be increased by 150, up to 1500 damage in total."
         ],
-        "family": "junglehunter",
+        "family": "jungle_hunter",
         "costume_id": 0,
         "originalIndex": 769,
         "lb1": {
@@ -52829,7 +52829,7 @@ window.allHeroes =
             " * - Positive and negative stacks.",
             " * - Growth and Wither effects."
         ],
-        "family": "wildcat",
+        "family": "wild_cat",
         "costume_id": 0,
         "originalIndex": 770,
         "lb1": {
@@ -53100,7 +53100,7 @@ window.allHeroes =
             "Deals 450% damage if the target has more than 50% health remaining."
         ],
         "passives": [],
-        "family": "sakura",
+        "family": "japanese",
         "costume_id": 0,
         "originalIndex": 774,
         "lb1": {
@@ -53171,7 +53171,7 @@ window.allHeroes =
             "The target gets -34% defense for 2 turns."
         ],
         "passives": [],
-        "family": "sakura",
+        "family": "japanese",
         "costume_id": 1,
         "originalIndex": 775,
         "lb1": {
@@ -53576,7 +53576,7 @@ window.allHeroes =
             "Element Link recovers 4% health for all Dark allies for 6 turns. This effect can't be cleansed"
         ],
         "passives": [],
-        "family": 2018,
+        "family": "hotm2018",
         "costume_id": 0,
         "originalIndex": 781,
         "lb1": {
@@ -53643,7 +53643,7 @@ window.allHeroes =
         "passives": [
             "Dispel on Special Skill: When this character casts their Special Skill, they dispel the newest status efect buff from all enemies."
         ],
-        "family": 2018,
+        "family": "hotm2018",
         "costume_id": 1,
         "originalIndex": 782,
         "lb1": {
@@ -53835,7 +53835,7 @@ window.allHeroes =
             "All allies except the caster get -20% defense for 3 turns. This effect can't be cleansed."
         ],
         "passives": [],
-        "family": "springvale",
+        "family": "easter",
         "costume_id": 0,
         "originalIndex": 785,
         "lb1": {
@@ -53894,7 +53894,7 @@ window.allHeroes =
             "All allies except the caser get -20% attack for 3 turns. This effect can't be cleansed."
         ],
         "passives": [],
-        "family": "springvale",
+        "family": "easter",
         "costume_id": 1,
         "originalIndex": 786,
         "lb1": {
@@ -54106,7 +54106,7 @@ window.allHeroes =
         "passives": [
             "Resist Defense Ailments: This character has an innate resistance against status ailments and negative stacks that affect defense. Doesn't apply to status ailments that affect Elemental Defense."
         ],
-        "family": 2019,
+        "family": "hotm2019",
         "costume_id": 0,
         "originalIndex": 789,
         "lb1": {
@@ -54180,7 +54180,7 @@ window.allHeroes =
         "passives": [
             "Special Skill Damage Reduction: Received damage from Special Skills is reduced by -20% for this character."
         ],
-        "family": "underwild",
+        "family": "abyss",
         "costume_id": 0,
         "originalIndex": 790,
         "lb1": {
@@ -54258,7 +54258,7 @@ window.allHeroes =
             "Special Skill Damage Reduction: Received damage from Special Skills is reduced by -20% for this character.",
             "Health Boost on Special Skill: On Special Skill cast, boosts all allies’ HP by 10%."
         ],
-        "family": "underwild",
+        "family": "abyss",
         "costume_id": 1,
         "originalIndex": 791,
         "lb1": {
@@ -54329,7 +54329,7 @@ window.allHeroes =
         "passives": [
             "Dodge Special Damage: This character has a 15% chance to dodge Special Skills that deal damage."
         ],
-        "family": "moth",
+        "family": "moths",
         "costume_id": 0,
         "originalIndex": 792,
         "lb1": {
@@ -54410,7 +54410,7 @@ window.allHeroes =
             " * The effects diminish the less Flight Momentum character has.",
             "Superior Resist Negative Minion Effects: This character has innate resistance against incoming negative effects and damage from Minions and Mega Minions."
         ],
-        "family": "magiccarpet",
+        "family": "magic_carpet",
         "costume_id": 0,
         "originalIndex": 793,
         "lb1": {
@@ -54773,7 +54773,7 @@ window.allHeroes =
         "passives": [
             "Steal Buff: When this character casts their Special Skill, they have a 50% chance to steal the newest dispellable buff from a random enemy that has buffs. If no enemy has buffs, deals 70% damage to all enemies."
         ],
-        "family": "morlovia",
+        "family": "halloween",
         "costume_id": 0,
         "originalIndex": 798,
         "lb1": {
@@ -54905,7 +54905,7 @@ window.allHeroes =
             "Friend of the Familiars: When a Minion is summoned to any ally, this character gains 5% health and 5% mana. This effect can activate only once per turn.",
             "Wrath of pets: When a Fiend is summoned to any enemy, this character deals 85% damage to all enemies. This effect can activate only once per turn."
         ],
-        "family": "pets",
+        "family": "mighty_pet",
         "costume_id": 0,
         "originalIndex": 800,
         "lb1": {
@@ -55054,7 +55054,7 @@ window.allHeroes =
             "Resist Mana reduction: This character has an innate resistance against mana Reduction.",
             "Guard Rally: Every 4 turns, removes all Wither effects from all allies."
         ],
-        "family": "garrisonguard",
+        "family": "garrison",
         "costume_id": 0,
         "originalIndex": 802,
         "lb1": {
@@ -55138,7 +55138,7 @@ window.allHeroes =
             "Resist Health Steal Ailments: This character has innate resistance against status ailments that steal health.",
             "Status Effect on Mana Reduction: This character gets +94% defense against Holy for 3 turns when their mana is reduced."
         ],
-        "family": 2021,
+        "family": "hotm2021",
         "costume_id": 0,
         "originalIndex": 803,
         "lb1": {
@@ -55215,7 +55215,7 @@ window.allHeroes =
             "Poison Bite."
         ],
         "passives": [],
-        "family": "corellia",
+        "family": "pirate",
         "costume_id": 0,
         "originalIndex": 804,
         "lb1": {
@@ -55291,7 +55291,7 @@ window.allHeroes =
         "passives": [
             "Poison on Special Skill: When this character casts their Special Skill, all enemies receive 504 Poison damage over 4 turns."
         ],
-        "family": "corellia",
+        "family": "pirate",
         "costume_id": 1,
         "originalIndex": 805,
         "lb1": {
@@ -55363,7 +55363,7 @@ window.allHeroes =
             "Resist Insanity: This character has innate resistance against Insanity.",
             "Resist Attack Reduction: This character has innate resistance against status ailments, stacks and Wither effects that affect attack."
         ],
-        "family": "woodlandfaun",
+        "family": "faun",
         "costume_id": 0,
         "originalIndex": 806,
         "lb1": {
@@ -55439,7 +55439,7 @@ window.allHeroes =
             " * The caster gets +19% mana generation for 2 turns.",
             "Resist Insanity: This character has innate resistance against Insanity."
         ],
-        "family": "nightmaresofatlantis",
+        "family": "tales1_baddies",
         "costume_id": 0,
         "originalIndex": 807,
         "lb1": {
@@ -55518,7 +55518,7 @@ window.allHeroes =
             " * The caster gets +19% mana generation for 2 turns.",
             "Resist Insanity: This character has innate resistance against Insanity."
         ],
-        "family": "nightmaresofatlantis",
+        "family": "tales1_baddies",
         "costume_id": 1,
         "originalIndex": 808,
         "lb1": {
@@ -55812,7 +55812,7 @@ window.allHeroes =
             "Resist Mana Generation Ailments: This character has innate resistance against status ailments and negative stacks that affect mana generation. Doesn’t apply to status ailments that stop mana generation or steal mana.",
             "Mana on Health Boosting Special Skill: This character gains 5% mana each time an enemy casts a Special Skill that directly boosts health."
         ],
-        "family": 2022,
+        "family": "hotm2022",
         "costume_id": 0,
         "originalIndex": 812,
         "lb1": {
@@ -55888,7 +55888,7 @@ window.allHeroes =
         "passives": [
             "Dodge Special Damage: This character has a 15% chance to dodge Special Skills that deal damage."
         ],
-        "family": "moth",
+        "family": "moths",
         "costume_id": 0,
         "originalIndex": 813,
         "lb1": {
@@ -56803,7 +56803,7 @@ window.allHeroes =
             "All enemies receive 280 Poison damage, and an increase of 16 damage per each Dark shield on the board over 4 turns up to 408 damage."
         ],
         "passives": [],
-        "family": "christmas",
+        "family": "winter",
         "costume_id": 0,
         "originalIndex": 826,
         "lb1": {
@@ -56967,7 +56967,7 @@ window.allHeroes =
             " * All allies get +21% critical chance for 2 turns.",
             "Resist Insanity: This character has innate resistance against Insanity."
         ],
-        "family": "defendersofatlantis",
+        "family": "tales1_goodies",
         "costume_id": 0,
         "originalIndex": 828,
         "lb1": {
@@ -57049,7 +57049,7 @@ window.allHeroes =
             " * All allies get +21% critical chance for 2 turns.",
             "Resist Insanity: This character has innate resistance against Insanity."
         ],
-        "family": "defendersofatlantis",
+        "family": "tales1_goodies",
         "costume_id": 1,
         "originalIndex": 829,
         "lb1": {
@@ -57815,7 +57815,7 @@ window.allHeroes =
             "The target and nearby enemies get -90% increase for any healing received for 4 turns."
         ],
         "passives": [],
-        "family": "corellia",
+        "family": "pirate",
         "costume_id": 0,
         "originalIndex": 841,
         "lb1": {
@@ -57882,7 +57882,7 @@ window.allHeroes =
         "passives": [
             "Poison on Special Skill: When this character casts their Special Skill, all enemies receive 476 Poison damage over 4 turns."
         ],
-        "family": "corellia",
+        "family": "pirate",
         "costume_id": 1,
         "originalIndex": 842,
         "lb1": {
@@ -58400,7 +58400,7 @@ window.allHeroes =
         "AetherPower": "Fiend Resist",
         "color": "Purple",
         "class": "Sorcerer",
-        "speed": "Slayer",
+        "speed": "Slow",
         "skill": "Curse of the Specter",
         "types": [
             "Hit All",
@@ -58438,7 +58438,7 @@ window.allHeroes =
         "passives": [
             "Resist Damage from Status Effects: This charater has innate resistance against incoming damage from status effects."
         ],
-        "family": "slayer",
+        "family": "slayers",
         "costume_id": 0,
         "originalIndex": 850,
         "lb1": {
@@ -58478,7 +58478,7 @@ window.allHeroes =
         "AetherPower": "Damage Reduction",
         "color": "Purple",
         "class": "Wizard",
-        "speed": "Slayer",
+        "speed": "Slow",
         "skill": "Curse of the Cephaloid",
         "types": [
             "Hit All",
@@ -58520,7 +58520,7 @@ window.allHeroes =
             "Resist Damage from Status Effects: This character has innate resistance against incoming damage from status effects.",
             "Bleed on Special Skill: When this character casts their Special Skill, all enemies receive 544 Bleed damage over 4 turns."
         ],
-        "family": "slayer",
+        "family": "slayers",
         "costume_id": 1,
         "originalIndex": 851,
         "lb1": {
@@ -58669,7 +58669,7 @@ window.allHeroes =
         "passives": [
             "Resist mana reduction: This character has innate resistance against mana reduction."
         ],
-        "family": 2019,
+        "family": "hotm2019",
         "costume_id": 0,
         "originalIndex": 853,
         "lb1": {
@@ -58747,7 +58747,7 @@ window.allHeroes =
             "Resist mana reduction: This character has innate resistance against mana reduction.",
             "Cleanse on Special: When this character casts their Special Skill, they cleanse the newest status ailment from all allies."
         ],
-        "family": 2019,
+        "family": "hotm2019",
         "costume_id": 1,
         "originalIndex": 854,
         "lb1": {
@@ -59120,7 +59120,7 @@ window.allHeroes =
             "Resist Mana Generation Ailments: This character has innate resistance against ailments and negative stacks that affect mana generation. Doesn’t apply to status ailments that stop mana generation or steal mana.",
             "Mana on Health Recovery: This character receives 5% mana each time its health is recovered."
         ],
-        "family": 2024,
+        "family": "hotm2024",
         "costume_id": 0,
         "originalIndex": 859,
         "lb1": {
@@ -59422,7 +59422,7 @@ window.allHeroes =
             "Mana on Status Ailment Received: This character gains 5% mana when they receive a status ailment or a negative stacks.",
             "Resist Attack Reduction: This character has innate resistance against status ailments, stacks and Wither effects that affect attack."
         ],
-        "family": "woodlandfaun",
+        "family": "faun",
         "costume_id": 0,
         "originalIndex": 863,
         "lb1": {
@@ -59558,7 +59558,7 @@ window.allHeroes =
             "Elemental Link gives +10% mana generation for all Dark allies for 4 turns. This effect can’t be displelled."
         ],
         "passives": [],
-        "family": 2017,
+        "family": "hotm2017",
         "costume_id": 0,
         "originalIndex": 865,
         "lb1": {
@@ -59623,7 +59623,7 @@ window.allHeroes =
         "passives": [
             "Dispel on Special Skill: When this character casts their Special Skill, they dispel the newest status effect buff from all enemies."
         ],
-        "family": 2017,
+        "family": "hotm2017",
         "costume_id": 1,
         "originalIndex": 866,
         "lb1": {
@@ -59850,7 +59850,7 @@ window.allHeroes =
             "Increased special skill damage: The first time this character casts a Special Skill that deals damage, an additional 50% is added to its power.",
             "Resist blind: This character has innate resistance against status ailments that affect accuracy. Doesn`t apply to status effects from allies."
         ],
-        "family": 2023,
+        "family": "hotm2023",
         "costume_id": 0,
         "originalIndex": 869,
         "lb1": {
@@ -59999,7 +59999,7 @@ window.allHeroes =
             " * Deals 80% damage to all enemies.",
             " * The caster gets +19% mana generation for 2 turns."
         ],
-        "family": "nightmaresofatlantis",
+        "family": "tales1_baddies",
         "costume_id": 0,
         "originalIndex": 871,
         "lb1": {
@@ -60084,7 +60084,7 @@ window.allHeroes =
             " * The caster gets +19% mana generation for 2 turns.",
             "Resist Insanity: This character has innate resistance against Insanity."
         ],
-        "family": "nightmaresofatlantis",
+        "family": "tales1_baddies",
         "costume_id": 1,
         "originalIndex": 872,
         "lb1": {
@@ -60156,7 +60156,7 @@ window.allHeroes =
         "passives": [
             "Cleanse on Minion Death: This character is cleansed of status ailments when Minion owned by them is destroyed. "
         ],
-        "family": "maskedgod",
+        "family": "masquerade",
         "costume_id": 0,
         "originalIndex": 873,
         "lb1": {
@@ -60451,7 +60451,7 @@ window.allHeroes =
             "Mana Generation Stopping: This character has innate resistance against status ailments that stop mana generation.",
             "Resist Poison: This character has innate resistance against Poison."
         ],
-        "family": 2023,
+        "family": "hotm2023",
         "costume_id": 0,
         "originalIndex": 877,
         "lb1": {
@@ -60602,7 +60602,7 @@ window.allHeroes =
             "Passive Skill as defending character: This hero receives less elemental  damage from Troops of stronger element.",
             " - Received elemental damage: -10%"
         ],
-        "family": "superelemental",
+        "family": "super_elemental",
         "costume_id": 0,
         "originalIndex": 879,
         "lb1": {
@@ -60672,7 +60672,7 @@ window.allHeroes =
             "Superior Resist Negative Minion Effects: This character has innate resistance against incoming negative effects and damage from Minions and Mega Minions.",
             "Perfect Accuracy: This character’s Special Skill never misses its targets."
         ],
-        "family": "astraldwarfs",
+        "family": "astral_dwarfs",
         "costume_id": 0,
         "originalIndex": 880,
         "lb1": {
@@ -60744,7 +60744,7 @@ window.allHeroes =
         "passives": [
             "Steal Buff: When this character casts their Special Skill, they have a 50% chance to steal the newest dispellable buff from a random enemy that has buffs. If no enemy has buffs, deals 70% damage to all enemies."
         ],
-        "family": "morlovia",
+        "family": "halloween",
         "costume_id": 0,
         "originalIndex": 881,
         "lb1": {
@@ -60819,7 +60819,7 @@ window.allHeroes =
             "The target and nearby enemies get -24% defense for 5 turns."
         ],
         "passives": [],
-        "family": "morlovia",
+        "family": "halloween",
         "costume_id": 1,
         "originalIndex": 882,
         "lb1": {
@@ -60891,7 +60891,7 @@ window.allHeroes =
             "Resist Mana reduction: This character has an innate resistance against mana Reduction.",
             "Guard Rally: Every 4 turns, removes all Wither effects from all allies."
         ],
-        "family": "garrisonguard",
+        "family": "garrison",
         "costume_id": 0,
         "originalIndex": 883,
         "lb1": {
@@ -60973,7 +60973,7 @@ window.allHeroes =
             "Cursed sapling summoner: When an enemy summons any minions by special skill, this character summons a Cursed Sapling Fiend for that enemy.",
             "Resist negative minion effects: This character has innate resistance against incoming negative effects and damage from Minions. "
         ],
-        "family": 2022,
+        "family": "hotm2022",
         "costume_id": 0,
         "originalIndex": 884,
         "lb1": {
@@ -61038,7 +61038,7 @@ window.allHeroes =
             "On the last turn, allies revert to their original element."
         ],
         "passives": [],
-        "family": "springvale",
+        "family": "easter",
         "costume_id": 0,
         "originalIndex": 885,
         "lb1": {
@@ -61109,7 +61109,7 @@ window.allHeroes =
             "Resist Poison: This character has innate resistance against Poison.",
             "Share Received Damage: 20% of damage received by this charater is shared with other allies."
         ],
-        "family": "astralelves",
+        "family": "astral_elves",
         "costume_id": 0,
         "originalIndex": 886,
         "lb1": {
@@ -61412,7 +61412,7 @@ window.allHeroes =
         "passives": [
             "Decrease Ailment Duration: Duration of the first 3 status ailments this character receives from Special Skill is decreased by 1 turn."
         ],
-        "family": "underwild",
+        "family": "abyss",
         "costume_id": 0,
         "originalIndex": 890,
         "lb1": {
@@ -61490,7 +61490,7 @@ window.allHeroes =
             "Decrease Ailment Duration: Duration of the first 3 status ailments this character receives from Special Skill is decreased by 1 turn.",
             "Health Boost on Special Skill: On Special Skill cast, boosts all allies’ HP by 10%."
         ],
-        "family": "underwild",
+        "family": "abyss",
         "costume_id": 1,
         "originalIndex": 891,
         "lb1": {
@@ -61566,7 +61566,7 @@ window.allHeroes =
             "Resist Insanity: This character has innate resistance against Insanity.",
             "Resist Attack Reduction: This character has innate resistance against status ailments, stacks and Wither effects that affect attack."
         ],
-        "family": "woodlandfaun",
+        "family": "faun",
         "costume_id": 0,
         "originalIndex": 892,
         "lb1": {
@@ -61641,7 +61641,7 @@ window.allHeroes =
             "Resist Blind: This character has innate resistance against status ailments that affect accuracy. Doesn’t apply to original status effects from allies.",
             "Increased Special Skill Damage: This first 2 times this character casts a Special Skill that deals damage, an additional 50% is added to its power."
         ],
-        "family": 2025,
+        "family": "hotm2025",
         "costume_id": 0,
         "originalIndex": 893,
         "lb1": {
@@ -61713,7 +61713,7 @@ window.allHeroes =
         "passives": [
             "Resist Sand Damage: This character has innate resistance against Sand damage."
         ],
-        "family": 2020,
+        "family": "hotm2020",
         "costume_id": 0,
         "originalIndex": 894,
         "lb1": {
@@ -61770,7 +61770,7 @@ window.allHeroes =
             "Recovers 27% health for all allies"
         ],
         "passives": [],
-        "family": null,
+        "family": "classic",
         "costume_id": 0,
         "originalIndex": 895,
         "cn_skill_info": []
@@ -61803,7 +61803,7 @@ window.allHeroes =
             "Deals 265% damage to the target"
         ],
         "passives": [],
-        "family": null,
+        "family": "classic",
         "costume_id": 0,
         "originalIndex": 896,
         "cn_skill_info": []
@@ -61836,7 +61836,7 @@ window.allHeroes =
             "Deals 115% damage to all enemies"
         ],
         "passives": [],
-        "family": null,
+        "family": "classic",
         "costume_id": 0,
         "originalIndex": 897,
         "cn_skill_info": []
@@ -61869,7 +61869,7 @@ window.allHeroes =
             "All allies get 48% attack for 4 turns"
         ],
         "passives": [],
-        "family": null,
+        "family": "classic",
         "costume_id": 0,
         "originalIndex": 898,
         "cn_skill_info": []
@@ -61902,7 +61902,7 @@ window.allHeroes =
             "All allies get +48% attack for 4 turns"
         ],
         "passives": [],
-        "family": null,
+        "family": "classic",
         "costume_id": 0,
         "originalIndex": 899,
         "cn_skill_info": []
@@ -61935,7 +61935,7 @@ window.allHeroes =
             "Deals 200% damage to the target and minor damage to nearby enemies"
         ],
         "passives": [],
-        "family": null,
+        "family": "classic",
         "costume_id": 0,
         "originalIndex": 900,
         "cn_skill_info": []
@@ -62236,7 +62236,7 @@ window.allHeroes =
             " * Deals 80% damage to all enemies.",
             " * The caster gets +19% mana generation for 2 turns."
         ],
-        "family": "nightmaresofatlantis",
+        "family": "tales1_baddies",
         "costume_id": 0,
         "originalIndex": 905,
         "lb1": {
@@ -62310,7 +62310,7 @@ window.allHeroes =
             " * The caster gets +19% mana generation for 2 turns.",
             "Resist Insanity: This character has an innate resistance against Insanity."
         ],
-        "family": "nightmaresofatlantis",
+        "family": "tales1_baddies",
         "costume_id": 1,
         "originalIndex": 906,
         "lb1": {
@@ -62356,7 +62356,7 @@ window.allHeroes =
             "Counterattackers",
             "Damage Sharers"
         ],
-        "source": "Monster Island Summon",
+        "source": "Covenant Summon",
         "Release date": "2022-12-24",
         "specialId": "squeak_of_protection",
         "passiveSkills": [
@@ -62378,7 +62378,7 @@ window.allHeroes =
             "Damage over time on special: When this character casts their Special Skill, they give a Hunter’s Mark on a random enemy. The target receives 150 damage over 3 turns. If a target already has this effect, the duration will be refreshed and the damage will be increased by 150, up to 1500 damage in total.",
             "Hunter`s sense: When this character casts their Special Skill, they transfer the newest cleansable status ailment from themself to the target. If the Special Skill cannot target an enemy, a random enemy is chosen instead. If this character has no cleansable status ailments, they recover 12% health."
         ],
-        "family": "abysshunter",
+        "family": "abyss_hunter",
         "costume_id": 0,
         "originalIndex": 907,
         "lb1": {
@@ -62437,7 +62437,7 @@ window.allHeroes =
             "All allies get +24% mana generation for 4 turns."
         ],
         "passives": [],
-        "family": "avalon",
+        "family": "knight",
         "costume_id": 0,
         "originalIndex": 908,
         "lb1": {
@@ -62579,7 +62579,7 @@ window.allHeroes =
             "All damage the target and nearby enemies receive is increased by +24% and a further +2% increase per each Fire shield on the board for 4 turns, up to +40% increased damage."
         ],
         "passives": [],
-        "family": "christmas",
+        "family": "winter",
         "costume_id": 0,
         "originalIndex": 910,
         "lb1": {
@@ -63632,7 +63632,7 @@ window.allHeroes =
             " * Each of these effects can activate once per turn.",
             "Resist Bleed Damage: This character has innate resistance against Bleed.    "
         ],
-        "family": "outlaws",
+        "family": "outlaw",
         "costume_id": 0,
         "originalIndex": 926,
         "lb1": {
@@ -63692,7 +63692,7 @@ window.allHeroes =
             "The caster gets +45% attack, and a further 20% increase every time they are hit during 5 turns."
         ],
         "passives": [],
-        "family": "sakura",
+        "family": "japanese",
         "costume_id": 0,
         "originalIndex": 927,
         "lb1": {
@@ -64079,7 +64079,7 @@ window.allHeroes =
         "passives": [
             "Dodge Special Damage: This character has a 15% chance to dodge Special Skills that deal damage."
         ],
-        "family": "moth",
+        "family": "moths",
         "costume_id": 0,
         "originalIndex": 933,
         "lb1": {
@@ -64147,7 +64147,7 @@ window.allHeroes =
             "Summons an Elf Minion with 10% HP and 10% attack inherited from the caster"
         ],
         "passives": [],
-        "family": "christmas",
+        "family": "winter",
         "costume_id": 0,
         "originalIndex": 934,
         "lb1": {
@@ -64216,7 +64216,7 @@ window.allHeroes =
             "When a Minion is summoned to any ally, this character gains 5% health and 5% mana. This effect can activate only once per turn.",
             "When a Fiend is summoned to any enemy, this character deals 85% damage to all enemies. This effect can activate only once per turn."
         ],
-        "family": "pets",
+        "family": "mighty_pet",
         "costume_id": 0,
         "originalIndex": 935,
         "lb1": {
@@ -64335,7 +64335,7 @@ window.allHeroes =
             "The caster gets -20% defense for 3 turns. This effect can't be cleansed"
         ],
         "passives": [],
-        "family": "springvale",
+        "family": "easter",
         "costume_id": 0,
         "originalIndex": 937,
         "lb1": {
@@ -64402,7 +64402,7 @@ window.allHeroes =
             "Resist Poison: This character has innate resistance against Poison.",
             "Share Received Damage: 20% of damage received by this charater is shared  with other allies."
         ],
-        "family": "astralelves",
+        "family": "astral_elves",
         "costume_id": 0,
         "originalIndex": 938,
         "lb1": {
@@ -64527,7 +64527,7 @@ window.allHeroes =
         "passives": [
             "Start Battle with Mana: This character receives 20% mana at the start of the battle."
         ],
-        "family": "underwild",
+        "family": "abyss",
         "costume_id": 0,
         "originalIndex": 940,
         "lb1": {
@@ -64585,7 +64585,7 @@ window.allHeroes =
         "passives": [
             "Start Battle with Mana: This character receives 20% mana at the start of the battle."
         ],
-        "family": "underwild",
+        "family": "abyss",
         "costume_id": 1,
         "originalIndex": 941,
         "lb1": {
@@ -64750,7 +64750,7 @@ window.allHeroes =
         "AetherPower": "Fiend Resist",
         "color": "Red",
         "class": "Wizard",
-        "speed": "Slayer",
+        "speed": "Slow",
         "skill": "Wily Wisps",
         "types": [
             "Hit All",
@@ -64788,7 +64788,7 @@ window.allHeroes =
         "passives": [
             "Resist Damage from Status Effects: This charater has innate resistance against incoming damage from status effects."
         ],
-        "family": "slayer",
+        "family": "slayers",
         "costume_id": 0,
         "originalIndex": 944,
         "lb1": {
@@ -65170,7 +65170,7 @@ window.allHeroes =
             "The target receives a Gift Bomb. After 3 turns the Gift Bomb explodes and deals 374 damage to the target and nearby enemies.  The gift Bomb also explodes when the target is defeated."
         ],
         "passives": [],
-        "family": "christmas",
+        "family": "winter",
         "costume_id": 0,
         "originalIndex": 950,
         "lb1": {
@@ -65201,7 +65201,7 @@ window.allHeroes =
         "AetherPower": "Attack Up",
         "color": "Red",
         "class": "Fighter",
-        "speed": "Slayer",
+        "speed": "Slow",
         "skill": "Reanimated Spite",
         "types": [
             "Hit 3",
@@ -65237,7 +65237,7 @@ window.allHeroes =
         "passives": [
             "Resist Damage from Status Effects: This charater has innate resistance against incoming damage from status effects."
         ],
-        "family": "slayer",
+        "family": "slayers",
         "costume_id": 0,
         "originalIndex": 951,
         "lb1": {
@@ -65631,7 +65631,7 @@ window.allHeroes =
             "The enemy with the highest base defense gets -44% defense for 4 turns."
         ],
         "passives": [],
-        "family": "starfall",
+        "family": "circus",
         "costume_id": 0,
         "originalIndex": 957,
         "lb1": {
@@ -66137,7 +66137,7 @@ window.allHeroes =
             "The target and nearby enemies get -54% defense against fire for 4 turns"
         ],
         "passives": [],
-        "family": "guardiansteltoc",
+        "family": "guardian",
         "costume_id": 0,
         "originalIndex": 965,
         "lb1": {
@@ -66940,7 +66940,7 @@ window.allHeroes =
         "passives": [
             "Increase Buff Duration: Duration of the first 3 buff this hero receives from Special Skills is increased by 1 turn."
         ],
-        "family": "underwild",
+        "family": "abyss",
         "costume_id": 0,
         "originalIndex": 977,
         "lb1": {
@@ -67000,7 +67000,7 @@ window.allHeroes =
         "passives": [
             "Increase Buff Duration: Duration of the first 3 buff this hero receives from Special Skills is increased by 1 turn."
         ],
-        "family": "underwild",
+        "family": "abyss",
         "costume_id": 1,
         "originalIndex": 978,
         "lb1": {
@@ -67041,7 +67041,7 @@ window.allHeroes =
             "DoT Attackers",
             "Fiends Summoners"
         ],
-        "source": "Monster Island Summon",
+        "source": "Covenant Summon",
         "Release date": "2022-08-25",
         "specialId": "claws_of_the_hunter",
         "passiveSkills": [
@@ -67063,7 +67063,7 @@ window.allHeroes =
             "When this character casts their Special Skill, they give a Hunter’s Mark on a random enemy. The target receives 150 damage over 3 turns. If a target already has this effect, the duration will be refreshed and the damage will be increased by 150, up to 1500 damage in total.",
             "Special Skill damage reduction: This character has a 10% chance to drop the direct damage received from Special Skills to 1."
         ],
-        "family": "plainshunter",
+        "family": "plains_hunter",
         "costume_id": 0,
         "originalIndex": 979,
         "lb1": {
@@ -67135,7 +67135,7 @@ window.allHeroes =
             " * The effects diminish the less Flight Momentum character has.",
             "Weaker Mega Minions: Enemy Mega Minions have -75% HP."
         ],
-        "family": "magiccarpet",
+        "family": "magic_carpet",
         "costume_id": 0,
         "originalIndex": 980,
         "lb1": {
@@ -67211,7 +67211,7 @@ window.allHeroes =
             "Passive Skill as defending character: This hero receives less elemental damage from Troops of stronger element.",
             " - Received elemental damage: -10%"
         ],
-        "family": "superelemental",
+        "family": "super_elemental",
         "costume_id": 0,
         "originalIndex": 981,
         "lb1": {
@@ -67357,7 +67357,7 @@ window.allHeroes =
         "passives": [
             "Decrease Ailment Duration: Duration of the first 3 status ailments this character receives from Special Skill is decreased by 1 turn."
         ],
-        "family": "underwild",
+        "family": "abyss",
         "costume_id": 0,
         "originalIndex": 983,
         "lb1": {
@@ -67423,7 +67423,7 @@ window.allHeroes =
         "passives": [
             "Decrease Ailment Duration: Duration of the first 3 status ailments this character receives from Special Skill is decreased by 1 turn."
         ],
-        "family": "underwild",
+        "family": "abyss",
         "costume_id": 1,
         "originalIndex": 984,
         "lb1": {
@@ -67878,7 +67878,7 @@ window.allHeroes =
             "The caster and nearby allies get +48% attack for 4 turns"
         ],
         "passives": [],
-        "family": "avalon",
+        "family": "knight",
         "costume_id": 0,
         "originalIndex": 991,
         "lb1": {
@@ -67941,7 +67941,7 @@ window.allHeroes =
             "The caster regenerates a moderate amount of mana for each counterattack for 5 turns. This effect gets diminished for consecutive activations during the same turn."
         ],
         "passives": [],
-        "family": "sakura",
+        "family": "japanese",
         "costume_id": 0,
         "originalIndex": 992,
         "lb1": {
@@ -68005,7 +68005,7 @@ window.allHeroes =
             "The caster regenerates a moderate amount of mana for each counterattack for 5 turns. The effect gets diminished for consecutive activations during the same turn."
         ],
         "passives": [],
-        "family": "sakura",
+        "family": "japanese",
         "costume_id": 1,
         "originalIndex": 993,
         "lb1": {
@@ -68824,7 +68824,7 @@ window.allHeroes =
         "passives": [
             "Steal Buff: When this character casts their Special Skill, they have a 50% chance to steal the newest dispellable buff from a random enemy that has buffs. If no enemy has buffs, deals 70% damage to all enemies."
         ],
-        "family": "morlovia",
+        "family": "halloween",
         "costume_id": 0,
         "originalIndex": 1005,
         "lb1": {
@@ -68898,7 +68898,7 @@ window.allHeroes =
         "passives": [
             "Steal Buff: When this character casts their Special Skill, they have a 50% chance to steal the newest dispellable buff from a random enemy that has buffs. If no enemy has buffs, deals 70% damage to all enemies."
         ],
-        "family": "morlovia",
+        "family": "halloween",
         "costume_id": 1,
         "originalIndex": 1006,
         "lb1": {
@@ -68967,7 +68967,7 @@ window.allHeroes =
         "passives": [
             "Steal Buff: When this character casts their Special Skill, they have a 50% chance to steal the newest dispellable buff from a random enemy that has buffs. If no enemy has buffs, deals 70% damage to all enemies."
         ],
-        "family": "morlovia",
+        "family": "halloween",
         "costume_id": 0,
         "originalIndex": 1007,
         "lb1": {
@@ -69106,7 +69106,7 @@ window.allHeroes =
         "passives": [
             "Resist Mana Generation Ailments: This character has an innate resistance against status ailments and negative stacks that affect mana generation. Doesn't apply to status ailments that stop mana generation or steal mana."
         ],
-        "family": 2019,
+        "family": "hotm2019",
         "costume_id": 0,
         "originalIndex": 1009,
         "lb1": {
@@ -69167,7 +69167,7 @@ window.allHeroes =
         "passives": [
             "Cleanse on Minion Death: This character is cleansed of status ailments when Minion owned by them is destroyed. "
         ],
-        "family": "maskedgod",
+        "family": "masquerade",
         "costume_id": 0,
         "originalIndex": 1010,
         "lb1": {
@@ -69241,7 +69241,7 @@ window.allHeroes =
             "Resist Insanity: This character has innate resistance against Insanity.",
             "Resist Attack Reduction: This character has innate resistance against status ailments, stacks and Wither effects that affect attack."
         ],
-        "family": "woodlandfaun",
+        "family": "faun",
         "costume_id": 0,
         "originalIndex": 1011,
         "lb1": {
@@ -69309,7 +69309,7 @@ window.allHeroes =
             "Element Link gives all Fire allies +15% attack and +15% defense for 6 turns. This effect can't be dispelled."
         ],
         "passives": [],
-        "family": 2017,
+        "family": "hotm2017",
         "costume_id": 0,
         "originalIndex": 1012,
         "lb1": {
@@ -69380,7 +69380,7 @@ window.allHeroes =
         "passives": [
             "Cleanse on Special: When this character casts their Special Skill, they cleanse the newest status ailment from all allies."
         ],
-        "family": 2017,
+        "family": "hotm2017",
         "costume_id": 1,
         "originalIndex": 1013,
         "lb1": {
@@ -69545,7 +69545,7 @@ window.allHeroes =
             "Passive Skill as defending character: This hero receives less elemental damage from Troops of stronger element.",
             " - Received elemental damage: -10%"
         ],
-        "family": "superelemental",
+        "family": "super_elemental",
         "costume_id": 0,
         "originalIndex": 1015,
         "lb1": {
@@ -70240,7 +70240,7 @@ window.allHeroes =
             "Wrath of Pets: When a Fiend is summoned to any enemy, this character deals 85% damage to all enemies. This effect can activate only once per turn.",
             "Friend of the Familiars: When a Minion is summoned to any ally, this character gains 5% health and 5% mana. This effect can activate only once per turn."
         ],
-        "family": "pets",
+        "family": "mighty_pet",
         "costume_id": 0,
         "originalIndex": 1025,
         "lb1": {
@@ -70544,7 +70544,7 @@ window.allHeroes =
         "passives": [
             "Resist Damage from Status Effects: This charater has innate resistance against incoming damage from status effects."
         ],
-        "family": "corellia",
+        "family": "pirate",
         "costume_id": 0,
         "originalIndex": 1029,
         "lb1": {
@@ -70610,7 +70610,7 @@ window.allHeroes =
             "All allies get +45% attack, and a further 20% increase every time they are hit during 3 turns"
         ],
         "passives": [],
-        "family": "avalon",
+        "family": "knight",
         "costume_id": 0,
         "originalIndex": 1030,
         "lb1": {
@@ -70670,7 +70670,7 @@ window.allHeroes =
             "All allies get +54% attack for 4 turns."
         ],
         "passives": [],
-        "family": "avalon",
+        "family": "knight",
         "costume_id": 1,
         "originalIndex": 1031,
         "lb1": {
@@ -70783,7 +70783,7 @@ window.allHeroes =
             "Extra Damage Dealers",
             "DoT Attackers"
         ],
-        "source": "Monster Island Summon",
+        "source": "Covenant Summon",
         "Release date": "2023-03-03",
         "specialId": "fury_of_the_silverback",
         "passiveSkills": [
@@ -70805,7 +70805,7 @@ window.allHeroes =
             "Hunter’s Vigor: When this character casts their Special Skill, they get +20% attack for 3 turns. This effect can be active in addition to other effects that alter attack.",
             "Damage Over Time on Special: When this character casts their Special Skill, they give a Hunter’s Mark on a random enemy. The target receives 150 damage over 3 turns. If a target already has this effect, the duration will be refreshed and the damage will be increased with 150, up to 1500 damage in total."
         ],
-        "family": "junglehunter",
+        "family": "jungle_hunter",
         "costume_id": 0,
         "originalIndex": 1033,
         "lb1": {
@@ -70949,7 +70949,7 @@ window.allHeroes =
             "The more mana enemies have, the more damage they will receive, up to 335%"
         ],
         "passives": [],
-        "family": "corellia",
+        "family": "pirate",
         "costume_id": 0,
         "originalIndex": 1035,
         "lb1": {
@@ -71011,7 +71011,7 @@ window.allHeroes =
         "passives": [
             "This character receives 20% mana at the start of the battle."
         ],
-        "family": "underwild",
+        "family": "abyss",
         "costume_id": 0,
         "originalIndex": 1036,
         "lb1": {
@@ -71078,7 +71078,7 @@ window.allHeroes =
             "Start Battle with Mana: This character receives 20% mana at the start of the battle.",
             "Increased Damage Against Boosted Health: After Special Skill cast, all allies’ normal attacks and Special Skills deal +70% damage against targets with boosted health for 4 turns."
         ],
-        "family": "underwild",
+        "family": "abyss",
         "costume_id": 1,
         "originalIndex": 1037,
         "lb1": {
@@ -71213,7 +71213,7 @@ window.allHeroes =
         "passives": [
             "Cleanse on Minion Death: This character is cleansed of status ailments when Minion owned by them is destroyed. "
         ],
-        "family": "maskedgod",
+        "family": "masquerade",
         "costume_id": 0,
         "originalIndex": 1039,
         "lb1": {
@@ -71289,7 +71289,7 @@ window.allHeroes =
             "Superior Resist Negative Minion Effects: This character has innate resistance against incoming negative effects and damage from Minions and Mega Minions.",
             "Perfect Accuracy: This character’s Special Skill never misses its targets."
         ],
-        "family": "astraldwarfs",
+        "family": "astral_dwarfs",
         "costume_id": 0,
         "originalIndex": 1040,
         "lb1": {
@@ -71511,7 +71511,7 @@ window.allHeroes =
             "Wrath of Pets: When a Fiend is summoned to any enemy, this character deals 85% damage to all enemies. This effect can activate only once per turn.",
             "Friend of the Familiars: When a Minion is summoned to any ally, this character gains 5% health and 5% mana. This effect can activate only once per turn."
         ],
-        "family": "pets",
+        "family": "mighty_pet",
         "costume_id": 0,
         "originalIndex": 1043,
         "lb1": {
@@ -71584,7 +71584,7 @@ window.allHeroes =
         "passives": [
             "Dodge Special Damage: This character has a 15% chance to dodge Special Skills that deal damage."
         ],
-        "family": "moth",
+        "family": "moths",
         "costume_id": 0,
         "originalIndex": 1044,
         "lb1": {
@@ -71657,7 +71657,7 @@ window.allHeroes =
         "passives": [
             "Resist Damage from Status Effects: This charater has innate resistance against incoming damage from status effects."
         ],
-        "family": "grimforest",
+        "family": "fable",
         "costume_id": 0,
         "originalIndex": 1045,
         "lb1": {
@@ -71706,7 +71706,7 @@ window.allHeroes =
             "DoT Attackers",
             "Fiends Summoners"
         ],
-        "source": "Monster Island Summon",
+        "source": "Covenant Summon",
         "Release date": "2022-08-25",
         "specialId": "bone_ritual",
         "passiveSkills": [
@@ -71729,7 +71729,7 @@ window.allHeroes =
             "Special Skill Damage Reduction: This character has a 10% chance to drop the direct damage received from Special Skills to 1.",
             "Damage over Time on Special: When this character casts their Special Skill, they give a Hunter’s Mark on a random enemy. The target receives 150 damage over 3 turns. If a target already has this effect, the duration will be refreshed and the damage will be increased by 150, up to 1500 damage in total."
         ],
-        "family": "plainshunter",
+        "family": "plains_hunter",
         "costume_id": 0,
         "originalIndex": 1046,
         "lb1": {
@@ -71796,7 +71796,7 @@ window.allHeroes =
             "All enemies receive a Mystery Potion. After 3 turns the Mystery Potion explodes and deals 450 damage to the target. After the explosion the target can’t gain mana for 3 turns."
         ],
         "passives": [],
-        "family": "christmas",
+        "family": "winter",
         "costume_id": 0,
         "originalIndex": 1047,
         "lb1": {
@@ -72077,7 +72077,7 @@ window.allHeroes =
             "Resist Mana reduction: This character has an innate resistance against mana reduction.",
             "Guard Rally: Every 4 turns, removes all Wither effects from all allies."
         ],
-        "family": "garrisonguard",
+        "family": "garrison",
         "costume_id": 0,
         "originalIndex": 1051,
         "lb1": {
@@ -72158,7 +72158,7 @@ window.allHeroes =
             " * Deals 80% damage to all enemies.",
             " * The caster get +19% mana generation for 2 turns."
         ],
-        "family": "nightmaresofatlantis",
+        "family": "tales1_baddies",
         "costume_id": 0,
         "originalIndex": 1052,
         "lb1": {
@@ -72238,7 +72238,7 @@ window.allHeroes =
             " * The caster get +19% mana generation for 2 turns.",
             "Resist Insanity: This character has innate resistance against Insanity."
         ],
-        "family": "nightmaresofatlantis",
+        "family": "tales1_baddies",
         "costume_id": 1,
         "originalIndex": 1053,
         "lb1": {
@@ -72309,7 +72309,7 @@ window.allHeroes =
             "Passive Skill as defending character: This hero receives less elemental damage from Troops of stronger element.",
             " - Received elemental damage: -10%"
         ],
-        "family": "superelemental",
+        "family": "super_elemental",
         "costume_id": 0,
         "originalIndex": 1054,
         "lb1": {
@@ -72446,7 +72446,7 @@ window.allHeroes =
             "Snipers",
             "Status Effects Blockers"
         ],
-        "source": "Monster Island Summon",
+        "source": "Covenant Summon",
         "Release date": "2022-10-15",
         "specialId": "flail_swing",
         "passiveSkills": [
@@ -72469,7 +72469,7 @@ window.allHeroes =
             "Special Skill Damage Reduction: This character has a 10% chance to drop the direct damage received from Special Skills to 1.",
             "Damage over Time on Special: When this character casts their Special Skill, they give a Hunter’s Mark on a random enemy. The target receives 150 damage over 3 turns. If a target already has this effect, the duration will be refreshed and the damage will be increased by 150, up to 1500 damage in total."
         ],
-        "family": "plainshunter",
+        "family": "plains_hunter",
         "costume_id": 0,
         "originalIndex": 1056,
         "lb1": {
@@ -72995,7 +72995,7 @@ window.allHeroes =
             "Resist Burn: This character has innate resistance against Burn.",
             "Mana on Burn: This character gains 5% mana each time an enemy receives Burn damage."
         ],
-        "family": 2025,
+        "family": "hotm2025",
         "costume_id": 0,
         "originalIndex": 1064,
         "lb1": {
@@ -73069,7 +73069,7 @@ window.allHeroes =
         "passives": [
             "Increase Buff Duration: Duration of the first 3 buffs this hero receives from Special Skills is increased by 1 turn"
         ],
-        "family": "underwild",
+        "family": "abyss",
         "costume_id": 0,
         "originalIndex": 1065,
         "lb1": {
@@ -73148,7 +73148,7 @@ window.allHeroes =
             "Increase Buff Duration: Duration of the first 3 buff this hero receives from Special Skills is increased by 1 turn.",
             "Increased Damage Against Boosted Health: After Special Skill cast, all allies' normal attacks and Special Skills deal +70% damage against targets with boosted health for 4 turns."
         ],
-        "family": "underwild",
+        "family": "abyss",
         "costume_id": 1,
         "originalIndex": 1066,
         "lb1": {
@@ -73298,7 +73298,7 @@ window.allHeroes =
             " * All allies are immune to new status ailments for 3 turns."
         ],
         "passives": [],
-        "family": "starfall",
+        "family": "circus",
         "costume_id": 0,
         "originalIndex": 1068,
         "lb1": {
@@ -73383,7 +73383,7 @@ window.allHeroes =
         "passives": [
             "Copy Ailment on Cleanse: When a status ailment is cleansed from this hero, a new copy of the cleansed ailment is applied on a random enemy."
         ],
-        "family": "starfall",
+        "family": "circus",
         "costume_id": 1,
         "originalIndex": 1069,
         "lb1": {
@@ -73788,7 +73788,7 @@ window.allHeroes =
             "Resist Mana reduction: This character has an innate resistance against mana reduction.",
             "Guard Rally: Every 4 turns, removes all Wither effects from all allies."
         ],
-        "family": "garrisonguard",
+        "family": "garrison",
         "costume_id": 0,
         "originalIndex": 1074,
         "lb1": {
@@ -74277,7 +74277,7 @@ window.allHeroes =
             " * Deals 80% damage to all enemies.",
             " * The caster gets +19% mana generation for 2 turns."
         ],
-        "family": "nightmaresofatlantis",
+        "family": "tales1_baddies",
         "costume_id": 0,
         "originalIndex": 1081,
         "lb1": {
@@ -74364,7 +74364,7 @@ window.allHeroes =
             " * The caster gets +19% mana generation for 2 turns.",
             "Resist Insanity: This character has innate resistance against Insanity."
         ],
-        "family": "nightmaresofatlantis",
+        "family": "tales1_baddies",
         "costume_id": 1,
         "originalIndex": 1082,
         "lb1": {
@@ -74510,7 +74510,7 @@ window.allHeroes =
             "Element Link gives all Fire allies +5% attack and +5% defense for 6 turns. This effect can't be cleansed."
         ],
         "passives": [],
-        "family": 2018,
+        "family": "hotm2018",
         "costume_id": 0,
         "originalIndex": 1084,
         "lb1": {
@@ -74584,7 +74584,7 @@ window.allHeroes =
         "passives": [
             "Dispel on Special Skill: When this character casts their Special Skill, they dispel the newest status effect buff from all enemies."
         ],
-        "family": 2018,
+        "family": "hotm2018",
         "costume_id": 1,
         "originalIndex": 1085,
         "lb1": {
@@ -74655,7 +74655,7 @@ window.allHeroes =
         "passives": [
             "Resist Healing Ailments: This character has an innate ability to resist status aliments that affect Healing"
         ],
-        "family": 2019,
+        "family": "hotm2019",
         "costume_id": 0,
         "originalIndex": 1086,
         "lb1": {
@@ -74717,7 +74717,7 @@ window.allHeroes =
             "Cleanses status ailments from all allies."
         ],
         "passives": [],
-        "family": "guardiansteltoc",
+        "family": "guardian",
         "costume_id": 0,
         "originalIndex": 1087,
         "lb1": {
@@ -74786,7 +74786,7 @@ window.allHeroes =
             "Dispells buffs from all enemies."
         ],
         "passives": [],
-        "family": "guardiansteltoc",
+        "family": "guardian",
         "costume_id": 1,
         "originalIndex": 1088,
         "lb1": {
@@ -74929,7 +74929,7 @@ window.allHeroes =
             "Resist Poison: This character has innate resistance against Poison.",
             "Share Received Damage: 20% of damage received by this charater is shared with other allies."
         ],
-        "family": "astralelves",
+        "family": "astral_elves",
         "costume_id": 0,
         "originalIndex": 1090,
         "lb1": {
@@ -75370,7 +75370,7 @@ window.allHeroes =
             "Resist Mana reduction: This character has an innate resistance against mana Reduction.",
             "Guard Rally: Every 4 turns, removes all Wither effects from all allies."
         ],
-        "family": "garrisonguard",
+        "family": "garrison",
         "costume_id": 0,
         "originalIndex": 1096,
         "lb1": {
@@ -75448,7 +75448,7 @@ window.allHeroes =
             "Passive Skill as defending character: This hero receives less elemental damage from Troops of stronger element.",
             " - Received elemental damage: -10%"
         ],
-        "family": "superelemental",
+        "family": "super_elemental",
         "costume_id": 0,
         "originalIndex": 1097,
         "lb1": {
@@ -75528,7 +75528,7 @@ window.allHeroes =
             "Passive Skill as defending character: This hero receives less elemental damage from Troops of stronger element.",
             " - Received elemental damage: -25%"
         ],
-        "family": "superelemental",
+        "family": "super_elemental",
         "costume_id": 1,
         "originalIndex": 1098,
         "lb1": {
@@ -75746,7 +75746,7 @@ window.allHeroes =
             "Resist Mana reduction: This character has an innate resistance against mana Reduction.",
             "Guard Rally: Every 4 turns, removes all Wither effects from all allies."
         ],
-        "family": "garrisonguard",
+        "family": "garrison",
         "costume_id": 0,
         "originalIndex": 1101,
         "lb1": {
@@ -75819,7 +75819,7 @@ window.allHeroes =
             "Resist Insanity: This character has innate resistance against Insanity.",
             "Resist Attack Ailments: This character has innate resistance against status ailments that affect attack."
         ],
-        "family": "woodlandfaun",
+        "family": "faun",
         "costume_id": 0,
         "originalIndex": 1102,
         "lb1": {
@@ -75949,7 +75949,7 @@ window.allHeroes =
         "passives": [
             "Resist Health Steal Ailments: The Hero has an innate resistance against status ailments that Steal Health."
         ],
-        "family": 2020,
+        "family": "hotm2020",
         "costume_id": 0,
         "originalIndex": 1104,
         "lb1": {
@@ -76505,7 +76505,7 @@ window.allHeroes =
         "passives": [
             "Start Battle with Mana: This character receives 20% mana at the start of the battle."
         ],
-        "family": "underwild",
+        "family": "abyss",
         "costume_id": 0,
         "originalIndex": 1112,
         "lb1": {
@@ -76573,7 +76573,7 @@ window.allHeroes =
             "Start Battle with Mana: This character receives 20% mana at the start of the battle.",
             "Increased Damage Against Boosted Health: After this character casts their Special Skill, all allies deal +70% increased normal attack and Special Skills damage against targets with boosted health for 4 turns."
         ],
-        "family": "underwild",
+        "family": "abyss",
         "costume_id": 1,
         "originalIndex": 1113,
         "lb1": {
@@ -76774,7 +76774,7 @@ window.allHeroes =
             " * All allies get +21% critical chance for 2 turns.",
             "Resist Insanity: This character has innate resistance against Insanity."
         ],
-        "family": "defendersofatlantis",
+        "family": "tales1_goodies",
         "costume_id": 0,
         "originalIndex": 1116,
         "lb1": {
@@ -76853,7 +76853,7 @@ window.allHeroes =
             " * All allies get +21% critical chance for 2 turns.",
             "Resist Insanity: This character has innate resistance against Insanity."
         ],
-        "family": "defendersofatlantis",
+        "family": "tales1_goodies",
         "costume_id": 1,
         "originalIndex": 1117,
         "lb1": {
@@ -76990,7 +76990,7 @@ window.allHeroes =
             " * Each of these effects can activate once per turn.",
             "Resist Bleed Damage: This character has innate resistance against Bleed.    "
         ],
-        "family": "outlaws",
+        "family": "outlaw",
         "costume_id": 0,
         "originalIndex": 1119,
         "lb1": {
@@ -77302,7 +77302,7 @@ window.allHeroes =
             "Resist Buff Immunity: This character has innate resistance against status ailments that give immunity to new buffs.",
             "Health Recovery on Buff Received: This character recover 5% health when they receive a buff or positive stack."
         ],
-        "family": 2025,
+        "family": "hotm2025",
         "costume_id": 0,
         "originalIndex": 1123,
         "lb1": {
@@ -77699,7 +77699,7 @@ window.allHeroes =
             "All allies reflect all status effects and 115% damage back to the attacker  and block other negative effects from enemies' Ice Special Skills for 4 turns. Status effects cast by characters, Minions and Fiends on the same side cannot be reflected."
         ],
         "passives": [],
-        "family": "sakura",
+        "family": "japanese",
         "costume_id": 0,
         "originalIndex": 1129,
         "lb1": {
@@ -77768,7 +77768,7 @@ window.allHeroes =
             "All allies reflect all status effects and 115% damage back to the attacker and block other negative effects from enemies' Ice Special Skills for 4 turns. Status effects cast by characters, Minions and Fiends on the same side cannot be reflected."
         ],
         "passives": [],
-        "family": "sakura",
+        "family": "japanese",
         "costume_id": 1,
         "originalIndex": 1130,
         "lb1": {
@@ -78021,7 +78021,7 @@ window.allHeroes =
             " * The effects diminish the less Flight Momentum character has.",
             "Weaker Mega Minions: Enemy Mega Minions have -75% HP."
         ],
-        "family": "magiccarpet",
+        "family": "magic_carpet",
         "costume_id": 0,
         "originalIndex": 1133,
         "lb1": {
@@ -78095,7 +78095,7 @@ window.allHeroes =
             "Elemental Link gives +10% mana generation to all Fire allies for 4 turns. This effect can’t be displelled."
         ],
         "passives": [],
-        "family": 2018,
+        "family": "hotm2018",
         "costume_id": 0,
         "originalIndex": 1134,
         "lb1": {
@@ -78170,7 +78170,7 @@ window.allHeroes =
         "passives": [
             "Dispel on Special Skill: When this character casts their Special Skill, they dispel the newest status effect buff from all enemies."
         ],
-        "family": 2018,
+        "family": "hotm2018",
         "costume_id": 1,
         "originalIndex": 1135,
         "lb1": {
@@ -78248,7 +78248,7 @@ window.allHeroes =
             "Ignore Taunt: This character’s Special Skill is not affected by Taunt.",
             "Resist Special Skill Blocking: This character has innate resistance against status ailments that block Special Skills."
         ],
-        "family": 2023,
+        "family": "hotm2023",
         "costume_id": 0,
         "originalIndex": 1136,
         "lb1": {
@@ -78390,7 +78390,7 @@ window.allHeroes =
             "Passive Skill as defending character: This hero receives less elemental damage from Troops of stronger element.",
             " - Received elemental damage: -10%"
         ],
-        "family": "superelemental",
+        "family": "super_elemental",
         "costume_id": 0,
         "originalIndex": 1138,
         "lb1": {
@@ -78542,7 +78542,7 @@ window.allHeroes =
         "passives": [
             "Sparrow Summoner: Summons a Sparrow Minion for self when an enemy summons any Minions by Special Skill."
         ],
-        "family": 2020,
+        "family": "hotm2020",
         "costume_id": 0,
         "originalIndex": 1140,
         "lb1": {
@@ -78741,7 +78741,7 @@ window.allHeroes =
         "passives": [
             "Increase Buff Duration: Duration of the first 3 buff this hero receives from Special Skills is increased by 1 turn."
         ],
-        "family": "underwild",
+        "family": "abyss",
         "costume_id": 0,
         "originalIndex": 1143,
         "lb1": {
@@ -78816,7 +78816,7 @@ window.allHeroes =
             "Increase Buff Duration: Duration of the first 3 buff this hero receives from Special Skills is increased by 1 turn.",
             "Increased Damage Against Boosted Health: After Special Skill cast, all allies' normal attacks and Special Skills deal +70% damage against targets with boosted health for 4 turns."
         ],
-        "family": "underwild",
+        "family": "abyss",
         "costume_id": 1,
         "originalIndex": 1144,
         "lb1": {
@@ -78943,7 +78943,7 @@ window.allHeroes =
             "Healing Reducers",
             "Cleansers"
         ],
-        "source": "Monster Island Summon",
+        "source": "Covenant Summon",
         "Release date": "2022-12-24",
         "specialId": "dauntless_bladestorm",
         "passiveSkills": [
@@ -78965,7 +78965,7 @@ window.allHeroes =
             "Hunter’s Sense: When this character casts their Special Skill, they have 100% chance to transfer the newest status ailment from themself to the target. If the Special Skill cannot target an enemy, a random enemy is chosen instead. If this character has no status ailments, they recover 12% health.",
             "Damage over Time on Special: When this character casts their Special Skill, they give a Hunter’s Mark on a random enemy. The target receives 150 damage over 3 turns. If a target already has this effect, the duration will be refreshed and the damage will be increased by 150, up to 1500 damage in total."
         ],
-        "family": "abysshunter",
+        "family": "abyss_hunter",
         "costume_id": 0,
         "originalIndex": 1146,
         "lb1": {
@@ -79032,7 +79032,7 @@ window.allHeroes =
             "Summons an Elf Minion with 10% HP and 10% attack inherited from the caster."
         ],
         "passives": [],
-        "family": "christmas",
+        "family": "winter",
         "costume_id": 0,
         "originalIndex": 1147,
         "lb1": {
@@ -79261,7 +79261,7 @@ window.allHeroes =
             "Superior Resist Negative Minion Effects: This character has innate resistance against incoming negative effects and damage from Minions and Mega Minions.",
             "Perfect Accuracy: This character’s Special Skill never misses its targets."
         ],
-        "family": "astraldwarfs",
+        "family": "astral_dwarfs",
         "costume_id": 0,
         "originalIndex": 1150,
         "lb1": {
@@ -79330,7 +79330,7 @@ window.allHeroes =
             "All allies get +30% attack for 4 turns."
         ],
         "passives": [],
-        "family": "grimforest",
+        "family": "fable",
         "costume_id": 0,
         "originalIndex": 1151,
         "lb1": {
@@ -79400,7 +79400,7 @@ window.allHeroes =
             "All allies get +50% attack for 4 turns."
         ],
         "passives": [],
-        "family": "grimforest",
+        "family": "fable",
         "costume_id": 1,
         "originalIndex": 1152,
         "lb1": {
@@ -79631,7 +79631,7 @@ window.allHeroes =
             " * - Positive and negative stacks.",
             " * - Growth and Wither effects."
         ],
-        "family": "wildcat",
+        "family": "wild_cat",
         "costume_id": 0,
         "originalIndex": 1155,
         "lb1": {
@@ -79956,7 +79956,7 @@ window.allHeroes =
             "Summons a Fox Minion for each ally with 25% HP. The minion recovers 10% health for its owner at the end of each turn. The minion protects its owner from mana reduction."
         ],
         "passives": [],
-        "family": "grimforest",
+        "family": "fable",
         "costume_id": 0,
         "originalIndex": 1159,
         "lb1": {
@@ -80114,7 +80114,7 @@ window.allHeroes =
         "passives": [
             "Resist Mana Generation Ailments: This character has innate resistance against status ailments and negative stacks that affect Mana Generation. Doesn't apply to status ailments that stop mana generation or steal mana."
         ],
-        "family": 2020,
+        "family": "hotm2020",
         "costume_id": 0,
         "originalIndex": 1161,
         "lb1": {
@@ -80162,7 +80162,7 @@ window.allHeroes =
             "Healers",
             "Reflectors"
         ],
-        "source": "Monster Island Summon",
+        "source": "Covenant Summon",
         "Release date": "2024-10-18",
         "specialId": "cloak_of_feathers",
         "passiveSkills": [
@@ -80184,7 +80184,7 @@ window.allHeroes =
             "Special Skill Damage Reduction: This character has a 10% chance to drop the direct damage received from Special Skills to 1.",
             "Damage over Time on Special: When this character casts their Special Skill, they give a Hunter’s Mark on a random enemy. The target receives 150 damage over 3 turns. If a target already has this effect, the duration will be refreshed and the damage will be increased by 150, up to 1500 damage in total."
         ],
-        "family": "plainshunter",
+        "family": "plains_hunter",
         "costume_id": 0,
         "originalIndex": 1162,
         "lb1": {
@@ -80399,7 +80399,7 @@ window.allHeroes =
             "Eat Minions and Gain Mana Over Time: Every 3 turns eats all Minions from a random enemy and gains a small amount of mana for each eaten Minion.",
             "Mana on Health Recovery: This character receives 5% mana each time its health is recovered."
         ],
-        "family": 2023,
+        "family": "hotm2023",
         "costume_id": 0,
         "originalIndex": 1165,
         "lb1": {
@@ -80455,7 +80455,7 @@ window.allHeroes =
             "Buffers (DEF)",
             "Health Boosters"
         ],
-        "source": "Monster Island Summon",
+        "source": "Covenant Summon",
         "Release date": "2024-06-26",
         "specialId": "scourge_of_the_strong",
         "passiveSkills": [
@@ -80480,7 +80480,7 @@ window.allHeroes =
             "Special Skill Damage Reduction: This character has a 10% chance to drop the direct damage received from Special Skills to 1.",
             "Damage over Time on Special: When this character casts their Special Skill, they give a Hunter’s Mark on a random enemy. The target receives 150 damage over 3 turns. If a target already has this effect, the duration will be refreshed and the damage will be increased by 150, up to 1500 damage in total."
         ],
-        "family": "plainshunter",
+        "family": "plains_hunter",
         "costume_id": 0,
         "originalIndex": 1166,
         "lb1": {
@@ -80637,7 +80637,7 @@ window.allHeroes =
             "Resist Attack Ailments: This character has innate resistance against status ailments that affect Attack.",
             "Mana on Burn: This character gains 5% mana each time an enemy receives Burn damage."
         ],
-        "family": 2021,
+        "family": "hotm2021",
         "costume_id": 0,
         "originalIndex": 1168,
         "lb1": {
@@ -80866,7 +80866,7 @@ window.allHeroes =
             "All enemies get -44% defense for 3 turns."
         ],
         "passives": [],
-        "family": "christmas",
+        "family": "winter",
         "costume_id": 0,
         "originalIndex": 1171,
         "lb1": {
@@ -80938,7 +80938,7 @@ window.allHeroes =
             "All enemies get -54% defense for 4 turns."
         ],
         "passives": [],
-        "family": "christmas",
+        "family": "winter",
         "costume_id": 1,
         "originalIndex": 1172,
         "lb1": {
@@ -80978,7 +80978,7 @@ window.allHeroes =
         "AetherPower": "Attack Up",
         "color": "Red",
         "class": "Fighter",
-        "speed": "Slayer",
+        "speed": "Slow",
         "skill": "Fracturing Slash",
         "types": [
             "Hit 3",
@@ -81015,7 +81015,7 @@ window.allHeroes =
         "passives": [
             "Resist Damage from Status Effects: This charater has innate resistance against incoming damage from status effects."
         ],
-        "family": "slayer",
+        "family": "slayers",
         "costume_id": 0,
         "originalIndex": 1173,
         "lb1": {
@@ -81055,7 +81055,7 @@ window.allHeroes =
         "AetherPower": "Defense Up",
         "color": "Red",
         "class": "Paladin",
-        "speed": "Slayer",
+        "speed": "Slow",
         "skill": "Fracturing Cut",
         "types": [
             "Hit 3",
@@ -81097,7 +81097,7 @@ window.allHeroes =
             "Resist Damage from Status Effects: This charater has innate resistance against incoming damage from status effects.",
             "Bleed on Special Skill: When this character casts their Special Skill, all enemies receive 452 Bleed damage over 4 turns."
         ],
-        "family": "slayer",
+        "family": "slayers",
         "costume_id": 1,
         "originalIndex": 1174,
         "lb1": {
@@ -81251,7 +81251,7 @@ window.allHeroes =
             "Superior Resist Negative Minion Effects: This character has innate resistance against incoming negative effects and damage from Minions and Mega Minions.",
             "Perfect Accuracy: This character’s Special Skill never misses its targets."
         ],
-        "family": "astraldwarfs",
+        "family": "astral_dwarfs",
         "costume_id": 0,
         "originalIndex": 1176,
         "lb1": {
@@ -81533,7 +81533,7 @@ window.allHeroes =
             "Resist Special Skill Blocking: This character has innate resistance against ailments that block Special Skills.",
             "Resist Defense Ailments: This character has innate resistance against ailments and negative stacks that affect defense. Doesn’t apply to status ailments that affect elemental defense."
         ],
-        "family": 2023,
+        "family": "hotm2023",
         "costume_id": 0,
         "originalIndex": 1180,
         "lb1": {
@@ -81609,7 +81609,7 @@ window.allHeroes =
             "Resist Poison: This character has innate resistance against Poison.",
             "Share Received Damage: 20% of damage received by this charater is shared with other allies."
         ],
-        "family": "astralelves",
+        "family": "astral_elves",
         "costume_id": 0,
         "originalIndex": 1181,
         "lb1": {
@@ -81832,7 +81832,7 @@ window.allHeroes =
             "Health recovery on status Ailment Received: This character recovers 50 HP when they receive a status ailment or a negative stack.",
             "Resist Bleed Damage: This character has innate resistance against Bleed."
         ],
-        "family": 2022,
+        "family": "hotm2022",
         "costume_id": 0,
         "originalIndex": 1184,
         "lb1": {
@@ -82050,7 +82050,7 @@ window.allHeroes =
             "The caster gets -20% defense for 3 turns. This effect can’t be cleansed."
         ],
         "passives": [],
-        "family": "springvale",
+        "family": "easter",
         "costume_id": 0,
         "originalIndex": 1187,
         "lb1": {
@@ -82495,7 +82495,7 @@ window.allHeroes =
         "passives": [
             "Steal Buff: When this character casts their Special Skill, they have a 50% chance to steal the newest dispellable buff from a random enemy that has buffs. If no enemy has buffs, deals 70% damage to all enemies."
         ],
-        "family": "morlovia",
+        "family": "halloween",
         "costume_id": 0,
         "originalIndex": 1193,
         "lb1": {
@@ -82568,7 +82568,7 @@ window.allHeroes =
         "passives": [
             "Steal Buff: When this character casts their Special Skill, they have a 50% chance to steal the newest dispellable buff from a random enemy that has buffs. If no enemy has buffs, deals 70% damage to all enemies."
         ],
-        "family": "morlovia",
+        "family": "halloween",
         "costume_id": 1,
         "originalIndex": 1194,
         "lb1": {
@@ -82642,7 +82642,7 @@ window.allHeroes =
             "Mana on Status Ailment Received: This character gains 5% mana when they receive a status ailment or negative stack.",
             "Guard Rally: Every 4 turns, removes all Wither effects from all allies."
         ],
-        "family": "garrisonguard",
+        "family": "garrison",
         "costume_id": 0,
         "originalIndex": 1195,
         "lb1": {
@@ -82715,7 +82715,7 @@ window.allHeroes =
         "passives": [
             "Special Skill Damage Reduction: Received damage from Special Skills is reduced by -20% for this character."
         ],
-        "family": "underwild",
+        "family": "abyss",
         "costume_id": 0,
         "originalIndex": 1196,
         "lb1": {
@@ -82794,7 +82794,7 @@ window.allHeroes =
             "Special Skill Damage Reduction: Received damage from Special Skills is reduced by -20% for this character.",
             "Increased Damage Against Boosted Health: After this character casts their Special Skill, all allies deal +70% increased normal attack and Special Skill damage against targets with boosted health for 4 turns."
         ],
-        "family": "underwild",
+        "family": "abyss",
         "costume_id": 1,
         "originalIndex": 1197,
         "lb1": {
@@ -82865,7 +82865,7 @@ window.allHeroes =
         "passives": [
             "Disable Minion Abilities: Attacks and abilities of all Minions owned by enemies are disabled."
         ],
-        "family": "lunaryear",
+        "family": "zodiac",
         "costume_id": 0,
         "originalIndex": 1198,
         "lb1": {
@@ -83001,7 +83001,7 @@ window.allHeroes =
             "Status effect on mana reduction: The caster gets +30% attack for 3 turns when their mana is reduced.",
             "Resist water damage: This character has innate resistance against Water damage."
         ],
-        "family": 2021,
+        "family": "hotm2021",
         "costume_id": 0,
         "originalIndex": 1200,
         "lb1": {
@@ -83073,7 +83073,7 @@ window.allHeroes =
             "Resist Insanity: This character has innate resistance against Insanity.",
             "Resist Attack Reduction: This character has innate resistance against status ailments, stacks and Wither effects that affect attack."
         ],
-        "family": "woodlandfaun",
+        "family": "faun",
         "costume_id": 0,
         "originalIndex": 1201,
         "lb1": {
@@ -83149,7 +83149,7 @@ window.allHeroes =
             "Resist attack status effects: This character has innate resistance against all status effects and stacks that effect attack. This includes buffs.",
             "Resist mana ailments: This character has innate resistance against status ailments and negative stacks that affect mana generation. Applies also to status ailments that block mana or steal mana."
         ],
-        "family": 2022,
+        "family": "hotm2022",
         "costume_id": 0,
         "originalIndex": 1202,
         "lb1": {
@@ -83224,7 +83224,7 @@ window.allHeroes =
             "Heal on Bleed: This character regenerates 50 HP each time an enemy receives Bleed damage.",
             "Mana on Bleed: This character receives 8% mana each time an enemy receives Bleed damage."
         ],
-        "family": 2024,
+        "family": "hotm2024",
         "costume_id": 0,
         "originalIndex": 1203,
         "lb1": {
@@ -83298,7 +83298,7 @@ window.allHeroes =
             "Passive Skill as defending character: This hero receives less elemental damage from Troops of stronger element.",
             " - Received elemental damage: -10%"
         ],
-        "family": "superelemental",
+        "family": "super_elemental",
         "costume_id": 0,
         "originalIndex": 1204,
         "lb1": {
@@ -83365,7 +83365,7 @@ window.allHeroes =
         "passives": [
             "Increase Buff Duration: Duration of the first 3 buff this hero receives from Special Skills is increased by 1 turn."
         ],
-        "family": "underwild",
+        "family": "abyss",
         "costume_id": 0,
         "originalIndex": 1205,
         "lb1": {
@@ -83437,7 +83437,7 @@ window.allHeroes =
             "Increase Buff Duration: Duration of the first 3 buffs this character receives from Special Skill is increased by 1 turn.",
             "Increased Damage Against Boosted Health: After this character casts their Special Skill cast, all allies’ normal attacks and Special Skills deal +70% damage against targets with boosted health for 4 turns."
         ],
-        "family": "underwild",
+        "family": "abyss",
         "costume_id": 1,
         "originalIndex": 1206,
         "lb1": {
@@ -83513,7 +83513,7 @@ window.allHeroes =
             "Increased Attack per Non-Fire Enemy: At the start of each battle, this character’s attack is increased by +5% for every enemy that is not of Fire element. In battles with multiple waves, the effect is refreshed at the beginning of each wave.",
             "Resist Buff Immunity: This character has innate resistance against ailments that give immunity to new buffs."
         ],
-        "family": 2024,
+        "family": "hotm2024",
         "costume_id": 0,
         "originalIndex": 1207,
         "lb1": {
@@ -83586,7 +83586,7 @@ window.allHeroes =
             "Element Link recovers 4% health for all Fire allies for 6 turns. This effect can't be cleansed."
         ],
         "passives": [],
-        "family": 2018,
+        "family": "hotm2018",
         "costume_id": 0,
         "originalIndex": 1208,
         "lb1": {
@@ -83659,7 +83659,7 @@ window.allHeroes =
         "passives": [
             "Dispel on Special Skill: When this character casts their Special Skill, they dispel the newest status effect buff from all enemies."
         ],
-        "family": 2018,
+        "family": "hotm2018",
         "costume_id": 1,
         "originalIndex": 1209,
         "lb1": {
@@ -83720,7 +83720,7 @@ window.allHeroes =
             "Deals 265% damage to the target"
         ],
         "passives": [],
-        "family": null,
+        "family": "classic",
         "costume_id": 0,
         "originalIndex": 1210,
         "cn_skill_info": []
@@ -83753,7 +83753,7 @@ window.allHeroes =
             "Deals 115% damage to all enemies"
         ],
         "passives": [],
-        "family": null,
+        "family": "classic",
         "costume_id": 0,
         "originalIndex": 1211,
         "cn_skill_info": []
@@ -83786,7 +83786,7 @@ window.allHeroes =
             "All allies get +63% defense for 4 turns"
         ],
         "passives": [],
-        "family": null,
+        "family": "classic",
         "costume_id": 0,
         "originalIndex": 1212,
         "cn_skill_info": []
@@ -83822,7 +83822,7 @@ window.allHeroes =
             "The target gets -34% attack for 6 turns"
         ],
         "passives": [],
-        "family": null,
+        "family": "classic",
         "costume_id": 0,
         "originalIndex": 1213,
         "cn_skill_info": []
@@ -83855,7 +83855,7 @@ window.allHeroes =
             "Recovers 28% health for all allies"
         ],
         "passives": [],
-        "family": null,
+        "family": "classic",
         "costume_id": 0,
         "originalIndex": 1214,
         "cn_skill_info": []
@@ -84276,7 +84276,7 @@ window.allHeroes =
             "All allies get +100% normal attack for 4 turns. This effect can be active in addition to effectst hat alter attack in general. Normal attacks can have a total maximum of +160% increased power while this effect is active."
         ],
         "passives": [],
-        "family": "raven",
+        "family": "wolf",
         "costume_id": 0,
         "originalIndex": 1221,
         "lb1": {
@@ -84330,7 +84330,7 @@ window.allHeroes =
             "All allies regenerate 261 HP over 3 turns."
         ],
         "passives": [],
-        "family": "starfall",
+        "family": "circus",
         "costume_id": 0,
         "originalIndex": 1222,
         "lb1": {
@@ -84373,7 +84373,7 @@ window.allHeroes =
             "Stacking Heroes",
             "Buffers (ATK)"
         ],
-        "source": "Monster Island Summon",
+        "source": "Monthly Event - Kalevala",
         "Release date": "2023-05-06",
         "specialId": "titanbone_chain_slash",
         "passiveSkills": [
@@ -84395,7 +84395,7 @@ window.allHeroes =
             "Damage over time on special. When this character casts their Special Skill,  they give a Hunter's Mark on a random enemy. The target receives 150 damage  over 3 turns. If a target already has this effect, the duration will be refreshed and the damage will be increased by 150, up to 1500 damage in total.",
             "Hunter's vigor. When this character casts their Special Skill, they get +20%  attack for 3 turns. This effect can be active in addition to other effects  that alter attack."
         ],
-        "family": "junglehunter",
+        "family": "jungle_hunter",
         "costume_id": 0,
         "originalIndex": 1223,
         "lb1": {
@@ -84754,7 +84754,7 @@ window.allHeroes =
             "Healers",
             "Negative Effects On Self Or Allies"
         ],
-        "source": "Monster Island Summon",
+        "source": "Covenant Summon",
         "Release date": "2022-10-15",
         "specialId": "nomadic_hymn",
         "passiveSkills": [
@@ -84775,7 +84775,7 @@ window.allHeroes =
             "When this character casts their Special Skill, they give a Hunter’s Mark on a random enemy. The target receives 150 damage over 3 turns. If a target already has this effect, the duration will be refreshed and the damage will be increased by 150, up to 1500 damage in total.",
             "Special Skill damage reduction: This character has a 10% chance to drop the direct damage received from Special Skills to 1."
         ],
-        "family": "plainshunter",
+        "family": "plains_hunter",
         "costume_id": 0,
         "originalIndex": 1229,
         "lb1": {
@@ -85179,7 +85179,7 @@ window.allHeroes =
             " * Deals 80% damage to all enemies.",
             " * All allies get +21% critical chance for 2 turns."
         ],
-        "family": "defendersofatlantis",
+        "family": "tales1_goodies",
         "costume_id": 0,
         "originalIndex": 1235,
         "lb1": {
@@ -85254,7 +85254,7 @@ window.allHeroes =
             " * All allies get +21% critical chance for 3 turns.",
             "Resist Insanity: This character has an innate resistance against Insanity."
         ],
-        "family": "defendersofatlantis",
+        "family": "tales1_goodies",
         "costume_id": 1,
         "originalIndex": 1236,
         "lb1": {
@@ -85319,7 +85319,7 @@ window.allHeroes =
             "All allies get +35% mana generation for 6 turns."
         ],
         "passives": [],
-        "family": "christmas",
+        "family": "winter",
         "costume_id": 0,
         "originalIndex": 1237,
         "lb1": {
@@ -85998,7 +85998,7 @@ window.allHeroes =
             "Automatically does 89 damage to the target and consumes 50% mana from the target when the target's mana is full for 3 turns."
         ],
         "passives": [],
-        "family": "grimforest",
+        "family": "fable",
         "costume_id": 0,
         "originalIndex": 1248,
         "lb1": {
@@ -86060,7 +86060,7 @@ window.allHeroes =
         "passives": [
             "Increased Specail Skill Damage: This first time this character cast a  Special Skill that deals damage an additional 30% is added to its power."
         ],
-        "family": "underwild",
+        "family": "abyss",
         "costume_id": 0,
         "originalIndex": 1249,
         "lb1": {
@@ -86119,7 +86119,7 @@ window.allHeroes =
         "passives": [
             "Increased Special Skill Damage: The first time this character casts a Special Skill that deals damage, an additional 30% is added to its power."
         ],
-        "family": "underwild",
+        "family": "abyss",
         "costume_id": 1,
         "originalIndex": 1250,
         "lb1": {
@@ -86321,7 +86321,7 @@ window.allHeroes =
             "When a Minion is summoned to any ally, this character gains 5% health and 5% mana. This effect can activate only once per turn.",
             "When a Fiend is summoned to any enemy, this character deals 85% damage to all enemies. This effect can activate only once per turn."
         ],
-        "family": "pets",
+        "family": "mighty_pet",
         "costume_id": 0,
         "originalIndex": 1253,
         "lb1": {
@@ -86458,7 +86458,7 @@ window.allHeroes =
             "The attack chains through all the enemies who are adjacent to any hit enemy."
         ],
         "passives": [],
-        "family": "corellia",
+        "family": "pirate",
         "costume_id": 0,
         "originalIndex": 1255,
         "lb1": {
@@ -86524,7 +86524,7 @@ window.allHeroes =
             "Resist Insanity: This character has innate resistance against Insanity.",
             "Resist Defense Reduction: This character has innate resistance against status ailments, stacks and Wither effects that affect defense."
         ],
-        "family": "woodlandfaun",
+        "family": "faun",
         "costume_id": 0,
         "originalIndex": 1256,
         "lb1": {
@@ -86780,7 +86780,7 @@ window.allHeroes =
             "DoT Attackers",
             "Cleansers"
         ],
-        "source": "Monster Island Summon",
+        "source": "Covenant Summon",
         "Release date": "2022-12-24",
         "specialId": "bone_club_clonk",
         "passiveSkills": [
@@ -86801,7 +86801,7 @@ window.allHeroes =
             "Damage over time on special: When this character casts their Special Skill, they give a Hunter’s Mark on a random enemy. The target receives 150 damage over 3 turns. If a target already has this effect, the duration will be refreshed and the damage will be increased by 150, up to 1500 damage in total.",
             "Hunter`s sense: When this character casts their Special Skill, they transfer the newest cleansable status ailment from themself to the target. If the Special Skill cannot target an enemy, a random enemy is chosen instead. If this character has no status ailments, they recover 8% health."
         ],
-        "family": "abysshunter",
+        "family": "abyss_hunter",
         "costume_id": 0,
         "originalIndex": 1260,
         "lb1": {
@@ -87182,7 +87182,7 @@ window.allHeroes =
             "All allies get +24% mana generation for 3 turns."
         ],
         "passives": [],
-        "family": "starfall",
+        "family": "circus",
         "costume_id": 0,
         "originalIndex": 1266,
         "lb1": {
@@ -87252,7 +87252,7 @@ window.allHeroes =
             " * This effect can’t be cleansed."
         ],
         "passives": [],
-        "family": "sakura",
+        "family": "japanese",
         "costume_id": 0,
         "originalIndex": 1267,
         "lb1": {
@@ -87335,7 +87335,7 @@ window.allHeroes =
             " * The caster can’t gain mana for 2 turns. This effect can’t be cleansed."
         ],
         "passives": [],
-        "family": "sakura",
+        "family": "japanese",
         "costume_id": 1,
         "originalIndex": 1268,
         "lb1": {
@@ -87417,7 +87417,7 @@ window.allHeroes =
             "Superior Resist Negative Minion Effects: This character has innate resistance against incoming negative effects and damage from Minions and Mega Minions.",
             "Destroy Fiends on Special: When this character casts their Special Skill, all Fiends are destroyed from them."
         ],
-        "family": "astraldwarfs",
+        "family": "astral_dwarfs",
         "costume_id": 0,
         "originalIndex": 1269,
         "lb1": {
@@ -87629,7 +87629,7 @@ window.allHeroes =
             "The caster gets +74% defense against Special Skills for 3 turns"
         ],
         "passives": [],
-        "family": "grimforest",
+        "family": "fable",
         "costume_id": 0,
         "originalIndex": 1272,
         "lb1": {
@@ -87697,7 +87697,7 @@ window.allHeroes =
         "passives": [
             "Increased Special Skill Damage: The first time this character casts a Special Skill that deals damage, an additional 30% is added to its power."
         ],
-        "family": "underwild",
+        "family": "abyss",
         "costume_id": 0,
         "originalIndex": 1273,
         "lb1": {
@@ -87761,7 +87761,7 @@ window.allHeroes =
         "passives": [
             "Increased Special Skill Damage: The first time this character casts a Special Skill that deals damage, an additional 30% is added to its power."
         ],
-        "family": "underwild",
+        "family": "abyss",
         "costume_id": 1,
         "originalIndex": 1274,
         "lb1": {
@@ -87836,7 +87836,7 @@ window.allHeroes =
             " * Each of these effects can activate once per turn.",
             "Resist Bleed Damage: This character has innate resistance against Bleed.    "
         ],
-        "family": "outlaws",
+        "family": "outlaw",
         "costume_id": 0,
         "originalIndex": 1275,
         "lb1": {
@@ -87901,7 +87901,7 @@ window.allHeroes =
             "The target gets -54% defense against Holy for 4 turns."
         ],
         "passives": [],
-        "family": "guardiansteltoc",
+        "family": "guardian",
         "costume_id": 0,
         "originalIndex": 1276,
         "lb1": {
@@ -87961,7 +87961,7 @@ window.allHeroes =
             "The caster and nearby allies get +94% defense against Dark for 3 turns."
         ],
         "passives": [],
-        "family": "guardiansteltoc",
+        "family": "guardian",
         "costume_id": 1,
         "originalIndex": 1277,
         "lb1": {
@@ -88156,7 +88156,7 @@ window.allHeroes =
             "All allies get +14% attack, and a further 5% increase per each Holy shield on the board for 4 turns, up to +54% attack."
         ],
         "passives": [],
-        "family": "christmas",
+        "family": "winter",
         "costume_id": 0,
         "originalIndex": 1280,
         "lb1": {
@@ -88551,7 +88551,7 @@ window.allHeroes =
             "The caster can't gain mana for 2 turns. This effect can't be cleansed."
         ],
         "passives": [],
-        "family": "springvale",
+        "family": "easter",
         "costume_id": 0,
         "originalIndex": 1286,
         "lb1": {
@@ -89272,7 +89272,7 @@ window.allHeroes =
             "When a Minion is summoned to any ally, this character gains 5% health and 5% mana. This effect can activate only once per turn.",
             "When a Fiend is summoned to any enemy, this character deals 85% damage to all enemies. This effect can activate only once per turn."
         ],
-        "family": "pets",
+        "family": "mighty_pet",
         "costume_id": 0,
         "originalIndex": 1297,
         "lb1": {
@@ -89778,7 +89778,7 @@ window.allHeroes =
             "Passive Skill as defending character: This hero receives less elemental  damage from Troops of stronger element.",
             " - Received elemental damage: -10%"
         ],
-        "family": "superelemental",
+        "family": "super_elemental",
         "costume_id": 0,
         "originalIndex": 1305,
         "lb1": {
@@ -89840,7 +89840,7 @@ window.allHeroes =
         "passives": [
             "Increased Special Skill Damage: The first time this character casts a Special Skill that deals damage, an additional 30% is added to its power."
         ],
-        "family": "underwild",
+        "family": "abyss",
         "costume_id": 0,
         "originalIndex": 1306,
         "lb1": {
@@ -89911,7 +89911,7 @@ window.allHeroes =
             "Increased Special Skill Damage: This first time this character cast a Special Skill that deals damage an additional 30% is added to its power.",
             "Increased Damage Against Boosted Health: After this character casts their Special Skill cast, all allies’ normal attacks and Special Skills deal +70% damage against targets with boosted health for 3 turns."
         ],
-        "family": "underwild",
+        "family": "abyss",
         "costume_id": 1,
         "originalIndex": 1307,
         "lb1": {
@@ -89979,7 +89979,7 @@ window.allHeroes =
             "Summons 2 Elf Minions for each ally with 10% HP and 10% attack inherited from the caster."
         ],
         "passives": [],
-        "family": "christmas",
+        "family": "winter",
         "costume_id": 0,
         "originalIndex": 1308,
         "lb1": {
@@ -90124,7 +90124,7 @@ window.allHeroes =
             "Special Skill Damage Reduction: This character has a 10% chance to drop the direct damage received from Special Skills to 1.",
             "Damage over time on Special: When this character casts their Special Skill, they give a Hunter’s Mark on a random enemy. The target receives 150 damage over 3 turns. If a target already has this effect, the duration will be refreshed and the damage will be increased by 150, up to 1500 damage in total."
         ],
-        "family": "plainshunter",
+        "family": "plains_hunter",
         "costume_id": 0,
         "originalIndex": 1310,
         "lb1": {
@@ -90191,7 +90191,7 @@ window.allHeroes =
             "If hit enemies use their Special Skill in the next 4 turns, they get -34% attack, -34% defense and -24% mana generation for 4 turns. Status effects are added at the end of a Special Skill. Status effects will not be added if the status effect is removed during Special Skill."
         ],
         "passives": [],
-        "family": "corellia",
+        "family": "pirate",
         "costume_id": 0,
         "originalIndex": 1311,
         "lb1": {
@@ -90327,7 +90327,7 @@ window.allHeroes =
         "passives": [
             "Increased Special Skill Damage: First time this hero casts Special Skill that does damage, additional 30% is added to its power."
         ],
-        "family": "underwild",
+        "family": "abyss",
         "costume_id": 0,
         "originalIndex": 1313,
         "lb1": {
@@ -90394,7 +90394,7 @@ window.allHeroes =
             "Increased Special Skill Damage: This first time this character cast a Special Skill that deals damage an additional 30% is added to its power.",
             "Increased Damage Against Boosted Health: After Special Skill cast, all allies' normal attacks and Special Skills deal +70% damage against targets with boosted health for 4 turns."
         ],
-        "family": "underwild",
+        "family": "abyss",
         "costume_id": 1,
         "originalIndex": 1314,
         "lb1": {
@@ -90712,7 +90712,7 @@ window.allHeroes =
         "passives": [
             "Dodge Special Damage: This character has a 15% chance to dodge Special Skills that deal damage."
         ],
-        "family": "moth",
+        "family": "moths",
         "costume_id": 0,
         "originalIndex": 1318,
         "lb1": {
@@ -90790,7 +90790,7 @@ window.allHeroes =
             "Resist Bleed Damage: This character has innate resistance against Bleed.",
             "Mana on Buff Received: This character gains 5% mana when they receive a buff or a positive stack."
         ],
-        "family": 2024,
+        "family": "hotm2024",
         "costume_id": 0,
         "originalIndex": 1319,
         "lb1": {
@@ -90863,7 +90863,7 @@ window.allHeroes =
         "passives": [
             "Resist Status Ailments from Minions: This character has innate resistance against status ailments that are from minions."
         ],
-        "family": 2020,
+        "family": "hotm2020",
         "costume_id": 0,
         "originalIndex": 1320,
         "lb1": {
@@ -90931,7 +90931,7 @@ window.allHeroes =
         "passives": [
             "Disable Minion Abilities: Attacks and abilities of all Minions owned by enemies are disabled."
         ],
-        "family": "lunaryear",
+        "family": "zodiac",
         "costume_id": 0,
         "originalIndex": 1321,
         "lb1": {
@@ -90966,7 +90966,7 @@ window.allHeroes =
         "AetherPower": "Attack Up",
         "color": "Yellow",
         "class": "Wizard",
-        "speed": "Slayer",
+        "speed": "Slow",
         "skill": "Dispelling Willpower",
         "types": [
             "Dispeller All",
@@ -91005,7 +91005,7 @@ window.allHeroes =
         "passives": [
             "Resist Damage from Status Effects: This charater has innate resistance against incoming damage from status effects."
         ],
-        "family": "slayer",
+        "family": "slayers",
         "costume_id": 0,
         "originalIndex": 1322,
         "lb1": {
@@ -91046,7 +91046,7 @@ window.allHeroes =
         "AetherPower": "Defense Up",
         "color": "Yellow",
         "class": "Fighter",
-        "speed": "Slayer",
+        "speed": "Slow",
         "skill": "Dispelling Judgement",
         "types": [
             "Dispeller All",
@@ -91090,7 +91090,7 @@ window.allHeroes =
             "Resist Damage from Status Effects: This charater has innate resistance against incoming damage from status effects.",
             "Bleed on Special Skill: When this character casts their Special Skill, all enemies receive 528 Bleed damage over 4 turns."
         ],
-        "family": "slayer",
+        "family": "slayers",
         "costume_id": 1,
         "originalIndex": 1323,
         "lb1": {
@@ -91167,7 +91167,7 @@ window.allHeroes =
             "Resist Max Health Reduction: This character has innate resistance against max health reduction.",
             "Boost Health on Enemy Special: When an enemy casts their Special Skill, this character has a 50% chance to boost this character’s health by 100."
         ],
-        "family": 2022,
+        "family": "hotm2022",
         "costume_id": 0,
         "originalIndex": 1324,
         "lb1": {
@@ -91505,7 +91505,7 @@ window.allHeroes =
             "Heal over Time (HoT)",
             "Revivers"
         ],
-        "source": "Monster Island Summon",
+        "source": "Covenant Summon",
         "Release date": "2023-02-09",
         "specialId": "liturgy_of_the_fallen",
         "passiveSkills": [
@@ -91527,7 +91527,7 @@ window.allHeroes =
             "Damage Over Time on Special: When this character casts their Special Skill, they give a Hunter’s Mark on a random enemy. The target receives 150 damage over 3 turns. If a target already has this effect, the duration will be refreshed and the damage will be increased with 150, up to 1500 damage in total.",
             "Hunter’s Sense: When this character casts their Special Skill, they have 100% chance to transfer the newest cleansable status ailment from themselves to the target. If the Special Skill cannot target an enemy, a random enemy is chosen instead. If this character has no status ailments, they recover 3% health."
         ],
-        "family": "abysshunter",
+        "family": "abyss_hunter",
         "costume_id": 0,
         "originalIndex": 1329,
         "lb1": {
@@ -91589,7 +91589,7 @@ window.allHeroes =
             "Elemental Link gives +10% mana generation for all Holy allies for 4 turns. This effect can’t be displelled."
         ],
         "passives": [],
-        "family": 2018,
+        "family": "hotm2018",
         "costume_id": 0,
         "originalIndex": 1330,
         "lb1": {
@@ -91656,7 +91656,7 @@ window.allHeroes =
         "passives": [
             "Cleanse on Special: When this character casts their Special Skill, they cleanse the newest status ailment from all allies."
         ],
-        "family": 2018,
+        "family": "hotm2018",
         "costume_id": 1,
         "originalIndex": 1331,
         "lb1": {
@@ -91728,7 +91728,7 @@ window.allHeroes =
             "Resist Dispels: This character has an innate resistance against Dispels of buffs.",
             "Resist Negative Minion Effects: This character has an innate resistance against incoming negative effects and damage from Minions."
         ],
-        "family": 2021,
+        "family": "hotm2021",
         "costume_id": 0,
         "originalIndex": 1332,
         "lb1": {
@@ -91796,7 +91796,7 @@ window.allHeroes =
             "Cleanses status ailments from all allies."
         ],
         "passives": [],
-        "family": "starfall",
+        "family": "circus",
         "costume_id": 0,
         "originalIndex": 1333,
         "lb1": {
@@ -91868,7 +91868,7 @@ window.allHeroes =
         "passives": [
             "Copy Ailment on Cleanse: When a status ailment is cleansed from this hero, a new copy of the cleansed ailment is applied on a random enemy."
         ],
-        "family": "starfall",
+        "family": "circus",
         "costume_id": 1,
         "originalIndex": 1334,
         "lb1": {
@@ -92014,7 +92014,7 @@ window.allHeroes =
             "Element Link gives all Holy allies +5% attack and +5% defense for 6 turns. This effect can't be cleansed"
         ],
         "passives": [],
-        "family": 2018,
+        "family": "hotm2018",
         "costume_id": 0,
         "originalIndex": 1336,
         "lb1": {
@@ -92082,7 +92082,7 @@ window.allHeroes =
         "passives": [
             "Dispel on Special Skill: When this character casts their Special Skill, they dispel the newest status effect buff from all enemies."
         ],
-        "family": 2018,
+        "family": "hotm2018",
         "costume_id": 1,
         "originalIndex": 1337,
         "lb1": {
@@ -92222,7 +92222,7 @@ window.allHeroes =
             " * Deals 80% damage to all enemies.",
             " * All allies get +21% critical chance for 2 turns."
         ],
-        "family": "defendersofatlantis",
+        "family": "tales1_goodies",
         "costume_id": 0,
         "originalIndex": 1339,
         "lb1": {
@@ -92301,7 +92301,7 @@ window.allHeroes =
             " * All allies get +21% critical chance for 2 turns.",
             "Resist Insanity: This character has innate resistance against Insanity."
         ],
-        "family": "defendersofatlantis",
+        "family": "tales1_goodies",
         "costume_id": 1,
         "originalIndex": 1340,
         "lb1": {
@@ -92672,7 +92672,7 @@ window.allHeroes =
             "Resist Mana Reduction: This character has innate resistance against mana reduction.",
             "Mana on Buff Received: This character gains 5% mana when they receive a buff or positive stack."
         ],
-        "family": 2024,
+        "family": "hotm2024",
         "costume_id": 0,
         "originalIndex": 1345,
         "lb1": {
@@ -92733,7 +92733,7 @@ window.allHeroes =
             "The hit enemy with the fastest base mana speed gets -64% mana generation for 3 turns."
         ],
         "passives": [],
-        "family": "starfall",
+        "family": "circus",
         "costume_id": 0,
         "originalIndex": 1346,
         "lb1": {
@@ -92801,7 +92801,7 @@ window.allHeroes =
             "Resist Mana reduction: This character has an innate resistance against mana Reduction.",
             "Guard Rally: Every 4 turns, removes all Wither effects from all allies."
         ],
-        "family": "garrisonguard",
+        "family": "garrison",
         "costume_id": 0,
         "originalIndex": 1347,
         "lb1": {
@@ -92877,7 +92877,7 @@ window.allHeroes =
             "Wrath of Pets: When a Fiend is summoned to any enemy, this character deals 85% damage to all enemies. This effect can activate only once per turn.",
             "Friend of the Familiars: When a Minion is summoned to any ally, this character gains 5% health and 5% mana. This effect can activate only once per turn."
         ],
-        "family": "pets",
+        "family": "mighty_pet",
         "costume_id": 0,
         "originalIndex": 1348,
         "lb1": {
@@ -93038,7 +93038,7 @@ window.allHeroes =
             "Resist Insanity: This character has innate resistance against Insanity.",
             "Mana on Status Ailment Received: This character gains 5% mana when they receive a status ailment or a negative stacks."
         ],
-        "family": "woodlandfaun",
+        "family": "faun",
         "costume_id": 0,
         "originalIndex": 1350,
         "lb1": {
@@ -93112,7 +93112,7 @@ window.allHeroes =
             "Resist Mana Ailments: This character has innate resistance against ailments that affect mana.",
             "Mana Per Enemy Buff: Gains a small amount of mana for every active status effect buff that the enemy team has at the start of each turn (maximum of 20 buffs)."
         ],
-        "family": 2023,
+        "family": "hotm2023",
         "costume_id": 0,
         "originalIndex": 1351,
         "lb1": {
@@ -93255,7 +93255,7 @@ window.allHeroes =
             "Health Recovery on Status Ailment Received: This character recovers 10%  health when they receive a status ailment or a negative stack.",
             "Disable Minion Abilities: Attacks and abilities of all Minions owned by enemies are disabled."
         ],
-        "family": "lunaryear",
+        "family": "zodiac",
         "costume_id": 0,
         "originalIndex": 1353,
         "lb1": {
@@ -93403,7 +93403,7 @@ window.allHeroes =
             "Passive Skill as defending character: This hero receives less elemental  damage from Troops of stronger element.",
             " - Received elemental damage: -10%"
         ],
-        "family": "superelemental",
+        "family": "super_elemental",
         "costume_id": 0,
         "originalIndex": 1355,
         "lb1": {
@@ -93477,7 +93477,7 @@ window.allHeroes =
         "passives": [
             "Resist Damage from Status Effects: This charater has innate resistance against incoming damage from status effects."
         ],
-        "family": "guardiansteltoc",
+        "family": "guardian",
         "costume_id": 0,
         "originalIndex": 1356,
         "lb1": {
@@ -93556,7 +93556,7 @@ window.allHeroes =
             " * This effect can’t be dispelled, but it gets removed if caster is defeated."
         ],
         "passives": [],
-        "family": "guardiansteltoc",
+        "family": "guardian",
         "costume_id": 0,
         "originalIndex": 1357,
         "lb1": {
@@ -93636,7 +93636,7 @@ window.allHeroes =
             " * This effect can’t be dispelled, but it gets removed if caster is defeated."
         ],
         "passives": [],
-        "family": "guardiansteltoc",
+        "family": "guardian",
         "costume_id": 1,
         "originalIndex": 1358,
         "lb1": {
@@ -93707,7 +93707,7 @@ window.allHeroes =
             "The caster regenerates 915 HP over 5 turns."
         ],
         "passives": [],
-        "family": "guardiansteltoc",
+        "family": "guardian",
         "costume_id": 0,
         "originalIndex": 1359,
         "lb1": {
@@ -93775,7 +93775,7 @@ window.allHeroes =
             "The caster and nearby allies get +54% defense against Dark for 4 turns."
         ],
         "passives": [],
-        "family": "avalon",
+        "family": "knight",
         "costume_id": 0,
         "originalIndex": 1360,
         "lb1": {
@@ -93845,7 +93845,7 @@ window.allHeroes =
             "All allies reflect all status effects and 115% damage back to the attacker and block other negative effects from enemies Dark Special Skill for 4 turns. Status effects cast by characters Minions and Fiends on the same side cannot be reflected."
         ],
         "passives": [],
-        "family": "avalon",
+        "family": "knight",
         "costume_id": 1,
         "originalIndex": 1361,
         "lb1": {
@@ -94074,7 +94074,7 @@ window.allHeroes =
             "Friend of the Familiars: When a Minion is summoned to any ally, this character gains 5% health and 5% mana. This effect can activate only once per turn.",
             "Wrath of Pets: When a Fiend is summoned to any enemy, this character deals 85% damage to all enemies. This effect can activate only once per turn."
         ],
-        "family": "pets",
+        "family": "mighty_pet",
         "costume_id": 0,
         "originalIndex": 1364,
         "lb1": {
@@ -94217,7 +94217,7 @@ window.allHeroes =
             "Resist Special Skill Blocking: This character has innate resistance against status ailments that block Special Skill.",
             "Mana on Buff Received: This character gains 5% mana when they receive a buff or a positive stack."
         ],
-        "family": 2021,
+        "family": "hotm2021",
         "costume_id": 0,
         "originalIndex": 1366,
         "lb1": {
@@ -94295,7 +94295,7 @@ window.allHeroes =
             "Superior Resist Negative Minion Effects: This character has innate resistance against incoming negative effects and damage from Minions and Mega Minions.",
             "Perfect Accuracy: This character’s Special Skill never misses its targets."
         ],
-        "family": "astraldwarfs",
+        "family": "astral_dwarfs",
         "costume_id": 0,
         "originalIndex": 1367,
         "lb1": {
@@ -94641,7 +94641,7 @@ window.allHeroes =
             "Sakura Fox Minion has 8% HP and 30% attack inherited from the caster. It adds 7% mana to its owner at the end of each turn"
         ],
         "passives": [],
-        "family": "sakura",
+        "family": "japanese",
         "costume_id": 0,
         "originalIndex": 1372,
         "lb1": {
@@ -94711,7 +94711,7 @@ window.allHeroes =
             "All enemies get -40% accuracy for 3 turns. Chance to miss is also applies to offensive Special Skills."
         ],
         "passives": [],
-        "family": "sakura",
+        "family": "japanese",
         "costume_id": 1,
         "originalIndex": 1373,
         "lb1": {
@@ -94793,7 +94793,7 @@ window.allHeroes =
             "Passive Skill as defending character: This hero receives less elemental  damage from Troops of stronger element.",
             " - Received elemental damage: -10%"
         ],
-        "family": "superelemental",
+        "family": "super_elemental",
         "costume_id": 0,
         "originalIndex": 1374,
         "lb1": {
@@ -94869,7 +94869,7 @@ window.allHeroes =
             "Dodge Special Damage: This character has a 15% chance to dodge Special Skills that deal damage.",
             "Resist Status Ailments From Minions: This character has innate resistance against status ailments that are from Minions."
         ],
-        "family": 2023,
+        "family": "hotm2023",
         "costume_id": 0,
         "originalIndex": 1375,
         "lb1": {
@@ -94942,7 +94942,7 @@ window.allHeroes =
         "passives": [
             "Cleanse on Minion Death: This character is cleansed of status ailments when Minion owned by them is destroyed. "
         ],
-        "family": "maskedgod",
+        "family": "masquerade",
         "costume_id": 0,
         "originalIndex": 1376,
         "lb1": {
@@ -95007,7 +95007,7 @@ window.allHeroes =
             "The caster gets -5% mana generation for 4 turns. This effect can't be  cleansed."
         ],
         "passives": [],
-        "family": "springvale",
+        "family": "easter",
         "costume_id": 0,
         "originalIndex": 1377,
         "lb1": {
@@ -95077,7 +95077,7 @@ window.allHeroes =
             "The caster gets -5% mana generation for 5 turns. This effect can’t be cleansed."
         ],
         "passives": [],
-        "family": "springvale",
+        "family": "easter",
         "costume_id": 1,
         "originalIndex": 1378,
         "lb1": {
@@ -95155,7 +95155,7 @@ window.allHeroes =
             "Passive Skill as defending character: This hero receives less elemental  damage from Troops of stronger element.",
             " - Received elemental damage: -10%"
         ],
-        "family": "superelemental",
+        "family": "super_elemental",
         "costume_id": 0,
         "originalIndex": 1379,
         "lb1": {
@@ -95231,7 +95231,7 @@ window.allHeroes =
             "Passive Skill as defending character: This hero receives less elemental  damage from Troops of stronger element.",
             " - Received elemental damage: -25%"
         ],
-        "family": "superelemental",
+        "family": "super_elemental",
         "costume_id": 1,
         "originalIndex": 1380,
         "lb1": {
@@ -95627,7 +95627,7 @@ window.allHeroes =
         "passives": [
             "Cleanse on Minion Death: This character is cleansed of status ailments when Minion owned by them is destroyed."
         ],
-        "family": "maskedgod",
+        "family": "masquerade",
         "costume_id": 0,
         "originalIndex": 1386,
         "lb1": {
@@ -96037,7 +96037,7 @@ window.allHeroes =
             "Mana on Buff Dispel: This character receives 10% mana each time a buff is dispelled from this character.",
             "Resist Defense Ailments: This character has innate resistance against status ailments that affect defense. Applies also to status ailments that affect elemental defense."
         ],
-        "family": 2022,
+        "family": "hotm2022",
         "costume_id": 0,
         "originalIndex": 1392,
         "lb1": {
@@ -96331,7 +96331,7 @@ window.allHeroes =
             " * The effects diminish the less Flight Momentum character has.",
             "Weaker Mega Minions: Enemy Mega Minions have -75% HP."
         ],
-        "family": "magiccarpet",
+        "family": "magic_carpet",
         "costume_id": 0,
         "originalIndex": 1396,
         "lb1": {
@@ -96401,7 +96401,7 @@ window.allHeroes =
         "passives": [
             "Disable Minion Abilities: Attacks and abilities of all Minions owned by enemies are disabled."
         ],
-        "family": "lunaryear",
+        "family": "zodiac",
         "costume_id": 0,
         "originalIndex": 1397,
         "lb1": {
@@ -96547,7 +96547,7 @@ window.allHeroes =
             "Resist Poison: This character has innate resistance against Poison.",
             "Share Received Damage: 20% of damage received by this charater is shared with other allies."
         ],
-        "family": "astralelves",
+        "family": "astral_elves",
         "costume_id": 0,
         "originalIndex": 1399,
         "lb1": {
@@ -97013,7 +97013,7 @@ window.allHeroes =
             "Extra Damage Dealers",
             "Healing Reducers"
         ],
-        "source": "Monster Island Summon",
+        "source": "Covenant Summon",
         "Release date": "2022-08-25",
         "specialId": "wild_cleave",
         "passiveSkills": [
@@ -97037,7 +97037,7 @@ window.allHeroes =
             "Special Skill Damage Reduction: This character has a 10% chance to drop the direct damage received from Special Skills to 1.",
             "Damage over time on Special: When this character casts their Special Skill, they give a Hunter’s Mark on a random enemy. The target receives 150 damage over 3 turns. If a target already has this effect, the duration will be refreshed and the damage will be increased by 150, up to 1500 damage in total."
         ],
-        "family": "plainshunter",
+        "family": "plains_hunter",
         "costume_id": 0,
         "originalIndex": 1406,
         "lb1": {
@@ -97110,7 +97110,7 @@ window.allHeroes =
         "passives": [
             "Resist Defense Ailments: The hero has an innate resistance against status ailments and negative stacks that affect Defense. Doesn't apply to status ailments that affect elemental defense."
         ],
-        "family": 2020,
+        "family": "hotm2020",
         "costume_id": 0,
         "originalIndex": 1407,
         "lb1": {
@@ -97178,7 +97178,7 @@ window.allHeroes =
         "passives": [
             "Steal Buff: When this character casts their Special Skill, they have a 50% chance to steal the newest dispellable buff from a random enemy that has buffs. If no enemy has buffs, deals 70% damage to all enemies."
         ],
-        "family": "morlovia",
+        "family": "halloween",
         "costume_id": 0,
         "originalIndex": 1408,
         "lb1": {
@@ -97254,7 +97254,7 @@ window.allHeroes =
             "Resist Minion Removal: This character has innate resistance against Minion removal.",
             "Mana on Buff Received: This character gains 5% mana when they receive a buff or a positive stack."
         ],
-        "family": 2025,
+        "family": "hotm2025",
         "costume_id": 0,
         "originalIndex": 1409,
         "lb1": {
@@ -97404,7 +97404,7 @@ window.allHeroes =
             "Resist Poison: This character has innate resistance against Poison.",
             "Share Received Damage: 20% of damage received by this charater is shared with other allies."
         ],
-        "family": "astralelves",
+        "family": "astral_elves",
         "costume_id": 0,
         "originalIndex": 1411,
         "lb1": {
@@ -97699,7 +97699,7 @@ window.allHeroes =
             "Resist Poison: This character has innate resistance against Poison.",
             "Share Received Damage: 20% of damage received by this charater is shared with other allies."
         ],
-        "family": "astralelves",
+        "family": "astral_elves",
         "costume_id": 0,
         "originalIndex": 1415,
         "lb1": {
@@ -97982,7 +97982,7 @@ window.allHeroes =
             "Elemental Link gives all Holy allies +15% attack and +15% defense for 6 turns. This effect can’t be displelled."
         ],
         "passives": [],
-        "family": 2017,
+        "family": "hotm2017",
         "costume_id": 0,
         "originalIndex": 1419,
         "lb1": {
@@ -98050,7 +98050,7 @@ window.allHeroes =
         "passives": [
             "Dispel on Special Skill: When this character casts their Special Skill, they dispel the newest status effect buff from all enemies."
         ],
-        "family": 2017,
+        "family": "hotm2017",
         "costume_id": 1,
         "originalIndex": 1420,
         "lb1": {
@@ -98118,7 +98118,7 @@ window.allHeroes =
         "passives": [
             "Resist Mana Generation Stopping: This character has an innate resistance against status ailments that Stop Mana Generation."
         ],
-        "family": 2019,
+        "family": "hotm2019",
         "costume_id": 0,
         "originalIndex": 1421,
         "lb1": {
@@ -98667,7 +98667,7 @@ window.allHeroes =
         "passives": [
             "Resist Blind: This character has an innate ability to resist status ailments that affect Accuracy. Doesn't apply to status effects from allies."
         ],
-        "family": 2019,
+        "family": "hotm2019",
         "costume_id": 0,
         "originalIndex": 1429,
         "lb1": {
@@ -98978,7 +98978,7 @@ window.allHeroes =
             " * Deals 80% damage to all enemies.",
             " * The caster get +19% mana generation for 2 turns."
         ],
-        "family": "nightmaresofatlantis",
+        "family": "tales1_baddies",
         "costume_id": 0,
         "originalIndex": 1433,
         "lb1": {
@@ -99067,7 +99067,7 @@ window.allHeroes =
             " * The caster get +19% mana generation for 2 turns.",
             "Resist Insanity: This character has innate resistance against Insanity."
         ],
-        "family": "nightmaresofatlantis",
+        "family": "tales1_baddies",
         "costume_id": 1,
         "originalIndex": 1434,
         "lb1": {
@@ -99223,7 +99223,7 @@ window.allHeroes =
             "Resist Insanity: This character has innate resistance against Insanity.",
             "Resist Attack Reduction: This character has innate resistance against status ailments, stacks and Wither effects that affect attack."
         ],
-        "family": "woodlandfaun",
+        "family": "faun",
         "costume_id": 0,
         "originalIndex": 1436,
         "lb1": {
@@ -99416,7 +99416,7 @@ window.allHeroes =
         "passives": [
             "Start Battle with Mana: This character receives 20% mana at the start of the battle."
         ],
-        "family": "underwild",
+        "family": "abyss",
         "costume_id": 0,
         "originalIndex": 1439,
         "lb1": {
@@ -99487,7 +99487,7 @@ window.allHeroes =
             "Start Battle with Mana: This character receives 20% mana at the start of the battle.",
             "Health Boost on Special Skill: On Special Skill cast, boosts all allies’ HP by 10%."
         ],
-        "family": "underwild",
+        "family": "abyss",
         "costume_id": 1,
         "originalIndex": 1440,
         "lb1": {
@@ -99756,7 +99756,7 @@ window.allHeroes =
         "passives": [
             "Resist Poison: This character has an innate resistance against Poison."
         ],
-        "family": 2019,
+        "family": "hotm2019",
         "costume_id": 0,
         "originalIndex": 1444,
         "lb1": {
@@ -100046,7 +100046,7 @@ window.allHeroes =
             "Resist Mana reduction: This character has an innate resistance against mana Reduction.",
             "Guard Rally: Every 4 turns, removes all Wither effects from all allies."
         ],
-        "family": "garrisonguard",
+        "family": "garrison",
         "costume_id": 0,
         "originalIndex": 1448,
         "lb1": {
@@ -100127,7 +100127,7 @@ window.allHeroes =
             " * Each of these effects can activate once per turn.",
             "Resist Bleed Damage: This character has innate resistance against Bleed.    "
         ],
-        "family": "outlaws",
+        "family": "outlaw",
         "costume_id": 0,
         "originalIndex": 1449,
         "lb1": {
@@ -100208,7 +100208,7 @@ window.allHeroes =
             "Superior Resist Negative Minion Effects: This character has innate resistance against incoming negative effects and damage from Minions and Mega Minions.",
             "Perfect Accuracy: This character’s Special Skill never misses its targets."
         ],
-        "family": "astraldwarfs",
+        "family": "astral_dwarfs",
         "costume_id": 0,
         "originalIndex": 1450,
         "lb1": {
@@ -100281,7 +100281,7 @@ window.allHeroes =
         "passives": [
             "Dodge Special Damage: This character has a 15% chance to dodge Special Skills that deal damage."
         ],
-        "family": "moth",
+        "family": "moths",
         "costume_id": 0,
         "originalIndex": 1451,
         "lb1": {
@@ -100516,7 +100516,7 @@ window.allHeroes =
             "Resist Mana reduction: This character has an innate resistance against mana Reduction.",
             "Guard Rally: Every 4 turns, removes all Wither effects from all allies."
         ],
-        "family": "garrisonguard",
+        "family": "garrison",
         "costume_id": 0,
         "originalIndex": 1454,
         "lb1": {
@@ -100775,7 +100775,7 @@ window.allHeroes =
             "The caster gets -20% attack for 3 turns. This effect can't be cleansed."
         ],
         "passives": [],
-        "family": "springvale",
+        "family": "easter",
         "costume_id": 0,
         "originalIndex": 1458,
         "lb1": {
@@ -100918,7 +100918,7 @@ window.allHeroes =
             "Mana on Buff Received: This character has a 50% chance to recover 10% mana when they receive a buff or possitve stack.",
             "Health Recovery on Buff Received: This character has a 50% chance to recover 10% health when they receive a buff or possitive stack."
         ],
-        "family": "kingdom",
+        "family": "journey",
         "costume_id": 0,
         "originalIndex": 1460,
         "lb1": {
@@ -101107,7 +101107,7 @@ window.allHeroes =
             "Stacking Heroes",
             "Taunters"
         ],
-        "source": "Monster Island Summon",
+        "source": "Monthly Event - Kalevala",
         "Release date": "2023-05-06",
         "specialId": "warcry_of_the_jungle",
         "passiveSkills": [
@@ -101130,7 +101130,7 @@ window.allHeroes =
             "Damage over time on special: When this character casts their Special Skill, they give a Hunter's Mark on a random enemy. The target receives 150 damage over 3 turns. If a target already has this effect, the duration will be refreshed and the damage will be increased by 150, up to 1500 damage in total.",
             "Hunter's vigor: When this character casts their Special Skill, they get +20% attack for 3 turns. This effect can be active in addition to other effects that alter attack."
         ],
-        "family": "junglehunter",
+        "family": "jungle_hunter",
         "costume_id": 0,
         "originalIndex": 1463,
         "lb1": {
@@ -101184,7 +101184,7 @@ window.allHeroes =
             "Bypassers",
             "Buffers (ATK)"
         ],
-        "source": "Monster Island Summon",
+        "source": "Covenant Summon",
         "Release date": "2024-05-23",
         "specialId": "guiding_arrow",
         "passiveSkills": [
@@ -101207,7 +101207,7 @@ window.allHeroes =
             "Special Skill Damage Reduction: This character has a 10% chance to drop the direct damage received from Special Skills to 1.",
             "Damage over time on Special: When this character casts their Special Skill, they give a Hunter’s Mark on a random enemy. The target receives 150 damage over 3 turns. If a target already has this effect, the duration will be refreshed and the damage will be increased by 150, up to 1500 damage in total."
         ],
-        "family": "plainshunter",
+        "family": "plains_hunter",
         "costume_id": 0,
         "originalIndex": 1464,
         "lb1": {
@@ -101357,7 +101357,7 @@ window.allHeroes =
             "Resist Sand Damage: This character has an innate resistance against Sand damage.",
             "Health from Dead Minion: This character recovers 50 health when a Minion owned by them is destroyed."
         ],
-        "family": 2021,
+        "family": "hotm2021",
         "costume_id": 0,
         "originalIndex": 1466,
         "lb1": {
@@ -101960,7 +101960,7 @@ window.allHeroes =
         "passives": [
             "Steal Buff: When this character casts their Special Skill, they have a 50% chance to steal the newest dispellable buff from a random enemy that has buffs. If no enemy has buffs, deals 70% damage to all enemies."
         ],
-        "family": "morlovia",
+        "family": "halloween",
         "costume_id": 0,
         "originalIndex": 1474,
         "lb1": {
@@ -102333,7 +102333,7 @@ window.allHeroes =
             "Mana on Buff Received: Gain 5% mana when receiving a buff or a positive stack",
             "Health Recovery on Buff Received: This character recovers 5% health when they receive a buff or a positive stack."
         ],
-        "family": "stag",
+        "family": "bear",
         "costume_id": 0,
         "originalIndex": 1479,
         "lb1": {
@@ -102616,7 +102616,7 @@ window.allHeroes =
             "Passive Skill as defending character: This hero receives less elemental  damage from Troops of stronger element.",
             " - Received elemental damage: -10%"
         ],
-        "family": "superelemental",
+        "family": "super_elemental",
         "costume_id": 0,
         "originalIndex": 1483,
         "lb1": {
@@ -102686,7 +102686,7 @@ window.allHeroes =
             "Passive Skill as defending character: This hero receives less elemental  damage from Troops of stronger element.",
             " - Received elemental damage: -10%"
         ],
-        "family": "superelemental",
+        "family": "super_elemental",
         "costume_id": 0,
         "originalIndex": 1484,
         "lb1": {
@@ -102760,7 +102760,7 @@ window.allHeroes =
             " * The effects diminish the less Flight Momentum character has.",
             "Weaker Mega Minions: Enemy Mega Minions have -75% HP."
         ],
-        "family": "magiccarpet",
+        "family": "magic_carpet",
         "costume_id": 0,
         "originalIndex": 1485,
         "lb1": {
@@ -102827,7 +102827,7 @@ window.allHeroes =
         "passives": [
             "Increase Buff Duration: Duration of the first 3 buff this hero receives from Special Skills is increased by 1 turn."
         ],
-        "family": "underwild",
+        "family": "abyss",
         "costume_id": 0,
         "originalIndex": 1486,
         "lb1": {
@@ -102903,7 +102903,7 @@ window.allHeroes =
         "passives": [
             "Increased Damage Against Boosted Health: After this character casts their Special Skill cast, all allies’ normal attacks and Special Skills deal +70% damage against targets with boosted health for 4 turns ."
         ],
-        "family": "underwild",
+        "family": "abyss",
         "costume_id": 1,
         "originalIndex": 1487,
         "lb1": {
@@ -103322,7 +103322,7 @@ window.allHeroes =
             "Resist Mana Reduction: This character has innate resistance against mana reduction.",
             "Mana on Status Ailment Received: This character gains 5% mana when they receive a status ailment or negative stack."
         ],
-        "family": 2024,
+        "family": "hotm2024",
         "costume_id": 0,
         "originalIndex": 1493,
         "lb1": {
@@ -103568,7 +103568,7 @@ window.allHeroes =
         "health": null,
         "effects": [],
         "passives": [],
-        "family": "superelemental",
+        "family": "super_elemental",
         "costume_id": 0,
         "originalIndex": 1499,
         "cn_skill_info": []
@@ -103594,7 +103594,7 @@ window.allHeroes =
         "health": null,
         "effects": [],
         "passives": [],
-        "family": "astraldwarfs",
+        "family": "astral_dwarfs",
         "costume_id": 0,
         "originalIndex": 1500,
         "cn_skill_info": []
@@ -103620,7 +103620,7 @@ window.allHeroes =
         "health": null,
         "effects": [],
         "passives": [],
-        "family": "wildcat",
+        "family": "wild_cat",
         "costume_id": 0,
         "originalIndex": 1501,
         "cn_skill_info": []

@@ -14,7 +14,8 @@ window.allHeroesExtra = [
         "baseDefense": 148,
         "baseHealth": 355,
         "specialId": "fierce_slash",
-        "passiveSkills": null
+        "passiveSkills": null,
+        "family": "classic"
     },
     {
         "name": "Sigrunn",
@@ -31,7 +32,8 @@ window.allHeroesExtra = [
         "baseDefense": 167,
         "baseHealth": 306,
         "specialId": "hacking_attack",
-        "passiveSkills": null
+        "passiveSkills": null,
+        "family": "classic"
     },
     {
         "name": "Olaf",
@@ -48,7 +50,8 @@ window.allHeroesExtra = [
         "baseDefense": 186,
         "baseHealth": 444,
         "specialId": "defensive_tactics",
-        "passiveSkills": null
+        "passiveSkills": null,
+        "family": "classic"
     },
     {
         "name": "Ragnhild",
@@ -65,7 +68,8 @@ window.allHeroesExtra = [
         "baseDefense": 185,
         "baseHealth": 326,
         "specialId": "fierce_slash",
-        "passiveSkills": null
+        "passiveSkills": null,
+        "family": "classic"
     },
     {
         "name": "Toril",
@@ -82,7 +86,8 @@ window.allHeroesExtra = [
         "baseDefense": 177,
         "baseHealth": 426,
         "specialId": "attack_rally",
-        "passiveSkills": null
+        "passiveSkills": null,
+        "family": "classic"
     },
     {
         "name": "Bertha",
@@ -105,7 +110,8 @@ window.allHeroesExtra = [
         "passiveSkills": [
             "reduce_big_minion_health",
             "fly_magic_carpet"
-        ]
+        ],
+        "family": "magic_carpet"
     },
     {
         "name": "Chick Jr",
@@ -123,7 +129,8 @@ window.allHeroesExtra = [
         "baseDefense": 238,
         "baseHealth": 405,
         "specialId": "compact_lance",
-        "passiveSkills": null
+        "passiveSkills": null,
+        "family": "easter"
     },
     {
         "name": "Dawn",
@@ -147,7 +154,8 @@ window.allHeroesExtra = [
         "passiveSkills": [
             "hunters_mark_on_special",
             "special_damage_reduction_monster_hunters"
-        ]
+        ],
+        "family": "plains_hunter"
     },
     {
         "name": "Frosty",
@@ -165,7 +173,8 @@ window.allHeroesExtra = [
         "baseDefense": 301,
         "baseHealth": 451,
         "specialId": "northern_wanderer",
-        "passiveSkills": null
+        "passiveSkills": null,
+        "family": "winter"
     },
     {
         "name": "Gato",
@@ -183,7 +192,8 @@ window.allHeroesExtra = [
         "baseDefense": 231,
         "baseHealth": 368,
         "specialId": "jungle_slash",
-        "passiveSkills": null
+        "passiveSkills": null,
+        "family": "lagoon"
     },
     {
         "name": "Graymane",
@@ -201,7 +211,8 @@ window.allHeroesExtra = [
         "baseDefense": 212,
         "baseHealth": 454,
         "specialId": "wolf_bite",
-        "passiveSkills": null
+        "passiveSkills": null,
+        "family": "classic"
     },
     {
         "name": "Graymane Costume1",
@@ -226,7 +237,8 @@ window.allHeroesExtra = [
         "attackBonus": "7%",
         "defenseBonus": "7%",
         "healthBonus": "10%",
-        "manaBonus": "5%"
+        "manaBonus": "5%",
+        "family": "classic"
     },
     {
         "name": "Graymane Toon",
@@ -253,7 +265,8 @@ window.allHeroesExtra = [
         "attackBonus": "15%",
         "defenseBonus": "15%",
         "healthBonus": "20%",
-        "manaBonus": "5%"
+        "manaBonus": "5%",
+        "family": "classic"
     },
     {
         "name": "Graymane Glass",
@@ -280,7 +293,8 @@ window.allHeroesExtra = [
         "attackBonus": "17%",
         "defenseBonus": "17%",
         "healthBonus": "22%",
-        "manaBonus": "5%"
+        "manaBonus": "5%",
+        "family": "classic"
     },
     {
         "name": "Guardian Lemur",
@@ -298,7 +312,8 @@ window.allHeroesExtra = [
         "baseDefense": 283,
         "baseHealth": 491,
         "specialId": "guardian_armor",
-        "passiveSkills": null
+        "passiveSkills": null,
+        "family": "guardian"
     },
     {
         "name": "Gunnar",
@@ -316,7 +331,8 @@ window.allHeroesExtra = [
         "baseDefense": 307,
         "baseHealth": 378,
         "specialId": "stone_skin",
-        "passiveSkills": null
+        "passiveSkills": null,
+        "family": "classic"
     },
     {
         "name": "Gunnar Costume1",
@@ -340,7 +356,8 @@ window.allHeroesExtra = [
         "attackBonus": "7%",
         "defenseBonus": "7%",
         "healthBonus": "10%",
-        "manaBonus": "5%"
+        "manaBonus": "5%",
+        "family": "classic"
     },
     {
         "name": "Gunnar Toon",
@@ -366,7 +383,8 @@ window.allHeroesExtra = [
         "attackBonus": "15%",
         "defenseBonus": "15%",
         "healthBonus": "20%",
-        "manaBonus": "5%"
+        "manaBonus": "5%",
+        "family": "classic"
     },
     {
         "name": "Helo",
@@ -386,7 +404,8 @@ window.allHeroesExtra = [
         "specialId": "healthiest_catch",
         "passiveSkills": [
             "increase_buff_duration"
-        ]
+        ],
+        "family": "abyss"
     },
     {
         "name": "Helo Costume1",
@@ -412,7 +431,8 @@ window.allHeroesExtra = [
         "attackBonus": "2%",
         "defenseBonus": "2%",
         "healthBonus": "4%",
-        "manaBonus": "1%"
+        "manaBonus": "1%",
+        "family": "abyss"
     },
     {
         "name": "Jarif",
@@ -432,7 +452,8 @@ window.allHeroesExtra = [
         "specialId": "disabling_decree",
         "passiveSkills": [
             "moon_extra_special_damage_and_mana_regen_debuff"
-        ]
+        ],
+        "family": "moon"
     },
     {
         "name": "Jarif Costume1",
@@ -461,7 +482,8 @@ window.allHeroesExtra = [
         "attackBonus": "2%",
         "defenseBonus": "2%",
         "healthBonus": "4%",
-        "manaBonus": "1%"
+        "manaBonus": "1%",
+        "family": "moon"
     },
     {
         "name": "Jarvur",
@@ -480,7 +502,8 @@ window.allHeroesExtra = [
         "baseDefense": 243,
         "baseHealth": 446,
         "specialId": "jab_and_hook",
-        "passiveSkills": null
+        "passiveSkills": null,
+        "family": "svartalfheim"
     },
     {
         "name": "Joukahainen",
@@ -501,7 +524,8 @@ window.allHeroesExtra = [
         "specialId": "arrows_of_fury",
         "passiveSkills": [
             "heal_mana_on_low_health_once"
-        ]
+        ],
+        "family": "kalevala"
     },
     {
         "name": "Karil",
@@ -518,7 +542,8 @@ window.allHeroesExtra = [
         "baseDefense": 218,
         "baseHealth": 422,
         "specialId": "ramming_rush",
-        "passiveSkills": null
+        "passiveSkills": null,
+        "family": "classic"
     },
     {
         "name": "Karil Costume1",
@@ -542,7 +567,8 @@ window.allHeroesExtra = [
         "attackBonus": "7%",
         "defenseBonus": "7%",
         "healthBonus": "10%",
-        "manaBonus": "5%"
+        "manaBonus": "5%",
+        "family": "classic"
     },
     {
         "name": "Karil Toon",
@@ -568,7 +594,8 @@ window.allHeroesExtra = [
         "attackBonus": "15%",
         "defenseBonus": "15%",
         "healthBonus": "20%",
-        "manaBonus": "5%"
+        "manaBonus": "5%",
+        "family": "classic"
     },
     {
         "name": "Nordri",
@@ -586,7 +613,8 @@ window.allHeroesExtra = [
         "baseDefense": 234,
         "baseHealth": 471,
         "specialId": "frosty_axes",
-        "passiveSkills": null
+        "passiveSkills": null,
+        "family": "jotunheim"
     },
     {
         "name": "Nordri Costume1",
@@ -610,7 +638,8 @@ window.allHeroesExtra = [
         "attackBonus": "3%",
         "defenseBonus": "3%",
         "healthBonus": "6%",
-        "manaBonus": "1%"
+        "manaBonus": "1%",
+        "family": "jotunheim"
     },
     {
         "name": "Planchet",
@@ -631,7 +660,8 @@ window.allHeroesExtra = [
         "specialId": "piercing_practice_slash",
         "passiveSkills": [
             "damage_all_enemies_on_cover_or_special_damage_received"
-        ]
+        ],
+        "family": "musketeer"
     },
     {
         "name": "Soroca",
@@ -652,7 +682,8 @@ window.allHeroesExtra = [
         "specialId": "faithful_force",
         "passiveSkills": [
             "gargoyle_stone"
-        ]
+        ],
+        "family": "gargoyle"
     },
     {
         "name": "Swan Maiden",
@@ -676,7 +707,8 @@ window.allHeroesExtra = [
         "passiveSkills": [
             "heal_on_expired_or_cleared_debuff",
             "resist_defense_modifier_debuffs"
-        ]
+        ],
+        "family": "opera"
     },
     {
         "name": "Ulmer",
@@ -694,7 +726,8 @@ window.allHeroesExtra = [
         "baseDefense": 207,
         "baseHealth": 390,
         "specialId": "cold_blast",
-        "passiveSkills": null
+        "passiveSkills": null,
+        "family": "classic"
     },
     {
         "name": "Ulmer Costume1",
@@ -718,7 +751,8 @@ window.allHeroesExtra = [
         "attackBonus": "7%",
         "defenseBonus": "7%",
         "healthBonus": "10%",
-        "manaBonus": "5%"
+        "manaBonus": "5%",
+        "family": "classic"
     },
     {
         "name": "Ulmer Toon",
@@ -745,7 +779,8 @@ window.allHeroesExtra = [
         "attackBonus": "15%",
         "defenseBonus": "15%",
         "healthBonus": "20%",
-        "manaBonus": "5%"
+        "manaBonus": "5%",
+        "family": "classic"
     },
     {
         "name": "Valen",
@@ -763,7 +798,8 @@ window.allHeroesExtra = [
         "baseDefense": 237,
         "baseHealth": 391,
         "specialId": "chilling_slash",
-        "passiveSkills": null
+        "passiveSkills": null,
+        "family": "classic"
     },
     {
         "name": "Valen Costume1",
@@ -787,7 +823,8 @@ window.allHeroesExtra = [
         "attackBonus": "7%",
         "defenseBonus": "7%",
         "healthBonus": "10%",
-        "manaBonus": "5%"
+        "manaBonus": "5%",
+        "family": "classic"
     },
     {
         "name": "Valen Toon",
@@ -814,7 +851,8 @@ window.allHeroesExtra = [
         "attackBonus": "15%",
         "defenseBonus": "15%",
         "healthBonus": "20%",
-        "manaBonus": "5%"
+        "manaBonus": "5%",
+        "family": "classic"
     },
     {
         "name": "Virgil",
@@ -836,7 +874,8 @@ window.allHeroesExtra = [
         "passiveSkills": [
             "resist_all_defense_debuffs",
             "reduce_minion_health"
-        ]
+        ],
+        "family": "styx"
     },
     {
         "name": "Vodnik",
@@ -854,7 +893,8 @@ window.allHeroesExtra = [
         "baseDefense": 247,
         "baseHealth": 480,
         "specialId": "destructive_strike",
-        "passiveSkills": null
+        "passiveSkills": null,
+        "family": "pirate"
     },
     {
         "name": "Yao",
@@ -873,7 +913,8 @@ window.allHeroesExtra = [
         "baseDefense": 286,
         "baseHealth": 448,
         "specialId": "sword_of_wei",
-        "passiveSkills": null
+        "passiveSkills": null,
+        "family": "kingdom"
     },
     {
         "name": "Agwe",
@@ -891,7 +932,8 @@ window.allHeroesExtra = [
         "baseDefense": 290,
         "baseHealth": 508,
         "specialId": "tidal_wave",
-        "passiveSkills": null
+        "passiveSkills": null,
+        "family": "lagoon"
     },
     {
         "name": "Agwe Costume1",
@@ -915,7 +957,8 @@ window.allHeroesExtra = [
         "attackBonus": "3%",
         "defenseBonus": "3%",
         "healthBonus": "6%",
-        "manaBonus": "5%"
+        "manaBonus": "5%",
+        "family": "lagoon"
     },
     {
         "name": "Aqualith",
@@ -935,7 +978,8 @@ window.allHeroesExtra = [
         "specialId": "close_order_formation",
         "passiveSkills": [
             "tales1_extra_special_damage_and_add_critical"
-        ]
+        ],
+        "family": "tales1_goodies"
     },
     {
         "name": "Aqualith Costume1",
@@ -963,7 +1007,8 @@ window.allHeroesExtra = [
         "attackBonus": "2%",
         "defenseBonus": "2%",
         "healthBonus": "4%",
-        "manaBonus": "1%"
+        "manaBonus": "1%",
+        "family": "tales1_goodies"
     },
     {
         "name": "Azmia",
@@ -983,7 +1028,8 @@ window.allHeroesExtra = [
         "specialId": "counterstance",
         "passiveSkills": [
             "sun_extra_special_heal_and_cleanse_latest_debuff"
-        ]
+        ],
+        "family": "sun"
     },
     {
         "name": "Azmia Costume1",
@@ -1014,7 +1060,8 @@ window.allHeroesExtra = [
         "attackBonus": "2%",
         "defenseBonus": "2%",
         "healthBonus": "4%",
-        "manaBonus": "1%"
+        "manaBonus": "1%",
+        "family": "sun"
     },
     {
         "name": "Bonechill",
@@ -1036,7 +1083,8 @@ window.allHeroesExtra = [
         "passiveSkills": [
             "destructive_core",
             "resist_special_blocking"
-        ]
+        ],
+        "family": "construct"
     },
     {
         "name": "Boril",
@@ -1053,7 +1101,8 @@ window.allHeroesExtra = [
         "baseDefense": 373,
         "baseHealth": 542,
         "specialId": "perfect_riposte",
-        "passiveSkills": null
+        "passiveSkills": null,
+        "family": "classic"
     },
     {
         "name": "Boril Costume1",
@@ -1076,7 +1125,8 @@ window.allHeroesExtra = [
         "attackBonus": "7%",
         "defenseBonus": "7%",
         "healthBonus": "11%",
-        "manaBonus": "5%"
+        "manaBonus": "5%",
+        "family": "classic"
     },
     {
         "name": "Boril Costume2",
@@ -1099,7 +1149,8 @@ window.allHeroesExtra = [
         "attackBonus": "15%",
         "defenseBonus": "15%",
         "healthBonus": "20%",
-        "manaBonus": "5%"
+        "manaBonus": "5%",
+        "family": "classic"
     },
     {
         "name": "Boril Toon",
@@ -1124,7 +1175,8 @@ window.allHeroesExtra = [
         "attackBonus": "17%",
         "defenseBonus": "17%",
         "healthBonus": "22%",
-        "manaBonus": "5%"
+        "manaBonus": "5%",
+        "family": "classic"
     },
     {
         "name": "Captain of Diamonds",
@@ -1143,7 +1195,8 @@ window.allHeroesExtra = [
         "baseDefense": 321,
         "baseHealth": 530,
         "specialId": "pest_control",
-        "passiveSkills": null
+        "passiveSkills": null,
+        "family": "wonderland"
     },
     {
         "name": "Dain",
@@ -1168,7 +1221,8 @@ window.allHeroesExtra = [
         "passiveSkills": [
             "arctic_core",
             "resist_frost_with_health_boost_and_mana"
-        ]
+        ],
+        "family": "myrkheim"
     },
     {
         "name": "Fosco",
@@ -1190,7 +1244,8 @@ window.allHeroesExtra = [
         "passiveSkills": [
             "cleanse_on_own_familiar_death",
             "resist_all_defense_debuffs"
-        ]
+        ],
+        "family": "masquerade"
     },
     {
         "name": "Frank",
@@ -1211,7 +1266,8 @@ window.allHeroesExtra = [
         "specialId": "undead_razer",
         "passiveSkills": [
             "halloween_steal_buff_or_deal_damage"
-        ]
+        ],
+        "family": "halloween"
     },
     {
         "name": "Frank Costume1",
@@ -1240,7 +1296,8 @@ window.allHeroesExtra = [
         "attackBonus": "2%",
         "defenseBonus": "2%",
         "healthBonus": "4%",
-        "manaBonus": "5%"
+        "manaBonus": "5%",
+        "family": "halloween"
     },
     {
         "name": "Garyas",
@@ -1262,7 +1319,8 @@ window.allHeroesExtra = [
         "specialId": "the_mighty_crescendo",
         "passiveSkills": [
             "attack_reduction_multiplier"
-        ]
+        ],
+        "family": "bard"
     },
     {
         "name": "Greg",
@@ -1284,7 +1342,8 @@ window.allHeroesExtra = [
         "passiveSkills": [
             "remove_wither_from_allies",
             "resist_direct_mana_reductions"
-        ]
+        ],
+        "family": "garrison"
     },
     {
         "name": "Grimm",
@@ -1302,7 +1361,8 @@ window.allHeroesExtra = [
         "baseDefense": 250,
         "baseHealth": 533,
         "specialId": "ramming_pulverizer",
-        "passiveSkills": null
+        "passiveSkills": null,
+        "family": "classic"
     },
     {
         "name": "Grimm Costume1",
@@ -1326,7 +1386,8 @@ window.allHeroesExtra = [
         "attackBonus": "7%",
         "defenseBonus": "7%",
         "healthBonus": "11%",
-        "manaBonus": "5%"
+        "manaBonus": "5%",
+        "family": "classic"
     },
     {
         "name": "Grimm Costume2",
@@ -1350,7 +1411,8 @@ window.allHeroesExtra = [
         "attackBonus": "15%",
         "defenseBonus": "15%",
         "healthBonus": "20%",
-        "manaBonus": "5%"
+        "manaBonus": "5%",
+        "family": "classic"
     },
     {
         "name": "Grimm Toon",
@@ -1377,7 +1439,8 @@ window.allHeroesExtra = [
         "attackBonus": "17%",
         "defenseBonus": "17%",
         "healthBonus": "22%",
-        "manaBonus": "5%"
+        "manaBonus": "5%",
+        "family": "classic"
     },
     {
         "name": "Grimm Glass",
@@ -1404,7 +1467,8 @@ window.allHeroesExtra = [
         "attackBonus": "19%",
         "defenseBonus": "19%",
         "healthBonus": "24%",
-        "manaBonus": "5%"
+        "manaBonus": "5%",
+        "family": "classic"
     },
     {
         "name": "Grumbl",
@@ -1426,7 +1490,8 @@ window.allHeroesExtra = [
         "specialId": "moon_boomerang",
         "passiveSkills": [
             "gargoyle_soft_skin"
-        ]
+        ],
+        "family": "gargoyle"
     },
     {
         "name": "Jott",
@@ -1446,7 +1511,8 @@ window.allHeroesExtra = [
         "baseDefense": 286,
         "baseHealth": 530,
         "specialId": "ice_boom",
-        "passiveSkills": null
+        "passiveSkills": null,
+        "family": "jotunheim"
     },
     {
         "name": "Kiril",
@@ -1465,7 +1531,8 @@ window.allHeroesExtra = [
         "baseDefense": 317,
         "baseHealth": 487,
         "specialId": "blessed_brew",
-        "passiveSkills": null
+        "passiveSkills": null,
+        "family": "classic"
     },
     {
         "name": "Kiril Costume1",
@@ -1490,7 +1557,8 @@ window.allHeroesExtra = [
         "attackBonus": "7%",
         "defenseBonus": "7%",
         "healthBonus": "11%",
-        "manaBonus": "5%"
+        "manaBonus": "5%",
+        "family": "classic"
     },
     {
         "name": "Kiril Costume2",
@@ -1515,7 +1583,8 @@ window.allHeroesExtra = [
         "attackBonus": "15%",
         "defenseBonus": "15%",
         "healthBonus": "20%",
-        "manaBonus": "5%"
+        "manaBonus": "5%",
+        "family": "classic"
     },
     {
         "name": "Kiril Toon",
@@ -1542,7 +1611,8 @@ window.allHeroesExtra = [
         "attackBonus": "17%",
         "defenseBonus": "17%",
         "healthBonus": "22%",
-        "manaBonus": "5%"
+        "manaBonus": "5%",
+        "family": "classic"
     },
     {
         "name": "Kiril Glass",
@@ -1570,7 +1640,8 @@ window.allHeroesExtra = [
         "attackBonus": "19%",
         "defenseBonus": "19%",
         "healthBonus": "24%",
-        "manaBonus": "5%"
+        "manaBonus": "5%",
+        "family": "classic"
     },
     {
         "name": "Knuckles",
@@ -1594,7 +1665,8 @@ window.allHeroesExtra = [
         "passiveSkills": [
             "hunters_mark_on_special",
             "attack_modifier_on_special"
-        ]
+        ],
+        "family": "jungle_hunter"
     },
     {
         "name": "Linus",
@@ -1615,7 +1687,8 @@ window.allHeroesExtra = [
         "specialId": "shackles_of_the_sea",
         "passiveSkills": [
             "strong_troop_damage_modifier"
-        ]
+        ],
+        "family": "super_elemental"
     },
     {
         "name": "Mireweave",
@@ -1634,7 +1707,8 @@ window.allHeroesExtra = [
         "baseDefense": 281,
         "baseHealth": 553,
         "specialId": "chain_of_pain",
-        "passiveSkills": null
+        "passiveSkills": null,
+        "family": "vanaheim"
     },
     {
         "name": "Olbec",
@@ -1656,7 +1730,8 @@ window.allHeroesExtra = [
         "specialId": "ill_fated_experiment",
         "passiveSkills": [
             "mana_generation_modifier_all_enemies_stronger"
-        ]
+        ],
+        "family": "owl"
     },
     {
         "name": "Osamu",
@@ -1678,7 +1753,8 @@ window.allHeroesExtra = [
         "specialId": "iron_discipline_cut",
         "passiveSkills": [
             "reduce_minion_health"
-        ]
+        ],
+        "family": "ninja"
     },
     {
         "name": "Sanngrior",
@@ -1696,7 +1772,8 @@ window.allHeroesExtra = [
         "baseDefense": 320,
         "baseHealth": 681,
         "specialId": "valkyries_fortitude",
-        "passiveSkills": null
+        "passiveSkills": null,
+        "family": "villains"
     },
     {
         "name": "Sapphire",
@@ -1716,7 +1793,8 @@ window.allHeroesExtra = [
         "baseDefense": 255,
         "baseHealth": 605,
         "specialId": "from_shadows",
-        "passiveSkills": null
+        "passiveSkills": null,
+        "family": "ninja"
     },
     {
         "name": "Sonya",
@@ -1734,7 +1812,8 @@ window.allHeroesExtra = [
         "baseDefense": 344,
         "baseHealth": 476,
         "specialId": "piercing_strike",
-        "passiveSkills": null
+        "passiveSkills": null,
+        "family": "classic"
     },
     {
         "name": "Sonya Costume1",
@@ -1758,7 +1837,8 @@ window.allHeroesExtra = [
         "attackBonus": "7%",
         "defenseBonus": "7%",
         "healthBonus": "11%",
-        "manaBonus": "5%"
+        "manaBonus": "5%",
+        "family": "classic"
     },
     {
         "name": "Sonya Costume2",
@@ -1782,7 +1862,8 @@ window.allHeroesExtra = [
         "attackBonus": "15%",
         "defenseBonus": "15%",
         "healthBonus": "20%",
-        "manaBonus": "5%"
+        "manaBonus": "5%",
+        "family": "classic"
     },
     {
         "name": "Sonya Toon",
@@ -1809,7 +1890,8 @@ window.allHeroesExtra = [
         "attackBonus": "17%",
         "defenseBonus": "17%",
         "healthBonus": "22%",
-        "manaBonus": "5%"
+        "manaBonus": "5%",
+        "family": "classic"
     },
     {
         "name": "Triton",
@@ -1827,7 +1909,8 @@ window.allHeroesExtra = [
         "baseDefense": 283,
         "baseHealth": 494,
         "specialId": "heroic_noble",
-        "passiveSkills": null
+        "passiveSkills": null,
+        "family": "atlantis"
     },
     {
         "name": "Triton Costume1",
@@ -1851,7 +1934,8 @@ window.allHeroesExtra = [
         "attackBonus": "3%",
         "defenseBonus": "3%",
         "healthBonus": "6%",
-        "manaBonus": "5%"
+        "manaBonus": "5%",
+        "family": "atlantis"
     },
     {
         "name": "Valeria",
@@ -1873,7 +1957,8 @@ window.allHeroesExtra = [
         "specialId": "queens_blood_poisoning",
         "passiveSkills": [
             "halloween_steal_buff_or_deal_damage"
-        ]
+        ],
+        "family": "halloween"
     },
     {
         "name": "Xiahou Dun",
@@ -1892,7 +1977,8 @@ window.allHeroesExtra = [
         "baseDefense": 352,
         "baseHealth": 555,
         "specialId": "qilin_blade",
-        "passiveSkills": null
+        "passiveSkills": null,
+        "family": "kingdom"
     },
     {
         "name": "Zila Lei",
@@ -1912,7 +1998,8 @@ window.allHeroesExtra = [
         "specialId": "fishbone_blades",
         "passiveSkills": [
             "increase_special_damage"
-        ]
+        ],
+        "family": "abyss"
     },
     {
         "name": "Zila Lei Costume1",
@@ -1938,7 +2025,8 @@ window.allHeroesExtra = [
         "attackBonus": "2%",
         "defenseBonus": "2%",
         "healthBonus": "4%",
-        "manaBonus": "1%"
+        "manaBonus": "1%",
+        "family": "abyss"
     },
     {
         "name": "Adalinda",
@@ -1961,7 +2049,8 @@ window.allHeroesExtra = [
         "passiveSkills": [
             "hunters_mark_on_special",
             "special_damage_reduction_monster_hunters"
-        ]
+        ],
+        "family": "plains_hunter"
     },
     {
         "name": "Aegir",
@@ -1981,7 +2070,8 @@ window.allHeroesExtra = [
         "baseDefense": 391,
         "baseHealth": 702,
         "specialId": "icy_resilience",
-        "passiveSkills": null
+        "passiveSkills": null,
+        "family": "hotm2018"
     },
     {
         "name": "Aegir Costume1",
@@ -2009,7 +2099,8 @@ window.allHeroesExtra = [
         "attackBonus": "28%",
         "defenseBonus": "26%",
         "healthBonus": "45%",
-        "manaBonus": "5%"
+        "manaBonus": "5%",
+        "family": "hotm2018"
     },
     {
         "name": "Aino",
@@ -2030,7 +2121,8 @@ window.allHeroesExtra = [
         "specialId": "summer_carol",
         "passiveSkills": [
             "heal_mana_on_low_health_once"
-        ]
+        ],
+        "family": "kalevala"
     },
     {
         "name": "Aino Costume1",
@@ -2057,7 +2149,8 @@ window.allHeroesExtra = [
         "attackBonus": "34%",
         "defenseBonus": "34%",
         "healthBonus": "35%",
-        "manaBonus": "5%"
+        "manaBonus": "5%",
+        "family": "kalevala"
     },
     {
         "name": "Alasie",
@@ -2077,7 +2170,8 @@ window.allHeroesExtra = [
         "baseDefense": 343,
         "baseHealth": 649,
         "specialId": "spirit_arrow",
-        "passiveSkills": null
+        "passiveSkills": null,
+        "family": "hotm2018"
     },
     {
         "name": "Alasie Costume1",
@@ -2106,7 +2200,8 @@ window.allHeroesExtra = [
         "attackBonus": "28%",
         "defenseBonus": "26%",
         "healthBonus": "45%",
-        "manaBonus": "5%"
+        "manaBonus": "5%",
+        "family": "hotm2018"
     },
     {
         "name": "Alexandrine",
@@ -2130,7 +2225,8 @@ window.allHeroesExtra = [
         "passiveSkills": [
             "heal_on_debuff",
             "resist_heal_multiplier_debuffs"
-        ]
+        ],
+        "family": "hotm2021"
     },
     {
         "name": "Alice",
@@ -2148,7 +2244,8 @@ window.allHeroesExtra = [
         "baseDefense": 347,
         "baseHealth": 644,
         "specialId": "timeless_timepiece",
-        "passiveSkills": null
+        "passiveSkills": null,
+        "family": "wonderland"
     },
     {
         "name": "Amphitrite",
@@ -2171,7 +2268,8 @@ window.allHeroesExtra = [
         "passiveSkills": [
             "resist_all_defense_debuffs",
             "reduce_minion_health"
-        ]
+        ],
+        "family": "styx"
     },
     {
         "name": "Andvari",
@@ -2197,7 +2295,8 @@ window.allHeroesExtra = [
         "passiveSkills": [
             "molten_core",
             "resist_burn_with_health_boost_and_mana"
-        ]
+        ],
+        "family": "nidavellir"
     },
     {
         "name": "Anzia",
@@ -2217,7 +2316,8 @@ window.allHeroesExtra = [
         "specialId": "radiant_comeback",
         "passiveSkills": [
             "strong_troop_damage_modifier"
-        ]
+        ],
+        "family": "super_elemental"
     },
     {
         "name": "Areax",
@@ -2240,7 +2340,8 @@ window.allHeroesExtra = [
         "passiveSkills": [
             "resist_special_blocking",
             "resist_water"
-        ]
+        ],
+        "family": "hotm2023"
     },
     {
         "name": "Ariel",
@@ -2259,7 +2360,8 @@ window.allHeroesExtra = [
         "baseDefense": 373,
         "baseHealth": 612,
         "specialId": "divine_protection",
-        "passiveSkills": null
+        "passiveSkills": null,
+        "family": "atlantis"
     },
     {
         "name": "Ariel Costume1",
@@ -2284,7 +2386,8 @@ window.allHeroesExtra = [
         "attackBonus": "25%",
         "defenseBonus": "25%",
         "healthBonus": "30%",
-        "manaBonus": "5%"
+        "manaBonus": "5%",
+        "family": "atlantis"
     },
     {
         "name": "Armel",
@@ -2305,7 +2408,8 @@ window.allHeroesExtra = [
         "specialId": "frostbite",
         "passiveSkills": [
             "heal_on_buff_alliance_quest_family"
-        ]
+        ],
+        "family": "bear"
     },
     {
         "name": "Ascian",
@@ -2330,7 +2434,8 @@ window.allHeroesExtra = [
             "resist_negative_attack_modifiers_including_wither",
             "resist_insanity",
             "minion_and_mega_minion_accuracy_modifier"
-        ]
+        ],
+        "family": "faun"
     },
     {
         "name": "Athena",
@@ -2351,7 +2456,8 @@ window.allHeroesExtra = [
         "baseDefense": 336,
         "baseHealth": 655,
         "specialId": "athenas_bow",
-        "passiveSkills": null
+        "passiveSkills": null,
+        "family": "hotm2017"
     },
     {
         "name": "Athena Costume1",
@@ -2380,7 +2486,8 @@ window.allHeroesExtra = [
         "attackBonus": "28%",
         "defenseBonus": "26%",
         "healthBonus": "45%",
-        "manaBonus": "5%"
+        "manaBonus": "5%",
+        "family": "hotm2017"
     },
     {
         "name": "Atlanteia",
@@ -2404,7 +2511,8 @@ window.allHeroesExtra = [
         "specialId": "aphotic_maw",
         "passiveSkills": [
             "tales1_extra_special_damage_and_add_stacking_mana_generation"
-        ]
+        ],
+        "family": "tales1_baddies"
     },
     {
         "name": "Atlanteia Costume1",
@@ -2436,7 +2544,8 @@ window.allHeroesExtra = [
         "attackBonus": "28%",
         "defenseBonus": "28%",
         "healthBonus": "28%",
-        "manaBonus": "5%"
+        "manaBonus": "5%",
+        "family": "tales1_baddies"
     },
     {
         "name": "Azurite",
@@ -2454,7 +2563,8 @@ window.allHeroesExtra = [
         "baseDefense": 376,
         "baseHealth": 717,
         "specialId": "light_grenades",
-        "passiveSkills": null
+        "passiveSkills": null,
+        "family": "ninja"
     },
     {
         "name": "Balur",
@@ -2477,7 +2587,8 @@ window.allHeroesExtra = [
         "passiveSkills": [
             "resist_attack_modifier_debuffs",
             "heal_on_enemy_bleed"
-        ]
+        ],
+        "family": "hotm2022"
     },
     {
         "name": "Bennu",
@@ -2497,7 +2608,8 @@ window.allHeroesExtra = [
         "specialId": "divine_reflection",
         "passiveSkills": [
             "sun_extra_special_heal_and_cleanse_latest_debuff"
-        ]
+        ],
+        "family": "sun"
     },
     {
         "name": "Bennu Costume1",
@@ -2528,7 +2640,8 @@ window.allHeroesExtra = [
         "attackBonus": "45%",
         "defenseBonus": "45%",
         "healthBonus": "50%",
-        "manaBonus": "5%"
+        "manaBonus": "5%",
+        "family": "sun"
     },
     {
         "name": "Bhaltair",
@@ -2551,7 +2664,8 @@ window.allHeroesExtra = [
         "passiveSkills": [
             "set_dance_duration",
             "set_ballad_duration"
-        ]
+        ],
+        "family": "bard"
     },
     {
         "name": "Bobo",
@@ -2570,7 +2684,8 @@ window.allHeroesExtra = [
         "baseDefense": 389,
         "baseHealth": 670,
         "specialId": "bobo_blitz",
-        "passiveSkills": null
+        "passiveSkills": null,
+        "family": "circus"
     },
     {
         "name": "Bubbles",
@@ -2592,7 +2707,8 @@ window.allHeroesExtra = [
         "passiveSkills": [
             "heal_and_add_mana_on_ally_minion",
             "damage_enemies_on_enemy_parasite"
-        ]
+        ],
+        "family": "mighty_pet"
     },
     {
         "name": "Burton",
@@ -2611,7 +2727,8 @@ window.allHeroesExtra = [
         "baseDefense": 565,
         "baseHealth": 1033,
         "specialId": "petrifying_knuckles",
-        "passiveSkills": null
+        "passiveSkills": null,
+        "family": "investigator"
     },
     {
         "name": "Caelen",
@@ -2633,7 +2750,8 @@ window.allHeroesExtra = [
         "passiveSkills": [
             "remove_wither_from_allies",
             "resist_direct_mana_reductions"
-        ]
+        ],
+        "family": "garrison"
     },
     {
         "name": "Camilla",
@@ -2658,7 +2776,8 @@ window.allHeroesExtra = [
         "passiveSkills": [
             "magic_mana_regen_stack_on_special",
             "magic_damage_on_full_charge_to_not_red"
-        ]
+        ],
+        "family": "magic"
     },
     {
         "name": "Cao Cao",
@@ -2678,7 +2797,8 @@ window.allHeroesExtra = [
         "baseDefense": 395,
         "baseHealth": 713,
         "specialId": "order_to_overwhelm",
-        "passiveSkills": null
+        "passiveSkills": null,
+        "family": "kingdom"
     },
     {
         "name": "Cao Cao Costume1",
@@ -2706,7 +2826,8 @@ window.allHeroesExtra = [
         "attackBonus": "35%",
         "defenseBonus": "35%",
         "healthBonus": "45%",
-        "manaBonus": "5%"
+        "manaBonus": "5%",
+        "family": "kingdom"
     },
     {
         "name": "Cathal",
@@ -2730,7 +2851,8 @@ window.allHeroesExtra = [
         "specialId": "breaker_blade",
         "passiveSkills": [
             "resist_status_effect_damage"
-        ]
+        ],
+        "family": "slayers"
     },
     {
         "name": "Cel",
@@ -2751,7 +2873,8 @@ window.allHeroesExtra = [
         "passiveSkills": [
             "cleanse_on_own_familiar_death",
             "resist_all_defense_debuffs"
-        ]
+        ],
+        "family": "masquerade"
     },
     {
         "name": "Celimene",
@@ -2772,7 +2895,8 @@ window.allHeroesExtra = [
         "specialId": "moonlight_sonata",
         "passiveSkills": [
             "attack_reduction_multiplier"
-        ]
+        ],
+        "family": "bard"
     },
     {
         "name": "Ceto",
@@ -2797,7 +2921,8 @@ window.allHeroesExtra = [
         "specialId": "tidal_vortex",
         "passiveSkills": [
             "tales1_extra_special_damage_and_add_critical"
-        ]
+        ],
+        "family": "tales1_goodies"
     },
     {
         "name": "Ceto Costume1",
@@ -2830,7 +2955,8 @@ window.allHeroesExtra = [
         "attackBonus": "28%",
         "defenseBonus": "28%",
         "healthBonus": "28%",
-        "manaBonus": "5%"
+        "manaBonus": "5%",
+        "family": "tales1_goodies"
     },
     {
         "name": "Chang'e",
@@ -2852,7 +2978,8 @@ window.allHeroesExtra = [
         "passiveSkills": [
             "heal_on_buff_with_chance",
             "mana_on_buff_with_chance"
-        ]
+        ],
+        "family": "journey"
     },
     {
         "name": "Chester",
@@ -2873,7 +3000,8 @@ window.allHeroesExtra = [
         "specialId": "horrifying_wail",
         "passiveSkills": [
             "halloween_steal_buff_or_deal_damage"
-        ]
+        ],
+        "family": "halloween"
     },
     {
         "name": "Chimister",
@@ -2898,7 +3026,8 @@ window.allHeroesExtra = [
         "specialId": "mutating_mixture",
         "passiveSkills": [
             "dodge_enemy_damage_special"
-        ]
+        ],
+        "family": "moths"
     },
     {
         "name": "Chitrangada",
@@ -2922,7 +3051,8 @@ window.allHeroesExtra = [
         "passiveSkills": [
             "resist_negative_minion_and_mega_minion_effects",
             "mana_on_damage_received"
-        ]
+        ],
+        "family": "mahayoddha"
     },
     {
         "name": "Ciara",
@@ -2944,7 +3074,8 @@ window.allHeroesExtra = [
         "passiveSkills": [
             "remove_wither_from_allies",
             "resist_direct_mana_reductions"
-        ]
+        ],
+        "family": "garrison"
     },
     {
         "name": "Cinnamon",
@@ -2966,7 +3097,8 @@ window.allHeroesExtra = [
         "passiveSkills": [
             "heal_and_add_mana_on_ally_minion",
             "damage_enemies_on_enemy_parasite"
-        ]
+        ],
+        "family": "mighty_pet"
     },
     {
         "name": "Claeg",
@@ -2988,7 +3120,8 @@ window.allHeroesExtra = [
         "passiveSkills": [
             "resist_burn",
             "resist_special_blocking"
-        ]
+        ],
+        "family": "hotm2025"
     },
     {
         "name": "Cobalt",
@@ -3008,7 +3141,8 @@ window.allHeroesExtra = [
         "baseDefense": 333,
         "baseHealth": 697,
         "specialId": "katana_rain",
-        "passiveSkills": null
+        "passiveSkills": null,
+        "family": "ninja"
     },
     {
         "name": "Cosmicspeaker",
@@ -3032,7 +3166,8 @@ window.allHeroesExtra = [
         "passiveSkills": [
             "share_received_damage",
             "resist_poison"
-        ]
+        ],
+        "family": "astral_elves"
     },
     {
         "name": "Crystalis",
@@ -3054,7 +3189,8 @@ window.allHeroesExtra = [
         "baseDefense": 367,
         "baseHealth": 667,
         "specialId": "freezing_crystal",
-        "passiveSkills": null
+        "passiveSkills": null,
+        "family": "villains"
     },
     {
         "name": "Davey Wavey",
@@ -3078,7 +3214,8 @@ window.allHeroesExtra = [
         "passiveSkills": [
             "resist_water",
             "underwater_on_special_beach"
-        ]
+        ],
+        "family": "beachparty"
     },
     {
         "name": "Esme",
@@ -3098,7 +3235,8 @@ window.allHeroesExtra = [
         "baseDefense": 379,
         "baseHealth": 717,
         "specialId": "fiendslayer",
-        "passiveSkills": null
+        "passiveSkills": null,
+        "family": "wolf"
     },
     {
         "name": "Exeera",
@@ -3118,7 +3256,8 @@ window.allHeroesExtra = [
         "specialId": "saturated_suffering",
         "passiveSkills": [
             "start_battle_with_mana"
-        ]
+        ],
+        "family": "abyss"
     },
     {
         "name": "Exeera Costume1",
@@ -3147,7 +3286,8 @@ window.allHeroesExtra = [
         "attackBonus": "30%",
         "defenseBonus": "30%",
         "healthBonus": "35%",
-        "manaBonus": "5%"
+        "manaBonus": "5%",
+        "family": "abyss"
     },
     {
         "name": "Experience Mimic Ice",
@@ -3173,7 +3313,8 @@ window.allHeroesExtra = [
         "passiveSkills": [
             "mimic_training_hero_blue",
             "never_miss_special"
-        ]
+        ],
+        "family": "mimic"
     },
     {
         "name": "Fenrir",
@@ -3193,7 +3334,8 @@ window.allHeroesExtra = [
         "baseDefense": 358,
         "baseHealth": 630,
         "specialId": "gargantuan_bite",
-        "passiveSkills": null
+        "passiveSkills": null,
+        "family": "niflheim"
     },
     {
         "name": "Fenrir Costume1",
@@ -3219,7 +3361,8 @@ window.allHeroesExtra = [
         "attackBonus": "28%",
         "defenseBonus": "28%",
         "healthBonus": "35%",
-        "manaBonus": "5%"
+        "manaBonus": "5%",
+        "family": "niflheim"
     },
     {
         "name": "Fergus",
@@ -3242,7 +3385,8 @@ window.allHeroesExtra = [
             "remove_growth_from_enemies",
             "resist_direct_mana_reductions",
             "mana_on_debuff"
-        ]
+        ],
+        "family": "garrison"
     },
     {
         "name": "Finley",
@@ -3261,7 +3405,8 @@ window.allHeroesExtra = [
         "baseDefense": 362,
         "baseHealth": 638,
         "specialId": "commodores_revenge",
-        "passiveSkills": null
+        "passiveSkills": null,
+        "family": "pirate"
     },
     {
         "name": "Finley Costume1",
@@ -3289,7 +3434,8 @@ window.allHeroesExtra = [
         "attackBonus": "27%",
         "defenseBonus": "25%",
         "healthBonus": "40%",
-        "manaBonus": "5%"
+        "manaBonus": "5%",
+        "family": "pirate"
     },
     {
         "name": "Firmin Richard",
@@ -3312,7 +3458,8 @@ window.allHeroesExtra = [
         "passiveSkills": [
             "heal_on_expired_or_cleared_debuff_fast",
             "resist_attack_modifier_debuffs"
-        ]
+        ],
+        "family": "opera"
     },
     {
         "name": "Fizzcoil",
@@ -3333,7 +3480,8 @@ window.allHeroesExtra = [
         "specialId": "shady_concerto",
         "passiveSkills": [
             "goblin_damage_and_accuracy_debuff_on_special"
-        ]
+        ],
+        "family": "goblin"
     },
     {
         "name": "Fortuna",
@@ -3356,7 +3504,8 @@ window.allHeroesExtra = [
         "specialId": "bad_fortune",
         "passiveSkills": [
             "cleanse_on_own_familiar_death"
-        ]
+        ],
+        "family": "masquerade"
     },
     {
         "name": "Frida",
@@ -3378,7 +3527,8 @@ window.allHeroesExtra = [
         "specialId": "polar_bash",
         "passiveSkills": [
             "resist_attack_modifier_debuffs"
-        ]
+        ],
+        "family": "hotm2019"
     },
     {
         "name": "Frosth",
@@ -3400,7 +3550,8 @@ window.allHeroesExtra = [
         "passiveSkills": [
             "cleanse_on_own_familiar_death",
             "resist_burn"
-        ]
+        ],
+        "family": "hotm2021"
     },
     {
         "name": "Frostsnout",
@@ -3422,7 +3573,8 @@ window.allHeroesExtra = [
         "passiveSkills": [
             "remove_wither_from_allies",
             "resist_direct_mana_reductions"
-        ]
+        ],
+        "family": "garrison"
     },
     {
         "name": "Gaillard",
@@ -3444,7 +3596,8 @@ window.allHeroesExtra = [
         "specialId": "educated_exorcism",
         "passiveSkills": [
             "gargoyle_stone"
-        ]
+        ],
+        "family": "gargoyle"
     },
     {
         "name": "Ghealach",
@@ -3467,7 +3620,8 @@ window.allHeroesExtra = [
         "passiveSkills": [
             "destructive_core",
             "resist_special_blocking"
-        ]
+        ],
+        "family": "construct"
     },
     {
         "name": "Gladius",
@@ -3490,7 +3644,8 @@ window.allHeroesExtra = [
         "passiveSkills": [
             "mana_on_enemy_defense_buff",
             "resist_special_blocking"
-        ]
+        ],
+        "family": "hotm2024"
     },
     {
         "name": "Glenda",
@@ -3512,7 +3667,8 @@ window.allHeroesExtra = [
         "specialId": "midnight_magic",
         "passiveSkills": [
             "resist_buff_immunity"
-        ]
+        ],
+        "family": "hotm2020"
     },
     {
         "name": "Grimsteel",
@@ -3533,7 +3689,8 @@ window.allHeroesExtra = [
         "specialId": "spirits_of_the_mountain",
         "passiveSkills": [
             "goblin_damage_and_accuracy_debuff_on_special"
-        ]
+        ],
+        "family": "goblin"
     },
     {
         "name": "Guardian Hippo",
@@ -3551,7 +3708,8 @@ window.allHeroesExtra = [
         "baseDefense": 380,
         "baseHealth": 720,
         "specialId": "brutal_support",
-        "passiveSkills": null
+        "passiveSkills": null,
+        "family": "guardian"
     },
     {
         "name": "Hetepheres",
@@ -3572,7 +3730,8 @@ window.allHeroesExtra = [
         "specialId": "bewildering_riddle",
         "passiveSkills": [
             "sun_extra_special_heal_and_cleanse_latest_debuff"
-        ]
+        ],
+        "family": "sun"
     },
     {
         "name": "Hetepheres Costume1",
@@ -3603,7 +3762,8 @@ window.allHeroesExtra = [
         "attackBonus": "45%",
         "defenseBonus": "45%",
         "healthBonus": "50%",
-        "manaBonus": "5%"
+        "manaBonus": "5%",
+        "family": "sun"
     },
     {
         "name": "Himeros",
@@ -3624,7 +3784,8 @@ window.allHeroesExtra = [
         "specialId": "grips_of_longing",
         "passiveSkills": [
             "resist_special_blocking"
-        ]
+        ],
+        "family": "cupid"
     },
     {
         "name": "Hogne",
@@ -3652,7 +3813,8 @@ window.allHeroesExtra = [
         "passiveSkills": [
             "arctic_core",
             "resist_frost_with_health_boost_and_mana"
-        ]
+        ],
+        "family": "myrkheim"
     },
     {
         "name": "Hrothgar",
@@ -3677,7 +3839,8 @@ window.allHeroesExtra = [
             "attack_buff_on_damage_received",
             "heal_on_expired_or_cleared_debuff_average",
             "never_miss_special"
-        ]
+        ],
+        "family": "beowulf"
     },
     {
         "name": "Hysteria",
@@ -3695,7 +3858,8 @@ window.allHeroesExtra = [
         "baseDefense": 602,
         "baseHealth": 1097,
         "specialId": "eye_of_yog-sir",
-        "passiveSkills": null
+        "passiveSkills": null,
+        "family": "cultist"
     },
     {
         "name": "Iris",
@@ -3718,7 +3882,8 @@ window.allHeroesExtra = [
         "passiveSkills": [
             "mana_on_dispel_buff",
             "resist_burn"
-        ]
+        ],
+        "family": "hotm2022"
     },
     {
         "name": "Isarnia",
@@ -3736,7 +3901,8 @@ window.allHeroesExtra = [
         "baseDefense": 318,
         "baseHealth": 583,
         "specialId": "glacial_shatter",
-        "passiveSkills": null
+        "passiveSkills": null,
+        "family": "classic"
     },
     {
         "name": "Isarnia Costume1",
@@ -3760,7 +3926,8 @@ window.allHeroesExtra = [
         "attackBonus": "13%",
         "defenseBonus": "13%",
         "healthBonus": "20%",
-        "manaBonus": "5%"
+        "manaBonus": "5%",
+        "family": "classic"
     },
     {
         "name": "Isarnia Costume2",
@@ -3785,7 +3952,8 @@ window.allHeroesExtra = [
         "attackBonus": "29%",
         "defenseBonus": "29%",
         "healthBonus": "44%",
-        "manaBonus": "5%"
+        "manaBonus": "5%",
+        "family": "classic"
     },
     {
         "name": "Isarnia Toon",
@@ -3812,7 +3980,8 @@ window.allHeroesExtra = [
         "attackBonus": "55%",
         "defenseBonus": "55%",
         "healthBonus": "70%",
-        "manaBonus": "5%"
+        "manaBonus": "5%",
+        "family": "classic"
     },
     {
         "name": "Isarnia Glass",
@@ -3839,7 +4008,8 @@ window.allHeroesExtra = [
         "attackBonus": "75%",
         "defenseBonus": "75%",
         "healthBonus": "78%",
-        "manaBonus": "5%"
+        "manaBonus": "5%",
+        "family": "classic"
     },
     {
         "name": "Ixinn",
@@ -3865,7 +4035,8 @@ window.allHeroesExtra = [
             "never_miss_special",
             "resist_negative_minion_and_mega_minion_effects",
             "bypass_minions_and_mega_minions"
-        ]
+        ],
+        "family": "astral_dwarfs"
     },
     {
         "name": "Jolt",
@@ -3887,7 +4058,8 @@ window.allHeroesExtra = [
         "specialId": "chain_lightning",
         "passiveSkills": [
             "strong_troop_damage_modifier"
-        ]
+        ],
+        "family": "super_elemental"
     },
     {
         "name": "Jolyon",
@@ -3911,7 +4083,8 @@ window.allHeroesExtra = [
             "resist_negative_defense_modifiers_including_wither",
             "resist_insanity",
             "minion_and_mega_minion_accuracy_modifier"
-        ]
+        ],
+        "family": "faun"
     },
     {
         "name": "Kabeiroi",
@@ -3932,7 +4105,8 @@ window.allHeroesExtra = [
         "specialId": "tough_love",
         "passiveSkills": [
             "resist_special_blocking"
-        ]
+        ],
+        "family": "cupid"
     },
     {
         "name": "Kettle",
@@ -3955,7 +4129,8 @@ window.allHeroesExtra = [
         "specialId": "dubious_cuisine",
         "passiveSkills": [
             "goblin_damage_and_accuracy_debuff_on_special"
-        ]
+        ],
+        "family": "goblin"
     },
     {
         "name": "King Arthur",
@@ -3975,7 +4150,8 @@ window.allHeroesExtra = [
         "baseDefense": 356,
         "baseHealth": 649,
         "specialId": "excalibur",
-        "passiveSkills": null
+        "passiveSkills": null,
+        "family": "knight"
     },
     {
         "name": "Klaern",
@@ -3998,7 +4174,8 @@ window.allHeroesExtra = [
         "passiveSkills": [
             "resist_direct_mana_reductions",
             "resist_special_blocking"
-        ]
+        ],
+        "family": "hotm2022"
     },
     {
         "name": "Krampus",
@@ -4018,7 +4195,8 @@ window.allHeroesExtra = [
         "baseDefense": 414,
         "baseHealth": 713,
         "specialId": "scourge_of_joy",
-        "passiveSkills": null
+        "passiveSkills": null,
+        "family": "winter"
     },
     {
         "name": "Krampus Costume1",
@@ -4044,7 +4222,8 @@ window.allHeroesExtra = [
         "attackBonus": "35%",
         "defenseBonus": "35%",
         "healthBonus": "35%",
-        "manaBonus": "5%"
+        "manaBonus": "5%",
+        "family": "winter"
     },
     {
         "name": "Lord Loki",
@@ -4061,7 +4240,8 @@ window.allHeroesExtra = [
         "baseDefense": 361,
         "baseHealth": 637,
         "specialId": "tricksters_mischief",
-        "passiveSkills": null
+        "passiveSkills": null,
+        "family": "jotunheim"
     },
     {
         "name": "Lord Loki Costume1",
@@ -4085,7 +4265,8 @@ window.allHeroesExtra = [
         "attackBonus": "28%",
         "defenseBonus": "28%",
         "healthBonus": "35%",
-        "manaBonus": "5%"
+        "manaBonus": "5%",
+        "family": "jotunheim"
     },
     {
         "name": "Lysanor",
@@ -4108,7 +4289,8 @@ window.allHeroesExtra = [
         "passiveSkills": [
             "heal_on_buff_alliance_quest_family",
             "mana_on_buff"
-        ]
+        ],
+        "family": "stag"
     },
     {
         "name": "Magistine",
@@ -4132,7 +4314,8 @@ window.allHeroesExtra = [
         "passiveSkills": [
             "summon_slime_minion_on_damage_blue",
             "summon_slime_minion_on_death_blue"
-        ]
+        ],
+        "family": "slime"
     },
     {
         "name": "Magni",
@@ -4150,7 +4333,8 @@ window.allHeroesExtra = [
         "baseDefense": 287,
         "baseHealth": 648,
         "specialId": "strike_of_the_ancients",
-        "passiveSkills": null
+        "passiveSkills": null,
+        "family": "classic"
     },
     {
         "name": "Magni Costume1",
@@ -4174,7 +4358,8 @@ window.allHeroesExtra = [
         "attackBonus": "13%",
         "defenseBonus": "13%",
         "healthBonus": "20%",
-        "manaBonus": "5%"
+        "manaBonus": "5%",
+        "family": "classic"
     },
     {
         "name": "Magni Costume2",
@@ -4198,7 +4383,8 @@ window.allHeroesExtra = [
         "attackBonus": "29%",
         "defenseBonus": "29%",
         "healthBonus": "44%",
-        "manaBonus": "5%"
+        "manaBonus": "5%",
+        "family": "classic"
     },
     {
         "name": "Magni Toon",
@@ -4225,7 +4411,8 @@ window.allHeroesExtra = [
         "attackBonus": "55%",
         "defenseBonus": "55%",
         "healthBonus": "70%",
-        "manaBonus": "5%"
+        "manaBonus": "5%",
+        "family": "classic"
     },
     {
         "name": "Magni Glass",
@@ -4252,7 +4439,8 @@ window.allHeroesExtra = [
         "attackBonus": "75%",
         "defenseBonus": "75%",
         "healthBonus": "78%",
-        "manaBonus": "5%"
+        "manaBonus": "5%",
+        "family": "classic"
     },
     {
         "name": "Mariol",
@@ -4273,7 +4461,8 @@ window.allHeroesExtra = [
         "specialId": "healing_mirror",
         "passiveSkills": [
             "mana_generation_modifier_all_enemies_stronger"
-        ]
+        ],
+        "family": "owl"
     },
     {
         "name": "Master Lepus",
@@ -4291,7 +4480,8 @@ window.allHeroesExtra = [
         "baseDefense": 335,
         "baseHealth": 580,
         "specialId": "reckless_finisher",
-        "passiveSkills": null
+        "passiveSkills": null,
+        "family": "easter"
     },
     {
         "name": "Master Lepus Costume1",
@@ -4315,7 +4505,8 @@ window.allHeroesExtra = [
         "attackBonus": "22%",
         "defenseBonus": "20%",
         "healthBonus": "25%",
-        "manaBonus": "5%"
+        "manaBonus": "5%",
+        "family": "easter"
     },
     {
         "name": "Matrera",
@@ -4337,7 +4528,8 @@ window.allHeroesExtra = [
         "specialId": "heretic_slayer",
         "passiveSkills": [
             "gargoyle_stone"
-        ]
+        ],
+        "family": "gargoyle"
     },
     {
         "name": "Mene",
@@ -4360,7 +4552,8 @@ window.allHeroesExtra = [
         "passiveSkills": [
             "mana_on_enemy_frost",
             "resist_burn"
-        ]
+        ],
+        "family": "hotm2024"
     },
     {
         "name": "Miki",
@@ -4381,7 +4574,8 @@ window.allHeroesExtra = [
         "specialId": "wrath_of_tundra",
         "passiveSkills": [
             "resist_special_blocking"
-        ]
+        ],
+        "family": "hotm2019"
     },
     {
         "name": "Milady de Winter",
@@ -4402,7 +4596,8 @@ window.allHeroesExtra = [
         "specialId": "masterful_manipulation",
         "passiveSkills": [
             "damage_all_enemies_on_cover_or_special_damage_received"
-        ]
+        ],
+        "family": "musketeer"
     },
     {
         "name": "Milena",
@@ -4425,7 +4620,8 @@ window.allHeroesExtra = [
         "specialId": "restoration_and_annihilation",
         "passiveSkills": [
             "magic_add_mana_on_full_charge_to_not_blue"
-        ]
+        ],
+        "family": "magic"
     },
     {
         "name": "Milena Costume1",
@@ -4456,7 +4652,8 @@ window.allHeroesExtra = [
         "attackBonus": "57%",
         "defenseBonus": "57%",
         "healthBonus": "57%",
-        "manaBonus": "1%"
+        "manaBonus": "1%",
+        "family": "magic"
     },
     {
         "name": "Miriam & Midnight",
@@ -4478,7 +4675,8 @@ window.allHeroesExtra = [
         "specialId": "litter_of_kittens",
         "passiveSkills": [
             "halloween_steal_buff_or_deal_damage"
-        ]
+        ],
+        "family": "halloween"
     },
     {
         "name": "Misandra",
@@ -4497,7 +4695,8 @@ window.allHeroesExtra = [
         "baseDefense": 365,
         "baseHealth": 646,
         "specialId": "chain_strike",
-        "passiveSkills": null
+        "passiveSkills": null,
+        "family": "lagoon"
     },
     {
         "name": "Misandra Costume1",
@@ -4522,7 +4721,8 @@ window.allHeroesExtra = [
         "attackBonus": "25%",
         "defenseBonus": "25%",
         "healthBonus": "30%",
-        "manaBonus": "5%"
+        "manaBonus": "5%",
+        "family": "lagoon"
     },
     {
         "name": "Miss Ethel",
@@ -4541,7 +4741,8 @@ window.allHeroesExtra = [
         "baseDefense": 464,
         "baseHealth": 882,
         "specialId": "mooing_for_a_fight",
-        "passiveSkills": null
+        "passiveSkills": null,
+        "family": "easter"
     },
     {
         "name": "Mistra",
@@ -4564,7 +4765,8 @@ window.allHeroesExtra = [
             "resist_attack_modifier_debuffs",
             "damage_on_enemy_special_if_enemy_faster_than_slow_mistra",
             "mana_gen_on_debuff"
-        ]
+        ],
+        "family": "champions"
     },
     {
         "name": "Misty",
@@ -4587,7 +4789,8 @@ window.allHeroesExtra = [
         "passiveSkills": [
             "resist_water",
             "underwater_on_special_beach"
-        ]
+        ],
+        "family": "beachparty"
     },
     {
         "name": "Modthryth",
@@ -4612,7 +4815,8 @@ window.allHeroesExtra = [
             "resist_buff_immunity",
             "resist_mana_reductions_with_health_boost_and_mana",
             "mana_on_buff"
-        ]
+        ],
+        "family": "beowulf"
     },
     {
         "name": "Mooncure",
@@ -4637,7 +4841,8 @@ window.allHeroesExtra = [
         "passiveSkills": [
             "share_received_damage",
             "resist_poison"
-        ]
+        ],
+        "family": "astral_elves"
     },
     {
         "name": "Morel",
@@ -4657,7 +4862,8 @@ window.allHeroesExtra = [
         "specialId": "deathly_glaive",
         "passiveSkills": [
             "increase_special_damage"
-        ]
+        ],
+        "family": "abyss"
     },
     {
         "name": "Morel Costume1",
@@ -4688,7 +4894,8 @@ window.allHeroesExtra = [
         "attackBonus": "30%",
         "defenseBonus": "30%",
         "healthBonus": "35%",
-        "manaBonus": "5%"
+        "manaBonus": "5%",
+        "family": "abyss"
     },
     {
         "name": "Mr Pengi",
@@ -4707,7 +4914,8 @@ window.allHeroesExtra = [
         "baseDefense": 379,
         "baseHealth": 682,
         "specialId": "herring_blaster",
-        "passiveSkills": null
+        "passiveSkills": null,
+        "family": "winter"
     },
     {
         "name": "Mr Pengi Costume1",
@@ -4733,7 +4941,8 @@ window.allHeroesExtra = [
         "attackBonus": "35%",
         "defenseBonus": "35%",
         "healthBonus": "35%",
-        "manaBonus": "5%"
+        "manaBonus": "5%",
+        "family": "winter"
     },
     {
         "name": "Nautica",
@@ -4757,7 +4966,8 @@ window.allHeroesExtra = [
         "passiveSkills": [
             "repair_core",
             "resist_special_blocking"
-        ]
+        ],
+        "family": "construct"
     },
     {
         "name": "Nine-Headed Beast",
@@ -4780,7 +4990,8 @@ window.allHeroesExtra = [
         "passiveSkills": [
             "heal_on_buff_with_chance",
             "mana_on_buff_with_chance"
-        ]
+        ],
+        "family": "journey"
     },
     {
         "name": "Nylora",
@@ -4800,7 +5011,8 @@ window.allHeroesExtra = [
         "specialId": "ice_and_slice",
         "passiveSkills": [
             "strong_troop_damage_modifier"
-        ]
+        ],
+        "family": "super_elemental"
     },
     {
         "name": "Odette",
@@ -4824,7 +5036,8 @@ window.allHeroesExtra = [
         "passiveSkills": [
             "heal_on_expired_or_cleared_debuff",
             "resist_defense_modifier_debuffs"
-        ]
+        ],
+        "family": "opera"
     },
     {
         "name": "Oniwakamaru",
@@ -4843,7 +5056,8 @@ window.allHeroesExtra = [
         "baseDefense": 433,
         "baseHealth": 809,
         "specialId": "standing_fortress",
-        "passiveSkills": null
+        "passiveSkills": null,
+        "family": "ninja"
     },
     {
         "name": "Otso",
@@ -4865,7 +5079,8 @@ window.allHeroesExtra = [
         "specialId": "boreal_bash",
         "passiveSkills": [
             "heal_mana_on_low_health_once"
-        ]
+        ],
+        "family": "kalevala"
     },
     {
         "name": "Passepartout",
@@ -4887,7 +5102,8 @@ window.allHeroesExtra = [
         "specialId": "helping_hands",
         "passiveSkills": [
             "increase_buff_duration"
-        ]
+        ],
+        "family": "abyss"
     },
     {
         "name": "Passepartout Costume1",
@@ -4918,7 +5134,8 @@ window.allHeroesExtra = [
         "attackBonus": "30%",
         "defenseBonus": "30%",
         "healthBonus": "35%",
-        "manaBonus": "5%"
+        "manaBonus": "5%",
+        "family": "abyss"
     },
     {
         "name": "Pepperbleu",
@@ -4943,7 +5160,8 @@ window.allHeroesExtra = [
         "specialId": "dusk_till_dawn",
         "passiveSkills": [
             "dodge_enemy_damage_special"
-        ]
+        ],
+        "family": "moths"
     },
     {
         "name": "Perseus",
@@ -4963,7 +5181,8 @@ window.allHeroesExtra = [
         "baseDefense": 339,
         "baseHealth": 664,
         "specialId": "everlasting_wound",
-        "passiveSkills": null
+        "passiveSkills": null,
+        "family": "hotm2017"
     },
     {
         "name": "Perseus Costume1",
@@ -4992,7 +5211,8 @@ window.allHeroesExtra = [
         "attackBonus": "28%",
         "defenseBonus": "26%",
         "healthBonus": "45%",
-        "manaBonus": "5%"
+        "manaBonus": "5%",
+        "family": "hotm2017"
     },
     {
         "name": "Pophit",
@@ -5014,7 +5234,8 @@ window.allHeroesExtra = [
         "specialId": "one_hit_wonder",
         "passiveSkills": [
             "gargoyle_soft_skin"
-        ]
+        ],
+        "family": "gargoyle"
     },
     {
         "name": "Porthos",
@@ -5038,7 +5259,8 @@ window.allHeroesExtra = [
         "specialId": "musketeers_mead",
         "passiveSkills": [
             "damage_all_enemies_on_cover_or_special_damage_received"
-        ]
+        ],
+        "family": "musketeer"
     },
     {
         "name": "Quari",
@@ -5063,7 +5285,8 @@ window.allHeroesExtra = [
             "never_miss_special",
             "resist_negative_minion_and_mega_minion_effects",
             "bypass_minions_and_mega_minions"
-        ]
+        ],
+        "family": "astral_dwarfs"
     },
     {
         "name": "Quinn",
@@ -5086,7 +5309,8 @@ window.allHeroesExtra = [
         "specialId": "pineapple_barbeque",
         "passiveSkills": [
             "strong_troop_damage_modifier"
-        ]
+        ],
+        "family": "super_elemental"
     },
     {
         "name": "Quintin",
@@ -5105,7 +5329,8 @@ window.allHeroesExtra = [
         "baseDefense": 372,
         "baseHealth": 678,
         "specialId": "echoes_of_pain",
-        "passiveSkills": null
+        "passiveSkills": null,
+        "family": "raven"
     },
     {
         "name": "Raffaele",
@@ -5127,7 +5352,8 @@ window.allHeroesExtra = [
         "specialId": "ice_treatment",
         "passiveSkills": [
             "resist_attack_modifier_debuffs"
-        ]
+        ],
+        "family": "hotm2020"
     },
     {
         "name": "Rian",
@@ -5152,7 +5378,8 @@ window.allHeroesExtra = [
         "specialId": "cleansing_determination",
         "passiveSkills": [
             "resist_status_effect_damage"
-        ]
+        ],
+        "family": "slayers"
     },
     {
         "name": "Richard",
@@ -5170,7 +5397,8 @@ window.allHeroesExtra = [
         "baseDefense": 397,
         "baseHealth": 612,
         "specialId": "cloud_hammer",
-        "passiveSkills": null
+        "passiveSkills": null,
+        "family": "classic"
     },
     {
         "name": "Richard Costume1",
@@ -5194,7 +5422,8 @@ window.allHeroesExtra = [
         "attackBonus": "13%",
         "defenseBonus": "13%",
         "healthBonus": "20%",
-        "manaBonus": "5%"
+        "manaBonus": "5%",
+        "family": "classic"
     },
     {
         "name": "Richard Costume2",
@@ -5219,7 +5448,8 @@ window.allHeroesExtra = [
         "attackBonus": "29%",
         "defenseBonus": "29%",
         "healthBonus": "44%",
-        "manaBonus": "5%"
+        "manaBonus": "5%",
+        "family": "classic"
     },
     {
         "name": "Richard Toon",
@@ -5246,7 +5476,8 @@ window.allHeroesExtra = [
         "attackBonus": "55%",
         "defenseBonus": "55%",
         "healthBonus": "70%",
-        "manaBonus": "5%"
+        "manaBonus": "5%",
+        "family": "classic"
     },
     {
         "name": "Richard Glass",
@@ -5273,7 +5504,8 @@ window.allHeroesExtra = [
         "attackBonus": "75%",
         "defenseBonus": "75%",
         "healthBonus": "78%",
-        "manaBonus": "5%"
+        "manaBonus": "5%",
+        "family": "classic"
     },
     {
         "name": "Rumpelstiltskin",
@@ -5295,7 +5527,8 @@ window.allHeroesExtra = [
         "baseDefense": 339,
         "baseHealth": 660,
         "specialId": "legerdemain",
-        "passiveSkills": null
+        "passiveSkills": null,
+        "family": "fable"
     },
     {
         "name": "Rumpelstiltskin Costume1",
@@ -5325,7 +5558,8 @@ window.allHeroesExtra = [
         "attackBonus": "27%",
         "defenseBonus": "25%",
         "healthBonus": "40%",
-        "manaBonus": "5%"
+        "manaBonus": "5%",
+        "family": "fable"
     },
     {
         "name": "Russula",
@@ -5348,7 +5582,8 @@ window.allHeroesExtra = [
         "specialId": "vengeful_backstab",
         "passiveSkills": [
             "decrease_debuff_duration"
-        ]
+        ],
+        "family": "abyss"
     },
     {
         "name": "Russula Costume1",
@@ -5381,7 +5616,8 @@ window.allHeroesExtra = [
         "attackBonus": "30%",
         "defenseBonus": "30%",
         "healthBonus": "35%",
-        "manaBonus": "5%"
+        "manaBonus": "5%",
+        "family": "abyss"
     },
     {
         "name": "Sable",
@@ -5406,7 +5642,8 @@ window.allHeroesExtra = [
         "specialId": "ill_bring_you_back",
         "passiveSkills": [
             "reduced_healing_for_all_enemies"
-        ]
+        ],
+        "family": "fox"
     },
     {
         "name": "Satori",
@@ -5430,7 +5667,8 @@ window.allHeroesExtra = [
             "mana_on_dispel_buff_satori",
             "health_boost_on_dispel",
             "mana_gen_on_debuff"
-        ]
+        ],
+        "family": "champions"
     },
     {
         "name": "Sawano",
@@ -5452,7 +5690,8 @@ window.allHeroesExtra = [
         "specialId": "purifying_ki",
         "passiveSkills": [
             "reduce_minion_health"
-        ]
+        ],
+        "family": "ninja"
     },
     {
         "name": "Sigyn",
@@ -5475,7 +5714,8 @@ window.allHeroesExtra = [
         "passiveSkills": [
             "hunters_mark_on_special",
             "special_damage_reduction_monster_hunters"
-        ]
+        ],
+        "family": "plains_hunter"
     },
     {
         "name": "Sini",
@@ -5500,7 +5740,8 @@ window.allHeroesExtra = [
         "passiveSkills": [
             "attack_buff_on_mana_reduction",
             "resist_special_blocking"
-        ]
+        ],
+        "family": "hotm2024"
     },
     {
         "name": "Siofra",
@@ -5522,7 +5763,8 @@ window.allHeroesExtra = [
         "specialId": "gilded_antlers",
         "passiveSkills": [
             "heal_on_buff_alliance_quest_family"
-        ]
+        ],
+        "family": "stag"
     },
     {
         "name": "Skadi",
@@ -5543,7 +5785,8 @@ window.allHeroesExtra = [
         "baseDefense": 385,
         "baseHealth": 685,
         "specialId": "iceberg_crush",
-        "passiveSkills": null
+        "passiveSkills": null,
+        "family": "jotunheim"
     },
     {
         "name": "Skadi Costume1",
@@ -5570,7 +5813,8 @@ window.allHeroesExtra = [
         "attackBonus": "28%",
         "defenseBonus": "28%",
         "healthBonus": "35%",
-        "manaBonus": "5%"
+        "manaBonus": "5%",
+        "family": "jotunheim"
     },
     {
         "name": "Skarn",
@@ -5595,7 +5839,8 @@ window.allHeroesExtra = [
         "passiveSkills": [
             "corrosive_core",
             "resist_special_blocking"
-        ]
+        ],
+        "family": "construct"
     },
     {
         "name": "Slimgo",
@@ -5617,7 +5862,8 @@ window.allHeroesExtra = [
         "passiveSkills": [
             "summon_slime_minion_on_damage_blue",
             "summon_slime_minion_on_death_blue"
-        ]
+        ],
+        "family": "slime"
     },
     {
         "name": "Snow White",
@@ -5638,7 +5884,8 @@ window.allHeroesExtra = [
         "baseDefense": 363,
         "baseHealth": 631,
         "specialId": "enchanted_edge",
-        "passiveSkills": null
+        "passiveSkills": null,
+        "family": "fable"
     },
     {
         "name": "Snow White Costume1",
@@ -5665,7 +5912,8 @@ window.allHeroesExtra = [
         "attackBonus": "27%",
         "defenseBonus": "25%",
         "healthBonus": "40%",
-        "manaBonus": "5%"
+        "manaBonus": "5%",
+        "family": "fable"
     },
     {
         "name": "Sobek",
@@ -5685,7 +5933,8 @@ window.allHeroesExtra = [
         "specialId": "jaws_of_the_river",
         "passiveSkills": [
             "sun_extra_special_damage_and_dot"
-        ]
+        ],
+        "family": "sun"
     },
     {
         "name": "Sobek Costume1",
@@ -5714,7 +5963,8 @@ window.allHeroesExtra = [
         "attackBonus": "45%",
         "defenseBonus": "45%",
         "healthBonus": "50%",
-        "manaBonus": "5%"
+        "manaBonus": "5%",
+        "family": "sun"
     },
     {
         "name": "Song Jiang",
@@ -5739,7 +5989,8 @@ window.allHeroesExtra = [
             "resist_bleed",
             "righteous_rebellion_parent",
             "cleanse_on_special_critical_damage_all_safe"
-        ]
+        ],
+        "family": "outlaw"
     },
     {
         "name": "Sorrow",
@@ -5763,7 +6014,8 @@ window.allHeroesExtra = [
         "passiveSkills": [
             "hunters_mark_on_special",
             "monster_hunter_reallocate_debuff_or_heal"
-        ]
+        ],
+        "family": "abyss_hunter"
     },
     {
         "name": "Starwalker",
@@ -5787,7 +6039,8 @@ window.allHeroesExtra = [
         "passiveSkills": [
             "share_received_damage",
             "resist_poison"
-        ]
+        ],
+        "family": "astral_elves"
     },
     {
         "name": "Suzuna",
@@ -5810,7 +6063,8 @@ window.allHeroesExtra = [
         "passiveSkills": [
             "resist_parasites",
             "resist_heal_multiplier_debuffs"
-        ]
+        ],
+        "family": "hotm2023"
     },
     {
         "name": "Tealmoine",
@@ -5833,7 +6087,8 @@ window.allHeroesExtra = [
         "specialId": "bizarre_mist",
         "passiveSkills": [
             "dodge_enemy_damage_special"
-        ]
+        ],
+        "family": "moths"
     },
     {
         "name": "Tethys",
@@ -5852,7 +6107,8 @@ window.allHeroesExtra = [
         "baseDefense": 374,
         "baseHealth": 713,
         "specialId": "amphibious_assault",
-        "passiveSkills": null
+        "passiveSkills": null,
+        "family": "atlantis"
     },
     {
         "name": "Thalassa",
@@ -5873,7 +6129,8 @@ window.allHeroesExtra = [
         "specialId": "oceans_embrace",
         "passiveSkills": [
             "tales1_extra_special_damage_and_add_critical"
-        ]
+        ],
+        "family": "tales1_goodies"
     },
     {
         "name": "Thalassa Costume1",
@@ -5902,7 +6159,8 @@ window.allHeroesExtra = [
         "attackBonus": "28%",
         "defenseBonus": "28%",
         "healthBonus": "28%",
-        "manaBonus": "5%"
+        "manaBonus": "5%",
+        "family": "tales1_goodies"
     },
     {
         "name": "Thanatos",
@@ -5925,7 +6183,8 @@ window.allHeroesExtra = [
         "passiveSkills": [
             "resist_all_defense_debuffs",
             "reduce_minion_health"
-        ]
+        ],
+        "family": "styx"
     },
     {
         "name": "Theobald",
@@ -5945,7 +6204,8 @@ window.allHeroesExtra = [
         "baseDefense": 390,
         "baseHealth": 682,
         "specialId": "multi_throw",
-        "passiveSkills": null
+        "passiveSkills": null,
+        "family": "circus"
     },
     {
         "name": "Thorne",
@@ -5962,7 +6222,8 @@ window.allHeroesExtra = [
         "baseDefense": 385,
         "baseHealth": 650,
         "specialId": "icecold_finisher",
-        "passiveSkills": null
+        "passiveSkills": null,
+        "family": "classic"
     },
     {
         "name": "Thorne Costume1",
@@ -5986,7 +6247,8 @@ window.allHeroesExtra = [
         "attackBonus": "13%",
         "defenseBonus": "13%",
         "healthBonus": "20%",
-        "manaBonus": "5%"
+        "manaBonus": "5%",
+        "family": "classic"
     },
     {
         "name": "Thorne Costume2",
@@ -6011,7 +6273,8 @@ window.allHeroesExtra = [
         "attackBonus": "29%",
         "defenseBonus": "29%",
         "healthBonus": "44%",
-        "manaBonus": "5%"
+        "manaBonus": "5%",
+        "family": "classic"
     },
     {
         "name": "Thorne Toon",
@@ -6037,7 +6300,8 @@ window.allHeroesExtra = [
         "attackBonus": "55%",
         "defenseBonus": "55%",
         "healthBonus": "70%",
-        "manaBonus": "5%"
+        "manaBonus": "5%",
+        "family": "classic"
     },
     {
         "name": "Timius",
@@ -6061,7 +6325,8 @@ window.allHeroesExtra = [
         "specialId": "for_queen_and_hollow",
         "passiveSkills": [
             "mana_generation_modifier_all_enemies_stronger"
-        ]
+        ],
+        "family": "owl"
     },
     {
         "name": "Tinsel",
@@ -6081,7 +6346,8 @@ window.allHeroesExtra = [
         "baseDefense": 392,
         "baseHealth": 701,
         "specialId": "malevolent_toys",
-        "passiveSkills": null
+        "passiveSkills": null,
+        "family": "winter"
     },
     {
         "name": "Tremor",
@@ -6105,7 +6371,8 @@ window.allHeroesExtra = [
         "passiveSkills": [
             "hunters_mark_on_special",
             "attack_modifier_on_special"
-        ]
+        ],
+        "family": "jungle_hunter"
     },
     {
         "name": "Ulius",
@@ -6129,7 +6396,8 @@ window.allHeroesExtra = [
         "passiveSkills": [
             "magic_mana_regen_stack_on_special",
             "magic_damage_on_full_charge_to_not_red"
-        ]
+        ],
+        "family": "magic"
     },
     {
         "name": "Vela",
@@ -6152,7 +6420,8 @@ window.allHeroesExtra = [
         "specialId": "aquatic_outbreak",
         "passiveSkills": [
             "resist_negative_minion_effects"
-        ]
+        ],
+        "family": "hotm2020"
     },
     {
         "name": "Verity",
@@ -6176,7 +6445,8 @@ window.allHeroesExtra = [
             "resist_negative_attack_modifiers_including_wither",
             "resist_insanity",
             "minion_and_mega_minion_accuracy_modifier"
-        ]
+        ],
+        "family": "faun"
     },
     {
         "name": "Vincent",
@@ -6199,7 +6469,8 @@ window.allHeroesExtra = [
         "specialId": "cold_fire",
         "passiveSkills": [
             "gargoyle_soft_skin"
-        ]
+        ],
+        "family": "gargoyle"
     },
     {
         "name": "Waterpipe",
@@ -6223,7 +6494,8 @@ window.allHeroesExtra = [
         "passiveSkills": [
             "hunters_mark_on_special",
             "special_damage_reduction_monster_hunters"
-        ]
+        ],
+        "family": "plains_hunter"
     },
     {
         "name": "Whitefang",
@@ -6245,7 +6517,8 @@ window.allHeroesExtra = [
         "specialId": "never_ending_winter",
         "passiveSkills": [
             "reduced_healing_for_all_enemies"
-        ]
+        ],
+        "family": "fox"
     },
     {
         "name": "Zappa",
@@ -6264,7 +6537,8 @@ window.allHeroesExtra = [
         "baseDefense": 446,
         "baseHealth": 770,
         "specialId": "blue_shroom_wand",
-        "passiveSkills": null
+        "passiveSkills": null,
+        "family": "winter"
     },
     {
         "name": "Zengar",
@@ -6285,7 +6559,8 @@ window.allHeroesExtra = [
         "specialId": "great_frost_axe",
         "passiveSkills": [
             "strong_troop_damage_modifier"
-        ]
+        ],
+        "family": "super_elemental"
     },
     {
         "name": "Zircon",
@@ -6305,7 +6580,8 @@ window.allHeroesExtra = [
         "baseDefense": 408,
         "baseHealth": 697,
         "specialId": "wall_of_ki",
-        "passiveSkills": null
+        "passiveSkills": null,
+        "family": "ninja"
     },
     {
         "name": "Aife",
@@ -6322,7 +6598,8 @@ window.allHeroesExtra = [
         "baseDefense": 147,
         "baseHealth": 289,
         "specialId": "hacking_attack",
-        "passiveSkills": null
+        "passiveSkills": null,
+        "family": "classic"
     },
     {
         "name": "Derric",
@@ -6339,7 +6616,8 @@ window.allHeroesExtra = [
         "baseDefense": 158,
         "baseHealth": 305,
         "specialId": "axe_throw",
-        "passiveSkills": null
+        "passiveSkills": null,
+        "family": "classic"
     },
     {
         "name": "Brogan",
@@ -6356,7 +6634,8 @@ window.allHeroesExtra = [
         "baseDefense": 206,
         "baseHealth": 400,
         "specialId": "tackle",
-        "passiveSkills": null
+        "passiveSkills": null,
+        "family": "classic"
     },
     {
         "name": "Jenneh",
@@ -6373,7 +6652,8 @@ window.allHeroesExtra = [
         "baseDefense": 197,
         "baseHealth": 365,
         "specialId": "mark_of_ivy",
-        "passiveSkills": null
+        "passiveSkills": null,
+        "family": "classic"
     },
     {
         "name": "Needler",
@@ -6390,7 +6670,8 @@ window.allHeroesExtra = [
         "baseDefense": 191,
         "baseHealth": 327,
         "specialId": "focused_shot",
-        "passiveSkills": null
+        "passiveSkills": null,
+        "family": "classic"
     },
     {
         "name": "Alessia",
@@ -6410,7 +6691,8 @@ window.allHeroesExtra = [
         "specialId": "bewitched_daggers",
         "passiveSkills": [
             "cleanse_on_own_familiar_death"
-        ]
+        ],
+        "family": "masquerade"
     },
     {
         "name": "Belith",
@@ -6428,7 +6710,8 @@ window.allHeroesExtra = [
         "baseDefense": 259,
         "baseHealth": 420,
         "specialId": "calming_mist",
-        "passiveSkills": null
+        "passiveSkills": null,
+        "family": "classic"
     },
     {
         "name": "Belith Costume1",
@@ -6452,7 +6735,8 @@ window.allHeroesExtra = [
         "attackBonus": "7%",
         "defenseBonus": "7%",
         "healthBonus": "10%",
-        "manaBonus": "5%"
+        "manaBonus": "5%",
+        "family": "classic"
     },
     {
         "name": "Belith Toon",
@@ -6479,7 +6763,8 @@ window.allHeroesExtra = [
         "attackBonus": "15%",
         "defenseBonus": "15%",
         "healthBonus": "20%",
-        "manaBonus": "5%"
+        "manaBonus": "5%",
+        "family": "classic"
     },
     {
         "name": "Belith Glass",
@@ -6506,7 +6791,8 @@ window.allHeroesExtra = [
         "attackBonus": "17%",
         "defenseBonus": "17%",
         "healthBonus": "22%",
-        "manaBonus": "5%"
+        "manaBonus": "5%",
+        "family": "classic"
     },
     {
         "name": "Berden",
@@ -6524,7 +6810,8 @@ window.allHeroesExtra = [
         "baseDefense": 245,
         "baseHealth": 396,
         "specialId": "entangling_shot",
-        "passiveSkills": null
+        "passiveSkills": null,
+        "family": "classic"
     },
     {
         "name": "Berden Costume1",
@@ -6548,7 +6835,8 @@ window.allHeroesExtra = [
         "attackBonus": "7%",
         "defenseBonus": "7%",
         "healthBonus": "10%",
-        "manaBonus": "5%"
+        "manaBonus": "5%",
+        "family": "classic"
     },
     {
         "name": "Berden Toon",
@@ -6575,7 +6863,8 @@ window.allHeroesExtra = [
         "attackBonus": "15%",
         "defenseBonus": "15%",
         "healthBonus": "20%",
-        "manaBonus": "5%"
+        "manaBonus": "5%",
+        "family": "classic"
     },
     {
         "name": "Berden Glass",
@@ -6602,7 +6891,8 @@ window.allHeroesExtra = [
         "attackBonus": "17%",
         "defenseBonus": "17%",
         "healthBonus": "22%",
-        "manaBonus": "5%"
+        "manaBonus": "5%",
+        "family": "classic"
     },
     {
         "name": "Brienne",
@@ -6619,7 +6909,8 @@ window.allHeroesExtra = [
         "baseDefense": 258,
         "baseHealth": 388,
         "specialId": "natures_blessing",
-        "passiveSkills": null
+        "passiveSkills": null,
+        "family": "classic"
     },
     {
         "name": "Brienne Costume1",
@@ -6642,7 +6933,8 @@ window.allHeroesExtra = [
         "attackBonus": "7%",
         "defenseBonus": "7%",
         "healthBonus": "10%",
-        "manaBonus": "5%"
+        "manaBonus": "5%",
+        "family": "classic"
     },
     {
         "name": "Brienne Toon",
@@ -6667,7 +6959,8 @@ window.allHeroesExtra = [
         "attackBonus": "15%",
         "defenseBonus": "15%",
         "healthBonus": "20%",
-        "manaBonus": "5%"
+        "manaBonus": "5%",
+        "family": "classic"
     },
     {
         "name": "Brienne Glass",
@@ -6693,7 +6986,8 @@ window.allHeroesExtra = [
         "attackBonus": "17%",
         "defenseBonus": "17%",
         "healthBonus": "22%",
-        "manaBonus": "5%"
+        "manaBonus": "5%",
+        "family": "classic"
     },
     {
         "name": "By-Ulf",
@@ -6713,7 +7007,8 @@ window.allHeroesExtra = [
         "baseDefense": 257,
         "baseHealth": 498,
         "specialId": "hollow_boast",
-        "passiveSkills": null
+        "passiveSkills": null,
+        "family": "niflheim"
     },
     {
         "name": "Carver",
@@ -6731,7 +7026,8 @@ window.allHeroesExtra = [
         "baseDefense": 258,
         "baseHealth": 376,
         "specialId": "slash_of_four_blades",
-        "passiveSkills": null
+        "passiveSkills": null,
+        "family": "classic"
     },
     {
         "name": "Carver Costume1",
@@ -6755,7 +7051,8 @@ window.allHeroesExtra = [
         "attackBonus": "7%",
         "defenseBonus": "7%",
         "healthBonus": "10%",
-        "manaBonus": "5%"
+        "manaBonus": "5%",
+        "family": "classic"
     },
     {
         "name": "Carver Toon",
@@ -6782,7 +7079,8 @@ window.allHeroesExtra = [
         "attackBonus": "15%",
         "defenseBonus": "15%",
         "healthBonus": "20%",
-        "manaBonus": "5%"
+        "manaBonus": "5%",
+        "family": "classic"
     },
     {
         "name": "Chires",
@@ -6805,7 +7103,8 @@ window.allHeroesExtra = [
             "eat_fiends_on_special_cast",
             "resist_negative_minion_and_mega_minion_effects",
             "bypass_minions_and_mega_minions"
-        ]
+        ],
+        "family": "astral_dwarfs"
     },
     {
         "name": "Dolgoon",
@@ -6827,7 +7126,8 @@ window.allHeroesExtra = [
         "specialId": "voluminous_vigor",
         "passiveSkills": [
             "magic_mana_regen_debuff_on_special"
-        ]
+        ],
+        "family": "magic"
     },
     {
         "name": "Faiez",
@@ -6848,7 +7148,8 @@ window.allHeroesExtra = [
         "specialId": "plentiful_harvest",
         "passiveSkills": [
             "sun_extra_special_heal_and_cleanse_latest_debuff"
-        ]
+        ],
+        "family": "sun"
     },
     {
         "name": "Faiez Costume1",
@@ -6879,7 +7180,8 @@ window.allHeroesExtra = [
         "attackBonus": "2%",
         "defenseBonus": "2%",
         "healthBonus": "4%",
-        "manaBonus": "1%"
+        "manaBonus": "1%",
+        "family": "sun"
     },
     {
         "name": "Featherino",
@@ -6900,7 +7202,8 @@ window.allHeroesExtra = [
         "specialId": "jack_of_owl_trades",
         "passiveSkills": [
             "mana_generation_modifier_all_enemies_stronger"
-        ]
+        ],
+        "family": "owl"
     },
     {
         "name": "Fianna",
@@ -6922,7 +7225,8 @@ window.allHeroesExtra = [
         "passiveSkills": [
             "hunters_mark_on_special",
             "special_damage_reduction_monster_hunters"
-        ]
+        ],
+        "family": "plains_hunter"
     },
     {
         "name": "Friar Tuck",
@@ -6940,7 +7244,8 @@ window.allHeroesExtra = [
         "baseDefense": 259,
         "baseHealth": 392,
         "specialId": "have_faith",
-        "passiveSkills": null
+        "passiveSkills": null,
+        "family": "classic"
     },
     {
         "name": "Friar Tuck Costume1",
@@ -6964,7 +7269,8 @@ window.allHeroesExtra = [
         "attackBonus": "7%",
         "defenseBonus": "7%",
         "healthBonus": "10%",
-        "manaBonus": "5%"
+        "manaBonus": "5%",
+        "family": "classic"
     },
     {
         "name": "Friar Tuck Toon",
@@ -6990,7 +7296,8 @@ window.allHeroesExtra = [
         "attackBonus": "15%",
         "defenseBonus": "15%",
         "healthBonus": "20%",
-        "manaBonus": "5%"
+        "manaBonus": "5%",
+        "family": "classic"
     },
     {
         "name": "Friar Tuck Glass",
@@ -7017,7 +7324,8 @@ window.allHeroesExtra = [
         "attackBonus": "17%",
         "defenseBonus": "17%",
         "healthBonus": "22%",
-        "manaBonus": "5%"
+        "manaBonus": "5%",
+        "family": "classic"
     },
     {
         "name": "General Yin",
@@ -7036,7 +7344,8 @@ window.allHeroesExtra = [
         "baseDefense": 292,
         "baseHealth": 403,
         "specialId": "enchanted_axe_swing",
-        "passiveSkills": null
+        "passiveSkills": null,
+        "family": "journey"
     },
     {
         "name": "Gnomer",
@@ -7054,7 +7363,8 @@ window.allHeroesExtra = [
         "baseDefense": 260,
         "baseHealth": 486,
         "specialId": "sharp_knife",
-        "passiveSkills": null
+        "passiveSkills": null,
+        "family": "fable"
     },
     {
         "name": "Goopy",
@@ -7075,7 +7385,8 @@ window.allHeroesExtra = [
         "specialId": "sugar_rush",
         "passiveSkills": [
             "halloween_steal_buff_or_deal_damage"
-        ]
+        ],
+        "family": "halloween"
     },
     {
         "name": "Gramps",
@@ -7095,7 +7406,8 @@ window.allHeroesExtra = [
         "specialId": "elders_remedy",
         "passiveSkills": [
             "special_damage_reduction"
-        ]
+        ],
+        "family": "abyss"
     },
     {
         "name": "Gramps Costume1",
@@ -7121,7 +7433,8 @@ window.allHeroesExtra = [
         "attackBonus": "2%",
         "defenseBonus": "2%",
         "healthBonus": "4%",
-        "manaBonus": "1%"
+        "manaBonus": "1%",
+        "family": "abyss"
     },
     {
         "name": "Grevle",
@@ -7140,7 +7453,8 @@ window.allHeroesExtra = [
         "baseDefense": 353,
         "baseHealth": 359,
         "specialId": "travelers_snack",
-        "passiveSkills": null
+        "passiveSkills": null,
+        "family": "alfheim"
     },
     {
         "name": "Hisan",
@@ -7161,7 +7475,8 @@ window.allHeroesExtra = [
         "baseDefense": 225,
         "baseHealth": 350,
         "specialId": "horses_curse",
-        "passiveSkills": null
+        "passiveSkills": null,
+        "family": "sand"
     },
     {
         "name": "Isshtak",
@@ -7178,7 +7493,8 @@ window.allHeroesExtra = [
         "baseDefense": 240,
         "baseHealth": 440,
         "specialId": "ramming_rush",
-        "passiveSkills": null
+        "passiveSkills": null,
+        "family": "classic"
     },
     {
         "name": "Isshtak Costume1",
@@ -7202,7 +7518,8 @@ window.allHeroesExtra = [
         "attackBonus": "7%",
         "defenseBonus": "7%",
         "healthBonus": "10%",
-        "manaBonus": "5%"
+        "manaBonus": "5%",
+        "family": "classic"
     },
     {
         "name": "Isshtak Toon",
@@ -7228,7 +7545,8 @@ window.allHeroesExtra = [
         "attackBonus": "15%",
         "defenseBonus": "15%",
         "healthBonus": "20%",
-        "manaBonus": "5%"
+        "manaBonus": "5%",
+        "family": "classic"
     },
     {
         "name": "Jing",
@@ -7247,7 +7565,8 @@ window.allHeroesExtra = [
         "baseDefense": 279,
         "baseHealth": 441,
         "specialId": "spear_of_shu",
-        "passiveSkills": null
+        "passiveSkills": null,
+        "family": "kingdom"
     },
     {
         "name": "Mnesseus",
@@ -7265,7 +7584,8 @@ window.allHeroesExtra = [
         "baseDefense": 248,
         "baseHealth": 398,
         "specialId": "frightening_pinch",
-        "passiveSkills": null
+        "passiveSkills": null,
+        "family": "atlantis"
     },
     {
         "name": "Mnesseus Costume1",
@@ -7289,7 +7609,8 @@ window.allHeroesExtra = [
         "attackBonus": "3%",
         "defenseBonus": "3%",
         "healthBonus": "6%",
-        "manaBonus": "5%"
+        "manaBonus": "5%",
+        "family": "atlantis"
     },
     {
         "name": "Muggy",
@@ -7306,7 +7627,8 @@ window.allHeroesExtra = [
         "baseDefense": 215,
         "baseHealth": 242,
         "specialId": "bruiser_bros",
-        "passiveSkills": null
+        "passiveSkills": null,
+        "family": "lagoon"
     },
     {
         "name": "Noril",
@@ -7331,7 +7653,8 @@ window.allHeroesExtra = [
         "specialId": "dual_axes",
         "passiveSkills": [
             "resist_status_effect_damage"
-        ]
+        ],
+        "family": "slayers"
     },
     {
         "name": "Roxia",
@@ -7357,7 +7680,8 @@ window.allHeroesExtra = [
         "passiveSkills": [
             "magic_mana_regen_stack_on_special",
             "magic_add_mana_on_full_charge_to_not_blue"
-        ]
+        ],
+        "family": "magic"
     },
     {
         "name": "Shrubbear",
@@ -7375,7 +7699,8 @@ window.allHeroesExtra = [
         "baseDefense": 295,
         "baseHealth": 511,
         "specialId": "camouflage_foliage",
-        "passiveSkills": null
+        "passiveSkills": null,
+        "family": "wonderland"
     },
     {
         "name": "Whacker",
@@ -7393,7 +7718,8 @@ window.allHeroesExtra = [
         "baseDefense": 234,
         "baseHealth": 430,
         "specialId": "nasty_hammer",
-        "passiveSkills": null
+        "passiveSkills": null,
+        "family": "circus"
     },
     {
         "name": "William",
@@ -7415,7 +7741,8 @@ window.allHeroesExtra = [
         "passiveSkills": [
             "remove_wither_from_allies",
             "resist_direct_mana_reductions"
-        ]
+        ],
+        "family": "garrison"
     },
     {
         "name": "Yona",
@@ -7437,7 +7764,8 @@ window.allHeroesExtra = [
         "specialId": "paws_or_claws",
         "passiveSkills": [
             "heal_on_buff_alliance_quest_family"
-        ]
+        ],
+        "family": "bear"
     },
     {
         "name": "Zarel",
@@ -7458,7 +7786,8 @@ window.allHeroesExtra = [
         "specialId": "tambourine_solo",
         "passiveSkills": [
             "defense_modifier_reduction_all_allies"
-        ]
+        ],
+        "family": "bard"
     },
     {
         "name": "Zarola",
@@ -7478,7 +7807,8 @@ window.allHeroesExtra = [
         "specialId": "punishing_shot",
         "passiveSkills": [
             "resist_special_blocking"
-        ]
+        ],
+        "family": "cupid"
     },
     {
         "name": "Alfie",
@@ -7500,7 +7830,8 @@ window.allHeroesExtra = [
         "specialId": "enchanted_symphony",
         "passiveSkills": [
             "strong_troop_damage_modifier"
-        ]
+        ],
+        "family": "super_elemental"
     },
     {
         "name": "Almur",
@@ -7519,7 +7850,8 @@ window.allHeroesExtra = [
         "baseDefense": 305,
         "baseHealth": 594,
         "specialId": "shadow_sweep",
-        "passiveSkills": null
+        "passiveSkills": null,
+        "family": "svartalfheim"
     },
     {
         "name": "Almur Costume1",
@@ -7544,7 +7876,8 @@ window.allHeroesExtra = [
         "attackBonus": "3%",
         "defenseBonus": "3%",
         "healthBonus": "6%",
-        "manaBonus": "1%"
+        "manaBonus": "1%",
+        "family": "svartalfheim"
     },
     {
         "name": "Anton",
@@ -7568,7 +7901,8 @@ window.allHeroesExtra = [
         "specialId": "high_noon_sun",
         "passiveSkills": [
             "magic_heal_on_full_charge_to_not_green"
-        ]
+        ],
+        "family": "magic"
     },
     {
         "name": "Brontes",
@@ -7591,7 +7925,8 @@ window.allHeroesExtra = [
         "passiveSkills": [
             "resist_all_defense_debuffs",
             "reduce_minion_health"
-        ]
+        ],
+        "family": "styx"
     },
     {
         "name": "Brynhild",
@@ -7611,7 +7946,8 @@ window.allHeroesExtra = [
         "baseDefense": 287,
         "baseHealth": 557,
         "specialId": "valkyrie_defense",
-        "passiveSkills": null
+        "passiveSkills": null,
+        "family": "midgard"
     },
     {
         "name": "Buddy",
@@ -7631,7 +7967,8 @@ window.allHeroesExtra = [
         "baseDefense": 325,
         "baseHealth": 623,
         "specialId": "giftsack",
-        "passiveSkills": null
+        "passiveSkills": null,
+        "family": "winter"
     },
     {
         "name": "Caedmon",
@@ -7649,7 +7986,8 @@ window.allHeroesExtra = [
         "baseDefense": 300,
         "baseHealth": 531,
         "specialId": "piercing_strike",
-        "passiveSkills": null
+        "passiveSkills": null,
+        "family": "classic"
     },
     {
         "name": "Caedmon Costume1",
@@ -7673,7 +8011,8 @@ window.allHeroesExtra = [
         "attackBonus": "7%",
         "defenseBonus": "7%",
         "healthBonus": "11%",
-        "manaBonus": "5%"
+        "manaBonus": "5%",
+        "family": "classic"
     },
     {
         "name": "Caedmon Costume2",
@@ -7698,7 +8037,8 @@ window.allHeroesExtra = [
         "attackBonus": "15%",
         "defenseBonus": "15%",
         "healthBonus": "20%",
-        "manaBonus": "5%"
+        "manaBonus": "5%",
+        "family": "classic"
     },
     {
         "name": "Caedmon Toon",
@@ -7725,7 +8065,8 @@ window.allHeroesExtra = [
         "attackBonus": "17%",
         "defenseBonus": "17%",
         "healthBonus": "22%",
-        "manaBonus": "5%"
+        "manaBonus": "5%",
+        "family": "classic"
     },
     {
         "name": "Caedmon Glass",
@@ -7753,7 +8094,8 @@ window.allHeroesExtra = [
         "attackBonus": "19%",
         "defenseBonus": "19%",
         "healthBonus": "24%",
-        "manaBonus": "5%"
+        "manaBonus": "5%",
+        "family": "classic"
     },
     {
         "name": "Franz",
@@ -7772,7 +8114,8 @@ window.allHeroesExtra = [
         "baseDefense": 321,
         "baseHealth": 715,
         "specialId": "sonorous_spear",
-        "passiveSkills": null
+        "passiveSkills": null,
+        "family": "raven"
     },
     {
         "name": "Gadeirus",
@@ -7791,7 +8134,8 @@ window.allHeroesExtra = [
         "baseDefense": 325,
         "baseHealth": 516,
         "specialId": "empowering_bash",
-        "passiveSkills": null
+        "passiveSkills": null,
+        "family": "atlantis"
     },
     {
         "name": "Gadeirus Costume1",
@@ -7817,7 +8161,8 @@ window.allHeroesExtra = [
         "attackBonus": "3%",
         "defenseBonus": "3%",
         "healthBonus": "6%",
-        "manaBonus": "5%"
+        "manaBonus": "5%",
+        "family": "atlantis"
     },
     {
         "name": "Gobbler",
@@ -7836,7 +8181,8 @@ window.allHeroesExtra = [
         "baseDefense": 289,
         "baseHealth": 572,
         "specialId": "familiar_eater",
-        "passiveSkills": null
+        "passiveSkills": null,
+        "family": "lagoon"
     },
     {
         "name": "Gobbler Costume1",
@@ -7861,7 +8207,8 @@ window.allHeroesExtra = [
         "attackBonus": "3%",
         "defenseBonus": "3%",
         "healthBonus": "6%",
-        "manaBonus": "5%"
+        "manaBonus": "5%",
+        "family": "lagoon"
     },
     {
         "name": "Hansel",
@@ -7880,7 +8227,8 @@ window.allHeroesExtra = [
         "baseDefense": 283,
         "baseHealth": 501,
         "specialId": "witch_killer",
-        "passiveSkills": null
+        "passiveSkills": null,
+        "family": "fable"
     },
     {
         "name": "Hansel Costume1",
@@ -7905,7 +8253,8 @@ window.allHeroesExtra = [
         "attackBonus": "5%",
         "defenseBonus": "5%",
         "healthBonus": "10%",
-        "manaBonus": "5%"
+        "manaBonus": "5%",
+        "family": "fable"
     },
     {
         "name": "Jack O'Hare",
@@ -7923,7 +8272,8 @@ window.allHeroesExtra = [
         "baseDefense": 284,
         "baseHealth": 452,
         "specialId": "reckless_slash",
-        "passiveSkills": null
+        "passiveSkills": null,
+        "family": "easter"
     },
     {
         "name": "Jack O'Hare Costume1",
@@ -7948,7 +8298,8 @@ window.allHeroesExtra = [
         "attackBonus": "3%",
         "defenseBonus": "3%",
         "healthBonus": "6%",
-        "manaBonus": "5%"
+        "manaBonus": "5%",
+        "family": "easter"
     },
     {
         "name": "Kalo",
@@ -7968,7 +8319,8 @@ window.allHeroesExtra = [
         "specialId": "resurrection_of_the_fallen",
         "passiveSkills": [
             "gargoyle_stone"
-        ]
+        ],
+        "family": "gargoyle"
     },
     {
         "name": "Kashhrek",
@@ -7986,7 +8338,8 @@ window.allHeroesExtra = [
         "baseDefense": 305,
         "baseHealth": 622,
         "specialId": "swamp_skin",
-        "passiveSkills": null
+        "passiveSkills": null,
+        "family": "classic"
     },
     {
         "name": "Kashhrek Costume1",
@@ -8011,7 +8364,8 @@ window.allHeroesExtra = [
         "attackBonus": "7%",
         "defenseBonus": "7%",
         "healthBonus": "11%",
-        "manaBonus": "5%"
+        "manaBonus": "5%",
+        "family": "classic"
     },
     {
         "name": "Kashhrek Costume2",
@@ -8035,7 +8389,8 @@ window.allHeroesExtra = [
         "attackBonus": "15%",
         "defenseBonus": "15%",
         "healthBonus": "20%",
-        "manaBonus": "5%"
+        "manaBonus": "5%",
+        "family": "classic"
     },
     {
         "name": "Kashhrek Toon",
@@ -8061,7 +8416,8 @@ window.allHeroesExtra = [
         "attackBonus": "17%",
         "defenseBonus": "17%",
         "healthBonus": "22%",
-        "manaBonus": "5%"
+        "manaBonus": "5%",
+        "family": "classic"
     },
     {
         "name": "Kashhrek Glass",
@@ -8088,7 +8444,8 @@ window.allHeroesExtra = [
         "attackBonus": "19%",
         "defenseBonus": "19%",
         "healthBonus": "24%",
-        "manaBonus": "5%"
+        "manaBonus": "5%",
+        "family": "classic"
     },
     {
         "name": "Lionstring",
@@ -8113,7 +8470,8 @@ window.allHeroesExtra = [
         "passiveSkills": [
             "share_received_damage",
             "resist_poison"
-        ]
+        ],
+        "family": "astral_elves"
     },
     {
         "name": "Little John",
@@ -8131,7 +8489,8 @@ window.allHeroesExtra = [
         "baseDefense": 268,
         "baseHealth": 465,
         "specialId": "massive_chop",
-        "passiveSkills": null
+        "passiveSkills": null,
+        "family": "classic"
     },
     {
         "name": "Little John Costume1",
@@ -8156,7 +8515,8 @@ window.allHeroesExtra = [
         "attackBonus": "7%",
         "defenseBonus": "7%",
         "healthBonus": "11%",
-        "manaBonus": "5%"
+        "manaBonus": "5%",
+        "family": "classic"
     },
     {
         "name": "Little John Costume2",
@@ -8180,7 +8540,8 @@ window.allHeroesExtra = [
         "attackBonus": "15%",
         "defenseBonus": "15%",
         "healthBonus": "20%",
-        "manaBonus": "5%"
+        "manaBonus": "5%",
+        "family": "classic"
     },
     {
         "name": "Little John Toon",
@@ -8207,7 +8568,8 @@ window.allHeroesExtra = [
         "attackBonus": "17%",
         "defenseBonus": "17%",
         "healthBonus": "22%",
-        "manaBonus": "5%"
+        "manaBonus": "5%",
+        "family": "classic"
     },
     {
         "name": "Little John Glass",
@@ -8234,7 +8596,8 @@ window.allHeroesExtra = [
         "attackBonus": "19%",
         "defenseBonus": "19%",
         "healthBonus": "24%",
-        "manaBonus": "5%"
+        "manaBonus": "5%",
+        "family": "classic"
     },
     {
         "name": "Marcel",
@@ -8254,7 +8617,8 @@ window.allHeroesExtra = [
         "baseDefense": 295,
         "baseHealth": 630,
         "specialId": "head_hurl",
-        "passiveSkills": null
+        "passiveSkills": null,
+        "family": "circus"
     },
     {
         "name": "Melendor",
@@ -8272,7 +8636,8 @@ window.allHeroesExtra = [
         "baseDefense": 276,
         "baseHealth": 471,
         "specialId": "fog_of_the_fallen",
-        "passiveSkills": null
+        "passiveSkills": null,
+        "family": "classic"
     },
     {
         "name": "Melendor Costume1",
@@ -8297,7 +8662,8 @@ window.allHeroesExtra = [
         "attackBonus": "7%",
         "defenseBonus": "7%",
         "healthBonus": "11%",
-        "manaBonus": "5%"
+        "manaBonus": "5%",
+        "family": "classic"
     },
     {
         "name": "Melendor Costume2",
@@ -8322,7 +8688,8 @@ window.allHeroesExtra = [
         "attackBonus": "15%",
         "defenseBonus": "15%",
         "healthBonus": "20%",
-        "manaBonus": "5%"
+        "manaBonus": "5%",
+        "family": "classic"
     },
     {
         "name": "Melendor Toon",
@@ -8349,7 +8716,8 @@ window.allHeroesExtra = [
         "attackBonus": "17%",
         "defenseBonus": "17%",
         "healthBonus": "22%",
-        "manaBonus": "5%"
+        "manaBonus": "5%",
+        "family": "classic"
     },
     {
         "name": "Melendor Glass",
@@ -8376,7 +8744,8 @@ window.allHeroesExtra = [
         "attackBonus": "19%",
         "defenseBonus": "19%",
         "healthBonus": "24%",
-        "manaBonus": "5%"
+        "manaBonus": "5%",
+        "family": "classic"
     },
     {
         "name": "Mielikki",
@@ -8397,7 +8766,8 @@ window.allHeroesExtra = [
         "specialId": "sprite_ballad",
         "passiveSkills": [
             "heal_mana_on_low_health_once"
-        ]
+        ],
+        "family": "kalevala"
     },
     {
         "name": "Mielikki Costume1",
@@ -8424,7 +8794,8 @@ window.allHeroesExtra = [
         "attackBonus": "3%",
         "defenseBonus": "3%",
         "healthBonus": "6%",
-        "manaBonus": "1%"
+        "manaBonus": "1%",
+        "family": "kalevala"
     },
     {
         "name": "Mulgog",
@@ -8447,7 +8818,8 @@ window.allHeroesExtra = [
         "specialId": "noxious_cleave",
         "passiveSkills": [
             "tales1_extra_special_damage_and_add_stacking_mana_generation"
-        ]
+        ],
+        "family": "tales1_baddies"
     },
     {
         "name": "Mulgog Costume1",
@@ -8478,7 +8850,8 @@ window.allHeroesExtra = [
         "attackBonus": "2%",
         "defenseBonus": "2%",
         "healthBonus": "4%",
-        "manaBonus": "1%"
+        "manaBonus": "1%",
+        "family": "tales1_baddies"
     },
     {
         "name": "Myrtle",
@@ -8502,7 +8875,8 @@ window.allHeroesExtra = [
             "resist_negative_attack_modifiers_including_wither",
             "resist_insanity",
             "minion_and_mega_minion_accuracy_modifier"
-        ]
+        ],
+        "family": "faun"
     },
     {
         "name": "Numbskull",
@@ -8525,7 +8899,8 @@ window.allHeroesExtra = [
         "passiveSkills": [
             "hunters_mark_on_special",
             "monster_hunter_reallocate_debuff_or_heal"
-        ]
+        ],
+        "family": "abyss_hunter"
     },
     {
         "name": "Orla",
@@ -8550,7 +8925,8 @@ window.allHeroesExtra = [
         "specialId": "graceful_shot",
         "passiveSkills": [
             "resist_status_effect_damage"
-        ]
+        ],
+        "family": "slayers"
     },
     {
         "name": "Peters",
@@ -8568,7 +8944,8 @@ window.allHeroesExtra = [
         "baseDefense": 302,
         "baseHealth": 524,
         "specialId": "buccaneers_blade",
-        "passiveSkills": null
+        "passiveSkills": null,
+        "family": "pirate"
     },
     {
         "name": "Peters Costume1",
@@ -8593,7 +8970,8 @@ window.allHeroesExtra = [
         "attackBonus": "5%",
         "defenseBonus": "5%",
         "healthBonus": "10%",
-        "manaBonus": "5%"
+        "manaBonus": "5%",
+        "family": "pirate"
     },
     {
         "name": "Ptolemy",
@@ -8614,7 +8992,8 @@ window.allHeroesExtra = [
         "specialId": "divine_connection",
         "passiveSkills": [
             "sun_extra_special_heal_and_cleanse_latest_debuff"
-        ]
+        ],
+        "family": "sun"
     },
     {
         "name": "Ptolemy Costume1",
@@ -8646,7 +9025,8 @@ window.allHeroesExtra = [
         "attackBonus": "2%",
         "defenseBonus": "2%",
         "healthBonus": "4%",
-        "manaBonus": "1%"
+        "manaBonus": "1%",
+        "family": "sun"
     },
     {
         "name": "Raleigh",
@@ -8667,7 +9047,8 @@ window.allHeroesExtra = [
         "specialId": "tome_of_the_stag",
         "passiveSkills": [
             "heal_on_buff_alliance_quest_family"
-        ]
+        ],
+        "family": "stag"
     },
     {
         "name": "Skittleskull",
@@ -8685,7 +9066,8 @@ window.allHeroesExtra = [
         "baseDefense": 285,
         "baseHealth": 456,
         "specialId": "creeping_vines",
-        "passiveSkills": null
+        "passiveSkills": null,
+        "family": "classic"
     },
     {
         "name": "Skittleskull Costume1",
@@ -8709,7 +9091,8 @@ window.allHeroesExtra = [
         "attackBonus": "7%",
         "defenseBonus": "7%",
         "healthBonus": "11%",
-        "manaBonus": "5%"
+        "manaBonus": "5%",
+        "family": "classic"
     },
     {
         "name": "Skittleskull Costume2",
@@ -8733,7 +9116,8 @@ window.allHeroesExtra = [
         "attackBonus": "15%",
         "defenseBonus": "15%",
         "healthBonus": "20%",
-        "manaBonus": "5%"
+        "manaBonus": "5%",
+        "family": "classic"
     },
     {
         "name": "Skittleskull Toon",
@@ -8760,7 +9144,8 @@ window.allHeroesExtra = [
         "attackBonus": "17%",
         "defenseBonus": "17%",
         "healthBonus": "22%",
-        "manaBonus": "5%"
+        "manaBonus": "5%",
+        "family": "classic"
     },
     {
         "name": "Skittleskull Glass",
@@ -8787,7 +9172,8 @@ window.allHeroesExtra = [
         "attackBonus": "19%",
         "defenseBonus": "19%",
         "healthBonus": "24%",
-        "manaBonus": "5%"
+        "manaBonus": "5%",
+        "family": "classic"
     },
     {
         "name": "Tettukh",
@@ -8808,7 +9194,8 @@ window.allHeroesExtra = [
         "specialId": "crippling_grapple",
         "passiveSkills": [
             "special_damage_reduction"
-        ]
+        ],
+        "family": "abyss"
     },
     {
         "name": "Tettukh Costume1",
@@ -8835,7 +9222,8 @@ window.allHeroesExtra = [
         "attackBonus": "2%",
         "defenseBonus": "2%",
         "healthBonus": "4%",
-        "manaBonus": "1%"
+        "manaBonus": "1%",
+        "family": "abyss"
     },
     {
         "name": "Villiers",
@@ -8858,7 +9246,8 @@ window.allHeroesExtra = [
         "specialId": "the_dukes_investigation",
         "passiveSkills": [
             "damage_all_enemies_on_cover_or_special_damage_received"
-        ]
+        ],
+        "family": "musketeer"
     },
     {
         "name": "Wren",
@@ -8877,7 +9266,8 @@ window.allHeroesExtra = [
         "baseDefense": 303,
         "baseHealth": 603,
         "specialId": "squires_squirrel",
-        "passiveSkills": null
+        "passiveSkills": null,
+        "family": "raven"
     },
     {
         "name": "Ahmose",
@@ -8897,7 +9287,8 @@ window.allHeroesExtra = [
         "specialId": "ancient_mirror",
         "passiveSkills": [
             "moon_extra_special_damage_and_mana_regen_debuff"
-        ]
+        ],
+        "family": "moon"
     },
     {
         "name": "Ahmose Costume1",
@@ -8926,7 +9317,8 @@ window.allHeroesExtra = [
         "attackBonus": "45%",
         "defenseBonus": "45%",
         "healthBonus": "50%",
-        "manaBonus": "5%"
+        "manaBonus": "5%",
+        "family": "moon"
     },
     {
         "name": "Alberich",
@@ -8947,7 +9339,8 @@ window.allHeroesExtra = [
         "baseDefense": 360,
         "baseHealth": 620,
         "specialId": "midsummers_dream",
-        "passiveSkills": null
+        "passiveSkills": null,
+        "family": "hotm2017"
     },
     {
         "name": "Alberich Costume1",
@@ -8977,7 +9370,8 @@ window.allHeroesExtra = [
         "attackBonus": "28%",
         "defenseBonus": "26%",
         "healthBonus": "45%",
-        "manaBonus": "5%"
+        "manaBonus": "5%",
+        "family": "hotm2017"
     },
     {
         "name": "Archibald",
@@ -9001,7 +9395,8 @@ window.allHeroesExtra = [
         "passiveSkills": [
             "remove_growth_from_enemies",
             "resist_direct_mana_reductions"
-        ]
+        ],
+        "family": "garrison"
     },
     {
         "name": "Archie",
@@ -9020,7 +9415,8 @@ window.allHeroesExtra = [
         "baseDefense": 402,
         "baseHealth": 708,
         "specialId": "fabled_llama_ballad",
-        "passiveSkills": null
+        "passiveSkills": null,
+        "family": "easter"
     },
     {
         "name": "Archie Costume1",
@@ -9045,7 +9441,8 @@ window.allHeroesExtra = [
         "attackBonus": "22%",
         "defenseBonus": "20%",
         "healthBonus": "25%",
-        "manaBonus": "5%"
+        "manaBonus": "5%",
+        "family": "easter"
     },
     {
         "name": "Arco",
@@ -9067,7 +9464,8 @@ window.allHeroesExtra = [
         "specialId": "gargoyles_of_redemption",
         "passiveSkills": [
             "gargoyle_stone"
-        ]
+        ],
+        "family": "gargoyle"
     },
     {
         "name": "Armand Moncharmin",
@@ -9089,7 +9487,8 @@ window.allHeroesExtra = [
         "passiveSkills": [
             "heal_on_expired_or_cleared_debuff",
             "resist_attack_modifier_debuffs"
-        ]
+        ],
+        "family": "opera"
     },
     {
         "name": "Athos",
@@ -9112,7 +9511,8 @@ window.allHeroesExtra = [
         "specialId": "piercing_shot",
         "passiveSkills": [
             "damage_all_enemies_on_cover_or_special_damage_received"
-        ]
+        ],
+        "family": "musketeer"
     },
     {
         "name": "Atomos",
@@ -9131,7 +9531,8 @@ window.allHeroesExtra = [
         "baseDefense": 353,
         "baseHealth": 649,
         "specialId": "immortal_annihilator",
-        "passiveSkills": null
+        "passiveSkills": null,
+        "family": "atlantis"
     },
     {
         "name": "Atomos Costume1",
@@ -9156,7 +9557,8 @@ window.allHeroesExtra = [
         "attackBonus": "25%",
         "defenseBonus": "25%",
         "healthBonus": "30%",
-        "manaBonus": "5%"
+        "manaBonus": "5%",
+        "family": "atlantis"
     },
     {
         "name": "Atwood",
@@ -9178,7 +9580,8 @@ window.allHeroesExtra = [
         "specialId": "jewel_of_the_deep",
         "passiveSkills": [
             "insanity_damage_reduction"
-        ]
+        ],
+        "family": "investigator"
     },
     {
         "name": "Augustus",
@@ -9199,7 +9602,8 @@ window.allHeroesExtra = [
         "baseDefense": 411,
         "baseHealth": 736,
         "specialId": "wisdom_of_the_gnomes",
-        "passiveSkills": null
+        "passiveSkills": null,
+        "family": "winter"
     },
     {
         "name": "Balbar",
@@ -9223,7 +9627,8 @@ window.allHeroesExtra = [
         "passiveSkills": [
             "heal_on_buff",
             "resist_buff_immunity"
-        ]
+        ],
+        "family": "hotm2021"
     },
     {
         "name": "Bertila",
@@ -9245,7 +9650,8 @@ window.allHeroesExtra = [
         "passiveSkills": [
             "mana_on_own_familiar_death",
             "resist_accuracy_modifier_debuffs"
-        ]
+        ],
+        "family": "hotm2021"
     },
     {
         "name": "Bo & Runt",
@@ -9269,7 +9675,8 @@ window.allHeroesExtra = [
         "passiveSkills": [
             "mana_on_ally_minion_summon",
             "resist_minion_removal"
-        ]
+        ],
+        "family": "hotm2024"
     },
     {
         "name": "Bonzo",
@@ -9292,7 +9699,8 @@ window.allHeroesExtra = [
         "passiveSkills": [
             "set_dance_duration",
             "set_ballad_duration"
-        ]
+        ],
+        "family": "bard"
     },
     {
         "name": "Boom & Fang",
@@ -9312,7 +9720,8 @@ window.allHeroesExtra = [
         "specialId": "boar_call",
         "passiveSkills": [
             "goblin_damage_and_accuracy_debuff_on_special"
-        ]
+        ],
+        "family": "goblin"
     },
     {
         "name": "Bramble",
@@ -9336,7 +9745,8 @@ window.allHeroesExtra = [
             "resist_insanity",
             "resist_negative_defense_modifiers_including_wither",
             "minion_and_mega_minion_accuracy_modifier"
-        ]
+        ],
+        "family": "faun"
     },
     {
         "name": "Chikao",
@@ -9358,7 +9768,8 @@ window.allHeroesExtra = [
         "specialId": "fatal_dreams",
         "passiveSkills": [
             "reduce_minion_health"
-        ]
+        ],
+        "family": "ninja"
     },
     {
         "name": "Chloris",
@@ -9380,7 +9791,8 @@ window.allHeroesExtra = [
         "passiveSkills": [
             "healthboost_on_enemy_special",
             "resist_heal_multiplier_debuffs"
-        ]
+        ],
+        "family": "hotm2024"
     },
     {
         "name": "Cinisia",
@@ -9403,7 +9815,8 @@ window.allHeroesExtra = [
         "passiveSkills": [
             "increased_attack_per_enemies_not_green_cinisia",
             "resist_attack_modifier_debuffs"
-        ]
+        ],
+        "family": "hotm2023"
     },
     {
         "name": "Congalach",
@@ -9424,7 +9837,8 @@ window.allHeroesExtra = [
         "specialId": "spectres_flail",
         "passiveSkills": [
             "special_damage_reduction"
-        ]
+        ],
+        "family": "abyss"
     },
     {
         "name": "Congalach Costume1",
@@ -9453,7 +9867,8 @@ window.allHeroesExtra = [
         "attackBonus": "30%",
         "defenseBonus": "30%",
         "healthBonus": "35%",
-        "manaBonus": "5%"
+        "manaBonus": "5%",
+        "family": "abyss"
     },
     {
         "name": "Craum",
@@ -9473,7 +9888,8 @@ window.allHeroesExtra = [
         "specialId": "call_of_the_elements",
         "passiveSkills": [
             "strong_troop_damage_modifier"
-        ]
+        ],
+        "family": "super_elemental"
     },
     {
         "name": "Cristobal",
@@ -9495,7 +9911,8 @@ window.allHeroesExtra = [
         "specialId": "charmed_dual_blade",
         "passiveSkills": [
             "magic_mana_regen_debuff_on_special"
-        ]
+        ],
+        "family": "magic"
     },
     {
         "name": "Dagr",
@@ -9520,7 +9937,8 @@ window.allHeroesExtra = [
         "passiveSkills": [
             "molten_core",
             "resist_burn_with_health_boost_and_mana"
-        ]
+        ],
+        "family": "nidavellir"
     },
     {
         "name": "Daroga",
@@ -9543,7 +9961,8 @@ window.allHeroesExtra = [
         "passiveSkills": [
             "heal_on_expired_or_cleared_debuff_fast",
             "resist_attack_modifier_debuffs"
-        ]
+        ],
+        "family": "opera"
     },
     {
         "name": "Desmond",
@@ -9564,7 +9983,8 @@ window.allHeroesExtra = [
         "specialId": "jade_blades",
         "passiveSkills": [
             "strong_troop_damage_modifier"
-        ]
+        ],
+        "family": "super_elemental"
     },
     {
         "name": "Dodgrom",
@@ -9585,7 +10005,8 @@ window.allHeroesExtra = [
         "specialId": "looking_for_love",
         "passiveSkills": [
             "resist_special_blocking"
-        ]
+        ],
+        "family": "cupid"
     },
     {
         "name": "Ecgtheow",
@@ -9608,7 +10029,8 @@ window.allHeroesExtra = [
             "attack_buff_on_damage_received",
             "mana_on_buff",
             "never_miss_special"
-        ]
+        ],
+        "family": "beowulf"
     },
     {
         "name": "Edwin",
@@ -9629,7 +10051,8 @@ window.allHeroesExtra = [
         "specialId": "hemlock_tea",
         "passiveSkills": [
             "halloween_steal_buff_or_deal_damage"
-        ]
+        ],
+        "family": "halloween"
     },
     {
         "name": "Eiora & Fluffy",
@@ -9648,7 +10071,8 @@ window.allHeroesExtra = [
         "baseDefense": 365,
         "baseHealth": 680,
         "specialId": "perfect_teamwork",
-        "passiveSkills": null
+        "passiveSkills": null,
+        "family": "circus"
     },
     {
         "name": "Ekanite",
@@ -9667,7 +10091,8 @@ window.allHeroesExtra = [
         "baseDefense": 390,
         "baseHealth": 759,
         "specialId": "order_ambush",
-        "passiveSkills": null
+        "passiveSkills": null,
+        "family": "ninja"
     },
     {
         "name": "El Naddaha",
@@ -9687,7 +10112,8 @@ window.allHeroesExtra = [
         "specialId": "luring_song",
         "passiveSkills": [
             "moon_extra_special_damage_and_dispel_latest_buff"
-        ]
+        ],
+        "family": "moon"
     },
     {
         "name": "El Naddaha Costume1",
@@ -9717,7 +10143,8 @@ window.allHeroesExtra = [
         "attackBonus": "45%",
         "defenseBonus": "45%",
         "healthBonus": "50%",
-        "manaBonus": "5%"
+        "manaBonus": "5%",
+        "family": "moon"
     },
     {
         "name": "Elkanen",
@@ -9735,7 +10162,8 @@ window.allHeroesExtra = [
         "baseDefense": 381,
         "baseHealth": 615,
         "specialId": "crescent_spear",
-        "passiveSkills": null
+        "passiveSkills": null,
+        "family": "classic"
     },
     {
         "name": "Elkanen Costume1",
@@ -9760,7 +10188,8 @@ window.allHeroesExtra = [
         "attackBonus": "13%",
         "defenseBonus": "13%",
         "healthBonus": "20%",
-        "manaBonus": "5%"
+        "manaBonus": "5%",
+        "family": "classic"
     },
     {
         "name": "Elkanen Costume2",
@@ -9784,7 +10213,8 @@ window.allHeroesExtra = [
         "attackBonus": "29%",
         "defenseBonus": "29%",
         "healthBonus": "44%",
-        "manaBonus": "5%"
+        "manaBonus": "5%",
+        "family": "classic"
     },
     {
         "name": "Elkanen Toon",
@@ -9811,7 +10241,8 @@ window.allHeroesExtra = [
         "attackBonus": "55%",
         "defenseBonus": "55%",
         "healthBonus": "70%",
-        "manaBonus": "5%"
+        "manaBonus": "5%",
+        "family": "classic"
     },
     {
         "name": "Elkanen Glass",
@@ -9838,7 +10269,8 @@ window.allHeroesExtra = [
         "attackBonus": "75%",
         "defenseBonus": "75%",
         "healthBonus": "78%",
-        "manaBonus": "5%"
+        "manaBonus": "5%",
+        "family": "classic"
     },
     {
         "name": "Elradir",
@@ -9861,7 +10293,8 @@ window.allHeroesExtra = [
         "passiveSkills": [
             "mana_on_debuff",
             "resist_special_blocking"
-        ]
+        ],
+        "family": "hotm2021"
     },
     {
         "name": "Elyssa",
@@ -9885,7 +10318,8 @@ window.allHeroesExtra = [
         "passiveSkills": [
             "reduce_big_minion_health",
             "fly_magic_carpet"
-        ]
+        ],
+        "family": "magic_carpet"
     },
     {
         "name": "Enigmo",
@@ -9907,7 +10341,8 @@ window.allHeroesExtra = [
         "specialId": "absorbed_underlings",
         "passiveSkills": [
             "memorize_familiars"
-        ]
+        ],
+        "family": "mystery"
     },
     {
         "name": "Evelyn",
@@ -9927,7 +10362,8 @@ window.allHeroesExtra = [
         "baseDefense": 346,
         "baseHealth": 658,
         "specialId": "shattering_warcry",
-        "passiveSkills": null
+        "passiveSkills": null,
+        "family": "hotm2018"
     },
     {
         "name": "Evelyn Costume1",
@@ -9956,7 +10392,8 @@ window.allHeroesExtra = [
         "attackBonus": "28%",
         "defenseBonus": "26%",
         "healthBonus": "45%",
-        "manaBonus": "5%"
+        "manaBonus": "5%",
+        "family": "hotm2018"
     },
     {
         "name": "Experience Mimic Nature",
@@ -9982,7 +10419,8 @@ window.allHeroesExtra = [
         "passiveSkills": [
             "mimic_training_hero_green",
             "never_miss_special"
-        ]
+        ],
+        "family": "mimic"
     },
     {
         "name": "Fafnir",
@@ -10008,7 +10446,8 @@ window.allHeroesExtra = [
         "passiveSkills": [
             "arctic_core",
             "resist_frost_with_health_boost_and_mana"
-        ]
+        ],
+        "family": "myrkheim"
     },
     {
         "name": "Februus",
@@ -10031,7 +10470,8 @@ window.allHeroesExtra = [
         "passiveSkills": [
             "cleanse_on_own_familiar_death",
             "resist_all_defense_debuffs"
-        ]
+        ],
+        "family": "masquerade"
     },
     {
         "name": "Ferrus",
@@ -10056,7 +10496,8 @@ window.allHeroesExtra = [
         "passiveSkills": [
             "corrosive_core",
             "resist_special_blocking"
-        ]
+        ],
+        "family": "construct"
     },
     {
         "name": "Foxley",
@@ -10078,7 +10519,8 @@ window.allHeroesExtra = [
         "specialId": "barbed_arrows",
         "passiveSkills": [
             "reduced_healing_for_all_enemies"
-        ]
+        ],
+        "family": "fox"
     },
     {
         "name": "Francine",
@@ -10099,7 +10541,8 @@ window.allHeroesExtra = [
         "specialId": "electric_cut",
         "passiveSkills": [
             "halloween_steal_buff_or_deal_damage"
-        ]
+        ],
+        "family": "halloween"
     },
     {
         "name": "Francine Costume1",
@@ -10126,7 +10569,8 @@ window.allHeroesExtra = [
         "attackBonus": "22%",
         "defenseBonus": "20%",
         "healthBonus": "25%",
-        "manaBonus": "5%"
+        "manaBonus": "5%",
+        "family": "halloween"
     },
     {
         "name": "Frigg",
@@ -10145,7 +10589,8 @@ window.allHeroesExtra = [
         "baseDefense": 369,
         "baseHealth": 641,
         "specialId": "brittling_force",
-        "passiveSkills": null
+        "passiveSkills": null,
+        "family": "alfheim"
     },
     {
         "name": "Frigg Costume1",
@@ -10170,7 +10615,8 @@ window.allHeroesExtra = [
         "attackBonus": "28%",
         "defenseBonus": "28%",
         "healthBonus": "35%",
-        "manaBonus": "5%"
+        "manaBonus": "5%",
+        "family": "alfheim"
     },
     {
         "name": "Frog Prince",
@@ -10191,7 +10637,8 @@ window.allHeroesExtra = [
         "baseDefense": 461,
         "baseHealth": 761,
         "specialId": "royal_poisoner",
-        "passiveSkills": null
+        "passiveSkills": null,
+        "family": "fable"
     },
     {
         "name": "Frond",
@@ -10214,7 +10661,8 @@ window.allHeroesExtra = [
         "passiveSkills": [
             "destructive_core",
             "resist_special_blocking"
-        ]
+        ],
+        "family": "construct"
     },
     {
         "name": "Fungustine",
@@ -10237,7 +10685,8 @@ window.allHeroesExtra = [
         "passiveSkills": [
             "summon_slime_minion_on_damage_green",
             "summon_slime_minion_on_death_green"
-        ]
+        ],
+        "family": "slime"
     },
     {
         "name": "Galapago",
@@ -10260,7 +10709,8 @@ window.allHeroesExtra = [
         "specialId": "testudo_roll",
         "passiveSkills": [
             "tales1_extra_special_damage_and_add_critical"
-        ]
+        ],
+        "family": "tales1_goodies"
     },
     {
         "name": "Galapago Costume1",
@@ -10291,7 +10741,8 @@ window.allHeroesExtra = [
         "attackBonus": "28%",
         "defenseBonus": "28%",
         "healthBonus": "28%",
-        "manaBonus": "5%"
+        "manaBonus": "5%",
+        "family": "tales1_goodies"
     },
     {
         "name": "Garjammal",
@@ -10311,7 +10762,8 @@ window.allHeroesExtra = [
         "specialId": "flail_of_destruction",
         "passiveSkills": [
             "decrease_debuff_duration"
-        ]
+        ],
+        "family": "abyss"
     },
     {
         "name": "Garjammal Costume1",
@@ -10341,7 +10793,8 @@ window.allHeroesExtra = [
         "attackBonus": "30%",
         "defenseBonus": "30%",
         "healthBonus": "35%",
-        "manaBonus": "5%"
+        "manaBonus": "5%",
+        "family": "abyss"
     },
     {
         "name": "Garten",
@@ -10364,7 +10817,8 @@ window.allHeroesExtra = [
         "specialId": "bone_club_party",
         "passiveSkills": [
             "gargoyle_soft_skin"
-        ]
+        ],
+        "family": "gargoyle"
     },
     {
         "name": "Gelert",
@@ -10387,7 +10841,8 @@ window.allHeroesExtra = [
         "specialId": "whirlpool_dash",
         "passiveSkills": [
             "tales1_extra_special_damage_and_add_critical"
-        ]
+        ],
+        "family": "tales1_goodies"
     },
     {
         "name": "Ginger",
@@ -10406,7 +10861,8 @@ window.allHeroesExtra = [
         "baseDefense": 454,
         "baseHealth": 790,
         "specialId": "hasty_trigger_finger",
-        "passiveSkills": null
+        "passiveSkills": null,
+        "family": "winter"
     },
     {
         "name": "Goorian",
@@ -10428,7 +10884,8 @@ window.allHeroesExtra = [
         "passiveSkills": [
             "summon_slime_minion_on_damage_green",
             "summon_slime_minion_on_death_green"
-        ]
+        ],
+        "family": "slime"
     },
     {
         "name": "Grace",
@@ -10452,7 +10909,8 @@ window.allHeroesExtra = [
         "passiveSkills": [
             "add_mana_on_enemy_taunt",
             "resist_burn"
-        ]
+        ],
+        "family": "hotm2022"
     },
     {
         "name": "Green Knight",
@@ -10471,7 +10929,8 @@ window.allHeroesExtra = [
         "baseDefense": 398,
         "baseHealth": 695,
         "specialId": "omen_of_retribution",
-        "passiveSkills": null
+        "passiveSkills": null,
+        "family": "knight"
     },
     {
         "name": "Gregorion",
@@ -10490,7 +10949,8 @@ window.allHeroesExtra = [
         "baseDefense": 345,
         "baseHealth": 656,
         "specialId": "unwavering_focus",
-        "passiveSkills": null
+        "passiveSkills": null,
+        "family": "hotm2018"
     },
     {
         "name": "Gregorion Costume1",
@@ -10518,7 +10978,8 @@ window.allHeroesExtra = [
         "attackBonus": "28%",
         "defenseBonus": "26%",
         "healthBonus": "45%",
-        "manaBonus": "5%"
+        "manaBonus": "5%",
+        "family": "hotm2018"
     },
     {
         "name": "Grendel",
@@ -10542,7 +11003,8 @@ window.allHeroesExtra = [
             "attack_buff_on_damage_received",
             "resist_mana_reductions_with_health_boost_and_mana",
             "never_miss_special"
-        ]
+        ],
+        "family": "beowulf"
     },
     {
         "name": "Grovevert",
@@ -10566,7 +11028,8 @@ window.allHeroesExtra = [
         "specialId": "adorable_pest",
         "passiveSkills": [
             "dodge_enemy_damage_special"
-        ]
+        ],
+        "family": "moths"
     },
     {
         "name": "Guan Yu",
@@ -10585,7 +11048,8 @@ window.allHeroesExtra = [
         "baseDefense": 376,
         "baseHealth": 711,
         "specialId": "green_dragon_crescent_blade",
-        "passiveSkills": null
+        "passiveSkills": null,
+        "family": "kingdom"
     },
     {
         "name": "Guan Yu Costume1",
@@ -10612,7 +11076,8 @@ window.allHeroesExtra = [
         "attackBonus": "35%",
         "defenseBonus": "35%",
         "healthBonus": "45%",
-        "manaBonus": "5%"
+        "manaBonus": "5%",
+        "family": "kingdom"
     },
     {
         "name": "Guardian Chameleon",
@@ -10632,7 +11097,8 @@ window.allHeroesExtra = [
         "baseDefense": 379,
         "baseHealth": 650,
         "specialId": "elemental_magic",
-        "passiveSkills": null
+        "passiveSkills": null,
+        "family": "guardian"
     },
     {
         "name": "Hammertusk",
@@ -10654,7 +11120,8 @@ window.allHeroesExtra = [
         "passiveSkills": [
             "hunters_mark_on_special",
             "special_damage_reduction_monster_hunters"
-        ]
+        ],
+        "family": "plains_hunter"
     },
     {
         "name": "Haulstone",
@@ -10679,7 +11146,8 @@ window.allHeroesExtra = [
         "passiveSkills": [
             "repair_core",
             "resist_special_blocking"
-        ]
+        ],
+        "family": "construct"
     },
     {
         "name": "Heimdall",
@@ -10698,7 +11166,8 @@ window.allHeroesExtra = [
         "baseDefense": 410,
         "baseHealth": 688,
         "specialId": "boon_of_gjallarhorn",
-        "passiveSkills": null
+        "passiveSkills": null,
+        "family": "asgard"
     },
     {
         "name": "Heimdall Costume1",
@@ -10724,7 +11193,8 @@ window.allHeroesExtra = [
         "attackBonus": "28%",
         "defenseBonus": "28%",
         "healthBonus": "35%",
-        "manaBonus": "5%"
+        "manaBonus": "5%",
+        "family": "asgard"
     },
     {
         "name": "Horghall",
@@ -10742,7 +11212,8 @@ window.allHeroesExtra = [
         "baseDefense": 316,
         "baseHealth": 750,
         "specialId": "anger_of_forest",
-        "passiveSkills": null
+        "passiveSkills": null,
+        "family": "classic"
     },
     {
         "name": "Horghall Costume1",
@@ -10766,7 +11237,8 @@ window.allHeroesExtra = [
         "attackBonus": "13%",
         "defenseBonus": "13%",
         "healthBonus": "20%",
-        "manaBonus": "5%"
+        "manaBonus": "5%",
+        "family": "classic"
     },
     {
         "name": "Horghall Costume2",
@@ -10792,7 +11264,8 @@ window.allHeroesExtra = [
         "attackBonus": "29%",
         "defenseBonus": "29%",
         "healthBonus": "44%",
-        "manaBonus": "5%"
+        "manaBonus": "5%",
+        "family": "classic"
     },
     {
         "name": "Horghall Toon",
@@ -10819,7 +11292,8 @@ window.allHeroesExtra = [
         "attackBonus": "55%",
         "defenseBonus": "55%",
         "healthBonus": "70%",
-        "manaBonus": "5%"
+        "manaBonus": "5%",
+        "family": "classic"
     },
     {
         "name": "Humbert",
@@ -10841,7 +11315,8 @@ window.allHeroesExtra = [
         "specialId": "mending_bronze_axe",
         "passiveSkills": [
             "heal_on_buff_alliance_quest_family"
-        ]
+        ],
+        "family": "bear"
     },
     {
         "name": "Iku-Turso",
@@ -10863,7 +11338,8 @@ window.allHeroesExtra = [
         "specialId": "dreaded_waters",
         "passiveSkills": [
             "heal_mana_on_low_health_once"
-        ]
+        ],
+        "family": "kalevala"
     },
     {
         "name": "Ito",
@@ -10888,7 +11364,8 @@ window.allHeroesExtra = [
         "specialId": "suppressing_ki",
         "passiveSkills": [
             "reduce_minion_health"
-        ]
+        ],
+        "family": "ninja"
     },
     {
         "name": "Jade",
@@ -10907,7 +11384,8 @@ window.allHeroesExtra = [
         "baseDefense": 398,
         "baseHealth": 702,
         "specialId": "shared_visage",
-        "passiveSkills": null
+        "passiveSkills": null,
+        "family": "ninja"
     },
     {
         "name": "Kadilen",
@@ -10925,7 +11403,8 @@ window.allHeroesExtra = [
         "baseDefense": 372,
         "baseHealth": 605,
         "specialId": "eclipse_shield",
-        "passiveSkills": null
+        "passiveSkills": null,
+        "family": "classic"
     },
     {
         "name": "Kadilen Costume1",
@@ -10950,7 +11429,8 @@ window.allHeroesExtra = [
         "attackBonus": "13%",
         "defenseBonus": "13%",
         "healthBonus": "20%",
-        "manaBonus": "5%"
+        "manaBonus": "5%",
+        "family": "classic"
     },
     {
         "name": "Kadilen Costume2",
@@ -10975,7 +11455,8 @@ window.allHeroesExtra = [
         "attackBonus": "29%",
         "defenseBonus": "29%",
         "healthBonus": "44%",
-        "manaBonus": "5%"
+        "manaBonus": "5%",
+        "family": "classic"
     },
     {
         "name": "Kadilen Toon",
@@ -11002,7 +11483,8 @@ window.allHeroesExtra = [
         "attackBonus": "55%",
         "defenseBonus": "55%",
         "healthBonus": "70%",
-        "manaBonus": "5%"
+        "manaBonus": "5%",
+        "family": "classic"
     },
     {
         "name": "Kai",
@@ -11026,7 +11508,8 @@ window.allHeroesExtra = [
         "passiveSkills": [
             "hunters_mark_on_special",
             "special_damage_reduction_monster_hunters"
-        ]
+        ],
+        "family": "plains_hunter"
     },
     {
         "name": "Kingston",
@@ -11047,7 +11530,8 @@ window.allHeroesExtra = [
         "specialId": "stiletto_cyclone",
         "passiveSkills": [
             "resist_burn"
-        ]
+        ],
+        "family": "hotm2019"
     },
     {
         "name": "Kolya",
@@ -11071,7 +11555,8 @@ window.allHeroesExtra = [
         "passiveSkills": [
             "remove_wither_from_allies",
             "resist_direct_mana_reductions"
-        ]
+        ],
+        "family": "garrison"
     },
     {
         "name": "Lady Locke",
@@ -11089,7 +11574,8 @@ window.allHeroesExtra = [
         "baseDefense": 323,
         "baseHealth": 598,
         "specialId": "moonlight_serenade",
-        "passiveSkills": null
+        "passiveSkills": null,
+        "family": "pirate"
     },
     {
         "name": "Lady Locke Costume1",
@@ -11116,7 +11602,8 @@ window.allHeroesExtra = [
         "attackBonus": "27%",
         "defenseBonus": "25%",
         "healthBonus": "40%",
-        "manaBonus": "5%"
+        "manaBonus": "5%",
+        "family": "pirate"
     },
     {
         "name": "Lady of the Lake",
@@ -11135,7 +11622,8 @@ window.allHeroesExtra = [
         "baseDefense": 360,
         "baseHealth": 637,
         "specialId": "magical_sword",
-        "passiveSkills": null
+        "passiveSkills": null,
+        "family": "knight"
     },
     {
         "name": "Lady of the Lake Costume1",
@@ -11160,7 +11648,8 @@ window.allHeroesExtra = [
         "attackBonus": "27%",
         "defenseBonus": "25%",
         "healthBonus": "40%",
-        "manaBonus": "5%"
+        "manaBonus": "5%",
+        "family": "knight"
     },
     {
         "name": "Leadria",
@@ -11182,7 +11671,8 @@ window.allHeroesExtra = [
         "passiveSkills": [
             "healtboost_on_minion_death",
             "resist_max_health_reduction"
-        ]
+        ],
+        "family": "hotm2023"
     },
     {
         "name": "Leafwhisk",
@@ -11203,7 +11693,8 @@ window.allHeroesExtra = [
         "specialId": "flute_of_enchantment",
         "passiveSkills": [
             "goblin_damage_and_accuracy_debuff_on_special"
-        ]
+        ],
+        "family": "goblin"
     },
     {
         "name": "Leonie",
@@ -11226,7 +11717,8 @@ window.allHeroesExtra = [
         "passiveSkills": [
             "resist_all_defense_effects",
             "revive_chance_nine_lives"
-        ]
+        ],
+        "family": "wild_cat"
     },
     {
         "name": "Lianna",
@@ -11243,7 +11735,8 @@ window.allHeroesExtra = [
         "baseDefense": 349,
         "baseHealth": 606,
         "specialId": "perfect_shot",
-        "passiveSkills": null
+        "passiveSkills": null,
+        "family": "classic"
     },
     {
         "name": "Lianna Costume1",
@@ -11267,7 +11760,8 @@ window.allHeroesExtra = [
         "attackBonus": "13%",
         "defenseBonus": "13%",
         "healthBonus": "20%",
-        "manaBonus": "5%"
+        "manaBonus": "5%",
+        "family": "classic"
     },
     {
         "name": "Lianna Costume2",
@@ -11291,7 +11785,8 @@ window.allHeroesExtra = [
         "attackBonus": "29%",
         "defenseBonus": "29%",
         "healthBonus": "44%",
-        "manaBonus": "5%"
+        "manaBonus": "5%",
+        "family": "classic"
     },
     {
         "name": "Lianna Toon",
@@ -11317,7 +11812,8 @@ window.allHeroesExtra = [
         "attackBonus": "55%",
         "defenseBonus": "55%",
         "healthBonus": "70%",
-        "manaBonus": "5%"
+        "manaBonus": "5%",
+        "family": "classic"
     },
     {
         "name": "Lianna Glass",
@@ -11343,7 +11839,8 @@ window.allHeroesExtra = [
         "attackBonus": "75%",
         "defenseBonus": "75%",
         "healthBonus": "78%",
-        "manaBonus": "5%"
+        "manaBonus": "5%",
+        "family": "classic"
     },
     {
         "name": "Limeboire",
@@ -11367,7 +11864,8 @@ window.allHeroesExtra = [
         "specialId": "dozy_mead",
         "passiveSkills": [
             "dodge_enemy_damage_special"
-        ]
+        ],
+        "family": "moths"
     },
     {
         "name": "Liu Bei",
@@ -11386,7 +11884,8 @@ window.allHeroesExtra = [
         "baseDefense": 388,
         "baseHealth": 704,
         "specialId": "call_to_arms",
-        "passiveSkills": null
+        "passiveSkills": null,
+        "family": "kingdom"
     },
     {
         "name": "Liu Bei Costume1",
@@ -11413,7 +11912,8 @@ window.allHeroesExtra = [
         "attackBonus": "35%",
         "defenseBonus": "35%",
         "healthBonus": "45%",
-        "manaBonus": "5%"
+        "manaBonus": "5%",
+        "family": "kingdom"
     },
     {
         "name": "Lughaidh",
@@ -11437,7 +11937,8 @@ window.allHeroesExtra = [
         "specialId": "transcendental_frame",
         "passiveSkills": [
             "special_damage_reduction"
-        ]
+        ],
+        "family": "abyss"
     },
     {
         "name": "Lughaidh Costume1",
@@ -11468,7 +11969,8 @@ window.allHeroesExtra = [
         "attackBonus": "30%",
         "defenseBonus": "30%",
         "healthBonus": "35%",
-        "manaBonus": "5%"
+        "manaBonus": "5%",
+        "family": "abyss"
     },
     {
         "name": "Ma'at",
@@ -11489,7 +11991,8 @@ window.allHeroesExtra = [
         "specialId": "bringer_of_order",
         "passiveSkills": [
             "sun_extra_special_damage_and_attack_debuff"
-        ]
+        ],
+        "family": "sun"
     },
     {
         "name": "Ma'at Costume1",
@@ -11519,7 +12022,8 @@ window.allHeroesExtra = [
         "attackBonus": "45%",
         "defenseBonus": "45%",
         "healthBonus": "50%",
-        "manaBonus": "5%"
+        "manaBonus": "5%",
+        "family": "sun"
     },
     {
         "name": "Maegwyn",
@@ -11542,7 +12046,8 @@ window.allHeroesExtra = [
             "resist_heal_multiplier_debuffs",
             "resist_negative_minion_and_mega_minion_effects",
             "eat_fiends_on_special_cast"
-        ]
+        ],
+        "family": "astral_dwarfs"
     },
     {
         "name": "Margaret",
@@ -11563,7 +12068,8 @@ window.allHeroesExtra = [
         "specialId": "hide_in_shadows",
         "passiveSkills": [
             "resist_buff_dispels"
-        ]
+        ],
+        "family": "hotm2019"
     },
     {
         "name": "Max",
@@ -11585,7 +12091,8 @@ window.allHeroesExtra = [
         "passiveSkills": [
             "heal_and_add_mana_on_ally_minion",
             "damage_enemies_on_enemy_parasite"
-        ]
+        ],
+        "family": "mighty_pet"
     },
     {
         "name": "Mazoga",
@@ -11608,7 +12115,8 @@ window.allHeroesExtra = [
         "passiveSkills": [
             "resist_water",
             "underwater_on_special_beach"
-        ]
+        ],
+        "family": "beachparty"
     },
     {
         "name": "Mena",
@@ -11631,7 +12139,8 @@ window.allHeroesExtra = [
         "specialId": "fluff_in_the_air",
         "passiveSkills": [
             "gargoyle_soft_skin"
-        ]
+        ],
+        "family": "gargoyle"
     },
     {
         "name": "Mistweaver",
@@ -11655,7 +12164,8 @@ window.allHeroesExtra = [
         "passiveSkills": [
             "hunters_mark_on_special",
             "attack_modifier_on_special"
-        ]
+        ],
+        "family": "jungle_hunter"
     },
     {
         "name": "Moonflower",
@@ -11677,7 +12187,8 @@ window.allHeroesExtra = [
         "passiveSkills": [
             "share_received_damage",
             "resist_poison"
-        ]
+        ],
+        "family": "astral_elves"
     },
     {
         "name": "Morgan Le Fay",
@@ -11695,7 +12206,8 @@ window.allHeroesExtra = [
         "baseDefense": 350,
         "baseHealth": 652,
         "specialId": "unnatural_pact",
-        "passiveSkills": null
+        "passiveSkills": null,
+        "family": "knight"
     },
     {
         "name": "Mother North",
@@ -11714,7 +12226,8 @@ window.allHeroesExtra = [
         "baseDefense": 398,
         "baseHealth": 710,
         "specialId": "super_porridge",
-        "passiveSkills": null
+        "passiveSkills": null,
+        "family": "winter"
     },
     {
         "name": "Mother North Costume1",
@@ -11739,7 +12252,8 @@ window.allHeroesExtra = [
         "attackBonus": "35%",
         "defenseBonus": "35%",
         "healthBonus": "35%",
-        "manaBonus": "5%"
+        "manaBonus": "5%",
+        "family": "winter"
     },
     {
         "name": "Mucktus",
@@ -11762,7 +12276,8 @@ window.allHeroesExtra = [
         "passiveSkills": [
             "summon_slime_minion_on_damage_green",
             "summon_slime_minion_on_death_green"
-        ]
+        ],
+        "family": "slime"
     },
     {
         "name": "Myoin-ni",
@@ -11781,7 +12296,8 @@ window.allHeroesExtra = [
         "baseDefense": 434,
         "baseHealth": 736,
         "specialId": "resolute_spirit",
-        "passiveSkills": null
+        "passiveSkills": null,
+        "family": "ninja"
     },
     {
         "name": "Mystia",
@@ -11803,7 +12319,8 @@ window.allHeroesExtra = [
         "passiveSkills": [
             "bypass_taunt_effects",
             "resist_special_blocking"
-        ]
+        ],
+        "family": "hotm2025"
     },
     {
         "name": "Nogu",
@@ -11825,7 +12342,8 @@ window.allHeroesExtra = [
             "healthboost_on_enemy_healthboost",
             "mana_on_enemy_healthboost_nogu",
             "mana_gen_on_debuff"
-        ]
+        ],
+        "family": "champions"
     },
     {
         "name": "Ott",
@@ -11851,7 +12369,8 @@ window.allHeroesExtra = [
         "passiveSkills": [
             "molten_core",
             "resist_burn_with_health_boost_and_mana"
-        ]
+        ],
+        "family": "nidavellir"
     },
     {
         "name": "Penelope",
@@ -11871,7 +12390,8 @@ window.allHeroesExtra = [
         "baseDefense": 568,
         "baseHealth": 1064,
         "specialId": "cut_cure_and_craze",
-        "passiveSkills": null
+        "passiveSkills": null,
+        "family": "investigator"
     },
     {
         "name": "Peregrine",
@@ -11895,7 +12415,8 @@ window.allHeroesExtra = [
             "resist_negative_attack_modifiers_including_wither",
             "resist_insanity",
             "minion_and_mega_minion_accuracy_modifier"
-        ]
+        ],
+        "family": "faun"
     },
     {
         "name": "Peridot",
@@ -11916,7 +12437,8 @@ window.allHeroesExtra = [
         "baseDefense": 359,
         "baseHealth": 697,
         "specialId": "suffocating_smoke",
-        "passiveSkills": null
+        "passiveSkills": null,
+        "family": "ninja"
     },
     {
         "name": "Phileas Fogg",
@@ -11937,7 +12459,8 @@ window.allHeroesExtra = [
         "specialId": "valiant_lunge",
         "passiveSkills": [
             "special_damage_reduction"
-        ]
+        ],
+        "family": "abyss"
     },
     {
         "name": "Phileas Fogg Costume1",
@@ -11968,7 +12491,8 @@ window.allHeroesExtra = [
         "attackBonus": "30%",
         "defenseBonus": "30%",
         "healthBonus": "35%",
-        "manaBonus": "5%"
+        "manaBonus": "5%",
+        "family": "abyss"
     },
     {
         "name": "Pip",
@@ -11991,7 +12515,8 @@ window.allHeroesExtra = [
         "passiveSkills": [
             "remove_wither_from_allies",
             "resist_direct_mana_reductions"
-        ]
+        ],
+        "family": "garrison"
     },
     {
         "name": "Prince Siegfried",
@@ -12014,7 +12539,8 @@ window.allHeroesExtra = [
         "passiveSkills": [
             "heal_on_expired_or_cleared_debuff_slow",
             "resist_defense_modifier_debuffs"
-        ]
+        ],
+        "family": "opera"
     },
     {
         "name": "Qinglong",
@@ -12036,7 +12562,8 @@ window.allHeroesExtra = [
         "specialId": "confident_strategy",
         "passiveSkills": [
             "enemy_minion_follower_silencer"
-        ]
+        ],
+        "family": "zodiac_dragon"
     },
     {
         "name": "Queen Anne",
@@ -12058,7 +12585,8 @@ window.allHeroesExtra = [
         "specialId": "the_queens_speech",
         "passiveSkills": [
             "damage_all_enemies_on_cover_or_special_damage_received"
-        ]
+        ],
+        "family": "musketeer"
     },
     {
         "name": "Quenell",
@@ -12077,7 +12605,8 @@ window.allHeroesExtra = [
         "baseDefense": 369,
         "baseHealth": 696,
         "specialId": "howling_sword",
-        "passiveSkills": null
+        "passiveSkills": null,
+        "family": "wolf"
     },
     {
         "name": "Quenell Costume1",
@@ -12104,7 +12633,8 @@ window.allHeroesExtra = [
         "attackBonus": "48%",
         "defenseBonus": "48%",
         "healthBonus": "48%",
-        "manaBonus": "5%"
+        "manaBonus": "5%",
+        "family": "wolf"
     },
     {
         "name": "Ratatoskr",
@@ -12124,7 +12654,8 @@ window.allHeroesExtra = [
         "baseDefense": 360,
         "baseHealth": 657,
         "specialId": "nuts_of_yggdrasil",
-        "passiveSkills": null
+        "passiveSkills": null,
+        "family": "alfheim"
     },
     {
         "name": "Ratatoskr Costume1",
@@ -12150,7 +12681,8 @@ window.allHeroesExtra = [
         "attackBonus": "28%",
         "defenseBonus": "28%",
         "healthBonus": "35%",
-        "manaBonus": "5%"
+        "manaBonus": "5%",
+        "family": "alfheim"
     },
     {
         "name": "Relius",
@@ -12171,7 +12703,8 @@ window.allHeroesExtra = [
         "specialId": "mixed_green_herbs",
         "passiveSkills": [
             "mana_generation_modifier_all_enemies_stronger"
-        ]
+        ],
+        "family": "owl"
     },
     {
         "name": "Rhineglow",
@@ -12194,7 +12727,8 @@ window.allHeroesExtra = [
         "passiveSkills": [
             "destructive_core",
             "resist_special_blocking"
-        ]
+        ],
+        "family": "construct"
     },
     {
         "name": "Roz",
@@ -12215,7 +12749,8 @@ window.allHeroesExtra = [
         "specialId": "elemental_infusion_arrow",
         "passiveSkills": [
             "strong_troop_damage_modifier"
-        ]
+        ],
+        "family": "super_elemental"
     },
     {
         "name": "Sadie",
@@ -12236,7 +12771,8 @@ window.allHeroesExtra = [
         "baseDefense": 544,
         "baseHealth": 1036,
         "specialId": "silencing_stick_up",
-        "passiveSkills": null
+        "passiveSkills": null,
+        "family": "easter"
     },
     {
         "name": "Sha Wujing",
@@ -12258,7 +12794,8 @@ window.allHeroesExtra = [
         "passiveSkills": [
             "heal_on_buff_with_chance",
             "mana_on_buff_with_chance"
-        ]
+        ],
+        "family": "journey"
     },
     {
         "name": "Silvaria",
@@ -12280,7 +12817,8 @@ window.allHeroesExtra = [
         "passiveSkills": [
             "summon_on_burn",
             "resist_minion_removal"
-        ]
+        ],
+        "family": "hotm2022"
     },
     {
         "name": "Smarttongue",
@@ -12301,7 +12839,8 @@ window.allHeroesExtra = [
         "specialId": "goblin_serenade",
         "passiveSkills": [
             "goblin_damage_and_accuracy_debuff_on_special"
-        ]
+        ],
+        "family": "goblin"
     },
     {
         "name": "Snowball",
@@ -12324,7 +12863,8 @@ window.allHeroesExtra = [
         "passiveSkills": [
             "heal_and_add_mana_on_ally_minion",
             "damage_enemies_on_enemy_parasite"
-        ]
+        ],
+        "family": "mighty_pet"
     },
     {
         "name": "Spartoi",
@@ -12345,7 +12885,8 @@ window.allHeroesExtra = [
         "specialId": "overwhelming_raid",
         "passiveSkills": [
             "tales1_extra_special_damage_and_add_stacking_mana_generation"
-        ]
+        ],
+        "family": "tales1_baddies"
     },
     {
         "name": "Spartoi Costume1",
@@ -12374,7 +12915,8 @@ window.allHeroesExtra = [
         "attackBonus": "28%",
         "defenseBonus": "28%",
         "healthBonus": "28%",
-        "manaBonus": "5%"
+        "manaBonus": "5%",
+        "family": "tales1_baddies"
     },
     {
         "name": "Spiff",
@@ -12396,7 +12938,8 @@ window.allHeroesExtra = [
         "specialId": "fierce_pierce",
         "passiveSkills": [
             "reduced_healing_for_all_enemies"
-        ]
+        ],
+        "family": "fox"
     },
     {
         "name": "Staintongue",
@@ -12419,7 +12962,8 @@ window.allHeroesExtra = [
         "passiveSkills": [
             "hunters_mark_on_special",
             "monster_hunter_reallocate_debuff_or_heal"
-        ]
+        ],
+        "family": "abyss_hunter"
     },
     {
         "name": "Starlass",
@@ -12442,7 +12986,8 @@ window.allHeroesExtra = [
         "passiveSkills": [
             "share_received_damage",
             "resist_poison"
-        ]
+        ],
+        "family": "astral_elves"
     },
     {
         "name": "Sune",
@@ -12466,7 +13011,8 @@ window.allHeroesExtra = [
         "passiveSkills": [
             "hunters_mark_on_special",
             "special_damage_reduction_monster_hunters"
-        ]
+        ],
+        "family": "plains_hunter"
     },
     {
         "name": "Tametomo",
@@ -12485,7 +13031,8 @@ window.allHeroesExtra = [
         "baseDefense": 430,
         "baseHealth": 927,
         "specialId": "splintering_shot",
-        "passiveSkills": null
+        "passiveSkills": null,
+        "family": "ninja"
     },
     {
         "name": "Tarlak",
@@ -12503,7 +13050,8 @@ window.allHeroesExtra = [
         "baseDefense": 324,
         "baseHealth": 602,
         "specialId": "martial_prowess",
-        "passiveSkills": null
+        "passiveSkills": null,
+        "family": "lagoon"
     },
     {
         "name": "Tarlak Costume1",
@@ -12527,7 +13075,8 @@ window.allHeroesExtra = [
         "attackBonus": "25%",
         "defenseBonus": "25%",
         "healthBonus": "30%",
-        "manaBonus": "5%"
+        "manaBonus": "5%",
+        "family": "lagoon"
     },
     {
         "name": "Teddy",
@@ -12550,7 +13099,8 @@ window.allHeroesExtra = [
         "specialId": "the_call_to_hibernate",
         "passiveSkills": [
             "heal_on_buff_alliance_quest_family"
-        ]
+        ],
+        "family": "bear"
     },
     {
         "name": "Telluria",
@@ -12573,7 +13123,8 @@ window.allHeroesExtra = [
         "specialId": "force_of_forest",
         "passiveSkills": [
             "resist_minion_removal"
-        ]
+        ],
+        "family": "hotm2020"
     },
     {
         "name": "Telonius",
@@ -12598,7 +13149,8 @@ window.allHeroesExtra = [
         "passiveSkills": [
             "magic_mana_regen_stack_on_special",
             "magic_damage_on_full_charge_to_not_red"
-        ]
+        ],
+        "family": "magic"
     },
     {
         "name": "The Hatter",
@@ -12616,7 +13168,8 @@ window.allHeroesExtra = [
         "baseDefense": 345,
         "baseHealth": 651,
         "specialId": "mad_as_a_hatter",
-        "passiveSkills": null
+        "passiveSkills": null,
+        "family": "wonderland"
     },
     {
         "name": "The Hatter Costume1",
@@ -12643,7 +13196,8 @@ window.allHeroesExtra = [
         "attackBonus": "27%",
         "defenseBonus": "25%",
         "healthBonus": "40%",
-        "manaBonus": "5%"
+        "manaBonus": "5%",
+        "family": "wonderland"
     },
     {
         "name": "Theodosius",
@@ -12667,7 +13221,8 @@ window.allHeroesExtra = [
             "remove_wither_from_allies",
             "resist_direct_mana_reductions",
             "mana_on_debuff"
-        ]
+        ],
+        "family": "garrison"
     },
     {
         "name": "Toxicandra",
@@ -12686,7 +13241,8 @@ window.allHeroesExtra = [
         "baseDefense": 369,
         "baseHealth": 665,
         "specialId": "accelerated_growth",
-        "passiveSkills": null
+        "passiveSkills": null,
+        "family": "villains"
     },
     {
         "name": "Toxicandra Costume1",
@@ -12714,7 +13270,8 @@ window.allHeroesExtra = [
         "attackBonus": "57%",
         "defenseBonus": "57%",
         "healthBonus": "62%",
-        "manaBonus": "5%"
+        "manaBonus": "5%",
+        "family": "villains"
     },
     {
         "name": "Vainamoinen",
@@ -12734,7 +13291,8 @@ window.allHeroesExtra = [
         "specialId": "song_of_the_morass",
         "passiveSkills": [
             "heal_mana_on_low_health_once"
-        ]
+        ],
+        "family": "kalevala"
     },
     {
         "name": "Vainamoinen Costume1",
@@ -12760,7 +13318,8 @@ window.allHeroesExtra = [
         "attackBonus": "34%",
         "defenseBonus": "34%",
         "healthBonus": "35%",
-        "manaBonus": "5%"
+        "manaBonus": "5%",
+        "family": "kalevala"
     },
     {
         "name": "Verus",
@@ -12781,7 +13340,8 @@ window.allHeroesExtra = [
         "specialId": "swooping_talon",
         "passiveSkills": [
             "mana_generation_modifier_all_enemies_stronger"
-        ]
+        ],
+        "family": "owl"
     },
     {
         "name": "Viselus",
@@ -12804,7 +13364,8 @@ window.allHeroesExtra = [
         "passiveSkills": [
             "healthboost_per_poisoned_enemy",
             "resist_poison"
-        ]
+        ],
+        "family": "hotm2023"
     },
     {
         "name": "Winifred",
@@ -12826,7 +13387,8 @@ window.allHeroesExtra = [
         "specialId": "madrigal_of_mayhem",
         "passiveSkills": [
             "defense_modifier_reduction_all_allies"
-        ]
+        ],
+        "family": "bard"
     },
     {
         "name": "Xandrella",
@@ -12848,7 +13410,8 @@ window.allHeroesExtra = [
         "specialId": "staff_of_mana_control",
         "passiveSkills": [
             "strong_troop_damage_modifier"
-        ]
+        ],
+        "family": "super_elemental"
     },
     {
         "name": "Xiamara",
@@ -12869,7 +13432,8 @@ window.allHeroesExtra = [
         "specialId": "power_of_the_forest",
         "passiveSkills": [
             "heal_on_buff_alliance_quest_family"
-        ]
+        ],
+        "family": "stag"
     },
     {
         "name": "Xiaoqing",
@@ -12891,7 +13455,8 @@ window.allHeroesExtra = [
         "specialId": "warding_off_evil",
         "passiveSkills": [
             "enemy_minion_follower_silencer"
-        ]
+        ],
+        "family": "zodiac_snake"
     },
     {
         "name": "Yunan",
@@ -12911,7 +13476,8 @@ window.allHeroesExtra = [
         "baseDefense": 396,
         "baseHealth": 698,
         "specialId": "kings_curse",
-        "passiveSkills": null
+        "passiveSkills": null,
+        "family": "sand"
     },
     {
         "name": "Yunan Costume1",
@@ -12937,7 +13503,8 @@ window.allHeroesExtra = [
         "attackBonus": "25%",
         "defenseBonus": "25%",
         "healthBonus": "30%",
-        "manaBonus": "5%"
+        "manaBonus": "5%",
+        "family": "sand"
     },
     {
         "name": "Zavinia",
@@ -12959,7 +13526,8 @@ window.allHeroesExtra = [
         "specialId": "darts_of_the_deep",
         "passiveSkills": [
             "insanity_damage_reduction"
-        ]
+        ],
+        "family": "cultist"
     },
     {
         "name": "Zeline",
@@ -12980,7 +13548,8 @@ window.allHeroesExtra = [
         "baseDefense": 334,
         "baseHealth": 635,
         "specialId": "emerald_flash",
-        "passiveSkills": null
+        "passiveSkills": null,
+        "family": "hotm2018"
     },
     {
         "name": "Zeline Costume1",
@@ -13010,7 +13579,8 @@ window.allHeroesExtra = [
         "attackBonus": "28%",
         "defenseBonus": "26%",
         "healthBonus": "45%",
-        "manaBonus": "5%"
+        "manaBonus": "5%",
+        "family": "hotm2018"
     },
     {
         "name": "Zocc",
@@ -13031,7 +13601,8 @@ window.allHeroesExtra = [
         "specialId": "keyknife_typhoon",
         "passiveSkills": [
             "resist_water"
-        ]
+        ],
+        "family": "hotm2020"
     },
     {
         "name": "Zuni",
@@ -13053,7 +13624,8 @@ window.allHeroesExtra = [
         "specialId": "hoverboard_slam",
         "passiveSkills": [
             "strong_troop_damage_modifier"
-        ]
+        ],
+        "family": "super_elemental"
     },
     {
         "name": "Fletcher",
@@ -13070,7 +13642,8 @@ window.allHeroesExtra = [
         "baseDefense": 141,
         "baseHealth": 294,
         "specialId": "backstab",
-        "passiveSkills": null
+        "passiveSkills": null,
+        "family": "classic"
     },
     {
         "name": "Nightshade",
@@ -13087,7 +13660,8 @@ window.allHeroesExtra = [
         "baseDefense": 158,
         "baseHealth": 334,
         "specialId": "focused_shot",
-        "passiveSkills": null
+        "passiveSkills": null,
+        "family": "classic"
     },
     {
         "name": "Julius",
@@ -13104,7 +13678,8 @@ window.allHeroesExtra = [
         "baseDefense": 188,
         "baseHealth": 332,
         "specialId": "focused_shot",
-        "passiveSkills": null
+        "passiveSkills": null,
+        "family": "classic"
     },
     {
         "name": "Layla",
@@ -13121,7 +13696,8 @@ window.allHeroesExtra = [
         "baseDefense": 206,
         "baseHealth": 348,
         "specialId": "poisoned_blade",
-        "passiveSkills": null
+        "passiveSkills": null,
+        "family": "classic"
     },
     {
         "name": "Silthus",
@@ -13138,7 +13714,8 @@ window.allHeroesExtra = [
         "baseDefense": 176,
         "baseHealth": 454,
         "specialId": "attack_rally",
-        "passiveSkills": null
+        "passiveSkills": null,
+        "family": "classic"
     },
     {
         "name": "Aderyn",
@@ -13156,7 +13733,8 @@ window.allHeroesExtra = [
         "baseDefense": 286,
         "baseHealth": 486,
         "specialId": "apothecary_kit",
-        "passiveSkills": null
+        "passiveSkills": null,
+        "family": "raven"
     },
     {
         "name": "An-Windr",
@@ -13173,7 +13751,8 @@ window.allHeroesExtra = [
         "baseDefense": 290,
         "baseHealth": 456,
         "specialId": "tribal_rage",
-        "passiveSkills": null
+        "passiveSkills": null,
+        "family": "niflheim"
     },
     {
         "name": "Aqeela",
@@ -13195,7 +13774,8 @@ window.allHeroesExtra = [
         "specialId": "one_jump_ahead",
         "passiveSkills": [
             "moon_extra_special_damage_and_dispel_latest_buff"
-        ]
+        ],
+        "family": "moon"
     },
     {
         "name": "Aqeela Costume1",
@@ -13226,7 +13806,8 @@ window.allHeroesExtra = [
         "attackBonus": "2%",
         "defenseBonus": "2%",
         "healthBonus": "4%",
-        "manaBonus": "1%"
+        "manaBonus": "1%",
+        "family": "moon"
     },
     {
         "name": "Balthazar",
@@ -13243,7 +13824,8 @@ window.allHeroesExtra = [
         "baseDefense": 243,
         "baseHealth": 373,
         "specialId": "electric_jolt",
-        "passiveSkills": null
+        "passiveSkills": null,
+        "family": "classic"
     },
     {
         "name": "Balthazar Costume1",
@@ -13267,7 +13849,8 @@ window.allHeroesExtra = [
         "attackBonus": "7%",
         "defenseBonus": "7%",
         "healthBonus": "10%",
-        "manaBonus": "5%"
+        "manaBonus": "5%",
+        "family": "classic"
     },
     {
         "name": "Balthazar Toon",
@@ -13293,7 +13876,8 @@ window.allHeroesExtra = [
         "attackBonus": "15%",
         "defenseBonus": "15%",
         "healthBonus": "20%",
-        "manaBonus": "5%"
+        "manaBonus": "5%",
+        "family": "classic"
     },
     {
         "name": "Balthazar Glass",
@@ -13319,7 +13903,8 @@ window.allHeroesExtra = [
         "attackBonus": "17%",
         "defenseBonus": "17%",
         "healthBonus": "22%",
-        "manaBonus": "5%"
+        "manaBonus": "5%",
+        "family": "classic"
     },
     {
         "name": "Betty",
@@ -13340,7 +13925,8 @@ window.allHeroesExtra = [
         "specialId": "pointy_darts",
         "passiveSkills": [
             "gargoyle_soft_skin"
-        ]
+        ],
+        "family": "gargoyle"
     },
     {
         "name": "Bjorn",
@@ -13359,7 +13945,8 @@ window.allHeroesExtra = [
         "baseDefense": 251,
         "baseHealth": 476,
         "specialId": "dual_slash",
-        "passiveSkills": null
+        "passiveSkills": null,
+        "family": "midgard"
     },
     {
         "name": "Bjorn Costume1",
@@ -13384,7 +13971,8 @@ window.allHeroesExtra = [
         "attackBonus": "3%",
         "defenseBonus": "3%",
         "healthBonus": "6%",
-        "manaBonus": "1%"
+        "manaBonus": "1%",
+        "family": "midgard"
     },
     {
         "name": "Budatin",
@@ -13406,7 +13994,8 @@ window.allHeroesExtra = [
         "specialId": "abiding_dogma",
         "passiveSkills": [
             "gargoyle_stone"
-        ]
+        ],
+        "family": "gargoyle"
     },
     {
         "name": "Chochin",
@@ -13424,7 +14013,8 @@ window.allHeroesExtra = [
         "baseDefense": 295,
         "baseHealth": 394,
         "specialId": "unholy_light",
-        "passiveSkills": null
+        "passiveSkills": null,
+        "family": "japanese"
     },
     {
         "name": "Edd",
@@ -13442,7 +14032,8 @@ window.allHeroesExtra = [
         "baseDefense": 259,
         "baseHealth": 416,
         "specialId": "crazed_lunge",
-        "passiveSkills": null
+        "passiveSkills": null,
+        "family": "villains"
     },
     {
         "name": "Gill-Ra",
@@ -13461,7 +14052,8 @@ window.allHeroesExtra = [
         "baseDefense": 261,
         "baseHealth": 430,
         "specialId": "song_of_regression",
-        "passiveSkills": null
+        "passiveSkills": null,
+        "family": "lagoon"
     },
     {
         "name": "Gill-Ra Costume1",
@@ -13486,7 +14078,8 @@ window.allHeroesExtra = [
         "attackBonus": "3%",
         "defenseBonus": "3%",
         "healthBonus": "6%",
-        "manaBonus": "5%"
+        "manaBonus": "5%",
+        "family": "lagoon"
     },
     {
         "name": "Greel",
@@ -13510,7 +14103,8 @@ window.allHeroesExtra = [
         "passiveSkills": [
             "hunters_mark_on_special",
             "monster_hunter_reallocate_debuff_or_heal"
-        ]
+        ],
+        "family": "abyss_hunter"
     },
     {
         "name": "Guardian Bat",
@@ -13528,7 +14122,8 @@ window.allHeroesExtra = [
         "baseDefense": 241,
         "baseHealth": 496,
         "specialId": "merciless_bite",
-        "passiveSkills": null
+        "passiveSkills": null,
+        "family": "guardian"
     },
     {
         "name": "Jack",
@@ -13548,7 +14143,8 @@ window.allHeroesExtra = [
         "specialId": "explosive_o_lantern",
         "passiveSkills": [
             "halloween_steal_buff_or_deal_damage"
-        ]
+        ],
+        "family": "halloween"
     },
     {
         "name": "Maeve",
@@ -13572,7 +14168,8 @@ window.allHeroesExtra = [
         "specialId": "assassins_blades",
         "passiveSkills": [
             "resist_status_effect_damage"
-        ]
+        ],
+        "family": "slayers"
     },
     {
         "name": "Morganite",
@@ -13590,7 +14187,8 @@ window.allHeroesExtra = [
         "baseDefense": 277,
         "baseHealth": 404,
         "specialId": "cursed_fumes",
-        "passiveSkills": null
+        "passiveSkills": null,
+        "family": "ninja"
     },
     {
         "name": "Morris",
@@ -13613,7 +14211,8 @@ window.allHeroesExtra = [
         "specialId": "dig_a_hole",
         "passiveSkills": [
             "decrease_debuff_duration"
-        ]
+        ],
+        "family": "abyss"
     },
     {
         "name": "Morris Costume1",
@@ -13642,7 +14241,8 @@ window.allHeroesExtra = [
         "attackBonus": "2%",
         "defenseBonus": "2%",
         "healthBonus": "4%",
-        "manaBonus": "1%"
+        "manaBonus": "1%",
+        "family": "abyss"
     },
     {
         "name": "Oberon",
@@ -13660,7 +14260,8 @@ window.allHeroesExtra = [
         "baseDefense": 237,
         "baseHealth": 483,
         "specialId": "toxic_traps",
-        "passiveSkills": null
+        "passiveSkills": null,
+        "family": "classic"
     },
     {
         "name": "Oberon Costume1",
@@ -13683,7 +14284,8 @@ window.allHeroesExtra = [
         "attackBonus": "7%",
         "defenseBonus": "7%",
         "healthBonus": "10%",
-        "manaBonus": "5%"
+        "manaBonus": "5%",
+        "family": "classic"
     },
     {
         "name": "Oberon Toon",
@@ -13710,7 +14312,8 @@ window.allHeroesExtra = [
         "attackBonus": "15%",
         "defenseBonus": "15%",
         "healthBonus": "20%",
-        "manaBonus": "5%"
+        "manaBonus": "5%",
+        "family": "classic"
     },
     {
         "name": "Para",
@@ -13730,7 +14333,8 @@ window.allHeroesExtra = [
         "specialId": "familiar_witchcraft",
         "passiveSkills": [
             "heal_mana_on_low_health_once"
-        ]
+        ],
+        "family": "kalevala"
     },
     {
         "name": "Prisca",
@@ -13748,7 +14352,8 @@ window.allHeroesExtra = [
         "baseDefense": 267,
         "baseHealth": 438,
         "specialId": "bleeding_stab",
-        "passiveSkills": null
+        "passiveSkills": null,
+        "family": "classic"
     },
     {
         "name": "Prisca Costume1",
@@ -13772,7 +14377,8 @@ window.allHeroesExtra = [
         "attackBonus": "7%",
         "defenseBonus": "7%",
         "healthBonus": "10%",
-        "manaBonus": "5%"
+        "manaBonus": "5%",
+        "family": "classic"
     },
     {
         "name": "Prisca Toon",
@@ -13799,7 +14405,8 @@ window.allHeroesExtra = [
         "attackBonus": "15%",
         "defenseBonus": "15%",
         "healthBonus": "20%",
-        "manaBonus": "5%"
+        "manaBonus": "5%",
+        "family": "classic"
     },
     {
         "name": "Prisca Glass",
@@ -13826,7 +14433,8 @@ window.allHeroesExtra = [
         "attackBonus": "17%",
         "defenseBonus": "17%",
         "healthBonus": "22%",
-        "manaBonus": "5%"
+        "manaBonus": "5%",
+        "family": "classic"
     },
     {
         "name": "Renfeld",
@@ -13844,7 +14452,8 @@ window.allHeroesExtra = [
         "baseDefense": 229,
         "baseHealth": 403,
         "specialId": "leeching_stars",
-        "passiveSkills": null
+        "passiveSkills": null,
+        "family": "classic"
     },
     {
         "name": "Renfeld Costume1",
@@ -13869,7 +14478,8 @@ window.allHeroesExtra = [
         "attackBonus": "7%",
         "defenseBonus": "7%",
         "healthBonus": "10%",
-        "manaBonus": "5%"
+        "manaBonus": "5%",
+        "family": "classic"
     },
     {
         "name": "Renfeld Toon",
@@ -13896,7 +14506,8 @@ window.allHeroesExtra = [
         "attackBonus": "15%",
         "defenseBonus": "15%",
         "healthBonus": "20%",
-        "manaBonus": "5%"
+        "manaBonus": "5%",
+        "family": "classic"
     },
     {
         "name": "Treevil",
@@ -13916,7 +14527,8 @@ window.allHeroesExtra = [
         "baseDefense": 293,
         "baseHealth": 501,
         "specialId": "archaic_dread",
-        "passiveSkills": null
+        "passiveSkills": null,
+        "family": "knight"
     },
     {
         "name": "Tyrum",
@@ -13934,7 +14546,8 @@ window.allHeroesExtra = [
         "baseDefense": 243,
         "baseHealth": 506,
         "specialId": "piercing_hit",
-        "passiveSkills": null
+        "passiveSkills": null,
+        "family": "classic"
     },
     {
         "name": "Tyrum Costume1",
@@ -13958,7 +14571,8 @@ window.allHeroesExtra = [
         "attackBonus": "7%",
         "defenseBonus": "7%",
         "healthBonus": "10%",
-        "manaBonus": "5%"
+        "manaBonus": "5%",
+        "family": "classic"
     },
     {
         "name": "Tyrum Toon",
@@ -13985,7 +14599,8 @@ window.allHeroesExtra = [
         "attackBonus": "15%",
         "defenseBonus": "15%",
         "healthBonus": "20%",
-        "manaBonus": "5%"
+        "manaBonus": "5%",
+        "family": "classic"
     },
     {
         "name": "Unferth",
@@ -14007,7 +14622,8 @@ window.allHeroesExtra = [
         "passiveSkills": [
             "never_miss_special",
             "resist_mana_reductions_with_health_boost_and_mana"
-        ]
+        ],
+        "family": "beowulf"
     },
     {
         "name": "Vlad",
@@ -14028,7 +14644,8 @@ window.allHeroesExtra = [
         "specialId": "lords_blood_poisoning",
         "passiveSkills": [
             "halloween_steal_buff_or_deal_damage"
-        ]
+        ],
+        "family": "halloween"
     },
     {
         "name": "Ahhotep",
@@ -14048,7 +14665,8 @@ window.allHeroesExtra = [
         "specialId": "mummy_slash",
         "passiveSkills": [
             "moon_extra_special_damage_and_dispel_latest_buff"
-        ]
+        ],
+        "family": "moon"
     },
     {
         "name": "Ahhotep Costume1",
@@ -14077,7 +14695,8 @@ window.allHeroesExtra = [
         "attackBonus": "2%",
         "defenseBonus": "2%",
         "healthBonus": "4%",
-        "manaBonus": "1%"
+        "manaBonus": "1%",
+        "family": "moon"
     },
     {
         "name": "Ameonna",
@@ -14096,7 +14715,8 @@ window.allHeroesExtra = [
         "baseDefense": 248,
         "baseHealth": 496,
         "specialId": "ethereal",
-        "passiveSkills": null
+        "passiveSkills": null,
+        "family": "japanese"
     },
     {
         "name": "Ameonna Costume1",
@@ -14123,7 +14743,8 @@ window.allHeroesExtra = [
         "attackBonus": "3%",
         "defenseBonus": "3%",
         "healthBonus": "6%",
-        "manaBonus": "5%"
+        "manaBonus": "5%",
+        "family": "japanese"
     },
     {
         "name": "Ametrine",
@@ -14143,7 +14764,8 @@ window.allHeroesExtra = [
         "baseDefense": 264,
         "baseHealth": 597,
         "specialId": "blur_of_steel",
-        "passiveSkills": null
+        "passiveSkills": null,
+        "family": "ninja"
     },
     {
         "name": "Ana-Belle",
@@ -14166,7 +14788,8 @@ window.allHeroesExtra = [
         "specialId": "tidy_up",
         "passiveSkills": [
             "halloween_steal_buff_or_deal_damage"
-        ]
+        ],
+        "family": "halloween"
     },
     {
         "name": "Arges",
@@ -14188,7 +14811,8 @@ window.allHeroesExtra = [
         "passiveSkills": [
             "resist_all_defense_debuffs",
             "reduce_minion_health"
-        ]
+        ],
+        "family": "styx"
     },
     {
         "name": "Boomer",
@@ -14206,7 +14830,8 @@ window.allHeroesExtra = [
         "baseDefense": 312,
         "baseHealth": 623,
         "specialId": "watery_grave",
-        "passiveSkills": null
+        "passiveSkills": null,
+        "family": "pirate"
     },
     {
         "name": "Cheshire Cat",
@@ -14225,7 +14850,8 @@ window.allHeroesExtra = [
         "baseDefense": 302,
         "baseHealth": 520,
         "specialId": "dazzling_grin",
-        "passiveSkills": null
+        "passiveSkills": null,
+        "family": "wonderland"
     },
     {
         "name": "Cheshire Cat Costume1",
@@ -14250,7 +14876,8 @@ window.allHeroesExtra = [
         "attackBonus": "5%",
         "defenseBonus": "5%",
         "healthBonus": "10%",
-        "manaBonus": "5%"
+        "manaBonus": "5%",
+        "family": "wonderland"
     },
     {
         "name": "Cupcake",
@@ -14271,7 +14898,8 @@ window.allHeroesExtra = [
         "passiveSkills": [
             "heal_and_add_mana_on_ally_minion",
             "damage_enemies_on_enemy_parasite"
-        ]
+        ],
+        "family": "mighty_pet"
     },
     {
         "name": "Cyprian",
@@ -14288,7 +14916,8 @@ window.allHeroesExtra = [
         "baseDefense": 285,
         "baseHealth": 641,
         "specialId": "perfect_riposte",
-        "passiveSkills": null
+        "passiveSkills": null,
+        "family": "classic"
     },
     {
         "name": "Cyprian Costume1",
@@ -14311,7 +14940,8 @@ window.allHeroesExtra = [
         "attackBonus": "7%",
         "defenseBonus": "7%",
         "healthBonus": "11%",
-        "manaBonus": "5%"
+        "manaBonus": "5%",
+        "family": "classic"
     },
     {
         "name": "Cyprian Costume2",
@@ -14336,7 +14966,8 @@ window.allHeroesExtra = [
         "attackBonus": "15%",
         "defenseBonus": "15%",
         "healthBonus": "20%",
-        "manaBonus": "5%"
+        "manaBonus": "5%",
+        "family": "classic"
     },
     {
         "name": "Cyprian Toon",
@@ -14361,7 +14992,8 @@ window.allHeroesExtra = [
         "attackBonus": "17%",
         "defenseBonus": "17%",
         "healthBonus": "22%",
-        "manaBonus": "5%"
+        "manaBonus": "5%",
+        "family": "classic"
     },
     {
         "name": "Cyprian Glass",
@@ -14386,7 +15018,8 @@ window.allHeroesExtra = [
         "attackBonus": "19%",
         "defenseBonus": "19%",
         "healthBonus": "24%",
-        "manaBonus": "5%"
+        "manaBonus": "5%",
+        "family": "classic"
     },
     {
         "name": "Dizzy",
@@ -14405,7 +15038,8 @@ window.allHeroesExtra = [
         "baseDefense": 322,
         "baseHealth": 588,
         "specialId": "gloomy_tune",
-        "passiveSkills": null
+        "passiveSkills": null,
+        "family": "winter"
     },
     {
         "name": "Fura",
@@ -14424,7 +15058,8 @@ window.allHeroesExtra = [
         "baseDefense": 296,
         "baseHealth": 510,
         "specialId": "nightglade_pollen",
-        "passiveSkills": null
+        "passiveSkills": null,
+        "family": "svartalfheim"
     },
     {
         "name": "Fura Costume1",
@@ -14449,7 +15084,8 @@ window.allHeroesExtra = [
         "attackBonus": "3%",
         "defenseBonus": "3%",
         "healthBonus": "6%",
-        "manaBonus": "1%"
+        "manaBonus": "1%",
+        "family": "svartalfheim"
     },
     {
         "name": "Gafar",
@@ -14469,7 +15105,8 @@ window.allHeroesExtra = [
         "baseDefense": 298,
         "baseHealth": 465,
         "specialId": "viziers_curse",
-        "passiveSkills": null
+        "passiveSkills": null,
+        "family": "sand"
     },
     {
         "name": "Heifeng Guai",
@@ -14488,7 +15125,8 @@ window.allHeroesExtra = [
         "baseDefense": 294,
         "baseHealth": 649,
         "specialId": "black_tassel_spear_sting",
-        "passiveSkills": null
+        "passiveSkills": null,
+        "family": "journey"
     },
     {
         "name": "Ingolf",
@@ -14510,7 +15148,8 @@ window.allHeroesExtra = [
         "baseDefense": 322,
         "baseHealth": 597,
         "specialId": "draining_blade",
-        "passiveSkills": null
+        "passiveSkills": null,
+        "family": "villains"
     },
     {
         "name": "Jabbar",
@@ -14530,7 +15169,8 @@ window.allHeroesExtra = [
         "baseDefense": 325,
         "baseHealth": 623,
         "specialId": "towers_curse",
-        "passiveSkills": null
+        "passiveSkills": null,
+        "family": "sand"
     },
     {
         "name": "Juliani",
@@ -14552,7 +15192,8 @@ window.allHeroesExtra = [
         "specialId": "scroll_of_spite",
         "passiveSkills": [
             "mana_generation_modifier_all_enemies_stronger"
-        ]
+        ],
+        "family": "owl"
     },
     {
         "name": "Kitty",
@@ -14574,7 +15215,8 @@ window.allHeroesExtra = [
         "specialId": "flower_of_kindness",
         "passiveSkills": [
             "damage_all_enemies_on_cover_or_special_damage_received"
-        ]
+        ],
+        "family": "musketeer"
     },
     {
         "name": "Koda",
@@ -14594,7 +15236,8 @@ window.allHeroesExtra = [
         "specialId": "feral_swing",
         "passiveSkills": [
             "heal_on_buff_alliance_quest_family"
-        ]
+        ],
+        "family": "bear"
     },
     {
         "name": "Lexi",
@@ -14615,7 +15258,8 @@ window.allHeroesExtra = [
         "specialId": "energy_conjunction",
         "passiveSkills": [
             "strong_troop_damage_modifier"
-        ]
+        ],
+        "family": "super_elemental"
     },
     {
         "name": "Meadow",
@@ -14636,7 +15280,8 @@ window.allHeroesExtra = [
         "passiveSkills": [
             "hunters_mark_on_special",
             "special_damage_reduction_monster_hunters"
-        ]
+        ],
+        "family": "plains_hunter"
     },
     {
         "name": "Merlin",
@@ -14655,7 +15300,8 @@ window.allHeroesExtra = [
         "baseDefense": 311,
         "baseHealth": 459,
         "specialId": "arcane_blast",
-        "passiveSkills": null
+        "passiveSkills": null,
+        "family": "knight"
     },
     {
         "name": "Merlin Costume1",
@@ -14680,7 +15326,8 @@ window.allHeroesExtra = [
         "attackBonus": "5%",
         "defenseBonus": "5%",
         "healthBonus": "10%",
-        "manaBonus": "5%"
+        "manaBonus": "5%",
+        "family": "knight"
     },
     {
         "name": "Proteus",
@@ -14698,7 +15345,8 @@ window.allHeroesExtra = [
         "baseDefense": 280,
         "baseHealth": 508,
         "specialId": "scar_of_the_depths",
-        "passiveSkills": null
+        "passiveSkills": null,
+        "family": "atlantis"
     },
     {
         "name": "Proteus Costume1",
@@ -14722,7 +15370,8 @@ window.allHeroesExtra = [
         "attackBonus": "3%",
         "defenseBonus": "3%",
         "healthBonus": "6%",
-        "manaBonus": "5%"
+        "manaBonus": "5%",
+        "family": "atlantis"
     },
     {
         "name": "Rigard",
@@ -14740,7 +15389,8 @@ window.allHeroesExtra = [
         "baseDefense": 317,
         "baseHealth": 549,
         "specialId": "purification",
-        "passiveSkills": null
+        "passiveSkills": null,
+        "family": "classic"
     },
     {
         "name": "Rigard Costume1",
@@ -14765,7 +15415,8 @@ window.allHeroesExtra = [
         "attackBonus": "7%",
         "defenseBonus": "7%",
         "healthBonus": "11%",
-        "manaBonus": "5%"
+        "manaBonus": "5%",
+        "family": "classic"
     },
     {
         "name": "Rigard Costume2",
@@ -14790,7 +15441,8 @@ window.allHeroesExtra = [
         "attackBonus": "15%",
         "defenseBonus": "15%",
         "healthBonus": "20%",
-        "manaBonus": "5%"
+        "manaBonus": "5%",
+        "family": "classic"
     },
     {
         "name": "Rigard Toon",
@@ -14817,7 +15469,8 @@ window.allHeroesExtra = [
         "attackBonus": "17%",
         "defenseBonus": "17%",
         "healthBonus": "22%",
-        "manaBonus": "5%"
+        "manaBonus": "5%",
+        "family": "classic"
     },
     {
         "name": "Sabina",
@@ -14835,7 +15488,8 @@ window.allHeroesExtra = [
         "baseDefense": 272,
         "baseHealth": 499,
         "specialId": "fog_of_the_fallen",
-        "passiveSkills": null
+        "passiveSkills": null,
+        "family": "classic"
     },
     {
         "name": "Sabina Costume1",
@@ -14860,7 +15514,8 @@ window.allHeroesExtra = [
         "attackBonus": "7%",
         "defenseBonus": "7%",
         "healthBonus": "11%",
-        "manaBonus": "5%"
+        "manaBonus": "5%",
+        "family": "classic"
     },
     {
         "name": "Sabina Costume2",
@@ -14885,7 +15540,8 @@ window.allHeroesExtra = [
         "attackBonus": "15%",
         "defenseBonus": "15%",
         "healthBonus": "20%",
-        "manaBonus": "5%"
+        "manaBonus": "5%",
+        "family": "classic"
     },
     {
         "name": "Sabina Toon",
@@ -14912,7 +15568,8 @@ window.allHeroesExtra = [
         "attackBonus": "17%",
         "defenseBonus": "17%",
         "healthBonus": "22%",
-        "manaBonus": "5%"
+        "manaBonus": "5%",
+        "family": "classic"
     },
     {
         "name": "Sergei",
@@ -14933,7 +15590,8 @@ window.allHeroesExtra = [
         "specialId": "midnight_moon",
         "passiveSkills": [
             "magic_damage_on_full_charge_to_not_purple"
-        ]
+        ],
+        "family": "magic"
     },
     {
         "name": "Shar'Khai",
@@ -14952,7 +15610,8 @@ window.allHeroesExtra = [
         "specialId": "critical_tactics",
         "passiveSkills": [
             "tales1_extra_special_damage_and_add_stacking_mana_generation"
-        ]
+        ],
+        "family": "tales1_baddies"
     },
     {
         "name": "Shar'Khai Costume1",
@@ -14979,7 +15638,8 @@ window.allHeroesExtra = [
         "attackBonus": "2%",
         "defenseBonus": "2%",
         "healthBonus": "4%",
-        "manaBonus": "1%"
+        "manaBonus": "1%",
+        "family": "tales1_baddies"
     },
     {
         "name": "Shoggo",
@@ -14998,7 +15658,8 @@ window.allHeroesExtra = [
         "baseDefense": 330,
         "baseHealth": 612,
         "specialId": "lantern_of_insanity",
-        "passiveSkills": null
+        "passiveSkills": null,
+        "family": "cultist"
     },
     {
         "name": "Shyombre",
@@ -15021,7 +15682,8 @@ window.allHeroesExtra = [
         "specialId": "shadow_sidestep",
         "passiveSkills": [
             "dodge_enemy_damage_special"
-        ]
+        ],
+        "family": "moths"
     },
     {
         "name": "Stonecleave",
@@ -15042,7 +15704,8 @@ window.allHeroesExtra = [
         "baseDefense": 293,
         "baseHealth": 497,
         "specialId": "dire_ghost",
-        "passiveSkills": null
+        "passiveSkills": null,
+        "family": "helheim"
     },
     {
         "name": "Tiburtus",
@@ -15060,7 +15723,8 @@ window.allHeroesExtra = [
         "baseDefense": 298,
         "baseHealth": 492,
         "specialId": "ramming_pulverizer",
-        "passiveSkills": null
+        "passiveSkills": null,
+        "family": "classic"
     },
     {
         "name": "Tiburtus Costume1",
@@ -15084,7 +15748,8 @@ window.allHeroesExtra = [
         "attackBonus": "7%",
         "defenseBonus": "7%",
         "healthBonus": "11%",
-        "manaBonus": "5%"
+        "manaBonus": "5%",
+        "family": "classic"
     },
     {
         "name": "Tiburtus Costume2",
@@ -15108,7 +15773,8 @@ window.allHeroesExtra = [
         "attackBonus": "15%",
         "defenseBonus": "15%",
         "healthBonus": "20%",
-        "manaBonus": "5%"
+        "manaBonus": "5%",
+        "family": "classic"
     },
     {
         "name": "Tiburtus Toon",
@@ -15135,7 +15801,8 @@ window.allHeroesExtra = [
         "attackBonus": "17%",
         "defenseBonus": "17%",
         "healthBonus": "22%",
-        "manaBonus": "5%"
+        "manaBonus": "5%",
+        "family": "classic"
     },
     {
         "name": "Acidfire",
@@ -15156,7 +15823,8 @@ window.allHeroesExtra = [
         "specialId": "poisonous_mist",
         "passiveSkills": [
             "goblin_damage_and_accuracy_debuff_on_special"
-        ]
+        ],
+        "family": "goblin"
     },
     {
         "name": "Aconia",
@@ -15176,7 +15844,8 @@ window.allHeroesExtra = [
         "specialId": "bleed_inducing_daggers",
         "passiveSkills": [
             "strong_troop_damage_modifier"
-        ]
+        ],
+        "family": "super_elemental"
     },
     {
         "name": "Aeron",
@@ -15197,7 +15866,8 @@ window.allHeroesExtra = [
         "baseDefense": 346,
         "baseHealth": 651,
         "specialId": "nethershield",
-        "passiveSkills": null
+        "passiveSkills": null,
+        "family": "hotm2018"
     },
     {
         "name": "Aeron Costume1",
@@ -15225,7 +15895,8 @@ window.allHeroesExtra = [
         "attackBonus": "28%",
         "defenseBonus": "26%",
         "healthBonus": "45%",
-        "manaBonus": "5%"
+        "manaBonus": "5%",
+        "family": "hotm2018"
     },
     {
         "name": "Agrafena",
@@ -15249,7 +15920,8 @@ window.allHeroesExtra = [
         "specialId": "arcane_shock",
         "passiveSkills": [
             "magic_damage_on_full_charge_to_not_purple"
-        ]
+        ],
+        "family": "magic"
     },
     {
         "name": "Agrafena Costume1",
@@ -15281,7 +15953,8 @@ window.allHeroesExtra = [
         "attackBonus": "57%",
         "defenseBonus": "57%",
         "healthBonus": "57%",
-        "manaBonus": "1%"
+        "manaBonus": "1%",
+        "family": "magic"
     },
     {
         "name": "Akilius",
@@ -15304,7 +15977,8 @@ window.allHeroesExtra = [
         "passiveSkills": [
             "heal_on_own_familiar_death_more",
             "resist_negative_minion_effects"
-        ]
+        ],
+        "family": "hotm2025"
     },
     {
         "name": "Alfrike",
@@ -15323,7 +15997,8 @@ window.allHeroesExtra = [
         "baseDefense": 410,
         "baseHealth": 690,
         "specialId": "cube_of_dark_realm",
-        "passiveSkills": null
+        "passiveSkills": null,
+        "family": "svartalfheim"
     },
     {
         "name": "Alfrike Costume1",
@@ -15348,7 +16023,8 @@ window.allHeroesExtra = [
         "attackBonus": "28%",
         "defenseBonus": "28%",
         "healthBonus": "35%",
-        "manaBonus": "5%"
+        "manaBonus": "5%",
+        "family": "svartalfheim"
     },
     {
         "name": "Amethyst",
@@ -15367,7 +16043,8 @@ window.allHeroesExtra = [
         "baseDefense": 392,
         "baseHealth": 737,
         "specialId": "assassins_in_the_night",
-        "passiveSkills": null
+        "passiveSkills": null,
+        "family": "ninja"
     },
     {
         "name": "Anoushka",
@@ -15390,7 +16067,8 @@ window.allHeroesExtra = [
         "passiveSkills": [
             "heal_on_debuff",
             "resist_accuracy_modifier_debuffs"
-        ]
+        ],
+        "family": "hotm2024"
     },
     {
         "name": "Anubis",
@@ -15411,7 +16089,8 @@ window.allHeroesExtra = [
         "specialId": "mark_of_anubis",
         "passiveSkills": [
             "moon_extra_special_damage_and_dispel_latest_buff"
-        ]
+        ],
+        "family": "moon"
     },
     {
         "name": "Anubis Costume1",
@@ -15441,7 +16120,8 @@ window.allHeroesExtra = [
         "attackBonus": "45%",
         "defenseBonus": "45%",
         "healthBonus": "50%",
-        "manaBonus": "5%"
+        "manaBonus": "5%",
+        "family": "moon"
     },
     {
         "name": "Aramis",
@@ -15463,7 +16143,8 @@ window.allHeroesExtra = [
         "specialId": "charmers_blades",
         "passiveSkills": [
             "damage_all_enemies_on_cover_or_special_damage_received"
-        ]
+        ],
+        "family": "musketeer"
     },
     {
         "name": "Arfanias",
@@ -15486,7 +16167,8 @@ window.allHeroesExtra = [
         "passiveSkills": [
             "resist_health_steal",
             "attack_buff_on_mana_reduction"
-        ]
+        ],
+        "family": "hotm2022"
     },
     {
         "name": "Asketel",
@@ -15505,7 +16187,8 @@ window.allHeroesExtra = [
         "baseDefense": 583,
         "baseHealth": 1050,
         "specialId": "necronomicon_page_13",
-        "passiveSkills": null
+        "passiveSkills": null,
+        "family": "cultist"
     },
     {
         "name": "Bastet",
@@ -15527,7 +16210,8 @@ window.allHeroesExtra = [
         "specialId": "quick_and_nimble",
         "passiveSkills": [
             "moon_extra_special_damage_and_dispel_latest_buff"
-        ]
+        ],
+        "family": "moon"
     },
     {
         "name": "Bastet Costume1",
@@ -15558,7 +16242,8 @@ window.allHeroesExtra = [
         "attackBonus": "45%",
         "defenseBonus": "45%",
         "healthBonus": "50%",
-        "manaBonus": "5%"
+        "manaBonus": "5%",
+        "family": "moon"
     },
     {
         "name": "Becky",
@@ -15583,7 +16268,8 @@ window.allHeroesExtra = [
         "passiveSkills": [
             "magic_mana_regen_stack_on_special",
             "magic_heal_on_full_charge_to_not_green"
-        ]
+        ],
+        "family": "magic"
     },
     {
         "name": "Belladonna",
@@ -15605,7 +16291,8 @@ window.allHeroesExtra = [
         "specialId": "mystical_concerto",
         "passiveSkills": [
             "mana_generation_modifier_all_enemies_stronger"
-        ]
+        ],
+        "family": "bard"
     },
     {
         "name": "Bera",
@@ -15624,7 +16311,8 @@ window.allHeroesExtra = [
         "baseDefense": 364,
         "baseHealth": 665,
         "specialId": "disir_of_dusk",
-        "passiveSkills": null
+        "passiveSkills": null,
+        "family": "vanaheim"
     },
     {
         "name": "Bera Costume1",
@@ -15649,7 +16337,8 @@ window.allHeroesExtra = [
         "attackBonus": "28%",
         "defenseBonus": "28%",
         "healthBonus": "35%",
-        "manaBonus": "5%"
+        "manaBonus": "5%",
+        "family": "vanaheim"
     },
     {
         "name": "Boss Wolf",
@@ -15668,7 +16357,8 @@ window.allHeroesExtra = [
         "baseDefense": 401,
         "baseHealth": 740,
         "specialId": "unstoppable_growl",
-        "passiveSkills": null
+        "passiveSkills": null,
+        "family": "fable"
     },
     {
         "name": "Carta",
@@ -15691,7 +16381,8 @@ window.allHeroesExtra = [
         "passiveSkills": [
             "repair_core",
             "resist_special_blocking"
-        ]
+        ],
+        "family": "construct"
     },
     {
         "name": "Cecilia",
@@ -15712,7 +16403,8 @@ window.allHeroesExtra = [
         "specialId": "aura_of_twilight",
         "passiveSkills": [
             "heal_on_buff_alliance_quest_family"
-        ]
+        ],
+        "family": "stag"
     },
     {
         "name": "Cennius",
@@ -15734,7 +16426,8 @@ window.allHeroesExtra = [
         "specialId": "blade_wings",
         "passiveSkills": [
             "mana_generation_modifier_all_enemies_stronger"
-        ]
+        ],
+        "family": "owl"
     },
     {
         "name": "Chakkoszrot",
@@ -15757,7 +16450,8 @@ window.allHeroesExtra = [
         "passiveSkills": [
             "mana_gen_on_debuff",
             "resist_direct_mana_reductions"
-        ]
+        ],
+        "family": "hotm2021"
     },
     {
         "name": "Charon",
@@ -15779,7 +16473,8 @@ window.allHeroesExtra = [
         "passiveSkills": [
             "resist_all_defense_debuffs",
             "reduce_minion_health"
-        ]
+        ],
+        "family": "styx"
     },
     {
         "name": "Clarissa",
@@ -15801,7 +16496,8 @@ window.allHeroesExtra = [
         "specialId": "miasma_mace",
         "passiveSkills": [
             "resist_poison"
-        ]
+        ],
+        "family": "hotm2020"
     },
     {
         "name": "Dark Lord",
@@ -15823,7 +16519,8 @@ window.allHeroesExtra = [
         "baseDefense": 364,
         "baseHealth": 659,
         "specialId": "doomstrike",
-        "passiveSkills": null
+        "passiveSkills": null,
+        "family": "villains"
     },
     {
         "name": "Dark Lord Costume1",
@@ -15853,7 +16550,8 @@ window.allHeroesExtra = [
         "attackBonus": "57%",
         "defenseBonus": "57%",
         "healthBonus": "62%",
-        "manaBonus": "5%"
+        "manaBonus": "5%",
+        "family": "villains"
     },
     {
         "name": "Darkbeat",
@@ -15875,7 +16573,8 @@ window.allHeroesExtra = [
         "specialId": "struck_by_thunder",
         "passiveSkills": [
             "revival_chance_modifier_all_enemies"
-        ]
+        ],
+        "family": "bard"
     },
     {
         "name": "Darkfeather",
@@ -15896,7 +16595,8 @@ window.allHeroesExtra = [
         "specialId": "the_eagles_blessing",
         "passiveSkills": [
             "goblin_damage_and_accuracy_debuff_on_special"
-        ]
+        ],
+        "family": "goblin"
     },
     {
         "name": "Deadboot",
@@ -15918,7 +16618,8 @@ window.allHeroesExtra = [
         "specialId": "unhallowed_spirits",
         "passiveSkills": [
             "goblin_damage_and_accuracy_debuff_on_special"
-        ]
+        ],
+        "family": "goblin"
     },
     {
         "name": "Demilune",
@@ -15942,7 +16643,8 @@ window.allHeroesExtra = [
         "passiveSkills": [
             "share_received_damage",
             "resist_poison"
-        ]
+        ],
+        "family": "astral_elves"
     },
     {
         "name": "Diaochan",
@@ -15961,7 +16663,8 @@ window.allHeroesExtra = [
         "baseDefense": 387,
         "baseHealth": 712,
         "specialId": "ladys_charm",
-        "passiveSkills": null
+        "passiveSkills": null,
+        "family": "kingdom"
     },
     {
         "name": "Diaochan Costume1",
@@ -15988,7 +16691,8 @@ window.allHeroesExtra = [
         "attackBonus": "35%",
         "defenseBonus": "35%",
         "healthBonus": "45%",
-        "manaBonus": "5%"
+        "manaBonus": "5%",
+        "family": "kingdom"
     },
     {
         "name": "Domitia",
@@ -16007,7 +16711,8 @@ window.allHeroesExtra = [
         "baseDefense": 329,
         "baseHealth": 655,
         "specialId": "shock_bolt",
-        "passiveSkills": null
+        "passiveSkills": null,
+        "family": "classic"
     },
     {
         "name": "Domitia Costume1",
@@ -16032,7 +16737,8 @@ window.allHeroesExtra = [
         "attackBonus": "13%",
         "defenseBonus": "13%",
         "healthBonus": "20%",
-        "manaBonus": "5%"
+        "manaBonus": "5%",
+        "family": "classic"
     },
     {
         "name": "Domitia Costume2",
@@ -16057,7 +16763,8 @@ window.allHeroesExtra = [
         "attackBonus": "29%",
         "defenseBonus": "29%",
         "healthBonus": "44%",
-        "manaBonus": "5%"
+        "manaBonus": "5%",
+        "family": "classic"
     },
     {
         "name": "Domitia Toon",
@@ -16085,7 +16792,8 @@ window.allHeroesExtra = [
         "attackBonus": "55%",
         "defenseBonus": "55%",
         "healthBonus": "70%",
-        "manaBonus": "5%"
+        "manaBonus": "5%",
+        "family": "classic"
     },
     {
         "name": "Domitia Glass",
@@ -16113,7 +16821,8 @@ window.allHeroesExtra = [
         "attackBonus": "75%",
         "defenseBonus": "75%",
         "healthBonus": "78%",
-        "manaBonus": "5%"
+        "manaBonus": "5%",
+        "family": "classic"
     },
     {
         "name": "Dr Moreau",
@@ -16133,7 +16842,8 @@ window.allHeroesExtra = [
         "specialId": "blinding_wisdom",
         "passiveSkills": [
             "special_damage_reduction"
-        ]
+        ],
+        "family": "abyss"
     },
     {
         "name": "Dr Moreau Costume1",
@@ -16161,7 +16871,8 @@ window.allHeroesExtra = [
         "attackBonus": "30%",
         "defenseBonus": "30%",
         "healthBonus": "35%",
-        "manaBonus": "5%"
+        "manaBonus": "5%",
+        "family": "abyss"
     },
     {
         "name": "Dreadstar",
@@ -16186,7 +16897,8 @@ window.allHeroesExtra = [
         "passiveSkills": [
             "share_received_damage",
             "resist_poison"
-        ]
+        ],
+        "family": "astral_elves"
     },
     {
         "name": "Dubhan",
@@ -16209,7 +16921,8 @@ window.allHeroesExtra = [
         "passiveSkills": [
             "hunters_mark_on_special",
             "special_damage_reduction_monster_hunters"
-        ]
+        ],
+        "family": "plains_hunter"
     },
     {
         "name": "Dularfulr",
@@ -16234,7 +16947,8 @@ window.allHeroesExtra = [
         "passiveSkills": [
             "molten_core",
             "resist_burn_with_health_boost_and_mana"
-        ]
+        ],
+        "family": "nidavellir"
     },
     {
         "name": "Eros",
@@ -16254,7 +16968,8 @@ window.allHeroesExtra = [
         "specialId": "arrow_of_desire",
         "passiveSkills": [
             "resist_special_blocking"
-        ]
+        ],
+        "family": "cupid"
     },
     {
         "name": "Experience Mimic Dark",
@@ -16280,7 +16995,8 @@ window.allHeroesExtra = [
         "passiveSkills": [
             "mimic_training_hero_purple",
             "never_miss_special"
-        ]
+        ],
+        "family": "mimic"
     },
     {
         "name": "Farrah",
@@ -16301,7 +17017,8 @@ window.allHeroesExtra = [
         "specialId": "piercing_falcon",
         "passiveSkills": [
             "strong_troop_damage_modifier"
-        ]
+        ],
+        "family": "super_elemental"
     },
     {
         "name": "Freya",
@@ -16320,7 +17037,8 @@ window.allHeroesExtra = [
         "baseDefense": 361,
         "baseHealth": 650,
         "specialId": "ravens_vigil",
-        "passiveSkills": null
+        "passiveSkills": null,
+        "family": "vanaheim"
     },
     {
         "name": "Freya Costume1",
@@ -16345,7 +17063,8 @@ window.allHeroesExtra = [
         "attackBonus": "28%",
         "defenseBonus": "28%",
         "healthBonus": "35%",
-        "manaBonus": "5%"
+        "manaBonus": "5%",
+        "family": "vanaheim"
     },
     {
         "name": "Gastille",
@@ -16365,7 +17084,8 @@ window.allHeroesExtra = [
         "specialId": "elemental_corruption",
         "passiveSkills": [
             "strong_troop_damage_modifier"
-        ]
+        ],
+        "family": "super_elemental"
     },
     {
         "name": "Gongoth",
@@ -16388,7 +17108,8 @@ window.allHeroesExtra = [
             "never_miss_special",
             "resist_negative_minion_and_mega_minion_effects",
             "bypass_minions_and_mega_minions"
-        ]
+        ],
+        "family": "astral_dwarfs"
     },
     {
         "name": "Gooldron",
@@ -16411,7 +17132,8 @@ window.allHeroesExtra = [
         "passiveSkills": [
             "summon_slime_minion_on_damage_purple",
             "summon_slime_minion_on_death_purple"
-        ]
+        ],
+        "family": "slime"
     },
     {
         "name": "Goretooth",
@@ -16433,7 +17155,8 @@ window.allHeroesExtra = [
         "passiveSkills": [
             "hunters_mark_on_special",
             "monster_hunter_reallocate_debuff_or_heal"
-        ]
+        ],
+        "family": "abyss_hunter"
     },
     {
         "name": "Goseck",
@@ -16454,7 +17177,8 @@ window.allHeroesExtra = [
         "specialId": "revengeful_smite",
         "passiveSkills": [
             "gargoyle_stone"
-        ]
+        ],
+        "family": "gargoyle"
     },
     {
         "name": "Griffex",
@@ -16474,7 +17198,8 @@ window.allHeroesExtra = [
         "specialId": "mana_manipulation",
         "passiveSkills": [
             "strong_troop_damage_modifier"
-        ]
+        ],
+        "family": "super_elemental"
     },
     {
         "name": "Grimble",
@@ -16496,7 +17221,8 @@ window.allHeroesExtra = [
         "specialId": "gnomish_carnage",
         "passiveSkills": [
             "resist_accuracy_modifier_debuffs"
-        ]
+        ],
+        "family": "hotm2019"
     },
     {
         "name": "Guardian Panther",
@@ -16515,7 +17241,8 @@ window.allHeroesExtra = [
         "baseDefense": 306,
         "baseHealth": 655,
         "specialId": "eye_of_panther",
-        "passiveSkills": null
+        "passiveSkills": null,
+        "family": "guardian"
     },
     {
         "name": "Guardian Panther Costume1",
@@ -16540,7 +17267,8 @@ window.allHeroesExtra = [
         "attackBonus": "27%",
         "defenseBonus": "25%",
         "healthBonus": "40%",
-        "manaBonus": "5%"
+        "manaBonus": "5%",
+        "family": "guardian"
     },
     {
         "name": "Gunktus",
@@ -16562,7 +17290,8 @@ window.allHeroesExtra = [
         "passiveSkills": [
             "summon_slime_minion_on_damage_purple",
             "summon_slime_minion_on_death_purple"
-        ]
+        ],
+        "family": "slime"
     },
     {
         "name": "Hannah",
@@ -16584,7 +17313,8 @@ window.allHeroesExtra = [
         "specialId": "corrupting_idol",
         "passiveSkills": [
             "start_battle_with_mana"
-        ]
+        ],
+        "family": "abyss"
     },
     {
         "name": "Hannah Costume1",
@@ -16614,7 +17344,8 @@ window.allHeroesExtra = [
         "attackBonus": "30%",
         "defenseBonus": "30%",
         "healthBonus": "35%",
-        "manaBonus": "5%"
+        "manaBonus": "5%",
+        "family": "abyss"
     },
     {
         "name": "Hawthorn",
@@ -16638,7 +17369,8 @@ window.allHeroesExtra = [
         "passiveSkills": [
             "hunters_mark_on_special",
             "special_damage_reduction_monster_hunters"
-        ]
+        ],
+        "family": "plains_hunter"
     },
     {
         "name": "Hel",
@@ -16659,7 +17391,8 @@ window.allHeroesExtra = [
         "baseDefense": 336,
         "baseHealth": 645,
         "specialId": "crush_of_hel",
-        "passiveSkills": null
+        "passiveSkills": null,
+        "family": "hotm2017"
     },
     {
         "name": "Hel Costume1",
@@ -16689,7 +17422,8 @@ window.allHeroesExtra = [
         "attackBonus": "28%",
         "defenseBonus": "26%",
         "healthBonus": "45%",
-        "manaBonus": "5%"
+        "manaBonus": "5%",
+        "family": "hotm2017"
     },
     {
         "name": "Hreidmarr",
@@ -16717,7 +17451,8 @@ window.allHeroesExtra = [
         "passiveSkills": [
             "molten_core",
             "resist_burn_with_health_boost_and_mana"
-        ]
+        ],
+        "family": "nidavellir"
     },
     {
         "name": "Hulda",
@@ -16739,7 +17474,8 @@ window.allHeroesExtra = [
         "specialId": "pet_larva",
         "passiveSkills": [
             "increase_buff_duration"
-        ]
+        ],
+        "family": "abyss"
     },
     {
         "name": "Hulda Costume1",
@@ -16769,7 +17505,8 @@ window.allHeroesExtra = [
         "attackBonus": "30%",
         "defenseBonus": "30%",
         "healthBonus": "35%",
-        "manaBonus": "5%"
+        "manaBonus": "5%",
+        "family": "abyss"
     },
     {
         "name": "Hunter",
@@ -16790,7 +17527,8 @@ window.allHeroesExtra = [
         "specialId": "merciless_execution",
         "passiveSkills": [
             "insanity_damage_reduction"
-        ]
+        ],
+        "family": "investigator"
     },
     {
         "name": "Hurricane",
@@ -16815,7 +17553,8 @@ window.allHeroesExtra = [
         "passiveSkills": [
             "hunters_mark_on_special",
             "attack_modifier_on_special"
-        ]
+        ],
+        "family": "jungle_hunter"
     },
     {
         "name": "Jabberwock",
@@ -16833,7 +17572,8 @@ window.allHeroesExtra = [
         "baseDefense": 363,
         "baseHealth": 645,
         "specialId": "sideswipe",
-        "passiveSkills": null
+        "passiveSkills": null,
+        "family": "wonderland"
     },
     {
         "name": "Jabberwock Costume1",
@@ -16860,7 +17600,8 @@ window.allHeroesExtra = [
         "attackBonus": "27%",
         "defenseBonus": "25%",
         "healthBonus": "40%",
-        "manaBonus": "5%"
+        "manaBonus": "5%",
+        "family": "wonderland"
     },
     {
         "name": "Jett",
@@ -16887,7 +17628,8 @@ window.allHeroesExtra = [
         "passiveSkills": [
             "magic_mana_regen_stack_on_special",
             "magic_heal_on_full_charge_to_not_green"
-        ]
+        ],
+        "family": "magic"
     },
     {
         "name": "Kageburado",
@@ -16906,7 +17648,8 @@ window.allHeroesExtra = [
         "baseDefense": 347,
         "baseHealth": 606,
         "specialId": "break_strike",
-        "passiveSkills": null
+        "passiveSkills": null,
+        "family": "japanese"
     },
     {
         "name": "Kageburado Costume1",
@@ -16932,7 +17675,8 @@ window.allHeroesExtra = [
         "attackBonus": "25%",
         "defenseBonus": "25%",
         "healthBonus": "30%",
-        "manaBonus": "5%"
+        "manaBonus": "5%",
+        "family": "japanese"
     },
     {
         "name": "Karnov",
@@ -16952,7 +17696,8 @@ window.allHeroesExtra = [
         "baseDefense": 362,
         "baseHealth": 701,
         "specialId": "total_beatdown",
-        "passiveSkills": null
+        "passiveSkills": null,
+        "family": "villains"
     },
     {
         "name": "Karnov Costume1",
@@ -16982,7 +17727,8 @@ window.allHeroesExtra = [
         "attackBonus": "57%",
         "defenseBonus": "57%",
         "healthBonus": "62%",
-        "manaBonus": "5%"
+        "manaBonus": "5%",
+        "family": "villains"
     },
     {
         "name": "Kemeny",
@@ -17003,7 +17749,8 @@ window.allHeroesExtra = [
         "specialId": "cry_for_absolution",
         "passiveSkills": [
             "gargoyle_stone"
-        ]
+        ],
+        "family": "gargoyle"
     },
     {
         "name": "Khepri",
@@ -17024,7 +17771,8 @@ window.allHeroesExtra = [
         "specialId": "scarab_bombardment",
         "passiveSkills": [
             "moon_extra_special_damage_and_mana_regen_debuff"
-        ]
+        ],
+        "family": "moon"
     },
     {
         "name": "Khepri Costume1",
@@ -17054,7 +17802,8 @@ window.allHeroesExtra = [
         "attackBonus": "45%",
         "defenseBonus": "45%",
         "healthBonus": "50%",
-        "manaBonus": "5%"
+        "manaBonus": "5%",
+        "family": "moon"
     },
     {
         "name": "Khiona",
@@ -17073,7 +17822,8 @@ window.allHeroesExtra = [
         "baseDefense": 344,
         "baseHealth": 649,
         "specialId": "bleeding_edge",
-        "passiveSkills": null
+        "passiveSkills": null,
+        "family": "hotm2018"
     },
     {
         "name": "Khiona Costume1",
@@ -17101,7 +17851,8 @@ window.allHeroesExtra = [
         "attackBonus": "28%",
         "defenseBonus": "26%",
         "healthBonus": "45%",
-        "manaBonus": "5%"
+        "manaBonus": "5%",
+        "family": "hotm2018"
     },
     {
         "name": "Khonshu",
@@ -17121,7 +17872,8 @@ window.allHeroesExtra = [
         "specialId": "midnight_strike",
         "passiveSkills": [
             "moon_extra_special_damage_and_mana_regen_debuff"
-        ]
+        ],
+        "family": "moon"
     },
     {
         "name": "Khonshu Costume1",
@@ -17150,7 +17902,8 @@ window.allHeroesExtra = [
         "attackBonus": "45%",
         "defenseBonus": "45%",
         "healthBonus": "50%",
-        "manaBonus": "5%"
+        "manaBonus": "5%",
+        "family": "moon"
     },
     {
         "name": "Killhare",
@@ -17168,7 +17921,8 @@ window.allHeroesExtra = [
         "baseDefense": 367,
         "baseHealth": 671,
         "specialId": "reckless_swing",
-        "passiveSkills": null
+        "passiveSkills": null,
+        "family": "easter"
     },
     {
         "name": "Killhare Costume1",
@@ -17192,7 +17946,8 @@ window.allHeroesExtra = [
         "attackBonus": "22%",
         "defenseBonus": "20%",
         "healthBonus": "25%",
-        "manaBonus": "5%"
+        "manaBonus": "5%",
+        "family": "easter"
     },
     {
         "name": "Knave of Hearts",
@@ -17212,7 +17967,8 @@ window.allHeroesExtra = [
         "baseDefense": 485,
         "baseHealth": 885,
         "specialId": "stolen_tarts",
-        "passiveSkills": null
+        "passiveSkills": null,
+        "family": "wonderland"
     },
     {
         "name": "Knightus",
@@ -17237,7 +17993,8 @@ window.allHeroesExtra = [
         "passiveSkills": [
             "summon_slime_minion_on_damage_purple",
             "summon_slime_minion_on_death_purple"
-        ]
+        ],
+        "family": "slime"
     },
     {
         "name": "Kunchen",
@@ -17259,7 +18016,8 @@ window.allHeroesExtra = [
         "specialId": "power_of_ajna",
         "passiveSkills": [
             "resist_defense_modifier_debuffs"
-        ]
+        ],
+        "family": "hotm2019"
     },
     {
         "name": "Lepiota",
@@ -17284,7 +18042,8 @@ window.allHeroesExtra = [
         "specialId": "abyssal_incantation",
         "passiveSkills": [
             "special_damage_reduction"
-        ]
+        ],
+        "family": "abyss"
     },
     {
         "name": "Lepiota Costume1",
@@ -17317,7 +18076,8 @@ window.allHeroesExtra = [
         "attackBonus": "30%",
         "defenseBonus": "30%",
         "healthBonus": "35%",
-        "manaBonus": "5%"
+        "manaBonus": "5%",
+        "family": "abyss"
     },
     {
         "name": "Louhi",
@@ -17338,7 +18098,8 @@ window.allHeroesExtra = [
         "specialId": "feather_tempest",
         "passiveSkills": [
             "heal_mana_on_low_health_once"
-        ]
+        ],
+        "family": "kalevala"
     },
     {
         "name": "Lu Bu",
@@ -17358,7 +18119,8 @@ window.allHeroesExtra = [
         "baseDefense": 389,
         "baseHealth": 731,
         "specialId": "disrupting_charge",
-        "passiveSkills": null
+        "passiveSkills": null,
+        "family": "kingdom"
     },
     {
         "name": "Lu Bu Costume1",
@@ -17386,7 +18148,8 @@ window.allHeroesExtra = [
         "attackBonus": "35%",
         "defenseBonus": "35%",
         "healthBonus": "45%",
-        "manaBonus": "5%"
+        "manaBonus": "5%",
+        "family": "kingdom"
     },
     {
         "name": "Lucinda",
@@ -17408,7 +18171,8 @@ window.allHeroesExtra = [
         "specialId": "might_of_excalibroom",
         "passiveSkills": [
             "halloween_steal_buff_or_deal_damage"
-        ]
+        ],
+        "family": "halloween"
     },
     {
         "name": "Ludwig",
@@ -17427,7 +18191,8 @@ window.allHeroesExtra = [
         "baseDefense": 410,
         "baseHealth": 700,
         "specialId": "fullmetal_pelt",
-        "passiveSkills": null
+        "passiveSkills": null,
+        "family": "wolf"
     },
     {
         "name": "Luna",
@@ -17449,7 +18214,8 @@ window.allHeroesExtra = [
         "passiveSkills": [
             "heal_and_add_mana_on_ally_minion",
             "damage_enemies_on_enemy_parasite"
-        ]
+        ],
+        "family": "mighty_pet"
     },
     {
         "name": "Madame Giry",
@@ -17473,7 +18239,8 @@ window.allHeroesExtra = [
         "passiveSkills": [
             "heal_on_expired_or_cleared_debuff_slow",
             "resist_attack_modifier_debuffs"
-        ]
+        ],
+        "family": "opera"
     },
     {
         "name": "Maisie",
@@ -17496,7 +18263,8 @@ window.allHeroesExtra = [
         "passiveSkills": [
             "remove_wither_from_allies",
             "resist_direct_mana_reductions"
-        ]
+        ],
+        "family": "garrison"
     },
     {
         "name": "Malicna",
@@ -17520,7 +18288,8 @@ window.allHeroesExtra = [
         "passiveSkills": [
             "holy_defense_on_mana_reduction",
             "resist_health_steal"
-        ]
+        ],
+        "family": "hotm2021"
     },
     {
         "name": "Marie-Therese",
@@ -17540,7 +18309,8 @@ window.allHeroesExtra = [
         "baseDefense": 351,
         "baseHealth": 632,
         "specialId": "zombie_curse",
-        "passiveSkills": null
+        "passiveSkills": null,
+        "family": "pirate"
     },
     {
         "name": "Marie-Therese Costume1",
@@ -17569,7 +18339,8 @@ window.allHeroesExtra = [
         "attackBonus": "27%",
         "defenseBonus": "25%",
         "healthBonus": "40%",
-        "manaBonus": "5%"
+        "manaBonus": "5%",
+        "family": "pirate"
     },
     {
         "name": "Maud",
@@ -17593,7 +18364,8 @@ window.allHeroesExtra = [
             "resist_negative_attack_modifiers_including_wither",
             "resist_insanity",
             "minion_and_mega_minion_accuracy_modifier"
-        ]
+        ],
+        "family": "faun"
     },
     {
         "name": "Medea",
@@ -17614,7 +18386,8 @@ window.allHeroesExtra = [
         "specialId": "shatter_psyche",
         "passiveSkills": [
             "tales1_extra_special_damage_and_add_stacking_mana_generation"
-        ]
+        ],
+        "family": "tales1_baddies"
     },
     {
         "name": "Medea Costume1",
@@ -17643,7 +18416,8 @@ window.allHeroesExtra = [
         "attackBonus": "28%",
         "defenseBonus": "28%",
         "healthBonus": "28%",
-        "manaBonus": "5%"
+        "manaBonus": "5%",
+        "family": "tales1_baddies"
     },
     {
         "name": "Melancholia",
@@ -17666,7 +18440,8 @@ window.allHeroesExtra = [
         "specialId": "grim_awakening",
         "passiveSkills": [
             "insanity_damage_reduction"
-        ]
+        ],
+        "family": "cultist"
     },
     {
         "name": "Mok-Arr",
@@ -17685,7 +18460,8 @@ window.allHeroesExtra = [
         "baseDefense": 334,
         "baseHealth": 680,
         "specialId": "black_tide",
-        "passiveSkills": null
+        "passiveSkills": null,
+        "family": "lagoon"
     },
     {
         "name": "Mok-Arr Costume1",
@@ -17712,7 +18488,8 @@ window.allHeroesExtra = [
         "attackBonus": "25%",
         "defenseBonus": "25%",
         "healthBonus": "30%",
-        "manaBonus": "5%"
+        "manaBonus": "5%",
+        "family": "lagoon"
     },
     {
         "name": "Morax",
@@ -17736,7 +18513,8 @@ window.allHeroesExtra = [
         "passiveSkills": [
             "mana_on_enemy_health_boost_special",
             "resist_mana_generation_modifier_debuffs"
-        ]
+        ],
+        "family": "hotm2022"
     },
     {
         "name": "Mortewitch",
@@ -17761,7 +18539,8 @@ window.allHeroesExtra = [
         "specialId": "hungering_grave",
         "passiveSkills": [
             "dodge_enemy_damage_special"
-        ]
+        ],
+        "family": "moths"
     },
     {
         "name": "Mortimer",
@@ -17783,7 +18562,8 @@ window.allHeroesExtra = [
         "passiveSkills": [
             "resist_water",
             "underwater_on_special_beach"
-        ]
+        ],
+        "family": "beachparty"
     },
     {
         "name": "Myztero",
@@ -17802,7 +18582,8 @@ window.allHeroesExtra = [
         "specialId": "absordium_deflectors",
         "passiveSkills": [
             "absorb_major_debuffs"
-        ]
+        ],
+        "family": "mystery"
     },
     {
         "name": "Narcisa",
@@ -17823,7 +18604,8 @@ window.allHeroesExtra = [
         "specialId": "song_of_calamity",
         "passiveSkills": [
             "mana_generation_modifier_all_enemies_stronger"
-        ]
+        ],
+        "family": "bard"
     },
     {
         "name": "Nyx",
@@ -17845,7 +18627,8 @@ window.allHeroesExtra = [
         "passiveSkills": [
             "resist_all_defense_debuffs",
             "reduce_minion_health"
-        ]
+        ],
+        "family": "styx"
     },
     {
         "name": "Obakan",
@@ -17863,7 +18646,8 @@ window.allHeroesExtra = [
         "baseDefense": 310,
         "baseHealth": 645,
         "specialId": "cleave_counter",
-        "passiveSkills": null
+        "passiveSkills": null,
+        "family": "classic"
     },
     {
         "name": "Obakan Costume1",
@@ -17887,7 +18671,8 @@ window.allHeroesExtra = [
         "attackBonus": "13%",
         "defenseBonus": "13%",
         "healthBonus": "20%",
-        "manaBonus": "5%"
+        "manaBonus": "5%",
+        "family": "classic"
     },
     {
         "name": "Obakan Costume2",
@@ -17912,7 +18697,8 @@ window.allHeroesExtra = [
         "attackBonus": "29%",
         "defenseBonus": "29%",
         "healthBonus": "44%",
-        "manaBonus": "5%"
+        "manaBonus": "5%",
+        "family": "classic"
     },
     {
         "name": "Obakan Toon",
@@ -17939,7 +18725,8 @@ window.allHeroesExtra = [
         "attackBonus": "55%",
         "defenseBonus": "55%",
         "healthBonus": "70%",
-        "manaBonus": "5%"
+        "manaBonus": "5%",
+        "family": "classic"
     },
     {
         "name": "Obakan Glass",
@@ -17966,7 +18753,8 @@ window.allHeroesExtra = [
         "attackBonus": "75%",
         "defenseBonus": "75%",
         "healthBonus": "78%",
-        "manaBonus": "5%"
+        "manaBonus": "5%",
+        "family": "classic"
     },
     {
         "name": "Odile",
@@ -17990,7 +18778,8 @@ window.allHeroesExtra = [
         "passiveSkills": [
             "heal_on_expired_or_cleared_debuff_fast",
             "resist_defense_modifier_debuffs"
-        ]
+        ],
+        "family": "opera"
     },
     {
         "name": "Ommodus",
@@ -18013,7 +18802,8 @@ window.allHeroesExtra = [
         "specialId": "poleaxe_of_the_law",
         "passiveSkills": [
             "mana_generation_modifier_all_enemies_stronger"
-        ]
+        ],
+        "family": "owl"
     },
     {
         "name": "Onyx",
@@ -18034,7 +18824,8 @@ window.allHeroesExtra = [
         "baseDefense": 343,
         "baseHealth": 676,
         "specialId": "crippling_claws",
-        "passiveSkills": null
+        "passiveSkills": null,
+        "family": "ninja"
     },
     {
         "name": "Peppermint",
@@ -18054,7 +18845,8 @@ window.allHeroesExtra = [
         "baseDefense": 406,
         "baseHealth": 709,
         "specialId": "putrid_perfume",
-        "passiveSkills": null
+        "passiveSkills": null,
+        "family": "winter"
     },
     {
         "name": "Phantom of the Opera",
@@ -18079,7 +18871,8 @@ window.allHeroesExtra = [
         "passiveSkills": [
             "heal_on_expired_or_cleared_debuff",
             "resist_attack_modifier_debuffs"
-        ]
+        ],
+        "family": "opera"
     },
     {
         "name": "Phorcys",
@@ -18102,7 +18895,8 @@ window.allHeroesExtra = [
         "specialId": "rally_of_the_deep",
         "passiveSkills": [
             "tales1_extra_special_damage_and_add_critical"
-        ]
+        ],
+        "family": "tales1_goodies"
     },
     {
         "name": "Phorcys Costume1",
@@ -18133,7 +18927,8 @@ window.allHeroesExtra = [
         "attackBonus": "28%",
         "defenseBonus": "28%",
         "healthBonus": "28%",
-        "manaBonus": "5%"
+        "manaBonus": "5%",
+        "family": "tales1_goodies"
     },
     {
         "name": "Phthonus",
@@ -18154,7 +18949,8 @@ window.allHeroesExtra = [
         "specialId": "potions_of_covetous_desire",
         "passiveSkills": [
             "resist_special_blocking"
-        ]
+        ],
+        "family": "cupid"
     },
     {
         "name": "Quartz",
@@ -18173,7 +18969,8 @@ window.allHeroesExtra = [
         "baseDefense": 376,
         "baseHealth": 741,
         "specialId": "incite_ki",
-        "passiveSkills": null
+        "passiveSkills": null,
+        "family": "ninja"
     },
     {
         "name": "Quintus",
@@ -18190,7 +18987,8 @@ window.allHeroesExtra = [
         "baseDefense": 309,
         "baseHealth": 670,
         "specialId": "thunderstrike",
-        "passiveSkills": null
+        "passiveSkills": null,
+        "family": "classic"
     },
     {
         "name": "Quintus Costume1",
@@ -18214,7 +19012,8 @@ window.allHeroesExtra = [
         "attackBonus": "13%",
         "defenseBonus": "13%",
         "healthBonus": "20%",
-        "manaBonus": "5%"
+        "manaBonus": "5%",
+        "family": "classic"
     },
     {
         "name": "Quintus Costume2",
@@ -18238,7 +19037,8 @@ window.allHeroesExtra = [
         "attackBonus": "29%",
         "defenseBonus": "29%",
         "healthBonus": "44%",
-        "manaBonus": "5%"
+        "manaBonus": "5%",
+        "family": "classic"
     },
     {
         "name": "Quintus Toon",
@@ -18264,7 +19064,8 @@ window.allHeroesExtra = [
         "attackBonus": "55%",
         "defenseBonus": "55%",
         "healthBonus": "70%",
-        "manaBonus": "5%"
+        "manaBonus": "5%",
+        "family": "classic"
     },
     {
         "name": "Ramona",
@@ -18287,7 +19088,8 @@ window.allHeroesExtra = [
             "mana_on_ally_fiend_summon_ramona",
             "health_boost_on_ally_fiend_summon_ramona",
             "mana_gen_on_debuff"
-        ]
+        ],
+        "family": "champions"
     },
     {
         "name": "Rayne",
@@ -18305,7 +19107,8 @@ window.allHeroesExtra = [
         "baseDefense": 379,
         "baseHealth": 672,
         "specialId": "plague_blade",
-        "passiveSkills": null
+        "passiveSkills": null,
+        "family": "raven"
     },
     {
         "name": "Rochefort",
@@ -18325,7 +19128,8 @@ window.allHeroesExtra = [
         "specialId": "dishonorable_ploy",
         "passiveSkills": [
             "damage_all_enemies_on_cover_or_special_damage_received"
-        ]
+        ],
+        "family": "musketeer"
     },
     {
         "name": "Salmon Loki",
@@ -18343,7 +19147,8 @@ window.allHeroesExtra = [
         "baseDefense": 365,
         "baseHealth": 668,
         "specialId": "tricksters_transformation",
-        "passiveSkills": null
+        "passiveSkills": null,
+        "family": "niflheim"
     },
     {
         "name": "Salmon Loki Costume1",
@@ -18367,7 +19172,8 @@ window.allHeroesExtra = [
         "attackBonus": "28%",
         "defenseBonus": "28%",
         "healthBonus": "35%",
-        "manaBonus": "5%"
+        "manaBonus": "5%",
+        "family": "niflheim"
     },
     {
         "name": "Sargasso",
@@ -18385,7 +19191,8 @@ window.allHeroesExtra = [
         "baseDefense": 344,
         "baseHealth": 648,
         "specialId": "curse_of_sargasso",
-        "passiveSkills": null
+        "passiveSkills": null,
+        "family": "pirate"
     },
     {
         "name": "Sargasso Costume1",
@@ -18412,7 +19219,8 @@ window.allHeroesExtra = [
         "attackBonus": "27%",
         "defenseBonus": "25%",
         "healthBonus": "40%",
-        "manaBonus": "5%"
+        "manaBonus": "5%",
+        "family": "pirate"
     },
     {
         "name": "Sartana",
@@ -18430,7 +19238,8 @@ window.allHeroesExtra = [
         "baseDefense": 340,
         "baseHealth": 671,
         "specialId": "deathstrike",
-        "passiveSkills": null
+        "passiveSkills": null,
+        "family": "classic"
     },
     {
         "name": "Sartana Costume1",
@@ -18453,7 +19262,8 @@ window.allHeroesExtra = [
         "attackBonus": "13%",
         "defenseBonus": "13%",
         "healthBonus": "20%",
-        "manaBonus": "5%"
+        "manaBonus": "5%",
+        "family": "classic"
     },
     {
         "name": "Sartana Costume2",
@@ -18477,7 +19287,8 @@ window.allHeroesExtra = [
         "attackBonus": "29%",
         "defenseBonus": "29%",
         "healthBonus": "44%",
-        "manaBonus": "5%"
+        "manaBonus": "5%",
+        "family": "classic"
     },
     {
         "name": "Sartana Toon",
@@ -18504,7 +19315,8 @@ window.allHeroesExtra = [
         "attackBonus": "55%",
         "defenseBonus": "55%",
         "healthBonus": "70%",
-        "manaBonus": "5%"
+        "manaBonus": "5%",
+        "family": "classic"
     },
     {
         "name": "Sartana Glass",
@@ -18531,7 +19343,8 @@ window.allHeroesExtra = [
         "attackBonus": "75%",
         "defenseBonus": "75%",
         "healthBonus": "78%",
-        "manaBonus": "5%"
+        "manaBonus": "5%",
+        "family": "classic"
     },
     {
         "name": "Satsui",
@@ -18554,7 +19367,8 @@ window.allHeroesExtra = [
         "specialId": "shade_cloak",
         "passiveSkills": [
             "reduce_minion_health"
-        ]
+        ],
+        "family": "ninja"
     },
     {
         "name": "Scath",
@@ -18577,7 +19391,8 @@ window.allHeroesExtra = [
         "passiveSkills": [
             "repair_core",
             "resist_special_blocking"
-        ]
+        ],
+        "family": "construct"
     },
     {
         "name": "Senan",
@@ -18602,7 +19417,8 @@ window.allHeroesExtra = [
         "specialId": "curse_of_the_specter",
         "passiveSkills": [
             "resist_status_effect_damage"
-        ]
+        ],
+        "family": "slayers"
     },
     {
         "name": "Senan Costume1",
@@ -18635,7 +19451,8 @@ window.allHeroesExtra = [
         "attackBonus": "57%",
         "defenseBonus": "57%",
         "healthBonus": "62%",
-        "manaBonus": "5%"
+        "manaBonus": "5%",
+        "family": "slayers"
     },
     {
         "name": "Serena",
@@ -18658,7 +19475,8 @@ window.allHeroesExtra = [
         "passiveSkills": [
             "resist_water",
             "underwater_on_special_beach"
-        ]
+        ],
+        "family": "beachparty"
     },
     {
         "name": "Seshat",
@@ -18680,7 +19498,8 @@ window.allHeroesExtra = [
         "specialId": "undead_rage",
         "passiveSkills": [
             "resist_direct_mana_reductions"
-        ]
+        ],
+        "family": "hotm2019"
     },
     {
         "name": "Seshat Costume1",
@@ -18711,7 +19530,8 @@ window.allHeroesExtra = [
         "attackBonus": "28%",
         "defenseBonus": "26%",
         "healthBonus": "45%",
-        "manaBonus": "5%"
+        "manaBonus": "5%",
+        "family": "hotm2019"
     },
     {
         "name": "Set",
@@ -18732,7 +19552,8 @@ window.allHeroesExtra = [
         "specialId": "legions_of_darkness",
         "passiveSkills": [
             "moon_extra_special_damage_and_mana_regen_debuff"
-        ]
+        ],
+        "family": "moon"
     },
     {
         "name": "Set Costume1",
@@ -18762,7 +19583,8 @@ window.allHeroesExtra = [
         "attackBonus": "45%",
         "defenseBonus": "45%",
         "healthBonus": "50%",
-        "manaBonus": "5%"
+        "manaBonus": "5%",
+        "family": "moon"
     },
     {
         "name": "Shacklebolt",
@@ -18785,7 +19607,8 @@ window.allHeroesExtra = [
         "passiveSkills": [
             "destructive_core",
             "resist_special_blocking"
-        ]
+        ],
+        "family": "construct"
     },
     {
         "name": "Shadowfang",
@@ -18808,7 +19631,8 @@ window.allHeroesExtra = [
         "specialId": "bone_toss",
         "passiveSkills": [
             "reduced_healing_for_all_enemies"
-        ]
+        ],
+        "family": "fox"
     },
     {
         "name": "Sir Casmir",
@@ -18831,7 +19655,8 @@ window.allHeroesExtra = [
         "passiveSkills": [
             "mana_on_heal",
             "resist_mana_generation_modifier_debuffs"
-        ]
+        ],
+        "family": "hotm2024"
     },
     {
         "name": "Sneferu",
@@ -18852,7 +19677,8 @@ window.allHeroesExtra = [
         "specialId": "disheartening_riddle",
         "passiveSkills": [
             "moon_extra_special_damage_and_dispel_latest_buff"
-        ]
+        ],
+        "family": "moon"
     },
     {
         "name": "Swiftpaw",
@@ -18876,7 +19702,8 @@ window.allHeroesExtra = [
         "specialId": "swift_little_friends",
         "passiveSkills": [
             "reduced_healing_for_all_enemies"
-        ]
+        ],
+        "family": "fox"
     },
     {
         "name": "Tamlin",
@@ -18899,7 +19726,8 @@ window.allHeroesExtra = [
             "resist_negative_attack_modifiers_including_wither",
             "mana_on_debuff",
             "resist_insanity"
-        ]
+        ],
+        "family": "faun"
     },
     {
         "name": "Tenebrae",
@@ -18924,7 +19752,8 @@ window.allHeroesExtra = [
         "passiveSkills": [
             "corrosive_core",
             "resist_special_blocking"
-        ]
+        ],
+        "family": "construct"
     },
     {
         "name": "Thoth-Amun",
@@ -18945,7 +19774,8 @@ window.allHeroesExtra = [
         "baseDefense": 337,
         "baseHealth": 661,
         "specialId": "soul_cage",
-        "passiveSkills": null
+        "passiveSkills": null,
+        "family": "hotm2017"
     },
     {
         "name": "Thoth-Amun Costume1",
@@ -18971,7 +19801,8 @@ window.allHeroesExtra = [
         "attackBonus": "28%",
         "defenseBonus": "26%",
         "healthBonus": "45%",
-        "manaBonus": "5%"
+        "manaBonus": "5%",
+        "family": "hotm2017"
     },
     {
         "name": "Thrivaldi",
@@ -18998,7 +19829,8 @@ window.allHeroesExtra = [
         "passiveSkills": [
             "arctic_core",
             "resist_frost_with_health_boost_and_mana"
-        ]
+        ],
+        "family": "myrkheim"
     },
     {
         "name": "Tora",
@@ -19022,7 +19854,8 @@ window.allHeroesExtra = [
         "specialId": "hunt_for_prey",
         "passiveSkills": [
             "reduce_minion_health"
-        ]
+        ],
+        "family": "ninja"
     },
     {
         "name": "Turgruk",
@@ -19044,7 +19877,8 @@ window.allHeroesExtra = [
         "passiveSkills": [
             "resist_accuracy_modifier_debuffs",
             "increase_special_damage_buff"
-        ]
+        ],
+        "family": "hotm2023"
     },
     {
         "name": "Tweedles",
@@ -19066,7 +19900,8 @@ window.allHeroesExtra = [
         "specialId": "dum_and_dee",
         "passiveSkills": [
             "resist_status_effect_damage"
-        ]
+        ],
+        "family": "wonderland"
     },
     {
         "name": "Ultrox",
@@ -19087,7 +19922,8 @@ window.allHeroesExtra = [
         "specialId": "sinister_enlace",
         "passiveSkills": [
             "tales1_extra_special_damage_and_add_stacking_mana_generation"
-        ]
+        ],
+        "family": "tales1_baddies"
     },
     {
         "name": "Ultrox Costume1",
@@ -19117,7 +19953,8 @@ window.allHeroesExtra = [
         "attackBonus": "28%",
         "defenseBonus": "28%",
         "healthBonus": "28%",
-        "manaBonus": "5%"
+        "manaBonus": "5%",
+        "family": "tales1_baddies"
     },
     {
         "name": "Umbria",
@@ -19138,7 +19975,8 @@ window.allHeroesExtra = [
         "specialId": "spreading_shadow",
         "passiveSkills": [
             "cleanse_on_own_familiar_death"
-        ]
+        ],
+        "family": "masquerade"
     },
     {
         "name": "Umeko",
@@ -19160,7 +19998,8 @@ window.allHeroesExtra = [
         "specialId": "noxious_blossom",
         "passiveSkills": [
             "reduce_minion_health"
-        ]
+        ],
+        "family": "ninja"
     },
     {
         "name": "Ursena",
@@ -19179,7 +20018,8 @@ window.allHeroesExtra = [
         "baseDefense": 355,
         "baseHealth": 623,
         "specialId": "depth_blast",
-        "passiveSkills": null
+        "passiveSkills": null,
+        "family": "atlantis"
     },
     {
         "name": "Ursena Costume1",
@@ -19205,7 +20045,8 @@ window.allHeroesExtra = [
         "attackBonus": "25%",
         "defenseBonus": "25%",
         "healthBonus": "30%",
-        "manaBonus": "5%"
+        "manaBonus": "5%",
+        "family": "atlantis"
     },
     {
         "name": "Uthragan",
@@ -19227,7 +20068,8 @@ window.allHeroesExtra = [
         "passiveSkills": [
             "resist_stop_mana_generation",
             "resist_poison"
-        ]
+        ],
+        "family": "hotm2023"
     },
     {
         "name": "Uwe",
@@ -19250,7 +20092,8 @@ window.allHeroesExtra = [
         "specialId": "chain_blasm_strike",
         "passiveSkills": [
             "gargoyle_soft_skin"
-        ]
+        ],
+        "family": "gargoyle"
     },
     {
         "name": "Vander",
@@ -19272,7 +20115,8 @@ window.allHeroesExtra = [
         "specialId": "gloom_grenades",
         "passiveSkills": [
             "strong_troop_damage_modifier"
-        ]
+        ],
+        "family": "super_elemental"
     },
     {
         "name": "Vard",
@@ -19295,7 +20139,8 @@ window.allHeroesExtra = [
             "never_miss_special",
             "resist_negative_minion_and_mega_minion_effects",
             "bypass_minions_and_mega_minions"
-        ]
+        ],
+        "family": "astral_dwarfs"
     },
     {
         "name": "Victor",
@@ -19318,7 +20163,8 @@ window.allHeroesExtra = [
         "specialId": "kings_blood_poisoning",
         "passiveSkills": [
             "halloween_steal_buff_or_deal_damage"
-        ]
+        ],
+        "family": "halloween"
     },
     {
         "name": "Victor Costume1",
@@ -19347,7 +20193,8 @@ window.allHeroesExtra = [
         "attackBonus": "22%",
         "defenseBonus": "20%",
         "healthBonus": "25%",
-        "manaBonus": "5%"
+        "manaBonus": "5%",
+        "family": "halloween"
     },
     {
         "name": "Violet Potts",
@@ -19370,7 +20217,8 @@ window.allHeroesExtra = [
         "passiveSkills": [
             "remove_wither_from_allies",
             "resist_direct_mana_reductions"
-        ]
+        ],
+        "family": "garrison"
     },
     {
         "name": "Viscaro",
@@ -19392,7 +20240,8 @@ window.allHeroesExtra = [
         "passiveSkills": [
             "summon_cursed_sapling_fiend_on_enemy_minion_summon",
             "resist_negative_minion_effects"
-        ]
+        ],
+        "family": "hotm2022"
     },
     {
         "name": "Viscount Cluckwood",
@@ -19411,7 +20260,8 @@ window.allHeroesExtra = [
         "baseDefense": 559,
         "baseHealth": 1054,
         "specialId": "insurmountable_flux",
-        "passiveSkills": null
+        "passiveSkills": null,
+        "family": "easter"
     },
     {
         "name": "Voidstar",
@@ -19435,7 +20285,8 @@ window.allHeroesExtra = [
         "passiveSkills": [
             "share_received_damage",
             "resist_poison"
-        ]
+        ],
+        "family": "astral_elves"
     },
     {
         "name": "Von Rothbart",
@@ -19458,7 +20309,8 @@ window.allHeroesExtra = [
         "passiveSkills": [
             "heal_on_expired_or_cleared_debuff",
             "resist_defense_modifier_debuffs"
-        ]
+        ],
+        "family": "opera"
     },
     {
         "name": "Xie Zi Jing",
@@ -19480,7 +20332,8 @@ window.allHeroesExtra = [
         "passiveSkills": [
             "heal_on_buff_with_chance",
             "mana_on_buff_with_chance"
-        ]
+        ],
+        "family": "journey"
     },
     {
         "name": "Xiong Shanjun",
@@ -19500,7 +20353,8 @@ window.allHeroesExtra = [
         "baseDefense": 441,
         "baseHealth": 787,
         "specialId": "fury_of_the_mountain_lord",
-        "passiveSkills": null
+        "passiveSkills": null,
+        "family": "journey"
     },
     {
         "name": "Xnolphod",
@@ -19523,7 +20377,8 @@ window.allHeroesExtra = [
         "specialId": "ancient_enchantment",
         "passiveSkills": [
             "decrease_debuff_duration"
-        ]
+        ],
+        "family": "abyss"
     },
     {
         "name": "Xnolphod Costume1",
@@ -19555,7 +20410,8 @@ window.allHeroesExtra = [
         "attackBonus": "30%",
         "defenseBonus": "30%",
         "healthBonus": "35%",
-        "manaBonus": "5%"
+        "manaBonus": "5%",
+        "family": "abyss"
     },
     {
         "name": "Ysabel",
@@ -19579,7 +20435,8 @@ window.allHeroesExtra = [
             "resist_negative_attack_modifiers_including_wither",
             "resist_insanity",
             "minion_and_mega_minion_accuracy_modifier"
-        ]
+        ],
+        "family": "faun"
     },
     {
         "name": "Zed",
@@ -19602,7 +20459,8 @@ window.allHeroesExtra = [
         "passiveSkills": [
             "increase_special_damage_buff_zed",
             "resist_accuracy_modifier_debuffs"
-        ]
+        ],
+        "family": "hotm2025"
     },
     {
         "name": "Zulag",
@@ -19623,7 +20481,8 @@ window.allHeroesExtra = [
         "specialId": "vast_ward",
         "passiveSkills": [
             "resist_sand"
-        ]
+        ],
+        "family": "hotm2020"
     },
     {
         "name": "Sharan",
@@ -19640,7 +20499,8 @@ window.allHeroesExtra = [
         "baseDefense": 165,
         "baseHealth": 359,
         "specialId": "field_aid",
-        "passiveSkills": null
+        "passiveSkills": null,
+        "family": "classic"
     },
     {
         "name": "Tudan",
@@ -19657,7 +20517,8 @@ window.allHeroesExtra = [
         "baseDefense": 161,
         "baseHealth": 270,
         "specialId": "backstab",
-        "passiveSkills": null
+        "passiveSkills": null,
+        "family": "classic"
     },
     {
         "name": "Farid",
@@ -19674,7 +20535,8 @@ window.allHeroesExtra = [
         "baseDefense": 175,
         "baseHealth": 385,
         "specialId": "fierce_slash",
-        "passiveSkills": null
+        "passiveSkills": null,
+        "family": "classic"
     },
     {
         "name": "Jill",
@@ -19691,7 +20553,8 @@ window.allHeroesExtra = [
         "baseDefense": 197,
         "baseHealth": 366,
         "specialId": "attack_rally",
-        "passiveSkills": null
+        "passiveSkills": null,
+        "family": "classic"
     },
     {
         "name": "Shaarkot",
@@ -19708,7 +20571,8 @@ window.allHeroesExtra = [
         "baseDefense": 167,
         "baseHealth": 380,
         "specialId": "attack_rally",
-        "passiveSkills": null
+        "passiveSkills": null,
+        "family": "classic"
     },
     {
         "name": "Zudak",
@@ -19725,7 +20589,8 @@ window.allHeroesExtra = [
         "baseDefense": 218,
         "baseHealth": 356,
         "specialId": "tackle",
-        "passiveSkills": null
+        "passiveSkills": null,
+        "family": "classic"
     },
     {
         "name": "Azar",
@@ -19743,7 +20608,8 @@ window.allHeroesExtra = [
         "baseDefense": 238,
         "baseHealth": 375,
         "specialId": "sharp_cut",
-        "passiveSkills": null
+        "passiveSkills": null,
+        "family": "classic"
     },
     {
         "name": "Azar Costume1",
@@ -19767,7 +20633,8 @@ window.allHeroesExtra = [
         "attackBonus": "7%",
         "defenseBonus": "7%",
         "healthBonus": "10%",
-        "manaBonus": "5%"
+        "manaBonus": "5%",
+        "family": "classic"
     },
     {
         "name": "Azar Toon",
@@ -19794,7 +20661,8 @@ window.allHeroesExtra = [
         "attackBonus": "15%",
         "defenseBonus": "15%",
         "healthBonus": "20%",
-        "manaBonus": "5%"
+        "manaBonus": "5%",
+        "family": "classic"
     },
     {
         "name": "Azar Glass",
@@ -19821,7 +20689,8 @@ window.allHeroesExtra = [
         "attackBonus": "17%",
         "defenseBonus": "17%",
         "healthBonus": "22%",
-        "manaBonus": "5%"
+        "manaBonus": "5%",
+        "family": "classic"
     },
     {
         "name": "Bagreg",
@@ -19841,7 +20710,8 @@ window.allHeroesExtra = [
         "specialId": "burning_javelin",
         "passiveSkills": [
             "tales1_extra_special_damage_and_add_stacking_mana_generation"
-        ]
+        ],
+        "family": "tales1_baddies"
     },
     {
         "name": "Bagreg Costume1",
@@ -19869,7 +20739,8 @@ window.allHeroesExtra = [
         "attackBonus": "2%",
         "defenseBonus": "2%",
         "healthBonus": "4%",
-        "manaBonus": "1%"
+        "manaBonus": "1%",
+        "family": "tales1_baddies"
     },
     {
         "name": "Basil",
@@ -19891,7 +20762,8 @@ window.allHeroesExtra = [
         "passiveSkills": [
             "hunters_mark_on_special",
             "monster_hunter_reallocate_debuff_or_heal"
-        ]
+        ],
+        "family": "abyss_hunter"
     },
     {
         "name": "Bauchan",
@@ -19910,7 +20782,8 @@ window.allHeroesExtra = [
         "baseDefense": 261,
         "baseHealth": 478,
         "specialId": "claw_power",
-        "passiveSkills": null
+        "passiveSkills": null,
+        "family": "knight"
     },
     {
         "name": "Boots",
@@ -19931,7 +20804,8 @@ window.allHeroesExtra = [
         "specialId": "hammer_thump",
         "passiveSkills": [
             "goblin_damage_and_accuracy_debuff_on_special"
-        ]
+        ],
+        "family": "goblin"
     },
     {
         "name": "Buster",
@@ -19950,7 +20824,8 @@ window.allHeroesExtra = [
         "baseDefense": 260,
         "baseHealth": 475,
         "specialId": "frosty_punches",
-        "passiveSkills": null
+        "passiveSkills": null,
+        "family": "winter"
     },
     {
         "name": "Dante",
@@ -19972,7 +20847,8 @@ window.allHeroesExtra = [
         "passiveSkills": [
             "resist_all_defense_debuffs",
             "reduce_minion_health"
-        ]
+        ],
+        "family": "styx"
     },
     {
         "name": "Ei-Dunn",
@@ -19990,7 +20866,8 @@ window.allHeroesExtra = [
         "baseDefense": 277,
         "baseHealth": 490,
         "specialId": "tainted_axe",
-        "passiveSkills": null
+        "passiveSkills": null,
+        "family": "niflheim"
     },
     {
         "name": "Ei-Dunn Costume1",
@@ -20014,7 +20891,8 @@ window.allHeroesExtra = [
         "attackBonus": "3%",
         "defenseBonus": "3%",
         "healthBonus": "6%",
-        "manaBonus": "1%"
+        "manaBonus": "1%",
+        "family": "niflheim"
     },
     {
         "name": "Fawn",
@@ -20035,7 +20913,8 @@ window.allHeroesExtra = [
         "specialId": "evading_dash",
         "passiveSkills": [
             "heal_on_buff_alliance_quest_family"
-        ]
+        ],
+        "family": "stag"
     },
     {
         "name": "Hawkmoon",
@@ -20052,7 +20931,8 @@ window.allHeroesExtra = [
         "baseDefense": 257,
         "baseHealth": 367,
         "specialId": "wind_prayer",
-        "passiveSkills": null
+        "passiveSkills": null,
+        "family": "classic"
     },
     {
         "name": "Hawkmoon Costume1",
@@ -20076,7 +20956,8 @@ window.allHeroesExtra = [
         "attackBonus": "7%",
         "defenseBonus": "7%",
         "healthBonus": "10%",
-        "manaBonus": "5%"
+        "manaBonus": "5%",
+        "family": "classic"
     },
     {
         "name": "Hawkmoon Toon",
@@ -20102,7 +20983,8 @@ window.allHeroesExtra = [
         "attackBonus": "15%",
         "defenseBonus": "15%",
         "healthBonus": "20%",
-        "manaBonus": "5%"
+        "manaBonus": "5%",
+        "family": "classic"
     },
     {
         "name": "Helgi",
@@ -20127,7 +21009,8 @@ window.allHeroesExtra = [
         "passiveSkills": [
             "molten_core",
             "resist_burn_with_health_boost_and_mana"
-        ]
+        ],
+        "family": "nidavellir"
     },
     {
         "name": "Jahangir",
@@ -20145,7 +21028,8 @@ window.allHeroesExtra = [
         "baseDefense": 251,
         "baseHealth": 345,
         "specialId": "fireball",
-        "passiveSkills": null
+        "passiveSkills": null,
+        "family": "classic"
     },
     {
         "name": "Jahangir Costume1",
@@ -20169,7 +21053,8 @@ window.allHeroesExtra = [
         "attackBonus": "7%",
         "defenseBonus": "7%",
         "healthBonus": "10%",
-        "manaBonus": "5%"
+        "manaBonus": "5%",
+        "family": "classic"
     },
     {
         "name": "Jahangir Toon",
@@ -20196,7 +21081,8 @@ window.allHeroesExtra = [
         "attackBonus": "15%",
         "defenseBonus": "15%",
         "healthBonus": "20%",
-        "manaBonus": "5%"
+        "manaBonus": "5%",
+        "family": "classic"
     },
     {
         "name": "Jahangir Glass",
@@ -20223,7 +21109,8 @@ window.allHeroesExtra = [
         "attackBonus": "17%",
         "defenseBonus": "17%",
         "healthBonus": "22%",
-        "manaBonus": "5%"
+        "manaBonus": "5%",
+        "family": "classic"
     },
     {
         "name": "Kornel",
@@ -20243,7 +21130,8 @@ window.allHeroesExtra = [
         "specialId": "imaginary_increments",
         "passiveSkills": [
             "magic_damage_on_full_charge_to_not_red"
-        ]
+        ],
+        "family": "magic"
     },
     {
         "name": "Li",
@@ -20262,7 +21150,8 @@ window.allHeroesExtra = [
         "baseDefense": 280,
         "baseHealth": 468,
         "specialId": "sickle_of_wu",
-        "passiveSkills": null
+        "passiveSkills": null,
+        "family": "kingdom"
     },
     {
         "name": "Liu Tang",
@@ -20285,7 +21174,8 @@ window.allHeroesExtra = [
             "resist_bleed",
             "righteous_rebellion_parent",
             "cleanse_on_special_critical_damage_all_safe"
-        ]
+        ],
+        "family": "outlaw"
     },
     {
         "name": "Namahage",
@@ -20303,7 +21193,8 @@ window.allHeroesExtra = [
         "baseDefense": 241,
         "baseHealth": 344,
         "specialId": "bloodthirst",
-        "passiveSkills": null
+        "passiveSkills": null,
+        "family": "japanese"
     },
     {
         "name": "Nashgar",
@@ -20321,7 +21212,8 @@ window.allHeroesExtra = [
         "baseDefense": 211,
         "baseHealth": 394,
         "specialId": "burning_strike",
-        "passiveSkills": null
+        "passiveSkills": null,
+        "family": "classic"
     },
     {
         "name": "Nashgar Costume1",
@@ -20345,7 +21237,8 @@ window.allHeroesExtra = [
         "attackBonus": "7%",
         "defenseBonus": "7%",
         "healthBonus": "10%",
-        "manaBonus": "5%"
+        "manaBonus": "5%",
+        "family": "classic"
     },
     {
         "name": "Nashgar Toon",
@@ -20372,7 +21265,8 @@ window.allHeroesExtra = [
         "attackBonus": "15%",
         "defenseBonus": "15%",
         "healthBonus": "20%",
-        "manaBonus": "5%"
+        "manaBonus": "5%",
+        "family": "classic"
     },
     {
         "name": "Phoenicus",
@@ -20390,7 +21284,8 @@ window.allHeroesExtra = [
         "baseDefense": 300,
         "baseHealth": 469,
         "specialId": "valuable_contribution",
-        "passiveSkills": null
+        "passiveSkills": null,
+        "family": "wonderland"
     },
     {
         "name": "Rosepetite",
@@ -20413,7 +21308,8 @@ window.allHeroesExtra = [
         "specialId": "joyful_palette",
         "passiveSkills": [
             "dodge_enemy_damage_special"
-        ]
+        ],
+        "family": "moths"
     },
     {
         "name": "Rudolph",
@@ -20432,7 +21328,8 @@ window.allHeroesExtra = [
         "baseDefense": 225,
         "baseHealth": 350,
         "specialId": "horn_attack",
-        "passiveSkills": null
+        "passiveSkills": null,
+        "family": "winter"
     },
     {
         "name": "Rufus",
@@ -20454,7 +21351,8 @@ window.allHeroesExtra = [
         "passiveSkills": [
             "heal_and_add_mana_on_ally_minion",
             "damage_enemies_on_enemy_parasite"
-        ]
+        ],
+        "family": "mighty_pet"
     },
     {
         "name": "Skrekok",
@@ -20472,7 +21370,8 @@ window.allHeroesExtra = [
         "baseDefense": 272,
         "baseHealth": 439,
         "specialId": "mad_rat_mania",
-        "passiveSkills": null
+        "passiveSkills": null,
+        "family": "villains"
     },
     {
         "name": "Squire Wabbit",
@@ -20490,7 +21389,8 @@ window.allHeroesExtra = [
         "baseDefense": 220,
         "baseHealth": 350,
         "specialId": "reckless_stab",
-        "passiveSkills": null
+        "passiveSkills": null,
+        "family": "easter"
     },
     {
         "name": "Starswift",
@@ -20512,7 +21412,8 @@ window.allHeroesExtra = [
         "passiveSkills": [
             "share_received_damage",
             "resist_poison"
-        ]
+        ],
+        "family": "astral_elves"
     },
     {
         "name": "Sudri",
@@ -20530,7 +21431,8 @@ window.allHeroesExtra = [
         "baseDefense": 279,
         "baseHealth": 446,
         "specialId": "burning_shields",
-        "passiveSkills": null
+        "passiveSkills": null,
+        "family": "muspelheim"
     },
     {
         "name": "Vollermork",
@@ -20550,7 +21452,8 @@ window.allHeroesExtra = [
         "specialId": "thresher_worms",
         "passiveSkills": [
             "start_battle_with_mana"
-        ]
+        ],
+        "family": "abyss"
     },
     {
         "name": "Vollermork Costume1",
@@ -20576,7 +21479,8 @@ window.allHeroesExtra = [
         "attackBonus": "2%",
         "defenseBonus": "2%",
         "healthBonus": "4%",
-        "manaBonus": "1%"
+        "manaBonus": "1%",
+        "family": "abyss"
     },
     {
         "name": "Waqas",
@@ -20596,7 +21500,8 @@ window.allHeroesExtra = [
         "specialId": "unyielding_protector",
         "passiveSkills": [
             "sun_extra_special_damage_and_attack_debuff"
-        ]
+        ],
+        "family": "sun"
     },
     {
         "name": "Waqas Costume1",
@@ -20625,7 +21530,8 @@ window.allHeroesExtra = [
         "attackBonus": "2%",
         "defenseBonus": "2%",
         "healthBonus": "4%",
-        "manaBonus": "1%"
+        "manaBonus": "1%",
+        "family": "sun"
     },
     {
         "name": "Aodhan",
@@ -20650,7 +21556,8 @@ window.allHeroesExtra = [
         "specialId": "wily_wisps",
         "passiveSkills": [
             "resist_status_effect_damage"
-        ]
+        ],
+        "family": "slayers"
     },
     {
         "name": "Boldtusk",
@@ -20668,7 +21575,8 @@ window.allHeroesExtra = [
         "baseDefense": 335,
         "baseHealth": 521,
         "specialId": "warcry",
-        "passiveSkills": null
+        "passiveSkills": null,
+        "family": "classic"
     },
     {
         "name": "Boldtusk Costume1",
@@ -20692,7 +21600,8 @@ window.allHeroesExtra = [
         "attackBonus": "7%",
         "defenseBonus": "7%",
         "healthBonus": "11%",
-        "manaBonus": "5%"
+        "manaBonus": "5%",
+        "family": "classic"
     },
     {
         "name": "Boldtusk Costume2",
@@ -20717,7 +21626,8 @@ window.allHeroesExtra = [
         "attackBonus": "15%",
         "defenseBonus": "15%",
         "healthBonus": "20%",
-        "manaBonus": "5%"
+        "manaBonus": "5%",
+        "family": "classic"
     },
     {
         "name": "Boldtusk Toon",
@@ -20743,7 +21653,8 @@ window.allHeroesExtra = [
         "attackBonus": "17%",
         "defenseBonus": "17%",
         "healthBonus": "22%",
-        "manaBonus": "5%"
+        "manaBonus": "5%",
+        "family": "classic"
     },
     {
         "name": "Boldtusk Glass",
@@ -20770,7 +21681,8 @@ window.allHeroesExtra = [
         "attackBonus": "19%",
         "defenseBonus": "19%",
         "healthBonus": "24%",
-        "manaBonus": "5%"
+        "manaBonus": "5%",
+        "family": "classic"
     },
     {
         "name": "Carol",
@@ -20789,7 +21701,8 @@ window.allHeroesExtra = [
         "baseDefense": 304,
         "baseHealth": 639,
         "specialId": "perilous_gift",
-        "passiveSkills": null
+        "passiveSkills": null,
+        "family": "winter"
     },
     {
         "name": "Cillian",
@@ -20813,7 +21726,8 @@ window.allHeroesExtra = [
         "specialId": "reanimated_spite",
         "passiveSkills": [
             "resist_status_effect_damage"
-        ]
+        ],
+        "family": "slayers"
     },
     {
         "name": "Colen",
@@ -20831,7 +21745,8 @@ window.allHeroesExtra = [
         "baseDefense": 253,
         "baseHealth": 515,
         "specialId": "fire_storm",
-        "passiveSkills": null
+        "passiveSkills": null,
+        "family": "classic"
     },
     {
         "name": "Colen Costume1",
@@ -20855,7 +21770,8 @@ window.allHeroesExtra = [
         "attackBonus": "7%",
         "defenseBonus": "7%",
         "healthBonus": "11%",
-        "manaBonus": "5%"
+        "manaBonus": "5%",
+        "family": "classic"
     },
     {
         "name": "Colen Costume2",
@@ -20880,7 +21796,8 @@ window.allHeroesExtra = [
         "attackBonus": "15%",
         "defenseBonus": "15%",
         "healthBonus": "20%",
-        "manaBonus": "5%"
+        "manaBonus": "5%",
+        "family": "classic"
     },
     {
         "name": "Colen Toon",
@@ -20907,7 +21824,8 @@ window.allHeroesExtra = [
         "attackBonus": "17%",
         "defenseBonus": "17%",
         "healthBonus": "22%",
-        "manaBonus": "5%"
+        "manaBonus": "5%",
+        "family": "classic"
     },
     {
         "name": "Colen Glass",
@@ -20934,7 +21852,8 @@ window.allHeroesExtra = [
         "attackBonus": "19%",
         "defenseBonus": "19%",
         "healthBonus": "24%",
-        "manaBonus": "5%"
+        "manaBonus": "5%",
+        "family": "classic"
     },
     {
         "name": "Eichbelborg",
@@ -20952,7 +21871,8 @@ window.allHeroesExtra = [
         "baseDefense": 309,
         "baseHealth": 620,
         "specialId": "pompous_flex",
-        "passiveSkills": null
+        "passiveSkills": null,
+        "family": "circus"
     },
     {
         "name": "Ferant",
@@ -20970,7 +21890,8 @@ window.allHeroesExtra = [
         "baseDefense": 280,
         "baseHealth": 694,
         "specialId": "feral_revenge",
-        "passiveSkills": null
+        "passiveSkills": null,
+        "family": "wolf"
     },
     {
         "name": "Ferant Costume1",
@@ -20996,7 +21917,8 @@ window.allHeroesExtra = [
         "attackBonus": "5%",
         "defenseBonus": "5%",
         "healthBonus": "10%",
-        "manaBonus": "5%"
+        "manaBonus": "5%",
+        "family": "wolf"
     },
     {
         "name": "Gormek",
@@ -21014,7 +21936,8 @@ window.allHeroesExtra = [
         "baseDefense": 266,
         "baseHealth": 673,
         "specialId": "ramming_pulverizer",
-        "passiveSkills": null
+        "passiveSkills": null,
+        "family": "classic"
     },
     {
         "name": "Gormek Costume1",
@@ -21039,7 +21962,8 @@ window.allHeroesExtra = [
         "attackBonus": "7%",
         "defenseBonus": "7%",
         "healthBonus": "11%",
-        "manaBonus": "5%"
+        "manaBonus": "5%",
+        "family": "classic"
     },
     {
         "name": "Gormek Costume2",
@@ -21063,7 +21987,8 @@ window.allHeroesExtra = [
         "attackBonus": "15%",
         "defenseBonus": "15%",
         "healthBonus": "20%",
-        "manaBonus": "5%"
+        "manaBonus": "5%",
+        "family": "classic"
     },
     {
         "name": "Gormek Toon",
@@ -21090,7 +22015,8 @@ window.allHeroesExtra = [
         "attackBonus": "17%",
         "defenseBonus": "17%",
         "healthBonus": "22%",
-        "manaBonus": "5%"
+        "manaBonus": "5%",
+        "family": "classic"
     },
     {
         "name": "Gormek Glass",
@@ -21117,7 +22043,8 @@ window.allHeroesExtra = [
         "attackBonus": "19%",
         "defenseBonus": "19%",
         "healthBonus": "24%",
-        "manaBonus": "5%"
+        "manaBonus": "5%",
+        "family": "classic"
     },
     {
         "name": "Guardian Falcon",
@@ -21135,7 +22062,8 @@ window.allHeroesExtra = [
         "baseDefense": 355,
         "baseHealth": 530,
         "specialId": "blazing_beak",
-        "passiveSkills": null
+        "passiveSkills": null,
+        "family": "guardian"
     },
     {
         "name": "Itham",
@@ -21157,7 +22085,8 @@ window.allHeroesExtra = [
         "passiveSkills": [
             "resist_water",
             "underwater_on_special_beach"
-        ]
+        ],
+        "family": "beachparty"
     },
     {
         "name": "Junaid",
@@ -21177,7 +22106,8 @@ window.allHeroesExtra = [
         "specialId": "slash_and_support",
         "passiveSkills": [
             "moon_extra_special_damage_and_mana_regen_debuff"
-        ]
+        ],
+        "family": "moon"
     },
     {
         "name": "Junaid Costume1",
@@ -21206,7 +22136,8 @@ window.allHeroesExtra = [
         "attackBonus": "2%",
         "defenseBonus": "2%",
         "healthBonus": "4%",
-        "manaBonus": "1%"
+        "manaBonus": "1%",
+        "family": "moon"
     },
     {
         "name": "Kelile",
@@ -21224,7 +22155,8 @@ window.allHeroesExtra = [
         "baseDefense": 323,
         "baseHealth": 440,
         "specialId": "dance_of_fire",
-        "passiveSkills": null
+        "passiveSkills": null,
+        "family": "classic"
     },
     {
         "name": "Kelile Costume1",
@@ -21247,7 +22179,8 @@ window.allHeroesExtra = [
         "attackBonus": "7%",
         "defenseBonus": "7%",
         "healthBonus": "11%",
-        "manaBonus": "5%"
+        "manaBonus": "5%",
+        "family": "classic"
     },
     {
         "name": "Kelile Costume2",
@@ -21272,7 +22205,8 @@ window.allHeroesExtra = [
         "attackBonus": "15%",
         "defenseBonus": "15%",
         "healthBonus": "20%",
-        "manaBonus": "5%"
+        "manaBonus": "5%",
+        "family": "classic"
     },
     {
         "name": "Kelile Toon",
@@ -21299,7 +22233,8 @@ window.allHeroesExtra = [
         "attackBonus": "17%",
         "defenseBonus": "17%",
         "healthBonus": "22%",
-        "manaBonus": "5%"
+        "manaBonus": "5%",
+        "family": "classic"
     },
     {
         "name": "Kelile Glass",
@@ -21326,7 +22261,8 @@ window.allHeroesExtra = [
         "attackBonus": "19%",
         "defenseBonus": "19%",
         "healthBonus": "24%",
-        "manaBonus": "5%"
+        "manaBonus": "5%",
+        "family": "classic"
     },
     {
         "name": "Lemminkainen",
@@ -21346,7 +22282,8 @@ window.allHeroesExtra = [
         "specialId": "flaming_sword",
         "passiveSkills": [
             "heal_mana_on_low_health_once"
-        ]
+        ],
+        "family": "kalevala"
     },
     {
         "name": "Lucy",
@@ -21371,7 +22308,8 @@ window.allHeroesExtra = [
         "passiveSkills": [
             "magic_mana_regen_stack_on_special",
             "magic_heal_on_full_charge_to_not_green"
-        ]
+        ],
+        "family": "magic"
     },
     {
         "name": "Mack",
@@ -21391,7 +22329,8 @@ window.allHeroesExtra = [
         "specialId": "halflings_wit",
         "passiveSkills": [
             "increase_buff_duration"
-        ]
+        ],
+        "family": "abyss"
     },
     {
         "name": "Mack Costume1",
@@ -21417,7 +22356,8 @@ window.allHeroesExtra = [
         "attackBonus": "2%",
         "defenseBonus": "2%",
         "healthBonus": "4%",
-        "manaBonus": "1%"
+        "manaBonus": "1%",
+        "family": "abyss"
     },
     {
         "name": "Maheegan",
@@ -21439,7 +22379,8 @@ window.allHeroesExtra = [
         "passiveSkills": [
             "hunters_mark_on_special",
             "special_damage_reduction_monster_hunters"
-        ]
+        ],
+        "family": "plains_hunter"
     },
     {
         "name": "Manpip",
@@ -21462,7 +22403,8 @@ window.allHeroesExtra = [
         "passiveSkills": [
             "reduce_big_minion_health",
             "fly_magic_carpet"
-        ]
+        ],
+        "family": "magic_carpet"
     },
     {
         "name": "Nova",
@@ -21483,7 +22425,8 @@ window.allHeroesExtra = [
         "specialId": "healing_fire_spirits",
         "passiveSkills": [
             "strong_troop_damage_modifier"
-        ]
+        ],
+        "family": "super_elemental"
     },
     {
         "name": "Raul",
@@ -21510,7 +22453,8 @@ window.allHeroesExtra = [
         "passiveSkills": [
             "heal_on_expired_or_cleared_debuff",
             "resist_attack_modifier_debuffs"
-        ]
+        ],
+        "family": "opera"
     },
     {
         "name": "Rokkamush",
@@ -21531,7 +22475,8 @@ window.allHeroesExtra = [
         "specialId": "blind_rage",
         "passiveSkills": [
             "decrease_debuff_duration"
-        ]
+        ],
+        "family": "abyss"
     },
     {
         "name": "Rokkamush Costume1",
@@ -21558,7 +22503,8 @@ window.allHeroesExtra = [
         "attackBonus": "2%",
         "defenseBonus": "2%",
         "healthBonus": "4%",
-        "manaBonus": "1%"
+        "manaBonus": "1%",
+        "family": "abyss"
     },
     {
         "name": "Scarlett",
@@ -21576,7 +22522,8 @@ window.allHeroesExtra = [
         "baseDefense": 239,
         "baseHealth": 489,
         "specialId": "blade_barrage",
-        "passiveSkills": null
+        "passiveSkills": null,
+        "family": "classic"
     },
     {
         "name": "Scarlett Costume1",
@@ -21601,7 +22548,8 @@ window.allHeroesExtra = [
         "attackBonus": "7%",
         "defenseBonus": "7%",
         "healthBonus": "11%",
-        "manaBonus": "5%"
+        "manaBonus": "5%",
+        "family": "classic"
     },
     {
         "name": "Scarlett Costume2",
@@ -21626,7 +22574,8 @@ window.allHeroesExtra = [
         "attackBonus": "15%",
         "defenseBonus": "15%",
         "healthBonus": "20%",
-        "manaBonus": "5%"
+        "manaBonus": "5%",
+        "family": "classic"
     },
     {
         "name": "Scarlett Toon",
@@ -21653,7 +22602,8 @@ window.allHeroesExtra = [
         "attackBonus": "17%",
         "defenseBonus": "17%",
         "healthBonus": "22%",
-        "manaBonus": "5%"
+        "manaBonus": "5%",
+        "family": "classic"
     },
     {
         "name": "Shadereave",
@@ -21671,7 +22621,8 @@ window.allHeroesExtra = [
         "baseDefense": 299,
         "baseHealth": 639,
         "specialId": "eternal_servitude",
-        "passiveSkills": null
+        "passiveSkills": null,
+        "family": "helheim"
     },
     {
         "name": "Shale",
@@ -21689,7 +22640,8 @@ window.allHeroesExtra = [
         "baseDefense": 295,
         "baseHealth": 670,
         "specialId": "channel_ki",
-        "passiveSkills": null
+        "passiveSkills": null,
+        "family": "ninja"
     },
     {
         "name": "Sir Lancelot",
@@ -21708,7 +22660,8 @@ window.allHeroesExtra = [
         "baseDefense": 251,
         "baseHealth": 493,
         "specialId": "inspiring_fencing",
-        "passiveSkills": null
+        "passiveSkills": null,
+        "family": "knight"
     },
     {
         "name": "Sumitomo",
@@ -21727,7 +22680,8 @@ window.allHeroesExtra = [
         "baseDefense": 298,
         "baseHealth": 524,
         "specialId": "oji_waza",
-        "passiveSkills": null
+        "passiveSkills": null,
+        "family": "japanese"
     },
     {
         "name": "Sumitomo Costume1",
@@ -21752,7 +22706,8 @@ window.allHeroesExtra = [
         "attackBonus": "3%",
         "defenseBonus": "3%",
         "healthBonus": "6%",
-        "manaBonus": "5%"
+        "manaBonus": "5%",
+        "family": "japanese"
     },
     {
         "name": "Sumle",
@@ -21771,7 +22726,8 @@ window.allHeroesExtra = [
         "baseDefense": 296,
         "baseHealth": 507,
         "specialId": "magma_boulders",
-        "passiveSkills": null
+        "passiveSkills": null,
+        "family": "muspelheim"
     },
     {
         "name": "Sumle Costume1",
@@ -21796,7 +22752,8 @@ window.allHeroesExtra = [
         "attackBonus": "3%",
         "defenseBonus": "3%",
         "healthBonus": "6%",
-        "manaBonus": "1%"
+        "manaBonus": "1%",
+        "family": "muspelheim"
     },
     {
         "name": "Sun Shangxiang",
@@ -21814,7 +22771,8 @@ window.allHeroesExtra = [
         "baseDefense": 257,
         "baseHealth": 576,
         "specialId": "royal_blades",
-        "passiveSkills": null
+        "passiveSkills": null,
+        "family": "kingdom"
     },
     {
         "name": "Vonreine",
@@ -21837,7 +22795,8 @@ window.allHeroesExtra = [
         "specialId": "firing_on_all_cylinders",
         "passiveSkills": [
             "gargoyle_soft_skin"
-        ]
+        ],
+        "family": "gargoyle"
     },
     {
         "name": "Wilbur",
@@ -21856,7 +22815,8 @@ window.allHeroesExtra = [
         "baseDefense": 325,
         "baseHealth": 538,
         "specialId": "spiritual_unity",
-        "passiveSkills": null
+        "passiveSkills": null,
+        "family": "lagoon"
     },
     {
         "name": "Wilbur Costume1",
@@ -21880,7 +22840,8 @@ window.allHeroesExtra = [
         "attackBonus": "3%",
         "defenseBonus": "3%",
         "healthBonus": "6%",
-        "manaBonus": "5%"
+        "manaBonus": "5%",
+        "family": "lagoon"
     },
     {
         "name": "Zhabog",
@@ -21901,7 +22862,8 @@ window.allHeroesExtra = [
         "specialId": "melody_of_misery",
         "passiveSkills": [
             "revival_chance_modifier_all_enemies"
-        ]
+        ],
+        "family": "bard"
     },
     {
         "name": "Zhou Yu",
@@ -21920,7 +22882,8 @@ window.allHeroesExtra = [
         "baseDefense": 316,
         "baseHealth": 629,
         "specialId": "scion_sword",
-        "passiveSkills": null
+        "passiveSkills": null,
+        "family": "kingdom"
     },
     {
         "name": "Zhou Yu Costume1",
@@ -21947,7 +22910,8 @@ window.allHeroesExtra = [
         "attackBonus": "6%",
         "defenseBonus": "6%",
         "healthBonus": "6%",
-        "manaBonus": "5%"
+        "manaBonus": "5%",
+        "family": "kingdom"
     },
     {
         "name": "Abigail",
@@ -21969,7 +22933,8 @@ window.allHeroesExtra = [
         "specialId": "whispers_of_xulu",
         "passiveSkills": [
             "insanity_damage_reduction"
-        ]
+        ],
+        "family": "investigator"
     },
     {
         "name": "Aethslegaur",
@@ -21997,7 +22962,8 @@ window.allHeroesExtra = [
         "passiveSkills": [
             "molten_core",
             "resist_burn_with_health_boost_and_mana"
-        ]
+        ],
+        "family": "nidavellir"
     },
     {
         "name": "Alucard",
@@ -22020,7 +22986,8 @@ window.allHeroesExtra = [
         "specialId": "vampiric_curse",
         "passiveSkills": [
             "halloween_steal_buff_or_deal_damage"
-        ]
+        ],
+        "family": "halloween"
     },
     {
         "name": "Alucard Costume1",
@@ -22049,7 +23016,8 @@ window.allHeroesExtra = [
         "attackBonus": "22%",
         "defenseBonus": "20%",
         "healthBonus": "25%",
-        "manaBonus": "5%"
+        "manaBonus": "5%",
+        "family": "halloween"
     },
     {
         "name": "Amber",
@@ -22070,7 +23038,8 @@ window.allHeroesExtra = [
         "specialId": "spear_of_blood_pact",
         "passiveSkills": [
             "halloween_steal_buff_or_deal_damage"
-        ]
+        ],
+        "family": "halloween"
     },
     {
         "name": "Andy Jay",
@@ -22092,7 +23061,8 @@ window.allHeroesExtra = [
         "passiveSkills": [
             "resist_water",
             "underwater_on_special_beach"
-        ]
+        ],
+        "family": "beachparty"
     },
     {
         "name": "Anzogh",
@@ -22113,7 +23083,8 @@ window.allHeroesExtra = [
         "specialId": "flaming_grudge",
         "passiveSkills": [
             "resist_mana_generation_modifier_debuffs"
-        ]
+        ],
+        "family": "hotm2019"
     },
     {
         "name": "Aradia",
@@ -22134,7 +23105,8 @@ window.allHeroesExtra = [
         "specialId": "wicked_witchcraft",
         "passiveSkills": [
             "cleanse_on_own_familiar_death"
-        ]
+        ],
+        "family": "masquerade"
     },
     {
         "name": "Araminta",
@@ -22159,7 +23131,8 @@ window.allHeroesExtra = [
             "resist_negative_attack_modifiers_including_wither",
             "resist_insanity",
             "minion_and_mega_minion_accuracy_modifier"
-        ]
+        ],
+        "family": "faun"
     },
     {
         "name": "Ares",
@@ -22178,7 +23151,8 @@ window.allHeroesExtra = [
         "baseDefense": 360,
         "baseHealth": 700,
         "specialId": "might_of_ares",
-        "passiveSkills": null
+        "passiveSkills": null,
+        "family": "hotm2017"
     },
     {
         "name": "Ares Costume1",
@@ -22207,7 +23181,8 @@ window.allHeroesExtra = [
         "attackBonus": "28%",
         "defenseBonus": "26%",
         "healthBonus": "45%",
-        "manaBonus": "5%"
+        "manaBonus": "5%",
+        "family": "hotm2017"
     },
     {
         "name": "Ash",
@@ -22228,7 +23203,8 @@ window.allHeroesExtra = [
         "specialId": "ruby_rush",
         "passiveSkills": [
             "strong_troop_damage_modifier"
-        ]
+        ],
+        "family": "super_elemental"
     },
     {
         "name": "Asterius",
@@ -22250,7 +23226,8 @@ window.allHeroesExtra = [
         "baseDefense": 370,
         "baseHealth": 658,
         "specialId": "brutal_bull_rush",
-        "passiveSkills": null
+        "passiveSkills": null,
+        "family": "villains"
     },
     {
         "name": "Aurum",
@@ -22274,7 +23251,8 @@ window.allHeroesExtra = [
         "specialId": "rending_dagger",
         "passiveSkills": [
             "reduce_minion_health"
-        ]
+        ],
+        "family": "ninja"
     },
     {
         "name": "Azlar",
@@ -22292,7 +23270,8 @@ window.allHeroesExtra = [
         "baseDefense": 295,
         "baseHealth": 642,
         "specialId": "volcanic_eruption",
-        "passiveSkills": null
+        "passiveSkills": null,
+        "family": "classic"
     },
     {
         "name": "Azlar Costume1",
@@ -22317,7 +23296,8 @@ window.allHeroesExtra = [
         "attackBonus": "13%",
         "defenseBonus": "13%",
         "healthBonus": "20%",
-        "manaBonus": "5%"
+        "manaBonus": "5%",
+        "family": "classic"
     },
     {
         "name": "Azlar Costume2",
@@ -22342,7 +23322,8 @@ window.allHeroesExtra = [
         "attackBonus": "29%",
         "defenseBonus": "29%",
         "healthBonus": "44%",
-        "manaBonus": "5%"
+        "manaBonus": "5%",
+        "family": "classic"
     },
     {
         "name": "Azlar Toon",
@@ -22369,7 +23350,8 @@ window.allHeroesExtra = [
         "attackBonus": "55%",
         "defenseBonus": "55%",
         "healthBonus": "70%",
-        "manaBonus": "5%"
+        "manaBonus": "5%",
+        "family": "classic"
     },
     {
         "name": "Azlar Glass",
@@ -22396,7 +23378,8 @@ window.allHeroesExtra = [
         "attackBonus": "75%",
         "defenseBonus": "75%",
         "healthBonus": "78%",
-        "manaBonus": "5%"
+        "manaBonus": "5%",
+        "family": "classic"
     },
     {
         "name": "Baldur",
@@ -22416,7 +23399,8 @@ window.allHeroesExtra = [
         "baseDefense": 338,
         "baseHealth": 644,
         "specialId": "unbreakable_brawler",
-        "passiveSkills": null
+        "passiveSkills": null,
+        "family": "muspelheim"
     },
     {
         "name": "Baldur Costume1",
@@ -22443,7 +23427,8 @@ window.allHeroesExtra = [
         "attackBonus": "28%",
         "defenseBonus": "28%",
         "healthBonus": "35%",
-        "manaBonus": "5%"
+        "manaBonus": "5%",
+        "family": "muspelheim"
     },
     {
         "name": "Barkley",
@@ -22466,7 +23451,8 @@ window.allHeroesExtra = [
         "passiveSkills": [
             "heal_and_add_mana_on_ally_minion",
             "damage_enemies_on_enemy_parasite"
-        ]
+        ],
+        "family": "mighty_pet"
     },
     {
         "name": "Bearnadette",
@@ -22487,7 +23473,8 @@ window.allHeroesExtra = [
         "specialId": "cursed_painting",
         "passiveSkills": [
             "heal_on_buff_alliance_quest_family"
-        ]
+        ],
+        "family": "bear"
     },
     {
         "name": "Beowulf",
@@ -22513,7 +23500,8 @@ window.allHeroesExtra = [
             "attack_buff_on_damage_received",
             "resist_mana_reductions_with_health_boost_and_mana",
             "never_miss_special"
-        ]
+        ],
+        "family": "beowulf"
     },
     {
         "name": "Bhima",
@@ -22539,7 +23527,8 @@ window.allHeroesExtra = [
         "passiveSkills": [
             "increased_damage_against_minions_and_mega_minions",
             "mana_on_damage_received"
-        ]
+        ],
+        "family": "mahayoddha"
     },
     {
         "name": "Black Caesar",
@@ -22560,7 +23549,8 @@ window.allHeroesExtra = [
         "specialId": "pirates_vengeance",
         "passiveSkills": [
             "resist_status_effect_damage"
-        ]
+        ],
+        "family": "pirate"
     },
     {
         "name": "Black Knight",
@@ -22579,7 +23569,8 @@ window.allHeroesExtra = [
         "baseDefense": 411,
         "baseHealth": 708,
         "specialId": "just_a_flesh_wound",
-        "passiveSkills": null
+        "passiveSkills": null,
+        "family": "knight"
     },
     {
         "name": "Black Knight Costume1",
@@ -22604,7 +23595,8 @@ window.allHeroesExtra = [
         "attackBonus": "27%",
         "defenseBonus": "25%",
         "healthBonus": "40%",
-        "manaBonus": "5%"
+        "manaBonus": "5%",
+        "family": "knight"
     },
     {
         "name": "Blossom",
@@ -22627,7 +23619,8 @@ window.allHeroesExtra = [
         "passiveSkills": [
             "repair_core",
             "resist_special_blocking"
-        ]
+        ],
+        "family": "construct"
     },
     {
         "name": "Bonecrusher",
@@ -22651,7 +23644,8 @@ window.allHeroesExtra = [
         "passiveSkills": [
             "hunters_mark_on_special",
             "attack_modifier_on_special"
-        ]
+        ],
+        "family": "jungle_hunter"
     },
     {
         "name": "Brimstone",
@@ -22675,7 +23669,8 @@ window.allHeroesExtra = [
         "passiveSkills": [
             "destructive_core",
             "resist_special_blocking"
-        ]
+        ],
+        "family": "construct"
     },
     {
         "name": "Captain Kestrel",
@@ -22693,7 +23688,8 @@ window.allHeroesExtra = [
         "baseDefense": 341,
         "baseHealth": 657,
         "specialId": "pirate_shot",
-        "passiveSkills": null
+        "passiveSkills": null,
+        "family": "pirate"
     },
     {
         "name": "Captain Nemo",
@@ -22713,7 +23709,8 @@ window.allHeroesExtra = [
         "specialId": "captains_cutlass",
         "passiveSkills": [
             "start_battle_with_mana"
-        ]
+        ],
+        "family": "abyss"
     },
     {
         "name": "Captain Nemo Costume1",
@@ -22742,7 +23739,8 @@ window.allHeroesExtra = [
         "attackBonus": "30%",
         "defenseBonus": "30%",
         "healthBonus": "35%",
-        "manaBonus": "5%"
+        "manaBonus": "5%",
+        "family": "abyss"
     },
     {
         "name": "Cardinal Richelieu",
@@ -22764,7 +23762,8 @@ window.allHeroesExtra = [
         "specialId": "web_of_spies",
         "passiveSkills": [
             "damage_all_enemies_on_cover_or_special_damage_received"
-        ]
+        ],
+        "family": "musketeer"
     },
     {
         "name": "Carmenta",
@@ -22785,7 +23784,8 @@ window.allHeroesExtra = [
         "specialId": "master_of_ailments",
         "passiveSkills": [
             "cleanse_on_own_familiar_death"
-        ]
+        ],
+        "family": "masquerade"
     },
     {
         "name": "Ceris",
@@ -22811,7 +23811,8 @@ window.allHeroesExtra = [
             "never_miss_special",
             "resist_negative_minion_and_mega_minion_effects",
             "bypass_minions_and_mega_minions"
-        ]
+        ],
+        "family": "astral_dwarfs"
     },
     {
         "name": "Charlotta",
@@ -22836,7 +23837,8 @@ window.allHeroesExtra = [
         "passiveSkills": [
             "heal_on_expired_or_cleared_debuff_slow",
             "resist_attack_modifier_debuffs"
-        ]
+        ],
+        "family": "opera"
     },
     {
         "name": "Charmione",
@@ -22860,7 +23862,8 @@ window.allHeroesExtra = [
         "passiveSkills": [
             "summon_slime_minion_on_damage_red",
             "summon_slime_minion_on_death_red"
-        ]
+        ],
+        "family": "slime"
     },
     {
         "name": "Chomper",
@@ -22882,7 +23885,8 @@ window.allHeroesExtra = [
         "passiveSkills": [
             "heal_and_add_mana_on_ally_minion",
             "damage_enemies_on_enemy_parasite"
-        ]
+        ],
+        "family": "mighty_pet"
     },
     {
         "name": "Chunkyroi",
@@ -22906,7 +23910,8 @@ window.allHeroesExtra = [
         "specialId": "prosperity_for_domain",
         "passiveSkills": [
             "dodge_enemy_damage_special"
-        ]
+        ],
+        "family": "moths"
     },
     {
         "name": "Cinderella",
@@ -22928,7 +23933,8 @@ window.allHeroesExtra = [
         "specialId": "fairy_godmothers_blessing",
         "passiveSkills": [
             "resist_status_effect_damage"
-        ]
+        ],
+        "family": "fable"
     },
     {
         "name": "Cleaver",
@@ -22951,7 +23957,8 @@ window.allHeroesExtra = [
         "passiveSkills": [
             "hunters_mark_on_special",
             "special_damage_reduction_monster_hunters"
-        ]
+        ],
+        "family": "plains_hunter"
     },
     {
         "name": "Cookie",
@@ -22970,7 +23977,8 @@ window.allHeroesExtra = [
         "baseDefense": 470,
         "baseHealth": 809,
         "specialId": "mystery_potions",
-        "passiveSkills": null
+        "passiveSkills": null,
+        "family": "winter"
     },
     {
         "name": "Cupido",
@@ -22991,7 +23999,8 @@ window.allHeroesExtra = [
         "specialId": "love_conquers_all",
         "passiveSkills": [
             "resist_special_blocking"
-        ]
+        ],
+        "family": "cupid"
     },
     {
         "name": "D'Artagnan",
@@ -23012,7 +24021,8 @@ window.allHeroesExtra = [
         "specialId": "flaming_rapier",
         "passiveSkills": [
             "damage_all_enemies_on_cover_or_special_damage_received"
-        ]
+        ],
+        "family": "musketeer"
     },
     {
         "name": "Daemon",
@@ -23034,7 +24044,8 @@ window.allHeroesExtra = [
         "specialId": "blood_petals_of_the_withered",
         "passiveSkills": [
             "heal_on_buff_alliance_quest_family"
-        ]
+        ],
+        "family": "stag"
     },
     {
         "name": "Dima",
@@ -23057,7 +24068,8 @@ window.allHeroesExtra = [
         "passiveSkills": [
             "remove_wither_from_allies",
             "resist_direct_mana_reductions"
-        ]
+        ],
+        "family": "garrison"
     },
     {
         "name": "Domiventus",
@@ -23080,7 +24092,8 @@ window.allHeroesExtra = [
         "specialId": "supernova",
         "passiveSkills": [
             "tales1_extra_special_damage_and_add_stacking_mana_generation"
-        ]
+        ],
+        "family": "tales1_baddies"
     },
     {
         "name": "Domiventus Costume1",
@@ -23111,7 +24124,8 @@ window.allHeroesExtra = [
         "attackBonus": "28%",
         "defenseBonus": "28%",
         "healthBonus": "28%",
-        "manaBonus": "5%"
+        "manaBonus": "5%",
+        "family": "tales1_baddies"
     },
     {
         "name": "Doxan",
@@ -23132,7 +24146,8 @@ window.allHeroesExtra = [
         "specialId": "dual_laser_blades",
         "passiveSkills": [
             "strong_troop_damage_modifier"
-        ]
+        ],
+        "family": "super_elemental"
     },
     {
         "name": "Dunnar Hart",
@@ -23159,7 +24174,8 @@ window.allHeroesExtra = [
         "specialId": "infernal_drumstorm",
         "passiveSkills": [
             "revival_chance_modifier_all_enemies"
-        ]
+        ],
+        "family": "bard"
     },
     {
         "name": "Ebba",
@@ -23183,7 +24199,8 @@ window.allHeroesExtra = [
         "passiveSkills": [
             "hunters_mark_on_special",
             "special_damage_reduction_monster_hunters"
-        ]
+        ],
+        "family": "plains_hunter"
     },
     {
         "name": "El Duque",
@@ -23205,7 +24222,8 @@ window.allHeroesExtra = [
         "specialId": "fists_of_atonement",
         "passiveSkills": [
             "gargoyle_stone"
-        ]
+        ],
+        "family": "gargoyle"
     },
     {
         "name": "Elba",
@@ -23226,7 +24244,8 @@ window.allHeroesExtra = [
         "specialId": "vanguard_of_passion",
         "passiveSkills": [
             "resist_special_blocking"
-        ]
+        ],
+        "family": "cupid"
     },
     {
         "name": "Elena",
@@ -23244,7 +24263,8 @@ window.allHeroesExtra = [
         "baseDefense": 281,
         "baseHealth": 637,
         "specialId": "wall_of_swords",
-        "passiveSkills": null
+        "passiveSkills": null,
+        "family": "classic"
     },
     {
         "name": "Elena Costume1",
@@ -23268,7 +24288,8 @@ window.allHeroesExtra = [
         "attackBonus": "13%",
         "defenseBonus": "13%",
         "healthBonus": "20%",
-        "manaBonus": "5%"
+        "manaBonus": "5%",
+        "family": "classic"
     },
     {
         "name": "Elena Costume2",
@@ -23292,7 +24313,8 @@ window.allHeroesExtra = [
         "attackBonus": "29%",
         "defenseBonus": "29%",
         "healthBonus": "44%",
-        "manaBonus": "5%"
+        "manaBonus": "5%",
+        "family": "classic"
     },
     {
         "name": "Elena Toon",
@@ -23319,7 +24341,8 @@ window.allHeroesExtra = [
         "attackBonus": "55%",
         "defenseBonus": "55%",
         "healthBonus": "70%",
-        "manaBonus": "5%"
+        "manaBonus": "5%",
+        "family": "classic"
     },
     {
         "name": "Eliane",
@@ -23342,7 +24365,8 @@ window.allHeroesExtra = [
         "passiveSkills": [
             "mana_on_enemy_burn",
             "resist_burn"
-        ]
+        ],
+        "family": "hotm2025"
     },
     {
         "name": "Elizabeth",
@@ -23364,7 +24388,8 @@ window.allHeroesExtra = [
         "specialId": "widows_kiss",
         "passiveSkills": [
             "increase_buff_duration"
-        ]
+        ],
+        "family": "abyss"
     },
     {
         "name": "Elizabeth Costume1",
@@ -23396,7 +24421,8 @@ window.allHeroesExtra = [
         "attackBonus": "30%",
         "defenseBonus": "30%",
         "healthBonus": "35%",
-        "manaBonus": "5%"
+        "manaBonus": "5%",
+        "family": "abyss"
     },
     {
         "name": "Ember",
@@ -23421,7 +24447,8 @@ window.allHeroesExtra = [
         "specialId": "firewall",
         "passiveSkills": [
             "reduced_healing_for_all_enemies"
-        ]
+        ],
+        "family": "fox"
     },
     {
         "name": "Emilio",
@@ -23440,7 +24467,8 @@ window.allHeroesExtra = [
         "baseDefense": 390,
         "baseHealth": 683,
         "specialId": "flames_and_rejuvenation",
-        "passiveSkills": null
+        "passiveSkills": null,
+        "family": "circus"
     },
     {
         "name": "Emilio Costume1",
@@ -23467,7 +24495,8 @@ window.allHeroesExtra = [
         "attackBonus": "57%",
         "defenseBonus": "57%",
         "healthBonus": "62%",
-        "manaBonus": "5%"
+        "manaBonus": "5%",
+        "family": "circus"
     },
     {
         "name": "Erebus",
@@ -23488,7 +24517,8 @@ window.allHeroesExtra = [
         "passiveSkills": [
             "resist_all_defense_debuffs",
             "reduce_minion_health"
-        ]
+        ],
+        "family": "styx"
     },
     {
         "name": "Eron",
@@ -23509,7 +24539,8 @@ window.allHeroesExtra = [
         "specialId": "song_of_hoot_and_holler",
         "passiveSkills": [
             "mana_generation_modifier_all_enemies_stronger"
-        ]
+        ],
+        "family": "owl"
     },
     {
         "name": "Experience Mimic",
@@ -23535,7 +24566,8 @@ window.allHeroesExtra = [
         "passiveSkills": [
             "mimic_training_hero_red",
             "never_miss_special"
-        ]
+        ],
+        "family": "mimic"
     },
     {
         "name": "Flamehide",
@@ -23557,7 +24589,8 @@ window.allHeroesExtra = [
         "passiveSkills": [
             "remove_growth_from_enemies",
             "resist_direct_mana_reductions"
-        ]
+        ],
+        "family": "garrison"
     },
     {
         "name": "Flip",
@@ -23579,7 +24612,8 @@ window.allHeroesExtra = [
         "passiveSkills": [
             "resist_water",
             "underwater_on_special_beach"
-        ]
+        ],
+        "family": "beachparty"
     },
     {
         "name": "Flip Costume1",
@@ -23607,7 +24641,8 @@ window.allHeroesExtra = [
         "attackBonus": "40%",
         "defenseBonus": "40%",
         "healthBonus": "45%",
-        "manaBonus": "5%"
+        "manaBonus": "5%",
+        "family": "beachparty"
     },
     {
         "name": "Fulvia",
@@ -23629,7 +24664,8 @@ window.allHeroesExtra = [
         "specialId": "royal_assault",
         "passiveSkills": [
             "mana_generation_modifier_all_enemies_stronger"
-        ]
+        ],
+        "family": "owl"
     },
     {
         "name": "Garnet",
@@ -23647,7 +24683,8 @@ window.allHeroesExtra = [
         "baseDefense": 365,
         "baseHealth": 719,
         "specialId": "awaken_ki",
-        "passiveSkills": null
+        "passiveSkills": null,
+        "family": "ninja"
     },
     {
         "name": "Gefjon",
@@ -23665,7 +24702,8 @@ window.allHeroesExtra = [
         "baseDefense": 372,
         "baseHealth": 611,
         "specialId": "maidens_command",
-        "passiveSkills": null
+        "passiveSkills": null,
+        "family": "muspelheim"
     },
     {
         "name": "Gefjon Costume1",
@@ -23689,7 +24727,8 @@ window.allHeroesExtra = [
         "attackBonus": "28%",
         "defenseBonus": "28%",
         "healthBonus": "35%",
-        "manaBonus": "5%"
+        "manaBonus": "5%",
+        "family": "muspelheim"
     },
     {
         "name": "Gestalt",
@@ -23710,7 +24749,8 @@ window.allHeroesExtra = [
         "specialId": "underwater_magma_cube",
         "passiveSkills": [
             "tales1_extra_special_damage_and_add_stacking_mana_generation"
-        ]
+        ],
+        "family": "tales1_baddies"
     },
     {
         "name": "Gestalt Costume1",
@@ -23739,7 +24779,8 @@ window.allHeroesExtra = [
         "attackBonus": "28%",
         "defenseBonus": "28%",
         "healthBonus": "28%",
-        "manaBonus": "5%"
+        "manaBonus": "5%",
+        "family": "tales1_baddies"
     },
     {
         "name": "Gooze",
@@ -23761,7 +24802,8 @@ window.allHeroesExtra = [
         "passiveSkills": [
             "summon_slime_minion_on_damage_red",
             "summon_slime_minion_on_death_red"
-        ]
+        ],
+        "family": "slime"
     },
     {
         "name": "Gravemaker",
@@ -23782,7 +24824,8 @@ window.allHeroesExtra = [
         "baseDefense": 344,
         "baseHealth": 662,
         "specialId": "ashes_to_ashes",
-        "passiveSkills": null
+        "passiveSkills": null,
+        "family": "hotm2018"
     },
     {
         "name": "Gravemaker Costume1",
@@ -23811,7 +24854,8 @@ window.allHeroesExtra = [
         "attackBonus": "28%",
         "defenseBonus": "26%",
         "healthBonus": "45%",
-        "manaBonus": "5%"
+        "manaBonus": "5%",
+        "family": "hotm2018"
     },
     {
         "name": "Grazul",
@@ -23832,7 +24876,8 @@ window.allHeroesExtra = [
         "specialId": "mending_mantra",
         "passiveSkills": [
             "resist_heal_multiplier_debuffs"
-        ]
+        ],
+        "family": "hotm2019"
     },
     {
         "name": "Guardian Kong",
@@ -23851,7 +24896,8 @@ window.allHeroesExtra = [
         "baseDefense": 285,
         "baseHealth": 696,
         "specialId": "lord_of_the_jungle",
-        "passiveSkills": null
+        "passiveSkills": null,
+        "family": "guardian"
     },
     {
         "name": "Guardian Kong Costume1",
@@ -23876,7 +24922,8 @@ window.allHeroesExtra = [
         "attackBonus": "27%",
         "defenseBonus": "25%",
         "healthBonus": "40%",
-        "manaBonus": "5%"
+        "manaBonus": "5%",
+        "family": "guardian"
     },
     {
         "name": "Guffa",
@@ -23899,7 +24946,8 @@ window.allHeroesExtra = [
         "specialId": "reflecting_stance",
         "passiveSkills": [
             "gargoyle_soft_skin"
-        ]
+        ],
+        "family": "gargoyle"
     },
     {
         "name": "Hammerclang",
@@ -23923,7 +24971,8 @@ window.allHeroesExtra = [
         "passiveSkills": [
             "share_received_damage",
             "resist_poison"
-        ]
+        ],
+        "family": "astral_elves"
     },
     {
         "name": "Hathor",
@@ -23943,7 +24992,8 @@ window.allHeroesExtra = [
         "specialId": "motherly_care",
         "passiveSkills": [
             "moon_extra_special_heal_and_add_mana"
-        ]
+        ],
+        "family": "moon"
     },
     {
         "name": "Hathor Costume1",
@@ -23974,7 +25024,8 @@ window.allHeroesExtra = [
         "attackBonus": "45%",
         "defenseBonus": "45%",
         "healthBonus": "50%",
-        "manaBonus": "5%"
+        "manaBonus": "5%",
+        "family": "moon"
     },
     {
         "name": "Hohenwerf",
@@ -23996,7 +25047,8 @@ window.allHeroesExtra = [
         "specialId": "possessor_of_penance",
         "passiveSkills": [
             "gargoyle_stone"
-        ]
+        ],
+        "family": "gargoyle"
     },
     {
         "name": "Hornfel",
@@ -24017,7 +25069,8 @@ window.allHeroesExtra = [
         "passiveSkills": [
             "destructive_core",
             "resist_special_blocking"
-        ]
+        ],
+        "family": "construct"
     },
     {
         "name": "Hypnos",
@@ -24039,7 +25092,8 @@ window.allHeroesExtra = [
         "passiveSkills": [
             "resist_all_defense_debuffs",
             "reduce_minion_health"
-        ]
+        ],
+        "family": "styx"
     },
     {
         "name": "Iarlaith",
@@ -24062,7 +25116,8 @@ window.allHeroesExtra = [
         "passiveSkills": [
             "remove_wither_from_allies",
             "resist_direct_mana_reductions"
-        ]
+        ],
+        "family": "garrison"
     },
     {
         "name": "Ignazio",
@@ -24084,7 +25139,8 @@ window.allHeroesExtra = [
         "specialId": "purifying_flame",
         "passiveSkills": [
             "strong_troop_damage_modifier"
-        ]
+        ],
+        "family": "super_elemental"
     },
     {
         "name": "Ignazio Costume1",
@@ -24112,7 +25168,8 @@ window.allHeroesExtra = [
         "attackBonus": "29%",
         "defenseBonus": "29%",
         "healthBonus": "30%",
-        "manaBonus": "5%"
+        "manaBonus": "5%",
+        "family": "super_elemental"
     },
     {
         "name": "Ilmarinen",
@@ -24133,7 +25190,8 @@ window.allHeroesExtra = [
         "specialId": "forged_in_fire",
         "passiveSkills": [
             "heal_mana_on_low_health_once"
-        ]
+        ],
+        "family": "kalevala"
     },
     {
         "name": "Iocantha",
@@ -24155,7 +25213,8 @@ window.allHeroesExtra = [
         "passiveSkills": [
             "remove_wither_from_allies",
             "resist_direct_mana_reductions"
-        ]
+        ],
+        "family": "garrison"
     },
     {
         "name": "Isidore",
@@ -24179,7 +25238,8 @@ window.allHeroesExtra = [
             "resist_negative_attack_modifiers_including_wither",
             "resist_insanity",
             "minion_and_mega_minion_accuracy_modifier"
-        ]
+        ],
+        "family": "faun"
     },
     {
         "name": "Isrod",
@@ -24198,7 +25258,8 @@ window.allHeroesExtra = [
         "baseDefense": 373,
         "baseHealth": 691,
         "specialId": "vengeful_scythe",
-        "passiveSkills": null
+        "passiveSkills": null,
+        "family": "villains"
     },
     {
         "name": "Jean-Francois",
@@ -24220,7 +25281,8 @@ window.allHeroesExtra = [
         "specialId": "seal_of_fire",
         "passiveSkills": [
             "resist_health_steal"
-        ]
+        ],
+        "family": "hotm2020"
     },
     {
         "name": "Khagan",
@@ -24239,7 +25301,8 @@ window.allHeroesExtra = [
         "baseDefense": 312,
         "baseHealth": 708,
         "specialId": "khans_order",
-        "passiveSkills": null
+        "passiveSkills": null,
+        "family": "classic"
     },
     {
         "name": "Khagan Costume1",
@@ -24264,7 +25327,8 @@ window.allHeroesExtra = [
         "attackBonus": "13%",
         "defenseBonus": "13%",
         "healthBonus": "20%",
-        "manaBonus": "5%"
+        "manaBonus": "5%",
+        "family": "classic"
     },
     {
         "name": "Khagan Costume2",
@@ -24289,7 +25353,8 @@ window.allHeroesExtra = [
         "attackBonus": "29%",
         "defenseBonus": "29%",
         "healthBonus": "44%",
-        "manaBonus": "5%"
+        "manaBonus": "5%",
+        "family": "classic"
     },
     {
         "name": "Khagan Toon",
@@ -24317,7 +25382,8 @@ window.allHeroesExtra = [
         "attackBonus": "55%",
         "defenseBonus": "55%",
         "healthBonus": "70%",
-        "manaBonus": "5%"
+        "manaBonus": "5%",
+        "family": "classic"
     },
     {
         "name": "Khagan Glass",
@@ -24345,7 +25411,8 @@ window.allHeroesExtra = [
         "attackBonus": "75%",
         "defenseBonus": "75%",
         "healthBonus": "78%",
-        "manaBonus": "5%"
+        "manaBonus": "5%",
+        "family": "classic"
     },
     {
         "name": "Khufu",
@@ -24366,7 +25433,8 @@ window.allHeroesExtra = [
         "specialId": "perplexing_riddle",
         "passiveSkills": [
             "sun_extra_special_damage_and_dot"
-        ]
+        ],
+        "family": "sun"
     },
     {
         "name": "Khufu Costume1",
@@ -24395,7 +25463,8 @@ window.allHeroesExtra = [
         "attackBonus": "45%",
         "defenseBonus": "45%",
         "healthBonus": "50%",
-        "manaBonus": "5%"
+        "manaBonus": "5%",
+        "family": "sun"
     },
     {
         "name": "Kravekrush",
@@ -24415,7 +25484,8 @@ window.allHeroesExtra = [
         "specialId": "inevitable_demise",
         "passiveSkills": [
             "start_battle_with_mana"
-        ]
+        ],
+        "family": "abyss"
     },
     {
         "name": "Kravekrush Costume1",
@@ -24443,7 +25513,8 @@ window.allHeroesExtra = [
         "attackBonus": "30%",
         "defenseBonus": "30%",
         "healthBonus": "35%",
-        "manaBonus": "5%"
+        "manaBonus": "5%",
+        "family": "abyss"
     },
     {
         "name": "Lady Loki",
@@ -24462,7 +25533,8 @@ window.allHeroesExtra = [
         "baseDefense": 377,
         "baseHealth": 637,
         "specialId": "tricksters_malice",
-        "passiveSkills": null
+        "passiveSkills": null,
+        "family": "helheim"
     },
     {
         "name": "Lady Loki Costume1",
@@ -24487,7 +25559,8 @@ window.allHeroesExtra = [
         "attackBonus": "28%",
         "defenseBonus": "28%",
         "healthBonus": "35%",
-        "manaBonus": "5%"
+        "manaBonus": "5%",
+        "family": "helheim"
     },
     {
         "name": "Lasalle",
@@ -24508,7 +25581,8 @@ window.allHeroesExtra = [
         "specialId": "flanking_maneuver",
         "passiveSkills": [
             "tales1_extra_special_damage_and_add_critical"
-        ]
+        ],
+        "family": "tales1_goodies"
     },
     {
         "name": "Lasalle Costume1",
@@ -24537,7 +25611,8 @@ window.allHeroesExtra = [
         "attackBonus": "28%",
         "defenseBonus": "28%",
         "healthBonus": "28%",
-        "manaBonus": "5%"
+        "manaBonus": "5%",
+        "family": "tales1_goodies"
     },
     {
         "name": "Lewena",
@@ -24556,7 +25631,8 @@ window.allHeroesExtra = [
         "baseDefense": 388,
         "baseHealth": 680,
         "specialId": "impeding_bolts",
-        "passiveSkills": null
+        "passiveSkills": null,
+        "family": "raven"
     },
     {
         "name": "Li Kui",
@@ -24580,7 +25656,8 @@ window.allHeroesExtra = [
             "resist_bleed",
             "righteous_rebellion_parent",
             "cleanse_on_special_critical_damage_all_safe"
-        ]
+        ],
+        "family": "outlaw"
     },
     {
         "name": "Lodius",
@@ -24602,7 +25679,8 @@ window.allHeroesExtra = [
         "specialId": "battleclaw_strike",
         "passiveSkills": [
             "mana_generation_modifier_all_enemies_stronger"
-        ]
+        ],
+        "family": "owl"
     },
     {
         "name": "Madhammer",
@@ -24624,7 +25702,8 @@ window.allHeroesExtra = [
         "specialId": "heedless_hammer_flurry",
         "passiveSkills": [
             "goblin_damage_and_accuracy_debuff_on_special"
-        ]
+        ],
+        "family": "goblin"
     },
     {
         "name": "Malum",
@@ -24648,7 +25727,8 @@ window.allHeroesExtra = [
         "specialId": "lacerating_leap",
         "passiveSkills": [
             "reduce_minion_health"
-        ]
+        ],
+        "family": "ninja"
     },
     {
         "name": "Marjana",
@@ -24666,7 +25746,8 @@ window.allHeroesExtra = [
         "baseDefense": 346,
         "baseHealth": 682,
         "specialId": "magma_smash",
-        "passiveSkills": null
+        "passiveSkills": null,
+        "family": "classic"
     },
     {
         "name": "Marjana Costume1",
@@ -24691,7 +25772,8 @@ window.allHeroesExtra = [
         "attackBonus": "13%",
         "defenseBonus": "13%",
         "healthBonus": "20%",
-        "manaBonus": "5%"
+        "manaBonus": "5%",
+        "family": "classic"
     },
     {
         "name": "Marjana Costume2",
@@ -24716,7 +25798,8 @@ window.allHeroesExtra = [
         "attackBonus": "29%",
         "defenseBonus": "29%",
         "healthBonus": "44%",
-        "manaBonus": "5%"
+        "manaBonus": "5%",
+        "family": "classic"
     },
     {
         "name": "Marjana Toon",
@@ -24743,7 +25826,8 @@ window.allHeroesExtra = [
         "attackBonus": "55%",
         "defenseBonus": "55%",
         "healthBonus": "70%",
-        "manaBonus": "5%"
+        "manaBonus": "5%",
+        "family": "classic"
     },
     {
         "name": "Marjana Glass",
@@ -24770,7 +25854,8 @@ window.allHeroesExtra = [
         "attackBonus": "75%",
         "defenseBonus": "75%",
         "healthBonus": "78%",
-        "manaBonus": "5%"
+        "manaBonus": "5%",
+        "family": "classic"
     },
     {
         "name": "Mitsuko",
@@ -24789,7 +25874,8 @@ window.allHeroesExtra = [
         "baseDefense": 353,
         "baseHealth": 704,
         "specialId": "dark_mirror",
-        "passiveSkills": null
+        "passiveSkills": null,
+        "family": "japanese"
     },
     {
         "name": "Mitsuko Costume1",
@@ -24814,7 +25900,8 @@ window.allHeroesExtra = [
         "attackBonus": "25%",
         "defenseBonus": "25%",
         "healthBonus": "30%",
-        "manaBonus": "5%"
+        "manaBonus": "5%",
+        "family": "japanese"
     },
     {
         "name": "Nadezhda",
@@ -24837,7 +25924,8 @@ window.allHeroesExtra = [
         "specialId": "flame_of_the_dragon_familiar",
         "passiveSkills": [
             "magic_heal_on_full_charge_to_not_red"
-        ]
+        ],
+        "family": "magic"
     },
     {
         "name": "Naeem",
@@ -24860,7 +25948,8 @@ window.allHeroesExtra = [
         "passiveSkills": [
             "reduce_big_minion_health",
             "fly_magic_carpet"
-        ]
+        ],
+        "family": "magic_carpet"
     },
     {
         "name": "Natalya",
@@ -24880,7 +25969,8 @@ window.allHeroesExtra = [
         "baseDefense": 330,
         "baseHealth": 689,
         "specialId": "burning_chains",
-        "passiveSkills": null
+        "passiveSkills": null,
+        "family": "hotm2018"
     },
     {
         "name": "Natalya Costume1",
@@ -24909,7 +25999,8 @@ window.allHeroesExtra = [
         "attackBonus": "28%",
         "defenseBonus": "26%",
         "healthBonus": "45%",
-        "manaBonus": "5%"
+        "manaBonus": "5%",
+        "family": "hotm2018"
     },
     {
         "name": "Neema",
@@ -24933,7 +26024,8 @@ window.allHeroesExtra = [
         "passiveSkills": [
             "resist_special_blocking",
             "bypass_taunt_effects"
-        ]
+        ],
+        "family": "hotm2023"
     },
     {
         "name": "Nibbles",
@@ -24955,7 +26047,8 @@ window.allHeroesExtra = [
         "specialId": "paw_in_every_pie",
         "passiveSkills": [
             "reduced_healing_for_all_enemies"
-        ]
+        ],
+        "family": "fox"
     },
     {
         "name": "Niki",
@@ -24976,7 +26069,8 @@ window.allHeroesExtra = [
         "specialId": "pain_harvest",
         "passiveSkills": [
             "strong_troop_damage_modifier"
-        ]
+        ],
+        "family": "super_elemental"
     },
     {
         "name": "Nomad",
@@ -25000,7 +26094,8 @@ window.allHeroesExtra = [
         "specialId": "silent_takedown",
         "passiveSkills": [
             "reduce_minion_health"
-        ]
+        ],
+        "family": "ninja"
     },
     {
         "name": "Noor",
@@ -25022,7 +26117,8 @@ window.allHeroesExtra = [
         "specialId": "sparrow_fury",
         "passiveSkills": [
             "summon_familiar_on_enemy_minion_summon"
-        ]
+        ],
+        "family": "hotm2020"
     },
     {
         "name": "Norman",
@@ -25044,7 +26140,8 @@ window.allHeroesExtra = [
             "bypass_taunt_effects",
             "add_mana_on_enemy_taunt_norman",
             "mana_gen_on_debuff"
-        ]
+        ],
+        "family": "champions"
     },
     {
         "name": "Oceanus",
@@ -25063,7 +26160,8 @@ window.allHeroesExtra = [
         "baseDefense": 357,
         "baseHealth": 679,
         "specialId": "strength_of_the_benemoth",
-        "passiveSkills": null
+        "passiveSkills": null,
+        "family": "atlantis"
     },
     {
         "name": "Octros",
@@ -25084,7 +26182,8 @@ window.allHeroesExtra = [
         "specialId": "hallowed_blade",
         "passiveSkills": [
             "increase_buff_duration"
-        ]
+        ],
+        "family": "abyss"
     },
     {
         "name": "Octros Costume1",
@@ -25114,7 +26213,8 @@ window.allHeroesExtra = [
         "attackBonus": "30%",
         "defenseBonus": "30%",
         "healthBonus": "35%",
-        "manaBonus": "5%"
+        "manaBonus": "5%",
+        "family": "abyss"
     },
     {
         "name": "Omen",
@@ -25136,7 +26236,8 @@ window.allHeroesExtra = [
         "specialId": "ritual_of_the_deep",
         "passiveSkills": [
             "insanity_damage_reduction"
-        ]
+        ],
+        "family": "cultist"
     },
     {
         "name": "Otis",
@@ -25159,7 +26260,8 @@ window.allHeroesExtra = [
         "passiveSkills": [
             "hunters_mark_on_special",
             "monster_hunter_reallocate_debuff_or_heal"
-        ]
+        ],
+        "family": "abyss_hunter"
     },
     {
         "name": "Ottilia",
@@ -25179,7 +26281,8 @@ window.allHeroesExtra = [
         "baseDefense": 534,
         "baseHealth": 984,
         "specialId": "mistletoe_medley",
-        "passiveSkills": null
+        "passiveSkills": null,
+        "family": "winter"
     },
     {
         "name": "Pepperflame",
@@ -25200,7 +26303,8 @@ window.allHeroesExtra = [
         "specialId": "chords_of_havoc",
         "passiveSkills": [
             "goblin_damage_and_accuracy_debuff_on_special"
-        ]
+        ],
+        "family": "goblin"
     },
     {
         "name": "Phenexa",
@@ -25222,7 +26326,8 @@ window.allHeroesExtra = [
         "specialId": "ballad_of_restoration",
         "passiveSkills": [
             "revival_chance_modifier_all_enemies"
-        ]
+        ],
+        "family": "bard"
     },
     {
         "name": "Pluth",
@@ -25247,7 +26352,8 @@ window.allHeroesExtra = [
             "never_miss_special",
             "resist_negative_minion_and_mega_minion_effects",
             "bypass_minions_and_mega_minions"
-        ]
+        ],
+        "family": "astral_dwarfs"
     },
     {
         "name": "Puss in Boots",
@@ -25267,7 +26373,8 @@ window.allHeroesExtra = [
         "baseDefense": 353,
         "baseHealth": 642,
         "specialId": "three_blind_mice",
-        "passiveSkills": null
+        "passiveSkills": null,
+        "family": "fable"
     },
     {
         "name": "Puss in Boots Costume1",
@@ -25293,7 +26400,8 @@ window.allHeroesExtra = [
         "attackBonus": "27%",
         "defenseBonus": "25%",
         "healthBonus": "40%",
-        "manaBonus": "5%"
+        "manaBonus": "5%",
+        "family": "fable"
     },
     {
         "name": "Queen of Hearts",
@@ -25313,7 +26421,8 @@ window.allHeroesExtra = [
         "baseDefense": 354,
         "baseHealth": 750,
         "specialId": "queen_of_cards",
-        "passiveSkills": null
+        "passiveSkills": null,
+        "family": "wonderland"
     },
     {
         "name": "Queen of Hearts Costume1",
@@ -25341,7 +26450,8 @@ window.allHeroesExtra = [
         "attackBonus": "27%",
         "defenseBonus": "25%",
         "healthBonus": "40%",
-        "manaBonus": "5%"
+        "manaBonus": "5%",
+        "family": "wonderland"
     },
     {
         "name": "Rajesh",
@@ -25367,7 +26477,8 @@ window.allHeroesExtra = [
         "passiveSkills": [
             "resist_all_defense_effects",
             "revive_chance_nine_lives"
-        ]
+        ],
+        "family": "wild_cat"
     },
     {
         "name": "Rashan",
@@ -25388,7 +26499,8 @@ window.allHeroesExtra = [
         "specialId": "cuts_of_hulu",
         "passiveSkills": [
             "insanity_damage_reduction"
-        ]
+        ],
+        "family": "cultist"
     },
     {
         "name": "Ray",
@@ -25417,7 +26529,8 @@ window.allHeroesExtra = [
         "passiveSkills": [
             "magic_mana_regen_stack_on_special",
             "magic_add_mana_on_full_charge_to_not_blue"
-        ]
+        ],
+        "family": "magic"
     },
     {
         "name": "Red Hood",
@@ -25436,7 +26549,8 @@ window.allHeroesExtra = [
         "baseDefense": 344,
         "baseHealth": 657,
         "specialId": "forest_friends",
-        "passiveSkills": null
+        "passiveSkills": null,
+        "family": "fable"
     },
     {
         "name": "Regin",
@@ -25463,7 +26577,8 @@ window.allHeroesExtra = [
         "passiveSkills": [
             "molten_core",
             "resist_burn_with_health_boost_and_mana"
-        ]
+        ],
+        "family": "nidavellir"
     },
     {
         "name": "Reuben",
@@ -25484,7 +26599,8 @@ window.allHeroesExtra = [
         "specialId": "occult_redemption",
         "passiveSkills": [
             "resist_mana_generation_modifier_debuffs"
-        ]
+        ],
+        "family": "hotm2020"
     },
     {
         "name": "Revna",
@@ -25506,7 +26622,8 @@ window.allHeroesExtra = [
         "passiveSkills": [
             "hunters_mark_on_special",
             "special_damage_reduction_monster_hunters"
-        ]
+        ],
+        "family": "plains_hunter"
     },
     {
         "name": "Rocket",
@@ -25527,7 +26644,8 @@ window.allHeroesExtra = [
         "specialId": "goblin_explosives",
         "passiveSkills": [
             "goblin_damage_and_accuracy_debuff_on_special"
-        ]
+        ],
+        "family": "goblin"
     },
     {
         "name": "Rosanna",
@@ -25546,7 +26664,8 @@ window.allHeroesExtra = [
         "baseDefense": 563,
         "baseHealth": 1046,
         "specialId": "last_words",
-        "passiveSkills": null
+        "passiveSkills": null,
+        "family": "investigator"
     },
     {
         "name": "Roughian & Nurgib",
@@ -25571,7 +26690,8 @@ window.allHeroesExtra = [
         "passiveSkills": [
             "mana_on_heal",
             "eat_random_enemy_minions_with_mana_per_eaten_minion"
-        ]
+        ],
+        "family": "hotm2023"
     },
     {
         "name": "Ruadh",
@@ -25596,7 +26716,8 @@ window.allHeroesExtra = [
         "passiveSkills": [
             "hunters_mark_on_special",
             "special_damage_reduction_monster_hunters"
-        ]
+        ],
+        "family": "plains_hunter"
     },
     {
         "name": "Ruby",
@@ -25616,7 +26737,8 @@ window.allHeroesExtra = [
         "baseDefense": 355,
         "baseHealth": 700,
         "specialId": "crimson_calamity",
-        "passiveSkills": null
+        "passiveSkills": null,
+        "family": "ninja"
     },
     {
         "name": "Russell",
@@ -25639,7 +26761,8 @@ window.allHeroesExtra = [
         "passiveSkills": [
             "mana_on_enemy_burn",
             "resist_attack_modifier_debuffs"
-        ]
+        ],
+        "family": "hotm2021"
     },
     {
         "name": "Rust",
@@ -25661,7 +26784,8 @@ window.allHeroesExtra = [
         "specialId": "cover_slam",
         "passiveSkills": [
             "reduced_healing_for_all_enemies"
-        ]
+        ],
+        "family": "fox"
     },
     {
         "name": "Salimata",
@@ -25684,7 +26808,8 @@ window.allHeroesExtra = [
         "passiveSkills": [
             "set_dance_duration",
             "set_ballad_duration"
-        ]
+        ],
+        "family": "bard"
     },
     {
         "name": "Santa Claus",
@@ -25704,7 +26829,8 @@ window.allHeroesExtra = [
         "baseDefense": 403,
         "baseHealth": 698,
         "specialId": "ultimate_giftsack",
-        "passiveSkills": null
+        "passiveSkills": null,
+        "family": "winter"
     },
     {
         "name": "Santa Claus Costume1",
@@ -25730,7 +26856,8 @@ window.allHeroesExtra = [
         "attackBonus": "35%",
         "defenseBonus": "35%",
         "healthBonus": "35%",
-        "manaBonus": "5%"
+        "manaBonus": "5%",
+        "family": "winter"
     },
     {
         "name": "Saoirse",
@@ -25754,7 +26881,8 @@ window.allHeroesExtra = [
         "specialId": "fracturing_slash",
         "passiveSkills": [
             "resist_status_effect_damage"
-        ]
+        ],
+        "family": "slayers"
     },
     {
         "name": "Saoirse Costume1",
@@ -25787,7 +26915,8 @@ window.allHeroesExtra = [
         "attackBonus": "57%",
         "defenseBonus": "57%",
         "healthBonus": "62%",
-        "manaBonus": "5%"
+        "manaBonus": "5%",
+        "family": "slayers"
     },
     {
         "name": "Scoria",
@@ -25813,7 +26942,8 @@ window.allHeroesExtra = [
         "passiveSkills": [
             "corrosive_core",
             "resist_special_blocking"
-        ]
+        ],
+        "family": "construct"
     },
     {
         "name": "Sekhmet",
@@ -25833,7 +26963,8 @@ window.allHeroesExtra = [
         "specialId": "pounce_of_the_lioness",
         "passiveSkills": [
             "sun_extra_special_damage_and_attack_debuff"
-        ]
+        ],
+        "family": "sun"
     },
     {
         "name": "Sekhmet Costume1",
@@ -25862,7 +26993,8 @@ window.allHeroesExtra = [
         "attackBonus": "45%",
         "defenseBonus": "45%",
         "healthBonus": "50%",
-        "manaBonus": "5%"
+        "manaBonus": "5%",
+        "family": "sun"
     },
     {
         "name": "Serandite",
@@ -25881,7 +27013,8 @@ window.allHeroesExtra = [
         "baseDefense": 383,
         "baseHealth": 697,
         "specialId": "burning_ashes",
-        "passiveSkills": null
+        "passiveSkills": null,
+        "family": "ninja"
     },
     {
         "name": "Skargremar",
@@ -25904,7 +27037,8 @@ window.allHeroesExtra = [
         "passiveSkills": [
             "resist_special_blocking",
             "resist_defense_modifier_debuffs"
-        ]
+        ],
+        "family": "hotm2023"
     },
     {
         "name": "Sparklight",
@@ -25928,7 +27062,8 @@ window.allHeroesExtra = [
         "passiveSkills": [
             "share_received_damage",
             "resist_poison"
-        ]
+        ],
+        "family": "astral_elves"
     },
     {
         "name": "Sun Quan",
@@ -25947,7 +27082,8 @@ window.allHeroesExtra = [
         "baseDefense": 387,
         "baseHealth": 742,
         "specialId": "command_to_advance",
-        "passiveSkills": null
+        "passiveSkills": null,
+        "family": "kingdom"
     },
     {
         "name": "Sun Quan Costume1",
@@ -25974,7 +27110,8 @@ window.allHeroesExtra = [
         "attackBonus": "35%",
         "defenseBonus": "35%",
         "healthBonus": "45%",
-        "manaBonus": "5%"
+        "manaBonus": "5%",
+        "family": "kingdom"
     },
     {
         "name": "Tahir",
@@ -25998,7 +27135,8 @@ window.allHeroesExtra = [
         "passiveSkills": [
             "heal_on_debuff_tahir",
             "resist_bleed"
-        ]
+        ],
+        "family": "hotm2022"
     },
     {
         "name": "Tetisheri",
@@ -26019,7 +27157,8 @@ window.allHeroesExtra = [
         "specialId": "ancient_spell",
         "passiveSkills": [
             "moon_extra_special_damage_and_dispel_latest_buff"
-        ]
+        ],
+        "family": "moon"
     },
     {
         "name": "Tetisheri Costume1",
@@ -26049,7 +27188,8 @@ window.allHeroesExtra = [
         "attackBonus": "45%",
         "defenseBonus": "45%",
         "healthBonus": "50%",
-        "manaBonus": "5%"
+        "manaBonus": "5%",
+        "family": "moon"
     },
     {
         "name": "Timothy",
@@ -26068,7 +27208,8 @@ window.allHeroesExtra = [
         "baseDefense": 481,
         "baseHealth": 885,
         "specialId": "adventure_awaits",
-        "passiveSkills": null
+        "passiveSkills": null,
+        "family": "easter"
     },
     {
         "name": "Torben",
@@ -26090,7 +27231,8 @@ window.allHeroesExtra = [
         "specialId": "mark_the_prey",
         "passiveSkills": [
             "heal_on_buff_alliance_quest_family"
-        ]
+        ],
+        "family": "bear"
     },
     {
         "name": "Tyr",
@@ -26111,7 +27253,8 @@ window.allHeroesExtra = [
         "baseDefense": 367,
         "baseHealth": 637,
         "specialId": "adamantite_claw",
-        "passiveSkills": null
+        "passiveSkills": null,
+        "family": "helheim"
     },
     {
         "name": "Tyr Costume1",
@@ -26138,7 +27281,8 @@ window.allHeroesExtra = [
         "attackBonus": "28%",
         "defenseBonus": "28%",
         "healthBonus": "35%",
-        "manaBonus": "5%"
+        "manaBonus": "5%",
+        "family": "helheim"
     },
     {
         "name": "Ukkonen",
@@ -26160,7 +27304,8 @@ window.allHeroesExtra = [
         "specialId": "chords_of_distortion",
         "passiveSkills": [
             "heal_mana_on_low_health_once"
-        ]
+        ],
+        "family": "kalevala"
     },
     {
         "name": "Ukkonen Costume1",
@@ -26188,7 +27333,8 @@ window.allHeroesExtra = [
         "attackBonus": "34%",
         "defenseBonus": "34%",
         "healthBonus": "35%",
-        "manaBonus": "5%"
+        "manaBonus": "5%",
+        "family": "kalevala"
     },
     {
         "name": "Vanda",
@@ -26210,7 +27356,8 @@ window.allHeroesExtra = [
         "specialId": "twilight_of_sorrow",
         "passiveSkills": [
             "halloween_steal_buff_or_deal_damage"
-        ]
+        ],
+        "family": "halloween"
     },
     {
         "name": "Vanda Costume1",
@@ -26238,7 +27385,8 @@ window.allHeroesExtra = [
         "attackBonus": "22%",
         "defenseBonus": "20%",
         "healthBonus": "25%",
-        "manaBonus": "5%"
+        "manaBonus": "5%",
+        "family": "halloween"
     },
     {
         "name": "Vanya",
@@ -26261,7 +27409,8 @@ window.allHeroesExtra = [
             "remove_wither_from_allies",
             "resist_direct_mana_reductions",
             "mana_on_debuff"
-        ]
+        ],
+        "family": "garrison"
     },
     {
         "name": "Xenda",
@@ -26284,7 +27433,8 @@ window.allHeroesExtra = [
         "specialId": "xenda_special",
         "passiveSkills": [
             "special_damage_reduction"
-        ]
+        ],
+        "family": "abyss"
     },
     {
         "name": "Xenda Costume1",
@@ -26315,7 +27465,8 @@ window.allHeroesExtra = [
         "attackBonus": "30%",
         "defenseBonus": "30%",
         "healthBonus": "35%",
-        "manaBonus": "5%"
+        "manaBonus": "5%",
+        "family": "abyss"
     },
     {
         "name": "Xiaotu",
@@ -26336,7 +27487,8 @@ window.allHeroesExtra = [
         "specialId": "reverse_recovery",
         "passiveSkills": [
             "enemy_minion_follower_silencer"
-        ]
+        ],
+        "family": "zodiac_rabbit"
     },
     {
         "name": "Xiwangmu",
@@ -26358,7 +27510,8 @@ window.allHeroesExtra = [
         "passiveSkills": [
             "heal_on_buff_with_chance",
             "mana_on_buff_with_chance"
-        ]
+        ],
+        "family": "journey"
     },
     {
         "name": "Yang Mai",
@@ -26382,7 +27535,8 @@ window.allHeroesExtra = [
         "passiveSkills": [
             "attack_buff_on_mana_reduction",
             "resist_water"
-        ]
+        ],
+        "family": "hotm2021"
     },
     {
         "name": "Yolanda",
@@ -26407,7 +27561,8 @@ window.allHeroesExtra = [
             "resist_negative_attack_modifiers_including_wither",
             "resist_insanity",
             "minion_and_mega_minion_accuracy_modifier"
-        ]
+        ],
+        "family": "faun"
     },
     {
         "name": "Zagrog",
@@ -26430,7 +27585,8 @@ window.allHeroesExtra = [
         "passiveSkills": [
             "resist_all_attack_modifiers",
             "resist_all_mana_debuffs"
-        ]
+        ],
+        "family": "hotm2022"
     },
     {
         "name": "Zarga",
@@ -26455,7 +27611,8 @@ window.allHeroesExtra = [
         "passiveSkills": [
             "mana_on_bleed",
             "heal_on_enemy_bleed"
-        ]
+        ],
+        "family": "hotm2024"
     },
     {
         "name": "Zaria",
@@ -26475,7 +27632,8 @@ window.allHeroesExtra = [
         "specialId": "cataclysmic_divination",
         "passiveSkills": [
             "strong_troop_damage_modifier"
-        ]
+        ],
+        "family": "super_elemental"
     },
     {
         "name": "Zenobia",
@@ -26499,7 +27657,8 @@ window.allHeroesExtra = [
         "specialId": "dual_sting",
         "passiveSkills": [
             "increase_buff_duration"
-        ]
+        ],
+        "family": "abyss"
     },
     {
         "name": "Zenobia Costume1",
@@ -26532,7 +27691,8 @@ window.allHeroesExtra = [
         "attackBonus": "30%",
         "defenseBonus": "30%",
         "healthBonus": "35%",
-        "manaBonus": "5%"
+        "manaBonus": "5%",
+        "family": "abyss"
     },
     {
         "name": "Zidane",
@@ -26555,7 +27715,8 @@ window.allHeroesExtra = [
         "passiveSkills": [
             "resist_buff_immunity",
             "increased_attack_per_enemies_not_red_zidane"
-        ]
+        ],
+        "family": "hotm2024"
     },
     {
         "name": "Zimkitha",
@@ -26575,7 +27736,8 @@ window.allHeroesExtra = [
         "baseDefense": 331,
         "baseHealth": 706,
         "specialId": "dawn_strike",
-        "passiveSkills": null
+        "passiveSkills": null,
+        "family": "hotm2018"
     },
     {
         "name": "Zimkitha Costume1",
@@ -26603,7 +27765,8 @@ window.allHeroesExtra = [
         "attackBonus": "28%",
         "defenseBonus": "26%",
         "healthBonus": "45%",
-        "manaBonus": "5%"
+        "manaBonus": "5%",
+        "family": "hotm2018"
     },
     {
         "name": "Hikaru",
@@ -26620,7 +27783,8 @@ window.allHeroesExtra = [
         "baseDefense": 152,
         "baseHealth": 273,
         "specialId": "backstab",
-        "passiveSkills": null
+        "passiveSkills": null,
+        "family": "classic"
     },
     {
         "name": "Kenjiro",
@@ -26637,7 +27801,8 @@ window.allHeroesExtra = [
         "baseDefense": 151,
         "baseHealth": 297,
         "specialId": "fierce_slash",
-        "passiveSkills": null
+        "passiveSkills": null,
+        "family": "classic"
     },
     {
         "name": "Hou",
@@ -26654,7 +27819,8 @@ window.allHeroesExtra = [
         "baseDefense": 207,
         "baseHealth": 296,
         "specialId": "defensive_tactics",
-        "passiveSkills": null
+        "passiveSkills": null,
+        "family": "classic"
     },
     {
         "name": "Nash",
@@ -26672,7 +27838,8 @@ window.allHeroesExtra = [
         "baseDefense": 208,
         "baseHealth": 341,
         "specialId": "stunning_blow",
-        "passiveSkills": null
+        "passiveSkills": null,
+        "family": "classic"
     },
     {
         "name": "Sha Ji",
@@ -26689,7 +27856,8 @@ window.allHeroesExtra = [
         "baseDefense": 209,
         "baseHealth": 420,
         "specialId": "healing_chant",
-        "passiveSkills": null
+        "passiveSkills": null,
+        "family": "classic"
     },
     {
         "name": "Agnes",
@@ -26707,7 +27875,8 @@ window.allHeroesExtra = [
         "baseDefense": 280,
         "baseHealth": 283,
         "specialId": "precise_chop",
-        "passiveSkills": null
+        "passiveSkills": null,
+        "family": "asgard"
     },
     {
         "name": "Arman",
@@ -26727,7 +27896,8 @@ window.allHeroesExtra = [
         "baseDefense": 241,
         "baseHealth": 410,
         "specialId": "soldiers_curse",
-        "passiveSkills": null
+        "passiveSkills": null,
+        "family": "sand"
     },
     {
         "name": "Bane",
@@ -26745,7 +27915,8 @@ window.allHeroesExtra = [
         "baseDefense": 236,
         "baseHealth": 399,
         "specialId": "harmonic_slam",
-        "passiveSkills": null
+        "passiveSkills": null,
+        "family": "classic"
     },
     {
         "name": "Bane Costume1",
@@ -26769,7 +27940,8 @@ window.allHeroesExtra = [
         "attackBonus": "7%",
         "defenseBonus": "7%",
         "healthBonus": "10%",
-        "manaBonus": "5%"
+        "manaBonus": "5%",
+        "family": "classic"
     },
     {
         "name": "Bane Toon",
@@ -26796,7 +27968,8 @@ window.allHeroesExtra = [
         "attackBonus": "15%",
         "defenseBonus": "15%",
         "healthBonus": "20%",
-        "manaBonus": "5%"
+        "manaBonus": "5%",
+        "family": "classic"
     },
     {
         "name": "Bane Glass",
@@ -26823,7 +27996,8 @@ window.allHeroesExtra = [
         "attackBonus": "17%",
         "defenseBonus": "17%",
         "healthBonus": "22%",
-        "manaBonus": "5%"
+        "manaBonus": "5%",
+        "family": "classic"
     },
     {
         "name": "Bertulf",
@@ -26840,7 +28014,8 @@ window.allHeroesExtra = [
         "baseDefense": 265,
         "baseHealth": 472,
         "specialId": "magnificent_meal",
-        "passiveSkills": null
+        "passiveSkills": null,
+        "family": "wolf"
     },
     {
         "name": "Candy",
@@ -26858,7 +28033,8 @@ window.allHeroesExtra = [
         "baseDefense": 281,
         "baseHealth": 466,
         "specialId": "whimsical_aid",
-        "passiveSkills": null
+        "passiveSkills": null,
+        "family": "circus"
     },
     {
         "name": "Cedar",
@@ -26882,7 +28058,8 @@ window.allHeroesExtra = [
         "passiveSkills": [
             "hunters_mark_on_special",
             "attack_modifier_on_special"
-        ]
+        ],
+        "family": "jungle_hunter"
     },
     {
         "name": "Cthuwu",
@@ -26901,7 +28078,8 @@ window.allHeroesExtra = [
         "baseDefense": 269,
         "baseHealth": 556,
         "specialId": "brain_link",
-        "passiveSkills": null
+        "passiveSkills": null,
+        "family": "cultist"
     },
     {
         "name": "Dawa",
@@ -26918,7 +28096,8 @@ window.allHeroesExtra = [
         "baseDefense": 225,
         "baseHealth": 391,
         "specialId": "leaping_attack",
-        "passiveSkills": null
+        "passiveSkills": null,
+        "family": "classic"
     },
     {
         "name": "Dawa Costume1",
@@ -26942,7 +28121,8 @@ window.allHeroesExtra = [
         "attackBonus": "7%",
         "defenseBonus": "7%",
         "healthBonus": "10%",
-        "manaBonus": "5%"
+        "manaBonus": "5%",
+        "family": "classic"
     },
     {
         "name": "Dawa Toon",
@@ -26968,7 +28148,8 @@ window.allHeroesExtra = [
         "attackBonus": "15%",
         "defenseBonus": "15%",
         "healthBonus": "20%",
-        "manaBonus": "5%"
+        "manaBonus": "5%",
+        "family": "classic"
     },
     {
         "name": "Dolrak",
@@ -26991,7 +28172,8 @@ window.allHeroesExtra = [
         "passiveSkills": [
             "resist_water",
             "underwater_on_special_beach"
-        ]
+        ],
+        "family": "beachparty"
     },
     {
         "name": "Edelaide",
@@ -27014,7 +28196,8 @@ window.allHeroesExtra = [
         "passiveSkills": [
             "hunters_mark_on_special",
             "special_damage_reduction_monster_hunters"
-        ]
+        ],
+        "family": "plains_hunter"
     },
     {
         "name": "Felton",
@@ -27036,7 +28219,8 @@ window.allHeroesExtra = [
         "specialId": "covert_stab",
         "passiveSkills": [
             "damage_all_enemies_on_cover_or_special_damage_received"
-        ]
+        ],
+        "family": "musketeer"
     },
     {
         "name": "Gan Ju",
@@ -27054,7 +28238,8 @@ window.allHeroesExtra = [
         "baseDefense": 209,
         "baseHealth": 467,
         "specialId": "mystic_chop",
-        "passiveSkills": null
+        "passiveSkills": null,
+        "family": "classic"
     },
     {
         "name": "Gan Ju Costume1",
@@ -27078,7 +28263,8 @@ window.allHeroesExtra = [
         "attackBonus": "7%",
         "defenseBonus": "7%",
         "healthBonus": "10%",
-        "manaBonus": "5%"
+        "manaBonus": "5%",
+        "family": "classic"
     },
     {
         "name": "Gan Ju Toon",
@@ -27105,7 +28291,8 @@ window.allHeroesExtra = [
         "attackBonus": "15%",
         "defenseBonus": "15%",
         "healthBonus": "20%",
-        "manaBonus": "5%"
+        "manaBonus": "5%",
+        "family": "classic"
     },
     {
         "name": "Gan Ju Glass",
@@ -27132,7 +28319,8 @@ window.allHeroesExtra = [
         "attackBonus": "17%",
         "defenseBonus": "17%",
         "healthBonus": "22%",
-        "manaBonus": "5%"
+        "manaBonus": "5%",
+        "family": "classic"
     },
     {
         "name": "Jaco",
@@ -27153,7 +28341,8 @@ window.allHeroesExtra = [
         "specialId": "dubious_merchandise",
         "passiveSkills": [
             "tales1_extra_special_damage_and_add_critical"
-        ]
+        ],
+        "family": "tales1_goodies"
     },
     {
         "name": "Jaco Costume1",
@@ -27182,7 +28371,8 @@ window.allHeroesExtra = [
         "attackBonus": "2%",
         "defenseBonus": "2%",
         "healthBonus": "4%",
-        "manaBonus": "1%"
+        "manaBonus": "1%",
+        "family": "tales1_goodies"
     },
     {
         "name": "Jolly",
@@ -27202,7 +28392,8 @@ window.allHeroesExtra = [
         "baseDefense": 267,
         "baseHealth": 553,
         "specialId": "birch_blessing",
-        "passiveSkills": null
+        "passiveSkills": null,
+        "family": "winter"
     },
     {
         "name": "Kailani",
@@ -27220,7 +28411,8 @@ window.allHeroesExtra = [
         "baseDefense": 261,
         "baseHealth": 420,
         "specialId": "stone_skin",
-        "passiveSkills": null
+        "passiveSkills": null,
+        "family": "classic"
     },
     {
         "name": "Kailani Costume1",
@@ -27244,7 +28436,8 @@ window.allHeroesExtra = [
         "attackBonus": "7%",
         "defenseBonus": "7%",
         "healthBonus": "10%",
-        "manaBonus": "5%"
+        "manaBonus": "5%",
+        "family": "classic"
     },
     {
         "name": "Kailani Toon",
@@ -27270,7 +28463,8 @@ window.allHeroesExtra = [
         "attackBonus": "15%",
         "defenseBonus": "15%",
         "healthBonus": "20%",
-        "manaBonus": "5%"
+        "manaBonus": "5%",
+        "family": "classic"
     },
     {
         "name": "Kailani Glass",
@@ -27297,7 +28491,8 @@ window.allHeroesExtra = [
         "attackBonus": "17%",
         "defenseBonus": "17%",
         "healthBonus": "22%",
-        "manaBonus": "5%"
+        "manaBonus": "5%",
+        "family": "classic"
     },
     {
         "name": "Kinsaishi",
@@ -27314,7 +28509,8 @@ window.allHeroesExtra = [
         "baseDefense": 296,
         "baseHealth": 361,
         "specialId": "lightning_stream",
-        "passiveSkills": null
+        "passiveSkills": null,
+        "family": "ninja"
     },
     {
         "name": "Kvasir",
@@ -27333,7 +28529,8 @@ window.allHeroesExtra = [
         "baseDefense": 244,
         "baseHealth": 527,
         "specialId": "bee_bravado",
-        "passiveSkills": null
+        "passiveSkills": null,
+        "family": "alfheim"
     },
     {
         "name": "Kvasir Costume1",
@@ -27358,7 +28555,8 @@ window.allHeroesExtra = [
         "attackBonus": "3%",
         "defenseBonus": "3%",
         "healthBonus": "6%",
-        "manaBonus": "1%"
+        "manaBonus": "1%",
+        "family": "alfheim"
     },
     {
         "name": "Melia",
@@ -27376,7 +28574,8 @@ window.allHeroesExtra = [
         "baseDefense": 233,
         "baseHealth": 394,
         "specialId": "atlantean_blade",
-        "passiveSkills": null
+        "passiveSkills": null,
+        "family": "atlantis"
     },
     {
         "name": "Melia Costume1",
@@ -27400,7 +28599,8 @@ window.allHeroesExtra = [
         "attackBonus": "3%",
         "defenseBonus": "3%",
         "healthBonus": "6%",
-        "manaBonus": "5%"
+        "manaBonus": "5%",
+        "family": "atlantis"
     },
     {
         "name": "Paeia",
@@ -27421,7 +28621,8 @@ window.allHeroesExtra = [
         "specialId": "owls_blessing",
         "passiveSkills": [
             "mana_generation_modifier_all_enemies_stronger"
-        ]
+        ],
+        "family": "owl"
     },
     {
         "name": "Pixie",
@@ -27439,7 +28640,8 @@ window.allHeroesExtra = [
         "baseDefense": 251,
         "baseHealth": 488,
         "specialId": "pixie_dust",
-        "passiveSkills": null
+        "passiveSkills": null,
+        "family": "fable"
     },
     {
         "name": "Poppy",
@@ -27459,7 +28661,8 @@ window.allHeroesExtra = [
         "specialId": "ricochet_bolt",
         "passiveSkills": [
             "increase_special_damage"
-        ]
+        ],
+        "family": "abyss"
     },
     {
         "name": "Poppy Costume1",
@@ -27485,7 +28688,8 @@ window.allHeroesExtra = [
         "attackBonus": "2%",
         "defenseBonus": "2%",
         "healthBonus": "4%",
-        "manaBonus": "1%"
+        "manaBonus": "1%",
+        "family": "abyss"
     },
     {
         "name": "Rekhetre",
@@ -27506,7 +28710,8 @@ window.allHeroesExtra = [
         "specialId": "puzzling_riddle",
         "passiveSkills": [
             "sun_extra_special_heal_and_cleanse_latest_debuff"
-        ]
+        ],
+        "family": "sun"
     },
     {
         "name": "Rekhetre Costume1",
@@ -27536,7 +28741,8 @@ window.allHeroesExtra = [
         "attackBonus": "2%",
         "defenseBonus": "2%",
         "healthBonus": "4%",
-        "manaBonus": "1%"
+        "manaBonus": "1%",
+        "family": "sun"
     },
     {
         "name": "Ribbit",
@@ -27558,7 +28764,8 @@ window.allHeroesExtra = [
         "passiveSkills": [
             "heal_and_add_mana_on_ally_minion",
             "damage_enemies_on_enemy_parasite"
-        ]
+        ],
+        "family": "mighty_pet"
     },
     {
         "name": "Rustbeak",
@@ -27581,7 +28788,8 @@ window.allHeroesExtra = [
         "passiveSkills": [
             "repair_core",
             "resist_special_blocking"
-        ]
+        ],
+        "family": "construct"
     },
     {
         "name": "Sally",
@@ -27598,7 +28806,8 @@ window.allHeroesExtra = [
         "baseDefense": 269,
         "baseHealth": 478,
         "specialId": "piercing_sabre",
-        "passiveSkills": null
+        "passiveSkills": null,
+        "family": "pirate"
     },
     {
         "name": "Saskia",
@@ -27622,7 +28831,8 @@ window.allHeroesExtra = [
             "resist_negative_defense_modifiers_including_wither",
             "resist_insanity",
             "minion_and_mega_minion_accuracy_modifier"
-        ]
+        ],
+        "family": "faun"
     },
     {
         "name": "Aeschere",
@@ -27645,7 +28855,8 @@ window.allHeroesExtra = [
         "passiveSkills": [
             "mana_on_debuff",
             "resist_mana_reductions_with_health_boost_and_mana"
-        ]
+        ],
+        "family": "beowulf"
     },
     {
         "name": "Anastasia",
@@ -27667,7 +28878,8 @@ window.allHeroesExtra = [
         "specialId": "cheerful_charm",
         "passiveSkills": [
             "magic_mana_regen_debuff_on_special"
-        ]
+        ],
+        "family": "magic"
     },
     {
         "name": "Bellerive",
@@ -27687,7 +28899,8 @@ window.allHeroesExtra = [
         "specialId": "sanction_for_heresy",
         "passiveSkills": [
             "gargoyle_stone"
-        ]
+        ],
+        "family": "gargoyle"
     },
     {
         "name": "Bogart",
@@ -27710,7 +28923,8 @@ window.allHeroesExtra = [
         "passiveSkills": [
             "hunters_mark_on_special",
             "monster_hunter_reallocate_debuff_or_heal"
-        ]
+        ],
+        "family": "abyss_hunter"
     },
     {
         "name": "Chao",
@@ -27728,7 +28942,8 @@ window.allHeroesExtra = [
         "baseDefense": 318,
         "baseHealth": 525,
         "specialId": "tactical_cut",
-        "passiveSkills": null
+        "passiveSkills": null,
+        "family": "classic"
     },
     {
         "name": "Chao Costume1",
@@ -27753,7 +28968,8 @@ window.allHeroesExtra = [
         "attackBonus": "7%",
         "defenseBonus": "7%",
         "healthBonus": "11%",
-        "manaBonus": "5%"
+        "manaBonus": "5%",
+        "family": "classic"
     },
     {
         "name": "Chao Costume2",
@@ -27777,7 +28993,8 @@ window.allHeroesExtra = [
         "attackBonus": "15%",
         "defenseBonus": "15%",
         "healthBonus": "20%",
-        "manaBonus": "5%"
+        "manaBonus": "5%",
+        "family": "classic"
     },
     {
         "name": "Chao Toon",
@@ -27804,7 +29021,8 @@ window.allHeroesExtra = [
         "attackBonus": "17%",
         "defenseBonus": "17%",
         "healthBonus": "22%",
-        "manaBonus": "5%"
+        "manaBonus": "5%",
+        "family": "classic"
     },
     {
         "name": "D'Andre",
@@ -27823,7 +29041,8 @@ window.allHeroesExtra = [
         "baseDefense": 300,
         "baseHealth": 650,
         "specialId": "vitalizing_show",
-        "passiveSkills": null
+        "passiveSkills": null,
+        "family": "circus"
     },
     {
         "name": "Danzaburo",
@@ -27844,7 +29063,8 @@ window.allHeroesExtra = [
         "baseDefense": 300,
         "baseHealth": 576,
         "specialId": "tricksters_exchange",
-        "passiveSkills": null
+        "passiveSkills": null,
+        "family": "japanese"
     },
     {
         "name": "Danzaburo Costume1",
@@ -27872,7 +29092,8 @@ window.allHeroesExtra = [
         "attackBonus": "3%",
         "defenseBonus": "3%",
         "healthBonus": "6%",
-        "manaBonus": "5%"
+        "manaBonus": "5%",
+        "family": "japanese"
     },
     {
         "name": "Errin",
@@ -27896,7 +29117,8 @@ window.allHeroesExtra = [
             "eat_fiends_on_special_cast",
             "resist_negative_minion_and_mega_minion_effects",
             "bypass_minions_and_mega_minions"
-        ]
+        ],
+        "family": "astral_dwarfs"
     },
     {
         "name": "Fjalar",
@@ -27922,7 +29144,8 @@ window.allHeroesExtra = [
         "passiveSkills": [
             "molten_core",
             "resist_burn_with_health_boost_and_mana"
-        ]
+        ],
+        "family": "nidavellir"
     },
     {
         "name": "Goldie",
@@ -27943,7 +29166,8 @@ window.allHeroesExtra = [
         "specialId": "magic_mirror_of_power",
         "passiveSkills": [
             "goblin_damage_and_accuracy_debuff_on_special"
-        ]
+        ],
+        "family": "goblin"
     },
     {
         "name": "Gretel",
@@ -27962,7 +29186,8 @@ window.allHeroesExtra = [
         "baseDefense": 282,
         "baseHealth": 497,
         "specialId": "witch_slayer",
-        "passiveSkills": null
+        "passiveSkills": null,
+        "family": "fable"
     },
     {
         "name": "Griffin",
@@ -27982,7 +29207,8 @@ window.allHeroesExtra = [
         "specialId": "invisible_strike",
         "passiveSkills": [
             "increase_special_damage"
-        ]
+        ],
+        "family": "abyss"
     },
     {
         "name": "Griffin Costume1",
@@ -28008,7 +29234,8 @@ window.allHeroesExtra = [
         "attackBonus": "2%",
         "defenseBonus": "2%",
         "healthBonus": "4%",
-        "manaBonus": "1%"
+        "manaBonus": "1%",
+        "family": "abyss"
     },
     {
         "name": "Gu Dasao",
@@ -28031,7 +29258,8 @@ window.allHeroesExtra = [
             "resist_bleed",
             "righteous_rebellion_parent",
             "cleanse_on_special_critical_damage_all_safe"
-        ]
+        ],
+        "family": "outlaw"
     },
     {
         "name": "Guardian Jackal",
@@ -28049,7 +29277,8 @@ window.allHeroesExtra = [
         "baseDefense": 250,
         "baseHealth": 486,
         "specialId": "ray_strike",
-        "passiveSkills": null
+        "passiveSkills": null,
+        "family": "guardian"
     },
     {
         "name": "Guardian Jackal Costume1",
@@ -28073,7 +29302,8 @@ window.allHeroesExtra = [
         "attackBonus": "5%",
         "defenseBonus": "5%",
         "healthBonus": "10%",
-        "manaBonus": "5%"
+        "manaBonus": "5%",
+        "family": "guardian"
     },
     {
         "name": "Gullinbursti",
@@ -28093,7 +29323,8 @@ window.allHeroesExtra = [
         "baseDefense": 286,
         "baseHealth": 657,
         "specialId": "angry_boar",
-        "passiveSkills": null
+        "passiveSkills": null,
+        "family": "asgard"
     },
     {
         "name": "Gullinbursti Costume1",
@@ -28119,7 +29350,8 @@ window.allHeroesExtra = [
         "attackBonus": "3%",
         "defenseBonus": "3%",
         "healthBonus": "6%",
-        "manaBonus": "1%"
+        "manaBonus": "1%",
+        "family": "asgard"
     },
     {
         "name": "Holly",
@@ -28138,7 +29370,8 @@ window.allHeroesExtra = [
         "baseDefense": 337,
         "baseHealth": 611,
         "specialId": "hearty_stew",
-        "passiveSkills": null
+        "passiveSkills": null,
+        "family": "winter"
     },
     {
         "name": "Hu Tao",
@@ -28156,7 +29389,8 @@ window.allHeroesExtra = [
         "baseDefense": 297,
         "baseHealth": 557,
         "specialId": "sonic_wall",
-        "passiveSkills": null
+        "passiveSkills": null,
+        "family": "classic"
     },
     {
         "name": "Hu Tao Costume1",
@@ -28181,7 +29415,8 @@ window.allHeroesExtra = [
         "attackBonus": "7%",
         "defenseBonus": "7%",
         "healthBonus": "11%",
-        "manaBonus": "5%"
+        "manaBonus": "5%",
+        "family": "classic"
     },
     {
         "name": "Hu Tao Costume2",
@@ -28206,7 +29441,8 @@ window.allHeroesExtra = [
         "attackBonus": "15%",
         "defenseBonus": "15%",
         "healthBonus": "20%",
-        "manaBonus": "5%"
+        "manaBonus": "5%",
+        "family": "classic"
     },
     {
         "name": "Hu Tao Toon",
@@ -28233,7 +29469,8 @@ window.allHeroesExtra = [
         "attackBonus": "17%",
         "defenseBonus": "17%",
         "healthBonus": "22%",
-        "manaBonus": "5%"
+        "manaBonus": "5%",
+        "family": "classic"
     },
     {
         "name": "Hu Tao Glass",
@@ -28260,7 +29497,8 @@ window.allHeroesExtra = [
         "attackBonus": "19%",
         "defenseBonus": "19%",
         "healthBonus": "24%",
-        "manaBonus": "5%"
+        "manaBonus": "5%",
+        "family": "classic"
     },
     {
         "name": "Lady Woolerton",
@@ -28278,7 +29516,8 @@ window.allHeroesExtra = [
         "baseDefense": 314,
         "baseHealth": 573,
         "specialId": "smooth_treatment",
-        "passiveSkills": null
+        "passiveSkills": null,
+        "family": "easter"
     },
     {
         "name": "Li Xiu",
@@ -28296,7 +29535,8 @@ window.allHeroesExtra = [
         "baseDefense": 313,
         "baseHealth": 517,
         "specialId": "slash_of_seven_blades",
-        "passiveSkills": null
+        "passiveSkills": null,
+        "family": "classic"
     },
     {
         "name": "Li Xiu Costume1",
@@ -28320,7 +29560,8 @@ window.allHeroesExtra = [
         "attackBonus": "7%",
         "defenseBonus": "7%",
         "healthBonus": "11%",
-        "manaBonus": "5%"
+        "manaBonus": "5%",
+        "family": "classic"
     },
     {
         "name": "Li Xiu Costume2",
@@ -28344,7 +29585,8 @@ window.allHeroesExtra = [
         "attackBonus": "15%",
         "defenseBonus": "15%",
         "healthBonus": "20%",
-        "manaBonus": "5%"
+        "manaBonus": "5%",
+        "family": "classic"
     },
     {
         "name": "Li Xiu Toon",
@@ -28371,7 +29613,8 @@ window.allHeroesExtra = [
         "attackBonus": "17%",
         "defenseBonus": "17%",
         "healthBonus": "22%",
-        "manaBonus": "5%"
+        "manaBonus": "5%",
+        "family": "classic"
     },
     {
         "name": "Li Xiu Glass",
@@ -28398,7 +29641,8 @@ window.allHeroesExtra = [
         "attackBonus": "19%",
         "defenseBonus": "19%",
         "healthBonus": "24%",
-        "manaBonus": "5%"
+        "manaBonus": "5%",
+        "family": "classic"
     },
     {
         "name": "Mist",
@@ -28418,7 +29662,8 @@ window.allHeroesExtra = [
         "baseDefense": 284,
         "baseHealth": 563,
         "specialId": "valkyrie_charge",
-        "passiveSkills": null
+        "passiveSkills": null,
+        "family": "midgard"
     },
     {
         "name": "Scoratek",
@@ -28439,7 +29684,8 @@ window.allHeroesExtra = [
         "specialId": "scarab_throw",
         "passiveSkills": [
             "moon_extra_special_damage_and_mana_regen_debuff"
-        ]
+        ],
+        "family": "moon"
     },
     {
         "name": "Scoratek Costume1",
@@ -28469,7 +29715,8 @@ window.allHeroesExtra = [
         "attackBonus": "2%",
         "defenseBonus": "2%",
         "healthBonus": "4%",
-        "manaBonus": "1%"
+        "manaBonus": "1%",
+        "family": "moon"
     },
     {
         "name": "Steropes",
@@ -28490,7 +29737,8 @@ window.allHeroesExtra = [
         "passiveSkills": [
             "resist_all_defense_debuffs",
             "reduce_minion_health"
-        ]
+        ],
+        "family": "styx"
     },
     {
         "name": "Voluptas",
@@ -28510,7 +29758,8 @@ window.allHeroesExtra = [
         "specialId": "flat_cake_for_sweethearts",
         "passiveSkills": [
             "resist_special_blocking"
-        ]
+        ],
+        "family": "cupid"
     },
     {
         "name": "Waddles",
@@ -28531,7 +29780,8 @@ window.allHeroesExtra = [
         "passiveSkills": [
             "heal_and_add_mana_on_ally_minion",
             "damage_enemies_on_enemy_parasite"
-        ]
+        ],
+        "family": "mighty_pet"
     },
     {
         "name": "Wang Yuanji",
@@ -28549,7 +29799,8 @@ window.allHeroesExtra = [
         "baseDefense": 334,
         "baseHealth": 551,
         "specialId": "nobles_empathy",
-        "passiveSkills": null
+        "passiveSkills": null,
+        "family": "kingdom"
     },
     {
         "name": "Wang Yuanji Costume1",
@@ -28576,7 +29827,8 @@ window.allHeroesExtra = [
         "attackBonus": "6%",
         "defenseBonus": "6%",
         "healthBonus": "6%",
-        "manaBonus": "5%"
+        "manaBonus": "5%",
+        "family": "kingdom"
     },
     {
         "name": "Wu Kong",
@@ -28594,7 +29846,8 @@ window.allHeroesExtra = [
         "baseDefense": 292,
         "baseHealth": 467,
         "specialId": "gamblers_stance",
-        "passiveSkills": null
+        "passiveSkills": null,
+        "family": "classic"
     },
     {
         "name": "Wu Kong Costume1",
@@ -28618,7 +29871,8 @@ window.allHeroesExtra = [
         "attackBonus": "7%",
         "defenseBonus": "7%",
         "healthBonus": "11%",
-        "manaBonus": "5%"
+        "manaBonus": "5%",
+        "family": "classic"
     },
     {
         "name": "Wu Kong Costume2",
@@ -28642,7 +29896,8 @@ window.allHeroesExtra = [
         "attackBonus": "15%",
         "defenseBonus": "15%",
         "healthBonus": "20%",
-        "manaBonus": "5%"
+        "manaBonus": "5%",
+        "family": "classic"
     },
     {
         "name": "Wu Kong Toon",
@@ -28668,7 +29923,8 @@ window.allHeroesExtra = [
         "attackBonus": "17%",
         "defenseBonus": "17%",
         "healthBonus": "22%",
-        "manaBonus": "5%"
+        "manaBonus": "5%",
+        "family": "classic"
     },
     {
         "name": "Zione",
@@ -28690,7 +29946,8 @@ window.allHeroesExtra = [
         "specialId": "express_delivery",
         "passiveSkills": [
             "strong_troop_damage_modifier"
-        ]
+        ],
+        "family": "super_elemental"
     },
     {
         "name": "Akkorog",
@@ -28710,7 +29967,8 @@ window.allHeroesExtra = [
         "specialId": "colossal_chops",
         "passiveSkills": [
             "increase_special_damage"
-        ]
+        ],
+        "family": "abyss"
     },
     {
         "name": "Akkorog Costume1",
@@ -28741,7 +29999,8 @@ window.allHeroesExtra = [
         "attackBonus": "30%",
         "defenseBonus": "30%",
         "healthBonus": "35%",
-        "manaBonus": "5%"
+        "manaBonus": "5%",
+        "family": "abyss"
     },
     {
         "name": "Albin",
@@ -28760,7 +30019,8 @@ window.allHeroesExtra = [
         "baseDefense": 555,
         "baseHealth": 1005,
         "specialId": "a_cozy_break",
-        "passiveSkills": null
+        "passiveSkills": null,
+        "family": "winter"
     },
     {
         "name": "Alvar",
@@ -28782,7 +30042,8 @@ window.allHeroesExtra = [
         "specialId": "scroll_of_new_beginnings",
         "passiveSkills": [
             "heal_on_buff_alliance_quest_family"
-        ]
+        ],
+        "family": "stag"
     },
     {
         "name": "Amund",
@@ -28804,7 +30065,8 @@ window.allHeroesExtra = [
         "passiveSkills": [
             "hunters_mark_on_special",
             "special_damage_reduction_monster_hunters"
-        ]
+        ],
+        "family": "plains_hunter"
     },
     {
         "name": "Anne",
@@ -28825,7 +30087,8 @@ window.allHeroesExtra = [
         "baseDefense": 387,
         "baseHealth": 698,
         "specialId": "cannon_blast",
-        "passiveSkills": null
+        "passiveSkills": null,
+        "family": "pirate"
     },
     {
         "name": "Anteros",
@@ -28845,7 +30108,8 @@ window.allHeroesExtra = [
         "specialId": "love_at_first_sight",
         "passiveSkills": [
             "resist_special_blocking"
-        ]
+        ],
+        "family": "cupid"
     },
     {
         "name": "Aouda",
@@ -28865,7 +30129,8 @@ window.allHeroesExtra = [
         "specialId": "blade_of_bundelkhand",
         "passiveSkills": [
             "increase_special_damage"
-        ]
+        ],
+        "family": "abyss"
     },
     {
         "name": "Aouda Costume1",
@@ -28894,7 +30159,8 @@ window.allHeroesExtra = [
         "attackBonus": "30%",
         "defenseBonus": "30%",
         "healthBonus": "35%",
-        "manaBonus": "5%"
+        "manaBonus": "5%",
+        "family": "abyss"
     },
     {
         "name": "Ashen",
@@ -28917,7 +30183,8 @@ window.allHeroesExtra = [
         "specialId": "divine_light1",
         "passiveSkills": [
             "reduced_healing_for_all_enemies"
-        ]
+        ],
+        "family": "fox"
     },
     {
         "name": "Astrid",
@@ -28939,7 +30206,8 @@ window.allHeroesExtra = [
         "passiveSkills": [
             "set_dance_duration",
             "set_ballad_duration"
-        ]
+        ],
+        "family": "bard"
     },
     {
         "name": "Auricarc",
@@ -28963,7 +30231,8 @@ window.allHeroesExtra = [
         "specialId": "riches_to_poor",
         "passiveSkills": [
             "dodge_enemy_damage_special"
-        ]
+        ],
+        "family": "moths"
     },
     {
         "name": "Aviana",
@@ -28986,7 +30255,8 @@ window.allHeroesExtra = [
         "passiveSkills": [
             "mana_on_buff",
             "resist_bleed"
-        ]
+        ],
+        "family": "hotm2024"
     },
     {
         "name": "Bai Yeong",
@@ -29008,7 +30278,8 @@ window.allHeroesExtra = [
         "specialId": "stunning_steel",
         "passiveSkills": [
             "resist_debuffs_from_minions"
-        ]
+        ],
+        "family": "hotm2020"
     },
     {
         "name": "Baishu",
@@ -29030,7 +30301,8 @@ window.allHeroesExtra = [
         "specialId": "masterful_balance",
         "passiveSkills": [
             "enemy_minion_follower_silencer"
-        ]
+        ],
+        "family": "zodiac_rat"
     },
     {
         "name": "Caitlin",
@@ -29055,7 +30327,8 @@ window.allHeroesExtra = [
         "specialId": "dispelling_willpower",
         "passiveSkills": [
             "resist_status_effect_damage"
-        ]
+        ],
+        "family": "slayers"
     },
     {
         "name": "Caitlin Costume1",
@@ -29089,7 +30362,8 @@ window.allHeroesExtra = [
         "attackBonus": "57%",
         "defenseBonus": "57%",
         "healthBonus": "62%",
-        "manaBonus": "5%"
+        "manaBonus": "5%",
+        "family": "slayers"
     },
     {
         "name": "Celidana",
@@ -29112,7 +30386,8 @@ window.allHeroesExtra = [
         "passiveSkills": [
             "healthboost_on_enemy_special",
             "resist_max_health_reduction"
-        ]
+        ],
+        "family": "hotm2022"
     },
     {
         "name": "Christine Daae",
@@ -29138,7 +30413,8 @@ window.allHeroesExtra = [
         "passiveSkills": [
             "heal_on_expired_or_cleared_debuff_fast",
             "resist_attack_modifier_debuffs"
-        ]
+        ],
+        "family": "opera"
     },
     {
         "name": "Cleopatra",
@@ -29159,7 +30435,8 @@ window.allHeroesExtra = [
         "specialId": "channeler_of_the_gods",
         "passiveSkills": [
             "sun_extra_special_heal_and_cleanse_latest_debuff"
-        ]
+        ],
+        "family": "sun"
     },
     {
         "name": "Cleopatra Costume1",
@@ -29191,7 +30468,8 @@ window.allHeroesExtra = [
         "attackBonus": "45%",
         "defenseBonus": "45%",
         "healthBonus": "50%",
-        "manaBonus": "5%"
+        "manaBonus": "5%",
+        "family": "sun"
     },
     {
         "name": "Constance",
@@ -29212,7 +30490,8 @@ window.allHeroesExtra = [
         "specialId": "sword_dance",
         "passiveSkills": [
             "damage_all_enemies_on_cover_or_special_damage_received"
-        ]
+        ],
+        "family": "musketeer"
     },
     {
         "name": "Dabria",
@@ -29234,7 +30513,8 @@ window.allHeroesExtra = [
         "passiveSkills": [
             "hunters_mark_on_special",
             "monster_hunter_reallocate_debuff_or_heal"
-        ]
+        ],
+        "family": "abyss_hunter"
     },
     {
         "name": "Delilah",
@@ -29253,7 +30533,8 @@ window.allHeroesExtra = [
         "baseDefense": 342,
         "baseHealth": 653,
         "specialId": "summon_temple_guardians",
-        "passiveSkills": null
+        "passiveSkills": null,
+        "family": "hotm2018"
     },
     {
         "name": "Delilah Costume1",
@@ -29281,7 +30562,8 @@ window.allHeroesExtra = [
         "attackBonus": "28%",
         "defenseBonus": "26%",
         "healthBonus": "45%",
-        "manaBonus": "5%"
+        "manaBonus": "5%",
+        "family": "hotm2018"
     },
     {
         "name": "Devana",
@@ -29305,7 +30587,8 @@ window.allHeroesExtra = [
         "passiveSkills": [
             "resist_negative_minion_effects",
             "resist_buff_dispels"
-        ]
+        ],
+        "family": "hotm2021"
     },
     {
         "name": "Director Zuri",
@@ -29324,7 +30607,8 @@ window.allHeroesExtra = [
         "baseDefense": 375,
         "baseHealth": 690,
         "specialId": "directors_blessing",
-        "passiveSkills": null
+        "passiveSkills": null,
+        "family": "circus"
     },
     {
         "name": "Dolores",
@@ -29348,7 +30632,8 @@ window.allHeroesExtra = [
         "specialId": "yellow_signs",
         "passiveSkills": [
             "insanity_damage_reduction"
-        ]
+        ],
+        "family": "investigator"
     },
     {
         "name": "Drake Fong",
@@ -29368,7 +30653,8 @@ window.allHeroesExtra = [
         "baseDefense": 346,
         "baseHealth": 657,
         "specialId": "flails_of_fury",
-        "passiveSkills": null
+        "passiveSkills": null,
+        "family": "hotm2018"
     },
     {
         "name": "Drake Fong Costume1",
@@ -29397,7 +30683,8 @@ window.allHeroesExtra = [
         "attackBonus": "28%",
         "defenseBonus": "26%",
         "healthBonus": "45%",
-        "manaBonus": "5%"
+        "manaBonus": "5%",
+        "family": "hotm2018"
     },
     {
         "name": "Eloise",
@@ -29415,7 +30702,8 @@ window.allHeroesExtra = [
         "baseDefense": 385,
         "baseHealth": 675,
         "specialId": "ravaging_talons",
-        "passiveSkills": null
+        "passiveSkills": null,
+        "family": "raven"
     },
     {
         "name": "Ephyra",
@@ -29437,7 +30725,8 @@ window.allHeroesExtra = [
         "specialId": "seabed_pirouette",
         "passiveSkills": [
             "tales1_extra_special_damage_and_add_critical"
-        ]
+        ],
+        "family": "tales1_goodies"
     },
     {
         "name": "Ephyra Costume1",
@@ -29467,7 +30756,8 @@ window.allHeroesExtra = [
         "attackBonus": "28%",
         "defenseBonus": "28%",
         "healthBonus": "28%",
-        "manaBonus": "5%"
+        "manaBonus": "5%",
+        "family": "tales1_goodies"
     },
     {
         "name": "Erlang Shen",
@@ -29485,7 +30775,8 @@ window.allHeroesExtra = [
         "baseDefense": 387,
         "baseHealth": 754,
         "specialId": "deteriorating_morale",
-        "passiveSkills": null
+        "passiveSkills": null,
+        "family": "journey"
     },
     {
         "name": "Eset",
@@ -29508,7 +30799,8 @@ window.allHeroesExtra = [
         "specialId": "holy_aura",
         "passiveSkills": [
             "sun_extra_special_damage_and_attack_debuff"
-        ]
+        ],
+        "family": "sun"
     },
     {
         "name": "Eset Costume1",
@@ -29540,7 +30832,8 @@ window.allHeroesExtra = [
         "attackBonus": "45%",
         "defenseBonus": "45%",
         "healthBonus": "50%",
-        "manaBonus": "5%"
+        "manaBonus": "5%",
+        "family": "sun"
     },
     {
         "name": "Experience Mimic Holy",
@@ -29566,7 +30859,8 @@ window.allHeroesExtra = [
         "passiveSkills": [
             "mimic_training_hero_yellow",
             "never_miss_special"
-        ]
+        ],
+        "family": "mimic"
     },
     {
         "name": "Faeona",
@@ -29590,7 +30884,8 @@ window.allHeroesExtra = [
         "passiveSkills": [
             "mana_on_buff",
             "resist_direct_mana_reductions"
-        ]
+        ],
+        "family": "hotm2024"
     },
     {
         "name": "Faline",
@@ -29608,7 +30903,8 @@ window.allHeroesExtra = [
         "baseDefense": 365,
         "baseHealth": 677,
         "specialId": "chakram_kick",
-        "passiveSkills": null
+        "passiveSkills": null,
+        "family": "circus"
     },
     {
         "name": "Frank 'Fangs' Brimwell",
@@ -29630,7 +30926,8 @@ window.allHeroesExtra = [
         "passiveSkills": [
             "remove_wither_from_allies",
             "resist_direct_mana_reductions"
-        ]
+        ],
+        "family": "garrison"
     },
     {
         "name": "Furdinand",
@@ -29654,7 +30951,8 @@ window.allHeroesExtra = [
         "passiveSkills": [
             "heal_and_add_mana_on_ally_minion",
             "damage_enemies_on_enemy_parasite"
-        ]
+        ],
+        "family": "mighty_pet"
     },
     {
         "name": "Gandr",
@@ -29681,7 +30979,8 @@ window.allHeroesExtra = [
         "passiveSkills": [
             "molten_core",
             "resist_burn_with_health_boost_and_mana"
-        ]
+        ],
+        "family": "nidavellir"
     },
     {
         "name": "Gideon",
@@ -29705,7 +31004,8 @@ window.allHeroesExtra = [
             "mana_on_debuff",
             "resist_insanity",
             "resist_negative_defense_modifiers_including_wither"
-        ]
+        ],
+        "family": "faun"
     },
     {
         "name": "Gilligan",
@@ -29727,7 +31027,8 @@ window.allHeroesExtra = [
         "passiveSkills": [
             "fixed_mana_per_enemy_buff",
             "resist_mana_debuffs"
-        ]
+        ],
+        "family": "hotm2023"
     },
     {
         "name": "Goldrip",
@@ -29749,7 +31050,8 @@ window.allHeroesExtra = [
         "passiveSkills": [
             "summon_slime_minion_on_damage_yellow",
             "summon_slime_minion_on_death_yellow"
-        ]
+        ],
+        "family": "slime"
     },
     {
         "name": "Gongniu",
@@ -29771,7 +31073,8 @@ window.allHeroesExtra = [
         "passiveSkills": [
             "enemy_minion_follower_silencer",
             "heal_on_debuff"
-        ]
+        ],
+        "family": "zodiac_ox"
     },
     {
         "name": "Gooric",
@@ -29793,7 +31096,8 @@ window.allHeroesExtra = [
         "passiveSkills": [
             "summon_slime_minion_on_damage_yellow",
             "summon_slime_minion_on_death_yellow"
-        ]
+        ],
+        "family": "slime"
     },
     {
         "name": "Grilka",
@@ -29815,7 +31119,8 @@ window.allHeroesExtra = [
         "specialId": "holy_hibiscus_ale",
         "passiveSkills": [
             "strong_troop_damage_modifier"
-        ]
+        ],
+        "family": "super_elemental"
     },
     {
         "name": "Guardian Elephant",
@@ -29839,7 +31144,8 @@ window.allHeroesExtra = [
         "specialId": "rain_of_arrows",
         "passiveSkills": [
             "resist_status_effect_damage"
-        ]
+        ],
+        "family": "guardian"
     },
     {
         "name": "Guardian Gazelle",
@@ -29862,7 +31168,8 @@ window.allHeroesExtra = [
         "baseDefense": 360,
         "baseHealth": 643,
         "specialId": "dance_of_spirits",
-        "passiveSkills": null
+        "passiveSkills": null,
+        "family": "guardian"
     },
     {
         "name": "Guardian Gazelle Costume1",
@@ -29891,7 +31198,8 @@ window.allHeroesExtra = [
         "attackBonus": "27%",
         "defenseBonus": "25%",
         "healthBonus": "40%",
-        "manaBonus": "5%"
+        "manaBonus": "5%",
+        "family": "guardian"
     },
     {
         "name": "Guardian Owl",
@@ -29911,7 +31219,8 @@ window.allHeroesExtra = [
         "baseDefense": 386,
         "baseHealth": 720,
         "specialId": "stately_retribution",
-        "passiveSkills": null
+        "passiveSkills": null,
+        "family": "guardian"
     },
     {
         "name": "Guinevere",
@@ -29930,7 +31239,8 @@ window.allHeroesExtra = [
         "baseDefense": 378,
         "baseHealth": 654,
         "specialId": "word_of_queen",
-        "passiveSkills": null
+        "passiveSkills": null,
+        "family": "knight"
     },
     {
         "name": "Guinevere Costume1",
@@ -29955,7 +31265,8 @@ window.allHeroesExtra = [
         "attackBonus": "27%",
         "defenseBonus": "25%",
         "healthBonus": "40%",
-        "manaBonus": "5%"
+        "manaBonus": "5%",
+        "family": "knight"
     },
     {
         "name": "Gwynn",
@@ -29979,7 +31290,8 @@ window.allHeroesExtra = [
         "passiveSkills": [
             "corrosive_core",
             "resist_special_blocking"
-        ]
+        ],
+        "family": "construct"
     },
     {
         "name": "Hachiko",
@@ -30001,7 +31313,8 @@ window.allHeroesExtra = [
         "passiveSkills": [
             "heal_and_add_mana_on_ally_minion",
             "damage_enemies_on_enemy_parasite"
-        ]
+        ],
+        "family": "mighty_pet"
     },
     {
         "name": "Hanitra",
@@ -30023,7 +31336,8 @@ window.allHeroesExtra = [
         "passiveSkills": [
             "mana_on_buff",
             "resist_special_blocking"
-        ]
+        ],
+        "family": "hotm2021"
     },
     {
         "name": "Haumri",
@@ -30050,7 +31364,8 @@ window.allHeroesExtra = [
             "never_miss_special",
             "resist_negative_minion_and_mega_minion_effects",
             "bypass_minions_and_mega_minions"
-        ]
+        ],
+        "family": "astral_dwarfs"
     },
     {
         "name": "Hilda",
@@ -30075,7 +31390,8 @@ window.allHeroesExtra = [
         "specialId": "drain_strike",
         "passiveSkills": [
             "gargoyle_soft_skin"
-        ]
+        ],
+        "family": "gargoyle"
     },
     {
         "name": "Horus",
@@ -30095,7 +31411,8 @@ window.allHeroesExtra = [
         "specialId": "unrelenting_hunter",
         "passiveSkills": [
             "sun_extra_special_damage_and_attack_debuff"
-        ]
+        ],
+        "family": "sun"
     },
     {
         "name": "Horus Costume1",
@@ -30124,7 +31441,8 @@ window.allHeroesExtra = [
         "attackBonus": "45%",
         "defenseBonus": "45%",
         "healthBonus": "50%",
-        "manaBonus": "5%"
+        "manaBonus": "5%",
+        "family": "sun"
     },
     {
         "name": "Iga",
@@ -30146,7 +31464,8 @@ window.allHeroesExtra = [
         "specialId": "kunai_assault",
         "passiveSkills": [
             "reduce_minion_health"
-        ]
+        ],
+        "family": "ninja"
     },
     {
         "name": "Inari",
@@ -30166,7 +31485,8 @@ window.allHeroesExtra = [
         "baseDefense": 312,
         "baseHealth": 637,
         "specialId": "lucky_nine",
-        "passiveSkills": null
+        "passiveSkills": null,
+        "family": "japanese"
     },
     {
         "name": "Inari Costume1",
@@ -30192,7 +31512,8 @@ window.allHeroesExtra = [
         "attackBonus": "25%",
         "defenseBonus": "25%",
         "healthBonus": "30%",
-        "manaBonus": "5%"
+        "manaBonus": "5%",
+        "family": "japanese"
     },
     {
         "name": "Ironmaw",
@@ -30215,7 +31536,8 @@ window.allHeroesExtra = [
         "specialId": "chains_of_light",
         "passiveSkills": [
             "strong_troop_damage_modifier"
-        ]
+        ],
+        "family": "super_elemental"
     },
     {
         "name": "Ithar",
@@ -30239,7 +31561,8 @@ window.allHeroesExtra = [
         "passiveSkills": [
             "dodge_enemy_damage_special",
             "resist_debuffs_from_minions"
-        ]
+        ],
+        "family": "hotm2023"
     },
     {
         "name": "Jana",
@@ -30261,7 +31584,8 @@ window.allHeroesExtra = [
         "specialId": "the_two_sides_of_the_moon",
         "passiveSkills": [
             "cleanse_on_own_familiar_death"
-        ]
+        ],
+        "family": "masquerade"
     },
     {
         "name": "Jasper",
@@ -30280,7 +31604,8 @@ window.allHeroesExtra = [
         "baseDefense": 422,
         "baseHealth": 768,
         "specialId": "petals_of_nourishment",
-        "passiveSkills": null
+        "passiveSkills": null,
+        "family": "easter"
     },
     {
         "name": "Jasper Costume1",
@@ -30305,7 +31630,8 @@ window.allHeroesExtra = [
         "attackBonus": "22%",
         "defenseBonus": "20%",
         "healthBonus": "25%",
-        "manaBonus": "5%"
+        "manaBonus": "5%",
+        "family": "easter"
     },
     {
         "name": "Jequn",
@@ -30327,7 +31653,8 @@ window.allHeroesExtra = [
         "specialId": "archaic_sacred_symbol",
         "passiveSkills": [
             "strong_troop_damage_modifier"
-        ]
+        ],
+        "family": "super_elemental"
     },
     {
         "name": "Jequn Costume1",
@@ -30355,7 +31682,8 @@ window.allHeroesExtra = [
         "attackBonus": "29%",
         "defenseBonus": "29%",
         "healthBonus": "30%",
-        "manaBonus": "5%"
+        "manaBonus": "5%",
+        "family": "super_elemental"
     },
     {
         "name": "Joon",
@@ -30373,7 +31701,8 @@ window.allHeroesExtra = [
         "baseDefense": 309,
         "baseHealth": 650,
         "specialId": "solar_beam",
-        "passiveSkills": null
+        "passiveSkills": null,
+        "family": "classic"
     },
     {
         "name": "Joon Costume1",
@@ -30397,7 +31726,8 @@ window.allHeroesExtra = [
         "attackBonus": "13%",
         "defenseBonus": "13%",
         "healthBonus": "20%",
-        "manaBonus": "5%"
+        "manaBonus": "5%",
+        "family": "classic"
     },
     {
         "name": "Joon Costume2",
@@ -30422,7 +31752,8 @@ window.allHeroesExtra = [
         "attackBonus": "29%",
         "defenseBonus": "29%",
         "healthBonus": "44%",
-        "manaBonus": "5%"
+        "manaBonus": "5%",
+        "family": "classic"
     },
     {
         "name": "Joon Toon",
@@ -30449,7 +31780,8 @@ window.allHeroesExtra = [
         "attackBonus": "55%",
         "defenseBonus": "55%",
         "healthBonus": "70%",
-        "manaBonus": "5%"
+        "manaBonus": "5%",
+        "family": "classic"
     },
     {
         "name": "Joon Glass",
@@ -30476,7 +31808,8 @@ window.allHeroesExtra = [
         "attackBonus": "75%",
         "defenseBonus": "75%",
         "healthBonus": "78%",
-        "manaBonus": "5%"
+        "manaBonus": "5%",
+        "family": "classic"
     },
     {
         "name": "Jove",
@@ -30497,7 +31830,8 @@ window.allHeroesExtra = [
         "specialId": "strike_from_the_skies",
         "passiveSkills": [
             "cleanse_on_own_familiar_death"
-        ]
+        ],
+        "family": "masquerade"
     },
     {
         "name": "Justice",
@@ -30515,7 +31849,8 @@ window.allHeroesExtra = [
         "baseDefense": 377,
         "baseHealth": 692,
         "specialId": "rite_of_judgement",
-        "passiveSkills": null
+        "passiveSkills": null,
+        "family": "classic"
     },
     {
         "name": "Justice Costume1",
@@ -30540,7 +31875,8 @@ window.allHeroesExtra = [
         "attackBonus": "13%",
         "defenseBonus": "13%",
         "healthBonus": "20%",
-        "manaBonus": "5%"
+        "manaBonus": "5%",
+        "family": "classic"
     },
     {
         "name": "Justice Costume2",
@@ -30565,7 +31901,8 @@ window.allHeroesExtra = [
         "attackBonus": "29%",
         "defenseBonus": "29%",
         "healthBonus": "44%",
-        "manaBonus": "5%"
+        "manaBonus": "5%",
+        "family": "classic"
     },
     {
         "name": "Justice Toon",
@@ -30592,7 +31929,8 @@ window.allHeroesExtra = [
         "attackBonus": "55%",
         "defenseBonus": "55%",
         "healthBonus": "70%",
-        "manaBonus": "5%"
+        "manaBonus": "5%",
+        "family": "classic"
     },
     {
         "name": "Kara",
@@ -30614,7 +31952,8 @@ window.allHeroesExtra = [
         "passiveSkills": [
             "resist_all_defense_debuffs",
             "mana_on_dispel_buff"
-        ]
+        ],
+        "family": "hotm2022"
     },
     {
         "name": "Kullervo",
@@ -30634,7 +31973,8 @@ window.allHeroesExtra = [
         "specialId": "heirloom_dagger",
         "passiveSkills": [
             "heal_mana_on_low_health_once"
-        ]
+        ],
+        "family": "kalevala"
     },
     {
         "name": "Kullervo Costume1",
@@ -30660,7 +32000,8 @@ window.allHeroesExtra = [
         "attackBonus": "34%",
         "defenseBonus": "34%",
         "healthBonus": "35%",
-        "manaBonus": "5%"
+        "manaBonus": "5%",
+        "family": "kalevala"
     },
     {
         "name": "Kushanku",
@@ -30680,7 +32021,8 @@ window.allHeroesExtra = [
         "baseDefense": 423,
         "baseHealth": 772,
         "specialId": "tumbling_dragon",
-        "passiveSkills": null
+        "passiveSkills": null,
+        "family": "ninja"
     },
     {
         "name": "Laohu",
@@ -30701,7 +32043,8 @@ window.allHeroesExtra = [
         "specialId": "fierce_fu_jow_pai",
         "passiveSkills": [
             "enemy_minion_follower_silencer"
-        ]
+        ],
+        "family": "zodiac_tiger"
     },
     {
         "name": "Lazara",
@@ -30725,7 +32068,8 @@ window.allHeroesExtra = [
             "damage_on_enemy_cleanse",
             "health_boost_on_ally_cleanse",
             "mana_gen_on_debuff"
-        ]
+        ],
+        "family": "champions"
     },
     {
         "name": "Lemonwood",
@@ -30750,7 +32094,8 @@ window.allHeroesExtra = [
         "passiveSkills": [
             "share_received_damage",
             "resist_poison"
-        ]
+        ],
+        "family": "astral_elves"
     },
     {
         "name": "Leonidas",
@@ -30769,7 +32114,8 @@ window.allHeroesExtra = [
         "baseDefense": 349,
         "baseHealth": 593,
         "specialId": "spartan_cleave",
-        "passiveSkills": null
+        "passiveSkills": null,
+        "family": "classic"
     },
     {
         "name": "Leonidas Costume1",
@@ -30794,7 +32140,8 @@ window.allHeroesExtra = [
         "attackBonus": "13%",
         "defenseBonus": "13%",
         "healthBonus": "20%",
-        "manaBonus": "5%"
+        "manaBonus": "5%",
+        "family": "classic"
     },
     {
         "name": "Leonidas Costume2",
@@ -30819,7 +32166,8 @@ window.allHeroesExtra = [
         "attackBonus": "29%",
         "defenseBonus": "29%",
         "healthBonus": "44%",
-        "manaBonus": "5%"
+        "manaBonus": "5%",
+        "family": "classic"
     },
     {
         "name": "Leonidas Toon",
@@ -30847,7 +32195,8 @@ window.allHeroesExtra = [
         "attackBonus": "55%",
         "defenseBonus": "55%",
         "healthBonus": "70%",
-        "manaBonus": "5%"
+        "manaBonus": "5%",
+        "family": "classic"
     },
     {
         "name": "Leonidas Glass",
@@ -30875,7 +32224,8 @@ window.allHeroesExtra = [
         "attackBonus": "75%",
         "defenseBonus": "75%",
         "healthBonus": "78%",
-        "manaBonus": "5%"
+        "manaBonus": "5%",
+        "family": "classic"
     },
     {
         "name": "Livia",
@@ -30897,7 +32247,8 @@ window.allHeroesExtra = [
         "specialId": "rites_of_inner_knowledge",
         "passiveSkills": [
             "mana_generation_modifier_all_enemies_stronger"
-        ]
+        ],
+        "family": "owl"
     },
     {
         "name": "Malin",
@@ -30921,7 +32272,8 @@ window.allHeroesExtra = [
         "passiveSkills": [
             "hunters_mark_on_special",
             "special_damage_reduction_monster_hunters"
-        ]
+        ],
+        "family": "plains_hunter"
     },
     {
         "name": "Malosi",
@@ -30942,7 +32294,8 @@ window.allHeroesExtra = [
         "specialId": "power_punch",
         "passiveSkills": [
             "resist_defense_modifier_debuffs"
-        ]
+        ],
+        "family": "hotm2020"
     },
     {
         "name": "Matilda",
@@ -30963,7 +32316,8 @@ window.allHeroesExtra = [
         "specialId": "muffin_poisoning",
         "passiveSkills": [
             "halloween_steal_buff_or_deal_damage"
-        ]
+        ],
+        "family": "halloween"
     },
     {
         "name": "May",
@@ -30985,7 +32339,8 @@ window.allHeroesExtra = [
         "passiveSkills": [
             "mana_on_buff",
             "resist_minion_removal"
-        ]
+        ],
+        "family": "hotm2025"
     },
     {
         "name": "Meg Giry",
@@ -31008,7 +32363,8 @@ window.allHeroesExtra = [
         "passiveSkills": [
             "heal_on_expired_or_cleared_debuff",
             "resist_defense_modifier_debuffs"
-        ]
+        ],
+        "family": "opera"
     },
     {
         "name": "Melodymuse",
@@ -31030,7 +32386,8 @@ window.allHeroesExtra = [
         "passiveSkills": [
             "share_received_damage",
             "resist_poison"
-        ]
+        ],
+        "family": "astral_elves"
     },
     {
         "name": "Meresankh",
@@ -31051,7 +32408,8 @@ window.allHeroesExtra = [
         "specialId": "impossible_riddle",
         "passiveSkills": [
             "sun_extra_special_damage_and_dot"
-        ]
+        ],
+        "family": "sun"
     },
     {
         "name": "Meresankh Costume1",
@@ -31081,7 +32439,8 @@ window.allHeroesExtra = [
         "attackBonus": "45%",
         "defenseBonus": "45%",
         "healthBonus": "50%",
-        "manaBonus": "5%"
+        "manaBonus": "5%",
+        "family": "sun"
     },
     {
         "name": "Mica",
@@ -31100,7 +32459,8 @@ window.allHeroesExtra = [
         "baseDefense": 399,
         "baseHealth": 670,
         "specialId": "connect_ki",
-        "passiveSkills": null
+        "passiveSkills": null,
+        "family": "ninja"
     },
     {
         "name": "Moonbell",
@@ -31124,7 +32484,8 @@ window.allHeroesExtra = [
         "passiveSkills": [
             "share_received_damage",
             "resist_poison"
-        ]
+        ],
+        "family": "astral_elves"
     },
     {
         "name": "Motega",
@@ -31148,7 +32509,8 @@ window.allHeroesExtra = [
         "specialId": "butterfly_swarm",
         "passiveSkills": [
             "magic_heal_on_full_charge_to_not_yellow"
-        ]
+        ],
+        "family": "magic"
     },
     {
         "name": "Musashi",
@@ -31168,7 +32530,8 @@ window.allHeroesExtra = [
         "baseDefense": 330,
         "baseHealth": 606,
         "specialId": "dragon_fang",
-        "passiveSkills": null
+        "passiveSkills": null,
+        "family": "hotm2017"
     },
     {
         "name": "Musashi Costume1",
@@ -31197,7 +32560,8 @@ window.allHeroesExtra = [
         "attackBonus": "28%",
         "defenseBonus": "26%",
         "healthBonus": "45%",
-        "manaBonus": "5%"
+        "manaBonus": "5%",
+        "family": "hotm2017"
     },
     {
         "name": "Neith",
@@ -31219,7 +32583,8 @@ window.allHeroesExtra = [
         "specialId": "sickle_of_eradication",
         "passiveSkills": [
             "resist_stop_mana_generation"
-        ]
+        ],
+        "family": "hotm2019"
     },
     {
         "name": "Nemesis",
@@ -31241,7 +32606,8 @@ window.allHeroesExtra = [
         "passiveSkills": [
             "resist_all_defense_debuffs",
             "reduce_minion_health"
-        ]
+        ],
+        "family": "styx"
     },
     {
         "name": "Nithgaest",
@@ -31264,7 +32630,8 @@ window.allHeroesExtra = [
             "attack_buff_on_damage_received",
             "resist_mana_reductions_with_health_boost_and_mana",
             "never_miss_special"
-        ]
+        ],
+        "family": "beowulf"
     },
     {
         "name": "Norns",
@@ -31281,7 +32648,8 @@ window.allHeroesExtra = [
         "baseDefense": 349,
         "baseHealth": 665,
         "specialId": "twist_of_fate",
-        "passiveSkills": null
+        "passiveSkills": null,
+        "family": "vanaheim"
     },
     {
         "name": "Norns Costume1",
@@ -31304,7 +32672,8 @@ window.allHeroesExtra = [
         "attackBonus": "28%",
         "defenseBonus": "28%",
         "healthBonus": "35%",
-        "manaBonus": "5%"
+        "manaBonus": "5%",
+        "family": "vanaheim"
     },
     {
         "name": "Odin",
@@ -31323,7 +32692,8 @@ window.allHeroesExtra = [
         "baseDefense": 365,
         "baseHealth": 646,
         "specialId": "fury_of_grimnir",
-        "passiveSkills": null
+        "passiveSkills": null,
+        "family": "midgard"
     },
     {
         "name": "Odin Costume1",
@@ -31348,7 +32718,8 @@ window.allHeroesExtra = [
         "attackBonus": "28%",
         "defenseBonus": "28%",
         "healthBonus": "35%",
-        "manaBonus": "5%"
+        "manaBonus": "5%",
+        "family": "midgard"
     },
     {
         "name": "Ogima",
@@ -31370,7 +32741,8 @@ window.allHeroesExtra = [
         "specialId": "rhythm_of_havoc",
         "passiveSkills": [
             "mana_generation_modifier_all_enemies_stronger"
-        ]
+        ],
+        "family": "bard"
     },
     {
         "name": "Onatel",
@@ -31392,7 +32764,8 @@ window.allHeroesExtra = [
         "specialId": "mana_stealer",
         "passiveSkills": [
             "resist_accuracy_modifier_debuffs"
-        ]
+        ],
+        "family": "hotm2019"
     },
     {
         "name": "Papyros",
@@ -31413,7 +32786,8 @@ window.allHeroesExtra = [
         "specialId": "summon_sand_golems",
         "passiveSkills": [
             "moon_extra_special_heal_and_add_mana"
-        ]
+        ],
+        "family": "moon"
     },
     {
         "name": "Papyros Costume1",
@@ -31445,7 +32819,8 @@ window.allHeroesExtra = [
         "attackBonus": "45%",
         "defenseBonus": "45%",
         "healthBonus": "50%",
-        "manaBonus": "5%"
+        "manaBonus": "5%",
+        "family": "moon"
     },
     {
         "name": "Penolite",
@@ -31468,7 +32843,8 @@ window.allHeroesExtra = [
         "specialId": "radiant_rapid_fire",
         "passiveSkills": [
             "gargoyle_stone"
-        ]
+        ],
+        "family": "gargoyle"
     },
     {
         "name": "Persa",
@@ -31492,7 +32868,8 @@ window.allHeroesExtra = [
         "specialId": "oceans_ruin",
         "passiveSkills": [
             "tales1_extra_special_damage_and_add_stacking_mana_generation"
-        ]
+        ],
+        "family": "tales1_baddies"
     },
     {
         "name": "Persa Costume1",
@@ -31524,7 +32901,8 @@ window.allHeroesExtra = [
         "attackBonus": "28%",
         "defenseBonus": "28%",
         "healthBonus": "28%",
-        "manaBonus": "5%"
+        "manaBonus": "5%",
+        "family": "tales1_baddies"
     },
     {
         "name": "Pertinax",
@@ -31549,7 +32927,8 @@ window.allHeroesExtra = [
         "specialId": "vengeance_of_owlhalla",
         "passiveSkills": [
             "mana_generation_modifier_all_enemies_stronger"
-        ]
+        ],
+        "family": "owl"
     },
     {
         "name": "Philomena",
@@ -31573,7 +32952,8 @@ window.allHeroesExtra = [
             "resist_negative_attack_modifiers_including_wither",
             "resist_insanity",
             "minion_and_mega_minion_accuracy_modifier"
-        ]
+        ],
+        "family": "faun"
     },
     {
         "name": "Poseidon",
@@ -31591,7 +32971,8 @@ window.allHeroesExtra = [
         "baseDefense": 349,
         "baseHealth": 655,
         "specialId": "ruler_of_seas",
-        "passiveSkills": null
+        "passiveSkills": null,
+        "family": "atlantis"
     },
     {
         "name": "Poseidon Costume1",
@@ -31615,7 +32996,8 @@ window.allHeroesExtra = [
         "attackBonus": "25%",
         "defenseBonus": "25%",
         "healthBonus": "30%",
-        "manaBonus": "5%"
+        "manaBonus": "5%",
+        "family": "atlantis"
     },
     {
         "name": "Prof Lidenbrock",
@@ -31636,7 +33018,8 @@ window.allHeroesExtra = [
         "specialId": "glorious_grace",
         "passiveSkills": [
             "start_battle_with_mana"
-        ]
+        ],
+        "family": "abyss"
     },
     {
         "name": "Prof Lidenbrock Costume1",
@@ -31665,7 +33048,8 @@ window.allHeroesExtra = [
         "attackBonus": "30%",
         "defenseBonus": "30%",
         "healthBonus": "35%",
-        "manaBonus": "5%"
+        "manaBonus": "5%",
+        "family": "abyss"
     },
     {
         "name": "Queen Guowang",
@@ -31683,7 +33067,8 @@ window.allHeroesExtra = [
         "baseDefense": 404,
         "baseHealth": 781,
         "specialId": "the_queens_radiance",
-        "passiveSkills": null
+        "passiveSkills": null,
+        "family": "journey"
     },
     {
         "name": "Rana",
@@ -31703,7 +33088,8 @@ window.allHeroesExtra = [
         "baseDefense": 345,
         "baseHealth": 664,
         "specialId": "queens_curse",
-        "passiveSkills": null
+        "passiveSkills": null,
+        "family": "sand"
     },
     {
         "name": "Rana Costume1",
@@ -31729,7 +33115,8 @@ window.allHeroesExtra = [
         "attackBonus": "25%",
         "defenseBonus": "25%",
         "healthBonus": "30%",
-        "manaBonus": "5%"
+        "manaBonus": "5%",
+        "family": "sand"
     },
     {
         "name": "Ranvir",
@@ -31751,7 +33138,8 @@ window.allHeroesExtra = [
         "specialId": "mystics_virtue",
         "passiveSkills": [
             "resist_poison"
-        ]
+        ],
+        "family": "hotm2019"
     },
     {
         "name": "Rhys",
@@ -31775,7 +33163,8 @@ window.allHeroesExtra = [
         "specialId": "hymn_of_enrichment",
         "passiveSkills": [
             "mana_generation_modifier_all_enemies_stronger"
-        ]
+        ],
+        "family": "bard"
     },
     {
         "name": "Roc",
@@ -31794,7 +33183,8 @@ window.allHeroesExtra = [
         "baseDefense": 359,
         "baseHealth": 661,
         "specialId": "sand_cyclone",
-        "passiveSkills": null
+        "passiveSkills": null,
+        "family": "sand"
     },
     {
         "name": "Roc Costume1",
@@ -31819,7 +33209,8 @@ window.allHeroesExtra = [
         "attackBonus": "25%",
         "defenseBonus": "25%",
         "healthBonus": "30%",
-        "manaBonus": "5%"
+        "manaBonus": "5%",
+        "family": "sand"
     },
     {
         "name": "Rosalind",
@@ -31843,7 +33234,8 @@ window.allHeroesExtra = [
         "passiveSkills": [
             "remove_wither_from_allies",
             "resist_direct_mana_reductions"
-        ]
+        ],
+        "family": "garrison"
     },
     {
         "name": "Ruan Xiaoqi",
@@ -31867,7 +33259,8 @@ window.allHeroesExtra = [
             "resist_bleed",
             "righteous_rebellion_parent",
             "cleanse_on_special_critical_damage_all_safe"
-        ]
+        ],
+        "family": "outlaw"
     },
     {
         "name": "Salniss",
@@ -31892,7 +33285,8 @@ window.allHeroesExtra = [
             "never_miss_special",
             "resist_negative_minion_and_mega_minion_effects",
             "bypass_minions_and_mega_minions"
-        ]
+        ],
+        "family": "astral_dwarfs"
     },
     {
         "name": "Satinpimenter",
@@ -31916,7 +33310,8 @@ window.allHeroesExtra = [
         "specialId": "toxic_incense",
         "passiveSkills": [
             "dodge_enemy_damage_special"
-        ]
+        ],
+        "family": "moths"
     },
     {
         "name": "Scrollbeast",
@@ -31938,7 +33333,8 @@ window.allHeroesExtra = [
         "specialId": "boar_of_fury",
         "passiveSkills": [
             "goblin_damage_and_accuracy_debuff_on_special"
-        ]
+        ],
+        "family": "goblin"
     },
     {
         "name": "Shaal",
@@ -31962,7 +33358,8 @@ window.allHeroesExtra = [
         "passiveSkills": [
             "repair_core",
             "resist_special_blocking"
-        ]
+        ],
+        "family": "construct"
     },
     {
         "name": "Shimmerscale",
@@ -31984,7 +33381,8 @@ window.allHeroesExtra = [
         "passiveSkills": [
             "remove_wither_from_allies",
             "resist_direct_mana_reductions"
-        ]
+        ],
+        "family": "garrison"
     },
     {
         "name": "Sif",
@@ -32004,7 +33402,8 @@ window.allHeroesExtra = [
         "baseDefense": 348,
         "baseHealth": 650,
         "specialId": "gold_weaver",
-        "passiveSkills": null
+        "passiveSkills": null,
+        "family": "midgard"
     },
     {
         "name": "Sif Costume1",
@@ -32030,7 +33429,8 @@ window.allHeroesExtra = [
         "attackBonus": "28%",
         "defenseBonus": "28%",
         "healthBonus": "35%",
-        "manaBonus": "5%"
+        "manaBonus": "5%",
+        "family": "midgard"
     },
     {
         "name": "Silverpaw",
@@ -32052,7 +33452,8 @@ window.allHeroesExtra = [
         "specialId": "greed_and_bribery",
         "passiveSkills": [
             "reduced_healing_for_all_enemies"
-        ]
+        ],
+        "family": "fox"
     },
     {
         "name": "Sir Roostley",
@@ -32070,7 +33471,8 @@ window.allHeroesExtra = [
         "baseDefense": 353,
         "baseHealth": 654,
         "specialId": "luminous_lance",
-        "passiveSkills": null
+        "passiveSkills": null,
+        "family": "easter"
     },
     {
         "name": "Sludgus",
@@ -32091,7 +33493,8 @@ window.allHeroesExtra = [
         "passiveSkills": [
             "summon_slime_minion_on_damage_yellow",
             "summon_slime_minion_on_death_yellow"
-        ]
+        ],
+        "family": "slime"
     },
     {
         "name": "Tang Sanzang",
@@ -32113,7 +33516,8 @@ window.allHeroesExtra = [
         "passiveSkills": [
             "heal_on_buff_with_chance",
             "mana_on_buff_with_chance"
-        ]
+        ],
+        "family": "journey"
     },
     {
         "name": "Thor",
@@ -32132,7 +33536,8 @@ window.allHeroesExtra = [
         "baseDefense": 357,
         "baseHealth": 677,
         "specialId": "power_of_mjolnir",
-        "passiveSkills": null
+        "passiveSkills": null,
+        "family": "midgard"
     },
     {
         "name": "Thor Costume1",
@@ -32156,7 +33561,8 @@ window.allHeroesExtra = [
         "attackBonus": "28%",
         "defenseBonus": "28%",
         "healthBonus": "35%",
-        "manaBonus": "5%"
+        "manaBonus": "5%",
+        "family": "midgard"
     },
     {
         "name": "Thunderclap",
@@ -32179,7 +33585,8 @@ window.allHeroesExtra = [
         "passiveSkills": [
             "hunters_mark_on_special",
             "attack_modifier_on_special"
-        ]
+        ],
+        "family": "jungle_hunter"
     },
     {
         "name": "Thura",
@@ -32202,7 +33609,8 @@ window.allHeroesExtra = [
         "passiveSkills": [
             "hunters_mark_on_special",
             "special_damage_reduction_monster_hunters"
-        ]
+        ],
+        "family": "plains_hunter"
     },
     {
         "name": "Topaz",
@@ -32221,7 +33629,8 @@ window.allHeroesExtra = [
         "baseDefense": 342,
         "baseHealth": 724,
         "specialId": "lethal_needles",
-        "passiveSkills": null
+        "passiveSkills": null,
+        "family": "ninja"
     },
     {
         "name": "Uraeus",
@@ -32245,7 +33654,8 @@ window.allHeroesExtra = [
         "passiveSkills": [
             "heal_on_own_familiar_death",
             "resist_sand"
-        ]
+        ],
+        "family": "hotm2021"
     },
     {
         "name": "Vaishali",
@@ -32270,7 +33680,8 @@ window.allHeroesExtra = [
         "passiveSkills": [
             "magic_mana_regen_stack_on_special",
             "magic_add_mana_on_full_charge_to_not_blue"
-        ]
+        ],
+        "family": "magic"
     },
     {
         "name": "Vivica",
@@ -32289,7 +33700,8 @@ window.allHeroesExtra = [
         "baseDefense": 337,
         "baseHealth": 645,
         "specialId": "omniheal",
-        "passiveSkills": null
+        "passiveSkills": null,
+        "family": "classic"
     },
     {
         "name": "Vivica Costume1",
@@ -32314,7 +33726,8 @@ window.allHeroesExtra = [
         "attackBonus": "13%",
         "defenseBonus": "13%",
         "healthBonus": "20%",
-        "manaBonus": "5%"
+        "manaBonus": "5%",
+        "family": "classic"
     },
     {
         "name": "Vivica Costume2",
@@ -32339,7 +33752,8 @@ window.allHeroesExtra = [
         "attackBonus": "29%",
         "defenseBonus": "29%",
         "healthBonus": "44%",
-        "manaBonus": "5%"
+        "manaBonus": "5%",
+        "family": "classic"
     },
     {
         "name": "Vivica Toon",
@@ -32366,7 +33780,8 @@ window.allHeroesExtra = [
         "attackBonus": "55%",
         "defenseBonus": "55%",
         "healthBonus": "70%",
-        "manaBonus": "5%"
+        "manaBonus": "5%",
+        "family": "classic"
     },
     {
         "name": "Vivica Glass",
@@ -32394,7 +33809,8 @@ window.allHeroesExtra = [
         "attackBonus": "75%",
         "defenseBonus": "75%",
         "healthBonus": "78%",
-        "manaBonus": "5%"
+        "manaBonus": "5%",
+        "family": "classic"
     },
     {
         "name": "Wayne",
@@ -32415,7 +33831,8 @@ window.allHeroesExtra = [
         "specialId": "blood_illusion",
         "passiveSkills": [
             "halloween_steal_buff_or_deal_damage"
-        ]
+        ],
+        "family": "halloween"
     },
     {
         "name": "Wealhtheow",
@@ -32440,7 +33857,8 @@ window.allHeroesExtra = [
             "resist_buff_immunity",
             "heal_on_expired_or_cleared_debuff",
             "mana_on_buff"
-        ]
+        ],
+        "family": "beowulf"
     },
     {
         "name": "White Rabbit",
@@ -32458,7 +33876,8 @@ window.allHeroesExtra = [
         "baseDefense": 364,
         "baseHealth": 657,
         "specialId": "rabbits_watch",
-        "passiveSkills": null
+        "passiveSkills": null,
+        "family": "wonderland"
     },
     {
         "name": "White Rabbit Costume1",
@@ -32484,7 +33903,8 @@ window.allHeroesExtra = [
         "attackBonus": "27%",
         "defenseBonus": "25%",
         "healthBonus": "40%",
-        "manaBonus": "5%"
+        "manaBonus": "5%",
+        "family": "wonderland"
     },
     {
         "name": "Willow",
@@ -32512,7 +33932,8 @@ window.allHeroesExtra = [
         "passiveSkills": [
             "magic_mana_regen_stack_on_special",
             "magic_heal_on_full_charge_to_not_green"
-        ]
+        ],
+        "family": "magic"
     },
     {
         "name": "Winnie",
@@ -32535,7 +33956,8 @@ window.allHeroesExtra = [
         "passiveSkills": [
             "heal_on_buff_alliance_quest_family",
             "mana_on_buff"
-        ]
+        ],
+        "family": "bear"
     },
     {
         "name": "Wolfgang",
@@ -32555,7 +33977,8 @@ window.allHeroesExtra = [
         "baseDefense": 381,
         "baseHealth": 704,
         "specialId": "commanders_gauntlet",
-        "passiveSkills": null
+        "passiveSkills": null,
+        "family": "wolf"
     },
     {
         "name": "Wolfgang Costume1",
@@ -32583,7 +34006,8 @@ window.allHeroesExtra = [
         "attackBonus": "48%",
         "defenseBonus": "48%",
         "healthBonus": "48%",
-        "manaBonus": "5%"
+        "manaBonus": "5%",
+        "family": "wolf"
     },
     {
         "name": "Wulfstan",
@@ -32602,7 +34026,8 @@ window.allHeroesExtra = [
         "baseDefense": 566,
         "baseHealth": 1008,
         "specialId": "eldritch_sign_bolts",
-        "passiveSkills": null
+        "passiveSkills": null,
+        "family": "cultist"
     },
     {
         "name": "Xavier",
@@ -32624,7 +34049,8 @@ window.allHeroesExtra = [
         "specialId": "cascading_whirlwind",
         "passiveSkills": [
             "strong_troop_damage_modifier"
-        ]
+        ],
+        "family": "super_elemental"
     },
     {
         "name": "Zandria",
@@ -32645,7 +34071,8 @@ window.allHeroesExtra = [
         "specialId": "unwavering_devotion",
         "passiveSkills": [
             "strong_troop_damage_modifier"
-        ]
+        ],
+        "family": "super_elemental"
     },
     {
         "name": "Zazha",
@@ -32669,7 +34096,8 @@ window.allHeroesExtra = [
         "passiveSkills": [
             "reduce_big_minion_health",
             "fly_magic_carpet"
-        ]
+        ],
+        "family": "magic_carpet"
     },
     {
         "name": "Zekena",
@@ -32690,7 +34118,8 @@ window.allHeroesExtra = [
         "specialId": "swift_stingers",
         "passiveSkills": [
             "increase_buff_duration"
-        ]
+        ],
+        "family": "abyss"
     },
     {
         "name": "Zekena Costume1",
@@ -32720,7 +34149,8 @@ window.allHeroesExtra = [
         "attackBonus": "30%",
         "defenseBonus": "30%",
         "healthBonus": "35%",
-        "manaBonus": "5%"
+        "manaBonus": "5%",
+        "family": "abyss"
     },
     {
         "name": "Zenuk'wa",
@@ -32743,7 +34173,8 @@ window.allHeroesExtra = [
         "passiveSkills": [
             "resist_water",
             "underwater_on_special_beach"
-        ]
+        ],
+        "family": "beachparty"
     },
     {
         "name": "Zhang Fei",
@@ -32761,7 +34192,8 @@ window.allHeroesExtra = [
         "baseDefense": 368,
         "baseHealth": 688,
         "specialId": "viper_blade",
-        "passiveSkills": null
+        "passiveSkills": null,
+        "family": "kingdom"
     },
     {
         "name": "Zhang Fei Costume1",
@@ -32788,7 +34220,8 @@ window.allHeroesExtra = [
         "attackBonus": "35%",
         "defenseBonus": "35%",
         "healthBonus": "45%",
-        "manaBonus": "5%"
+        "manaBonus": "5%",
+        "family": "kingdom"
     },
     {
         "name": "Zhuge Liang",
@@ -32808,7 +34241,8 @@ window.allHeroesExtra = [
         "baseDefense": 427,
         "baseHealth": 750,
         "specialId": "martial_masterstroke",
-        "passiveSkills": null
+        "passiveSkills": null,
+        "family": "kingdom"
     },
     {
         "name": "Zhuge Liang Costume1",
@@ -32836,7 +34270,8 @@ window.allHeroesExtra = [
         "attackBonus": "35%",
         "defenseBonus": "35%",
         "healthBonus": "45%",
-        "manaBonus": "5%"
+        "manaBonus": "5%",
+        "family": "kingdom"
     },
     {
         "name": "Zora",
@@ -32858,7 +34293,8 @@ window.allHeroesExtra = [
         "passiveSkills": [
             "mana_on_debuff",
             "resist_direct_mana_reductions"
-        ]
+        ],
+        "family": "hotm2024"
     },
     {
         "name": "Gelert Costume1",
@@ -32889,7 +34325,8 @@ window.allHeroesExtra = [
         "attackBonus": "28%",
         "defenseBonus": "28%",
         "healthBonus": "28%",
-        "manaBonus": "5%"
+        "manaBonus": "5%",
+        "family": "tales1_goodies"
     },
     {
         "name": "Lennart",
@@ -32913,7 +34350,8 @@ window.allHeroesExtra = [
         "passiveSkills": [
             "resist_all_defense_effects",
             "revive_chance_nine_lives"
-        ]
+        ],
+        "family": "wild_cat"
     },
     {
         "name": "Chao Gai",
@@ -32937,7 +34375,8 @@ window.allHeroesExtra = [
             "resist_bleed",
             "righteous_rebellion_parent",
             "cleanse_on_special_critical_damage_all_safe"
-        ]
+        ],
+        "family": "outlaw"
     },
     {
         "name": "Florenna",
@@ -32960,7 +34399,8 @@ window.allHeroesExtra = [
         "passiveSkills": [
             "resist_poison",
             "mana_on_debuff"
-        ]
+        ],
+        "family": "hotm2025"
     },
     {
         "name": "Orcur",
@@ -32984,7 +34424,8 @@ window.allHeroesExtra = [
             "resist_heal_multiplier_debuffs",
             "resist_negative_minion_and_mega_minion_effects",
             "eat_fiends_on_special_cast"
-        ]
+        ],
+        "family": "astral_dwarfs"
     },
     {
         "name": "Fruitio",
@@ -33006,7 +34447,8 @@ window.allHeroesExtra = [
         "passiveSkills": [
             "summon_slime_minion_on_damage_green",
             "summon_slime_minion_on_death_green"
-        ]
+        ],
+        "family": "slime"
     },
     {
         "name": "Lando",
@@ -33030,7 +34472,8 @@ window.allHeroesExtra = [
         "passiveSkills": [
             "reduce_big_minion_health",
             "fly_magic_carpet"
-        ]
+        ],
+        "family": "magic_carpet"
     },
     {
         "name": "Nadezhda Costume1",
@@ -33062,7 +34505,8 @@ window.allHeroesExtra = [
         "attackBonus": "57%",
         "defenseBonus": "57%",
         "healthBonus": "57%",
-        "manaBonus": "1%"
+        "manaBonus": "1%",
+        "family": "magic"
     },
     {
         "name": "Verdigoo",
@@ -33083,7 +34527,8 @@ window.allHeroesExtra = [
         "passiveSkills": [
             "summon_slime_minion_on_damage_green",
             "summon_slime_minion_on_death_green"
-        ]
+        ],
+        "family": "slime"
     },
     {
         "name": "Foxglove",
@@ -33105,7 +34550,8 @@ window.allHeroesExtra = [
         "specialId": "venomfang_concoction",
         "passiveSkills": [
             "reduced_healing_for_all_enemies"
-        ]
+        ],
+        "family": "fox"
     },
     {
         "name": "Halcyon",
@@ -33127,7 +34573,8 @@ window.allHeroesExtra = [
         "specialId": "unbroken_assault",
         "passiveSkills": [
             "reduced_healing_for_all_enemies"
-        ]
+        ],
+        "family": "fox"
     },
     {
         "name": "Fimafeng",
@@ -33153,7 +34600,8 @@ window.allHeroesExtra = [
         "passiveSkills": [
             "arctic_core",
             "resist_frost_with_health_boost_and_mana"
-        ]
+        ],
+        "family": "myrkheim"
     },
     {
         "name": "Salvatore",
@@ -33173,7 +34621,8 @@ window.allHeroesExtra = [
         "baseDefense": 605,
         "baseHealth": 1146,
         "specialId": "deranged_existence",
-        "passiveSkills": null
+        "passiveSkills": null,
+        "family": "cultist"
     },
     {
         "name": "Sneferu Costume1",
@@ -33203,7 +34652,8 @@ window.allHeroesExtra = [
         "attackBonus": "45%",
         "defenseBonus": "45%",
         "healthBonus": "50%",
-        "manaBonus": "5%"
+        "manaBonus": "5%",
+        "family": "moon"
     },
     {
         "name": "Grendel's Mother",
@@ -33227,7 +34677,8 @@ window.allHeroesExtra = [
             "attack_buff_on_damage_received",
             "resist_mana_reductions_with_health_boost_and_mana",
             "mana_on_buff"
-        ]
+        ],
+        "family": "beowulf"
     },
     {
         "name": "Carver Glass",
@@ -33254,7 +34705,8 @@ window.allHeroesExtra = [
         "attackBonus": "17%",
         "defenseBonus": "17%",
         "healthBonus": "22%",
-        "manaBonus": "5%"
+        "manaBonus": "5%",
+        "family": "classic"
     },
     {
         "name": "Chao Glass",
@@ -33281,7 +34733,8 @@ window.allHeroesExtra = [
         "attackBonus": "19%",
         "defenseBonus": "19%",
         "healthBonus": "24%",
-        "manaBonus": "5%"
+        "manaBonus": "5%",
+        "family": "classic"
     },
     {
         "name": "Elena Glass",
@@ -33308,7 +34761,8 @@ window.allHeroesExtra = [
         "attackBonus": "75%",
         "defenseBonus": "75%",
         "healthBonus": "78%",
-        "manaBonus": "5%"
+        "manaBonus": "5%",
+        "family": "classic"
     },
     {
         "name": "Hawkmoon Glass",
@@ -33334,7 +34788,8 @@ window.allHeroesExtra = [
         "attackBonus": "17%",
         "defenseBonus": "17%",
         "healthBonus": "22%",
-        "manaBonus": "5%"
+        "manaBonus": "5%",
+        "family": "classic"
     },
     {
         "name": "Rigard Glass",
@@ -33361,7 +34816,8 @@ window.allHeroesExtra = [
         "attackBonus": "19%",
         "defenseBonus": "19%",
         "healthBonus": "24%",
-        "manaBonus": "5%"
+        "manaBonus": "5%",
+        "family": "classic"
     },
     {
         "name": "Imagus",
@@ -33383,7 +34839,8 @@ window.allHeroesExtra = [
         "passiveSkills": [
             "resist_all_defense_effects",
             "revive_chance_nine_lives"
-        ]
+        ],
+        "family": "wild_cat"
     },
     {
         "name": "Roz Costume1",
@@ -33410,7 +34867,8 @@ window.allHeroesExtra = [
         "attackBonus": "29%",
         "defenseBonus": "29%",
         "healthBonus": "30%",
-        "manaBonus": "5%"
+        "manaBonus": "5%",
+        "family": "super_elemental"
     },
     {
         "name": "Ascension Mimic",
@@ -33436,7 +34894,8 @@ window.allHeroesExtra = [
         "passiveSkills": [
             "mimic_ascension_item_red",
             "never_miss_special"
-        ]
+        ],
+        "family": "mimic"
     },
     {
         "name": "Godfrey",
@@ -33459,7 +34918,8 @@ window.allHeroesExtra = [
         "passiveSkills": [
             "remove_wither_from_allies",
             "resist_direct_mana_reductions"
-        ]
+        ],
+        "family": "garrison"
     },
     {
         "name": "Agadh",
@@ -33484,7 +34944,8 @@ window.allHeroesExtra = [
         "passiveSkills": [
             "reduce_big_minion_health",
             "fly_magic_carpet"
-        ]
+        ],
+        "family": "magic_carpet"
     },
     {
         "name": "Ray Costume1",
@@ -33520,7 +34981,8 @@ window.allHeroesExtra = [
         "attackBonus": "43%",
         "defenseBonus": "43%",
         "healthBonus": "43%",
-        "manaBonus": "1%"
+        "manaBonus": "1%",
+        "family": "magic"
     },
     {
         "name": "Ascension Mimic Ice",
@@ -33546,7 +35008,8 @@ window.allHeroesExtra = [
         "passiveSkills": [
             "mimic_ascension_item_blue",
             "never_miss_special"
-        ]
+        ],
+        "family": "mimic"
     },
     {
         "name": "Gwendoline",
@@ -33569,7 +35032,8 @@ window.allHeroesExtra = [
         "baseDefense": 637,
         "baseHealth": 1056,
         "specialId": "essence_of_queen_nitocris",
-        "passiveSkills": null
+        "passiveSkills": null,
+        "family": "investigator"
     },
     {
         "name": "Ilmarinen Costume1",
@@ -33596,7 +35060,8 @@ window.allHeroesExtra = [
         "attackBonus": "34%",
         "defenseBonus": "34%",
         "healthBonus": "35%",
-        "manaBonus": "5%"
+        "manaBonus": "5%",
+        "family": "kalevala"
     },
     {
         "name": "Joukahainen Costume1",
@@ -33623,7 +35088,8 @@ window.allHeroesExtra = [
         "attackBonus": "3%",
         "defenseBonus": "3%",
         "healthBonus": "6%",
-        "manaBonus": "1%"
+        "manaBonus": "1%",
+        "family": "kalevala"
     },
     {
         "name": "Lemminkainen Costume1",
@@ -33649,7 +35115,8 @@ window.allHeroesExtra = [
         "attackBonus": "3%",
         "defenseBonus": "3%",
         "healthBonus": "6%",
-        "manaBonus": "1%"
+        "manaBonus": "1%",
+        "family": "kalevala"
     },
     {
         "name": "Louhi Costume1",
@@ -33676,7 +35143,8 @@ window.allHeroesExtra = [
         "attackBonus": "34%",
         "defenseBonus": "34%",
         "healthBonus": "35%",
-        "manaBonus": "5%"
+        "manaBonus": "5%",
+        "family": "kalevala"
     },
     {
         "name": "Mother Lemminkainen",
@@ -33698,7 +35166,8 @@ window.allHeroesExtra = [
         "specialId": "mending_stitches",
         "passiveSkills": [
             "heal_mana_on_low_health_once"
-        ]
+        ],
+        "family": "kalevala"
     },
     {
         "name": "Sedille",
@@ -33724,7 +35193,8 @@ window.allHeroesExtra = [
             "never_miss_special",
             "resist_negative_minion_and_mega_minion_effects",
             "bypass_minions_and_mega_minions"
-        ]
+        ],
+        "family": "astral_dwarfs"
     },
     {
         "name": "Suomuhauki",
@@ -33747,7 +35217,8 @@ window.allHeroesExtra = [
         "specialId": "snapping_jaws",
         "passiveSkills": [
             "heal_mana_on_low_health_once"
-        ]
+        ],
+        "family": "kalevala"
     },
     {
         "name": "Choozen",
@@ -33768,7 +35239,8 @@ window.allHeroesExtra = [
         "passiveSkills": [
             "summon_slime_minion_on_damage_blue",
             "summon_slime_minion_on_death_blue"
-        ]
+        ],
+        "family": "slime"
     },
     {
         "name": "Gloozmer",
@@ -33792,7 +35264,8 @@ window.allHeroesExtra = [
         "passiveSkills": [
             "summon_slime_minion_on_damage_blue",
             "summon_slime_minion_on_death_blue"
-        ]
+        ],
+        "family": "slime"
     },
     {
         "name": "Maple",
@@ -33813,7 +35286,8 @@ window.allHeroesExtra = [
         "passiveSkills": [
             "heal_on_buff",
             "resist_buff_immunity"
-        ]
+        ],
+        "family": "hotm2025"
     },
     {
         "name": "Sun Erniang",
@@ -33837,7 +35311,8 @@ window.allHeroesExtra = [
             "resist_bleed",
             "righteous_rebellion_parent",
             "health_boost_on_special_critical_damage_all"
-        ]
+        ],
+        "family": "outlaw"
     },
     {
         "name": "Snorri",
@@ -33861,7 +35336,8 @@ window.allHeroesExtra = [
         "passiveSkills": [
             "arctic_core",
             "resist_frost_with_health_boost_and_mana"
-        ]
+        ],
+        "family": "myrkheim"
     },
     {
         "name": "Ascension Mimic Nature",
@@ -33887,7 +35363,8 @@ window.allHeroesExtra = [
         "passiveSkills": [
             "mimic_ascension_item_green",
             "never_miss_special"
-        ]
+        ],
+        "family": "mimic"
     },
     {
         "name": "Motsognir",
@@ -33911,7 +35388,8 @@ window.allHeroesExtra = [
         "passiveSkills": [
             "arctic_core",
             "resist_frost_with_health_boost_and_mana"
-        ]
+        ],
+        "family": "myrkheim"
     },
     {
         "name": "Eiora & Fluffy costume1",
@@ -33938,7 +35416,8 @@ window.allHeroesExtra = [
         "attackBonus": "60%",
         "defenseBonus": "60%",
         "healthBonus": "62%",
-        "manaBonus": "5%"
+        "manaBonus": "5%",
+        "family": "circus"
     },
     {
         "name": "Merith",
@@ -33960,7 +35439,8 @@ window.allHeroesExtra = [
         "specialId": "petrifying_performance",
         "passiveSkills": [
             "revival_chance_modifier_all_enemies"
-        ]
+        ],
+        "family": "bard"
     },
     {
         "name": "Director Zuri costume1",
@@ -33987,7 +35467,8 @@ window.allHeroesExtra = [
         "attackBonus": "60%",
         "defenseBonus": "60%",
         "healthBonus": "62%",
-        "manaBonus": "5%"
+        "manaBonus": "5%",
+        "family": "circus"
     },
     {
         "name": "Karil glass",
@@ -34013,7 +35494,8 @@ window.allHeroesExtra = [
         "attackBonus": "17%",
         "defenseBonus": "17%",
         "healthBonus": "22%",
-        "manaBonus": "5%"
+        "manaBonus": "5%",
+        "family": "classic"
     },
     {
         "name": "Sonya glass",
@@ -34040,7 +35522,8 @@ window.allHeroesExtra = [
         "attackBonus": "19%",
         "defenseBonus": "19%",
         "healthBonus": "24%",
-        "manaBonus": "5%"
+        "manaBonus": "5%",
+        "family": "classic"
     },
     {
         "name": "Riverfang",
@@ -34064,7 +35547,8 @@ window.allHeroesExtra = [
         "specialId": "vicious_cyclone",
         "passiveSkills": [
             "reduced_healing_for_all_enemies"
-        ]
+        ],
+        "family": "fox"
     },
     {
         "name": "Zengar costume1",
@@ -34091,7 +35575,8 @@ window.allHeroesExtra = [
         "attackBonus": "40%",
         "defenseBonus": "40%",
         "healthBonus": "45%",
-        "manaBonus": "5%"
+        "manaBonus": "5%",
+        "family": "super_elemental"
     },
     {
         "name": "Nettletail",
@@ -34112,7 +35597,8 @@ window.allHeroesExtra = [
         "specialId": "friendly_critters_feast",
         "passiveSkills": [
             "reduced_healing_for_all_enemies"
-        ]
+        ],
+        "family": "fox"
     },
     {
         "name": "Nashgar glass",
@@ -34139,7 +35625,8 @@ window.allHeroesExtra = [
         "attackBonus": "17%",
         "defenseBonus": "17%",
         "healthBonus": "22%",
-        "manaBonus": "5%"
+        "manaBonus": "5%",
+        "family": "classic"
     },
     {
         "name": "Wu Kong glass",
@@ -34166,7 +35653,8 @@ window.allHeroesExtra = [
         "attackBonus": "19%",
         "defenseBonus": "19%",
         "healthBonus": "24%",
-        "manaBonus": "5%"
+        "manaBonus": "5%",
+        "family": "classic"
     },
     {
         "name": "Justice glass",
@@ -34193,7 +35681,8 @@ window.allHeroesExtra = [
         "attackBonus": "75%",
         "defenseBonus": "75%",
         "healthBonus": "78%",
-        "manaBonus": "5%"
+        "manaBonus": "5%",
+        "family": "classic"
     },
     {
         "name": "Joyvert",
@@ -34214,7 +35703,8 @@ window.allHeroesExtra = [
         "specialId": "goodnight_lullaby",
         "passiveSkills": [
             "dodge_enemy_damage_special"
-        ]
+        ],
+        "family": "moths"
     },
     {
         "name": "Lilareine",
@@ -34237,7 +35727,8 @@ window.allHeroesExtra = [
         "specialId": "revitalizing_melody",
         "passiveSkills": [
             "dodge_enemy_damage_special"
-        ]
+        ],
+        "family": "moths"
     },
     {
         "name": "Lilli",
@@ -34246,7 +35737,12 @@ window.allHeroesExtra = [
         "rarity": 5,
         "Release date": "2025-08-20",
         "AetherPower": "Damage Reduction",
-        "skill_types": [],
+        "skill_types": [
+            "Minions Counters",
+            "Snipers",
+            "Status Effect Conversion",
+            "Extra Damage Dealers"
+        ],
         "heroId": "magic_carpet_lilli",
         "baseAttack": 585,
         "baseDefense": 635,
@@ -34255,7 +35751,8 @@ window.allHeroesExtra = [
         "passiveSkills": [
             "resist_negative_minion_and_mega_minion_effects",
             "fly_magic_carpet"
-        ]
+        ],
+        "family": "magic_carpet"
     },
     {
         "name": "Ascension Mimic Holy",
@@ -34264,7 +35761,15 @@ window.allHeroesExtra = [
         "rarity": 5,
         "Release date": "2025-08-18",
         "AetherPower": "Bulwark",
-        "skill_types": [],
+        "skill_types": [
+            "Healers (Special)",
+            "Minions Counters",
+            "AoE Attackers (Hit-3)",
+            "Mana Raisers",
+            "Immunity Providers",
+            "Ghost Form & Hiding",
+            "Bypassers"
+        ],
         "heroId": "mimic_ascension_item_yellow",
         "baseAttack": 616,
         "baseDefense": 616,
@@ -34273,7 +35778,8 @@ window.allHeroesExtra = [
         "passiveSkills": [
             "mimic_ascension_item_yellow",
             "never_miss_special"
-        ]
+        ],
+        "family": "mimic"
     },
     {
         "name": "Vaishali costume1",
@@ -34282,7 +35788,14 @@ window.allHeroesExtra = [
         "rarity": 5,
         "Release date": "2025-08-20",
         "AetherPower": "Ailment Immunity",
-        "skill_types": [],
+        "skill_types": [
+            "Buffers (ATK)",
+            "Cleansers",
+            "Debuffers (ATK)",
+            "Dispellers",
+            "DoT Attackers",
+            "Heal over Time (HoT)"
+        ],
         "heroId": "magic_vaishali_costume_chef",
         "baseAttack": 456,
         "baseDefense": 462,
@@ -34299,6 +35812,7 @@ window.allHeroesExtra = [
         "attackBonus": "32%",
         "defenseBonus": "32%",
         "healthBonus": "32%",
-        "manaBonus": "1%"
+        "manaBonus": "1%",
+        "family": "magic"
     }
 ];

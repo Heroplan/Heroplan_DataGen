@@ -28,7 +28,7 @@ window.allHeroes =
             "對所有敵人造成 115% 傷害。"
         ],
         "passives": [],
-        "family": null,
+        "family": "classic",
         "costume_id": 0,
         "originalIndex": 0,
         "cn_skill_info": []
@@ -61,7 +61,7 @@ window.allHeroes =
             "對目標造成 275% 傷害。"
         ],
         "passives": [],
-        "family": null,
+        "family": "classic",
         "costume_id": 0,
         "originalIndex": 1,
         "cn_skill_info": []
@@ -94,7 +94,7 @@ window.allHeroes =
             "所有盟友獲得 +63% 防禦，持續 4 回合。"
         ],
         "passives": [],
-        "family": null,
+        "family": "classic",
         "costume_id": 0,
         "originalIndex": 2,
         "cn_skill_info": []
@@ -127,7 +127,7 @@ window.allHeroes =
             "對所有敵人造成 115% 傷害。"
         ],
         "passives": [],
-        "family": null,
+        "family": "classic",
         "costume_id": 0,
         "originalIndex": 3,
         "cn_skill_info": []
@@ -160,7 +160,7 @@ window.allHeroes =
             "所有盟友獲得 +48% 攻擊力，持續 4 回合。"
         ],
         "passives": [],
-        "family": null,
+        "family": "classic",
         "costume_id": 0,
         "originalIndex": 4,
         "cn_skill_info": []
@@ -209,7 +209,7 @@ window.allHeroes =
             "* 角色擁有的飛行動量越少，效果越弱。",
             "削弱超級小兵：敵方超級小兵的生命值降低 -75%。"
         ],
-        "family": "magiccarpet",
+        "family": "magic_carpet",
         "costume_id": 0,
         "originalIndex": 5,
         "lb1": {
@@ -268,7 +268,7 @@ window.allHeroes =
             "施法者獲得 -20% 攻擊力，持續 3 回合。此效果無法淨化。"
         ],
         "passives": [],
-        "family": "springvale",
+        "family": "easter",
         "costume_id": 0,
         "originalIndex": 6,
         "lb1": {
@@ -317,7 +317,7 @@ window.allHeroes =
             "召喚小兵",
             "法力削減或格擋"
         ],
-        "source": "怪獸島召喚",
+        "source": "聖約召喚",
         "Release date": "2022-08-25",
         "specialId": "hunting_ballad",
         "passiveSkills": [
@@ -340,7 +340,7 @@ window.allHeroes =
             "特殊技能傷害減免：該角色有 10% 的機率將受到的特殊技能直接傷害降至 1 點。",
             "特殊技能附加狀態效果：當該角色施放其特殊技能時，會給一個隨機敵人施加獵人印記。目標在 3 回合內受到 150 點傷害。如果目標已有此效果，則持續時間刷新，傷害增加 150 點，總傷害最高可達 1500 點。"
         ],
-        "family": "plainshunter",
+        "family": "plains_hunter",
         "costume_id": 0,
         "originalIndex": 7,
         "lb1": {
@@ -405,7 +405,7 @@ window.allHeroes =
             "為每個盟友召喚一個精靈小兵，其可從施法者繼承 10% 生命與 10% 攻擊。"
         ],
         "passives": [],
-        "family": "christmas",
+        "family": "winter",
         "costume_id": 0,
         "originalIndex": 8,
         "lb1": {
@@ -780,7 +780,7 @@ window.allHeroes =
             "所有盟友獲得對自然系 +94% 的防禦，持續 4 回合。"
         ],
         "passives": [],
-        "family": "guardiansteltoc",
+        "family": "guardian",
         "costume_id": 0,
         "originalIndex": 14,
         "lb1": {
@@ -1018,7 +1018,7 @@ window.allHeroes =
         "passives": [
             "增加增益持續時間：此英雄從特殊技能獲得的前 3 個增益效果的持續時間增加 1 回合。"
         ],
-        "family": "underwild",
+        "family": "abyss",
         "costume_id": 0,
         "originalIndex": 18,
         "lb1": {
@@ -1082,7 +1082,7 @@ window.allHeroes =
         "passives": [
             "增加增益持續時間：此英雄從特殊技能獲得的前 3 個增益效果的持續時間增加 1 回合。"
         ],
-        "family": "underwild",
+        "family": "abyss",
         "costume_id": 1,
         "originalIndex": 19,
         "lb1": {
@@ -2502,7 +2502,7 @@ window.allHeroes =
             "敵人的法力越高，受到的傷害越大，最高可達 400%。"
         ],
         "passives": [],
-        "family": "corellia",
+        "family": "pirate",
         "costume_id": 0,
         "originalIndex": 41,
         "lb1": {
@@ -2758,7 +2758,7 @@ window.allHeroes =
             "* 對所有敵人造成 80% 傷害。",
             "* 所有盟友獲得 +21% 暴擊率，持續 2 回合。"
         ],
-        "family": "defendersofatlantis",
+        "family": "tales1_goodies",
         "costume_id": 0,
         "originalIndex": 45,
         "lb1": {
@@ -2832,7 +2832,7 @@ window.allHeroes =
             "* 所有盟友獲得 +21% 暴擊率，持續 2 回合。",
             "抵禦瘋狂：此角色對瘋狂效果具有天生抗性。"
         ],
-        "family": "defendersofatlantis",
+        "family": "tales1_goodies",
         "costume_id": 1,
         "originalIndex": 46,
         "lb1": {
@@ -3519,7 +3519,7 @@ window.allHeroes =
             "抵禦防禦異常：此角色對影響防禦的狀態異常具有天生抗性。同樣適用影響元素防禦的狀態異常。",
             "小兵陣亡時獲得淨化效果：這名角色擁有的小兵被擊殺時，會淨化其狀態異常。"
         ],
-        "family": "maskedgod",
+        "family": "masquerade",
         "costume_id": 0,
         "originalIndex": 57,
         "lb1": {
@@ -3589,7 +3589,7 @@ window.allHeroes =
         "passives": [
             "偷取增益：此角色施放特殊技能時，有 50% 機率隨機從有增益的敵人身上偷取最新的可驅散增益。若無敵人有增益，則對所有敵人造成 70% 傷害。"
         ],
-        "family": "morlovia",
+        "family": "halloween",
         "costume_id": 0,
         "originalIndex": 58,
         "lb1": {
@@ -3663,7 +3663,7 @@ window.allHeroes =
         "passives": [
             "偷取增益：此角色施放特殊技能時，有 50% 機率隨機從有增益的敵人身上偷取最新的可驅散增益。若無敵人有增益，則對所有敵人造成 70% 傷害。"
         ],
-        "family": "morlovia",
+        "family": "halloween",
         "costume_id": 1,
         "originalIndex": 59,
         "lb1": {
@@ -3808,7 +3808,7 @@ window.allHeroes =
             "抵禦法力減損：此角色對法力減損具有天生抗性。",
             "守衛集結：每 4 回合移除所有盟友的全部枯萎效果。"
         ],
-        "family": "garrisonguard",
+        "family": "garrison",
         "costume_id": 0,
         "originalIndex": 61,
         "lb1": {
@@ -4652,7 +4652,7 @@ window.allHeroes =
             "疊加",
             "攻擊增益"
         ],
-        "source": "怪獸島召喚",
+        "source": "月活動 - 卡勒瓦拉",
         "Release date": "2023-05-06",
         "specialId": "jungle_riposte",
         "passiveSkills": [
@@ -4674,7 +4674,7 @@ window.allHeroes =
             "特殊技能下的持續傷害：此角色施放特殊技能時，會給予隨機敵人獵人印記。目標在 3 回合內受到 150 點傷害。若目標已有此效果，持續時間將刷新，傷害增加 150，最多總共 1500 傷害。",
             "獵人的威猛：此角色施放特殊技能時，可獲得 +20% 攻擊，持續 3 回合。除了可變更攻擊的效果，可另外啟動此效果。"
         ],
-        "family": "junglehunter",
+        "family": "jungle_hunter",
         "costume_id": 0,
         "originalIndex": 74,
         "lb1": {
@@ -4739,7 +4739,7 @@ window.allHeroes =
             "防禦角色時的被動技能：此英雄會從較強元素部隊受到較少的元素傷害。",
             "- 已受到元素傷害： -10%"
         ],
-        "family": "superelemental",
+        "family": "super_elemental",
         "costume_id": 0,
         "originalIndex": 75,
         "lb1": {
@@ -5586,7 +5586,7 @@ window.allHeroes =
         "passives": [
             "偷取增益 - 此角色施放特殊技能時，有 50% 機率隨機從有增益的敵人身上偷取最新的可驅散增益。若無敵人有增益，則對所有敵人造成 70% 傷害。"
         ],
-        "family": "morlovia",
+        "family": "halloween",
         "costume_id": 0,
         "originalIndex": 88,
         "lb1": {
@@ -5716,7 +5716,7 @@ window.allHeroes =
         "passives": [
             "已增加特殊技能傷害：此角色第一次施展造成傷害的特殊技能時，其戰力會額外增加 30%。"
         ],
-        "family": "underwild",
+        "family": "abyss",
         "costume_id": 0,
         "originalIndex": 90,
         "lb1": {
@@ -5780,7 +5780,7 @@ window.allHeroes =
         "passives": [
             "已增加特殊技能傷害：此角色第一次施展造成傷害的特殊技能時，其戰力會額外增加 30%。"
         ],
-        "family": "underwild",
+        "family": "abyss",
         "costume_id": 1,
         "originalIndex": 91,
         "lb1": {
@@ -5827,7 +5827,7 @@ window.allHeroes =
             "持續傷害",
             "召喚惡魔"
         ],
-        "source": "怪獸島召喚",
+        "source": "聖約召喚",
         "Release date": "2022-09-18",
         "specialId": "hunting_charge",
         "passiveSkills": [
@@ -5850,7 +5850,7 @@ window.allHeroes =
             "特殊技能傷害減免：該角色有 10% 的機率將受到的特殊技能直接傷害降至 1 點。",
             "特殊技能下的持續傷害：此角色施放特殊技能時，會給予隨機敵人獵人印記。目標在 3 回合內受到 150 點傷害。若目標已有此效果，持續時間將刷新，傷害增加 150，最多總共 1500 傷害。"
         ],
-        "family": "plainshunter",
+        "family": "plains_hunter",
         "costume_id": 0,
         "originalIndex": 92,
         "lb1": {
@@ -5919,7 +5919,7 @@ window.allHeroes =
             "元素鏈會為所有冰雪盟友恢復 4% 生命，持續 6 回合。此效果無法淨化。"
         ],
         "passives": [],
-        "family": 2018,
+        "family": "hotm2018",
         "costume_id": 0,
         "originalIndex": 93,
         "lb1": {
@@ -5989,7 +5989,7 @@ window.allHeroes =
         "passives": [
             "使用特殊技能時造成淨化效果：此角色施展特殊技能時，會淨化所有盟友身上最新的狀態異常。"
         ],
-        "family": 2018,
+        "family": "hotm2018",
         "costume_id": 1,
         "originalIndex": 94,
         "lb1": {
@@ -6187,7 +6187,7 @@ window.allHeroes =
             "元素鏈給予所有冰雪盟友 +5% 攻擊力與 +5% 防禦，持續 6 回合。此效果無法淨化。"
         ],
         "passives": [],
-        "family": 2018,
+        "family": "hotm2018",
         "costume_id": 0,
         "originalIndex": 97,
         "lb1": {
@@ -6257,7 +6257,7 @@ window.allHeroes =
         "passives": [
             "使用特殊技能時造成淨化效果：此角色施展特殊技能時，會淨化所有盟友身上最新的狀態異常。"
         ],
-        "family": 2018,
+        "family": "hotm2018",
         "costume_id": 1,
         "originalIndex": 98,
         "lb1": {
@@ -6332,7 +6332,7 @@ window.allHeroes =
             "抵禦治療異常：此角色對影響治療的狀態異常具有天生抗性。",
             "獲得狀態異常的生命值回復：此角色在被施加狀態異常或負面效果疊加時，可恢復 10% 生命值。"
         ],
-        "family": 2021,
+        "family": "hotm2021",
         "costume_id": 0,
         "originalIndex": 99,
         "lb1": {
@@ -6628,7 +6628,7 @@ window.allHeroes =
             "防禦角色時的被動技能：此英雄會從較強元素部隊受到較少的元素傷害。",
             "- 已受到元素傷害： -10%"
         ],
-        "family": "superelemental",
+        "family": "super_elemental",
         "costume_id": 0,
         "originalIndex": 103,
         "lb1": {
@@ -6694,7 +6694,7 @@ window.allHeroes =
             "抵禦特殊技能封鎖：此角色對封鎖特殊技能的狀態異常具有天生抗性。",
             "抵禦水系傷害：此角色對水系傷害具有天生抗性。"
         ],
-        "family": 2023,
+        "family": "hotm2023",
         "costume_id": 0,
         "originalIndex": 104,
         "lb1": {
@@ -7071,7 +7071,7 @@ window.allHeroes =
             "抵禦瘋狂：此角色對瘋狂效果具有天生抗性。",
             "抵抗攻擊減少：該角色對影響攻擊的狀態異常、疊加和枯萎效果具有天生抗性。"
         ],
-        "family": "woodlandfaun",
+        "family": "faun",
         "costume_id": 0,
         "originalIndex": 109,
         "lb1": {
@@ -7145,7 +7145,7 @@ window.allHeroes =
             "元素鏈給予所有冰雪盟友 +15% 攻擊力與 +15% 防禦，持續 6 回合。此效果無法驅散。"
         ],
         "passives": [],
-        "family": 2017,
+        "family": "hotm2017",
         "costume_id": 0,
         "originalIndex": 110,
         "lb1": {
@@ -7220,7 +7220,7 @@ window.allHeroes =
         "passives": [
             "使用特殊技能時造成驅散效果：此角色施展特殊技能時，會驅散所有敵人身上最新的狀態效果增益。"
         ],
-        "family": 2017,
+        "family": "hotm2017",
         "costume_id": 1,
         "originalIndex": 111,
         "lb1": {
@@ -7295,7 +7295,7 @@ window.allHeroes =
             "* 對所有敵人造成 80% 傷害。",
             "* 施法者獲得 +19% 法力產出，持續 2 回合。"
         ],
-        "family": "nightmaresofatlantis",
+        "family": "tales1_baddies",
         "costume_id": 0,
         "originalIndex": 112,
         "lb1": {
@@ -7380,7 +7380,7 @@ window.allHeroes =
             "* 施法者獲得 +19% 法力產出，持續 2 回合。",
             "抵禦瘋狂：此角色對瘋狂效果具有天生抗性。"
         ],
-        "family": "nightmaresofatlantis",
+        "family": "tales1_baddies",
         "costume_id": 1,
         "originalIndex": 113,
         "lb1": {
@@ -7532,7 +7532,7 @@ window.allHeroes =
             "流血時治療：每當敵人受到流血傷害時，這名角色恢復 50 生命。",
             "抵禦攻擊異常：此角色對影響攻擊的狀態異常具有天生抗性。"
         ],
-        "family": 2022,
+        "family": "hotm2022",
         "costume_id": 0,
         "originalIndex": 115,
         "lb1": {
@@ -7801,7 +7801,7 @@ window.allHeroes =
             "基礎攻擊力最高的敵人獲得 -60% 攻擊力，持續 4 回合。此效果無法淨化。"
         ],
         "passives": [],
-        "family": "starfall",
+        "family": "circus",
         "costume_id": 0,
         "originalIndex": 119,
         "lb1": {
@@ -7870,7 +7870,7 @@ window.allHeroes =
             "寵物之怒：對任意敵人召喚惡魔時，此角色對所有敵人造成 85% 傷害。此效果每回合僅可啟動一次。",
             "密友之友：對任意盟友召喚小兵時，此角色會獲得 5% 生命和 5% 法力。此效果每回合僅可啟動一次。"
         ],
-        "family": "pets",
+        "family": "mighty_pet",
         "costume_id": 0,
         "originalIndex": 120,
         "lb1": {
@@ -8009,7 +8009,7 @@ window.allHeroes =
             "抵禦法力減損：此角色對法力減損具有天生抗性。",
             "守衛集結：每 4 回合移除所有盟友的全部枯萎效果。"
         ],
-        "family": "garrisonguard",
+        "family": "garrison",
         "costume_id": 0,
         "originalIndex": 122,
         "lb1": {
@@ -8274,7 +8274,7 @@ window.allHeroes =
         "AetherPower": "攻擊提升",
         "color": "藍",
         "class": "野人",
-        "speed": "殺手",
+        "speed": "慢速",
         "skill": "開拓者之刃",
         "types": [
             "攻擊單個目標",
@@ -8311,7 +8311,7 @@ window.allHeroes =
         "passives": [
             "抵禦來自狀態效果的傷害：此角色對來自狀態效果的傷害具有天生抗性。"
         ],
-        "family": "slayer",
+        "family": "slayers",
         "costume_id": 0,
         "originalIndex": 126,
         "lb1": {
@@ -8383,7 +8383,7 @@ window.allHeroes =
             "小兵陣亡時獲得淨化效果：這名角色擁有的小兵被擊殺時，會淨化其狀態異常。",
             "抵禦防禦異常：此角色對影響防禦的狀態異常具有天生抗性。同樣適用影響元素防禦的狀態異常。"
         ],
-        "family": "maskedgod",
+        "family": "masquerade",
         "costume_id": 0,
         "originalIndex": 127,
         "lb1": {
@@ -8526,7 +8526,7 @@ window.allHeroes =
             "* 對所有敵人造成 80% 傷害。",
             "* 所有盟友獲得 +21% 暴擊率，持續 2 回合。"
         ],
-        "family": "defendersofatlantis",
+        "family": "tales1_goodies",
         "costume_id": 0,
         "originalIndex": 129,
         "lb1": {
@@ -8616,7 +8616,7 @@ window.allHeroes =
             "* 所有盟友獲得 +21% 暴擊率，持續 2 回合。",
             "抵禦瘋狂：此角色對瘋狂效果具有天生抗性。"
         ],
-        "family": "defendersofatlantis",
+        "family": "tales1_goodies",
         "costume_id": 1,
         "originalIndex": 130,
         "lb1": {
@@ -8763,7 +8763,7 @@ window.allHeroes =
         "passives": [
             "偷取增益：此角色施放特殊技能時，有 50% 機率隨機從有增益的敵人身上偷取最新的可驅散增益。若無敵人有增益，則對所有敵人造成 70% 傷害。"
         ],
-        "family": "morlovia",
+        "family": "halloween",
         "costume_id": 0,
         "originalIndex": 132,
         "lb1": {
@@ -8839,7 +8839,7 @@ window.allHeroes =
         "passives": [
             "閃避特殊傷害：此角色有 15% 的機率可躲避造成傷害的特殊技能。"
         ],
-        "family": "moth",
+        "family": "moths",
         "costume_id": 0,
         "originalIndex": 133,
         "lb1": {
@@ -8994,7 +8994,7 @@ window.allHeroes =
             "抵禦法力減損：此角色對法力減損具有天生抗性。",
             "守衛集結：每 4 回合移除所有盟友的全部枯萎效果。"
         ],
-        "family": "garrisonguard",
+        "family": "garrison",
         "costume_id": 0,
         "originalIndex": 135,
         "lb1": {
@@ -9067,7 +9067,7 @@ window.allHeroes =
             "密友之友：對任意盟友召喚小兵時，此角色會獲得 5% 生命和 5% 法力。此效果每回合僅可啟動一次。",
             "寵物之怒：對任意敵人召喚惡魔時，此角色對所有敵人造成 85% 傷害。此效果每回合僅可啟動一次。"
         ],
-        "family": "pets",
+        "family": "mighty_pet",
         "costume_id": 0,
         "originalIndex": 136,
         "lb1": {
@@ -9136,7 +9136,7 @@ window.allHeroes =
             "抵禦特殊技能封鎖：此角色對封鎖特殊技能的狀態異常具有天生抗性。",
             "抵禦燃燒：此角色對燃燒效果具有天生抗性。"
         ],
-        "family": 2025,
+        "family": "hotm2025",
         "costume_id": 0,
         "originalIndex": 137,
         "lb1": {
@@ -9277,7 +9277,7 @@ window.allHeroes =
             "抵禦劇毒：此角色對劇毒效果具有天生抗性。",
             "分享承受的傷害：這名角色所受傷害的 20% 將與所有其他盟友分享。"
         ],
-        "family": "astralelves",
+        "family": "astral_elves",
         "costume_id": 0,
         "originalIndex": 139,
         "lb1": {
@@ -9557,7 +9557,7 @@ window.allHeroes =
         "passives": [
             "用法力開始戰鬥：戰鬥開始時，這個角色會獲得 20% 法力。"
         ],
-        "family": "underwild",
+        "family": "abyss",
         "costume_id": 0,
         "originalIndex": 143,
         "lb1": {
@@ -9630,7 +9630,7 @@ window.allHeroes =
             "用法力開始戰鬥：戰鬥開始時，這個角色會獲得 20% 法力。",
             "對加成生命值造成額外傷害：施放特殊技能後，所有盟友的普通攻擊和特殊技能對擁有加成生命值的目標造成 +70% 傷害，持續 4 回合。"
         ],
-        "family": "underwild",
+        "family": "abyss",
         "costume_id": 1,
         "originalIndex": 144,
         "lb1": {
@@ -9925,7 +9925,7 @@ window.allHeroes =
             "抵禦法力減損：此角色對法力減損具有天生抗性。",
             "守衛集結：每 4 回合移除所有盟友的全部枯萎效果。"
         ],
-        "family": "garrisonguard",
+        "family": "garrison",
         "costume_id": 0,
         "originalIndex": 148,
         "lb1": {
@@ -9994,7 +9994,7 @@ window.allHeroes =
             "所有命中目標獲得 -34% 防禦，持續 3 回合。"
         ],
         "passives": [],
-        "family": "corellia",
+        "family": "pirate",
         "costume_id": 0,
         "originalIndex": 149,
         "lb1": {
@@ -10063,7 +10063,7 @@ window.allHeroes =
         "passives": [
             "特殊技能造成劇毒效果：此角色施放特殊技能時，所有敵人在 4 回合內受到 528 劇毒傷害。"
         ],
-        "family": "corellia",
+        "family": "pirate",
         "costume_id": 1,
         "originalIndex": 150,
         "lb1": {
@@ -10275,7 +10275,7 @@ window.allHeroes =
         "passives": [
             "小兵陣亡時獲得淨化效果：這名角色擁有的小兵被擊殺時，會淨化其狀態異常。"
         ],
-        "family": "maskedgod",
+        "family": "masquerade",
         "costume_id": 0,
         "originalIndex": 153,
         "lb1": {
@@ -10353,7 +10353,7 @@ window.allHeroes =
         "passives": [
             "抵禦攻擊異常：此角色對影響攻擊的狀態異常具有天生抗性。"
         ],
-        "family": 2019,
+        "family": "hotm2019",
         "costume_id": 0,
         "originalIndex": 154,
         "lb1": {
@@ -10426,7 +10426,7 @@ window.allHeroes =
             "抵禦燃燒：此角色對燃燒效果具有天生抗性。",
             "小兵陣亡時獲得淨化效果：這名角色擁有的小兵被擊殺時，會淨化其狀態異常。"
         ],
-        "family": 2021,
+        "family": "hotm2021",
         "costume_id": 0,
         "originalIndex": 155,
         "lb1": {
@@ -10490,7 +10490,7 @@ window.allHeroes =
             "抵禦法力減損：此角色對法力減損具有天生抗性。",
             "守衛集結：每 4 回合移除所有盟友的全部枯萎效果。"
         ],
-        "family": "garrisonguard",
+        "family": "garrison",
         "costume_id": 0,
         "originalIndex": 156,
         "lb1": {
@@ -10708,7 +10708,7 @@ window.allHeroes =
             "抵禦特殊技能封鎖：此角色對封鎖特殊技能的狀態異常具有天生抗性。",
             "敵人獲得防禦增益時增加法力：任何敵人獲得防禦增益時，此角色獲得 10% 法力。"
         ],
-        "family": 2024,
+        "family": "hotm2024",
         "costume_id": 0,
         "originalIndex": 159,
         "lb1": {
@@ -10780,7 +10780,7 @@ window.allHeroes =
         "passives": [
             "抵禦增益免疫：此角色對於新增益免疫的狀態異常具有天生抗性。"
         ],
-        "family": 2020,
+        "family": "hotm2020",
         "costume_id": 0,
         "originalIndex": 160,
         "lb1": {
@@ -10998,7 +10998,7 @@ window.allHeroes =
             "所有盟友獲得 +34% 法力產出，持續 3 回合。"
         ],
         "passives": [],
-        "family": "guardiansteltoc",
+        "family": "guardian",
         "costume_id": 0,
         "originalIndex": 163,
         "lb1": {
@@ -11518,7 +11518,7 @@ window.allHeroes =
             "抵禦燃燒：此角色對燃燒效果具有天生抗性。",
             "驅散增益時獲得法力：每次此角色身上的增益被驅散時，就會獲得 10% 法力。此效果每回合僅能啟動一次。"
         ],
-        "family": 2022,
+        "family": "hotm2022",
         "costume_id": 0,
         "originalIndex": 170,
         "lb1": {
@@ -11927,7 +11927,7 @@ window.allHeroes =
             "強化抵禦負面小兵效果：此角色對來自小兵和超級小兵的傷害與負面效果具有天生抗性。",
             "完美精準度：此角色的特殊技能必定命中目標。"
         ],
-        "family": "astraldwarfs",
+        "family": "astral_dwarfs",
         "costume_id": 0,
         "originalIndex": 176,
         "lb1": {
@@ -12002,7 +12002,7 @@ window.allHeroes =
             "防禦角色時的被動技能：此英雄會從較強元素部隊受到較少的元素傷害。",
             "- 已受到元素傷害： -10%"
         ],
-        "family": "superelemental",
+        "family": "super_elemental",
         "costume_id": 0,
         "originalIndex": 177,
         "lb1": {
@@ -12080,7 +12080,7 @@ window.allHeroes =
             "抵禦瘋狂：此角色對瘋狂效果具有天生抗性。",
             "抵禦防禦減少：該角色對影響防禦的狀態異常、疊加和枯萎效果具有天生抗性。"
         ],
-        "family": "woodlandfaun",
+        "family": "faun",
         "costume_id": 0,
         "originalIndex": 178,
         "lb1": {
@@ -12302,7 +12302,7 @@ window.allHeroes =
             "施法者獲得 +74% 特殊技能防禦，持續 4 回合。"
         ],
         "passives": [],
-        "family": "avalon",
+        "family": "knight",
         "costume_id": 0,
         "originalIndex": 181,
         "lb1": {
@@ -12376,7 +12376,7 @@ window.allHeroes =
             "抵禦特殊技能封鎖：此角色對封鎖特殊技能的狀態異常具有天生抗性。",
             "抵禦法力減損：此角色對法力減損具有天生抗性。"
         ],
-        "family": 2022,
+        "family": "hotm2022",
         "costume_id": 0,
         "originalIndex": 182,
         "lb1": {
@@ -12447,7 +12447,7 @@ window.allHeroes =
             "所有盟友獲得 +50% 攻擊力，持續 3 回合。"
         ],
         "passives": [],
-        "family": "christmas",
+        "family": "winter",
         "costume_id": 0,
         "originalIndex": 183,
         "lb1": {
@@ -12515,7 +12515,7 @@ window.allHeroes =
             "所有盟友獲得 +45% 攻擊，並在每次被擊中後增加 20%，持續 3 回合。"
         ],
         "passives": [],
-        "family": "christmas",
+        "family": "winter",
         "costume_id": 1,
         "originalIndex": 184,
         "lb1": {
@@ -12596,7 +12596,7 @@ window.allHeroes =
             "* - 正面與負面疊加。",
             "* - 成長和枯萎效果。"
         ],
-        "family": "wildcat",
+        "family": "wild_cat",
         "costume_id": 0,
         "originalIndex": 185,
         "lb1": {
@@ -13311,7 +13311,7 @@ window.allHeroes =
             "施法者獲得 -20% 防禦，持續 3 回合。此效果無法淨化。"
         ],
         "passives": [],
-        "family": "springvale",
+        "family": "easter",
         "costume_id": 0,
         "originalIndex": 196,
         "lb1": {
@@ -13371,7 +13371,7 @@ window.allHeroes =
             "施法者獲得 -24% 法力產出，持續 4 回合。此效果無法淨化。"
         ],
         "passives": [],
-        "family": "springvale",
+        "family": "easter",
         "costume_id": 1,
         "originalIndex": 197,
         "lb1": {
@@ -13512,7 +13512,7 @@ window.allHeroes =
             "抵禦燃燒：此角色對燃燒效果具有天生抗性。",
             "冰霜時的法力：每當敵人受到冰霜傷害時，這名角色會獲得 5% 法力。"
         ],
-        "family": 2024,
+        "family": "hotm2024",
         "costume_id": 0,
         "originalIndex": 199,
         "lb1": {
@@ -13579,7 +13579,7 @@ window.allHeroes =
         "passives": [
             "抵禦特殊技能封鎖：此角色對封鎖特殊技能的狀態異常具有天生抗性。"
         ],
-        "family": 2019,
+        "family": "hotm2019",
         "costume_id": 0,
         "originalIndex": 200,
         "lb1": {
@@ -13885,7 +13885,7 @@ window.allHeroes =
         "passives": [
             "偷取增益：此角色施放特殊技能時，有 50% 機率隨機從有增益的敵人身上偷取最新的可驅散增益。若無敵人有增益，則對所有敵人造成 70% 傷害。"
         ],
-        "family": "morlovia",
+        "family": "halloween",
         "costume_id": 0,
         "originalIndex": 204,
         "lb1": {
@@ -14075,7 +14075,7 @@ window.allHeroes =
             "施法者獲得 -15% 法力產出，持續 3 回合。此效果無法淨化。"
         ],
         "passives": [],
-        "family": "springvale",
+        "family": "easter",
         "costume_id": 0,
         "originalIndex": 207,
         "lb1": {
@@ -14370,7 +14370,7 @@ window.allHeroes =
             "抵禦劇毒：此角色對劇毒效果具有天生抗性。",
             "分享承受的傷害：這名角色所受傷害的 20% 將與所有其他盟友分享。"
         ],
-        "family": "astralelves",
+        "family": "astral_elves",
         "costume_id": 0,
         "originalIndex": 211,
         "lb1": {
@@ -14439,7 +14439,7 @@ window.allHeroes =
         "passives": [
             "已增加特殊技能傷害：此角色第一次施展造成傷害的特殊技能時，其戰力會額外增加 30%。"
         ],
-        "family": "underwild",
+        "family": "abyss",
         "costume_id": 0,
         "originalIndex": 212,
         "lb1": {
@@ -14511,7 +14511,7 @@ window.allHeroes =
             "已增加特殊技能傷害：此角色第一次施展造成傷害的特殊技能時，其戰力會額外增加 30%。",
             "對加成生命值造成額外傷害：施放特殊技能後，所有盟友的普通攻擊和特殊技能對擁有加成生命值的目標造成 +70% 傷害，持續 4 回合。"
         ],
-        "family": "underwild",
+        "family": "abyss",
         "costume_id": 1,
         "originalIndex": 213,
         "lb1": {
@@ -14576,7 +14576,7 @@ window.allHeroes =
             "為施法者與附近盟友召喚一個精靈小兵，其可從施法者繼承 10% 生命和 10% 攻擊。"
         ],
         "passives": [],
-        "family": "christmas",
+        "family": "winter",
         "costume_id": 0,
         "originalIndex": 214,
         "lb1": {
@@ -14649,7 +14649,7 @@ window.allHeroes =
             "為施法者和附近盟友召喚一個精靈小兵，其可從施法者繼承 10% 生命和 10% 攻擊。"
         ],
         "passives": [],
-        "family": "christmas",
+        "family": "winter",
         "costume_id": 1,
         "originalIndex": 215,
         "lb1": {
@@ -14885,7 +14885,7 @@ window.allHeroes =
             "防禦角色時的被動技能：此英雄會從較強元素部隊受到較少的元素傷害。",
             "- 已受到元素傷害： -10%"
         ],
-        "family": "superelemental",
+        "family": "super_elemental",
         "costume_id": 0,
         "originalIndex": 218,
         "lb1": {
@@ -15119,7 +15119,7 @@ window.allHeroes =
             "強化抵禦負面小兵效果：此角色對來自小兵和超級小兵的傷害與負面效果具有天生抗性。",
             "抵禦治療異常：此角色對影響治療的狀態異常具有天生抗性。"
         ],
-        "family": "astraldwarfs",
+        "family": "astral_dwarfs",
         "costume_id": 0,
         "originalIndex": 221,
         "lb1": {
@@ -15254,7 +15254,7 @@ window.allHeroes =
         "passives": [
             "增加增益持續時間：此英雄從特殊技能獲得的前 3 個增益效果的持續時間增加 1 回合。"
         ],
-        "family": "underwild",
+        "family": "abyss",
         "costume_id": 0,
         "originalIndex": 223,
         "lb1": {
@@ -15328,7 +15328,7 @@ window.allHeroes =
             "增加增益持續時間：此英雄從特殊技能獲得的前 3 個增益效果的持續時間增加 1 回合。",
             "使用特殊技能時獲得生命值加成：施放特殊技能時，為所有盟友提供 10% 生命值加成。"
         ],
-        "family": "underwild",
+        "family": "abyss",
         "costume_id": 1,
         "originalIndex": 224,
         "lb1": {
@@ -15401,7 +15401,7 @@ window.allHeroes =
         "passives": [
             "閃避特殊傷害：此角色有 15% 的機率可躲避造成傷害的特殊技能。"
         ],
-        "family": "moth",
+        "family": "moths",
         "costume_id": 0,
         "originalIndex": 225,
         "lb1": {
@@ -15475,7 +15475,7 @@ window.allHeroes =
             "元素鏈給予所有冰雪盟友 10% 法力，持續 4 個回合。此效果無法驅散。"
         ],
         "passives": [],
-        "family": 2017,
+        "family": "hotm2017",
         "costume_id": 0,
         "originalIndex": 226,
         "lb1": {
@@ -15550,7 +15550,7 @@ window.allHeroes =
         "passives": [
             "使用特殊技能時造成驅散效果：此角色施展特殊技能時，會驅散所有敵人身上最新的狀態效果增益。"
         ],
-        "family": 2017,
+        "family": "hotm2017",
         "costume_id": 1,
         "originalIndex": 227,
         "lb1": {
@@ -15772,7 +15772,7 @@ window.allHeroes =
             "強化抵禦負面小兵效果：此角色對來自小兵和超級小兵的傷害與負面效果具有天生抗性。",
             "完美精準度：此角色的特殊技能必定命中目標。"
         ],
-        "family": "astraldwarfs",
+        "family": "astral_dwarfs",
         "costume_id": 0,
         "originalIndex": 230,
         "lb1": {
@@ -15859,7 +15859,7 @@ window.allHeroes =
             "防禦角色時的被動技能：此英雄會從較強元素部隊受到較少的元素傷害。",
             "- 已受到元素傷害： -10%"
         ],
-        "family": "superelemental",
+        "family": "super_elemental",
         "costume_id": 0,
         "originalIndex": 231,
         "lb1": {
@@ -15989,7 +15989,7 @@ window.allHeroes =
         "passives": [
             "抵禦攻擊異常：此角色對影響攻擊的狀態異常具有天生抗性。"
         ],
-        "family": 2020,
+        "family": "hotm2020",
         "costume_id": 0,
         "originalIndex": 233,
         "lb1": {
@@ -16025,7 +16025,7 @@ window.allHeroes =
         "AetherPower": "防禦提升",
         "color": "藍",
         "class": "牧師",
-        "speed": "殺手",
+        "speed": "慢速",
         "skill": "淨化決心",
         "types": [
             "全體淨化",
@@ -16064,7 +16064,7 @@ window.allHeroes =
         "passives": [
             "抵禦來自狀態效果的傷害：此角色對來自狀態效果的傷害具有天生抗性。"
         ],
-        "family": "slayer",
+        "family": "slayers",
         "costume_id": 0,
         "originalIndex": 234,
         "lb1": {
@@ -16551,7 +16551,7 @@ window.allHeroes =
             "* 所有盟友獲得 +48% 攻擊力，持續 3 回合。"
         ],
         "passives": [],
-        "family": "grimforest",
+        "family": "fable",
         "costume_id": 0,
         "originalIndex": 241,
         "lb1": {
@@ -16642,7 +16642,7 @@ window.allHeroes =
             "* 所有敵人在 4 回合內無法獲得新的狀態效果增益。"
         ],
         "passives": [],
-        "family": "grimforest",
+        "family": "fable",
         "costume_id": 1,
         "originalIndex": 242,
         "lb1": {
@@ -16724,7 +16724,7 @@ window.allHeroes =
         "passives": [
             "減少異常持續時間：這個角色受到來自特殊技能的狀態效果時，有前 3 次會將持續時間減少 1 個回合。"
         ],
-        "family": "underwild",
+        "family": "abyss",
         "costume_id": 0,
         "originalIndex": 243,
         "lb1": {
@@ -16803,7 +16803,7 @@ window.allHeroes =
             "減少異常持續時間：這個角色受到來自特殊技能的狀態效果時，有前 3 次會將持續時間減少 1 個回合。",
             "對加成生命值造成額外傷害：施放特殊技能後，所有盟友的普通攻擊和特殊技能對擁有加成生命值的目標造成 +70% 傷害，持續 3 回合。"
         ],
-        "family": "underwild",
+        "family": "abyss",
         "costume_id": 1,
         "originalIndex": 244,
         "lb1": {
@@ -16956,7 +16956,7 @@ window.allHeroes =
             "除了施法者，對所有盟友造成 30 點瘋狂。"
         ],
         "passives": [],
-        "family": "investigator",
+        "family": "cultist",
         "costume_id": 0,
         "originalIndex": 246,
         "lb1": {
@@ -17160,7 +17160,7 @@ window.allHeroes =
             "召喚惡魔",
             "持續傷害"
         ],
-        "source": "怪獸島召喚",
+        "source": "聖約召喚",
         "Release date": "2024-08-13",
         "specialId": "chitin_cage",
         "passiveSkills": [
@@ -17183,7 +17183,7 @@ window.allHeroes =
             "特殊技能傷害減少：此角色有 10% 機率將特殊技能造成的直接傷害降到 1。",
             "特殊技能下的持續傷害：此角色施放特殊技能時，會給予隨機敵人獵人印記。目標在 3 回合內受到 150 點傷害。若目標已有此效果，持續時間將刷新，傷害增加 150，最多總共 1500 傷害。"
         ],
-        "family": "plainshunter",
+        "family": "plains_hunter",
         "costume_id": 0,
         "originalIndex": 249,
         "lb1": {
@@ -17255,7 +17255,7 @@ window.allHeroes =
             "抵禦特殊技能封鎖：此角色對封鎖特殊技能的狀態異常具有天生抗性。",
             "法力減損的狀態效果：法力減損時，此角色獲得 +30% 攻擊，持續 3 回合。"
         ],
-        "family": 2024,
+        "family": "hotm2024",
         "costume_id": 0,
         "originalIndex": 250,
         "lb1": {
@@ -17691,7 +17691,7 @@ window.allHeroes =
             "對所有敵人造成 180% 傷害，每移除一個狀態效果則額外造成 15% 傷害，最多累積造成 420% 傷害。"
         ],
         "passives": [],
-        "family": "grimforest",
+        "family": "fable",
         "costume_id": 0,
         "originalIndex": 256,
         "lb1": {
@@ -17766,7 +17766,7 @@ window.allHeroes =
             "每移除一個狀態效果，將造成 30% 額外傷害，最多累積造成 500% 傷害。"
         ],
         "passives": [],
-        "family": "grimforest",
+        "family": "fable",
         "costume_id": 1,
         "originalIndex": 257,
         "lb1": {
@@ -17999,7 +17999,7 @@ window.allHeroes =
             "* 這些效果每回合可發動一次。",
             "抵禦流血傷害：此角色對流血效果具有天生抗性。"
         ],
-        "family": "outlaws",
+        "family": "outlaw",
         "costume_id": 0,
         "originalIndex": 260,
         "lb1": {
@@ -18053,7 +18053,7 @@ window.allHeroes =
             "凈化",
             "全體攻擊 (打5)"
         ],
-        "source": "怪獸島召喚",
+        "source": "聖約召喚",
         "Release date": "2023-05-06",
         "specialId": "icebound_ritual",
         "passiveSkills": [
@@ -18075,7 +18075,7 @@ window.allHeroes =
             "獵手感知：當此角色施放特殊技能時，會將其最新的可淨化狀態異常從自身轉移至目標。如果特殊技能無法鎖定敵人，則會隨機選擇一個敵人。如果此角色沒有可淨化的狀態異常，則會恢復 8% 生命。",
             "特殊技能下的持續傷害：此角色施放特殊技能時，會給予隨機敵人獵人印記。目標在 3 回合內受到 150 點傷害。若目標已有此效果，持續時間將刷新，傷害增加 150，最多總共 1500 傷害。"
         ],
-        "family": "abysshunter",
+        "family": "abyss_hunter",
         "costume_id": 0,
         "originalIndex": 261,
         "lb1": {
@@ -18146,7 +18146,7 @@ window.allHeroes =
             "分享承受的傷害：這名角色所受傷害的 20% 將與所有其他盟友分享。",
             "抵禦劇毒：此角色對劇毒效果具有天生抗性。"
         ],
-        "family": "astralelves",
+        "family": "astral_elves",
         "costume_id": 0,
         "originalIndex": 262,
         "lb1": {
@@ -18223,7 +18223,7 @@ window.allHeroes =
             "抵禦治療異常：此角色對影響治療的狀態異常具有天生抗性。",
             "抵禦惡魔：此角色無法收到惡魔。"
         ],
-        "family": 2023,
+        "family": "hotm2023",
         "costume_id": 0,
         "originalIndex": 263,
         "lb1": {
@@ -18296,7 +18296,7 @@ window.allHeroes =
         "passives": [
             "閃避特殊傷害：此角色有 15% 的機率可躲避造成傷害的特殊技能。"
         ],
-        "family": "moth",
+        "family": "moths",
         "costume_id": 0,
         "originalIndex": 264,
         "lb1": {
@@ -18445,7 +18445,7 @@ window.allHeroes =
             "* 所有盟友獲得 +21% 暴擊率，持續 2 回合。",
             "抵禦瘋狂：此角色對瘋狂效果具有天生抗性。"
         ],
-        "family": "defendersofatlantis",
+        "family": "tales1_goodies",
         "costume_id": 0,
         "originalIndex": 266,
         "lb1": {
@@ -18527,7 +18527,7 @@ window.allHeroes =
             "* 所有盟友獲得 +21% 暴擊率，持續 2 回合。",
             "抵禦瘋狂：此角色對瘋狂效果具有天生抗性。"
         ],
-        "family": "defendersofatlantis",
+        "family": "tales1_goodies",
         "costume_id": 1,
         "originalIndex": 267,
         "lb1": {
@@ -18674,7 +18674,7 @@ window.allHeroes =
             "所有盟友獲得 +45% 攻擊力，並在每次被擊中後增加 +20%，持續 4 回合。"
         ],
         "passives": [],
-        "family": "starfall",
+        "family": "circus",
         "costume_id": 0,
         "originalIndex": 269,
         "lb1": {
@@ -19061,7 +19061,7 @@ window.allHeroes =
             "目標與附近敵人獲得 -10% 精準度，且面板上每有一個冰雪護盾則進一步降低 -5%，持續 4 回合，最多 -50% 精準度。"
         ],
         "passives": [],
-        "family": "christmas",
+        "family": "winter",
         "costume_id": 0,
         "originalIndex": 275,
         "lb1": {
@@ -19115,7 +19115,7 @@ window.allHeroes =
             "攻擊增益",
             "持續傷害"
         ],
-        "source": "怪獸島召喚",
+        "source": "月活動 - 卡勒瓦拉",
         "Release date": "2023-07-27",
         "specialId": "protective_stance",
         "passiveSkills": [
@@ -19137,7 +19137,7 @@ window.allHeroes =
             "特殊技能下的持續傷害：此角色施放特殊技能時，會給予隨機敵人獵人印記。目標在 3 回合內受到 150 點傷害。若目標已有此效果，持續時間將刷新，傷害增加 150，最多總共 1500 傷害。",
             "獵人的威猛：此角色施放特殊技能時，可獲得 +20% 攻擊，持續 3 回合。除了可變更攻擊的效果，可另外啟動此效果。"
         ],
-        "family": "junglehunter",
+        "family": "jungle_hunter",
         "costume_id": 0,
         "originalIndex": 276,
         "lb1": {
@@ -19294,7 +19294,7 @@ window.allHeroes =
         "passives": [
             "抵禦負面小兵效果：此角色對來自小兵的傷害與負面效果具有天生抗性。"
         ],
-        "family": 2020,
+        "family": "hotm2020",
         "costume_id": 0,
         "originalIndex": 278,
         "lb1": {
@@ -19372,7 +19372,7 @@ window.allHeroes =
             "抵禦瘋狂：此角色對瘋狂效果具有天生抗性。",
             "抵抗攻擊減少：該角色對影響攻擊的狀態異常、疊加和枯萎效果具有天生抗性。"
         ],
-        "family": "woodlandfaun",
+        "family": "faun",
         "costume_id": 0,
         "originalIndex": 279,
         "lb1": {
@@ -19500,7 +19500,7 @@ window.allHeroes =
             "法力削減或格擋",
             "召喚小兵"
         ],
-        "source": "怪獸島召喚",
+        "source": "聖約召喚",
         "Release date": "2022-11-12",
         "specialId": "harpoon_sentry",
         "passiveSkills": [
@@ -19523,7 +19523,7 @@ window.allHeroes =
             "特殊技能下的持續傷害：此角色施放特殊技能時，會給予隨機敵人獵人印記。目標在 3 回合內受到 150 點傷害。若目標已有此效果，持續時間將刷新，傷害增加 150，最多總共 1500 傷害。",
             "特殊技能傷害減少：此角色有 10% 機率將特殊技能造成的直接傷害降到 1。"
         ],
-        "family": "plainshunter",
+        "family": "plains_hunter",
         "costume_id": 0,
         "originalIndex": 281,
         "lb1": {
@@ -19660,7 +19660,7 @@ window.allHeroes =
             "目標在 3 回合內受到共計 531 點冰霜傷害。此效果會擴散至附近的敵人。"
         ],
         "passives": [],
-        "family": "christmas",
+        "family": "winter",
         "costume_id": 0,
         "originalIndex": 283,
         "lb1": {
@@ -19738,7 +19738,7 @@ window.allHeroes =
             "防禦角色時的被動技能：此英雄會從較強元素部隊受到較少的元素傷害。",
             "- 已受到元素傷害： -10%"
         ],
-        "family": "superelemental",
+        "family": "super_elemental",
         "costume_id": 0,
         "originalIndex": 284,
         "lb1": {
@@ -19813,7 +19813,7 @@ window.allHeroes =
             "防禦角色時的被動技能：此英雄會從較強元素部隊受到較少的元素傷害。",
             "- 已受到元素傷害： -25%"
         ],
-        "family": "superelemental",
+        "family": "super_elemental",
         "costume_id": 1,
         "originalIndex": 285,
         "lb1": {
@@ -19947,7 +19947,7 @@ window.allHeroes =
             "對目標造成 275% 傷害。"
         ],
         "passives": [],
-        "family": null,
+        "family": "classic",
         "costume_id": 0,
         "originalIndex": 287,
         "cn_skill_info": []
@@ -19980,7 +19980,7 @@ window.allHeroes =
             "對目標造成 255% 傷害。"
         ],
         "passives": [],
-        "family": null,
+        "family": "classic",
         "costume_id": 0,
         "originalIndex": 288,
         "cn_skill_info": []
@@ -20013,7 +20013,7 @@ window.allHeroes =
             "對目標造成 200% 傷害，並對附近敵人造成輕微傷害。"
         ],
         "passives": [],
-        "family": null,
+        "family": "classic",
         "costume_id": 0,
         "originalIndex": 289,
         "cn_skill_info": []
@@ -20046,7 +20046,7 @@ window.allHeroes =
             "對目標造成 245% 傷害。"
         ],
         "passives": [],
-        "family": null,
+        "family": "classic",
         "costume_id": 0,
         "originalIndex": 290,
         "cn_skill_info": []
@@ -20079,7 +20079,7 @@ window.allHeroes =
             "對目標造成 250% 傷害。"
         ],
         "passives": [],
-        "family": null,
+        "family": "classic",
         "costume_id": 0,
         "originalIndex": 291,
         "cn_skill_info": []
@@ -20119,7 +20119,7 @@ window.allHeroes =
         "passives": [
             "小兵陣亡時獲得淨化效果：這名角色擁有的小兵被擊殺時，會淨化其狀態異常。"
         ],
-        "family": "maskedgod",
+        "family": "masquerade",
         "costume_id": 0,
         "originalIndex": 292,
         "lb1": {
@@ -21252,7 +21252,7 @@ window.allHeroes =
             "強化抵禦負面小兵效果：此角色對來自小兵和超級小兵的傷害與負面效果具有天生抗性。",
             "特殊技能施放時摧毀惡魔：此角色施放其特殊技能時，摧毀自身所有惡魔。"
         ],
-        "family": "astraldwarfs",
+        "family": "astral_dwarfs",
         "costume_id": 0,
         "originalIndex": 310,
         "lb1": {
@@ -21576,7 +21576,7 @@ window.allHeroes =
             "持續傷害",
             "召喚惡魔"
         ],
-        "source": "怪獸島召喚",
+        "source": "聖約召喚",
         "Release date": "2022-11-12",
         "specialId": "bone_arrow",
         "passiveSkills": [
@@ -21598,7 +21598,7 @@ window.allHeroes =
             "特殊技能附加狀態效果：當該角色施放其特殊技能時，會給一個隨機敵人施加獵人印記。目標在 3 回合內受到 150 點傷害。如果目標已有此效果，則持續時間刷新，傷害增加 150 點，總傷害最高可達 1500 點。",
             "特殊技能傷害減免：該角色有 10% 的機率將受到的特殊技能直接傷害降至 1 點。"
         ],
-        "family": "plainshunter",
+        "family": "plains_hunter",
         "costume_id": 0,
         "originalIndex": 315,
         "lb1": {
@@ -21974,7 +21974,7 @@ window.allHeroes =
             "目標在 2 回合內受到共計 94 點流血傷害。"
         ],
         "passives": [],
-        "family": "grimforest",
+        "family": "fable",
         "costume_id": 0,
         "originalIndex": 321,
         "lb1": {
@@ -22040,7 +22040,7 @@ window.allHeroes =
         "passives": [
             "偷取增益 - 此角色施放特殊技能時，有 50% 機率隨機從有增益的敵人身上偷取最新的可驅散增益。若無敵人有增益，則對所有敵人造成 70% 傷害。"
         ],
-        "family": "morlovia",
+        "family": "halloween",
         "costume_id": 0,
         "originalIndex": 322,
         "lb1": {
@@ -22108,7 +22108,7 @@ window.allHeroes =
         "passives": [
             "特殊技能傷害減免：此角色受到的特殊技能傷害減少 -20%。"
         ],
-        "family": "underwild",
+        "family": "abyss",
         "costume_id": 0,
         "originalIndex": 323,
         "lb1": {
@@ -22172,7 +22172,7 @@ window.allHeroes =
         "passives": [
             "特殊技能傷害減免：此角色受到的特殊技能傷害減少 -20%。"
         ],
-        "family": "underwild",
+        "family": "abyss",
         "costume_id": 1,
         "originalIndex": 324,
         "lb1": {
@@ -22810,7 +22810,7 @@ window.allHeroes =
         "AetherPower": "憤怒",
         "color": "綠",
         "class": "野人",
-        "speed": "殺手",
+        "speed": "慢速",
         "skill": "雙斧",
         "types": [
             "攻擊單個目標",
@@ -22846,7 +22846,7 @@ window.allHeroes =
         "passives": [
             "抵禦來自狀態效果的傷害：此角色對來自狀態效果的傷害具有天生抗性。"
         ],
-        "family": "slayer",
+        "family": "slayers",
         "costume_id": 0,
         "originalIndex": 335,
         "lb1": {
@@ -23049,7 +23049,7 @@ window.allHeroes =
             "基礎攻擊力最高的敵人獲得 -54% 攻擊力，持續 3 回合。"
         ],
         "passives": [],
-        "family": "starfall",
+        "family": "circus",
         "costume_id": 0,
         "originalIndex": 338,
         "lb1": {
@@ -23117,7 +23117,7 @@ window.allHeroes =
             "抵禦法力減損：此角色對法力減損具有天生抗性。",
             "守衛集結：每 4 回合移除所有盟友的全部枯萎效果。"
         ],
-        "family": "garrisonguard",
+        "family": "garrison",
         "costume_id": 0,
         "originalIndex": 339,
         "lb1": {
@@ -23191,7 +23191,7 @@ window.allHeroes =
         "passives": [
             "獲得增益的生命值回復 - 此角色獲得增益或正面疊加時，會恢復 5% 的生命值。"
         ],
-        "family": "stag",
+        "family": "bear",
         "costume_id": 0,
         "originalIndex": 340,
         "lb1": {
@@ -23403,7 +23403,7 @@ window.allHeroes =
             "防禦角色時的被動技能：此英雄會從較強元素部隊受到較少的元素傷害。",
             "- 已受到元素傷害： -10%"
         ],
-        "family": "superelemental",
+        "family": "super_elemental",
         "costume_id": 0,
         "originalIndex": 343,
         "lb1": {
@@ -23822,7 +23822,7 @@ window.allHeroes =
             "目標與附近敵人獲得 -34% 防禦，持續 3 回合。"
         ],
         "passives": [],
-        "family": "christmas",
+        "family": "winter",
         "costume_id": 0,
         "originalIndex": 349,
         "lb1": {
@@ -24614,7 +24614,7 @@ window.allHeroes =
             "施法者獲得 +74% 特殊技能防禦，持續 3 回合。"
         ],
         "passives": [],
-        "family": "grimforest",
+        "family": "fable",
         "costume_id": 0,
         "originalIndex": 361,
         "lb1": {
@@ -24681,7 +24681,7 @@ window.allHeroes =
             "施法者獲得 +84% 特殊技能防禦，持續 3 回合。"
         ],
         "passives": [],
-        "family": "grimforest",
+        "family": "fable",
         "costume_id": 1,
         "originalIndex": 362,
         "lb1": {
@@ -24744,7 +24744,7 @@ window.allHeroes =
             "施法者獲得 -20% 防禦，持續 3 回合。此效果無法淨化。"
         ],
         "passives": [],
-        "family": "springvale",
+        "family": "easter",
         "costume_id": 0,
         "originalIndex": 363,
         "lb1": {
@@ -24806,7 +24806,7 @@ window.allHeroes =
             "除了施法者，所有盟友獲得 -20% 攻擊力，持續 3 回合。此效果無法驅散。"
         ],
         "passives": [],
-        "family": "springvale",
+        "family": "easter",
         "costume_id": 1,
         "originalIndex": 364,
         "lb1": {
@@ -24871,7 +24871,7 @@ window.allHeroes =
         "passives": [
             "閃避特殊傷害：此角色有 15% 的機率可躲避造成傷害的特殊技能。"
         ],
-        "family": "moth",
+        "family": "moths",
         "costume_id": 0,
         "originalIndex": 365,
         "lb1": {
@@ -25321,7 +25321,7 @@ window.allHeroes =
             "抵禦劇毒：此角色對劇毒效果具有天生抗性。",
             "分享承受的傷害：這名角色所受傷害的 20% 將與所有其他盟友分享。"
         ],
-        "family": "astralelves",
+        "family": "astral_elves",
         "costume_id": 0,
         "originalIndex": 372,
         "lb1": {
@@ -25713,7 +25713,7 @@ window.allHeroes =
             "目標與附近敵人獲得 -34% 防禦，持續 3 回合。"
         ],
         "passives": [],
-        "family": "starfall",
+        "family": "circus",
         "costume_id": 0,
         "originalIndex": 378,
         "lb1": {
@@ -26256,7 +26256,7 @@ window.allHeroes =
             "* 對所有敵人造成 80% 傷害。",
             "* 所有盟友獲得 +19% 法力產出，持續 2 回合。"
         ],
-        "family": "nightmaresofatlantis",
+        "family": "tales1_baddies",
         "costume_id": 0,
         "originalIndex": 386,
         "lb1": {
@@ -26342,7 +26342,7 @@ window.allHeroes =
             "* 所有盟友獲得 +19% 法力產出，持續 2 回合。",
             "抵禦瘋狂：此角色對瘋狂效果具有天生抗性。"
         ],
-        "family": "nightmaresofatlantis",
+        "family": "tales1_baddies",
         "costume_id": 1,
         "originalIndex": 387,
         "lb1": {
@@ -26420,7 +26420,7 @@ window.allHeroes =
             "抵禦瘋狂：此角色對瘋狂效果具有天生抗性。",
             "抵抗攻擊減少：該角色對影響攻擊的狀態異常、疊加和枯萎效果具有天生抗性。"
         ],
-        "family": "woodlandfaun",
+        "family": "faun",
         "costume_id": 0,
         "originalIndex": 388,
         "lb1": {
@@ -26473,7 +26473,7 @@ window.allHeroes =
             "持續傷害",
             "凈化"
         ],
-        "source": "怪獸島召喚",
+        "source": "聖約召喚",
         "Release date": "2023-05-06",
         "specialId": "cracked_skull_strike",
         "passiveSkills": [
@@ -26495,7 +26495,7 @@ window.allHeroes =
             "特殊技能下的持續傷害：此角色施放特殊技能時，會給予隨機敵人獵人印記。目標在 3 回合內受到 150 點傷害。若目標已有此效果，持續時間將刷新，傷害增加 150，最多總共 1500 傷害。",
             "獵手感知：當此角色施放特殊技能時，會將其最新的可淨化狀態異常從自身轉移至目標。如果特殊技能無法鎖定敵人，則會隨機選擇一個敵人。如果此角色沒有可淨化的狀態異常，則會恢復 8% 生命。"
         ],
-        "family": "abysshunter",
+        "family": "abyss_hunter",
         "costume_id": 0,
         "originalIndex": 389,
         "lb1": {
@@ -26530,7 +26530,7 @@ window.allHeroes =
         "AetherPower": "攻擊提升",
         "color": "綠",
         "class": "遊俠",
-        "speed": "殺手",
+        "speed": "慢速",
         "skill": "優雅射擊",
         "types": [
             "攻擊單個目標",
@@ -26568,7 +26568,7 @@ window.allHeroes =
         "passives": [
             "抵禦來自狀態效果的傷害：此角色對來自狀態效果的傷害具有天生抗性。"
         ],
-        "family": "slayer",
+        "family": "slayers",
         "costume_id": 0,
         "originalIndex": 390,
         "lb1": {
@@ -26638,7 +26638,7 @@ window.allHeroes =
             "目標陷入沉默，持續 3 回合。"
         ],
         "passives": [],
-        "family": "corellia",
+        "family": "pirate",
         "costume_id": 0,
         "originalIndex": 391,
         "lb1": {
@@ -26701,7 +26701,7 @@ window.allHeroes =
             "目標獲得 -24% 防禦，持續 3 回合。"
         ],
         "passives": [],
-        "family": "corellia",
+        "family": "pirate",
         "costume_id": 1,
         "originalIndex": 392,
         "lb1": {
@@ -27372,7 +27372,7 @@ window.allHeroes =
         "passives": [
             "特殊技能傷害減免：此角色受到的特殊技能傷害減少 -20%。"
         ],
-        "family": "underwild",
+        "family": "abyss",
         "costume_id": 0,
         "originalIndex": 402,
         "lb1": {
@@ -27441,7 +27441,7 @@ window.allHeroes =
         "passives": [
             "特殊技能傷害減免：此角色受到的特殊技能傷害減少 -20%。"
         ],
-        "family": "underwild",
+        "family": "abyss",
         "costume_id": 1,
         "originalIndex": 403,
         "lb1": {
@@ -27780,7 +27780,7 @@ window.allHeroes =
             "元素鏈給予所有自然盟友 +15% 攻擊力與 +15 防禦，持續 6 回合。此效果無法驅散。"
         ],
         "passives": [],
-        "family": 2017,
+        "family": "hotm2017",
         "costume_id": 0,
         "originalIndex": 408,
         "lb1": {
@@ -27852,7 +27852,7 @@ window.allHeroes =
         "passives": [
             "使用特殊技能時造成淨化效果：此角色施展特殊技能時，會淨化所有盟友身上最新的狀態異常。"
         ],
-        "family": 2017,
+        "family": "hotm2017",
         "costume_id": 1,
         "originalIndex": 409,
         "lb1": {
@@ -27926,7 +27926,7 @@ window.allHeroes =
             "抵禦法力減損：此角色對法力減損具有天生抗性。",
             "守衛集結：每 4 回合移除所有盟友的全部枯萎效果。"
         ],
-        "family": "garrisonguard",
+        "family": "garrison",
         "costume_id": 0,
         "originalIndex": 410,
         "lb1": {
@@ -27996,7 +27996,7 @@ window.allHeroes =
             "施法者獲得 -10% 精準度，持續 4 回合。此效果無法淨化。失手率也會套用在攻擊型特殊技能上。"
         ],
         "passives": [],
-        "family": "springvale",
+        "family": "easter",
         "costume_id": 0,
         "originalIndex": 411,
         "lb1": {
@@ -28060,7 +28060,7 @@ window.allHeroes =
             "施法者獲得 -10% 精準度，持續 4 回合。此效果無法淨化。（失手率也會套用在攻擊型特殊技能上）。"
         ],
         "passives": [],
-        "family": "springvale",
+        "family": "easter",
         "costume_id": 1,
         "originalIndex": 412,
         "lb1": {
@@ -28642,7 +28642,7 @@ window.allHeroes =
             "所有盟友都會獲得 +34% 防禦，面板中每個自然護盾將會額外增加 6% 防禦，持續 5 個回合，最多可獲得 +82% 防禦。"
         ],
         "passives": [],
-        "family": "christmas",
+        "family": "winter",
         "costume_id": 0,
         "originalIndex": 420,
         "lb1": {
@@ -28725,7 +28725,7 @@ window.allHeroes =
             "抵禦增益免疫：此角色對於新增益免疫的狀態異常具有天生抗性。",
             "獲得增益的生命值回復：此角色獲得增益或正面疊加時，會恢復 5% 的生命值。"
         ],
-        "family": 2021,
+        "family": "hotm2021",
         "costume_id": 0,
         "originalIndex": 421,
         "lb1": {
@@ -28791,7 +28791,7 @@ window.allHeroes =
             "元素鏈會為所有自然系盟友召喚一個自然小兵，其可從施法者繼承 6% 生命與 10% 攻擊。"
         ],
         "passives": [],
-        "family": 2021,
+        "family": "hotm2021",
         "costume_id": 0,
         "originalIndex": 422,
         "lb1": {
@@ -28862,7 +28862,7 @@ window.allHeroes =
             "抵禦小兵移除：此角色對小兵移除效果具有天生抗性。",
             "召喚小兵時獲得法力：對任意盟友召喚小兵時，此角色會獲得 5% 法力。此效果每回合僅可啟動一次。"
         ],
-        "family": 2024,
+        "family": "hotm2024",
         "costume_id": 0,
         "originalIndex": 423,
         "lb1": {
@@ -29081,7 +29081,7 @@ window.allHeroes =
             "抵抗防禦減少：該角色對影響防禦的狀態異常、疊加和枯萎效果具有天生抗性。",
             "抵禦瘋狂：此角色對瘋狂效果具有天生抗性。"
         ],
-        "family": "woodlandfaun",
+        "family": "faun",
         "costume_id": 0,
         "originalIndex": 426,
         "lb1": {
@@ -29237,7 +29237,7 @@ window.allHeroes =
             "抵禦治療異常：此角色對影響治療的異常具有天生抗性。",
             "敵人施展特殊技能時提升生命值：當敵人施放特殊技能時，此角色會有 50% 機率提升自身生命值 100 點。"
         ],
-        "family": 2024,
+        "family": "hotm2024",
         "costume_id": 0,
         "originalIndex": 428,
         "lb1": {
@@ -29308,7 +29308,7 @@ window.allHeroes =
             "每名非自然系敵人所增加的攻擊：在每場戰鬥開始時，每有一名非自然系元素的敵人，此角色的攻擊力會增加 5%。在有數波攻勢的戰鬥中，此效果會在每波攻勢開始時更新。",
             "抵禦攻擊異常：此角色對影響攻擊的狀態異常具有天生抗性。"
         ],
-        "family": 2023,
+        "family": "hotm2023",
         "costume_id": 0,
         "originalIndex": 429,
         "lb1": {
@@ -29374,7 +29374,7 @@ window.allHeroes =
         "passives": [
             "特殊技能傷害減免：此角色受到的特殊技能傷害減少 -20%。"
         ],
-        "family": "underwild",
+        "family": "abyss",
         "costume_id": 0,
         "originalIndex": 430,
         "lb1": {
@@ -29442,7 +29442,7 @@ window.allHeroes =
             "特殊技能傷害減免：此角色受到的特殊技能傷害減少 -20%。",
             "對加成生命值造成額外傷害：施放特殊技能後，所有盟友的普通攻擊和特殊技能對擁有加成生命值的目標造成 +70% 傷害，持續 4 回合。"
         ],
-        "family": "underwild",
+        "family": "abyss",
         "costume_id": 1,
         "originalIndex": 431,
         "lb1": {
@@ -29513,7 +29513,7 @@ window.allHeroes =
             "防禦角色時的被動技能：此英雄會從較強元素部隊受到較少的元素傷害。",
             "- 已受到元素傷害： -10%"
         ],
-        "family": "superelemental",
+        "family": "super_elemental",
         "costume_id": 0,
         "originalIndex": 432,
         "lb1": {
@@ -29819,7 +29819,7 @@ window.allHeroes =
             "防禦角色時的被動技能：此英雄會從較強元素部隊受到較少的元素傷害。",
             "- 已受到元素傷害： -10%"
         ],
-        "family": "superelemental",
+        "family": "super_elemental",
         "costume_id": 0,
         "originalIndex": 436,
         "lb1": {
@@ -30017,7 +30017,7 @@ window.allHeroes =
         "passives": [
             "偷取增益：此角色施放特殊技能時，有 50% 機率隨機從有增益的敵人身上偷取最新的可驅散增益。若無敵人有增益，則對所有敵人造成 70% 傷害。"
         ],
-        "family": "morlovia",
+        "family": "halloween",
         "costume_id": 0,
         "originalIndex": 439,
         "lb1": {
@@ -30084,7 +30084,7 @@ window.allHeroes =
             "使所有擁有小兵的敵人最大生命值降低 404 點。最大生命值不得低於原最大生命值的 30%。"
         ],
         "passives": [],
-        "family": "starfall",
+        "family": "circus",
         "costume_id": 0,
         "originalIndex": 440,
         "lb1": {
@@ -30156,7 +30156,7 @@ window.allHeroes =
         "passives": [
             "淨化時複製異常：此英雄的一個狀態異常受到淨化時，將隨機對一名敵人施加受淨化異常的新複製體。"
         ],
-        "family": "starfall",
+        "family": "circus",
         "costume_id": 1,
         "originalIndex": 441,
         "lb1": {
@@ -30757,7 +30757,7 @@ window.allHeroes =
             "抵禦特殊技能封鎖：此角色對封鎖特殊技能的狀態異常具有天生抗性。",
             "獲得狀態異常的法力：此角色在被施加狀態異常或負面效果疊加時，可獲得 5% 法力。"
         ],
-        "family": 2021,
+        "family": "hotm2021",
         "costume_id": 0,
         "originalIndex": 450,
         "lb1": {
@@ -30831,7 +30831,7 @@ window.allHeroes =
             "* 角色擁有的飛行動量越少，效果越弱。",
             "削弱超級小兵：敵方超級小兵的生命值降低 -75%。"
         ],
-        "family": "magiccarpet",
+        "family": "magic_carpet",
         "costume_id": 0,
         "originalIndex": 451,
         "lb1": {
@@ -30967,7 +30967,7 @@ window.allHeroes =
             "元素鏈會為所有自然盟友恢復 4% 生命，持續 6 回合。此效果無法淨化。"
         ],
         "passives": [],
-        "family": 2018,
+        "family": "hotm2018",
         "costume_id": 0,
         "originalIndex": 453,
         "lb1": {
@@ -31042,7 +31042,7 @@ window.allHeroes =
         "passives": [
             "使用特殊技能時造成淨化效果：此角色施展特殊技能時，會淨化所有盟友身上最新的狀態異常。"
         ],
-        "family": 2018,
+        "family": "hotm2018",
         "costume_id": 1,
         "originalIndex": 454,
         "lb1": {
@@ -31283,7 +31283,7 @@ window.allHeroes =
             "小兵陣亡時獲得淨化效果：這名角色擁有的小兵被擊殺時，會淨化其狀態異常。",
             "抵禦防禦異常：此角色對影響防禦的狀態異常具有天生抗性。同樣適用影響元素防禦的狀態異常。"
         ],
-        "family": "maskedgod",
+        "family": "masquerade",
         "costume_id": 0,
         "originalIndex": 457,
         "lb1": {
@@ -31435,7 +31435,7 @@ window.allHeroes =
             "獲得狀態異常的法力：此角色在被施加狀態異常或負面效果疊加時，可獲得 5% 法力。",
             "抵禦劇毒：此角色對劇毒效果具有天生抗性。"
         ],
-        "family": 2025,
+        "family": "hotm2025",
         "costume_id": 0,
         "originalIndex": 459,
         "lb1": {
@@ -31571,7 +31571,7 @@ window.allHeroes =
         "passives": [
             "偷取增益：此角色施放特殊技能時，有 50% 機率隨機從有增益的敵人身上偷取最新的可驅散增益。若無敵人有增益，則對所有敵人造成 70% 傷害。"
         ],
-        "family": "morlovia",
+        "family": "halloween",
         "costume_id": 0,
         "originalIndex": 461,
         "lb1": {
@@ -31642,7 +31642,7 @@ window.allHeroes =
         "passives": [
             "偷取增益：此角色施放特殊技能時，有 50% 機率隨機從有增益的敵人身上偷取最新的可驅散增益。若無敵人有增益，則對所有敵人造成 70% 傷害。"
         ],
-        "family": "morlovia",
+        "family": "halloween",
         "costume_id": 1,
         "originalIndex": 462,
         "lb1": {
@@ -31841,7 +31841,7 @@ window.allHeroes =
             "盟友共享此角色從特殊技能攻擊與普通攻擊所受到的傷害，持續 5 個回合。"
         ],
         "passives": [],
-        "family": "grimforest",
+        "family": "fable",
         "costume_id": 0,
         "originalIndex": 465,
         "lb1": {
@@ -32075,7 +32075,7 @@ window.allHeroes =
             "* 所有盟友獲得 +21% 暴擊率，持續 2 回合。",
             "抵禦瘋狂：此角色對瘋狂效果具有天生抗性。"
         ],
-        "family": "defendersofatlantis",
+        "family": "tales1_goodies",
         "costume_id": 0,
         "originalIndex": 468,
         "lb1": {
@@ -32162,7 +32162,7 @@ window.allHeroes =
             "* 所有盟友獲得 +21% 暴擊率，持續 2 回合。",
             "抵禦瘋狂：此角色對瘋狂效果具有天生抗性。"
         ],
-        "family": "defendersofatlantis",
+        "family": "tales1_goodies",
         "costume_id": 1,
         "originalIndex": 469,
         "lb1": {
@@ -32231,7 +32231,7 @@ window.allHeroes =
         "passives": [
             "減少異常持續時間：這個角色受到來自特殊技能的狀態效果時，有前 3 次會將持續時間減少 1 個回合。"
         ],
-        "family": "underwild",
+        "family": "abyss",
         "costume_id": 0,
         "originalIndex": 470,
         "lb1": {
@@ -32300,7 +32300,7 @@ window.allHeroes =
             "減少異常持續時間：這個角色受到來自特殊技能的狀態效果時，有前 3 次會將持續時間減少 1 個回合。",
             "對加成生命值造成額外傷害：施放特殊技能後，所有盟友的普通攻擊和特殊技能對擁有加成生命值的目標造成 +70% 傷害，持續 4 回合。"
         ],
-        "family": "underwild",
+        "family": "abyss",
         "costume_id": 1,
         "originalIndex": 471,
         "lb1": {
@@ -32448,7 +32448,7 @@ window.allHeroes =
             "* 對所有敵人造成 80% 傷害。",
             "* 所有盟友獲得 +21% 暴擊率，持續 2 回合。"
         ],
-        "family": "defendersofatlantis",
+        "family": "tales1_goodies",
         "costume_id": 0,
         "originalIndex": 473,
         "lb1": {
@@ -32540,7 +32540,7 @@ window.allHeroes =
             "* 所有盟友獲得 +21% 暴擊率，持續 2 回合。",
             "抵禦瘋狂：此角色對瘋狂效果具有天生抗性。"
         ],
-        "family": "defendersofatlantis",
+        "family": "tales1_goodies",
         "costume_id": 1,
         "originalIndex": 474,
         "lb1": {
@@ -32612,7 +32612,7 @@ window.allHeroes =
             "除了施法者特殊技能之外，所有盟友的特殊技能造成額外 +20% 傷害，持續 3 回合。"
         ],
         "passives": [],
-        "family": "christmas",
+        "family": "winter",
         "costume_id": 0,
         "originalIndex": 475,
         "lb1": {
@@ -32683,7 +32683,7 @@ window.allHeroes =
             "抵禦法力減損：此角色對法力減損具有天生抗性。",
             "守衛集結：每 4 回合移除所有盟友的全部枯萎效果。"
         ],
-        "family": "garrisonguard",
+        "family": "garrison",
         "costume_id": 0,
         "originalIndex": 476,
         "lb1": {
@@ -32839,7 +32839,7 @@ window.allHeroes =
             "抵禦燃燒：此角色對燃燒效果具有天生抗性。",
             "嘲諷時的法力：每當敵人受到嘲諷狀態效果時，此角色的法力增加 10%。"
         ],
-        "family": 2022,
+        "family": "hotm2022",
         "costume_id": 0,
         "originalIndex": 478,
         "lb1": {
@@ -32902,7 +32902,7 @@ window.allHeroes =
             "如果施法者在後續 5 個回合中被擊敗，他們將在下一個回合開始時以 45% 生命值復活，並對所有敵人造成 765 點傷害。施法者被擊敗時，所有狀態效果與疊加會被移除。"
         ],
         "passives": [],
-        "family": "avalon",
+        "family": "knight",
         "costume_id": 0,
         "originalIndex": 479,
         "lb1": {
@@ -32973,7 +32973,7 @@ window.allHeroes =
             "元素鏈給予所有自然盟友 +5% 攻擊力與 +5% 防禦，持續 6 回合。此效果無法淨化。"
         ],
         "passives": [],
-        "family": 2018,
+        "family": "hotm2018",
         "costume_id": 0,
         "originalIndex": 480,
         "lb1": {
@@ -33040,7 +33040,7 @@ window.allHeroes =
         "passives": [
             "使用特殊技能時造成驅散效果：此角色施展特殊技能時，會驅散所有敵人身上最新的狀態效果增益。"
         ],
-        "family": 2018,
+        "family": "hotm2018",
         "costume_id": 1,
         "originalIndex": 481,
         "lb1": {
@@ -33189,7 +33189,7 @@ window.allHeroes =
         "passives": [
             "閃避特殊傷害：此角色有 15% 的機率可躲避造成傷害的特殊技能。"
         ],
-        "family": "moth",
+        "family": "moths",
         "costume_id": 0,
         "originalIndex": 483,
         "lb1": {
@@ -33401,7 +33401,7 @@ window.allHeroes =
             "所有盟友獲得 +36% 暴擊率，持續 4 回合。"
         ],
         "passives": [],
-        "family": "guardiansteltoc",
+        "family": "guardian",
         "costume_id": 0,
         "originalIndex": 486,
         "lb1": {
@@ -33449,7 +33449,7 @@ window.allHeroes =
             "持續傷害",
             "額外傷害"
         ],
-        "source": "怪獸島召喚",
+        "source": "聖約召喚",
         "Release date": "2022-11-12",
         "specialId": "demolishing_crush",
         "passiveSkills": [
@@ -33470,7 +33470,7 @@ window.allHeroes =
             "特殊技能傷害減免：該角色有 10% 的機率將受到的特殊技能直接傷害降至 1 點。",
             "特殊技能下的持續傷害：此角色施放特殊技能時，會給予隨機敵人獵人印記。目標在 3 回合內受到 150 點傷害。若目標已有此效果，持續時間將刷新，傷害增加 150，最多總共 1500 傷害。"
         ],
-        "family": "plainshunter",
+        "family": "plains_hunter",
         "costume_id": 0,
         "originalIndex": 487,
         "lb1": {
@@ -34558,7 +34558,7 @@ window.allHeroes =
             "狙擊手",
             "治療削減"
         ],
-        "source": "怪獸島召喚",
+        "source": "聖約召喚",
         "Release date": "2022-10-15",
         "specialId": "mantis_strike",
         "passiveSkills": [
@@ -34582,7 +34582,7 @@ window.allHeroes =
             "特殊技能下的持續傷害：此角色施放特殊技能時，會給予隨機敵人獵人印記。目標在 3 回合內受到 150 點傷害。若目標已有此效果，持續時間將刷新，傷害增加 150，最多總共 1500 傷害。",
             "特殊技能傷害減免：該角色有 10% 的機率將受到的特殊技能直接傷害降至 1 點。"
         ],
-        "family": "plainshunter",
+        "family": "plains_hunter",
         "costume_id": 0,
         "originalIndex": 503,
         "lb1": {
@@ -34657,7 +34657,7 @@ window.allHeroes =
         "passives": [
             "抵禦燃燒：該角色對燃燒效果具有天生抗性。"
         ],
-        "family": 2019,
+        "family": "hotm2019",
         "costume_id": 0,
         "originalIndex": 504,
         "lb1": {
@@ -34729,7 +34729,7 @@ window.allHeroes =
             "抵禦法力減損：此角色對法力減損具有天生抗性。",
             "守衛集結：每 4 回合移除所有盟友的全部枯萎效果。"
         ],
-        "family": "garrisonguard",
+        "family": "garrison",
         "costume_id": 0,
         "originalIndex": 505,
         "lb1": {
@@ -34799,7 +34799,7 @@ window.allHeroes =
             "淨化所有盟友的狀態異常。"
         ],
         "passives": [],
-        "family": "corellia",
+        "family": "pirate",
         "costume_id": 0,
         "originalIndex": 506,
         "lb1": {
@@ -34867,7 +34867,7 @@ window.allHeroes =
         "passives": [
             "特殊技能造成劇毒效果：此角色施放特殊技能時，所有敵人在 4 回合內受到 540 劇毒傷害。"
         ],
-        "family": "corellia",
+        "family": "pirate",
         "costume_id": 1,
         "originalIndex": 507,
         "lb1": {
@@ -34930,7 +34930,7 @@ window.allHeroes =
             "小兵擊中目標時，目標損失 -10% 法力。"
         ],
         "passives": [],
-        "family": "avalon",
+        "family": "knight",
         "costume_id": 0,
         "originalIndex": 508,
         "lb1": {
@@ -34994,7 +34994,7 @@ window.allHeroes =
             "* -24% 法力產出，持續 3 回合。此效果無法淨化。"
         ],
         "passives": [],
-        "family": "avalon",
+        "family": "knight",
         "costume_id": 1,
         "originalIndex": 509,
         "lb1": {
@@ -35066,7 +35066,7 @@ window.allHeroes =
             "抵禦最大生命值降低：此角色對最大生命值降低具有天生抗性。",
             "已陣亡小兵的加成生命值：當擁有的小兵被摧毀時，此角色恢復 50 加成生命值。"
         ],
-        "family": 2023,
+        "family": "hotm2023",
         "costume_id": 0,
         "originalIndex": 510,
         "lb1": {
@@ -35210,7 +35210,7 @@ window.allHeroes =
             "* - 正面與負面疊加。",
             "* - 成長和枯萎效果。"
         ],
-        "family": "wildcat",
+        "family": "wild_cat",
         "costume_id": 0,
         "originalIndex": 512,
         "lb1": {
@@ -35580,7 +35580,7 @@ window.allHeroes =
         "passives": [
             "閃避特殊傷害：此角色有 15% 的機率可躲避造成傷害的特殊技能。"
         ],
-        "family": "moth",
+        "family": "moths",
         "costume_id": 0,
         "originalIndex": 518,
         "lb1": {
@@ -35807,7 +35807,7 @@ window.allHeroes =
         "passives": [
             "特殊技能傷害減免：此角色受到的特殊技能傷害減少 -20%。"
         ],
-        "family": "underwild",
+        "family": "abyss",
         "costume_id": 0,
         "originalIndex": 521,
         "lb1": {
@@ -35883,7 +35883,7 @@ window.allHeroes =
             "特殊技能傷害減免：此角色受到的特殊技能傷害減少 -20%。",
             "使用特殊技能時獲得生命值加成：此角色施展特殊技能時，會使所有盟友獲得 10% 生命值加成。"
         ],
-        "family": "underwild",
+        "family": "abyss",
         "costume_id": 1,
         "originalIndex": 522,
         "lb1": {
@@ -36096,7 +36096,7 @@ window.allHeroes =
             "強化抵禦負面小兵效果：此角色對來自小兵和超級小兵的傷害與負面效果具有天生抗性。",
             "抵禦治療異常：此角色對影響治療的狀態異常具有天生抗性。"
         ],
-        "family": "astraldwarfs",
+        "family": "astral_dwarfs",
         "costume_id": 0,
         "originalIndex": 525,
         "lb1": {
@@ -36163,7 +36163,7 @@ window.allHeroes =
         "passives": [
             "抵禦驅散：此角色對增益的驅散效果具有天生抗性。"
         ],
-        "family": 2019,
+        "family": "hotm2019",
         "costume_id": 0,
         "originalIndex": 526,
         "lb1": {
@@ -36231,7 +36231,7 @@ window.allHeroes =
             "寵物之怒：對任意敵人召喚惡魔時，此角色對所有敵人造成 85% 傷害。此效果每回合僅可啟動一次。",
             "密友之友：對任意盟友召喚小兵時，此角色會獲得 5% 生命和 5% 法力。此效果每回合僅可啟動一次。"
         ],
-        "family": "pets",
+        "family": "mighty_pet",
         "costume_id": 0,
         "originalIndex": 527,
         "lb1": {
@@ -36495,7 +36495,7 @@ window.allHeroes =
             "疊加",
             "持續傷害"
         ],
-        "source": "怪獸島召喚",
+        "source": "聖約召喚",
         "Release date": "2023-03-03",
         "specialId": "misty_punches",
         "passiveSkills": [
@@ -36517,7 +36517,7 @@ window.allHeroes =
             "特殊技能下的持續傷害：此角色施放特殊技能時，會給予隨機敵人獵人印記。目標在 3 回合內受到 150 點傷害。若目標已有此效果，持續時間將刷新，傷害增加 150，最多總共 1500 傷害。",
             "獵人的威猛：此角色施放特殊技能時，可獲得 +20% 攻擊，持續 3 回合。除了可變更攻擊的效果，可另外啟動此效果。"
         ],
-        "family": "junglehunter",
+        "family": "jungle_hunter",
         "costume_id": 0,
         "originalIndex": 531,
         "lb1": {
@@ -36588,7 +36588,7 @@ window.allHeroes =
             "抵禦劇毒：此角色對劇毒效果具有天生抗性。",
             "分享承受的傷害：這名角色所受傷害的 20% 將與所有其他盟友分享。"
         ],
-        "family": "astralelves",
+        "family": "astral_elves",
         "costume_id": 0,
         "originalIndex": 532,
         "lb1": {
@@ -36646,7 +36646,7 @@ window.allHeroes =
             "施法者和附近盟友獲得對烈火系 +94% 的防禦，持續 4 回合。"
         ],
         "passives": [],
-        "family": "avalon",
+        "family": "knight",
         "costume_id": 0,
         "originalIndex": 533,
         "lb1": {
@@ -36718,7 +36718,7 @@ window.allHeroes =
             "為每個盟友召喚一個精靈小兵，其可從施法者繼承 10% 生命與 10% 攻擊。"
         ],
         "passives": [],
-        "family": "christmas",
+        "family": "winter",
         "costume_id": 0,
         "originalIndex": 534,
         "lb1": {
@@ -36782,7 +36782,7 @@ window.allHeroes =
             "所有盟友在 4 回合內恢復 612 點生命值。"
         ],
         "passives": [],
-        "family": "christmas",
+        "family": "winter",
         "costume_id": 1,
         "originalIndex": 535,
         "lb1": {
@@ -36997,7 +36997,7 @@ window.allHeroes =
             "抵禦特殊技能封鎖：此角色對封鎖特殊技能的狀態異常具有天生抗性。",
             "無視嘲諷：此角色的特殊技能不受嘲諷影響。"
         ],
-        "family": 2025,
+        "family": "hotm2025",
         "costume_id": 0,
         "originalIndex": 538,
         "lb1": {
@@ -37287,7 +37287,7 @@ window.allHeroes =
             "抵禦瘋狂：此角色對瘋狂效果具有天生抗性。",
             "抵抗攻擊減少：該角色對影響攻擊的狀態異常、疊加和枯萎效果具有天生抗性。"
         ],
-        "family": "woodlandfaun",
+        "family": "faun",
         "costume_id": 0,
         "originalIndex": 542,
         "lb1": {
@@ -37430,7 +37430,7 @@ window.allHeroes =
         "passives": [
             "特殊技能傷害減免：此角色受到的特殊技能傷害減少 -20%。"
         ],
-        "family": "underwild",
+        "family": "abyss",
         "costume_id": 0,
         "originalIndex": 544,
         "lb1": {
@@ -37507,7 +37507,7 @@ window.allHeroes =
             "特殊技能傷害減免：此角色受到的特殊技能傷害減少 -20%。",
             "對加成生命值造成額外傷害：施放特殊技能後，所有盟友的普通攻擊和特殊技能對擁有加成生命值的目標造成 +70% 傷害，持續 4 回合。"
         ],
-        "family": "underwild",
+        "family": "abyss",
         "costume_id": 1,
         "originalIndex": 545,
         "lb1": {
@@ -37582,7 +37582,7 @@ window.allHeroes =
             "抵禦法力減損：此角色對法力減損具有天生抗性。",
             "守衛集結：每 4 回合移除所有盟友的全部枯萎效果。"
         ],
-        "family": "garrisonguard",
+        "family": "garrison",
         "costume_id": 0,
         "originalIndex": 546,
         "lb1": {
@@ -37729,7 +37729,7 @@ window.allHeroes =
         "passives": [
             "停用小兵能力：敵人擁有的所有小兵的攻擊和能力皆停用。"
         ],
-        "family": "lunaryear",
+        "family": "zodiac",
         "costume_id": 0,
         "originalIndex": 548,
         "lb1": {
@@ -38272,7 +38272,7 @@ window.allHeroes =
             "防禦角色時的被動技能：此英雄會從較強元素部隊受到較少的元素傷害。",
             "- 已受到元素傷害： -10%"
         ],
-        "family": "superelemental",
+        "family": "super_elemental",
         "costume_id": 0,
         "originalIndex": 556,
         "lb1": {
@@ -38336,7 +38336,7 @@ window.allHeroes =
             "防禦角色時的被動技能：此英雄會從較強元素部隊受到較少的元素傷害。",
             "- 已受到元素傷害： -25%"
         ],
-        "family": "superelemental",
+        "family": "super_elemental",
         "costume_id": 1,
         "originalIndex": 557,
         "lb1": {
@@ -38399,7 +38399,7 @@ window.allHeroes =
             "使施法者的最大生命值降低 400 點。對有生命加成的目標效果更大。（最大生命值不得低於原最大生命值的 30%。任何生命值加成會造成額外降低 400 點）"
         ],
         "passives": [],
-        "family": "springvale",
+        "family": "easter",
         "costume_id": 0,
         "originalIndex": 558,
         "lb1": {
@@ -38545,7 +38545,7 @@ window.allHeroes =
             "抵禦小兵移除：此角色對小兵移除效果具有天生抗性。",
             "燃燒時召喚：每當此角色獲得燃燒狀態異常時，他們將會替自己召喚一個森林守衛小兵。森林守衛小兵從此角色繼承 40% 生命值和 40% 攻擊力。"
         ],
-        "family": 2022,
+        "family": "hotm2022",
         "costume_id": 0,
         "originalIndex": 560,
         "lb1": {
@@ -38685,7 +38685,7 @@ window.allHeroes =
             "寵物之怒：對任意敵人召喚惡魔時，此角色對所有敵人造成 85% 傷害。此效果每回合僅可啟動一次。",
             "密友之友：對任意盟友召喚小兵時，此角色會獲得 5% 生命和 5% 法力。此效果每回合僅可啟動一次。"
         ],
-        "family": "pets",
+        "family": "mighty_pet",
         "costume_id": 0,
         "originalIndex": 562,
         "lb1": {
@@ -38764,7 +38764,7 @@ window.allHeroes =
             "* 對所有敵人造成 80% 傷害。",
             "* 施法者獲得 +19% 法力產出，持續 2 回合。"
         ],
-        "family": "nightmaresofatlantis",
+        "family": "tales1_baddies",
         "costume_id": 0,
         "originalIndex": 563,
         "lb1": {
@@ -38842,7 +38842,7 @@ window.allHeroes =
             "* 施法者獲得 +19% 法力產出，持續 2 回合。",
             "抵禦瘋狂：此角色對瘋狂效果具有天生抗性。"
         ],
-        "family": "nightmaresofatlantis",
+        "family": "tales1_baddies",
         "costume_id": 1,
         "originalIndex": 564,
         "lb1": {
@@ -38961,7 +38961,7 @@ window.allHeroes =
             "持續傷害",
             "凈化"
         ],
-        "source": "怪獸島召喚",
+        "source": "聖約召喚",
         "Release date": "2023-02-09",
         "specialId": "mallet_swing_of_the_beast",
         "passiveSkills": [
@@ -38983,7 +38983,7 @@ window.allHeroes =
             "獵手感知：此角色施放特殊技能時，有 100% 機率將其身上最新的狀態異常轉移到目標身上。若特殊技能無法鎖定敵人，則隨機選擇一個敵人。若此角色無狀態異常，則恢復 12% 生命值。",
             "特殊技能下的持續傷害：此角色施放特殊技能時，有 100% 機率將其身上最新的狀態異常轉移到目標身上。若特殊技能無法鎖定敵人，則隨機選擇一個敵人。若此角色無狀態異常，則恢復 5% 生命值。"
         ],
-        "family": "abysshunter",
+        "family": "abyss_hunter",
         "costume_id": 0,
         "originalIndex": 566,
         "lb1": {
@@ -39053,7 +39053,7 @@ window.allHeroes =
             "抵禦劇毒：此角色對劇毒效果具有天生抗性。",
             "分享承受的傷害：這名角色所受傷害的 20% 將與所有其他盟友分享。"
         ],
-        "family": "astralelves",
+        "family": "astral_elves",
         "costume_id": 0,
         "originalIndex": 567,
         "lb1": {
@@ -39140,7 +39140,7 @@ window.allHeroes =
             "* 這些效果每回合可發動一次。",
             "抵禦流血傷害：此角色對流血效果具有天生抗性。"
         ],
-        "family": "outlaws",
+        "family": "outlaw",
         "costume_id": 0,
         "originalIndex": 568,
         "lb1": {
@@ -39195,7 +39195,7 @@ window.allHeroes =
             "範圍攻擊 (打3)",
             "法力削減或格擋"
         ],
-        "source": "怪獸島召喚",
+        "source": "聖約召喚",
         "Release date": "2024-07-21",
         "specialId": "primeval_glaive",
         "passiveSkills": [
@@ -39219,7 +39219,7 @@ window.allHeroes =
             "特殊技能傷害減免：該角色有 10% 的機率將受到的特殊技能直接傷害降至 1 點。",
             "特殊技能下的持續傷害：此角色施放特殊技能時，會給予隨機敵人獵人印記。目標在 3 回合內受到 150 點傷害。若目標已有此效果，持續時間將刷新，傷害增加 150，最多總共 1500 傷害。"
         ],
-        "family": "plainshunter",
+        "family": "plains_hunter",
         "costume_id": 0,
         "originalIndex": 569,
         "lb1": {
@@ -39638,7 +39638,7 @@ window.allHeroes =
         "passives": [
             "抵禦小兵移除：此英雄對小兵移除效果具有天生抗性。"
         ],
-        "family": 2020,
+        "family": "hotm2020",
         "costume_id": 0,
         "originalIndex": 575,
         "lb1": {
@@ -39930,7 +39930,7 @@ window.allHeroes =
             "抵禦法力減損：此角色對法力減損具有天生抗性。",
             "守衛集結：每 4 回合移除所有盟友的全部枯萎效果。"
         ],
-        "family": "garrisonguard",
+        "family": "garrison",
         "costume_id": 0,
         "originalIndex": 579,
         "lb1": {
@@ -40417,7 +40417,7 @@ window.allHeroes =
             "抵禦劇毒：此角色對劇毒效果具有天生抗性。",
             "劇毒時生命值加成：每回合開始時，每個受到劇毒效果的敵人，都會為此角色與附近盟友提供 2% 的加成生命值。加成生命值能夠超過最大生命值。"
         ],
-        "family": 2023,
+        "family": "hotm2023",
         "costume_id": 0,
         "originalIndex": 586,
         "lb1": {
@@ -40565,7 +40565,7 @@ window.allHeroes =
             "防禦角色時的被動技能：此英雄會從較強元素部隊受到較少的元素傷害。",
             "- 已受到元素傷害： -10%"
         ],
-        "family": "superelemental",
+        "family": "super_elemental",
         "costume_id": 0,
         "originalIndex": 588,
         "lb1": {
@@ -40710,7 +40710,7 @@ window.allHeroes =
         "passives": [
             "停用小兵能力：敵人擁有的所有小兵的攻擊和能力皆停用。"
         ],
-        "family": "lunaryear",
+        "family": "zodiac",
         "costume_id": 0,
         "originalIndex": 590,
         "lb1": {
@@ -40924,7 +40924,7 @@ window.allHeroes =
         "passives": [
             "受古老存在標記：每獲得 5% 點瘋狂，此角色承受的所有傷害都會減少 10，最多減少 50%。"
         ],
-        "family": "investigator",
+        "family": "cultist",
         "costume_id": 0,
         "originalIndex": 593,
         "lb1": {
@@ -40992,7 +40992,7 @@ window.allHeroes =
             "元素鏈給予所有自然盟友 +10% 法力，持續 4 個回合。此效果無法驅散。"
         ],
         "passives": [],
-        "family": 2018,
+        "family": "hotm2018",
         "costume_id": 0,
         "originalIndex": 594,
         "lb1": {
@@ -41074,7 +41074,7 @@ window.allHeroes =
         "passives": [
             "使用特殊技能時造成淨化效果：此角色施展特殊技能時，會淨化所有盟友身上最新的狀態異常。"
         ],
-        "family": 2018,
+        "family": "hotm2018",
         "costume_id": 1,
         "originalIndex": 595,
         "lb1": {
@@ -41150,7 +41150,7 @@ window.allHeroes =
         "passives": [
             "抵禦水系傷害：此角色對水系傷害具有天生抗性。"
         ],
-        "family": 2020,
+        "family": "hotm2020",
         "costume_id": 0,
         "originalIndex": 596,
         "lb1": {
@@ -41223,7 +41223,7 @@ window.allHeroes =
             "防禦角色時的被動技能：此英雄會從較強元素部隊受到較少的元素傷害。",
             "- 已受到元素傷害： -10%"
         ],
-        "family": "superelemental",
+        "family": "super_elemental",
         "costume_id": 0,
         "originalIndex": 597,
         "lb1": {
@@ -41281,7 +41281,7 @@ window.allHeroes =
             "對目標造成 265% 傷害。"
         ],
         "passives": [],
-        "family": null,
+        "family": "classic",
         "costume_id": 0,
         "originalIndex": 598,
         "cn_skill_info": []
@@ -41314,7 +41314,7 @@ window.allHeroes =
             "對目標造成 250% 傷害。"
         ],
         "passives": [],
-        "family": null,
+        "family": "classic",
         "costume_id": 0,
         "originalIndex": 599,
         "cn_skill_info": []
@@ -41347,7 +41347,7 @@ window.allHeroes =
             "對目標造成 250% 傷害。"
         ],
         "passives": [],
-        "family": null,
+        "family": "classic",
         "costume_id": 0,
         "originalIndex": 600,
         "cn_skill_info": []
@@ -41380,7 +41380,7 @@ window.allHeroes =
             "目標在 6 回合內受到共計 78 點傷害。"
         ],
         "passives": [],
-        "family": null,
+        "family": "classic",
         "costume_id": 0,
         "originalIndex": 601,
         "cn_skill_info": []
@@ -41413,7 +41413,7 @@ window.allHeroes =
             "所有盟友獲得 +48% 攻擊力，持續 4 回合。"
         ],
         "passives": [],
-        "family": null,
+        "family": "classic",
         "costume_id": 0,
         "originalIndex": 602,
         "cn_skill_info": []
@@ -42197,7 +42197,7 @@ window.allHeroes =
             "目標與附近敵人獲得 -24% 法力產出，持續 3 回合。"
         ],
         "passives": [],
-        "family": "sakura",
+        "family": "japanese",
         "costume_id": 0,
         "originalIndex": 615,
         "lb1": {
@@ -42425,7 +42425,7 @@ window.allHeroes =
             "凈化",
             "持續傷害"
         ],
-        "source": "怪獸島召喚",
+        "source": "聖約召喚",
         "Release date": "2023-02-09",
         "specialId": "stubby_reap",
         "passiveSkills": [
@@ -42447,7 +42447,7 @@ window.allHeroes =
             "獵手感知：此角色施放特殊技能時，有 100% 機率將其身上最新的狀態異常轉移到目標身上。若特殊技能無法鎖定敵人，則隨機選擇一個敵人。若此角色無狀態異常，則恢復 12% 生命值。",
             "特殊技能下的持續傷害：此角色施放特殊技能時，會給予隨機敵人獵人印記。目標在 3 回合內受到 150 點傷害。若目標已有此效果，持續時間將刷新，傷害增加 150，最多總共 1500 傷害。"
         ],
-        "family": "abysshunter",
+        "family": "abyss_hunter",
         "costume_id": 0,
         "originalIndex": 619,
         "lb1": {
@@ -42506,7 +42506,7 @@ window.allHeroes =
             "每有一名盟友落敗，傷害增加 50%。"
         ],
         "passives": [],
-        "family": "guardiansteltoc",
+        "family": "guardian",
         "costume_id": 0,
         "originalIndex": 620,
         "lb1": {
@@ -42569,7 +42569,7 @@ window.allHeroes =
         "passives": [
             "偷取增益：此角色施放特殊技能時，有 50% 機率隨機從有增益的敵人身上偷取最新的可驅散增益。若無敵人有增益，則對所有敵人造成 70% 傷害。"
         ],
-        "family": "morlovia",
+        "family": "halloween",
         "costume_id": 0,
         "originalIndex": 621,
         "lb1": {
@@ -42603,7 +42603,7 @@ window.allHeroes =
         "AetherPower": "攻擊提升",
         "color": "紫",
         "class": "盜賊",
-        "speed": "殺手",
+        "speed": "慢速",
         "skill": "刺客之刃",
         "types": [
             "攻擊3個目標",
@@ -42639,7 +42639,7 @@ window.allHeroes =
         "passives": [
             "抵禦來自狀態效果的傷害：此角色對來自狀態效果的傷害具有天生抗性。"
         ],
-        "family": "slayer",
+        "family": "slayers",
         "costume_id": 0,
         "originalIndex": 622,
         "lb1": {
@@ -42786,7 +42786,7 @@ window.allHeroes =
         "passives": [
             "減少異常持續時間：這個角色受到來自特殊技能的狀態效果時，有前 3 次會將持續時間減少 1 個回合。"
         ],
-        "family": "underwild",
+        "family": "abyss",
         "costume_id": 0,
         "originalIndex": 624,
         "lb1": {
@@ -42865,7 +42865,7 @@ window.allHeroes =
         "passives": [
             "減少異常持續時間：這個角色受到來自特殊技能的狀態效果時，有前 3 次會將持續時間減少 1 個回合。"
         ],
-        "family": "underwild",
+        "family": "abyss",
         "costume_id": 1,
         "originalIndex": 625,
         "lb1": {
@@ -43629,7 +43629,7 @@ window.allHeroes =
             "所有敵人獲得 -34% 法力產出，持續 6 回合。"
         ],
         "passives": [],
-        "family": "avalon",
+        "family": "knight",
         "costume_id": 0,
         "originalIndex": 637,
         "lb1": {
@@ -43959,7 +43959,7 @@ window.allHeroes =
         "passives": [
             "偷取增益：此角色施放特殊技能時，有 50% 機率隨機從有增益的敵人身上偷取最新的可驅散增益。若無敵人有增益，則對所有敵人造成 70% 傷害。"
         ],
-        "family": "morlovia",
+        "family": "halloween",
         "costume_id": 0,
         "originalIndex": 642,
         "lb1": {
@@ -44154,7 +44154,7 @@ window.allHeroes =
             "在變為幽靈型態時，施法者獲得 +82% 攻擊力。在變為幽靈型態時，角色無法獲得法力，且無法被特殊技能治療，但對普通攻擊、特殊技能攻擊、造成傷害的被動技能、狀態效果和疊加免疫。對新的成長與枯萎效果免疫。"
         ],
         "passives": [],
-        "family": "sakura",
+        "family": "japanese",
         "costume_id": 0,
         "originalIndex": 645,
         "lb1": {
@@ -44217,7 +44217,7 @@ window.allHeroes =
             "在變為幽靈型態時，除施法者以外的所有盟友每回合恢復 140 點生命值。"
         ],
         "passives": [],
-        "family": "sakura",
+        "family": "japanese",
         "costume_id": 1,
         "originalIndex": 646,
         "lb1": {
@@ -44355,7 +44355,7 @@ window.allHeroes =
         "passives": [
             "偷取增益 - 此角色施放特殊技能時，有 50% 機率隨機從有增益的敵人身上偷取最新的可驅散增益。若無敵人有增益，則對所有敵人造成 70% 傷害。"
         ],
-        "family": "morlovia",
+        "family": "halloween",
         "costume_id": 0,
         "originalIndex": 648,
         "lb1": {
@@ -44498,7 +44498,7 @@ window.allHeroes =
             "施法者和附近盟友獲得對神聖系 +94% 的防禦，持續 3 回合。"
         ],
         "passives": [],
-        "family": "corellia",
+        "family": "pirate",
         "costume_id": 0,
         "originalIndex": 650,
         "lb1": {
@@ -44692,7 +44692,7 @@ window.allHeroes =
             "對任意盟友召喚小兵時，此角色會獲得 5% 生命和 5% 法力。此效果每回合僅可啟動一次。",
             "對任意敵人召喚惡魔時，此角色對所有敵人造成 85% 傷害。此效果每回合僅可啟動一次。"
         ],
-        "family": "pets",
+        "family": "mighty_pet",
         "costume_id": 0,
         "originalIndex": 653,
         "lb1": {
@@ -45038,7 +45038,7 @@ window.allHeroes =
             "施法者與附近盟友將全部狀態效果和 100% 傷害反射給進攻者，並抵擋其它來自敵人神聖系特殊技能的負面效果，持續 4 回合。（同隊角色、小兵和惡魔施放的狀態效果無法反彈）"
         ],
         "passives": [],
-        "family": "christmas",
+        "family": "winter",
         "costume_id": 0,
         "originalIndex": 659,
         "lb1": {
@@ -45792,7 +45792,7 @@ window.allHeroes =
             "防禦角色時的被動技能：此英雄會從較強元素部隊受到較少的元素傷害。",
             "- 已受到元素傷害： -10%"
         ],
-        "family": "superelemental",
+        "family": "super_elemental",
         "costume_id": 0,
         "originalIndex": 670,
         "lb1": {
@@ -45837,7 +45837,7 @@ window.allHeroes =
             "持續傷害",
             "狙擊手"
         ],
-        "source": "怪獸島召喚",
+        "source": "聖約召喚",
         "Release date": "2022-10-15",
         "specialId": "poison_tipped_arrow",
         "passiveSkills": [
@@ -45858,7 +45858,7 @@ window.allHeroes =
             "特殊技能附加狀態效果：當該角色施放其特殊技能時，會給一個隨機敵人施加獵人印記。目標在 3 回合內受到 150 點傷害。如果目標已有此效果，則持續時間刷新，傷害增加 150 點，總傷害最高可達 1500 點。",
             "特殊技能傷害減免：該角色有 10% 的機率將受到的特殊技能直接傷害降至 1 點。"
         ],
-        "family": "plainshunter",
+        "family": "plains_hunter",
         "costume_id": 0,
         "originalIndex": 671,
         "lb1": {
@@ -45920,7 +45920,7 @@ window.allHeroes =
             "在 3 回合內，若目標在回合開始時法力滿格，該目標將自動對一名隨機盟友施放莽夫亂拳。"
         ],
         "passives": [],
-        "family": "avalon",
+        "family": "knight",
         "costume_id": 0,
         "originalIndex": 672,
         "lb1": {
@@ -45987,7 +45987,7 @@ window.allHeroes =
             "在 3 回合內，若目標在回合開始時法力滿格，該目標將自動對一名隨機盟友施放莽夫亂拳。"
         ],
         "passives": [],
-        "family": "avalon",
+        "family": "knight",
         "costume_id": 1,
         "originalIndex": 673,
         "lb1": {
@@ -46858,7 +46858,7 @@ window.allHeroes =
             "* 對所有敵人造成 80% 傷害。",
             "* 施法者獲得 +19% 法力產出，持續 2 回合。"
         ],
-        "family": "nightmaresofatlantis",
+        "family": "tales1_baddies",
         "costume_id": 0,
         "originalIndex": 686,
         "lb1": {
@@ -46928,7 +46928,7 @@ window.allHeroes =
             "* 施法者獲得 +19% 法力產出，持續 2 回合。",
             "抵禦瘋狂：此角色對瘋狂效果具有天生抗性。"
         ],
-        "family": "nightmaresofatlantis",
+        "family": "tales1_baddies",
         "costume_id": 1,
         "originalIndex": 687,
         "lb1": {
@@ -47055,7 +47055,7 @@ window.allHeroes =
         "passives": [
             "閃避特殊傷害：此角色有 15% 的機率可躲避造成傷害的特殊技能。"
         ],
-        "family": "moth",
+        "family": "moths",
         "costume_id": 0,
         "originalIndex": 689,
         "lb1": {
@@ -47509,7 +47509,7 @@ window.allHeroes =
             "防禦角色時的被動技能：此英雄會從較強元素部隊受到較少的元素傷害。",
             "- 已受到元素傷害： -10%"
         ],
-        "family": "superelemental",
+        "family": "super_elemental",
         "costume_id": 0,
         "originalIndex": 696,
         "lb1": {
@@ -47579,7 +47579,7 @@ window.allHeroes =
             "元素鏈給予所有暗黑盟友 + 5% 攻擊力與 + 5% 防禦，持續 6 回合。此效果無法驅散。"
         ],
         "passives": [],
-        "family": 2018,
+        "family": "hotm2018",
         "costume_id": 0,
         "originalIndex": 697,
         "lb1": {
@@ -47651,7 +47651,7 @@ window.allHeroes =
         "passives": [
             "使用特殊技能時造成淨化效果：此角色施展特殊技能時，會淨化所有盟友身上最新的狀態異常。"
         ],
-        "family": 2018,
+        "family": "hotm2018",
         "costume_id": 1,
         "originalIndex": 698,
         "lb1": {
@@ -47727,7 +47727,7 @@ window.allHeroes =
             "* 角色擁有的飛行動量越少，效果越弱。",
             "削弱超級小兵：敵方超級小兵的生命值降低 -75%。"
         ],
-        "family": "magiccarpet",
+        "family": "magic_carpet",
         "costume_id": 0,
         "originalIndex": 699,
         "lb1": {
@@ -47982,7 +47982,7 @@ window.allHeroes =
             "抵禦負面小兵效果：此角色對來自小兵的傷害與負面效果具有天生抗性。",
             "從已陣亡小兵獲取生命值：此角色擁有的小兵被擊殺時，會恢復 100 的生命值。"
         ],
-        "family": 2025,
+        "family": "hotm2025",
         "costume_id": 0,
         "originalIndex": 702,
         "lb1": {
@@ -48260,7 +48260,7 @@ window.allHeroes =
             "抵禦致盲：此角色對影響精準度的狀態異常具有天生抗性。不適用來自盟友的原本狀態效果。",
             "獲得狀態異常的生命值回復：此角色在被施加狀態異常或負面效果疊加時，可恢復 10% 生命值。"
         ],
-        "family": 2024,
+        "family": "hotm2024",
         "costume_id": 0,
         "originalIndex": 706,
         "lb1": {
@@ -48552,7 +48552,7 @@ window.allHeroes =
             "法力減損的狀態效果：法力減損時，此角色獲得 +30% 攻擊，持續 3 回合。",
             "抵禦生命偷取異常：此英雄對偷取生命的狀態異常具有天生抗性。"
         ],
-        "family": 2022,
+        "family": "hotm2022",
         "costume_id": 0,
         "originalIndex": 710,
         "lb1": {
@@ -49114,7 +49114,7 @@ window.allHeroes =
             "所有盟友以所受傷害的 115% 進行反擊，持續 4 回合。"
         ],
         "passives": [],
-        "family": "grimforest",
+        "family": "fable",
         "costume_id": 0,
         "originalIndex": 718,
         "lb1": {
@@ -49400,7 +49400,7 @@ window.allHeroes =
             "抵禦法力減損：此角色對法力減損具有天生抗性。",
             "獲得狀態異常的法力增益：此技能的角色受到任何狀態異常或負面疊加時，可獲得 +24% 法力產出，持續 3 回合。"
         ],
-        "family": 2021,
+        "family": "hotm2021",
         "costume_id": 0,
         "originalIndex": 722,
         "lb1": {
@@ -49480,7 +49480,7 @@ window.allHeroes =
             "* 這些效果每回合可發動一次。",
             "抵禦流血傷害：此角色對流血效果具有天生抗性。"
         ],
-        "family": "outlaws",
+        "family": "outlaw",
         "costume_id": 0,
         "originalIndex": 723,
         "lb1": {
@@ -49628,7 +49628,7 @@ window.allHeroes =
         "passives": [
             "抵禦劇毒：此角色對劇毒效果具有天生抗性。"
         ],
-        "family": 2020,
+        "family": "hotm2020",
         "costume_id": 0,
         "originalIndex": 725,
         "lb1": {
@@ -50077,7 +50077,7 @@ window.allHeroes =
             "抵禦劇毒：此角色對劇毒效果具有天生抗性。",
             "分享承受的傷害：這名角色所受傷害的 20% 將與所有其他盟友分享。"
         ],
-        "family": "astralelves",
+        "family": "astral_elves",
         "costume_id": 0,
         "originalIndex": 731,
         "lb1": {
@@ -50622,7 +50622,7 @@ window.allHeroes =
         "passives": [
             "特殊技能傷害減免：此角色受到的特殊技能傷害減少 -20%。"
         ],
-        "family": "underwild",
+        "family": "abyss",
         "costume_id": 0,
         "originalIndex": 739,
         "lb1": {
@@ -50689,7 +50689,7 @@ window.allHeroes =
             "特殊技能傷害減免：此角色受到的特殊技能傷害減少 -20%。",
             "對加成生命值造成額外傷害：施放特殊技能後，所有盟友的普通攻擊和特殊技能對擁有加成生命值的目標造成 +70% 傷害，持續 4 回合。"
         ],
-        "family": "underwild",
+        "family": "abyss",
         "costume_id": 1,
         "originalIndex": 740,
         "lb1": {
@@ -50761,7 +50761,7 @@ window.allHeroes =
             "抵禦劇毒：此角色對劇毒效果具有天生抗性。",
             "分享承受的傷害：這名角色所受傷害的 20% 將與所有其他盟友分享。"
         ],
-        "family": "astralelves",
+        "family": "astral_elves",
         "costume_id": 0,
         "originalIndex": 741,
         "lb1": {
@@ -50814,7 +50814,7 @@ window.allHeroes =
             "特殊治療",
             "狙擊手"
         ],
-        "source": "怪獸島召喚",
+        "source": "聖約召喚",
         "Release date": "2024-05-23",
         "specialId": "thundering_strike",
         "passiveSkills": [
@@ -50836,7 +50836,7 @@ window.allHeroes =
             "特殊技能傷害減免：該角色有 10% 的機率將受到的特殊技能直接傷害降至 1 點。",
             "特殊技能下的持續傷害：此角色施放特殊技能時，會給予隨機敵人獵人印記。目標在 3 回合內受到 150 點傷害。若目標已有此效果，持續時間將刷新，傷害增加 150，最多總共 1500 傷害。"
         ],
-        "family": "plainshunter",
+        "family": "plains_hunter",
         "costume_id": 0,
         "originalIndex": 742,
         "lb1": {
@@ -51132,7 +51132,7 @@ window.allHeroes =
             "防禦角色時的被動技能：此英雄會從較強元素部隊受到較少的元素傷害。",
             "- 已受到元素傷害： -10%"
         ],
-        "family": "superelemental",
+        "family": "super_elemental",
         "costume_id": 0,
         "originalIndex": 746,
         "lb1": {
@@ -51325,7 +51325,7 @@ window.allHeroes =
             "防禦角色時的被動技能：此英雄會從較強元素部隊受到較少的元素傷害。",
             "- 已受到元素傷害： -10%"
         ],
-        "family": "superelemental",
+        "family": "super_elemental",
         "costume_id": 0,
         "originalIndex": 749,
         "lb1": {
@@ -51395,7 +51395,7 @@ window.allHeroes =
             "強化抵禦負面小兵效果：此角色對來自小兵和超級小兵的傷害與負面效果具有天生抗性。",
             "完美精準度：此角色的特殊技能必定命中目標。"
         ],
-        "family": "astraldwarfs",
+        "family": "astral_dwarfs",
         "costume_id": 0,
         "originalIndex": 750,
         "lb1": {
@@ -51514,7 +51514,7 @@ window.allHeroes =
             "法力削減或格擋",
             "狙擊手"
         ],
-        "source": "怪獸島召喚",
+        "source": "聖約召喚",
         "Release date": "2022-12-24",
         "specialId": "titantooth_blade",
         "passiveSkills": [
@@ -51536,7 +51536,7 @@ window.allHeroes =
             "獵手感知：當此角色施放特殊技能時，會將其最新的可淨化狀態異常從自身轉移至目標。如果特殊技能無法鎖定敵人，則會隨機選擇一個敵人。如果此角色沒有可淨化的狀態異常，則會恢復 3% 生命。",
             "特殊技能下的持續傷害：此角色施放特殊技能時，會給予隨機敵人獵人印記。目標在 3 回合內受到 150 點傷害。若目標已有此效果，持續時間將刷新，傷害增加 150，最多總共 1500 傷害。"
         ],
-        "family": "abysshunter",
+        "family": "abyss_hunter",
         "costume_id": 0,
         "originalIndex": 752,
         "lb1": {
@@ -51744,7 +51744,7 @@ window.allHeroes =
             "防禦角色時的被動技能：此英雄會從較強元素部隊受到較少的元素傷害。",
             "- 已受到元素傷害： -10%"
         ],
-        "family": "superelemental",
+        "family": "super_elemental",
         "costume_id": 0,
         "originalIndex": 755,
         "lb1": {
@@ -51811,7 +51811,7 @@ window.allHeroes =
         "passives": [
             "抵禦致盲：此角色對影響精準度的狀態異常具有天生抗性。不適用來自盟友的狀態效果。"
         ],
-        "family": 2019,
+        "family": "hotm2019",
         "costume_id": 0,
         "originalIndex": 756,
         "lb1": {
@@ -51878,7 +51878,7 @@ window.allHeroes =
             "驅散目標和附近敵人的增益。"
         ],
         "passives": [],
-        "family": "guardiansteltoc",
+        "family": "guardian",
         "costume_id": 0,
         "originalIndex": 757,
         "lb1": {
@@ -51945,7 +51945,7 @@ window.allHeroes =
             "所有敵人在 3 回合內無法獲得新的狀態效果增益。"
         ],
         "passives": [],
-        "family": "guardiansteltoc",
+        "family": "guardian",
         "costume_id": 1,
         "originalIndex": 758,
         "lb1": {
@@ -52091,7 +52091,7 @@ window.allHeroes =
         "passives": [
             "用法力開始戰鬥：戰鬥開始時，這個角色會獲得 20% 法力。"
         ],
-        "family": "underwild",
+        "family": "abyss",
         "costume_id": 0,
         "originalIndex": 760,
         "lb1": {
@@ -52167,7 +52167,7 @@ window.allHeroes =
             "用法力開始戰鬥：此英雄在戰鬥開始時獲得 20% 法力。",
             "對加成生命值造成額外傷害：施放特殊技能後，所有盟友的普通攻擊和特殊技能對擁有加成生命值的目標造成 +70% 傷害，持續 4 回合。"
         ],
-        "family": "underwild",
+        "family": "abyss",
         "costume_id": 1,
         "originalIndex": 761,
         "lb1": {
@@ -52221,7 +52221,7 @@ window.allHeroes =
             "反射",
             "持續治療"
         ],
-        "source": "怪獸島召喚",
+        "source": "聖約召喚",
         "Release date": "2022-09-18",
         "specialId": "medicinal_fumes",
         "passiveSkills": [
@@ -52243,7 +52243,7 @@ window.allHeroes =
             "特殊技能傷害減免：該角色有 10% 的機率將受到的特殊技能直接傷害降至 1 點。",
             "特殊技能下的持續傷害：此角色施放特殊技能時，會給予隨機敵人獵人印記。目標在 3 回合內受到 150 點傷害。若目標已有此效果，持續時間將刷新，傷害增加 150，最多總共 1500 傷害。"
         ],
-        "family": "plainshunter",
+        "family": "plains_hunter",
         "costume_id": 0,
         "originalIndex": 762,
         "lb1": {
@@ -52309,7 +52309,7 @@ window.allHeroes =
             "元素鏈給予所有暗黑盟友 +15% 攻擊力與 +15% 防禦，持續 6 回合。此效果無法驅散。"
         ],
         "passives": [],
-        "family": 2017,
+        "family": "hotm2017",
         "costume_id": 0,
         "originalIndex": 763,
         "lb1": {
@@ -52384,7 +52384,7 @@ window.allHeroes =
         "passives": [
             "使用特殊技能時造成驅散效果：此角色施展特殊技能時，會驅散所有敵人身上最新的狀態效果增益。"
         ],
-        "family": 2017,
+        "family": "hotm2017",
         "costume_id": 1,
         "originalIndex": 764,
         "lb1": {
@@ -52533,7 +52533,7 @@ window.allHeroes =
         "passives": [
             "增加增益持續時間：此角色從特殊技能獲得的前 3 個增益效果的持續時間增加 1 回合。"
         ],
-        "family": "underwild",
+        "family": "abyss",
         "costume_id": 0,
         "originalIndex": 766,
         "lb1": {
@@ -52604,7 +52604,7 @@ window.allHeroes =
             "增加增益持續時間：此角色從特殊技能獲得的前 3 個增益效果的持續時間增加 1 回合。",
             "使用特殊技能時獲得生命值加成：此角色施展特殊技能時，會使所有盟友獲得 10% 生命值加成。"
         ],
-        "family": "underwild",
+        "family": "abyss",
         "costume_id": 1,
         "originalIndex": 767,
         "lb1": {
@@ -52674,7 +52674,7 @@ window.allHeroes =
         "passives": [
             "受古老存在標記：每獲得 5% 點瘋狂，此角色承受的所有傷害都會減少 10，最多減少 50%。"
         ],
-        "family": "cultist",
+        "family": "investigator",
         "costume_id": 0,
         "originalIndex": 768,
         "lb1": {
@@ -52730,7 +52730,7 @@ window.allHeroes =
             "疊加",
             "攻擊增益"
         ],
-        "source": "怪獸島召喚",
+        "source": "月活動 - 卡勒瓦拉",
         "Release date": "2023-05-26",
         "specialId": "firestone_daggers",
         "passiveSkills": [
@@ -52753,7 +52753,7 @@ window.allHeroes =
             "獵人的威猛：此角色施放特殊技能時，可獲得 +20% 攻擊，持續 3 回合。除了可變更攻擊的效果，可另外啟動此效果。",
             "特殊技能下的持續傷害：此角色施放特殊技能時，會給予隨機敵人獵人印記。目標在 3 回合內受到 150 點傷害。若目標已有此效果，持續時間將刷新，傷害增加 150，最多總共 1500 傷害。"
         ],
-        "family": "junglehunter",
+        "family": "jungle_hunter",
         "costume_id": 0,
         "originalIndex": 769,
         "lb1": {
@@ -52842,7 +52842,7 @@ window.allHeroes =
             "* - 正面與負面疊加。",
             "* - 成長和枯萎效果。"
         ],
-        "family": "wildcat",
+        "family": "wild_cat",
         "costume_id": 0,
         "originalIndex": 770,
         "lb1": {
@@ -53113,7 +53113,7 @@ window.allHeroes =
             "如果目標剩餘生命超過 50%，可對其造成 450% 傷害。"
         ],
         "passives": [],
-        "family": "sakura",
+        "family": "japanese",
         "costume_id": 0,
         "originalIndex": 774,
         "lb1": {
@@ -53184,7 +53184,7 @@ window.allHeroes =
             "目標獲得 -34% 防禦，持續 2 回合。"
         ],
         "passives": [],
-        "family": "sakura",
+        "family": "japanese",
         "costume_id": 1,
         "originalIndex": 775,
         "lb1": {
@@ -53589,7 +53589,7 @@ window.allHeroes =
             "元素鏈會為所有暗黑盟友恢復 4% 生命，持續 6 回合。此效果無法淨化。"
         ],
         "passives": [],
-        "family": 2018,
+        "family": "hotm2018",
         "costume_id": 0,
         "originalIndex": 781,
         "lb1": {
@@ -53656,7 +53656,7 @@ window.allHeroes =
         "passives": [
             "使用特殊技能時造成驅散效果：此角色施展特殊技能時，會驅散所有敵人身上最新的狀態效果增益。"
         ],
-        "family": 2018,
+        "family": "hotm2018",
         "costume_id": 1,
         "originalIndex": 782,
         "lb1": {
@@ -53848,7 +53848,7 @@ window.allHeroes =
             "除了施法者外的所有盟友獲得 -20% 防禦，持續 3 回合。此效果無法淨化。"
         ],
         "passives": [],
-        "family": "springvale",
+        "family": "easter",
         "costume_id": 0,
         "originalIndex": 785,
         "lb1": {
@@ -53907,7 +53907,7 @@ window.allHeroes =
             "除了施法者，所有盟友獲得 -20% 攻擊力，持續 3 回合。此效果無法淨化。"
         ],
         "passives": [],
-        "family": "springvale",
+        "family": "easter",
         "costume_id": 1,
         "originalIndex": 786,
         "lb1": {
@@ -54119,7 +54119,7 @@ window.allHeroes =
         "passives": [
             "抵禦防禦異常：此角色對影響防禦的狀態異常和負面疊加具有天生抗性。不適用影響元素防禦的狀態異常。"
         ],
-        "family": 2019,
+        "family": "hotm2019",
         "costume_id": 0,
         "originalIndex": 789,
         "lb1": {
@@ -54193,7 +54193,7 @@ window.allHeroes =
         "passives": [
             "特殊技能傷害減免：此角色受到的特殊技能傷害減少 -20%。"
         ],
-        "family": "underwild",
+        "family": "abyss",
         "costume_id": 0,
         "originalIndex": 790,
         "lb1": {
@@ -54271,7 +54271,7 @@ window.allHeroes =
             "特殊技能傷害減免：此角色受到的特殊技能傷害減少 -20%。",
             "使用特殊技能時獲得生命值加成：施放特殊技能時，為所有盟友提供 10% 生命值加成。"
         ],
-        "family": "underwild",
+        "family": "abyss",
         "costume_id": 1,
         "originalIndex": 791,
         "lb1": {
@@ -54342,7 +54342,7 @@ window.allHeroes =
         "passives": [
             "閃避特殊傷害：此角色有 15% 的機率可躲避造成傷害的特殊技能。"
         ],
-        "family": "moth",
+        "family": "moths",
         "costume_id": 0,
         "originalIndex": 792,
         "lb1": {
@@ -54423,7 +54423,7 @@ window.allHeroes =
             "* 角色擁有的飛行動量越少，效果越弱。",
             "強化抵禦負面小兵效果：此角色對來自小兵和超級小兵的傷害與負面效果具有天生抗性。"
         ],
-        "family": "magiccarpet",
+        "family": "magic_carpet",
         "costume_id": 0,
         "originalIndex": 793,
         "lb1": {
@@ -54786,7 +54786,7 @@ window.allHeroes =
         "passives": [
             "偷取增益：此角色施放特殊技能時，有 50% 機率隨機從有增益的敵人身上偷取最新的可驅散增益。若無敵人有增益，則對所有敵人造成 70% 傷害。"
         ],
-        "family": "morlovia",
+        "family": "halloween",
         "costume_id": 0,
         "originalIndex": 798,
         "lb1": {
@@ -54918,7 +54918,7 @@ window.allHeroes =
             "密友之友：對任意盟友召喚小兵時，此角色會獲得 5% 生命和 5% 法力。此效果每回合僅可啟動一次。",
             "寵物之怒：對任意敵人召喚惡魔時，此角色對所有敵人造成 85% 傷害。此效果每回合僅可啟動一次。"
         ],
-        "family": "pets",
+        "family": "mighty_pet",
         "costume_id": 0,
         "originalIndex": 800,
         "lb1": {
@@ -55067,7 +55067,7 @@ window.allHeroes =
             "抵禦法力減損：此角色對法力減損具有天生抗性。",
             "守衛集結：每 4 回合移除所有盟友的全部枯萎效果。"
         ],
-        "family": "garrisonguard",
+        "family": "garrison",
         "costume_id": 0,
         "originalIndex": 802,
         "lb1": {
@@ -55150,7 +55150,7 @@ window.allHeroes =
             "抵禦生命偷取異常：此角色對偷取生命的狀態異常具有天生抗性。",
             "法力減損的狀態效果：法力減損時，此角色獲得 +94% 對抗神聖屬性的防禦，持續 3 回合。"
         ],
-        "family": 2021,
+        "family": "hotm2021",
         "costume_id": 0,
         "originalIndex": 803,
         "lb1": {
@@ -55227,7 +55227,7 @@ window.allHeroes =
             "劇毒撕咬。"
         ],
         "passives": [],
-        "family": "corellia",
+        "family": "pirate",
         "costume_id": 0,
         "originalIndex": 804,
         "lb1": {
@@ -55303,7 +55303,7 @@ window.allHeroes =
         "passives": [
             "特殊技能造成劇毒效果：此角色施放特殊技能時，所有敵人在 4 回合內受到 504 劇毒傷害。"
         ],
-        "family": "corellia",
+        "family": "pirate",
         "costume_id": 1,
         "originalIndex": 805,
         "lb1": {
@@ -55375,7 +55375,7 @@ window.allHeroes =
             "抵禦瘋狂：此角色對瘋狂效果具有天生抗性。",
             "抵抗攻擊減少：該角色對影響攻擊的狀態異常、疊加和枯萎效果具有天生抗性。"
         ],
-        "family": "woodlandfaun",
+        "family": "faun",
         "costume_id": 0,
         "originalIndex": 806,
         "lb1": {
@@ -55451,7 +55451,7 @@ window.allHeroes =
             "* 施法者獲得 +19% 法力產出，持續 2 回合。",
             "抵禦瘋狂：此角色對瘋狂效果具有天生抗性。"
         ],
-        "family": "nightmaresofatlantis",
+        "family": "tales1_baddies",
         "costume_id": 0,
         "originalIndex": 807,
         "lb1": {
@@ -55530,7 +55530,7 @@ window.allHeroes =
             "* 施法者獲得 +19% 法力產出，持續 2 回合。",
             "抵禦瘋狂：此角色對瘋狂效果具有天生抗性。"
         ],
-        "family": "nightmaresofatlantis",
+        "family": "tales1_baddies",
         "costume_id": 1,
         "originalIndex": 808,
         "lb1": {
@@ -55824,7 +55824,7 @@ window.allHeroes =
             "抵禦法力產出異常：此角色對影響法力產出的狀態異常和負面疊加具有天生抗性。不適用會阻止法力產出或偷走法力的狀態異常。",
             "生命值加成法力特別技能：每當敵人施放可直接提升生命值的特殊技能時，此角色都會獲得 5% 法力。"
         ],
-        "family": 2022,
+        "family": "hotm2022",
         "costume_id": 0,
         "originalIndex": 812,
         "lb1": {
@@ -55900,7 +55900,7 @@ window.allHeroes =
         "passives": [
             "閃避特殊傷害：此角色有 15% 的機率可躲避造成傷害的特殊技能。"
         ],
-        "family": "moth",
+        "family": "moths",
         "costume_id": 0,
         "originalIndex": 813,
         "lb1": {
@@ -56815,7 +56815,7 @@ window.allHeroes =
             "所有敵人受到 280 點劇毒傷害，每個面板上的暗黑護盾都會提高 16 點傷害，持續 4 回合，最大造成 408 點傷害。"
         ],
         "passives": [],
-        "family": "christmas",
+        "family": "winter",
         "costume_id": 0,
         "originalIndex": 826,
         "lb1": {
@@ -56979,7 +56979,7 @@ window.allHeroes =
             "* 所有盟友獲得 +21% 暴擊率，持續 2 回合。",
             "抵禦瘋狂：此角色對瘋狂效果具有天生抗性。"
         ],
-        "family": "defendersofatlantis",
+        "family": "tales1_goodies",
         "costume_id": 0,
         "originalIndex": 828,
         "lb1": {
@@ -57061,7 +57061,7 @@ window.allHeroes =
             "* 所有盟友獲得 +21% 暴擊率，持續 2 回合。",
             "抵禦瘋狂：此角色對瘋狂效果具有天生抗性。"
         ],
-        "family": "defendersofatlantis",
+        "family": "tales1_goodies",
         "costume_id": 1,
         "originalIndex": 829,
         "lb1": {
@@ -57827,7 +57827,7 @@ window.allHeroes =
             "目標與附近敵人獲得的治療減少 -90%，持續 4 回合。"
         ],
         "passives": [],
-        "family": "corellia",
+        "family": "pirate",
         "costume_id": 0,
         "originalIndex": 841,
         "lb1": {
@@ -57894,7 +57894,7 @@ window.allHeroes =
         "passives": [
             "特殊技能造成劇毒效果：此角色施放特殊技能時，所有敵人在 4 回合內受到 476 劇毒傷害。"
         ],
-        "family": "corellia",
+        "family": "pirate",
         "costume_id": 1,
         "originalIndex": 842,
         "lb1": {
@@ -58414,7 +58414,7 @@ window.allHeroes =
         "AetherPower": "惡魔抵禦",
         "color": "紫",
         "class": "術士",
-        "speed": "殺手",
+        "speed": "慢速",
         "skill": "幽魂詛咒",
         "types": [
             "攻擊所有目標",
@@ -58452,7 +58452,7 @@ window.allHeroes =
         "passives": [
             "抵禦來自狀態效果的傷害：此角色對來自狀態效果的傷害具有天生抗性。"
         ],
-        "family": "slayer",
+        "family": "slayers",
         "costume_id": 0,
         "originalIndex": 850,
         "lb1": {
@@ -58492,7 +58492,7 @@ window.allHeroes =
         "AetherPower": "傷害減少",
         "color": "紫",
         "class": "巫師",
-        "speed": "殺手",
+        "speed": "慢速",
         "skill": "頭顱的詛咒",
         "types": [
             "攻擊所有目標",
@@ -58534,7 +58534,7 @@ window.allHeroes =
             "抵禦來自狀態效果的傷害：此角色對來自狀態效果的傷害具有天生抗性。",
             "特殊技能造成流血效果：此角色施放特殊技能時，所有敵人在 4 回合內受到 544 流血傷害。"
         ],
-        "family": "slayer",
+        "family": "slayers",
         "costume_id": 1,
         "originalIndex": 851,
         "lb1": {
@@ -58683,7 +58683,7 @@ window.allHeroes =
         "passives": [
             "抵禦法力減損：此角色對法力減損具有天生抗性。"
         ],
-        "family": 2019,
+        "family": "hotm2019",
         "costume_id": 0,
         "originalIndex": 853,
         "lb1": {
@@ -58761,7 +58761,7 @@ window.allHeroes =
             "抵禦法力減損：此角色對法力減損具有天生抗性。",
             "使用特殊技能時造成淨化效果：此角色施展特殊技能時，會淨化所有盟友身上最新的狀態異常。"
         ],
-        "family": 2019,
+        "family": "hotm2019",
         "costume_id": 1,
         "originalIndex": 854,
         "lb1": {
@@ -59136,7 +59136,7 @@ window.allHeroes =
             "抵禦法力產出異常：此角色對影響法力產出的異常和負面疊加具有天生抗性。不適用會阻止法力產出或偷走法力的狀態異常。",
             "回復生命時獲得法力：此角色每次回復生命時也會獲得 5% 法力。"
         ],
-        "family": 2024,
+        "family": "hotm2024",
         "costume_id": 0,
         "originalIndex": 859,
         "lb1": {
@@ -59438,7 +59438,7 @@ window.allHeroes =
             "獲得狀態異常的法力：此角色在被施加狀態異常或負面效果疊加時，可獲得 5% 法力。",
             "抵抗攻擊減少：該角色對影響攻擊的狀態異常、疊加和枯萎效果具有天生抗性。"
         ],
-        "family": "woodlandfaun",
+        "family": "faun",
         "costume_id": 0,
         "originalIndex": 863,
         "lb1": {
@@ -59574,7 +59574,7 @@ window.allHeroes =
             "元素鏈給予所有暗黑盟友 +10% 法力，持續 4 個回合。此效果無法驅散。"
         ],
         "passives": [],
-        "family": 2017,
+        "family": "hotm2017",
         "costume_id": 0,
         "originalIndex": 865,
         "lb1": {
@@ -59639,7 +59639,7 @@ window.allHeroes =
         "passives": [
             "使用特殊技能時造成驅散效果：此角色施展特殊技能時，會驅散所有敵人身上最新的狀態效果增益。"
         ],
-        "family": 2017,
+        "family": "hotm2017",
         "costume_id": 1,
         "originalIndex": 866,
         "lb1": {
@@ -59866,7 +59866,7 @@ window.allHeroes =
             "已增加特殊技能傷害：此角色第一次施展造成傷害的特殊技能時，其戰力會額外增加 50%。",
             "抵禦致盲：此角色對影響精準度的狀態異常具有天生抗性。不適用來自盟友的狀態效果。"
         ],
-        "family": 2023,
+        "family": "hotm2023",
         "costume_id": 0,
         "originalIndex": 869,
         "lb1": {
@@ -60015,7 +60015,7 @@ window.allHeroes =
             "* 對所有敵人造成 80% 傷害。",
             "* 施法者獲得 +19% 法力產出，持續 2 回合。"
         ],
-        "family": "nightmaresofatlantis",
+        "family": "tales1_baddies",
         "costume_id": 0,
         "originalIndex": 871,
         "lb1": {
@@ -60100,7 +60100,7 @@ window.allHeroes =
             "* 施法者獲得 +19% 法力產出，持續 2 回合。",
             "抵禦瘋狂：此角色對瘋狂效果具有天生抗性。"
         ],
-        "family": "nightmaresofatlantis",
+        "family": "tales1_baddies",
         "costume_id": 1,
         "originalIndex": 872,
         "lb1": {
@@ -60172,7 +60172,7 @@ window.allHeroes =
         "passives": [
             "小兵陣亡時獲得淨化效果：這名角色擁有的小兵被擊殺時，會淨化其狀態異常。"
         ],
-        "family": "maskedgod",
+        "family": "masquerade",
         "costume_id": 0,
         "originalIndex": 873,
         "lb1": {
@@ -60467,7 +60467,7 @@ window.allHeroes =
             "抵禦法力產出受阻：此角色對阻止法力產出的狀態異常具有天生抗性。",
             "抵禦劇毒：此角色對劇毒效果具有天生抗性。"
         ],
-        "family": 2023,
+        "family": "hotm2023",
         "costume_id": 0,
         "originalIndex": 877,
         "lb1": {
@@ -60618,7 +60618,7 @@ window.allHeroes =
             "防禦角色時的被動技能：此英雄會從較強元素部隊受到較少的元素傷害。",
             "- 已受到元素傷害： -10%"
         ],
-        "family": "superelemental",
+        "family": "super_elemental",
         "costume_id": 0,
         "originalIndex": 879,
         "lb1": {
@@ -60688,7 +60688,7 @@ window.allHeroes =
             "強化抵禦負面小兵效果：此角色對來自小兵和超級小兵的傷害與負面效果具有天生抗性。",
             "完美精準度：此角色的特殊技能必定命中目標。"
         ],
-        "family": "astraldwarfs",
+        "family": "astral_dwarfs",
         "costume_id": 0,
         "originalIndex": 880,
         "lb1": {
@@ -60760,7 +60760,7 @@ window.allHeroes =
         "passives": [
             "偷取增益：此角色施放特殊技能時，有 50% 機率隨機從有增益的敵人身上偷取最新的可驅散增益。若無敵人有增益，則對所有敵人造成 70% 傷害。"
         ],
-        "family": "morlovia",
+        "family": "halloween",
         "costume_id": 0,
         "originalIndex": 881,
         "lb1": {
@@ -60835,7 +60835,7 @@ window.allHeroes =
             "目標與附近敵人獲得 -24% 防禦，持續 5 回合。"
         ],
         "passives": [],
-        "family": "morlovia",
+        "family": "halloween",
         "costume_id": 1,
         "originalIndex": 882,
         "lb1": {
@@ -60907,7 +60907,7 @@ window.allHeroes =
             "抵禦法力減損：此角色對法力減損具有天生抗性。",
             "守衛集結：每 4 回合移除所有盟友的全部枯萎效果。"
         ],
-        "family": "garrisonguard",
+        "family": "garrison",
         "costume_id": 0,
         "originalIndex": 883,
         "lb1": {
@@ -60989,7 +60989,7 @@ window.allHeroes =
             "詛咒樹苗召喚：每當敵人使用特殊技能召喚小兵時，此角色將會對該敵人召喚一隻詛咒樹苗惡魔。",
             "抵禦負面小兵效果：此角色對來自小兵的傷害與負面效果具有天生抗性。"
         ],
-        "family": 2022,
+        "family": "hotm2022",
         "costume_id": 0,
         "originalIndex": 884,
         "lb1": {
@@ -61054,7 +61054,7 @@ window.allHeroes =
             "在最後一個回合，盟友元素回到原始狀態。"
         ],
         "passives": [],
-        "family": "springvale",
+        "family": "easter",
         "costume_id": 0,
         "originalIndex": 885,
         "lb1": {
@@ -61125,7 +61125,7 @@ window.allHeroes =
             "抵禦劇毒：此角色對劇毒效果具有天生抗性。",
             "分享承受的傷害：這名角色所受傷害的 20% 將與所有其他盟友分享。"
         ],
-        "family": "astralelves",
+        "family": "astral_elves",
         "costume_id": 0,
         "originalIndex": 886,
         "lb1": {
@@ -61426,7 +61426,7 @@ window.allHeroes =
         "passives": [
             "減少異常持續時間：這個角色受到來自特殊技能的狀態效果時，有前 3 次會將持續時間減少 1 個回合。"
         ],
-        "family": "underwild",
+        "family": "abyss",
         "costume_id": 0,
         "originalIndex": 890,
         "lb1": {
@@ -61504,7 +61504,7 @@ window.allHeroes =
             "減少異常持續時間：這個角色受到來自特殊技能的狀態效果時，有前 3 次會將持續時間減少 1 個回合。",
             "使用特殊技能時獲得生命值加成：施放特殊技能時，為所有盟友提供 10% 生命值加成。"
         ],
-        "family": "underwild",
+        "family": "abyss",
         "costume_id": 1,
         "originalIndex": 891,
         "lb1": {
@@ -61580,7 +61580,7 @@ window.allHeroes =
             "抵禦瘋狂：此角色對瘋狂效果具有天生抗性。",
             "抵抗攻擊減少：該角色對影響攻擊的狀態異常、疊加和枯萎效果具有天生抗性。"
         ],
-        "family": "woodlandfaun",
+        "family": "faun",
         "costume_id": 0,
         "originalIndex": 892,
         "lb1": {
@@ -61655,7 +61655,7 @@ window.allHeroes =
             "抵禦致盲：此角色對影響精準度的狀態異常具有天生抗性。不適用來自盟友的原本狀態效果。",
             "已增加特殊技能傷害：此角色在前 2 次施展可造成傷害的特殊技能時，其戰力會額外增加 50%。"
         ],
-        "family": 2025,
+        "family": "hotm2025",
         "costume_id": 0,
         "originalIndex": 893,
         "lb1": {
@@ -61727,7 +61727,7 @@ window.allHeroes =
         "passives": [
             "抵禦飛沙傷害：此角色對飛沙傷害具有天生抗性。"
         ],
-        "family": 2020,
+        "family": "hotm2020",
         "costume_id": 0,
         "originalIndex": 894,
         "lb1": {
@@ -61784,7 +61784,7 @@ window.allHeroes =
             "為所有盟友恢復 27% 生命值。"
         ],
         "passives": [],
-        "family": null,
+        "family": "classic",
         "costume_id": 0,
         "originalIndex": 895,
         "cn_skill_info": []
@@ -61817,7 +61817,7 @@ window.allHeroes =
             "對目標造成 265% 傷害。"
         ],
         "passives": [],
-        "family": null,
+        "family": "classic",
         "costume_id": 0,
         "originalIndex": 896,
         "cn_skill_info": []
@@ -61850,7 +61850,7 @@ window.allHeroes =
             "對所有敵人造成 115% 傷害。"
         ],
         "passives": [],
-        "family": null,
+        "family": "classic",
         "costume_id": 0,
         "originalIndex": 897,
         "cn_skill_info": []
@@ -61883,7 +61883,7 @@ window.allHeroes =
             "所有盟友獲得 48% 攻擊力，持續 4 回合。"
         ],
         "passives": [],
-        "family": null,
+        "family": "classic",
         "costume_id": 0,
         "originalIndex": 898,
         "cn_skill_info": []
@@ -61916,7 +61916,7 @@ window.allHeroes =
             "所有盟友獲得 +48% 攻擊力，持續 4 回合。"
         ],
         "passives": [],
-        "family": null,
+        "family": "classic",
         "costume_id": 0,
         "originalIndex": 899,
         "cn_skill_info": []
@@ -61949,7 +61949,7 @@ window.allHeroes =
             "對目標造成 200% 傷害，並對附近敵人造成輕微傷害。"
         ],
         "passives": [],
-        "family": null,
+        "family": "classic",
         "costume_id": 0,
         "originalIndex": 900,
         "cn_skill_info": []
@@ -62250,7 +62250,7 @@ window.allHeroes =
             "* 對所有敵人造成 80% 傷害。",
             "* 施法者獲得 +19% 法力產出，持續 2 回合。"
         ],
-        "family": "nightmaresofatlantis",
+        "family": "tales1_baddies",
         "costume_id": 0,
         "originalIndex": 905,
         "lb1": {
@@ -62324,7 +62324,7 @@ window.allHeroes =
             "* 施法者獲得 +19% 法力產出，持續 2 回合。",
             "抵禦瘋狂：此角色對瘋狂效果具有天生抗性。"
         ],
-        "family": "nightmaresofatlantis",
+        "family": "tales1_baddies",
         "costume_id": 1,
         "originalIndex": 906,
         "lb1": {
@@ -62370,7 +62370,7 @@ window.allHeroes =
             "反擊",
             "傷害分攤"
         ],
-        "source": "怪獸島召喚",
+        "source": "聖約召喚",
         "Release date": "2022-12-24",
         "specialId": "squeak_of_protection",
         "passiveSkills": [
@@ -62392,7 +62392,7 @@ window.allHeroes =
             "特殊技能下的持續傷害：此角色施放特殊技能時，會給予隨機敵人獵人印記。目標在 3 回合內受到 150 點傷害。若目標已有此效果，持續時間將刷新，傷害增加 150，最多總共 1500 傷害。",
             "獵手感知：當此角色施放特殊技能時，會將其最新的可淨化狀態異常從自身轉移至目標。如果特殊技能無法鎖定敵人，則會隨機選擇一個敵人。如果此角色沒有可淨化的狀態異常，則會恢復 12% 生命。"
         ],
-        "family": "abysshunter",
+        "family": "abyss_hunter",
         "costume_id": 0,
         "originalIndex": 907,
         "lb1": {
@@ -62451,7 +62451,7 @@ window.allHeroes =
             "所有盟友獲得 +24% 法力產出，持續 4 回合。"
         ],
         "passives": [],
-        "family": "avalon",
+        "family": "knight",
         "costume_id": 0,
         "originalIndex": 908,
         "lb1": {
@@ -62593,7 +62593,7 @@ window.allHeroes =
             "目標與附近敵人受到的所有傷害提高 +24%，且面板上每有一個烈火護盾則額外增加 +2%，持續 4 回合，最高可達 +40% 所受傷害。"
         ],
         "passives": [],
-        "family": "christmas",
+        "family": "winter",
         "costume_id": 0,
         "originalIndex": 910,
         "lb1": {
@@ -63646,7 +63646,7 @@ window.allHeroes =
             "* 這些效果每回合可發動一次。",
             "抵禦流血傷害：此角色對流血效果具有天生抗性。"
         ],
-        "family": "outlaws",
+        "family": "outlaw",
         "costume_id": 0,
         "originalIndex": 926,
         "lb1": {
@@ -63706,7 +63706,7 @@ window.allHeroes =
             "施法者獲得 +45% 攻擊力，並在每次被擊中時再增加 20% 攻擊力，持續 5 回合。"
         ],
         "passives": [],
-        "family": "sakura",
+        "family": "japanese",
         "costume_id": 0,
         "originalIndex": 927,
         "lb1": {
@@ -64093,7 +64093,7 @@ window.allHeroes =
         "passives": [
             "閃避特殊傷害：此角色有 15% 的機率可躲避造成傷害的特殊技能。"
         ],
-        "family": "moth",
+        "family": "moths",
         "costume_id": 0,
         "originalIndex": 933,
         "lb1": {
@@ -64161,7 +64161,7 @@ window.allHeroes =
             "召喚一個精靈小兵，其可從施法者繼承 10% 生命與 10% 攻擊。"
         ],
         "passives": [],
-        "family": "christmas",
+        "family": "winter",
         "costume_id": 0,
         "originalIndex": 934,
         "lb1": {
@@ -64230,7 +64230,7 @@ window.allHeroes =
             "對任意盟友召喚小兵時，此角色會獲得 5% 生命和 5% 法力。此效果每回合僅可啟動一次。",
             "對任意敵人召喚惡魔時，此角色對所有敵人造成 85% 傷害。此效果每回合僅可啟動一次。"
         ],
-        "family": "pets",
+        "family": "mighty_pet",
         "costume_id": 0,
         "originalIndex": 935,
         "lb1": {
@@ -64349,7 +64349,7 @@ window.allHeroes =
             "施法者獲得 -20% 防禦，持續 3 回合。此效果無法淨化。"
         ],
         "passives": [],
-        "family": "springvale",
+        "family": "easter",
         "costume_id": 0,
         "originalIndex": 937,
         "lb1": {
@@ -64416,7 +64416,7 @@ window.allHeroes =
             "抵禦劇毒：此角色對劇毒效果具有天生抗性。",
             "分享承受的傷害：這名角色所受傷害的 20% 將與所有其他盟友分享。"
         ],
-        "family": "astralelves",
+        "family": "astral_elves",
         "costume_id": 0,
         "originalIndex": 938,
         "lb1": {
@@ -64541,7 +64541,7 @@ window.allHeroes =
         "passives": [
             "用法力開始戰鬥：戰鬥開始時，這個角色會獲得 20% 法力。"
         ],
-        "family": "underwild",
+        "family": "abyss",
         "costume_id": 0,
         "originalIndex": 940,
         "lb1": {
@@ -64599,7 +64599,7 @@ window.allHeroes =
         "passives": [
             "用法力開始戰鬥：戰鬥開始時，這個角色會獲得 20% 法力。"
         ],
-        "family": "underwild",
+        "family": "abyss",
         "costume_id": 1,
         "originalIndex": 941,
         "lb1": {
@@ -64764,7 +64764,7 @@ window.allHeroes =
         "AetherPower": "惡魔抵禦",
         "color": "紅",
         "class": "巫師",
-        "speed": "殺手",
+        "speed": "慢速",
         "skill": "狡猾巫師",
         "types": [
             "攻擊所有目標",
@@ -64802,7 +64802,7 @@ window.allHeroes =
         "passives": [
             "抵禦來自狀態效果的傷害：此角色對來自狀態效果的傷害具有天生抗性。"
         ],
-        "family": "slayer",
+        "family": "slayers",
         "costume_id": 0,
         "originalIndex": 944,
         "lb1": {
@@ -65184,7 +65184,7 @@ window.allHeroes =
             "目標收到一個禮物炸彈。禮物炸彈會在 3 個回合後爆炸，並對目標和附近的敵人造成 374 傷害。目標被擊敗時，禮物炸彈也會爆炸。"
         ],
         "passives": [],
-        "family": "christmas",
+        "family": "winter",
         "costume_id": 0,
         "originalIndex": 950,
         "lb1": {
@@ -65215,7 +65215,7 @@ window.allHeroes =
         "AetherPower": "攻擊提升",
         "color": "紅",
         "class": "戰士",
-        "speed": "殺手",
+        "speed": "慢速",
         "skill": "惡意重燃",
         "types": [
             "攻擊3個目標",
@@ -65251,7 +65251,7 @@ window.allHeroes =
         "passives": [
             "抵禦來自狀態效果的傷害：此角色對來自狀態效果的傷害具有天生抗性。"
         ],
-        "family": "slayer",
+        "family": "slayers",
         "costume_id": 0,
         "originalIndex": 951,
         "lb1": {
@@ -65645,7 +65645,7 @@ window.allHeroes =
             "基礎防禦力最高的敵人獲得 -44% 防禦，持續 4 回合。"
         ],
         "passives": [],
-        "family": "starfall",
+        "family": "circus",
         "costume_id": 0,
         "originalIndex": 957,
         "lb1": {
@@ -66153,7 +66153,7 @@ window.allHeroes =
             "目標與附近敵人獲得對烈火系 -54% 的防禦，持續 4 回合。"
         ],
         "passives": [],
-        "family": "guardiansteltoc",
+        "family": "guardian",
         "costume_id": 0,
         "originalIndex": 965,
         "lb1": {
@@ -66956,7 +66956,7 @@ window.allHeroes =
         "passives": [
             "增加增益持續時間：此英雄從特殊技能獲得的前 3 個增益效果的持續時間增加 1 回合。"
         ],
-        "family": "underwild",
+        "family": "abyss",
         "costume_id": 0,
         "originalIndex": 977,
         "lb1": {
@@ -67016,7 +67016,7 @@ window.allHeroes =
         "passives": [
             "增加增益持續時間：此英雄從特殊技能獲得的前 3 個增益效果的持續時間增加 1 回合。"
         ],
-        "family": "underwild",
+        "family": "abyss",
         "costume_id": 1,
         "originalIndex": 978,
         "lb1": {
@@ -67057,7 +67057,7 @@ window.allHeroes =
             "持續傷害",
             "召喚惡魔"
         ],
-        "source": "怪獸島召喚",
+        "source": "聖約召喚",
         "Release date": "2022-08-25",
         "specialId": "claws_of_the_hunter",
         "passiveSkills": [
@@ -67079,7 +67079,7 @@ window.allHeroes =
             "此角色施放特殊技能時，會給予隨機敵人獵人印記。目標在 3 回合內受到 150 點傷害。若目標已有此效果，持續時間將刷新，傷害增加 150，最多總共 1500 傷害。",
             "特殊技能傷害減少：此角色有 10% 機率將特殊技能造成的直接傷害降到 1。"
         ],
-        "family": "plainshunter",
+        "family": "plains_hunter",
         "costume_id": 0,
         "originalIndex": 979,
         "lb1": {
@@ -67151,7 +67151,7 @@ window.allHeroes =
             "* 角色擁有的飛行動量越少，效果越弱。",
             "削弱超級小兵：敵方超級小兵的生命值降低 -75%。"
         ],
-        "family": "magiccarpet",
+        "family": "magic_carpet",
         "costume_id": 0,
         "originalIndex": 980,
         "lb1": {
@@ -67227,7 +67227,7 @@ window.allHeroes =
             "防禦角色時的被動技能：此英雄會從較強元素部隊受到較少的元素傷害。",
             "- 已受到元素傷害： -10%"
         ],
-        "family": "superelemental",
+        "family": "super_elemental",
         "costume_id": 0,
         "originalIndex": 981,
         "lb1": {
@@ -67373,7 +67373,7 @@ window.allHeroes =
         "passives": [
             "減少異常持續時間：這個角色受到來自特殊技能的狀態效果時，有前 3 次會將持續時間減少 1 個回合。"
         ],
-        "family": "underwild",
+        "family": "abyss",
         "costume_id": 0,
         "originalIndex": 983,
         "lb1": {
@@ -67439,7 +67439,7 @@ window.allHeroes =
         "passives": [
             "減少異常持續時間：這個角色受到來自特殊技能的狀態效果時，有前 3 次會將持續時間減少 1 個回合。"
         ],
-        "family": "underwild",
+        "family": "abyss",
         "costume_id": 1,
         "originalIndex": 984,
         "lb1": {
@@ -67894,7 +67894,7 @@ window.allHeroes =
             "施法者和附近盟友獲得 +48% 攻擊力，持續 4 回合。"
         ],
         "passives": [],
-        "family": "avalon",
+        "family": "knight",
         "costume_id": 0,
         "originalIndex": 991,
         "lb1": {
@@ -67957,7 +67957,7 @@ window.allHeroes =
             "施法者每次反擊可恢復適量法力，持續 5 回合。同一回合中，效果經連續啟動會減弱。"
         ],
         "passives": [],
-        "family": "sakura",
+        "family": "japanese",
         "costume_id": 0,
         "originalIndex": 992,
         "lb1": {
@@ -68021,7 +68021,7 @@ window.allHeroes =
             "施法者每次反擊可恢復適量法力，持續 5 回合。同一回合中，效果經連續啟動會減弱。"
         ],
         "passives": [],
-        "family": "sakura",
+        "family": "japanese",
         "costume_id": 1,
         "originalIndex": 993,
         "lb1": {
@@ -68840,7 +68840,7 @@ window.allHeroes =
         "passives": [
             "偷取增益：此角色施放特殊技能時，有 50% 機率隨機從有增益的敵人身上偷取最新的可驅散增益。若無敵人有增益，則對所有敵人造成 70% 傷害。"
         ],
-        "family": "morlovia",
+        "family": "halloween",
         "costume_id": 0,
         "originalIndex": 1005,
         "lb1": {
@@ -68914,7 +68914,7 @@ window.allHeroes =
         "passives": [
             "偷取增益：此角色施放特殊技能時，有 50% 機率隨機從有增益的敵人身上偷取最新的可驅散增益。若無敵人有增益，則對所有敵人造成 70% 傷害。"
         ],
-        "family": "morlovia",
+        "family": "halloween",
         "costume_id": 1,
         "originalIndex": 1006,
         "lb1": {
@@ -68983,7 +68983,7 @@ window.allHeroes =
         "passives": [
             "偷取增益：此角色施放特殊技能時，有 50% 機率隨機從有增益的敵人身上偷取最新的可驅散增益。若無敵人有增益，則對所有敵人造成 70% 傷害。"
         ],
-        "family": "morlovia",
+        "family": "halloween",
         "costume_id": 0,
         "originalIndex": 1007,
         "lb1": {
@@ -69122,7 +69122,7 @@ window.allHeroes =
         "passives": [
             "抵禦法力產出異常：此角色對影響法力產出的狀態異常和負面疊加具有天生抗性。不適用會阻止法力產出或偷走法力的狀態異常。"
         ],
-        "family": 2019,
+        "family": "hotm2019",
         "costume_id": 0,
         "originalIndex": 1009,
         "lb1": {
@@ -69183,7 +69183,7 @@ window.allHeroes =
         "passives": [
             "小兵陣亡時獲得淨化效果：這名角色擁有的小兵被擊殺時，會淨化其狀態異常。"
         ],
-        "family": "maskedgod",
+        "family": "masquerade",
         "costume_id": 0,
         "originalIndex": 1010,
         "lb1": {
@@ -69257,7 +69257,7 @@ window.allHeroes =
             "抵禦瘋狂：此角色對瘋狂效果具有天生抗性。",
             "抵抗攻擊減少：該角色對影響攻擊的狀態異常、疊加和枯萎效果具有天生抗性。"
         ],
-        "family": "woodlandfaun",
+        "family": "faun",
         "costume_id": 0,
         "originalIndex": 1011,
         "lb1": {
@@ -69325,7 +69325,7 @@ window.allHeroes =
             "元素鏈給予所有烈火盟友 +15% 攻擊力與 +15% 防禦，持續 6 回合。此效果無法驅散。"
         ],
         "passives": [],
-        "family": 2017,
+        "family": "hotm2017",
         "costume_id": 0,
         "originalIndex": 1012,
         "lb1": {
@@ -69396,7 +69396,7 @@ window.allHeroes =
         "passives": [
             "使用特殊技能時造成淨化效果：此角色施展特殊技能時，會淨化所有盟友身上最新的狀態異常。"
         ],
-        "family": 2017,
+        "family": "hotm2017",
         "costume_id": 1,
         "originalIndex": 1013,
         "lb1": {
@@ -69561,7 +69561,7 @@ window.allHeroes =
             "防禦角色時的被動技能：此英雄會從較強元素部隊受到較少的元素傷害。",
             "- 已受到元素傷害： -10%"
         ],
-        "family": "superelemental",
+        "family": "super_elemental",
         "costume_id": 0,
         "originalIndex": 1015,
         "lb1": {
@@ -70256,7 +70256,7 @@ window.allHeroes =
             "寵物之怒：對任意敵人召喚惡魔時，此角色對所有敵人造成 85% 傷害。此效果每回合僅可啟動一次。",
             "密友之友：對任意盟友召喚小兵時，此角色會獲得 5% 生命和 5% 法力。此效果每回合僅可啟動一次。"
         ],
-        "family": "pets",
+        "family": "mighty_pet",
         "costume_id": 0,
         "originalIndex": 1025,
         "lb1": {
@@ -70560,7 +70560,7 @@ window.allHeroes =
         "passives": [
             "抵禦來自狀態效果的傷害：此角色對來自狀態效果的傷害具有天生抗性。"
         ],
-        "family": "corellia",
+        "family": "pirate",
         "costume_id": 0,
         "originalIndex": 1029,
         "lb1": {
@@ -70626,7 +70626,7 @@ window.allHeroes =
             "所有盟友獲得 +45% 攻擊，並在每次被擊中後增加 20%，持續 3 回合。"
         ],
         "passives": [],
-        "family": "avalon",
+        "family": "knight",
         "costume_id": 0,
         "originalIndex": 1030,
         "lb1": {
@@ -70686,7 +70686,7 @@ window.allHeroes =
             "所有盟友獲得 +54% 攻擊力，持續 4 回合。"
         ],
         "passives": [],
-        "family": "avalon",
+        "family": "knight",
         "costume_id": 1,
         "originalIndex": 1031,
         "lb1": {
@@ -70801,7 +70801,7 @@ window.allHeroes =
             "額外傷害",
             "持續傷害"
         ],
-        "source": "怪獸島召喚",
+        "source": "聖約召喚",
         "Release date": "2023-03-03",
         "specialId": "fury_of_the_silverback",
         "passiveSkills": [
@@ -70823,7 +70823,7 @@ window.allHeroes =
             "獵人的威猛：此角色施放特殊技能時，可獲得 +20% 攻擊，持續 3 回合。除了可變更攻擊的效果，可另外啟動此效果。",
             "特殊技能下的持續傷害：此角色施放特殊技能時，會給予隨機敵人獵人印記。目標在 3 回合內受到 150 點傷害。若目標已有此效果，持續時間將刷新，傷害增加 150，最多總共 1500 傷害。"
         ],
-        "family": "junglehunter",
+        "family": "jungle_hunter",
         "costume_id": 0,
         "originalIndex": 1033,
         "lb1": {
@@ -70967,7 +70967,7 @@ window.allHeroes =
             "敵人的法力越高，受到的傷害越大，最高可達 335%。"
         ],
         "passives": [],
-        "family": "corellia",
+        "family": "pirate",
         "costume_id": 0,
         "originalIndex": 1035,
         "lb1": {
@@ -71029,7 +71029,7 @@ window.allHeroes =
         "passives": [
             "此角色在戰鬥開始時獲得 20% 法力。"
         ],
-        "family": "underwild",
+        "family": "abyss",
         "costume_id": 0,
         "originalIndex": 1036,
         "lb1": {
@@ -71096,7 +71096,7 @@ window.allHeroes =
             "用法力開始戰鬥：戰鬥開始時，這個角色會獲得 20% 法力。",
             "對加成生命值造成額外傷害：施放特殊技能後，所有盟友的普通攻擊和特殊技能對擁有加成生命值的目標造成 +70% 傷害，持續 4 回合。"
         ],
-        "family": "underwild",
+        "family": "abyss",
         "costume_id": 1,
         "originalIndex": 1037,
         "lb1": {
@@ -71231,7 +71231,7 @@ window.allHeroes =
         "passives": [
             "小兵陣亡時獲得淨化效果：這名角色擁有的小兵被擊殺時，會淨化其狀態異常。"
         ],
-        "family": "maskedgod",
+        "family": "masquerade",
         "costume_id": 0,
         "originalIndex": 1039,
         "lb1": {
@@ -71307,7 +71307,7 @@ window.allHeroes =
             "強化抵禦負面小兵效果：此角色對來自小兵和超級小兵的傷害與負面效果具有天生抗性。",
             "完美精準度：此角色的特殊技能必定命中目標。"
         ],
-        "family": "astraldwarfs",
+        "family": "astral_dwarfs",
         "costume_id": 0,
         "originalIndex": 1040,
         "lb1": {
@@ -71529,7 +71529,7 @@ window.allHeroes =
             "寵物之怒：對任意敵人召喚惡魔時，此角色對所有敵人造成 85% 傷害。此效果每回合僅可啟動一次。",
             "密友之友：對任意盟友召喚小兵時，此角色會獲得 5% 生命和 5% 法力。此效果每回合僅可啟動一次。"
         ],
-        "family": "pets",
+        "family": "mighty_pet",
         "costume_id": 0,
         "originalIndex": 1043,
         "lb1": {
@@ -71602,7 +71602,7 @@ window.allHeroes =
         "passives": [
             "閃避特殊傷害：此角色有 15% 的機率可躲避造成傷害的特殊技能。"
         ],
-        "family": "moth",
+        "family": "moths",
         "costume_id": 0,
         "originalIndex": 1044,
         "lb1": {
@@ -71675,7 +71675,7 @@ window.allHeroes =
         "passives": [
             "抵禦來自狀態效果的傷害：此角色對來自狀態效果的傷害具有天生抗性。"
         ],
-        "family": "grimforest",
+        "family": "fable",
         "costume_id": 0,
         "originalIndex": 1045,
         "lb1": {
@@ -71724,7 +71724,7 @@ window.allHeroes =
             "持續傷害",
             "召喚惡魔"
         ],
-        "source": "怪獸島召喚",
+        "source": "聖約召喚",
         "Release date": "2022-08-25",
         "specialId": "bone_ritual",
         "passiveSkills": [
@@ -71747,7 +71747,7 @@ window.allHeroes =
             "特殊技能傷害減免：該角色有 10% 的機率將受到的特殊技能直接傷害降至 1 點。",
             "特殊技能下的持續傷害：此角色施放特殊技能時，會給予隨機敵人獵人印記。目標在 3 回合內受到 150 點傷害。若目標已有此效果，持續時間將刷新，傷害增加 150，最多總共 1500 傷害。"
         ],
-        "family": "plainshunter",
+        "family": "plains_hunter",
         "costume_id": 0,
         "originalIndex": 1046,
         "lb1": {
@@ -71814,7 +71814,7 @@ window.allHeroes =
             "所有敵人會獲得一個神秘藥水。在 3 個回合後，神秘藥水會爆炸並對目標造成 450 點傷害。爆炸後，目標無法獲得法力，持續 3 個回合。"
         ],
         "passives": [],
-        "family": "christmas",
+        "family": "winter",
         "costume_id": 0,
         "originalIndex": 1047,
         "lb1": {
@@ -72095,7 +72095,7 @@ window.allHeroes =
             "抵禦法力減損：此角色對法力減損具有天生抗性。",
             "守衛集結：每 4 回合移除所有盟友的全部枯萎效果。"
         ],
-        "family": "garrisonguard",
+        "family": "garrison",
         "costume_id": 0,
         "originalIndex": 1051,
         "lb1": {
@@ -72176,7 +72176,7 @@ window.allHeroes =
             "* 對所有敵人造成 80% 傷害。",
             "* 施法者獲得 +19% 法力產出，持續 2 回合。"
         ],
-        "family": "nightmaresofatlantis",
+        "family": "tales1_baddies",
         "costume_id": 0,
         "originalIndex": 1052,
         "lb1": {
@@ -72256,7 +72256,7 @@ window.allHeroes =
             "* 施法者獲得 +19% 法力產出，持續 2 回合。",
             "抵禦瘋狂：此角色對瘋狂效果具有天生抗性。"
         ],
-        "family": "nightmaresofatlantis",
+        "family": "tales1_baddies",
         "costume_id": 1,
         "originalIndex": 1053,
         "lb1": {
@@ -72327,7 +72327,7 @@ window.allHeroes =
             "防禦角色時的被動技能：此英雄會從較強元素部隊受到較少的元素傷害。",
             "- 已受到元素傷害： -10%"
         ],
-        "family": "superelemental",
+        "family": "super_elemental",
         "costume_id": 0,
         "originalIndex": 1054,
         "lb1": {
@@ -72464,7 +72464,7 @@ window.allHeroes =
             "狙擊手",
             "狀態效果格擋"
         ],
-        "source": "怪獸島召喚",
+        "source": "聖約召喚",
         "Release date": "2022-10-15",
         "specialId": "flail_swing",
         "passiveSkills": [
@@ -72487,7 +72487,7 @@ window.allHeroes =
             "特殊技能傷害減免：該角色有 10% 的機率將受到的特殊技能直接傷害降至 1 點。",
             "特殊技能下的持續傷害：此角色施放特殊技能時，會給予隨機敵人獵人印記。目標在 3 回合內受到 150 點傷害。若目標已有此效果，持續時間將刷新，傷害增加 150，最多總共 1500 傷害。"
         ],
-        "family": "plainshunter",
+        "family": "plains_hunter",
         "costume_id": 0,
         "originalIndex": 1056,
         "lb1": {
@@ -73013,7 +73013,7 @@ window.allHeroes =
             "抵禦燃燒：此角色對燃燒效果具有天生抗性。",
             "法力燃燒：每當敵人受到燃燒傷害時，這名角色會獲得 5% 法力。"
         ],
-        "family": 2025,
+        "family": "hotm2025",
         "costume_id": 0,
         "originalIndex": 1064,
         "lb1": {
@@ -73087,7 +73087,7 @@ window.allHeroes =
         "passives": [
             "增加增益持續時間：此英雄從特殊技能獲得的前 3 個增益效果的持續時間增加 1 回合。"
         ],
-        "family": "underwild",
+        "family": "abyss",
         "costume_id": 0,
         "originalIndex": 1065,
         "lb1": {
@@ -73166,7 +73166,7 @@ window.allHeroes =
             "增加增益持續時間：此英雄從特殊技能獲得的前 3 個增益效果的持續時間增加 1 回合。",
             "對加成生命值造成額外傷害：施放特殊技能後，所有盟友的普通攻擊和特殊技能對擁有加成生命值的目標造成 +70% 傷害，持續 4 回合。"
         ],
-        "family": "underwild",
+        "family": "abyss",
         "costume_id": 1,
         "originalIndex": 1066,
         "lb1": {
@@ -73315,7 +73315,7 @@ window.allHeroes =
             "* 所有盟友對新的狀態異常免疫，持續 3 回合。"
         ],
         "passives": [],
-        "family": "starfall",
+        "family": "circus",
         "costume_id": 0,
         "originalIndex": 1068,
         "lb1": {
@@ -73399,7 +73399,7 @@ window.allHeroes =
         "passives": [
             "淨化時複製異常：此英雄的一個狀態異常受到淨化時，將隨機對一名敵人施加受淨化異常的新複製體。"
         ],
-        "family": "starfall",
+        "family": "circus",
         "costume_id": 1,
         "originalIndex": 1069,
         "lb1": {
@@ -73804,7 +73804,7 @@ window.allHeroes =
             "抵禦法力減損：此角色對法力減損具有天生抗性。",
             "守衛集結：每 4 回合移除所有盟友的全部枯萎效果。"
         ],
-        "family": "garrisonguard",
+        "family": "garrison",
         "costume_id": 0,
         "originalIndex": 1074,
         "lb1": {
@@ -74293,7 +74293,7 @@ window.allHeroes =
             "* 對所有敵人造成 80% 傷害。",
             "* 施法者獲得 +19% 法力產出，持續 2 回合。"
         ],
-        "family": "nightmaresofatlantis",
+        "family": "tales1_baddies",
         "costume_id": 0,
         "originalIndex": 1081,
         "lb1": {
@@ -74380,7 +74380,7 @@ window.allHeroes =
             "* 施法者獲得 +19% 法力產出，持續 2 回合。",
             "抵禦瘋狂：此角色對瘋狂效果具有天生抗性。"
         ],
-        "family": "nightmaresofatlantis",
+        "family": "tales1_baddies",
         "costume_id": 1,
         "originalIndex": 1082,
         "lb1": {
@@ -74526,7 +74526,7 @@ window.allHeroes =
             "元素鏈給予所有烈火盟友 +5% 攻擊力與 +5% 防禦，持續 6 回合。此效果無法淨化。"
         ],
         "passives": [],
-        "family": 2018,
+        "family": "hotm2018",
         "costume_id": 0,
         "originalIndex": 1084,
         "lb1": {
@@ -74600,7 +74600,7 @@ window.allHeroes =
         "passives": [
             "使用特殊技能時造成驅散效果：此角色施展特殊技能時，會驅散所有敵人身上最新的狀態效果增益。"
         ],
-        "family": 2018,
+        "family": "hotm2018",
         "costume_id": 1,
         "originalIndex": 1085,
         "lb1": {
@@ -74671,7 +74671,7 @@ window.allHeroes =
         "passives": [
             "抵禦治療異常：此角色對影響治療的異常具有天生抗性。"
         ],
-        "family": 2019,
+        "family": "hotm2019",
         "costume_id": 0,
         "originalIndex": 1086,
         "lb1": {
@@ -74733,7 +74733,7 @@ window.allHeroes =
             "淨化所有盟友的狀態異常。"
         ],
         "passives": [],
-        "family": "guardiansteltoc",
+        "family": "guardian",
         "costume_id": 0,
         "originalIndex": 1087,
         "lb1": {
@@ -74802,7 +74802,7 @@ window.allHeroes =
             "驅散所有敵人的增益。"
         ],
         "passives": [],
-        "family": "guardiansteltoc",
+        "family": "guardian",
         "costume_id": 1,
         "originalIndex": 1088,
         "lb1": {
@@ -74945,7 +74945,7 @@ window.allHeroes =
             "抵禦劇毒：此角色對劇毒效果具有天生抗性。",
             "分享承受的傷害：這名角色所受傷害的 20% 將與所有其他盟友分享。"
         ],
-        "family": "astralelves",
+        "family": "astral_elves",
         "costume_id": 0,
         "originalIndex": 1090,
         "lb1": {
@@ -75388,7 +75388,7 @@ window.allHeroes =
             "抵禦法力減損：此角色對法力減損具有天生抗性。",
             "守衛集結：每 4 回合移除所有盟友的全部枯萎效果。"
         ],
-        "family": "garrisonguard",
+        "family": "garrison",
         "costume_id": 0,
         "originalIndex": 1096,
         "lb1": {
@@ -75466,7 +75466,7 @@ window.allHeroes =
             "防禦角色時的被動技能：此英雄會從較強元素部隊受到較少的元素傷害。",
             "- 已受到元素傷害： -10%"
         ],
-        "family": "superelemental",
+        "family": "super_elemental",
         "costume_id": 0,
         "originalIndex": 1097,
         "lb1": {
@@ -75546,7 +75546,7 @@ window.allHeroes =
             "防禦角色時的被動技能：此英雄會從較強元素部隊受到較少的元素傷害。",
             "- 已受到元素傷害： -25%"
         ],
-        "family": "superelemental",
+        "family": "super_elemental",
         "costume_id": 1,
         "originalIndex": 1098,
         "lb1": {
@@ -75764,7 +75764,7 @@ window.allHeroes =
             "抵禦法力減損：此角色對法力減損具有天生抗性。",
             "守衛集結：每 4 回合移除所有盟友的全部枯萎效果。"
         ],
-        "family": "garrisonguard",
+        "family": "garrison",
         "costume_id": 0,
         "originalIndex": 1101,
         "lb1": {
@@ -75837,7 +75837,7 @@ window.allHeroes =
             "抵禦瘋狂：此角色對瘋狂效果具有天生抗性。",
             "抵禦攻擊異常：此角色對影響攻擊的狀態異常具有天生抗性。"
         ],
-        "family": "woodlandfaun",
+        "family": "faun",
         "costume_id": 0,
         "originalIndex": 1102,
         "lb1": {
@@ -75967,7 +75967,7 @@ window.allHeroes =
         "passives": [
             "抵禦生命偷取異常：此英雄對偷取生命的狀態異常具有天生抗性。"
         ],
-        "family": 2020,
+        "family": "hotm2020",
         "costume_id": 0,
         "originalIndex": 1104,
         "lb1": {
@@ -76523,7 +76523,7 @@ window.allHeroes =
         "passives": [
             "用法力開始戰鬥：戰鬥開始時，這個角色會獲得 20% 法力。"
         ],
-        "family": "underwild",
+        "family": "abyss",
         "costume_id": 0,
         "originalIndex": 1112,
         "lb1": {
@@ -76591,7 +76591,7 @@ window.allHeroes =
             "用法力開始戰鬥：戰鬥開始時，這個角色會獲得 20% 法力。",
             "對加成生命值造成額外傷害：施放特殊技能後，所有盟友的普通攻擊和特殊技能對擁有加成生命值的目標造成 +70% 傷害，持續 4 回合。"
         ],
-        "family": "underwild",
+        "family": "abyss",
         "costume_id": 1,
         "originalIndex": 1113,
         "lb1": {
@@ -76792,7 +76792,7 @@ window.allHeroes =
             "* 所有盟友獲得 +21% 暴擊率，持續 2 回合。",
             "抵禦瘋狂：此角色對瘋狂效果具有天生抗性。"
         ],
-        "family": "defendersofatlantis",
+        "family": "tales1_goodies",
         "costume_id": 0,
         "originalIndex": 1116,
         "lb1": {
@@ -76871,7 +76871,7 @@ window.allHeroes =
             "* 所有盟友獲得 +21% 暴擊率，持續 2 回合。",
             "抵禦瘋狂：此角色對瘋狂效果具有天生抗性。"
         ],
-        "family": "defendersofatlantis",
+        "family": "tales1_goodies",
         "costume_id": 1,
         "originalIndex": 1117,
         "lb1": {
@@ -77008,7 +77008,7 @@ window.allHeroes =
             "* 這些效果每回合可發動一次。",
             "抵禦流血傷害：此角色對流血效果具有天生抗性。"
         ],
-        "family": "outlaws",
+        "family": "outlaw",
         "costume_id": 0,
         "originalIndex": 1119,
         "lb1": {
@@ -77320,7 +77320,7 @@ window.allHeroes =
             "抵禦增益免疫：此角色對於新增益免疫的狀態異常具有天生抗性。",
             "此角色獲得增益或正面叠加時會恢復 5% 的生命值。"
         ],
-        "family": 2025,
+        "family": "hotm2025",
         "costume_id": 0,
         "originalIndex": 1123,
         "lb1": {
@@ -77717,7 +77717,7 @@ window.allHeroes =
             "所有盟友將全部狀態效果和 115% 傷害反射給進攻者，並抵擋其它來自敵人冰雪特殊技能的負面效果，持續 4 回合。同隊角色、小兵和惡魔施放的狀態效果無法反彈。"
         ],
         "passives": [],
-        "family": "sakura",
+        "family": "japanese",
         "costume_id": 0,
         "originalIndex": 1129,
         "lb1": {
@@ -77786,7 +77786,7 @@ window.allHeroes =
             "所有盟友將全部狀態效果和 115% 傷害反射給進攻者，並抵擋其它來自敵人冰雪特殊技能的負面效果，持續 4 回合。同隊角色、小兵和惡魔施放的狀態效果無法反彈。"
         ],
         "passives": [],
-        "family": "sakura",
+        "family": "japanese",
         "costume_id": 1,
         "originalIndex": 1130,
         "lb1": {
@@ -78039,7 +78039,7 @@ window.allHeroes =
             "* 角色擁有的飛行動量越少，效果越弱。",
             "削弱超級小兵：敵方超級小兵的生命值降低 -75%。"
         ],
-        "family": "magiccarpet",
+        "family": "magic_carpet",
         "costume_id": 0,
         "originalIndex": 1133,
         "lb1": {
@@ -78113,7 +78113,7 @@ window.allHeroes =
             "元素鏈給予所有烈火盟友 +10% 法力，持續 4 個回合。此效果無法驅散。"
         ],
         "passives": [],
-        "family": 2018,
+        "family": "hotm2018",
         "costume_id": 0,
         "originalIndex": 1134,
         "lb1": {
@@ -78188,7 +78188,7 @@ window.allHeroes =
         "passives": [
             "使用特殊技能時造成驅散效果：此角色施展特殊技能時，會驅散所有敵人身上最新的狀態效果增益。"
         ],
-        "family": 2018,
+        "family": "hotm2018",
         "costume_id": 1,
         "originalIndex": 1135,
         "lb1": {
@@ -78266,7 +78266,7 @@ window.allHeroes =
             "無視嘲諷：此角色的特殊技能不受嘲諷影響。",
             "抵禦特殊技能封鎖：此角色對封鎖特殊技能的狀態異常具有天生抗性。"
         ],
-        "family": 2023,
+        "family": "hotm2023",
         "costume_id": 0,
         "originalIndex": 1136,
         "lb1": {
@@ -78408,7 +78408,7 @@ window.allHeroes =
             "防禦角色時的被動技能：此英雄會從較強元素部隊受到較少的元素傷害。",
             "- 已受到元素傷害： -10%"
         ],
-        "family": "superelemental",
+        "family": "super_elemental",
         "costume_id": 0,
         "originalIndex": 1138,
         "lb1": {
@@ -78560,7 +78560,7 @@ window.allHeroes =
         "passives": [
             "麻雀召喚：敵人以特殊技能召喚任何小兵時，為自己召喚麻雀小兵。"
         ],
-        "family": 2020,
+        "family": "hotm2020",
         "costume_id": 0,
         "originalIndex": 1140,
         "lb1": {
@@ -78759,7 +78759,7 @@ window.allHeroes =
         "passives": [
             "增加增益持續時間：此英雄從特殊技能獲得的前 3 個增益效果的持續時間增加 1 回合。"
         ],
-        "family": "underwild",
+        "family": "abyss",
         "costume_id": 0,
         "originalIndex": 1143,
         "lb1": {
@@ -78834,7 +78834,7 @@ window.allHeroes =
             "增加增益持續時間：此英雄從特殊技能獲得的前 3 個增益效果的持續時間增加 1 回合。",
             "對加成生命值造成額外傷害：施放特殊技能後，所有盟友的普通攻擊和特殊技能對擁有加成生命值的目標造成 +70% 傷害，持續 4 回合。"
         ],
-        "family": "underwild",
+        "family": "abyss",
         "costume_id": 1,
         "originalIndex": 1144,
         "lb1": {
@@ -78961,7 +78961,7 @@ window.allHeroes =
             "治療削減",
             "凈化"
         ],
-        "source": "怪獸島召喚",
+        "source": "聖約召喚",
         "Release date": "2022-12-24",
         "specialId": "dauntless_bladestorm",
         "passiveSkills": [
@@ -78983,7 +78983,7 @@ window.allHeroes =
             "獵手感知：此角色施放特殊技能時，有 100% 機率將其身上最新的狀態異常轉移到目標身上。若特殊技能無法鎖定敵人，則隨機選擇一個敵人。若此角色無狀態異常，則恢復 12% 生命值。",
             "特殊技能下的持續傷害：此角色施放特殊技能時，會給予隨機敵人獵人印記。目標在 3 回合內受到 150 點傷害。若目標已有此效果，持續時間將刷新，傷害增加 150，最多總共 1500 傷害。"
         ],
-        "family": "abysshunter",
+        "family": "abyss_hunter",
         "costume_id": 0,
         "originalIndex": 1146,
         "lb1": {
@@ -79050,7 +79050,7 @@ window.allHeroes =
             "召喚一個精靈小兵，其可從施法者繼承 10% 生命與 10% 攻擊。"
         ],
         "passives": [],
-        "family": "christmas",
+        "family": "winter",
         "costume_id": 0,
         "originalIndex": 1147,
         "lb1": {
@@ -79279,7 +79279,7 @@ window.allHeroes =
             "強化抵禦負面小兵效果：此角色對來自小兵和超級小兵的傷害與負面效果具有天生抗性。",
             "完美精準度：此角色的特殊技能必定命中目標。"
         ],
-        "family": "astraldwarfs",
+        "family": "astral_dwarfs",
         "costume_id": 0,
         "originalIndex": 1150,
         "lb1": {
@@ -79348,7 +79348,7 @@ window.allHeroes =
             "所有盟友獲得 +30% 攻擊力，持續 4 回合。"
         ],
         "passives": [],
-        "family": "grimforest",
+        "family": "fable",
         "costume_id": 0,
         "originalIndex": 1151,
         "lb1": {
@@ -79418,7 +79418,7 @@ window.allHeroes =
             "所有盟友獲得 +50% 攻擊力，持續 4 回合。"
         ],
         "passives": [],
-        "family": "grimforest",
+        "family": "fable",
         "costume_id": 1,
         "originalIndex": 1152,
         "lb1": {
@@ -79649,7 +79649,7 @@ window.allHeroes =
             "* - 正面與負面疊加。",
             "* - 成長和枯萎效果。"
         ],
-        "family": "wildcat",
+        "family": "wild_cat",
         "costume_id": 0,
         "originalIndex": 1155,
         "lb1": {
@@ -79974,7 +79974,7 @@ window.allHeroes =
             "為每個盟友召喚一個狐狸小兵，其可從施法者繼承 25% 生命。小兵在每個回合結束時為主人恢復 10% 生命。小兵能為主人防止法力減損。"
         ],
         "passives": [],
-        "family": "grimforest",
+        "family": "fable",
         "costume_id": 0,
         "originalIndex": 1159,
         "lb1": {
@@ -80132,7 +80132,7 @@ window.allHeroes =
         "passives": [
             "抵禦法力產出異常：此角色對影響法力產出的狀態異常和負面疊加具有天生抗性。不適用會阻止法力產出或偷走法力的狀態異常。"
         ],
-        "family": 2020,
+        "family": "hotm2020",
         "costume_id": 0,
         "originalIndex": 1161,
         "lb1": {
@@ -80180,7 +80180,7 @@ window.allHeroes =
             "治療",
             "反射"
         ],
-        "source": "怪獸島召喚",
+        "source": "聖約召喚",
         "Release date": "2024-10-18",
         "specialId": "cloak_of_feathers",
         "passiveSkills": [
@@ -80202,7 +80202,7 @@ window.allHeroes =
             "特殊技能傷害減免：該角色有 10% 的機率將受到的特殊技能直接傷害降至 1 點。",
             "特殊技能下的持續傷害：此角色施放特殊技能時，會給予隨機敵人獵人印記。目標在 3 回合內受到 150 點傷害。若目標已有此效果，持續時間將刷新，傷害增加 150，最多總共 1500 傷害。"
         ],
-        "family": "plainshunter",
+        "family": "plains_hunter",
         "costume_id": 0,
         "originalIndex": 1162,
         "lb1": {
@@ -80417,7 +80417,7 @@ window.allHeroes =
             "吞噬小兵並在一段時間內持續獲得法力：每 3 回合，將會吞噬隨機敵人的所有小兵，每吞噬一個小兵都會獲得小額法力。",
             "回復生命時獲得法力：此角色每次回復生命時也會獲得 5% 法力。"
         ],
-        "family": 2023,
+        "family": "hotm2023",
         "costume_id": 0,
         "originalIndex": 1165,
         "lb1": {
@@ -80473,7 +80473,7 @@ window.allHeroes =
             "防禦增益",
             "生命強化"
         ],
-        "source": "怪獸島召喚",
+        "source": "聖約召喚",
         "Release date": "2024-06-26",
         "specialId": "scourge_of_the_strong",
         "passiveSkills": [
@@ -80498,7 +80498,7 @@ window.allHeroes =
             "特殊技能傷害減免：該角色有 10% 的機率將受到的特殊技能直接傷害降至 1 點。",
             "特殊技能下的持續傷害：此角色施放特殊技能時，會給予隨機敵人獵人印記。目標在 3 回合內受到 150 點傷害。若目標已有此效果，持續時間將刷新，傷害增加 150，最多總共 1500 傷害。"
         ],
-        "family": "plainshunter",
+        "family": "plains_hunter",
         "costume_id": 0,
         "originalIndex": 1166,
         "lb1": {
@@ -80655,7 +80655,7 @@ window.allHeroes =
             "抵禦攻擊異常：此角色對影響攻擊的狀態異常具有天生抗性。",
             "法力燃燒：每當敵人受到燃燒傷害時，這名角色會獲得 5% 法力。"
         ],
-        "family": 2021,
+        "family": "hotm2021",
         "costume_id": 0,
         "originalIndex": 1168,
         "lb1": {
@@ -80884,7 +80884,7 @@ window.allHeroes =
             "所有敵人獲得 -44% 防禦，持續 3 回合。"
         ],
         "passives": [],
-        "family": "christmas",
+        "family": "winter",
         "costume_id": 0,
         "originalIndex": 1171,
         "lb1": {
@@ -80956,7 +80956,7 @@ window.allHeroes =
             "所有敵人獲得 -54% 防禦，持續 4 回合。"
         ],
         "passives": [],
-        "family": "christmas",
+        "family": "winter",
         "costume_id": 1,
         "originalIndex": 1172,
         "lb1": {
@@ -80996,7 +80996,7 @@ window.allHeroes =
         "AetherPower": "攻擊提升",
         "color": "紅",
         "class": "戰士",
-        "speed": "殺手",
+        "speed": "慢速",
         "skill": "斷裂連斬",
         "types": [
             "攻擊3個目標",
@@ -81033,7 +81033,7 @@ window.allHeroes =
         "passives": [
             "抵禦來自狀態效果的傷害：此角色對來自狀態效果的傷害具有天生抗性。"
         ],
-        "family": "slayer",
+        "family": "slayers",
         "costume_id": 0,
         "originalIndex": 1173,
         "lb1": {
@@ -81073,7 +81073,7 @@ window.allHeroes =
         "AetherPower": "防禦提升",
         "color": "紅",
         "class": "聖騎士",
-        "speed": "殺手",
+        "speed": "慢速",
         "skill": "壓裂切割",
         "types": [
             "攻擊3個目標",
@@ -81115,7 +81115,7 @@ window.allHeroes =
             "抵禦來自狀態效果的傷害：此角色對來自狀態效果的傷害具有天生抗性。",
             "特殊技能造成流血效果：此角色施放特殊技能時，所有敵人在 4 回合內受到 452 流血傷害。"
         ],
-        "family": "slayer",
+        "family": "slayers",
         "costume_id": 1,
         "originalIndex": 1174,
         "lb1": {
@@ -81269,7 +81269,7 @@ window.allHeroes =
             "強化抵禦負面小兵效果：此角色對來自小兵和超級小兵的傷害與負面效果具有天生抗性。",
             "完美精準度：此角色的特殊技能必定命中目標。"
         ],
-        "family": "astraldwarfs",
+        "family": "astral_dwarfs",
         "costume_id": 0,
         "originalIndex": 1176,
         "lb1": {
@@ -81551,7 +81551,7 @@ window.allHeroes =
             "抵禦特殊技能封鎖：此角色對封鎖特殊技能的異常具有天生抗性。",
             "抵禦防禦異常：此角色對影響防禦的異常和負面疊加具有天生抗性。不適用影響元素防禦的狀態異常。"
         ],
-        "family": 2023,
+        "family": "hotm2023",
         "costume_id": 0,
         "originalIndex": 1180,
         "lb1": {
@@ -81627,7 +81627,7 @@ window.allHeroes =
             "抵禦劇毒：此角色對劇毒效果具有天生抗性。",
             "分享承受的傷害：這名角色所受傷害的 20% 將與所有其他盟友分享。"
         ],
-        "family": "astralelves",
+        "family": "astral_elves",
         "costume_id": 0,
         "originalIndex": 1181,
         "lb1": {
@@ -81850,7 +81850,7 @@ window.allHeroes =
             "獲得狀態異常的生命值回復：此角色在被施加狀態異常或負面效果疊加時，可恢復 50 生命值。",
             "抵禦流血傷害：此角色對流血效果具有天生抗性。"
         ],
-        "family": 2022,
+        "family": "hotm2022",
         "costume_id": 0,
         "originalIndex": 1184,
         "lb1": {
@@ -82068,7 +82068,7 @@ window.allHeroes =
             "施法者獲得 -20% 防禦，持續 3 回合。此效果無法淨化。"
         ],
         "passives": [],
-        "family": "springvale",
+        "family": "easter",
         "costume_id": 0,
         "originalIndex": 1187,
         "lb1": {
@@ -82513,7 +82513,7 @@ window.allHeroes =
         "passives": [
             "偷取增益：此角色施放特殊技能時，有 50% 機率隨機從有增益的敵人身上偷取最新的可驅散增益。若無敵人有增益，則對所有敵人造成 70% 傷害。"
         ],
-        "family": "morlovia",
+        "family": "halloween",
         "costume_id": 0,
         "originalIndex": 1193,
         "lb1": {
@@ -82586,7 +82586,7 @@ window.allHeroes =
         "passives": [
             "偷取增益：此角色施放特殊技能時，有 50% 機率隨機從有增益的敵人身上偷取最新的可驅散增益。若無敵人有增益，則對所有敵人造成 70% 傷害。"
         ],
-        "family": "morlovia",
+        "family": "halloween",
         "costume_id": 1,
         "originalIndex": 1194,
         "lb1": {
@@ -82660,7 +82660,7 @@ window.allHeroes =
             "獲得狀態異常的法力：此角色在被施加狀態異常或負面效果疊加時，可獲得 5% 法力。",
             "守衛集結：每 4 回合移除所有盟友的全部枯萎效果。"
         ],
-        "family": "garrisonguard",
+        "family": "garrison",
         "costume_id": 0,
         "originalIndex": 1195,
         "lb1": {
@@ -82733,7 +82733,7 @@ window.allHeroes =
         "passives": [
             "特殊技能傷害減免：此角色受到的特殊技能傷害減少 -20%。"
         ],
-        "family": "underwild",
+        "family": "abyss",
         "costume_id": 0,
         "originalIndex": 1196,
         "lb1": {
@@ -82812,7 +82812,7 @@ window.allHeroes =
             "特殊技能傷害減免：此角色受到的特殊技能傷害減少 -20%。",
             "對加成生命值造成額外傷害：施放特殊技能後，所有盟友的普通攻擊和特殊技能對擁有加成生命值的目標造成 +70% 傷害，持續 4 回合。"
         ],
-        "family": "underwild",
+        "family": "abyss",
         "costume_id": 1,
         "originalIndex": 1197,
         "lb1": {
@@ -82883,7 +82883,7 @@ window.allHeroes =
         "passives": [
             "停用小兵能力：敵人擁有的所有小兵的攻擊和能力皆停用。"
         ],
-        "family": "lunaryear",
+        "family": "zodiac",
         "costume_id": 0,
         "originalIndex": 1198,
         "lb1": {
@@ -83019,7 +83019,7 @@ window.allHeroes =
             "法力減損的狀態效果：施法者的法力減損時，獲得 +30% 攻擊，持續 3 回合。",
             "抵禦水系傷害：此角色對水系傷害具有天生抗性。"
         ],
-        "family": 2021,
+        "family": "hotm2021",
         "costume_id": 0,
         "originalIndex": 1200,
         "lb1": {
@@ -83091,7 +83091,7 @@ window.allHeroes =
             "抵禦瘋狂：此角色對瘋狂效果具有天生抗性。",
             "抵抗攻擊減少：該角色對影響攻擊的狀態異常、疊加和枯萎效果具有天生抗性。"
         ],
-        "family": "woodlandfaun",
+        "family": "faun",
         "costume_id": 0,
         "originalIndex": 1201,
         "lb1": {
@@ -83167,7 +83167,7 @@ window.allHeroes =
             "抵禦攻擊狀態效果：此角色對影響攻擊的所有狀態效果和疊加具有天生抗性。包含增益。",
             "抵禦法力異常：此角色對影響法力產出的狀態異常和負面疊加具有天生抗性，亦適用於封鎖法力或竊取法力的狀態異常。"
         ],
-        "family": 2022,
+        "family": "hotm2022",
         "costume_id": 0,
         "originalIndex": 1202,
         "lb1": {
@@ -83242,7 +83242,7 @@ window.allHeroes =
             "流血時治療：每當敵人受到流血傷害時，這名角色恢復 50 生命。",
             "流血時獲得法力：每當敵人受到流血傷害時，這名角色會獲得 8% 法力。"
         ],
-        "family": 2024,
+        "family": "hotm2024",
         "costume_id": 0,
         "originalIndex": 1203,
         "lb1": {
@@ -83316,7 +83316,7 @@ window.allHeroes =
             "防禦角色時的被動技能：此英雄會從較強元素部隊受到較少的元素傷害。",
             "- 已受到元素傷害： -10%"
         ],
-        "family": "superelemental",
+        "family": "super_elemental",
         "costume_id": 0,
         "originalIndex": 1204,
         "lb1": {
@@ -83383,7 +83383,7 @@ window.allHeroes =
         "passives": [
             "增加增益持續時間：此英雄從特殊技能獲得的前 3 個增益效果的持續時間增加 1 回合。"
         ],
-        "family": "underwild",
+        "family": "abyss",
         "costume_id": 0,
         "originalIndex": 1205,
         "lb1": {
@@ -83455,7 +83455,7 @@ window.allHeroes =
             "增加增益持續時間：此角色從特殊技能獲得的前 3 個增益效果的持續時間增加 1 回合。",
             "對加成生命值造成額外傷害：施放特殊技能後，所有盟友的普通攻擊和特殊技能對擁有加成生命值的目標造成 +70% 傷害，持續 4 回合。"
         ],
-        "family": "underwild",
+        "family": "abyss",
         "costume_id": 1,
         "originalIndex": 1206,
         "lb1": {
@@ -83531,7 +83531,7 @@ window.allHeroes =
             "每名非烈火系敵人所增加的攻擊：在每場戰鬥開始時，每有一名非烈火系元素的敵人，此角色的攻擊力會增加 +5%。在有數波攻勢的戰鬥中，此效果會在每波攻勢開始時更新。",
             "抵禦增益免疫：此角色對於新增益免疫的狀態異常具有天生抗性。"
         ],
-        "family": 2024,
+        "family": "hotm2024",
         "costume_id": 0,
         "originalIndex": 1207,
         "lb1": {
@@ -83604,7 +83604,7 @@ window.allHeroes =
             "元素鏈會為所有烈火盟友恢復 4% 生命，持續 6 回合。此效果無法淨化。"
         ],
         "passives": [],
-        "family": 2018,
+        "family": "hotm2018",
         "costume_id": 0,
         "originalIndex": 1208,
         "lb1": {
@@ -83677,7 +83677,7 @@ window.allHeroes =
         "passives": [
             "使用特殊技能時造成驅散效果：此角色施展特殊技能時，會驅散所有敵人身上最新的狀態效果增益。"
         ],
-        "family": 2018,
+        "family": "hotm2018",
         "costume_id": 1,
         "originalIndex": 1209,
         "lb1": {
@@ -83738,7 +83738,7 @@ window.allHeroes =
             "對目標造成 265% 傷害。"
         ],
         "passives": [],
-        "family": null,
+        "family": "classic",
         "costume_id": 0,
         "originalIndex": 1210,
         "cn_skill_info": []
@@ -83771,7 +83771,7 @@ window.allHeroes =
             "對所有敵人造成 115% 傷害。"
         ],
         "passives": [],
-        "family": null,
+        "family": "classic",
         "costume_id": 0,
         "originalIndex": 1211,
         "cn_skill_info": []
@@ -83804,7 +83804,7 @@ window.allHeroes =
             "所有盟友獲得 +63% 防禦，持續 4 回合。"
         ],
         "passives": [],
-        "family": null,
+        "family": "classic",
         "costume_id": 0,
         "originalIndex": 1212,
         "cn_skill_info": []
@@ -83840,7 +83840,7 @@ window.allHeroes =
             "目標獲得 -34% 攻擊力，持續 6 回合。"
         ],
         "passives": [],
-        "family": null,
+        "family": "classic",
         "costume_id": 0,
         "originalIndex": 1213,
         "cn_skill_info": []
@@ -83873,7 +83873,7 @@ window.allHeroes =
             "為所有盟友恢復 28% 生命值。"
         ],
         "passives": [],
-        "family": null,
+        "family": "classic",
         "costume_id": 0,
         "originalIndex": 1214,
         "cn_skill_info": []
@@ -84294,7 +84294,7 @@ window.allHeroes =
             "所有盟友獲得 +100% 普通攻擊，持續 4 回合。除了可變更整體攻擊的效果，可另外啟動此效果。啟動此效果時，普通攻擊最多可提升 +160% 威力。"
         ],
         "passives": [],
-        "family": "raven",
+        "family": "wolf",
         "costume_id": 0,
         "originalIndex": 1221,
         "lb1": {
@@ -84348,7 +84348,7 @@ window.allHeroes =
             "所有盟友在 3 回合內恢復 261 點生命值。"
         ],
         "passives": [],
-        "family": "starfall",
+        "family": "circus",
         "costume_id": 0,
         "originalIndex": 1222,
         "lb1": {
@@ -84391,7 +84391,7 @@ window.allHeroes =
             "疊加",
             "攻擊增益"
         ],
-        "source": "怪獸島召喚",
+        "source": "月活動 - 卡勒瓦拉",
         "Release date": "2023-05-06",
         "specialId": "titanbone_chain_slash",
         "passiveSkills": [
@@ -84413,7 +84413,7 @@ window.allHeroes =
             "特殊技能下的持續傷害。此角色施放特殊技能時，會給予隨機敵人獵人印記。目標在 3 回合內受到 150 點傷害。若目標已有此效果，持續時間將刷新，傷害增加 150，最多總共 1500 傷害。",
             "獵人的威猛。此角色施放特殊技能時，可獲得 +20% 攻擊，持續 3 回合。除了可變更攻擊的效果，可另外啟動此效果。"
         ],
-        "family": "junglehunter",
+        "family": "jungle_hunter",
         "costume_id": 0,
         "originalIndex": 1223,
         "lb1": {
@@ -84772,7 +84772,7 @@ window.allHeroes =
             "治療",
             "對自身或友軍負面效果"
         ],
-        "source": "怪獸島召喚",
+        "source": "聖約召喚",
         "Release date": "2022-10-15",
         "specialId": "nomadic_hymn",
         "passiveSkills": [
@@ -84793,7 +84793,7 @@ window.allHeroes =
             "此角色施放特殊技能時，會給予隨機敵人獵人印記。目標在 3 回合內受到 150 點傷害。若目標已有此效果，持續時間將刷新，傷害增加 150，最多總共 1500 傷害。",
             "特殊技能傷害減少：此角色有 10% 機率將特殊技能造成的直接傷害降到 1。"
         ],
-        "family": "plainshunter",
+        "family": "plains_hunter",
         "costume_id": 0,
         "originalIndex": 1229,
         "lb1": {
@@ -85197,7 +85197,7 @@ window.allHeroes =
             "* 對所有敵人造成 80% 傷害。",
             "* 所有盟友獲得 +21% 暴擊率，持續 2 回合。"
         ],
-        "family": "defendersofatlantis",
+        "family": "tales1_goodies",
         "costume_id": 0,
         "originalIndex": 1235,
         "lb1": {
@@ -85272,7 +85272,7 @@ window.allHeroes =
             "* 所有盟友獲得 +21% 暴擊率，持續 3 回合。",
             "抵禦瘋狂：此角色對瘋狂效果具有天生抗性。"
         ],
-        "family": "defendersofatlantis",
+        "family": "tales1_goodies",
         "costume_id": 1,
         "originalIndex": 1236,
         "lb1": {
@@ -85337,7 +85337,7 @@ window.allHeroes =
             "所有盟友獲得 +35% 法力產出，持續 6 回合。"
         ],
         "passives": [],
-        "family": "christmas",
+        "family": "winter",
         "costume_id": 0,
         "originalIndex": 1237,
         "lb1": {
@@ -86016,7 +86016,7 @@ window.allHeroes =
             "目標法力滿格時，自動對目標造成 89 點傷害並使其法力減少 50%，持續 3 回合。"
         ],
         "passives": [],
-        "family": "grimforest",
+        "family": "fable",
         "costume_id": 0,
         "originalIndex": 1248,
         "lb1": {
@@ -86078,7 +86078,7 @@ window.allHeroes =
         "passives": [
             "提升特殊技能傷害：此角色第一次施展造成傷害的特殊技能時，其戰力會額外增加 30%。"
         ],
-        "family": "underwild",
+        "family": "abyss",
         "costume_id": 0,
         "originalIndex": 1249,
         "lb1": {
@@ -86137,7 +86137,7 @@ window.allHeroes =
         "passives": [
             "已增加特殊技能傷害：此角色第一次施展造成傷害的特殊技能時，其戰力會額外增加 30%。"
         ],
-        "family": "underwild",
+        "family": "abyss",
         "costume_id": 1,
         "originalIndex": 1250,
         "lb1": {
@@ -86339,7 +86339,7 @@ window.allHeroes =
             "對任意盟友召喚小兵時，此角色會獲得 5% 生命和 5% 法力。此效果每回合僅可啟動一次。",
             "對任意敵人召喚惡魔時，此角色對所有敵人造成 85% 傷害。此效果每回合僅可啟動一次。"
         ],
-        "family": "pets",
+        "family": "mighty_pet",
         "costume_id": 0,
         "originalIndex": 1253,
         "lb1": {
@@ -86476,7 +86476,7 @@ window.allHeroes =
             "當任何敵人遭到攻擊命中時，鄰近的所有敵人都會受到連鎖攻擊。"
         ],
         "passives": [],
-        "family": "corellia",
+        "family": "pirate",
         "costume_id": 0,
         "originalIndex": 1255,
         "lb1": {
@@ -86542,7 +86542,7 @@ window.allHeroes =
             "抵禦瘋狂：此角色對瘋狂效果具有天生抗性。",
             "抵抗防禦減少：該角色對影響防禦的狀態異常、疊加和枯萎效果具有天生抗性。"
         ],
-        "family": "woodlandfaun",
+        "family": "faun",
         "costume_id": 0,
         "originalIndex": 1256,
         "lb1": {
@@ -86798,7 +86798,7 @@ window.allHeroes =
             "持續傷害",
             "凈化"
         ],
-        "source": "怪獸島召喚",
+        "source": "聖約召喚",
         "Release date": "2022-12-24",
         "specialId": "bone_club_clonk",
         "passiveSkills": [
@@ -86819,7 +86819,7 @@ window.allHeroes =
             "特殊技能下的持續傷害：此角色施放特殊技能時，會給予隨機敵人獵人印記。目標在 3 回合內受到 150 點傷害。若目標已有此效果，持續時間將刷新，傷害增加 150，最多總共 1500 傷害。",
             "獵手感知：當此角色施放特殊技能時，會將其最新的可淨化狀態異常從自身轉移至目標。如果特殊技能無法鎖定敵人，則會隨機選擇一個敵人。如果此角色沒有可淨化的狀態異常，則會恢復 8% 生命。"
         ],
-        "family": "abysshunter",
+        "family": "abyss_hunter",
         "costume_id": 0,
         "originalIndex": 1260,
         "lb1": {
@@ -87200,7 +87200,7 @@ window.allHeroes =
             "所有盟友獲得 +24% 法力產出，持續 3 回合。"
         ],
         "passives": [],
-        "family": "starfall",
+        "family": "circus",
         "costume_id": 0,
         "originalIndex": 1266,
         "lb1": {
@@ -87270,7 +87270,7 @@ window.allHeroes =
             "* 此效果無法淨化。"
         ],
         "passives": [],
-        "family": "sakura",
+        "family": "japanese",
         "costume_id": 0,
         "originalIndex": 1267,
         "lb1": {
@@ -87353,7 +87353,7 @@ window.allHeroes =
             "* 施法者無法獲得法力，持續 2 回合。此效果無法淨化。"
         ],
         "passives": [],
-        "family": "sakura",
+        "family": "japanese",
         "costume_id": 1,
         "originalIndex": 1268,
         "lb1": {
@@ -87435,7 +87435,7 @@ window.allHeroes =
             "強化抵禦負面小兵效果：此角色對來自小兵和超級小兵的傷害與負面效果具有天生抗性。",
             "特殊技能施放時摧毀惡魔：此角色施放其特殊技能時，摧毀自身所有惡魔。"
         ],
-        "family": "astraldwarfs",
+        "family": "astral_dwarfs",
         "costume_id": 0,
         "originalIndex": 1269,
         "lb1": {
@@ -87647,7 +87647,7 @@ window.allHeroes =
             "施法者獲得 +74% 特殊技能防禦，持續 3 回合。"
         ],
         "passives": [],
-        "family": "grimforest",
+        "family": "fable",
         "costume_id": 0,
         "originalIndex": 1272,
         "lb1": {
@@ -87715,7 +87715,7 @@ window.allHeroes =
         "passives": [
             "已增加特殊技能傷害：此角色第一次施展造成傷害的特殊技能時，其戰力會額外增加 30%。"
         ],
-        "family": "underwild",
+        "family": "abyss",
         "costume_id": 0,
         "originalIndex": 1273,
         "lb1": {
@@ -87779,7 +87779,7 @@ window.allHeroes =
         "passives": [
             "已增加特殊技能傷害：此角色第一次施展造成傷害的特殊技能時，其戰力會額外增加 30%。"
         ],
-        "family": "underwild",
+        "family": "abyss",
         "costume_id": 1,
         "originalIndex": 1274,
         "lb1": {
@@ -87854,7 +87854,7 @@ window.allHeroes =
             "* 這些效果每回合可發動一次。",
             "抵禦流血傷害：此角色對流血效果具有天生抗性。"
         ],
-        "family": "outlaws",
+        "family": "outlaw",
         "costume_id": 0,
         "originalIndex": 1275,
         "lb1": {
@@ -87919,7 +87919,7 @@ window.allHeroes =
             "目標獲得對神聖系 -54% 的防禦，持續 4 回合。"
         ],
         "passives": [],
-        "family": "guardiansteltoc",
+        "family": "guardian",
         "costume_id": 0,
         "originalIndex": 1276,
         "lb1": {
@@ -87979,7 +87979,7 @@ window.allHeroes =
             "施法者和附近盟友獲得對暗黑系 +94% 的防禦，持續 3 回合。"
         ],
         "passives": [],
-        "family": "guardiansteltoc",
+        "family": "guardian",
         "costume_id": 1,
         "originalIndex": 1277,
         "lb1": {
@@ -88174,7 +88174,7 @@ window.allHeroes =
             "所有盟友獲得 +14% 攻擊力，且面板上每有一個神聖護盾，則會再增加 5%，持續 4 回合，最多可達 +54% 攻擊力。"
         ],
         "passives": [],
-        "family": "christmas",
+        "family": "winter",
         "costume_id": 0,
         "originalIndex": 1280,
         "lb1": {
@@ -88569,7 +88569,7 @@ window.allHeroes =
             "施法者無法獲得法力，持續 2 回合。此效果無法淨化。"
         ],
         "passives": [],
-        "family": "springvale",
+        "family": "easter",
         "costume_id": 0,
         "originalIndex": 1286,
         "lb1": {
@@ -89290,7 +89290,7 @@ window.allHeroes =
             "對任意盟友召喚小兵時，此角色會獲得 5% 生命和 5% 法力。此效果每回合僅可啟動一次。",
             "對任意敵人召喚惡魔時，此角色對所有敵人造成 85% 傷害。此效果每回合僅可啟動一次。"
         ],
-        "family": "pets",
+        "family": "mighty_pet",
         "costume_id": 0,
         "originalIndex": 1297,
         "lb1": {
@@ -89796,7 +89796,7 @@ window.allHeroes =
             "防禦角色時的被動技能：此英雄會從較強元素部隊受到較少的元素傷害。",
             "- 已受到元素傷害： -10%"
         ],
-        "family": "superelemental",
+        "family": "super_elemental",
         "costume_id": 0,
         "originalIndex": 1305,
         "lb1": {
@@ -89858,7 +89858,7 @@ window.allHeroes =
         "passives": [
             "已增加特殊技能傷害：此角色第一次施展造成傷害的特殊技能時，其戰力會額外增加 30%。"
         ],
-        "family": "underwild",
+        "family": "abyss",
         "costume_id": 0,
         "originalIndex": 1306,
         "lb1": {
@@ -89929,7 +89929,7 @@ window.allHeroes =
             "已增加特殊技能傷害：此角色第一次施展造成傷害的特殊技能時，其戰力會額外增加 30%。",
             "對加成生命值造成額外傷害：施放特殊技能後，所有盟友的普通攻擊和特殊技能對擁有加成生命值的目標造成 +70% 傷害，持續 3 回合。"
         ],
-        "family": "underwild",
+        "family": "abyss",
         "costume_id": 1,
         "originalIndex": 1307,
         "lb1": {
@@ -89997,7 +89997,7 @@ window.allHeroes =
             "為每個盟友召喚 2 個精靈小兵，其可從施法者繼承 10% 生命與 10% 攻擊。"
         ],
         "passives": [],
-        "family": "christmas",
+        "family": "winter",
         "costume_id": 0,
         "originalIndex": 1308,
         "lb1": {
@@ -90142,7 +90142,7 @@ window.allHeroes =
             "特殊技能傷害減免：該角色有 10% 的機率將受到的特殊技能直接傷害降至 1 點。",
             "特殊技能下的持續傷害：此角色施放特殊技能時，會給予隨機敵人獵人印記。目標在 3 回合內受到 150 點傷害。若目標已有此效果，持續時間將刷新，傷害增加 150，最多總共 1500 傷害。"
         ],
-        "family": "plainshunter",
+        "family": "plains_hunter",
         "costume_id": 0,
         "originalIndex": 1310,
         "lb1": {
@@ -90209,7 +90209,7 @@ window.allHeroes =
             "若被命中敵人在之後 4 個回合使用其特殊技能，則獲得 -34% 攻擊、 -34% 防禦與 -24% 法力產出，持續 4 個回合。狀態效果在特殊技能結束後附加。若狀態效果在特殊技能期間被移除，將不會附加狀態效果。"
         ],
         "passives": [],
-        "family": "corellia",
+        "family": "pirate",
         "costume_id": 0,
         "originalIndex": 1311,
         "lb1": {
@@ -90345,7 +90345,7 @@ window.allHeroes =
         "passives": [
             "已增加特殊技能傷害：此英雄第一次施展造成傷害的特殊技能時，其戰力會額外增加 30%。"
         ],
-        "family": "underwild",
+        "family": "abyss",
         "costume_id": 0,
         "originalIndex": 1313,
         "lb1": {
@@ -90412,7 +90412,7 @@ window.allHeroes =
             "已增加特殊技能傷害：此角色第一次施展造成傷害的特殊技能時，其戰力會額外增加 30%。",
             "對加成生命值造成額外傷害：施放特殊技能後，所有盟友的普通攻擊和特殊技能對擁有加成生命值的目標造成 +70% 傷害，持續 4 回合。"
         ],
-        "family": "underwild",
+        "family": "abyss",
         "costume_id": 1,
         "originalIndex": 1314,
         "lb1": {
@@ -90730,7 +90730,7 @@ window.allHeroes =
         "passives": [
             "閃避特殊傷害：此角色有 15% 的機率可躲避造成傷害的特殊技能。"
         ],
-        "family": "moth",
+        "family": "moths",
         "costume_id": 0,
         "originalIndex": 1318,
         "lb1": {
@@ -90808,7 +90808,7 @@ window.allHeroes =
             "抵禦流血傷害：此角色對流血效果具有天生抗性。",
             "獲得增益的法力：此角色獲得增益或正面疊加時可獲得 5% 法力。"
         ],
-        "family": 2024,
+        "family": "hotm2024",
         "costume_id": 0,
         "originalIndex": 1319,
         "lb1": {
@@ -90881,7 +90881,7 @@ window.allHeroes =
         "passives": [
             "抵抗小兵所施加的狀態異常：此角色對小兵所施加的狀態異常具有天生抗性。"
         ],
-        "family": 2020,
+        "family": "hotm2020",
         "costume_id": 0,
         "originalIndex": 1320,
         "lb1": {
@@ -90949,7 +90949,7 @@ window.allHeroes =
         "passives": [
             "停用小兵能力：敵人擁有的所有小兵的攻擊和能力皆停用。"
         ],
-        "family": "lunaryear",
+        "family": "zodiac",
         "costume_id": 0,
         "originalIndex": 1321,
         "lb1": {
@@ -90984,7 +90984,7 @@ window.allHeroes =
         "AetherPower": "攻擊提升",
         "color": "黃",
         "class": "巫師",
-        "speed": "殺手",
+        "speed": "慢速",
         "skill": "誅心之力",
         "types": [
             "全體驅散",
@@ -91023,7 +91023,7 @@ window.allHeroes =
         "passives": [
             "抵禦來自狀態效果的傷害：此角色對來自狀態效果的傷害具有天生抗性。"
         ],
-        "family": "slayer",
+        "family": "slayers",
         "costume_id": 0,
         "originalIndex": 1322,
         "lb1": {
@@ -91064,7 +91064,7 @@ window.allHeroes =
         "AetherPower": "防禦提升",
         "color": "黃",
         "class": "戰士",
-        "speed": "殺手",
+        "speed": "慢速",
         "skill": "驅散審判",
         "types": [
             "全體驅散",
@@ -91108,7 +91108,7 @@ window.allHeroes =
             "抵禦來自狀態效果的傷害：此角色對來自狀態效果的傷害具有天生抗性。",
             "特殊技能造成流血效果：此角色施放特殊技能時，所有敵人在 4 回合內受到 528 流血傷害。"
         ],
-        "family": "slayer",
+        "family": "slayers",
         "costume_id": 1,
         "originalIndex": 1323,
         "lb1": {
@@ -91185,7 +91185,7 @@ window.allHeroes =
             "抵禦最大生命值降低：此角色對最大生命值降低具有天生抗性。",
             "敵人施展特殊技能時提升生命值：當敵人施放特殊技能時，此角色會有 50% 機率提升自身生命值 100 點。"
         ],
-        "family": 2022,
+        "family": "hotm2022",
         "costume_id": 0,
         "originalIndex": 1324,
         "lb1": {
@@ -91523,7 +91523,7 @@ window.allHeroes =
             "持續治療",
             "復活"
         ],
-        "source": "怪獸島召喚",
+        "source": "聖約召喚",
         "Release date": "2023-02-09",
         "specialId": "liturgy_of_the_fallen",
         "passiveSkills": [
@@ -91545,7 +91545,7 @@ window.allHeroes =
             "特殊技能下的持續傷害：此角色施放特殊技能時，會給予隨機敵人獵人印記。目標在 3 回合內受到 150 點傷害。若目標已有此效果，持續時間將刷新，傷害增加 150，最多總共 1500 傷害。",
             "獵手感知：此角色施放特殊技能時，有 100% 機率將其身上最新的狀態異常轉移到目標身上。若特殊技能無法鎖定敵人，則隨機選擇一個敵人。若此角色無狀態異常，則恢復 3% 生命值。"
         ],
-        "family": "abysshunter",
+        "family": "abyss_hunter",
         "costume_id": 0,
         "originalIndex": 1329,
         "lb1": {
@@ -91607,7 +91607,7 @@ window.allHeroes =
             "元素鏈給予所有神聖盟友 +10% 法力，持續 4 個回合。此效果無法驅散。"
         ],
         "passives": [],
-        "family": 2018,
+        "family": "hotm2018",
         "costume_id": 0,
         "originalIndex": 1330,
         "lb1": {
@@ -91674,7 +91674,7 @@ window.allHeroes =
         "passives": [
             "使用特殊技能時造成淨化效果：此角色施展特殊技能時，會淨化所有盟友身上最新的狀態異常。"
         ],
-        "family": 2018,
+        "family": "hotm2018",
         "costume_id": 1,
         "originalIndex": 1331,
         "lb1": {
@@ -91746,7 +91746,7 @@ window.allHeroes =
             "抵禦驅散：此角色對增益的驅散效果具有天生抗性。",
             "抵禦負面小兵效果：此角色對來自小兵的傷害與負面效果具有天生抗性。"
         ],
-        "family": 2021,
+        "family": "hotm2021",
         "costume_id": 0,
         "originalIndex": 1332,
         "lb1": {
@@ -91814,7 +91814,7 @@ window.allHeroes =
             "淨化所有盟友的狀態異常。"
         ],
         "passives": [],
-        "family": "starfall",
+        "family": "circus",
         "costume_id": 0,
         "originalIndex": 1333,
         "lb1": {
@@ -91886,7 +91886,7 @@ window.allHeroes =
         "passives": [
             "淨化時複製異常：此英雄的一個狀態異常受到淨化時，將隨機對一名敵人施加受淨化異常的新複製體。"
         ],
-        "family": "starfall",
+        "family": "circus",
         "costume_id": 1,
         "originalIndex": 1334,
         "lb1": {
@@ -92032,7 +92032,7 @@ window.allHeroes =
             "元素鏈給予所有神聖盟友 +5% 攻擊力與 +5% 防禦，持續 6 回合。此效果無法淨化。"
         ],
         "passives": [],
-        "family": 2018,
+        "family": "hotm2018",
         "costume_id": 0,
         "originalIndex": 1336,
         "lb1": {
@@ -92100,7 +92100,7 @@ window.allHeroes =
         "passives": [
             "使用特殊技能時造成驅散效果：此角色施展特殊技能時，會驅散所有敵人身上最新的狀態效果增益。"
         ],
-        "family": 2018,
+        "family": "hotm2018",
         "costume_id": 1,
         "originalIndex": 1337,
         "lb1": {
@@ -92240,7 +92240,7 @@ window.allHeroes =
             "* 對所有敵人造成 80% 傷害。",
             "* 所有盟友獲得 +21% 暴擊率，持續 2 回合。"
         ],
-        "family": "defendersofatlantis",
+        "family": "tales1_goodies",
         "costume_id": 0,
         "originalIndex": 1339,
         "lb1": {
@@ -92319,7 +92319,7 @@ window.allHeroes =
             "* 所有盟友獲得 +21% 暴擊率，持續 2 回合。",
             "抵禦瘋狂：此角色對瘋狂效果具有天生抗性。"
         ],
-        "family": "defendersofatlantis",
+        "family": "tales1_goodies",
         "costume_id": 1,
         "originalIndex": 1340,
         "lb1": {
@@ -92690,7 +92690,7 @@ window.allHeroes =
             "抵禦法力減損：此角色對法力減損具有天生抗性。",
             "獲得增益的法力：此角色獲得增益或正面疊加時可獲得 5% 法力。"
         ],
-        "family": 2024,
+        "family": "hotm2024",
         "costume_id": 0,
         "originalIndex": 1345,
         "lb1": {
@@ -92751,7 +92751,7 @@ window.allHeroes =
             "被擊中的基礎法力速度最快的敵人將獲得 -64% 法力產出，持續 3 回合。"
         ],
         "passives": [],
-        "family": "starfall",
+        "family": "circus",
         "costume_id": 0,
         "originalIndex": 1346,
         "lb1": {
@@ -92819,7 +92819,7 @@ window.allHeroes =
             "抵禦法力減損：此角色對法力減損具有天生抗性。",
             "守衛集結：每 4 回合移除所有盟友的全部枯萎效果。"
         ],
-        "family": "garrisonguard",
+        "family": "garrison",
         "costume_id": 0,
         "originalIndex": 1347,
         "lb1": {
@@ -92895,7 +92895,7 @@ window.allHeroes =
             "寵物之怒：對任意敵人召喚惡魔時，此角色對所有敵人造成 85% 傷害。此效果每回合僅可啟動一次。",
             "密友之友：對任意盟友召喚小兵時，此角色會獲得 5% 生命和 5% 法力。此效果每回合僅可啟動一次。"
         ],
-        "family": "pets",
+        "family": "mighty_pet",
         "costume_id": 0,
         "originalIndex": 1348,
         "lb1": {
@@ -93056,7 +93056,7 @@ window.allHeroes =
             "抵禦瘋狂：此角色對瘋狂效果具有天生抗性。",
             "獲得狀態異常的法力：此角色在被施加狀態異常或負面效果疊加時，可獲得 5% 法力。"
         ],
-        "family": "woodlandfaun",
+        "family": "faun",
         "costume_id": 0,
         "originalIndex": 1350,
         "lb1": {
@@ -93130,7 +93130,7 @@ window.allHeroes =
             "抵禦法力異常：此角色對影響法力的異常具有天生抗性。",
             "每個敵人增益提供的法力：每個回合開始時，敵人隊伍擁有的每一個生效狀態效果增益都能讓自身獲得少量法力。(最多 20 個增益)"
         ],
-        "family": 2023,
+        "family": "hotm2023",
         "costume_id": 0,
         "originalIndex": 1351,
         "lb1": {
@@ -93273,7 +93273,7 @@ window.allHeroes =
             "獲得狀態異常的生命值回復：此角色在被施加狀態異常或負面效果疊加時，可恢復 10% 生命值。",
             "停用小兵能力：敵人擁有的所有小兵的攻擊和能力皆停用。"
         ],
-        "family": "lunaryear",
+        "family": "zodiac",
         "costume_id": 0,
         "originalIndex": 1353,
         "lb1": {
@@ -93421,7 +93421,7 @@ window.allHeroes =
             "防禦角色時的被動技能：此英雄會從較強元素部隊受到較少的元素傷害。",
             "- 已受到元素傷害： -10%"
         ],
-        "family": "superelemental",
+        "family": "super_elemental",
         "costume_id": 0,
         "originalIndex": 1355,
         "lb1": {
@@ -93495,7 +93495,7 @@ window.allHeroes =
         "passives": [
             "抵禦來自狀態效果的傷害：此角色對來自狀態效果的傷害具有天生抗性。"
         ],
-        "family": "guardiansteltoc",
+        "family": "guardian",
         "costume_id": 0,
         "originalIndex": 1356,
         "lb1": {
@@ -93574,7 +93574,7 @@ window.allHeroes =
             "* 此效果無法驅散，但會在施法者被擊敗後移除。"
         ],
         "passives": [],
-        "family": "guardiansteltoc",
+        "family": "guardian",
         "costume_id": 0,
         "originalIndex": 1357,
         "lb1": {
@@ -93654,7 +93654,7 @@ window.allHeroes =
             "* 此效果無法驅散，但會在施法者被擊敗後移除。"
         ],
         "passives": [],
-        "family": "guardiansteltoc",
+        "family": "guardian",
         "costume_id": 1,
         "originalIndex": 1358,
         "lb1": {
@@ -93725,7 +93725,7 @@ window.allHeroes =
             "施法者在 5 回合內恢復 915 點生命值。"
         ],
         "passives": [],
-        "family": "guardiansteltoc",
+        "family": "guardian",
         "costume_id": 0,
         "originalIndex": 1359,
         "lb1": {
@@ -93793,7 +93793,7 @@ window.allHeroes =
             "施法者和附近盟友獲得對暗黑系 +54% 的防禦，持續 4 回合。"
         ],
         "passives": [],
-        "family": "avalon",
+        "family": "knight",
         "costume_id": 0,
         "originalIndex": 1360,
         "lb1": {
@@ -93863,7 +93863,7 @@ window.allHeroes =
             "所有盟友將全部狀態效果和 115% 傷害反射給進攻者，並抵擋其它來自敵人暗黑特殊技能的負面效果，持續 4 回合。同隊角色、小兵和惡魔施放的狀態效果無法反彈。"
         ],
         "passives": [],
-        "family": "avalon",
+        "family": "knight",
         "costume_id": 1,
         "originalIndex": 1361,
         "lb1": {
@@ -94094,7 +94094,7 @@ window.allHeroes =
             "密友之友：對任意盟友召喚小兵時，此角色會獲得 5% 生命和 5% 法力。此效果每回合僅可啟動一次。",
             "寵物之怒：對任意敵人召喚惡魔時，此角色對所有敵人造成 85% 傷害。此效果每回合僅可啟動一次。"
         ],
-        "family": "pets",
+        "family": "mighty_pet",
         "costume_id": 0,
         "originalIndex": 1364,
         "lb1": {
@@ -94237,7 +94237,7 @@ window.allHeroes =
             "抵禦特殊技能封鎖：此角色對封鎖特殊技能的狀態異常具有天生抗性。",
             "獲得增益的法力：此角色獲得增益或正面疊加時可獲得 5% 法力。"
         ],
-        "family": 2021,
+        "family": "hotm2021",
         "costume_id": 0,
         "originalIndex": 1366,
         "lb1": {
@@ -94315,7 +94315,7 @@ window.allHeroes =
             "強化抵禦負面小兵效果：此角色對來自小兵和超級小兵的傷害與負面效果具有天生抗性。",
             "完美精準度：此角色的特殊技能必定命中目標。"
         ],
-        "family": "astraldwarfs",
+        "family": "astral_dwarfs",
         "costume_id": 0,
         "originalIndex": 1367,
         "lb1": {
@@ -94665,7 +94665,7 @@ window.allHeroes =
             "櫻花狐狸小兵從施法者繼承了 8% 生命與 30% 攻擊力。它在每個回合結束時為主人增加 7% 法力。"
         ],
         "passives": [],
-        "family": "sakura",
+        "family": "japanese",
         "costume_id": 0,
         "originalIndex": 1372,
         "lb1": {
@@ -94735,7 +94735,7 @@ window.allHeroes =
             "所有敵人獲得 -40% 精準度，持續 3 回合。失手率也會套用在攻擊型特殊技能上。"
         ],
         "passives": [],
-        "family": "sakura",
+        "family": "japanese",
         "costume_id": 1,
         "originalIndex": 1373,
         "lb1": {
@@ -94817,7 +94817,7 @@ window.allHeroes =
             "防禦角色時的被動技能：此英雄會從較強元素部隊受到較少的元素傷害。",
             "- 已受到元素傷害： -10%"
         ],
-        "family": "superelemental",
+        "family": "super_elemental",
         "costume_id": 0,
         "originalIndex": 1374,
         "lb1": {
@@ -94893,7 +94893,7 @@ window.allHeroes =
             "閃避特殊傷害：此角色有 15% 的機率可躲避造成傷害的特殊技能。",
             "抵抗小兵所施加的狀態異常：此角色對小兵所施加的狀態異常具有天生抗性。"
         ],
-        "family": 2023,
+        "family": "hotm2023",
         "costume_id": 0,
         "originalIndex": 1375,
         "lb1": {
@@ -94966,7 +94966,7 @@ window.allHeroes =
         "passives": [
             "小兵陣亡時獲得淨化效果：這名角色擁有的小兵被擊殺時，會淨化其狀態異常。"
         ],
-        "family": "maskedgod",
+        "family": "masquerade",
         "costume_id": 0,
         "originalIndex": 1376,
         "lb1": {
@@ -95031,7 +95031,7 @@ window.allHeroes =
             "施法者獲得 -5% 法力產出，持續 4 回合。此效果無法淨化。"
         ],
         "passives": [],
-        "family": "springvale",
+        "family": "easter",
         "costume_id": 0,
         "originalIndex": 1377,
         "lb1": {
@@ -95101,7 +95101,7 @@ window.allHeroes =
             "施法者獲得 -5% 法力產出，持續 5 回合。此效果無法淨化。"
         ],
         "passives": [],
-        "family": "springvale",
+        "family": "easter",
         "costume_id": 1,
         "originalIndex": 1378,
         "lb1": {
@@ -95179,7 +95179,7 @@ window.allHeroes =
             "防禦角色時的被動技能：此英雄會從較強元素部隊受到較少的元素傷害。",
             "- 已受到元素傷害： -10%"
         ],
-        "family": "superelemental",
+        "family": "super_elemental",
         "costume_id": 0,
         "originalIndex": 1379,
         "lb1": {
@@ -95255,7 +95255,7 @@ window.allHeroes =
             "防禦角色時的被動技能：此英雄會從較強元素部隊受到較少的元素傷害。",
             "- 已受到元素傷害： -25%"
         ],
-        "family": "superelemental",
+        "family": "super_elemental",
         "costume_id": 1,
         "originalIndex": 1380,
         "lb1": {
@@ -95651,7 +95651,7 @@ window.allHeroes =
         "passives": [
             "小兵陣亡時獲得淨化效果：這名角色擁有的小兵被擊殺時，會淨化其狀態異常。"
         ],
-        "family": "maskedgod",
+        "family": "masquerade",
         "costume_id": 0,
         "originalIndex": 1386,
         "lb1": {
@@ -96061,7 +96061,7 @@ window.allHeroes =
             "驅散增益時獲得法力：每次此角色身上的增益被驅散時，就會獲得 10% 法力。",
             "抵禦防禦異常：此角色對影響防禦的狀態異常具有天生抗性。同樣適用影響元素防禦的狀態異常。"
         ],
-        "family": 2022,
+        "family": "hotm2022",
         "costume_id": 0,
         "originalIndex": 1392,
         "lb1": {
@@ -96355,7 +96355,7 @@ window.allHeroes =
             "* 角色擁有的飛行動量越少，效果越弱。",
             "削弱超級小兵：敵方超級小兵的生命值降低 -75%。"
         ],
-        "family": "magiccarpet",
+        "family": "magic_carpet",
         "costume_id": 0,
         "originalIndex": 1396,
         "lb1": {
@@ -96425,7 +96425,7 @@ window.allHeroes =
         "passives": [
             "停用小兵能力：敵人擁有的所有小兵的攻擊和能力皆停用。"
         ],
-        "family": "lunaryear",
+        "family": "zodiac",
         "costume_id": 0,
         "originalIndex": 1397,
         "lb1": {
@@ -96571,7 +96571,7 @@ window.allHeroes =
             "抵禦劇毒：此角色對劇毒效果具有天生抗性。",
             "分享承受的傷害：這名角色所受傷害的 20% 將與所有其他盟友分享。"
         ],
-        "family": "astralelves",
+        "family": "astral_elves",
         "costume_id": 0,
         "originalIndex": 1399,
         "lb1": {
@@ -97037,7 +97037,7 @@ window.allHeroes =
             "額外傷害",
             "治療削減"
         ],
-        "source": "怪獸島召喚",
+        "source": "聖約召喚",
         "Release date": "2022-08-25",
         "specialId": "wild_cleave",
         "passiveSkills": [
@@ -97061,7 +97061,7 @@ window.allHeroes =
             "特殊技能傷害減免：該角色有 10% 的機率將受到的特殊技能直接傷害降至 1 點。",
             "特殊技能下的持續傷害：此角色施放特殊技能時，會給予隨機敵人獵人印記。目標在 3 回合內受到 150 點傷害。若目標已有此效果，持續時間將刷新，傷害增加 150，最多總共 1500 傷害。"
         ],
-        "family": "plainshunter",
+        "family": "plains_hunter",
         "costume_id": 0,
         "originalIndex": 1406,
         "lb1": {
@@ -97134,7 +97134,7 @@ window.allHeroes =
         "passives": [
             "抵禦防禦異常：此英雄對影響防禦的狀態異常和負面疊加具有天生抗性。不適用影響元素防禦的狀態異常。"
         ],
-        "family": 2020,
+        "family": "hotm2020",
         "costume_id": 0,
         "originalIndex": 1407,
         "lb1": {
@@ -97202,7 +97202,7 @@ window.allHeroes =
         "passives": [
             "偷取增益：此角色施放特殊技能時，有 50% 機率隨機從有增益的敵人身上偷取最新的可驅散增益。若無敵人有增益，則對所有敵人造成 70% 傷害。"
         ],
-        "family": "morlovia",
+        "family": "halloween",
         "costume_id": 0,
         "originalIndex": 1408,
         "lb1": {
@@ -97278,7 +97278,7 @@ window.allHeroes =
             "抵禦小兵移除：此角色對小兵移除效果具有天生抗性。",
             "獲得增益的法力：此角色獲得增益或正面疊加時可獲得 5% 法力。"
         ],
-        "family": 2025,
+        "family": "hotm2025",
         "costume_id": 0,
         "originalIndex": 1409,
         "lb1": {
@@ -97428,7 +97428,7 @@ window.allHeroes =
             "抵禦劇毒：此角色對劇毒效果具有天生抗性。",
             "分享承受的傷害：這名角色所受傷害的 20% 將與所有其他盟友分享。"
         ],
-        "family": "astralelves",
+        "family": "astral_elves",
         "costume_id": 0,
         "originalIndex": 1411,
         "lb1": {
@@ -97723,7 +97723,7 @@ window.allHeroes =
             "抵禦劇毒：此角色對劇毒效果具有天生抗性。",
             "分享承受的傷害：這名角色所受傷害的 20% 將與所有其他盟友分享。"
         ],
-        "family": "astralelves",
+        "family": "astral_elves",
         "costume_id": 0,
         "originalIndex": 1415,
         "lb1": {
@@ -98006,7 +98006,7 @@ window.allHeroes =
             "元素鏈給予所有神聖盟友 +15% 攻擊力與 +15% 防禦，持續 6 回合。此效果無法驅散。"
         ],
         "passives": [],
-        "family": 2017,
+        "family": "hotm2017",
         "costume_id": 0,
         "originalIndex": 1419,
         "lb1": {
@@ -98074,7 +98074,7 @@ window.allHeroes =
         "passives": [
             "使用特殊技能時造成驅散效果：此角色施展特殊技能時，會驅散所有敵人身上最新的狀態效果增益。"
         ],
-        "family": 2017,
+        "family": "hotm2017",
         "costume_id": 1,
         "originalIndex": 1420,
         "lb1": {
@@ -98142,7 +98142,7 @@ window.allHeroes =
         "passives": [
             "抵禦法力產出受阻：此角色對阻止法力產出的狀態異常具有天生抗性。"
         ],
-        "family": 2019,
+        "family": "hotm2019",
         "costume_id": 0,
         "originalIndex": 1421,
         "lb1": {
@@ -98691,7 +98691,7 @@ window.allHeroes =
         "passives": [
             "抵禦致盲：此角色對影響精準度的狀態異常具有天生抗性。不適用來自盟友的狀態效果。"
         ],
-        "family": 2019,
+        "family": "hotm2019",
         "costume_id": 0,
         "originalIndex": 1429,
         "lb1": {
@@ -99002,7 +99002,7 @@ window.allHeroes =
             "* 對所有敵人造成 80% 傷害。",
             "* 施法者獲得 +19% 法力產出，持續 2 回合。"
         ],
-        "family": "nightmaresofatlantis",
+        "family": "tales1_baddies",
         "costume_id": 0,
         "originalIndex": 1433,
         "lb1": {
@@ -99091,7 +99091,7 @@ window.allHeroes =
             "* 施法者獲得 +19% 法力產出，持續 2 回合。",
             "抵禦瘋狂：此角色對瘋狂效果具有天生抗性。"
         ],
-        "family": "nightmaresofatlantis",
+        "family": "tales1_baddies",
         "costume_id": 1,
         "originalIndex": 1434,
         "lb1": {
@@ -99247,7 +99247,7 @@ window.allHeroes =
             "抵禦瘋狂：此角色對瘋狂效果具有天生抗性。",
             "抵抗攻擊減少：該角色對影響攻擊的狀態異常、疊加和枯萎效果具有天生抗性。"
         ],
-        "family": "woodlandfaun",
+        "family": "faun",
         "costume_id": 0,
         "originalIndex": 1436,
         "lb1": {
@@ -99440,7 +99440,7 @@ window.allHeroes =
         "passives": [
             "用法力開始戰鬥：戰鬥開始時，這個角色會獲得 20% 法力。"
         ],
-        "family": "underwild",
+        "family": "abyss",
         "costume_id": 0,
         "originalIndex": 1439,
         "lb1": {
@@ -99511,7 +99511,7 @@ window.allHeroes =
             "用法力開始戰鬥：戰鬥開始時，這個角色會獲得 20% 法力。",
             "使用特殊技能時獲得生命值加成：施放特殊技能時，為所有盟友提供 10% 生命值加成。"
         ],
-        "family": "underwild",
+        "family": "abyss",
         "costume_id": 1,
         "originalIndex": 1440,
         "lb1": {
@@ -99780,7 +99780,7 @@ window.allHeroes =
         "passives": [
             "抵禦劇毒：此角色對劇毒效果具有天生抗性。"
         ],
-        "family": 2019,
+        "family": "hotm2019",
         "costume_id": 0,
         "originalIndex": 1444,
         "lb1": {
@@ -100070,7 +100070,7 @@ window.allHeroes =
             "抵禦法力減損：此角色對法力減損具有天生抗性。",
             "守衛集結：每 4 回合移除所有盟友的全部枯萎效果。"
         ],
-        "family": "garrisonguard",
+        "family": "garrison",
         "costume_id": 0,
         "originalIndex": 1448,
         "lb1": {
@@ -100151,7 +100151,7 @@ window.allHeroes =
             "* 這些效果每回合可發動一次。",
             "抵禦流血傷害：此角色對流血效果具有天生抗性。"
         ],
-        "family": "outlaws",
+        "family": "outlaw",
         "costume_id": 0,
         "originalIndex": 1449,
         "lb1": {
@@ -100232,7 +100232,7 @@ window.allHeroes =
             "強化抵禦負面小兵效果：此角色對來自小兵和超級小兵的傷害與負面效果具有天生抗性。",
             "完美精準度：此角色的特殊技能必定命中目標。"
         ],
-        "family": "astraldwarfs",
+        "family": "astral_dwarfs",
         "costume_id": 0,
         "originalIndex": 1450,
         "lb1": {
@@ -100305,7 +100305,7 @@ window.allHeroes =
         "passives": [
             "閃避特殊傷害：此角色有 15% 的機率可躲避造成傷害的特殊技能。"
         ],
-        "family": "moth",
+        "family": "moths",
         "costume_id": 0,
         "originalIndex": 1451,
         "lb1": {
@@ -100542,7 +100542,7 @@ window.allHeroes =
             "抵禦法力減損：此角色對法力減損具有天生抗性。",
             "守衛集結：每 4 回合移除所有盟友的全部枯萎效果。"
         ],
-        "family": "garrisonguard",
+        "family": "garrison",
         "costume_id": 0,
         "originalIndex": 1454,
         "lb1": {
@@ -100801,7 +100801,7 @@ window.allHeroes =
             "施法者獲得 -20% 攻擊力，持續 3 回合。此效果無法淨化。"
         ],
         "passives": [],
-        "family": "springvale",
+        "family": "easter",
         "costume_id": 0,
         "originalIndex": 1458,
         "lb1": {
@@ -100944,7 +100944,7 @@ window.allHeroes =
             "獲得增益的法力：此角色獲得增益或正面疊加時，有 50% 機率獲得 10% 法力。",
             "獲得增益的生命值回復：此角色獲得增益或正面疊加時，有 50% 的機率恢復 10% 生命值。"
         ],
-        "family": "kingdom",
+        "family": "journey",
         "costume_id": 0,
         "originalIndex": 1460,
         "lb1": {
@@ -101133,7 +101133,7 @@ window.allHeroes =
             "疊加",
             "嘲諷"
         ],
-        "source": "怪獸島召喚",
+        "source": "月活動 - 卡勒瓦拉",
         "Release date": "2023-05-06",
         "specialId": "warcry_of_the_jungle",
         "passiveSkills": [
@@ -101156,7 +101156,7 @@ window.allHeroes =
             "特殊技能下的持續傷害：此角色施放特殊技能時，會給予隨機敵人獵人印記。目標在 3 回合內受到 150 點傷害。若目標已有此效果，持續時間將刷新，傷害增加 150，最多總共 1500 傷害。",
             "獵人的威猛：此角色施放特殊技能時，可獲得 +20% 攻擊，持續 3 回合。除了可變更攻擊的效果，可另外啟動此效果。"
         ],
-        "family": "junglehunter",
+        "family": "jungle_hunter",
         "costume_id": 0,
         "originalIndex": 1463,
         "lb1": {
@@ -101210,7 +101210,7 @@ window.allHeroes =
             "繞過",
             "攻擊增益"
         ],
-        "source": "怪獸島召喚",
+        "source": "聖約召喚",
         "Release date": "2024-05-23",
         "specialId": "guiding_arrow",
         "passiveSkills": [
@@ -101233,7 +101233,7 @@ window.allHeroes =
             "特殊技能傷害減免：該角色有 10% 的機率將受到的特殊技能直接傷害降至 1 點。",
             "特殊技能下的持續傷害：此角色施放特殊技能時，會給予隨機敵人獵人印記。目標在 3 回合內受到 150 點傷害。若目標已有此效果，持續時間將刷新，傷害增加 150，最多總共 1500 傷害。"
         ],
-        "family": "plainshunter",
+        "family": "plains_hunter",
         "costume_id": 0,
         "originalIndex": 1464,
         "lb1": {
@@ -101383,7 +101383,7 @@ window.allHeroes =
             "抵禦飛沙傷害：此角色對飛沙傷害具有天生抗性。",
             "從已陣亡小兵獲取生命值：此角色擁有的小兵被擊殺時，會恢復 50 的生命值。"
         ],
-        "family": 2021,
+        "family": "hotm2021",
         "costume_id": 0,
         "originalIndex": 1466,
         "lb1": {
@@ -101986,7 +101986,7 @@ window.allHeroes =
         "passives": [
             "偷取增益：此角色施放特殊技能時，有 50% 機率隨機從有增益的敵人身上偷取最新的可驅散增益。若無敵人有增益，則對所有敵人造成 70% 傷害。"
         ],
-        "family": "morlovia",
+        "family": "halloween",
         "costume_id": 0,
         "originalIndex": 1474,
         "lb1": {
@@ -102359,7 +102359,7 @@ window.allHeroes =
             "獲得增益的法力：獲得增益或正面疊加時可獲得 5% 法力。",
             "獲得增益的生命值回復：此角色獲得增益或正面疊加時，會恢復 5% 的生命值。"
         ],
-        "family": "stag",
+        "family": "bear",
         "costume_id": 0,
         "originalIndex": 1479,
         "lb1": {
@@ -102642,7 +102642,7 @@ window.allHeroes =
             "防禦角色時的被動技能：此英雄會從較強元素部隊受到較少的元素傷害。",
             "- 已受到元素傷害： -10%"
         ],
-        "family": "superelemental",
+        "family": "super_elemental",
         "costume_id": 0,
         "originalIndex": 1483,
         "lb1": {
@@ -102712,7 +102712,7 @@ window.allHeroes =
             "防禦角色時的被動技能：此英雄會從較強元素部隊受到較少的元素傷害。",
             "- 已受到元素傷害： -10%"
         ],
-        "family": "superelemental",
+        "family": "super_elemental",
         "costume_id": 0,
         "originalIndex": 1484,
         "lb1": {
@@ -102786,7 +102786,7 @@ window.allHeroes =
             "* 角色擁有的飛行動量越少，效果越弱。",
             "削弱超級小兵：敵方超級小兵的生命值降低 -75%。"
         ],
-        "family": "magiccarpet",
+        "family": "magic_carpet",
         "costume_id": 0,
         "originalIndex": 1485,
         "lb1": {
@@ -102853,7 +102853,7 @@ window.allHeroes =
         "passives": [
             "增加增益持續時間：此英雄從特殊技能獲得的前 3 個增益效果的持續時間增加 1 回合。"
         ],
-        "family": "underwild",
+        "family": "abyss",
         "costume_id": 0,
         "originalIndex": 1486,
         "lb1": {
@@ -102929,7 +102929,7 @@ window.allHeroes =
         "passives": [
             "對加成生命值造成額外傷害：施放特殊技能後，所有盟友的普通攻擊和特殊技能對擁有加成生命值的目標造成 +70% 傷害，持續 4 回合。"
         ],
-        "family": "underwild",
+        "family": "abyss",
         "costume_id": 1,
         "originalIndex": 1487,
         "lb1": {
@@ -103348,7 +103348,7 @@ window.allHeroes =
             "抵禦法力減損：此角色對法力減損具有天生抗性。",
             "獲得狀態異常的法力：此角色在被施加狀態異常或負面效果疊加時，可獲得 5% 法力。"
         ],
-        "family": 2024,
+        "family": "hotm2024",
         "costume_id": 0,
         "originalIndex": 1493,
         "lb1": {
@@ -103594,7 +103594,7 @@ window.allHeroes =
         "health": null,
         "effects": [],
         "passives": [],
-        "family": "superelemental",
+        "family": "super_elemental",
         "costume_id": 0,
         "originalIndex": 1499,
         "cn_skill_info": []
@@ -103620,7 +103620,7 @@ window.allHeroes =
         "health": null,
         "effects": [],
         "passives": [],
-        "family": "astraldwarfs",
+        "family": "astral_dwarfs",
         "costume_id": 0,
         "originalIndex": 1500,
         "cn_skill_info": []
@@ -103646,7 +103646,7 @@ window.allHeroes =
         "health": null,
         "effects": [],
         "passives": [],
-        "family": "wildcat",
+        "family": "wild_cat",
         "costume_id": 0,
         "originalIndex": 1501,
         "cn_skill_info": []

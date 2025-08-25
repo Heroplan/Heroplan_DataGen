@@ -27185,12 +27185,12 @@
           "loot_ninja_tier_5"
         ],
         "blessingsSameChoiceLimit": {
-          "Common": 4,
-          "Rare": 2
+          "Rare": 2,
+          "Common": 4
         },
         "blessingsFrequencyPerRarity": {
-          "Common": 2,
-          "Rare": 6
+          "Rare": 6,
+          "Common": 2
         },
         "blessingsOptionsCount": 3,
         "energyType": "TowerEnergy"
@@ -29998,12 +29998,12 @@
           "loot_ninja_tier_5"
         ],
         "blessingsSameChoiceLimit": {
-          "Common": 4,
-          "Rare": 2
+          "Rare": 2,
+          "Common": 4
         },
         "blessingsFrequencyPerRarity": {
-          "Common": 2,
-          "Rare": 6
+          "Rare": 6,
+          "Common": 2
         },
         "blessingsOptionsCount": 3,
         "energyType": "TowerEnergy"
@@ -32722,12 +32722,12 @@
         "maxDifficultyMultiplierPerMil": 1000,
         "completionRewards": [],
         "blessingsSameChoiceLimit": {
-          "Common": 4,
-          "Rare": 2
+          "Rare": 2,
+          "Common": 4
         },
         "blessingsFrequencyPerRarity": {
-          "Common": 2,
-          "Rare": 6
+          "Rare": 6,
+          "Common": 2
         },
         "blessingsOptionsCount": 3,
         "questLineRequirement": "magic_normal",
@@ -34122,12 +34122,12 @@
         "maxDifficultyMultiplierPerMil": 1000,
         "completionRewards": [],
         "blessingsSameChoiceLimit": {
-          "Common": 4,
-          "Rare": 2
+          "Rare": 2,
+          "Common": 4
         },
         "blessingsFrequencyPerRarity": {
-          "Common": 2,
-          "Rare": 6
+          "Rare": 6,
+          "Common": 2
         },
         "blessingsOptionsCount": 3,
         "questLineRequirement": "ninja",
@@ -45472,12 +45472,12 @@
           "loot_ninja_tier_5"
         ],
         "blessingsSameChoiceLimit": {
-          "Common": 4,
-          "Rare": 0
+          "Rare": 0,
+          "Common": 4
         },
         "blessingsFrequencyPerRarity": {
-          "Common": 5,
-          "Rare": 0
+          "Rare": 0,
+          "Common": 5
         },
         "blessingsOptionsCount": 3,
         "energyType": "TowerEnergy"
@@ -46849,12 +46849,12 @@
           "styx_bombs_more"
         ],
         "blessingsSameChoiceLimit": {
-          "Common": 4,
-          "Rare": 0
+          "Rare": 0,
+          "Common": 4
         },
         "blessingsFrequencyPerRarity": {
-          "Common": 5,
-          "Rare": 0
+          "Rare": 0,
+          "Common": 5
         },
         "blessingsOptionsCount": 3,
         "questLineRequirement": "styx_normal",
@@ -71727,12 +71727,12 @@
           "challenge_event_easy"
         ],
         "blessingsSameChoiceLimit": {
-          "Common": 0,
-          "Rare": 0
+          "Rare": 0,
+          "Common": 0
         },
         "blessingsFrequencyPerRarity": {
-          "Common": 0,
-          "Rare": 0
+          "Rare": 0,
+          "Common": 0
         },
         "maxRareMonsterCountPerWave": 1,
         "energyType": "PveEnergy"
@@ -72266,12 +72266,12 @@
           "challenge_event_medium"
         ],
         "blessingsSameChoiceLimit": {
-          "Common": 0,
-          "Rare": 0
+          "Rare": 0,
+          "Common": 0
         },
         "blessingsFrequencyPerRarity": {
-          "Common": 0,
-          "Rare": 0
+          "Rare": 0,
+          "Common": 0
         },
         "maxRareMonsterCountPerWave": 1,
         "energyType": "PveEnergy"
@@ -72802,12 +72802,12 @@
           "challenge_event_hard"
         ],
         "blessingsSameChoiceLimit": {
-          "Common": 0,
-          "Rare": 0
+          "Rare": 0,
+          "Common": 0
         },
         "blessingsFrequencyPerRarity": {
-          "Common": 0,
-          "Rare": 0
+          "Rare": 0,
+          "Common": 0
         },
         "maxRareMonsterCountPerWave": 1,
         "energyType": "PveEnergy"
@@ -79872,12 +79872,12 @@
           "loot_ninja_tier_5"
         ],
         "blessingsSameChoiceLimit": {
-          "Common": 4,
-          "Rare": 2
+          "Rare": 2,
+          "Common": 4
         },
         "blessingsFrequencyPerRarity": {
-          "Common": 2,
-          "Rare": 6
+          "Rare": 6,
+          "Common": 2
         },
         "blessingsOptionsCount": 3,
         "energyType": "TowerEnergy"
@@ -81271,12 +81271,12 @@
         "maxDifficultyMultiplierPerMil": 1000,
         "completionRewards": [],
         "blessingsSameChoiceLimit": {
-          "Common": 4,
-          "Rare": 2
+          "Rare": 2,
+          "Common": 4
         },
         "blessingsFrequencyPerRarity": {
-          "Common": 2,
-          "Rare": 6
+          "Rare": 6,
+          "Common": 2
         },
         "blessingsOptionsCount": 3,
         "questLineRequirement": "owl_normal",
@@ -86024,12 +86024,12 @@
         "maxDifficultyMultiplierPerMil": 1100,
         "completionRewards": [],
         "blessingsSameChoiceLimit": {
-          "Common": 0,
-          "Rare": 0
+          "Rare": 0,
+          "Common": 0
         },
         "blessingsFrequencyPerRarity": {
-          "Common": 0,
-          "Rare": 0
+          "Rare": 0,
+          "Common": 0
         },
         "mode": "Dragon",
         "energyType": "PveDragonEnergy"
@@ -86359,12 +86359,12 @@
         "maxDifficultyMultiplierPerMil": 1100,
         "completionRewards": [],
         "blessingsSameChoiceLimit": {
-          "Common": 0,
-          "Rare": 0
+          "Rare": 0,
+          "Common": 0
         },
         "blessingsFrequencyPerRarity": {
-          "Common": 0,
-          "Rare": 0
+          "Rare": 0,
+          "Common": 0
         },
         "mode": "Dragon",
         "energyType": "PveDragonEnergy"
@@ -86837,12 +86837,12 @@
         "maxDifficultyMultiplierPerMil": 1100,
         "completionRewards": [],
         "blessingsSameChoiceLimit": {
-          "Common": 0,
-          "Rare": 0
+          "Rare": 0,
+          "Common": 0
         },
         "blessingsFrequencyPerRarity": {
-          "Common": 0,
-          "Rare": 0
+          "Rare": 0,
+          "Common": 0
         },
         "mode": "Dragon",
         "energyType": "PveDragonEnergy"
@@ -87178,12 +87178,12 @@
           "volcanic_stalactites"
         ],
         "blessingsSameChoiceLimit": {
-          "Common": 0,
-          "Rare": 0
+          "Rare": 0,
+          "Common": 0
         },
         "blessingsFrequencyPerRarity": {
-          "Common": 0,
-          "Rare": 0
+          "Rare": 0,
+          "Common": 0
         },
         "mode": "Dragon",
         "energyType": "PveDragonEnergy"
@@ -87519,12 +87519,12 @@
           "poisonous_stalactites"
         ],
         "blessingsSameChoiceLimit": {
-          "Common": 0,
-          "Rare": 0
+          "Rare": 0,
+          "Common": 0
         },
         "blessingsFrequencyPerRarity": {
-          "Common": 0,
-          "Rare": 0
+          "Rare": 0,
+          "Common": 0
         },
         "mode": "Dragon",
         "energyType": "PveDragonEnergy"
@@ -87860,12 +87860,12 @@
           "glacial_stalactites"
         ],
         "blessingsSameChoiceLimit": {
-          "Common": 0,
-          "Rare": 0
+          "Rare": 0,
+          "Common": 0
         },
         "blessingsFrequencyPerRarity": {
-          "Common": 0,
-          "Rare": 0
+          "Rare": 0,
+          "Common": 0
         },
         "mode": "Dragon",
         "energyType": "PveDragonEnergy"
@@ -88196,12 +88196,12 @@
           "unstable_stalactites_no_element"
         ],
         "blessingsSameChoiceLimit": {
-          "Common": 0,
-          "Rare": 0
+          "Rare": 0,
+          "Common": 0
         },
         "blessingsFrequencyPerRarity": {
-          "Common": 0,
-          "Rare": 0
+          "Rare": 0,
+          "Common": 0
         },
         "mode": "Dragon",
         "energyType": "PveDragonEnergy"
@@ -88537,12 +88537,12 @@
           "sacred_stalactites"
         ],
         "blessingsSameChoiceLimit": {
-          "Common": 0,
-          "Rare": 0
+          "Rare": 0,
+          "Common": 0
         },
         "blessingsFrequencyPerRarity": {
-          "Common": 0,
-          "Rare": 0
+          "Rare": 0,
+          "Common": 0
         },
         "mode": "Dragon",
         "energyType": "PveDragonEnergy"
@@ -88878,12 +88878,12 @@
           "shadow_stalactites"
         ],
         "blessingsSameChoiceLimit": {
-          "Common": 0,
-          "Rare": 0
+          "Rare": 0,
+          "Common": 0
         },
         "blessingsFrequencyPerRarity": {
-          "Common": 0,
-          "Rare": 0
+          "Rare": 0,
+          "Common": 0
         },
         "mode": "Dragon",
         "energyType": "PveDragonEnergy"
@@ -89219,12 +89219,12 @@
           "unstable_stalactites_no_element"
         ],
         "blessingsSameChoiceLimit": {
-          "Common": 0,
-          "Rare": 0
+          "Rare": 0,
+          "Common": 0
         },
         "blessingsFrequencyPerRarity": {
-          "Common": 0,
-          "Rare": 0
+          "Rare": 0,
+          "Common": 0
         },
         "mode": "Dragon",
         "energyType": "PveDragonEnergy"
@@ -89570,12 +89570,12 @@
           "unstable_stalactites_no_element"
         ],
         "blessingsSameChoiceLimit": {
-          "Common": 0,
-          "Rare": 0
+          "Rare": 0,
+          "Common": 0
         },
         "blessingsFrequencyPerRarity": {
-          "Common": 0,
-          "Rare": 0
+          "Rare": 0,
+          "Common": 0
         },
         "mode": "Dragon",
         "energyType": "PveDragonEnergy"
@@ -93136,12 +93136,12 @@
           "esoteric_winds"
         ],
         "blessingsSameChoiceLimit": {
-          "Common": 0,
-          "Rare": 0
+          "Rare": 0,
+          "Common": 0
         },
         "blessingsFrequencyPerRarity": {
-          "Common": 0,
-          "Rare": 0
+          "Rare": 0,
+          "Common": 0
         },
         "mode": "Dragon",
         "energyType": "PveDragonEnergy"
@@ -93926,12 +93926,12 @@
           "guestip1_troop_icon_override"
         ],
         "blessingsSameChoiceLimit": {
-          "Common": 0,
-          "Rare": 0
+          "Rare": 0,
+          "Common": 0
         },
         "blessingsFrequencyPerRarity": {
-          "Common": 0,
-          "Rare": 0
+          "Rare": 0,
+          "Common": 0
         },
         "battleItemsDisabled": true,
         "questBoosterProductId": "com.smallgiantgames.empires.guestip1_booster",

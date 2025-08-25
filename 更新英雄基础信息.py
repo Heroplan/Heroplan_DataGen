@@ -302,6 +302,7 @@ def main_sync_process():
             hero_extra['baseDefense'] = matched_char.get('baseDefense')
             hero_extra['baseHealth'] = matched_char.get('baseHealth')
             hero_extra['passiveSkills'] = matched_char.get('passiveSkills')
+            hero_extra['family'] = matched_char.get('family')
             
             if 'parentHeroId' in matched_char:
                 parent_hero_data = CHARACTERS_DATA['__raw__'].get(matched_char['parentHeroId'])

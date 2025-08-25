@@ -1,7 +1,7 @@
 window.families_bonus = [
     {
         "originalIndex": 0,
-        "name": "avalon",
+        "name": "knight",
         "bonus": [
             "Bonus for 2/3/4/5 Unique Heroes:",
             "+5%/+10%/+15%/+20% critical chance",
@@ -29,7 +29,7 @@ window.families_bonus = [
     },
     {
         "originalIndex": 3,
-        "name": "magiccarpet",
+        "name": "magic_carpet",
         "bonus": [
             "Heroes of this family have Flight Momentum.",
             " * Hero start with full Flight Momentum.",
@@ -51,7 +51,7 @@ window.families_bonus = [
     },
     {
         "originalIndex": 5,
-        "name": "outlaws",
+        "name": "outlaw",
         "bonus": [
             "Bonus for 1/2/3/ Heroes:",
             " * +50%/+60%/+70% Critical Chance.",
@@ -70,7 +70,7 @@ window.families_bonus = [
     },
     {
         "originalIndex": 7,
-        "name": "springvale",
+        "name": "easter",
         "bonus": [
             "Bonus for 2/3 Unique Heroes:",
             "+10%/+20% attack",
@@ -88,7 +88,7 @@ window.families_bonus = [
     },
     {
         "originalIndex": 9,
-        "name": "morlovia",
+        "name": "halloween",
         "bonus": [
             "Bonus for 1/2/3 Unique Heroes:",
             "+3%/+6%/+9% mana generation",
@@ -97,7 +97,7 @@ window.families_bonus = [
     },
     {
         "originalIndex": 10,
-        "name": "christmas",
+        "name": "winter",
         "bonus": [
             "Bonus for 2/3 Unique Heroes:",
             "+2%/ +3% health for Minions inherited from their summoner.",
@@ -142,7 +142,7 @@ window.families_bonus = [
     },
     {
         "originalIndex": 15,
-        "name": "2017",
+        "name": "hotm2017",
         "bonus": [
             "Bonus for 1/2/3:",
             "+5%/+10%/+15% mana generation.",
@@ -152,7 +152,7 @@ window.families_bonus = [
     },
     {
         "originalIndex": 16,
-        "name": "2018",
+        "name": "hotm2018",
         "bonus": [
             "Bonus for 1/2/3:",
             "+10%/+15%/+20% defense.",
@@ -162,7 +162,7 @@ window.families_bonus = [
     },
     {
         "originalIndex": 17,
-        "name": "2019",
+        "name": "hotm2019",
         "bonus": [
             "Bonus for 1/2/3:",
             "+10%/+15%/+20% attack.",
@@ -172,7 +172,7 @@ window.families_bonus = [
     },
     {
         "originalIndex": 18,
-        "name": "2020",
+        "name": "hotm2020",
         "bonus": [
             "Bonus for 1/2/3:",
             "+10%/+15%/+20% healing.",
@@ -182,7 +182,7 @@ window.families_bonus = [
     },
     {
         "originalIndex": 19,
-        "name": "2021",
+        "name": "hotm2021",
         "bonus": [
             "Bonus for 1/2/3:",
             "+10%/+15%/+20% critical chance.",
@@ -192,7 +192,7 @@ window.families_bonus = [
     },
     {
         "originalIndex": 20,
-        "name": "2022",
+        "name": "hotm2022",
         "bonus": [
             "Bonus for 1/2/3 Heroes:",
             "+10%/+15%/+20% attack.",
@@ -202,7 +202,7 @@ window.families_bonus = [
     },
     {
         "originalIndex": 21,
-        "name": "2023",
+        "name": "hotm2023",
         "bonus": [
             "Bonus for 1/2/3 Heroes:",
             "* +10%/+15%/+20% defense.",
@@ -212,7 +212,7 @@ window.families_bonus = [
     },
     {
         "originalIndex": 22,
-        "name": "2024",
+        "name": "hotm2024",
         "bonus": [
             "Bonus for 1/2/3 Heroes:",
             " * +10%/+15%/+20% healing.",
@@ -222,14 +222,14 @@ window.families_bonus = [
     },
     {
         "originalIndex": 23,
-        "name": "2025",
+        "name": "hotm2025",
         "bonus": [
             "Bonus will activate on January 1st, 2026"
         ]
     },
     {
         "originalIndex": 24,
-        "name": "sakura",
+        "name": "japanese",
         "bonus": [
             "Bonus for 1/2/3/4/5 Unique Heroes:",
             "+3%/+6%/+9%/+11/+13% mana generation"
@@ -245,7 +245,7 @@ window.families_bonus = [
     },
     {
         "originalIndex": 26,
-        "name": "grimforest",
+        "name": "fable",
         "bonus": [
             "Bonus for 2/3/4/5 Unique Heroes:",
             "+3%/+6%/+10%/+15% attack",
@@ -327,7 +327,7 @@ window.families_bonus = [
     },
     {
         "originalIndex": 36,
-        "name": "guardiansteltoc",
+        "name": "guardian",
         "bonus": [
             "Bonus for 2/3/4/5 Unique Heroes:",
             "+5%/+10%/+15%/+20% defense",
@@ -337,7 +337,7 @@ window.families_bonus = [
     },
     {
         "originalIndex": 37,
-        "name": "underwild",
+        "name": "abyss",
         "bonus": [
             "Bonus for 1/2/3/4/5 Unique Heroes:",
             "20%/24%/28%/32%/36% chance to spawn an Underwild Gem on the board when this Hero casts their Special Skill.",
@@ -427,14 +427,14 @@ window.families_bonus = [
         "originalIndex": 46,
         "name": "bard",
         "bonus": [
-            "Bard Family supports other families and realms.",
-            " * Solo Heroes get +5% mana generation. Team members are Solo Heroes if they have no family or realm members in the Team.",
+            "Bard Family grants a solo bonus for any Hero who is the only member of their family on the team:",
+            " * +5% mana generation.",
             "The members of this family have additional perks in the Challenge Festival events."
         ]
     },
     {
         "originalIndex": 47,
-        "name": "plainshunter",
+        "name": "plains_hunter",
         "bonus": [
             "Bonus for 2/3/4/5 Heroes:",
             "+5%/+10%/+15%/+20% attack.",
@@ -443,7 +443,7 @@ window.families_bonus = [
     },
     {
         "originalIndex": 48,
-        "name": "superelemental",
+        "name": "super_elemental",
         "bonus": [
             "One or more shields are enhanced to Power Gems each turn.",
             "The amount is the same as <<Hero element>> heroes in the team. 5 Power Gems per element can be on the board at the same time.",
@@ -452,7 +452,7 @@ window.families_bonus = [
     },
     {
         "originalIndex": 49,
-        "name": "pets",
+        "name": "mighty_pet",
         "bonus": [
             "Bonus for 1/2/3 Heroes:",
             "Fiends for this Hero absorb -2%/-3%/-4% less max health.",
@@ -485,7 +485,7 @@ window.families_bonus = [
     },
     {
         "originalIndex": 52,
-        "name": "starfall",
+        "name": "circus",
         "bonus": [
             "Bonus for 1/2/3 Heroes:",
             "50%/75%/100% chance to cleanse the Hero's most recent cleansable status ailment at the end of each turn.",
@@ -506,7 +506,7 @@ window.families_bonus = [
     },
     {
         "originalIndex": 54,
-        "name": "lunaryear",
+        "name": "zodiac",
         "bonus": [
             "Heroes become stronger when teamed with other unique Heroes of the same family.",
             "The Lunar Year family features different Lunar Year Animal Heroes. Each Lunar Year Animal grants different bonus to the members of the Lunar Year family when paired with at least 1 other Lunar Year Hero.",
@@ -543,7 +543,7 @@ window.families_bonus = [
     },
     {
         "originalIndex": 57,
-        "name": "junglehunter",
+        "name": "jungle_hunter",
         "bonus": [
             "Bonus for 2/3/4/5 Heroes:",
             " +5%/+10%/+15%/+20% HP.",
@@ -555,7 +555,7 @@ window.families_bonus = [
     },
     {
         "originalIndex": 58,
-        "name": "abysshunter",
+        "name": "abyss_hunter",
         "bonus": [
             "Bonus for 2/3/4/5 Heroes:",
             "+5%/+10%/+15%/+20% defense.",
@@ -564,7 +564,7 @@ window.families_bonus = [
     },
     {
         "originalIndex": 59,
-        "name": "defendersofatlantis",
+        "name": "tales1_goodies",
         "bonus": [
             "Bonus for 1/2 Unique Heroes:",
             "50%/75% chance to give all allies +36% attack for 3 turns after this character receives Special Skill damage. If the enemy’s Special Skill defeats this character, the chance is 75%/100%",
@@ -575,7 +575,7 @@ window.families_bonus = [
     },
     {
         "originalIndex": 60,
-        "name": "nightmaresofatlantis",
+        "name": "tales1_baddies",
         "bonus": [
             "Bonus for 1/2 Unique Heroes:",
             "50%/75% chance to cast -10% mana generation for 3 turns on an enemy who deals Special Skill damage to this character. If the enemy’s Special Skill defeats this character, the chance is 75%/100%.",
@@ -603,7 +603,7 @@ window.families_bonus = [
     },
     {
         "originalIndex": 63,
-        "name": "slayer",
+        "name": "slayers",
         "bonus": [
             "Bonus for 1/2/3 Heroes:",
             " * Stack (Max: 10): The caster recovers 15 HP each turn.",
@@ -663,7 +663,7 @@ window.families_bonus = [
     },
     {
         "originalIndex": 69,
-        "name": "astralelves",
+        "name": "astral_elves",
         "bonus": [
             "Bonus for 1/2 Unique Heroes:",
             "50% / 70% chance to dispel a random dispellable status effect buff from an enemy who deals Special Skill damage to this character."
@@ -697,7 +697,7 @@ window.families_bonus = [
     },
     {
         "originalIndex": 73,
-        "name": "garrisonguard",
+        "name": "garrison",
         "bonus": [
             "Bonus for 1 / 2 / 3 Heroes:",
             "At the start of the battle, summons a Recruit Guard Mega Minion with 20% / 25% / 30% HP and 100% / 120% / 140% attack inherited from this character."
@@ -741,7 +741,7 @@ window.families_bonus = [
     },
     {
         "originalIndex": 78,
-        "name": "woodlandfaun",
+        "name": "faun",
         "bonus": [
             "Bonus for 1 / 2 Heroes:",
             " * 75% / 100% chance to resist mana reductions and mana status ailments. Each succesful resist by this family gives this character 15% mana.",
@@ -776,7 +776,7 @@ window.families_bonus = [
     },
     {
         "originalIndex": 82,
-        "name": "astraldwarfs",
+        "name": "astrald_warfs",
         "bonus": [
             "Bonus for 1/2 Unique Heroes:",
             " * 25% / 50% chance to dispel a random dispellable status effect buff from all enemies at the end of each turn.",
@@ -785,7 +785,7 @@ window.families_bonus = [
     },
     {
         "originalIndex": 83,
-        "name": "moth",
+        "name": "moths",
         "bonus": [
             "Bonus for 1/2/3 Heroes:",
             "At the start of each turn, cast Moth Dust to a random enemy for 2/3/4 turns.",
@@ -798,7 +798,7 @@ window.families_bonus = [
     },
     {
         "originalIndex": 84,
-        "name": "wildcat",
+        "name": "wild_cat",
         "bonus": [
             "Bonus for 1/2/3 Unique Heroes:",
             "5%/10%/15% chance to dodge Special Skills.",

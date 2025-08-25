@@ -1,6 +1,5 @@
 {
   "otherConfig": {
-    "abCode": "ftue_energy_flow_active",
     "logic": {
       "dragonAscension": {
         "characterRecipes": [
@@ -3022,7 +3021,7 @@
           "featuredEntityRotation": [
             {
               "id": "festival_1",
-              "eventId": "挑战节 1",
+              "eventId": "Challenge Festival I",
               "featuredEntities": {
                 "heroes": [
                   "fables_cinderella",
@@ -3033,7 +3032,7 @@
             },
             {
               "id": "festival_2",
-              "eventId": "挑战节 1",
+              "eventId": "Challenge Festival I",
               "featuredEntities": {
                 "heroes": [
                   "fables_frog_prince",
@@ -3044,7 +3043,7 @@
             },
             {
               "id": "festvalB_1",
-              "eventId": "挑战节 2",
+              "eventId": "Challenge Festival II",
               "featuredEntities": {
                 "heroes": [
                   "bard_belladonna",
@@ -3055,7 +3054,7 @@
             },
             {
               "id": "festivalB_2",
-              "eventId": "挑战节 2",
+              "eventId": "Challenge Festival II",
               "featuredEntities": {
                 "heroes": [
                   "bard_celimene",
@@ -3066,7 +3065,7 @@
             },
             {
               "id": "mighty_pets_1",
-              "eventId": "超能萌宠",
+              "eventId": "Mighty Pets",
               "featuredEntities": {
                 "heroes": [
                   "mighty_pet_barkley",
@@ -3077,7 +3076,7 @@
             },
             {
               "id": "masquerade_1",
-              "eventId": "众神狂欢节",
+              "eventId": "Carnival of Gods",
               "featuredEntities": {
                 "heroes": [
                   "masquerade_aradia",
@@ -3088,7 +3087,7 @@
             },
             {
               "id": "masquerade_2",
-              "eventId": "众神狂欢节",
+              "eventId": "Carnival of Gods",
               "featuredEntities": {
                 "heroes": [
                   "masquerade_carmenta",
@@ -3099,7 +3098,7 @@
             },
             {
               "id": "masquerade_3",
-              "eventId": "众神狂欢节",
+              "eventId": "Carnival of Gods",
               "featuredEntities": {
                 "heroes": [
                   "masquerade_aradia",
@@ -3110,7 +3109,7 @@
             },
             {
               "id": "masquerade_4",
-              "eventId": "众神狂欢节",
+              "eventId": "Carnival of Gods",
               "featuredEntities": {
                 "heroes": [
                   "masquerade_februus",
@@ -3121,7 +3120,7 @@
             },
             {
               "id": "festival_3",
-              "eventId": "挑战节 1",
+              "eventId": "Challenge Festival I",
               "featuredEntities": {
                 "heroes": [
                   "wonderland_tweedles",
@@ -3132,7 +3131,7 @@
             },
             {
               "id": "opera_1",
-              "eventId": "歌剧之谜",
+              "eventId": "Secrets of the Opera",
               "featuredEntities": {
                 "heroes": [
                   "ballerina_prince_siegfried",
@@ -3143,7 +3142,7 @@
             },
             {
               "id": "festival_4",
-              "eventId": "挑战节 1",
+              "eventId": "Challenge Festival I",
               "featuredEntities": {
                 "heroes": [
                   "pirate_boatswain",
@@ -3154,7 +3153,7 @@
             },
             {
               "id": "opera_2",
-              "eventId": "歌剧之谜",
+              "eventId": "Secrets of the Opera",
               "featuredEntities": {
                 "heroes": [
                   "ballerina_christine_daae",
@@ -3165,7 +3164,7 @@
             },
             {
               "id": "festival_5",
-              "eventId": "挑战节 1",
+              "eventId": "Challenge Festival I",
               "featuredEntities": {
                 "heroes": [
                   "wonderland_knave_of_hearts",
@@ -3176,7 +3175,7 @@
             },
             {
               "id": "gargoyles2_1",
-              "eventId": "重返圣所",
+              "eventId": "Return to Sanctuary",
               "featuredEntities": {
                 "heroes": [
                   "gargoyle_garten",
@@ -3187,7 +3186,7 @@
             },
             {
               "id": "beowulf_1",
-              "eventId": "贝奥武夫挑战",
+              "eventId": "Beowulf's Challenge",
               "featuredEntities": {
                 "heroes": [
                   "beowulf_beowulf",
@@ -3235,7 +3234,7 @@
           "featuredEntityRotation": [
             {
               "id": "musketeer1",
-              "eventId": "英勇火枪手",
+              "eventId": "Brave Musketeers",
               "featuredEntities": {
                 "heroes": [
                   "musketeer_constance",
@@ -3246,7 +3245,7 @@
             },
             {
               "id": "musketeer2",
-              "eventId": "英勇火枪手",
+              "eventId": "Brave Musketeers",
               "featuredEntities": {
                 "heroes": [
                   "musketeer_cardinal_richelieu",
@@ -3257,7 +3256,7 @@
             },
             {
               "id": "castle1",
-              "eventId": "骑士冲击",
+              "eventId": "Clash of Knights",
               "featuredEntities": {
                 "heroes": [
                   "castle_stag_xiamara",
@@ -3268,7 +3267,7 @@
             },
             {
               "id": "castle2",
-              "eventId": "骑士冲击",
+              "eventId": "Clash of Knights",
               "featuredEntities": {
                 "heroes": [
                   "castle_stag_cecilia",
@@ -3279,7 +3278,7 @@
             },
             {
               "id": "moth1",
-              "eventId": "飞蛾之夜",
+              "eventId": "Night of the Moth",
               "featuredEntities": {
                 "heroes": [
                   "moth_mortewitch",
@@ -3290,7 +3289,7 @@
             },
             {
               "id": "moth2",
-              "eventId": "飞蛾之夜",
+              "eventId": "Night of the Moth",
               "featuredEntities": {
                 "heroes": [
                   "moth_mortewitch",
@@ -3407,7 +3406,7 @@
           "featuredFamiliesRotation": [
             {
               "id": "alpha_1",
-              "eventId": "宝藏任务",
+              "eventId": "Treasure Quest",
               "families": [
                 "米德加德王国",
                 "约顿海姆王国",
@@ -3418,7 +3417,7 @@
             },
             {
               "id": "alpha_2",
-              "eventId": "宝藏任务",
+              "eventId": "Treasure Quest",
               "families": [
                 "穆斯贝尔海姆王国",
                 "艾尔夫海姆王国",
@@ -3429,7 +3428,7 @@
             },
             {
               "id": "alpha_3",
-              "eventId": "宝藏任务",
+              "eventId": "Treasure Quest",
               "families": [
                 "月亮家族",
                 "太阳家族",
@@ -3439,7 +3438,7 @@
             },
             {
               "id": "alpha_4",
-              "eventId": "宝藏任务",
+              "eventId": "Treasure Quest",
               "families": [
                 "超级元素人家族",
                 "魔法家族",
@@ -3448,7 +3447,7 @@
             },
             {
               "id": "alpha_5",
-              "eventId": "宝藏任务",
+              "eventId": "Treasure Quest",
               "families": [
                 "三国家族",
                 "西游家族"
@@ -3456,7 +3455,7 @@
             },
             {
               "id": "alpha_6",
-              "eventId": "宝藏任务",
+              "eventId": "Treasure Quest",
               "families": [
                 "莫洛维亚家族",
                 "冬日家族",
@@ -3465,7 +3464,7 @@
             },
             {
               "id": "alpha_7",
-              "eventId": "宝藏任务",
+              "eventId": "Treasure Quest",
               "families": [
                 "火枪手家族",
                 "海盗家族",
@@ -3476,7 +3475,7 @@
             },
             {
               "id": "alpha_8",
-              "eventId": "宝藏任务",
+              "eventId": "Treasure Quest",
               "families": [
                 "阿瓦隆家族",
                 "肃煞森林家族",
@@ -3485,7 +3484,7 @@
             },
             {
               "id": "alpha_9",
-              "eventId": "宝藏任务",
+              "eventId": "Treasure Quest",
               "families": [
                 "亚特兰蒂斯家族",
                 "亚特兰蒂斯梦魇家族",
@@ -3494,7 +3493,7 @@
             },
             {
               "id": "alpha_10",
-              "eventId": "宝藏任务",
+              "eventId": "Treasure Quest",
               "families": [
                 "恶狼家族",
                 "猫头鹰家族",
@@ -3504,7 +3503,7 @@
             },
             {
               "id": "alpha_11",
-              "eventId": "宝藏任务",
+              "eventId": "Treasure Quest",
               "families": [
                 "野熊家族",
                 "雄鹿家族",
@@ -3514,14 +3513,14 @@
             },
             {
               "id": "alpha_12",
-              "eventId": "宝藏任务",
+              "eventId": "Treasure Quest",
               "families": [
                 "经典家族"
               ]
             },
             {
               "id": "alpha_13",
-              "eventId": "宝藏任务",
+              "eventId": "Treasure Quest",
               "families": [
                 "hotm2017",
                 "hotm2018",
@@ -79866,5 +79865,5 @@
     "criticalOperationPendingDelaySeconds": 3,
     "allowedCriticalOperationPendingCount": 3
   },
-  "otherConfigId": 3159712639
+  "otherConfigId": 3553540399
 }
