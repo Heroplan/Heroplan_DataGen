@@ -35864,5 +35864,55 @@ window.allHeroesExtra = [
             "revive_chance_nine_lives"
         ],
         "family": "wild_cat"
+    },
+    {
+        "name": "Bryggvir",
+        "fancy name": "Dwarven Goat Rider",
+        "element": "Blue",
+        "rarity": 3,
+        "Release date": "2025-08-26",
+        "AetherPower": "Dodge",
+        "skill_types": [
+            "AoE Attackers (Hit-3)",
+            "Bypassers",
+            "Extra Damage Dealers",
+            "Mana Raisers",
+            "DoT Attackers",
+            "Debuffers (ATK)"
+        ],
+        "heroId": "tales2_bryggvir",
+        "baseAttack": 328,
+        "baseDefense": 318,
+        "baseHealth": 397,
+        "specialId": "goat_rush",
+        "passiveSkills": [
+            "arctic_core",
+            "resist_frost_with_health_boost_and_mana"
+        ],
+        "family": "myrkheim"
+    },
+    {
+        "name": "Svafa",
+        "fancy name": "Dwarven Big Game Hunter",
+        "element": "Blue",
+        "rarity": 5,
+        "Release date": "2025-08-26",
+        "AetherPower": "Dodge",
+        "skill_types": [
+            "AoE Attackers (Hit-3)",
+            "Bypassers",
+            "Extra Damage Dealers",
+            "Debuffers (ATK)"
+        ],
+        "heroId": "tales2_svafa",
+        "baseAttack": 623,
+        "baseDefense": 591,
+        "baseHealth": 1097,
+        "specialId": "hunters_true_shot",
+        "passiveSkills": [
+            "arctic_core",
+            "resist_frost_with_health_boost_and_mana"
+        ],
+        "family": "myrkheim"
     }
 ];

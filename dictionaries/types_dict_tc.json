@@ -864,5 +864,7 @@
     "Mana Reduction if caster Defeat 4": "若施法者被擊敗則降低4個目標的法力",
     "Mana Debuff Immunity All": "全體法力減益免疫",
     "Resist SS blocking All": "全體抵抗特殊技能格擋",
-    "Max Health Reduction on Defeat": "被擊敗時降低最大生命值"
+    "Max Health Reduction on Defeat": "被擊敗時降低最大生命值",
+    "Mana Increase 3": "3個目標法力增加",
+    "Mark of Bleed 3": "3個目標流血印記"
 }

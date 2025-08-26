@@ -29,6 +29,7 @@ SPECIAL_TIMESTAMP_KEYS = (
     "canBeAscendedToDate",
     "earliestLaunchDate",
     "activationTime",
+    "latestIncludedNonEventHeroDate"
 )
 SPECIAL_BOOLEAN_TRUE_KEYS = (
     "hasImprovedTalentSkill",

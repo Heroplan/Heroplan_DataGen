@@ -35822,7 +35822,14 @@ window.allHeroesExtra = [
         "rarity": 5,
         "Release date": "2025-08-24",
         "AetherPower": "Damage Reduction",
-        "skill_types": [],
+        "skill_types": [
+            "Snipers",
+            "Extra Damage Dealers",
+            "Ability Scores Modifiers",
+            "Mana Generation Buffers",
+            "Bypassers",
+            "Minions Counters"
+        ],
         "heroId": "astral_dwarf_hygil",
         "baseAttack": 583,
         "baseDefense": 639,
@@ -35842,7 +35849,11 @@ window.allHeroesExtra = [
         "rarity": 5,
         "Release date": "2025-08-23",
         "AetherPower": "Fiend Resist",
-        "skill_types": [],
+        "skill_types": [
+            "AoE Attackers (Hit-5)",
+            "DoT Attackers",
+            "Max Health Reducers"
+        ],
         "heroId": "wild_cat_stravia",
         "baseAttack": 664,
         "baseDefense": 563,
@@ -35853,5 +35864,43 @@ window.allHeroesExtra = [
             "revive_chance_nine_lives"
         ],
         "family": "wild_cat"
+    },
+    {
+        "name": "Bryggvir",
+        "fancy name": "Dwarven Goat Rider",
+        "element": "Blue",
+        "rarity": 3,
+        "Release date": "2025-08-26",
+        "AetherPower": "Dodge",
+        "skill_types": [],
+        "heroId": "tales2_bryggvir",
+        "baseAttack": 328,
+        "baseDefense": 318,
+        "baseHealth": 397,
+        "specialId": "goat_rush",
+        "passiveSkills": [
+            "arctic_core",
+            "resist_frost_with_health_boost_and_mana"
+        ],
+        "family": "myrkheim"
+    },
+    {
+        "name": "Svafa",
+        "fancy name": "Dwarven Big Game Hunter",
+        "element": "Blue",
+        "rarity": 5,
+        "Release date": "2025-08-26",
+        "AetherPower": "Dodge",
+        "skill_types": [],
+        "heroId": "tales2_svafa",
+        "baseAttack": 623,
+        "baseDefense": 591,
+        "baseHealth": 1097,
+        "specialId": "hunters_true_shot",
+        "passiveSkills": [
+            "arctic_core",
+            "resist_frost_with_health_boost_and_mana"
+        ],
+        "family": "myrkheim"
     }
 ];

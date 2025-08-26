@@ -99,17 +99,6 @@
         "Lottery_Only":1
     },
     {
-        "name": "Svafa",
-        "fancy_name": "Dwarven Big Game Hunter",
-        "color": "Blue",
-        "Release date": "",
-        "star": 5,
-        "family": "myrkheim",
-        "costume_id": 0,
-        "heroId": "tales2_svafa",
-        "Lottery_Only":1
-    },
-    {
         "name": "Griffex C1",
         "fancy_name": "Modifier of Obscura",
         "color": "Purple",
