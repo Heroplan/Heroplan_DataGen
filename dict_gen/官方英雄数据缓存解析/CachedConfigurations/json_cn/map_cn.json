@@ -81174,7 +81174,7 @@
             "provinceId": "dragon_s1_province_16",
             "energyCost": 5,
             "commonMonstersLevel": 106,
-            "monsterAttackModifierPerMil": 216,
+            "monsterAttackModifierPerMil": 226,
             "commonMonstersLevelDeviation": 2,
             "randomizedMonsterIds": [
               "dragon_small_rose_dragon_blue",
@@ -81229,7 +81229,7 @@
             "provinceId": "dragon_s1_province_16",
             "energyCost": 5,
             "commonMonstersLevel": 107,
-            "monsterAttackModifierPerMil": 216,
+            "monsterAttackModifierPerMil": 236,
             "commonMonstersLevelDeviation": 2,
             "randomizedMonsterIds": [
               "dragon_small_rose_dragon_green",
@@ -81284,7 +81284,7 @@
             "provinceId": "dragon_s1_province_16",
             "energyCost": 5,
             "commonMonstersLevel": 107,
-            "monsterAttackModifierPerMil": 216,
+            "monsterAttackModifierPerMil": 246,
             "commonMonstersLevelDeviation": 2,
             "randomizedMonsterIds": [
               "dragon_small_rose_dragon_yellow",
@@ -81339,7 +81339,6 @@
             "provinceId": "dragon_s1_province_16",
             "energyCost": 5,
             "commonMonstersLevel": 108,
-            "monsterAttackModifierPerMil": 216,
             "commonMonstersLevelDeviation": 2,
             "randomizedMonsterIds": [
               "dragon_small_rose_dragon",
@@ -81394,7 +81393,6 @@
             "provinceId": "dragon_s1_province_16",
             "energyCost": 5,
             "commonMonstersLevel": 108,
-            "monsterAttackModifierPerMil": 216,
             "commonMonstersLevelDeviation": 2,
             "randomizedMonsterIds": [
               "dragon_small_rose_dragon_purple",
@@ -81449,7 +81447,7 @@
             "provinceId": "dragon_s1_province_16",
             "energyCost": 5,
             "commonMonstersLevel": 109,
-            "monsterAttackModifierPerMil": 216,
+            "monsterAttackModifierPerMil": 10,
             "commonMonstersLevelDeviation": 2,
             "randomizedMonsterIds": [
               "dragon_small_rose_dragon",
@@ -81504,7 +81502,7 @@
             "provinceId": "dragon_s1_province_16",
             "energyCost": 5,
             "commonMonstersLevel": 109,
-            "monsterAttackModifierPerMil": 216,
+            "monsterAttackModifierPerMil": 10,
             "commonMonstersLevelDeviation": 2,
             "randomizedMonsterIds": [
               "dragon_small_rose_dragon_green",
@@ -81559,7 +81557,7 @@
             "provinceId": "dragon_s1_province_16",
             "energyCost": 5,
             "commonMonstersLevel": 110,
-            "monsterAttackModifierPerMil": 20,
+            "monsterAttackModifierPerMil": 70,
             "commonMonstersLevelDeviation": 2,
             "randomizedMonsterIds": [
               "dragon_small_rose_dragon_blue",
@@ -81605,7 +81603,7 @@
             "provinceId": "dragon_s1_province_16",
             "energyCost": 5,
             "commonMonstersLevel": 110,
-            "monsterAttackModifierPerMil": 20,
+            "monsterAttackModifierPerMil": 70,
             "commonMonstersLevelDeviation": 2,
             "randomizedMonsterIds": [
               "dragon_small_rose_dragon_purple",
@@ -81681,6 +81679,7 @@
             "provinceId": "dragon_s1_province_17",
             "energyCost": 5,
             "commonMonstersLevel": 110,
+            "monsterAttackModifierPerMil": 65396,
             "commonMonstersLevelDeviation": 2,
             "randomizedMonsterIds": [
               "dragon_small_hare_blue",
@@ -81714,7 +81713,7 @@
             "recruitsReward": 12,
             "xpReward": 1950,
             "specificLevelPropertyIds": [
-              "chilling_mist"
+              "chilling_mist_2"
             ],
             "hmEnergyCost": 10,
             "hmCommonMonstersLevel": 105,
@@ -81728,7 +81727,7 @@
             "provinceId": "dragon_s1_province_17",
             "energyCost": 5,
             "commonMonstersLevel": 110,
-            "monsterAttackModifierPerMil": 20,
+            "monsterAttackModifierPerMil": 146,
             "commonMonstersLevelDeviation": 2,
             "randomizedMonsterIds": [
               "dragon_small_hare_blue",
@@ -81762,7 +81761,7 @@
             "recruitsReward": 12,
             "xpReward": 1950,
             "specificLevelPropertyIds": [
-              "chilling_mist"
+              "chilling_mist_2"
             ],
             "hmEnergyCost": 10,
             "hmCommonMonstersLevel": 105,
@@ -81776,7 +81775,7 @@
             "provinceId": "dragon_s1_province_17",
             "energyCost": 5,
             "commonMonstersLevel": 110,
-            "monsterAttackModifierPerMil": 20,
+            "monsterAttackModifierPerMil": 166,
             "commonMonstersLevelDeviation": 2,
             "randomizedMonsterIds": [
               "dragon_small_hare_blue",
@@ -81810,7 +81809,7 @@
             "recruitsReward": 12,
             "xpReward": 1950,
             "specificLevelPropertyIds": [
-              "chilling_mist"
+              "chilling_mist_2"
             ],
             "hmEnergyCost": 10,
             "hmCommonMonstersLevel": 105,
@@ -81824,7 +81823,7 @@
             "provinceId": "dragon_s1_province_17",
             "energyCost": 5,
             "commonMonstersLevel": 111,
-            "monsterAttackModifierPerMil": 20,
+            "monsterAttackModifierPerMil": 186,
             "commonMonstersLevelDeviation": 2,
             "randomizedMonsterIds": [
               "dragon_small_hare_blue",
@@ -81858,7 +81857,7 @@
             "recruitsReward": 12,
             "xpReward": 1950,
             "specificLevelPropertyIds": [
-              "chilling_mist"
+              "chilling_mist_2"
             ],
             "hmEnergyCost": 10,
             "hmCommonMonstersLevel": 105,
@@ -81872,7 +81871,7 @@
             "provinceId": "dragon_s1_province_17",
             "energyCost": 5,
             "commonMonstersLevel": 111,
-            "monsterAttackModifierPerMil": 20,
+            "monsterAttackModifierPerMil": 186,
             "commonMonstersLevelDeviation": 2,
             "randomizedMonsterIds": [
               "dragon_small_hare_blue",
@@ -81906,7 +81905,7 @@
             "recruitsReward": 12,
             "xpReward": 1950,
             "specificLevelPropertyIds": [
-              "chilling_mist"
+              "chilling_mist_2"
             ],
             "hmEnergyCost": 10,
             "hmCommonMonstersLevel": 105,
@@ -81920,7 +81919,7 @@
             "provinceId": "dragon_s1_province_17",
             "energyCost": 5,
             "commonMonstersLevel": 112,
-            "monsterAttackModifierPerMil": 20,
+            "monsterAttackModifierPerMil": 196,
             "commonMonstersLevelDeviation": 2,
             "randomizedMonsterIds": [
               "dragon_small_hare_blue",
@@ -81954,7 +81953,7 @@
             "recruitsReward": 12,
             "xpReward": 1950,
             "specificLevelPropertyIds": [
-              "chilling_mist"
+              "chilling_mist_2"
             ],
             "hmEnergyCost": 10,
             "hmCommonMonstersLevel": 105,
@@ -81968,7 +81967,7 @@
             "provinceId": "dragon_s1_province_17",
             "energyCost": 5,
             "commonMonstersLevel": 112,
-            "monsterAttackModifierPerMil": 20,
+            "monsterAttackModifierPerMil": 206,
             "commonMonstersLevelDeviation": 2,
             "randomizedMonsterIds": [
               "dragon_small_hare_blue",
@@ -82002,7 +82001,7 @@
             "recruitsReward": 12,
             "xpReward": 1950,
             "specificLevelPropertyIds": [
-              "chilling_mist"
+              "chilling_mist_2"
             ],
             "hmEnergyCost": 10,
             "hmCommonMonstersLevel": 105,
@@ -82016,7 +82015,7 @@
             "provinceId": "dragon_s1_province_17",
             "energyCost": 5,
             "commonMonstersLevel": 112,
-            "monsterAttackModifierPerMil": 30,
+            "monsterAttackModifierPerMil": 216,
             "commonMonstersLevelDeviation": 2,
             "randomizedMonsterIds": [
               "dragon_small_hare_blue",
@@ -82050,7 +82049,7 @@
             "recruitsReward": 12,
             "xpReward": 1950,
             "specificLevelPropertyIds": [
-              "chilling_mist"
+              "chilling_mist_2"
             ],
             "hmEnergyCost": 10,
             "hmCommonMonstersLevel": 105,
@@ -82064,7 +82063,7 @@
             "provinceId": "dragon_s1_province_17",
             "energyCost": 5,
             "commonMonstersLevel": 113,
-            "monsterAttackModifierPerMil": 40,
+            "monsterAttackModifierPerMil": 228,
             "commonMonstersLevelDeviation": 2,
             "randomizedMonsterIds": [
               "dragon_small_hare_blue",
@@ -82095,7 +82094,7 @@
             "recruitsReward": 12,
             "xpReward": 1950,
             "specificLevelPropertyIds": [
-              "chilling_mist"
+              "chilling_mist_2"
             ],
             "hmEnergyCost": 10,
             "hmCommonMonstersLevel": 105,
@@ -82109,7 +82108,7 @@
             "provinceId": "dragon_s1_province_17",
             "energyCost": 5,
             "commonMonstersLevel": 113,
-            "monsterAttackModifierPerMil": 40,
+            "monsterAttackModifierPerMil": 236,
             "commonMonstersLevelDeviation": 2,
             "randomizedMonsterIds": [
               "dragon_small_hare_blue",
@@ -82140,7 +82139,7 @@
             "recruitsReward": 12,
             "xpReward": 1950,
             "specificLevelPropertyIds": [
-              "chilling_mist"
+              "chilling_mist_2"
             ],
             "hmEnergyCost": 10,
             "hmCommonMonstersLevel": 105,
@@ -82170,7 +82169,7 @@
             "xpReward": 1950,
             "outpostTeamPower": 46000,
             "specificLevelPropertyIds": [
-              "chilling_mist"
+              "chilling_mist_2"
             ],
             "hmEnergyCost": 10,
             "hmCommonMonstersLevel": 105,
@@ -82183,8 +82182,8 @@
           {
             "provinceId": "dragon_s1_province_18",
             "energyCost": 5,
-            "commonMonstersLevel": 114,
-            "monsterAttackModifierPerMil": 150,
+            "commonMonstersLevel": 126,
+            "monsterAttackModifierPerMil": 15,
             "commonMonstersLevelDeviation": 2,
             "randomizedMonsterIds": [
               "dragon_small_mouse_yellow",
@@ -82219,7 +82218,7 @@
             "xpReward": 2000,
             "specificLevelPropertyIds": [
               "duskfall",
-              "lightning_storm"
+              "lightning_storm_2"
             ],
             "hmEnergyCost": 10,
             "hmCommonMonstersLevel": 105,
@@ -82232,8 +82231,8 @@
           {
             "provinceId": "dragon_s1_province_18",
             "energyCost": 5,
-            "commonMonstersLevel": 114,
-            "monsterAttackModifierPerMil": 150,
+            "commonMonstersLevel": 127,
+            "monsterAttackModifierPerMil": 20,
             "commonMonstersLevelDeviation": 2,
             "randomizedMonsterIds": [
               "dragon_small_mouse_yellow",
@@ -82268,7 +82267,7 @@
             "xpReward": 2000,
             "specificLevelPropertyIds": [
               "duskfall",
-              "lightning_storm"
+              "lightning_storm_2"
             ],
             "hmEnergyCost": 10,
             "hmCommonMonstersLevel": 105,
@@ -82281,8 +82280,8 @@
           {
             "provinceId": "dragon_s1_province_18",
             "energyCost": 5,
-            "commonMonstersLevel": 115,
-            "monsterAttackModifierPerMil": 150,
+            "commonMonstersLevel": 127,
+            "monsterAttackModifierPerMil": 12,
             "commonMonstersLevelDeviation": 2,
             "randomizedMonsterIds": [
               "dragon_small_mouse_yellow",
@@ -82317,7 +82316,7 @@
             "xpReward": 2000,
             "specificLevelPropertyIds": [
               "duskfall",
-              "lightning_storm"
+              "lightning_storm_2"
             ],
             "hmEnergyCost": 10,
             "hmCommonMonstersLevel": 105,
@@ -82330,8 +82329,8 @@
           {
             "provinceId": "dragon_s1_province_18",
             "energyCost": 5,
-            "commonMonstersLevel": 115,
-            "monsterAttackModifierPerMil": 150,
+            "commonMonstersLevel": 128,
+            "monsterAttackModifierPerMil": 15,
             "commonMonstersLevelDeviation": 2,
             "randomizedMonsterIds": [
               "dragon_small_mouse_yellow",
@@ -82366,7 +82365,7 @@
             "xpReward": 2000,
             "specificLevelPropertyIds": [
               "duskfall",
-              "lightning_storm"
+              "lightning_storm_2"
             ],
             "hmEnergyCost": 10,
             "hmCommonMonstersLevel": 105,
@@ -82379,8 +82378,7 @@
           {
             "provinceId": "dragon_s1_province_18",
             "energyCost": 5,
-            "commonMonstersLevel": 116,
-            "monsterAttackModifierPerMil": 150,
+            "commonMonstersLevel": 129,
             "commonMonstersLevelDeviation": 2,
             "randomizedMonsterIds": [
               "dragon_small_mouse_yellow",
@@ -82415,7 +82413,7 @@
             "xpReward": 2000,
             "specificLevelPropertyIds": [
               "duskfall",
-              "lightning_storm"
+              "lightning_storm_2"
             ],
             "hmEnergyCost": 10,
             "hmCommonMonstersLevel": 105,
@@ -82428,8 +82426,8 @@
           {
             "provinceId": "dragon_s1_province_18",
             "energyCost": 5,
-            "commonMonstersLevel": 116,
-            "monsterAttackModifierPerMil": 150,
+            "commonMonstersLevel": 130,
+            "monsterAttackModifierPerMil": 10,
             "commonMonstersLevelDeviation": 2,
             "randomizedMonsterIds": [
               "dragon_small_mouse_yellow",
@@ -82464,7 +82462,7 @@
             "xpReward": 2000,
             "specificLevelPropertyIds": [
               "duskfall",
-              "lightning_storm"
+              "lightning_storm_2"
             ],
             "hmEnergyCost": 10,
             "hmCommonMonstersLevel": 105,
@@ -82477,8 +82475,7 @@
           {
             "provinceId": "dragon_s1_province_18",
             "energyCost": 5,
-            "commonMonstersLevel": 117,
-            "monsterAttackModifierPerMil": 150,
+            "commonMonstersLevel": 130,
             "commonMonstersLevelDeviation": 2,
             "randomizedMonsterIds": [
               "dragon_small_mouse_yellow",
@@ -82513,7 +82510,7 @@
             "xpReward": 2000,
             "specificLevelPropertyIds": [
               "duskfall",
-              "lightning_storm"
+              "lightning_storm_2"
             ],
             "hmEnergyCost": 10,
             "hmCommonMonstersLevel": 105,
@@ -82526,8 +82523,8 @@
           {
             "provinceId": "dragon_s1_province_18",
             "energyCost": 5,
-            "commonMonstersLevel": 117,
-            "monsterAttackModifierPerMil": 150,
+            "commonMonstersLevel": 130,
+            "monsterAttackModifierPerMil": 13,
             "commonMonstersLevelDeviation": 2,
             "randomizedMonsterIds": [
               "dragon_small_mouse_yellow",
@@ -82562,7 +82559,7 @@
             "xpReward": 2000,
             "specificLevelPropertyIds": [
               "duskfall",
-              "lightning_storm"
+              "lightning_storm_2"
             ],
             "hmEnergyCost": 10,
             "hmCommonMonstersLevel": 105,
@@ -82575,8 +82572,7 @@
           {
             "provinceId": "dragon_s1_province_18",
             "energyCost": 5,
-            "commonMonstersLevel": 118,
-            "monsterAttackModifierPerMil": 150,
+            "commonMonstersLevel": 131,
             "commonMonstersLevelDeviation": 2,
             "randomizedMonsterIds": [
               "dragon_small_mouse_yellow",
@@ -82608,7 +82604,7 @@
             "xpReward": 2000,
             "specificLevelPropertyIds": [
               "duskfall",
-              "lightning_storm"
+              "lightning_storm_2"
             ],
             "hmEnergyCost": 10,
             "hmCommonMonstersLevel": 105,
@@ -82621,7 +82617,8 @@
           {
             "provinceId": "dragon_s1_province_18",
             "energyCost": 5,
-            "commonMonstersLevel": 118,
+            "commonMonstersLevel": 131,
+            "monsterAttackModifierPerMil": 65406,
             "commonMonstersLevelDeviation": 2,
             "randomizedMonsterIds": [
               "dragon_small_mouse_yellow",
@@ -82670,7 +82667,7 @@
             "xpReward": 2000,
             "specificLevelPropertyIds": [
               "duskfall",
-              "lightning_storm",
+              "lightning_storm_2",
               "ultimate_boss_dragon"
             ],
             "hmEnergyCost": 10,
@@ -82684,7 +82681,7 @@
           {
             "provinceId": "dragon_s1_province_18",
             "energyCost": 5,
-            "commonMonstersLevel": 118,
+            "commonMonstersLevel": 131,
             "commonMonstersLevelDeviation": 2,
             "randomizedMonsterIds": [],
             "randomizedMonsterWaveFormationIds": [
@@ -82702,7 +82699,7 @@
             "outpostTeamPower": 48000,
             "specificLevelPropertyIds": [
               "duskfall",
-              "lightning_storm"
+              "lightning_storm_2"
             ],
             "hmEnergyCost": 10,
             "hmCommonMonstersLevel": 105,
@@ -93514,6 +93511,8 @@
               "super_underwater_match_effects",
               "tales1_deadly_heal",
               "tales1_deadly_effect",
+              "villains",
+              "s5_enemy_passive5",
               "extra_event_difficulty_1"
             ],
             "hmFoodReward": 4930,
@@ -93858,6 +93857,8 @@
               "super_underwater_match_effects",
               "tales1_deadly_heal",
               "tales1_deadly_effect",
+              "villains_more",
+              "s5_enemy_passive5",
               "extra_event_difficulty_2"
             ],
             "hmEnergyCost": 10,
@@ -94206,6 +94207,8 @@
               "super_underwater_match_effects",
               "tales1_deadly_heal",
               "tales1_deadly_effect",
+              "villains_more_more",
+              "s5_enemy_passive5",
               "extra_event_difficulty_3"
             ],
             "hmEnergyCost": 10,
@@ -95845,27 +95848,27 @@
         "deadlyModeUnlocksConfigs": [
           {
             "deadlyModeProvinceToUnlock": "tales1_chapter_01_deadlymode",
-            "unlockDate": 792583200
+            "unlockDate": "2025-02-11 10:00:00"
           },
           {
             "deadlyModeProvinceToUnlock": "tales1_chapter_02_deadlymode",
-            "unlockDate": 794138400
+            "unlockDate": "2200-01-01 10:00:00"
           },
           {
             "deadlyModeProvinceToUnlock": "tales1_chapter_03_deadlymode",
-            "unlockDate": 794138400
+            "unlockDate": "2200-01-01 10:00:00"
           },
           {
             "deadlyModeProvinceToUnlock": "tales1_chapter_04_deadlymode",
-            "unlockDate": 794138400
+            "unlockDate": "2200-01-01 10:00:00"
           },
           {
             "deadlyModeProvinceToUnlock": "tales1_chapter_05_deadlymode",
-            "unlockDate": 794138400
+            "unlockDate": "2200-01-01 10:00:00"
           },
           {
             "deadlyModeProvinceToUnlock": "tales1_chapter_06_deadlymode",
-            "unlockDate": 794138400
+            "unlockDate": "2200-01-01 10:00:00"
           }
         ],
         "stageHeroBonusId": "tales1_stage_hero_bonus",
@@ -138867,5 +138870,5 @@
     "untoldTalesEnabled": true,
     "dragonProvinceCompletionRewardsEnabled": true
   },
-  "mapConfigId": 154284088
+  "mapConfigId": 2836969580
 }

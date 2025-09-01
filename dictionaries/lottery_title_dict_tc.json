@@ -11,10 +11,10 @@
   "Covenant Summon": "聖約召喚",
   "Daily Summon": "每日召喚",
   "Elemental Dragon Summon": "元素巨龍召喚",
+  "Elemental Summon": "元素召喚",
   "Legendary Dragon Summon": "傳奇巨龍召喚",
   "Epic Hero Summon": "史詩英雄召喚",
   "Epic Troop Summon": "史詩部隊召喚",
-  "Elemental Summon": "元素召喚",
   "Goblin Summon": "哥布林召喚",
   "Harvest Summon": "豐收召喚",
   "Hero League Summon": "英雄聯盟召喚",
@@ -41,5 +41,6 @@
   "Untold Tales Summon": "隱秘傳說召喚",
   "Mysteries of the Deep": "深淵謎團",
   "Treasures of Flame and Frost": "火焰與冰霜的寶藏",
-  "Wilderness Summon": "野地召喚"
+  "Wilderness Summon": "野地召喚",
+  "Mimic Summon": "模仿怪召喚"
 }

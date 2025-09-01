@@ -24,8 +24,6 @@ EXTRACTION_RULES = {
     "event.name.":"event_name",
     "quests.name.":"quests_name",
     "quests.special_rule.name":"quests_name",
-    
-    
 }
 
 ORIGINAL_KEY_LONG = "familybonuses.description.long.resist_mana_reduction_and_mana_debuffs_with_mana_on_resist.statuseffectdebuffs.addmana.single.allies"
@@ -94,25 +92,26 @@ def process_language_file(file_path, is_json=False):
     cleaned_content = re.sub(r'\[.*?\]', '', content)
     parsed_data = parse_source_text(cleaned_content, file_path)
     
-    # 新增：保存清理后的内容到"语言文件"文件夹
-    lang_files_dir = "语言文件"
-    os.makedirs(lang_files_dir, exist_ok=True)
-    
-    # 根据文件名确定保存的文件名
-    filename = os.path.basename(file_path)
-    if filename.startswith('English'):
-        save_filename = 'English.txt'
-    elif filename.startswith('ChineseSimplified'):
-        save_filename = 'ChineseSimplified.txt'
-    elif filename.startswith('ChineseTraditional'):
-        save_filename = 'ChineseTraditional.txt'
-    else:
-        save_filename = filename  # 如果不是上述语言，保留原文件名
-    
-    save_path = os.path.join(lang_files_dir, save_filename)
-    with open(save_path, 'w', encoding='utf-8') as f:
-        f.write(cleaned_content)
-    print(f"已保存清理后的内容到: {save_path}")
+    # --- MODIFICATION START ---
+    # 根据您的要求，以下保存到 "语言文件" 文件夹的步骤已被移除。
+    # lang_files_dir = "语言文件"
+    # os.makedirs(lang_files_dir, exist_ok=True)
+    # 
+    # filename = os.path.basename(file_path)
+    # if filename.startswith('English'):
+    #     save_filename = 'English.txt'
+    # elif filename.startswith('ChineseSimplified'):
+    #     save_filename = 'ChineseSimplified.txt'
+    # elif filename.startswith('ChineseTraditional'):
+    #     save_filename = 'ChineseTraditional.txt'
+    # else:
+    #     save_filename = filename
+    # 
+    # save_path = os.path.join(lang_files_dir, save_filename)
+    # with open(save_path, 'w', encoding='utf-8') as f:
+    #     f.write(cleaned_content)
+    # print(f"已保存清理后的内容到: {save_path}")
+    # --- MODIFICATION END ---
     
     return cleaned_content, parsed_data
 

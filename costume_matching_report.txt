@@ -1,4 +1,4 @@
-✅ 成功匹配的服装 (455 / 0)
+✅ 成功匹配的服装 (456 / 0)
 ================================
 Name: Berden Costume1, Fancy Name: Adroit Archer
 Name: Hannah Costume1, Fancy Name: Adventurous Drover
@@ -244,6 +244,7 @@ Name: Little John Glass, Fancy Name: Mighty Vitrail
 Name: Melendor Costume1, Fancy Name: Mighty Wizard
 Name: Khiona Costume1, Fancy Name: Mirage Engineer
 Name: Louhi Costume1, Fancy Name: Mistress of the North
+Name: Griffex costume1, Fancy Name: Modifier of Obscura
 Name: Morris Costume1, Fancy Name: Moleman  Potter
 Name: Octros Costume1, Fancy Name: Molluscan Suitor
 Name: Tetisheri Costume1, Fancy Name: Molten Queen

@@ -549,6 +549,7 @@ def generate_js_data_with_translation(heroes_base_dir, output_path_cn, output_pa
             
             if hero_family == 'slime': source_to_translate = 'superelemental'
             elif hero_family == 'opera': source_to_translate = 'opera'
+            elif hero_family == 'mimic': source_to_translate = 'mimic'
             elif hero_family in ['tales1_goodies', 'tales1_baddies']: source_to_translate = 'untoldtales1'
             elif hero_family in ['nidavellir', 'myrkheim']: source_to_translate = 'untoldtales2'
             elif hero_family in ['plainshunter', 'myrkhjunglehuntereim', 'abysshunter', 'junglehunter']: source_to_translate = 'monsterisland'

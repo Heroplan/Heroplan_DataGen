@@ -36421,6 +36421,343 @@
             }
           }
         ]
+      },
+      {
+        "id": "纹章拟态兽",
+        "entities": [
+          {
+            "type": "Item",
+            "idResolver": {
+              "resolverType": "WeightedRandom",
+              "entityIds": [
+                "",
+                "emblem_fighter",
+                "emblem_master_fighter"
+              ],
+              "weights": [
+                9740,
+                250,
+                10
+              ]
+            }
+          },
+          {
+            "type": "Item",
+            "idResolver": {
+              "resolverType": "WeightedRandom",
+              "entityIds": [
+                "",
+                "emblem_barbarian",
+                "emblem_master_barbarian"
+              ],
+              "weights": [
+                9740,
+                250,
+                10
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "id": "纹章拟态兽",
+        "entities": [
+          {
+            "type": "Item",
+            "idResolver": {
+              "resolverType": "WeightedRandom",
+              "entityIds": [
+                "",
+                "emblem_wizard",
+                "emblem_master_wizard"
+              ],
+              "weights": [
+                9740,
+                250,
+                10
+              ]
+            }
+          },
+          {
+            "type": "Item",
+            "idResolver": {
+              "resolverType": "WeightedRandom",
+              "entityIds": [
+                "",
+                "emblem_sorcerer",
+                "emblem_master_sorcerer"
+              ],
+              "weights": [
+                9740,
+                250,
+                10
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "id": "纹章拟态兽",
+        "entities": [
+          {
+            "type": "Item",
+            "idResolver": {
+              "resolverType": "WeightedRandom",
+              "entityIds": [
+                "",
+                "emblem_paladin",
+                "emblem_master_paladin"
+              ],
+              "weights": [
+                9740,
+                250,
+                10
+              ]
+            }
+          },
+          {
+            "type": "Item",
+            "idResolver": {
+              "resolverType": "WeightedRandom",
+              "entityIds": [
+                "",
+                "emblem_druid",
+                "emblem_master_druid"
+              ],
+              "weights": [
+                9740,
+                250,
+                10
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "id": "纹章拟态兽",
+        "entities": [
+          {
+            "type": "Item",
+            "idResolver": {
+              "resolverType": "WeightedRandom",
+              "entityIds": [
+                "",
+                "emblem_monk",
+                "emblem_master_monk"
+              ],
+              "weights": [
+                9740,
+                250,
+                10
+              ]
+            }
+          },
+          {
+            "type": "Item",
+            "idResolver": {
+              "resolverType": "WeightedRandom",
+              "entityIds": [
+                "",
+                "emblem_cleric",
+                "emblem_master_cleric"
+              ],
+              "weights": [
+                9740,
+                250,
+                10
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "id": "纹章拟态兽",
+        "entities": [
+          {
+            "type": "Item",
+            "idResolver": {
+              "resolverType": "WeightedRandom",
+              "entityIds": [
+                "",
+                "emblem_ranger",
+                "emblem_master_ranger"
+              ],
+              "weights": [
+                9740,
+                250,
+                10
+              ]
+            }
+          },
+          {
+            "type": "Item",
+            "idResolver": {
+              "resolverType": "WeightedRandom",
+              "entityIds": [
+                "",
+                "emblem_rogue",
+                "emblem_master_rogue"
+              ],
+              "weights": [
+                9740,
+                250,
+                10
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "id": "经验拟态兽",
+        "entities": [
+          {
+            "type": "FeederCharacter",
+            "idResolver": {
+              "resolverType": "WeightedRandom",
+              "entityIds": [
+                "",
+                "nomad_female_archer",
+                "forest_female_warrior",
+                "nordic_female_scout",
+                "blackguard_female_archer",
+                "oriental_female_ninja"
+              ],
+              "weights": [
+                29250,
+                150,
+                150,
+                150,
+                150,
+                150
+              ]
+            }
+          },
+          {
+            "type": "FeederCharacter",
+            "idResolver": {
+              "resolverType": "WeightedRandom",
+              "entityIds": [
+                "",
+                "nomad_female_thief",
+                "dwarven_scout",
+                "dwarven_scout",
+                "blackguard_scout",
+                "oriental_panda_scout"
+              ],
+              "weights": [
+                29950,
+                10,
+                10,
+                10,
+                10,
+                10
+              ]
+            }
+          },
+          {
+            "type": "TrainerCharacter",
+            "idResolver": {
+              "resolverType": "WeightedRandom",
+              "entityIds": [
+                "",
+                "trainer_rainbow_common"
+              ],
+              "weights": [
+                29952,
+                48
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "id": "进阶拟态兽",
+        "entities": [
+          {
+            "type": "Item",
+            "idResolver": {
+              "resolverType": "WeightedRandom",
+              "entityIds": [
+                "",
+                "hero_adventurers_kit",
+                "hero_practice_sword",
+                "hero_rugged_clothes"
+              ],
+              "weights": [
+                9850,
+                50,
+                50,
+                50
+              ]
+            }
+          },
+          {
+            "type": "Item",
+            "idResolver": {
+              "resolverType": "WeightedRandom",
+              "entityIds": [
+                "",
+                "hero_arcane_scripts",
+                "hero_dagger",
+                "hero_leather_armor",
+                "hero_sharpening_stone",
+                "hero_strong_rope",
+                "hero_wooden_shield"
+              ],
+              "weights": [
+                9850,
+                25,
+                25,
+                25,
+                25,
+                25,
+                25
+              ]
+            }
+          },
+          {
+            "type": "Item",
+            "idResolver": {
+              "resolverType": "WeightedRandom",
+              "entityIds": [
+                "",
+                "hero_battle_manual",
+                "hero_chainmail_shirt",
+                "hero_scabbard",
+                "hero_tall_boots"
+              ],
+              "weights": [
+                9980,
+                5,
+                5,
+                5,
+                5
+              ]
+            }
+          },
+          {
+            "type": "Item",
+            "idResolver": {
+              "resolverType": "WeightedRandom",
+              "entityIds": [
+                "",
+                "hero_hidden_blade",
+                "hero_orb_of_magic",
+                "hero_sturdy_shield",
+                "hero_trap_tools",
+                "hero_warm_cape"
+              ],
+              "weights": [
+                9985,
+                3,
+                3,
+                3,
+                3,
+                3
+              ]
+            }
+          }
+        ]
       }
     ],
     "sharedPoolLoots": [
@@ -37613,6 +37950,92 @@
       },
       {
         "id": "7th_birthday_chest_loot",
+        "lootPool": [
+          {
+            "type": "AscensionItem",
+            "rarity": 3,
+            "amount": 1,
+            "weight": 15
+          },
+          {
+            "type": "AscensionItem",
+            "rarity": 4,
+            "amount": 1,
+            "weight": 5
+          },
+          {
+            "type": "LimitBreaker",
+            "rarity": 3,
+            "amount": 1,
+            "weight": 12
+          },
+          {
+            "type": "LimitBreaker",
+            "rarity": 4,
+            "amount": 1,
+            "weight": 7
+          },
+          {
+            "type": "LimitBreaker",
+            "rarity": 5,
+            "amount": 1,
+            "weight": 1
+          },
+          {
+            "type": "Emblem",
+            "rarity": 4,
+            "amount": 20,
+            "weight": 13
+          },
+          {
+            "type": "Emblem",
+            "rarity": 4,
+            "amount": 30,
+            "weight": 8
+          },
+          {
+            "type": "Emblem",
+            "rarity": 4,
+            "amount": 50,
+            "weight": 4
+          },
+          {
+            "type": "TrainerHero",
+            "rarity": 3,
+            "element": "All",
+            "amount": 2,
+            "weight": 12
+          },
+          {
+            "type": "TrainerHero",
+            "rarity": 4,
+            "element": "All",
+            "amount": 2,
+            "weight": 6
+          },
+          {
+            "type": "FoodBundle",
+            "rarity": 3,
+            "amount": 2,
+            "weight": 9
+          },
+          {
+            "type": "FoodBundle",
+            "rarity": 4,
+            "amount": 2,
+            "weight": 5
+          },
+          {
+            "type": "FoodBundle",
+            "rarity": 5,
+            "amount": 2,
+            "weight": 3
+          }
+        ],
+        "occurrenceType": "ExclusiveOnly"
+      },
+      {
+        "id": "harvest_summon_chest_loot",
         "lootPool": [
           {
             "type": "AscensionItem",
@@ -40858,5 +41281,5 @@
       }
     ]
   },
-  "lootsConfigId": 987246182
+  "lootsConfigId": 1915717239
 }

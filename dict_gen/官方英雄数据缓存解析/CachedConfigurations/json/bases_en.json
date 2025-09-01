@@ -2101,95 +2101,6 @@
             "originalBuildingLevelRequired": 5
           },
           {
-            "type": "Casino",
-            "slotType": "Casino",
-            "maxLevel": 10,
-            "upgradeCosts": [
-              {
-                "iron": 250000
-              },
-              {
-                "iron": 300000
-              },
-              {
-                "iron": 388000
-              },
-              {
-                "iron": 514000
-              },
-              {
-                "iron": 678000
-              },
-              {
-                "iron": 880000
-              },
-              {
-                "iron": 1120000
-              },
-              {
-                "iron": 1398000
-              },
-              {
-                "iron": 1714000
-              },
-              {
-                "iron": 2068000
-              }
-            ],
-            "upgradeTimes": [
-              10,
-              104400,
-              129600,
-              158400,
-              187200,
-              223200,
-              259200,
-              302400,
-              345600,
-              410400
-            ],
-            "upgradeSkipCosts": [
-              1,
-              609,
-              756,
-              903,
-              1092,
-              1302,
-              1512,
-              1722,
-              1932,
-              3996
-            ],
-            "buildingsPerStrongholdLevel": [
-              0,
-              0,
-              0,
-              0,
-              0,
-              0,
-              0,
-              0,
-              0,
-              1,
-              1,
-              1,
-              1,
-              1,
-              1,
-              1,
-              1,
-              1,
-              1,
-              1,
-              1,
-              1,
-              1,
-              1,
-              1
-            ],
-            "originalBuildingLevelRequired": 5
-          },
-          {
             "type": "Bank",
             "slotType": "Bank",
             "maxLevel": 10,
@@ -2660,11 +2571,6 @@
           {
             "id": "bank",
             "type": "Bank",
-            "levelRequirement": 0
-          },
-          {
-            "id": "casino",
-            "type": "Casino",
             "levelRequirement": 0
           },
           {
@@ -3739,5 +3645,5 @@
       }
     ]
   },
-  "basesConfigId": 2761992136
+  "basesConfigId": 2588336889
 }

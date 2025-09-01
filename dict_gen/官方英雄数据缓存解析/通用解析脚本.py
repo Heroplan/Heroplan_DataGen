@@ -29,7 +29,9 @@ SPECIAL_TIMESTAMP_KEYS = (
     "canBeAscendedToDate",
     "earliestLaunchDate",
     "activationTime",
-    "latestIncludedNonEventHeroDate"
+    "latestIncludedNonEventHeroDate",
+    "heroCutOffDate",
+    'unlockDate'
 )
 SPECIAL_BOOLEAN_TRUE_KEYS = (
     "hasImprovedTalentSkill",
@@ -55,6 +57,7 @@ REPLACEMENT_RULES = {
         "parentHeroId",
         "includedHeroes",
         "includedExtraHeroes",
+        
     ): [
         {
             "file": "../官方语言字典生成/generated_txt/heroes_name_cn.txt",

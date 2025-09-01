@@ -2,7 +2,7 @@
   "questsConfig": {
     "enabled": true,
     "playerLevelRequirement": 10,
-    "mapPositionsCount": 8,
+    "mapPositionsCount": 9,
     "simultaneousRecurringQuestsCount": 2,
     "specialRecurringQuestDayOfWeek": "Wednesday",
     "specialRecurringQuestTimeOfDay": 25200,
@@ -14775,6 +14775,1671 @@
               {
                 "type": "Gem",
                 "amount": 10
+              }
+            ],
+            "displayedEntities": [
+              "Avatar",
+              "Hero",
+              "Item",
+              "Item"
+            ],
+            "lootTier": 0
+          }
+        ],
+        "minDifficultyMultiplierPerMil": 1000,
+        "maxDifficultyMultiplierPerMil": 1000,
+        "completionRewards": [],
+        "globalLevelPropertyIds": [
+          "halloween_bombs"
+        ],
+        "energyType": "PveEnergy"
+      },
+      {
+        "id": "halloween_2025_normal",
+        "type": "SeasonalEventNormal",
+        "eventOrigin": "Halloween2025",
+        "rarityRequirementsId": "",
+        "heroClassGroupRequirementsId": "",
+        "duration": "14天",
+        "provinceLootTableId": "province_14",
+        "provinceLootItemLimit": 3,
+        "quests": [
+          {
+            "level": {
+              "provinceId": "",
+              "energyCost": 6,
+              "commonMonstersLevel": 58,
+              "commonMonstersLevelDeviation": 0,
+              "randomizedMonsterIds": [
+                "pumpkin_minion_green",
+                "pumpkin_big"
+              ],
+              "randomizedMonsterWaveFormationIds": [
+                "random_3_line",
+                "random_3_V",
+                "random_3_A",
+                "random_4_A",
+                "random_4_A"
+              ],
+              "numberOfRandomizedWaves": 2,
+              "predeterminedWaves": [
+                {
+                  "waveFormationId": "boss_3_A",
+                  "monsterDefinitions": [
+                    {
+                      "id": "pumpkin_minion_green"
+                    },
+                    {
+                      "id": "杰克"
+                    },
+                    {
+                      "id": "pumpkin_minion_green"
+                    }
+                  ]
+                }
+              ],
+              "battlegroundId": "VampireCastle",
+              "foodReward": 2500,
+              "ironReward": 5000,
+              "recruitsReward": 5,
+              "xpReward": 1300
+            },
+            "recommendedTeamPower": 2500,
+            "heroRewards": [],
+            "itemRewards": [
+              {
+                "type": "Item",
+                "id": "item_crystal_shard",
+                "amount": 5
+              }
+            ],
+            "itemRewardsAlternative": [],
+            "boosterItemRewards": [
+              {
+                "type": "Item",
+                "id": "refill_iron_small",
+                "amount": 1
+              },
+              {
+                "type": "Item",
+                "id": "battle_mana_potion",
+                "amount": 2
+              },
+              {
+                "type": "Item",
+                "id": "refill_food_small",
+                "amount": 1
+              },
+              {
+                "type": "Gem",
+                "amount": 4
+              }
+            ],
+            "displayedEntities": [
+              "Item"
+            ],
+            "lootTier": 0
+          },
+          {
+            "level": {
+              "provinceId": "",
+              "energyCost": 6,
+              "commonMonstersLevel": 64,
+              "commonMonstersLevelDeviation": 0,
+              "randomizedMonsterIds": [
+                "pumpkin_minion_purple",
+                "pumpkin_big"
+              ],
+              "randomizedMonsterWaveFormationIds": [
+                "random_3_line",
+                "random_3_V",
+                "random_3_A",
+                "random_4_A",
+                "random_4_A"
+              ],
+              "numberOfRandomizedWaves": 2,
+              "predeterminedWaves": [
+                {
+                  "waveFormationId": "boss_3_A",
+                  "monsterDefinitions": [
+                    {
+                      "id": "pumpkin_big"
+                    },
+                    {
+                      "id": "法蕾莉"
+                    },
+                    {
+                      "id": "pumpkin_big"
+                    }
+                  ]
+                }
+              ],
+              "battlegroundId": "VampireCastle",
+              "foodReward": 2600,
+              "ironReward": 5200,
+              "recruitsReward": 5,
+              "xpReward": 1400
+            },
+            "recommendedTeamPower": 2550,
+            "heroRewards": [],
+            "itemRewards": [
+              {
+                "type": "Item",
+                "id": "item_firestone",
+                "amount": 5
+              }
+            ],
+            "itemRewardsAlternative": [],
+            "boosterItemRewards": [
+              {
+                "type": "Item",
+                "id": "lottery_wilderness_coin",
+                "amount": 5
+              },
+              {
+                "type": "Item",
+                "id": "refill_iron_small",
+                "amount": 1
+              },
+              {
+                "type": "Item",
+                "id": "battle_hail_of_spears",
+                "amount": 2
+              },
+              {
+                "type": "Gem",
+                "amount": 4
+              }
+            ],
+            "displayedEntities": [
+              "Item"
+            ],
+            "lootTier": 0
+          },
+          {
+            "level": {
+              "provinceId": "",
+              "energyCost": 6,
+              "commonMonstersLevel": 71,
+              "commonMonstersLevelDeviation": 0,
+              "randomizedMonsterIds": [
+                "pumpkin_minion_blue",
+                "animal_bat"
+              ],
+              "randomizedMonsterWaveFormationIds": [
+                "random_3_line",
+                "random_3_V",
+                "random_3_A",
+                "random_4_A",
+                "random_4_A"
+              ],
+              "numberOfRandomizedWaves": 2,
+              "predeterminedWaves": [
+                {
+                  "waveFormationId": "boss_3_A",
+                  "monsterDefinitions": [
+                    {
+                      "id": "pumpkin_minion_blue"
+                    },
+                    {
+                      "id": "弗兰克"
+                    },
+                    {
+                      "id": "pumpkin_minion_blue"
+                    }
+                  ]
+                }
+              ],
+              "battlegroundId": "VampireCastle",
+              "foodReward": 2700,
+              "ironReward": 5400,
+              "recruitsReward": 5,
+              "xpReward": 1500
+            },
+            "recommendedTeamPower": 2600,
+            "heroRewards": [],
+            "itemRewards": [
+              {
+                "type": "Item",
+                "id": "item_crypt_mushroom",
+                "amount": 6
+              }
+            ],
+            "itemRewardsAlternative": [],
+            "boosterItemRewards": [
+              {
+                "type": "Item",
+                "id": "refill_food_small",
+                "amount": 1
+              },
+              {
+                "type": "Item",
+                "id": "battle_mana_potion",
+                "amount": 2
+              },
+              {
+                "type": "Item",
+                "id": "battle_healing_salve",
+                "amount": 2
+              },
+              {
+                "type": "Gem",
+                "amount": 4
+              }
+            ],
+            "displayedEntities": [
+              "Item"
+            ],
+            "lootTier": 0
+          },
+          {
+            "level": {
+              "provinceId": "",
+              "energyCost": 6,
+              "commonMonstersLevel": 81,
+              "commonMonstersLevelDeviation": 0,
+              "randomizedMonsterIds": [
+                "pumpkin_minion_red",
+                "animal_spider"
+              ],
+              "randomizedMonsterWaveFormationIds": [
+                "random_3_line",
+                "random_3_V",
+                "random_3_A",
+                "random_4_A",
+                "random_4_A"
+              ],
+              "numberOfRandomizedWaves": 2,
+              "predeterminedWaves": [
+                {
+                  "waveFormationId": "boss_3_A",
+                  "monsterDefinitions": [
+                    {
+                      "id": "animal_spider"
+                    },
+                    {
+                      "id": "弗拉德"
+                    },
+                    {
+                      "id": "animal_spider"
+                    }
+                  ]
+                }
+              ],
+              "battlegroundId": "VampireCastle",
+              "foodReward": 2800,
+              "ironReward": 5600,
+              "recruitsReward": 5,
+              "xpReward": 1600
+            },
+            "recommendedTeamPower": 2650,
+            "heroRewards": [],
+            "itemRewards": [
+              {
+                "type": "Item",
+                "id": "item_crystal_shard",
+                "amount": 6
+              }
+            ],
+            "itemRewardsAlternative": [],
+            "boosterItemRewards": [
+              {
+                "type": "Item",
+                "id": "lottery_wilderness_coin",
+                "amount": 5
+              },
+              {
+                "type": "Item",
+                "id": "refill_food_small",
+                "amount": 1
+              },
+              {
+                "type": "Item",
+                "id": "battle_hail_of_spears",
+                "amount": 2
+              },
+              {
+                "type": "Gem",
+                "amount": 4
+              }
+            ],
+            "displayedEntities": [
+              "Item"
+            ],
+            "lootTier": 0
+          },
+          {
+            "level": {
+              "provinceId": "",
+              "energyCost": 6,
+              "commonMonstersLevel": 91,
+              "commonMonstersLevelDeviation": 0,
+              "randomizedMonsterIds": [
+                "pumpkin_minion_purple",
+                "pumpkin_big"
+              ],
+              "randomizedMonsterWaveFormationIds": [
+                "random_3_line",
+                "random_3_V",
+                "random_3_A",
+                "random_4_A",
+                "random_4_A"
+              ],
+              "numberOfRandomizedWaves": 2,
+              "predeterminedWaves": [
+                {
+                  "waveFormationId": "fixed_2",
+                  "monsterDefinitions": [
+                    {
+                      "id": "杰克",
+                      "lvl": 78
+                    },
+                    {
+                      "id": "弗朗辛",
+                      "lvl": 78
+                    }
+                  ]
+                }
+              ],
+              "battlegroundId": "VampireCastle",
+              "foodReward": 2900,
+              "ironReward": 5800,
+              "recruitsReward": 5,
+              "xpReward": 1700
+            },
+            "recommendedTeamPower": 2700,
+            "avatarReward": "halloween_2",
+            "heroRewards": [],
+            "itemRewards": [
+              {
+                "type": "Item",
+                "id": "item_firestone",
+                "amount": 6
+              }
+            ],
+            "itemRewardsAlternative": [],
+            "boosterItemRewards": [
+              {
+                "type": "Item",
+                "id": "refill_food_small",
+                "amount": 1
+              },
+              {
+                "type": "Item",
+                "id": "battle_mana_potion",
+                "amount": 2
+              },
+              {
+                "type": "Item",
+                "id": "battle_hail_of_arrows",
+                "amount": 2
+              },
+              {
+                "type": "Gem",
+                "amount": 4
+              }
+            ],
+            "displayedEntities": [
+              "Avatar"
+            ],
+            "lootTier": 0
+          },
+          {
+            "level": {
+              "provinceId": "",
+              "energyCost": 6,
+              "commonMonstersLevel": 104,
+              "commonMonstersLevelDeviation": 0,
+              "randomizedMonsterIds": [
+                "pumpkin_minion_green",
+                "pumpkin_big"
+              ],
+              "randomizedMonsterWaveFormationIds": [
+                "random_3_line",
+                "random_3_V",
+                "random_3_A",
+                "random_4_A",
+                "random_4_A"
+              ],
+              "numberOfRandomizedWaves": 2,
+              "predeterminedWaves": [
+                {
+                  "waveFormationId": "boss_3_A",
+                  "monsterDefinitions": [
+                    {
+                      "id": "pumpkin_big"
+                    },
+                    {
+                      "id": "维克托"
+                    },
+                    {
+                      "id": "pumpkin_big"
+                    }
+                  ]
+                }
+              ],
+              "battlegroundId": "VampireCastle",
+              "foodReward": 3000,
+              "ironReward": 6000,
+              "recruitsReward": 6,
+              "xpReward": 1800
+            },
+            "recommendedTeamPower": 2750,
+            "heroRewards": [],
+            "itemRewards": [
+              {
+                "type": "Item",
+                "id": "item_metal_ores",
+                "amount": 7
+              },
+              {
+                "type": "Item",
+                "id": "hero_wooden_shield",
+                "amount": 3
+              }
+            ],
+            "itemRewardsAlternative": [],
+            "boosterItemRewards": [
+              {
+                "type": "Item",
+                "id": "lottery_wilderness_coin",
+                "amount": 5
+              },
+              {
+                "type": "Item",
+                "id": "refill_iron_medium",
+                "amount": 1
+              },
+              {
+                "type": "Item",
+                "id": "battle_hail_of_spears",
+                "amount": 2
+              },
+              {
+                "type": "Gem",
+                "amount": 5
+              }
+            ],
+            "displayedEntities": [
+              "Item"
+            ],
+            "lootTier": 0
+          },
+          {
+            "level": {
+              "provinceId": "",
+              "energyCost": 6,
+              "commonMonstersLevel": 112,
+              "commonMonstersLevelDeviation": 0,
+              "randomizedMonsterIds": [
+                "pumpkin_minion_green",
+                "pumpkin_big_purple"
+              ],
+              "randomizedMonsterWaveFormationIds": [
+                "random_3_line",
+                "random_3_V",
+                "random_3_A",
+                "random_4_A",
+                "random_4_A"
+              ],
+              "numberOfRandomizedWaves": 2,
+              "predeterminedWaves": [
+                {
+                  "waveFormationId": "boss_3_A",
+                  "monsterDefinitions": [
+                    {
+                      "id": "pumpkin_minion_green"
+                    },
+                    {
+                      "id": "凡达"
+                    },
+                    {
+                      "id": "pumpkin_minion_green"
+                    }
+                  ]
+                }
+              ],
+              "battlegroundId": "VampireCastle",
+              "foodReward": 3100,
+              "ironReward": 6200,
+              "recruitsReward": 6,
+              "xpReward": 1900
+            },
+            "recommendedTeamPower": 2800,
+            "heroRewards": [],
+            "itemRewards": [
+              {
+                "type": "Item",
+                "id": "item_potent_leaves",
+                "amount": 7
+              },
+              {
+                "type": "Item",
+                "id": "battle_hail_of_spears",
+                "amount": 4
+              }
+            ],
+            "itemRewardsAlternative": [],
+            "boosterItemRewards": [
+              {
+                "type": "Item",
+                "id": "battle_healing_potion",
+                "amount": 3
+              },
+              {
+                "type": "Item",
+                "id": "refill_food_medium",
+                "amount": 1
+              },
+              {
+                "type": "Item",
+                "id": "battle_healing_salve",
+                "amount": 2
+              },
+              {
+                "type": "Gem",
+                "amount": 5
+              }
+            ],
+            "displayedEntities": [
+              "Item",
+              "Item"
+            ],
+            "lootTier": 0
+          },
+          {
+            "level": {
+              "provinceId": "",
+              "energyCost": 6,
+              "commonMonstersLevel": 113,
+              "commonMonstersLevelDeviation": 0,
+              "randomizedMonsterIds": [
+                "pumpkin_minion_red",
+                "animal_bat"
+              ],
+              "randomizedMonsterWaveFormationIds": [
+                "random_3_line",
+                "random_3_V",
+                "random_3_A",
+                "random_4_A",
+                "random_4_A"
+              ],
+              "numberOfRandomizedWaves": 2,
+              "predeterminedWaves": [
+                {
+                  "waveFormationId": "boss_3_A",
+                  "monsterDefinitions": [
+                    {
+                      "id": "animal_bat"
+                    },
+                    {
+                      "id": "弗拉德"
+                    },
+                    {
+                      "id": "animal_bat"
+                    }
+                  ]
+                }
+              ],
+              "battlegroundId": "VampireCastle",
+              "foodReward": 3200,
+              "ironReward": 6400,
+              "recruitsReward": 6,
+              "xpReward": 2000
+            },
+            "recommendedTeamPower": 2850,
+            "heroRewards": [],
+            "itemRewards": [
+              {
+                "type": "Item",
+                "id": "item_sunspire_feathers",
+                "amount": 7
+              },
+              {
+                "type": "Item",
+                "id": "battle_mana_potion",
+                "amount": 1
+              }
+            ],
+            "itemRewardsAlternative": [],
+            "boosterItemRewards": [
+              {
+                "type": "Item",
+                "id": "lottery_wilderness_coin",
+                "amount": 5
+              },
+              {
+                "type": "Item",
+                "id": "refill_iron_medium",
+                "amount": 1
+              },
+              {
+                "type": "Item",
+                "id": "battle_hail_of_spears",
+                "amount": 2
+              },
+              {
+                "type": "Gem",
+                "amount": 5
+              }
+            ],
+            "displayedEntities": [
+              "Item",
+              "Item"
+            ],
+            "lootTier": 0
+          },
+          {
+            "level": {
+              "provinceId": "",
+              "energyCost": 6,
+              "commonMonstersLevel": 114,
+              "commonMonstersLevelDeviation": 0,
+              "randomizedMonsterIds": [
+                "pumpkin_minion_blue",
+                "animal_spider"
+              ],
+              "randomizedMonsterWaveFormationIds": [
+                "random_3_line",
+                "random_3_V",
+                "random_3_A",
+                "random_4_A",
+                "random_4_A"
+              ],
+              "numberOfRandomizedWaves": 2,
+              "predeterminedWaves": [
+                {
+                  "waveFormationId": "boss_3_A",
+                  "monsterDefinitions": [
+                    {
+                      "id": "pumpkin_minion_blue"
+                    },
+                    {
+                      "id": "弗朗辛"
+                    },
+                    {
+                      "id": "pumpkin_minion_blue"
+                    }
+                  ]
+                }
+              ],
+              "battlegroundId": "VampireCastle",
+              "foodReward": 3300,
+              "ironReward": 6600,
+              "recruitsReward": 6,
+              "xpReward": 2100
+            },
+            "recommendedTeamPower": 2900,
+            "heroRewards": [],
+            "itemRewards": [
+              {
+                "type": "Item",
+                "id": "item_metal_ores",
+                "amount": 8
+              },
+              {
+                "type": "Item",
+                "id": "hero_wooden_shield",
+                "amount": 3
+              }
+            ],
+            "itemRewardsAlternative": [],
+            "boosterItemRewards": [
+              {
+                "type": "Item",
+                "id": "battle_healing_potion",
+                "amount": 3
+              },
+              {
+                "type": "Item",
+                "id": "refill_food_medium",
+                "amount": 1
+              },
+              {
+                "type": "Item",
+                "id": "battle_hail_of_arrows",
+                "amount": 2
+              },
+              {
+                "type": "Gem",
+                "amount": 5
+              }
+            ],
+            "displayedEntities": [
+              "Item",
+              "Item"
+            ],
+            "lootTier": 0
+          },
+          {
+            "level": {
+              "provinceId": "",
+              "energyCost": 7,
+              "commonMonstersLevel": 115,
+              "monsterAttackModifierPerMil": 206,
+              "commonMonstersLevelDeviation": 0,
+              "randomizedMonsterIds": [
+                "pumpkin_minion_blue",
+                "pumpkin_big_purple"
+              ],
+              "randomizedMonsterWaveFormationIds": [
+                "random_3_line",
+                "random_3_V",
+                "random_3_A",
+                "random_4_A",
+                "random_4_A"
+              ],
+              "numberOfRandomizedWaves": 2,
+              "predeterminedWaves": [
+                {
+                  "waveFormationId": "fixed_2",
+                  "monsterDefinitions": [
+                    {
+                      "id": "杰克",
+                      "lvl": 96
+                    },
+                    {
+                      "id": "法蕾莉",
+                      "lvl": 96
+                    }
+                  ]
+                }
+              ],
+              "battlegroundId": "VampireCastle",
+              "foodReward": 3350,
+              "ironReward": 6700,
+              "recruitsReward": 6,
+              "xpReward": 2150
+            },
+            "recommendedTeamPower": 2950,
+            "avatarReward": "halloween_frank",
+            "heroRewards": [
+              {
+                "type": "Hero",
+                "id": "trainer_purple_uncommon",
+                "amount": 1
+              }
+            ],
+            "itemRewards": [
+              {
+                "type": "Item",
+                "id": "hero_scabbard",
+                "amount": 1
+              },
+              {
+                "type": "Item",
+                "id": "battle_hail_of_spears",
+                "amount": 1
+              }
+            ],
+            "itemRewardsAlternative": [],
+            "boosterItemRewards": [
+              {
+                "type": "Item",
+                "id": "lottery_wilderness_coin",
+                "amount": 10
+              },
+              {
+                "type": "Item",
+                "id": "refill_iron_medium",
+                "amount": 1
+              },
+              {
+                "type": "Item",
+                "id": "battle_hail_of_spears",
+                "amount": 5
+              },
+              {
+                "type": "Gem",
+                "amount": 5
+              }
+            ],
+            "displayedEntities": [
+              "Avatar",
+              "Hero",
+              "Item",
+              "Item"
+            ],
+            "lootTier": 0
+          }
+        ],
+        "minDifficultyMultiplierPerMil": 1000,
+        "maxDifficultyMultiplierPerMil": 1000,
+        "completionRewards": [],
+        "globalLevelPropertyIds": [
+          "halloween_bombs"
+        ],
+        "energyType": "PveEnergy"
+      },
+      {
+        "id": "halloween_2025_advanced",
+        "type": "SeasonalEventAdvanced",
+        "eventOrigin": "Halloween2025",
+        "rarityRequirementsId": "",
+        "heroClassGroupRequirementsId": "",
+        "duration": "14天",
+        "provinceLootTableId": "province_20",
+        "provinceLootItemLimit": 5,
+        "quests": [
+          {
+            "level": {
+              "provinceId": "",
+              "energyCost": 9,
+              "commonMonstersLevel": 117,
+              "commonMonstersLevelDeviation": 0,
+              "randomizedMonsterIds": [
+                "pumpkin_minion_green",
+                "pumpkin_big"
+              ],
+              "randomizedMonsterWaveFormationIds": [
+                "random_3_line",
+                "random_3_V",
+                "random_3_A",
+                "random_4_A",
+                "random_4_A"
+              ],
+              "numberOfRandomizedWaves": 3,
+              "predeterminedWaves": [
+                {
+                  "waveFormationId": "boss_3_A",
+                  "monsterDefinitions": [
+                    {
+                      "id": "pumpkin_minion_green"
+                    },
+                    {
+                      "id": "杰克"
+                    },
+                    {
+                      "id": "pumpkin_minion_green"
+                    }
+                  ]
+                }
+              ],
+              "battlegroundId": "VampireCastle",
+              "foodReward": 3900,
+              "ironReward": 7800,
+              "recruitsReward": 8,
+              "xpReward": 2700
+            },
+            "recommendedTeamPower": 3600,
+            "heroRewards": [],
+            "itemRewards": [
+              {
+                "type": "Item",
+                "id": "item_grimoire_dust",
+                "amount": 5
+              },
+              {
+                "type": "Item",
+                "id": "battle_antidote_dust",
+                "amount": 1
+              }
+            ],
+            "itemRewardsAlternative": [],
+            "boosterItemRewards": [
+              {
+                "type": "Item",
+                "id": "lottery_wilderness_coin",
+                "amount": 5
+              },
+              {
+                "type": "Item",
+                "id": "battle_dragon_banner",
+                "amount": 2
+              },
+              {
+                "type": "Item",
+                "id": "battle_mana_potion",
+                "amount": 3
+              },
+              {
+                "type": "Gem",
+                "amount": 5
+              }
+            ],
+            "displayedEntities": [
+              "Item",
+              "Item"
+            ],
+            "lootTier": 0
+          },
+          {
+            "level": {
+              "provinceId": "",
+              "energyCost": 9,
+              "commonMonstersLevel": 118,
+              "commonMonstersLevelDeviation": 0,
+              "randomizedMonsterIds": [
+                "pumpkin_minion_purple",
+                "pumpkin_big"
+              ],
+              "randomizedMonsterWaveFormationIds": [
+                "random_3_line",
+                "random_3_V",
+                "random_3_A",
+                "random_4_A",
+                "random_4_A"
+              ],
+              "numberOfRandomizedWaves": 3,
+              "predeterminedWaves": [
+                {
+                  "waveFormationId": "boss_3_A",
+                  "monsterDefinitions": [
+                    {
+                      "id": "pumpkin_big"
+                    },
+                    {
+                      "id": "法蕾莉"
+                    },
+                    {
+                      "id": "pumpkin_big"
+                    }
+                  ]
+                }
+              ],
+              "battlegroundId": "VampireCastle",
+              "foodReward": 3950,
+              "ironReward": 7900,
+              "recruitsReward": 8,
+              "xpReward": 2750
+            },
+            "recommendedTeamPower": 3650,
+            "heroRewards": [],
+            "itemRewards": [
+              {
+                "type": "Item",
+                "id": "item_hardwood_lumber",
+                "amount": 3
+              },
+              {
+                "type": "Item",
+                "id": "hero_dagger",
+                "amount": 3
+              }
+            ],
+            "itemRewardsAlternative": [],
+            "boosterItemRewards": [
+              {
+                "type": "Item",
+                "id": "lottery_wilderness_coin",
+                "amount": 5
+              },
+              {
+                "type": "Item",
+                "id": "battle_antidote_dust",
+                "amount": 2
+              },
+              {
+                "type": "Item",
+                "id": "battle_hail_of_spears",
+                "amount": 3
+              },
+              {
+                "type": "Gem",
+                "amount": 5
+              }
+            ],
+            "displayedEntities": [
+              "Item",
+              "Item"
+            ],
+            "lootTier": 0
+          },
+          {
+            "level": {
+              "provinceId": "",
+              "energyCost": 9,
+              "commonMonstersLevel": 126,
+              "commonMonstersLevelDeviation": 0,
+              "randomizedMonsterIds": [
+                "pumpkin_minion_blue",
+                "animal_bat"
+              ],
+              "randomizedMonsterWaveFormationIds": [
+                "random_3_line",
+                "random_3_V",
+                "random_3_A",
+                "random_4_A",
+                "random_4_A"
+              ],
+              "numberOfRandomizedWaves": 3,
+              "predeterminedWaves": [
+                {
+                  "waveFormationId": "boss_3_A",
+                  "monsterDefinitions": [
+                    {
+                      "id": "pumpkin_minion_blue"
+                    },
+                    {
+                      "id": "弗兰克"
+                    },
+                    {
+                      "id": "pumpkin_minion_blue"
+                    }
+                  ]
+                }
+              ],
+              "battlegroundId": "VampireCastle",
+              "foodReward": 4000,
+              "ironReward": 8000,
+              "recruitsReward": 8,
+              "xpReward": 2800
+            },
+            "recommendedTeamPower": 3700,
+            "heroRewards": [],
+            "itemRewards": [
+              {
+                "type": "Item",
+                "id": "item_midnight_roots",
+                "amount": 3
+              },
+              {
+                "type": "Item",
+                "id": "battle_dragon_banner",
+                "amount": 3
+              }
+            ],
+            "itemRewardsAlternative": [],
+            "boosterItemRewards": [
+              {
+                "type": "Item",
+                "id": "lottery_goblin_coin",
+                "amount": 10
+              },
+              {
+                "type": "Item",
+                "id": "battle_dragon_banner",
+                "amount": 2
+              },
+              {
+                "type": "Item",
+                "id": "battle_mana_potion",
+                "amount": 3
+              },
+              {
+                "type": "Gem",
+                "amount": 5
+              }
+            ],
+            "displayedEntities": [
+              "Item",
+              "Item"
+            ],
+            "lootTier": 0
+          },
+          {
+            "level": {
+              "provinceId": "",
+              "energyCost": 9,
+              "commonMonstersLevel": 127,
+              "commonMonstersLevelDeviation": 0,
+              "randomizedMonsterIds": [
+                "pumpkin_minion_red",
+                "animal_spider"
+              ],
+              "randomizedMonsterWaveFormationIds": [
+                "random_3_line",
+                "random_3_V",
+                "random_3_A",
+                "random_4_A",
+                "random_4_A"
+              ],
+              "numberOfRandomizedWaves": 3,
+              "predeterminedWaves": [
+                {
+                  "waveFormationId": "boss_3_A",
+                  "monsterDefinitions": [
+                    {
+                      "id": "animal_spider"
+                    },
+                    {
+                      "id": "弗拉德"
+                    },
+                    {
+                      "id": "animal_spider"
+                    }
+                  ]
+                }
+              ],
+              "battlegroundId": "VampireCastle",
+              "foodReward": 4050,
+              "ironReward": 8100,
+              "recruitsReward": 8,
+              "xpReward": 2850
+            },
+            "recommendedTeamPower": 3750,
+            "heroRewards": [],
+            "itemRewards": [
+              {
+                "type": "Item",
+                "id": "item_meteor_fragments",
+                "amount": 2
+              },
+              {
+                "type": "Item",
+                "id": "battle_revival_scroll",
+                "amount": 1
+              }
+            ],
+            "itemRewardsAlternative": [],
+            "boosterItemRewards": [
+              {
+                "type": "Item",
+                "id": "lottery_wilderness_coin",
+                "amount": 10
+              },
+              {
+                "type": "Item",
+                "id": "battle_antidote_dust",
+                "amount": 2
+              },
+              {
+                "type": "Item",
+                "id": "battle_hail_of_spears",
+                "amount": 3
+              },
+              {
+                "type": "Gem",
+                "amount": 5
+              }
+            ],
+            "displayedEntities": [
+              "Item",
+              "Item"
+            ],
+            "lootTier": 0
+          },
+          {
+            "level": {
+              "provinceId": "",
+              "energyCost": 9,
+              "commonMonstersLevel": 136,
+              "commonMonstersLevelDeviation": 0,
+              "randomizedMonsterIds": [
+                "pumpkin_minion_purple",
+                "pumpkin_big"
+              ],
+              "randomizedMonsterWaveFormationIds": [
+                "random_3_line",
+                "random_3_V",
+                "random_3_A",
+                "random_4_A",
+                "random_4_A"
+              ],
+              "numberOfRandomizedWaves": 3,
+              "predeterminedWaves": [
+                {
+                  "waveFormationId": "fixed_2",
+                  "monsterDefinitions": [
+                    {
+                      "id": "杰克",
+                      "lvl": 116
+                    },
+                    {
+                      "id": "弗朗辛",
+                      "lvl": 116
+                    }
+                  ]
+                }
+              ],
+              "battlegroundId": "VampireCastle",
+              "foodReward": 4100,
+              "ironReward": 8200,
+              "recruitsReward": 8,
+              "xpReward": 2900
+            },
+            "recommendedTeamPower": 3800,
+            "avatarReward": "halloween_3",
+            "heroRewards": [],
+            "itemRewards": [
+              {
+                "type": "Item",
+                "id": "item_dragon_bone",
+                "amount": 3
+              },
+              {
+                "type": "Item",
+                "id": "hero_leather_armor",
+                "amount": 1
+              }
+            ],
+            "itemRewardsAlternative": [],
+            "boosterItemRewards": [
+              {
+                "type": "Item",
+                "id": "lottery_goblin_coin",
+                "amount": 10
+              },
+              {
+                "type": "Item",
+                "id": "battle_dragon_banner",
+                "amount": 2
+              },
+              {
+                "type": "Item",
+                "id": "battle_mana_potion",
+                "amount": 3
+              },
+              {
+                "type": "Gem",
+                "amount": 5
+              }
+            ],
+            "displayedEntities": [
+              "Avatar",
+              "Item",
+              "Item"
+            ],
+            "lootTier": 0
+          },
+          {
+            "level": {
+              "provinceId": "",
+              "energyCost": 9,
+              "commonMonstersLevel": 137,
+              "commonMonstersLevelDeviation": 0,
+              "randomizedMonsterIds": [
+                "pumpkin_minion_green",
+                "pumpkin_big"
+              ],
+              "randomizedMonsterWaveFormationIds": [
+                "random_3_line",
+                "random_3_V",
+                "random_3_A",
+                "random_4_A",
+                "random_4_A"
+              ],
+              "numberOfRandomizedWaves": 3,
+              "predeterminedWaves": [
+                {
+                  "waveFormationId": "boss_3_A",
+                  "monsterDefinitions": [
+                    {
+                      "id": "pumpkin_big"
+                    },
+                    {
+                      "id": "维克托"
+                    },
+                    {
+                      "id": "pumpkin_big"
+                    }
+                  ]
+                }
+              ],
+              "battlegroundId": "VampireCastle",
+              "foodReward": 4150,
+              "ironReward": 8300,
+              "recruitsReward": 8,
+              "xpReward": 2950
+            },
+            "recommendedTeamPower": 3850,
+            "heroRewards": [],
+            "itemRewards": [
+              {
+                "type": "Item",
+                "id": "item_orichalcum_nugget",
+                "amount": 2
+              },
+              {
+                "type": "Item",
+                "id": "battle_bomb_barrage",
+                "amount": 3
+              }
+            ],
+            "itemRewardsAlternative": [],
+            "boosterItemRewards": [
+              {
+                "type": "Item",
+                "id": "lottery_wilderness_coin",
+                "amount": 10
+              },
+              {
+                "type": "Item",
+                "id": "battle_antidote_dust",
+                "amount": 2
+              },
+              {
+                "type": "Item",
+                "id": "battle_hail_of_spears",
+                "amount": 3
+              },
+              {
+                "type": "Gem",
+                "amount": 5
+              }
+            ],
+            "displayedEntities": [
+              "Item",
+              "Item"
+            ],
+            "lootTier": 0
+          },
+          {
+            "level": {
+              "provinceId": "",
+              "energyCost": 9,
+              "commonMonstersLevel": 150,
+              "commonMonstersLevelDeviation": 0,
+              "randomizedMonsterIds": [
+                "pumpkin_minion_green",
+                "pumpkin_big_purple"
+              ],
+              "randomizedMonsterWaveFormationIds": [
+                "random_3_line",
+                "random_3_V",
+                "random_3_A",
+                "random_4_A",
+                "random_4_A"
+              ],
+              "numberOfRandomizedWaves": 3,
+              "predeterminedWaves": [
+                {
+                  "waveFormationId": "boss_3_A",
+                  "monsterDefinitions": [
+                    {
+                      "id": "pumpkin_minion_green"
+                    },
+                    {
+                      "id": "凡达"
+                    },
+                    {
+                      "id": "pumpkin_minion_green"
+                    }
+                  ]
+                }
+              ],
+              "battlegroundId": "VampireCastle",
+              "foodReward": 4200,
+              "ironReward": 8400,
+              "recruitsReward": 8,
+              "xpReward": 3000
+            },
+            "recommendedTeamPower": 3900,
+            "heroRewards": [],
+            "itemRewards": [
+              {
+                "type": "Item",
+                "id": "item_fine_steel",
+                "amount": 4
+              },
+              {
+                "type": "Item",
+                "id": "hero_leather_armor",
+                "amount": 1
+              }
+            ],
+            "itemRewardsAlternative": [],
+            "boosterItemRewards": [
+              {
+                "type": "Item",
+                "id": "lottery_goblin_coin",
+                "amount": 10
+              },
+              {
+                "type": "Item",
+                "id": "battle_dragon_banner",
+                "amount": 2
+              },
+              {
+                "type": "Item",
+                "id": "battle_mana_potion",
+                "amount": 3
+              },
+              {
+                "type": "Gem",
+                "amount": 5
+              }
+            ],
+            "displayedEntities": [
+              "Item",
+              "Item"
+            ],
+            "lootTier": 0
+          },
+          {
+            "level": {
+              "provinceId": "",
+              "energyCost": 9,
+              "commonMonstersLevel": 151,
+              "commonMonstersLevelDeviation": 0,
+              "randomizedMonsterIds": [
+                "pumpkin_minion_red",
+                "animal_bat"
+              ],
+              "randomizedMonsterWaveFormationIds": [
+                "random_3_line",
+                "random_3_V",
+                "random_3_A",
+                "random_4_A",
+                "random_4_A"
+              ],
+              "numberOfRandomizedWaves": 3,
+              "predeterminedWaves": [
+                {
+                  "waveFormationId": "boss_3_A",
+                  "monsterDefinitions": [
+                    {
+                      "id": "animal_bat"
+                    },
+                    {
+                      "id": "弗拉德"
+                    },
+                    {
+                      "id": "animal_bat"
+                    }
+                  ]
+                }
+              ],
+              "battlegroundId": "VampireCastle",
+              "foodReward": 4250,
+              "ironReward": 8500,
+              "recruitsReward": 9,
+              "xpReward": 3050
+            },
+            "recommendedTeamPower": 4000,
+            "heroRewards": [],
+            "itemRewards": [
+              {
+                "type": "Item",
+                "id": "item_fine_steel",
+                "amount": 5
+              },
+              {
+                "type": "Item",
+                "id": "battle_dragon_banner",
+                "amount": 3
+              }
+            ],
+            "itemRewardsAlternative": [],
+            "boosterItemRewards": [
+              {
+                "type": "Item",
+                "id": "lottery_wilderness_coin",
+                "amount": 10
+              },
+              {
+                "type": "Item",
+                "id": "battle_antidote_dust",
+                "amount": 2
+              },
+              {
+                "type": "Item",
+                "id": "battle_hail_of_spears",
+                "amount": 3
+              },
+              {
+                "type": "Gem",
+                "amount": 5
+              }
+            ],
+            "displayedEntities": [
+              "Item",
+              "Item"
+            ],
+            "lootTier": 0
+          },
+          {
+            "level": {
+              "provinceId": "",
+              "energyCost": 9,
+              "commonMonstersLevel": 152,
+              "commonMonstersLevelDeviation": 0,
+              "randomizedMonsterIds": [
+                "pumpkin_minion_blue",
+                "animal_spider"
+              ],
+              "randomizedMonsterWaveFormationIds": [
+                "random_3_line",
+                "random_3_V",
+                "random_3_A",
+                "random_4_A",
+                "random_4_A"
+              ],
+              "numberOfRandomizedWaves": 3,
+              "predeterminedWaves": [
+                {
+                  "waveFormationId": "boss_3_A",
+                  "monsterDefinitions": [
+                    {
+                      "id": "pumpkin_minion_blue"
+                    },
+                    {
+                      "id": "弗朗辛"
+                    },
+                    {
+                      "id": "pumpkin_minion_blue"
+                    }
+                  ]
+                }
+              ],
+              "battlegroundId": "VampireCastle",
+              "foodReward": 4300,
+              "ironReward": 8600,
+              "recruitsReward": 9,
+              "xpReward": 3100
+            },
+            "recommendedTeamPower": 4050,
+            "heroRewards": [],
+            "itemRewards": [
+              {
+                "type": "Item",
+                "id": "item_grimoire_dust",
+                "amount": 7
+              },
+              {
+                "type": "Item",
+                "id": "item_dragon_bone",
+                "amount": 1
+              }
+            ],
+            "itemRewardsAlternative": [],
+            "boosterItemRewards": [
+              {
+                "type": "Item",
+                "id": "misc_loot_ticket",
+                "amount": 2
+              },
+              {
+                "type": "Item",
+                "id": "battle_dragon_banner",
+                "amount": 2
+              },
+              {
+                "type": "Item",
+                "id": "battle_mana_potion",
+                "amount": 4
+              },
+              {
+                "type": "Gem",
+                "amount": 5
+              }
+            ],
+            "displayedEntities": [
+              "Item",
+              "Item"
+            ],
+            "lootTier": 0
+          },
+          {
+            "level": {
+              "provinceId": "",
+              "energyCost": 10,
+              "commonMonstersLevel": 153,
+              "commonMonstersLevelDeviation": 0,
+              "randomizedMonsterIds": [
+                "pumpkin_minion_blue",
+                "pumpkin_big_purple"
+              ],
+              "randomizedMonsterWaveFormationIds": [
+                "random_3_line",
+                "random_3_V",
+                "random_3_A",
+                "random_4_A",
+                "random_4_A"
+              ],
+              "numberOfRandomizedWaves": 3,
+              "predeterminedWaves": [
+                {
+                  "waveFormationId": "fixed_2",
+                  "monsterDefinitions": [
+                    {
+                      "id": "杰克",
+                      "lvl": 135
+                    },
+                    {
+                      "id": "法蕾莉",
+                      "lvl": 135
+                    }
+                  ]
+                }
+              ],
+              "battlegroundId": "VampireCastle",
+              "foodReward": 4350,
+              "ironReward": 8700,
+              "recruitsReward": 9,
+              "xpReward": 3150
+            },
+            "recommendedTeamPower": 4100,
+            "avatarReward": "halloween_vanda",
+            "heroRewards": [
+              {
+                "type": "Hero",
+                "id": "trainer_purple_rare",
+                "amount": 1
+              }
+            ],
+            "itemRewards": [
+              {
+                "type": "Item",
+                "id": "hero_trap_tools",
+                "amount": 1
+              },
+              {
+                "type": "Item",
+                "id": "hero_dagger",
+                "amount": 1
+              }
+            ],
+            "itemRewardsAlternative": [],
+            "boosterItemRewards": [
+              {
+                "type": "Item",
+                "id": "lottery_elite_hero",
+                "amount": 1
+              },
+              {
+                "type": "Item",
+                "id": "lottery_wilderness_coin",
+                "amount": 10
+              },
+              {
+                "type": "Item",
+                "id": "misc_loot_ticket",
+                "amount": 3
+              },
+              {
+                "type": "Gem",
+                "amount": 5
               }
             ],
             "displayedEntities": [
@@ -57803,7 +59468,7 @@
         "energyType": "PveEnergy"
       },
       {
-        "id": "monster_island_horde_small",
+        "id": "monster_island_horde_small_yellow",
         "type": "HexMap",
         "rarityRequirementsId": "",
         "heroClassGroupRequirementsId": "",
@@ -57819,8 +59484,8 @@
               "monsterAttackModifierPerMil": 156,
               "commonMonstersLevelDeviation": 0,
               "randomizedMonsterIds": [
-                "monster_island_horde_camolizard_blue",
-                "monster_island_horde_plantipede_green",
+                "monster_island_horde_beetloid_yellow",
+                "monster_island_horde_beetloid_yellow",
                 "monster_island_horde_camolizard_red",
                 "monster_island_horde_beetloid_purple",
                 "monster_island_horde_beetloid_yellow"
@@ -57834,10 +59499,10 @@
                   "waveFormationId": "horde",
                   "monsterDefinitions": [
                     {
-                      "id": "monster_island_horde_camolizard_red"
+                      "id": "monster_island_horde_beetloid_yellow"
                     },
                     {
-                      "id": "monster_island_horde_beetloid_purple"
+                      "id": "monster_island_horde_beetloid_yellow"
                     },
                     {
                       "id": "monster_island_horde_beetloid_yellow"
@@ -57867,10 +59532,7 @@
               "commonMonstersLevel": 66,
               "commonMonstersLevelDeviation": 0,
               "randomizedMonsterIds": [
-                "monster_island_horde_camolizard_blue",
-                "monster_island_horde_plantipede_green",
-                "monster_island_horde_camolizard_red",
-                "monster_island_horde_beetloid_purple",
+                "monster_island_horde_beetloid_yellow",
                 "monster_island_horde_beetloid_yellow"
               ],
               "randomizedMonsterWaveFormationIds": [
@@ -57882,10 +59544,10 @@
                   "waveFormationId": "horde",
                   "monsterDefinitions": [
                     {
-                      "id": "monster_island_horde_camolizard_red"
+                      "id": "monster_island_horde_beetloid_yellow"
                     },
                     {
-                      "id": "monster_island_horde_beetloid_purple"
+                      "id": "monster_island_horde_beetloid_yellow"
                     },
                     {
                       "id": "monster_island_horde_beetloid_yellow"
@@ -57906,8 +59568,7 @@
             "itemRewards": [],
             "itemRewardsAlternative": [],
             "displayedEntities": [],
-            "lootTier": 0,
-            "alternativeRewardsCustomChance": 500
+            "lootTier": 0
           },
           {
             "level": {
@@ -57917,10 +59578,7 @@
               "monsterAttackModifierPerMil": 150,
               "commonMonstersLevelDeviation": 0,
               "randomizedMonsterIds": [
-                "monster_island_horde_camolizard_blue",
-                "monster_island_horde_plantipede_green",
-                "monster_island_horde_camolizard_red",
-                "monster_island_horde_beetloid_purple",
+                "monster_island_horde_beetloid_yellow",
                 "monster_island_horde_beetloid_yellow"
               ],
               "randomizedMonsterWaveFormationIds": [
@@ -57932,10 +59590,10 @@
                   "waveFormationId": "horde",
                   "monsterDefinitions": [
                     {
-                      "id": "monster_island_horde_camolizard_red"
+                      "id": "monster_island_horde_beetloid_yellow"
                     },
                     {
-                      "id": "monster_island_horde_beetloid_purple"
+                      "id": "monster_island_horde_beetloid_yellow"
                     },
                     {
                       "id": "monster_island_horde_beetloid_yellow"
@@ -57946,7 +59604,7 @@
               "battlegroundId": "HexMapHorde",
               "foodReward": 1700,
               "ironReward": 3400,
-              "recruitsReward": 3,
+              "recruitsReward": 2,
               "xpReward": 850,
               "specificLevelPropertyIds": [
                 "monster_island_horde_small"
@@ -57956,8 +59614,405 @@
             "itemRewards": [],
             "itemRewardsAlternative": [],
             "displayedEntities": [],
-            "lootTier": 0,
-            "alternativeRewardsCustomChance": 500
+            "lootTier": 0
+          },
+          {
+            "level": {
+              "provinceId": "",
+              "energyCost": 0,
+              "commonMonstersLevel": 180,
+              "monsterAttackModifierPerMil": 200,
+              "monsterHealthModifierPerMil": 100,
+              "commonMonstersLevelDeviation": 0,
+              "randomizedMonsterIds": [
+                "monster_island_horde_beetloid_yellow",
+                "monster_island_horde_beetloid_yellow"
+              ],
+              "randomizedMonsterWaveFormationIds": [
+                "horde"
+              ],
+              "numberOfRandomizedWaves": 0,
+              "predeterminedWaves": [
+                {
+                  "waveFormationId": "horde",
+                  "monsterDefinitions": [
+                    {
+                      "id": "monster_island_horde_beetloid_yellow"
+                    },
+                    {
+                      "id": "monster_island_horde_beetloid_yellow"
+                    },
+                    {
+                      "id": "monster_island_horde_beetloid_yellow"
+                    }
+                  ]
+                }
+              ],
+              "battlegroundId": "HexMapHorde",
+              "foodReward": 1800,
+              "ironReward": 3600,
+              "recruitsReward": 2,
+              "xpReward": 950,
+              "specificLevelPropertyIds": [
+                "monster_island_horde_small"
+              ]
+            },
+            "heroRewards": [],
+            "itemRewards": [],
+            "itemRewardsAlternative": [],
+            "displayedEntities": [],
+            "lootTier": 0
+          }
+        ],
+        "minDifficultyMultiplierPerMil": 1000,
+        "maxDifficultyMultiplierPerMil": 1100,
+        "completionRewards": [],
+        "energyType": "PveEnergy"
+      },
+      {
+        "id": "monster_island_horde_small_purple",
+        "type": "HexMap",
+        "rarityRequirementsId": "",
+        "heroClassGroupRequirementsId": "",
+        "duration": "1天",
+        "provinceLootTableId": "province_5",
+        "provinceLootItemLimit": 5,
+        "quests": [
+          {
+            "level": {
+              "provinceId": "",
+              "energyCost": 0,
+              "commonMonstersLevel": 25,
+              "monsterAttackModifierPerMil": 156,
+              "commonMonstersLevelDeviation": 0,
+              "randomizedMonsterIds": [
+                "monster_island_horde_beetloid_purple",
+                "monster_island_horde_beetloid_purple"
+              ],
+              "randomizedMonsterWaveFormationIds": [
+                "horde"
+              ],
+              "numberOfRandomizedWaves": 0,
+              "predeterminedWaves": [
+                {
+                  "waveFormationId": "horde",
+                  "monsterDefinitions": [
+                    {
+                      "id": "monster_island_horde_beetloid_purple"
+                    },
+                    {
+                      "id": "monster_island_horde_beetloid_purple"
+                    },
+                    {
+                      "id": "monster_island_horde_beetloid_purple"
+                    }
+                  ]
+                }
+              ],
+              "battlegroundId": "HexMapHorde",
+              "foodReward": 1300,
+              "ironReward": 2600,
+              "recruitsReward": 2,
+              "xpReward": 650,
+              "specificLevelPropertyIds": [
+                "monster_island_horde_small"
+              ]
+            },
+            "heroRewards": [],
+            "itemRewards": [],
+            "itemRewardsAlternative": [],
+            "displayedEntities": [],
+            "lootTier": 0
+          },
+          {
+            "level": {
+              "provinceId": "",
+              "energyCost": 0,
+              "commonMonstersLevel": 66,
+              "commonMonstersLevelDeviation": 0,
+              "randomizedMonsterIds": [
+                "monster_island_horde_beetloid_purple",
+                "monster_island_horde_beetloid_purple"
+              ],
+              "randomizedMonsterWaveFormationIds": [
+                "horde"
+              ],
+              "numberOfRandomizedWaves": 0,
+              "predeterminedWaves": [
+                {
+                  "waveFormationId": "horde",
+                  "monsterDefinitions": [
+                    {
+                      "id": "monster_island_horde_beetloid_purple"
+                    },
+                    {
+                      "id": "monster_island_horde_beetloid_purple"
+                    },
+                    {
+                      "id": "monster_island_horde_beetloid_purple"
+                    }
+                  ]
+                }
+              ],
+              "battlegroundId": "HexMapHorde",
+              "foodReward": 1500,
+              "ironReward": 3000,
+              "recruitsReward": 2,
+              "xpReward": 750,
+              "specificLevelPropertyIds": [
+                "monster_island_horde_small"
+              ]
+            },
+            "heroRewards": [],
+            "itemRewards": [],
+            "itemRewardsAlternative": [],
+            "displayedEntities": [],
+            "lootTier": 0
+          },
+          {
+            "level": {
+              "provinceId": "",
+              "energyCost": 0,
+              "commonMonstersLevel": 110,
+              "monsterAttackModifierPerMil": 150,
+              "commonMonstersLevelDeviation": 0,
+              "randomizedMonsterIds": [
+                "monster_island_horde_beetloid_purple",
+                "monster_island_horde_beetloid_purple"
+              ],
+              "randomizedMonsterWaveFormationIds": [
+                "horde"
+              ],
+              "numberOfRandomizedWaves": 0,
+              "predeterminedWaves": [
+                {
+                  "waveFormationId": "horde",
+                  "monsterDefinitions": [
+                    {
+                      "id": "monster_island_horde_beetloid_purple"
+                    },
+                    {
+                      "id": "monster_island_horde_beetloid_purple"
+                    },
+                    {
+                      "id": "monster_island_horde_beetloid_purple"
+                    }
+                  ]
+                }
+              ],
+              "battlegroundId": "HexMapHorde",
+              "foodReward": 1700,
+              "ironReward": 3400,
+              "recruitsReward": 2,
+              "xpReward": 850,
+              "specificLevelPropertyIds": [
+                "monster_island_horde_small"
+              ]
+            },
+            "heroRewards": [],
+            "itemRewards": [],
+            "itemRewardsAlternative": [],
+            "displayedEntities": [],
+            "lootTier": 0
+          },
+          {
+            "level": {
+              "provinceId": "",
+              "energyCost": 0,
+              "commonMonstersLevel": 180,
+              "monsterAttackModifierPerMil": 200,
+              "monsterHealthModifierPerMil": 100,
+              "commonMonstersLevelDeviation": 0,
+              "randomizedMonsterIds": [
+                "monster_island_horde_beetloid_purple",
+                "monster_island_horde_beetloid_purple"
+              ],
+              "randomizedMonsterWaveFormationIds": [
+                "horde"
+              ],
+              "numberOfRandomizedWaves": 0,
+              "predeterminedWaves": [
+                {
+                  "waveFormationId": "horde",
+                  "monsterDefinitions": [
+                    {
+                      "id": "monster_island_horde_beetloid_purple"
+                    },
+                    {
+                      "id": "monster_island_horde_beetloid_purple"
+                    },
+                    {
+                      "id": "monster_island_horde_beetloid_purple"
+                    }
+                  ]
+                }
+              ],
+              "battlegroundId": "HexMapHorde",
+              "foodReward": 1800,
+              "ironReward": 3600,
+              "recruitsReward": 2,
+              "xpReward": 950,
+              "specificLevelPropertyIds": [
+                "monster_island_horde_small"
+              ]
+            },
+            "heroRewards": [],
+            "itemRewards": [],
+            "itemRewardsAlternative": [],
+            "displayedEntities": [],
+            "lootTier": 0
+          }
+        ],
+        "minDifficultyMultiplierPerMil": 1000,
+        "maxDifficultyMultiplierPerMil": 1100,
+        "completionRewards": [],
+        "energyType": "PveEnergy"
+      },
+      {
+        "id": "monster_island_horde_small_blue",
+        "type": "HexMap",
+        "rarityRequirementsId": "",
+        "heroClassGroupRequirementsId": "",
+        "duration": "1天",
+        "provinceLootTableId": "province_5",
+        "provinceLootItemLimit": 5,
+        "quests": [
+          {
+            "level": {
+              "provinceId": "",
+              "energyCost": 0,
+              "commonMonstersLevel": 25,
+              "monsterAttackModifierPerMil": 156,
+              "commonMonstersLevelDeviation": 0,
+              "randomizedMonsterIds": [
+                "monster_island_horde_camolizard_blue",
+                "monster_island_horde_camolizard_blue"
+              ],
+              "randomizedMonsterWaveFormationIds": [
+                "horde"
+              ],
+              "numberOfRandomizedWaves": 0,
+              "predeterminedWaves": [
+                {
+                  "waveFormationId": "horde",
+                  "monsterDefinitions": [
+                    {
+                      "id": "monster_island_horde_camolizard_blue"
+                    },
+                    {
+                      "id": "monster_island_horde_camolizard_blue"
+                    },
+                    {
+                      "id": "monster_island_horde_camolizard_blue"
+                    }
+                  ]
+                }
+              ],
+              "battlegroundId": "HexMapHorde",
+              "foodReward": 1300,
+              "ironReward": 2600,
+              "recruitsReward": 2,
+              "xpReward": 650,
+              "specificLevelPropertyIds": [
+                "monster_island_horde_small"
+              ]
+            },
+            "heroRewards": [],
+            "itemRewards": [],
+            "itemRewardsAlternative": [],
+            "displayedEntities": [],
+            "lootTier": 0
+          },
+          {
+            "level": {
+              "provinceId": "",
+              "energyCost": 0,
+              "commonMonstersLevel": 66,
+              "commonMonstersLevelDeviation": 0,
+              "randomizedMonsterIds": [
+                "monster_island_horde_camolizard_blue",
+                "monster_island_horde_camolizard_blue"
+              ],
+              "randomizedMonsterWaveFormationIds": [
+                "horde"
+              ],
+              "numberOfRandomizedWaves": 0,
+              "predeterminedWaves": [
+                {
+                  "waveFormationId": "horde",
+                  "monsterDefinitions": [
+                    {
+                      "id": "monster_island_horde_camolizard_blue"
+                    },
+                    {
+                      "id": "monster_island_horde_camolizard_blue"
+                    },
+                    {
+                      "id": "monster_island_horde_camolizard_blue"
+                    }
+                  ]
+                }
+              ],
+              "battlegroundId": "HexMapHorde",
+              "foodReward": 1500,
+              "ironReward": 3000,
+              "recruitsReward": 2,
+              "xpReward": 750,
+              "specificLevelPropertyIds": [
+                "monster_island_horde_small"
+              ]
+            },
+            "heroRewards": [],
+            "itemRewards": [],
+            "itemRewardsAlternative": [],
+            "displayedEntities": [],
+            "lootTier": 0
+          },
+          {
+            "level": {
+              "provinceId": "",
+              "energyCost": 0,
+              "commonMonstersLevel": 110,
+              "monsterAttackModifierPerMil": 150,
+              "commonMonstersLevelDeviation": 0,
+              "randomizedMonsterIds": [
+                "monster_island_horde_camolizard_blue",
+                "monster_island_horde_camolizard_blue"
+              ],
+              "randomizedMonsterWaveFormationIds": [
+                "horde"
+              ],
+              "numberOfRandomizedWaves": 0,
+              "predeterminedWaves": [
+                {
+                  "waveFormationId": "horde",
+                  "monsterDefinitions": [
+                    {
+                      "id": "monster_island_horde_camolizard_blue"
+                    },
+                    {
+                      "id": "monster_island_horde_camolizard_blue"
+                    },
+                    {
+                      "id": "monster_island_horde_camolizard_blue"
+                    }
+                  ]
+                }
+              ],
+              "battlegroundId": "HexMapHorde",
+              "foodReward": 1700,
+              "ironReward": 3400,
+              "recruitsReward": 2,
+              "xpReward": 850,
+              "specificLevelPropertyIds": [
+                "monster_island_horde_small"
+              ]
+            },
+            "heroRewards": [],
+            "itemRewards": [],
+            "itemRewardsAlternative": [],
+            "displayedEntities": [],
+            "lootTier": 0
           },
           {
             "level": {
@@ -57969,7 +60024,68 @@
               "commonMonstersLevelDeviation": 0,
               "randomizedMonsterIds": [
                 "monster_island_horde_camolizard_blue",
-                "monster_island_horde_plantipede_green"
+                "monster_island_horde_camolizard_blue"
+              ],
+              "randomizedMonsterWaveFormationIds": [
+                "horde"
+              ],
+              "numberOfRandomizedWaves": 0,
+              "predeterminedWaves": [
+                {
+                  "waveFormationId": "horde",
+                  "monsterDefinitions": [
+                    {
+                      "id": "monster_island_horde_camolizard_blue"
+                    },
+                    {
+                      "id": "monster_island_horde_camolizard_blue"
+                    },
+                    {
+                      "id": "monster_island_horde_camolizard_blue"
+                    }
+                  ]
+                }
+              ],
+              "battlegroundId": "HexMapHorde",
+              "foodReward": 1800,
+              "ironReward": 3600,
+              "recruitsReward": 2,
+              "xpReward": 950,
+              "specificLevelPropertyIds": [
+                "monster_island_horde_small"
+              ]
+            },
+            "heroRewards": [],
+            "itemRewards": [],
+            "itemRewardsAlternative": [],
+            "displayedEntities": [],
+            "lootTier": 0
+          }
+        ],
+        "minDifficultyMultiplierPerMil": 1000,
+        "maxDifficultyMultiplierPerMil": 1100,
+        "completionRewards": [],
+        "energyType": "PveEnergy"
+      },
+      {
+        "id": "monster_island_horde_small_red",
+        "type": "HexMap",
+        "rarityRequirementsId": "",
+        "heroClassGroupRequirementsId": "",
+        "duration": "1天",
+        "provinceLootTableId": "province_5",
+        "provinceLootItemLimit": 5,
+        "quests": [
+          {
+            "level": {
+              "provinceId": "",
+              "energyCost": 0,
+              "commonMonstersLevel": 25,
+              "monsterAttackModifierPerMil": 156,
+              "commonMonstersLevelDeviation": 0,
+              "randomizedMonsterIds": [
+                "monster_island_horde_camolizard_red",
+                "monster_island_horde_camolizard_red"
               ],
               "randomizedMonsterWaveFormationIds": [
                 "horde"
@@ -57983,10 +60099,148 @@
                       "id": "monster_island_horde_camolizard_red"
                     },
                     {
-                      "id": "monster_island_horde_beetloid_purple"
+                      "id": "monster_island_horde_camolizard_red"
                     },
                     {
-                      "id": "monster_island_horde_beetloid_yellow"
+                      "id": "monster_island_horde_camolizard_red"
+                    }
+                  ]
+                }
+              ],
+              "battlegroundId": "HexMapHorde",
+              "foodReward": 1300,
+              "ironReward": 2600,
+              "recruitsReward": 2,
+              "xpReward": 650,
+              "specificLevelPropertyIds": [
+                "monster_island_horde_small"
+              ]
+            },
+            "heroRewards": [],
+            "itemRewards": [],
+            "itemRewardsAlternative": [],
+            "displayedEntities": [],
+            "lootTier": 0
+          },
+          {
+            "level": {
+              "provinceId": "",
+              "energyCost": 0,
+              "commonMonstersLevel": 66,
+              "commonMonstersLevelDeviation": 0,
+              "randomizedMonsterIds": [
+                "monster_island_horde_camolizard_red",
+                "monster_island_horde_camolizard_red"
+              ],
+              "randomizedMonsterWaveFormationIds": [
+                "horde"
+              ],
+              "numberOfRandomizedWaves": 0,
+              "predeterminedWaves": [
+                {
+                  "waveFormationId": "horde",
+                  "monsterDefinitions": [
+                    {
+                      "id": "monster_island_horde_camolizard_red"
+                    },
+                    {
+                      "id": "monster_island_horde_camolizard_red"
+                    },
+                    {
+                      "id": "monster_island_horde_camolizard_red"
+                    }
+                  ]
+                }
+              ],
+              "battlegroundId": "HexMapHorde",
+              "foodReward": 1500,
+              "ironReward": 3000,
+              "recruitsReward": 2,
+              "xpReward": 750,
+              "specificLevelPropertyIds": [
+                "monster_island_horde_small"
+              ]
+            },
+            "heroRewards": [],
+            "itemRewards": [],
+            "itemRewardsAlternative": [],
+            "displayedEntities": [],
+            "lootTier": 0
+          },
+          {
+            "level": {
+              "provinceId": "",
+              "energyCost": 0,
+              "commonMonstersLevel": 110,
+              "monsterAttackModifierPerMil": 150,
+              "commonMonstersLevelDeviation": 0,
+              "randomizedMonsterIds": [
+                "monster_island_horde_camolizard_red",
+                "monster_island_horde_camolizard_red"
+              ],
+              "randomizedMonsterWaveFormationIds": [
+                "horde"
+              ],
+              "numberOfRandomizedWaves": 0,
+              "predeterminedWaves": [
+                {
+                  "waveFormationId": "horde",
+                  "monsterDefinitions": [
+                    {
+                      "id": "monster_island_horde_camolizard_red"
+                    },
+                    {
+                      "id": "monster_island_horde_camolizard_red"
+                    },
+                    {
+                      "id": "monster_island_horde_camolizard_red"
+                    }
+                  ]
+                }
+              ],
+              "battlegroundId": "HexMapHorde",
+              "foodReward": 1700,
+              "ironReward": 3400,
+              "recruitsReward": 2,
+              "xpReward": 850,
+              "specificLevelPropertyIds": [
+                "monster_island_horde_small"
+              ]
+            },
+            "heroRewards": [],
+            "itemRewards": [],
+            "itemRewardsAlternative": [],
+            "displayedEntities": [],
+            "lootTier": 0
+          },
+          {
+            "level": {
+              "provinceId": "",
+              "energyCost": 0,
+              "commonMonstersLevel": 180,
+              "monsterAttackModifierPerMil": 200,
+              "monsterHealthModifierPerMil": 100,
+              "commonMonstersLevelDeviation": 0,
+              "randomizedMonsterIds": [
+                "monster_island_horde_camolizard_red",
+                "monster_island_horde_camolizard_red"
+              ],
+              "randomizedMonsterWaveFormationIds": [
+                "horde"
+              ],
+              "numberOfRandomizedWaves": 0,
+              "predeterminedWaves": [
+                {
+                  "waveFormationId": "horde",
+                  "monsterDefinitions": [
+                    {
+                      "id": "monster_island_horde_camolizard_red"
+                    },
+                    {
+                      "id": "monster_island_horde_camolizard_red"
+                    },
+                    {
+                      "id": "monster_island_horde_camolizard_red"
                     }
                   ]
                 }
@@ -57994,7 +60248,206 @@
               "battlegroundId": "HexMapHorde",
               "foodReward": 1800,
               "ironReward": 3600,
-              "recruitsReward": 3,
+              "recruitsReward": 2,
+              "xpReward": 950,
+              "specificLevelPropertyIds": [
+                "monster_island_horde_small"
+              ]
+            },
+            "heroRewards": [],
+            "itemRewards": [],
+            "itemRewardsAlternative": [],
+            "displayedEntities": [],
+            "lootTier": 0
+          }
+        ],
+        "minDifficultyMultiplierPerMil": 1000,
+        "maxDifficultyMultiplierPerMil": 1100,
+        "completionRewards": [],
+        "energyType": "PveEnergy"
+      },
+      {
+        "id": "monster_island_horde_small_green",
+        "type": "HexMap",
+        "rarityRequirementsId": "",
+        "heroClassGroupRequirementsId": "",
+        "duration": "1天",
+        "provinceLootTableId": "province_5",
+        "provinceLootItemLimit": 5,
+        "quests": [
+          {
+            "level": {
+              "provinceId": "",
+              "energyCost": 0,
+              "commonMonstersLevel": 25,
+              "monsterAttackModifierPerMil": 156,
+              "commonMonstersLevelDeviation": 0,
+              "randomizedMonsterIds": [
+                "monster_island_horde_plantipede_green",
+                "monster_island_horde_plantipede_green"
+              ],
+              "randomizedMonsterWaveFormationIds": [
+                "horde"
+              ],
+              "numberOfRandomizedWaves": 0,
+              "predeterminedWaves": [
+                {
+                  "waveFormationId": "horde",
+                  "monsterDefinitions": [
+                    {
+                      "id": "monster_island_horde_plantipede_green"
+                    },
+                    {
+                      "id": "monster_island_horde_plantipede_green"
+                    },
+                    {
+                      "id": "monster_island_horde_plantipede_green"
+                    }
+                  ]
+                }
+              ],
+              "battlegroundId": "HexMapHorde",
+              "foodReward": 1300,
+              "ironReward": 2600,
+              "recruitsReward": 2,
+              "xpReward": 650,
+              "specificLevelPropertyIds": [
+                "monster_island_horde_small"
+              ]
+            },
+            "heroRewards": [],
+            "itemRewards": [],
+            "itemRewardsAlternative": [],
+            "displayedEntities": [],
+            "lootTier": 0
+          },
+          {
+            "level": {
+              "provinceId": "",
+              "energyCost": 0,
+              "commonMonstersLevel": 66,
+              "commonMonstersLevelDeviation": 0,
+              "randomizedMonsterIds": [
+                "monster_island_horde_plantipede_green",
+                "monster_island_horde_plantipede_green"
+              ],
+              "randomizedMonsterWaveFormationIds": [
+                "horde"
+              ],
+              "numberOfRandomizedWaves": 0,
+              "predeterminedWaves": [
+                {
+                  "waveFormationId": "horde",
+                  "monsterDefinitions": [
+                    {
+                      "id": "monster_island_horde_plantipede_green"
+                    },
+                    {
+                      "id": "monster_island_horde_plantipede_green"
+                    },
+                    {
+                      "id": "monster_island_horde_plantipede_green"
+                    }
+                  ]
+                }
+              ],
+              "battlegroundId": "HexMapHorde",
+              "foodReward": 1500,
+              "ironReward": 3000,
+              "recruitsReward": 2,
+              "xpReward": 750,
+              "specificLevelPropertyIds": [
+                "monster_island_horde_small"
+              ]
+            },
+            "heroRewards": [],
+            "itemRewards": [],
+            "itemRewardsAlternative": [],
+            "displayedEntities": [],
+            "lootTier": 0
+          },
+          {
+            "level": {
+              "provinceId": "",
+              "energyCost": 0,
+              "commonMonstersLevel": 110,
+              "monsterAttackModifierPerMil": 150,
+              "commonMonstersLevelDeviation": 0,
+              "randomizedMonsterIds": [
+                "monster_island_horde_plantipede_green",
+                "monster_island_horde_plantipede_green"
+              ],
+              "randomizedMonsterWaveFormationIds": [
+                "horde"
+              ],
+              "numberOfRandomizedWaves": 0,
+              "predeterminedWaves": [
+                {
+                  "waveFormationId": "horde",
+                  "monsterDefinitions": [
+                    {
+                      "id": "monster_island_horde_plantipede_green"
+                    },
+                    {
+                      "id": "monster_island_horde_plantipede_green"
+                    },
+                    {
+                      "id": "monster_island_horde_plantipede_green"
+                    }
+                  ]
+                }
+              ],
+              "battlegroundId": "HexMapHorde",
+              "foodReward": 1700,
+              "ironReward": 3400,
+              "recruitsReward": 2,
+              "xpReward": 850,
+              "specificLevelPropertyIds": [
+                "monster_island_horde_small"
+              ]
+            },
+            "heroRewards": [],
+            "itemRewards": [],
+            "itemRewardsAlternative": [],
+            "displayedEntities": [],
+            "lootTier": 0
+          },
+          {
+            "level": {
+              "provinceId": "",
+              "energyCost": 0,
+              "commonMonstersLevel": 180,
+              "monsterAttackModifierPerMil": 200,
+              "monsterHealthModifierPerMil": 100,
+              "commonMonstersLevelDeviation": 0,
+              "randomizedMonsterIds": [
+                "monster_island_horde_plantipede_green",
+                "monster_island_horde_plantipede_green"
+              ],
+              "randomizedMonsterWaveFormationIds": [
+                "horde"
+              ],
+              "numberOfRandomizedWaves": 0,
+              "predeterminedWaves": [
+                {
+                  "waveFormationId": "horde",
+                  "monsterDefinitions": [
+                    {
+                      "id": "monster_island_horde_plantipede_green"
+                    },
+                    {
+                      "id": "monster_island_horde_plantipede_green"
+                    },
+                    {
+                      "id": "monster_island_horde_plantipede_green"
+                    }
+                  ]
+                }
+              ],
+              "battlegroundId": "HexMapHorde",
+              "foodReward": 1800,
+              "ironReward": 3600,
+              "recruitsReward": 2,
               "xpReward": 950,
               "specificLevelPropertyIds": [
                 "monster_island_horde_small"
@@ -66136,7 +68589,7 @@
                       "id": "mimic_water"
                     },
                     {
-                      "id": "mimic_boss_hungry"
+                      "id": "mimic_boss_hungry3"
                     },
                     {
                       "id": "mimic_holy"
@@ -66196,7 +68649,7 @@
                       "id": "mimic_nature"
                     },
                     {
-                      "id": "mimic_boss_guardian"
+                      "id": "mimic_boss_guardian3"
                     },
                     {
                       "id": "mimic_fire"
@@ -66256,7 +68709,7 @@
                       "id": "mimic_dark"
                     },
                     {
-                      "id": "mimic_boss_swamp"
+                      "id": "mimic_boss_swamp3"
                     },
                     {
                       "id": "mimic_water"
@@ -66324,7 +68777,7 @@
                       "id": "mimic_holy"
                     },
                     {
-                      "id": "mimic_boss_hungry"
+                      "id": "mimic_boss_hungry3"
                     },
                     {
                       "id": "mimic_nature"
@@ -66386,7 +68839,7 @@
                       "id": "mimic_nature"
                     },
                     {
-                      "id": "mimic_boss_guardian"
+                      "id": "mimic_boss_guardian3"
                     },
                     {
                       "id": "mimic_nature"
@@ -66430,7 +68883,7 @@
             "level": {
               "provinceId": "",
               "energyCost": 25,
-              "commonMonstersLevel": 650,
+              "commonMonstersLevel": 675,
               "monsterAttackModifierPerMil": 550,
               "monsterHealthModifierPerMil": 65186,
               "commonMonstersLevelDeviation": 0,
@@ -66460,6 +68913,14 @@
                       "id": "mimic_nature"
                     }
                   ]
+                },
+                {
+                  "waveFormationId": "boss_1",
+                  "monsterDefinitions": [
+                    {
+                      "id": "mimic_boss_guardian2"
+                    }
+                  ]
                 }
               ],
               "battlegroundId": "MimicTreasureCave",
@@ -66477,7 +68938,7 @@
             "itemRewards": [
               {
                 "type": "AvatarPin",
-                "id": "treasurequest_alphaaether",
+                "id": "treasurequest_alphaaether_star",
                 "amount": 1
               }
             ],
@@ -66529,7 +68990,7 @@
                       "id": "mimic_water"
                     },
                     {
-                      "id": "mimic_boss_hungry"
+                      "id": "mimic_boss_hungry3"
                     },
                     {
                       "id": "mimic_holy"
@@ -66587,7 +69048,7 @@
                       "id": "mimic_nature"
                     },
                     {
-                      "id": "mimic_boss_swamp"
+                      "id": "mimic_boss_swamp3"
                     },
                     {
                       "id": "mimic_fire"
@@ -66646,7 +69107,7 @@
                       "id": "mimic_dark"
                     },
                     {
-                      "id": "mimic_boss_guardian"
+                      "id": "mimic_boss_guardian3"
                     },
                     {
                       "id": "mimic_water"
@@ -66714,7 +69175,7 @@
                       "id": "mimic_holy"
                     },
                     {
-                      "id": "mimic_boss_hungry"
+                      "id": "mimic_boss_hungry3"
                     },
                     {
                       "id": "mimic_nature"
@@ -66775,7 +69236,7 @@
                       "id": "mimic_nature"
                     },
                     {
-                      "id": "mimic_boss_guardian"
+                      "id": "mimic_boss_guardian3"
                     },
                     {
                       "id": "mimic_nature"
@@ -66819,7 +69280,7 @@
             "level": {
               "provinceId": "",
               "energyCost": 25,
-              "commonMonstersLevel": 650,
+              "commonMonstersLevel": 675,
               "monsterAttackModifierPerMil": 550,
               "monsterHealthModifierPerMil": 65186,
               "commonMonstersLevelDeviation": 0,
@@ -66849,6 +69310,14 @@
                       "id": "mimic_nature"
                     }
                   ]
+                },
+                {
+                  "waveFormationId": "boss_1",
+                  "monsterDefinitions": [
+                    {
+                      "id": "mimic_boss_guardian2"
+                    }
+                  ]
                 }
               ],
               "battlegroundId": "MimicTreasureCave",
@@ -66866,7 +69335,7 @@
             "itemRewards": [
               {
                 "type": "AvatarPin",
-                "id": "treasurequest_blue",
+                "id": "treasurequest_blue_star",
                 "amount": 1
               }
             ],
@@ -66899,8 +69368,8 @@
               "commonMonstersLevel": 130,
               "commonMonstersLevelDeviation": 0,
               "randomizedMonsterIds": [
-                "mimic_water",
-                "mimic_holy"
+                "mimic_nature",
+                "mimic_water"
               ],
               "randomizedMonsterWaveFormationIds": [
                 "random_3_line",
@@ -66915,10 +69384,10 @@
                   "waveFormationId": "boss_3_A",
                   "monsterDefinitions": [
                     {
-                      "id": "mimic_water"
+                      "id": "mimic_nature"
                     },
                     {
-                      "id": "mimic_boss_hungry"
+                      "id": "mimic_boss_hungry3"
                     },
                     {
                       "id": "mimic_holy"
@@ -66957,7 +69426,7 @@
               "commonMonstersLevel": 150,
               "commonMonstersLevelDeviation": 0,
               "randomizedMonsterIds": [
-                "mimic_nature",
+                "mimic_dark",
                 "mimic_fire"
               ],
               "randomizedMonsterWaveFormationIds": [
@@ -66973,10 +69442,10 @@
                   "waveFormationId": "boss_3_A",
                   "monsterDefinitions": [
                     {
-                      "id": "mimic_nature"
+                      "id": "mimic_dark"
                     },
                     {
-                      "id": "mimic_boss_guardian"
+                      "id": "mimic_boss_guardian3"
                     },
                     {
                       "id": "mimic_fire"
@@ -67016,7 +69485,7 @@
               "commonMonstersLevel": 160,
               "commonMonstersLevelDeviation": 0,
               "randomizedMonsterIds": [
-                "mimic_dark",
+                "mimic_holy",
                 "mimic_water"
               ],
               "randomizedMonsterWaveFormationIds": [
@@ -67035,7 +69504,7 @@
                       "id": "mimic_dark"
                     },
                     {
-                      "id": "mimic_boss_swamp"
+                      "id": "mimic_boss_swamp3"
                     },
                     {
                       "id": "mimic_water"
@@ -67103,7 +69572,7 @@
                       "id": "mimic_holy"
                     },
                     {
-                      "id": "mimic_boss_hungry"
+                      "id": "mimic_boss_hungry3"
                     },
                     {
                       "id": "mimic_nature"
@@ -67145,8 +69614,8 @@
               "monsterHealthModifierPerMil": 65286,
               "commonMonstersLevelDeviation": 0,
               "randomizedMonsterIds": [
-                "mimic_fire",
-                "mimic_dark"
+                "mimic_water",
+                "mimic_fire"
               ],
               "randomizedMonsterWaveFormationIds": [
                 "random_3_line",
@@ -67161,10 +69630,10 @@
                   "waveFormationId": "boss_3_A",
                   "monsterDefinitions": [
                     {
-                      "id": "mimic_fire"
+                      "id": "mimic_nature"
                     },
                     {
-                      "id": "mimic_boss_swamp"
+                      "id": "mimic_boss_swamp3"
                     },
                     {
                       "id": "mimic_fire"
@@ -67208,13 +69677,13 @@
             "level": {
               "provinceId": "",
               "energyCost": 25,
-              "commonMonstersLevel": 650,
+              "commonMonstersLevel": 675,
               "monsterAttackModifierPerMil": 550,
               "monsterHealthModifierPerMil": 65186,
               "commonMonstersLevelDeviation": 0,
               "randomizedMonsterIds": [
-                "mimic_fire",
-                "mimic_dark"
+                "mimic_water",
+                "mimic_fire"
               ],
               "randomizedMonsterWaveFormationIds": [
                 "random_3_line",
@@ -67229,13 +69698,21 @@
                   "waveFormationId": "boss_3_A",
                   "monsterDefinitions": [
                     {
-                      "id": "mimic_fire"
+                      "id": "mimic_nature"
                     },
                     {
                       "id": "mimic_boss_swamp"
                     },
                     {
                       "id": "mimic_fire"
+                    }
+                  ]
+                },
+                {
+                  "waveFormationId": "boss_1",
+                  "monsterDefinitions": [
+                    {
+                      "id": "mimic_boss_swamp2"
                     }
                   ]
                 }
@@ -67255,7 +69732,7 @@
             "itemRewards": [
               {
                 "type": "AvatarPin",
-                "id": "treasurequest_green",
+                "id": "treasurequest_green_star",
                 "amount": 1
               }
             ],
@@ -67307,7 +69784,7 @@
                       "id": "mimic_water"
                     },
                     {
-                      "id": "mimic_boss_swamp"
+                      "id": "mimic_boss_swamp3"
                     },
                     {
                       "id": "mimic_holy"
@@ -67365,7 +69842,7 @@
                       "id": "mimic_nature"
                     },
                     {
-                      "id": "mimic_boss_guardian"
+                      "id": "mimic_boss_guardian3"
                     },
                     {
                       "id": "mimic_fire"
@@ -67424,7 +69901,7 @@
                       "id": "mimic_dark"
                     },
                     {
-                      "id": "mimic_boss_hungry"
+                      "id": "mimic_boss_hungry3"
                     },
                     {
                       "id": "mimic_water"
@@ -67492,7 +69969,7 @@
                       "id": "mimic_holy"
                     },
                     {
-                      "id": "mimic_boss_swamp"
+                      "id": "mimic_boss_swamp3"
                     },
                     {
                       "id": "mimic_nature"
@@ -67553,7 +70030,7 @@
                       "id": "mimic_water"
                     },
                     {
-                      "id": "mimic_boss_hungry"
+                      "id": "mimic_boss_hungry3"
                     },
                     {
                       "id": "mimic_water"
@@ -67597,7 +70074,7 @@
             "level": {
               "provinceId": "",
               "energyCost": 25,
-              "commonMonstersLevel": 650,
+              "commonMonstersLevel": 675,
               "monsterAttackModifierPerMil": 550,
               "monsterHealthModifierPerMil": 65186,
               "commonMonstersLevelDeviation": 0,
@@ -67627,6 +70104,14 @@
                       "id": "mimic_water"
                     }
                   ]
+                },
+                {
+                  "waveFormationId": "boss_1",
+                  "monsterDefinitions": [
+                    {
+                      "id": "mimic_boss_hungry2"
+                    }
+                  ]
                 }
               ],
               "battlegroundId": "MimicTreasureCave",
@@ -67644,7 +70129,7 @@
             "itemRewards": [
               {
                 "type": "AvatarPin",
-                "id": "treasurequest_red",
+                "id": "treasurequest_red_star",
                 "amount": 1
               }
             ],
@@ -67696,7 +70181,7 @@
                       "id": "mimic_water"
                     },
                     {
-                      "id": "mimic_boss_swamp"
+                      "id": "mimic_boss_swamp3"
                     },
                     {
                       "id": "mimic_holy"
@@ -67754,7 +70239,7 @@
                       "id": "mimic_nature"
                     },
                     {
-                      "id": "mimic_boss_hungry"
+                      "id": "mimic_boss_hungry3"
                     },
                     {
                       "id": "mimic_dark"
@@ -67813,7 +70298,7 @@
                       "id": "mimic_dark"
                     },
                     {
-                      "id": "mimic_boss_golden"
+                      "id": "mimic_boss_golden3"
                     },
                     {
                       "id": "mimic_fire"
@@ -67881,7 +70366,7 @@
                       "id": "mimic_holy"
                     },
                     {
-                      "id": "mimic_boss_guardian"
+                      "id": "mimic_boss_guardian3"
                     },
                     {
                       "id": "mimic_nature"
@@ -67942,7 +70427,7 @@
                       "id": "mimic_dark"
                     },
                     {
-                      "id": "mimic_boss_golden"
+                      "id": "mimic_boss_golden3"
                     },
                     {
                       "id": "mimic_dark"
@@ -67986,7 +70471,7 @@
             "level": {
               "provinceId": "",
               "energyCost": 25,
-              "commonMonstersLevel": 650,
+              "commonMonstersLevel": 675,
               "monsterAttackModifierPerMil": 550,
               "monsterHealthModifierPerMil": 65186,
               "commonMonstersLevelDeviation": 0,
@@ -68016,6 +70501,14 @@
                       "id": "mimic_dark"
                     }
                   ]
+                },
+                {
+                  "waveFormationId": "boss_1",
+                  "monsterDefinitions": [
+                    {
+                      "id": "mimic_boss_golden2"
+                    }
+                  ]
                 }
               ],
               "battlegroundId": "MimicTreasureCave",
@@ -68033,7 +70526,7 @@
             "itemRewards": [
               {
                 "type": "AvatarPin",
-                "id": "treasurequest_yellow",
+                "id": "treasurequest_yellow_star",
                 "amount": 1
               }
             ],
@@ -68085,7 +70578,7 @@
                       "id": "mimic_water"
                     },
                     {
-                      "id": "mimic_boss_hungry"
+                      "id": "mimic_boss_hungry3"
                     },
                     {
                       "id": "mimic_holy"
@@ -68143,7 +70636,7 @@
                       "id": "mimic_nature"
                     },
                     {
-                      "id": "mimic_boss_guardian"
+                      "id": "mimic_boss_guardian3"
                     },
                     {
                       "id": "mimic_fire"
@@ -68202,7 +70695,7 @@
                       "id": "mimic_dark"
                     },
                     {
-                      "id": "mimic_boss_cursed"
+                      "id": "mimic_boss_cursed3"
                     },
                     {
                       "id": "mimic_water"
@@ -68270,7 +70763,7 @@
                       "id": "mimic_holy"
                     },
                     {
-                      "id": "mimic_boss_swamp"
+                      "id": "mimic_boss_swamp3"
                     },
                     {
                       "id": "mimic_nature"
@@ -68331,7 +70824,7 @@
                       "id": "mimic_holy"
                     },
                     {
-                      "id": "mimic_boss_cursed"
+                      "id": "mimic_boss_cursed3"
                     },
                     {
                       "id": "mimic_holy"
@@ -68375,7 +70868,7 @@
             "level": {
               "provinceId": "",
               "energyCost": 25,
-              "commonMonstersLevel": 650,
+              "commonMonstersLevel": 675,
               "monsterAttackModifierPerMil": 550,
               "monsterHealthModifierPerMil": 65186,
               "commonMonstersLevelDeviation": 0,
@@ -68405,6 +70898,14 @@
                       "id": "mimic_holy"
                     }
                   ]
+                },
+                {
+                  "waveFormationId": "boss_1",
+                  "monsterDefinitions": [
+                    {
+                      "id": "mimic_boss_cursed2"
+                    }
+                  ]
                 }
               ],
               "battlegroundId": "MimicTreasureCave",
@@ -68422,7 +70923,7 @@
             "itemRewards": [
               {
                 "type": "AvatarPin",
-                "id": "treasurequest_purple",
+                "id": "treasurequest_purple_star",
                 "amount": 1
               }
             ],
@@ -68474,7 +70975,7 @@
                       "id": "mimic_water"
                     },
                     {
-                      "id": "mimic_boss_swamp"
+                      "id": "mimic_boss_swamp3"
                     },
                     {
                       "id": "mimic_holy"
@@ -68532,7 +71033,7 @@
                       "id": "mimic_nature"
                     },
                     {
-                      "id": "mimic_boss_hungry"
+                      "id": "mimic_boss_hungry3"
                     },
                     {
                       "id": "mimic_fire"
@@ -68591,7 +71092,7 @@
                       "id": "mimic_dark"
                     },
                     {
-                      "id": "mimic_boss_guardian"
+                      "id": "mimic_boss_guardian3"
                     },
                     {
                       "id": "mimic_water"
@@ -68652,7 +71153,7 @@
                       "id": "mimic_holy"
                     },
                     {
-                      "id": "mimic_boss_swamp"
+                      "id": "mimic_boss_swamp3"
                     },
                     {
                       "id": "mimic_nature"
@@ -68713,7 +71214,7 @@
                       "id": "mimic_dark"
                     },
                     {
-                      "id": "mimic_boss_hungry"
+                      "id": "mimic_boss_hungry3"
                     },
                     {
                       "id": "mimic_water"
@@ -68750,7 +71251,7 @@
             "level": {
               "provinceId": "",
               "energyCost": 25,
-              "commonMonstersLevel": 650,
+              "commonMonstersLevel": 675,
               "monsterAttackModifierPerMil": 550,
               "monsterHealthModifierPerMil": 65186,
               "commonMonstersLevelDeviation": 0,
@@ -68780,6 +71281,14 @@
                       "id": "mimic_water"
                     }
                   ]
+                },
+                {
+                  "waveFormationId": "boss_1",
+                  "monsterDefinitions": [
+                    {
+                      "id": "mimic_boss_hungry2"
+                    }
+                  ]
                 }
               ],
               "battlegroundId": "MimicTreasureCave",
@@ -68797,7 +71306,7 @@
             "itemRewards": [
               {
                 "type": "AvatarPin",
-                "id": "treasurequest_legendarytroop",
+                "id": "treasurequest_legendarytroop_star",
                 "amount": 1
               }
             ],
@@ -68849,7 +71358,7 @@
                       "id": "mimic_water"
                     },
                     {
-                      "id": "mimic_boss_hungry"
+                      "id": "mimic_boss_hungry3"
                     },
                     {
                       "id": "mimic_holy"
@@ -68913,7 +71422,7 @@
                       "id": "mimic_nature"
                     },
                     {
-                      "id": "mimic_boss_guardian"
+                      "id": "mimic_boss_guardian3"
                     },
                     {
                       "id": "mimic_fire"
@@ -68978,7 +71487,7 @@
                       "id": "mimic_dark"
                     },
                     {
-                      "id": "mimic_boss_swamp"
+                      "id": "mimic_boss_swamp3"
                     },
                     {
                       "id": "mimic_water"
@@ -69045,7 +71554,7 @@
                       "id": "mimic_holy"
                     },
                     {
-                      "id": "mimic_boss_hungry"
+                      "id": "mimic_boss_hungry3"
                     },
                     {
                       "id": "mimic_nature"
@@ -69112,7 +71621,7 @@
                       "id": "mimic_nature"
                     },
                     {
-                      "id": "mimic_boss_guardian"
+                      "id": "mimic_boss_guardian3"
                     },
                     {
                       "id": "mimic_nature"
@@ -69155,7 +71664,7 @@
             "level": {
               "provinceId": "",
               "energyCost": 25,
-              "commonMonstersLevel": 650,
+              "commonMonstersLevel": 675,
               "monsterAttackModifierPerMil": 550,
               "monsterHealthModifierPerMil": 65186,
               "commonMonstersLevelDeviation": 0,
@@ -69185,6 +71694,14 @@
                       "id": "mimic_nature"
                     }
                   ]
+                },
+                {
+                  "waveFormationId": "boss_1",
+                  "monsterDefinitions": [
+                    {
+                      "id": "mimic_boss_guardian2"
+                    }
+                  ]
                 }
               ],
               "battlegroundId": "MimicTreasureCave",
@@ -69202,7 +71719,7 @@
             "itemRewards": [
               {
                 "type": "AvatarPin",
-                "id": "treasurequest_covenant",
+                "id": "treasurequest_covenant_star",
                 "amount": 1
               }
             ],
@@ -69254,7 +71771,7 @@
                       "id": "mimic_water"
                     },
                     {
-                      "id": "mimic_boss_hungry"
+                      "id": "mimic_boss_hungry3"
                     },
                     {
                       "id": "mimic_holy"
@@ -69318,7 +71835,7 @@
                       "id": "mimic_nature"
                     },
                     {
-                      "id": "mimic_boss_guardian"
+                      "id": "mimic_boss_guardian3"
                     },
                     {
                       "id": "mimic_fire"
@@ -69383,7 +71900,7 @@
                       "id": "mimic_dark"
                     },
                     {
-                      "id": "mimic_boss_cursed"
+                      "id": "mimic_boss_cursed3"
                     },
                     {
                       "id": "mimic_water"
@@ -69450,7 +71967,7 @@
                       "id": "mimic_holy"
                     },
                     {
-                      "id": "mimic_boss_swamp"
+                      "id": "mimic_boss_swamp3"
                     },
                     {
                       "id": "mimic_nature"
@@ -69517,7 +72034,7 @@
                       "id": "mimic_holy"
                     },
                     {
-                      "id": "mimic_boss_cursed"
+                      "id": "mimic_boss_cursed3"
                     },
                     {
                       "id": "mimic_holy"
@@ -69560,7 +72077,7 @@
             "level": {
               "provinceId": "",
               "energyCost": 25,
-              "commonMonstersLevel": 650,
+              "commonMonstersLevel": 675,
               "monsterAttackModifierPerMil": 550,
               "monsterHealthModifierPerMil": 65186,
               "commonMonstersLevelDeviation": 0,
@@ -69590,6 +72107,14 @@
                       "id": "mimic_holy"
                     }
                   ]
+                },
+                {
+                  "waveFormationId": "boss_1",
+                  "monsterDefinitions": [
+                    {
+                      "id": "mimic_boss_cursed2"
+                    }
+                  ]
                 }
               ],
               "battlegroundId": "MimicTreasureCave",
@@ -69607,7 +72132,7 @@
             "itemRewards": [
               {
                 "type": "AvatarPin",
-                "id": "treasurequest_astral",
+                "id": "treasurequest_astral_star",
                 "amount": 1
               }
             ],
@@ -69659,7 +72184,7 @@
                       "id": "mimic_water"
                     },
                     {
-                      "id": "mimic_boss_hungry"
+                      "id": "mimic_boss_hungry3"
                     },
                     {
                       "id": "mimic_holy"
@@ -69723,7 +72248,7 @@
                       "id": "mimic_nature"
                     },
                     {
-                      "id": "mimic_boss_guardian"
+                      "id": "mimic_boss_guardian3"
                     },
                     {
                       "id": "mimic_fire"
@@ -69788,7 +72313,7 @@
                       "id": "mimic_dark"
                     },
                     {
-                      "id": "mimic_boss_swamp"
+                      "id": "mimic_boss_swamp3"
                     },
                     {
                       "id": "mimic_water"
@@ -69855,7 +72380,7 @@
                       "id": "mimic_holy"
                     },
                     {
-                      "id": "mimic_boss_hungry"
+                      "id": "mimic_boss_hungry3"
                     },
                     {
                       "id": "mimic_nature"
@@ -69922,7 +72447,7 @@
                       "id": "mimic_fire"
                     },
                     {
-                      "id": "mimic_boss_swamp"
+                      "id": "mimic_boss_swamp3"
                     },
                     {
                       "id": "mimic_fire"
@@ -69965,7 +72490,7 @@
             "level": {
               "provinceId": "",
               "energyCost": 25,
-              "commonMonstersLevel": 650,
+              "commonMonstersLevel": 675,
               "monsterAttackModifierPerMil": 550,
               "monsterHealthModifierPerMil": 65186,
               "commonMonstersLevelDeviation": 0,
@@ -69995,6 +72520,14 @@
                       "id": "mimic_fire"
                     }
                   ]
+                },
+                {
+                  "waveFormationId": "boss_1",
+                  "monsterDefinitions": [
+                    {
+                      "id": "mimic_boss_swamp2"
+                    }
+                  ]
                 }
               ],
               "battlegroundId": "MimicTreasureCave",
@@ -70012,7 +72545,7 @@
             "itemRewards": [
               {
                 "type": "AvatarPin",
-                "id": "treasurequest_tower",
+                "id": "treasurequest_tower_star",
                 "amount": 1
               }
             ],
@@ -70064,7 +72597,7 @@
                       "id": "mimic_water"
                     },
                     {
-                      "id": "mimic_boss_swamp"
+                      "id": "mimic_boss_swamp3"
                     },
                     {
                       "id": "mimic_holy"
@@ -70122,7 +72655,7 @@
                       "id": "mimic_nature"
                     },
                     {
-                      "id": "mimic_boss_hungry"
+                      "id": "mimic_boss_hungry3"
                     },
                     {
                       "id": "mimic_dark"
@@ -70181,7 +72714,7 @@
                       "id": "mimic_dark"
                     },
                     {
-                      "id": "mimic_boss_golden"
+                      "id": "mimic_boss_golden3"
                     },
                     {
                       "id": "mimic_fire"
@@ -70248,7 +72781,7 @@
                       "id": "mimic_holy"
                     },
                     {
-                      "id": "mimic_boss_guardian"
+                      "id": "mimic_boss_guardian3"
                     },
                     {
                       "id": "mimic_nature"
@@ -70309,7 +72842,7 @@
                       "id": "mimic_dark"
                     },
                     {
-                      "id": "mimic_boss_golden"
+                      "id": "mimic_boss_golden3"
                     },
                     {
                       "id": "mimic_dark"
@@ -70352,7 +72885,7 @@
             "level": {
               "provinceId": "",
               "energyCost": 25,
-              "commonMonstersLevel": 650,
+              "commonMonstersLevel": 675,
               "monsterAttackModifierPerMil": 550,
               "monsterHealthModifierPerMil": 65186,
               "commonMonstersLevelDeviation": 0,
@@ -70382,6 +72915,14 @@
                       "id": "mimic_dark"
                     }
                   ]
+                },
+                {
+                  "waveFormationId": "boss_1",
+                  "monsterDefinitions": [
+                    {
+                      "id": "mimic_boss_golden2"
+                    }
+                  ]
                 }
               ],
               "battlegroundId": "MimicTreasureCave",
@@ -70399,7 +72940,7 @@
             "itemRewards": [
               {
                 "type": "AvatarPin",
-                "id": "treasurequest_tomeofascension",
+                "id": "treasurequest_tomeofascension_star",
                 "amount": 1
               }
             ],
@@ -70451,7 +72992,7 @@
                       "id": "mimic_water"
                     },
                     {
-                      "id": "mimic_boss_swamp"
+                      "id": "mimic_boss_swamp3"
                     },
                     {
                       "id": "mimic_holy"
@@ -70509,7 +73050,7 @@
                       "id": "mimic_nature"
                     },
                     {
-                      "id": "mimic_boss_hungry"
+                      "id": "mimic_boss_hungry3"
                     },
                     {
                       "id": "mimic_dark"
@@ -70568,7 +73109,7 @@
                       "id": "mimic_dark"
                     },
                     {
-                      "id": "mimic_boss_golden"
+                      "id": "mimic_boss_golden3"
                     },
                     {
                       "id": "mimic_fire"
@@ -70635,7 +73176,7 @@
                       "id": "mimic_holy"
                     },
                     {
-                      "id": "mimic_boss_guardian"
+                      "id": "mimic_boss_guardian3"
                     },
                     {
                       "id": "mimic_nature"
@@ -70696,7 +73237,7 @@
                       "id": "mimic_dark"
                     },
                     {
-                      "id": "mimic_boss_golden"
+                      "id": "mimic_boss_golden3"
                     },
                     {
                       "id": "mimic_dark"
@@ -70739,7 +73280,7 @@
             "level": {
               "provinceId": "",
               "energyCost": 25,
-              "commonMonstersLevel": 650,
+              "commonMonstersLevel": 675,
               "monsterAttackModifierPerMil": 550,
               "monsterHealthModifierPerMil": 65186,
               "commonMonstersLevelDeviation": 0,
@@ -70769,6 +73310,14 @@
                       "id": "mimic_dark"
                     }
                   ]
+                },
+                {
+                  "waveFormationId": "boss_1",
+                  "monsterDefinitions": [
+                    {
+                      "id": "mimic_boss_golden2"
+                    }
+                  ]
                 }
               ],
               "battlegroundId": "MimicTreasureCave",
@@ -70786,7 +73335,7 @@
             "itemRewards": [
               {
                 "type": "AvatarPin",
-                "id": "treasurequest_ascension",
+                "id": "treasurequest_ascension_star",
                 "amount": 1
               }
             ],
@@ -70838,7 +73387,7 @@
                       "id": "mimic_water"
                     },
                     {
-                      "id": "mimic_boss_swamp"
+                      "id": "mimic_boss_hungry3"
                     },
                     {
                       "id": "mimic_holy"
@@ -70902,10 +73451,10 @@
                       "id": "mimic_nature"
                     },
                     {
-                      "id": "mimic_boss_hungry"
+                      "id": "mimic_boss_guardian3"
                     },
                     {
-                      "id": "mimic_dark"
+                      "id": "mimic_fire"
                     }
                   ]
                 }
@@ -70967,10 +73516,10 @@
                       "id": "mimic_dark"
                     },
                     {
-                      "id": "mimic_boss_golden"
+                      "id": "mimic_boss_cursed3"
                     },
                     {
-                      "id": "mimic_fire"
+                      "id": "mimic_water"
                     }
                   ]
                 }
@@ -71034,7 +73583,7 @@
                       "id": "mimic_holy"
                     },
                     {
-                      "id": "mimic_boss_guardian"
+                      "id": "mimic_boss_swamp3"
                     },
                     {
                       "id": "mimic_nature"
@@ -71076,7 +73625,7 @@
               "monsterHealthModifierPerMil": 65286,
               "commonMonstersLevelDeviation": 0,
               "randomizedMonsterIds": [
-                "mimic_fire",
+                "mimic_nature",
                 "mimic_dark"
               ],
               "randomizedMonsterWaveFormationIds": [
@@ -71092,13 +73641,13 @@
                   "waveFormationId": "boss_3_A",
                   "monsterDefinitions": [
                     {
-                      "id": "mimic_dark"
+                      "id": "mimic_water"
                     },
                     {
-                      "id": "mimic_boss_golden"
+                      "id": "mimic_boss_cursed3"
                     },
                     {
-                      "id": "mimic_dark"
+                      "id": "mimic_holy"
                     }
                   ]
                 }
@@ -71138,13 +73687,13 @@
             "level": {
               "provinceId": "",
               "energyCost": 25,
-              "commonMonstersLevel": 650,
+              "commonMonstersLevel": 675,
               "monsterAttackModifierPerMil": 550,
               "monsterHealthModifierPerMil": 65186,
               "commonMonstersLevelDeviation": 0,
               "randomizedMonsterIds": [
                 "mimic_fire",
-                "mimic_dark"
+                "mimic_holy"
               ],
               "randomizedMonsterWaveFormationIds": [
                 "random_3_line",
@@ -71159,13 +73708,21 @@
                   "waveFormationId": "boss_3_A",
                   "monsterDefinitions": [
                     {
-                      "id": "mimic_dark"
+                      "id": "mimic_water"
                     },
                     {
-                      "id": "mimic_boss_golden"
+                      "id": "mimic_boss_cursed"
                     },
                     {
-                      "id": "mimic_dark"
+                      "id": "mimic_holy"
+                    }
+                  ]
+                },
+                {
+                  "waveFormationId": "boss_1",
+                  "monsterDefinitions": [
+                    {
+                      "id": "mimic_boss_cursed2"
                     }
                   ]
                 }
@@ -71185,7 +73742,7 @@
             "itemRewards": [
               {
                 "type": "AvatarPin",
-                "id": "treasurequest_heroroster",
+                "id": "treasurequest_heroroster_star",
                 "amount": 1
               }
             ],
@@ -93951,29 +96508,492 @@
               "provinceId": "",
               "energyCost": 4,
               "commonMonstersLevel": 110,
-              "monsterAttackModifierPerMil": 300,
-              "monsterHealthModifierPerMil": 65236,
               "commonMonstersLevelDeviation": 0,
-              "randomizedMonsterIds": [],
-              "randomizedMonsterWaveFormationIds": [],
-              "numberOfRandomizedWaves": 0,
+              "randomizedMonsterIds": [
+                "guestip2_enemy5",
+                "guestip2_enemy4"
+              ],
+              "randomizedMonsterWaveFormationIds": [
+                "random_3_line",
+                "random_3_V",
+                "random_3_A",
+                "random_4_A",
+                "random_4_A"
+              ],
+              "numberOfRandomizedWaves": 2,
               "predeterminedWaves": [
                 {
-                  "waveFormationId": "boss_3_A_big",
+                  "waveFormationId": "fixed_3_line",
                   "monsterDefinitions": [
                     {
-                      "id": "guestip1_hero5_boss"
+                      "id": "guestip2_enemy6"
                     },
                     {
-                      "id": "guestip1_hero6_boss"
+                      "id": "guestip2_enemy15"
                     },
                     {
-                      "id": "guestip1_hero10_boss"
+                      "id": "guestip2_enemy6"
                     }
                   ]
                 }
               ],
               "battlegroundId": "GuestIP2",
+              "foodReward": 4800,
+              "ironReward": 500,
+              "recruitsReward": 5,
+              "xpReward": 1300
+            },
+            "recommendedTeamPower": 3200,
+            "heroRewards": [
+              {
+                "type": "Hero",
+                "id": "guestip2_hero6",
+                "amount": 1,
+                "powerGrade": "MaxAscension"
+              }
+            ],
+            "itemRewards": [],
+            "itemRewardsAlternative": [],
+            "boosterItemRewards": [
+              {
+                "type": "Item",
+                "id": "misc_loot_ticket",
+                "amount": 2
+              },
+              {
+                "type": "Item",
+                "id": "time_skip_hour",
+                "amount": 3
+              },
+              {
+                "type": "Item",
+                "id": "refill_iron_small",
+                "amount": 1
+              },
+              {
+                "type": "Gem",
+                "amount": 20
+              }
+            ],
+            "displayedEntities": [],
+            "lootTier": 0,
+            "alternativeRewardsCustomChance": 500
+          },
+          {
+            "level": {
+              "provinceId": "",
+              "energyCost": 4,
+              "commonMonstersLevel": 110,
+              "commonMonstersLevelDeviation": 0,
+              "randomizedMonsterIds": [
+                "guestip2_enemy6",
+                "guestip2_enemy7"
+              ],
+              "randomizedMonsterWaveFormationIds": [
+                "random_3_line",
+                "random_3_V",
+                "random_3_A",
+                "random_4_A",
+                "random_4_A"
+              ],
+              "numberOfRandomizedWaves": 2,
+              "predeterminedWaves": [
+                {
+                  "waveFormationId": "fixed_3_line",
+                  "monsterDefinitions": [
+                    {
+                      "id": "guestip2_enemy15"
+                    },
+                    {
+                      "id": "guestip2_enemy7"
+                    },
+                    {
+                      "id": "guestip2_enemy15"
+                    }
+                  ]
+                }
+              ],
+              "battlegroundId": "GuestIP2",
+              "foodReward": 4800,
+              "ironReward": 500,
+              "recruitsReward": 5,
+              "xpReward": 1300
+            },
+            "recommendedTeamPower": 3200,
+            "heroRewards": [
+              {
+                "type": "Hero",
+                "id": "guestip2_hero7",
+                "amount": 1,
+                "powerGrade": "MaxAscension"
+              }
+            ],
+            "itemRewards": [],
+            "itemRewardsAlternative": [],
+            "boosterItemRewards": [
+              {
+                "type": "Item",
+                "id": "misc_loot_ticket",
+                "amount": 2
+              },
+              {
+                "type": "Item",
+                "id": "time_skip_hour",
+                "amount": 3
+              },
+              {
+                "type": "Item",
+                "id": "refill_iron_small",
+                "amount": 1
+              },
+              {
+                "type": "Gem",
+                "amount": 20
+              }
+            ],
+            "displayedEntities": [],
+            "lootTier": 0,
+            "alternativeRewardsCustomChance": 500
+          },
+          {
+            "level": {
+              "provinceId": "",
+              "energyCost": 4,
+              "commonMonstersLevel": 110,
+              "commonMonstersLevelDeviation": 0,
+              "randomizedMonsterIds": [
+                "guestip2_enemy4",
+                "guestip2_enemy6"
+              ],
+              "randomizedMonsterWaveFormationIds": [
+                "random_3_line",
+                "random_3_V",
+                "random_3_A",
+                "random_4_A",
+                "random_4_A"
+              ],
+              "numberOfRandomizedWaves": 2,
+              "predeterminedWaves": [
+                {
+                  "waveFormationId": "boss_3_A",
+                  "monsterDefinitions": [
+                    {
+                      "id": "guestip2_enemy15"
+                    },
+                    {
+                      "id": "guestip2_boss1"
+                    },
+                    {
+                      "id": "guestip2_enemy15"
+                    }
+                  ]
+                }
+              ],
+              "battlegroundId": "GuestIP2",
+              "foodReward": 4800,
+              "ironReward": 500,
+              "recruitsReward": 5,
+              "xpReward": 1300
+            },
+            "recommendedTeamPower": 3200,
+            "heroRewards": [
+              {
+                "type": "Hero",
+                "id": "guestip2_hero8",
+                "amount": 1,
+                "powerGrade": "MaxAscension"
+              }
+            ],
+            "itemRewards": [],
+            "itemRewardsAlternative": [],
+            "boosterItemRewards": [
+              {
+                "type": "Item",
+                "id": "misc_loot_ticket",
+                "amount": 2
+              },
+              {
+                "type": "Item",
+                "id": "time_skip_hour",
+                "amount": 3
+              },
+              {
+                "type": "Item",
+                "id": "refill_iron_small",
+                "amount": 1
+              },
+              {
+                "type": "Gem",
+                "amount": 20
+              }
+            ],
+            "displayedEntities": [],
+            "lootTier": 0,
+            "alternativeRewardsCustomChance": 500
+          },
+          {
+            "level": {
+              "provinceId": "",
+              "energyCost": 4,
+              "commonMonstersLevel": 110,
+              "commonMonstersLevelDeviation": 0,
+              "randomizedMonsterIds": [
+                "guestip2_enemy8",
+                "guestip2_enemy5"
+              ],
+              "randomizedMonsterWaveFormationIds": [
+                "random_3_line",
+                "random_3_V",
+                "random_3_A",
+                "random_4_A",
+                "random_4_A"
+              ],
+              "numberOfRandomizedWaves": 2,
+              "predeterminedWaves": [
+                {
+                  "waveFormationId": "fixed_3_line",
+                  "monsterDefinitions": [
+                    {
+                      "id": "guestip2_enemy1"
+                    },
+                    {
+                      "id": "guestip2_enemy8"
+                    },
+                    {
+                      "id": "guestip2_enemy1"
+                    }
+                  ]
+                }
+              ],
+              "battlegroundId": "GuestIP2Location2",
+              "foodReward": 4800,
+              "ironReward": 500,
+              "recruitsReward": 5,
+              "xpReward": 1300
+            },
+            "recommendedTeamPower": 3200,
+            "heroRewards": [
+              {
+                "type": "Hero",
+                "id": "guestip2_hero9",
+                "amount": 1,
+                "powerGrade": "MaxAscension"
+              }
+            ],
+            "itemRewards": [],
+            "itemRewardsAlternative": [],
+            "boosterItemRewards": [
+              {
+                "type": "Item",
+                "id": "misc_loot_ticket",
+                "amount": 2
+              },
+              {
+                "type": "Item",
+                "id": "time_skip_hour",
+                "amount": 3
+              },
+              {
+                "type": "Item",
+                "id": "refill_iron_small",
+                "amount": 1
+              },
+              {
+                "type": "Gem",
+                "amount": 20
+              }
+            ],
+            "displayedEntities": [],
+            "lootTier": 0,
+            "alternativeRewardsCustomChance": 500
+          },
+          {
+            "level": {
+              "provinceId": "",
+              "energyCost": 4,
+              "commonMonstersLevel": 110,
+              "commonMonstersLevelDeviation": 0,
+              "randomizedMonsterIds": [
+                "guestip2_enemy8",
+                "guestip2_enemy7"
+              ],
+              "randomizedMonsterWaveFormationIds": [
+                "random_3_line",
+                "random_3_V",
+                "random_3_A",
+                "random_4_A",
+                "random_4_A"
+              ],
+              "numberOfRandomizedWaves": 2,
+              "predeterminedWaves": [
+                {
+                  "waveFormationId": "fixed_3_line",
+                  "monsterDefinitions": [
+                    {
+                      "id": "guestip2_enemy1"
+                    },
+                    {
+                      "id": "guestip2_enemy15"
+                    },
+                    {
+                      "id": "guestip2_enemy1"
+                    }
+                  ]
+                }
+              ],
+              "battlegroundId": "GuestIP2Location2",
+              "foodReward": 4800,
+              "ironReward": 500,
+              "recruitsReward": 5,
+              "xpReward": 1300
+            },
+            "recommendedTeamPower": 3200,
+            "heroRewards": [
+              {
+                "type": "Hero",
+                "id": "guestip2_hero10",
+                "amount": 1,
+                "powerGrade": "MaxAscension"
+              }
+            ],
+            "itemRewards": [],
+            "itemRewardsAlternative": [],
+            "boosterItemRewards": [
+              {
+                "type": "Item",
+                "id": "misc_loot_ticket",
+                "amount": 2
+              },
+              {
+                "type": "Item",
+                "id": "time_skip_hour",
+                "amount": 3
+              },
+              {
+                "type": "Item",
+                "id": "refill_iron_small",
+                "amount": 1
+              },
+              {
+                "type": "Gem",
+                "amount": 20
+              }
+            ],
+            "displayedEntities": [],
+            "lootTier": 0,
+            "alternativeRewardsCustomChance": 500
+          },
+          {
+            "level": {
+              "provinceId": "",
+              "energyCost": 4,
+              "commonMonstersLevel": 110,
+              "commonMonstersLevelDeviation": 0,
+              "randomizedMonsterIds": [
+                "guestip2_enemy8",
+                "guestip2_enemy1"
+              ],
+              "randomizedMonsterWaveFormationIds": [
+                "random_3_line",
+                "random_3_V",
+                "random_3_A",
+                "random_4_A",
+                "random_4_A"
+              ],
+              "numberOfRandomizedWaves": 2,
+              "predeterminedWaves": [
+                {
+                  "waveFormationId": "fixed_1_ultimate",
+                  "monsterDefinitions": [
+                    {
+                      "id": "guestip2_boss2"
+                    }
+                  ]
+                }
+              ],
+              "battlegroundId": "GuestIP2Location2",
+              "foodReward": 4800,
+              "ironReward": 500,
+              "recruitsReward": 5,
+              "xpReward": 1300
+            },
+            "recommendedTeamPower": 3200,
+            "heroRewards": [
+              {
+                "type": "Hero",
+                "id": "guestip2_hero11",
+                "amount": 1,
+                "powerGrade": "MaxAscension"
+              },
+              {
+                "type": "Hero",
+                "id": "guestip2_hero12",
+                "amount": 1,
+                "powerGrade": "MaxAscension"
+              }
+            ],
+            "itemRewards": [],
+            "itemRewardsAlternative": [],
+            "boosterItemRewards": [
+              {
+                "type": "Item",
+                "id": "misc_loot_ticket",
+                "amount": 2
+              },
+              {
+                "type": "Item",
+                "id": "time_skip_hour",
+                "amount": 3
+              },
+              {
+                "type": "Item",
+                "id": "refill_iron_small",
+                "amount": 1
+              },
+              {
+                "type": "Gem",
+                "amount": 20
+              }
+            ],
+            "displayedEntities": [],
+            "lootTier": 0,
+            "alternativeRewardsCustomChance": 500
+          },
+          {
+            "level": {
+              "provinceId": "",
+              "energyCost": 4,
+              "commonMonstersLevel": 110,
+              "commonMonstersLevelDeviation": 0,
+              "randomizedMonsterIds": [
+                "guestip2_enemy4",
+                "guestip2_enemy6"
+              ],
+              "randomizedMonsterWaveFormationIds": [
+                "random_3_line",
+                "random_3_V",
+                "random_3_A",
+                "random_4_A",
+                "random_4_A"
+              ],
+              "numberOfRandomizedWaves": 2,
+              "predeterminedWaves": [
+                {
+                  "waveFormationId": "fixed_3_line",
+                  "monsterDefinitions": [
+                    {
+                      "id": "guestip2_enemy4"
+                    },
+                    {
+                      "id": "guestip2_enemy9"
+                    },
+                    {
+                      "id": "guestip2_enemy4"
+                    }
+                  ]
+                }
+              ],
+              "battlegroundId": "GuestIP2Location3",
               "foodReward": 4800,
               "ironReward": 500,
               "recruitsReward": 5,
@@ -94013,29 +97033,36 @@
               "provinceId": "",
               "energyCost": 4,
               "commonMonstersLevel": 110,
-              "monsterAttackModifierPerMil": 300,
-              "monsterHealthModifierPerMil": 65236,
               "commonMonstersLevelDeviation": 0,
-              "randomizedMonsterIds": [],
-              "randomizedMonsterWaveFormationIds": [],
-              "numberOfRandomizedWaves": 0,
+              "randomizedMonsterIds": [
+                "guestip2_enemy5",
+                "guestip2_enemy6"
+              ],
+              "randomizedMonsterWaveFormationIds": [
+                "random_3_line",
+                "random_3_V",
+                "random_3_A",
+                "random_4_A",
+                "random_4_A"
+              ],
+              "numberOfRandomizedWaves": 2,
               "predeterminedWaves": [
                 {
-                  "waveFormationId": "boss_3_A_big",
+                  "waveFormationId": "fixed_3_line",
                   "monsterDefinitions": [
                     {
-                      "id": "guestip1_hero5_boss"
+                      "id": "guestip2_enemy9"
                     },
                     {
-                      "id": "guestip1_hero6_boss"
+                      "id": "guestip2_enemy10"
                     },
                     {
-                      "id": "guestip1_hero10_boss"
+                      "id": "guestip2_enemy9"
                     }
                   ]
                 }
               ],
-              "battlegroundId": "GuestIP2",
+              "battlegroundId": "GuestIP2Location3",
               "foodReward": 4800,
               "ironReward": 500,
               "recruitsReward": 5,
@@ -94075,29 +97102,44 @@
               "provinceId": "",
               "energyCost": 4,
               "commonMonstersLevel": 110,
-              "monsterAttackModifierPerMil": 300,
-              "monsterHealthModifierPerMil": 65236,
               "commonMonstersLevelDeviation": 0,
-              "randomizedMonsterIds": [],
-              "randomizedMonsterWaveFormationIds": [],
-              "numberOfRandomizedWaves": 0,
+              "randomizedMonsterIds": [
+                "guestip2_enemy10",
+                "guestip2_enemy6"
+              ],
+              "randomizedMonsterWaveFormationIds": [
+                "random_3_line",
+                "random_3_V",
+                "random_3_A",
+                "random_4_A",
+                "random_4_A"
+              ],
+              "numberOfRandomizedWaves": 2,
               "predeterminedWaves": [
                 {
                   "waveFormationId": "boss_3_A_big",
                   "monsterDefinitions": [
                     {
-                      "id": "guestip1_hero5_boss"
+                      "id": "guestip2_boss3"
                     },
                     {
-                      "id": "guestip1_hero6_boss"
+                      "id": "guestip2_boss3"
                     },
                     {
-                      "id": "guestip1_hero10_boss"
+                      "id": "guestip2_boss3"
+                    }
+                  ]
+                },
+                {
+                  "waveFormationId": "boss_1",
+                  "monsterDefinitions": [
+                    {
+                      "id": "guestip2_boss3_phase2"
                     }
                   ]
                 }
               ],
-              "battlegroundId": "GuestIP2",
+              "battlegroundId": "GuestIP2Location3",
               "foodReward": 4800,
               "ironReward": 500,
               "recruitsReward": 5,
@@ -94137,29 +97179,36 @@
               "provinceId": "",
               "energyCost": 4,
               "commonMonstersLevel": 110,
-              "monsterAttackModifierPerMil": 300,
-              "monsterHealthModifierPerMil": 65236,
               "commonMonstersLevelDeviation": 0,
-              "randomizedMonsterIds": [],
-              "randomizedMonsterWaveFormationIds": [],
-              "numberOfRandomizedWaves": 0,
+              "randomizedMonsterIds": [
+                "guestip2_enemy5",
+                "guestip2_enemy4"
+              ],
+              "randomizedMonsterWaveFormationIds": [
+                "random_3_line",
+                "random_3_V",
+                "random_3_A",
+                "random_4_A",
+                "random_4_A"
+              ],
+              "numberOfRandomizedWaves": 2,
               "predeterminedWaves": [
                 {
-                  "waveFormationId": "boss_3_A_big",
+                  "waveFormationId": "fixed_3_line",
                   "monsterDefinitions": [
                     {
-                      "id": "guestip1_hero5_boss"
+                      "id": "guestip2_enemy2"
                     },
                     {
-                      "id": "guestip1_hero6_boss"
+                      "id": "guestip2_enemy11"
                     },
                     {
-                      "id": "guestip1_hero10_boss"
+                      "id": "guestip2_enemy2"
                     }
                   ]
                 }
               ],
-              "battlegroundId": "GuestIP2",
+              "battlegroundId": "GuestIP2Location4",
               "foodReward": 4800,
               "ironReward": 500,
               "recruitsReward": 5,
@@ -94199,29 +97248,36 @@
               "provinceId": "",
               "energyCost": 4,
               "commonMonstersLevel": 110,
-              "monsterAttackModifierPerMil": 300,
-              "monsterHealthModifierPerMil": 65236,
               "commonMonstersLevelDeviation": 0,
-              "randomizedMonsterIds": [],
-              "randomizedMonsterWaveFormationIds": [],
-              "numberOfRandomizedWaves": 0,
+              "randomizedMonsterIds": [
+                "guestip2_enemy2",
+                "guestip2_enemy4"
+              ],
+              "randomizedMonsterWaveFormationIds": [
+                "random_3_line",
+                "random_3_V",
+                "random_3_A",
+                "random_4_A",
+                "random_4_A"
+              ],
+              "numberOfRandomizedWaves": 2,
               "predeterminedWaves": [
                 {
-                  "waveFormationId": "boss_3_A_big",
+                  "waveFormationId": "fixed_3_line",
                   "monsterDefinitions": [
                     {
-                      "id": "guestip1_hero5_boss"
+                      "id": "guestip2_enemy11"
                     },
                     {
-                      "id": "guestip1_hero6_boss"
+                      "id": "guestip2_enemy2"
                     },
                     {
-                      "id": "guestip1_hero10_boss"
+                      "id": "guestip2_enemy11"
                     }
                   ]
                 }
               ],
-              "battlegroundId": "GuestIP2",
+              "battlegroundId": "GuestIP2Location4",
               "foodReward": 4800,
               "ironReward": 500,
               "recruitsReward": 5,
@@ -94261,29 +97317,38 @@
               "provinceId": "",
               "energyCost": 4,
               "commonMonstersLevel": 110,
-              "monsterAttackModifierPerMil": 300,
-              "monsterHealthModifierPerMil": 65236,
               "commonMonstersLevelDeviation": 0,
-              "randomizedMonsterIds": [],
-              "randomizedMonsterWaveFormationIds": [],
-              "numberOfRandomizedWaves": 0,
+              "randomizedMonsterIds": [
+                "guestip2_enemy11",
+                "guestip2_enemy2"
+              ],
+              "randomizedMonsterWaveFormationIds": [
+                "random_3_line",
+                "random_3_V",
+                "random_3_A",
+                "random_4_A",
+                "random_4_A"
+              ],
+              "numberOfRandomizedWaves": 2,
               "predeterminedWaves": [
                 {
-                  "waveFormationId": "boss_3_A_big",
+                  "waveFormationId": "boss_1",
                   "monsterDefinitions": [
                     {
-                      "id": "guestip1_hero5_boss"
-                    },
+                      "id": "guestip2_boss3_phase2"
+                    }
+                  ]
+                },
+                {
+                  "waveFormationId": "fixed_1_ultimate",
+                  "monsterDefinitions": [
                     {
-                      "id": "guestip1_hero6_boss"
-                    },
-                    {
-                      "id": "guestip1_hero10_boss"
+                      "id": "guestip2_boss4"
                     }
                   ]
                 }
               ],
-              "battlegroundId": "GuestIP2",
+              "battlegroundId": "GuestIP2Location4",
               "foodReward": 4800,
               "ironReward": 500,
               "recruitsReward": 5,
@@ -94323,29 +97388,42 @@
               "provinceId": "",
               "energyCost": 4,
               "commonMonstersLevel": 110,
-              "monsterAttackModifierPerMil": 300,
-              "monsterHealthModifierPerMil": 65236,
               "commonMonstersLevelDeviation": 0,
-              "randomizedMonsterIds": [],
-              "randomizedMonsterWaveFormationIds": [],
-              "numberOfRandomizedWaves": 0,
+              "randomizedMonsterIds": [
+                "guestip2_enemy12",
+                "guestip2_enemy13"
+              ],
+              "randomizedMonsterWaveFormationIds": [
+                "random_3_line",
+                "random_3_V",
+                "random_3_A",
+                "random_4_A",
+                "random_4_A"
+              ],
+              "numberOfRandomizedWaves": 2,
               "predeterminedWaves": [
                 {
-                  "waveFormationId": "boss_3_A_big",
+                  "waveFormationId": "fixed_5_M",
                   "monsterDefinitions": [
                     {
-                      "id": "guestip1_hero5_boss"
+                      "id": "guestip2_enemy13"
                     },
                     {
-                      "id": "guestip1_hero6_boss"
+                      "id": "guestip2_enemy17"
                     },
                     {
-                      "id": "guestip1_hero10_boss"
+                      "id": "guestip2_enemy12"
+                    },
+                    {
+                      "id": "guestip2_enemy17"
+                    },
+                    {
+                      "id": "guestip2_enemy13"
                     }
                   ]
                 }
               ],
-              "battlegroundId": "GuestIP2",
+              "battlegroundId": "GuestIP2Location5",
               "foodReward": 4800,
               "ironReward": 500,
               "recruitsReward": 5,
@@ -94385,29 +97463,42 @@
               "provinceId": "",
               "energyCost": 4,
               "commonMonstersLevel": 110,
-              "monsterAttackModifierPerMil": 300,
-              "monsterHealthModifierPerMil": 65236,
               "commonMonstersLevelDeviation": 0,
-              "randomizedMonsterIds": [],
-              "randomizedMonsterWaveFormationIds": [],
-              "numberOfRandomizedWaves": 0,
+              "randomizedMonsterIds": [
+                "guestip2_enemy13",
+                "guestip2_enemy17"
+              ],
+              "randomizedMonsterWaveFormationIds": [
+                "random_3_line",
+                "random_3_V",
+                "random_3_A",
+                "random_4_A",
+                "random_4_A"
+              ],
+              "numberOfRandomizedWaves": 2,
               "predeterminedWaves": [
                 {
-                  "waveFormationId": "boss_3_A_big",
+                  "waveFormationId": "fixed_5_M",
                   "monsterDefinitions": [
                     {
-                      "id": "guestip1_hero5_boss"
+                      "id": "guestip2_enemy17"
                     },
                     {
-                      "id": "guestip1_hero6_boss"
+                      "id": "guestip2_enemy12"
                     },
                     {
-                      "id": "guestip1_hero10_boss"
+                      "id": "guestip2_enemy17"
+                    },
+                    {
+                      "id": "guestip2_enemy12"
+                    },
+                    {
+                      "id": "guestip2_enemy17"
                     }
                   ]
                 }
               ],
-              "battlegroundId": "GuestIP2",
+              "battlegroundId": "GuestIP2Location5",
               "foodReward": 4800,
               "ironReward": 500,
               "recruitsReward": 5,
@@ -94447,29 +97538,42 @@
               "provinceId": "",
               "energyCost": 4,
               "commonMonstersLevel": 110,
-              "monsterAttackModifierPerMil": 300,
-              "monsterHealthModifierPerMil": 65236,
               "commonMonstersLevelDeviation": 0,
-              "randomizedMonsterIds": [],
-              "randomizedMonsterWaveFormationIds": [],
-              "numberOfRandomizedWaves": 0,
+              "randomizedMonsterIds": [
+                "guestip2_enemy12",
+                "guestip2_enemy17"
+              ],
+              "randomizedMonsterWaveFormationIds": [
+                "random_3_line",
+                "random_3_V",
+                "random_3_A",
+                "random_4_A",
+                "random_4_A"
+              ],
+              "numberOfRandomizedWaves": 2,
               "predeterminedWaves": [
                 {
-                  "waveFormationId": "boss_3_A_big",
+                  "waveFormationId": "boss_5_W",
                   "monsterDefinitions": [
                     {
-                      "id": "guestip1_hero5_boss"
+                      "id": "guestip2_enemy13"
                     },
                     {
-                      "id": "guestip1_hero6_boss"
+                      "id": "guestip2_enemy12"
                     },
                     {
-                      "id": "guestip1_hero10_boss"
+                      "id": "guestip2_boss5"
+                    },
+                    {
+                      "id": "guestip2_enemy12"
+                    },
+                    {
+                      "id": "guestip2_enemy13"
                     }
                   ]
                 }
               ],
-              "battlegroundId": "GuestIP2",
+              "battlegroundId": "GuestIP2Location5",
               "foodReward": 4800,
               "ironReward": 500,
               "recruitsReward": 5,
@@ -94509,29 +97613,42 @@
               "provinceId": "",
               "energyCost": 4,
               "commonMonstersLevel": 110,
-              "monsterAttackModifierPerMil": 300,
-              "monsterHealthModifierPerMil": 65236,
               "commonMonstersLevelDeviation": 0,
-              "randomizedMonsterIds": [],
-              "randomizedMonsterWaveFormationIds": [],
-              "numberOfRandomizedWaves": 0,
+              "randomizedMonsterIds": [
+                "guestip2_enemy14",
+                "guestip2_enemy5"
+              ],
+              "randomizedMonsterWaveFormationIds": [
+                "random_3_line",
+                "random_3_V",
+                "random_3_A",
+                "random_4_A",
+                "random_4_A"
+              ],
+              "numberOfRandomizedWaves": 2,
               "predeterminedWaves": [
                 {
-                  "waveFormationId": "boss_3_A_big",
+                  "waveFormationId": "fixed_5_M",
                   "monsterDefinitions": [
                     {
-                      "id": "guestip1_hero5_boss"
+                      "id": "guestip2_enemy14"
                     },
                     {
-                      "id": "guestip1_hero6_boss"
+                      "id": "guestip2_enemy16"
                     },
                     {
-                      "id": "guestip1_hero10_boss"
+                      "id": "guestip2_enemy14"
+                    },
+                    {
+                      "id": "guestip2_enemy16"
+                    },
+                    {
+                      "id": "guestip2_enemy14"
                     }
                   ]
                 }
               ],
-              "battlegroundId": "GuestIP2",
+              "battlegroundId": "GuestIP2Location6",
               "foodReward": 4800,
               "ironReward": 500,
               "recruitsReward": 5,
@@ -94571,29 +97688,42 @@
               "provinceId": "",
               "energyCost": 4,
               "commonMonstersLevel": 110,
-              "monsterAttackModifierPerMil": 300,
-              "monsterHealthModifierPerMil": 65236,
               "commonMonstersLevelDeviation": 0,
-              "randomizedMonsterIds": [],
-              "randomizedMonsterWaveFormationIds": [],
-              "numberOfRandomizedWaves": 0,
+              "randomizedMonsterIds": [
+                "guestip2_enemy14",
+                "guestip2_enemy4"
+              ],
+              "randomizedMonsterWaveFormationIds": [
+                "random_3_line",
+                "random_3_V",
+                "random_3_A",
+                "random_4_A",
+                "random_4_A"
+              ],
+              "numberOfRandomizedWaves": 2,
               "predeterminedWaves": [
                 {
-                  "waveFormationId": "boss_3_A_big",
+                  "waveFormationId": "fixed_5_M",
                   "monsterDefinitions": [
                     {
-                      "id": "guestip1_hero5_boss"
+                      "id": "guestip2_enemy16"
                     },
                     {
-                      "id": "guestip1_hero6_boss"
+                      "id": "guestip2_enemy14"
                     },
                     {
-                      "id": "guestip1_hero10_boss"
+                      "id": "guestip2_enemy16"
+                    },
+                    {
+                      "id": "guestip2_enemy14"
+                    },
+                    {
+                      "id": "guestip2_enemy16"
                     }
                   ]
                 }
               ],
-              "battlegroundId": "GuestIP2",
+              "battlegroundId": "GuestIP2Location6",
               "foodReward": 4800,
               "ironReward": 500,
               "recruitsReward": 5,
@@ -94633,29 +97763,36 @@
               "provinceId": "",
               "energyCost": 4,
               "commonMonstersLevel": 110,
-              "monsterAttackModifierPerMil": 300,
-              "monsterHealthModifierPerMil": 65236,
               "commonMonstersLevelDeviation": 0,
-              "randomizedMonsterIds": [],
-              "randomizedMonsterWaveFormationIds": [],
-              "numberOfRandomizedWaves": 0,
+              "randomizedMonsterIds": [
+                "guestip2_enemy16",
+                "guestip2_enemy14"
+              ],
+              "randomizedMonsterWaveFormationIds": [
+                "random_3_line",
+                "random_3_V",
+                "random_3_A",
+                "random_4_A",
+                "random_4_A"
+              ],
+              "numberOfRandomizedWaves": 2,
               "predeterminedWaves": [
                 {
-                  "waveFormationId": "boss_3_A_big",
+                  "waveFormationId": "boss_3_A",
                   "monsterDefinitions": [
                     {
-                      "id": "guestip1_hero5_boss"
+                      "id": "guestip2_enemy16"
                     },
                     {
-                      "id": "guestip1_hero6_boss"
+                      "id": "guestip2_boss6"
                     },
                     {
-                      "id": "guestip1_hero10_boss"
+                      "id": "guestip2_enemy16"
                     }
                   ]
                 }
               ],
-              "battlegroundId": "GuestIP2",
+              "battlegroundId": "GuestIP2Location6",
               "foodReward": 4800,
               "ironReward": 500,
               "recruitsReward": 5,
@@ -94695,29 +97832,42 @@
               "provinceId": "",
               "energyCost": 4,
               "commonMonstersLevel": 110,
-              "monsterAttackModifierPerMil": 300,
-              "monsterHealthModifierPerMil": 65236,
               "commonMonstersLevelDeviation": 0,
-              "randomizedMonsterIds": [],
-              "randomizedMonsterWaveFormationIds": [],
-              "numberOfRandomizedWaves": 0,
+              "randomizedMonsterIds": [
+                "guestip2_enemy14",
+                "guestip2_enemy6"
+              ],
+              "randomizedMonsterWaveFormationIds": [
+                "random_3_line",
+                "random_3_V",
+                "random_3_A",
+                "random_4_A",
+                "random_4_A"
+              ],
+              "numberOfRandomizedWaves": 2,
               "predeterminedWaves": [
                 {
-                  "waveFormationId": "boss_3_A_big",
+                  "waveFormationId": "fixed_5_M",
                   "monsterDefinitions": [
                     {
-                      "id": "guestip1_hero5_boss"
+                      "id": "guestip2_enemy6"
                     },
                     {
-                      "id": "guestip1_hero6_boss"
+                      "id": "guestip2_enemy16"
                     },
                     {
-                      "id": "guestip1_hero10_boss"
+                      "id": "guestip2_enemy4"
+                    },
+                    {
+                      "id": "guestip2_enemy16"
+                    },
+                    {
+                      "id": "guestip2_enemy6"
                     }
                   ]
                 }
               ],
-              "battlegroundId": "GuestIP2",
+              "battlegroundId": "GuestIP2Location7",
               "foodReward": 4800,
               "ironReward": 500,
               "recruitsReward": 5,
@@ -94757,29 +97907,42 @@
               "provinceId": "",
               "energyCost": 4,
               "commonMonstersLevel": 110,
-              "monsterAttackModifierPerMil": 300,
-              "monsterHealthModifierPerMil": 65236,
               "commonMonstersLevelDeviation": 0,
-              "randomizedMonsterIds": [],
-              "randomizedMonsterWaveFormationIds": [],
-              "numberOfRandomizedWaves": 0,
+              "randomizedMonsterIds": [
+                "guestip2_enemy16",
+                "guestip2_enemy14"
+              ],
+              "randomizedMonsterWaveFormationIds": [
+                "random_3_line",
+                "random_3_V",
+                "random_3_A",
+                "random_4_A",
+                "random_4_A"
+              ],
+              "numberOfRandomizedWaves": 2,
               "predeterminedWaves": [
                 {
-                  "waveFormationId": "boss_3_A_big",
+                  "waveFormationId": "fixed_5_M",
                   "monsterDefinitions": [
                     {
-                      "id": "guestip1_hero5_boss"
+                      "id": "guestip2_enemy16"
                     },
                     {
-                      "id": "guestip1_hero6_boss"
+                      "id": "guestip2_enemy16"
                     },
                     {
-                      "id": "guestip1_hero10_boss"
+                      "id": "guestip2_enemy16"
+                    },
+                    {
+                      "id": "guestip2_enemy16"
+                    },
+                    {
+                      "id": "guestip2_enemy16"
                     }
                   ]
                 }
               ],
-              "battlegroundId": "GuestIP2",
+              "battlegroundId": "GuestIP2Location7",
               "foodReward": 4800,
               "ironReward": 500,
               "recruitsReward": 5,
@@ -94819,29 +97982,46 @@
               "provinceId": "",
               "energyCost": 4,
               "commonMonstersLevel": 110,
-              "monsterAttackModifierPerMil": 300,
-              "monsterHealthModifierPerMil": 65236,
               "commonMonstersLevelDeviation": 0,
-              "randomizedMonsterIds": [],
-              "randomizedMonsterWaveFormationIds": [],
-              "numberOfRandomizedWaves": 0,
+              "randomizedMonsterIds": [
+                "guestip2_enemy16",
+                "guestip2_enemy14"
+              ],
+              "randomizedMonsterWaveFormationIds": [
+                "random_3_line",
+                "random_3_V",
+                "random_3_A",
+                "random_4_A",
+                "random_4_A"
+              ],
+              "numberOfRandomizedWaves": 2,
               "predeterminedWaves": [
                 {
-                  "waveFormationId": "boss_3_A_big",
+                  "waveFormationId": "boss_1",
                   "monsterDefinitions": [
                     {
-                      "id": "guestip1_hero5_boss"
-                    },
+                      "id": "guestip2_boss7"
+                    }
+                  ]
+                },
+                {
+                  "waveFormationId": "fixed_1_ultimate",
+                  "monsterDefinitions": [
                     {
-                      "id": "guestip1_hero6_boss"
-                    },
+                      "id": "guestip2_boss7_phase2"
+                    }
+                  ]
+                },
+                {
+                  "waveFormationId": "fixed_1_ultimate",
+                  "monsterDefinitions": [
                     {
-                      "id": "guestip1_hero10_boss"
+                      "id": "guestip2_boss7_phase3"
                     }
                   ]
                 }
               ],
-              "battlegroundId": "GuestIP2",
+              "battlegroundId": "GuestIP2Location7",
               "foodReward": 4800,
               "ironReward": 500,
               "recruitsReward": 5,
@@ -94880,8 +98060,407 @@
         "minDifficultyMultiplierPerMil": 1000,
         "maxDifficultyMultiplierPerMil": 1000,
         "completionRewards": [],
+        "globalLevelPropertyIds": [
+          "guestip2_troop_icon_override"
+        ],
+        "progressChests": [
+          "loot_alliance_quest_easy"
+        ],
         "battleItemsDisabled": true,
         "energyType": "GuestIPEnergy"
+      },
+      {
+        "id": "dragon_cave_classic",
+        "type": "DragonCaveClassic",
+        "rarityRequirementsId": "",
+        "heroClassGroupRequirementsId": "",
+        "duration": "0秒",
+        "provinceLootTableId": "province_19",
+        "provinceLootItemLimit": 0,
+        "quests": [
+          {
+            "level": {
+              "provinceId": "",
+              "energyCost": 4,
+              "commonMonstersLevel": 1,
+              "monsterAttackModifierPerMil": 65036,
+              "commonMonstersLevelDeviation": 0,
+              "randomizedMonsterIds": [
+                "dragon_small_holy_lava_carp",
+                "dragon_small_toothy"
+              ],
+              "randomizedMonsterWaveFormationIds": [
+                "random_3_line",
+                "random_3_V",
+                "random_3_A",
+                "random_4_A",
+                "random_4_A"
+              ],
+              "numberOfRandomizedWaves": 2,
+              "predeterminedWaves": [
+                {
+                  "waveFormationId": "boss_3_A",
+                  "monsterDefinitions": [
+                    {
+                      "id": "dragon_small_holy_lava_carp"
+                    },
+                    {
+                      "id": "dragon_ardere"
+                    },
+                    {
+                      "id": "dragon_small_holy_lava_carp"
+                    }
+                  ]
+                }
+              ],
+              "battlegroundId": "TreasureCave",
+              "foodReward": 11600,
+              "ironReward": 1170,
+              "recruitsReward": 7,
+              "xpReward": 3100
+            },
+            "heroRewards": [],
+            "itemRewards": [
+              {
+                "type": "Item",
+                "id": "assist_skill_material_common",
+                "amount": 10
+              },
+              {
+                "type": "Item",
+                "id": "lottery_silver_dragon_coin",
+                "amount": 10
+              }
+            ],
+            "itemRewardsAlternative": [],
+            "displayedEntities": [
+              "Item",
+              "Item",
+              "Item",
+              "Item",
+              "Item"
+            ],
+            "lootTier": 0,
+            "alternativeRewardsCustomChance": 500
+          },
+          {
+            "level": {
+              "provinceId": "",
+              "energyCost": 6,
+              "commonMonstersLevel": 6,
+              "commonMonstersLevelDeviation": 0,
+              "randomizedMonsterIds": [
+                "dragon_small_gliding_charmer",
+                "dragon_small_ice_mouse"
+              ],
+              "randomizedMonsterWaveFormationIds": [
+                "random_3_line",
+                "random_3_V",
+                "random_3_A",
+                "random_4_A",
+                "random_4_A"
+              ],
+              "numberOfRandomizedWaves": 2,
+              "predeterminedWaves": [
+                {
+                  "waveFormationId": "boss_3_A",
+                  "monsterDefinitions": [
+                    {
+                      "id": "dragon_small_ice_mouse"
+                    },
+                    {
+                      "id": "dragon_nimblewing"
+                    },
+                    {
+                      "id": "dragon_small_ice_mouse"
+                    }
+                  ]
+                }
+              ],
+              "battlegroundId": "TreasureCave",
+              "foodReward": 12700,
+              "ironReward": 1280,
+              "recruitsReward": 8,
+              "xpReward": 3400
+            },
+            "heroRewards": [],
+            "itemRewards": [
+              {
+                "type": "Item",
+                "id": "assist_skill_material_uncommon",
+                "amount": 5
+              },
+              {
+                "type": "Item",
+                "id": "lottery_silver_dragon_coin",
+                "amount": 15
+              },
+              {
+                "type": "Item",
+                "id": "dragon_common_feather",
+                "amount": 10
+              }
+            ],
+            "itemRewardsAlternative": [],
+            "displayedEntities": [
+              "Item",
+              "Item",
+              "Item",
+              "Item",
+              "Item"
+            ],
+            "lootTier": 0,
+            "alternativeRewardsCustomChance": 500
+          },
+          {
+            "level": {
+              "provinceId": "",
+              "energyCost": 8,
+              "commonMonstersLevel": 24,
+              "commonMonstersLevelDeviation": 0,
+              "randomizedMonsterIds": [
+                "dragon_small_hare_dark",
+                "dragon_small_sun_hare"
+              ],
+              "randomizedMonsterWaveFormationIds": [
+                "random_3_line",
+                "random_3_V",
+                "random_3_A",
+                "random_4_A",
+                "random_4_A"
+              ],
+              "numberOfRandomizedWaves": 2,
+              "predeterminedWaves": [
+                {
+                  "waveFormationId": "boss_5_W",
+                  "monsterDefinitions": [
+                    {
+                      "id": "dragon_small_sun_hare"
+                    },
+                    {
+                      "id": "dragon_small_sun_hare"
+                    },
+                    {
+                      "id": "dragon_stargazer"
+                    },
+                    {
+                      "id": "dragon_small_sun_hare"
+                    },
+                    {
+                      "id": "dragon_small_sun_hare"
+                    }
+                  ]
+                }
+              ],
+              "battlegroundId": "TreasureCave",
+              "foodReward": 13900,
+              "ironReward": 1390,
+              "recruitsReward": 8,
+              "xpReward": 3700
+            },
+            "heroRewards": [],
+            "itemRewards": [
+              {
+                "type": "Item",
+                "id": "assist_skill_material_rare",
+                "amount": 3
+              },
+              {
+                "type": "Item",
+                "id": "lottery_silver_dragon_coin",
+                "amount": 25
+              },
+              {
+                "type": "Item",
+                "id": "dragon_common_feather",
+                "amount": 15
+              },
+              {
+                "type": "Hero",
+                "id": "trainer_rainbow_common",
+                "amount": 1
+              }
+            ],
+            "itemRewardsAlternative": [],
+            "displayedEntities": [
+              "Item",
+              "Item",
+              "Item",
+              "Item",
+              "Item"
+            ],
+            "lootTier": 0,
+            "alternativeRewardsCustomChance": 500
+          },
+          {
+            "level": {
+              "provinceId": "",
+              "energyCost": 10,
+              "commonMonstersLevel": 29,
+              "commonMonstersLevelDeviation": 0,
+              "randomizedMonsterIds": [
+                "dragon_small_owl_dragon_red",
+                "dragon_small_moth_yellow"
+              ],
+              "randomizedMonsterWaveFormationIds": [
+                "random_3_line",
+                "random_3_V",
+                "random_3_A",
+                "random_4_A",
+                "random_4_A"
+              ],
+              "numberOfRandomizedWaves": 2,
+              "predeterminedWaves": [
+                {
+                  "waveFormationId": "boss_5_W",
+                  "monsterDefinitions": [
+                    {
+                      "id": "dragon_small_owl_dragon_red"
+                    },
+                    {
+                      "id": "dragon_small_owl_dragon_red"
+                    },
+                    {
+                      "id": "dragon_veneno"
+                    },
+                    {
+                      "id": "dragon_small_owl_dragon_red"
+                    },
+                    {
+                      "id": "dragon_small_owl_dragon_red"
+                    }
+                  ]
+                }
+              ],
+              "battlegroundId": "TreasureCave",
+              "foodReward": 15000,
+              "ironReward": 1500,
+              "recruitsReward": 9,
+              "xpReward": 4000
+            },
+            "heroRewards": [],
+            "itemRewards": [
+              {
+                "type": "Item",
+                "id": "assist_skill_material_epic",
+                "amount": 2
+              },
+              {
+                "type": "Item",
+                "id": "lottery_silver_dragon_coin",
+                "amount": 50
+              },
+              {
+                "type": "Item",
+                "id": "dragon_feathered_headdress",
+                "amount": 3
+              },
+              {
+                "type": "Hero",
+                "id": "trainer_rainbow_common",
+                "amount": 2
+              }
+            ],
+            "itemRewardsAlternative": [],
+            "displayedEntities": [
+              "Item",
+              "Item",
+              "Item",
+              "Item",
+              "Item"
+            ],
+            "lootTier": 0,
+            "alternativeRewardsCustomChance": 500
+          },
+          {
+            "level": {
+              "provinceId": "",
+              "energyCost": 12,
+              "commonMonstersLevel": 40,
+              "commonMonstersLevelDeviation": 0,
+              "randomizedMonsterIds": [
+                "dragon_small_otter_nature",
+                "dragon_small_water_lava_carp"
+              ],
+              "randomizedMonsterWaveFormationIds": [
+                "random_3_line",
+                "random_3_V",
+                "random_3_A",
+                "random_4_A",
+                "random_4_A"
+              ],
+              "numberOfRandomizedWaves": 3,
+              "predeterminedWaves": [
+                {
+                  "waveFormationId": "boss_5_W",
+                  "monsterDefinitions": [
+                    {
+                      "id": "dragon_small_water_lava_carp"
+                    },
+                    {
+                      "id": "dragon_small_water_lava_carp"
+                    },
+                    {
+                      "id": "dragon_doombringer"
+                    },
+                    {
+                      "id": "dragon_small_water_lava_carp"
+                    },
+                    {
+                      "id": "dragon_small_water_lava_carp"
+                    }
+                  ]
+                }
+              ],
+              "battlegroundId": "TreasureCave",
+              "foodReward": 16300,
+              "ironReward": 1610,
+              "recruitsReward": 9,
+              "xpReward": 4300
+            },
+            "heroRewards": [],
+            "itemRewards": [
+              {
+                "type": "Item",
+                "id": "assist_skill_material_legendary",
+                "amount": 1
+              },
+              {
+                "type": "Item",
+                "id": "lottery_elite_dragon",
+                "amount": 1
+              },
+              {
+                "type": "Item",
+                "id": "dragon_ornate_headdress",
+                "amount": 2
+              },
+              {
+                "type": "Hero",
+                "id": "trainer_rainbow_common",
+                "amount": 3
+              }
+            ],
+            "itemRewardsAlternative": [],
+            "displayedEntities": [
+              "Item",
+              "Item",
+              "Item",
+              "Item",
+              "Item"
+            ],
+            "lootTier": 0,
+            "alternativeRewardsCustomChance": 500
+          }
+        ],
+        "minDifficultyMultiplierPerMil": 1000,
+        "maxDifficultyMultiplierPerMil": 1000,
+        "completionRewards": [],
+        "globalLevelPropertyIds": [
+          "dragon_cave_assist_bonus"
+        ],
+        "heroUsageLimitId": "each_assist_dragon_allowed_once",
+        "energyType": "PveEnergy"
       }
     ],
     "classQuestLines": [
@@ -106083,13 +109662,119 @@
       "enabled": true,
       "entries": [
         {
-          "id": "dragon_legendary_test",
+          "id": "dragon_legendary_1",
           "questLineId": "dragon_legendary",
-          "startTime": "2025-04-07 07:00:00",
-          "endTime": "2025-04-11 07:00:00"
+          "startTime": "2025-08-29 07:00:00",
+          "endTime": "2025-09-01 07:00:00"
+        },
+        {
+          "id": "dragon_legendary_2",
+          "questLineId": "dragon_legendary",
+          "startTime": "2025-11-21 07:00:00",
+          "endTime": "2025-11-24 07:00:00"
+        },
+        {
+          "id": "dragon_legendary_3",
+          "questLineId": "dragon_legendary",
+          "startTime": "2026-02-13 07:00:00",
+          "endTime": "2026-02-16 07:00:00"
+        },
+        {
+          "id": "dragon_legendary_4",
+          "questLineId": "dragon_legendary",
+          "startTime": "2026-05-08 07:00:00",
+          "endTime": "2026-05-11 07:00:00"
+        },
+        {
+          "id": "dragon_legendary_5",
+          "questLineId": "dragon_legendary",
+          "startTime": "2026-07-31 07:00:00",
+          "endTime": "2026-08-03 07:00:00"
+        },
+        {
+          "id": "dragon_legendary_6",
+          "questLineId": "dragon_legendary",
+          "startTime": "2026-10-23 07:00:00",
+          "endTime": "2026-10-26 07:00:00"
+        },
+        {
+          "id": "dragon_legendary_7",
+          "questLineId": "dragon_legendary",
+          "startTime": "2027-01-15 07:00:00",
+          "endTime": "2027-01-18 07:00:00"
+        },
+        {
+          "id": "dragon_legendary_8",
+          "questLineId": "dragon_legendary",
+          "startTime": "2027-04-09 07:00:00",
+          "endTime": "2027-04-12 07:00:00"
+        },
+        {
+          "id": "dragon_legendary_9",
+          "questLineId": "dragon_legendary",
+          "startTime": "2027-07-02 07:00:00",
+          "endTime": "2027-07-05 07:00:00"
+        },
+        {
+          "id": "dragon_legendary_10",
+          "questLineId": "dragon_legendary",
+          "startTime": "2027-09-24 07:00:00",
+          "endTime": "2027-09-27 07:00:00"
+        },
+        {
+          "id": "dragon_legendary_11",
+          "questLineId": "dragon_legendary",
+          "startTime": "2027-12-17 07:00:00",
+          "endTime": "2027-12-20 07:00:00"
+        }
+      ]
+    },
+    "dragonCaveClassicQuests": {
+      "week": "Fourth",
+      "day": "Friday",
+      "timeOfDay": "7小时",
+      "duration": "3天",
+      "scheduleLength": "FixedMonth",
+      "enabled": false,
+      "entries": [
+        {
+          "id": "dragon_cave_classic2025_9_5",
+          "questLineId": "dragon_cave_classic",
+          "startTime": "2025-09-05 07:00:00",
+          "endTime": "2025-09-08 07:00:00"
+        },
+        {
+          "id": "dragon_cave_classic2025_10_3",
+          "questLineId": "dragon_cave_classic",
+          "startTime": "2025-10-03 07:00:00",
+          "endTime": "2025-10-06 07:00:00"
+        },
+        {
+          "id": "dragon_cave_classic2025_10_31",
+          "questLineId": "dragon_cave_classic",
+          "startTime": "2025-10-31 07:00:00",
+          "endTime": "2025-11-03 07:00:00"
+        },
+        {
+          "id": "dragon_cave_classic2025_11_28",
+          "questLineId": "dragon_cave_classic",
+          "startTime": "2025-11-28 07:00:00",
+          "endTime": "2025-12-01 07:00:00"
+        },
+        {
+          "id": "dragon_cave_classic2025_12_26",
+          "questLineId": "dragon_cave_classic",
+          "startTime": "2025-12-26 07:00:00",
+          "endTime": "2025-12-29 07:00:00"
+        },
+        {
+          "id": "dragon_cave_classic2026_1_23",
+          "questLineId": "dragon_cave_classic",
+          "startTime": "2026-01-23 07:00:00",
+          "endTime": "2026-01-26 07:00:00"
         }
       ]
     }
   },
-  "questsConfigId": 1495211605
+  "questsConfigId": 3616159947
 }

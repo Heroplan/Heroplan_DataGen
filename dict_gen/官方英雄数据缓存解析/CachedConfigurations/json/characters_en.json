@@ -17300,7 +17300,8 @@
     "rarity": 5,
     "specialId": "wand_of_mana_control",
     "canBeReceivedDate": "2023-06-28 07:00:00",
-    "origin": "Tower of Magic"
+    "origin": "Tower of Magic",
+    "costumeBonusesId": "magic"
   },
   "magic_willow": {
     "id": "Master of Levitation",
@@ -17358,7 +17359,8 @@
     "rarity": 5,
     "specialId": "mechanical_augmentations",
     "canBeReceivedDate": "2023-05-03 07:00:00",
-    "origin": "Tower of Magic"
+    "origin": "Tower of Magic",
+    "costumeBonusesId": "magic"
   },
   "magic_ulius": {
     "id": "Peculiar Inventor Wizard",
@@ -18609,7 +18611,8 @@
     "rarity": 5,
     "specialId": "cascading_whirlwind",
     "canBeReceivedDate": "2023-07-17 07:00:00",
-    "origin": "SuperElemental"
+    "origin": "SuperElemental",
+    "costumeBonusesId": "elemental"
   },
   "elemental_zione": {
     "id": "Mechanized Delivery Expert",
@@ -18645,7 +18648,8 @@
     "rarity": 5,
     "specialId": "hoverboard_slam",
     "canBeReceivedDate": "2023-08-14 07:00:00",
-    "origin": "SuperElemental"
+    "origin": "SuperElemental",
+    "costumeBonusesId": "elemental"
   },
   "holy_god_ithar": {
     "id": "Virtuous Cat Burglar",
@@ -18852,7 +18856,8 @@
     "rarity": 5,
     "specialId": "pineapple_barbeque",
     "canBeReceivedDate": "2023-09-11 07:00:00",
-    "origin": "SuperElemental"
+    "origin": "SuperElemental",
+    "costumeBonusesId": "elemental"
   },
   "elemental_linus": {
     "id": "Carefree Convict",
@@ -20298,8 +20303,8 @@
     "id": "Vitrail of the Woods",
     "element": "Green",
     "family": "classic",
-    "baseHealth": 757,
-    "baseAttack": 300,
+    "baseHealth": 759,
+    "baseAttack": 301,
     "baseDefense": 338,
     "manaSpeedId": "慢",
     "passiveSkills": [
@@ -20310,7 +20315,7 @@
     "aetherGift": "Defense Up",
     "rarity": 5,
     "specialId": "glass_anger_of_forest_horghall",
-    "canBeReceivedDate": "2200-01-01 07:00:00",
+    "canBeReceivedDate": "2025-09-07 07:00:00",
     "origin": "Season1",
     "parentHeroId": "forest_titan"
   },
@@ -20710,7 +20715,7 @@
     "aetherGift": "Attack Up",
     "rarity": 4,
     "specialId": "glass_barrage_scarlett",
-    "canBeReceivedDate": "2200-01-01 07:00:00",
+    "canBeReceivedDate": "2025-09-07 07:00:00",
     "origin": "Season1",
     "parentHeroId": "nomad_female_assassin"
   },
@@ -20730,7 +20735,7 @@
     "aetherGift": "Attack Up",
     "rarity": 4,
     "specialId": "glass_pulverizer_tiburtus",
-    "canBeReceivedDate": "2200-01-01 07:00:00",
+    "canBeReceivedDate": "2025-09-07 07:00:00",
     "origin": "Season1",
     "parentHeroId": "blackguard_commander"
   },
@@ -21110,7 +21115,7 @@
     "aetherGift": "Special Boost",
     "rarity": 3,
     "specialId": "glass_ramming_rush_isshtak",
-    "canBeReceivedDate": "2200-01-01 07:00:00",
+    "canBeReceivedDate": "2025-09-07 07:00:00",
     "origin": "Season1",
     "parentHeroId": "lizardman_warrior"
   },
@@ -21130,7 +21135,7 @@
     "aetherGift": "Mana Boost",
     "rarity": 3,
     "specialId": "glass_traps_oberon",
-    "canBeReceivedDate": "2200-01-01 07:00:00",
+    "canBeReceivedDate": "2025-09-07 07:00:00",
     "origin": "Season1",
     "parentHeroId": "undead_horned_skeleton"
   },
@@ -21797,6 +21802,369 @@
     "origin": "SuperElemental",
     "parentHeroId": "elemental_aconia"
   },
+  "elemental_zaria_costume_enchanter": {
+    "id": "Three-Eyed Enchanter",
+    "element": "Red",
+    "family": "super_elemental",
+    "baseHealth": 827,
+    "baseAttack": 426,
+    "baseDefense": 415,
+    "manaSpeedId": "中等",
+    "passiveSkills": [
+      "strong_troop_damage_modifier_costume"
+    ],
+    "classType": "巫师",
+    "aetherGift": "Special Boost",
+    "rarity": 5,
+    "specialId": "enchanting_divination",
+    "canBeReceivedDate": "2200-01-01 07:00:00",
+    "origin": "SuperElemental",
+    "parentHeroId": "elemental_zaria"
+  },
+  "elemental_xavier_costume_arthropod": {
+    "id": "Dual Blade Arthropod",
+    "element": "Yellow",
+    "family": "super_elemental",
+    "baseHealth": 827,
+    "baseAttack": 426,
+    "baseDefense": 415,
+    "manaSpeedId": "中等",
+    "passiveSkills": [
+      "strong_troop_damage_modifier_costume"
+    ],
+    "classType": "游侠",
+    "aetherGift": "Rage",
+    "rarity": 5,
+    "specialId": "overvlowing_whirlwind",
+    "canBeReceivedDate": "2200-01-01 07:00:00",
+    "origin": "SuperElemental",
+    "parentHeroId": "elemental_xavier"
+  },
+  "elemental_zuni_costume_mage": {
+    "id": "Hoverboard Mage",
+    "element": "Green",
+    "family": "super_elemental",
+    "baseHealth": 827,
+    "baseAttack": 426,
+    "baseDefense": 415,
+    "manaSpeedId": "快速",
+    "passiveSkills": [
+      "strong_troop_damage_modifier_costume"
+    ],
+    "classType": "术士",
+    "aetherGift": "Dodge",
+    "rarity": 5,
+    "specialId": "hoverboard_crash",
+    "canBeReceivedDate": "2200-01-01 07:00:00",
+    "origin": "SuperElemental",
+    "parentHeroId": "elemental_zuni"
+  },
+  "elemental_quinn_costume_alchemist": {
+    "id": "Cosmic Alchemist",
+    "element": "Blue",
+    "family": "super_elemental",
+    "baseHealth": 827,
+    "baseAttack": 426,
+    "baseDefense": 415,
+    "manaSpeedId": "快速",
+    "passiveSkills": [
+      "strong_troop_damage_modifier_costume"
+    ],
+    "classType": "僧侣",
+    "aetherGift": "Ailment Reflect",
+    "rarity": 5,
+    "specialId": "pineapple_alchemist",
+    "canBeReceivedDate": "2200-01-01 07:00:00",
+    "origin": "SuperElemental",
+    "parentHeroId": "elemental_quinn"
+  },
+  "elemental_farrah_costume_cyber": {
+    "id": "Cyber Blade Master",
+    "element": "Purple",
+    "family": "super_elemental",
+    "baseHealth": 827,
+    "baseAttack": 426,
+    "baseDefense": 415,
+    "manaSpeedId": "快速",
+    "passiveSkills": [
+      "strong_troop_damage_modifier_costume"
+    ],
+    "classType": "战士",
+    "aetherGift": "Attack Up",
+    "rarity": 5,
+    "specialId": "turquoise_falcon",
+    "canBeReceivedDate": "2200-01-01 07:00:00",
+    "origin": "SuperElemental",
+    "parentHeroId": "elemental_farrah"
+  },
+  "elemental_niki_costume_music": {
+    "id": "Scythe Master of the Music",
+    "element": "Red",
+    "family": "super_elemental",
+    "baseHealth": 827,
+    "baseAttack": 426,
+    "baseDefense": 415,
+    "manaSpeedId": "慢",
+    "passiveSkills": [
+      "strong_troop_damage_modifier_costume"
+    ],
+    "classType": "野蛮人",
+    "aetherGift": "Bulwark",
+    "rarity": 5,
+    "specialId": "melody_harvest",
+    "canBeReceivedDate": "2200-01-01 07:00:00",
+    "origin": "SuperElemental",
+    "parentHeroId": "elemental_niki"
+  },
+  "elemental_ironmaw_costume_legion": {
+    "id": "Warlord of the Legion",
+    "element": "Yellow",
+    "family": "super_elemental",
+    "baseHealth": 827,
+    "baseAttack": 426,
+    "baseDefense": 415,
+    "manaSpeedId": "中等",
+    "passiveSkills": [
+      "strong_troop_damage_modifier_costume"
+    ],
+    "classType": "僧侣",
+    "aetherGift": "Special Boost",
+    "rarity": 5,
+    "specialId": "chains_of_legion",
+    "canBeReceivedDate": "2200-01-01 07:00:00",
+    "origin": "SuperElemental",
+    "parentHeroId": "elemental_ironmaw"
+  },
+  "elemental_desmond_costume_assassin": {
+    "id": "Blade Assassin",
+    "element": "Green",
+    "family": "super_elemental",
+    "baseHealth": 827,
+    "baseAttack": 426,
+    "baseDefense": 415,
+    "manaSpeedId": "中等",
+    "passiveSkills": [
+      "strong_troop_damage_modifier_costume"
+    ],
+    "classType": "德鲁伊",
+    "aetherGift": "Counterattack",
+    "rarity": 5,
+    "specialId": "nephrite_blade",
+    "canBeReceivedDate": "2200-01-01 07:00:00",
+    "origin": "SuperElemental",
+    "parentHeroId": "elemental_desmond"
+  },
+  "elemental_jolt_costume_mythic": {
+    "id": "Mythic Navigator",
+    "element": "Blue",
+    "family": "super_elemental",
+    "baseHealth": 827,
+    "baseAttack": 426,
+    "baseDefense": 415,
+    "manaSpeedId": "飞速",
+    "passiveSkills": [
+      "strong_troop_damage_modifier_costume"
+    ],
+    "classType": "盗贼",
+    "aetherGift": "Special Boost",
+    "rarity": 5,
+    "specialId": "mythic_lightning",
+    "canBeReceivedDate": "2200-01-01 07:00:00",
+    "origin": "SuperElemental",
+    "parentHeroId": "elemental_jolt"
+  },
+  "elemental_gastille_costume_sporty": {
+    "id": "Sporty Hazard",
+    "element": "Purple",
+    "family": "super_elemental",
+    "baseHealth": 827,
+    "baseAttack": 426,
+    "baseDefense": 415,
+    "manaSpeedId": "中等",
+    "passiveSkills": [
+      "strong_troop_damage_modifier_costume"
+    ],
+    "classType": "圣骑士",
+    "aetherGift": "Defense Up",
+    "rarity": 5,
+    "specialId": "protein_corruption",
+    "canBeReceivedDate": "2200-01-01 07:00:00",
+    "origin": "SuperElemental",
+    "parentHeroId": "elemental_gastille"
+  },
+  "elemental_ash_costume_savage": {
+    "id": "Savage Bounty Hunter",
+    "element": "Red",
+    "family": "super_elemental",
+    "baseHealth": 827,
+    "baseAttack": 426,
+    "baseDefense": 415,
+    "manaSpeedId": "中等",
+    "passiveSkills": [
+      "strong_troop_damage_modifier_costume"
+    ],
+    "classType": "游侠",
+    "aetherGift": "Rage",
+    "rarity": 5,
+    "specialId": "steel_rush",
+    "canBeReceivedDate": "2200-01-01 07:00:00",
+    "origin": "SuperElemental",
+    "parentHeroId": "elemental_ash"
+  },
+  "elemental_grilka_costume_treasure": {
+    "id": "Treasured Quartermaster",
+    "element": "Yellow",
+    "family": "super_elemental",
+    "baseHealth": 827,
+    "baseAttack": 426,
+    "baseDefense": 415,
+    "manaSpeedId": "慢",
+    "passiveSkills": [
+      "strong_troop_damage_modifier_costume"
+    ],
+    "classType": "圣骑士",
+    "aetherGift": "Damage Reduction",
+    "rarity": 5,
+    "specialId": "treasure_ale",
+    "canBeReceivedDate": "2200-01-01 07:00:00",
+    "origin": "SuperElemental",
+    "parentHeroId": "elemental_grilka"
+  },
+  "elemental_craum_costume_occultist": {
+    "id": "Elemental Occultist",
+    "element": "Green",
+    "family": "super_elemental",
+    "baseHealth": 827,
+    "baseAttack": 426,
+    "baseDefense": 415,
+    "manaSpeedId": "中等",
+    "passiveSkills": [
+      "strong_troop_damage_modifier_costume"
+    ],
+    "classType": "巫师",
+    "aetherGift": "Special Armor",
+    "rarity": 5,
+    "specialId": "ritual_of_the_elements",
+    "canBeReceivedDate": "2200-01-01 07:00:00",
+    "origin": "SuperElemental",
+    "parentHeroId": "elemental_craum"
+  },
+  "elemental_nylora_costume_jewelled": {
+    "id": "Jewelled Assassin",
+    "element": "Blue",
+    "family": "super_elemental",
+    "baseHealth": 827,
+    "baseAttack": 426,
+    "baseDefense": 415,
+    "manaSpeedId": "快速",
+    "passiveSkills": [
+      "strong_troop_damage_modifier_costume"
+    ],
+    "classType": "德鲁伊",
+    "aetherGift": "Dodge",
+    "rarity": 5,
+    "specialId": "fortunate_slice",
+    "canBeReceivedDate": "2200-01-01 07:00:00",
+    "origin": "SuperElemental",
+    "parentHeroId": "elemental_nylora"
+  },
+  "elemental_vander_costume_clown": {
+    "id": "Clown Captain",
+    "element": "Purple",
+    "family": "super_elemental",
+    "baseHealth": 827,
+    "baseAttack": 426,
+    "baseDefense": 415,
+    "manaSpeedId": "快速",
+    "passiveSkills": [
+      "strong_troop_damage_modifier_costume"
+    ],
+    "classType": "术士",
+    "aetherGift": "Ailment Reflect",
+    "rarity": 5,
+    "specialId": "trickster_grenades",
+    "canBeReceivedDate": "2200-01-01 07:00:00",
+    "origin": "SuperElemental",
+    "parentHeroId": "elemental_vander"
+  },
+  "magic_becky_costume_gothic": {
+    "id": "Twilight Conjurer",
+    "element": "Purple",
+    "family": "magic",
+    "baseHealth": 777,
+    "baseAttack": 430,
+    "baseDefense": 434,
+    "manaSpeedId": "魔法",
+    "passiveSkills": [
+      "magic_mana_regen_stack_on_special_costume",
+      "magic_heal_on_full_charge_costume"
+    ],
+    "classType": "术士",
+    "aetherGift": "Special Boost",
+    "rarity": 5,
+    "specialId": "wand_of_mana_trickery",
+    "canBeReceivedDate": "2200-01-01 07:00:00",
+    "origin": "Tower of Magic",
+    "parentHeroId": "magic_becky"
+  },
+  "halloween_ana_belle_costume_mafia": {
+    "id": "Baroness of Dust",
+    "element": "Purple",
+    "family": "halloween",
+    "baseHealth": 621,
+    "baseAttack": 300,
+    "baseDefense": 324,
+    "manaSpeedId": "中等",
+    "passiveSkills": [
+      "halloween_steal_buff_or_deal_damage_new"
+    ],
+    "classType": "牧师",
+    "aetherGift": "Defense Up",
+    "rarity": 4,
+    "specialId": "dress_up",
+    "canBeReceivedDate": "2200-01-01 07:00:00",
+    "origin": "Halloween",
+    "parentHeroId": "halloween_ana_belle"
+  },
+  "halloween_edwin_costume_mafia": {
+    "id": "The Backstabbing Butler",
+    "element": "Green",
+    "family": "halloween",
+    "baseHealth": 822,
+    "baseAttack": 455,
+    "baseDefense": 425,
+    "manaSpeedId": "快速",
+    "passiveSkills": [
+      "halloween_steal_buff_or_deal_damage_new"
+    ],
+    "classType": "圣骑士",
+    "aetherGift": "Attack Up",
+    "rarity": 5,
+    "specialId": "garlic_serving_edwin",
+    "canBeReceivedDate": "2200-01-01 07:00:00",
+    "origin": "Halloween",
+    "parentHeroId": "halloween_edwin"
+  },
+  "magic_camilla_costume_flower": {
+    "id": "Floral Tinkerer",
+    "element": "Blue",
+    "family": "magic",
+    "baseHealth": 820,
+    "baseAttack": 420,
+    "baseDefense": 410,
+    "manaSpeedId": "魔法",
+    "passiveSkills": [
+      "magic_mana_regen_stack_on_special_costume",
+      "magic_damage_on_full_charge_costume"
+    ],
+    "classType": "德鲁伊",
+    "aetherGift": "Special Armor",
+    "rarity": 5,
+    "specialId": "flower_arrangements",
+    "canBeReceivedDate": "2200-01-01 07:00:00",
+    "origin": "Tower of Magic",
+    "parentHeroId": "magic_camilla"
+  },
   "tales1_domiventus": {
     "id": "The Eternal Hadal Being",
     "element": "Red",
@@ -21963,7 +22331,8 @@
     "rarity": 5,
     "specialId": "cataclysmic_divination",
     "canBeReceivedDate": "2023-10-09 07:00:00",
-    "origin": "SuperElemental"
+    "origin": "SuperElemental",
+    "costumeBonusesId": "elemental"
   },
   "elemental_farrah": {
     "id": "Supersonic Blade Master",
@@ -21981,7 +22350,8 @@
     "rarity": 5,
     "specialId": "piercing_falcon",
     "canBeReceivedDate": "2023-11-06 07:00:00",
-    "origin": "SuperElemental"
+    "origin": "SuperElemental",
+    "costumeBonusesId": "elemental"
   },
   "castle_bear_torben": {
     "id": "Lord of the Highlands",
@@ -22510,7 +22880,8 @@
     "rarity": 5,
     "specialId": "chains_of_light",
     "canBeReceivedDate": "2023-12-04 07:00:00",
-    "origin": "SuperElemental"
+    "origin": "SuperElemental",
+    "costumeBonusesId": "elemental"
   },
   "elemental_desmond": {
     "id": "Blade Alchemist",
@@ -22528,7 +22899,8 @@
     "rarity": 5,
     "specialId": "jade_blades",
     "canBeReceivedDate": "2024-01-01 07:00:00",
-    "origin": "SuperElemental"
+    "origin": "SuperElemental",
+    "costumeBonusesId": "elemental"
   },
   "christmas_ginger": {
     "id": "Gnome Explorer",
@@ -22933,7 +23305,8 @@
     "rarity": 5,
     "specialId": "chain_lightning",
     "canBeReceivedDate": "2024-01-29 07:00:00",
-    "origin": "SuperElemental"
+    "origin": "SuperElemental",
+    "costumeBonusesId": "elemental"
   },
   "journey_xie_zi_jing": {
     "id": "Scorpion Demoness",
@@ -23317,7 +23690,8 @@
     "rarity": 5,
     "specialId": "pain_harvest",
     "canBeReceivedDate": "2024-02-26 07:00:00",
-    "origin": "SuperElemental"
+    "origin": "SuperElemental",
+    "costumeBonusesId": "elemental"
   },
   "elemental_gastille": {
     "id": "Multidimensional Hazard",
@@ -23335,7 +23709,8 @@
     "rarity": 5,
     "specialId": "elemental_corruption",
     "canBeReceivedDate": "2024-03-25 07:00:00",
-    "origin": "SuperElemental"
+    "origin": "SuperElemental",
+    "costumeBonusesId": "elemental"
   },
   "champions_norman": {
     "id": "Jousting Champion",
@@ -23968,7 +24343,8 @@
     "rarity": 5,
     "specialId": "holy_hibiscus_ale",
     "canBeReceivedDate": "2024-04-22 07:00:00",
-    "origin": "SuperElemental"
+    "origin": "SuperElemental",
+    "costumeBonusesId": "elemental"
   },
   "elemental_craum": {
     "id": "Elemental Shaman",
@@ -23986,7 +24362,8 @@
     "rarity": 5,
     "specialId": "call_of_the_elements",
     "canBeReceivedDate": "2024-05-20 07:00:00",
-    "origin": "SuperElemental"
+    "origin": "SuperElemental",
+    "costumeBonusesId": "elemental"
   },
   "elemental_nylora": {
     "id": "Cold Blooded Assassin",
@@ -24004,7 +24381,8 @@
     "rarity": 5,
     "specialId": "ice_and_slice",
     "canBeReceivedDate": "2024-06-17 07:00:00",
-    "origin": "SuperElemental"
+    "origin": "SuperElemental",
+    "costumeBonusesId": "elemental"
   },
   "elemental_ash": {
     "id": "Fierce Bounty Hunter",
@@ -24022,7 +24400,8 @@
     "rarity": 5,
     "specialId": "ruby_rush",
     "canBeReceivedDate": "2024-07-14 07:00:00",
-    "origin": "SuperElemental"
+    "origin": "SuperElemental",
+    "costumeBonusesId": "elemental"
   },
   "elemental_vander": {
     "id": "Cyborg Captain",
@@ -24040,7 +24419,8 @@
     "rarity": 5,
     "specialId": "gloom_grenades",
     "canBeReceivedDate": "2024-08-07 07:00:00",
-    "origin": "SuperElemental"
+    "origin": "SuperElemental",
+    "costumeBonusesId": "elemental"
   },
   "garrison_theodosius": {
     "id": "Courageous Corporal",
@@ -27142,9 +27522,9 @@
     "id": "The Peace-Weaver",
     "element": "Green",
     "family": "beowulf",
-    "baseHealth": 1083,
-    "baseAttack": 542,
-    "baseDefense": 595,
+    "baseHealth": 1098,
+    "baseAttack": 587,
+    "baseDefense": 640,
     "manaSpeedId": "中等",
     "passiveSkills": [
       "resist_buff_immunity",
@@ -27155,7 +27535,7 @@
     "aetherGift": "Bulwark",
     "rarity": 5,
     "specialId": "scroll_of_fellowship",
-    "canBeReceivedDate": "2200-01-01 07:00:00",
+    "canBeReceivedDate": "2025-09-05 07:00:00",
     "origin": "Beowulf's Challenge"
   },
   "beowulf_hygd": {
@@ -27183,8 +27563,8 @@
     "element": "Red",
     "family": "beowulf",
     "baseHealth": 1066,
-    "baseAttack": 589,
-    "baseDefense": 562,
+    "baseAttack": 590,
+    "baseDefense": 564,
     "manaSpeedId": "快速",
     "passiveSkills": [
       "attack_buff_on_damage_received",
@@ -27201,9 +27581,9 @@
     "id": "Skillful Smith",
     "element": "Yellow",
     "family": "beowulf",
-    "baseHealth": 1076,
-    "baseAttack": 555,
-    "baseDefense": 582,
+    "baseHealth": 1077,
+    "baseAttack": 575,
+    "baseDefense": 586,
     "manaSpeedId": "慢",
     "passiveSkills": [
       "attack_buff_on_damage_received",
@@ -27407,6 +27787,63 @@
     "canBeReceivedDate": "2025-08-23 07:00:00",
     "origin": "Wilderness Summon"
   },
+  "wild_cat_thaffer": {
+    "id": "Tabby Safecracker",
+    "element": "Green",
+    "family": "wild_cat",
+    "baseHealth": 1040,
+    "baseAttack": 582,
+    "baseDefense": 644,
+    "manaSpeedId": "中等",
+    "passiveSkills": [
+      "resist_all_defense_effects",
+      "revive_chance_nine_lives"
+    ],
+    "classType": "德鲁伊",
+    "aetherGift": "Attack Up",
+    "rarity": 5,
+    "specialId": "grab_and_run",
+    "canBeReceivedDate": "2200-01-01 07:00:00",
+    "origin": "Wilderness Summon"
+  },
+  "wild_cat_vernix": {
+    "id": "Snow Leopard Magus",
+    "element": "Blue",
+    "family": "wild_cat",
+    "baseHealth": 1026,
+    "baseAttack": 646,
+    "baseDefense": 571,
+    "manaSpeedId": "快速",
+    "passiveSkills": [
+      "resist_all_defense_effects",
+      "revive_chance_nine_lives"
+    ],
+    "classType": "巫师",
+    "aetherGift": "Heal Increase",
+    "rarity": 5,
+    "specialId": "iceshatter",
+    "canBeReceivedDate": "2200-01-01 07:00:00",
+    "origin": "Wilderness Summon"
+  },
+  "wild_cat_marnes": {
+    "id": "Flank-Stabbing Panther",
+    "element": "Purple",
+    "family": "wild_cat",
+    "baseHealth": 1026,
+    "baseAttack": 654,
+    "baseDefense": 560,
+    "manaSpeedId": "飞速",
+    "passiveSkills": [
+      "resist_all_defense_effects",
+      "revive_chance_nine_lives"
+    ],
+    "classType": "盗贼",
+    "aetherGift": "Ailment Immunity",
+    "rarity": 5,
+    "specialId": "blade_of_horrid_affliction",
+    "canBeReceivedDate": "2200-01-01 07:00:00",
+    "origin": "Wilderness Summon"
+  },
   "wild_cat_ferni": {
     "id": "Adventurous Rainforest Cat",
     "element": "Green",
@@ -27420,7 +27857,7 @@
       "revive_chance_nine_lives"
     ],
     "classType": "盗贼",
-    "aetherGift": "Attack Up",
+    "aetherGift": "Special Boost",
     "rarity": 3,
     "specialId": "lacerating_whip",
     "canBeReceivedDate": "2200-01-01 07:00:00",
@@ -27878,9 +28315,9 @@
     "id": "Panther Head of Water Margin",
     "element": "Green",
     "family": "outlaw",
-    "baseHealth": 1020,
-    "baseAttack": 605,
-    "baseDefense": 565,
+    "baseHealth": 1046,
+    "baseAttack": 635,
+    "baseDefense": 591,
     "manaSpeedId": "飞速",
     "passiveSkills": [
       "resist_bleed",
@@ -27958,12 +28395,14 @@
     "id": "Tiger-Fighting Hero of Water Margin",
     "element": "Blue",
     "family": "outlaw",
-    "baseHealth": 1012,
-    "baseAttack": 602,
-    "baseDefense": 572,
+    "baseHealth": 1150,
+    "baseAttack": 603,
+    "baseDefense": 576,
     "manaSpeedId": "快速",
     "passiveSkills": [
-      "righteous_rebellion_parent"
+      "resist_bleed",
+      "righteous_rebellion_parent",
+      "health_boost_on_special_critical_damage_all"
     ],
     "classType": "僧侣",
     "aetherGift": "Special Armor",
@@ -27976,12 +28415,14 @@
     "id": "Knowledge Star of Water Margin",
     "element": "Yellow",
     "family": "outlaw",
-    "baseHealth": 1066,
-    "baseAttack": 574,
-    "baseDefense": 581,
+    "baseHealth": 1166,
+    "baseAttack": 572,
+    "baseDefense": 611,
     "manaSpeedId": "慢",
     "passiveSkills": [
-      "righteous_rebellion_parent"
+      "resist_bleed",
+      "righteous_rebellion_parent",
+      "cleanse_on_special_critical_damage_all_safe"
     ],
     "classType": "巫师",
     "aetherGift": "Ailment Immunity",
@@ -28019,7 +28460,9 @@
     "baseDefense": 567,
     "manaSpeedId": "快速",
     "passiveSkills": [
-      "righteous_rebellion_parent"
+      "resist_bleed",
+      "righteous_rebellion_parent",
+      "cleanse_on_special_critical_damage_all_safe"
     ],
     "classType": "游侠",
     "aetherGift": "Attack Up",
@@ -28037,7 +28480,9 @@
     "baseDefense": 559,
     "manaSpeedId": "中等",
     "passiveSkills": [
-      "righteous_rebellion_parent"
+      "resist_bleed",
+      "righteous_rebellion_parent",
+      "health_boost_on_special_critical_damage_all"
     ],
     "classType": "战士",
     "aetherGift": "Attack Up",
@@ -28055,7 +28500,9 @@
     "baseDefense": 584,
     "manaSpeedId": "慢",
     "passiveSkills": [
-      "righteous_rebellion_parent"
+      "resist_bleed",
+      "righteous_rebellion_parent",
+      "health_boost_on_special_critical_damage_all"
     ],
     "classType": "僧侣",
     "aetherGift": "Ailment Immunity",
@@ -28073,7 +28520,9 @@
     "baseDefense": 569,
     "manaSpeedId": "快速",
     "passiveSkills": [
-      "righteous_rebellion_parent"
+      "resist_bleed",
+      "righteous_rebellion_parent",
+      "cleanse_on_special_critical_damage_all_safe"
     ],
     "classType": "盗贼",
     "aetherGift": "Attack Up",
@@ -28493,9 +28942,9 @@
     "id": "The Radiant Berserker",
     "element": "Yellow",
     "family": "hotm2025",
-    "baseHealth": 812,
-    "baseAttack": 780,
-    "baseDefense": 369,
+    "baseHealth": 850,
+    "baseAttack": 593,
+    "baseDefense": 582,
     "manaSpeedId": "中等",
     "passiveSkills": [
       "increase_special_damage_buff",
@@ -28717,144 +29166,135 @@
   },
   "guestip2_hero1": {
     "id": "guestip2_hero1",
-    "element": "Yellow",
+    "element": "Blue",
     "family": "guestip2",
     "baseHealth": 875,
     "baseAttack": 596,
     "baseDefense": 585,
-    "manaSpeedId": "快速",
-    "classType": "战士",
-    "aetherGift": "Regen",
+    "manaSpeedId": "飞速",
+    "classType": "巫师",
     "rarity": 5,
-    "specialId": "power_punch",
+    "specialId": "guestip2_hero1_special",
     "canBeReceivedDate": "2200-01-01 07:00:00",
     "origin": "GuestIP2",
     "isGuest": true
   },
   "guestip2_hero2": {
     "id": "guestip2_hero2",
-    "element": "Blue",
+    "element": "Yellow",
     "family": "guestip2",
     "baseHealth": 875,
     "baseAttack": 596,
     "baseDefense": 585,
-    "manaSpeedId": "快速",
-    "classType": "战士",
-    "aetherGift": "Regen",
+    "manaSpeedId": "中等",
+    "classType": "牧师",
     "rarity": 5,
-    "specialId": "power_punch",
+    "specialId": "guestip2_hero2_special",
     "canBeReceivedDate": "2200-01-01 07:00:00",
     "origin": "GuestIP2",
     "isGuest": true
   },
   "guestip2_hero3": {
     "id": "guestip2_hero3",
-    "element": "Green",
+    "element": "Purple",
     "family": "guestip2",
     "baseHealth": 875,
     "baseAttack": 596,
     "baseDefense": 585,
-    "manaSpeedId": "快速",
-    "classType": "战士",
-    "aetherGift": "Regen",
+    "manaSpeedId": "中等",
+    "classType": "野蛮人",
     "rarity": 5,
-    "specialId": "power_punch",
+    "specialId": "guestip2_hero3_special",
     "canBeReceivedDate": "2200-01-01 07:00:00",
     "origin": "GuestIP2",
     "isGuest": true
   },
   "guestip2_hero4": {
     "id": "guestip2_hero4",
-    "element": "Purple",
+    "element": "Red",
     "family": "guestip2",
     "baseHealth": 875,
     "baseAttack": 596,
     "baseDefense": 585,
-    "manaSpeedId": "快速",
+    "manaSpeedId": "中等",
     "classType": "战士",
-    "aetherGift": "Regen",
     "rarity": 5,
-    "specialId": "power_punch",
+    "specialId": "guestip2_hero4_special",
     "canBeReceivedDate": "2200-01-01 07:00:00",
     "origin": "GuestIP2",
     "isGuest": true
   },
   "guestip2_hero5": {
     "id": "guestip2_hero5",
-    "element": "Red",
-    "family": "guestip2",
-    "baseHealth": 875,
-    "baseAttack": 596,
-    "baseDefense": 585,
-    "manaSpeedId": "快速",
-    "classType": "战士",
-    "aetherGift": "Regen",
-    "rarity": 5,
-    "specialId": "power_punch",
-    "canBeReceivedDate": "2200-01-01 07:00:00",
-    "origin": "GuestIP2",
-    "isGuest": true
-  },
-  "guestip2_hero6": {
-    "id": "guestip2_hero6",
-    "element": "Yellow",
-    "family": "guestip2",
-    "baseHealth": 875,
-    "baseAttack": 596,
-    "baseDefense": 585,
-    "manaSpeedId": "快速",
-    "classType": "战士",
-    "aetherGift": "Regen",
-    "rarity": 5,
-    "specialId": "power_punch",
-    "canBeReceivedDate": "2200-01-01 07:00:00",
-    "origin": "GuestIP2",
-    "isGuest": true
-  },
-  "guestip2_hero7": {
-    "id": "guestip2_hero7",
-    "element": "Blue",
-    "family": "guestip2",
-    "baseHealth": 875,
-    "baseAttack": 596,
-    "baseDefense": 585,
-    "manaSpeedId": "快速",
-    "classType": "战士",
-    "aetherGift": "Regen",
-    "rarity": 5,
-    "specialId": "power_punch",
-    "canBeReceivedDate": "2200-01-01 07:00:00",
-    "origin": "GuestIP2",
-    "isGuest": true
-  },
-  "guestip2_hero8": {
-    "id": "guestip2_hero8",
     "element": "Green",
     "family": "guestip2",
     "baseHealth": 875,
     "baseAttack": 596,
     "baseDefense": 585,
     "manaSpeedId": "快速",
-    "classType": "战士",
-    "aetherGift": "Regen",
+    "classType": "游侠",
     "rarity": 5,
-    "specialId": "power_punch",
+    "specialId": "guestip2_hero5_special",
+    "canBeReceivedDate": "2200-01-01 07:00:00",
+    "origin": "GuestIP2",
+    "isGuest": true
+  },
+  "guestip2_hero6": {
+    "id": "guestip2_hero6",
+    "element": "Red",
+    "family": "guestip2",
+    "baseHealth": 875,
+    "baseAttack": 596,
+    "baseDefense": 585,
+    "manaSpeedId": "快速",
+    "classType": "盗贼",
+    "rarity": 5,
+    "specialId": "guestip2_hero6_special",
+    "canBeReceivedDate": "2200-01-01 07:00:00",
+    "origin": "GuestIP2",
+    "isGuest": true
+  },
+  "guestip2_hero7": {
+    "id": "guestip2_hero7",
+    "element": "Purple",
+    "family": "guestip2",
+    "baseHealth": 875,
+    "baseAttack": 596,
+    "baseDefense": 585,
+    "manaSpeedId": "中等",
+    "classType": "游侠",
+    "rarity": 5,
+    "specialId": "guestip2_hero7_special",
+    "canBeReceivedDate": "2200-01-01 07:00:00",
+    "origin": "GuestIP2",
+    "isGuest": true
+  },
+  "guestip2_hero8": {
+    "id": "guestip2_hero8",
+    "element": "Blue",
+    "family": "guestip2",
+    "baseHealth": 875,
+    "baseAttack": 596,
+    "baseDefense": 585,
+    "manaSpeedId": "中等",
+    "classType": "盗贼",
+    "rarity": 5,
+    "specialId": "guestip2_hero8_special",
     "canBeReceivedDate": "2200-01-01 07:00:00",
     "origin": "GuestIP2",
     "isGuest": true
   },
   "guestip2_hero9": {
     "id": "guestip2_hero9",
-    "element": "Purple",
+    "element": "Green",
     "family": "guestip2",
     "baseHealth": 875,
     "baseAttack": 596,
     "baseDefense": 585,
-    "manaSpeedId": "快速",
-    "classType": "战士",
-    "aetherGift": "Regen",
+    "manaSpeedId": "中等",
+    "classType": "术士",
     "rarity": 5,
-    "specialId": "power_punch",
+    "specialId": "guestip2_hero9_special",
     "canBeReceivedDate": "2200-01-01 07:00:00",
     "origin": "GuestIP2",
     "isGuest": true
@@ -28867,13 +29307,46 @@
     "baseAttack": 596,
     "baseDefense": 585,
     "manaSpeedId": "快速",
-    "classType": "战士",
-    "aetherGift": "Regen",
+    "classType": "游侠",
     "rarity": 5,
-    "specialId": "power_punch",
+    "specialId": "guestip2_hero10_special",
     "canBeReceivedDate": "2200-01-01 07:00:00",
     "origin": "GuestIP2",
     "isGuest": true
+  },
+  "guestip2_hero11": {
+    "id": "guestip2_hero11",
+    "element": "Yellow",
+    "family": "guestip2",
+    "baseHealth": 875,
+    "baseAttack": 596,
+    "baseDefense": 585,
+    "manaSpeedId": "中等",
+    "classType": "战士",
+    "rarity": 5,
+    "specialId": "guestip2_hero11_special",
+    "canBeReceivedDate": "2200-01-01 07:00:00",
+    "origin": "GuestIP2",
+    "isGuest": true,
+    "additionalBattleSpecificHeroEffectOrigin": "",
+    "costumeBonusesId": ""
+  },
+  "guestip2_hero12": {
+    "id": "guestip2_hero12",
+    "element": "Purple",
+    "family": "guestip2",
+    "baseHealth": 875,
+    "baseAttack": 596,
+    "baseDefense": 585,
+    "manaSpeedId": "快速",
+    "classType": "野蛮人",
+    "rarity": 5,
+    "specialId": "guestip2_hero12_special",
+    "canBeReceivedDate": "2200-01-01 07:00:00",
+    "origin": "GuestIP2",
+    "isGuest": true,
+    "additionalBattleSpecificHeroEffectOrigin": "",
+    "costumeBonusesId": ""
   },
   "fox_nibbles": {
     "id": "The Hungry Fox Kit",
@@ -28971,9 +29444,9 @@
     "id": "Sweet Blushing Slime",
     "element": "Red",
     "family": "slime",
-    "baseHealth": 1004,
-    "baseAttack": 625,
-    "baseDefense": 548,
+    "baseHealth": 1084,
+    "baseAttack": 621,
+    "baseDefense": 604,
     "manaSpeedId": "中等",
     "passiveSkills": [
       "summon_slime_minion_on_damage_red",
@@ -29180,7 +29653,7 @@
     "aetherGift": "Bulwark",
     "rarity": 5,
     "specialId": "gorging_chew_purple",
-    "canBeReceivedDate": "2200-01-01 07:00:00",
+    "canBeReceivedDate": "2025-08-29 07:00:00",
     "origin": "SecretSummonAscensionMimicPurple",
     "forceUseCostumeLevelUpAndUpgradeCosts": true,
     "isSecret": true
@@ -29263,45 +29736,47 @@
     "id": "Bell Pepper Barbarian",
     "element": "Red",
     "family": "vegetable",
-    "baseHealth": 1025,
-    "baseAttack": 625,
-    "baseDefense": 536,
+    "baseHealth": 1055,
+    "baseAttack": 628,
+    "baseDefense": 611,
     "manaSpeedId": "中等",
     "passiveSkills": [
-      "summon_seedling_fiend_on_enemy_minion_summon"
+      "summon_seedling_parasite_per_turn_veggie",
+      "resist_special_blocking_with_health_boost_and_mana"
     ],
     "classType": "野蛮人",
-    "aetherGift": "Attack Up",
+    "aetherGift": "Rage",
     "rarity": 5,
     "specialId": "capsicum_charge",
-    "canBeReceivedDate": "2200-01-01 07:00:00",
+    "canBeReceivedDate": "2025-09-02 07:00:00",
     "origin": "Harvest"
   },
   "vegetable_elsbeth": {
     "id": "Beetroot Knight",
     "element": "Purple",
     "family": "vegetable",
-    "baseHealth": 1050,
-    "baseAttack": 602,
-    "baseDefense": 555,
+    "baseHealth": 1085,
+    "baseAttack": 620,
+    "baseDefense": 606,
     "manaSpeedId": "快速",
     "passiveSkills": [
-      "summon_seedling_fiend_on_enemy_minion_summon"
+      "summon_seedling_parasite_per_turn_veggie",
+      "resist_special_blocking_with_health_boost_and_mana"
     ],
     "classType": "圣骑士",
-    "aetherGift": "Attack Up",
+    "aetherGift": "Knight's Endurance",
     "rarity": 5,
     "specialId": "guard_the_garden",
-    "canBeReceivedDate": "2200-01-01 07:00:00",
+    "canBeReceivedDate": "2025-09-02 07:00:00",
     "origin": "Harvest"
   },
   "magic_carpet_ragrim": {
     "id": "Magic Carpet Botanist",
     "element": "Green",
     "family": "magic_carpet",
-    "baseHealth": 1020,
-    "baseAttack": 560,
-    "baseDefense": 580,
+    "baseHealth": 1070,
+    "baseAttack": 568,
+    "baseDefense": 620,
     "manaSpeedId": "中等",
     "passiveSkills": [
       "reduce_big_minion_health",
@@ -29319,8 +29794,8 @@
     "element": "Blue",
     "family": "magic_carpet",
     "baseHealth": 1020,
-    "baseAttack": 560,
-    "baseDefense": 580,
+    "baseAttack": 604,
+    "baseDefense": 600,
     "manaSpeedId": "飞速",
     "passiveSkills": [
       "reduce_big_minion_health",
@@ -29342,10 +29817,11 @@
     "baseDefense": 600,
     "manaSpeedId": "中等",
     "passiveSkills": [
-      "repair_core"
+      "minion_core",
+      "hp_on_own_familiar_death_construct"
     ],
     "classType": "圣骑士",
-    "aetherGift": "Ailment Reflect",
+    "aetherGift": "Damage Reduction",
     "rarity": 5,
     "specialId": "iron_rocket_fist",
     "canBeReceivedDate": "2200-01-01 07:00:00",
@@ -29355,16 +29831,17 @@
     "id": "Holy Squire Construct",
     "element": "Yellow",
     "family": "construct",
-    "baseHealth": 650,
-    "baseAttack": 400,
-    "baseDefense": 350,
-    "manaSpeedId": "快速",
+    "baseHealth": 500,
+    "baseAttack": 300,
+    "baseDefense": 300,
+    "manaSpeedId": "中等",
     "passiveSkills": [
-      "repair_core"
+      "minion_core",
+      "hp_on_own_familiar_death_construct"
     ],
     "classType": "战士",
     "aetherGift": "Ailment Defense",
-    "rarity": 4,
+    "rarity": 3,
     "specialId": "squire_strike",
     "canBeReceivedDate": "2200-01-01 07:00:00",
     "origin": "Covenant Summon"
@@ -29378,7 +29855,8 @@
     "baseDefense": 600,
     "manaSpeedId": "快速",
     "passiveSkills": [
-      "repair_core"
+      "minion_core",
+      "mana_on_own_familiar_death_construct"
     ],
     "classType": "牧师",
     "aetherGift": "Revive",
@@ -29396,7 +29874,8 @@
     "baseDefense": 600,
     "manaSpeedId": "中等",
     "passiveSkills": [
-      "repair_core"
+      "minion_core",
+      "hp_on_own_familiar_death_construct"
     ],
     "classType": "圣骑士",
     "aetherGift": "Special Armor",
@@ -29414,7 +29893,8 @@
     "baseDefense": 350,
     "manaSpeedId": "中等",
     "passiveSkills": [
-      "repair_core"
+      "minion_core",
+      "mana_on_own_familiar_death_construct"
     ],
     "classType": "野蛮人",
     "aetherGift": "Rage",
@@ -29432,7 +29912,8 @@
     "baseDefense": 600,
     "manaSpeedId": "慢",
     "passiveSkills": [
-      "repair_core"
+      "minion_core",
+      "mana_on_own_familiar_death_construct"
     ],
     "classType": "巫师",
     "aetherGift": "Vampire",
@@ -29450,7 +29931,8 @@
     "baseDefense": 600,
     "manaSpeedId": "慢",
     "passiveSkills": [
-      "repair_core"
+      "minion_core",
+      "mana_on_own_familiar_death_construct"
     ],
     "classType": "术士",
     "aetherGift": "Mana Boost",
@@ -29468,7 +29950,8 @@
     "baseDefense": 600,
     "manaSpeedId": "快速",
     "passiveSkills": [
-      "repair_core"
+      "minion_core",
+      "hp_on_own_familiar_death_construct"
     ],
     "classType": "盗贼",
     "aetherGift": "Attack Up",
@@ -29486,7 +29969,8 @@
     "baseDefense": 600,
     "manaSpeedId": "快速",
     "passiveSkills": [
-      "repair_core"
+      "minion_core",
+      "hp_on_own_familiar_death_construct"
     ],
     "classType": "僧侣",
     "aetherGift": "Counterattack",
@@ -29504,7 +29988,8 @@
     "baseDefense": 600,
     "manaSpeedId": "中等",
     "passiveSkills": [
-      "repair_core"
+      "minion_core",
+      "mana_on_own_familiar_death_construct"
     ],
     "classType": "德鲁伊",
     "aetherGift": "Damage Reduction",
@@ -29512,5 +29997,431 @@
     "specialId": "ancient_technology",
     "canBeReceivedDate": "2200-01-01 07:00:00",
     "origin": "Covenant Summon"
+  },
+  "goblin_soursting": {
+    "id": "Arrogant Goblin Assassin",
+    "element": "Green",
+    "family": "goblin",
+    "baseHealth": 1024,
+    "baseAttack": 634,
+    "baseDefense": 608,
+    "manaSpeedId": "快速",
+    "passiveSkills": [
+      "goblin_damage_and_accuracy_debuff_on_special"
+    ],
+    "classType": "战士",
+    "aetherGift": "Attack Up",
+    "rarity": 5,
+    "specialId": "ruthless_gambit",
+    "canBeReceivedDate": "2200-01-01 07:00:00",
+    "origin": "Goblin Village"
+  },
+  "goblin_ratgrub": {
+    "id": "Goblin Rat Courtier",
+    "element": "Yellow",
+    "family": "goblin",
+    "baseHealth": 1132,
+    "baseAttack": 588,
+    "baseDefense": 611,
+    "manaSpeedId": "中等",
+    "passiveSkills": [
+      "goblin_damage_and_accuracy_debuff_on_special"
+    ],
+    "classType": "牧师",
+    "aetherGift": "Special Armor",
+    "rarity": 5,
+    "specialId": "princess_unleashed",
+    "canBeReceivedDate": "2200-01-01 07:00:00",
+    "origin": "Goblin Village"
+  },
+  "dark_god_eldwren": {
+    "id": "The Flock Father",
+    "element": "Purple",
+    "family": "hotm2025",
+    "baseHealth": 910,
+    "baseAttack": 543,
+    "baseDefense": 514,
+    "manaSpeedId": "中等",
+    "passiveSkills": [
+      "resist_special_blocking",
+      "resist_parasites"
+    ],
+    "classType": "德鲁伊",
+    "aetherGift": "Dodge",
+    "rarity": 5,
+    "specialId": "flock_of_folly_eldwren",
+    "canBeReceivedDate": "2200-01-01 07:00:00",
+    "origin": "MonthlyHeroNovember2025"
+  },
+  "nature_god_liora": {
+    "id": "The Benevolent Bandit",
+    "element": "Green",
+    "family": "hotm2025",
+    "baseHealth": 885,
+    "baseAttack": 569,
+    "baseDefense": 510,
+    "manaSpeedId": "快速",
+    "passiveSkills": [
+      "never_miss_special",
+      "resist_health_steal"
+    ],
+    "classType": "游侠",
+    "aetherGift": "Special Armor",
+    "rarity": 5,
+    "specialId": "arrows_of_altruism_liora",
+    "canBeReceivedDate": "2200-01-01 07:00:00",
+    "origin": "MonthlyHeroDecember2025"
+  },
+  "forsaken_khatrox": {
+    "id": "Blighted Bruiser",
+    "element": "Green",
+    "family": "forsaken",
+    "baseHealth": 1099,
+    "baseAttack": 637,
+    "baseDefense": 565,
+    "manaSpeedId": "慢",
+    "passiveSkills": [
+      "revive_in_alternative_form_with_insanity_chance"
+    ],
+    "classType": "野蛮人",
+    "aetherGift": "Bulwark",
+    "rarity": 5,
+    "specialId": "obliterating_surge",
+    "canBeReceivedDate": "2200-01-01 07:00:00",
+    "origin": "ShadowQuest"
+  },
+  "institute_piper": {
+    "id": "Inquisitive Hired Gun",
+    "element": "Red",
+    "family": "institute",
+    "baseHealth": 519,
+    "baseAttack": 312,
+    "baseDefense": 282,
+    "manaSpeedId": "快速",
+    "classType": "游侠",
+    "aetherGift": "Defense Up",
+    "rarity": 3,
+    "specialId": "vantage_point",
+    "canBeReceivedDate": "2200-01-01 07:00:00",
+    "origin": "ShadowQuest"
+  },
+  "institute_professor_morryster": {
+    "id": "The Masked Savant",
+    "element": "Purple",
+    "family": "institute",
+    "baseHealth": 1089,
+    "baseAttack": 585,
+    "baseDefense": 635,
+    "manaSpeedId": "中等",
+    "passiveSkills": [
+      "damage_increase_by_insanity"
+    ],
+    "classType": "战士",
+    "aetherGift": "Counterattack",
+    "rarity": 5,
+    "specialId": "seeking_shots",
+    "canBeReceivedDate": "2200-01-01 07:00:00",
+    "origin": "ShadowQuest"
+  },
+  "forsaken_lamentia": {
+    "id": "Servant of the Abyss",
+    "element": "Blue",
+    "family": "forsaken",
+    "baseHealth": 641,
+    "baseAttack": 361,
+    "baseDefense": 344,
+    "manaSpeedId": "中等",
+    "passiveSkills": [
+      "damage_increase_by_insanity"
+    ],
+    "classType": "盗贼",
+    "aetherGift": "Special Boost",
+    "rarity": 4,
+    "specialId": "frenzied_rend",
+    "canBeReceivedDate": "2200-01-01 07:00:00",
+    "origin": "ShadowQuest"
+  },
+  "forsaken_demhalar": {
+    "id": "The Strange Inhabitant",
+    "element": "Red",
+    "family": "forsaken",
+    "baseHealth": 1071,
+    "baseAttack": 619,
+    "baseDefense": 601,
+    "manaSpeedId": "快速",
+    "passiveSkills": [
+      "revive_in_alternative_form_with_insanity_chance"
+    ],
+    "classType": "术士",
+    "aetherGift": "Rage",
+    "rarity": 5,
+    "specialId": "drawn_to_the_depths",
+    "canBeReceivedDate": "2200-01-01 07:00:00",
+    "origin": "ShadowQuest"
+  },
+  "institute_emilie": {
+    "id": "Liminal Realm Explorer",
+    "element": "Blue",
+    "family": "institute",
+    "baseHealth": 1077,
+    "baseAttack": 582,
+    "baseDefense": 645,
+    "manaSpeedId": "慢",
+    "passiveSkills": [
+      "revive_in_alternative_form_with_insanity_chance"
+    ],
+    "classType": "牧师",
+    "aetherGift": "Damage Reduction",
+    "rarity": 5,
+    "specialId": "endless_maze",
+    "canBeReceivedDate": "2200-01-01 07:00:00",
+    "origin": "ShadowQuest"
+  },
+  "mimic_emblem_red": {
+    "id": "Horrifying One-Eyed Lockbox",
+    "element": "Red",
+    "family": "mimic",
+    "baseHealth": 1080,
+    "baseAttack": 628,
+    "baseDefense": 628,
+    "manaSpeedId": "快速",
+    "passiveSkills": [
+      "mimic_emblem_red",
+      "never_miss_special"
+    ],
+    "classType": "战士",
+    "aetherGift": "Bulwark",
+    "rarity": 5,
+    "specialId": "savage_gobble_red",
+    "canBeReceivedDate": "2200-01-01 07:00:00",
+    "origin": "Mimic",
+    "forceUseCostumeLevelUpAndUpgradeCosts": true
+  },
+  "mimic_emblem_blue": {
+    "id": "Horrifying One-Eyed Lockbox",
+    "element": "Blue",
+    "family": "mimic",
+    "baseHealth": 1080,
+    "baseAttack": 628,
+    "baseDefense": 628,
+    "manaSpeedId": "快速",
+    "passiveSkills": [
+      "mimic_emblem_blue",
+      "never_miss_special"
+    ],
+    "classType": "巫师",
+    "aetherGift": "Bulwark",
+    "rarity": 5,
+    "specialId": "savage_gobble_blue",
+    "canBeReceivedDate": "2200-01-01 07:00:00",
+    "origin": "Mimic",
+    "forceUseCostumeLevelUpAndUpgradeCosts": true
+  },
+  "mimic_emblem_green": {
+    "id": "Horrifying One-Eyed Lockbox",
+    "element": "Green",
+    "family": "mimic",
+    "baseHealth": 1080,
+    "baseAttack": 628,
+    "baseDefense": 628,
+    "manaSpeedId": "快速",
+    "passiveSkills": [
+      "mimic_emblem_green",
+      "never_miss_special"
+    ],
+    "classType": "圣骑士",
+    "aetherGift": "Bulwark",
+    "rarity": 5,
+    "specialId": "savage_gobble_green",
+    "canBeReceivedDate": "2200-01-01 07:00:00",
+    "origin": "Mimic",
+    "forceUseCostumeLevelUpAndUpgradeCosts": true
+  },
+  "mimic_emblem_yellow": {
+    "id": "Horrifying One-Eyed Lockbox",
+    "element": "Yellow",
+    "family": "mimic",
+    "baseHealth": 1080,
+    "baseAttack": 628,
+    "baseDefense": 628,
+    "manaSpeedId": "快速",
+    "passiveSkills": [
+      "mimic_emblem_yellow",
+      "never_miss_special"
+    ],
+    "classType": "牧师",
+    "aetherGift": "Bulwark",
+    "rarity": 5,
+    "specialId": "savage_gobble_yellow",
+    "canBeReceivedDate": "2200-01-01 07:00:00",
+    "origin": "Mimic",
+    "forceUseCostumeLevelUpAndUpgradeCosts": true
+  },
+  "mimic_emblem_purple": {
+    "id": "Horrifying One-Eyed Lockbox",
+    "element": "Purple",
+    "family": "mimic",
+    "baseHealth": 1080,
+    "baseAttack": 628,
+    "baseDefense": 628,
+    "manaSpeedId": "快速",
+    "passiveSkills": [
+      "mimic_emblem_purple",
+      "never_miss_special"
+    ],
+    "classType": "盗贼",
+    "aetherGift": "Bulwark",
+    "rarity": 5,
+    "specialId": "savage_gobble_purple",
+    "canBeReceivedDate": "2200-01-01 07:00:00",
+    "origin": "Mimic",
+    "forceUseCostumeLevelUpAndUpgradeCosts": true
+  },
+  "mimic_ascension_epic_yellow": {
+    "id": "Grinning Cache of Lesser Evil",
+    "element": "Yellow",
+    "family": "mimic",
+    "baseHealth": 650,
+    "baseAttack": 400,
+    "baseDefense": 350,
+    "manaSpeedId": "中等",
+    "passiveSkills": [
+      "mimic_ascension_epic_yellow",
+      "never_miss_special"
+    ],
+    "classType": "巫师",
+    "aetherGift": "Bulwark",
+    "rarity": 4,
+    "specialId": "gorging_bite_yellow",
+    "canBeReceivedDate": "2200-01-01 07:00:00",
+    "origin": "Mimic",
+    "forceUseCostumeLevelUpAndUpgradeCosts": true
+  },
+  "mimic_experience_rare_red": {
+    "id": "Trove of the Tiny Teeth",
+    "element": "Red",
+    "family": "mimic",
+    "baseHealth": 500,
+    "baseAttack": 300,
+    "baseDefense": 300,
+    "manaSpeedId": "中等",
+    "passiveSkills": [
+      "mimic_experience_rare_red",
+      "never_miss_special"
+    ],
+    "classType": "术士",
+    "aetherGift": "Bulwark",
+    "rarity": 3,
+    "specialId": "greedy_munch_red",
+    "canBeReceivedDate": "2200-01-01 07:00:00",
+    "origin": "Mimic",
+    "forceUseCostumeLevelUpAndUpgradeCosts": true
+  },
+  "fire_god_andre": {
+    "id": "The Betrayed Templar",
+    "element": "Red",
+    "family": "hotm2026",
+    "baseHealth": 900,
+    "baseAttack": 600,
+    "baseDefense": 615,
+    "manaSpeedId": "慢",
+    "passiveSkills": [
+      "healthboost_on_enemy_special",
+      "resist_defense_modifier_debuffs"
+    ],
+    "classType": "圣骑士",
+    "aetherGift": "Regen",
+    "rarity": 5,
+    "specialId": "oath_of_templar",
+    "canBeReceivedDate": "2200-01-01 07:00:00",
+    "origin": "MonthlyHeroJanuary2026"
+  },
+  "halloween_hortensia": {
+    "id": "Fosterer of Flytraps",
+    "element": "Green",
+    "family": "halloween",
+    "baseHealth": 910,
+    "baseAttack": 510,
+    "baseDefense": 575,
+    "manaSpeedId": "中等",
+    "passiveSkills": [
+      "halloween_steal_buff_or_deal_damage"
+    ],
+    "classType": "德鲁伊",
+    "aetherGift": "Fiend Resist",
+    "rarity": 5,
+    "specialId": "carnivore_garden",
+    "canBeReceivedDate": "2200-01-01 07:00:00",
+    "origin": "Halloween"
+  },
+  "fleur_guillemette": {
+    "id": "Sanguine Crusader",
+    "element": "Yellow",
+    "baseHealth": 1066,
+    "baseAttack": 636,
+    "baseDefense": 581,
+    "manaSpeedId": "中等",
+    "classType": "圣骑士",
+    "aetherGift": "Ailment Immunity",
+    "rarity": 5,
+    "specialId": "tackle",
+    "canBeReceivedDate": "2200-01-01 07:00:00",
+    "origin": "Halloween2025"
+  },
+  "fleur_elyzabel": {
+    "id": "Sanguine Countess",
+    "element": "Red",
+    "baseHealth": 1080,
+    "baseAttack": 616,
+    "baseDefense": 599,
+    "manaSpeedId": "中等",
+    "classType": "巫师",
+    "aetherGift": "Fiend Resist",
+    "rarity": 5,
+    "specialId": "tackle",
+    "canBeReceivedDate": "2200-01-01 07:00:00",
+    "origin": "Halloween2025"
+  },
+  "fleur_ludovico": {
+    "id": "Sanguine Steward",
+    "element": "Blue",
+    "baseHealth": 1090,
+    "baseAttack": 607,
+    "baseDefense": 605,
+    "manaSpeedId": "快速",
+    "classType": "牧师",
+    "aetherGift": "Boosted Regen",
+    "rarity": 5,
+    "specialId": "tackle",
+    "canBeReceivedDate": "2200-01-01 07:00:00",
+    "origin": "Halloween2025"
+  },
+  "fleur_eumachius": {
+    "id": "Sanguine Scion",
+    "element": "Green",
+    "baseHealth": 648,
+    "baseAttack": 361,
+    "baseDefense": 348,
+    "manaSpeedId": "快速",
+    "classType": "术士",
+    "aetherGift": "Attack Up",
+    "rarity": 4,
+    "specialId": "tackle",
+    "canBeReceivedDate": "2200-01-01 07:00:00",
+    "origin": "Halloween2025"
+  },
+  "fleur_lavinia": {
+    "id": "Sanguine Dreamer",
+    "element": "Yellow",
+    "baseHealth": 505,
+    "baseAttack": 296,
+    "baseDefense": 304,
+    "manaSpeedId": "慢",
+    "classType": "牧师",
+    "aetherGift": "Defense Up",
+    "rarity": 3,
+    "specialId": "tackle",
+    "canBeReceivedDate": "2200-01-01 07:00:00",
+    "origin": "Halloween2025"
   }
 }

@@ -1,70 +1,4 @@
 [
-    
-    {
-        "name": "Ascension Mimic Dark",
-        "fancy_name": "Grinning Cache of Evil",
-        "AetherPower": "Bulwark",
-        "color": "Purple",
-        "class": "Rogue",
-        "speed": "Average",
-        "skill": "Gorging Chew",
-        "types": [
-            "Minion Destroyer 3",
-            "Hit 3",
-            "Mimic Chest"
-        ],
-        "skill_types": [
-            "Healers (Special)",
-            "Minions Counters",
-            "AoE Attackers (Hit-3)",
-            "Mana Raisers",
-            "Immunity Providers",
-            "Ghost Form & Hiding",
-            "Bypassers"
-        ],
-        "source": "secretsummon",
-        "Release date": "",
-        "star": 5,
-        "power": 1225,
-        "attack": 1268,
-        "defense": 1268,
-        "health": 2152,
-        "effects": [
-            "Deals 380% damage to the target and nearby enemies.",
-            "If an enemy is defeated by the attack, the caster recovers +50% health and gains +33% mana.",
-            "The target and nearby enemies receive 608 Bleed damage over 4 turns.",
-            "The Mimic chest closes for 2 turns. (The Mimic is immune to damage and new status ailments while closed.)"
-        ],
-        "passives": [
-            "Perfect Accuracy: This character’s Special Skill never misses its targets.",
-            "Mimic Loot: This Mimic gives a chance for extra loot when completing stages",
-            " * Tall Boots",
-            " * Fine Gloves",
-            " * Compass",
-            " * Damascus Blade",
-            " * Tome of Tactics",
-            " * Dagger",
-            " * Scabbard",
-            " * Trap Tools",
-            " * Royal Tabard"
-        ],
-        "family": "mimic",
-        "image": "https://imgur.com/Purple.jpg",
-        "costume_id": 0,
-        "specialId": "gorging_chew_purple",
-        "heroId": "mimic_ascension_item_purple",
-        "lb1": {
-            "attack": 1367,
-            "defense": 1367,
-            "health": 2319
-        },
-        "lb2": {
-            "attack": 1564,
-            "defense": 1564,
-            "health": 2654
-        },
-        "Lottery_Only":1
-    },
     {
         "name": "Bartholomew",
         "fancy_name": "Bell Pepper Barbarian",
@@ -99,25 +33,14 @@
         "Lottery_Only":1
     },
     {
-        "name": "Griffex C1",
-        "fancy_name": "Modifier of Obscura",
-        "color": "Purple",
+        "name": "Horghall Glass",
+        "fancy_name": "Vitrail of the Woods",
+        "color": "Green",
         "Release date": "",
         "star": 5,
-        "family": "super_elemental",
-        "costume_id": 0,
-        "heroId": "elemental_griffex_costume_camera",
-        "Lottery_Only":1
-    },
-    {
-        "name": "Lu Zhishen",
-        "fancy_name": "Flowery Monk of Water Margin",
-        "color": "Red",
-        "Release date": "",
-        "star": 5,
-        "family": "outlaw",
-        "costume_id": 0,
-        "heroId": "outlaw_lu_zhishen",
+        "family": "classic",
+        "costume_id": 4,
+        "heroId": "forest_titan_costume_glass",
         "Lottery_Only":1
     }
 ]

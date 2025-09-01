@@ -35872,7 +35872,14 @@ window.allHeroesExtra = [
         "rarity": 3,
         "Release date": "2025-08-26",
         "AetherPower": "Dodge",
-        "skill_types": [],
+        "skill_types": [
+            "AoE Attackers (Hit-3)",
+            "Bypassers",
+            "Extra Damage Dealers",
+            "Mana Raisers",
+            "DoT Attackers",
+            "Debuffers (ATK)"
+        ],
         "heroId": "tales2_bryggvir",
         "baseAttack": 328,
         "baseDefense": 318,
@@ -35891,7 +35898,12 @@ window.allHeroesExtra = [
         "rarity": 5,
         "Release date": "2025-08-26",
         "AetherPower": "Dodge",
-        "skill_types": [],
+        "skill_types": [
+            "AoE Attackers (Hit-3)",
+            "Bypassers",
+            "Extra Damage Dealers",
+            "Debuffers (ATK)"
+        ],
         "heroId": "tales2_svafa",
         "baseAttack": 623,
         "baseDefense": 591,
@@ -35902,5 +35914,102 @@ window.allHeroesExtra = [
             "resist_frost_with_health_boost_and_mana"
         ],
         "family": "myrkheim"
+    },
+    {
+        "name": "Griffex costume1",
+        "fancy name": "Modifier of Obscura",
+        "element": "Purple",
+        "rarity": 5,
+        "Release date": "2025-08-28",
+        "AetherPower": "Damage Reduction",
+        "skill_types": [
+            "Mana Raisers",
+            "Mana Reducers or Blockers"
+        ],
+        "heroId": "elemental_griffex_costume_camera",
+        "baseAttack": 413,
+        "baseDefense": 431,
+        "baseHealth": 829,
+        "specialId": "mana_manipulation",
+        "specialId_costume": "memory_manipulation",
+        "passiveSkills": [
+            "strong_troop_damage_modifier_costume"
+        ],
+        "costumeBonusPassiveSkillIds": null,
+        "attackBonus": "40%",
+        "defenseBonus": "40%",
+        "healthBonus": "43%",
+        "manaBonus": "5%",
+        "family": "super_elemental"
+    },
+    {
+        "name": "Ascension Mimic Dark",
+        "fancy name": "Grinning Cache of Evil",
+        "element": "Purple",
+        "rarity": 5,
+        "Release date": "2025-08-29",
+        "AetherPower": "Bulwark",
+        "skill_types": [
+            "Healers (Special)",
+            "Minions Counters",
+            "AoE Attackers (Hit-3)",
+            "Mana Raisers",
+            "Immunity Providers",
+            "Ghost Form & Hiding",
+            "Bypassers"
+        ],
+        "heroId": "mimic_ascension_item_purple",
+        "baseAttack": 616,
+        "baseDefense": 616,
+        "baseHealth": 1045,
+        "specialId": "gorging_chew_purple",
+        "passiveSkills": [
+            "mimic_ascension_item_purple",
+            "never_miss_special"
+        ],
+        "family": "mimic"
+    },
+    {
+        "name": "Lu Zhishen",
+        "fancy name": "Flowery Monk of Water Margin",
+        "element": "Red",
+        "rarity": 5,
+        "Release date": "2025-08-30",
+        "AetherPower": "Bulwark",
+        "skill_types": [
+            "AoE Attackers (Hit-5)",
+            "Extra Damage Dealers",
+            "Buffers (ATK)"
+        ],
+        "heroId": "outlaw_lu_zhishen",
+        "baseAttack": 620,
+        "baseDefense": 602,
+        "baseHealth": 1087,
+        "specialId": "monastic_restraint",
+        "passiveSkills": [
+            "resist_bleed",
+            "righteous_rebellion_parent",
+            "health_boost_on_special_critical_damage_all"
+        ],
+        "family": "outlaw"
+    },
+    {
+        "name": "Aurox",
+        "fancy name": "The Radiant Berserker",
+        "element": "Yellow",
+        "rarity": 5,
+        "Release date": "2025-09-01",
+        "AetherPower": "Rage",
+        "skill_types": [],
+        "heroId": "holy_god_aurox",
+        "baseAttack": 593,
+        "baseDefense": 582,
+        "baseHealth": 850,
+        "specialId": "forged_axe_of_light",
+        "passiveSkills": [
+            "increase_special_damage_buff",
+            "resist_direct_mana_reductions"
+        ],
+        "family": "hotm2025"
     }
 ];

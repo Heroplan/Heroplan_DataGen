@@ -1237,7 +1237,7 @@
     "rarity": 5,
     "specialId": "冠军胡萝卜",
     "canBeReceivedDate": "2022-03-21 07:00:00",
-    "origin": "春谷节",
+    "origin": "Easter",
     "parentHeroId": "杀戮野兔"
   },
   "rabbit_blue_costume_riftbreaker": {
@@ -1253,7 +1253,7 @@
     "rarity": 5,
     "specialId": "裂隙之刃",
     "canBeReceivedDate": "2022-03-21 07:00:00",
-    "origin": "春谷节",
+    "origin": "Easter",
     "parentHeroId": "天兔大师"
   },
   "sand_queen_costume_surfer": {
@@ -1666,7 +1666,7 @@
     "rarity": 5,
     "specialId": "超能稀饭",
     "canBeReceivedDate": "2021-12-01 07:00:00",
-    "origin": "圣诞节",
+    "origin": "Christmas",
     "parentHeroId": "北方之母"
   },
   "christmas_santa_costume_metal": {
@@ -1682,7 +1682,7 @@
     "rarity": 5,
     "specialId": "摇滚之赐",
     "canBeReceivedDate": "2021-12-01 07:00:00",
-    "origin": "圣诞节",
+    "origin": "Christmas",
     "parentHeroId": "圣诞老人"
   },
   "christmas_krampus_costume_eager_devil": {
@@ -1698,7 +1698,7 @@
     "rarity": 5,
     "specialId": "愉悦痛苦",
     "canBeReceivedDate": "2021-12-01 07:00:00",
-    "origin": "圣诞节",
+    "origin": "Christmas",
     "parentHeroId": "克朗普斯"
   },
   "rabbit_green_costume_egg_hunter": {
@@ -1714,7 +1714,7 @@
     "rarity": 4,
     "specialId": "飞蛋连击",
     "canBeReceivedDate": "2022-03-21 07:00:00",
-    "origin": "春谷节",
+    "origin": "Easter",
     "parentHeroId": "杰克·奥黑尔"
   },
   "s2_fox_girl_costume_white_kitsune": {
@@ -4046,7 +4046,7 @@
     "aetherGift": "Rage",
     "rarity": 3,
     "specialId": "莽夫刺",
-    "origin": "春谷节"
+    "origin": "Easter"
   },
   "fire_god_ares": {
     "id": "阿瑞斯",
@@ -4122,7 +4122,7 @@
     "aetherGift": "Attack Up",
     "rarity": 4,
     "specialId": "莽夫斩",
-    "origin": "春谷节",
+    "origin": "Easter",
     "costumeBonusesId": "seasonal"
   },
   "pirate_lady": {
@@ -4217,7 +4217,7 @@
     "aetherGift": "Attack Up",
     "rarity": 5,
     "specialId": "暴躁终结者",
-    "origin": "春谷节",
+    "origin": "Easter",
     "costumeBonusesId": "easter"
   },
   "holy_god_musashi": {
@@ -5273,7 +5273,7 @@
     "aetherGift": "Attack Up",
     "rarity": 4,
     "specialId": "礼包",
-    "origin": "圣诞节"
+    "origin": "Christmas"
   },
   "christmas_mrs_claus": {
     "id": "北方之母",
@@ -5287,7 +5287,7 @@
     "aetherGift": "Defense Up",
     "rarity": 5,
     "specialId": "超级稀饭",
-    "origin": "圣诞节",
+    "origin": "Christmas",
     "costumeBonusesId": "christmas"
   },
   "christmas_santa": {
@@ -5302,7 +5302,7 @@
     "aetherGift": "Mana Boost",
     "rarity": 5,
     "specialId": "终极礼袋",
-    "origin": "圣诞节",
+    "origin": "Christmas",
     "costumeBonusesId": "christmas"
   },
   "christmas_reindeer": {
@@ -5317,7 +5317,7 @@
     "aetherGift": "Attack Up",
     "rarity": 3,
     "specialId": "鹿角冲撞",
-    "origin": "圣诞节"
+    "origin": "Christmas"
   },
   "holy_god_onatel": {
     "id": "奥纳特而",
@@ -6384,7 +6384,7 @@
     "aetherGift": "Special Boost",
     "rarity": 3,
     "specialId": "凝练长枪",
-    "origin": "春谷节"
+    "origin": "Easter"
   },
   "easter_lady_woolerton": {
     "id": "伍尔顿女士",
@@ -6398,7 +6398,7 @@
     "aetherGift": "Defense Up",
     "rarity": 4,
     "specialId": "柔顺处理",
-    "origin": "春谷节"
+    "origin": "Easter"
   },
   "easter_sir_roostley": {
     "id": "咕咕鸡先生",
@@ -6412,7 +6412,7 @@
     "aetherGift": "Special Boost",
     "rarity": 5,
     "specialId": "光之长枪",
-    "origin": "春谷节"
+    "origin": "Easter"
   },
   "easter_killhare": {
     "id": "杀戮野兔",
@@ -6426,7 +6426,7 @@
     "aetherGift": "Attack Up",
     "rarity": 5,
     "specialId": "莽夫摆",
-    "origin": "春谷节",
+    "origin": "Easter",
     "costumeBonusesId": "easter"
   },
   "hidden_dark_god_myztero": {
@@ -6906,7 +6906,7 @@
     "rarity": 4,
     "specialId": "危险礼物",
     "canBeReceivedDate": "2020-12-01 07:00:00",
-    "origin": "圣诞节"
+    "origin": "Christmas"
   },
   "christmas_frosty": {
     "id": "霜冻雪人",
@@ -6921,7 +6921,7 @@
     "rarity": 3,
     "specialId": "欢欣援助",
     "canBeReceivedDate": "2020-12-01 07:00:00",
-    "origin": "圣诞节"
+    "origin": "Christmas"
   },
   "christmas_krampus": {
     "id": "克朗普斯",
@@ -6936,7 +6936,7 @@
     "rarity": 5,
     "specialId": "幸灾乐祸",
     "canBeReceivedDate": "2020-12-01 07:00:00",
-    "origin": "圣诞节",
+    "origin": "Christmas",
     "costumeBonusesId": "christmas"
   },
   "nature_god_bertila": {
@@ -8682,7 +8682,7 @@
     "rarity": 5,
     "specialId": "鲱鱼爆破",
     "canBeReceivedDate": "2021-12-01 07:00:00",
-    "origin": "圣诞节",
+    "origin": "Christmas",
     "costumeBonusesId": "christmas"
   },
   "dark_god_viscaro": {
@@ -10044,7 +10044,7 @@
     "rarity": 5,
     "specialId": "赤火冶炼",
     "canBeReceivedDate": "2022-06-20 07:00:00",
-    "origin": "Kalevala",
+    "origin": "卡勒瓦拉",
     "costumeBonusesId": "kalevala_buffed"
   },
   "kalevala_louhi": {
@@ -10063,7 +10063,7 @@
     "rarity": 5,
     "specialId": "利羽风暴",
     "canBeReceivedDate": "2022-06-20 07:00:00",
-    "origin": "Kalevala",
+    "origin": "卡勒瓦拉",
     "costumeBonusesId": "kalevala_buffed"
   },
   "kalevala_vainamoinen": {
@@ -10082,7 +10082,7 @@
     "rarity": 5,
     "specialId": "沼泽之歌",
     "canBeReceivedDate": "2022-06-20 07:00:00",
-    "origin": "Kalevala",
+    "origin": "卡勒瓦拉",
     "costumeBonusesId": "kalevala_buffed"
   },
   "kalevala_kullervo": {
@@ -10101,7 +10101,7 @@
     "rarity": 5,
     "specialId": "传家匕首",
     "canBeReceivedDate": "2022-06-20 07:00:00",
-    "origin": "Kalevala",
+    "origin": "卡勒瓦拉",
     "costumeBonusesId": "kalevala_buffed"
   },
   "kalevala_aino": {
@@ -10120,7 +10120,7 @@
     "rarity": 5,
     "specialId": "夏日颂歌",
     "canBeReceivedDate": "2022-06-20 07:00:00",
-    "origin": "Kalevala",
+    "origin": "卡勒瓦拉",
     "costumeBonusesId": "kalevala_buffed"
   },
   "kalevala_iku_turso": {
@@ -10139,7 +10139,7 @@
     "rarity": 5,
     "specialId": "梦魇水域",
     "canBeReceivedDate": "2022-06-20 07:00:00",
-    "origin": "Kalevala"
+    "origin": "卡勒瓦拉"
   },
   "kalevala_mielikki": {
     "id": "蔑里基",
@@ -10157,7 +10157,7 @@
     "rarity": 4,
     "specialId": "妖精歌谣",
     "canBeReceivedDate": "2022-06-20 07:00:00",
-    "origin": "Kalevala",
+    "origin": "卡勒瓦拉",
     "costumeBonusesId": "kalevala"
   },
   "kalevala_lemminkainen": {
@@ -10176,7 +10176,7 @@
     "rarity": 4,
     "specialId": "赤焰之剑",
     "canBeReceivedDate": "2022-06-20 07:00:00",
-    "origin": "Kalevala",
+    "origin": "卡勒瓦拉",
     "costumeBonusesId": "kalevala"
   },
   "kalevala_joukahainen": {
@@ -10195,7 +10195,7 @@
     "rarity": 3,
     "specialId": "愤怒之箭",
     "canBeReceivedDate": "2022-06-20 07:00:00",
-    "origin": "Kalevala",
+    "origin": "卡勒瓦拉",
     "costumeBonusesId": "kalevala"
   },
   "styx_hypnos": {
@@ -10252,7 +10252,7 @@
     "rarity": 3,
     "specialId": "魔宠巫术",
     "canBeReceivedDate": "2022-06-20 07:00:00",
-    "origin": "Kalevala"
+    "origin": "卡勒瓦拉"
   },
   "bard_phenexa": {
     "id": "菲妮克莎",
@@ -10654,7 +10654,7 @@
     "rarity": 5,
     "specialId": "狩猎冲锋",
     "canBeReceivedDate": "2022-09-18 07:00:00",
-    "origin": "怪兽岛",
+    "origin": "MonsterIsland1",
     "additionalBattleSpecificHeroEffectOrigin": "MonsterIsland2"
   },
   "monster_hunter_hawthorn": {
@@ -10674,7 +10674,7 @@
     "rarity": 5,
     "specialId": "治疗烟雾",
     "canBeReceivedDate": "2022-09-18 07:00:00",
-    "origin": "怪兽岛",
+    "origin": "MonsterIsland1",
     "additionalBattleSpecificHeroEffectOrigin": "MonsterIsland2"
   },
   "monster_hunter_kai": {
@@ -10694,7 +10694,7 @@
     "rarity": 5,
     "specialId": "螳螂之击",
     "canBeReceivedDate": "2022-10-15 07:00:00",
-    "origin": "怪兽岛",
+    "origin": "MonsterIsland1",
     "additionalBattleSpecificHeroEffectOrigin": "MonsterIsland2"
   },
   "monster_hunter_cleaver": {
@@ -10714,7 +10714,7 @@
     "rarity": 5,
     "specialId": "祭骨仪式",
     "canBeReceivedDate": "2022-08-25 07:00:00",
-    "origin": "怪兽岛",
+    "origin": "MonsterIsland1",
     "additionalBattleSpecificHeroEffectOrigin": "MonsterIsland2"
   },
   "monster_hunter_malin": {
@@ -10734,7 +10734,7 @@
     "rarity": 5,
     "specialId": "狂野劈砍",
     "canBeReceivedDate": "2022-08-25 07:00:00",
-    "origin": "怪兽岛",
+    "origin": "MonsterIsland1",
     "additionalBattleSpecificHeroEffectOrigin": "MonsterIsland2"
   },
   "monster_hunter_waterpipe": {
@@ -10754,7 +10754,7 @@
     "rarity": 5,
     "specialId": "鱼叉岗哨",
     "canBeReceivedDate": "2022-11-12 07:00:00",
-    "origin": "怪兽岛",
+    "origin": "MonsterIsland1",
     "additionalBattleSpecificHeroEffectOrigin": "MonsterIsland2"
   },
   "monster_hunter_meadow": {
@@ -10774,7 +10774,7 @@
     "rarity": 4,
     "specialId": "淬毒之箭",
     "canBeReceivedDate": "2022-10-15 07:00:00",
-    "origin": "怪兽岛",
+    "origin": "MonsterIsland1",
     "additionalBattleSpecificHeroEffectOrigin": "MonsterIsland2"
   },
   "monster_hunter_hammertusk": {
@@ -10794,7 +10794,7 @@
     "rarity": 5,
     "specialId": "摧毁碎击",
     "canBeReceivedDate": "2022-11-12 07:00:00",
-    "origin": "怪兽岛",
+    "origin": "MonsterIsland1",
     "additionalBattleSpecificHeroEffectOrigin": "MonsterIsland2"
   },
   "monster_hunter_ebba": {
@@ -10814,7 +10814,7 @@
     "rarity": 5,
     "specialId": "连枷挥舞",
     "canBeReceivedDate": "2022-10-15 07:00:00",
-    "origin": "怪兽岛",
+    "origin": "MonsterIsland1",
     "additionalBattleSpecificHeroEffectOrigin": "MonsterIsland2"
   },
   "monster_hunter_edelaide": {
@@ -10834,7 +10834,7 @@
     "rarity": 3,
     "specialId": "游牧赞歌",
     "canBeReceivedDate": "2022-10-15 07:00:00",
-    "origin": "怪兽岛",
+    "origin": "MonsterIsland1",
     "additionalBattleSpecificHeroEffectOrigin": "MonsterIsland2"
   },
   "elemental_zandria": {
@@ -10853,7 +10853,7 @@
     "rarity": 5,
     "specialId": "坚定奉献",
     "canBeReceivedDate": "2022-10-10 07:00:00",
-    "origin": "元素较量",
+    "origin": "SuperElemental",
     "costumeBonusesId": "elemental"
   },
   "elemental_jequn": {
@@ -10872,7 +10872,7 @@
     "rarity": 5,
     "specialId": "远古神圣象征",
     "canBeReceivedDate": "2022-10-10 07:00:00",
-    "origin": "元素较量",
+    "origin": "SuperElemental",
     "costumeBonusesId": "elemental"
   },
   "elemental_zengar": {
@@ -10891,7 +10891,7 @@
     "rarity": 5,
     "specialId": "冰冻巨斧",
     "canBeReceivedDate": "2023-01-30 07:00:00",
-    "origin": "元素较量",
+    "origin": "SuperElemental",
     "costumeBonusesId": "elemental_aug_2025"
   },
   "elemental_anzia": {
@@ -10910,7 +10910,7 @@
     "rarity": 5,
     "specialId": "光辉逆袭",
     "canBeReceivedDate": "2023-01-30 07:00:00",
-    "origin": "元素较量",
+    "origin": "SuperElemental",
     "costumeBonusesId": "elemental"
   },
   "elemental_xandrella": {
@@ -10929,7 +10929,7 @@
     "rarity": 5,
     "specialId": "控法之杖",
     "canBeReceivedDate": "2022-12-05 07:00:00",
-    "origin": "元素较量",
+    "origin": "SuperElemental",
     "costumeBonusesId": "elemental"
   },
   "elemental_roz": {
@@ -10948,7 +10948,7 @@
     "rarity": 5,
     "specialId": "元素灌注之箭",
     "canBeReceivedDate": "2022-12-05 07:00:00",
-    "origin": "元素较量",
+    "origin": "SuperElemental",
     "costumeBonusesId": "elemental"
   },
   "elemental_doxan": {
@@ -10967,7 +10967,7 @@
     "rarity": 5,
     "specialId": "双刃激光剑",
     "canBeReceivedDate": "2023-03-27 07:00:00",
-    "origin": "元素较量",
+    "origin": "SuperElemental",
     "costumeBonusesId": "elemental"
   },
   "elemental_ignazio": {
@@ -10986,7 +10986,7 @@
     "rarity": 5,
     "specialId": "净化火焰",
     "canBeReceivedDate": "2023-03-27 07:00:00",
-    "origin": "元素较量",
+    "origin": "SuperElemental",
     "costumeBonusesId": "elemental"
   },
   "elemental_griffex": {
@@ -11005,8 +11005,8 @@
     "rarity": 5,
     "specialId": "法力操纵",
     "canBeReceivedDate": "2023-05-22 07:00:00",
-    "origin": "元素较量",
-    "costumeBonusesId": "elemental"
+    "origin": "SuperElemental",
+    "costumeBonusesId": "elemental_aug_2025_less"
   },
   "elemental_aconia": {
     "id": "阿珂妮亚",
@@ -11024,7 +11024,7 @@
     "rarity": 5,
     "specialId": "嗜血匕首",
     "canBeReceivedDate": "2023-05-22 07:00:00",
-    "origin": "元素较量",
+    "origin": "SuperElemental",
     "costumeBonusesId": "elemental"
   },
   "holy_god_celidana": {
@@ -11063,7 +11063,7 @@
     "rarity": 3,
     "specialId": "狩猎歌谣",
     "canBeReceivedDate": "2022-08-25 07:00:00",
-    "origin": "怪兽岛",
+    "origin": "MonsterIsland1",
     "additionalBattleSpecificHeroEffectOrigin": "MonsterIsland2"
   },
   "monster_hunter_fianna": {
@@ -11083,7 +11083,7 @@
     "rarity": 3,
     "specialId": "骨箭",
     "canBeReceivedDate": "2022-11-12 07:00:00",
-    "origin": "怪兽岛",
+    "origin": "MonsterIsland1",
     "additionalBattleSpecificHeroEffectOrigin": "MonsterIsland2"
   },
   "monster_hunter_maheegan": {
@@ -11103,7 +11103,7 @@
     "rarity": 4,
     "specialId": "猎手之爪",
     "canBeReceivedDate": "2022-08-25 07:00:00",
-    "origin": "怪兽岛",
+    "origin": "MonsterIsland1",
     "additionalBattleSpecificHeroEffectOrigin": "MonsterIsland2"
   },
   "halloween_lucinda": {
@@ -13020,7 +13020,7 @@
     "rarity": 5,
     "specialId": "狡猾之刀",
     "canBeReceivedDate": "2023-08-07 07:00:00",
-    "origin": "Kalevala",
+    "origin": "卡勒瓦拉",
     "parentHeroId": "古勒沃"
   },
   "kalevala_aino_costume_water_maiden": {
@@ -13039,7 +13039,7 @@
     "rarity": 5,
     "specialId": "湖之颂歌",
     "canBeReceivedDate": "2023-08-07 07:00:00",
-    "origin": "Kalevala",
+    "origin": "卡勒瓦拉",
     "parentHeroId": "爱诺"
   },
   "kalevala_mielikki_costume_bear_protector": {
@@ -13058,7 +13058,7 @@
     "rarity": 4,
     "specialId": "妖精赞歌",
     "canBeReceivedDate": "2023-08-07 07:00:00",
-    "origin": "Kalevala",
+    "origin": "卡勒瓦拉",
     "parentHeroId": "蔑里基"
   },
   "s3_loki_female_costume_mother": {
@@ -14849,7 +14849,7 @@
     "rarity": 5,
     "specialId": "充满活力的薇拉内尔",
     "canBeReceivedDate": "2024-03-18 07:00:00",
-    "origin": "春谷节",
+    "origin": "Easter",
     "parentHeroId": "亚奇"
   },
   "easter_jasper_costume_fisherman": {
@@ -14865,7 +14865,7 @@
     "rarity": 5,
     "specialId": "营养之梦",
     "canBeReceivedDate": "2024-03-18 07:00:00",
-    "origin": "春谷节",
+    "origin": "Easter",
     "parentHeroId": "贾斯珀"
   },
   "wonderland_alice_costume_warping": {
@@ -16204,7 +16204,7 @@
     "rarity": 5,
     "specialId": "无畏剑刃风暴",
     "canBeReceivedDate": "2022-12-24 07:00:00",
-    "origin": "怪兽岛",
+    "origin": "MonsterIsland1",
     "additionalBattleSpecificHeroEffectOrigin": "MonsterIsland2"
   },
   "monster_hunter_goretooth": {
@@ -16224,7 +16224,7 @@
     "rarity": 5,
     "specialId": "巨牙利刃",
     "canBeReceivedDate": "2022-12-24 07:00:00",
-    "origin": "怪兽岛",
+    "origin": "MonsterIsland1",
     "additionalBattleSpecificHeroEffectOrigin": "MonsterIsland2"
   },
   "monster_hunter_dabria": {
@@ -16244,7 +16244,7 @@
     "rarity": 5,
     "specialId": "堕落礼仪",
     "canBeReceivedDate": "2023-02-09 07:00:00",
-    "origin": "怪兽岛",
+    "origin": "MonsterIsland1",
     "additionalBattleSpecificHeroEffectOrigin": "MonsterIsland2"
   },
   "monster_hunter_sorrow": {
@@ -16264,7 +16264,7 @@
     "rarity": 5,
     "specialId": "冰封仪式",
     "canBeReceivedDate": "2023-05-06 07:00:00",
-    "origin": "怪兽岛",
+    "origin": "MonsterIsland1",
     "additionalBattleSpecificHeroEffectOrigin": "MonsterIsland2"
   },
   "monster_hunter_staintongue": {
@@ -16284,7 +16284,7 @@
     "rarity": 5,
     "specialId": "猛兽锤击",
     "canBeReceivedDate": "2023-02-09 07:00:00",
-    "origin": "怪兽岛",
+    "origin": "MonsterIsland1",
     "additionalBattleSpecificHeroEffectOrigin": "MonsterIsland2"
   },
   "monster_hunter_bogart": {
@@ -16304,7 +16304,7 @@
     "rarity": 4,
     "specialId": "骨棒重击",
     "canBeReceivedDate": "2022-12-24 07:00:00",
-    "origin": "怪兽岛",
+    "origin": "MonsterIsland1",
     "additionalBattleSpecificHeroEffectOrigin": "MonsterIsland2"
   },
   "monster_hunter_numbskull": {
@@ -16324,7 +16324,7 @@
     "rarity": 4,
     "specialId": "碎颅之击",
     "canBeReceivedDate": "2023-05-06 07:00:00",
-    "origin": "怪兽岛",
+    "origin": "MonsterIsland1",
     "additionalBattleSpecificHeroEffectOrigin": "MonsterIsland2"
   },
   "monster_hunter_basil": {
@@ -16344,7 +16344,7 @@
     "rarity": 3,
     "specialId": "护主之鸣",
     "canBeReceivedDate": "2022-12-24 07:00:00",
-    "origin": "怪兽岛",
+    "origin": "MonsterIsland1",
     "additionalBattleSpecificHeroEffectOrigin": "MonsterIsland2"
   },
   "monster_hunter_greel": {
@@ -16364,7 +16364,7 @@
     "rarity": 3,
     "specialId": "割人手短",
     "canBeReceivedDate": "2023-02-09 07:00:00",
-    "origin": "怪兽岛",
+    "origin": "MonsterIsland1",
     "additionalBattleSpecificHeroEffectOrigin": "MonsterIsland2"
   },
   "musketeer_athos": {
@@ -16398,7 +16398,7 @@
     "rarity": 5,
     "specialId": "地精的智慧",
     "canBeReceivedDate": "2022-12-01 07:00:00",
-    "origin": "圣诞节"
+    "origin": "Christmas"
   },
   "christmas_tinsel": {
     "id": "金丝儿",
@@ -16413,7 +16413,7 @@
     "rarity": 5,
     "specialId": "邪恶玩具",
     "canBeReceivedDate": "2022-12-01 07:00:00",
-    "origin": "圣诞节"
+    "origin": "Christmas"
   },
   "christmas_peppermint": {
     "id": "薄荷",
@@ -16428,7 +16428,7 @@
     "rarity": 5,
     "specialId": "腐臭香水",
     "canBeReceivedDate": "2022-12-01 07:00:00",
-    "origin": "圣诞节"
+    "origin": "Christmas"
   },
   "christmas_holly": {
     "id": "霍莉",
@@ -16443,7 +16443,7 @@
     "rarity": 4,
     "specialId": "丰盛炖菜",
     "canBeReceivedDate": "2022-12-01 07:00:00",
-    "origin": "圣诞节"
+    "origin": "Christmas"
   },
   "christmas_buster": {
     "id": "巴斯特",
@@ -16458,7 +16458,7 @@
     "rarity": 3,
     "specialId": "霜冻拳击",
     "canBeReceivedDate": "2022-12-01 07:00:00",
-    "origin": "圣诞节"
+    "origin": "Christmas"
   },
   "musketeer_cardinal_richelieu": {
     "id": "红衣主教黎塞留",
@@ -17007,7 +17007,7 @@
     "rarity": 5,
     "specialId": "迷雾之拳",
     "canBeReceivedDate": "2023-03-03 07:00:00",
-    "origin": "怪兽岛",
+    "origin": "MonsterIsland1",
     "additionalBattleSpecificHeroEffectOrigin": "MonsterIsland2"
   },
   "monster_hunter_bonecrusher": {
@@ -17027,7 +17027,7 @@
     "rarity": 5,
     "specialId": "银背的怒火",
     "canBeReceivedDate": "2023-03-03 07:00:00",
-    "origin": "怪兽岛",
+    "origin": "MonsterIsland1",
     "additionalBattleSpecificHeroEffectOrigin": "MonsterIsland2"
   },
   "journey_queen_guowang": {
@@ -17114,7 +17114,7 @@
     "rarity": 5,
     "specialId": "燧石匕首",
     "canBeReceivedDate": "2023-05-26 07:00:00",
-    "origin": "怪兽岛",
+    "origin": "MonsterIsland1",
     "additionalBattleSpecificHeroEffectOrigin": "MonsterIsland2"
   },
   "monster_hunter_knuckles": {
@@ -17134,7 +17134,7 @@
     "rarity": 4,
     "specialId": "丛林反击",
     "canBeReceivedDate": "2023-05-06 07:00:00",
-    "origin": "怪兽岛",
+    "origin": "MonsterIsland1",
     "additionalBattleSpecificHeroEffectOrigin": "MonsterIsland2"
   },
   "monster_hunter_thunderclap": {
@@ -17154,7 +17154,7 @@
     "rarity": 5,
     "specialId": "丛林战嚎",
     "canBeReceivedDate": "2023-05-06 07:00:00",
-    "origin": "怪兽岛",
+    "origin": "MonsterIsland1",
     "additionalBattleSpecificHeroEffectOrigin": "MonsterIsland2"
   },
   "monster_hunter_cedar": {
@@ -17174,7 +17174,7 @@
     "rarity": 3,
     "specialId": "泰坦骨锁链挥击",
     "canBeReceivedDate": "2023-05-06 07:00:00",
-    "origin": "怪兽岛",
+    "origin": "MonsterIsland1",
     "additionalBattleSpecificHeroEffectOrigin": "MonsterIsland2"
   },
   "monster_hunter_tremor": {
@@ -17194,7 +17194,7 @@
     "rarity": 5,
     "specialId": "防护姿态",
     "canBeReceivedDate": "2023-07-27 07:00:00",
-    "origin": "怪兽岛",
+    "origin": "MonsterIsland1",
     "additionalBattleSpecificHeroEffectOrigin": "MonsterIsland2"
   },
   "easter_jasper": {
@@ -17210,7 +17210,7 @@
     "rarity": 5,
     "specialId": "营养花瓣",
     "canBeReceivedDate": "2023-03-27 07:00:00",
-    "origin": "春谷节",
+    "origin": "Easter",
     "costumeBonusesId": "easter"
   },
   "easter_archie": {
@@ -17226,7 +17226,7 @@
     "rarity": 5,
     "specialId": "传奇大羊驼民谣",
     "canBeReceivedDate": "2023-03-27 07:00:00",
-    "origin": "春谷节",
+    "origin": "Easter",
     "costumeBonusesId": "easter"
   },
   "dark_god_turgruk": {
@@ -17300,7 +17300,8 @@
     "rarity": 5,
     "specialId": "控法魔杖",
     "canBeReceivedDate": "2023-06-28 07:00:00",
-    "origin": "魔法高塔"
+    "origin": "魔法高塔",
+    "costumeBonusesId": "magic"
   },
   "magic_willow": {
     "id": "维柳",
@@ -17358,7 +17359,8 @@
     "rarity": 5,
     "specialId": "机械强化",
     "canBeReceivedDate": "2023-05-03 07:00:00",
-    "origin": "魔法高塔"
+    "origin": "魔法高塔",
+    "costumeBonusesId": "magic"
   },
   "magic_ulius": {
     "id": "尤留思",
@@ -17908,7 +17910,7 @@
     "rarity": 3,
     "specialId": "防晒霜轰炸",
     "canBeReceivedDate": "2023-06-12 07:00:00",
-    "origin": "BeachParty"
+    "origin": "海滩派对"
   },
   "beachparty_itham": {
     "id": "伊潭",
@@ -17927,7 +17929,7 @@
     "rarity": 4,
     "specialId": "炮弹水花",
     "canBeReceivedDate": "2023-06-12 07:00:00",
-    "origin": "BeachParty"
+    "origin": "海滩派对"
   },
   "beachparty_misty": {
     "id": "蜜丝缇",
@@ -17946,7 +17948,7 @@
     "rarity": 5,
     "specialId": "海星爆破",
     "canBeReceivedDate": "2023-06-12 07:00:00",
-    "origin": "BeachParty"
+    "origin": "海滩派对"
   },
   "beachparty_flip": {
     "id": "飞力普",
@@ -17965,7 +17967,7 @@
     "rarity": 5,
     "specialId": "紧急救援！",
     "canBeReceivedDate": "2023-06-12 07:00:00",
-    "origin": "BeachParty",
+    "origin": "海滩派对",
     "costumeBonusesId": "beachparty"
   },
   "beachparty_davey_wavey": {
@@ -17985,7 +17987,7 @@
     "rarity": 5,
     "specialId": "滋养之水",
     "canBeReceivedDate": "2024-06-03 07:00:00",
-    "origin": "BeachParty"
+    "origin": "海滩派对"
   },
   "beachparty_zenukwa": {
     "id": "泽努克瓦",
@@ -18004,7 +18006,7 @@
     "rarity": 5,
     "specialId": "冰激凌碎击",
     "canBeReceivedDate": "2024-06-03 07:00:00",
-    "origin": "BeachParty"
+    "origin": "海滩派对"
   },
   "beachparty_mazoga": {
     "id": "马佐加",
@@ -18023,7 +18025,7 @@
     "rarity": 5,
     "specialId": "超级诡诈喷雾",
     "canBeReceivedDate": "2024-06-03 07:00:00",
-    "origin": "BeachParty"
+    "origin": "海滩派对"
   },
   "beachparty_serena": {
     "id": "塞雷娜",
@@ -18042,7 +18044,7 @@
     "rarity": 5,
     "specialId": "流言四起",
     "canBeReceivedDate": "2025-06-03 07:00:00",
-    "origin": "BeachParty"
+    "origin": "海滩派对"
   },
   "beachparty_andy_jay": {
     "id": "安迪·杰",
@@ -18061,7 +18063,7 @@
     "rarity": 5,
     "specialId": "炽焰狂舞",
     "canBeReceivedDate": "2025-06-03 07:00:00",
-    "origin": "BeachParty"
+    "origin": "海滩派对"
   },
   "beachparty_brebarg": {
     "id": "布雷巴格",
@@ -18079,7 +18081,7 @@
     "rarity": 5,
     "specialId": "应风披靡",
     "canBeReceivedDate": "2200-01-01 07:00:00",
-    "origin": "BeachParty"
+    "origin": "海滩派对"
   },
   "beachparty_dillo": {
     "id": "狄洛",
@@ -18097,7 +18099,7 @@
     "rarity": 5,
     "specialId": "应风披靡",
     "canBeReceivedDate": "2200-01-01 07:00:00",
-    "origin": "BeachParty"
+    "origin": "海滩派对"
   },
   "beachparty_mortimer": {
     "id": "莫迪默",
@@ -18116,7 +18118,7 @@
     "rarity": 5,
     "specialId": "海啸",
     "canBeReceivedDate": "2023-06-12 07:00:00",
-    "origin": "BeachParty"
+    "origin": "海滩派对"
   },
   "construct_ferrus": {
     "id": "费洛斯",
@@ -18590,7 +18592,7 @@
     "rarity": 5,
     "specialId": "畸变和弦",
     "canBeReceivedDate": "2023-08-07 07:00:00",
-    "origin": "Kalevala",
+    "origin": "卡勒瓦拉",
     "costumeBonusesId": "kalevala_buffed"
   },
   "elemental_xavier": {
@@ -18609,7 +18611,8 @@
     "rarity": 5,
     "specialId": "层叠旋风",
     "canBeReceivedDate": "2023-07-17 07:00:00",
-    "origin": "元素较量"
+    "origin": "SuperElemental",
+    "costumeBonusesId": "elemental"
   },
   "elemental_zione": {
     "id": "紫苑",
@@ -18627,7 +18630,7 @@
     "rarity": 4,
     "specialId": "特快专递",
     "canBeReceivedDate": "2023-07-17 07:00:00",
-    "origin": "元素较量"
+    "origin": "SuperElemental"
   },
   "elemental_zuni": {
     "id": "祖妮",
@@ -18645,7 +18648,8 @@
     "rarity": 5,
     "specialId": "悬浮滑板撞击",
     "canBeReceivedDate": "2023-08-14 07:00:00",
-    "origin": "元素较量"
+    "origin": "SuperElemental",
+    "costumeBonusesId": "elemental"
   },
   "holy_god_ithar": {
     "id": "伊塔尔",
@@ -18834,7 +18838,7 @@
     "rarity": 4,
     "specialId": "迷幻交响乐",
     "canBeReceivedDate": "2023-08-14 07:00:00",
-    "origin": "元素较量"
+    "origin": "SuperElemental"
   },
   "elemental_quinn": {
     "id": "奎恩",
@@ -18852,7 +18856,8 @@
     "rarity": 5,
     "specialId": "菠萝烧烤",
     "canBeReceivedDate": "2023-09-11 07:00:00",
-    "origin": "元素较量"
+    "origin": "SuperElemental",
+    "costumeBonusesId": "elemental"
   },
   "elemental_linus": {
     "id": "莱纳斯",
@@ -18870,7 +18875,7 @@
     "rarity": 4,
     "specialId": "海之枷锁",
     "canBeReceivedDate": "2023-09-11 07:00:00",
-    "origin": "元素较量"
+    "origin": "SuperElemental"
   },
   "construct_shaal": {
     "id": "沙埃尔",
@@ -18999,7 +19004,7 @@
     "rarity": 5,
     "specialId": "乱锤偷袭",
     "canBeReceivedDate": "2023-10-16 07:00:00",
-    "origin": "Goblin"
+    "origin": "哥布林村"
   },
   "goblin_deadboot": {
     "id": "亡灵布特",
@@ -19017,7 +19022,7 @@
     "rarity": 5,
     "specialId": "不洁神灵",
     "canBeReceivedDate": "2023-09-18 07:00:00",
-    "origin": "Goblin"
+    "origin": "哥布林村"
   },
   "goblin_darkfeather": {
     "id": "暗羽",
@@ -19035,7 +19040,7 @@
     "rarity": 5,
     "specialId": "鹰之祝福",
     "canBeReceivedDate": "2023-09-18 07:00:00",
-    "origin": "Goblin"
+    "origin": "哥布林村"
   },
   "goblin_kettle": {
     "id": "凯特尔",
@@ -19053,7 +19058,7 @@
     "rarity": 5,
     "specialId": "诡异菜品",
     "canBeReceivedDate": "2023-09-18 07:00:00",
-    "origin": "Goblin"
+    "origin": "哥布林村"
   },
   "goblin_smarttongue": {
     "id": "巧舌妇",
@@ -19071,7 +19076,7 @@
     "rarity": 5,
     "specialId": "哥布林小夜曲",
     "canBeReceivedDate": "2023-09-18 07:00:00",
-    "origin": "Goblin"
+    "origin": "哥布林村"
   },
   "goblin_boom_and_fang": {
     "id": "哼哼和尖牙",
@@ -19089,7 +19094,7 @@
     "rarity": 5,
     "specialId": "野猪召唤",
     "canBeReceivedDate": "2023-10-16 07:00:00",
-    "origin": "Goblin"
+    "origin": "哥布林村"
   },
   "goblin_goldie": {
     "id": "金娘",
@@ -19107,7 +19112,7 @@
     "rarity": 4,
     "specialId": "魔镜之力",
     "canBeReceivedDate": "2023-09-18 07:00:00",
-    "origin": "Goblin"
+    "origin": "哥布林村"
   },
   "goblin_boots": {
     "id": "布茨",
@@ -19125,7 +19130,7 @@
     "rarity": 3,
     "specialId": "大锤重击",
     "canBeReceivedDate": "2023-09-18 07:00:00",
-    "origin": "Goblin"
+    "origin": "哥布林村"
   },
   "tales1_gestalt": {
     "id": "格式塔",
@@ -19203,7 +19208,7 @@
     "rarity": 5,
     "specialId": "地狱和弦",
     "canBeReceivedDate": "2024-07-22 07:00:00",
-    "origin": "Kalevala",
+    "origin": "卡勒瓦拉",
     "parentHeroId": "乌戈宁"
   },
   "kalevala_vainamoinen_costume_vainamoinen_sage": {
@@ -19222,7 +19227,7 @@
     "rarity": 5,
     "specialId": "泥沼之诗",
     "canBeReceivedDate": "2024-07-22 07:00:00",
-    "origin": "Kalevala",
+    "origin": "卡勒瓦拉",
     "parentHeroId": "万奈摩宁"
   },
   "gargoyle_penolite_costume_sacred": {
@@ -19891,7 +19896,7 @@
     "rarity": 5,
     "specialId": "鲱鱼惊喜",
     "canBeReceivedDate": "2024-12-01 07:00:00",
-    "origin": "圣诞节",
+    "origin": "Christmas",
     "parentHeroId": "潘吉先生"
   },
   "lionman_barbarian_costume_glass": {
@@ -20298,8 +20303,8 @@
     "id": "林地彩绘",
     "element": "绿",
     "family": "经典家族",
-    "baseHealth": 757,
-    "baseAttack": 300,
+    "baseHealth": 759,
+    "baseAttack": 301,
     "baseDefense": 338,
     "manaSpeedId": "慢",
     "passiveSkills": [
@@ -20310,7 +20315,7 @@
     "aetherGift": "Defense Up",
     "rarity": 5,
     "specialId": "碎片之怒",
-    "canBeReceivedDate": "2200-01-01 07:00:00",
+    "canBeReceivedDate": "2025-09-07 07:00:00",
     "origin": "Season1",
     "parentHeroId": "霍格火"
   },
@@ -20710,7 +20715,7 @@
     "aetherGift": "Attack Up",
     "rarity": 4,
     "specialId": "玻璃连击",
-    "canBeReceivedDate": "2200-01-01 07:00:00",
+    "canBeReceivedDate": "2025-09-07 07:00:00",
     "origin": "Season1",
     "parentHeroId": "斯嘉丽"
   },
@@ -20730,7 +20735,7 @@
     "aetherGift": "Attack Up",
     "rarity": 4,
     "specialId": "玻璃碎击",
-    "canBeReceivedDate": "2200-01-01 07:00:00",
+    "canBeReceivedDate": "2025-09-07 07:00:00",
     "origin": "Season1",
     "parentHeroId": "迪波特斯"
   },
@@ -21110,7 +21115,7 @@
     "aetherGift": "Special Boost",
     "rarity": 3,
     "specialId": "玻璃突袭",
-    "canBeReceivedDate": "2200-01-01 07:00:00",
+    "canBeReceivedDate": "2025-09-07 07:00:00",
     "origin": "Season1",
     "parentHeroId": "伊师塔克"
   },
@@ -21130,7 +21135,7 @@
     "aetherGift": "Mana Boost",
     "rarity": 3,
     "specialId": "玻璃陷阱",
-    "canBeReceivedDate": "2200-01-01 07:00:00",
+    "canBeReceivedDate": "2025-09-07 07:00:00",
     "origin": "Season1",
     "parentHeroId": "奥伯伦"
   },
@@ -21481,7 +21486,7 @@
     "rarity": 5,
     "specialId": "灼烧烈焰",
     "canBeReceivedDate": "2025-05-24 07:00:00",
-    "origin": "元素较量",
+    "origin": "SuperElemental",
     "parentHeroId": "伊格纳奇奥"
   },
   "elemental_jequn_costume_gilded": {
@@ -21500,7 +21505,7 @@
     "rarity": 5,
     "specialId": "金色神圣符号",
     "canBeReceivedDate": "2025-06-20 07:00:00",
-    "origin": "元素较量",
+    "origin": "SuperElemental",
     "parentHeroId": "亚坤"
   },
   "elemental_roz_costume_disco": {
@@ -21519,7 +21524,7 @@
     "rarity": 5,
     "specialId": "声波灌注箭",
     "canBeReceivedDate": "2025-07-18 07:00:00",
-    "origin": "元素较量",
+    "origin": "SuperElemental",
     "parentHeroId": "罗兹"
   },
   "elemental_zengar_costume_farmer": {
@@ -21538,16 +21543,16 @@
     "rarity": 5,
     "specialId": "冰冻巨锄",
     "canBeReceivedDate": "2025-08-12 07:00:00",
-    "origin": "元素较量",
+    "origin": "SuperElemental",
     "parentHeroId": "曾迦"
   },
   "elemental_griffex_costume_camera": {
     "id": "幽影改造者",
     "element": "紫",
     "family": "超级元素人家族",
-    "baseHealth": 827,
-    "baseAttack": 412,
-    "baseDefense": 430,
+    "baseHealth": 829,
+    "baseAttack": 413,
+    "baseDefense": 431,
     "manaSpeedId": "慢",
     "passiveSkills": [
       "strong_troop_damage_modifier_costume"
@@ -21557,7 +21562,7 @@
     "rarity": 5,
     "specialId": "内存操控",
     "canBeReceivedDate": "2025-08-28 07:00:00",
-    "origin": "元素较量",
+    "origin": "SuperElemental",
     "parentHeroId": "葛瑞菲斯"
   },
   "beachparty_flip_costume_donut": {
@@ -21577,7 +21582,7 @@
     "rarity": 5,
     "specialId": "甜甜圈来救援啦！",
     "canBeReceivedDate": "2025-06-03 07:00:00",
-    "origin": "BeachParty",
+    "origin": "海滩派对",
     "parentHeroId": "飞力普"
   },
   "magic_ray_costume_spiky": {
@@ -21642,7 +21647,7 @@
     "rarity": 5,
     "specialId": "肆虐风暴",
     "canBeReceivedDate": "2025-07-28 07:00:00",
-    "origin": "Kalevala",
+    "origin": "卡勒瓦拉",
     "parentHeroId": "娄希"
   },
   "kalevala_ilmarinen_costume_gold": {
@@ -21661,7 +21666,7 @@
     "rarity": 5,
     "specialId": "黄金锻造",
     "canBeReceivedDate": "2025-07-28 07:00:00",
-    "origin": "Kalevala",
+    "origin": "卡勒瓦拉",
     "parentHeroId": "伊尔玛利宁"
   },
   "kalevala_lemminkainen_costume_swan": {
@@ -21680,7 +21685,7 @@
     "rarity": 4,
     "specialId": "天鹅挽歌之剑",
     "canBeReceivedDate": "2025-07-28 07:00:00",
-    "origin": "Kalevala",
+    "origin": "卡勒瓦拉",
     "parentHeroId": "勒明盖宁"
   },
   "kalevala_joukahainen_costume_frozen": {
@@ -21699,7 +21704,7 @@
     "rarity": 3,
     "specialId": "冰霜之箭",
     "canBeReceivedDate": "2025-07-28 07:00:00",
-    "origin": "Kalevala",
+    "origin": "卡勒瓦拉",
     "parentHeroId": "尤卡海宁"
   },
   "elemental_doxan_costume_hacker": {
@@ -21718,7 +21723,7 @@
     "rarity": 5,
     "specialId": "数据双刃",
     "canBeReceivedDate": "2200-01-01 07:00:00",
-    "origin": "元素较量",
+    "origin": "SuperElemental",
     "parentHeroId": "多客森"
   },
   "elemental_zandria_costume_planet": {
@@ -21737,7 +21742,7 @@
     "rarity": 5,
     "specialId": "宇宙奉献",
     "canBeReceivedDate": "2200-01-01 07:00:00",
-    "origin": "元素较量",
+    "origin": "SuperElemental",
     "parentHeroId": "赞德莉亚"
   },
   "elemental_xandrella_costume_idol": {
@@ -21756,7 +21761,7 @@
     "rarity": 5,
     "specialId": "法力控制旋律",
     "canBeReceivedDate": "2200-01-01 07:00:00",
-    "origin": "元素较量",
+    "origin": "SuperElemental",
     "parentHeroId": "赞德瑞拉"
   },
   "elemental_anzia_costume_jailer": {
@@ -21775,7 +21780,7 @@
     "rarity": 5,
     "specialId": "辐射枷锁",
     "canBeReceivedDate": "2200-01-01 07:00:00",
-    "origin": "元素较量",
+    "origin": "SuperElemental",
     "parentHeroId": "安齐雅"
   },
   "elemental_aconia_costume_courier": {
@@ -21794,8 +21799,371 @@
     "rarity": 5,
     "specialId": "撕裂信笺",
     "canBeReceivedDate": "2200-01-01 07:00:00",
-    "origin": "元素较量",
+    "origin": "SuperElemental",
     "parentHeroId": "阿珂妮亚"
+  },
+  "elemental_zaria_costume_enchanter": {
+    "id": "三眼巫师",
+    "element": "红",
+    "family": "超级元素人家族",
+    "baseHealth": 827,
+    "baseAttack": 426,
+    "baseDefense": 415,
+    "manaSpeedId": "中等",
+    "passiveSkills": [
+      "strong_troop_damage_modifier_costume"
+    ],
+    "classType": "巫师",
+    "aetherGift": "Special Boost",
+    "rarity": 5,
+    "specialId": "迷人占卜",
+    "canBeReceivedDate": "2200-01-01 07:00:00",
+    "origin": "SuperElemental",
+    "parentHeroId": "萨里亚"
+  },
+  "elemental_xavier_costume_arthropod": {
+    "id": "双刃节肢怪",
+    "element": "黄",
+    "family": "超级元素人家族",
+    "baseHealth": 827,
+    "baseAttack": 426,
+    "baseDefense": 415,
+    "manaSpeedId": "中等",
+    "passiveSkills": [
+      "strong_troop_damage_modifier_costume"
+    ],
+    "classType": "游侠",
+    "aetherGift": "Rage",
+    "rarity": 5,
+    "specialId": "涌动旋风",
+    "canBeReceivedDate": "2200-01-01 07:00:00",
+    "origin": "SuperElemental",
+    "parentHeroId": "泽维尔"
+  },
+  "elemental_zuni_costume_mage": {
+    "id": "漂浮板法师",
+    "element": "绿",
+    "family": "超级元素人家族",
+    "baseHealth": 827,
+    "baseAttack": 426,
+    "baseDefense": 415,
+    "manaSpeedId": "快速",
+    "passiveSkills": [
+      "strong_troop_damage_modifier_costume"
+    ],
+    "classType": "术士",
+    "aetherGift": "Dodge",
+    "rarity": 5,
+    "specialId": "悬板冲撞",
+    "canBeReceivedDate": "2200-01-01 07:00:00",
+    "origin": "SuperElemental",
+    "parentHeroId": "祖妮"
+  },
+  "elemental_quinn_costume_alchemist": {
+    "id": "宇宙炼金术士",
+    "element": "蓝",
+    "family": "超级元素人家族",
+    "baseHealth": 827,
+    "baseAttack": 426,
+    "baseDefense": 415,
+    "manaSpeedId": "快速",
+    "passiveSkills": [
+      "strong_troop_damage_modifier_costume"
+    ],
+    "classType": "僧侣",
+    "aetherGift": "Ailment Reflect",
+    "rarity": 5,
+    "specialId": "菠萝炼金术士",
+    "canBeReceivedDate": "2200-01-01 07:00:00",
+    "origin": "SuperElemental",
+    "parentHeroId": "奎恩"
+  },
+  "elemental_farrah_costume_cyber": {
+    "id": "赛博刀锋大师",
+    "element": "紫",
+    "family": "超级元素人家族",
+    "baseHealth": 827,
+    "baseAttack": 426,
+    "baseDefense": 415,
+    "manaSpeedId": "快速",
+    "passiveSkills": [
+      "strong_troop_damage_modifier_costume"
+    ],
+    "classType": "战士",
+    "aetherGift": "Attack Up",
+    "rarity": 5,
+    "specialId": "绿松猎隼",
+    "canBeReceivedDate": "2200-01-01 07:00:00",
+    "origin": "SuperElemental",
+    "parentHeroId": "法拉"
+  },
+  "elemental_niki_costume_music": {
+    "id": "音乐镰刀大师",
+    "element": "红",
+    "family": "超级元素人家族",
+    "baseHealth": 827,
+    "baseAttack": 426,
+    "baseDefense": 415,
+    "manaSpeedId": "慢",
+    "passiveSkills": [
+      "strong_troop_damage_modifier_costume"
+    ],
+    "classType": "野蛮人",
+    "aetherGift": "Bulwark",
+    "rarity": 5,
+    "specialId": "旋律丰收",
+    "canBeReceivedDate": "2200-01-01 07:00:00",
+    "origin": "SuperElemental",
+    "parentHeroId": "妮姬"
+  },
+  "elemental_ironmaw_costume_legion": {
+    "id": "军团战神",
+    "element": "黄",
+    "family": "超级元素人家族",
+    "baseHealth": 827,
+    "baseAttack": 426,
+    "baseDefense": 415,
+    "manaSpeedId": "中等",
+    "passiveSkills": [
+      "strong_troop_damage_modifier_costume"
+    ],
+    "classType": "僧侣",
+    "aetherGift": "Special Boost",
+    "rarity": 5,
+    "specialId": "军团之链",
+    "canBeReceivedDate": "2200-01-01 07:00:00",
+    "origin": "SuperElemental",
+    "parentHeroId": "铁锚"
+  },
+  "elemental_desmond_costume_assassin": {
+    "id": "刃影刺客",
+    "element": "绿",
+    "family": "超级元素人家族",
+    "baseHealth": 827,
+    "baseAttack": 426,
+    "baseDefense": 415,
+    "manaSpeedId": "中等",
+    "passiveSkills": [
+      "strong_troop_damage_modifier_costume"
+    ],
+    "classType": "德鲁伊",
+    "aetherGift": "Counterattack",
+    "rarity": 5,
+    "specialId": "碧玉之刃",
+    "canBeReceivedDate": "2200-01-01 07:00:00",
+    "origin": "SuperElemental",
+    "parentHeroId": "德斯蒙德"
+  },
+  "elemental_jolt_costume_mythic": {
+    "id": "神话领航员",
+    "element": "蓝",
+    "family": "超级元素人家族",
+    "baseHealth": 827,
+    "baseAttack": 426,
+    "baseDefense": 415,
+    "manaSpeedId": "飞速",
+    "passiveSkills": [
+      "strong_troop_damage_modifier_costume"
+    ],
+    "classType": "盗贼",
+    "aetherGift": "Special Boost",
+    "rarity": 5,
+    "specialId": "神话闪电",
+    "canBeReceivedDate": "2200-01-01 07:00:00",
+    "origin": "SuperElemental",
+    "parentHeroId": "珠尔特"
+  },
+  "elemental_gastille_costume_sporty": {
+    "id": "动感危害",
+    "element": "紫",
+    "family": "超级元素人家族",
+    "baseHealth": 827,
+    "baseAttack": 426,
+    "baseDefense": 415,
+    "manaSpeedId": "中等",
+    "passiveSkills": [
+      "strong_troop_damage_modifier_costume"
+    ],
+    "classType": "圣骑士",
+    "aetherGift": "Defense Up",
+    "rarity": 5,
+    "specialId": "蛋白腐化",
+    "canBeReceivedDate": "2200-01-01 07:00:00",
+    "origin": "SuperElemental",
+    "parentHeroId": "加斯蒂尔"
+  },
+  "elemental_ash_costume_savage": {
+    "id": "野蛮赏金猎人",
+    "element": "红",
+    "family": "超级元素人家族",
+    "baseHealth": 827,
+    "baseAttack": 426,
+    "baseDefense": 415,
+    "manaSpeedId": "中等",
+    "passiveSkills": [
+      "strong_troop_damage_modifier_costume"
+    ],
+    "classType": "游侠",
+    "aetherGift": "Rage",
+    "rarity": 5,
+    "specialId": "钢铁突袭",
+    "canBeReceivedDate": "2200-01-01 07:00:00",
+    "origin": "SuperElemental",
+    "parentHeroId": "余烬"
+  },
+  "elemental_grilka_costume_treasure": {
+    "id": "宝藏军需官",
+    "element": "黄",
+    "family": "超级元素人家族",
+    "baseHealth": 827,
+    "baseAttack": 426,
+    "baseDefense": 415,
+    "manaSpeedId": "慢",
+    "passiveSkills": [
+      "strong_troop_damage_modifier_costume"
+    ],
+    "classType": "圣骑士",
+    "aetherGift": "Damage Reduction",
+    "rarity": 5,
+    "specialId": "珍宝酒酿",
+    "canBeReceivedDate": "2200-01-01 07:00:00",
+    "origin": "SuperElemental",
+    "parentHeroId": "葛莉卡"
+  },
+  "elemental_craum_costume_occultist": {
+    "id": "元素术士",
+    "element": "绿",
+    "family": "超级元素人家族",
+    "baseHealth": 827,
+    "baseAttack": 426,
+    "baseDefense": 415,
+    "manaSpeedId": "中等",
+    "passiveSkills": [
+      "strong_troop_damage_modifier_costume"
+    ],
+    "classType": "巫师",
+    "aetherGift": "Special Armor",
+    "rarity": 5,
+    "specialId": "元素仪式",
+    "canBeReceivedDate": "2200-01-01 07:00:00",
+    "origin": "SuperElemental",
+    "parentHeroId": "克拉姆"
+  },
+  "elemental_nylora_costume_jewelled": {
+    "id": "珠宝刺客",
+    "element": "蓝",
+    "family": "超级元素人家族",
+    "baseHealth": 827,
+    "baseAttack": 426,
+    "baseDefense": 415,
+    "manaSpeedId": "快速",
+    "passiveSkills": [
+      "strong_troop_damage_modifier_costume"
+    ],
+    "classType": "德鲁伊",
+    "aetherGift": "Dodge",
+    "rarity": 5,
+    "specialId": "幸运斩击",
+    "canBeReceivedDate": "2200-01-01 07:00:00",
+    "origin": "SuperElemental",
+    "parentHeroId": "尼洛拉"
+  },
+  "elemental_vander_costume_clown": {
+    "id": "小丑队长",
+    "element": "紫",
+    "family": "超级元素人家族",
+    "baseHealth": 827,
+    "baseAttack": 426,
+    "baseDefense": 415,
+    "manaSpeedId": "快速",
+    "passiveSkills": [
+      "strong_troop_damage_modifier_costume"
+    ],
+    "classType": "术士",
+    "aetherGift": "Ailment Reflect",
+    "rarity": 5,
+    "specialId": "狡诈手雷",
+    "canBeReceivedDate": "2200-01-01 07:00:00",
+    "origin": "SuperElemental",
+    "parentHeroId": "范德尔"
+  },
+  "magic_becky_costume_gothic": {
+    "id": "暮光魔术师",
+    "element": "紫",
+    "family": "魔法家族",
+    "baseHealth": 777,
+    "baseAttack": 430,
+    "baseDefense": 434,
+    "manaSpeedId": "魔法",
+    "passiveSkills": [
+      "magic_mana_regen_stack_on_special_costume",
+      "magic_heal_on_full_charge_costume"
+    ],
+    "classType": "术士",
+    "aetherGift": "Special Boost",
+    "rarity": 5,
+    "specialId": "法力戏法杖",
+    "canBeReceivedDate": "2200-01-01 07:00:00",
+    "origin": "魔法高塔",
+    "parentHeroId": "贝琪"
+  },
+  "halloween_ana_belle_costume_mafia": {
+    "id": "尘埃女男爵",
+    "element": "紫",
+    "family": "莫洛维亚家族",
+    "baseHealth": 621,
+    "baseAttack": 300,
+    "baseDefense": 324,
+    "manaSpeedId": "中等",
+    "passiveSkills": [
+      "halloween_steal_buff_or_deal_damage_new"
+    ],
+    "classType": "牧师",
+    "aetherGift": "Defense Up",
+    "rarity": 4,
+    "specialId": "变装时刻！",
+    "canBeReceivedDate": "2200-01-01 07:00:00",
+    "origin": "Halloween",
+    "parentHeroId": "安娜·贝尔"
+  },
+  "halloween_edwin_costume_mafia": {
+    "id": "背刺管家",
+    "element": "绿",
+    "family": "莫洛维亚家族",
+    "baseHealth": 822,
+    "baseAttack": 455,
+    "baseDefense": 425,
+    "manaSpeedId": "快速",
+    "passiveSkills": [
+      "halloween_steal_buff_or_deal_damage_new"
+    ],
+    "classType": "圣骑士",
+    "aetherGift": "Attack Up",
+    "rarity": 5,
+    "specialId": "大蒜拼盘",
+    "canBeReceivedDate": "2200-01-01 07:00:00",
+    "origin": "Halloween",
+    "parentHeroId": "艾德文"
+  },
+  "magic_camilla_costume_flower": {
+    "id": "繁花工匠",
+    "element": "蓝",
+    "family": "魔法家族",
+    "baseHealth": 820,
+    "baseAttack": 420,
+    "baseDefense": 410,
+    "manaSpeedId": "魔法",
+    "passiveSkills": [
+      "magic_mana_regen_stack_on_special_costume",
+      "magic_damage_on_full_charge_costume"
+    ],
+    "classType": "德鲁伊",
+    "aetherGift": "Special Armor",
+    "rarity": 5,
+    "specialId": "花卉布置",
+    "canBeReceivedDate": "2200-01-01 07:00:00",
+    "origin": "魔法高塔",
+    "parentHeroId": "卡蜜拉"
   },
   "tales1_domiventus": {
     "id": "多米万图斯",
@@ -21927,7 +22295,7 @@
     "rarity": 4,
     "specialId": "治愈火精灵",
     "canBeReceivedDate": "2023-10-09 07:00:00",
-    "origin": "元素较量"
+    "origin": "SuperElemental"
   },
   "elemental_lexi": {
     "id": "莱克茜",
@@ -21945,7 +22313,7 @@
     "rarity": 4,
     "specialId": "能量结合",
     "canBeReceivedDate": "2023-11-06 07:00:00",
-    "origin": "元素较量"
+    "origin": "SuperElemental"
   },
   "elemental_zaria": {
     "id": "萨里亚",
@@ -21963,7 +22331,8 @@
     "rarity": 5,
     "specialId": "灾难占卜",
     "canBeReceivedDate": "2023-10-09 07:00:00",
-    "origin": "元素较量"
+    "origin": "SuperElemental",
+    "costumeBonusesId": "elemental"
   },
   "elemental_farrah": {
     "id": "法拉",
@@ -21981,7 +22350,8 @@
     "rarity": 5,
     "specialId": "穿刺飞鹰",
     "canBeReceivedDate": "2023-11-06 07:00:00",
-    "origin": "元素较量"
+    "origin": "SuperElemental",
+    "costumeBonusesId": "elemental"
   },
   "castle_bear_torben": {
     "id": "托本",
@@ -22072,7 +22442,7 @@
     "rarity": 5,
     "specialId": "幽暗协奏曲",
     "canBeReceivedDate": "2023-11-13 07:00:00",
-    "origin": "Goblin"
+    "origin": "哥布林村"
   },
   "goblin_pepperflame": {
     "id": "椒焰",
@@ -22090,7 +22460,7 @@
     "rarity": 5,
     "specialId": "毁灭和弦",
     "canBeReceivedDate": "2024-01-08 07:00:00",
-    "origin": "Goblin"
+    "origin": "哥布林村"
   },
   "goblin_leafwizzle": {
     "id": "叶拂",
@@ -22108,7 +22478,7 @@
     "rarity": 5,
     "specialId": "迷幻魔笛",
     "canBeReceivedDate": "2023-12-11 07:00:00",
-    "origin": "Goblin"
+    "origin": "哥布林村"
   },
   "goblin_acidfire": {
     "id": "酸火",
@@ -22126,7 +22496,7 @@
     "rarity": 5,
     "specialId": "毒雾",
     "canBeReceivedDate": "2023-12-11 07:00:00",
-    "origin": "Goblin"
+    "origin": "哥布林村"
   },
   "goblin_grimsteel": {
     "id": "寒铁",
@@ -22144,7 +22514,7 @@
     "rarity": 5,
     "specialId": "山之英灵",
     "canBeReceivedDate": "2024-02-19 07:00:00",
-    "origin": "Goblin"
+    "origin": "哥布林村"
   },
   "goblin_rocket": {
     "id": "火箭",
@@ -22162,7 +22532,7 @@
     "rarity": 5,
     "specialId": "哥布林炸药",
     "canBeReceivedDate": "2024-03-18 07:00:00",
-    "origin": "Goblin"
+    "origin": "哥布林村"
   },
   "goblin_scrollbeast": {
     "id": "滚兽",
@@ -22180,7 +22550,7 @@
     "rarity": 5,
     "specialId": "狂怒野猪",
     "canBeReceivedDate": "2024-04-15 07:00:00",
-    "origin": "Goblin"
+    "origin": "哥布林村"
   },
   "castle_bear_humbert": {
     "id": "亨伯特",
@@ -22416,7 +22786,7 @@
     "rarity": 5,
     "specialId": "星座之杖",
     "canBeReceivedDate": "2023-11-21 07:00:00",
-    "origin": "星体召唤"
+    "origin": "星体位面"
   },
   "astral_sparklight": {
     "id": "闪焰",
@@ -22435,7 +22805,7 @@
     "rarity": 5,
     "specialId": "附魔精灵剑",
     "canBeReceivedDate": "2023-11-21 07:00:00",
-    "origin": "星体召唤"
+    "origin": "星体位面"
   },
   "nature_god_leadria": {
     "id": "丽德里娅",
@@ -22510,7 +22880,8 @@
     "rarity": 5,
     "specialId": "光明之链",
     "canBeReceivedDate": "2023-12-04 07:00:00",
-    "origin": "元素较量"
+    "origin": "SuperElemental",
+    "costumeBonusesId": "elemental"
   },
   "elemental_desmond": {
     "id": "德斯蒙德",
@@ -22528,7 +22899,8 @@
     "rarity": 5,
     "specialId": "翠玉刀刃",
     "canBeReceivedDate": "2024-01-01 07:00:00",
-    "origin": "元素较量"
+    "origin": "SuperElemental",
+    "costumeBonusesId": "elemental"
   },
   "christmas_ginger": {
     "id": "金姬",
@@ -22543,7 +22915,7 @@
     "rarity": 5,
     "specialId": "劲疾扳指",
     "canBeReceivedDate": "2023-12-01 07:00:00",
-    "origin": "圣诞节"
+    "origin": "Christmas"
   },
   "christmas_zappa": {
     "id": "扎帕",
@@ -22558,7 +22930,7 @@
     "rarity": 5,
     "specialId": "蓝菇魔杖",
     "canBeReceivedDate": "2023-12-01 07:00:00",
-    "origin": "圣诞节"
+    "origin": "Christmas"
   },
   "christmas_cookie": {
     "id": "库奇",
@@ -22573,7 +22945,7 @@
     "rarity": 5,
     "specialId": "神秘药水",
     "canBeReceivedDate": "2023-12-01 07:00:00",
-    "origin": "圣诞节"
+    "origin": "Christmas"
   },
   "christmas_dizzy": {
     "id": "迪基",
@@ -22588,7 +22960,7 @@
     "rarity": 4,
     "specialId": "阴郁曲调",
     "canBeReceivedDate": "2023-12-01 07:00:00",
-    "origin": "圣诞节"
+    "origin": "Christmas"
   },
   "christmas_jolly": {
     "id": "乔力",
@@ -22603,7 +22975,7 @@
     "rarity": 3,
     "specialId": "桦树祝福",
     "canBeReceivedDate": "2023-12-01 07:00:00",
-    "origin": "圣诞节"
+    "origin": "Christmas"
   },
   "shadow_salvatore": {
     "id": "萨尔瓦多",
@@ -22933,7 +23305,8 @@
     "rarity": 5,
     "specialId": "连环闪电",
     "canBeReceivedDate": "2024-01-29 07:00:00",
-    "origin": "元素较量"
+    "origin": "SuperElemental",
+    "costumeBonusesId": "elemental"
   },
   "journey_xie_zi_jing": {
     "id": "蝎子精",
@@ -23317,7 +23690,8 @@
     "rarity": 5,
     "specialId": "痛苦收割",
     "canBeReceivedDate": "2024-02-26 07:00:00",
-    "origin": "元素较量"
+    "origin": "SuperElemental",
+    "costumeBonusesId": "elemental"
   },
   "elemental_gastille": {
     "id": "加斯蒂尔",
@@ -23335,7 +23709,8 @@
     "rarity": 5,
     "specialId": "元素腐蚀",
     "canBeReceivedDate": "2024-03-25 07:00:00",
-    "origin": "元素较量"
+    "origin": "SuperElemental",
+    "costumeBonusesId": "elemental"
   },
   "champions_norman": {
     "id": "诺曼",
@@ -23692,7 +24067,7 @@
     "rarity": 5,
     "specialId": "月华之耀",
     "canBeReceivedDate": "2024-09-16 07:00:00",
-    "origin": "星体召唤"
+    "origin": "星体位面"
   },
   "astral_hammerclang": {
     "id": "叮当铁锤",
@@ -23711,7 +24086,7 @@
     "rarity": 5,
     "specialId": "天之铁砧",
     "canBeReceivedDate": "2024-03-28 07:00:00",
-    "origin": "星体召唤"
+    "origin": "星体位面"
   },
   "astral_moonbell": {
     "id": "月之钟",
@@ -23730,7 +24105,7 @@
     "rarity": 5,
     "specialId": "星体召唤",
     "canBeReceivedDate": "2024-07-10 07:00:00",
-    "origin": "星体召唤"
+    "origin": "星体位面"
   },
   "astral_demilune": {
     "id": "新月",
@@ -23749,7 +24124,7 @@
     "rarity": 5,
     "specialId": "碎月光束",
     "canBeReceivedDate": "2024-05-20 07:00:00",
-    "origin": "星体召唤"
+    "origin": "星体位面"
   },
   "astral_mooncure": {
     "id": "月医",
@@ -23768,7 +24143,7 @@
     "rarity": 5,
     "specialId": "星体没药",
     "canBeReceivedDate": "2024-08-19 07:00:00",
-    "origin": "星体召唤"
+    "origin": "星体位面"
   },
   "astral_moonflower": {
     "id": "月之花",
@@ -23787,7 +24162,7 @@
     "rarity": 5,
     "specialId": "叶华绽放",
     "canBeReceivedDate": "2024-03-07 07:00:00",
-    "origin": "星体召唤"
+    "origin": "星体位面"
   },
   "astral_dreadstar": {
     "id": "恐惧之星",
@@ -23806,7 +24181,7 @@
     "rarity": 5,
     "specialId": "星体支配",
     "canBeReceivedDate": "2024-03-07 07:00:00",
-    "origin": "星体召唤"
+    "origin": "星体位面"
   },
   "astral_starlass": {
     "id": "星瞳",
@@ -23825,7 +24200,7 @@
     "rarity": 5,
     "specialId": "能量波动",
     "canBeReceivedDate": "2024-06-12 07:00:00",
-    "origin": "星体召唤"
+    "origin": "星体位面"
   },
   "astral_lemonwood": {
     "id": "莱蒙伍德",
@@ -23844,7 +24219,7 @@
     "rarity": 5,
     "specialId": "游星射击",
     "canBeReceivedDate": "2024-03-07 07:00:00",
-    "origin": "星体召唤"
+    "origin": "星体位面"
   },
   "astral_voidstar": {
     "id": "虚空之星",
@@ -23863,7 +24238,7 @@
     "rarity": 5,
     "specialId": "星座典范",
     "canBeReceivedDate": "2024-04-22 07:00:00",
-    "origin": "星体召唤"
+    "origin": "星体位面"
   },
   "astral_lionstring": {
     "id": "星纱",
@@ -23882,7 +24257,7 @@
     "rarity": 4,
     "specialId": "星座圣衣",
     "canBeReceivedDate": "2024-03-07 07:00:00",
-    "origin": "星体召唤"
+    "origin": "星体位面"
   },
   "astral_starswift": {
     "id": "星闪",
@@ -23901,7 +24276,7 @@
     "rarity": 3,
     "specialId": "星之游戏",
     "canBeReceivedDate": "2024-03-07 07:00:00",
-    "origin": "星体召唤"
+    "origin": "星体位面"
   },
   "fire_god_zarga": {
     "id": "扎尔加",
@@ -23935,7 +24310,7 @@
     "rarity": 5,
     "specialId": "冒险之旅即将启程！",
     "canBeReceivedDate": "2024-03-18 07:00:00",
-    "origin": "春谷节"
+    "origin": "Easter"
   },
   "easter_miss_ethel": {
     "id": "艾瑟尔小姐",
@@ -23950,7 +24325,7 @@
     "rarity": 5,
     "specialId": "哞哞待战",
     "canBeReceivedDate": "2024-03-18 07:00:00",
-    "origin": "春谷节"
+    "origin": "Easter"
   },
   "elemental_grilka": {
     "id": "葛莉卡",
@@ -23968,7 +24343,8 @@
     "rarity": 5,
     "specialId": "神圣木槿酒酿",
     "canBeReceivedDate": "2024-04-22 07:00:00",
-    "origin": "元素较量"
+    "origin": "SuperElemental",
+    "costumeBonusesId": "elemental"
   },
   "elemental_craum": {
     "id": "克拉姆",
@@ -23986,7 +24362,8 @@
     "rarity": 5,
     "specialId": "元素召唤",
     "canBeReceivedDate": "2024-05-20 07:00:00",
-    "origin": "元素较量"
+    "origin": "SuperElemental",
+    "costumeBonusesId": "elemental"
   },
   "elemental_nylora": {
     "id": "尼洛拉",
@@ -24004,7 +24381,8 @@
     "rarity": 5,
     "specialId": "寒冰切割",
     "canBeReceivedDate": "2024-06-17 07:00:00",
-    "origin": "元素较量"
+    "origin": "SuperElemental",
+    "costumeBonusesId": "elemental"
   },
   "elemental_ash": {
     "id": "余烬",
@@ -24022,7 +24400,8 @@
     "rarity": 5,
     "specialId": "红宝石突袭",
     "canBeReceivedDate": "2024-07-14 07:00:00",
-    "origin": "元素较量"
+    "origin": "SuperElemental",
+    "costumeBonusesId": "elemental"
   },
   "elemental_vander": {
     "id": "范德尔",
@@ -24040,7 +24419,8 @@
     "rarity": 5,
     "specialId": "阴暗手榴弹",
     "canBeReceivedDate": "2024-08-07 07:00:00",
-    "origin": "元素较量"
+    "origin": "SuperElemental",
+    "costumeBonusesId": "elemental"
   },
   "garrison_theodosius": {
     "id": "狄奥多西",
@@ -24060,7 +24440,7 @@
     "rarity": 5,
     "specialId": "前来报到",
     "canBeReceivedDate": "2024-07-07 07:00:00",
-    "origin": "Goblin"
+    "origin": "哥布林村"
   },
   "garrison_iocantha": {
     "id": "约坎塔",
@@ -24079,7 +24459,7 @@
     "rarity": 5,
     "specialId": "至高至强",
     "canBeReceivedDate": "2024-07-07 07:00:00",
-    "origin": "Goblin"
+    "origin": "哥布林村"
   },
   "garrison_frank_fangs_brimwell": {
     "id": "弗兰克·“獠牙”·布林威尔",
@@ -24098,7 +24478,7 @@
     "rarity": 5,
     "specialId": "团队精神",
     "canBeReceivedDate": "2024-08-04 07:00:00",
-    "origin": "Goblin"
+    "origin": "哥布林村"
   },
   "garrison_vanya": {
     "id": "万亚",
@@ -24118,7 +24498,7 @@
     "rarity": 5,
     "specialId": "好奇之心",
     "canBeReceivedDate": "2024-04-15 07:00:00",
-    "origin": "Goblin"
+    "origin": "哥布林村"
   },
   "garrison_shimmerscale": {
     "id": "闪鳞",
@@ -24137,7 +24517,7 @@
     "rarity": 5,
     "specialId": "骤然觉醒",
     "canBeReceivedDate": "2024-04-15 07:00:00",
-    "origin": "Goblin"
+    "origin": "哥布林村"
   },
   "garrison_greg": {
     "id": "格雷戈",
@@ -24156,7 +24536,7 @@
     "rarity": 4,
     "specialId": "蝾螈之鳞",
     "canBeReceivedDate": "2024-04-15 07:00:00",
-    "origin": "Goblin"
+    "origin": "哥布林村"
   },
   "garrison_william": {
     "id": "威廉",
@@ -24175,7 +24555,7 @@
     "rarity": 3,
     "specialId": "审时度势",
     "canBeReceivedDate": "2024-04-15 07:00:00",
-    "origin": "Goblin"
+    "origin": "哥布林村"
   },
   "gargoyle_uwe": {
     "id": "乌韦",
@@ -24376,7 +24756,7 @@
     "rarity": 5,
     "specialId": "舒缓旋律",
     "canBeReceivedDate": "2024-05-13 07:00:00",
-    "origin": "Goblin"
+    "origin": "哥布林村"
   },
   "nature_god_bo_and_runt": {
     "id": "博与朗特",
@@ -24414,7 +24794,7 @@
     "rarity": 5,
     "specialId": "幸运硬币",
     "canBeReceivedDate": "2024-06-10 07:00:00",
-    "origin": "Goblin"
+    "origin": "哥布林村"
   },
   "construct_scoria": {
     "id": "熔砾",
@@ -24570,7 +24950,7 @@
     "rarity": 5,
     "specialId": "追踪箭",
     "canBeReceivedDate": "2024-05-23 07:00:00",
-    "origin": "怪兽岛",
+    "origin": "MonsterIsland1",
     "additionalBattleSpecificHeroEffectOrigin": "MonsterIsland2"
   },
   "monster_hunter_dubhain": {
@@ -24590,7 +24970,7 @@
     "rarity": 5,
     "specialId": "雷霆一击",
     "canBeReceivedDate": "2024-05-23 07:00:00",
-    "origin": "怪兽岛",
+    "origin": "MonsterIsland1",
     "additionalBattleSpecificHeroEffectOrigin": "MonsterIsland2"
   },
   "astral_cosmicspeaker": {
@@ -24610,7 +24990,7 @@
     "rarity": 5,
     "specialId": "星座碾压",
     "canBeReceivedDate": "2024-10-14 07:00:00",
-    "origin": "星体召唤"
+    "origin": "星体位面"
   },
   "holy_god_aviana": {
     "id": "阿维亚纳",
@@ -24705,7 +25085,7 @@
     "rarity": 5,
     "specialId": "复苏污泥",
     "canBeReceivedDate": "2024-06-18 07:00:00",
-    "origin": "元素较量"
+    "origin": "SuperElemental"
   },
   "kalevala_otso": {
     "id": "奥德索",
@@ -24723,7 +25103,7 @@
     "rarity": 5,
     "specialId": "北地重击",
     "canBeReceivedDate": "2024-07-22 07:00:00",
-    "origin": "Kalevala"
+    "origin": "卡勒瓦拉"
   },
   "monster_hunter_ruadh": {
     "id": "鲁瓦",
@@ -24742,7 +25122,7 @@
     "rarity": 5,
     "specialId": "强者之祸",
     "canBeReceivedDate": "2024-06-26 07:00:00",
-    "origin": "怪兽岛",
+    "origin": "MonsterIsland1",
     "additionalBattleSpecificHeroEffectOrigin": "MonsterIsland2"
   },
   "monster_hunter_sigyn": {
@@ -24762,7 +25142,7 @@
     "rarity": 5,
     "specialId": "壳质牢笼",
     "canBeReceivedDate": "2024-08-13 07:00:00",
-    "origin": "怪兽岛",
+    "origin": "MonsterIsland1",
     "additionalBattleSpecificHeroEffectOrigin": "MonsterIsland2"
   },
   "monster_hunter_sune": {
@@ -24782,7 +25162,7 @@
     "rarity": 5,
     "specialId": "原始阔剑",
     "canBeReceivedDate": "2024-07-21 07:00:00",
-    "origin": "怪兽岛",
+    "origin": "MonsterIsland1",
     "additionalBattleSpecificHeroEffectOrigin": "MonsterIsland2"
   },
   "slime_sludgus": {
@@ -24802,7 +25182,7 @@
     "rarity": 5,
     "specialId": "黏液之舞",
     "canBeReceivedDate": "2024-09-04 07:00:00",
-    "origin": "元素较量"
+    "origin": "SuperElemental"
   },
   "slime_slimgo": {
     "id": "史莱姆戈",
@@ -24821,7 +25201,7 @@
     "rarity": 5,
     "specialId": "投掷匕首",
     "canBeReceivedDate": "2024-10-30 07:00:00",
-    "origin": "元素较量"
+    "origin": "SuperElemental"
   },
   "slime_gooze": {
     "id": "古兹",
@@ -24840,7 +25220,7 @@
     "rarity": 5,
     "specialId": "炼金实验",
     "canBeReceivedDate": "2025-05-04 07:00:00",
-    "origin": "元素较量"
+    "origin": "SuperElemental"
   },
   "slime_gooldron": {
     "id": "古尔德隆",
@@ -24859,7 +25239,7 @@
     "rarity": 5,
     "specialId": "史莱姆服务",
     "canBeReceivedDate": "2024-11-27 07:00:00",
-    "origin": "元素较量"
+    "origin": "SuperElemental"
   },
   "slime_charmione": {
     "id": "夏麦妮",
@@ -24878,7 +25258,7 @@
     "rarity": 5,
     "specialId": "芳香之云",
     "canBeReceivedDate": "2025-01-01 07:00:00",
-    "origin": "元素较量"
+    "origin": "SuperElemental"
   },
   "slime_knightus": {
     "id": "奈特司",
@@ -24897,7 +25277,7 @@
     "rarity": 5,
     "specialId": "史莱姆之剑",
     "canBeReceivedDate": "2025-02-17 07:00:00",
-    "origin": "元素较量"
+    "origin": "SuperElemental"
   },
   "slime_mucktus": {
     "id": "马克特司",
@@ -24916,7 +25296,7 @@
     "rarity": 5,
     "specialId": "阴险粘物",
     "canBeReceivedDate": "2024-10-02 07:00:00",
-    "origin": "元素较量"
+    "origin": "SuperElemental"
   },
   "slime_gooric": {
     "id": "古里克",
@@ -24935,7 +25315,7 @@
     "rarity": 5,
     "specialId": "复生之触",
     "canBeReceivedDate": "2025-01-20 07:00:00",
-    "origin": "元素较量"
+    "origin": "SuperElemental"
   },
   "faun_verity": {
     "id": "维里蒂",
@@ -25246,9 +25626,9 @@
     "id": "斯瓦法",
     "element": "蓝",
     "family": "马克海姆",
-    "baseHealth": 1058,
-    "baseAttack": 590,
-    "baseDefense": 558,
+    "baseHealth": 1097,
+    "baseAttack": 623,
+    "baseDefense": 591,
     "manaSpeedId": "飞速",
     "passiveSkills": [
       "arctic_core",
@@ -25322,9 +25702,9 @@
     "id": "布里格维尔",
     "element": "蓝",
     "family": "马克海姆",
-    "baseHealth": 373,
-    "baseAttack": 320,
-    "baseDefense": 310,
+    "baseHealth": 397,
+    "baseAttack": 328,
+    "baseDefense": 318,
     "manaSpeedId": "中等",
     "passiveSkills": [
       "arctic_core",
@@ -25578,7 +25958,7 @@
     "rarity": 5,
     "specialId": "羽毛披风",
     "canBeReceivedDate": "2024-10-18 11:30:00",
-    "origin": "怪兽岛",
+    "origin": "MonsterIsland1",
     "additionalBattleSpecificHeroEffectOrigin": "MonsterIsland2"
   },
   "monster_hunter_njal": {
@@ -25598,7 +25978,7 @@
     "rarity": 5,
     "specialId": "初始霜冻",
     "canBeReceivedDate": "2200-01-01 07:00:00",
-    "origin": "怪兽岛",
+    "origin": "MonsterIsland1",
     "additionalBattleSpecificHeroEffectOrigin": "MonsterIsland2"
   },
   "garrison_dima": {
@@ -25618,7 +25998,7 @@
     "rarity": 5,
     "specialId": "斑点麻烦",
     "canBeReceivedDate": "2024-09-29 07:00:00",
-    "origin": "Goblin"
+    "origin": "哥布林村"
   },
   "garrison_pip": {
     "id": "皮普",
@@ -25637,7 +26017,7 @@
     "rarity": 5,
     "specialId": "鲁莽挥剑",
     "canBeReceivedDate": "2024-09-01 07:00:00",
-    "origin": "Goblin"
+    "origin": "哥布林村"
   },
   "ninja_umeko": {
     "id": "梅子",
@@ -26025,7 +26405,7 @@
     "rarity": 5,
     "specialId": "顷刻欢乐",
     "canBeReceivedDate": "2024-10-27 07:00:00",
-    "origin": "Goblin"
+    "origin": "哥布林村"
   },
   "garrison_fergus": {
     "id": "费格斯",
@@ -26045,7 +26425,7 @@
     "rarity": 5,
     "specialId": "维护和平",
     "canBeReceivedDate": "2024-12-09 07:00:00",
-    "origin": "Goblin"
+    "origin": "哥布林村"
   },
   "beowulf_hrothgar": {
     "id": "赫罗斯加",
@@ -26104,7 +26484,7 @@
     "rarity": 5,
     "specialId": "震慑打击",
     "canBeReceivedDate": "2200-01-01 07:00:00",
-    "origin": "怪兽岛",
+    "origin": "MonsterIsland1",
     "additionalBattleSpecificHeroEffectOrigin": "MonsterIsland2"
   },
   "monster_hunter_amund": {
@@ -26124,7 +26504,7 @@
     "rarity": 5,
     "specialId": "雕刻骸骨",
     "canBeReceivedDate": "2025-02-27 07:00:00",
-    "origin": "怪兽岛",
+    "origin": "MonsterIsland1",
     "additionalBattleSpecificHeroEffectOrigin": "MonsterIsland2"
   },
   "monster_hunter_sorcha": {
@@ -26144,7 +26524,7 @@
     "rarity": 5,
     "specialId": "虚弱打击",
     "canBeReceivedDate": "2200-01-01 07:00:00",
-    "origin": "怪兽岛",
+    "origin": "MonsterIsland1",
     "additionalBattleSpecificHeroEffectOrigin": "MonsterIsland2"
   },
   "garrison_kolya": {
@@ -26164,7 +26544,7 @@
     "rarity": 5,
     "specialId": "洗衣日",
     "canBeReceivedDate": "2024-11-24 07:00:00",
-    "origin": "Goblin"
+    "origin": "哥布林村"
   },
   "bard_balafon": {
     "id": "萨利马塔",
@@ -26259,7 +26639,7 @@
     "rarity": 5,
     "specialId": "舒适小憩",
     "canBeReceivedDate": "2024-12-01 07:00:00",
-    "origin": "圣诞节"
+    "origin": "Christmas"
   },
   "christmas_ottilia": {
     "id": "奥蒂利娅",
@@ -26274,7 +26654,7 @@
     "rarity": 5,
     "specialId": "槲寄生集成曲",
     "canBeReceivedDate": "2024-12-01 07:00:00",
-    "origin": "圣诞节"
+    "origin": "Christmas"
   },
   "holy_god_faeona": {
     "id": "法欧娜",
@@ -26501,7 +26881,7 @@
     "rarity": 5,
     "specialId": "共同欢歌",
     "canBeReceivedDate": "2025-02-14 07:00:00",
-    "origin": "Goblin"
+    "origin": "哥布林村"
   },
   "garrison_archibald": {
     "id": "阿奇巴尔德",
@@ -26520,7 +26900,7 @@
     "rarity": 5,
     "specialId": "可疑炖菜",
     "canBeReceivedDate": "2025-03-14 07:00:00",
-    "origin": "Goblin"
+    "origin": "哥布林村"
   },
   "garrison_frostsnout": {
     "id": "冰嗅",
@@ -26539,7 +26919,7 @@
     "rarity": 5,
     "specialId": "士气高昂",
     "canBeReceivedDate": "2025-01-17 07:00:00",
-    "origin": "Goblin"
+    "origin": "哥布林村"
   },
   "astral_dwarf_salniss": {
     "id": "萨尔尼斯",
@@ -26559,7 +26939,7 @@
     "rarity": 5,
     "specialId": "双管星铳",
     "canBeReceivedDate": "2024-12-22 07:00:00",
-    "origin": "星体召唤"
+    "origin": "星体位面"
   },
   "astral_dwarf_maegwyn": {
     "id": "麦戈文",
@@ -26579,7 +26959,7 @@
     "rarity": 5,
     "specialId": "星体佳酿",
     "canBeReceivedDate": "2025-01-06 07:00:00",
-    "origin": "星体召唤"
+    "origin": "星体位面"
   },
   "astral_dwarf_pluth": {
     "id": "普鲁斯",
@@ -26599,7 +26979,7 @@
     "rarity": 5,
     "specialId": "二维时间装置",
     "canBeReceivedDate": "2025-02-28 07:00:00",
-    "origin": "星体召唤"
+    "origin": "星体位面"
   },
   "astral_dwarf_quari": {
     "id": "夸里",
@@ -26619,7 +26999,7 @@
     "rarity": 5,
     "specialId": "冲积路径",
     "canBeReceivedDate": "2024-12-22 07:00:00",
-    "origin": "星体召唤"
+    "origin": "星体位面"
   },
   "astral_dwarf_vard": {
     "id": "瓦德",
@@ -26639,7 +27019,7 @@
     "rarity": 5,
     "specialId": "虚空之力",
     "canBeReceivedDate": "2025-01-30 07:00:00",
-    "origin": "星体召唤"
+    "origin": "星体位面"
   },
   "moth_shyombre": {
     "id": "希罗布雷",
@@ -26883,7 +27263,7 @@
     "rarity": 4,
     "specialId": "力量灵药",
     "canBeReceivedDate": "2200-01-01 07:00:00",
-    "origin": "Goblin"
+    "origin": "哥布林村"
   },
   "garrison_flamehide": {
     "id": "炎皮",
@@ -26902,7 +27282,7 @@
     "rarity": 5,
     "specialId": "虚张声势",
     "canBeReceivedDate": "2025-04-11 07:00:00",
-    "origin": "Goblin"
+    "origin": "哥布林村"
   },
   "garrison_iarlaith": {
     "id": "亚莱斯",
@@ -26921,7 +27301,7 @@
     "rarity": 5,
     "specialId": "繁花剑舞",
     "canBeReceivedDate": "2025-04-29 07:00:00",
-    "origin": "Goblin"
+    "origin": "哥布林村"
   },
   "garrison_ciara": {
     "id": "席亚拉",
@@ -26940,7 +27320,7 @@
     "rarity": 5,
     "specialId": "铁律如山",
     "canBeReceivedDate": "2025-05-27 07:00:00",
-    "origin": "Goblin"
+    "origin": "哥布林村"
   },
   "garrison_godfrey": {
     "id": "戈弗雷",
@@ -26959,7 +27339,7 @@
     "rarity": 5,
     "specialId": "坚守阵地",
     "canBeReceivedDate": "2025-07-22 07:00:00",
-    "origin": "Goblin"
+    "origin": "哥布林村"
   },
   "beowulf_beowulf": {
     "id": "贝奥武夫",
@@ -27142,9 +27522,9 @@
     "id": "弗蕾亚瓦鲁",
     "element": "绿",
     "family": "贝奥武夫家族",
-    "baseHealth": 1083,
-    "baseAttack": 542,
-    "baseDefense": 595,
+    "baseHealth": 1098,
+    "baseAttack": 587,
+    "baseDefense": 640,
     "manaSpeedId": "中等",
     "passiveSkills": [
       "resist_buff_immunity",
@@ -27155,7 +27535,7 @@
     "aetherGift": "Bulwark",
     "rarity": 5,
     "specialId": "友谊卷轴",
-    "canBeReceivedDate": "2200-01-01 07:00:00",
+    "canBeReceivedDate": "2025-09-05 07:00:00",
     "origin": "贝奥武夫挑战"
   },
   "beowulf_hygd": {
@@ -27183,8 +27563,8 @@
     "element": "红",
     "family": "贝奥武夫家族",
     "baseHealth": 1066,
-    "baseAttack": 589,
-    "baseDefense": 562,
+    "baseAttack": 590,
+    "baseDefense": 564,
     "manaSpeedId": "快速",
     "passiveSkills": [
       "attack_buff_on_damage_received",
@@ -27201,9 +27581,9 @@
     "id": "维兰德",
     "element": "黄",
     "family": "贝奥武夫家族",
-    "baseHealth": 1076,
-    "baseAttack": 555,
-    "baseDefense": 582,
+    "baseHealth": 1077,
+    "baseAttack": 575,
+    "baseDefense": 586,
     "manaSpeedId": "慢",
     "passiveSkills": [
       "attack_buff_on_damage_received",
@@ -27407,6 +27787,63 @@
     "canBeReceivedDate": "2025-08-23 07:00:00",
     "origin": "荒野召唤"
   },
+  "wild_cat_thaffer": {
+    "id": "塔弗",
+    "element": "绿",
+    "family": "野猫家族",
+    "baseHealth": 1040,
+    "baseAttack": 582,
+    "baseDefense": 644,
+    "manaSpeedId": "中等",
+    "passiveSkills": [
+      "resist_all_defense_effects",
+      "revive_chance_nine_lives"
+    ],
+    "classType": "德鲁伊",
+    "aetherGift": "Attack Up",
+    "rarity": 5,
+    "specialId": "抢了就跑",
+    "canBeReceivedDate": "2200-01-01 07:00:00",
+    "origin": "荒野召唤"
+  },
+  "wild_cat_vernix": {
+    "id": "维尼克斯",
+    "element": "蓝",
+    "family": "野猫家族",
+    "baseHealth": 1026,
+    "baseAttack": 646,
+    "baseDefense": 571,
+    "manaSpeedId": "快速",
+    "passiveSkills": [
+      "resist_all_defense_effects",
+      "revive_chance_nine_lives"
+    ],
+    "classType": "巫师",
+    "aetherGift": "Heal Increase",
+    "rarity": 5,
+    "specialId": "破冰冲击",
+    "canBeReceivedDate": "2200-01-01 07:00:00",
+    "origin": "荒野召唤"
+  },
+  "wild_cat_marnes": {
+    "id": "马恩斯",
+    "element": "紫",
+    "family": "野猫家族",
+    "baseHealth": 1026,
+    "baseAttack": 654,
+    "baseDefense": 560,
+    "manaSpeedId": "飞速",
+    "passiveSkills": [
+      "resist_all_defense_effects",
+      "revive_chance_nine_lives"
+    ],
+    "classType": "盗贼",
+    "aetherGift": "Ailment Immunity",
+    "rarity": 5,
+    "specialId": "恐咒之刃",
+    "canBeReceivedDate": "2200-01-01 07:00:00",
+    "origin": "荒野召唤"
+  },
   "wild_cat_ferni": {
     "id": "费尔尼",
     "element": "绿",
@@ -27420,7 +27857,7 @@
       "revive_chance_nine_lives"
     ],
     "classType": "盗贼",
-    "aetherGift": "Attack Up",
+    "aetherGift": "Special Boost",
     "rarity": 3,
     "specialId": "飞裂之鞭",
     "canBeReceivedDate": "2200-01-01 07:00:00",
@@ -27458,7 +27895,7 @@
     "rarity": 5,
     "specialId": "封界波动",
     "canBeReceivedDate": "2025-03-31 07:00:00",
-    "origin": "春谷节"
+    "origin": "Easter"
   },
   "easter_sadie": {
     "id": "萨迪",
@@ -27473,7 +27910,7 @@
     "rarity": 5,
     "specialId": "沉默强夺",
     "canBeReceivedDate": "2025-03-31 07:00:00",
-    "origin": "春谷节"
+    "origin": "Easter"
   },
   "fox_ember": {
     "id": "安柏",
@@ -27528,7 +27965,7 @@
     "rarity": 5,
     "specialId": "黏液之球",
     "canBeReceivedDate": "2025-04-25 07:00:00",
-    "origin": "元素较量"
+    "origin": "SuperElemental"
   },
   "slime_goorian": {
     "id": "古利安",
@@ -27547,7 +27984,7 @@
     "rarity": 5,
     "specialId": "骸骨猛击",
     "canBeReceivedDate": "2025-03-17 07:00:00",
-    "origin": "元素较量"
+    "origin": "SuperElemental"
   },
   "astral_dwarf_haumri": {
     "id": "哈乌里",
@@ -27567,7 +28004,7 @@
     "rarity": 5,
     "specialId": "星之轨迹",
     "canBeReceivedDate": "2025-06-04 07:00:00",
-    "origin": "星体召唤"
+    "origin": "星体位面"
   },
   "astral_dwarf_ixinn": {
     "id": "艾辛",
@@ -27587,7 +28024,7 @@
     "rarity": 5,
     "specialId": "行星冲锋",
     "canBeReceivedDate": "2025-03-27 07:00:00",
-    "origin": "星体召唤"
+    "origin": "星体位面"
   },
   "astral_dwarf_gongoth": {
     "id": "贡戈斯",
@@ -27607,7 +28044,7 @@
     "rarity": 5,
     "specialId": "暮星打击",
     "canBeReceivedDate": "2025-05-07 07:00:00",
-    "origin": "星体召唤"
+    "origin": "星体位面"
   },
   "astral_dwarf_ceris": {
     "id": "西里斯",
@@ -27627,7 +28064,7 @@
     "rarity": 5,
     "specialId": "法术锁定",
     "canBeReceivedDate": "2025-04-21 07:00:00",
-    "origin": "星体召唤"
+    "origin": "星体位面"
   },
   "astral_dwarf_orcur": {
     "id": "奥科",
@@ -27647,7 +28084,7 @@
     "rarity": 5,
     "specialId": "月神之花",
     "canBeReceivedDate": "2025-07-02 07:00:00",
-    "origin": "星体召唤"
+    "origin": "星体位面"
   },
   "astral_dwarf_errin": {
     "id": "埃林",
@@ -27667,7 +28104,7 @@
     "rarity": 4,
     "specialId": "邪恶捆束",
     "canBeReceivedDate": "2025-06-04 07:00:00",
-    "origin": "星体召唤"
+    "origin": "星体位面"
   },
   "astral_dwarf_chires": {
     "id": "奇雷斯",
@@ -27687,7 +28124,7 @@
     "rarity": 3,
     "specialId": "星体糕点",
     "canBeReceivedDate": "2025-06-04 07:00:00",
-    "origin": "星体召唤"
+    "origin": "星体位面"
   },
   "mimic_training_hero_red": {
     "id": "经验拟态兽",
@@ -27838,9 +28275,9 @@
     "id": "鲁智深",
     "element": "红",
     "family": "梁山好汉家族",
-    "baseHealth": 1078,
-    "baseAttack": 617,
-    "baseDefense": 599,
+    "baseHealth": 1087,
+    "baseAttack": 620,
+    "baseDefense": 602,
     "manaSpeedId": "中等",
     "passiveSkills": [
       "resist_bleed",
@@ -27878,9 +28315,9 @@
     "id": "林冲",
     "element": "绿",
     "family": "梁山好汉家族",
-    "baseHealth": 1020,
-    "baseAttack": 605,
-    "baseDefense": 565,
+    "baseHealth": 1046,
+    "baseAttack": 635,
+    "baseDefense": 591,
     "manaSpeedId": "飞速",
     "passiveSkills": [
       "resist_bleed",
@@ -27958,12 +28395,14 @@
     "id": "武松",
     "element": "蓝",
     "family": "梁山好汉家族",
-    "baseHealth": 1012,
-    "baseAttack": 602,
-    "baseDefense": 572,
+    "baseHealth": 1150,
+    "baseAttack": 603,
+    "baseDefense": 576,
     "manaSpeedId": "快速",
     "passiveSkills": [
-      "righteous_rebellion_parent"
+      "resist_bleed",
+      "righteous_rebellion_parent",
+      "health_boost_on_special_critical_damage_all"
     ],
     "classType": "僧侣",
     "aetherGift": "Special Armor",
@@ -27976,12 +28415,14 @@
     "id": "吴用",
     "element": "黄",
     "family": "梁山好汉家族",
-    "baseHealth": 1066,
-    "baseAttack": 574,
-    "baseDefense": 581,
+    "baseHealth": 1166,
+    "baseAttack": 572,
+    "baseDefense": 611,
     "manaSpeedId": "慢",
     "passiveSkills": [
-      "righteous_rebellion_parent"
+      "resist_bleed",
+      "righteous_rebellion_parent",
+      "cleanse_on_special_critical_damage_all_safe"
     ],
     "classType": "巫师",
     "aetherGift": "Ailment Immunity",
@@ -28019,7 +28460,9 @@
     "baseDefense": 567,
     "manaSpeedId": "快速",
     "passiveSkills": [
-      "righteous_rebellion_parent"
+      "resist_bleed",
+      "righteous_rebellion_parent",
+      "cleanse_on_special_critical_damage_all_safe"
     ],
     "classType": "游侠",
     "aetherGift": "Attack Up",
@@ -28037,7 +28480,9 @@
     "baseDefense": 559,
     "manaSpeedId": "中等",
     "passiveSkills": [
-      "righteous_rebellion_parent"
+      "resist_bleed",
+      "righteous_rebellion_parent",
+      "health_boost_on_special_critical_damage_all"
     ],
     "classType": "战士",
     "aetherGift": "Attack Up",
@@ -28055,7 +28500,9 @@
     "baseDefense": 584,
     "manaSpeedId": "慢",
     "passiveSkills": [
-      "righteous_rebellion_parent"
+      "resist_bleed",
+      "righteous_rebellion_parent",
+      "health_boost_on_special_critical_damage_all"
     ],
     "classType": "僧侣",
     "aetherGift": "Ailment Immunity",
@@ -28073,7 +28520,9 @@
     "baseDefense": 569,
     "manaSpeedId": "快速",
     "passiveSkills": [
-      "righteous_rebellion_parent"
+      "resist_bleed",
+      "righteous_rebellion_parent",
+      "cleanse_on_special_critical_damage_all_safe"
     ],
     "classType": "盗贼",
     "aetherGift": "Attack Up",
@@ -28468,8 +28917,8 @@
     "aetherGift": "Mana Boost",
     "rarity": 5,
     "specialId": "无尽匕首",
-    "canBeReceivedDate": "2025-09-01 07:00:00",
-    "origin": "MonthlyHeroSeptember2025"
+    "canBeReceivedDate": "2025-10-01 07:00:00",
+    "origin": "MonthlyHeroOctober2025"
   },
   "moth_auricarc": {
     "id": "奥瑞卡克",
@@ -28493,9 +28942,9 @@
     "id": "奥罗克斯",
     "element": "黄",
     "family": "hotm2025",
-    "baseHealth": 812,
-    "baseAttack": 780,
-    "baseDefense": 369,
+    "baseHealth": 850,
+    "baseAttack": 593,
+    "baseDefense": 582,
     "manaSpeedId": "中等",
     "passiveSkills": [
       "increase_special_damage_buff",
@@ -28505,8 +28954,8 @@
     "aetherGift": "Rage",
     "rarity": 5,
     "specialId": "光之利斧",
-    "canBeReceivedDate": "2025-10-01 07:00:00",
-    "origin": "MonthlyHeroOctober2025"
+    "canBeReceivedDate": "2025-09-01 07:00:00",
+    "origin": "MonthlyHeroSeptember2025"
   },
   "slime_fruitio": {
     "id": "弗鲁提奥",
@@ -28525,7 +28974,7 @@
     "rarity": 4,
     "specialId": "水果鸡尾酒",
     "canBeReceivedDate": "2025-07-04 07:00:00",
-    "origin": "元素较量"
+    "origin": "SuperElemental"
   },
   "slime_choozen": {
     "id": "楚森",
@@ -28544,7 +28993,7 @@
     "rarity": 4,
     "specialId": "惊喜粘物！",
     "canBeReceivedDate": "2025-07-31 07:00:00",
-    "origin": "元素较量"
+    "origin": "SuperElemental"
   },
   "slime_harubo": {
     "id": "春坊",
@@ -28563,7 +29012,7 @@
     "rarity": 3,
     "specialId": "粘糊长矛",
     "canBeReceivedDate": "2026-01-01 07:00:00",
-    "origin": "元素较量"
+    "origin": "SuperElemental"
   },
   "astral_dwarf_hygil": {
     "id": "海吉尔",
@@ -28583,7 +29032,7 @@
     "rarity": 5,
     "specialId": "北极星远征",
     "canBeReceivedDate": "2025-08-24 07:00:00",
-    "origin": "星体召唤"
+    "origin": "星体位面"
   },
   "astral_dwarf_sedille": {
     "id": "赛迪尔",
@@ -28603,7 +29052,7 @@
     "rarity": 5,
     "specialId": "燃情时刻",
     "canBeReceivedDate": "2025-07-27 07:00:00",
-    "origin": "星体召唤"
+    "origin": "星体位面"
   },
   "astral_dwarf_lemniss": {
     "id": "莱姆尼斯",
@@ -28623,7 +29072,7 @@
     "rarity": 5,
     "specialId": "星体宝石",
     "canBeReceivedDate": "2200-01-01 07:00:00",
-    "origin": "星体召唤"
+    "origin": "星体位面"
   },
   "moth_lilareine": {
     "id": "莉拉瑞恩",
@@ -28717,144 +29166,135 @@
   },
   "guestip2_hero1": {
     "id": "guestip2_hero1",
-    "element": "黄",
+    "element": "蓝",
     "family": "guestip2",
     "baseHealth": 875,
     "baseAttack": 596,
     "baseDefense": 585,
-    "manaSpeedId": "快速",
-    "classType": "战士",
-    "aetherGift": "Regen",
+    "manaSpeedId": "飞速",
+    "classType": "巫师",
     "rarity": 5,
-    "specialId": "重力之拳",
+    "specialId": "guestip2_hero1_special",
     "canBeReceivedDate": "2200-01-01 07:00:00",
     "origin": "GuestIP2",
     "isGuest": true
   },
   "guestip2_hero2": {
     "id": "guestip2_hero2",
-    "element": "蓝",
+    "element": "黄",
     "family": "guestip2",
     "baseHealth": 875,
     "baseAttack": 596,
     "baseDefense": 585,
-    "manaSpeedId": "快速",
-    "classType": "战士",
-    "aetherGift": "Regen",
+    "manaSpeedId": "中等",
+    "classType": "牧师",
     "rarity": 5,
-    "specialId": "重力之拳",
+    "specialId": "guestip2_hero2_special",
     "canBeReceivedDate": "2200-01-01 07:00:00",
     "origin": "GuestIP2",
     "isGuest": true
   },
   "guestip2_hero3": {
     "id": "guestip2_hero3",
-    "element": "绿",
+    "element": "紫",
     "family": "guestip2",
     "baseHealth": 875,
     "baseAttack": 596,
     "baseDefense": 585,
-    "manaSpeedId": "快速",
-    "classType": "战士",
-    "aetherGift": "Regen",
+    "manaSpeedId": "中等",
+    "classType": "野蛮人",
     "rarity": 5,
-    "specialId": "重力之拳",
+    "specialId": "guestip2_hero3_special",
     "canBeReceivedDate": "2200-01-01 07:00:00",
     "origin": "GuestIP2",
     "isGuest": true
   },
   "guestip2_hero4": {
     "id": "guestip2_hero4",
-    "element": "紫",
+    "element": "红",
     "family": "guestip2",
     "baseHealth": 875,
     "baseAttack": 596,
     "baseDefense": 585,
-    "manaSpeedId": "快速",
+    "manaSpeedId": "中等",
     "classType": "战士",
-    "aetherGift": "Regen",
     "rarity": 5,
-    "specialId": "重力之拳",
+    "specialId": "guestip2_hero4_special",
     "canBeReceivedDate": "2200-01-01 07:00:00",
     "origin": "GuestIP2",
     "isGuest": true
   },
   "guestip2_hero5": {
     "id": "guestip2_hero5",
-    "element": "红",
-    "family": "guestip2",
-    "baseHealth": 875,
-    "baseAttack": 596,
-    "baseDefense": 585,
-    "manaSpeedId": "快速",
-    "classType": "战士",
-    "aetherGift": "Regen",
-    "rarity": 5,
-    "specialId": "重力之拳",
-    "canBeReceivedDate": "2200-01-01 07:00:00",
-    "origin": "GuestIP2",
-    "isGuest": true
-  },
-  "guestip2_hero6": {
-    "id": "guestip2_hero6",
-    "element": "黄",
-    "family": "guestip2",
-    "baseHealth": 875,
-    "baseAttack": 596,
-    "baseDefense": 585,
-    "manaSpeedId": "快速",
-    "classType": "战士",
-    "aetherGift": "Regen",
-    "rarity": 5,
-    "specialId": "重力之拳",
-    "canBeReceivedDate": "2200-01-01 07:00:00",
-    "origin": "GuestIP2",
-    "isGuest": true
-  },
-  "guestip2_hero7": {
-    "id": "guestip2_hero7",
-    "element": "蓝",
-    "family": "guestip2",
-    "baseHealth": 875,
-    "baseAttack": 596,
-    "baseDefense": 585,
-    "manaSpeedId": "快速",
-    "classType": "战士",
-    "aetherGift": "Regen",
-    "rarity": 5,
-    "specialId": "重力之拳",
-    "canBeReceivedDate": "2200-01-01 07:00:00",
-    "origin": "GuestIP2",
-    "isGuest": true
-  },
-  "guestip2_hero8": {
-    "id": "guestip2_hero8",
     "element": "绿",
     "family": "guestip2",
     "baseHealth": 875,
     "baseAttack": 596,
     "baseDefense": 585,
     "manaSpeedId": "快速",
-    "classType": "战士",
-    "aetherGift": "Regen",
+    "classType": "游侠",
     "rarity": 5,
-    "specialId": "重力之拳",
+    "specialId": "guestip2_hero5_special",
+    "canBeReceivedDate": "2200-01-01 07:00:00",
+    "origin": "GuestIP2",
+    "isGuest": true
+  },
+  "guestip2_hero6": {
+    "id": "guestip2_hero6",
+    "element": "红",
+    "family": "guestip2",
+    "baseHealth": 875,
+    "baseAttack": 596,
+    "baseDefense": 585,
+    "manaSpeedId": "快速",
+    "classType": "盗贼",
+    "rarity": 5,
+    "specialId": "guestip2_hero6_special",
+    "canBeReceivedDate": "2200-01-01 07:00:00",
+    "origin": "GuestIP2",
+    "isGuest": true
+  },
+  "guestip2_hero7": {
+    "id": "guestip2_hero7",
+    "element": "紫",
+    "family": "guestip2",
+    "baseHealth": 875,
+    "baseAttack": 596,
+    "baseDefense": 585,
+    "manaSpeedId": "中等",
+    "classType": "游侠",
+    "rarity": 5,
+    "specialId": "guestip2_hero7_special",
+    "canBeReceivedDate": "2200-01-01 07:00:00",
+    "origin": "GuestIP2",
+    "isGuest": true
+  },
+  "guestip2_hero8": {
+    "id": "guestip2_hero8",
+    "element": "蓝",
+    "family": "guestip2",
+    "baseHealth": 875,
+    "baseAttack": 596,
+    "baseDefense": 585,
+    "manaSpeedId": "中等",
+    "classType": "盗贼",
+    "rarity": 5,
+    "specialId": "guestip2_hero8_special",
     "canBeReceivedDate": "2200-01-01 07:00:00",
     "origin": "GuestIP2",
     "isGuest": true
   },
   "guestip2_hero9": {
     "id": "guestip2_hero9",
-    "element": "紫",
+    "element": "绿",
     "family": "guestip2",
     "baseHealth": 875,
     "baseAttack": 596,
     "baseDefense": 585,
-    "manaSpeedId": "快速",
-    "classType": "战士",
-    "aetherGift": "Regen",
+    "manaSpeedId": "中等",
+    "classType": "术士",
     "rarity": 5,
-    "specialId": "重力之拳",
+    "specialId": "guestip2_hero9_special",
     "canBeReceivedDate": "2200-01-01 07:00:00",
     "origin": "GuestIP2",
     "isGuest": true
@@ -28867,13 +29307,46 @@
     "baseAttack": 596,
     "baseDefense": 585,
     "manaSpeedId": "快速",
-    "classType": "战士",
-    "aetherGift": "Regen",
+    "classType": "游侠",
     "rarity": 5,
-    "specialId": "重力之拳",
+    "specialId": "guestip2_hero10_special",
     "canBeReceivedDate": "2200-01-01 07:00:00",
     "origin": "GuestIP2",
     "isGuest": true
+  },
+  "guestip2_hero11": {
+    "id": "guestip2_hero11",
+    "element": "黄",
+    "family": "guestip2",
+    "baseHealth": 875,
+    "baseAttack": 596,
+    "baseDefense": 585,
+    "manaSpeedId": "中等",
+    "classType": "战士",
+    "rarity": 5,
+    "specialId": "guestip2_hero11_special",
+    "canBeReceivedDate": "2200-01-01 07:00:00",
+    "origin": "GuestIP2",
+    "isGuest": true,
+    "additionalBattleSpecificHeroEffectOrigin": "",
+    "costumeBonusesId": ""
+  },
+  "guestip2_hero12": {
+    "id": "guestip2_hero12",
+    "element": "紫",
+    "family": "guestip2",
+    "baseHealth": 875,
+    "baseAttack": 596,
+    "baseDefense": 585,
+    "manaSpeedId": "快速",
+    "classType": "野蛮人",
+    "rarity": 5,
+    "specialId": "guestip2_hero12_special",
+    "canBeReceivedDate": "2200-01-01 07:00:00",
+    "origin": "GuestIP2",
+    "isGuest": true,
+    "additionalBattleSpecificHeroEffectOrigin": "",
+    "costumeBonusesId": ""
   },
   "fox_nibbles": {
     "id": "尼布尔斯",
@@ -28946,7 +29419,7 @@
     "rarity": 5,
     "specialId": "粘物审判",
     "canBeReceivedDate": "2025-07-04 07:00:00",
-    "origin": "元素较量"
+    "origin": "SuperElemental"
   },
   "slime_goldrip": {
     "id": "金滴",
@@ -28965,15 +29438,15 @@
     "rarity": 5,
     "specialId": "痛苦之币",
     "canBeReceivedDate": "2025-06-07 07:00:00",
-    "origin": "元素较量"
+    "origin": "SuperElemental"
   },
   "slime_zestique": {
     "id": "泽斯蒂克",
     "element": "红",
     "family": "史莱姆家族",
-    "baseHealth": 1004,
-    "baseAttack": 625,
-    "baseDefense": 548,
+    "baseHealth": 1084,
+    "baseAttack": 621,
+    "baseDefense": 604,
     "manaSpeedId": "中等",
     "passiveSkills": [
       "summon_slime_minion_on_damage_red",
@@ -28984,7 +29457,7 @@
     "rarity": 5,
     "specialId": "樱桃布丁上桌了！",
     "canBeReceivedDate": "2025-09-04 07:00:00",
-    "origin": "元素较量"
+    "origin": "SuperElemental"
   },
   "slime_sliposi": {
     "id": "斯利波西",
@@ -29003,7 +29476,7 @@
     "rarity": 5,
     "specialId": "粘糊快递",
     "canBeReceivedDate": "2025-09-25 07:00:00",
-    "origin": "元素较量"
+    "origin": "SuperElemental"
   },
   "slime_gloozmer": {
     "id": "格鲁兹默",
@@ -29022,7 +29495,7 @@
     "rarity": 5,
     "specialId": "粘稠玫瑰",
     "canBeReceivedDate": "2025-07-31 07:00:00",
-    "origin": "元素较量"
+    "origin": "SuperElemental"
   },
   "slime_slaymire": {
     "id": "斯雷迈尔",
@@ -29041,7 +29514,7 @@
     "rarity": 5,
     "specialId": "黏性处决",
     "canBeReceivedDate": "2200-01-01 07:00:00",
-    "origin": "元素较量"
+    "origin": "SuperElemental"
   },
   "slime_labblub": {
     "id": "拉布拉布",
@@ -29060,7 +29533,7 @@
     "rarity": 5,
     "specialId": "小兵审查",
     "canBeReceivedDate": "2200-01-01 07:00:00",
-    "origin": "元素较量"
+    "origin": "SuperElemental"
   },
   "fox_riverfang": {
     "id": "河牙",
@@ -29180,7 +29653,7 @@
     "aetherGift": "Bulwark",
     "rarity": 5,
     "specialId": "暴食咀嚼",
-    "canBeReceivedDate": "2200-01-01 07:00:00",
+    "canBeReceivedDate": "2025-08-29 07:00:00",
     "origin": "SecretSummonAscensionMimicPurple",
     "forceUseCostumeLevelUpAndUpgradeCosts": true,
     "isSecret": true
@@ -29239,7 +29712,7 @@
     "rarity": 5,
     "specialId": "缝合修复",
     "canBeReceivedDate": "2025-07-28 07:00:00",
-    "origin": "Kalevala"
+    "origin": "卡勒瓦拉"
   },
   "kalevala_suomuhauki": {
     "id": "鳞梭鱼",
@@ -29257,51 +29730,53 @@
     "rarity": 5,
     "specialId": "猛咬之颚",
     "canBeReceivedDate": "2025-07-28 07:00:00",
-    "origin": "Kalevala"
+    "origin": "卡勒瓦拉"
   },
   "vegetable_bartholomew": {
     "id": "巴塞洛缪",
     "element": "红",
-    "family": "植物家族",
-    "baseHealth": 1025,
-    "baseAttack": 625,
-    "baseDefense": 536,
+    "family": "英勇植物家族",
+    "baseHealth": 1055,
+    "baseAttack": 628,
+    "baseDefense": 611,
     "manaSpeedId": "中等",
     "passiveSkills": [
-      "summon_seedling_fiend_on_enemy_minion_summon"
+      "summon_seedling_parasite_per_turn_veggie",
+      "resist_special_blocking_with_health_boost_and_mana"
     ],
     "classType": "野蛮人",
-    "aetherGift": "Attack Up",
+    "aetherGift": "Rage",
     "rarity": 5,
     "specialId": "辣椒冲锋",
-    "canBeReceivedDate": "2200-01-01 07:00:00",
+    "canBeReceivedDate": "2025-09-02 07:00:00",
     "origin": "Harvest"
   },
   "vegetable_elsbeth": {
     "id": "埃尔斯贝特",
     "element": "紫",
-    "family": "植物家族",
-    "baseHealth": 1050,
-    "baseAttack": 602,
-    "baseDefense": 555,
+    "family": "英勇植物家族",
+    "baseHealth": 1085,
+    "baseAttack": 620,
+    "baseDefense": 606,
     "manaSpeedId": "快速",
     "passiveSkills": [
-      "summon_seedling_fiend_on_enemy_minion_summon"
+      "summon_seedling_parasite_per_turn_veggie",
+      "resist_special_blocking_with_health_boost_and_mana"
     ],
     "classType": "圣骑士",
-    "aetherGift": "Attack Up",
+    "aetherGift": "Knight's Endurance",
     "rarity": 5,
     "specialId": "守卫花园！",
-    "canBeReceivedDate": "2200-01-01 07:00:00",
+    "canBeReceivedDate": "2025-09-02 07:00:00",
     "origin": "Harvest"
   },
   "magic_carpet_ragrim": {
     "id": "拉格里姆",
     "element": "绿",
     "family": "魔毯家族",
-    "baseHealth": 1020,
-    "baseAttack": 560,
-    "baseDefense": 580,
+    "baseHealth": 1070,
+    "baseAttack": 568,
+    "baseDefense": 620,
     "manaSpeedId": "中等",
     "passiveSkills": [
       "reduce_big_minion_health",
@@ -29319,8 +29794,8 @@
     "element": "蓝",
     "family": "魔毯家族",
     "baseHealth": 1020,
-    "baseAttack": 560,
-    "baseDefense": 580,
+    "baseAttack": 604,
+    "baseDefense": 600,
     "manaSpeedId": "飞速",
     "passiveSkills": [
       "reduce_big_minion_health",
@@ -29342,10 +29817,11 @@
     "baseDefense": 600,
     "manaSpeedId": "中等",
     "passiveSkills": [
-      "repair_core"
+      "minion_core",
+      "hp_on_own_familiar_death_construct"
     ],
     "classType": "圣骑士",
-    "aetherGift": "Ailment Reflect",
+    "aetherGift": "Damage Reduction",
     "rarity": 5,
     "specialId": "火箭铁拳",
     "canBeReceivedDate": "2200-01-01 07:00:00",
@@ -29355,16 +29831,17 @@
     "id": "铁脉",
     "element": "黄",
     "family": "机械家族",
-    "baseHealth": 650,
-    "baseAttack": 400,
-    "baseDefense": 350,
-    "manaSpeedId": "快速",
+    "baseHealth": 500,
+    "baseAttack": 300,
+    "baseDefense": 300,
+    "manaSpeedId": "中等",
     "passiveSkills": [
-      "repair_core"
+      "minion_core",
+      "hp_on_own_familiar_death_construct"
     ],
     "classType": "战士",
     "aetherGift": "Ailment Defense",
-    "rarity": 4,
+    "rarity": 3,
     "specialId": "侍从打击",
     "canBeReceivedDate": "2200-01-01 07:00:00",
     "origin": "盟约召唤"
@@ -29378,7 +29855,8 @@
     "baseDefense": 600,
     "manaSpeedId": "快速",
     "passiveSkills": [
-      "repair_core"
+      "minion_core",
+      "mana_on_own_familiar_death_construct"
     ],
     "classType": "牧师",
     "aetherGift": "Revive",
@@ -29396,12 +29874,13 @@
     "baseDefense": 600,
     "manaSpeedId": "中等",
     "passiveSkills": [
-      "repair_core"
+      "minion_core",
+      "hp_on_own_familiar_death_construct"
     ],
     "classType": "圣骑士",
     "aetherGift": "Special Armor",
     "rarity": 5,
-    "specialId": "soul_guardian",
+    "specialId": "灵魂守卫",
     "canBeReceivedDate": "2200-01-01 07:00:00",
     "origin": "盟约召唤"
   },
@@ -29414,7 +29893,8 @@
     "baseDefense": 350,
     "manaSpeedId": "中等",
     "passiveSkills": [
-      "repair_core"
+      "minion_core",
+      "mana_on_own_familiar_death_construct"
     ],
     "classType": "野蛮人",
     "aetherGift": "Rage",
@@ -29432,7 +29912,8 @@
     "baseDefense": 600,
     "manaSpeedId": "慢",
     "passiveSkills": [
-      "repair_core"
+      "minion_core",
+      "mana_on_own_familiar_death_construct"
     ],
     "classType": "巫师",
     "aetherGift": "Vampire",
@@ -29450,7 +29931,8 @@
     "baseDefense": 600,
     "manaSpeedId": "慢",
     "passiveSkills": [
-      "repair_core"
+      "minion_core",
+      "mana_on_own_familiar_death_construct"
     ],
     "classType": "术士",
     "aetherGift": "Mana Boost",
@@ -29468,7 +29950,8 @@
     "baseDefense": 600,
     "manaSpeedId": "快速",
     "passiveSkills": [
-      "repair_core"
+      "minion_core",
+      "hp_on_own_familiar_death_construct"
     ],
     "classType": "盗贼",
     "aetherGift": "Attack Up",
@@ -29486,7 +29969,8 @@
     "baseDefense": 600,
     "manaSpeedId": "快速",
     "passiveSkills": [
-      "repair_core"
+      "minion_core",
+      "hp_on_own_familiar_death_construct"
     ],
     "classType": "僧侣",
     "aetherGift": "Counterattack",
@@ -29504,7 +29988,8 @@
     "baseDefense": 600,
     "manaSpeedId": "中等",
     "passiveSkills": [
-      "repair_core"
+      "minion_core",
+      "mana_on_own_familiar_death_construct"
     ],
     "classType": "德鲁伊",
     "aetherGift": "Damage Reduction",
@@ -29512,5 +29997,431 @@
     "specialId": "远古科技",
     "canBeReceivedDate": "2200-01-01 07:00:00",
     "origin": "盟约召唤"
+  },
+  "goblin_soursting": {
+    "id": "酸蛰",
+    "element": "绿",
+    "family": "哥布林家族",
+    "baseHealth": 1024,
+    "baseAttack": 634,
+    "baseDefense": 608,
+    "manaSpeedId": "快速",
+    "passiveSkills": [
+      "goblin_damage_and_accuracy_debuff_on_special"
+    ],
+    "classType": "战士",
+    "aetherGift": "Attack Up",
+    "rarity": 5,
+    "specialId": "果决豪赌",
+    "canBeReceivedDate": "2200-01-01 07:00:00",
+    "origin": "哥布林村"
+  },
+  "goblin_ratgrub": {
+    "id": "鼠蛆",
+    "element": "黄",
+    "family": "哥布林家族",
+    "baseHealth": 1132,
+    "baseAttack": 588,
+    "baseDefense": 611,
+    "manaSpeedId": "中等",
+    "passiveSkills": [
+      "goblin_damage_and_accuracy_debuff_on_special"
+    ],
+    "classType": "牧师",
+    "aetherGift": "Special Armor",
+    "rarity": 5,
+    "specialId": "公主出击",
+    "canBeReceivedDate": "2200-01-01 07:00:00",
+    "origin": "哥布林村"
+  },
+  "dark_god_eldwren": {
+    "id": "埃尔德温",
+    "element": "紫",
+    "family": "hotm2025",
+    "baseHealth": 910,
+    "baseAttack": 543,
+    "baseDefense": 514,
+    "manaSpeedId": "中等",
+    "passiveSkills": [
+      "resist_special_blocking",
+      "resist_parasites"
+    ],
+    "classType": "德鲁伊",
+    "aetherGift": "Dodge",
+    "rarity": 5,
+    "specialId": "愚蠢群徒",
+    "canBeReceivedDate": "2200-01-01 07:00:00",
+    "origin": "MonthlyHeroNovember2025"
+  },
+  "nature_god_liora": {
+    "id": "利奥拉",
+    "element": "绿",
+    "family": "hotm2025",
+    "baseHealth": 885,
+    "baseAttack": 569,
+    "baseDefense": 510,
+    "manaSpeedId": "快速",
+    "passiveSkills": [
+      "never_miss_special",
+      "resist_health_steal"
+    ],
+    "classType": "游侠",
+    "aetherGift": "Special Armor",
+    "rarity": 5,
+    "specialId": "利他之箭",
+    "canBeReceivedDate": "2200-01-01 07:00:00",
+    "origin": "MonthlyHeroDecember2025"
+  },
+  "forsaken_khatrox": {
+    "id": "卡特罗克斯",
+    "element": "绿",
+    "family": "被遗弃者家族",
+    "baseHealth": 1099,
+    "baseAttack": 637,
+    "baseDefense": 565,
+    "manaSpeedId": "慢",
+    "passiveSkills": [
+      "revive_in_alternative_form_with_insanity_chance"
+    ],
+    "classType": "野蛮人",
+    "aetherGift": "Bulwark",
+    "rarity": 5,
+    "specialId": "灭绝激流",
+    "canBeReceivedDate": "2200-01-01 07:00:00",
+    "origin": "ShadowQuest"
+  },
+  "institute_piper": {
+    "id": "派珀",
+    "element": "红",
+    "family": "学院家族",
+    "baseHealth": 519,
+    "baseAttack": 312,
+    "baseDefense": 282,
+    "manaSpeedId": "快速",
+    "classType": "游侠",
+    "aetherGift": "Defense Up",
+    "rarity": 3,
+    "specialId": "绝佳视角",
+    "canBeReceivedDate": "2200-01-01 07:00:00",
+    "origin": "ShadowQuest"
+  },
+  "institute_professor_morryster": {
+    "id": "莫里斯特教授",
+    "element": "紫",
+    "family": "学院家族",
+    "baseHealth": 1089,
+    "baseAttack": 585,
+    "baseDefense": 635,
+    "manaSpeedId": "中等",
+    "passiveSkills": [
+      "damage_increase_by_insanity"
+    ],
+    "classType": "战士",
+    "aetherGift": "Counterattack",
+    "rarity": 5,
+    "specialId": "寻踪射击",
+    "canBeReceivedDate": "2200-01-01 07:00:00",
+    "origin": "ShadowQuest"
+  },
+  "forsaken_lamentia": {
+    "id": "拉门缇娅",
+    "element": "蓝",
+    "family": "被遗弃者家族",
+    "baseHealth": 641,
+    "baseAttack": 361,
+    "baseDefense": 344,
+    "manaSpeedId": "中等",
+    "passiveSkills": [
+      "damage_increase_by_insanity"
+    ],
+    "classType": "盗贼",
+    "aetherGift": "Special Boost",
+    "rarity": 4,
+    "specialId": "狂怒撕裂",
+    "canBeReceivedDate": "2200-01-01 07:00:00",
+    "origin": "ShadowQuest"
+  },
+  "forsaken_demhalar": {
+    "id": "德姆哈拉",
+    "element": "红",
+    "family": "被遗弃者家族",
+    "baseHealth": 1071,
+    "baseAttack": 619,
+    "baseDefense": 601,
+    "manaSpeedId": "快速",
+    "passiveSkills": [
+      "revive_in_alternative_form_with_insanity_chance"
+    ],
+    "classType": "术士",
+    "aetherGift": "Rage",
+    "rarity": 5,
+    "specialId": "深渊诱引",
+    "canBeReceivedDate": "2200-01-01 07:00:00",
+    "origin": "ShadowQuest"
+  },
+  "institute_emilie": {
+    "id": "艾米莉",
+    "element": "蓝",
+    "family": "学院家族",
+    "baseHealth": 1077,
+    "baseAttack": 582,
+    "baseDefense": 645,
+    "manaSpeedId": "慢",
+    "passiveSkills": [
+      "revive_in_alternative_form_with_insanity_chance"
+    ],
+    "classType": "牧师",
+    "aetherGift": "Damage Reduction",
+    "rarity": 5,
+    "specialId": "无尽迷宫",
+    "canBeReceivedDate": "2200-01-01 07:00:00",
+    "origin": "ShadowQuest"
+  },
+  "mimic_emblem_red": {
+    "id": "纹章拟态兽",
+    "element": "红",
+    "family": "拟态兽家族",
+    "baseHealth": 1080,
+    "baseAttack": 628,
+    "baseDefense": 628,
+    "manaSpeedId": "快速",
+    "passiveSkills": [
+      "mimic_emblem_red",
+      "never_miss_special"
+    ],
+    "classType": "战士",
+    "aetherGift": "Bulwark",
+    "rarity": 5,
+    "specialId": "野蛮吞噬",
+    "canBeReceivedDate": "2200-01-01 07:00:00",
+    "origin": "Mimic",
+    "forceUseCostumeLevelUpAndUpgradeCosts": true
+  },
+  "mimic_emblem_blue": {
+    "id": "纹章拟态兽",
+    "element": "蓝",
+    "family": "拟态兽家族",
+    "baseHealth": 1080,
+    "baseAttack": 628,
+    "baseDefense": 628,
+    "manaSpeedId": "快速",
+    "passiveSkills": [
+      "mimic_emblem_blue",
+      "never_miss_special"
+    ],
+    "classType": "巫师",
+    "aetherGift": "Bulwark",
+    "rarity": 5,
+    "specialId": "野蛮吞噬",
+    "canBeReceivedDate": "2200-01-01 07:00:00",
+    "origin": "Mimic",
+    "forceUseCostumeLevelUpAndUpgradeCosts": true
+  },
+  "mimic_emblem_green": {
+    "id": "纹章拟态兽",
+    "element": "绿",
+    "family": "拟态兽家族",
+    "baseHealth": 1080,
+    "baseAttack": 628,
+    "baseDefense": 628,
+    "manaSpeedId": "快速",
+    "passiveSkills": [
+      "mimic_emblem_green",
+      "never_miss_special"
+    ],
+    "classType": "圣骑士",
+    "aetherGift": "Bulwark",
+    "rarity": 5,
+    "specialId": "野蛮吞噬",
+    "canBeReceivedDate": "2200-01-01 07:00:00",
+    "origin": "Mimic",
+    "forceUseCostumeLevelUpAndUpgradeCosts": true
+  },
+  "mimic_emblem_yellow": {
+    "id": "纹章拟态兽",
+    "element": "黄",
+    "family": "拟态兽家族",
+    "baseHealth": 1080,
+    "baseAttack": 628,
+    "baseDefense": 628,
+    "manaSpeedId": "快速",
+    "passiveSkills": [
+      "mimic_emblem_yellow",
+      "never_miss_special"
+    ],
+    "classType": "牧师",
+    "aetherGift": "Bulwark",
+    "rarity": 5,
+    "specialId": "野蛮吞噬",
+    "canBeReceivedDate": "2200-01-01 07:00:00",
+    "origin": "Mimic",
+    "forceUseCostumeLevelUpAndUpgradeCosts": true
+  },
+  "mimic_emblem_purple": {
+    "id": "纹章拟态兽",
+    "element": "紫",
+    "family": "拟态兽家族",
+    "baseHealth": 1080,
+    "baseAttack": 628,
+    "baseDefense": 628,
+    "manaSpeedId": "快速",
+    "passiveSkills": [
+      "mimic_emblem_purple",
+      "never_miss_special"
+    ],
+    "classType": "盗贼",
+    "aetherGift": "Bulwark",
+    "rarity": 5,
+    "specialId": "野蛮吞噬",
+    "canBeReceivedDate": "2200-01-01 07:00:00",
+    "origin": "Mimic",
+    "forceUseCostumeLevelUpAndUpgradeCosts": true
+  },
+  "mimic_ascension_epic_yellow": {
+    "id": "进阶拟态兽",
+    "element": "黄",
+    "family": "拟态兽家族",
+    "baseHealth": 650,
+    "baseAttack": 400,
+    "baseDefense": 350,
+    "manaSpeedId": "中等",
+    "passiveSkills": [
+      "mimic_ascension_epic_yellow",
+      "never_miss_special"
+    ],
+    "classType": "巫师",
+    "aetherGift": "Bulwark",
+    "rarity": 4,
+    "specialId": "贪食之咬",
+    "canBeReceivedDate": "2200-01-01 07:00:00",
+    "origin": "Mimic",
+    "forceUseCostumeLevelUpAndUpgradeCosts": true
+  },
+  "mimic_experience_rare_red": {
+    "id": "经验拟态兽",
+    "element": "红",
+    "family": "拟态兽家族",
+    "baseHealth": 500,
+    "baseAttack": 300,
+    "baseDefense": 300,
+    "manaSpeedId": "中等",
+    "passiveSkills": [
+      "mimic_experience_rare_red",
+      "never_miss_special"
+    ],
+    "classType": "术士",
+    "aetherGift": "Bulwark",
+    "rarity": 3,
+    "specialId": "贪婪咀嚼",
+    "canBeReceivedDate": "2200-01-01 07:00:00",
+    "origin": "Mimic",
+    "forceUseCostumeLevelUpAndUpgradeCosts": true
+  },
+  "fire_god_andre": {
+    "id": "安德烈·德·克莱蒙",
+    "element": "红",
+    "family": "hotm2026",
+    "baseHealth": 900,
+    "baseAttack": 600,
+    "baseDefense": 615,
+    "manaSpeedId": "慢",
+    "passiveSkills": [
+      "healthboost_on_enemy_special",
+      "resist_defense_modifier_debuffs"
+    ],
+    "classType": "圣骑士",
+    "aetherGift": "Regen",
+    "rarity": 5,
+    "specialId": "圣殿誓言",
+    "canBeReceivedDate": "2200-01-01 07:00:00",
+    "origin": "MonthlyHeroJanuary2026"
+  },
+  "halloween_hortensia": {
+    "id": "霍滕西娅",
+    "element": "绿",
+    "family": "莫洛维亚家族",
+    "baseHealth": 910,
+    "baseAttack": 510,
+    "baseDefense": 575,
+    "manaSpeedId": "中等",
+    "passiveSkills": [
+      "halloween_steal_buff_or_deal_damage"
+    ],
+    "classType": "德鲁伊",
+    "aetherGift": "Fiend Resist",
+    "rarity": 5,
+    "specialId": "食肉花园",
+    "canBeReceivedDate": "2200-01-01 07:00:00",
+    "origin": "Halloween"
+  },
+  "fleur_guillemette": {
+    "id": "吉耶梅特",
+    "element": "黄",
+    "baseHealth": 1066,
+    "baseAttack": 636,
+    "baseDefense": 581,
+    "manaSpeedId": "中等",
+    "classType": "圣骑士",
+    "aetherGift": "Ailment Immunity",
+    "rarity": 5,
+    "specialId": "应风披靡",
+    "canBeReceivedDate": "2200-01-01 07:00:00",
+    "origin": "Halloween2025"
+  },
+  "fleur_elyzabel": {
+    "id": "埃莉萨贝尔·德·蒂耶尔",
+    "element": "红",
+    "baseHealth": 1080,
+    "baseAttack": 616,
+    "baseDefense": 599,
+    "manaSpeedId": "中等",
+    "classType": "巫师",
+    "aetherGift": "Fiend Resist",
+    "rarity": 5,
+    "specialId": "应风披靡",
+    "canBeReceivedDate": "2200-01-01 07:00:00",
+    "origin": "Halloween2025"
+  },
+  "fleur_ludovico": {
+    "id": "卢多维科",
+    "element": "蓝",
+    "baseHealth": 1090,
+    "baseAttack": 607,
+    "baseDefense": 605,
+    "manaSpeedId": "快速",
+    "classType": "牧师",
+    "aetherGift": "Boosted Regen",
+    "rarity": 5,
+    "specialId": "应风披靡",
+    "canBeReceivedDate": "2200-01-01 07:00:00",
+    "origin": "Halloween2025"
+  },
+  "fleur_eumachius": {
+    "id": "尤马基乌斯",
+    "element": "绿",
+    "baseHealth": 648,
+    "baseAttack": 361,
+    "baseDefense": 348,
+    "manaSpeedId": "快速",
+    "classType": "术士",
+    "aetherGift": "Attack Up",
+    "rarity": 4,
+    "specialId": "应风披靡",
+    "canBeReceivedDate": "2200-01-01 07:00:00",
+    "origin": "Halloween2025"
+  },
+  "fleur_lavinia": {
+    "id": "拉维尼娅",
+    "element": "黄",
+    "baseHealth": 505,
+    "baseAttack": 296,
+    "baseDefense": 304,
+    "manaSpeedId": "慢",
+    "classType": "牧师",
+    "aetherGift": "Defense Up",
+    "rarity": 3,
+    "specialId": "应风披靡",
+    "canBeReceivedDate": "2200-01-01 07:00:00",
+    "origin": "Halloween2025"
   }
 }
