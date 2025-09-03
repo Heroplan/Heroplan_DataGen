@@ -62626,7 +62626,7 @@
             "id": "damage_blooming_big_parasite"
           }
         ],
-        "healthPerMil": 700,
+        "healthPerMil": 600,
         "monsterHealthPerMil": 500
       },
       {
@@ -65875,7 +65875,7 @@
           "Turn"
         ],
         "sideAffected": "Allies",
-        "attackPercentPerMil": 600,
+        "attackPercentPerMil": 500,
         "monsterAttackPercentPerMil": 450
       },
       {
@@ -65885,7 +65885,7 @@
           "Turn"
         ],
         "sideAffected": "Allies",
-        "attackPercentPerMil": 1000,
+        "attackPercentPerMil": 750,
         "monsterAttackPercentPerMil": 500
       },
       {
@@ -65895,7 +65895,7 @@
           "Turn"
         ],
         "sideAffected": "Allies",
-        "attackPercentPerMil": 3000,
+        "attackPercentPerMil": 2500,
         "monsterAttackPercentPerMil": 500
       },
       {
@@ -79258,5 +79258,5 @@
       "SharedDamage"
     ]
   },
-  "battleConfigId": 2870942477
+  "battleConfigId": 4035655790
 }

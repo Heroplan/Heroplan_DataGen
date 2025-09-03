@@ -36015,5 +36015,53 @@ window.allHeroesExtra = [
             "resist_direct_mana_reductions"
         ],
         "family": "hotm2025"
+    },
+    {
+        "name": "Elsbeth",
+        "fancy name": "Beetroot Knight",
+        "element": "Purple",
+        "rarity": 5,
+        "Release date": "2025-09-02",
+        "AetherPower": "Knight's Endurance",
+        "skill_types": [
+            "Snipers",
+            "Chain & Random Attackers",
+            "Fiends Summoners",
+            "Buffers (DEF)"
+        ],
+        "heroId": "vegetable_elsbeth",
+        "baseAttack": 620,
+        "baseDefense": 606,
+        "baseHealth": 1085,
+        "specialId": "guard_the_garden",
+        "passiveSkills": [
+            "summon_seedling_parasite_per_turn_veggie",
+            "resist_special_blocking_with_health_boost_and_mana"
+        ],
+        "family": "vegetable"
+    },
+    {
+        "name": "Bartholomew",
+        "fancy name": "Bell Pepper Barbarian",
+        "element": "Red",
+        "rarity": 5,
+        "Release date": "2025-09-02",
+        "AetherPower": "Rage",
+        "skill_types": [
+            "AoE Attackers (Hit-3)",
+            "Extra Damage Dealers",
+            "Buff Stealers",
+            "Counterattackers"
+        ],
+        "heroId": "vegetable_bartholomew",
+        "baseAttack": 628,
+        "baseDefense": 611,
+        "baseHealth": 1055,
+        "specialId": "capsicum_charge",
+        "passiveSkills": [
+            "summon_seedling_parasite_per_turn_veggie",
+            "resist_special_blocking_with_health_boost_and_mana"
+        ],
+        "family": "vegetable"
     }
 ];

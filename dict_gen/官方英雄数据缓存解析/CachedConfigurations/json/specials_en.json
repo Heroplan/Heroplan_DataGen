@@ -48099,7 +48099,7 @@
           "sideAffected": "Enemies",
           "typeOfTarget": "SingleAndGreenMinor",
           "effectType": "Damage",
-          "powerMultiplierPerMil": 4550,
+          "powerMultiplierPerMil": 5150,
           "powerMultiplierIncrementPerLevelPerMil": 50
         },
         "maxLevel": 8,
@@ -60048,5 +60048,5 @@
       }
     ]
   },
-  "specialsConfigId": 2183561587
+  "specialsConfigId": 31502804
 }

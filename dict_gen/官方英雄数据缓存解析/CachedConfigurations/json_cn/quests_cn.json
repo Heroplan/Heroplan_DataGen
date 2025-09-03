@@ -109735,13 +109735,14 @@
       "timeOfDay": "7小时",
       "duration": "3天",
       "scheduleLength": "FixedMonth",
-      "enabled": false,
+      "enabled": true,
       "entries": [
         {
+          "overridden": true,
           "id": "dragon_cave_classic2025_9_5",
           "questLineId": "dragon_cave_classic",
-          "startTime": "2025-09-05 07:00:00",
-          "endTime": "2025-09-08 07:00:00"
+          "startTime": "2025-09-18 07:00:00",
+          "endTime": "2025-09-21 07:00:00"
         },
         {
           "id": "dragon_cave_classic2025_10_3",
@@ -109776,5 +109777,5 @@
       ]
     }
   },
-  "questsConfigId": 3616159947
+  "questsConfigId": 1571700668
 }

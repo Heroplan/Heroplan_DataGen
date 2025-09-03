@@ -38256,55 +38256,73 @@
           {
             "type": "AlphaAether",
             "amount": 1,
-            "weight": 166
+            "weight": 55
           },
           {
             "type": "LegendaryTomeOfExperience",
             "amount": 1,
-            "weight": 26
+            "weight": 9
           },
           {
             "type": "EpicTomeOfExperience",
             "amount": 1,
-            "weight": 100
+            "weight": 33
           },
           {
             "type": "Emblem",
             "rarity": 5,
             "amount": 10,
-            "weight": 333
+            "weight": 55
           },
           {
             "type": "TrainerHero",
             "rarity": 3,
             "element": "All",
             "amount": 1,
-            "weight": 1400
+            "weight": 467
           },
           {
             "type": "TrainerTroop",
             "rarity": 3,
             "element": "All",
             "amount": 1,
-            "weight": 1400
+            "weight": 467
           },
           {
             "type": "TitanCrafting",
             "rarity": 4,
             "amount": 2,
-            "weight": 1575
+            "weight": 525
           },
           {
             "type": "TitanCrafting",
             "rarity": 3,
             "amount": 3,
-            "weight": 2500
+            "weight": 833
+          },
+          {
+            "type": "BattleItem",
+            "rarity": 5,
+            "amount": 1,
+            "weight": 3333
           },
           {
             "type": "BattleItem",
             "rarity": 4,
             "amount": 2,
-            "weight": 2500
+            "weight": 833
+          },
+          {
+            "type": "FoodBundle",
+            "rarity": 3,
+            "amount": 1,
+            "weight": 1667
+          },
+          {
+            "type": "IronBundle",
+            "rarity": 3,
+            "amount": 1,
+            "weight": 1667
           }
         ],
         "occurrenceType": "ExclusiveOnly"
@@ -38315,55 +38333,73 @@
           {
             "type": "AlphaAether",
             "amount": 1,
-            "weight": 191
+            "weight": 128
           },
           {
             "type": "LegendaryTomeOfExperience",
             "amount": 1,
-            "weight": 30
+            "weight": 10
           },
           {
             "type": "EpicTomeOfExperience",
             "amount": 1,
-            "weight": 115
+            "weight": 38
           },
           {
             "type": "Emblem",
             "rarity": 5,
             "amount": 10,
-            "weight": 427
+            "weight": 64
           },
           {
             "type": "TrainerHero",
             "rarity": 3,
             "element": "All",
             "amount": 1,
-            "weight": 1380
+            "weight": 460
           },
           {
             "type": "TrainerTroop",
             "rarity": 3,
             "element": "All",
             "amount": 1,
-            "weight": 1380
+            "weight": 460
           },
           {
             "type": "TitanCrafting",
             "rarity": 4,
             "amount": 2,
-            "weight": 1571
+            "weight": 524
           },
           {
             "type": "TitanCrafting",
             "rarity": 3,
             "amount": 3,
-            "weight": 2475
+            "weight": 825
+          },
+          {
+            "type": "BattleItem",
+            "rarity": 5,
+            "amount": 2,
+            "weight": 3333
           },
           {
             "type": "BattleItem",
             "rarity": 4,
             "amount": 2,
-            "weight": 2475
+            "weight": 825
+          },
+          {
+            "type": "FoodBundle",
+            "rarity": 3,
+            "amount": 1,
+            "weight": 1667
+          },
+          {
+            "type": "IronBundle",
+            "rarity": 3,
+            "amount": 1,
+            "weight": 1667
           }
         ],
         "occurrenceType": "ExclusiveOnly"
@@ -41281,5 +41317,5 @@
       }
     ]
   },
-  "lootsConfigId": 1915717239
+  "lootsConfigId": 580697501
 }

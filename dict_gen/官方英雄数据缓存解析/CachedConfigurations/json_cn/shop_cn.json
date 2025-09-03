@@ -13812,13 +13812,13 @@
         "contents": [
           {
             "type": "Gem",
-            "amount": 400
+            "amount": 400,
+            "zyngaStoreExtraAmount": 50
           },
           {
             "type": "Item",
             "id": "lottery_atlantis_coin",
-            "amount": 25,
-            "zyngaStoreExtraAmount": 25
+            "amount": 50
           }
         ]
       },
@@ -16666,16 +16666,17 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.selectable_ascension_4",
         "dollarValue": 30,
+        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
             "type": "Gem",
             "amount": 3000,
-            "zyngaStoreExtraAmount": 300
+            "zyngaStoreExtraAmount": 400
           },
           {
             "type": "Item",
-            "id": "refill_energy_alliance_full",
+            "id": "relic_level_up_xp_multiplier",
             "amount": 1
           }
         ],
@@ -17273,13 +17274,13 @@
         "contents": [
           {
             "type": "Gem",
-            "amount": 400
+            "amount": 400,
+            "zyngaStoreExtraAmount": 50
           },
           {
             "type": "Item",
             "id": "lottery_valhalla_coin",
-            "amount": 25,
-            "zyngaStoreExtraAmount": 25
+            "amount": 50
           }
         ]
       },
@@ -21317,7 +21318,6 @@
         "id": "com.smallgiantgames.empires.selectable_ascension_1",
         "dollarValue": 25,
         "zyngaStoreDollarValueOverride": 23,
-        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -77566,7 +77566,7 @@
         "products": [
           {
             "id": "com.smallgiantgames.empires.selectable_ascension_4",
-            "purchaseLimit": 1
+            "purchaseLimit": 2
           }
         ],
         "requiresQuestsUnlocked": true
@@ -78185,8 +78185,7 @@
         "products": [
           {
             "id": "com.smallgiantgames.empires.underwild1_tier2",
-            "purchaseLimit": 1,
-            "zyngaStoreExtraPurchaseLimit": 1
+            "purchaseLimit": 2
           },
           {
             "id": "com.smallgiantgames.empires.season4_lure_bonus",
@@ -78194,25 +78193,21 @@
           },
           {
             "id": "com.smallgiantgames.empires.underwild1_tier1",
-            "purchaseLimit": 3,
-            "zyngaStoreExtraPurchaseLimit": 2
+            "purchaseLimit": 3
           },
           {
             "id": "com.smallgiantgames.empires.underwild2",
-            "purchaseLimit": 5,
-            "zyngaStoreExtraPurchaseLimit": 3,
+            "purchaseLimit": 6,
             "unlockInterval": 1
           },
           {
             "id": "com.smallgiantgames.empires.underwild3",
-            "purchaseLimit": 2,
-            "zyngaStoreExtraPurchaseLimit": 2,
+            "purchaseLimit": 4,
             "unlockInterval": 2
           },
           {
             "id": "com.smallgiantgames.empires.underwild4",
-            "purchaseLimit": 1,
-            "zyngaStoreExtraPurchaseLimit": 1,
+            "purchaseLimit": 2,
             "unlockInterval": 3
           }
         ],
@@ -78234,7 +78229,7 @@
           },
           {
             "id": "com.smallgiantgames.empires.season5_1_tier1",
-            "purchaseLimit": 5
+            "purchaseLimit": 3
           },
           {
             "id": "com.smallgiantgames.empires.season5_2",
@@ -79850,7 +79845,7 @@
           },
           {
             "id": "com.smallgiantgames.empires.valhallaoffer_day1",
-            "purchaseLimit": 7,
+            "purchaseLimit": 4,
             "unlockInterval": 2
           },
           {
@@ -79877,7 +79872,7 @@
           },
           {
             "id": "com.smallgiantgames.empires.atlantisoffer1",
-            "purchaseLimit": 6
+            "purchaseLimit": 4
           },
           {
             "id": "com.smallgiantgames.empires.atlantisoffer1_ending",
@@ -94074,6 +94069,13 @@
         "endTime": "2025-09-03 07:00:00"
       },
       {
+        "id": "mastertraineroffer2",
+        "slot": "LeftExtraTop",
+        "scheduledManually": true,
+        "startTime": "2025-09-01 11:15:00",
+        "endTime": "2025-09-02 07:00:00"
+      },
+      {
         "id": "dynamic_offer_63_construct_shacklebolt",
         "slot": "RightMiddle",
         "scheduledManually": true,
@@ -94126,6 +94128,13 @@
         "endTime": "2025-09-04 06:30:00"
       },
       {
+        "id": "com.smallgiantgames.empires.selectable_ascension_4",
+        "slot": "RightExtraBottom",
+        "scheduledManually": true,
+        "startTime": "2025-09-02 07:00:00",
+        "endTime": "2025-09-04 07:00:00"
+      },
+      {
         "id": "dragon_triple_majestic",
         "slot": "RightBottom",
         "startTime": "2025-09-02 07:00:00",
@@ -94172,13 +94181,6 @@
       {
         "id": "dragon_trainer_1",
         "slot": "LeftTop",
-        "scheduledManually": true,
-        "startTime": "2025-09-03 07:00:00",
-        "endTime": "2025-09-05 07:00:00"
-      },
-      {
-        "id": "selectable_ascension_1",
-        "slot": "LeftBottom",
         "scheduledManually": true,
         "startTime": "2025-09-03 07:00:00",
         "endTime": "2025-09-05 07:00:00"
@@ -94545,13 +94547,6 @@
         "endTime": "2025-09-16 07:00:00"
       },
       {
-        "id": "com.smallgiantgames.empires.double_covenant",
-        "slot": "LeftBottom",
-        "scheduledManually": true,
-        "startTime": "2025-09-13 07:00:00",
-        "endTime": "2025-09-14 07:00:00"
-      },
-      {
         "id": "ascensioncrystalsoffer",
         "slot": "LeftExtraTop",
         "scheduledManually": true,
@@ -94572,13 +94567,6 @@
         "endTime": "2025-09-15 07:00:00"
       },
       {
-        "id": "com.smallgiantgames.empires.double_covenant2",
-        "slot": "LeftTop",
-        "scheduledManually": true,
-        "startTime": "2025-09-14 07:00:00",
-        "endTime": "2025-09-15 07:00:00"
-      },
-      {
         "id": "dragon_dragon_magic",
         "slot": "LeftTop",
         "startTime": "2025-09-14 07:00:00",
@@ -94589,13 +94577,6 @@
         "slot": "LeftExtraBottom",
         "scheduledManually": true,
         "startTime": "2025-09-14 07:00:00",
-        "endTime": "2025-09-16 07:00:00"
-      },
-      {
-        "id": "com.smallgiantgames.empires.double_covenant",
-        "slot": "LeftBottom",
-        "scheduledManually": true,
-        "startTime": "2025-09-15 07:00:00",
         "endTime": "2025-09-16 07:00:00"
       },
       {
@@ -94622,13 +94603,6 @@
         "slot": "LeftExtraTop",
         "startTime": "2025-09-15 07:00:00",
         "endTime": "2025-09-19 07:00:00"
-      },
-      {
-        "id": "com.smallgiantgames.empires.double_covenant2",
-        "slot": "LeftExtraTop",
-        "scheduledManually": true,
-        "startTime": "2025-09-16 07:00:00",
-        "endTime": "2025-09-17 07:00:00"
       },
       {
         "id": "com.smallgiantgames.empires.lootticketoffer2",
@@ -94888,13 +94862,6 @@
         "endTime": "2025-09-29 07:00:00"
       },
       {
-        "id": "double_wilderness",
-        "slot": "RightBottom",
-        "scheduledManually": true,
-        "startTime": "2025-09-26 07:00:00",
-        "endTime": "2025-09-27 07:00:00"
-      },
-      {
         "id": "dragon_double_snowys_treasure",
         "slot": "RightTop",
         "startTime": "2025-09-26 07:00:00",
@@ -94912,13 +94879,6 @@
         "slot": "RightTop",
         "startTime": "2025-09-26 07:00:00",
         "endTime": "2025-09-30 07:00:00"
-      },
-      {
-        "id": "double_wilderness_2",
-        "slot": "RightExtraBottom",
-        "scheduledManually": true,
-        "startTime": "2025-09-27 07:00:00",
-        "endTime": "2025-09-28 07:00:00"
       },
       {
         "id": "ascensioncrystalsoffer",
@@ -94948,13 +94908,6 @@
         "endTime": "2025-10-02 07:00:00"
       },
       {
-        "id": "double_wilderness",
-        "slot": "RightBottom",
-        "scheduledManually": true,
-        "startTime": "2025-09-28 07:00:00",
-        "endTime": "2025-09-29 07:00:00"
-      },
-      {
         "id": "dragon_dragon_magic",
         "slot": "LeftTop",
         "startTime": "2025-09-28 07:00:00",
@@ -94965,13 +94918,6 @@
         "slot": "LeftExtraBottom",
         "scheduledManually": true,
         "startTime": "2025-09-28 07:00:00",
-        "endTime": "2025-09-30 07:00:00"
-      },
-      {
-        "id": "double_wilderness_2",
-        "slot": "RightExtraBottom",
-        "scheduledManually": true,
-        "startTime": "2025-09-29 07:00:00",
         "endTime": "2025-09-30 07:00:00"
       },
       {
@@ -100760,10 +100706,10 @@
                 "super_elemental_quest_red"
               ],
               "featuredHeroes": [
-                "泽斯蒂克",
+                "多客森-流亡等离子黑客",
                 "伊格纳奇奥-烈焰外科医生"
               ],
-              "advertisedHero": "slime_zestique",
+              "advertisedHero": "elemental_doxan_costume_hacker",
               "latestIncludedNonEventHeroDate": "2025-06-23 07:00:00",
               "bonusHeroes": [
                 "trainer_red_common",
@@ -101025,7 +100971,7 @@
                 "赫罗斯加",
                 "韦尔霍夫"
               ],
-              "latestIncludedHeroDate": 722736000,
+              "latestIncludedHeroDate": "2022-11-26 00:00:00",
               "advertisedHero": "beowulf_wealhtheow",
               "includeCostumes": true
             },
@@ -101517,7 +101463,7 @@
                 "比马",
                 "齐特拉伽达"
               ],
-              "latestIncludedHeroDate": 740300400,
+              "latestIncludedHeroDate": "2023-06-17 07:00:00",
               "advertisedHero": "mahayoddha_bhima",
               "includeCostumes": true
             }
@@ -104209,8 +104155,8 @@
               "lotteryProductType": "荒野召唤",
               "id": "lottery_wilderness_2025_9_26",
               "productId": "lottery_wilderness_default",
-              "startDate": "2025-09-26 07:00:00",
-              "endDate": "2025-09-30 07:00:00",
+              "startDate": "2025-09-28 07:00:00",
+              "endDate": "2025-10-02 07:00:00",
               "overridden": true,
               "featuredHeroes": [
                 "伦纳特",
@@ -107462,8 +107408,8 @@
           "summonId": "lottery_mimic_default",
           "amountOfSelectableFeaturedSlots": 3,
           "entitiesToChooseFrom": [
-            "mimic_ascension_item_purple",
             "mimic_emblem_red",
+            "mimic_ascension_item_purple",
             "mimic_ascension_item_yellow",
             "mimic_ascension_item_green",
             "mimic_ascension_item_blue",
@@ -108734,67 +108680,6 @@
           {
             "startTime": "2025-08-01 07:00:00",
             "endTime": "2025-08-02 07:00:00",
-            "onlyGemSummon": true,
-            "maxAllowedRedeems": 1,
-            "requiredSummonAmounts": [
-              20
-            ],
-            "rewards": [
-              {
-                "type": "Hero",
-                "id": "暗羽",
-                "amount": 1
-              },
-              {
-                "type": "Hero",
-                "id": "寒铁",
-                "amount": 1
-              },
-              {
-                "type": "Hero",
-                "id": "滚兽",
-                "amount": 1
-              },
-              {
-                "type": "Hero",
-                "id": "椒焰",
-                "amount": 1
-              },
-              {
-                "type": "Hero",
-                "id": "叶拂",
-                "amount": 1
-              },
-              {
-                "type": "Hero",
-                "id": "万亚",
-                "amount": 1
-              },
-              {
-                "type": "Hero",
-                "id": "皮普",
-                "amount": 1
-              },
-              {
-                "type": "Hero",
-                "id": "迪马",
-                "amount": 1
-              },
-              {
-                "type": "Hero",
-                "id": "闪鳞",
-                "amount": 1
-              },
-              {
-                "type": "Hero",
-                "id": "狄奥多西",
-                "amount": 1
-              }
-            ]
-          },
-          {
-            "startTime": "2025-09-15 07:00:00",
-            "endTime": "2025-09-16 07:00:00",
             "onlyGemSummon": true,
             "maxAllowedRedeems": 1,
             "requiredSummonAmounts": [
@@ -111060,7 +110945,7 @@
     "aboveLimitPurchasesWarningThreshold": 10,
     "supportZyngaStoreCustomContentPayload": true,
     "zyngaStoreFreeGiftsPeriodResetHour": 774514800,
-    "zyngaStoreFreeGiftsPerPeriodLimit": 10,
+    "zyngaStoreFreeGiftsPerPeriodLimit": 20,
     "mysticVisionTiers": [
       {
         "id": "mystic_vision_tier_1",
@@ -111253,5 +111138,5 @@
       }
     ]
   },
-  "shopConfigId": 1599221704
+  "shopConfigId": 1860716763
 }

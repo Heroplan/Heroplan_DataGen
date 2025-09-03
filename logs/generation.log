@@ -1,4 +1,2 @@
-2025-09-01 19:31:47,220 - INFO - 成功加载并规范化 1468 条英雄属性数据。
-2025-09-01 19:31:47,263 - INFO - 成功加载并规范化 1476 条中文额外数据。
-2025-09-01 19:31:47,271 - ERROR - 加载基础数据文件 'dictionaries\base_values_dict_tc.json' 时出错: Expecting property name enclosed in double quotes: line 98 column 26 (char 2785)
-2025-09-01 19:31:49,432 - WARNING - 检测到重复英雄 'Aurox'，该英雄已存在于YML数据中，将跳过从 extra_heroes.json 添加。
+2025-09-03 23:38:22,061 - INFO - 成功加载并规范化 1470 条英雄属性数据。
+2025-09-03 23:38:22,100 - INFO - 成功加载并规范化 1477 条中文额外数据。
