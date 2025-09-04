@@ -36023,7 +36023,12 @@ window.allHeroesExtra = [
         "rarity": 5,
         "Release date": "2025-09-02",
         "AetherPower": "Knight's Endurance",
-        "skill_types": [],
+        "skill_types": [
+            "Snipers",
+            "Chain & Random Attackers",
+            "Fiends Summoners",
+            "Buffers (DEF)"
+        ],
         "heroId": "vegetable_elsbeth",
         "baseAttack": 620,
         "baseDefense": 606,
@@ -36042,7 +36047,12 @@ window.allHeroesExtra = [
         "rarity": 5,
         "Release date": "2025-09-02",
         "AetherPower": "Rage",
-        "skill_types": [],
+        "skill_types": [
+            "AoE Attackers (Hit-3)",
+            "Extra Damage Dealers",
+            "Buff Stealers",
+            "Counterattackers"
+        ],
         "heroId": "vegetable_bartholomew",
         "baseAttack": 628,
         "baseDefense": 611,
@@ -36053,5 +36063,29 @@ window.allHeroesExtra = [
             "resist_special_blocking_with_health_boost_and_mana"
         ],
         "family": "vegetable"
+    },
+    {
+        "name": "Doxan costume1",
+        "fancy name": "Exiled Plasma Hacker",
+        "element": "Red",
+        "rarity": 5,
+        "Release date": "2025-09-04",
+        "AetherPower": "Special Boost",
+        "skill_types": [],
+        "heroId": "elemental_doxan_costume_hacker",
+        "baseAttack": 430,
+        "baseDefense": 404,
+        "baseHealth": 832,
+        "specialId": "dual_laser_blades",
+        "specialId_costume": "dual_data_blades",
+        "passiveSkills": [
+            "strong_troop_damage_modifier_costume"
+        ],
+        "costumeBonusPassiveSkillIds": null,
+        "attackBonus": "40%",
+        "defenseBonus": "40%",
+        "healthBonus": "45%",
+        "manaBonus": "5%",
+        "family": "super_elemental"
     }
 ];

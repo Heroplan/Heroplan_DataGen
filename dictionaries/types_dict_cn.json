@@ -870,5 +870,7 @@
     "Mana Increase All": "全体法力增加",
     "Mana Corruption All": "全体法力腐蚀",
     "Seedling Fiend Summoner on Hit": "被击中时召唤幼苗恶魔",
-    "Harvest Buffs 3": "收割3个目标的增益"
+    "Harvest Buffs 3": "收割3个目标的增益",
+    "Hit All Nature": "攻击全体自然系目标",
+    "DoT All Nature": "对全体自然系目标造成持续伤害"
 }

@@ -36063,5 +36063,33 @@ window.allHeroesExtra = [
             "resist_special_blocking_with_health_boost_and_mana"
         ],
         "family": "vegetable"
+    },
+    {
+        "name": "Doxan costume1",
+        "fancy name": "Exiled Plasma Hacker",
+        "element": "Red",
+        "rarity": 5,
+        "Release date": "2025-09-04",
+        "AetherPower": "Special Boost",
+        "skill_types": [
+            "DoT Attackers",
+            "Snipers",
+            "Chain & Random Attackers"
+        ],
+        "heroId": "elemental_doxan_costume_hacker",
+        "baseAttack": 430,
+        "baseDefense": 404,
+        "baseHealth": 832,
+        "specialId": "dual_laser_blades",
+        "specialId_costume": "dual_data_blades",
+        "passiveSkills": [
+            "strong_troop_damage_modifier_costume"
+        ],
+        "costumeBonusPassiveSkillIds": null,
+        "attackBonus": "40%",
+        "defenseBonus": "40%",
+        "healthBonus": "45%",
+        "manaBonus": "5%",
+        "family": "super_elemental"
     }
 ];

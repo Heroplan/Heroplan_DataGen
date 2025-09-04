@@ -1,4 +1,4 @@
-✅ 成功匹配的服装 (456 / 0)
+✅ 成功匹配的服装 (457 / 0)
 ================================
 Name: Berden Costume1, Fancy Name: Adroit Archer
 Name: Hannah Costume1, Fancy Name: Adventurous Drover
@@ -110,6 +110,7 @@ Name: Rumpelstiltskin Costume1, Fancy Name: Eternal Trickster
 Name: Kravekrush Costume1, Fancy Name: Ettin Grillmaster
 Name: Rokkamush Costume1, Fancy Name: Ettin Mason
 Name: Alberich Costume1, Fancy Name: Everoak Knight
+Name: Doxan costume1, Fancy Name: Exiled Plasma Hacker
 Name: Ilmarinen Costume1, Fancy Name: Expert Artificer
 Name: Nordri Costume1, Fancy Name: Explorer Dwarf of Jotunheim
 Name: Phileas Fogg Costume1, Fancy Name: Exquisite Engineer

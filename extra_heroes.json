@@ -20,16 +20,5 @@
         "costume_id": 4,
         "heroId": "forest_titan_costume_glass",
         "Lottery_Only":1
-    },
-    {
-        "name": "Doxan C1",
-        "fancy_name": "Exiled Plasma Hacker",
-        "color": "Red",
-        "Release date": "",
-        "star": 5,
-        "family": "super_elemental",
-        "costume_id": 1,
-        "heroId": "elemental_doxan_costume_hacker",
-        "Lottery_Only":1
     }
 ]
