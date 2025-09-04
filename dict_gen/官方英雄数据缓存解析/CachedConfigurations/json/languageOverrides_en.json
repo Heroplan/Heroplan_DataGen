@@ -1,67 +1,567 @@
 {
   "languageOverridesConfig": {
     "overrides": {
-      "English": {
-        "overrideEntries": []
-      },
-      "Dutch": {
-        "overrideEntries": []
-      },
-      "French": {
-        "overrideEntries": []
-      },
-      "German": {
-        "overrideEntries": []
-      },
-      "Indonesian": {
-        "overrideEntries": []
-      },
       "Italian": {
-        "overrideEntries": []
-      },
-      "Polish": {
-        "overrideEntries": []
-      },
-      "Portuguese": {
-        "overrideEntries": []
+        "overrideEntries": [
+          {
+            "key": "chest.bonus.disclaimer.reward.battleitem.5.single",
+            "text": "[#!]Battle Item 5*[#]"
+          },
+          {
+            "key": "chest.bonus.disclaimer.reward.battleitem.5",
+            "text": "[#!]Battle Items 5*[#]"
+          },
+          {
+            "key": "chest.bonus.disclaimer.reward.foodbundle.3.single",
+            "text": "[#!]Medium Food Bundle[#]"
+          },
+          {
+            "key": "chest.bonus.disclaimer.reward.foodbundle.3",
+            "text": "[#!]Medium Food Bundles[#]"
+          },
+          {
+            "key": "chest.bonus.disclaimer.reward.ironbundle.3.single",
+            "text": "[#!]Medium Iron Bundle[#]"
+          },
+          {
+            "key": "chest.bonus.disclaimer.reward.ironbundle.3",
+            "text": "[#!]Medium Iron Bundles[#]"
+          }
+        ]
       },
       "Russian": {
-        "overrideEntries": []
+        "overrideEntries": [
+          {
+            "key": "chest.bonus.disclaimer.reward.battleitem.5.single",
+            "text": "[#!]Battle Item 5*[#]"
+          },
+          {
+            "key": "chest.bonus.disclaimer.reward.battleitem.5",
+            "text": "[#!]Battle Items 5*[#]"
+          },
+          {
+            "key": "chest.bonus.disclaimer.reward.foodbundle.3.single",
+            "text": "[#!]Medium Food Bundle[#]"
+          },
+          {
+            "key": "chest.bonus.disclaimer.reward.foodbundle.3",
+            "text": "[#!]Medium Food Bundles[#]"
+          },
+          {
+            "key": "chest.bonus.disclaimer.reward.ironbundle.3.single",
+            "text": "[#!]Medium Iron Bundle[#]"
+          },
+          {
+            "key": "chest.bonus.disclaimer.reward.ironbundle.3",
+            "text": "[#!]Medium Iron Bundles[#]"
+          }
+        ]
       },
-      "Spanish": {
-        "overrideEntries": []
-      },
-      "Danish": {
-        "overrideEntries": []
-      },
-      "Finnish": {
-        "overrideEntries": []
-      },
-      "Norwegian": {
-        "overrideEntries": []
-      },
-      "Swedish": {
-        "overrideEntries": []
-      },
-      "Korean": {
-        "overrideEntries": []
-      },
-      "Japanese": {
-        "overrideEntries": []
-      },
-      "ChineseSimplified": {
-        "overrideEntries": []
+      "Polish": {
+        "overrideEntries": [
+          {
+            "key": "chest.bonus.disclaimer.reward.battleitem.5.single",
+            "text": "[#!]Battle Item 5*[#]"
+          },
+          {
+            "key": "chest.bonus.disclaimer.reward.battleitem.5",
+            "text": "[#!]Battle Items 5*[#]"
+          },
+          {
+            "key": "chest.bonus.disclaimer.reward.foodbundle.3.single",
+            "text": "[#!]Medium Food Bundle[#]"
+          },
+          {
+            "key": "chest.bonus.disclaimer.reward.foodbundle.3",
+            "text": "[#!]Medium Food Bundles[#]"
+          },
+          {
+            "key": "chest.bonus.disclaimer.reward.ironbundle.3.single",
+            "text": "[#!]Medium Iron Bundle[#]"
+          },
+          {
+            "key": "chest.bonus.disclaimer.reward.ironbundle.3",
+            "text": "[#!]Medium Iron Bundles[#]"
+          }
+        ]
       },
       "ChineseTraditional": {
-        "overrideEntries": []
+        "overrideEntries": [
+          {
+            "key": "chest.bonus.disclaimer.reward.battleitem.5.single",
+            "text": "[#!]Battle Item 5*[#]"
+          },
+          {
+            "key": "chest.bonus.disclaimer.reward.battleitem.5",
+            "text": "[#!]Battle Items 5*[#]"
+          },
+          {
+            "key": "chest.bonus.disclaimer.reward.foodbundle.3.single",
+            "text": "[#!]Medium Food Bundle[#]"
+          },
+          {
+            "key": "chest.bonus.disclaimer.reward.foodbundle.3",
+            "text": "[#!]Medium Food Bundles[#]"
+          },
+          {
+            "key": "chest.bonus.disclaimer.reward.ironbundle.3.single",
+            "text": "[#!]Medium Iron Bundle[#]"
+          },
+          {
+            "key": "chest.bonus.disclaimer.reward.ironbundle.3",
+            "text": "[#!]Medium Iron Bundles[#]"
+          }
+        ]
+      },
+      "Korean": {
+        "overrideEntries": [
+          {
+            "key": "chest.bonus.disclaimer.reward.battleitem.5.single",
+            "text": "[#!]Battle Item 5*[#]"
+          },
+          {
+            "key": "chest.bonus.disclaimer.reward.battleitem.5",
+            "text": "[#!]Battle Items 5*[#]"
+          },
+          {
+            "key": "chest.bonus.disclaimer.reward.foodbundle.3.single",
+            "text": "[#!]Medium Food Bundle[#]"
+          },
+          {
+            "key": "chest.bonus.disclaimer.reward.foodbundle.3",
+            "text": "[#!]Medium Food Bundles[#]"
+          },
+          {
+            "key": "chest.bonus.disclaimer.reward.ironbundle.3.single",
+            "text": "[#!]Medium Iron Bundle[#]"
+          },
+          {
+            "key": "chest.bonus.disclaimer.reward.ironbundle.3",
+            "text": "[#!]Medium Iron Bundles[#]"
+          }
+        ]
+      },
+      "German": {
+        "overrideEntries": [
+          {
+            "key": "chest.bonus.disclaimer.reward.battleitem.5.single",
+            "text": "[#!]Battle Item 5*[#]"
+          },
+          {
+            "key": "chest.bonus.disclaimer.reward.battleitem.5",
+            "text": "[#!]Battle Items 5*[#]"
+          },
+          {
+            "key": "chest.bonus.disclaimer.reward.foodbundle.3.single",
+            "text": "[#!]Medium Food Bundle[#]"
+          },
+          {
+            "key": "chest.bonus.disclaimer.reward.foodbundle.3",
+            "text": "[#!]Medium Food Bundles[#]"
+          },
+          {
+            "key": "chest.bonus.disclaimer.reward.ironbundle.3.single",
+            "text": "[#!]Medium Iron Bundle[#]"
+          },
+          {
+            "key": "chest.bonus.disclaimer.reward.ironbundle.3",
+            "text": "[#!]Medium Iron Bundles[#]"
+          }
+        ]
+      },
+      "Japanese": {
+        "overrideEntries": [
+          {
+            "key": "chest.bonus.disclaimer.reward.battleitem.5.single",
+            "text": "[#!]Battle Item 5*[#]"
+          },
+          {
+            "key": "chest.bonus.disclaimer.reward.battleitem.5",
+            "text": "[#!]Battle Items 5*[#]"
+          },
+          {
+            "key": "chest.bonus.disclaimer.reward.foodbundle.3.single",
+            "text": "[#!]Medium Food Bundle[#]"
+          },
+          {
+            "key": "chest.bonus.disclaimer.reward.foodbundle.3",
+            "text": "[#!]Medium Food Bundles[#]"
+          },
+          {
+            "key": "chest.bonus.disclaimer.reward.ironbundle.3.single",
+            "text": "[#!]Medium Iron Bundle[#]"
+          },
+          {
+            "key": "chest.bonus.disclaimer.reward.ironbundle.3",
+            "text": "[#!]Medium Iron Bundles[#]"
+          }
+        ]
+      },
+      "Swedish": {
+        "overrideEntries": [
+          {
+            "key": "chest.bonus.disclaimer.reward.battleitem.5.single",
+            "text": "[#!]Battle Item 5*[#]"
+          },
+          {
+            "key": "chest.bonus.disclaimer.reward.battleitem.5",
+            "text": "[#!]Battle Items 5*[#]"
+          },
+          {
+            "key": "chest.bonus.disclaimer.reward.foodbundle.3.single",
+            "text": "[#!]Medium Food Bundle[#]"
+          },
+          {
+            "key": "chest.bonus.disclaimer.reward.foodbundle.3",
+            "text": "[#!]Medium Food Bundles[#]"
+          },
+          {
+            "key": "chest.bonus.disclaimer.reward.ironbundle.3.single",
+            "text": "[#!]Medium Iron Bundle[#]"
+          },
+          {
+            "key": "chest.bonus.disclaimer.reward.ironbundle.3",
+            "text": "[#!]Medium Iron Bundles[#]"
+          }
+        ]
       },
       "Turkish": {
-        "overrideEntries": []
+        "overrideEntries": [
+          {
+            "key": "chest.bonus.disclaimer.reward.battleitem.5.single",
+            "text": "[#!]Battle Item 5*[#]"
+          },
+          {
+            "key": "chest.bonus.disclaimer.reward.battleitem.5",
+            "text": "[#!]Battle Items 5*[#]"
+          },
+          {
+            "key": "chest.bonus.disclaimer.reward.foodbundle.3.single",
+            "text": "[#!]Medium Food Bundle[#]"
+          },
+          {
+            "key": "chest.bonus.disclaimer.reward.foodbundle.3",
+            "text": "[#!]Medium Food Bundles[#]"
+          },
+          {
+            "key": "chest.bonus.disclaimer.reward.ironbundle.3.single",
+            "text": "[#!]Medium Iron Bundle[#]"
+          },
+          {
+            "key": "chest.bonus.disclaimer.reward.ironbundle.3",
+            "text": "[#!]Medium Iron Bundles[#]"
+          }
+        ]
+      },
+      "English": {
+        "overrideEntries": [
+          {
+            "key": "chest.bonus.disclaimer.reward.battleitem.5.single",
+            "text": "[#!]Battle Item 5*[#]"
+          },
+          {
+            "key": "chest.bonus.disclaimer.reward.battleitem.5",
+            "text": "[#!]Battle Items 5*[#]"
+          },
+          {
+            "key": "chest.bonus.disclaimer.reward.foodbundle.3.single",
+            "text": "[#!]Medium Food Bundle[#]"
+          },
+          {
+            "key": "chest.bonus.disclaimer.reward.foodbundle.3",
+            "text": "[#!]Medium Food Bundles[#]"
+          },
+          {
+            "key": "chest.bonus.disclaimer.reward.ironbundle.3.single",
+            "text": "[#!]Medium Iron Bundle[#]"
+          },
+          {
+            "key": "chest.bonus.disclaimer.reward.ironbundle.3",
+            "text": "[#!]Medium Iron Bundles[#]"
+          }
+        ]
       },
       "Arabic": {
-        "overrideEntries": []
+        "overrideEntries": [
+          {
+            "key": "chest.bonus.disclaimer.reward.battleitem.5.single",
+            "text": "[#!]Battle Item 5*[#]"
+          },
+          {
+            "key": "chest.bonus.disclaimer.reward.battleitem.5",
+            "text": "[#!]Battle Items 5*[#]"
+          },
+          {
+            "key": "chest.bonus.disclaimer.reward.foodbundle.3.single",
+            "text": "[#!]Medium Food Bundle[#]"
+          },
+          {
+            "key": "chest.bonus.disclaimer.reward.foodbundle.3",
+            "text": "[#!]Medium Food Bundles[#]"
+          },
+          {
+            "key": "chest.bonus.disclaimer.reward.ironbundle.3.single",
+            "text": "[#!]Medium Iron Bundle[#]"
+          },
+          {
+            "key": "chest.bonus.disclaimer.reward.ironbundle.3",
+            "text": "[#!]Medium Iron Bundles[#]"
+          }
+        ]
+      },
+      "French": {
+        "overrideEntries": [
+          {
+            "key": "chest.bonus.disclaimer.reward.battleitem.5.single",
+            "text": "[#!]Battle Item 5*[#]"
+          },
+          {
+            "key": "chest.bonus.disclaimer.reward.battleitem.5",
+            "text": "[#!]Battle Items 5*[#]"
+          },
+          {
+            "key": "chest.bonus.disclaimer.reward.foodbundle.3.single",
+            "text": "[#!]Medium Food Bundle[#]"
+          },
+          {
+            "key": "chest.bonus.disclaimer.reward.foodbundle.3",
+            "text": "[#!]Medium Food Bundles[#]"
+          },
+          {
+            "key": "chest.bonus.disclaimer.reward.ironbundle.3.single",
+            "text": "[#!]Medium Iron Bundle[#]"
+          },
+          {
+            "key": "chest.bonus.disclaimer.reward.ironbundle.3",
+            "text": "[#!]Medium Iron Bundles[#]"
+          }
+        ]
+      },
+      "Portuguese": {
+        "overrideEntries": [
+          {
+            "key": "chest.bonus.disclaimer.reward.battleitem.5.single",
+            "text": "[#!]Battle Item 5*[#]"
+          },
+          {
+            "key": "chest.bonus.disclaimer.reward.battleitem.5",
+            "text": "[#!]Battle Items 5*[#]"
+          },
+          {
+            "key": "chest.bonus.disclaimer.reward.foodbundle.3.single",
+            "text": "[#!]Medium Food Bundle[#]"
+          },
+          {
+            "key": "chest.bonus.disclaimer.reward.foodbundle.3",
+            "text": "[#!]Medium Food Bundles[#]"
+          },
+          {
+            "key": "chest.bonus.disclaimer.reward.ironbundle.3.single",
+            "text": "[#!]Medium Iron Bundle[#]"
+          },
+          {
+            "key": "chest.bonus.disclaimer.reward.ironbundle.3",
+            "text": "[#!]Medium Iron Bundles[#]"
+          }
+        ]
+      },
+      "Indonesian": {
+        "overrideEntries": [
+          {
+            "key": "chest.bonus.disclaimer.reward.battleitem.5.single",
+            "text": "[#!]Battle Item 5*[#]"
+          },
+          {
+            "key": "chest.bonus.disclaimer.reward.battleitem.5",
+            "text": "[#!]Battle Items 5*[#]"
+          },
+          {
+            "key": "chest.bonus.disclaimer.reward.foodbundle.3.single",
+            "text": "[#!]Medium Food Bundle[#]"
+          },
+          {
+            "key": "chest.bonus.disclaimer.reward.foodbundle.3",
+            "text": "[#!]Medium Food Bundles[#]"
+          },
+          {
+            "key": "chest.bonus.disclaimer.reward.ironbundle.3.single",
+            "text": "[#!]Medium Iron Bundle[#]"
+          },
+          {
+            "key": "chest.bonus.disclaimer.reward.ironbundle.3",
+            "text": "[#!]Medium Iron Bundles[#]"
+          }
+        ]
+      },
+      "Finnish": {
+        "overrideEntries": [
+          {
+            "key": "chest.bonus.disclaimer.reward.battleitem.5.single",
+            "text": "[#!]Battle Item 5*[#]"
+          },
+          {
+            "key": "chest.bonus.disclaimer.reward.battleitem.5",
+            "text": "[#!]Battle Items 5*[#]"
+          },
+          {
+            "key": "chest.bonus.disclaimer.reward.foodbundle.3.single",
+            "text": "[#!]Medium Food Bundle[#]"
+          },
+          {
+            "key": "chest.bonus.disclaimer.reward.foodbundle.3",
+            "text": "[#!]Medium Food Bundles[#]"
+          },
+          {
+            "key": "chest.bonus.disclaimer.reward.ironbundle.3.single",
+            "text": "[#!]Medium Iron Bundle[#]"
+          },
+          {
+            "key": "chest.bonus.disclaimer.reward.ironbundle.3",
+            "text": "[#!]Medium Iron Bundles[#]"
+          }
+        ]
+      },
+      "Danish": {
+        "overrideEntries": [
+          {
+            "key": "chest.bonus.disclaimer.reward.battleitem.5.single",
+            "text": "[#!]Battle Item 5*[#]"
+          },
+          {
+            "key": "chest.bonus.disclaimer.reward.battleitem.5",
+            "text": "[#!]Battle Items 5*[#]"
+          },
+          {
+            "key": "chest.bonus.disclaimer.reward.foodbundle.3.single",
+            "text": "[#!]Medium Food Bundle[#]"
+          },
+          {
+            "key": "chest.bonus.disclaimer.reward.foodbundle.3",
+            "text": "[#!]Medium Food Bundles[#]"
+          },
+          {
+            "key": "chest.bonus.disclaimer.reward.ironbundle.3.single",
+            "text": "[#!]Medium Iron Bundle[#]"
+          },
+          {
+            "key": "chest.bonus.disclaimer.reward.ironbundle.3",
+            "text": "[#!]Medium Iron Bundles[#]"
+          }
+        ]
+      },
+      "Spanish": {
+        "overrideEntries": [
+          {
+            "key": "chest.bonus.disclaimer.reward.battleitem.5.single",
+            "text": "[#!]Battle Item 5*[#]"
+          },
+          {
+            "key": "chest.bonus.disclaimer.reward.battleitem.5",
+            "text": "[#!]Battle Items 5*[#]"
+          },
+          {
+            "key": "chest.bonus.disclaimer.reward.foodbundle.3.single",
+            "text": "[#!]Medium Food Bundle[#]"
+          },
+          {
+            "key": "chest.bonus.disclaimer.reward.foodbundle.3",
+            "text": "[#!]Medium Food Bundles[#]"
+          },
+          {
+            "key": "chest.bonus.disclaimer.reward.ironbundle.3.single",
+            "text": "[#!]Medium Iron Bundle[#]"
+          },
+          {
+            "key": "chest.bonus.disclaimer.reward.ironbundle.3",
+            "text": "[#!]Medium Iron Bundles[#]"
+          }
+        ]
+      },
+      "Norwegian": {
+        "overrideEntries": [
+          {
+            "key": "chest.bonus.disclaimer.reward.battleitem.5.single",
+            "text": "[#!]Battle Item 5*[#]"
+          },
+          {
+            "key": "chest.bonus.disclaimer.reward.battleitem.5",
+            "text": "[#!]Battle Items 5*[#]"
+          },
+          {
+            "key": "chest.bonus.disclaimer.reward.foodbundle.3.single",
+            "text": "[#!]Medium Food Bundle[#]"
+          },
+          {
+            "key": "chest.bonus.disclaimer.reward.foodbundle.3",
+            "text": "[#!]Medium Food Bundles[#]"
+          },
+          {
+            "key": "chest.bonus.disclaimer.reward.ironbundle.3.single",
+            "text": "[#!]Medium Iron Bundle[#]"
+          },
+          {
+            "key": "chest.bonus.disclaimer.reward.ironbundle.3",
+            "text": "[#!]Medium Iron Bundles[#]"
+          }
+        ]
+      },
+      "Dutch": {
+        "overrideEntries": [
+          {
+            "key": "chest.bonus.disclaimer.reward.battleitem.5.single",
+            "text": "[#!]Battle Item 5*[#]"
+          },
+          {
+            "key": "chest.bonus.disclaimer.reward.battleitem.5",
+            "text": "[#!]Battle Items 5*[#]"
+          },
+          {
+            "key": "chest.bonus.disclaimer.reward.foodbundle.3.single",
+            "text": "[#!]Medium Food Bundle[#]"
+          },
+          {
+            "key": "chest.bonus.disclaimer.reward.foodbundle.3",
+            "text": "[#!]Medium Food Bundles[#]"
+          },
+          {
+            "key": "chest.bonus.disclaimer.reward.ironbundle.3.single",
+            "text": "[#!]Medium Iron Bundle[#]"
+          },
+          {
+            "key": "chest.bonus.disclaimer.reward.ironbundle.3",
+            "text": "[#!]Medium Iron Bundles[#]"
+          }
+        ]
+      },
+      "ChineseSimplified": {
+        "overrideEntries": [
+          {
+            "key": "chest.bonus.disclaimer.reward.battleitem.5.single",
+            "text": "[#!]Battle Item 5*[#]"
+          },
+          {
+            "key": "chest.bonus.disclaimer.reward.battleitem.5",
+            "text": "[#!]Battle Items 5*[#]"
+          },
+          {
+            "key": "chest.bonus.disclaimer.reward.foodbundle.3.single",
+            "text": "[#!]Medium Food Bundle[#]"
+          },
+          {
+            "key": "chest.bonus.disclaimer.reward.foodbundle.3",
+            "text": "[#!]Medium Food Bundles[#]"
+          },
+          {
+            "key": "chest.bonus.disclaimer.reward.ironbundle.3.single",
+            "text": "[#!]Medium Iron Bundle[#]"
+          },
+          {
+            "key": "chest.bonus.disclaimer.reward.ironbundle.3",
+            "text": "[#!]Medium Iron Bundles[#]"
+          }
+        ]
       }
     }
   },
-  "languageOverridesConfigId": 1744595863
+  "languageOverridesConfigId": 2375107633
 }

@@ -14575,5 +14575,15 @@ const allTranslations =
         "originalIndex": 1506,
         "name": "Horghall Glass",
         "effects": []
+    },
+    {
+        "originalIndex": 1507,
+        "name": "Khatrox",
+        "effects": []
+    },
+    {
+        "originalIndex": 1508,
+        "name": "Prof. Morryster",
+        "effects": []
     }
 ];

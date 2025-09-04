@@ -7988,7 +7988,7 @@ window.allHeroes =
             "Damage Reducers",
             "Negative Effects On Self Or Allies"
         ],
-        "source": "Mystery - Shadow Summon",
+        "source": "Shadow Summon",
         "Release date": "2025-03-06",
         "specialId": "petrifying_knuckles",
         "passiveSkills": null,
@@ -11504,7 +11504,7 @@ window.allHeroes =
             "Taunters",
             "Negative Effects On Self Or Allies"
         ],
-        "source": "Mystery - Shadow Summon",
+        "source": "Shadow Summon",
         "Release date": "2025-06-10",
         "specialId": "eye_of_yog-sir",
         "passiveSkills": null,
@@ -17012,7 +17012,7 @@ window.allHeroes =
             "Negative Effects On Self Or Allies",
             "Damage Reducers"
         ],
-        "source": "Mystery - Shadow Summon",
+        "source": "Shadow Summon",
         "Release date": "2025-07-08",
         "specialId": "deranged_existence",
         "passiveSkills": null,
@@ -28703,7 +28703,7 @@ window.allHeroes =
             "Immunity Providers",
             "Negative Effects On Self Or Allies"
         ],
-        "source": "Mystery - Shadow Summon",
+        "source": "Shadow Summon",
         "Release date": "2024-04-11",
         "specialId": "jewel_of_the_deep",
         "passiveSkills": [
@@ -37424,7 +37424,7 @@ window.allHeroes =
             "Dodgers",
             "Negative Effects On Self Or Allies"
         ],
-        "source": "Mystery - Shadow Summon",
+        "source": "Shadow Summon",
         "Release date": "2025-02-06",
         "specialId": "cut_cure_and_craze",
         "passiveSkills": null,
@@ -41132,7 +41132,7 @@ window.allHeroes =
             "Snipers",
             "Negative Effects On Self Or Allies"
         ],
-        "source": "Mystery - Shadow Summon",
+        "source": "Shadow Summon",
         "Release date": "2024-06-30",
         "specialId": "darts_of_the_deep",
         "passiveSkills": [
@@ -47196,7 +47196,7 @@ window.allHeroes =
             "AoE Attackers (Hit-5)",
             "Negative Effects On Self Or Allies"
         ],
-        "source": "Mystery - Shadow Summon",
+        "source": "Shadow Summon",
         "Release date": "2025-01-09",
         "specialId": "lantern_of_insanity",
         "passiveSkills": null,
@@ -48922,7 +48922,7 @@ window.allHeroes =
             "Cleanse Blockers",
             "Negative Effects On Self Or Allies"
         ],
-        "source": "Mystery - Shadow Summon",
+        "source": "Shadow Summon",
         "Release date": "2025-05-13",
         "specialId": "necronomicon_page_13",
         "passiveSkills": null,
@@ -53124,7 +53124,7 @@ window.allHeroes =
             "Snipers",
             "Negative Effects On Self Or Allies"
         ],
-        "source": "Mystery - Shadow Summon",
+        "source": "Shadow Summon",
         "Release date": "2024-06-04",
         "specialId": "merciless_execution",
         "passiveSkills": [
@@ -56052,7 +56052,7 @@ window.allHeroes =
             "DoT Attackers",
             "Negative Effects On Self Or Allies"
         ],
-        "source": "Mystery - Shadow Summon",
+        "source": "Shadow Summon",
         "Release date": "2024-05-01",
         "specialId": "grim_awakening",
         "passiveSkills": [
@@ -69126,7 +69126,7 @@ window.allHeroes =
             "DoT Attackers",
             "Negative Effects On Self Or Allies"
         ],
-        "source": "Mystery - Shadow Summon",
+        "source": "Shadow Summon",
         "Release date": "2024-05-26",
         "specialId": "whispers_of_xulu",
         "passiveSkills": [
@@ -72941,10 +72941,10 @@ window.allHeroes =
         "costumeBonusPassiveSkillIds": null,
         "heroId": "elemental_doxan_costume_hacker",
         "star": 5,
-        "power": 1135,
-        "attack": 1141,
-        "defense": 1070,
-        "health": 2224,
+        "power": 1232,
+        "attack": 1239,
+        "defense": 1164,
+        "health": 2483,
         "effects": [
             "Deals 550% damage to the target and minor damage to all Nature enemies.",
             "The target and all Nature enemies receive 1504 Burn damage over 4 turns."
@@ -72960,16 +72960,16 @@ window.allHeroes =
         "costume_id": 1,
         "originalIndex": 1062,
         "lb1": {
-            "power": 1213,
-            "attack": 1230,
-            "defense": 1153,
-            "health": 2397
+            "power": 1317,
+            "attack": 1334,
+            "defense": 1253,
+            "health": 2674
         },
         "lb2": {
-            "power": 1371,
-            "attack": 1408,
-            "defense": 1319,
-            "health": 2743
+            "power": 1490,
+            "attack": 1528,
+            "defense": 1436,
+            "health": 3063
         },
         "cn_skill_info": [
             {
@@ -79597,7 +79597,7 @@ window.allHeroes =
             "DoT Attackers",
             "Negative Effects On Self Or Allies"
         ],
-        "source": "Mystery - Shadow Summon",
+        "source": "Shadow Summon",
         "Release date": "2024-04-21",
         "specialId": "ritual_of_the_deep",
         "passiveSkills": [
@@ -80413,7 +80413,7 @@ window.allHeroes =
             "Snipers",
             "Negative Effects On Self Or Allies"
         ],
-        "source": "Mystery - Shadow Summon",
+        "source": "Shadow Summon",
         "Release date": "2024-07-18",
         "specialId": "cuts_of_hulu",
         "passiveSkills": [
@@ -81039,7 +81039,7 @@ window.allHeroes =
             "Chain & Random Attackers",
             "Negative Effects On Self Or Allies"
         ],
-        "source": "Mystery - Shadow Summon",
+        "source": "Shadow Summon",
         "Release date": "2025-04-03",
         "specialId": "last_words",
         "passiveSkills": null,
@@ -85174,7 +85174,7 @@ window.allHeroes =
             "Chain & Random Attackers",
             "Negative Effects On Self Or Allies"
         ],
-        "source": "Mystery - Shadow Summon",
+        "source": "Shadow Summon",
         "Release date": "2025-01-09",
         "specialId": "brain_link",
         "passiveSkills": null,
@@ -92727,7 +92727,7 @@ window.allHeroes =
             "Stacking Heroes",
             "Negative Effects On Self Or Allies"
         ],
-        "source": "Mystery - Shadow Summon",
+        "source": "Shadow Summon",
         "Release date": "2024-05-17",
         "specialId": "yellow_signs",
         "passiveSkills": [
@@ -94710,7 +94710,7 @@ window.allHeroes =
             "AoE Attackers (Hit-5)",
             "Revivers"
         ],
-        "source": "Mystery - Shadow Summon",
+        "source": "Shadow Summon",
         "Release date": "2025-07-29",
         "specialId": "essence_of_queen_nitocris",
         "passiveSkills": null,
@@ -103409,7 +103409,7 @@ window.allHeroes =
             "Buff Stealers",
             "Negative Effects On Self Or Allies"
         ],
-        "source": "Mystery - Shadow Summon",
+        "source": "Shadow Summon",
         "Release date": "2025-01-09",
         "specialId": "eldritch_sign_bolts",
         "passiveSkills": null,
@@ -104291,6 +104291,110 @@ window.allHeroes =
         "family": "classic",
         "costume_id": 4,
         "originalIndex": 1506,
+        "cn_skill_info": []
+    },
+    {
+        "name": "Khatrox",
+        "fancy_name": "Blighted Bruiser",
+        "AetherPower": "",
+        "color": "Green",
+        "class": "",
+        "speed": "",
+        "skill": "",
+        "types": [],
+        "skill_types": [],
+        "source": "",
+        "Release date": "",
+        "specialId": "",
+        "heroId": "forsaken_khatrox",
+        "star": 5,
+        "power": null,
+        "attack": null,
+        "defense": null,
+        "health": null,
+        "effects": [],
+        "passives": [],
+        "family": "forsaken",
+        "costume_id": 0,
+        "originalIndex": 1507,
+        "cn_skill_info": []
+    },
+    {
+        "name": "Prof. Morryster",
+        "fancy_name": "The Masked Savant",
+        "AetherPower": "",
+        "color": "Purple",
+        "class": "",
+        "speed": "",
+        "skill": "",
+        "types": [],
+        "skill_types": [],
+        "source": "",
+        "Release date": "",
+        "specialId": "",
+        "heroId": "institute_professor_morryster",
+        "star": 5,
+        "power": null,
+        "attack": null,
+        "defense": null,
+        "health": null,
+        "effects": [],
+        "passives": [],
+        "family": "institute",
+        "costume_id": 0,
+        "originalIndex": 1508,
+        "cn_skill_info": []
+    },
+    {
+        "name": "Iron-Heart",
+        "fancy_name": "Holy Guardian Construct",
+        "AetherPower": "",
+        "color": "Yellow",
+        "class": "",
+        "speed": "",
+        "skill": "",
+        "types": [],
+        "skill_types": [],
+        "source": "",
+        "Release date": "",
+        "specialId": "",
+        "heroId": "construct_ironheart",
+        "star": 5,
+        "power": null,
+        "attack": null,
+        "defense": null,
+        "health": null,
+        "effects": [],
+        "passives": [],
+        "family": "construct",
+        "costume_id": 0,
+        "originalIndex": 1509,
+        "cn_skill_info": []
+    },
+    {
+        "name": "Gardered",
+        "fancy_name": "The Daremoth",
+        "AetherPower": "",
+        "color": "Red",
+        "class": "",
+        "speed": "",
+        "skill": "",
+        "types": [],
+        "skill_types": [],
+        "source": "",
+        "Release date": "",
+        "specialId": "",
+        "heroId": "moth_gardered",
+        "star": 5,
+        "power": null,
+        "attack": null,
+        "defense": null,
+        "health": null,
+        "effects": [],
+        "passives": [],
+        "family": "moths",
+        "costume_id": 0,
+        "originalIndex": 1510,
         "cn_skill_info": []
     }
 ];

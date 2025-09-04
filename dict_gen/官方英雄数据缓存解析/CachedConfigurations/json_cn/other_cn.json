@@ -2769,11 +2769,11 @@
             "eventBundle": "bundle_challenge_1",
             "eventOffer": "alliancequestoffer",
             "eventEndingOffer": "",
-            "advertisedHero": "moth_mortewitch",
+            "advertisedHero": "moth_gardered",
             "featuredHeroes": [
-              "死亡女巫",
-              "萨丁皮门特",
-              "淳绮罗翼"
+              "加德瑞德",
+              "格罗沃特",
+              "萨丁皮门特"
             ],
             "eventBonus": "event_hero_bonus_alliance_quest",
             "startTime": "2025-09-11 07:00:00",
@@ -44153,8 +44153,8 @@
                 "requiredPoints": 625,
                 "premiumReward": {
                   "type": "Item",
-                  "id": "lottery_silver_dragon_coin",
-                  "amount": 300
+                  "id": "lottery_elite_dragon",
+                  "amount": 1
                 },
                 "freeReward": {
                   "type": "Item",
@@ -44218,13 +44218,13 @@
                 "requiredPoints": 1900,
                 "premiumReward": {
                   "type": "Item",
-                  "id": "refill_dragonstone_giant",
-                  "amount": 3
+                  "id": "dragon_rainbow_chalice",
+                  "amount": 1
                 },
                 "freeReward": {
                   "type": "Item",
-                  "id": "refill_dragonstone_giant",
-                  "amount": 1
+                  "id": "dragon_feathered_headdress",
+                  "amount": 2
                 }
               },
               {
@@ -44283,8 +44283,8 @@
                 "requiredPoints": 4275,
                 "premiumReward": {
                   "type": "Item",
-                  "id": "lottery_silver_dragon_coin",
-                  "amount": 300
+                  "id": "lottery_elite_dragon",
+                  "amount": 1
                 },
                 "freeReward": {
                   "type": "Item",
@@ -44348,8 +44348,8 @@
                 "requiredPoints": 7900,
                 "premiumReward": {
                   "type": "Item",
-                  "id": "lottery_silver_dragon_coin",
-                  "amount": 300
+                  "id": "lottery_elite_dragon",
+                  "amount": 1
                 },
                 "freeReward": {
                   "type": "Item",
@@ -44375,7 +44375,7 @@
                 "premiumReward": {
                   "type": "Item",
                   "id": "dragon_ornate_headdress",
-                  "amount": 1
+                  "amount": 2
                 },
                 "freeReward": {
                   "type": "Item",
@@ -44413,8 +44413,8 @@
                 "requiredPoints": 12775,
                 "premiumReward": {
                   "type": "Item",
-                  "id": "lottery_elite_dragon",
-                  "amount": 4
+                  "id": "lottery_ancient_dragon_coin",
+                  "amount": 200
                 },
                 "freeReward": {
                   "type": "Item",
@@ -44937,8 +44937,8 @@
                 "requiredPoints": 625,
                 "premiumReward": {
                   "type": "Item",
-                  "id": "lottery_silver_dragon_coin",
-                  "amount": 300
+                  "id": "lottery_elite_dragon",
+                  "amount": 1
                 },
                 "freeReward": {
                   "type": "Item",
@@ -45002,13 +45002,13 @@
                 "requiredPoints": 1900,
                 "premiumReward": {
                   "type": "Item",
-                  "id": "refill_dragonstone_giant",
-                  "amount": 3
+                  "id": "dragon_rainbow_chalice",
+                  "amount": 1
                 },
                 "freeReward": {
                   "type": "Item",
-                  "id": "refill_dragonstone_giant",
-                  "amount": 1
+                  "id": "dragon_feathered_headdress",
+                  "amount": 2
                 }
               },
               {
@@ -45067,8 +45067,8 @@
                 "requiredPoints": 4275,
                 "premiumReward": {
                   "type": "Item",
-                  "id": "lottery_silver_dragon_coin",
-                  "amount": 300
+                  "id": "lottery_elite_dragon",
+                  "amount": 1
                 },
                 "freeReward": {
                   "type": "Item",
@@ -45132,8 +45132,8 @@
                 "requiredPoints": 7900,
                 "premiumReward": {
                   "type": "Item",
-                  "id": "lottery_silver_dragon_coin",
-                  "amount": 300
+                  "id": "lottery_elite_dragon",
+                  "amount": 1
                 },
                 "freeReward": {
                   "type": "Item",
@@ -45159,7 +45159,7 @@
                 "premiumReward": {
                   "type": "Item",
                   "id": "dragon_ornate_headdress",
-                  "amount": 1
+                  "amount": 2
                 },
                 "freeReward": {
                   "type": "Item",
@@ -45197,8 +45197,8 @@
                 "requiredPoints": 12775,
                 "premiumReward": {
                   "type": "Item",
-                  "id": "lottery_elite_dragon",
-                  "amount": 4
+                  "id": "lottery_ancient_dragon_coin",
+                  "amount": 200
                 },
                 "freeReward": {
                   "type": "Item",
@@ -45329,8 +45329,8 @@
                 "requiredPoints": 625,
                 "premiumReward": {
                   "type": "Item",
-                  "id": "lottery_silver_dragon_coin",
-                  "amount": 300
+                  "id": "lottery_elite_dragon",
+                  "amount": 1
                 },
                 "freeReward": {
                   "type": "Item",
@@ -45394,13 +45394,13 @@
                 "requiredPoints": 1900,
                 "premiumReward": {
                   "type": "Item",
-                  "id": "refill_dragonstone_giant",
-                  "amount": 3
+                  "id": "dragon_dragonstone_pendant",
+                  "amount": 1
                 },
                 "freeReward": {
                   "type": "Item",
-                  "id": "refill_dragonstone_giant",
-                  "amount": 1
+                  "id": "dragon_feathered_headdress",
+                  "amount": 2
                 }
               },
               {
@@ -45459,8 +45459,8 @@
                 "requiredPoints": 4275,
                 "premiumReward": {
                   "type": "Item",
-                  "id": "lottery_silver_dragon_coin",
-                  "amount": 300
+                  "id": "lottery_elite_dragon",
+                  "amount": 1
                 },
                 "freeReward": {
                   "type": "Item",
@@ -45524,8 +45524,8 @@
                 "requiredPoints": 7900,
                 "premiumReward": {
                   "type": "Item",
-                  "id": "lottery_silver_dragon_coin",
-                  "amount": 300
+                  "id": "lottery_elite_dragon",
+                  "amount": 1
                 },
                 "freeReward": {
                   "type": "Item",
@@ -45551,7 +45551,7 @@
                 "premiumReward": {
                   "type": "Item",
                   "id": "dragon_ornate_headdress",
-                  "amount": 1
+                  "amount": 2
                 },
                 "freeReward": {
                   "type": "Item",
@@ -45589,8 +45589,8 @@
                 "requiredPoints": 12775,
                 "premiumReward": {
                   "type": "Item",
-                  "id": "lottery_elite_dragon",
-                  "amount": 4
+                  "id": "lottery_ancient_dragon_coin",
+                  "amount": 200
                 },
                 "freeReward": {
                   "type": "Item",
@@ -45721,8 +45721,8 @@
                 "requiredPoints": 625,
                 "premiumReward": {
                   "type": "Item",
-                  "id": "lottery_silver_dragon_coin",
-                  "amount": 300
+                  "id": "lottery_elite_dragon",
+                  "amount": 1
                 },
                 "freeReward": {
                   "type": "Item",
@@ -45786,13 +45786,13 @@
                 "requiredPoints": 1900,
                 "premiumReward": {
                   "type": "Item",
-                  "id": "refill_dragonstone_giant",
-                  "amount": 3
+                  "id": "dragon_rainbow_chalice",
+                  "amount": 1
                 },
                 "freeReward": {
                   "type": "Item",
-                  "id": "refill_dragonstone_giant",
-                  "amount": 1
+                  "id": "dragon_feathered_headdress",
+                  "amount": 2
                 }
               },
               {
@@ -45851,8 +45851,8 @@
                 "requiredPoints": 4275,
                 "premiumReward": {
                   "type": "Item",
-                  "id": "lottery_silver_dragon_coin",
-                  "amount": 300
+                  "id": "lottery_elite_dragon",
+                  "amount": 1
                 },
                 "freeReward": {
                   "type": "Item",
@@ -45916,8 +45916,8 @@
                 "requiredPoints": 7900,
                 "premiumReward": {
                   "type": "Item",
-                  "id": "lottery_silver_dragon_coin",
-                  "amount": 300
+                  "id": "lottery_elite_dragon",
+                  "amount": 1
                 },
                 "freeReward": {
                   "type": "Item",
@@ -45943,7 +45943,7 @@
                 "premiumReward": {
                   "type": "Item",
                   "id": "dragon_ornate_headdress",
-                  "amount": 1
+                  "amount": 2
                 },
                 "freeReward": {
                   "type": "Item",
@@ -45981,8 +45981,8 @@
                 "requiredPoints": 12775,
                 "premiumReward": {
                   "type": "Item",
-                  "id": "lottery_elite_dragon",
-                  "amount": 4
+                  "id": "lottery_ancient_dragon_coin",
+                  "amount": 200
                 },
                 "freeReward": {
                   "type": "Item",
@@ -46113,8 +46113,8 @@
                 "requiredPoints": 625,
                 "premiumReward": {
                   "type": "Item",
-                  "id": "lottery_silver_dragon_coin",
-                  "amount": 300
+                  "id": "lottery_elite_dragon",
+                  "amount": 1
                 },
                 "freeReward": {
                   "type": "Item",
@@ -46178,13 +46178,13 @@
                 "requiredPoints": 1900,
                 "premiumReward": {
                   "type": "Item",
-                  "id": "refill_dragonstone_giant",
-                  "amount": 3
+                  "id": "dragon_dragonstone_pendant",
+                  "amount": 1
                 },
                 "freeReward": {
                   "type": "Item",
-                  "id": "refill_dragonstone_giant",
-                  "amount": 1
+                  "id": "dragon_feathered_headdress",
+                  "amount": 2
                 }
               },
               {
@@ -46243,8 +46243,8 @@
                 "requiredPoints": 4275,
                 "premiumReward": {
                   "type": "Item",
-                  "id": "lottery_silver_dragon_coin",
-                  "amount": 300
+                  "id": "lottery_elite_dragon",
+                  "amount": 1
                 },
                 "freeReward": {
                   "type": "Item",
@@ -46308,8 +46308,8 @@
                 "requiredPoints": 7900,
                 "premiumReward": {
                   "type": "Item",
-                  "id": "lottery_silver_dragon_coin",
-                  "amount": 300
+                  "id": "lottery_elite_dragon",
+                  "amount": 1
                 },
                 "freeReward": {
                   "type": "Item",
@@ -46335,7 +46335,7 @@
                 "premiumReward": {
                   "type": "Item",
                   "id": "dragon_ornate_headdress",
-                  "amount": 1
+                  "amount": 2
                 },
                 "freeReward": {
                   "type": "Item",
@@ -46373,8 +46373,8 @@
                 "requiredPoints": 12775,
                 "premiumReward": {
                   "type": "Item",
-                  "id": "lottery_elite_dragon",
-                  "amount": 4
+                  "id": "lottery_ancient_dragon_coin",
+                  "amount": 200
                 },
                 "freeReward": {
                   "type": "Item",
@@ -46505,8 +46505,8 @@
                 "requiredPoints": 625,
                 "premiumReward": {
                   "type": "Item",
-                  "id": "lottery_silver_dragon_coin",
-                  "amount": 300
+                  "id": "lottery_elite_dragon",
+                  "amount": 1
                 },
                 "freeReward": {
                   "type": "Item",
@@ -46570,13 +46570,13 @@
                 "requiredPoints": 1900,
                 "premiumReward": {
                   "type": "Item",
-                  "id": "refill_dragonstone_giant",
-                  "amount": 3
+                  "id": "dragon_rainbow_chalice",
+                  "amount": 1
                 },
                 "freeReward": {
                   "type": "Item",
-                  "id": "refill_dragonstone_giant",
-                  "amount": 1
+                  "id": "dragon_feathered_headdress",
+                  "amount": 2
                 }
               },
               {
@@ -46635,8 +46635,8 @@
                 "requiredPoints": 4275,
                 "premiumReward": {
                   "type": "Item",
-                  "id": "lottery_silver_dragon_coin",
-                  "amount": 300
+                  "id": "lottery_elite_dragon",
+                  "amount": 1
                 },
                 "freeReward": {
                   "type": "Item",
@@ -46700,8 +46700,8 @@
                 "requiredPoints": 7900,
                 "premiumReward": {
                   "type": "Item",
-                  "id": "lottery_silver_dragon_coin",
-                  "amount": 300
+                  "id": "lottery_elite_dragon",
+                  "amount": 1
                 },
                 "freeReward": {
                   "type": "Item",
@@ -46727,7 +46727,7 @@
                 "premiumReward": {
                   "type": "Item",
                   "id": "dragon_ornate_headdress",
-                  "amount": 1
+                  "amount": 2
                 },
                 "freeReward": {
                   "type": "Item",
@@ -46765,8 +46765,8 @@
                 "requiredPoints": 12775,
                 "premiumReward": {
                   "type": "Item",
-                  "id": "lottery_elite_dragon",
-                  "amount": 4
+                  "id": "lottery_ancient_dragon_coin",
+                  "amount": 200
                 },
                 "freeReward": {
                   "type": "Item",
@@ -46897,8 +46897,8 @@
                 "requiredPoints": 625,
                 "premiumReward": {
                   "type": "Item",
-                  "id": "lottery_silver_dragon_coin",
-                  "amount": 300
+                  "id": "lottery_elite_dragon",
+                  "amount": 1
                 },
                 "freeReward": {
                   "type": "Item",
@@ -46962,13 +46962,13 @@
                 "requiredPoints": 1900,
                 "premiumReward": {
                   "type": "Item",
-                  "id": "refill_dragonstone_giant",
-                  "amount": 3
+                  "id": "dragon_dragonstone_pendant",
+                  "amount": 1
                 },
                 "freeReward": {
                   "type": "Item",
-                  "id": "refill_dragonstone_giant",
-                  "amount": 1
+                  "id": "dragon_feathered_headdress",
+                  "amount": 2
                 }
               },
               {
@@ -47027,8 +47027,8 @@
                 "requiredPoints": 4275,
                 "premiumReward": {
                   "type": "Item",
-                  "id": "lottery_silver_dragon_coin",
-                  "amount": 300
+                  "id": "lottery_elite_dragon",
+                  "amount": 1
                 },
                 "freeReward": {
                   "type": "Item",
@@ -47092,8 +47092,8 @@
                 "requiredPoints": 7900,
                 "premiumReward": {
                   "type": "Item",
-                  "id": "lottery_silver_dragon_coin",
-                  "amount": 300
+                  "id": "lottery_elite_dragon",
+                  "amount": 1
                 },
                 "freeReward": {
                   "type": "Item",
@@ -47119,7 +47119,7 @@
                 "premiumReward": {
                   "type": "Item",
                   "id": "dragon_ornate_headdress",
-                  "amount": 1
+                  "amount": 2
                 },
                 "freeReward": {
                   "type": "Item",
@@ -47157,8 +47157,8 @@
                 "requiredPoints": 12775,
                 "premiumReward": {
                   "type": "Item",
-                  "id": "lottery_elite_dragon",
-                  "amount": 4
+                  "id": "lottery_ancient_dragon_coin",
+                  "amount": 200
                 },
                 "freeReward": {
                   "type": "Item",
@@ -47289,8 +47289,8 @@
                 "requiredPoints": 625,
                 "premiumReward": {
                   "type": "Item",
-                  "id": "lottery_silver_dragon_coin",
-                  "amount": 300
+                  "id": "lottery_elite_dragon",
+                  "amount": 1
                 },
                 "freeReward": {
                   "type": "Item",
@@ -47354,13 +47354,13 @@
                 "requiredPoints": 1900,
                 "premiumReward": {
                   "type": "Item",
-                  "id": "refill_dragonstone_giant",
-                  "amount": 3
+                  "id": "dragon_rainbow_chalice",
+                  "amount": 1
                 },
                 "freeReward": {
                   "type": "Item",
-                  "id": "refill_dragonstone_giant",
-                  "amount": 1
+                  "id": "dragon_feathered_headdress",
+                  "amount": 2
                 }
               },
               {
@@ -47419,8 +47419,8 @@
                 "requiredPoints": 4275,
                 "premiumReward": {
                   "type": "Item",
-                  "id": "lottery_silver_dragon_coin",
-                  "amount": 300
+                  "id": "lottery_elite_dragon",
+                  "amount": 1
                 },
                 "freeReward": {
                   "type": "Item",
@@ -47484,8 +47484,8 @@
                 "requiredPoints": 7900,
                 "premiumReward": {
                   "type": "Item",
-                  "id": "lottery_silver_dragon_coin",
-                  "amount": 300
+                  "id": "lottery_elite_dragon",
+                  "amount": 1
                 },
                 "freeReward": {
                   "type": "Item",
@@ -47511,7 +47511,7 @@
                 "premiumReward": {
                   "type": "Item",
                   "id": "dragon_ornate_headdress",
-                  "amount": 1
+                  "amount": 2
                 },
                 "freeReward": {
                   "type": "Item",
@@ -47549,8 +47549,8 @@
                 "requiredPoints": 12775,
                 "premiumReward": {
                   "type": "Item",
-                  "id": "lottery_elite_dragon",
-                  "amount": 4
+                  "id": "lottery_ancient_dragon_coin",
+                  "amount": 200
                 },
                 "freeReward": {
                   "type": "Item",
@@ -47681,8 +47681,8 @@
                 "requiredPoints": 625,
                 "premiumReward": {
                   "type": "Item",
-                  "id": "lottery_silver_dragon_coin",
-                  "amount": 300
+                  "id": "lottery_elite_dragon",
+                  "amount": 1
                 },
                 "freeReward": {
                   "type": "Item",
@@ -47746,13 +47746,13 @@
                 "requiredPoints": 1900,
                 "premiumReward": {
                   "type": "Item",
-                  "id": "refill_dragonstone_giant",
-                  "amount": 3
+                  "id": "dragon_dragonstone_pendant",
+                  "amount": 1
                 },
                 "freeReward": {
                   "type": "Item",
-                  "id": "refill_dragonstone_giant",
-                  "amount": 1
+                  "id": "dragon_feathered_headdress",
+                  "amount": 2
                 }
               },
               {
@@ -47811,8 +47811,8 @@
                 "requiredPoints": 4275,
                 "premiumReward": {
                   "type": "Item",
-                  "id": "lottery_silver_dragon_coin",
-                  "amount": 300
+                  "id": "lottery_elite_dragon",
+                  "amount": 1
                 },
                 "freeReward": {
                   "type": "Item",
@@ -47876,8 +47876,8 @@
                 "requiredPoints": 7900,
                 "premiumReward": {
                   "type": "Item",
-                  "id": "lottery_silver_dragon_coin",
-                  "amount": 300
+                  "id": "lottery_elite_dragon",
+                  "amount": 1
                 },
                 "freeReward": {
                   "type": "Item",
@@ -47903,7 +47903,7 @@
                 "premiumReward": {
                   "type": "Item",
                   "id": "dragon_ornate_headdress",
-                  "amount": 1
+                  "amount": 2
                 },
                 "freeReward": {
                   "type": "Item",
@@ -47941,8 +47941,8 @@
                 "requiredPoints": 12775,
                 "premiumReward": {
                   "type": "Item",
-                  "id": "lottery_elite_dragon",
-                  "amount": 4
+                  "id": "lottery_ancient_dragon_coin",
+                  "amount": 200
                 },
                 "freeReward": {
                   "type": "Item",
@@ -48271,40 +48271,36 @@
             {
               "requiredPoints": 100,
               "premiumReward": {
-                "type": "Item",
-                "id": "battle_hail_of_spears",
-                "amount": 5
+                "type": "Hero",
+                "id": "里加",
+                "amount": 1
               },
               "freeReward": {
                 "type": "Item",
-                "id": "battle_hail_of_arrows",
+                "id": "lottery_basic",
                 "amount": 1
               }
             },
             {
               "requiredPoints": 200,
               "premiumReward": {
-                "type": "Item",
-                "id": "battle_healing_potion",
-                "amount": 3
+                "type": "Food",
+                "amount": 4000
               },
               "freeReward": {
-                "type": "Item",
-                "id": "battle_field_aid",
-                "amount": 1
+                "type": "Food",
+                "amount": 2000
               }
             },
             {
               "requiredPoints": 300,
               "premiumReward": {
-                "type": "Item",
-                "id": "battle_mana_potion",
-                "amount": 3
+                "type": "Iron",
+                "amount": 4000
               },
               "freeReward": {
-                "type": "Item",
-                "id": "battle_minor_mana_potion",
-                "amount": 1
+                "type": "Iron",
+                "amount": 2000
               }
             },
             {
@@ -48314,21 +48310,20 @@
                 "amount": 75
               },
               "freeReward": {
-                "type": "Item",
-                "id": "battle_antidote_potion",
-                "amount": 1
+                "type": "Gem",
+                "amount": 10
               }
             },
             {
               "requiredPoints": 500,
               "premiumReward": {
                 "type": "Hero",
-                "id": "trainer_yellow_common",
-                "amount": 1
+                "id": "trainer_yellow_uncommon",
+                "amount": 2
               },
               "freeReward": {
-                "type": "Item",
-                "id": "lottery_basic",
+                "type": "Hero",
+                "id": "trainer_yellow_common",
                 "amount": 1
               }
             },
@@ -48341,155 +48336,82 @@
               },
               "freeReward": {
                 "type": "Item",
-                "id": "item_clean_cloth",
-                "amount": 1
+                "id": "misc_loot_ticket",
+                "amount": 2
               }
             },
             {
               "requiredPoints": 700,
               "premiumReward": {
-                "type": "Item",
-                "id": "battle_wall_of_shields",
-                "amount": 3
+                "type": "Food",
+                "amount": 4000
               },
               "freeReward": {
-                "type": "Item",
-                "id": "item_string",
-                "amount": 1
+                "type": "Food",
+                "amount": 2000
               }
             },
             {
               "requiredPoints": 800,
               "premiumReward": {
-                "type": "Hero",
-                "id": "trainer_purple_common",
-                "amount": 1
+                "type": "Iron",
+                "amount": 4000
               },
               "freeReward": {
-                "type": "Item",
-                "id": "item_common_herbs",
-                "amount": 1
+                "type": "Iron",
+                "amount": 2000
               }
             },
             {
               "requiredPoints": 900,
               "premiumReward": {
                 "type": "Item",
-                "id": "battle_red_banner",
-                "amount": 3
+                "id": "time_skip_hour",
+                "amount": 5
               },
               "freeReward": {
                 "type": "Item",
-                "id": "item_leather_strips",
-                "amount": 1
+                "id": "time_skip_hour",
+                "amount": 2
               }
             },
             {
               "requiredPoints": 1000,
               "premiumReward": {
-                "type": "Item",
-                "id": "hero_leather_armor",
-                "amount": 5
+                "type": "Hero",
+                "id": "trainer_purple_uncommon",
+                "amount": 2
               },
               "freeReward": {
-                "type": "Item",
-                "id": "item_large_bone",
+                "type": "Hero",
+                "id": "trainer_purple_common",
                 "amount": 1
               }
             },
             {
               "requiredPoints": 1100,
               "premiumReward": {
-                "type": "Item",
-                "id": "lottery_basic",
-                "amount": 1
+                "type": "Food",
+                "amount": 10000
               },
               "freeReward": {
-                "type": "Item",
-                "id": "item_crude_iron",
-                "amount": 1
+                "type": "Food",
+                "amount": 5000
               }
             },
             {
               "requiredPoints": 1200,
               "premiumReward": {
-                "type": "Hero",
-                "id": "trainer_red_common",
-                "amount": 1
+                "type": "Iron",
+                "amount": 10000
               },
               "freeReward": {
-                "type": "Item",
-                "id": "item_oil",
-                "amount": 1
+                "type": "Iron",
+                "amount": 5000
               }
             },
             {
               "requiredPoints": 1300,
-              "premiumReward": {
-                "type": "Item",
-                "id": "battle_antidote_dust",
-                "amount": 3
-              },
-              "freeReward": {
-                "type": "Item",
-                "id": "item_clean_cloth",
-                "amount": 1
-              }
-            },
-            {
-              "requiredPoints": 1400,
-              "premiumReward": {
-                "type": "Item",
-                "id": "battle_bomb_barrage",
-                "amount": 3
-              },
-              "freeReward": {
-                "type": "Item",
-                "id": "item_string",
-                "amount": 1
-              }
-            },
-            {
-              "requiredPoints": 1500,
-              "premiumReward": {
-                "type": "Item",
-                "id": "refill_energy_pve_full",
-                "amount": 1
-              },
-              "freeReward": {
-                "type": "Item",
-                "id": "lottery_basic",
-                "amount": 1
-              }
-            },
-            {
-              "requiredPoints": 1600,
-              "premiumReward": {
-                "type": "Hero",
-                "id": "trainer_blue_common",
-                "amount": 1
-              },
-              "freeReward": {
-                "type": "Item",
-                "id": "hero_adventurers_kit",
-                "amount": 1
-              }
-            },
-            {
-              "requiredPoints": 1700,
-              "premiumReward": {
-                "type": "Item",
-                "id": "misc_loot_ticket",
-                "amount": 5
-              },
-              "freeReward": {
-                "type": "Item",
-                "id": "hero_practice_sword",
-                "amount": 1
-              }
-            },
-            {
-              "requiredPoints": 1800,
               "premiumReward": {
                 "type": "Item",
                 "id": "battle_revival_scroll",
@@ -48497,106 +48419,64 @@
               },
               "freeReward": {
                 "type": "Item",
-                "id": "hero_rugged_clothes",
+                "id": "battle_revival_scroll",
                 "amount": 1
               }
             },
             {
-              "requiredPoints": 1900,
+              "requiredPoints": 1400,
               "premiumReward": {
                 "type": "Item",
-                "id": "battle_dragon_banner",
-                "amount": 3
+                "id": "refill_energy_pve_full",
+                "amount": 2
               },
               "freeReward": {
                 "type": "Item",
-                "id": "hero_training_manual",
+                "id": "refill_energy_pve_full",
                 "amount": 1
               }
             },
             {
-              "requiredPoints": 2000,
+              "requiredPoints": 1500,
               "premiumReward": {
                 "type": "Hero",
-                "id": "trainer_green_common",
-                "amount": 1
+                "id": "trainer_red_uncommon",
+                "amount": 2
               },
               "freeReward": {
-                "type": "Item",
-                "id": "battle_hail_of_arrows",
-                "amount": 1
-              }
-            },
-            {
-              "requiredPoints": 2100,
-              "premiumReward": {
-                "type": "Item",
-                "id": "battle_true_healing_potion",
-                "amount": 3
-              },
-              "freeReward": {
-                "type": "Item",
-                "id": "battle_field_aid",
-                "amount": 1
-              }
-            },
-            {
-              "requiredPoints": 2200,
-              "premiumReward": {
-                "type": "Item",
-                "id": "battle_super_mana_potion",
-                "amount": 3
-              },
-              "freeReward": {
-                "type": "Item",
-                "id": "battle_minor_mana_potion",
-                "amount": 1
-              }
-            },
-            {
-              "requiredPoints": 2300,
-              "premiumReward": {
                 "type": "Hero",
-                "id": "trainer_yellow_uncommon",
-                "amount": 1
-              },
-              "freeReward": {
-                "type": "Item",
-                "id": "battle_antidote_potion",
+                "id": "trainer_red_common",
                 "amount": 1
               }
             },
             {
-              "requiredPoints": 2400,
+              "requiredPoints": 1600,
               "premiumReward": {
-                "type": "Item",
-                "id": "battle_trebuchet",
-                "amount": 3
+                "type": "Food",
+                "amount": 10000
               },
               "freeReward": {
-                "type": "Item",
-                "id": "battle_field_aid",
-                "amount": 1
+                "type": "Food",
+                "amount": 5000
               }
             },
             {
-              "requiredPoints": 2500,
+              "requiredPoints": 1700,
               "premiumReward": {
-                "type": "Item",
-                "id": "misc_loot_ticket",
-                "amount": 10
+                "type": "Iron",
+                "amount": 10000
               },
               "freeReward": {
-                "type": "Item",
-                "id": "misc_loot_ticket",
-                "amount": 1
+                "type": "Iron",
+                "amount": 5000
               }
             },
             {
-              "requiredPoints": 2600,
+              "requiredPoints": 1800,
               "premiumReward": {
-                "type": "Gem",
-                "amount": 75
+                "type": "Item",
+                "id": "lottery_elite_hero",
+                "amount": 1
               },
               "freeReward": {
                 "type": "Item",
@@ -48605,42 +48485,140 @@
               }
             },
             {
-              "requiredPoints": 2700,
+              "requiredPoints": 1900,
+              "premiumReward": {
+                "type": "Gem",
+                "amount": 75
+              },
+              "freeReward": {
+                "type": "Gem",
+                "amount": 10
+              }
+            },
+            {
+              "requiredPoints": 2000,
               "premiumReward": {
                 "type": "Hero",
-                "id": "trainer_purple_uncommon",
+                "id": "trainer_blue_uncommon",
+                "amount": 2
+              },
+              "freeReward": {
+                "type": "Hero",
+                "id": "trainer_blue_common",
+                "amount": 1
+              }
+            },
+            {
+              "requiredPoints": 2100,
+              "premiumReward": {
+                "type": "Item",
+                "id": "refill_food_small",
                 "amount": 1
               },
               "freeReward": {
+                "type": "Food",
+                "amount": 10000
+              }
+            },
+            {
+              "requiredPoints": 2200,
+              "premiumReward": {
                 "type": "Item",
-                "id": "item_clean_cloth",
+                "id": "refill_iron_small",
                 "amount": 1
+              },
+              "freeReward": {
+                "type": "Iron",
+                "amount": 10000
+              }
+            },
+            {
+              "requiredPoints": 2300,
+              "premiumReward": {
+                "type": "Item",
+                "id": "misc_loot_ticket",
+                "amount": 5
+              },
+              "freeReward": {
+                "type": "Item",
+                "id": "misc_loot_ticket",
+                "amount": 2
+              }
+            },
+            {
+              "requiredPoints": 2400,
+              "premiumReward": {
+                "type": "Item",
+                "id": "time_skip_hour",
+                "amount": 5
+              },
+              "freeReward": {
+                "type": "Item",
+                "id": "time_skip_hour",
+                "amount": 2
+              }
+            },
+            {
+              "requiredPoints": 2500,
+              "premiumReward": {
+                "type": "Hero",
+                "id": "trainer_green_uncommon",
+                "amount": 2
+              },
+              "freeReward": {
+                "type": "Hero",
+                "id": "trainer_green_common",
+                "amount": 1
+              }
+            },
+            {
+              "requiredPoints": 2600,
+              "premiumReward": {
+                "type": "Item",
+                "id": "refill_food_small",
+                "amount": 1
+              },
+              "freeReward": {
+                "type": "Food",
+                "amount": 10000
+              }
+            },
+            {
+              "requiredPoints": 2700,
+              "premiumReward": {
+                "type": "Item",
+                "id": "refill_iron_small",
+                "amount": 1
+              },
+              "freeReward": {
+                "type": "Iron",
+                "amount": 10000
               }
             },
             {
               "requiredPoints": 2800,
               "premiumReward": {
                 "type": "Item",
-                "id": "refill_energy_pve_full",
-                "amount": 1
+                "id": "misc_loot_ticket",
+                "amount": 5
               },
               "freeReward": {
                 "type": "Item",
-                "id": "item_string",
-                "amount": 1
+                "id": "misc_loot_ticket",
+                "amount": 2
               }
             },
             {
               "requiredPoints": 2900,
               "premiumReward": {
                 "type": "Item",
-                "id": "battle_time_stop",
-                "amount": 3
+                "id": "time_skip_hour",
+                "amount": 5
               },
               "freeReward": {
                 "type": "Item",
-                "id": "item_common_herbs",
-                "amount": 1
+                "id": "time_skip_hour",
+                "amount": 2
               }
             },
             {
@@ -48648,11 +48626,11 @@
               "premiumReward": {
                 "type": "Hero",
                 "id": "trainer_red_uncommon",
-                "amount": 1
+                "amount": 2
               },
               "freeReward": {
-                "type": "Item",
-                "id": "item_leather_strips",
+                "type": "Hero",
+                "id": "trainer_red_common",
                 "amount": 1
               }
             },
@@ -48660,52 +48638,50 @@
               "requiredPoints": 3100,
               "premiumReward": {
                 "type": "Item",
-                "id": "battle_tornado",
-                "amount": 3
+                "id": "refill_food_small",
+                "amount": 1
               },
               "freeReward": {
-                "type": "Item",
-                "id": "item_large_bone",
-                "amount": 1
+                "type": "Food",
+                "amount": 20000
               }
             },
             {
               "requiredPoints": 3200,
               "premiumReward": {
                 "type": "Item",
-                "id": "battle_miracle_scroll",
-                "amount": 3
+                "id": "refill_iron_small",
+                "amount": 1
               },
               "freeReward": {
-                "type": "Item",
-                "id": "item_crude_iron",
-                "amount": 1
+                "type": "Iron",
+                "amount": 20000
               }
             },
             {
               "requiredPoints": 3300,
               "premiumReward": {
-                "type": "Hero",
-                "id": "trainer_blue_uncommon",
-                "amount": 1
+                "type": "Item",
+                "id": "misc_loot_ticket",
+                "amount": 5
               },
               "freeReward": {
                 "type": "Item",
-                "id": "item_oil",
-                "amount": 1
+                "id": "misc_loot_ticket",
+                "amount": 2
               }
             },
             {
               "requiredPoints": 3400,
               "premiumReward": {
                 "type": "Item",
-                "id": "battle_super_mana_potion",
-                "amount": 3
+                "id": "time_skip_hour",
+                "amount": 5
               },
               "freeReward": {
                 "type": "Item",
-                "id": "item_clean_cloth",
-                "amount": 1
+                "id": "time_skip_hour",
+                "amount": 2
               }
             },
             {
@@ -48713,11 +48689,11 @@
               "premiumReward": {
                 "type": "Hero",
                 "id": "trainer_green_uncommon",
-                "amount": 1
+                "amount": 2
               },
               "freeReward": {
-                "type": "Item",
-                "id": "item_string",
+                "type": "Hero",
+                "id": "trainer_green_common",
                 "amount": 1
               }
             },
@@ -48725,26 +48701,24 @@
               "requiredPoints": 3600,
               "premiumReward": {
                 "type": "Item",
-                "id": "battle_true_healing_potion",
-                "amount": 5
+                "id": "refill_food_small",
+                "amount": 1
               },
               "freeReward": {
-                "type": "Item",
-                "id": "hero_adventurers_kit",
-                "amount": 1
+                "type": "Food",
+                "amount": 20000
               }
             },
             {
               "requiredPoints": 3700,
               "premiumReward": {
                 "type": "Item",
-                "id": "battle_trebuchet",
-                "amount": 5
+                "id": "refill_iron_small",
+                "amount": 1
               },
               "freeReward": {
-                "type": "Item",
-                "id": "hero_practice_sword",
-                "amount": 1
+                "type": "Iron",
+                "amount": 20000
               }
             },
             {
@@ -48764,25 +48738,25 @@
               "requiredPoints": 3900,
               "premiumReward": {
                 "type": "Item",
-                "id": "refill_energy_alliance_full",
-                "amount": 1
+                "id": "battle_miracle_scroll",
+                "amount": 3
               },
               "freeReward": {
                 "type": "Item",
-                "id": "hero_rugged_clothes",
+                "id": "battle_miracle_scroll",
                 "amount": 1
               }
             },
             {
               "requiredPoints": 4000,
               "premiumReward": {
-                "type": "Item",
-                "id": "lottery_special_epic_hero",
+                "type": "Hero",
+                "id": "贾斯提斯",
                 "amount": 1
               },
               "freeReward": {
-                "type": "Item",
-                "id": "lottery_elite_hero",
+                "type": "Hero",
+                "id": "索尼娅",
                 "amount": 1
               }
             }
@@ -80716,5 +80690,5 @@
     "criticalOperationPendingDelaySeconds": 3,
     "allowedCriticalOperationPendingCount": 3
   },
-  "otherConfigId": 1068992702
+  "otherConfigId": 3679646281
 }

@@ -20,5 +20,49 @@
         "costume_id": 4,
         "heroId": "forest_titan_costume_glass",
         "Lottery_Only":1
+    },
+    {
+        "name": "Khatrox",
+        "fancy_name": "Blighted Bruiser",
+        "color": "Green",
+        "Release date": "",
+        "star": 5,
+        "family": "forsaken",
+        "costume_id": 0,
+        "heroId": "forsaken_khatrox",
+        "Lottery_Only":1
+    },
+    {
+        "name": "Prof. Morryster",
+        "fancy_name": "The Masked Savant",
+        "color": "Purple",
+        "Release date": "",
+        "star": 5,
+        "family": "institute",
+        "costume_id": 0,
+        "heroId": "institute_professor_morryster",
+        "Lottery_Only":1
+    },
+    {
+        "name": "Iron-Heart",
+        "fancy_name": "Holy Guardian Construct",
+        "color": "Yellow",
+        "Release date": "",
+        "star": 5,
+        "family": "construct",
+        "costume_id": 0,
+        "heroId": "construct_ironheart",
+        "Lottery_Only":1
+    },
+    {
+        "name": "Gardered",
+        "fancy_name": "The Daremoth",
+        "color": "Red",
+        "Release date": "",
+        "star": 5,
+        "family": "moths",
+        "costume_id": 0,
+        "heroId": "moth_gardered",
+        "Lottery_Only":1
     }
 ]

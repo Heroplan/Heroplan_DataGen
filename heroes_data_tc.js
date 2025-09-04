@@ -7990,7 +7990,7 @@ window.allHeroes =
             "傷害減免",
             "對自身或友軍負面效果"
         ],
-        "source": "神秘 - 暗影召喚",
+        "source": "暗影召喚",
         "Release date": "2025-03-06",
         "specialId": "petrifying_knuckles",
         "passiveSkills": null,
@@ -11506,7 +11506,7 @@ window.allHeroes =
             "嘲諷",
             "對自身或友軍負面效果"
         ],
-        "source": "神秘 - 暗影召喚",
+        "source": "暗影召喚",
         "Release date": "2025-06-10",
         "specialId": "eye_of_yog-sir",
         "passiveSkills": null,
@@ -17014,7 +17014,7 @@ window.allHeroes =
             "對自身或友軍負面效果",
             "傷害減免"
         ],
-        "source": "神秘 - 暗影召喚",
+        "source": "暗影召喚",
         "Release date": "2025-07-08",
         "specialId": "deranged_existence",
         "passiveSkills": null,
@@ -28704,7 +28704,7 @@ window.allHeroes =
             "提供免疫",
             "對自身或友軍負面效果"
         ],
-        "source": "神秘 - 暗影召喚",
+        "source": "暗影召喚",
         "Release date": "2024-04-11",
         "specialId": "jewel_of_the_deep",
         "passiveSkills": [
@@ -37431,7 +37431,7 @@ window.allHeroes =
             "閃避",
             "對自身或友軍負面效果"
         ],
-        "source": "神秘 - 暗影召喚",
+        "source": "暗影召喚",
         "Release date": "2025-02-06",
         "specialId": "cut_cure_and_craze",
         "passiveSkills": null,
@@ -41141,7 +41141,7 @@ window.allHeroes =
             "狙擊手",
             "對自身或友軍負面效果"
         ],
-        "source": "神秘 - 暗影召喚",
+        "source": "暗影召喚",
         "Release date": "2024-06-30",
         "specialId": "darts_of_the_deep",
         "passiveSkills": [
@@ -47209,7 +47209,7 @@ window.allHeroes =
             "全體攻擊 (打5)",
             "對自身或友軍負面效果"
         ],
-        "source": "神秘 - 暗影召喚",
+        "source": "暗影召喚",
         "Release date": "2025-01-09",
         "specialId": "lantern_of_insanity",
         "passiveSkills": null,
@@ -48935,7 +48935,7 @@ window.allHeroes =
             "凈化格擋者",
             "對自身或友軍負面效果"
         ],
-        "source": "神秘 - 暗影召喚",
+        "source": "暗影召喚",
         "Release date": "2025-05-13",
         "specialId": "necronomicon_page_13",
         "passiveSkills": null,
@@ -53137,7 +53137,7 @@ window.allHeroes =
             "狙擊手",
             "對自身或友軍負面效果"
         ],
-        "source": "神秘 - 暗影召喚",
+        "source": "暗影召喚",
         "Release date": "2024-06-04",
         "specialId": "merciless_execution",
         "passiveSkills": [
@@ -56064,7 +56064,7 @@ window.allHeroes =
             "持續傷害",
             "對自身或友軍負面效果"
         ],
-        "source": "神秘 - 暗影召喚",
+        "source": "暗影召喚",
         "Release date": "2024-05-01",
         "specialId": "grim_awakening",
         "passiveSkills": [
@@ -69142,7 +69142,7 @@ window.allHeroes =
             "持續傷害",
             "對自身或友軍負面效果"
         ],
-        "source": "神秘 - 暗影召喚",
+        "source": "暗影召喚",
         "Release date": "2024-05-26",
         "specialId": "whispers_of_xulu",
         "passiveSkills": [
@@ -72959,10 +72959,10 @@ window.allHeroes =
         "costumeBonusPassiveSkillIds": null,
         "heroId": "elemental_doxan_costume_hacker",
         "star": 5,
-        "power": 1135,
-        "attack": 1141,
-        "defense": 1070,
-        "health": 2224,
+        "power": 1232,
+        "attack": 1239,
+        "defense": 1164,
+        "health": 2483,
         "effects": [
             "對目標造成 550% 傷害，並對所有自然敵人造成輕微傷害。",
             "目標和所有自然敵人在 4 回合內受到共計 1504 點燃燒傷害。"
@@ -72978,16 +72978,16 @@ window.allHeroes =
         "costume_id": 1,
         "originalIndex": 1062,
         "lb1": {
-            "power": 1213,
-            "attack": 1230,
-            "defense": 1153,
-            "health": 2397
+            "power": 1317,
+            "attack": 1334,
+            "defense": 1253,
+            "health": 2674
         },
         "lb2": {
-            "power": 1371,
-            "attack": 1408,
-            "defense": 1319,
-            "health": 2743
+            "power": 1490,
+            "attack": 1528,
+            "defense": 1436,
+            "health": 3063
         },
         "cn_skill_info": [
             {
@@ -79615,7 +79615,7 @@ window.allHeroes =
             "持續傷害",
             "對自身或友軍負面效果"
         ],
-        "source": "神秘 - 暗影召喚",
+        "source": "暗影召喚",
         "Release date": "2024-04-21",
         "specialId": "ritual_of_the_deep",
         "passiveSkills": [
@@ -80431,7 +80431,7 @@ window.allHeroes =
             "狙擊手",
             "對自身或友軍負面效果"
         ],
-        "source": "神秘 - 暗影召喚",
+        "source": "暗影召喚",
         "Release date": "2024-07-18",
         "specialId": "cuts_of_hulu",
         "passiveSkills": [
@@ -81057,7 +81057,7 @@ window.allHeroes =
             "連鎖與隨機攻擊",
             "對自身或友軍負面效果"
         ],
-        "source": "神秘 - 暗影召喚",
+        "source": "暗影召喚",
         "Release date": "2025-04-03",
         "specialId": "last_words",
         "passiveSkills": null,
@@ -85192,7 +85192,7 @@ window.allHeroes =
             "連鎖與隨機攻擊",
             "對自身或友軍負面效果"
         ],
-        "source": "神秘 - 暗影召喚",
+        "source": "暗影召喚",
         "Release date": "2025-01-09",
         "specialId": "brain_link",
         "passiveSkills": null,
@@ -92745,7 +92745,7 @@ window.allHeroes =
             "疊加",
             "對自身或友軍負面效果"
         ],
-        "source": "神秘 - 暗影召喚",
+        "source": "暗影召喚",
         "Release date": "2024-05-17",
         "specialId": "yellow_signs",
         "passiveSkills": [
@@ -94728,7 +94728,7 @@ window.allHeroes =
             "全體攻擊 (打5)",
             "復活"
         ],
-        "source": "神秘 - 暗影召喚",
+        "source": "暗影召喚",
         "Release date": "2025-07-29",
         "specialId": "essence_of_queen_nitocris",
         "passiveSkills": null,
@@ -103435,7 +103435,7 @@ window.allHeroes =
             "增益竊取者",
             "對自身或友軍負面效果"
         ],
-        "source": "神秘 - 暗影召喚",
+        "source": "暗影召喚",
         "Release date": "2025-01-09",
         "specialId": "eldritch_sign_bolts",
         "passiveSkills": null,
@@ -104317,6 +104317,110 @@ window.allHeroes =
         "family": "classic",
         "costume_id": 4,
         "originalIndex": 1506,
+        "cn_skill_info": []
+    },
+    {
+        "name": "Khatrox",
+        "fancy_name": "Blighted Bruiser",
+        "AetherPower": "",
+        "color": "綠",
+        "class": "",
+        "speed": "",
+        "skill": "",
+        "types": [],
+        "skill_types": [],
+        "source": "",
+        "Release date": "",
+        "specialId": "",
+        "heroId": "forsaken_khatrox",
+        "star": 5,
+        "power": null,
+        "attack": null,
+        "defense": null,
+        "health": null,
+        "effects": [],
+        "passives": [],
+        "family": "forsaken",
+        "costume_id": 0,
+        "originalIndex": 1507,
+        "cn_skill_info": []
+    },
+    {
+        "name": "Prof. Morryster",
+        "fancy_name": "The Masked Savant",
+        "AetherPower": "",
+        "color": "紫",
+        "class": "",
+        "speed": "",
+        "skill": "",
+        "types": [],
+        "skill_types": [],
+        "source": "",
+        "Release date": "",
+        "specialId": "",
+        "heroId": "institute_professor_morryster",
+        "star": 5,
+        "power": null,
+        "attack": null,
+        "defense": null,
+        "health": null,
+        "effects": [],
+        "passives": [],
+        "family": "institute",
+        "costume_id": 0,
+        "originalIndex": 1508,
+        "cn_skill_info": []
+    },
+    {
+        "name": "鐵心 (Iron-Heart)",
+        "fancy_name": "神聖守護者構造體",
+        "AetherPower": "",
+        "color": "黃",
+        "class": "",
+        "speed": "",
+        "skill": "",
+        "types": [],
+        "skill_types": [],
+        "source": "",
+        "Release date": "",
+        "specialId": "",
+        "heroId": "construct_ironheart",
+        "star": 5,
+        "power": null,
+        "attack": null,
+        "defense": null,
+        "health": null,
+        "effects": [],
+        "passives": [],
+        "family": "construct",
+        "costume_id": 0,
+        "originalIndex": 1509,
+        "cn_skill_info": []
+    },
+    {
+        "name": "加德雷德 (Gardered)",
+        "fancy_name": "無畏蛾",
+        "AetherPower": "",
+        "color": "紅",
+        "class": "",
+        "speed": "",
+        "skill": "",
+        "types": [],
+        "skill_types": [],
+        "source": "",
+        "Release date": "",
+        "specialId": "",
+        "heroId": "moth_gardered",
+        "star": 5,
+        "power": null,
+        "attack": null,
+        "defense": null,
+        "health": null,
+        "effects": [],
+        "passives": [],
+        "family": "moths",
+        "costume_id": 0,
+        "originalIndex": 1510,
         "cn_skill_info": []
     }
 ];

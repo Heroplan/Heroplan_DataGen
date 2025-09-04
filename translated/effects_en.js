@@ -14575,5 +14575,15 @@ const allTranslations =
         "originalIndex": 1506,
         "name": "霍格火 (Horghall) 玻璃",
         "effects": []
+    },
+    {
+        "originalIndex": 1507,
+        "name": "卡特罗克斯 (Khatrox)",
+        "effects": []
+    },
+    {
+        "originalIndex": 1508,
+        "name": "莫里斯特教授 (Prof. Morryster)",
+        "effects": []
     }
 ];

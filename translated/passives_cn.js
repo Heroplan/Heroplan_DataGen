@@ -10654,5 +10654,15 @@ const translatedPassivesCN =
         "originalIndex": 1506,
         "name": "Horghall Glass",
         "passives": []
+    },
+    {
+        "originalIndex": 1507,
+        "name": "Khatrox",
+        "passives": []
+    },
+    {
+        "originalIndex": 1508,
+        "name": "Prof. Morryster",
+        "passives": []
     }
 ];
