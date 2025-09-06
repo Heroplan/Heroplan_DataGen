@@ -37934,12 +37934,12 @@
                 "premiumReward": {
                   "type": "Hero",
                   "id": "trainer_green_common",
-                  "amount": 3
+                  "amount": 5
                 },
                 "freeReward": {
                   "type": "Hero",
                   "id": "trainer_green_common",
-                  "amount": 1
+                  "amount": 2
                 }
               },
               {
@@ -37997,12 +37997,12 @@
                 "premiumReward": {
                   "type": "Hero",
                   "id": "trainer_green_uncommon",
-                  "amount": 3
+                  "amount": 5
                 },
                 "freeReward": {
                   "type": "Hero",
                   "id": "trainer_green_uncommon",
-                  "amount": 1
+                  "amount": 2
                 }
               },
               {
@@ -38060,12 +38060,12 @@
                 "premiumReward": {
                   "type": "Hero",
                   "id": "trainer_green_rare",
-                  "amount": 3
+                  "amount": 5
                 },
                 "freeReward": {
                   "type": "Hero",
                   "id": "trainer_green_rare",
-                  "amount": 1
+                  "amount": 2
                 }
               },
               {
@@ -38136,7 +38136,7 @@
                 "premiumReward": {
                   "type": "Hero",
                   "id": "trainer_green_epic",
-                  "amount": 2
+                  "amount": 3
                 }
               },
               {
@@ -42382,7 +42382,7 @@
                 },
                 "freeReward": {
                   "type": "Hero",
-                  "id": "trainer_yellow_common",
+                  "id": "trainer_yellow_uncommon",
                   "amount": 4
                 }
               },
@@ -43012,12 +43012,12 @@
                 "premiumReward": {
                   "type": "Hero",
                   "id": "trainer_red_uncommon",
-                  "amount": 7
+                  "amount": 10
                 },
                 "freeReward": {
                   "type": "Hero",
                   "id": "trainer_red_uncommon",
-                  "amount": 3
+                  "amount": 4
                 }
               },
               {
@@ -43116,12 +43116,12 @@
                 "premiumReward": {
                   "type": "Hero",
                   "id": "trainer_red_rare",
-                  "amount": 5
+                  "amount": 7
                 },
                 "freeReward": {
                   "type": "Hero",
                   "id": "trainer_red_uncommon",
-                  "amount": 3
+                  "amount": 4
                 }
               },
               {
@@ -43177,12 +43177,12 @@
                 "premiumReward": {
                   "type": "Hero",
                   "id": "trainer_red_epic",
-                  "amount": 2
+                  "amount": 3
                 },
                 "freeReward": {
                   "type": "Hero",
                   "id": "trainer_red_rare",
-                  "amount": 2
+                  "amount": 3
                 }
               },
               {
@@ -80599,8 +80599,8 @@
     "languageSelectionEnabled": true,
     "maxVersionToShowUpdateOutReminderAndroid": "78.0.5",
     "maxVersionToShowUpdateOutReminderIos": "78.0.5",
-    "maxVersionToShowUpdateOutReminderAndroidStandalone": "78.0.5",
-    "standaloneNewVersionRolloutPercentage": 100,
+    "maxVersionToShowUpdateOutReminderAndroidStandalone": "79.0.0",
+    "standaloneNewVersionRolloutPercentage": 30,
     "fastClientLogFlushTimeSeconds": 5,
     "accountDeletionEnabled": true,
     "popupSuppression": {
@@ -80690,5 +80690,5 @@
     "criticalOperationPendingDelaySeconds": 3,
     "allowedCriticalOperationPendingCount": 3
   },
-  "otherConfigId": 3679646281
+  "otherConfigId": 1417694563
 }

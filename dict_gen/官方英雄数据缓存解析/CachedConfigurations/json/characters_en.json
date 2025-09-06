@@ -29132,9 +29132,9 @@
     "id": "The Daremoth",
     "element": "Red",
     "family": "moths",
-    "baseHealth": 999,
+    "baseHealth": 1098,
     "baseAttack": 633,
-    "baseDefense": 540,
+    "baseDefense": 586,
     "manaSpeedId": "中等",
     "passiveSkills": [
       "dodge_enemy_damage_special"
@@ -29812,13 +29812,14 @@
     "id": "Holy Guardian Construct",
     "element": "Yellow",
     "family": "construct",
-    "baseHealth": 1000,
+    "baseHealth": 1018,
     "baseAttack": 650,
-    "baseDefense": 600,
+    "baseDefense": 606,
     "manaSpeedId": "中等",
     "passiveSkills": [
       "minion_core",
-      "hp_on_own_familiar_death_construct"
+      "hp_on_own_familiar_death_construct",
+      "resist_special_blocking_with_health_boost_and_mana"
     ],
     "classType": "圣骑士",
     "aetherGift": "Damage Reduction",
@@ -30078,7 +30079,7 @@
     "family": "forsaken",
     "baseHealth": 1099,
     "baseAttack": 637,
-    "baseDefense": 565,
+    "baseDefense": 580,
     "manaSpeedId": "慢",
     "passiveSkills": [
       "revive_in_alternative_form_with_insanity_chance"
@@ -30110,7 +30111,7 @@
     "element": "Purple",
     "family": "institute",
     "baseHealth": 1089,
-    "baseAttack": 585,
+    "baseAttack": 597,
     "baseDefense": 635,
     "manaSpeedId": "中等",
     "passiveSkills": [
@@ -30127,9 +30128,9 @@
     "id": "Servant of the Abyss",
     "element": "Blue",
     "family": "forsaken",
-    "baseHealth": 641,
-    "baseAttack": 361,
-    "baseDefense": 344,
+    "baseHealth": 665,
+    "baseAttack": 370,
+    "baseDefense": 352,
     "manaSpeedId": "中等",
     "passiveSkills": [
       "damage_increase_by_insanity"

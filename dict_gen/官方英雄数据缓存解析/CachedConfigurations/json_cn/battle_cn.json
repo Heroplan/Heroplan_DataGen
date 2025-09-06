@@ -53661,7 +53661,7 @@
         "id": "counterattack_ironheart",
         "buff": "MinorBuff",
         "iconOverrideStatusEffectId": "counter_attack",
-        "damageDeflectionPerMil": 1240,
+        "damageDeflectionPerMil": 940,
         "damageDeflectionPerLevelPerMil": 30
       }
     ],
@@ -79258,5 +79258,5 @@
       "SharedDamage"
     ]
   },
-  "battleConfigId": 4035655790
+  "battleConfigId": 922956954
 }

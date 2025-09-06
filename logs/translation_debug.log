@@ -117,36 +117,19 @@
 
 总重复组数: 6
 
---- 未匹配的英文条目 ---
-- [heroes.name.dark_god_eldwren] Eldwren
-- [heroes.name.eldritch_host] Eldritch Host
-- [heroes.name.fire_god_andre] Andre de Clermont
-- [heroes.name.fleur_elyzabel] Elyzabel de Tuillières
-- [heroes.name.fleur_eumachius] Eumachius
-- [heroes.name.fleur_guillemette] Guillemette
-- [heroes.name.fleur_lavinia] Lavinia
-- [heroes.name.fleur_ludovico] Ludovico
-- [heroes.name.forsaken_demhalar] Demhalar
-- [heroes.name.forsaken_khatrox] Khatrox
-- [heroes.name.forsaken_lamentia] Lamentia
-- [heroes.name.goblin_ratgrub] Ratgrub
-- [heroes.name.goblin_soursting] Soursting
-- [heroes.name.halloween_hortensia] Hortensia
-- [heroes.name.institute_emilie] Emilie
-- [heroes.name.institute_piper] Piper
-- [heroes.name.institute_professor_morryster] Prof. Morryster
-- [heroes.name.mimic_emblem_blue] Emblem Mimic
-- [heroes.name.nature_god_liora] Liora
-- [heroes.name.wild_cat_marnes] Marnes
-- [heroes.name.wild_cat_thaffer] Thaffer
-- [heroes.name.wild_cat_vernix] Vernix
-总数: 22
+--- 无未匹配英文条目 ---
 
 --- 未使用的zh-Hant翻译 ---
+- [heroes.name.mimic_ascension_item_blue] 升等模仿怪
 - [heroes.name.mimic_ascension_item_green] 升等模仿怪
 - [heroes.name.mimic_ascension_item_purple] 升等模仿怪
 - [heroes.name.mimic_ascension_item_red] 升等模仿怪
 - [heroes.name.mimic_ascension_item_yellow] 升等模仿怪
+- [heroes.name.mimic_emblem_green] 徽章模仿怪
+- [heroes.name.mimic_emblem_purple] 徽章模仿怪
+- [heroes.name.mimic_emblem_red] 徽章模仿怪
+- [heroes.name.mimic_emblem_yellow] 徽章模仿怪
+- [heroes.name.mimic_training_hero_blue] 經驗模仿怪
 - [heroes.name.mimic_training_hero_green] 經驗模仿怪
 - [heroes.name.mimic_training_hero_purple] 經驗模仿怪
 - [heroes.name.mimic_training_hero_red] 經驗模仿怪
@@ -158,7 +141,7 @@
 - [heroes.name.rider_hero_yellow] 教練英雄
 - [heroes.name.s3_lord_loki_covenant] 洛基領主
 - [heroes.name.trainer] 教練英雄
-总数: 15
+总数: 21
 
 
 === heroes_name_fancy (zh-Hans) 翻译分析调试信息 ===
@@ -296,50 +279,7 @@
 
 总重复组数: 10
 
---- 未匹配的英文条目 ---
-- [heroes.name_fancy.dark_god_eldwren] The Flock Father
-- [heroes.name_fancy.elemental_ash_costume_savage] Savage Bounty Hunter
-- [heroes.name_fancy.elemental_craum_costume_occultist] Elemental Occultist
-- [heroes.name_fancy.elemental_desmond_costume_assassin] Blade Assassin
-- [heroes.name_fancy.elemental_farrah_costume_cyber] Cyber Blade Master
-- [heroes.name_fancy.elemental_gastille_costume_sporty] Sporty Hazard
-- [heroes.name_fancy.elemental_grilka_costume_treasure] Treasured Quartermaster
-- [heroes.name_fancy.elemental_ironmaw_costume_legion] Warlord of the Legion
-- [heroes.name_fancy.elemental_jolt_costume_mythic] Mythic Navigator
-- [heroes.name_fancy.elemental_niki_costume_music] Scythe Master of the Music
-- [heroes.name_fancy.elemental_nylora_costume_jewelled] Jewelled Assassin
-- [heroes.name_fancy.elemental_quinn_costume_alchemist] Cosmic Alchemist
-- [heroes.name_fancy.elemental_vander_costume_clown] Clown Captain
-- [heroes.name_fancy.elemental_xavier_costume_arthropod] Dual Blade Arthropod
-- [heroes.name_fancy.elemental_zaria_costume_enchanter] Three-Eyed Enchanter
-- [heroes.name_fancy.elemental_zuni_costume_mage] Hoverboard Mage
-- [heroes.name_fancy.fire_god_andre] The Betrayed Templar
-- [heroes.name_fancy.fleur_elyzabel] Sanguine Countess
-- [heroes.name_fancy.fleur_eumachius] Sanguine Scion
-- [heroes.name_fancy.fleur_guillemette] Sanguine Crusader
-- [heroes.name_fancy.fleur_lavinia] Sanguine Dreamer
-- [heroes.name_fancy.fleur_ludovico] Sanguine Steward
-- [heroes.name_fancy.forsaken_demhalar] The Strange Inhabitant
-- [heroes.name_fancy.forsaken_khatrox] Blighted Bruiser
-- [heroes.name_fancy.forsaken_lamentia] Servant of the Abyss
-- [heroes.name_fancy.goblin_ratgrub] Goblin Rat Courtier
-- [heroes.name_fancy.goblin_soursting] Arrogant Goblin Assassin
-- [heroes.name_fancy.halloween_ana_belle_costume_mafia] Baroness of Dust
-- [heroes.name_fancy.halloween_edwin_costume_mafia] The Backstabbing Butler
-- [heroes.name_fancy.halloween_hortensia] Fosterer of Flytraps
-- [heroes.name_fancy.institute_emilie] Liminal Realm Explorer
-- [heroes.name_fancy.institute_piper] Inquisitive Hired Gun
-- [heroes.name_fancy.institute_professor_morryster] The Masked Savant
-- [heroes.name_fancy.magic_becky_costume_gothic] Twilight Conjurer
-- [heroes.name_fancy.magic_camilla_costume_flower] Floral Tinkerer
-- [heroes.name_fancy.mimic_ascension_epic_yellow] Grinning Cache of Lesser Evil
-- [heroes.name_fancy.mimic_emblem_blue] Horrifying One-Eyed Lockbox
-- [heroes.name_fancy.mimic_experience_rare_red] Trove of the Tiny Teeth
-- [heroes.name_fancy.nature_god_liora] The Benevolent Bandit
-- [heroes.name_fancy.wild_cat_marnes] Flank-Stabbing Panther
-- [heroes.name_fancy.wild_cat_thaffer] Tabby Safecracker
-- [heroes.name_fancy.wild_cat_vernix] Snow Leopard Magus
-总数: 42
+--- 无未匹配英文条目 ---
 
 --- 未使用的zh-Hant翻译 ---
 - [heroes.name_fancy.christmas_elf] 聖誕老人小幫手
@@ -347,6 +287,10 @@
 - [heroes.name_fancy.mimic_ascension_item_purple] 邪惡詭笑寶箱
 - [heroes.name_fancy.mimic_ascension_item_red] 邪惡詭笑寶箱
 - [heroes.name_fancy.mimic_ascension_item_yellow] 邪惡詭笑寶箱
+- [heroes.name_fancy.mimic_emblem_green] 可怕獨眼鎖盒
+- [heroes.name_fancy.mimic_emblem_purple] 可怕獨眼鎖盒
+- [heroes.name_fancy.mimic_emblem_red] 可怕獨眼鎖盒
+- [heroes.name_fancy.mimic_emblem_yellow] 可怕獨眼鎖盒
 - [heroes.name_fancy.mimic_training_hero_green] 千牙寶藏
 - [heroes.name_fancy.mimic_training_hero_purple] 千牙寶藏
 - [heroes.name_fancy.mimic_training_hero_red] 千牙寶藏
@@ -357,7 +301,7 @@
 - [heroes.name_fancy.owl_ommodus] 貓頭鷹高塔執法者
 - [heroes.name_fancy.rabbit_red] 斯普林維爾侍從
 - [heroes.name_fancy.undead_female_warrior_costume_glass] 馭死彩繪玻璃
-总数: 15
+总数: 19
 
 
 === skill (zh-Hans) 翻译分析调试信息 ===
@@ -2767,70 +2711,7 @@ The Source of Buffs will activate {MAXACTIVATIONCOUNT} times. Each attempt to di
 
 总重复组数: 173
 
---- 未匹配的英文条目 ---
-- [specials.v2.bigminion.goblin_rat_princess.single] Summons a Rat Princess Mega Minion with {FAMILIARHEALTHPERCENT}% HP and {FAMILIARATTACK}% attack inherited from the caster.
-- [specials.v2.directeffect.addmana.sidesexceptcaster.allies.increment] Increase the mana of allies on the edges of formation by {MANA}%. This cannot increase the mana of the caster.
-- [specials.v2.parasite.flytrap_fiend.cloneself.neartotargetexceptmaintarget.allies] The Flytrap Fiend generates a clone of itself to nearby enemies every {FAMILIAREFFECTFREQUENCY} turns.
-- [specials.v2.parasite.flytrap_fiend.neartotarget] Summons a Flytrap Fiend to the target and nearby enemies. 
-The Flytrap Fiend absorbs healing. It disappears after absorbing a healing amount equal to {FAMILIARHEALTHPERCENT}% of its target's max health.
-- [specials.v2.parasite.flytrap_fiend.single] Summons a Flytrap Fiend for the target. The Fiend damages the enemy with {FAMILIARATTACK}% attack every turn.
- The Flytrap Fiend absorbs healing. It disappears after absorbing a healing amount equal to {FAMILIARHEALTHPERCENT}% of its target's max health.
-- [specials.v2.parasite.wren_fiends.single] Summons a Wren Fiend to  the target. The Fiend damages the enemy with {FAMILIARATTACK}% attack every turn.
-The Wren Fiend absorbs healing. It disappears after absorbing a healing amount equal to {FAMILIARHEALTHPERCENT}% of its target's max health.
-- [specials.v2.property.amplifiedheallowhealthtargets.extra] Ignores heal steal, healing modifiers and Fiends.
-- [specials.v2.property.buffchainstrike.target_prefer_continuation.no_duplicates] If the target has buffs and is hit, targets another enemy with buffs. If none of the other enemies have buffs, targets a random enemy. The damage is reduced on each consecutive hit. Each enemy can only be hit once.
-- [specials.v2.property.conditionaleffect.healthboost.all.allies.lowest.currenthp.hittargetsonly.only_targets_who_meet_condition] Boosts health of the ally with the lowest remaining HP by {POWERFORTARGETSTHATMEETCONDITION}%.
-- [specials.v2.property.damageincreasedbytargetfamiliarcount.parasite.bigparasite] Deals an additional {DAMAGEINCREMENT}% damage for each Fiend or Mega Fiend on target, up to {MAXDAMAGEINCREMENT}%.
-- [specials.v2.property.effectonremovestatuseffectsandbasemodifiers.healthboost.single.removegrowth.safe.extra] Harvest safely removes {MAXREMOVALCOUNT} buffs, positive Stacks or Growth effects from each target. This includes undispellable buffs and dance effects.
-The caster receives {HEALTHBOOST}% boosted health for each effect removed. Boosted health can exceed max HP.
-
-Safe removal bypasses secondary effects, such as damage on removal, from the removed status effect buffs. External effects such as passive skills and family effects can still activate.
-Growth effects are removed first. Other effects, the latest is removed first.
-- [specials.v2.property.effectonremovestatuseffectsandbasemodifiers.neartotarget.enemies.allbuffs.bypassremoveeffects.maxremovalcount.healthboost.single.removegrowth] Harvests buffs from target and nearby enemies.
-- [specials.v2.property.effectperfamiliar.damage.neartotarget.enemies.parasite.bigparasite.from.enemies.has_base_power.has_max_power] Deals {BASEPOWER}% damage to the target and nearby enemies.
- Deals additional {POWERPERFAMILIAR}% damage for each Fiend or Mega Fiend owned by the enemies, up to {MAXPOWER}% damage in total.
-- [specials.v2.property.manastealthresholdaftereffectchainstrike.target_prefer_continuation.no_duplicates.over_mana_threshold.to.all.allies] Steals {ABSPOWER}% mana from the target and distributes it on allies.
-If the target has more than {THRESHOLD}% mana after mana stealing, the Special Skill repeats targeting a random enemy. The damage is reduced on each consecutive hit. Each enemy can only be hit once.
-- [specials.v2.property.pre.eatfamiliars.neartotarget.enemies.minion.follower] Destroys all Minions from the target and nearby enemies.
-- [specials.v2.property.removestatuseffects.allbuffs.neartotarget.enemies] Removes all buffs and stacks from the target and nearby enemies. Removes even buffs and stacks that are otherwise undispellable or uncleansable.
-- [specials.v2.property.secondarydirecteffect.damage.single.allies] Deal {SECONDARYPOWER}% damage to self.
-- [specials.v2.property.statuseffectreallocation.from.all.enemies.to.lessorequaltohalfhpleft.allies] Steals dispellable buffs from all the enemies and randomly distributes them on allies who have 50% or less HP left.
-- [specials.v2.property.statuseffecttagconditionrepeatspecial.extra] If the target is defeated, the Special Skill will not be recast.
-- [specials.v2.property.targetfamiliarbasedchainstrikewithfamiliarsummon.extra] The Seedling Fiend evolves into a Sprout Fiend after {EVOLVINGFAMILIAR1EVOLVETURNS} turns.
-The Sprout Fiend evolves into a Blossom Mega Fiend after {EVOLVINGFAMILIAR2EVOLVETURNS} turns.
-
- Seedling Fiend: {EVOLVINGFAMILIAR1ATTACK}% attack, {EVOLVINGFAMILIAR1HEALTH}% health
- Sprout Fiend: {EVOLVINGFAMILIAR2ATTACK}% attack, {EVOLVINGFAMILIAR2HEALTH}% health
- Blossom Mega Fiend: {EVOLVINGFAMILIAR3ATTACK}% attack, {EVOLVINGFAMILIAR3HEALTH}% health
-
-A Fiend damages their target every turn. A Fiend disappears after absorbing healing. Amount of healing required depends on the target's max health.
-- [specials.v2.property.targetfamiliarbasedchainstrikewithfamiliarsummon.onehit.parasite.bigparasite.evolving_seedling_parasite] If the target has Fiends or Mega Fiends, deals {DAMAGE}% damage to a random different enemy.
-Summons a Seedling Fiend to each hit enemy.
-- [specials.v2.property.thresholdchainstrike.target_prefer_continuation.no_duplicates.over_health_threshold] If the target had more than {THRESHOLD1}% health before receiving damage, targets another enemy who had over {THRESHOLD2}% health before receiving any damage from this Special Skill. If none of the other enemies had {THRESHOLD3}% health, targets a random enemy. The damage is reduced on each consecutive hit. Each enemy can only be hit once.
-- [specials.v2.property.thresholdchainstrike.target_prefer_continuation.no_duplicates.over_health_threshold.damage_increases] If the target had more than {THRESHOLD1}% health before receiving damage, targets another enemy who had over {THRESHOLD2}% health before receiving any damage from this Special Skill. If none of the other enemies had {THRESHOLD3}% health, targets a random enemy. The damage is increased on each consecutive hit. Each enemy can only be hit once.
-- [specials.v2.property.thresholdchainstrike.target_prefer_continuation.no_duplicates.over_mana_threshold] If the target had more than {THRESHOLD1}% mana before receiving damage, targets another enemy who had over {THRESHOLD2}% mana before receiving any damage from this Special Skill. If none of the other enemies had {THRESHOLD3}% mana, targets a random enemy. The damage is reduced on each consecutive hit. Each enemy can only be hit once.
-- [specials.v2.property.thresholdchainstrike.target_prefer_continuation.no_duplicates.under_health_threshold] If the target has less than {THRESHOLD1}% health before receiving damage, targets another enemy who had less than {THRESHOLD2}% health before receiving any damage from this Special Skill. If none of the other enemies have {THRESHOLD3}% health, targets a random enemy. The damage is reduced on each consecutive hit. Each enemy can only be hit once.
-- [specials.v2.statuseffect.major.buffimmunity.neartotarget.enemies] The target and nearby enemies are immune to new status effect buffs for {TURNS} turns. This effect is undispellable.
-- [specials.v2.statuseffect.major.cover.randomexceptcaster.allies] Gives cover to a random ally for {TURNS} turns. This effect can't be dispelled.
-- [specials.v2.statuseffect.major.damageanddebuffshield.single.allies.turns.one] All received damage and status ailments are blocked for {TURNS} turn.
-- [specials.v2.statuseffect.major.frost.all.enemies] All enemies receive {DAMAGE} Frost damage over {TURNS} turns. This effect can't be cleansed.
-- [specials.v2.statuseffect.major.minioncorruption.neartotarget.enemies.minion.bigminion] Inflicts the target and nearby enemies with Minion Corruption for {TURNS} turns, that adds a chance of Minions transforming into Fiends. This effect is uncleansable.
-- [specials.v2.statuseffect.major.statuseffectgeneratorstatuseffectskill.single.allies.on.ownturnstart.special_damage_power_modifier_weland.mana_regen_weland.dispelincreasesactivations] Source of Buffs: The following effects are cast on a random ally at the start of each turn:
- {STATUSEFFECT1POWER}% Special Skill damage for {STATUSEFFECT1TURNS} turns.
- {STATUSEFFECT2MANAREGEN}% mana generation for {STATUSEFFECT2TURNS} turns. 
- The Source of Buffs will activate {MAXACTIVATIONCOUNT} times. Each attempt to dispel it removes one activation.
-- [specials.v2.statuseffect.minor.berserkreddefense.neartotarget.enemies.decrease] The target and the nearby enemies gets {DEFENSE}% defense against Fire, and a further {CHANGE}% decrease every time they are hit during {TURNS} turns, down to {MAXMODIFIER}% defense.
-- [specials.v2.statuseffect.minor.bloodpoisoning.sides.enemies] The enemies on the edges of the enemy formation receive {BASICDAMAGE} Surge Bleed damage over {TURNS} turns.
-- [specials.v2.statuseffect.minor.burn.neartotarget.enemies.noturns] The target and nearby enemies receive lasting {DAMAGE} Burn damage per turn.
-- [specials.v2.statuseffect.minor.changingnormalattackmodifier.single.allies] The caster gets {ATTACK}% normal attack for {TURNS} turns. The normal attack is increased by {CHANGE}% each turn. This effect can be active in addition to effects that alter attack in general. Normal attacks can have a total maximum of {MAXATTACK}% increased power while this effect is active.
-- [specials.v2.statuseffect.minor.damageonremoval.single.allies.onremoval.damage.random.enemies.death] If the caster is defeated in {TURNS} turns, a random enemy receive {DAMAGE} damage.
-- [specials.v2.statuseffect.minor.elementmirror.all.all.allies] All allies reflect all status effects and {DEFLECTION}% damage back to the attacker and block other negative effects from enemy Special Skills for {TURNS} turns.
-- [specials.v2.statuseffect.minor.fixedpurpledefensemodifier.allminor.enemies] The target gets {DEFENSE} against Dark and all other enemies get {MINORDEFENSE} against Dark for {TURNS} turns.
-- [specials.v2.statuseffect.minor.resistcleansefromspecial.sides.enemies] The enemies on the edges of the enemy formation can't get their status ailments cleansed or reallocated by Special Skills for {TURNS} turns.
-- [specials.v2.statuseffect.minor.resistresurrecteffects.neartotarget.enemies] The target and nearby enemies can't receive new status effects that would resurrect them for {TURNS} turns.
-- [specials.v2.statuseffect.minor.reviveincapability.neartotarget.enemies] The target and nearby enemies can't revive their allies or themselves for {TURNS} turns.
-- [specials.v2.statuseffect.minor.stackingcritmodifier.neartotarget.allies] Stack (Max: {MAXSTACK}): Caster and nearby allies get {CRIT}% critical chance.
-总数: 42
+--- 无未匹配英文条目 ---
 
 --- 未使用的zh-Hant翻译 ---
 - [specials.v2.directeffect.addmana.all.enemies.increment] 使所有敵人的法力減少{MANA}%。
@@ -2917,7 +2798,6 @@ Summons a Seedling Fiend to each hit enemy.
 蠕蟲惡魔會吸收治療效果。在吸收的治療量等於目標最大生命值的{FAMILIARHEALTHPERCENT}%時消失。
 - [specials.v2.property.addstatuseffectswithchance.bleed_zarga.single.enemies] 目標有{ADDSTATUSEFFECTCHANCE}%的機率受到持續{STATUSEFFECT1TURNS}回合的{STATUSEFFECT1DAMAGE}點流血傷害。
 - [specials.v2.property.addstatuseffectswithchance.guestip1_hero7_bleed.single.enemies] 目標有{ADDSTATUSEFFECTCHANCE}%的機率受到持續{STATUSEFFECT1TURNS}回合的{STATUSEFFECT1DAMAGE}點流血傷害。
-- [specials.v2.property.buffchainstrike] 如果目標有增益且遭到命中，則會繼續瞄準另一個有增益的目標。如果其他敵人沒有增益，可隨機瞄準一個敵人。每次連續攻擊，傷害會減少。每個敵人只能被攻擊一次。
 - [specials.v2.property.chainstrike.allowmaintargetinrandomtargets.randommaintarget] 對{TOTALMAXHITS}名隨機敵人造成{DAMAGE}%傷害。
 - [specials.v2.property.chainstrike.minordamage.with_chance] 有{CHANCE}%的機率可額外攻擊隨機敵人，最多{MAXHITS}次。額外攻擊可造成輕微傷害。
 - [specials.v2.property.chainstrike.randommaintarget] 對{TOTALMAXHITS}名隨機敵人造成{DAMAGE}%傷害。
@@ -2937,6 +2817,7 @@ Summons a Seedling Fiend to each hit enemy.
 - [specials.v2.property.effectpereatenfamiliar.addmana.single.allies.permil.minion.follower.bigminion] 每個摧毀的小兵使施法者獲得{MANAPERFAMILIAR}%法力。
 - [specials.v2.property.effectpereatenfamiliar.damage.all.enemies.permil.minion.follower.minion.follower] 每摧毀一名小兵，便對所有敵人造成{DAMAGE}%額外傷害。
 - [specials.v2.property.elementdependenteffect.elemental_griffex_costume_camera.extra] 對其他格非斯角色無效。
+- [specials.v2.property.heallowhealthtargets.extra] 無視治療偷取、治療量修改和惡魔。
 - [specials.v2.property.icestrike.extra] 基礎傷害：{FIXEDPOWER}
 傷害比率會依攻擊者的攻擊力與防禦者的防禦力而調整。
 最大傷害：{MAX}
@@ -2959,15 +2840,19 @@ Summons a Seedling Fiend to each hit enemy.
 成長與枯萎會影響傷害的比率。
 影響攻擊與防禦的增益與狀態異常，不會影響傷害的比率。
 - [specials.v2.property.pre.eatfamiliars.all.allies.parasite.replacewith.jellyfish_minion_costume2] 將所有盟友的所有惡魔替代為水母小兵。
+- [specials.v2.property.pre.eatfamiliars.neartotarget.enemies.minion.follower.bigminion.fulleffecttobigfamiliars] 摧毀目標和附近敵人的全部小兵。此效果會對超級小兵造成傷害。
 - [specials.v2.property.pre.eatfamiliarswitheffectpereatenfamiliar.neartotarget.enemies.minion.follower.bigminion] 摧毀目標和附近敵人的全部小兵。此效果會對超級小兵造成傷害。
 - [specials.v2.property.pre.eatfamiliarswitheffectpereatenfamiliar.single.enemies.minion.follower.bigminion] 摧毀目標的全部小兵。此效果會對超級小兵造成傷害。
+- [specials.v2.property.pre.enablespecialcriticalhit] 此特殊技能有機會造成暴擊。
 - [specials.v2.property.pre.familiarchainstrike.minion.follower.bigminion] 摧毀目標的全部小兵。此效果會對超級小兵造成傷害。
 - [specials.v2.property.pre.manareallocation.from.single.enemies.to.all.allies] 自目標偷取{ABSPOWER}%法力，並分給盟友。
 - [specials.v2.property.random_special_costume_rumpelstiltskin] 抽取一張特殊效果卡片：
 - [specials.v2.property.random_special_kettle_pve] 烹煮隨機食物，獲得特殊效果：
+- [specials.v2.property.random_special_mimic2] 模仿怪會使出以下其中一項特殊攻擊：
 - [specials.v2.property.random_special_yona] 抽取一張特殊效果卡片：
 - [specials.v2.property.reducemaxhealth.extra] 最大生命值不得低於原最大生命值的{MINIMUMMAXHEALTH}%。
 任何生命值加成會造成額外降低{REDUCTION}點。
+- [specials.v2.property.reducemaxhealth.reducemaxhealth.all.enemies] 使所有敵人的最大生命值降低{REDUCTION}點。對有生命加成的目標效果更大。
 - [specials.v2.property.removebasestatmodifiers] 移除目標的成長和枯萎效果。
 - [specials.v2.property.removebasestatmodifiers.single.enemies] 移除目標的成長和枯萎效果。
 - [specials.v2.property.removestatuseffects.minorbuff.all.enemies] 驅散所有敵人的增益。
@@ -2980,12 +2865,19 @@ Summons a Seedling Fiend to each hit enemy.
 - [specials.v2.property.secondarydirecteffect.addmana.neartotargetminor.enemies.decrement] 使目標和附近敵人的法力減少{SECONDARYABSPOWER}%。
 - [specials.v2.property.secondarydirecteffect.damage.all.enemies.statuseffects.add_insanity_cultist_villager_female] 對所有敵人造成{SECONDARYPOWER}%傷害，並對其造成{STATUSEFFECT1INSANITYTOADD}點瘋狂。
 - [specials.v2.property.secondarydirecteffect.damage.all.enemies.statuseffects.add_insanity_gwendoline_changed_appearance] 對所有敵人造成{SECONDARYPOWER}%傷害，並對其造成{STATUSEFFECT1INSANITYTOADD}點瘋狂。
+- [specials.v2.property.secondarydirecteffect.damage.all.enemies.statuseffects.add_insanity_on_damage_khatrox] 對所有敵人造成{SECONDARYPOWER}%傷害，並對其造成{STATUSEFFECT1INSANITYTOADD}點瘋狂。
 - [specials.v2.property.secondarydirecteffect.damage.all.enemies.statuseffects.add_insanity_shoggo] 對所有敵人造成{SECONDARYPOWER}%傷害，並對其造成{STATUSEFFECT1INSANITYTOADD}點瘋狂。
 - [specials.v2.property.secondarydirecteffect.damage.all.enemies.statuseffects.add_insanity_wulfstan] 對所有敵人造成{SECONDARYPOWER}%傷害，並對其造成{STATUSEFFECT1INSANITYTOADD}點瘋狂。
 - [specials.v2.property.secondarydirecteffect.damage.neartotarget.enemies.statuseffects.add_insanity_burton] 對目標和鄰近敵人造成{SECONDARYPOWER}%傷害，並對其造成{STATUSEFFECT1INSANITYTOADD}點瘋狂。
 - [specials.v2.property.secondarydirecteffect.damage.neartotarget.enemies.statuseffects.add_insanity_cultist_warlock] 對目標和鄰近敵人造成{SECONDARYPOWER}%傷害，並對其造成{STATUSEFFECT1INSANITYTOADD}點瘋狂。
+- [specials.v2.property.secondarydirecteffect.damage.neartotarget.enemies.statuseffects.add_insanity_demhalar] 對目標和鄰近敵人造成{SECONDARYPOWER}%傷害，並對其造成{STATUSEFFECT1INSANITYTOADD}點瘋狂。
+- [specials.v2.property.secondarydirecteffect.damage.neartotarget.enemies.statuseffects.add_insanity_eldritch_host] 對目標和鄰近敵人造成{SECONDARYPOWER}%傷害，並對其造成{STATUSEFFECT1INSANITYTOADD}點瘋狂。
+- [specials.v2.property.secondarydirecteffect.damage.neartotarget.enemies.statuseffects.add_insanity_lamentia] 對目標和鄰近敵人造成{SECONDARYPOWER}%傷害，並對其造成{STATUSEFFECT1INSANITYTOADD}點瘋狂。
+- [specials.v2.property.secondarydirecteffect.damage.neartotarget.enemies.statuseffects.add_insanity_morryster] 對目標和鄰近敵人造成{SECONDARYPOWER}%傷害，並對其造成{STATUSEFFECT1INSANITYTOADD}點瘋狂。
 - [specials.v2.property.secondarydirecteffect.damage.neartotarget.enemies.statuseffects.add_insanity_on_damage_atwood] 對目標和鄰近敵人造成{SECONDARYPOWER}%傷害，並對其造成{STATUSEFFECT1INSANITYTOADD}點瘋狂。
+- [specials.v2.property.secondarydirecteffect.damage.neartotarget.enemies.statuseffects.add_insanity_piper] 對目標和鄰近敵人造成{SECONDARYPOWER}%傷害，並對其造成{STATUSEFFECT1INSANITYTOADD}點瘋狂。
 - [specials.v2.property.secondarydirecteffect.damage.single.enemies.statuseffects.add_insanity_cultist_villager_male] 對目標造成{SECONDARYPOWER}%傷害，並對其造成{STATUSEFFECT1INSANITYTOADD}點瘋狂。
+- [specials.v2.property.secondarydirecteffect.damage.single.enemies.statuseffects.add_insanity_eldritch_host] 對目標造成{SECONDARYPOWER}%傷害，並對其造成{STATUSEFFECT1INSANITYTOADD}點瘋狂。
 - [specials.v2.property.secondarydirecteffect.damage.single.enemies.statuseffects.add_insanity_on_damage_omen] 對目標造成{SECONDARYPOWER}%傷害，並對其造成{STATUSEFFECT1INSANITYTOADD}點瘋狂。
 - [specials.v2.property.secondarydirecteffect.healthboost.all.allies] 為所有盟友提供{HEALTHBOOST}點加成生命值。加成生命值能夠超過最大生命值。
 - [specials.v2.property.secondarydirecteffect.healthboost.all.allies.fixedpower] 為所有盟友提供{HEALTHBOOST}點加成生命值。加成生命值能夠超過最大生命值。
@@ -3000,11 +2892,7 @@ Summons a Seedling Fiend to each hit enemy.
 有小兵或超級小兵的敵人獲得{STATUSEFFECT1DEFENSE}%防禦，持續{STATUSEFFECT1TURNS}個回合。
 - [specials.v2.property.targethealthdependantextradamage.over_health_boundary.neartotarget] 對剩餘生命超過{HEALTHBOUNDARY}%的敵人造成{DAMAGEMULTIPLIER}%傷害。
 - [specials.v2.property.targethealthdependantextradamage.under_health_boundary.neartotarget] 對剩餘生命少於{HEALTHBOUNDARY}%的敵人造成{DAMAGEMULTIPLIER}%傷害。
-- [specials.v2.property.thresholdaftereffectchainstrike.allowmaintargetinrandomtargets.over_mana_threshold] 若目標法力減損後依然擁有{THRESHOLD1}%以上的法力，則此特殊技能將再次生效並攻擊一名隨機敵人。每次連續攻擊後，傷害將會降低。
-- [specials.v2.property.thresholdchainstrike.over_health_threshold] 若目標在受到傷害前有超過{THRESHOLD1}%的生命，則瞄準其他在受到此特殊技能傷害前超過{THRESHOLD2}%生命的敵人。若無其他敵人有{THRESHOLD3}%生命，則隨機瞄準敵人。每次連續攻擊，傷害會減少。每個敵人只能受攻擊一次。
-- [specials.v2.property.thresholdchainstrike.over_health_threshold.damage_increases] 若目標在受到傷害前有超過{THRESHOLD1}%的生命，則瞄準其他在受到此特殊技能傷害前超過{THRESHOLD2}%生命的敵人。若無其他敵人有{THRESHOLD3}%生命，則隨機瞄準敵人。每次連續攻擊，傷害會增加。每個敵人只能受攻擊一次。
-- [specials.v2.property.thresholdchainstrike.over_mana_threshold] 若目標在受到傷害前擁有超過{THRESHOLD1}%的法力，則瞄準其他在受到此特殊技能傷害前法力超過{THRESHOLD2}%的敵人。若其他敵人的法力皆未達{THRESHOLD3}%，則隨機瞄準敵人。每次連續攻擊的傷害都會減少。每個敵人只能受攻擊一次。
-- [specials.v2.property.thresholdchainstrike.under_health_threshold] 如果目標在受到傷害前生命值小於{THRESHOLD1}%，則在受到此特殊技能的任何傷害前，會將目標轉移為其他生命值小於{THRESHOLD2}%的敵人。如果沒有其他敵人具有{THRESHOLD3}%的生命值，便將目標改為隨機敵人。每次連續攻擊所造成的傷害都會減少。每個敵人只會被擊中一次。
+- [specials.v2.property.thresholdaftereffectchainstrike.over_mana_threshold] 若目標法力減損後依然擁有{THRESHOLD1}%以上的法力，則此特殊技能將再次生效並攻擊一名隨機敵人。每次連續攻擊後，傷害將會降低。
 - [specials.v2.property.wither.extra] 枯萎和成長能修改角色的能力分數。即便角色被擊敗，效果仍會存在。
 額外枯萎和成長效果能進一步修改能力分數。
 已修改的能力分數無法以驅散或淨化來移除。
@@ -3022,6 +2910,7 @@ Summons a Seedling Fiend to each hit enemy.
 - [specials.v2.statuseffect.major.defensemodifier.single.allies.while.single.allies.familiaralive.larva_costume_hulda] 召喚幼蟲小兵之後，主人擁有幼蟲小兵期間，幼蟲小兵會賦予其主人{DEFENSE}%防禦。此效果無法被驅散。
 - [specials.v2.statuseffect.major.elementlinkattack.yellow.allies] 元素鏈使所有神聖盟友提高{ATTACK}%攻擊，持續{TURNS}個回合。此效果無法驅散。
 - [specials.v2.statuseffect.major.managenerationmodifier.single.allies.while.single.allies.familiaralive.larva.larva_costume_hulda] 召喚幼蟲小兵之後，主人擁有幼蟲小兵期間，幼蟲小兵會賦予其主人{MANAREGEN}%法力產出。此效果無法被驅散。
+- [specials.v2.statuseffect.major.provokestatuseffectskill.all.enemies.on.turnend.damage.random.enemies.with_chance] 所有敵人都被激怒，持續{TURNS}個回合。被激怒的角色在回合結束時對一名隨機對手造成{POWER1}%傷害。此效果無法驅散。
 - [specials.v2.statuseffect.major.reallocateeffectsonhit.neartotarget.allies.effects.minorbuff.baseattackmodifier.basedefensemodifier.random] 施法者和附近盟友獲得黏黏表面，持續{TURNS}個回合。此效果無法驅散。
 黏黏表面：從進行攻擊的敵人身上竊取{REALLOCATIONCOUNT}個隨機可驅散增益或成長效果。
 - [specials.v2.statuseffect.major.reallocateeffectsonhit.neartotarget.allies.effects.minorbuff.random] 施法者和附近盟友獲得黏黏表面，持續{TURNS}個回合。此效果無法驅散。
@@ -3052,6 +2941,7 @@ Summons a Seedling Fiend to each hit enemy.
 - [specials.v2.statuseffect.minor.attackmodifier.all.enemies] 所有敵人獲得{ATTACK}%攻擊，持續{TURNS}個回合。
 - [specials.v2.statuseffect.minor.attackmodifier.purple.both] 所有暗黑系盟友與敵人獲得{ATTACK}%攻擊力，持續{TURNS}個回合。
 - [specials.v2.statuseffect.minor.attackmodifier.single.enemies.chain_strike.chain_strike_tweedles.on_additional_hit] 目標獲得{ATTACK}%攻擊，持續{TURNS}個回合。
+- [specials.v2.statuseffect.minor.berserk.all.allies] 所有盟友獲得{ATTACK}%攻擊，並在每次被擊中後增加{CHANGE}%，持續{TURNS}個回合，最高{MAXMODIFIER}%攻擊。
 - [specials.v2.statuseffect.minor.berserk.all.enemies] 所有敵人獲得{ATTACK}%攻擊，並在每次被擊中後降低{CHANGE}%，持續{TURNS}個回合，最低{MAXMODIFIER}%攻擊。
 - [specials.v2.statuseffect.minor.berserk.neartotarget.allies] 施法者和附近盟友獲得{ATTACK}%攻擊，並在每次被擊中後增加{CHANGE}%，持續{TURNS}個回合，最高{MAXMODIFIER}%攻擊。
 - [specials.v2.statuseffect.minor.berserkdefense.all.allies] 所有盟友獲得{DEFENSE}%防禦，並在每次被擊中後增加{CHANGE}%，持續{TURNS}個回合，最高{MAXMODIFIER}%防禦。
@@ -3087,6 +2977,7 @@ Summons a Seedling Fiend to each hit enemy.
 - [specials.v2.statuseffect.minor.possession.single.enemies.shifting_mindless_attack.removeonspecialcast] 回合開始時，目標的法力一旦滿格，便會自動對隨機盟友施放變幻莽夫亂拳，持續{TURNS}個回合。當此效果觸發時，效果將轉移到該盟友身上，並且刷新持續時間。
 - [specials.v2.statuseffect.minor.receiveddamagemodifier.all.allies.decrease.all.enemies] 所有盟友受到的傷害降低{DAMAGEREDUCTION}%，持續{TURNS}回合。
 - [specials.v2.statuseffect.minor.receiveddamagemodifier.all.enemies] 所有敵人受到的所有傷害提高{DAMAGEREDUCTION}%，持續{TURNS}個回合。
+- [specials.v2.statuseffect.minor.resisthealing.single.enemies.damage.chain_strike] 目標抵禦治療，且每次抵禦治療則受到{FIXEDPOWER}點傷害，持續{TURNS}回合。
 - [specials.v2.statuseffect.minor.revive.resurrectless.single.allies] 如果施法者在後續{TURNS}個回合中被擊敗，他們將在下一個回合開頭以{HEALTH}%生命值復活。施法者被擊敗時，所有狀態效果與疊加會被移除。
 - [specials.v2.statuseffect.minor.revive.resurrectlessless.all.allies] 如果任何盟友在後續{TURNS}個回合中被擊敗，他們將在下一個回合開頭以{HEALTH}%生命值復活。盟友被擊敗時，所有狀態效果與疊加會被移除。
 - [specials.v2.statuseffect.minor.revive.resurrectmore.all.allies] 如果任何盟友在後續{TURNS}個回合中被擊敗，他們將在下一個回合開頭以{HEALTH}%生命值復活。盟友被擊敗時，所有狀態效果與疊加會被移除。
@@ -3113,7 +3004,7 @@ Summons a Seedling Fiend to each hit enemy.
 岩漿立方會在{TURNS}個回合內爆炸，對其擁有者造成{DAMAGE}點傷害。
 若岩漿立方被淨化，則擁有者獲得{STATUSEFFECT1MANAREGEN}%法力產出，持續{REMOVALEFFECT2STATUSEFFECT1TURNS}個回合。
 - [specials.v2.statuseffect.sandcurse.single.enemies.contagious] 目標在{TURNS}個回合內受到{DAMAGE}點飛沙傷害。此效果會擴散至附近的敵人。
-总数: 213
+总数: 223
 
 
 === passive_skill (zh-Hans) 翻译分析调试信息 ===
@@ -3696,132 +3587,18 @@ This includes status effect buffs and ailments, positive and negative Stacks as 
 
 总重复组数: 51
 
---- 未匹配的英文条目 ---
-- [herocard.passive_skill.description.damageincreasebyinsanity.troop.specialskill.npcnormalattack] All damage from normal attacks and Special Skills dealt by this character is increased by {DAMAGEINCREASEPERSTEP}% per {INSANITYPERSTEP} Insanity on this character up to {MAXDAMAGEINCREASE}%.
-- [herocard.passive_skill.description.familiarcorechargeeffectonspecial.summonfamiliar.construct_minion_core.all.allies.always] The Construct Core of this character is a Minion Core.
-
-The Minion Core activates each time this character's Special Skill is cast:
-
- With a fully charged  Minion Core, summons a Killer Bot Minion with {FAMILIARHEALTHPERCENT}% HP and {FAMILIARATTACK}% attack inherited from the caster on all allies.
- The HP and attack inherited from the caster are scaled by the amount of charge in the Core. All charge is exhausted when the Core is activated.
- Before the Killer Bot Minion hits a target, it destroys all Minions from the target and damages Mega Minions.
-- [herocard.passive_skill.description.mimiclootonlevelcompleted.mimic_ascension_epic_yellow] This Mimic gives a chance for extra loot when completing stages:
-
-***
- Hidden Blade
- Orb of Magic
- Sturdy Shield
- Trap Tool
- Warm Cape
- Battle Manual 
- Chainmail Shirt
- Scabbard
- Tall Boots
-
-**
- Arcane Scripts
- Dagger
- Leather Armor
- Sharpening Stone
- Strong Rope
- Wooden Shield
-
-*
- Adventurer's Kit
- Practice Sword
- Rugged Clothes
-- [herocard.passive_skill.description.mimiclootonlevelcompleted.mimic_emblem_blue] This Mimic gives a chance for extra loot when completing stages:
-
-*****
- Master Sorcerer Emblems
- Master Wizard Emblems
-
-****
- Sorcerer Emblems
- Wizard Emblems
-- [herocard.passive_skill.description.mimiclootonlevelcompleted.mimic_emblem_green] This Mimic gives a chance for extra loot when completing stages:
-
-*****
- Master Paladin Emblems
- Master Druid Emblems
-
-****
- Paladin Emblems
- Druid Emblems
-- [herocard.passive_skill.description.mimiclootonlevelcompleted.mimic_emblem_purple] This Mimic gives a chance for extra loot when completing stages:
-
-*****
- Master Rogue Emblems
- Master Ranger Emblems
-
-****
- Rogue Emblems
- Ranger Emblems
-- [herocard.passive_skill.description.mimiclootonlevelcompleted.mimic_emblem_red] This Mimic gives a chance for extra loot when completing stages:
-
-*****
- Master Fighter Emblems
- Master Barbarian Emblems
-
-****
- Fighter Emblems
- Barbarian Emblems
-- [herocard.passive_skill.description.mimiclootonlevelcompleted.mimic_emblem_yellow] This Mimic gives a chance for extra loot when completing stages:
-
-*****
- Master Cleric Emblems
- Master Monk Emblems
-
-****
- Cleric Emblems
- Monk Emblems
-- [herocard.passive_skill.description.mimiclootonlevelcompleted.mimic_experience_rare_red] This Mimic gives a chance for extra loot when completing stages:
-
-**
-Uncommon Fire, Nature, Ice, Dark and Holy Heroes
-
-*
-Common Master Trainer Heroes
-Common Fire, Nature, Ice, Dark and Holy Heroes
-- [herocard.passive_skill.description.resist.alldefensemodifiers.defensewither.alldebuffs] This character is immune to status ailments, stacks and Wither effects that affect defense.
-- [herocard.passive_skill.description.resist.attackmodifiers.attackwither.alldebuffs] This character is immune to status ailments, stacks and Wither effects that affect attack.
-- [herocard.passive_skill.description.resist.specialblocking.with_effect.healthboost.addmana] This character is immune to status ailments that prevent the use of Special Skills. They also gain {HEALTHBOOST} boosted health and {MANA}% mana each time they resist.
-- [herocard.passive_skill.description.resistnewfamiliars.parasite.bigparasite] This character can't receive Fiends or Mega Fiends
-- [herocard.passive_skill.description.reviveinalternativeformwithinsanitychance] If defeated, this character has a chance to be reborn as an Eldritch Host. The chance is {CHANCEINCREASEPERSTEP}% per {INSANITYPERSTEP} Insanity on this character, up to a maximum chance of {MAXCHANCEINCREASE}%.
-
-The Eldritch Host has:
-{INHERITEDHEALTH}% inherited health. 
-{ATTACK} attack.
-{DEFENSE} defense.
-Special Skill: Eldritch Blight.
-- [herocard.passive_skill.description.summonfamiliarperturn.evolving_seedling_parasite.enemies] Summons a Seedling Fiend every turn to a random enemy.
-The Seedling Fiend evolves into a Sprout Fiend after {EVOLVINGFAMILIAR1EVOLVETURNS} turns.
-The Sprout Fiend evolves into a Blooming Mega Fiend after {EVOLVINGFAMILIAR2EVOLVETURNS} turns.
-
-Seedling Fiend: 
-{EVOLVINGFAMILIAR1ATTACK}% attack, {EVOLVINGFAMILIAR1HEALTH}% health
-
-Sprout Fiend: 
-{EVOLVINGFAMILIAR2ATTACK}% attack, {EVOLVINGFAMILIAR2HEALTH}% health
-
-Blossom Mega Fiend: 
-{EVOLVINGFAMILIAR3ATTACK}% attack, {EVOLVINGFAMILIAR3HEALTH}% health
-- [herocard.passive_skill.title.damageincreasebyinsanity.troop.specialskill.npcnormalattack] Branded By The Old Ones
-- [herocard.passive_skill.title.familiarcorechargeeffectonspecial.summonfamiliar.construct_minion_core] Minion Core
-- [herocard.passive_skill.title.resist.alldefensemodifiers.defensewither.alldebuffs] Resist Defense Reduction
-- [herocard.passive_skill.title.resist.attackmodifiers.attackwither.alldebuffs] Resist Attack Reduction
-- [herocard.passive_skill.title.resist.specialblocking.with_effect.healthboost.addmana] Empowered Resist Special Skill Blocking
-- [herocard.passive_skill.title.resistnewfamiliars.parasite.bigparasite] Resist Fiends and Mega Fiends
-- [herocard.passive_skill.title.reviveinalternativeformwithinsanitychance] Eldritch Pact
-总数: 22
+--- 无未匹配英文条目 ---
 
 --- 未使用的zh-Hant翻译 ---
+- [herocard.passive_skill.description.damagefamiliarsovertime.everyturn.all.enemies.minion.bigminion] 每回合開始時，對所有敵方小兵和超級小兵造成{DAMAGEPERTURN}點傷害。
 - [herocard.passive_skill.description.effectondamagereceived.none.specialskill.exclude.statuseffect.stacking_attack_on_damage_received_passive_pve.single.allies.onceperturn] 此角色受到特殊技能傷害時，獲得{STATUSEFFECT1ATTACK}%攻擊疊加 (最大值：{STATUSEFFECT1MAXSTACK})。每回合能獲得一層疊加。
 - [herocard.passive_skill.description.effectonhealsupportcharacter.troop.heal] 此角色每次回復生命時，也會獲得{POWER}%生命值。
 - [herocard.passive_skill.description.effectovertime.revival.neartotargetexceptcaster.allies] 每{TURNS}回合，以{POWER}%生命值來復活附近落敗盟友。
 - [herocard.passive_skill.description.healonheal.can_stack.heal] 此角色每次回復生命時，也會獲得{POWER}%生命值。
-- [herocard.passive_skill.description.resist.allattackmodifiersincludingwither.alldebuffs] 該角色對影響攻擊的狀態異常、疊加和枯萎效果具有天生抗性。
-- [herocard.passive_skill.description.resist.alldefensemodifiersincludingwither.alldebuffs] 該角色對影響防禦的狀態異常、疊加和枯萎效果具有天生抗性。
+- [herocard.passive_skill.description.reallocatestatuseffectonspecialcast.damage.all.enemies.minorbuff.newest.randomenemytarget] 當此角色施放其特殊技能時，會有{CHANCE}%機率隨機從有增益的敵人身上偷取最新的可驅散增益。若無敵人有增益，則對所有敵人造成{DAMAGE}%傷害。
+- [herocard.passive_skill.description.resist.alldefensemodifiersincludingwither.allstatuseffects] 此角色不受增加或減少防禦的效果影響。
+
+這包含狀態效果增益以及異常、正面與負面疊加以及枯萎和成長效果。
 - [herocard.passive_skill.description.resist.attackdelay.alldebuffs] 此角色的普通攻擊無法被延遲。
 - [herocard.passive_skill.description.resist.can_stack.alldebuffs.with_chance] 有{CHANCE}%額外機率可抵禦所有狀態異常。
 - [herocard.passive_skill.description.resistsupportcharacter.troop.alldebuffs.with_chance] 有{CHANCE}%額外機率可抵禦所有狀態異常。
@@ -3830,7 +3607,7 @@ Blossom Mega Fiend:
 - [herocard.passive_skill.description.statuseffectattackmodifiersupportcharacter.troop.reduction] 降低攻擊力的狀態異常，對此角色的效果降低{MODIFIER}%。
 - [herocard.passive_skill.description.statuseffectdefensemodifiersupportcharacter.troop.addition] 提升防禦的狀態效果，對此角色的效果提升{MODIFIER}%。
 - [herocard.passive_skill.description.statuseffectdefensemodifiersupportcharacter.troop.reduction] 降低防禦的狀態異常，對此角色的效果降低{MODIFIER}%。
-- [herocard.passive_skill.description.statuseffectonspecialcast.major.all.allies.softskin.status_effect_to_others.softskin] 每次此石像鬼施放特殊技能時，所有盟友獲得柔軟膚。它們受之後{MAXACTIVATIONS}次的傷害，其傷害減少{DAMAGEREDUCTION}%且也可抵禦所有狀態異常、法力減損與瘋狂。此效果無法驅散。
+- [herocard.passive_skill.description.statuseffectonspecialcast.major.all.allies.softskin.status_effect_to_others.softskin] 每次此石像鬼施放特殊技能時，所有盟友獲得柔軟膚。它們受之後{MAXACTIVATIONS}次的傷害，其傷害減少{DAMAGEREDUCTION}%且也對所有狀態異常、法力減損與瘋狂免疫。此效果無法驅散。
 - [herocard.passive_skill.description.summononownerdeath.slime_big_minion_green.neartotargetexceptcaster.allies] 當此角色被擊敗時，會召喚史萊姆超級小兵給附近盟友，這些小兵繼承此角色的{FAMILIARHEALTHPERCENT}%生命值和{FAMILIARATTACK}%攻擊力。
 - [herocard.passive_skill.description.summononownerdeath.slime_big_minion_purple.neartotargetexceptcaster.allies] 當此角色被擊敗時，會召喚史萊姆超級小兵給附近盟友，這些小兵繼承此角色的{FAMILIARHEALTHPERCENT}%生命值和{FAMILIARATTACK}%攻擊力。
 - [herocard.passive_skill.description.summononownerdeath.slime_big_minion_red.neartotargetexceptcaster.allies] 當此角色被擊敗時，會召喚史萊姆超級小兵給附近盟友，這些小兵繼承此角色的{FAMILIARHEALTHPERCENT}%生命值和{FAMILIARATTACK}%攻擊力。
@@ -3864,8 +3641,6 @@ Blossom Mega Fiend:
 - [herocard.passive_skill.title.league_resist_debuffs_manareduction_dispels] 聯盟優勢
 - [herocard.passive_skill.title.receivedstrongelementsupportcharacterdamage] 部隊精通
 - [herocard.passive_skill.title.remove_wither_from_allies] 守衛集結
-- [herocard.passive_skill.title.resist.allattackmodifiersincludingwither.alldebuffs] 抵抗攻擊減少
-- [herocard.passive_skill.title.resist.alldefensemodifiersincludingwither.alldebuffs] 抵抗防禦減少
 - [herocard.passive_skill.title.resist.defensemodifiers.alldebuffs] 抵禦防禦異常
 - [herocard.passive_skill.title.resist.manadebuffs] 抵禦法力異常
 - [herocard.passive_skill.title.resistsupportcharacter.troop.alldebuffs] 抵抗狀態異常
@@ -3888,12 +3663,14 @@ Blossom Mega Fiend:
 - [herocard.passive_skill.title.summononreceiveddamagewiththreshold.slime_big_minion_purple] 史萊姆小兵分裂
 - [herocard.passive_skill.title.summononreceiveddamagewiththreshold.slime_big_minion_red] 史萊姆小兵分裂
 - [herocard.passive_skill.title.summononreceiveddamagewiththreshold.slime_big_minion_yellow] 史萊姆小兵分裂
+- [herocard.passive_skill.title.summononsummon.activates_on_enemy_action.enemies.seedling_parasite.minion] 樹苗召喚
+- [herocard.passive_skill.title.titan_dread_damage_minions] 恐懼
 - [herocard.passive_skill.title.titan_dread_damage_minions_15] 恐懼
 - [herocard.passive_skill.title.titan_dread_damage_minions_16] 恐懼
 - [herocard.passive_skill.title.titan_dread_damage_minions_17] 恐懼
 - [herocard.passive_skill.title.titan_resist_16] 泰坦
 - [herocard.passive_skill.title.titan_resist_17] 泰坦
-总数: 77
+总数: 78
 
 
 === skill_name (zh-Hans) 翻译分析调试信息 ===
@@ -5021,58 +4798,7 @@ Blossom Mega Fiend:
 
 总重复组数: 116
 
---- 未匹配的英文条目 ---
-- [specials.name.arrows_of_altruism_liora] Arrows of Altruism
-- [specials.name.blade_of_horrid_affliction] Blade of Horrid Affliction
-- [specials.name.carnivore_garden] Carnivore Garden
-- [specials.name.chains_of_legion] Chains of Legion
-- [specials.name.dragon_autumn_blaze] Autumn Blaze
-- [specials.name.dragon_draining_blaze] Draining Blaze
-- [specials.name.dragon_rallying_breath] Rallying Breath
-- [specials.name.dragon_shocking_blaze] Shocking Blaze
-- [specials.name.drawn_to_the_depths] Drawn to the Depths
-- [specials.name.dress_up] Dress Up!
-- [specials.name.eldritch_blight] Eldritch Blight
-- [specials.name.enchanting_divination] Enchanting Divination
-- [specials.name.endless_maze] Endless Maze
-- [specials.name.flock_of_folly_eldwren] Flock of Folly
-- [specials.name.flower_arrangements] Flower Arrangements
-- [specials.name.fortunate_slice] Fortunate Slice
-- [specials.name.frenzied_rend] Frenzied Rend
-- [specials.name.garbage_shock_wave] Garbage Shock Wave
-- [specials.name.garlic_serving_edwin] Garlic Platter
-- [specials.name.gorging_bite_yellow] Gorging Bite
-- [specials.name.grab_and_run] Grab and Run
-- [specials.name.greedy_munch_red] Greedy Munch
-- [specials.name.hoverboard_crash] Hoverboard Crash
-- [specials.name.iceshatter] Iceshatter
-- [specials.name.impeccable_charge] Impeccable Charge
-- [specials.name.invigorating_soup] Invigorating Soup
-- [specials.name.jaw_clamp] Spreading Traps
-- [specials.name.melody_harvest] Melody Harvest
-- [specials.name.mimic_bite3] Mimic Greed
-- [specials.name.mimic_bite4] Mimic Provoke
-- [specials.name.mythic_lightning] Mythic Lightning
-- [specials.name.nephrite_blade] Nephrite Blade
-- [specials.name.oath_of_templar] Oath of the Templar
-- [specials.name.obliterating_surge] Obliterating Surge
-- [specials.name.orchestra_of_candles] Orchestra of Candles
-- [specials.name.overvlowing_whirlwind] Overflowing Whirlwind
-- [specials.name.pineapple_alchemist] Pineapple Alchemist
-- [specials.name.princess_unleashed] Princess Unleashed
-- [specials.name.protein_corruption] Protein Corruption
-- [specials.name.ritual_of_the_elements] Ritual of the Elements
-- [specials.name.ruthless_gambit] Ruthless Gambit
-- [specials.name.savage_gobble_blue] Savage Gobble
-- [specials.name.seeking_shots] Seeking Shots
-- [specials.name.soul_guardian] Soul Guardian
-- [specials.name.steel_rush] Steel Rush
-- [specials.name.treasure_ale] Treasure Ale
-- [specials.name.trickster_grenades] Trickster Grenades
-- [specials.name.turquoise_falcon] Turquoise Falcon
-- [specials.name.vantage_point] Vantage Point
-- [specials.name.wand_of_mana_trickery] Wand of Mana Trickery
-总数: 50
+--- 无未匹配英文条目 ---
 
 --- 未使用的zh-Hant翻译 ---
 - [specials.name.anger_of_the_woods_pve] 森林之怒
@@ -5145,6 +4871,7 @@ Blossom Mega Fiend:
 - [specials.name.marc] 瘋狂戳刺
 - [specials.name.might_of_the_ice_giants_final] 冰雪巨人蠻力
 - [specials.name.mimic_bite_burn] 腐蝕性啃咬
+- [specials.name.mimic_special2] 狡猾怪獸
 - [specials.name.mimic_training_hero_green_bite] 貪婪吞噬
 - [specials.name.mimic_training_hero_purple_bite] 貪婪吞噬
 - [specials.name.mimic_training_hero_red_bite] 貪婪吞噬
@@ -5181,12 +4908,17 @@ Blossom Mega Fiend:
 - [specials.name.rottman] 瘋狂老鼠狂熱
 - [specials.name.ruler_of_seas_deadly] 海之統領
 - [specials.name.sand_cyclone_pve] 狂沙旋風
+- [specials.name.savage_gobble_green] 野蠻吞噬
+- [specials.name.savage_gobble_purple] 野蠻吞噬
+- [specials.name.savage_gobble_red] 野蠻吞噬
+- [specials.name.savage_gobble_yellow] 野蠻吞噬
 - [specials.name.scar_of_the_depths_deadly] 深淵刀疤
 - [specials.name.sinister_enlace_deadly] 邪惡糾纏
 - [specials.name.slash_of_glass_blades] 玻璃刃連斬
 - [specials.name.slice_and_dice_pve] 剁碎切丁
 - [specials.name.soldiers_curse] 飛沙柔風
 - [specials.name.splintering_shot2] 分裂射擊
+- [specials.name.spreading_traps] 散播陷阱
 - [specials.name.staff_of_mana_control_pve] 法力操控法杖
 - [specials.name.standing_fortress3] 屹立碉堡
 - [specials.name.suffocating_smoke2] 窒息煙霧
@@ -5206,7 +4938,7 @@ Blossom Mega Fiend:
 - [specials.name.vengeful_scythe] 復仇鐮刀
 - [specials.name.viziers_curse] 飛沙狂風
 - [specials.name.wall_of_ki2] 氣之牆
-总数: 131
+总数: 137
 
 
 === aether_power (zh-Hans) 翻译分析调试信息 ===
@@ -5730,16 +5462,7 @@ This Hero has the following perks in this event:'
 
 总重复组数: 42
 
---- 未匹配的英文条目 ---
-- [familybonuses.description.long.parasite_attack_multiplier_from_summoner_vegetable] Fiends and Mega Fiends summoned by this character get {2MEMBERSMULTIPLIERPERCENTCHANGE}/{3MEMBERSMULTIPLIERPERCENTCHANGE}% attack.
-- [familybonuses.description.long.parasite_health_multiplier_from_summoner_vegetable] Fiends and Mega Fiends summoned by this character get {2MEMBERSMULTIPLIERPERCENTCHANGE}/{3MEMBERSMULTIPLIERPERCENTCHANGE}% health.
-- [familybonuses.description.short.parasite_attack_multiplier_from_summoner_vegetable] Fiends and Mega Fiends summoned by this character get {MULTIPLIERPERCENTCHANGE}% attack
-- [familybonuses.description.short.parasite_health_multiplier_from_summoner_vegetable] {MULTIPLIERPERCENTCHANGE}% health.
-- [herocard.family.title.forsaken] Forsaken Family
-- [herocard.family.title.forsaken.short] Forsaken
-- [herocard.family.title.institute] The Institute Family
-- [herocard.family.title.institute.short] The Institute
-总数: 8
+--- 无未匹配英文条目 ---
 
 --- 未使用的zh-Hant翻译 ---
 - [familybonuses.description.long.attack_multiplier_classic] {2MEMBERSMULTIPLIERPERCENTCHANGE}%/{3MEMBERSMULTIPLIERPERCENTCHANGE}%/{4MEMBERSMULTIPLIERPERCENTCHANGE}%/{5MEMBERSMULTIPLIERPERCENTCHANGE}%攻擊。
@@ -5749,12 +5472,16 @@ This Hero has the following perks in this event:'
 - [familybonuses.description.long.attack_multiplier_realm] {2MEMBERSMULTIPLIERPERCENTCHANGE}%/{3MEMBERSMULTIPLIERPERCENTCHANGE}%攻擊。
 - [familybonuses.description.long.build_charge_nidavellir_alt] 每次此角色受到普通攻擊或特殊技能的傷害時，熔融核心都會暴增。
 - [familybonuses.description.long.counter_attack_ninja2] {CHANCE}%/{2MEMBERSCHANCE}%/{3MEMBERSCHANCE}%的機率能以所受傷害的{MULTIPLIERPERCENT}%/{2MEMBERSMULTIPLIERPERCENT}%/{3MEMBERSMULTIPLIERPERCENT}%進行反擊。
+- [familybonuses.description.long.critical_multiplier_hotm2021] {MULTIPLIERPERCENTCHANGE}%/{2MEMBERSMULTIPLIERPERCENTCHANGE}%/{3MEMBERSMULTIPLIERPERCENTCHANGE}%暴擊率。
 - [familybonuses.description.long.critical_multiplier_outlaw] {MULTIPLIERPERCENTCHANGE}%/{2MEMBERSMULTIPLIERPERCENTCHANGE}%/{3MEMBERSMULTIPLIERPERCENTCHANGE}%暴擊率。
 - [familybonuses.description.long.defense_multiplier_classic] {2MEMBERSMULTIPLIERPERCENTCHANGE}%/{3MEMBERSMULTIPLIERPERCENTCHANGE}%/{4MEMBERSMULTIPLIERPERCENTCHANGE}%/{5MEMBERSMULTIPLIERPERCENTCHANGE}%防禦。
 - [familybonuses.description.long.dodge_ninja2] {CHANCE}%/{2MEMBERSCHANCE}%/{3MEMBERSCHANCE}%的機率能避開普通攻擊和特殊技能。
 - [familybonuses.description.long.heal_multiplier_classic] {2MEMBERSMULTIPLIERPERCENTCHANGE}%/{3MEMBERSMULTIPLIERPERCENTCHANGE}%/{4MEMBERSMULTIPLIERPERCENTCHANGE}%/{5MEMBERSMULTIPLIERPERCENTCHANGE}%治療。
+- [familybonuses.description.long.health_multiplier_forsaken_and_institute] {1MEMBERMULTIPLIERPERCENTCHANGE}%/{2MEMBERSMULTIPLIERPERCENTCHANGE}%/{3MEMBERSMULTIPLIERPERCENTCHANGE}%生命值
+- [familybonuses.description.long.mana_generation_multiplier_institute] {MULTIPLIERPERCENTCHANGE}%/{2MEMBERSMULTIPLIERPERCENTCHANGE}%/{3MEMBERSMULTIPLIERPERCENTCHANGE}%法力產出。
 - [familybonuses.description.long.mana_generation_multiplier_small_family] {MULTIPLIERPERCENTCHANGE}%/{2MEMBERSMULTIPLIERPERCENTCHANGE}%/{3MEMBERSMULTIPLIERPERCENTCHANGE}%法力產出。
 - [familybonuses.description.long.opera_defense_multiplier] {1MEMBERMULTIPLIERPERCENTCHANGE}%/{2MEMBERSMULTIPLIERPERCENTCHANGE}%/{3MEMBERSMULTIPLIERPERCENTCHANGE}%防禦。
+- [familybonuses.description.long.resist_insanity_3_members] 對瘋狂免疫。
 - [familybonuses.description.long.resist_mana_reduction_and_mana_debuffs_with_mana_on_resist_fauns.statuseffectdebuffs.addmana.single.allies] 有{CHANCE}%/{2MEMBERSCHANCE}%機率抵禦法力減損與法力狀態異常。此家族每次成功抵禦能給予此角色{POWER}%法力。
 - [familybonuses.description.short.attack_multiplier_champion] {MULTIPLIERPERCENTCHANGE}%攻擊
 - [familybonuses.description.short.attack_multiplier_classic] {MULTIPLIERPERCENTCHANGE}%攻擊
@@ -5766,6 +5493,7 @@ This Hero has the following perks in this event:'
 - [familybonuses.description.short.attack_multiplier_realm] {MULTIPLIERPERCENTCHANGE}%攻擊
 - [familybonuses.description.short.build_charge_nidavellir_alt] 每次此角色受到普通攻擊或特殊技能的傷害時，熔融核心都會暴增。
 - [familybonuses.description.short.counter_attack_ninja2] {CHANCE}%的機率能以所受傷害的{MULTIPLIERPERCENT}%進行反擊。
+- [familybonuses.description.short.critical_multiplier_forsaken] {MULTIPLIERPERCENTCHANGE}%暴擊率
 - [familybonuses.description.short.critical_multiplier_hotm2021] {MULTIPLIERPERCENTCHANGE}%暴擊率
 - [familybonuses.description.short.critical_multiplier_outlaw] {MULTIPLIERPERCENTCHANGE}%暴擊率
 - [familybonuses.description.short.critical_multiplier_realm] {MULTIPLIERPERCENTCHANGE}%暴擊率
@@ -5782,9 +5510,11 @@ This Hero has the following perks in this event:'
 - [familybonuses.description.short.heal_multiplier_classic] {MULTIPLIERPERCENTCHANGE}%治療
 - [familybonuses.description.short.heal_multiplier_hotm2020] {MULTIPLIERPERCENTCHANGE}%治療
 - [familybonuses.description.short.heal_multiplier_realm] {MULTIPLIERPERCENTCHANGE}%治療
+- [familybonuses.description.short.health_multiplier_forsaken_and_institute] {MULTIPLIERPERCENTCHANGE}%生命值
 - [familybonuses.description.short.increased_damage_against_minions_3_members] 額外{MULTIPLIERPERCENTCHANGE}%對小兵造成的傷害。
 - [familybonuses.description.short.increased_damage_against_minions_and_big_3_members] 額外{MULTIPLIERPERCENTCHANGE}%對小兵和超級小兵造成的傷害。
 - [familybonuses.description.short.mana_generation_multiplier_hotm2017] {MULTIPLIERPERCENTCHANGE}%法力產出
+- [familybonuses.description.short.mana_generation_multiplier_institute] {MULTIPLIERPERCENTCHANGE}%法力產出
 - [familybonuses.description.short.mana_generation_multiplier_realm] {MULTIPLIERPERCENTCHANGE}%法力產出
 - [familybonuses.description.short.mana_generation_multiplier_sakura] {MULTIPLIERPERCENTCHANGE}%法力產出
 - [familybonuses.description.short.mana_generation_multiplier_small_family] {MULTIPLIERPERCENTCHANGE}%法力產出
@@ -5793,7 +5523,8 @@ This Hero has the following perks in this event:'
 - [familybonuses.description.short.opera_attack_multiplier] {MULTIPLIERPERCENTCHANGE}%攻擊
 - [familybonuses.description.short.opera_defense_multiplier] {MULTIPLIERPERCENTCHANGE}%防禦
 - [familybonuses.description.short.opera_health_multiplier] {MULTIPLIERPERCENTCHANGE}%生命值
-- [familybonuses.description.short.resist_insanity_3_members] 對瘋狂效果具有天生抗性。
+- [familybonuses.description.short.resist_insanity] 對瘋狂免疫。
+- [familybonuses.description.short.resist_insanity_3_members] 對瘋狂免疫。
 - [familybonuses.description.short.resist_mana_reduction_and_mana_debuffs_with_mana_on_resist_fauns.statuseffectdebuffs.addmana.single.allies] 有{CHANCE}%機率可以抵禦法力減損和法力狀態異常，並在抵禦時獲得{POWER}%法力
 - [herocard.family.bonus_title.min1.max2] 1/2名英雄加成：
 - [herocard.family.bonus_title.min1.max3] 1/2/3名英雄加成：
@@ -5809,7 +5540,7 @@ This Hero has the following perks in this event:'
 - [herocard.family.title.raven_pve.short] 渡鴉
 - [herocard.family.title.stag_pve.short] 雄鹿
 - [herocard.family.title.wolf_pve.short] 惡狼
-总数: 66
+总数: 74
 
 
 === family_title (zh-Hans) 翻译分析调试信息 ===
@@ -5911,12 +5642,7 @@ This Hero has the following perks in this event:'
 
 总重复组数: 9
 
---- 未匹配的英文条目 ---
-- [herocard.family.title.forsaken] Forsaken Family
-- [herocard.family.title.forsaken.short] Forsaken
-- [herocard.family.title.institute] The Institute Family
-- [herocard.family.title.institute.short] The Institute
-总数: 4
+--- 无未匹配英文条目 ---
 
 --- 未使用的zh-Hant翻译 ---
 - [herocard.family.title.bear_pve.short] 熊
@@ -5976,14 +5702,13 @@ This Hero has the following perks in this event:'
 
 总重复组数: 3
 
---- 未匹配的英文条目 ---
-- [lottery.title.mimicsummon] Mimic Summon
-总数: 1
+--- 无未匹配英文条目 ---
 
 --- 未使用的zh-Hant翻译 ---
+- [lottery.title.featuredsummon] 元素召喚
 - [lottery.title.itemsummon] 升等召喚
 - [lottery.title.moths] 聯盟任務召喚
-总数: 2
+总数: 3
 
 
 === event_name (zh-Hans) 翻译分析调试信息 ===
@@ -6140,11 +5865,7 @@ This Hero has the following perks in this event:'
 
 总重复组数: 4
 
---- 未匹配的英文条目 ---
-- [quests.name.dragon_cave_classic] Dragon Cave
-- [quests.name.halloween_2025] New Halloween Event
-- [quests.special_rule.name.assist_dragon_mastery] Assist Dragon Mastery
-总数: 3
+--- 无未匹配英文条目 ---
 
 --- 未使用的zh-Hant翻译 ---
 - [quests.name.covenant_1] 聖約任務

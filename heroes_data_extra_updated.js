@@ -36071,7 +36071,11 @@ window.allHeroesExtra = [
         "rarity": 5,
         "Release date": "2025-09-04",
         "AetherPower": "Special Boost",
-        "skill_types": [],
+        "skill_types": [
+            "DoT Attackers",
+            "Snipers",
+            "Chain & Random Attackers"
+        ],
         "heroId": "elemental_doxan_costume_hacker",
         "baseAttack": 430,
         "baseDefense": 404,
@@ -36087,5 +36091,25 @@ window.allHeroesExtra = [
         "healthBonus": "45%",
         "manaBonus": "5%",
         "family": "super_elemental"
+    },
+    {
+        "name": "Freawaru",
+        "fancy name": "The Peace-Weaver",
+        "element": "Green",
+        "rarity": 5,
+        "Release date": "2025-09-05",
+        "AetherPower": "Bulwark",
+        "skill_types": [],
+        "heroId": "beowulf_freawaru",
+        "baseAttack": 587,
+        "baseDefense": 640,
+        "baseHealth": 1098,
+        "specialId": "scroll_of_fellowship",
+        "passiveSkills": [
+            "resist_buff_immunity",
+            "resist_mana_reductions_with_health_boost_and_mana",
+            "fixed_mana_per_enemy_buff"
+        ],
+        "family": "beowulf"
     }
 ];

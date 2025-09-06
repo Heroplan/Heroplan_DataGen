@@ -48195,9 +48195,10 @@
             "turns": 4
           },
           {
-            "id": "stacking_received_damage_reduction_ironheart",
+            "id": "basic_attack_beowulf",
             "sideAffected": "Allies",
-            "statusTargetType": "All"
+            "statusTargetType": "All",
+            "turns": 4
           }
         ]
       },
@@ -60048,5 +60049,5 @@
       }
     ]
   },
-  "specialsConfigId": 31502804
+  "specialsConfigId": 3836450638
 }
