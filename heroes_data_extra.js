@@ -36116,5 +36116,144 @@ window.allHeroesExtra = [
             "fixed_mana_per_enemy_buff"
         ],
         "family": "beowulf"
+    },
+    {
+        "name": "Isshtak glass",
+        "fancy name": "Glass Fighter",
+        "element": "Green",
+        "rarity": 3,
+        "Release date": "2025-09-07",
+        "AetherPower": "Special Boost",
+        "skill_types": [
+            "AoE Attackers (Hit-3)",
+            "Bypassers"
+        ],
+        "heroId": "lizardman_warrior_costume_glass",
+        "baseAttack": 247,
+        "baseDefense": 232,
+        "baseHealth": 497,
+        "specialId": "ramming_rush",
+        "specialId_costume": "glass_ramming_rush_isshtak",
+        "passiveSkills": [
+            "glass_reflect_debuffs"
+        ],
+        "costumeBonusPassiveSkillIds": null,
+        "attackBonus": "17%",
+        "defenseBonus": "17%",
+        "healthBonus": "22%",
+        "manaBonus": "5%",
+        "family": "classic"
+    },
+    {
+        "name": "Horghall glass",
+        "fancy name": "Vitrail of the Woods",
+        "element": "Green",
+        "rarity": 5,
+        "Release date": "2025-09-07",
+        "AetherPower": "Defense Up",
+        "skill_types": [
+            "AoE Attackers (Hit-5)",
+            "Debuffers (ATK)",
+            "Bypassers"
+        ],
+        "heroId": "forest_titan_costume_glass",
+        "baseAttack": 301,
+        "baseDefense": 338,
+        "baseHealth": 759,
+        "specialId": "anger_of_forest",
+        "specialId_costume": "glass_anger_of_forest_horghall",
+        "passiveSkills": [
+            "glass_reflect_debuffs"
+        ],
+        "costumeBonusPassiveSkillIds": null,
+        "attackBonus": "75%",
+        "defenseBonus": "75%",
+        "healthBonus": "78%",
+        "manaBonus": "5%",
+        "family": "classic"
+    },
+    {
+        "name": "Oberon glass",
+        "fancy name": "Relentless Vitrail",
+        "element": "Purple",
+        "rarity": 3,
+        "Release date": "2025-09-07",
+        "AetherPower": "Mana Boost",
+        "skill_types": [
+            "AoE Attackers (Hit-5)",
+            "DoT Attackers",
+            "Bypassers"
+        ],
+        "heroId": "undead_horned_skeleton_costume_glass",
+        "baseAttack": 262,
+        "baseDefense": 232,
+        "baseHealth": 455,
+        "specialId": "toxic_traps",
+        "specialId_costume": "glass_traps_oberon",
+        "passiveSkills": [
+            "glass_reflect_debuffs"
+        ],
+        "costumeBonusPassiveSkillIds": null,
+        "attackBonus": "17%",
+        "defenseBonus": "17%",
+        "healthBonus": "22%",
+        "manaBonus": "5%",
+        "family": "classic"
+    },
+    {
+        "name": "Tiburtus glass",
+        "fancy name": "Mournful Vitrail",
+        "element": "Purple",
+        "rarity": 4,
+        "Release date": "2025-09-07",
+        "AetherPower": "Attack Up",
+        "skill_types": [
+            "AoE Attackers (Hit-3)",
+            "Debuffers (DEF)",
+            "Bypassers"
+        ],
+        "heroId": "blackguard_commander_costume_glass",
+        "baseAttack": 308,
+        "baseDefense": 317,
+        "baseHealth": 470,
+        "specialId": "ramming_pulverizer",
+        "specialId_costume": "glass_pulverizer_tiburtus",
+        "passiveSkills": [
+            "glass_reflect_debuffs"
+        ],
+        "costumeBonusPassiveSkillIds": null,
+        "attackBonus": "19%",
+        "defenseBonus": "19%",
+        "healthBonus": "24%",
+        "manaBonus": "5%",
+        "family": "classic"
+    },
+    {
+        "name": "Scarlett glass",
+        "fancy name": "Raider from the Glass Sea",
+        "element": "Red",
+        "rarity": 4,
+        "Release date": "2025-09-07",
+        "AetherPower": "Attack Up",
+        "skill_types": [
+            "AoE Attackers (Hit-3)",
+            "Debuffers (ATK)",
+            "Bypassers"
+        ],
+        "heroId": "nomad_female_assassin_costume_glass",
+        "baseAttack": 344,
+        "baseDefense": 259,
+        "baseHealth": 497,
+        "specialId": "blade_barrage",
+        "specialId_costume": "glass_barrage_scarlett",
+        "passiveSkills": [
+            "glass_reflect_debuffs"
+        ],
+        "costumeBonusPassiveSkillIds": null,
+        "attackBonus": "19%",
+        "defenseBonus": "19%",
+        "healthBonus": "24%",
+        "manaBonus": "5%",
+        "family": "classic"
     }
 ];

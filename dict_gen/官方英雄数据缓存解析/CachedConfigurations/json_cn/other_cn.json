@@ -1,5 +1,6 @@
 {
   "otherConfig": {
+    "abCode": "ftue_energy_flow_active",
     "logic": {
       "dragonAscension": {
         "characterRecipes": [
@@ -80690,5 +80691,5 @@
     "criticalOperationPendingDelaySeconds": 3,
     "allowedCriticalOperationPendingCount": 3
   },
-  "otherConfigId": 1417694563
+  "otherConfigId": 1353791425
 }

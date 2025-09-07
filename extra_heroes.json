@@ -11,17 +11,6 @@
         "Lottery_Only":1
     },
     {
-        "name": "Horghall Glass",
-        "fancy_name": "Vitrail of the Woods",
-        "color": "Green",
-        "Release date": "",
-        "star": 5,
-        "family": "classic",
-        "costume_id": 4,
-        "heroId": "forest_titan_costume_glass",
-        "Lottery_Only":1
-    },
-    {
         "name": "Khatrox",
         "fancy_name": "Blighted Bruiser",
         "color": "Green",

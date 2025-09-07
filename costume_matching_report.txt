@@ -1,4 +1,4 @@
-✅ 成功匹配的服装 (457 / 0)
+✅ 成功匹配的服装 (462 / 0)
 ================================
 Name: Berden Costume1, Fancy Name: Adroit Archer
 Name: Hannah Costume1, Fancy Name: Adventurous Drover
@@ -147,6 +147,7 @@ Name: Rigard Glass, Fancy Name: Glass Cavalier
 Name: Sonya glass, Fancy Name: Glass Champion
 Name: Kashhrek Glass, Fancy Name: Glass Chieftain
 Name: Carver Glass, Fancy Name: Glass Cutpurse
+Name: Isshtak glass, Fancy Name: Glass Fighter
 Name: Li Xiu Glass, Fancy Name: Glass General
 Name: Kailani Glass, Fancy Name: Glass Healer
 Name: Azlar Glass, Fancy Name: Glass Leor
@@ -262,6 +263,7 @@ Name: Tettukh Costume1, Fancy Name: Morlock Cheerleader
 Name: Garjammal Costume1, Fancy Name: Morlock Kite Master
 Name: Akkorog Costume1, Fancy Name: Morlock Running Back
 Name: Tiburtus Toon, Fancy Name: Mournful Toon
+Name: Tiburtus glass, Fancy Name: Mournful Vitrail
 Name: Ahhotep Costume1, Fancy Name: Mummy Champion
 Name: Vaishali costume1, Fancy Name: Mystic Pie Master
 Name: Medea Costume1, Fancy Name: Naga Goddess of the Deep
@@ -295,10 +297,12 @@ Name: Roc Costume1, Fancy Name: Protector of the Beach
 Name: Mielikki Costume1, Fancy Name: Protector of the Bears
 Name: Norns Costume1, Fancy Name: Puppeteers of Destiny
 Name: Vanda Costume1, Fancy Name: Queen of Crime
+Name: Scarlett glass, Fancy Name: Raider from the Glass Sea
 Name: Scarlett Toon, Fancy Name: Raider from the Toon Sea
 Name: Zhou Yu Costume1, Fancy Name: Raven Commander
 Name: Lady Locke Costume1, Fancy Name: Rebel Queen
 Name: Oberon Toon, Fancy Name: Relentless Toon
+Name: Oberon glass, Fancy Name: Relentless Vitrail
 Name: Prisca Costume1, Fancy Name: Resolute Overseer
 Name: Prisca Toon, Fancy Name: Resolute Toon
 Name: Prisca Glass, Fancy Name: Resolute Vitrail
@@ -441,6 +445,7 @@ Name: Justice glass, Fancy Name: Vitrail of Stone
 Name: Marjana Glass, Fancy Name: Vitrail of Windemer
 Name: Melendor Glass, Fancy Name: Vitrail of the Forest
 Name: Joon Glass, Fancy Name: Vitrail of the Sun
+Name: Horghall glass, Fancy Name: Vitrail of the Woods
 Name: Sekhmet Costume1, Fancy Name: Warden of the Sun
 Name: Ferant Costume1, Fancy Name: Warden of the Wolves
 Name: Liu Bei Costume1, Fancy Name: Warlord of Forest
