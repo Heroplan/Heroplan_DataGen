@@ -36124,7 +36124,10 @@ window.allHeroesExtra = [
         "rarity": 3,
         "Release date": "2025-09-07",
         "AetherPower": "Special Boost",
-        "skill_types": [],
+        "skill_types": [
+            "AoE Attackers (Hit-3)",
+            "Bypassers"
+        ],
         "heroId": "lizardman_warrior_costume_glass",
         "baseAttack": 247,
         "baseDefense": 232,
@@ -36148,7 +36151,11 @@ window.allHeroesExtra = [
         "rarity": 5,
         "Release date": "2025-09-07",
         "AetherPower": "Defense Up",
-        "skill_types": [],
+        "skill_types": [
+            "AoE Attackers (Hit-5)",
+            "Debuffers (ATK)",
+            "Bypassers"
+        ],
         "heroId": "forest_titan_costume_glass",
         "baseAttack": 301,
         "baseDefense": 338,
@@ -36172,7 +36179,11 @@ window.allHeroesExtra = [
         "rarity": 3,
         "Release date": "2025-09-07",
         "AetherPower": "Mana Boost",
-        "skill_types": [],
+        "skill_types": [
+            "AoE Attackers (Hit-5)",
+            "DoT Attackers",
+            "Bypassers"
+        ],
         "heroId": "undead_horned_skeleton_costume_glass",
         "baseAttack": 262,
         "baseDefense": 232,
@@ -36196,7 +36207,11 @@ window.allHeroesExtra = [
         "rarity": 4,
         "Release date": "2025-09-07",
         "AetherPower": "Attack Up",
-        "skill_types": [],
+        "skill_types": [
+            "AoE Attackers (Hit-3)",
+            "Debuffers (DEF)",
+            "Bypassers"
+        ],
         "heroId": "blackguard_commander_costume_glass",
         "baseAttack": 308,
         "baseDefense": 317,
@@ -36220,7 +36235,11 @@ window.allHeroesExtra = [
         "rarity": 4,
         "Release date": "2025-09-07",
         "AetherPower": "Attack Up",
-        "skill_types": [],
+        "skill_types": [
+            "AoE Attackers (Hit-3)",
+            "Debuffers (ATK)",
+            "Bypassers"
+        ],
         "heroId": "nomad_female_assassin_costume_glass",
         "baseAttack": 344,
         "baseDefense": 259,
@@ -36236,5 +36255,75 @@ window.allHeroesExtra = [
         "healthBonus": "24%",
         "manaBonus": "5%",
         "family": "classic"
+    },
+    {
+        "name": "Lamentia",
+        "fancy name": "Servant of the Abyss",
+        "element": "Blue",
+        "rarity": 4,
+        "Release date": "2025-09-09",
+        "AetherPower": "Special Boost",
+        "skill_types": [],
+        "heroId": "forsaken_lamentia",
+        "baseAttack": 370,
+        "baseDefense": 352,
+        "baseHealth": 665,
+        "specialId": "frenzied_rend",
+        "passiveSkills": [
+            "damage_increase_by_insanity"
+        ],
+        "family": "forsaken"
+    },
+    {
+        "name": "Khatrox",
+        "fancy name": "Blighted Bruiser",
+        "element": "Green",
+        "rarity": 5,
+        "Release date": "2025-09-09",
+        "AetherPower": "Bulwark",
+        "skill_types": [],
+        "heroId": "forsaken_khatrox",
+        "baseAttack": 637,
+        "baseDefense": 580,
+        "baseHealth": 1099,
+        "specialId": "obliterating_surge",
+        "passiveSkills": [
+            "revive_in_alternative_form_with_insanity_chance"
+        ],
+        "family": "forsaken"
+    },
+    {
+        "name": "Prof Morryster",
+        "fancy name": "The Masked Savant",
+        "element": "Purple",
+        "rarity": 5,
+        "Release date": "2025-09-09",
+        "AetherPower": "Counterattack",
+        "skill_types": [],
+        "heroId": "institute_professor_morryster",
+        "baseAttack": 597,
+        "baseDefense": 635,
+        "baseHealth": 1089,
+        "specialId": "seeking_shots",
+        "passiveSkills": [
+            "damage_increase_by_insanity"
+        ],
+        "family": "institute"
+    },
+    {
+        "name": "Piper",
+        "fancy name": "Inquisitive Hired Gun",
+        "element": "Red",
+        "rarity": 3,
+        "Release date": "2025-09-09",
+        "AetherPower": "Defense Up",
+        "skill_types": [],
+        "heroId": "institute_piper",
+        "baseAttack": 312,
+        "baseDefense": 282,
+        "baseHealth": 519,
+        "specialId": "vantage_point",
+        "passiveSkills": null,
+        "family": "institute"
     }
 ];

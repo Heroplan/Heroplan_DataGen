@@ -41,7 +41,8 @@ family_name_corrections = {
     "woodlandfaun": "faun",
     "astraldwarfs": "astrald_warfs",
     "moth": "moths",
-    "wildcat": "wild_cat"
+    "wildcat": "wild_cat",
+    "theinstitute": "institute"
 }
 
 def extract_family_name(filename):

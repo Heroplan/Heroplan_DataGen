@@ -11,28 +11,6 @@
         "Lottery_Only":1
     },
     {
-        "name": "Khatrox",
-        "fancy_name": "Blighted Bruiser",
-        "color": "Green",
-        "Release date": "",
-        "star": 5,
-        "family": "forsaken",
-        "costume_id": 0,
-        "heroId": "forsaken_khatrox",
-        "Lottery_Only":1
-    },
-    {
-        "name": "Prof. Morryster",
-        "fancy_name": "The Masked Savant",
-        "color": "Purple",
-        "Release date": "",
-        "star": 5,
-        "family": "institute",
-        "costume_id": 0,
-        "heroId": "institute_professor_morryster",
-        "Lottery_Only":1
-    },
-    {
         "name": "Iron-Heart",
         "fancy_name": "Holy Guardian Construct",
         "color": "Yellow",
@@ -52,6 +30,50 @@
         "family": "moths",
         "costume_id": 0,
         "heroId": "moth_gardered",
+        "Lottery_Only":1
+    },
+    {
+        "name": "Bart",
+        "fancy_name": "Magic Carpet Speedster",
+        "color": "Blue",
+        "Release date": "",
+        "star": 5,
+        "family": "magic_carpet",
+        "costume_id": 0,
+        "heroId": "magic_carpet_bart",
+        "Lottery_Only":1
+    },
+    {
+        "name": "Becky C1",
+        "fancy_name": "Twilight Conjurer",
+        "color": "Purple",
+        "Release date": "",
+        "star": 5,
+        "family": "magic",
+        "costume_id": 1,
+        "heroId": "magic_becky_costume_gothic",
+        "Lottery_Only":1
+    },
+    {
+        "name": "Ratgrub",
+        "fancy_name": "Goblin Rat Courtier",
+        "color": "Yellow",
+        "Release date": "",
+        "star": 5,
+        "family": "goblin",
+        "costume_id": 0,
+        "heroId": "goblin_ratgrub",
+        "Lottery_Only":1
+    },
+    {
+        "name": "Lemniss",
+        "fancy_name": "Astral Dwarf Miner",
+        "color": "Purple",
+        "Release date": "",
+        "star": 5,
+        "family": "astral_dwarfs",
+        "costume_id": 0,
+        "heroId": "astral_dwarf_lemniss",
         "Lottery_Only":1
     }
 ]

@@ -76,6 +76,7 @@ family_corrections = {
     "zodiac_rat": "zodiac",
     "zodiac_snake": "zodiac",
     "zodiac_tiger": "zodiac",
+    "theinstitute": "institute",
 }
 
 typo_corrections = {

@@ -38424,7 +38424,7 @@
         "directEffects": [
           {
             "effectType": "Damage",
-            "powerMultiplierPerMil": 1900,
+            "powerMultiplierPerMil": 2050,
             "powerMultiplierIncrementPerLevelPerMil": 50
           }
         ],
@@ -51759,7 +51759,7 @@
         "statusEffect": "Toxin",
         "id": "toxin_gardered",
         "buff": "MinorDebuff",
-        "damageMultiplierPerMil": 90,
+        "damageMultiplierPerMil": 100,
         "damageMultiplierIncrementPerLevelPerMil": 3,
         "extraDamageModifierConfigs": [
           {
@@ -52653,7 +52653,7 @@
         "statusEffect": "AccuracyModifier",
         "id": "blind_bart",
         "buff": "MinorDebuff",
-        "accuracyIncrementPerMil": 65206,
+        "accuracyIncrementPerMil": 65156,
         "accuracyIncrementPerLevelPerMil": 246
       },
       {
@@ -53256,7 +53256,7 @@
         "buff": "MinorDebuff",
         "effectTargetType": "AllExceptCaster",
         "sideAffected": "Allies",
-        "powerMultiplierPerMil": 156,
+        "powerMultiplierPerMil": 176,
         "powerMultiplierIncrementPerLevelPerMil": 246
       },
       {
@@ -53266,7 +53266,7 @@
         "directEffects": [
           {
             "effectType": "Damage",
-            "powerMultiplierPerMil": 2650,
+            "powerMultiplierPerMil": 2300,
             "powerMultiplierIncrementPerLevelPerMil": 50
           }
         ],
@@ -62572,7 +62572,7 @@
             "id": "goblin_rat_princess_damage_all_enemies_on_special"
           }
         ],
-        "healthPerMil": 510,
+        "healthPerMil": 210,
         "healthPerLevelPerMil": 20,
         "monsterHealthPerMil": 200
       },
@@ -79258,5 +79258,5 @@
       "SharedDamage"
     ]
   },
-  "battleConfigId": 922956954
+  "battleConfigId": 2724221452
 }

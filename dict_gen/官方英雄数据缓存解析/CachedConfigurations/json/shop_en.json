@@ -1611,7 +1611,6 @@
         "productType": "Bundle",
         "id": "com.smallgiantgames.empires.bundle_pve_energy_refill_offer",
         "dollarValue": 4,
-        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -3775,7 +3774,7 @@
         "id": "lottery_tower_magic_default_ad",
         "sourceProductId": "lottery_tower_magic_default",
         "amount": 1,
-        "advertisedHero": "magic_carpet_lilli",
+        "advertisedHero": "magic_carpet_bart",
         "associatedEvent": "TowerMagic",
         "bucketWeights": [
           3215,
@@ -3802,7 +3801,7 @@
         "gemPrice": 350,
         "amount": 1,
         "uiPriority": 130,
-        "advertisedHero": "magic_carpet_lilli",
+        "advertisedHero": "magic_carpet_bart",
         "associatedEvent": "TowerMagic",
         "bucketWeights": [
           643,
@@ -20265,7 +20264,7 @@
         "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [],
-        "allianceGiftCustomContentId": "dynamic_alliancegift",
+        "allianceGiftCustomContentId": "dynamic2_alliancegift",
         "dynamicOfferProduct": true
       },
       {
@@ -56226,9 +56225,14 @@
         "id": "dynamic_alliancegift",
         "contents": [
           {
-            "type": "Hero",
-            "id": "trainer_rainbow_common",
-            "amount": 1
+            "type": "Item",
+            "id": "lottery_pickup_coin",
+            "amount": 50
+          },
+          {
+            "type": "Item",
+            "id": "lottery_legendary_troop",
+            "amount": 50
           }
         ]
       },
@@ -56236,13 +56240,14 @@
         "id": "dynamic2_alliancegift",
         "contents": [
           {
-            "type": "Gem",
+            "type": "Item",
+            "id": "lottery_legendary_troop",
             "amount": 50
           },
           {
-            "type": "Hero",
-            "id": "trainer_rainbow_rare",
-            "amount": 1
+            "type": "Item",
+            "id": "lottery_pickup_coin",
+            "amount": 50
           }
         ]
       },
@@ -78458,6 +78463,7 @@
           }
         ],
         "requiresQuestsUnlocked": true,
+        "requireStarterOffersSequenceFinished": true,
         "offerCategory": "Dynamic",
         "priorityInShop": 1,
         "zyngaStoreEnabled": true,
@@ -78516,6 +78522,7 @@
           }
         ],
         "requiresQuestsUnlocked": true,
+        "requireStarterOffersSequenceFinished": true,
         "offerCategory": "Dynamic",
         "priorityInShop": 1,
         "zyngaStoreEnabled": true,
@@ -78547,6 +78554,7 @@
           }
         ],
         "requiresQuestsUnlocked": true,
+        "requireStarterOffersSequenceFinished": true,
         "offerCategory": "Dynamic",
         "priorityInShop": 1,
         "zyngaStoreEnabled": true,
@@ -80730,6 +80738,7 @@
           }
         ],
         "requiresQuestsUnlocked": true,
+        "requireStarterOffersSequenceFinished": true,
         "offerCategory": "Dynamic",
         "priorityInShop": 1,
         "zyngaStoreEnabled": true,
@@ -80761,6 +80770,7 @@
           }
         ],
         "requiresQuestsUnlocked": true,
+        "requireStarterOffersSequenceFinished": true,
         "offerCategory": "Dynamic",
         "priorityInShop": 1,
         "zyngaStoreEnabled": true,
@@ -80788,6 +80798,7 @@
           }
         ],
         "requiresQuestsUnlocked": true,
+        "requireStarterOffersSequenceFinished": true,
         "offerCategory": "Dynamic",
         "priorityInShop": 1,
         "zyngaStoreEnabled": true,
@@ -80819,6 +80830,7 @@
           }
         ],
         "requiresQuestsUnlocked": true,
+        "requireStarterOffersSequenceFinished": true,
         "offerCategory": "Dynamic",
         "priorityInShop": 1,
         "zyngaStoreEnabled": true,
@@ -80842,6 +80854,7 @@
           }
         ],
         "requiresQuestsUnlocked": true,
+        "requireStarterOffersSequenceFinished": true,
         "offerCategory": "Dynamic",
         "priorityInShop": 1,
         "zyngaStoreEnabled": true,
@@ -81396,6 +81409,7 @@
           }
         ],
         "requiresQuestsUnlocked": true,
+        "requireStarterOffersSequenceFinished": true,
         "offerCategory": "Dynamic",
         "priorityInShop": 1,
         "zyngaStoreEnabled": true,
@@ -81423,6 +81437,7 @@
           }
         ],
         "requiresQuestsUnlocked": true,
+        "requireStarterOffersSequenceFinished": true,
         "offerCategory": "Dynamic",
         "priorityInShop": 1,
         "zyngaStoreEnabled": true,
@@ -81458,6 +81473,7 @@
           }
         ],
         "requiresQuestsUnlocked": true,
+        "requireStarterOffersSequenceFinished": true,
         "offerCategory": "Dynamic",
         "priorityInShop": 1,
         "zyngaStoreEnabled": true,
@@ -81497,6 +81513,7 @@
           }
         ],
         "requiresQuestsUnlocked": true,
+        "requireStarterOffersSequenceFinished": true,
         "offerCategory": "Dynamic",
         "priorityInShop": 1,
         "zyngaStoreEnabled": true,
@@ -81528,6 +81545,7 @@
           }
         ],
         "requiresQuestsUnlocked": true,
+        "requireStarterOffersSequenceFinished": true,
         "offerCategory": "Dynamic",
         "priorityInShop": 1,
         "zyngaStoreEnabled": true,
@@ -81575,6 +81593,7 @@
           }
         ],
         "requiresQuestsUnlocked": true,
+        "requireStarterOffersSequenceFinished": true,
         "offerCategory": "Dynamic",
         "priorityInShop": 1,
         "zyngaStoreEnabled": true,
@@ -81598,6 +81617,7 @@
           }
         ],
         "requiresQuestsUnlocked": true,
+        "requireStarterOffersSequenceFinished": true,
         "offerCategory": "Dynamic",
         "priorityInShop": 1,
         "zyngaStoreEnabled": true,
@@ -81626,6 +81646,7 @@
           }
         ],
         "requiresQuestsUnlocked": true,
+        "requireStarterOffersSequenceFinished": true,
         "offerCategory": "Dynamic",
         "priorityInShop": 1,
         "zyngaStoreEnabled": true,
@@ -81645,6 +81666,7 @@
           }
         ],
         "requiresQuestsUnlocked": true,
+        "requireStarterOffersSequenceFinished": true,
         "offerCategory": "Dynamic",
         "priorityInShop": 1,
         "zyngaStoreEnabled": true,
@@ -81688,6 +81710,7 @@
           }
         ],
         "requiresQuestsUnlocked": true,
+        "requireStarterOffersSequenceFinished": true,
         "offerCategory": "Dynamic",
         "priorityInShop": 1,
         "zyngaStoreEnabled": true,
@@ -81698,23 +81721,28 @@
         "id": "dynamic_offer_21_shrubbear",
         "products": [
           {
+            "id": "com.smallgiantgames.empires.dynamic_3b",
+            "purchaseLimit": 3
+          },
+          {
             "id": "com.smallgiantgames.empires.dynamic_5",
             "purchaseLimit": 3
           },
           {
-            "id": "com.smallgiantgames.empires.dynamic_5b",
-            "purchaseLimit": 3
-          },
-          {
-            "id": "com.smallgiantgames.empires.dynamic_7",
-            "purchaseLimit": 3
-          },
-          {
-            "id": "com.smallgiantgames.empires.dynamic_20",
+            "id": "com.smallgiantgames.empires.dynamic_10c",
             "purchaseLimit": 2
+          },
+          {
+            "id": "com.smallgiantgames.empires.dynamic_30",
+            "purchaseLimit": 2
+          },
+          {
+            "id": "com.smallgiantgames.empires.dynamic_100",
+            "purchaseLimit": 1
           }
         ],
         "requiresQuestsUnlocked": true,
+        "requireStarterOffersSequenceFinished": true,
         "offerCategory": "Dynamic",
         "priorityInShop": 1,
         "zyngaStoreEnabled": true,
@@ -83075,31 +83103,28 @@
         "id": "dynamic_offer_22_ludwig",
         "products": [
           {
-            "id": "com.smallgiantgames.empires.dynamic_3",
+            "id": "com.smallgiantgames.empires.dynamic_10",
             "purchaseLimit": 3
           },
           {
-            "id": "com.smallgiantgames.empires.dynamic_5c",
-            "purchaseLimit": 3
-          },
-          {
-            "id": "com.smallgiantgames.empires.dynamic_7c",
-            "purchaseLimit": 3
+            "id": "com.smallgiantgames.empires.dynamic_20",
+            "purchaseLimit": 2
           },
           {
             "id": "com.smallgiantgames.empires.dynamic_10b",
-            "purchaseLimit": 2
+            "purchaseLimit": 3
           },
           {
-            "id": "com.smallgiantgames.empires.dynamic_20b",
-            "purchaseLimit": 2
+            "id": "com.smallgiantgames.empires.dynamic_7",
+            "purchaseLimit": 3
           },
           {
-            "id": "com.smallgiantgames.empires.dynamic_30",
-            "purchaseLimit": 2
+            "id": "com.smallgiantgames.empires.dynamic_3",
+            "purchaseLimit": 3
           }
         ],
         "requiresQuestsUnlocked": true,
+        "requireStarterOffersSequenceFinished": true,
         "offerCategory": "Dynamic",
         "priorityInShop": 1,
         "zyngaStoreEnabled": true,
@@ -83127,6 +83152,7 @@
           }
         ],
         "requiresQuestsUnlocked": true,
+        "requireStarterOffersSequenceFinished": true,
         "offerCategory": "Dynamic",
         "priorityInShop": 1,
         "zyngaStoreEnabled": true,
@@ -83146,6 +83172,7 @@
           }
         ],
         "requiresQuestsUnlocked": true,
+        "requireStarterOffersSequenceFinished": true,
         "offerCategory": "Dynamic",
         "priorityInShop": 1,
         "zyngaStoreEnabled": true,
@@ -83170,6 +83197,7 @@
           }
         ],
         "requiresQuestsUnlocked": true,
+        "requireStarterOffersSequenceFinished": true,
         "offerCategory": "Dynamic",
         "priorityInShop": 1,
         "zyngaStoreEnabled": true,
@@ -83193,6 +83221,7 @@
           }
         ],
         "requiresQuestsUnlocked": true,
+        "requireStarterOffersSequenceFinished": true,
         "offerCategory": "Dynamic",
         "priorityInShop": 1,
         "zyngaStoreEnabled": true,
@@ -83220,6 +83249,7 @@
           }
         ],
         "requiresQuestsUnlocked": true,
+        "requireStarterOffersSequenceFinished": true,
         "offerCategory": "Dynamic",
         "priorityInShop": 1,
         "zyngaStoreEnabled": true,
@@ -83844,6 +83874,7 @@
           }
         ],
         "requiresQuestsUnlocked": true,
+        "requireStarterOffersSequenceFinished": true,
         "offerCategory": "Dynamic",
         "priorityInShop": 1,
         "zyngaStoreEnabled": true,
@@ -83875,6 +83906,7 @@
           }
         ],
         "requiresQuestsUnlocked": true,
+        "requireStarterOffersSequenceFinished": true,
         "offerCategory": "Dynamic",
         "priorityInShop": 1,
         "zyngaStoreEnabled": true,
@@ -83902,6 +83934,7 @@
           }
         ],
         "requiresQuestsUnlocked": true,
+        "requireStarterOffersSequenceFinished": true,
         "offerCategory": "Dynamic",
         "priorityInShop": 1,
         "zyngaStoreEnabled": true,
@@ -83937,6 +83970,7 @@
           }
         ],
         "requiresQuestsUnlocked": true,
+        "requireStarterOffersSequenceFinished": true,
         "offerCategory": "Dynamic",
         "priorityInShop": 1,
         "zyngaStoreEnabled": true,
@@ -83972,6 +84006,7 @@
           }
         ],
         "requiresQuestsUnlocked": true,
+        "requireStarterOffersSequenceFinished": true,
         "offerCategory": "Dynamic",
         "priorityInShop": 1,
         "zyngaStoreEnabled": true,
@@ -84006,6 +84041,8 @@
             "purchaseLimit": 2
           }
         ],
+        "requiresQuestsUnlocked": true,
+        "requireStarterOffersSequenceFinished": true,
         "offerCategory": "Dynamic",
         "zyngaStoreEnabled": true,
         "titleKey": "shop.offers.title.dynamic.silverpaws_treasure"
@@ -84035,6 +84072,8 @@
             "purchaseLimit": 3
           }
         ],
+        "requiresQuestsUnlocked": true,
+        "requireStarterOffersSequenceFinished": true,
         "offerCategory": "Dynamic",
         "zyngaStoreEnabled": true,
         "titleKey": "shop.offers.title.dynamic.jackpot_deal"
@@ -84064,6 +84103,8 @@
             "purchaseLimit": 1
           }
         ],
+        "requiresQuestsUnlocked": true,
+        "requireStarterOffersSequenceFinished": true,
         "offerCategory": "Dynamic",
         "zyngaStoreEnabled": true,
         "titleKey": "shop.offers.title.dynamic.moonlit_vault"
@@ -84089,6 +84130,8 @@
             "purchaseLimit": 2
           }
         ],
+        "requiresQuestsUnlocked": true,
+        "requireStarterOffersSequenceFinished": true,
         "offerCategory": "Dynamic",
         "priorityInShop": 1,
         "zyngaStoreEnabled": true,
@@ -84124,6 +84167,8 @@
             "purchaseLimit": 2
           }
         ],
+        "requiresQuestsUnlocked": true,
+        "requireStarterOffersSequenceFinished": true,
         "offerCategory": "Dynamic",
         "priorityInShop": 1,
         "zyngaStoreEnabled": true,
@@ -84163,6 +84208,8 @@
             "purchaseLimit": 2
           }
         ],
+        "requiresQuestsUnlocked": true,
+        "requireStarterOffersSequenceFinished": true,
         "offerCategory": "Dynamic",
         "priorityInShop": 1,
         "zyngaStoreEnabled": true,
@@ -84194,6 +84241,8 @@
             "purchaseLimit": 2
           }
         ],
+        "requiresQuestsUnlocked": true,
+        "requireStarterOffersSequenceFinished": true,
         "offerCategory": "Dynamic",
         "priorityInShop": 1,
         "zyngaStoreEnabled": true,
@@ -84217,6 +84266,8 @@
             "purchaseLimit": 3
           }
         ],
+        "requiresQuestsUnlocked": true,
+        "requireStarterOffersSequenceFinished": true,
         "offerCategory": "Dynamic",
         "priorityInShop": 1,
         "zyngaStoreEnabled": true,
@@ -84240,6 +84291,8 @@
             "purchaseLimit": 2
           }
         ],
+        "requiresQuestsUnlocked": true,
+        "requireStarterOffersSequenceFinished": true,
         "offerCategory": "Dynamic",
         "priorityInShop": 1,
         "zyngaStoreEnabled": true,
@@ -84271,6 +84324,8 @@
             "purchaseLimit": 2
           }
         ],
+        "requiresQuestsUnlocked": true,
+        "requireStarterOffersSequenceFinished": true,
         "offerCategory": "Dynamic",
         "priorityInShop": 1,
         "zyngaStoreEnabled": true,
@@ -84294,6 +84349,8 @@
             "purchaseLimit": 2
           }
         ],
+        "requiresQuestsUnlocked": true,
+        "requireStarterOffersSequenceFinished": true,
         "offerCategory": "Dynamic",
         "priorityInShop": 1,
         "zyngaStoreEnabled": true,
@@ -84333,6 +84390,8 @@
             "purchaseLimit": 2
           }
         ],
+        "requiresQuestsUnlocked": true,
+        "requireStarterOffersSequenceFinished": true,
         "offerCategory": "Dynamic",
         "priorityInShop": 1,
         "zyngaStoreEnabled": true,
@@ -84372,6 +84431,8 @@
             "purchaseLimit": 3
           }
         ],
+        "requiresQuestsUnlocked": true,
+        "requireStarterOffersSequenceFinished": true,
         "offerCategory": "Dynamic",
         "priorityInShop": 1,
         "zyngaStoreEnabled": true,
@@ -84395,6 +84456,8 @@
             "purchaseLimit": 2
           }
         ],
+        "requiresQuestsUnlocked": true,
+        "requireStarterOffersSequenceFinished": true,
         "offerCategory": "Dynamic",
         "priorityInShop": 1,
         "zyngaStoreEnabled": true,
@@ -84422,6 +84485,8 @@
             "purchaseLimit": 3
           }
         ],
+        "requiresQuestsUnlocked": true,
+        "requireStarterOffersSequenceFinished": true,
         "offerCategory": "Dynamic",
         "priorityInShop": 1,
         "zyngaStoreEnabled": true,
@@ -84441,6 +84506,8 @@
             "purchaseLimit": 2
           }
         ],
+        "requiresQuestsUnlocked": true,
+        "requireStarterOffersSequenceFinished": true,
         "offerCategory": "Dynamic",
         "priorityInShop": 1,
         "zyngaStoreEnabled": true,
@@ -84469,6 +84536,8 @@
             "purchaseLimit": 2
           }
         ],
+        "requiresQuestsUnlocked": true,
+        "requireStarterOffersSequenceFinished": true,
         "offerCategory": "Dynamic",
         "priorityInShop": 1,
         "zyngaStoreEnabled": true,
@@ -84480,23 +84549,11 @@
         "id": "dynamic_offer_50_red_carmenta",
         "products": [
           {
-            "id": "com.smallgiantgames.empires.dynamic_3b",
-            "purchaseLimit": 3
+            "id": "com.smallgiantgames.empires.dynamic_10b",
+            "purchaseLimit": 2
           },
           {
-            "id": "com.smallgiantgames.empires.dynamic_3c",
-            "purchaseLimit": 3
-          },
-          {
-            "id": "com.smallgiantgames.empires.dynamic_5b",
-            "purchaseLimit": 3
-          },
-          {
-            "id": "com.smallgiantgames.empires.dynamic_7c",
-            "purchaseLimit": 3
-          },
-          {
-            "id": "com.smallgiantgames.empires.dynamic_20c",
+            "id": "com.smallgiantgames.empires.dynamic_29",
             "purchaseLimit": 2
           }
         ],
@@ -84531,6 +84588,8 @@
             "purchaseLimit": 2
           }
         ],
+        "requiresQuestsUnlocked": true,
+        "requireStarterOffersSequenceFinished": true,
         "offerCategory": "Dynamic",
         "priorityInShop": 1,
         "zyngaStoreEnabled": true,
@@ -84542,34 +84601,21 @@
         "id": "dynamic_offer_52_sparkles",
         "products": [
           {
-            "id": "com.smallgiantgames.empires.dynamic_12",
-            "purchaseLimit": 4
-          },
-          {
-            "id": "com.smallgiantgames.empires.dynamic_50",
-            "purchaseLimit": 1
-          },
-          {
-            "id": "com.smallgiantgames.empires.dynamic_5b",
+            "id": "com.smallgiantgames.empires.dynamic_10e",
             "purchaseLimit": 2
           },
           {
-            "id": "com.smallgiantgames.empires.dynamic_20",
-            "purchaseLimit": 2
-          },
-          {
-            "id": "com.smallgiantgames.empires.dynamic_7",
-            "purchaseLimit": 2
-          },
-          {
-            "id": "com.smallgiantgames.empires.dynamic_5d",
+            "id": "com.smallgiantgames.empires.dynamic_10d",
             "purchaseLimit": 2
           }
         ],
+        "requiresQuestsUnlocked": true,
+        "requireStarterOffersSequenceFinished": true,
         "offerCategory": "Dynamic",
         "priorityInShop": 1,
         "zyngaStoreEnabled": true,
         "offerLayoutSource": "dynamic_offer_19_sparkles",
+        "dynamicType": "AllianceGift",
         "titleKey": "shop.offers.title.dynamic.feel_the_power"
       },
       {
@@ -84597,6 +84643,8 @@
             "purchaseLimit": 2
           }
         ],
+        "requiresQuestsUnlocked": true,
+        "requireStarterOffersSequenceFinished": true,
         "offerCategory": "Dynamic",
         "priorityInShop": 1,
         "zyngaStoreEnabled": true,
@@ -84628,6 +84676,8 @@
             "purchaseLimit": 2
           }
         ],
+        "requiresQuestsUnlocked": true,
+        "requireStarterOffersSequenceFinished": true,
         "offerCategory": "Dynamic",
         "priorityInShop": 1,
         "zyngaStoreEnabled": true,
@@ -84671,6 +84721,8 @@
             "purchaseLimit": 3
           }
         ],
+        "requiresQuestsUnlocked": true,
+        "requireStarterOffersSequenceFinished": true,
         "offerCategory": "Dynamic",
         "priorityInShop": 1,
         "zyngaStoreEnabled": true,
@@ -84694,6 +84746,8 @@
             "purchaseLimit": 2
           }
         ],
+        "requiresQuestsUnlocked": true,
+        "requireStarterOffersSequenceFinished": true,
         "offerCategory": "Dynamic",
         "priorityInShop": 1,
         "zyngaStoreEnabled": true,
@@ -84717,6 +84771,8 @@
             "purchaseLimit": 2
           }
         ],
+        "requiresQuestsUnlocked": true,
+        "requireStarterOffersSequenceFinished": true,
         "offerCategory": "Dynamic",
         "priorityInShop": 1,
         "zyngaStoreEnabled": true,
@@ -84729,26 +84785,32 @@
         "id": "dynamic_offer_58_seshat",
         "products": [
           {
-            "id": "com.smallgiantgames.empires.dynamic_100b",
-            "purchaseLimit": 1
-          },
-          {
-            "id": "com.smallgiantgames.empires.dynamic_3",
-            "purchaseLimit": 3
-          },
-          {
             "id": "com.smallgiantgames.empires.dynamic_3b",
             "purchaseLimit": 3
           },
           {
-            "id": "com.smallgiantgames.empires.dynamic_7b",
+            "id": "com.smallgiantgames.empires.dynamic_3c",
             "purchaseLimit": 3
+          },
+          {
+            "id": "com.smallgiantgames.empires.dynamic_5b",
+            "purchaseLimit": 3
+          },
+          {
+            "id": "com.smallgiantgames.empires.dynamic_10c",
+            "purchaseLimit": 2
           },
           {
             "id": "com.smallgiantgames.empires.dynamic_30",
             "purchaseLimit": 2
+          },
+          {
+            "id": "com.smallgiantgames.empires.dynamic_50",
+            "purchaseLimit": 2
           }
         ],
+        "requiresQuestsUnlocked": true,
+        "requireStarterOffersSequenceFinished": true,
         "offerCategory": "Dynamic",
         "priorityInShop": 1,
         "zyngaStoreEnabled": true,
@@ -84776,6 +84838,8 @@
             "purchaseLimit": 2
           }
         ],
+        "requiresQuestsUnlocked": true,
+        "requireStarterOffersSequenceFinished": true,
         "offerCategory": "Dynamic",
         "priorityInShop": 1,
         "zyngaStoreEnabled": true,
@@ -84803,6 +84867,8 @@
             "purchaseLimit": 2
           }
         ],
+        "requiresQuestsUnlocked": true,
+        "requireStarterOffersSequenceFinished": true,
         "offerCategory": "Dynamic",
         "priorityInShop": 1,
         "zyngaStoreEnabled": true,
@@ -84834,6 +84900,8 @@
             "purchaseLimit": 1
           }
         ],
+        "requiresQuestsUnlocked": true,
+        "requireStarterOffersSequenceFinished": true,
         "offerCategory": "Dynamic",
         "priorityInShop": 1,
         "zyngaStoreEnabled": true,
@@ -84873,6 +84941,8 @@
             "purchaseLimit": 2
           }
         ],
+        "requiresQuestsUnlocked": true,
+        "requireStarterOffersSequenceFinished": true,
         "offerCategory": "Dynamic",
         "priorityInShop": 1,
         "zyngaStoreEnabled": true,
@@ -84896,6 +84966,8 @@
             "purchaseLimit": 2
           }
         ],
+        "requiresQuestsUnlocked": true,
+        "requireStarterOffersSequenceFinished": true,
         "offerCategory": "Dynamic",
         "priorityInShop": 1,
         "zyngaStoreEnabled": true,
@@ -84915,6 +84987,8 @@
             "purchaseLimit": 2
           }
         ],
+        "requiresQuestsUnlocked": true,
+        "requireStarterOffersSequenceFinished": true,
         "offerCategory": "Dynamic",
         "priorityInShop": 1,
         "zyngaStoreEnabled": true,
@@ -84942,6 +85016,8 @@
             "purchaseLimit": 2
           }
         ],
+        "requiresQuestsUnlocked": true,
+        "requireStarterOffersSequenceFinished": true,
         "offerCategory": "Dynamic",
         "priorityInShop": 1,
         "zyngaStoreEnabled": true,
@@ -88723,6 +88799,32 @@
                 "amount": 3
               }
             ]
+          },
+          {
+            "activationTime": "2025-09-09 11:30:00",
+            "contents": [
+              {
+                "type": "Item",
+                "id": "lottery_costume_key",
+                "amount": 50,
+                "zyngaStoreExtraAmount": 15
+              },
+              {
+                "type": "Hero",
+                "id": "trainer_rainbow_rare",
+                "amount": 20
+              },
+              {
+                "type": "Item",
+                "id": "hero_limitbreak_alpha",
+                "amount": 1
+              },
+              {
+                "type": "Item",
+                "id": "tome_levels_epic",
+                "amount": 5
+              }
+            ]
           }
         ]
       },
@@ -89321,6 +89423,28 @@
                 "id": "lottery_challenge_coin",
                 "amount": 30,
                 "zyngaStoreExtraAmount": 10
+              }
+            ]
+          },
+          {
+            "activationTime": "2025-09-09 11:30:00",
+            "contents": [
+              {
+                "type": "Item",
+                "id": "lottery_costume_key",
+                "amount": 30
+              },
+              {
+                "type": "Item",
+                "id": "lottery_elite_hero",
+                "amount": 3,
+                "zyngaStoreExtraAmount": 1
+              },
+              {
+                "type": "Item",
+                "id": "lottery_shadow_coin",
+                "amount": 150,
+                "zyngaStoreExtraAmount": 50
               }
             ]
           },
@@ -89948,6 +90072,27 @@
                 "type": "Item",
                 "id": "lottery_elite_hero",
                 "amount": 3
+              }
+            ]
+          },
+          {
+            "activationTime": "2025-09-10 09:00:00",
+            "contents": [
+              {
+                "type": "Item",
+                "id": "lottery_shadow_coin",
+                "amount": 300,
+                "zyngaStoreExtraAmount": 100
+              },
+              {
+                "type": "Item",
+                "id": "lottery_pickup_coin",
+                "amount": 250
+              },
+              {
+                "type": "Item",
+                "id": "lottery_legendary_troop",
+                "amount": 250
               }
             ]
           }
@@ -90864,6 +91009,22 @@
             ]
           },
           {
+            "activationTime": "2025-09-10 09:00:00",
+            "contents": [
+              {
+                "type": "Item",
+                "id": "lottery_pickup_coin",
+                "amount": 650,
+                "zyngaStoreExtraAmount": 100
+              },
+              {
+                "type": "Item",
+                "id": "relic_level_up_xp_multiplier",
+                "amount": 1
+              }
+            ]
+          },
+          {
             "activationTime": "2026-07-08 07:00:00",
             "contents": [
               {
@@ -91055,7 +91216,7 @@
         ]
       }
     ],
-    "scalingGemPriceEnabled": true,
+    "scalingGemPriceEnabled": false,
     "forcedOffers": [],
     "scheduledOffers": [
       {
@@ -92176,13 +92337,6 @@
         "endTime": "2025-09-05 06:30:00"
       },
       {
-        "id": "dynamic_offer_17_celebration_fireworks",
-        "slot": "RightBottom",
-        "scheduledManually": true,
-        "startTime": "2025-09-05 07:00:00",
-        "endTime": "2025-09-06 06:30:00"
-      },
-      {
         "id": "dynamic_offer_47_blue_fenrir",
         "slot": "RightMiddle",
         "scheduledManually": true,
@@ -92378,6 +92532,20 @@
         "endTime": "2025-09-09 06:30:00"
       },
       {
+        "id": "com.smallgiantgames.empires.limitbreakaether_fire",
+        "slot": "LeftTop",
+        "scheduledManually": true,
+        "startTime": "2025-09-08 11:00:00",
+        "endTime": "2025-09-09 07:00:00"
+      },
+      {
+        "id": "com.smallgiantgames.empires.limitbreakaether_dark",
+        "slot": "RightExtraTop",
+        "scheduledManually": true,
+        "startTime": "2025-09-08 11:00:00",
+        "endTime": "2025-09-10 07:00:00"
+      },
+      {
         "id": "dynamic_offer_1_yellow_eloise",
         "slot": "RightMiddle",
         "scheduledManually": true,
@@ -92410,6 +92578,13 @@
         "scheduledManually": true,
         "startTime": "2025-09-09 07:00:00",
         "endTime": "2025-09-13 07:00:00"
+      },
+      {
+        "id": "dynamic_offer_50_red_carmenta",
+        "slot": "LeftBottom",
+        "scheduledManually": true,
+        "startTime": "2025-09-09 11:30:00",
+        "endTime": "2025-09-10 06:30:00"
       },
       {
         "id": "dynamic_offer_42_blue_klaern",
@@ -92460,6 +92635,13 @@
         "endTime": "2025-09-13 07:00:00"
       },
       {
+        "id": "dynamic_offer_52_sparkles",
+        "slot": "RightExtraBottom",
+        "scheduledManually": true,
+        "startTime": "2025-09-10 09:00:00",
+        "endTime": "2025-09-11 06:30:00"
+      },
+      {
         "id": "dynamic_offer_20_norns",
         "slot": "RightTop",
         "scheduledManually": true,
@@ -92472,6 +92654,13 @@
         "scheduledManually": true,
         "startTime": "2025-09-11 07:00:00",
         "endTime": "2025-09-12 06:30:00"
+      },
+      {
+        "id": "com.smallgiantgames.empires.limitbreakaether_nature",
+        "slot": "RightExtraBottom",
+        "scheduledManually": true,
+        "startTime": "2025-09-11 07:00:00",
+        "endTime": "2025-09-12 07:00:00"
       },
       {
         "id": "dragon_flaming",
@@ -92528,15 +92717,15 @@
         "endTime": "2025-09-16 07:00:00"
       },
       {
-        "id": "dynamic_offer_33_silverpaw",
-        "slot": "LeftBottom",
+        "id": "dynamic_offer_40_red_yang_mai",
+        "slot": "RightMiddle",
         "scheduledManually": true,
         "startTime": "2025-09-13 07:00:00",
         "endTime": "2025-09-14 06:30:00"
       },
       {
-        "id": "dynamic_offer_40_red_yang_mai",
-        "slot": "RightMiddle",
+        "id": "dynamic_offer_58_seshat",
+        "slot": "LeftBottom",
         "scheduledManually": true,
         "startTime": "2025-09-13 07:00:00",
         "endTime": "2025-09-14 06:30:00"
@@ -92562,15 +92751,15 @@
         "endTime": "2025-09-15 07:00:00"
       },
       {
-        "id": "dynamic_offer_34_chunkyroi",
-        "slot": "RightMiddle",
+        "id": "dynamic_offer_21_shrubbear",
+        "slot": "RightTop",
         "scheduledManually": true,
         "startTime": "2025-09-14 07:00:00",
         "endTime": "2025-09-15 06:30:00"
       },
       {
-        "id": "dynamic_offer_35_sable",
-        "slot": "RightTop",
+        "id": "dynamic_offer_22_ludwig",
+        "slot": "RightMiddle",
         "scheduledManually": true,
         "startTime": "2025-09-14 07:00:00",
         "endTime": "2025-09-15 06:30:00"
@@ -92633,12 +92822,6 @@
         "slot": "RightTop",
         "startTime": "2025-09-15 07:00:00",
         "endTime": "2025-09-17 07:00:00"
-      },
-      {
-        "id": "ancient_dragon_calendar",
-        "slot": "LeftExtraTop",
-        "startTime": "2025-09-15 07:00:00",
-        "endTime": "2025-09-19 07:00:00"
       },
       {
         "id": "com.smallgiantgames.empires.double_covenant",
@@ -92731,6 +92914,12 @@
         "scheduledManually": true,
         "startTime": "2025-09-18 07:00:00",
         "endTime": "2025-09-20 07:00:00"
+      },
+      {
+        "id": "ancient_dragon_calendar",
+        "slot": "LeftExtraTop",
+        "startTime": "2025-09-18 07:00:00",
+        "endTime": "2025-09-22 07:00:00"
       },
       {
         "id": "tales1_calendar",
@@ -93596,7 +93785,6 @@
         "limitPerCycle": 2
       }
     ],
-    "instantPveEnergyFlowEnabled": true,
     "avatarShop": {
       "featured": {
         "referenceDate": 582811200,
@@ -102414,12 +102602,12 @@
               "endDate": "2025-09-23 07:00:00",
               "overridden": true,
               "featuredHeroes": [
-                "tales1_gelert",
-                "tales1_lasalle",
-                "styx_thanatos",
-                "styx_amphitrite"
+                "tales1_gestalt",
+                "tales1_spartoi",
+                "halloween_lucinda",
+                "halloween_edwin"
               ],
-              "advertisedHero": "tales1_gelert"
+              "advertisedHero": "tales1_gestalt"
             }
           ],
           "scheduleNotification": true,
@@ -102515,10 +102703,10 @@
                 "goblin"
               ],
               "featuredHeroes": [
-                "garrison_flamehide",
-                "garrison_archibald"
+                "goblin_ratgrub",
+                "garrison_rosalind"
               ],
-              "advertisedHero": "garrison_flamehide"
+              "advertisedHero": "goblin_ratgrub"
             },
             {
               "lotteryProductType": "Goblin Summon",
@@ -102880,10 +103068,10 @@
                 "astralelves"
               ],
               "featuredHeroes": [
-                "astral_dwarf_haumri",
-                "astral_dwarf_ixinn"
+                "astral_dwarf_lemniss",
+                "astral_dwarf_ceris"
               ],
-              "advertisedHero": "astral_dwarf_haumri"
+              "advertisedHero": "astral_dwarf_lemniss"
             }
           ],
           "scheduleNotification": true
@@ -103752,18 +103940,18 @@
               "lotteryProductType": "Ancient Dragon Summon",
               "id": "lottery_ancient_dragon_2025_9_16",
               "productId": "lottery_ancient_dragon_default",
-              "startDate": "2025-09-15 07:00:00",
-              "endDate": "2025-09-19 07:00:00",
+              "startDate": "2025-09-18 07:00:00",
+              "endDate": "2025-09-22 07:00:00",
               "overridden": true,
               "questLines": [
                 "ancient_dragon"
               ],
               "featuredHeroes": [
-                "dragon_bonefang",
-                "dragon_lux",
-                "dragon_aranth"
+                "dragon_hightide",
+                "dragon_regium",
+                "dragon_lux"
               ],
-              "advertisedHero": "dragon_bonefang",
+              "advertisedHero": "dragon_hightide",
               "eventOffer": "ancient_dragon_calendar"
             },
             {
@@ -107236,6 +107424,18 @@
             ],
             "extraHeroesPoolId": "default",
             "adSummonEnabled": true
+          },
+          {
+            "lotteryProductType": "Pick Up Summon",
+            "id": "pickup_summon_090925",
+            "productId": "lottery_pickup_default",
+            "startDate": "2025-09-10 09:00:00",
+            "endDate": "2025-09-11 07:00:00",
+            "featuredHeroes": [
+              "faun_araminta",
+              "gargoyle_garten"
+            ],
+            "extraHeroesPoolId": "default"
           }
         ],
         "extraHeroPools": [
@@ -109217,7 +109417,7 @@
     "aboveLimitPurchasesWarningThreshold": 10,
     "supportZyngaStoreCustomContentPayload": true,
     "zyngaStoreFreeGiftsPeriodResetHour": 774514800,
-    "zyngaStoreFreeGiftsPerPeriodLimit": 20,
+    "zyngaStoreFreeGiftsPerPeriodLimit": 25,
     "mysticVisionTiers": [
       {
         "id": "mystic_vision_tier_1",
@@ -109410,5 +109610,5 @@
       }
     ]
   },
-  "shopConfigId": 3466502529
+  "shopConfigId": 1198597915
 }

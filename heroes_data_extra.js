@@ -36255,5 +36255,98 @@ window.allHeroesExtra = [
         "healthBonus": "24%",
         "manaBonus": "5%",
         "family": "classic"
+    },
+    {
+        "name": "Lamentia",
+        "fancy name": "Servant of the Abyss",
+        "element": "Blue",
+        "rarity": 4,
+        "Release date": "2025-09-09",
+        "AetherPower": "Special Boost",
+        "skill_types": [
+            "AoE Attackers (Hit-3)",
+            "DoT Attackers",
+            "Negative Effects On Self Or Allies",
+            "Mindless Attack & Mindless Heal"
+        ],
+        "heroId": "forsaken_lamentia",
+        "baseAttack": 370,
+        "baseDefense": 352,
+        "baseHealth": 665,
+        "specialId": "frenzied_rend",
+        "passiveSkills": [
+            "damage_increase_by_insanity"
+        ],
+        "family": "forsaken"
+    },
+    {
+        "name": "Khatrox",
+        "fancy name": "Blighted Bruiser",
+        "element": "Green",
+        "rarity": 5,
+        "Release date": "2025-09-09",
+        "AetherPower": "Bulwark",
+        "skill_types": [
+            "Health Boosters",
+            "AoE Attackers (Hit-5)",
+            "Extra Damage Dealers",
+            "Mindless Attack & Mindless Heal",
+            "Negative Effects On Self Or Allies"
+        ],
+        "heroId": "forsaken_khatrox",
+        "baseAttack": 637,
+        "baseDefense": 580,
+        "baseHealth": 1099,
+        "specialId": "obliterating_surge",
+        "passiveSkills": [
+            "revive_in_alternative_form_with_insanity_chance"
+        ],
+        "family": "forsaken"
+    },
+    {
+        "name": "Prof Morryster",
+        "fancy name": "The Masked Savant",
+        "element": "Purple",
+        "rarity": 5,
+        "Release date": "2025-09-09",
+        "AetherPower": "Counterattack",
+        "skill_types": [
+            "Mindless Attack & Mindless Heal",
+            "Negative Effects On Self Or Allies",
+            "AoE Attackers (Hit-3)",
+            "Minions Counters",
+            "Debuffers (DEF)"
+        ],
+        "heroId": "institute_professor_morryster",
+        "baseAttack": 597,
+        "baseDefense": 635,
+        "baseHealth": 1089,
+        "specialId": "seeking_shots",
+        "passiveSkills": [
+            "damage_increase_by_insanity"
+        ],
+        "family": "institute"
+    },
+    {
+        "name": "Piper",
+        "fancy name": "Inquisitive Hired Gun",
+        "element": "Red",
+        "rarity": 3,
+        "Release date": "2025-09-09",
+        "AetherPower": "Defense Up",
+        "skill_types": [
+            "Mindless Attack & Mindless Heal",
+            "Negative Effects On Self Or Allies",
+            "AoE Attackers (Hit-3)",
+            "Stacking Heroes",
+            "Buffers (ATK)"
+        ],
+        "heroId": "institute_piper",
+        "baseAttack": 312,
+        "baseDefense": 282,
+        "baseHealth": 519,
+        "specialId": "vantage_point",
+        "passiveSkills": null,
+        "family": "institute"
     }
 ];

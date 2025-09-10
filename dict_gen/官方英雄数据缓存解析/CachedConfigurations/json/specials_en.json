@@ -46638,7 +46638,7 @@
           "sideAffected": "Allies",
           "typeOfTarget": "SidesExceptCaster",
           "effectType": "AddMana",
-          "powerMultiplierPerMil": 260,
+          "powerMultiplierPerMil": 230,
           "powerMultiplierIncrementPerLevelPerMil": 10
         },
         "maxLevel": 8,
@@ -46647,20 +46647,6 @@
             "id": "slime_big_minion_purple",
             "sideAffected": "Allies",
             "familiarTargetType": "Sides"
-          }
-        ],
-        "statusEffects": [
-          {
-            "id": "attack_sliposi",
-            "sideAffected": "Allies",
-            "statusTargetType": "Sides",
-            "turns": 4
-          },
-          {
-            "id": "crit_sliposi",
-            "sideAffected": "Allies",
-            "statusTargetType": "Sides",
-            "turns": 4
           }
         ]
       },
@@ -48077,7 +48063,7 @@
           "sideAffected": "Enemies",
           "typeOfTarget": "NearToTargetMinor",
           "effectType": "Damage",
-          "powerMultiplierPerMil": 2650,
+          "powerMultiplierPerMil": 3250,
           "powerMultiplierIncrementPerLevelPerMil": 50
         },
         "maxLevel": 8,
@@ -49102,7 +49088,7 @@
           "sideAffected": "Enemies",
           "typeOfTarget": "Single",
           "effectType": "Damage",
-          "powerMultiplierPerMil": 3200,
+          "powerMultiplierPerMil": 3950,
           "powerMultiplierIncrementPerLevelPerMil": 50
         },
         "maxLevel": 8,
@@ -49121,7 +49107,7 @@
           "sideAffected": "Allies",
           "typeOfTarget": "All",
           "effectType": "AddMana",
-          "powerMultiplierPerMil": 130,
+          "powerMultiplierPerMil": 30,
           "powerMultiplierIncrementPerLevelPerMil": 10
         },
         "maxLevel": 8,
@@ -55836,7 +55822,7 @@
         "propertyType": "MainTargetElementDependentEffect",
         "id": "damage_neartotarget_when_main_target_is_fire_wu_song",
         "element": "Red",
-        "effectPowerPerMil": 3150,
+        "effectPowerPerMil": 4650,
         "effectPowerIncrementPerLevelPerMil": 50,
         "effectType": "Damage",
         "targetType": "NearToTargetExceptMainTarget",
@@ -55845,7 +55831,7 @@
       {
         "propertyType": "SecondaryDirectEffect",
         "id": "damage_wu_song",
-        "powerMultiplierPerMil": 3650,
+        "powerMultiplierPerMil": 5650,
         "powerMultiplierIncrementPerLevelPerMil": 50,
         "effectType": "Damage",
         "targetType": "Single",
@@ -60049,5 +60035,5 @@
       }
     ]
   },
-  "specialsConfigId": 3836450638
+  "specialsConfigId": 1171286138
 }
