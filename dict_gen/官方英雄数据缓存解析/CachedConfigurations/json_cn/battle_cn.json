@@ -51472,7 +51472,7 @@
           }
         ],
         "modifier": "ManaGenerationModifier",
-        "multiplierPerMil": 850,
+        "multiplierPerMil": 900,
         "multiplierIncrementPerTurnPerMil": 156,
         "multiplierIncrementPerTurnIncrementPerLevelPerMil": 0
       },
@@ -53661,7 +53661,7 @@
         "id": "counterattack_ironheart",
         "buff": "MinorBuff",
         "iconOverrideStatusEffectId": "counter_attack",
-        "damageDeflectionPerMil": 940,
+        "damageDeflectionPerMil": 790,
         "damageDeflectionPerLevelPerMil": 30
       }
     ],
@@ -59525,7 +59525,7 @@
         "id": "league_heal_modifier_featured_family",
         "targets": "Single",
         "targetsSideAffected": "Allies",
-        "healMultiplierPerMil": 1300
+        "healMultiplierPerMil": 1150
       },
       {
         "passiveSkillType": "StatModifierAgainstTarget",
@@ -62557,8 +62557,8 @@
             "id": "damage_construct_minion_core"
           }
         ],
-        "healthPerMil": 30,
-        "healthPerLevelPerMil": 3
+        "healthPerMil": 20,
+        "healthPerLevelPerMil": 2
       },
       {
         "familiarType": "BigMinion",
@@ -75054,11 +75054,11 @@
           },
           {
             "type": "DefenseMultiplier",
-            "multiplierPerMil": 1800
+            "multiplierPerMil": 1500
           },
           {
             "type": "HealthMultiplier",
-            "multiplierPerMil": 1800
+            "multiplierPerMil": 1400
           }
         ],
         "extraPassiveSkillIds": [
@@ -75078,11 +75078,11 @@
           },
           {
             "type": "DefenseMultiplier",
-            "multiplierPerMil": 2200
+            "multiplierPerMil": 1800
           },
           {
             "type": "HealthMultiplier",
-            "multiplierPerMil": 2200
+            "multiplierPerMil": 1600
           }
         ],
         "extraPassiveSkillIds": [
@@ -75102,11 +75102,11 @@
           },
           {
             "type": "DefenseMultiplier",
-            "multiplierPerMil": 2700
+            "multiplierPerMil": 2400
           },
           {
             "type": "HealthMultiplier",
-            "multiplierPerMil": 2700
+            "multiplierPerMil": 2100
           }
         ],
         "extraPassiveSkillIds": [
@@ -78200,7 +78200,7 @@
     "moonriseDamageAlwaysHitEnabled": true,
     "familiarStrongAndWeakDamageChangeEnabled": true,
     "consecutiveManaGainReductionConfig": {
-      "enabled": false,
+      "enabled": true,
       "allowedManaGainsBeforeReduction": 5,
       "manaMultiplierPerConsecutiveManaGainPerMil": 500
     },
@@ -79258,5 +79258,5 @@
       "SharedDamage"
     ]
   },
-  "battleConfigId": 2724221452
+  "battleConfigId": 1769557120
 }

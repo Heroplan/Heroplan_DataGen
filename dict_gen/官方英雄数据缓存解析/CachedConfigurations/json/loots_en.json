@@ -36415,9 +36415,127 @@
         "entities": [
           {
             "type": "Item",
+            "amountResolver": {
+              "resolverType": "Fixed",
+              "amount": 1
+            },
             "idResolver": {
               "resolverType": "Fixed",
               "entityId": "lottery_elite_dragon"
+            }
+          },
+          {
+            "type": "Item",
+            "amountResolver": {
+              "resolverType": "RarityBased",
+              "amountsPerRarity": [
+                0,
+                0,
+                1,
+                100,
+                0
+              ]
+            },
+            "idResolver": {
+              "resolverType": "WeightedRandom",
+              "entityIds": [
+                "",
+                "refill_dragon_energy_pve_full",
+                "lottery_ancient_dragon_coin"
+              ],
+              "weights": [
+                80,
+                15,
+                5
+              ]
+            }
+          },
+          {
+            "type": "Item",
+            "amountResolver": {
+              "resolverType": "RarityBased",
+              "amountsPerRarity": [
+                15,
+                0,
+                1,
+                0,
+                0
+              ]
+            },
+            "idResolver": {
+              "resolverType": "WeightedRandom",
+              "entityIds": [
+                "dragon_common_feather",
+                "dragon_ornate_headdress",
+                "dragon_uncut_ruby",
+                "dragon_uncut_topaz",
+                "dragon_uncut_jade",
+                "dragon_uncut_amethyst",
+                "dragon_uncut_sapphire"
+              ],
+              "weights": [
+                70,
+                15,
+                3,
+                3,
+                3,
+                3,
+                3
+              ]
+            }
+          },
+          {
+            "type": "TrainerCharacter",
+            "amountResolver": {
+              "resolverType": "Fixed",
+              "amount": 1
+            },
+            "rarityResolver": {
+              "resolverType": "WeightedRandom",
+              "weights": [
+                0,
+                1
+              ]
+            }
+          },
+          {
+            "type": "Item",
+            "amountResolver": {
+              "resolverType": "RarityBased",
+              "amountsPerRarity": [
+                0,
+                0,
+                1,
+                1,
+                0
+              ]
+            },
+            "idResolver": {
+              "resolverType": "WeightedRandom",
+              "entityIds": [
+                "assist_skill_material_rare",
+                "assist_skill_material_epic",
+                "dragon_rainbow_chalice",
+                "dragon_dragonstone_pendant",
+                "dragon_sapphire_pendant",
+                "dragon_jade_pendant",
+                "dragon_ruby_pendant",
+                "dragon_amethyst_pendant",
+                "dragon_topaz_pendant",
+                ""
+              ],
+              "weights": [
+                750,
+                500,
+                72,
+                72,
+                72,
+                72,
+                72,
+                72,
+                72,
+                8246
+              ]
             }
           }
         ]
@@ -41317,5 +41435,5 @@
       }
     ]
   },
-  "lootsConfigId": 580697501
+  "lootsConfigId": 556065265
 }

@@ -35,7 +35,8 @@ SPECIAL_TIMESTAMP_KEYS = (
     'unlockDate',
     "latestIncludedHeroDate",
     "featuredHeroRotationReferenceTime",
-    "featuredHeroRotationDuration"
+    "featuredHeroRotationDuration",
+    "referenceDate"
 )
 SPECIAL_BOOLEAN_TRUE_KEYS = (
     "hasImprovedTalentSkill",

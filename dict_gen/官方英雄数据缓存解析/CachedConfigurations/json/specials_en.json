@@ -5279,7 +5279,7 @@
           "sideAffected": "Allies",
           "typeOfTarget": "All",
           "effectType": "Heal",
-          "powerMultiplierPerMil": 150,
+          "powerMultiplierPerMil": 160,
           "powerMultiplierIncrementPerLevelPerMil": 10
         },
         "maxLevel": 8,
@@ -17913,7 +17913,7 @@
           "sideAffected": "Enemies",
           "typeOfTarget": "NearToTarget",
           "effectType": "Damage",
-          "powerMultiplierPerMil": 3300,
+          "powerMultiplierPerMil": 3600,
           "powerMultiplierIncrementPerLevelPerMil": 50
         },
         "maxLevel": 8,
@@ -27370,7 +27370,7 @@
         "directEffect": {
           "sideAffected": "Enemies",
           "typeOfTarget": "Single",
-          "powerMultiplierPerMil": 3750,
+          "powerMultiplierPerMil": 4050,
           "powerMultiplierIncrementPerLevelPerMil": 50
         },
         "maxLevel": 8,
@@ -39184,7 +39184,7 @@
           "sideAffected": "Allies",
           "typeOfTarget": "All",
           "effectType": "HealthBoost",
-          "powerMultiplierPerMil": 250,
+          "powerMultiplierPerMil": 300,
           "powerMultiplierIncrementPerLevelPerMil": 50,
           "hasFixedPower": true
         },
@@ -45392,7 +45392,7 @@
         "id": "high_altitude_ambush",
         "directEffect": {
           "sideAffected": "Enemies",
-          "typeOfTarget": "Single",
+          "typeOfTarget": "NearToTargetMinor",
           "effectType": "Damage",
           "powerMultiplierPerMil": 5300,
           "powerMultiplierIncrementPerLevelPerMil": 50
@@ -45400,7 +45400,7 @@
         "maxLevel": 8,
         "properties": [
           "add_status_effects_agadh",
-          "buffs_to_ailments_single_enemy"
+          "buffs_to_ailments_nearby_enemies"
         ]
       },
       {
@@ -46241,7 +46241,7 @@
           "sideAffected": "Allies",
           "typeOfTarget": "All",
           "effectType": "HealthBoost",
-          "powerMultiplierPerMil": 600,
+          "powerMultiplierPerMil": 800,
           "powerMultiplierIncrementPerLevelPerMil": 100,
           "hasFixedPower": true
         },
@@ -48176,12 +48176,6 @@
         "statusEffects": [
           {
             "id": "counterattack_ironheart",
-            "sideAffected": "Allies",
-            "statusTargetType": "All",
-            "turns": 4
-          },
-          {
-            "id": "basic_attack_beowulf",
             "sideAffected": "Allies",
             "statusTargetType": "All",
             "turns": 4
@@ -58630,13 +58624,13 @@
           {
             "id": "corrosive_poison_agadh",
             "sideAffected": "Enemies",
-            "statusTargetType": "Single",
+            "statusTargetType": "NearToTarget",
             "turns": 3
           },
           {
             "id": "revive_incapability",
             "sideAffected": "Enemies",
-            "statusTargetType": "Single",
+            "statusTargetType": "NearToTarget",
             "turns": 3
           }
         ]
@@ -60035,5 +60029,5 @@
       }
     ]
   },
-  "specialsConfigId": 1171286138
+  "specialsConfigId": 3947222358
 }

@@ -36348,5 +36348,54 @@ window.allHeroesExtra = [
         "specialId": "vantage_point",
         "passiveSkills": null,
         "family": "institute"
+    },
+    {
+        "name": "Gardered",
+        "fancy name": "The Daremoth",
+        "element": "Red",
+        "rarity": 5,
+        "Release date": "2025-09-11",
+        "AetherPower": "Attack Up",
+        "skill_types": [
+            "AoE Attackers (Hit-3)",
+            "DoT Attackers",
+            "Sleepweavers",
+            "Minions Counters",
+            "Dodgers"
+        ],
+        "heroId": "moth_gardered",
+        "baseAttack": 633,
+        "baseDefense": 586,
+        "baseHealth": 1098,
+        "specialId": "triple_stab",
+        "passiveSkills": [
+            "dodge_enemy_damage_special"
+        ],
+        "family": "moths"
+    },
+    {
+        "name": "Iron-Heart",
+        "fancy name": "Holy Guardian Construct",
+        "element": "Yellow",
+        "rarity": 5,
+        "Release date": "2025-09-14",
+        "AetherPower": "Damage Reduction",
+        "skill_types": [
+            "Snipers",
+            "Healers (Special)",
+            "Mana Raisers",
+            "Counterattackers"
+        ],
+        "heroId": "construct_ironheart",
+        "baseAttack": 650,
+        "baseDefense": 606,
+        "baseHealth": 1018,
+        "specialId": "iron_rocket_fist",
+        "passiveSkills": [
+            "minion_core",
+            "hp_on_own_familiar_death_construct",
+            "resist_special_blocking_with_health_boost_and_mana"
+        ],
+        "family": "construct"
     }
 ];

@@ -875,5 +875,8 @@
     "DoT All Nature": "對全體自然系目標造成持續傷害",
     "Safely Dispels All": "安全驅散全體增益",
     "Insanity All Enemies": "全體敵人瘋狂",
-  "Minion Corruption 3": "腐化3個目標小兵"
+  "Minion Corruption 3": "腐化3個目標小兵",
+  "Deep Sleep 2": "2個目標深度睡眠",
+  "Self Heal on Kill": "擊敗時自身恢復",
+  "Self Mana Increase on Kill": "擊敗時自身法力增加"
 }

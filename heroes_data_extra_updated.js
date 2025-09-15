@@ -36263,7 +36263,12 @@ window.allHeroesExtra = [
         "rarity": 4,
         "Release date": "2025-09-09",
         "AetherPower": "Special Boost",
-        "skill_types": [],
+        "skill_types": [
+            "AoE Attackers (Hit-3)",
+            "DoT Attackers",
+            "Negative Effects On Self Or Allies",
+            "Mindless Attack & Mindless Heal"
+        ],
         "heroId": "forsaken_lamentia",
         "baseAttack": 370,
         "baseDefense": 352,
@@ -36281,7 +36286,13 @@ window.allHeroesExtra = [
         "rarity": 5,
         "Release date": "2025-09-09",
         "AetherPower": "Bulwark",
-        "skill_types": [],
+        "skill_types": [
+            "Health Boosters",
+            "AoE Attackers (Hit-5)",
+            "Extra Damage Dealers",
+            "Mindless Attack & Mindless Heal",
+            "Negative Effects On Self Or Allies"
+        ],
         "heroId": "forsaken_khatrox",
         "baseAttack": 637,
         "baseDefense": 580,
@@ -36299,7 +36310,13 @@ window.allHeroesExtra = [
         "rarity": 5,
         "Release date": "2025-09-09",
         "AetherPower": "Counterattack",
-        "skill_types": [],
+        "skill_types": [
+            "Mindless Attack & Mindless Heal",
+            "Negative Effects On Self Or Allies",
+            "AoE Attackers (Hit-3)",
+            "Minions Counters",
+            "Debuffers (DEF)"
+        ],
         "heroId": "institute_professor_morryster",
         "baseAttack": 597,
         "baseDefense": 635,
@@ -36317,7 +36334,13 @@ window.allHeroesExtra = [
         "rarity": 3,
         "Release date": "2025-09-09",
         "AetherPower": "Defense Up",
-        "skill_types": [],
+        "skill_types": [
+            "Mindless Attack & Mindless Heal",
+            "Negative Effects On Self Or Allies",
+            "AoE Attackers (Hit-3)",
+            "Stacking Heroes",
+            "Buffers (ATK)"
+        ],
         "heroId": "institute_piper",
         "baseAttack": 312,
         "baseDefense": 282,
@@ -36325,5 +36348,43 @@ window.allHeroesExtra = [
         "specialId": "vantage_point",
         "passiveSkills": null,
         "family": "institute"
+    },
+    {
+        "name": "Gardered",
+        "fancy name": "The Daremoth",
+        "element": "Red",
+        "rarity": 5,
+        "Release date": "2025-09-11",
+        "AetherPower": "Attack Up",
+        "skill_types": [],
+        "heroId": "moth_gardered",
+        "baseAttack": 633,
+        "baseDefense": 586,
+        "baseHealth": 1098,
+        "specialId": "triple_stab",
+        "passiveSkills": [
+            "dodge_enemy_damage_special"
+        ],
+        "family": "moths"
+    },
+    {
+        "name": "Iron-Heart",
+        "fancy name": "Holy Guardian Construct",
+        "element": "Yellow",
+        "rarity": 5,
+        "Release date": "2025-09-14",
+        "AetherPower": "Damage Reduction",
+        "skill_types": [],
+        "heroId": "construct_ironheart",
+        "baseAttack": 650,
+        "baseDefense": 606,
+        "baseHealth": 1018,
+        "specialId": "iron_rocket_fist",
+        "passiveSkills": [
+            "minion_core",
+            "hp_on_own_familiar_death_construct",
+            "resist_special_blocking_with_health_boost_and_mana"
+        ],
+        "family": "construct"
     }
 ];

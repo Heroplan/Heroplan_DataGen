@@ -1586,7 +1586,7 @@
     "baseDefense": 334,
     "manaSpeedId": "飞速",
     "passiveSkills": [
-      "halloween_steal_buff_or_deal_damage"
+      "halloween_steal_buff_or_deal_damage_new"
     ],
     "classType": "盗贼",
     "aetherGift": "Attack Up",
@@ -1605,7 +1605,7 @@
     "baseDefense": 360,
     "manaSpeedId": "飞速",
     "passiveSkills": [
-      "halloween_steal_buff_or_deal_damage"
+      "halloween_steal_buff_or_deal_damage_new"
     ],
     "classType": "巫师",
     "aetherGift": "Damage Reduction",
@@ -1624,7 +1624,7 @@
     "baseDefense": 364,
     "manaSpeedId": "快速",
     "passiveSkills": [
-      "halloween_steal_buff_or_deal_damage"
+      "halloween_steal_buff_or_deal_damage_new"
     ],
     "classType": "术士",
     "aetherGift": "Special Boost",
@@ -1643,7 +1643,7 @@
     "baseDefense": 298,
     "manaSpeedId": "慢",
     "passiveSkills": [
-      "halloween_steal_buff_or_deal_damage"
+      "halloween_steal_buff_or_deal_damage_new"
     ],
     "classType": "僧侣",
     "aetherGift": "Special Boost",
@@ -5108,7 +5108,7 @@
     "baseDefense": 280,
     "manaSpeedId": "飞速",
     "passiveSkills": [
-      "halloween_steal_buff_or_deal_damage"
+      "halloween_steal_buff_or_deal_damage_new"
     ],
     "classType": "盗贼",
     "aetherGift": "Vampire",
@@ -5125,7 +5125,7 @@
     "baseDefense": 309,
     "manaSpeedId": "飞速",
     "passiveSkills": [
-      "halloween_steal_buff_or_deal_damage"
+      "halloween_steal_buff_or_deal_damage_new"
     ],
     "classType": "僧侣",
     "aetherGift": "Vampire",
@@ -5142,14 +5142,14 @@
     "baseDefense": 326,
     "manaSpeedId": "飞速",
     "passiveSkills": [
-      "halloween_steal_buff_or_deal_damage"
+      "halloween_steal_buff_or_deal_damage_new"
     ],
     "classType": "巫师",
     "aetherGift": "Vampire",
     "rarity": 5,
     "specialId": "kings_blood_poisoning",
     "origin": "Halloween",
-    "costumeBonusesId": "easter"
+    "costumeBonusesId": "halloween"
   },
   "fire_god_zimkitha": {
     "id": "Long-Lost Daughter",
@@ -6827,7 +6827,7 @@
     "baseDefense": 301,
     "manaSpeedId": "慢",
     "passiveSkills": [
-      "halloween_steal_buff_or_deal_damage"
+      "halloween_steal_buff_or_deal_damage_new"
     ],
     "classType": "野蛮人",
     "aetherGift": "Regen",
@@ -6846,7 +6846,7 @@
     "baseDefense": 361,
     "manaSpeedId": "快速",
     "passiveSkills": [
-      "halloween_steal_buff_or_deal_damage"
+      "halloween_steal_buff_or_deal_damage_new"
     ],
     "classType": "盗贼",
     "aetherGift": "Attack Up",
@@ -6854,7 +6854,7 @@
     "specialId": "electric_cut",
     "canBeReceivedDate": "2020-10-26 07:00:00",
     "origin": "Halloween",
-    "costumeBonusesId": "easter"
+    "costumeBonusesId": "halloween"
   },
   "halloween_vanda": {
     "id": "Vampire Queen",
@@ -6865,7 +6865,7 @@
     "baseDefense": 357,
     "manaSpeedId": "飞速",
     "passiveSkills": [
-      "halloween_steal_buff_or_deal_damage"
+      "halloween_steal_buff_or_deal_damage_new"
     ],
     "classType": "术士",
     "aetherGift": "Vampire",
@@ -6873,7 +6873,7 @@
     "specialId": "twilight_of_sorrow",
     "canBeReceivedDate": "2020-10-26 07:00:00",
     "origin": "Halloween",
-    "costumeBonusesId": "easter"
+    "costumeBonusesId": "halloween"
   },
   "halloween_jack": {
     "id": "Pumpkin Minstrel",
@@ -6884,7 +6884,7 @@
     "baseDefense": 259,
     "manaSpeedId": "快速",
     "passiveSkills": [
-      "halloween_steal_buff_or_deal_damage"
+      "halloween_steal_buff_or_deal_damage_new"
     ],
     "classType": "巫师",
     "aetherGift": "Damage Reduction",
@@ -11115,7 +11115,7 @@
     "baseDefense": 452,
     "manaSpeedId": "慢",
     "passiveSkills": [
-      "halloween_steal_buff_or_deal_damage"
+      "halloween_steal_buff_or_deal_damage_new"
     ],
     "classType": "术士",
     "aetherGift": "Regen",
@@ -11133,7 +11133,7 @@
     "baseDefense": 432,
     "manaSpeedId": "快速",
     "passiveSkills": [
-      "halloween_steal_buff_or_deal_damage"
+      "halloween_steal_buff_or_deal_damage_new"
     ],
     "classType": "圣骑士",
     "aetherGift": "Attack Up",
@@ -11151,7 +11151,7 @@
     "baseDefense": 430,
     "manaSpeedId": "中等",
     "passiveSkills": [
-      "halloween_steal_buff_or_deal_damage"
+      "halloween_steal_buff_or_deal_damage_new"
     ],
     "classType": "战士",
     "aetherGift": "Vampire",
@@ -11169,7 +11169,7 @@
     "baseDefense": 390,
     "manaSpeedId": "飞速",
     "passiveSkills": [
-      "halloween_steal_buff_or_deal_damage"
+      "halloween_steal_buff_or_deal_damage_new"
     ],
     "classType": "术士",
     "aetherGift": "Vampire",
@@ -11177,7 +11177,7 @@
     "specialId": "vampiric_curse",
     "canBeReceivedDate": "2022-10-03 07:00:00",
     "origin": "Halloween",
-    "costumeBonusesId": "easter"
+    "costumeBonusesId": "halloween"
   },
   "halloween_miriam_and_midnight": {
     "id": "Occult Duo",
@@ -11188,7 +11188,7 @@
     "baseDefense": 407,
     "manaSpeedId": "中等",
     "passiveSkills": [
-      "halloween_steal_buff_or_deal_damage"
+      "halloween_steal_buff_or_deal_damage_new"
     ],
     "classType": "巫师",
     "aetherGift": "Defense Up",
@@ -11206,7 +11206,7 @@
     "baseDefense": 400,
     "manaSpeedId": "中等",
     "passiveSkills": [
-      "halloween_steal_buff_or_deal_damage"
+      "halloween_steal_buff_or_deal_damage_new"
     ],
     "classType": "僧侣",
     "aetherGift": "Defense Up",
@@ -11224,7 +11224,7 @@
     "baseDefense": 328,
     "manaSpeedId": "中等",
     "passiveSkills": [
-      "halloween_steal_buff_or_deal_damage"
+      "halloween_steal_buff_or_deal_damage_new"
     ],
     "classType": "牧师",
     "aetherGift": "Defense Up",
@@ -11242,7 +11242,7 @@
     "baseDefense": 269,
     "manaSpeedId": "中等",
     "passiveSkills": [
-      "halloween_steal_buff_or_deal_damage"
+      "halloween_steal_buff_or_deal_damage_new"
     ],
     "classType": "野蛮人",
     "aetherGift": "Attack Up",
@@ -17301,7 +17301,7 @@
     "specialId": "wand_of_mana_control",
     "canBeReceivedDate": "2023-06-28 07:00:00",
     "origin": "Tower of Magic",
-    "costumeBonusesId": "magic"
+    "costumeBonusesId": "magic_sep_2025"
   },
   "magic_willow": {
     "id": "Master of Levitation",
@@ -19598,7 +19598,7 @@
     "baseDefense": 350,
     "manaSpeedId": "飞速",
     "passiveSkills": [
-      "halloween_steal_buff_or_deal_damage"
+      "halloween_steal_buff_or_deal_damage_new"
     ],
     "classType": "巫师",
     "aetherGift": "Revive",
@@ -20264,8 +20264,8 @@
     "element": "Red",
     "family": "classic",
     "baseHealth": 682,
-    "baseAttack": 395,
-    "baseDefense": 260,
+    "baseAttack": 336,
+    "baseDefense": 334,
     "manaSpeedId": "慢",
     "passiveSkills": [
       "glass_reflect_debuffs"
@@ -20624,8 +20624,8 @@
     "element": "Purple",
     "family": "classic",
     "baseHealth": 466,
-    "baseAttack": 367,
-    "baseDefense": 255,
+    "baseAttack": 330,
+    "baseDefense": 302,
     "manaSpeedId": "中等",
     "passiveSkills": [
       "glass_reflect_debuffs"
@@ -26285,7 +26285,7 @@
     "baseDefense": 544,
     "manaSpeedId": "飞速",
     "passiveSkills": [
-      "halloween_steal_buff_or_deal_damage"
+      "halloween_steal_buff_or_deal_damage_new"
     ],
     "classType": "巫师",
     "aetherGift": "Vampire",
@@ -26303,7 +26303,7 @@
     "baseDefense": 615,
     "manaSpeedId": "慢",
     "passiveSkills": [
-      "halloween_steal_buff_or_deal_damage"
+      "halloween_steal_buff_or_deal_damage_new"
     ],
     "classType": "术士",
     "aetherGift": "Revive",
@@ -29058,9 +29058,9 @@
     "id": "Astral Dwarf Miner",
     "element": "Purple",
     "family": "astral_dwarfs",
-    "baseHealth": 1050,
-    "baseAttack": 560,
-    "baseDefense": 605,
+    "baseHealth": 1098,
+    "baseAttack": 595,
+    "baseDefense": 639,
     "manaSpeedId": "中等",
     "passiveSkills": [
       "resist_heal_multiplier_debuffs",
@@ -29793,9 +29793,9 @@
     "id": "Magic Carpet Speedster",
     "element": "Blue",
     "family": "magic_carpet",
-    "baseHealth": 1020,
-    "baseAttack": 604,
-    "baseDefense": 600,
+    "baseHealth": 1071,
+    "baseAttack": 621,
+    "baseDefense": 617,
     "manaSpeedId": "飞速",
     "passiveSkills": [
       "reduce_big_minion_health",
@@ -29818,7 +29818,6 @@
     "manaSpeedId": "中等",
     "passiveSkills": [
       "minion_core",
-      "hp_on_own_familiar_death_construct",
       "resist_special_blocking_with_health_boost_and_mana"
     ],
     "classType": "圣骑士",
@@ -30021,9 +30020,9 @@
     "id": "Goblin Rat Courtier",
     "element": "Yellow",
     "family": "goblin",
-    "baseHealth": 1132,
-    "baseAttack": 588,
-    "baseDefense": 611,
+    "baseHealth": 1102,
+    "baseAttack": 603,
+    "baseDefense": 624,
     "manaSpeedId": "中等",
     "passiveSkills": [
       "goblin_damage_and_accuracy_debuff_on_special"
@@ -30346,7 +30345,7 @@
     "baseDefense": 575,
     "manaSpeedId": "中等",
     "passiveSkills": [
-      "halloween_steal_buff_or_deal_damage"
+      "halloween_steal_buff_or_deal_damage_new"
     ],
     "classType": "德鲁伊",
     "aetherGift": "Fiend Resist",

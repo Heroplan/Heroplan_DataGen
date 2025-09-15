@@ -11,28 +11,6 @@
         "Lottery_Only":1
     },
     {
-        "name": "Iron-Heart",
-        "fancy_name": "Holy Guardian Construct",
-        "color": "Yellow",
-        "Release date": "",
-        "star": 5,
-        "family": "construct",
-        "costume_id": 0,
-        "heroId": "construct_ironheart",
-        "Lottery_Only":1
-    },
-    {
-        "name": "Gardered",
-        "fancy_name": "The Daremoth",
-        "color": "Red",
-        "Release date": "",
-        "star": 5,
-        "family": "moths",
-        "costume_id": 0,
-        "heroId": "moth_gardered",
-        "Lottery_Only":1
-    },
-    {
         "name": "Bart",
         "fancy_name": "Magic Carpet Speedster",
         "color": "Blue",

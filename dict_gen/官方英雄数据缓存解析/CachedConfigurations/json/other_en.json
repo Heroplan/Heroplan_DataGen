@@ -282,8 +282,8 @@
             "yellowCost": {
               "fish": 491000,
               "itemToCount": {
-                "dragon_topaz_eagle_statue": 4,
                 "dragon_topaz_hammer": 4,
+                "dragon_topaz_eagle_statue": 4,
                 "dragon_feathered_headdress": 2
               }
             },
@@ -370,8 +370,8 @@
             "yellowCost": {
               "fish": 491000,
               "itemToCount": {
-                "dragon_topaz_eagle_statue": 4,
                 "dragon_topaz_hammer": 4,
+                "dragon_topaz_eagle_statue": 4,
                 "dragon_feathered_headdress": 2
               }
             },
@@ -461,8 +461,8 @@
             "yellowCost": {
               "fish": 1274000,
               "itemToCount": {
-                "dragon_topaz_pendant": 6,
                 "dragon_uncut_topaz": 4,
+                "dragon_topaz_pendant": 6,
                 "dragon_dragonstone_pendant": 1,
                 "dragon_rainbow_chalice": 1
               }
@@ -3258,7 +3258,7 @@
           "eventsRotation": [
             {
               "id": "AllianceQuestCastle",
-              "eventOffer": "alliancequestoffer",
+              "eventOffer": "alliancequest_calendar",
               "eventEndingOffer": "",
               "eventBundle": "bundle_challenge_1",
               "eventBonus": "event_hero_bonus_alliance_quest",
@@ -3266,7 +3266,7 @@
             },
             {
               "id": "AllianceQuestMusketeers",
-              "eventOffer": "alliancequestoffer",
+              "eventOffer": "alliancequest_calendar",
               "eventEndingOffer": "",
               "eventBundle": "bundle_challenge_1",
               "eventBonus": "event_hero_bonus_alliance_quest",
@@ -3274,7 +3274,7 @@
             },
             {
               "id": "AllianceQuestMoths",
-              "eventOffer": "alliancequestoffer",
+              "eventOffer": "alliancequest_calendar",
               "eventEndingOffer": "",
               "eventBundle": "bundle_challenge_1",
               "eventBonus": "event_hero_bonus_alliance_quest",
@@ -67733,8 +67733,8 @@
                 "craftingCost": {
                   "iron": 5790,
                   "itemToCount": {
-                    "item_crystal_shard": 1,
                     "item_metal_ores": 2,
+                    "item_crystal_shard": 1,
                     "item_crypt_mushroom": 1
                   }
                 },
@@ -72880,9 +72880,9 @@
               "food": 3300,
               "iron": 3600,
               "itemToCount": {
-                "hero_hidden_blade": 1,
-                "hero_limitbreak_epic_red": 3,
                 "hero_limitbreak_rare_red": 6,
+                "hero_limitbreak_epic_red": 3,
+                "hero_hidden_blade": 1,
                 "hero_chainmail_shirt": 5
               }
             },
@@ -72891,8 +72891,8 @@
               "iron": 3600,
               "itemToCount": {
                 "hero_sturdy_shield": 1,
-                "hero_limitbreak_epic_green": 3,
                 "hero_limitbreak_rare_green": 6,
+                "hero_limitbreak_epic_green": 3,
                 "hero_scabbard": 5
               }
             },
@@ -72936,9 +72936,9 @@
               "food": 5750,
               "iron": 5750,
               "itemToCount": {
-                "hero_limitbreak_epic_red": 3,
-                "hero_limitbreak_rare_red": 5,
                 "hero_mystic_rings": 1,
+                "hero_limitbreak_rare_red": 5,
+                "hero_limitbreak_epic_red": 3,
                 "hero_limitbreak_legendary_red": 1
               }
             },
@@ -72946,9 +72946,9 @@
               "food": 5750,
               "iron": 5750,
               "itemToCount": {
+                "hero_limitbreak_rare_green": 5,
                 "hero_limitbreak_epic_green": 3,
                 "hero_limitbreak_legendary_green": 1,
-                "hero_limitbreak_rare_green": 5,
                 "hero_mysterious_tonic": 1
               }
             },
@@ -72967,8 +72967,8 @@
               "iron": 5750,
               "itemToCount": {
                 "hero_limitbreak_rare_yellow": 5,
-                "hero_limitbreak_legendary_yellow": 1,
                 "hero_poison_darts": 1,
+                "hero_limitbreak_legendary_yellow": 1,
                 "hero_limitbreak_epic_yellow": 3
               }
             },
@@ -74588,8 +74588,8 @@
             "blueCost": {
               "food": 273000,
               "itemToCount": {
-                "hero_battle_manual": 3,
                 "hero_strong_rope": 3,
+                "hero_battle_manual": 3,
                 "hero_tall_boots": 2
               }
             },
@@ -74681,8 +74681,8 @@
             "blueCost": {
               "food": 273000,
               "itemToCount": {
-                "hero_battle_manual": 3,
                 "hero_strong_rope": 3,
+                "hero_battle_manual": 3,
                 "hero_tall_boots": 2
               }
             },
@@ -75256,8 +75256,8 @@
             },
             "greenCost": {
               "itemToCount": {
-                "hero_limitbreak_epic_green": 20,
                 "hero_limitbreak_legendary_green": 5,
+                "hero_limitbreak_epic_green": 20,
                 "hero_limitbreak_rare_green": 35
               }
             },
@@ -75369,8 +75369,8 @@
             },
             "greenCost": {
               "itemToCount": {
-                "hero_limitbreak_epic_green": 5,
                 "hero_limitbreak_legendary_green": 1,
+                "hero_limitbreak_epic_green": 5,
                 "hero_limitbreak_rare_green": 10,
                 "hero_limitbreak_alpha": 10
               }
@@ -77529,28 +77529,28 @@
               {
                 "bonusLevels": [
                   {
-                    "attackBonusPerMil": 10,
-                    "defenseBonusPerMil": 10,
-                    "healthBonusPerMil": 10,
+                    "attackBonusPerMil": 350,
+                    "defenseBonusPerMil": 350,
+                    "healthBonusPerMil": 400,
                     "manaBonusPerMil": 10
                   },
                   {
-                    "attackBonusPerMil": 15,
-                    "defenseBonusPerMil": 10,
-                    "healthBonusPerMil": 20,
-                    "manaBonusPerMil": 10
+                    "attackBonusPerMil": 400,
+                    "defenseBonusPerMil": 400,
+                    "healthBonusPerMil": 450,
+                    "manaBonusPerMil": 20
                   },
                   {
-                    "attackBonusPerMil": 15,
-                    "defenseBonusPerMil": 10,
-                    "healthBonusPerMil": 30,
-                    "manaBonusPerMil": 10
+                    "attackBonusPerMil": 450,
+                    "defenseBonusPerMil": 450,
+                    "healthBonusPerMil": 500,
+                    "manaBonusPerMil": 30
                   },
                   {
-                    "attackBonusPerMil": 20,
-                    "defenseBonusPerMil": 20,
-                    "healthBonusPerMil": 40,
-                    "manaBonusPerMil": 10
+                    "attackBonusPerMil": 500,
+                    "defenseBonusPerMil": 500,
+                    "healthBonusPerMil": 550,
+                    "manaBonusPerMil": 50
                   }
                 ]
               }
@@ -78787,6 +78787,51 @@
                     "defenseBonusPerMil": 400,
                     "healthBonusPerMil": 430,
                     "manaBonusPerMil": 50
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "magic_sep_2025",
+            "statBonuses": [
+              {
+                "bonusLevels": []
+              },
+              {
+                "bonusLevels": []
+              },
+              {
+                "bonusLevels": []
+              },
+              {
+                "bonusLevels": []
+              },
+              {
+                "bonusLevels": [
+                  {
+                    "attackBonusPerMil": 320,
+                    "defenseBonusPerMil": 320,
+                    "healthBonusPerMil": 340,
+                    "manaBonusPerMil": 10
+                  },
+                  {
+                    "attackBonusPerMil": 350,
+                    "defenseBonusPerMil": 350,
+                    "healthBonusPerMil": 370,
+                    "manaBonusPerMil": 10
+                  },
+                  {
+                    "attackBonusPerMil": 380,
+                    "defenseBonusPerMil": 380,
+                    "healthBonusPerMil": 400,
+                    "manaBonusPerMil": 10
+                  },
+                  {
+                    "attackBonusPerMil": 410,
+                    "defenseBonusPerMil": 410,
+                    "healthBonusPerMil": 430,
+                    "manaBonusPerMil": 10
                   }
                 ]
               }
@@ -80560,17 +80605,6 @@
         "showInstantlyIfPossible": true,
         "waitForShopInitialization": false,
         "ignoreActivityTriggersPopupsRequirement": false
-      },
-      {
-        "type": "LeftExtraTop",
-        "group": "Essential",
-        "priority": 999,
-        "cooldownSeconds": 14400,
-        "cooldownXpLevels": 0,
-        "delayOnStartupSeconds": 0,
-        "showInstantlyIfPossible": false,
-        "waitForShopInitialization": true,
-        "ignoreActivityTriggersPopupsRequirement": false
       }
     ],
     "ratingPromptDisabledLanguages": [],
@@ -80597,10 +80631,10 @@
     "minSecondsBetweenRecentActivityRequests": 30,
     "colorBlindModeEnabled": true,
     "languageSelectionEnabled": true,
-    "maxVersionToShowUpdateOutReminderAndroid": "78.0.5",
-    "maxVersionToShowUpdateOutReminderIos": "78.0.5",
-    "maxVersionToShowUpdateOutReminderAndroidStandalone": "79.0.0",
-    "standaloneNewVersionRolloutPercentage": 100,
+    "maxVersionToShowUpdateOutReminderAndroid": "79.0.0",
+    "maxVersionToShowUpdateOutReminderIos": "79.0.0",
+    "maxVersionToShowUpdateOutReminderAndroidStandalone": "79.0.1",
+    "standaloneNewVersionRolloutPercentage": 30,
     "fastClientLogFlushTimeSeconds": 5,
     "accountDeletionEnabled": true,
     "popupSuppression": {
@@ -80679,8 +80713,8 @@
         }
       ],
       "defaultQueryParameters": {
-        "duuid": "na",
         "utm_medium": "IAM",
+        "duuid": "na",
         "utm_source": "LCM"
       },
       "directAuthEnabled": true,
@@ -80690,5 +80724,5 @@
     "criticalOperationPendingDelaySeconds": 3,
     "allowedCriticalOperationPendingCount": 3
   },
-  "otherConfigId": 2560474999
+  "otherConfigId": 1804157955
 }
