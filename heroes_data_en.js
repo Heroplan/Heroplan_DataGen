@@ -2849,7 +2849,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "特殊效果": [
-                    "Dmg - Explosion"
+                    "Dmg - Conditional Trigger"
                 ]
             },
             {
@@ -2923,7 +2923,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "特殊效果": [
-                    "Dmg - Explosion"
+                    "Dmg - Conditional Trigger"
                 ]
             },
             {
@@ -3644,7 +3644,7 @@ window.allHeroes =
         "Release date": "2020-10-26",
         "specialId": "undead_razer",
         "passiveSkills": [
-            "halloween_steal_buff_or_deal_damage"
+            "halloween_steal_buff_or_deal_damage_new"
         ],
         "heroId": "halloween_frank",
         "star": 4,
@@ -3716,7 +3716,7 @@ window.allHeroes =
         "Release date": "2021-10-04",
         "specialId": "undead_razer",
         "passiveSkills": [
-            "halloween_steal_buff_or_deal_damage"
+            "halloween_steal_buff_or_deal_damage_new"
         ],
         "costumeBonusPassiveSkillIds": null,
         "heroId": "halloween_frank_costume_mafia",
@@ -5712,7 +5712,7 @@ window.allHeroes =
         "Release date": "2018-10-25",
         "specialId": "queens_blood_poisoning",
         "passiveSkills": [
-            "halloween_steal_buff_or_deal_damage"
+            "halloween_steal_buff_or_deal_damage_new"
         ],
         "heroId": "vampire_queen",
         "star": 4,
@@ -8889,7 +8889,7 @@ window.allHeroes =
         "Release date": "2024-09-23",
         "specialId": "horrifying_wail",
         "passiveSkills": [
-            "halloween_steal_buff_or_deal_damage"
+            "halloween_steal_buff_or_deal_damage_new"
         ],
         "heroId": "halloween_chester",
         "star": 5,
@@ -14012,7 +14012,7 @@ window.allHeroes =
         "Release date": "2022-10-03",
         "specialId": "litter_of_kittens",
         "passiveSkills": [
-            "halloween_steal_buff_or_deal_damage"
+            "halloween_steal_buff_or_deal_damage_new"
         ],
         "heroId": "halloween_miriam_and_midnight",
         "star": 5,
@@ -15784,7 +15784,7 @@ window.allHeroes =
             },
             {
                 "特殊效果": [
-                    "Dmg - Explosion"
+                    "Dmg - Conditional Trigger"
                 ]
             },
             {
@@ -18317,7 +18317,7 @@ window.allHeroes =
                 "特殊效果": [
                     "Atk - Bypass Dodge",
                     "Dmg - Extra",
-                    "Dmg - Explosion"
+                    "Dmg - Conditional Trigger"
                 ]
             },
             {
@@ -19385,7 +19385,7 @@ window.allHeroes =
             },
             {
                 "特殊效果": [
-                    "Dmg - Explosion"
+                    "Dmg - Conditional Trigger"
                 ]
             },
             {
@@ -22250,7 +22250,7 @@ window.allHeroes =
         "Release date": "2022-10-03",
         "specialId": "sugar_rush",
         "passiveSkills": [
-            "halloween_steal_buff_or_deal_damage"
+            "halloween_steal_buff_or_deal_damage_new"
         ],
         "heroId": "halloween_goopy",
         "star": 3,
@@ -26736,7 +26736,7 @@ window.allHeroes =
             },
             {
                 "特殊效果": [
-                    "Dmg - Explosion"
+                    "Dmg - Conditional Trigger"
                 ]
             },
             {
@@ -30293,7 +30293,7 @@ window.allHeroes =
         "Release date": "2023-09-25",
         "specialId": "hemlock_tea",
         "passiveSkills": [
-            "halloween_steal_buff_or_deal_damage"
+            "halloween_steal_buff_or_deal_damage_new"
         ],
         "heroId": "halloween_edwin",
         "star": 5,
@@ -31845,7 +31845,7 @@ window.allHeroes =
         "Release date": "2020-10-26",
         "specialId": "electric_cut",
         "passiveSkills": [
-            "halloween_steal_buff_or_deal_damage"
+            "halloween_steal_buff_or_deal_damage_new"
         ],
         "heroId": "halloween_francine",
         "star": 5,
@@ -31915,7 +31915,7 @@ window.allHeroes =
         "Release date": "2021-10-04",
         "specialId": "electric_cut",
         "passiveSkills": [
-            "halloween_steal_buff_or_deal_damage"
+            "halloween_steal_buff_or_deal_damage_new"
         ],
         "costumeBonusPassiveSkillIds": null,
         "heroId": "halloween_francine_costume_mafia",
@@ -33293,7 +33293,7 @@ window.allHeroes =
             },
             {
                 "特殊效果": [
-                    "Dmg - Explosion"
+                    "Dmg - Conditional Trigger"
                 ]
             },
             {
@@ -35211,7 +35211,7 @@ window.allHeroes =
             },
             {
                 "特殊效果": [
-                    "Dmg - Explosion"
+                    "Dmg - Conditional Trigger"
                 ]
             },
             {
@@ -38823,7 +38823,7 @@ window.allHeroes =
             },
             {
                 "特殊效果": [
-                    "Dmg - Explosion"
+                    "Dmg - Conditional Trigger"
                 ]
             },
             {
@@ -41262,7 +41262,7 @@ window.allHeroes =
             {
                 "特殊效果": [
                     "Dmg - Extra",
-                    "Dmg - Explosion"
+                    "Dmg - Conditional Trigger"
                 ]
             },
             {
@@ -42124,7 +42124,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "特殊效果": [
-                    "Dmg - Explosion"
+                    "Dmg - Conditional Trigger"
                 ]
             },
             {
@@ -43151,7 +43151,7 @@ window.allHeroes =
         "Release date": "2020-10-26",
         "specialId": "explosive_o_lantern",
         "passiveSkills": [
-            "halloween_steal_buff_or_deal_damage"
+            "halloween_steal_buff_or_deal_damage_new"
         ],
         "heroId": "halloween_jack",
         "star": 3,
@@ -43189,7 +43189,7 @@ window.allHeroes =
             },
             {
                 "特殊效果": [
-                    "Dmg - Explosion"
+                    "Dmg - Conditional Trigger"
                 ]
             }
         ]
@@ -44614,7 +44614,7 @@ window.allHeroes =
         "Release date": "2018-10-25",
         "specialId": "lords_blood_poisoning",
         "passiveSkills": [
-            "halloween_steal_buff_or_deal_damage"
+            "halloween_steal_buff_or_deal_damage_new"
         ],
         "heroId": "vampire_lord",
         "star": 3,
@@ -45009,7 +45009,7 @@ window.allHeroes =
         "Release date": "2022-10-03",
         "specialId": "tidy_up",
         "passiveSkills": [
-            "halloween_steal_buff_or_deal_damage"
+            "halloween_steal_buff_or_deal_damage_new"
         ],
         "heroId": "halloween_ana_belle",
         "star": 4,
@@ -54465,7 +54465,7 @@ window.allHeroes =
             {
                 "特殊效果": [
                     "Summon - Fiend",
-                    "Dmg - Explosion"
+                    "Dmg - Conditional Trigger"
                 ]
             }
         ]
@@ -54540,7 +54540,7 @@ window.allHeroes =
             {
                 "特殊效果": [
                     "Summon - Fiend",
-                    "Dmg - Explosion"
+                    "Dmg - Conditional Trigger"
                 ]
             }
         ]
@@ -55758,7 +55758,7 @@ window.allHeroes =
         "Release date": "2023-09-25",
         "specialId": "might_of_excalibroom",
         "passiveSkills": [
-            "halloween_steal_buff_or_deal_damage"
+            "halloween_steal_buff_or_deal_damage_new"
         ],
         "heroId": "halloween_lucinda",
         "star": 5,
@@ -58723,7 +58723,7 @@ window.allHeroes =
             },
             {
                 "特殊效果": [
-                    "Dmg - Explosion"
+                    "Dmg - Conditional Trigger"
                 ]
             }
         ]
@@ -59461,7 +59461,7 @@ window.allHeroes =
             },
             {
                 "特殊效果": [
-                    "Dmg - Explosion"
+                    "Dmg - Conditional Trigger"
                 ]
             },
             {
@@ -61628,7 +61628,7 @@ window.allHeroes =
             },
             {
                 "特殊效果": [
-                    "Dmg - Explosion"
+                    "Dmg - Conditional Trigger"
                 ]
             },
             {
@@ -61806,7 +61806,7 @@ window.allHeroes =
         "Release date": "2018-10-25",
         "specialId": "kings_blood_poisoning",
         "passiveSkills": [
-            "halloween_steal_buff_or_deal_damage"
+            "halloween_steal_buff_or_deal_damage_new"
         ],
         "heroId": "vampire_king",
         "star": 5,
@@ -61882,7 +61882,7 @@ window.allHeroes =
         "Release date": "2021-10-04",
         "specialId": "kings_blood_poisoning",
         "passiveSkills": [
-            "halloween_steal_buff_or_deal_damage"
+            "halloween_steal_buff_or_deal_damage_new"
         ],
         "costumeBonusPassiveSkillIds": null,
         "heroId": "vampire_king_costume_mafia",
@@ -62294,7 +62294,7 @@ window.allHeroes =
             },
             {
                 "特殊效果": [
-                    "Dmg - Explosion"
+                    "Dmg - Conditional Trigger"
                 ]
             },
             {
@@ -63614,7 +63614,7 @@ window.allHeroes =
             },
             {
                 "特殊效果": [
-                    "Dmg - Explosion"
+                    "Dmg - Conditional Trigger"
                 ]
             },
             {
@@ -63947,7 +63947,7 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "特殊效果": [
-                    "Dmg - Explosion"
+                    "Dmg - Conditional Trigger"
                 ]
             },
             {
@@ -66342,7 +66342,7 @@ window.allHeroes =
                 "特殊效果": [
                     "Mana - Mana Cut",
                     "Summon - Minion",
-                    "Dmg - Explosion"
+                    "Dmg - Conditional Trigger"
                 ]
             }
         ]
@@ -70030,7 +70030,7 @@ window.allHeroes =
         "Release date": "2022-10-03",
         "specialId": "vampiric_curse",
         "passiveSkills": [
-            "halloween_steal_buff_or_deal_damage"
+            "halloween_steal_buff_or_deal_damage_new"
         ],
         "heroId": "halloween_alucard",
         "star": 5,
@@ -70103,7 +70103,7 @@ window.allHeroes =
         "Release date": "2024-09-23",
         "specialId": "vampiric_curse",
         "passiveSkills": [
-            "halloween_steal_buff_or_deal_damage"
+            "halloween_steal_buff_or_deal_damage_new"
         ],
         "costumeBonusPassiveSkillIds": null,
         "heroId": "halloween_alucard_costume_mafia",
@@ -70175,7 +70175,7 @@ window.allHeroes =
         "Release date": "2023-09-25",
         "specialId": "spear_of_blood_pact",
         "passiveSkills": [
-            "halloween_steal_buff_or_deal_damage"
+            "halloween_steal_buff_or_deal_damage_new"
         ],
         "heroId": "halloween_amber",
         "star": 5,
@@ -71489,7 +71489,7 @@ window.allHeroes =
             {
                 "特殊效果": [
                     "Summon - Fiend",
-                    "Dmg - Explosion"
+                    "Dmg - Conditional Trigger"
                 ]
             }
         ]
@@ -72698,7 +72698,7 @@ window.allHeroes =
             },
             {
                 "特殊效果": [
-                    "Dmg - Explosion"
+                    "Dmg - Conditional Trigger"
                 ]
             },
             {
@@ -73126,7 +73126,7 @@ window.allHeroes =
                 "特殊效果": [
                     "Mana - Mana Cut",
                     "Summon - Minion",
-                    "Dmg - Explosion"
+                    "Dmg - Conditional Trigger"
                 ]
             },
             {
@@ -75758,7 +75758,7 @@ window.allHeroes =
             },
             {
                 "特殊效果": [
-                    "Dmg - Explosion"
+                    "Dmg - Conditional Trigger"
                 ]
             },
             {
@@ -75845,7 +75845,7 @@ window.allHeroes =
             },
             {
                 "特殊效果": [
-                    "Dmg - Explosion"
+                    "Dmg - Conditional Trigger"
                 ]
             },
             {
@@ -76625,7 +76625,7 @@ window.allHeroes =
             {
                 "特殊效果": [
                     "Summon - Fiend",
-                    "Dmg - Explosion"
+                    "Dmg - Conditional Trigger"
                 ]
             },
             {
@@ -80666,7 +80666,7 @@ window.allHeroes =
             },
             {
                 "特殊效果": [
-                    "Dmg - Explosion"
+                    "Dmg - Conditional Trigger"
                 ]
             },
             {
@@ -84022,7 +84022,7 @@ window.allHeroes =
         "Release date": "2020-10-26",
         "specialId": "twilight_of_sorrow",
         "passiveSkills": [
-            "halloween_steal_buff_or_deal_damage"
+            "halloween_steal_buff_or_deal_damage_new"
         ],
         "heroId": "halloween_vanda",
         "star": 5,
@@ -84094,7 +84094,7 @@ window.allHeroes =
         "Release date": "2021-10-04",
         "specialId": "twilight_of_sorrow",
         "passiveSkills": [
-            "halloween_steal_buff_or_deal_damage"
+            "halloween_steal_buff_or_deal_damage_new"
         ],
         "costumeBonusPassiveSkillIds": null,
         "heroId": "halloween_vanda_costume_mafia",
@@ -89587,7 +89587,7 @@ window.allHeroes =
             },
             {
                 "特殊效果": [
-                    "Dmg - Explosion"
+                    "Dmg - Conditional Trigger"
                 ]
             },
             {
@@ -89654,7 +89654,7 @@ window.allHeroes =
             },
             {
                 "特殊效果": [
-                    "Dmg - Explosion"
+                    "Dmg - Conditional Trigger"
                 ]
             },
             {
@@ -90566,7 +90566,7 @@ window.allHeroes =
             {
                 "特殊效果": [
                     "Summon - Fiend",
-                    "Dmg - Explosion"
+                    "Dmg - Conditional Trigger"
                 ]
             }
         ]
@@ -90641,7 +90641,7 @@ window.allHeroes =
             {
                 "特殊效果": [
                     "Summon - Fiend",
-                    "Dmg - Explosion"
+                    "Dmg - Conditional Trigger"
                 ]
             }
         ]
@@ -93094,7 +93094,7 @@ window.allHeroes =
             },
             {
                 "特殊效果": [
-                    "Dmg - Explosion"
+                    "Dmg - Conditional Trigger"
                 ]
             },
             {
@@ -94002,7 +94002,7 @@ window.allHeroes =
             },
             {
                 "特殊效果": [
-                    "Dmg - Explosion"
+                    "Dmg - Conditional Trigger"
                 ]
             },
             {
@@ -96221,7 +96221,7 @@ window.allHeroes =
             {
                 "特殊效果": [
                     "Summon - Fiend",
-                    "Dmg - Explosion"
+                    "Dmg - Conditional Trigger"
                 ]
             }
         ]
@@ -96394,7 +96394,6 @@ window.allHeroes =
         "specialId": "iron_rocket_fist",
         "passiveSkills": [
             "minion_core",
-            "hp_on_own_familiar_death_construct",
             "resist_special_blocking_with_health_boost_and_mana"
         ],
         "heroId": "construct_ironheart",
@@ -97966,7 +97965,7 @@ window.allHeroes =
             },
             {
                 "特殊效果": [
-                    "Dmg - Explosion"
+                    "Dmg - Conditional Trigger"
                 ]
             },
             {
@@ -98051,7 +98050,7 @@ window.allHeroes =
             },
             {
                 "特殊效果": [
-                    "Dmg - Explosion",
+                    "Dmg - Conditional Trigger",
                     "Status - Replace with Buff"
                 ]
             },
@@ -98856,7 +98855,7 @@ window.allHeroes =
         "Release date": "2022-10-03",
         "specialId": "muffin_poisoning",
         "passiveSkills": [
-            "halloween_steal_buff_or_deal_damage"
+            "halloween_steal_buff_or_deal_damage_new"
         ],
         "heroId": "halloween_matilda",
         "star": 5,
@@ -100944,7 +100943,7 @@ window.allHeroes =
             },
             {
                 "特殊效果": [
-                    "Dmg - Explosion"
+                    "Dmg - Conditional Trigger"
                 ]
             },
             {
@@ -101270,7 +101269,7 @@ window.allHeroes =
             {
                 "特殊效果": [
                     "Dmg - Extra",
-                    "Dmg - Explosion"
+                    "Dmg - Conditional Trigger"
                 ]
             },
             {
@@ -101489,6 +101488,66 @@ window.allHeroes =
         ]
     },
     {
+        "name": "Ratgrub",
+        "fancy_name": "Goblin Rat Courtier",
+        "AetherPower": "Special Armor",
+        "color": "Yellow",
+        "class": "Cleric",
+        "speed": "Average",
+        "skill": "Princess Unleashed",
+        "types": [
+            "Rat Princess Mega Minion"
+        ],
+        "skill_types": [
+            "Mega Minions Summoners",
+            "Extra Damage Dealers"
+        ],
+        "source": "Goblin Summon",
+        "Release date": "2025-09-16",
+        "specialId": "princess_unleashed",
+        "passiveSkills": [
+            "goblin_damage_and_accuracy_debuff_on_special"
+        ],
+        "heroId": "goblin_ratgrub",
+        "star": 5,
+        "power": 1237,
+        "attack": 1242,
+        "defense": 1285,
+        "health": 2270,
+        "effects": [
+            "Summons a Rat Princess Mega Minion with 35% HP and 160% attack inherited from the caster.",
+            "When summoned, the Rat Princess Mega Minion gives its owner the ability to deal 240% damage to all enemies each time any other ally casts their Special Skill. (Each character can trigger this effect once per turn.)"
+        ],
+        "passives": [
+            "Effects on Special Skill: 50% chance to perform the following actions when this character casts their Special Skill.",
+            " * Deals 90% damage to all enemies.",
+            " * All enemies get -25% accuracy for 3 turns."
+        ],
+        "family": "goblin",
+        "costume_id": 0,
+        "originalIndex": 1467,
+        "lb1": {
+            "power": 1323,
+            "attack": 1338,
+            "defense": 1385,
+            "health": 2446
+        },
+        "lb2": {
+            "power": 1496,
+            "attack": 1531,
+            "defense": 1584,
+            "health": 2799
+        },
+        "cn_skill_info": [
+            {
+                "特殊效果": [
+                    "Summon - Mega Minion",
+                    "Dmg - Conditional Trigger"
+                ]
+            }
+        ]
+    },
+    {
         "name": "Rhys",
         "fancy_name": "Bard of Valor",
         "AetherPower": "Attack Up",
@@ -101533,7 +101592,7 @@ window.allHeroes =
         ],
         "family": "bard",
         "costume_id": 0,
-        "originalIndex": 1467,
+        "originalIndex": 1468,
         "lb1": {
             "power": 905,
             "attack": 910,
@@ -101605,7 +101664,7 @@ window.allHeroes =
         "passives": [],
         "family": "sand",
         "costume_id": 0,
-        "originalIndex": 1468,
+        "originalIndex": 1469,
         "lb1": {
             "power": 840,
             "attack": 821,
@@ -101670,7 +101729,7 @@ window.allHeroes =
         "passives": [],
         "family": "sand",
         "costume_id": 1,
-        "originalIndex": 1469,
+        "originalIndex": 1470,
         "lb1": {
             "power": 1029,
             "attack": 1023,
@@ -101747,7 +101806,7 @@ window.allHeroes =
         ],
         "family": "garrison",
         "costume_id": 0,
-        "originalIndex": 1470,
+        "originalIndex": 1471,
         "lb1": {
             "power": 1187,
             "attack": 1167,
@@ -101828,7 +101887,7 @@ window.allHeroes =
         ],
         "family": "outlaw",
         "costume_id": 0,
-        "originalIndex": 1471,
+        "originalIndex": 1472,
         "lb1": {
             "power": 1287,
             "attack": 1345,
@@ -101909,7 +101968,7 @@ window.allHeroes =
         ],
         "family": "astral_dwarfs",
         "costume_id": 0,
-        "originalIndex": 1472,
+        "originalIndex": 1473,
         "lb1": {
             "power": 1237,
             "attack": 1329,
@@ -101982,7 +102041,7 @@ window.allHeroes =
         ],
         "family": "moths",
         "costume_id": 0,
-        "originalIndex": 1473,
+        "originalIndex": 1474,
         "lb1": {
             "power": 1260,
             "attack": 1338,
@@ -102063,7 +102122,7 @@ window.allHeroes =
         ],
         "family": "goblin",
         "costume_id": 0,
-        "originalIndex": 1474,
+        "originalIndex": 1475,
         "lb1": {
             "power": 1136,
             "attack": 1125,
@@ -102144,7 +102203,7 @@ window.allHeroes =
         ],
         "family": "construct",
         "costume_id": 0,
-        "originalIndex": 1475,
+        "originalIndex": 1476,
         "lb1": {
             "power": 1045,
             "attack": 976,
@@ -102217,7 +102276,7 @@ window.allHeroes =
         ],
         "family": "garrison",
         "costume_id": 0,
-        "originalIndex": 1476,
+        "originalIndex": 1477,
         "lb1": {
             "power": 1126,
             "attack": 1136,
@@ -102285,7 +102344,7 @@ window.allHeroes =
         "passives": [],
         "family": "midgard",
         "costume_id": 0,
-        "originalIndex": 1477,
+        "originalIndex": 1478,
         "lb1": {
             "power": 840,
             "attack": 850,
@@ -102346,7 +102405,7 @@ window.allHeroes =
         "passives": [],
         "family": "midgard",
         "costume_id": 1,
-        "originalIndex": 1478,
+        "originalIndex": 1479,
         "lb1": {
             "power": 1054,
             "attack": 1036,
@@ -102410,7 +102469,7 @@ window.allHeroes =
         ],
         "family": "fox",
         "costume_id": 0,
-        "originalIndex": 1479,
+        "originalIndex": 1480,
         "lb1": {
             "power": 1234,
             "attack": 1334,
@@ -102476,7 +102535,7 @@ window.allHeroes =
         "passives": [],
         "family": "easter",
         "costume_id": 0,
-        "originalIndex": 1480,
+        "originalIndex": 1481,
         "lb1": {
             "power": 841,
             "attack": 839,
@@ -102545,7 +102604,7 @@ window.allHeroes =
         ],
         "family": "slime",
         "costume_id": 0,
-        "originalIndex": 1481,
+        "originalIndex": 1482,
         "lb1": {
             "power": 1173,
             "attack": 1209,
@@ -102567,7 +102626,7 @@ window.allHeroes =
             },
             {
                 "特殊效果": [
-                    "Dmg - Explosion"
+                    "Dmg - Conditional Trigger"
                 ]
             },
             {
@@ -102628,7 +102687,7 @@ window.allHeroes =
         ],
         "family": "wild_cat",
         "costume_id": 0,
-        "originalIndex": 1482,
+        "originalIndex": 1483,
         "lb1": {
             "power": 1316,
             "attack": 1474,
@@ -102698,7 +102757,7 @@ window.allHeroes =
         ],
         "family": "journey",
         "costume_id": 0,
-        "originalIndex": 1483,
+        "originalIndex": 1484,
         "lb1": {
             "power": 1095,
             "attack": 1090,
@@ -102771,7 +102830,7 @@ window.allHeroes =
         "passives": [],
         "family": "midgard",
         "costume_id": 0,
-        "originalIndex": 1484,
+        "originalIndex": 1485,
         "lb1": {
             "power": 839,
             "attack": 808,
@@ -102839,7 +102898,7 @@ window.allHeroes =
         "passives": [],
         "family": "midgard",
         "costume_id": 1,
-        "originalIndex": 1485,
+        "originalIndex": 1486,
         "lb1": {
             "power": 1053,
             "attack": 1008,
@@ -102910,7 +102969,7 @@ window.allHeroes =
         ],
         "family": "jungle_hunter",
         "costume_id": 0,
-        "originalIndex": 1486,
+        "originalIndex": 1487,
         "lb1": {
             "power": 955,
             "attack": 927,
@@ -102931,7 +102990,7 @@ window.allHeroes =
             },
             {
                 "特殊效果": [
-                    "Dmg - Explosion",
+                    "Dmg - Conditional Trigger",
                     "Heal - Self Recovery"
                 ]
             },
@@ -102987,7 +103046,7 @@ window.allHeroes =
         ],
         "family": "plains_hunter",
         "costume_id": 0,
-        "originalIndex": 1487,
+        "originalIndex": 1488,
         "lb1": {
             "power": 1199,
             "attack": 1258,
@@ -103060,7 +103119,7 @@ window.allHeroes =
         "passives": [],
         "family": "ninja",
         "costume_id": 0,
-        "originalIndex": 1488,
+        "originalIndex": 1489,
         "lb1": {
             "power": 872,
             "attack": 885,
@@ -103137,7 +103196,7 @@ window.allHeroes =
         ],
         "family": "hotm2021",
         "costume_id": 0,
-        "originalIndex": 1489,
+        "originalIndex": 1490,
         "lb1": {
             "power": 837,
             "attack": 839,
@@ -103223,7 +103282,7 @@ window.allHeroes =
         ],
         "family": "magic",
         "costume_id": 0,
-        "originalIndex": 1490,
+        "originalIndex": 1491,
         "lb1": {
             "power": 1021,
             "attack": 1012,
@@ -103316,7 +103375,7 @@ window.allHeroes =
         ],
         "family": "magic",
         "costume_id": 1,
-        "originalIndex": 1491,
+        "originalIndex": 1492,
         "lb1": {
             "power": 1310,
             "attack": 1335,
@@ -103387,7 +103446,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 0,
-        "originalIndex": 1492,
+        "originalIndex": 1493,
         "lb1": {
             "power": 804,
             "attack": 770,
@@ -103455,7 +103514,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 1,
-        "originalIndex": 1493,
+        "originalIndex": 1494,
         "lb1": {
             "power": 906,
             "attack": 859,
@@ -103523,7 +103582,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 2,
-        "originalIndex": 1494,
+        "originalIndex": 1495,
         "lb1": {
             "power": 1031,
             "attack": 967,
@@ -103595,7 +103654,7 @@ window.allHeroes =
         ],
         "family": "classic",
         "costume_id": 3,
-        "originalIndex": 1495,
+        "originalIndex": 1496,
         "lb1": {
             "power": 1210,
             "attack": 1185,
@@ -103670,7 +103729,7 @@ window.allHeroes =
         ],
         "family": "classic",
         "costume_id": 4,
-        "originalIndex": 1496,
+        "originalIndex": 1497,
         "lb1": {
             "power": 1324,
             "attack": 1335,
@@ -103723,7 +103782,7 @@ window.allHeroes =
         "Release date": "2024-09-23",
         "specialId": "blood_illusion",
         "passiveSkills": [
-            "halloween_steal_buff_or_deal_damage"
+            "halloween_steal_buff_or_deal_damage_new"
         ],
         "heroId": "halloween_wayne",
         "star": 5,
@@ -103740,7 +103799,7 @@ window.allHeroes =
         ],
         "family": "halloween",
         "costume_id": 0,
-        "originalIndex": 1497,
+        "originalIndex": 1498,
         "lb1": {
             "power": 1127,
             "attack": 1276,
@@ -103821,7 +103880,7 @@ window.allHeroes =
         ],
         "family": "beowulf",
         "costume_id": 0,
-        "originalIndex": 1498,
+        "originalIndex": 1499,
         "lb1": {
             "power": 1265,
             "attack": 1198,
@@ -103887,7 +103946,7 @@ window.allHeroes =
         "passives": [],
         "family": "wonderland",
         "costume_id": 0,
-        "originalIndex": 1499,
+        "originalIndex": 1500,
         "lb1": {
             "power": 831,
             "attack": 788,
@@ -103951,7 +104010,7 @@ window.allHeroes =
         ],
         "family": "wonderland",
         "costume_id": 1,
-        "originalIndex": 1500,
+        "originalIndex": 1501,
         "lb1": {
             "power": 1043,
             "attack": 1014,
@@ -104031,7 +104090,7 @@ window.allHeroes =
         ],
         "family": "magic",
         "costume_id": 0,
-        "originalIndex": 1501,
+        "originalIndex": 1502,
         "lb1": {
             "power": 951,
             "attack": 896,
@@ -104113,7 +104172,7 @@ window.allHeroes =
         ],
         "family": "bear",
         "costume_id": 0,
-        "originalIndex": 1502,
+        "originalIndex": 1503,
         "lb1": {
             "power": 1097,
             "attack": 1036,
@@ -104182,7 +104241,7 @@ window.allHeroes =
         "passives": [],
         "family": "wolf",
         "costume_id": 0,
-        "originalIndex": 1503,
+        "originalIndex": 1504,
         "lb1": {
             "power": 870,
             "attack": 828,
@@ -104254,7 +104313,7 @@ window.allHeroes =
         ],
         "family": "wolf",
         "costume_id": 1,
-        "originalIndex": 1504,
+        "originalIndex": 1505,
         "lb1": {
             "power": 1226,
             "attack": 1221,
@@ -104319,7 +104378,7 @@ window.allHeroes =
         "passives": [],
         "family": "cultist",
         "costume_id": 0,
-        "originalIndex": 1505,
+        "originalIndex": 1506,
         "lb1": {
             "power": 1246,
             "attack": 1305,
@@ -104396,7 +104455,7 @@ window.allHeroes =
         ],
         "family": "super_elemental",
         "costume_id": 0,
-        "originalIndex": 1506,
+        "originalIndex": 1507,
         "lb1": {
             "power": 1003,
             "attack": 1025,
@@ -104466,7 +104525,7 @@ window.allHeroes =
         ],
         "family": "super_elemental",
         "costume_id": 0,
-        "originalIndex": 1507,
+        "originalIndex": 1508,
         "lb1": {
             "power": 955,
             "attack": 879,
@@ -104540,7 +104599,7 @@ window.allHeroes =
         ],
         "family": "magic_carpet",
         "costume_id": 0,
-        "originalIndex": 1508,
+        "originalIndex": 1509,
         "lb1": {
             "power": 1294,
             "attack": 1398,
@@ -104607,7 +104666,7 @@ window.allHeroes =
         ],
         "family": "abyss",
         "costume_id": 0,
-        "originalIndex": 1509,
+        "originalIndex": 1510,
         "lb1": {
             "power": 865,
             "attack": 863,
@@ -104683,7 +104742,7 @@ window.allHeroes =
         ],
         "family": "abyss",
         "costume_id": 1,
-        "originalIndex": 1510,
+        "originalIndex": 1511,
         "lb1": {
             "power": 1098,
             "attack": 1128,
@@ -104757,7 +104816,7 @@ window.allHeroes =
         ],
         "family": "beachparty",
         "costume_id": 0,
-        "originalIndex": 1511,
+        "originalIndex": 1512,
         "lb1": {
             "power": 1086,
             "attack": 1070,
@@ -104821,7 +104880,7 @@ window.allHeroes =
         "passives": [],
         "family": "kingdom",
         "costume_id": 0,
-        "originalIndex": 1512,
+        "originalIndex": 1513,
         "lb1": {
             "power": 890,
             "attack": 923,
@@ -104891,7 +104950,7 @@ window.allHeroes =
         ],
         "family": "kingdom",
         "costume_id": 1,
-        "originalIndex": 1513,
+        "originalIndex": 1514,
         "lb1": {
             "power": 1180,
             "attack": 1287,
@@ -104960,7 +105019,7 @@ window.allHeroes =
         "passives": [],
         "family": "kingdom",
         "costume_id": 0,
-        "originalIndex": 1514,
+        "originalIndex": 1515,
         "lb1": {
             "power": 891,
             "attack": 765,
@@ -105032,7 +105091,7 @@ window.allHeroes =
         ],
         "family": "kingdom",
         "costume_id": 1,
-        "originalIndex": 1515,
+        "originalIndex": 1516,
         "lb1": {
             "power": 1181,
             "attack": 1024,
@@ -105102,7 +105161,7 @@ window.allHeroes =
         ],
         "family": "hotm2024",
         "costume_id": 0,
-        "originalIndex": 1516,
+        "originalIndex": 1517,
         "lb1": {
             "power": 1018,
             "attack": 939,
@@ -105156,7 +105215,7 @@ window.allHeroes =
         "passives": [],
         "family": "slime",
         "costume_id": 0,
-        "originalIndex": 1517,
+        "originalIndex": 1518,
         "cn_skill_info": []
     },
     {
@@ -105182,7 +105241,7 @@ window.allHeroes =
         "passives": [],
         "family": "magic_carpet",
         "costume_id": 0,
-        "originalIndex": 1518,
+        "originalIndex": 1519,
         "cn_skill_info": []
     },
     {
@@ -105208,32 +105267,6 @@ window.allHeroes =
         "passives": [],
         "family": "magic",
         "costume_id": 1,
-        "originalIndex": 1519,
-        "cn_skill_info": []
-    },
-    {
-        "name": "Ratgrub",
-        "fancy_name": "Goblin Rat Courtier",
-        "AetherPower": "",
-        "color": "Yellow",
-        "class": "",
-        "speed": "",
-        "skill": "",
-        "types": [],
-        "skill_types": [],
-        "source": "",
-        "Release date": "",
-        "specialId": "",
-        "heroId": "goblin_ratgrub",
-        "star": 5,
-        "power": null,
-        "attack": null,
-        "defense": null,
-        "health": null,
-        "effects": [],
-        "passives": [],
-        "family": "goblin",
-        "costume_id": 0,
         "originalIndex": 1520,
         "cn_skill_info": []
     },
@@ -105261,6 +105294,110 @@ window.allHeroes =
         "family": "astral_dwarfs",
         "costume_id": 0,
         "originalIndex": 1521,
+        "cn_skill_info": []
+    },
+    {
+        "name": "Hortensia",
+        "fancy_name": "Fosterer of Flytraps",
+        "AetherPower": "",
+        "color": "Green",
+        "class": "",
+        "speed": "",
+        "skill": "",
+        "types": [],
+        "skill_types": [],
+        "source": "",
+        "Release date": "",
+        "specialId": "",
+        "heroId": "halloween_hortensia",
+        "star": 5,
+        "power": null,
+        "attack": null,
+        "defense": null,
+        "health": null,
+        "effects": [],
+        "passives": [],
+        "family": "halloween",
+        "costume_id": 0,
+        "originalIndex": 1522,
+        "cn_skill_info": []
+    },
+    {
+        "name": "Guillemette",
+        "fancy_name": "Sanguine Crusader",
+        "AetherPower": "",
+        "color": "Yellow",
+        "class": "",
+        "speed": "",
+        "skill": "",
+        "types": [],
+        "skill_types": [],
+        "source": "",
+        "Release date": "",
+        "specialId": "",
+        "heroId": "fleur_guillemette",
+        "star": 5,
+        "power": null,
+        "attack": null,
+        "defense": null,
+        "health": null,
+        "effects": [],
+        "passives": [],
+        "family": "Halloween2025",
+        "costume_id": 0,
+        "originalIndex": 1523,
+        "cn_skill_info": []
+    },
+    {
+        "name": "Elyzabel de Tuillieres",
+        "fancy_name": "Sanguine Countess",
+        "AetherPower": "",
+        "color": "Red",
+        "class": "",
+        "speed": "",
+        "skill": "",
+        "types": [],
+        "skill_types": [],
+        "source": "",
+        "Release date": "",
+        "specialId": "",
+        "heroId": "fleur_elyzabel",
+        "star": 5,
+        "power": null,
+        "attack": null,
+        "defense": null,
+        "health": null,
+        "effects": [],
+        "passives": [],
+        "family": "Halloween2025",
+        "costume_id": 0,
+        "originalIndex": 1524,
+        "cn_skill_info": []
+    },
+    {
+        "name": "Ludovico",
+        "fancy_name": "Sanguine Steward",
+        "AetherPower": "",
+        "color": "Blue",
+        "class": "",
+        "speed": "",
+        "skill": "",
+        "types": [],
+        "skill_types": [],
+        "source": "",
+        "Release date": "",
+        "specialId": "",
+        "heroId": "fleur_ludovico",
+        "star": 5,
+        "power": null,
+        "attack": null,
+        "defense": null,
+        "health": null,
+        "effects": [],
+        "passives": [],
+        "family": "Halloween2025",
+        "costume_id": 0,
+        "originalIndex": 1525,
         "cn_skill_info": []
     }
 ];

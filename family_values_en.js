@@ -12,6 +12,7 @@ window.family_values = {
     "easter": "Monthly Event - Springvale",
     "sand": "Monthly Event - Sand Empire",
     "halloween": "Monthly Event - Morlovia",
+    "halloween2025": "Monthly Event - Morlovia",
     "winter": "Monthly Event - Winter",
     "ninja": "Tower - Ninjas",
     "magic": "Tower - Magic",

@@ -14,6 +14,7 @@
     "治疗：伤害量": "Heal: From Dmg",
     "治疗：提高生命": "Heal: Boost Health",
     "治疗：特殊": "Heal: Special",
+    
     "特殊效果": "Special Effect",
     "攻击-额外攻击": "Atk - Extra Attack",
     "攻击-回溯/偷取技能": "Atk - Copy/Steal Skill",
@@ -27,7 +28,7 @@
     "攻击-无视闪避": "Atk - Bypass Dodge",
     "攻击-赌博/随机效果": "Atk - Gamble / Random",
     "伤害-额外伤害": "Dmg - Extra",
-    "伤害-爆炸": "Dmg - Explosion",
+    "伤害-条件触发": "Dmg - Conditional Trigger",
     "伤害-面板：提高伤害": "Dmg - Tile : Up",
     "伤害-移除小兵造成伤害": "Dmg - On Minion Removal",
     "伤害-伤害↑：暗黑": "Dmg - Dmg ↑ : Dark",
@@ -57,6 +58,7 @@
     "召唤-超级恶魔": "Summon - Mega Fiend",
     "召唤-小兵": "Summon - Minion",
     "召唤-摧毁恶魔": "Summon - Destroy Fiends",
+    
     "增益效果": "Buff",
     "攻击-暴击率↑": "Atk - Crit Chance ↑",
     "攻击-成长：攻击力↑": "Atk - Growth : Atk↑",
@@ -98,6 +100,7 @@
     "治疗-自我复活": "Heal - Self Revive",
     "治疗-自我恢复": "Heal - Self Recovery",
     "治疗-阻止最大生命值↓": "Heal - Block Max Health ↓",
+    
     "负面效果": "Debuff",
     "攻击-攻击力↓": "Atk - Attack ↓",
     "攻击-攻击力↓：暗黑": "Atk - Attack ↓ : Dark",

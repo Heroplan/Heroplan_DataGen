@@ -12,6 +12,7 @@ window.family_values = {
     "easter": "月活動 - 斯普林維爾",
     "sand": "月活動 - 飛沙帝國",
     "halloween": "月活動 - 莫洛維亞",
+    "halloween2025": "月活動 - 莫洛維亞",
     "winter": "月活動 - 冬季",
     "ninja": "高塔 - 忍者",
     "magic": "高塔 - 魔法",

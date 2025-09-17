@@ -1265,7 +1265,7 @@ window.allHeroesExtra = [
         "baseHealth": 608,
         "specialId": "undead_razer",
         "passiveSkills": [
-            "halloween_steal_buff_or_deal_damage"
+            "halloween_steal_buff_or_deal_damage_new"
         ],
         "family": "halloween"
     },
@@ -1290,7 +1290,7 @@ window.allHeroesExtra = [
         "specialId": "undead_razer",
         "specialId_costume": "undead_obliteration",
         "passiveSkills": [
-            "halloween_steal_buff_or_deal_damage"
+            "halloween_steal_buff_or_deal_damage_new"
         ],
         "costumeBonusPassiveSkillIds": null,
         "attackBonus": "2%",
@@ -1956,7 +1956,7 @@ window.allHeroesExtra = [
         "baseHealth": 563,
         "specialId": "queens_blood_poisoning",
         "passiveSkills": [
-            "halloween_steal_buff_or_deal_damage"
+            "halloween_steal_buff_or_deal_damage_new"
         ],
         "family": "halloween"
     },
@@ -2999,7 +2999,7 @@ window.allHeroesExtra = [
         "baseHealth": 862,
         "specialId": "horrifying_wail",
         "passiveSkills": [
-            "halloween_steal_buff_or_deal_damage"
+            "halloween_steal_buff_or_deal_damage_new"
         ],
         "family": "halloween"
     },
@@ -4674,7 +4674,7 @@ window.allHeroesExtra = [
         "baseHealth": 741,
         "specialId": "litter_of_kittens",
         "passiveSkills": [
-            "halloween_steal_buff_or_deal_damage"
+            "halloween_steal_buff_or_deal_damage_new"
         ],
         "family": "halloween"
     },
@@ -7384,7 +7384,7 @@ window.allHeroesExtra = [
         "baseHealth": 465,
         "specialId": "sugar_rush",
         "passiveSkills": [
-            "halloween_steal_buff_or_deal_damage"
+            "halloween_steal_buff_or_deal_damage_new"
         ],
         "family": "halloween"
     },
@@ -10050,7 +10050,7 @@ window.allHeroesExtra = [
         "baseHealth": 822,
         "specialId": "hemlock_tea",
         "passiveSkills": [
-            "halloween_steal_buff_or_deal_damage"
+            "halloween_steal_buff_or_deal_damage_new"
         ],
         "family": "halloween"
     },
@@ -10540,7 +10540,7 @@ window.allHeroesExtra = [
         "baseHealth": 657,
         "specialId": "electric_cut",
         "passiveSkills": [
-            "halloween_steal_buff_or_deal_damage"
+            "halloween_steal_buff_or_deal_damage_new"
         ],
         "family": "halloween"
     },
@@ -10563,12 +10563,12 @@ window.allHeroesExtra = [
         "specialId": "electric_cut",
         "specialId_costume": "electric_stab",
         "passiveSkills": [
-            "halloween_steal_buff_or_deal_damage"
+            "halloween_steal_buff_or_deal_damage_new"
         ],
         "costumeBonusPassiveSkillIds": null,
-        "attackBonus": "22%",
-        "defenseBonus": "20%",
-        "healthBonus": "25%",
+        "attackBonus": "50%",
+        "defenseBonus": "50%",
+        "healthBonus": "55%",
         "manaBonus": "5%",
         "family": "halloween"
     },
@@ -14142,7 +14142,7 @@ window.allHeroesExtra = [
         "baseHealth": 433,
         "specialId": "explosive_o_lantern",
         "passiveSkills": [
-            "halloween_steal_buff_or_deal_damage"
+            "halloween_steal_buff_or_deal_damage_new"
         ],
         "family": "halloween"
     },
@@ -14643,7 +14643,7 @@ window.allHeroesExtra = [
         "baseHealth": 492,
         "specialId": "lords_blood_poisoning",
         "passiveSkills": [
-            "halloween_steal_buff_or_deal_damage"
+            "halloween_steal_buff_or_deal_damage_new"
         ],
         "family": "halloween"
     },
@@ -14787,7 +14787,7 @@ window.allHeroesExtra = [
         "baseHealth": 620,
         "specialId": "tidy_up",
         "passiveSkills": [
-            "halloween_steal_buff_or_deal_damage"
+            "halloween_steal_buff_or_deal_damage_new"
         ],
         "family": "halloween"
     },
@@ -18170,7 +18170,7 @@ window.allHeroesExtra = [
         "baseHealth": 850,
         "specialId": "might_of_excalibroom",
         "passiveSkills": [
-            "halloween_steal_buff_or_deal_damage"
+            "halloween_steal_buff_or_deal_damage_new"
         ],
         "family": "halloween"
     },
@@ -20162,7 +20162,7 @@ window.allHeroesExtra = [
         "baseHealth": 654,
         "specialId": "kings_blood_poisoning",
         "passiveSkills": [
-            "halloween_steal_buff_or_deal_damage"
+            "halloween_steal_buff_or_deal_damage_new"
         ],
         "family": "halloween"
     },
@@ -20187,12 +20187,12 @@ window.allHeroesExtra = [
         "specialId": "kings_blood_poisoning",
         "specialId_costume": "legacy_of_darkness",
         "passiveSkills": [
-            "halloween_steal_buff_or_deal_damage"
+            "halloween_steal_buff_or_deal_damage_new"
         ],
         "costumeBonusPassiveSkillIds": null,
-        "attackBonus": "22%",
-        "defenseBonus": "20%",
-        "healthBonus": "25%",
+        "attackBonus": "50%",
+        "defenseBonus": "50%",
+        "healthBonus": "55%",
         "manaBonus": "5%",
         "family": "halloween"
     },
@@ -22985,7 +22985,7 @@ window.allHeroesExtra = [
         "baseHealth": 706,
         "specialId": "vampiric_curse",
         "passiveSkills": [
-            "halloween_steal_buff_or_deal_damage"
+            "halloween_steal_buff_or_deal_damage_new"
         ],
         "family": "halloween"
     },
@@ -23010,12 +23010,12 @@ window.allHeroesExtra = [
         "specialId": "vampiric_curse",
         "specialId_costume": "vampiric_heist",
         "passiveSkills": [
-            "halloween_steal_buff_or_deal_damage"
+            "halloween_steal_buff_or_deal_damage_new"
         ],
         "costumeBonusPassiveSkillIds": null,
-        "attackBonus": "22%",
-        "defenseBonus": "20%",
-        "healthBonus": "25%",
+        "attackBonus": "50%",
+        "defenseBonus": "50%",
+        "healthBonus": "55%",
         "manaBonus": "5%",
         "family": "halloween"
     },
@@ -23037,7 +23037,7 @@ window.allHeroesExtra = [
         "baseHealth": 820,
         "specialId": "spear_of_blood_pact",
         "passiveSkills": [
-            "halloween_steal_buff_or_deal_damage"
+            "halloween_steal_buff_or_deal_damage_new"
         ],
         "family": "halloween"
     },
@@ -27355,7 +27355,7 @@ window.allHeroesExtra = [
         "baseHealth": 672,
         "specialId": "twilight_of_sorrow",
         "passiveSkills": [
-            "halloween_steal_buff_or_deal_damage"
+            "halloween_steal_buff_or_deal_damage_new"
         ],
         "family": "halloween"
     },
@@ -27379,12 +27379,12 @@ window.allHeroesExtra = [
         "specialId": "twilight_of_sorrow",
         "specialId_costume": "twilight_of_ruin",
         "passiveSkills": [
-            "halloween_steal_buff_or_deal_damage"
+            "halloween_steal_buff_or_deal_damage_new"
         ],
         "costumeBonusPassiveSkillIds": null,
-        "attackBonus": "22%",
-        "defenseBonus": "20%",
-        "healthBonus": "25%",
+        "attackBonus": "50%",
+        "defenseBonus": "50%",
+        "healthBonus": "55%",
         "manaBonus": "5%",
         "family": "halloween"
     },
@@ -32315,7 +32315,7 @@ window.allHeroesExtra = [
         "baseHealth": 723,
         "specialId": "muffin_poisoning",
         "passiveSkills": [
-            "halloween_steal_buff_or_deal_damage"
+            "halloween_steal_buff_or_deal_damage_new"
         ],
         "family": "halloween"
     },
@@ -33830,7 +33830,7 @@ window.allHeroesExtra = [
         "baseHealth": 700,
         "specialId": "blood_illusion",
         "passiveSkills": [
-            "halloween_steal_buff_or_deal_damage"
+            "halloween_steal_buff_or_deal_damage_new"
         ],
         "family": "halloween"
     },
@@ -34749,8 +34749,8 @@ window.allHeroesExtra = [
             "Counterattackers"
         ],
         "heroId": "nomad_female_lord_costume_glass",
-        "baseAttack": 395,
-        "baseDefense": 260,
+        "baseAttack": 336,
+        "baseDefense": 334,
         "baseHealth": 682,
         "specialId": "wall_of_swords",
         "specialId_costume": "glass_swords",
@@ -34804,8 +34804,8 @@ window.allHeroesExtra = [
             "Cleansers"
         ],
         "heroId": "blackguard_knight_costume_glass",
-        "baseAttack": 367,
-        "baseDefense": 255,
+        "baseAttack": 330,
+        "baseDefense": 302,
         "baseHealth": 466,
         "specialId": "purification",
         "specialId_costume": "glass_purification",
@@ -36356,7 +36356,13 @@ window.allHeroesExtra = [
         "rarity": 5,
         "Release date": "2025-09-11",
         "AetherPower": "Attack Up",
-        "skill_types": [],
+        "skill_types": [
+            "AoE Attackers (Hit-3)",
+            "DoT Attackers",
+            "Sleepweavers",
+            "Minions Counters",
+            "Dodgers"
+        ],
         "heroId": "moth_gardered",
         "baseAttack": 633,
         "baseDefense": 586,
@@ -36374,7 +36380,12 @@ window.allHeroesExtra = [
         "rarity": 5,
         "Release date": "2025-09-14",
         "AetherPower": "Damage Reduction",
-        "skill_types": [],
+        "skill_types": [
+            "Snipers",
+            "Healers (Special)",
+            "Mana Raisers",
+            "Counterattackers"
+        ],
         "heroId": "construct_ironheart",
         "baseAttack": 650,
         "baseDefense": 606,
@@ -36382,9 +36393,26 @@ window.allHeroesExtra = [
         "specialId": "iron_rocket_fist",
         "passiveSkills": [
             "minion_core",
-            "hp_on_own_familiar_death_construct",
             "resist_special_blocking_with_health_boost_and_mana"
         ],
         "family": "construct"
+    },
+    {
+        "name": "Ratgrub",
+        "fancy name": "Goblin Rat Courtier",
+        "element": "Yellow",
+        "rarity": 5,
+        "Release date": "2025-09-16",
+        "AetherPower": "Special Armor",
+        "skill_types": [],
+        "heroId": "goblin_ratgrub",
+        "baseAttack": 603,
+        "baseDefense": 624,
+        "baseHealth": 1102,
+        "specialId": "princess_unleashed",
+        "passiveSkills": [
+            "goblin_damage_and_accuracy_debuff_on_special"
+        ],
+        "family": "goblin"
     }
 ];

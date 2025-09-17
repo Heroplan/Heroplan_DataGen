@@ -33,17 +33,6 @@
         "Lottery_Only":1
     },
     {
-        "name": "Ratgrub",
-        "fancy_name": "Goblin Rat Courtier",
-        "color": "Yellow",
-        "Release date": "",
-        "star": 5,
-        "family": "goblin",
-        "costume_id": 0,
-        "heroId": "goblin_ratgrub",
-        "Lottery_Only":1
-    },
-    {
         "name": "Lemniss",
         "fancy_name": "Astral Dwarf Miner",
         "color": "Purple",
@@ -52,6 +41,50 @@
         "family": "astral_dwarfs",
         "costume_id": 0,
         "heroId": "astral_dwarf_lemniss",
+        "Lottery_Only":1
+    },
+    {
+        "name": "Hortensia",
+        "fancy_name": "Fosterer of Flytraps",
+        "color": "Green",
+        "Release date": "",
+        "star": 5,
+        "family": "halloween",
+        "costume_id": 0,
+        "heroId": "halloween_hortensia",
+        "Lottery_Only":1
+    },
+    {
+        "name": "Guillemette",
+        "fancy_name": "Sanguine Crusader",
+        "color": "Yellow",
+        "Release date": "",
+        "star": 5,
+        "family": "Halloween2025",
+        "costume_id": 0,
+        "heroId": "fleur_guillemette",
+        "Lottery_Only":1
+    },
+    {
+        "name": "Elyzabel de Tuillieres",
+        "fancy_name": "Sanguine Countess",
+        "color": "Red",
+        "Release date": "",
+        "star": 5,
+        "family": "Halloween2025",
+        "costume_id": 0,
+        "heroId": "fleur_elyzabel",
+        "Lottery_Only":1
+    },
+    {
+        "name": "Ludovico",
+        "fancy_name": "Sanguine Steward",
+        "color": "Blue",
+        "Release date": "",
+        "star": 5,
+        "family": "Halloween2025",
+        "costume_id": 0,
+        "heroId": "fleur_ludovico",
         "Lottery_Only":1
     }
 ]
