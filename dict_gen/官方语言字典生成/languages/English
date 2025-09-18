@@ -953,6 +953,19 @@ Empires & Puzzles Staff"
 "automail.anniversaryyear8.pushnotification","Happy 8-year anniversary!
 Thank you for playing!"
 "automail.anniversaryyear8.title","Happy 8-year anniversary!"
+"automail.anniversaryyear9.body","Dear {0},
+                                                                                    
+Can you believe it's already been 9 years?
+                                                                                    
+Thank you for being a part of the Empires & Puzzles community. In appreciation for your loyalty and the many battles you've fought, here's a gift to celebrate your anniversary!
+                                                                                    
+Wishing you many more challenges and adventures as your kingdom grows.
+                                                                                    
+Best regards,
+Empires & Puzzles Staff"
+"automail.anniversaryyear9.pushnotification","Happy 9-year anniversary!
+Thank you for playing!"
+"automail.anniversaryyear9.title","Happy 9-year anniversary!"
 "automail.day0.body","Great to meet you, {0}!
 
 Please join us on this epic adventure that's just beginning – new features, Heroes and exciting additions are on their way in the coming weeks and months.
@@ -2481,11 +2494,17 @@ The rewards already include all rewards of the lower tiers."
 "chest.bonus.disclaimer.reward.ascensionitem.yellow","[#ffffff]RARE[#] [#!]and[#] [#fff081]EPIC[#] [#!]Holy Ascension Materials[#]"
 "chest.bonus.disclaimer.reward.battleitem.4","[#!]Battle Items 4*[#]"
 "chest.bonus.disclaimer.reward.battleitem.4.single","[#!]Battle Item 4*[#]"
+"chest.bonus.disclaimer.reward.battleitem.5","[#!]Battle Items 5*[#]"
+"chest.bonus.disclaimer.reward.battleitem.5.single","[#!]Battle Item 5*[#]"
 "chest.bonus.disclaimer.reward.emblem","[#!]Class Emblems[#]"
 "chest.bonus.disclaimer.reward.emblem.master","[#!]Master Emblems[#]"
 "chest.bonus.disclaimer.reward.epictomeofexperience.single","[#!]Epic Tome of Experience[#]"
 "chest.bonus.disclaimer.reward.foodbundle","[#!]Food Bundles[#]"
+"chest.bonus.disclaimer.reward.foodbundle.3","[#!]Medium Food Bundles[#]"
+"chest.bonus.disclaimer.reward.foodbundle.3.single","[#!]Medium Food Bundle[#]"
 "chest.bonus.disclaimer.reward.ironbundle","[#!]Iron Bundles[#]"
+"chest.bonus.disclaimer.reward.ironbundle.3","[#!]Medium Iron Bundles[#]"
+"chest.bonus.disclaimer.reward.ironbundle.3.single","[#!]Medium Iron Bundle[#]"
 "chest.bonus.disclaimer.reward.legendarytomeofexperience.single","[#!]Legendary Tome of Experience[#]"
 "chest.bonus.disclaimer.reward.limitbreaker","[#!]Limit Break Materials[#]"
 "chest.bonus.disclaimer.reward.limitbreaker.blue","[#!]Ice Limit Break Materials[#]"
@@ -19141,6 +19160,7 @@ the Owls!"
 "shop.offers.title.vip_cyber","Cyber Week Special!"
 "shop.offers.title.vippass_offer","Dragon Magic!"
 "shop.offers.title.vippass_offer_premium","Premium Dragon Magic!"
+"shop.offers.title.vippass_starter","Starter VIP Pass"
 "shop.offers.title.wardrobe","Wardrobe Wonders!"
 "shop.offers.title.xmas","Winter Fun!"
 "shop.offers.title.xp_pyramid","Experience Offer"

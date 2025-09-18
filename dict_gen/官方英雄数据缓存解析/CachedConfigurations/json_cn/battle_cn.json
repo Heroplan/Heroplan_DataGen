@@ -53663,6 +53663,14 @@
         "iconOverrideStatusEffectId": "counter_attack",
         "damageDeflectionPerMil": 790,
         "damageDeflectionPerLevelPerMil": 30
+      },
+      {
+        "statusEffect": "ManaGenerationModifier",
+        "id": "mana_debuff_tunes",
+        "buff": "MinorDebuff",
+        "iconOverrideStatusEffectId": "dizzy",
+        "manaGenerationMultiplierPerMil": 630,
+        "manaGenerationMultiplierIncrementPerLevelPerMil": 246
       }
     ],
     "tileEnhancements": [
@@ -79258,5 +79266,5 @@
       "SharedDamage"
     ]
   },
-  "battleConfigId": 1769557120
+  "battleConfigId": 2725814924
 }

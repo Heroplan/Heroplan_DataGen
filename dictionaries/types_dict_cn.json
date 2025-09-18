@@ -879,5 +879,13 @@
   "Deep Sleep 2": "2个目标深度睡眠",
   "Self Heal on Kill": "击败时自身恢复",
   "Self Mana Increase on Kill": "击败时自身法力增加",
-  "Rat Princess Mega Minion": "鼠公主超级小兵"
+  "Rat Princess Mega Minion": "鼠公主超级小兵",
+  "Transform Buffs 3": "替换3个增益",
+  "Debuff Immunity All": "全体状态异常免疫",
+  "Revive Ability Block 3": "封锁3个目标复活能力",
+  "Mana Reduce 4 on Enemy SS": "敌人特殊技能时降低4个敌人法力",
+  "Transform Attack Buffs All": "全体替换攻击增益",
+  "Transform Defense Buffs All": "全体替换防御增益",
+  "Transform Mana Gen Buffs All": "全体替换法力生成增益",
+  "Sand Touch DoT on counterattack 3": "3个单位反击时对目标施加飞沙之触持续伤害"
 }

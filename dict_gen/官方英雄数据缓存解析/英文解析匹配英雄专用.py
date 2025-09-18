@@ -88,8 +88,8 @@ REPLACEMENT_RULES = {
             "prefix": "limitbreak.gift.title.",
         }
     ],
-    ("manaSpeedId",): [{"file": "base_values_cn.txt", "prefix": "base."}],
-    ("classType",): [{"file": "base_values_cn.txt", "prefix": "base."}],
+    ("manaSpeedId2",): [{"file": "base_values_cn.txt", "prefix": "base."}],
+    ("classType2",): [{"file": "base_values_cn.txt", "prefix": "base."}],
     ("rarity",): [{"file": "base_values_cn.txt", "prefix": "base."}],
     ("specialId2",): [
         {

@@ -30,6 +30,8 @@ DESIRED_KEY_ORDER = [
     "fancy name",
     "element",
     "rarity",
+    "class",
+    "speed",
     "Release date",
     "AetherPower",
     "skill_types",
@@ -298,6 +300,8 @@ def main_sync_process():
             if is_costume: MATCHED_COSTUMES.add(fancy_name)
             
             hero_extra['heroId'] = original_id
+            hero_extra['speed'] = matched_char.get('manaSpeedId')
+            hero_extra['class'] = matched_char.get('classType')
             hero_extra['baseAttack'] = matched_char.get('baseAttack')
             hero_extra['baseDefense'] = matched_char.get('baseDefense')
             hero_extra['baseHealth'] = matched_char.get('baseHealth')

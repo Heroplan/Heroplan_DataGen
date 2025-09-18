@@ -4,6 +4,8 @@ window.allHeroesExtra = [
         "fancy name": "Carefree Adventurer",
         "element": "Blue",
         "rarity": 1,
+        "class": "Fighter",
+        "speed": "average",
         "Release date": "2017-03-01",
         "AetherPower": "Attack Up",
         "skill_types": [
@@ -22,6 +24,8 @@ window.allHeroesExtra = [
         "fancy name": "Fierce Maiden",
         "element": "Blue",
         "rarity": 1,
+        "class": "Fighter",
+        "speed": "fast",
         "Release date": "2017-03-01",
         "AetherPower": "Attack Up",
         "skill_types": [
@@ -40,6 +44,8 @@ window.allHeroesExtra = [
         "fancy name": "Serious Guardsman",
         "element": "Blue",
         "rarity": 2,
+        "class": "Paladin",
+        "speed": "average",
         "Release date": "2017-03-01",
         "AetherPower": "Special Armor",
         "skill_types": [
@@ -58,6 +64,8 @@ window.allHeroesExtra = [
         "fancy name": "Exiled Warrior",
         "element": "Blue",
         "rarity": 2,
+        "class": "Fighter",
+        "speed": "average",
         "Release date": "2017-03-01",
         "AetherPower": "Attack Up",
         "skill_types": [
@@ -76,6 +84,8 @@ window.allHeroesExtra = [
         "fancy name": "Veteran Battler",
         "element": "Blue",
         "rarity": 2,
+        "class": "Barbarian",
+        "speed": "average",
         "Release date": "2017-03-01",
         "AetherPower": "Defense Up",
         "skill_types": [
@@ -94,6 +104,8 @@ window.allHeroesExtra = [
         "fancy name": "Maker of Magic Carpets",
         "element": "Blue",
         "rarity": 3,
+        "class": "Wizard",
+        "speed": "slow",
         "Release date": "2025-04-17",
         "AetherPower": "Defense Up",
         "skill_types": [
@@ -118,6 +130,8 @@ window.allHeroesExtra = [
         "fancy name": "Squire of Springvale",
         "element": "Blue",
         "rarity": 3,
+        "class": "Paladin",
+        "speed": "average",
         "Release date": "2020-04-06",
         "AetherPower": "Special Boost",
         "skill_types": [
@@ -137,6 +151,8 @@ window.allHeroesExtra = [
         "fancy name": "Hunter Minstrel",
         "element": "Blue",
         "rarity": 3,
+        "class": "Cleric",
+        "speed": "average",
         "Release date": "2022-08-25",
         "AetherPower": "Defense Up",
         "skill_types": [
@@ -162,6 +178,8 @@ window.allHeroesExtra = [
         "fancy name": "Northern Sentinel",
         "element": "Blue",
         "rarity": 3,
+        "class": "Rogue",
+        "speed": "average",
         "Release date": "2020-12-01",
         "AetherPower": "Defense Up",
         "skill_types": [
@@ -181,6 +199,8 @@ window.allHeroesExtra = [
         "fancy name": "Swamp Thug",
         "element": "Blue",
         "rarity": 3,
+        "class": "Fighter",
+        "speed": "fast",
         "Release date": "2019-08-22",
         "AetherPower": "Attack Up",
         "skill_types": [
@@ -200,6 +220,8 @@ window.allHeroesExtra = [
         "fancy name": "The Ferocious",
         "element": "Blue",
         "rarity": 3,
+        "class": "Sorcerer",
+        "speed": "average",
         "Release date": "2017-03-01",
         "AetherPower": "Special Boost",
         "skill_types": [
@@ -219,6 +241,8 @@ window.allHeroesExtra = [
         "fancy name": "Garlic Thief",
         "element": "Blue",
         "rarity": 3,
+        "class": "Barbarian",
+        "speed": "average",
         "Release date": "2021-01-18",
         "AetherPower": "Dodge",
         "skill_types": [
@@ -245,6 +269,8 @@ window.allHeroesExtra = [
         "fancy name": "The Ferocious Toon",
         "element": "Blue",
         "rarity": 3,
+        "class": "Sorcerer",
+        "speed": "average",
         "Release date": "2024-04-08",
         "AetherPower": "Special Boost",
         "skill_types": [
@@ -273,6 +299,8 @@ window.allHeroesExtra = [
         "fancy name": "The Ferocious Glass",
         "element": "Blue",
         "rarity": 3,
+        "class": "Sorcerer",
+        "speed": "average",
         "Release date": "2025-06-18",
         "AetherPower": "Special Boost",
         "skill_types": [
@@ -301,6 +329,8 @@ window.allHeroesExtra = [
         "fancy name": "Mender of Teltoc",
         "element": "Blue",
         "rarity": 3,
+        "class": "Fighter",
+        "speed": "average",
         "Release date": "2021-12-15",
         "AetherPower": "Defense Up",
         "skill_types": [
@@ -320,6 +350,8 @@ window.allHeroesExtra = [
         "fancy name": "Protector Knight",
         "element": "Blue",
         "rarity": 3,
+        "class": "Paladin",
+        "speed": "slow",
         "Release date": "2017-03-01",
         "AetherPower": "Special Armor",
         "skill_types": [
@@ -339,6 +371,8 @@ window.allHeroesExtra = [
         "fancy name": "Brave Blacksmith",
         "element": "Blue",
         "rarity": 3,
+        "class": "Druid",
+        "speed": "slow",
         "Release date": "2020-01-01",
         "AetherPower": "Defense Up",
         "skill_types": [
@@ -364,6 +398,8 @@ window.allHeroesExtra = [
         "fancy name": "Toon Knight",
         "element": "Blue",
         "rarity": 3,
+        "class": "Paladin",
+        "speed": "slow",
         "Release date": "2024-09-08",
         "AetherPower": "Special Armor",
         "skill_types": [
@@ -391,6 +427,8 @@ window.allHeroesExtra = [
         "fancy name": "Eloi Fisherman",
         "element": "Blue",
         "rarity": 3,
+        "class": "Druid",
+        "speed": "average",
         "Release date": "2021-03-25",
         "AetherPower": "Defense Up",
         "skill_types": [
@@ -412,6 +450,8 @@ window.allHeroesExtra = [
         "fancy name": "Eloi Baker",
         "element": "Blue",
         "rarity": 3,
+        "class": "Paladin",
+        "speed": "average",
         "Release date": "2023-12-07",
         "AetherPower": "Regen",
         "skill_types": [
@@ -439,6 +479,8 @@ window.allHeroesExtra = [
         "fancy name": "Stressed-Out Scribe",
         "element": "Blue",
         "rarity": 3,
+        "class": "Wizard",
+        "speed": "average",
         "Release date": "2022-04-21",
         "AetherPower": "Attack Up",
         "skill_types": [
@@ -460,6 +502,8 @@ window.allHeroesExtra = [
         "fancy name": "Stressed-Out Curator",
         "element": "Blue",
         "rarity": 3,
+        "class": "Cleric",
+        "speed": "average",
         "Release date": "2025-03-17",
         "AetherPower": "Defense Up",
         "skill_types": [
@@ -490,6 +534,8 @@ window.allHeroesExtra = [
         "fancy name": "Wolverine Pugilist",
         "element": "Blue",
         "rarity": 3,
+        "class": "Druid",
+        "speed": "fast",
         "Release date": "2020-05-28",
         "AetherPower": "Special Boost",
         "skill_types": [
@@ -510,6 +556,8 @@ window.allHeroesExtra = [
         "fancy name": "Ferocious Hunter",
         "element": "Blue",
         "rarity": 3,
+        "class": "Monk",
+        "speed": "average",
         "Release date": "2022-06-20",
         "AetherPower": "Counterattack",
         "skill_types": [
@@ -532,6 +580,8 @@ window.allHeroesExtra = [
         "fancy name": "The Hotblooded",
         "element": "Blue",
         "rarity": 3,
+        "class": "Barbarian",
+        "speed": "average",
         "Release date": "2017-03-01",
         "AetherPower": "Rage",
         "skill_types": [
@@ -550,6 +600,8 @@ window.allHeroesExtra = [
         "fancy name": "The Heated",
         "element": "Blue",
         "rarity": 3,
+        "class": "Rogue",
+        "speed": "average",
         "Release date": "2020-05-18",
         "AetherPower": "Bulwark",
         "skill_types": [
@@ -575,6 +627,8 @@ window.allHeroesExtra = [
         "fancy name": "The Hotblooded Toon",
         "element": "Blue",
         "rarity": 3,
+        "class": "Barbarian",
+        "speed": "average",
         "Release date": "2024-06-28",
         "AetherPower": "Rage",
         "skill_types": [
@@ -602,6 +656,8 @@ window.allHeroesExtra = [
         "fancy name": "Ice Dwarf of Jotunheim",
         "element": "Blue",
         "rarity": 3,
+        "class": "Barbarian",
+        "speed": "average",
         "Release date": "2020-02-27",
         "AetherPower": "Rage",
         "skill_types": [
@@ -621,6 +677,8 @@ window.allHeroesExtra = [
         "fancy name": "Explorer Dwarf of Jotunheim",
         "element": "Blue",
         "rarity": 3,
+        "class": "Monk",
+        "speed": "average",
         "Release date": "2023-04-10",
         "AetherPower": "Counterattack",
         "skill_types": [
@@ -646,6 +704,8 @@ window.allHeroesExtra = [
         "fancy name": "Valiant Valet",
         "element": "Blue",
         "rarity": 3,
+        "class": "Fighter",
+        "speed": "fast",
         "Release date": "2023-03-08",
         "AetherPower": "Special Boost",
         "skill_types": [
@@ -668,6 +728,8 @@ window.allHeroesExtra = [
         "fancy name": "Furious Gargoyle",
         "element": "Blue",
         "rarity": 3,
+        "class": "Paladin",
+        "speed": "average",
         "Release date": "2022-05-12",
         "AetherPower": "Ailment Immunity",
         "skill_types": [
@@ -690,6 +752,8 @@ window.allHeroesExtra = [
         "fancy name": "One of The Little Swans",
         "element": "Blue",
         "rarity": 3,
+        "class": "Paladin",
+        "speed": "average",
         "Release date": "2024-01-25",
         "AetherPower": "Dodge",
         "skill_types": [
@@ -715,6 +779,8 @@ window.allHeroesExtra = [
         "fancy name": "Mage of Glaceholm",
         "element": "Blue",
         "rarity": 3,
+        "class": "Wizard",
+        "speed": "slow",
         "Release date": "2017-03-01",
         "AetherPower": "Defense Up",
         "skill_types": [
@@ -734,6 +800,8 @@ window.allHeroesExtra = [
         "fancy name": "Hermit of Glaceholm",
         "element": "Blue",
         "rarity": 3,
+        "class": "Monk",
+        "speed": "slow",
         "Release date": "2021-01-18",
         "AetherPower": "Special Armor",
         "skill_types": [
@@ -759,6 +827,8 @@ window.allHeroesExtra = [
         "fancy name": "Toon of Glaceholm",
         "element": "Blue",
         "rarity": 3,
+        "class": "Wizard",
+        "speed": "slow",
         "Release date": "2024-07-16",
         "AetherPower": "Defense Up",
         "skill_types": [
@@ -787,6 +857,8 @@ window.allHeroesExtra = [
         "fancy name": "Dashing Duelist",
         "element": "Blue",
         "rarity": 3,
+        "class": "Fighter",
+        "speed": "fast",
         "Release date": "2017-03-01",
         "AetherPower": "Attack Up",
         "skill_types": [
@@ -806,6 +878,8 @@ window.allHeroesExtra = [
         "fancy name": "Clean-Cut Climber",
         "element": "Blue",
         "rarity": 3,
+        "class": "Rogue",
+        "speed": "fast",
         "Release date": "2021-01-18",
         "AetherPower": "Special Boost",
         "skill_types": [
@@ -831,6 +905,8 @@ window.allHeroesExtra = [
         "fancy name": "Talented Toon",
         "element": "Blue",
         "rarity": 3,
+        "class": "Fighter",
+        "speed": "fast",
         "Release date": "2023-12-25",
         "AetherPower": "Attack Up",
         "skill_types": [
@@ -859,6 +935,8 @@ window.allHeroesExtra = [
         "fancy name": "Guide to the Underworld",
         "element": "Blue",
         "rarity": 3,
+        "class": "Cleric",
+        "speed": "styx",
         "Release date": "2022-09-21",
         "AetherPower": "Defense Up",
         "skill_types": [
@@ -882,6 +960,8 @@ window.allHeroesExtra = [
         "fancy name": "Fisherman of Corellia",
         "element": "Blue",
         "rarity": 3,
+        "class": "Paladin",
+        "speed": "fast",
         "Release date": "2017-09-07",
         "AetherPower": "Rage",
         "skill_types": [
@@ -901,6 +981,8 @@ window.allHeroesExtra = [
         "fancy name": "Wei Footsoldier",
         "element": "Blue",
         "rarity": 3,
+        "class": "Ranger",
+        "speed": "average",
         "Release date": "2022-03-14",
         "AetherPower": "Attack Up",
         "skill_types": [
@@ -921,6 +1003,8 @@ window.allHeroesExtra = [
         "fancy name": "Chameleon Shaman",
         "element": "Blue",
         "rarity": 4,
+        "class": "Cleric",
+        "speed": "average",
         "Release date": "2019-08-01",
         "AetherPower": "Boosted Regen",
         "skill_types": [
@@ -940,6 +1024,8 @@ window.allHeroesExtra = [
         "fancy name": "Chameleon Alchemist",
         "element": "Blue",
         "rarity": 4,
+        "class": "Wizard",
+        "speed": "average",
         "Release date": "2023-03-06",
         "AetherPower": "Damage Reduction",
         "skill_types": [
@@ -965,6 +1051,8 @@ window.allHeroesExtra = [
         "fancy name": "Elemental Hoplite",
         "element": "Blue",
         "rarity": 4,
+        "class": "Paladin",
+        "speed": "changing_tides",
         "Release date": "2023-09-27",
         "AetherPower": "Damage Reduction",
         "skill_types": [
@@ -986,6 +1074,8 @@ window.allHeroesExtra = [
         "fancy name": "Elemental Colossus",
         "element": "Blue",
         "rarity": 4,
+        "class": "Barbarian",
+        "speed": "changing_tides",
         "Release date": "2025-05-28",
         "AetherPower": "Dodge",
         "skill_types": [
@@ -1015,6 +1105,8 @@ window.allHeroesExtra = [
         "fancy name": "Tough-as-Nails Tavern Keeper",
         "element": "Blue",
         "rarity": 4,
+        "class": "Monk",
+        "speed": "average",
         "Release date": "2022-04-21",
         "AetherPower": "Damage Reduction",
         "skill_types": [
@@ -1036,6 +1128,8 @@ window.allHeroesExtra = [
         "fancy name": "Dancing Tavern Keeper",
         "element": "Blue",
         "rarity": 4,
+        "class": "Cleric",
+        "speed": "average",
         "Release date": "2024-06-24",
         "AetherPower": "Special Armor",
         "skill_types": [
@@ -1068,6 +1162,8 @@ window.allHeroesExtra = [
         "fancy name": "Frost Construct",
         "element": "Blue",
         "rarity": 4,
+        "class": "Fighter",
+        "speed": "fast",
         "Release date": "2024-04-25",
         "AetherPower": "Attack Up",
         "skill_types": [
@@ -1091,6 +1187,8 @@ window.allHeroesExtra = [
         "fancy name": "Stout Defender",
         "element": "Blue",
         "rarity": 4,
+        "class": "Cleric",
+        "speed": "average",
         "Release date": "2017-03-01",
         "AetherPower": "Regen",
         "skill_types": [
@@ -1109,6 +1207,8 @@ window.allHeroesExtra = [
         "fancy name": "Heavyweight Defender",
         "element": "Blue",
         "rarity": 4,
+        "class": "Paladin",
+        "speed": "average",
         "Release date": "2020-05-18",
         "AetherPower": "Ailment Immunity",
         "skill_types": [
@@ -1133,6 +1233,8 @@ window.allHeroesExtra = [
         "fancy name": "Tavern Defender",
         "element": "Blue",
         "rarity": 4,
+        "class": "Fighter",
+        "speed": "average",
         "Release date": "2023-11-27",
         "AetherPower": "Damage Reduction",
         "skill_types": [
@@ -1157,6 +1259,8 @@ window.allHeroesExtra = [
         "fancy name": "Toon Defender",
         "element": "Blue",
         "rarity": 4,
+        "class": "Cleric",
+        "speed": "average",
         "Release date": "2024-09-08",
         "AetherPower": "Regen",
         "skill_types": [
@@ -1183,6 +1287,8 @@ window.allHeroesExtra = [
         "fancy name": "Knave of Wonderland",
         "element": "Blue",
         "rarity": 4,
+        "class": "Paladin",
+        "speed": "fast",
         "Release date": "2019-02-14",
         "AetherPower": "Attack Up",
         "skill_types": [
@@ -1203,6 +1309,8 @@ window.allHeroesExtra = [
         "fancy name": "Dwarven Siegemaster",
         "element": "Blue",
         "rarity": 4,
+        "class": "Paladin",
+        "speed": "fast",
         "Release date": "2025-05-16",
         "AetherPower": "Defense Up",
         "skill_types": [
@@ -1229,6 +1337,8 @@ window.allHeroesExtra = [
         "fancy name": "Follower of Februus",
         "element": "Blue",
         "rarity": 4,
+        "class": "Sorcerer",
+        "speed": "slow",
         "Release date": "2023-07-13",
         "AetherPower": "Regen",
         "skill_types": [
@@ -1252,6 +1362,8 @@ window.allHeroesExtra = [
         "fancy name": "The Monster",
         "element": "Blue",
         "rarity": 4,
+        "class": "Barbarian",
+        "speed": "slow",
         "Release date": "2020-10-26",
         "AetherPower": "Regen",
         "skill_types": [
@@ -1274,6 +1386,8 @@ window.allHeroesExtra = [
         "fancy name": "The Mobster",
         "element": "Blue",
         "rarity": 4,
+        "class": "Monk",
+        "speed": "slow",
         "Release date": "2021-10-04",
         "AetherPower": "Special Boost",
         "skill_types": [
@@ -1304,6 +1418,8 @@ window.allHeroesExtra = [
         "fancy name": "Bard of Joy",
         "element": "Blue",
         "rarity": 4,
+        "class": "Fighter",
+        "speed": "average",
         "Release date": "2022-12-01",
         "AetherPower": "Attack Up",
         "skill_types": [
@@ -1327,6 +1443,8 @@ window.allHeroesExtra = [
         "fancy name": "The Grogsmaster",
         "element": "Blue",
         "rarity": 4,
+        "class": "Barbarian",
+        "speed": "average",
         "Release date": "2024-04-15",
         "AetherPower": "Regen",
         "skill_types": [
@@ -1350,6 +1468,8 @@ window.allHeroesExtra = [
         "fancy name": "Dark Orphan",
         "element": "Blue",
         "rarity": 4,
+        "class": "Barbarian",
+        "speed": "average",
         "Release date": "2017-03-01",
         "AetherPower": "Rage",
         "skill_types": [
@@ -1369,6 +1489,8 @@ window.allHeroesExtra = [
         "fancy name": "Heir of Evil",
         "element": "Blue",
         "rarity": 4,
+        "class": "Rogue",
+        "speed": "average",
         "Release date": "2021-01-18",
         "AetherPower": "Ailment Immunity",
         "skill_types": [
@@ -1394,6 +1516,8 @@ window.allHeroesExtra = [
         "fancy name": "Dark Messenger",
         "element": "Blue",
         "rarity": 4,
+        "class": "Ranger",
+        "speed": "average",
         "Release date": "2023-06-12",
         "AetherPower": "Counterattack",
         "skill_types": [
@@ -1419,6 +1543,8 @@ window.allHeroesExtra = [
         "fancy name": "Dark Toon",
         "element": "Blue",
         "rarity": 4,
+        "class": "Barbarian",
+        "speed": "average",
         "Release date": "2023-12-25",
         "AetherPower": "Rage",
         "skill_types": [
@@ -1447,6 +1573,8 @@ window.allHeroesExtra = [
         "fancy name": "Dark Vitrail",
         "element": "Blue",
         "rarity": 4,
+        "class": "Barbarian",
+        "speed": "average",
         "Release date": "2024-12-25",
         "AetherPower": "Rage",
         "skill_types": [
@@ -1475,6 +1603,8 @@ window.allHeroesExtra = [
         "fancy name": "Wise Gargoyle",
         "element": "Blue",
         "rarity": 4,
+        "class": "Ranger",
+        "speed": "slow",
         "Release date": "2024-05-16",
         "AetherPower": "Regen",
         "skill_types": [
@@ -1498,6 +1628,8 @@ window.allHeroesExtra = [
         "fancy name": "Barbaric Ice Giant",
         "element": "Blue",
         "rarity": 4,
+        "class": "Barbarian",
+        "speed": "slow",
         "Release date": "2020-05-28",
         "AetherPower": "Defense Up",
         "skill_types": [
@@ -1519,6 +1651,8 @@ window.allHeroesExtra = [
         "fancy name": "Master Brewer",
         "element": "Blue",
         "rarity": 4,
+        "class": "Wizard",
+        "speed": "average",
         "Release date": "2017-03-01",
         "AetherPower": "Ailment Immunity",
         "skill_types": [
@@ -1539,6 +1673,8 @@ window.allHeroesExtra = [
         "fancy name": "Master Shredder",
         "element": "Blue",
         "rarity": 4,
+        "class": "Sorcerer",
+        "speed": "average",
         "Release date": "2020-05-18",
         "AetherPower": "Defense Up",
         "skill_types": [
@@ -1565,6 +1701,8 @@ window.allHeroesExtra = [
         "fancy name": "Master Wood Carver",
         "element": "Blue",
         "rarity": 4,
+        "class": "Barbarian",
+        "speed": "average",
         "Release date": "2022-10-31",
         "AetherPower": "Heal Increase",
         "skill_types": [
@@ -1591,6 +1729,8 @@ window.allHeroesExtra = [
         "fancy name": "Toon Brewer",
         "element": "Blue",
         "rarity": 4,
+        "class": "Wizard",
+        "speed": "average",
         "Release date": "2024-02-12",
         "AetherPower": "Defense Up",
         "skill_types": [
@@ -1619,6 +1759,8 @@ window.allHeroesExtra = [
         "fancy name": "Brewer Vitrail",
         "element": "Blue",
         "rarity": 4,
+        "class": "Wizard",
+        "speed": "average",
         "Release date": "2025-03-11",
         "AetherPower": "Defense Up",
         "skill_types": [
@@ -1648,6 +1790,8 @@ window.allHeroesExtra = [
         "fancy name": "Macaque Sentinel",
         "element": "Blue",
         "rarity": 4,
+        "class": "Paladin",
+        "speed": "average",
         "Release date": "2023-05-06",
         "AetherPower": "Special Armor",
         "skill_types": [
@@ -1673,6 +1817,8 @@ window.allHeroesExtra = [
         "fancy name": "Carefree Convict",
         "element": "Blue",
         "rarity": 4,
+        "class": "Fighter",
+        "speed": "fast",
         "Release date": "2023-09-11",
         "AetherPower": "Rage",
         "skill_types": [
@@ -1695,6 +1841,8 @@ window.allHeroesExtra = [
         "fancy name": "Swift Draugr",
         "element": "Blue",
         "rarity": 4,
+        "class": "Ranger",
+        "speed": "very_fast",
         "Release date": "2020-02-27",
         "AetherPower": "Special Boost",
         "skill_types": [
@@ -1715,6 +1863,8 @@ window.allHeroesExtra = [
         "fancy name": "Alchemist of Owl Tower",
         "element": "Blue",
         "rarity": 4,
+        "class": "Wizard",
+        "speed": "fast",
         "Release date": "2023-12-20",
         "AetherPower": "Attack Up",
         "skill_types": [
@@ -1738,6 +1888,8 @@ window.allHeroesExtra = [
         "fancy name": "Iron Discipline Ninja",
         "element": "Blue",
         "rarity": 4,
+        "class": "Fighter",
+        "speed": "charge_ninja",
         "Release date": "2024-09-24",
         "AetherPower": "Attack Up",
         "skill_types": [
@@ -1761,6 +1913,8 @@ window.allHeroesExtra = [
         "fancy name": "Fallen Valkyrie",
         "element": "Blue",
         "rarity": 4,
+        "class": "Cleric",
+        "speed": "average",
         "Release date": "2021-02-11",
         "AetherPower": "Heal Increase",
         "skill_types": [
@@ -1780,6 +1934,8 @@ window.allHeroesExtra = [
         "fancy name": "Ninja of Leaping Shadows",
         "element": "Blue",
         "rarity": 4,
+        "class": "Rogue",
+        "speed": "charge_ninja",
         "Release date": "2020-10-13",
         "AetherPower": "Special Boost",
         "skill_types": [
@@ -1801,6 +1957,8 @@ window.allHeroesExtra = [
         "fancy name": "Willful Champion",
         "element": "Blue",
         "rarity": 4,
+        "class": "Paladin",
+        "speed": "fast",
         "Release date": "2017-03-01",
         "AetherPower": "Special Boost",
         "skill_types": [
@@ -1820,6 +1978,8 @@ window.allHeroesExtra = [
         "fancy name": "Viking Champion",
         "element": "Blue",
         "rarity": 4,
+        "class": "Druid",
+        "speed": "fast",
         "Release date": "2020-01-01",
         "AetherPower": "Special Armor",
         "skill_types": [
@@ -1845,6 +2005,8 @@ window.allHeroesExtra = [
         "fancy name": "Willful Prospector",
         "element": "Blue",
         "rarity": 4,
+        "class": "Rogue",
+        "speed": "fast",
         "Release date": "2023-11-27",
         "AetherPower": "Attack Up",
         "skill_types": [
@@ -1870,6 +2032,8 @@ window.allHeroesExtra = [
         "fancy name": "Toon Champion",
         "element": "Blue",
         "rarity": 4,
+        "class": "Paladin",
+        "speed": "fast",
         "Release date": "2024-07-16",
         "AetherPower": "Special Boost",
         "skill_types": [
@@ -1898,6 +2062,8 @@ window.allHeroesExtra = [
         "fancy name": "Captain of Atlantis",
         "element": "Blue",
         "rarity": 4,
+        "class": "Ranger",
+        "speed": "fast",
         "Release date": "2019-08-01",
         "AetherPower": "Regen",
         "skill_types": [
@@ -1917,6 +2083,8 @@ window.allHeroesExtra = [
         "fancy name": "Champion of Atlantis",
         "element": "Blue",
         "rarity": 4,
+        "class": "Barbarian",
+        "speed": "fast",
         "Release date": "2023-04-03",
         "AetherPower": "Counterattack",
         "skill_types": [
@@ -1942,6 +2110,8 @@ window.allHeroesExtra = [
         "fancy name": "Child of Night",
         "element": "Blue",
         "rarity": 4,
+        "class": "Monk",
+        "speed": "very_fast",
         "Release date": "2018-10-25",
         "AetherPower": "Vampire",
         "skill_types": [
@@ -1965,6 +2135,8 @@ window.allHeroesExtra = [
         "fancy name": "One-Eyed Commander",
         "element": "Blue",
         "rarity": 4,
+        "class": "Fighter",
+        "speed": "fast",
         "Release date": "2022-03-14",
         "AetherPower": "Attack Up",
         "skill_types": [
@@ -1985,6 +2157,8 @@ window.allHeroesExtra = [
         "fancy name": "Octropod Assassin",
         "element": "Blue",
         "rarity": 4,
+        "class": "Rogue",
+        "speed": "fast",
         "Release date": "2021-03-25",
         "AetherPower": "Attack Up",
         "skill_types": [
@@ -2006,6 +2180,8 @@ window.allHeroesExtra = [
         "fancy name": "Octopod Dancer",
         "element": "Blue",
         "rarity": 4,
+        "class": "Monk",
+        "speed": "fast",
         "Release date": "2024-01-04",
         "AetherPower": "Counterattack",
         "skill_types": [
@@ -2033,6 +2209,8 @@ window.allHeroesExtra = [
         "fancy name": "Princess of the Hunt",
         "element": "Blue",
         "rarity": 5,
+        "class": "Paladin",
+        "speed": "average",
         "Release date": "2022-09-18",
         "AetherPower": "Fiend Resist",
         "skill_types": [
@@ -2057,6 +2235,8 @@ window.allHeroesExtra = [
         "fancy name": "Frozen Highlander",
         "element": "Blue",
         "rarity": 5,
+        "class": "Paladin",
+        "speed": "average",
         "Release date": "2018-10-01",
         "AetherPower": "Special Armor",
         "skill_types": [
@@ -2078,6 +2258,8 @@ window.allHeroesExtra = [
         "fancy name": "Frozen Farmer",
         "element": "Blue",
         "rarity": 5,
+        "class": "Monk",
+        "speed": "average",
         "Release date": "2023-01-23",
         "AetherPower": "Ailment Immunity",
         "skill_types": [
@@ -2107,6 +2289,8 @@ window.allHeroesExtra = [
         "fancy name": "Summer Maiden",
         "element": "Blue",
         "rarity": 5,
+        "class": "Cleric",
+        "speed": "average",
         "Release date": "2022-06-20",
         "AetherPower": "Defense Up",
         "skill_types": [
@@ -2129,6 +2313,8 @@ window.allHeroesExtra = [
         "fancy name": "Lake Maiden",
         "element": "Blue",
         "rarity": 5,
+        "class": "Monk",
+        "speed": "average",
         "Release date": "2023-08-07",
         "AetherPower": "Bulwark",
         "skill_types": [
@@ -2157,6 +2343,8 @@ window.allHeroesExtra = [
         "fancy name": "Huntress of Ice Giants",
         "element": "Blue",
         "rarity": 5,
+        "class": "Ranger",
+        "speed": "fast",
         "Release date": "2018-05-01",
         "AetherPower": "Attack Up",
         "skill_types": [
@@ -2178,6 +2366,8 @@ window.allHeroesExtra = [
         "fancy name": "Iceberg Champion",
         "element": "Blue",
         "rarity": 5,
+        "class": "Rogue",
+        "speed": "fast",
         "Release date": "2021-12-23",
         "AetherPower": "Special Boost",
         "skill_types": [
@@ -2208,6 +2398,8 @@ window.allHeroesExtra = [
         "fancy name": "Shield Against Injustice",
         "element": "Blue",
         "rarity": 5,
+        "class": "Cleric",
+        "speed": "average",
         "Release date": "2021-09-01",
         "AetherPower": "Defense Up",
         "skill_types": [
@@ -2233,6 +2425,8 @@ window.allHeroesExtra = [
         "fancy name": "Adventurer of Wonderland",
         "element": "Blue",
         "rarity": 5,
+        "class": "Rogue",
+        "speed": "fast",
         "Release date": "2019-02-14",
         "AetherPower": "Attack Up",
         "skill_types": [
@@ -2252,6 +2446,8 @@ window.allHeroesExtra = [
         "fancy name": "Goddess of the Sea",
         "element": "Blue",
         "rarity": 5,
+        "class": "Monk",
+        "speed": "styx",
         "Release date": "2023-07-19",
         "AetherPower": "Fiend Resist",
         "skill_types": [
@@ -2276,6 +2472,8 @@ window.allHeroesExtra = [
         "fancy name": "Dwarven Oracle",
         "element": "Blue",
         "rarity": 5,
+        "class": "Sorcerer",
+        "speed": "average",
         "Release date": "2024-12-28",
         "AetherPower": "Defense Up",
         "skill_types": [
@@ -2303,6 +2501,8 @@ window.allHeroesExtra = [
         "fancy name": "Galactic Savior",
         "element": "Blue",
         "rarity": 5,
+        "class": "Cleric",
+        "speed": "average",
         "Release date": "2023-01-30",
         "AetherPower": "Damage Reduction",
         "skill_types": [
@@ -2324,6 +2524,8 @@ window.allHeroesExtra = [
         "fancy name": "Half-horse Ice Mage",
         "element": "Blue",
         "rarity": 5,
+        "class": "Wizard",
+        "speed": "slow",
         "Release date": "2023-09-01",
         "AetherPower": "Regen",
         "skill_types": [
@@ -2348,6 +2550,8 @@ window.allHeroesExtra = [
         "fancy name": "Princess of Atlantis",
         "element": "Blue",
         "rarity": 5,
+        "class": "Cleric",
+        "speed": "average",
         "Release date": "2019-02-01",
         "AetherPower": "Defense Up",
         "skill_types": [
@@ -2368,6 +2572,8 @@ window.allHeroesExtra = [
         "fancy name": "Enchanter of Atlantis",
         "element": "Blue",
         "rarity": 5,
+        "class": "Sorcerer",
+        "speed": "average",
         "Release date": "2021-11-15",
         "AetherPower": "Attack Up",
         "skill_types": [
@@ -2394,6 +2600,8 @@ window.allHeroesExtra = [
         "fancy name": "Arctic Ambassador",
         "element": "Blue",
         "rarity": 5,
+        "class": "Ranger",
+        "speed": "fast",
         "Release date": "2024-04-10",
         "AetherPower": "Counterattack",
         "skill_types": [
@@ -2416,6 +2624,8 @@ window.allHeroesExtra = [
         "fancy name": "All-Seeing Faun Augur",
         "element": "Blue",
         "rarity": 5,
+        "class": "Sorcerer",
+        "speed": "fast",
         "Release date": "2025-02-21",
         "AetherPower": "Ailment Immunity",
         "skill_types": [
@@ -2442,6 +2652,8 @@ window.allHeroesExtra = [
         "fancy name": "Celestial of Ice",
         "element": "Blue",
         "rarity": 5,
+        "class": "Ranger",
+        "speed": "average",
         "Release date": "2017-07-01",
         "AetherPower": "Attack Up",
         "skill_types": [
@@ -2464,6 +2676,8 @@ window.allHeroesExtra = [
         "fancy name": "Goddess of War",
         "element": "Blue",
         "rarity": 5,
+        "class": "Barbarian",
+        "speed": "average",
         "Release date": "2021-12-23",
         "AetherPower": "Special Boost",
         "skill_types": [
@@ -2494,6 +2708,8 @@ window.allHeroesExtra = [
         "fancy name": "Glacial Nereid of the Deep",
         "element": "Blue",
         "rarity": 5,
+        "class": "Sorcerer",
+        "speed": "changing_tides",
         "Release date": "2023-11-22",
         "AetherPower": "Dodge",
         "skill_types": [
@@ -2519,6 +2735,8 @@ window.allHeroesExtra = [
         "fancy name": "Glacial Siren of the Deep",
         "element": "Blue",
         "rarity": 5,
+        "class": "Rogue",
+        "speed": "changing_tides",
         "Release date": "2024-11-21",
         "AetherPower": "Damage Reduction",
         "skill_types": [
@@ -2552,6 +2770,8 @@ window.allHeroesExtra = [
         "fancy name": "Ninja Outlook",
         "element": "Blue",
         "rarity": 5,
+        "class": "Rogue",
+        "speed": "charge_ninja",
         "Release date": "2023-05-31",
         "AetherPower": "Attack Up",
         "skill_types": [
@@ -2571,6 +2791,8 @@ window.allHeroesExtra = [
         "fancy name": "Ferocious Gladiator",
         "element": "Blue",
         "rarity": 5,
+        "class": "Fighter",
+        "speed": "average",
         "Release date": "2022-12-01",
         "AetherPower": "Attack Up",
         "skill_types": [
@@ -2595,6 +2817,8 @@ window.allHeroesExtra = [
         "fancy name": "Spirit of Creation",
         "element": "Blue",
         "rarity": 5,
+        "class": "Druid",
+        "speed": "average",
         "Release date": "2022-07-07",
         "AetherPower": "Regen",
         "skill_types": [
@@ -2616,6 +2840,8 @@ window.allHeroesExtra = [
         "fancy name": "Heron of Creation",
         "element": "Blue",
         "rarity": 5,
+        "class": "Cleric",
+        "speed": "average",
         "Release date": "2024-12-10",
         "AetherPower": "Damage Reduction",
         "skill_types": [
@@ -2648,6 +2874,8 @@ window.allHeroesExtra = [
         "fancy name": "One-dwarf Band",
         "element": "Blue",
         "rarity": 5,
+        "class": "Fighter",
+        "speed": "slow",
         "Release date": "2025-01-16",
         "AetherPower": "Special Armor",
         "skill_types": [
@@ -2672,6 +2900,8 @@ window.allHeroesExtra = [
         "fancy name": "Yeti with the Warmest Heart",
         "element": "Blue",
         "rarity": 5,
+        "class": "Barbarian",
+        "speed": "slow",
         "Release date": "2021-06-10",
         "AetherPower": "Rage",
         "skill_types": [
@@ -2692,6 +2922,8 @@ window.allHeroesExtra = [
         "fancy name": "Copycat of the Illusionary Arts",
         "element": "Blue",
         "rarity": 5,
+        "class": "Barbarian",
+        "speed": "fast",
         "Release date": "2022-11-03",
         "AetherPower": "Attack Up",
         "skill_types": [
@@ -2715,6 +2947,8 @@ window.allHeroesExtra = [
         "fancy name": "Homunculus Investigator",
         "element": "Blue",
         "rarity": 5,
+        "class": "Barbarian",
+        "speed": "fast",
         "Release date": "2025-03-06",
         "AetherPower": "Attack Up",
         "skill_types": [
@@ -2735,6 +2969,8 @@ window.allHeroesExtra = [
         "fancy name": "The Pensive Poet",
         "element": "Blue",
         "rarity": 5,
+        "class": "Wizard",
+        "speed": "average",
         "Release date": "2024-05-13",
         "AetherPower": "Regen",
         "skill_types": [
@@ -2758,6 +2994,8 @@ window.allHeroesExtra = [
         "fancy name": "Arcanist Tinkerer",
         "element": "Blue",
         "rarity": 5,
+        "class": "Sorcerer",
+        "speed": "charge_magic",
         "Release date": "2023-05-03",
         "AetherPower": "Defense Up",
         "skill_types": [
@@ -2784,6 +3022,8 @@ window.allHeroesExtra = [
         "fancy name": "Warlord of Wei",
         "element": "Blue",
         "rarity": 5,
+        "class": "Rogue",
+        "speed": "slow",
         "Release date": "2022-07-18",
         "AetherPower": "Regen",
         "skill_types": [
@@ -2805,6 +3045,8 @@ window.allHeroesExtra = [
         "fancy name": "Warlord of Ice",
         "element": "Blue",
         "rarity": 5,
+        "class": "Ranger",
+        "speed": "slow",
         "Release date": "2024-08-02",
         "AetherPower": "Special Armor",
         "skill_types": [
@@ -2834,6 +3076,8 @@ window.allHeroesExtra = [
         "fancy name": "The Bravehearted",
         "element": "Blue",
         "rarity": 5,
+        "class": "Barbarian",
+        "speed": "slayer",
         "Release date": "2021-08-05",
         "AetherPower": "Attack Up",
         "skill_types": [
@@ -2859,6 +3103,8 @@ window.allHeroesExtra = [
         "fancy name": "Masked Goddess of Earth",
         "element": "Blue",
         "rarity": 5,
+        "class": "Druid",
+        "speed": "slow",
         "Release date": "2023-07-13",
         "AetherPower": "Regen",
         "skill_types": [
@@ -2881,6 +3127,8 @@ window.allHeroesExtra = [
         "fancy name": "Bard of Illusion",
         "element": "Blue",
         "rarity": 5,
+        "class": "Ranger",
+        "speed": "average",
         "Release date": "2023-06-15",
         "AetherPower": "Attack Up",
         "skill_types": [
@@ -2903,6 +3151,8 @@ window.allHeroesExtra = [
         "fancy name": "Primordial Goddess of Sea Monsters",
         "element": "Blue",
         "rarity": 5,
+        "class": "Barbarian",
+        "speed": "changing_tides",
         "Release date": "2023-07-05",
         "AetherPower": "Attack Up",
         "skill_types": [
@@ -2929,6 +3179,8 @@ window.allHeroesExtra = [
         "fancy name": "Primordial Queen of Sea Monsters",
         "element": "Blue",
         "rarity": 5,
+        "class": "Fighter",
+        "speed": "changing_tides",
         "Release date": "2025-03-03",
         "AetherPower": "Special Boost",
         "skill_types": [
@@ -2963,6 +3215,8 @@ window.allHeroesExtra = [
         "fancy name": "Chosen by the Lunar Light",
         "element": "Blue",
         "rarity": 5,
+        "class": "Wizard",
+        "speed": "average",
         "Release date": "2023-12-04",
         "AetherPower": "Ailment Reflect",
         "skill_types": [
@@ -2986,6 +3240,8 @@ window.allHeroesExtra = [
         "fancy name": "The Unfriendly Ghost",
         "element": "Blue",
         "rarity": 5,
+        "class": "Sorcerer",
+        "speed": "slow",
         "Release date": "2024-09-23",
         "AetherPower": "Revive",
         "skill_types": [
@@ -3008,6 +3264,8 @@ window.allHeroesExtra = [
         "fancy name": "The Lab Moth",
         "element": "Blue",
         "rarity": 5,
+        "class": "Wizard",
+        "speed": "very_fast",
         "Release date": "2025-06-25",
         "AetherPower": "Ailment Immunity",
         "skill_types": [
@@ -3034,6 +3292,8 @@ window.allHeroesExtra = [
         "fancy name": "Warrior Princess of Manipura",
         "element": "Blue",
         "rarity": 5,
+        "class": "Fighter",
+        "speed": "fast",
         "Release date": "2025-06-16",
         "AetherPower": "Dodge",
         "skill_types": [
@@ -3059,6 +3319,8 @@ window.allHeroesExtra = [
         "fancy name": "Exacting Commander",
         "element": "Blue",
         "rarity": 5,
+        "class": "Paladin",
+        "speed": "fast",
         "Release date": "2025-05-27",
         "AetherPower": "Attack Up",
         "skill_types": [
@@ -3082,6 +3344,8 @@ window.allHeroesExtra = [
         "fancy name": "Knight of the Arctic Circle",
         "element": "Blue",
         "rarity": 5,
+        "class": "Paladin",
+        "speed": "average",
         "Release date": "2023-02-23",
         "AetherPower": "Defense Up",
         "skill_types": [
@@ -3105,6 +3369,8 @@ window.allHeroesExtra = [
         "fancy name": "Curse-Touched Healer",
         "element": "Blue",
         "rarity": 5,
+        "class": "Sorcerer",
+        "speed": "fast",
         "Release date": "2025-04-01",
         "AetherPower": "Defense Up",
         "skill_types": [
@@ -3128,6 +3394,8 @@ window.allHeroesExtra = [
         "fancy name": "Ninja of Whispering Seas",
         "element": "Blue",
         "rarity": 5,
+        "class": "Wizard",
+        "speed": "charge_ninja",
         "Release date": "2020-10-13",
         "AetherPower": "Special Boost",
         "skill_types": [
@@ -3149,6 +3417,8 @@ window.allHeroesExtra = [
         "fancy name": "Astral Elf Astronomer",
         "element": "Blue",
         "rarity": 5,
+        "class": "Wizard",
+        "speed": "average",
         "Release date": "2024-10-14",
         "AetherPower": "Attack Up",
         "skill_types": [
@@ -3174,6 +3444,8 @@ window.allHeroesExtra = [
         "fancy name": "Crystal Empress",
         "element": "Blue",
         "rarity": 5,
+        "class": "Wizard",
+        "speed": "fast",
         "Release date": "2021-02-11",
         "AetherPower": "Damage Reduction",
         "skill_types": [
@@ -3197,6 +3469,8 @@ window.allHeroesExtra = [
         "fancy name": "Shark in Training",
         "element": "Blue",
         "rarity": 5,
+        "class": "Fighter",
+        "speed": "average",
         "Release date": "2024-06-03",
         "AetherPower": "Defense Up",
         "skill_types": [
@@ -3222,6 +3496,8 @@ window.allHeroesExtra = [
         "fancy name": "Archmage of the Castle",
         "element": "Blue",
         "rarity": 5,
+        "class": "Sorcerer",
+        "speed": "average",
         "Release date": "2021-10-13",
         "AetherPower": "Heal Increase",
         "skill_types": [
@@ -3243,6 +3519,8 @@ window.allHeroesExtra = [
         "fancy name": "Octopod Priest",
         "element": "Blue",
         "rarity": 5,
+        "class": "Barbarian",
+        "speed": "average",
         "Release date": "2021-12-30",
         "AetherPower": "Boosted Regen",
         "skill_types": [
@@ -3264,6 +3542,8 @@ window.allHeroesExtra = [
         "fancy name": "Octopod Hierophant",
         "element": "Blue",
         "rarity": 5,
+        "class": "Wizard",
+        "speed": "average",
         "Release date": "2024-09-26",
         "AetherPower": "Special Armor",
         "skill_types": [
@@ -3294,6 +3574,8 @@ window.allHeroesExtra = [
         "fancy name": "Trove of Thousand Teeth",
         "element": "Blue",
         "rarity": 5,
+        "class": "Fighter",
+        "speed": "average",
         "Release date": "2025-05-03",
         "AetherPower": "Bulwark",
         "skill_types": [
@@ -3321,6 +3603,8 @@ window.allHeroesExtra = [
         "fancy name": "Leader of Niflheim",
         "element": "Blue",
         "rarity": 5,
+        "class": "Fighter",
+        "speed": "fast",
         "Release date": "2020-02-27",
         "AetherPower": "Rage",
         "skill_types": [
@@ -3342,6 +3626,8 @@ window.allHeroesExtra = [
         "fancy name": "Guardian of Niflheim",
         "element": "Blue",
         "rarity": 5,
+        "class": "Barbarian",
+        "speed": "fast",
         "Release date": "2023-04-10",
         "AetherPower": "Special Boost",
         "skill_types": [
@@ -3369,6 +3655,8 @@ window.allHeroesExtra = [
         "fancy name": "Unflappable Constable",
         "element": "Blue",
         "rarity": 5,
+        "class": "Monk",
+        "speed": "slow",
         "Release date": "2024-12-09",
         "AetherPower": "Defense Up",
         "skill_types": [
@@ -3393,6 +3681,8 @@ window.allHeroesExtra = [
         "fancy name": "Commodore of Corellia",
         "element": "Blue",
         "rarity": 5,
+        "class": "Ranger",
+        "speed": "fast",
         "Release date": "2019-11-11",
         "AetherPower": "Revive",
         "skill_types": [
@@ -3413,6 +3703,8 @@ window.allHeroesExtra = [
         "fancy name": "Bleak Commodore",
         "element": "Blue",
         "rarity": 5,
+        "class": "Fighter",
+        "speed": "fast",
         "Release date": "2022-04-14",
         "AetherPower": "Attack Up",
         "skill_types": [
@@ -3442,6 +3734,8 @@ window.allHeroesExtra = [
         "fancy name": "Upstart Patron",
         "element": "Blue",
         "rarity": 5,
+        "class": "Paladin",
+        "speed": "very_fast",
         "Release date": "2023-11-30",
         "AetherPower": "Attack Up",
         "skill_types": [
@@ -3466,6 +3760,8 @@ window.allHeroesExtra = [
         "fancy name": "Goblin Troupe Violinist",
         "element": "Blue",
         "rarity": 5,
+        "class": "Rogue",
+        "speed": "fast",
         "Release date": "2023-11-13",
         "AetherPower": "Attack Up",
         "skill_types": [
@@ -3488,6 +3784,8 @@ window.allHeroesExtra = [
         "fancy name": "Masked Goddess of Fate",
         "element": "Blue",
         "rarity": 5,
+        "class": "Rogue",
+        "speed": "fast",
         "Release date": "2022-11-22",
         "AetherPower": "Fiend Resist",
         "skill_types": [
@@ -3512,6 +3810,8 @@ window.allHeroesExtra = [
         "fancy name": "Arctic Menace",
         "element": "Blue",
         "rarity": 5,
+        "class": "Paladin",
+        "speed": "average",
         "Release date": "2019-03-01",
         "AetherPower": "Attack Up",
         "skill_types": [
@@ -3535,6 +3835,8 @@ window.allHeroesExtra = [
         "fancy name": "Winter Bringer",
         "element": "Blue",
         "rarity": 5,
+        "class": "Rogue",
+        "speed": "fast",
         "Release date": "2021-04-01",
         "AetherPower": "Defense Up",
         "skill_types": [
@@ -3558,6 +3860,8 @@ window.allHeroesExtra = [
         "fancy name": "Lizardfolk Flagbearer",
         "element": "Blue",
         "rarity": 5,
+        "class": "Paladin",
+        "speed": "fast",
         "Release date": "2025-01-17",
         "AetherPower": "Regen",
         "skill_types": [
@@ -3581,6 +3885,8 @@ window.allHeroesExtra = [
         "fancy name": "Astute Gargoyle",
         "element": "Blue",
         "rarity": 5,
+        "class": "Sorcerer",
+        "speed": "fast",
         "Release date": "2021-11-24",
         "AetherPower": "Special Boost",
         "skill_types": [
@@ -3604,6 +3910,8 @@ window.allHeroesExtra = [
         "fancy name": "Starborne Mage Construct",
         "element": "Blue",
         "rarity": 5,
+        "class": "Wizard",
+        "speed": "average",
         "Release date": "2023-09-21",
         "AetherPower": "Dodge",
         "skill_types": [
@@ -3628,6 +3936,8 @@ window.allHeroesExtra = [
         "fancy name": "Relentless Tracker",
         "element": "Blue",
         "rarity": 5,
+        "class": "Ranger",
+        "speed": "fast",
         "Release date": "2024-02-01",
         "AetherPower": "Attack Up",
         "skill_types": [
@@ -3652,6 +3962,8 @@ window.allHeroesExtra = [
         "fancy name": "Magical Godmother",
         "element": "Blue",
         "rarity": 5,
+        "class": "Wizard",
+        "speed": "average",
         "Release date": "2020-11-01",
         "AetherPower": "Attack Up",
         "skill_types": [
@@ -3675,6 +3987,8 @@ window.allHeroesExtra = [
         "fancy name": "Hermit of the Frozen Mountain",
         "element": "Blue",
         "rarity": 5,
+        "class": "Paladin",
+        "speed": "slow",
         "Release date": "2024-02-19",
         "AetherPower": "Defense Up",
         "skill_types": [
@@ -3697,6 +4011,8 @@ window.allHeroesExtra = [
         "fancy name": "Brute of Teltoc",
         "element": "Blue",
         "rarity": 5,
+        "class": "Barbarian",
+        "speed": "fast",
         "Release date": "2023-01-26",
         "AetherPower": "Fiend Resist",
         "skill_types": [
@@ -3716,6 +4032,8 @@ window.allHeroesExtra = [
         "fancy name": "Cunning Sphinx",
         "element": "Blue",
         "rarity": 5,
+        "class": "Cleric",
+        "speed": "average",
         "Release date": "2023-02-16",
         "AetherPower": "Defense Up",
         "skill_types": [
@@ -3738,6 +4056,8 @@ window.allHeroesExtra = [
         "fancy name": "Sphinx at the Spa",
         "element": "Blue",
         "rarity": 5,
+        "class": "Monk",
+        "speed": "average",
         "Release date": "2024-03-04",
         "AetherPower": "Heal Increase",
         "skill_types": [
@@ -3770,6 +4090,8 @@ window.allHeroesExtra = [
         "fancy name": "Cupid of Unrequited Love",
         "element": "Blue",
         "rarity": 5,
+        "class": "Rogue",
+        "speed": "very_fast",
         "Release date": "2023-02-14",
         "AetherPower": "Attack Up",
         "skill_types": [
@@ -3792,6 +4114,8 @@ window.allHeroesExtra = [
         "fancy name": "Dwarven Great Knight",
         "element": "Blue",
         "rarity": 5,
+        "class": "Paladin",
+        "speed": "average",
         "Release date": "2025-04-14",
         "AetherPower": "Defense Up",
         "skill_types": [
@@ -3821,6 +4145,8 @@ window.allHeroesExtra = [
         "fancy name": "Master of the Mead-Hall",
         "element": "Blue",
         "rarity": 5,
+        "class": "Paladin",
+        "speed": "average",
         "Release date": "2024-11-25",
         "AetherPower": "Attack Up",
         "skill_types": [
@@ -3847,6 +4173,8 @@ window.allHeroesExtra = [
         "fancy name": "Collector of Mystical Artifacts",
         "element": "Blue",
         "rarity": 5,
+        "class": "Druid",
+        "speed": "average",
         "Release date": "2025-06-10",
         "AetherPower": "Damage Reduction",
         "skill_types": [
@@ -3866,6 +4194,8 @@ window.allHeroesExtra = [
         "fancy name": "Expert Dispeller",
         "element": "Blue",
         "rarity": 5,
+        "class": "Wizard",
+        "speed": "fast",
         "Release date": "2022-02-01",
         "AetherPower": "Damage Reduction",
         "skill_types": [
@@ -3890,6 +4220,8 @@ window.allHeroesExtra = [
         "fancy name": "Protector of Glaceholm",
         "element": "Blue",
         "rarity": 5,
+        "class": "Wizard",
+        "speed": "slow",
         "Release date": "2017-03-01",
         "AetherPower": "Regen",
         "skill_types": [
@@ -3909,6 +4241,8 @@ window.allHeroesExtra = [
         "fancy name": "Ice Witch of Glaceholm",
         "element": "Blue",
         "rarity": 5,
+        "class": "Sorcerer",
+        "speed": "slow",
         "Release date": "2020-01-01",
         "AetherPower": "Special Boost",
         "skill_types": [
@@ -3934,6 +4268,8 @@ window.allHeroesExtra = [
         "fancy name": "Ruler of Glaceholm",
         "element": "Blue",
         "rarity": 5,
+        "class": "Cleric",
+        "speed": "slow",
         "Release date": "2022-09-05",
         "AetherPower": "Regen",
         "skill_types": [
@@ -3960,6 +4296,8 @@ window.allHeroesExtra = [
         "fancy name": "Protector of Toons",
         "element": "Blue",
         "rarity": 5,
+        "class": "Wizard",
+        "speed": "slow",
         "Release date": "2024-05-06",
         "AetherPower": "Regen",
         "skill_types": [
@@ -3988,6 +4326,8 @@ window.allHeroesExtra = [
         "fancy name": "Vitrail of Glaceholm",
         "element": "Blue",
         "rarity": 5,
+        "class": "Wizard",
+        "speed": "slow",
         "Release date": "2025-06-18",
         "AetherPower": "Regen",
         "skill_types": [
@@ -4016,6 +4356,8 @@ window.allHeroesExtra = [
         "fancy name": "Astral Dwarf Demolisher",
         "element": "Blue",
         "rarity": 5,
+        "class": "Wizard",
+        "speed": "slow",
         "Release date": "2025-03-27",
         "AetherPower": "Defense Up",
         "skill_types": [
@@ -4043,6 +4385,8 @@ window.allHeroesExtra = [
         "fancy name": "Electric Navigator",
         "element": "Blue",
         "rarity": 5,
+        "class": "Fighter",
+        "speed": "very_fast",
         "Release date": "2024-01-29",
         "AetherPower": "Dodge",
         "skill_types": [
@@ -4066,6 +4410,8 @@ window.allHeroesExtra = [
         "fancy name": "Thoughtful Faun Tinkerer",
         "element": "Blue",
         "rarity": 5,
+        "class": "Cleric",
+        "speed": "average",
         "Release date": "2025-05-20",
         "AetherPower": "Defense Up",
         "skill_types": [
@@ -4091,6 +4437,8 @@ window.allHeroesExtra = [
         "fancy name": "Love-struck Gearhead",
         "element": "Blue",
         "rarity": 5,
+        "class": "Barbarian",
+        "speed": "slow",
         "Release date": "2024-01-08",
         "AetherPower": "Defense Up",
         "skill_types": [
@@ -4113,6 +4461,8 @@ window.allHeroesExtra = [
         "fancy name": "Kitchen Alchemist",
         "element": "Blue",
         "rarity": 5,
+        "class": "Cleric",
+        "speed": "slow",
         "Release date": "2023-09-18",
         "AetherPower": "Special Armor",
         "skill_types": [
@@ -4137,6 +4487,8 @@ window.allHeroesExtra = [
         "fancy name": "King of Avalon",
         "element": "Blue",
         "rarity": 5,
+        "class": "Paladin",
+        "speed": "average",
         "Release date": "2018-01-05",
         "AetherPower": "Attack Up",
         "skill_types": [
@@ -4158,6 +4510,8 @@ window.allHeroesExtra = [
         "fancy name": "Rime Sorcerer",
         "element": "Blue",
         "rarity": 5,
+        "class": "Sorcerer",
+        "speed": "slow",
         "Release date": "2022-07-01",
         "AetherPower": "Mana Boost",
         "skill_types": [
@@ -4182,6 +4536,8 @@ window.allHeroesExtra = [
         "fancy name": "Holiday Ghoul",
         "element": "Blue",
         "rarity": 5,
+        "class": "Sorcerer",
+        "speed": "average",
         "Release date": "2020-12-01",
         "AetherPower": "Taunt",
         "skill_types": [
@@ -4203,6 +4559,8 @@ window.allHeroesExtra = [
         "fancy name": "Holiday Prankster",
         "element": "Blue",
         "rarity": 5,
+        "class": "Barbarian",
+        "speed": "average",
         "Release date": "2021-12-01",
         "AetherPower": "Dodge",
         "skill_types": [
@@ -4230,6 +4588,8 @@ window.allHeroesExtra = [
         "fancy name": "Trickster God",
         "element": "Blue",
         "rarity": 5,
+        "class": "Wizard",
+        "speed": "average",
         "Release date": "2020-12-24",
         "AetherPower": "Special Armor",
         "skill_types": [
@@ -4248,6 +4608,8 @@ window.allHeroesExtra = [
         "fancy name": "Shapeshifter God",
         "element": "Blue",
         "rarity": 5,
+        "class": "Sorcerer",
+        "speed": "average",
         "Release date": "2023-05-08",
         "AetherPower": "Special Boost",
         "skill_types": [
@@ -4273,6 +4635,8 @@ window.allHeroesExtra = [
         "fancy name": "Seer of the Sapphire Dream",
         "element": "Blue",
         "rarity": 5,
+        "class": "Monk",
+        "speed": "slow",
         "Release date": "2023-10-18",
         "AetherPower": "Heal Increase",
         "skill_types": [
@@ -4297,6 +4661,8 @@ window.allHeroesExtra = [
         "fancy name": "Spell Weaving Slime",
         "element": "Blue",
         "rarity": 5,
+        "class": "Wizard",
+        "speed": "average",
         "Release date": "2025-04-25",
         "AetherPower": "Defense Up",
         "skill_types": [
@@ -4322,6 +4688,8 @@ window.allHeroesExtra = [
         "fancy name": "Ancient of Ice",
         "element": "Blue",
         "rarity": 5,
+        "class": "Fighter",
+        "speed": "fast",
         "Release date": "2017-03-01",
         "AetherPower": "Attack Up",
         "skill_types": [
@@ -4341,6 +4709,8 @@ window.allHeroesExtra = [
         "fancy name": "Monolith of Ice",
         "element": "Blue",
         "rarity": 5,
+        "class": "Druid",
+        "speed": "fast",
         "Release date": "2020-05-18",
         "AetherPower": "Special Boost",
         "skill_types": [
@@ -4366,6 +4736,8 @@ window.allHeroesExtra = [
         "fancy name": "Ancient of the Underworld",
         "element": "Blue",
         "rarity": 5,
+        "class": "Rogue",
+        "speed": "fast",
         "Release date": "2022-10-31",
         "AetherPower": "Rage",
         "skill_types": [
@@ -4391,6 +4763,8 @@ window.allHeroesExtra = [
         "fancy name": "Toon of Ice",
         "element": "Blue",
         "rarity": 5,
+        "class": "Fighter",
+        "speed": "fast",
         "Release date": "2024-01-22",
         "AetherPower": "Attack Up",
         "skill_types": [
@@ -4419,6 +4793,8 @@ window.allHeroesExtra = [
         "fancy name": "Vitrail of Ice",
         "element": "Blue",
         "rarity": 5,
+        "class": "Fighter",
+        "speed": "fast",
         "Release date": "2025-03-11",
         "AetherPower": "Attack Up",
         "skill_types": [
@@ -4447,6 +4823,8 @@ window.allHeroesExtra = [
         "fancy name": "Courtier of Owl Tower",
         "element": "Blue",
         "rarity": 5,
+        "class": "Cleric",
+        "speed": "fast",
         "Release date": "2024-03-13",
         "AetherPower": "Heal Increase",
         "skill_types": [
@@ -4469,6 +4847,8 @@ window.allHeroesExtra = [
         "fancy name": "Guardian of Springvale",
         "element": "Blue",
         "rarity": 5,
+        "class": "Druid",
+        "speed": "fast",
         "Release date": "2018-03-28",
         "AetherPower": "Attack Up",
         "skill_types": [
@@ -4488,6 +4868,8 @@ window.allHeroesExtra = [
         "fancy name": "Rift Breaker",
         "element": "Blue",
         "rarity": 5,
+        "class": "Barbarian",
+        "speed": "fast",
         "Release date": "2022-03-21",
         "AetherPower": "Special Boost",
         "skill_types": [
@@ -4513,6 +4895,8 @@ window.allHeroesExtra = [
         "fancy name": "Shadowy Gargoyle",
         "element": "Blue",
         "rarity": 5,
+        "class": "Rogue",
+        "speed": "average",
         "Release date": "2022-12-29",
         "AetherPower": "Special Boost",
         "skill_types": [
@@ -4536,6 +4920,8 @@ window.allHeroesExtra = [
         "fancy name": "Fairy Queen of the Night",
         "element": "Blue",
         "rarity": 5,
+        "class": "Druid",
+        "speed": "average",
         "Release date": "2024-11-01",
         "AetherPower": "Attack Up",
         "skill_types": [
@@ -4560,6 +4946,8 @@ window.allHeroesExtra = [
         "fancy name": "Slayer of Frost Beasts",
         "element": "Blue",
         "rarity": 5,
+        "class": "Barbarian",
+        "speed": "slow",
         "Release date": "2019-08-01",
         "AetherPower": "Attack Up",
         "skill_types": [
@@ -4582,6 +4970,8 @@ window.allHeroesExtra = [
         "fancy name": "Machiavellian Villainess",
         "element": "Blue",
         "rarity": 5,
+        "class": "Wizard",
+        "speed": "slow",
         "Release date": "2023-03-08",
         "AetherPower": "Defense Up",
         "skill_types": [
@@ -4604,6 +4994,8 @@ window.allHeroesExtra = [
         "fancy name": "Teacher of the Arcane Arts",
         "element": "Blue",
         "rarity": 5,
+        "class": "Wizard",
+        "speed": "charge_magic",
         "Release date": "2021-09-15",
         "AetherPower": "Damage Reduction",
         "skill_types": [
@@ -4628,6 +5020,8 @@ window.allHeroesExtra = [
         "fancy name": "Teacher of Arctic Spells",
         "element": "Blue",
         "rarity": 5,
+        "class": "Cleric",
+        "speed": "charge_magic",
         "Release date": "2025-04-17",
         "AetherPower": "Dodge",
         "skill_types": [
@@ -4660,6 +5054,8 @@ window.allHeroesExtra = [
         "fancy name": "Occult Duo",
         "element": "Blue",
         "rarity": 5,
+        "class": "Wizard",
+        "speed": "average",
         "Release date": "2022-10-03",
         "AetherPower": "Defense Up",
         "skill_types": [
@@ -4683,6 +5079,8 @@ window.allHeroesExtra = [
         "fancy name": "Magnificent Mercenary",
         "element": "Blue",
         "rarity": 5,
+        "class": "Fighter",
+        "speed": "fast",
         "Release date": "2019-08-01",
         "AetherPower": "Attack Up",
         "skill_types": [
@@ -4703,6 +5101,8 @@ window.allHeroesExtra = [
         "fancy name": "Magnificent Hula Dancer",
         "element": "Blue",
         "rarity": 5,
+        "class": "Rogue",
+        "speed": "fast",
         "Release date": "2023-01-09",
         "AetherPower": "Special Boost",
         "skill_types": [
@@ -4729,6 +5129,8 @@ window.allHeroesExtra = [
         "fancy name": "Defender of Springvale",
         "element": "Blue",
         "rarity": 5,
+        "class": "Fighter",
+        "speed": "average",
         "Release date": "2024-03-18",
         "AetherPower": "Attack Up",
         "skill_types": [
@@ -4749,6 +5151,8 @@ window.allHeroesExtra = [
         "fancy name": "Discus Throw Champion",
         "element": "Blue",
         "rarity": 5,
+        "class": "Druid",
+        "speed": "slow",
         "Release date": "2024-05-03",
         "AetherPower": "Defense Up",
         "skill_types": [
@@ -4773,6 +5177,8 @@ window.allHeroesExtra = [
         "fancy name": "Snorkeling Gnome",
         "element": "Blue",
         "rarity": 5,
+        "class": "Cleric",
+        "speed": "fast",
         "Release date": "2023-06-12",
         "AetherPower": "Attack Up",
         "skill_types": [
@@ -4797,6 +5203,8 @@ window.allHeroesExtra = [
         "fancy name": "Remorseless Shieldmaiden",
         "element": "Blue",
         "rarity": 5,
+        "class": "Paladin",
+        "speed": "average",
         "Release date": "2025-02-13",
         "AetherPower": "Damage Reduction",
         "skill_types": [
@@ -4823,6 +5231,8 @@ window.allHeroesExtra = [
         "fancy name": "Astral Elf Incense Master",
         "element": "Blue",
         "rarity": 5,
+        "class": "Cleric",
+        "speed": "slow",
         "Release date": "2024-08-19",
         "AetherPower": "Heal Increase",
         "skill_types": [
@@ -4849,6 +5259,8 @@ window.allHeroesExtra = [
         "fancy name": "Eloi Hunter",
         "element": "Blue",
         "rarity": 5,
+        "class": "Ranger",
+        "speed": "fast",
         "Release date": "2021-06-17",
         "AetherPower": "Defense Up",
         "skill_types": [
@@ -4870,6 +5282,8 @@ window.allHeroesExtra = [
         "fancy name": "Eloi Sage",
         "element": "Blue",
         "rarity": 5,
+        "class": "Fighter",
+        "speed": "fast",
         "Release date": "2023-07-20",
         "AetherPower": "Bulwark",
         "skill_types": [
@@ -4902,6 +5316,8 @@ window.allHeroesExtra = [
         "fancy name": "Captain of Santa's Guards",
         "element": "Blue",
         "rarity": 5,
+        "class": "Druid",
+        "speed": "fast",
         "Release date": "2021-12-01",
         "AetherPower": "Defense Up",
         "skill_types": [
@@ -4922,6 +5338,8 @@ window.allHeroesExtra = [
         "fancy name": "Captain of Snowboard Team",
         "element": "Blue",
         "rarity": 5,
+        "class": "Rogue",
+        "speed": "fast",
         "Release date": "2024-12-01",
         "AetherPower": "Attack Up",
         "skill_types": [
@@ -4949,6 +5367,8 @@ window.allHeroesExtra = [
         "fancy name": "Navigator Construct",
         "element": "Blue",
         "rarity": 5,
+        "class": "Wizard",
+        "speed": "average",
         "Release date": "2024-02-08",
         "AetherPower": "Dodge",
         "skill_types": [
@@ -4974,6 +5394,8 @@ window.allHeroesExtra = [
         "fancy name": "Nine-Headed Prince Consort",
         "element": "Blue",
         "rarity": 5,
+        "class": "Druid",
+        "speed": "slow",
         "Release date": "2023-06-19",
         "AetherPower": "Regen",
         "skill_types": [
@@ -4998,6 +5420,8 @@ window.allHeroesExtra = [
         "fancy name": "Cold Blooded Assassin",
         "element": "Blue",
         "rarity": 5,
+        "class": "Monk",
+        "speed": "fast",
         "Release date": "2024-06-17",
         "AetherPower": "Attack Up",
         "skill_types": [
@@ -5019,6 +5443,8 @@ window.allHeroesExtra = [
         "fancy name": "The White Swan",
         "element": "Blue",
         "rarity": 5,
+        "class": "Paladin",
+        "speed": "average",
         "Release date": "2023-06-20",
         "AetherPower": "Dodge",
         "skill_types": [
@@ -5044,6 +5470,8 @@ window.allHeroesExtra = [
         "fancy name": "Shadow Monk of 999 Swords",
         "element": "Blue",
         "rarity": 5,
+        "class": "Monk",
+        "speed": "charge_ninja",
         "Release date": "2023-01-11",
         "AetherPower": "Heal Increase",
         "skill_types": [
@@ -5064,6 +5492,8 @@ window.allHeroesExtra = [
         "fancy name": "Wanderer of the Steppes",
         "element": "Blue",
         "rarity": 5,
+        "class": "Fighter",
+        "speed": "slow",
         "Release date": "2024-07-22",
         "AetherPower": "Defense Up",
         "skill_types": [
@@ -5087,6 +5517,8 @@ window.allHeroesExtra = [
         "fancy name": "Clever Voyager",
         "element": "Blue",
         "rarity": 5,
+        "class": "Fighter",
+        "speed": "average",
         "Release date": "2021-12-02",
         "AetherPower": "Special Armor",
         "skill_types": [
@@ -5110,6 +5542,8 @@ window.allHeroesExtra = [
         "fancy name": "Elegant Artist",
         "element": "Blue",
         "rarity": 5,
+        "class": "Cleric",
+        "speed": "average",
         "Release date": "2023-10-12",
         "AetherPower": "Defense Up",
         "skill_types": [
@@ -5142,6 +5576,8 @@ window.allHeroesExtra = [
         "fancy name": "The Mothician",
         "element": "Blue",
         "rarity": 5,
+        "class": "Wizard",
+        "speed": "average",
         "Release date": "2025-02-20",
         "AetherPower": "Ailment Immunity",
         "skill_types": [
@@ -5168,6 +5604,8 @@ window.allHeroesExtra = [
         "fancy name": "Son of Zeus",
         "element": "Blue",
         "rarity": 5,
+        "class": "Paladin",
+        "speed": "fast",
         "Release date": "2017-12-01",
         "AetherPower": "Attack Up",
         "skill_types": [
@@ -5189,6 +5627,8 @@ window.allHeroesExtra = [
         "fancy name": "Challenger of Boreas",
         "element": "Blue",
         "rarity": 5,
+        "class": "Fighter",
+        "speed": "fast",
         "Release date": "2022-11-28",
         "AetherPower": "Defense Up",
         "skill_types": [
@@ -5219,6 +5659,8 @@ window.allHeroesExtra = [
         "fancy name": "Virtuoso Gargoyle",
         "element": "Blue",
         "rarity": 5,
+        "class": "Wizard",
+        "speed": "fast",
         "Release date": "2024-02-27",
         "AetherPower": "Attack Up",
         "skill_types": [
@@ -5242,6 +5684,8 @@ window.allHeroesExtra = [
         "fancy name": "Jolly Musketeer",
         "element": "Blue",
         "rarity": 5,
+        "class": "Barbarian",
+        "speed": "slow",
         "Release date": "2022-12-14",
         "AetherPower": "Attack Up",
         "skill_types": [
@@ -5267,6 +5711,8 @@ window.allHeroesExtra = [
         "fancy name": "Astral Dwarf Pilgrim",
         "element": "Blue",
         "rarity": 5,
+        "class": "Monk",
+        "speed": "average",
         "Release date": "2024-12-22",
         "AetherPower": "Damage Reduction",
         "skill_types": [
@@ -5293,6 +5739,8 @@ window.allHeroesExtra = [
         "fancy name": "Cosmic Chef",
         "element": "Blue",
         "rarity": 5,
+        "class": "Cleric",
+        "speed": "fast",
         "Release date": "2023-09-11",
         "AetherPower": "Counterattack",
         "skill_types": [
@@ -5317,6 +5765,8 @@ window.allHeroesExtra = [
         "fancy name": "Stalker of the Castle",
         "element": "Blue",
         "rarity": 5,
+        "class": "Rogue",
+        "speed": "fast",
         "Release date": "2022-01-05",
         "AetherPower": "Vampire",
         "skill_types": [
@@ -5337,6 +5787,8 @@ window.allHeroesExtra = [
         "fancy name": "Tranquil Channeler",
         "element": "Blue",
         "rarity": 5,
+        "class": "Monk",
+        "speed": "slow",
         "Release date": "2020-06-01",
         "AetherPower": "Defense Up",
         "skill_types": [
@@ -5360,6 +5812,8 @@ window.allHeroesExtra = [
         "fancy name": "The Steadfast",
         "element": "Blue",
         "rarity": 5,
+        "class": "Cleric",
+        "speed": "slayer",
         "Release date": "2021-08-05",
         "AetherPower": "Defense Up",
         "skill_types": [
@@ -5386,6 +5840,8 @@ window.allHeroesExtra = [
         "fancy name": "Hammer of Justice",
         "element": "Blue",
         "rarity": 5,
+        "class": "Paladin",
+        "speed": "average",
         "Release date": "2017-03-01",
         "AetherPower": "Attack Up",
         "skill_types": [
@@ -5405,6 +5861,8 @@ window.allHeroesExtra = [
         "fancy name": "Axe of Justice",
         "element": "Blue",
         "rarity": 5,
+        "class": "Barbarian",
+        "speed": "average",
         "Release date": "2020-01-01",
         "AetherPower": "Special Boost",
         "skill_types": [
@@ -5430,6 +5888,8 @@ window.allHeroesExtra = [
         "fancy name": "Hammer of Injustice",
         "element": "Blue",
         "rarity": 5,
+        "class": "Fighter",
+        "speed": "average",
         "Release date": "2023-09-04",
         "AetherPower": "Rage",
         "skill_types": [
@@ -5456,6 +5916,8 @@ window.allHeroesExtra = [
         "fancy name": "Hammer of Toon Power",
         "element": "Blue",
         "rarity": 5,
+        "class": "Paladin",
+        "speed": "average",
         "Release date": "2023-10-30",
         "AetherPower": "Attack Up",
         "skill_types": [
@@ -5484,6 +5946,8 @@ window.allHeroesExtra = [
         "fancy name": "Hammer of Glass",
         "element": "Blue",
         "rarity": 5,
+        "class": "Paladin",
+        "speed": "average",
         "Release date": "2024-12-25",
         "AetherPower": "Attack Up",
         "skill_types": [
@@ -5512,6 +5976,8 @@ window.allHeroesExtra = [
         "fancy name": "Jester of Grimforest",
         "element": "Blue",
         "rarity": 5,
+        "class": "Sorcerer",
+        "speed": "average",
         "Release date": "2019-12-01",
         "AetherPower": "Gamble",
         "skill_types": [
@@ -5535,6 +6001,8 @@ window.allHeroesExtra = [
         "fancy name": "Eternal Trickster",
         "element": "Blue",
         "rarity": 5,
+        "class": "Monk",
+        "speed": "average",
         "Release date": "2022-06-16",
         "AetherPower": "Counterattack",
         "skill_types": [
@@ -5566,6 +6034,8 @@ window.allHeroesExtra = [
         "fancy name": "Eloi Rogue",
         "element": "Blue",
         "rarity": 5,
+        "class": "Rogue",
+        "speed": "very_fast",
         "Release date": "2021-05-20",
         "AetherPower": "Attack Up",
         "skill_types": [
@@ -5590,6 +6060,8 @@ window.allHeroesExtra = [
         "fancy name": "Eloi Painter",
         "element": "Blue",
         "rarity": 5,
+        "class": "Ranger",
+        "speed": "very_fast",
         "Release date": "2024-01-04",
         "AetherPower": "Rage",
         "skill_types": [
@@ -5624,6 +6096,8 @@ window.allHeroesExtra = [
         "fancy name": "The Lost Princess Fox",
         "element": "Blue",
         "rarity": 5,
+        "class": "Cleric",
+        "speed": "very_fast",
         "Release date": "2025-02-02",
         "AetherPower": "Ailment Reflect",
         "skill_types": [
@@ -5650,6 +6124,8 @@ window.allHeroesExtra = [
         "fancy name": "Sumo Champion",
         "element": "Blue",
         "rarity": 5,
+        "class": "Paladin",
+        "speed": "average",
         "Release date": "2023-11-29",
         "AetherPower": "Damage Reduction",
         "skill_types": [
@@ -5675,6 +6151,8 @@ window.allHeroesExtra = [
         "fancy name": "Faithful Kunoichi",
         "element": "Blue",
         "rarity": 5,
+        "class": "Paladin",
+        "speed": "charge_ninja",
         "Release date": "2024-11-19",
         "AetherPower": "Counterattack",
         "skill_types": [
@@ -5698,6 +6176,8 @@ window.allHeroesExtra = [
         "fancy name": "Scorpion Handler",
         "element": "Blue",
         "rarity": 5,
+        "class": "Sorcerer",
+        "speed": "average",
         "Release date": "2024-08-13",
         "AetherPower": "Attack Up",
         "skill_types": [
@@ -5722,6 +6202,8 @@ window.allHeroesExtra = [
         "fancy name": "The Azure Conjurer",
         "element": "Blue",
         "rarity": 5,
+        "class": "Wizard",
+        "speed": "average",
         "Release date": "2024-07-01",
         "AetherPower": "Special Boost",
         "skill_types": [
@@ -5748,6 +6230,8 @@ window.allHeroesExtra = [
         "fancy name": "The Oathkeeper",
         "element": "Blue",
         "rarity": 5,
+        "class": "Barbarian",
+        "speed": "very_fast",
         "Release date": "2024-06-05",
         "AetherPower": "Attack Up",
         "skill_types": [
@@ -5771,6 +6255,8 @@ window.allHeroesExtra = [
         "fancy name": "Goddess of Jotunheim",
         "element": "Blue",
         "rarity": 5,
+        "class": "Monk",
+        "speed": "average",
         "Release date": "2020-06-25",
         "AetherPower": "Attack Up",
         "skill_types": [
@@ -5793,6 +6279,8 @@ window.allHeroesExtra = [
         "fancy name": "Guardian of Jotunheim",
         "element": "Blue",
         "rarity": 5,
+        "class": "Paladin",
+        "speed": "average",
         "Release date": "2022-07-04",
         "AetherPower": "Special Boost",
         "skill_types": [
@@ -5821,6 +6309,8 @@ window.allHeroesExtra = [
         "fancy name": "Balefrost Construct",
         "element": "Blue",
         "rarity": 5,
+        "class": "Rogue",
+        "speed": "very_fast",
         "Release date": "2024-08-09",
         "AetherPower": "Special Boost",
         "skill_types": [
@@ -5847,6 +6337,8 @@ window.allHeroesExtra = [
         "fancy name": "Sneaky Rogue Slime",
         "element": "Blue",
         "rarity": 5,
+        "class": "Rogue",
+        "speed": "fast",
         "Release date": "2024-10-30",
         "AetherPower": "Attack Up",
         "skill_types": [
@@ -5870,6 +6362,8 @@ window.allHeroesExtra = [
         "fancy name": "Princess of Grimforest",
         "element": "Blue",
         "rarity": 5,
+        "class": "Cleric",
+        "speed": "slow",
         "Release date": "2019-12-01",
         "AetherPower": "Defense Up",
         "skill_types": [
@@ -5892,6 +6386,8 @@ window.allHeroesExtra = [
         "fancy name": "Slayer White",
         "element": "Blue",
         "rarity": 5,
+        "class": "Ranger",
+        "speed": "slow",
         "Release date": "2021-12-15",
         "AetherPower": "Defense Up",
         "skill_types": [
@@ -5920,6 +6416,8 @@ window.allHeroesExtra = [
         "fancy name": "God of the River",
         "element": "Blue",
         "rarity": 5,
+        "class": "Wizard",
+        "speed": "average",
         "Release date": "2022-04-21",
         "AetherPower": "Defense Up",
         "skill_types": [
@@ -5941,6 +6439,8 @@ window.allHeroesExtra = [
         "fancy name": "Guardian of the River",
         "element": "Blue",
         "rarity": 5,
+        "class": "Rogue",
+        "speed": "average",
         "Release date": "2024-07-13",
         "AetherPower": "Attack Up",
         "skill_types": [
@@ -5971,6 +6471,8 @@ window.allHeroesExtra = [
         "fancy name": "Timely Rain of Water Margin",
         "element": "Blue",
         "rarity": 5,
+        "class": "Paladin",
+        "speed": "average",
         "Release date": "2025-05-22",
         "AetherPower": "Ailment Immunity",
         "skill_types": [
@@ -5997,6 +6499,8 @@ window.allHeroesExtra = [
         "fancy name": "Icebound Wraith",
         "element": "Blue",
         "rarity": 5,
+        "class": "Sorcerer",
+        "speed": "average",
         "Release date": "2023-05-06",
         "AetherPower": "Defense Up",
         "skill_types": [
@@ -6022,6 +6526,8 @@ window.allHeroesExtra = [
         "fancy name": "King of the Astral Elves",
         "element": "Blue",
         "rarity": 5,
+        "class": "Druid",
+        "speed": "fast",
         "Release date": "2023-11-21",
         "AetherPower": "Attack Up",
         "skill_types": [
@@ -6047,6 +6553,8 @@ window.allHeroesExtra = [
         "fancy name": "Spellcaster Fashionista",
         "element": "Blue",
         "rarity": 5,
+        "class": "Cleric",
+        "speed": "fast",
         "Release date": "2023-05-01",
         "AetherPower": "Defense Up",
         "skill_types": [
@@ -6071,6 +6579,8 @@ window.allHeroesExtra = [
         "fancy name": "Moth of the Mist",
         "element": "Blue",
         "rarity": 5,
+        "class": "Monk",
+        "speed": "fast",
         "Release date": "2025-03-20",
         "AetherPower": "Bulwark",
         "skill_types": [
@@ -6095,6 +6605,8 @@ window.allHeroesExtra = [
         "fancy name": "Goddess of all Rivers",
         "element": "Blue",
         "rarity": 5,
+        "class": "Ranger",
+        "speed": "fast",
         "Release date": "2022-05-30",
         "AetherPower": "Attack Up",
         "skill_types": [
@@ -6115,6 +6627,8 @@ window.allHeroesExtra = [
         "fancy name": "Primordial Goddess of the Oceans",
         "element": "Blue",
         "rarity": 5,
+        "class": "Cleric",
+        "speed": "changing_tides",
         "Release date": "2023-06-07",
         "AetherPower": "Heal Increase",
         "skill_types": [
@@ -6137,6 +6651,8 @@ window.allHeroesExtra = [
         "fancy name": "Primordial Goddess of the Crystals",
         "element": "Blue",
         "rarity": 5,
+        "class": "Sorcerer",
+        "speed": "changing_tides",
         "Release date": "2024-08-24",
         "AetherPower": "Regen",
         "skill_types": [
@@ -6167,6 +6683,8 @@ window.allHeroesExtra = [
         "fancy name": "God of Peaceful Demise",
         "element": "Blue",
         "rarity": 5,
+        "class": "Druid",
+        "speed": "styx",
         "Release date": "2023-02-08",
         "AetherPower": "Attack Up",
         "skill_types": [
@@ -6191,6 +6709,8 @@ window.allHeroesExtra = [
         "fancy name": "Knife-Throwing Miracle Bear",
         "element": "Blue",
         "rarity": 5,
+        "class": "Monk",
+        "speed": "slow",
         "Release date": "2021-06-10",
         "AetherPower": "Regen",
         "skill_types": [
@@ -6212,6 +6732,8 @@ window.allHeroesExtra = [
         "fancy name": "Wielder of Frostmorrow",
         "element": "Blue",
         "rarity": 5,
+        "class": "Paladin",
+        "speed": "average",
         "Release date": "2017-03-01",
         "AetherPower": "Special Boost",
         "skill_types": [
@@ -6230,6 +6752,8 @@ window.allHeroesExtra = [
         "fancy name": "King Frostmorrow",
         "element": "Blue",
         "rarity": 5,
+        "class": "Sorcerer",
+        "speed": "average",
         "Release date": "2021-01-18",
         "AetherPower": "Attack Up",
         "skill_types": [
@@ -6255,6 +6779,8 @@ window.allHeroesExtra = [
         "fancy name": "Commander Frostmorrow",
         "element": "Blue",
         "rarity": 5,
+        "class": "Barbarian",
+        "speed": "average",
         "Release date": "2023-07-10",
         "AetherPower": "Counterattack",
         "skill_types": [
@@ -6281,6 +6807,8 @@ window.allHeroesExtra = [
         "fancy name": "Toon Frostmorrow",
         "element": "Blue",
         "rarity": 5,
+        "class": "Paladin",
+        "speed": "average",
         "Release date": "2024-09-08",
         "AetherPower": "Special Boost",
         "skill_types": [
@@ -6308,6 +6836,8 @@ window.allHeroesExtra = [
         "fancy name": "Royal Vanguard of Owl Tower",
         "element": "Blue",
         "rarity": 5,
+        "class": "Fighter",
+        "speed": "fast",
         "Release date": "2023-12-20",
         "AetherPower": "Dodge",
         "skill_types": [
@@ -6333,6 +6863,8 @@ window.allHeroesExtra = [
         "fancy name": "Gnome Tinkerer",
         "element": "Blue",
         "rarity": 5,
+        "class": "Wizard",
+        "speed": "fast",
         "Release date": "2022-12-01",
         "AetherPower": "Attack Up",
         "skill_types": [
@@ -6354,6 +6886,8 @@ window.allHeroesExtra = [
         "fancy name": "Baboon Swordmaster",
         "element": "Blue",
         "rarity": 5,
+        "class": "Wizard",
+        "speed": "fast",
         "Release date": "2023-07-27",
         "AetherPower": "Defense Up",
         "skill_types": [
@@ -6379,6 +6913,8 @@ window.allHeroesExtra = [
         "fancy name": "Peculiar Inventor Wizard",
         "element": "Blue",
         "rarity": 5,
+        "class": "Wizard",
+        "speed": "charge_magic",
         "Release date": "2023-08-23",
         "AetherPower": "Fiend Resist",
         "skill_types": [
@@ -6404,6 +6940,8 @@ window.allHeroesExtra = [
         "fancy name": "Aquatic Conjurer",
         "element": "Blue",
         "rarity": 5,
+        "class": "Druid",
+        "speed": "fast",
         "Release date": "2020-01-01",
         "AetherPower": "Attack Up",
         "skill_types": [
@@ -6428,6 +6966,8 @@ window.allHeroesExtra = [
         "fancy name": "Mysterious Faun Merchant",
         "element": "Blue",
         "rarity": 5,
+        "class": "Wizard",
+        "speed": "very_fast",
         "Release date": "2024-08-31",
         "AetherPower": "Attack Up",
         "skill_types": [
@@ -6453,6 +6993,8 @@ window.allHeroesExtra = [
         "fancy name": "Frightened Gargoyle",
         "element": "Blue",
         "rarity": 5,
+        "class": "Wizard",
+        "speed": "fast",
         "Release date": "2024-10-17",
         "AetherPower": "Special Boost",
         "skill_types": [
@@ -6477,6 +7019,8 @@ window.allHeroesExtra = [
         "fancy name": "Harpoon Engineer",
         "element": "Blue",
         "rarity": 5,
+        "class": "Fighter",
+        "speed": "average",
         "Release date": "2022-11-12",
         "AetherPower": "Attack Up",
         "skill_types": [
@@ -6502,6 +7046,8 @@ window.allHeroesExtra = [
         "fancy name": "The Ranger Arctic Fox",
         "element": "Blue",
         "rarity": 5,
+        "class": "Ranger",
+        "speed": "fast",
         "Release date": "2024-08-20",
         "AetherPower": "Attack Up",
         "skill_types": [
@@ -6525,6 +7071,8 @@ window.allHeroesExtra = [
         "fancy name": "Gnome Wizard",
         "element": "Blue",
         "rarity": 5,
+        "class": "Wizard",
+        "speed": "very_fast",
         "Release date": "2023-12-01",
         "AetherPower": "Dodge",
         "skill_types": [
@@ -6545,6 +7093,8 @@ window.allHeroesExtra = [
         "fancy name": "Universal Beast",
         "element": "Blue",
         "rarity": 5,
+        "class": "Barbarian",
+        "speed": "fast",
         "Release date": "2023-01-30",
         "AetherPower": "Rage",
         "skill_types": [
@@ -6567,6 +7117,8 @@ window.allHeroesExtra = [
         "fancy name": "Ninja of Silent Waves",
         "element": "Blue",
         "rarity": 5,
+        "class": "Fighter",
+        "speed": "charge_ninja",
         "Release date": "2021-11-10",
         "AetherPower": "Heal Increase",
         "skill_types": [
@@ -6588,6 +7140,8 @@ window.allHeroesExtra = [
         "fancy name": "Village Girl",
         "element": "Green",
         "rarity": 1,
+        "class": "Fighter",
+        "speed": "fast",
         "Release date": "2017-03-01",
         "AetherPower": "Attack Up",
         "skill_types": [
@@ -6606,6 +7160,8 @@ window.allHeroesExtra = [
         "fancy name": "Simple Woodsman",
         "element": "Green",
         "rarity": 1,
+        "class": "Fighter",
+        "speed": "average",
         "Release date": "2017-03-01",
         "AetherPower": "Attack Up",
         "skill_types": [
@@ -6624,6 +7180,8 @@ window.allHeroesExtra = [
         "fancy name": "Mercenary Thug",
         "element": "Green",
         "rarity": 2,
+        "class": "Fighter",
+        "speed": "average",
         "Release date": "2017-03-01",
         "AetherPower": "Attack Up",
         "skill_types": [
@@ -6642,6 +7200,8 @@ window.allHeroesExtra = [
         "fancy name": "Plant Whisperer",
         "element": "Green",
         "rarity": 2,
+        "class": "Druid",
+        "speed": "average",
         "Release date": "2017-03-01",
         "AetherPower": "Attack Up",
         "skill_types": [
@@ -6660,6 +7220,8 @@ window.allHeroesExtra = [
         "fancy name": "Nimble Hunter",
         "element": "Green",
         "rarity": 2,
+        "class": "Ranger",
+        "speed": "fast",
         "Release date": "2017-03-01",
         "AetherPower": "Attack Up",
         "skill_types": [
@@ -6678,6 +7240,8 @@ window.allHeroesExtra = [
         "fancy name": "Follower of Aradia",
         "element": "Green",
         "rarity": 3,
+        "class": "Rogue",
+        "speed": "fast",
         "Release date": "2023-07-13",
         "AetherPower": "Attack Up",
         "skill_types": [
@@ -6699,6 +7263,8 @@ window.allHeroesExtra = [
         "fancy name": "Glade Spirit",
         "element": "Green",
         "rarity": 3,
+        "class": "Druid",
+        "speed": "average",
         "Release date": "2017-03-01",
         "AetherPower": "Defense Up",
         "skill_types": [
@@ -6718,6 +7284,8 @@ window.allHeroesExtra = [
         "fancy name": "Grove Spirit",
         "element": "Green",
         "rarity": 3,
+        "class": "Wizard",
+        "speed": "average",
         "Release date": "2020-05-18",
         "AetherPower": "Special Armor",
         "skill_types": [
@@ -6743,6 +7311,8 @@ window.allHeroesExtra = [
         "fancy name": "Toon Spirit",
         "element": "Green",
         "rarity": 3,
+        "class": "Druid",
+        "speed": "average",
         "Release date": "2024-04-08",
         "AetherPower": "Defense Up",
         "skill_types": [
@@ -6771,6 +7341,8 @@ window.allHeroesExtra = [
         "fancy name": "Glass Spirit",
         "element": "Green",
         "rarity": 3,
+        "class": "Druid",
+        "speed": "average",
         "Release date": "2025-04-23",
         "AetherPower": "Defense Up",
         "skill_types": [
@@ -6799,6 +7371,8 @@ window.allHeroesExtra = [
         "fancy name": "Able Archer",
         "element": "Green",
         "rarity": 3,
+        "class": "Ranger",
+        "speed": "fast",
         "Release date": "2017-03-01",
         "AetherPower": "Attack Up",
         "skill_types": [
@@ -6818,6 +7392,8 @@ window.allHeroesExtra = [
         "fancy name": "Adroit Archer",
         "element": "Green",
         "rarity": 3,
+        "class": "Barbarian",
+        "speed": "fast",
         "Release date": "2020-05-18",
         "AetherPower": "Special Boost",
         "skill_types": [
@@ -6843,6 +7419,8 @@ window.allHeroesExtra = [
         "fancy name": "Toon Archer",
         "element": "Green",
         "rarity": 3,
+        "class": "Ranger",
+        "speed": "fast",
         "Release date": "2024-05-06",
         "AetherPower": "Attack Up",
         "skill_types": [
@@ -6871,6 +7449,8 @@ window.allHeroesExtra = [
         "fancy name": "Glass Archer",
         "element": "Green",
         "rarity": 3,
+        "class": "Ranger",
+        "speed": "fast",
         "Release date": "2025-05-10",
         "AetherPower": "Attack Up",
         "skill_types": [
@@ -6899,6 +7479,8 @@ window.allHeroesExtra = [
         "fancy name": "Druid of Rathwood",
         "element": "Green",
         "rarity": 3,
+        "class": "Druid",
+        "speed": "average",
         "Release date": "2017-03-01",
         "AetherPower": "Defense Up",
         "skill_types": [
@@ -6917,6 +7499,8 @@ window.allHeroesExtra = [
         "fancy name": "Shaman of Concordia",
         "element": "Green",
         "rarity": 3,
+        "class": "Cleric",
+        "speed": "average",
         "Release date": "2020-01-01",
         "AetherPower": "Special Armor",
         "skill_types": [
@@ -6941,6 +7525,8 @@ window.allHeroesExtra = [
         "fancy name": "Toon of Rathwood",
         "element": "Green",
         "rarity": 3,
+        "class": "Druid",
+        "speed": "average",
         "Release date": "2024-01-22",
         "AetherPower": "Defense Up",
         "skill_types": [
@@ -6967,6 +7553,8 @@ window.allHeroesExtra = [
         "fancy name": "Vitrail of Rathwood",
         "element": "Green",
         "rarity": 3,
+        "class": "Druid",
+        "speed": "average",
         "Release date": "2025-03-11",
         "AetherPower": "Defense Up",
         "skill_types": [
@@ -6994,6 +7582,8 @@ window.allHeroesExtra = [
         "fancy name": "Cursed Viking Brawler",
         "element": "Green",
         "rarity": 3,
+        "class": "Paladin",
+        "speed": "average",
         "Release date": "2020-02-27",
         "AetherPower": "Special Armor",
         "skill_types": [
@@ -7015,6 +7605,8 @@ window.allHeroesExtra = [
         "fancy name": "The Cutpurse",
         "element": "Green",
         "rarity": 3,
+        "class": "Rogue",
+        "speed": "average",
         "Release date": "2017-03-01",
         "AetherPower": "Attack Up",
         "skill_types": [
@@ -7034,6 +7626,8 @@ window.allHeroesExtra = [
         "fancy name": "The Cutthroat",
         "element": "Green",
         "rarity": 3,
+        "class": "Fighter",
+        "speed": "average",
         "Release date": "2020-05-18",
         "AetherPower": "Special Boost",
         "skill_types": [
@@ -7059,6 +7653,8 @@ window.allHeroesExtra = [
         "fancy name": "The Cutpurse Toon",
         "element": "Green",
         "rarity": 3,
+        "class": "Rogue",
+        "speed": "average",
         "Release date": "2024-06-28",
         "AetherPower": "Attack Up",
         "skill_types": [
@@ -7087,6 +7683,8 @@ window.allHeroesExtra = [
         "fancy name": "Astral Dwarf Sweet Tooth",
         "element": "Green",
         "rarity": 3,
+        "class": "Rogue",
+        "speed": "average",
         "Release date": "2025-06-04",
         "AetherPower": "Boosted Regen",
         "skill_types": [
@@ -7111,6 +7709,8 @@ window.allHeroesExtra = [
         "fancy name": "Erudite Librarian",
         "element": "Green",
         "rarity": 3,
+        "class": "Sorcerer",
+        "speed": "charge_magic",
         "Release date": "2021-09-15",
         "AetherPower": "Special Armor",
         "skill_types": [
@@ -7134,6 +7734,8 @@ window.allHeroesExtra = [
         "fancy name": "Fortuitous Farmer",
         "element": "Green",
         "rarity": 3,
+        "class": "Cleric",
+        "speed": "slow",
         "Release date": "2022-04-21",
         "AetherPower": "Heal Increase",
         "skill_types": [
@@ -7156,6 +7758,8 @@ window.allHeroesExtra = [
         "fancy name": "Fortuitous Miner",
         "element": "Green",
         "rarity": 3,
+        "class": "Fighter",
+        "speed": "slow",
         "Release date": "2024-09-07",
         "AetherPower": "Special Armor",
         "skill_types": [
@@ -7188,6 +7792,8 @@ window.allHeroesExtra = [
         "fancy name": "Anxious Rapscallion of Owl Tower",
         "element": "Green",
         "rarity": 3,
+        "class": "Rogue",
+        "speed": "average",
         "Release date": "2023-12-20",
         "AetherPower": "Dodge",
         "skill_types": [
@@ -7210,6 +7816,8 @@ window.allHeroesExtra = [
         "fancy name": "Forest Trapper",
         "element": "Green",
         "rarity": 3,
+        "class": "Ranger",
+        "speed": "average",
         "Release date": "2022-11-12",
         "AetherPower": "Fiend Resist",
         "skill_types": [
@@ -7233,6 +7841,8 @@ window.allHeroesExtra = [
         "fancy name": "Jovial Brother",
         "element": "Green",
         "rarity": 3,
+        "class": "Monk",
+        "speed": "average",
         "Release date": "2017-03-01",
         "AetherPower": "Defense Up",
         "skill_types": [
@@ -7252,6 +7862,8 @@ window.allHeroesExtra = [
         "fancy name": "Jovial Explorer",
         "element": "Green",
         "rarity": 3,
+        "class": "Druid",
+        "speed": "average",
         "Release date": "2020-05-18",
         "AetherPower": "Special Armor",
         "skill_types": [
@@ -7277,6 +7889,8 @@ window.allHeroesExtra = [
         "fancy name": "Jovial Toon",
         "element": "Green",
         "rarity": 3,
+        "class": "Monk",
+        "speed": "average",
         "Release date": "2024-05-31",
         "AetherPower": "Defense Up",
         "skill_types": [
@@ -7304,6 +7918,8 @@ window.allHeroesExtra = [
         "fancy name": "Jovial Vitrail",
         "element": "Green",
         "rarity": 3,
+        "class": "Monk",
+        "speed": "average",
         "Release date": "2025-06-18",
         "AetherPower": "Defense Up",
         "skill_types": [
@@ -7332,6 +7948,8 @@ window.allHeroesExtra = [
         "fancy name": "Shapeshifting Demon General",
         "element": "Green",
         "rarity": 3,
+        "class": "Barbarian",
+        "speed": "slow",
         "Release date": "2023-02-27",
         "AetherPower": "Regen",
         "skill_types": [
@@ -7352,6 +7970,8 @@ window.allHeroesExtra = [
         "fancy name": "Sentry of Grimforest",
         "element": "Green",
         "rarity": 3,
+        "class": "Rogue",
+        "speed": "very_fast",
         "Release date": "2021-12-15",
         "AetherPower": "Attack Up",
         "skill_types": [
@@ -7371,6 +7991,8 @@ window.allHeroesExtra = [
         "fancy name": "Gelatinous Goo",
         "element": "Green",
         "rarity": 3,
+        "class": "Barbarian",
+        "speed": "average",
         "Release date": "2022-10-03",
         "AetherPower": "Attack Up",
         "skill_types": [
@@ -7393,6 +8015,8 @@ window.allHeroesExtra = [
         "fancy name": "Halfling Elder",
         "element": "Green",
         "rarity": 3,
+        "class": "Cleric",
+        "speed": "slow",
         "Release date": "2021-03-25",
         "AetherPower": "Bulwark",
         "skill_types": [
@@ -7414,6 +8038,8 @@ window.allHeroesExtra = [
         "fancy name": "Halfling Gardener",
         "element": "Green",
         "rarity": 3,
+        "class": "Druid",
+        "speed": "slow",
         "Release date": "2023-11-09",
         "AetherPower": "Regen",
         "skill_types": [
@@ -7441,6 +8067,8 @@ window.allHeroesExtra = [
         "fancy name": "Cunning Badger",
         "element": "Green",
         "rarity": 3,
+        "class": "Wizard",
+        "speed": "average",
         "Release date": "2020-05-28",
         "AetherPower": "Heal Increase",
         "skill_types": [
@@ -7461,6 +8089,8 @@ window.allHeroesExtra = [
         "fancy name": "Trusted Steed of Sand Empire",
         "element": "Green",
         "rarity": 3,
+        "class": "Wizard",
+        "speed": "fast",
         "Release date": "2018-06-21",
         "AetherPower": "Rage",
         "skill_types": [
@@ -7483,6 +8113,8 @@ window.allHeroesExtra = [
         "fancy name": "Lizardfolk Fighter",
         "element": "Green",
         "rarity": 3,
+        "class": "Ranger",
+        "speed": "average",
         "Release date": "2017-03-01",
         "AetherPower": "Special Boost",
         "skill_types": [
@@ -7501,6 +8133,8 @@ window.allHeroesExtra = [
         "fancy name": "Lizardfolk Ancestor",
         "element": "Green",
         "rarity": 3,
+        "class": "Monk",
+        "speed": "average",
         "Release date": "2020-05-18",
         "AetherPower": "Counterattack",
         "skill_types": [
@@ -7526,6 +8160,8 @@ window.allHeroesExtra = [
         "fancy name": "Toon Fighter",
         "element": "Green",
         "rarity": 3,
+        "class": "Ranger",
+        "speed": "average",
         "Release date": "2024-07-16",
         "AetherPower": "Special Boost",
         "skill_types": [
@@ -7553,6 +8189,8 @@ window.allHeroesExtra = [
         "fancy name": "Shu Footsoldier",
         "element": "Green",
         "rarity": 3,
+        "class": "Fighter",
+        "speed": "fast",
         "Release date": "2022-03-14",
         "AetherPower": "Attack Up",
         "skill_types": [
@@ -7573,6 +8211,8 @@ window.allHeroesExtra = [
         "fancy name": "Merman of Atlantis",
         "element": "Green",
         "rarity": 3,
+        "class": "Cleric",
+        "speed": "fast",
         "Release date": "2019-08-01",
         "AetherPower": "Attack Up",
         "skill_types": [
@@ -7592,6 +8232,8 @@ window.allHeroesExtra = [
         "fancy name": "Lieutenant of Atlantis",
         "element": "Green",
         "rarity": 3,
+        "class": "Paladin",
+        "speed": "fast",
         "Release date": "2022-05-02",
         "AetherPower": "Defense Up",
         "skill_types": [
@@ -7617,6 +8259,8 @@ window.allHeroesExtra = [
         "fancy name": "Chameleon Warrior",
         "element": "Green",
         "rarity": 3,
+        "class": "Fighter",
+        "speed": "fast",
         "Release date": "2019-08-01",
         "AetherPower": "Attack Up",
         "skill_types": [
@@ -7635,6 +8279,8 @@ window.allHeroesExtra = [
         "fancy name": "The Fierce",
         "element": "Green",
         "rarity": 3,
+        "class": "Barbarian",
+        "speed": "slayer",
         "Release date": "2021-08-05",
         "AetherPower": "Rage",
         "skill_types": [
@@ -7661,6 +8307,8 @@ window.allHeroesExtra = [
         "fancy name": "Ancient Scribble Enthusiast",
         "element": "Green",
         "rarity": 3,
+        "class": "Druid",
+        "speed": "charge_magic",
         "Release date": "2023-05-03",
         "AetherPower": "Ailment Immunity",
         "skill_types": [
@@ -7688,6 +8336,8 @@ window.allHeroesExtra = [
         "fancy name": "Beast of Wonderland",
         "element": "Green",
         "rarity": 3,
+        "class": "Monk",
+        "speed": "slow",
         "Release date": "2019-12-01",
         "AetherPower": "Taunt",
         "skill_types": [
@@ -7707,6 +8357,8 @@ window.allHeroesExtra = [
         "fancy name": "Wacky Walloper",
         "element": "Green",
         "rarity": 3,
+        "class": "Barbarian",
+        "speed": "fast",
         "Release date": "2021-06-10",
         "AetherPower": "Dodge",
         "skill_types": [
@@ -7726,6 +8378,8 @@ window.allHeroesExtra = [
         "fancy name": "Nervous Night Guardsman",
         "element": "Green",
         "rarity": 3,
+        "class": "Fighter",
+        "speed": "average",
         "Release date": "2024-04-15",
         "AetherPower": "Defense Up",
         "skill_types": [
@@ -7749,6 +8403,8 @@ window.allHeroesExtra = [
         "fancy name": "Jester of the Highlands",
         "element": "Green",
         "rarity": 3,
+        "class": "Rogue",
+        "speed": "fast",
         "Release date": "2024-01-10",
         "AetherPower": "Defense Up",
         "skill_types": [
@@ -7772,6 +8428,8 @@ window.allHeroesExtra = [
         "fancy name": "Bard of Lore",
         "element": "Green",
         "rarity": 3,
+        "class": "Paladin",
+        "speed": "slow",
         "Release date": "2022-12-01",
         "AetherPower": "Regen",
         "skill_types": [
@@ -7794,6 +8452,8 @@ window.allHeroesExtra = [
         "fancy name": "Cupid of Heartbreakers",
         "element": "Green",
         "rarity": 3,
+        "class": "Ranger",
+        "speed": "fast",
         "Release date": "2023-02-14",
         "AetherPower": "Special Boost",
         "skill_types": [
@@ -7815,6 +8475,8 @@ window.allHeroesExtra = [
         "fancy name": "Elemental Jester",
         "element": "Green",
         "rarity": 4,
+        "class": "Ranger",
+        "speed": "average",
         "Release date": "2023-08-14",
         "AetherPower": "Attack Up",
         "skill_types": [
@@ -7838,6 +8500,8 @@ window.allHeroesExtra = [
         "fancy name": "Shadowblade of Svartalfheim",
         "element": "Green",
         "rarity": 4,
+        "class": "Sorcerer",
+        "speed": "fast",
         "Release date": "2020-05-28",
         "AetherPower": "Special Boost",
         "skill_types": [
@@ -7858,6 +8522,8 @@ window.allHeroesExtra = [
         "fancy name": "Lord of Svartalfheim",
         "element": "Green",
         "rarity": 4,
+        "class": "Barbarian",
+        "speed": "fast",
         "Release date": "2023-03-13",
         "AetherPower": "Dodge",
         "skill_types": [
@@ -7884,6 +8550,8 @@ window.allHeroesExtra = [
         "fancy name": "Young Scholar",
         "element": "Green",
         "rarity": 4,
+        "class": "Cleric",
+        "speed": "charge_magic",
         "Release date": "2021-09-15",
         "AetherPower": "Defense Up",
         "skill_types": [
@@ -7909,6 +8577,8 @@ window.allHeroesExtra = [
         "fancy name": "Farmer Cyclops",
         "element": "Green",
         "rarity": 4,
+        "class": "Monk",
+        "speed": "styx",
         "Release date": "2022-09-21",
         "AetherPower": "Defense Up",
         "skill_types": [
@@ -7933,6 +8603,8 @@ window.allHeroesExtra = [
         "fancy name": "Shieldmaiden of Valkyries",
         "element": "Green",
         "rarity": 4,
+        "class": "Rogue",
+        "speed": "fast",
         "Release date": "2020-02-27",
         "AetherPower": "Ailment Immunity",
         "skill_types": [
@@ -7954,6 +8626,8 @@ window.allHeroesExtra = [
         "fancy name": "Santa's Little Helper",
         "element": "Green",
         "rarity": 4,
+        "class": "Ranger",
+        "speed": "average",
         "Release date": "2020-12-01",
         "AetherPower": "Attack Up",
         "skill_types": [
@@ -7975,6 +8649,8 @@ window.allHeroesExtra = [
         "fancy name": "Elven Veteran",
         "element": "Green",
         "rarity": 4,
+        "class": "Druid",
+        "speed": "fast",
         "Release date": "2017-03-01",
         "AetherPower": "Special Boost",
         "skill_types": [
@@ -7994,6 +8670,8 @@ window.allHeroesExtra = [
         "fancy name": "Elven Avenger",
         "element": "Green",
         "rarity": 4,
+        "class": "Fighter",
+        "speed": "fast",
         "Release date": "2020-05-18",
         "AetherPower": "Special Armor",
         "skill_types": [
@@ -8019,6 +8697,8 @@ window.allHeroesExtra = [
         "fancy name": "Elven Cavalier",
         "element": "Green",
         "rarity": 4,
+        "class": "Paladin",
+        "speed": "fast",
         "Release date": "2022-12-26",
         "AetherPower": "Dodge",
         "skill_types": [
@@ -8045,6 +8725,8 @@ window.allHeroesExtra = [
         "fancy name": "Elven Toon",
         "element": "Green",
         "rarity": 4,
+        "class": "Druid",
+        "speed": "fast",
         "Release date": "2024-01-22",
         "AetherPower": "Special Boost",
         "skill_types": [
@@ -8073,6 +8755,8 @@ window.allHeroesExtra = [
         "fancy name": "Elven Vitrail",
         "element": "Green",
         "rarity": 4,
+        "class": "Druid",
+        "speed": "fast",
         "Release date": "2025-01-14",
         "AetherPower": "Special Boost",
         "skill_types": [
@@ -8102,6 +8786,8 @@ window.allHeroesExtra = [
         "fancy name": "Protector of the Castle",
         "element": "Green",
         "rarity": 4,
+        "class": "Paladin",
+        "speed": "very_slow",
         "Release date": "2022-01-05",
         "AetherPower": "Vampire",
         "skill_types": [
@@ -8122,6 +8808,8 @@ window.allHeroesExtra = [
         "fancy name": "Watcher of Atlantis",
         "element": "Green",
         "rarity": 4,
+        "class": "Druid",
+        "speed": "slow",
         "Release date": "2019-08-01",
         "AetherPower": "Fiend Resist",
         "skill_types": [
@@ -8142,6 +8830,8 @@ window.allHeroesExtra = [
         "fancy name": "Atlantean Sentinel",
         "element": "Green",
         "rarity": 4,
+        "class": "Paladin",
+        "speed": "slow",
         "Release date": "2022-05-02",
         "AetherPower": "Heal Increase",
         "skill_types": [
@@ -8169,6 +8859,8 @@ window.allHeroesExtra = [
         "fancy name": "Chameleon General",
         "element": "Green",
         "rarity": 4,
+        "class": "Druid",
+        "speed": "average",
         "Release date": "2019-08-01",
         "AetherPower": "Fiend Resist",
         "skill_types": [
@@ -8189,6 +8881,8 @@ window.allHeroesExtra = [
         "fancy name": "World Heavyweight Champion",
         "element": "Green",
         "rarity": 4,
+        "class": "Paladin",
+        "speed": "average",
         "Release date": "2023-04-03",
         "AetherPower": "Ailment Immunity",
         "skill_types": [
@@ -8215,6 +8909,8 @@ window.allHeroesExtra = [
         "fancy name": "Witch Hunter of Grimforest",
         "element": "Green",
         "rarity": 4,
+        "class": "Cleric",
+        "speed": "fast",
         "Release date": "2019-12-01",
         "AetherPower": "Attack Up",
         "skill_types": [
@@ -8235,6 +8931,8 @@ window.allHeroesExtra = [
         "fancy name": "Vampire Hunter of Grimforest",
         "element": "Green",
         "rarity": 4,
+        "class": "Fighter",
+        "speed": "fast",
         "Release date": "2023-08-10",
         "AetherPower": "Special Boost",
         "skill_types": [
@@ -8261,6 +8959,8 @@ window.allHeroesExtra = [
         "fancy name": "Champion of Springvale",
         "element": "Green",
         "rarity": 4,
+        "class": "Ranger",
+        "speed": "fast",
         "Release date": "2018-03-28",
         "AetherPower": "Attack Up",
         "skill_types": [
@@ -8280,6 +8980,8 @@ window.allHeroesExtra = [
         "fancy name": "Egg Hunter of Springvale",
         "element": "Green",
         "rarity": 4,
+        "class": "Paladin",
+        "speed": "fast",
         "Release date": "2022-03-21",
         "AetherPower": "Special Boost",
         "skill_types": [
@@ -8306,6 +9008,8 @@ window.allHeroesExtra = [
         "fancy name": "Aberrant Gargoyle",
         "element": "Green",
         "rarity": 4,
+        "class": "Sorcerer",
+        "speed": "very_slow",
         "Release date": "2022-05-12",
         "AetherPower": "Defense Up",
         "skill_types": [
@@ -8327,6 +9031,8 @@ window.allHeroesExtra = [
         "fancy name": "Lizardfolk Chieftain",
         "element": "Green",
         "rarity": 4,
+        "class": "Wizard",
+        "speed": "average",
         "Release date": "2017-03-01",
         "AetherPower": "Defense Up",
         "skill_types": [
@@ -8346,6 +9052,8 @@ window.allHeroesExtra = [
         "fancy name": "Lizardfolk Elder",
         "element": "Green",
         "rarity": 4,
+        "class": "Sorcerer",
+        "speed": "average",
         "Release date": "2020-05-18",
         "AetherPower": "Special Armor",
         "skill_types": [
@@ -8372,6 +9080,8 @@ window.allHeroesExtra = [
         "fancy name": "Lizardfolk Fisher",
         "element": "Green",
         "rarity": 4,
+        "class": "Druid",
+        "speed": "average",
         "Release date": "2023-11-27",
         "AetherPower": "Regen",
         "skill_types": [
@@ -8397,6 +9107,8 @@ window.allHeroesExtra = [
         "fancy name": "Toon Chieftain",
         "element": "Green",
         "rarity": 4,
+        "class": "Wizard",
+        "speed": "average",
         "Release date": "2024-05-31",
         "AetherPower": "Defense Up",
         "skill_types": [
@@ -8424,6 +9136,8 @@ window.allHeroesExtra = [
         "fancy name": "Glass Chieftain",
         "element": "Green",
         "rarity": 4,
+        "class": "Wizard",
+        "speed": "average",
         "Release date": "2025-06-18",
         "AetherPower": "Defense Up",
         "skill_types": [
@@ -8452,6 +9166,8 @@ window.allHeroesExtra = [
         "fancy name": "Astral Elf Dressmaker",
         "element": "Green",
         "rarity": 4,
+        "class": "Wizard",
+        "speed": "very_fast",
         "Release date": "2024-03-07",
         "AetherPower": "Dodge",
         "skill_types": [
@@ -8478,6 +9194,8 @@ window.allHeroesExtra = [
         "fancy name": "Mighty Brother",
         "element": "Green",
         "rarity": 4,
+        "class": "Barbarian",
+        "speed": "slow",
         "Release date": "2017-03-01",
         "AetherPower": "Defense Up",
         "skill_types": [
@@ -8497,6 +9215,8 @@ window.allHeroesExtra = [
         "fancy name": "Stealthy Brother",
         "element": "Green",
         "rarity": 4,
+        "class": "Ranger",
+        "speed": "slow",
         "Release date": "2020-05-18",
         "AetherPower": "Special Armor",
         "skill_types": [
@@ -8523,6 +9243,8 @@ window.allHeroesExtra = [
         "fancy name": "Mighty Highlander",
         "element": "Green",
         "rarity": 4,
+        "class": "Druid",
+        "speed": "slow",
         "Release date": "2023-10-30",
         "AetherPower": "Regen",
         "skill_types": [
@@ -8548,6 +9270,8 @@ window.allHeroesExtra = [
         "fancy name": "Mighty Toon",
         "element": "Green",
         "rarity": 4,
+        "class": "Barbarian",
+        "speed": "slow",
         "Release date": "2024-05-06",
         "AetherPower": "Defense Up",
         "skill_types": [
@@ -8576,6 +9300,8 @@ window.allHeroesExtra = [
         "fancy name": "Mighty Vitrail",
         "element": "Green",
         "rarity": 4,
+        "class": "Barbarian",
+        "speed": "slow",
         "Release date": "2025-05-10",
         "AetherPower": "Defense Up",
         "skill_types": [
@@ -8604,6 +9330,8 @@ window.allHeroesExtra = [
         "fancy name": "Most Mischevious Mime",
         "element": "Green",
         "rarity": 4,
+        "class": "Sorcerer",
+        "speed": "average",
         "Release date": "2021-06-10",
         "AetherPower": "Special Boost",
         "skill_types": [
@@ -8625,6 +9353,8 @@ window.allHeroesExtra = [
         "fancy name": "Wisdom of the Forest",
         "element": "Green",
         "rarity": 4,
+        "class": "Druid",
+        "speed": "average",
         "Release date": "2017-03-01",
         "AetherPower": "Ailment Immunity",
         "skill_types": [
@@ -8644,6 +9374,8 @@ window.allHeroesExtra = [
         "fancy name": "Mighty Wizard",
         "element": "Green",
         "rarity": 4,
+        "class": "Wizard",
+        "speed": "average",
         "Release date": "2020-01-01",
         "AetherPower": "Special Armor",
         "skill_types": [
@@ -8670,6 +9402,8 @@ window.allHeroesExtra = [
         "fancy name": "Party Wizard",
         "element": "Green",
         "rarity": 4,
+        "class": "Sorcerer",
+        "speed": "average",
         "Release date": "2023-10-30",
         "AetherPower": "Heal Increase",
         "skill_types": [
@@ -8696,6 +9430,8 @@ window.allHeroesExtra = [
         "fancy name": "Toon Wizard",
         "element": "Green",
         "rarity": 4,
+        "class": "Druid",
+        "speed": "average",
         "Release date": "2024-01-22",
         "AetherPower": "Special Armor",
         "skill_types": [
@@ -8724,6 +9460,8 @@ window.allHeroesExtra = [
         "fancy name": "Vitrail of the Forest",
         "element": "Green",
         "rarity": 4,
+        "class": "Druid",
+        "speed": "average",
         "Release date": "2025-03-11",
         "AetherPower": "Special Armor",
         "skill_types": [
@@ -8752,6 +9490,8 @@ window.allHeroesExtra = [
         "fancy name": "Spirit of the Forest",
         "element": "Green",
         "rarity": 4,
+        "class": "Druid",
+        "speed": "average",
         "Release date": "2022-06-20",
         "AetherPower": "Defense Up",
         "skill_types": [
@@ -8774,6 +9514,8 @@ window.allHeroesExtra = [
         "fancy name": "Protector of the Bears",
         "element": "Green",
         "rarity": 4,
+        "class": "Paladin",
+        "speed": "average",
         "Release date": "2023-08-07",
         "AetherPower": "Bulwark",
         "skill_types": [
@@ -8802,6 +9544,8 @@ window.allHeroesExtra = [
         "fancy name": "Fishman Marauder",
         "element": "Green",
         "rarity": 4,
+        "class": "Rogue",
+        "speed": "changing_tides",
         "Release date": "2023-06-07",
         "AetherPower": "Attack Up",
         "skill_types": [
@@ -8826,6 +9570,8 @@ window.allHeroesExtra = [
         "fancy name": "Fishman Bard",
         "element": "Green",
         "rarity": 4,
+        "class": "Monk",
+        "speed": "changing_tides",
         "Release date": "2025-03-31",
         "AetherPower": "Defense Up",
         "skill_types": [
@@ -8858,6 +9604,8 @@ window.allHeroesExtra = [
         "fancy name": "Harried Faun Herbalist",
         "element": "Green",
         "rarity": 4,
+        "class": "Monk",
+        "speed": "fast",
         "Release date": "2025-02-21",
         "AetherPower": "Attack Up",
         "skill_types": [
@@ -8883,6 +9631,8 @@ window.allHeroesExtra = [
         "fancy name": "Clumsy Skeleton",
         "element": "Green",
         "rarity": 4,
+        "class": "Fighter",
+        "speed": "slow",
         "Release date": "2023-05-06",
         "AetherPower": "Regen",
         "skill_types": [
@@ -8907,6 +9657,8 @@ window.allHeroesExtra = [
         "fancy name": "The Worthy",
         "element": "Green",
         "rarity": 4,
+        "class": "Ranger",
+        "speed": "slayer",
         "Release date": "2021-08-05",
         "AetherPower": "Attack Up",
         "skill_types": [
@@ -8933,6 +9685,8 @@ window.allHeroesExtra = [
         "fancy name": "Cabin Boy of Corellia",
         "element": "Green",
         "rarity": 4,
+        "class": "Rogue",
+        "speed": "fast",
         "Release date": "2017-09-07",
         "AetherPower": "Revive",
         "skill_types": [
@@ -8952,6 +9706,8 @@ window.allHeroesExtra = [
         "fancy name": "Paper Boy at Shore",
         "element": "Green",
         "rarity": 4,
+        "class": "Wizard",
+        "speed": "fast",
         "Release date": "2023-12-28",
         "AetherPower": "Ailment Immunity",
         "skill_types": [
@@ -8978,6 +9734,8 @@ window.allHeroesExtra = [
         "fancy name": "Elder Pharaoh",
         "element": "Green",
         "rarity": 4,
+        "class": "Monk",
+        "speed": "average",
         "Release date": "2022-04-21",
         "AetherPower": "Defense Up",
         "skill_types": [
@@ -9000,6 +9758,8 @@ window.allHeroesExtra = [
         "fancy name": "Elder Log",
         "element": "Green",
         "rarity": 4,
+        "class": "Druid",
+        "speed": "average",
         "Release date": "2024-10-05",
         "AetherPower": "Special Armor",
         "skill_types": [
@@ -9033,6 +9793,8 @@ window.allHeroesExtra = [
         "fancy name": "Scholar of the Emerald Forest",
         "element": "Green",
         "rarity": 4,
+        "class": "Druid",
+        "speed": "slow",
         "Release date": "2024-01-10",
         "AetherPower": "Regen",
         "skill_types": [
@@ -9055,6 +9817,8 @@ window.allHeroesExtra = [
         "fancy name": "Bog Witch",
         "element": "Green",
         "rarity": 4,
+        "class": "Sorcerer",
+        "speed": "slow",
         "Release date": "2017-03-01",
         "AetherPower": "Mana Boost",
         "skill_types": [
@@ -9074,6 +9838,8 @@ window.allHeroesExtra = [
         "fancy name": "Candy Witch",
         "element": "Green",
         "rarity": 4,
+        "class": "Cleric",
+        "speed": "slow",
         "Release date": "2020-01-01",
         "AetherPower": "Boosted Regen",
         "skill_types": [
@@ -9099,6 +9865,8 @@ window.allHeroesExtra = [
         "fancy name": "Toad Witch",
         "element": "Green",
         "rarity": 4,
+        "class": "Wizard",
+        "speed": "slow",
         "Release date": "2023-04-17",
         "AetherPower": "Ailment Immunity",
         "skill_types": [
@@ -9124,6 +9892,8 @@ window.allHeroesExtra = [
         "fancy name": "Toon Witch",
         "element": "Green",
         "rarity": 4,
+        "class": "Sorcerer",
+        "speed": "slow",
         "Release date": "2024-03-11",
         "AetherPower": "Mana Boost",
         "skill_types": [
@@ -9152,6 +9922,8 @@ window.allHeroesExtra = [
         "fancy name": "Glass Witch",
         "element": "Green",
         "rarity": 4,
+        "class": "Sorcerer",
+        "speed": "slow",
         "Release date": "2025-04-08",
         "AetherPower": "Mana Boost",
         "skill_types": [
@@ -9180,6 +9952,8 @@ window.allHeroesExtra = [
         "fancy name": "Morlock Brute",
         "element": "Green",
         "rarity": 4,
+        "class": "Monk",
+        "speed": "average",
         "Release date": "2021-03-25",
         "AetherPower": "Regen",
         "skill_types": [
@@ -9202,6 +9976,8 @@ window.allHeroesExtra = [
         "fancy name": "Morlock Cheerleader",
         "element": "Green",
         "rarity": 4,
+        "class": "Barbarian",
+        "speed": "average",
         "Release date": "2023-12-07",
         "AetherPower": "Attack Up",
         "skill_types": [
@@ -9230,6 +10006,8 @@ window.allHeroesExtra = [
         "fancy name": "Pompous Duke",
         "element": "Green",
         "rarity": 4,
+        "class": "Wizard",
+        "speed": "average",
         "Release date": "2022-12-14",
         "AetherPower": "Fiend Resist",
         "skill_types": [
@@ -9254,6 +10032,8 @@ window.allHeroesExtra = [
         "fancy name": "Scout of the Castle",
         "element": "Green",
         "rarity": 4,
+        "class": "Rogue",
+        "speed": "fast",
         "Release date": "2021-10-13",
         "AetherPower": "Attack Up",
         "skill_types": [
@@ -9274,6 +10054,8 @@ window.allHeroesExtra = [
         "fancy name": "Mummy Pharaoh",
         "element": "Green",
         "rarity": 5,
+        "class": "Wizard",
+        "speed": "slow",
         "Release date": "2022-11-24",
         "AetherPower": "Revive",
         "skill_types": [
@@ -9295,6 +10077,8 @@ window.allHeroesExtra = [
         "fancy name": "Pharaoh Reborn",
         "element": "Green",
         "rarity": 5,
+        "class": "Druid",
+        "speed": "slow",
         "Release date": "2024-03-04",
         "AetherPower": "Boosted Regen",
         "skill_types": [
@@ -9325,6 +10109,8 @@ window.allHeroesExtra = [
         "fancy name": "Seelie Champion",
         "element": "Green",
         "rarity": 5,
+        "class": "Druid",
+        "speed": "slow",
         "Release date": "2017-10-01",
         "AetherPower": "Defense Up",
         "skill_types": [
@@ -9347,6 +10133,8 @@ window.allHeroesExtra = [
         "fancy name": "Everoak Knight",
         "element": "Green",
         "rarity": 5,
+        "class": "Cleric",
+        "speed": "slow",
         "Release date": "2021-10-20",
         "AetherPower": "Special Armor",
         "skill_types": [
@@ -9378,6 +10166,8 @@ window.allHeroesExtra = [
         "fancy name": "Unnerving Quartermaster",
         "element": "Green",
         "rarity": 5,
+        "class": "Barbarian",
+        "speed": "average",
         "Release date": "2025-03-14",
         "AetherPower": "Attack Up",
         "skill_types": [
@@ -9403,6 +10193,8 @@ window.allHeroesExtra = [
         "fancy name": "Traveling Llama Troubadour",
         "element": "Green",
         "rarity": 5,
+        "class": "Wizard",
+        "speed": "fast",
         "Release date": "2023-03-27",
         "AetherPower": "Attack Up",
         "skill_types": [
@@ -9423,6 +10215,8 @@ window.allHeroesExtra = [
         "fancy name": "Gallant Llama Troubadour",
         "element": "Green",
         "rarity": 5,
+        "class": "Druid",
+        "speed": "fast",
         "Release date": "2024-03-18",
         "AetherPower": "Special Boost",
         "skill_types": [
@@ -9449,6 +10243,8 @@ window.allHeroesExtra = [
         "fancy name": "Resolute Gargoyle",
         "element": "Green",
         "rarity": 5,
+        "class": "Wizard",
+        "speed": "average",
         "Release date": "2022-05-12",
         "AetherPower": "Defense Up",
         "skill_types": [
@@ -9472,6 +10268,8 @@ window.allHeroesExtra = [
         "fancy name": "Sceptical Patron of Arts",
         "element": "Green",
         "rarity": 5,
+        "class": "Ranger",
+        "speed": "average",
         "Release date": "2024-08-22",
         "AetherPower": "Special Armor",
         "skill_types": [
@@ -9495,6 +10293,8 @@ window.allHeroesExtra = [
         "fancy name": "Veteran Musketeer",
         "element": "Green",
         "rarity": 5,
+        "class": "Monk",
+        "speed": "very_fast",
         "Release date": "2022-12-14",
         "AetherPower": "Defense Up",
         "skill_types": [
@@ -9519,6 +10319,8 @@ window.allHeroesExtra = [
         "fancy name": "Guardian of Atlantis",
         "element": "Green",
         "rarity": 5,
+        "class": "Barbarian",
+        "speed": "average",
         "Release date": "2019-02-01",
         "AetherPower": "Rage",
         "skill_types": [
@@ -9539,6 +10341,8 @@ window.allHeroesExtra = [
         "fancy name": "Guardian of the Reef",
         "element": "Green",
         "rarity": 5,
+        "class": "Paladin",
+        "speed": "average",
         "Release date": "2023-04-03",
         "AetherPower": "Bulwark",
         "skill_types": [
@@ -9565,6 +10369,8 @@ window.allHeroesExtra = [
         "fancy name": "Captivated by the Unknown",
         "element": "Green",
         "rarity": 5,
+        "class": "Monk",
+        "speed": "average",
         "Release date": "2024-04-11",
         "AetherPower": "Defense Up",
         "skill_types": [
@@ -9588,6 +10394,8 @@ window.allHeroesExtra = [
         "fancy name": "Gnome Elder",
         "element": "Green",
         "rarity": 5,
+        "class": "Druid",
+        "speed": "slow",
         "Release date": "2022-12-01",
         "AetherPower": "Heal Increase",
         "skill_types": [
@@ -9610,6 +10418,8 @@ window.allHeroesExtra = [
         "fancy name": "Botanist Hermit",
         "element": "Green",
         "rarity": 5,
+        "class": "Druid",
+        "speed": "average",
         "Release date": "2021-11-01",
         "AetherPower": "Attack Up",
         "skill_types": [
@@ -9635,6 +10445,8 @@ window.allHeroesExtra = [
         "fancy name": "The Green Knight",
         "element": "Green",
         "rarity": 5,
+        "class": "Fighter",
+        "speed": "slow",
         "Release date": "2021-01-01",
         "AetherPower": "Regen",
         "skill_types": [
@@ -9658,6 +10470,8 @@ window.allHeroesExtra = [
         "fancy name": "Leaders of the Pack",
         "element": "Green",
         "rarity": 5,
+        "class": "Ranger",
+        "speed": "fast",
         "Release date": "2024-05-01",
         "AetherPower": "Attack Up",
         "skill_types": [
@@ -9683,6 +10497,8 @@ window.allHeroesExtra = [
         "fancy name": "Bard of Odd",
         "element": "Green",
         "rarity": 5,
+        "class": "Wizard",
+        "speed": "fast",
         "Release date": "2024-11-14",
         "AetherPower": "Special Boost",
         "skill_types": [
@@ -9707,6 +10523,8 @@ window.allHeroesExtra = [
         "fancy name": "Reckless Duo",
         "element": "Green",
         "rarity": 5,
+        "class": "Cleric",
+        "speed": "average",
         "Release date": "2023-10-16",
         "AetherPower": "Damage Reduction",
         "skill_types": [
@@ -9728,6 +10546,8 @@ window.allHeroesExtra = [
         "fancy name": "Gentle Faun Gardener",
         "element": "Green",
         "rarity": 5,
+        "class": "Druid",
+        "speed": "average",
         "Release date": "2025-01-22",
         "AetherPower": "Regen",
         "skill_types": [
@@ -9753,6 +10573,8 @@ window.allHeroesExtra = [
         "fancy name": "Silent Striker",
         "element": "Green",
         "rarity": 5,
+        "class": "Monk",
+        "speed": "charge_ninja",
         "Release date": "2024-08-27",
         "AetherPower": "Attack Up",
         "skill_types": [
@@ -9776,6 +10598,8 @@ window.allHeroesExtra = [
         "fancy name": "Floral Spirit",
         "element": "Green",
         "rarity": 5,
+        "class": "Sorcerer",
+        "speed": "average",
         "Release date": "2024-09-01",
         "AetherPower": "Heal Increase",
         "skill_types": [
@@ -9799,6 +10623,8 @@ window.allHeroesExtra = [
         "fancy name": "Meliai Warmage",
         "element": "Green",
         "rarity": 5,
+        "class": "Wizard",
+        "speed": "average",
         "Release date": "2023-07-01",
         "AetherPower": "Attack Up",
         "skill_types": [
@@ -9823,6 +10649,8 @@ window.allHeroesExtra = [
         "fancy name": "Warrior of the Depths",
         "element": "Green",
         "rarity": 5,
+        "class": "Fighter",
+        "speed": "slow",
         "Release date": "2022-01-27",
         "AetherPower": "Attack Up",
         "skill_types": [
@@ -9845,6 +10673,8 @@ window.allHeroesExtra = [
         "fancy name": "Warrior of Kelp",
         "element": "Green",
         "rarity": 5,
+        "class": "Barbarian",
+        "speed": "slow",
         "Release date": "2024-08-01",
         "AetherPower": "Regen",
         "skill_types": [
@@ -9875,6 +10705,8 @@ window.allHeroesExtra = [
         "fancy name": "Elemental Shaman",
         "element": "Green",
         "rarity": 5,
+        "class": "Druid",
+        "speed": "average",
         "Release date": "2024-05-20",
         "AetherPower": "Ailment Reflect",
         "skill_types": [
@@ -9896,6 +10728,8 @@ window.allHeroesExtra = [
         "fancy name": "Charms Professor",
         "element": "Green",
         "rarity": 5,
+        "class": "Sorcerer",
+        "speed": "charge_magic",
         "Release date": "2021-09-15",
         "AetherPower": "Special Boost",
         "skill_types": [
@@ -9919,6 +10753,8 @@ window.allHeroesExtra = [
         "fancy name": "Dwarven Mountain Shaman",
         "element": "Green",
         "rarity": 5,
+        "class": "Cleric",
+        "speed": "average",
         "Release date": "2025-01-26",
         "AetherPower": "Dodge",
         "skill_types": [
@@ -9945,6 +10781,8 @@ window.allHeroesExtra = [
         "fancy name": "Jade Eyed Gentleman",
         "element": "Green",
         "rarity": 5,
+        "class": "Monk",
+        "speed": "fast",
         "Release date": "2024-03-21",
         "AetherPower": "Dodge",
         "skill_types": [
@@ -9969,6 +10807,8 @@ window.allHeroesExtra = [
         "fancy name": "Blade Alchemist",
         "element": "Green",
         "rarity": 5,
+        "class": "Fighter",
+        "speed": "average",
         "Release date": "2024-01-01",
         "AetherPower": "Boosted Regen",
         "skill_types": [
@@ -9991,6 +10831,8 @@ window.allHeroesExtra = [
         "fancy name": "Orcish Dating Consultant",
         "element": "Green",
         "rarity": 5,
+        "class": "Monk",
+        "speed": "average",
         "Release date": "2025-02-14",
         "AetherPower": "Regen",
         "skill_types": [
@@ -10013,6 +10855,8 @@ window.allHeroesExtra = [
         "fancy name": "Fierce War-Leader",
         "element": "Green",
         "rarity": 5,
+        "class": "Barbarian",
+        "speed": "slow",
         "Release date": "2025-03-13",
         "AetherPower": "Regen",
         "skill_types": [
@@ -10037,6 +10881,8 @@ window.allHeroesExtra = [
         "fancy name": "Cunning Butler",
         "element": "Green",
         "rarity": 5,
+        "class": "Paladin",
+        "speed": "fast",
         "Release date": "2023-09-25",
         "AetherPower": "Attack Up",
         "skill_types": [
@@ -10059,6 +10905,8 @@ window.allHeroesExtra = [
         "fancy name": "Dynamic Duo",
         "element": "Green",
         "rarity": 5,
+        "class": "Barbarian",
+        "speed": "average",
         "Release date": "2021-06-10",
         "AetherPower": "Attack Up",
         "skill_types": [
@@ -10079,6 +10927,8 @@ window.allHeroesExtra = [
         "fancy name": "Shinobi Squad Leader",
         "element": "Green",
         "rarity": 5,
+        "class": "Fighter",
+        "speed": "charge_ninja",
         "Release date": "2023-01-11",
         "AetherPower": "Attack Up",
         "skill_types": [
@@ -10099,6 +10949,8 @@ window.allHeroesExtra = [
         "fancy name": "Siren of the River",
         "element": "Green",
         "rarity": 5,
+        "class": "Wizard",
+        "speed": "fast",
         "Release date": "2022-04-21",
         "AetherPower": "Damage Reduction",
         "skill_types": [
@@ -10120,6 +10972,8 @@ window.allHeroesExtra = [
         "fancy name": "Siren of the Sea",
         "element": "Green",
         "rarity": 5,
+        "class": "Sorcerer",
+        "speed": "fast",
         "Release date": "2025-01-20",
         "AetherPower": "Attack Up",
         "skill_types": [
@@ -10151,6 +11005,8 @@ window.allHeroesExtra = [
         "fancy name": "Spearmaster of Moonlight",
         "element": "Green",
         "rarity": 5,
+        "class": "Cleric",
+        "speed": "fast",
         "Release date": "2017-03-01",
         "AetherPower": "Special Boost",
         "skill_types": [
@@ -10170,6 +11026,8 @@ window.allHeroesExtra = [
         "fancy name": "Moonlit Conqueror",
         "element": "Green",
         "rarity": 5,
+        "class": "Barbarian",
+        "speed": "fast",
         "Release date": "2020-05-18",
         "AetherPower": "Attack Up",
         "skill_types": [
@@ -10196,6 +11054,8 @@ window.allHeroesExtra = [
         "fancy name": "Moonlit King",
         "element": "Green",
         "rarity": 5,
+        "class": "Paladin",
+        "speed": "fast",
         "Release date": "2022-09-05",
         "AetherPower": "Counterattack",
         "skill_types": [
@@ -10221,6 +11081,8 @@ window.allHeroesExtra = [
         "fancy name": "Toon Spearmaster",
         "element": "Green",
         "rarity": 5,
+        "class": "Cleric",
+        "speed": "fast",
         "Release date": "2023-11-27",
         "AetherPower": "Special Boost",
         "skill_types": [
@@ -10249,6 +11111,8 @@ window.allHeroesExtra = [
         "fancy name": "Glass Spearmaster",
         "element": "Green",
         "rarity": 5,
+        "class": "Cleric",
+        "speed": "fast",
         "Release date": "2025-01-14",
         "AetherPower": "Special Boost",
         "skill_types": [
@@ -10277,6 +11141,8 @@ window.allHeroesExtra = [
         "fancy name": "Wild Wizard of Lunar Woods",
         "element": "Green",
         "rarity": 5,
+        "class": "Wizard",
+        "speed": "average",
         "Release date": "2021-06-01",
         "AetherPower": "Attack Up",
         "skill_types": [
@@ -10301,6 +11167,8 @@ window.allHeroesExtra = [
         "fancy name": "Magic Carpet Gourmand",
         "element": "Green",
         "rarity": 5,
+        "class": "Cleric",
+        "speed": "average",
         "Release date": "2025-04-17",
         "AetherPower": "Defense Up",
         "skill_types": [
@@ -10326,6 +11194,8 @@ window.allHeroesExtra = [
         "fancy name": "Summoning Conundrum",
         "element": "Green",
         "rarity": 5,
+        "class": "Paladin",
+        "speed": "average",
         "Release date": "2022-11-22",
         "AetherPower": "Ailment Immunity",
         "skill_types": [
@@ -10349,6 +11219,8 @@ window.allHeroesExtra = [
         "fancy name": "Brave Heiress",
         "element": "Green",
         "rarity": 5,
+        "class": "Ranger",
+        "speed": "fast",
         "Release date": "2018-12-01",
         "AetherPower": "Attack Up",
         "skill_types": [
@@ -10370,6 +11242,8 @@ window.allHeroesExtra = [
         "fancy name": "Brave Huntress",
         "element": "Green",
         "rarity": 5,
+        "class": "Rogue",
+        "speed": "fast",
         "Release date": "2023-10-02",
         "AetherPower": "Special Boost",
         "skill_types": [
@@ -10400,6 +11274,8 @@ window.allHeroesExtra = [
         "fancy name": "Trove of Thousand Teeth",
         "element": "Green",
         "rarity": 5,
+        "class": "Fighter",
+        "speed": "average",
         "Release date": "2025-05-15",
         "AetherPower": "Bulwark",
         "skill_types": [
@@ -10427,6 +11303,8 @@ window.allHeroesExtra = [
         "fancy name": "Dwarven Lord of Myrkheim",
         "element": "Green",
         "rarity": 5,
+        "class": "Fighter",
+        "speed": "fast",
         "Release date": "2025-06-13",
         "AetherPower": "Counterattack",
         "skill_types": [
@@ -10454,6 +11332,8 @@ window.allHeroesExtra = [
         "fancy name": "Masked God of Purification",
         "element": "Green",
         "rarity": 5,
+        "class": "Cleric",
+        "speed": "slow",
         "Release date": "2023-11-02",
         "AetherPower": "Regen",
         "skill_types": [
@@ -10478,6 +11358,8 @@ window.allHeroesExtra = [
         "fancy name": "Pirate Construct",
         "element": "Green",
         "rarity": 5,
+        "class": "Rogue",
+        "speed": "average",
         "Release date": "2023-06-28",
         "AetherPower": "Ailment Immunity",
         "skill_types": [
@@ -10504,6 +11386,8 @@ window.allHeroesExtra = [
         "fancy name": "The Outlaw Gray Fox",
         "element": "Green",
         "rarity": 5,
+        "class": "Ranger",
+        "speed": "fast",
         "Release date": "2025-04-14",
         "AetherPower": "Counterattack",
         "skill_types": [
@@ -10527,6 +11411,8 @@ window.allHeroesExtra = [
         "fancy name": "The Monstress",
         "element": "Green",
         "rarity": 5,
+        "class": "Rogue",
+        "speed": "fast",
         "Release date": "2020-10-26",
         "AetherPower": "Attack Up",
         "skill_types": [
@@ -10549,6 +11435,8 @@ window.allHeroesExtra = [
         "fancy name": "The Mobstress",
         "element": "Green",
         "rarity": 5,
+        "class": "Sorcerer",
+        "speed": "fast",
         "Release date": "2021-10-04",
         "AetherPower": "Special Boost",
         "skill_types": [
@@ -10577,6 +11465,8 @@ window.allHeroesExtra = [
         "fancy name": "Goddess of Foresight",
         "element": "Green",
         "rarity": 5,
+        "class": "Rogue",
+        "speed": "fast",
         "Release date": "2020-08-27",
         "AetherPower": "Attack Up",
         "skill_types": [
@@ -10597,6 +11487,8 @@ window.allHeroesExtra = [
         "fancy name": "Goddess of Clairvoyance",
         "element": "Green",
         "rarity": 5,
+        "class": "Wizard",
+        "speed": "fast",
         "Release date": "2023-01-16",
         "AetherPower": "Special Boost",
         "skill_types": [
@@ -10623,6 +11515,8 @@ window.allHeroesExtra = [
         "fancy name": "Heir to the Throne",
         "element": "Green",
         "rarity": 5,
+        "class": "Fighter",
+        "speed": "slow",
         "Release date": "2023-08-10",
         "AetherPower": "Regen",
         "skill_types": [
@@ -10645,6 +11539,8 @@ window.allHeroesExtra = [
         "fancy name": "Elven Construct",
         "element": "Green",
         "rarity": 5,
+        "class": "Ranger",
+        "speed": "fast",
         "Release date": "2023-10-28",
         "AetherPower": "Regen",
         "skill_types": [
@@ -10669,6 +11565,8 @@ window.allHeroesExtra = [
         "fancy name": "Rejuvenating Forest Slime",
         "element": "Green",
         "rarity": 5,
+        "class": "Paladin",
+        "speed": "average",
         "Release date": "2024-06-18",
         "AetherPower": "Regen",
         "skill_types": [
@@ -10693,6 +11591,8 @@ window.allHeroesExtra = [
         "fancy name": "Wise Sage of the Oceans",
         "element": "Green",
         "rarity": 5,
+        "class": "Druid",
+        "speed": "changing_tides",
         "Release date": "2023-06-07",
         "AetherPower": "Defense Up",
         "skill_types": [
@@ -10717,6 +11617,8 @@ window.allHeroesExtra = [
         "fancy name": "Wise Roller of the Quarry",
         "element": "Green",
         "rarity": 5,
+        "class": "Paladin",
+        "speed": "changing_tides",
         "Release date": "2024-07-27",
         "AetherPower": "Special Armor",
         "skill_types": [
@@ -10749,6 +11651,8 @@ window.allHeroesExtra = [
         "fancy name": "Morlock Battle Master",
         "element": "Green",
         "rarity": 5,
+        "class": "Barbarian",
+        "speed": "fast",
         "Release date": "2021-04-22",
         "AetherPower": "Rage",
         "skill_types": [
@@ -10770,6 +11674,8 @@ window.allHeroesExtra = [
         "fancy name": "Morlock Kite Master",
         "element": "Green",
         "rarity": 5,
+        "class": "Paladin",
+        "speed": "fast",
         "Release date": "2023-06-22",
         "AetherPower": "Regen",
         "skill_types": [
@@ -10801,6 +11707,8 @@ window.allHeroesExtra = [
         "fancy name": "Party Gargoyle",
         "element": "Green",
         "rarity": 5,
+        "class": "Sorcerer",
+        "speed": "average",
         "Release date": "2024-02-27",
         "AetherPower": "Damage Reduction",
         "skill_types": [
@@ -10825,6 +11733,8 @@ window.allHeroesExtra = [
         "fancy name": "Treasure Hunter of the Deep",
         "element": "Green",
         "rarity": 5,
+        "class": "Rogue",
+        "speed": "changing_tides",
         "Release date": "2023-08-30",
         "AetherPower": "Attack Up",
         "skill_types": [
@@ -10849,6 +11759,8 @@ window.allHeroesExtra = [
         "fancy name": "Gnome Explorer",
         "element": "Green",
         "rarity": 5,
+        "class": "Ranger",
+        "speed": "fast",
         "Release date": "2023-12-01",
         "AetherPower": "Regen",
         "skill_types": [
@@ -10869,6 +11781,8 @@ window.allHeroesExtra = [
         "fancy name": "Barbaric Sludge",
         "element": "Green",
         "rarity": 5,
+        "class": "Barbarian",
+        "speed": "slow",
         "Release date": "2025-03-17",
         "AetherPower": "Rage",
         "skill_types": [
@@ -10892,6 +11806,8 @@ window.allHeroesExtra = [
         "fancy name": "Grove Cervitaur",
         "element": "Green",
         "rarity": 5,
+        "class": "Druid",
+        "speed": "fast",
         "Release date": "2022-09-01",
         "AetherPower": "Attack Up",
         "skill_types": [
@@ -10917,6 +11833,8 @@ window.allHeroesExtra = [
         "fancy name": "Challenger of Avalon",
         "element": "Green",
         "rarity": 5,
+        "class": "Fighter",
+        "speed": "average",
         "Release date": "2023-04-20",
         "AetherPower": "Attack Up",
         "skill_types": [
@@ -10937,6 +11855,8 @@ window.allHeroesExtra = [
         "fancy name": "The Adept Archer",
         "element": "Green",
         "rarity": 5,
+        "class": "Ranger",
+        "speed": "average",
         "Release date": "2018-07-01",
         "AetherPower": "Attack Up",
         "skill_types": [
@@ -10957,6 +11877,8 @@ window.allHeroesExtra = [
         "fancy name": "The Hermit Alchemist",
         "element": "Green",
         "rarity": 5,
+        "class": "Rogue",
+        "speed": "average",
         "Release date": "2024-03-08",
         "AetherPower": "Rage",
         "skill_types": [
@@ -10986,6 +11908,8 @@ window.allHeroesExtra = [
         "fancy name": "Sword-Breaking Hell-Brute",
         "element": "Green",
         "rarity": 5,
+        "class": "Monk",
+        "speed": "fast",
         "Release date": "2025-02-13",
         "AetherPower": "Attack Up",
         "skill_types": [
@@ -11011,6 +11935,8 @@ window.allHeroesExtra = [
         "fancy name": "Mothling Breeder",
         "element": "Green",
         "rarity": 5,
+        "class": "Druid",
+        "speed": "fast",
         "Release date": "2025-01-23",
         "AetherPower": "Damage Reduction",
         "skill_types": [
@@ -11036,6 +11962,8 @@ window.allHeroesExtra = [
         "fancy name": "Valiant General",
         "element": "Green",
         "rarity": 5,
+        "class": "Paladin",
+        "speed": "average",
         "Release date": "2022-03-14",
         "AetherPower": "Special Boost",
         "skill_types": [
@@ -11056,6 +11984,8 @@ window.allHeroesExtra = [
         "fancy name": "Inferno General",
         "element": "Green",
         "rarity": 5,
+        "class": "Barbarian",
+        "speed": "average",
         "Release date": "2024-10-01",
         "AetherPower": "Attack Up",
         "skill_types": [
@@ -11084,6 +12014,8 @@ window.allHeroesExtra = [
         "fancy name": "Elementalist of Teltoc",
         "element": "Green",
         "rarity": 5,
+        "class": "Wizard",
+        "speed": "average",
         "Release date": "2020-01-08",
         "AetherPower": "Damage Reduction",
         "skill_types": [
@@ -11105,6 +12037,8 @@ window.allHeroesExtra = [
         "fancy name": "Burly Bashing Barbarian",
         "element": "Green",
         "rarity": 5,
+        "class": "Barbarian",
+        "speed": "average",
         "Release date": "2022-11-12",
         "AetherPower": "Attack Up",
         "skill_types": [
@@ -11128,6 +12062,8 @@ window.allHeroesExtra = [
         "fancy name": "Carry-It-All Construct",
         "element": "Green",
         "rarity": 5,
+        "class": "Druid",
+        "speed": "average",
         "Release date": "2023-06-28",
         "AetherPower": "Defense Up",
         "skill_types": [
@@ -11154,6 +12090,8 @@ window.allHeroesExtra = [
         "fancy name": "Vigilant Watchman",
         "element": "Green",
         "rarity": 5,
+        "class": "Paladin",
+        "speed": "slow",
         "Release date": "2020-02-27",
         "AetherPower": "Heal Increase",
         "skill_types": [
@@ -11174,6 +12112,8 @@ window.allHeroesExtra = [
         "fancy name": "Dreaded Watchman",
         "element": "Green",
         "rarity": 5,
+        "class": "Wizard",
+        "speed": "slow",
         "Release date": "2022-10-24",
         "AetherPower": "Bulwark",
         "skill_types": [
@@ -11201,6 +12141,8 @@ window.allHeroesExtra = [
         "fancy name": "Ancient of the Woods",
         "element": "Green",
         "rarity": 5,
+        "class": "Druid",
+        "speed": "slow",
         "Release date": "2017-03-01",
         "AetherPower": "Defense Up",
         "skill_types": [
@@ -11220,6 +12162,8 @@ window.allHeroesExtra = [
         "fancy name": "Wooden Jester",
         "element": "Green",
         "rarity": 5,
+        "class": "Ranger",
+        "speed": "slow",
         "Release date": "2020-01-01",
         "AetherPower": "Special Armor",
         "skill_types": [
@@ -11245,6 +12189,8 @@ window.allHeroesExtra = [
         "fancy name": "Nightmare of the Woods",
         "element": "Green",
         "rarity": 5,
+        "class": "Wizard",
+        "speed": "slow",
         "Release date": "2022-10-31",
         "AetherPower": "Damage Reduction",
         "skill_types": [
@@ -11272,6 +12218,8 @@ window.allHeroesExtra = [
         "fancy name": "Toon of the Woods",
         "element": "Green",
         "rarity": 5,
+        "class": "Druid",
+        "speed": "slow",
         "Release date": "2024-07-16",
         "AetherPower": "Defense Up",
         "skill_types": [
@@ -11300,6 +12248,8 @@ window.allHeroesExtra = [
         "fancy name": "Defender of the Highlands",
         "element": "Green",
         "rarity": 5,
+        "class": "Barbarian",
+        "speed": "average",
         "Release date": "2024-06-05",
         "AetherPower": "Damage Reduction",
         "skill_types": [
@@ -11323,6 +12273,8 @@ window.allHeroesExtra = [
         "fancy name": "Beast of the Depths",
         "element": "Green",
         "rarity": 5,
+        "class": "Druid",
+        "speed": "fast",
         "Release date": "2022-06-20",
         "AetherPower": "Attack Up",
         "skill_types": [
@@ -11346,6 +12298,8 @@ window.allHeroesExtra = [
         "fancy name": "Subjugating Shinobi",
         "element": "Green",
         "rarity": 5,
+        "class": "Ranger",
+        "speed": "charge_ninja",
         "Release date": "2024-12-05",
         "AetherPower": "Special Boost",
         "skill_types": [
@@ -11372,6 +12326,8 @@ window.allHeroesExtra = [
         "fancy name": "Ninja of Dancing Stars",
         "element": "Green",
         "rarity": 5,
+        "class": "Monk",
+        "speed": "charge_ninja",
         "Release date": "2020-10-13",
         "AetherPower": "Regen",
         "skill_types": [
@@ -11392,6 +12348,8 @@ window.allHeroesExtra = [
         "fancy name": "Shieldmaster of Moonlight",
         "element": "Green",
         "rarity": 5,
+        "class": "Druid",
+        "speed": "fast",
         "Release date": "2017-03-01",
         "AetherPower": "Defense Up",
         "skill_types": [
@@ -11411,6 +12369,8 @@ window.allHeroesExtra = [
         "fancy name": "Priestess of Moonlight",
         "element": "Green",
         "rarity": 5,
+        "class": "Sorcerer",
+        "speed": "fast",
         "Release date": "2020-05-18",
         "AetherPower": "Special Armor",
         "skill_types": [
@@ -11437,6 +12397,8 @@ window.allHeroesExtra = [
         "fancy name": "Moonlit Fairy",
         "element": "Green",
         "rarity": 5,
+        "class": "Cleric",
+        "speed": "fast",
         "Release date": "2023-04-17",
         "AetherPower": "Attack Up",
         "skill_types": [
@@ -11463,6 +12425,8 @@ window.allHeroesExtra = [
         "fancy name": "Toon Shieldmaster",
         "element": "Green",
         "rarity": 5,
+        "class": "Druid",
+        "speed": "fast",
         "Release date": "2024-10-06",
         "AetherPower": "Defense Up",
         "skill_types": [
@@ -11491,6 +12455,8 @@ window.allHeroesExtra = [
         "fancy name": "Hunter Knight",
         "element": "Green",
         "rarity": 5,
+        "class": "Rogue",
+        "speed": "very_fast",
         "Release date": "2022-10-15",
         "AetherPower": "Fiend Resist",
         "skill_types": [
@@ -11516,6 +12482,8 @@ window.allHeroesExtra = [
         "fancy name": "The Noble Assassin",
         "element": "Green",
         "rarity": 5,
+        "class": "Fighter",
+        "speed": "fast",
         "Release date": "2019-10-01",
         "AetherPower": "Attack Up",
         "skill_types": [
@@ -11538,6 +12506,8 @@ window.allHeroesExtra = [
         "fancy name": "Stolid Sentry",
         "element": "Green",
         "rarity": 5,
+        "class": "Paladin",
+        "speed": "average",
         "Release date": "2024-11-24",
         "AetherPower": "Attack Up",
         "skill_types": [
@@ -11563,6 +12533,8 @@ window.allHeroesExtra = [
         "fancy name": "Lady of Corellia",
         "element": "Green",
         "rarity": 5,
+        "class": "Sorcerer",
+        "speed": "average",
         "Release date": "2017-09-07",
         "AetherPower": "Revive",
         "skill_types": [
@@ -11582,6 +12554,8 @@ window.allHeroesExtra = [
         "fancy name": "Rebel Queen",
         "element": "Green",
         "rarity": 5,
+        "class": "Fighter",
+        "speed": "average",
         "Release date": "2023-12-28",
         "AetherPower": "Attack Up",
         "skill_types": [
@@ -11610,6 +12584,8 @@ window.allHeroesExtra = [
         "fancy name": "Sorceress of Avalon",
         "element": "Green",
         "rarity": 5,
+        "class": "Sorcerer",
+        "speed": "slow",
         "Release date": "2019-09-12",
         "AetherPower": "Special Armor",
         "skill_types": [
@@ -11630,6 +12606,8 @@ window.allHeroesExtra = [
         "fancy name": "Lady of Blades",
         "element": "Green",
         "rarity": 5,
+        "class": "Fighter",
+        "speed": "slow",
         "Release date": "2021-12-15",
         "AetherPower": "Heal Increase",
         "skill_types": [
@@ -11656,6 +12634,8 @@ window.allHeroesExtra = [
         "fancy name": "Queen of Eternal Spring",
         "element": "Green",
         "rarity": 5,
+        "class": "Cleric",
+        "speed": "average",
         "Release date": "2023-12-01",
         "AetherPower": "Defense Up",
         "skill_types": [
@@ -11679,6 +12659,8 @@ window.allHeroesExtra = [
         "fancy name": "Enchanter of Beasts",
         "element": "Green",
         "rarity": 5,
+        "class": "Paladin",
+        "speed": "average",
         "Release date": "2023-12-11",
         "AetherPower": "Defense Up",
         "skill_types": [
@@ -11701,6 +12683,8 @@ window.allHeroesExtra = [
         "fancy name": "Leor Survivor",
         "element": "Green",
         "rarity": 5,
+        "class": "Rogue",
+        "speed": "fast",
         "Release date": "2025-03-17",
         "AetherPower": "Special Boost",
         "skill_types": [
@@ -11725,6 +12709,8 @@ window.allHeroesExtra = [
         "fancy name": "The Noble Heart",
         "element": "Green",
         "rarity": 5,
+        "class": "Ranger",
+        "speed": "fast",
         "Release date": "2017-03-01",
         "AetherPower": "Attack Up",
         "skill_types": [
@@ -11743,6 +12729,8 @@ window.allHeroesExtra = [
         "fancy name": "The Noble Guardian",
         "element": "Green",
         "rarity": 5,
+        "class": "Cleric",
+        "speed": "fast",
         "Release date": "2020-01-01",
         "AetherPower": "Special Boost",
         "skill_types": [
@@ -11768,6 +12756,8 @@ window.allHeroesExtra = [
         "fancy name": "The Noble Raven",
         "element": "Green",
         "rarity": 5,
+        "class": "Druid",
+        "speed": "fast",
         "Release date": "2023-04-17",
         "AetherPower": "Dodge",
         "skill_types": [
@@ -11793,6 +12783,8 @@ window.allHeroesExtra = [
         "fancy name": "The Noble Toon",
         "element": "Green",
         "rarity": 5,
+        "class": "Ranger",
+        "speed": "fast",
         "Release date": "2024-02-12",
         "AetherPower": "Attack Up",
         "skill_types": [
@@ -11820,6 +12812,8 @@ window.allHeroesExtra = [
         "fancy name": "The Noble Vitrail",
         "element": "Green",
         "rarity": 5,
+        "class": "Ranger",
+        "speed": "fast",
         "Release date": "2025-05-10",
         "AetherPower": "Attack Up",
         "skill_types": [
@@ -11847,6 +12841,8 @@ window.allHeroesExtra = [
         "fancy name": "Moth Barkeeper",
         "element": "Green",
         "rarity": 5,
+        "class": "Paladin",
+        "speed": "very_slow",
         "Release date": "2025-06-02",
         "AetherPower": "Defense Up",
         "skill_types": [
@@ -11872,6 +12868,8 @@ window.allHeroesExtra = [
         "fancy name": "Warlord of Shu",
         "element": "Green",
         "rarity": 5,
+        "class": "Druid",
+        "speed": "average",
         "Release date": "2022-05-23",
         "AetherPower": "Damage Reduction",
         "skill_types": [
@@ -11892,6 +12890,8 @@ window.allHeroesExtra = [
         "fancy name": "Warlord of Forest",
         "element": "Green",
         "rarity": 5,
+        "class": "Monk",
+        "speed": "average",
         "Release date": "2025-01-29",
         "AetherPower": "Ailment Immunity",
         "skill_types": [
@@ -11920,6 +12920,8 @@ window.allHeroesExtra = [
         "fancy name": "King of the Depths",
         "element": "Green",
         "rarity": 5,
+        "class": "Paladin",
+        "speed": "slow",
         "Release date": "2021-11-04",
         "AetherPower": "Special Armor",
         "skill_types": [
@@ -11945,6 +12947,8 @@ window.allHeroesExtra = [
         "fancy name": "The Deathless King",
         "element": "Green",
         "rarity": 5,
+        "class": "Cleric",
+        "speed": "slow",
         "Release date": "2024-08-29",
         "AetherPower": "Boosted Regen",
         "skill_types": [
@@ -11977,6 +12981,8 @@ window.allHeroesExtra = [
         "fancy name": "Lady of Harmony",
         "element": "Green",
         "rarity": 5,
+        "class": "Rogue",
+        "speed": "fast",
         "Release date": "2022-09-29",
         "AetherPower": "Defense Up",
         "skill_types": [
@@ -11999,6 +13005,8 @@ window.allHeroesExtra = [
         "fancy name": "Lady of the Iteru",
         "element": "Green",
         "rarity": 5,
+        "class": "Paladin",
+        "speed": "fast",
         "Release date": "2024-02-05",
         "AetherPower": "Damage Reduction",
         "skill_types": [
@@ -12030,6 +13038,8 @@ window.allHeroesExtra = [
         "fancy name": "Barmaid of the Astral Dwarves",
         "element": "Green",
         "rarity": 5,
+        "class": "Cleric",
+        "speed": "average",
         "Release date": "2025-01-06",
         "AetherPower": "Defense Up",
         "skill_types": [
@@ -12054,6 +13064,8 @@ window.allHeroesExtra = [
         "fancy name": "Treasure Hunter",
         "element": "Green",
         "rarity": 5,
+        "class": "Rogue",
+        "speed": "very_fast",
         "Release date": "2019-05-01",
         "AetherPower": "Attack Up",
         "skill_types": [
@@ -12076,6 +13088,8 @@ window.allHeroesExtra = [
         "fancy name": "Canine Storyteller",
         "element": "Green",
         "rarity": 5,
+        "class": "Druid",
+        "speed": "slow",
         "Release date": "2022-11-03",
         "AetherPower": "Defense Up",
         "skill_types": [
@@ -12099,6 +13113,8 @@ window.allHeroesExtra = [
         "fancy name": "Orc Water Gunner",
         "element": "Green",
         "rarity": 5,
+        "class": "Ranger",
+        "speed": "fast",
         "Release date": "2024-06-03",
         "AetherPower": "Attack Up",
         "skill_types": [
@@ -12123,6 +13139,8 @@ window.allHeroesExtra = [
         "fancy name": "Pedantic Gargoyle",
         "element": "Green",
         "rarity": 5,
+        "class": "Ranger",
+        "speed": "fast",
         "Release date": "2024-05-16",
         "AetherPower": "Attack Up",
         "skill_types": [
@@ -12147,6 +13165,8 @@ window.allHeroesExtra = [
         "fancy name": "Orangutan Brawler",
         "element": "Green",
         "rarity": 5,
+        "class": "Monk",
+        "speed": "fast",
         "Release date": "2023-03-03",
         "AetherPower": "Defense Up",
         "skill_types": [
@@ -12172,6 +13192,8 @@ window.allHeroesExtra = [
         "fancy name": "Astral Elf Botanist",
         "element": "Green",
         "rarity": 5,
+        "class": "Druid",
+        "speed": "fast",
         "Release date": "2024-03-07",
         "AetherPower": "Damage Reduction",
         "skill_types": [
@@ -12195,6 +13217,8 @@ window.allHeroesExtra = [
         "fancy name": "Enchantress of Avalon",
         "element": "Green",
         "rarity": 5,
+        "class": "Sorcerer",
+        "speed": "fast",
         "Release date": "2018-01-05",
         "AetherPower": "Bulwark",
         "skill_types": [
@@ -12214,6 +13238,8 @@ window.allHeroesExtra = [
         "fancy name": "The Northern Chef",
         "element": "Green",
         "rarity": 5,
+        "class": "Cleric",
+        "speed": "slow",
         "Release date": "2018-12-02",
         "AetherPower": "Defense Up",
         "skill_types": [
@@ -12234,6 +13260,8 @@ window.allHeroesExtra = [
         "fancy name": "Holiday Sweater Enthusiast",
         "element": "Green",
         "rarity": 5,
+        "class": "Monk",
+        "speed": "slow",
         "Release date": "2021-12-01",
         "AetherPower": "Special Armor",
         "skill_types": [
@@ -12260,6 +13288,8 @@ window.allHeroesExtra = [
         "fancy name": "Fiendish Forest Blob",
         "element": "Green",
         "rarity": 5,
+        "class": "Sorcerer",
+        "speed": "average",
         "Release date": "2024-10-02",
         "AetherPower": "Fiend Resist",
         "skill_types": [
@@ -12284,6 +13314,8 @@ window.allHeroesExtra = [
         "fancy name": "The Strongest Bannerlord",
         "element": "Green",
         "rarity": 5,
+        "class": "Druid",
+        "speed": "charge_ninja",
         "Release date": "2023-04-05",
         "AetherPower": "Heal Increase",
         "skill_types": [
@@ -12304,6 +13336,8 @@ window.allHeroesExtra = [
         "fancy name": "Mesmerizing Enchantress",
         "element": "Green",
         "rarity": 5,
+        "class": "Sorcerer",
+        "speed": "average",
         "Release date": "2025-02-01",
         "AetherPower": "Ailment Immunity",
         "skill_types": [
@@ -12327,6 +13361,8 @@ window.allHeroesExtra = [
         "fancy name": "Javelin Throw Champion",
         "element": "Green",
         "rarity": 5,
+        "class": "Ranger",
+        "speed": "fast",
         "Release date": "2024-02-09",
         "AetherPower": "Attack Up",
         "skill_types": [
@@ -12350,6 +13386,8 @@ window.allHeroesExtra = [
         "fancy name": "Dwarven Merry Trickster",
         "element": "Green",
         "rarity": 5,
+        "class": "Monk",
+        "speed": "fast",
         "Release date": "2024-12-03",
         "AetherPower": "Regen",
         "skill_types": [
@@ -12377,6 +13415,8 @@ window.allHeroesExtra = [
         "fancy name": "Fierce Ex-Librarian",
         "element": "Green",
         "rarity": 5,
+        "class": "Fighter",
+        "speed": "slow",
         "Release date": "2025-02-06",
         "AetherPower": "Boosted Regen",
         "skill_types": [
@@ -12398,6 +13438,8 @@ window.allHeroesExtra = [
         "fancy name": "Reckless Faun Scout",
         "element": "Green",
         "rarity": 5,
+        "class": "Ranger",
+        "speed": "average",
         "Release date": "2024-08-31",
         "AetherPower": "Attack Up",
         "skill_types": [
@@ -12423,6 +13465,8 @@ window.allHeroesExtra = [
         "fancy name": "Ninja of Deadly Toxins",
         "element": "Green",
         "rarity": 5,
+        "class": "Rogue",
+        "speed": "charge_ninja",
         "Release date": "2022-02-02",
         "AetherPower": "Attack Up",
         "skill_types": [
@@ -12445,6 +13489,8 @@ window.allHeroesExtra = [
         "fancy name": "Courageous Voyager",
         "element": "Green",
         "rarity": 5,
+        "class": "Fighter",
+        "speed": "fast",
         "Release date": "2021-03-25",
         "AetherPower": "Attack Up",
         "skill_types": [
@@ -12467,6 +13513,8 @@ window.allHeroesExtra = [
         "fancy name": "Exquisite Engineer",
         "element": "Green",
         "rarity": 5,
+        "class": "Barbarian",
+        "speed": "fast",
         "Release date": "2023-05-25",
         "AetherPower": "Rage",
         "skill_types": [
@@ -12499,6 +13547,8 @@ window.allHeroesExtra = [
         "fancy name": "Nervous Messenger",
         "element": "Green",
         "rarity": 5,
+        "class": "Rogue",
+        "speed": "fast",
         "Release date": "2024-09-01",
         "AetherPower": "Special Boost",
         "skill_types": [
@@ -12523,6 +13573,8 @@ window.allHeroesExtra = [
         "fancy name": "Future King",
         "element": "Green",
         "rarity": 5,
+        "class": "Druid",
+        "speed": "slow",
         "Release date": "2024-01-25",
         "AetherPower": "Counterattack",
         "skill_types": [
@@ -12547,6 +13599,8 @@ window.allHeroesExtra = [
         "fancy name": "Lunar Strategist Dragon",
         "element": "Green",
         "rarity": 5,
+        "class": "Wizard",
+        "speed": "very_fast",
         "Release date": "2024-02-08",
         "AetherPower": "Special Boost",
         "skill_types": [
@@ -12570,6 +13624,8 @@ window.allHeroesExtra = [
         "fancy name": "Elegant Monarch",
         "element": "Green",
         "rarity": 5,
+        "class": "Cleric",
+        "speed": "slow",
         "Release date": "2022-12-14",
         "AetherPower": "Taunt",
         "skill_types": [
@@ -12593,6 +13649,8 @@ window.allHeroesExtra = [
         "fancy name": "Champion of the Castle",
         "element": "Green",
         "rarity": 5,
+        "class": "Ranger",
+        "speed": "fast",
         "Release date": "2021-10-13",
         "AetherPower": "Attack Up",
         "skill_types": [
@@ -12613,6 +13671,8 @@ window.allHeroesExtra = [
         "fancy name": "Champion of the Wolves",
         "element": "Green",
         "rarity": 5,
+        "class": "Monk",
+        "speed": "fast",
         "Release date": "2024-12-17",
         "AetherPower": "Special Boost",
         "skill_types": [
@@ -12641,6 +13701,8 @@ window.allHeroesExtra = [
         "fancy name": "Messenger of Yggdrasil",
         "element": "Green",
         "rarity": 5,
+        "class": "Monk",
+        "speed": "average",
         "Release date": "2020-02-27",
         "AetherPower": "Defense Up",
         "skill_types": [
@@ -12662,6 +13724,8 @@ window.allHeroesExtra = [
         "fancy name": "Architect of Yggdrasil",
         "element": "Green",
         "rarity": 5,
+        "class": "Wizard",
+        "speed": "average",
         "Release date": "2023-09-25",
         "AetherPower": "Bulwark",
         "skill_types": [
@@ -12689,6 +13753,8 @@ window.allHeroesExtra = [
         "fancy name": "Herbalist of Owl Tower",
         "element": "Green",
         "rarity": 5,
+        "class": "Druid",
+        "speed": "average",
         "Release date": "2023-12-20",
         "AetherPower": "Regen",
         "skill_types": [
@@ -12711,6 +13777,8 @@ window.allHeroesExtra = [
         "fancy name": "Supercapacitor Construct",
         "element": "Green",
         "rarity": 5,
+        "class": "Monk",
+        "speed": "slow",
         "Release date": "2024-06-06",
         "AetherPower": "Taunt",
         "skill_types": [
@@ -12735,6 +13803,8 @@ window.allHeroesExtra = [
         "fancy name": "Natural Sharpshooter",
         "element": "Green",
         "rarity": 5,
+        "class": "Ranger",
+        "speed": "fast",
         "Release date": "2022-12-05",
         "AetherPower": "Defense Up",
         "skill_types": [
@@ -12757,6 +13827,8 @@ window.allHeroesExtra = [
         "fancy name": "Mischievous Mallard",
         "element": "Green",
         "rarity": 5,
+        "class": "Rogue",
+        "speed": "fast",
         "Release date": "2025-03-31",
         "AetherPower": "Special Boost",
         "skill_types": [
@@ -12779,6 +13851,8 @@ window.allHeroesExtra = [
         "fancy name": "Sand Monk",
         "element": "Green",
         "rarity": 5,
+        "class": "Monk",
+        "speed": "average",
         "Release date": "2023-08-14",
         "AetherPower": "Ailment Immunity",
         "skill_types": [
@@ -12802,6 +13876,8 @@ window.allHeroesExtra = [
         "fancy name": "Forest God",
         "element": "Green",
         "rarity": 5,
+        "class": "Barbarian",
+        "speed": "average",
         "Release date": "2022-04-01",
         "AetherPower": "Special Boost",
         "skill_types": [
@@ -12825,6 +13901,8 @@ window.allHeroesExtra = [
         "fancy name": "Goblin Bard",
         "element": "Green",
         "rarity": 5,
+        "class": "Ranger",
+        "speed": "average",
         "Release date": "2023-09-18",
         "AetherPower": "Ailment Immunity",
         "skill_types": [
@@ -12847,6 +13925,8 @@ window.allHeroesExtra = [
         "fancy name": "Clawful Stray Cat",
         "element": "Green",
         "rarity": 5,
+        "class": "Ranger",
+        "speed": "fast",
         "Release date": "2023-05-18",
         "AetherPower": "Ailment Immunity",
         "skill_types": [
@@ -12871,6 +13951,8 @@ window.allHeroesExtra = [
         "fancy name": "Naga Berserker",
         "element": "Green",
         "rarity": 5,
+        "class": "Barbarian",
+        "speed": "changing_tides",
         "Release date": "2024-02-01",
         "AetherPower": "Fiend Resist",
         "skill_types": [
@@ -12893,6 +13975,8 @@ window.allHeroesExtra = [
         "fancy name": "Naga Guard",
         "element": "Green",
         "rarity": 5,
+        "class": "Paladin",
+        "speed": "changing_tides",
         "Release date": "2025-02-03",
         "AetherPower": "Ailment Immunity",
         "skill_types": [
@@ -12923,6 +14007,8 @@ window.allHeroesExtra = [
         "fancy name": "The Royal Knight Fox",
         "element": "Green",
         "rarity": 5,
+        "class": "Paladin",
+        "speed": "fast",
         "Release date": "2024-11-18",
         "AetherPower": "Attack Up",
         "skill_types": [
@@ -12946,6 +14032,8 @@ window.allHeroesExtra = [
         "fancy name": "Relentless Hunter",
         "element": "Green",
         "rarity": 5,
+        "class": "Paladin",
+        "speed": "fast",
         "Release date": "2023-02-09",
         "AetherPower": "Defense Up",
         "skill_types": [
@@ -12970,6 +14058,8 @@ window.allHeroesExtra = [
         "fancy name": "Astral Elf Arbalist",
         "element": "Green",
         "rarity": 5,
+        "class": "Ranger",
+        "speed": "slow",
         "Release date": "2024-06-12",
         "AetherPower": "Damage Reduction",
         "skill_types": [
@@ -12994,6 +14084,8 @@ window.allHeroesExtra = [
         "fancy name": "Malachite Hunter",
         "element": "Green",
         "rarity": 5,
+        "class": "Paladin",
+        "speed": "fast",
         "Release date": "2024-07-21",
         "AetherPower": "Attack Up",
         "skill_types": [
@@ -13019,6 +14111,8 @@ window.allHeroesExtra = [
         "fancy name": "Greatbow Saboteur",
         "element": "Green",
         "rarity": 5,
+        "class": "Ranger",
+        "speed": "charge_ninja",
         "Release date": "2023-07-26",
         "AetherPower": "Attack Up",
         "skill_types": [
@@ -13039,6 +14133,8 @@ window.allHeroesExtra = [
         "fancy name": "Prince of the Jungle",
         "element": "Green",
         "rarity": 5,
+        "class": "Monk",
+        "speed": "average",
         "Release date": "2019-08-01",
         "AetherPower": "Counterattack",
         "skill_types": [
@@ -13058,6 +14154,8 @@ window.allHeroesExtra = [
         "fancy name": "Prince of the Luʻau",
         "element": "Green",
         "rarity": 5,
+        "class": "Paladin",
+        "speed": "average",
         "Release date": "2022-12-12",
         "AetherPower": "Ailment Immunity",
         "skill_types": [
@@ -13083,6 +14181,8 @@ window.allHeroesExtra = [
         "fancy name": "The Pureheart",
         "element": "Green",
         "rarity": 5,
+        "class": "Monk",
+        "speed": "average",
         "Release date": "2023-10-18",
         "AetherPower": "Ailment Immunity",
         "skill_types": [
@@ -13107,6 +14207,8 @@ window.allHeroesExtra = [
         "fancy name": "Forest God",
         "element": "Green",
         "rarity": 5,
+        "class": "Paladin",
+        "speed": "average",
         "Release date": "2020-03-01",
         "AetherPower": "Bulwark",
         "skill_types": [
@@ -13131,6 +14233,8 @@ window.allHeroesExtra = [
         "fancy name": "Centaur of the Woodlands",
         "element": "Green",
         "rarity": 5,
+        "class": "Druid",
+        "speed": "charge_magic",
         "Release date": "2023-05-03",
         "AetherPower": "Defense Up",
         "skill_types": [
@@ -13157,6 +14261,8 @@ window.allHeroesExtra = [
         "fancy name": "Riddler of Wonderland",
         "element": "Green",
         "rarity": 5,
+        "class": "Cleric",
+        "speed": "average",
         "Release date": "2019-02-14",
         "AetherPower": "Ailment Reflect",
         "skill_types": [
@@ -13176,6 +14282,8 @@ window.allHeroesExtra = [
         "fancy name": "Tea Connoisseur of Wonderland",
         "element": "Green",
         "rarity": 5,
+        "class": "Wizard",
+        "speed": "average",
         "Release date": "2024-04-18",
         "AetherPower": "Counterattack",
         "skill_types": [
@@ -13204,6 +14312,8 @@ window.allHeroesExtra = [
         "fancy name": "Courageous Corporal",
         "element": "Green",
         "rarity": 5,
+        "class": "Monk",
+        "speed": "slow",
         "Release date": "2024-07-07",
         "AetherPower": "Defense Up",
         "skill_types": [
@@ -13229,6 +14339,8 @@ window.allHeroesExtra = [
         "fancy name": "Sovereign of Cerbera",
         "element": "Green",
         "rarity": 5,
+        "class": "Cleric",
+        "speed": "fast",
         "Release date": "2021-02-11",
         "AetherPower": "Defense Up",
         "skill_types": [
@@ -13249,6 +14361,8 @@ window.allHeroesExtra = [
         "fancy name": "Sovereign of Flora",
         "element": "Green",
         "rarity": 5,
+        "class": "Druid",
+        "speed": "fast",
         "Release date": "2025-06-15",
         "AetherPower": "Special Armor",
         "skill_types": [
@@ -13278,6 +14392,8 @@ window.allHeroesExtra = [
         "fancy name": "Eternal Bard",
         "element": "Green",
         "rarity": 5,
+        "class": "Sorcerer",
+        "speed": "fast",
         "Release date": "2022-06-20",
         "AetherPower": "Attack Up",
         "skill_types": [
@@ -13299,6 +14415,8 @@ window.allHeroesExtra = [
         "fancy name": "Eternal Sage",
         "element": "Green",
         "rarity": 5,
+        "class": "Wizard",
+        "speed": "fast",
         "Release date": "2024-07-22",
         "AetherPower": "Special Boost",
         "skill_types": [
@@ -13326,6 +14444,8 @@ window.allHeroesExtra = [
         "fancy name": "Scout Commander of Owl Tower",
         "element": "Green",
         "rarity": 5,
+        "class": "Ranger",
+        "speed": "average",
         "Release date": "2024-03-13",
         "AetherPower": "Attack Up",
         "skill_types": [
@@ -13348,6 +14468,8 @@ window.allHeroesExtra = [
         "fancy name": "Blightwalker Druid",
         "element": "Green",
         "rarity": 5,
+        "class": "Druid",
+        "speed": "average",
         "Release date": "2023-02-01",
         "AetherPower": "Special Boost",
         "skill_types": [
@@ -13372,6 +14494,8 @@ window.allHeroesExtra = [
         "fancy name": "Bard of Creation",
         "element": "Green",
         "rarity": 5,
+        "class": "Wizard",
+        "speed": "slow",
         "Release date": "2022-08-11",
         "AetherPower": "Regen",
         "skill_types": [
@@ -13395,6 +14519,8 @@ window.allHeroesExtra = [
         "fancy name": "Master of Elemental Creations",
         "element": "Green",
         "rarity": 5,
+        "class": "Sorcerer",
+        "speed": "average",
         "Release date": "2022-12-05",
         "AetherPower": "Defense Up",
         "skill_types": [
@@ -13418,6 +14544,8 @@ window.allHeroesExtra = [
         "fancy name": "Guardian of the Emerald Forest",
         "element": "Green",
         "rarity": 5,
+        "class": "Cleric",
+        "speed": "average",
         "Release date": "2023-10-18",
         "AetherPower": "Ailment Immunity",
         "skill_types": [
@@ -13440,6 +14568,8 @@ window.allHeroesExtra = [
         "fancy name": "Lunar Musician Snake",
         "element": "Green",
         "rarity": 5,
+        "class": "Cleric",
+        "speed": "average",
         "Release date": "2025-01-27",
         "AetherPower": "Damage Reduction",
         "skill_types": [
@@ -13463,6 +14593,8 @@ window.allHeroesExtra = [
         "fancy name": "King of Sand Empire",
         "element": "Green",
         "rarity": 5,
+        "class": "Fighter",
+        "speed": "slow",
         "Release date": "2018-06-21",
         "AetherPower": "Mana Boost",
         "skill_types": [
@@ -13484,6 +14616,8 @@ window.allHeroesExtra = [
         "fancy name": "King of Lifeguards",
         "element": "Green",
         "rarity": 5,
+        "class": "Paladin",
+        "speed": "slow",
         "Release date": "2021-06-21",
         "AetherPower": "Boosted Regen",
         "skill_types": [
@@ -13511,6 +14645,8 @@ window.allHeroesExtra = [
         "fancy name": "Hybrid of the Deep",
         "element": "Green",
         "rarity": 5,
+        "class": "Rogue",
+        "speed": "fast",
         "Release date": "2024-06-30",
         "AetherPower": "Attack Up",
         "skill_types": [
@@ -13534,6 +14670,8 @@ window.allHeroesExtra = [
         "fancy name": "Celestial of Nature",
         "element": "Green",
         "rarity": 5,
+        "class": "Wizard",
+        "speed": "fast",
         "Release date": "2018-02-01",
         "AetherPower": "Attack Up",
         "skill_types": [
@@ -13556,6 +14694,8 @@ window.allHeroesExtra = [
         "fancy name": "Avian Celestial",
         "element": "Green",
         "rarity": 5,
+        "class": "Sorcerer",
+        "speed": "fast",
         "Release date": "2023-12-19",
         "AetherPower": "Special Boost",
         "skill_types": [
@@ -13587,6 +14727,8 @@ window.allHeroesExtra = [
         "fancy name": "Master of Keys",
         "element": "Green",
         "rarity": 5,
+        "class": "Rogue",
+        "speed": "average",
         "Release date": "2020-08-01",
         "AetherPower": "Attack Up",
         "skill_types": [
@@ -13609,6 +14751,8 @@ window.allHeroesExtra = [
         "fancy name": "Hoverboarding Elf",
         "element": "Green",
         "rarity": 5,
+        "class": "Wizard",
+        "speed": "fast",
         "Release date": "2023-08-14",
         "AetherPower": "Attack Up",
         "skill_types": [
@@ -13632,6 +14776,8 @@ window.allHeroesExtra = [
         "fancy name": "Thief with Big Plans",
         "element": "Purple",
         "rarity": 1,
+        "class": "Rogue",
+        "speed": "fast",
         "Release date": "2017-03-01",
         "AetherPower": "Attack Up",
         "skill_types": [
@@ -13650,6 +14796,8 @@ window.allHeroesExtra = [
         "fancy name": "Aspiring Archer",
         "element": "Purple",
         "rarity": 1,
+        "class": "Ranger",
+        "speed": "fast",
         "Release date": "2017-03-01",
         "AetherPower": "Attack Up",
         "skill_types": [
@@ -13668,6 +14816,8 @@ window.allHeroesExtra = [
         "fancy name": "Morgovian Fugitive",
         "element": "Purple",
         "rarity": 2,
+        "class": "Fighter",
+        "speed": "fast",
         "Release date": "2017-03-01",
         "AetherPower": "Attack Up",
         "skill_types": [
@@ -13686,6 +14836,8 @@ window.allHeroesExtra = [
         "fancy name": "Rebellious Rogue",
         "element": "Purple",
         "rarity": 2,
+        "class": "Rogue",
+        "speed": "fast",
         "Release date": "2017-03-01",
         "AetherPower": "Attack Up",
         "skill_types": [
@@ -13704,6 +14856,8 @@ window.allHeroesExtra = [
         "fancy name": "Shambling Remnant",
         "element": "Purple",
         "rarity": 2,
+        "class": "Barbarian",
+        "speed": "average",
         "Release date": "2017-03-01",
         "AetherPower": "Defense Up",
         "skill_types": [
@@ -13722,6 +14876,8 @@ window.allHeroesExtra = [
         "fancy name": "Medic of the Castle",
         "element": "Purple",
         "rarity": 3,
+        "class": "Cleric",
+        "speed": "average",
         "Release date": "2021-10-13",
         "AetherPower": "Defense Up",
         "skill_types": [
@@ -13741,6 +14897,8 @@ window.allHeroesExtra = [
         "fancy name": "Cursed Viking Bruiser",
         "element": "Purple",
         "rarity": 3,
+        "class": "Ranger",
+        "speed": "slow",
         "Release date": "2020-05-28",
         "AetherPower": "Counterattack",
         "skill_types": [
@@ -13759,6 +14917,8 @@ window.allHeroesExtra = [
         "fancy name": "Street-Smart Urchin",
         "element": "Purple",
         "rarity": 3,
+        "class": "Rogue",
+        "speed": "fast",
         "Release date": "2022-04-21",
         "AetherPower": "Attack Up",
         "skill_types": [
@@ -13782,6 +14942,8 @@ window.allHeroesExtra = [
         "fancy name": "Street-Smart Sorcerer",
         "element": "Purple",
         "rarity": 3,
+        "class": "Sorcerer",
+        "speed": "fast",
         "Release date": "2024-08-10",
         "AetherPower": "Special Boost",
         "skill_types": [
@@ -13814,6 +14976,8 @@ window.allHeroesExtra = [
         "fancy name": "Dread Magician",
         "element": "Purple",
         "rarity": 3,
+        "class": "Wizard",
+        "speed": "fast",
         "Release date": "2017-03-01",
         "AetherPower": "Special Boost",
         "skill_types": [
@@ -13832,6 +14996,8 @@ window.allHeroesExtra = [
         "fancy name": "Undead Magician",
         "element": "Purple",
         "rarity": 3,
+        "class": "Sorcerer",
+        "speed": "fast",
         "Release date": "2020-05-18",
         "AetherPower": "Attack Up",
         "skill_types": [
@@ -13857,6 +15023,8 @@ window.allHeroesExtra = [
         "fancy name": "Toon Magician",
         "element": "Purple",
         "rarity": 3,
+        "class": "Wizard",
+        "speed": "fast",
         "Release date": "2024-01-22",
         "AetherPower": "Special Boost",
         "skill_types": [
@@ -13884,6 +15052,8 @@ window.allHeroesExtra = [
         "fancy name": "Glass Magician",
         "element": "Purple",
         "rarity": 3,
+        "class": "Wizard",
+        "speed": "fast",
         "Release date": "2025-03-11",
         "AetherPower": "Special Boost",
         "skill_types": [
@@ -13911,6 +15081,8 @@ window.allHeroesExtra = [
         "fancy name": "Nimble Gargoyle",
         "element": "Purple",
         "rarity": 3,
+        "class": "Rogue",
+        "speed": "average",
         "Release date": "2024-05-16",
         "AetherPower": "Attack Up",
         "skill_types": [
@@ -13933,6 +15105,8 @@ window.allHeroesExtra = [
         "fancy name": "Brave Villager",
         "element": "Purple",
         "rarity": 3,
+        "class": "Monk",
+        "speed": "average",
         "Release date": "2020-02-27",
         "AetherPower": "Attack Up",
         "skill_types": [
@@ -13953,6 +15127,8 @@ window.allHeroesExtra = [
         "fancy name": "Brave Soldier",
         "element": "Purple",
         "rarity": 3,
+        "class": "Rogue",
+        "speed": "average",
         "Release date": "2022-07-04",
         "AetherPower": "Special Boost",
         "skill_types": [
@@ -13979,6 +15155,8 @@ window.allHeroesExtra = [
         "fancy name": "Vicious Gargoyle",
         "element": "Purple",
         "rarity": 3,
+        "class": "Wizard",
+        "speed": "average",
         "Release date": "2022-05-12",
         "AetherPower": "Damage Reduction",
         "skill_types": [
@@ -14002,6 +15180,8 @@ window.allHeroesExtra = [
         "fancy name": "Lantern Yokai",
         "element": "Purple",
         "rarity": 3,
+        "class": "Sorcerer",
+        "speed": "average",
         "Release date": "2019-08-01",
         "AetherPower": "Special Boost",
         "skill_types": [
@@ -14021,6 +15201,8 @@ window.allHeroesExtra = [
         "fancy name": "Thick-Headed Thug",
         "element": "Purple",
         "rarity": 3,
+        "class": "Ranger",
+        "speed": "fast",
         "Release date": "2021-02-11",
         "AetherPower": "Attack Up",
         "skill_types": [
@@ -14040,6 +15222,8 @@ window.allHeroesExtra = [
         "fancy name": "Shallows Hunter",
         "element": "Purple",
         "rarity": 3,
+        "class": "Sorcerer",
+        "speed": "slow",
         "Release date": "2019-08-01",
         "AetherPower": "Counterattack",
         "skill_types": [
@@ -14060,6 +15244,8 @@ window.allHeroesExtra = [
         "fancy name": "Shallows Pursuer",
         "element": "Purple",
         "rarity": 3,
+        "class": "Rogue",
+        "speed": "slow",
         "Release date": "2023-04-03",
         "AetherPower": "Special Armor",
         "skill_types": [
@@ -14086,6 +15272,8 @@ window.allHeroesExtra = [
         "fancy name": "Feral Swashbuckler",
         "element": "Purple",
         "rarity": 3,
+        "class": "Barbarian",
+        "speed": "very_slow",
         "Release date": "2023-02-09",
         "AetherPower": "Rage",
         "skill_types": [
@@ -14111,6 +15299,8 @@ window.allHeroesExtra = [
         "fancy name": "Nightmare of Teltoc",
         "element": "Purple",
         "rarity": 3,
+        "class": "Wizard",
+        "speed": "average",
         "Release date": "2020-01-08",
         "AetherPower": "Damage Reduction",
         "skill_types": [
@@ -14130,6 +15320,8 @@ window.allHeroesExtra = [
         "fancy name": "Pumpkin Minstrel",
         "element": "Purple",
         "rarity": 3,
+        "class": "Wizard",
+        "speed": "fast",
         "Release date": "2020-10-26",
         "AetherPower": "Damage Reduction",
         "skill_types": [
@@ -14151,6 +15343,8 @@ window.allHeroesExtra = [
         "fancy name": "The Unseen",
         "element": "Purple",
         "rarity": 3,
+        "class": "Rogue",
+        "speed": "slayer",
         "Release date": "2021-08-05",
         "AetherPower": "Attack Up",
         "skill_types": [
@@ -14176,6 +15370,8 @@ window.allHeroesExtra = [
         "fancy name": "Ninja of Fading Shadows",
         "element": "Purple",
         "rarity": 3,
+        "class": "Sorcerer",
+        "speed": "charge_ninja",
         "Release date": "2023-07-26",
         "AetherPower": "Ailment Immunity",
         "skill_types": [
@@ -14195,6 +15391,8 @@ window.allHeroesExtra = [
         "fancy name": "Mighty Moleman",
         "element": "Purple",
         "rarity": 3,
+        "class": "Fighter",
+        "speed": "average",
         "Release date": "2021-03-25",
         "AetherPower": "Boosted Regen",
         "skill_types": [
@@ -14219,6 +15417,8 @@ window.allHeroesExtra = [
         "fancy name": "Moleman  Potter",
         "element": "Purple",
         "rarity": 3,
+        "class": "Paladin",
+        "speed": "average",
         "Release date": "2024-05-23",
         "AetherPower": "Damage Reduction",
         "skill_types": [
@@ -14249,6 +15449,8 @@ window.allHeroesExtra = [
         "fancy name": "Relentless Remnant",
         "element": "Purple",
         "rarity": 3,
+        "class": "Fighter",
+        "speed": "slow",
         "Release date": "2017-03-01",
         "AetherPower": "Mana Boost",
         "skill_types": [
@@ -14268,6 +15470,8 @@ window.allHeroesExtra = [
         "fancy name": "Jester Remnant",
         "element": "Purple",
         "rarity": 3,
+        "class": "Sorcerer",
+        "speed": "slow",
         "Release date": "2021-01-18",
         "AetherPower": "Boosted Regen",
         "skill_types": [
@@ -14292,6 +15496,8 @@ window.allHeroesExtra = [
         "fancy name": "Relentless Toon",
         "element": "Purple",
         "rarity": 3,
+        "class": "Fighter",
+        "speed": "slow",
         "Release date": "2024-08-11",
         "AetherPower": "Mana Boost",
         "skill_types": [
@@ -14320,6 +15526,8 @@ window.allHeroesExtra = [
         "fancy name": "Household Familiar",
         "element": "Purple",
         "rarity": 3,
+        "class": "Rogue",
+        "speed": "average",
         "Release date": "2022-06-20",
         "AetherPower": "Defense Up",
         "skill_types": [
@@ -14341,6 +15549,8 @@ window.allHeroesExtra = [
         "fancy name": "Resolute Warden",
         "element": "Purple",
         "rarity": 3,
+        "class": "Paladin",
+        "speed": "average",
         "Release date": "2017-03-01",
         "AetherPower": "Special Boost",
         "skill_types": [
@@ -14360,6 +15570,8 @@ window.allHeroesExtra = [
         "fancy name": "Resolute Overseer",
         "element": "Purple",
         "rarity": 3,
+        "class": "Fighter",
+        "speed": "average",
         "Release date": "2020-05-18",
         "AetherPower": "Attack Up",
         "skill_types": [
@@ -14385,6 +15597,8 @@ window.allHeroesExtra = [
         "fancy name": "Resolute Toon",
         "element": "Purple",
         "rarity": 3,
+        "class": "Paladin",
+        "speed": "average",
         "Release date": "2024-02-12",
         "AetherPower": "Special Boost",
         "skill_types": [
@@ -14413,6 +15627,8 @@ window.allHeroesExtra = [
         "fancy name": "Resolute Vitrail",
         "element": "Purple",
         "rarity": 3,
+        "class": "Paladin",
+        "speed": "average",
         "Release date": "2025-04-08",
         "AetherPower": "Special Boost",
         "skill_types": [
@@ -14441,6 +15657,8 @@ window.allHeroesExtra = [
         "fancy name": "Unhinged Assassin",
         "element": "Purple",
         "rarity": 3,
+        "class": "Fighter",
+        "speed": "average",
         "Release date": "2017-03-01",
         "AetherPower": "Special Boost",
         "skill_types": [
@@ -14460,6 +15678,8 @@ window.allHeroesExtra = [
         "fancy name": "Unhinged Surgeon",
         "element": "Purple",
         "rarity": 3,
+        "class": "Cleric",
+        "speed": "average",
         "Release date": "2020-05-18",
         "AetherPower": "Attack Up",
         "skill_types": [
@@ -14486,6 +15706,8 @@ window.allHeroesExtra = [
         "fancy name": "Unhinged Toon",
         "element": "Purple",
         "rarity": 3,
+        "class": "Fighter",
+        "speed": "average",
         "Release date": "2024-09-08",
         "AetherPower": "Special Boost",
         "skill_types": [
@@ -14514,6 +15736,8 @@ window.allHeroesExtra = [
         "fancy name": "Evil of Avalon",
         "element": "Purple",
         "rarity": 3,
+        "class": "Wizard",
+        "speed": "very_slow",
         "Release date": "2021-12-15",
         "AetherPower": "Damage Reduction",
         "skill_types": [
@@ -14535,6 +15759,8 @@ window.allHeroesExtra = [
         "fancy name": "Solemn Remnant",
         "element": "Purple",
         "rarity": 3,
+        "class": "Paladin",
+        "speed": "fast",
         "Release date": "2017-03-01",
         "AetherPower": "Special Boost",
         "skill_types": [
@@ -14554,6 +15780,8 @@ window.allHeroesExtra = [
         "fancy name": "Roman Remnant",
         "element": "Purple",
         "rarity": 3,
+        "class": "Rogue",
+        "speed": "fast",
         "Release date": "2020-01-01",
         "AetherPower": "Attack Up",
         "skill_types": [
@@ -14579,6 +15807,8 @@ window.allHeroesExtra = [
         "fancy name": "Solemn Toon",
         "element": "Purple",
         "rarity": 3,
+        "class": "Paladin",
+        "speed": "fast",
         "Release date": "2024-10-06",
         "AetherPower": "Special Boost",
         "skill_types": [
@@ -14607,6 +15837,8 @@ window.allHeroesExtra = [
         "fancy name": "Hrunting's Bearer",
         "element": "Purple",
         "rarity": 3,
+        "class": "Rogue",
+        "speed": "very_fast",
         "Release date": "2025-02-13",
         "AetherPower": "Attack Up",
         "skill_types": [
@@ -14630,6 +15862,8 @@ window.allHeroesExtra = [
         "fancy name": "Vampire Henchman",
         "element": "Purple",
         "rarity": 3,
+        "class": "Rogue",
+        "speed": "very_fast",
         "Release date": "2018-10-25",
         "AetherPower": "Vampire",
         "skill_types": [
@@ -14652,6 +15886,8 @@ window.allHeroesExtra = [
         "fancy name": "Mummy Warrior",
         "element": "Purple",
         "rarity": 4,
+        "class": "Rogue",
+        "speed": "average",
         "Release date": "2022-04-21",
         "AetherPower": "Revive",
         "skill_types": [
@@ -14673,6 +15909,8 @@ window.allHeroesExtra = [
         "fancy name": "Mummy Champion",
         "element": "Purple",
         "rarity": 4,
+        "class": "Fighter",
+        "speed": "average",
         "Release date": "2024-07-13",
         "AetherPower": "Boosted Regen",
         "skill_types": [
@@ -14703,6 +15941,8 @@ window.allHeroesExtra = [
         "fancy name": "Lone Ghost",
         "element": "Purple",
         "rarity": 4,
+        "class": "Sorcerer",
+        "speed": "fast",
         "Release date": "2019-08-01",
         "AetherPower": "Special Armor",
         "skill_types": [
@@ -14723,6 +15963,8 @@ window.allHeroesExtra = [
         "fancy name": "Lonesome Yurei",
         "element": "Purple",
         "rarity": 4,
+        "class": "Wizard",
+        "speed": "fast",
         "Release date": "2022-05-02",
         "AetherPower": "Defense Up",
         "skill_types": [
@@ -14751,6 +15993,8 @@ window.allHeroesExtra = [
         "fancy name": "Ninja of Hidden Blades",
         "element": "Purple",
         "rarity": 4,
+        "class": "Barbarian",
+        "speed": "charge_ninja",
         "Release date": "2020-10-13",
         "AetherPower": "Attack Up",
         "skill_types": [
@@ -14772,6 +16016,8 @@ window.allHeroesExtra = [
         "fancy name": "Charlady of Morlovia",
         "element": "Purple",
         "rarity": 4,
+        "class": "Cleric",
+        "speed": "average",
         "Release date": "2022-10-03",
         "AetherPower": "Defense Up",
         "skill_types": [
@@ -14796,6 +16042,8 @@ window.allHeroesExtra = [
         "fancy name": "Potion Merchant Cyclops",
         "element": "Purple",
         "rarity": 4,
+        "class": "Wizard",
+        "speed": "styx",
         "Release date": "2022-09-21",
         "AetherPower": "Damage Reduction",
         "skill_types": [
@@ -14819,6 +16067,8 @@ window.allHeroesExtra = [
         "fancy name": "First Mate of Corellia",
         "element": "Purple",
         "rarity": 4,
+        "class": "Barbarian",
+        "speed": "average",
         "Release date": "2017-09-07",
         "AetherPower": "Revive",
         "skill_types": [
@@ -14838,6 +16088,8 @@ window.allHeroesExtra = [
         "fancy name": "Mischievous Kitty Cat",
         "element": "Purple",
         "rarity": 4,
+        "class": "Sorcerer",
+        "speed": "fast",
         "Release date": "2019-02-14",
         "AetherPower": "Special Armor",
         "skill_types": [
@@ -14858,6 +16110,8 @@ window.allHeroesExtra = [
         "fancy name": "Malicious Kitty Cat",
         "element": "Purple",
         "rarity": 4,
+        "class": "Rogue",
+        "speed": "fast",
         "Release date": "2023-10-05",
         "AetherPower": "Ailment Immunity",
         "skill_types": [
@@ -14884,6 +16138,8 @@ window.allHeroesExtra = [
         "fancy name": "Clawsome Bandit",
         "element": "Purple",
         "rarity": 4,
+        "class": "Rogue",
+        "speed": "average",
         "Release date": "2022-11-03",
         "AetherPower": "Special Boost",
         "skill_types": [
@@ -14906,6 +16162,8 @@ window.allHeroesExtra = [
         "fancy name": "Deathbound Lord",
         "element": "Purple",
         "rarity": 4,
+        "class": "Paladin",
+        "speed": "average",
         "Release date": "2017-03-01",
         "AetherPower": "Counterattack",
         "skill_types": [
@@ -14924,6 +16182,8 @@ window.allHeroesExtra = [
         "fancy name": "Deathless Prince",
         "element": "Purple",
         "rarity": 4,
+        "class": "Sorcerer",
+        "speed": "average",
         "Release date": "2021-01-18",
         "AetherPower": "Damage Reduction",
         "skill_types": [
@@ -14948,6 +16208,8 @@ window.allHeroesExtra = [
         "fancy name": "Deathbound Reveller",
         "element": "Purple",
         "rarity": 4,
+        "class": "Druid",
+        "speed": "average",
         "Release date": "2023-04-17",
         "AetherPower": "Regen",
         "skill_types": [
@@ -14974,6 +16236,8 @@ window.allHeroesExtra = [
         "fancy name": "Deathbound Toon",
         "element": "Purple",
         "rarity": 4,
+        "class": "Paladin",
+        "speed": "average",
         "Release date": "2024-04-08",
         "AetherPower": "Counterattack",
         "skill_types": [
@@ -15000,6 +16264,8 @@ window.allHeroesExtra = [
         "fancy name": "Deathbound Vitrail",
         "element": "Purple",
         "rarity": 4,
+        "class": "Paladin",
+        "speed": "average",
         "Release date": "2025-04-23",
         "AetherPower": "Counterattack",
         "skill_types": [
@@ -15026,6 +16292,8 @@ window.allHeroesExtra = [
         "fancy name": "Gnome Entertainer",
         "element": "Purple",
         "rarity": 4,
+        "class": "Wizard",
+        "speed": "average",
         "Release date": "2023-12-01",
         "AetherPower": "Attack Up",
         "skill_types": [
@@ -15046,6 +16314,8 @@ window.allHeroesExtra = [
         "fancy name": "Poisoner of Svartalfheim",
         "element": "Purple",
         "rarity": 4,
+        "class": "Wizard",
+        "speed": "average",
         "Release date": "2020-05-28",
         "AetherPower": "Attack Up",
         "skill_types": [
@@ -15066,6 +16336,8 @@ window.allHeroesExtra = [
         "fancy name": "Herbalist of Svartalfheim",
         "element": "Purple",
         "rarity": 4,
+        "class": "Druid",
+        "speed": "average",
         "Release date": "2023-01-16",
         "AetherPower": "Special Boost",
         "skill_types": [
@@ -15092,6 +16364,8 @@ window.allHeroesExtra = [
         "fancy name": "Vizier of Sand Empire",
         "element": "Purple",
         "rarity": 4,
+        "class": "Cleric",
+        "speed": "fast",
         "Release date": "2018-06-21",
         "AetherPower": "Attack Up",
         "skill_types": [
@@ -15113,6 +16387,8 @@ window.allHeroesExtra = [
         "fancy name": "Black Wind Demon",
         "element": "Purple",
         "rarity": 4,
+        "class": "Rogue",
+        "speed": "fast",
         "Release date": "2023-02-27",
         "AetherPower": "Attack Up",
         "skill_types": [
@@ -15133,6 +16409,8 @@ window.allHeroesExtra = [
         "fancy name": "Doomed Hersir",
         "element": "Purple",
         "rarity": 4,
+        "class": "Fighter",
+        "speed": "slow",
         "Release date": "2021-02-11",
         "AetherPower": "Regen",
         "skill_types": [
@@ -15156,6 +16434,8 @@ window.allHeroesExtra = [
         "fancy name": "Brute of Sand Empire",
         "element": "Purple",
         "rarity": 4,
+        "class": "Monk",
+        "speed": "average",
         "Release date": "2018-06-21",
         "AetherPower": "Counterattack",
         "skill_types": [
@@ -15177,6 +16457,8 @@ window.allHeroesExtra = [
         "fancy name": "Justiciar of Owl Tower",
         "element": "Purple",
         "rarity": 4,
+        "class": "Wizard",
+        "speed": "slow",
         "Release date": "2024-02-14",
         "AetherPower": "Attack Up",
         "skill_types": [
@@ -15200,6 +16482,8 @@ window.allHeroesExtra = [
         "fancy name": "Friendly Florist",
         "element": "Purple",
         "rarity": 4,
+        "class": "Druid",
+        "speed": "average",
         "Release date": "2023-03-08",
         "AetherPower": "Defense Up",
         "skill_types": [
@@ -15223,6 +16507,8 @@ window.allHeroesExtra = [
         "fancy name": "Knight of the Plum Forest",
         "element": "Purple",
         "rarity": 4,
+        "class": "Cleric",
+        "speed": "fast",
         "Release date": "2023-10-18",
         "AetherPower": "Attack Up",
         "skill_types": [
@@ -15244,6 +16530,8 @@ window.allHeroesExtra = [
         "fancy name": "Artisan of Elemental Energy",
         "element": "Purple",
         "rarity": 4,
+        "class": "Monk",
+        "speed": "average",
         "Release date": "2023-11-06",
         "AetherPower": "Damage Reduction",
         "skill_types": [
@@ -15266,6 +16554,8 @@ window.allHeroesExtra = [
         "fancy name": "Tribal Huntress",
         "element": "Purple",
         "rarity": 4,
+        "class": "Ranger",
+        "speed": "very_fast",
         "Release date": "2022-10-15",
         "AetherPower": "Attack Up",
         "skill_types": [
@@ -15288,6 +16578,8 @@ window.allHeroesExtra = [
         "fancy name": "Wizard of Avalon",
         "element": "Purple",
         "rarity": 4,
+        "class": "Wizard",
+        "speed": "average",
         "Release date": "2018-01-05",
         "AetherPower": "Ailment Immunity",
         "skill_types": [
@@ -15308,6 +16600,8 @@ window.allHeroesExtra = [
         "fancy name": "Astromancer of Avalon",
         "element": "Purple",
         "rarity": 4,
+        "class": "Cleric",
+        "speed": "average",
         "Release date": "2023-04-20",
         "AetherPower": "Damage Reduction",
         "skill_types": [
@@ -15334,6 +16628,8 @@ window.allHeroesExtra = [
         "fancy name": "Mage of Atlantis",
         "element": "Purple",
         "rarity": 4,
+        "class": "Wizard",
+        "speed": "average",
         "Release date": "2019-08-01",
         "AetherPower": "Damage Reduction",
         "skill_types": [
@@ -15353,6 +16649,8 @@ window.allHeroesExtra = [
         "fancy name": "Farseer of Atlantis",
         "element": "Purple",
         "rarity": 4,
+        "class": "Sorcerer",
+        "speed": "average",
         "Release date": "2023-04-03",
         "AetherPower": "Ailment Immunity",
         "skill_types": [
@@ -15378,6 +16676,8 @@ window.allHeroesExtra = [
         "fancy name": "Noble Cavalier",
         "element": "Purple",
         "rarity": 4,
+        "class": "Cleric",
+        "speed": "average",
         "Release date": "2017-03-01",
         "AetherPower": "Defense Up",
         "skill_types": [
@@ -15397,6 +16697,8 @@ window.allHeroesExtra = [
         "fancy name": "Dapper Noble",
         "element": "Purple",
         "rarity": 4,
+        "class": "Ranger",
+        "speed": "average",
         "Release date": "2020-01-01",
         "AetherPower": "Special Armor",
         "skill_types": [
@@ -15423,6 +16725,8 @@ window.allHeroesExtra = [
         "fancy name": "Noble Healer",
         "element": "Purple",
         "rarity": 4,
+        "class": "Monk",
+        "speed": "average",
         "Release date": "2023-04-17",
         "AetherPower": "Damage Reduction",
         "skill_types": [
@@ -15449,6 +16753,8 @@ window.allHeroesExtra = [
         "fancy name": "Toon Cavalier",
         "element": "Purple",
         "rarity": 4,
+        "class": "Cleric",
+        "speed": "average",
         "Release date": "2024-06-28",
         "AetherPower": "Defense Up",
         "skill_types": [
@@ -15477,6 +16783,8 @@ window.allHeroesExtra = [
         "fancy name": "Deathbound Lady",
         "element": "Purple",
         "rarity": 4,
+        "class": "Sorcerer",
+        "speed": "average",
         "Release date": "2017-03-01",
         "AetherPower": "Special Armor",
         "skill_types": [
@@ -15496,6 +16804,8 @@ window.allHeroesExtra = [
         "fancy name": "Deathless Princess",
         "element": "Purple",
         "rarity": 4,
+        "class": "Cleric",
+        "speed": "average",
         "Release date": "2021-01-18",
         "AetherPower": "Defense Up",
         "skill_types": [
@@ -15522,6 +16832,8 @@ window.allHeroesExtra = [
         "fancy name": "Deathbound Princess",
         "element": "Purple",
         "rarity": 4,
+        "class": "Monk",
+        "speed": "average",
         "Release date": "2023-11-27",
         "AetherPower": "Counterattack",
         "skill_types": [
@@ -15548,6 +16860,8 @@ window.allHeroesExtra = [
         "fancy name": "Deathless Toon",
         "element": "Purple",
         "rarity": 4,
+        "class": "Sorcerer",
+        "speed": "average",
         "Release date": "2024-10-06",
         "AetherPower": "Special Armor",
         "skill_types": [
@@ -15576,6 +16890,8 @@ window.allHeroesExtra = [
         "fancy name": "Student of the Arcane",
         "element": "Purple",
         "rarity": 4,
+        "class": "Druid",
+        "speed": "charge_magic",
         "Release date": "2021-09-15",
         "AetherPower": "Special Armor",
         "skill_types": [
@@ -15598,6 +16914,8 @@ window.allHeroesExtra = [
         "fancy name": "Great Betrayer",
         "element": "Purple",
         "rarity": 4,
+        "class": "Paladin",
+        "speed": "changing_tides",
         "Release date": "2023-06-07",
         "AetherPower": "Defense Up",
         "skill_types": [
@@ -15618,6 +16936,8 @@ window.allHeroesExtra = [
         "fancy name": "Jagged Butcher",
         "element": "Purple",
         "rarity": 4,
+        "class": "Barbarian",
+        "speed": "changing_tides",
         "Release date": "2025-02-03",
         "AetherPower": "Rage",
         "skill_types": [
@@ -15646,6 +16966,8 @@ window.allHeroesExtra = [
         "fancy name": "Shapeshifting Guide",
         "element": "Purple",
         "rarity": 4,
+        "class": "Druid",
+        "speed": "average",
         "Release date": "2025-01-09",
         "AetherPower": "Defense Up",
         "skill_types": [
@@ -15666,6 +16988,8 @@ window.allHeroesExtra = [
         "fancy name": "Shadow Moth",
         "element": "Purple",
         "rarity": 4,
+        "class": "Rogue",
+        "speed": "average",
         "Release date": "2025-01-23",
         "AetherPower": "Attack Up",
         "skill_types": [
@@ -15690,6 +17014,8 @@ window.allHeroesExtra = [
         "fancy name": "Relentless Draugr",
         "element": "Purple",
         "rarity": 4,
+        "class": "Barbarian",
+        "speed": "average",
         "Release date": "2020-02-27",
         "AetherPower": "Rage",
         "skill_types": [
@@ -15712,6 +17038,8 @@ window.allHeroesExtra = [
         "fancy name": "Mournful Duke",
         "element": "Purple",
         "rarity": 4,
+        "class": "Ranger",
+        "speed": "average",
         "Release date": "2017-03-01",
         "AetherPower": "Attack Up",
         "skill_types": [
@@ -15731,6 +17059,8 @@ window.allHeroesExtra = [
         "fancy name": "Duke of Rock",
         "element": "Purple",
         "rarity": 4,
+        "class": "Paladin",
+        "speed": "average",
         "Release date": "2020-01-01",
         "AetherPower": "Rage",
         "skill_types": [
@@ -15756,6 +17086,8 @@ window.allHeroesExtra = [
         "fancy name": "Lamenting Duke",
         "element": "Purple",
         "rarity": 4,
+        "class": "Cleric",
+        "speed": "average",
         "Release date": "2023-10-30",
         "AetherPower": "Special Boost",
         "skill_types": [
@@ -15781,6 +17113,8 @@ window.allHeroesExtra = [
         "fancy name": "Mournful Toon",
         "element": "Purple",
         "rarity": 4,
+        "class": "Ranger",
+        "speed": "average",
         "Release date": "2024-08-11",
         "AetherPower": "Attack Up",
         "skill_types": [
@@ -15809,6 +17143,8 @@ window.allHeroesExtra = [
         "fancy name": "Goblin Necromancer",
         "element": "Purple",
         "rarity": 5,
+        "class": "Sorcerer",
+        "speed": "fast",
         "Release date": "2023-12-11",
         "AetherPower": "Attack Up",
         "skill_types": [
@@ -15831,6 +17167,8 @@ window.allHeroesExtra = [
         "fancy name": "Cyber Rogue",
         "element": "Purple",
         "rarity": 5,
+        "class": "Rogue",
+        "speed": "fast",
         "Release date": "2023-05-22",
         "AetherPower": "Fiend Resist",
         "skill_types": [
@@ -15852,6 +17190,8 @@ window.allHeroesExtra = [
         "fancy name": "Steadfast Judge",
         "element": "Purple",
         "rarity": 5,
+        "class": "Monk",
+        "speed": "average",
         "Release date": "2018-04-01",
         "AetherPower": "Defense Up",
         "skill_types": [
@@ -15874,6 +17214,8 @@ window.allHeroesExtra = [
         "fancy name": "Periwig Judge",
         "element": "Purple",
         "rarity": 5,
+        "class": "Cleric",
+        "speed": "average",
         "Release date": "2023-01-23",
         "AetherPower": "Special Armor",
         "skill_types": [
@@ -15903,6 +17245,8 @@ window.allHeroesExtra = [
         "fancy name": "Superintendent Supreme",
         "element": "Purple",
         "rarity": 5,
+        "class": "Druid",
+        "speed": "charge_magic",
         "Release date": "2021-09-15",
         "AetherPower": "Defense Up",
         "skill_types": [
@@ -15928,6 +17272,8 @@ window.allHeroesExtra = [
         "fancy name": "Supreme Dark Sorceress",
         "element": "Purple",
         "rarity": 5,
+        "class": "Sorcerer",
+        "speed": "charge_magic",
         "Release date": "2025-05-29",
         "AetherPower": "Special Armor",
         "skill_types": [
@@ -15961,6 +17307,8 @@ window.allHeroesExtra = [
         "fancy name": "Devious Reaver",
         "element": "Purple",
         "rarity": 5,
+        "class": "Rogue",
+        "speed": "fast",
         "Release date": "2025-06-01",
         "AetherPower": "Special Boost",
         "skill_types": [
@@ -15985,6 +17333,8 @@ window.allHeroesExtra = [
         "fancy name": "Queen of Svartalfheim",
         "element": "Purple",
         "rarity": 5,
+        "class": "Wizard",
+        "speed": "very_slow",
         "Release date": "2020-04-23",
         "AetherPower": "Damage Reduction",
         "skill_types": [
@@ -16005,6 +17355,8 @@ window.allHeroesExtra = [
         "fancy name": "Hatter of Svartalfheim",
         "element": "Purple",
         "rarity": 5,
+        "class": "Paladin",
+        "speed": "very_slow",
         "Release date": "2023-07-03",
         "AetherPower": "Ailment Immunity",
         "skill_types": [
@@ -16031,6 +17383,8 @@ window.allHeroesExtra = [
         "fancy name": "Hidden Assassin",
         "element": "Purple",
         "rarity": 5,
+        "class": "Sorcerer",
+        "speed": "charge_ninja",
         "Release date": "2023-01-11",
         "AetherPower": "Fiend Resist",
         "skill_types": [
@@ -16051,6 +17405,8 @@ window.allHeroesExtra = [
         "fancy name": "The Reclusive Seeress",
         "element": "Purple",
         "rarity": 5,
+        "class": "Druid",
+        "speed": "average",
         "Release date": "2024-03-01",
         "AetherPower": "Regen",
         "skill_types": [
@@ -16075,6 +17431,8 @@ window.allHeroesExtra = [
         "fancy name": "God of the Afterlife",
         "element": "Purple",
         "rarity": 5,
+        "class": "Sorcerer",
+        "speed": "average",
         "Release date": "2023-03-16",
         "AetherPower": "Special Armor",
         "skill_types": [
@@ -16097,6 +17455,8 @@ window.allHeroesExtra = [
         "fancy name": "Arbiter of the Dancefloor",
         "element": "Purple",
         "rarity": 5,
+        "class": "Fighter",
+        "speed": "average",
         "Release date": "2024-02-05",
         "AetherPower": "Dodge",
         "skill_types": [
@@ -16128,6 +17488,8 @@ window.allHeroesExtra = [
         "fancy name": "Romantic Musketeer",
         "element": "Purple",
         "rarity": 5,
+        "class": "Ranger",
+        "speed": "average",
         "Release date": "2022-12-14",
         "AetherPower": "Heal Increase",
         "skill_types": [
@@ -16151,6 +17513,8 @@ window.allHeroesExtra = [
         "fancy name": "Shadow Assassin",
         "element": "Purple",
         "rarity": 5,
+        "class": "Rogue",
+        "speed": "fast",
         "Release date": "2022-06-01",
         "AetherPower": "Attack Up",
         "skill_types": [
@@ -16175,6 +17539,8 @@ window.allHeroesExtra = [
         "fancy name": "Seeker of Lost Knowledge",
         "element": "Purple",
         "rarity": 5,
+        "class": "Wizard",
+        "speed": "average",
         "Release date": "2025-05-13",
         "AetherPower": "Fiend Resist",
         "skill_types": [
@@ -16195,6 +17561,8 @@ window.allHeroesExtra = [
         "fancy name": "Eye of the Moon",
         "element": "Purple",
         "rarity": 5,
+        "class": "Ranger",
+        "speed": "fast",
         "Release date": "2022-08-04",
         "AetherPower": "Fiend Resist",
         "skill_types": [
@@ -16218,6 +17586,8 @@ window.allHeroesExtra = [
         "fancy name": "Eye of the Forest",
         "element": "Purple",
         "rarity": 5,
+        "class": "Druid",
+        "speed": "fast",
         "Release date": "2024-08-10",
         "AetherPower": "Special Armor",
         "skill_types": [
@@ -16250,6 +17620,8 @@ window.allHeroesExtra = [
         "fancy name": "Starlight Conjurer",
         "element": "Purple",
         "rarity": 5,
+        "class": "Cleric",
+        "speed": "charge_magic",
         "Release date": "2023-06-28",
         "AetherPower": "Attack Up",
         "skill_types": [
@@ -16276,6 +17648,8 @@ window.allHeroesExtra = [
         "fancy name": "Bard of Supernatural",
         "element": "Purple",
         "rarity": 5,
+        "class": "Rogue",
+        "speed": "average",
         "Release date": "2023-03-23",
         "AetherPower": "Defense Up",
         "skill_types": [
@@ -16299,6 +17673,8 @@ window.allHeroesExtra = [
         "fancy name": "Princess of the Disir",
         "element": "Purple",
         "rarity": 5,
+        "class": "Monk",
+        "speed": "fast",
         "Release date": "2020-09-24",
         "AetherPower": "Defense Up",
         "skill_types": [
@@ -16319,6 +17695,8 @@ window.allHeroesExtra = [
         "fancy name": "Conjurer of the Disir",
         "element": "Purple",
         "rarity": 5,
+        "class": "Cleric",
+        "speed": "fast",
         "Release date": "2023-06-05",
         "AetherPower": "Bulwark",
         "skill_types": [
@@ -16345,6 +17723,8 @@ window.allHeroesExtra = [
         "fancy name": "Governor of Grimforest",
         "element": "Purple",
         "rarity": 5,
+        "class": "Druid",
+        "speed": "very_slow",
         "Release date": "2018-06-01",
         "AetherPower": "Mana Boost",
         "skill_types": [
@@ -16365,6 +17745,8 @@ window.allHeroesExtra = [
         "fancy name": "Cartographer Construct",
         "element": "Purple",
         "rarity": 5,
+        "class": "Wizard",
+        "speed": "average",
         "Release date": "2024-04-25",
         "AetherPower": "Counterattack",
         "skill_types": [
@@ -16389,6 +17771,8 @@ window.allHeroesExtra = [
         "fancy name": "Blessed by Twilight",
         "element": "Purple",
         "rarity": 5,
+        "class": "Ranger",
+        "speed": "fast",
         "Release date": "2024-04-10",
         "AetherPower": "Attack Up",
         "skill_types": [
@@ -16411,6 +17795,8 @@ window.allHeroesExtra = [
         "fancy name": "Hidden Claw of Owl Tower",
         "element": "Purple",
         "rarity": 5,
+        "class": "Rogue",
+        "speed": "average",
         "Release date": "2024-07-02",
         "AetherPower": "Fiend Resist",
         "skill_types": [
@@ -16434,6 +17820,8 @@ window.allHeroesExtra = [
         "fancy name": "Lizardfolk High Priest",
         "element": "Purple",
         "rarity": 5,
+        "class": "Druid",
+        "speed": "slow",
         "Release date": "2021-08-01",
         "AetherPower": "Mana Boost",
         "skill_types": [
@@ -16458,6 +17846,8 @@ window.allHeroesExtra = [
         "fancy name": "Ferryman of Styx",
         "element": "Purple",
         "rarity": 5,
+        "class": "Cleric",
+        "speed": "styx",
         "Release date": "2022-11-16",
         "AetherPower": "Attack Up",
         "skill_types": [
@@ -16481,6 +17871,8 @@ window.allHeroesExtra = [
         "fancy name": "Brash Channeler",
         "element": "Purple",
         "rarity": 5,
+        "class": "Paladin",
+        "speed": "very_fast",
         "Release date": "2020-05-01",
         "AetherPower": "Dodge",
         "skill_types": [
@@ -16504,6 +17896,8 @@ window.allHeroesExtra = [
         "fancy name": "Bane of Karemdol",
         "element": "Purple",
         "rarity": 5,
+        "class": "Wizard",
+        "speed": "fast",
         "Release date": "2021-02-11",
         "AetherPower": "Attack Up",
         "skill_types": [
@@ -16527,6 +17921,8 @@ window.allHeroesExtra = [
         "fancy name": "Astronomer of Karemdol",
         "element": "Purple",
         "rarity": 5,
+        "class": "Sorcerer",
+        "speed": "fast",
         "Release date": "2024-11-14",
         "AetherPower": "Defense Up",
         "skill_types": [
@@ -16558,6 +17954,8 @@ window.allHeroesExtra = [
         "fancy name": "Mosh Pit Maestro",
         "element": "Purple",
         "rarity": 5,
+        "class": "Monk",
+        "speed": "average",
         "Release date": "2025-04-09",
         "AetherPower": "Counterattack",
         "skill_types": [
@@ -16581,6 +17979,8 @@ window.allHeroesExtra = [
         "fancy name": "Adept Eagle Trainer",
         "element": "Purple",
         "rarity": 5,
+        "class": "Druid",
+        "speed": "average",
         "Release date": "2023-09-18",
         "AetherPower": "Defense Up",
         "skill_types": [
@@ -16603,6 +18003,8 @@ window.allHeroesExtra = [
         "fancy name": "Goblin Cultist",
         "element": "Purple",
         "rarity": 5,
+        "class": "Rogue",
+        "speed": "very_fast",
         "Release date": "2023-09-18",
         "AetherPower": "Attack Up",
         "skill_types": [
@@ -16626,6 +18028,8 @@ window.allHeroesExtra = [
         "fancy name": "Astral Elf Oracle",
         "element": "Purple",
         "rarity": 5,
+        "class": "Wizard",
+        "speed": "fast",
         "Release date": "2024-05-20",
         "AetherPower": "Attack Up",
         "skill_types": [
@@ -16651,6 +18055,8 @@ window.allHeroesExtra = [
         "fancy name": "Brilliant Beauty",
         "element": "Purple",
         "rarity": 5,
+        "class": "Sorcerer",
+        "speed": "fast",
         "Release date": "2022-03-14",
         "AetherPower": "Attack Up",
         "skill_types": [
@@ -16671,6 +18077,8 @@ window.allHeroesExtra = [
         "fancy name": "Flower Beauty",
         "element": "Purple",
         "rarity": 5,
+        "class": "Cleric",
+        "speed": "fast",
         "Release date": "2024-05-28",
         "AetherPower": "Defense Up",
         "skill_types": [
@@ -16699,6 +18107,8 @@ window.allHeroesExtra = [
         "fancy name": "Magitech Sniper",
         "element": "Purple",
         "rarity": 5,
+        "class": "Rogue",
+        "speed": "average",
         "Release date": "2017-03-01",
         "AetherPower": "Attack Up",
         "skill_types": [
@@ -16719,6 +18129,8 @@ window.allHeroesExtra = [
         "fancy name": "Steampunk Sniper",
         "element": "Purple",
         "rarity": 5,
+        "class": "Ranger",
+        "speed": "average",
         "Release date": "2020-05-18",
         "AetherPower": "Special Boost",
         "skill_types": [
@@ -16745,6 +18157,8 @@ window.allHeroesExtra = [
         "fancy name": "Undead Sniper",
         "element": "Purple",
         "rarity": 5,
+        "class": "Barbarian",
+        "speed": "average",
         "Release date": "2022-10-31",
         "AetherPower": "Dodge",
         "skill_types": [
@@ -16771,6 +18185,8 @@ window.allHeroesExtra = [
         "fancy name": "Toon Sniper",
         "element": "Purple",
         "rarity": 5,
+        "class": "Rogue",
+        "speed": "average",
         "Release date": "2024-03-11",
         "AetherPower": "Attack Up",
         "skill_types": [
@@ -16800,6 +18216,8 @@ window.allHeroesExtra = [
         "fancy name": "Glass Sniper",
         "element": "Purple",
         "rarity": 5,
+        "class": "Rogue",
+        "speed": "average",
         "Release date": "2025-04-23",
         "AetherPower": "Attack Up",
         "skill_types": [
@@ -16829,6 +18247,8 @@ window.allHeroesExtra = [
         "fancy name": "Devious Scientist",
         "element": "Purple",
         "rarity": 5,
+        "class": "Paladin",
+        "speed": "fast",
         "Release date": "2021-03-25",
         "AetherPower": "Attack Up",
         "skill_types": [
@@ -16850,6 +18270,8 @@ window.allHeroesExtra = [
         "fancy name": "Devious Scribe",
         "element": "Purple",
         "rarity": 5,
+        "class": "Rogue",
+        "speed": "fast",
         "Release date": "2023-04-27",
         "AetherPower": "Special Boost",
         "skill_types": [
@@ -16879,6 +18301,8 @@ window.allHeroesExtra = [
         "fancy name": "Queen of the Astral Elves",
         "element": "Purple",
         "rarity": 5,
+        "class": "Sorcerer",
+        "speed": "average",
         "Release date": "2024-03-07",
         "AetherPower": "Attack Up",
         "skill_types": [
@@ -16905,6 +18329,8 @@ window.allHeroesExtra = [
         "fancy name": "The Storm God's Chosen",
         "element": "Purple",
         "rarity": 5,
+        "class": "Paladin",
+        "speed": "average",
         "Release date": "2024-05-23",
         "AetherPower": "Special Boost",
         "skill_types": [
@@ -16929,6 +18355,8 @@ window.allHeroesExtra = [
         "fancy name": "Dwarven Dark Seer",
         "element": "Purple",
         "rarity": 5,
+        "class": "Cleric",
+        "speed": "fast",
         "Release date": "2024-12-03",
         "AetherPower": "Special Armor",
         "skill_types": [
@@ -16955,6 +18383,8 @@ window.allHeroesExtra = [
         "fancy name": "Cupid of Desire",
         "element": "Purple",
         "rarity": 5,
+        "class": "Ranger",
+        "speed": "very_fast",
         "Release date": "2024-01-08",
         "AetherPower": "Attack Up",
         "skill_types": [
@@ -16976,6 +18406,8 @@ window.allHeroesExtra = [
         "fancy name": "Trove of Thousand Teeth",
         "element": "Purple",
         "rarity": 5,
+        "class": "Fighter",
+        "speed": "average",
         "Release date": "2025-06-06",
         "AetherPower": "Bulwark",
         "skill_types": [
@@ -17003,6 +18435,8 @@ window.allHeroesExtra = [
         "fancy name": "Supersonic Blade Master",
         "element": "Purple",
         "rarity": 5,
+        "class": "Ranger",
+        "speed": "fast",
         "Release date": "2023-11-06",
         "AetherPower": "Dodge",
         "skill_types": [
@@ -17025,6 +18459,8 @@ window.allHeroesExtra = [
         "fancy name": "Lady of the Slain",
         "element": "Purple",
         "rarity": 5,
+        "class": "Druid",
+        "speed": "fast",
         "Release date": "2020-02-27",
         "AetherPower": "Regen",
         "skill_types": [
@@ -17045,6 +18481,8 @@ window.allHeroesExtra = [
         "fancy name": "Witch of the Fallen",
         "element": "Purple",
         "rarity": 5,
+        "class": "Sorcerer",
+        "speed": "fast",
         "Release date": "2022-08-01",
         "AetherPower": "Special Armor",
         "skill_types": [
@@ -17071,6 +18509,8 @@ window.allHeroesExtra = [
         "fancy name": "Multidimensional Hazard",
         "element": "Purple",
         "rarity": 5,
+        "class": "Barbarian",
+        "speed": "average",
         "Release date": "2024-03-25",
         "AetherPower": "Attack Up",
         "skill_types": [
@@ -17092,6 +18532,8 @@ window.allHeroesExtra = [
         "fancy name": "Astral Dwarf Contender",
         "element": "Purple",
         "rarity": 5,
+        "class": "Barbarian",
+        "speed": "fast",
         "Release date": "2025-05-07",
         "AetherPower": "Special Boost",
         "skill_types": [
@@ -17116,6 +18558,8 @@ window.allHeroesExtra = [
         "fancy name": "Nerdy Cauldron Slime",
         "element": "Purple",
         "rarity": 5,
+        "class": "Cleric",
+        "speed": "fast",
         "Release date": "2024-11-27",
         "AetherPower": "Fiend Resist",
         "skill_types": [
@@ -17140,6 +18584,8 @@ window.allHeroesExtra = [
         "fancy name": "Savage Hunter",
         "element": "Purple",
         "rarity": 5,
+        "class": "Fighter",
+        "speed": "very_fast",
         "Release date": "2022-12-24",
         "AetherPower": "Attack Up",
         "skill_types": [
@@ -17163,6 +18609,8 @@ window.allHeroesExtra = [
         "fancy name": "Insidious Gargoyle",
         "element": "Purple",
         "rarity": 5,
+        "class": "Barbarian",
+        "speed": "slow",
         "Release date": "2022-05-12",
         "AetherPower": "Regen",
         "skill_types": [
@@ -17185,6 +18633,8 @@ window.allHeroesExtra = [
         "fancy name": "Modifier of Reality",
         "element": "Purple",
         "rarity": 5,
+        "class": "Druid",
+        "speed": "slow",
         "Release date": "2023-05-22",
         "AetherPower": "Regen",
         "skill_types": [
@@ -17206,6 +18656,8 @@ window.allHeroesExtra = [
         "fancy name": "The Goat-Riding Gnome",
         "element": "Purple",
         "rarity": 5,
+        "class": "Cleric",
+        "speed": "average",
         "Release date": "2019-12-01",
         "AetherPower": "Special Boost",
         "skill_types": [
@@ -17229,6 +18681,8 @@ window.allHeroesExtra = [
         "fancy name": "Warrior of Teltoc",
         "element": "Purple",
         "rarity": 5,
+        "class": "Fighter",
+        "speed": "fast",
         "Release date": "2017-10-05",
         "AetherPower": "Attack Up",
         "skill_types": [
@@ -17249,6 +18703,8 @@ window.allHeroesExtra = [
         "fancy name": "Fierce Panther",
         "element": "Purple",
         "rarity": 5,
+        "class": "Paladin",
+        "speed": "fast",
         "Release date": "2022-06-16",
         "AetherPower": "Special Armor",
         "skill_types": [
@@ -17275,6 +18731,8 @@ window.allHeroesExtra = [
         "fancy name": "Relentless Battle Blob",
         "element": "Purple",
         "rarity": 5,
+        "class": "Barbarian",
+        "speed": "fast",
         "Release date": "2024-06-18",
         "AetherPower": "Rage",
         "skill_types": [
@@ -17298,6 +18756,8 @@ window.allHeroesExtra = [
         "fancy name": "Adventurous Archaeologist",
         "element": "Purple",
         "rarity": 5,
+        "class": "Druid",
+        "speed": "fast",
         "Release date": "2021-06-17",
         "AetherPower": "Fiend Resist",
         "skill_types": [
@@ -17321,6 +18781,8 @@ window.allHeroesExtra = [
         "fancy name": "Adventurous Drover",
         "element": "Purple",
         "rarity": 5,
+        "class": "Rogue",
+        "speed": "fast",
         "Release date": "2024-04-25",
         "AetherPower": "Attack Up",
         "skill_types": [
@@ -17352,6 +18814,8 @@ window.allHeroesExtra = [
         "fancy name": "Hunter Journeyman",
         "element": "Purple",
         "rarity": 5,
+        "class": "Cleric",
+        "speed": "average",
         "Release date": "2022-09-18",
         "AetherPower": "Attack Up",
         "skill_types": [
@@ -17377,6 +18841,8 @@ window.allHeroesExtra = [
         "fancy name": "Celestial of Darkness",
         "element": "Purple",
         "rarity": 5,
+        "class": "Wizard",
+        "speed": "average",
         "Release date": "2017-06-01",
         "AetherPower": "Attack Up",
         "skill_types": [
@@ -17399,6 +18865,8 @@ window.allHeroesExtra = [
         "fancy name": "Omen of Darkness",
         "element": "Purple",
         "rarity": 5,
+        "class": "Cleric",
+        "speed": "average",
         "Release date": "2022-11-28",
         "AetherPower": "Special Boost",
         "skill_types": [
@@ -17430,6 +18898,8 @@ window.allHeroesExtra = [
         "fancy name": "Dwarven Mountain King",
         "element": "Purple",
         "rarity": 5,
+        "class": "Wizard",
+        "speed": "slow",
         "Release date": "2025-02-23",
         "AetherPower": "Counterattack",
         "skill_types": [
@@ -17459,6 +18929,8 @@ window.allHeroesExtra = [
         "fancy name": "Head of the Moles",
         "element": "Purple",
         "rarity": 5,
+        "class": "Cleric",
+        "speed": "average",
         "Release date": "2022-03-24",
         "AetherPower": "Special Armor",
         "skill_types": [
@@ -17482,6 +18954,8 @@ window.allHeroesExtra = [
         "fancy name": "Head Nurse",
         "element": "Purple",
         "rarity": 5,
+        "class": "Paladin",
+        "speed": "average",
         "Release date": "2024-03-28",
         "AetherPower": "Ailment Immunity",
         "skill_types": [
@@ -17513,6 +18987,8 @@ window.allHeroesExtra = [
         "fancy name": "Descendant of the Old Ones",
         "element": "Purple",
         "rarity": 5,
+        "class": "Barbarian",
+        "speed": "fast",
         "Release date": "2024-06-04",
         "AetherPower": "Attack Up",
         "skill_types": [
@@ -17535,6 +19011,8 @@ window.allHeroesExtra = [
         "fancy name": "Ape Assassin",
         "element": "Purple",
         "rarity": 5,
+        "class": "Rogue",
+        "speed": "average",
         "Release date": "2023-05-26",
         "AetherPower": "Attack Up",
         "skill_types": [
@@ -17561,6 +19039,8 @@ window.allHeroesExtra = [
         "fancy name": "Horror of Wonderland",
         "element": "Purple",
         "rarity": 5,
+        "class": "Monk",
+        "speed": "fast",
         "Release date": "2019-02-14",
         "AetherPower": "Attack Up",
         "skill_types": [
@@ -17580,6 +19060,8 @@ window.allHeroesExtra = [
         "fancy name": "Jabbermoth",
         "element": "Purple",
         "rarity": 5,
+        "class": "Druid",
+        "speed": "fast",
         "Release date": "2021-12-15",
         "AetherPower": "Special Boost",
         "skill_types": [
@@ -17608,6 +19090,8 @@ window.allHeroesExtra = [
         "fancy name": "Herald of Sacrifice",
         "element": "Purple",
         "rarity": 5,
+        "class": "Wizard",
+        "speed": "charge_magic",
         "Release date": "2023-11-15",
         "AetherPower": "Attack Up",
         "skill_types": [
@@ -17636,6 +19120,8 @@ window.allHeroesExtra = [
         "fancy name": "Cursed Warlord",
         "element": "Purple",
         "rarity": 5,
+        "class": "Barbarian",
+        "speed": "very_fast",
         "Release date": "2018-12-01",
         "AetherPower": "Dodge",
         "skill_types": [
@@ -17656,6 +19142,8 @@ window.allHeroesExtra = [
         "fancy name": "Beetle Samurai",
         "element": "Purple",
         "rarity": 5,
+        "class": "Paladin",
+        "speed": "very_fast",
         "Release date": "2021-11-15",
         "AetherPower": "Counterattack",
         "skill_types": [
@@ -17683,6 +19171,8 @@ window.allHeroesExtra = [
         "fancy name": "Champion Bruiser",
         "element": "Purple",
         "rarity": 5,
+        "class": "Monk",
+        "speed": "slow",
         "Release date": "2021-02-11",
         "AetherPower": "Counterattack",
         "skill_types": [
@@ -17704,6 +19194,8 @@ window.allHeroesExtra = [
         "fancy name": "Bedtime Bruiser",
         "element": "Purple",
         "rarity": 5,
+        "class": "Fighter",
+        "speed": "slow",
         "Release date": "2025-06-15",
         "AetherPower": "Damage Reduction",
         "skill_types": [
@@ -17735,6 +19227,8 @@ window.allHeroesExtra = [
         "fancy name": "Hardened Gargoyle",
         "element": "Purple",
         "rarity": 5,
+        "class": "Sorcerer",
+        "speed": "average",
         "Release date": "2022-12-29",
         "AetherPower": "Attack Up",
         "skill_types": [
@@ -17757,6 +19251,8 @@ window.allHeroesExtra = [
         "fancy name": "Scarab God",
         "element": "Purple",
         "rarity": 5,
+        "class": "Ranger",
+        "speed": "average",
         "Release date": "2022-06-09",
         "AetherPower": "Fiend Resist",
         "skill_types": [
@@ -17779,6 +19275,8 @@ window.allHeroesExtra = [
         "fancy name": "Scarab Overlord",
         "element": "Purple",
         "rarity": 5,
+        "class": "Fighter",
+        "speed": "average",
         "Release date": "2025-02-17",
         "AetherPower": "Special Boost",
         "skill_types": [
@@ -17810,6 +19308,8 @@ window.allHeroesExtra = [
         "fancy name": "Mirage Assassin",
         "element": "Purple",
         "rarity": 5,
+        "class": "Rogue",
+        "speed": "average",
         "Release date": "2018-09-01",
         "AetherPower": "Special Boost",
         "skill_types": [
@@ -17830,6 +19330,8 @@ window.allHeroesExtra = [
         "fancy name": "Mirage Engineer",
         "element": "Purple",
         "rarity": 5,
+        "class": "Fighter",
+        "speed": "average",
         "Release date": "2024-02-09",
         "AetherPower": "Special Armor",
         "skill_types": [
@@ -17859,6 +19361,8 @@ window.allHeroesExtra = [
         "fancy name": "God of the Moon",
         "element": "Purple",
         "rarity": 5,
+        "class": "Barbarian",
+        "speed": "very_fast",
         "Release date": "2022-04-21",
         "AetherPower": "Special Boost",
         "skill_types": [
@@ -17880,6 +19384,8 @@ window.allHeroesExtra = [
         "fancy name": "Knight of the Moon",
         "element": "Purple",
         "rarity": 5,
+        "class": "Paladin",
+        "speed": "very_fast",
         "Release date": "2024-09-07",
         "AetherPower": "Counterattack",
         "skill_types": [
@@ -17910,6 +19416,8 @@ window.allHeroesExtra = [
         "fancy name": "Savage Protector of Springvale",
         "element": "Purple",
         "rarity": 5,
+        "class": "Fighter",
+        "speed": "average",
         "Release date": "2020-04-06",
         "AetherPower": "Attack Up",
         "skill_types": [
@@ -17929,6 +19437,8 @@ window.allHeroesExtra = [
         "fancy name": "Ultimate Farmer",
         "element": "Purple",
         "rarity": 5,
+        "class": "Druid",
+        "speed": "average",
         "Release date": "2022-03-21",
         "AetherPower": "Defense Up",
         "skill_types": [
@@ -17954,6 +19464,8 @@ window.allHeroesExtra = [
         "fancy name": "Thief of Wonderland",
         "element": "Purple",
         "rarity": 5,
+        "class": "Barbarian",
+        "speed": "fast",
         "Release date": "2024-04-18",
         "AetherPower": "Dodge",
         "skill_types": [
@@ -17975,6 +19487,8 @@ window.allHeroesExtra = [
         "fancy name": "Chivalric Temple Slime",
         "element": "Purple",
         "rarity": 5,
+        "class": "Fighter",
+        "speed": "fast",
         "Release date": "2025-02-17",
         "AetherPower": "Special Armor",
         "skill_types": [
@@ -18001,6 +19515,8 @@ window.allHeroesExtra = [
         "fancy name": "Mystical Vagabond",
         "element": "Purple",
         "rarity": 5,
+        "class": "Cleric",
+        "speed": "slow",
         "Release date": "2019-02-01",
         "AetherPower": "Defense Up",
         "skill_types": [
@@ -18024,6 +19540,8 @@ window.allHeroesExtra = [
         "fancy name": "Leader of the Eloi",
         "element": "Purple",
         "rarity": 5,
+        "class": "Sorcerer",
+        "speed": "fast",
         "Release date": "2021-03-25",
         "AetherPower": "Special Armor",
         "skill_types": [
@@ -18050,6 +19568,8 @@ window.allHeroesExtra = [
         "fancy name": "Leader of the Undying",
         "element": "Purple",
         "rarity": 5,
+        "class": "Wizard",
+        "speed": "fast",
         "Release date": "2023-04-27",
         "AetherPower": "Special Armor",
         "skill_types": [
@@ -18084,6 +19604,8 @@ window.allHeroesExtra = [
         "fancy name": "Witch of the North",
         "element": "Purple",
         "rarity": 5,
+        "class": "Monk",
+        "speed": "average",
         "Release date": "2022-06-20",
         "AetherPower": "Attack Up",
         "skill_types": [
@@ -18106,6 +19628,8 @@ window.allHeroesExtra = [
         "fancy name": "Wrathful Warlord",
         "element": "Purple",
         "rarity": 5,
+        "class": "Barbarian",
+        "speed": "slow",
         "Release date": "2022-03-14",
         "AetherPower": "Fiend Resist",
         "skill_types": [
@@ -18127,6 +19651,8 @@ window.allHeroesExtra = [
         "fancy name": "Wrathful Tiger Warlord",
         "element": "Purple",
         "rarity": 5,
+        "class": "Fighter",
+        "speed": "slow",
         "Release date": "2024-12-28",
         "AetherPower": "Regen",
         "skill_types": [
@@ -18156,6 +19682,8 @@ window.allHeroesExtra = [
         "fancy name": "Wielder of Excalibroom",
         "element": "Purple",
         "rarity": 5,
+        "class": "Sorcerer",
+        "speed": "slow",
         "Release date": "2023-09-25",
         "AetherPower": "Regen",
         "skill_types": [
@@ -18179,6 +19707,8 @@ window.allHeroesExtra = [
         "fancy name": "Defender of the Castle",
         "element": "Purple",
         "rarity": 5,
+        "class": "Paladin",
+        "speed": "slow",
         "Release date": "2021-10-13",
         "AetherPower": "Taunt",
         "skill_types": [
@@ -18199,6 +19729,8 @@ window.allHeroesExtra = [
         "fancy name": "Crescent Owl",
         "element": "Purple",
         "rarity": 5,
+        "class": "Wizard",
+        "speed": "fast",
         "Release date": "2023-09-04",
         "AetherPower": "Ailment Immunity",
         "skill_types": [
@@ -18222,6 +19754,8 @@ window.allHeroesExtra = [
         "fancy name": "Matron of Dancers",
         "element": "Purple",
         "rarity": 5,
+        "class": "Wizard",
+        "speed": "slow",
         "Release date": "2023-11-30",
         "AetherPower": "Fiend Resist",
         "skill_types": [
@@ -18247,6 +19781,8 @@ window.allHeroesExtra = [
         "fancy name": "The Merry Mason",
         "element": "Purple",
         "rarity": 5,
+        "class": "Fighter",
+        "speed": "average",
         "Release date": "2025-02-14",
         "AetherPower": "Special Armor",
         "skill_types": [
@@ -18271,6 +19807,8 @@ window.allHeroesExtra = [
         "fancy name": "Wicked Lector",
         "element": "Purple",
         "rarity": 5,
+        "class": "Cleric",
+        "speed": "average",
         "Release date": "2021-03-01",
         "AetherPower": "Special Boost",
         "skill_types": [
@@ -18296,6 +19834,8 @@ window.allHeroesExtra = [
         "fancy name": "Voodoo Queen of Corellia",
         "element": "Purple",
         "rarity": 5,
+        "class": "Monk",
+        "speed": "slow",
         "Release date": "2017-09-07",
         "AetherPower": "Mana Boost",
         "skill_types": [
@@ -18317,6 +19857,8 @@ window.allHeroesExtra = [
         "fancy name": "Soul-Stealing Priestess",
         "element": "Purple",
         "rarity": 5,
+        "class": "Druid",
+        "speed": "slow",
         "Release date": "2022-02-17",
         "AetherPower": "Heal Increase",
         "skill_types": [
@@ -18347,6 +19889,8 @@ window.allHeroesExtra = [
         "fancy name": "Ambitious Faun Alchemist",
         "element": "Purple",
         "rarity": 5,
+        "class": "Wizard",
+        "speed": "average",
         "Release date": "2025-03-26",
         "AetherPower": "Special Boost",
         "skill_types": [
@@ -18372,6 +19916,8 @@ window.allHeroesExtra = [
         "fancy name": "Naga Queen of the Deep",
         "element": "Purple",
         "rarity": 5,
+        "class": "Ranger",
+        "speed": "changing_tides",
         "Release date": "2024-01-17",
         "AetherPower": "Attack Up",
         "skill_types": [
@@ -18394,6 +19940,8 @@ window.allHeroesExtra = [
         "fancy name": "Naga Goddess of the Deep",
         "element": "Purple",
         "rarity": 5,
+        "class": "Fighter",
+        "speed": "changing_tides",
         "Release date": "2024-10-19",
         "AetherPower": "Special Boost",
         "skill_types": [
@@ -18424,6 +19972,8 @@ window.allHeroesExtra = [
         "fancy name": "Acolyte of the Old Ones",
         "element": "Purple",
         "rarity": 5,
+        "class": "Paladin",
+        "speed": "slow",
         "Release date": "2024-05-01",
         "AetherPower": "Ailment Immunity",
         "skill_types": [
@@ -18448,6 +19998,8 @@ window.allHeroesExtra = [
         "fancy name": "Savage Butcher",
         "element": "Purple",
         "rarity": 5,
+        "class": "Barbarian",
+        "speed": "average",
         "Release date": "2018-02-01",
         "AetherPower": "Rage",
         "skill_types": [
@@ -18468,6 +20020,8 @@ window.allHeroesExtra = [
         "fancy name": "Savage Blademaster",
         "element": "Purple",
         "rarity": 5,
+        "class": "Fighter",
+        "speed": "average",
         "Release date": "2023-02-06",
         "AetherPower": "Counterattack",
         "skill_types": [
@@ -18496,6 +20050,8 @@ window.allHeroesExtra = [
         "fancy name": "Bane of the Underworld",
         "element": "Purple",
         "rarity": 5,
+        "class": "Sorcerer",
+        "speed": "average",
         "Release date": "2022-11-01",
         "AetherPower": "Special Boost",
         "skill_types": [
@@ -18521,6 +20077,8 @@ window.allHeroesExtra = [
         "fancy name": "The Mothmancer",
         "element": "Purple",
         "rarity": 5,
+        "class": "Sorcerer",
+        "speed": "slow",
         "Release date": "2025-01-23",
         "AetherPower": "Defense Up",
         "skill_types": [
@@ -18547,6 +20105,8 @@ window.allHeroesExtra = [
         "fancy name": "Dark Elf Surfer",
         "element": "Purple",
         "rarity": 5,
+        "class": "Rogue",
+        "speed": "average",
         "Release date": "2023-06-12",
         "AetherPower": "Attack Up",
         "skill_types": [
@@ -18570,6 +20130,8 @@ window.allHeroesExtra = [
         "fancy name": "Spell-Bending Conundrum",
         "element": "Purple",
         "rarity": 5,
+        "class": "Rogue",
+        "speed": "very_fast",
         "Release date": "2020-05-01",
         "AetherPower": "Bulwark",
         "skill_types": [
@@ -18590,6 +20152,8 @@ window.allHeroesExtra = [
         "fancy name": "Bard of Glamour",
         "element": "Purple",
         "rarity": 5,
+        "class": "Sorcerer",
+        "speed": "fast",
         "Release date": "2022-08-11",
         "AetherPower": "Special Armor",
         "skill_types": [
@@ -18612,6 +20176,8 @@ window.allHeroesExtra = [
         "fancy name": "Mother Night",
         "element": "Purple",
         "rarity": 5,
+        "class": "Wizard",
+        "speed": "styx",
         "Release date": "2022-06-01",
         "AetherPower": "Damage Reduction",
         "skill_types": [
@@ -18635,6 +20201,8 @@ window.allHeroesExtra = [
         "fancy name": "Praetorian Bodyguard",
         "element": "Purple",
         "rarity": 5,
+        "class": "Barbarian",
+        "speed": "fast",
         "Release date": "2017-03-01",
         "AetherPower": "Counterattack",
         "skill_types": [
@@ -18654,6 +20222,8 @@ window.allHeroesExtra = [
         "fancy name": "Praetorian Gladiator",
         "element": "Purple",
         "rarity": 5,
+        "class": "Rogue",
+        "speed": "fast",
         "Release date": "2021-01-18",
         "AetherPower": "Damage Reduction",
         "skill_types": [
@@ -18679,6 +20249,8 @@ window.allHeroesExtra = [
         "fancy name": "Praetorian Vampire",
         "element": "Purple",
         "rarity": 5,
+        "class": "Fighter",
+        "speed": "fast",
         "Release date": "2022-09-05",
         "AetherPower": "Vampire",
         "skill_types": [
@@ -18705,6 +20277,8 @@ window.allHeroesExtra = [
         "fancy name": "Praetorian Toon",
         "element": "Purple",
         "rarity": 5,
+        "class": "Barbarian",
+        "speed": "fast",
         "Release date": "2023-11-27",
         "AetherPower": "Counterattack",
         "skill_types": [
@@ -18733,6 +20307,8 @@ window.allHeroesExtra = [
         "fancy name": "Praetorian Vitrail",
         "element": "Purple",
         "rarity": 5,
+        "class": "Barbarian",
+        "speed": "fast",
         "Release date": "2025-01-14",
         "AetherPower": "Counterattack",
         "skill_types": [
@@ -18761,6 +20337,8 @@ window.allHeroesExtra = [
         "fancy name": "Black Swan",
         "element": "Purple",
         "rarity": 5,
+        "class": "Rogue",
+        "speed": "fast",
         "Release date": "2024-03-21",
         "AetherPower": "Defense Up",
         "skill_types": [
@@ -18786,6 +20364,8 @@ window.allHeroesExtra = [
         "fancy name": "Lawbringer of Owl Tower",
         "element": "Purple",
         "rarity": 5,
+        "class": "Barbarian",
+        "speed": "slow",
         "Release date": "2023-12-20",
         "AetherPower": "Regen",
         "skill_types": [
@@ -18810,6 +20390,8 @@ window.allHeroesExtra = [
         "fancy name": "Ninja of Elusive Winds",
         "element": "Purple",
         "rarity": 5,
+        "class": "Ranger",
+        "speed": "charge_ninja",
         "Release date": "2020-10-13",
         "AetherPower": "Attack Up",
         "skill_types": [
@@ -18832,6 +20414,8 @@ window.allHeroesExtra = [
         "fancy name": "Gnome Alchemist",
         "element": "Purple",
         "rarity": 5,
+        "class": "Sorcerer",
+        "speed": "average",
         "Release date": "2022-12-01",
         "AetherPower": "Special Boost",
         "skill_types": [
@@ -18853,6 +20437,8 @@ window.allHeroesExtra = [
         "fancy name": "Mysterious Mastermind",
         "element": "Purple",
         "rarity": 5,
+        "class": "Fighter",
+        "speed": "average",
         "Release date": "2023-06-20",
         "AetherPower": "Attack Up",
         "skill_types": [
@@ -18879,6 +20465,8 @@ window.allHeroesExtra = [
         "fancy name": "Primordial God of the Depths",
         "element": "Purple",
         "rarity": 5,
+        "class": "Monk",
+        "speed": "changing_tides",
         "Release date": "2023-06-07",
         "AetherPower": "Taunt",
         "skill_types": [
@@ -18903,6 +20491,8 @@ window.allHeroesExtra = [
         "fancy name": "Warrior God of the Depths",
         "element": "Purple",
         "rarity": 5,
+        "class": "Paladin",
+        "speed": "changing_tides",
         "Release date": "2024-05-23",
         "AetherPower": "Revive",
         "skill_types": [
@@ -18935,6 +20525,8 @@ window.allHeroesExtra = [
         "fancy name": "Cupid of Envy",
         "element": "Purple",
         "rarity": 5,
+        "class": "Wizard",
+        "speed": "slow",
         "Release date": "2023-02-14",
         "AetherPower": "Mana Boost",
         "skill_types": [
@@ -18957,6 +20549,8 @@ window.allHeroesExtra = [
         "fancy name": "Ninja of Quiet Graves",
         "element": "Purple",
         "rarity": 5,
+        "class": "Cleric",
+        "speed": "charge_ninja",
         "Release date": "2021-11-10",
         "AetherPower": "Defense Up",
         "skill_types": [
@@ -18977,6 +20571,8 @@ window.allHeroesExtra = [
         "fancy name": "Mad Scientist",
         "element": "Purple",
         "rarity": 5,
+        "class": "Sorcerer",
+        "speed": "slow",
         "Release date": "2017-03-01",
         "AetherPower": "Mana Boost",
         "skill_types": [
@@ -18995,6 +20591,8 @@ window.allHeroesExtra = [
         "fancy name": "Electro Scientist",
         "element": "Purple",
         "rarity": 5,
+        "class": "Monk",
+        "speed": "slow",
         "Release date": "2020-01-01",
         "AetherPower": "Special Boost",
         "skill_types": [
@@ -19020,6 +20618,8 @@ window.allHeroesExtra = [
         "fancy name": "Love Doctor",
         "element": "Purple",
         "rarity": 5,
+        "class": "Druid",
+        "speed": "slow",
         "Release date": "2022-12-26",
         "AetherPower": "Ailment Immunity",
         "skill_types": [
@@ -19045,6 +20645,8 @@ window.allHeroesExtra = [
         "fancy name": "Toon Scientist",
         "element": "Purple",
         "rarity": 5,
+        "class": "Sorcerer",
+        "speed": "slow",
         "Release date": "2024-08-11",
         "AetherPower": "Mana Boost",
         "skill_types": [
@@ -19072,6 +20674,8 @@ window.allHeroesExtra = [
         "fancy name": "Ram Turismo Champion",
         "element": "Purple",
         "rarity": 5,
+        "class": "Monk",
+        "speed": "very_fast",
         "Release date": "2024-04-05",
         "AetherPower": "Attack Up",
         "skill_types": [
@@ -19096,6 +20700,8 @@ window.allHeroesExtra = [
         "fancy name": "Captain of the Castle",
         "element": "Purple",
         "rarity": 5,
+        "class": "Fighter",
+        "speed": "fast",
         "Release date": "2022-01-05",
         "AetherPower": "Vampire",
         "skill_types": [
@@ -19115,6 +20721,8 @@ window.allHeroesExtra = [
         "fancy name": "Ruthless Miscreant",
         "element": "Purple",
         "rarity": 5,
+        "class": "Fighter",
+        "speed": "average",
         "Release date": "2023-09-20",
         "AetherPower": "Attack Up",
         "skill_types": [
@@ -19136,6 +20744,8 @@ window.allHeroesExtra = [
         "fancy name": "Trickster Fish",
         "element": "Purple",
         "rarity": 5,
+        "class": "Druid",
+        "speed": "average",
         "Release date": "2021-07-04",
         "AetherPower": "Bulwark",
         "skill_types": [
@@ -19155,6 +20765,8 @@ window.allHeroesExtra = [
         "fancy name": "Dapper Fish",
         "element": "Purple",
         "rarity": 5,
+        "class": "Paladin",
+        "speed": "slow",
         "Release date": "2023-07-31",
         "AetherPower": "Ailment Reflect",
         "skill_types": [
@@ -19180,6 +20792,8 @@ window.allHeroesExtra = [
         "fancy name": "Dread Captain of Corellia",
         "element": "Purple",
         "rarity": 5,
+        "class": "Fighter",
+        "speed": "average",
         "Release date": "2017-09-07",
         "AetherPower": "Revive",
         "skill_types": [
@@ -19199,6 +20813,8 @@ window.allHeroesExtra = [
         "fancy name": "Rotten Captain of Corellia",
         "element": "Purple",
         "rarity": 5,
+        "class": "Druid",
+        "speed": "average",
         "Release date": "2023-12-28",
         "AetherPower": "Regen",
         "skill_types": [
@@ -19227,6 +20843,8 @@ window.allHeroesExtra = [
         "fancy name": "Executor from Descenthia",
         "element": "Purple",
         "rarity": 5,
+        "class": "Wizard",
+        "speed": "fast",
         "Release date": "2017-03-01",
         "AetherPower": "Dodge",
         "skill_types": [
@@ -19246,6 +20864,8 @@ window.allHeroesExtra = [
         "fancy name": "Monstress of Descenthia",
         "element": "Purple",
         "rarity": 5,
+        "class": "Fighter",
+        "speed": "fast",
         "Release date": "2020-05-18",
         "AetherPower": "Rage",
         "skill_types": [
@@ -19270,6 +20890,8 @@ window.allHeroesExtra = [
         "fancy name": "Snake of Descenthia",
         "element": "Purple",
         "rarity": 5,
+        "class": "Rogue",
+        "speed": "fast",
         "Release date": "2023-06-12",
         "AetherPower": "Damage Reduction",
         "skill_types": [
@@ -19295,6 +20917,8 @@ window.allHeroesExtra = [
         "fancy name": "Toon Executioner",
         "element": "Purple",
         "rarity": 5,
+        "class": "Wizard",
+        "speed": "fast",
         "Release date": "2023-10-30",
         "AetherPower": "Dodge",
         "skill_types": [
@@ -19323,6 +20947,8 @@ window.allHeroesExtra = [
         "fancy name": "Vitrail from Descenthia",
         "element": "Purple",
         "rarity": 5,
+        "class": "Wizard",
+        "speed": "fast",
         "Release date": "2024-12-25",
         "AetherPower": "Dodge",
         "skill_types": [
@@ -19351,6 +20977,8 @@ window.allHeroesExtra = [
         "fancy name": "Shadowy Kunoichi",
         "element": "Purple",
         "rarity": 5,
+        "class": "Rogue",
+        "speed": "charge_ninja",
         "Release date": "2025-01-02",
         "AetherPower": "Special Boost",
         "skill_types": [
@@ -19375,6 +21003,8 @@ window.allHeroesExtra = [
         "fancy name": "Void Tank Construct",
         "element": "Purple",
         "rarity": 5,
+        "class": "Paladin",
+        "speed": "slow",
         "Release date": "2024-03-10",
         "AetherPower": "Defense Up",
         "skill_types": [
@@ -19399,6 +21029,8 @@ window.allHeroesExtra = [
         "fancy name": "The Accursed",
         "element": "Purple",
         "rarity": 5,
+        "class": "Sorcerer",
+        "speed": "slayer",
         "Release date": "2021-08-05",
         "AetherPower": "Fiend Resist",
         "skill_types": [
@@ -19425,6 +21057,8 @@ window.allHeroesExtra = [
         "fancy name": "The Cephaloid Servant",
         "element": "Purple",
         "rarity": 5,
+        "class": "Wizard",
+        "speed": "slayer",
         "Release date": "2025-04-09",
         "AetherPower": "Damage Reduction",
         "skill_types": [
@@ -19459,6 +21093,8 @@ window.allHeroesExtra = [
         "fancy name": "Shoreside Socialite",
         "element": "Purple",
         "rarity": 5,
+        "class": "Monk",
+        "speed": "average",
         "Release date": "2025-06-03",
         "AetherPower": "Counterattack",
         "skill_types": [
@@ -19483,6 +21119,8 @@ window.allHeroesExtra = [
         "fancy name": "Reanimated Huntress",
         "element": "Purple",
         "rarity": 5,
+        "class": "Ranger",
+        "speed": "fast",
         "Release date": "2019-07-01",
         "AetherPower": "Attack Up",
         "skill_types": [
@@ -19506,6 +21144,8 @@ window.allHeroesExtra = [
         "fancy name": "High Revenant Archer",
         "element": "Purple",
         "rarity": 5,
+        "class": "Barbarian",
+        "speed": "fast",
         "Release date": "2021-10-20",
         "AetherPower": "Dodge",
         "skill_types": [
@@ -19538,6 +21178,8 @@ window.allHeroesExtra = [
         "fancy name": "Dark Usurper",
         "element": "Purple",
         "rarity": 5,
+        "class": "Monk",
+        "speed": "slow",
         "Release date": "2022-09-29",
         "AetherPower": "Mana Boost",
         "skill_types": [
@@ -19560,6 +21202,8 @@ window.allHeroesExtra = [
         "fancy name": "Dark Tyrant",
         "element": "Purple",
         "rarity": 5,
+        "class": "Cleric",
+        "speed": "slow",
         "Release date": "2025-05-14",
         "AetherPower": "Boosted Regen",
         "skill_types": [
@@ -19591,6 +21235,8 @@ window.allHeroesExtra = [
         "fancy name": "Imprisoned Construct",
         "element": "Purple",
         "rarity": 5,
+        "class": "Monk",
+        "speed": "average",
         "Release date": "2023-12-24",
         "AetherPower": "Attack Up",
         "skill_types": [
@@ -19615,6 +21261,8 @@ window.allHeroesExtra = [
         "fancy name": "The Bone Collector Sand Fox",
         "element": "Purple",
         "rarity": 5,
+        "class": "Wizard",
+        "speed": "slow",
         "Release date": "2024-12-23",
         "AetherPower": "Mana Boost",
         "skill_types": [
@@ -19639,6 +21287,8 @@ window.allHeroesExtra = [
         "fancy name": "The Vagabond Guardian",
         "element": "Purple",
         "rarity": 5,
+        "class": "Paladin",
+        "speed": "slow",
         "Release date": "2024-08-01",
         "AetherPower": "Knight's Endurance",
         "skill_types": [
@@ -19663,6 +21313,8 @@ window.allHeroesExtra = [
         "fancy name": "Sphinx of the Moon",
         "element": "Purple",
         "rarity": 5,
+        "class": "Barbarian",
+        "speed": "slow",
         "Release date": "2023-05-11",
         "AetherPower": "Regen",
         "skill_types": [
@@ -19685,6 +21337,8 @@ window.allHeroesExtra = [
         "fancy name": "The Assassin Silver Fox",
         "element": "Purple",
         "rarity": 5,
+        "class": "Rogue",
+        "speed": "average",
         "Release date": "2024-10-07",
         "AetherPower": "Special Boost",
         "skill_types": [
@@ -19710,6 +21364,8 @@ window.allHeroesExtra = [
         "fancy name": "Eerie Faun Flautist",
         "element": "Purple",
         "rarity": 5,
+        "class": "Sorcerer",
+        "speed": "slow",
         "Release date": "2024-09-20",
         "AetherPower": "Regen",
         "skill_types": [
@@ -19734,6 +21390,8 @@ window.allHeroesExtra = [
         "fancy name": "Dark Princess Construct",
         "element": "Purple",
         "rarity": 5,
+        "class": "Sorcerer",
+        "speed": "fast",
         "Release date": "2023-10-12",
         "AetherPower": "Attack Up",
         "skill_types": [
@@ -19760,6 +21418,8 @@ window.allHeroesExtra = [
         "fancy name": "Master of Crypts",
         "element": "Purple",
         "rarity": 5,
+        "class": "Sorcerer",
+        "speed": "fast",
         "Release date": "2017-11-01",
         "AetherPower": "Revive",
         "skill_types": [
@@ -19782,6 +21442,8 @@ window.allHeroesExtra = [
         "fancy name": "Cosmic Conjurer",
         "element": "Purple",
         "rarity": 5,
+        "class": "Wizard",
+        "speed": "fast",
         "Release date": "2024-01-11",
         "AetherPower": "Bulwark",
         "skill_types": [
@@ -19809,6 +21471,8 @@ window.allHeroesExtra = [
         "fancy name": "Dwarven Frost Seeker",
         "element": "Purple",
         "rarity": 5,
+        "class": "Cleric",
+        "speed": "average",
         "Release date": "2025-05-16",
         "AetherPower": "Defense Up",
         "skill_types": [
@@ -19837,6 +21501,8 @@ window.allHeroesExtra = [
         "fancy name": "Silent Huntress",
         "element": "Purple",
         "rarity": 5,
+        "class": "Barbarian",
+        "speed": "charge_ninja",
         "Release date": "2024-08-27",
         "AetherPower": "Special Boost",
         "skill_types": [
@@ -19862,6 +21528,8 @@ window.allHeroesExtra = [
         "fancy name": "Vicious Tracker",
         "element": "Purple",
         "rarity": 5,
+        "class": "Ranger",
+        "speed": "very_fast",
         "Release date": "2023-04-01",
         "AetherPower": "Attack Up",
         "skill_types": [
@@ -19885,6 +21553,8 @@ window.allHeroesExtra = [
         "fancy name": "Twins of Wonderland",
         "element": "Purple",
         "rarity": 5,
+        "class": "Monk",
+        "speed": "slow",
         "Release date": "2023-10-05",
         "AetherPower": "Boosted Regen",
         "skill_types": [
@@ -19908,6 +21578,8 @@ window.allHeroesExtra = [
         "fancy name": "Temple Keeper of the Deep",
         "element": "Purple",
         "rarity": 5,
+        "class": "Cleric",
+        "speed": "changing_tides",
         "Release date": "2023-08-02",
         "AetherPower": "Damage Reduction",
         "skill_types": [
@@ -19930,6 +21602,8 @@ window.allHeroesExtra = [
         "fancy name": "Siphoner of the Deep",
         "element": "Purple",
         "rarity": 5,
+        "class": "Wizard",
+        "speed": "changing_tides",
         "Release date": "2025-05-28",
         "AetherPower": "Attack Up",
         "skill_types": [
@@ -19961,6 +21635,8 @@ window.allHeroesExtra = [
         "fancy name": "Masked Goddess of Shadows",
         "element": "Purple",
         "rarity": 5,
+        "class": "Rogue",
+        "speed": "fast",
         "Release date": "2023-11-02",
         "AetherPower": "Fiend Resist",
         "skill_types": [
@@ -19983,6 +21659,8 @@ window.allHeroesExtra = [
         "fancy name": "Poison Flower Ninja",
         "element": "Purple",
         "rarity": 5,
+        "class": "Sorcerer",
+        "speed": "charge_ninja",
         "Release date": "2024-10-22",
         "AetherPower": "Ailment Immunity",
         "skill_types": [
@@ -20006,6 +21684,8 @@ window.allHeroesExtra = [
         "fancy name": "Empress of the Depths",
         "element": "Purple",
         "rarity": 5,
+        "class": "Sorcerer",
+        "speed": "average",
         "Release date": "2019-02-01",
         "AetherPower": "Bulwark",
         "skill_types": [
@@ -20026,6 +21706,8 @@ window.allHeroesExtra = [
         "fancy name": "Deadly Reef Queen",
         "element": "Purple",
         "rarity": 5,
+        "class": "Druid",
+        "speed": "average",
         "Release date": "2021-11-15",
         "AetherPower": "Rage",
         "skill_types": [
@@ -20053,6 +21735,8 @@ window.allHeroesExtra = [
         "fancy name": "Toxic Abomination",
         "element": "Purple",
         "rarity": 5,
+        "class": "Barbarian",
+        "speed": "very_fast",
         "Release date": "2023-10-01",
         "AetherPower": "Defense Up",
         "skill_types": [
@@ -20076,6 +21760,8 @@ window.allHeroesExtra = [
         "fancy name": "Fluffy Gargoyle",
         "element": "Purple",
         "rarity": 5,
+        "class": "Wizard",
+        "speed": "slow",
         "Release date": "2024-05-16",
         "AetherPower": "Regen",
         "skill_types": [
@@ -20100,6 +21786,8 @@ window.allHeroesExtra = [
         "fancy name": "Cyborg Captain",
         "element": "Purple",
         "rarity": 5,
+        "class": "Wizard",
+        "speed": "fast",
         "Release date": "2024-08-07",
         "AetherPower": "Ailment Immunity",
         "skill_types": [
@@ -20123,6 +21811,8 @@ window.allHeroesExtra = [
         "fancy name": "Astral Dwarf Grand Master",
         "element": "Purple",
         "rarity": 5,
+        "class": "Sorcerer",
+        "speed": "slow",
         "Release date": "2025-01-30",
         "AetherPower": "Bulwark",
         "skill_types": [
@@ -20147,6 +21837,8 @@ window.allHeroesExtra = [
         "fancy name": "Vampire King",
         "element": "Purple",
         "rarity": 5,
+        "class": "Wizard",
+        "speed": "very_fast",
         "Release date": "2018-10-25",
         "AetherPower": "Vampire",
         "skill_types": [
@@ -20171,6 +21863,8 @@ window.allHeroesExtra = [
         "fancy name": "King of Crime",
         "element": "Purple",
         "rarity": 5,
+        "class": "Rogue",
+        "speed": "very_fast",
         "Release date": "2021-10-04",
         "AetherPower": "Attack Up",
         "skill_types": [
@@ -20201,6 +21895,8 @@ window.allHeroesExtra = [
         "fancy name": "Happy-Go-Lucky Halfling",
         "element": "Purple",
         "rarity": 5,
+        "class": "Fighter",
+        "speed": "average",
         "Release date": "2024-06-10",
         "AetherPower": "Special Armor",
         "skill_types": [
@@ -20225,6 +21921,8 @@ window.allHeroesExtra = [
         "fancy name": "Corrupted Druid",
         "element": "Purple",
         "rarity": 5,
+        "class": "Druid",
+        "speed": "slow",
         "Release date": "2022-01-01",
         "AetherPower": "Fiend Resist",
         "skill_types": [
@@ -20248,6 +21946,8 @@ window.allHeroesExtra = [
         "fancy name": "Occultist of Springvale",
         "element": "Purple",
         "rarity": 5,
+        "class": "Wizard",
+        "speed": "average",
         "Release date": "2025-03-31",
         "AetherPower": "Attack Up",
         "skill_types": [
@@ -20268,6 +21968,8 @@ window.allHeroesExtra = [
         "fancy name": "Astral Elf Great Knight",
         "element": "Purple",
         "rarity": 5,
+        "class": "Paladin",
+        "speed": "average",
         "Release date": "2024-04-22",
         "AetherPower": "Defense Up",
         "skill_types": [
@@ -20293,6 +21995,8 @@ window.allHeroesExtra = [
         "fancy name": "Feared Magician",
         "element": "Purple",
         "rarity": 5,
+        "class": "Sorcerer",
+        "speed": "average",
         "Release date": "2024-08-22",
         "AetherPower": "Special Boost",
         "skill_types": [
@@ -20317,6 +22021,8 @@ window.allHeroesExtra = [
         "fancy name": "Scorpion Demoness",
         "element": "Purple",
         "rarity": 5,
+        "class": "Fighter",
+        "speed": "fast",
         "Release date": "2024-02-06",
         "AetherPower": "Counterattack",
         "skill_types": [
@@ -20340,6 +22046,8 @@ window.allHeroesExtra = [
         "fancy name": "Bear Mountain Lord",
         "element": "Purple",
         "rarity": 5,
+        "class": "Paladin",
+        "speed": "average",
         "Release date": "2023-04-24",
         "AetherPower": "Heal Increase",
         "skill_types": [
@@ -20361,6 +22069,8 @@ window.allHeroesExtra = [
         "fancy name": "Octopod Sorcerer",
         "element": "Purple",
         "rarity": 5,
+        "class": "Sorcerer",
+        "speed": "average",
         "Release date": "2021-09-09",
         "AetherPower": "Special Armor",
         "skill_types": [
@@ -20385,6 +22095,8 @@ window.allHeroesExtra = [
         "fancy name": "Octopod Jailer",
         "element": "Purple",
         "rarity": 5,
+        "class": "Wizard",
+        "speed": "average",
         "Release date": "2023-11-09",
         "AetherPower": "Defense Up",
         "skill_types": [
@@ -20418,6 +22130,8 @@ window.allHeroesExtra = [
         "fancy name": "Dauntless Faun Gladiator",
         "element": "Purple",
         "rarity": 5,
+        "class": "Fighter",
+        "speed": "fast",
         "Release date": "2024-11-05",
         "AetherPower": "Rage",
         "skill_types": [
@@ -20443,6 +22157,8 @@ window.allHeroesExtra = [
         "fancy name": "Imperial Lancer",
         "element": "Purple",
         "rarity": 5,
+        "class": "Fighter",
+        "speed": "fast",
         "Release date": "2025-01-01",
         "AetherPower": "Attack Up",
         "skill_types": [
@@ -20467,6 +22183,8 @@ window.allHeroesExtra = [
         "fancy name": "The Valiant",
         "element": "Purple",
         "rarity": 5,
+        "class": "Paladin",
+        "speed": "average",
         "Release date": "2020-10-01",
         "AetherPower": "Ailment Immunity",
         "skill_types": [
@@ -20489,6 +22207,8 @@ window.allHeroesExtra = [
         "fancy name": "Talented Trapper",
         "element": "Red",
         "rarity": 1,
+        "class": "Ranger",
+        "speed": "average",
         "Release date": "2017-03-01",
         "AetherPower": "Defense Up",
         "skill_types": [
@@ -20507,6 +22227,8 @@ window.allHeroesExtra = [
         "fancy name": "Sly Sellsword",
         "element": "Red",
         "rarity": 1,
+        "class": "Rogue",
+        "speed": "fast",
         "Release date": "2017-03-01",
         "AetherPower": "Attack Up",
         "skill_types": [
@@ -20525,6 +22247,8 @@ window.allHeroesExtra = [
         "fancy name": "Rugged Brawler",
         "element": "Red",
         "rarity": 2,
+        "class": "Barbarian",
+        "speed": "average",
         "Release date": "2017-03-01",
         "AetherPower": "Attack Up",
         "skill_types": [
@@ -20543,6 +22267,8 @@ window.allHeroesExtra = [
         "fancy name": "Youthful Traveler",
         "element": "Red",
         "rarity": 2,
+        "class": "Fighter",
+        "speed": "average",
         "Release date": "2017-03-01",
         "AetherPower": "Defense Up",
         "skill_types": [
@@ -20561,6 +22287,8 @@ window.allHeroesExtra = [
         "fancy name": "Servant of the Old Ones",
         "element": "Red",
         "rarity": 2,
+        "class": "Sorcerer",
+        "speed": "average",
         "Release date": "2017-03-01",
         "AetherPower": "Defense Up",
         "skill_types": [
@@ -20579,6 +22307,8 @@ window.allHeroesExtra = [
         "fancy name": "Half-Blood Fighter",
         "element": "Red",
         "rarity": 2,
+        "class": "Barbarian",
+        "speed": "average",
         "Release date": "2017-03-01",
         "AetherPower": "Attack Up",
         "skill_types": [
@@ -20597,6 +22327,8 @@ window.allHeroesExtra = [
         "fancy name": "Seeker of Throne",
         "element": "Red",
         "rarity": 3,
+        "class": "Barbarian",
+        "speed": "fast",
         "Release date": "2017-03-01",
         "AetherPower": "Rage",
         "skill_types": [
@@ -20616,6 +22348,8 @@ window.allHeroesExtra = [
         "fancy name": "Seeker of Gods",
         "element": "Red",
         "rarity": 3,
+        "class": "Ranger",
+        "speed": "fast",
         "Release date": "2020-05-18",
         "AetherPower": "Dodge",
         "skill_types": [
@@ -20641,6 +22375,8 @@ window.allHeroesExtra = [
         "fancy name": "Seeker of Toons",
         "element": "Red",
         "rarity": 3,
+        "class": "Barbarian",
+        "speed": "fast",
         "Release date": "2024-03-11",
         "AetherPower": "Rage",
         "skill_types": [
@@ -20669,6 +22405,8 @@ window.allHeroesExtra = [
         "fancy name": "Seeker of Glass",
         "element": "Red",
         "rarity": 3,
+        "class": "Barbarian",
+        "speed": "fast",
         "Release date": "2025-04-23",
         "AetherPower": "Rage",
         "skill_types": [
@@ -20697,6 +22435,8 @@ window.allHeroesExtra = [
         "fancy name": "Fishman Skirmish Leader",
         "element": "Red",
         "rarity": 3,
+        "class": "Ranger",
+        "speed": "changing_tides",
         "Release date": "2023-06-07",
         "AetherPower": "Dodge",
         "skill_types": [
@@ -20718,6 +22458,8 @@ window.allHeroesExtra = [
         "fancy name": "Fishboy Scout",
         "element": "Red",
         "rarity": 3,
+        "class": "Rogue",
+        "speed": "changing_tides",
         "Release date": "2025-04-29",
         "AetherPower": "Damage Reduction",
         "skill_types": [
@@ -20747,6 +22489,8 @@ window.allHeroesExtra = [
         "fancy name": "Mouse of the Hunt",
         "element": "Red",
         "rarity": 3,
+        "class": "Druid",
+        "speed": "slow",
         "Release date": "2022-12-24",
         "AetherPower": "Damage Reduction",
         "skill_types": [
@@ -20770,6 +22514,8 @@ window.allHeroesExtra = [
         "fancy name": "Imp of Avalon",
         "element": "Red",
         "rarity": 3,
+        "class": "Monk",
+        "speed": "average",
         "Release date": "2019-09-12",
         "AetherPower": "Counterattack",
         "skill_types": [
@@ -20790,6 +22536,8 @@ window.allHeroesExtra = [
         "fancy name": "Oblivious Guard",
         "element": "Red",
         "rarity": 3,
+        "class": "Barbarian",
+        "speed": "average",
         "Release date": "2023-09-18",
         "AetherPower": "Attack Up",
         "skill_types": [
@@ -20812,6 +22560,8 @@ window.allHeroesExtra = [
         "fancy name": "Grumpy Garden Gnome",
         "element": "Red",
         "rarity": 3,
+        "class": "Barbarian",
+        "speed": "slow",
         "Release date": "2022-12-01",
         "AetherPower": "Dodge",
         "skill_types": [
@@ -20832,6 +22582,8 @@ window.allHeroesExtra = [
         "fancy name": "Adventurer of the Underworld",
         "element": "Red",
         "rarity": 3,
+        "class": "Rogue",
+        "speed": "styx",
         "Release date": "2022-09-21",
         "AetherPower": "Special Boost",
         "skill_types": [
@@ -20855,6 +22607,8 @@ window.allHeroesExtra = [
         "fancy name": "Cursed Viking Battler",
         "element": "Red",
         "rarity": 3,
+        "class": "Paladin",
+        "speed": "average",
         "Release date": "2020-02-27",
         "AetherPower": "Ailment Immunity",
         "skill_types": [
@@ -20874,6 +22628,8 @@ window.allHeroesExtra = [
         "fancy name": "Ferocious Viking Battler",
         "element": "Red",
         "rarity": 3,
+        "class": "Barbarian",
+        "speed": "average",
         "Release date": "2023-02-13",
         "AetherPower": "Rage",
         "skill_types": [
@@ -20899,6 +22655,8 @@ window.allHeroesExtra = [
         "fancy name": "Devoted Squire",
         "element": "Red",
         "rarity": 3,
+        "class": "Fighter",
+        "speed": "fast",
         "Release date": "2023-10-18",
         "AetherPower": "Defense Up",
         "skill_types": [
@@ -20921,6 +22679,8 @@ window.allHeroesExtra = [
         "fancy name": "Ascendant Shaman",
         "element": "Red",
         "rarity": 3,
+        "class": "Cleric",
+        "speed": "average",
         "Release date": "2017-03-01",
         "AetherPower": "Defense Up",
         "skill_types": [
@@ -20939,6 +22699,8 @@ window.allHeroesExtra = [
         "fancy name": "Ascendant Mender",
         "element": "Red",
         "rarity": 3,
+        "class": "Sorcerer",
+        "speed": "average",
         "Release date": "2020-01-01",
         "AetherPower": "Special Armor",
         "skill_types": [
@@ -20964,6 +22726,8 @@ window.allHeroesExtra = [
         "fancy name": "Ascendant Toon",
         "element": "Red",
         "rarity": 3,
+        "class": "Cleric",
+        "speed": "average",
         "Release date": "2024-05-06",
         "AetherPower": "Defense Up",
         "skill_types": [
@@ -20991,6 +22755,8 @@ window.allHeroesExtra = [
         "fancy name": "Dwarven Rage Runner",
         "element": "Red",
         "rarity": 3,
+        "class": "Paladin",
+        "speed": "slow",
         "Release date": "2024-12-03",
         "AetherPower": "Attack Up",
         "skill_types": [
@@ -21017,6 +22783,8 @@ window.allHeroesExtra = [
         "fancy name": "Mage from the Sandsea",
         "element": "Red",
         "rarity": 3,
+        "class": "Sorcerer",
+        "speed": "slow",
         "Release date": "2017-03-01",
         "AetherPower": "Defense Up",
         "skill_types": [
@@ -21036,6 +22804,8 @@ window.allHeroesExtra = [
         "fancy name": "Wizard from the Sandsea",
         "element": "Red",
         "rarity": 3,
+        "class": "Wizard",
+        "speed": "slow",
         "Release date": "2021-01-18",
         "AetherPower": "Regen",
         "skill_types": [
@@ -21061,6 +22831,8 @@ window.allHeroesExtra = [
         "fancy name": "Mage from the Toon Sea",
         "element": "Red",
         "rarity": 3,
+        "class": "Sorcerer",
+        "speed": "slow",
         "Release date": "2023-12-25",
         "AetherPower": "Defense Up",
         "skill_types": [
@@ -21089,6 +22861,8 @@ window.allHeroesExtra = [
         "fancy name": "Nomad from the Glass Sea",
         "element": "Red",
         "rarity": 3,
+        "class": "Sorcerer",
+        "speed": "slow",
         "Release date": "2024-12-25",
         "AetherPower": "Defense Up",
         "skill_types": [
@@ -21117,6 +22891,8 @@ window.allHeroesExtra = [
         "fancy name": "Veteran Caretaker",
         "element": "Red",
         "rarity": 3,
+        "class": "Druid",
+        "speed": "charge_magic",
         "Release date": "2021-09-15",
         "AetherPower": "Defense Up",
         "skill_types": [
@@ -21138,6 +22914,8 @@ window.allHeroesExtra = [
         "fancy name": "Wu Footsoldier",
         "element": "Red",
         "rarity": 3,
+        "class": "Paladin",
+        "speed": "slow",
         "Release date": "2022-03-14",
         "AetherPower": "Regen",
         "skill_types": [
@@ -21158,6 +22936,8 @@ window.allHeroesExtra = [
         "fancy name": "Red-Haired Devil of Water Margin",
         "element": "Red",
         "rarity": 3,
+        "class": "Fighter",
+        "speed": "slow",
         "Release date": "2025-05-22",
         "AetherPower": "Taunt",
         "skill_types": [
@@ -21182,6 +22962,8 @@ window.allHeroesExtra = [
         "fancy name": "Straw Demon",
         "element": "Red",
         "rarity": 3,
+        "class": "Barbarian",
+        "speed": "fast",
         "Release date": "2019-08-01",
         "AetherPower": "Dodge",
         "skill_types": [
@@ -21201,6 +22983,8 @@ window.allHeroesExtra = [
         "fancy name": "First in Battle",
         "element": "Red",
         "rarity": 3,
+        "class": "Barbarian",
+        "speed": "fast",
         "Release date": "2017-03-01",
         "AetherPower": "Attack Up",
         "skill_types": [
@@ -21220,6 +23004,8 @@ window.allHeroesExtra = [
         "fancy name": "Last to Retreat",
         "element": "Red",
         "rarity": 3,
+        "class": "Rogue",
+        "speed": "fast",
         "Release date": "2021-01-18",
         "AetherPower": "Special Boost",
         "skill_types": [
@@ -21245,6 +23031,8 @@ window.allHeroesExtra = [
         "fancy name": "First Toon in Battle",
         "element": "Red",
         "rarity": 3,
+        "class": "Barbarian",
+        "speed": "fast",
         "Release date": "2024-05-31",
         "AetherPower": "Attack Up",
         "skill_types": [
@@ -21273,6 +23061,8 @@ window.allHeroesExtra = [
         "fancy name": "Intellect of Wonderland",
         "element": "Red",
         "rarity": 3,
+        "class": "Monk",
+        "speed": "fast",
         "Release date": "2021-12-15",
         "AetherPower": "Defense Up",
         "skill_types": [
@@ -21292,6 +23082,8 @@ window.allHeroesExtra = [
         "fancy name": "Young Moth Painter",
         "element": "Red",
         "rarity": 3,
+        "class": "Wizard",
+        "speed": "average",
         "Release date": "2025-01-23",
         "AetherPower": "Attack Up",
         "skill_types": [
@@ -21316,6 +23108,8 @@ window.allHeroesExtra = [
         "fancy name": "Santa's Loyal Steed",
         "element": "Red",
         "rarity": 3,
+        "class": "Fighter",
+        "speed": "fast",
         "Release date": "2018-12-02",
         "AetherPower": "Attack Up",
         "skill_types": [
@@ -21336,6 +23130,8 @@ window.allHeroesExtra = [
         "fancy name": "Furry Woodcutter",
         "element": "Red",
         "rarity": 3,
+        "class": "Barbarian",
+        "speed": "slow",
         "Release date": "2022-11-03",
         "AetherPower": "Regen",
         "skill_types": [
@@ -21359,6 +23155,8 @@ window.allHeroesExtra = [
         "fancy name": "Ratman Scoundrel",
         "element": "Red",
         "rarity": 3,
+        "class": "Rogue",
+        "speed": "average",
         "Release date": "2021-02-11",
         "AetherPower": "Special Boost",
         "skill_types": [
@@ -21378,6 +23176,8 @@ window.allHeroesExtra = [
         "fancy name": "Squire of Springvale",
         "element": "Red",
         "rarity": 3,
+        "class": "Ranger",
+        "speed": "fast",
         "Release date": "2018-03-28",
         "AetherPower": "Rage",
         "skill_types": [
@@ -21397,6 +23197,8 @@ window.allHeroesExtra = [
         "fancy name": "Astral Elf Youth",
         "element": "Red",
         "rarity": 3,
+        "class": "Fighter",
+        "speed": "average",
         "Release date": "2024-03-07",
         "AetherPower": "Attack Up",
         "skill_types": [
@@ -21420,6 +23222,8 @@ window.allHeroesExtra = [
         "fancy name": "Fire Dwarf of Muspelheim",
         "element": "Red",
         "rarity": 3,
+        "class": "Ranger",
+        "speed": "slow",
         "Release date": "2020-05-28",
         "AetherPower": "Defense Up",
         "skill_types": [
@@ -21439,6 +23243,8 @@ window.allHeroesExtra = [
         "fancy name": "Morlock Hoarder",
         "element": "Red",
         "rarity": 3,
+        "class": "Paladin",
+        "speed": "slow",
         "Release date": "2021-03-25",
         "AetherPower": "Fiend Resist",
         "skill_types": [
@@ -21460,6 +23266,8 @@ window.allHeroesExtra = [
         "fancy name": "Morlock Bartender",
         "element": "Red",
         "rarity": 3,
+        "class": "Druid",
+        "speed": "slow",
         "Release date": "2024-04-25",
         "AetherPower": "Regen",
         "skill_types": [
@@ -21487,6 +23295,8 @@ window.allHeroesExtra = [
         "fancy name": "Pharaoh's Shield",
         "element": "Red",
         "rarity": 3,
+        "class": "Paladin",
+        "speed": "slow",
         "Release date": "2022-04-21",
         "AetherPower": "Regen",
         "skill_types": [
@@ -21508,6 +23318,8 @@ window.allHeroesExtra = [
         "fancy name": "Pharaoh's Blade",
         "element": "Red",
         "rarity": 3,
+        "class": "Barbarian",
+        "speed": "slow",
         "Release date": "2025-04-14",
         "AetherPower": "Rage",
         "skill_types": [
@@ -21538,6 +23350,8 @@ window.allHeroesExtra = [
         "fancy name": "The Burning",
         "element": "Red",
         "rarity": 4,
+        "class": "Wizard",
+        "speed": "slayer",
         "Release date": "2021-08-05",
         "AetherPower": "Fiend Resist",
         "skill_types": [
@@ -21564,6 +23378,8 @@ window.allHeroesExtra = [
         "fancy name": "The Unwavering",
         "element": "Red",
         "rarity": 4,
+        "class": "Fighter",
+        "speed": "average",
         "Release date": "2017-03-01",
         "AetherPower": "Defense Up",
         "skill_types": [
@@ -21583,6 +23399,8 @@ window.allHeroesExtra = [
         "fancy name": "Cast Iron Chef",
         "element": "Red",
         "rarity": 4,
+        "class": "Monk",
+        "speed": "average",
         "Release date": "2020-01-01",
         "AetherPower": "Counterattack",
         "skill_types": [
@@ -21608,6 +23426,8 @@ window.allHeroesExtra = [
         "fancy name": "The Feral Sage",
         "element": "Red",
         "rarity": 4,
+        "class": "Cleric",
+        "speed": "average",
         "Release date": "2023-06-12",
         "AetherPower": "Special Armor",
         "skill_types": [
@@ -21634,6 +23454,8 @@ window.allHeroesExtra = [
         "fancy name": "The Unwavering Toon",
         "element": "Red",
         "rarity": 4,
+        "class": "Fighter",
+        "speed": "average",
         "Release date": "2023-12-25",
         "AetherPower": "Defense Up",
         "skill_types": [
@@ -21661,6 +23483,8 @@ window.allHeroesExtra = [
         "fancy name": "The Reflecting",
         "element": "Red",
         "rarity": 4,
+        "class": "Fighter",
+        "speed": "average",
         "Release date": "2024-12-25",
         "AetherPower": "Heal Increase",
         "skill_types": [
@@ -21689,6 +23513,8 @@ window.allHeroesExtra = [
         "fancy name": "Santa's Little Helper",
         "element": "Red",
         "rarity": 4,
+        "class": "Sorcerer",
+        "speed": "fast",
         "Release date": "2020-12-01",
         "AetherPower": "Special Armor",
         "skill_types": [
@@ -21709,6 +23535,8 @@ window.allHeroesExtra = [
         "fancy name": "The Undying",
         "element": "Red",
         "rarity": 4,
+        "class": "Fighter",
+        "speed": "slayer",
         "Release date": "2021-08-05",
         "AetherPower": "Attack Up",
         "skill_types": [
@@ -21734,6 +23562,8 @@ window.allHeroesExtra = [
         "fancy name": "Brave Bounty Hunter",
         "element": "Red",
         "rarity": 4,
+        "class": "Fighter",
+        "speed": "slow",
         "Release date": "2017-03-01",
         "AetherPower": "Attack Up",
         "skill_types": [
@@ -21753,6 +23583,8 @@ window.allHeroesExtra = [
         "fancy name": "Fiery Bounty Hunter",
         "element": "Red",
         "rarity": 4,
+        "class": "Paladin",
+        "speed": "slow",
         "Release date": "2021-01-18",
         "AetherPower": "Special Boost",
         "skill_types": [
@@ -21778,6 +23610,8 @@ window.allHeroesExtra = [
         "fancy name": "Brave Tracker",
         "element": "Red",
         "rarity": 4,
+        "class": "Ranger",
+        "speed": "slow",
         "Release date": "2023-06-12",
         "AetherPower": "Counterattack",
         "skill_types": [
@@ -21804,6 +23638,8 @@ window.allHeroesExtra = [
         "fancy name": "Toon Bounty Hunter",
         "element": "Red",
         "rarity": 4,
+        "class": "Fighter",
+        "speed": "slow",
         "Release date": "2024-03-11",
         "AetherPower": "Attack Up",
         "skill_types": [
@@ -21832,6 +23668,8 @@ window.allHeroesExtra = [
         "fancy name": "Glass Bounty hunter",
         "element": "Red",
         "rarity": 4,
+        "class": "Fighter",
+        "speed": "slow",
         "Release date": "2025-04-08",
         "AetherPower": "Attack Up",
         "skill_types": [
@@ -21860,6 +23698,8 @@ window.allHeroesExtra = [
         "fancy name": "Boastful Bodybuilder",
         "element": "Red",
         "rarity": 4,
+        "class": "Monk",
+        "speed": "fast",
         "Release date": "2021-06-10",
         "AetherPower": "Counterattack",
         "skill_types": [
@@ -21879,6 +23719,8 @@ window.allHeroesExtra = [
         "fancy name": "Warden of the Castle",
         "element": "Red",
         "rarity": 4,
+        "class": "Druid",
+        "speed": "average",
         "Release date": "2021-10-13",
         "AetherPower": "Regen",
         "skill_types": [
@@ -21898,6 +23740,8 @@ window.allHeroesExtra = [
         "fancy name": "Warden of the Wolves",
         "element": "Red",
         "rarity": 4,
+        "class": "Fighter",
+        "speed": "average",
         "Release date": "2024-12-17",
         "AetherPower": "Damage Reduction",
         "skill_types": [
@@ -21925,6 +23769,8 @@ window.allHeroesExtra = [
         "fancy name": "The Hungry",
         "element": "Red",
         "rarity": 4,
+        "class": "Barbarian",
+        "speed": "average",
         "Release date": "2017-03-01",
         "AetherPower": "Rage",
         "skill_types": [
@@ -21944,6 +23790,8 @@ window.allHeroesExtra = [
         "fancy name": "The Coveteus",
         "element": "Red",
         "rarity": 4,
+        "class": "Wizard",
+        "speed": "average",
         "Release date": "2021-01-18",
         "AetherPower": "Special Boost",
         "skill_types": [
@@ -21970,6 +23818,8 @@ window.allHeroesExtra = [
         "fancy name": "The Epicurean",
         "element": "Red",
         "rarity": 4,
+        "class": "Cleric",
+        "speed": "average",
         "Release date": "2023-04-17",
         "AetherPower": "Counterattack",
         "skill_types": [
@@ -21995,6 +23845,8 @@ window.allHeroesExtra = [
         "fancy name": "The Hungry Toon",
         "element": "Red",
         "rarity": 4,
+        "class": "Barbarian",
+        "speed": "average",
         "Release date": "2024-05-06",
         "AetherPower": "Rage",
         "skill_types": [
@@ -22023,6 +23875,8 @@ window.allHeroesExtra = [
         "fancy name": "The Hungry Vitrail",
         "element": "Red",
         "rarity": 4,
+        "class": "Barbarian",
+        "speed": "average",
         "Release date": "2025-05-10",
         "AetherPower": "Rage",
         "skill_types": [
@@ -22051,6 +23905,8 @@ window.allHeroesExtra = [
         "fancy name": "Priest of Teltoc",
         "element": "Red",
         "rarity": 4,
+        "class": "Paladin",
+        "speed": "average",
         "Release date": "2017-10-05",
         "AetherPower": "Ailment Immunity",
         "skill_types": [
@@ -22070,6 +23926,8 @@ window.allHeroesExtra = [
         "fancy name": "Elf Swimming School Instructor",
         "element": "Red",
         "rarity": 4,
+        "class": "Paladin",
+        "speed": "average",
         "Release date": "2023-06-12",
         "AetherPower": "Attack Up",
         "skill_types": [
@@ -22093,6 +23951,8 @@ window.allHeroesExtra = [
         "fancy name": "Sworn Soldier",
         "element": "Red",
         "rarity": 4,
+        "class": "Fighter",
+        "speed": "fast",
         "Release date": "2022-04-21",
         "AetherPower": "Special Boost",
         "skill_types": [
@@ -22114,6 +23974,8 @@ window.allHeroesExtra = [
         "fancy name": "Sworn Champion",
         "element": "Red",
         "rarity": 4,
+        "class": "Paladin",
+        "speed": "fast",
         "Release date": "2024-11-01",
         "AetherPower": "Attack Up",
         "skill_types": [
@@ -22144,6 +24006,8 @@ window.allHeroesExtra = [
         "fancy name": "Priestess of Dragonia",
         "element": "Red",
         "rarity": 4,
+        "class": "Rogue",
+        "speed": "fast",
         "Release date": "2017-03-01",
         "AetherPower": "Attack Up",
         "skill_types": [
@@ -22163,6 +24027,8 @@ window.allHeroesExtra = [
         "fancy name": "Shaman of Dragonia",
         "element": "Red",
         "rarity": 4,
+        "class": "Druid",
+        "speed": "fast",
         "Release date": "2021-01-18",
         "AetherPower": "Rage",
         "skill_types": [
@@ -22187,6 +24053,8 @@ window.allHeroesExtra = [
         "fancy name": "Sorceress of Dragonia",
         "element": "Red",
         "rarity": 4,
+        "class": "Sorcerer",
+        "speed": "fast",
         "Release date": "2022-09-05",
         "AetherPower": "Special Boost",
         "skill_types": [
@@ -22213,6 +24081,8 @@ window.allHeroesExtra = [
         "fancy name": "Toon of Dragonia",
         "element": "Red",
         "rarity": 4,
+        "class": "Rogue",
+        "speed": "fast",
         "Release date": "2024-04-08",
         "AetherPower": "Attack Up",
         "skill_types": [
@@ -22241,6 +24111,8 @@ window.allHeroesExtra = [
         "fancy name": "Vitrail of Dragonia",
         "element": "Red",
         "rarity": 4,
+        "class": "Rogue",
+        "speed": "fast",
         "Release date": "2025-04-23",
         "AetherPower": "Attack Up",
         "skill_types": [
@@ -22269,6 +24141,8 @@ window.allHeroesExtra = [
         "fancy name": "Undying Champion",
         "element": "Red",
         "rarity": 4,
+        "class": "Barbarian",
+        "speed": "average",
         "Release date": "2022-06-20",
         "AetherPower": "Dodge",
         "skill_types": [
@@ -22290,6 +24164,8 @@ window.allHeroesExtra = [
         "fancy name": "Mageball Prodigy",
         "element": "Red",
         "rarity": 4,
+        "class": "Wizard",
+        "speed": "charge_magic",
         "Release date": "2023-05-03",
         "AetherPower": "Attack Up",
         "skill_types": [
@@ -22316,6 +24192,8 @@ window.allHeroesExtra = [
         "fancy name": "Halfling Adventurer",
         "element": "Red",
         "rarity": 4,
+        "class": "Fighter",
+        "speed": "average",
         "Release date": "2021-03-25",
         "AetherPower": "Regen",
         "skill_types": [
@@ -22337,6 +24215,8 @@ window.allHeroesExtra = [
         "fancy name": "Halfling Novelist",
         "element": "Red",
         "rarity": 4,
+        "class": "Monk",
+        "speed": "average",
         "Release date": "2024-05-23",
         "AetherPower": "Damage Reduction",
         "skill_types": [
@@ -22364,6 +24244,8 @@ window.allHeroesExtra = [
         "fancy name": "Wolf Tracker",
         "element": "Red",
         "rarity": 4,
+        "class": "Monk",
+        "speed": "average",
         "Release date": "2022-08-25",
         "AetherPower": "Fiend Resist",
         "skill_types": [
@@ -22387,6 +24269,8 @@ window.allHeroesExtra = [
         "fancy name": "Nervous Magic Carpet Flier",
         "element": "Red",
         "rarity": 4,
+        "class": "Rogue",
+        "speed": "average",
         "Release date": "2025-04-17",
         "AetherPower": "Attack Up",
         "skill_types": [
@@ -22411,6 +24295,8 @@ window.allHeroesExtra = [
         "fancy name": "Fire Spirit Collector",
         "element": "Red",
         "rarity": 4,
+        "class": "Druid",
+        "speed": "average",
         "Release date": "2023-10-09",
         "AetherPower": "Defense Up",
         "skill_types": [
@@ -22433,6 +24319,8 @@ window.allHeroesExtra = [
         "fancy name": "Lovesick Nobleman",
         "element": "Red",
         "rarity": 4,
+        "class": "Fighter",
+        "speed": "average",
         "Release date": "2023-11-30",
         "AetherPower": "Attack Up",
         "skill_types": [
@@ -22461,6 +24349,8 @@ window.allHeroesExtra = [
         "fancy name": "Ettin Smasher",
         "element": "Red",
         "rarity": 4,
+        "class": "Barbarian",
+        "speed": "fast",
         "Release date": "2021-03-25",
         "AetherPower": "Rage",
         "skill_types": [
@@ -22483,6 +24373,8 @@ window.allHeroesExtra = [
         "fancy name": "Ettin Mason",
         "element": "Red",
         "rarity": 4,
+        "class": "Fighter",
+        "speed": "fast",
         "Release date": "2024-04-25",
         "AetherPower": "Attack Up",
         "skill_types": [
@@ -22511,6 +24403,8 @@ window.allHeroesExtra = [
         "fancy name": "Raider from the Sandsea",
         "element": "Red",
         "rarity": 4,
+        "class": "Rogue",
+        "speed": "fast",
         "Release date": "2017-03-01",
         "AetherPower": "Attack Up",
         "skill_types": [
@@ -22530,6 +24424,8 @@ window.allHeroesExtra = [
         "fancy name": "Assassin from the Sandsea",
         "element": "Red",
         "rarity": 4,
+        "class": "Ranger",
+        "speed": "fast",
         "Release date": "2021-01-18",
         "AetherPower": "Dodge",
         "skill_types": [
@@ -22556,6 +24452,8 @@ window.allHeroesExtra = [
         "fancy name": "Dancer from the Sandsea",
         "element": "Red",
         "rarity": 4,
+        "class": "Sorcerer",
+        "speed": "fast",
         "Release date": "2023-10-30",
         "AetherPower": "Special Boost",
         "skill_types": [
@@ -22582,6 +24480,8 @@ window.allHeroesExtra = [
         "fancy name": "Raider from the Toon Sea",
         "element": "Red",
         "rarity": 4,
+        "class": "Rogue",
+        "speed": "fast",
         "Release date": "2024-08-11",
         "AetherPower": "Attack Up",
         "skill_types": [
@@ -22610,6 +24510,8 @@ window.allHeroesExtra = [
         "fancy name": "Brutish Draugr",
         "element": "Red",
         "rarity": 4,
+        "class": "Fighter",
+        "speed": "slow",
         "Release date": "2020-05-28",
         "AetherPower": "Mana Boost",
         "skill_types": [
@@ -22629,6 +24531,8 @@ window.allHeroesExtra = [
         "fancy name": "Ninja of Flying Vigor",
         "element": "Red",
         "rarity": 4,
+        "class": "Wizard",
+        "speed": "charge_ninja",
         "Release date": "2020-10-13",
         "AetherPower": "Damage Reduction",
         "skill_types": [
@@ -22648,6 +24552,8 @@ window.allHeroesExtra = [
         "fancy name": "Knight of Avalon",
         "element": "Red",
         "rarity": 4,
+        "class": "Fighter",
+        "speed": "average",
         "Release date": "2018-01-05",
         "AetherPower": "Special Boost",
         "skill_types": [
@@ -22668,6 +24574,8 @@ window.allHeroesExtra = [
         "fancy name": "Daimyo of Deceit",
         "element": "Red",
         "rarity": 4,
+        "class": "Fighter",
+        "speed": "average",
         "Release date": "2019-08-01",
         "AetherPower": "Attack Up",
         "skill_types": [
@@ -22688,6 +24596,8 @@ window.allHeroesExtra = [
         "fancy name": "Khevtuul of Guile",
         "element": "Red",
         "rarity": 4,
+        "class": "Barbarian",
+        "speed": "average",
         "Release date": "2023-04-03",
         "AetherPower": "Special Boost",
         "skill_types": [
@@ -22714,6 +24624,8 @@ window.allHeroesExtra = [
         "fancy name": "Burly Fire Giant",
         "element": "Red",
         "rarity": 4,
+        "class": "Monk",
+        "speed": "slow",
         "Release date": "2020-02-27",
         "AetherPower": "Counterattack",
         "skill_types": [
@@ -22734,6 +24646,8 @@ window.allHeroesExtra = [
         "fancy name": "Unhallowed Fire Giant",
         "element": "Red",
         "rarity": 4,
+        "class": "Druid",
+        "speed": "slow",
         "Release date": "2022-07-04",
         "AetherPower": "Ailment Immunity",
         "skill_types": [
@@ -22760,6 +24674,8 @@ window.allHeroesExtra = [
         "fancy name": "Noble Battler",
         "element": "Red",
         "rarity": 4,
+        "class": "Fighter",
+        "speed": "average",
         "Release date": "2022-03-14",
         "AetherPower": "Attack Up",
         "skill_types": [
@@ -22779,6 +24695,8 @@ window.allHeroesExtra = [
         "fancy name": "Fiery Gargoyle",
         "element": "Red",
         "rarity": 4,
+        "class": "Monk",
+        "speed": "average",
         "Release date": "2024-10-17",
         "AetherPower": "Fiend Resist",
         "skill_types": [
@@ -22803,6 +24721,8 @@ window.allHeroesExtra = [
         "fancy name": "Valiant Fisherman",
         "element": "Red",
         "rarity": 4,
+        "class": "Monk",
+        "speed": "average",
         "Release date": "2019-08-01",
         "AetherPower": "Regen",
         "skill_types": [
@@ -22823,6 +24743,8 @@ window.allHeroesExtra = [
         "fancy name": "Bold Brewmaster",
         "element": "Red",
         "rarity": 4,
+        "class": "Cleric",
+        "speed": "average",
         "Release date": "2022-05-02",
         "AetherPower": "Defense Up",
         "skill_types": [
@@ -22848,6 +24770,8 @@ window.allHeroesExtra = [
         "fancy name": "Bard of Eloquence",
         "element": "Red",
         "rarity": 4,
+        "class": "Druid",
+        "speed": "fast",
         "Release date": "2022-08-11",
         "AetherPower": "Attack Up",
         "skill_types": [
@@ -22870,6 +24794,8 @@ window.allHeroesExtra = [
         "fancy name": "Young Commander",
         "element": "Red",
         "rarity": 4,
+        "class": "Ranger",
+        "speed": "average",
         "Release date": "2022-03-14",
         "AetherPower": "Attack Up",
         "skill_types": [
@@ -22890,6 +24816,8 @@ window.allHeroesExtra = [
         "fancy name": "Raven Commander",
         "element": "Red",
         "rarity": 4,
+        "class": "Rogue",
+        "speed": "average",
         "Release date": "2025-01-29",
         "AetherPower": "Special Boost",
         "skill_types": [
@@ -22918,6 +24846,8 @@ window.allHeroesExtra = [
         "fancy name": "Investigative Journalist",
         "element": "Red",
         "rarity": 5,
+        "class": "Paladin",
+        "speed": "average",
         "Release date": "2024-05-26",
         "AetherPower": "Defense Up",
         "skill_types": [
@@ -22941,6 +24871,8 @@ window.allHeroesExtra = [
         "fancy name": "Dwarven Fire Seeker",
         "element": "Red",
         "rarity": 5,
+        "class": "Fighter",
+        "speed": "slow",
         "Release date": "2025-03-23",
         "AetherPower": "Regen",
         "skill_types": [
@@ -22970,6 +24902,8 @@ window.allHeroesExtra = [
         "fancy name": "Vampire Scion",
         "element": "Red",
         "rarity": 5,
+        "class": "Sorcerer",
+        "speed": "very_fast",
         "Release date": "2022-10-03",
         "AetherPower": "Vampire",
         "skill_types": [
@@ -22994,6 +24928,8 @@ window.allHeroesExtra = [
         "fancy name": "Vampire Kingpin",
         "element": "Red",
         "rarity": 5,
+        "class": "Wizard",
+        "speed": "very_fast",
         "Release date": "2024-09-23",
         "AetherPower": "Revive",
         "skill_types": [
@@ -23024,6 +24960,8 @@ window.allHeroesExtra = [
         "fancy name": "Vampire Blood Warrior",
         "element": "Red",
         "rarity": 5,
+        "class": "Fighter",
+        "speed": "average",
         "Release date": "2023-09-25",
         "AetherPower": "Vampire",
         "skill_types": [
@@ -23046,6 +24984,8 @@ window.allHeroesExtra = [
         "fancy name": "Reveler of Sunlit Shores",
         "element": "Red",
         "rarity": 5,
+        "class": "Sorcerer",
+        "speed": "slow",
         "Release date": "2025-06-03",
         "AetherPower": "Ailment Immunity",
         "skill_types": [
@@ -23069,6 +25009,8 @@ window.allHeroesExtra = [
         "fancy name": "Shaman with a Grudge",
         "element": "Red",
         "rarity": 5,
+        "class": "Wizard",
+        "speed": "average",
         "Release date": "2019-04-01",
         "AetherPower": "Special Boost",
         "skill_types": [
@@ -23091,6 +25033,8 @@ window.allHeroesExtra = [
         "fancy name": "Masked Goddess of Witchcraft",
         "element": "Red",
         "rarity": 5,
+        "class": "Wizard",
+        "speed": "average",
         "Release date": "2023-07-13",
         "AetherPower": "Counterattack",
         "skill_types": [
@@ -23113,6 +25057,8 @@ window.allHeroesExtra = [
         "fancy name": "Fearsome Faun Warrior",
         "element": "Red",
         "rarity": 5,
+        "class": "Barbarian",
+        "speed": "fast",
         "Release date": "2024-10-23",
         "AetherPower": "Special Boost",
         "skill_types": [
@@ -23139,6 +25085,8 @@ window.allHeroesExtra = [
         "fancy name": "Deity of War",
         "element": "Red",
         "rarity": 5,
+        "class": "Paladin",
+        "speed": "average",
         "Release date": "2017-08-01",
         "AetherPower": "Defense Up",
         "skill_types": [
@@ -23159,6 +25107,8 @@ window.allHeroesExtra = [
         "fancy name": "Keymaster of War",
         "element": "Red",
         "rarity": 5,
+        "class": "Druid",
+        "speed": "average",
         "Release date": "2023-03-20",
         "AetherPower": "Heal Increase",
         "skill_types": [
@@ -23189,6 +25139,8 @@ window.allHeroesExtra = [
         "fancy name": "Fierce Bounty Hunter",
         "element": "Red",
         "rarity": 5,
+        "class": "Rogue",
+        "speed": "average",
         "Release date": "2024-07-14",
         "AetherPower": "Special Boost",
         "skill_types": [
@@ -23211,6 +25163,8 @@ window.allHeroesExtra = [
         "fancy name": "Monstrous Minotaur",
         "element": "Red",
         "rarity": 5,
+        "class": "Druid",
+        "speed": "average",
         "Release date": "2021-02-11",
         "AetherPower": "Bulwark",
         "skill_types": [
@@ -23234,6 +25188,8 @@ window.allHeroesExtra = [
         "fancy name": "Sanguine Kunoichi",
         "element": "Red",
         "rarity": 5,
+        "class": "Barbarian",
+        "speed": "charge_ninja",
         "Release date": "2025-03-05",
         "AetherPower": "Rage",
         "skill_types": [
@@ -23259,6 +25215,8 @@ window.allHeroesExtra = [
         "fancy name": "Last of the Leors",
         "element": "Red",
         "rarity": 5,
+        "class": "Barbarian",
+        "speed": "slow",
         "Release date": "2017-03-01",
         "AetherPower": "Rage",
         "skill_types": [
@@ -23278,6 +25236,8 @@ window.allHeroesExtra = [
         "fancy name": "King of the Leors",
         "element": "Red",
         "rarity": 5,
+        "class": "Paladin",
+        "speed": "slow",
         "Release date": "2020-05-18",
         "AetherPower": "Bulwark",
         "skill_types": [
@@ -23304,6 +25264,8 @@ window.allHeroesExtra = [
         "fancy name": "Leor Babysitter",
         "element": "Red",
         "rarity": 5,
+        "class": "Fighter",
+        "speed": "slow",
         "Release date": "2023-02-20",
         "AetherPower": "Boosted Regen",
         "skill_types": [
@@ -23330,6 +25292,8 @@ window.allHeroesExtra = [
         "fancy name": "Toon Leor",
         "element": "Red",
         "rarity": 5,
+        "class": "Barbarian",
+        "speed": "slow",
         "Release date": "2023-10-30",
         "AetherPower": "Rage",
         "skill_types": [
@@ -23358,6 +25322,8 @@ window.allHeroesExtra = [
         "fancy name": "Glass Leor",
         "element": "Red",
         "rarity": 5,
+        "class": "Barbarian",
+        "speed": "slow",
         "Release date": "2024-12-25",
         "AetherPower": "Rage",
         "skill_types": [
@@ -23386,6 +25352,8 @@ window.allHeroesExtra = [
         "fancy name": "Luminous God",
         "element": "Red",
         "rarity": 5,
+        "class": "Ranger",
+        "speed": "average",
         "Release date": "2020-05-28",
         "AetherPower": "Heal Increase",
         "skill_types": [
@@ -23407,6 +25375,8 @@ window.allHeroesExtra = [
         "fancy name": "Fiery God",
         "element": "Red",
         "rarity": 5,
+        "class": "Monk",
+        "speed": "average",
         "Release date": "2022-11-21",
         "AetherPower": "Boosted Regen",
         "skill_types": [
@@ -23435,6 +25405,8 @@ window.allHeroesExtra = [
         "fancy name": "Pug of War",
         "element": "Red",
         "rarity": 5,
+        "class": "Fighter",
+        "speed": "average",
         "Release date": "2023-05-18",
         "AetherPower": "Ailment Immunity",
         "skill_types": [
@@ -23459,6 +25431,8 @@ window.allHeroesExtra = [
         "fancy name": "Portrait Painter",
         "element": "Red",
         "rarity": 5,
+        "class": "Druid",
+        "speed": "very_slow",
         "Release date": "2024-07-17",
         "AetherPower": "Boosted Regen",
         "skill_types": [
@@ -23481,6 +25455,8 @@ window.allHeroesExtra = [
         "fancy name": "Sword of the Geats",
         "element": "Red",
         "rarity": 5,
+        "class": "Fighter",
+        "speed": "average",
         "Release date": "2025-02-13",
         "AetherPower": "Attack Up",
         "skill_types": [
@@ -23508,6 +25484,8 @@ window.allHeroesExtra = [
         "fancy name": "Son of Vayu",
         "element": "Red",
         "rarity": 5,
+        "class": "Barbarian",
+        "speed": "average",
         "Release date": "2025-06-16",
         "AetherPower": "Heal Increase",
         "skill_types": [
@@ -23535,6 +25513,8 @@ window.allHeroesExtra = [
         "fancy name": "Boatswain of Corellia",
         "element": "Red",
         "rarity": 5,
+        "class": "Cleric",
+        "speed": "average",
         "Release date": "2023-12-28",
         "AetherPower": "Revive",
         "skill_types": [
@@ -23557,6 +25537,8 @@ window.allHeroesExtra = [
         "fancy name": "Terror of Avalon",
         "element": "Red",
         "rarity": 5,
+        "class": "Barbarian",
+        "speed": "average",
         "Release date": "2021-07-09",
         "AetherPower": "Knight's Endurance",
         "skill_types": [
@@ -23577,6 +25559,8 @@ window.allHeroesExtra = [
         "fancy name": "Negative Knight",
         "element": "Red",
         "rarity": 5,
+        "class": "Wizard",
+        "speed": "average",
         "Release date": "2022-06-16",
         "AetherPower": "Taunt",
         "skill_types": [
@@ -23603,6 +25587,8 @@ window.allHeroesExtra = [
         "fancy name": "Porcelain Doll Construct",
         "element": "Red",
         "rarity": 5,
+        "class": "Cleric",
+        "speed": "average",
         "Release date": "2023-08-24",
         "AetherPower": "Regen",
         "skill_types": [
@@ -23627,6 +25613,8 @@ window.allHeroesExtra = [
         "fancy name": "Silverback Chieftain",
         "element": "Red",
         "rarity": 5,
+        "class": "Barbarian",
+        "speed": "fast",
         "Release date": "2023-03-03",
         "AetherPower": "Special Boost",
         "skill_types": [
@@ -23652,6 +25640,8 @@ window.allHeroesExtra = [
         "fancy name": "Hellish Construct",
         "element": "Red",
         "rarity": 5,
+        "class": "Barbarian",
+        "speed": "average",
         "Release date": "2023-07-27",
         "AetherPower": "Attack Up",
         "skill_types": [
@@ -23677,6 +25667,8 @@ window.allHeroesExtra = [
         "fancy name": "Buccaneer Captain of Corellia",
         "element": "Red",
         "rarity": 5,
+        "class": "Rogue",
+        "speed": "fast",
         "Release date": "2017-09-07",
         "AetherPower": "Revive",
         "skill_types": [
@@ -23696,6 +25688,8 @@ window.allHeroesExtra = [
         "fancy name": "Enigmatic Explorer",
         "element": "Red",
         "rarity": 5,
+        "class": "Fighter",
+        "speed": "fast",
         "Release date": "2021-08-12",
         "AetherPower": "Attack Up",
         "skill_types": [
@@ -23717,6 +25711,8 @@ window.allHeroesExtra = [
         "fancy name": "Enigmatic Machinist",
         "element": "Red",
         "rarity": 5,
+        "class": "Wizard",
+        "speed": "fast",
         "Release date": "2023-12-07",
         "AetherPower": "Special Boost",
         "skill_types": [
@@ -23747,6 +25743,8 @@ window.allHeroesExtra = [
         "fancy name": "Duplicitous Duke",
         "element": "Red",
         "rarity": 5,
+        "class": "Sorcerer",
+        "speed": "average",
         "Release date": "2023-09-20",
         "AetherPower": "Fiend Resist",
         "skill_types": [
@@ -23770,6 +25768,8 @@ window.allHeroesExtra = [
         "fancy name": "Masked Goddess of Spells",
         "element": "Red",
         "rarity": 5,
+        "class": "Sorcerer",
+        "speed": "average",
         "Release date": "2023-09-14",
         "AetherPower": "Ailment Immunity",
         "skill_types": [
@@ -23792,6 +25792,8 @@ window.allHeroesExtra = [
         "fancy name": "Astral Dwarf Magus",
         "element": "Red",
         "rarity": 5,
+        "class": "Sorcerer",
+        "speed": "average",
         "Release date": "2025-04-21",
         "AetherPower": "Attack Up",
         "skill_types": [
@@ -23819,6 +25821,8 @@ window.allHeroesExtra = [
         "fancy name": "Prima Donna",
         "element": "Red",
         "rarity": 5,
+        "class": "Sorcerer",
+        "speed": "slow",
         "Release date": "2024-09-19",
         "AetherPower": "Regen",
         "skill_types": [
@@ -23845,6 +25849,8 @@ window.allHeroesExtra = [
         "fancy name": "Charming Theater Goo",
         "element": "Red",
         "rarity": 5,
+        "class": "Cleric",
+        "speed": "slow",
         "Release date": "2025-01-01",
         "AetherPower": "Revive",
         "skill_types": [
@@ -23870,6 +25876,8 @@ window.allHeroesExtra = [
         "fancy name": "Hamster Brawler Champion",
         "element": "Red",
         "rarity": 5,
+        "class": "Paladin",
+        "speed": "average",
         "Release date": "2022-11-03",
         "AetherPower": "Special Boost",
         "skill_types": [
@@ -23893,6 +25901,8 @@ window.allHeroesExtra = [
         "fancy name": "Marquis Moth",
         "element": "Red",
         "rarity": 5,
+        "class": "Paladin",
+        "speed": "average",
         "Release date": "2025-01-23",
         "AetherPower": "Damage Reduction",
         "skill_types": [
@@ -23918,6 +25928,8 @@ window.allHeroesExtra = [
         "fancy name": "Housemaid of Grimforest",
         "element": "Red",
         "rarity": 5,
+        "class": "Cleric",
+        "speed": "fast",
         "Release date": "2024-02-22",
         "AetherPower": "Heal Increase",
         "skill_types": [
@@ -23941,6 +25953,8 @@ window.allHeroesExtra = [
         "fancy name": "Hunting Chieftain",
         "element": "Red",
         "rarity": 5,
+        "class": "Barbarian",
+        "speed": "fast",
         "Release date": "2022-08-25",
         "AetherPower": "Rage",
         "skill_types": [
@@ -23965,6 +25979,8 @@ window.allHeroesExtra = [
         "fancy name": "Gnome Scientist",
         "element": "Red",
         "rarity": 5,
+        "class": "Rogue",
+        "speed": "average",
         "Release date": "2023-12-01",
         "AetherPower": "Ailment Reflect",
         "skill_types": [
@@ -23985,6 +26001,8 @@ window.allHeroesExtra = [
         "fancy name": "Cupid of Affection",
         "element": "Red",
         "rarity": 5,
+        "class": "Ranger",
+        "speed": "average",
         "Release date": "2023-02-14",
         "AetherPower": "Attack Up",
         "skill_types": [
@@ -24007,6 +26025,8 @@ window.allHeroesExtra = [
         "fancy name": "Ardent Musketeer",
         "element": "Red",
         "rarity": 5,
+        "class": "Paladin",
+        "speed": "fast",
         "Release date": "2022-12-14",
         "AetherPower": "Ailment Immunity",
         "skill_types": [
@@ -24029,6 +26049,8 @@ window.allHeroesExtra = [
         "fancy name": "Avenger of the Withered",
         "element": "Red",
         "rarity": 5,
+        "class": "Fighter",
+        "speed": "very_fast",
         "Release date": "2024-01-10",
         "AetherPower": "Attack Up",
         "skill_types": [
@@ -24052,6 +26074,8 @@ window.allHeroesExtra = [
         "fancy name": "The Hogmaster",
         "element": "Red",
         "rarity": 5,
+        "class": "Barbarian",
+        "speed": "average",
         "Release date": "2024-09-29",
         "AetherPower": "Attack Up",
         "skill_types": [
@@ -24076,6 +26100,8 @@ window.allHeroesExtra = [
         "fancy name": "The Eternal Hadal Being",
         "element": "Red",
         "rarity": 5,
+        "class": "Fighter",
+        "speed": "changing_tides",
         "Release date": "2023-12-13",
         "AetherPower": "Attack Up",
         "skill_types": [
@@ -24100,6 +26126,8 @@ window.allHeroesExtra = [
         "fancy name": "The Supreme Hadal Being",
         "element": "Red",
         "rarity": 5,
+        "class": "Sorcerer",
+        "speed": "changing_tides",
         "Release date": "2024-12-14",
         "AetherPower": "Special Boost",
         "skill_types": [
@@ -24132,6 +26160,8 @@ window.allHeroesExtra = [
         "fancy name": "Exiled Plasma Blade",
         "element": "Red",
         "rarity": 5,
+        "class": "Fighter",
+        "speed": "fast",
         "Release date": "2023-03-27",
         "AetherPower": "Attack Up",
         "skill_types": [
@@ -24154,6 +26184,8 @@ window.allHeroesExtra = [
         "fancy name": "The Magmatic Drummer",
         "element": "Red",
         "rarity": 5,
+        "class": "Barbarian",
+        "speed": "slow",
         "Release date": "2025-06-15",
         "AetherPower": "Ailment Immunity",
         "skill_types": [
@@ -24182,6 +26214,8 @@ window.allHeroesExtra = [
         "fancy name": "Hunter Mercenary",
         "element": "Red",
         "rarity": 5,
+        "class": "Monk",
+        "speed": "slow",
         "Release date": "2022-10-15",
         "AetherPower": "Regen",
         "skill_types": [
@@ -24207,6 +26241,8 @@ window.allHeroesExtra = [
         "fancy name": "Exalted Gargoyle",
         "element": "Red",
         "rarity": 5,
+        "class": "Monk",
+        "speed": "very_fast",
         "Release date": "2022-05-12",
         "AetherPower": "Counterattack",
         "skill_types": [
@@ -24230,6 +26266,8 @@ window.allHeroesExtra = [
         "fancy name": "Stalwart Protector of Love",
         "element": "Red",
         "rarity": 5,
+        "class": "Paladin",
+        "speed": "average",
         "Release date": "2024-01-08",
         "AetherPower": "Damage Reduction",
         "skill_types": [
@@ -24252,6 +26290,8 @@ window.allHeroesExtra = [
         "fancy name": "Captain of the Royal Guard",
         "element": "Red",
         "rarity": 5,
+        "class": "Fighter",
+        "speed": "slow",
         "Release date": "2017-03-01",
         "AetherPower": "Regen",
         "skill_types": [
@@ -24271,6 +26311,8 @@ window.allHeroesExtra = [
         "fancy name": "Captain of Fire",
         "element": "Red",
         "rarity": 5,
+        "class": "Rogue",
+        "speed": "slow",
         "Release date": "2020-01-01",
         "AetherPower": "Damage Reduction",
         "skill_types": [
@@ -24296,6 +26338,8 @@ window.allHeroesExtra = [
         "fancy name": "Captain of the Wicked",
         "element": "Red",
         "rarity": 5,
+        "class": "Paladin",
+        "speed": "slow",
         "Release date": "2023-08-07",
         "AetherPower": "Ailment Immunity",
         "skill_types": [
@@ -24321,6 +26365,8 @@ window.allHeroesExtra = [
         "fancy name": "Captain of the Royal Toons",
         "element": "Red",
         "rarity": 5,
+        "class": "Fighter",
+        "speed": "slow",
         "Release date": "2024-05-31",
         "AetherPower": "Regen",
         "skill_types": [
@@ -24349,6 +26395,8 @@ window.allHeroesExtra = [
         "fancy name": "Senior Red Mage",
         "element": "Red",
         "rarity": 5,
+        "class": "Wizard",
+        "speed": "average",
         "Release date": "2025-03-01",
         "AetherPower": "Special Armor",
         "skill_types": [
@@ -24373,6 +26421,8 @@ window.allHeroesExtra = [
         "fancy name": "Arachnid Aristocrat",
         "element": "Red",
         "rarity": 5,
+        "class": "Monk",
+        "speed": "average",
         "Release date": "2021-03-25",
         "AetherPower": "Fiend Resist",
         "skill_types": [
@@ -24396,6 +26446,8 @@ window.allHeroesExtra = [
         "fancy name": "Bridal Aristocrat",
         "element": "Red",
         "rarity": 5,
+        "class": "Wizard",
+        "speed": "average",
         "Release date": "2023-04-27",
         "AetherPower": "Counterattack",
         "skill_types": [
@@ -24429,6 +26481,8 @@ window.allHeroesExtra = [
         "fancy name": "The Fire Caller Fox",
         "element": "Red",
         "rarity": 5,
+        "class": "Wizard",
+        "speed": "average",
         "Release date": "2025-05-08",
         "AetherPower": "Ailment Immunity",
         "skill_types": [
@@ -24455,6 +26509,8 @@ window.allHeroesExtra = [
         "fancy name": "The Great Phoenix Tamer",
         "element": "Red",
         "rarity": 5,
+        "class": "Druid",
+        "speed": "very_fast",
         "Release date": "2021-06-10",
         "AetherPower": "Defense Up",
         "skill_types": [
@@ -24475,6 +26531,8 @@ window.allHeroesExtra = [
         "fancy name": "The Great Frog Tamer",
         "element": "Red",
         "rarity": 5,
+        "class": "Wizard",
+        "speed": "very_fast",
         "Release date": "2025-04-09",
         "AetherPower": "Attack Up",
         "skill_types": [
@@ -24503,6 +26561,8 @@ window.allHeroesExtra = [
         "fancy name": "God of Deep Darkness",
         "element": "Red",
         "rarity": 5,
+        "class": "Wizard",
+        "speed": "styx",
         "Release date": "2022-09-21",
         "AetherPower": "Special Boost",
         "skill_types": [
@@ -24525,6 +26585,8 @@ window.allHeroesExtra = [
         "fancy name": "Minstrel of Owl Tower",
         "element": "Red",
         "rarity": 5,
+        "class": "Sorcerer",
+        "speed": "fast",
         "Release date": "2024-05-08",
         "AetherPower": "Fiend Resist",
         "skill_types": [
@@ -24547,6 +26609,8 @@ window.allHeroesExtra = [
         "fancy name": "Trove of Thousand Teeth",
         "element": "Red",
         "rarity": 5,
+        "class": "Fighter",
+        "speed": "average",
         "Release date": "2025-04-22",
         "AetherPower": "Bulwark",
         "skill_types": [
@@ -24574,6 +26638,8 @@ window.allHeroesExtra = [
         "fancy name": "Lizardfolk Gambler",
         "element": "Red",
         "rarity": 5,
+        "class": "Wizard",
+        "speed": "very_fast",
         "Release date": "2025-04-11",
         "AetherPower": "Attack Up",
         "skill_types": [
@@ -24597,6 +26663,8 @@ window.allHeroesExtra = [
         "fancy name": "Seal Lifeguard",
         "element": "Red",
         "rarity": 5,
+        "class": "Sorcerer",
+        "speed": "average",
         "Release date": "2023-06-12",
         "AetherPower": "Defense Up",
         "skill_types": [
@@ -24620,6 +26688,8 @@ window.allHeroesExtra = [
         "fancy name": "Seal Donut Vendor",
         "element": "Red",
         "rarity": 5,
+        "class": "Cleric",
+        "speed": "average",
         "Release date": "2025-06-03",
         "AetherPower": "Damage Reduction",
         "skill_types": [
@@ -24649,6 +26719,8 @@ window.allHeroesExtra = [
         "fancy name": "Queen of Owl Tower",
         "element": "Red",
         "rarity": 5,
+        "class": "Cleric",
+        "speed": "average",
         "Release date": "2023-12-20",
         "AetherPower": "Counterattack",
         "skill_types": [
@@ -24672,6 +26744,8 @@ window.allHeroesExtra = [
         "fancy name": "Ninja of Soaring Vitality",
         "element": "Red",
         "rarity": 5,
+        "class": "Sorcerer",
+        "speed": "charge_ninja",
         "Release date": "2020-10-13",
         "AetherPower": "Attack Up",
         "skill_types": [
@@ -24691,6 +26765,8 @@ window.allHeroesExtra = [
         "fancy name": "Goddess of Harvest",
         "element": "Red",
         "rarity": 5,
+        "class": "Ranger",
+        "speed": "fast",
         "Release date": "2020-10-22",
         "AetherPower": "Attack Up",
         "skill_types": [
@@ -24710,6 +26786,8 @@ window.allHeroesExtra = [
         "fancy name": "Goddess of the Wild",
         "element": "Red",
         "rarity": 5,
+        "class": "Fighter",
+        "speed": "fast",
         "Release date": "2022-09-26",
         "AetherPower": "Special Armor",
         "skill_types": [
@@ -24735,6 +26813,8 @@ window.allHeroesExtra = [
         "fancy name": "Prince of the Eternal Deep",
         "element": "Red",
         "rarity": 5,
+        "class": "Cleric",
+        "speed": "changing_tides",
         "Release date": "2023-09-27",
         "AetherPower": "Defense Up",
         "skill_types": [
@@ -24757,6 +26837,8 @@ window.allHeroesExtra = [
         "fancy name": "Prince of the Eternal Pearls",
         "element": "Red",
         "rarity": 5,
+        "class": "Wizard",
+        "speed": "changing_tides",
         "Release date": "2024-06-20",
         "AetherPower": "Attack Up",
         "skill_types": [
@@ -24787,6 +26869,8 @@ window.allHeroesExtra = [
         "fancy name": "Escaped Alchemy lab Goo",
         "element": "Red",
         "rarity": 5,
+        "class": "Sorcerer",
+        "speed": "average",
         "Release date": "2025-05-04",
         "AetherPower": "Special Armor",
         "skill_types": [
@@ -24810,6 +26894,8 @@ window.allHeroesExtra = [
         "fancy name": "Blood-Stained Druid",
         "element": "Red",
         "rarity": 5,
+        "class": "Barbarian",
+        "speed": "very_fast",
         "Release date": "2018-06-01",
         "AetherPower": "Dodge",
         "skill_types": [
@@ -24832,6 +26918,8 @@ window.allHeroesExtra = [
         "fancy name": "Burning Avenger",
         "element": "Red",
         "rarity": 5,
+        "class": "Paladin",
+        "speed": "very_fast",
         "Release date": "2021-10-20",
         "AetherPower": "Counterattack",
         "skill_types": [
@@ -24862,6 +26950,8 @@ window.allHeroesExtra = [
         "fancy name": "The Fiery Healer",
         "element": "Red",
         "rarity": 5,
+        "class": "Cleric",
+        "speed": "very_fast",
         "Release date": "2019-09-01",
         "AetherPower": "Defense Up",
         "skill_types": [
@@ -24884,6 +26974,8 @@ window.allHeroesExtra = [
         "fancy name": "Chieftain of Teltoc",
         "element": "Red",
         "rarity": 5,
+        "class": "Barbarian",
+        "speed": "average",
         "Release date": "2020-05-01",
         "AetherPower": "Rage",
         "skill_types": [
@@ -24904,6 +26996,8 @@ window.allHeroesExtra = [
         "fancy name": "Conqueror Kong",
         "element": "Red",
         "rarity": 5,
+        "class": "Monk",
+        "speed": "average",
         "Release date": "2022-04-14",
         "AetherPower": "Regen",
         "skill_types": [
@@ -24930,6 +27024,8 @@ window.allHeroesExtra = [
         "fancy name": "Stoic Gargoyle",
         "element": "Red",
         "rarity": 5,
+        "class": "Paladin",
+        "speed": "slow",
         "Release date": "2024-07-25",
         "AetherPower": "Damage Reduction",
         "skill_types": [
@@ -24954,6 +27050,8 @@ window.allHeroesExtra = [
         "fancy name": "Astral Elf Blacksmith",
         "element": "Red",
         "rarity": 5,
+        "class": "Rogue",
+        "speed": "fast",
         "Release date": "2024-03-28",
         "AetherPower": "Special Boost",
         "skill_types": [
@@ -24979,6 +27077,8 @@ window.allHeroesExtra = [
         "fancy name": "Goddess of Motherhood",
         "element": "Red",
         "rarity": 5,
+        "class": "Sorcerer",
+        "speed": "fast",
         "Release date": "2022-12-22",
         "AetherPower": "Attack Up",
         "skill_types": [
@@ -25000,6 +27100,8 @@ window.allHeroesExtra = [
         "fancy name": "Starlit Mother",
         "element": "Red",
         "rarity": 5,
+        "class": "Cleric",
+        "speed": "fast",
         "Release date": "2024-02-05",
         "AetherPower": "Defense Up",
         "skill_types": [
@@ -25032,6 +27134,8 @@ window.allHeroesExtra = [
         "fancy name": "Ferocious Gargoyle",
         "element": "Red",
         "rarity": 5,
+        "class": "Barbarian",
+        "speed": "fast",
         "Release date": "2022-09-08",
         "AetherPower": "Rage",
         "skill_types": [
@@ -25055,6 +27159,8 @@ window.allHeroesExtra = [
         "fancy name": "Minotaur Construct",
         "element": "Red",
         "rarity": 5,
+        "class": "Barbarian",
+        "speed": "fast",
         "Release date": "2024-01-16",
         "AetherPower": "Rage",
         "skill_types": [
@@ -25077,6 +27183,8 @@ window.allHeroesExtra = [
         "fancy name": "Master of Sleep",
         "element": "Red",
         "rarity": 5,
+        "class": "Sorcerer",
+        "speed": "styx",
         "Release date": "2022-06-01",
         "AetherPower": "Special Boost",
         "skill_types": [
@@ -25100,6 +27208,8 @@ window.allHeroesExtra = [
         "fancy name": "The Stylish Swordsman",
         "element": "Red",
         "rarity": 5,
+        "class": "Rogue",
+        "speed": "fast",
         "Release date": "2025-04-29",
         "AetherPower": "Attack Up",
         "skill_types": [
@@ -25124,6 +27234,8 @@ window.allHeroesExtra = [
         "fancy name": "Conductor of Flames",
         "element": "Red",
         "rarity": 5,
+        "class": "Monk",
+        "speed": "fast",
         "Release date": "2023-03-27",
         "AetherPower": "Defense Up",
         "skill_types": [
@@ -25147,6 +27259,8 @@ window.allHeroesExtra = [
         "fancy name": "Flame Surgeon",
         "element": "Red",
         "rarity": 5,
+        "class": "Paladin",
+        "speed": "fast",
         "Release date": "2025-05-24",
         "AetherPower": "Special Armor",
         "skill_types": [
@@ -25176,6 +27290,8 @@ window.allHeroesExtra = [
         "fancy name": "Expert Blacksmith",
         "element": "Red",
         "rarity": 5,
+        "class": "Fighter",
+        "speed": "slow",
         "Release date": "2022-06-20",
         "AetherPower": "Attack Up",
         "skill_types": [
@@ -25198,6 +27314,8 @@ window.allHeroesExtra = [
         "fancy name": "Master-at-Arms",
         "element": "Red",
         "rarity": 5,
+        "class": "Ranger",
+        "speed": "very_fast",
         "Release date": "2024-07-07",
         "AetherPower": "Special Boost",
         "skill_types": [
@@ -25221,6 +27339,8 @@ window.allHeroesExtra = [
         "fancy name": "Charismatic Faun Champion",
         "element": "Red",
         "rarity": 5,
+        "class": "Barbarian",
+        "speed": "slow",
         "Release date": "2024-12-31",
         "AetherPower": "Defense Up",
         "skill_types": [
@@ -25246,6 +27366,8 @@ window.allHeroesExtra = [
         "fancy name": "Doomed Jarl",
         "element": "Red",
         "rarity": 5,
+        "class": "Paladin",
+        "speed": "average",
         "Release date": "2021-02-11",
         "AetherPower": "Ailment Immunity",
         "skill_types": [
@@ -25266,6 +27388,8 @@ window.allHeroesExtra = [
         "fancy name": "Musketeer Mage",
         "element": "Red",
         "rarity": 5,
+        "class": "Wizard",
+        "speed": "fast",
         "Release date": "2020-02-01",
         "AetherPower": "Counterattack",
         "skill_types": [
@@ -25289,6 +27413,8 @@ window.allHeroesExtra = [
         "fancy name": "Chief of Tribes",
         "element": "Red",
         "rarity": 5,
+        "class": "Ranger",
+        "speed": "slow",
         "Release date": "2017-03-01",
         "AetherPower": "Special Armor",
         "skill_types": [
@@ -25309,6 +27435,8 @@ window.allHeroesExtra = [
         "fancy name": "Avenger of Tribes",
         "element": "Red",
         "rarity": 5,
+        "class": "Barbarian",
+        "speed": "slow",
         "Release date": "2021-01-18",
         "AetherPower": "Mana Boost",
         "skill_types": [
@@ -25335,6 +27463,8 @@ window.allHeroesExtra = [
         "fancy name": "Chief of Leopards",
         "element": "Red",
         "rarity": 5,
+        "class": "Druid",
+        "speed": "slow",
         "Release date": "2022-09-05",
         "AetherPower": "Counterattack",
         "skill_types": [
@@ -25361,6 +27491,8 @@ window.allHeroesExtra = [
         "fancy name": "Chief of Toons",
         "element": "Red",
         "rarity": 5,
+        "class": "Ranger",
+        "speed": "slow",
         "Release date": "2024-04-08",
         "AetherPower": "Special Armor",
         "skill_types": [
@@ -25390,6 +27522,8 @@ window.allHeroesExtra = [
         "fancy name": "Chief of Vitrails",
         "element": "Red",
         "rarity": 5,
+        "class": "Ranger",
+        "speed": "slow",
         "Release date": "2025-06-18",
         "AetherPower": "Special Armor",
         "skill_types": [
@@ -25419,6 +27553,8 @@ window.allHeroesExtra = [
         "fancy name": "Acute Androsphinx",
         "element": "Red",
         "rarity": 5,
+        "class": "Monk",
+        "speed": "slow",
         "Release date": "2022-04-21",
         "AetherPower": "Regen",
         "skill_types": [
@@ -25441,6 +27577,8 @@ window.allHeroesExtra = [
         "fancy name": "Aquatic Androsphinx",
         "element": "Red",
         "rarity": 5,
+        "class": "Rogue",
+        "speed": "slow",
         "Release date": "2024-11-01",
         "AetherPower": "Defense Up",
         "skill_types": [
@@ -25471,6 +27609,8 @@ window.allHeroesExtra = [
         "fancy name": "Ettin Commander",
         "element": "Red",
         "rarity": 5,
+        "class": "Barbarian",
+        "speed": "average",
         "Release date": "2022-02-24",
         "AetherPower": "Rage",
         "skill_types": [
@@ -25492,6 +27632,8 @@ window.allHeroesExtra = [
         "fancy name": "Ettin Grillmaster",
         "element": "Red",
         "rarity": 5,
+        "class": "Druid",
+        "speed": "average",
         "Release date": "2024-09-26",
         "AetherPower": "Attack Up",
         "skill_types": [
@@ -25521,6 +27663,8 @@ window.allHeroesExtra = [
         "fancy name": "Trickster Goddess",
         "element": "Red",
         "rarity": 5,
+        "class": "Fighter",
+        "speed": "average",
         "Release date": "2020-07-23",
         "AetherPower": "Defense Up",
         "skill_types": [
@@ -25541,6 +27685,8 @@ window.allHeroesExtra = [
         "fancy name": "Trickster Mother",
         "element": "Red",
         "rarity": 5,
+        "class": "Cleric",
+        "speed": "average",
         "Release date": "2023-10-23",
         "AetherPower": "Damage Reduction",
         "skill_types": [
@@ -25567,6 +27713,8 @@ window.allHeroesExtra = [
         "fancy name": "Flamboyant Hussar of Atlantis",
         "element": "Red",
         "rarity": 5,
+        "class": "Fighter",
+        "speed": "changing_tides",
         "Release date": "2023-06-07",
         "AetherPower": "Counterattack",
         "skill_types": [
@@ -25589,6 +27737,8 @@ window.allHeroesExtra = [
         "fancy name": "Flamboyant Jockey of Atlantis",
         "element": "Red",
         "rarity": 5,
+        "class": "Rogue",
+        "speed": "changing_tides",
         "Release date": "2024-09-21",
         "AetherPower": "Damage Reduction",
         "skill_types": [
@@ -25619,6 +27769,8 @@ window.allHeroesExtra = [
         "fancy name": "Marksman of the Castle",
         "element": "Red",
         "rarity": 5,
+        "class": "Ranger",
+        "speed": "fast",
         "Release date": "2022-01-05",
         "AetherPower": "Vampire",
         "skill_types": [
@@ -25639,6 +27791,8 @@ window.allHeroesExtra = [
         "fancy name": "Iron Ox of Water Margin",
         "element": "Red",
         "rarity": 5,
+        "class": "Barbarian",
+        "speed": "average",
         "Release date": "2025-05-22",
         "AetherPower": "Taunt",
         "skill_types": [
@@ -25664,6 +27818,8 @@ window.allHeroesExtra = [
         "fancy name": "Berserker of Owl Tower",
         "element": "Red",
         "rarity": 5,
+        "class": "Barbarian",
+        "speed": "very_fast",
         "Release date": "2024-02-14",
         "AetherPower": "Defense Up",
         "skill_types": [
@@ -25687,6 +27843,8 @@ window.allHeroesExtra = [
         "fancy name": "Goblin Brawler",
         "element": "Red",
         "rarity": 5,
+        "class": "Barbarian",
+        "speed": "average",
         "Release date": "2023-10-16",
         "AetherPower": "Attack Up",
         "skill_types": [
@@ -25710,6 +27868,8 @@ window.allHeroesExtra = [
         "fancy name": "Ruthless Shinobi",
         "element": "Red",
         "rarity": 5,
+        "class": "Rogue",
+        "speed": "charge_ninja",
         "Release date": "2024-09-24",
         "AetherPower": "Rage",
         "skill_types": [
@@ -25735,6 +27895,8 @@ window.allHeroesExtra = [
         "fancy name": "Lady of Windemer",
         "element": "Red",
         "rarity": 5,
+        "class": "Rogue",
+        "speed": "fast",
         "Release date": "2017-03-01",
         "AetherPower": "Attack Up",
         "skill_types": [
@@ -25754,6 +27916,8 @@ window.allHeroesExtra = [
         "fancy name": "Terror of Windemer",
         "element": "Red",
         "rarity": 5,
+        "class": "Wizard",
+        "speed": "fast",
         "Release date": "2021-01-18",
         "AetherPower": "Special Boost",
         "skill_types": [
@@ -25780,6 +27944,8 @@ window.allHeroesExtra = [
         "fancy name": "Master Thief of Windemer",
         "element": "Red",
         "rarity": 5,
+        "class": "Ranger",
+        "speed": "fast",
         "Release date": "2023-06-12",
         "AetherPower": "Dodge",
         "skill_types": [
@@ -25806,6 +27972,8 @@ window.allHeroesExtra = [
         "fancy name": "Toon of Windemer",
         "element": "Red",
         "rarity": 5,
+        "class": "Rogue",
+        "speed": "fast",
         "Release date": "2023-12-25",
         "AetherPower": "Attack Up",
         "skill_types": [
@@ -25834,6 +28002,8 @@ window.allHeroesExtra = [
         "fancy name": "Vitrail of Windemer",
         "element": "Red",
         "rarity": 5,
+        "class": "Rogue",
+        "speed": "fast",
         "Release date": "2025-02-11",
         "AetherPower": "Attack Up",
         "skill_types": [
@@ -25862,6 +28032,8 @@ window.allHeroesExtra = [
         "fancy name": "Fatal Beauty",
         "element": "Red",
         "rarity": 5,
+        "class": "Sorcerer",
+        "speed": "average",
         "Release date": "2019-02-01",
         "AetherPower": "Special Boost",
         "skill_types": [
@@ -25882,6 +28054,8 @@ window.allHeroesExtra = [
         "fancy name": "Blazing Beauty",
         "element": "Red",
         "rarity": 5,
+        "class": "Fighter",
+        "speed": "average",
         "Release date": "2023-03-06",
         "AetherPower": "Attack Up",
         "skill_types": [
@@ -25908,6 +28082,8 @@ window.allHeroesExtra = [
         "fancy name": "Tower Headmaster",
         "element": "Red",
         "rarity": 5,
+        "class": "Cleric",
+        "speed": "charge_magic",
         "Release date": "2021-09-15",
         "AetherPower": "Defense Up",
         "skill_types": [
@@ -25932,6 +28108,8 @@ window.allHeroesExtra = [
         "fancy name": "Magic Carpet Drifter",
         "element": "Red",
         "rarity": 5,
+        "class": "Wizard",
+        "speed": "average",
         "Release date": "2025-04-17",
         "AetherPower": "Damage Reduction",
         "skill_types": [
@@ -25956,6 +28134,8 @@ window.allHeroesExtra = [
         "fancy name": "Fireborn Enchantress",
         "element": "Red",
         "rarity": 5,
+        "class": "Sorcerer",
+        "speed": "fast",
         "Release date": "2018-01-01",
         "AetherPower": "Dodge",
         "skill_types": [
@@ -25977,6 +28157,8 @@ window.allHeroesExtra = [
         "fancy name": "Fireborn Seamstress",
         "element": "Red",
         "rarity": 5,
+        "class": "Wizard",
+        "speed": "fast",
         "Release date": "2023-05-15",
         "AetherPower": "Attack Up",
         "skill_types": [
@@ -26007,6 +28189,8 @@ window.allHeroesExtra = [
         "fancy name": "Fire Wizard",
         "element": "Red",
         "rarity": 5,
+        "class": "Druid",
+        "speed": "average",
         "Release date": "2023-11-01",
         "AetherPower": "Ailment Immunity",
         "skill_types": [
@@ -26032,6 +28216,8 @@ window.allHeroesExtra = [
         "fancy name": "The Hungry Fox Kit",
         "element": "Red",
         "rarity": 5,
+        "class": "Cleric",
+        "speed": "very_fast",
         "Release date": "2025-06-03",
         "AetherPower": "Regen",
         "skill_types": [
@@ -26055,6 +28241,8 @@ window.allHeroesExtra = [
         "fancy name": "Scythe Master of the Dark Sea",
         "element": "Red",
         "rarity": 5,
+        "class": "Wizard",
+        "speed": "slow",
         "Release date": "2024-02-26",
         "AetherPower": "Regen",
         "skill_types": [
@@ -26077,6 +28265,8 @@ window.allHeroesExtra = [
         "fancy name": "Silent Executioner",
         "element": "Red",
         "rarity": 5,
+        "class": "Fighter",
+        "speed": "charge_ninja",
         "Release date": "2024-08-27",
         "AetherPower": "Attack Up",
         "skill_types": [
@@ -26102,6 +28292,8 @@ window.allHeroesExtra = [
         "fancy name": "Sparrow Whisperer",
         "element": "Red",
         "rarity": 5,
+        "class": "Druid",
+        "speed": "slow",
         "Release date": "2020-07-01",
         "AetherPower": "Mana Boost",
         "skill_types": [
@@ -26125,6 +28317,8 @@ window.allHeroesExtra = [
         "fancy name": "Jousting Champion",
         "element": "Red",
         "rarity": 5,
+        "class": "Fighter",
+        "speed": "average",
         "Release date": "2024-01-11",
         "AetherPower": "Knight's Endurance",
         "skill_types": [
@@ -26148,6 +28342,8 @@ window.allHeroesExtra = [
         "fancy name": "Titan of Sea",
         "element": "Red",
         "rarity": 5,
+        "class": "Paladin",
+        "speed": "average",
         "Release date": "2022-06-27",
         "AetherPower": "Attack Up",
         "skill_types": [
@@ -26168,6 +28364,8 @@ window.allHeroesExtra = [
         "fancy name": "Octopod Champion",
         "element": "Red",
         "rarity": 5,
+        "class": "Fighter",
+        "speed": "average",
         "Release date": "2021-10-07",
         "AetherPower": "Counterattack",
         "skill_types": [
@@ -26190,6 +28388,8 @@ window.allHeroesExtra = [
         "fancy name": "Molluscan Suitor",
         "element": "Red",
         "rarity": 5,
+        "class": "Rogue",
+        "speed": "average",
         "Release date": "2023-08-17",
         "AetherPower": "Attack Up",
         "skill_types": [
@@ -26221,6 +28421,8 @@ window.allHeroesExtra = [
         "fancy name": "Hallowed by the Devil Reef",
         "element": "Red",
         "rarity": 5,
+        "class": "Sorcerer",
+        "speed": "fast",
         "Release date": "2024-04-21",
         "AetherPower": "Counterattack",
         "skill_types": [
@@ -26244,6 +28446,8 @@ window.allHeroesExtra = [
         "fancy name": "Hunter Blademaster",
         "element": "Red",
         "rarity": 5,
+        "class": "Barbarian",
+        "speed": "slow",
         "Release date": "2022-12-24",
         "AetherPower": "Rage",
         "skill_types": [
@@ -26268,6 +28472,8 @@ window.allHeroesExtra = [
         "fancy name": "Gnome Decorator",
         "element": "Red",
         "rarity": 5,
+        "class": "Ranger",
+        "speed": "very_fast",
         "Release date": "2024-12-01",
         "AetherPower": "Attack Up",
         "skill_types": [
@@ -26289,6 +28495,8 @@ window.allHeroesExtra = [
         "fancy name": "Famed Goblin Flutist",
         "element": "Red",
         "rarity": 5,
+        "class": "Monk",
+        "speed": "fast",
         "Release date": "2024-01-08",
         "AetherPower": "Attack Up",
         "skill_types": [
@@ -26311,6 +28519,8 @@ window.allHeroesExtra = [
         "fancy name": "Bard of Whispers",
         "element": "Red",
         "rarity": 5,
+        "class": "Monk",
+        "speed": "average",
         "Release date": "2022-08-11",
         "AetherPower": "Defense Up",
         "skill_types": [
@@ -26334,6 +28544,8 @@ window.allHeroesExtra = [
         "fancy name": "Astral Dwarf Tinkerer",
         "element": "Red",
         "rarity": 5,
+        "class": "Wizard",
+        "speed": "very_fast",
         "Release date": "2025-02-28",
         "AetherPower": "Special Boost",
         "skill_types": [
@@ -26360,6 +28572,8 @@ window.allHeroesExtra = [
         "fancy name": "Cat of Grimforest",
         "element": "Red",
         "rarity": 5,
+        "class": "Rogue",
+        "speed": "average",
         "Release date": "2019-12-01",
         "AetherPower": "Defense Up",
         "skill_types": [
@@ -26381,6 +28595,8 @@ window.allHeroesExtra = [
         "fancy name": "Masked Highwaycat",
         "element": "Red",
         "rarity": 5,
+        "class": "Fighter",
+        "speed": "average",
         "Release date": "2023-08-10",
         "AetherPower": "Special Armor",
         "skill_types": [
@@ -26408,6 +28624,8 @@ window.allHeroesExtra = [
         "fancy name": "Monarch of Wonderland",
         "element": "Red",
         "rarity": 5,
+        "class": "Paladin",
+        "speed": "average",
         "Release date": "2019-02-14",
         "AetherPower": "Taunt",
         "skill_types": [
@@ -26429,6 +28647,8 @@ window.allHeroesExtra = [
         "fancy name": "Benefactor of Wonderland",
         "element": "Red",
         "rarity": 5,
+        "class": "Cleric",
+        "speed": "average",
         "Release date": "2023-10-05",
         "AetherPower": "Boosted Regen",
         "skill_types": [
@@ -26458,6 +28678,8 @@ window.allHeroesExtra = [
         "fancy name": "Gourmand Tigris Chief",
         "element": "Red",
         "rarity": 5,
+        "class": "Druid",
+        "speed": "average",
         "Release date": "2025-03-17",
         "AetherPower": "Fiend Resist",
         "skill_types": [
@@ -26485,6 +28707,8 @@ window.allHeroesExtra = [
         "fancy name": "Hulu-Metal User",
         "element": "Red",
         "rarity": 5,
+        "class": "Rogue",
+        "speed": "very_fast",
         "Release date": "2024-07-18",
         "AetherPower": "Special Boost",
         "skill_types": [
@@ -26507,6 +28731,8 @@ window.allHeroesExtra = [
         "fancy name": "Champion of the Court",
         "element": "Red",
         "rarity": 5,
+        "class": "Sorcerer",
+        "speed": "charge_magic",
         "Release date": "2023-05-03",
         "AetherPower": "Ailment Immunity",
         "skill_types": [
@@ -26537,6 +28763,8 @@ window.allHeroesExtra = [
         "fancy name": "Protector of Grimforest",
         "element": "Red",
         "rarity": 5,
+        "class": "Ranger",
+        "speed": "average",
         "Release date": "2019-12-01",
         "AetherPower": "Defense Up",
         "skill_types": [
@@ -26557,6 +28785,8 @@ window.allHeroesExtra = [
         "fancy name": "Dwarven Fabled Prince",
         "element": "Red",
         "rarity": 5,
+        "class": "Rogue",
+        "speed": "fast",
         "Release date": "2024-12-03",
         "AetherPower": "Counterattack",
         "skill_types": [
@@ -26585,6 +28815,8 @@ window.allHeroesExtra = [
         "fancy name": "Sworn Occultist",
         "element": "Red",
         "rarity": 5,
+        "class": "Cleric",
+        "speed": "fast",
         "Release date": "2020-12-01",
         "AetherPower": "Rage",
         "skill_types": [
@@ -26607,6 +28839,8 @@ window.allHeroesExtra = [
         "fancy name": "Carnelian Hunter",
         "element": "Red",
         "rarity": 5,
+        "class": "Cleric",
+        "speed": "fast",
         "Release date": "2024-10-18",
         "AetherPower": "Defense Up",
         "skill_types": [
@@ -26630,6 +28864,8 @@ window.allHeroesExtra = [
         "fancy name": "Demolitions Expert",
         "element": "Red",
         "rarity": 5,
+        "class": "Ranger",
+        "speed": "fast",
         "Release date": "2024-03-18",
         "AetherPower": "Fiend Resist",
         "skill_types": [
@@ -26652,6 +28888,8 @@ window.allHeroesExtra = [
         "fancy name": "Trueshot",
         "element": "Red",
         "rarity": 5,
+        "class": "Ranger",
+        "speed": "fast",
         "Release date": "2025-04-03",
         "AetherPower": "Attack Up",
         "skill_types": [
@@ -26672,6 +28910,8 @@ window.allHeroesExtra = [
         "fancy name": "Unseparable Team",
         "element": "Red",
         "rarity": 5,
+        "class": "Rogue",
+        "speed": "fast",
         "Release date": "2023-01-01",
         "AetherPower": "Special Boost",
         "skill_types": [
@@ -26698,6 +28938,8 @@ window.allHeroesExtra = [
         "fancy name": "Abyssal Huntsman",
         "element": "Red",
         "rarity": 5,
+        "class": "Druid",
+        "speed": "slow",
         "Release date": "2024-06-26",
         "AetherPower": "Regen",
         "skill_types": [
@@ -26724,6 +28966,8 @@ window.allHeroesExtra = [
         "fancy name": "The Red Oni Ninja",
         "element": "Red",
         "rarity": 5,
+        "class": "Barbarian",
+        "speed": "charge_ninja",
         "Release date": "2021-11-10",
         "AetherPower": "Defense Up",
         "skill_types": [
@@ -26745,6 +28989,8 @@ window.allHeroesExtra = [
         "fancy name": "Raging Pyromancer",
         "element": "Red",
         "rarity": 5,
+        "class": "Wizard",
+        "speed": "average",
         "Release date": "2021-10-01",
         "AetherPower": "Special Boost",
         "skill_types": [
@@ -26769,6 +29015,8 @@ window.allHeroesExtra = [
         "fancy name": "The Guardian Red Fox",
         "element": "Red",
         "rarity": 5,
+        "class": "Paladin",
+        "speed": "slow",
         "Release date": "2024-08-20",
         "AetherPower": "Defense Up",
         "skill_types": [
@@ -26792,6 +29040,8 @@ window.allHeroesExtra = [
         "fancy name": "Bard of Spirit Festivals",
         "element": "Red",
         "rarity": 5,
+        "class": "Cleric",
+        "speed": "fast",
         "Release date": "2024-12-12",
         "AetherPower": "Attack Up",
         "skill_types": [
@@ -26816,6 +29066,8 @@ window.allHeroesExtra = [
         "fancy name": "The Gift-Bringer",
         "element": "Red",
         "rarity": 5,
+        "class": "Monk",
+        "speed": "slow",
         "Release date": "2018-12-01",
         "AetherPower": "Mana Boost",
         "skill_types": [
@@ -26837,6 +29089,8 @@ window.allHeroesExtra = [
         "fancy name": "Hard Rock Santa",
         "element": "Red",
         "rarity": 5,
+        "class": "Sorcerer",
+        "speed": "slow",
         "Release date": "2021-12-01",
         "AetherPower": "Regen",
         "skill_types": [
@@ -26864,6 +29118,8 @@ window.allHeroesExtra = [
         "fancy name": "The Untamable",
         "element": "Red",
         "rarity": 5,
+        "class": "Fighter",
+        "speed": "slayer",
         "Release date": "2021-08-05",
         "AetherPower": "Attack Up",
         "skill_types": [
@@ -26889,6 +29145,8 @@ window.allHeroesExtra = [
         "fancy name": "The Vanquisher",
         "element": "Red",
         "rarity": 5,
+        "class": "Paladin",
+        "speed": "slayer",
         "Release date": "2024-11-14",
         "AetherPower": "Defense Up",
         "skill_types": [
@@ -26923,6 +29181,8 @@ window.allHeroesExtra = [
         "fancy name": "Everburning Construct",
         "element": "Red",
         "rarity": 5,
+        "class": "Fighter",
+        "speed": "average",
         "Release date": "2024-05-19",
         "AetherPower": "Attack Up",
         "skill_types": [
@@ -26950,6 +29210,8 @@ window.allHeroesExtra = [
         "fancy name": "Eye of the Sun",
         "element": "Red",
         "rarity": 5,
+        "class": "Monk",
+        "speed": "fast",
         "Release date": "2022-09-01",
         "AetherPower": "Counterattack",
         "skill_types": [
@@ -26971,6 +29233,8 @@ window.allHeroesExtra = [
         "fancy name": "Warden of the Sun",
         "element": "Red",
         "rarity": 5,
+        "class": "Wizard",
+        "speed": "fast",
         "Release date": "2025-03-17",
         "AetherPower": "Special Boost",
         "skill_types": [
@@ -27001,6 +29265,8 @@ window.allHeroesExtra = [
         "fancy name": "Ninja of the Piercing Flames",
         "element": "Red",
         "rarity": 5,
+        "class": "Barbarian",
+        "speed": "charge_ninja",
         "Release date": "2023-01-11",
         "AetherPower": "Defense Up",
         "skill_types": [
@@ -27021,6 +29287,8 @@ window.allHeroesExtra = [
         "fancy name": "Pioneering Rearguard",
         "element": "Red",
         "rarity": 5,
+        "class": "Fighter",
+        "speed": "average",
         "Release date": "2023-06-01",
         "AetherPower": "Counterattack",
         "skill_types": [
@@ -27045,6 +29313,8 @@ window.allHeroesExtra = [
         "fancy name": "Astral Elf Champion",
         "element": "Red",
         "rarity": 5,
+        "class": "Fighter",
+        "speed": "average",
         "Release date": "2023-11-21",
         "AetherPower": "Attack Up",
         "skill_types": [
@@ -27070,6 +29340,8 @@ window.allHeroesExtra = [
         "fancy name": "Warlord of Wu",
         "element": "Red",
         "rarity": 5,
+        "class": "Ranger",
+        "speed": "average",
         "Release date": "2022-09-12",
         "AetherPower": "Defense Up",
         "skill_types": [
@@ -27090,6 +29362,8 @@ window.allHeroesExtra = [
         "fancy name": "Warlord of Fortune",
         "element": "Red",
         "rarity": 5,
+        "class": "Rogue",
+        "speed": "average",
         "Release date": "2024-11-30",
         "AetherPower": "Attack Up",
         "skill_types": [
@@ -27118,6 +29392,8 @@ window.allHeroesExtra = [
         "fancy name": "Nomadic Hunter",
         "element": "Red",
         "rarity": 5,
+        "class": "Ranger",
+        "speed": "fast",
         "Release date": "2022-08-01",
         "AetherPower": "Special Boost",
         "skill_types": [
@@ -27143,6 +29419,8 @@ window.allHeroesExtra = [
         "fancy name": "Mummy Queen",
         "element": "Red",
         "rarity": 5,
+        "class": "Paladin",
+        "speed": "fast",
         "Release date": "2022-10-27",
         "AetherPower": "Revive",
         "skill_types": [
@@ -27165,6 +29443,8 @@ window.allHeroesExtra = [
         "fancy name": "Molten Queen",
         "element": "Red",
         "rarity": 5,
+        "class": "Wizard",
+        "speed": "fast",
         "Release date": "2024-05-27",
         "AetherPower": "Rage",
         "skill_types": [
@@ -27196,6 +29476,8 @@ window.allHeroesExtra = [
         "fancy name": "The Plucky Piglet",
         "element": "Red",
         "rarity": 5,
+        "class": "Rogue",
+        "speed": "average",
         "Release date": "2024-03-18",
         "AetherPower": "Heal Increase",
         "skill_types": [
@@ -27216,6 +29498,8 @@ window.allHeroesExtra = [
         "fancy name": "Lord of the Highlands",
         "element": "Red",
         "rarity": 5,
+        "class": "Fighter",
+        "speed": "fast",
         "Release date": "2023-10-18",
         "AetherPower": "Attack Up",
         "skill_types": [
@@ -27239,6 +29523,8 @@ window.allHeroesExtra = [
         "fancy name": "Relentless Justice",
         "element": "Red",
         "rarity": 5,
+        "class": "Fighter",
+        "speed": "fast",
         "Release date": "2020-02-28",
         "AetherPower": "Attack Up",
         "skill_types": [
@@ -27261,6 +29547,8 @@ window.allHeroesExtra = [
         "fancy name": "Savage Justice",
         "element": "Red",
         "rarity": 5,
+        "class": "Barbarian",
+        "speed": "fast",
         "Release date": "2023-02-13",
         "AetherPower": "Dodge",
         "skill_types": [
@@ -27289,6 +29577,8 @@ window.allHeroesExtra = [
         "fancy name": "Cursed Kin of Vainamoinen",
         "element": "Red",
         "rarity": 5,
+        "class": "Fighter",
+        "speed": "average",
         "Release date": "2023-08-07",
         "AetherPower": "Regen",
         "skill_types": [
@@ -27312,6 +29602,8 @@ window.allHeroesExtra = [
         "fancy name": "Infernal Kin of Vainamoinen",
         "element": "Red",
         "rarity": 5,
+        "class": "Sorcerer",
+        "speed": "average",
         "Release date": "2024-07-22",
         "AetherPower": "Rage",
         "skill_types": [
@@ -27341,6 +29633,8 @@ window.allHeroesExtra = [
         "fancy name": "Vampire Queen",
         "element": "Red",
         "rarity": 5,
+        "class": "Sorcerer",
+        "speed": "very_fast",
         "Release date": "2020-10-26",
         "AetherPower": "Vampire",
         "skill_types": [
@@ -27364,6 +29658,8 @@ window.allHeroesExtra = [
         "fancy name": "Queen of Crime",
         "element": "Red",
         "rarity": 5,
+        "class": "Wizard",
+        "speed": "very_fast",
         "Release date": "2021-10-04",
         "AetherPower": "Damage Reduction",
         "skill_types": [
@@ -27393,6 +29689,8 @@ window.allHeroesExtra = [
         "fancy name": "The Steadfast Sapper",
         "element": "Red",
         "rarity": 5,
+        "class": "Monk",
+        "speed": "slow",
         "Release date": "2024-04-15",
         "AetherPower": "Regen",
         "skill_types": [
@@ -27417,6 +29715,8 @@ window.allHeroesExtra = [
         "fancy name": "Heiress of the Underworld",
         "element": "Red",
         "rarity": 5,
+        "class": "Fighter",
+        "speed": "average",
         "Release date": "2022-12-08",
         "AetherPower": "Attack Up",
         "skill_types": [
@@ -27441,6 +29741,8 @@ window.allHeroesExtra = [
         "fancy name": "Heiress to the Flame",
         "element": "Red",
         "rarity": 5,
+        "class": "Monk",
+        "speed": "average",
         "Release date": "2024-05-23",
         "AetherPower": "Counterattack",
         "skill_types": [
@@ -27473,6 +29775,8 @@ window.allHeroesExtra = [
         "fancy name": "Lunar Protector Rabbit",
         "element": "Red",
         "rarity": 5,
+        "class": "Druid",
+        "speed": "average",
         "Release date": "2023-01-19",
         "AetherPower": "Attack Up",
         "skill_types": [
@@ -27495,6 +29799,8 @@ window.allHeroesExtra = [
         "fancy name": "The Queen Mother",
         "element": "Red",
         "rarity": 5,
+        "class": "Cleric",
+        "speed": "average",
         "Release date": "2023-10-09",
         "AetherPower": "Defense Up",
         "skill_types": [
@@ -27518,6 +29824,8 @@ window.allHeroesExtra = [
         "fancy name": "Fist of the Sun",
         "element": "Red",
         "rarity": 5,
+        "class": "Monk",
+        "speed": "fast",
         "Release date": "2021-05-01",
         "AetherPower": "Special Boost",
         "skill_types": [
@@ -27543,6 +29851,8 @@ window.allHeroesExtra = [
         "fancy name": "Sanguine Faun Seeress",
         "element": "Red",
         "rarity": 5,
+        "class": "Sorcerer",
+        "speed": "average",
         "Release date": "2025-03-26",
         "AetherPower": "Special Armor",
         "skill_types": [
@@ -27569,6 +29879,8 @@ window.allHeroesExtra = [
         "fancy name": "Lone Rogue",
         "element": "Red",
         "rarity": 5,
+        "class": "Rogue",
+        "speed": "average",
         "Release date": "2022-03-01",
         "AetherPower": "Regen",
         "skill_types": [
@@ -27593,6 +29905,8 @@ window.allHeroesExtra = [
         "fancy name": "Fast Blade",
         "element": "Red",
         "rarity": 5,
+        "class": "Rogue",
+        "speed": "fast",
         "Release date": "2024-04-01",
         "AetherPower": "Special Boost",
         "skill_types": [
@@ -27619,6 +29933,8 @@ window.allHeroesExtra = [
         "fancy name": "Three-Eyed Psychic",
         "element": "Red",
         "rarity": 5,
+        "class": "Sorcerer",
+        "speed": "average",
         "Release date": "2023-10-09",
         "AetherPower": "Attack Up",
         "skill_types": [
@@ -27640,6 +29956,8 @@ window.allHeroesExtra = [
         "fancy name": "Myriapod Queen",
         "element": "Red",
         "rarity": 5,
+        "class": "Cleric",
+        "speed": "average",
         "Release date": "2021-09-09",
         "AetherPower": "Attack Up",
         "skill_types": [
@@ -27665,6 +29983,8 @@ window.allHeroesExtra = [
         "fancy name": "Apocynacid Queen",
         "element": "Red",
         "rarity": 5,
+        "class": "Sorcerer",
+        "speed": "average",
         "Release date": "2024-02-29",
         "AetherPower": "Counterattack",
         "skill_types": [
@@ -27699,6 +30019,8 @@ window.allHeroesExtra = [
         "fancy name": "Charming Privateer",
         "element": "Red",
         "rarity": 5,
+        "class": "Ranger",
+        "speed": "very_fast",
         "Release date": "2024-10-01",
         "AetherPower": "Gamble",
         "skill_types": [
@@ -27723,6 +30045,8 @@ window.allHeroesExtra = [
         "fancy name": "Long-Lost Daughter",
         "element": "Red",
         "rarity": 5,
+        "class": "Druid",
+        "speed": "fast",
         "Release date": "2018-11-01",
         "AetherPower": "Attack Up",
         "skill_types": [
@@ -27744,6 +30068,8 @@ window.allHeroesExtra = [
         "fancy name": "Long-Lost Adventurer",
         "element": "Red",
         "rarity": 5,
+        "class": "Paladin",
+        "speed": "fast",
         "Release date": "2023-03-20",
         "AetherPower": "Special Boost",
         "skill_types": [
@@ -27773,6 +30099,8 @@ window.allHeroesExtra = [
         "fancy name": "Ninja Student",
         "element": "Yellow",
         "rarity": 1,
+        "class": "Rogue",
+        "speed": "fast",
         "Release date": "2017-03-01",
         "AetherPower": "Attack Up",
         "skill_types": [
@@ -27791,6 +30119,8 @@ window.allHeroesExtra = [
         "fancy name": "Foot Soldier",
         "element": "Yellow",
         "rarity": 1,
+        "class": "Fighter",
+        "speed": "average",
         "Release date": "2017-03-01",
         "AetherPower": "Attack Up",
         "skill_types": [
@@ -27809,6 +30139,8 @@ window.allHeroesExtra = [
         "fancy name": "Monkey Warrior",
         "element": "Yellow",
         "rarity": 2,
+        "class": "Monk",
+        "speed": "average",
         "Release date": "2017-03-01",
         "AetherPower": "Special Armor",
         "skill_types": [
@@ -27827,6 +30159,8 @@ window.allHeroesExtra = [
         "fancy name": "Smith's Apprentice",
         "element": "Yellow",
         "rarity": 2,
+        "class": "Wizard",
+        "speed": "fast",
         "Release date": "2017-03-01",
         "AetherPower": "Attack Up",
         "skill_types": [
@@ -27846,6 +30180,8 @@ window.allHeroesExtra = [
         "fancy name": "Leaf of Bamboo",
         "element": "Yellow",
         "rarity": 2,
+        "class": "Cleric",
+        "speed": "average",
         "Release date": "2017-03-01",
         "AetherPower": "Defense Up",
         "skill_types": [
@@ -27864,6 +30200,8 @@ window.allHeroesExtra = [
         "fancy name": "Courageous Villager",
         "element": "Yellow",
         "rarity": 3,
+        "class": "Rogue",
+        "speed": "fast",
         "Release date": "2020-05-28",
         "AetherPower": "Attack Up",
         "skill_types": [
@@ -27883,6 +30221,8 @@ window.allHeroesExtra = [
         "fancy name": "Soldier of Sand Empire",
         "element": "Yellow",
         "rarity": 3,
+        "class": "Fighter",
+        "speed": "slow",
         "Release date": "2018-06-21",
         "AetherPower": "Rage",
         "skill_types": [
@@ -27904,6 +30244,8 @@ window.allHeroesExtra = [
         "fancy name": "Noble Defender",
         "element": "Yellow",
         "rarity": 3,
+        "class": "Monk",
+        "speed": "fast",
         "Release date": "2017-03-01",
         "AetherPower": "Attack Up",
         "skill_types": [
@@ -27923,6 +30265,8 @@ window.allHeroesExtra = [
         "fancy name": "Noble Brawler",
         "element": "Yellow",
         "rarity": 3,
+        "class": "Ranger",
+        "speed": "fast",
         "Release date": "2020-01-01",
         "AetherPower": "Special Boost",
         "skill_types": [
@@ -27948,6 +30292,8 @@ window.allHeroesExtra = [
         "fancy name": "Toon Brawler",
         "element": "Yellow",
         "rarity": 3,
+        "class": "Monk",
+        "speed": "fast",
         "Release date": "2024-03-11",
         "AetherPower": "Attack Up",
         "skill_types": [
@@ -27976,6 +30322,8 @@ window.allHeroesExtra = [
         "fancy name": "Glass Brawler",
         "element": "Yellow",
         "rarity": 3,
+        "class": "Monk",
+        "speed": "fast",
         "Release date": "2025-05-10",
         "AetherPower": "Attack Up",
         "skill_types": [
@@ -28004,6 +30352,8 @@ window.allHeroesExtra = [
         "fancy name": "Chef of the Castle",
         "element": "Yellow",
         "rarity": 3,
+        "class": "Monk",
+        "speed": "average",
         "Release date": "2021-10-13",
         "AetherPower": "Counterattack",
         "skill_types": [
@@ -28022,6 +30372,8 @@ window.allHeroesExtra = [
         "fancy name": "Mirthful Merrymaker",
         "element": "Yellow",
         "rarity": 3,
+        "class": "Cleric",
+        "speed": "average",
         "Release date": "2021-06-10",
         "AetherPower": "Defense Up",
         "skill_types": [
@@ -28041,6 +30393,8 @@ window.allHeroesExtra = [
         "fancy name": "Chimpanzee Chain Champion",
         "element": "Yellow",
         "rarity": 3,
+        "class": "Ranger",
+        "speed": "average",
         "Release date": "2023-05-06",
         "AetherPower": "Attack Up",
         "skill_types": [
@@ -28066,6 +30420,8 @@ window.allHeroesExtra = [
         "fancy name": "Spawn of the Old Ones",
         "element": "Yellow",
         "rarity": 3,
+        "class": "Fighter",
+        "speed": "fast",
         "Release date": "2025-01-09",
         "AetherPower": "Attack Up",
         "skill_types": [
@@ -28086,6 +30442,8 @@ window.allHeroesExtra = [
         "fancy name": "Ranger of Shaguad",
         "element": "Yellow",
         "rarity": 3,
+        "class": "Rogue",
+        "speed": "average",
         "Release date": "2017-03-01",
         "AetherPower": "Dodge",
         "skill_types": [
@@ -28104,6 +30462,8 @@ window.allHeroesExtra = [
         "fancy name": "Shaguadian Guardian",
         "element": "Yellow",
         "rarity": 3,
+        "class": "Barbarian",
+        "speed": "average",
         "Release date": "2021-01-18",
         "AetherPower": "Rage",
         "skill_types": [
@@ -28129,6 +30489,8 @@ window.allHeroesExtra = [
         "fancy name": "Toon of Shaguad",
         "element": "Yellow",
         "rarity": 3,
+        "class": "Rogue",
+        "speed": "average",
         "Release date": "2024-08-11",
         "AetherPower": "Dodge",
         "skill_types": [
@@ -28156,6 +30518,8 @@ window.allHeroesExtra = [
         "fancy name": "Overly Tanned Dwarf",
         "element": "Yellow",
         "rarity": 3,
+        "class": "Paladin",
+        "speed": "average",
         "Release date": "2023-06-12",
         "AetherPower": "Attack Up",
         "skill_types": [
@@ -28180,6 +30544,8 @@ window.allHeroesExtra = [
         "fancy name": "Nomad of the Wild",
         "element": "Yellow",
         "rarity": 3,
+        "class": "Paladin",
+        "speed": "fast",
         "Release date": "2022-10-15",
         "AetherPower": "Defense Up",
         "skill_types": [
@@ -28204,6 +30570,8 @@ window.allHeroesExtra = [
         "fancy name": "Depraved Assassin",
         "element": "Yellow",
         "rarity": 3,
+        "class": "Rogue",
+        "speed": "fast",
         "Release date": "2023-03-08",
         "AetherPower": "Attack Up",
         "skill_types": [
@@ -28227,6 +30595,8 @@ window.allHeroesExtra = [
         "fancy name": "Branch of Bamboo",
         "element": "Yellow",
         "rarity": 3,
+        "class": "Monk",
+        "speed": "fast",
         "Release date": "2017-03-01",
         "AetherPower": "Attack Up",
         "skill_types": [
@@ -28246,6 +30616,8 @@ window.allHeroesExtra = [
         "fancy name": "Root of Bamboo",
         "element": "Yellow",
         "rarity": 3,
+        "class": "Barbarian",
+        "speed": "fast",
         "Release date": "2021-01-18",
         "AetherPower": "Special Boost",
         "skill_types": [
@@ -28271,6 +30643,8 @@ window.allHeroesExtra = [
         "fancy name": "Branch of Toons",
         "element": "Yellow",
         "rarity": 3,
+        "class": "Monk",
+        "speed": "fast",
         "Release date": "2023-12-25",
         "AetherPower": "Attack Up",
         "skill_types": [
@@ -28299,6 +30673,8 @@ window.allHeroesExtra = [
         "fancy name": "Branch of Glass",
         "element": "Yellow",
         "rarity": 3,
+        "class": "Monk",
+        "speed": "fast",
         "Release date": "2024-12-25",
         "AetherPower": "Attack Up",
         "skill_types": [
@@ -28327,6 +30703,8 @@ window.allHeroesExtra = [
         "fancy name": "Dodgy Merchant of the Deep",
         "element": "Yellow",
         "rarity": 3,
+        "class": "Sorcerer",
+        "speed": "changing_tides",
         "Release date": "2023-07-05",
         "AetherPower": "Defense Up",
         "skill_types": [
@@ -28349,6 +30727,8 @@ window.allHeroesExtra = [
         "fancy name": "Dodgy Alchemist of the Deep",
         "element": "Yellow",
         "rarity": 3,
+        "class": "Wizard",
+        "speed": "changing_tides",
         "Release date": "2025-02-03",
         "AetherPower": "Special Armor",
         "skill_types": [
@@ -28379,6 +30759,8 @@ window.allHeroesExtra = [
         "fancy name": "Gnome Lumberjack",
         "element": "Yellow",
         "rarity": 3,
+        "class": "Paladin",
+        "speed": "very_slow",
         "Release date": "2023-12-01",
         "AetherPower": "Regen",
         "skill_types": [
@@ -28400,6 +30782,8 @@ window.allHeroesExtra = [
         "fancy name": "Selfless Healer",
         "element": "Yellow",
         "rarity": 3,
+        "class": "Cleric",
+        "speed": "slow",
         "Release date": "2017-03-01",
         "AetherPower": "Special Armor",
         "skill_types": [
@@ -28419,6 +30803,8 @@ window.allHeroesExtra = [
         "fancy name": "Magnanimous Mender",
         "element": "Yellow",
         "rarity": 3,
+        "class": "Sorcerer",
+        "speed": "slow",
         "Release date": "2021-01-18",
         "AetherPower": "Defense Up",
         "skill_types": [
@@ -28444,6 +30830,8 @@ window.allHeroesExtra = [
         "fancy name": "Toon Healer",
         "element": "Yellow",
         "rarity": 3,
+        "class": "Cleric",
+        "speed": "slow",
         "Release date": "2024-02-12",
         "AetherPower": "Special Armor",
         "skill_types": [
@@ -28471,6 +30859,8 @@ window.allHeroesExtra = [
         "fancy name": "Glass Healer",
         "element": "Yellow",
         "rarity": 3,
+        "class": "Cleric",
+        "speed": "slow",
         "Release date": "2025-03-11",
         "AetherPower": "Special Armor",
         "skill_types": [
@@ -28499,6 +30889,8 @@ window.allHeroesExtra = [
         "fancy name": "Thunderous Ninja Monk",
         "element": "Yellow",
         "rarity": 3,
+        "class": "Monk",
+        "speed": "charge_ninja",
         "Release date": "2023-01-11",
         "AetherPower": "Attack Up",
         "skill_types": [
@@ -28517,6 +30909,8 @@ window.allHeroesExtra = [
         "fancy name": "Beekeeper of Alfheim",
         "element": "Yellow",
         "rarity": 3,
+        "class": "Druid",
+        "speed": "fast",
         "Release date": "2020-02-27",
         "AetherPower": "Defense Up",
         "skill_types": [
@@ -28537,6 +30931,8 @@ window.allHeroesExtra = [
         "fancy name": "Bee Captain of Alfheim",
         "element": "Yellow",
         "rarity": 3,
+        "class": "Paladin",
+        "speed": "fast",
         "Release date": "2022-07-04",
         "AetherPower": "Special Armor",
         "skill_types": [
@@ -28563,6 +30959,8 @@ window.allHeroesExtra = [
         "fancy name": "Mermaid of Atlantis",
         "element": "Yellow",
         "rarity": 3,
+        "class": "Druid",
+        "speed": "fast",
         "Release date": "2019-08-01",
         "AetherPower": "Attack Up",
         "skill_types": [
@@ -28582,6 +30980,8 @@ window.allHeroesExtra = [
         "fancy name": "Emissary of Atlantis",
         "element": "Yellow",
         "rarity": 3,
+        "class": "Fighter",
+        "speed": "fast",
         "Release date": "2022-05-02",
         "AetherPower": "Special Boost",
         "skill_types": [
@@ -28607,6 +31007,8 @@ window.allHeroesExtra = [
         "fancy name": "Princess of Owl Tower",
         "element": "Yellow",
         "rarity": 3,
+        "class": "Cleric",
+        "speed": "very_slow",
         "Release date": "2023-12-20",
         "AetherPower": "Damage Reduction",
         "skill_types": [
@@ -28629,6 +31031,8 @@ window.allHeroesExtra = [
         "fancy name": "Sprite of Grimforest",
         "element": "Yellow",
         "rarity": 3,
+        "class": "Cleric",
+        "speed": "average",
         "Release date": "2019-12-01",
         "AetherPower": "Defense Up",
         "skill_types": [
@@ -28648,6 +31052,8 @@ window.allHeroesExtra = [
         "fancy name": "Halfling Arbalist",
         "element": "Yellow",
         "rarity": 3,
+        "class": "Ranger",
+        "speed": "fast",
         "Release date": "2021-03-25",
         "AetherPower": "Attack Up",
         "skill_types": [
@@ -28669,6 +31075,8 @@ window.allHeroesExtra = [
         "fancy name": "Halfling Lodger",
         "element": "Yellow",
         "rarity": 3,
+        "class": "Rogue",
+        "speed": "fast",
         "Release date": "2024-02-29",
         "AetherPower": "Damage Reduction",
         "skill_types": [
@@ -28696,6 +31104,8 @@ window.allHeroesExtra = [
         "fancy name": "Young Sphinx",
         "element": "Yellow",
         "rarity": 3,
+        "class": "Wizard",
+        "speed": "average",
         "Release date": "2022-04-21",
         "AetherPower": "Defense Up",
         "skill_types": [
@@ -28718,6 +31128,8 @@ window.allHeroesExtra = [
         "fancy name": "Young Artist",
         "element": "Yellow",
         "rarity": 3,
+        "class": "Cleric",
+        "speed": "average",
         "Release date": "2025-02-17",
         "AetherPower": "Special Armor",
         "skill_types": [
@@ -28749,6 +31161,8 @@ window.allHeroesExtra = [
         "fancy name": "Gladiator of Frog Kingdom",
         "element": "Yellow",
         "rarity": 3,
+        "class": "Monk",
+        "speed": "average",
         "Release date": "2022-11-03",
         "AetherPower": "Attack Up",
         "skill_types": [
@@ -28772,6 +31186,8 @@ window.allHeroesExtra = [
         "fancy name": "Owl Construct",
         "element": "Yellow",
         "rarity": 3,
+        "class": "Druid",
+        "speed": "average",
         "Release date": "2024-04-25",
         "AetherPower": "Ailment Immunity",
         "skill_types": [
@@ -28796,6 +31212,8 @@ window.allHeroesExtra = [
         "fancy name": "Mascot of Corellia",
         "element": "Yellow",
         "rarity": 3,
+        "class": "Barbarian",
+        "speed": "slow",
         "Release date": "2021-12-15",
         "AetherPower": "Dodge",
         "skill_types": [
@@ -28814,6 +31232,8 @@ window.allHeroesExtra = [
         "fancy name": "Fleet-Footed Faun Dancer",
         "element": "Yellow",
         "rarity": 3,
+        "class": "Monk",
+        "speed": "fast",
         "Release date": "2024-08-31",
         "AetherPower": "Defense Up",
         "skill_types": [
@@ -28839,6 +31259,8 @@ window.allHeroesExtra = [
         "fancy name": "Sage of the Scyldings",
         "element": "Yellow",
         "rarity": 4,
+        "class": "Wizard",
+        "speed": "average",
         "Release date": "2025-02-13",
         "AetherPower": "Defense Up",
         "skill_types": [
@@ -28863,6 +31285,8 @@ window.allHeroesExtra = [
         "fancy name": "Apprentice Summoner",
         "element": "Yellow",
         "rarity": 4,
+        "class": "Sorcerer",
+        "speed": "charge_magic",
         "Release date": "2021-09-15",
         "AetherPower": "Fiend Resist",
         "skill_types": [
@@ -28886,6 +31310,8 @@ window.allHeroesExtra = [
         "fancy name": "Wicked Gargoyle",
         "element": "Yellow",
         "rarity": 4,
+        "class": "Rogue",
+        "speed": "average",
         "Release date": "2022-05-12",
         "AetherPower": "Special Boost",
         "skill_types": [
@@ -28907,6 +31333,8 @@ window.allHeroesExtra = [
         "fancy name": "Marsh Hunter",
         "element": "Yellow",
         "rarity": 4,
+        "class": "Paladin",
+        "speed": "average",
         "Release date": "2022-12-24",
         "AetherPower": "Rage",
         "skill_types": [
@@ -28931,6 +31359,8 @@ window.allHeroesExtra = [
         "fancy name": "Master Tactician",
         "element": "Yellow",
         "rarity": 4,
+        "class": "Ranger",
+        "speed": "fast",
         "Release date": "2017-03-01",
         "AetherPower": "Ailment Immunity",
         "skill_types": [
@@ -28950,6 +31380,8 @@ window.allHeroesExtra = [
         "fancy name": "Master Conservator",
         "element": "Yellow",
         "rarity": 4,
+        "class": "Druid",
+        "speed": "fast",
         "Release date": "2021-01-18",
         "AetherPower": "Dodge",
         "skill_types": [
@@ -28976,6 +31408,8 @@ window.allHeroesExtra = [
         "fancy name": "Tiger Master",
         "element": "Yellow",
         "rarity": 4,
+        "class": "Barbarian",
+        "speed": "fast",
         "Release date": "2023-10-30",
         "AetherPower": "Attack Up",
         "skill_types": [
@@ -29001,6 +31435,8 @@ window.allHeroesExtra = [
         "fancy name": "Toon Tactician",
         "element": "Yellow",
         "rarity": 4,
+        "class": "Ranger",
+        "speed": "fast",
         "Release date": "2024-06-28",
         "AetherPower": "Attack Up",
         "skill_types": [
@@ -29029,6 +31465,8 @@ window.allHeroesExtra = [
         "fancy name": "Sure-Handed Juggler",
         "element": "Yellow",
         "rarity": 4,
+        "class": "Paladin",
+        "speed": "average",
         "Release date": "2021-06-10",
         "AetherPower": "Special Armor",
         "skill_types": [
@@ -29049,6 +31487,8 @@ window.allHeroesExtra = [
         "fancy name": "Dauntless Deceiver",
         "element": "Yellow",
         "rarity": 4,
+        "class": "Rogue",
+        "speed": "average",
         "Release date": "2019-08-01",
         "AetherPower": "Gamble",
         "skill_types": [
@@ -29071,6 +31511,8 @@ window.allHeroesExtra = [
         "fancy name": "Fearless Merchant",
         "element": "Yellow",
         "rarity": 4,
+        "class": "Sorcerer",
+        "speed": "average",
         "Release date": "2023-02-06",
         "AetherPower": "Special Armor",
         "skill_types": [
@@ -29100,6 +31542,8 @@ window.allHeroesExtra = [
         "fancy name": "Astral Dwarf Toymaker",
         "element": "Yellow",
         "rarity": 4,
+        "class": "Cleric",
+        "speed": "fast",
         "Release date": "2025-06-04",
         "AetherPower": "Counterattack",
         "skill_types": [
@@ -29125,6 +31569,8 @@ window.allHeroesExtra = [
         "fancy name": "Dwarven Golden Skald",
         "element": "Yellow",
         "rarity": 4,
+        "class": "Fighter",
+        "speed": "average",
         "Release date": "2024-12-03",
         "AetherPower": "Defense Up",
         "skill_types": [
@@ -29152,6 +31598,8 @@ window.allHeroesExtra = [
         "fancy name": "Goblin Beauty",
         "element": "Yellow",
         "rarity": 4,
+        "class": "Paladin",
+        "speed": "average",
         "Release date": "2023-09-18",
         "AetherPower": "Ailment Immunity",
         "skill_types": [
@@ -29174,6 +31622,8 @@ window.allHeroesExtra = [
         "fancy name": "Witch Slayer of Grimforest",
         "element": "Yellow",
         "rarity": 4,
+        "class": "Barbarian",
+        "speed": "average",
         "Release date": "2018-06-01",
         "AetherPower": "Attack Up",
         "skill_types": [
@@ -29194,6 +31644,8 @@ window.allHeroesExtra = [
         "fancy name": "Invisible Man",
         "element": "Yellow",
         "rarity": 4,
+        "class": "Rogue",
+        "speed": "fast",
         "Release date": "2021-03-25",
         "AetherPower": "Special Boost",
         "skill_types": [
@@ -29215,6 +31667,8 @@ window.allHeroesExtra = [
         "fancy name": "Invisible Priest",
         "element": "Yellow",
         "rarity": 4,
+        "class": "Cleric",
+        "speed": "fast",
         "Release date": "2023-11-09",
         "AetherPower": "Attack Up",
         "skill_types": [
@@ -29242,6 +31696,8 @@ window.allHeroesExtra = [
         "fancy name": "Female Tiger of Water Margin",
         "element": "Yellow",
         "rarity": 4,
+        "class": "Druid",
+        "speed": "average",
         "Release date": "2025-05-22",
         "AetherPower": "Defense Up",
         "skill_types": [
@@ -29266,6 +31722,8 @@ window.allHeroesExtra = [
         "fancy name": "Assassin of Teltoc",
         "element": "Yellow",
         "rarity": 4,
+        "class": "Rogue",
+        "speed": "very_fast",
         "Release date": "2017-10-05",
         "AetherPower": "Attack Up",
         "skill_types": [
@@ -29285,6 +31743,8 @@ window.allHeroesExtra = [
         "fancy name": "Bone Collector of Teltoc",
         "element": "Yellow",
         "rarity": 4,
+        "class": "Barbarian",
+        "speed": "very_fast",
         "Release date": "2023-01-26",
         "AetherPower": "Rage",
         "skill_types": [
@@ -29310,6 +31770,8 @@ window.allHeroesExtra = [
         "fancy name": "Golden Boar",
         "element": "Yellow",
         "rarity": 4,
+        "class": "Druid",
+        "speed": "slow",
         "Release date": "2020-05-28",
         "AetherPower": "Heal Increase",
         "skill_types": [
@@ -29331,6 +31793,8 @@ window.allHeroesExtra = [
         "fancy name": "Unchained Boar",
         "element": "Yellow",
         "rarity": 4,
+        "class": "Cleric",
+        "speed": "slow",
         "Release date": "2022-07-04",
         "AetherPower": "Defense Up",
         "skill_types": [
@@ -29358,6 +31822,8 @@ window.allHeroesExtra = [
         "fancy name": "Gnome Head Chef",
         "element": "Yellow",
         "rarity": 4,
+        "class": "Cleric",
+        "speed": "slow",
         "Release date": "2022-12-01",
         "AetherPower": "Defense Up",
         "skill_types": [
@@ -29378,6 +31844,8 @@ window.allHeroesExtra = [
         "fancy name": "Blade of Bamboo",
         "element": "Yellow",
         "rarity": 4,
+        "class": "Fighter",
+        "speed": "slow",
         "Release date": "2017-03-01",
         "AetherPower": "Defense Up",
         "skill_types": [
@@ -29397,6 +31865,8 @@ window.allHeroesExtra = [
         "fancy name": "Bark of Bamboo",
         "element": "Yellow",
         "rarity": 4,
+        "class": "Paladin",
+        "speed": "slow",
         "Release date": "2021-01-18",
         "AetherPower": "Special Armor",
         "skill_types": [
@@ -29423,6 +31893,8 @@ window.allHeroesExtra = [
         "fancy name": "Bamboo Dueller",
         "element": "Yellow",
         "rarity": 4,
+        "class": "Monk",
+        "speed": "slow",
         "Release date": "2023-11-27",
         "AetherPower": "Regen",
         "skill_types": [
@@ -29449,6 +31921,8 @@ window.allHeroesExtra = [
         "fancy name": "Toon of Bamboo",
         "element": "Yellow",
         "rarity": 4,
+        "class": "Fighter",
+        "speed": "slow",
         "Release date": "2024-05-31",
         "AetherPower": "Defense Up",
         "skill_types": [
@@ -29477,6 +31951,8 @@ window.allHeroesExtra = [
         "fancy name": "Blade of Glass",
         "element": "Yellow",
         "rarity": 4,
+        "class": "Fighter",
+        "speed": "slow",
         "Release date": "2025-06-18",
         "AetherPower": "Defense Up",
         "skill_types": [
@@ -29505,6 +31981,8 @@ window.allHeroesExtra = [
         "fancy name": "Mender of Springvale",
         "element": "Yellow",
         "rarity": 4,
+        "class": "Cleric",
+        "speed": "fast",
         "Release date": "2020-04-06",
         "AetherPower": "Defense Up",
         "skill_types": [
@@ -29524,6 +32002,8 @@ window.allHeroesExtra = [
         "fancy name": "Wise General",
         "element": "Yellow",
         "rarity": 4,
+        "class": "Monk",
+        "speed": "average",
         "Release date": "2017-03-01",
         "AetherPower": "Counterattack",
         "skill_types": [
@@ -29543,6 +32023,8 @@ window.allHeroesExtra = [
         "fancy name": "Ceremonial Assassin",
         "element": "Yellow",
         "rarity": 4,
+        "class": "Rogue",
+        "speed": "average",
         "Release date": "2020-01-01",
         "AetherPower": "Special Armor",
         "skill_types": [
@@ -29568,6 +32050,8 @@ window.allHeroesExtra = [
         "fancy name": "Fireworks General",
         "element": "Yellow",
         "rarity": 4,
+        "class": "Wizard",
+        "speed": "average",
         "Release date": "2023-02-20",
         "AetherPower": "Damage Reduction",
         "skill_types": [
@@ -29593,6 +32077,8 @@ window.allHeroesExtra = [
         "fancy name": "Toon General",
         "element": "Yellow",
         "rarity": 4,
+        "class": "Monk",
+        "speed": "average",
         "Release date": "2024-02-12",
         "AetherPower": "Counterattack",
         "skill_types": [
@@ -29621,6 +32107,8 @@ window.allHeroesExtra = [
         "fancy name": "Glass General",
         "element": "Yellow",
         "rarity": 4,
+        "class": "Monk",
+        "speed": "average",
         "Release date": "2025-03-11",
         "AetherPower": "Counterattack",
         "skill_types": [
@@ -29649,6 +32137,8 @@ window.allHeroesExtra = [
         "fancy name": "Commander of Valkyries",
         "element": "Yellow",
         "rarity": 4,
+        "class": "Cleric",
+        "speed": "fast",
         "Release date": "2020-02-27",
         "AetherPower": "Attack Up",
         "skill_types": [
@@ -29670,6 +32160,8 @@ window.allHeroesExtra = [
         "fancy name": "Scarab Guard",
         "element": "Yellow",
         "rarity": 4,
+        "class": "Fighter",
+        "speed": "fast",
         "Release date": "2022-04-21",
         "AetherPower": "Fiend Resist",
         "skill_types": [
@@ -29692,6 +32184,8 @@ window.allHeroesExtra = [
         "fancy name": "Scarab Sentinel",
         "element": "Yellow",
         "rarity": 4,
+        "class": "Paladin",
+        "speed": "fast",
         "Release date": "2025-01-20",
         "AetherPower": "Boosted Regen",
         "skill_types": [
@@ -29723,6 +32217,8 @@ window.allHeroesExtra = [
         "fancy name": "Artist Cyclops",
         "element": "Yellow",
         "rarity": 4,
+        "class": "Cleric",
+        "speed": "styx",
         "Release date": "2022-09-21",
         "AetherPower": "Heal Increase",
         "skill_types": [
@@ -29745,6 +32241,8 @@ window.allHeroesExtra = [
         "fancy name": "Cupid of Delights",
         "element": "Yellow",
         "rarity": 4,
+        "class": "Druid",
+        "speed": "average",
         "Release date": "2023-02-14",
         "AetherPower": "Bulwark",
         "skill_types": [
@@ -29766,6 +32264,8 @@ window.allHeroesExtra = [
         "fancy name": "Captain of the Duck's Guard",
         "element": "Yellow",
         "rarity": 4,
+        "class": "Fighter",
+        "speed": "fast",
         "Release date": "2022-11-03",
         "AetherPower": "Attack Up",
         "skill_types": [
@@ -29788,6 +32288,8 @@ window.allHeroesExtra = [
         "fancy name": "Gentle Noblewoman",
         "element": "Yellow",
         "rarity": 4,
+        "class": "Sorcerer",
+        "speed": "slow",
         "Release date": "2022-03-14",
         "AetherPower": "Heal Increase",
         "skill_types": [
@@ -29807,6 +32309,8 @@ window.allHeroesExtra = [
         "fancy name": "Gentle Calligrapher",
         "element": "Yellow",
         "rarity": 4,
+        "class": "Cleric",
+        "speed": "slow",
         "Release date": "2025-01-29",
         "AetherPower": "Regen",
         "skill_types": [
@@ -29835,6 +32339,8 @@ window.allHeroesExtra = [
         "fancy name": "Monkey Lord",
         "element": "Yellow",
         "rarity": 4,
+        "class": "Monk",
+        "speed": "average",
         "Release date": "2017-03-01",
         "AetherPower": "Gamble",
         "skill_types": [
@@ -29854,6 +32360,8 @@ window.allHeroesExtra = [
         "fancy name": "Monkey Ronin",
         "element": "Yellow",
         "rarity": 4,
+        "class": "Paladin",
+        "speed": "average",
         "Release date": "2021-01-18",
         "AetherPower": "Attack Up",
         "skill_types": [
@@ -29879,6 +32387,8 @@ window.allHeroesExtra = [
         "fancy name": "Monkey Reveller",
         "element": "Yellow",
         "rarity": 4,
+        "class": "Rogue",
+        "speed": "average",
         "Release date": "2023-10-30",
         "AetherPower": "Rage",
         "skill_types": [
@@ -29904,6 +32414,8 @@ window.allHeroesExtra = [
         "fancy name": "Monkey Toon",
         "element": "Yellow",
         "rarity": 4,
+        "class": "Monk",
+        "speed": "average",
         "Release date": "2024-07-16",
         "AetherPower": "Gamble",
         "skill_types": [
@@ -29931,6 +32443,8 @@ window.allHeroesExtra = [
         "fancy name": "Mechanized Delivery Expert",
         "element": "Yellow",
         "rarity": 4,
+        "class": "Cleric",
+        "speed": "average",
         "Release date": "2023-07-17",
         "AetherPower": "Ailment Immunity",
         "skill_types": [
@@ -29954,6 +32468,8 @@ window.allHeroesExtra = [
         "fancy name": "Morlock Chieftain",
         "element": "Yellow",
         "rarity": 5,
+        "class": "Ranger",
+        "speed": "fast",
         "Release date": "2021-03-25",
         "AetherPower": "Attack Up",
         "skill_types": [
@@ -29975,6 +32491,8 @@ window.allHeroesExtra = [
         "fancy name": "Morlock Running Back",
         "element": "Yellow",
         "rarity": 5,
+        "class": "Barbarian",
+        "speed": "fast",
         "Release date": "2024-02-01",
         "AetherPower": "Damage Reduction",
         "skill_types": [
@@ -30007,6 +32525,8 @@ window.allHeroesExtra = [
         "fancy name": "Hot Chocolate Connoisseur",
         "element": "Yellow",
         "rarity": 5,
+        "class": "Paladin",
+        "speed": "slow",
         "Release date": "2024-12-01",
         "AetherPower": "Defense Up",
         "skill_types": [
@@ -30027,6 +32547,8 @@ window.allHeroesExtra = [
         "fancy name": "The Pathfinder",
         "element": "Yellow",
         "rarity": 5,
+        "class": "Sorcerer",
+        "speed": "average",
         "Release date": "2024-08-14",
         "AetherPower": "Defense Up",
         "skill_types": [
@@ -30050,6 +32572,8 @@ window.allHeroesExtra = [
         "fancy name": "Tenacious Tracker",
         "element": "Yellow",
         "rarity": 5,
+        "class": "Fighter",
+        "speed": "average",
         "Release date": "2025-02-27",
         "AetherPower": "Fiend Resist",
         "skill_types": [
@@ -30073,6 +32597,8 @@ window.allHeroesExtra = [
         "fancy name": "Figurehead of Corellia",
         "element": "Yellow",
         "rarity": 5,
+        "class": "Fighter",
+        "speed": "fast",
         "Release date": "2022-10-06",
         "AetherPower": "Defense Up",
         "skill_types": [
@@ -30095,6 +32621,8 @@ window.allHeroesExtra = [
         "fancy name": "Cupid of Love Returned",
         "element": "Yellow",
         "rarity": 5,
+        "class": "Cleric",
+        "speed": "fast",
         "Release date": "2025-02-14",
         "AetherPower": "Attack Up",
         "skill_types": [
@@ -30116,6 +32644,8 @@ window.allHeroesExtra = [
         "fancy name": "Kind-hearted Princess",
         "element": "Yellow",
         "rarity": 5,
+        "class": "Rogue",
+        "speed": "fast",
         "Release date": "2021-07-15",
         "AetherPower": "Attack Up",
         "skill_types": [
@@ -30137,6 +32667,8 @@ window.allHeroesExtra = [
         "fancy name": "Lotus Princess",
         "element": "Yellow",
         "rarity": 5,
+        "class": "Ranger",
+        "speed": "fast",
         "Release date": "2023-09-07",
         "AetherPower": "Special Boost",
         "skill_types": [
@@ -30167,6 +32699,8 @@ window.allHeroesExtra = [
         "fancy name": "The Silver-backed Fox",
         "element": "Yellow",
         "rarity": 5,
+        "class": "Cleric",
+        "speed": "fast",
         "Release date": "2025-02-26",
         "AetherPower": "Fiend Resist",
         "skill_types": [
@@ -30191,6 +32725,8 @@ window.allHeroesExtra = [
         "fancy name": "Bard of Resurrection",
         "element": "Yellow",
         "rarity": 5,
+        "class": "Sorcerer",
+        "speed": "average",
         "Release date": "2024-11-14",
         "AetherPower": "Defense Up",
         "skill_types": [
@@ -30214,6 +32750,8 @@ window.allHeroesExtra = [
         "fancy name": "The Master Marksmoth",
         "element": "Yellow",
         "rarity": 5,
+        "class": "Ranger",
+        "speed": "fast",
         "Release date": "2025-05-01",
         "AetherPower": "Special Boost",
         "skill_types": [
@@ -30239,6 +32777,8 @@ window.allHeroesExtra = [
         "fancy name": "The Falcon Commander",
         "element": "Yellow",
         "rarity": 5,
+        "class": "Fighter",
+        "speed": "average",
         "Release date": "2024-06-01",
         "AetherPower": "Special Armor",
         "skill_types": [
@@ -30263,6 +32803,8 @@ window.allHeroesExtra = [
         "fancy name": "Blade Dancer",
         "element": "Yellow",
         "rarity": 5,
+        "class": "Ranger",
+        "speed": "fast",
         "Release date": "2020-09-01",
         "AetherPower": "Rage",
         "skill_types": [
@@ -30286,6 +32828,8 @@ window.allHeroesExtra = [
         "fancy name": "Lunar Acrobat Rat",
         "element": "Yellow",
         "rarity": 5,
+        "class": "Monk",
+        "speed": "fast",
         "Release date": "2025-01-27",
         "AetherPower": "Counterattack",
         "skill_types": [
@@ -30309,6 +32853,8 @@ window.allHeroesExtra = [
         "fancy name": "The Enlightened",
         "element": "Yellow",
         "rarity": 5,
+        "class": "Wizard",
+        "speed": "slayer",
         "Release date": "2021-08-05",
         "AetherPower": "Attack Up",
         "skill_types": [
@@ -30335,6 +32881,8 @@ window.allHeroesExtra = [
         "fancy name": "The Justicar Crusader",
         "element": "Yellow",
         "rarity": 5,
+        "class": "Fighter",
+        "speed": "slayer",
         "Release date": "2024-11-14",
         "AetherPower": "Defense Up",
         "skill_types": [
@@ -30370,6 +32918,8 @@ window.allHeroesExtra = [
         "fancy name": "Leader of the Sacred Clergy",
         "element": "Yellow",
         "rarity": 5,
+        "class": "Cleric",
+        "speed": "slow",
         "Release date": "2022-10-01",
         "AetherPower": "Special Armor",
         "skill_types": [
@@ -30394,6 +32944,8 @@ window.allHeroesExtra = [
         "fancy name": "Songbird of the Opera",
         "element": "Yellow",
         "rarity": 5,
+        "class": "Cleric",
+        "speed": "fast",
         "Release date": "2023-11-30",
         "AetherPower": "Counterattack",
         "skill_types": [
@@ -30421,6 +32973,8 @@ window.allHeroesExtra = [
         "fancy name": "Divine Pharaoh",
         "element": "Yellow",
         "rarity": 5,
+        "class": "Cleric",
+        "speed": "average",
         "Release date": "2022-10-27",
         "AetherPower": "Attack Up",
         "skill_types": [
@@ -30443,6 +32997,8 @@ window.allHeroesExtra = [
         "fancy name": "Feline Pharaoh",
         "element": "Yellow",
         "rarity": 5,
+        "class": "Paladin",
+        "speed": "average",
         "Release date": "2024-04-29",
         "AetherPower": "Special Armor",
         "skill_types": [
@@ -30476,6 +33032,8 @@ window.allHeroesExtra = [
         "fancy name": "Courageous Musketeer",
         "element": "Yellow",
         "rarity": 5,
+        "class": "Rogue",
+        "speed": "fast",
         "Release date": "2023-07-26",
         "AetherPower": "Attack Up",
         "skill_types": [
@@ -30498,6 +33056,8 @@ window.allHeroesExtra = [
         "fancy name": "Hunter Occultist",
         "element": "Yellow",
         "rarity": 5,
+        "class": "Monk",
+        "speed": "average",
         "Release date": "2023-02-09",
         "AetherPower": "Special Armor",
         "skill_types": [
@@ -30521,6 +33081,8 @@ window.allHeroesExtra = [
         "fancy name": "Hero of the Forbidden Island",
         "element": "Yellow",
         "rarity": 5,
+        "class": "Fighter",
+        "speed": "average",
         "Release date": "2018-03-01",
         "AetherPower": "Defense Up",
         "skill_types": [
@@ -30541,6 +33103,8 @@ window.allHeroesExtra = [
         "fancy name": "Guardian of the Celestial Temple",
         "element": "Yellow",
         "rarity": 5,
+        "class": "Paladin",
+        "speed": "average",
         "Release date": "2023-05-15",
         "AetherPower": "Defense Up",
         "skill_types": [
@@ -30570,6 +33134,8 @@ window.allHeroesExtra = [
         "fancy name": "Headstrong Huntress",
         "element": "Yellow",
         "rarity": 5,
+        "class": "Ranger",
+        "speed": "average",
         "Release date": "2021-07-01",
         "AetherPower": "Defense Up",
         "skill_types": [
@@ -30595,6 +33161,8 @@ window.allHeroesExtra = [
         "fancy name": "Master of Circus",
         "element": "Yellow",
         "rarity": 5,
+        "class": "Sorcerer",
+        "speed": "average",
         "Release date": "2021-06-10",
         "AetherPower": "Special Armor",
         "skill_types": [
@@ -30615,6 +33183,8 @@ window.allHeroesExtra = [
         "fancy name": "Reckless Private Investigator",
         "element": "Yellow",
         "rarity": 5,
+        "class": "Cleric",
+        "speed": "fast",
         "Release date": "2024-05-17",
         "AetherPower": "Attack Up",
         "skill_types": [
@@ -30640,6 +33210,8 @@ window.allHeroesExtra = [
         "fancy name": "Master of Martial Arts",
         "element": "Yellow",
         "rarity": 5,
+        "class": "Monk",
+        "speed": "fast",
         "Release date": "2018-08-01",
         "AetherPower": "Attack Up",
         "skill_types": [
@@ -30661,6 +33233,8 @@ window.allHeroesExtra = [
         "fancy name": "Serene Fighter",
         "element": "Yellow",
         "rarity": 5,
+        "class": "Fighter",
+        "speed": "fast",
         "Release date": "2021-12-23",
         "AetherPower": "Special Boost",
         "skill_types": [
@@ -30691,6 +33265,8 @@ window.allHeroesExtra = [
         "fancy name": "Enchanter of the Castle",
         "element": "Yellow",
         "rarity": 5,
+        "class": "Wizard",
+        "speed": "average",
         "Release date": "2022-01-05",
         "AetherPower": "Vampire",
         "skill_types": [
@@ -30710,6 +33286,8 @@ window.allHeroesExtra = [
         "fancy name": "Nereid Princess",
         "element": "Yellow",
         "rarity": 5,
+        "class": "Cleric",
+        "speed": "changing_tides",
         "Release date": "2023-06-07",
         "AetherPower": "Dodge",
         "skill_types": [
@@ -30733,6 +33311,8 @@ window.allHeroesExtra = [
         "fancy name": "Princess of the Reef",
         "element": "Yellow",
         "rarity": 5,
+        "class": "Sorcerer",
+        "speed": "changing_tides",
         "Release date": "2025-03-31",
         "AetherPower": "Ailment Immunity",
         "skill_types": [
@@ -30764,6 +33344,8 @@ window.allHeroesExtra = [
         "fancy name": "Warrior God of Heaven",
         "element": "Yellow",
         "rarity": 5,
+        "class": "Fighter",
+        "speed": "fast",
         "Release date": "2023-01-02",
         "AetherPower": "Attack Up",
         "skill_types": [
@@ -30783,6 +33365,8 @@ window.allHeroesExtra = [
         "fancy name": "Lady of Ten Thousand Names",
         "element": "Yellow",
         "rarity": 5,
+        "class": "Paladin",
+        "speed": "slow",
         "Release date": "2023-01-19",
         "AetherPower": "Attack Up",
         "skill_types": [
@@ -30807,6 +33391,8 @@ window.allHeroesExtra = [
         "fancy name": "Lady of the Golden Sun",
         "element": "Yellow",
         "rarity": 5,
+        "class": "Fighter",
+        "speed": "slow",
         "Release date": "2025-06-11",
         "AetherPower": "Rage",
         "skill_types": [
@@ -30840,6 +33426,8 @@ window.allHeroesExtra = [
         "fancy name": "Trove of Thousand Teeth",
         "element": "Yellow",
         "rarity": 5,
+        "class": "Fighter",
+        "speed": "average",
         "Release date": "2025-05-31",
         "AetherPower": "Bulwark",
         "skill_types": [
@@ -30867,6 +33455,8 @@ window.allHeroesExtra = [
         "fancy name": "Elven White Mage",
         "element": "Yellow",
         "rarity": 5,
+        "class": "Sorcerer",
+        "speed": "slow",
         "Release date": "2024-12-01",
         "AetherPower": "Defense Up",
         "skill_types": [
@@ -30892,6 +33482,8 @@ window.allHeroesExtra = [
         "fancy name": "Astonishing Acrobat",
         "element": "Yellow",
         "rarity": 5,
+        "class": "Wizard",
+        "speed": "fast",
         "Release date": "2021-06-10",
         "AetherPower": "Attack Up",
         "skill_types": [
@@ -30911,6 +33503,8 @@ window.allHeroesExtra = [
         "fancy name": "Streetwise Sergeant",
         "element": "Yellow",
         "rarity": 5,
+        "class": "Fighter",
+        "speed": "average",
         "Release date": "2024-08-04",
         "AetherPower": "Attack Up",
         "skill_types": [
@@ -30934,6 +33528,8 @@ window.allHeroesExtra = [
         "fancy name": "Ruffian of the Canine Expedition",
         "element": "Yellow",
         "rarity": 5,
+        "class": "Cleric",
+        "speed": "average",
         "Release date": "2022-11-03",
         "AetherPower": "Attack Up",
         "skill_types": [
@@ -30959,6 +33555,8 @@ window.allHeroesExtra = [
         "fancy name": "Dwarven Wind Warrior",
         "element": "Yellow",
         "rarity": 5,
+        "class": "Ranger",
+        "speed": "slow",
         "Release date": "2024-12-03",
         "AetherPower": "Ailment Immunity",
         "skill_types": [
@@ -30987,6 +33585,8 @@ window.allHeroesExtra = [
         "fancy name": "Courageous Faun Commander",
         "element": "Yellow",
         "rarity": 5,
+        "class": "Paladin",
+        "speed": "slow",
         "Release date": "2024-12-07",
         "AetherPower": "Boosted Regen",
         "skill_types": [
@@ -31012,6 +33612,8 @@ window.allHeroesExtra = [
         "fancy name": "Quixotic Adventurer",
         "element": "Yellow",
         "rarity": 5,
+        "class": "Barbarian",
+        "speed": "slow",
         "Release date": "2023-03-01",
         "AetherPower": "Regen",
         "skill_types": [
@@ -31035,6 +33637,8 @@ window.allHeroesExtra = [
         "fancy name": "Golden Slime King",
         "element": "Yellow",
         "rarity": 5,
+        "class": "Sorcerer",
+        "speed": "average",
         "Release date": "2025-06-07",
         "AetherPower": "Bulwark",
         "skill_types": [
@@ -31058,6 +33662,8 @@ window.allHeroesExtra = [
         "fancy name": "Lunar Guardian Ox",
         "element": "Yellow",
         "rarity": 5,
+        "class": "Cleric",
+        "speed": "slow",
         "Release date": "2024-02-08",
         "AetherPower": "Boosted Regen",
         "skill_types": [
@@ -31081,6 +33687,8 @@ window.allHeroesExtra = [
         "fancy name": "Wise Sanctuary Goo",
         "element": "Yellow",
         "rarity": 5,
+        "class": "Cleric",
+        "speed": "average",
         "Release date": "2025-01-20",
         "AetherPower": "Damage Reduction",
         "skill_types": [
@@ -31104,6 +33712,8 @@ window.allHeroesExtra = [
         "fancy name": "Hospitable Quartermaster",
         "element": "Yellow",
         "rarity": 5,
+        "class": "Cleric",
+        "speed": "slow",
         "Release date": "2024-04-22",
         "AetherPower": "Taunt",
         "skill_types": [
@@ -31127,6 +33737,8 @@ window.allHeroesExtra = [
         "fancy name": "True Arrow of Teltoc",
         "element": "Yellow",
         "rarity": 5,
+        "class": "Ranger",
+        "speed": "slow",
         "Release date": "2024-02-22",
         "AetherPower": "Special Armor",
         "skill_types": [
@@ -31152,6 +33764,8 @@ window.allHeroesExtra = [
         "fancy name": "Druid of Teltoc",
         "element": "Yellow",
         "rarity": 5,
+        "class": "Druid",
+        "speed": "average",
         "Release date": "2020-01-08",
         "AetherPower": "Ailment Immunity",
         "skill_types": [
@@ -31176,6 +33790,8 @@ window.allHeroesExtra = [
         "fancy name": "Swift Striker of Teltoc",
         "element": "Yellow",
         "rarity": 5,
+        "class": "Fighter",
+        "speed": "average",
         "Release date": "2023-01-26",
         "AetherPower": "Heal Increase",
         "skill_types": [
@@ -31206,6 +33822,8 @@ window.allHeroesExtra = [
         "fancy name": "Elite Guardian of Teltoc",
         "element": "Yellow",
         "rarity": 5,
+        "class": "Druid",
+        "speed": "very_slow",
         "Release date": "2017-10-05",
         "AetherPower": "Mana Boost",
         "skill_types": [
@@ -31227,6 +33845,8 @@ window.allHeroesExtra = [
         "fancy name": "Queen of Avalon",
         "element": "Yellow",
         "rarity": 5,
+        "class": "Wizard",
+        "speed": "average",
         "Release date": "2018-01-05",
         "AetherPower": "Bulwark",
         "skill_types": [
@@ -31247,6 +33867,8 @@ window.allHeroesExtra = [
         "fancy name": "Dragonrider of Avalon",
         "element": "Yellow",
         "rarity": 5,
+        "class": "Paladin",
+        "speed": "average",
         "Release date": "2023-04-20",
         "AetherPower": "Special Armor",
         "skill_types": [
@@ -31273,6 +33895,8 @@ window.allHeroesExtra = [
         "fancy name": "Energy Flow Construct",
         "element": "Yellow",
         "rarity": 5,
+        "class": "Sorcerer",
+        "speed": "average",
         "Release date": "2024-07-12",
         "AetherPower": "Attack Up",
         "skill_types": [
@@ -31298,6 +33922,8 @@ window.allHeroesExtra = [
         "fancy name": "Puppy of Loyalty",
         "element": "Yellow",
         "rarity": 5,
+        "class": "Monk",
+        "speed": "average",
         "Release date": "2022-11-03",
         "AetherPower": "Regen",
         "skill_types": [
@@ -31321,6 +33947,8 @@ window.allHeroesExtra = [
         "fancy name": "Lemurian Goddess",
         "element": "Yellow",
         "rarity": 5,
+        "class": "Monk",
+        "speed": "fast",
         "Release date": "2021-12-01",
         "AetherPower": "Damage Reduction",
         "skill_types": [
@@ -31344,6 +33972,8 @@ window.allHeroesExtra = [
         "fancy name": "Astral Dwarf Augur",
         "element": "Yellow",
         "rarity": 5,
+        "class": "Sorcerer",
+        "speed": "average",
         "Release date": "2025-06-04",
         "AetherPower": "Special Boost",
         "skill_types": [
@@ -31372,6 +34002,8 @@ window.allHeroesExtra = [
         "fancy name": "Fearless Gargoyle",
         "element": "Yellow",
         "rarity": 5,
+        "class": "Fighter",
+        "speed": "average",
         "Release date": "2024-06-13",
         "AetherPower": "Dodge",
         "skill_types": [
@@ -31398,6 +34030,8 @@ window.allHeroesExtra = [
         "fancy name": "God of the Hunt",
         "element": "Yellow",
         "rarity": 5,
+        "class": "Barbarian",
+        "speed": "very_fast",
         "Release date": "2022-05-19",
         "AetherPower": "Dodge",
         "skill_types": [
@@ -31419,6 +34053,8 @@ window.allHeroesExtra = [
         "fancy name": "Golden Hunter",
         "element": "Yellow",
         "rarity": 5,
+        "class": "Monk",
+        "speed": "very_fast",
         "Release date": "2024-04-01",
         "AetherPower": "Special Boost",
         "skill_types": [
@@ -31449,6 +34085,8 @@ window.allHeroesExtra = [
         "fancy name": "Master of Kunai Storm",
         "element": "Yellow",
         "rarity": 5,
+        "class": "Cleric",
+        "speed": "charge_ninja",
         "Release date": "2024-08-27",
         "AetherPower": "Fiend Resist",
         "skill_types": [
@@ -31472,6 +34110,8 @@ window.allHeroesExtra = [
         "fancy name": "Nine-tailed Spirit",
         "element": "Yellow",
         "rarity": 5,
+        "class": "Rogue",
+        "speed": "average",
         "Release date": "2019-02-01",
         "AetherPower": "Attack Up",
         "skill_types": [
@@ -31493,6 +34133,8 @@ window.allHeroesExtra = [
         "fancy name": "White Kitsune Spirit",
         "element": "Yellow",
         "rarity": 5,
+        "class": "Druid",
+        "speed": "average",
         "Release date": "2022-05-02",
         "AetherPower": "Special Boost",
         "skill_types": [
@@ -31520,6 +34162,8 @@ window.allHeroesExtra = [
         "fancy name": "Warlord of the Unwavering Orcs",
         "element": "Yellow",
         "rarity": 5,
+        "class": "Barbarian",
+        "speed": "average",
         "Release date": "2023-12-04",
         "AetherPower": "Attack Up",
         "skill_types": [
@@ -31544,6 +34188,8 @@ window.allHeroesExtra = [
         "fancy name": "Virtuous Cat Burglar",
         "element": "Yellow",
         "rarity": 5,
+        "class": "Rogue",
+        "speed": "very_fast",
         "Release date": "2023-08-01",
         "AetherPower": "Attack Up",
         "skill_types": [
@@ -31569,6 +34215,8 @@ window.allHeroesExtra = [
         "fancy name": "Masked Goddess of the Moon",
         "element": "Yellow",
         "rarity": 5,
+        "class": "Wizard",
+        "speed": "average",
         "Release date": "2023-07-13",
         "AetherPower": "Attack Up",
         "skill_types": [
@@ -31592,6 +34240,8 @@ window.allHeroesExtra = [
         "fancy name": "Florist Bull",
         "element": "Yellow",
         "rarity": 5,
+        "class": "Cleric",
+        "speed": "slow",
         "Release date": "2023-03-27",
         "AetherPower": "Defense Up",
         "skill_types": [
@@ -31612,6 +34262,8 @@ window.allHeroesExtra = [
         "fancy name": "Fisherman Bull",
         "element": "Yellow",
         "rarity": 5,
+        "class": "Monk",
+        "speed": "slow",
         "Release date": "2024-03-18",
         "AetherPower": "Boosted Regen",
         "skill_types": [
@@ -31638,6 +34290,8 @@ window.allHeroesExtra = [
         "fancy name": "The Cosmic Enigma",
         "element": "Yellow",
         "rarity": 5,
+        "class": "Monk",
+        "speed": "very_fast",
         "Release date": "2022-10-10",
         "AetherPower": "Counterattack",
         "skill_types": [
@@ -31661,6 +34315,8 @@ window.allHeroesExtra = [
         "fancy name": "The Gilded Enigma",
         "element": "Yellow",
         "rarity": 5,
+        "class": "Rogue",
+        "speed": "very_fast",
         "Release date": "2025-06-20",
         "AetherPower": "Ailment Immunity",
         "skill_types": [
@@ -31690,6 +34346,8 @@ window.allHeroesExtra = [
         "fancy name": "Flame of the Sun",
         "element": "Yellow",
         "rarity": 5,
+        "class": "Monk",
+        "speed": "fast",
         "Release date": "2017-03-01",
         "AetherPower": "Dodge",
         "skill_types": [
@@ -31709,6 +34367,8 @@ window.allHeroesExtra = [
         "fancy name": "Fury of the Sun",
         "element": "Yellow",
         "rarity": 5,
+        "class": "Fighter",
+        "speed": "fast",
         "Release date": "2020-01-01",
         "AetherPower": "Damage Reduction",
         "skill_types": [
@@ -31734,6 +34394,8 @@ window.allHeroesExtra = [
         "fancy name": "Might of the Sun",
         "element": "Yellow",
         "rarity": 5,
+        "class": "Barbarian",
+        "speed": "fast",
         "Release date": "2022-12-26",
         "AetherPower": "Ailment Immunity",
         "skill_types": [
@@ -31760,6 +34422,8 @@ window.allHeroesExtra = [
         "fancy name": "Toon of the Sun",
         "element": "Yellow",
         "rarity": 5,
+        "class": "Monk",
+        "speed": "fast",
         "Release date": "2024-02-12",
         "AetherPower": "Dodge",
         "skill_types": [
@@ -31788,6 +34452,8 @@ window.allHeroesExtra = [
         "fancy name": "Vitrail of the Sun",
         "element": "Yellow",
         "rarity": 5,
+        "class": "Monk",
+        "speed": "fast",
         "Release date": "2025-04-08",
         "AetherPower": "Dodge",
         "skill_types": [
@@ -31816,6 +34482,8 @@ window.allHeroesExtra = [
         "fancy name": "Masked God of the Sky",
         "element": "Yellow",
         "rarity": 5,
+        "class": "Ranger",
+        "speed": "fast",
         "Release date": "2022-11-22",
         "AetherPower": "Special Armor",
         "skill_types": [
@@ -31838,6 +34506,8 @@ window.allHeroesExtra = [
         "fancy name": "Ancient of Stone",
         "element": "Yellow",
         "rarity": 5,
+        "class": "Paladin",
+        "speed": "slow",
         "Release date": "2017-03-01",
         "AetherPower": "Defense Up",
         "skill_types": [
@@ -31857,6 +34527,8 @@ window.allHeroesExtra = [
         "fancy name": "Ancient of the Sun",
         "element": "Yellow",
         "rarity": 5,
+        "class": "Wizard",
+        "speed": "slow",
         "Release date": "2021-01-18",
         "AetherPower": "Special Armor",
         "skill_types": [
@@ -31883,6 +34555,8 @@ window.allHeroesExtra = [
         "fancy name": "Ancient of Thorns",
         "element": "Yellow",
         "rarity": 5,
+        "class": "Sorcerer",
+        "speed": "slow",
         "Release date": "2023-02-20",
         "AetherPower": "Special Boost",
         "skill_types": [
@@ -31909,6 +34583,8 @@ window.allHeroesExtra = [
         "fancy name": "Toon of Stone",
         "element": "Yellow",
         "rarity": 5,
+        "class": "Paladin",
+        "speed": "slow",
         "Release date": "2024-06-28",
         "AetherPower": "Defense Up",
         "skill_types": [
@@ -31937,6 +34613,8 @@ window.allHeroesExtra = [
         "fancy name": "Hallowed Defender",
         "element": "Yellow",
         "rarity": 5,
+        "class": "Paladin",
+        "speed": "average",
         "Release date": "2022-05-01",
         "AetherPower": "Taunt",
         "skill_types": [
@@ -31960,6 +34638,8 @@ window.allHeroesExtra = [
         "fancy name": "Vengeful Son",
         "element": "Yellow",
         "rarity": 5,
+        "class": "Rogue",
+        "speed": "average",
         "Release date": "2022-06-20",
         "AetherPower": "Attack Up",
         "skill_types": [
@@ -31981,6 +34661,8 @@ window.allHeroesExtra = [
         "fancy name": "Battle-Scarred Son",
         "element": "Yellow",
         "rarity": 5,
+        "class": "Fighter",
+        "speed": "average",
         "Release date": "2023-08-07",
         "AetherPower": "Rage",
         "skill_types": [
@@ -32008,6 +34690,8 @@ window.allHeroesExtra = [
         "fancy name": "The Fist of Deception",
         "element": "Yellow",
         "rarity": 5,
+        "class": "Paladin",
+        "speed": "charge_ninja",
         "Release date": "2023-05-31",
         "AetherPower": "Ailment Immunity",
         "skill_types": [
@@ -32029,6 +34713,8 @@ window.allHeroesExtra = [
         "fancy name": "Lunar Brawler Tiger",
         "element": "Yellow",
         "rarity": 5,
+        "class": "Monk",
+        "speed": "fast",
         "Release date": "2023-01-19",
         "AetherPower": "Heal Increase",
         "skill_types": [
@@ -32051,6 +34737,8 @@ window.allHeroesExtra = [
         "fancy name": "Baseball Champion",
         "element": "Yellow",
         "rarity": 5,
+        "class": "Barbarian",
+        "speed": "average",
         "Release date": "2024-03-08",
         "AetherPower": "Dodge",
         "skill_types": [
@@ -32076,6 +34764,8 @@ window.allHeroesExtra = [
         "fancy name": "Astral Elf Marksman",
         "element": "Yellow",
         "rarity": 5,
+        "class": "Ranger",
+        "speed": "fast",
         "Release date": "2024-03-07",
         "AetherPower": "Dodge",
         "skill_types": [
@@ -32102,6 +34792,8 @@ window.allHeroesExtra = [
         "fancy name": "Unyielding King",
         "element": "Yellow",
         "rarity": 5,
+        "class": "Monk",
+        "speed": "average",
         "Release date": "2017-03-01",
         "AetherPower": "Counterattack",
         "skill_types": [
@@ -32122,6 +34814,8 @@ window.allHeroesExtra = [
         "fancy name": "King of Sparta",
         "element": "Yellow",
         "rarity": 5,
+        "class": "Barbarian",
+        "speed": "average",
         "Release date": "2021-01-18",
         "AetherPower": "Damage Reduction",
         "skill_types": [
@@ -32148,6 +34842,8 @@ window.allHeroesExtra = [
         "fancy name": "Unyielding Mage",
         "element": "Yellow",
         "rarity": 5,
+        "class": "Ranger",
+        "speed": "average",
         "Release date": "2022-12-26",
         "AetherPower": "Ailment Immunity",
         "skill_types": [
@@ -32174,6 +34870,8 @@ window.allHeroesExtra = [
         "fancy name": "Unyielding Toon",
         "element": "Yellow",
         "rarity": 5,
+        "class": "Monk",
+        "speed": "average",
         "Release date": "2023-12-25",
         "AetherPower": "Counterattack",
         "skill_types": [
@@ -32203,6 +34901,8 @@ window.allHeroesExtra = [
         "fancy name": "Unyielding Vitrail",
         "element": "Yellow",
         "rarity": 5,
+        "class": "Monk",
+        "speed": "average",
         "Release date": "2025-02-11",
         "AetherPower": "Counterattack",
         "skill_types": [
@@ -32232,6 +34932,8 @@ window.allHeroesExtra = [
         "fancy name": "Head Priestess of Owl Tower",
         "element": "Yellow",
         "rarity": 5,
+        "class": "Paladin",
+        "speed": "average",
         "Release date": "2024-02-14",
         "AetherPower": "Regen",
         "skill_types": [
@@ -32255,6 +34957,8 @@ window.allHeroesExtra = [
         "fancy name": "Titanbone Warrior",
         "element": "Yellow",
         "rarity": 5,
+        "class": "Monk",
+        "speed": "slow",
         "Release date": "2022-08-25",
         "AetherPower": "Counterattack",
         "skill_types": [
@@ -32280,6 +34984,8 @@ window.allHeroesExtra = [
         "fancy name": "Reigning Champion",
         "element": "Yellow",
         "rarity": 5,
+        "class": "Barbarian",
+        "speed": "very_fast",
         "Release date": "2020-04-01",
         "AetherPower": "Rage",
         "skill_types": [
@@ -32302,6 +35008,8 @@ window.allHeroesExtra = [
         "fancy name": "Unhallowed Pastry Chef",
         "element": "Yellow",
         "rarity": 5,
+        "class": "Monk",
+        "speed": "average",
         "Release date": "2022-10-03",
         "AetherPower": "Defense Up",
         "skill_types": [
@@ -32324,6 +35032,8 @@ window.allHeroesExtra = [
         "fancy name": "The Blissful Harvester",
         "element": "Yellow",
         "rarity": 5,
+        "class": "Monk",
+        "speed": "average",
         "Release date": "2025-05-01",
         "AetherPower": "Defense Up",
         "skill_types": [
@@ -32347,6 +35057,8 @@ window.allHeroesExtra = [
         "fancy name": "Starlet Ballerina",
         "element": "Yellow",
         "rarity": 5,
+        "class": "Paladin",
+        "speed": "average",
         "Release date": "2024-03-21",
         "AetherPower": "Defense Up",
         "skill_types": [
@@ -32371,6 +35083,8 @@ window.allHeroesExtra = [
         "fancy name": "Astral Elf Poet",
         "element": "Yellow",
         "rarity": 5,
+        "class": "Cleric",
+        "speed": "fast",
         "Release date": "2024-09-16",
         "AetherPower": "Fiend Resist",
         "skill_types": [
@@ -32394,6 +35108,8 @@ window.allHeroesExtra = [
         "fancy name": "Sphinx of the Sun",
         "element": "Yellow",
         "rarity": 5,
+        "class": "Druid",
+        "speed": "average",
         "Release date": "2023-04-13",
         "AetherPower": "Attack Up",
         "skill_types": [
@@ -32416,6 +35132,8 @@ window.allHeroesExtra = [
         "fancy name": "Sphinx of the Disco",
         "element": "Yellow",
         "rarity": 5,
+        "class": "Wizard",
+        "speed": "average",
         "Release date": "2024-06-24",
         "AetherPower": "Special Boost",
         "skill_types": [
@@ -32447,6 +35165,8 @@ window.allHeroesExtra = [
         "fancy name": "Ninja of Silent Screams",
         "element": "Yellow",
         "rarity": 5,
+        "class": "Paladin",
+        "speed": "charge_ninja",
         "Release date": "2020-10-13",
         "AetherPower": "Special Armor",
         "skill_types": [
@@ -32467,6 +35187,8 @@ window.allHeroesExtra = [
         "fancy name": "Astral Elf Summoner",
         "element": "Yellow",
         "rarity": 5,
+        "class": "Sorcerer",
+        "speed": "average",
         "Release date": "2024-07-10",
         "AetherPower": "Dodge",
         "skill_types": [
@@ -32492,6 +35214,8 @@ window.allHeroesExtra = [
         "fancy name": "Master Groundskeeper",
         "element": "Yellow",
         "rarity": 5,
+        "class": "Cleric",
+        "speed": "charge_magic",
         "Release date": "2021-09-15",
         "AetherPower": "Fiend Resist",
         "skill_types": [
@@ -32517,6 +35241,8 @@ window.allHeroesExtra = [
         "fancy name": "Invincible Ronin",
         "element": "Yellow",
         "rarity": 5,
+        "class": "Rogue",
+        "speed": "fast",
         "Release date": "2017-09-01",
         "AetherPower": "Attack Up",
         "skill_types": [
@@ -32538,6 +35264,8 @@ window.allHeroesExtra = [
         "fancy name": "Escape Artist",
         "element": "Yellow",
         "rarity": 5,
+        "class": "Barbarian",
+        "speed": "fast",
         "Release date": "2023-10-02",
         "AetherPower": "Rage",
         "skill_types": [
@@ -32568,6 +35296,8 @@ window.allHeroesExtra = [
         "fancy name": "Opener of the Ways",
         "element": "Yellow",
         "rarity": 5,
+        "class": "Ranger",
+        "speed": "average",
         "Release date": "2019-11-01",
         "AetherPower": "Attack Up",
         "skill_types": [
@@ -32591,6 +35321,8 @@ window.allHeroesExtra = [
         "fancy name": "Goddess of Divine Retribution",
         "element": "Yellow",
         "rarity": 5,
+        "class": "Paladin",
+        "speed": "styx",
         "Release date": "2022-09-21",
         "AetherPower": "Defense Up",
         "skill_types": [
@@ -32614,6 +35346,8 @@ window.allHeroesExtra = [
         "fancy name": "Beowulf's Bane",
         "element": "Yellow",
         "rarity": 5,
+        "class": "Fighter",
+        "speed": "average",
         "Release date": "2025-05-18",
         "AetherPower": "Ailment Immunity",
         "skill_types": [
@@ -32638,6 +35372,8 @@ window.allHeroesExtra = [
         "fancy name": "Weavers of Destiny",
         "element": "Yellow",
         "rarity": 5,
+        "class": "Sorcerer",
+        "speed": "average",
         "Release date": "2020-03-26",
         "AetherPower": "Special Boost",
         "skill_types": [
@@ -32656,6 +35392,8 @@ window.allHeroesExtra = [
         "fancy name": "Puppeteers of Destiny",
         "element": "Yellow",
         "rarity": 5,
+        "class": "Wizard",
+        "speed": "average",
         "Release date": "2023-08-28",
         "AetherPower": "Ailment Immunity",
         "skill_types": [
@@ -32680,6 +35418,8 @@ window.allHeroesExtra = [
         "fancy name": "Wise All-Father",
         "element": "Yellow",
         "rarity": 5,
+        "class": "Paladin",
+        "speed": "fast",
         "Release date": "2020-11-26",
         "AetherPower": "Attack Up",
         "skill_types": [
@@ -32700,6 +35440,8 @@ window.allHeroesExtra = [
         "fancy name": "Valiant All-Father",
         "element": "Yellow",
         "rarity": 5,
+        "class": "Fighter",
+        "speed": "fast",
         "Release date": "2023-03-13",
         "AetherPower": "Special Boost",
         "skill_types": [
@@ -32726,6 +35468,8 @@ window.allHeroesExtra = [
         "fancy name": "Bard of Spirits",
         "element": "Yellow",
         "rarity": 5,
+        "class": "Barbarian",
+        "speed": "fast",
         "Release date": "2022-12-01",
         "AetherPower": "Defense Up",
         "skill_types": [
@@ -32749,6 +35493,8 @@ window.allHeroesExtra = [
         "fancy name": "Blind Seer",
         "element": "Yellow",
         "rarity": 5,
+        "class": "Wizard",
+        "speed": "average",
         "Release date": "2019-01-01",
         "AetherPower": "Damage Reduction",
         "skill_types": [
@@ -32772,6 +35518,8 @@ window.allHeroesExtra = [
         "fancy name": "Golem of Paper and Sand",
         "element": "Yellow",
         "rarity": 5,
+        "class": "Druid",
+        "speed": "average",
         "Release date": "2022-04-21",
         "AetherPower": "Special Armor",
         "skill_types": [
@@ -32794,6 +35542,8 @@ window.allHeroesExtra = [
         "fancy name": "Colossus of Paper and Sand",
         "element": "Yellow",
         "rarity": 5,
+        "class": "Paladin",
+        "speed": "average",
         "Release date": "2024-10-05",
         "AetherPower": "Regen",
         "skill_types": [
@@ -32827,6 +35577,8 @@ window.allHeroesExtra = [
         "fancy name": "Relentless Gargoyle",
         "element": "Yellow",
         "rarity": 5,
+        "class": "Ranger",
+        "speed": "average",
         "Release date": "2021-11-24",
         "AetherPower": "Attack Up",
         "skill_types": [
@@ -32851,6 +35603,8 @@ window.allHeroesExtra = [
         "fancy name": "Water Spirit of Plunder",
         "element": "Yellow",
         "rarity": 5,
+        "class": "Wizard",
+        "speed": "changing_tides",
         "Release date": "2023-10-25",
         "AetherPower": "Attack Up",
         "skill_types": [
@@ -32876,6 +35630,8 @@ window.allHeroesExtra = [
         "fancy name": "Jellyfish Noble",
         "element": "Yellow",
         "rarity": 5,
+        "class": "Druid",
+        "speed": "changing_tides",
         "Release date": "2025-01-09",
         "AetherPower": "Special Boost",
         "skill_types": [
@@ -32909,6 +35665,8 @@ window.allHeroesExtra = [
         "fancy name": "Knight Guardian of Owl Tower",
         "element": "Yellow",
         "rarity": 5,
+        "class": "Paladin",
+        "speed": "average",
         "Release date": "2025-02-05",
         "AetherPower": "Counterattack",
         "skill_types": [
@@ -32935,6 +35693,8 @@ window.allHeroesExtra = [
         "fancy name": "Mesmerizing Faun Minstrel",
         "element": "Yellow",
         "rarity": 5,
+        "class": "Fighter",
+        "speed": "fast",
         "Release date": "2025-04-18",
         "AetherPower": "Attack Up",
         "skill_types": [
@@ -32960,6 +35720,8 @@ window.allHeroesExtra = [
         "fancy name": "Ruler of Atlantis",
         "element": "Yellow",
         "rarity": 5,
+        "class": "Fighter",
+        "speed": "fast",
         "Release date": "2019-02-19",
         "AetherPower": "Attack Up",
         "skill_types": [
@@ -32979,6 +35741,8 @@ window.allHeroesExtra = [
         "fancy name": "Slayer of Atlantis",
         "element": "Yellow",
         "rarity": 5,
+        "class": "Ranger",
+        "speed": "fast",
         "Release date": "2021-11-15",
         "AetherPower": "Special Boost",
         "skill_types": [
@@ -33004,6 +35768,8 @@ window.allHeroesExtra = [
         "fancy name": "Sagacious Scientist",
         "element": "Yellow",
         "rarity": 5,
+        "class": "Cleric",
+        "speed": "slow",
         "Release date": "2021-03-25",
         "AetherPower": "Heal Increase",
         "skill_types": [
@@ -33026,6 +35792,8 @@ window.allHeroesExtra = [
         "fancy name": "Sagacious Jeweler",
         "element": "Yellow",
         "rarity": 5,
+        "class": "Monk",
+        "speed": "slow",
         "Release date": "2023-04-27",
         "AetherPower": "Special Armor",
         "skill_types": [
@@ -33056,6 +35824,8 @@ window.allHeroesExtra = [
         "fancy name": "Unparalleled Beauty",
         "element": "Yellow",
         "rarity": 5,
+        "class": "Sorcerer",
+        "speed": "average",
         "Release date": "2023-02-27",
         "AetherPower": "Fiend Resist",
         "skill_types": [
@@ -33075,6 +35845,8 @@ window.allHeroesExtra = [
         "fancy name": "Queen of Sand Empire",
         "element": "Yellow",
         "rarity": 5,
+        "class": "Monk",
+        "speed": "average",
         "Release date": "2018-06-21",
         "AetherPower": "Counterattack",
         "skill_types": [
@@ -33096,6 +35868,8 @@ window.allHeroesExtra = [
         "fancy name": "Surfer Queen",
         "element": "Yellow",
         "rarity": 5,
+        "class": "Cleric",
+        "speed": "average",
         "Release date": "2021-06-21",
         "AetherPower": "Defense Up",
         "skill_types": [
@@ -33123,6 +35897,8 @@ window.allHeroesExtra = [
         "fancy name": "Holy Centaur",
         "element": "Yellow",
         "rarity": 5,
+        "class": "Druid",
+        "speed": "fast",
         "Release date": "2019-06-01",
         "AetherPower": "Gamble",
         "skill_types": [
@@ -33146,6 +35922,8 @@ window.allHeroesExtra = [
         "fancy name": "Bard of Valor",
         "element": "Yellow",
         "rarity": 5,
+        "class": "Cleric",
+        "speed": "fast",
         "Release date": "2022-08-11",
         "AetherPower": "Attack Up",
         "skill_types": [
@@ -33171,6 +35949,8 @@ window.allHeroesExtra = [
         "fancy name": "Protector of Sand Empire",
         "element": "Yellow",
         "rarity": 5,
+        "class": "Barbarian",
+        "speed": "average",
         "Release date": "2020-06-29",
         "AetherPower": "Dodge",
         "skill_types": [
@@ -33191,6 +35971,8 @@ window.allHeroesExtra = [
         "fancy name": "Protector of the Beach",
         "element": "Yellow",
         "rarity": 5,
+        "class": "Fighter",
+        "speed": "average",
         "Release date": "2022-05-16",
         "AetherPower": "Damage Reduction",
         "skill_types": [
@@ -33217,6 +35999,8 @@ window.allHeroesExtra = [
         "fancy name": "Cheerful Captain",
         "element": "Yellow",
         "rarity": 5,
+        "class": "Cleric",
+        "speed": "fast",
         "Release date": "2024-10-27",
         "AetherPower": "Counterattack",
         "skill_types": [
@@ -33242,6 +36026,8 @@ window.allHeroesExtra = [
         "fancy name": "Destruction Star of Water Margin",
         "element": "Yellow",
         "rarity": 5,
+        "class": "Monk",
+        "speed": "fast",
         "Release date": "2025-05-22",
         "AetherPower": "Dodge",
         "skill_types": [
@@ -33267,6 +36053,8 @@ window.allHeroesExtra = [
         "fancy name": "Astral Dwarf Warden",
         "element": "Yellow",
         "rarity": 5,
+        "class": "Ranger",
+        "speed": "fast",
         "Release date": "2024-12-22",
         "AetherPower": "Attack Up",
         "skill_types": [
@@ -33293,6 +36081,8 @@ window.allHeroesExtra = [
         "fancy name": "The Clergymoth",
         "element": "Yellow",
         "rarity": 5,
+        "class": "Cleric",
+        "speed": "average",
         "Release date": "2025-01-23",
         "AetherPower": "Attack Up",
         "skill_types": [
@@ -33318,6 +36108,8 @@ window.allHeroesExtra = [
         "fancy name": "Retired Boar Rider",
         "element": "Yellow",
         "rarity": 5,
+        "class": "Paladin",
+        "speed": "slow",
         "Release date": "2024-04-15",
         "AetherPower": "Ailment Immunity",
         "skill_types": [
@@ -33341,6 +36133,8 @@ window.allHeroesExtra = [
         "fancy name": "Cleric Construct",
         "element": "Yellow",
         "rarity": 5,
+        "class": "Cleric",
+        "speed": "average",
         "Release date": "2023-12-08",
         "AetherPower": "Defense Up",
         "skill_types": [
@@ -33366,6 +36160,8 @@ window.allHeroesExtra = [
         "fancy name": "Lizardfolk Lanternbearer",
         "element": "Yellow",
         "rarity": 5,
+        "class": "Fighter",
+        "speed": "fast",
         "Release date": "2024-04-15",
         "AetherPower": "Attack Up",
         "skill_types": [
@@ -33389,6 +36185,8 @@ window.allHeroesExtra = [
         "fancy name": "Fair-Haired Deity",
         "element": "Yellow",
         "rarity": 5,
+        "class": "Rogue",
+        "speed": "average",
         "Release date": "2020-02-27",
         "AetherPower": "Ailment Immunity",
         "skill_types": [
@@ -33410,6 +36208,8 @@ window.allHeroesExtra = [
         "fancy name": "Golden Deity",
         "element": "Yellow",
         "rarity": 5,
+        "class": "Cleric",
+        "speed": "average",
         "Release date": "2022-08-29",
         "AetherPower": "Damage Reduction",
         "skill_types": [
@@ -33437,6 +36237,8 @@ window.allHeroesExtra = [
         "fancy name": "The Pirate Fennec Fox",
         "element": "Yellow",
         "rarity": 5,
+        "class": "Monk",
+        "speed": "average",
         "Release date": "2025-01-11",
         "AetherPower": "Dodge",
         "skill_types": [
@@ -33460,6 +36262,8 @@ window.allHeroesExtra = [
         "fancy name": "Mighty Knight of Springvale",
         "element": "Yellow",
         "rarity": 5,
+        "class": "Paladin",
+        "speed": "average",
         "Release date": "2020-04-06",
         "AetherPower": "Special Boost",
         "skill_types": [
@@ -33479,6 +36283,8 @@ window.allHeroesExtra = [
         "fancy name": "Singing Tavern Slime",
         "element": "Yellow",
         "rarity": 5,
+        "class": "Cleric",
+        "speed": "average",
         "Release date": "2024-09-04",
         "AetherPower": "Regen",
         "skill_types": [
@@ -33501,6 +36307,8 @@ window.allHeroesExtra = [
         "fancy name": "Great Mystery of the River",
         "element": "Yellow",
         "rarity": 5,
+        "class": "Monk",
+        "speed": "very_fast",
         "Release date": "2024-04-02",
         "AetherPower": "Damage Reduction",
         "skill_types": [
@@ -33524,6 +36332,8 @@ window.allHeroesExtra = [
         "fancy name": "God of Thunder",
         "element": "Yellow",
         "rarity": 5,
+        "class": "Fighter",
+        "speed": "very_fast",
         "Release date": "2021-01-28",
         "AetherPower": "Attack Up",
         "skill_types": [
@@ -33544,6 +36354,8 @@ window.allHeroesExtra = [
         "fancy name": "Conduit of Thunder",
         "element": "Yellow",
         "rarity": 5,
+        "class": "Paladin",
+        "speed": "very_fast",
         "Release date": "2022-12-19",
         "AetherPower": "Special Boost",
         "skill_types": [
@@ -33569,6 +36381,8 @@ window.allHeroesExtra = [
         "fancy name": "Enraged Gorilla",
         "element": "Yellow",
         "rarity": 5,
+        "class": "Fighter",
+        "speed": "slow",
         "Release date": "2023-05-06",
         "AetherPower": "Taunt",
         "skill_types": [
@@ -33593,6 +36407,8 @@ window.allHeroesExtra = [
         "fancy name": "Star-Blessed Hunter",
         "element": "Yellow",
         "rarity": 5,
+        "class": "Ranger",
+        "speed": "fast",
         "Release date": "2024-05-23",
         "AetherPower": "Attack Up",
         "skill_types": [
@@ -33617,6 +36433,8 @@ window.allHeroesExtra = [
         "fancy name": "Ninja of Perfect Precision",
         "element": "Yellow",
         "rarity": 5,
+        "class": "Sorcerer",
+        "speed": "charge_ninja",
         "Release date": "2022-02-02",
         "AetherPower": "Special Boost",
         "skill_types": [
@@ -33637,6 +36455,8 @@ window.allHeroesExtra = [
         "fancy name": "Arcane Vizier",
         "element": "Yellow",
         "rarity": 5,
+        "class": "Sorcerer",
+        "speed": "average",
         "Release date": "2021-02-01",
         "AetherPower": "Special Boost",
         "skill_types": [
@@ -33662,6 +36482,8 @@ window.allHeroesExtra = [
         "fancy name": "Mystic Chess Master",
         "element": "Yellow",
         "rarity": 5,
+        "class": "Cleric",
+        "speed": "charge_magic",
         "Release date": "2023-11-15",
         "AetherPower": "Damage Reduction",
         "skill_types": [
@@ -33688,6 +36510,8 @@ window.allHeroesExtra = [
         "fancy name": "Scholar Supreme",
         "element": "Yellow",
         "rarity": 5,
+        "class": "Cleric",
+        "speed": "slow",
         "Release date": "2017-03-01",
         "AetherPower": "Defense Up",
         "skill_types": [
@@ -33708,6 +36532,8 @@ window.allHeroesExtra = [
         "fancy name": "Magician Supreme",
         "element": "Yellow",
         "rarity": 5,
+        "class": "Sorcerer",
+        "speed": "slow",
         "Release date": "2020-01-01",
         "AetherPower": "Special Armor",
         "skill_types": [
@@ -33734,6 +36560,8 @@ window.allHeroesExtra = [
         "fancy name": "Scribe Supreme",
         "element": "Yellow",
         "rarity": 5,
+        "class": "Fighter",
+        "speed": "slow",
         "Release date": "2022-09-05",
         "AetherPower": "Heal Increase",
         "skill_types": [
@@ -33760,6 +36588,8 @@ window.allHeroesExtra = [
         "fancy name": "Toon Scholar",
         "element": "Yellow",
         "rarity": 5,
+        "class": "Cleric",
+        "speed": "slow",
         "Release date": "2023-10-30",
         "AetherPower": "Defense Up",
         "skill_types": [
@@ -33788,6 +36618,8 @@ window.allHeroesExtra = [
         "fancy name": "Glass Scholar",
         "element": "Yellow",
         "rarity": 5,
+        "class": "Cleric",
+        "speed": "slow",
         "Release date": "2024-12-25",
         "AetherPower": "Defense Up",
         "skill_types": [
@@ -33817,6 +36649,8 @@ window.allHeroesExtra = [
         "fancy name": "The Great Magician of Morlovia",
         "element": "Yellow",
         "rarity": 5,
+        "class": "Wizard",
+        "speed": "very_fast",
         "Release date": "2024-09-23",
         "AetherPower": "Vampire",
         "skill_types": [
@@ -33839,6 +36673,8 @@ window.allHeroesExtra = [
         "fancy name": "Ring-Graced, Royal-Hearted",
         "element": "Yellow",
         "rarity": 5,
+        "class": "Cleric",
+        "speed": "fast",
         "Release date": "2024-11-25",
         "AetherPower": "Defense Up",
         "skill_types": [
@@ -33865,6 +36701,8 @@ window.allHeroesExtra = [
         "fancy name": "Guide of Wonderland",
         "element": "Yellow",
         "rarity": 5,
+        "class": "Cleric",
+        "speed": "fast",
         "Release date": "2019-02-14",
         "AetherPower": "Attack Up",
         "skill_types": [
@@ -33884,6 +36722,8 @@ window.allHeroesExtra = [
         "fancy name": "Mask of Madness",
         "element": "Yellow",
         "rarity": 5,
+        "class": "Wizard",
+        "speed": "fast",
         "Release date": "2022-02-17",
         "AetherPower": "Special Boost",
         "skill_types": [
@@ -33911,6 +36751,8 @@ window.allHeroesExtra = [
         "fancy name": "Master of Levitation",
         "element": "Yellow",
         "rarity": 5,
+        "class": "Druid",
+        "speed": "charge_magic",
         "Release date": "2023-05-03",
         "AetherPower": "Ailment Immunity",
         "skill_types": [
@@ -33940,6 +36782,8 @@ window.allHeroesExtra = [
         "fancy name": "Ursine Armorer",
         "element": "Yellow",
         "rarity": 5,
+        "class": "Paladin",
+        "speed": "slow",
         "Release date": "2024-01-10",
         "AetherPower": "Defense Up",
         "skill_types": [
@@ -33964,6 +36808,8 @@ window.allHeroesExtra = [
         "fancy name": "Commander of the Castle",
         "element": "Yellow",
         "rarity": 5,
+        "class": "Fighter",
+        "speed": "average",
         "Release date": "2021-10-13",
         "AetherPower": "Attack Up",
         "skill_types": [
@@ -33985,6 +36831,8 @@ window.allHeroesExtra = [
         "fancy name": "Commander of the Wolves",
         "element": "Yellow",
         "rarity": 5,
+        "class": "Paladin",
+        "speed": "average",
         "Release date": "2024-12-17",
         "AetherPower": "Damage Reduction",
         "skill_types": [
@@ -34014,6 +36862,8 @@ window.allHeroesExtra = [
         "fancy name": "Eldritch Ammunition Artisan",
         "element": "Yellow",
         "rarity": 5,
+        "class": "Ranger",
+        "speed": "average",
         "Release date": "2025-01-09",
         "AetherPower": "Rage",
         "skill_types": [
@@ -34034,6 +36884,8 @@ window.allHeroesExtra = [
         "fancy name": "Dual Blade Specialist",
         "element": "Yellow",
         "rarity": 5,
+        "class": "Rogue",
+        "speed": "average",
         "Release date": "2023-07-17",
         "AetherPower": "Attack Up",
         "skill_types": [
@@ -34057,6 +36909,8 @@ window.allHeroesExtra = [
         "fancy name": "Defender of Space-Time",
         "element": "Yellow",
         "rarity": 5,
+        "class": "Paladin",
+        "speed": "very_slow",
         "Release date": "2022-10-10",
         "AetherPower": "Regen",
         "skill_types": [
@@ -34079,6 +36933,8 @@ window.allHeroesExtra = [
         "fancy name": "Magic Carpet Mender",
         "element": "Yellow",
         "rarity": 5,
+        "class": "Sorcerer",
+        "speed": "fast",
         "Release date": "2025-05-29",
         "AetherPower": "Special Boost",
         "skill_types": [
@@ -34104,6 +36960,8 @@ window.allHeroesExtra = [
         "fancy name": "Myriapod Prince",
         "element": "Yellow",
         "rarity": 5,
+        "class": "Barbarian",
+        "speed": "fast",
         "Release date": "2021-12-02",
         "AetherPower": "Dodge",
         "skill_types": [
@@ -34126,6 +36984,8 @@ window.allHeroesExtra = [
         "fancy name": "Apocynacid Prince",
         "element": "Yellow",
         "rarity": 5,
+        "class": "Fighter",
+        "speed": "fast",
         "Release date": "2024-06-20",
         "AetherPower": "Special Armor",
         "skill_types": [
@@ -34157,6 +37017,8 @@ window.allHeroesExtra = [
         "fancy name": "Ice Cream Enthusiast",
         "element": "Yellow",
         "rarity": 5,
+        "class": "Wizard",
+        "speed": "slow",
         "Release date": "2024-06-03",
         "AetherPower": "Regen",
         "skill_types": [
@@ -34181,6 +37043,8 @@ window.allHeroesExtra = [
         "fancy name": "Merciless General",
         "element": "Yellow",
         "rarity": 5,
+        "class": "Fighter",
+        "speed": "fast",
         "Release date": "2022-03-14",
         "AetherPower": "Attack Up",
         "skill_types": [
@@ -34200,6 +37064,8 @@ window.allHeroesExtra = [
         "fancy name": "Merciless Bear General",
         "element": "Yellow",
         "rarity": 5,
+        "class": "Barbarian",
+        "speed": "fast",
         "Release date": "2024-10-29",
         "AetherPower": "Rage",
         "skill_types": [
@@ -34228,6 +37094,8 @@ window.allHeroesExtra = [
         "fancy name": "Master Strategist",
         "element": "Yellow",
         "rarity": 5,
+        "class": "Sorcerer",
+        "speed": "slow",
         "Release date": "2022-03-14",
         "AetherPower": "Fiend Resist",
         "skill_types": [
@@ -34249,6 +37117,8 @@ window.allHeroesExtra = [
         "fancy name": "Strategist Supreme",
         "element": "Yellow",
         "rarity": 5,
+        "class": "Monk",
+        "speed": "slow",
         "Release date": "2024-05-28",
         "AetherPower": "Mana Boost",
         "skill_types": [
@@ -34278,6 +37148,8 @@ window.allHeroesExtra = [
         "fancy name": "Knight of the Rose",
         "element": "Yellow",
         "rarity": 5,
+        "class": "Paladin",
+        "speed": "slow",
         "Release date": "2024-01-01",
         "AetherPower": "Damage Reduction",
         "skill_types": [
@@ -34301,6 +37173,8 @@ window.allHeroesExtra = [
         "fancy name": "Scavenger of the Deep",
         "element": "Green",
         "rarity": 5,
+        "class": "Fighter",
+        "speed": "changing_tides",
         "Release date": "2025-06-26",
         "AetherPower": "Dodge",
         "skill_types": [
@@ -34333,6 +37207,8 @@ window.allHeroesExtra = [
         "fancy name": "Sharp-Eyed Bobcat",
         "element": "Blue",
         "rarity": 5,
+        "class": "Ranger",
+        "speed": "fast",
         "Release date": "2025-06-28",
         "AetherPower": "Ailment Immunity",
         "skill_types": [
@@ -34358,6 +37234,8 @@ window.allHeroesExtra = [
         "fancy name": "Pagoda-Shifting Heavenly King of Water Margin",
         "element": "Purple",
         "rarity": 5,
+        "class": "Cleric",
+        "speed": "very_fast",
         "Release date": "2025-06-30",
         "AetherPower": "Defense Up",
         "skill_types": [
@@ -34383,6 +37261,8 @@ window.allHeroesExtra = [
         "fancy name": "Graceful Elaphocentaur",
         "element": "Green",
         "rarity": 5,
+        "class": "Druid",
+        "speed": "fast",
         "Release date": "2025-07-01",
         "AetherPower": "Attack Up",
         "skill_types": [
@@ -34407,6 +37287,8 @@ window.allHeroesExtra = [
         "fancy name": "Astral Dwarf Gardener",
         "element": "Blue",
         "rarity": 5,
+        "class": "Druid",
+        "speed": "fast",
         "Release date": "2025-07-02",
         "AetherPower": "Damage Reduction",
         "skill_types": [
@@ -34432,6 +37314,8 @@ window.allHeroesExtra = [
         "fancy name": "Fruit Loving Slime",
         "element": "Green",
         "rarity": 4,
+        "class": "Druid",
+        "speed": "fast",
         "Release date": "2025-07-04",
         "AetherPower": "Regen",
         "skill_types": [
@@ -34455,6 +37339,8 @@ window.allHeroesExtra = [
         "fancy name": "Magic Carpet Charmer",
         "element": "Yellow",
         "rarity": 5,
+        "class": "Ranger",
+        "speed": "slow",
         "Release date": "2025-07-05",
         "AetherPower": "Special Armor",
         "skill_types": [
@@ -34480,6 +37366,8 @@ window.allHeroesExtra = [
         "fancy name": "Tower Postmaster",
         "element": "Red",
         "rarity": 5,
+        "class": "Monk",
+        "speed": "charge_magic",
         "Release date": "2025-07-05",
         "AetherPower": "Special Armor",
         "skill_types": [
@@ -34513,6 +37401,8 @@ window.allHeroesExtra = [
         "fancy name": "Gooey Emerald Arbiter",
         "element": "Green",
         "rarity": 5,
+        "class": "Paladin",
+        "speed": "fast",
         "Release date": "2025-07-04",
         "AetherPower": "Rage",
         "skill_types": [
@@ -34535,6 +37425,8 @@ window.allHeroesExtra = [
         "fancy name": "The Sly Bat-eared Fox",
         "element": "Purple",
         "rarity": 4,
+        "class": "Wizard",
+        "speed": "average",
         "Release date": "2025-07-06",
         "AetherPower": "Special Boost",
         "skill_types": [
@@ -34558,6 +37450,8 @@ window.allHeroesExtra = [
         "fancy name": "The Sentinel Gray Fox",
         "element": "Yellow",
         "rarity": 5,
+        "class": "Fighter",
+        "speed": "fast",
         "Release date": "2025-07-06",
         "AetherPower": "Regen",
         "skill_types": [
@@ -34581,6 +37475,8 @@ window.allHeroesExtra = [
         "fancy name": "Dwarven Survivalist",
         "element": "Red",
         "rarity": 5,
+        "class": "Barbarian",
+        "speed": "average",
         "Release date": "2025-07-11",
         "AetherPower": "Regen",
         "skill_types": [
@@ -34608,6 +37504,8 @@ window.allHeroesExtra = [
         "fancy name": "Twisted Medium",
         "element": "Blue",
         "rarity": 5,
+        "class": "Fighter",
+        "speed": "slow",
         "Release date": "2025-07-08",
         "AetherPower": "Ailment Immunity",
         "skill_types": [
@@ -34629,6 +37527,8 @@ window.allHeroesExtra = [
         "fancy name": "Vanquisher of the Moon",
         "element": "Purple",
         "rarity": 5,
+        "class": "Paladin",
+        "speed": "slow",
         "Release date": "2025-07-10",
         "AetherPower": "Defense Up",
         "skill_types": [
@@ -34660,6 +37560,8 @@ window.allHeroesExtra = [
         "fancy name": "Terror-Spreading Tarn-Hag",
         "element": "Purple",
         "rarity": 5,
+        "class": "Sorcerer",
+        "speed": "slow",
         "Release date": "2025-07-13",
         "AetherPower": "Fiend Resist",
         "skill_types": [
@@ -34685,6 +37587,8 @@ window.allHeroesExtra = [
         "fancy name": "Glass Cutpurse",
         "element": "Green",
         "rarity": 3,
+        "class": "Rogue",
+        "speed": "average",
         "Release date": "2025-07-16",
         "AetherPower": "Attack Up",
         "skill_types": [
@@ -34713,6 +37617,8 @@ window.allHeroesExtra = [
         "fancy name": "Glass Tactician",
         "element": "Yellow",
         "rarity": 4,
+        "class": "Ranger",
+        "speed": "fast",
         "Release date": "2025-07-16",
         "AetherPower": "Ailment Immunity",
         "skill_types": [
@@ -34741,6 +37647,8 @@ window.allHeroesExtra = [
         "fancy name": "Captain of the Glass Guard",
         "element": "Red",
         "rarity": 5,
+        "class": "Fighter",
+        "speed": "slow",
         "Release date": "2025-07-16",
         "AetherPower": "Regen",
         "skill_types": [
@@ -34769,6 +37677,8 @@ window.allHeroesExtra = [
         "fancy name": "Ascendant Vitrail",
         "element": "Red",
         "rarity": 3,
+        "class": "Cleric",
+        "speed": "average",
         "Release date": "2025-07-16",
         "AetherPower": "Defense Up",
         "skill_types": [
@@ -34796,6 +37706,8 @@ window.allHeroesExtra = [
         "fancy name": "Glass Cavalier",
         "element": "Purple",
         "rarity": 4,
+        "class": "Cleric",
+        "speed": "average",
         "Release date": "2025-07-16",
         "AetherPower": "Defense Up",
         "skill_types": [
@@ -34824,6 +37736,8 @@ window.allHeroesExtra = [
         "fancy name": "Fluffy Constellationist",
         "element": "Purple",
         "rarity": 5,
+        "class": "Sorcerer",
+        "speed": "average",
         "Release date": "2025-07-18",
         "AetherPower": "Boosted Regen",
         "skill_types": [
@@ -34847,6 +37761,8 @@ window.allHeroesExtra = [
         "fancy name": "Disco Sharpshooter",
         "element": "Green",
         "rarity": 5,
+        "class": "Rogue",
+        "speed": "fast",
         "Release date": "2025-07-18",
         "AetherPower": "Attack Up",
         "skill_types": [
@@ -34875,6 +37791,8 @@ window.allHeroesExtra = [
         "fancy name": "Grinning Cache of Evil",
         "element": "Red",
         "rarity": 5,
+        "class": "Rogue",
+        "speed": "average",
         "Release date": "2025-07-04",
         "AetherPower": "Bulwark",
         "skill_types": [
@@ -34902,6 +37820,8 @@ window.allHeroesExtra = [
         "fancy name": "Garrulous Guardsman",
         "element": "Green",
         "rarity": 5,
+        "class": "Fighter",
+        "speed": "average",
         "Release date": "2025-07-22",
         "AetherPower": "Defense Up",
         "skill_types": [
@@ -34926,6 +37846,8 @@ window.allHeroesExtra = [
         "fancy name": "Magic Carpet Assassin",
         "element": "Purple",
         "rarity": 5,
+        "class": "Rogue",
+        "speed": "fast",
         "Release date": "2025-07-23",
         "AetherPower": "Attack Up",
         "skill_types": [
@@ -34952,6 +37874,8 @@ window.allHeroesExtra = [
         "fancy name": "Champion of the Bramble",
         "element": "Red",
         "rarity": 5,
+        "class": "Druid",
+        "speed": "charge_magic",
         "Release date": "2025-07-23",
         "AetherPower": "Dodge",
         "skill_types": [
@@ -34989,6 +37913,8 @@ window.allHeroesExtra = [
         "fancy name": "Grinning Cache of Evil",
         "element": "Blue",
         "rarity": 5,
+        "class": "Rogue",
+        "speed": "average",
         "Release date": "2025-07-26",
         "AetherPower": "Bulwark",
         "skill_types": [
@@ -35016,6 +37942,8 @@ window.allHeroesExtra = [
         "fancy name": "Fanatical Archaeologist",
         "element": "Yellow",
         "rarity": 5,
+        "class": "Druid",
+        "speed": "very_slow",
         "Release date": "2025-07-29",
         "AetherPower": "Revive",
         "skill_types": [
@@ -35040,6 +37968,8 @@ window.allHeroesExtra = [
         "fancy name": "Expert Artificer",
         "element": "Red",
         "rarity": 5,
+        "class": "Monk",
+        "speed": "slow",
         "Release date": "2025-07-28",
         "AetherPower": "Regen",
         "skill_types": [
@@ -35068,6 +37998,8 @@ window.allHeroesExtra = [
         "fancy name": "Frozen Hunter",
         "element": "Blue",
         "rarity": 3,
+        "class": "Rogue",
+        "speed": "average",
         "Release date": "2025-07-28",
         "AetherPower": "Special Boost",
         "skill_types": [
@@ -35096,6 +38028,8 @@ window.allHeroesExtra = [
         "fancy name": "Fading Champion",
         "element": "Red",
         "rarity": 4,
+        "class": "Fighter",
+        "speed": "average",
         "Release date": "2025-07-28",
         "AetherPower": "Attack Up",
         "skill_types": [
@@ -35123,6 +38057,8 @@ window.allHeroesExtra = [
         "fancy name": "Mistress of the North",
         "element": "Purple",
         "rarity": 5,
+        "class": "Sorcerer",
+        "speed": "average",
         "Release date": "2025-07-28",
         "AetherPower": "Rage",
         "skill_types": [
@@ -35151,6 +38087,8 @@ window.allHeroesExtra = [
         "fancy name": "Champion's Savior",
         "element": "Yellow",
         "rarity": 5,
+        "class": "Sorcerer",
+        "speed": "slow",
         "Release date": "2025-07-28",
         "AetherPower": "Heal Increase",
         "skill_types": [
@@ -35174,6 +38112,8 @@ window.allHeroesExtra = [
         "fancy name": "Astral Dwarf Lightbearer",
         "element": "Red",
         "rarity": 5,
+        "class": "Ranger",
+        "speed": "slow",
         "Release date": "2025-07-27",
         "AetherPower": "Defense Up",
         "skill_types": [
@@ -35201,6 +38141,8 @@ window.allHeroesExtra = [
         "fancy name": "Hulking Pike",
         "element": "Green",
         "rarity": 5,
+        "class": "Barbarian",
+        "speed": "fast",
         "Release date": "2025-07-28",
         "AetherPower": "Fiend Resist",
         "skill_types": [
@@ -35225,6 +38167,8 @@ window.allHeroesExtra = [
         "fancy name": "Shy Chest Slime",
         "element": "Blue",
         "rarity": 4,
+        "class": "Paladin",
+        "speed": "fast",
         "Release date": "2025-07-31",
         "AetherPower": "Defense Up",
         "skill_types": [
@@ -35247,6 +38191,8 @@ window.allHeroesExtra = [
         "fancy name": "Gentle Trickster Slime",
         "element": "Blue",
         "rarity": 5,
+        "class": "Wizard",
+        "speed": "fast",
         "Release date": "2025-07-31",
         "AetherPower": "Special Boost",
         "skill_types": [
@@ -35272,6 +38218,8 @@ window.allHeroesExtra = [
         "fancy name": "Fairy of Auburn Woods",
         "element": "Red",
         "rarity": 5,
+        "class": "Cleric",
+        "speed": "average",
         "Release date": "2025-08-01",
         "AetherPower": "Damage Reduction",
         "skill_types": [
@@ -35294,6 +38242,8 @@ window.allHeroesExtra = [
         "fancy name": "Strong Star of Water Margin",
         "element": "Green",
         "rarity": 5,
+        "class": "Rogue",
+        "speed": "fast",
         "Release date": "2025-08-02",
         "AetherPower": "Attack Up",
         "skill_types": [
@@ -35319,6 +38269,8 @@ window.allHeroesExtra = [
         "fancy name": "Dwarven Storyteller",
         "element": "Green",
         "rarity": 4,
+        "class": "Monk",
+        "speed": "average",
         "Release date": "2025-08-06",
         "AetherPower": "Fiend Resist",
         "skill_types": [
@@ -35344,6 +38296,8 @@ window.allHeroesExtra = [
         "fancy name": "Grinning Cache of Evil",
         "element": "Green",
         "rarity": 5,
+        "class": "Rogue",
+        "speed": "average",
         "Release date": "2025-08-05",
         "AetherPower": "Bulwark",
         "skill_types": [
@@ -35371,6 +38325,8 @@ window.allHeroesExtra = [
         "fancy name": "Dwarven Frontier Wildman",
         "element": "Yellow",
         "rarity": 5,
+        "class": "Fighter",
+        "speed": "average",
         "Release date": "2025-08-06",
         "AetherPower": "Regen",
         "skill_types": [
@@ -35396,6 +38352,8 @@ window.allHeroesExtra = [
         "fancy name": "Dark Duo",
         "element": "Green",
         "rarity": 5,
+        "class": "Sorcerer",
+        "speed": "average",
         "Release date": "2025-08-08",
         "AetherPower": "Defense Up",
         "skill_types": [
@@ -35424,6 +38382,8 @@ window.allHeroesExtra = [
         "fancy name": "Serpentine Violinist",
         "element": "Green",
         "rarity": 5,
+        "class": "Wizard",
+        "speed": "fast",
         "Release date": "2025-08-08",
         "AetherPower": "Dodge",
         "skill_types": [
@@ -35447,6 +38407,8 @@ window.allHeroesExtra = [
         "fancy name": "Master of Clowns",
         "element": "Yellow",
         "rarity": 5,
+        "class": "Cleric",
+        "speed": "average",
         "Release date": "2025-08-08",
         "AetherPower": "Defense Up",
         "skill_types": [
@@ -35475,6 +38437,8 @@ window.allHeroesExtra = [
         "fancy name": "The Hotblooded Vitrail",
         "element": "Blue",
         "rarity": 3,
+        "class": "Barbarian",
+        "speed": "average",
         "Release date": "2025-08-10",
         "AetherPower": "Rage",
         "skill_types": [
@@ -35502,6 +38466,8 @@ window.allHeroesExtra = [
         "fancy name": "Glass Champion",
         "element": "Blue",
         "rarity": 4,
+        "class": "Paladin",
+        "speed": "fast",
         "Release date": "2025-08-10",
         "AetherPower": "Special Boost",
         "skill_types": [
@@ -35530,6 +38496,8 @@ window.allHeroesExtra = [
         "fancy name": "The Conjurer Corsac Fox",
         "element": "Blue",
         "rarity": 5,
+        "class": "Cleric",
+        "speed": "fast",
         "Release date": "2025-08-09",
         "AetherPower": "Special Boost",
         "skill_types": [
@@ -35555,6 +38523,8 @@ window.allHeroesExtra = [
         "fancy name": "Cultivating Beast",
         "element": "Blue",
         "rarity": 5,
+        "class": "Druid",
+        "speed": "fast",
         "Release date": "2025-08-12",
         "AetherPower": "Counterattack",
         "skill_types": [
@@ -35583,6 +38553,8 @@ window.allHeroesExtra = [
         "fancy name": "The Kind Grovekeeper Fox",
         "element": "Green",
         "rarity": 3,
+        "class": "Druid",
+        "speed": "average",
         "Release date": "2025-08-09",
         "AetherPower": "Heal Increase",
         "skill_types": [
@@ -35605,6 +38577,8 @@ window.allHeroesExtra = [
         "fancy name": "Last to Shatter",
         "element": "Red",
         "rarity": 3,
+        "class": "Barbarian",
+        "speed": "fast",
         "Release date": "2025-08-10",
         "AetherPower": "Attack Up",
         "skill_types": [
@@ -35633,6 +38607,8 @@ window.allHeroesExtra = [
         "fancy name": "Glass Monkey",
         "element": "Yellow",
         "rarity": 4,
+        "class": "Monk",
+        "speed": "average",
         "Release date": "2025-08-10",
         "AetherPower": "Gamble",
         "skill_types": [
@@ -35661,6 +38637,8 @@ window.allHeroesExtra = [
         "fancy name": "Vitrail of Stone",
         "element": "Yellow",
         "rarity": 5,
+        "class": "Paladin",
+        "speed": "slow",
         "Release date": "2025-08-10",
         "AetherPower": "Defense Up",
         "skill_types": [
@@ -35689,6 +38667,8 @@ window.allHeroesExtra = [
         "fancy name": "Music Mothuoso",
         "element": "Green",
         "rarity": 4,
+        "class": "Wizard",
+        "speed": "fast",
         "Release date": "2025-08-14",
         "AetherPower": "Special Boost",
         "skill_types": [
@@ -35711,6 +38691,8 @@ window.allHeroesExtra = [
         "fancy name": "Marquise Moth",
         "element": "Purple",
         "rarity": 5,
+        "class": "Druid",
+        "speed": "slow",
         "Release date": "2025-08-14",
         "AetherPower": "Special Armor",
         "skill_types": [
@@ -35735,6 +38717,8 @@ window.allHeroesExtra = [
         "fancy name": "Magic Carpet Cat Lady",
         "element": "Purple",
         "rarity": 5,
+        "class": "Druid",
+        "speed": "slow",
         "Release date": "2025-08-20",
         "AetherPower": "Damage Reduction",
         "skill_types": [
@@ -35759,6 +38743,8 @@ window.allHeroesExtra = [
         "fancy name": "Grinning Cache of Evil",
         "element": "Yellow",
         "rarity": 5,
+        "class": "Rogue",
+        "speed": "average",
         "Release date": "2025-08-18",
         "AetherPower": "Bulwark",
         "skill_types": [
@@ -35786,6 +38772,8 @@ window.allHeroesExtra = [
         "fancy name": "Mystic Pie Master",
         "element": "Yellow",
         "rarity": 5,
+        "class": "Wizard",
+        "speed": "charge_magic",
         "Release date": "2025-08-20",
         "AetherPower": "Ailment Immunity",
         "skill_types": [
@@ -35820,6 +38808,8 @@ window.allHeroesExtra = [
         "fancy name": "Astral Dwarf Cartographer",
         "element": "Green",
         "rarity": 5,
+        "class": "Paladin",
+        "speed": "slow",
         "Release date": "2025-08-24",
         "AetherPower": "Damage Reduction",
         "skill_types": [
@@ -35847,6 +38837,8 @@ window.allHeroesExtra = [
         "fancy name": "Messenger of the Chentari",
         "element": "Yellow",
         "rarity": 5,
+        "class": "Monk",
+        "speed": "very_fast",
         "Release date": "2025-08-23",
         "AetherPower": "Fiend Resist",
         "skill_types": [
@@ -35870,6 +38862,8 @@ window.allHeroesExtra = [
         "fancy name": "Dwarven Goat Rider",
         "element": "Blue",
         "rarity": 3,
+        "class": "Barbarian",
+        "speed": "average",
         "Release date": "2025-08-26",
         "AetherPower": "Dodge",
         "skill_types": [
@@ -35896,6 +38890,8 @@ window.allHeroesExtra = [
         "fancy name": "Dwarven Big Game Hunter",
         "element": "Blue",
         "rarity": 5,
+        "class": "Ranger",
+        "speed": "very_fast",
         "Release date": "2025-08-26",
         "AetherPower": "Dodge",
         "skill_types": [
@@ -35920,6 +38916,8 @@ window.allHeroesExtra = [
         "fancy name": "Modifier of Obscura",
         "element": "Purple",
         "rarity": 5,
+        "class": "Monk",
+        "speed": "slow",
         "Release date": "2025-08-28",
         "AetherPower": "Damage Reduction",
         "skill_types": [
@@ -35947,6 +38945,8 @@ window.allHeroesExtra = [
         "fancy name": "Grinning Cache of Evil",
         "element": "Purple",
         "rarity": 5,
+        "class": "Rogue",
+        "speed": "average",
         "Release date": "2025-08-29",
         "AetherPower": "Bulwark",
         "skill_types": [
@@ -35974,6 +38974,8 @@ window.allHeroesExtra = [
         "fancy name": "Flowery Monk of Water Margin",
         "element": "Red",
         "rarity": 5,
+        "class": "Monk",
+        "speed": "average",
         "Release date": "2025-08-30",
         "AetherPower": "Bulwark",
         "skill_types": [
@@ -35998,6 +39000,8 @@ window.allHeroesExtra = [
         "fancy name": "The Radiant Berserker",
         "element": "Yellow",
         "rarity": 5,
+        "class": "Barbarian",
+        "speed": "average",
         "Release date": "2025-09-01",
         "AetherPower": "Rage",
         "skill_types": [
@@ -36021,6 +39025,8 @@ window.allHeroesExtra = [
         "fancy name": "Beetroot Knight",
         "element": "Purple",
         "rarity": 5,
+        "class": "Paladin",
+        "speed": "fast",
         "Release date": "2025-09-02",
         "AetherPower": "Knight's Endurance",
         "skill_types": [
@@ -36045,6 +39051,8 @@ window.allHeroesExtra = [
         "fancy name": "Bell Pepper Barbarian",
         "element": "Red",
         "rarity": 5,
+        "class": "Barbarian",
+        "speed": "average",
         "Release date": "2025-09-02",
         "AetherPower": "Rage",
         "skill_types": [
@@ -36069,6 +39077,8 @@ window.allHeroesExtra = [
         "fancy name": "Exiled Plasma Hacker",
         "element": "Red",
         "rarity": 5,
+        "class": "Rogue",
+        "speed": "fast",
         "Release date": "2025-09-04",
         "AetherPower": "Special Boost",
         "skill_types": [
@@ -36097,6 +39107,8 @@ window.allHeroesExtra = [
         "fancy name": "The Peace-Weaver",
         "element": "Green",
         "rarity": 5,
+        "class": "Paladin",
+        "speed": "average",
         "Release date": "2025-09-05",
         "AetherPower": "Bulwark",
         "skill_types": [
@@ -36122,6 +39134,8 @@ window.allHeroesExtra = [
         "fancy name": "Glass Fighter",
         "element": "Green",
         "rarity": 3,
+        "class": "Ranger",
+        "speed": "average",
         "Release date": "2025-09-07",
         "AetherPower": "Special Boost",
         "skill_types": [
@@ -36149,6 +39163,8 @@ window.allHeroesExtra = [
         "fancy name": "Vitrail of the Woods",
         "element": "Green",
         "rarity": 5,
+        "class": "Druid",
+        "speed": "slow",
         "Release date": "2025-09-07",
         "AetherPower": "Defense Up",
         "skill_types": [
@@ -36177,6 +39193,8 @@ window.allHeroesExtra = [
         "fancy name": "Relentless Vitrail",
         "element": "Purple",
         "rarity": 3,
+        "class": "Fighter",
+        "speed": "slow",
         "Release date": "2025-09-07",
         "AetherPower": "Mana Boost",
         "skill_types": [
@@ -36205,6 +39223,8 @@ window.allHeroesExtra = [
         "fancy name": "Mournful Vitrail",
         "element": "Purple",
         "rarity": 4,
+        "class": "Ranger",
+        "speed": "average",
         "Release date": "2025-09-07",
         "AetherPower": "Attack Up",
         "skill_types": [
@@ -36233,6 +39253,8 @@ window.allHeroesExtra = [
         "fancy name": "Raider from the Glass Sea",
         "element": "Red",
         "rarity": 4,
+        "class": "Rogue",
+        "speed": "fast",
         "Release date": "2025-09-07",
         "AetherPower": "Attack Up",
         "skill_types": [
@@ -36261,6 +39283,8 @@ window.allHeroesExtra = [
         "fancy name": "Servant of the Abyss",
         "element": "Blue",
         "rarity": 4,
+        "class": "Rogue",
+        "speed": "average",
         "Release date": "2025-09-09",
         "AetherPower": "Special Boost",
         "skill_types": [
@@ -36284,6 +39308,8 @@ window.allHeroesExtra = [
         "fancy name": "Blighted Bruiser",
         "element": "Green",
         "rarity": 5,
+        "class": "Barbarian",
+        "speed": "slow",
         "Release date": "2025-09-09",
         "AetherPower": "Bulwark",
         "skill_types": [
@@ -36308,6 +39334,8 @@ window.allHeroesExtra = [
         "fancy name": "The Masked Savant",
         "element": "Purple",
         "rarity": 5,
+        "class": "Fighter",
+        "speed": "average",
         "Release date": "2025-09-09",
         "AetherPower": "Counterattack",
         "skill_types": [
@@ -36332,6 +39360,8 @@ window.allHeroesExtra = [
         "fancy name": "Inquisitive Hired Gun",
         "element": "Red",
         "rarity": 3,
+        "class": "Ranger",
+        "speed": "fast",
         "Release date": "2025-09-09",
         "AetherPower": "Defense Up",
         "skill_types": [
@@ -36354,6 +39384,8 @@ window.allHeroesExtra = [
         "fancy name": "The Daremoth",
         "element": "Red",
         "rarity": 5,
+        "class": "Fighter",
+        "speed": "average",
         "Release date": "2025-09-11",
         "AetherPower": "Attack Up",
         "skill_types": [
@@ -36378,6 +39410,8 @@ window.allHeroesExtra = [
         "fancy name": "Holy Guardian Construct",
         "element": "Yellow",
         "rarity": 5,
+        "class": "Paladin",
+        "speed": "average",
         "Release date": "2025-09-14",
         "AetherPower": "Damage Reduction",
         "skill_types": [
@@ -36402,9 +39436,14 @@ window.allHeroesExtra = [
         "fancy name": "Goblin Rat Courtier",
         "element": "Yellow",
         "rarity": 5,
+        "class": "Cleric",
+        "speed": "average",
         "Release date": "2025-09-16",
         "AetherPower": "Special Armor",
-        "skill_types": [],
+        "skill_types": [
+            "Mega Minions Summoners",
+            "Extra Damage Dealers"
+        ],
         "heroId": "goblin_ratgrub",
         "baseAttack": 603,
         "baseDefense": 624,
@@ -36414,5 +39453,96 @@ window.allHeroesExtra = [
             "goblin_damage_and_accuracy_debuff_on_special"
         ],
         "family": "goblin"
+    },
+    {
+        "name": "Bart",
+        "fancy name": "Magic Carpet Speedster",
+        "element": "Blue",
+        "rarity": 5,
+        "class": "Wizard",
+        "speed": "very_fast",
+        "Release date": "2025-09-17",
+        "AetherPower": "Special Boost",
+        "skill_types": [
+            "AoE Attackers (Hit-3)",
+            "Status Effect Conversion",
+            "Debuffers (ATK)"
+        ],
+        "heroId": "magic_carpet_bart",
+        "baseAttack": 621,
+        "baseDefense": 617,
+        "baseHealth": 1071,
+        "specialId": "zooming_lunge",
+        "passiveSkills": [
+            "reduce_big_minion_health",
+            "fly_magic_carpet"
+        ],
+        "family": "magic_carpet"
+    },
+    {
+        "name": "Becky costume1",
+        "fancy name": "Twilight Conjurer",
+        "element": "Purple",
+        "rarity": 5,
+        "class": "Sorcerer",
+        "speed": "charge_magic",
+        "Release date": "2025-09-17",
+        "AetherPower": "Special Boost",
+        "skill_types": [
+            "AoE Attackers (Hit-5)",
+            "Mana Raisers",
+            "Mana Reducers or Blockers",
+            "Snipers",
+            "Stacking Heroes",
+            "Healers"
+        ],
+        "heroId": "magic_becky_costume_gothic",
+        "baseAttack": 430,
+        "baseDefense": 434,
+        "baseHealth": 777,
+        "specialId": "wand_of_mana_control",
+        "specialId_costume": "wand_of_mana_trickery",
+        "passiveSkills": [
+            "magic_mana_regen_stack_on_special_costume",
+            "magic_heal_on_full_charge_costume"
+        ],
+        "costumeBonusPassiveSkillIds": [
+            "reduce_big_minion_health"
+        ],
+        "attackBonus": "41%",
+        "defenseBonus": "41%",
+        "healthBonus": "43%",
+        "manaBonus": "1%",
+        "family": "magic"
+    },
+    {
+        "name": "Emblem Mimic (Fire)",
+        "fancy name": "Horrifying One-Eyed Lockbox",
+        "element": "Red",
+        "rarity": 5,
+        "class": "Barbarian",
+        "speed": "fast",
+        "Release date": "2025-09-18",
+        "AetherPower": "Bulwark",
+        "skill_types": [
+            "Healers (Special)",
+            "Minions Counters",
+            "Snipers",
+            "Mana Raisers",
+            "Immunity Providers",
+            "Ghost Form & Hiding",
+            "Bypassers",
+            "DoT Attackers"
+        ],
+        "heroId": "mimic_emblem_red",
+        "baseAttack": 628,
+        "baseDefense": 628,
+        "baseHealth": 1080,
+        "specialId": "savage_gobble_red",
+        "passiveSkills": [
+            "mimic_emblem_red",
+            "never_miss_special"
+        ],
+        "family": "mimic"
     }
 ];

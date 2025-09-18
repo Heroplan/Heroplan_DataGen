@@ -5,27 +5,35 @@
         "overrideEntries": [
           {
             "key": "chest.bonus.disclaimer.reward.battleitem.5.single",
-            "text": "[#!]Battle Item 5*[#]"
+            "text": "[#!]Oggetto di battaglia 5*[#]"
           },
           {
             "key": "chest.bonus.disclaimer.reward.battleitem.5",
-            "text": "[#!]Battle Items 5*[#]"
+            "text": "[#!]Oggetti di battaglia 5*[#]"
           },
           {
             "key": "chest.bonus.disclaimer.reward.foodbundle.3.single",
-            "text": "[#!]Medium Food Bundle[#]"
+            "text": "[#!]Bundle Cibo medio[#]"
           },
           {
             "key": "chest.bonus.disclaimer.reward.foodbundle.3",
-            "text": "[#!]Medium Food Bundles[#]"
+            "text": "[#!]Bundle Cibo medi[#]"
           },
           {
             "key": "chest.bonus.disclaimer.reward.ironbundle.3.single",
-            "text": "[#!]Medium Iron Bundle[#]"
+            "text": "[#!]Bundle Ferro medio[#]"
           },
           {
             "key": "chest.bonus.disclaimer.reward.ironbundle.3",
-            "text": "[#!]Medium Iron Bundles[#]"
+            "text": "[#!]Bundle Ferro medi[#]"
+          },
+          {
+            "key": "options.label.eliteclub",
+            "text": "Elites club"
+          },
+          {
+            "key": "familyeffect.statuseffect.long.statuseffectperturn.minor.mothdust.random.enemies.onremoval.dispel.removal.sleep_moth_dust.single.allies.moth_dust_with_mega_minion_wound.without_removing_all_status_effects",
+            "text": "[#!]Polvere di falena[#] ha i seguenti effetti:\n{STATUSEFFECTS}\n\n[*] Se Polvere di falena viene rimosso o eliminato, il bersaglio [#!]si addormenta[#] e subisce il {REMOVALEFFECT1STATUSEFFECT1DAMAGEMODIFIER}% di danni aumentati mentre dorme."
           }
         ]
       },
@@ -33,27 +41,35 @@
         "overrideEntries": [
           {
             "key": "chest.bonus.disclaimer.reward.battleitem.5.single",
-            "text": "[#!]Battle Item 5*[#]"
+            "text": "[#!]Боевое снаряжение 5*[#]"
           },
           {
             "key": "chest.bonus.disclaimer.reward.battleitem.5",
-            "text": "[#!]Battle Items 5*[#]"
+            "text": "[#!]Боевое снаряжение 5*[#]"
           },
           {
             "key": "chest.bonus.disclaimer.reward.foodbundle.3.single",
-            "text": "[#!]Medium Food Bundle[#]"
+            "text": "[#!]Средний комплект пищи[#]"
           },
           {
             "key": "chest.bonus.disclaimer.reward.foodbundle.3",
-            "text": "[#!]Medium Food Bundles[#]"
+            "text": "[#!]Средние комплекты пищи[#]"
           },
           {
             "key": "chest.bonus.disclaimer.reward.ironbundle.3.single",
-            "text": "[#!]Medium Iron Bundle[#]"
+            "text": "[#!]Средний комплект железа[#]"
           },
           {
             "key": "chest.bonus.disclaimer.reward.ironbundle.3",
-            "text": "[#!]Medium Iron Bundles[#]"
+            "text": "[#!]Средние комплекты железа[#]"
+          },
+          {
+            "key": "options.label.eliteclub",
+            "text": "Elites club"
+          },
+          {
+            "key": "familyeffect.statuseffect.long.statuseffectperturn.minor.mothdust.random.enemies.onremoval.dispel.removal.sleep_moth_dust.single.allies.moth_dust_with_mega_minion_wound.without_removing_all_status_effects",
+            "text": "[#!]Мотыльковая пыльца[#] обладает следующими эффектами:\n{STATUSEFFECTS}\n[*]Если мотыльковая пыльца очищена или снята, цель [#!]засыпает[#] и получает {REMOVALEFFECT1STATUSEFFECT1DAMAGEMODIFIER} % увеличенного урона во время сна."
           }
         ]
       },
@@ -61,27 +77,35 @@
         "overrideEntries": [
           {
             "key": "chest.bonus.disclaimer.reward.battleitem.5.single",
-            "text": "[#!]Battle Item 5*[#]"
+            "text": "[#!]Artefakt bitewny 5*[#]"
           },
           {
             "key": "chest.bonus.disclaimer.reward.battleitem.5",
-            "text": "[#!]Battle Items 5*[#]"
+            "text": "[#!]Artefakty bitewne 5*[#]"
           },
           {
             "key": "chest.bonus.disclaimer.reward.foodbundle.3.single",
-            "text": "[#!]Medium Food Bundle[#]"
+            "text": "[#!]Średni pakiet żywności[#]"
           },
           {
             "key": "chest.bonus.disclaimer.reward.foodbundle.3",
-            "text": "[#!]Medium Food Bundles[#]"
+            "text": "[#!]Średnie pakiety żywności[#]"
           },
           {
             "key": "chest.bonus.disclaimer.reward.ironbundle.3.single",
-            "text": "[#!]Medium Iron Bundle[#]"
+            "text": "[#!]Średni pakiet żelaza[#]"
           },
           {
             "key": "chest.bonus.disclaimer.reward.ironbundle.3",
-            "text": "[#!]Medium Iron Bundles[#]"
+            "text": "[#!]Średnie pakiety żelaza[#]"
+          },
+          {
+            "key": "options.label.eliteclub",
+            "text": "Elites club"
+          },
+          {
+            "key": "familyeffect.statuseffect.long.statuseffectperturn.minor.mothdust.random.enemies.onremoval.dispel.removal.sleep_moth_dust.single.allies.moth_dust_with_mega_minion_wound.without_removing_all_status_effects",
+            "text": "[#!]Ćmi pył[#] ma następujące efekty:\n{STATUSEFFECTS}\n[*]Jeśli ćmi pył zostanie oczyszczony lub usunięty, cel [#!]zasypia[#] i otrzymuje o {REMOVALEFFECT1STATUSEFFECT1DAMAGEMODIFIER}% więcej obrażeń, gdy śpi."
           }
         ]
       },
@@ -89,27 +113,35 @@
         "overrideEntries": [
           {
             "key": "chest.bonus.disclaimer.reward.battleitem.5.single",
-            "text": "[#!]Battle Item 5*[#]"
+            "text": "[#!]戰鬥物品5*[#]"
           },
           {
             "key": "chest.bonus.disclaimer.reward.battleitem.5",
-            "text": "[#!]Battle Items 5*[#]"
+            "text": "[#!]戰鬥物品5*[#]"
           },
           {
             "key": "chest.bonus.disclaimer.reward.foodbundle.3.single",
-            "text": "[#!]Medium Food Bundle[#]"
+            "text": "[#!]中型食物禮包[#]"
           },
           {
             "key": "chest.bonus.disclaimer.reward.foodbundle.3",
-            "text": "[#!]Medium Food Bundles[#]"
+            "text": "[#!]中型食物禮包[#]"
           },
           {
             "key": "chest.bonus.disclaimer.reward.ironbundle.3.single",
-            "text": "[#!]Medium Iron Bundle[#]"
+            "text": "[#!]中型鐵塊禮包[#]"
           },
           {
             "key": "chest.bonus.disclaimer.reward.ironbundle.3",
-            "text": "[#!]Medium Iron Bundles[#]"
+            "text": "[#!]中型鐵塊禮包[#]"
+          },
+          {
+            "key": "options.label.eliteclub",
+            "text": "Elites club"
+          },
+          {
+            "key": "familyeffect.statuseffect.long.statuseffectperturn.minor.mothdust.random.enemies.onremoval.dispel.removal.sleep_moth_dust.single.allies.moth_dust_with_mega_minion_wound.without_removing_all_status_effects",
+            "text": "[#!]飛蛾塵[#]有以下效果：\n{STATUSEFFECTS}\n\n[*]若飛蛾塵被淨化或移除，目標陷入[#!]沉睡[#]並於沉睡時受到{REMOVALEFFECT1STATUSEFFECT1DAMAGEMODIFIER}%額外傷害。"
           }
         ]
       },
@@ -117,27 +149,35 @@
         "overrideEntries": [
           {
             "key": "chest.bonus.disclaimer.reward.battleitem.5.single",
-            "text": "[#!]Battle Item 5*[#]"
+            "text": "[#!]전투 아이템 5*[#]"
           },
           {
             "key": "chest.bonus.disclaimer.reward.battleitem.5",
-            "text": "[#!]Battle Items 5*[#]"
+            "text": "[#!]전투 아이템 5*[#]"
           },
           {
             "key": "chest.bonus.disclaimer.reward.foodbundle.3.single",
-            "text": "[#!]Medium Food Bundle[#]"
+            "text": "[#!]중간 식량 번들[#]"
           },
           {
             "key": "chest.bonus.disclaimer.reward.foodbundle.3",
-            "text": "[#!]Medium Food Bundles[#]"
+            "text": "[#!]중간 식량 번들[#]"
           },
           {
             "key": "chest.bonus.disclaimer.reward.ironbundle.3.single",
-            "text": "[#!]Medium Iron Bundle[#]"
+            "text": "[#!]중간 철 번들[#]"
           },
           {
             "key": "chest.bonus.disclaimer.reward.ironbundle.3",
-            "text": "[#!]Medium Iron Bundles[#]"
+            "text": "[#!]중간 철 번들[#]"
+          },
+          {
+            "key": "options.label.eliteclub",
+            "text": "Elites club"
+          },
+          {
+            "key": "familyeffect.statuseffect.long.statuseffectperturn.minor.mothdust.random.enemies.onremoval.dispel.removal.sleep_moth_dust.single.allies.moth_dust_with_mega_minion_wound.without_removing_all_status_effects",
+            "text": "[#!]나방 가루[#]에는 다음과 같은 효과가 있습니다:\n{STATUSEFFECTS}\n\n[*]나방 가루가 정화 또는 제거되면 대상이 [#!]잠[#]에 빠지고, 자는 동안 {REMOVALEFFECT1STATUSEFFECT1DAMAGEMODIFIER}% 증가한 피해를 입습니다."
           }
         ]
       },
@@ -145,27 +185,35 @@
         "overrideEntries": [
           {
             "key": "chest.bonus.disclaimer.reward.battleitem.5.single",
-            "text": "[#!]Battle Item 5*[#]"
+            "text": "[#!]Kampfgegenstand 5*[#]"
           },
           {
             "key": "chest.bonus.disclaimer.reward.battleitem.5",
-            "text": "[#!]Battle Items 5*[#]"
+            "text": "[#!]Kampfgegenstände 5*[#]"
           },
           {
             "key": "chest.bonus.disclaimer.reward.foodbundle.3.single",
-            "text": "[#!]Medium Food Bundle[#]"
+            "text": "[#!]Mittleres Nahrungspaket[#]"
           },
           {
             "key": "chest.bonus.disclaimer.reward.foodbundle.3",
-            "text": "[#!]Medium Food Bundles[#]"
+            "text": "[#!]Mittlere Nahrungspakete[#]"
           },
           {
             "key": "chest.bonus.disclaimer.reward.ironbundle.3.single",
-            "text": "[#!]Medium Iron Bundle[#]"
+            "text": "[#!]Mittleres Eisenpaket[#]"
           },
           {
             "key": "chest.bonus.disclaimer.reward.ironbundle.3",
-            "text": "[#!]Medium Iron Bundles[#]"
+            "text": "[#!]Mittlere Eisenpakete[#]"
+          },
+          {
+            "key": "options.label.eliteclub",
+            "text": "Elites club"
+          },
+          {
+            "key": "familyeffect.statuseffect.long.statuseffectperturn.minor.mothdust.random.enemies.onremoval.dispel.removal.sleep_moth_dust.single.allies.moth_dust_with_mega_minion_wound.without_removing_all_status_effects",
+            "text": "[#!]Mottenstaub[#] hat die folgenden Effekte: {STATUSEFFECTS}\n\n[*]Wird der Mottenstaub gesäubert oder entfernt, [#!]schläft[#] das Ziel ein und erleidet im Schlaf um {REMOVALEFFECT1STATUSEFFECT1DAMAGEMODIFIER} % erhöhten Schaden."
           }
         ]
       },
@@ -173,27 +221,35 @@
         "overrideEntries": [
           {
             "key": "chest.bonus.disclaimer.reward.battleitem.5.single",
-            "text": "[#!]Battle Item 5*[#]"
+            "text": "[#!]バトルアイテム5*[#]"
           },
           {
             "key": "chest.bonus.disclaimer.reward.battleitem.5",
-            "text": "[#!]Battle Items 5*[#]"
+            "text": "[#!]バトルアイテム5*[#]"
           },
           {
             "key": "chest.bonus.disclaimer.reward.foodbundle.3.single",
-            "text": "[#!]Medium Food Bundle[#]"
+            "text": "[#!]食糧バンドル（中）[#]"
           },
           {
             "key": "chest.bonus.disclaimer.reward.foodbundle.3",
-            "text": "[#!]Medium Food Bundles[#]"
+            "text": "[#!]食糧バンドル（中）[#]"
           },
           {
             "key": "chest.bonus.disclaimer.reward.ironbundle.3.single",
-            "text": "[#!]Medium Iron Bundle[#]"
+            "text": "[#!]鉄バンドル（中）[#]"
           },
           {
             "key": "chest.bonus.disclaimer.reward.ironbundle.3",
-            "text": "[#!]Medium Iron Bundles[#]"
+            "text": "[#!]鉄バンドル（中）[#]"
+          },
+          {
+            "key": "options.label.eliteclub",
+            "text": "Elites club"
+          },
+          {
+            "key": "familyeffect.statuseffect.long.statuseffectperturn.minor.mothdust.random.enemies.onremoval.dispel.removal.sleep_moth_dust.single.allies.moth_dust_with_mega_minion_wound.without_removing_all_status_effects",
+            "text": "[#!]蛾のダスト[#]は以下の効果を持つ：\n{STATUSEFFECTS}\n\n[*]蛾のダストが浄化あるいは削除されると、ターゲットは[#!]眠り[#]に落ち、眠っている間は{REMOVALEFFECT1STATUSEFFECT1DAMAGEMODIFIER}%の増加ダメージを受ける。"
           }
         ]
       },
@@ -201,27 +257,35 @@
         "overrideEntries": [
           {
             "key": "chest.bonus.disclaimer.reward.battleitem.5.single",
-            "text": "[#!]Battle Item 5*[#]"
+            "text": "[#!]Stridsföremål 5*[#]"
           },
           {
             "key": "chest.bonus.disclaimer.reward.battleitem.5",
-            "text": "[#!]Battle Items 5*[#]"
+            "text": "[#!]Stridsföremål 5*[#]"
           },
           {
             "key": "chest.bonus.disclaimer.reward.foodbundle.3.single",
-            "text": "[#!]Medium Food Bundle[#]"
+            "text": "[#!]Medelstort matpaket[#]"
           },
           {
             "key": "chest.bonus.disclaimer.reward.foodbundle.3",
-            "text": "[#!]Medium Food Bundles[#]"
+            "text": "[#!]Medelstora matpaket[#]"
           },
           {
             "key": "chest.bonus.disclaimer.reward.ironbundle.3.single",
-            "text": "[#!]Medium Iron Bundle[#]"
+            "text": "[#!]Medelstort järnpaket[#]"
           },
           {
             "key": "chest.bonus.disclaimer.reward.ironbundle.3",
-            "text": "[#!]Medium Iron Bundles[#]"
+            "text": "[#!]Medelstora järnpaket[#]"
+          },
+          {
+            "key": "options.label.eliteclub",
+            "text": "Elites club"
+          },
+          {
+            "key": "familyeffect.statuseffect.long.statuseffectperturn.minor.mothdust.random.enemies.onremoval.dispel.removal.sleep_moth_dust.single.allies.moth_dust_with_mega_minion_wound.without_removing_all_status_effects",
+            "text": "[#!]Malstoft[#] har följande effekter:\n{STATUSEFFECTS}\n\n[*]Om malstoft rensas eller tas bort [#!]somnar[#] målet och tar {REMOVALEFFECT1STATUSEFFECT1DAMAGEMODIFIER} % mer skada medan det sover."
           }
         ]
       },
@@ -229,27 +293,35 @@
         "overrideEntries": [
           {
             "key": "chest.bonus.disclaimer.reward.battleitem.5.single",
-            "text": "[#!]Battle Item 5*[#]"
+            "text": "[#!]Savaş Nesnesi 5*[#]"
           },
           {
             "key": "chest.bonus.disclaimer.reward.battleitem.5",
-            "text": "[#!]Battle Items 5*[#]"
+            "text": "[#!]Savaş Nesneleri 5*[#]"
           },
           {
             "key": "chest.bonus.disclaimer.reward.foodbundle.3.single",
-            "text": "[#!]Medium Food Bundle[#]"
+            "text": "[#!]Orta Gıda Demeti[#]"
           },
           {
             "key": "chest.bonus.disclaimer.reward.foodbundle.3",
-            "text": "[#!]Medium Food Bundles[#]"
+            "text": "[#!]Orta Gıda Demetleri[#]"
           },
           {
             "key": "chest.bonus.disclaimer.reward.ironbundle.3.single",
-            "text": "[#!]Medium Iron Bundle[#]"
+            "text": "[#!]Orta Demir Demeti[#]"
           },
           {
             "key": "chest.bonus.disclaimer.reward.ironbundle.3",
-            "text": "[#!]Medium Iron Bundles[#]"
+            "text": "[#!]Orta Demir Demetleri[#]"
+          },
+          {
+            "key": "options.label.eliteclub",
+            "text": "Elites club"
+          },
+          {
+            "key": "familyeffect.statuseffect.long.statuseffectperturn.minor.mothdust.random.enemies.onremoval.dispel.removal.sleep_moth_dust.single.allies.moth_dust_with_mega_minion_wound.without_removing_all_status_effects",
+            "text": "[#!]Güve Tozunun[#] efektleri şu şekildedir:\n{STATUSEFFECTS}\n\n[*]Güve Tozu arındırılırsa veya kaldırılırsa hedef [#!]uykuya dalar[#] ve uyurken %{REMOVALEFFECT1STATUSEFFECT1DAMAGEMODIFIER} daha fazla hasar alır."
           }
         ]
       },
@@ -278,6 +350,14 @@
           {
             "key": "chest.bonus.disclaimer.reward.ironbundle.3",
             "text": "[#!]Medium Iron Bundles[#]"
+          },
+          {
+            "key": "options.label.eliteclub",
+            "text": "Elites club"
+          },
+          {
+            "key": "familyeffect.statuseffect.long.statuseffectperturn.minor.mothdust.random.enemies.onremoval.dispel.removal.sleep_moth_dust.single.allies.moth_dust_with_mega_minion_wound.without_removing_all_status_effects",
+            "text": "[#!]Moth Dust[#] has following effects:\n{STATUSEFFECTS}\n\n[*]If Moth Dust is cleansed or removed, the target falls [#!]asleep[#] and receives {REMOVALEFFECT1STATUSEFFECT1DAMAGEMODIFIER}% increased damage while sleeping."
           }
         ]
       },
@@ -285,27 +365,35 @@
         "overrideEntries": [
           {
             "key": "chest.bonus.disclaimer.reward.battleitem.5.single",
-            "text": "[#!]Battle Item 5*[#]"
+            "text": "[#!]عنصر المعركة 5*[#]"
           },
           {
             "key": "chest.bonus.disclaimer.reward.battleitem.5",
-            "text": "[#!]Battle Items 5*[#]"
+            "text": "[#!]عناصر المعركة 5*[#]"
           },
           {
             "key": "chest.bonus.disclaimer.reward.foodbundle.3.single",
-            "text": "[#!]Medium Food Bundle[#]"
+            "text": "[#!]حزمة طعام متوسطة[#]"
           },
           {
             "key": "chest.bonus.disclaimer.reward.foodbundle.3",
-            "text": "[#!]Medium Food Bundles[#]"
+            "text": "[#!]حزم طعام متوسطة[#]"
           },
           {
             "key": "chest.bonus.disclaimer.reward.ironbundle.3.single",
-            "text": "[#!]Medium Iron Bundle[#]"
+            "text": "[#!]حزمة حديد متوسطة[#]"
           },
           {
             "key": "chest.bonus.disclaimer.reward.ironbundle.3",
-            "text": "[#!]Medium Iron Bundles[#]"
+            "text": "[#!]حزم حديد متوسطة[#]"
+          },
+          {
+            "key": "options.label.eliteclub",
+            "text": "Elites club"
+          },
+          {
+            "key": "familyeffect.statuseffect.long.statuseffectperturn.minor.mothdust.random.enemies.onremoval.dispel.removal.sleep_moth_dust.single.allies.moth_dust_with_mega_minion_wound.without_removing_all_status_effects",
+            "text": "لدى [#!]غبار العثة[#] التأثيرات الآتية:\n{STATUSEFFECTS}\n\n[*]يقع الهدف في [#!]النوم[#] في حالة تطهير أو إزالة غبار العثة، وينال من الضرر {REMOVALEFFECT1STATUSEFFECT1DAMAGEMODIFIER}% إضافية في أثناء النوم."
           }
         ]
       },
@@ -313,27 +401,35 @@
         "overrideEntries": [
           {
             "key": "chest.bonus.disclaimer.reward.battleitem.5.single",
-            "text": "[#!]Battle Item 5*[#]"
+            "text": "[#!]Objet de combat 5*[#]"
           },
           {
             "key": "chest.bonus.disclaimer.reward.battleitem.5",
-            "text": "[#!]Battle Items 5*[#]"
+            "text": "[#!]Objets de combat 5*[#]"
           },
           {
             "key": "chest.bonus.disclaimer.reward.foodbundle.3.single",
-            "text": "[#!]Medium Food Bundle[#]"
+            "text": "[#!]Lot de nourriture moyen[#]"
           },
           {
             "key": "chest.bonus.disclaimer.reward.foodbundle.3",
-            "text": "[#!]Medium Food Bundles[#]"
+            "text": "[#!]Lots de nourriture moyens[#]"
           },
           {
             "key": "chest.bonus.disclaimer.reward.ironbundle.3.single",
-            "text": "[#!]Medium Iron Bundle[#]"
+            "text": "[#!]Lot de fer moyen[#]"
           },
           {
             "key": "chest.bonus.disclaimer.reward.ironbundle.3",
-            "text": "[#!]Medium Iron Bundles[#]"
+            "text": "[#!]Lots de fer moyens[#]"
+          },
+          {
+            "key": "options.label.eliteclub",
+            "text": "Elites club"
+          },
+          {
+            "key": "familyeffect.statuseffect.long.statuseffectperturn.minor.mothdust.random.enemies.onremoval.dispel.removal.sleep_moth_dust.single.allies.moth_dust_with_mega_minion_wound.without_removing_all_status_effects",
+            "text": "[#!]Poussière de mite[#] a les effets suivants :\n{STATUSEFFECTS}\n\n[*]Si la poussière de mite est purifiée ou supprimée, la cible [#!]s'endort[#] et subit {REMOVALEFFECT1STATUSEFFECT1DAMAGEMODIFIER} % de dégâts supplémentaires tant qu'elle dort."
           }
         ]
       },
@@ -341,27 +437,35 @@
         "overrideEntries": [
           {
             "key": "chest.bonus.disclaimer.reward.battleitem.5.single",
-            "text": "[#!]Battle Item 5*[#]"
+            "text": "[#!]Item de batalha 5*[#]"
           },
           {
             "key": "chest.bonus.disclaimer.reward.battleitem.5",
-            "text": "[#!]Battle Items 5*[#]"
+            "text": "[#!]Itens de batalha 5*[#]"
           },
           {
             "key": "chest.bonus.disclaimer.reward.foodbundle.3.single",
-            "text": "[#!]Medium Food Bundle[#]"
+            "text": "[#!]Pacote de comida médio[#]"
           },
           {
             "key": "chest.bonus.disclaimer.reward.foodbundle.3",
-            "text": "[#!]Medium Food Bundles[#]"
+            "text": "[#!]Pacotes de comida médios[#]"
           },
           {
             "key": "chest.bonus.disclaimer.reward.ironbundle.3.single",
-            "text": "[#!]Medium Iron Bundle[#]"
+            "text": "[#!]Pacote de ferro médio[#]"
           },
           {
             "key": "chest.bonus.disclaimer.reward.ironbundle.3",
-            "text": "[#!]Medium Iron Bundles[#]"
+            "text": "[#!]Pacotes de ferro médios[#]"
+          },
+          {
+            "key": "options.label.eliteclub",
+            "text": "Elites club"
+          },
+          {
+            "key": "familyeffect.statuseffect.long.statuseffectperturn.minor.mothdust.random.enemies.onremoval.dispel.removal.sleep_moth_dust.single.allies.moth_dust_with_mega_minion_wound.without_removing_all_status_effects",
+            "text": "[#!]Pó de Mariposa[#] tem os seguintes efeitos:\n{STATUSEFFECTS}\n\n[*] Quando Pó de Mariposa é expurgado ou removido, o alvo [#!]adormece[#] e recebe {REMOVALEFFECT1STATUSEFFECT1DAMAGEMODIFIER}% mais dano enquanto dorme."
           }
         ]
       },
@@ -369,27 +473,35 @@
         "overrideEntries": [
           {
             "key": "chest.bonus.disclaimer.reward.battleitem.5.single",
-            "text": "[#!]Battle Item 5*[#]"
+            "text": "[#!]Barang Pertempuran 5*[#]"
           },
           {
             "key": "chest.bonus.disclaimer.reward.battleitem.5",
-            "text": "[#!]Battle Items 5*[#]"
+            "text": "[#!]Barang Pertempuran 5*[#]"
           },
           {
             "key": "chest.bonus.disclaimer.reward.foodbundle.3.single",
-            "text": "[#!]Medium Food Bundle[#]"
+            "text": "[#!]Bundel Makanan Sedang[#]"
           },
           {
             "key": "chest.bonus.disclaimer.reward.foodbundle.3",
-            "text": "[#!]Medium Food Bundles[#]"
+            "text": "[#!]Bundel Makanan Sedang[#]"
           },
           {
             "key": "chest.bonus.disclaimer.reward.ironbundle.3.single",
-            "text": "[#!]Medium Iron Bundle[#]"
+            "text": "[#!]Bundel Besi Sedang[#]"
           },
           {
             "key": "chest.bonus.disclaimer.reward.ironbundle.3",
-            "text": "[#!]Medium Iron Bundles[#]"
+            "text": "[#!]Bundel Besi Sedang[#]"
+          },
+          {
+            "key": "options.label.eliteclub",
+            "text": "Elites club"
+          },
+          {
+            "key": "familyeffect.statuseffect.long.statuseffectperturn.minor.mothdust.random.enemies.onremoval.dispel.removal.sleep_moth_dust.single.allies.moth_dust_with_mega_minion_wound.without_removing_all_status_effects",
+            "text": "[#!]Debu Ngengat[#] memiliki efek berikut:\n{STATUSEFFECTS}\n\n[*]Jika Debu Ngengat dibersihkan atau dihapus, sasaran jatuh [#!]tertidur[#] dan menderita {REMOVALEFFECT1STATUSEFFECT1DAMAGEMODIFIER}% peningkatan kerusakan selagi tertidur."
           }
         ]
       },
@@ -397,27 +509,35 @@
         "overrideEntries": [
           {
             "key": "chest.bonus.disclaimer.reward.battleitem.5.single",
-            "text": "[#!]Battle Item 5*[#]"
+            "text": "[#!]Taisteluesine 5*[#]"
           },
           {
             "key": "chest.bonus.disclaimer.reward.battleitem.5",
-            "text": "[#!]Battle Items 5*[#]"
+            "text": "[#!]Taisteluesineet 5*[#]"
           },
           {
             "key": "chest.bonus.disclaimer.reward.foodbundle.3.single",
-            "text": "[#!]Medium Food Bundle[#]"
+            "text": "[#!]Keskikokoinen ruokapaketti[#]"
           },
           {
             "key": "chest.bonus.disclaimer.reward.foodbundle.3",
-            "text": "[#!]Medium Food Bundles[#]"
+            "text": "[#!]Keskikokoiset ruokapaketit[#]"
           },
           {
             "key": "chest.bonus.disclaimer.reward.ironbundle.3.single",
-            "text": "[#!]Medium Iron Bundle[#]"
+            "text": "[#!]Keskikokoinen rautapaketti[#]"
           },
           {
             "key": "chest.bonus.disclaimer.reward.ironbundle.3",
-            "text": "[#!]Medium Iron Bundles[#]"
+            "text": "[#!]Keskikokoiset rautapaketit[#]"
+          },
+          {
+            "key": "options.label.eliteclub",
+            "text": "Elites club"
+          },
+          {
+            "key": "familyeffect.statuseffect.long.statuseffectperturn.minor.mothdust.random.enemies.onremoval.dispel.removal.sleep_moth_dust.single.allies.moth_dust_with_mega_minion_wound.without_removing_all_status_effects",
+            "text": "[#!]Koitomulla[#] on seuraavat vaikutukset:\n{STATUSEFFECTS}\n\n[*]Jos koitomu puhdistetaan tai poistetaan, kohde [#!]nukahtaa[#] ja kärsii {REMOVALEFFECT1STATUSEFFECT1DAMAGEMODIFIER} % enemmän vauriota nukkuessaan."
           }
         ]
       },
@@ -425,27 +545,35 @@
         "overrideEntries": [
           {
             "key": "chest.bonus.disclaimer.reward.battleitem.5.single",
-            "text": "[#!]Battle Item 5*[#]"
+            "text": "[#!]Kampobjekter 5*[#]"
           },
           {
             "key": "chest.bonus.disclaimer.reward.battleitem.5",
-            "text": "[#!]Battle Items 5*[#]"
+            "text": "[#!]Kampobjekter 5*[#]"
           },
           {
             "key": "chest.bonus.disclaimer.reward.foodbundle.3.single",
-            "text": "[#!]Medium Food Bundle[#]"
+            "text": "[#!]Medium madbundt[#]"
           },
           {
             "key": "chest.bonus.disclaimer.reward.foodbundle.3",
-            "text": "[#!]Medium Food Bundles[#]"
+            "text": "[#!]Medium madbundter[#]"
           },
           {
             "key": "chest.bonus.disclaimer.reward.ironbundle.3.single",
-            "text": "[#!]Medium Iron Bundle[#]"
+            "text": "[#!]Medium jernbundt[#]"
           },
           {
             "key": "chest.bonus.disclaimer.reward.ironbundle.3",
-            "text": "[#!]Medium Iron Bundles[#]"
+            "text": "[#!]Medium jernbundter[#]"
+          },
+          {
+            "key": "options.label.eliteclub",
+            "text": "Elites club"
+          },
+          {
+            "key": "familyeffect.statuseffect.long.statuseffectperturn.minor.mothdust.random.enemies.onremoval.dispel.removal.sleep_moth_dust.single.allies.moth_dust_with_mega_minion_wound.without_removing_all_status_effects",
+            "text": "[#!]Mølstøv[#] har følgende effekter:\n{STATUSEFFECTS}\n\n[*]Hvis mølstøv bliver renset eller fjernet, falder målet [#!]i søvn[#] og modtager {REMOVALEFFECT1STATUSEFFECT1DAMAGEMODIFIER} % forøget skade, mens de sover."
           }
         ]
       },
@@ -453,27 +581,35 @@
         "overrideEntries": [
           {
             "key": "chest.bonus.disclaimer.reward.battleitem.5.single",
-            "text": "[#!]Battle Item 5*[#]"
+            "text": "[#!]Objeto de batalla de 5*[#]"
           },
           {
             "key": "chest.bonus.disclaimer.reward.battleitem.5",
-            "text": "[#!]Battle Items 5*[#]"
+            "text": "[#!]Objetos de batalla de 5*[#]"
           },
           {
             "key": "chest.bonus.disclaimer.reward.foodbundle.3.single",
-            "text": "[#!]Medium Food Bundle[#]"
+            "text": "[#!]Paquete mediano de comida[#]"
           },
           {
             "key": "chest.bonus.disclaimer.reward.foodbundle.3",
-            "text": "[#!]Medium Food Bundles[#]"
+            "text": "[#!]Paquetes medianos de comida[#]"
           },
           {
             "key": "chest.bonus.disclaimer.reward.ironbundle.3.single",
-            "text": "[#!]Medium Iron Bundle[#]"
+            "text": "[#!]Paquete mediano de hierro[#]"
           },
           {
             "key": "chest.bonus.disclaimer.reward.ironbundle.3",
-            "text": "[#!]Medium Iron Bundles[#]"
+            "text": "[#!]Paquetes medianos de hierro[#]"
+          },
+          {
+            "key": "options.label.eliteclub",
+            "text": "Elites club"
+          },
+          {
+            "key": "familyeffect.statuseffect.long.statuseffectperturn.minor.mothdust.random.enemies.onremoval.dispel.removal.sleep_moth_dust.single.allies.moth_dust_with_mega_minion_wound.without_removing_all_status_effects",
+            "text": "[#!]Polvo de polilla[#] tiene estos efectos:\n{STATUSEFFECTS}\n\n[*] Si se purifica o se elimina, el objetivo [#!]se duerme[#] y recibe un {REMOVALEFFECT1STATUSEFFECT1DAMAGEMODIFIER} % más de daño mientras está dormido."
           }
         ]
       },
@@ -481,27 +617,35 @@
         "overrideEntries": [
           {
             "key": "chest.bonus.disclaimer.reward.battleitem.5.single",
-            "text": "[#!]Battle Item 5*[#]"
+            "text": "[#!]Kampgjenstand 5*[#]"
           },
           {
             "key": "chest.bonus.disclaimer.reward.battleitem.5",
-            "text": "[#!]Battle Items 5*[#]"
+            "text": "[#!]Kampgjenstander 5*[#]"
           },
           {
             "key": "chest.bonus.disclaimer.reward.foodbundle.3.single",
-            "text": "[#!]Medium Food Bundle[#]"
+            "text": "[#!]Middels matpakke[#]"
           },
           {
             "key": "chest.bonus.disclaimer.reward.foodbundle.3",
-            "text": "[#!]Medium Food Bundles[#]"
+            "text": "[#!]Middels matpakker[#]"
           },
           {
             "key": "chest.bonus.disclaimer.reward.ironbundle.3.single",
-            "text": "[#!]Medium Iron Bundle[#]"
+            "text": "[#!]Middels jernpakke[#]"
           },
           {
             "key": "chest.bonus.disclaimer.reward.ironbundle.3",
-            "text": "[#!]Medium Iron Bundles[#]"
+            "text": "[#!]Middels jernpakker[#]"
+          },
+          {
+            "key": "options.label.eliteclub",
+            "text": "Elites club"
+          },
+          {
+            "key": "familyeffect.statuseffect.long.statuseffectperturn.minor.mothdust.random.enemies.onremoval.dispel.removal.sleep_moth_dust.single.allies.moth_dust_with_mega_minion_wound.without_removing_all_status_effects",
+            "text": "[#!]Møllstøv[#] har følgende effekter:\n{STATUSEFFECTS}\n\n[*]Hvis møllstøv renses eller fjernes, [#!]sovner[#] målet og tar {REMOVALEFFECT1STATUSEFFECT1DAMAGEMODIFIER} % økt skade mens det sover."
           }
         ]
       },
@@ -509,27 +653,35 @@
         "overrideEntries": [
           {
             "key": "chest.bonus.disclaimer.reward.battleitem.5.single",
-            "text": "[#!]Battle Item 5*[#]"
+            "text": "[#!]Gevechtsitem 5*[#]"
           },
           {
             "key": "chest.bonus.disclaimer.reward.battleitem.5",
-            "text": "[#!]Battle Items 5*[#]"
+            "text": "[#!]Gevechtsitems 5*[#]"
           },
           {
             "key": "chest.bonus.disclaimer.reward.foodbundle.3.single",
-            "text": "[#!]Medium Food Bundle[#]"
+            "text": "[#!]Middelgrote voedselbundel[#]"
           },
           {
             "key": "chest.bonus.disclaimer.reward.foodbundle.3",
-            "text": "[#!]Medium Food Bundles[#]"
+            "text": "[#!]Middelgrote voedselbundels[#]"
           },
           {
             "key": "chest.bonus.disclaimer.reward.ironbundle.3.single",
-            "text": "[#!]Medium Iron Bundle[#]"
+            "text": "[#!]Middelgrote ijzerbundel[#]"
           },
           {
             "key": "chest.bonus.disclaimer.reward.ironbundle.3",
-            "text": "[#!]Medium Iron Bundles[#]"
+            "text": "[#!]Middelgrote ijzerbundels[#]"
+          },
+          {
+            "key": "options.label.eliteclub",
+            "text": "Elites club"
+          },
+          {
+            "key": "familyeffect.statuseffect.long.statuseffectperturn.minor.mothdust.random.enemies.onremoval.dispel.removal.sleep_moth_dust.single.allies.moth_dust_with_mega_minion_wound.without_removing_all_status_effects",
+            "text": "[#!]Mottenschemer[#] heeft de volgende effecten:\n{STATUSEFFECTS}\n\n[*]Als mottenschemer wordt gereinigd of verwijderd, valt het doelwit [#!]in slaap[#] en lijdt het {REMOVALEFFECT1STATUSEFFECT1DAMAGEMODIFIER}% meer schade tijdens het slapen."
           }
         ]
       },
@@ -537,31 +689,39 @@
         "overrideEntries": [
           {
             "key": "chest.bonus.disclaimer.reward.battleitem.5.single",
-            "text": "[#!]Battle Item 5*[#]"
+            "text": "[#!]战斗物品5*[#]"
           },
           {
             "key": "chest.bonus.disclaimer.reward.battleitem.5",
-            "text": "[#!]Battle Items 5*[#]"
+            "text": "[#!]战斗物品5*[#]"
           },
           {
             "key": "chest.bonus.disclaimer.reward.foodbundle.3.single",
-            "text": "[#!]Medium Food Bundle[#]"
+            "text": "[#!]中型食物包[#]"
           },
           {
             "key": "chest.bonus.disclaimer.reward.foodbundle.3",
-            "text": "[#!]Medium Food Bundles[#]"
+            "text": "[#!]中型食物包[#]"
           },
           {
             "key": "chest.bonus.disclaimer.reward.ironbundle.3.single",
-            "text": "[#!]Medium Iron Bundle[#]"
+            "text": "[#!]中型铁块包[#]"
           },
           {
             "key": "chest.bonus.disclaimer.reward.ironbundle.3",
-            "text": "[#!]Medium Iron Bundles[#]"
+            "text": "[#!]中型铁块包[#]"
+          },
+          {
+            "key": "options.label.eliteclub",
+            "text": "Elites club"
+          },
+          {
+            "key": "familyeffect.statuseffect.long.statuseffectperturn.minor.mothdust.random.enemies.onremoval.dispel.removal.sleep_moth_dust.single.allies.moth_dust_with_mega_minion_wound.without_removing_all_status_effects",
+            "text": "[#!]飞蛾粉尘[#]有以下效果：\n{STATUSEFFECTS}\n\n[*]如果飞蛾粉尘被净化或移除，目标将陷入[#!]沉睡[#]，沉睡期间受到的伤害提高{REMOVALEFFECT1STATUSEFFECT1DAMAGEMODIFIER}%。"
           }
         ]
       }
     }
   },
-  "languageOverridesConfigId": 2375107633
+  "languageOverridesConfigId": 2473951261
 }

@@ -1386,6 +1386,11 @@
           "SecretSummonAscensionMimicGreen",
           "SecretSummonAscensionMimicYellow",
           "SecretSummonAscensionMimicPurple",
+          "SecretSummonEmblemMimicRed",
+          "SecretSummonEmblemMimicBlue",
+          "SecretSummonEmblemMimicGreen",
+          "SecretSummonEmblemMimicYellow",
+          "SecretSummonEmblemMimicPurple",
           "Halloween2025",
           "MonthlyHeroNovember2025",
           "MonthlyHeroDecember2025",
@@ -2675,6 +2680,12 @@
             "type": "MysteryHero",
             "startTime": "2025-08-18 07:00:00",
             "endTime": "2025-08-19 07:00:00"
+          },
+          {
+            "id": "SecretSummonEmblemMimicRed",
+            "type": "MysteryHero",
+            "startTime": "2025-09-18 07:00:00",
+            "endTime": "2025-09-19 07:00:00"
           }
         ],
         "challengeEventEntries": [
@@ -40656,7 +40667,7 @@
           "duration": "28天",
           "scheduleLength": "FixedMonth",
           "dayDuration": 86400,
-          "referenceDate": 707814000,
+          "referenceDate": "2022-06-06 07:00:00",
           "challengeSeasonsRotation": [
             "path_of_valor_1",
             "path_of_valor_2",
@@ -43998,7 +44009,7 @@
           "duration": "28天",
           "scheduleLength": "FixedMonth",
           "dayDuration": 86400,
-          "referenceDate": 707814000,
+          "referenceDate": "2022-06-06 07:00:00",
           "challengeSeasonsRotation": [
             "path_of_giants_1",
             "path_of_giants_2",
@@ -48108,7 +48119,7 @@
           "duration": "28天",
           "scheduleLength": "FixedMonth",
           "dayDuration": 86400,
-          "referenceDate": 786438000,
+          "referenceDate": "2024-12-02 07:00:00",
           "challengeSeasonsRotation": [
             "path_of_dragons_1",
             "path_of_dragons_2",
@@ -50476,7 +50487,7 @@
       "mercenaryWar": {
         "enabled": true,
         "requiredLevelToPlay": 20,
-        "referenceDate": 700574400,
+        "referenceDate": "2022-03-14 12:00:00",
         "schedule": {
           "week": "Second",
           "day": "Tuesday",
@@ -80634,7 +80645,7 @@
     "maxVersionToShowUpdateOutReminderAndroid": "79.0.0",
     "maxVersionToShowUpdateOutReminderIos": "79.0.0",
     "maxVersionToShowUpdateOutReminderAndroidStandalone": "79.0.1",
-    "standaloneNewVersionRolloutPercentage": 30,
+    "standaloneNewVersionRolloutPercentage": 100,
     "fastClientLogFlushTimeSeconds": 5,
     "accountDeletionEnabled": true,
     "popupSuppression": {
@@ -80724,5 +80735,5 @@
     "criticalOperationPendingDelaySeconds": 3,
     "allowedCriticalOperationPendingCount": 3
   },
-  "otherConfigId": 1804157955
+  "otherConfigId": 3981784467
 }

@@ -951,6 +951,19 @@ Empires & Puzzles職員"
 "automail.anniversaryyear8.pushnotification","8週年紀念日快樂！
 感謝各位玩家的支持！"
 "automail.anniversaryyear8.title","8週年紀念快樂！"
+"automail.anniversaryyear9.body","親愛的{0}，
+
+你能相信9年過去了嗎？
+
+感謝你加入Empires & Puzzles社群。為感謝你的忠誠與一路上經歷的戰鬥，這是送給你的週年禮物！
+
+敬祝你的王國日益壯大，迎接更多的挑戰和冒險。
+
+致上問候，
+Empires & Puzzles職員"
+"automail.anniversaryyear9.pushnotification","9週年紀念日快樂！
+感謝各位玩家的支持！"
+"automail.anniversaryyear9.title","9週年紀念快樂！"
 "automail.day0.body","很高興見到你，{0}！
 
 請加入我們的史詩冒險吧，一切才剛開始！新功能、新英雄和激動人心的更新將在未來幾個星期和幾個月內與你見面。
@@ -2230,9 +2243,7 @@ Empires & Puzzles職員"
 "calendar.chest.name.kalevala","卡勒瓦拉寶箱"
 "calendar.chest.name.lunarnewyear","農曆新年寶箱"
 "ccpa.dialog.advertising_partners","線上廣告合作夥伴"
-"ccpa.dialog.button","請勿出售或分享
-我的個人資訊
-（包括影片觀看紀錄）"
+"ccpa.dialog.button","請勿出售或分享我的個人資料（包含影片觀看紀錄）"
 "ccpa.dialog.message","我們依靠廣告來維持免費提供此應用程式，並希望在遊戲內向您展示更多個人化廣告。為此，我們允許特定的線上廣告合作夥伴收集您的相關資訊（例如您提供的個人資料、裝置廣告識別碼及其他裝置資訊）。根據美國部分州的定義，此行為可能被視為「出售」或「分享」個人資料。我們亦可能與第三方分享您的個人資料及影片觀看紀錄用於廣告投放。
 
 如欲退出這些資料處理活動，請使用下方核取方塊進行設定。若您選擇退出，您仍會看到廣告，但這些廣告將不會根據您的興趣進行個人化調整。
@@ -2242,8 +2253,7 @@ Empires & Puzzles職員"
 若您不希望我們分享您的個人資料（包含影片觀看紀錄）用於分析或最佳化您的互動遊戲體驗，請刪除您的遊戲帳號。
 
 請參閱我們的私隱保護政策以了解我們如何處理您的資料。"
-"ccpa.dialog.title","請勿出售或分享
-我的個人資訊"
+"ccpa.dialog.title","不要出售或共用我的個人資訊"
 "challengeseason.giants_chest.claimable_chests#1","{0}個巨人寶箱已可領取！"
 "challengeseason.giants_chest.claimable_chests#2","{0}個巨人寶箱已可領取！"
 "challengeseason.giants_chest.claimable_chests#3","{0} Giants Chests ready to be claimed! (THIRD FORM)"

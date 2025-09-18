@@ -1386,6 +1386,11 @@
           "SecretSummonAscensionMimicGreen",
           "SecretSummonAscensionMimicYellow",
           "SecretSummonAscensionMimicPurple",
+          "SecretSummonEmblemMimicRed",
+          "SecretSummonEmblemMimicBlue",
+          "SecretSummonEmblemMimicGreen",
+          "SecretSummonEmblemMimicYellow",
+          "SecretSummonEmblemMimicPurple",
           "Halloween2025",
           "MonthlyHeroNovember2025",
           "MonthlyHeroDecember2025",
@@ -2675,6 +2680,12 @@
             "type": "MysteryHero",
             "startTime": "2025-08-18 07:00:00",
             "endTime": "2025-08-19 07:00:00"
+          },
+          {
+            "id": "SecretSummonEmblemMimicRed",
+            "type": "MysteryHero",
+            "startTime": "2025-09-18 07:00:00",
+            "endTime": "2025-09-19 07:00:00"
           }
         ],
         "challengeEventEntries": [
@@ -40656,7 +40667,7 @@
           "duration": "28天",
           "scheduleLength": "FixedMonth",
           "dayDuration": 86400,
-          "referenceDate": 707814000,
+          "referenceDate": "2022-06-06 07:00:00",
           "challengeSeasonsRotation": [
             "path_of_valor_1",
             "path_of_valor_2",
@@ -43998,7 +44009,7 @@
           "duration": "28天",
           "scheduleLength": "FixedMonth",
           "dayDuration": 86400,
-          "referenceDate": 707814000,
+          "referenceDate": "2022-06-06 07:00:00",
           "challengeSeasonsRotation": [
             "path_of_giants_1",
             "path_of_giants_2",
@@ -48108,7 +48119,7 @@
           "duration": "28天",
           "scheduleLength": "FixedMonth",
           "dayDuration": 86400,
-          "referenceDate": 786438000,
+          "referenceDate": "2024-12-02 07:00:00",
           "challengeSeasonsRotation": [
             "path_of_dragons_1",
             "path_of_dragons_2",
@@ -50476,7 +50487,7 @@
       "mercenaryWar": {
         "enabled": true,
         "requiredLevelToPlay": 20,
-        "referenceDate": 700574400,
+        "referenceDate": "2022-03-14 12:00:00",
         "schedule": {
           "week": "Second",
           "day": "Tuesday",
@@ -73692,7 +73703,7 @@
           {
             "rarity": 5,
             "level": 10,
-            "classType": "圣骑士",
+            "classType": "Paladin",
             "cost": {
               "itemToCount": {
                 "emblem_paladin": 25
@@ -73702,7 +73713,7 @@
           {
             "rarity": 5,
             "level": 20,
-            "classType": "圣骑士",
+            "classType": "Paladin",
             "cost": {
               "itemToCount": {
                 "emblem_paladin": 50
@@ -73712,7 +73723,7 @@
           {
             "rarity": 5,
             "level": 30,
-            "classType": "圣骑士",
+            "classType": "Paladin",
             "cost": {
               "itemToCount": {
                 "emblem_paladin": 75
@@ -73722,7 +73733,7 @@
           {
             "rarity": 5,
             "level": 40,
-            "classType": "圣骑士",
+            "classType": "Paladin",
             "cost": {
               "itemToCount": {
                 "emblem_paladin": 100
@@ -73732,7 +73743,7 @@
           {
             "rarity": 5,
             "level": 50,
-            "classType": "圣骑士",
+            "classType": "Paladin",
             "cost": {
               "itemToCount": {
                 "emblem_paladin": 150
@@ -73742,7 +73753,7 @@
           {
             "rarity": 5,
             "level": 10,
-            "classType": "德鲁伊",
+            "classType": "Druid",
             "cost": {
               "itemToCount": {
                 "emblem_druid": 25
@@ -73752,7 +73763,7 @@
           {
             "rarity": 5,
             "level": 20,
-            "classType": "德鲁伊",
+            "classType": "Druid",
             "cost": {
               "itemToCount": {
                 "emblem_druid": 50
@@ -73762,7 +73773,7 @@
           {
             "rarity": 5,
             "level": 30,
-            "classType": "德鲁伊",
+            "classType": "Druid",
             "cost": {
               "itemToCount": {
                 "emblem_druid": 75
@@ -73772,7 +73783,7 @@
           {
             "rarity": 5,
             "level": 40,
-            "classType": "德鲁伊",
+            "classType": "Druid",
             "cost": {
               "itemToCount": {
                 "emblem_druid": 100
@@ -73782,7 +73793,7 @@
           {
             "rarity": 5,
             "level": 50,
-            "classType": "德鲁伊",
+            "classType": "Druid",
             "cost": {
               "itemToCount": {
                 "emblem_druid": 150
@@ -73792,7 +73803,7 @@
           {
             "rarity": 5,
             "level": 10,
-            "classType": "野蛮人",
+            "classType": "Barbarian",
             "cost": {
               "itemToCount": {
                 "emblem_barbarian": 25
@@ -73802,7 +73813,7 @@
           {
             "rarity": 5,
             "level": 20,
-            "classType": "野蛮人",
+            "classType": "Barbarian",
             "cost": {
               "itemToCount": {
                 "emblem_barbarian": 50
@@ -73812,7 +73823,7 @@
           {
             "rarity": 5,
             "level": 30,
-            "classType": "野蛮人",
+            "classType": "Barbarian",
             "cost": {
               "itemToCount": {
                 "emblem_barbarian": 75
@@ -73822,7 +73833,7 @@
           {
             "rarity": 5,
             "level": 40,
-            "classType": "野蛮人",
+            "classType": "Barbarian",
             "cost": {
               "itemToCount": {
                 "emblem_barbarian": 100
@@ -73832,7 +73843,7 @@
           {
             "rarity": 5,
             "level": 50,
-            "classType": "野蛮人",
+            "classType": "Barbarian",
             "cost": {
               "itemToCount": {
                 "emblem_barbarian": 150
@@ -73842,7 +73853,7 @@
           {
             "rarity": 5,
             "level": 10,
-            "classType": "战士",
+            "classType": "Fighter",
             "cost": {
               "itemToCount": {
                 "emblem_fighter": 25
@@ -73852,7 +73863,7 @@
           {
             "rarity": 5,
             "level": 20,
-            "classType": "战士",
+            "classType": "Fighter",
             "cost": {
               "itemToCount": {
                 "emblem_fighter": 50
@@ -73862,7 +73873,7 @@
           {
             "rarity": 5,
             "level": 30,
-            "classType": "战士",
+            "classType": "Fighter",
             "cost": {
               "itemToCount": {
                 "emblem_fighter": 75
@@ -73872,7 +73883,7 @@
           {
             "rarity": 5,
             "level": 40,
-            "classType": "战士",
+            "classType": "Fighter",
             "cost": {
               "itemToCount": {
                 "emblem_fighter": 100
@@ -73882,7 +73893,7 @@
           {
             "rarity": 5,
             "level": 50,
-            "classType": "战士",
+            "classType": "Fighter",
             "cost": {
               "itemToCount": {
                 "emblem_fighter": 150
@@ -73892,7 +73903,7 @@
           {
             "rarity": 5,
             "level": 10,
-            "classType": "巫师",
+            "classType": "Wizard",
             "cost": {
               "itemToCount": {
                 "emblem_wizard": 25
@@ -73902,7 +73913,7 @@
           {
             "rarity": 5,
             "level": 20,
-            "classType": "巫师",
+            "classType": "Wizard",
             "cost": {
               "itemToCount": {
                 "emblem_wizard": 50
@@ -73912,7 +73923,7 @@
           {
             "rarity": 5,
             "level": 30,
-            "classType": "巫师",
+            "classType": "Wizard",
             "cost": {
               "itemToCount": {
                 "emblem_wizard": 75
@@ -73922,7 +73933,7 @@
           {
             "rarity": 5,
             "level": 40,
-            "classType": "巫师",
+            "classType": "Wizard",
             "cost": {
               "itemToCount": {
                 "emblem_wizard": 100
@@ -73932,7 +73943,7 @@
           {
             "rarity": 5,
             "level": 50,
-            "classType": "巫师",
+            "classType": "Wizard",
             "cost": {
               "itemToCount": {
                 "emblem_wizard": 150
@@ -73942,7 +73953,7 @@
           {
             "rarity": 5,
             "level": 10,
-            "classType": "牧师",
+            "classType": "Cleric",
             "cost": {
               "itemToCount": {
                 "emblem_cleric": 25
@@ -73952,7 +73963,7 @@
           {
             "rarity": 5,
             "level": 20,
-            "classType": "牧师",
+            "classType": "Cleric",
             "cost": {
               "itemToCount": {
                 "emblem_cleric": 50
@@ -73962,7 +73973,7 @@
           {
             "rarity": 5,
             "level": 30,
-            "classType": "牧师",
+            "classType": "Cleric",
             "cost": {
               "itemToCount": {
                 "emblem_cleric": 75
@@ -73972,7 +73983,7 @@
           {
             "rarity": 5,
             "level": 40,
-            "classType": "牧师",
+            "classType": "Cleric",
             "cost": {
               "itemToCount": {
                 "emblem_cleric": 100
@@ -73982,7 +73993,7 @@
           {
             "rarity": 5,
             "level": 50,
-            "classType": "牧师",
+            "classType": "Cleric",
             "cost": {
               "itemToCount": {
                 "emblem_cleric": 150
@@ -73992,7 +74003,7 @@
           {
             "rarity": 5,
             "level": 10,
-            "classType": "盗贼",
+            "classType": "Rogue",
             "cost": {
               "itemToCount": {
                 "emblem_rogue": 25
@@ -74002,7 +74013,7 @@
           {
             "rarity": 5,
             "level": 20,
-            "classType": "盗贼",
+            "classType": "Rogue",
             "cost": {
               "itemToCount": {
                 "emblem_rogue": 50
@@ -74012,7 +74023,7 @@
           {
             "rarity": 5,
             "level": 30,
-            "classType": "盗贼",
+            "classType": "Rogue",
             "cost": {
               "itemToCount": {
                 "emblem_rogue": 75
@@ -74022,7 +74033,7 @@
           {
             "rarity": 5,
             "level": 40,
-            "classType": "盗贼",
+            "classType": "Rogue",
             "cost": {
               "itemToCount": {
                 "emblem_rogue": 100
@@ -74032,7 +74043,7 @@
           {
             "rarity": 5,
             "level": 50,
-            "classType": "盗贼",
+            "classType": "Rogue",
             "cost": {
               "itemToCount": {
                 "emblem_rogue": 150
@@ -74042,7 +74053,7 @@
           {
             "rarity": 5,
             "level": 10,
-            "classType": "僧侣",
+            "classType": "Monk",
             "cost": {
               "itemToCount": {
                 "emblem_monk": 25
@@ -74052,7 +74063,7 @@
           {
             "rarity": 5,
             "level": 20,
-            "classType": "僧侣",
+            "classType": "Monk",
             "cost": {
               "itemToCount": {
                 "emblem_monk": 50
@@ -74062,7 +74073,7 @@
           {
             "rarity": 5,
             "level": 30,
-            "classType": "僧侣",
+            "classType": "Monk",
             "cost": {
               "itemToCount": {
                 "emblem_monk": 75
@@ -74072,7 +74083,7 @@
           {
             "rarity": 5,
             "level": 40,
-            "classType": "僧侣",
+            "classType": "Monk",
             "cost": {
               "itemToCount": {
                 "emblem_monk": 100
@@ -74082,7 +74093,7 @@
           {
             "rarity": 5,
             "level": 50,
-            "classType": "僧侣",
+            "classType": "Monk",
             "cost": {
               "itemToCount": {
                 "emblem_monk": 150
@@ -74092,7 +74103,7 @@
           {
             "rarity": 5,
             "level": 10,
-            "classType": "游侠",
+            "classType": "Ranger",
             "cost": {
               "itemToCount": {
                 "emblem_ranger": 25
@@ -74102,7 +74113,7 @@
           {
             "rarity": 5,
             "level": 20,
-            "classType": "游侠",
+            "classType": "Ranger",
             "cost": {
               "itemToCount": {
                 "emblem_ranger": 50
@@ -74112,7 +74123,7 @@
           {
             "rarity": 5,
             "level": 30,
-            "classType": "游侠",
+            "classType": "Ranger",
             "cost": {
               "itemToCount": {
                 "emblem_ranger": 75
@@ -74122,7 +74133,7 @@
           {
             "rarity": 5,
             "level": 40,
-            "classType": "游侠",
+            "classType": "Ranger",
             "cost": {
               "itemToCount": {
                 "emblem_ranger": 100
@@ -74132,7 +74143,7 @@
           {
             "rarity": 5,
             "level": 50,
-            "classType": "游侠",
+            "classType": "Ranger",
             "cost": {
               "itemToCount": {
                 "emblem_ranger": 150
@@ -74142,7 +74153,7 @@
           {
             "rarity": 5,
             "level": 10,
-            "classType": "术士",
+            "classType": "Sorcerer",
             "cost": {
               "itemToCount": {
                 "emblem_sorcerer": 25
@@ -74152,7 +74163,7 @@
           {
             "rarity": 5,
             "level": 20,
-            "classType": "术士",
+            "classType": "Sorcerer",
             "cost": {
               "itemToCount": {
                 "emblem_sorcerer": 50
@@ -74162,7 +74173,7 @@
           {
             "rarity": 5,
             "level": 30,
-            "classType": "术士",
+            "classType": "Sorcerer",
             "cost": {
               "itemToCount": {
                 "emblem_sorcerer": 75
@@ -74172,7 +74183,7 @@
           {
             "rarity": 5,
             "level": 40,
-            "classType": "术士",
+            "classType": "Sorcerer",
             "cost": {
               "itemToCount": {
                 "emblem_sorcerer": 100
@@ -74182,7 +74193,7 @@
           {
             "rarity": 5,
             "level": 50,
-            "classType": "术士",
+            "classType": "Sorcerer",
             "cost": {
               "itemToCount": {
                 "emblem_sorcerer": 150
@@ -74225,7 +74236,7 @@
         "ascensionCosts": [
           {
             "rarity": 5,
-            "classType": "野蛮人",
+            "classType": "Barbarian",
             "cost": {
               "iron": 200000,
               "itemToCount": {
@@ -74235,7 +74246,7 @@
           },
           {
             "rarity": 5,
-            "classType": "僧侣",
+            "classType": "Monk",
             "cost": {
               "iron": 200000,
               "itemToCount": {
@@ -74245,7 +74256,7 @@
           },
           {
             "rarity": 5,
-            "classType": "战士",
+            "classType": "Fighter",
             "cost": {
               "iron": 200000,
               "itemToCount": {
@@ -74255,7 +74266,7 @@
           },
           {
             "rarity": 5,
-            "classType": "术士",
+            "classType": "Sorcerer",
             "cost": {
               "iron": 200000,
               "itemToCount": {
@@ -74265,7 +74276,7 @@
           },
           {
             "rarity": 5,
-            "classType": "巫师",
+            "classType": "Wizard",
             "cost": {
               "iron": 200000,
               "itemToCount": {
@@ -74275,7 +74286,7 @@
           },
           {
             "rarity": 5,
-            "classType": "盗贼",
+            "classType": "Rogue",
             "cost": {
               "iron": 200000,
               "itemToCount": {
@@ -74285,7 +74296,7 @@
           },
           {
             "rarity": 5,
-            "classType": "圣骑士",
+            "classType": "Paladin",
             "cost": {
               "iron": 200000,
               "itemToCount": {
@@ -74295,7 +74306,7 @@
           },
           {
             "rarity": 5,
-            "classType": "德鲁伊",
+            "classType": "Druid",
             "cost": {
               "iron": 200000,
               "itemToCount": {
@@ -74305,7 +74316,7 @@
           },
           {
             "rarity": 5,
-            "classType": "牧师",
+            "classType": "Cleric",
             "cost": {
               "iron": 200000,
               "itemToCount": {
@@ -74315,7 +74326,7 @@
           },
           {
             "rarity": 5,
-            "classType": "游侠",
+            "classType": "Ranger",
             "cost": {
               "iron": 200000,
               "itemToCount": {
@@ -76519,7 +76530,7 @@
         ],
         "classTalents": [
           {
-            "classType": "圣骑士",
+            "classType": "Paladin",
             "talentSkillActivationPerMilPerNode": 50,
             "nodeTypeToTalentBonusId": {
               "BigModifierA": "defense_multiplier_more",
@@ -76542,7 +76553,7 @@
             "improvedTalentSkillActivationPerMilPerNode": 100
           },
           {
-            "classType": "术士",
+            "classType": "Sorcerer",
             "talentSkillActivationPerMilPerNode": 30,
             "nodeTypeToTalentBonusId": {
               "BigModifierA": "mana_bonus_more",
@@ -76565,7 +76576,7 @@
             "improvedTalentSkillActivationPerMilPerNode": 120
           },
           {
-            "classType": "僧侣",
+            "classType": "Monk",
             "talentSkillActivationPerMilPerNode": 60,
             "nodeTypeToTalentBonusId": {
               "BigModifierA": "mana_bonus_more",
@@ -76588,7 +76599,7 @@
             "improvedTalentSkillActivationPerMilPerNode": 100
           },
           {
-            "classType": "德鲁伊",
+            "classType": "Druid",
             "talentSkillActivationPerMilPerNode": 30,
             "nodeTypeToTalentBonusId": {
               "BigModifierA": "mana_bonus_more",
@@ -76611,7 +76622,7 @@
             "improvedTalentSkillActivationPerMilPerNode": 40
           },
           {
-            "classType": "盗贼",
+            "classType": "Rogue",
             "talentSkillActivationPerMilPerNode": 40,
             "nodeTypeToTalentBonusId": {
               "BigModifierA": "critical_increment_more",
@@ -76634,7 +76645,7 @@
             "improvedTalentSkillActivationPerMilPerNode": 60
           },
           {
-            "classType": "牧师",
+            "classType": "Cleric",
             "talentSkillActivationPerMilPerNode": 70,
             "nodeTypeToTalentBonusId": {
               "BigModifierA": "healing_bonus_more",
@@ -76657,7 +76668,7 @@
             "improvedTalentSkillActivationPerMilPerNode": 120
           },
           {
-            "classType": "巫师",
+            "classType": "Wizard",
             "talentSkillActivationPerMilPerNode": 50,
             "nodeTypeToTalentBonusId": {
               "BigModifierA": "attack_multiplier_more",
@@ -76680,7 +76691,7 @@
             "improvedTalentSkillActivationPerMilPerNode": 100
           },
           {
-            "classType": "野蛮人",
+            "classType": "Barbarian",
             "talentSkillActivationPerMilPerNode": 60,
             "nodeTypeToTalentBonusId": {
               "BigModifierA": "health_multiplier_more",
@@ -76703,7 +76714,7 @@
             "improvedTalentSkillActivationPerMilPerNode": 100
           },
           {
-            "classType": "游侠",
+            "classType": "Ranger",
             "talentSkillActivationPerMilPerNode": 50,
             "nodeTypeToTalentBonusId": {
               "BigModifierA": "critical_increment_more",
@@ -76726,7 +76737,7 @@
             "improvedTalentSkillActivationPerMilPerNode": 120
           },
           {
-            "classType": "战士",
+            "classType": "Fighter",
             "talentSkillActivationPerMilPerNode": 60,
             "nodeTypeToTalentBonusId": {
               "BigModifierA": "attack_multiplier_more",
@@ -80634,7 +80645,7 @@
     "maxVersionToShowUpdateOutReminderAndroid": "79.0.0",
     "maxVersionToShowUpdateOutReminderIos": "79.0.0",
     "maxVersionToShowUpdateOutReminderAndroidStandalone": "79.0.1",
-    "standaloneNewVersionRolloutPercentage": 30,
+    "standaloneNewVersionRolloutPercentage": 100,
     "fastClientLogFlushTimeSeconds": 5,
     "accountDeletionEnabled": true,
     "popupSuppression": {
@@ -80724,5 +80735,5 @@
     "criticalOperationPendingDelaySeconds": 3,
     "allowedCriticalOperationPendingCount": 3
   },
-  "otherConfigId": 1804157955
+  "otherConfigId": 3981784467
 }

@@ -11,28 +11,6 @@
         "Lottery_Only":1
     },
     {
-        "name": "Bart",
-        "fancy_name": "Magic Carpet Speedster",
-        "color": "Blue",
-        "Release date": "",
-        "star": 5,
-        "family": "magic_carpet",
-        "costume_id": 0,
-        "heroId": "magic_carpet_bart",
-        "Lottery_Only":1
-    },
-    {
-        "name": "Becky C1",
-        "fancy_name": "Twilight Conjurer",
-        "color": "Purple",
-        "Release date": "",
-        "star": 5,
-        "family": "magic",
-        "costume_id": 1,
-        "heroId": "magic_becky_costume_gothic",
-        "Lottery_Only":1
-    },
-    {
         "name": "Lemniss",
         "fancy_name": "Astral Dwarf Miner",
         "color": "Purple",
@@ -85,6 +63,28 @@
         "family": "Halloween2025",
         "costume_id": 0,
         "heroId": "fleur_ludovico",
+        "Lottery_Only":1
+    },
+    {
+        "name": "Wu Song",
+        "fancy_name": "Tiger-Fighting Hero of Water Margin",
+        "color": "Blue",
+        "Release date": "",
+        "star": 5,
+        "family": "outlaw",
+        "costume_id": 0,
+        "heroId": "outlaw_wu_song",
+        "Lottery_Only":1
+    },
+    {
+        "name": "Demhalar",
+        "fancy_name": "The Strange Inhabitant",
+        "color": "Red",
+        "Release date": "",
+        "star": 5,
+        "family": "forsaken",
+        "costume_id": 0,
+        "heroId": "forsaken_demhalar",
         "Lottery_Only":1
     }
 ]

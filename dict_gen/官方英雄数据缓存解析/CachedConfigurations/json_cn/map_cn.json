@@ -55559,7 +55559,7 @@
           "week": "Fourth",
           "day": "Thursday",
           "timeOfDay": "7小时",
-          "referenceDate": 667897200,
+          "referenceDate": "2021-03-01 07:00:00",
           "provincesUnlockedEachTime": 3,
           "scheduledUnlocksEntries": [
             {
@@ -72533,7 +72533,7 @@
           "day": "Thursday",
           "timeOfDay": "7小时",
           "scheduleLength": "FixedMonth",
-          "referenceDate": 702111600,
+          "referenceDate": "2022-04-01 07:00:00",
           "provincesUnlockedEachTime": 3,
           "scheduledUnlocksEntries": [
             {
@@ -84767,7 +84767,7 @@
           "day": "Thursday",
           "timeOfDay": "7小时",
           "scheduleLength": "FixedMonth",
-          "referenceDate": 1585724400,
+          "referenceDate": "2050-04-01 07:00:00",
           "provincesUnlockedEachTime": 1,
           "scheduledUnlocksEntries": [
             {
@@ -95798,7 +95798,7 @@
         "mapUnlockProvinceRequirement": "s5_province_05",
         "provincesUnlockSchedule": {
           "timeOfDay": "7小时",
-          "referenceDate": 728550000,
+          "referenceDate": "2023-02-01 07:00:00",
           "provincesUnlockedEachTime": 1,
           "scheduledUnlocksEntries": [
             {
@@ -104147,7 +104147,7 @@
         "mapUnlockProvinceRequirement": "tales1_chapter_03",
         "provincesUnlockSchedule": {
           "timeOfDay": "7小时",
-          "referenceDate": 728550000,
+          "referenceDate": "2023-02-01 07:00:00",
           "provincesUnlockedEachTime": 1,
           "scheduledUnlocksEntries": [
             {

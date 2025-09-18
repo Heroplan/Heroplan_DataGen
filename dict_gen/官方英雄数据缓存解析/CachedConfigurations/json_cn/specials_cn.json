@@ -586,11 +586,12 @@
         },
         "maxLevel": 8,
         "properties": [
-          "dispels_latest_buff_from_all_enemies_safe"
+          "dispel_two_buffs_all_enemies",
+          "reduce_max_health_all_tunes"
         ],
         "statusEffects": [
           {
-            "id": "mana_freeze",
+            "id": "mana_debuff_tunes",
             "sideAffected": "Enemies",
             "statusTargetType": "All",
             "turns": 4
@@ -60026,8 +60027,16 @@
         "reductionIncrementPerLevel": 50,
         "targetType": "All",
         "sideAffected": "Enemies"
+      },
+      {
+        "propertyType": "ReduceMaxHealth",
+        "id": "reduce_max_health_all_tunes",
+        "reduction": 150,
+        "reductionIncrementPerLevel": 50,
+        "targetType": "All",
+        "sideAffected": "Enemies"
       }
     ]
   },
-  "specialsConfigId": 3947222358
+  "specialsConfigId": 3170760708
 }

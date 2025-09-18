@@ -953,6 +953,19 @@
 "automail.anniversaryyear8.pushnotification","8周年快乐！
 感谢一直以来的支持！"
 "automail.anniversaryyear8.title","8周年快乐！"
+"automail.anniversaryyear9.body","亲爱的{0}，
+ 
+这么快9年就过去了！
+ 
+感谢您成为《Empires & Puzzles》社区的一员。为了感谢您的陪伴以及不懈奋战，这是送给您的周年纪念礼物！
+ 
+祝您不断开疆拓土，完成更多的挑战和冒险。
+ 
+祝好，
+《Empires & Puzzles》工作人员"
+"automail.anniversaryyear9.pushnotification","9周年快乐！
+感谢一直以来的支持！"
+"automail.anniversaryyear9.title","9周年快乐！"
 "automail.day0.body","很高兴见到你，{0}！
 
 请加入我们的英雄冒险吧，一切才刚开始！新功能、新英雄和激动人心的更新将在未来几个星期和几个月内与你见面。
@@ -2235,9 +2248,7 @@
 "calendar.chest.name.kalevala","卡勒瓦拉宝箱"
 "calendar.chest.name.lunarnewyear","农历新年宝箱"
 "ccpa.dialog.advertising_partners","在线广告合作伙伴"
-"ccpa.dialog.button","请勿出售或分享
-我的个人信息
-（包括视频查看信息）。"
+"ccpa.dialog.button","请勿销售或共享我的个人信息（包括视频查看信息）"
 "ccpa.dialog.message","我们依靠广告收益让这款应用保持免费，也希望在游戏内为您带来更加个性化的广告内容。为此，我们允许特定线上广告合作伙伴收集关于您的信息（例如，您提供给我们的个人资料信息、您的设备广告ID，以及其他设备信息等）。在美国某些州将此行为视为“销售”或“共享”。我们还可能与投放广告的第三方共享您的个人和视频查看信息。
 
 如需选择退出上述活动，请使用下方的复选框。选择退出后，您依然会看到广告，但内容不会再根据您的兴趣进行定制。
@@ -2246,9 +2257,8 @@
 
 如不希望我们共享您的个人信息（包括视频查看信息）用于进行分析或优化您的互动游戏体验，请删除您的游戏帐户。
 
-请参阅我们的《隐私政策》了解我们如何处理您的数据。"
-"ccpa.dialog.title","请勿出售或分享
-我的个人信息"
+请查看我们的《隐私政策》了解我们如何处理您的数据。"
+"ccpa.dialog.title","不要出售或分享我的个人信息"
 "challengeseason.giants_chest.claimable_chests#1","{0}个伟人宝箱可领取！"
 "challengeseason.giants_chest.claimable_chests#2","{0}个伟人宝箱可领取！"
 "challengeseason.giants_chest.claimable_chests#3","{0} Giants Chests ready to be claimed! (THIRD FORM)"
