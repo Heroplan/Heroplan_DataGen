@@ -805,7 +805,7 @@ window.families_bonus = [
     },
     {
         "originalIndex": 85,
-        "name": "astrald_warfs",
+        "name": "astral_dwarfs",
         "bonus": [
             "Bonus for 1/2 Unique Heroes:",
             " * 25% / 50% chance to dispel a random dispellable status effect buff from all enemies at the end of each turn.",

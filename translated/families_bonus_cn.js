@@ -805,7 +805,7 @@ window.families_bonus = [
     },
     {
         "originalIndex": 85,
-        "name": "astrald_warfs",
+        "name": "astral_dwarfs",
         "bonus": [
             "1 / 2 位独特英雄的加成：",
             "* 在每回合结束时所有敌人有 25% / 50% 几率会被随机驱散一个可驱散的增益状态效果。",

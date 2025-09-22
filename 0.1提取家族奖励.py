@@ -39,7 +39,7 @@ family_name_corrections = {
     "astralelves": "astral_elves",
     "garrisonguard": "garrison",
     "woodlandfaun": "faun",
-    "astraldwarfs": "astrald_warfs",
+    "astraldwarfs": "astral_dwarfs",
     "moth": "moths",
     "wildcat": "wild_cat",
     "theinstitute": "institute"
