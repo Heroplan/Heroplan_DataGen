@@ -49,7 +49,7 @@
     "状态-偷取增益": "Status - Steal Buffs",
     "状态-负面效果重新分配": "Status - Redistribute Ailments",
     "状态-重置负面效果回合": "Status - Reset Ailment Duration",
-    "状态-重置增益回合": "Status - Reset Buff Duration",
+    "状态-重置/增加增益回合": "Status - Reset / Add Buff Duration",
     "治疗-通过伤害治疗": "Heal - From Dmg",
     "治疗-通过小兵治疗": "Heal - From Minions",
     "治疗-自我恢复": "Heal - Self Recovery",

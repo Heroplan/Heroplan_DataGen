@@ -15043,7 +15043,7 @@ window.allHeroes =
             },
             {
                 "特殊效果": [
-                    "Status - Reset Buff Duration",
+                    "Status - Reset / Add Buff Duration",
                     "Status - Reset Ailment Duration"
                 ]
             },
@@ -55370,7 +55370,7 @@ window.allHeroes =
             },
             {
                 "特殊效果": [
-                    "Status - Reset Buff Duration"
+                    "Status - Reset / Add Buff Duration"
                 ]
             },
             {
@@ -64507,7 +64507,7 @@ window.allHeroes =
             },
             {
                 "特殊效果": [
-                    "Status - Reset Buff Duration"
+                    "Status - Reset / Add Buff Duration"
                 ]
             }
         ]
@@ -81079,7 +81079,7 @@ window.allHeroes =
             },
             {
                 "特殊效果": [
-                    "Status - Reset Buff Duration"
+                    "Status - Reset / Add Buff Duration"
                 ]
             },
             {
@@ -91879,7 +91879,7 @@ window.allHeroes =
             },
             {
                 "特殊效果": [
-                    "Status - Reset Buff Duration",
+                    "Status - Reset / Add Buff Duration",
                     "Summon - Minion"
                 ]
             }
