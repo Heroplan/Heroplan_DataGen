@@ -11,17 +11,6 @@
         "Lottery_Only":1
     },
     {
-        "name": "Lemniss",
-        "fancy_name": "Astral Dwarf Miner",
-        "color": "Purple",
-        "Release date": "",
-        "star": 5,
-        "family": "astral_dwarfs",
-        "costume_id": 0,
-        "heroId": "astral_dwarf_lemniss",
-        "Lottery_Only":1
-    },
-    {
         "name": "Hortensia",
         "fancy_name": "Fosterer of Flytraps",
         "color": "Green",

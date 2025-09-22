@@ -887,5 +887,6 @@
   "Transform Attack Buffs All": "全体替换攻击增益",
   "Transform Defense Buffs All": "全体替换防御增益",
   "Transform Mana Gen Buffs All": "全体替换法力生成增益",
-  "Sand Touch DoT on counterattack 3": "3个单位反击时对目标施加飞沙之触持续伤害"
+  "Sand Touch DoT on counterattack 3": "3个单位反击时对目标施加飞沙之触持续伤害",
+  "Increase Active Buffs Duration": "增加现有增益持续时间"
 }

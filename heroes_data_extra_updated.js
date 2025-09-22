@@ -39516,7 +39516,7 @@ window.allHeroesExtra = [
         "family": "magic"
     },
     {
-        "name": "Emblem Mimic (Fire)",
+        "name": "Emblem Mimic Fire",
         "fancy name": "Horrifying One-Eyed Lockbox",
         "element": "Red",
         "rarity": 5,
@@ -39544,5 +39544,27 @@ window.allHeroesExtra = [
             "never_miss_special"
         ],
         "family": "mimic"
+    },
+    {
+        "name": "Lemniss",
+        "fancy name": "Astral Dwarf Miner",
+        "element": "Purple",
+        "rarity": 5,
+        "class": "Fighter",
+        "speed": "average",
+        "Release date": "2025-09-21",
+        "AetherPower": "Ailment Immunity",
+        "skill_types": [],
+        "heroId": "astral_dwarf_lemniss",
+        "baseAttack": 595,
+        "baseDefense": 639,
+        "baseHealth": 1098,
+        "specialId": "astral_gemstones",
+        "passiveSkills": [
+            "resist_heal_multiplier_debuffs",
+            "resist_negative_minion_and_mega_minion_effects",
+            "eat_fiends_on_special_cast"
+        ],
+        "family": "astral_dwarfs"
     }
 ];
