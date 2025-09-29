@@ -2686,6 +2686,12 @@
             "type": "MysteryHero",
             "startTime": "2025-09-18 07:00:00",
             "endTime": "2025-09-19 07:00:00"
+          },
+          {
+            "id": "SecretSummonEmblemMimicBlue",
+            "type": "MysteryHero",
+            "startTime": "2025-09-30 07:00:00",
+            "endTime": "2025-10-01 07:00:00"
           }
         ],
         "challengeEventEntries": [
@@ -3618,22 +3624,6 @@
             {
               "id": "TowerMagic",
               "type": "Tower",
-              "eventBundle": "",
-              "eventOffer": "com.smallgiantgames.empires.toweroffer",
-              "eventEndingOffer": "",
-              "manuallyOverwritten": true,
-              "advertisedHero": "magic_carpet_zazha",
-              "featuredHeroes": [
-                "阿加德",
-                "雷-荆棘斗士",
-                "艾莉莎"
-              ],
-              "startTime": "2025-07-23 07:00:00",
-              "endTime": "2025-07-28 07:00:00"
-            },
-            {
-              "id": "TowerMagic",
-              "type": "Tower",
               "eventOffer": "com.smallgiantgames.empires.toweroffer",
               "manuallyOverwritten": true,
               "featuredHeroes": [
@@ -3659,6 +3649,22 @@
               ],
               "startTime": "2025-09-17 07:00:00",
               "endTime": "2025-09-22 07:00:00"
+            },
+            {
+              "id": "TowerMagic",
+              "type": "Tower",
+              "eventBundle": "",
+              "eventOffer": "com.smallgiantgames.empires.toweroffer",
+              "eventEndingOffer": "",
+              "manuallyOverwritten": true,
+              "advertisedHero": "magic_carpet_lando",
+              "featuredHeroes": [
+                "兰度",
+                "纳德兹达-高塔信使长",
+                "纳伊姆"
+              ],
+              "startTime": "2025-10-19 07:00:00",
+              "endTime": "2025-10-24 07:00:00"
             }
           ],
           "scheduleConfig": {
@@ -14593,7 +14599,7 @@
       },
       "pvpLeague": {
         "enabled": true,
-        "showUpcomingEventAsComingSoon": false,
+        "showUpcomingEventAsComingSoon": true,
         "xpLevelRequirement": 14,
         "eventEntries": [
           {
@@ -80577,7 +80583,8 @@
           "LegendsSummon",
           "HarvestSummon",
           "MercenaryWar",
-          "AscensionSummon"
+          "AscensionSummon",
+          "GoblinSummon"
         ]
       }
     },
@@ -80735,5 +80742,5 @@
     "criticalOperationPendingDelaySeconds": 3,
     "allowedCriticalOperationPendingCount": 3
   },
-  "otherConfigId": 3981784467
+  "otherConfigId": 547342883
 }

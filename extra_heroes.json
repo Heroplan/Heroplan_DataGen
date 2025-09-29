@@ -55,25 +55,25 @@
         "Lottery_Only":1
     },
     {
-        "name": "Wu Song",
-        "fancy_name": "Tiger-Fighting Hero of Water Margin",
-        "color": "Blue",
+        "name": "Bragi",
+        "fancy_name": "Dwarven Prizefighter",
+        "color": "Yellow",
         "Release date": "",
         "star": 5,
-        "family": "outlaw",
+        "family": "myrkheim",
         "costume_id": 0,
-        "heroId": "outlaw_wu_song",
+        "heroId": "tales2_bragi",
         "Lottery_Only":1
     },
     {
-        "name": "Demhalar",
-        "fancy_name": "The Strange Inhabitant",
-        "color": "Red",
+        "name": "Glacivolt",
+        "fancy_name": "Icy Overseer Construct",
+        "color": "Blue",
         "Release date": "",
         "star": 5,
-        "family": "forsaken",
+        "family": "construct",
         "costume_id": 0,
-        "heroId": "forsaken_demhalar",
+        "heroId": "construct_glacivolt",
         "Lottery_Only":1
     }
 ]

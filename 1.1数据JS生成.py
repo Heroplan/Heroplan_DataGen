@@ -148,7 +148,7 @@ STATS_NAME_CORRECTIONS = {
     'Kalø': 'Kalo'
 }
 
-IGNORABLE_SUFFIXES = {'dark', 'holy', 'ice', 'nature', 'red'}
+IGNORABLE_SUFFIXES = {'dark', 'holy', 'ice', 'nature', 'fire', 'red'}
 
 
 # --- 功能函数 ---

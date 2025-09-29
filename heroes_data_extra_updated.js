@@ -39554,7 +39554,11 @@ window.allHeroesExtra = [
         "speed": "average",
         "Release date": "2025-09-21",
         "AetherPower": "Ailment Immunity",
-        "skill_types": [],
+        "skill_types": [
+            "Healers",
+            "Immunity Providers",
+            "Effect Duration Resetters"
+        ],
         "heroId": "astral_dwarf_lemniss",
         "baseAttack": 595,
         "baseDefense": 639,
@@ -39566,5 +39570,95 @@ window.allHeroesExtra = [
             "eat_fiends_on_special_cast"
         ],
         "family": "astral_dwarfs"
+    },
+    {
+        "name": "Demhalar",
+        "fancy name": "The Strange Inhabitant",
+        "element": "Red",
+        "rarity": 5,
+        "class": "Sorcerer",
+        "speed": "fast",
+        "Release date": "2025-09-23",
+        "AetherPower": "Rage",
+        "skill_types": [
+            "AoE Attackers (Hit-3)",
+            "DoT Attackers",
+            "Minions Counters",
+            "Mindless Attack & Mindless Heal",
+            "Negative Effects On Self Or Allies"
+        ],
+        "heroId": "forsaken_demhalar",
+        "baseAttack": 625,
+        "baseDefense": 607,
+        "baseHealth": 1089,
+        "specialId": "drawn_to_the_depths",
+        "passiveSkills": [
+            "revive_in_alternative_form_with_insanity_chance"
+        ],
+        "family": "forsaken"
+    },
+    {
+        "name": "Wu Song",
+        "fancy name": "Tiger-Fighting Hero of Water Margin",
+        "element": "Blue",
+        "rarity": 5,
+        "class": "Monk",
+        "speed": "fast",
+        "Release date": "2025-09-27",
+        "AetherPower": "Fiend Resist",
+        "skill_types": [],
+        "heroId": "outlaw_wu_song",
+        "baseAttack": 628,
+        "baseDefense": 602,
+        "baseHealth": 1095,
+        "specialId": "subduing_strike",
+        "passiveSkills": [
+            "resist_bleed",
+            "righteous_rebellion_parent",
+            "health_boost_on_special_critical_damage_all"
+        ],
+        "family": "outlaw"
+    },
+    {
+        "name": "Thaffer",
+        "fancy name": "Tabby Safecracker",
+        "element": "Green",
+        "rarity": 5,
+        "class": "Druid",
+        "speed": "average",
+        "Release date": "2025-09-26",
+        "AetherPower": "Attack Up",
+        "skill_types": [],
+        "heroId": "wild_cat_thaffer",
+        "baseAttack": 648,
+        "baseDefense": 588,
+        "baseHealth": 1073,
+        "specialId": "grab_and_run",
+        "passiveSkills": [
+            "resist_all_defense_effects",
+            "revive_chance_nine_lives"
+        ],
+        "family": "wild_cat"
+    },
+    {
+        "name": "Sliposi",
+        "fancy name": "Slippery Courier Slime",
+        "element": "Purple",
+        "rarity": 5,
+        "class": "Ranger",
+        "speed": "average",
+        "Release date": "2025-09-25",
+        "AetherPower": "Dodge",
+        "skill_types": [],
+        "heroId": "slime_sliposi",
+        "baseAttack": 593,
+        "baseDefense": 642,
+        "baseHealth": 1099,
+        "specialId": "sticky_express",
+        "passiveSkills": [
+            "summon_slime_minion_on_damage_purple",
+            "summon_slime_minion_on_death_purple"
+        ],
+        "family": "slime"
     }
 ];

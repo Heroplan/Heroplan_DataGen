@@ -34,6 +34,10 @@
           {
             "key": "familyeffect.statuseffect.long.statuseffectperturn.minor.mothdust.random.enemies.onremoval.dispel.removal.sleep_moth_dust.single.allies.moth_dust_with_mega_minion_wound.without_removing_all_status_effects",
             "text": "[#!]Polvere di falena[#] ha i seguenti effetti:\n{STATUSEFFECTS}\n\n[*] Se Polvere di falena viene rimosso o eliminato, il bersaglio [#!]si addormenta[#] e subisce il {REMOVALEFFECT1STATUSEFFECT1DAMAGEMODIFIER}% di danni aumentati mentre dorme."
+          },
+          {
+            "key": "familiar.statuseffect.major.brutalsupportstatuseffectskill.single.allies.on.allyspecial.damage.all.enemies.while.single.allies.familiaralive.goblin_rat_princess.goblin_rat_princess.summon",
+            "text": "Quando chiamato, il servitore Mega principessa dei ratti conferisce al suo proprietario la capacità di infliggere {POWER1}% danni a tutti i nemici ogni volta che un qualsiasi altro alleato lancia la propria Abilità speciale."
           }
         ]
       },
@@ -70,6 +74,10 @@
           {
             "key": "familyeffect.statuseffect.long.statuseffectperturn.minor.mothdust.random.enemies.onremoval.dispel.removal.sleep_moth_dust.single.allies.moth_dust_with_mega_minion_wound.without_removing_all_status_effects",
             "text": "[#!]Мотыльковая пыльца[#] обладает следующими эффектами:\n{STATUSEFFECTS}\n[*]Если мотыльковая пыльца очищена или снята, цель [#!]засыпает[#] и получает {REMOVALEFFECT1STATUSEFFECT1DAMAGEMODIFIER} % увеличенного урона во время сна."
+          },
+          {
+            "key": "familiar.statuseffect.major.brutalsupportstatuseffectskill.single.allies.on.allyspecial.damage.all.enemies.while.single.allies.familiaralive.goblin_rat_princess.goblin_rat_princess.summon",
+            "text": "При призыве мегаприслужник-принцесса крыс дает владельцу способность наносить {POWER1} % урона всем врагам, когда любой союзник использует особый навык."
           }
         ]
       },
@@ -106,6 +114,10 @@
           {
             "key": "familyeffect.statuseffect.long.statuseffectperturn.minor.mothdust.random.enemies.onremoval.dispel.removal.sleep_moth_dust.single.allies.moth_dust_with_mega_minion_wound.without_removing_all_status_effects",
             "text": "[#!]Ćmi pył[#] ma następujące efekty:\n{STATUSEFFECTS}\n[*]Jeśli ćmi pył zostanie oczyszczony lub usunięty, cel [#!]zasypia[#] i otrzymuje o {REMOVALEFFECT1STATUSEFFECT1DAMAGEMODIFIER}% więcej obrażeń, gdy śpi."
+          },
+          {
+            "key": "familiar.statuseffect.major.brutalsupportstatuseffectskill.single.allies.on.allyspecial.damage.all.enemies.while.single.allies.familiaralive.goblin_rat_princess.goblin_rat_princess.summon",
+            "text": "Mega pomocnik szczurza księżniczka po wezwaniu zapewnia posiadaczowi zdolność, dzięki któej może zadać wszystkim wrogom {POWER1}% obrażeń za każdym razem, gdy dowolny sojusznik użyje umiejętności specjalnej."
           }
         ]
       },
@@ -142,6 +154,10 @@
           {
             "key": "familyeffect.statuseffect.long.statuseffectperturn.minor.mothdust.random.enemies.onremoval.dispel.removal.sleep_moth_dust.single.allies.moth_dust_with_mega_minion_wound.without_removing_all_status_effects",
             "text": "[#!]飛蛾塵[#]有以下效果：\n{STATUSEFFECTS}\n\n[*]若飛蛾塵被淨化或移除，目標陷入[#!]沉睡[#]並於沉睡時受到{REMOVALEFFECT1STATUSEFFECT1DAMAGEMODIFIER}%額外傷害。"
+          },
+          {
+            "key": "familiar.statuseffect.major.brutalsupportstatuseffectskill.single.allies.on.allyspecial.damage.all.enemies.while.single.allies.familiaralive.goblin_rat_princess.goblin_rat_princess.summon",
+            "text": "召喚老鼠公主超級小兵後，在每次任意其他盟友施放特殊技能時，會使其主人對所有敵人造成{POWER1}%傷害。"
           }
         ]
       },
@@ -178,6 +194,10 @@
           {
             "key": "familyeffect.statuseffect.long.statuseffectperturn.minor.mothdust.random.enemies.onremoval.dispel.removal.sleep_moth_dust.single.allies.moth_dust_with_mega_minion_wound.without_removing_all_status_effects",
             "text": "[#!]나방 가루[#]에는 다음과 같은 효과가 있습니다:\n{STATUSEFFECTS}\n\n[*]나방 가루가 정화 또는 제거되면 대상이 [#!]잠[#]에 빠지고, 자는 동안 {REMOVALEFFECT1STATUSEFFECT1DAMAGEMODIFIER}% 증가한 피해를 입습니다."
+          },
+          {
+            "key": "familiar.statuseffect.major.brutalsupportstatuseffectskill.single.allies.on.allyspecial.damage.all.enemies.while.single.allies.familiaralive.goblin_rat_princess.goblin_rat_princess.summon",
+            "text": "소환 시, 쥐 공주 메가 하수인은 다른 아군이 특수 스킬을 사용할 때마다 모든 적에게 {POWER1}%의 피해를 입히는 능력을 소유자에게 부여합니다."
           }
         ]
       },
@@ -214,6 +234,10 @@
           {
             "key": "familyeffect.statuseffect.long.statuseffectperturn.minor.mothdust.random.enemies.onremoval.dispel.removal.sleep_moth_dust.single.allies.moth_dust_with_mega_minion_wound.without_removing_all_status_effects",
             "text": "[#!]Mottenstaub[#] hat die folgenden Effekte: {STATUSEFFECTS}\n\n[*]Wird der Mottenstaub gesäubert oder entfernt, [#!]schläft[#] das Ziel ein und erleidet im Schlaf um {REMOVALEFFECT1STATUSEFFECT1DAMAGEMODIFIER} % erhöhten Schaden."
+          },
+          {
+            "key": "familiar.statuseffect.major.brutalsupportstatuseffectskill.single.allies.on.allyspecial.damage.all.enemies.while.single.allies.familiaralive.goblin_rat_princess.goblin_rat_princess.summon",
+            "text": "Bei seiner Beschwörung gibt der Mega-Rattenprinzessin-Lakai seinem Besitzer die Fähigkeit, immer dann allen Gegnern {POWER1} % Schaden zuzufügen, wenn ein anderer Verbündeter seine Spezialfähigkeit wirkt."
           }
         ]
       },
@@ -250,6 +274,10 @@
           {
             "key": "familyeffect.statuseffect.long.statuseffectperturn.minor.mothdust.random.enemies.onremoval.dispel.removal.sleep_moth_dust.single.allies.moth_dust_with_mega_minion_wound.without_removing_all_status_effects",
             "text": "[#!]蛾のダスト[#]は以下の効果を持つ：\n{STATUSEFFECTS}\n\n[*]蛾のダストが浄化あるいは削除されると、ターゲットは[#!]眠り[#]に落ち、眠っている間は{REMOVALEFFECT1STATUSEFFECT1DAMAGEMODIFIER}%の増加ダメージを受ける。"
+          },
+          {
+            "key": "familiar.statuseffect.major.brutalsupportstatuseffectskill.single.allies.on.allyspecial.damage.all.enemies.while.single.allies.familiaralive.goblin_rat_princess.goblin_rat_princess.summon",
+            "text": "ネズミの女王のメガミニオンはサモンされると、他の仲間が特殊スキルを使用するたびに敵全員に{POWER1}%のダメージを与えるというアビリティを所有者に付与する。"
           }
         ]
       },
@@ -286,6 +314,10 @@
           {
             "key": "familyeffect.statuseffect.long.statuseffectperturn.minor.mothdust.random.enemies.onremoval.dispel.removal.sleep_moth_dust.single.allies.moth_dust_with_mega_minion_wound.without_removing_all_status_effects",
             "text": "[#!]Malstoft[#] har följande effekter:\n{STATUSEFFECTS}\n\n[*]Om malstoft rensas eller tas bort [#!]somnar[#] målet och tar {REMOVALEFFECT1STATUSEFFECT1DAMAGEMODIFIER} % mer skada medan det sover."
+          },
+          {
+            "key": "familiar.statuseffect.major.brutalsupportstatuseffectskill.single.allies.on.allyspecial.damage.all.enemies.while.single.allies.familiaralive.goblin_rat_princess.goblin_rat_princess.summon",
+            "text": "När råttprinsessmegaundersåten åkallas ger den sin ägare förmågan att göra {POWER1} % skada på alla fiender varje gång en annan allierad använder sina specialförmågor."
           }
         ]
       },
@@ -322,6 +354,10 @@
           {
             "key": "familyeffect.statuseffect.long.statuseffectperturn.minor.mothdust.random.enemies.onremoval.dispel.removal.sleep_moth_dust.single.allies.moth_dust_with_mega_minion_wound.without_removing_all_status_effects",
             "text": "[#!]Güve Tozunun[#] efektleri şu şekildedir:\n{STATUSEFFECTS}\n\n[*]Güve Tozu arındırılırsa veya kaldırılırsa hedef [#!]uykuya dalar[#] ve uyurken %{REMOVALEFFECT1STATUSEFFECT1DAMAGEMODIFIER} daha fazla hasar alır."
+          },
+          {
+            "key": "familiar.statuseffect.major.brutalsupportstatuseffectskill.single.allies.on.allyspecial.damage.all.enemies.while.single.allies.familiaralive.goblin_rat_princess.goblin_rat_princess.summon",
+            "text": "Fare Prensesi Mega Hizmetkarı çağrıldığında herhangi bir müttefik, Özel Yeteneğini uyguladığında sahibine tüm düşmanlara %{POWER1} hasar verme kabiliyetini verir."
           }
         ]
       },
@@ -358,6 +394,10 @@
           {
             "key": "familyeffect.statuseffect.long.statuseffectperturn.minor.mothdust.random.enemies.onremoval.dispel.removal.sleep_moth_dust.single.allies.moth_dust_with_mega_minion_wound.without_removing_all_status_effects",
             "text": "[#!]Moth Dust[#] has following effects:\n{STATUSEFFECTS}\n\n[*]If Moth Dust is cleansed or removed, the target falls [#!]asleep[#] and receives {REMOVALEFFECT1STATUSEFFECT1DAMAGEMODIFIER}% increased damage while sleeping."
+          },
+          {
+            "key": "familiar.statuseffect.major.brutalsupportstatuseffectskill.single.allies.on.allyspecial.damage.all.enemies.while.single.allies.familiaralive.goblin_rat_princess.goblin_rat_princess.summon",
+            "text": "When summoned, the Rat Princess Mega Minion gives its owner the ability to deal {POWER1}% damage to all enemies each time any other ally casts their Special Skill."
           }
         ]
       },
@@ -394,6 +434,10 @@
           {
             "key": "familyeffect.statuseffect.long.statuseffectperturn.minor.mothdust.random.enemies.onremoval.dispel.removal.sleep_moth_dust.single.allies.moth_dust_with_mega_minion_wound.without_removing_all_status_effects",
             "text": "لدى [#!]غبار العثة[#] التأثيرات الآتية:\n{STATUSEFFECTS}\n\n[*]يقع الهدف في [#!]النوم[#] في حالة تطهير أو إزالة غبار العثة، وينال من الضرر {REMOVALEFFECT1STATUSEFFECT1DAMAGEMODIFIER}% إضافية في أثناء النوم."
+          },
+          {
+            "key": "familiar.statuseffect.major.brutalsupportstatuseffectskill.single.allies.on.allyspecial.damage.all.enemies.while.single.allies.familiaralive.goblin_rat_princess.goblin_rat_princess.summon",
+            "text": "عند الاستدعاء، يمنح التابع الضخم لأميرة الجرذان مالكه القدرة على إلحاق {POWER1}% من الضرر إلى جميع الأعداء في كل مرة يستخدم فيها أي حليف آخر مهارته الخاصة."
           }
         ]
       },
@@ -430,6 +474,10 @@
           {
             "key": "familyeffect.statuseffect.long.statuseffectperturn.minor.mothdust.random.enemies.onremoval.dispel.removal.sleep_moth_dust.single.allies.moth_dust_with_mega_minion_wound.without_removing_all_status_effects",
             "text": "[#!]Poussière de mite[#] a les effets suivants :\n{STATUSEFFECTS}\n\n[*]Si la poussière de mite est purifiée ou supprimée, la cible [#!]s'endort[#] et subit {REMOVALEFFECT1STATUSEFFECT1DAMAGEMODIFIER} % de dégâts supplémentaires tant qu'elle dort."
+          },
+          {
+            "key": "familiar.statuseffect.major.brutalsupportstatuseffectskill.single.allies.on.allyspecial.damage.all.enemies.while.single.allies.familiaralive.goblin_rat_princess.goblin_rat_princess.summon",
+            "text": "Lorsqu'il est invoqué, le méga sbire princesse des rats donne à son propriétaire la possibilité d'infliger {POWER1} % de dégâts à tous les ennemis à chaque fois qu'un autre allié utilise sa compétence spéciale."
           }
         ]
       },
@@ -466,6 +514,10 @@
           {
             "key": "familyeffect.statuseffect.long.statuseffectperturn.minor.mothdust.random.enemies.onremoval.dispel.removal.sleep_moth_dust.single.allies.moth_dust_with_mega_minion_wound.without_removing_all_status_effects",
             "text": "[#!]Pó de Mariposa[#] tem os seguintes efeitos:\n{STATUSEFFECTS}\n\n[*] Quando Pó de Mariposa é expurgado ou removido, o alvo [#!]adormece[#] e recebe {REMOVALEFFECT1STATUSEFFECT1DAMAGEMODIFIER}% mais dano enquanto dorme."
+          },
+          {
+            "key": "familiar.statuseffect.major.brutalsupportstatuseffectskill.single.allies.on.allyspecial.damage.all.enemies.while.single.allies.familiaralive.goblin_rat_princess.goblin_rat_princess.summon",
+            "text": "Quando convocado, o ajudante mega Princesa Rata dá ao dono a capacidade de causar {POWER1}% de dano a todos os inimigos semper que qualquer outro aliado usa a própria habilidade especial."
           }
         ]
       },
@@ -502,6 +554,10 @@
           {
             "key": "familyeffect.statuseffect.long.statuseffectperturn.minor.mothdust.random.enemies.onremoval.dispel.removal.sleep_moth_dust.single.allies.moth_dust_with_mega_minion_wound.without_removing_all_status_effects",
             "text": "[#!]Debu Ngengat[#] memiliki efek berikut:\n{STATUSEFFECTS}\n\n[*]Jika Debu Ngengat dibersihkan atau dihapus, sasaran jatuh [#!]tertidur[#] dan menderita {REMOVALEFFECT1STATUSEFFECT1DAMAGEMODIFIER}% peningkatan kerusakan selagi tertidur."
+          },
+          {
+            "key": "familiar.statuseffect.major.brutalsupportstatuseffectskill.single.allies.on.allyspecial.damage.all.enemies.while.single.allies.familiaralive.goblin_rat_princess.goblin_rat_princess.summon",
+            "text": "Saat dipanggil, Antek Mega Putri Tikus memberikan pemiliknya kemampuan untuk menimbulkan {POWER1}% kerusakan kepada semua musuh setiap kali sekutu lain merapal Keahlian Khusus."
           }
         ]
       },
@@ -538,6 +594,10 @@
           {
             "key": "familyeffect.statuseffect.long.statuseffectperturn.minor.mothdust.random.enemies.onremoval.dispel.removal.sleep_moth_dust.single.allies.moth_dust_with_mega_minion_wound.without_removing_all_status_effects",
             "text": "[#!]Koitomulla[#] on seuraavat vaikutukset:\n{STATUSEFFECTS}\n\n[*]Jos koitomu puhdistetaan tai poistetaan, kohde [#!]nukahtaa[#] ja kärsii {REMOVALEFFECT1STATUSEFFECT1DAMAGEMODIFIER} % enemmän vauriota nukkuessaan."
+          },
+          {
+            "key": "familiar.statuseffect.major.brutalsupportstatuseffectskill.single.allies.on.allyspecial.damage.all.enemies.while.single.allies.familiaralive.goblin_rat_princess.goblin_rat_princess.summon",
+            "text": "Kun rottaprinsessa-megakäskyläinen kutsutaan, se antaa omistajalleen kyvyn tuottaa {POWER1} % vauriota kaikille vihollisille aina kun joku liittolainen käyttää erikoistaitoaan."
           }
         ]
       },
@@ -574,6 +634,10 @@
           {
             "key": "familyeffect.statuseffect.long.statuseffectperturn.minor.mothdust.random.enemies.onremoval.dispel.removal.sleep_moth_dust.single.allies.moth_dust_with_mega_minion_wound.without_removing_all_status_effects",
             "text": "[#!]Mølstøv[#] har følgende effekter:\n{STATUSEFFECTS}\n\n[*]Hvis mølstøv bliver renset eller fjernet, falder målet [#!]i søvn[#] og modtager {REMOVALEFFECT1STATUSEFFECT1DAMAGEMODIFIER} % forøget skade, mens de sover."
+          },
+          {
+            "key": "familiar.statuseffect.major.brutalsupportstatuseffectskill.single.allies.on.allyspecial.damage.all.enemies.while.single.allies.familiaralive.goblin_rat_princess.goblin_rat_princess.summon",
+            "text": "Når den hidkaldes giver Rat Princess Mega Minion sin ejer evnen til at forårsage {POWER1} % skade på alle fjender, hver gang en anden allieret bruger sin særlige evne."
           }
         ]
       },
@@ -610,6 +674,10 @@
           {
             "key": "familyeffect.statuseffect.long.statuseffectperturn.minor.mothdust.random.enemies.onremoval.dispel.removal.sleep_moth_dust.single.allies.moth_dust_with_mega_minion_wound.without_removing_all_status_effects",
             "text": "[#!]Polvo de polilla[#] tiene estos efectos:\n{STATUSEFFECTS}\n\n[*] Si se purifica o se elimina, el objetivo [#!]se duerme[#] y recibe un {REMOVALEFFECT1STATUSEFFECT1DAMAGEMODIFIER} % más de daño mientras está dormido."
+          },
+          {
+            "key": "familiar.statuseffect.major.brutalsupportstatuseffectskill.single.allies.on.allyspecial.damage.all.enemies.while.single.allies.familiaralive.goblin_rat_princess.goblin_rat_princess.summon",
+            "text": "Al invocarse, el megasecuaz princesa rata otorga a su dueño la habilidad de infligir un {POWER1} % de daño a todos los enemigos cada vez que otro aliado use su habilidad especial."
           }
         ]
       },
@@ -646,6 +714,10 @@
           {
             "key": "familyeffect.statuseffect.long.statuseffectperturn.minor.mothdust.random.enemies.onremoval.dispel.removal.sleep_moth_dust.single.allies.moth_dust_with_mega_minion_wound.without_removing_all_status_effects",
             "text": "[#!]Møllstøv[#] har følgende effekter:\n{STATUSEFFECTS}\n\n[*]Hvis møllstøv renses eller fjernes, [#!]sovner[#] målet og tar {REMOVALEFFECT1STATUSEFFECT1DAMAGEMODIFIER} % økt skade mens det sover."
+          },
+          {
+            "key": "familiar.statuseffect.major.brutalsupportstatuseffectskill.single.allies.on.allyspecial.damage.all.enemies.while.single.allies.familiaralive.goblin_rat_princess.goblin_rat_princess.summon",
+            "text": "Når den fremkalles, gir rotteprinsesse-megaundersåtten eieren evnen til å påføre {POWER1} % skade mot alle fiender hver gang en alliert bruker spesialferdigheten sin."
           }
         ]
       },
@@ -682,6 +754,10 @@
           {
             "key": "familyeffect.statuseffect.long.statuseffectperturn.minor.mothdust.random.enemies.onremoval.dispel.removal.sleep_moth_dust.single.allies.moth_dust_with_mega_minion_wound.without_removing_all_status_effects",
             "text": "[#!]Mottenschemer[#] heeft de volgende effecten:\n{STATUSEFFECTS}\n\n[*]Als mottenschemer wordt gereinigd of verwijderd, valt het doelwit [#!]in slaap[#] en lijdt het {REMOVALEFFECT1STATUSEFFECT1DAMAGEMODIFIER}% meer schade tijdens het slapen."
+          },
+          {
+            "key": "familiar.statuseffect.major.brutalsupportstatuseffectskill.single.allies.on.allyspecial.damage.all.enemies.while.single.allies.familiaralive.goblin_rat_princess.goblin_rat_princess.summon",
+            "text": "Wanneer hij wordt aangeroepen geeft de rattenprinses-megavolgeling zijn eigenaar het vermogen om, elke keer dat een andere bondgenoot de speciale vaardigheden toepast, {POWER1}% schade toe te brengen aan alle vijanden."
           }
         ]
       },
@@ -718,10 +794,14 @@
           {
             "key": "familyeffect.statuseffect.long.statuseffectperturn.minor.mothdust.random.enemies.onremoval.dispel.removal.sleep_moth_dust.single.allies.moth_dust_with_mega_minion_wound.without_removing_all_status_effects",
             "text": "[#!]飞蛾粉尘[#]有以下效果：\n{STATUSEFFECTS}\n\n[*]如果飞蛾粉尘被净化或移除，目标将陷入[#!]沉睡[#]，沉睡期间受到的伤害提高{REMOVALEFFECT1STATUSEFFECT1DAMAGEMODIFIER}%。"
+          },
+          {
+            "key": "familiar.statuseffect.major.brutalsupportstatuseffectskill.single.allies.on.allyspecial.damage.all.enemies.while.single.allies.familiaralive.goblin_rat_princess.goblin_rat_princess.summon",
+            "text": "鼠公主超级小兵被召唤后，可使其所有者在其他盟友施放特殊技能时对所有敌人造成{POWER1}%伤害。"
           }
         ]
       }
     }
   },
-  "languageOverridesConfigId": 2473951261
+  "languageOverridesConfigId": 2908016359
 }

@@ -775,7 +775,7 @@
             "id": "dodge_special_damage_lyria",
             "sideAffected": "Allies",
             "statusTargetType": "Single",
-            "turns": 3
+            "turns": 2
           }
         ]
       },
@@ -46031,12 +46031,12 @@
           "sideAffected": "Enemies",
           "typeOfTarget": "Single",
           "effectType": "Damage",
-          "powerMultiplierPerMil": 4000,
+          "powerMultiplierPerMil": 4250,
           "powerMultiplierIncrementPerLevelPerMil": 50
         },
         "maxLevel": 8,
         "properties": [
-          "mana_on_special_kill_osamu"
+          "mana_on_special_kill_nerasis"
         ],
         "statusEffects": [
           {
@@ -48272,11 +48272,6 @@
             "sideAffected": "Enemies",
             "statusTargetType": "All",
             "turns": 3
-          },
-          {
-            "id": "stacking_mana_regen_reduction_glacivolt",
-            "sideAffected": "Enemies",
-            "statusTargetType": "All"
           },
           {
             "id": "frost_all_glacivolt",
@@ -57473,7 +57468,7 @@
       {
         "propertyType": "IceStrike",
         "id": "ice_strike_bragi",
-        "fixedPower": 780,
+        "fixedPower": 890,
         "fixedPowerIncrementPerLevel": 30,
         "targetType": "Single",
         "sideAffected": "Enemies",
@@ -60035,8 +60030,20 @@
         "reductionIncrementPerLevel": 50,
         "targetType": "All",
         "sideAffected": "Enemies"
+      },
+      {
+        "propertyType": "EffectOnKill",
+        "id": "mana_on_special_kill_nerasis",
+        "effects": [
+          {
+            "sideAffected": "Allies",
+            "typeOfTarget": "Single",
+            "effectType": "AddMana",
+            "powerMultiplierPerMil": 500
+          }
+        ]
       }
     ]
   },
-  "specialsConfigId": 3170760708
+  "specialsConfigId": 1155260212
 }

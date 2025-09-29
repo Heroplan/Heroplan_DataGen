@@ -38410,7 +38410,7 @@
       {
         "statusEffect": "BrutalSupportStatusEffectSkill",
         "id": "damage_on_ally_special_rat_princess",
-        "buff": "MinorBuff",
+        "buff": "MajorBuff",
         "keepConditions": [
           {
             "conditionTarget": "Single",
@@ -52736,10 +52736,10 @@
         "statusEffect": "DefenseModifierPerTile",
         "id": "defense_modifier_debuff_per_blue_tile_glacivolt",
         "buff": "MinorDebuff",
-        "defenseMultiplierPerMil": 920,
-        "defenseMultiplierIncrementPerLevelPerMil": 246,
+        "defenseMultiplierPerMil": 940,
+        "defenseMultiplierIncrementPerLevelPerMil": 236,
         "incrementPerTilePerMil": 206,
-        "maxTileCount": 13,
+        "maxTileCount": 6,
         "element": "Blue"
       },
       {
@@ -52752,7 +52752,7 @@
       {
         "statusEffect": "Frost",
         "id": "frost_all_glacivolt",
-        "buff": "MajorDebuff",
+        "buff": "MinorDebuff",
         "damageMultiplierPerMil": 50,
         "damageMultiplierIncrementPerLevelPerMil": 10
       },
@@ -79266,5 +79266,5 @@
       "SharedDamage"
     ]
   },
-  "battleConfigId": 2725814924
+  "battleConfigId": 1173546293
 }

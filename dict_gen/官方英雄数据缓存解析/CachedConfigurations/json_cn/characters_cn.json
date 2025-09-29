@@ -25613,9 +25613,9 @@
     "id": "布拉吉",
     "element": "黄",
     "family": "马克海姆",
-    "baseHealth": 1045,
-    "baseAttack": 557,
-    "baseDefense": 536,
+    "baseHealth": 1096,
+    "baseAttack": 618,
+    "baseDefense": 616,
     "manaSpeedId": "快速",
     "passiveSkills": [
       "arctic_core",
@@ -25625,7 +25625,7 @@
     "aetherGift": "Counterattack",
     "rarity": 5,
     "specialId": "冰冻重钩",
-    "canBeReceivedDate": "2200-07-11 07:00:00",
+    "canBeReceivedDate": "2025-10-02 07:00:00",
     "origin": "烈焰与冰霜宝藏"
   },
   "tales2_svafa": {
@@ -27809,7 +27809,7 @@
     "aetherGift": "Attack Up",
     "rarity": 5,
     "specialId": "抢了就跑",
-    "canBeReceivedDate": "2200-01-01 07:00:00",
+    "canBeReceivedDate": "2025-09-26 07:00:00",
     "origin": "荒野召唤"
   },
   "wild_cat_vernix": {
@@ -28911,16 +28911,16 @@
     "id": "奈拉西斯",
     "element": "蓝",
     "family": "hotm2025",
-    "baseHealth": 722,
-    "baseAttack": 648,
-    "baseDefense": 510,
+    "baseHealth": 831,
+    "baseAttack": 610,
+    "baseDefense": 583,
     "manaSpeedId": "快速",
     "passiveSkills": [
       "resist_burn",
       "never_miss_special"
     ],
     "classType": "战士",
-    "aetherGift": "Mana Boost",
+    "aetherGift": "Special Boost",
     "rarity": 5,
     "specialId": "无尽匕首",
     "canBeReceivedDate": "2025-10-01 07:00:00",
@@ -29856,19 +29856,19 @@
     "id": "冰雷",
     "element": "蓝",
     "family": "机械家族",
-    "baseHealth": 1000,
-    "baseAttack": 650,
-    "baseDefense": 600,
+    "baseHealth": 1090,
+    "baseAttack": 618,
+    "baseDefense": 620,
     "manaSpeedId": "快速",
     "passiveSkills": [
       "minion_core",
-      "mana_on_own_familiar_death_construct"
+      "resist_special_blocking_with_health_boost_and_mana"
     ],
     "classType": "牧师",
-    "aetherGift": "Revive",
+    "aetherGift": "Defense Up",
     "rarity": 5,
     "specialId": "冰魂之怒",
-    "canBeReceivedDate": "2200-01-01 07:00:00",
+    "canBeReceivedDate": "2025-10-03 07:00:00",
     "origin": "盟约召唤"
   },
   "construct_halwinter": {
@@ -30220,7 +30220,7 @@
     "aetherGift": "Bulwark",
     "rarity": 5,
     "specialId": "野蛮吞噬",
-    "canBeReceivedDate": "2200-01-01 07:00:00",
+    "canBeReceivedDate": "2025-09-30 07:00:00",
     "origin": "SecretSummonEmblemMimicBlue",
     "forceUseCostumeLevelUpAndUpgradeCosts": true,
     "isSecret": true
