@@ -33,6 +33,7 @@
 "lottery.title.season4","Underwild Summon"
 "lottery.title.season5","Dunes Summon"
 "lottery.title.seasonal","Seasonal Summon"
+"lottery.title.seasonalpremiumsummon","Sanguine Summon"
 "lottery.title.shadowsummon","Shadow Summon"
 "lottery.title.silverdragonsummon","Silver Summon"
 "lottery.title.solsticesummon","Solstice Summon"

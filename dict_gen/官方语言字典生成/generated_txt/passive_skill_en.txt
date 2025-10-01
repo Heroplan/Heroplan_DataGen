@@ -24,6 +24,7 @@ This character currently has:
 "herocard.passive_skill.description.damagefamiliarsovertime.everyturn.all.enemies.bigminion.minion","Deals {DAMAGEPERTURN} damage to all enemy Minions and Mega Minions at the start of each turn."
 "herocard.passive_skill.description.damagefamiliarsovertime.everyturn.all.enemies.minion.bigminion","Deals {DAMAGEPERTURN} damage to all enemy Minions and Mega Minions at the start of each turn."
 "herocard.passive_skill.description.damageincreasebyinsanity.troop.specialskill.npcnormalattack","All damage from normal attacks and Special Skills dealt by this character is increased by {DAMAGEINCREASEPERSTEP}% per {INSANITYPERSTEP} Insanity on this character up to {MAXDAMAGEINCREASE}%."
+"herocard.passive_skill.description.dealtdamagemodifieragainststatuseffect.bloodlily.stacks.troop.specialskill.npcnormalattack.add_modifier_per_stack","All damage from normal attacks and Special Skills dealt by this character is increased by {MODIFIER}% per Blood Lily stack on target."
 "herocard.passive_skill.description.dealtstrongelementsupportcharacterdamage.increase","This hero's Troops deal extra elemental damage against the weaker element.
 
 Dealt extra elemental damage: +{MODIFIER}%"
@@ -150,6 +151,56 @@ The Minion Core activates each time this character's Special Skill is cast:
 "herocard.passive_skill.description.memorizestatuseffects","This character has innate ability to Memorize status ailments. The latest status ailment that is cast on this character will stay memorized until the Special Skill is cast. Only status ailments with a duration can be memorized."
 "herocard.passive_skill.description.memorizestatuseffects#2","This character has innate ability to Memorize status ailments. The latest {0} status ailments that are cast on this character will stay memorized until the Special Skill is cast. Only status ailments with a duration can be memorized."
 "herocard.passive_skill.description.memorizestatuseffects#3","This character has innate ability to Memorize status ailments. The latest {0} status ailments that are cast on this character will stay memorized until the Special Skill is cast. Only status ailments with a duration can be memorized. (THIRD FORM)"
+"herocard.passive_skill.description.mimiclootonlevelcompleted.mimic_aether_blue","This Mimic gives a chance for extra loot when completing stages:
+
+*****
+ Ice Aether III
+
+****
+ Ice Aether II
+
+***
+ Ice Aether I"
+"herocard.passive_skill.description.mimiclootonlevelcompleted.mimic_aether_green","This Mimic gives a chance for extra loot when completing stages:
+
+*****
+ Nature Aether III
+
+****
+ Nature Aether II
+
+***
+ Nature Aether I"
+"herocard.passive_skill.description.mimiclootonlevelcompleted.mimic_aether_purple","This Mimic gives a chance for extra loot when completing stages:
+
+*****
+ Dark Aether III
+
+****
+ Dark Aether II
+
+***
+ Dark Aether I"
+"herocard.passive_skill.description.mimiclootonlevelcompleted.mimic_aether_red","This Mimic gives a chance for extra loot when completing stages:
+
+*****
+ Fire Aether III
+
+****
+ Fire Aether II
+
+***
+ Fire Aether I"
+"herocard.passive_skill.description.mimiclootonlevelcompleted.mimic_aether_yellow","This Mimic gives a chance for extra loot when completing stages:
+
+*****
+ Holy Aether III
+
+****
+ Holy Aether II
+
+***
+ Holy Aether I"
 "herocard.passive_skill.description.mimiclootonlevelcompleted.mimic_ascension_blue","This Mimic gives a chance for extra loot when completing stages:
 
 ****
@@ -418,6 +469,7 @@ This includes status effect buffs and ailments, positive and negative Stacks as 
 "herocard.passive_skill.description.resist.attackmodifiers.allstatuseffectsandstacks","This character is immune to all status effects and stacks that affect attack. This includes status effect buffs."
 "herocard.passive_skill.description.resist.attackmodifiers.attackwither.alldebuffs","This character is immune to status ailments, stacks and Wither effects that affect attack."
 "herocard.passive_skill.description.resist.bleed","This character is immune to status ailments that deal Bleed damage."
+"herocard.passive_skill.description.resist.bleed.with_effect.healthboost.addmana","This character is immune to status ailments that deal Bleed damage and gains {HEALTHBOOST} boosted health and {MANA}% mana each time they resist."
 "herocard.passive_skill.description.resist.buffdispels","This character is immune to effects that would dispel their status effect buffs."
 "herocard.passive_skill.description.resist.buffdispels.none.with_chance","{CHANCE}% extra chance to resist buff dispels."
 "herocard.passive_skill.description.resist.buffimmunity","This character is immune to effects that would block them from receiving new status effect buffs."
@@ -425,6 +477,7 @@ This includes status effect buffs and ailments, positive and negative Stacks as 
 "herocard.passive_skill.description.resist.burn.with_effect.healthboost.addmana","This character is immune to status ailments that deal Burn damage and gains {HEALTHBOOST} boosted health and {MANA}% mana each time they resist."
 "herocard.passive_skill.description.resist.can_stack.alldebuffs","This character is immune to status ailments."
 "herocard.passive_skill.description.resist.can_stack.alldebuffs.with_chance","{CHANCE}% extra chance to resist all status ailments."
+"herocard.passive_skill.description.resist.criticalhits.none","This character is immune to extra damage and additional effects from Critical Hits."
 "herocard.passive_skill.description.resist.defensemodifierdebuffs","This character is immune to status ailments that affect defense. Doesn't apply to status ailments that affect elemental defense."
 "herocard.passive_skill.description.resist.defensemodifiers.alldebuffs","This character is immune to status ailments and negative stacks that affect defense. Doesn't apply to status ailments that affect elemental defense."
 "herocard.passive_skill.description.resist.familiarremoval.familiarsilence.familiarreceivingblocking.minion"," Immune to effects that remove Minions.
@@ -473,10 +526,13 @@ Activates up to {MAXACTIVATIONCOUNT} times. Chance to revive is reduced on each 
 "herocard.passive_skill.description.setstatuseffectdurationonaddition.all.allies.activates_on_ally_action.alldebuffs.dance","All Ballads cast by enemies only last for {TURNS} turn."
 "herocard.passive_skill.description.setstatuseffectdurationonaddition.single.enemies.activates_on_enemy_action.allbuffs.dance","All Dances cast by enemies only last for {TURNS} turn."
 "herocard.passive_skill.description.sharereceiveddamage","{SHAREDDAMAGEPORTION}% of damage received by this character is shared with all other allies."
-"herocard.passive_skill.description.specialdamagereduction","Received damage from Special Skills is reduced by {DAMAGEREDUCTION}% for this character."
+"herocard.passive_skill.description.specialdamagereduction","Received damage is reduced by {DAMAGEREDUCTION}% for the first {MAXACTIVATIONCOUNT} times this character receives damage from Special Skills."
 "herocard.passive_skill.description.specialdamagereduction.chance","This character has a {CHANCE}% chance to drop the direct damage received from Special Skills to 1."
 "herocard.passive_skill.description.specialdamagereductionsupportcharacter.troop","Received damage from Special Skills is reduced by {DAMAGEREDUCTION}% for this character."
 "herocard.passive_skill.description.startbattlewitheffect.addmana","This character receives {MANA}% mana at the start of the battle."
+"herocard.passive_skill.description.statmodifier.attack","{ATTACKMULTIPLIER}% Attack."
+"herocard.passive_skill.description.statmodifier.defense","{DEFENSEMULTIPLIER}% Defense."
+"herocard.passive_skill.description.statmodifier.health","{HEALTHMULTIPLIER}% Health."
 "herocard.passive_skill.description.statmodifier.health.attack","{HEALTHMULTIPLIER}% Health, {ATTACKMULTIPLIER}% Attack."
 "herocard.passive_skill.description.statmodifier.health.defense","{HEALTHMULTIPLIER}% Health, {DEFENSEMULTIPLIER}% Defense."
 "herocard.passive_skill.description.statmodifier.health.defense.attack","{HEALTHMULTIPLIER}% Health, {DEFENSEMULTIPLIER}% Defense, {ATTACKMULTIPLIER}% Attack."
@@ -502,16 +558,28 @@ Activates up to {MAXACTIVATIONCOUNT} times. Chance to revive is reduced on each 
 "herocard.passive_skill.description.statuseffectselection.usable_once.select_element_status_effect","Once per battle, this Hero's element can be changed to the Element of your choosing for {TURNS} turns. Element can be changed by tapping this Hero when it does not have full mana."
 "herocard.passive_skill.description.summonfamiliarperturn.evolving_seedling_parasite.enemies","Summons a Seedling Fiend every turn to a random enemy.
 The Seedling Fiend evolves into a Sprout Fiend after {EVOLVINGFAMILIAR1EVOLVETURNS} turns.
-The Sprout Fiend evolves into a Blooming Mega Fiend after {EVOLVINGFAMILIAR2EVOLVETURNS} turns.
+The Sprout Fiend evolves into a Blossom Mega Fiend after {EVOLVINGFAMILIAR2EVOLVETURNS} turns.
 
 Seedling Fiend: 
-{EVOLVINGFAMILIAR1ATTACK}% attack, {EVOLVINGFAMILIAR1HEALTH}% health
+{EVOLVINGFAMILIAR1ATTACK}% attack, {EVOLVINGFAMILIAR1HEALTH}% health.
 
 Sprout Fiend: 
-{EVOLVINGFAMILIAR2ATTACK}% attack, {EVOLVINGFAMILIAR2HEALTH}% health
+{EVOLVINGFAMILIAR2ATTACK}% attack, {EVOLVINGFAMILIAR2HEALTH}% health.
 
 Blossom Mega Fiend: 
-{EVOLVINGFAMILIAR3ATTACK}% attack, {EVOLVINGFAMILIAR3HEALTH}% health"
+{EVOLVINGFAMILIAR3ATTACK}% attack, {EVOLVINGFAMILIAR3HEALTH}% health."
+"herocard.passive_skill.description.summonfamiliarperturn.evolving_seedling_parasite.enemies.sharedonceperturn","Summons a Seedling Fiend every turn to a random enemy. This Passive Skill only activates once per turn for each team.
+The Seedling Fiend evolves into a Sprout Fiend after {EVOLVINGFAMILIAR1EVOLVETURNS} turns.
+The Sprout Fiend evolves into a Blossom Mega Fiend after {EVOLVINGFAMILIAR2EVOLVETURNS} turns.
+
+Seedling Fiend:
+{EVOLVINGFAMILIAR1ATTACK}% attack, {EVOLVINGFAMILIAR1HEALTH}% health.
+
+Sprout Fiend:
+{EVOLVINGFAMILIAR2ATTACK}% attack, {EVOLVINGFAMILIAR2HEALTH}% health.
+
+Blossom Mega Fiend:
+{EVOLVINGFAMILIAR3ATTACK}% attack, {EVOLVINGFAMILIAR3HEALTH}% health."
 "herocard.passive_skill.description.summononownerdeath.slime_big_minion_blue.neartotargetexceptcaster.allies","When this character is defeated, they summon Slime Mega Minions to nearby allies with {FAMILIARHEALTHPERCENT}% HP and {FAMILIARATTACK}% attack inherited from this character."
 "herocard.passive_skill.description.summononownerdeath.slime_big_minion_green.neartotargetexceptcaster.allies","When this character is defeated, they summon Slime Mega Minions to nearby allies with {FAMILIARHEALTHPERCENT}% HP and {FAMILIARATTACK}% attack inherited from this character."
 "herocard.passive_skill.description.summononownerdeath.slime_big_minion_purple.neartotargetexceptcaster.allies","When this character is defeated, they summon Slime Mega Minions to nearby allies with {FAMILIARHEALTHPERCENT}% HP and {FAMILIARATTACK}% attack inherited from this character."
@@ -554,6 +622,7 @@ Blossom Mega Fiend:
 "herocard.passive_skill.title.criticalmodifiersupportcharacter.troop","Critical Modifier"
 "herocard.passive_skill.title.critmodifier","Critical Chance Modifier"
 "herocard.passive_skill.title.damageincreasebyinsanity.troop.specialskill.npcnormalattack","Branded By The Old Ones"
+"herocard.passive_skill.title.dealtdamagemodifieragainststatuseffect.bloodlily.stacks","Sanguine Mark"
 "herocard.passive_skill.title.dealtstrongelementtroopdamage","Troop Mastery"
 "herocard.passive_skill.title.debuffdamagereduction","Status Ailment Damage Reduction"
 "herocard.passive_skill.title.debuffdamagereductionsupportcharacter.troop","Status Ailment Damage Reduction"
@@ -638,9 +707,6 @@ Blossom Mega Fiend:
 "herocard.passive_skill.title.glass_reflect_debuffs","Glass"
 "herocard.passive_skill.title.growth","Growth"
 "herocard.passive_skill.title.guaranteedeffectonspecial","Guaranteed Effect On Special Skill"
-"herocard.passive_skill.title.guestip1_stat_modifier_average","Technician"
-"herocard.passive_skill.title.guestip1_stat_modifier_fast","Striker"
-"herocard.passive_skill.title.guestip1_stat_modifier_slow","Powerhouse"
 "herocard.passive_skill.title.healmodifier.all.enemies.decrease","Decreased healing"
 "herocard.passive_skill.title.healonheal.heal","Extra HEALING"
 "herocard.passive_skill.title.healonownfamiliardeath.minion","Health from Dead Minion"
@@ -689,10 +755,12 @@ Blossom Mega Fiend:
 "herocard.passive_skill.title.resist.attackmodifiers.allstatuseffectsandstacks","Resist Attack Status Effects"
 "herocard.passive_skill.title.resist.attackmodifiers.attackwither.alldebuffs","Resist Attack Reduction"
 "herocard.passive_skill.title.resist.bleed","Resist Bleed"
+"herocard.passive_skill.title.resist.bleed.with_effect.healthboost.addmana","Empowered Resist Bleed"
 "herocard.passive_skill.title.resist.buffdispels","Resist Dispels"
 "herocard.passive_skill.title.resist.buffimmunity","Resist Buff Blocking"
 "herocard.passive_skill.title.resist.burn","Resist Burn"
 "herocard.passive_skill.title.resist.burn.with_effect.healthboost.addmana","Empowered Resist Burn"
+"herocard.passive_skill.title.resist.criticalhits.none","Resist Critical Hits"
 "herocard.passive_skill.title.resist.defensemodifiers.alldebuffs","Resist Defense Ailments"
 "herocard.passive_skill.title.resist.familiarremoval.familiarsilence.familiarreceivingblocking.minion","Unstoppable Minions"
 "herocard.passive_skill.title.resist.frost","Resist Frost"
@@ -740,6 +808,9 @@ Lithe Frame"
 "herocard.passive_skill.title.specialdamagereduction","Special Skill Damage Reduction"
 "herocard.passive_skill.title.specialdamagereductionsupportcharacter.troop","Special Skill Damage Reduction"
 "herocard.passive_skill.title.startbattlewitheffect.addmana","Start Battle With Mana"
+"herocard.passive_skill.title.statmodifier.attack","Ferocious"
+"herocard.passive_skill.title.statmodifier.defense","Carapaced"
+"herocard.passive_skill.title.statmodifier.health","Resilient"
 "herocard.passive_skill.title.statuseffectattackmodifier.addition","Increase Status Effect Attack"
 "herocard.passive_skill.title.statuseffectattackmodifier.all.allies.reduction","Attack Ailment Reduction"
 "herocard.passive_skill.title.statuseffectattackmodifier.reduction","Attack Ailment Reduction"
@@ -761,6 +832,7 @@ Lithe Frame"
 "herocard.passive_skill.title.statuseffectonstatuseffectaddition.debuff","Mana Generation Buff from Ailments"
 "herocard.passive_skill.title.statuseffectselection.usable_once.select_element_status_effect","Elemental Mask"
 "herocard.passive_skill.title.summonfamiliarperturn.evolving_seedling_parasite.enemies","Seedling Summoner"
+"herocard.passive_skill.title.summonfamiliarperturn.evolving_seedling_parasite.enemies.sharedonceperturn","Seedling Summoner"
 "herocard.passive_skill.title.summononownerdeath.slime_big_minion_blue.neartotargetexceptcaster.allies","Slime Minion upon Defeat"
 "herocard.passive_skill.title.summononownerdeath.slime_big_minion_green.neartotargetexceptcaster.allies","Slime Minion upon Defeat"
 "herocard.passive_skill.title.summononownerdeath.slime_big_minion_purple.neartotargetexceptcaster.allies","Slime Minion upon Defeat"

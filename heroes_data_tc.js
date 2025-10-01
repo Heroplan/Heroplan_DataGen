@@ -9710,7 +9710,7 @@ window.allHeroes =
         "effects": [
             "對目標造成 480% 傷害。",
             "若敵人被該攻擊所打敗，施法者恢復 +50% 生命值並獲得 +33% 法力。",
-            "目標與附近敵人在 4 回合內受到共計 387 點劇毒傷害。",
+            "目標與附近敵人在 3 回合內受到共計 387 點劇毒傷害。",
             "模仿怪寶箱將關閉持續 2 個回合。（模仿怪寶箱關閉時免疫傷害和新的狀態異常）"
         ],
         "passives": [
@@ -75335,7 +75335,7 @@ window.allHeroes =
         "effects": [
             "對目標造成 480% 傷害。",
             "若敵人被該攻擊所打敗，施法者恢復 +50% 生命值並獲得 +33% 法力。",
-            "目標與附近敵人在 4 回合內受到共計 387 點劇毒傷害。",
+            "目標與附近敵人在 3 回合內受到共計 387 點劇毒傷害。",
             "模仿怪寶箱將關閉持續 2 個回合。（模仿怪寶箱關閉時免疫傷害和新的狀態異常）"
         ],
         "passives": [
@@ -106021,7 +106021,7 @@ window.allHeroes =
         "health": null,
         "effects": [],
         "passives": [],
-        "family": "Halloween2025",
+        "family": "fleur_de_sang",
         "costume_id": 0,
         "originalIndex": 1529,
         "cn_skill_info": []
@@ -106047,7 +106047,7 @@ window.allHeroes =
         "health": null,
         "effects": [],
         "passives": [],
-        "family": "Halloween2025",
+        "family": "fleur_de_sang",
         "costume_id": 0,
         "originalIndex": 1530,
         "cn_skill_info": []
@@ -106073,7 +106073,7 @@ window.allHeroes =
         "health": null,
         "effects": [],
         "passives": [],
-        "family": "Halloween2025",
+        "family": "fleur_de_sang",
         "costume_id": 0,
         "originalIndex": 1531,
         "cn_skill_info": []
@@ -106128,6 +106128,32 @@ window.allHeroes =
         "family": "construct",
         "costume_id": 0,
         "originalIndex": 1533,
+        "cn_skill_info": []
+    },
+    {
+        "name": "奈拉西斯 (Nerasis)",
+        "fancy_name": "寧靜死亡",
+        "AetherPower": "",
+        "color": "藍",
+        "class": "聖騎士",
+        "speed": "慢速",
+        "skill": "",
+        "types": [],
+        "skill_types": [],
+        "source": "",
+        "Release date": "",
+        "specialId": "",
+        "heroId": "ice_god_nerasis",
+        "star": 5,
+        "power": null,
+        "attack": null,
+        "defense": null,
+        "health": null,
+        "effects": [],
+        "passives": [],
+        "family": "hotm2025",
+        "costume_id": 0,
+        "originalIndex": 1534,
         "cn_skill_info": []
     }
 ];

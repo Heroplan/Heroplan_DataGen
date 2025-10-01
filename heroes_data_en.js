@@ -9708,7 +9708,7 @@ window.allHeroes =
         "effects": [
             "Deals 480% damage to the target.",
             "If an enemy is defeated by the attack, the caster recovers +50% health and gains +33% mana.",
-            "The target and nearby enemies receive 387 Poison damage over 4 turns.",
+            "The target and nearby enemies receive 387 Poison damage over 3 turns.",
             "The Mimic chest closes for 2 turns. (The Mimic is immune to damage and new status ailments while closed.)"
         ],
         "passives": [
@@ -75317,7 +75317,7 @@ window.allHeroes =
         "effects": [
             "Deals 480% damage to the target.",
             "If an enemy is defeated by the attack, the caster recovers +50% health and gains +33% mana.",
-            "The target and nearby enemies receive 387 Poison damage over 4 turns.",
+            "The target and nearby enemies receive 387 Poison damage over 3 turns.",
             "The Mimic chest closes for 2 turns. (The Mimic is immune to damage and new status ailments while closed.)"
         ],
         "passives": [
@@ -105992,7 +105992,7 @@ window.allHeroes =
         "health": null,
         "effects": [],
         "passives": [],
-        "family": "Halloween2025",
+        "family": "fleur_de_sang",
         "costume_id": 0,
         "originalIndex": 1529,
         "cn_skill_info": []
@@ -106018,7 +106018,7 @@ window.allHeroes =
         "health": null,
         "effects": [],
         "passives": [],
-        "family": "Halloween2025",
+        "family": "fleur_de_sang",
         "costume_id": 0,
         "originalIndex": 1530,
         "cn_skill_info": []
@@ -106044,7 +106044,7 @@ window.allHeroes =
         "health": null,
         "effects": [],
         "passives": [],
-        "family": "Halloween2025",
+        "family": "fleur_de_sang",
         "costume_id": 0,
         "originalIndex": 1531,
         "cn_skill_info": []
@@ -106099,6 +106099,32 @@ window.allHeroes =
         "family": "construct",
         "costume_id": 0,
         "originalIndex": 1533,
+        "cn_skill_info": []
+    },
+    {
+        "name": "Nerasis",
+        "fancy_name": "The Quiet Death",
+        "AetherPower": "",
+        "color": "Blue",
+        "class": "Paladin",
+        "speed": "Slow",
+        "skill": "",
+        "types": [],
+        "skill_types": [],
+        "source": "",
+        "Release date": "",
+        "specialId": "",
+        "heroId": "ice_god_nerasis",
+        "star": 5,
+        "power": null,
+        "attack": null,
+        "defense": null,
+        "health": null,
+        "effects": [],
+        "passives": [],
+        "family": "hotm2025",
+        "costume_id": 0,
+        "originalIndex": 1534,
         "cn_skill_info": []
     }
 ];

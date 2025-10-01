@@ -12,7 +12,7 @@ window.family_values = {
     "easter": "Monthly Event - Springvale",
     "sand": "Monthly Event - Sand Empire",
     "halloween": "Monthly Event - Morlovia",
-    "halloween2025": "Monthly Event - Morlovia",
+    "fleur_de_sang": "Monthly Event - Fleur de Sang",
     "winter": "Monthly Event - Winter",
     "ninja": "Tower - Ninjas",
     "magic": "Tower - Magic",
@@ -87,5 +87,6 @@ window.family_values = {
     "hotm2022": "Monthly Hero - 2022",
     "hotm2023": "Monthly Hero - 2023",
     "hotm2024": "Monthly Hero - 2024",
-    "hotm2025": "Monthly Hero - 2025"
+    "hotm2025": "Monthly Hero - 2025",
+    "hotm2025": "Monthly Hero - 2026"
 };

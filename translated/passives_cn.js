@@ -10883,5 +10883,10 @@ const translatedPassivesCN =
         "originalIndex": 1533,
         "name": "Glacivolt",
         "passives": []
+    },
+    {
+        "originalIndex": 1534,
+        "name": "Nerasis",
+        "passives": []
     }
 ];

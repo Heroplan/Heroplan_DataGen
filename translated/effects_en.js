@@ -1352,7 +1352,7 @@ const allTranslations =
         "effects": [
             "Deals 480% damage to the target.",
             "If an enemy is defeated by the attack, the caster recovers +50% health and gains +33% mana.",
-            "The target and nearby enemies receive 387 Poison damage over 4 turns.",
+            "The target and nearby enemies receive 387 Poison damage over 3 turns.",
             "The Mimic chest closes for 2 turns. (The Mimic is immune to damage and new status ailments while closed.)"
         ]
     },
@@ -10497,7 +10497,7 @@ const allTranslations =
         "effects": [
             "Deals 480% damage to the target.",
             "If an enemy is defeated by the attack, the caster recovers +50% health and gains +33% mana.",
-            "The target and nearby enemies receive 387 Poison damage over 4 turns.",
+            "The target and nearby enemies receive 387 Poison damage over 3 turns.",
             "The Mimic chest closes for 2 turns. (The Mimic is immune to damage and new status ailments while closed.)"
         ]
     },
@@ -14808,6 +14808,11 @@ const allTranslations =
     {
         "originalIndex": 1533,
         "name": "冰雷 (Glacivolt)",
+        "effects": []
+    },
+    {
+        "originalIndex": 1534,
+        "name": "奈拉西斯 (Nerasis)",
         "effects": []
     }
 ];

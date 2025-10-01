@@ -10848,5 +10848,10 @@ const allTranslations =
         "originalIndex": 1533,
         "name": "冰雷 (Glacivolt)",
         "passives": []
+    },
+    {
+        "originalIndex": 1534,
+        "name": "奈拉西斯 (Nerasis)",
+        "passives": []
     }
 ];
