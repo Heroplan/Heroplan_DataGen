@@ -39606,7 +39606,12 @@ window.allHeroesExtra = [
         "speed": "fast",
         "Release date": "2025-09-27",
         "AetherPower": "Fiend Resist",
-        "skill_types": [],
+        "skill_types": [
+            "Dispellers",
+            "Snipers",
+            "Extra Damage Dealers",
+            "AoE Attackers (Hit-3)"
+        ],
         "heroId": "outlaw_wu_song",
         "baseAttack": 628,
         "baseDefense": 602,
@@ -39628,7 +39633,11 @@ window.allHeroesExtra = [
         "speed": "average",
         "Release date": "2025-09-26",
         "AetherPower": "Attack Up",
-        "skill_types": [],
+        "skill_types": [
+            "AoE Attackers (Hit-5)",
+            "Healing Reducers",
+            "Mana Reducers or Blockers"
+        ],
         "heroId": "wild_cat_thaffer",
         "baseAttack": 648,
         "baseDefense": 588,
@@ -39649,7 +39658,10 @@ window.allHeroesExtra = [
         "speed": "average",
         "Release date": "2025-09-25",
         "AetherPower": "Dodge",
-        "skill_types": [],
+        "skill_types": [
+            "Mana Raisers",
+            "Mega Minions Summoners"
+        ],
         "heroId": "slime_sliposi",
         "baseAttack": 593,
         "baseDefense": 642,
@@ -39660,5 +39672,104 @@ window.allHeroesExtra = [
             "summon_slime_minion_on_death_purple"
         ],
         "family": "slime"
+    },
+    {
+        "name": "Emblem Mimic Ice",
+        "fancy name": "Horrifying One-Eyed Lockbox",
+        "element": "Blue",
+        "rarity": 5,
+        "class": "Wizard",
+        "speed": "fast",
+        "Release date": "2025-09-30",
+        "AetherPower": "Bulwark",
+        "skill_types": [
+            "Healers (Special)",
+            "Minions Counters",
+            "Snipers",
+            "Mana Raisers",
+            "Immunity Providers",
+            "Ghost Form & Hiding",
+            "Bypassers",
+            "DoT Attackers"
+        ],
+        "heroId": "mimic_emblem_blue",
+        "baseAttack": 628,
+        "baseDefense": 628,
+        "baseHealth": 1080,
+        "specialId": "savage_gobble_blue",
+        "passiveSkills": [
+            "mimic_emblem_blue",
+            "never_miss_special"
+        ],
+        "family": "mimic"
+    },
+    {
+        "name": "Nerasis",
+        "fancy name": "The Quiet Death",
+        "element": "Blue",
+        "rarity": 5,
+        "class": "Fighter",
+        "speed": "fast",
+        "Release date": "2025-10-01",
+        "AetherPower": "Special Boost",
+        "skill_types": [
+            "Snipers",
+            "Bypassers",
+            "Mana Raisers",
+            "Stacking Heroes",
+            "Buffers (ATK)"
+        ],
+        "heroId": "ice_god_nerasis",
+        "baseAttack": 610,
+        "baseDefense": 583,
+        "baseHealth": 831,
+        "specialId": "endless_daggers",
+        "passiveSkills": [
+            "resist_burn",
+            "never_miss_special"
+        ],
+        "family": "hotm2025"
+    },
+    {
+        "name": "Glacivolt",
+        "fancy name": "Icy Overseer Construct",
+        "element": "Blue",
+        "rarity": 5,
+        "class": "Cleric",
+        "speed": "fast",
+        "Release date": "2025-10-03",
+        "AetherPower": "Defense Up",
+        "skill_types": [],
+        "heroId": "construct_glacivolt",
+        "baseAttack": 618,
+        "baseDefense": 620,
+        "baseHealth": 1090,
+        "specialId": "wrath_of_frozen_soul",
+        "passiveSkills": [
+            "minion_core",
+            "resist_special_blocking_with_health_boost_and_mana"
+        ],
+        "family": "construct"
+    },
+    {
+        "name": "Bragi",
+        "fancy name": "Dwarven Prizefighter",
+        "element": "Yellow",
+        "rarity": 5,
+        "class": "Monk",
+        "speed": "fast",
+        "Release date": "2025-10-02",
+        "AetherPower": "Counterattack",
+        "skill_types": [],
+        "heroId": "tales2_bragi",
+        "baseAttack": 618,
+        "baseDefense": 616,
+        "baseHealth": 1096,
+        "specialId": "freezing_power_hooks",
+        "passiveSkills": [
+            "arctic_core",
+            "resist_frost_with_health_boost_and_mana"
+        ],
+        "family": "myrkheim"
     }
 ];

@@ -53625,7 +53625,7 @@
         "id": "lottery_featured_event_festival_b",
         "gemPrice": 350,
         "amount": 1,
-        "uiPriority": 133,
+        "uiPriority": 135,
         "advertisedHero": "bard_narcisa",
         "associatedEvent": "RecurringFestivalB",
         "bonusChest": "festival_chest",
@@ -84578,6 +84578,14 @@
           {
             "id": "com.smallgiantgames.empires.dynamic_12c",
             "purchaseLimit": 2
+          },
+          {
+            "id": "com.smallgiantgames.empires.dynamic_10e",
+            "purchaseLimit": 2
+          },
+          {
+            "id": "com.smallgiantgames.empires.dynamic_8",
+            "purchaseLimit": 2
           }
         ],
         "requiresQuestsUnlocked": true,
@@ -84814,6 +84822,10 @@
           },
           {
             "id": "com.smallgiantgames.empires.dynamic_12c",
+            "purchaseLimit": 2
+          },
+          {
+            "id": "com.smallgiantgames.empires.dynamic_10e",
             "purchaseLimit": 2
           }
         ],
@@ -88814,6 +88826,22 @@
             ]
           },
           {
+            "activationTime": "2025-10-04 10:30:00",
+            "contents": [
+              {
+                "type": "Item",
+                "id": "lottery_pickup_coin",
+                "amount": 500
+              },
+              {
+                "type": "Item",
+                "id": "lottery_covenant_coin",
+                "amount": 250,
+                "zyngaStoreExtraAmount": 50
+              }
+            ]
+          },
+          {
             "activationTime": "2025-10-06 07:00:00",
             "contents": [
               {
@@ -91684,6 +91712,53 @@
             ]
           },
           {
+            "activationTime": "2025-10-04 10:30:00",
+            "contents": [
+              {
+                "type": "Item",
+                "id": "misc_loot_ticket",
+                "amount": 150,
+                "zyngaStoreExtraAmount": 20
+              },
+              {
+                "type": "Item",
+                "id": "refill_energy_pve_full",
+                "amount": 15
+              },
+              {
+                "type": "Item",
+                "id": "refill_iron_giant",
+                "amount": 5
+              },
+              {
+                "type": "Item",
+                "id": "refill_food_giant",
+                "amount": 5
+              }
+            ]
+          },
+          {
+            "activationTime": "2025-10-05 12:00:00",
+            "contents": [
+              {
+                "type": "Item",
+                "id": "lottery_covenant_coin",
+                "amount": 350,
+                "zyngaStoreExtraAmount": 100
+              },
+              {
+                "type": "Item",
+                "id": "lottery_untold_tales_coin",
+                "amount": 350
+              },
+              {
+                "type": "Item",
+                "id": "lottery_pickup_coin",
+                "amount": 350
+              }
+            ]
+          },
+          {
             "activationTime": "2026-07-08 07:00:00",
             "contents": [
               {
@@ -93954,13 +94029,6 @@
         "endTime": "2025-09-26 06:30:00"
       },
       {
-        "id": "dynamic_offer_5_red_yang_mai",
-        "slot": "RightBottom",
-        "scheduledManually": true,
-        "startTime": "2025-09-26 07:00:00",
-        "endTime": "2025-09-27 06:30:00"
-      },
-      {
         "id": "dynamic_offer_8_green_gadeirus",
         "slot": "ShopOnly",
         "scheduledManually": true,
@@ -94250,13 +94318,6 @@
         "scheduledManually": true,
         "startTime": "2025-10-01 07:00:00",
         "endTime": "2025-10-05 07:00:00"
-      },
-      {
-        "id": "dynamic_offer_2_blue_esme",
-        "slot": "RightExtraBottom",
-        "scheduledManually": true,
-        "startTime": "2025-10-01 11:00:00",
-        "endTime": "2025-10-02 06:30:00"
       },
       {
         "id": "dynamic_offer_39_purple_senan",
@@ -109042,6 +109103,32 @@
               "garrison_kolya"
             ],
             "extraHeroesPoolId": "default"
+          },
+          {
+            "lotteryProductType": "Pick Up Summon",
+            "id": "pickup_summon_100425",
+            "productId": "lottery_pickup_default",
+            "startDate": "2025-10-04 07:00:00",
+            "endDate": "2025-10-06 07:00:00",
+            "featuredHeroes": [
+              "magic_carpet_naeem",
+              "faun_ascian"
+            ],
+            "extraHeroesPoolId": "default",
+            "adSummonEnabled": true
+          },
+          {
+            "lotteryProductType": "Pick Up Summon",
+            "id": "pickup_summon_100725",
+            "productId": "lottery_pickup_default",
+            "startDate": "2025-10-07 07:00:00",
+            "endDate": "2025-10-08 07:00:00",
+            "featuredHeroes": [
+              "wild_cat_leonie",
+              "wild_cat_rajesh"
+            ],
+            "extraHeroesPoolId": "default",
+            "adSummonEnabled": true
           }
         ],
         "extraHeroPools": [
@@ -111284,5 +111371,5 @@
       }
     ]
   },
-  "shopConfigId": 4201875147
+  "shopConfigId": 24922618
 }

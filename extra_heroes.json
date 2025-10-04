@@ -55,36 +55,14 @@
         "Lottery_Only":1
     },
     {
-        "name": "Bragi",
-        "fancy_name": "Dwarven Prizefighter",
+        "name": "Lyria",
+        "fancy_name": "Exceptionally Eager Instrumentalist",
         "color": "Yellow",
         "Release date": "",
         "star": 5,
-        "family": "myrkheim",
+        "family": "bard",
         "costume_id": 0,
-        "heroId": "tales2_bragi",
-        "Lottery_Only":1
-    },
-    {
-        "name": "Glacivolt",
-        "fancy_name": "Icy Overseer Construct",
-        "color": "Blue",
-        "Release date": "",
-        "star": 5,
-        "family": "construct",
-        "costume_id": 0,
-        "heroId": "construct_glacivolt",
-        "Lottery_Only":1
-    },
-    {
-        "name": "Nerasis",
-        "fancy_name": "The Quiet Death",
-        "color": "Blue",
-        "Release date": "",
-        "star": 5,
-        "family": "hotm2025",
-        "costume_id": 0,
-        "heroId": "ice_god_nerasis",
+        "heroId": "bard_lyria",
         "Lottery_Only":1
     }
 ]

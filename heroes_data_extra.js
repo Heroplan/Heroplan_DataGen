@@ -39702,5 +39702,87 @@ window.allHeroesExtra = [
             "never_miss_special"
         ],
         "family": "mimic"
+    },
+    {
+        "name": "Nerasis",
+        "fancy name": "The Quiet Death",
+        "element": "Blue",
+        "rarity": 5,
+        "class": "Fighter",
+        "speed": "fast",
+        "Release date": "2025-10-01",
+        "AetherPower": "Special Boost",
+        "skill_types": [
+            "Snipers",
+            "Bypassers",
+            "Mana Raisers",
+            "Stacking Heroes",
+            "Buffers (ATK)"
+        ],
+        "heroId": "ice_god_nerasis",
+        "baseAttack": 610,
+        "baseDefense": 583,
+        "baseHealth": 831,
+        "specialId": "endless_daggers",
+        "passiveSkills": [
+            "resist_burn",
+            "never_miss_special"
+        ],
+        "family": "hotm2025"
+    },
+    {
+        "name": "Glacivolt",
+        "fancy name": "Icy Overseer Construct",
+        "element": "Blue",
+        "rarity": 5,
+        "class": "Cleric",
+        "speed": "fast",
+        "Release date": "2025-10-03",
+        "AetherPower": "Defense Up",
+        "skill_types": [
+            "AoE Attackers (Hit-5)",
+            "Debuffers (DEF)",
+            "DoT Attackers",
+            "Minions Summoners",
+            "Minions Counters"
+        ],
+        "heroId": "construct_glacivolt",
+        "baseAttack": 618,
+        "baseDefense": 620,
+        "baseHealth": 1090,
+        "specialId": "wrath_of_frozen_soul",
+        "passiveSkills": [
+            "minion_core",
+            "resist_special_blocking_with_health_boost_and_mana"
+        ],
+        "family": "construct"
+    },
+    {
+        "name": "Bragi",
+        "fancy name": "Dwarven Prizefighter",
+        "element": "Yellow",
+        "rarity": 5,
+        "class": "Monk",
+        "speed": "fast",
+        "Release date": "2025-10-02",
+        "AetherPower": "Counterattack",
+        "skill_types": [
+            "Snipers",
+            "Extra Damage Dealers",
+            "Buff Stealers",
+            "Chain & Random Attackers",
+            "DoT Attackers",
+            "Minions Counters"
+        ],
+        "heroId": "tales2_bragi",
+        "baseAttack": 618,
+        "baseDefense": 616,
+        "baseHealth": 1096,
+        "specialId": "freezing_power_hooks",
+        "passiveSkills": [
+            "arctic_core",
+            "resist_frost_with_health_boost_and_mana"
+        ],
+        "family": "myrkheim"
     }
 ];

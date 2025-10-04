@@ -2751,11 +2751,11 @@
             "eventBundle": "bundle_challenge_1",
             "eventOffer": "eventoffer_double_calendar",
             "eventEndingOffer": "",
-            "advertisedHero": "bard_belladonna",
+            "advertisedHero": "bard_lyria",
             "featuredHeroes": [
-              "bard_belladonna",
-              "bard_ogima",
-              "bard_phenexa"
+              "bard_lyria",
+              "villain_dark_lord_costume_astronomer",
+              "bard_dunnar_hart"
             ],
             "eventBonus": "event_hero_bonus_challenge_events",
             "startTime": "2025-10-06 07:00:00",
@@ -36695,7 +36695,7 @@
         "skipsResourceConfig": {
           "productionIntervalSeconds": 82800
         },
-        "taskListWidgetImprovementEnabled": false
+        "taskListWidgetImprovementEnabled": true
       },
       "valorSeason": {
         "enabled": true,
@@ -80742,5 +80742,5 @@
     "criticalOperationPendingDelaySeconds": 3,
     "allowedCriticalOperationPendingCount": 3
   },
-  "otherConfigId": 547342883
+  "otherConfigId": 1181418253
 }

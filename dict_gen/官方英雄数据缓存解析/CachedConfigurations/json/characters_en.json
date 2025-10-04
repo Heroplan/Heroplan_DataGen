@@ -27683,9 +27683,9 @@
     "id": "Exceptionally Eager Instrumentalist",
     "element": "Yellow",
     "family": "bard",
-    "baseHealth": 1045,
-    "baseAttack": 575,
-    "baseDefense": 588,
+    "baseHealth": 1099,
+    "baseAttack": 623,
+    "baseDefense": 611,
     "manaSpeedId": "very_fast",
     "passiveSkills": [
       "revival_chance_modifier_all_enemies"
@@ -27694,7 +27694,7 @@
     "aetherGift": "Special Boost",
     "rarity": 5,
     "specialId": "rushed_melody",
-    "canBeReceivedDate": "2200-01-01 07:00:00",
+    "canBeReceivedDate": "2025-10-06 07:00:00",
     "origin": "Challenge Festival II",
     "additionalBattleSpecificHeroEffectOrigin": "RecurringFestival"
   },
@@ -28728,7 +28728,7 @@
     "origin": "Tower of Magic"
   },
   "guestip1_hero1": {
-    "id": "The Greatest of All Time",
+    "id": "guestip1_hero1",
     "element": "Blue",
     "family": "guestip1",
     "baseHealth": 2200,
@@ -28746,7 +28746,7 @@
     "isGuest": true
   },
   "guestip1_hero2": {
-    "id": "The Second City Saint",
+    "id": "guestip1_hero2",
     "element": "Green",
     "family": "guestip1",
     "baseHealth": 2450,
@@ -28764,7 +28764,7 @@
     "isGuest": true
   },
   "guestip1_hero3": {
-    "id": "The Heartbreak Kid",
+    "id": "guestip1_hero3",
     "element": "Red",
     "family": "guestip1",
     "baseHealth": 2100,
@@ -28782,7 +28782,7 @@
     "isGuest": true
   },
   "guestip1_hero4": {
-    "id": "The Game",
+    "id": "guestip1_hero4",
     "element": "Yellow",
     "family": "guestip1",
     "baseHealth": 2600,
@@ -28800,7 +28800,7 @@
     "isGuest": true
   },
   "guestip1_hero5": {
-    "id": "The EST of WWE",
+    "id": "guestip1_hero5",
     "element": "Red",
     "family": "guestip1",
     "baseHealth": 2000,
@@ -28818,7 +28818,7 @@
     "isGuest": true
   },
   "guestip1_hero6": {
-    "id": "Original Tribal Chief",
+    "id": "guestip1_hero6",
     "element": "Purple",
     "family": "guestip1",
     "baseHealth": 2130,
@@ -28836,7 +28836,7 @@
     "isGuest": true
   },
   "guestip1_hero7": {
-    "id": "The American Nightmare",
+    "id": "guestip1_hero7",
     "element": "Blue",
     "family": "guestip1",
     "baseHealth": 2130,
@@ -28854,7 +28854,7 @@
     "isGuest": true
   },
   "guestip1_hero8": {
-    "id": "Mami",
+    "id": "guestip1_hero8",
     "element": "Purple",
     "family": "guestip1",
     "baseHealth": 2010,
@@ -28872,7 +28872,7 @@
     "isGuest": true
   },
   "guestip1_hero9": {
-    "id": "The Messiah",
+    "id": "guestip1_hero9",
     "element": "Yellow",
     "family": "guestip1",
     "baseHealth": 2280,
@@ -28890,7 +28890,7 @@
     "isGuest": true
   },
   "guestip1_hero10": {
-    "id": "The Queen of WWE",
+    "id": "guestip1_hero10",
     "element": "Green",
     "family": "guestip1",
     "baseHealth": 2100,
