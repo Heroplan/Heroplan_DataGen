@@ -39739,7 +39739,13 @@ window.allHeroesExtra = [
         "speed": "fast",
         "Release date": "2025-10-03",
         "AetherPower": "Defense Up",
-        "skill_types": [],
+        "skill_types": [
+            "AoE Attackers (Hit-5)",
+            "Debuffers (DEF)",
+            "DoT Attackers",
+            "Minions Summoners",
+            "Minions Counters"
+        ],
         "heroId": "construct_glacivolt",
         "baseAttack": 618,
         "baseDefense": 620,
@@ -39760,7 +39766,14 @@ window.allHeroesExtra = [
         "speed": "fast",
         "Release date": "2025-10-02",
         "AetherPower": "Counterattack",
-        "skill_types": [],
+        "skill_types": [
+            "Snipers",
+            "Extra Damage Dealers",
+            "Buff Stealers",
+            "Chain & Random Attackers",
+            "DoT Attackers",
+            "Minions Counters"
+        ],
         "heroId": "tales2_bragi",
         "baseAttack": 618,
         "baseDefense": 616,
@@ -39771,5 +39784,25 @@ window.allHeroesExtra = [
             "resist_frost_with_health_boost_and_mana"
         ],
         "family": "myrkheim"
+    },
+    {
+        "name": "Lyria",
+        "fancy name": "Exceptionally Eager Instrumentalist",
+        "element": "Yellow",
+        "rarity": 5,
+        "class": "Fighter",
+        "speed": "very_fast",
+        "Release date": "2025-10-06",
+        "AetherPower": "Special Boost",
+        "skill_types": [],
+        "heroId": "bard_lyria",
+        "baseAttack": 623,
+        "baseDefense": 611,
+        "baseHealth": 1099,
+        "specialId": "rushed_melody",
+        "passiveSkills": [
+            "revival_chance_modifier_all_enemies"
+        ],
+        "family": "bard"
     }
 ];

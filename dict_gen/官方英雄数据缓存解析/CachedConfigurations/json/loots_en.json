@@ -10423,6 +10423,264 @@
                 1
               ],
               "weights": [
+                957,
+                43
+              ]
+            },
+            "rarityResolver": {
+              "resolverType": "Fixed",
+              "rarity": 3
+            }
+          },
+          {
+            "type": "Item",
+            "itemTypeResolver": {
+              "resolverType": "Fixed",
+              "itemType": "HeroLimitBreak"
+            },
+            "amountResolver": {
+              "resolverType": "WeightedRandom",
+              "amounts": [
+                0,
+                1
+              ],
+              "weights": [
+                999,
+                1
+              ]
+            },
+            "rarityResolver": {
+              "resolverType": "Fixed",
+              "rarity": 4
+            }
+          },
+          {
+            "type": "Item",
+            "itemTypeResolver": {
+              "resolverType": "Fixed",
+              "itemType": "HeroLimitBreak"
+            },
+            "amountResolver": {
+              "resolverType": "WeightedRandom",
+              "amounts": [
+                0,
+                1
+              ],
+              "weights": [
+                9999,
+                1
+              ]
+            },
+            "rarityResolver": {
+              "resolverType": "Fixed",
+              "rarity": 5
+            }
+          },
+          {
+            "type": "Item",
+            "itemTypeResolver": {
+              "resolverType": "Fixed",
+              "itemType": "HeroEmblem"
+            },
+            "amountResolver": {
+              "resolverType": "WeightedRandom",
+              "amounts": [
+                1,
+                2
+              ],
+              "weights": [
+                50,
+                50
+              ]
+            },
+            "rarityResolver": {
+              "resolverType": "Fixed",
+              "rarity": 4
+            }
+          },
+          {
+            "type": "TrainerCharacter",
+            "amountResolver": {
+              "resolverType": "WeightedRandom",
+              "amounts": [
+                0,
+                1
+              ],
+              "weights": [
+                913,
+                87
+              ]
+            },
+            "rarityResolver": {
+              "resolverType": "Fixed",
+              "rarity": 3
+            }
+          }
+        ]
+      },
+      {
+        "id": "loot_monster_island_tier2",
+        "entities": [
+          {
+            "type": "Item",
+            "amountResolver": {
+              "resolverType": "WeightedRandom",
+              "amounts": [
+                4,
+                5
+              ],
+              "weights": [
+                64,
+                36
+              ]
+            },
+            "idResolver": {
+              "resolverType": "Fixed",
+              "entityId": "lottery_monster_island_coin"
+            }
+          },
+          {
+            "type": "Item",
+            "itemTypeResolver": {
+              "resolverType": "Fixed",
+              "itemType": "HeroLimitBreak"
+            },
+            "amountResolver": {
+              "resolverType": "WeightedRandom",
+              "amounts": [
+                0,
+                1
+              ],
+              "weights": [
+                957,
+                43
+              ]
+            },
+            "rarityResolver": {
+              "resolverType": "Fixed",
+              "rarity": 3
+            }
+          },
+          {
+            "type": "Item",
+            "itemTypeResolver": {
+              "resolverType": "Fixed",
+              "itemType": "HeroLimitBreak"
+            },
+            "amountResolver": {
+              "resolverType": "WeightedRandom",
+              "amounts": [
+                0,
+                1
+              ],
+              "weights": [
+                978,
+                22
+              ]
+            },
+            "rarityResolver": {
+              "resolverType": "Fixed",
+              "rarity": 4
+            }
+          },
+          {
+            "type": "Item",
+            "itemTypeResolver": {
+              "resolverType": "Fixed",
+              "itemType": "HeroLimitBreak"
+            },
+            "amountResolver": {
+              "resolverType": "WeightedRandom",
+              "amounts": [
+                0,
+                1
+              ],
+              "weights": [
+                999,
+                1
+              ]
+            },
+            "rarityResolver": {
+              "resolverType": "Fixed",
+              "rarity": 5
+            }
+          },
+          {
+            "type": "Item",
+            "itemTypeResolver": {
+              "resolverType": "Fixed",
+              "itemType": "HeroEmblem"
+            },
+            "amountResolver": {
+              "resolverType": "WeightedRandom",
+              "amounts": [
+                2,
+                3
+              ],
+              "weights": [
+                87,
+                13
+              ]
+            },
+            "rarityResolver": {
+              "resolverType": "Fixed",
+              "rarity": 4
+            }
+          },
+          {
+            "type": "TrainerCharacter",
+            "amountResolver": {
+              "resolverType": "WeightedRandom",
+              "amounts": [
+                0,
+                1
+              ],
+              "weights": [
+                913,
+                87
+              ]
+            },
+            "rarityResolver": {
+              "resolverType": "Fixed",
+              "rarity": 3
+            }
+          }
+        ]
+      },
+      {
+        "id": "loot_monster_island_tier3",
+        "entities": [
+          {
+            "type": "Item",
+            "amountResolver": {
+              "resolverType": "WeightedRandom",
+              "amounts": [
+                8,
+                9
+              ],
+              "weights": [
+                30,
+                70
+              ]
+            },
+            "idResolver": {
+              "resolverType": "Fixed",
+              "entityId": "lottery_monster_island_coin"
+            }
+          },
+          {
+            "type": "Item",
+            "itemTypeResolver": {
+              "resolverType": "Fixed",
+              "itemType": "HeroLimitBreak"
+            },
+            "amountResolver": {
+              "resolverType": "WeightedRandom",
+              "amounts": [
+                0,
+                1
+              ],
+              "weights": [
                 913,
                 87
               ]
@@ -10467,266 +10725,8 @@
                 1
               ],
               "weights": [
-                984,
-                16
-              ]
-            },
-            "rarityResolver": {
-              "resolverType": "Fixed",
-              "rarity": 5
-            }
-          },
-          {
-            "type": "Item",
-            "itemTypeResolver": {
-              "resolverType": "Fixed",
-              "itemType": "HeroEmblem"
-            },
-            "amountResolver": {
-              "resolverType": "WeightedRandom",
-              "amounts": [
-                1,
-                2
-              ],
-              "weights": [
-                50,
-                50
-              ]
-            },
-            "rarityResolver": {
-              "resolverType": "Fixed",
-              "rarity": 4
-            }
-          },
-          {
-            "type": "TrainerCharacter",
-            "amountResolver": {
-              "resolverType": "WeightedRandom",
-              "amounts": [
-                0,
-                1
-              ],
-              "weights": [
-                826,
-                174
-              ]
-            },
-            "rarityResolver": {
-              "resolverType": "Fixed",
-              "rarity": 3
-            }
-          }
-        ]
-      },
-      {
-        "id": "loot_monster_island_tier2",
-        "entities": [
-          {
-            "type": "Item",
-            "amountResolver": {
-              "resolverType": "WeightedRandom",
-              "amounts": [
-                4,
-                5
-              ],
-              "weights": [
-                64,
-                36
-              ]
-            },
-            "idResolver": {
-              "resolverType": "Fixed",
-              "entityId": "lottery_monster_island_coin"
-            }
-          },
-          {
-            "type": "Item",
-            "itemTypeResolver": {
-              "resolverType": "Fixed",
-              "itemType": "HeroLimitBreak"
-            },
-            "amountResolver": {
-              "resolverType": "WeightedRandom",
-              "amounts": [
-                0,
-                1
-              ],
-              "weights": [
-                826,
-                174
-              ]
-            },
-            "rarityResolver": {
-              "resolverType": "Fixed",
-              "rarity": 3
-            }
-          },
-          {
-            "type": "Item",
-            "itemTypeResolver": {
-              "resolverType": "Fixed",
-              "itemType": "HeroLimitBreak"
-            },
-            "amountResolver": {
-              "resolverType": "WeightedRandom",
-              "amounts": [
-                0,
-                1
-              ],
-              "weights": [
-                913,
-                87
-              ]
-            },
-            "rarityResolver": {
-              "resolverType": "Fixed",
-              "rarity": 4
-            }
-          },
-          {
-            "type": "Item",
-            "itemTypeResolver": {
-              "resolverType": "Fixed",
-              "itemType": "HeroLimitBreak"
-            },
-            "amountResolver": {
-              "resolverType": "WeightedRandom",
-              "amounts": [
-                0,
-                1
-              ],
-              "weights": [
-                967,
-                33
-              ]
-            },
-            "rarityResolver": {
-              "resolverType": "Fixed",
-              "rarity": 5
-            }
-          },
-          {
-            "type": "Item",
-            "itemTypeResolver": {
-              "resolverType": "Fixed",
-              "itemType": "HeroEmblem"
-            },
-            "amountResolver": {
-              "resolverType": "WeightedRandom",
-              "amounts": [
-                2,
-                3
-              ],
-              "weights": [
-                87,
-                13
-              ]
-            },
-            "rarityResolver": {
-              "resolverType": "Fixed",
-              "rarity": 4
-            }
-          },
-          {
-            "type": "TrainerCharacter",
-            "amountResolver": {
-              "resolverType": "WeightedRandom",
-              "amounts": [
-                0,
-                1
-              ],
-              "weights": [
-                826,
-                174
-              ]
-            },
-            "rarityResolver": {
-              "resolverType": "Fixed",
-              "rarity": 3
-            }
-          }
-        ]
-      },
-      {
-        "id": "loot_monster_island_tier3",
-        "entities": [
-          {
-            "type": "Item",
-            "amountResolver": {
-              "resolverType": "WeightedRandom",
-              "amounts": [
-                8,
-                9
-              ],
-              "weights": [
-                30,
-                70
-              ]
-            },
-            "idResolver": {
-              "resolverType": "Fixed",
-              "entityId": "lottery_monster_island_coin"
-            }
-          },
-          {
-            "type": "Item",
-            "itemTypeResolver": {
-              "resolverType": "Fixed",
-              "itemType": "HeroLimitBreak"
-            },
-            "amountResolver": {
-              "resolverType": "WeightedRandom",
-              "amounts": [
-                0,
-                1
-              ],
-              "weights": [
-                652,
-                348
-              ]
-            },
-            "rarityResolver": {
-              "resolverType": "Fixed",
-              "rarity": 3
-            }
-          },
-          {
-            "type": "Item",
-            "itemTypeResolver": {
-              "resolverType": "Fixed",
-              "itemType": "HeroLimitBreak"
-            },
-            "amountResolver": {
-              "resolverType": "WeightedRandom",
-              "amounts": [
-                0,
-                1
-              ],
-              "weights": [
-                826,
-                174
-              ]
-            },
-            "rarityResolver": {
-              "resolverType": "Fixed",
-              "rarity": 4
-            }
-          },
-          {
-            "type": "Item",
-            "itemTypeResolver": {
-              "resolverType": "Fixed",
-              "itemType": "HeroLimitBreak"
-            },
-            "amountResolver": {
-              "resolverType": "WeightedRandom",
-              "amounts": [
-                0,
-                1
-              ],
-              "weights": [
-                935,
-                65
+                978,
+                22
               ]
             },
             "rarityResolver": {
@@ -10758,8 +10758,8 @@
                 1
               ],
               "weights": [
-                83,
-                17
+                913,
+                87
               ]
             },
             "rarityResolver": {
@@ -34786,8 +34786,8 @@
                 1
               ],
               "weights": [
-                304,
-                696
+                826,
+                174
               ]
             },
             "rarityResolver": {
@@ -34808,8 +34808,8 @@
                 1
               ],
               "weights": [
-                652,
-                348
+                913,
+                87
               ]
             },
             "rarityResolver": {
@@ -34830,8 +34830,8 @@
                 1
               ],
               "weights": [
-                87,
-                13
+                957,
+                43
               ]
             },
             "rarityResolver": {
@@ -34870,8 +34870,8 @@
                 1
               ],
               "weights": [
-                83,
-                17
+                913,
+                87
               ]
             },
             "rarityResolver": {
@@ -36726,6 +36726,121 @@
         ]
       },
       {
+        "id": "Starved Storage of Rods",
+        "entities": [
+          {
+            "type": "Item",
+            "idResolver": {
+              "resolverType": "WeightedRandom",
+              "entityIds": [
+                "",
+                "hero_limitbreak_rare_red",
+                "hero_limitbreak_epic_red",
+                "hero_limitbreak_legendary_red"
+              ],
+              "weights": [
+                99175,
+                515,
+                285,
+                25
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "id": "Starved Storage of Rods",
+        "entities": [
+          {
+            "type": "Item",
+            "idResolver": {
+              "resolverType": "WeightedRandom",
+              "entityIds": [
+                "",
+                "hero_limitbreak_rare_green",
+                "hero_limitbreak_epic_green",
+                "hero_limitbreak_legendary_green"
+              ],
+              "weights": [
+                99175,
+                515,
+                285,
+                25
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "id": "Starved Storage of Rods",
+        "entities": [
+          {
+            "type": "Item",
+            "idResolver": {
+              "resolverType": "WeightedRandom",
+              "entityIds": [
+                "",
+                "hero_limitbreak_rare_blue",
+                "hero_limitbreak_epic_blue",
+                "hero_limitbreak_legendary_blue"
+              ],
+              "weights": [
+                99175,
+                515,
+                285,
+                25
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "id": "Starved Storage of Rods",
+        "entities": [
+          {
+            "type": "Item",
+            "idResolver": {
+              "resolverType": "WeightedRandom",
+              "entityIds": [
+                "",
+                "hero_limitbreak_rare_purple",
+                "hero_limitbreak_epic_purple",
+                "hero_limitbreak_legendary_purple"
+              ],
+              "weights": [
+                99175,
+                515,
+                285,
+                25
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "id": "Starved Storage of Rods",
+        "entities": [
+          {
+            "type": "Item",
+            "idResolver": {
+              "resolverType": "WeightedRandom",
+              "entityIds": [
+                "",
+                "hero_limitbreak_rare_yellow",
+                "hero_limitbreak_epic_yellow",
+                "hero_limitbreak_legendary_yellow"
+              ],
+              "weights": [
+                99175,
+                515,
+                285,
+                25
+              ]
+            }
+          }
+        ]
+      },
+      {
         "id": "Trove of the Tiny Teeth",
         "entities": [
           {
@@ -36873,6 +36988,186 @@
                 3,
                 3
               ]
+            }
+          }
+        ]
+      },
+      {
+        "id": "pvp_rules_chest_reward_100",
+        "entities": [
+          {
+            "type": "Resource",
+            "resourceResolver": {
+              "resolverType": "Fixed",
+              "resourceType": "Gems"
+            },
+            "amountResolver": {
+              "resolverType": "WeightedRandom",
+              "amounts": [
+                20,
+                30,
+                40,
+                50
+              ],
+              "weights": [
+                10,
+                40,
+                20,
+                10
+              ]
+            }
+          },
+          {
+            "type": "Item",
+            "amountResolver": {
+              "resolverType": "WeightedRandom",
+              "amounts": [
+                0,
+                3,
+                6
+              ],
+              "weights": [
+                625,
+                3750,
+                5625
+              ]
+            },
+            "idResolver": {
+              "resolverType": "Fixed",
+              "entityId": "misc_loot_ticket"
+            }
+          },
+          {
+            "type": "Item",
+            "idResolver": {
+              "resolverType": "WeightedRandom",
+              "entityIds": [
+                "refill_energy_pve_full",
+                "refill_energy_pvp_full",
+                "refill_energy_alliance_full"
+              ],
+              "weights": [
+                1,
+                1,
+                1
+              ]
+            },
+            "additionalDrawCount": 1
+          },
+          {
+            "type": "TrainerCharacter",
+            "amountResolver": {
+              "resolverType": "WeightedRandom",
+              "amounts": [
+                0,
+                1
+              ],
+              "weights": [
+                50,
+                50
+              ]
+            },
+            "idResolver": {
+              "resolverType": "WeightedRandom",
+              "entityIds": [
+                "trainer_rainbow_common",
+                "trainer_rainbow_uncommon"
+              ],
+              "weights": [
+                80,
+                20
+              ]
+            },
+            "additionalDrawCount": 2
+          },
+          {
+            "type": "Item",
+            "itemTypeResolver": {
+              "resolverType": "Fixed",
+              "itemType": "HeroLimitBreak"
+            },
+            "amountResolver": {
+              "resolverType": "Fixed",
+              "amount": 3
+            },
+            "rarityResolver": {
+              "resolverType": "Fixed",
+              "rarity": 3
+            },
+            "additionalDrawCount": 3
+          },
+          {
+            "type": "Item",
+            "itemTypeResolver": {
+              "resolverType": "Fixed",
+              "itemType": "HeroLimitBreak"
+            },
+            "amountResolver": {
+              "resolverType": "Fixed",
+              "amount": 2
+            },
+            "rarityResolver": {
+              "resolverType": "Fixed",
+              "rarity": 4
+            },
+            "additionalDrawCount": 1
+          },
+          {
+            "type": "Item",
+            "itemTypeResolver": {
+              "resolverType": "Fixed",
+              "itemType": "HeroLimitBreak"
+            },
+            "amountResolver": {
+              "resolverType": "Fixed",
+              "amount": 1
+            },
+            "rarityResolver": {
+              "resolverType": "Fixed",
+              "rarity": 5
+            }
+          },
+          {
+            "type": "Item",
+            "idResolver": {
+              "resolverType": "WeightedRandom",
+              "entityIds": [
+                "refill_food_medium",
+                "refill_food_large",
+                "refill_food_giant"
+              ],
+              "weights": [
+                1,
+                1,
+                1
+              ]
+            }
+          },
+          {
+            "type": "Item",
+            "idResolver": {
+              "resolverType": "WeightedRandom",
+              "entityIds": [
+                "refill_iron_medium",
+                "refill_iron_large",
+                "refill_iron_giant"
+              ],
+              "weights": [
+                1,
+                1,
+                1
+              ]
+            }
+          },
+          {
+            "type": "Item",
+            "amountResolver": {
+              "resolverType": "Fixed",
+              "amount": 15
+            },
+            "idResolver": {
+              "resolverType": "Fixed",
+              "entityId": "lottery_elite_hero"
             }
           }
         ]
@@ -38582,6 +38877,7 @@
         "occurrenceType": "ExclusiveOnly"
       }
     ],
+    "guaranteedPoolLoots": [],
     "monstersLoot": [
       {
         "id": "s2_aftermath_rare_yellow",
@@ -38630,6 +38926,13 @@
           0,
           0,
           0
+        ],
+        "seasonalSpiritsWeights": [
+          0,
+          0,
+          0,
+          0,
+          0
         ]
       },
       {
@@ -38672,6 +38975,13 @@
           0
         ],
         "ancientDragonCoinsWeights": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "seasonalSpiritsWeights": [
           0,
           0,
           0,
@@ -38726,6 +39036,13 @@
           0,
           0,
           0
+        ],
+        "seasonalSpiritsWeights": [
+          0,
+          0,
+          0,
+          0,
+          0
         ]
       },
       {
@@ -38770,6 +39087,13 @@
           25
         ],
         "ancientDragonCoinsWeights": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "seasonalSpiritsWeights": [
           0,
           0,
           0,
@@ -38824,6 +39148,13 @@
           0,
           0,
           0
+        ],
+        "seasonalSpiritsWeights": [
+          0,
+          0,
+          0,
+          0,
+          0
         ]
       },
       {
@@ -38873,6 +39204,13 @@
           0,
           0,
           0
+        ],
+        "seasonalSpiritsWeights": [
+          0,
+          0,
+          0,
+          0,
+          0
         ]
       },
       {
@@ -38916,6 +39254,68 @@
           0
         ],
         "ancientDragonCoinsWeights": [
+          0,
+          0,
+          0,
+          1,
+          0
+        ],
+        "seasonalSpiritsWeights": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "id": "seasonal_rare_halloween",
+        "seasonalSpiritItemId": "lottery_seasonal_summon_spirit_halloween",
+        "mapSeasonCoinsWeights": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "challengeCoinsWeights": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "craftingItemsWeights": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "epicHeroClassEmblemsWeights": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "resourceBundlesWeights": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "ancientDragonCoinsWeights": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "seasonalSpiritsWeights": [
           0,
           0,
           0,
@@ -38971,6 +39371,13 @@
           0,
           0,
           0
+        ],
+        "seasonalSpiritsWeights": [
+          0,
+          0,
+          0,
+          0,
+          0
         ]
       },
       {
@@ -39020,6 +39427,13 @@
           0,
           0,
           0
+        ],
+        "seasonalSpiritsWeights": [
+          0,
+          0,
+          0,
+          0,
+          0
         ]
       },
       {
@@ -39063,6 +39477,13 @@
           0
         ],
         "ancientDragonCoinsWeights": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "seasonalSpiritsWeights": [
           0,
           0,
           0,
@@ -39117,6 +39538,13 @@
           0,
           0,
           0
+        ],
+        "seasonalSpiritsWeights": [
+          0,
+          0,
+          0,
+          0,
+          0
         ]
       },
       {
@@ -39161,6 +39589,13 @@
           0
         ],
         "ancientDragonCoinsWeights": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "seasonalSpiritsWeights": [
           0,
           0,
           0,
@@ -41435,5 +41870,5 @@
       }
     ]
   },
-  "lootsConfigId": 556065265
+  "lootsConfigId": 315650038
 }

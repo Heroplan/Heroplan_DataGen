@@ -39784,5 +39784,30 @@ window.allHeroesExtra = [
             "resist_frost_with_health_boost_and_mana"
         ],
         "family": "myrkheim"
+    },
+    {
+        "name": "Lyria",
+        "fancy name": "Exceptionally Eager Instrumentalist",
+        "element": "Yellow",
+        "rarity": 5,
+        "class": "Fighter",
+        "speed": "very_fast",
+        "Release date": "2025-10-06",
+        "AetherPower": "Special Boost",
+        "skill_types": [
+            "Snipers",
+            "Bypassers",
+            "Extra Damage Dealers",
+            "Dodgers"
+        ],
+        "heroId": "bard_lyria",
+        "baseAttack": 623,
+        "baseDefense": 611,
+        "baseHealth": 1099,
+        "specialId": "rushed_melody",
+        "passiveSkills": [
+            "revival_chance_modifier_all_enemies"
+        ],
+        "family": "bard"
     }
 ];

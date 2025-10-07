@@ -55,14 +55,102 @@
         "Lottery_Only":1
     },
     {
-        "name": "Lyria",
-        "fancy_name": "Exceptionally Eager Instrumentalist",
+        "name": "Quintus C4",
+        "fancy_name": "Glass Scientist",
+        "color": "Purple",
+        "Release date": "",
+        "star": 5,
+        "family": "classic",
+        "costume_id": 4,
+        "heroId": "cultist_inventor_costume_glass",
+        "Lottery_Only":1
+    },
+    {
+        "name": "Furgeant",
+        "fancy_name": "The Juggermoth",
         "color": "Yellow",
         "Release date": "",
         "star": 5,
-        "family": "bard",
+        "family": "moths",
         "costume_id": 0,
-        "heroId": "bard_lyria",
+        "heroId": "moth_furgeant",
+        "Lottery_Only":1
+    },
+    {
+        "name": "Guillemette",
+        "fancy_name": "Sanguine Crusader",
+        "color": "Yellow",
+        "Release date": "",
+        "star": 5,
+        "family": "fleur_de_sang",
+        "costume_id": 0,
+        "heroId": "fleur_guillemette",
+        "Lottery_Only":1
+    },
+    {
+        "name": "Elyzabel de Tuillières",
+        "fancy_name": "Sanguine Countess",
+        "color": "Red",
+        "Release date": "",
+        "star": 5,
+        "family": "fleur_de_sang",
+        "costume_id": 0,
+        "heroId": "fleur_elyzabel",
+        "Lottery_Only":1
+    },
+    {
+        "name": "Ludovico",
+        "fancy_name": "Sanguine Steward",
+        "color": "Blue",
+        "Release date": "",
+        "star": 5,
+        "family": "fleur_de_sang",
+        "costume_id": 0,
+        "heroId": "fleur_ludovico",
+        "Lottery_Only":1
+    },
+    {
+        "name": "Edwin C1",
+        "fancy_name": "The Backstabbing Butler",
+        "color": "Green",
+        "Release date": "",
+        "star": 5,
+        "family": "halloween",
+        "costume_id": 1,
+        "heroId": "halloween_edwin_costume_mafia",
+        "Lottery_Only":1
+    },
+    {
+        "name": "Hortensia",
+        "fancy_name": "Fosterer of Flytraps",
+        "color": "Green",
+        "Release date": "",
+        "star": 5,
+        "family": "halloween",
+        "costume_id": 0,
+        "heroId": "halloween_hortensia",
+        "Lottery_Only":1
+    },
+    {
+        "name": "Talésie",
+        "fancy_name": "Sanguine Assassin",
+        "color": "Purple",
+        "Release date": "",
+        "star": 4,
+        "family": "fleur_de_sang",
+        "costume_id": 0,
+        "heroId": "fleur_talesie",
+        "Lottery_Only":1
+    },
+    {
+        "name": "Talésie",
+        "fancy_name": "Sanguine Scion",
+        "color": "Green",
+        "Release date": "",
+        "star": 3,
+        "family": "fleur_de_sang",
+        "costume_id": 0,
+        "heroId": "fleur_eumachius",
         "Lottery_Only":1
     }
 ]

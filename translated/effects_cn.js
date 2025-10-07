@@ -13882,6 +13882,16 @@ const translatedEffectsCN =
     },
     {
         "originalIndex": 1440,
+        "name": "Lyria",
+        "effects": [
+            "对目标造成 475% 伤害。",
+            "攻击会无视防御增益。（包括反击）",
+            "施法者下一次使用特殊技能时，其特殊技能的威力会增加 +40%，之后每回合都会额外增加 +40%，最多加到 +160%。",
+            "施法者有 +45% 的几率闪避可造成伤害的特殊技能，持续 2 回合。"
+        ]
+    },
+    {
+        "originalIndex": 1441,
         "name": "Malin",
         "effects": [
             "对所有敌人造成 325% 伤害。",
@@ -13892,7 +13902,7 @@ const translatedEffectsCN =
         ]
     },
     {
-        "originalIndex": 1441,
+        "originalIndex": 1442,
         "name": "Malosi",
         "effects": [
             "对目标造成 400% 伤害。",
@@ -13901,7 +13911,7 @@ const translatedEffectsCN =
         ]
     },
     {
-        "originalIndex": 1442,
+        "originalIndex": 1443,
         "name": "Matilda",
         "effects": [
             "所有敌人在 3 回合内受到共计 330 点剧毒伤害。",
@@ -13913,7 +13923,7 @@ const translatedEffectsCN =
         ]
     },
     {
-        "originalIndex": 1443,
+        "originalIndex": 1444,
         "name": "May",
         "effects": [
             "成长：所有盟友获得 150 点攻击力和 150 点防御。",
@@ -13923,7 +13933,7 @@ const translatedEffectsCN =
         ]
     },
     {
-        "originalIndex": 1444,
+        "originalIndex": 1445,
         "name": "Meg Giry",
         "effects": [
             "为所有盟友恢复 60% 生命值。",
@@ -13933,7 +13943,7 @@ const translatedEffectsCN =
         ]
     },
     {
-        "originalIndex": 1445,
+        "originalIndex": 1446,
         "name": "Melodymuse",
         "effects": [
             "提高所有盟友 710 点生命值。提高的生命值可以超过最大生命值。",
@@ -13941,7 +13951,7 @@ const translatedEffectsCN =
         ]
     },
     {
-        "originalIndex": 1446,
+        "originalIndex": 1447,
         "name": "Meresankh",
         "effects": [
             "对所有敌人造成 130% 伤害。",
@@ -13951,7 +13961,7 @@ const translatedEffectsCN =
         ]
     },
     {
-        "originalIndex": 1447,
+        "originalIndex": 1448,
         "name": "Meresankh C1",
         "effects": [
             "对所有敌人造成 180% 伤害。",
@@ -13961,7 +13971,7 @@ const translatedEffectsCN =
         ]
     },
     {
-        "originalIndex": 1448,
+        "originalIndex": 1449,
         "name": "Mica",
         "effects": [
             "1 倍法力充能：",
@@ -13979,7 +13989,7 @@ const translatedEffectsCN =
         ]
     },
     {
-        "originalIndex": 1449,
+        "originalIndex": 1450,
         "name": "Moonbell",
         "effects": [
             "为每位盟友召唤一个星界小兵，其可从施法者处继承 35% 生命和 39% 攻击力。",
@@ -13989,7 +13999,7 @@ const translatedEffectsCN =
         ]
     },
     {
-        "originalIndex": 1450,
+        "originalIndex": 1451,
         "name": "Motega",
         "effects": [
             "当特殊技能充能至 100% / 200% 法力时将拥有不同的效果：",
@@ -14004,7 +14014,7 @@ const translatedEffectsCN =
         ]
     },
     {
-        "originalIndex": 1451,
+        "originalIndex": 1452,
         "name": "Mother Lemminkainen",
         "effects": [
             "每名被击败的盟友有 60% 的几率以 20% 的生命值复活。",
@@ -14013,7 +14023,7 @@ const translatedEffectsCN =
         ]
     },
     {
-        "originalIndex": 1452,
+        "originalIndex": 1453,
         "name": "Motsognir",
         "effects": [
             "所有盟友获得一个霜降守卫，持续 4 回合。它可使所受的特殊技能伤害降低最多 -1400 点。当攻击者为烈火系元素时，可额外降低 30% 的伤害。",
@@ -14023,7 +14033,7 @@ const translatedEffectsCN =
         ]
     },
     {
-        "originalIndex": 1453,
+        "originalIndex": 1454,
         "name": "Musashi",
         "effects": [
             "对目标造成 362% 伤害，并对附近敌人造成轻微伤害。",
@@ -14032,7 +14042,7 @@ const translatedEffectsCN =
         ]
     },
     {
-        "originalIndex": 1454,
+        "originalIndex": 1455,
         "name": "Musashi C1",
         "effects": [
             "对目标造成 350% 伤害，并对附近敌人造成轻微伤害。",
@@ -14041,7 +14051,7 @@ const translatedEffectsCN =
         ]
     },
     {
-        "originalIndex": 1455,
+        "originalIndex": 1456,
         "name": "Neith",
         "effects": [
             "对所有敌人造成 200% 伤害。",
@@ -14051,7 +14061,7 @@ const translatedEffectsCN =
         ]
     },
     {
-        "originalIndex": 1456,
+        "originalIndex": 1457,
         "name": "Nemesis",
         "effects": [
             "当特殊技能充能至 100% / 200% / 300% 法力时将拥有不同的效果：",
@@ -14068,7 +14078,7 @@ const translatedEffectsCN =
         ]
     },
     {
-        "originalIndex": 1457,
+        "originalIndex": 1458,
         "name": "Nithgaest",
         "effects": [
             "对目标及附近敌人造成 335% 伤害。",
@@ -14077,7 +14087,7 @@ const translatedEffectsCN =
         ]
     },
     {
-        "originalIndex": 1458,
+        "originalIndex": 1459,
         "name": "Norns",
         "effects": [
             "对目标及附近敌人造成 280% 伤害。",
@@ -14085,7 +14095,7 @@ const translatedEffectsCN =
         ]
     },
     {
-        "originalIndex": 1459,
+        "originalIndex": 1460,
         "name": "Norns C1",
         "effects": [
             "对目标及附近敌人造成 300% 伤害。",
@@ -14093,7 +14103,7 @@ const translatedEffectsCN =
         ]
     },
     {
-        "originalIndex": 1460,
+        "originalIndex": 1461,
         "name": "Odin",
         "effects": [
             "对所有敌人造成 100% 伤害。",
@@ -14102,7 +14112,7 @@ const translatedEffectsCN =
         ]
     },
     {
-        "originalIndex": 1461,
+        "originalIndex": 1462,
         "name": "Odin C1",
         "effects": [
             "对所有敌人造成 90% 伤害。",
@@ -14111,7 +14121,7 @@ const translatedEffectsCN =
         ]
     },
     {
-        "originalIndex": 1462,
+        "originalIndex": 1463,
         "name": "Ogima",
         "effects": [
             "摧毁全部敌人的全部小兵并对所有巨大体型小兵造成伤害。",
@@ -14121,7 +14131,7 @@ const translatedEffectsCN =
         ]
     },
     {
-        "originalIndex": 1463,
+        "originalIndex": 1464,
         "name": "Onatel",
         "effects": [
             "对目标及附近敌人造成 330% 伤害。",
@@ -14130,7 +14140,7 @@ const translatedEffectsCN =
         ]
     },
     {
-        "originalIndex": 1464,
+        "originalIndex": 1465,
         "name": "Papyros",
         "effects": [
             "沙魔像小兵可从施法者处继承 14% 生命和 18% 攻击力。沙魔像小兵每次受到普通攻击或特殊技能攻击时，攻击者将在 3 回合内受到共计 294 点沙系伤害。",
@@ -14138,7 +14148,7 @@ const translatedEffectsCN =
         ]
     },
     {
-        "originalIndex": 1465,
+        "originalIndex": 1466,
         "name": "Papyros C1",
         "effects": [
             "为每位盟友召唤一个沙魔像小兵，其可从施法者处继承 20% 生命和 25% 攻击力。",
@@ -14147,7 +14157,7 @@ const translatedEffectsCN =
         ]
     },
     {
-        "originalIndex": 1466,
+        "originalIndex": 1467,
         "name": "Penolite",
         "effects": [
             "对所有敌人造成 245% 伤害。",
@@ -14156,7 +14166,7 @@ const translatedEffectsCN =
         ]
     },
     {
-        "originalIndex": 1467,
+        "originalIndex": 1468,
         "name": "Persa",
         "effects": [
             "必须连续使用特殊技能才能达到其最大威力，顺序为：",
@@ -14171,7 +14181,7 @@ const translatedEffectsCN =
         ]
     },
     {
-        "originalIndex": 1468,
+        "originalIndex": 1469,
         "name": "Persa C1",
         "effects": [
             "必须连续使用特殊技能才能达到其最大威力，顺序为：",
@@ -14186,7 +14196,7 @@ const translatedEffectsCN =
         ]
     },
     {
-        "originalIndex": 1469,
+        "originalIndex": 1470,
         "name": "Pertinax",
         "effects": [
             "使用月出闪袭攻击目标和附近敌人，造成最多 1620 点伤害。若目标为神圣系元素则额外造成 40% 伤害。该特殊技能必定命中。",
@@ -14197,7 +14207,7 @@ const translatedEffectsCN =
         ]
     },
     {
-        "originalIndex": 1470,
+        "originalIndex": 1471,
         "name": "Philomena",
         "effects": [
             "对目标造成 500% 伤害，并对附近敌人造成轻微伤害。",
@@ -14206,7 +14216,7 @@ const translatedEffectsCN =
         ]
     },
     {
-        "originalIndex": 1471,
+        "originalIndex": 1472,
         "name": "Poseidon",
         "effects": [
             "对目标造成 450% 伤害。",
@@ -14215,7 +14225,7 @@ const translatedEffectsCN =
         ]
     },
     {
-        "originalIndex": 1472,
+        "originalIndex": 1473,
         "name": "Poseidon C1",
         "effects": [
             "对目标造成 480% 伤害。",
@@ -14223,7 +14233,7 @@ const translatedEffectsCN =
         ]
     },
     {
-        "originalIndex": 1473,
+        "originalIndex": 1474,
         "name": "Prof. Lidenbrock",
         "effects": [
             "净化所有盟友的状态异常。",
@@ -14232,7 +14242,7 @@ const translatedEffectsCN =
         ]
     },
     {
-        "originalIndex": 1474,
+        "originalIndex": 1475,
         "name": "Prof. Lidenbrock C1",
         "effects": [
             "净化所有盟友的状态异常。",
@@ -14241,7 +14251,7 @@ const translatedEffectsCN =
         ]
     },
     {
-        "originalIndex": 1475,
+        "originalIndex": 1476,
         "name": "Queen Guowang",
         "effects": [
             "对所有敌人造成 330% 伤害。",
@@ -14250,7 +14260,7 @@ const translatedEffectsCN =
         ]
     },
     {
-        "originalIndex": 1476,
+        "originalIndex": 1477,
         "name": "Rana",
         "effects": [
             "对目标及附近敌人造成 185% 伤害。",
@@ -14260,7 +14270,7 @@ const translatedEffectsCN =
         ]
     },
     {
-        "originalIndex": 1477,
+        "originalIndex": 1478,
         "name": "Rana C1",
         "effects": [
             "对目标及附近敌人造成 185% 伤害。",
@@ -14270,7 +14280,7 @@ const translatedEffectsCN =
         ]
     },
     {
-        "originalIndex": 1478,
+        "originalIndex": 1479,
         "name": "Ranvir",
         "effects": [
             "对目标造成 265% 伤害。",
@@ -14279,7 +14289,7 @@ const translatedEffectsCN =
         ]
     },
     {
-        "originalIndex": 1479,
+        "originalIndex": 1480,
         "name": "Ratgrub",
         "effects": [
             "召唤一个鼠公主超级小兵，其可从施法者处继承 35% 生命值和 160% 攻击力。",
@@ -14287,7 +14297,7 @@ const translatedEffectsCN =
         ]
     },
     {
-        "originalIndex": 1480,
+        "originalIndex": 1481,
         "name": "Rhys",
         "effects": [
             "提高所有盟友 320 点生命值。提高的生命值可以超过最大生命值。",
@@ -14297,7 +14307,7 @@ const translatedEffectsCN =
         ]
     },
     {
-        "originalIndex": 1481,
+        "originalIndex": 1482,
         "name": "Roc",
         "effects": [
             "所有敌人在 3 回合内受到共计 324 点沙系伤害。",
@@ -14306,7 +14316,7 @@ const translatedEffectsCN =
         ]
     },
     {
-        "originalIndex": 1482,
+        "originalIndex": 1483,
         "name": "Roc C1",
         "effects": [
             "所有敌人在 4 回合内受到共计 780 点沙系伤害。",
@@ -14315,7 +14325,7 @@ const translatedEffectsCN =
         ]
     },
     {
-        "originalIndex": 1483,
+        "originalIndex": 1484,
         "name": "Rosalind",
         "effects": [
             "为所有盟友恢复 30% 生命值。",
@@ -14325,7 +14335,7 @@ const translatedEffectsCN =
         ]
     },
     {
-        "originalIndex": 1484,
+        "originalIndex": 1485,
         "name": "Ruan Xiaoqi",
         "effects": [
             "此特殊技能有几率造成暴击。（造成暴击的几率取决于英雄在造成伤害时的总暴击几率。此特殊技能造成的暴击会额外造成 50% 伤害。暴击可以减少PvP战斗中敌人的最大生命值。此效果对拥有生命加成的目标更强）",
@@ -14335,7 +14345,7 @@ const translatedEffectsCN =
         ]
     },
     {
-        "originalIndex": 1485,
+        "originalIndex": 1486,
         "name": "Salniss",
         "effects": [
             "对目标造成 500% 伤害。",
@@ -14345,7 +14355,7 @@ const translatedEffectsCN =
         ]
     },
     {
-        "originalIndex": 1486,
+        "originalIndex": 1487,
         "name": "Satinpimenter",
         "effects": [
             "驱散目标和附近敌人身上的增益。",
@@ -14355,7 +14365,7 @@ const translatedEffectsCN =
         ]
     },
     {
-        "originalIndex": 1487,
+        "originalIndex": 1488,
         "name": "Scrollbeast",
         "effects": [
             "对所有敌人造成 365% 伤害。",
@@ -14365,7 +14375,7 @@ const translatedEffectsCN =
         ]
     },
     {
-        "originalIndex": 1488,
+        "originalIndex": 1489,
         "name": "Shaal",
         "effects": [
             "对所有敌人造成 340% 伤害。",
@@ -14375,7 +14385,7 @@ const translatedEffectsCN =
         ]
     },
     {
-        "originalIndex": 1489,
+        "originalIndex": 1490,
         "name": "Shimmerscale",
         "effects": [
             "对目标及附近敌人造成 300% 伤害。",
@@ -14384,7 +14394,7 @@ const translatedEffectsCN =
         ]
     },
     {
-        "originalIndex": 1490,
+        "originalIndex": 1491,
         "name": "Sif",
         "effects": [
             "施法者和附近盟友以所受伤害的 100% 进行反击，持续 4 回合。",
@@ -14393,7 +14403,7 @@ const translatedEffectsCN =
         ]
     },
     {
-        "originalIndex": 1491,
+        "originalIndex": 1492,
         "name": "Sif C1",
         "effects": [
             "使施法者和附近盟友的法力增加 15%。",
@@ -14402,7 +14412,7 @@ const translatedEffectsCN =
         ]
     },
     {
-        "originalIndex": 1492,
+        "originalIndex": 1493,
         "name": "Silverpaw",
         "effects": [
             "从目标处偷取小兵和超级小兵。",
@@ -14411,7 +14421,7 @@ const translatedEffectsCN =
         ]
     },
     {
-        "originalIndex": 1493,
+        "originalIndex": 1494,
         "name": "Sir Roostley",
         "effects": [
             "对目标造成 310% 伤害。",
@@ -14420,7 +14430,7 @@ const translatedEffectsCN =
         ]
     },
     {
-        "originalIndex": 1494,
+        "originalIndex": 1495,
         "name": "Sludgus",
         "effects": [
             "为所有盟友恢复 50% 生命值。",
@@ -14431,7 +14441,7 @@ const translatedEffectsCN =
         ]
     },
     {
-        "originalIndex": 1495,
+        "originalIndex": 1496,
         "name": "Stravia",
         "effects": [
             "对所有敌人造成 170% 抓挠伤害。（对拥有任意防御增益、小兵或超级小兵的敌人造成 255% 伤害。拥有任意防御增益、小兵或超级小兵的敌人获得 -35% 防御，持续 6 回合。）",
@@ -14441,7 +14451,7 @@ const translatedEffectsCN =
         ]
     },
     {
-        "originalIndex": 1496,
+        "originalIndex": 1497,
         "name": "Tang Sanzang",
         "effects": [
             "提高所有盟友 500 点生命值。提高的生命值可以超过最大生命值。",
@@ -14450,7 +14460,7 @@ const translatedEffectsCN =
         ]
     },
     {
-        "originalIndex": 1497,
+        "originalIndex": 1498,
         "name": "Thor",
         "effects": [
             "特殊技能连续使用会有不同的效果，顺序为：",
@@ -14466,7 +14476,7 @@ const translatedEffectsCN =
         ]
     },
     {
-        "originalIndex": 1498,
+        "originalIndex": 1499,
         "name": "Thor C1",
         "effects": [
             "特殊技能连续使用会有不同的效果，顺序为：",
@@ -14482,7 +14492,7 @@ const translatedEffectsCN =
         ]
     },
     {
-        "originalIndex": 1499,
+        "originalIndex": 1500,
         "name": "Thunderclap",
         "effects": [
             "施法者获得嘲讽，可阻止敌人对其盟友使用特殊技能，持续 5 回合。",
@@ -14492,7 +14502,7 @@ const translatedEffectsCN =
         ]
     },
     {
-        "originalIndex": 1500,
+        "originalIndex": 1501,
         "name": "Thura",
         "effects": [
             "对目标及附近敌人造成 355% 伤害。",
@@ -14502,7 +14512,7 @@ const translatedEffectsCN =
         ]
     },
     {
-        "originalIndex": 1501,
+        "originalIndex": 1502,
         "name": "Topaz",
         "effects": [
             "当特殊技能充能至 100% / 200% / 300% 法力时将拥有不同的效果：",
@@ -14521,7 +14531,7 @@ const translatedEffectsCN =
         ]
     },
     {
-        "originalIndex": 1502,
+        "originalIndex": 1503,
         "name": "Uraeus",
         "effects": [
             "对目标造成 585% 伤害。",
@@ -14531,7 +14541,7 @@ const translatedEffectsCN =
         ]
     },
     {
-        "originalIndex": 1503,
+        "originalIndex": 1504,
         "name": "Vaishali",
         "effects": [
             "当特殊技能充能至 100% / 200% 法力时将拥有不同的效果：",
@@ -14546,7 +14556,7 @@ const translatedEffectsCN =
         ]
     },
     {
-        "originalIndex": 1504,
+        "originalIndex": 1505,
         "name": "Vaishali C1",
         "effects": [
             "当特殊技能充能至 100% / 200% 法力时将拥有不同的效果：",
@@ -14561,7 +14571,7 @@ const translatedEffectsCN =
         ]
     },
     {
-        "originalIndex": 1505,
+        "originalIndex": 1506,
         "name": "Vivica",
         "effects": [
             "为所有盟友恢复 44% 生命值。",
@@ -14570,7 +14580,7 @@ const translatedEffectsCN =
         ]
     },
     {
-        "originalIndex": 1506,
+        "originalIndex": 1507,
         "name": "Vivica C1",
         "effects": [
             "为所有盟友恢复 44% 生命值。",
@@ -14579,7 +14589,7 @@ const translatedEffectsCN =
         ]
     },
     {
-        "originalIndex": 1507,
+        "originalIndex": 1508,
         "name": "Vivica C2",
         "effects": [
             "提高所有盟友 670 点生命值。提高的生命值可以超过最大生命值。",
@@ -14588,7 +14598,7 @@ const translatedEffectsCN =
         ]
     },
     {
-        "originalIndex": 1508,
+        "originalIndex": 1509,
         "name": "Vivica Toon",
         "effects": [
             "为所有盟友恢复 54% 生命值。",
@@ -14597,7 +14607,7 @@ const translatedEffectsCN =
         ]
     },
     {
-        "originalIndex": 1509,
+        "originalIndex": 1510,
         "name": "Vivica Glass",
         "effects": [
             "为所有盟友恢复 55% 生命值。",
@@ -14607,7 +14617,7 @@ const translatedEffectsCN =
         ]
     },
     {
-        "originalIndex": 1510,
+        "originalIndex": 1511,
         "name": "Wayne",
         "effects": [
             "所有敌人在 2 回合内受到共计 284 点流血伤害。施法者会吸收所造成流血伤害的 30% 并转化为生命值。",
@@ -14615,7 +14625,7 @@ const translatedEffectsCN =
         ]
     },
     {
-        "originalIndex": 1511,
+        "originalIndex": 1512,
         "name": "Wealhtheow",
         "effects": [
             "将所有剩余血量低于 50% 的盟友的血量恢复至 50% 生命值。",
@@ -14627,7 +14637,7 @@ const translatedEffectsCN =
         ]
     },
     {
-        "originalIndex": 1512,
+        "originalIndex": 1513,
         "name": "White Rabbit",
         "effects": [
             "对目标及附近敌人造成 280% 伤害。",
@@ -14635,7 +14645,7 @@ const translatedEffectsCN =
         ]
     },
     {
-        "originalIndex": 1513,
+        "originalIndex": 1514,
         "name": "White Rabbit C1",
         "effects": [
             "对目标及附近敌人造成 260% 伤害。",
@@ -14643,7 +14653,7 @@ const translatedEffectsCN =
         ]
     },
     {
-        "originalIndex": 1514,
+        "originalIndex": 1515,
         "name": "Willow",
         "effects": [
             "当特殊技能充能至 100% / 200% 法力时将拥有不同的效果：",
@@ -14658,7 +14668,7 @@ const translatedEffectsCN =
         ]
     },
     {
-        "originalIndex": 1515,
+        "originalIndex": 1516,
         "name": "Winnie",
         "effects": [
             "净化所有盟友的状态异常。",
@@ -14668,7 +14678,7 @@ const translatedEffectsCN =
         ]
     },
     {
-        "originalIndex": 1516,
+        "originalIndex": 1517,
         "name": "Wolfgang",
         "effects": [
             "对所有敌人造成 250% 伤害。",
@@ -14677,7 +14687,7 @@ const translatedEffectsCN =
         ]
     },
     {
-        "originalIndex": 1517,
+        "originalIndex": 1518,
         "name": "Wolfgang C1",
         "effects": [
             "对所有敌人造成 300% 伤害。",
@@ -14686,7 +14696,7 @@ const translatedEffectsCN =
         ]
     },
     {
-        "originalIndex": 1518,
+        "originalIndex": 1519,
         "name": "Wulfstan",
         "effects": [
             "偷走全体敌人的所有可驱散增益并施放给施法者。",
@@ -14695,7 +14705,7 @@ const translatedEffectsCN =
         ]
     },
     {
-        "originalIndex": 1519,
+        "originalIndex": 1520,
         "name": "Xavier",
         "effects": [
             "对目标造成 280% 伤害。",
@@ -14705,7 +14715,7 @@ const translatedEffectsCN =
         ]
     },
     {
-        "originalIndex": 1520,
+        "originalIndex": 1521,
         "name": "Zandria",
         "effects": [
             "对所有敌人造成 210% 伤害。",
@@ -14715,7 +14725,7 @@ const translatedEffectsCN =
         ]
     },
     {
-        "originalIndex": 1521,
+        "originalIndex": 1522,
         "name": "Zazha",
         "effects": [
             "影响所有盟友的攻击、防御和法力生成的所有状态异常将转换为对应的不可驱散增益。（状态效果、家族效果和被动技能不能格挡转换。仅能转换可驱散的状态异常。转换效果:攻击状态异常被转换为 +40% 的攻击增益，持续 4 回合。防御状态异常被转换为 +40% 的防御增益，持续 4 回合。法力生成状态异常被转换为 +40% 的法力生成增益，持续 4 回合.）",
@@ -14724,7 +14734,7 @@ const translatedEffectsCN =
         ]
     },
     {
-        "originalIndex": 1522,
+        "originalIndex": 1523,
         "name": "Zekena",
         "effects": [
             "对目标造成 300% 伤害。",
@@ -14733,7 +14743,7 @@ const translatedEffectsCN =
         ]
     },
     {
-        "originalIndex": 1523,
+        "originalIndex": 1524,
         "name": "Zekena C1",
         "effects": [
             "对目标造成 400% 伤害。",
@@ -14742,7 +14752,7 @@ const translatedEffectsCN =
         ]
     },
     {
-        "originalIndex": 1524,
+        "originalIndex": 1525,
         "name": "Zenuk'wa",
         "effects": [
             "对目标及附近敌人造成 275% 伤害。",
@@ -14751,7 +14761,7 @@ const translatedEffectsCN =
         ]
     },
     {
-        "originalIndex": 1525,
+        "originalIndex": 1526,
         "name": "Zhang Fei",
         "effects": [
             "对目标造成 530% 伤害。",
@@ -14759,7 +14769,7 @@ const translatedEffectsCN =
         ]
     },
     {
-        "originalIndex": 1526,
+        "originalIndex": 1527,
         "name": "Zhang Fei C1",
         "effects": [
             "对目标造成 520% 伤害。",
@@ -14768,7 +14778,7 @@ const translatedEffectsCN =
         ]
     },
     {
-        "originalIndex": 1527,
+        "originalIndex": 1528,
         "name": "Zhuge Liang",
         "effects": [
             "为每位盟友召唤一个蜀军小兵，其可从施法者处继承 16% 生命和 17% 攻击力。",
@@ -14778,7 +14788,7 @@ const translatedEffectsCN =
         ]
     },
     {
-        "originalIndex": 1528,
+        "originalIndex": 1529,
         "name": "Zhuge Liang C1",
         "effects": [
             "为每位盟友召唤一个蜀军小兵，其可从施法者处继承 33% 生命和 33% 攻击力。",
@@ -14788,7 +14798,7 @@ const translatedEffectsCN =
         ]
     },
     {
-        "originalIndex": 1529,
+        "originalIndex": 1530,
         "name": "Zora",
         "effects": [
             "对所有敌人造成 330% 伤害。",
@@ -14798,33 +14808,73 @@ const translatedEffectsCN =
         ]
     },
     {
-        "originalIndex": 1530,
+        "originalIndex": 1531,
         "name": "Zestique",
         "effects": []
     },
     {
-        "originalIndex": 1531,
+        "originalIndex": 1532,
         "name": "Hortensia",
         "effects": []
     },
     {
-        "originalIndex": 1532,
+        "originalIndex": 1533,
         "name": "Guillemette",
         "effects": []
     },
     {
-        "originalIndex": 1533,
+        "originalIndex": 1534,
         "name": "Elyzabel de Tuillieres",
         "effects": []
     },
     {
-        "originalIndex": 1534,
+        "originalIndex": 1535,
         "name": "Ludovico",
         "effects": []
     },
     {
-        "originalIndex": 1535,
-        "name": "Lyria",
+        "originalIndex": 1536,
+        "name": "Quintus C4",
+        "effects": []
+    },
+    {
+        "originalIndex": 1537,
+        "name": "Furgeant",
+        "effects": []
+    },
+    {
+        "originalIndex": 1538,
+        "name": "Guillemette",
+        "effects": []
+    },
+    {
+        "originalIndex": 1539,
+        "name": "Elyzabel de Tuillieres",
+        "effects": []
+    },
+    {
+        "originalIndex": 1540,
+        "name": "Ludovico",
+        "effects": []
+    },
+    {
+        "originalIndex": 1541,
+        "name": "Edwin C1",
+        "effects": []
+    },
+    {
+        "originalIndex": 1542,
+        "name": "Hortensia",
+        "effects": []
+    },
+    {
+        "originalIndex": 1543,
+        "name": "Talesie",
+        "effects": []
+    },
+    {
+        "originalIndex": 1544,
+        "name": "Talesie",
         "effects": []
     }
 ];

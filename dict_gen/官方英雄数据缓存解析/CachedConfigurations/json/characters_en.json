@@ -5114,7 +5114,8 @@
     "aetherGift": "Vampire",
     "rarity": 3,
     "specialId": "lords_blood_poisoning",
-    "origin": "Halloween"
+    "origin": "Halloween",
+    "additionalBattleSpecificHeroEffectOrigin": "Halloween2025"
   },
   "vampire_queen": {
     "id": "Child of Night",
@@ -5131,7 +5132,8 @@
     "aetherGift": "Vampire",
     "rarity": 4,
     "specialId": "queens_blood_poisoning",
-    "origin": "Halloween"
+    "origin": "Halloween",
+    "additionalBattleSpecificHeroEffectOrigin": "Halloween2025"
   },
   "vampire_king": {
     "id": "Vampire King",
@@ -5149,6 +5151,7 @@
     "rarity": 5,
     "specialId": "kings_blood_poisoning",
     "origin": "Halloween",
+    "additionalBattleSpecificHeroEffectOrigin": "Halloween2025",
     "costumeBonusesId": "halloween"
   },
   "fire_god_zimkitha": {
@@ -6835,6 +6838,7 @@
     "specialId": "undead_razer",
     "canBeReceivedDate": "2020-10-26 07:00:00",
     "origin": "Halloween",
+    "additionalBattleSpecificHeroEffectOrigin": "Halloween2025",
     "costumeBonusesId": "halloween"
   },
   "halloween_francine": {
@@ -6854,6 +6858,7 @@
     "specialId": "electric_cut",
     "canBeReceivedDate": "2020-10-26 07:00:00",
     "origin": "Halloween",
+    "additionalBattleSpecificHeroEffectOrigin": "Halloween2025",
     "costumeBonusesId": "halloween"
   },
   "halloween_vanda": {
@@ -6873,6 +6878,7 @@
     "specialId": "twilight_of_sorrow",
     "canBeReceivedDate": "2020-10-26 07:00:00",
     "origin": "Halloween",
+    "additionalBattleSpecificHeroEffectOrigin": "Halloween2025",
     "costumeBonusesId": "halloween"
   },
   "halloween_jack": {
@@ -6891,7 +6897,8 @@
     "rarity": 3,
     "specialId": "explosive_o_lantern",
     "canBeReceivedDate": "2020-10-26 07:00:00",
-    "origin": "Halloween"
+    "origin": "Halloween",
+    "additionalBattleSpecificHeroEffectOrigin": "Halloween2025"
   },
   "christmas_carol": {
     "id": "Santa's Little Helper",
@@ -7962,7 +7969,8 @@
     "rarity": 5,
     "specialId": "charmed_dual_blade",
     "canBeReceivedDate": "2021-09-15 07:00:00",
-    "origin": "Tower of Magic"
+    "origin": "Tower of Magic",
+    "costumeBonusesId": "magic"
   },
   "magic_motega": {
     "id": "Master Groundskeeper",
@@ -9973,7 +9981,8 @@
     "rarity": 5,
     "specialId": "amphibious_assault",
     "canBeReceivedDate": "2022-05-30 07:00:00",
-    "origin": "Atlantis Summon"
+    "origin": "Atlantis Summon",
+    "costumeBonusesId": "atlantis"
   },
   "s2_oceanus": {
     "id": "Titan of Sea",
@@ -9988,7 +9997,8 @@
     "rarity": 5,
     "specialId": "strength_of_the_benemoth",
     "canBeReceivedDate": "2022-06-27 07:00:00",
-    "origin": "Atlantis Summon"
+    "origin": "Atlantis Summon",
+    "costumeBonusesId": "atlantis"
   },
   "dark_god_arfanias": {
     "id": "Shadow Assassin",
@@ -11122,7 +11132,8 @@
     "rarity": 5,
     "specialId": "might_of_excalibroom",
     "canBeReceivedDate": "2023-09-25 07:00:00",
-    "origin": "Halloween"
+    "origin": "Halloween",
+    "additionalBattleSpecificHeroEffectOrigin": "Halloween2025"
   },
   "halloween_edwin": {
     "id": "Cunning Butler",
@@ -11140,7 +11151,9 @@
     "rarity": 5,
     "specialId": "hemlock_tea",
     "canBeReceivedDate": "2023-09-25 07:00:00",
-    "origin": "Halloween"
+    "origin": "Halloween",
+    "additionalBattleSpecificHeroEffectOrigin": "Halloween2025",
+    "costumeBonusesId": "halloween"
   },
   "halloween_amber": {
     "id": "Vampire Blood Warrior",
@@ -11158,7 +11171,8 @@
     "rarity": 5,
     "specialId": "spear_of_blood_pact",
     "canBeReceivedDate": "2023-09-25 07:00:00",
-    "origin": "Halloween"
+    "origin": "Halloween",
+    "additionalBattleSpecificHeroEffectOrigin": "Halloween2025"
   },
   "halloween_alucard": {
     "id": "Vampire Scion",
@@ -11177,6 +11191,7 @@
     "specialId": "vampiric_curse",
     "canBeReceivedDate": "2022-10-03 07:00:00",
     "origin": "Halloween",
+    "additionalBattleSpecificHeroEffectOrigin": "Halloween2025",
     "costumeBonusesId": "halloween"
   },
   "halloween_miriam_and_midnight": {
@@ -11195,7 +11210,8 @@
     "rarity": 5,
     "specialId": "litter_of_kittens",
     "canBeReceivedDate": "2022-10-03 07:00:00",
-    "origin": "Halloween"
+    "origin": "Halloween",
+    "additionalBattleSpecificHeroEffectOrigin": "Halloween2025"
   },
   "halloween_matilda": {
     "id": "Unhallowed Pastry Chef",
@@ -11213,7 +11229,8 @@
     "rarity": 5,
     "specialId": "muffin_poisoning",
     "canBeReceivedDate": "2022-10-03 07:00:00",
-    "origin": "Halloween"
+    "origin": "Halloween",
+    "additionalBattleSpecificHeroEffectOrigin": "Halloween2025"
   },
   "halloween_ana_belle": {
     "id": "Charlady of Morlovia",
@@ -11231,7 +11248,9 @@
     "rarity": 4,
     "specialId": "tidy_up",
     "canBeReceivedDate": "2022-10-03 07:00:00",
-    "origin": "Halloween"
+    "origin": "Halloween",
+    "additionalBattleSpecificHeroEffectOrigin": "Halloween2025",
+    "costumeBonusesId": "halloween"
   },
   "halloween_goopy": {
     "id": "Gelatinous Goo",
@@ -11249,7 +11268,8 @@
     "rarity": 3,
     "specialId": "sugar_rush",
     "canBeReceivedDate": "2022-10-03 07:00:00",
-    "origin": "Halloween"
+    "origin": "Halloween",
+    "additionalBattleSpecificHeroEffectOrigin": "Halloween2025"
   },
   "mighty_pet_furdinand": {
     "id": "Ruffian of the Canine Expedition",
@@ -20335,7 +20355,7 @@
     "aetherGift": "Mana Boost",
     "rarity": 5,
     "specialId": "glass_thunderstrike_quintus",
-    "canBeReceivedDate": "2200-01-01 07:00:00",
+    "canBeReceivedDate": "2025-10-09 07:00:00",
     "origin": "Season1",
     "parentHeroId": "cultist_inventor"
   },
@@ -20755,7 +20775,7 @@
     "aetherGift": "Regen",
     "rarity": 4,
     "specialId": "glass_riposte_boril",
-    "canBeReceivedDate": "2200-01-01 07:00:00",
+    "canBeReceivedDate": "2025-10-09 07:00:00",
     "origin": "Season1",
     "parentHeroId": "dwarven_guard"
   },
@@ -21155,7 +21175,7 @@
     "aetherGift": "Defense Up",
     "rarity": 3,
     "specialId": "glass_cold_blast_ulmer",
-    "canBeReceivedDate": "2200-01-01 07:00:00",
+    "canBeReceivedDate": "2025-10-09 07:00:00",
     "origin": "Season1",
     "parentHeroId": "nordic_mage"
   },
@@ -21175,7 +21195,7 @@
     "aetherGift": "Dodge",
     "rarity": 3,
     "specialId": "glass_leaping_attack_dawa",
-    "canBeReceivedDate": "2200-01-01 07:00:00",
+    "canBeReceivedDate": "2025-10-09 07:00:00",
     "origin": "Season1",
     "parentHeroId": "oriental_female_guard"
   },
@@ -22119,13 +22139,14 @@
     "baseDefense": 324,
     "manaSpeedId": "average",
     "passiveSkills": [
-      "halloween_steal_buff_or_deal_damage_new"
+      "halloween_steal_buff_or_deal_damage_new",
+      "resist_bleed"
     ],
-    "classType": "Cleric",
+    "classType": "Sorcerer",
     "aetherGift": "Defense Up",
     "rarity": 4,
     "specialId": "dress_up",
-    "canBeReceivedDate": "2200-01-01 07:00:00",
+    "canBeReceivedDate": "2025-10-08 07:00:00",
     "origin": "Halloween",
     "parentHeroId": "halloween_ana_belle"
   },
@@ -22138,13 +22159,14 @@
     "baseDefense": 425,
     "manaSpeedId": "fast",
     "passiveSkills": [
-      "halloween_steal_buff_or_deal_damage_new"
+      "halloween_steal_buff_or_deal_damage_new",
+      "resist_bleed"
     ],
-    "classType": "Paladin",
+    "classType": "Cleric",
     "aetherGift": "Attack Up",
     "rarity": 5,
     "specialId": "garlic_serving_edwin",
-    "canBeReceivedDate": "2200-01-01 07:00:00",
+    "canBeReceivedDate": "2025-10-08 07:00:00",
     "origin": "Halloween",
     "parentHeroId": "halloween_edwin"
   },
@@ -22170,6 +22192,217 @@
     "canBeReceivedDate": "2200-01-01 07:00:00",
     "origin": "Tower of Magic",
     "parentHeroId": "magic_camilla"
+  },
+  "magic_cristobal_costume_emerald": {
+    "id": "Enchantments Professor",
+    "element": "Green",
+    "family": "magic",
+    "baseHealth": 689,
+    "baseAttack": 388,
+    "baseDefense": 365,
+    "manaSpeedId": "charge_magic",
+    "passiveSkills": [
+      "magic_mana_regen_debuff_on_special_costume"
+    ],
+    "classType": "Cleric",
+    "aetherGift": "Counterattack",
+    "costumeBonusPassiveSkillIds": [
+      "reduce_big_minion_health"
+    ],
+    "rarity": 5,
+    "specialId": "emerald_dual_blade",
+    "canBeReceivedDate": "2200-01-01 07:00:00",
+    "origin": "Tower of Magic",
+    "parentHeroId": "magic_cristobal"
+  },
+  "musketeer_porthos_costume_merchant": {
+    "id": "Merchant Musketeer",
+    "element": "Blue",
+    "family": "musketeer",
+    "baseHealth": 820,
+    "baseAttack": 420,
+    "baseDefense": 410,
+    "manaSpeedId": "slow",
+    "passiveSkills": [
+      "special_damage_reduction"
+    ],
+    "classType": "Monk",
+    "aetherGift": "Regen",
+    "rarity": 5,
+    "specialId": "musketeers_deal",
+    "canBeReceivedDate": "2200-01-01 07:00:00",
+    "origin": "Brave Musketeers",
+    "parentHeroId": "musketeer_porthos"
+  },
+  "musketeer_athos_costume_farrier": {
+    "id": "Farrier Musketeer",
+    "element": "Green",
+    "family": "musketeer",
+    "baseHealth": 820,
+    "baseAttack": 420,
+    "baseDefense": 410,
+    "manaSpeedId": "very_fast",
+    "passiveSkills": [
+      "special_damage_reduction"
+    ],
+    "classType": "Fighter",
+    "aetherGift": "Special Boost",
+    "rarity": 5,
+    "specialId": "artisans_shot",
+    "canBeReceivedDate": "2200-01-01 07:00:00",
+    "origin": "Brave Musketeers",
+    "parentHeroId": "musketeer_athos"
+  },
+  "musketeer_aramis_costume_boulanger": {
+    "id": "Boulanger Musketeer",
+    "element": "Purple",
+    "family": "musketeer",
+    "baseHealth": 820,
+    "baseAttack": 420,
+    "baseDefense": 410,
+    "manaSpeedId": "average",
+    "passiveSkills": [
+      "special_damage_reduction"
+    ],
+    "classType": "Paladin",
+    "aetherGift": "Dodge",
+    "rarity": 5,
+    "specialId": "bakers_baguettes",
+    "canBeReceivedDate": "2200-01-01 07:00:00",
+    "origin": "Brave Musketeers",
+    "parentHeroId": "musketeer_aramis"
+  },
+  "tales2_regin_costume_omen": {
+    "id": "Dwarven Fallen Prince",
+    "element": "Red",
+    "family": "nidavellir",
+    "baseHealth": 1064,
+    "baseAttack": 580,
+    "baseDefense": 550,
+    "manaSpeedId": "fast",
+    "passiveSkills": [
+      "molten_core_costume",
+      "resist_burn_with_health_and_mana_boost_costume"
+    ],
+    "classType": "Rogue",
+    "aetherGift": "Ailment Reflect",
+    "rarity": 5,
+    "specialId": "cursed_plan",
+    "canBeReceivedDate": "2200-01-01 07:00:00",
+    "origin": "Treasures of Flame and Frost",
+    "parentHeroId": "tales2_regin"
+  },
+  "tales2_gandr_costume_guardian": {
+    "id": "Dwarven Regal Soldier",
+    "element": "Yellow",
+    "family": "nidavellir",
+    "baseHealth": 1060,
+    "baseAttack": 570,
+    "baseDefense": 565,
+    "manaSpeedId": "slow",
+    "passiveSkills": [
+      "molten_core_costume",
+      "resist_burn_with_health_and_mana_boost_costume"
+    ],
+    "classType": "Ranger",
+    "aetherGift": "Mana Boost",
+    "rarity": 5,
+    "specialId": "regal_spearhead",
+    "canBeReceivedDate": "2200-01-01 07:00:00",
+    "origin": "Treasures of Flame and Frost",
+    "parentHeroId": "tales2_gandr"
+  },
+  "tales2_ott_costume_herbalist": {
+    "id": "Dwarven Maestro Trickster",
+    "element": "Green",
+    "family": "nidavellir",
+    "baseHealth": 1086,
+    "baseAttack": 546,
+    "baseDefense": 581,
+    "manaSpeedId": "fast",
+    "passiveSkills": [
+      "molten_core_costume",
+      "resist_burn_with_health_and_mana_boost_costume"
+    ],
+    "classType": "Monk",
+    "aetherGift": "Revive",
+    "rarity": 5,
+    "specialId": "guarding_tunes",
+    "canBeReceivedDate": "2200-01-01 07:00:00",
+    "origin": "Treasures of Flame and Frost",
+    "parentHeroId": "tales2_ott"
+  },
+  "tales2_fjalar_costume_undead": {
+    "id": "Dwarven Ghostly Skald",
+    "element": "Yellow",
+    "family": "nidavellir",
+    "baseHealth": 595,
+    "baseAttack": 340,
+    "baseDefense": 325,
+    "manaSpeedId": "average",
+    "passiveSkills": [
+      "molten_core_costume",
+      "resist_burn_with_health_and_mana_boost_costume"
+    ],
+    "classType": "Fighter",
+    "aetherGift": "Special Armor",
+    "rarity": 4,
+    "specialId": "undead_penance_poetic",
+    "canBeReceivedDate": "2200-01-01 07:00:00",
+    "origin": "Treasures of Flame and Frost",
+    "parentHeroId": "tales2_fjalar"
+  },
+  "tales2_helgi_costume_combatant": {
+    "id": "Dwarven Replenisher",
+    "element": "Red",
+    "family": "nidavellir",
+    "baseHealth": 378,
+    "baseAttack": 318,
+    "baseDefense": 310,
+    "manaSpeedId": "slow",
+    "passiveSkills": [
+      "molten_core_costume",
+      "resist_burn_with_health_and_mana_boost_costume"
+    ],
+    "classType": "Paladin",
+    "aetherGift": "Special Boost",
+    "rarity": 3,
+    "specialId": "dwarven_recharge",
+    "canBeReceivedDate": "2200-01-01 07:00:00",
+    "origin": "Treasures of Flame and Frost",
+    "parentHeroId": "tales2_helgi"
+  },
+  "s2_tethys_costume_steel": {
+    "id": "Avenger of All Rivers",
+    "element": "Blue",
+    "family": "atlantis",
+    "baseHealth": 710,
+    "baseAttack": 407,
+    "baseDefense": 371,
+    "manaSpeedId": "fast",
+    "classType": "Fighter",
+    "aetherGift": "Special Boost",
+    "rarity": 5,
+    "specialId": "oceanic_offensive",
+    "canBeReceivedDate": "2200-01-01 07:00:00",
+    "origin": "Atlantis Summon",
+    "parentHeroId": "s2_tethys"
+  },
+  "s2_oceanus_costume_volcano": {
+    "id": "Titan of Magma",
+    "element": "Red",
+    "family": "atlantis",
+    "baseHealth": 676,
+    "baseAttack": 434,
+    "baseDefense": 354,
+    "manaSpeedId": "average",
+    "classType": "Barbarian",
+    "aetherGift": "Rage",
+    "rarity": 5,
+    "specialId": "strength_of_the_volcano",
+    "canBeReceivedDate": "2200-01-01 07:00:00",
+    "origin": "Atlantis Summon",
+    "parentHeroId": "s2_oceanus"
   },
   "tales1_domiventus": {
     "id": "The Eternal Hadal Being",
@@ -25360,7 +25593,8 @@
     "rarity": 5,
     "specialId": "master_plan",
     "canBeReceivedDate": "2024-12-03 07:00:00",
-    "origin": "Treasures of Flame and Frost"
+    "origin": "Treasures of Flame and Frost",
+    "costumeBonusesId": "tales2"
   },
   "tales2_dularfulr": {
     "id": "Dwarven Dark Seer",
@@ -25398,7 +25632,8 @@
     "rarity": 5,
     "specialId": "spearwand_gale",
     "canBeReceivedDate": "2024-12-03 07:00:00",
-    "origin": "Treasures of Flame and Frost"
+    "origin": "Treasures of Flame and Frost",
+    "costumeBonusesId": "tales2"
   },
   "tales2_ott": {
     "id": "Dwarven Merry Trickster",
@@ -25417,7 +25652,8 @@
     "rarity": 5,
     "specialId": "saga_of_protection",
     "canBeReceivedDate": "2024-12-03 07:00:00",
-    "origin": "Treasures of Flame and Frost"
+    "origin": "Treasures of Flame and Frost",
+    "costumeBonusesId": "tales2"
   },
   "tales2_aethslegaur": {
     "id": "Dwarven Fire Seeker",
@@ -25512,7 +25748,8 @@
     "rarity": 4,
     "specialId": "poetic_justice",
     "canBeReceivedDate": "2024-12-03 07:00:00",
-    "origin": "Treasures of Flame and Frost"
+    "origin": "Treasures of Flame and Frost",
+    "costumeBonusesId": "tales2"
   },
   "tales2_helgi": {
     "id": "Dwarven Rage Runner",
@@ -25531,7 +25768,8 @@
     "rarity": 3,
     "specialId": "dwarven_flourish",
     "canBeReceivedDate": "2024-12-03 07:00:00",
-    "origin": "Treasures of Flame and Frost"
+    "origin": "Treasures of Flame and Frost",
+    "costumeBonusesId": "tales2"
   },
   "tales2_fafnir": {
     "id": "Dwarven Lord of Myrkheim",
@@ -26298,7 +26536,8 @@
     "rarity": 5,
     "specialId": "blood_illusion",
     "canBeReceivedDate": "2024-09-23 07:00:00",
-    "origin": "Halloween"
+    "origin": "Halloween",
+    "additionalBattleSpecificHeroEffectOrigin": "Halloween2025"
   },
   "halloween_chester": {
     "id": "The Unfriendly Ghost",
@@ -26316,7 +26555,8 @@
     "rarity": 5,
     "specialId": "horrifying_wail",
     "canBeReceivedDate": "2024-09-23 07:00:00",
-    "origin": "Halloween"
+    "origin": "Halloween",
+    "additionalBattleSpecificHeroEffectOrigin": "Halloween2025"
   },
   "ice_god_mene": {
     "id": "Fairy Queen of the Night",
@@ -29131,7 +29371,7 @@
     "aetherGift": "Taunt",
     "rarity": 5,
     "specialId": "vigorous_aegis",
-    "canBeReceivedDate": "2200-01-01 07:00:00",
+    "canBeReceivedDate": "2025-10-13 07:00:00",
     "origin": "Night of the Moth"
   },
   "moth_gardered": {
@@ -29462,7 +29702,7 @@
     "aetherGift": "Dodge",
     "rarity": 5,
     "specialId": "cherry_pudding_served",
-    "canBeReceivedDate": "2200-01-01 07:00:00",
+    "canBeReceivedDate": "2025-10-11 07:00:00",
     "origin": "SuperElemental"
   },
   "slime_sliposi": {
@@ -29837,9 +30077,9 @@
     "id": "Holy Squire Construct",
     "element": "Yellow",
     "family": "construct",
-    "baseHealth": 500,
-    "baseAttack": 300,
-    "baseDefense": 300,
+    "baseHealth": 548,
+    "baseAttack": 292,
+    "baseDefense": 282,
     "manaSpeedId": "average",
     "passiveSkills": [
       "minion_core",
@@ -29875,9 +30115,9 @@
     "id": "Heavily Armored Construct",
     "element": "Blue",
     "family": "construct",
-    "baseHealth": 1000,
-    "baseAttack": 650,
-    "baseDefense": 600,
+    "baseHealth": 1080,
+    "baseAttack": 617,
+    "baseDefense": 601,
     "manaSpeedId": "average",
     "passiveSkills": [
       "minion_core",
@@ -29894,9 +30134,9 @@
     "id": "Flame Cyclone Construct",
     "element": "Red",
     "family": "construct",
-    "baseHealth": 650,
-    "baseAttack": 400,
-    "baseDefense": 350,
+    "baseHealth": 656,
+    "baseAttack": 366,
+    "baseDefense": 355,
     "manaSpeedId": "average",
     "passiveSkills": [
       "minion_core",
@@ -29913,9 +30153,9 @@
     "id": "Enthusiastic Chef Construct",
     "element": "Red",
     "family": "construct",
-    "baseHealth": 1000,
-    "baseAttack": 650,
-    "baseDefense": 600,
+    "baseHealth": 1080,
+    "baseAttack": 611,
+    "baseDefense": 609,
     "manaSpeedId": "slow",
     "passiveSkills": [
       "minion_core",
@@ -29932,9 +30172,9 @@
     "id": "Chaotic Mage Construct",
     "element": "Purple",
     "family": "construct",
-    "baseHealth": 1000,
-    "baseAttack": 650,
-    "baseDefense": 600,
+    "baseHealth": 1067,
+    "baseAttack": 640,
+    "baseDefense": 578,
     "manaSpeedId": "slow",
     "passiveSkills": [
       "minion_core",
@@ -29951,9 +30191,9 @@
     "id": "Vicious Overseer Construct",
     "element": "Purple",
     "family": "construct",
-    "baseHealth": 1000,
-    "baseAttack": 650,
-    "baseDefense": 600,
+    "baseHealth": 1012,
+    "baseAttack": 629,
+    "baseDefense": 620,
     "manaSpeedId": "fast",
     "passiveSkills": [
       "minion_core",
@@ -29970,9 +30210,9 @@
     "id": "Martial Artist Construct",
     "element": "Green",
     "family": "construct",
-    "baseHealth": 1000,
-    "baseAttack": 650,
-    "baseDefense": 600,
+    "baseHealth": 1080,
+    "baseAttack": 607,
+    "baseDefense": 614,
     "manaSpeedId": "fast",
     "passiveSkills": [
       "minion_core",
@@ -29989,9 +30229,9 @@
     "id": "Ancient Colossus Construct",
     "element": "Green",
     "family": "construct",
-    "baseHealth": 1000,
-    "baseAttack": 650,
-    "baseDefense": 600,
+    "baseHealth": 1098,
+    "baseAttack": 592,
+    "baseDefense": 624,
     "manaSpeedId": "average",
     "passiveSkills": [
       "minion_core",
@@ -30056,7 +30296,7 @@
     "aetherGift": "Dodge",
     "rarity": 5,
     "specialId": "flock_of_folly_eldwren",
-    "canBeReceivedDate": "2200-01-01 07:00:00",
+    "canBeReceivedDate": "2025-11-01 07:00:00",
     "origin": "MonthlyHeroNovember2025"
   },
   "nature_god_liora": {
@@ -30351,9 +30591,9 @@
     "id": "Fosterer of Flytraps",
     "element": "Green",
     "family": "halloween",
-    "baseHealth": 910,
-    "baseAttack": 510,
-    "baseDefense": 575,
+    "baseHealth": 989,
+    "baseAttack": 602,
+    "baseDefense": 589,
     "manaSpeedId": "average",
     "passiveSkills": [
       "halloween_steal_buff_or_deal_damage_new"
@@ -30362,77 +30602,497 @@
     "aetherGift": "Fiend Resist",
     "rarity": 5,
     "specialId": "carnivore_garden",
-    "canBeReceivedDate": "2200-01-01 07:00:00",
-    "origin": "Halloween"
+    "canBeReceivedDate": "2025-10-08 07:00:00",
+    "origin": "Halloween",
+    "additionalBattleSpecificHeroEffectOrigin": "Halloween2025"
   },
   "fleur_guillemette": {
     "id": "Sanguine Crusader",
     "element": "Yellow",
+    "family": "fleur_de_sang",
     "baseHealth": 1066,
     "baseAttack": 636,
     "baseDefense": 581,
     "manaSpeedId": "average",
+    "passiveSkills": [
+      "dealt_damage_modifier_per_blood_lily_on_target"
+    ],
     "classType": "Paladin",
     "aetherGift": "Ailment Immunity",
     "rarity": 5,
-    "specialId": "tackle",
-    "canBeReceivedDate": "2200-01-01 07:00:00",
+    "specialId": "unholy_power",
+    "canBeReceivedDate": "2025-10-08 07:00:00",
     "origin": "Halloween2025"
   },
   "fleur_elyzabel": {
     "id": "Sanguine Countess",
     "element": "Red",
+    "family": "fleur_de_sang",
     "baseHealth": 1080,
     "baseAttack": 616,
     "baseDefense": 599,
     "manaSpeedId": "average",
+    "passiveSkills": [
+      "dealt_damage_modifier_per_blood_lily_on_target"
+    ],
     "classType": "Wizard",
     "aetherGift": "Fiend Resist",
     "rarity": 5,
-    "specialId": "tackle",
-    "canBeReceivedDate": "2200-01-01 07:00:00",
+    "specialId": "precious_pets",
+    "canBeReceivedDate": "2025-10-08 07:00:00",
     "origin": "Halloween2025"
   },
   "fleur_ludovico": {
     "id": "Sanguine Steward",
     "element": "Blue",
+    "family": "fleur_de_sang",
     "baseHealth": 1090,
     "baseAttack": 607,
     "baseDefense": 605,
     "manaSpeedId": "fast",
+    "passiveSkills": [
+      "dealt_damage_modifier_per_blood_lily_on_target"
+    ],
     "classType": "Cleric",
     "aetherGift": "Boosted Regen",
     "rarity": 5,
-    "specialId": "tackle",
-    "canBeReceivedDate": "2200-01-01 07:00:00",
+    "specialId": "exquisite_victuals",
+    "canBeReceivedDate": "2025-10-08 07:00:00",
     "origin": "Halloween2025"
   },
   "fleur_eumachius": {
     "id": "Sanguine Scion",
     "element": "Green",
-    "baseHealth": 648,
-    "baseAttack": 361,
-    "baseDefense": 348,
+    "family": "fleur_de_sang",
+    "baseHealth": 502,
+    "baseAttack": 301,
+    "baseDefense": 299,
     "manaSpeedId": "fast",
+    "passiveSkills": [
+      "dealt_damage_modifier_per_blood_lily_on_target"
+    ],
     "classType": "Sorcerer",
     "aetherGift": "Attack Up",
-    "rarity": 4,
-    "specialId": "tackle",
-    "canBeReceivedDate": "2200-01-01 07:00:00",
+    "rarity": 3,
+    "specialId": "mischievous_flourish",
+    "canBeReceivedDate": "2025-10-08 07:00:00",
     "origin": "Halloween2025"
+  },
+  "astral_demon_paimon": {
+    "id": "Astral Demon Lawmaker",
+    "element": "Purple",
+    "family": "astral_demons",
+    "baseHealth": 1108,
+    "baseAttack": 609,
+    "baseDefense": 597,
+    "manaSpeedId": "average",
+    "passiveSkills": [
+      "never_miss_special",
+      "resist_bleed_with_health_boost_and_mana"
+    ],
+    "classType": "Sorcerer",
+    "aetherGift": "Attack Up",
+    "rarity": 5,
+    "specialId": "blinding_injustice",
+    "canBeReceivedDate": "2200-01-01 07:00:00",
+    "origin": "Astral Plane"
+  },
+  "astral_demon_xshahr": {
+    "id": "Astral Demon Warlord",
+    "element": "Green",
+    "family": "astral_demons",
+    "baseHealth": 1068,
+    "baseAttack": 632,
+    "baseDefense": 589,
+    "manaSpeedId": "fast",
+    "passiveSkills": [
+      "never_miss_special",
+      "resist_bleed_with_health_boost_and_mana"
+    ],
+    "classType": "Barbarian",
+    "aetherGift": "Attack Up",
+    "rarity": 5,
+    "specialId": "lance_of_torment",
+    "canBeReceivedDate": "2200-01-01 07:00:00",
+    "origin": "Astral Plane"
+  },
+  "astral_demon_anatemah": {
+    "id": "Astral Demon Empress",
+    "element": "Blue",
+    "family": "astral_demons",
+    "baseHealth": 1136,
+    "baseAttack": 567,
+    "baseDefense": 635,
+    "manaSpeedId": "slow",
+    "passiveSkills": [
+      "never_miss_special",
+      "resist_bleed_with_health_boost_and_mana"
+    ],
+    "classType": "Cleric",
+    "aetherGift": "Defense Up",
+    "rarity": 5,
+    "specialId": "astral_orb",
+    "canBeReceivedDate": "2200-01-01 07:00:00",
+    "origin": "Astral Plane"
+  },
+  "astral_demon_mael": {
+    "id": "Astral Demon Pursuer",
+    "element": "Red",
+    "family": "astral_demons",
+    "baseHealth": 643,
+    "baseAttack": 373,
+    "baseDefense": 351,
+    "manaSpeedId": "fast",
+    "passiveSkills": [
+      "never_miss_special",
+      "resist_bleed_with_health_boost_and_mana"
+    ],
+    "classType": "Rogue",
+    "aetherGift": "Dodge",
+    "rarity": 4,
+    "specialId": "sparking_star_slash",
+    "canBeReceivedDate": "2200-01-01 07:00:00",
+    "origin": "Astral Plane"
+  },
+  "astral_demon_agharoth": {
+    "id": "Astral Demon Gatekeeper",
+    "element": "Blue",
+    "family": "astral_demons",
+    "baseHealth": 564,
+    "baseAttack": 231,
+    "baseDefense": 361,
+    "manaSpeedId": "very_slow",
+    "passiveSkills": [
+      "never_miss_special",
+      "resist_bleed_with_health_boost_and_mana"
+    ],
+    "classType": "Paladin",
+    "aetherGift": "Boosted Regen",
+    "rarity": 3,
+    "specialId": "astral_provocation",
+    "canBeReceivedDate": "2200-01-01 07:00:00",
+    "origin": "Astral Plane"
   },
   "fleur_lavinia": {
     "id": "Sanguine Dreamer",
     "element": "Yellow",
-    "baseHealth": 505,
-    "baseAttack": 296,
-    "baseDefense": 304,
+    "family": "fleur_de_sang",
+    "baseHealth": 1101,
+    "baseAttack": 599,
+    "baseDefense": 610,
     "manaSpeedId": "slow",
+    "passiveSkills": [
+      "dealt_damage_modifier_per_blood_lily_on_target"
+    ],
     "classType": "Cleric",
     "aetherGift": "Defense Up",
-    "rarity": 3,
+    "rarity": 5,
     "specialId": "tackle",
     "canBeReceivedDate": "2200-01-01 07:00:00",
     "origin": "Halloween2025"
+  },
+  "fleur_talesie": {
+    "id": "Sanguine Assassin",
+    "element": "Purple",
+    "family": "fleur_de_sang",
+    "baseHealth": 656,
+    "baseAttack": 367,
+    "baseDefense": 353,
+    "manaSpeedId": "fast",
+    "passiveSkills": [
+      "dealt_damage_modifier_per_blood_lily_on_target"
+    ],
+    "classType": "Rogue",
+    "aetherGift": "Attack Up",
+    "rarity": 4,
+    "specialId": "ravening_blade",
+    "canBeReceivedDate": "2025-10-08 07:00:00",
+    "origin": "Halloween2025"
+  },
+  "mimic_aether_red": {
+    "id": "Starved Storage of Rods",
+    "element": "Red",
+    "family": "mimic",
+    "baseHealth": 1094,
+    "baseAttack": 644,
+    "baseDefense": 644,
+    "manaSpeedId": "slow",
+    "passiveSkills": [
+      "mimic_aether_red",
+      "never_miss_special"
+    ],
+    "classType": "Sorcerer",
+    "aetherGift": "Bulwark",
+    "rarity": 5,
+    "specialId": "aether_mimic_bite_red",
+    "canBeReceivedDate": "2200-01-01 07:00:00",
+    "origin": "Mimic",
+    "forceUseCostumeLevelUpAndUpgradeCosts": true
+  },
+  "mimic_aether_green": {
+    "id": "Starved Storage of Rods",
+    "element": "Green",
+    "family": "mimic",
+    "baseHealth": 1094,
+    "baseAttack": 644,
+    "baseDefense": 644,
+    "manaSpeedId": "slow",
+    "passiveSkills": [
+      "mimic_aether_green",
+      "never_miss_special"
+    ],
+    "classType": "Sorcerer",
+    "aetherGift": "Bulwark",
+    "rarity": 5,
+    "specialId": "aether_mimic_bite_green",
+    "canBeReceivedDate": "2200-01-01 07:00:00",
+    "origin": "Mimic",
+    "forceUseCostumeLevelUpAndUpgradeCosts": true
+  },
+  "mimic_aether_blue": {
+    "id": "Starved Storage of Rods",
+    "element": "Blue",
+    "family": "mimic",
+    "baseHealth": 1094,
+    "baseAttack": 644,
+    "baseDefense": 644,
+    "manaSpeedId": "slow",
+    "passiveSkills": [
+      "mimic_aether_blue",
+      "never_miss_special"
+    ],
+    "classType": "Sorcerer",
+    "aetherGift": "Bulwark",
+    "rarity": 5,
+    "specialId": "aether_mimic_bite_blue",
+    "canBeReceivedDate": "2200-01-01 07:00:00",
+    "origin": "Mimic",
+    "forceUseCostumeLevelUpAndUpgradeCosts": true
+  },
+  "mimic_aether_purple": {
+    "id": "Starved Storage of Rods",
+    "element": "Purple",
+    "family": "mimic",
+    "baseHealth": 1094,
+    "baseAttack": 644,
+    "baseDefense": 644,
+    "manaSpeedId": "slow",
+    "passiveSkills": [
+      "mimic_aether_purple",
+      "never_miss_special"
+    ],
+    "classType": "Sorcerer",
+    "aetherGift": "Bulwark",
+    "rarity": 5,
+    "specialId": "aether_mimic_bite_purple",
+    "canBeReceivedDate": "2200-01-01 07:00:00",
+    "origin": "Mimic",
+    "forceUseCostumeLevelUpAndUpgradeCosts": true
+  },
+  "mimic_aether_yellow": {
+    "id": "Starved Storage of Rods",
+    "element": "Yellow",
+    "family": "mimic",
+    "baseHealth": 1094,
+    "baseAttack": 644,
+    "baseDefense": 644,
+    "manaSpeedId": "slow",
+    "passiveSkills": [
+      "mimic_aether_yellow",
+      "never_miss_special"
+    ],
+    "classType": "Sorcerer",
+    "aetherGift": "Bulwark",
+    "rarity": 5,
+    "specialId": "aether_mimic_bite_yellow",
+    "canBeReceivedDate": "2200-01-01 07:00:00",
+    "origin": "Mimic",
+    "forceUseCostumeLevelUpAndUpgradeCosts": true
+  },
+  "slime_boboosang": {
+    "id": "Elder Peddler Slime",
+    "element": "Blue",
+    "family": "slime",
+    "baseHealth": 1053,
+    "baseAttack": 597,
+    "baseDefense": 603,
+    "manaSpeedId": "slow",
+    "passiveSkills": [
+      "summon_slime_minion_on_damage_blue",
+      "summon_slime_minion_on_death_blue"
+    ],
+    "classType": "Cleric",
+    "aetherGift": "Ailment Immunity",
+    "rarity": 5,
+    "specialId": "debt_drain_boboosang",
+    "canBeReceivedDate": "2200-01-01 07:00:00",
+    "origin": "SuperElemental"
+  },
+  "slime_bulklug": {
+    "id": "Blob Builder Slime",
+    "element": "Green",
+    "family": "slime",
+    "baseHealth": 1032,
+    "baseAttack": 568,
+    "baseDefense": 574,
+    "manaSpeedId": "average",
+    "passiveSkills": [
+      "summon_slime_minion_on_damage_green",
+      "summon_slime_minion_on_death_green"
+    ],
+    "classType": "Barbarian",
+    "aetherGift": "Boosted Regen",
+    "rarity": 5,
+    "specialId": "building_blocks_bulklug",
+    "canBeReceivedDate": "2200-01-01 07:00:00",
+    "origin": "SuperElemental"
+  },
+  "slime_achillea": {
+    "id": "Fearless Gladiator Slime",
+    "element": "Green",
+    "family": "slime",
+    "baseHealth": 1003,
+    "baseAttack": 607,
+    "baseDefense": 526,
+    "manaSpeedId": "fast",
+    "passiveSkills": [
+      "summon_slime_minion_on_damage_green",
+      "summon_slime_minion_on_death_green"
+    ],
+    "classType": "Fighter",
+    "aetherGift": "Rage",
+    "rarity": 5,
+    "specialId": "squish_squash_achillea",
+    "canBeReceivedDate": "2200-01-01 07:00:00",
+    "origin": "SuperElemental"
+  },
+  "slime_chingiriko": {
+    "id": "Shadow Stalker Slime",
+    "element": "Red",
+    "family": "slime",
+    "baseHealth": 980,
+    "baseAttack": 612,
+    "baseDefense": 542,
+    "manaSpeedId": "average",
+    "passiveSkills": [
+      "summon_slime_minion_on_damage_red",
+      "summon_slime_minion_on_death_red"
+    ],
+    "classType": "Rogue",
+    "aetherGift": "Counterattack",
+    "rarity": 5,
+    "specialId": "slingja_attack_chingiriko",
+    "canBeReceivedDate": "2200-01-01 07:00:00",
+    "origin": "SuperElemental"
+  },
+  "slime_justico": {
+    "id": "Protector Slime",
+    "element": "Yellow",
+    "family": "slime",
+    "baseHealth": 993,
+    "baseAttack": 575,
+    "baseDefense": 632,
+    "manaSpeedId": "average",
+    "passiveSkills": [
+      "summon_slime_minion_on_damage_yellow",
+      "summon_slime_minion_on_death_yellow"
+    ],
+    "classType": "Paladin",
+    "aetherGift": "Taunt",
+    "rarity": 5,
+    "specialId": "viscous_shield_justico",
+    "canBeReceivedDate": "2200-01-01 07:00:00",
+    "origin": "SuperElemental"
+  },
+  "forsaken_kadath": {
+    "id": "Accursed Clergyman",
+    "element": "Purple",
+    "family": "forsaken",
+    "baseHealth": 1079,
+    "baseAttack": 625,
+    "baseDefense": 607,
+    "manaSpeedId": "fast",
+    "passiveSkills": [
+      "damage_increase_by_insanity"
+    ],
+    "classType": "Wizard",
+    "aetherGift": "Bulwark",
+    "rarity": 5,
+    "specialId": "cult_of_arachnid",
+    "canBeReceivedDate": "2200-01-01 07:00:00",
+    "origin": "ShadowQuest"
+  },
+  "forsaken_jax": {
+    "id": "Hounding Hooligan",
+    "element": "Green",
+    "family": "forsaken",
+    "baseHealth": 500,
+    "baseAttack": 200,
+    "baseDefense": 200,
+    "manaSpeedId": "very_fast",
+    "passiveSkills": [
+      "damage_increase_by_insanity"
+    ],
+    "classType": "Rogue",
+    "aetherGift": "Attack Up",
+    "rarity": 3,
+    "specialId": "ravenous_pounce",
+    "canBeReceivedDate": "2200-01-01 07:00:00",
+    "origin": "ShadowQuest"
+  },
+  "institute_ellery": {
+    "id": "Aberrant Biologist",
+    "element": "Green",
+    "family": "institute",
+    "baseHealth": 1050,
+    "baseAttack": 620,
+    "baseDefense": 620,
+    "manaSpeedId": "average",
+    "passiveSkills": [
+      "revive_in_alternative_form_with_insanity_chance"
+    ],
+    "classType": "Sorcerer",
+    "aetherGift": "Ailment Immunity",
+    "rarity": 5,
+    "specialId": "mutated_specimen",
+    "canBeReceivedDate": "2200-01-01 07:00:00",
+    "origin": "ShadowQuest"
+  },
+  "institute_ryleh": {
+    "id": "Assistant Archivist",
+    "element": "Purple",
+    "family": "institute",
+    "baseHealth": 600,
+    "baseAttack": 300,
+    "baseDefense": 300,
+    "manaSpeedId": "average",
+    "passiveSkills": [
+      "damage_increase_by_insanity"
+    ],
+    "classType": "Wizard",
+    "aetherGift": "Defense Up",
+    "rarity": 4,
+    "specialId": "binding_contract",
+    "canBeReceivedDate": "2200-01-01 07:00:00",
+    "origin": "ShadowQuest"
+  },
+  "magic_carpet_shareef": {
+    "id": "Unstoppable Wizard",
+    "element": "Yellow",
+    "family": "magic_carpet",
+    "baseHealth": 978,
+    "baseAttack": 628,
+    "baseDefense": 594,
+    "manaSpeedId": "fast",
+    "passiveSkills": [
+      "reduce_big_minion_health",
+      "fly_magic_carpet"
+    ],
+    "classType": "Wizard",
+    "aetherGift": "Defense Up",
+    "rarity": 5,
+    "specialId": "skyfall_crumble",
+    "canBeReceivedDate": "2200-01-01 07:00:00",
+    "origin": "Tower of Magic"
   }
 }

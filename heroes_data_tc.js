@@ -99669,6 +99669,81 @@ window.allHeroes =
         ]
     },
     {
+        "name": "萊利亞 (Lyria)",
+        "fancy_name": "異常熱情的樂器演奏家",
+        "AetherPower": "特殊加成",
+        "color": "黃",
+        "class": "戰士",
+        "speed": "飛速",
+        "skill": "衝鋒旋律",
+        "types": [
+            "攻擊單個目標",
+            "無視防禦",
+            "自我力量提升",
+            "自身閃避"
+        ],
+        "skill_types": [
+            "狙擊手",
+            "繞過",
+            "額外傷害",
+            "閃避"
+        ],
+        "source": "挑戰節 II",
+        "Release date": "2025-10-06",
+        "specialId": "rushed_melody",
+        "passiveSkills": [
+            "revival_chance_modifier_all_enemies"
+        ],
+        "heroId": "bard_lyria",
+        "star": 5,
+        "power": 1243,
+        "attack": 1283,
+        "defense": 1258,
+        "health": 2263,
+        "effects": [
+            "對目標造成 475% 傷害。",
+            "攻擊會無視防禦增益。（包含反擊）",
+            "施法者下一次使用特殊技能時，其特殊技能的威力會增加 +40%，之後每回合都會額外增加 +40%，最多加到 +160%。",
+            "施法者有 +45% 的機率閃避可造成傷害的特殊技能，持續 2 回合。"
+        ],
+        "passives": [
+            "復活機率降低：在戰鬥中所有敵人的復活機率降低。該機率為原本數值的 20%。"
+        ],
+        "family": "bard",
+        "costume_id": 0,
+        "originalIndex": 1440,
+        "lb1": {
+            "power": 1330,
+            "attack": 1383,
+            "defense": 1356,
+            "health": 2439
+        },
+        "lb2": {
+            "power": 1503,
+            "attack": 1582,
+            "defense": 1551,
+            "health": 2791
+        },
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "攻擊：單一目標"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "攻擊-穿透/繞過",
+                    "傷害-額外傷害"
+                ]
+            },
+            {
+                "增益效果": [
+                    "防禦-閃避"
+                ]
+            }
+        ]
+    },
+    {
         "name": "馬林 (Malin)",
         "fancy_name": "泰坦骨勇士",
         "AetherPower": "反擊",
@@ -99715,7 +99790,7 @@ window.allHeroes =
         ],
         "family": "plains_hunter",
         "costume_id": 0,
-        "originalIndex": 1440,
+        "originalIndex": 1441,
         "lb1": {
             "power": 944,
             "attack": 901,
@@ -99788,7 +99863,7 @@ window.allHeroes =
         ],
         "family": "hotm2020",
         "costume_id": 0,
-        "originalIndex": 1441,
+        "originalIndex": 1442,
         "lb1": {
             "power": 821,
             "attack": 801,
@@ -99856,7 +99931,7 @@ window.allHeroes =
         ],
         "family": "halloween",
         "costume_id": 0,
-        "originalIndex": 1442,
+        "originalIndex": 1443,
         "lb1": {
             "power": 906,
             "attack": 881,
@@ -99933,7 +100008,7 @@ window.allHeroes =
         ],
         "family": "hotm2025",
         "costume_id": 0,
-        "originalIndex": 1443,
+        "originalIndex": 1444,
         "lb1": {
             "power": 1150,
             "attack": 1154,
@@ -100007,7 +100082,7 @@ window.allHeroes =
         ],
         "family": "opera",
         "costume_id": 0,
-        "originalIndex": 1444,
+        "originalIndex": 1445,
         "lb1": {
             "power": 1153,
             "attack": 1065,
@@ -100083,7 +100158,7 @@ window.allHeroes =
         ],
         "family": "astral_elves",
         "costume_id": 0,
-        "originalIndex": 1445,
+        "originalIndex": 1446,
         "lb1": {
             "power": 1175,
             "attack": 1134,
@@ -100152,7 +100227,7 @@ window.allHeroes =
         ],
         "family": "sun",
         "costume_id": 0,
-        "originalIndex": 1446,
+        "originalIndex": 1447,
         "lb1": {
             "power": 929,
             "attack": 832,
@@ -100233,7 +100308,7 @@ window.allHeroes =
         ],
         "family": "sun",
         "costume_id": 1,
-        "originalIndex": 1447,
+        "originalIndex": 1448,
         "lb1": {
             "power": 1303,
             "attack": 1286,
@@ -100311,7 +100386,7 @@ window.allHeroes =
         "passives": [],
         "family": "ninja",
         "costume_id": 0,
-        "originalIndex": 1448,
+        "originalIndex": 1449,
         "lb1": {
             "power": 851,
             "attack": 772,
@@ -100378,7 +100453,7 @@ window.allHeroes =
         ],
         "family": "astral_elves",
         "costume_id": 0,
-        "originalIndex": 1449,
+        "originalIndex": 1450,
         "lb1": {
             "power": 1159,
             "attack": 1112,
@@ -100456,7 +100531,7 @@ window.allHeroes =
         ],
         "family": "magic",
         "costume_id": 0,
-        "originalIndex": 1450,
+        "originalIndex": 1451,
         "lb1": {
             "power": 866,
             "attack": 814,
@@ -100525,7 +100600,7 @@ window.allHeroes =
         ],
         "family": "kalevala",
         "costume_id": 0,
-        "originalIndex": 1451,
+        "originalIndex": 1452,
         "lb1": {
             "power": 1310,
             "attack": 1376,
@@ -100601,7 +100676,7 @@ window.allHeroes =
         ],
         "family": "myrkheim",
         "costume_id": 0,
-        "originalIndex": 1452,
+        "originalIndex": 1453,
         "lb1": {
             "power": 1312,
             "attack": 1265,
@@ -100661,7 +100736,7 @@ window.allHeroes =
         "passives": [],
         "family": "hotm2017",
         "costume_id": 0,
-        "originalIndex": 1453,
+        "originalIndex": 1454,
         "lb1": {
             "power": 815,
             "attack": 848,
@@ -100729,7 +100804,7 @@ window.allHeroes =
         ],
         "family": "hotm2017",
         "costume_id": 1,
-        "originalIndex": 1454,
+        "originalIndex": 1455,
         "lb1": {
             "power": 1035,
             "attack": 1064,
@@ -100797,7 +100872,7 @@ window.allHeroes =
         ],
         "family": "hotm2019",
         "costume_id": 0,
-        "originalIndex": 1455,
+        "originalIndex": 1456,
         "lb1": {
             "power": 820,
             "attack": 792,
@@ -100876,7 +100951,7 @@ window.allHeroes =
         ],
         "family": "styx",
         "costume_id": 0,
-        "originalIndex": 1456,
+        "originalIndex": 1457,
         "lb1": {
             "power": 914,
             "attack": 945,
@@ -100952,7 +101027,7 @@ window.allHeroes =
         ],
         "family": "beowulf",
         "costume_id": 0,
-        "originalIndex": 1457,
+        "originalIndex": 1458,
         "lb1": {
             "power": 1285,
             "attack": 1396,
@@ -101015,7 +101090,7 @@ window.allHeroes =
         "passives": [],
         "family": "vanaheim",
         "costume_id": 0,
-        "originalIndex": 1458,
+        "originalIndex": 1459,
         "lb1": {
             "power": 838,
             "attack": 830,
@@ -101073,7 +101148,7 @@ window.allHeroes =
         "passives": [],
         "family": "vanaheim",
         "costume_id": 1,
-        "originalIndex": 1459,
+        "originalIndex": 1460,
         "lb1": {
             "power": 1052,
             "attack": 1144,
@@ -101134,7 +101209,7 @@ window.allHeroes =
         "passives": [],
         "family": "midgard",
         "costume_id": 0,
-        "originalIndex": 1460,
+        "originalIndex": 1461,
         "lb1": {
             "power": 839,
             "attack": 821,
@@ -101201,7 +101276,7 @@ window.allHeroes =
         "passives": [],
         "family": "midgard",
         "costume_id": 1,
-        "originalIndex": 1461,
+        "originalIndex": 1462,
         "lb1": {
             "power": 1053,
             "attack": 1030,
@@ -101274,7 +101349,7 @@ window.allHeroes =
         ],
         "family": "bard",
         "costume_id": 0,
-        "originalIndex": 1462,
+        "originalIndex": 1463,
         "lb1": {
             "power": 892,
             "attack": 899,
@@ -101346,7 +101421,7 @@ window.allHeroes =
         ],
         "family": "hotm2019",
         "costume_id": 0,
-        "originalIndex": 1463,
+        "originalIndex": 1464,
         "lb1": {
             "power": 821,
             "attack": 666,
@@ -101412,7 +101487,7 @@ window.allHeroes =
         ],
         "family": "moon",
         "costume_id": 0,
-        "originalIndex": 1464,
+        "originalIndex": 1465,
         "lb1": {
             "power": 915,
             "attack": 876,
@@ -101497,7 +101572,7 @@ window.allHeroes =
         ],
         "family": "moon",
         "costume_id": 1,
-        "originalIndex": 1465,
+        "originalIndex": 1466,
         "lb1": {
             "power": 1283,
             "attack": 1220,
@@ -101574,7 +101649,7 @@ window.allHeroes =
         ],
         "family": "gargoyle",
         "costume_id": 0,
-        "originalIndex": 1466,
+        "originalIndex": 1467,
         "lb1": {
             "power": 897,
             "attack": 896,
@@ -101657,7 +101732,7 @@ window.allHeroes =
         ],
         "family": "tales1_baddies",
         "costume_id": 0,
-        "originalIndex": 1467,
+        "originalIndex": 1468,
         "lb1": {
             "power": 1029,
             "attack": 1054,
@@ -101746,7 +101821,7 @@ window.allHeroes =
         ],
         "family": "tales1_baddies",
         "costume_id": 1,
-        "originalIndex": 1468,
+        "originalIndex": 1469,
         "lb1": {
             "power": 1283,
             "attack": 1363,
@@ -101824,7 +101899,7 @@ window.allHeroes =
         ],
         "family": "owl",
         "costume_id": 0,
-        "originalIndex": 1469,
+        "originalIndex": 1470,
         "lb1": {
             "power": 1240,
             "attack": 1252,
@@ -101902,7 +101977,7 @@ window.allHeroes =
         ],
         "family": "faun",
         "costume_id": 0,
-        "originalIndex": 1470,
+        "originalIndex": 1471,
         "lb1": {
             "power": 1256,
             "attack": 1351,
@@ -101970,7 +102045,7 @@ window.allHeroes =
         "passives": [],
         "family": "atlantis",
         "costume_id": 0,
-        "originalIndex": 1471,
+        "originalIndex": 1472,
         "lb1": {
             "power": 826,
             "attack": 803,
@@ -102030,7 +102105,7 @@ window.allHeroes =
         "passives": [],
         "family": "atlantis",
         "costume_id": 1,
-        "originalIndex": 1472,
+        "originalIndex": 1473,
         "lb1": {
             "power": 1011,
             "attack": 990,
@@ -102096,7 +102171,7 @@ window.allHeroes =
         ],
         "family": "abyss",
         "costume_id": 0,
-        "originalIndex": 1473,
+        "originalIndex": 1474,
         "lb1": {
             "power": 859,
             "attack": 803,
@@ -102167,7 +102242,7 @@ window.allHeroes =
         ],
         "family": "abyss",
         "costume_id": 1,
-        "originalIndex": 1474,
+        "originalIndex": 1475,
         "lb1": {
             "power": 1090,
             "attack": 1038,
@@ -102227,7 +102302,7 @@ window.allHeroes =
         "passives": [],
         "family": "journey",
         "costume_id": 0,
-        "originalIndex": 1475,
+        "originalIndex": 1476,
         "lb1": {
             "power": 919,
             "attack": 859,
@@ -102298,7 +102373,7 @@ window.allHeroes =
         "passives": [],
         "family": "sand",
         "costume_id": 0,
-        "originalIndex": 1476,
+        "originalIndex": 1477,
         "lb1": {
             "power": 822,
             "attack": 792,
@@ -102367,7 +102442,7 @@ window.allHeroes =
         "passives": [],
         "family": "sand",
         "costume_id": 1,
-        "originalIndex": 1477,
+        "originalIndex": 1478,
         "lb1": {
             "power": 1007,
             "attack": 1003,
@@ -102436,7 +102511,7 @@ window.allHeroes =
         ],
         "family": "hotm2019",
         "costume_id": 0,
-        "originalIndex": 1478,
+        "originalIndex": 1479,
         "lb1": {
             "power": 820,
             "attack": 828,
@@ -102505,7 +102580,7 @@ window.allHeroes =
         ],
         "family": "goblin",
         "costume_id": 0,
-        "originalIndex": 1479,
+        "originalIndex": 1480,
         "lb1": {
             "power": 1323,
             "attack": 1338,
@@ -102572,7 +102647,7 @@ window.allHeroes =
         ],
         "family": "bard",
         "costume_id": 0,
-        "originalIndex": 1480,
+        "originalIndex": 1481,
         "lb1": {
             "power": 905,
             "attack": 910,
@@ -102644,7 +102719,7 @@ window.allHeroes =
         "passives": [],
         "family": "sand",
         "costume_id": 0,
-        "originalIndex": 1481,
+        "originalIndex": 1482,
         "lb1": {
             "power": 840,
             "attack": 821,
@@ -102709,7 +102784,7 @@ window.allHeroes =
         "passives": [],
         "family": "sand",
         "costume_id": 1,
-        "originalIndex": 1482,
+        "originalIndex": 1483,
         "lb1": {
             "power": 1029,
             "attack": 1023,
@@ -102786,7 +102861,7 @@ window.allHeroes =
         ],
         "family": "garrison",
         "costume_id": 0,
-        "originalIndex": 1483,
+        "originalIndex": 1484,
         "lb1": {
             "power": 1187,
             "attack": 1167,
@@ -102867,7 +102942,7 @@ window.allHeroes =
         ],
         "family": "outlaw",
         "costume_id": 0,
-        "originalIndex": 1484,
+        "originalIndex": 1485,
         "lb1": {
             "power": 1287,
             "attack": 1345,
@@ -102948,7 +103023,7 @@ window.allHeroes =
         ],
         "family": "astral_dwarfs",
         "costume_id": 0,
-        "originalIndex": 1485,
+        "originalIndex": 1486,
         "lb1": {
             "power": 1237,
             "attack": 1329,
@@ -103021,7 +103096,7 @@ window.allHeroes =
         ],
         "family": "moths",
         "costume_id": 0,
-        "originalIndex": 1486,
+        "originalIndex": 1487,
         "lb1": {
             "power": 1260,
             "attack": 1338,
@@ -103102,7 +103177,7 @@ window.allHeroes =
         ],
         "family": "goblin",
         "costume_id": 0,
-        "originalIndex": 1487,
+        "originalIndex": 1488,
         "lb1": {
             "power": 1136,
             "attack": 1125,
@@ -103185,7 +103260,7 @@ window.allHeroes =
         ],
         "family": "construct",
         "costume_id": 0,
-        "originalIndex": 1488,
+        "originalIndex": 1489,
         "lb1": {
             "power": 1045,
             "attack": 976,
@@ -103258,7 +103333,7 @@ window.allHeroes =
         ],
         "family": "garrison",
         "costume_id": 0,
-        "originalIndex": 1489,
+        "originalIndex": 1490,
         "lb1": {
             "power": 1126,
             "attack": 1136,
@@ -103326,7 +103401,7 @@ window.allHeroes =
         "passives": [],
         "family": "midgard",
         "costume_id": 0,
-        "originalIndex": 1490,
+        "originalIndex": 1491,
         "lb1": {
             "power": 840,
             "attack": 850,
@@ -103387,7 +103462,7 @@ window.allHeroes =
         "passives": [],
         "family": "midgard",
         "costume_id": 1,
-        "originalIndex": 1491,
+        "originalIndex": 1492,
         "lb1": {
             "power": 1054,
             "attack": 1036,
@@ -103451,7 +103526,7 @@ window.allHeroes =
         ],
         "family": "fox",
         "costume_id": 0,
-        "originalIndex": 1492,
+        "originalIndex": 1493,
         "lb1": {
             "power": 1234,
             "attack": 1334,
@@ -103517,7 +103592,7 @@ window.allHeroes =
         "passives": [],
         "family": "easter",
         "costume_id": 0,
-        "originalIndex": 1493,
+        "originalIndex": 1494,
         "lb1": {
             "power": 841,
             "attack": 839,
@@ -103586,7 +103661,7 @@ window.allHeroes =
         ],
         "family": "slime",
         "costume_id": 0,
-        "originalIndex": 1494,
+        "originalIndex": 1495,
         "lb1": {
             "power": 1173,
             "attack": 1209,
@@ -103669,7 +103744,7 @@ window.allHeroes =
         ],
         "family": "wild_cat",
         "costume_id": 0,
-        "originalIndex": 1495,
+        "originalIndex": 1496,
         "lb1": {
             "power": 1316,
             "attack": 1474,
@@ -103739,7 +103814,7 @@ window.allHeroes =
         ],
         "family": "journey",
         "costume_id": 0,
-        "originalIndex": 1496,
+        "originalIndex": 1497,
         "lb1": {
             "power": 1095,
             "attack": 1090,
@@ -103812,7 +103887,7 @@ window.allHeroes =
         "passives": [],
         "family": "midgard",
         "costume_id": 0,
-        "originalIndex": 1497,
+        "originalIndex": 1498,
         "lb1": {
             "power": 839,
             "attack": 808,
@@ -103880,7 +103955,7 @@ window.allHeroes =
         "passives": [],
         "family": "midgard",
         "costume_id": 1,
-        "originalIndex": 1498,
+        "originalIndex": 1499,
         "lb1": {
             "power": 1053,
             "attack": 1008,
@@ -103951,7 +104026,7 @@ window.allHeroes =
         ],
         "family": "jungle_hunter",
         "costume_id": 0,
-        "originalIndex": 1499,
+        "originalIndex": 1500,
         "lb1": {
             "power": 955,
             "attack": 927,
@@ -104028,7 +104103,7 @@ window.allHeroes =
         ],
         "family": "plains_hunter",
         "costume_id": 0,
-        "originalIndex": 1500,
+        "originalIndex": 1501,
         "lb1": {
             "power": 1199,
             "attack": 1258,
@@ -104101,7 +104176,7 @@ window.allHeroes =
         "passives": [],
         "family": "ninja",
         "costume_id": 0,
-        "originalIndex": 1501,
+        "originalIndex": 1502,
         "lb1": {
             "power": 872,
             "attack": 885,
@@ -104178,7 +104253,7 @@ window.allHeroes =
         ],
         "family": "hotm2021",
         "costume_id": 0,
-        "originalIndex": 1502,
+        "originalIndex": 1503,
         "lb1": {
             "power": 837,
             "attack": 839,
@@ -104264,7 +104339,7 @@ window.allHeroes =
         ],
         "family": "magic",
         "costume_id": 0,
-        "originalIndex": 1503,
+        "originalIndex": 1504,
         "lb1": {
             "power": 1021,
             "attack": 1012,
@@ -104357,7 +104432,7 @@ window.allHeroes =
         ],
         "family": "magic",
         "costume_id": 1,
-        "originalIndex": 1504,
+        "originalIndex": 1505,
         "lb1": {
             "power": 1310,
             "attack": 1335,
@@ -104428,7 +104503,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 0,
-        "originalIndex": 1505,
+        "originalIndex": 1506,
         "lb1": {
             "power": 804,
             "attack": 770,
@@ -104496,7 +104571,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 1,
-        "originalIndex": 1506,
+        "originalIndex": 1507,
         "lb1": {
             "power": 906,
             "attack": 859,
@@ -104564,7 +104639,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 2,
-        "originalIndex": 1507,
+        "originalIndex": 1508,
         "lb1": {
             "power": 1031,
             "attack": 967,
@@ -104636,7 +104711,7 @@ window.allHeroes =
         ],
         "family": "classic",
         "costume_id": 3,
-        "originalIndex": 1508,
+        "originalIndex": 1509,
         "lb1": {
             "power": 1210,
             "attack": 1185,
@@ -104711,7 +104786,7 @@ window.allHeroes =
         ],
         "family": "classic",
         "costume_id": 4,
-        "originalIndex": 1509,
+        "originalIndex": 1510,
         "lb1": {
             "power": 1324,
             "attack": 1335,
@@ -104781,7 +104856,7 @@ window.allHeroes =
         ],
         "family": "halloween",
         "costume_id": 0,
-        "originalIndex": 1510,
+        "originalIndex": 1511,
         "lb1": {
             "power": 1127,
             "attack": 1276,
@@ -104862,7 +104937,7 @@ window.allHeroes =
         ],
         "family": "beowulf",
         "costume_id": 0,
-        "originalIndex": 1511,
+        "originalIndex": 1512,
         "lb1": {
             "power": 1265,
             "attack": 1198,
@@ -104928,7 +105003,7 @@ window.allHeroes =
         "passives": [],
         "family": "wonderland",
         "costume_id": 0,
-        "originalIndex": 1512,
+        "originalIndex": 1513,
         "lb1": {
             "power": 831,
             "attack": 788,
@@ -104992,7 +105067,7 @@ window.allHeroes =
         ],
         "family": "wonderland",
         "costume_id": 1,
-        "originalIndex": 1513,
+        "originalIndex": 1514,
         "lb1": {
             "power": 1043,
             "attack": 1014,
@@ -105072,7 +105147,7 @@ window.allHeroes =
         ],
         "family": "magic",
         "costume_id": 0,
-        "originalIndex": 1514,
+        "originalIndex": 1515,
         "lb1": {
             "power": 951,
             "attack": 896,
@@ -105154,7 +105229,7 @@ window.allHeroes =
         ],
         "family": "bear",
         "costume_id": 0,
-        "originalIndex": 1515,
+        "originalIndex": 1516,
         "lb1": {
             "power": 1097,
             "attack": 1036,
@@ -105223,7 +105298,7 @@ window.allHeroes =
         "passives": [],
         "family": "wolf",
         "costume_id": 0,
-        "originalIndex": 1516,
+        "originalIndex": 1517,
         "lb1": {
             "power": 870,
             "attack": 828,
@@ -105295,7 +105370,7 @@ window.allHeroes =
         ],
         "family": "wolf",
         "costume_id": 1,
-        "originalIndex": 1517,
+        "originalIndex": 1518,
         "lb1": {
             "power": 1226,
             "attack": 1221,
@@ -105360,7 +105435,7 @@ window.allHeroes =
         "passives": [],
         "family": "cultist",
         "costume_id": 0,
-        "originalIndex": 1518,
+        "originalIndex": 1519,
         "lb1": {
             "power": 1246,
             "attack": 1305,
@@ -105437,7 +105512,7 @@ window.allHeroes =
         ],
         "family": "super_elemental",
         "costume_id": 0,
-        "originalIndex": 1519,
+        "originalIndex": 1520,
         "lb1": {
             "power": 1003,
             "attack": 1025,
@@ -105507,7 +105582,7 @@ window.allHeroes =
         ],
         "family": "super_elemental",
         "costume_id": 0,
-        "originalIndex": 1520,
+        "originalIndex": 1521,
         "lb1": {
             "power": 955,
             "attack": 879,
@@ -105581,7 +105656,7 @@ window.allHeroes =
         ],
         "family": "magic_carpet",
         "costume_id": 0,
-        "originalIndex": 1521,
+        "originalIndex": 1522,
         "lb1": {
             "power": 1294,
             "attack": 1398,
@@ -105648,7 +105723,7 @@ window.allHeroes =
         ],
         "family": "abyss",
         "costume_id": 0,
-        "originalIndex": 1522,
+        "originalIndex": 1523,
         "lb1": {
             "power": 865,
             "attack": 863,
@@ -105724,7 +105799,7 @@ window.allHeroes =
         ],
         "family": "abyss",
         "costume_id": 1,
-        "originalIndex": 1523,
+        "originalIndex": 1524,
         "lb1": {
             "power": 1098,
             "attack": 1128,
@@ -105798,7 +105873,7 @@ window.allHeroes =
         ],
         "family": "beachparty",
         "costume_id": 0,
-        "originalIndex": 1524,
+        "originalIndex": 1525,
         "lb1": {
             "power": 1086,
             "attack": 1070,
@@ -105862,7 +105937,7 @@ window.allHeroes =
         "passives": [],
         "family": "kingdom",
         "costume_id": 0,
-        "originalIndex": 1525,
+        "originalIndex": 1526,
         "lb1": {
             "power": 890,
             "attack": 923,
@@ -105932,7 +106007,7 @@ window.allHeroes =
         ],
         "family": "kingdom",
         "costume_id": 1,
-        "originalIndex": 1526,
+        "originalIndex": 1527,
         "lb1": {
             "power": 1180,
             "attack": 1287,
@@ -106001,7 +106076,7 @@ window.allHeroes =
         "passives": [],
         "family": "kingdom",
         "costume_id": 0,
-        "originalIndex": 1527,
+        "originalIndex": 1528,
         "lb1": {
             "power": 891,
             "attack": 765,
@@ -106073,7 +106148,7 @@ window.allHeroes =
         ],
         "family": "kingdom",
         "costume_id": 1,
-        "originalIndex": 1528,
+        "originalIndex": 1529,
         "lb1": {
             "power": 1181,
             "attack": 1024,
@@ -106143,7 +106218,7 @@ window.allHeroes =
         ],
         "family": "hotm2024",
         "costume_id": 0,
-        "originalIndex": 1529,
+        "originalIndex": 1530,
         "lb1": {
             "power": 1018,
             "attack": 939,
@@ -106197,7 +106272,7 @@ window.allHeroes =
         "passives": [],
         "family": "slime",
         "costume_id": 0,
-        "originalIndex": 1530,
+        "originalIndex": 1531,
         "cn_skill_info": []
     },
     {
@@ -106223,7 +106298,7 @@ window.allHeroes =
         "passives": [],
         "family": "halloween",
         "costume_id": 0,
-        "originalIndex": 1531,
+        "originalIndex": 1532,
         "cn_skill_info": []
     },
     {
@@ -106249,7 +106324,7 @@ window.allHeroes =
         "passives": [],
         "family": "fleur_de_sang",
         "costume_id": 0,
-        "originalIndex": 1532,
+        "originalIndex": 1533,
         "cn_skill_info": []
     },
     {
@@ -106275,7 +106350,7 @@ window.allHeroes =
         "passives": [],
         "family": "fleur_de_sang",
         "costume_id": 0,
-        "originalIndex": 1533,
+        "originalIndex": 1534,
         "cn_skill_info": []
     },
     {
@@ -106301,12 +106376,38 @@ window.allHeroes =
         "passives": [],
         "family": "fleur_de_sang",
         "costume_id": 0,
-        "originalIndex": 1534,
+        "originalIndex": 1535,
         "cn_skill_info": []
     },
     {
-        "name": "萊利亞 (Lyria)",
-        "fancy_name": "異常熱情的樂器演奏家",
+        "name": "昆塔斯 (Quintus) C4",
+        "fancy_name": "玻璃科學家",
+        "AetherPower": "",
+        "color": "紫",
+        "class": "聖騎士",
+        "speed": "慢速",
+        "skill": "",
+        "types": [],
+        "skill_types": [],
+        "source": "",
+        "Release date": "",
+        "specialId": "",
+        "heroId": "cultist_inventor_costume_glass",
+        "star": 5,
+        "power": null,
+        "attack": null,
+        "defense": null,
+        "health": null,
+        "effects": [],
+        "passives": [],
+        "family": "classic",
+        "costume_id": 4,
+        "originalIndex": 1536,
+        "cn_skill_info": []
+    },
+    {
+        "name": "富爾吉安特 (Furgeant)",
+        "fancy_name": "巨蛾",
         "AetherPower": "",
         "color": "黃",
         "class": "聖騎士",
@@ -106317,7 +106418,7 @@ window.allHeroes =
         "source": "",
         "Release date": "",
         "specialId": "",
-        "heroId": "bard_lyria",
+        "heroId": "moth_furgeant",
         "star": 5,
         "power": null,
         "attack": null,
@@ -106325,9 +106426,191 @@ window.allHeroes =
         "health": null,
         "effects": [],
         "passives": [],
-        "family": "bard",
+        "family": "moths",
         "costume_id": 0,
-        "originalIndex": 1535,
+        "originalIndex": 1537,
+        "cn_skill_info": []
+    },
+    {
+        "name": "吉列梅特 (Guillemette)",
+        "fancy_name": "腥紅十字軍",
+        "AetherPower": "",
+        "color": "黃",
+        "class": "聖騎士",
+        "speed": "慢速",
+        "skill": "",
+        "types": [],
+        "skill_types": [],
+        "source": "",
+        "Release date": "",
+        "specialId": "",
+        "heroId": "fleur_guillemette",
+        "star": 5,
+        "power": null,
+        "attack": null,
+        "defense": null,
+        "health": null,
+        "effects": [],
+        "passives": [],
+        "family": "fleur_de_sang",
+        "costume_id": 0,
+        "originalIndex": 1538,
+        "cn_skill_info": []
+    },
+    {
+        "name": "伊麗莎白·德·圖伊耶爾 (Elyzabel de Tuillieres)",
+        "fancy_name": "腥紅伯爵夫人",
+        "AetherPower": "",
+        "color": "紅",
+        "class": "聖騎士",
+        "speed": "慢速",
+        "skill": "",
+        "types": [],
+        "skill_types": [],
+        "source": "",
+        "Release date": "",
+        "specialId": "",
+        "heroId": "fleur_elyzabel",
+        "star": 5,
+        "power": null,
+        "attack": null,
+        "defense": null,
+        "health": null,
+        "effects": [],
+        "passives": [],
+        "family": "fleur_de_sang",
+        "costume_id": 0,
+        "originalIndex": 1539,
+        "cn_skill_info": []
+    },
+    {
+        "name": "盧多維科 (Ludovico)",
+        "fancy_name": "腥紅管家",
+        "AetherPower": "",
+        "color": "藍",
+        "class": "聖騎士",
+        "speed": "慢速",
+        "skill": "",
+        "types": [],
+        "skill_types": [],
+        "source": "",
+        "Release date": "",
+        "specialId": "",
+        "heroId": "fleur_ludovico",
+        "star": 5,
+        "power": null,
+        "attack": null,
+        "defense": null,
+        "health": null,
+        "effects": [],
+        "passives": [],
+        "family": "fleur_de_sang",
+        "costume_id": 0,
+        "originalIndex": 1540,
+        "cn_skill_info": []
+    },
+    {
+        "name": "埃德溫 (Edwin) C1",
+        "fancy_name": "背刺管家",
+        "AetherPower": "",
+        "color": "綠",
+        "class": "聖騎士",
+        "speed": "慢速",
+        "skill": "",
+        "types": [],
+        "skill_types": [],
+        "source": "",
+        "Release date": "",
+        "specialId": "",
+        "heroId": "halloween_edwin_costume_mafia",
+        "star": 5,
+        "power": null,
+        "attack": null,
+        "defense": null,
+        "health": null,
+        "effects": [],
+        "passives": [],
+        "family": "halloween",
+        "costume_id": 1,
+        "originalIndex": 1541,
+        "cn_skill_info": []
+    },
+    {
+        "name": "霍坦西亞 (Hortensia)",
+        "fancy_name": "捕蠅草培育者",
+        "AetherPower": "",
+        "color": "綠",
+        "class": "聖騎士",
+        "speed": "慢速",
+        "skill": "",
+        "types": [],
+        "skill_types": [],
+        "source": "",
+        "Release date": "",
+        "specialId": "",
+        "heroId": "halloween_hortensia",
+        "star": 5,
+        "power": null,
+        "attack": null,
+        "defense": null,
+        "health": null,
+        "effects": [],
+        "passives": [],
+        "family": "halloween",
+        "costume_id": 0,
+        "originalIndex": 1542,
+        "cn_skill_info": []
+    },
+    {
+        "name": "塔萊西亞 (Talesie)",
+        "fancy_name": "腥紅刺客",
+        "AetherPower": "",
+        "color": "紫",
+        "class": "聖騎士",
+        "speed": "慢速",
+        "skill": "",
+        "types": [],
+        "skill_types": [],
+        "source": "",
+        "Release date": "",
+        "specialId": "",
+        "heroId": "fleur_talesie",
+        "star": 4,
+        "power": null,
+        "attack": null,
+        "defense": null,
+        "health": null,
+        "effects": [],
+        "passives": [],
+        "family": "fleur_de_sang",
+        "costume_id": 0,
+        "originalIndex": 1543,
+        "cn_skill_info": []
+    },
+    {
+        "name": "塔萊西亞 (Talesie)",
+        "fancy_name": "腥紅望族",
+        "AetherPower": "",
+        "color": "綠",
+        "class": "聖騎士",
+        "speed": "慢速",
+        "skill": "",
+        "types": [],
+        "skill_types": [],
+        "source": "",
+        "Release date": "",
+        "specialId": "",
+        "heroId": "fleur_eumachius",
+        "star": 3,
+        "power": null,
+        "attack": null,
+        "defense": null,
+        "health": null,
+        "effects": [],
+        "passives": [],
+        "family": "fleur_de_sang",
+        "costume_id": 0,
+        "originalIndex": 1544,
         "cn_skill_info": []
     }
 ];

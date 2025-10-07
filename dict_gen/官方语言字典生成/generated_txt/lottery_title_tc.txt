@@ -33,6 +33,7 @@
 "lottery.title.season4","地底荒野召喚"
 "lottery.title.season5","沙丘召喚"
 "lottery.title.seasonal","賽季召喚"
+"lottery.title.seasonalpremiumsummon","腥紅召喚"
 "lottery.title.shadowsummon","暗影召喚"
 "lottery.title.silverdragonsummon","白銀召喚"
 "lottery.title.solsticesummon","至日召喚"

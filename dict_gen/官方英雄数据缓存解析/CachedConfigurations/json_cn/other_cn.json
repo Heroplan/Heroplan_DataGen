@@ -1395,7 +1395,8 @@
           "MonthlyHeroNovember2025",
           "MonthlyHeroDecember2025",
           "Mimic",
-          "MonthlyHeroJanuary2026"
+          "MonthlyHeroJanuary2026",
+          "HalloweenWeekAllianceGift"
         ],
         "uniqueEvents": [
           {
@@ -2453,11 +2454,11 @@
             "id": "GuestIP1",
             "type": "GuestIP",
             "featuredHeroes": [
-              "John Cena",
-              "CM Punk",
-              "Rhea Ripley",
-              "Triple H",
-              "Shawn Michaels"
+              "guestip1_hero1",
+              "guestip1_hero2",
+              "guestip1_hero8",
+              "guestip1_hero4",
+              "guestip1_hero3"
             ],
             "startTime": "2025-05-26 07:00:00",
             "endTime": "2025-07-07 07:00:00"
@@ -2648,14 +2649,14 @@
             "id": "Halloween2025",
             "type": "Seasonal",
             "eventBonus": "halloween_bonus",
-            "startTime": "2025-10-20 07:00:00",
-            "endTime": "2025-11-17 07:00:00"
+            "startTime": "2025-10-08 07:00:00",
+            "endTime": "2025-11-06 07:00:00"
           },
           {
             "id": "MonthlyHeroNovember2025",
             "type": "MonthlyHero",
-            "startTime": "2200-01-01 07:00:00",
-            "endTime": "2200-01-01 07:00:00"
+            "startTime": "2025-11-01 07:00:00",
+            "endTime": "2025-12-01 07:00:00"
           },
           {
             "id": "MonthlyHeroDecember2025",
@@ -2802,54 +2803,18 @@
             "eventBundle": "bundle_challenge_1",
             "eventOffer": "alliancequestoffer",
             "eventEndingOffer": "",
-            "advertisedHero": "moth_mortewitch",
+            "advertisedHero": "moth_furgeant",
             "featuredHeroes": [
-              "死亡女巫",
-              "萨丁皮门特",
-              "淳绮罗翼"
+              "弗吉安特",
+              "加德瑞德",
+              "佩普布勒"
             ],
             "eventBonus": "event_hero_bonus_alliance_quest",
-            "startTime": "2025-10-22 07:00:00",
-            "endTime": "2025-10-27 07:00:00"
+            "startTime": "2025-10-13 07:00:00",
+            "endTime": "2025-10-18 07:00:00"
           }
         ],
         "treasureQuestEventEntries": [
-          {
-            "id": "TreasureQuestLGTroop",
-            "type": "TreasureQuest",
-            "eventBundle": "",
-            "eventOffer": "",
-            "eventEndingOffer": "",
-            "manuallyOverwritten": true,
-            "featuredFamilies": [
-              "火枪手家族",
-              "海盗家族",
-              "吟游诗人家族",
-              "星落家族",
-              "恶棍家族"
-            ],
-            "eventBonus": "event_hero_bonus_treasure_quest",
-            "startTime": "2025-07-14 07:00:00",
-            "endTime": "2025-07-16 07:00:00"
-          },
-          {
-            "id": "TreasureQuestXPBlue",
-            "type": "TreasureQuest",
-            "eventBundle": "",
-            "eventOffer": "",
-            "eventEndingOffer": "",
-            "manuallyOverwritten": true,
-            "featuredFamilies": [
-              "穆斯贝尔海姆王国",
-              "艾尔夫海姆王国",
-              "阿斯加德王国",
-              "瓦纳海姆王国",
-              "卡勒瓦拉家族"
-            ],
-            "eventBonus": "event_hero_bonus_treasure_quest",
-            "startTime": "2025-08-04 07:00:00",
-            "endTime": "2025-08-06 07:00:00"
-          },
           {
             "id": "TreasureQuestAlphaAether",
             "type": "TreasureQuest",
@@ -2871,10 +2836,12 @@
             "eventBundle": "",
             "eventOffer": "",
             "eventEndingOffer": "",
+            "manuallyOverwritten": true,
             "featuredFamilies": [
               "莫洛维亚家族",
               "冬日家族",
-              "春谷家族"
+              "春谷家族",
+              "卡勒瓦拉家族"
             ],
             "eventBonus": "event_hero_bonus_treasure_quest",
             "startTime": "2025-09-08 07:00:00",
@@ -2883,9 +2850,8 @@
           {
             "id": "TreasureQuestCovenantSuperElemental",
             "type": "TreasureQuest",
-            "eventBundle": "",
-            "eventOffer": "",
             "eventEndingOffer": "",
+            "manuallyOverwritten": true,
             "featuredFamilies": [
               "恶狼家族",
               "猫头鹰家族",
@@ -2899,11 +2865,11 @@
           {
             "id": "TreasureQuestAscension",
             "type": "TreasureQuest",
-            "eventBundle": "",
-            "eventOffer": "",
             "eventEndingOffer": "",
+            "manuallyOverwritten": true,
             "featuredFamilies": [
-              "经典家族"
+              "经典家族",
+              "蒙面之神家族"
             ],
             "eventBonus": "event_hero_bonus_treasure_quest",
             "startTime": "2025-10-20 07:00:00",
@@ -2912,9 +2878,8 @@
           {
             "id": "TreasureQuestXPGreen",
             "type": "TreasureQuest",
-            "eventBundle": "",
-            "eventOffer": "",
             "eventEndingOffer": "",
+            "manuallyOverwritten": true,
             "featuredFamilies": [
               "月亮家族",
               "太阳家族",
@@ -2928,9 +2893,8 @@
           {
             "id": "TreasureQuestGoblinAstral",
             "type": "TreasureQuest",
-            "eventBundle": "",
-            "eventOffer": "",
             "eventEndingOffer": "",
+            "manuallyOverwritten": true,
             "featuredFamilies": [
               "亚特兰蒂斯家族",
               "亚特兰蒂斯梦魇家族",
@@ -2943,9 +2907,8 @@
           {
             "id": "TreasureQuestXPRed",
             "type": "TreasureQuest",
-            "eventBundle": "",
-            "eventOffer": "",
             "eventEndingOffer": "",
+            "manuallyOverwritten": true,
             "featuredFamilies": [
               "三国家族",
               "西游家族"
@@ -2957,9 +2920,8 @@
           {
             "id": "TreasureQuestXPPurple",
             "type": "TreasureQuest",
-            "eventBundle": "",
-            "eventOffer": "",
             "eventEndingOffer": "",
+            "manuallyOverwritten": true,
             "featuredFamilies": [
               "超级元素人家族",
               "魔法家族",
@@ -2968,6 +2930,39 @@
             "eventBonus": "event_hero_bonus_treasure_quest",
             "startTime": "2026-01-12 07:00:00",
             "endTime": "2026-01-14 07:00:00"
+          },
+          {
+            "id": "TreasureQuestTome",
+            "type": "TreasureQuest",
+            "eventBundle": "",
+            "eventOffer": "",
+            "eventEndingOffer": "",
+            "manuallyOverwritten": true,
+            "featuredFamilies": [
+              "阿瓦隆家族",
+              "肃煞森林家族",
+              "仙境家族"
+            ],
+            "eventBonus": "event_hero_bonus_treasure_quest",
+            "startTime": "2026-02-02 07:00:00",
+            "endTime": "2026-02-04 07:00:00"
+          },
+          {
+            "id": "TreasureQuestLGTroop",
+            "type": "TreasureQuest",
+            "eventBundle": "",
+            "eventOffer": "",
+            "eventEndingOffer": "",
+            "manuallyOverwritten": true,
+            "featuredFamilies": [
+              "火枪手家族",
+              "海盗家族",
+              "吟游诗人家族",
+              "星落家族"
+            ],
+            "eventBonus": "event_hero_bonus_treasure_quest",
+            "startTime": "2026-02-23 07:00:00",
+            "endTime": "2026-02-25 07:00:00"
           }
         ],
         "chessEventEntries": [
@@ -3624,19 +3619,6 @@
             {
               "id": "TowerMagic",
               "type": "Tower",
-              "eventOffer": "com.smallgiantgames.empires.toweroffer",
-              "manuallyOverwritten": true,
-              "featuredHeroes": [
-                "莉莉",
-                "吠舍离-秘派大师",
-                "扎莎"
-              ],
-              "startTime": "2025-08-20 07:00:00",
-              "endTime": "2025-08-25 07:00:00"
-            },
-            {
-              "id": "TowerMagic",
-              "type": "Tower",
               "eventBundle": "",
               "eventOffer": "com.smallgiantgames.empires.toweroffer",
               "eventEndingOffer": "",
@@ -3665,6 +3647,21 @@
               ],
               "startTime": "2025-10-19 07:00:00",
               "endTime": "2025-10-24 07:00:00"
+            },
+            {
+              "id": "TowerMagic",
+              "type": "Tower",
+              "eventBundle": "",
+              "eventOffer": "com.smallgiantgames.empires.toweroffer",
+              "eventEndingOffer": "",
+              "advertisedHero": "magic_carpet_lando",
+              "featuredHeroes": [
+                "兰度",
+                "纳德兹达-高塔信使长",
+                "纳伊姆"
+              ],
+              "startTime": "2025-11-19 07:00:00",
+              "endTime": "2025-11-24 07:00:00"
             }
           ],
           "scheduleConfig": {
@@ -7115,7 +7112,6 @@
             "productionIntervalSeconds": 86400,
             "productionIntervalAmount": 10
           },
-          "skipTowerTroopSummon": true,
           "blessingOptionAmount": 3
         },
         "eventsScoring": {
@@ -14059,54 +14055,6 @@
         "allowedDailyRerolls": 6,
         "pvpEventEntries": [
           {
-            "specialRuleId": "rush_attack",
-            "rarityRequirementsId": "legendary",
-            "elementRequirementsId": "no_red",
-            "tournamentOfferId": "com.smallgiantgames.empires.tournamentoffer2",
-            "startTime": "2025-06-29 08:00:00",
-            "endTime": "2025-07-05 08:00:00"
-          },
-          {
-            "specialRuleId": "dragon_tournament",
-            "rarityRequirementsId": "rare",
-            "elementRequirementsId": "all_elements",
-            "tournamentOfferId": "com.smallgiantgames.empires.trainerpack2020",
-            "startTime": "2025-07-06 08:00:00",
-            "endTime": "2025-07-12 08:00:00"
-          },
-          {
-            "specialRuleId": "buff_booster",
-            "rarityRequirementsId": "legendary",
-            "elementRequirementsId": "no_yellow",
-            "tournamentOfferId": "com.smallgiantgames.empires.tournamentoffer1",
-            "startTime": "2025-07-13 08:00:00",
-            "endTime": "2025-07-19 08:00:00"
-          },
-          {
-            "specialRuleId": "rush_attack",
-            "rarityRequirementsId": "epic",
-            "elementRequirementsId": "all_elements",
-            "tournamentOfferId": "com.smallgiantgames.empires.tournamentoffer2",
-            "startTime": "2025-07-20 08:00:00",
-            "endTime": "2025-07-26 08:00:00"
-          },
-          {
-            "specialRuleId": "bloody_battle",
-            "rarityRequirementsId": "legendary",
-            "elementRequirementsId": "no_red",
-            "tournamentOfferId": "com.smallgiantgames.empires.trainerpack2020",
-            "startTime": "2025-07-27 08:00:00",
-            "endTime": "2025-08-02 08:00:00"
-          },
-          {
-            "specialRuleId": "buff_booster",
-            "rarityRequirementsId": "rare",
-            "elementRequirementsId": "all_elements",
-            "tournamentOfferId": "com.smallgiantgames.empires.tournamentoffer1",
-            "startTime": "2025-08-03 08:00:00",
-            "endTime": "2025-08-09 08:00:00"
-          },
-          {
             "specialRuleId": "dragon_tournament",
             "rarityRequirementsId": "legendary",
             "elementRequirementsId": "all_elements",
@@ -14273,6 +14221,54 @@
             "tournamentOfferId": "com.smallgiantgames.empires.tournamentoffer1",
             "startTime": "2025-12-28 08:00:00",
             "endTime": "2026-01-03 08:00:00"
+          },
+          {
+            "specialRuleId": "buff_booster",
+            "rarityRequirementsId": "rare",
+            "elementRequirementsId": "no_red",
+            "tournamentOfferId": "com.smallgiantgames.empires.tournamentoffer2",
+            "startTime": "2026-01-04 08:00:00",
+            "endTime": "2026-01-10 08:00:00"
+          },
+          {
+            "specialRuleId": "bloody_battle",
+            "rarityRequirementsId": "rare",
+            "elementRequirementsId": "no_green",
+            "tournamentOfferId": "com.smallgiantgames.empires.trainerpack2020",
+            "startTime": "2026-01-11 08:00:00",
+            "endTime": "2026-01-17 08:00:00"
+          },
+          {
+            "specialRuleId": "buff_booster",
+            "rarityRequirementsId": "legendary",
+            "elementRequirementsId": "no_green",
+            "tournamentOfferId": "com.smallgiantgames.empires.tournamentoffer1",
+            "startTime": "2026-01-18 08:00:00",
+            "endTime": "2026-01-24 08:00:00"
+          },
+          {
+            "specialRuleId": "bloody_battle",
+            "rarityRequirementsId": "epic",
+            "elementRequirementsId": "no_red",
+            "tournamentOfferId": "com.smallgiantgames.empires.tournamentoffer2",
+            "startTime": "2026-01-25 08:00:00",
+            "endTime": "2026-01-31 08:00:00"
+          },
+          {
+            "specialRuleId": "rush_attack",
+            "rarityRequirementsId": "rare",
+            "elementRequirementsId": "no_green",
+            "tournamentOfferId": "com.smallgiantgames.empires.trainerpack2020",
+            "startTime": "2026-02-01 08:00:00",
+            "endTime": "2026-02-07 08:00:00"
+          },
+          {
+            "specialRuleId": "dragon_tournament",
+            "rarityRequirementsId": "epic",
+            "elementRequirementsId": "all_elements",
+            "tournamentOfferId": "com.smallgiantgames.empires.tournamentoffer1",
+            "startTime": "2026-02-08 08:00:00",
+            "endTime": "2026-02-14 08:00:00"
           }
         ],
         "pvpEventSchedule": {
@@ -14604,162 +14600,6 @@
         "eventEntries": [
           {
             "featuredFamilies": [
-              "肃煞森林家族",
-              "仙境家族",
-              "阿瓦隆家族"
-            ],
-            "featuredClassesPerRound": [
-              [
-                "Barbarian",
-                "Rogue"
-              ],
-              [
-                "Monk",
-                "Fighter"
-              ],
-              [
-                "Druid",
-                "Ranger"
-              ],
-              [
-                "Wizard",
-                "Cleric"
-              ]
-            ],
-            "classBonusId": "league_class_hero_bonus",
-            "featuredFamilyRelatedBonusIds": [
-              "league_family_hero_bonus_legendary",
-              "league_family_hero_bonus_epic",
-              "league_family_hero_bonus_rare",
-              "league_non_family_hero_debuffs"
-            ],
-            "guestTeam": {
-              "guestMembers": [
-                {
-                  "heroId": "knights_black_knight",
-                  "powerGrade": "MaxAscension"
-                },
-                {
-                  "heroId": "fables_frog_prince",
-                  "powerGrade": "MaxAscension"
-                },
-                {
-                  "heroId": "knights_mordred",
-                  "powerGrade": "MaxAscension"
-                },
-                {
-                  "heroId": "wonderland_white_rabbit",
-                  "powerGrade": "MaxAscension"
-                },
-                {
-                  "heroId": "wonderland_hatter",
-                  "powerGrade": "MaxAscension"
-                }
-              ]
-            },
-            "startTime": "2024-12-02 07:00:00"
-          },
-          {
-            "featuredFamilies": [
-              "肃煞森林家族",
-              "仙境家族",
-              "阿瓦隆家族"
-            ],
-            "featuredClassesPerRound": [
-              [
-                "Druid",
-                "Ranger"
-              ],
-              [
-                "Wizard",
-                "Rogue"
-              ],
-              [
-                "Fighter",
-                "Paladin"
-              ],
-              [
-                "Sorcerer",
-                "Barbarian"
-              ]
-            ],
-            "classBonusId": "league_class_hero_bonus",
-            "featuredFamilyRelatedBonusIds": [
-              "league_family_hero_bonus_legendary",
-              "league_family_hero_bonus_epic",
-              "league_family_hero_bonus_rare",
-              "league_non_family_hero_debuffs"
-            ],
-            "guestTeam": {
-              "guestMembers": [
-                {
-                  "heroId": "knights_black_knight",
-                  "powerGrade": "MaxAscension"
-                },
-                {
-                  "heroId": "fables_frog_prince",
-                  "powerGrade": "MaxAscension"
-                },
-                {
-                  "heroId": "knights_mordred",
-                  "powerGrade": "MaxAscension"
-                },
-                {
-                  "heroId": "wonderland_white_rabbit",
-                  "powerGrade": "MaxAscension"
-                },
-                {
-                  "heroId": "wonderland_hatter",
-                  "powerGrade": "MaxAscension"
-                }
-              ]
-            },
-            "startTime": "2025-02-03 07:00:00"
-          },
-          {
-            "featuredFamilies": [
-              "约顿海姆王国",
-              "穆斯贝尔海姆王国",
-              "米德加德王国",
-              "瓦纳海姆王国",
-              "阿斯加德王国",
-              "艾尔夫海姆王国",
-              "海姆冥界王国",
-              "瓦特海姆王国",
-              "尼福尔海姆王国"
-            ],
-            "featuredClassesPerRound": [
-              [
-                "Wizard",
-                "Monk"
-              ],
-              [
-                "Cleric",
-                "Rogue"
-              ],
-              [
-                "Sorcerer",
-                "Druid"
-              ],
-              [
-                "Ranger",
-                "Fighter"
-              ]
-            ],
-            "classBonusId": "league_class_hero_bonus",
-            "featuredFamilyRelatedBonusIds": [
-              "league_family_hero_bonus_legendary",
-              "league_family_hero_bonus_epic",
-              "league_family_hero_bonus_rare",
-              "league_non_family_hero_debuffs"
-            ],
-            "guestTeam": {
-              "guestMembers": []
-            },
-            "startTime": "2025-05-20 07:00:00"
-          },
-          {
-            "featuredFamilies": [
               "蛮荒地界家族",
               "杀手家族",
               "魔法家族",
@@ -14793,50 +14633,48 @@
               "league_family_hero_bonus_rare",
               "league_non_family_hero_debuffs"
             ],
-            "guestTeam": {
-              "guestMembers": [
-                {
-                  "heroId": "s4_elizabeth",
-                  "powerGrade": "MaxAscension"
-                },
-                {
-                  "heroId": "s4_zenobia",
-                  "powerGrade": "MaxAscension"
-                },
-                {
-                  "heroId": "s4_lepiota",
-                  "powerGrade": "MaxAscension"
-                },
-                {
-                  "heroId": "s4_hannah",
-                  "powerGrade": "MaxAscension"
-                },
-                {
-                  "heroId": "s4_phileas_fogg",
-                  "powerGrade": "MaxAscension"
-                },
-                {
-                  "heroId": "s4_garjammal",
-                  "powerGrade": "MaxAscension"
-                },
-                {
-                  "heroId": "s4_russula",
-                  "powerGrade": "MaxAscension"
-                },
-                {
-                  "heroId": "s4_morel",
-                  "powerGrade": "MaxAscension"
-                },
-                {
-                  "heroId": "s4_akkorog",
-                  "powerGrade": "MaxAscension"
-                },
-                {
-                  "heroId": "s4_professor_lidenbrock",
-                  "powerGrade": "MaxAscension"
-                }
-              ]
-            },
+            "guestMembers": [
+              {
+                "heroId": "s4_elizabeth",
+                "powerGrade": "MaxAscension"
+              },
+              {
+                "heroId": "s4_zenobia",
+                "powerGrade": "MaxAscension"
+              },
+              {
+                "heroId": "s4_lepiota",
+                "powerGrade": "MaxAscension"
+              },
+              {
+                "heroId": "s4_hannah",
+                "powerGrade": "MaxAscension"
+              },
+              {
+                "heroId": "s4_phileas_fogg",
+                "powerGrade": "MaxAscension"
+              },
+              {
+                "heroId": "s4_garjammal",
+                "powerGrade": "MaxAscension"
+              },
+              {
+                "heroId": "s4_russula",
+                "powerGrade": "MaxAscension"
+              },
+              {
+                "heroId": "s4_morel",
+                "powerGrade": "MaxAscension"
+              },
+              {
+                "heroId": "s4_akkorog",
+                "powerGrade": "MaxAscension"
+              },
+              {
+                "heroId": "s4_professor_lidenbrock",
+                "powerGrade": "MaxAscension"
+              }
+            ],
             "startTime": "2025-08-18 07:00:00"
           },
           {
@@ -14870,30 +14708,28 @@
               "league_family_hero_bonus_rare",
               "league_non_family_hero_debuffs"
             ],
-            "guestTeam": {
-              "guestMembers": [
-                {
-                  "heroId": "knights_black_knight",
-                  "powerGrade": "MaxAscension"
-                },
-                {
-                  "heroId": "fables_frog_prince",
-                  "powerGrade": "MaxAscension"
-                },
-                {
-                  "heroId": "knights_mordred",
-                  "powerGrade": "MaxAscension"
-                },
-                {
-                  "heroId": "wonderland_white_rabbit",
-                  "powerGrade": "MaxAscension"
-                },
-                {
-                  "heroId": "wonderland_hatter",
-                  "powerGrade": "MaxAscension"
-                }
-              ]
-            },
+            "guestMembers": [
+              {
+                "heroId": "knights_black_knight",
+                "powerGrade": "MaxAscension"
+              },
+              {
+                "heroId": "fables_frog_prince",
+                "powerGrade": "MaxAscension"
+              },
+              {
+                "heroId": "knights_mordred",
+                "powerGrade": "MaxAscension"
+              },
+              {
+                "heroId": "wonderland_white_rabbit",
+                "powerGrade": "MaxAscension"
+              },
+              {
+                "heroId": "wonderland_hatter",
+                "powerGrade": "MaxAscension"
+              }
+            ],
             "startTime": "2050-08-04 07:00:00"
           },
           {
@@ -14927,30 +14763,28 @@
               "league_family_hero_bonus_rare",
               "league_non_family_hero_debuffs"
             ],
-            "guestTeam": {
-              "guestMembers": [
-                {
-                  "heroId": "knights_black_knight",
-                  "powerGrade": "MaxAscension"
-                },
-                {
-                  "heroId": "fables_frog_prince",
-                  "powerGrade": "MaxAscension"
-                },
-                {
-                  "heroId": "knights_mordred",
-                  "powerGrade": "MaxAscension"
-                },
-                {
-                  "heroId": "wonderland_white_rabbit",
-                  "powerGrade": "MaxAscension"
-                },
-                {
-                  "heroId": "wonderland_hatter",
-                  "powerGrade": "MaxAscension"
-                }
-              ]
-            },
+            "guestMembers": [
+              {
+                "heroId": "knights_black_knight",
+                "powerGrade": "MaxAscension"
+              },
+              {
+                "heroId": "fables_frog_prince",
+                "powerGrade": "MaxAscension"
+              },
+              {
+                "heroId": "knights_mordred",
+                "powerGrade": "MaxAscension"
+              },
+              {
+                "heroId": "wonderland_white_rabbit",
+                "powerGrade": "MaxAscension"
+              },
+              {
+                "heroId": "wonderland_hatter",
+                "powerGrade": "MaxAscension"
+              }
+            ],
             "startTime": "2050-10-07 07:00:00"
           },
           {
@@ -14984,30 +14818,28 @@
               "league_family_hero_bonus_rare",
               "league_non_family_hero_debuffs"
             ],
-            "guestTeam": {
-              "guestMembers": [
-                {
-                  "heroId": "knights_black_knight",
-                  "powerGrade": "MaxAscension"
-                },
-                {
-                  "heroId": "fables_frog_prince",
-                  "powerGrade": "MaxAscension"
-                },
-                {
-                  "heroId": "knights_mordred",
-                  "powerGrade": "MaxAscension"
-                },
-                {
-                  "heroId": "wonderland_white_rabbit",
-                  "powerGrade": "MaxAscension"
-                },
-                {
-                  "heroId": "wonderland_hatter",
-                  "powerGrade": "MaxAscension"
-                }
-              ]
-            },
+            "guestMembers": [
+              {
+                "heroId": "knights_black_knight",
+                "powerGrade": "MaxAscension"
+              },
+              {
+                "heroId": "fables_frog_prince",
+                "powerGrade": "MaxAscension"
+              },
+              {
+                "heroId": "knights_mordred",
+                "powerGrade": "MaxAscension"
+              },
+              {
+                "heroId": "wonderland_white_rabbit",
+                "powerGrade": "MaxAscension"
+              },
+              {
+                "heroId": "wonderland_hatter",
+                "powerGrade": "MaxAscension"
+              }
+            ],
             "startTime": "2050-12-02 07:00:00"
           }
         ],
@@ -23167,6 +22999,186 @@
           },
           {
             "id": "伊莎贝尔",
+            "gemValue": 1000
+          },
+          {
+            "id": "安德烈·德·克莱蒙",
+            "gemValue": 1000
+          },
+          {
+            "id": "阿拉密斯-面包师火枪手",
+            "gemValue": 1000
+          },
+          {
+            "id": "阿多斯-铁匠火枪手",
+            "gemValue": 1000
+          },
+          {
+            "id": "波尔多斯-商人火枪手",
+            "gemValue": 1000
+          },
+          {
+            "id": "阿纳特玛",
+            "gemValue": 1000
+          },
+          {
+            "id": "阿加罗斯",
+            "gemValue": 1000
+          },
+          {
+            "id": "马埃尔",
+            "gemValue": 1000
+          },
+          {
+            "id": "派蒙",
+            "gemValue": 1000
+          },
+          {
+            "id": "克沙赫尔",
+            "gemValue": 1000
+          },
+          {
+            "id": "波波桑",
+            "gemValue": 1000
+          },
+          {
+            "id": "巴尔克卢格",
+            "gemValue": 1000
+          },
+          {
+            "id": "埃莉萨贝尔·德·蒂耶尔",
+            "gemValue": 1000
+          },
+          {
+            "id": "尤马基乌斯",
+            "gemValue": 1000
+          },
+          {
+            "id": "卢多维科",
+            "gemValue": 1000
+          },
+          {
+            "id": "塔莱茜娅",
+            "gemValue": 1000
+          },
+          {
+            "id": "吉耶梅特",
+            "gemValue": 1000
+          },
+          {
+            "id": "dragon_emner",
+            "gemValue": 1000
+          },
+          {
+            "id": "dragon_flutterfly",
+            "gemValue": 1000
+          },
+          {
+            "id": "dragon_ashenheart",
+            "gemValue": 1000
+          },
+          {
+            "id": "dragon_harmonis",
+            "gemValue": 1000
+          },
+          {
+            "id": "dragon_decoris",
+            "gemValue": 1000
+          },
+          {
+            "id": "dragon_glacio",
+            "gemValue": 1000
+          },
+          {
+            "id": "dragon_stormcaller",
+            "gemValue": 1000
+          },
+          {
+            "id": "dragon_ethir",
+            "gemValue": 1000
+          },
+          {
+            "id": "dragon_mordax",
+            "gemValue": 1000
+          },
+          {
+            "id": "dragon_ardentis",
+            "gemValue": 1000
+          },
+          {
+            "id": "dragon_lux",
+            "gemValue": 1000
+          },
+          {
+            "id": "dragon_doomweaver",
+            "gemValue": 1000
+          },
+          {
+            "id": "dragon_cindron",
+            "gemValue": 1000
+          },
+          {
+            "id": "dragon_eotei",
+            "gemValue": 1000
+          },
+          {
+            "id": "dragon_sassy",
+            "gemValue": 1000
+          },
+          {
+            "id": "dragon_frosthowl",
+            "gemValue": 1000
+          },
+          {
+            "id": "dragon_nimblewing",
+            "gemValue": 1000
+          },
+          {
+            "id": "dragon_cuddlewing",
+            "gemValue": 1000
+          },
+          {
+            "id": "dragon_owlford",
+            "gemValue": 1000
+          },
+          {
+            "id": "dragon_rusty",
+            "gemValue": 1000
+          },
+          {
+            "id": "dragon_snowy",
+            "gemValue": 1000
+          },
+          {
+            "id": "dragon_leafwind",
+            "gemValue": 1000
+          },
+          {
+            "id": "dragon_sting",
+            "gemValue": 1000
+          },
+          {
+            "id": "dragon_tropicus",
+            "gemValue": 1000
+          },
+          {
+            "id": "dragon_sparky",
+            "gemValue": 1000
+          },
+          {
+            "id": "dragon_fantomo",
+            "gemValue": 1000
+          },
+          {
+            "id": "dragon_zostrasz",
+            "gemValue": 1000
+          },
+          {
+            "id": "霍滕西娅",
+            "gemValue": 1000
+          },
+          {
+            "id": "沙里夫",
             "gemValue": 1000
           }
         ],
@@ -40688,12 +40700,6 @@
           ],
           "challengeSeasonsEntries": [
             {
-              "occurrenceId": "path_of_valor_30_6_2025",
-              "challengeSeasonId": "path_of_valor_3",
-              "startTime": "2025-06-30 07:00:00",
-              "endTime": "2025-07-28 07:00:00"
-            },
-            {
               "occurrenceId": "path_of_valor_28_7_2025",
               "challengeSeasonId": "path_of_valor_4",
               "startTime": "2025-07-28 07:00:00",
@@ -40734,6 +40740,18 @@
               "challengeSeasonId": "path_of_valor_10",
               "startTime": "2026-01-12 07:00:00",
               "endTime": "2026-02-09 07:00:00"
+            },
+            {
+              "occurrenceId": "path_of_valor_9_2_2026",
+              "challengeSeasonId": "path_of_valor_1",
+              "startTime": "2026-02-09 07:00:00",
+              "endTime": "2026-03-09 07:00:00"
+            },
+            {
+              "occurrenceId": "path_of_valor_9_3_2026",
+              "challengeSeasonId": "path_of_valor_2",
+              "startTime": "2026-03-09 07:00:00",
+              "endTime": "2026-04-06 07:00:00"
             }
           ]
         },
@@ -44030,12 +44048,6 @@
           ],
           "challengeSeasonsEntries": [
             {
-              "occurrenceId": "path_of_giants_30_6_2025",
-              "challengeSeasonId": "path_of_giants_8",
-              "startTime": "2025-06-30 07:00:00",
-              "endTime": "2025-07-28 07:00:00"
-            },
-            {
               "occurrenceId": "path_of_giants_28_7_2025",
               "challengeSeasonId": "path_of_giants_9",
               "startTime": "2025-07-28 07:00:00",
@@ -44076,6 +44088,18 @@
               "challengeSeasonId": "path_of_giants_5",
               "startTime": "2026-01-12 07:00:00",
               "endTime": "2026-02-09 07:00:00"
+            },
+            {
+              "occurrenceId": "path_of_giants_9_2_2026",
+              "challengeSeasonId": "path_of_giants_6",
+              "startTime": "2026-02-09 07:00:00",
+              "endTime": "2026-03-09 07:00:00"
+            },
+            {
+              "occurrenceId": "path_of_giants_9_3_2026",
+              "challengeSeasonId": "path_of_giants_7",
+              "startTime": "2026-03-09 07:00:00",
+              "endTime": "2026-04-06 07:00:00"
             }
           ]
         },
@@ -48140,12 +48164,6 @@
           ],
           "challengeSeasonsEntries": [
             {
-              "occurrenceId": "path_of_dragons_14_7_2025",
-              "challengeSeasonId": "path_of_dragons_1",
-              "startTime": "2025-07-14 07:00:00",
-              "endTime": "2025-08-11 07:00:00"
-            },
-            {
               "occurrenceId": "path_of_dragons_11_8_2025",
               "challengeSeasonId": "path_of_dragons_2",
               "startTime": "2025-08-11 07:00:00",
@@ -48186,6 +48204,12 @@
               "challengeSeasonId": "path_of_dragons_8",
               "startTime": "2026-01-26 07:00:00",
               "endTime": "2026-02-23 07:00:00"
+            },
+            {
+              "occurrenceId": "path_of_dragons_23_2_2026",
+              "challengeSeasonId": "path_of_dragons_9",
+              "startTime": "2026-02-23 07:00:00",
+              "endTime": "2026-03-23 07:00:00"
             }
           ]
         },
@@ -49644,9 +49668,9 @@
         "pvpRules": {
           "enabled": true,
           "minTrophiesToStart": 600,
-          "chestLootId": "pvp_rules_chest_reward",
+          "chestLootId": "pvp_rules_chest_reward_100",
           "chestCooldown": 518340,
-          "winsNeededToCollectChest": 50,
+          "winsNeededToCollectChest": 100,
           "schedule": [
             {
               "id": "summer_brawl",
@@ -49675,6 +49699,13 @@
               "levelPropertyId": "kalevala_brawl",
               "startTime": "2025-08-25 07:00:00",
               "endTime": "2025-09-08 07:00:00"
+            },
+            {
+              "id": "halloween_brawl",
+              "battleSpecificHeroEffectId": "halloween_brawl",
+              "levelPropertyId": "halloween_brawl",
+              "startTime": "2025-10-08 07:00:00",
+              "endTime": "2025-11-04 07:00:00"
             }
           ]
         }
@@ -49956,11 +49987,6 @@
               "endTime": "2022-04-20 07:00:00"
             },
             {
-              "uberTitanId": "mythic_titan_baba_yaga",
-              "startTime": "2025-07-21 07:00:00",
-              "endTime": "2025-07-23 07:00:00"
-            },
-            {
               "uberTitanId": "mythic_titan_jormungandr",
               "startTime": "2025-09-15 07:00:00",
               "endTime": "2025-09-17 07:00:00"
@@ -49974,6 +50000,11 @@
               "uberTitanId": "mythic_titan_hades",
               "startTime": "2026-01-05 07:00:00",
               "endTime": "2026-01-07 07:00:00"
+            },
+            {
+              "uberTitanId": "mythic_titan_gilgamesh",
+              "startTime": "2026-03-02 07:00:00",
+              "endTime": "2026-03-04 07:00:00"
             }
           ]
         },
@@ -50522,9 +50553,10 @@
               "endTime": "2025-10-02 07:00:00"
             },
             {
+              "overridden": true,
               "id": "mercenary_war_9_12_2025",
-              "startTime": "2025-12-09 07:00:00",
-              "endTime": "2025-12-14 07:00:00"
+              "startTime": "2025-10-28 07:00:00",
+              "endTime": "2025-11-02 07:00:00"
             },
             {
               "id": "mercenary_war_3_2_2026",
@@ -50625,7 +50657,7 @@
         "moveToRevealedCellEnergyCost": 1,
         "attackBaseEnergyCost": 10,
         "attackIncrementEnergyCost": 10,
-        "startEnergy": 300,
+        "startEnergy": 500,
         "refillEnergy": 100,
         "maxEnergy": 1000,
         "maxEnergyRefills": 20,
@@ -50633,7 +50665,7 @@
         "treasureChestsCount": 50,
         "relicChestsCount": 10,
         "titanKillBonusScorePoints": 200000,
-        "maxHealthReductionFromDamagePerMil": 200,
+        "maxHealthReductionFromDamagePerMil": 400,
         "maxHealthReductionForRevivePerMil": 500,
         "hexMapCells": [
           "water",
@@ -50943,7 +50975,7 @@
           "water",
           "sand",
           "jungle05",
-          "jungle05",
+          "sand04",
           "sand",
           "waterline_topleft",
           "water",
@@ -50969,7 +51001,7 @@
           "sand",
           "sand",
           "dirt",
-          "dirt",
+          "dirt08",
           "dirt05",
           "sand",
           "sand",
@@ -51058,7 +51090,7 @@
           "grass02",
           "grass02",
           "grass02",
-          "grass02",
+          "forest",
           "grass02",
           "grass02",
           "sand02",
@@ -51157,7 +51189,7 @@
           "grass02",
           "grass02",
           "grass02",
-          "grass02",
+          "forest02",
           "grass03",
           "grass02",
           "grass02",
@@ -51208,7 +51240,7 @@
           "grass02",
           "grass02",
           "grass03",
-          "grass02",
+          "forest",
           "grass02",
           "grass02",
           "grass02",
@@ -51256,9 +51288,9 @@
           "sand",
           "grass02",
           "forest02",
+          "forest02",
           "grass02",
-          "grass02",
-          "grass02",
+          "forest",
           "grass02",
           "forest02",
           "forest",
@@ -51308,8 +51340,8 @@
           "grass02",
           "grass02",
           "grass02",
-          "grass02",
-          "grass02",
+          "forest",
+          "forest02",
           "grass02",
           "grass03",
           "grass02",
@@ -51391,7 +51423,7 @@
           "water",
           "waterline_topright",
           "sand",
-          "jungle02",
+          "sand04",
           "jungle05",
           "jungle14",
           "jungle05",
@@ -51425,7 +51457,7 @@
           "sand",
           "sand",
           "sand",
-          "sand",
+          "sand04",
           "sand",
           "sand",
           "grass02",
@@ -51565,7 +51597,7 @@
           "waterline_top",
           "waterline_topleft",
           "sand",
-          "sand",
+          "sand04",
           "sand",
           "sand",
           "sand",
@@ -51602,7 +51634,7 @@
           "grass02",
           "grass02",
           "grass",
-          "grass02",
+          "forest",
           "grass02",
           "grass02",
           "grass02",
@@ -51651,8 +51683,8 @@
           "grass02",
           "grass02",
           "grass02",
-          "grass02",
-          "grass02",
+          "forest",
+          "forest",
           "grass02",
           "grass03",
           "grass02",
@@ -51663,7 +51695,7 @@
           "grass02",
           "grass02",
           "grass02",
-          "grass02",
+          "forest",
           "grass03",
           "sand",
           "sand",
@@ -51702,7 +51734,7 @@
           "grass02",
           "grass02",
           "grass02",
-          "grass02",
+          "forest",
           "forest02",
           "grass02",
           "grass02",
@@ -51926,7 +51958,7 @@
           "grass02",
           "dirt",
           "dirt05",
-          "dirt",
+          "dirt08",
           "dirt04",
           "forest02",
           "grass03",
@@ -51965,7 +51997,7 @@
           "grass02",
           "grass02",
           "grass02",
-          "grass02",
+          "forest02",
           "forest02",
           "forest",
           "grass02",
@@ -52017,9 +52049,9 @@
           "grass02",
           "grass",
           "grass02",
-          "grass02",
-          "dirt02",
-          "dirt06",
+          "forest02",
+          "dirt05",
+          "dirt",
           "grass02",
           "grass02",
           "waterline_top",
@@ -52065,10 +52097,10 @@
           "water",
           "grass02",
           "grass02",
-          "grass02",
+          "forest02",
+          "forest02",
           "dirt",
-          "dirt",
-          "dirt05",
+          "dirt07",
           "dirt04",
           "grass02",
           "waterline_topleft",
@@ -52090,7 +52122,7 @@
           "water",
           "water",
           "sand",
-          "sand",
+          "sand04",
           "jungle09",
           "jungle05",
           "jungle",
@@ -52140,7 +52172,7 @@
           "water",
           "waterline_topright",
           "sand02",
-          "grass02",
+          "jungle07",
           "jungle03",
           "jungle04",
           "jungle06",
@@ -52177,7 +52209,7 @@
           "forest",
           "forest",
           "forest02",
-          "forest02",
+          "sand04",
           "sand",
           "water",
           "water",
@@ -52206,11 +52238,11 @@
           "waterline_top",
           "forest",
           "dirt03",
-          "dirt03",
+          "dirt07",
           "dirt02",
           "forest02",
-          "grass03",
-          "waterline_topleft",
+          "grass02",
+          "grass02",
           "water",
           "water",
           "water",
@@ -52439,11 +52471,11 @@
           "water",
           "water",
           "water",
-          "jungle02",
           "dirt",
+          "dirt04",
           "dirt03",
           "dirt02",
-          "jungle02",
+          "dirt",
           "waterstones",
           "water",
           "waterline_topright",
@@ -52491,7 +52523,7 @@
           "water",
           "waterline_topright",
           "dirt",
-          "dirt",
+          "dirt07",
           "dirt06",
           "dirt",
           "dirt02",
@@ -52875,7 +52907,7 @@
           "snow",
           "snow04",
           "snow02",
-          "forest",
+          "snow03",
           "snow04",
           "snow",
           "waterline_topleft",
@@ -53143,315 +53175,360 @@
             "isWalkable": false,
             "tileType": "Water",
             "canHaveExtraContent": false,
-            "discoveryEnergyCost": 0
+            "discoveryEnergyCost": 0,
+            "discoveryVisionRevealRange": 0
           },
           {
             "id": "dirt",
             "isWalkable": true,
             "tileType": "None",
             "canHaveExtraContent": true,
-            "discoveryEnergyCost": 10
+            "discoveryEnergyCost": 5,
+            "discoveryVisionRevealRange": 1
           },
           {
             "id": "dirt02",
             "isWalkable": true,
             "tileType": "None",
             "canHaveExtraContent": true,
-            "discoveryEnergyCost": 15
+            "discoveryEnergyCost": 10,
+            "discoveryVisionRevealRange": 1
           },
           {
             "id": "dirt03",
             "isWalkable": true,
             "tileType": "None",
             "canHaveExtraContent": true,
-            "discoveryEnergyCost": 15
+            "discoveryEnergyCost": 10,
+            "discoveryVisionRevealRange": 1
           },
           {
             "id": "dirt04",
             "isWalkable": true,
             "tileType": "None",
             "canHaveExtraContent": true,
-            "discoveryEnergyCost": 10
+            "discoveryEnergyCost": 5,
+            "discoveryVisionRevealRange": 1
           },
           {
             "id": "dirt05",
             "isWalkable": true,
             "tileType": "None",
             "canHaveExtraContent": true,
-            "discoveryEnergyCost": 10
+            "discoveryEnergyCost": 10,
+            "discoveryVisionRevealRange": 1
           },
           {
             "id": "dirt06",
             "isWalkable": true,
             "tileType": "None",
             "canHaveExtraContent": true,
-            "discoveryEnergyCost": 10
+            "discoveryEnergyCost": 10,
+            "discoveryVisionRevealRange": 1
           },
           {
             "id": "dirt07",
             "isWalkable": true,
             "tileType": "None",
             "canHaveExtraContent": true,
-            "discoveryEnergyCost": 30
+            "discoveryEnergyCost": 35,
+            "discoveryVisionRevealRange": 3
           },
           {
             "id": "dirt08",
             "isWalkable": true,
             "tileType": "None",
             "canHaveExtraContent": true,
-            "discoveryEnergyCost": 30
+            "discoveryEnergyCost": 35,
+            "discoveryVisionRevealRange": 3
           },
           {
             "id": "forest",
             "isWalkable": true,
             "tileType": "None",
             "canHaveExtraContent": true,
-            "discoveryEnergyCost": 30
+            "discoveryEnergyCost": 30,
+            "discoveryVisionRevealRange": 1
           },
           {
             "id": "forest02",
             "isWalkable": true,
             "tileType": "None",
             "canHaveExtraContent": true,
-            "discoveryEnergyCost": 25
+            "discoveryEnergyCost": 25,
+            "discoveryVisionRevealRange": 1
           },
           {
             "id": "grass",
             "isWalkable": true,
             "tileType": "None",
             "canHaveExtraContent": true,
-            "discoveryEnergyCost": 20
+            "discoveryEnergyCost": 20,
+            "discoveryVisionRevealRange": 1
           },
           {
             "id": "grass02",
             "isWalkable": true,
             "tileType": "None",
             "canHaveExtraContent": true,
-            "discoveryEnergyCost": 15
+            "discoveryEnergyCost": 15,
+            "discoveryVisionRevealRange": 1
           },
           {
             "id": "grass03",
             "isWalkable": true,
             "tileType": "None",
             "canHaveExtraContent": true,
-            "discoveryEnergyCost": 20
+            "discoveryEnergyCost": 20,
+            "discoveryVisionRevealRange": 1
           },
           {
             "id": "jungle",
             "isWalkable": true,
             "tileType": "None",
             "canHaveExtraContent": true,
-            "discoveryEnergyCost": 30
+            "discoveryEnergyCost": 30,
+            "discoveryVisionRevealRange": 1
           },
           {
             "id": "jungle02",
             "isWalkable": true,
             "tileType": "None",
             "canHaveExtraContent": true,
-            "discoveryEnergyCost": 10
+            "discoveryEnergyCost": 10,
+            "discoveryVisionRevealRange": 1
           },
           {
             "id": "jungle03",
             "isWalkable": true,
             "tileType": "None",
             "canHaveExtraContent": true,
-            "discoveryEnergyCost": 15
+            "discoveryEnergyCost": 15,
+            "discoveryVisionRevealRange": 1
           },
           {
             "id": "jungle04",
             "isWalkable": true,
             "tileType": "None",
             "canHaveExtraContent": true,
-            "discoveryEnergyCost": 20
+            "discoveryEnergyCost": 20,
+            "discoveryVisionRevealRange": 1
           },
           {
             "id": "jungle05",
             "isWalkable": true,
             "tileType": "None",
             "canHaveExtraContent": true,
-            "discoveryEnergyCost": 30
+            "discoveryEnergyCost": 30,
+            "discoveryVisionRevealRange": 1
           },
           {
             "id": "jungle06",
             "isWalkable": true,
             "tileType": "None",
             "canHaveExtraContent": true,
-            "discoveryEnergyCost": 25
+            "discoveryEnergyCost": 25,
+            "discoveryVisionRevealRange": 1
           },
           {
             "id": "jungle07",
             "isWalkable": true,
             "tileType": "None",
             "canHaveExtraContent": true,
-            "discoveryEnergyCost": 25
+            "discoveryEnergyCost": 25,
+            "discoveryVisionRevealRange": 1
           },
           {
             "id": "jungle08",
             "isWalkable": true,
             "tileType": "None",
             "canHaveExtraContent": true,
-            "discoveryEnergyCost": 20
+            "discoveryEnergyCost": 20,
+            "discoveryVisionRevealRange": 1
           },
           {
             "id": "jungle09",
             "isWalkable": true,
             "tileType": "None",
             "canHaveExtraContent": true,
-            "discoveryEnergyCost": 15
+            "discoveryEnergyCost": 15,
+            "discoveryVisionRevealRange": 1
           },
           {
             "id": "jungle10",
             "isWalkable": true,
             "tileType": "None",
             "canHaveExtraContent": true,
-            "discoveryEnergyCost": 20
+            "discoveryEnergyCost": 20,
+            "discoveryVisionRevealRange": 1
           },
           {
             "id": "jungle11",
             "isWalkable": true,
             "tileType": "None",
             "canHaveExtraContent": true,
-            "discoveryEnergyCost": 30
+            "discoveryEnergyCost": 30,
+            "discoveryVisionRevealRange": 1
           },
           {
             "id": "jungle12",
             "isWalkable": true,
             "tileType": "None",
             "canHaveExtraContent": true,
-            "discoveryEnergyCost": 25
+            "discoveryEnergyCost": 25,
+            "discoveryVisionRevealRange": 1
           },
           {
             "id": "jungle13",
             "isWalkable": true,
             "tileType": "None",
             "canHaveExtraContent": true,
-            "discoveryEnergyCost": 25
+            "discoveryEnergyCost": 25,
+            "discoveryVisionRevealRange": 1
           },
           {
             "id": "jungle14",
             "isWalkable": true,
             "tileType": "None",
             "canHaveExtraContent": true,
-            "discoveryEnergyCost": 25
+            "discoveryEnergyCost": 25,
+            "discoveryVisionRevealRange": 1
           },
           {
             "id": "mud",
             "isWalkable": true,
             "tileType": "None",
             "canHaveExtraContent": true,
-            "discoveryEnergyCost": 10
+            "discoveryEnergyCost": 10,
+            "discoveryVisionRevealRange": 1
           },
           {
             "id": "sand",
             "isWalkable": true,
             "tileType": "None",
             "canHaveExtraContent": true,
-            "discoveryEnergyCost": 10
+            "discoveryEnergyCost": 10,
+            "discoveryVisionRevealRange": 1
           },
           {
             "id": "sand02",
             "isWalkable": true,
             "tileType": "None",
             "canHaveExtraContent": true,
-            "discoveryEnergyCost": 15
+            "discoveryEnergyCost": 15,
+            "discoveryVisionRevealRange": 1
           },
           {
             "id": "sand03",
             "isWalkable": true,
             "tileType": "None",
             "canHaveExtraContent": true,
-            "discoveryEnergyCost": 10
+            "discoveryEnergyCost": 10,
+            "discoveryVisionRevealRange": 1
           },
           {
             "id": "sand04",
             "isWalkable": true,
             "tileType": "None",
             "canHaveExtraContent": true,
-            "discoveryEnergyCost": 30
+            "discoveryEnergyCost": 30,
+            "discoveryVisionRevealRange": 2
           },
           {
             "id": "snow",
             "isWalkable": true,
             "tileType": "None",
             "canHaveExtraContent": true,
-            "discoveryEnergyCost": 15
+            "discoveryEnergyCost": 15,
+            "discoveryVisionRevealRange": 1
           },
           {
             "id": "snow02",
             "isWalkable": true,
             "tileType": "None",
             "canHaveExtraContent": true,
-            "discoveryEnergyCost": 20
+            "discoveryEnergyCost": 20,
+            "discoveryVisionRevealRange": 1
           },
           {
             "id": "snow03",
             "isWalkable": true,
             "tileType": "None",
             "canHaveExtraContent": true,
-            "discoveryEnergyCost": 30
+            "discoveryEnergyCost": 35,
+            "discoveryVisionRevealRange": 3
           },
           {
             "id": "snow04",
             "isWalkable": true,
             "tileType": "None",
             "canHaveExtraContent": true,
-            "discoveryEnergyCost": 30
+            "discoveryEnergyCost": 25,
+            "discoveryVisionRevealRange": 1
           },
           {
             "id": "waterline_top",
             "isWalkable": false,
             "tileType": "Water",
             "canHaveExtraContent": false,
-            "discoveryEnergyCost": 0
+            "discoveryEnergyCost": 0,
+            "discoveryVisionRevealRange": 0
           },
           {
             "id": "waterline_topleft",
             "isWalkable": false,
             "tileType": "Water",
             "canHaveExtraContent": false,
-            "discoveryEnergyCost": 0
+            "discoveryEnergyCost": 0,
+            "discoveryVisionRevealRange": 0
           },
           {
             "id": "waterline_topright",
             "isWalkable": false,
             "tileType": "Water",
             "canHaveExtraContent": false,
-            "discoveryEnergyCost": 0
+            "discoveryEnergyCost": 0,
+            "discoveryVisionRevealRange": 0
           },
           {
             "id": "waterstones",
             "isWalkable": true,
             "tileType": "Waterstone",
             "canHaveExtraContent": false,
-            "discoveryEnergyCost": 30
+            "discoveryEnergyCost": 30,
+            "discoveryVisionRevealRange": 1
           },
           {
             "id": "waterstones_top",
             "isWalkable": true,
             "tileType": "Waterstone",
             "canHaveExtraContent": false,
-            "discoveryEnergyCost": 30
+            "discoveryEnergyCost": 30,
+            "discoveryVisionRevealRange": 1
           },
           {
             "id": "waterstones_topleft",
             "isWalkable": true,
             "tileType": "Waterstone",
             "canHaveExtraContent": false,
-            "discoveryEnergyCost": 30
+            "discoveryEnergyCost": 30,
+            "discoveryVisionRevealRange": 1
           },
           {
             "id": "waterstones_topright",
             "isWalkable": true,
             "tileType": "Waterstone",
             "canHaveExtraContent": false,
-            "discoveryEnergyCost": 30
+            "discoveryEnergyCost": 30,
+            "discoveryVisionRevealRange": 1
           },
           {
             "id": "campsite",
             "isWalkable": true,
             "tileType": "Campsite",
             "canHaveExtraContent": false,
-            "discoveryEnergyCost": 0
+            "discoveryEnergyCost": 0,
+            "discoveryVisionRevealRange": 1
           }
         ],
         "startCellIds": [
@@ -53466,49 +53543,105 @@
         "hordeConfigurations": [
           {
             "hordeId": "quest_monster_island_horde_small_yellow",
-            "mapHordeCount": 4,
+            "mapHordeCount": 2,
             "hordeBattleEnemyCount": 40,
             "hordeTreasureKeyChancePerMil": 30,
             "hordeRelicKeyChancePerMil": 200
           },
           {
             "hordeId": "quest_monster_island_horde_small_purple",
-            "mapHordeCount": 4,
+            "mapHordeCount": 2,
             "hordeBattleEnemyCount": 40,
             "hordeTreasureKeyChancePerMil": 30,
             "hordeRelicKeyChancePerMil": 200
           },
           {
             "hordeId": "quest_monster_island_horde_small_blue",
-            "mapHordeCount": 4,
+            "mapHordeCount": 2,
             "hordeBattleEnemyCount": 40,
             "hordeTreasureKeyChancePerMil": 30,
             "hordeRelicKeyChancePerMil": 200
           },
           {
             "hordeId": "quest_monster_island_horde_small_red",
-            "mapHordeCount": 4,
+            "mapHordeCount": 2,
             "hordeBattleEnemyCount": 40,
             "hordeTreasureKeyChancePerMil": 30,
             "hordeRelicKeyChancePerMil": 200
           },
           {
             "hordeId": "quest_monster_island_horde_small_green",
-            "mapHordeCount": 4,
+            "mapHordeCount": 2,
             "hordeBattleEnemyCount": 40,
             "hordeTreasureKeyChancePerMil": 30,
             "hordeRelicKeyChancePerMil": 200
           },
           {
-            "hordeId": "quest_monster_island_horde_medium",
-            "mapHordeCount": 10,
+            "hordeId": "quest_monster_island_horde_medium_yellow",
+            "mapHordeCount": 2,
             "hordeBattleEnemyCount": 100,
             "hordeTreasureKeyChancePerMil": 40,
             "hordeRelicKeyChancePerMil": 300
           },
           {
-            "hordeId": "quest_monster_island_horde_large",
-            "mapHordeCount": 10,
+            "hordeId": "quest_monster_island_horde_medium_purple",
+            "mapHordeCount": 2,
+            "hordeBattleEnemyCount": 100,
+            "hordeTreasureKeyChancePerMil": 40,
+            "hordeRelicKeyChancePerMil": 300
+          },
+          {
+            "hordeId": "quest_monster_island_horde_medium_blue",
+            "mapHordeCount": 2,
+            "hordeBattleEnemyCount": 100,
+            "hordeTreasureKeyChancePerMil": 40,
+            "hordeRelicKeyChancePerMil": 300
+          },
+          {
+            "hordeId": "quest_monster_island_horde_medium_red",
+            "mapHordeCount": 2,
+            "hordeBattleEnemyCount": 100,
+            "hordeTreasureKeyChancePerMil": 40,
+            "hordeRelicKeyChancePerMil": 300
+          },
+          {
+            "hordeId": "quest_monster_island_horde_medium_green",
+            "mapHordeCount": 2,
+            "hordeBattleEnemyCount": 100,
+            "hordeTreasureKeyChancePerMil": 40,
+            "hordeRelicKeyChancePerMil": 300
+          },
+          {
+            "hordeId": "quest_monster_island_horde_large_yellow",
+            "mapHordeCount": 2,
+            "hordeBattleEnemyCount": 180,
+            "hordeTreasureKeyChancePerMil": 60,
+            "hordeRelicKeyChancePerMil": 400
+          },
+          {
+            "hordeId": "quest_monster_island_horde_large_purple",
+            "mapHordeCount": 2,
+            "hordeBattleEnemyCount": 180,
+            "hordeTreasureKeyChancePerMil": 60,
+            "hordeRelicKeyChancePerMil": 400
+          },
+          {
+            "hordeId": "quest_monster_island_horde_large_blue",
+            "mapHordeCount": 2,
+            "hordeBattleEnemyCount": 180,
+            "hordeTreasureKeyChancePerMil": 60,
+            "hordeRelicKeyChancePerMil": 400
+          },
+          {
+            "hordeId": "quest_monster_island_horde_large_red",
+            "mapHordeCount": 2,
+            "hordeBattleEnemyCount": 180,
+            "hordeTreasureKeyChancePerMil": 60,
+            "hordeRelicKeyChancePerMil": 400
+          },
+          {
+            "hordeId": "quest_monster_island_horde_large_green",
+            "mapHordeCount": 2,
             "hordeBattleEnemyCount": 180,
             "hordeTreasureKeyChancePerMil": 60,
             "hordeRelicKeyChancePerMil": 400
@@ -53528,7 +53661,7 @@
           {
             "mapTitanCount": 5,
             "treasureKeyDropCount": 3,
-            "levelMultiplierPerMil": 1500
+            "levelMultiplierPerMil": 2000
           }
         ],
         "scorePointsPerCellRevealed": 250,
@@ -53696,11 +53829,6 @@
                         "type": "Item",
                         "id": "lottery_elite_hero",
                         "amount": 1
-                      },
-                      {
-                        "type": "Hero",
-                        "id": "trainer_rainbow_rare",
-                        "amount": 1
                       }
                     ]
                   },
@@ -53731,11 +53859,6 @@
                         "amount": 2
                       },
                       {
-                        "type": "Hero",
-                        "id": "trainer_rainbow_rare",
-                        "amount": 1
-                      },
-                      {
                         "type": "Item",
                         "id": "lottery_monster_island_coin",
                         "amount": 5
@@ -53779,11 +53902,6 @@
                         "amount": 2
                       },
                       {
-                        "type": "Hero",
-                        "id": "trainer_rainbow_rare",
-                        "amount": 1
-                      },
-                      {
                         "type": "Item",
                         "id": "lottery_monster_island_coin",
                         "amount": 5
@@ -53801,11 +53919,6 @@
                         "type": "Item",
                         "id": "emblem_barbarian",
                         "amount": 2
-                      },
-                      {
-                        "type": "Hero",
-                        "id": "trainer_rainbow_rare",
-                        "amount": 1
                       },
                       {
                         "type": "Item",
@@ -53963,11 +54076,6 @@
                         "type": "Item",
                         "id": "lottery_elite_hero",
                         "amount": 1
-                      },
-                      {
-                        "type": "Hero",
-                        "id": "trainer_rainbow_rare",
-                        "amount": 1
                       }
                     ]
                   },
@@ -53996,11 +54104,6 @@
                         "type": "Item",
                         "id": "emblem_barbarian",
                         "amount": 3
-                      },
-                      {
-                        "type": "Hero",
-                        "id": "trainer_rainbow_rare",
-                        "amount": 1
                       },
                       {
                         "type": "Item",
@@ -54051,11 +54154,6 @@
                         "amount": 3
                       },
                       {
-                        "type": "Hero",
-                        "id": "trainer_rainbow_rare",
-                        "amount": 1
-                      },
-                      {
                         "type": "Item",
                         "id": "lottery_monster_island_coin",
                         "amount": 10
@@ -54077,11 +54175,6 @@
                       {
                         "type": "Item",
                         "id": "hero_limitbreak_rare_blue",
-                        "amount": 1
-                      },
-                      {
-                        "type": "Hero",
-                        "id": "trainer_rainbow_rare",
                         "amount": 1
                       },
                       {
@@ -54265,11 +54358,6 @@
                         "type": "Item",
                         "id": "lottery_elite_hero",
                         "amount": 1
-                      },
-                      {
-                        "type": "Hero",
-                        "id": "trainer_rainbow_rare",
-                        "amount": 1
                       }
                     ]
                   },
@@ -54310,11 +54398,6 @@
                         "amount": 7
                       },
                       {
-                        "type": "Hero",
-                        "id": "trainer_rainbow_rare",
-                        "amount": 1
-                      },
-                      {
                         "type": "Item",
                         "id": "lottery_monster_island_coin",
                         "amount": 20
@@ -54368,11 +54451,6 @@
                         "amount": 1
                       },
                       {
-                        "type": "Hero",
-                        "id": "trainer_rainbow_rare",
-                        "amount": 1
-                      },
-                      {
                         "type": "Item",
                         "id": "lottery_monster_island_coin",
                         "amount": 20
@@ -54394,11 +54472,6 @@
                       {
                         "type": "Item",
                         "id": "hero_limitbreak_rare_blue",
-                        "amount": 1
-                      },
-                      {
-                        "type": "Hero",
-                        "id": "trainer_rainbow_rare",
                         "amount": 1
                       },
                       {
@@ -54597,11 +54670,6 @@
                         "type": "Item",
                         "id": "lottery_elite_hero",
                         "amount": 1
-                      },
-                      {
-                        "type": "Hero",
-                        "id": "trainer_rainbow_rare",
-                        "amount": 1
                       }
                     ]
                   },
@@ -54649,11 +54717,6 @@
                       {
                         "type": "Item",
                         "id": "hero_limitbreak_rare_blue",
-                        "amount": 1
-                      },
-                      {
-                        "type": "Hero",
-                        "id": "trainer_rainbow_rare",
                         "amount": 1
                       },
                       {
@@ -54725,11 +54788,6 @@
                         "amount": 1
                       },
                       {
-                        "type": "Hero",
-                        "id": "trainer_rainbow_rare",
-                        "amount": 1
-                      },
-                      {
                         "type": "Item",
                         "id": "lottery_monster_island_coin",
                         "amount": 40
@@ -54756,11 +54814,6 @@
                       {
                         "type": "Item",
                         "id": "hero_limitbreak_epic_blue",
-                        "amount": 1
-                      },
-                      {
-                        "type": "Hero",
-                        "id": "trainer_rainbow_rare",
                         "amount": 1
                       },
                       {
@@ -54949,11 +55002,6 @@
                         "type": "Item",
                         "id": "lottery_elite_hero",
                         "amount": 1
-                      },
-                      {
-                        "type": "Hero",
-                        "id": "trainer_rainbow_rare",
-                        "amount": 1
                       }
                     ]
                   },
@@ -54984,11 +55032,6 @@
                         "amount": 2
                       },
                       {
-                        "type": "Hero",
-                        "id": "trainer_rainbow_rare",
-                        "amount": 1
-                      },
-                      {
                         "type": "Item",
                         "id": "lottery_monster_island_coin",
                         "amount": 5
@@ -55032,11 +55075,6 @@
                         "amount": 2
                       },
                       {
-                        "type": "Hero",
-                        "id": "trainer_rainbow_rare",
-                        "amount": 1
-                      },
-                      {
                         "type": "Item",
                         "id": "lottery_monster_island_coin",
                         "amount": 5
@@ -55054,11 +55092,6 @@
                         "type": "Item",
                         "id": "emblem_sorcerer",
                         "amount": 2
-                      },
-                      {
-                        "type": "Hero",
-                        "id": "trainer_rainbow_rare",
-                        "amount": 1
                       },
                       {
                         "type": "Item",
@@ -55216,11 +55249,6 @@
                         "type": "Item",
                         "id": "lottery_elite_hero",
                         "amount": 1
-                      },
-                      {
-                        "type": "Hero",
-                        "id": "trainer_rainbow_rare",
-                        "amount": 1
                       }
                     ]
                   },
@@ -55249,11 +55277,6 @@
                         "type": "Item",
                         "id": "emblem_cleric",
                         "amount": 3
-                      },
-                      {
-                        "type": "Hero",
-                        "id": "trainer_rainbow_rare",
-                        "amount": 1
                       },
                       {
                         "type": "Item",
@@ -55304,11 +55327,6 @@
                         "amount": 3
                       },
                       {
-                        "type": "Hero",
-                        "id": "trainer_rainbow_rare",
-                        "amount": 1
-                      },
-                      {
                         "type": "Item",
                         "id": "lottery_monster_island_coin",
                         "amount": 10
@@ -55330,11 +55348,6 @@
                       {
                         "type": "Item",
                         "id": "hero_limitbreak_rare_green",
-                        "amount": 1
-                      },
-                      {
-                        "type": "Hero",
-                        "id": "trainer_rainbow_rare",
                         "amount": 1
                       },
                       {
@@ -55518,11 +55531,6 @@
                         "type": "Item",
                         "id": "lottery_elite_hero",
                         "amount": 1
-                      },
-                      {
-                        "type": "Hero",
-                        "id": "trainer_rainbow_rare",
-                        "amount": 1
                       }
                     ]
                   },
@@ -55563,11 +55571,6 @@
                         "amount": 7
                       },
                       {
-                        "type": "Hero",
-                        "id": "trainer_rainbow_rare",
-                        "amount": 1
-                      },
-                      {
                         "type": "Item",
                         "id": "lottery_monster_island_coin",
                         "amount": 20
@@ -55621,11 +55624,6 @@
                         "amount": 1
                       },
                       {
-                        "type": "Hero",
-                        "id": "trainer_rainbow_rare",
-                        "amount": 1
-                      },
-                      {
                         "type": "Item",
                         "id": "lottery_monster_island_coin",
                         "amount": 20
@@ -55647,11 +55645,6 @@
                       {
                         "type": "Item",
                         "id": "hero_limitbreak_rare_green",
-                        "amount": 1
-                      },
-                      {
-                        "type": "Hero",
-                        "id": "trainer_rainbow_rare",
                         "amount": 1
                       },
                       {
@@ -55850,11 +55843,6 @@
                         "type": "Item",
                         "id": "lottery_elite_hero",
                         "amount": 1
-                      },
-                      {
-                        "type": "Hero",
-                        "id": "trainer_rainbow_rare",
-                        "amount": 1
                       }
                     ]
                   },
@@ -55902,11 +55890,6 @@
                       {
                         "type": "Item",
                         "id": "hero_limitbreak_rare_green",
-                        "amount": 1
-                      },
-                      {
-                        "type": "Hero",
-                        "id": "trainer_rainbow_rare",
                         "amount": 1
                       },
                       {
@@ -55978,11 +55961,6 @@
                         "amount": 1
                       },
                       {
-                        "type": "Hero",
-                        "id": "trainer_rainbow_rare",
-                        "amount": 1
-                      },
-                      {
                         "type": "Item",
                         "id": "lottery_monster_island_coin",
                         "amount": 40
@@ -56009,11 +55987,6 @@
                       {
                         "type": "Item",
                         "id": "hero_limitbreak_epic_green",
-                        "amount": 1
-                      },
-                      {
-                        "type": "Hero",
-                        "id": "trainer_rainbow_rare",
                         "amount": 1
                       },
                       {
@@ -56960,11 +56933,97 @@
         "items": [
           {
             "itemType": "Costume",
+            "id": "item_s2_oceanus_costume_volcano",
+            "gameModes": [
+              "Classic"
+            ],
+            "rarity": 5,
+            "notAllowedAsLoot": true,
+            "canBeReceivedDate": "2200-01-01 07:00:00",
+            "costumeId": "俄刻阿诺斯-熔岩泰坦",
+            "parentHeroId": "俄刻阿诺斯"
+          },
+          {
+            "itemType": "Costume",
+            "id": "item_tales2_helgi_costume_combatant",
+            "gameModes": [
+              "Classic"
+            ],
+            "rarity": 3,
+            "notAllowedAsLoot": true,
+            "canBeReceivedDate": "2200-01-01 07:00:00",
+            "costumeId": "赫尔吉-矮人补给者",
+            "parentHeroId": "赫尔吉"
+          },
+          {
+            "itemType": "Costume",
+            "id": "item_tales2_fjalar_costume_undead",
+            "gameModes": [
+              "Classic"
+            ],
+            "rarity": 4,
+            "notAllowedAsLoot": true,
+            "canBeReceivedDate": "2200-01-01 07:00:00",
+            "costumeId": "菲亚拉尔-矮人幽灵吟游诗人",
+            "parentHeroId": "菲亚拉尔"
+          },
+          {
+            "itemType": "Costume",
+            "id": "item_tales2_gandr_costume_guardian",
+            "gameModes": [
+              "Classic"
+            ],
+            "rarity": 5,
+            "notAllowedAsLoot": true,
+            "canBeReceivedDate": "2200-01-01 07:00:00",
+            "costumeId": "甘德尔-矮人皇家士兵",
+            "parentHeroId": "甘德尔"
+          },
+          {
+            "itemType": "Costume",
+            "id": "item_tales2_ott_costume_herbalist",
+            "gameModes": [
+              "Classic"
+            ],
+            "rarity": 5,
+            "notAllowedAsLoot": true,
+            "canBeReceivedDate": "2200-01-01 07:00:00",
+            "costumeId": "奥特-矮人大师级骗术师",
+            "parentHeroId": "奥特"
+          },
+          {
+            "itemType": "Costume",
+            "id": "item_musketeer_athos_costume_farrier",
+            "gameModes": [
+              "Classic"
+            ],
+            "rarity": 5,
+            "notAllowedAsLoot": true,
+            "canBeReceivedDate": "2200-01-01 07:00:00",
+            "costumeId": "阿多斯-铁匠火枪手",
+            "parentHeroId": "阿多斯"
+          },
+          {
+            "itemType": "Costume",
+            "id": "item_musketeer_aramis_costume_boulanger",
+            "gameModes": [
+              "Classic"
+            ],
+            "rarity": 5,
+            "notAllowedAsLoot": true,
+            "canBeReceivedDate": "2200-01-01 07:00:00",
+            "costumeId": "阿拉密斯-面包师火枪手",
+            "parentHeroId": "阿拉密斯"
+          },
+          {
+            "itemType": "Costume",
             "id": "item_halloween_edwin_costume_mafia",
             "gameModes": [
               "Classic"
             ],
-            "canBeReceivedDate": "2200-01-01 07:00:00",
+            "rarity": 5,
+            "notAllowedAsLoot": true,
+            "canBeReceivedDate": "2025-10-08 07:00:00",
             "costumeId": "艾德文-背刺管家",
             "parentHeroId": "艾德文"
           },
@@ -57446,7 +57505,7 @@
             ],
             "rarity": 3,
             "notAllowedAsLoot": true,
-            "canBeReceivedDate": "2200-01-01 07:00:00",
+            "canBeReceivedDate": "2025-10-09 07:00:00",
             "costumeId": "达瓦-沙戈彩绘",
             "parentHeroId": "达瓦"
           },
@@ -57458,7 +57517,7 @@
             ],
             "rarity": 3,
             "notAllowedAsLoot": true,
-            "canBeReceivedDate": "2200-01-01 07:00:00",
+            "canBeReceivedDate": "2025-10-09 07:00:00",
             "costumeId": "乌尔墨-格雷斯尔摩彩绘",
             "parentHeroId": "乌尔墨"
           },
@@ -57674,7 +57733,7 @@
             ],
             "rarity": 4,
             "notAllowedAsLoot": true,
-            "canBeReceivedDate": "2200-01-01 07:00:00",
+            "canBeReceivedDate": "2025-10-09 07:00:00",
             "costumeId": "博立尔-玻璃守卫",
             "parentHeroId": "博立尔"
           },
@@ -57914,7 +57973,7 @@
             ],
             "rarity": 5,
             "notAllowedAsLoot": true,
-            "canBeReceivedDate": "2200-01-01 07:00:00",
+            "canBeReceivedDate": "2025-10-09 07:00:00",
             "costumeId": "昆塔斯-玻璃科学家",
             "parentHeroId": "昆塔斯"
           },
@@ -58414,6 +58473,7 @@
               "Classic"
             ],
             "rarity": 5,
+            "notAllowedAsLoot": true,
             "canBeReceivedDate": "2024-10-01 07:00:00",
             "costumeId": "关羽-地狱将军",
             "parentHeroId": "关羽"
@@ -58425,6 +58485,7 @@
               "Classic"
             ],
             "rarity": 5,
+            "notAllowedAsLoot": true,
             "canBeReceivedDate": "2024-08-02 07:00:00",
             "costumeId": "曹操-冰雪君主",
             "parentHeroId": "曹操"
@@ -59755,6 +59816,156 @@
             "canBeReceivedDate": "2031-09-09 01:46:39",
             "typeOfTome": "LimitBreak",
             "targetedLimitBreakLevel": 4
+          },
+          {
+            "itemType": "Tome",
+            "id": "tome_levels_red_lesser",
+            "gameModes": [
+              "Classic"
+            ],
+            "rarity": 4,
+            "gemValue": 8000,
+            "notAllowedAsLoot": true,
+            "canBeReceivedDate": "2200-01-01 07:00:00",
+            "typeOfTome": "ElementalLevelUp",
+            "effectAmount": 20,
+            "increaseSpecialLevel": true,
+            "requiredElement": "Red"
+          },
+          {
+            "itemType": "Tome",
+            "id": "tome_levels_green_lesser",
+            "gameModes": [
+              "Classic"
+            ],
+            "rarity": 4,
+            "gemValue": 8000,
+            "notAllowedAsLoot": true,
+            "canBeReceivedDate": "2200-01-01 07:00:00",
+            "typeOfTome": "ElementalLevelUp",
+            "effectAmount": 20,
+            "increaseSpecialLevel": true,
+            "requiredElement": "Green"
+          },
+          {
+            "itemType": "Tome",
+            "id": "tome_levels_blue_lesser",
+            "gameModes": [
+              "Classic"
+            ],
+            "rarity": 4,
+            "gemValue": 8000,
+            "notAllowedAsLoot": true,
+            "canBeReceivedDate": "2200-01-01 07:00:00",
+            "typeOfTome": "ElementalLevelUp",
+            "effectAmount": 20,
+            "increaseSpecialLevel": true,
+            "requiredElement": "Blue"
+          },
+          {
+            "itemType": "Tome",
+            "id": "tome_levels_purple_lesser",
+            "gameModes": [
+              "Classic"
+            ],
+            "rarity": 4,
+            "gemValue": 8000,
+            "notAllowedAsLoot": true,
+            "canBeReceivedDate": "2200-01-01 07:00:00",
+            "typeOfTome": "ElementalLevelUp",
+            "effectAmount": 20,
+            "increaseSpecialLevel": true,
+            "requiredElement": "Purple"
+          },
+          {
+            "itemType": "Tome",
+            "id": "tome_levels_yellow_lesser",
+            "gameModes": [
+              "Classic"
+            ],
+            "rarity": 4,
+            "gemValue": 8000,
+            "notAllowedAsLoot": true,
+            "canBeReceivedDate": "2200-01-01 07:00:00",
+            "typeOfTome": "ElementalLevelUp",
+            "effectAmount": 20,
+            "increaseSpecialLevel": true,
+            "requiredElement": "Yellow"
+          },
+          {
+            "itemType": "Tome",
+            "id": "tome_levels_red_greater",
+            "gameModes": [
+              "Classic"
+            ],
+            "rarity": 5,
+            "gemValue": 20000,
+            "notAllowedAsLoot": true,
+            "canBeReceivedDate": "2200-01-01 07:00:00",
+            "typeOfTome": "ElementalLevelUp",
+            "increaseSpecialLevel": true,
+            "limitBreakEffectAmount": 5,
+            "requiredElement": "Red"
+          },
+          {
+            "itemType": "Tome",
+            "id": "tome_levels_green_greater",
+            "gameModes": [
+              "Classic"
+            ],
+            "rarity": 5,
+            "gemValue": 20000,
+            "notAllowedAsLoot": true,
+            "canBeReceivedDate": "2200-01-01 07:00:00",
+            "typeOfTome": "ElementalLevelUp",
+            "increaseSpecialLevel": true,
+            "limitBreakEffectAmount": 5,
+            "requiredElement": "Green"
+          },
+          {
+            "itemType": "Tome",
+            "id": "tome_levels_blue_greater",
+            "gameModes": [
+              "Classic"
+            ],
+            "rarity": 5,
+            "gemValue": 20000,
+            "notAllowedAsLoot": true,
+            "canBeReceivedDate": "2200-01-01 07:00:00",
+            "typeOfTome": "ElementalLevelUp",
+            "increaseSpecialLevel": true,
+            "limitBreakEffectAmount": 5,
+            "requiredElement": "Blue"
+          },
+          {
+            "itemType": "Tome",
+            "id": "tome_levels_purple_greater",
+            "gameModes": [
+              "Classic"
+            ],
+            "rarity": 5,
+            "gemValue": 20000,
+            "notAllowedAsLoot": true,
+            "canBeReceivedDate": "2200-01-01 07:00:00",
+            "typeOfTome": "ElementalLevelUp",
+            "increaseSpecialLevel": true,
+            "limitBreakEffectAmount": 5,
+            "requiredElement": "Purple"
+          },
+          {
+            "itemType": "Tome",
+            "id": "tome_levels_yellow_greater",
+            "gameModes": [
+              "Classic"
+            ],
+            "rarity": 5,
+            "gemValue": 20000,
+            "notAllowedAsLoot": true,
+            "canBeReceivedDate": "2200-01-01 07:00:00",
+            "typeOfTome": "ElementalLevelUp",
+            "increaseSpecialLevel": true,
+            "limitBreakEffectAmount": 5,
+            "requiredElement": "Yellow"
           },
           {
             "itemType": "Costume",
@@ -63579,7 +63790,7 @@
             ],
             "rarity": 4,
             "notAllowedAsLoot": true,
-            "canBeReceivedDate": "2200-01-01 07:00:00",
+            "canBeReceivedDate": "2025-10-08 07:00:00",
             "costumeId": "安娜·贝尔-尘埃女男爵",
             "parentHeroId": "安娜·贝尔"
           },
@@ -63594,6 +63805,54 @@
             "canBeReceivedDate": "2200-01-01 07:00:00",
             "costumeId": "卡蜜拉-繁花工匠",
             "parentHeroId": "卡蜜拉"
+          },
+          {
+            "itemType": "Costume",
+            "id": "item_magic_cristobal_costume_emerald",
+            "gameModes": [
+              "Classic"
+            ],
+            "rarity": 5,
+            "notAllowedAsLoot": true,
+            "canBeReceivedDate": "2200-01-01 07:00:00",
+            "costumeId": "克里斯托巴尔-附魔教授",
+            "parentHeroId": "克里斯托巴尔"
+          },
+          {
+            "itemType": "Costume",
+            "id": "item_musketeer_porthos_costume_merchant",
+            "gameModes": [
+              "Classic"
+            ],
+            "rarity": 5,
+            "notAllowedAsLoot": true,
+            "canBeReceivedDate": "2200-01-01 07:00:00",
+            "costumeId": "波尔多斯-商人火枪手",
+            "parentHeroId": "波尔多斯"
+          },
+          {
+            "itemType": "Costume",
+            "id": "item_tales2_regin_costume_omen",
+            "gameModes": [
+              "Classic"
+            ],
+            "rarity": 5,
+            "notAllowedAsLoot": true,
+            "canBeReceivedDate": "2200-01-01 07:00:00",
+            "costumeId": "雷金-矮人堕落王子",
+            "parentHeroId": "雷金"
+          },
+          {
+            "itemType": "Costume",
+            "id": "item_s2_tethys_costume_steel",
+            "gameModes": [
+              "Classic"
+            ],
+            "rarity": 5,
+            "notAllowedAsLoot": true,
+            "canBeReceivedDate": "2200-01-01 07:00:00",
+            "costumeId": "忒提丝-万川复仇者",
+            "parentHeroId": "忒提丝"
           },
           {
             "itemType": "Refill",
@@ -64128,7 +64387,7 @@
             ],
             "rarity": 4,
             "gemValue": 3,
-            "canBeReceivedDate": "2023-09-18 07:00:00",
+            "canBeReceivedDate": "2200-01-01 07:00:00",
             "amountForSummon": 100
           },
           {
@@ -64182,6 +64441,18 @@
             ],
             "rarity": 4,
             "gemValue": 50,
+            "amountForSummon": 100
+          },
+          {
+            "itemType": "LotteryToken",
+            "id": "lottery_seasonal_summon_spirit_halloween",
+            "gameModes": [
+              "Classic"
+            ],
+            "rarity": 4,
+            "gemValue": 50,
+            "canBeReceivedDate": "2025-10-08 07:00:00",
+            "hideInInventory": true,
             "amountForSummon": 100
           },
           {
@@ -66940,13 +67211,17 @@
                 "multiplierPerMil": 2500
               },
               {
-                "type": "Item",
-                "multiplierPerMil": 1500
-              },
-              {
                 "type": "Recruits",
                 "multiplierPerMil": 1500,
                 "overflowMaxCapacity": 100
+              },
+              {
+                "type": "AscensionItem",
+                "multiplierPerMil": 1500
+              },
+              {
+                "type": "CraftingItem",
+                "multiplierPerMil": 1500
               }
             ],
             "overflowCapacityResetSeconds": 86400
@@ -66979,7 +67254,12 @@
             "effectType": "Harvester",
             "id": "harvester_items",
             "duration": "2天",
-            "entityTypes": [],
+            "entityTypes": [
+              {
+                "type": "AscensionItem",
+                "multiplierPerMil": 1500
+              }
+            ],
             "increasedProbabilityItems": [
               {
                 "id": "hero_adventurers_kit",
@@ -67003,7 +67283,12 @@
             "effectType": "Harvester",
             "id": "harvester_crafting",
             "duration": "2天",
-            "entityTypes": [],
+            "entityTypes": [
+              {
+                "type": "CraftingItem",
+                "multiplierPerMil": 1500
+              }
+            ],
             "increasedProbabilityItems": [
               {
                 "id": "item_grimoire_dust",
@@ -71041,6 +71326,16 @@
           },
           {
             "type": "AncientDragonRare",
+            "targetDefeats": 1,
+            "rewards": [
+              {
+                "type": "Gem",
+                "amount": 2
+              }
+            ]
+          },
+          {
+            "type": "HalloweenRare",
             "targetDefeats": 1,
             "rewards": [
               {
@@ -78810,6 +79105,95 @@
             ]
           },
           {
+            "id": "tales2",
+            "statBonuses": [
+              {
+                "bonusLevels": []
+              },
+              {
+                "bonusLevels": []
+              },
+              {
+                "bonusLevels": [
+                  {
+                    "attackBonusPerMil": 10,
+                    "defenseBonusPerMil": 10,
+                    "healthBonusPerMil": 20,
+                    "manaBonusPerMil": 10
+                  },
+                  {
+                    "attackBonusPerMil": 10,
+                    "defenseBonusPerMil": 10,
+                    "healthBonusPerMil": 30,
+                    "manaBonusPerMil": 10
+                  },
+                  {
+                    "attackBonusPerMil": 20,
+                    "defenseBonusPerMil": 20,
+                    "healthBonusPerMil": 40,
+                    "manaBonusPerMil": 10
+                  }
+                ]
+              },
+              {
+                "bonusLevels": [
+                  {
+                    "attackBonusPerMil": 10,
+                    "defenseBonusPerMil": 10,
+                    "healthBonusPerMil": 10,
+                    "manaBonusPerMil": 10
+                  },
+                  {
+                    "attackBonusPerMil": 10,
+                    "defenseBonusPerMil": 10,
+                    "healthBonusPerMil": 20,
+                    "manaBonusPerMil": 10
+                  },
+                  {
+                    "attackBonusPerMil": 10,
+                    "defenseBonusPerMil": 10,
+                    "healthBonusPerMil": 30,
+                    "manaBonusPerMil": 10
+                  },
+                  {
+                    "attackBonusPerMil": 20,
+                    "defenseBonusPerMil": 20,
+                    "healthBonusPerMil": 40,
+                    "manaBonusPerMil": 10
+                  }
+                ]
+              },
+              {
+                "bonusLevels": [
+                  {
+                    "attackBonusPerMil": 220,
+                    "defenseBonusPerMil": 220,
+                    "healthBonusPerMil": 220,
+                    "manaBonusPerMil": 10
+                  },
+                  {
+                    "attackBonusPerMil": 240,
+                    "defenseBonusPerMil": 240,
+                    "healthBonusPerMil": 240,
+                    "manaBonusPerMil": 20
+                  },
+                  {
+                    "attackBonusPerMil": 260,
+                    "defenseBonusPerMil": 260,
+                    "healthBonusPerMil": 260,
+                    "manaBonusPerMil": 30
+                  },
+                  {
+                    "attackBonusPerMil": 280,
+                    "defenseBonusPerMil": 280,
+                    "healthBonusPerMil": 280,
+                    "manaBonusPerMil": 50
+                  }
+                ]
+              }
+            ]
+          },
+          {
             "id": "magic_sep_2025",
             "statBonuses": [
               {
@@ -80285,6 +80669,17 @@
               "rareCostumeGemCost": 100,
               "epicCostumeGemCost": 200,
               "legendaryCostumeGemCost": 300
+            },
+            {
+              "id": "visiting_outfitter_4",
+              "startTime": "2025-10-29 07:00:00",
+              "endTime": "2025-11-01 07:00:00",
+              "maxTransactionCount": 1,
+              "maxHeroRarity": 5,
+              "costumeCutOffDate": 767602800,
+              "rareCostumeGemCost": 100,
+              "epicCostumeGemCost": 200,
+              "legendaryCostumeGemCost": 300
             }
           ]
         }
@@ -80649,9 +81044,9 @@
     "minSecondsBetweenRecentActivityRequests": 30,
     "colorBlindModeEnabled": true,
     "languageSelectionEnabled": true,
-    "maxVersionToShowUpdateOutReminderAndroid": "79.0.0",
-    "maxVersionToShowUpdateOutReminderIos": "79.0.0",
-    "maxVersionToShowUpdateOutReminderAndroidStandalone": "79.0.1",
+    "maxVersionToShowUpdateOutReminderAndroid": "79.0.2",
+    "maxVersionToShowUpdateOutReminderIos": "79.0.2",
+    "maxVersionToShowUpdateOutReminderAndroidStandalone": "79.0.2",
     "standaloneNewVersionRolloutPercentage": 100,
     "fastClientLogFlushTimeSeconds": 5,
     "accountDeletionEnabled": true,
@@ -80742,5 +81137,5 @@
     "criticalOperationPendingDelaySeconds": 3,
     "allowedCriticalOperationPendingCount": 3
   },
-  "otherConfigId": 1181418253
+  "otherConfigId": 1436143228
 }

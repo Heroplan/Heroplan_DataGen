@@ -24,6 +24,7 @@
 "herocard.passive_skill.description.damagefamiliarsovertime.everyturn.all.enemies.bigminion.minion","每回合开始时对所有敌方小兵和超级小兵造成{DAMAGEPERTURN}点伤害。"
 "herocard.passive_skill.description.damagefamiliarsovertime.everyturn.all.enemies.minion.bigminion","每回合开始时对所有敌方小兵和超级小兵造成{DAMAGEPERTURN}点伤害。"
 "herocard.passive_skill.description.damageincreasebyinsanity.troop.specialskill.npcnormalattack","该角色的普通攻击和特殊技能所造成的所有伤害，都会因其身上的狂乱值而增加，每{INSANITYPERSTEP}点狂乱 值将提升{DAMAGEINCREASEPERSTEP}%伤害，最多可提升至{MAXDAMAGEINCREASE}%。"
+"herocard.passive_skill.description.dealtdamagemodifieragainststatuseffect.bloodlily.stacks.troop.specialskill.npcnormalattack.add_modifier_per_stack","目标每拥有一层血莲，该角色造成的所有普通攻击和特殊技能伤害提高{MODIFIER}%。"
 "herocard.passive_skill.description.dealtstrongelementsupportcharacterdamage.increase","此英雄的队伍对较弱元素可造成额外的元素伤害。
 
 所造成的额外元素伤害：+{MODIFIER}%"
@@ -150,6 +151,61 @@
 "herocard.passive_skill.description.memorizestatuseffects","此角色的天赋能回溯状态异常。对此角色施放的最后一个状态异常会被回溯，直到此角色施放特殊技能为止。只有拥有持续时间的状态异常才可被回溯。"
 "herocard.passive_skill.description.memorizestatuseffects#2","此角色的天赋能回溯状态异常。对此角色施放的最后{0}个状态异常会被回溯，直到此角色施放特殊技能为止。只有拥有持续时间的状态异常才可被回溯。"
 "herocard.passive_skill.description.memorizestatuseffects#3","This character has innate ability to Memorize status ailments. The latest {0} status ailments that are cast on this character will stay memorized until the Special Skill is cast. Only status ailments with a duration can be memorized. (THIRD FORM)"
+"herocard.passive_skill.description.mimiclootonlevelcompleted.mimic_aether_blue","这只拟态兽在完成关卡时有机会掉落额外的战利品：
+
+*****
+阿尔法艾瑟尔
+冰雪艾瑟尔 III
+
+****
+冰雪艾瑟尔 II
+
+***
+冰雪艾瑟尔 I"
+"herocard.passive_skill.description.mimiclootonlevelcompleted.mimic_aether_green","这只拟态兽在完成关卡时有机会掉落额外的战利品：
+
+*****
+阿尔法艾瑟尔
+自然艾瑟尔 III
+
+****
+自然艾瑟尔 II
+
+***
+自然艾瑟尔 I"
+"herocard.passive_skill.description.mimiclootonlevelcompleted.mimic_aether_purple","这只拟态兽在完成关卡时有机会掉落额外的战利品：
+
+*****
+阿尔法艾瑟尔
+暗黑艾瑟尔 III
+
+****
+暗黑艾瑟尔 II
+
+***
+暗黑艾瑟尔 I"
+"herocard.passive_skill.description.mimiclootonlevelcompleted.mimic_aether_red","这只拟态兽在完成关卡时有机会掉落额外的战利品：
+
+*****
+阿尔法艾瑟尔
+烈火艾瑟尔 III
+
+****
+烈火艾瑟尔 II
+
+***
+烈火艾瑟尔 I"
+"herocard.passive_skill.description.mimiclootonlevelcompleted.mimic_aether_yellow","这只拟态兽在完成关卡时有机会掉落额外的战利品：
+
+*****
+阿尔法艾瑟尔
+神圣艾瑟尔 III
+
+****
+神圣艾瑟尔 II
+
+***
+神圣艾瑟尔 I"
 "herocard.passive_skill.description.mimiclootonlevelcompleted.mimic_ascension_blue","这只拟态兽在完成关卡时有机会获得额外的战利品：
 
 ****
@@ -418,6 +474,7 @@
 "herocard.passive_skill.description.resist.attackmodifiers.allstatuseffectsandstacks","此角色免疫所有影响攻击的状态效果与叠加，包括状态效果增益。"
 "herocard.passive_skill.description.resist.attackmodifiers.attackwither.alldebuffs","此角色免疫影响攻击的状态异常、叠加以及衰退效果。"
 "herocard.passive_skill.description.resist.bleed","此角色免疫造成流血伤害的状态异常。"
+"herocard.passive_skill.description.resist.bleed.with_effect.healthboost.addmana","此角色免疫造成流血伤害的状态异常，并且每次抵抗获得{HEALTHBOOST}点生命加成和{MANA}%法力。"
 "herocard.passive_skill.description.resist.buffdispels","此角色免疫驱散其状态效果增益的效果。"
 "herocard.passive_skill.description.resist.buffdispels.none.with_chance","额外{CHANCE}%几率抵抗增益驱散。"
 "herocard.passive_skill.description.resist.buffimmunity","此角色免疫阻止其获得新状态效果增益的效果。"
@@ -425,6 +482,7 @@
 "herocard.passive_skill.description.resist.burn.with_effect.healthboost.addmana","此角色免疫造成燃烧伤害的状态异常，并且每次抵抗获得{HEALTHBOOST}点生命加成和{MANA}%法力。"
 "herocard.passive_skill.description.resist.can_stack.alldebuffs","此角色免疫状态异常。"
 "herocard.passive_skill.description.resist.can_stack.alldebuffs.with_chance","额外{CHANCE}%几率抵抗所有状态异常。"
+"herocard.passive_skill.description.resist.criticalhits.none","此角色对暴击造成的额外伤害及附加效果免疫。"
 "herocard.passive_skill.description.resist.defensemodifierdebuffs","此角色免疫影响防御的状态异常，不包括影响元素防御的状态异常。"
 "herocard.passive_skill.description.resist.defensemodifiers.alldebuffs","此角色免疫影响防御的状态异常和负面效果叠加，不包括影响元素防御的状态异常。"
 "herocard.passive_skill.description.resist.familiarremoval.familiarsilence.familiarreceivingblocking.minion","免疫移除小兵的效果。
@@ -473,10 +531,13 @@
 "herocard.passive_skill.description.setstatuseffectdurationonaddition.all.allies.activates_on_ally_action.alldebuffs.dance","所有由敌人施放的歌谣只能持续{TURNS}回合。"
 "herocard.passive_skill.description.setstatuseffectdurationonaddition.single.enemies.activates_on_enemy_action.allbuffs.dance","所有由敌人施放的舞蹈只能持续{TURNS}回合。"
 "herocard.passive_skill.description.sharereceiveddamage","其余盟友将平摊此角色所受伤害的{SHAREDDAMAGEPORTION}%。"
-"herocard.passive_skill.description.specialdamagereduction","此角色受到的特殊技能伤害将降低{DAMAGEREDUCTION}%。"
+"herocard.passive_skill.description.specialdamagereduction","前{MAXACTIVATIONCOUNT}次受到特殊技能伤害时，此角色所受伤害降低{DAMAGEREDUCTION}%。"
 "herocard.passive_skill.description.specialdamagereduction.chance","此角色有{CHANCE}%几率将自身所受到的特殊技能直接伤害降为1。"
 "herocard.passive_skill.description.specialdamagereductionsupportcharacter.troop","此角色受到的特殊技能伤害将降低{DAMAGEREDUCTION}%。"
 "herocard.passive_skill.description.startbattlewitheffect.addmana","战斗开始时，此角色将获得{MANA}%法力。"
+"herocard.passive_skill.description.statmodifier.attack","{ATTACKMULTIPLIER}%攻击力。"
+"herocard.passive_skill.description.statmodifier.defense","{DEFENSEMULTIPLIER}%防御力。"
+"herocard.passive_skill.description.statmodifier.health","{HEALTHMULTIPLIER}%生命值。"
 "herocard.passive_skill.description.statmodifier.health.attack","{HEALTHMULTIPLIER}%生命、{ATTACKMULTIPLIER}%攻击。"
 "herocard.passive_skill.description.statmodifier.health.defense","{HEALTHMULTIPLIER}%生命、{DEFENSEMULTIPLIER}%防御。"
 "herocard.passive_skill.description.statmodifier.health.defense.attack","{HEALTHMULTIPLIER}%生命、{DEFENSEMULTIPLIER}%防御、{ATTACKMULTIPLIER}%攻击。"
@@ -502,13 +563,25 @@
 "herocard.passive_skill.description.statuseffectselection.usable_once.select_element_status_effect","此英雄的元素可以更换成你所指定的元素，持续{TURNS}回合，每场战斗仅限一次。此英雄法力条未满时，点击此英雄即可更换其元素。"
 "herocard.passive_skill.description.summonfamiliarperturn.evolving_seedling_parasite.enemies","每回合为一名随机敌人召唤一个幼苗恶魔。
 {EVOLVINGFAMILIAR1EVOLVETURNS}回合后幼苗恶魔进化为萌芽恶魔。
-再过{EVOLVINGFAMILIAR2EVOLVETURNS}回合后萌芽恶魔进化为绽放超级恶魔。
+再过{EVOLVINGFAMILIAR2EVOLVETURNS}回合后萌芽恶魔进化为花蕊超级恶魔。
 
 幼苗恶魔：
-{EVOLVINGFAMILIAR1ATTACK}%攻击力，{EVOLVINGFAMILIAR1HEALTH}%生命值
+{EVOLVINGFAMILIAR1ATTACK}%攻击力，{EVOLVINGFAMILIAR1HEALTH}%生命值。
 
 萌芽恶魔：
-{EVOLVINGFAMILIAR2ATTACK}%攻击力，{EVOLVINGFAMILIAR2HEALTH}%生命值
+{EVOLVINGFAMILIAR2ATTACK}%攻击力，{EVOLVINGFAMILIAR2HEALTH}%生命值。
+
+鲜花超级恶魔：
+{EVOLVINGFAMILIAR3ATTACK}%攻击力，{EVOLVINGFAMILIAR3HEALTH}%生命值。"
+"herocard.passive_skill.description.summonfamiliarperturn.evolving_seedling_parasite.enemies.sharedonceperturn","每回合为一名随机敌人召唤一个幼苗恶魔。该被动技能每个战队每回合只会触发一次。
+{EVOLVINGFAMILIAR1EVOLVETURNS}回合后幼苗恶魔进化为萌芽恶魔。
+再过{EVOLVINGFAMILIAR2EVOLVETURNS}回合后萌芽恶魔进化为花蕊超级恶魔。
+
+幼苗恶魔：
+{EVOLVINGFAMILIAR1ATTACK}%攻击力，{EVOLVINGFAMILIAR1HEALTH}%生命值。
+
+萌芽恶魔：
+{EVOLVINGFAMILIAR2ATTACK}%攻击力，{EVOLVINGFAMILIAR2HEALTH}%生命值。
 
 鲜花超级恶魔：
 {EVOLVINGFAMILIAR3ATTACK}%攻击力，{EVOLVINGFAMILIAR3HEALTH}%生命值。"
@@ -554,6 +627,7 @@
 "herocard.passive_skill.title.criticalmodifiersupportcharacter.troop","暴击修正"
 "herocard.passive_skill.title.critmodifier","暴击几率修正"
 "herocard.passive_skill.title.damageincreasebyinsanity.troop.specialskill.npcnormalattack","古神烙印"
+"herocard.passive_skill.title.dealtdamagemodifieragainststatuseffect.bloodlily.stacks","血色印记"
 "herocard.passive_skill.title.dealtstrongelementtroopdamage","队伍大师"
 "herocard.passive_skill.title.debuffdamagereduction","状态异常造成的伤害减少"
 "herocard.passive_skill.title.debuffdamagereductionsupportcharacter.troop","状态异常造成的伤害减少"
@@ -638,9 +712,6 @@
 "herocard.passive_skill.title.glass_reflect_debuffs","玻璃"
 "herocard.passive_skill.title.growth","成长"
 "herocard.passive_skill.title.guaranteedeffectonspecial","施放特殊技能时必定触发效果"
-"herocard.passive_skill.title.guestip1_stat_modifier_average","Technician"
-"herocard.passive_skill.title.guestip1_stat_modifier_fast","Striker"
-"herocard.passive_skill.title.guestip1_stat_modifier_slow","Powerhouse"
 "herocard.passive_skill.title.healmodifier.all.enemies.decrease","减少治疗"
 "herocard.passive_skill.title.healonheal.heal","额外治疗"
 "herocard.passive_skill.title.healonownfamiliardeath.minion","来自死亡小兵的生命"
@@ -689,10 +760,12 @@
 "herocard.passive_skill.title.resist.attackmodifiers.allstatuseffectsandstacks","抵抗攻击状态效果"
 "herocard.passive_skill.title.resist.attackmodifiers.attackwither.alldebuffs","抵抗攻击力削减"
 "herocard.passive_skill.title.resist.bleed","抵抗流血"
+"herocard.passive_skill.title.resist.bleed.with_effect.healthboost.addmana","强化抵抗流血"
 "herocard.passive_skill.title.resist.buffdispels","抵抗驱散"
 "herocard.passive_skill.title.resist.buffimmunity","抵抗增益格挡"
 "herocard.passive_skill.title.resist.burn","抵抗烧伤"
 "herocard.passive_skill.title.resist.burn.with_effect.healthboost.addmana","强化抵抗燃烧"
+"herocard.passive_skill.title.resist.criticalhits.none","抵抗暴击"
 "herocard.passive_skill.title.resist.defensemodifiers.alldebuffs","抵抗防御异常"
 "herocard.passive_skill.title.resist.familiarremoval.familiarsilence.familiarreceivingblocking.minion","无法阻止的小兵"
 "herocard.passive_skill.title.resist.frost","抵抗冰霜"
@@ -740,6 +813,9 @@
 "herocard.passive_skill.title.specialdamagereduction","降低特殊技能伤害"
 "herocard.passive_skill.title.specialdamagereductionsupportcharacter.troop","降低特殊技能伤害"
 "herocard.passive_skill.title.startbattlewitheffect.addmana","战斗开始时获得法力"
+"herocard.passive_skill.title.statmodifier.attack","猛袭"
+"herocard.passive_skill.title.statmodifier.defense","坚甲"
+"herocard.passive_skill.title.statmodifier.health","不屈"
 "herocard.passive_skill.title.statuseffectattackmodifier.addition","增强攻击力状态效果"
 "herocard.passive_skill.title.statuseffectattackmodifier.all.allies.reduction","减轻攻击力异常"
 "herocard.passive_skill.title.statuseffectattackmodifier.reduction","减轻攻击力异常"
@@ -761,6 +837,7 @@
 "herocard.passive_skill.title.statuseffectonstatuseffectaddition.debuff","受到异常时获得法力生成增益"
 "herocard.passive_skill.title.statuseffectselection.usable_once.select_element_status_effect","元素人面具"
 "herocard.passive_skill.title.summonfamiliarperturn.evolving_seedling_parasite.enemies","幼苗召唤师"
+"herocard.passive_skill.title.summonfamiliarperturn.evolving_seedling_parasite.enemies.sharedonceperturn","幼苗召唤师"
 "herocard.passive_skill.title.summononownerdeath.slime_big_minion_blue.neartotargetexceptcaster.allies","被击败时召唤史莱姆小兵"
 "herocard.passive_skill.title.summononownerdeath.slime_big_minion_green.neartotargetexceptcaster.allies","被击败时召唤史莱姆小兵"
 "herocard.passive_skill.title.summononownerdeath.slime_big_minion_purple.neartotargetexceptcaster.allies","被击败时召唤史莱姆小兵"
