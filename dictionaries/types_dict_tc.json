@@ -893,5 +893,19 @@
   "Mana Increase 2": "2個目標法力增加",
   "Slime Mega Minion 2": "召喚2個史萊姆超級小兵",
   "Steals random buff 1": "偷取隨機增益 (單體)",
-  "Self Dodge": "自身閃避"
+  "Self Dodge": "自身閃避",
+  "Debuff Reflect for Ice Allies": "冰系盟友反射狀態異常",
+  "Blood Lily Mark 1": "施加血百合標記 (單體)",
+  "Cleanse Immunity All": "全體淨化免疫",
+  "Mana Debuffs Immunity All": "全體法力狀態異常免疫",
+  "Elemental Defense Debuff All Ice": "全體冰系元素防禦降低",
+  "Healing Steal 1": "偷取治療 (單體)",
+  "Hit All Blood Lily marked": "攻擊所有被血百合標記目標",
+  "DoT All Blood Lily marked": "對所有被血百合標記目標施加持續傷害",
+  "Immunity SS usage All": "全體免疫特殊技能使用封鎖",
+  "Summons Sanguine Bat Minion 3": "召喚3個猩紅蝙蝠小兵",
+  "Growth 2": "2個目標成長",
+  "Slime Mega Minion Self": "自身召喚史萊姆超級小兵",
+  "Hit All Blood Lily mark": "攻擊所有被血百合標記目標",
+  "Healing Decrease All": "全體治療量降低"
 }

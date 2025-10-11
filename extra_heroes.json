@@ -1,71 +1,5 @@
 [
     {
-        "name": "Zestique",
-        "fancy_name": "Sweet Blushing Slime",
-        "color": "Red",
-        "Release date": "",
-        "star": 5,
-        "family": "slime",
-        "costume_id": 0,
-        "heroId": "slime_zestique",
-        "Lottery_Only":1
-    },
-    {
-        "name": "Hortensia",
-        "fancy_name": "Fosterer of Flytraps",
-        "color": "Green",
-        "Release date": "",
-        "star": 5,
-        "family": "halloween",
-        "costume_id": 0,
-        "heroId": "halloween_hortensia",
-        "Lottery_Only":1
-    },
-    {
-        "name": "Guillemette",
-        "fancy_name": "Sanguine Crusader",
-        "color": "Yellow",
-        "Release date": "",
-        "star": 5,
-        "family": "fleur_de_sang",
-        "costume_id": 0,
-        "heroId": "fleur_guillemette",
-        "Lottery_Only":1
-    },
-    {
-        "name": "Elyzabel de Tuillieres",
-        "fancy_name": "Sanguine Countess",
-        "color": "Red",
-        "Release date": "",
-        "star": 5,
-        "family": "fleur_de_sang",
-        "costume_id": 0,
-        "heroId": "fleur_elyzabel",
-        "Lottery_Only":1
-    },
-    {
-        "name": "Ludovico",
-        "fancy_name": "Sanguine Steward",
-        "color": "Blue",
-        "Release date": "",
-        "star": 5,
-        "family": "fleur_de_sang",
-        "costume_id": 0,
-        "heroId": "fleur_ludovico",
-        "Lottery_Only":1
-    },
-    {
-        "name": "Quintus C4",
-        "fancy_name": "Glass Scientist",
-        "color": "Purple",
-        "Release date": "",
-        "star": 5,
-        "family": "classic",
-        "costume_id": 4,
-        "heroId": "cultist_inventor_costume_glass",
-        "Lottery_Only":1
-    },
-    {
         "name": "Furgeant",
         "fancy_name": "The Juggermoth",
         "color": "Yellow",
@@ -77,80 +11,47 @@
         "Lottery_Only":1
     },
     {
-        "name": "Guillemette",
-        "fancy_name": "Sanguine Crusader",
-        "color": "Yellow",
+        "name": "Ragrim",
+        "fancy_name": "Magic Carpet Botanist",
+        "color": "Green",
         "Release date": "",
         "star": 5,
-        "family": "fleur_de_sang",
+        "family": "magic_carpet",
         "costume_id": 0,
-        "heroId": "fleur_guillemette",
+        "heroId": "magic_carpet_ragrim",
         "Lottery_Only":1
     },
     {
-        "name": "Elyzabel de Tuillières",
-        "fancy_name": "Sanguine Countess",
-        "color": "Red",
-        "Release date": "",
-        "star": 5,
-        "family": "fleur_de_sang",
-        "costume_id": 0,
-        "heroId": "fleur_elyzabel",
-        "Lottery_Only":1
-    },
-    {
-        "name": "Ludovico",
-        "fancy_name": "Sanguine Steward",
+        "name": "Camilla C1",
+        "fancy_name": "Floral Tinkerer",
         "color": "Blue",
         "Release date": "",
         "star": 5,
-        "family": "fleur_de_sang",
-        "costume_id": 0,
-        "heroId": "fleur_ludovico",
-        "Lottery_Only":1
-    },
-    {
-        "name": "Edwin C1",
-        "fancy_name": "The Backstabbing Butler",
-        "color": "Green",
-        "Release date": "",
-        "star": 5,
-        "family": "halloween",
+        "family": "magic",
         "costume_id": 1,
-        "heroId": "halloween_edwin_costume_mafia",
+        "heroId": "magic_camilla_costume_flower",
         "Lottery_Only":1
     },
     {
-        "name": "Hortensia",
-        "fancy_name": "Fosterer of Flytraps",
+        "name": "Regin C1",
+        "fancy_name": "Dwarven Fallen Prince",
+        "color": "Red",
+        "Release date": "",
+        "star": 5,
+        "family": "nidavellir",
+        "costume_id": 1,
+        "heroId": "tales2_regin_costume_omen",
+        "Lottery_Only":1
+    },
+    {
+        "name": "Ott C1",
+        "fancy_name": "Dwarven Maestro Trickster",
         "color": "Green",
         "Release date": "",
         "star": 5,
-        "family": "halloween",
-        "costume_id": 0,
-        "heroId": "halloween_hortensia",
-        "Lottery_Only":1
-    },
-    {
-        "name": "Talésie",
-        "fancy_name": "Sanguine Assassin",
-        "color": "Purple",
-        "Release date": "",
-        "star": 4,
-        "family": "fleur_de_sang",
-        "costume_id": 0,
-        "heroId": "fleur_talesie",
-        "Lottery_Only":1
-    },
-    {
-        "name": "Talésie",
-        "fancy_name": "Sanguine Scion",
-        "color": "Green",
-        "Release date": "",
-        "star": 3,
-        "family": "fleur_de_sang",
-        "costume_id": 0,
-        "heroId": "fleur_eumachius",
+        "family": "nidavellir",
+        "costume_id": 1,
+        "heroId": "tales2_ott_costume_herbalist",
         "Lottery_Only":1
     }
 ]

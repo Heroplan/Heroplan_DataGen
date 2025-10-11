@@ -381,7 +381,7 @@ def run_processing_job(files_to_process, output_dir):
         # 模式B：单个文件处理，尝试加载全局备用缓存
         print("\n--- 未检测到 characters 文件，尝试加载全局备用缓存... ---")
         try:
-            with open("characters_cn.json", "r", encoding="utf-8") as f:
+            with open("CachedConfigurations/json_cn/characters_cn.json", "r", encoding="utf-8") as f:
                 char_data = json.load(f)
             for original_id, hero_data in char_data.items():
                 translated_name = hero_data.get("id")

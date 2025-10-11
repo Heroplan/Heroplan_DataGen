@@ -46094,18 +46094,17 @@
           "sideAffected": "Enemies",
           "typeOfTarget": "NearToTarget",
           "effectType": "Damage",
-          "powerMultiplierPerMil": 2950,
+          "powerMultiplierPerMil": 4300,
           "powerMultiplierIncrementPerLevelPerMil": 50
         },
         "maxLevel": 8,
         "properties": [
-          "reset_nearby_allies_buffs"
+          "add_status_effect_elyzabel"
         ],
         "summonedFamiliars": [
           {
             "id": "sanguine_bat_minion",
             "sideAffected": "Allies",
-            "familiarTargetType": "NearToTarget",
             "amountPerCharacter": 1
           }
         ]
@@ -46120,13 +46119,12 @@
         },
         "maxLevel": 0,
         "properties": [
-          "reset_nearby_allies_buffs"
+          "add_status_effect_elyzabel"
         ],
         "summonedFamiliars": [
           {
             "id": "sanguine_bat_minion_pve_normal",
             "sideAffected": "Allies",
-            "familiarTargetType": "NearToTarget",
             "amountPerCharacter": 1
           }
         ]
@@ -46137,17 +46135,16 @@
           "sideAffected": "Enemies",
           "typeOfTarget": "NearToTarget",
           "effectType": "Damage",
-          "powerMultiplierPerMil": 2000
+          "powerMultiplierPerMil": 2500
         },
         "maxLevel": 0,
         "properties": [
-          "reset_nearby_allies_buffs"
+          "add_status_effect_elyzabel"
         ],
         "summonedFamiliars": [
           {
             "id": "sanguine_bat_minion_pve_advanced",
             "sideAffected": "Allies",
-            "familiarTargetType": "NearToTarget",
             "amountPerCharacter": 1
           }
         ]
@@ -46158,7 +46155,7 @@
           "sideAffected": "Enemies",
           "typeOfTarget": "Single",
           "effectType": "Damage",
-          "powerMultiplierPerMil": 2450,
+          "powerMultiplierPerMil": 1850,
           "powerMultiplierIncrementPerLevelPerMil": 50
         },
         "maxLevel": 8,
@@ -46304,14 +46301,14 @@
           "sideAffected": "Enemies",
           "typeOfTarget": "All",
           "effectType": "Damage",
-          "powerMultiplierPerMil": 3150,
+          "powerMultiplierPerMil": 2350,
           "powerMultiplierIncrementPerLevelPerMil": 50
         },
         "maxLevel": 8,
         "statusEffects": [
           {
-            "id": "resist_cleanse_from_special",
-            "sideAffected": "Enemies",
+            "id": "resist_mana_effects",
+            "sideAffected": "Allies",
             "statusTargetType": "All",
             "turns": 4
           },
@@ -48258,6 +48255,7 @@
         },
         "maxLevel": 8,
         "properties": [
+          "eat_parasites_all",
           "heal_lowest_hp_ally_most_ragrim",
           "growth_ragrim",
           "ailments_to_buffs_all_allies"
@@ -49537,7 +49535,7 @@
           "sideAffected": "Enemies",
           "typeOfTarget": "NearToTarget",
           "effectType": "Damage",
-          "powerMultiplierPerMil": 3800,
+          "powerMultiplierPerMil": 3950,
           "powerMultiplierIncrementPerLevelPerMil": 50
         },
         "maxLevel": 8,
@@ -50155,7 +50153,7 @@
           "sideAffected": "Enemies",
           "typeOfTarget": "Single",
           "effectType": "Damage",
-          "powerMultiplierPerMil": 5250,
+          "powerMultiplierPerMil": 5750,
           "powerMultiplierIncrementPerLevelPerMil": 50
         },
         "maxLevel": 8,
@@ -50184,9 +50182,11 @@
         },
         "maxLevel": 8,
         "properties": [
-          "remove_buffs_safe_all",
           "damage_neartotargetminor_enemies_paimon"
         ],
+        "buffToRemove": "MinorBuff",
+        "buffToRemoveTargetType": "NearToTarget",
+        "removeBuffsFirst": true,
         "statusEffects": [
           {
             "id": "blind_paimon",
@@ -50228,19 +50228,19 @@
             "turns": 6
           },
           {
-            "id": "stun",
+            "id": "stun_less",
             "sideAffected": "Enemies",
             "statusTargetType": "All",
             "turns": 6
           },
           {
-            "id": "brittle",
+            "id": "brittle_less",
             "sideAffected": "Enemies",
             "statusTargetType": "All",
             "turns": 6
           },
           {
-            "id": "mana_regen_reduction_wolf",
+            "id": "mana_regen_reduction_minor",
             "sideAffected": "Enemies",
             "statusTargetType": "All",
             "turns": 6
@@ -50275,7 +50275,7 @@
           "sideAffected": "Allies",
           "typeOfTarget": "All",
           "effectType": "HealthBoost",
-          "powerMultiplierPerMil": 350,
+          "powerMultiplierPerMil": 450,
           "powerMultiplierIncrementPerLevelPerMil": 50,
           "hasFixedPower": true
         },
@@ -50469,9 +50469,18 @@
         },
         "maxLevel": 8,
         "properties": [
-          "remove_debuffs_ludovico",
           "direct_heal_ludovico",
           "health_boost_per_blood_lily_ludovico"
+        ],
+        "buffToRemove": "MinorDebuff",
+        "buffToRemoveSideAffected": "Allies",
+        "statusEffects": [
+          {
+            "id": "resist_new_parasites",
+            "sideAffected": "Allies",
+            "statusTargetType": "All",
+            "turns": 3
+          }
         ]
       },
       {
@@ -50482,9 +50491,18 @@
         },
         "maxLevel": 0,
         "properties": [
-          "remove_debuffs_ludovico",
           "direct_heal_ludovico_pve_normal",
           "health_boost_per_blood_lily_ludovico_pve"
+        ],
+        "buffToRemove": "MinorDebuff",
+        "buffToRemoveSideAffected": "Allies",
+        "statusEffects": [
+          {
+            "id": "resist_new_parasites",
+            "sideAffected": "Allies",
+            "statusTargetType": "All",
+            "turns": 3
+          }
         ]
       },
       {
@@ -50495,9 +50513,18 @@
         },
         "maxLevel": 0,
         "properties": [
-          "remove_debuffs_ludovico",
           "direct_heal_ludovico_pve_advanced",
           "health_boost_per_blood_lily_ludovico_pve"
+        ],
+        "buffToRemove": "MinorDebuff",
+        "buffToRemoveSideAffected": "Allies",
+        "statusEffects": [
+          {
+            "id": "resist_new_parasites",
+            "sideAffected": "Allies",
+            "statusTargetType": "All",
+            "turns": 3
+          }
         ]
       }
     ],
@@ -60116,6 +60143,18 @@
         ]
       },
       {
+        "propertyType": "AddStatusEffects",
+        "id": "add_status_effect_elyzabel",
+        "statusEffects": [
+          {
+            "id": "resist_special_blocking",
+            "sideAffected": "Allies",
+            "statusTargetType": "All",
+            "turns": 4
+          }
+        ]
+      },
+      {
         "propertyType": "BranchingSpecial",
         "id": "branching_special_chimister",
         "specialIdIfConditionTrue": "mutating_mixture1",
@@ -60361,8 +60400,8 @@
         "propertyType": "ConditionalEffect",
         "id": "heal_lowest_hp_ally_most_ragrim",
         "includeMissedTargetsInComparison": true,
-        "powerForTargetsThatMeetConditionPerMil": 300,
-        "powerForOtherTargetsPerMil": 150,
+        "powerForTargetsThatMeetConditionPerMil": 510,
+        "powerForOtherTargetsPerMil": 310,
         "powerIncrementPerLevelPerMil": 20,
         "directionOfCondition": "Lowest",
         "statForCondition": "CurrentHp",
@@ -60373,9 +60412,9 @@
       {
         "propertyType": "Growth",
         "id": "growth_ragrim",
-        "baseAttackIncrease": 300,
+        "baseAttackIncrease": 110,
         "baseAttackIncreasePerLevel": 20,
-        "baseDefenseIncrease": 300,
+        "baseDefenseIncrease": 110,
         "baseDefenseIncreasePerLevel": 20,
         "targetType": "All",
         "sideAffected": "Allies"
@@ -60848,7 +60887,7 @@
             "id": "stacking_blood_lily_health_drain_eumachius"
           }
         ],
-        "powerForTargetsThatMeetConditionPerMil": 3150,
+        "powerForTargetsThatMeetConditionPerMil": 4400,
         "powerForOtherTargetsPerMil": 0,
         "powerIncrementPerLevelPerMil": 50,
         "directionOfCondition": "Highest",
@@ -61116,7 +61155,7 @@
       {
         "propertyType": "SecondaryDirectEffect",
         "id": "direct_heal_ludovico",
-        "powerMultiplierPerMil": 180,
+        "powerMultiplierPerMil": 130,
         "powerMultiplierIncrementPerLevelPerMil": 10,
         "effectType": "Heal",
         "targetType": "All",
@@ -61332,7 +61371,7 @@
         "targetFilters": [
           "has_blood_lily"
         ],
-        "powerMultiplierPerMil": 450,
+        "powerMultiplierPerMil": 1450,
         "powerMultiplierIncrementPerLevelPerMil": 50,
         "statusEffects": [
           {
@@ -61402,9 +61441,9 @@
         ],
         "buffCategoryToCount": "AllStatusEffectsAndStacks",
         "sideAffectedToCount": "Enemies",
-        "fixedPowerPerStatusEffect": 36,
+        "fixedPowerPerStatusEffect": 16,
         "fixedPowerPerStatusEffectIncrementPerLevel": 2,
-        "maxAmountOfCountedStatusEffects": 20
+        "maxAmountOfCountedStatusEffects": 30
       },
       {
         "propertyType": "EffectPerStatusEffect",
@@ -61417,8 +61456,8 @@
         ],
         "buffCategoryToCount": "AllStatusEffectsAndStacks",
         "sideAffectedToCount": "Enemies",
-        "fixedPowerPerStatusEffect": 35,
-        "maxAmountOfCountedStatusEffects": 20
+        "fixedPowerPerStatusEffect": 25,
+        "maxAmountOfCountedStatusEffects": 30
       },
       {
         "propertyType": "ChainStrike",
@@ -61458,7 +61497,7 @@
       {
         "propertyType": "SecondaryDirectEffect",
         "id": "boosted_health_xshahr",
-        "fixedPower": 190,
+        "fixedPower": 790,
         "fixedPowerIncrementPerLevel": 30,
         "effectType": "HealthBoost",
         "targetType": "Single",
@@ -61486,5 +61525,5 @@
       }
     ]
   },
-  "specialsConfigId": 2906642696
+  "specialsConfigId": 749666680
 }

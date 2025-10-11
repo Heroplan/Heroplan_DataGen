@@ -32367,9 +32367,9 @@
       {
         "id": "seasonal_rare_halloween",
         "element": "Red",
-        "baseHealth": 200,
+        "baseHealth": 240,
         "baseAttack": 200,
-        "baseDefense": 200,
+        "baseDefense": 140,
         "type": "HalloweenRare",
         "turnsToAttackPerMil": 3000,
         "specialIds": []
@@ -53580,7 +53580,7 @@
         ]
       },
       {
-        "statusEffect": "BrutalSupportStatusEffectSkill",
+        "statusEffect": "FluffVolleyStatusEffectSkill",
         "id": "damage_all_blood_lily_per_turn_guillemette",
         "buff": "MinorBuff",
         "keepConditions": [
@@ -53596,7 +53596,7 @@
         "directEffects": [
           {
             "effectType": "Damage",
-            "powerMultiplierPerMil": 650,
+            "powerMultiplierPerMil": 1000,
             "powerMultiplierIncrementPerLevelPerMil": 50,
             "familiarId": ""
           }
@@ -53976,7 +53976,7 @@
         "buff": "StackMinorDebuff",
         "damageMultiplierPerMil": 0,
         "damageMultiplierIncrementPerLevelPerMil": 0,
-        "fixedDamagePerTurn": 25
+        "fixedDamagePerTurn": 10
       },
       {
         "statusEffect": "StackingBloodLilyHealthDrain",
@@ -53984,7 +53984,7 @@
         "buff": "StackMinorDebuff",
         "damageMultiplierPerMil": 0,
         "damageMultiplierIncrementPerLevelPerMil": 0,
-        "fixedDamagePerTurn": 10
+        "fixedDamagePerTurn": 4
       },
       {
         "statusEffect": "StackingBloodLilyHealthDrain",
@@ -53992,7 +53992,7 @@
         "buff": "StackMinorDebuff",
         "damageMultiplierPerMil": 0,
         "damageMultiplierIncrementPerLevelPerMil": 0,
-        "fixedDamagePerTurn": 10
+        "fixedDamagePerTurn": 20
       },
       {
         "statusEffect": "StackingBloodLilyHealthDrain",
@@ -54000,7 +54000,7 @@
         "buff": "StackMinorDebuff",
         "damageMultiplierPerMil": 0,
         "damageMultiplierIncrementPerLevelPerMil": 0,
-        "fixedDamagePerTurn": 15
+        "fixedDamagePerTurn": 25
       },
       {
         "statusEffect": "StackingBloodLilyHealthDrain",
@@ -54008,7 +54008,7 @@
         "buff": "StackMinorDebuff",
         "damageMultiplierPerMil": 0,
         "damageMultiplierIncrementPerLevelPerMil": 0,
-        "fixedDamagePerTurn": 25
+        "fixedDamagePerTurn": 35
       },
       {
         "statusEffect": "ManaGenerationModifier",
@@ -54315,7 +54315,7 @@
         ],
         "modifier": "DefenseModifier",
         "multiplierPerMil": 880,
-        "multiplierIncrementPerTurnPerMil": 65386,
+        "multiplierIncrementPerTurnPerMil": 65406,
         "multiplierIncrementPerTurnIncrementPerLevelPerMil": 0
       },
       {
@@ -54349,7 +54349,7 @@
         "statusEffect": "BouncingDamageOverTime",
         "id": "bouncing_damage_over_time_mael",
         "buff": "MinorDebuff",
-        "damageMultiplierPerMil": 95,
+        "damageMultiplierPerMil": 200,
         "damageMultiplierIncrementPerLevelPerMil": 5,
         "maxBounces": 3,
         "bounceTargetType": "All",
@@ -54359,7 +54359,7 @@
         "statusEffect": "BouncingDamageOverTime",
         "id": "bouncing_damage_over_time_xshahr",
         "buff": "MinorDebuff",
-        "damageMultiplierPerMil": 35,
+        "damageMultiplierPerMil": 290,
         "damageMultiplierIncrementPerLevelPerMil": 5,
         "maxBounces": 3,
         "bounceTargetType": "All",
@@ -54436,7 +54436,7 @@
           {
             "typeOfTarget": "Random",
             "effectType": "Damage",
-            "powerMultiplierPerMil": 1300,
+            "powerMultiplierPerMil": 1550,
             "powerMultiplierIncrementPerLevelPerMil": 50
           }
         ],
@@ -54449,7 +54449,7 @@
         "statusEffect": "AccuracyModifier",
         "id": "blind_paimon",
         "buff": "MinorDebuff",
-        "accuracyIncrementPerMil": 65276,
+        "accuracyIncrementPerMil": 65176,
         "accuracyIncrementPerLevelPerMil": 236
       },
       {
@@ -54459,7 +54459,7 @@
         "effect": "Damage",
         "effectTargetType": "Random",
         "sideAffected": "Allies",
-        "fixedEffectPower": 260,
+        "fixedEffectPower": 310,
         "fixedEffectPowerIncrementPerLevel": 20
       },
       {
@@ -60889,7 +60889,7 @@
             "sideAffected": "Allies",
             "typeOfTarget": "Single",
             "effectType": "HealthBoost",
-            "fixedPower": 580,
+            "fixedPower": 600,
             "familiarId": ""
           },
           {
@@ -63669,8 +63669,8 @@
             "id": "max_health_reduction_flytrap"
           }
         ],
-        "healthPerMil": 150,
-        "healthPerLevelPerMil": 10,
+        "healthPerMil": 310,
+        "healthPerLevelPerMil": 20,
         "monsterHealthPerMil": 160
       },
       {
@@ -70257,8 +70257,8 @@
         "effectType": "EffectOnSpecialDamageReceived",
         "id": "add_mana_on_received_special_damage_astral_demons",
         "statMultiplierIncrementPerMilsForEachMember": [
-          50,
-          50
+          30,
+          30
         ],
         "chanceIncrementsPerMilForEachMember": [
           1000,
@@ -72373,7 +72373,6 @@
         "id": "halloween_brawl",
         "effects": [
           "halloween_brawl_resist_mana_effects_silence_bleed",
-          "halloween_brawl_resist_mana_reductions",
           "halloween_brawl_enhanced_criticals"
         ]
       },
@@ -75428,8 +75427,6 @@
         "id": "halloween_brawl_resist_mana_effects_silence_bleed",
         "resistedBuffCategory": "StatusEffectDebuffs",
         "resistedStatusEffectTags": [
-          "ManaEffect",
-          "SpecialBlocking",
           "Bleed"
         ],
         "sideAffected": "Both",
@@ -75452,6 +75449,11 @@
           "HealOverTime",
           "Lifesteal"
         ]
+      },
+      {
+        "effectType": "TroopDamageModifier",
+        "id": "halloween_troops",
+        "damageModifierPerMil": 1400
       }
     ],
     "battleSpecificHeroEffects": [
@@ -76860,7 +76862,7 @@
         "statMultipliers": [
           {
             "type": "AttackMultiplier",
-            "multiplierPerMil": 1400
+            "multiplierPerMil": 1800
           },
           {
             "type": "DefenseMultiplier",
@@ -76868,11 +76870,11 @@
           },
           {
             "type": "HealthMultiplier",
-            "multiplierPerMil": 1400
+            "multiplierPerMil": 1300
           },
           {
             "type": "ManaGenerationMultiplier",
-            "multiplierPerMil": 1400
+            "multiplierPerMil": 1050
           }
         ],
         "families": [
@@ -80739,5 +80741,5 @@
       "SharedDamage"
     ]
   },
-  "battleConfigId": 3028675346
+  "battleConfigId": 3045311705
 }

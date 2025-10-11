@@ -1,4 +1,4 @@
-✅ 成功匹配的服装 (463 / 0)
+✅ 成功匹配的服装 (468 / 0)
 ================================
 Name: Berden Costume1, Fancy Name: Adroit Archer
 Name: Hannah Costume1, Fancy Name: Adventurous Drover
@@ -22,6 +22,7 @@ Name: Zeline Costume1, Fancy Name: Avian Celestial
 Name: Richard Costume1, Fancy Name: Axe of Justice
 Name: Hu Tao Costume2, Fancy Name: Bamboo Dueller
 Name: Hu Tao Costume1, Fancy Name: Bark of Bamboo
+Name: Ana-Belle costume1, Fancy Name: Baroness of Dust
 Name: Kullervo Costume1, Fancy Name: Battle-Scarred Son
 Name: Karnov Costume1, Fancy Name: Bedtime Bruiser
 Name: Kvasir Costume1, Fancy Name: Bee Captain of Alfheim
@@ -147,6 +148,7 @@ Name: Rigard Glass, Fancy Name: Glass Cavalier
 Name: Sonya glass, Fancy Name: Glass Champion
 Name: Kashhrek Glass, Fancy Name: Glass Chieftain
 Name: Carver Glass, Fancy Name: Glass Cutpurse
+Name: Boril glass, Fancy Name: Glass Defender
 Name: Isshtak glass, Fancy Name: Glass Fighter
 Name: Li Xiu Glass, Fancy Name: Glass General
 Name: Kailani Glass, Fancy Name: Glass Healer
@@ -154,6 +156,7 @@ Name: Azlar Glass, Fancy Name: Glass Leor
 Name: Balthazar Glass, Fancy Name: Glass Magician
 Name: Wu Kong glass, Fancy Name: Glass Monkey
 Name: Vivica Glass, Fancy Name: Glass Scholar
+Name: Quintus glass, Fancy Name: Glass Scientist
 Name: Domitia Glass, Fancy Name: Glass Sniper
 Name: Elkanen Glass, Fancy Name: Glass Spearmaster
 Name: Belith Glass, Fancy Name: Glass Spirit
@@ -354,6 +357,7 @@ Name: Boril Costume2, Fancy Name: Tavern Defender
 Name: The Hatter Costume1, Fancy Name: Tea Connoisseur of Wonderland
 Name: Milena Costume1, Fancy Name: Teacher of Arctic Spells
 Name: Marjana Costume1, Fancy Name: Terror of Windemer
+Name: Edwin costume1, Fancy Name: The Backstabbing Butler
 Name: Senan Costume1, Fancy Name: The Cephaloid Servant
 Name: Gormek Costume1, Fancy Name: The Coveteus
 Name: Carver Toon, Fancy Name: The Cutpurse Toon
@@ -442,6 +446,7 @@ Name: Kelile Glass, Fancy Name: Vitrail of Dragonia
 Name: Isarnia Glass, Fancy Name: Vitrail of Glaceholm
 Name: Magni Glass, Fancy Name: Vitrail of Ice
 Name: Brienne Glass, Fancy Name: Vitrail of Rathwood
+Name: Dawa glass, Fancy Name: Vitrail of Shaguad
 Name: Justice glass, Fancy Name: Vitrail of Stone
 Name: Marjana Glass, Fancy Name: Vitrail of Windemer
 Name: Melendor Glass, Fancy Name: Vitrail of the Forest

@@ -14843,11 +14843,11 @@
                   "monsterDefinitions": [
                     {
                       "id": "fleur_talesie_boss_normal",
-                      "lvl": 75
+                      "lvl": 95
                     },
                     {
                       "id": "法蕾莉",
-                      "lvl": 80
+                      "lvl": 98
                     }
                   ]
                 }
@@ -14910,7 +14910,7 @@
                     },
                     {
                       "id": "fleur_ludovico_boss_normal",
-                      "lvl": 88
+                      "lvl": 95
                     },
                     {
                       "id": "pumpkin_big"
@@ -14968,7 +14968,8 @@
                       "id": "pumpkin_minion_green"
                     },
                     {
-                      "id": "fleur_guillemette_boss_normal"
+                      "id": "fleur_guillemette_boss_normal",
+                      "lvl": 136
                     },
                     {
                       "id": "pumpkin_minion_green"
@@ -15023,11 +15024,11 @@
                   "monsterDefinitions": [
                     {
                       "id": "fleur_guillemette_boss_normal",
-                      "lvl": 105
+                      "lvl": 99
                     },
                     {
                       "id": "fleur_ludovico_boss_normal",
-                      "lvl": 105
+                      "lvl": 95
                     }
                   ]
                 }
@@ -15069,23 +15070,21 @@
                 "animal_spider"
               ],
               "randomizedMonsterWaveFormationIds": [
-                "random_3_line",
-                "random_3_V",
-                "random_3_A"
+                "random_4_U",
+                "random_4_A"
               ],
               "numberOfRandomizedWaves": 2,
               "predeterminedWaves": [
                 {
-                  "waveFormationId": "boss_3_A",
+                  "waveFormationId": "fixed_2",
                   "monsterDefinitions": [
                     {
-                      "id": "pumpkin_minion_blue"
+                      "id": "fleur_ludovico_boss_normal",
+                      "lvl": 96
                     },
                     {
-                      "id": "fleur_elyzabel_boss_normal"
-                    },
-                    {
-                      "id": "pumpkin_minion_blue"
+                      "id": "fleur_elyzabel_boss_normal",
+                      "lvl": 102
                     }
                   ]
                 }
@@ -15133,13 +15132,19 @@
               "numberOfRandomizedWaves": 2,
               "predeterminedWaves": [
                 {
-                  "waveFormationId": "fixed_2",
+                  "waveFormationId": "boss_3_A_big",
                   "monsterDefinitions": [
                     {
-                      "id": "fleur_elyzabel_boss_normal"
+                      "id": "fleur_elyzabel_boss_normal",
+                      "lvl": 101
                     },
                     {
-                      "id": "fleur_guillemette_boss_normal"
+                      "id": "fleur_guillemette_boss_normal",
+                      "lvl": 102
+                    },
+                    {
+                      "id": "fleur_ludovico_boss_normal",
+                      "lvl": 97
                     }
                   ]
                 }
@@ -15552,7 +15557,7 @@
                     },
                     {
                       "id": "fleur_ludovico_boss_advanced",
-                      "lvl": 155
+                      "lvl": 175
                     },
                     {
                       "id": "pumpkin_big"
@@ -15617,7 +15622,7 @@
                     },
                     {
                       "id": "fleur_guillemette_boss_advanced",
-                      "lvl": 175
+                      "lvl": 224
                     },
                     {
                       "id": "pumpkin_minion_green"
@@ -15678,7 +15683,7 @@
                   "monsterDefinitions": [
                     {
                       "id": "fleur_guillemette_boss_advanced",
-                      "lvl": 170
+                      "lvl": 172
                     },
                     {
                       "id": "fleur_ludovico_boss_advanced",
@@ -15730,24 +15735,20 @@
                 "animal_spider"
               ],
               "randomizedMonsterWaveFormationIds": [
-                "random_3_line",
-                "random_3_V",
-                "random_3_A"
+                "random_4_U",
+                "random_4_A"
               ],
               "numberOfRandomizedWaves": 2,
               "predeterminedWaves": [
                 {
-                  "waveFormationId": "boss_3_A",
+                  "waveFormationId": "fixed_2",
                   "monsterDefinitions": [
                     {
-                      "id": "pumpkin_minion_blue"
+                      "id": "fleur_ludovico_boss_advanced",
+                      "lvl": 179
                     },
                     {
-                      "id": "fleur_elyzabel_boss_advanced",
-                      "lvl": 190
-                    },
-                    {
-                      "id": "pumpkin_minion_blue"
+                      "id": "fleur_elyzabel_boss_advanced"
                     }
                   ]
                 }
@@ -15759,7 +15760,13 @@
               "recruitsReward": 9,
               "xpReward": 3100
             },
-            "heroRewards": [],
+            "heroRewards": [
+              {
+                "type": "Hero",
+                "id": "trainer_yellow_epic",
+                "amount": 1
+              }
+            ],
             "itemRewards": [
               {
                 "type": "Item",
@@ -15781,7 +15788,8 @@
             "displayedEntities": [
               "Item",
               "Item",
-              "Item"
+              "Item",
+              "Hero"
             ]
           },
           {
@@ -15801,7 +15809,7 @@
               "numberOfRandomizedWaves": 2,
               "predeterminedWaves": [
                 {
-                  "waveFormationId": "fixed_2",
+                  "waveFormationId": "boss_3_A_big",
                   "monsterDefinitions": [
                     {
                       "id": "fleur_elyzabel_boss_advanced"
@@ -15809,6 +15817,10 @@
                     {
                       "id": "fleur_guillemette_boss_advanced",
                       "lvl": 190
+                    },
+                    {
+                      "id": "fleur_ludovico_boss_advanced",
+                      "lvl": 178
                     }
                   ]
                 }
@@ -15821,17 +15833,16 @@
               "xpReward": 3150
             },
             "avatarReward": "fleur_elyzabel",
-            "heroRewards": [
-              {
-                "type": "Hero",
-                "id": "trainer_yellow_epic",
-                "amount": 1
-              }
-            ],
+            "heroRewards": [],
             "itemRewards": [
               {
                 "type": "Item",
                 "id": "hero_poison_darts",
+                "amount": 1
+              },
+              {
+                "type": "Item",
+                "id": "hero_limitbreak_alpha",
                 "amount": 1
               },
               {
@@ -15844,7 +15855,7 @@
             "displayedEntities": [
               "Item",
               "Item",
-              "Hero",
+              "Item",
               "Avatar"
             ]
           }
@@ -108659,8 +108670,8 @@
       ]
     },
     "seasonalQuestConfig": {
-      "maxRareMonstersPerEvent": 10
+      "maxRareMonstersPerEvent": 100
     }
   },
-  "questsConfigId": 2692194098
+  "questsConfigId": 575078019
 }

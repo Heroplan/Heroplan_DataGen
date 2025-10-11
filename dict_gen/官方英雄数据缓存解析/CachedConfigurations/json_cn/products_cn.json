@@ -979,7 +979,7 @@
         "id": "lottery_season_untold_tales2",
         "gemPrice": 350,
         "amount": 1,
-        "uiPriority": 132,
+        "uiPriority": 139,
         "bonusChest": "untold_tales2",
         "bonusChestRequirement": 10,
         "bonusChestLimit": 12,
@@ -1181,7 +1181,7 @@
         "id": "lottery_super_elemental_red",
         "gemPrice": 350,
         "amount": 1,
-        "uiPriority": 85,
+        "uiPriority": 135,
         "associatedEvent": "SuperElemental",
         "bonusChest": "super_elemental_chest_red",
         "bonusChestRequirement": 10,
@@ -1507,7 +1507,6 @@
         "id": "com.smallgiantgames.empires.kalevala_booster",
         "dollarValue": 12,
         "zyngaStoreDollarValueOverride": 11,
-        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -2145,7 +2144,7 @@
         "id": "lottery_wilderness_default",
         "gemPrice": 400,
         "amount": 1,
-        "uiPriority": 137,
+        "uiPriority": 134,
         "associatedEvent": "WildernessSummon",
         "bonusChest": "wilderness_chest",
         "bonusChestRequirement": 10,
@@ -3753,7 +3752,7 @@
         "id": "lottery_tower_magic_default_ad",
         "sourceProductId": "lottery_tower_magic_default",
         "amount": 1,
-        "advertisedHero": "magic_carpet_bart",
+        "advertisedHero": "magic_carpet_ragrim",
         "associatedEvent": "TowerMagic",
         "bucketWeights": [
           3215,
@@ -3779,8 +3778,8 @@
         "id": "lottery_tower_magic_default",
         "gemPrice": 350,
         "amount": 1,
-        "uiPriority": 136,
-        "advertisedHero": "magic_carpet_bart",
+        "uiPriority": 141,
+        "advertisedHero": "magic_carpet_ragrim",
         "associatedEvent": "TowerMagic",
         "bucketWeights": [
           643,
@@ -4101,7 +4100,7 @@
         "id": "lottery_hero_halloween",
         "gemPrice": 300,
         "amount": 1,
-        "uiPriority": 42,
+        "uiPriority": 136,
         "advertisedHero": "halloween_hortensia",
         "associatedEvent": "Halloween2025",
         "bucketWeights": [
@@ -20346,6 +20345,7 @@
         "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [],
+        "allianceGiftCustomContentId": "dynamic2_alliancegift",
         "dynamicOfferProduct": true
       },
       {
@@ -28447,7 +28447,6 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.seasonaloffercalendar_price5",
         "dollarValue": 5,
-        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": []
       },
@@ -28455,7 +28454,6 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.seasonaloffercalendar_price10",
         "dollarValue": 10,
-        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": []
       },
@@ -28470,7 +28468,6 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.seasonaloffercalendar_price100",
         "dollarValue": 100,
-        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": []
       },
@@ -33034,6 +33031,7 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.dragon_select_asc4_new",
         "dollarValue": 5,
+        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [],
         "userSelectableContentId": "dragon_select_asc4_new"
@@ -33042,6 +33040,7 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.dragon_select_asc3_new",
         "dollarValue": 3,
+        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [],
         "userSelectableContentId": "dragon_select_asc3_new"
@@ -33050,6 +33049,7 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.dragon_snowys_1_new",
         "dollarValue": 3,
+        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -33074,6 +33074,7 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.dragon_snowys_2_new",
         "dollarValue": 10,
+        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -33093,6 +33094,7 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.dragon_snowys_3_new",
         "dollarValue": 20,
+        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -33112,6 +33114,7 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.dragon_legendary_tokens",
         "dollarValue": 10,
+        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -33543,7 +33546,6 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.harvest_2024_mon1",
         "dollarValue": 5,
-        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -33572,7 +33574,6 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.harvest_2024_mon2",
         "dollarValue": 30,
-        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -33611,7 +33612,6 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.harvest_2024_mon3",
         "dollarValue": 100,
-        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -33932,7 +33932,6 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.harvest_2024_sat1",
         "dollarValue": 10,
-        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -33966,7 +33965,6 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.harvest_2024_sat2",
         "dollarValue": 30,
-        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -34005,7 +34003,6 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.harvest_2024_sat3",
         "dollarValue": 100,
-        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -34094,7 +34091,6 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.harvest_2024_sun1",
         "dollarValue": 3,
-        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -34118,7 +34114,6 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.harvest_2024_sun2",
         "dollarValue": 25,
-        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -34157,7 +34152,6 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.harvest_2024_sun3",
         "dollarValue": 100,
-        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -35028,6 +35022,7 @@
         "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [],
+        "allianceGiftCustomContentId": "dynamic_alliancegift",
         "dynamicOfferProduct": true
       },
       {
@@ -35064,6 +35059,7 @@
         "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [],
+        "allianceGiftCustomContentId": "dynamic3_alliancegift",
         "dynamicOfferProduct": true
       },
       {
@@ -36566,6 +36562,7 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.dragon_majestic_1_new",
         "dollarValue": 3,
+        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -36590,6 +36587,7 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.dragon_majestic_2_new",
         "dollarValue": 10,
+        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -36644,6 +36642,7 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.dragon_majestic_3_new",
         "dollarValue": 30,
+        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -36697,6 +36696,7 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.dragon_owlfords_new",
         "dollarValue": 5,
+        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -36726,6 +36726,7 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.dragon_flaming_new",
         "dollarValue": 5,
+        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -36755,6 +36756,7 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.dragon_dragon_magic_new",
         "dollarValue": 5,
+        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -54009,7 +54011,7 @@
         "id": "lottery_featured_alliance_quest_moths",
         "gemPrice": 300,
         "amount": 1,
-        "uiPriority": 131,
+        "uiPriority": 138,
         "advertisedHero": "musketeer_dartagnan",
         "associatedEvent": "AllianceQuestMoths",
         "bucketWeights": [
@@ -54141,7 +54143,7 @@
         "id": "lottery_goblin_default",
         "gemPrice": 400,
         "amount": 1,
-        "uiPriority": 135,
+        "uiPriority": 140,
         "associatedEvent": "Goblin",
         "bucketWeights": [
           568,
@@ -54292,7 +54294,7 @@
         "id": "lottery_seasonal_premium_halloween",
         "gemPrice": 450,
         "amount": 1,
-        "uiPriority": 41,
+        "uiPriority": 137,
         "advertisedHero": "fleur_guillemette",
         "bucketWeights": [
           710,
@@ -54340,7 +54342,10 @@
           "小黏糊",
           "杰克",
           "弗拉德",
-          "尤马基乌斯"
+          "尤马基乌斯",
+          "凡达-罪恶女王",
+          "米丽安与午夜",
+          "维克托-罪恶之王"
         ],
         "seasonalEventId": "Halloween2025",
         "summonSpiritTokenId": "lottery_seasonal_summon_spirit_halloween",
@@ -56473,5 +56478,5 @@
       }
     ]
   },
-  "productsConfigId": 3522732494
+  "productsConfigId": 1040479671
 }

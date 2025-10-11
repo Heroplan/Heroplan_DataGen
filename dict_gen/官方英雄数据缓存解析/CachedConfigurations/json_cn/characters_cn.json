@@ -11153,7 +11153,7 @@
     "canBeReceivedDate": "2023-09-25 07:00:00",
     "origin": "Halloween",
     "additionalBattleSpecificHeroEffectOrigin": "Halloween2025",
-    "costumeBonusesId": "halloween"
+    "costumeBonusesId": "halloween_2025"
   },
   "halloween_amber": {
     "id": "安布尔",
@@ -11250,7 +11250,7 @@
     "canBeReceivedDate": "2022-10-03 07:00:00",
     "origin": "Halloween",
     "additionalBattleSpecificHeroEffectOrigin": "Halloween2025",
-    "costumeBonusesId": "halloween"
+    "costumeBonusesId": "halloween_2025"
   },
   "halloween_goopy": {
     "id": "小黏糊",
@@ -17380,7 +17380,7 @@
     "specialId": "机械强化",
     "canBeReceivedDate": "2023-05-03 07:00:00",
     "origin": "魔法高塔",
-    "costumeBonusesId": "magic"
+    "costumeBonusesId": "magic_oct_2025"
   },
   "magic_ulius": {
     "id": "尤留思",
@@ -22139,8 +22139,7 @@
     "baseDefense": 324,
     "manaSpeedId": "中等",
     "passiveSkills": [
-      "halloween_steal_buff_or_deal_damage_new",
-      "resist_bleed"
+      "halloween_steal_buff_or_deal_damage_new"
     ],
     "classType": "术士",
     "aetherGift": "Defense Up",
@@ -22159,8 +22158,7 @@
     "baseDefense": 425,
     "manaSpeedId": "快速",
     "passiveSkills": [
-      "halloween_steal_buff_or_deal_damage_new",
-      "resist_bleed"
+      "halloween_steal_buff_or_deal_damage_new"
     ],
     "classType": "牧师",
     "aetherGift": "Attack Up",
@@ -22174,9 +22172,9 @@
     "id": "繁花工匠",
     "element": "蓝",
     "family": "魔法家族",
-    "baseHealth": 820,
-    "baseAttack": 420,
-    "baseDefense": 410,
+    "baseHealth": 725,
+    "baseAttack": 405,
+    "baseDefense": 419,
     "manaSpeedId": "魔法",
     "passiveSkills": [
       "magic_mana_regen_stack_on_special_costume",
@@ -22189,7 +22187,7 @@
     ],
     "rarity": 5,
     "specialId": "花卉布置",
-    "canBeReceivedDate": "2200-01-01 07:00:00",
+    "canBeReceivedDate": "2025-10-19 07:00:00",
     "origin": "魔法高塔",
     "parentHeroId": "卡蜜拉"
   },
@@ -22285,10 +22283,10 @@
       "resist_burn_with_health_and_mana_boost_costume"
     ],
     "classType": "盗贼",
-    "aetherGift": "Ailment Reflect",
+    "aetherGift": "Ailment Immunity",
     "rarity": 5,
     "specialId": "被诅咒的计划",
-    "canBeReceivedDate": "2200-01-01 07:00:00",
+    "canBeReceivedDate": "2025-10-15 07:00:00",
     "origin": "烈焰与冰霜宝藏",
     "parentHeroId": "雷金"
   },
@@ -22325,10 +22323,10 @@
       "resist_burn_with_health_and_mana_boost_costume"
     ],
     "classType": "僧侣",
-    "aetherGift": "Revive",
+    "aetherGift": "Boosted Regen",
     "rarity": 5,
     "specialId": "守护乐章",
-    "canBeReceivedDate": "2200-01-01 07:00:00",
+    "canBeReceivedDate": "2025-10-15 07:00:00",
     "origin": "烈焰与冰霜宝藏",
     "parentHeroId": "奥特"
   },
@@ -22348,7 +22346,7 @@
     "aetherGift": "Special Armor",
     "rarity": 4,
     "specialId": "亡灵忏悔",
-    "canBeReceivedDate": "2200-01-01 07:00:00",
+    "canBeReceivedDate": "2025-10-15 07:00:00",
     "origin": "烈焰与冰霜宝藏",
     "parentHeroId": "菲亚拉尔"
   },
@@ -22368,7 +22366,7 @@
     "aetherGift": "Special Boost",
     "rarity": 3,
     "specialId": "矮人充能",
-    "canBeReceivedDate": "2200-01-01 07:00:00",
+    "canBeReceivedDate": "2025-10-15 07:00:00",
     "origin": "烈焰与冰霜宝藏",
     "parentHeroId": "赫尔吉"
   },
@@ -28068,7 +28066,7 @@
     "aetherGift": "Heal Increase",
     "rarity": 5,
     "specialId": "破冰冲击",
-    "canBeReceivedDate": "2200-01-01 07:00:00",
+    "canBeReceivedDate": "2025-10-20 07:00:00",
     "origin": "荒野召唤"
   },
   "wild_cat_marnes": {
@@ -28106,7 +28104,7 @@
     "aetherGift": "Special Boost",
     "rarity": 3,
     "specialId": "飞裂之鞭",
-    "canBeReceivedDate": "2200-01-01 07:00:00",
+    "canBeReceivedDate": "2025-10-20 07:00:00",
     "origin": "荒野召唤"
   },
   "wild_cat_tunes": {
@@ -29360,9 +29358,9 @@
     "id": "弗吉安特",
     "element": "黄",
     "family": "飞蛾家族",
-    "baseHealth": 1000,
-    "baseAttack": 577,
-    "baseDefense": 610,
+    "baseHealth": 1090,
+    "baseAttack": 607,
+    "baseDefense": 640,
     "manaSpeedId": "中等",
     "passiveSkills": [
       "dodge_enemy_damage_special"
@@ -29690,9 +29688,9 @@
     "id": "泽斯蒂克",
     "element": "红",
     "family": "史莱姆家族",
-    "baseHealth": 1084,
-    "baseAttack": 621,
-    "baseDefense": 604,
+    "baseHealth": 1098,
+    "baseAttack": 626,
+    "baseDefense": 609,
     "manaSpeedId": "中等",
     "passiveSkills": [
       "summon_slime_minion_on_damage_red",
@@ -30020,9 +30018,9 @@
     "id": "拉格里姆",
     "element": "绿",
     "family": "魔毯家族",
-    "baseHealth": 1070,
-    "baseAttack": 568,
-    "baseDefense": 620,
+    "baseHealth": 1095,
+    "baseAttack": 615,
+    "baseDefense": 629,
     "manaSpeedId": "中等",
     "passiveSkills": [
       "reduce_big_minion_health",
@@ -30032,7 +30030,7 @@
     "aetherGift": "Defense Up",
     "rarity": 5,
     "specialId": "草药疗法",
-    "canBeReceivedDate": "2200-01-01 07:00:00",
+    "canBeReceivedDate": "2025-10-19 07:00:00",
     "origin": "魔法高塔"
   },
   "magic_carpet_bart": {
@@ -30248,9 +30246,9 @@
     "id": "酸蛰",
     "element": "绿",
     "family": "哥布林家族",
-    "baseHealth": 1024,
-    "baseAttack": 634,
-    "baseDefense": 608,
+    "baseHealth": 1051,
+    "baseAttack": 642,
+    "baseDefense": 617,
     "manaSpeedId": "快速",
     "passiveSkills": [
       "goblin_damage_and_accuracy_debuff_on_special"
@@ -30259,7 +30257,7 @@
     "aetherGift": "Attack Up",
     "rarity": 5,
     "specialId": "果决豪赌",
-    "canBeReceivedDate": "2200-01-01 07:00:00",
+    "canBeReceivedDate": "2025-10-18 07:00:00",
     "origin": "哥布林村"
   },
   "goblin_ratgrub": {
@@ -30591,9 +30589,9 @@
     "id": "霍滕西娅",
     "element": "绿",
     "family": "莫洛维亚家族",
-    "baseHealth": 989,
-    "baseAttack": 602,
-    "baseDefense": 589,
+    "baseHealth": 1072,
+    "baseAttack": 630,
+    "baseDefense": 617,
     "manaSpeedId": "中等",
     "passiveSkills": [
       "halloween_steal_buff_or_deal_damage_new"
@@ -30610,9 +30608,9 @@
     "id": "吉耶梅特",
     "element": "黄",
     "family": "弗勒德桑家族",
-    "baseHealth": 1066,
-    "baseAttack": 636,
-    "baseDefense": 581,
+    "baseHealth": 1092,
+    "baseAttack": 645,
+    "baseDefense": 590,
     "manaSpeedId": "中等",
     "passiveSkills": [
       "dealt_damage_modifier_per_blood_lily_on_target"
@@ -30628,14 +30626,14 @@
     "id": "埃莉萨贝尔·德·蒂耶尔",
     "element": "红",
     "family": "弗勒德桑家族",
-    "baseHealth": 1080,
-    "baseAttack": 616,
-    "baseDefense": 599,
+    "baseHealth": 1098,
+    "baseAttack": 626,
+    "baseDefense": 610,
     "manaSpeedId": "中等",
     "passiveSkills": [
       "dealt_damage_modifier_per_blood_lily_on_target"
     ],
-    "classType": "巫师",
+    "classType": "德鲁伊",
     "aetherGift": "Fiend Resist",
     "rarity": 5,
     "specialId": "珍稀宠伴",
@@ -30646,15 +30644,15 @@
     "id": "卢多维科",
     "element": "蓝",
     "family": "弗勒德桑家族",
-    "baseHealth": 1090,
-    "baseAttack": 607,
-    "baseDefense": 605,
+    "baseHealth": 1099,
+    "baseAttack": 619,
+    "baseDefense": 618,
     "manaSpeedId": "快速",
     "passiveSkills": [
       "dealt_damage_modifier_per_blood_lily_on_target"
     ],
     "classType": "牧师",
-    "aetherGift": "Boosted Regen",
+    "aetherGift": "Fiend Resist",
     "rarity": 5,
     "specialId": "珍馐盛宴",
     "canBeReceivedDate": "2025-10-08 07:00:00",
@@ -30664,9 +30662,9 @@
     "id": "尤马基乌斯",
     "element": "绿",
     "family": "弗勒德桑家族",
-    "baseHealth": 502,
-    "baseAttack": 301,
-    "baseDefense": 299,
+    "baseHealth": 511,
+    "baseAttack": 304,
+    "baseDefense": 303,
     "manaSpeedId": "快速",
     "passiveSkills": [
       "dealt_damage_modifier_per_blood_lily_on_target"
@@ -30688,7 +30686,7 @@
     "manaSpeedId": "中等",
     "passiveSkills": [
       "never_miss_special",
-      "resist_bleed_with_health_boost_and_mana"
+      "resist_all_mana_debuffs"
     ],
     "classType": "术士",
     "aetherGift": "Attack Up",
@@ -30707,7 +30705,7 @@
     "manaSpeedId": "快速",
     "passiveSkills": [
       "never_miss_special",
-      "resist_bleed_with_health_boost_and_mana"
+      "resist_all_mana_debuffs"
     ],
     "classType": "野蛮人",
     "aetherGift": "Attack Up",
@@ -30726,7 +30724,7 @@
     "manaSpeedId": "慢",
     "passiveSkills": [
       "never_miss_special",
-      "resist_bleed_with_health_boost_and_mana"
+      "resist_all_mana_debuffs"
     ],
     "classType": "牧师",
     "aetherGift": "Defense Up",
@@ -30745,7 +30743,7 @@
     "manaSpeedId": "快速",
     "passiveSkills": [
       "never_miss_special",
-      "resist_bleed_with_health_boost_and_mana"
+      "resist_all_mana_debuffs"
     ],
     "classType": "盗贼",
     "aetherGift": "Dodge",
@@ -30764,7 +30762,7 @@
     "manaSpeedId": "非常慢",
     "passiveSkills": [
       "never_miss_special",
-      "resist_bleed_with_health_boost_and_mana"
+      "resist_all_mana_debuffs"
     ],
     "classType": "圣骑士",
     "aetherGift": "Boosted Regen",
@@ -30795,9 +30793,9 @@
     "id": "塔莱茜娅",
     "element": "紫",
     "family": "弗勒德桑家族",
-    "baseHealth": 656,
-    "baseAttack": 367,
-    "baseDefense": 353,
+    "baseHealth": 675,
+    "baseAttack": 373,
+    "baseDefense": 360,
     "manaSpeedId": "快速",
     "passiveSkills": [
       "dealt_damage_modifier_per_blood_lily_on_target"
