@@ -99,7 +99,7 @@ window.families_bonus = [
     },
     {
         "originalIndex": 10,
-        "name": "fleurdesang",
+        "name": "fleur_de_sang",
         "bonus": [
             "每回合开始时，每名弗勒德桑角色用血莲标记剩余生命值最高的敌人。",
             "血莲，叠加(最高: 10)目标每回合承受 4 / 6 / 10 点伤害。己方战队中的弗勒德桑角色会按照造成的伤害值恢复生命值，并在他们之间平均分配。",

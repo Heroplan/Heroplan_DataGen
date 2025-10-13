@@ -13271,7 +13271,7 @@ window.allHeroes =
             "Fiends Counters",
             "Cleansers"
         ],
-        "source": "The Sanguine Feast",
+        "source": "Monthly Event - The Sanguine Feast",
         "Release date": "2025-10-08",
         "specialId": "exquisite_victuals",
         "passiveSkills": [
@@ -22195,7 +22195,7 @@ window.allHeroes =
         "skill_types": [
             "Snipers"
         ],
-        "source": "The Sanguine Feast",
+        "source": "Monthly Event - The Sanguine Feast",
         "Release date": "2025-10-08",
         "specialId": "mischievous_flourish",
         "passiveSkills": [
@@ -48800,7 +48800,7 @@ window.allHeroes =
             "Chain & Random Attackers",
             "DoT Attackers"
         ],
-        "source": "The Sanguine Feast",
+        "source": "Monthly Event - The Sanguine Feast",
         "Release date": "2025-10-08",
         "specialId": "ravening_blade",
         "passiveSkills": [
@@ -75995,7 +75995,7 @@ window.allHeroes =
             "Immunity Providers",
             "Minions Summoners"
         ],
-        "source": "The Sanguine Feast",
+        "source": "Monthly Event - The Sanguine Feast",
         "Release date": "2025-10-08",
         "specialId": "precious_pets",
         "passiveSkills": [
@@ -97161,7 +97161,7 @@ window.allHeroes =
             "Immunity Providers",
             "Extra Damage Dealers"
         ],
-        "source": "The Sanguine Feast",
+        "source": "Monthly Event - The Sanguine Feast",
         "Release date": "2025-10-08",
         "specialId": "unholy_power",
         "passiveSkills": [
@@ -107249,6 +107249,58 @@ window.allHeroes =
         "family": "nidavellir",
         "costume_id": 1,
         "originalIndex": 1548,
+        "cn_skill_info": []
+    },
+    {
+        "name": "Vernix",
+        "fancy_name": "Snow Leopard Magus",
+        "AetherPower": "",
+        "color": "Blue",
+        "class": "Paladin",
+        "speed": "Slow",
+        "skill": "",
+        "types": [],
+        "skill_types": [],
+        "source": "",
+        "Release date": "",
+        "specialId": "",
+        "heroId": "wild_cat_vernix",
+        "star": 5,
+        "power": null,
+        "attack": null,
+        "defense": null,
+        "health": null,
+        "effects": [],
+        "passives": [],
+        "family": "wild_cat",
+        "costume_id": 0,
+        "originalIndex": 1549,
+        "cn_skill_info": []
+    },
+    {
+        "name": "Ferni",
+        "fancy_name": "Adventurous Rainforest Cat",
+        "AetherPower": "",
+        "color": "Green",
+        "class": "Paladin",
+        "speed": "Slow",
+        "skill": "",
+        "types": [],
+        "skill_types": [],
+        "source": "",
+        "Release date": "",
+        "specialId": "",
+        "heroId": "wild_cat_ferni",
+        "star": 3,
+        "power": null,
+        "attack": null,
+        "defense": null,
+        "health": null,
+        "effects": [],
+        "passives": [],
+        "family": "wild_cat",
+        "costume_id": 0,
+        "originalIndex": 1550,
         "cn_skill_info": []
     }
 ];

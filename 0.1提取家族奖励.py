@@ -12,6 +12,7 @@ family_name_corrections = {
     "outlaws": "outlaw",
     "springvale": "easter",
     "morlovia": "halloween",
+    "fleurdesang": "fleur_de_sang",
     "christmas": "winter",
     "2017": "hotm2017",
     "2018": "hotm2018",
@@ -43,6 +44,7 @@ family_name_corrections = {
     "moth": "moths",
     "wildcat": "wild_cat",
     "theinstitute": "institute"
+    
 }
 
 def extract_family_name(filename):
@@ -117,3 +119,4 @@ def process_families():
 
 if __name__ == '__main__':
     process_families()
+    input("\n按任意键退出...")

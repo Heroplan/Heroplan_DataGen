@@ -53,5 +53,27 @@
         "costume_id": 1,
         "heroId": "tales2_ott_costume_herbalist",
         "Lottery_Only":1
+    },
+    {
+        "name": "Vernix",
+        "fancy_name": "Snow Leopard Magus",
+        "color": "Blue",
+        "Release date": "",
+        "star": 5,
+        "family": "wild_cat",
+        "costume_id": 0,
+        "heroId": "wild_cat_vernix",
+        "Lottery_Only":1
+    },
+    {
+        "name": "Ferni",
+        "fancy_name": "Adventurous Rainforest Cat",
+        "color": "Green",
+        "Release date": "",
+        "star": 3,
+        "family": "wild_cat",
+        "costume_id": 0,
+        "heroId": "wild_cat_ferni",
+        "Lottery_Only":1
     }
 ]

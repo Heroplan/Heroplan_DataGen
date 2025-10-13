@@ -99,7 +99,7 @@ window.families_bonus = [
     },
     {
         "originalIndex": 10,
-        "name": "fleurdesang",
+        "name": "fleur_de_sang",
         "bonus": [
             "每回合開始時，每個血花角色用血百合标記剩餘生命值最高的敵人。",
             "血百合，疊加(上限: 10)目标每回合受到 4 / 6 / 10 點傷害。己方隊伍中的血花角色将獲得等同於造成之傷害量的生命值，並在他們之間平均分配。",

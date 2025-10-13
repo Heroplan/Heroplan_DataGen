@@ -77,7 +77,8 @@ def check_hero_passives(characters_file, icons_file):
 
 if __name__ == "__main__":
     # 定义文件名，您可以根据实际情况修改
-    CHARACTERS_FILENAME = "characters_en.json"
+    CHARACTERS_FILENAME = "dict_gen\官方英雄数据缓存解析\CachedConfigurations\json\characters_en.json"
     ICONS_FILENAME = "被动图标表.json"
     
     check_hero_passives(CHARACTERS_FILENAME, ICONS_FILENAME)
+    input("\n按任意键退出...")

@@ -99,7 +99,7 @@ window.families_bonus = [
     },
     {
         "originalIndex": 10,
-        "name": "fleurdesang",
+        "name": "fleur_de_sang",
         "bonus": [
             "At the start of each turn, each Fleur de Sang character marks the enemy with highest remaining HP with Blood Lily.",
             "Blood Lily, Stack (Max: 10): The target receive 4/6/10 damage per turn. The Fleur de Sang characters on the opposing team gain the amount of damage dealt as health, divided equally between them.",

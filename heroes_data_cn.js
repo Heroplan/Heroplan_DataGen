@@ -13276,7 +13276,7 @@ window.allHeroes =
             "反制恶魔",
             "净化"
         ],
-        "source": "血色盛宴",
+        "source": "月活动 - 血色盛宴",
         "Release date": "2025-10-08",
         "specialId": "exquisite_victuals",
         "passiveSkills": [
@@ -22199,7 +22199,7 @@ window.allHeroes =
         "skill_types": [
             "狙击手"
         ],
-        "source": "血色盛宴",
+        "source": "月活动 - 血色盛宴",
         "Release date": "2025-10-08",
         "specialId": "mischievous_flourish",
         "passiveSkills": [
@@ -48816,7 +48816,7 @@ window.allHeroes =
             "连锁与随机攻击",
             "持续伤害"
         ],
-        "source": "血色盛宴",
+        "source": "月活动 - 血色盛宴",
         "Release date": "2025-10-08",
         "specialId": "ravening_blade",
         "passiveSkills": [
@@ -76016,7 +76016,7 @@ window.allHeroes =
             "提供免疫",
             "召唤小兵"
         ],
-        "source": "血色盛宴",
+        "source": "月活动 - 血色盛宴",
         "Release date": "2025-10-08",
         "specialId": "precious_pets",
         "passiveSkills": [
@@ -97182,7 +97182,7 @@ window.allHeroes =
             "提供免疫",
             "额外伤害"
         ],
-        "source": "血色盛宴",
+        "source": "月活动 - 血色盛宴",
         "Release date": "2025-10-08",
         "specialId": "unholy_power",
         "passiveSkills": [
@@ -107281,6 +107281,58 @@ window.allHeroes =
         "family": "nidavellir",
         "costume_id": 1,
         "originalIndex": 1548,
+        "cn_skill_info": []
+    },
+    {
+        "name": "维尼克斯 (Vernix)",
+        "fancy_name": "雪豹魔导师",
+        "AetherPower": "",
+        "color": "蓝",
+        "class": "圣骑士",
+        "speed": "慢",
+        "skill": "",
+        "types": [],
+        "skill_types": [],
+        "source": "",
+        "Release date": "",
+        "specialId": "",
+        "heroId": "wild_cat_vernix",
+        "star": 5,
+        "power": null,
+        "attack": null,
+        "defense": null,
+        "health": null,
+        "effects": [],
+        "passives": [],
+        "family": "wild_cat",
+        "costume_id": 0,
+        "originalIndex": 1549,
+        "cn_skill_info": []
+    },
+    {
+        "name": "费尔尼 (Ferni)",
+        "fancy_name": "雨林探险猫",
+        "AetherPower": "",
+        "color": "绿",
+        "class": "圣骑士",
+        "speed": "慢",
+        "skill": "",
+        "types": [],
+        "skill_types": [],
+        "source": "",
+        "Release date": "",
+        "specialId": "",
+        "heroId": "wild_cat_ferni",
+        "star": 3,
+        "power": null,
+        "attack": null,
+        "defense": null,
+        "health": null,
+        "effects": [],
+        "passives": [],
+        "family": "wild_cat",
+        "costume_id": 0,
+        "originalIndex": 1550,
         "cn_skill_info": []
     }
 ];
