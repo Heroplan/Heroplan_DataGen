@@ -40156,5 +40156,32 @@ window.allHeroesExtra = [
             "dealt_damage_modifier_per_blood_lily_on_target"
         ],
         "family": "fleur_de_sang"
+    },
+    {
+        "name": "Furgeant",
+        "fancy name": "The Juggermoth",
+        "element": "Yellow",
+        "rarity": 5,
+        "class": "Paladin",
+        "speed": "average",
+        "Release date": "2025-10-13",
+        "AetherPower": "Taunt",
+        "skill_types": [
+            "Dodgers",
+            "Taunters",
+            "Damage Reducers",
+            "Sleepweavers",
+            "Chain & Random Attackers",
+            "Mana Generation Buffers"
+        ],
+        "heroId": "moth_furgeant",
+        "baseAttack": 607,
+        "baseDefense": 640,
+        "baseHealth": 1090,
+        "specialId": "vigorous_aegis",
+        "passiveSkills": [
+            "dodge_enemy_damage_special"
+        ],
+        "family": "moths"
     }
 ];

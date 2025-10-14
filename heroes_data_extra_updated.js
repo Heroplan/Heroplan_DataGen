@@ -39819,7 +39819,11 @@ window.allHeroesExtra = [
         "speed": "slow",
         "Release date": "2025-10-09",
         "AetherPower": "Defense Up",
-        "skill_types": [],
+        "skill_types": [
+            "AoE Attackers (Hit-5)",
+            "Debuffers (DEF)",
+            "Bypassers"
+        ],
         "heroId": "nordic_mage_costume_glass",
         "baseAttack": 272,
         "baseDefense": 250,
@@ -39845,7 +39849,9 @@ window.allHeroesExtra = [
         "speed": "average",
         "Release date": "2025-10-09",
         "AetherPower": "Regen",
-        "skill_types": [],
+        "skill_types": [
+            "Counterattackers"
+        ],
         "heroId": "dwarven_guard_costume_glass",
         "baseAttack": 266,
         "baseDefense": 340,
@@ -39871,7 +39877,12 @@ window.allHeroesExtra = [
         "speed": "fast",
         "Release date": "2025-10-08",
         "AetherPower": "Fiend Resist",
-        "skill_types": [],
+        "skill_types": [
+            "Healers",
+            "Health Boosters",
+            "Fiends Counters",
+            "Cleansers"
+        ],
         "heroId": "fleur_ludovico",
         "baseAttack": 619,
         "baseDefense": 618,
@@ -39891,7 +39902,9 @@ window.allHeroesExtra = [
         "speed": "fast",
         "Release date": "2025-10-08",
         "AetherPower": "Attack Up",
-        "skill_types": [],
+        "skill_types": [
+            "Snipers"
+        ],
         "heroId": "fleur_eumachius",
         "baseAttack": 304,
         "baseDefense": 303,
@@ -39911,7 +39924,12 @@ window.allHeroesExtra = [
         "speed": "fast",
         "Release date": "2025-10-08",
         "AetherPower": "Attack Up",
-        "skill_types": [],
+        "skill_types": [
+            "AoE Attackers (Hit-5)",
+            "Bypassers",
+            "Cleanse Blockers",
+            "DoT Attackers"
+        ],
         "heroId": "halloween_edwin_costume_mafia",
         "baseAttack": 455,
         "baseDefense": 425,
@@ -39937,7 +39955,11 @@ window.allHeroesExtra = [
         "speed": "average",
         "Release date": "2025-10-08",
         "AetherPower": "Fiend Resist",
-        "skill_types": [],
+        "skill_types": [
+            "Minions Counters",
+            "AoE Attackers (Hit-3)",
+            "Fiends Summoners"
+        ],
         "heroId": "halloween_hortensia",
         "baseAttack": 630,
         "baseDefense": 617,
@@ -39957,7 +39979,13 @@ window.allHeroesExtra = [
         "speed": "average",
         "Release date": "2025-10-08",
         "AetherPower": "Defense Up",
-        "skill_types": [],
+        "skill_types": [
+            "Cleansers",
+            "Dispellers",
+            "Healers",
+            "Healers (Special)",
+            "Negative Effects On Self Or Allies"
+        ],
         "heroId": "halloween_ana_belle_costume_mafia",
         "baseAttack": 300,
         "baseDefense": 324,
@@ -39983,7 +40011,11 @@ window.allHeroesExtra = [
         "speed": "fast",
         "Release date": "2025-10-08",
         "AetherPower": "Attack Up",
-        "skill_types": [],
+        "skill_types": [
+            "Snipers",
+            "Chain & Random Attackers",
+            "DoT Attackers"
+        ],
         "heroId": "fleur_talesie",
         "baseAttack": 373,
         "baseDefense": 360,
@@ -40003,7 +40035,10 @@ window.allHeroesExtra = [
         "speed": "slow",
         "Release date": "2025-10-09",
         "AetherPower": "Mana Boost",
-        "skill_types": [],
+        "skill_types": [
+            "AoE Attackers (Hit-5)",
+            "Bypassers"
+        ],
         "heroId": "cultist_inventor_costume_glass",
         "baseAttack": 340,
         "baseDefense": 340,
@@ -40029,7 +40064,11 @@ window.allHeroesExtra = [
         "speed": "average",
         "Release date": "2025-10-08",
         "AetherPower": "Fiend Resist",
-        "skill_types": [],
+        "skill_types": [
+            "AoE Attackers (Hit-3)",
+            "Immunity Providers",
+            "Minions Summoners"
+        ],
         "heroId": "fleur_elyzabel",
         "baseAttack": 626,
         "baseDefense": 610,
@@ -40049,7 +40088,11 @@ window.allHeroesExtra = [
         "speed": "average",
         "Release date": "2025-10-11",
         "AetherPower": "Dodge",
-        "skill_types": [],
+        "skill_types": [
+            "Mana Raisers",
+            "Ability Scores Modifiers",
+            "Mega Minions Summoners"
+        ],
         "heroId": "slime_zestique",
         "baseAttack": 626,
         "baseDefense": 609,
@@ -40070,7 +40113,10 @@ window.allHeroesExtra = [
         "speed": "average",
         "Release date": "2025-10-09",
         "AetherPower": "Dodge",
-        "skill_types": [],
+        "skill_types": [
+            "AoE Attackers (Hit-3)",
+            "Bypassers"
+        ],
         "heroId": "oriental_female_guard_costume_glass",
         "baseAttack": 274,
         "baseDefense": 254,
@@ -40096,7 +40142,11 @@ window.allHeroesExtra = [
         "speed": "average",
         "Release date": "2025-10-08",
         "AetherPower": "Ailment Immunity",
-        "skill_types": [],
+        "skill_types": [
+            "AoE Attackers (Hit-5)",
+            "Immunity Providers",
+            "Extra Damage Dealers"
+        ],
         "heroId": "fleur_guillemette",
         "baseAttack": 645,
         "baseDefense": 590,
@@ -40106,5 +40156,25 @@ window.allHeroesExtra = [
             "dealt_damage_modifier_per_blood_lily_on_target"
         ],
         "family": "fleur_de_sang"
+    },
+    {
+        "name": "Furgeant",
+        "fancy name": "The Juggermoth",
+        "element": "Yellow",
+        "rarity": 5,
+        "class": "Paladin",
+        "speed": "average",
+        "Release date": "2025-10-13",
+        "AetherPower": "Taunt",
+        "skill_types": [],
+        "heroId": "moth_furgeant",
+        "baseAttack": 607,
+        "baseDefense": 640,
+        "baseHealth": 1090,
+        "specialId": "vigorous_aegis",
+        "passiveSkills": [
+            "dodge_enemy_damage_special"
+        ],
+        "family": "moths"
     }
 ];

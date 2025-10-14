@@ -907,5 +907,7 @@
   "Growth 2": "2个目标成长",
   "Slime Mega Minion Self": "自身召唤史莱姆超级小兵",
   "Hit All Blood Lily mark": "攻击所有被血莲标记目标",
-  "Healing Decrease All": "全体治疗量降低"
+  "Healing Decrease All": "全体治疗量降低",
+  "Hit Random 1 on Ally SS": "盟友特殊技能时攻击随机单个目标",
+  "Deep Sleep on Hit": "命中时深度睡眠"
 }

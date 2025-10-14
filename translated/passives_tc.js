@@ -9880,6 +9880,13 @@ const translatedPassivesTC =
     },
     {
         "originalIndex": 1394,
+        "name": "Furgeant",
+        "passives": [
+            "閃避特殊傷害：此角色有 15% 的機率可躲避造成傷害的特殊技能。"
+        ]
+    },
+    {
+        "originalIndex": 1395,
         "name": "Gandr",
         "passives": [
             "賦能抵禦燃燒：此角色對燃燒具有天生抗性，每次抵抗都會獲得 450 點生命值提升和 5% 法力。",
@@ -9890,7 +9897,7 @@ const translatedPassivesTC =
         ]
     },
     {
-        "originalIndex": 1395,
+        "originalIndex": 1396,
         "name": "Gideon",
         "passives": [
             "抵抗防禦減少：該角色對影響防禦的狀態異常、疊加和枯萎效果具有天生抗性。",
@@ -9899,7 +9906,7 @@ const translatedPassivesTC =
         ]
     },
     {
-        "originalIndex": 1396,
+        "originalIndex": 1397,
         "name": "Gilligan",
         "passives": [
             "抵禦法力異常：此角色對影響法力的異常具有天生抗性。",
@@ -9907,7 +9914,7 @@ const translatedPassivesTC =
         ]
     },
     {
-        "originalIndex": 1397,
+        "originalIndex": 1398,
         "name": "Goldrip",
         "passives": [
             "被擊敗時召喚史萊姆小兵：當此角色被擊敗時，會召喚史萊姆超級小兵給附近盟友，這些小兵繼承此角色的 50% 生命值和 40% 攻擊力。",
@@ -9915,7 +9922,7 @@ const translatedPassivesTC =
         ]
     },
     {
-        "originalIndex": 1398,
+        "originalIndex": 1399,
         "name": "Gongniu",
         "passives": [
             "獲得狀態異常的生命值回復：此角色在被施加狀態異常或負面效果疊加時，可恢復 10% 生命值。",
@@ -9923,7 +9930,7 @@ const translatedPassivesTC =
         ]
     },
     {
-        "originalIndex": 1399,
+        "originalIndex": 1400,
         "name": "Gooric",
         "passives": [
             "被擊敗時召喚史萊姆小兵：當此角色被擊敗時，會召喚史萊姆超級小兵給附近盟友，這些小兵繼承此角色的 50% 生命值和 40% 攻擊力。",
@@ -9931,7 +9938,7 @@ const translatedPassivesTC =
         ]
     },
     {
-        "originalIndex": 1400,
+        "originalIndex": 1401,
         "name": "Grilka",
         "passives": [
             "部隊精通：",
@@ -9942,51 +9949,51 @@ const translatedPassivesTC =
         ]
     },
     {
-        "originalIndex": 1401,
+        "originalIndex": 1402,
         "name": "Guardian Elephant",
         "passives": [
             "抵禦來自狀態效果的傷害：此角色對來自狀態效果的傷害具有天生抗性。"
         ]
     },
     {
-        "originalIndex": 1402,
+        "originalIndex": 1403,
         "name": "Guardian Gazelle",
         "passives": []
     },
     {
-        "originalIndex": 1403,
+        "originalIndex": 1404,
         "name": "Guardian Gazelle C1",
         "passives": []
     },
     {
-        "originalIndex": 1404,
+        "originalIndex": 1405,
         "name": "Guardian Owl",
         "passives": []
     },
     {
-        "originalIndex": 1405,
+        "originalIndex": 1406,
         "name": "Guillemette",
         "passives": [
             "目标每有一層血百合叠加，此角色受到普通攻擎和特殊技能造成的增加 5%。"
         ]
     },
     {
-        "originalIndex": 1406,
+        "originalIndex": 1407,
         "name": "Guinevere",
         "passives": []
     },
     {
-        "originalIndex": 1407,
+        "originalIndex": 1408,
         "name": "Guinevere C1",
         "passives": []
     },
     {
-        "originalIndex": 1408,
+        "originalIndex": 1409,
         "name": "Gwendoline",
         "passives": []
     },
     {
-        "originalIndex": 1409,
+        "originalIndex": 1410,
         "name": "Gwynn",
         "passives": [
             "抵禦特殊技能封鎖：此角色對封鎖特殊技能的狀態異常具有天生抗性。",
@@ -9996,7 +10003,7 @@ const translatedPassivesTC =
         ]
     },
     {
-        "originalIndex": 1410,
+        "originalIndex": 1411,
         "name": "Hachiko",
         "passives": [
             "密友之友：對任意盟友召喚小兵時，此角色會獲得 5% 生命和 5% 法力。此效果每回合僅可啟動一次。",
@@ -10004,14 +10011,14 @@ const translatedPassivesTC =
         ]
     },
     {
-        "originalIndex": 1411,
+        "originalIndex": 1412,
         "name": "Halcyon",
         "passives": [
             "已減少的治療：所有敵人都獲得 -50% 治療。"
         ]
     },
     {
-        "originalIndex": 1412,
+        "originalIndex": 1413,
         "name": "Hanitra",
         "passives": [
             "抵禦特殊技能封鎖：此角色對封鎖特殊技能的狀態異常具有天生抗性。",
@@ -10019,7 +10026,7 @@ const translatedPassivesTC =
         ]
     },
     {
-        "originalIndex": 1413,
+        "originalIndex": 1414,
         "name": "Haumri",
         "passives": [
             "強化無視小兵：該角色造成的所有傷害皆無視小兵和超級小兵。",
@@ -10028,14 +10035,14 @@ const translatedPassivesTC =
         ]
     },
     {
-        "originalIndex": 1414,
+        "originalIndex": 1415,
         "name": "Hilda",
         "passives": [
             "石像鬼的柔軟膚：每次此石像鬼施放特殊技能時，其柔軟膚啟動。它們受之後 4 次的傷害，其傷害減少 -90% 且也可抵禦所有狀態異常與法力減損。此效果無法驅散。"
         ]
     },
     {
-        "originalIndex": 1415,
+        "originalIndex": 1416,
         "name": "Horus",
         "passives": [
             "施放特殊技能時的效果：此角色施放特殊技能時，有 40% 機率執行下列行動：",
@@ -10044,7 +10051,7 @@ const translatedPassivesTC =
         ]
     },
     {
-        "originalIndex": 1416,
+        "originalIndex": 1417,
         "name": "Horus C1",
         "passives": [
             "施放特殊技能時的效果：此角色施放特殊技能時，有 40% 機率執行下列行動：",
@@ -10055,24 +10062,24 @@ const translatedPassivesTC =
         ]
     },
     {
-        "originalIndex": 1417,
+        "originalIndex": 1418,
         "name": "Iga",
         "passives": [
             "已減少的小兵生命：敵人小兵被召喚時繼承 -50% 生命。"
         ]
     },
     {
-        "originalIndex": 1418,
+        "originalIndex": 1419,
         "name": "Inari",
         "passives": []
     },
     {
-        "originalIndex": 1419,
+        "originalIndex": 1420,
         "name": "Inari C1",
         "passives": []
     },
     {
-        "originalIndex": 1420,
+        "originalIndex": 1421,
         "name": "Iron-Heart",
         "passives": [
             "賦能抵禦特殊技能封鎖：此角色對能夠讓特殊技能無法使用的狀熊异常免疫，每次抵抗都會猫得 450 點生命值提升和 5% 法力。",
@@ -10083,7 +10090,7 @@ const translatedPassivesTC =
         ]
     },
     {
-        "originalIndex": 1421,
+        "originalIndex": 1422,
         "name": "Ironmaw",
         "passives": [
             "部隊精通：",
@@ -10094,7 +10101,7 @@ const translatedPassivesTC =
         ]
     },
     {
-        "originalIndex": 1422,
+        "originalIndex": 1423,
         "name": "Ithar",
         "passives": [
             "閃避特殊傷害：此角色有 15% 的機率可躲避造成傷害的特殊技能。",
@@ -10102,24 +10109,24 @@ const translatedPassivesTC =
         ]
     },
     {
-        "originalIndex": 1423,
+        "originalIndex": 1424,
         "name": "Jana",
         "passives": [
             "小兵陣亡時獲得淨化效果：這名角色擁有的小兵被擊殺時，會淨化其狀態異常。"
         ]
     },
     {
-        "originalIndex": 1424,
+        "originalIndex": 1425,
         "name": "Jasper",
         "passives": []
     },
     {
-        "originalIndex": 1425,
+        "originalIndex": 1426,
         "name": "Jasper C1",
         "passives": []
     },
     {
-        "originalIndex": 1426,
+        "originalIndex": 1427,
         "name": "Jequn",
         "passives": [
             "部隊精通：",
@@ -10130,7 +10137,7 @@ const translatedPassivesTC =
         ]
     },
     {
-        "originalIndex": 1427,
+        "originalIndex": 1428,
         "name": "Jequn C1",
         "passives": [
             "部隊精通：",
@@ -10141,72 +10148,72 @@ const translatedPassivesTC =
         ]
     },
     {
-        "originalIndex": 1428,
+        "originalIndex": 1429,
         "name": "Joon",
         "passives": []
     },
     {
-        "originalIndex": 1429,
+        "originalIndex": 1430,
         "name": "Joon C1",
         "passives": []
     },
     {
-        "originalIndex": 1430,
+        "originalIndex": 1431,
         "name": "Joon C2",
         "passives": []
     },
     {
-        "originalIndex": 1431,
+        "originalIndex": 1432,
         "name": "Joon Toon",
         "passives": [
             "公仔：額外 75% 機率抵禦所有狀態異常、法力減損與增益驅散。"
         ]
     },
     {
-        "originalIndex": 1432,
+        "originalIndex": 1433,
         "name": "Joon Glass",
         "passives": [
             "玻璃：額外 60% 機率將狀態異常反射給攻擊者。"
         ]
     },
     {
-        "originalIndex": 1433,
+        "originalIndex": 1434,
         "name": "Jove",
         "passives": [
             "小兵陣亡時獲得淨化效果：這名角色擁有的小兵被擊殺時，會淨化其狀態異常。"
         ]
     },
     {
-        "originalIndex": 1434,
+        "originalIndex": 1435,
         "name": "Justice",
         "passives": []
     },
     {
-        "originalIndex": 1435,
+        "originalIndex": 1436,
         "name": "Justice C1",
         "passives": []
     },
     {
-        "originalIndex": 1436,
+        "originalIndex": 1437,
         "name": "Justice C2",
         "passives": []
     },
     {
-        "originalIndex": 1437,
+        "originalIndex": 1438,
         "name": "Justice Toon",
         "passives": [
             "公仔：額外 75% 機率抵禦所有狀態異常、法力減損與增益驅散。"
         ]
     },
     {
-        "originalIndex": 1438,
+        "originalIndex": 1439,
         "name": "Justice Glass",
         "passives": [
             "玻璃：額外 60% 機率將狀態異常反射給攻擊者。"
         ]
     },
     {
-        "originalIndex": 1439,
+        "originalIndex": 1440,
         "name": "Kara",
         "passives": [
             "驅散增益時獲得法力：每次此角色身上的增益被驅散時，就會獲得 10% 法力。",
@@ -10214,26 +10221,26 @@ const translatedPassivesTC =
         ]
     },
     {
-        "originalIndex": 1440,
+        "originalIndex": 1441,
         "name": "Kullervo",
         "passives": [
             "希甦之力：當此角色第一次在戰鬥中以低生命值開始回合時，可恢復 15% 生命值，並獲得 15% 法力。"
         ]
     },
     {
-        "originalIndex": 1441,
+        "originalIndex": 1442,
         "name": "Kullervo C1",
         "passives": [
             "希甦之力：當此角色第一次在戰鬥中以低生命值開始回合時，可恢復 15% 生命值，並獲得 15% 法力。"
         ]
     },
     {
-        "originalIndex": 1442,
+        "originalIndex": 1443,
         "name": "Kushanku",
         "passives": []
     },
     {
-        "originalIndex": 1443,
+        "originalIndex": 1444,
         "name": "Lando",
         "passives": [
             "飛行動量：如果該角色擁有任意數量的飛行動量，其將獲得：",
@@ -10244,14 +10251,14 @@ const translatedPassivesTC =
         ]
     },
     {
-        "originalIndex": 1444,
+        "originalIndex": 1445,
         "name": "Laohu",
         "passives": [
             "停用小兵能力：敵人擁有的所有小兵的攻擊和能力皆停用。"
         ]
     },
     {
-        "originalIndex": 1445,
+        "originalIndex": 1446,
         "name": "Lazara",
         "passives": [
             "獲得狀態異常的法力增益：此技能的角色受到任何狀態異常或負面疊加時，可獲得 +24% 法力產出，持續 3 回合。",
@@ -10260,7 +10267,7 @@ const translatedPassivesTC =
         ]
     },
     {
-        "originalIndex": 1446,
+        "originalIndex": 1447,
         "name": "Lemonwood",
         "passives": [
             "抵禦劇毒：此角色對劇毒效果具有天生抗性。",
@@ -10268,50 +10275,50 @@ const translatedPassivesTC =
         ]
     },
     {
-        "originalIndex": 1447,
+        "originalIndex": 1448,
         "name": "Leonidas",
         "passives": []
     },
     {
-        "originalIndex": 1448,
+        "originalIndex": 1449,
         "name": "Leonidas C1",
         "passives": []
     },
     {
-        "originalIndex": 1449,
+        "originalIndex": 1450,
         "name": "Leonidas C2",
         "passives": []
     },
     {
-        "originalIndex": 1450,
+        "originalIndex": 1451,
         "name": "Leonidas Toon",
         "passives": [
             "公仔：額外 75% 機率抵禦所有狀態異常、法力減損與增益驅散。"
         ]
     },
     {
-        "originalIndex": 1451,
+        "originalIndex": 1452,
         "name": "Leonidas Glass",
         "passives": [
             "玻璃：額外 60% 機率將狀態異常反射給攻擊者。"
         ]
     },
     {
-        "originalIndex": 1452,
+        "originalIndex": 1453,
         "name": "Livia",
         "passives": [
             "減少使用特殊技能時獲取的法力：降低 -80% 特殊技能所增加的法力量。該效果適用於戰鬥的所有敵人。"
         ]
     },
     {
-        "originalIndex": 1453,
+        "originalIndex": 1454,
         "name": "Lyria",
         "passives": [
             "復活機率降低：在戰鬥中所有敵人的復活機率降低。該機率為原本數值的 20%。"
         ]
     },
     {
-        "originalIndex": 1454,
+        "originalIndex": 1455,
         "name": "Malin",
         "passives": [
             "特殊技能傷害減免：該角色有 10% 的機率將受到的特殊技能直接傷害降至 1 點。",
@@ -10319,21 +10326,21 @@ const translatedPassivesTC =
         ]
     },
     {
-        "originalIndex": 1455,
+        "originalIndex": 1456,
         "name": "Malosi",
         "passives": [
             "抵禦防禦異常：此英雄對影響防禦的狀態異常和負面疊加具有天生抗性。不適用影響元素防禦的狀態異常。"
         ]
     },
     {
-        "originalIndex": 1456,
+        "originalIndex": 1457,
         "name": "Matilda",
         "passives": [
             "偷取增益：此角色施放特殊技能時，有 65% 機率隨機從有增益的敵人身上偷取最新的可驅散增益。若無敵人有增益，則對所有敵人造成 150% 傷害。"
         ]
     },
     {
-        "originalIndex": 1457,
+        "originalIndex": 1458,
         "name": "May",
         "passives": [
             "抵禦小兵移除：此角色對小兵移除效果具有天生抗性。",
@@ -10341,7 +10348,7 @@ const translatedPassivesTC =
         ]
     },
     {
-        "originalIndex": 1458,
+        "originalIndex": 1459,
         "name": "Meg Giry",
         "passives": [
             "抵禦防禦異常：此角色對影響防禦的狀態異常具有天生抗性。",
@@ -10349,7 +10356,7 @@ const translatedPassivesTC =
         ]
     },
     {
-        "originalIndex": 1459,
+        "originalIndex": 1460,
         "name": "Melodymuse",
         "passives": [
             "抵禦劇毒：此角色對劇毒效果具有天生抗性。",
@@ -10357,7 +10364,7 @@ const translatedPassivesTC =
         ]
     },
     {
-        "originalIndex": 1460,
+        "originalIndex": 1461,
         "name": "Meresankh",
         "passives": [
             "施放特殊技能時的效果：此角色施放特殊技能時，有 60% 機率執行下列行動：",
@@ -10366,7 +10373,7 @@ const translatedPassivesTC =
         ]
     },
     {
-        "originalIndex": 1461,
+        "originalIndex": 1462,
         "name": "Meresankh C1",
         "passives": [
             "施放特殊技能時的效果：此角色施放特殊技能時，有 60% 機率執行下列行動：",
@@ -10377,12 +10384,12 @@ const translatedPassivesTC =
         ]
     },
     {
-        "originalIndex": 1462,
+        "originalIndex": 1463,
         "name": "Mica",
         "passives": []
     },
     {
-        "originalIndex": 1463,
+        "originalIndex": 1464,
         "name": "Moonbell",
         "passives": [
             "抵禦劇毒：此角色對劇毒效果具有天生抗性。",
@@ -10390,21 +10397,21 @@ const translatedPassivesTC =
         ]
     },
     {
-        "originalIndex": 1464,
+        "originalIndex": 1465,
         "name": "Motega",
         "passives": [
             "暴增的健康恢復：此角色施放特殊技能時，有 50% 機率讓所有盟友恢復 15% 生命值。若特殊技能已完全暴增，則機率為 100%。"
         ]
     },
     {
-        "originalIndex": 1465,
+        "originalIndex": 1466,
         "name": "Mother Lemminkainen",
         "passives": [
             "希甦之力：當此角色第一次在戰鬥中以低生命值開始回合時，可恢復 15% 生命值，並獲得 15% 法力。"
         ]
     },
     {
-        "originalIndex": 1466,
+        "originalIndex": 1467,
         "name": "Motsognir",
         "passives": [
             "賦能抵禦冰霜：此角色對冰霜具有天生抗性，每次抵抗都會獲得 450 點生命值提升和 5% 法力。",
@@ -10414,26 +10421,26 @@ const translatedPassivesTC =
         ]
     },
     {
-        "originalIndex": 1467,
+        "originalIndex": 1468,
         "name": "Musashi",
         "passives": []
     },
     {
-        "originalIndex": 1468,
+        "originalIndex": 1469,
         "name": "Musashi C1",
         "passives": [
             "使用特殊技能時造成驅散效果：此角色施展特殊技能時，會驅散所有敵人身上最新的狀態效果增益。"
         ]
     },
     {
-        "originalIndex": 1469,
+        "originalIndex": 1470,
         "name": "Neith",
         "passives": [
             "抵禦法力產出受阻：此角色對阻止法力產出的狀態異常具有天生抗性。"
         ]
     },
     {
-        "originalIndex": 1470,
+        "originalIndex": 1471,
         "name": "Nemesis",
         "passives": [
             "減少防禦異常持續時間：這個角色受到來自特殊技能的防禦狀態異常的持續時間減少 2 個回合。",
@@ -10441,7 +10448,7 @@ const translatedPassivesTC =
         ]
     },
     {
-        "originalIndex": 1471,
+        "originalIndex": 1472,
         "name": "Nithgaest",
         "passives": [
             "完美精準度：此角色的特殊技能必定命中目標。",
@@ -10450,41 +10457,41 @@ const translatedPassivesTC =
         ]
     },
     {
-        "originalIndex": 1472,
+        "originalIndex": 1473,
         "name": "Norns",
         "passives": []
     },
     {
-        "originalIndex": 1473,
+        "originalIndex": 1474,
         "name": "Norns C1",
         "passives": []
     },
     {
-        "originalIndex": 1474,
+        "originalIndex": 1475,
         "name": "Odin",
         "passives": []
     },
     {
-        "originalIndex": 1475,
+        "originalIndex": 1476,
         "name": "Odin C1",
         "passives": []
     },
     {
-        "originalIndex": 1476,
+        "originalIndex": 1477,
         "name": "Ogima",
         "passives": [
             "法力增加降低：降低 -80% 特殊技能所增加的法力量。該效果適用於戰鬥的所有敵人。"
         ]
     },
     {
-        "originalIndex": 1477,
+        "originalIndex": 1478,
         "name": "Onatel",
         "passives": [
             "抵禦致盲：此角色對影響精準度的狀態異常具有天生抗性。不適用來自盟友的狀態效果。"
         ]
     },
     {
-        "originalIndex": 1478,
+        "originalIndex": 1479,
         "name": "Papyros",
         "passives": [
             "施放特殊技能時的效果：此角色施放特殊技能時，有 60% 機率執行下列行動：",
@@ -10493,7 +10500,7 @@ const translatedPassivesTC =
         ]
     },
     {
-        "originalIndex": 1479,
+        "originalIndex": 1480,
         "name": "Papyros C1",
         "passives": [
             "施放特殊技能時的效果：此角色施放特殊技能時，有 60% 機率執行下列行動：",
@@ -10504,14 +10511,14 @@ const translatedPassivesTC =
         ]
     },
     {
-        "originalIndex": 1480,
+        "originalIndex": 1481,
         "name": "Penolite",
         "passives": [
             "石像鬼石膚：此石像鬼每次施放特殊技能時，石膚都會硬化。下 4 次受到的傷害降為 1。此效果無法驅散。"
         ]
     },
     {
-        "originalIndex": 1481,
+        "originalIndex": 1482,
         "name": "Persa",
         "passives": [
             "施放特殊技能時的效果：",
@@ -10521,7 +10528,7 @@ const translatedPassivesTC =
         ]
     },
     {
-        "originalIndex": 1482,
+        "originalIndex": 1483,
         "name": "Persa C1",
         "passives": [
             "施放特殊技能時的效果：",
@@ -10532,14 +10539,14 @@ const translatedPassivesTC =
         ]
     },
     {
-        "originalIndex": 1483,
+        "originalIndex": 1484,
         "name": "Pertinax",
         "passives": [
             "減少使用特殊技能時獲取的法力：降低 -80% 特殊技能所增加的法力量。該效果適用於戰鬥的所有敵人。"
         ]
     },
     {
-        "originalIndex": 1484,
+        "originalIndex": 1485,
         "name": "Philomena",
         "passives": [
             "小兵致盲：所有敵方小兵擁有 -60% 精準度。所有敵方超級小兵擁有 -50% 精準度。",
@@ -10548,24 +10555,24 @@ const translatedPassivesTC =
         ]
     },
     {
-        "originalIndex": 1485,
+        "originalIndex": 1486,
         "name": "Poseidon",
         "passives": []
     },
     {
-        "originalIndex": 1486,
+        "originalIndex": 1487,
         "name": "Poseidon C1",
         "passives": []
     },
     {
-        "originalIndex": 1487,
+        "originalIndex": 1488,
         "name": "Prof. Lidenbrock",
         "passives": [
             "用法力開始戰鬥：戰鬥開始時，這個角色會獲得 20% 法力。"
         ]
     },
     {
-        "originalIndex": 1488,
+        "originalIndex": 1489,
         "name": "Prof. Lidenbrock C1",
         "passives": [
             "用法力開始戰鬥：戰鬥開始時，這個角色會獲得 20% 法力。",
@@ -10573,29 +10580,29 @@ const translatedPassivesTC =
         ]
     },
     {
-        "originalIndex": 1489,
+        "originalIndex": 1490,
         "name": "Queen Guowang",
         "passives": []
     },
     {
-        "originalIndex": 1490,
+        "originalIndex": 1491,
         "name": "Rana",
         "passives": []
     },
     {
-        "originalIndex": 1491,
+        "originalIndex": 1492,
         "name": "Rana C1",
         "passives": []
     },
     {
-        "originalIndex": 1492,
+        "originalIndex": 1493,
         "name": "Ranvir",
         "passives": [
             "抵禦劇毒：此角色對劇毒效果具有天生抗性。"
         ]
     },
     {
-        "originalIndex": 1493,
+        "originalIndex": 1494,
         "name": "Ratgrub",
         "passives": [
             "施放特殊技能時的效果：此角色施放特殊技能時，有 50% 機率執行下列行動。",
@@ -10604,24 +10611,24 @@ const translatedPassivesTC =
         ]
     },
     {
-        "originalIndex": 1494,
+        "originalIndex": 1495,
         "name": "Rhys",
         "passives": [
             "法力增加降低：降低 -80% 特殊技能所增加的法力量。該效果適用於戰鬥的所有敵人。"
         ]
     },
     {
-        "originalIndex": 1495,
+        "originalIndex": 1496,
         "name": "Roc",
         "passives": []
     },
     {
-        "originalIndex": 1496,
+        "originalIndex": 1497,
         "name": "Roc C1",
         "passives": []
     },
     {
-        "originalIndex": 1497,
+        "originalIndex": 1498,
         "name": "Rosalind",
         "passives": [
             "抵禦法力減損：此角色對法力減損具有天生抗性。",
@@ -10629,7 +10636,7 @@ const translatedPassivesTC =
         ]
     },
     {
-        "originalIndex": 1498,
+        "originalIndex": 1499,
         "name": "Ruan Xiaoqi",
         "passives": [
             "特殊攻擊暴擊時獲得淨化效果：此角色使用特殊技能造成暴擊時，會安全淨化所有盟友身上最新的可淨化狀態異常。此效果每回合可發動一次。",
@@ -10641,7 +10648,7 @@ const translatedPassivesTC =
         ]
     },
     {
-        "originalIndex": 1499,
+        "originalIndex": 1500,
         "name": "Salniss",
         "passives": [
             "強化無視小兵：該角色造成的所有傷害皆無視小兵和超級小兵。",
@@ -10650,14 +10657,14 @@ const translatedPassivesTC =
         ]
     },
     {
-        "originalIndex": 1500,
+        "originalIndex": 1501,
         "name": "Satinpimenter",
         "passives": [
             "閃避特殊傷害：此角色有 15% 的機率可躲避造成傷害的特殊技能。"
         ]
     },
     {
-        "originalIndex": 1501,
+        "originalIndex": 1502,
         "name": "Scrollbeast",
         "passives": [
             "施放特殊技能時的效果：此角色施放特殊技能時，有 60% 機率執行下列行動。",
@@ -10666,7 +10673,7 @@ const translatedPassivesTC =
         ]
     },
     {
-        "originalIndex": 1502,
+        "originalIndex": 1503,
         "name": "Shaal",
         "passives": [
             "抵禦特殊技能封鎖：此角色對封鎖特殊技能的狀態異常具有天生抗性。",
@@ -10676,7 +10683,7 @@ const translatedPassivesTC =
         ]
     },
     {
-        "originalIndex": 1503,
+        "originalIndex": 1504,
         "name": "Shimmerscale",
         "passives": [
             "抵禦法力減損：此角色對法力減損具有天生抗性。",
@@ -10684,29 +10691,29 @@ const translatedPassivesTC =
         ]
     },
     {
-        "originalIndex": 1504,
+        "originalIndex": 1505,
         "name": "Sif",
         "passives": []
     },
     {
-        "originalIndex": 1505,
+        "originalIndex": 1506,
         "name": "Sif C1",
         "passives": []
     },
     {
-        "originalIndex": 1506,
+        "originalIndex": 1507,
         "name": "Silverpaw",
         "passives": [
             "已減少的治療：所有敵人都獲得 -50% 治療。"
         ]
     },
     {
-        "originalIndex": 1507,
+        "originalIndex": 1508,
         "name": "Sir Roostley",
         "passives": []
     },
     {
-        "originalIndex": 1508,
+        "originalIndex": 1509,
         "name": "Sludgus",
         "passives": [
             "被擊敗時召喚史萊姆小兵：當此角色被擊敗時，會召喚史萊姆超級小兵給附近盟友，這些小兵繼承此角色的 50% 生命值和 40% 攻擊力。",
@@ -10714,7 +10721,7 @@ const translatedPassivesTC =
         ]
     },
     {
-        "originalIndex": 1509,
+        "originalIndex": 1510,
         "name": "Stravia",
         "passives": [
             "九條命：",
@@ -10729,7 +10736,7 @@ const translatedPassivesTC =
         ]
     },
     {
-        "originalIndex": 1510,
+        "originalIndex": 1511,
         "name": "Tang Sanzang",
         "passives": [
             "獲得增益的法力：此角色獲得增益或正面疊加時，有 50% 機率獲得 10% 法力。",
@@ -10737,17 +10744,17 @@ const translatedPassivesTC =
         ]
     },
     {
-        "originalIndex": 1511,
+        "originalIndex": 1512,
         "name": "Thor",
         "passives": []
     },
     {
-        "originalIndex": 1512,
+        "originalIndex": 1513,
         "name": "Thor C1",
         "passives": []
     },
     {
-        "originalIndex": 1513,
+        "originalIndex": 1514,
         "name": "Thunderclap",
         "passives": [
             "特殊技能下的持續傷害：此角色施放特殊技能時，會給予隨機敵人獵人印記。目標在 3 回合內受到 150 點傷害。若目標已有此效果，持續時間將刷新，傷害增加 150，最多總共 1500 傷害。",
@@ -10755,7 +10762,7 @@ const translatedPassivesTC =
         ]
     },
     {
-        "originalIndex": 1514,
+        "originalIndex": 1515,
         "name": "Thura",
         "passives": [
             "特殊技能傷害減免：該角色有 10% 的機率將受到的特殊技能直接傷害降至 1 點。",
@@ -10763,12 +10770,12 @@ const translatedPassivesTC =
         ]
     },
     {
-        "originalIndex": 1515,
+        "originalIndex": 1516,
         "name": "Topaz",
         "passives": []
     },
     {
-        "originalIndex": 1516,
+        "originalIndex": 1517,
         "name": "Uraeus",
         "passives": [
             "抵禦飛沙傷害：此角色對飛沙傷害具有天生抗性。",
@@ -10776,7 +10783,7 @@ const translatedPassivesTC =
         ]
     },
     {
-        "originalIndex": 1517,
+        "originalIndex": 1518,
         "name": "Vaishali",
         "passives": [
             "特殊技能疊加：此角色施放特殊技能時，所有敵人獲得 -5% 法力產出疊加。若特殊技能已完全暴增，則所有敵人獲得兩個疊加。一個敵人最多可擁有 10 個疊加。",
@@ -10784,7 +10791,7 @@ const translatedPassivesTC =
         ]
     },
     {
-        "originalIndex": 1518,
+        "originalIndex": 1519,
         "name": "Vaishali C1",
         "passives": [
             "暴增的法力：此角色施放特殊技能時，有 50% 機率送出 10% 法力給所有盟友。若特殊技能已完全暴增，則機率為 100%。",
@@ -10793,43 +10800,43 @@ const translatedPassivesTC =
         ]
     },
     {
-        "originalIndex": 1519,
+        "originalIndex": 1520,
         "name": "Vivica",
         "passives": []
     },
     {
-        "originalIndex": 1520,
+        "originalIndex": 1521,
         "name": "Vivica C1",
         "passives": []
     },
     {
-        "originalIndex": 1521,
+        "originalIndex": 1522,
         "name": "Vivica C2",
         "passives": []
     },
     {
-        "originalIndex": 1522,
+        "originalIndex": 1523,
         "name": "Vivica Toon",
         "passives": [
             "公仔：額外 75% 機率抵禦所有狀態異常、法力減損與增益驅散。"
         ]
     },
     {
-        "originalIndex": 1523,
+        "originalIndex": 1524,
         "name": "Vivica Glass",
         "passives": [
             "玻璃：額外 60% 機率將狀態異常反射給攻擊者。"
         ]
     },
     {
-        "originalIndex": 1524,
+        "originalIndex": 1525,
         "name": "Wayne",
         "passives": [
             "偷取增益：此角色施放特殊技能時，有 65% 機率隨機從有增益的敵人身上偷取最新的可驅散增益。若無敵人有增益，則對所有敵人造成 150% 傷害。"
         ]
     },
     {
-        "originalIndex": 1525,
+        "originalIndex": 1526,
         "name": "Wealhtheow",
         "passives": [
             "獲得增益的法力：此角色獲得增益或正面疊加時可獲得 5% 法力。",
@@ -10838,19 +10845,19 @@ const translatedPassivesTC =
         ]
     },
     {
-        "originalIndex": 1526,
+        "originalIndex": 1527,
         "name": "White Rabbit",
         "passives": []
     },
     {
-        "originalIndex": 1527,
+        "originalIndex": 1528,
         "name": "White Rabbit C1",
         "passives": [
             "使出特殊技能時釋放莽夫亂拳：施放特殊技能時，有 50% 機率對隨機敵人造成莽夫亂拳，持續 3 回合。"
         ]
     },
     {
-        "originalIndex": 1528,
+        "originalIndex": 1529,
         "name": "Willow",
         "passives": [
             "暴增的健康恢復：此角色施放特殊技能時，有 50% 機率讓所有盟友恢復 15% 生命值。若特殊技能已完全暴增，則機率為 100%。",
@@ -10858,7 +10865,7 @@ const translatedPassivesTC =
         ]
     },
     {
-        "originalIndex": 1529,
+        "originalIndex": 1530,
         "name": "Winnie",
         "passives": [
             "獲得增益的法力：獲得增益或正面疊加時可獲得 5% 法力。",
@@ -10866,12 +10873,12 @@ const translatedPassivesTC =
         ]
     },
     {
-        "originalIndex": 1530,
+        "originalIndex": 1531,
         "name": "Wolfgang",
         "passives": []
     },
     {
-        "originalIndex": 1531,
+        "originalIndex": 1532,
         "name": "Wolfgang C1",
         "passives": [
             "提升狀態效果持續時間：有機率提升施放狀態效果的持續時間。",
@@ -10880,12 +10887,12 @@ const translatedPassivesTC =
         ]
     },
     {
-        "originalIndex": 1532,
+        "originalIndex": 1533,
         "name": "Wulfstan",
         "passives": []
     },
     {
-        "originalIndex": 1533,
+        "originalIndex": 1534,
         "name": "Xavier",
         "passives": [
             "部隊精通：",
@@ -10896,7 +10903,7 @@ const translatedPassivesTC =
         ]
     },
     {
-        "originalIndex": 1534,
+        "originalIndex": 1535,
         "name": "Zandria",
         "passives": [
             "部隊精通：",
@@ -10907,7 +10914,7 @@ const translatedPassivesTC =
         ]
     },
     {
-        "originalIndex": 1535,
+        "originalIndex": 1536,
         "name": "Zazha",
         "passives": [
             "飛行動量：如果該角色擁有任意數量的飛行動量，其將獲得：",
@@ -10918,21 +10925,21 @@ const translatedPassivesTC =
         ]
     },
     {
-        "originalIndex": 1536,
+        "originalIndex": 1537,
         "name": "Zekena",
         "passives": [
             "增加增益持續時間：此英雄從特殊技能獲得的前 3 個增益效果的持續時間增加 1 回合。"
         ]
     },
     {
-        "originalIndex": 1537,
+        "originalIndex": 1538,
         "name": "Zekena C1",
         "passives": [
             "對加成生命值造成額外傷害：施放特殊技能後，所有盟友的普通攻擊和特殊技能對擁有加成生命值的目標造成 +70% 傷害，持續 4 回合。"
         ]
     },
     {
-        "originalIndex": 1538,
+        "originalIndex": 1539,
         "name": "Zenuk'wa",
         "passives": [
             "特殊技能下的持續傷害：此角色施放特殊技能時，所有敵人在 2 回合內受到 238 水系傷害。",
@@ -10940,12 +10947,12 @@ const translatedPassivesTC =
         ]
     },
     {
-        "originalIndex": 1539,
+        "originalIndex": 1540,
         "name": "Zhang Fei",
         "passives": []
     },
     {
-        "originalIndex": 1540,
+        "originalIndex": 1541,
         "name": "Zhang Fei C1",
         "passives": [
             "勢不可擋的小兵：",
@@ -10955,12 +10962,12 @@ const translatedPassivesTC =
         ]
     },
     {
-        "originalIndex": 1541,
+        "originalIndex": 1542,
         "name": "Zhuge Liang",
         "passives": []
     },
     {
-        "originalIndex": 1542,
+        "originalIndex": 1543,
         "name": "Zhuge Liang C1",
         "passives": [
             "勢不可擋的小兵：",
@@ -10970,17 +10977,12 @@ const translatedPassivesTC =
         ]
     },
     {
-        "originalIndex": 1543,
+        "originalIndex": 1544,
         "name": "Zora",
         "passives": [
             "抵禦法力減損：此角色對法力減損具有天生抗性。",
             "獲得狀態異常的法力：此角色在被施加狀態異常或負面效果疊加時，可獲得 5% 法力。"
         ]
-    },
-    {
-        "originalIndex": 1544,
-        "name": "Furgeant",
-        "passives": []
     },
     {
         "originalIndex": 1545,
@@ -11000,6 +11002,16 @@ const translatedPassivesTC =
     {
         "originalIndex": 1548,
         "name": "Ott C1",
+        "passives": []
+    },
+    {
+        "originalIndex": 1549,
+        "name": "Vernix",
+        "passives": []
+    },
+    {
+        "originalIndex": 1550,
+        "name": "Ferni",
         "passives": []
     }
 ];
