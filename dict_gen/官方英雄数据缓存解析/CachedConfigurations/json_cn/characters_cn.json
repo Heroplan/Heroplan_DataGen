@@ -22382,7 +22382,7 @@
     "aetherGift": "Special Boost",
     "rarity": 5,
     "specialId": "海洋攻势",
-    "canBeReceivedDate": "2200-01-01 07:00:00",
+    "canBeReceivedDate": "2025-10-25 07:00:00",
     "origin": "亚特兰蒂斯召唤",
     "parentHeroId": "忒提丝"
   },
@@ -22398,7 +22398,7 @@
     "aetherGift": "Rage",
     "rarity": 5,
     "specialId": "火山之力",
-    "canBeReceivedDate": "2200-01-01 07:00:00",
+    "canBeReceivedDate": "2025-10-25 07:00:00",
     "origin": "亚特兰蒂斯召唤",
     "parentHeroId": "俄刻阿诺斯"
   },
@@ -30418,7 +30418,7 @@
     "aetherGift": "Damage Reduction",
     "rarity": 5,
     "specialId": "无尽迷宫",
-    "canBeReceivedDate": "2200-01-01 07:00:00",
+    "canBeReceivedDate": "2025-10-24 07:00:00",
     "origin": "ShadowQuest"
   },
   "mimic_emblem_red": {
@@ -30692,7 +30692,7 @@
     "aetherGift": "Attack Up",
     "rarity": 5,
     "specialId": "盲目不义",
-    "canBeReceivedDate": "2200-01-01 07:00:00",
+    "canBeReceivedDate": "2025-10-23 07:00:00",
     "origin": "星体位面"
   },
   "astral_demon_xshahr": {
@@ -30711,7 +30711,7 @@
     "aetherGift": "Attack Up",
     "rarity": 5,
     "specialId": "痛苦之枪",
-    "canBeReceivedDate": "2200-01-01 07:00:00",
+    "canBeReceivedDate": "2025-10-23 07:00:00",
     "origin": "星体位面"
   },
   "astral_demon_anatemah": {
@@ -30749,7 +30749,7 @@
     "aetherGift": "Dodge",
     "rarity": 4,
     "specialId": "星光闪斩",
-    "canBeReceivedDate": "2200-01-01 07:00:00",
+    "canBeReceivedDate": "2025-10-23 07:00:00",
     "origin": "星体位面"
   },
   "astral_demon_agharoth": {
@@ -30768,7 +30768,7 @@
     "aetherGift": "Boosted Regen",
     "rarity": 3,
     "specialId": "星体挑衅",
-    "canBeReceivedDate": "2200-01-01 07:00:00",
+    "canBeReceivedDate": "2025-10-23 07:00:00",
     "origin": "星体位面"
   },
   "fleur_lavinia": {

@@ -57,6 +57,7 @@ window.family_values = {
     "stag": "聯盟 - 雄鹿",
     "bear": "聯盟 - 熊",
     "astral_elves": "星界巫師 - 星界巫師",
+    "astral_demons": "星界巫師 - 星界惡魔",
     "champions": "酒館 - 勇士",
     "owl": "高塔 - 貓頭鷹",
     "investigator": "暗影 - 調查者",

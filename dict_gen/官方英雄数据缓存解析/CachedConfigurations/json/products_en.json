@@ -16530,7 +16530,6 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.selectable_ascension_4",
         "dollarValue": 30,
-        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -32457,7 +32456,6 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.selectable_vips_1",
         "dollarValue": 4,
-        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -32476,7 +32474,6 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.selectable_vips_2",
         "dollarValue": 7,
-        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -32495,7 +32492,6 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.selectable_vips_3",
         "dollarValue": 10,
-        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -32519,7 +32515,6 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.selectable_vips_4",
         "dollarValue": 15,
-        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -56478,5 +56473,5 @@
       }
     ]
   },
-  "productsConfigId": 1040479671
+  "productsConfigId": 2449753133
 }

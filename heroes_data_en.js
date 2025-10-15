@@ -107597,5 +107597,31 @@ window.allHeroes =
         "costume_id": 0,
         "originalIndex": 1555,
         "cn_skill_info": []
+    },
+    {
+        "name": "Soursting",
+        "fancy_name": "Arrogant Goblin Assassin",
+        "AetherPower": "",
+        "color": "Green",
+        "class": "Paladin",
+        "speed": "Slow",
+        "skill": "",
+        "types": [],
+        "skill_types": [],
+        "source": "",
+        "Release date": "",
+        "specialId": "",
+        "heroId": "goblin_soursting",
+        "star": 5,
+        "power": null,
+        "attack": null,
+        "defense": null,
+        "health": null,
+        "effects": [],
+        "passives": [],
+        "family": "goblin",
+        "costume_id": 0,
+        "originalIndex": 1556,
+        "cn_skill_info": []
     }
 ];

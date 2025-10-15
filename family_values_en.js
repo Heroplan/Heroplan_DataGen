@@ -57,6 +57,7 @@ window.family_values = {
     "stag": "Alliance - Stags",
     "bear": "Alliance - Bears",
     "astral_elves": "Astral Plane - Astral Elves",
+    "astral_demons": "Astral Plane - Astral Demons",
     "champions": "Tavern - Champions",
     "owl": "Tower - Owls",
     "investigator": "Shadow - Investigator",

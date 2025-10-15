@@ -47082,6 +47082,20 @@
         "maxDamagePerTurn": 700
       },
       {
+        "statusEffect": "DevouringGoo",
+        "id": "devouring_goo_harubo",
+        "buff": "MinorDebuff",
+        "iconOverrideStatusEffectId": "devouring_goo__knightus",
+        "damageMultiplierPerMil": 0,
+        "damageMultiplierIncrementPerLevelPerMil": 0,
+        "fixedDamagePerTurn": 80,
+        "fixedDamagePerTurnIncrementPerLevel": 10,
+        "buffCategoryToRemove": "MinorBuff",
+        "includesPositiveBaseStatModifiers": true,
+        "fixedDamagePerTurnPerRemovedEffect": 50,
+        "maxDamagePerTurn": 700
+      },
+      {
         "statusEffect": "Insanity",
         "id": "add_insanity_rosanna",
         "buff": "PermanentDebuff",
@@ -53813,7 +53827,7 @@
             ]
           }
         ],
-        "damageMultiplierPerMil": 106,
+        "damageMultiplierPerMil": 146,
         "damageMultiplierIncrementPerLevelPerMil": 5
       },
       {
@@ -80743,5 +80757,5 @@
       "SharedDamage"
     ]
   },
-  "battleConfigId": 3237223684
+  "battleConfigId": 1945286137
 }

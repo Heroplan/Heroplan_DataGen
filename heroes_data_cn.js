@@ -107629,5 +107629,31 @@ window.allHeroes =
         "costume_id": 0,
         "originalIndex": 1555,
         "cn_skill_info": []
+    },
+    {
+        "name": "酸蛰 (Soursting)",
+        "fancy_name": "傲慢的哥布林刺客",
+        "AetherPower": "",
+        "color": "绿",
+        "class": "圣骑士",
+        "speed": "慢",
+        "skill": "",
+        "types": [],
+        "skill_types": [],
+        "source": "",
+        "Release date": "",
+        "specialId": "",
+        "heroId": "goblin_soursting",
+        "star": 5,
+        "power": null,
+        "attack": null,
+        "defense": null,
+        "health": null,
+        "effects": [],
+        "passives": [],
+        "family": "goblin",
+        "costume_id": 0,
+        "originalIndex": 1556,
+        "cn_skill_info": []
     }
 ];

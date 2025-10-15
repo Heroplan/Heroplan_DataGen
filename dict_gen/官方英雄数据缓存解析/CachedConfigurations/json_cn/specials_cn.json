@@ -46371,7 +46371,7 @@
         "maxLevel": 8,
         "statusEffects": [
           {
-            "id": "devouring_goo__knightus",
+            "id": "devouring_goo_harubo",
             "sideAffected": "Enemies",
             "statusTargetType": "Single",
             "turns": 3
@@ -47000,7 +47000,7 @@
           "sideAffected": "Enemies",
           "typeOfTarget": "All",
           "effectType": "Damage",
-          "powerMultiplierPerMil": 2650,
+          "powerMultiplierPerMil": 3150,
           "powerMultiplierIncrementPerLevelPerMil": 50
         },
         "maxLevel": 8,
@@ -60218,7 +60218,7 @@
       {
         "propertyType": "EffectPerEatenFamiliar",
         "id": "eat_minions_and_add_mana_labblub",
-        "powerPerEatenFamiliarPerMil": 100,
+        "powerPerEatenFamiliarPerMil": 50,
         "familiarTypes": [
           "Minion",
           "Follower"
@@ -61525,5 +61525,5 @@
       }
     ]
   },
-  "specialsConfigId": 749666680
+  "specialsConfigId": 3076655326
 }
