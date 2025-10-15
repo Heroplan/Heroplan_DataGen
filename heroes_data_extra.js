@@ -40183,5 +40183,76 @@ window.allHeroesExtra = [
             "dodge_enemy_damage_special"
         ],
         "family": "moths"
+    },
+    {
+        "name": "Ott costume1",
+        "fancy name": "Dwarven Maestro Trickster",
+        "element": "Green",
+        "rarity": 5,
+        "class": "Monk",
+        "speed": "fast",
+        "Release date": "2025-10-15",
+        "AetherPower": "Boosted Regen",
+        "skill_types": [
+            "Health Boosters",
+            "Immunity Providers",
+            "Extra Damage Dealers",
+            "Minions Counters",
+            "Damage Reducers",
+            "DoT Attackers",
+            "Debuffers (DEF)"
+            ],
+        "heroId": "tales2_ott_costume_herbalist",
+        "baseAttack": 546,
+        "baseDefense": 581,
+        "baseHealth": 1086,
+        "specialId": "saga_of_protection",
+        "specialId_costume": "guarding_tunes",
+        "passiveSkills": [
+            "molten_core_costume",
+            "resist_burn_with_health_and_mana_boost_costume"
+        ],
+        "costumeBonusPassiveSkillIds": null,
+        "attackBonus": "7%",
+        "defenseBonus": "7%",
+        "healthBonus": "9%",
+        "manaBonus": "5%",
+        "family": "nidavellir"
+    },
+    {
+        "name": "Regin costume1",
+        "fancy name": "Dwarven Fallen Prince",
+        "element": "Red",
+        "rarity": 5,
+        "class": "Rogue",
+        "speed": "fast",
+        "Release date": "2025-10-15",
+        "AetherPower": "Ailment Immunity",
+        "skill_types": [
+            "Buff Blockers",
+            "Extra Damage Dealers",
+            "Minions Counters",
+            "AoE Attackers (Hit-3)",
+            "Dispellers",
+            "DoT Attackers",
+            "Debuffers (DEF)",
+            "Bypassers"
+            ],
+        "heroId": "tales2_regin_costume_omen",
+        "baseAttack": 580,
+        "baseDefense": 550,
+        "baseHealth": 1064,
+        "specialId": "master_plan",
+        "specialId_costume": "cursed_plan",
+        "passiveSkills": [
+            "molten_core_costume",
+            "resist_burn_with_health_and_mana_boost_costume"
+        ],
+        "costumeBonusPassiveSkillIds": null,
+        "attackBonus": "7%",
+        "defenseBonus": "7%",
+        "healthBonus": "9%",
+        "manaBonus": "5%",
+        "family": "nidavellir"
     }
 ];

@@ -1,4 +1,4 @@
-✅ 成功匹配的服装 (468 / 0)
+✅ 成功匹配的服装 (470 / 0)
 ================================
 Name: Berden Costume1, Fancy Name: Adroit Archer
 Name: Hannah Costume1, Fancy Name: Adventurous Drover
@@ -90,6 +90,8 @@ Name: Jaco Costume1, Fancy Name: Dodgy Alchemist of the Deep
 Name: Guinevere Costume1, Fancy Name: Dragonrider of Avalon
 Name: Heimdall Costume1, Fancy Name: Dreaded Watchman
 Name: Tiburtus Costume1, Fancy Name: Duke of Rock
+Name: Regin costume1, Fancy Name: Dwarven Fallen Prince
+Name: Ott costume1, Fancy Name: Dwarven Maestro Trickster
 Name: Jack O'Hare Costume1, Fancy Name: Egg Hunter of Springvale
 Name: Ptolemy Costume1, Fancy Name: Elder Log
 Name: Quintus Costume1, Fancy Name: Electro Scientist

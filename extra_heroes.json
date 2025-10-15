@@ -1,16 +1,5 @@
 [
     {
-        "name": "Furgeant",
-        "fancy_name": "The Juggermoth",
-        "color": "Yellow",
-        "Release date": "",
-        "star": 5,
-        "family": "moths",
-        "costume_id": 0,
-        "heroId": "moth_furgeant",
-        "Lottery_Only":1
-    },
-    {
         "name": "Ragrim",
         "fancy_name": "Magic Carpet Botanist",
         "color": "Green",
@@ -33,28 +22,6 @@
         "Lottery_Only":1
     },
     {
-        "name": "Regin C1",
-        "fancy_name": "Dwarven Fallen Prince",
-        "color": "Red",
-        "Release date": "",
-        "star": 5,
-        "family": "nidavellir",
-        "costume_id": 1,
-        "heroId": "tales2_regin_costume_omen",
-        "Lottery_Only":1
-    },
-    {
-        "name": "Ott C1",
-        "fancy_name": "Dwarven Maestro Trickster",
-        "color": "Green",
-        "Release date": "",
-        "star": 5,
-        "family": "nidavellir",
-        "costume_id": 1,
-        "heroId": "tales2_ott_costume_herbalist",
-        "Lottery_Only":1
-    },
-    {
         "name": "Vernix",
         "fancy_name": "Snow Leopard Magus",
         "color": "Blue",
@@ -74,6 +41,61 @@
         "family": "wild_cat",
         "costume_id": 0,
         "heroId": "wild_cat_ferni",
+        "Lottery_Only":1
+    },
+    {
+        "name": "Tethys C",
+        "fancy_name": "Avenger of All Rivers",
+        "color": "Blue",
+        "Release date": "",
+        "star": 5,
+        "family": "atlantis",
+        "costume_id": 1,
+        "heroId": "s2_tethys_costume_steel",
+        "Lottery_Only":1
+    },
+    {
+        "name": "Oceanus C",
+        "fancy_name": "Titan of Magma",
+        "color": "Red",
+        "Release date": "",
+        "star": 5,
+        "family": "atlantis",
+        "costume_id": 1,
+        "heroId": "s2_oceanus_costume_volcano",
+        "Lottery_Only":1
+    },
+    {
+        "name": "Paimon",
+        "fancy_name": "Astral Demon Lawmaker",
+        "color": "Purple",
+        "Release date": "",
+        "star": 5,
+        "family": "astral_demons",
+        "costume_id": 0,
+        "heroId": "astral_demon_paimon",
+        "Lottery_Only":1
+    },
+    {
+        "name": "Xshahr",
+        "fancy_name": "Astral Demon Warlord",
+        "color": "Green",
+        "Release date": "",
+        "star": 5,
+        "family": "astral_demons",
+        "costume_id": 0,
+        "heroId": "astral_demon_xshahr",
+        "Lottery_Only":1
+    },
+    {
+        "name": "Emilie",
+        "fancy_name": "Liminal Realm Explorer",
+        "color": "Blue",
+        "Release date": "",
+        "star": 5,
+        "family": "institute",
+        "costume_id": 0,
+        "heroId": "institute_emilie",
         "Lottery_Only":1
     }
 ]

@@ -25611,35 +25611,15 @@
         "id": "dynamic_offer_10_red_alucard",
         "products": [
           {
-            "id": "com.smallgiantgames.empires.dynamic_5",
-            "purchaseLimit": 3
-          },
-          {
-            "id": "com.smallgiantgames.empires.dynamic_20",
+            "id": "com.smallgiantgames.empires.dynamic_5c",
             "purchaseLimit": 2
           },
           {
-            "id": "com.smallgiantgames.empires.dynamic_10",
-            "purchaseLimit": 3
-          },
-          {
-            "id": "com.smallgiantgames.empires.dynamic_20b",
+            "id": "com.smallgiantgames.empires.dynamic_12c",
             "purchaseLimit": 2
           },
           {
-            "id": "com.smallgiantgames.empires.dynamic_12",
-            "purchaseLimit": 4
-          },
-          {
-            "id": "com.smallgiantgames.empires.dynamic_50",
-            "purchaseLimit": 1
-          },
-          {
-            "id": "com.smallgiantgames.empires.dynamic_5b",
-            "purchaseLimit": 2
-          },
-          {
-            "id": "com.smallgiantgames.empires.dynamic_20c",
+            "id": "com.smallgiantgames.empires.dynamic_15",
             "purchaseLimit": 2
           }
         ],
@@ -33392,6 +33372,33 @@
             ]
           },
           {
+            "activationTime": "2025-10-14 12:30:00",
+            "contents": [
+              {
+                "type": "Item",
+                "id": "relic_level_up_xp_multiplier",
+                "amount": 1
+              },
+              {
+                "type": "Hero",
+                "id": "trainer_red_epic",
+                "amount": 5
+              },
+              {
+                "type": "Hero",
+                "id": "trainer_red_rare",
+                "amount": 10,
+                "zyngaStoreExtraAmount": 2
+              },
+              {
+                "type": "Hero",
+                "id": "trainer_red_uncommon",
+                "amount": 20,
+                "zyngaStoreExtraAmount": 4
+              }
+            ]
+          },
+          {
             "activationTime": "2025-10-15 07:00:00",
             "contents": [
               {
@@ -38920,6 +38927,27 @@
                 "zyngaStoreExtraAmount": 5
               }
             ]
+          },
+          {
+            "activationTime": "2025-10-14 12:30:00",
+            "contents": [
+              {
+                "type": "Item",
+                "id": "lottery_super_elemental_coin",
+                "amount": 400,
+                "zyngaStoreExtraAmount": 50
+              },
+              {
+                "type": "Item",
+                "id": "hero_limitbreak_epic_red",
+                "amount": 10
+              },
+              {
+                "type": "Item",
+                "id": "hero_limitbreak_rare_red",
+                "amount": 15
+              }
+            ]
           }
         ]
       },
@@ -39639,6 +39667,22 @@
                 "id": "lottery_wilderness_coin",
                 "amount": 300,
                 "zyngaStoreExtraAmount": 100
+              }
+            ]
+          },
+          {
+            "activationTime": "2025-10-14 12:30:00",
+            "contents": [
+              {
+                "type": "Item",
+                "id": "lottery_super_elemental_coin",
+                "amount": 700,
+                "zyngaStoreExtraAmount": 100
+              },
+              {
+                "type": "Item",
+                "id": "hero_limitbreak_legendary_red",
+                "amount": 2
               }
             ]
           }
@@ -42699,6 +42743,13 @@
         "scheduledManually": true,
         "startTime": "2025-10-14 07:00:00",
         "endTime": "2025-10-18 07:00:00"
+      },
+      {
+        "id": "dynamic_offer_10_red_alucard",
+        "slot": "ShopOnly",
+        "scheduledManually": true,
+        "startTime": "2025-10-14 12:30:00",
+        "endTime": "2025-10-15 06:30:00"
       },
       {
         "id": "dynamic_offer_44_purple_morganite",
@@ -61929,5 +61980,5 @@
       }
     ]
   },
-  "shopConfigId": 862434854
+  "shopConfigId": 2834568098
 }

@@ -47599,6 +47599,7 @@
         "statusEffect": "FixedHealthRecovery",
         "id": "health_boost_recovery_ares_costume",
         "buff": "MinorBuff",
+        "iconOverrideStatusEffectId": "health_boost_recovery",
         "healthPoints": 155,
         "healthPointsIncrementPerLevel": 10,
         "isHealthBoost": true
@@ -51572,6 +51573,7 @@
         "statusEffect": "AttackModifier",
         "id": "attack_debuff_magic_carpet",
         "buff": "MajorDebuff",
+        "iconOverrideStatusEffectId": "stun",
         "attackMultiplierPerMil": 600,
         "attackMultiplierIncrementPerLevelPerMil": 0
       },
@@ -80741,5 +80743,5 @@
       "SharedDamage"
     ]
   },
-  "battleConfigId": 3045311705
+  "battleConfigId": 3237223684
 }
