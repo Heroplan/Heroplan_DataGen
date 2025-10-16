@@ -2693,6 +2693,12 @@
             "type": "MysteryHero",
             "startTime": "2025-09-30 07:00:00",
             "endTime": "2025-10-01 07:00:00"
+          },
+          {
+            "id": "SecretSummonEmblemMimicYellow",
+            "type": "MysteryHero",
+            "startTime": "2025-10-17 07:00:00",
+            "endTime": "2025-10-18 07:00:00"
           }
         ],
         "challengeEventEntries": [
@@ -81252,5 +81258,5 @@
     "criticalOperationPendingDelaySeconds": 3,
     "allowedCriticalOperationPendingCount": 3
   },
-  "otherConfigId": 1320742208
+  "otherConfigId": 3076837839
 }

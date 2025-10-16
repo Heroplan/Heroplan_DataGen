@@ -108,5 +108,27 @@
         "costume_id": 0,
         "heroId": "goblin_soursting",
         "Lottery_Only":1
+    },
+    {
+        "name": "Labblub",
+        "fancy_name": "Curious Scientist Slime",
+        "color": "Yellow",
+        "Release date": "",
+        "star": 5,
+        "family": "slime",
+        "costume_id": 0,
+        "heroId": "slime_labblub",
+        "Lottery_Only":1
+    },
+    {
+        "name": "Harubo",
+        "fancy_name": "Patrolling Slime",
+        "color": "Yellow",
+        "Release date": "",
+        "star": 3,
+        "family": "slime",
+        "costume_id": 0,
+        "heroId": "slime_harubo",
+        "Lottery_Only":1
     }
 ]

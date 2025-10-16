@@ -40201,7 +40201,7 @@ window.allHeroesExtra = [
             "Damage Reducers",
             "DoT Attackers",
             "Debuffers (DEF)"
-            ],
+        ],
         "heroId": "tales2_ott_costume_herbalist",
         "baseAttack": 546,
         "baseDefense": 581,
@@ -40237,7 +40237,7 @@ window.allHeroesExtra = [
             "DoT Attackers",
             "Debuffers (DEF)",
             "Bypassers"
-            ],
+        ],
         "heroId": "tales2_regin_costume_omen",
         "baseAttack": 580,
         "baseDefense": 550,
@@ -40254,5 +40254,35 @@ window.allHeroesExtra = [
         "healthBonus": "9%",
         "manaBonus": "5%",
         "family": "nidavellir"
+    },
+    {
+        "name": "Emblem Mimic Holy",
+        "fancy name": "Horrifying One-Eyed Lockbox",
+        "element": "Yellow",
+        "rarity": 5,
+        "class": "Cleric",
+        "speed": "fast",
+        "Release date": "2025-10-17",
+        "AetherPower": "Bulwark",
+        "skill_types": [
+            "Healers (Special)",
+            "Minions Counters",
+            "Snipers",
+            "Mana Raisers",
+            "Immunity Providers",
+            "Ghost Form & Hiding",
+            "Bypassers",
+            "DoT Attackers"
+            ],
+        "heroId": "mimic_emblem_yellow",
+        "baseAttack": 628,
+        "baseDefense": 628,
+        "baseHealth": 1080,
+        "specialId": "savage_gobble_yellow",
+        "passiveSkills": [
+            "mimic_emblem_yellow",
+            "never_miss_special"
+        ],
+        "family": "mimic"
     }
 ];
