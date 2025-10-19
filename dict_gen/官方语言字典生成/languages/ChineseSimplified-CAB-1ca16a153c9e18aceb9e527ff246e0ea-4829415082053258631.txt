@@ -4249,7 +4249,7 @@ Thank you for your signup!"
 {STATUSEFFECTS}
 
 [*]飞蛾粉尘被净化或移除时，目标将陷入[#!]沉睡[#]，沉睡期间受到的伤害提高{REMOVALEFFECT1STATUSEFFECT1DAMAGEMODIFIER}%。"
-"familyeffect.statuseffect.long.statuseffectperturn.minor.stackingbloodlilyhealthdrain.highesthp.enemies","[#!]血莲，叠加（最高：{MAXSTACK}）：[#]目标每回合承受[#!]{DAMAGE}[#]点伤害，并治疗我方战队所有弗勒德桑角色等同于所受伤害值的生命值。"
+"familyeffect.statuseffect.long.statuseffectperturn.minor.stackingbloodlilyhealthdrain.highesthp.enemies","[#!]血莲，叠加（最高：{MAXSTACK}）：[#]目标每回合承受[#!]{DAMAGE}[#]点伤害。敌方战队中的弗勒德桑角色会按照造成的伤害值恢复生命值，并在他们之间平均分配。"
 "familyeffect.statuseffect.long.statuseffectperturn.minor.stackinghealthgeneration.single.allies","[#!]叠加（最多：{MAXSTACK}）：[#]施法者每回合恢复{HEAL}点生命值。"
 "familyeffect.statuseffect.long.statuseffectperturn.minor.stackingmanagenerationmodifier.single.allies","[#!]叠加（最多：{MAXSTACK}）：[#]施法者获得{MANAREGEN}%法力生成。"
 "familyeffect.statuseffect.short.realmbonus.major.accuracymodifierniflheim.all.enemies.while.niflheim.enemies.lowhealth","只要有一个尼福尔海姆盟友处于低血量状态，所有敌人将获得[#!]{ACCURACY}%精准度[#]。进攻型特殊技能也有相同几率落空。此效果不可净化。"
@@ -5213,7 +5213,6 @@ Thank you for your signup!"
 "herocard.passive_skill.description.mimiclootonlevelcompleted.mimic_aether_blue","这只拟态兽在完成关卡时有机会掉落额外的战利品：
 
 *****
-[*]阿尔法艾瑟尔
 [*]冰雪艾瑟尔 III
 
 ****
@@ -5224,7 +5223,6 @@ Thank you for your signup!"
 "herocard.passive_skill.description.mimiclootonlevelcompleted.mimic_aether_green","这只拟态兽在完成关卡时有机会掉落额外的战利品：
 
 *****
-[*]阿尔法艾瑟尔
 [*]自然艾瑟尔 III
 
 ****
@@ -5235,7 +5233,6 @@ Thank you for your signup!"
 "herocard.passive_skill.description.mimiclootonlevelcompleted.mimic_aether_purple","这只拟态兽在完成关卡时有机会掉落额外的战利品：
 
 *****
-[*]阿尔法艾瑟尔
 [*]暗黑艾瑟尔 III
 
 ****
@@ -5246,7 +5243,6 @@ Thank you for your signup!"
 "herocard.passive_skill.description.mimiclootonlevelcompleted.mimic_aether_red","这只拟态兽在完成关卡时有机会掉落额外的战利品：
 
 *****
-[*]阿尔法艾瑟尔
 [*]烈火艾瑟尔 III
 
 ****
@@ -5257,7 +5253,6 @@ Thank you for your signup!"
 "herocard.passive_skill.description.mimiclootonlevelcompleted.mimic_aether_yellow","这只拟态兽在完成关卡时有机会掉落额外的战利品：
 
 *****
-[*]阿尔法艾瑟尔
 [*]神圣艾瑟尔 III
 
 ****
@@ -9313,7 +9308,7 @@ YouTube频道"
 "items.availability.source.reward.s3_aftermath_rare_gnome","第3赛季稀有敌人（瓦尔哈拉万岁活动期间）"
 "items.availability.source.reward.s4_aftermath_rare_bat","第4赛季稀有敌人（蛮荒地鸣活动期间）"
 "items.availability.source.reward.s5_aftermath_rare","第5赛季稀有敌人（沙丘审判活动期间）"
-"items.availability.source.reward.seasonal_rare_halloween","万圣节稀有敌人"
+"items.availability.source.reward.seasonal_rare_halloween","血色盛宴活动中的稀有敌人"
 "items.availability.source.reward.seasonpass.dragonstarterpass","龙之尖塔迎新卡"
 "items.availability.source.reward.seasonpass.pathofdragons","当前巨龙之路"
 "items.availability.source.reward.seasonpass.pathofgiants","当前伟人之路"
@@ -9567,7 +9562,7 @@ YouTube频道"
 "items.description.lottery_monster_island_coin","可用来进行一次免费的[#!]怪兽岛召唤[#]。一次召唤需要花费{0}个币。"
 "items.description.lottery_pickup_coin","可用来进行一次免费的[#!]节选召唤[#]。一次召唤需要花费{0}个币。"
 "items.description.lottery_season5_coin","可用来进行一次免费的[#!]沙丘召唤[#]。一次召唤需要花费{0}个币。"
-"items.description.lottery_seasonal_summon_spirit_halloween","可用来进行一次免费[#!]血色召唤[#]。一次召唤需要花费{0}个英灵。
+"items.description.lottery_seasonal_summon_spirit_halloween","可用来进行一次免费[#!]血色召唤[#]。一次召唤需要花费{0}个英灵，你可以通过普通季节召唤和血色盛宴活动获得英灵。
 
 在活动期间，你可以无限持有血色之灵，但它只能用于当前的血色召唤。活动结束后，未使用的血色之灵将被移除。"
 "items.description.lottery_shadow_coin","可用来进行一次免费的[#!]暗影召唤[#]。一次召唤需要花费{0}个币。"
@@ -10292,6 +10287,8 @@ YouTube频道"
 
 随机元素盾牌的攻击力每{TURNSDELAY}回合都会[#!]{MODIFIER}%[#]。"
 "level.info.property.description.halloween_bombs","此活动中会出现[#!]南瓜炸弹[#]！计数用完时，南瓜炸弹会爆炸并对你的战队造成伤害。匹配一个南瓜炸弹，可使与炸弹元素相同的所有英雄增加法力。计数越少，获得法力越多！"
+"level.info.property.description.halloween_brawl_enhanced_criticals.fleur_de_sang.halloween","[#!]弗勒德桑[#]家族和[#!]莫洛维亚[#]家族的英雄造成暴击时降低目标更多最大生命值。"
+"level.info.property.description.halloween_brawl_resist_mana_effects_silence_bleed.side.both.buffcategory.statuseffectdebuffs.tags.bleed.affectedfamilies.fleur_de_sang.halloween","[#!]弗勒德桑[#]和[#!]莫洛维亚[#]家族的英雄免疫造成流血伤害的状态异常。"
 "level.info.property.description.halloween_brawl_resist_mana_effects_silence_bleed.side.both.buffcategory.statuseffectdebuffs.tags.manaeffect.specialblocking.bleed.affectedfamilies.fleur_de_sang.halloween","[#!]弗勒德桑[#]和[#!]莫洛维亚[#]家族的英雄免疫造成的流血伤害或影响法力生成或阻止使用特殊技能的状态异常。"
 "level.info.property.description.halloween_brawl_resist_mana_reductions.side.both.affectedfamilies.fleur_de_sang.halloween","[#!]弗勒德桑[#]和[#!]莫洛维亚[#]家族的英雄可抵抗法力减损。"
 "level.info.property.description.halloween_troops","队伍造成的伤害增加[#!]{MULTIPLIER}%[#]。"
@@ -11288,6 +11285,7 @@ YouTube频道"
 "lottery.description.ascensionsummon.free_ascension_levels","所有已召唤的英雄都可获得[#ff5c00]免费[#]进阶等级！"
 "lottery.description.ascensionsummon.non_featured_legendary_heroes_age_in_days","在该活动开始日期{0}天前发布的所有[#ffc3ff]传奇[#]英雄都包括在此次召唤中。"
 "lottery.description.astralelvessummon","包含星体召唤限定的特殊英雄！"
+"lottery.description.banner.seasonalpremiumsummon","每次召唤可获得[#ff9f81]10个血色之灵[#]！"
 "lottery.description.birthdaysummon","[#!]选择[#]你的[#ffc3ff]精选[#]英雄！"
 "lottery.description.blacksummon","此次召唤包含来自所有活动的最新英雄和服装！"
 "lottery.description.blacksummon.alt","包含来自所有活动的最新英雄和服装！"
@@ -11623,6 +11621,7 @@ YouTube频道"
 "lottery.perfect_summon.nextchance","离获得“完美10分”
 机会还有："
 "lottery.premium_promo.lottery_hero_halloween","每次召唤仅需{0}个血色之灵"
+"lottery.premium_promo.lottery_seasonal_premium_halloween","收集100个英灵即可免费召唤一次！"
 "lottery.title","召唤"
 "lottery.title.7thbirthday","生日召唤"
 "lottery.title.allianceeventsummon","联盟任务召唤"
@@ -15127,6 +15126,10 @@ Small Giant Games团队"
 "odds.hero_lottery_hero_beach_party_seasonal_4.non_featured","[#fff081]史诗[#]海滩派对英雄（非精选）：[#!]{0}%[#]"
 "odds.hero_lottery_hero_beach_party_seasonal_5","[#ffc3ff]传奇[#]海滩派对英雄：[#!]{0}%[#]"
 "odds.hero_lottery_hero_beach_party_seasonal_5.non_featured","[#ffc3ff]传奇[#]海滩派对英雄（非精选）：[#!]{0}%[#]"
+"odds.hero_lottery_hero_halloween_extra_seasonal_3","[#ffffff]稀有[#]莫洛维亚英雄：[#!]{0}%[#]"
+"odds.hero_lottery_hero_halloween_extra_seasonal_4","[#fff081]史诗[#]莫洛维亚英雄：[#!]{0}%[#]"
+"odds.hero_lottery_hero_halloween_extra_seasonal_5","[#ffc3ff]传奇[#]莫洛维亚英雄：[#!]{0}%[#]"
+"odds.hero_lottery_hero_halloween_extra_seasonal_5.non_featured","[#ffc3ff]传奇[#]莫洛维亚英雄（非精选）：[#!]{0}%[#]"
 "odds.hero_monster_island_3","[#ffffff]稀有[#]活动英雄：[#!]{0}%[#]"
 "odds.hero_monster_island_4","[#fff081]史诗[#]活动英雄：[#!]{0}%[#]"
 "odds.hero_monster_island_5","[#ffc3ff]传奇[#]活动英雄：[#!]{0}%[#]"
@@ -16132,7 +16135,7 @@ Small Giant Games团队"
 击败血色骷髅可获得[#!]血色之灵[#]，可用于在季节血色召唤中进行免费召唤。
 
 在活动期间，你可以无限持有血色之灵，但它只能用于当前的血色召唤。活动结束后，未使用的血色之灵将被移除。"
-"quest.rare_monster_info.halloweenrare.monsters_left","血色骷髅剩余：[#!]{0}[#]"
+"quest.rare_monster_info.halloweenrare.monsters_left","剩余{0}"
 "quest.rare_monster_info.halloweenrare.title","血色骷髅"
 "quest.team","任务战队"
 "quest.team_edit.family_bonus.disclaimer","特定家族的英雄能提供加成"
@@ -22029,6 +22032,7 @@ Small Giant Games团队"
 "specials.v2.bigminion.slime_big_minion_purple.sides","为阵型边缘的盟友召唤一个史莱姆超级小兵，其可从施法者处继承{FAMILIARHEALTHPERCENT}%生命和{FAMILIARATTACK}%攻击力。"
 "specials.v2.bigminion.slime_big_minion_red.neartotarget","为附近盟友召唤一个史莱姆超级小兵，其可从施法者处继承{FAMILIARHEALTHPERCENT}%生命和{FAMILIARATTACK}%攻击力。"
 "specials.v2.bigminion.slime_big_minion_red.neartotargetexceptcaster","为附近盟友召唤一个史莱姆超级小兵，其可从施法者处继承{FAMILIARHEALTHPERCENT}%生命和{FAMILIARATTACK}%攻击力。"
+"specials.v2.bigminion.slime_big_minion_red.single","召唤一个史莱姆超级小兵，其可从施法者处继承{FAMILIARHEALTHPERCENT}%生命值和{FAMILIARATTACK}%攻击力。"
 "specials.v2.bigminion.spear_guard_mega_minion.removestatuseffects.minorbuff.single.enemies","长枪守卫超级小兵每次击中目标，都会驱散目标身上所有可驱散的增益。"
 "specials.v2.bigminion.spear_guard_mega_minion.single","召唤一个长枪守卫超级小兵，其可从施法者处继承{FAMILIARHEALTHPERCENT}%生命值和{FAMILIARATTACK}%攻击力。"
 "specials.v2.bigminion.spotted_boar_mega_minion.single","召唤一个斑点野猪超级小兵，其可从施法者处继承{FAMILIARHEALTHPERCENT}%生命值和{FAMILIARATTACK}%攻击力。"
@@ -22260,8 +22264,11 @@ Small Giant Games团队"
 "specials.v2.minion.sakura_fox_costume.neartotarget","为施法者和附近盟友召唤一个樱花狐狸小兵。樱花狐狸小兵从施法者处继承了{FAMILIARHEALTHPERCENT}%生命和{FAMILIARATTACK}%攻击力。该小兵可在每回合结束时为主人增加{FAMILIARADDMANA}%法力。"
 "specials.v2.minion.sand_golem.all","为每位盟友召唤一个沙魔像小兵，其可从施法者处继承{FAMILIARHEALTHPERCENT}%生命和{FAMILIARATTACK}%攻击力。"
 "specials.v2.minion.sand_golem_papyros_costume.all","为每位盟友召唤一个沙魔像小兵，其可从施法者处继承{FAMILIARHEALTHPERCENT}%生命和{FAMILIARATTACK}%攻击力。"
+"specials.v2.minion.sanguine_bat_minion.all","为所有盟友召唤一个血色蝙蝠小兵，其可从施法者处继承{FAMILIARHEALTHPERCENT}%生命和{FAMILIARATTACK}%攻击力。"
 "specials.v2.minion.sanguine_bat_minion.neartotarget","为施法者和附近盟友召唤一个血色蝙蝠小兵，其可从施法者处继承{FAMILIARHEALTHPERCENT}%生命和{FAMILIARATTACK}%攻击力。"
+"specials.v2.minion.sanguine_bat_minion_pve_advanced.all","为所有盟友召唤一个血色蝙蝠小兵，其可从施法者处继承{FAMILIARHEALTHPERCENT}%生命和{FAMILIARATTACK}%攻击力。"
 "specials.v2.minion.sanguine_bat_minion_pve_advanced.neartotarget","为施法者和附近盟友召唤一个血色蝙蝠小兵，其可从施法者处继承{FAMILIARHEALTHPERCENT}%生命和{FAMILIARATTACK}%攻击力。"
+"specials.v2.minion.sanguine_bat_minion_pve_normal.all","为所有盟友召唤一个血色蝙蝠小兵，其可从施法者处继承{FAMILIARHEALTHPERCENT}%生命和{FAMILIARATTACK}%攻击力。"
 "specials.v2.minion.sanguine_bat_minion_pve_normal.neartotarget","为施法者和附近盟友召唤一个血色蝙蝠小兵，其可从施法者处继承{FAMILIARHEALTHPERCENT}%生命和{FAMILIARATTACK}%攻击力。"
 "specials.v2.minion.seshat_undead.cloneself.single.allies","克隆小兵每{FAMILIAREFFECTFREQUENCY}回合生成一个自己的克隆体。"
 "specials.v2.minion.seshat_undead.single","召唤一个克隆小兵，其可从施法者处继承{FAMILIARHEALTHPERCENT}%生命值和{FAMILIARATTACK}%攻击力。"
@@ -23632,7 +23639,8 @@ Small Giant Games团队"
 "specials.v2.statuseffect.minor.assistskillreceiveddamagemodifier.all.enemies","所有敌人受到的所有伤害增加{DAMAGEREDUCTION}%，持续{TURNS}回合。"
 "specials.v2.statuseffect.minor.assistskillspecialskilldefensemodifier.all.allies","所有盟友获得对特殊技能{SPECIALSKILLDEFENSE}%的防御，持续{TURNS}回合。"
 "specials.v2.statuseffect.minor.assistskillspecialskilldefensemodifier.all.enemies","所有敌人对特殊技能{SPECIALSKILLDEFENSE}%的防御，持续{TURNS}回合。"
-"specials.v2.statuseffect.minor.astralorbaddstatuseffectsonremoval.single.enemies.onremoval.damage.single.allies.expiration.replacesamestatuseffect.onremoval.dispel.bouncing_damage_over_time_anatemah.single.allies.chain_strike","受到星体法球影响的单位无法获得新的增益效果。
+"specials.v2.statuseffect.minor.astralorbaddstatuseffectsonremoval.single.enemies.onremoval.damage.single.allies.expiration.replacesamestatuseffect.onremoval.dispel.bouncing_damage_over_time_anatemah.single.allies.chain_strike","被击中的敌人会受到星体法球的影响。
+[*]受到星体法球影响的单位无法获得新的增益效果。
 [*]星体法球在{TURNS}回合后爆炸，对其所有者造成{DAMAGE}点伤害。
 [*]如果星体法球被净化，所有者会获得共振，持续{STATUSEFFECT1TURNS}回合。共振每回合造成{STATUSEFFECT1DAMAGEPERTURN}点伤害，并会反射到{STATUSEFFECT1MAXBOUNCES}个随机敌人。"
 "specials.v2.statuseffect.minor.attackmodifier.all.allies","所有盟友获得{ATTACK}%攻击，持续{TURNS}回合。"
@@ -23735,8 +23743,8 @@ Small Giant Games团队"
 [*][#!]骨头投掷[#]每次会召唤一个骷髅狐恶魔附身于目标。该恶魔每回合会以{FAMILIARATTACK}%的攻击力对目标造成伤害。
 [*]骷髅狐恶魔会吸收治疗。当吸收的治疗量到达目标最大生命值的{FAMILIARHEALTHPERCENT}%时，便会消失。"
 "specials.v2.statuseffect.minor.boostedhealmultiplier.all.enemies.decrease","所有敌人获得的生命加成均减少{HEALING}%，持续{TURNS}回合。"
-"specials.v2.statuseffect.minor.bouncingdamageovertime.single.enemies.allies.all","目标获得共振，持续{TURNS}回合。共振每回合造成{DAMAGE}点伤害，并会反射给{MAXBOUNCES}个随机敌人。"
-"specials.v2.statuseffect.minor.bouncingdamageovertime.single.enemies.allies.all.chain_strike","命中的敌人获得共振，持续{TURNS}回合。共振每回合造成{DAMAGE}点伤害，并会反射给{MAXBOUNCES}个随机敌人。"
+"specials.v2.statuseffect.minor.bouncingdamageovertime.single.enemies.allies.all","目标获得共振，持续{TURNS}回合。共振每回合造成{DAMAGEPERTURN}点伤害。共振会反射给{MAXBOUNCES}个随机敌人，造成额外伤害。"
+"specials.v2.statuseffect.minor.bouncingdamageovertime.single.enemies.allies.all.chain_strike","命中的敌人获得共振，持续{TURNS}回合。共振每回合造成{DAMAGEPERTURN}点伤害。共振会反射给{MAXBOUNCES}个随机敌人，造成额外伤害。"
 "specials.v2.statuseffect.minor.brutalsupportstatuseffectskill.all.allies.on.allyspecial.damage.random.enemies.with_chance","任何盟友随后施放特殊技能时，所有盟友都有{CHANCE}%几率对随机一名敌人造成{POWER1}%伤害，持续{TURNS}回合。"
 "specials.v2.statuseffect.minor.brutalsupportstatuseffectskill.single.allies.on.allyspecial.damage.all.enemies","在后续{TURNS}回合中，每当任何盟友施放特殊技能后，此角色将对所有敌人造成{POWER1}%伤害。"
 "specials.v2.statuseffect.minor.brutalsupportstatuseffectskill.single.allies.on.allyspecial.damage.single.enemies","在后续{TURNS}回合中，每当任何盟友施放特殊技能后，此角色将随机对一名敌人造成{POWER1}%伤害。"
@@ -24013,6 +24021,7 @@ Small Giant Games团队"
 [*]每一轮毛球齐射命中敌人时，将使其法力减少{ABSPOWER2}%。"
 "specials.v2.statuseffect.minor.fluffvolleystatuseffectskill.single.allies.on.turnend.damage.all.enemies.with_chance","每回合结束时，施法者会朝所有敌人投掷[#!]硬币[#]，持续{TURNS}回合。
 [*]每枚硬币造成{POWER1}%伤害。"
+"specials.v2.statuseffect.minor.fluffvolleystatuseffectskill.single.allies.on.turnend.statuseffecttag_filter.bloodlily.damage.all.enemies","在接下来的{TURNS}回合内，每回合结束时对所有被[#!]血莲[#]标记的敌人造成{POWER1}%伤害。"
 "specials.v2.statuseffect.minor.frost.all.enemies","所有敌人在{TURNS}回合内受到共计{DAMAGE}点冰冻伤害。"
 "specials.v2.statuseffect.minor.frost.all.enemies.absorb_healing.to.all","所有敌人在{TURNS}回合内受到共计{DAMAGE}点冰冻伤害。施法者和所有盟友会吸收所造成冰冻伤害的{ABSORBHEALING}%并转化为生命值。"
 "specials.v2.statuseffect.minor.frost.all.enemies.removeonhealfromspecialreceived","所有敌人每回合受到{DAMAGEPERTURN}点冰冻伤害，直到其被特殊技能所治疗。"
@@ -25016,6 +25025,7 @@ Small Giant Games团队"
 "statuseffects.description.fixedpurpledefensemodifier","对[##elementpurple]暗黑系[#][#!]{DEFENSE}[#]点防御。"
 "statuseffects.description.fixedspecialskilldefensemodifier","对特殊技能[#!]{DEFENSE}[#]点防御。"
 "statuseffects.description.fluffvolleystatuseffectskill.on.turnend.damage.random.enemies.addmana.random.enemies","每回合结束时，随机对一名敌人造成[#!]{POWER1}%[#]伤害，被命中的敌人将会失去[#!]{ABSPOWER2}%[#]的法力。"
+"statuseffects.description.fluffvolleystatuseffectskill.on.turnend.statuseffecttag_filter.bloodlily.damage.all.enemies","每回合结束时对所有被[#!]血莲[#]标记的敌人造成[#!]{POWER1}%[#]伤害。"
 "statuseffects.description.frost","每回合受到[#!]{DAMAGEPERTURN}[#]点冰冻伤害。"
 "statuseffects.description.frost.absorb_boostedhealth.to.all","每回合受到[#!]{DAMAGEPERTURN}[#]点冰冻伤害。施法者和所有盟友会吸收所造成冰冻伤害的[#!]{ABSORBHEALING}%[#]并转化为生命值加成。"
 "statuseffects.description.frost.absorb_healing.to.all","每回合受到[#!]{DAMAGEPERTURN}[#]点冰冻伤害。施法者和所有盟友会吸收所造成冰冻伤害的[#!]{ABSORBHEALING}%[#]并转化为生命值。"
@@ -25290,7 +25300,7 @@ Small Giant Games团队"
 "statuseffects.description.spiritdance.debuff","[#!]悠悠球舞[#]：[#!]{ATTACK}%[#]攻击力，所受全部伤害增加[#!]{DAMAGEREDUCTION}%[#]。如果施法者被击败，将受到[#!]{DAMAGEONCASTERDEATH}[#]点伤害和[#!]-100%[#]法力减损。对状态效果免疫。新的起舞状态效果会取代此效果。"
 "statuseffects.description.stackingattackmodifier","[#!]{ATTACK}%[#]攻击力。（叠加：[#!]{CURRENTSTACK}[#]/{MAXSTACK}）"
 "statuseffects.description.stackingattackmodifieragainstweakerelement","对所克制元素（{ELEMENT}）的攻击力提高[#!]{ATTACK}%[#]。（叠加：[#!]{CURRENTSTACK}[#]/{MAXSTACK}）"
-"statuseffects.description.stackingbloodlilyhealthdrain","[#!]血莲[#]：每回合承受[#!]{DAMAGEPERTURN}[#]点伤害，并治疗我方战队所有弗勒德桑角色等同于所受伤害值的生命值。（叠加[#!]{CURRENTSTACK}[#]/{MAXSTACK}）"
+"statuseffects.description.stackingbloodlilyhealthdrain","[#!]血莲[#]：每回合承受[#!]{DAMAGEPERTURN}[#]点伤害。敌方战队中的弗勒德桑角色会按照造成的伤害值恢复生命值，并在他们之间平均分配。（叠加：[#!]{CURRENTSTACK}[#]/{MAXSTACK}）"
 "statuseffects.description.stackingcritmodifier","[#!]{CRIT}%[#]暴击几率。(叠加：[#!]{CURRENTSTACK}[#]/{MAXSTACK})"
 "statuseffects.description.stackingdefensemodifier","[#!]{DEFENSE}%[#]防御。（叠加：[#!]{CURRENTSTACK}[#]/{MAXSTACK}）"
 "statuseffects.description.stackingdefensemodifier.while.single.allies.none","[#!]{DEFENSE}%[#]防御。（叠加：[#!]{CURRENTSTACK}[#]/{MAXSTACK}）"
@@ -25383,7 +25393,7 @@ Small Giant Games团队"
 "statuseffects.extra.addinsanitystatuseffectskill","每个角色每回合第一次施放特殊技能时，会受到伤害和[#!]狂乱[#]。
 [*]此效果造成的伤害和[#!]狂乱[#]不受[#!]狂乱[#]影响。"
 "statuseffects.extra.amplifiedmanaonremoval","该效果不可被同一效果取代。"
-"statuseffects.extra.astralorbaddstatuseffectsonremoval","如果一个星体法球被新的星体法球替换，它会立即爆炸。该效果每回合最多触发{MAXONREMOVALACTIVATIONSPERTURN}次。"
+"statuseffects.extra.astralorbaddstatuseffectsonremoval","如果一个星体法球被新的星体法球替换，它会立即爆炸。该效果每回合最多触发{REMOVALEFFECT1MAXACTIVATIONSPERTURN}次。"
 "statuseffects.extra.attackmodifierperstatuseffectontarget","该攻击力加成将根据施放此特殊技能那一刻来计算。"
 "statuseffects.extra.berserk.decrease","攻击力最多可降低至{MAX}%。"
 "statuseffects.extra.berserk.increase","攻击力最多可增加至{MAX}%。"
@@ -25392,9 +25402,8 @@ Small Giant Games团队"
 "statuseffects.extra.blockstatuseffectcasting","叠加也包括在内。
 [*]仅限由特殊技能施加的状态效果。"
 "statuseffects.extra.bloodpoisoning","如果目标已拥有此效果，持续时间会被刷新，伤害增加{EXTRADAMAGE}点。总伤害上限：[#!]{MAXDAMAGE}[#]。"
-"statuseffects.extra.bouncingdamageovertime","伤害会产生回响，对随机目标造成额外打击。
-[*]无法连续两次击中同一目标。
-[*]每次额外打击后伤害都会降低。"
+"statuseffects.extra.bouncingdamageovertime","相同目标不会连续受到两次反射伤害。
+[*]反射伤害在每次命中后会递减。"
 "statuseffects.extra.brutalsupportstatuseffectskill","此效果每个角色每回合可触发一次。"
 "statuseffects.extra.buildupdamageonremoval","受到的伤害值为最大生命值的{MAXEFFECTCAP}%时，即可达到最大伤害效果。"
 "statuseffects.extra.burnoncounterattack","灼热之触：每次此状态效果的拥有者反击敌人时，攻击者会在{STATUSEFFECT1TURNS}回合内受到共计{STATUSEFFECT1DAMAGE}点燃烧伤害。"
@@ -25567,7 +25576,7 @@ Small Giant Games团队"
 [*]起舞效果无法驱散，但会在施法者阵亡时被移除。"
 "statuseffects.extra.stackingbloodlilyhealthdrain","来自[#!]弗勒德桑[#]家族的纪念品。此效果可[#!]叠加（最高：{MAXSTACK}）[#]。
 
-[*]每层血莲效果每回合对目标造成[#!]{DAMAGE}[#]点伤害，并为我方战队所有弗勒德桑角色提供等同于所受伤害值的治疗。
+[*]每层血莲效果每回合对目标造成[#!]{DAMAGE}[#]点伤害。敌方战队中的弗勒德桑角色会按照造成的伤害值恢复生命值，并在他们之间平均分配。
 
 [*]每层血莲效果还会提升弗勒德桑家族成员对目标造成的伤害。
 

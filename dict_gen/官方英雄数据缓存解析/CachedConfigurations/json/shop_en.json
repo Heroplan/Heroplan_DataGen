@@ -29355,20 +29355,8 @@
         "id": "dynamic_offer_50_red_carmenta",
         "products": [
           {
-            "id": "com.smallgiantgames.empires.dynamic_10",
-            "purchaseLimit": 3
-          },
-          {
-            "id": "com.smallgiantgames.empires.dynamic_20b",
+            "id": "com.smallgiantgames.empires.dynamic_33",
             "purchaseLimit": 2
-          },
-          {
-            "id": "com.smallgiantgames.empires.dynamic_30",
-            "purchaseLimit": 3
-          },
-          {
-            "id": "com.smallgiantgames.empires.dynamic_10b",
-            "purchaseLimit": 3
           }
         ],
         "requiresQuestsUnlocked": true,
@@ -36985,6 +36973,27 @@
                 "amount": 2
               }
             ]
+          },
+          {
+            "activationTime": "2025-10-19 07:00:00",
+            "contents": [
+              {
+                "type": "Gem",
+                "amount": 3900
+              },
+              {
+                "type": "Item",
+                "id": "lottery_elite_hero",
+                "amount": 8,
+                "zyngaStoreExtraAmount": 2
+              },
+              {
+                "type": "Item",
+                "id": "misc_loot_ticket",
+                "amount": 45,
+                "zyngaStoreExtraAmount": 5
+              }
+            ]
           }
         ]
       },
@@ -44297,7 +44306,15 @@
       },
       {
         "id": "dynamic_offer_23_acidfire",
+        "slot": "ShopOnly",
+        "scheduledManually": true,
+        "startTime": "2025-10-19 07:00:00",
+        "endTime": "2025-10-20 06:30:00"
+      },
+      {
+        "id": "dynamic_offer_50_red_carmenta",
         "slot": "RightExtraBottom",
+        "scheduledManually": true,
         "startTime": "2025-10-19 07:00:00",
         "endTime": "2025-10-20 06:30:00"
       },
@@ -63635,5 +63652,5 @@
       }
     ]
   },
-  "shopConfigId": 2132514818
+  "shopConfigId": 3251220371
 }

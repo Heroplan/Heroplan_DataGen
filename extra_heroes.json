@@ -99,17 +99,6 @@
         "Lottery_Only":1
     },
     {
-        "name": "Soursting",
-        "fancy_name": "Arrogant Goblin Assassin",
-        "color": "Green",
-        "Release date": "",
-        "star": 5,
-        "family": "goblin",
-        "costume_id": 0,
-        "heroId": "goblin_soursting",
-        "Lottery_Only":1
-    },
-    {
         "name": "Labblub",
         "fancy_name": "Curious Scientist Slime",
         "color": "Yellow",

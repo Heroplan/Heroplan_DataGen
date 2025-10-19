@@ -151,61 +151,56 @@
 "herocard.passive_skill.description.memorizestatuseffects","此角色具備天生能力，能夠記住狀態異常。此角色會持續記住敵方向其施放的最新狀態異常，直至新的特殊技能施放為止。僅能記住有持續時間限制的狀態異常。"
 "herocard.passive_skill.description.memorizestatuseffects#2","此角色天賦異稟，能夠記住狀態異常。該角色會持續記住敵方向其施放的最新{0}個狀態異常，直至有新的特殊技能施放。僅能記住有持續時間的狀態異常。"
 "herocard.passive_skill.description.memorizestatuseffects#3","此角色天賦異稟，能夠記住狀態異常。該角色會持續記住敵方向其施放的最新{0}個狀態異常，直至有新的特殊技能施放。僅能記住有持續時間的狀態異常。(第三型態)"
-"herocard.passive_skill.description.mimiclootonlevelcompleted.mimic_aether_blue","完成關卡時，此模仿怪有機會給予額外戰利品：
+"herocard.passive_skill.description.mimiclootonlevelcompleted.mimic_aether_blue","完成關卡後，此模仿怪有機會給予額外戰利品：
 
 *****
-阿爾法乙太
  冰雪乙太 III
 
 ****
-冰雪乙太 II
+ 冰雪乙太 II
 
 ***
-冰雪乙太 I"
-"herocard.passive_skill.description.mimiclootonlevelcompleted.mimic_aether_green","完成關卡時，此模仿怪有機會給予額外戰利品：
+ 冰雪乙太 I"
+"herocard.passive_skill.description.mimiclootonlevelcompleted.mimic_aether_green","完成關卡後，此模仿怪有機會給予額外戰利品：
 
 *****
-阿爾法乙太
  自然乙太 III
 
 ****
-自然乙太 II
+ 自然乙太 II
 
 ***
-自然乙太 I"
-"herocard.passive_skill.description.mimiclootonlevelcompleted.mimic_aether_purple","完成關卡時，此模仿怪有機會給予額外戰利品：
+ 自然乙太 I"
+"herocard.passive_skill.description.mimiclootonlevelcompleted.mimic_aether_purple","完成關卡後，此模仿怪有機會給予額外戰利品：
 
 *****
-阿爾法乙太
  暗黑乙太 III
 
 ****
-暗黑乙太 II
+ 暗黑乙太 II
 
 ***
-暗黑乙太 I"
-"herocard.passive_skill.description.mimiclootonlevelcompleted.mimic_aether_red","完成關卡時，此模仿怪有機會給予額外戰利品：
+ 暗黑乙太 I"
+"herocard.passive_skill.description.mimiclootonlevelcompleted.mimic_aether_red","完成關卡後，此模仿怪有機會給予額外戰利品：
 
 *****
-阿爾法乙太
  烈火乙太 III
 
 ****
-烈火乙太 II
+ 烈火乙太 II
 
 ***
-烈火乙太 I"
-"herocard.passive_skill.description.mimiclootonlevelcompleted.mimic_aether_yellow","完成關卡時，此模仿怪有機會給予額外戰利品：
+ 烈火乙太 I"
+"herocard.passive_skill.description.mimiclootonlevelcompleted.mimic_aether_yellow","完成關卡後，此模仿怪有機會給予額外戰利品：
 
 *****
-阿爾法乙太
  神聖乙太 III
 
 ****
-神聖乙太 II
+ 神聖乙太 II
 
 ***
-神聖乙太 I"
+ 神聖乙太 I"
 "herocard.passive_skill.description.mimiclootonlevelcompleted.mimic_ascension_blue","此模仿怪在完成關卡時有機會給出額外戰利品：
 
 ****

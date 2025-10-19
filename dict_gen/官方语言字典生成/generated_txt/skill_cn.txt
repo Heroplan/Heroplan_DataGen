@@ -12,6 +12,7 @@
 "specials.v2.bigminion.slime_big_minion_purple.sides","为阵型边缘的盟友召唤一个史莱姆超级小兵，其可从施法者处继承{FAMILIARHEALTHPERCENT}%生命和{FAMILIARATTACK}%攻击力。"
 "specials.v2.bigminion.slime_big_minion_red.neartotarget","为附近盟友召唤一个史莱姆超级小兵，其可从施法者处继承{FAMILIARHEALTHPERCENT}%生命和{FAMILIARATTACK}%攻击力。"
 "specials.v2.bigminion.slime_big_minion_red.neartotargetexceptcaster","为附近盟友召唤一个史莱姆超级小兵，其可从施法者处继承{FAMILIARHEALTHPERCENT}%生命和{FAMILIARATTACK}%攻击力。"
+"specials.v2.bigminion.slime_big_minion_red.single","召唤一个史莱姆超级小兵，其可从施法者处继承{FAMILIARHEALTHPERCENT}%生命值和{FAMILIARATTACK}%攻击力。"
 "specials.v2.bigminion.spear_guard_mega_minion.removestatuseffects.minorbuff.single.enemies","长枪守卫超级小兵每次击中目标，都会驱散目标身上所有可驱散的增益。"
 "specials.v2.bigminion.spear_guard_mega_minion.single","召唤一个长枪守卫超级小兵，其可从施法者处继承{FAMILIARHEALTHPERCENT}%生命值和{FAMILIARATTACK}%攻击力。"
 "specials.v2.bigminion.spotted_boar_mega_minion.single","召唤一个斑点野猪超级小兵，其可从施法者处继承{FAMILIARHEALTHPERCENT}%生命值和{FAMILIARATTACK}%攻击力。"
@@ -243,8 +244,11 @@
 "specials.v2.minion.sakura_fox_costume.neartotarget","为施法者和附近盟友召唤一个樱花狐狸小兵。樱花狐狸小兵从施法者处继承了{FAMILIARHEALTHPERCENT}%生命和{FAMILIARATTACK}%攻击力。该小兵可在每回合结束时为主人增加{FAMILIARADDMANA}%法力。"
 "specials.v2.minion.sand_golem.all","为每位盟友召唤一个沙魔像小兵，其可从施法者处继承{FAMILIARHEALTHPERCENT}%生命和{FAMILIARATTACK}%攻击力。"
 "specials.v2.minion.sand_golem_papyros_costume.all","为每位盟友召唤一个沙魔像小兵，其可从施法者处继承{FAMILIARHEALTHPERCENT}%生命和{FAMILIARATTACK}%攻击力。"
+"specials.v2.minion.sanguine_bat_minion.all","为所有盟友召唤一个血色蝙蝠小兵，其可从施法者处继承{FAMILIARHEALTHPERCENT}%生命和{FAMILIARATTACK}%攻击力。"
 "specials.v2.minion.sanguine_bat_minion.neartotarget","为施法者和附近盟友召唤一个血色蝙蝠小兵，其可从施法者处继承{FAMILIARHEALTHPERCENT}%生命和{FAMILIARATTACK}%攻击力。"
+"specials.v2.minion.sanguine_bat_minion_pve_advanced.all","为所有盟友召唤一个血色蝙蝠小兵，其可从施法者处继承{FAMILIARHEALTHPERCENT}%生命和{FAMILIARATTACK}%攻击力。"
 "specials.v2.minion.sanguine_bat_minion_pve_advanced.neartotarget","为施法者和附近盟友召唤一个血色蝙蝠小兵，其可从施法者处继承{FAMILIARHEALTHPERCENT}%生命和{FAMILIARATTACK}%攻击力。"
+"specials.v2.minion.sanguine_bat_minion_pve_normal.all","为所有盟友召唤一个血色蝙蝠小兵，其可从施法者处继承{FAMILIARHEALTHPERCENT}%生命和{FAMILIARATTACK}%攻击力。"
 "specials.v2.minion.sanguine_bat_minion_pve_normal.neartotarget","为施法者和附近盟友召唤一个血色蝙蝠小兵，其可从施法者处继承{FAMILIARHEALTHPERCENT}%生命和{FAMILIARATTACK}%攻击力。"
 "specials.v2.minion.seshat_undead.cloneself.single.allies","克隆小兵每{FAMILIAREFFECTFREQUENCY}回合生成一个自己的克隆体。"
 "specials.v2.minion.seshat_undead.single","召唤一个克隆小兵，其可从施法者处继承{FAMILIARHEALTHPERCENT}%生命值和{FAMILIARATTACK}%攻击力。"
@@ -1615,7 +1619,8 @@
 "specials.v2.statuseffect.minor.assistskillreceiveddamagemodifier.all.enemies","所有敌人受到的所有伤害增加{DAMAGEREDUCTION}%，持续{TURNS}回合。"
 "specials.v2.statuseffect.minor.assistskillspecialskilldefensemodifier.all.allies","所有盟友获得对特殊技能{SPECIALSKILLDEFENSE}%的防御，持续{TURNS}回合。"
 "specials.v2.statuseffect.minor.assistskillspecialskilldefensemodifier.all.enemies","所有敌人对特殊技能{SPECIALSKILLDEFENSE}%的防御，持续{TURNS}回合。"
-"specials.v2.statuseffect.minor.astralorbaddstatuseffectsonremoval.single.enemies.onremoval.damage.single.allies.expiration.replacesamestatuseffect.onremoval.dispel.bouncing_damage_over_time_anatemah.single.allies.chain_strike","受到星体法球影响的单位无法获得新的增益效果。
+"specials.v2.statuseffect.minor.astralorbaddstatuseffectsonremoval.single.enemies.onremoval.damage.single.allies.expiration.replacesamestatuseffect.onremoval.dispel.bouncing_damage_over_time_anatemah.single.allies.chain_strike","被击中的敌人会受到星体法球的影响。
+受到星体法球影响的单位无法获得新的增益效果。
 星体法球在{TURNS}回合后爆炸，对其所有者造成{DAMAGE}点伤害。
 如果星体法球被净化，所有者会获得共振，持续{STATUSEFFECT1TURNS}回合。共振每回合造成{STATUSEFFECT1DAMAGEPERTURN}点伤害，并会反射到{STATUSEFFECT1MAXBOUNCES}个随机敌人。"
 "specials.v2.statuseffect.minor.attackmodifier.all.allies","所有盟友获得{ATTACK}%攻击，持续{TURNS}回合。"
@@ -1718,8 +1723,8 @@
 骨头投掷每次会召唤一个骷髅狐恶魔附身于目标。该恶魔每回合会以{FAMILIARATTACK}%的攻击力对目标造成伤害。
 骷髅狐恶魔会吸收治疗。当吸收的治疗量到达目标最大生命值的{FAMILIARHEALTHPERCENT}%时，便会消失。"
 "specials.v2.statuseffect.minor.boostedhealmultiplier.all.enemies.decrease","所有敌人获得的生命加成均减少{HEALING}%，持续{TURNS}回合。"
-"specials.v2.statuseffect.minor.bouncingdamageovertime.single.enemies.allies.all","目标获得共振，持续{TURNS}回合。共振每回合造成{DAMAGE}点伤害，并会反射给{MAXBOUNCES}个随机敌人。"
-"specials.v2.statuseffect.minor.bouncingdamageovertime.single.enemies.allies.all.chain_strike","命中的敌人获得共振，持续{TURNS}回合。共振每回合造成{DAMAGE}点伤害，并会反射给{MAXBOUNCES}个随机敌人。"
+"specials.v2.statuseffect.minor.bouncingdamageovertime.single.enemies.allies.all","目标获得共振，持续{TURNS}回合。共振每回合造成{DAMAGEPERTURN}点伤害。共振会反射给{MAXBOUNCES}个随机敌人，造成额外伤害。"
+"specials.v2.statuseffect.minor.bouncingdamageovertime.single.enemies.allies.all.chain_strike","命中的敌人获得共振，持续{TURNS}回合。共振每回合造成{DAMAGEPERTURN}点伤害。共振会反射给{MAXBOUNCES}个随机敌人，造成额外伤害。"
 "specials.v2.statuseffect.minor.brutalsupportstatuseffectskill.all.allies.on.allyspecial.damage.random.enemies.with_chance","任何盟友随后施放特殊技能时，所有盟友都有{CHANCE}%几率对随机一名敌人造成{POWER1}%伤害，持续{TURNS}回合。"
 "specials.v2.statuseffect.minor.brutalsupportstatuseffectskill.single.allies.on.allyspecial.damage.all.enemies","在后续{TURNS}回合中，每当任何盟友施放特殊技能后，此角色将对所有敌人造成{POWER1}%伤害。"
 "specials.v2.statuseffect.minor.brutalsupportstatuseffectskill.single.allies.on.allyspecial.damage.single.enemies","在后续{TURNS}回合中，每当任何盟友施放特殊技能后，此角色将随机对一名敌人造成{POWER1}%伤害。"
@@ -1996,6 +2001,7 @@
 每一轮毛球齐射命中敌人时，将使其法力减少{ABSPOWER2}%。"
 "specials.v2.statuseffect.minor.fluffvolleystatuseffectskill.single.allies.on.turnend.damage.all.enemies.with_chance","每回合结束时，施法者会朝所有敌人投掷硬币，持续{TURNS}回合。
 每枚硬币造成{POWER1}%伤害。"
+"specials.v2.statuseffect.minor.fluffvolleystatuseffectskill.single.allies.on.turnend.statuseffecttag_filter.bloodlily.damage.all.enemies","在接下来的{TURNS}回合内，每回合结束时对所有被血莲标记的敌人造成{POWER1}%伤害。"
 "specials.v2.statuseffect.minor.frost.all.enemies","所有敌人在{TURNS}回合内受到共计{DAMAGE}点冰冻伤害。"
 "specials.v2.statuseffect.minor.frost.all.enemies.absorb_healing.to.all","所有敌人在{TURNS}回合内受到共计{DAMAGE}点冰冻伤害。施法者和所有盟友会吸收所造成冰冻伤害的{ABSORBHEALING}%并转化为生命值。"
 "specials.v2.statuseffect.minor.frost.all.enemies.removeonhealfromspecialreceived","所有敌人每回合受到{DAMAGEPERTURN}点冰冻伤害，直到其被特殊技能所治疗。"

@@ -40273,7 +40273,7 @@ window.allHeroesExtra = [
             "Ghost Form & Hiding",
             "Bypassers",
             "DoT Attackers"
-            ],
+        ],
         "heroId": "mimic_emblem_yellow",
         "baseAttack": 628,
         "baseDefense": 628,
@@ -40284,5 +40284,98 @@ window.allHeroesExtra = [
             "never_miss_special"
         ],
         "family": "mimic"
+    },
+    {
+        "name": "Helgi costume1",
+        "fancy name": "Dwarven Replenisher",
+        "element": "Red",
+        "rarity": 3,
+        "class": "Paladin",
+        "speed": "slow",
+        "Release date": "2025-10-15",
+        "AetherPower": "Special Boost",
+        "skill_types": [
+            "Chain & Random Attackers",
+            "Effect Duration Resetters",
+            "Extra Damage Dealers",
+            "Minions Counters",
+            "DoT Attackers",
+            "Debuffers (DEF)"
+        ],
+        "heroId": "tales2_helgi_costume_combatant",
+        "baseAttack": 318,
+        "baseDefense": 310,
+        "baseHealth": 378,
+        "specialId": "dwarven_flourish",
+        "specialId_costume": "dwarven_recharge",
+        "passiveSkills": [
+            "molten_core_costume",
+            "resist_burn_with_health_and_mana_boost_costume"
+        ],
+        "costumeBonusPassiveSkillIds": null,
+        "attackBonus": "5%",
+        "defenseBonus": "5%",
+        "healthBonus": "5%",
+        "manaBonus": "1%",
+        "family": "nidavellir"
+    },
+    {
+        "name": "Fjalar costume1",
+        "fancy name": "Dwarven Ghostly Skald",
+        "element": "Yellow",
+        "rarity": 4,
+        "class": "Fighter",
+        "speed": "average",
+        "Release date": "2025-10-15",
+        "AetherPower": "Special Armor",
+        "skill_types": [
+            "Extra Damage Dealers",
+            "Minions Counters",
+            "Snipers",
+            "Extra Damage Dealers",
+            "Bypassers",
+            "DoT Attackers",
+            "Debuffers (DEF)"
+        ],
+        "heroId": "tales2_fjalar_costume_undead",
+        "baseAttack": 340,
+        "baseDefense": 325,
+        "baseHealth": 595,
+        "specialId": "poetic_justice",
+        "specialId_costume": "undead_penance_poetic",
+        "passiveSkills": [
+            "molten_core_costume",
+            "resist_burn_with_health_and_mana_boost_costume"
+        ],
+        "costumeBonusPassiveSkillIds": null,
+        "attackBonus": "12%",
+        "defenseBonus": "12%",
+        "healthBonus": "12%",
+        "manaBonus": "1%",
+        "family": "nidavellir"
+    },
+    {
+        "name": "Soursting",
+        "fancy name": "Arrogant Goblin Assassin",
+        "element": "Green",
+        "rarity": 5,
+        "class": "Fighter",
+        "speed": "fast",
+        "Release date": "2025-10-18",
+        "AetherPower": "Attack Up",
+        "skill_types": [
+            "Resurrection Inhibitors",
+            "AoE Attackers (Hit-3)",
+            "Ability Scores Modifiers"
+        ],
+        "heroId": "goblin_soursting",
+        "baseAttack": 642,
+        "baseDefense": 617,
+        "baseHealth": 1051,
+        "specialId": "ruthless_gambit",
+        "passiveSkills": [
+            "goblin_damage_and_accuracy_debuff_on_special"
+        ],
+        "family": "goblin"
     }
 ];

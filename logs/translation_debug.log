@@ -481,6 +481,11 @@ Raven Minion gives {ATTACK}% attack to all its owner's other Minions.'
 - [specials.v2.minion.sand_golem.all] 原始: 'Summons a Sand Golem Minion for each ally with {FAMILIARHEALTHPERCENT}% HP and {FAMILIARATTACK}% attack inherited from the caster.' 标准化: 'Summons a Sand Golem Minion for each ally with {FAMILIARHEALTHPERCENT}% HP and {FAMILIARATTACK}% attack inherited from the caster.'
 - [specials.v2.minion.sand_golem_papyros_costume.all] 原始: 'Summons a Sand Golem Minion for each ally with {FAMILIARHEALTHPERCENT}% HP and {FAMILIARATTACK}% attack inherited from the caster.' 标准化: 'Summons a Sand Golem Minion for each ally with {FAMILIARHEALTHPERCENT}% HP and {FAMILIARATTACK}% attack inherited from the caster.'
 
+'summons a sanguine bat minion for all allies with {familiarhealthpercent}% hp and {familiarattack}% attack inherited from the caster.' 有以下变体:
+- [specials.v2.minion.sanguine_bat_minion.all] 原始: 'Summons a Sanguine Bat Minion for all allies with {FAMILIARHEALTHPERCENT}% HP and {FAMILIARATTACK}% attack inherited from the caster.' 标准化: 'Summons a Sanguine Bat Minion for all allies with {FAMILIARHEALTHPERCENT}% HP and {FAMILIARATTACK}% attack inherited from the caster.'
+- [specials.v2.minion.sanguine_bat_minion_pve_advanced.all] 原始: 'Summons a Sanguine Bat Minion for all allies with {FAMILIARHEALTHPERCENT}% HP and {FAMILIARATTACK}% attack inherited from the caster.' 标准化: 'Summons a Sanguine Bat Minion for all allies with {FAMILIARHEALTHPERCENT}% HP and {FAMILIARATTACK}% attack inherited from the caster.'
+- [specials.v2.minion.sanguine_bat_minion_pve_normal.all] 原始: 'Summons a Sanguine Bat Minion for all allies with {FAMILIARHEALTHPERCENT}% HP and {FAMILIARATTACK}% attack inherited from the caster.' 标准化: 'Summons a Sanguine Bat Minion for all allies with {FAMILIARHEALTHPERCENT}% HP and {FAMILIARATTACK}% attack inherited from the caster.'
+
 'summons a sanguine bat minion for caster and nearby allies with {familiarhealthpercent}% hp and {familiarattack}% attack inherited from the caster.' 有以下变体:
 - [specials.v2.minion.sanguine_bat_minion.neartotarget] 原始: 'Summons a Sanguine Bat Minion for caster and nearby allies with {FAMILIARHEALTHPERCENT}% HP and {FAMILIARATTACK}% attack inherited from the caster.' 标准化: 'Summons a Sanguine Bat Minion for caster and nearby allies with {FAMILIARHEALTHPERCENT}% HP and {FAMILIARATTACK}% attack inherited from the caster.'
 - [specials.v2.minion.sanguine_bat_minion_pve_advanced.neartotarget] 原始: 'Summons a Sanguine Bat Minion for caster and nearby allies with {FAMILIARHEALTHPERCENT}% HP and {FAMILIARATTACK}% attack inherited from the caster.' 标准化: 'Summons a Sanguine Bat Minion for caster and nearby allies with {FAMILIARHEALTHPERCENT}% HP and {FAMILIARATTACK}% attack inherited from the caster.'
@@ -1218,6 +1223,10 @@ The Source of Buffs will activate {MAXACTIVATIONCOUNT} times. Each attempt to di
 - [specials.v2.statuseffect.minor.berserk.group.allies] 原始: 'The caster and nearby allies get {ATTACK}% attack, and a further {CHANGE}% increase every time they are hit during {TURNS} turns, up to {MAXMODIFIER}% attack.' 标准化: 'The caster and nearby allies get {ATTACK}% attack, and a further {CHANGE}% increase every time they are hit during {TURNS} turns, up to {MAXMODIFIER}% attack.'
 - [specials.v2.statuseffect.minor.berserk.neartotarget.allies] 原始: 'The caster and nearby allies get {ATTACK}% attack, and a further {CHANGE}% increase every time they are hit during {TURNS} turns, up to {MAXMODIFIER}% attack.' 标准化: 'The caster and nearby allies get {ATTACK}% attack, and a further {CHANGE}% increase every time they are hit during {TURNS} turns, up to {MAXMODIFIER}% attack.'
 
+'for the next {turns} turns, deals {power1}% damage to all enemies marked with a blood lily at the end of each turn.' 有以下变体:
+- [specials.v2.statuseffect.minor.brutalsupportstatuseffectskill.single.allies.on.turnend.statuseffecttag_filter.bloodlily.damage.all.enemies] 原始: 'For the next {TURNS} turns, deals {POWER1}% damage to all enemies marked with a Blood Lily at the end of each turn.' 标准化: 'For the next {TURNS} turns, deals {POWER1}% damage to all enemies marked with a Blood Lily at the end of each turn.'
+- [specials.v2.statuseffect.minor.fluffvolleystatuseffectskill.single.allies.on.turnend.statuseffecttag_filter.bloodlily.damage.all.enemies] 原始: 'For the next {TURNS} turns, deals {POWER1}% damage to all enemies marked with a Blood Lily at the end of each turn.' 标准化: 'For the next {TURNS} turns, deals {POWER1}% damage to all enemies marked with a Blood Lily at the end of each turn.'
+
 'all enemies are immune to new status effect buffs for {turns} turns. attempted mana generation buffs will be replaced by {resiststatuseffectmanaregen}% mana generation for {resiststatuseffectturns} turns.' 有以下变体:
 - [specials.v2.statuseffect.minor.buffimmunity.all.enemies.mana_regen_reduction.requirementforeffect.managenerationmodifier] 原始: 'All enemies are immune to new status effect buffs for {TURNS} turns. Attempted mana generation buffs will be replaced by {RESISTSTATUSEFFECTMANAREGEN}% mana generation for {RESISTSTATUSEFFECTTURNS} turns.' 标准化: 'All enemies are immune to new status effect buffs for {TURNS} turns. Attempted mana generation buffs will be replaced by {RESISTSTATUSEFFECTMANAREGEN}% mana generation for {RESISTSTATUSEFFECTTURNS} turns.'
 - [specials.v2.statuseffect.minor.buffimmunity.all.enemies.mana_regen_reduction_wolf.requirementforeffect.managenerationmodifier] 原始: 'All enemies are immune to new status effect buffs for {TURNS} turns. Attempted mana generation buffs will be replaced by {RESISTSTATUSEFFECTMANAREGEN}% mana generation for {RESISTSTATUSEFFECTTURNS} turns.' 标准化: 'All enemies are immune to new status effect buffs for {TURNS} turns. Attempted mana generation buffs will be replaced by {RESISTSTATUSEFFECTMANAREGEN}% mana generation for {RESISTSTATUSEFFECTTURNS} turns.'
@@ -1385,12 +1394,9 @@ The Source of Buffs will activate {MAXACTIVATIONCOUNT} times. Each attempt to di
  Magma Cubes explode in {TURNS} turns doing {DAMAGE} damage to their owner.
  If Magma Cube is cleansed, the owner gets {STATUSEFFECT1MANAREGEN}% mana generation for {REMOVALEFFECT2STATUSEFFECT1TURNS} turns.'
 
-总重复组数: 176
+总重复组数: 178
 
---- 未匹配的英文条目 ---
-- [specials.v2.bigminion.slime_big_minion_red.single] Summons a Slime Mega Minion {FAMILIARHEALTHPERCENT}% HP and {FAMILIARATTACK}% attack inherited from the caster.
-- [specials.v2.minion.sanguine_bat_minion.all] Summons a Sanguine Bat Minion for all allies with {FAMILIARHEALTHPERCENT}% HP and {FAMILIARATTACK}% attack inherited from the caster.
-总数: 2
+--- 无未匹配英文条目 ---
 
 --- 未使用的zh-Hans翻译 ---
 - [specials.v2.directeffect.addmana.all.enemies.increment] 使所有敌人的法力减少{MANA}%。
@@ -1425,7 +1431,9 @@ The Source of Buffs will activate {MAXACTIVATIONCOUNT} times. Each attempt to di
 乌鸦小兵向主人的其他小兵提供{ATTACK}%的攻击力。
 - [specials.v2.minion.sakura_fox_costume.neartotarget] 为施法者和附近盟友召唤一个樱花狐狸小兵。樱花狐狸小兵从施法者处继承了{FAMILIARHEALTHPERCENT}%生命和{FAMILIARATTACK}%攻击力。该小兵可在每回合结束时为主人增加{FAMILIARADDMANA}%法力。
 - [specials.v2.minion.sand_golem_papyros_costume.all] 为每位盟友召唤一个沙魔像小兵，其可从施法者处继承{FAMILIARHEALTHPERCENT}%生命和{FAMILIARATTACK}%攻击力。
+- [specials.v2.minion.sanguine_bat_minion_pve_advanced.all] 为所有盟友召唤一个血色蝙蝠小兵，其可从施法者处继承{FAMILIARHEALTHPERCENT}%生命和{FAMILIARATTACK}%攻击力。
 - [specials.v2.minion.sanguine_bat_minion_pve_advanced.neartotarget] 为施法者和附近盟友召唤一个血色蝙蝠小兵，其可从施法者处继承{FAMILIARHEALTHPERCENT}%生命和{FAMILIARATTACK}%攻击力。
+- [specials.v2.minion.sanguine_bat_minion_pve_normal.all] 为所有盟友召唤一个血色蝙蝠小兵，其可从施法者处继承{FAMILIARHEALTHPERCENT}%生命和{FAMILIARATTACK}%攻击力。
 - [specials.v2.minion.sanguine_bat_minion_pve_normal.neartotarget] 为施法者和附近盟友召唤一个血色蝙蝠小兵，其可从施法者处继承{FAMILIARHEALTHPERCENT}%生命和{FAMILIARATTACK}%攻击力。
 - [specials.v2.minion.shu_soldier_minion_costume_zhuge.all] 为每位盟友召唤一个蜀军小兵，其可从施法者处继承{FAMILIARHEALTHPERCENT}%生命和{FAMILIARATTACK}%攻击力。
 - [specials.v2.minion.wei_soldier_costume.all] 为每位盟友召唤一个魏军小兵，其可从施法者处继承{FAMILIARHEALTHPERCENT}%生命和{FAMILIARATTACK}%攻击力。
@@ -1653,6 +1661,7 @@ The Source of Buffs will activate {MAXACTIVATIONCOUNT} times. Each attempt to di
 在强化闪避结束、被移除或者被取代后，该盟友获得{REMOVALEFFECT1STATUSEFFECT1ATTACK}%攻击力，持续{REMOVALEFFECT1STATUSEFFECT1TURNS}回合。
 - [specials.v2.statuseffect.minor.elementmirror.yellow.single.enemies] 施法者会将来自暗黑系敌人特殊技能的全部状态异常和{DEFLECTION}%伤害反弹至进攻者，并阻挡该技能的其它负面效果，持续{TURNS}回合。
 - [specials.v2.statuseffect.minor.fixedhealthrecovery.all.allies] 所有盟友在{TURNS}回合内恢复共计{TOTAL}点生命。
+- [specials.v2.statuseffect.minor.fluffvolleystatuseffectskill.single.allies.on.turnend.statuseffecttag_filter.bloodlily.damage.all.enemies] 在接下来的{TURNS}回合内，每回合结束时对所有被血莲标记的敌人造成{POWER1}%伤害。
 - [specials.v2.statuseffect.minor.healmultiplier.all.enemies.decrease] 所有敌人获得的治疗均减少{HEALING}%，持续{TURNS}回合。
 - [specials.v2.statuseffect.minor.lifesteal.all.allies] 所有盟友恢复相当于所造成普通伤害{LIFESTEAL}%的生命值，持续{TURNS}回合。
 - [specials.v2.statuseffect.minor.managenerationmodifier.all.allies] 所有盟友获得{MANAREGEN}%法力生成，持续{TURNS}回合。
@@ -1689,7 +1698,7 @@ The Source of Buffs will activate {MAXACTIVATIONCOUNT} times. Each attempt to di
 熔岩魔方将在{TURNS}回合后爆炸，对其所有者造成{DAMAGE}点伤害。
 如果熔岩魔方被净化，则其所有者获得{STATUSEFFECT1MANAREGEN}%法力生成，持续{REMOVALEFFECT2STATUSEFFECT1TURNS}回合。
 - [specials.v2.statuseffect.sandcurse.single.enemies.contagious] 目标在{TURNS}回合内受到共计{DAMAGE}点沙系伤害。此效果会蔓延至附近敌人。
-总数: 228
+总数: 231
 
 
 === skill (zh-Hant) 翻译分析调试信息 ===
@@ -1854,6 +1863,11 @@ Raven Minion gives {ATTACK}% attack to all its owner's other Minions.'
 'summons a sand golem minion for each ally with {familiarhealthpercent}% hp and {familiarattack}% attack inherited from the caster.' 有以下变体:
 - [specials.v2.minion.sand_golem.all] 原始: 'Summons a Sand Golem Minion for each ally with {FAMILIARHEALTHPERCENT}% HP and {FAMILIARATTACK}% attack inherited from the caster.' 标准化: 'Summons a Sand Golem Minion for each ally with {FAMILIARHEALTHPERCENT}% HP and {FAMILIARATTACK}% attack inherited from the caster.'
 - [specials.v2.minion.sand_golem_papyros_costume.all] 原始: 'Summons a Sand Golem Minion for each ally with {FAMILIARHEALTHPERCENT}% HP and {FAMILIARATTACK}% attack inherited from the caster.' 标准化: 'Summons a Sand Golem Minion for each ally with {FAMILIARHEALTHPERCENT}% HP and {FAMILIARATTACK}% attack inherited from the caster.'
+
+'summons a sanguine bat minion for all allies with {familiarhealthpercent}% hp and {familiarattack}% attack inherited from the caster.' 有以下变体:
+- [specials.v2.minion.sanguine_bat_minion.all] 原始: 'Summons a Sanguine Bat Minion for all allies with {FAMILIARHEALTHPERCENT}% HP and {FAMILIARATTACK}% attack inherited from the caster.' 标准化: 'Summons a Sanguine Bat Minion for all allies with {FAMILIARHEALTHPERCENT}% HP and {FAMILIARATTACK}% attack inherited from the caster.'
+- [specials.v2.minion.sanguine_bat_minion_pve_advanced.all] 原始: 'Summons a Sanguine Bat Minion for all allies with {FAMILIARHEALTHPERCENT}% HP and {FAMILIARATTACK}% attack inherited from the caster.' 标准化: 'Summons a Sanguine Bat Minion for all allies with {FAMILIARHEALTHPERCENT}% HP and {FAMILIARATTACK}% attack inherited from the caster.'
+- [specials.v2.minion.sanguine_bat_minion_pve_normal.all] 原始: 'Summons a Sanguine Bat Minion for all allies with {FAMILIARHEALTHPERCENT}% HP and {FAMILIARATTACK}% attack inherited from the caster.' 标准化: 'Summons a Sanguine Bat Minion for all allies with {FAMILIARHEALTHPERCENT}% HP and {FAMILIARATTACK}% attack inherited from the caster.'
 
 'summons a sanguine bat minion for caster and nearby allies with {familiarhealthpercent}% hp and {familiarattack}% attack inherited from the caster.' 有以下变体:
 - [specials.v2.minion.sanguine_bat_minion.neartotarget] 原始: 'Summons a Sanguine Bat Minion for caster and nearby allies with {FAMILIARHEALTHPERCENT}% HP and {FAMILIARATTACK}% attack inherited from the caster.' 标准化: 'Summons a Sanguine Bat Minion for caster and nearby allies with {FAMILIARHEALTHPERCENT}% HP and {FAMILIARATTACK}% attack inherited from the caster.'
@@ -2592,6 +2606,10 @@ The Source of Buffs will activate {MAXACTIVATIONCOUNT} times. Each attempt to di
 - [specials.v2.statuseffect.minor.berserk.group.allies] 原始: 'The caster and nearby allies get {ATTACK}% attack, and a further {CHANGE}% increase every time they are hit during {TURNS} turns, up to {MAXMODIFIER}% attack.' 标准化: 'The caster and nearby allies get {ATTACK}% attack, and a further {CHANGE}% increase every time they are hit during {TURNS} turns, up to {MAXMODIFIER}% attack.'
 - [specials.v2.statuseffect.minor.berserk.neartotarget.allies] 原始: 'The caster and nearby allies get {ATTACK}% attack, and a further {CHANGE}% increase every time they are hit during {TURNS} turns, up to {MAXMODIFIER}% attack.' 标准化: 'The caster and nearby allies get {ATTACK}% attack, and a further {CHANGE}% increase every time they are hit during {TURNS} turns, up to {MAXMODIFIER}% attack.'
 
+'for the next {turns} turns, deals {power1}% damage to all enemies marked with a blood lily at the end of each turn.' 有以下变体:
+- [specials.v2.statuseffect.minor.brutalsupportstatuseffectskill.single.allies.on.turnend.statuseffecttag_filter.bloodlily.damage.all.enemies] 原始: 'For the next {TURNS} turns, deals {POWER1}% damage to all enemies marked with a Blood Lily at the end of each turn.' 标准化: 'For the next {TURNS} turns, deals {POWER1}% damage to all enemies marked with a Blood Lily at the end of each turn.'
+- [specials.v2.statuseffect.minor.fluffvolleystatuseffectskill.single.allies.on.turnend.statuseffecttag_filter.bloodlily.damage.all.enemies] 原始: 'For the next {TURNS} turns, deals {POWER1}% damage to all enemies marked with a Blood Lily at the end of each turn.' 标准化: 'For the next {TURNS} turns, deals {POWER1}% damage to all enemies marked with a Blood Lily at the end of each turn.'
+
 'all enemies are immune to new status effect buffs for {turns} turns. attempted mana generation buffs will be replaced by {resiststatuseffectmanaregen}% mana generation for {resiststatuseffectturns} turns.' 有以下变体:
 - [specials.v2.statuseffect.minor.buffimmunity.all.enemies.mana_regen_reduction.requirementforeffect.managenerationmodifier] 原始: 'All enemies are immune to new status effect buffs for {TURNS} turns. Attempted mana generation buffs will be replaced by {RESISTSTATUSEFFECTMANAREGEN}% mana generation for {RESISTSTATUSEFFECTTURNS} turns.' 标准化: 'All enemies are immune to new status effect buffs for {TURNS} turns. Attempted mana generation buffs will be replaced by {RESISTSTATUSEFFECTMANAREGEN}% mana generation for {RESISTSTATUSEFFECTTURNS} turns.'
 - [specials.v2.statuseffect.minor.buffimmunity.all.enemies.mana_regen_reduction_wolf.requirementforeffect.managenerationmodifier] 原始: 'All enemies are immune to new status effect buffs for {TURNS} turns. Attempted mana generation buffs will be replaced by {RESISTSTATUSEFFECTMANAREGEN}% mana generation for {RESISTSTATUSEFFECTTURNS} turns.' 标准化: 'All enemies are immune to new status effect buffs for {TURNS} turns. Attempted mana generation buffs will be replaced by {RESISTSTATUSEFFECTMANAREGEN}% mana generation for {RESISTSTATUSEFFECTTURNS} turns.'
@@ -2759,12 +2777,9 @@ The Source of Buffs will activate {MAXACTIVATIONCOUNT} times. Each attempt to di
  Magma Cubes explode in {TURNS} turns doing {DAMAGE} damage to their owner.
  If Magma Cube is cleansed, the owner gets {STATUSEFFECT1MANAREGEN}% mana generation for {REMOVALEFFECT2STATUSEFFECT1TURNS} turns.'
 
-总重复组数: 176
+总重复组数: 178
 
---- 未匹配的英文条目 ---
-- [specials.v2.bigminion.slime_big_minion_red.single] Summons a Slime Mega Minion {FAMILIARHEALTHPERCENT}% HP and {FAMILIARATTACK}% attack inherited from the caster.
-- [specials.v2.minion.sanguine_bat_minion.all] Summons a Sanguine Bat Minion for all allies with {FAMILIARHEALTHPERCENT}% HP and {FAMILIARATTACK}% attack inherited from the caster.
-总数: 2
+--- 无未匹配英文条目 ---
 
 --- 未使用的zh-Hant翻译 ---
 - [specials.v2.directeffect.addmana.all.enemies.increment] 使所有敵人的法力減少{MANA}%。
@@ -2799,7 +2814,9 @@ The Source of Buffs will activate {MAXACTIVATIONCOUNT} times. Each attempt to di
 渡鴉小兵會給予主人的所有其他小兵{ATTACK}%攻擊。
 - [specials.v2.minion.sakura_fox_costume.neartotarget] 為施法者與附近盟友召喚一個櫻花狐狸小兵。櫻花狐狸小兵從施法者繼承{FAMILIARHEALTHPERCENT}%生命與{FAMILIARATTACK}%攻擊。它在每個回合結束時為主人增加{FAMILIARADDMANA}%法力。
 - [specials.v2.minion.sand_golem_papyros_costume.all] 為每個盟友召喚一個砂巨像小兵，其可從施法者繼承{FAMILIARHEALTHPERCENT}%生命值與{FAMILIARATTACK}%攻擊。
+- [specials.v2.minion.sanguine_bat_minion_pve_advanced.all] 為所有盟友召喚一個腥紅蝙蝠小兵，其可從施法者那裡繼承{FAMILIARHEALTHPERCENT}%生命值和{FAMILIARATTACK}%攻擊力。
 - [specials.v2.minion.sanguine_bat_minion_pve_advanced.neartotarget] 為施法者與附近盟友召喚一個腥紅蝙蝠小兵，其可從施法者那裡繼承{FAMILIARHEALTHPERCENT}%生命值和{FAMILIARATTACK}%攻擊力。
+- [specials.v2.minion.sanguine_bat_minion_pve_normal.all] 為所有盟友召喚一個腥紅蝙蝠小兵，其可從施法者那裡繼承{FAMILIARHEALTHPERCENT}%生命值和{FAMILIARATTACK}%攻擊力。
 - [specials.v2.minion.sanguine_bat_minion_pve_normal.neartotarget] 為施法者與附近盟友召喚一個腥紅蝙蝠小兵，其可從施法者那裡繼承{FAMILIARHEALTHPERCENT}%生命值和{FAMILIARATTACK}%攻擊力。
 - [specials.v2.minion.shu_soldier_minion_costume_zhuge.all] 為每個盟友召喚一個蜀國戰士小兵，其可從施法者繼承{FAMILIARHEALTHPERCENT}%生命值與{FAMILIARATTACK}%攻擊力。
 - [specials.v2.minion.wei_soldier_costume.all] 為每個盟友召喚一個魏國戰士小兵，其可從施法者繼承{FAMILIARHEALTHPERCENT}%生命值與{FAMILIARATTACK}%攻擊。
@@ -3026,6 +3043,7 @@ The Source of Buffs will activate {MAXACTIVATIONCOUNT} times. Each attempt to di
  強化閃避結束、移除或取代後，盟友會獲得{REMOVALEFFECT1STATUSEFFECT1ATTACK}%攻擊，持續{REMOVALEFFECT1STATUSEFFECT1TURNS}個回合。
 - [specials.v2.statuseffect.minor.elementmirror.yellow.single.enemies] 施法者將全部狀態異常和{DEFLECTION}%傷害反射給進攻者，並抵擋其它來自敵人暗黑特殊技能的負面效果，持續{TURNS}個回合。
 - [specials.v2.statuseffect.minor.fixedhealthrecovery.all.allies] 所有盟友在{TURNS}個回合內恢復{TOTAL}點生命。
+- [specials.v2.statuseffect.minor.fluffvolleystatuseffectskill.single.allies.on.turnend.statuseffecttag_filter.bloodlily.damage.all.enemies] 接下來{TURNS}回合，每回合結束時，對所有受到血百合標記的敵人造成{POWER1}%傷害。
 - [specials.v2.statuseffect.minor.healmultiplier.all.enemies.decrease] 所有敵人獲得的治療減少{HEALING}%，持續{TURNS}個回合。
 - [specials.v2.statuseffect.minor.lifesteal.all.allies] 所有盟友治療所造成普通傷害的{LIFESTEAL}%，持續{TURNS}個回合。
 - [specials.v2.statuseffect.minor.managenerationmodifier.all.allies] 所有盟友獲得{MANAREGEN}%法力產出，持續{TURNS}個回合。
@@ -3062,7 +3080,7 @@ The Source of Buffs will activate {MAXACTIVATIONCOUNT} times. Each attempt to di
 岩漿立方會在{TURNS}個回合內爆炸，對其擁有者造成{DAMAGE}點傷害。
 若岩漿立方被淨化，則擁有者獲得{STATUSEFFECT1MANAREGEN}%法力產出，持續{REMOVALEFFECT2STATUSEFFECT1TURNS}個回合。
 - [specials.v2.statuseffect.sandcurse.single.enemies.contagious] 目標在{TURNS}個回合內受到{DAMAGE}點飛沙傷害。此效果會擴散至附近的敵人。
-总数: 228
+总数: 231
 
 
 === passive_skill (zh-Hans) 翻译分析调试信息 ===

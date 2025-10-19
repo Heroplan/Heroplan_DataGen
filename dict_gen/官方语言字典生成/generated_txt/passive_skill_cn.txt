@@ -154,7 +154,6 @@
 "herocard.passive_skill.description.mimiclootonlevelcompleted.mimic_aether_blue","这只拟态兽在完成关卡时有机会掉落额外的战利品：
 
 *****
-阿尔法艾瑟尔
 冰雪艾瑟尔 III
 
 ****
@@ -165,7 +164,6 @@
 "herocard.passive_skill.description.mimiclootonlevelcompleted.mimic_aether_green","这只拟态兽在完成关卡时有机会掉落额外的战利品：
 
 *****
-阿尔法艾瑟尔
 自然艾瑟尔 III
 
 ****
@@ -176,7 +174,6 @@
 "herocard.passive_skill.description.mimiclootonlevelcompleted.mimic_aether_purple","这只拟态兽在完成关卡时有机会掉落额外的战利品：
 
 *****
-阿尔法艾瑟尔
 暗黑艾瑟尔 III
 
 ****
@@ -187,7 +184,6 @@
 "herocard.passive_skill.description.mimiclootonlevelcompleted.mimic_aether_red","这只拟态兽在完成关卡时有机会掉落额外的战利品：
 
 *****
-阿尔法艾瑟尔
 烈火艾瑟尔 III
 
 ****
@@ -198,7 +194,6 @@
 "herocard.passive_skill.description.mimiclootonlevelcompleted.mimic_aether_yellow","这只拟态兽在完成关卡时有机会掉落额外的战利品：
 
 *****
-阿尔法艾瑟尔
 神圣艾瑟尔 III
 
 ****
