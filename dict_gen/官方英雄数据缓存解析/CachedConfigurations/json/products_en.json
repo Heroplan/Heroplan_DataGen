@@ -2144,7 +2144,7 @@
         "id": "lottery_wilderness_default",
         "gemPrice": 400,
         "amount": 1,
-        "uiPriority": 134,
+        "uiPriority": 142,
         "associatedEvent": "WildernessSummon",
         "bonusChest": "wilderness_chest",
         "bonusChestRequirement": 10,
@@ -14115,7 +14115,6 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.triple3_hobgoblin_1",
         "dollarValue": 5,
-        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -14197,7 +14196,6 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.triple3_hobgoblin_3",
         "dollarValue": 100,
-        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -22075,7 +22073,6 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.selectable_limitbreak",
         "dollarValue": 10,
-        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -23096,7 +23093,6 @@
         "id": "com.smallgiantgames.empires.selectable_elemental_blue3",
         "dollarValue": 30,
         "zyngaStoreDollarValueOverride": 27,
-        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -23146,7 +23142,6 @@
         "id": "com.smallgiantgames.empires.selectable_elemental_green3",
         "dollarValue": 30,
         "zyngaStoreDollarValueOverride": 27,
-        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -23196,7 +23191,6 @@
         "id": "com.smallgiantgames.empires.selectable_elemental_purple3",
         "dollarValue": 30,
         "zyngaStoreDollarValueOverride": 27,
-        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -23246,7 +23240,6 @@
         "id": "com.smallgiantgames.empires.selectable_elemental_red3",
         "dollarValue": 30,
         "zyngaStoreDollarValueOverride": 27,
-        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -23296,7 +23289,6 @@
         "id": "com.smallgiantgames.empires.selectable_elemental_yellow3",
         "dollarValue": 30,
         "zyngaStoreDollarValueOverride": 27,
-        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -23631,7 +23623,6 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.triple3_hobgoblin_2b",
         "dollarValue": 30,
-        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -24682,7 +24673,6 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.superelemental_purple_calendar_1_tier1",
         "dollarValue": 5,
-        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -24701,7 +24691,6 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.superelemental_purple_calendar_1_tier2",
         "dollarValue": 30,
-        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -24720,7 +24709,6 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.superelemental_purple_calendar_2_tier1",
         "dollarValue": 4,
-        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -24757,7 +24745,6 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.superelemental_purple_calendar_3_tier1",
         "dollarValue": 10,
-        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -24777,7 +24764,6 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.superelemental_purple_calendar_3_tier2",
         "dollarValue": 100,
-        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -29030,7 +29016,6 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.superelemental_purple_calendar_2_tier2b",
         "dollarValue": 30,
-        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -35023,7 +35008,7 @@
         "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [],
-        "allianceGiftCustomContentId": "dynamic_alliancegift",
+        "allianceGiftCustomContentId": "dynamic2_alliancegift",
         "dynamicOfferProduct": true
       },
       {
@@ -35800,7 +35785,6 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.dragon_festival_1a",
         "dollarValue": 5,
-        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -35825,7 +35809,6 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.dragon_festival_1b",
         "dollarValue": 5,
-        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -35850,7 +35833,6 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.dragon_festival_2a",
         "dollarValue": 12,
-        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -35882,7 +35864,6 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.dragon_festival_2b",
         "dollarValue": 12,
-        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -35914,7 +35895,6 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.dragon_festival_3a",
         "dollarValue": 30,
-        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -35954,7 +35934,6 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.dragon_festival_3b",
         "dollarValue": 20,
-        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -56479,5 +56458,5 @@
       }
     ]
   },
-  "productsConfigId": 2367777572
+  "productsConfigId": 1781391829
 }

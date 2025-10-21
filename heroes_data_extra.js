@@ -40377,5 +40377,117 @@ window.allHeroesExtra = [
             "goblin_damage_and_accuracy_debuff_on_special"
         ],
         "family": "goblin"
+    },
+    {
+        "name": "Camilla costume1",
+        "fancy name": "Floral Tinkerer",
+        "element": "Blue",
+        "rarity": 5,
+        "class": "Druid",
+        "speed": "charge_magic",
+        "Release date": "2025-10-19",
+        "AetherPower": "Special Armor",
+        "skill_types": [
+            "Minions Counters",
+            "Buffers (DEF)",
+            "Debuffers (DEF)",
+            "Health Boosters",
+            "Max Health Reducers",
+            "Stacking Heroes",
+            "Mana Reducers or Blockers"
+        ],
+        "heroId": "magic_camilla_costume_flower",
+        "baseAttack": 405,
+        "baseDefense": 419,
+        "baseHealth": 725,
+        "specialId": "mechanical_augmentations",
+        "specialId_costume": "flower_arrangements",
+        "passiveSkills": [
+            "magic_mana_regen_stack_on_special_costume",
+            "magic_damage_on_full_charge_costume"
+        ],
+        "costumeBonusPassiveSkillIds": [
+            "reduce_big_minion_health"
+        ],
+        "attackBonus": "51%",
+        "defenseBonus": "51%",
+        "healthBonus": "51%",
+        "manaBonus": "1%",
+        "family": "magic"
+    },
+    {
+        "name": "Vernix",
+        "fancy name": "Snow Leopard Magus",
+        "element": "Blue",
+        "rarity": 5,
+        "class": "Wizard",
+        "speed": "fast",
+        "Release date": "2025-10-20",
+        "AetherPower": "Heal Increase",
+        "skill_types": [
+            "AoE Attackers (Hit-5)",
+            "Mana Reducers or Blockers",
+            "DoT Attackers"
+        ],
+        "heroId": "wild_cat_vernix",
+        "baseAttack": 660,
+        "baseDefense": 586,
+        "baseHealth": 1071,
+        "specialId": "iceshatter",
+        "passiveSkills": [
+            "resist_all_defense_effects",
+            "revive_chance_nine_lives"
+        ],
+        "family": "wild_cat"
+    },
+    {
+        "name": "Ferni",
+        "fancy name": "Adventurous Rainforest Cat",
+        "element": "Green",
+        "rarity": 3,
+        "class": "Rogue",
+        "speed": "average",
+        "Release date": "2025-10-20",
+        "AetherPower": "Special Boost",
+        "skill_types": [
+            "Snipers",
+            "DoT Attackers"
+        ],
+        "heroId": "wild_cat_ferni",
+        "baseAttack": 331,
+        "baseDefense": 295,
+        "baseHealth": 474,
+        "specialId": "lacerating_whip",
+        "passiveSkills": [
+            "resist_all_defense_effects",
+            "revive_chance_nine_lives"
+        ],
+        "family": "wild_cat"
+    },
+    {
+        "name": "Ragrim",
+        "fancy name": "Magic Carpet Botanist",
+        "element": "Green",
+        "rarity": 5,
+        "class": "Druid",
+        "speed": "average",
+        "Release date": "2025-10-19",
+        "AetherPower": "Defense Up",
+        "skill_types": [
+            "Fiends Counters",
+            "Healers",
+            "Ability Scores Modifiers",
+            "Status Effect Conversion"
+        ],
+        "heroId": "magic_carpet_ragrim",
+        "baseAttack": 615,
+        "baseDefense": 629,
+        "baseHealth": 1095,
+        "specialId": "herbal_remedies",
+        "passiveSkills": [
+            "reduce_big_minion_health",
+            "fly_magic_carpet"
+        ],
+        "family": "magic_carpet"
     }
 ];

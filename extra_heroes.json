@@ -1,49 +1,5 @@
 [
     {
-        "name": "Ragrim",
-        "fancy_name": "Magic Carpet Botanist",
-        "color": "Green",
-        "Release date": "",
-        "star": 5,
-        "family": "magic_carpet",
-        "costume_id": 0,
-        "heroId": "magic_carpet_ragrim",
-        "Lottery_Only":1
-    },
-    {
-        "name": "Camilla C1",
-        "fancy_name": "Floral Tinkerer",
-        "color": "Blue",
-        "Release date": "",
-        "star": 5,
-        "family": "magic",
-        "costume_id": 1,
-        "heroId": "magic_camilla_costume_flower",
-        "Lottery_Only":1
-    },
-    {
-        "name": "Vernix",
-        "fancy_name": "Snow Leopard Magus",
-        "color": "Blue",
-        "Release date": "",
-        "star": 5,
-        "family": "wild_cat",
-        "costume_id": 0,
-        "heroId": "wild_cat_vernix",
-        "Lottery_Only":1
-    },
-    {
-        "name": "Ferni",
-        "fancy_name": "Adventurous Rainforest Cat",
-        "color": "Green",
-        "Release date": "",
-        "star": 3,
-        "family": "wild_cat",
-        "costume_id": 0,
-        "heroId": "wild_cat_ferni",
-        "Lottery_Only":1
-    },
-    {
         "name": "Tethys C",
         "fancy_name": "Avenger of All Rivers",
         "color": "Blue",

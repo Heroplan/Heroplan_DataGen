@@ -1,4 +1,4 @@
-✅ 成功匹配的服装 (472 / 0)
+✅ 成功匹配的服装 (473 / 0)
 ================================
 Name: Berden Costume1, Fancy Name: Adroit Archer
 Name: Hannah Costume1, Fancy Name: Adventurous Drover
@@ -136,6 +136,7 @@ Name: Jasper Costume1, Fancy Name: Fisherman Bull
 Name: Mulgog Costume1, Fancy Name: Fishman Bard
 Name: Lasalle Costume1, Fancy Name: Flamboyant Jockey of Atlantis
 Name: Ignazio Costume1, Fancy Name: Flame Surgeon
+Name: Camilla costume1, Fancy Name: Floral Tinkerer
 Name: Diaochan Costume1, Fancy Name: Flower Beauty
 Name: Faiez Costume1, Fancy Name: Fortuitous Miner
 Name: Aegir Costume1, Fancy Name: Frozen Farmer

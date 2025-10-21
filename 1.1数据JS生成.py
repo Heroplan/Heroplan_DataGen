@@ -109,7 +109,7 @@ HEROES_DATA_EXTRA_CN_FILE = 'heroes_data_extra_skill_cn.json'
 OUTPUT_JS_FILE_CN = 'heroes_data_cn.js'
 OUTPUT_JS_FILE_TC = 'heroes_data_tc.js'
 OUTPUT_JS_FILE_EN = 'heroes_data_en.js'
-HERO_STATS_FILE = '../突破数据爬取/hero_stats.json'
+HERO_STATS_FILE = '突破数据爬取/hero_stats.json'
 EXTRA_HEROES_JSON_FILE = 'extra_heroes.json'
 
 
@@ -873,7 +873,7 @@ def generate_js_data_with_translation(heroes_base_dir, output_path_cn, output_pa
         logging.warning("\n--- 以下YML英雄未在 hero_stats.json 中匹配到属性 ---")
         for name in sorted(unmatched_yml_heroes):
             logging.warning(f"- {name} (规范化查询名称: {normalize_for_hero_name(strip_ignorable_suffix(name))})")
-        append_unmatched_heroes_to_name_json(unmatched_yml_heroes, '../突破数据爬取/name.json')
+        append_unmatched_heroes_to_name_json(unmatched_yml_heroes, '突破数据爬取/name.json')
 
     if unmatched_stats_keys:
         logging.warning("\n--- 以下 hero_stats.json 中的条目未被使用 ---")
