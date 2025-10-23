@@ -716,7 +716,8 @@
           57,
           3,
           10
-        ]
+        ],
+        "hasMysteryHeroBonusRoll": true
       },
       {
         "productType": "PickupSummon",
@@ -3988,7 +3989,7 @@
         "id": "lottery_season_atlantis",
         "gemPrice": 350,
         "amount": 1,
-        "uiPriority": 30,
+        "uiPriority": 135,
         "bonusChest": "atlantis_ascension",
         "bonusChestRequirement": 10,
         "bonusChestLimit": 9,
@@ -18743,12 +18744,12 @@
           },
           {
             "type": "Item",
-            "id": "battle_time_stop",
+            "id": "misc_loot_ticket",
             "amount": 5
           },
           {
             "type": "Item",
-            "id": "battle_true_healing_potion",
+            "id": "titan_battle_scroll_of_alteration",
             "amount": 5
           }
         ]
@@ -20342,7 +20343,6 @@
         "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [],
-        "allianceGiftCustomContentId": "dynamic2_alliancegift",
         "dynamicOfferProduct": true
       },
       {
@@ -21654,6 +21654,7 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.valentines2022_day1",
         "dollarValue": 5,
+        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -21675,6 +21676,7 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.valentines2022_day2",
         "dollarValue": 10,
+        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -21683,13 +21685,14 @@
           },
           {
             "type": "Item",
-            "id": "lottery_challenge_coin",
-            "amount": 10
+            "id": "lottery_covenant_coin",
+            "amount": 150,
+            "zyngaStoreExtraAmount": 50
           },
           {
             "type": "Item",
-            "id": "lottery_costume_key",
-            "amount": 10
+            "id": "lottery_elite_hero",
+            "amount": 2
           }
         ],
         "allianceGiftCustomContentId": "valentines2022_alliancemember_gift_2"
@@ -21698,18 +21701,38 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.valentines2022_day3",
         "dollarValue": 20,
+        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
             "type": "Item",
-            "id": "lottery_item_ascension",
-            "amount": 80
+            "id": "lottery_covenant_coin",
+            "amount": 500,
+            "zyngaStoreExtraAmount": 100
           },
           {
             "type": "Item",
-            "id": "lottery_costume_key",
-            "amount": 40,
-            "zyngaStoreExtraAmount": 5
+            "id": "lottery_shadow_coin",
+            "amount": 500,
+            "zyngaStoreExtraAmount": 100
+          },
+          {
+            "type": "Item",
+            "id": "lottery_super_elemental_coin",
+            "amount": 500,
+            "zyngaStoreExtraAmount": 100
+          },
+          {
+            "type": "Item",
+            "id": "lottery_elite_hero",
+            "amount": 5,
+            "zyngaStoreExtraAmount": 1
+          },
+          {
+            "type": "Item",
+            "id": "lottery_elite_troop",
+            "amount": 5,
+            "zyngaStoreExtraAmount": 1
           }
         ],
         "allianceGiftCustomContentId": "valentines2022_alliancemember_gift_3"
@@ -21718,6 +21741,7 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.valentines2022_day4",
         "dollarValue": 5,
+        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -21739,13 +21763,13 @@
           },
           {
             "type": "Item",
-            "id": "titan_battle_scroll_of_alteration",
-            "amount": 5
+            "id": "relic_harvester_generic",
+            "amount": 1
           },
           {
             "type": "Item",
-            "id": "titan_battle_hurricane",
-            "amount": 5
+            "id": "relic_harvester_crafting",
+            "amount": 1
           }
         ],
         "allianceGiftCustomContentId": "valentines2022_alliancemember_gift_4"
@@ -21754,16 +21778,17 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.valentines2022_day5",
         "dollarValue": 10,
+        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
             "type": "Item",
-            "id": "lottery_shadow_coin",
+            "id": "lottery_mercenary_war_coin",
             "amount": 100
           },
           {
             "type": "Item",
-            "id": "lottery_tower_coin",
+            "id": "lottery_covenant_coin",
             "amount": 100
           },
           {
@@ -21778,8 +21803,8 @@
           },
           {
             "type": "Item",
-            "id": "lottery_covenant_coin",
-            "amount": 100
+            "id": "lottery_challenge_coin",
+            "amount": 10
           },
           {
             "type": "Item",
@@ -21798,12 +21823,12 @@
           },
           {
             "type": "Item",
-            "id": "lottery_goblin_coin",
+            "id": "lottery_shadow_coin",
             "amount": 100
           },
           {
             "type": "Item",
-            "id": "lottery_hotm_coin",
+            "id": "lottery_tower_coin",
             "amount": 100
           }
         ],
@@ -21813,12 +21838,13 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.valentines2022_day6",
         "dollarValue": 5,
+        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
             "type": "Gem",
             "amount": 600,
-            "zyngaStoreExtraAmount": 100
+            "zyngaStoreExtraAmount": 50
           }
         ],
         "allianceGiftCustomContentId": "valentines2022_alliancemember_gift_6"
@@ -22073,6 +22099,7 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.selectable_limitbreak",
         "dollarValue": 10,
+        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -25468,7 +25495,6 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.luxury_dunes_1",
         "dollarValue": 100,
-        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -35045,7 +35071,7 @@
         "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [],
-        "allianceGiftCustomContentId": "",
+        "allianceGiftCustomContentId": "dynamic_alliancegift",
         "dynamicOfferProduct": true
       },
       {
@@ -53874,6 +53900,33 @@
         ]
       },
       {
+        "productType": "Offer",
+        "id": "com.smallgiantgames.empires.mds_300instantpower",
+        "zyngaStoreProduct": true,
+        "contents": [
+          {
+            "type": "Item",
+            "id": "lottery_ascension_coin",
+            "amount": 300
+          },
+          {
+            "type": "Item",
+            "id": "misc_loot_ticket",
+            "amount": 30
+          },
+          {
+            "type": "Item",
+            "id": "refill_energy_pve_full",
+            "amount": 3
+          },
+          {
+            "type": "Item",
+            "id": "relic_harvester_generic",
+            "amount": 1
+          }
+        ]
+      },
+      {
         "productType": "AllianceEventSummon",
         "id": "lottery_featured_alliance_quest_castle_ad",
         "sourceProductId": "lottery_featured_alliance_quest_castle",
@@ -54150,7 +54203,7 @@
         "id": "lottery_astralelves_default",
         "gemPrice": 400,
         "amount": 1,
-        "uiPriority": 137,
+        "uiPriority": 143,
         "associatedEvent": "AstralElves",
         "bucketWeights": [
           568,
@@ -54282,6 +54335,7 @@
           19,
           6
         ],
+        "hasMysteryHeroBonusRoll": true,
         "featuredHeroes": [
           "fleur_guillemette",
           "fleur_elyzabel",
@@ -56458,5 +56512,5 @@
       }
     ]
   },
-  "productsConfigId": 1781391829
+  "productsConfigId": 2351874523
 }

@@ -27340,5 +27340,77 @@
             "Defense": 1488,
             "Life": 2720
         }
+    },
+    "Agharoth": {
+        "base": {
+            "Attack": 491,
+            "Defense": 543,
+            "Life": 990,
+            "Power": 527
+        },
+        "lb1": {
+            "Attack": 557,
+            "Defense": 616,
+            "Life": 1122
+        },
+        "lb2": {
+            "Attack": 688,
+            "Defense": 761,
+            "Life": 1387
+        }
+    },
+    "Paimon": {
+        "base": {
+            "Attack": 1291,
+            "Defense": 1266,
+            "Life": 2263,
+            "Power": 1248
+        },
+        "lb1": {
+            "Attack": 1391,
+            "Defense": 1365,
+            "Life": 2439
+        },
+        "lb2": {
+            "Attack": 1592,
+            "Defense": 1562,
+            "Life": 2791
+        }
+    },
+    "Xshahr": {
+        "base": {
+            "Attack": 1322,
+            "Defense": 1233,
+            "Life": 2255,
+            "Power": 1248
+        },
+        "lb1": {
+            "Attack": 1425,
+            "Defense": 1329,
+            "Life": 2430
+        },
+        "lb2": {
+            "Attack": 1630,
+            "Defense": 1521,
+            "Life": 2781
+        }
+    },
+    "Mael": {
+        "base": {
+            "Attack": 811,
+            "Defense": 765,
+            "Life": 1423,
+            "Power": 782
+        },
+        "lb1": {
+            "Attack": 882,
+            "Defense": 831,
+            "Life": 1547
+        },
+        "lb2": {
+            "Attack": 1022,
+            "Defense": 963,
+            "Life": 1793
+        }
     }
 }

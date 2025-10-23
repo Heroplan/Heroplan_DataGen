@@ -40489,5 +40489,115 @@ window.allHeroesExtra = [
             "fly_magic_carpet"
         ],
         "family": "magic_carpet"
+    },
+    {
+        "name": "Agharoth",
+        "fancy name": "Astral Demon Gatekeeper",
+        "element": "Blue",
+        "rarity": 3,
+        "class": "Paladin",
+        "speed": "very_slow",
+        "Release date": "2025-10-23",
+        "AetherPower": "Boosted Regen",
+        "skill_types": [
+            "Bypassers",
+            "Taunters",
+            "Debuffers (ATK)",
+            "Debuffers (DEF)",
+            "Mana Reducers or Blockers"
+        ],
+        "heroId": "astral_demon_agharoth",
+        "baseAttack": 283,
+        "baseDefense": 313,
+        "baseHealth": 570,
+        "specialId": "astral_provocation",
+        "passiveSkills": [
+            "never_miss_special",
+            "resist_all_mana_debuffs"
+        ],
+        "family": "astral_demons"
+    },
+    {
+        "name": "Xshahr",
+        "fancy name": "Astral Demon Warlord",
+        "element": "Green",
+        "rarity": 5,
+        "class": "Barbarian",
+        "speed": "fast",
+        "Release date": "2025-10-23",
+        "AetherPower": "Attack Up",
+        "skill_types": [
+            "Bypassers",
+            "Snipers",
+            "Healers (Special)",
+            "Health Boosters",
+            "Chain & Random Attackers",
+            "DoT Attackers",
+            "Extra Damage Dealers"
+        ],
+        "heroId": "astral_demon_xshahr",
+        "baseAttack": 642,
+        "baseDefense": 599,
+        "baseHealth": 1095,
+        "specialId": "lance_of_torment",
+        "passiveSkills": [
+            "never_miss_special",
+            "resist_all_mana_debuffs"
+        ],
+        "family": "astral_demons"
+    },
+    {
+        "name": "Paimon",
+        "fancy name": "Astral Demon Lawmaker",
+        "element": "Purple",
+        "rarity": 5,
+        "class": "Sorcerer",
+        "speed": "average",
+        "Release date": "2025-10-23",
+        "AetherPower": "Attack Up",
+        "skill_types": [
+            "Bypassers",
+            "Dispellers",
+            "AoE Attackers (Hit-3)",
+            "Debuffers (ATK)",
+            "Extra Damage Dealers"
+        ],
+        "heroId": "astral_demon_paimon",
+        "baseAttack": 627,
+        "baseDefense": 615,
+        "baseHealth": 1099,
+        "specialId": "blinding_injustice",
+        "passiveSkills": [
+            "never_miss_special",
+            "resist_all_mana_debuffs"
+        ],
+        "family": "astral_demons"
+    },
+    {
+        "name": "Mael",
+        "fancy name": "Astral Demon Pursuer",
+        "element": "Red",
+        "rarity": 4,
+        "class": "Rogue",
+        "speed": "fast",
+        "Release date": "2025-10-23",
+        "AetherPower": "Dodge",
+        "skill_types": [
+            "Bypassers",
+            "Snipers",
+            "Chain & Random Attackers",
+            "DoT Attackers",
+            "Extra Damage Dealers"
+        ],
+        "heroId": "astral_demon_mael",
+        "baseAttack": 382,
+        "baseDefense": 360,
+        "baseHealth": 670,
+        "specialId": "sparking_star_slash",
+        "passiveSkills": [
+            "never_miss_special",
+            "resist_all_mana_debuffs"
+        ],
+        "family": "astral_demons"
     }
 ];

@@ -911,5 +911,7 @@
   "Hit Random 1 on Ally SS": "盟友特殊技能时攻击随机单个目标",
   "Deep Sleep on Hit": "命中时深度睡眠",
   "Firestorm Ward All": "全体焰暴守卫",
-  "Revive Buff Block 3": "封锁3个目标复活效果"
+  "Revive Buff Block 3": "封锁3个目标复活效果",
+  "Resonance DoT 1": "共振持续伤害 (单体)",
+  "Hit Random 1 if Boosted Health": "若生命值加成则攻击随机单个目标"
 }

@@ -22,28 +22,6 @@
         "Lottery_Only":1
     },
     {
-        "name": "Paimon",
-        "fancy_name": "Astral Demon Lawmaker",
-        "color": "Purple",
-        "Release date": "",
-        "star": 5,
-        "family": "astral_demons",
-        "costume_id": 0,
-        "heroId": "astral_demon_paimon",
-        "Lottery_Only":1
-    },
-    {
-        "name": "Xshahr",
-        "fancy_name": "Astral Demon Warlord",
-        "color": "Green",
-        "Release date": "",
-        "star": 5,
-        "family": "astral_demons",
-        "costume_id": 0,
-        "heroId": "astral_demon_xshahr",
-        "Lottery_Only":1
-    },
-    {
         "name": "Emilie",
         "fancy_name": "Liminal Realm Explorer",
         "color": "Blue",
@@ -74,6 +52,50 @@
         "family": "slime",
         "costume_id": 0,
         "heroId": "slime_harubo",
+        "Lottery_Only":1
+    },
+    {
+        "name": "Wu Yong",
+        "fancy_name": "Knowledge Star of Water Margin",
+        "color": "Yellow",
+        "Release date": "",
+        "star": 5,
+        "family": "outlaw",
+        "costume_id": 0,
+        "heroId": "outlaw_wu_yong",
+        "Lottery_Only":1
+    },
+    {
+        "name": "Cristobal C1",
+        "fancy_name": "Enchantments Professor",
+        "color": "Green",
+        "Release date": "",
+        "star": 5,
+        "family": "magic",
+        "costume_id": 1,
+        "heroId": "magic_cristobal_costume_emerald",
+        "Lottery_Only":1
+    },
+    {
+        "name": "Anatemah",
+        "fancy_name": "Astral Demon Empress",
+        "color": "Blue",
+        "Release date": "",
+        "star": 5,
+        "family": "astral_demons",
+        "costume_id": 0,
+        "heroId": "astral_demon_anatemah",
+        "Lottery_Only":1
+    },
+    {
+        "name": "Shareef",
+        "fancy_name": "Unstoppable Wizard",
+        "color": "Yellow",
+        "Release date": "",
+        "star": 5,
+        "family": "magic_carpet",
+        "costume_id": 0,
+        "heroId": "magic_carpet_shareef",
         "Lottery_Only":1
     }
 ]

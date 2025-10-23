@@ -54365,7 +54365,7 @@
         "statusEffect": "BouncingDamageOverTime",
         "id": "bouncing_damage_over_time_mael",
         "buff": "MinorDebuff",
-        "damageMultiplierPerMil": 200,
+        "damageMultiplierPerMil": 120,
         "damageMultiplierIncrementPerLevelPerMil": 5,
         "maxBounces": 3,
         "bounceTargetType": "All",
@@ -54375,7 +54375,7 @@
         "statusEffect": "BouncingDamageOverTime",
         "id": "bouncing_damage_over_time_xshahr",
         "buff": "MinorDebuff",
-        "damageMultiplierPerMil": 290,
+        "damageMultiplierPerMil": 180,
         "damageMultiplierIncrementPerLevelPerMil": 5,
         "maxBounces": 3,
         "bounceTargetType": "All",
@@ -80757,5 +80757,5 @@
       "SharedDamage"
     ]
   },
-  "battleConfigId": 1945286137
+  "battleConfigId": 84023112
 }

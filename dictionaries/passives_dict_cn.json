@@ -1,4 +1,6 @@
 {
+    "^Resist\\s+Mana\\s+Ailments:\\s+This\\s+character\\s+is\\s+immune\\s+to\\s+status\\s+ailments\\s+and\\s+negative\\s+stacks\\s+that\\s+affect\\s+mana\\s+generation\\.?\\s*\\s+Applies\\s+also\\s+to\\s+status\\s+ailments\\s+that\\s+block\\s+mana\\s+or\\s+steal\\s+mana\\.?\\s*$": "抵抗法力异常：此角色免疫影响法力生成的状态异常和负面效果叠加，包括禁用法力或偷取法力的状态异常。",
+    "^Perfect\\s+Accuracy:\\s+This\\s+character['’]?s\\s+Special\\s+Skill\\s+never\\s+misses\\s+its\\s+targets\\.?\\s*$": "完美精准度：该角色的特殊技能必定命中目标。",
     "^Flight\\s+Momentum:\\s+If\\s+this\\s+character\\s+has\\s+any\\s+amount\\s+of\\s+Flight\\s+Momentum,\\s+they\\s+receive:$": "飞行动量：如果该角色拥有任意数量的飞行动量，其将获得：",
     "^\\*\\s+Up\\s+to\\s+([+-]?\\s*\\d+\\s*%?)\\s+mana\\s+generation\\.?\\s*$": "* 最多 \\1 的法力生成。",
     "^\\*\\s+Up\\s+to\\s+([+-]?\\s*\\d+\\s*%?)\\s+chance\\s+to\\s+dodge\\.?\\s*$": "* 最多 \\1 的闪避几率。",
@@ -67,7 +69,6 @@
     "^Resist\\s+Special\\s+Skill\\s+Blocking:\\s+This\\s+character\\s+has\\s+innate\\s+resistance\\s+against\\s+status\\s+ailments\\s+that\\s+block\\s+Special\\s+Skills\\.?\\s*$": "抵抗特殊技能格挡：该角色天生对格挡特殊技能的状态异常有抵抗能力。",
     "^Resist\\s+Water\\s+Damage:\\s+This\\s+character\\s+has\\s+innate\\s+resistance\\s+against\\s+Water\\s+damage\\.?\\s*$": "抵抗水系伤害：该角色天生对水系伤害有抵抗能力。",
     "^Health\\s+Recovery\\s+on\\s+Buff\\s+Received:\\s+This\\s+character\\s+recovers([+-]?\\s*\\d+\\s*%?)\\s+health\\s+when\\s+they\\s+receive\\s+a\\s+buff\\s+or\\s+a\\s+positive\\s+stack\\.?\\s*$": "受到增益时恢复生命：该角色在获得增益或正面效果叠加时恢复\\1 的生命值。",
-    "^Perfect\\s+Accuracy:\\s+This\\s+character['’]?s\\s+Special\\s+Skill\\s+never\\s+misses\\s+its\\s+targets\\.?\\s*$": "完美精准度：该角色的特殊技能必定命中目标。",
     "^Mimic\\s+Loot:\\s+This\\s+Mimic\\s+gives\\s+a\\s+chance\\s+for\\s+extra\\s+loot\\s+when\\s+completing\\s+stages$": "拟态兽战利品：该拟态兽在完成关卡时有几率获得额外战利品。",
     "^\\*\\s+Tall\\s+Boots$": "* 高筒靴。",
     "^\\*\\s+Fine\\s+Gloves$": "* 精致手套。",

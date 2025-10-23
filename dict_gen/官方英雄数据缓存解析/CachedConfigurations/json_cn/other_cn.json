@@ -2703,56 +2703,6 @@
         ],
         "challengeEventEntries": [
           {
-            "id": "RecurringBeowulf",
-            "type": "Challenge",
-            "eventBundle": "bundle_challenge_1",
-            "eventOffer": "eventoffer_double_calendar",
-            "eventEndingOffer": "",
-            "manuallyOverwritten": true,
-            "advertisedHero": "beowulf_grendels_mother",
-            "featuredHeroes": [
-              "格伦德尔之母",
-              "恶怨妖灵",
-              "莫德瑞丝"
-            ],
-            "eventBonus": "event_hero_bonus_challenge_events",
-            "startTime": "2025-07-13 07:00:00",
-            "endTime": "2025-07-17 07:00:00"
-          },
-          {
-            "id": "RecurringFestivalB",
-            "type": "Challenge",
-            "eventBundle": "bundle_challenge_1",
-            "eventOffer": "eventoffer_double_calendar",
-            "eventEndingOffer": "",
-            "manuallyOverwritten": true,
-            "advertisedHero": "bard_merith",
-            "featuredHeroes": [
-              "梅里斯",
-              "朱利主管-小丑大师",
-              "埃奥拉与毛毛-黑暗双人组"
-            ],
-            "eventBonus": "event_hero_bonus_challenge_events",
-            "startTime": "2025-08-08 07:00:00",
-            "endTime": "2025-08-12 07:00:00"
-          },
-          {
-            "id": "RecurringBeowulf",
-            "type": "Challenge",
-            "eventBundle": "bundle_challenge_1",
-            "eventOffer": "eventoffer_double_calendar",
-            "eventEndingOffer": "",
-            "advertisedHero": "beowulf_freawaru",
-            "featuredHeroes": [
-              "弗蕾亚瓦鲁",
-              "格伦德尔之母",
-              "赫罗斯加"
-            ],
-            "eventBonus": "event_hero_bonus_challenge_events",
-            "startTime": "2025-09-05 07:00:00",
-            "endTime": "2025-09-09 07:00:00"
-          },
-          {
             "id": "RecurringFestivalB",
             "type": "Challenge",
             "eventBundle": "bundle_challenge_1",
@@ -2767,6 +2717,38 @@
             "eventBonus": "event_hero_bonus_challenge_events",
             "startTime": "2025-10-06 07:00:00",
             "endTime": "2025-10-10 07:00:00"
+          },
+          {
+            "id": "RecurringBeowulf",
+            "type": "Challenge",
+            "eventBundle": "bundle_challenge_1",
+            "eventOffer": "eventoffer_double_calendar",
+            "eventEndingOffer": "",
+            "advertisedHero": "beowulf_beowulf",
+            "featuredHeroes": [
+              "贝奥武夫",
+              "赫罗斯加",
+              "韦尔霍夫"
+            ],
+            "eventBonus": "event_hero_bonus_challenge_events",
+            "startTime": "2025-11-08 07:00:00",
+            "endTime": "2025-11-12 07:00:00"
+          },
+          {
+            "id": "RecurringBeowulf",
+            "type": "Challenge",
+            "eventBundle": "bundle_challenge_1",
+            "eventOffer": "eventoffer_double_calendar",
+            "eventEndingOffer": "",
+            "advertisedHero": "beowulf_beowulf",
+            "featuredHeroes": [
+              "贝奥武夫",
+              "赫罗斯加",
+              "韦尔霍夫"
+            ],
+            "eventBonus": "event_hero_bonus_challenge_events",
+            "startTime": "2025-11-27 07:00:00",
+            "endTime": "2025-12-01 07:00:00"
           }
         ],
         "allianceQuestEventEntries": [
@@ -3016,7 +2998,8 @@
               "eventOffer": "eventoffer_double_calendar",
               "eventEndingOffer": "",
               "eventBundle": "bundle_challenge_1",
-              "eventBonus": "event_hero_bonus_challenge_events"
+              "eventBonus": "event_hero_bonus_challenge_events",
+              "skipped": true
             },
             {
               "id": "RecurringFestival",
@@ -3660,14 +3643,15 @@
               "eventBundle": "",
               "eventOffer": "com.smallgiantgames.empires.toweroffer",
               "eventEndingOffer": "",
+              "manuallyOverwritten": true,
               "advertisedHero": "magic_carpet_lando",
               "featuredHeroes": [
                 "兰度",
                 "纳德兹达-高塔信使长",
                 "纳伊姆"
               ],
-              "startTime": "2025-11-19 07:00:00",
-              "endTime": "2025-11-24 07:00:00"
+              "startTime": "2025-11-03 07:00:00",
+              "endTime": "2025-11-08 07:00:00"
             }
           ],
           "scheduleConfig": {
@@ -81258,5 +81242,5 @@
     "criticalOperationPendingDelaySeconds": 3,
     "allowedCriticalOperationPendingCount": 3
   },
-  "otherConfigId": 3076837839
+  "otherConfigId": 817537443
 }

@@ -50158,7 +50158,7 @@
         },
         "maxLevel": 8,
         "properties": [
-          "boosted_health_xshahr"
+          "health_boost_self_on_damage_xshahr"
         ],
         "statusEffects": [
           {
@@ -61504,6 +61504,14 @@
         "sideAffected": "Allies"
       },
       {
+        "propertyType": "HealthSteal",
+        "id": "health_boost_self_on_damage_xshahr",
+        "sharedHealthPerMil": 400,
+        "isHealthBoost": true,
+        "targetType": "Single",
+        "sideAffected": "Allies"
+      },
+      {
         "propertyType": "ReduceMaxHealth",
         "id": "reduce_max_health_all_tunes",
         "reduction": 150,
@@ -61525,5 +61533,5 @@
       }
     ]
   },
-  "specialsConfigId": 3076655326
+  "specialsConfigId": 3982456884
 }
