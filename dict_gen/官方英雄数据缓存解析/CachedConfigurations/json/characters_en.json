@@ -22209,7 +22209,7 @@
     ],
     "rarity": 5,
     "specialId": "emerald_dual_blade",
-    "canBeReceivedDate": "2200-01-01 07:00:00",
+    "canBeReceivedDate": "2025-11-03 07:00:00",
     "origin": "Tower of Magic",
     "parentHeroId": "magic_cristobal"
   },
@@ -28082,7 +28082,7 @@
       "revive_chance_nine_lives"
     ],
     "classType": "Rogue",
-    "aetherGift": "Ailment Immunity",
+    "aetherGift": "Attack Up",
     "rarity": 5,
     "specialId": "blade_of_horrid_affliction",
     "canBeReceivedDate": "2200-01-01 07:00:00",
@@ -28659,9 +28659,9 @@
     "id": "Knowledge Star of Water Margin",
     "element": "Yellow",
     "family": "outlaw",
-    "baseHealth": 1166,
-    "baseAttack": 572,
-    "baseDefense": 611,
+    "baseHealth": 1099,
+    "baseAttack": 610,
+    "baseDefense": 639,
     "manaSpeedId": "slow",
     "passiveSkills": [
       "resist_bleed",
@@ -28672,7 +28672,7 @@
     "aetherGift": "Ailment Immunity",
     "rarity": 5,
     "specialId": "clever_stratagem",
-    "canBeReceivedDate": "2200-01-01 07:00:00",
+    "canBeReceivedDate": "2025-10-28 07:00:00",
     "origin": "KingdomWar"
   },
   "outlaw_sun_erniang": {
@@ -29243,9 +29243,9 @@
     "id": "Patrolling Slime",
     "element": "Yellow",
     "family": "slime",
-    "baseHealth": 513,
-    "baseAttack": 306,
-    "baseDefense": 284,
+    "baseHealth": 540,
+    "baseAttack": 315,
+    "baseDefense": 293,
     "manaSpeedId": "average",
     "passiveSkills": [
       "summon_slime_minion_on_damage_yellow",
@@ -29764,9 +29764,9 @@
     "id": "Curious Scientist Slime",
     "element": "Yellow",
     "family": "slime",
-    "baseHealth": 1000,
-    "baseAttack": 550,
-    "baseDefense": 600,
+    "baseHealth": 1099,
+    "baseAttack": 609,
+    "baseDefense": 639,
     "manaSpeedId": "average",
     "passiveSkills": [
       "summon_slime_minion_on_damage_red",
@@ -30081,10 +30081,10 @@
     "manaSpeedId": "average",
     "passiveSkills": [
       "minion_core",
-      "hp_on_own_familiar_death_construct"
+      "resist_special_blocking_with_health_boost_and_mana"
     ],
     "classType": "Fighter",
-    "aetherGift": "Ailment Defense",
+    "aetherGift": "Attack Up",
     "rarity": 3,
     "specialId": "squire_strike",
     "canBeReceivedDate": "2200-01-01 07:00:00",
@@ -30122,7 +30122,7 @@
       "hp_on_own_familiar_death_construct"
     ],
     "classType": "Paladin",
-    "aetherGift": "Special Armor",
+    "aetherGift": "Taunt",
     "rarity": 5,
     "specialId": "soul_guardian",
     "canBeReceivedDate": "2200-01-01 07:00:00",
@@ -30138,10 +30138,10 @@
     "manaSpeedId": "average",
     "passiveSkills": [
       "minion_core",
-      "mana_on_own_familiar_death_construct"
+      "resist_special_blocking_with_health_boost_and_mana"
     ],
     "classType": "Barbarian",
-    "aetherGift": "Rage",
+    "aetherGift": "Counterattack",
     "rarity": 4,
     "specialId": "burning_spin",
     "canBeReceivedDate": "2200-01-01 07:00:00",
@@ -30282,9 +30282,9 @@
     "id": "The Flock Father",
     "element": "Purple",
     "family": "hotm2025",
-    "baseHealth": 910,
-    "baseAttack": 543,
-    "baseDefense": 514,
+    "baseHealth": 1013,
+    "baseAttack": 577,
+    "baseDefense": 549,
     "manaSpeedId": "average",
     "passiveSkills": [
       "resist_special_blocking",
@@ -30718,9 +30718,9 @@
     "id": "Astral Demon Empress",
     "element": "Blue",
     "family": "astral_demons",
-    "baseHealth": 1136,
-    "baseAttack": 567,
-    "baseDefense": 635,
+    "baseHealth": 1099,
+    "baseAttack": 593,
+    "baseDefense": 661,
     "manaSpeedId": "slow",
     "passiveSkills": [
       "never_miss_special",
@@ -30730,7 +30730,7 @@
     "aetherGift": "Defense Up",
     "rarity": 5,
     "specialId": "astral_orb",
-    "canBeReceivedDate": "2200-01-01 07:00:00",
+    "canBeReceivedDate": "2025-11-02 07:00:00",
     "origin": "Astral Plane"
   },
   "astral_demon_mael": {
@@ -31090,7 +31090,7 @@
     "aetherGift": "Defense Up",
     "rarity": 5,
     "specialId": "skyfall_crumble",
-    "canBeReceivedDate": "2200-01-01 07:00:00",
+    "canBeReceivedDate": "2025-11-03 07:00:00",
     "origin": "Tower of Magic"
   }
 }

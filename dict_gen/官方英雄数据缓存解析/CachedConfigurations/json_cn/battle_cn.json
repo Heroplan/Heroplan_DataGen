@@ -45605,7 +45605,7 @@
         "statusEffect": "Poison",
         "id": "poison_marnes",
         "buff": "MinorDebuff",
-        "damageMultiplierPerMil": 50,
+        "damageMultiplierPerMil": 60,
         "damageMultiplierIncrementPerLevelPerMil": 5
       },
       {
@@ -51082,12 +51082,12 @@
         "buff": "MinorDebuff",
         "damageMultiplierPerMil": 0,
         "damageMultiplierIncrementPerLevelPerMil": 0,
-        "fixedDamagePerTurn": 180,
+        "fixedDamagePerTurn": 230,
         "fixedDamagePerTurnIncrementPerLevel": 10,
         "extraDamagePerTurnPerMil": 0,
         "maxExtraDamagePerTurnPerMil": 0,
         "fixedExtraDamagePerTurn": 50,
-        "maxFixedExtraDamagePerTurn": 150
+        "maxFixedExtraDamagePerTurn": 300
       },
       {
         "statusEffect": "BloodPoisoning",
@@ -52932,14 +52932,14 @@
         "statusEffect": "ReceivedDamageModifier",
         "id": "received_damage_reduction_halwinter",
         "buff": "MinorBuff",
-        "receivedDamageMultiplierPerMil": 760,
+        "receivedDamageMultiplierPerMil": 640,
         "receivedDamageMultiplierIncrementPerLevelPerMil": 236
       },
       {
         "statusEffect": "CounterAttack",
         "id": "counter_attack_random_enemy_halwinter",
         "buff": "MinorBuff",
-        "damageDeflectionPerMil": 660,
+        "damageDeflectionPerMil": 1060,
         "damageDeflectionPerLevelPerMil": 20,
         "counterAttackTarget": "RandomEnemy"
       },
@@ -54387,7 +54387,7 @@
         "buff": "MinorDebuff",
         "damageMultiplierPerMil": 0,
         "damageMultiplierIncrementPerLevelPerMil": 0,
-        "fixedDamagePerTurn": 200,
+        "fixedDamagePerTurn": 560,
         "fixedDamagePerTurnIncrementPerLevel": 20,
         "maxBounces": 5,
         "bounceTargetType": "All",
@@ -54484,6 +54484,36 @@
         "buff": "MinorDebuff",
         "manaGenerationMultiplierPerMil": 630,
         "manaGenerationMultiplierIncrementPerLevelPerMil": 246
+      },
+      {
+        "statusEffect": "BurnOnCounterAttack",
+        "id": "burn_on_counterattack_hotspin",
+        "buff": "MinorBuff",
+        "iconOverrideStatusEffectId": "counterattack_burn_nithgaest",
+        "statusEffectsToAddOnCounterAttack": [
+          {
+            "id": "burn_hotspin",
+            "sideAffected": "Enemies",
+            "statusTargetType": "Single",
+            "turns": 4
+          }
+        ]
+      },
+      {
+        "statusEffect": "Burn",
+        "id": "burn_hotspin",
+        "buff": "MinorDebuff",
+        "iconOverrideStatusEffectId": "burn",
+        "damageMultiplierPerMil": 50,
+        "damageMultiplierIncrementPerLevelPerMil": 10
+      },
+      {
+        "statusEffect": "CounterAttack",
+        "id": "counterattack_hotspin",
+        "buff": "MinorBuff",
+        "iconOverrideStatusEffectId": "counter_attack",
+        "damageDeflectionPerMil": 860,
+        "damageDeflectionPerLevelPerMil": 20
       }
     ],
     "tileEnhancements": [
@@ -63632,7 +63662,7 @@
             "id": "damage_eldwren"
           }
         ],
-        "healthPerMil": 350
+        "healthPerMil": 550
       },
       {
         "familiarType": "Parasite",
@@ -67013,7 +67043,7 @@
           "Turn"
         ],
         "sideAffected": "Allies",
-        "attackPercentPerMil": 350,
+        "attackPercentPerMil": 480,
         "attackPercentIncrementPerLevelPerMil": 10,
         "monsterAttackPercentPerMil": 50
       },
@@ -80757,5 +80787,5 @@
       "SharedDamage"
     ]
   },
-  "battleConfigId": 84023112
+  "battleConfigId": 995924103
 }

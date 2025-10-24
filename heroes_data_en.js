@@ -7974,8 +7974,12 @@ window.allHeroes =
                 ]
             },
             {
+                "特殊效果": [
+                    "Status - Replace with Ailment"
+                ]
+            },
+            {
                 "负面效果": [
-                    "Status - Replace with Ailment",
                     "Atk - Accuracy ↓"
                 ]
             }
@@ -20679,12 +20683,12 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Single"
+                    "Atk: Single",
+                    "Atk - Extra Attack"
                 ]
             },
             {
                 "特殊效果": [
-                    "Atk - Extra Attack",
                     "Dmg - Extra"
                 ]
             },
@@ -39842,14 +39846,14 @@ window.allHeroes =
             },
             {
                 "特殊效果": [
-                    "Summon - Destroy Fiends"
+                    "Summon - Destroy Fiends",
+                    "Status - Replace with Buff"
                 ]
             },
             {
                 "增益效果": [
                     "Atk - Growth : Atk↑",
-                    "Def - Growth : Def↑",
-                    "Status - Replace with Buff"
+                    "Def - Growth : Def↑"
                 ]
             }
         ]
@@ -49468,11 +49472,7 @@ window.allHeroes =
             {
                 "基础技能": [
                     "Atk: Single",
-                    "Dmg: DoT"
-                ]
-            },
-            {
-                "特殊效果": [
+                    "Dmg: DoT",
                     "Atk - Extra Attack"
                 ]
             },
@@ -50157,11 +50157,15 @@ window.allHeroes =
                 ]
             },
             {
+                "特殊效果": [
+                    "Status - Replace with Ailment"
+                ]
+            },
+            {
                 "负面效果": [
                     "Heal - Block Revive",
                     "Dmg - DoT : Poison",
-                    "Mana - Mana Gen ↓/Block",
-                    "Status - Replace with Ailment"
+                    "Mana - Mana Gen ↓/Block"
                 ]
             }
         ]
@@ -57271,13 +57275,13 @@ window.allHeroes =
             },
             {
                 "特殊效果": [
-                    "Atk - Steal Minions"
+                    "Atk - Steal Minions",
+                    "Status - Replace with Ailment"
                 ]
             },
             {
                 "负面效果": [
-                    "Def - Dmg Taken ↑",
-                    "Status - Replace with Ailment"
+                    "Def - Dmg Taken ↑"
                 ]
             }
         ]
@@ -70352,11 +70356,7 @@ window.allHeroes =
             {
                 "基础技能": [
                     "Atk: Single",
-                    "Dmg: DoT"
-                ]
-            },
-            {
-                "特殊效果": [
+                    "Dmg: DoT",
                     "Atk - Extra Attack"
                 ]
             },
@@ -73761,11 +73761,7 @@ window.allHeroes =
             },
             {
                 "增益效果": [
-                    "Def - Counterattack"
-                ]
-            },
-            {
-                "负面效果": [
+                    "Def - Counterattack",
                     "Status - Dispel Buffs"
                 ]
             }
@@ -95378,12 +95374,12 @@ window.allHeroes =
         "cn_skill_info": [
             {
                 "基础技能": [
-                    "Atk: Single"
+                    "Atk: Single",
+                    "Atk - Extra Attack"
                 ]
             },
             {
                 "特殊效果": [
-                    "Atk - Extra Attack",
                     "Dmg - Dmg ↑ : Fire",
                     "Status - Steal Buffs"
                 ]

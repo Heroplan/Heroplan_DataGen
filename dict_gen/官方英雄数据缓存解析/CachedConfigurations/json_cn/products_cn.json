@@ -1114,7 +1114,7 @@
         "id": "lottery_super_elemental_yellow",
         "gemPrice": 350,
         "amount": 1,
-        "uiPriority": 85,
+        "uiPriority": 139,
         "associatedEvent": "SuperElemental",
         "bonusChest": "super_elemental_chest_yellow",
         "bonusChestRequirement": 10,
@@ -2124,7 +2124,7 @@
         "id": "lottery_covenant_default",
         "gemPrice": 400,
         "amount": 1,
-        "uiPriority": 134,
+        "uiPriority": 135,
         "associatedEvent": "CovenantSummon",
         "bonusChest": "covenant_chest",
         "bonusChestRequirement": 10,
@@ -3694,7 +3694,7 @@
         "gemPrice": 350,
         "amount": 1,
         "uiPriority": 140,
-        "advertisedHero": "outlaw_wu_song",
+        "advertisedHero": "outlaw_wu_yong",
         "associatedEvent": "KingdomWar",
         "bonusChest": "3kw_chest",
         "bonusChestRequirement": 5,
@@ -21681,7 +21681,8 @@
         "contents": [
           {
             "type": "Gem",
-            "amount": 1100
+            "amount": 1000,
+            "zyngaStoreExtraAmount": 50
           },
           {
             "type": "Item",
@@ -22099,67 +22100,66 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.selectable_limitbreak",
         "dollarValue": 10,
-        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
             "type": "Item",
             "id": "hero_limitbreak_epic_blue",
-            "amount": 4,
-            "zyngaStoreExtraAmount": 1
+            "amount": 10,
+            "zyngaStoreExtraAmount": 2
           },
           {
             "type": "Item",
             "id": "hero_limitbreak_epic_green",
-            "amount": 4,
-            "zyngaStoreExtraAmount": 1
+            "amount": 10,
+            "zyngaStoreExtraAmount": 2
           },
           {
             "type": "Item",
             "id": "hero_limitbreak_epic_purple",
-            "amount": 4,
-            "zyngaStoreExtraAmount": 1
+            "amount": 10,
+            "zyngaStoreExtraAmount": 2
           },
           {
             "type": "Item",
             "id": "hero_limitbreak_epic_red",
-            "amount": 4,
-            "zyngaStoreExtraAmount": 1
+            "amount": 10,
+            "zyngaStoreExtraAmount": 2
           },
           {
             "type": "Item",
             "id": "hero_limitbreak_epic_yellow",
-            "amount": 4,
-            "zyngaStoreExtraAmount": 1
+            "amount": 10,
+            "zyngaStoreExtraAmount": 2
           },
           {
             "type": "Item",
             "id": "hero_limitbreak_rare_blue",
-            "amount": 8,
+            "amount": 20,
             "zyngaStoreExtraAmount": 2
           },
           {
             "type": "Item",
             "id": "hero_limitbreak_rare_green",
-            "amount": 8,
+            "amount": 20,
             "zyngaStoreExtraAmount": 2
           },
           {
             "type": "Item",
             "id": "hero_limitbreak_rare_purple",
-            "amount": 8,
+            "amount": 20,
             "zyngaStoreExtraAmount": 2
           },
           {
             "type": "Item",
             "id": "hero_limitbreak_rare_red",
-            "amount": 8,
+            "amount": 20,
             "zyngaStoreExtraAmount": 2
           },
           {
             "type": "Item",
             "id": "hero_limitbreak_rare_yellow",
-            "amount": 8,
+            "amount": 20,
             "zyngaStoreExtraAmount": 2
           }
         ],
@@ -56512,5 +56512,5 @@
       }
     ]
   },
-  "productsConfigId": 2351874523
+  "productsConfigId": 179709275
 }

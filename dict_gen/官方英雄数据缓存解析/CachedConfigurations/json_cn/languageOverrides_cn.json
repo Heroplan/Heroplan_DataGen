@@ -130,6 +130,10 @@
           {
             "key": "specials.v2.minion.sanguine_bat_minion_pve_advanced.all",
             "text": "Chiama un servitore Pipistrello sanguigno per tutti gli alleati con il {FAMILIARHEALTHPERCENT}% di HP e il {FAMILIARATTACK}% di Attacco ereditati dall'evocatore."
+          },
+          {
+            "key": "specials.v2.property.superscratch.damage.sides.enemies.minion.bigminion.hittargetsonly.statuseffects.brittle_superscratch",
+            "text": "Infligge il {POWERFOROTHERTARGETS}% di danni da [#!]artiglio[#] ai nemici ai confini della formazione. Se c'è un solo nemico, i danni vengono raddoppiati."
           }
         ]
       },
@@ -262,6 +266,10 @@
           {
             "key": "specials.v2.minion.sanguine_bat_minion_pve_advanced.all",
             "text": "Призывает для каждого союзника кровавую летучую мышь с {FAMILIARHEALTHPERCENT} % здоровья и {FAMILIARATTACK} % атаки, получаемыми от героя."
+          },
+          {
+            "key": "specials.v2.property.superscratch.damage.sides.enemies.minion.bigminion.hittargetsonly.statuseffects.brittle_superscratch",
+            "text": "Наносит {POWERFOROTHERTARGETS} % [#!]царапающего[#] урона врагам по краям. Если остался только один враг, то урон удваивается."
           }
         ]
       },
@@ -394,6 +402,10 @@
           {
             "key": "specials.v2.minion.sanguine_bat_minion_pve_advanced.all",
             "text": "Przywołuje pomocnika sangwinicznego nietoperza dla wszystkich sojuszników z {FAMILIARHEALTHPERCENT}% PŻ i {FAMILIARATTACK}% ataku przejętymi od rzucającego."
+          },
+          {
+            "key": "specials.v2.property.superscratch.damage.sides.enemies.minion.bigminion.hittargetsonly.statuseffects.brittle_superscratch",
+            "text": "Zadaje {POWERFOROTHERTARGETS}% [#!]rozdzierających[#] obrażeń wrogom na skraju formacji. Jeśli został tylko jeden wróg, obrażenia są podwajane."
           }
         ]
       },
@@ -526,6 +538,10 @@
           {
             "key": "specials.v2.minion.sanguine_bat_minion_pve_advanced.all",
             "text": "為所有盟友召喚一個腥紅蝙蝠小兵，其可從施法者那裡繼承{FAMILIARHEALTHPERCENT}%生命值和{FAMILIARATTACK}%攻擊力。"
+          },
+          {
+            "key": "specials.v2.property.superscratch.damage.sides.enemies.minion.bigminion.hittargetsonly.statuseffects.brittle_superscratch",
+            "text": "對位於陣型邊緣的敵人造成{POWERFOROTHERTARGETS}%[#!]爪擊[#]傷害。如果只有1個敵人，傷害加倍。"
           }
         ]
       },
@@ -658,6 +674,10 @@
           {
             "key": "specials.v2.minion.sanguine_bat_minion_pve_advanced.all",
             "text": "모든 아군에게 시전자 HP의 {FAMILIARHEALTHPERCENT}%와 공격력의 {FAMILIARATTACK}%를 지닌 핏빛 박쥐 하수인을 소환합니다."
+          },
+          {
+            "key": "specials.v2.property.superscratch.damage.sides.enemies.minion.bigminion.hittargetsonly.statuseffects.brittle_superscratch",
+            "text": "대형 가장자리에 있는 적들에게 {POWERFOROTHERTARGETS}% [#!]발톱[#] 피해를 줍니다. 적이 하나뿐이면 피해량이 두 배로 늘어납니다."
           }
         ]
       },
@@ -790,6 +810,10 @@
           {
             "key": "specials.v2.minion.sanguine_bat_minion_pve_advanced.all",
             "text": "Beschwört für alle Verbündeten einen Blutfledermaus-Lakaien mit {FAMILIARHEALTHPERCENT} % LP und {FAMILIARATTACK} % Angriff des Wirkers."
+          },
+          {
+            "key": "specials.v2.property.superscratch.damage.sides.enemies.minion.bigminion.hittargetsonly.statuseffects.brittle_superscratch",
+            "text": "Fügt Gegnern am Rand der Formation {POWERFOROTHERTARGETS} % [#!]Klauen[#]-Schaden zu. Wenn nur ein Gegner übrig ist, wird der Schaden verdoppelt."
           }
         ]
       },
@@ -926,6 +950,10 @@
           {
             "key": "odds.hero_season5_5",
             "text": "[#ffc3ff]レジェンド[#]シーズン5英雄（注目以外）: [#!]{0}%[#][#ffffff]"
+          },
+          {
+            "key": "specials.v2.property.superscratch.damage.sides.enemies.minion.bigminion.hittargetsonly.statuseffects.brittle_superscratch",
+            "text": "陣形の両端にいる敵に{POWERFOROTHERTARGETS}%の[#!]鉤爪[#]のダメージを与える。敵が1体しかいない場合は与えるダメージが2倍になる。"
           }
         ]
       },
@@ -1058,6 +1086,10 @@
           {
             "key": "specials.v2.minion.sanguine_bat_minion_pve_advanced.all",
             "text": "Åkallar en blodsfladdermusundersåte till alla allierade, med {FAMILIARHEALTHPERCENT} % hälsa och {FAMILIARATTACK} % attack som ärvs från anfallaren."
+          },
+          {
+            "key": "specials.v2.property.superscratch.damage.sides.enemies.minion.bigminion.hittargetsonly.statuseffects.brittle_superscratch",
+            "text": "Gör {POWERFOROTHERTARGETS} % [#!]klösskada[#] mot fiender vid kanten av fiendeformationen. Om det bara finns en fiende dubblas skadan."
           }
         ]
       },
@@ -1190,6 +1222,10 @@
           {
             "key": "specials.v2.minion.sanguine_bat_minion_pve_advanced.all",
             "text": "Tüm müttefikler için, eylemciden %{FAMILIARHEALTHPERCENT} SP ve %{FAMILIARATTACK} saldırıya sahip bir Kan Kırmızısı Yarasa Hizmetkar çağırır."
+          },
+          {
+            "key": "specials.v2.property.superscratch.damage.sides.enemies.minion.bigminion.hittargetsonly.statuseffects.brittle_superscratch",
+            "text": "Oluşumun kenarlarındaki düşmanlara %{POWERFOROTHERTARGETS} [#!]Pençeleme[#] hasarı verir. Sadece bir düşman varsa hasar iki katına çıkar."
           }
         ]
       },
@@ -1210,6 +1246,10 @@
           {
             "key": "specials.v2.minion.sanguine_bat_minion_pve_advanced.all",
             "text": "Summons a Sanguine Bat Minion for all allies with {FAMILIARHEALTHPERCENT}% HP and {FAMILIARATTACK}% attack inherited from the caster."
+          },
+          {
+            "key": "specials.v2.property.superscratch.damage.sides.enemies.minion.bigminion.hittargetsonly.statuseffects.brittle_superscratch",
+            "text": "Deals {POWERFOROTHERTARGETS}% [#!]Clawing[#] damage to the enemies on the edges of the formation. If there is only one enemy, the damage is doubled."
           }
         ]
       },
@@ -1342,6 +1382,10 @@
           {
             "key": "specials.v2.minion.sanguine_bat_minion_pve_advanced.all",
             "text": "يستدعي تابع خفاش دموي لكل الحلفاء ممن لديهم  {FAMILIARHEALTHPERCENT}% من نقاط الصحة، و{FAMILIARATTACK}% من الهجوم الموروث من الرامي."
+          },
+          {
+            "key": "specials.v2.property.superscratch.damage.sides.enemies.minion.bigminion.hittargetsonly.statuseffects.brittle_superscratch",
+            "text": "لإلحاق {POWERFOROTHERTARGETS}% من ضرر تمزيق [#!]المخلب[#] بالأعداء الموجودين على أطراف التشكيل. إذا وُجد عدو واحد فقط، يتضاعف الضرر."
           }
         ]
       },
@@ -1474,6 +1518,10 @@
           {
             "key": "specials.v2.minion.sanguine_bat_minion_pve_advanced.all",
             "text": "Invoque un sbire chauve-souris sanguine pour tous les alliés avec {FAMILIARHEALTHPERCENT} % de PV et {FAMILIARATTACK} % d'attaque hérités du lanceur."
+          },
+          {
+            "key": "specials.v2.property.superscratch.damage.sides.enemies.minion.bigminion.hittargetsonly.statuseffects.brittle_superscratch",
+            "text": "Inflige {POWERFOROTHERTARGETS} % de dégâts de [#!]griffes[#] aux ennemis sur les bords de leur formation. S'il n'y a qu'un seul ennemi, les dégâts sont doublés."
           }
         ]
       },
@@ -1606,6 +1654,10 @@
           {
             "key": "specials.v2.minion.sanguine_bat_minion_pve_advanced.all",
             "text": "Convoca um ajudante Morcego Sanguinário para todos os aliados. O ajudante herda {FAMILIARHEALTHPERCENT}% de PV e {FAMILIARATTACK}% de ataque do invocador."
+          },
+          {
+            "key": "specials.v2.property.superscratch.damage.sides.enemies.minion.bigminion.hittargetsonly.statuseffects.brittle_superscratch",
+            "text": "Causa {POWERFOROTHERTARGETS}% de dano de [#!]garra[#] aos inimigos nas bordas da formação. Quando só há um inimigo, o dano é duplicado."
           }
         ]
       },
@@ -1738,6 +1790,10 @@
           {
             "key": "specials.v2.minion.sanguine_bat_minion_pve_advanced.all",
             "text": "Memanggil Antek Kelelawar Optimis untuk semua sekutu terdekat dengan {FAMILIARHEALTHPERCENT}% HP dan {FAMILIARATTACK}% serangan yang diwarisi dari perapal."
+          },
+          {
+            "key": "specials.v2.property.superscratch.damage.sides.enemies.minion.bigminion.hittargetsonly.statuseffects.brittle_superscratch",
+            "text": "Menimbulkan kerusakan [#!]Cakar[#] {POWERFOROTHERTARGETS}% kepada musuh di tepi formasi. Jika hanya ada satu musuh, kerusakannya ganda."
           }
         ]
       },
@@ -1870,6 +1926,10 @@
           {
             "key": "specials.v2.minion.sanguine_bat_minion_pve_advanced.all",
             "text": "Kutsuu kaikille liittolaisille verenhimoisen lepakkokäskyläisen, joka perii loitsijalta {FAMILIARHEALTHPERCENT} % terveyttä ja {FAMILIARATTACK} % hyökkäystä."
+          },
+          {
+            "key": "specials.v2.property.superscratch.damage.sides.enemies.minion.bigminion.hittargetsonly.statuseffects.brittle_superscratch",
+            "text": "Tuottaa {POWERFOROTHERTARGETS} % [#!]kynsimis[#]vauriota ryhmän laidoilla oleville vihollisille. Jos vihollisia on vain yksi, vaurio tuplaantuu."
           }
         ]
       },
@@ -2002,6 +2062,10 @@
           {
             "key": "specials.v2.minion.sanguine_bat_minion_pve_advanced.all",
             "text": "Hidkalder en rødmosset flagermus-håndlanger til allierede med {FAMILIARHEALTHPERCENT} % HP og {FAMILIARATTACK} % angreb, nedarvet fra kasteren."
+          },
+          {
+            "key": "specials.v2.property.superscratch.damage.sides.enemies.minion.bigminion.hittargetsonly.statuseffects.brittle_superscratch",
+            "text": "Giver {POWERFOROTHERTARGETS} % [#!]kloskade[#] imod fjenderne yderst i formationen. Hvis der kun er en enkelt fjende, fordobles skaden."
           }
         ]
       },
@@ -2134,6 +2198,10 @@
           {
             "key": "specials.v2.minion.sanguine_bat_minion_pve_advanced.all",
             "text": "Invoca un secuaz murciélago sanguinario para todos los aliados con un {FAMILIARHEALTHPERCENT} % de VIT y un {FAMILIARATTACK} % de ataque heredados del héroe."
+          },
+          {
+            "key": "specials.v2.property.superscratch.damage.sides.enemies.minion.bigminion.hittargetsonly.statuseffects.brittle_superscratch",
+            "text": "Inflige un {POWERFOROTHERTARGETS} % de daño [#!]desgarrador[#] a los enemigos en los márgenes de la formación. Si solo queda un enemigo, el daño se duplica."
           }
         ]
       },
@@ -2266,6 +2334,10 @@
           {
             "key": "specials.v2.minion.sanguine_bat_minion_pve_advanced.all",
             "text": "Fremkaller en optimistisk flaggermus-undersått for alle allierte, med {FAMILIARHEALTHPERCENT} % HP og {FAMILIARATTACK} % angrep nedarvet fra brukeren."
+          },
+          {
+            "key": "specials.v2.property.superscratch.damage.sides.enemies.minion.bigminion.hittargetsonly.statuseffects.brittle_superscratch",
+            "text": "Påfører {POWERFOROTHERTARGETS} % [#!]kloreskade[#] på fiendene på kanten av formasjonen. Dersom det kun er én fiende, dobles skaden."
           }
         ]
       },
@@ -2398,6 +2470,10 @@
           {
             "key": "specials.v2.minion.sanguine_bat_minion_pve_advanced.all",
             "text": "Roept een bloederige vleermuis-volgeling aan voor de bondgenoten. De volgeling erft {FAMILIARHEALTHPERCENT}% gezondheid en {FAMILIARATTACK}% aanvalskracht van de spreukspreker."
+          },
+          {
+            "key": "specials.v2.property.superscratch.damage.sides.enemies.minion.bigminion.hittargetsonly.statuseffects.brittle_superscratch",
+            "text": "Doet {POWERFOROTHERTARGETS}% [#!]klauwschade[#] aan vijanden aan de randen van de formatie. Als er maar één vijand is, wordt de schade verdubbeld."
           }
         ]
       },
@@ -2530,10 +2606,14 @@
           {
             "key": "specials.v2.minion.sanguine_bat_minion_pve_advanced.all",
             "text": "为所有盟友召唤一个血色蝙蝠小兵，其可从施法者处继承{FAMILIARHEALTHPERCENT}%生命和{FAMILIARATTACK}%攻击力。"
+          },
+          {
+            "key": "specials.v2.property.superscratch.damage.sides.enemies.minion.bigminion.hittargetsonly.statuseffects.brittle_superscratch",
+            "text": "对位于敌军阵型边缘的敌人造成{POWERFOROTHERTARGETS}%[#!]抓挠[#]伤害。如果仅有一名敌人，则伤害加倍。"
           }
         ]
       }
     }
   },
-  "languageOverridesConfigId": 154750724
+  "languageOverridesConfigId": 1872851958
 }

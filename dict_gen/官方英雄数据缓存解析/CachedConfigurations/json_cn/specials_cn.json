@@ -37632,30 +37632,24 @@
         "id": "blade_of_horrid_affliction",
         "directEffect": {
           "sideAffected": "Enemies",
-          "typeOfTarget": "Sides",
-          "effectType": "Damage",
-          "powerMultiplierPerMil": 2650,
-          "powerMultiplierIncrementPerLevelPerMil": 50
+          "typeOfTarget": "Sides"
         },
         "maxLevel": 8,
+        "properties": [
+          "super_scratch_marnes"
+        ],
         "statusEffects": [
           {
             "id": "additive_bleeding_marnes",
             "sideAffected": "Enemies",
             "statusTargetType": "Sides",
-            "turns": 6
+            "turns": 5
           },
           {
             "id": "poison_marnes",
             "sideAffected": "Enemies",
             "statusTargetType": "Sides",
-            "turns": 6
-          },
-          {
-            "id": "resist_cleanse_from_special",
-            "sideAffected": "Enemies",
-            "statusTargetType": "Sides",
-            "turns": 6
+            "turns": 5
           }
         ]
       },
@@ -48309,6 +48303,7 @@
           "typeOfTarget": "All"
         },
         "maxLevel": 8,
+        "strongAttackElement": "Purple",
         "properties": [
           "damage_per_yellow_tile_zandria_costume",
           "revive_chance_per_yellow_tile_zandria_costume"
@@ -48396,19 +48391,6 @@
         "properties": [
           "chain_strike_random_ironvein",
           "health_mana_on_special_kill_ironvein"
-        ],
-        "statusEffects": [
-          {
-            "id": "counter_attack_less",
-            "sideAffected": "Allies",
-            "statusTargetType": "Single",
-            "turns": 4
-          },
-          {
-            "id": "stacking_received_damage_reduction_ironvein",
-            "sideAffected": "Allies",
-            "statusTargetType": "Single"
-          }
         ]
       },
       {
@@ -48522,23 +48504,23 @@
         "id": "burning_spin",
         "directEffect": {
           "sideAffected": "Enemies",
-          "typeOfTarget": "All"
+          "typeOfTarget": "NearToTarget",
+          "effectType": "Damage",
+          "powerMultiplierPerMil": 2850,
+          "powerMultiplierIncrementPerLevelPerMil": 50
         },
         "maxLevel": 8,
-        "properties": [
-          "damage_per_red_tile_hotspin"
-        ],
         "statusEffects": [
           {
-            "id": "attack_buff_hotspin",
+            "id": "counterattack_hotspin",
             "sideAffected": "Allies",
-            "statusTargetType": "Single",
+            "statusTargetType": "NearToTarget",
             "turns": 4
           },
           {
-            "id": "reflect_debuffs_minor_hotspin",
+            "id": "burn_on_counterattack_hotspin",
             "sideAffected": "Allies",
-            "statusTargetType": "Single",
+            "statusTargetType": "NearToTarget",
             "turns": 4
           }
         ]
@@ -48996,7 +48978,7 @@
             "id": "possession_of_eldwren",
             "sideAffected": "Enemies",
             "statusTargetType": "Single",
-            "turns": 4
+            "turns": 3
           },
           {
             "id": "dark_elemental_link_attack_more",
@@ -49788,21 +49770,7 @@
           "sideAffected": "Enemies",
           "typeOfTarget": "Single",
           "effectType": "Damage",
-          "powerMultiplierPerMil": 2250,
-          "powerMultiplierIncrementPerLevelPerMil": 50
-        },
-        "maxLevel": 8,
-        "properties": [
-          "double_damage_to_damaged_target"
-        ]
-      },
-      {
-        "id": "emerald_dual_blade2",
-        "directEffect": {
-          "sideAffected": "Enemies",
-          "typeOfTarget": "All",
-          "effectType": "Damage",
-          "powerMultiplierPerMil": 1950,
+          "powerMultiplierPerMil": 2650,
           "powerMultiplierIncrementPerLevelPerMil": 50
         },
         "maxLevel": 8,
@@ -49811,12 +49779,26 @@
         ]
       },
       {
+        "id": "emerald_dual_blade2",
+        "directEffect": {
+          "sideAffected": "Enemies",
+          "typeOfTarget": "All",
+          "effectType": "Damage",
+          "powerMultiplierPerMil": 2150,
+          "powerMultiplierIncrementPerLevelPerMil": 50
+        },
+        "maxLevel": 8,
+        "properties": [
+          "double_damage_to_damaged_target"
+        ]
+      },
+      {
         "id": "aether_mimic_bite_red",
         "directEffect": {
           "sideAffected": "Enemies",
           "typeOfTarget": "Single",
           "effectType": "Damage",
-          "powerMultiplierPerMil": 7650,
+          "powerMultiplierPerMil": 5650,
           "powerMultiplierIncrementPerLevelPerMil": 50
         },
         "maxLevel": 8,
@@ -49839,7 +49821,7 @@
           "sideAffected": "Enemies",
           "typeOfTarget": "Single",
           "effectType": "Damage",
-          "powerMultiplierPerMil": 7650,
+          "powerMultiplierPerMil": 5650,
           "powerMultiplierIncrementPerLevelPerMil": 50
         },
         "maxLevel": 8,
@@ -49862,7 +49844,7 @@
           "sideAffected": "Enemies",
           "typeOfTarget": "Single",
           "effectType": "Damage",
-          "powerMultiplierPerMil": 7650,
+          "powerMultiplierPerMil": 5650,
           "powerMultiplierIncrementPerLevelPerMil": 50
         },
         "maxLevel": 8,
@@ -49885,7 +49867,7 @@
           "sideAffected": "Enemies",
           "typeOfTarget": "Single",
           "effectType": "Damage",
-          "powerMultiplierPerMil": 7650,
+          "powerMultiplierPerMil": 5650,
           "powerMultiplierIncrementPerLevelPerMil": 50
         },
         "maxLevel": 8,
@@ -49908,7 +49890,7 @@
           "sideAffected": "Enemies",
           "typeOfTarget": "Single",
           "effectType": "Damage",
-          "powerMultiplierPerMil": 7650,
+          "powerMultiplierPerMil": 5650,
           "powerMultiplierIncrementPerLevelPerMil": 50
         },
         "maxLevel": 8,
@@ -59311,6 +59293,29 @@
       },
       {
         "propertyType": "SuperScratch",
+        "id": "super_scratch_marnes",
+        "statusEffects": [
+          {
+            "id": "brittle_superscratch",
+            "turns": 5
+          }
+        ],
+        "powerForTargetsThatMeetConditionPerMil": 3650,
+        "powerForOtherTargetsPerMil": 2650,
+        "powerIncrementPerLevelPerMil": 50,
+        "directionOfCondition": "Highest",
+        "statForCondition": "CurrentHp",
+        "effectType": "Damage",
+        "sideAffected": "Enemies",
+        "targetType": "Sides",
+        "familiarTypes": [
+          "Minion",
+          "BigMinion"
+        ],
+        "shouldTargetDefensiveBuffs": true
+      },
+      {
+        "propertyType": "SuperScratch",
         "id": "super_scratch_stravia",
         "statusEffects": [
           {
@@ -60423,7 +60428,7 @@
         "propertyType": "DamagePerTile",
         "id": "damage_per_yellow_tile_zandria_costume",
         "element": "黄",
-        "basePowerPerMil": 2000,
+        "basePowerPerMil": 2500,
         "powerPerTilePerMil": 180,
         "powerPerTileIncrementPerLevelPerMil": 10,
         "maxAmountOfTiles": 12,
@@ -60434,14 +60439,14 @@
         "propertyType": "RevivePerTile",
         "id": "revive_chance_per_yellow_tile_zandria_costume",
         "element": "黄",
-        "basePowerPerMil": 280,
+        "basePowerPerMil": 380,
         "basePowerIncrementPerLevelPerMil": 10,
         "powerPerTilePerMil": 0,
         "powerPerTileIncrementPerLevelPerMil": 0,
         "maxAmountOfTiles": 12,
         "targetType": "All",
         "sideAffected": "Allies",
-        "effectChancePerMil": 250,
+        "effectChancePerMil": 200,
         "effectChanceIncrementPerTilePerMil": 50
       },
       {
@@ -61407,7 +61412,7 @@
         "propertyType": "ChainStrike",
         "id": "add_astral_orb_to_random_enemies_anatemah",
         "chainEffectType": "Damage",
-        "powerMultiplierPerMil": 2650,
+        "powerMultiplierPerMil": 3650,
         "powerMultiplierIncrementPerLevelPerMil": 50,
         "maxExtraHits": 4,
         "extraHitChancePerMil": 1000,
@@ -61533,5 +61538,5 @@
       }
     ]
   },
-  "specialsConfigId": 3982456884
+  "specialsConfigId": 1039955491
 }
