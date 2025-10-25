@@ -1,4 +1,4 @@
-✅ 成功匹配的服装 (473 / 0)
+✅ 成功匹配的服装 (475 / 0)
 ================================
 Name: Berden Costume1, Fancy Name: Adroit Archer
 Name: Hannah Costume1, Fancy Name: Adventurous Drover
@@ -17,6 +17,7 @@ Name: Scarlett Costume1, Fancy Name: Assassin from the Sandsea
 Name: Merlin Costume1, Fancy Name: Astromancer of Avalon
 Name: Dark Lord Costume1, Fancy Name: Astronomer of Karemdol
 Name: Gadeirus Costume1, Fancy Name: Atlantean Sentinel
+Name: Tethys costume1, Fancy Name: Avenger of All Rivers
 Name: Khagan Costume1, Fancy Name: Avenger of Tribes
 Name: Zeline Costume1, Fancy Name: Avian Celestial
 Name: Richard Costume1, Fancy Name: Axe of Justice
@@ -392,6 +393,7 @@ Name: Domiventus Costume1, Fancy Name: The Supreme Hadal Being
 Name: Boldtusk Toon, Fancy Name: The Unwavering Toon
 Name: Saoirse Costume1, Fancy Name: The Vanquisher
 Name: Chao Costume2, Fancy Name: Tiger Master
+Name: Oceanus costume1, Fancy Name: Titan of Magma
 Name: Skittleskull Costume2, Fancy Name: Toad Witch
 Name: Berden Toon, Fancy Name: Toon Archer
 Name: Colen Toon, Fancy Name: Toon Bounty Hunter

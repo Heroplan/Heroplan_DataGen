@@ -40599,5 +40599,88 @@ window.allHeroesExtra = [
             "resist_all_mana_debuffs"
         ],
         "family": "astral_demons"
+    },
+    {
+        "name": "Emilie",
+        "fancy name": "Liminal Realm Explorer",
+        "element": "Blue",
+        "rarity": 5,
+        "class": "Cleric",
+        "speed": "slow",
+        "Release date": "2025-10-24",
+        "AetherPower": "Damage Reduction",
+        "skill_types": [
+            "Snipers",
+            "Ghost Form & Hiding",
+            "DoT Attackers",
+            "Negative Effects On Self Or Allies",
+            "AoE Attackers (Hit-5)"
+
+        ],
+        "heroId": "institute_emilie",
+        "baseAttack": 607,
+        "baseDefense": 639,
+        "baseHealth": 1098,
+        "specialId": "endless_maze",
+        "passiveSkills": [
+            "revive_in_alternative_form_with_insanity_chance"
+        ],
+        "family": "institute"
+    },
+    {
+        "name": "Tethys costume1",
+        "fancy name": "Avenger of All Rivers",
+        "element": "Blue",
+        "rarity": 5,
+        "class": "Fighter",
+        "speed": "fast",
+        "Release date": "2025-10-25",
+        "AetherPower": "Special Boost",
+        "skill_types": [
+            "AoE Attackers (Hit-3)",
+            "Buffers (ATK)",
+            "DoT Attackers"
+        ],
+        "heroId": "s2_tethys_costume_steel",
+        "baseAttack": 407,
+        "baseDefense": 371,
+        "baseHealth": 710,
+        "specialId": "amphibious_assault",
+        "specialId_costume": "oceanic_offensive",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null,
+        "attackBonus": "25%",
+        "defenseBonus": "25%",
+        "healthBonus": "30%",
+        "manaBonus": "5%",
+        "family": "atlantis"
+    },
+    {
+        "name": "Oceanus costume1",
+        "fancy name": "Titan of Magma",
+        "element": "Red",
+        "rarity": 5,
+        "class": "Barbarian",
+        "speed": "average",
+        "Release date": "2025-10-25",
+        "AetherPower": "Rage",
+        "skill_types": [
+            "AoE Attackers (Hit-5)",
+            "Buffers (ATK)",
+            "Buffers (DEF)"
+        ],
+        "heroId": "s2_oceanus_costume_volcano",
+        "baseAttack": 434,
+        "baseDefense": 354,
+        "baseHealth": 676,
+        "specialId": "strength_of_the_benemoth",
+        "specialId_costume": "strength_of_the_volcano",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": null,
+        "attackBonus": "25%",
+        "defenseBonus": "25%",
+        "healthBonus": "30%",
+        "manaBonus": "5%",
+        "family": "atlantis"
     }
 ];

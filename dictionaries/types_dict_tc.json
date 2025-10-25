@@ -913,5 +913,7 @@
   "Firestorm Ward All": "全體火風暴護體",
   "Revive Buff Block 3": "封鎖3個目標復活效果",
   "Resonance DoT 1": "共鳴持續傷害 (單體)",
-  "Hit Random 1 if Boosted Health": "若生命值加成則攻擊隨機單個目標"
+  "Hit Random 1 if Boosted Health": "若生命值加成則攻擊隨機單個目標",
+  "DoT 1 while ghost": "單體幽靈期間持續傷害",
+  "Hit & Insanity All after ghost": "幽靈結束後攻擊全體並施加瘋狂"
 }

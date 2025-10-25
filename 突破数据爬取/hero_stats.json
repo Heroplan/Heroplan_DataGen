@@ -27412,5 +27412,59 @@
             "Defense": 963,
             "Life": 1793
         }
+    },
+    "Emilie": {
+        "base": {
+            "Attack": 1250,
+            "Defense": 1316,
+            "Life": 2261,
+            "Power": 1247
+        },
+        "lb1": {
+            "Attack": 1347,
+            "Defense": 1418,
+            "Life": 2437
+        },
+        "lb2": {
+            "Attack": 1541,
+            "Defense": 1623,
+            "Life": 2788
+        }
+    },
+    "Tethys C": {
+        "base": {
+            "Attack": 1047,
+            "Defense": 955,
+            "Life": 1900,
+            "Power": 1024
+        },
+        "lb1": {
+            "Attack": 1128,
+            "Defense": 1028,
+            "Life": 2048
+        },
+        "lb2": {
+            "Attack": 1291,
+            "Defense": 1177,
+            "Life": 2343
+        }
+    },
+    "Oceanus C": {
+        "base": {
+            "Attack": 1117,
+            "Defense": 911,
+            "Life": 1809,
+            "Power": 1024
+        },
+        "lb1": {
+            "Attack": 1203,
+            "Defense": 981,
+            "Life": 1950
+        },
+        "lb2": {
+            "Attack": 1377,
+            "Defense": 1123,
+            "Life": 2232
+        }
     }
 }

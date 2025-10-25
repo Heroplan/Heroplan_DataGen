@@ -1,38 +1,5 @@
 [
     {
-        "name": "Tethys C",
-        "fancy_name": "Avenger of All Rivers",
-        "color": "Blue",
-        "Release date": "",
-        "star": 5,
-        "family": "atlantis",
-        "costume_id": 1,
-        "heroId": "s2_tethys_costume_steel",
-        "Lottery_Only":1
-    },
-    {
-        "name": "Oceanus C",
-        "fancy_name": "Titan of Magma",
-        "color": "Red",
-        "Release date": "",
-        "star": 5,
-        "family": "atlantis",
-        "costume_id": 1,
-        "heroId": "s2_oceanus_costume_volcano",
-        "Lottery_Only":1
-    },
-    {
-        "name": "Emilie",
-        "fancy_name": "Liminal Realm Explorer",
-        "color": "Blue",
-        "Release date": "",
-        "star": 5,
-        "family": "institute",
-        "costume_id": 0,
-        "heroId": "institute_emilie",
-        "Lottery_Only":1
-    },
-    {
         "name": "Labblub",
         "fancy_name": "Curious Scientist Slime",
         "color": "Yellow",
@@ -66,7 +33,7 @@
         "Lottery_Only":1
     },
     {
-        "name": "Cristobal C1",
+        "name": "Cristobal C",
         "fancy_name": "Enchantments Professor",
         "color": "Green",
         "Release date": "",
