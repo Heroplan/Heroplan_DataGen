@@ -27466,5 +27466,59 @@
             "Defense": 1123,
             "Life": 2232
         }
+    },
+    "Harubo": {
+        "base": {
+            "Attack": 547,
+            "Defense": 509,
+            "Life": 938,
+            "Power": 530
+        },
+        "lb1": {
+            "Attack": 620,
+            "Defense": 577,
+            "Life": 1063
+        },
+        "lb2": {
+            "Attack": 766,
+            "Defense": 713,
+            "Life": 1314
+        }
+    },
+    "Labblub": {
+        "base": {
+            "Attack": 1254,
+            "Defense": 1316,
+            "Life": 2263,
+            "Power": 1249
+        },
+        "lb1": {
+            "Attack": 1351,
+            "Defense": 1418,
+            "Life": 2439
+        },
+        "lb2": {
+            "Attack": 1546,
+            "Defense": 1623,
+            "Life": 2791
+        }
+    },
+    "Wu Yong": {
+        "base": {
+            "Attack": 1256,
+            "Defense": 1316,
+            "Life": 2263,
+            "Power": 1249
+        },
+        "lb1": {
+            "Attack": 1354,
+            "Defense": 1418,
+            "Life": 2439
+        },
+        "lb2": {
+            "Attack": 1549,
+            "Defense": 1623,
+            "Life": 2791
+        }
     }
 }

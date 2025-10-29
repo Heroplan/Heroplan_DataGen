@@ -3753,7 +3753,7 @@
         "id": "lottery_tower_magic_default_ad",
         "sourceProductId": "lottery_tower_magic_default",
         "amount": 1,
-        "advertisedHero": "magic_carpet_ragrim",
+        "advertisedHero": "magic_carpet_shareef",
         "associatedEvent": "TowerMagic",
         "bucketWeights": [
           3215,
@@ -3780,7 +3780,7 @@
         "gemPrice": 350,
         "amount": 1,
         "uiPriority": 141,
-        "advertisedHero": "magic_carpet_ragrim",
+        "advertisedHero": "magic_carpet_shareef",
         "associatedEvent": "TowerMagic",
         "bucketWeights": [
           643,
@@ -3989,7 +3989,7 @@
         "id": "lottery_season_atlantis",
         "gemPrice": 350,
         "amount": 1,
-        "uiPriority": 135,
+        "uiPriority": 40,
         "bonusChest": "atlantis_ascension",
         "bonusChestRequirement": 10,
         "bonusChestLimit": 9,
@@ -22100,6 +22100,7 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.selectable_limitbreak",
         "dollarValue": 10,
+        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -56512,5 +56513,5 @@
       }
     ]
   },
-  "productsConfigId": 179709275
+  "productsConfigId": 3453234195
 }

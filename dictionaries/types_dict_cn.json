@@ -915,5 +915,8 @@
   "Resonance DoT 1": "共振持续伤害 (单体)",
   "Hit Random 1 if Boosted Health": "若生命值加成则攻击随机单个目标",
   "DoT 1 while ghost": "单体幽灵期间持续伤害",
-  "Hit & Insanity All after ghost": "幽灵结束后攻击全体并施加疯狂"
+  "Hit & Insanity All after ghost": "幽灵结束后攻击全体并施加疯狂",
+  "Mana Increase if Resist All": "全体抵抗时法力增加",
+  "Chance for Critical hit": "几率暴击",
+  "Steal Mana 1": "偷取法力 (单体)"
 }

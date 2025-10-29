@@ -40615,7 +40615,6 @@ window.allHeroesExtra = [
             "DoT Attackers",
             "Negative Effects On Self Or Allies",
             "AoE Attackers (Hit-5)"
-
         ],
         "heroId": "institute_emilie",
         "baseAttack": 607,
@@ -40682,5 +40681,114 @@ window.allHeroesExtra = [
         "healthBonus": "30%",
         "manaBonus": "5%",
         "family": "atlantis"
+    },
+    {
+        "name": "Emblem Mimic Nature",
+        "fancy name": "Horrifying One-Eyed Lockbox",
+        "element": "Green",
+        "rarity": 5,
+        "class": "Paladin",
+        "speed": "fast",
+        "Release date": "2025-10-27",
+        "AetherPower": "Bulwark",
+        "skill_types": [
+            "Healers (Special)",
+            "Minions Counters",
+            "Snipers",
+            "Mana Raisers",
+            "Immunity Providers",
+            "Ghost Form & Hiding",
+            "Bypassers",
+            "DoT Attackers"
+        ],
+        "heroId": "mimic_emblem_green",
+        "baseAttack": 628,
+        "baseDefense": 628,
+        "baseHealth": 1080,
+        "specialId": "savage_gobble_green",
+        "passiveSkills": [
+            "mimic_emblem_green",
+            "never_miss_special"
+        ],
+        "family": "mimic"
+    },
+    {
+        "name": "Harubo",
+        "fancy name": "Patrolling Slime",
+        "element": "Yellow",
+        "rarity": 3,
+        "class": "Fighter",
+        "speed": "average",
+        "Release date": "2025-10-27",
+        "AetherPower": "Counterattack",
+        "skill_types": [
+            "Snipers",
+            "DoT Attackers",
+            "Dispellers"
+        ],
+        "heroId": "slime_harubo",
+        "baseAttack": 315,
+        "baseDefense": 293,
+        "baseHealth": 540,
+        "specialId": "sticky_spear",
+        "passiveSkills": [
+            "summon_slime_minion_on_damage_yellow",
+            "summon_slime_minion_on_death_yellow"
+        ],
+        "family": "slime"
+    },
+    {
+        "name": "Labblub",
+        "fancy name": "Curious Scientist Slime",
+        "element": "Yellow",
+        "rarity": 5,
+        "class": "Cleric",
+        "speed": "average",
+        "Release date": "2025-10-27",
+        "AetherPower": "Ailment Immunity",
+        "skill_types": [
+            "Minions Counters",
+            "AoE Attackers (Hit-5)",
+            "Mana Raisers",
+            "Status Effects Blockers"
+        ],
+        "heroId": "slime_labblub",
+        "baseAttack": 609,
+        "baseDefense": 639,
+        "baseHealth": 1099,
+        "specialId": "minion_scrutiny",
+        "passiveSkills": [
+            "summon_slime_minion_on_damage_red",
+            "summon_slime_minion_on_death_red"
+        ],
+        "family": "slime"
+    },
+    {
+        "name": "Wu Yong",
+        "fancy name": "Knowledge Star of Water Margin",
+        "element": "Yellow",
+        "rarity": 5,
+        "class": "Wizard",
+        "speed": "slow",
+        "Release date": "2025-10-28",
+        "AetherPower": "Ailment Immunity",
+        "skill_types": [
+            "Extra Damage Dealers",
+            "Snipers",
+            "Chain & Random Attackers",
+            "Mana Reducers or Blockers",
+            "Buffers (ATK)"
+        ],
+        "heroId": "outlaw_wu_yong",
+        "baseAttack": 610,
+        "baseDefense": 639,
+        "baseHealth": 1099,
+        "specialId": "clever_stratagem",
+        "passiveSkills": [
+            "resist_bleed",
+            "righteous_rebellion_parent",
+            "cleanse_on_special_critical_damage_all_safe"
+        ],
+        "family": "outlaw"
     }
 ];

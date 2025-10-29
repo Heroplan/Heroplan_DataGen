@@ -26459,7 +26459,24 @@
       {
         "offerType": "Dynamic",
         "id": "dynamic_offer_21_shrubbear",
-        "products": [],
+        "products": [
+          {
+            "id": "offer_dynamic_free_bb",
+            "purchaseLimit": 1
+          },
+          {
+            "id": "com.smallgiantgames.empires.dynamic_10f",
+            "purchaseLimit": 2
+          },
+          {
+            "id": "com.smallgiantgames.empires.dynamic_15d",
+            "purchaseLimit": 2
+          },
+          {
+            "id": "com.smallgiantgames.empires.dynamic_29",
+            "purchaseLimit": 2
+          }
+        ],
         "requiresQuestsUnlocked": true,
         "requireStarterOffersSequenceFinished": true,
         "offerCategory": "Dynamic",
@@ -37954,6 +37971,22 @@
             ]
           },
           {
+            "activationTime": "2025-10-27 11:15:00",
+            "contents": [
+              {
+                "type": "Gem",
+                "amount": 3000,
+                "zyngaStoreExtraAmount": 400
+              },
+              {
+                "type": "Item",
+                "id": "lottery_covenant_coin",
+                "amount": 800,
+                "zyngaStoreExtraAmount": 100
+              }
+            ]
+          },
+          {
             "activationTime": "2025-10-30 09:00:00",
             "contents": [
               {
@@ -39812,7 +39845,18 @@
       },
       {
         "id": "offer_dynamic_free_bb",
-        "schedule": []
+        "schedule": [
+          {
+            "activationTime": "2025-10-27 11:15:00",
+            "contents": [
+              {
+                "type": "Item",
+                "id": "refill_iron_giant",
+                "amount": 1
+              }
+            ]
+          }
+        ]
       },
       {
         "id": "offer_dynamic_free_cc",
@@ -43498,6 +43542,26 @@
             ]
           },
           {
+            "activationTime": "2025-10-27 11:15:00",
+            "contents": [
+              {
+                "type": "Gem",
+                "amount": 1500,
+                "zyngaStoreExtraAmount": 200
+              },
+              {
+                "type": "Item",
+                "id": "misc_loot_ticket",
+                "amount": 120
+              },
+              {
+                "type": "Item",
+                "id": "refill_energy_pve_full",
+                "amount": 5
+              }
+            ]
+          },
+          {
             "activationTime": "2025-10-30 09:00:00",
             "contents": [
               {
@@ -43807,6 +43871,17 @@
                 "type": "Item",
                 "id": "lottery_tower_coin",
                 "amount": 300
+              }
+            ]
+          },
+          {
+            "activationTime": "2025-10-27 11:15:00",
+            "contents": [
+              {
+                "type": "Item",
+                "id": "lottery_shadow_coin",
+                "amount": 800,
+                "zyngaStoreExtraAmount": 100
               }
             ]
           },
@@ -45521,6 +45596,20 @@
         "scheduledManually": true,
         "startTime": "2025-10-27 07:00:00",
         "endTime": "2025-10-31 07:00:00"
+      },
+      {
+        "id": "dynamic_offer_21_shrubbear",
+        "slot": "ShopOnly",
+        "scheduledManually": true,
+        "startTime": "2025-10-27 11:15:00",
+        "endTime": "2025-10-28 06:30:00"
+      },
+      {
+        "id": "selectable_limitbreak",
+        "slot": "ShopOnly",
+        "scheduledManually": true,
+        "startTime": "2025-10-27 11:15:00",
+        "endTime": "2025-10-29 07:00:00"
       },
       {
         "id": "dynamic_offer_46_yellow_justice",
@@ -64762,5 +64851,5 @@
       }
     ]
   },
-  "shopConfigId": 1957394759
+  "shopConfigId": 409882493
 }

@@ -211,3 +211,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+    input("\n按任意键退出...")

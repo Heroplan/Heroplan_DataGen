@@ -1,38 +1,5 @@
 [
     {
-        "name": "Labblub",
-        "fancy_name": "Curious Scientist Slime",
-        "color": "Yellow",
-        "Release date": "",
-        "star": 5,
-        "family": "slime",
-        "costume_id": 0,
-        "heroId": "slime_labblub",
-        "Lottery_Only":1
-    },
-    {
-        "name": "Harubo",
-        "fancy_name": "Patrolling Slime",
-        "color": "Yellow",
-        "Release date": "",
-        "star": 3,
-        "family": "slime",
-        "costume_id": 0,
-        "heroId": "slime_harubo",
-        "Lottery_Only":1
-    },
-    {
-        "name": "Wu Yong",
-        "fancy_name": "Knowledge Star of Water Margin",
-        "color": "Yellow",
-        "Release date": "",
-        "star": 5,
-        "family": "outlaw",
-        "costume_id": 0,
-        "heroId": "outlaw_wu_yong",
-        "Lottery_Only":1
-    },
-    {
         "name": "Cristobal C",
         "fancy_name": "Enchantments Professor",
         "color": "Green",
@@ -63,6 +30,50 @@
         "family": "magic_carpet",
         "costume_id": 0,
         "heroId": "magic_carpet_shareef",
+        "Lottery_Only":1
+    },
+    {
+        "name": "Zandria C",
+        "fancy_name": "Defender of Galaxies",
+        "color": "Yellow",
+        "Release date": "",
+        "star": 5,
+        "family": "super_elemental",
+        "costume_id": 1,
+        "heroId": "elemental_zandria_costume_planet",
+        "Lottery_Only":1
+    },
+    {
+        "name": "Wiglaf",
+        "fancy_name": "Son of Weohstan",
+        "color": "Red",
+        "Release date": "",
+        "star": 5,
+        "family": "beowulf",
+        "costume_id": 0,
+        "heroId": "beowulf_wiglaf",
+        "Lottery_Only":1
+    },
+    {
+        "name": "Marnes",
+        "fancy_name": "Flank-Stabbing Panther",
+        "color": "Purple",
+        "Release date": "",
+        "star": 5,
+        "family": "wild_cat",
+        "costume_id": 0,
+        "heroId": "wild_cat_marnes",
+        "Lottery_Only":1
+    },
+    {
+        "name": "Kadath",
+        "fancy_name": "Accursed Clergyman",
+        "color": "Purple",
+        "Release date": "",
+        "star": 5,
+        "family": "forsaken",
+        "costume_id": 0,
+        "heroId": "forsaken_kadath",
         "Lottery_Only":1
     }
 ]
