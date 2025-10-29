@@ -33255,73 +33255,73 @@
           {
             "type": "Item",
             "id": "lottery_elite_dragon",
-            "amount": 1,
+            "amount": 2,
             "zyngaStoreExtraAmount": 1
           },
           {
             "type": "Item",
-            "id": "lottery_silver_dragon_coin",
-            "amount": 200
-          },
-          {
-            "type": "Item",
-            "id": "refill_dragonling_small",
-            "amount": 5
-          },
-          {
-            "type": "Item",
             "id": "dragon_common_feather",
-            "amount": 30
+            "amount": 40
+          },
+          {
+            "type": "Item",
+            "id": "refill_fish_small",
+            "amount": 4
+          },
+          {
+            "type": "Dragon",
+            "id": "trainer_dragon_rainbow_novice_common",
+            "amount": 4
           },
           {
             "type": "Dragon",
             "id": "trainer_dragon_red_uncommon",
-            "amount": 2
+            "amount": 4
           },
           {
             "type": "Dragon",
             "id": "trainer_dragon_red_common",
-            "amount": 2
+            "amount": 4
           },
           {
             "type": "Dragon",
             "id": "trainer_dragon_yellow_uncommon",
-            "amount": 2
+            "amount": 4
           },
           {
             "type": "Dragon",
             "id": "trainer_dragon_yellow_common",
-            "amount": 2
+            "amount": 4
           },
           {
             "type": "Dragon",
             "id": "trainer_dragon_green_uncommon",
-            "amount": 2
+            "amount": 4
           },
           {
             "type": "Dragon",
             "id": "trainer_dragon_green_common",
-            "amount": 2
+            "amount": 4
           },
           {
             "type": "Dragon",
             "id": "trainer_dragon_blue_uncommon",
-            "amount": 2
+            "amount": 4
           },
           {
             "type": "Dragon",
             "id": "trainer_dragon_blue_common",
-            "amount": 2
+            "amount": 4
           },
           {
             "type": "Dragon",
             "id": "trainer_dragon_purple_uncommon",
-            "amount": 2
+            "amount": 4
           },
           {
             "type": "Dragon",
             "id": "trainer_dragon_purple_common",
-            "amount": 2
+            "amount": 4
           }
         ]
       },
@@ -33335,73 +33335,73 @@
           {
             "type": "Item",
             "id": "lottery_elite_dragon",
-            "amount": 2,
-            "zyngaStoreExtraAmount": 1
-          },
-          {
-            "type": "Item",
-            "id": "lottery_silver_dragon_coin",
-            "amount": 400
-          },
-          {
-            "type": "Item",
-            "id": "refill_dragonling_small",
-            "amount": 10
+            "amount": 4,
+            "zyngaStoreExtraAmount": 2
           },
           {
             "type": "Item",
             "id": "dragon_common_feather",
-            "amount": 60
+            "amount": 80
+          },
+          {
+            "type": "Item",
+            "id": "refill_fish_medium",
+            "amount": 8
+          },
+          {
+            "type": "Dragon",
+            "id": "trainer_dragon_rainbow_novice_common",
+            "amount": 8
           },
           {
             "type": "Dragon",
             "id": "trainer_dragon_red_uncommon",
-            "amount": 5
+            "amount": 8
           },
           {
             "type": "Dragon",
             "id": "trainer_dragon_red_common",
-            "amount": 5
+            "amount": 8
           },
           {
             "type": "Dragon",
             "id": "trainer_dragon_yellow_uncommon",
-            "amount": 5
+            "amount": 8
           },
           {
             "type": "Dragon",
             "id": "trainer_dragon_yellow_common",
-            "amount": 5
+            "amount": 8
           },
           {
             "type": "Dragon",
             "id": "trainer_dragon_green_uncommon",
-            "amount": 5
+            "amount": 8
           },
           {
             "type": "Dragon",
             "id": "trainer_dragon_green_common",
-            "amount": 5
+            "amount": 8
           },
           {
             "type": "Dragon",
             "id": "trainer_dragon_blue_uncommon",
-            "amount": 5
+            "amount": 8
           },
           {
             "type": "Dragon",
             "id": "trainer_dragon_blue_common",
-            "amount": 5
+            "amount": 8
           },
           {
             "type": "Dragon",
             "id": "trainer_dragon_purple_uncommon",
-            "amount": 5
+            "amount": 8
           },
           {
             "type": "Dragon",
             "id": "trainer_dragon_purple_common",
-            "amount": 5
+            "amount": 8
           }
         ]
       },
@@ -53928,6 +53928,23 @@
         ]
       },
       {
+        "productType": "Offer",
+        "id": "com.smallgiantgames.empires.mds_jp_twitter_sub",
+        "zyngaStoreProduct": true,
+        "contents": [
+          {
+            "type": "Item",
+            "id": "refill_energy_pve_full",
+            "amount": 2
+          },
+          {
+            "type": "Item",
+            "id": "refill_food_large",
+            "amount": 2
+          }
+        ]
+      },
+      {
         "productType": "AllianceEventSummon",
         "id": "lottery_featured_alliance_quest_castle_ad",
         "sourceProductId": "lottery_featured_alliance_quest_castle",
@@ -56513,5 +56530,5 @@
       }
     ]
   },
-  "productsConfigId": 3453234195
+  "productsConfigId": 1343860998
 }
