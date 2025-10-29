@@ -9,7 +9,7 @@ MULTIPLIERS = {
 }
 
 # 定义误差阈值
-ERROR_THRESHOLD = 2
+ERROR_THRESHOLD = 3
 def load_heroes_from_js(file_path):
     """从JS文件中加载英雄数据"""
     with open(file_path, 'r', encoding='utf-8') as f:
@@ -33,7 +33,7 @@ with open('../logs/deviation_log_floor.txt', 'w', encoding='utf-8') as log_file:
     log_file.write("======================================\n\n")
 
     # 加载英雄数据（从JS文件）
-    heroes_data = load_heroes_from_js('heroes_data_cn.js')
+    heroes_data = load_heroes_from_js('../heroes_data_cn.js')
 
     deviation_found = False
     # 遍历所有英雄
@@ -115,3 +115,4 @@ with open('../logs/deviation_log_floor.txt', 'w', encoding='utf-8') as log_file:
         log_file.write("所有英雄均未发现误差超过10的突破数据。\n")
 
 print("脚本执行完毕。请查看../logs/下生成的 'deviation_log_floor.txt' 文件。")
+input("\n按任意键退出...")

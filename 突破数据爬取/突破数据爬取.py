@@ -4,10 +4,25 @@ import time
 import requests
 import unicodedata
 
+# 定义需要忽略的元素后缀
+IGNORABLE_SUFFIXES = {'dark', 'holy', 'ice', 'nature', 'fire', 'red'}
+
+def strip_ignorable_suffix(name):
+    """如果名字以指定的元素后缀结尾，则移除它。"""
+    if not isinstance(name, str) or ' ' not in name:
+        return name
+    parts = name.split(' ')
+    if len(parts) > 1 and parts[-1].lower() in IGNORABLE_SUFFIXES:
+        return ' '.join(parts[:-1])
+    return name
+
 def normalize_name(name):
     """
     规范化英雄名字，用于构建URL。
     """
+    # **新增**：在所有处理之前，先移除元素后缀
+    name = strip_ignorable_suffix(name)
+
     name = name.strip()
     name = name.replace("'", "")
     name = name.replace("´", "")
@@ -21,32 +36,6 @@ def normalize_name(name):
         name = re.sub(r'\sC\d*$', new_suffix, name)
     name = name.replace(' ', '_')
     return name
-
-def get_costume_level_name(original_hero_name):
-    """
-    根据原始名字返回服装等级的内部名称 (firstcos, secondcos...)。
-    """
-    if " C" in original_hero_name:
-        if original_hero_name.endswith(" C4"): return 'fourthcos'
-        if original_hero_name.endswith(" C3"): return 'thirdcos'
-        if original_hero_name.endswith(" C2"): return 'secondcos'
-        if original_hero_name.endswith(" C"): return 'firstcos'
-    return 'nocos'
-
-def parse_bonus_mapping(content):
-    """
-    从页面内容中提取并解析 bonusMapping 这个JS对象。
-    """
-    match = re.search(r'const bonusMapping = (\{.*?\});', content, re.DOTALL)
-    if not match: return None
-    js_object_str = match.group(1)
-    # 转换为标准的JSON格式
-    js_object_str = re.sub(r'([{,]\s*)(\w+)(\s*:)', r'\1"\2"\3', js_object_str)
-    js_object_str = js_object_str.replace("'", '"')
-    try:
-        return json.loads(js_object_str)
-    except json.JSONDecodeError:
-        return None
 
 def extract_raw_stats(html_content, original_hero_name):
     """
@@ -95,9 +84,10 @@ def extract_raw_stats(html_content, original_hero_name):
     raw_stats = {"base": base_data,"lb1": get_limit_break_stats("radiolb1"),"lb2": get_limit_break_stats("radiolb2")}
     return {k: v for k, v in raw_stats.items() if v is not None}
 
-def fetch_hero_data(hero_name):
+def fetch_hero_data(hero_name, hero_info):
     """
     获取数据并执行最终的计算逻辑。
+    hero_info 是从 name.json 中读取的包含英雄名和奖励的对象。
     """
     normalized_name = normalize_name(hero_name)
     url = f"https://bbcamp.info/herodb/{normalized_name}/"
@@ -119,49 +109,18 @@ def fetch_hero_data(hero_name):
     final_data = {}
     final_data['base'] = raw_stats.get('base') # base数据总是直接抓取的最终值
 
-    costume_bonus = {}
-    costume_level_name = get_costume_level_name(hero_name)
-    if costume_level_name != 'nocos':
-        # ------------------- 脚本修改开始 -------------------
-        c_flag = None
-        # 为特定英雄硬编码cFlag
-        if hero_name == "Aqeela C":
-            c_flag = "64"
-            print(f"  -> 应用特殊规则: Aqeela C 的 cFlag 设置为 '64'")
-        elif hero_name == "Mr. Pengi C":
-            c_flag = "85"
-            print(f"  -> 应用特殊规则: Mr. Pengi C 的 cFlag 设置为 '85'")
-        elif hero_name == "Krampus C":
-            c_flag = "85"
-            print(f"  -> 应用特殊规则: Krampus 的 cFlag 设置为 '85'")
-        elif hero_name == "Santa Claus C":
-            c_flag = "85"
-            print(f"  -> 应用特殊规则: Santa Claus C 的 cFlag 设置为 '85'")
-        elif hero_name == "Mother North C":
-            c_flag = "85"
-            print(f"  -> 应用特殊规则: Mother North C 的 cFlag 设置为 '85'")
-        else:
-            # 对于其他英雄，正常从页面解析
-            cflag_match = re.search(r"const cFlag = '(\d+)';", content)
-            if cflag_match:
-                c_flag = cflag_match.group(1)
-        # ------------------- 脚本修改结束 -------------------
-        
-        bonus_mapping = parse_bonus_mapping(content)
-        if c_flag and bonus_mapping:
-            bonus = bonus_mapping.get(costume_level_name, {}).get(c_flag)
-            if bonus:
-                costume_bonus = {"power": bonus.get('power', 0), "protection": bonus.get('protection', 0), "life": bonus.get('life', 0)}
+    # 从传入的 hero_info 中获取服装奖励
+    costume_bonus = hero_info.get('bonuses') if hero_info else None
 
     # 处理 lb1 和 lb2
     for lb_key in ['lb1', 'lb2']:
         if lb_key in raw_stats:
             vanilla_stats = raw_stats[lb_key]
-            # 如果是服装英雄且有加成，则计算；否则使用原始值
+            # 如果是服装英雄且有从 name.json 读到的加成，则计算；否则使用原始值
             if costume_bonus:
-                final_attack = int(vanilla_stats["Attack"] * (1 + costume_bonus["power"] / 100))
-                final_defense = int(vanilla_stats["Defense"] * (1 + costume_bonus["protection"] / 100))
-                final_life = int(vanilla_stats["Life"] * (1 + costume_bonus["life"] / 100))
+                final_attack = int(vanilla_stats["Attack"] * (1 + costume_bonus.get("attack", 0) / 100))
+                final_defense = int(vanilla_stats["Defense"] * (1 + costume_bonus.get("defense", 0) / 100))
+                final_life = int(vanilla_stats["Life"] * (1 + costume_bonus.get("health", 0) / 100))
                 final_data[lb_key] = {"Attack": final_attack, "Defense": final_defense, "Life": final_life}
             else:
                 final_data[lb_key] = vanilla_stats
@@ -171,7 +130,11 @@ def fetch_hero_data(hero_name):
 def main():
     try:
         with open('name.json', 'r', encoding='utf-8') as f:
-            hero_names = json.load(f)
+            # name.json 现在是一个对象列表
+            hero_info_list = json.load(f)
+            if not isinstance(hero_info_list, list):
+                print("错误: name.json 的内容不是一个列表。")
+                return
     except FileNotFoundError:
         print("错误: name.json 文件未找到。")
         return
@@ -179,6 +142,10 @@ def main():
         print("错误: name.json 文件格式不正确。")
         return
     
+    # 创建一个从英雄名到完整信息的映射，方便查找
+    hero_info_map = {item['name']: item for item in hero_info_list if isinstance(item, dict) and 'name' in item}
+    hero_names_to_process = list(hero_info_map.keys())
+
     output_filename = 'hero_stats.json'
     all_hero_data = {}
     
@@ -189,13 +156,16 @@ def main():
     except (FileNotFoundError, json.JSONDecodeError):
         print("未找到或无法解析旧数据文件。将创建一个新文件。")
 
-    for hero_name in hero_names:
+    for hero_name in hero_names_to_process:
         if hero_name in all_hero_data:
             print(f"跳过: '{hero_name}' 的数据已存在。")
             continue
         
         print(f"处理新英雄: '{hero_name}'")
-        data = fetch_hero_data(hero_name)
+        
+        # 获取当前英雄的完整信息（包括可能的奖励）
+        current_hero_info = hero_info_map.get(hero_name)
+        data = fetch_hero_data(hero_name, current_hero_info)
         
         if data and data.get("base"):
             all_hero_data[hero_name] = data
