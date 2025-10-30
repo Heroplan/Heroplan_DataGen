@@ -79348,6 +79348,51 @@
                 ]
               }
             ]
+          },
+          {
+            "id": "magic_nov_2025",
+            "statBonuses": [
+              {
+                "bonusLevels": []
+              },
+              {
+                "bonusLevels": []
+              },
+              {
+                "bonusLevels": []
+              },
+              {
+                "bonusLevels": []
+              },
+              {
+                "bonusLevels": [
+                  {
+                    "attackBonusPerMil": 540,
+                    "defenseBonusPerMil": 540,
+                    "healthBonusPerMil": 550,
+                    "manaBonusPerMil": 10
+                  },
+                  {
+                    "attackBonusPerMil": 570,
+                    "defenseBonusPerMil": 570,
+                    "healthBonusPerMil": 580,
+                    "manaBonusPerMil": 10
+                  },
+                  {
+                    "attackBonusPerMil": 600,
+                    "defenseBonusPerMil": 600,
+                    "healthBonusPerMil": 610,
+                    "manaBonusPerMil": 10
+                  },
+                  {
+                    "attackBonusPerMil": 630,
+                    "defenseBonusPerMil": 630,
+                    "healthBonusPerMil": 640,
+                    "manaBonusPerMil": 10
+                  }
+                ]
+              }
+            ]
           }
         ],
         "enabled": true
@@ -81248,5 +81293,5 @@
     "criticalOperationPendingDelaySeconds": 3,
     "allowedCriticalOperationPendingCount": 3
   },
-  "otherConfigId": 1044345794
+  "otherConfigId": 910648755
 }

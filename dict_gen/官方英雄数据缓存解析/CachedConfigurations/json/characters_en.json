@@ -7970,7 +7970,7 @@
     "specialId": "charmed_dual_blade",
     "canBeReceivedDate": "2021-09-15 07:00:00",
     "origin": "Tower of Magic",
-    "costumeBonusesId": "magic"
+    "costumeBonusesId": "magic_nov_2025"
   },
   "magic_motega": {
     "id": "Master Groundskeeper",
@@ -27806,9 +27806,9 @@
     "id": "Son of Weohstan",
     "element": "Red",
     "family": "beowulf",
-    "baseHealth": 1066,
-    "baseAttack": 590,
-    "baseDefense": 564,
+    "baseHealth": 1099,
+    "baseAttack": 636,
+    "baseDefense": 610,
     "manaSpeedId": "fast",
     "passiveSkills": [
       "attack_buff_on_damage_received",
@@ -28073,9 +28073,9 @@
     "id": "Flank-Stabbing Panther",
     "element": "Purple",
     "family": "wild_cat",
-    "baseHealth": 1026,
-    "baseAttack": 654,
-    "baseDefense": 560,
+    "baseHealth": 1084,
+    "baseAttack": 643,
+    "baseDefense": 609,
     "manaSpeedId": "very_fast",
     "passiveSkills": [
       "resist_all_defense_effects",
@@ -31006,9 +31006,9 @@
     "id": "Accursed Clergyman",
     "element": "Purple",
     "family": "forsaken",
-    "baseHealth": 1079,
-    "baseAttack": 625,
-    "baseDefense": 607,
+    "baseHealth": 1093,
+    "baseAttack": 633,
+    "baseDefense": 616,
     "manaSpeedId": "fast",
     "passiveSkills": [
       "damage_increase_by_insanity"
@@ -31078,9 +31078,9 @@
     "id": "Unstoppable Wizard",
     "element": "Yellow",
     "family": "magic_carpet",
-    "baseHealth": 978,
-    "baseAttack": 628,
-    "baseDefense": 594,
+    "baseHealth": 1052,
+    "baseAttack": 649,
+    "baseDefense": 616,
     "manaSpeedId": "fast",
     "passiveSkills": [
       "reduce_big_minion_health",

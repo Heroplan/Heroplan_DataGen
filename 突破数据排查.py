@@ -9,7 +9,7 @@ MULTIPLIERS = {
 }
 
 # 定义误差阈值
-ERROR_THRESHOLD = 2
+ERROR_THRESHOLD = 3
 def load_heroes_from_js(file_path):
     """从JS文件中加载英雄数据"""
     with open(file_path, 'r', encoding='utf-8') as f:

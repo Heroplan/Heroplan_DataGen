@@ -471,13 +471,8 @@
         "contents": [
           {
             "type": "Item",
-            "id": "lottery_wilderness_coin",
+            "id": "lottery_mercenary_war_coin",
             "amount": 50
-          },
-          {
-            "type": "Hero",
-            "id": "trainer_rainbow_uncommon",
-            "amount": 1
           }
         ]
       },
@@ -496,12 +491,12 @@
         "contents": [
           {
             "type": "Item",
-            "id": "lottery_challenge_coin",
-            "amount": 5
+            "id": "lottery_wilderness_coin",
+            "amount": 50
           },
           {
             "type": "Item",
-            "id": "lottery_pickup_coin",
+            "id": "lottery_legendary_troop",
             "amount": 50
           }
         ]
@@ -26437,15 +26432,15 @@
         "id": "dynamic_offer_20_norns",
         "products": [
           {
-            "id": "com.smallgiantgames.empires.dynamic_10",
-            "purchaseLimit": 3
+            "id": "offer_dynamic_free_aa",
+            "purchaseLimit": 1
           },
           {
-            "id": "com.smallgiantgames.empires.dynamic_15",
-            "purchaseLimit": 3
+            "id": "com.smallgiantgames.empires.dynamic_10f",
+            "purchaseLimit": 2
           },
           {
-            "id": "com.smallgiantgames.empires.dynamic_7",
+            "id": "com.smallgiantgames.empires.dynamic_12b",
             "purchaseLimit": 2
           }
         ],
@@ -26454,6 +26449,7 @@
         "offerCategory": "Dynamic",
         "priorityInShop": 1,
         "zyngaStoreEnabled": true,
+        "dynamicType": "AllianceGift",
         "titleKey": "shop.offers.title.dynamic.destined_deals"
       },
       {
@@ -27879,20 +27875,16 @@
         "id": "dynamic_offer_23_acidfire",
         "products": [
           {
-            "id": "com.smallgiantgames.empires.dynamic_30",
+            "id": "offer_dynamic_free",
+            "purchaseLimit": 1
+          },
+          {
+            "id": "com.smallgiantgames.empires.dynamic_10e",
             "purchaseLimit": 2
           },
           {
-            "id": "com.smallgiantgames.empires.dynamic_10b",
-            "purchaseLimit": 3
-          },
-          {
-            "id": "com.smallgiantgames.empires.dynamic_7b",
-            "purchaseLimit": 3
-          },
-          {
-            "id": "com.smallgiantgames.empires.dynamic_3",
-            "purchaseLimit": 3
+            "id": "com.smallgiantgames.empires.dynamic_12c",
+            "purchaseLimit": 2
           }
         ],
         "requiresQuestsUnlocked": true,
@@ -27900,6 +27892,7 @@
         "offerCategory": "Dynamic",
         "priorityInShop": 1,
         "zyngaStoreEnabled": true,
+        "dynamicType": "AllianceGift",
         "titleKey": "shop.offers.title.dynamic.feel_the_might"
       },
       {
@@ -29872,7 +29865,7 @@
           },
           {
             "id": "com.smallgiantgames.empires.dynamic_10c",
-            "purchaseLimit": 2
+            "purchaseLimit": 4
           },
           {
             "id": "com.smallgiantgames.empires.dynamic_12c",
@@ -29880,23 +29873,23 @@
           },
           {
             "id": "com.smallgiantgames.empires.dynamic_15d",
-            "purchaseLimit": 1
+            "purchaseLimit": 2
           },
           {
             "id": "com.smallgiantgames.empires.dynamic_17",
-            "purchaseLimit": 1
+            "purchaseLimit": 2
           },
           {
             "id": "com.smallgiantgames.empires.dynamic_20e",
-            "purchaseLimit": 1
+            "purchaseLimit": 2
           },
           {
             "id": "com.smallgiantgames.empires.dynamic_29",
-            "purchaseLimit": 1
+            "purchaseLimit": 2
           },
           {
             "id": "com.smallgiantgames.empires.dynamic_50",
-            "purchaseLimit": 1
+            "purchaseLimit": 2
           },
           {
             "id": "com.smallgiantgames.empires.dynamic_33",
@@ -38239,6 +38232,16 @@
                 "amount": 1
               }
             ]
+          },
+          {
+            "activationTime": "2025-10-29 12:10:00",
+            "contents": [
+              {
+                "type": "Troop",
+                "id": "rainbow_uncommon_trainer",
+                "amount": 1
+              }
+            ]
           }
         ]
       },
@@ -39890,6 +39893,26 @@
               {
                 "type": "Troop",
                 "id": "rainbow_common_trainer",
+                "amount": 1
+              }
+            ]
+          },
+          {
+            "activationTime": "2025-10-30 09:30:00",
+            "contents": [
+              {
+                "type": "Troop",
+                "id": "rainbow_common_trainer",
+                "amount": 1
+              },
+              {
+                "type": "Item",
+                "id": "refill_iron_medium",
+                "amount": 1
+              },
+              {
+                "type": "Item",
+                "id": "refill_food_medium",
                 "amount": 1
               }
             ]
@@ -42731,6 +42754,28 @@
                 "zyngaStoreExtraAmount": 50
               }
             ]
+          },
+          {
+            "activationTime": "2025-10-30 09:30:00",
+            "contents": [
+              {
+                "type": "Troop",
+                "id": "rainbow_rare_trainer",
+                "amount": 8
+              },
+              {
+                "type": "Item",
+                "id": "refill_food_giant",
+                "amount": 2,
+                "zyngaStoreExtraAmount": 2
+              },
+              {
+                "type": "Item",
+                "id": "refill_iron_giant",
+                "amount": 2,
+                "zyngaStoreExtraAmount": 2
+              }
+            ]
           }
         ]
       },
@@ -43351,6 +43396,28 @@
             ]
           },
           {
+            "activationTime": "2025-10-29 12:10:00",
+            "contents": [
+              {
+                "type": "Item",
+                "id": "lottery_mercenary_war_coin",
+                "amount": 450,
+                "zyngaStoreExtraAmount": 100
+              },
+              {
+                "type": "Item",
+                "id": "lottery_covenant_coin",
+                "amount": 450,
+                "zyngaStoreExtraAmount": 50
+              },
+              {
+                "type": "Item",
+                "id": "relic_level_up_xp_multiplier",
+                "amount": 1
+              }
+            ]
+          },
+          {
             "activationTime": "2025-10-30 09:00:00",
             "contents": [
               {
@@ -43849,6 +43916,17 @@
             ]
           },
           {
+            "activationTime": "2025-10-29 12:10:00",
+            "contents": [
+              {
+                "type": "Item",
+                "id": "lottery_pickup_coin",
+                "amount": 800,
+                "zyngaStoreExtraAmount": 100
+              }
+            ]
+          },
+          {
             "activationTime": "2025-10-31 07:00:00",
             "contents": [
               {
@@ -43983,6 +44061,22 @@
                 "id": "lottery_shadow_coin",
                 "amount": 800,
                 "zyngaStoreExtraAmount": 100
+              }
+            ]
+          },
+          {
+            "activationTime": "2025-10-30 09:30:00",
+            "contents": [
+              {
+                "type": "Item",
+                "id": "lottery_wilderness_coin",
+                "amount": 500,
+                "zyngaStoreExtraAmount": 100
+              },
+              {
+                "type": "Item",
+                "id": "lottery_legendary_troop",
+                "amount": 500
               }
             ]
           },
@@ -45091,13 +45185,6 @@
         "endTime": "2025-10-18 06:30:00"
       },
       {
-        "id": "dynamic_offer_35_sable",
-        "slot": "RightBottom",
-        "scheduledManually": true,
-        "startTime": "2025-10-16 07:00:00",
-        "endTime": "2025-10-18 06:30:00"
-      },
-      {
         "id": "dragon_flaming_new",
         "slot": "RightBottom",
         "scheduledManually": true,
@@ -45199,13 +45286,6 @@
         "scheduledManually": true,
         "startTime": "2025-10-18 07:00:00",
         "endTime": "2025-10-22 07:00:00"
-      },
-      {
-        "id": "dynamic_offer_23_acidfire",
-        "slot": "ShopOnly",
-        "scheduledManually": true,
-        "startTime": "2025-10-19 07:00:00",
-        "endTime": "2025-10-20 06:30:00"
       },
       {
         "id": "dynamic_offer_50_red_carmenta",
@@ -45356,13 +45436,6 @@
         "endTime": "2025-10-25 07:00:00"
       },
       {
-        "id": "dynamic_offer_36_yellow_eloise",
-        "slot": "ShopOnly",
-        "scheduledManually": true,
-        "startTime": "2025-10-21 11:15:00",
-        "endTime": "2025-10-22 06:30:00"
-      },
-      {
         "id": "dynamic_offer_13_green_lughaidh",
         "slot": "RightBottom",
         "scheduledManually": true,
@@ -45465,13 +45538,6 @@
         "scheduledManually": true,
         "startTime": "2025-10-23 07:00:00",
         "endTime": "2025-10-27 07:00:00"
-      },
-      {
-        "id": "dynamic_offer_41_yellow_sif",
-        "slot": "ShopOnly",
-        "scheduledManually": true,
-        "startTime": "2025-10-23 11:30:00",
-        "endTime": "2025-10-24 06:30:00"
       },
       {
         "id": "dynamic_offer_45_red_alucard",
@@ -45699,13 +45765,6 @@
         "endTime": "2025-10-31 07:00:00"
       },
       {
-        "id": "dynamic_offer_21_shrubbear",
-        "slot": "ShopOnly",
-        "scheduledManually": true,
-        "startTime": "2025-10-27 11:15:00",
-        "endTime": "2025-10-28 06:30:00"
-      },
-      {
         "id": "selectable_limitbreak",
         "slot": "ShopOnly",
         "scheduledManually": true,
@@ -45845,11 +45904,25 @@
         "endTime": "2025-11-02 07:00:00"
       },
       {
+        "id": "dynamic_offer_23_acidfire",
+        "slot": "ShopOnly",
+        "scheduledManually": true,
+        "startTime": "2025-10-29 12:10:00",
+        "endTime": "2025-10-30 06:30:00"
+      },
+      {
         "id": "dynamic_offer_58_seshat",
-        "slot": "LeftBottom",
+        "slot": "ShopOnly",
         "scheduledManually": true,
         "startTime": "2025-10-30 07:00:00",
         "endTime": "2025-10-31 06:30:00"
+      },
+      {
+        "id": "double_wilderness",
+        "slot": "LeftBottom",
+        "scheduledManually": true,
+        "startTime": "2025-10-30 07:00:00",
+        "endTime": "2025-10-31 07:00:00"
       },
       {
         "id": "halloween_10_30",
@@ -45898,6 +45971,13 @@
         "endTime": "2025-11-01 06:30:00"
       },
       {
+        "id": "dynamic_offer_20_norns",
+        "slot": "ShopOnly",
+        "scheduledManually": true,
+        "startTime": "2025-10-30 09:30:00",
+        "endTime": "2025-10-31 06:30:00"
+      },
+      {
         "id": "dynamic_offer_3_green_elradir",
         "slot": "LeftBottom",
         "scheduledManually": true,
@@ -45906,10 +45986,17 @@
       },
       {
         "id": "dynamic_offer_47_blue_fenrir",
-        "slot": "LeftExtraTop",
+        "slot": "ShopOnly",
         "scheduledManually": true,
         "startTime": "2025-10-31 07:00:00",
         "endTime": "2025-11-01 06:30:00"
+      },
+      {
+        "id": "double_wilderness_2",
+        "slot": "LeftExtraTop",
+        "scheduledManually": true,
+        "startTime": "2025-10-31 07:00:00",
+        "endTime": "2025-11-01 07:00:00"
       },
       {
         "id": "halloween_5_100",
@@ -56786,6 +56873,98 @@
                 "布兰博",
                 "费尔尼"
               ]
+            },
+            {
+              "lotteryProductType": "荒野召唤",
+              "id": "lottery_wilderness_2025_10_30",
+              "productId": "lottery_wilderness_default",
+              "startDate": "2025-10-30 07:00:00",
+              "endDate": "2025-11-01 07:00:00",
+              "overridden": true,
+              "featuredHeroes": [
+                "弗吉安特",
+                "加德瑞德",
+                "金滴",
+                "拉格里姆"
+              ],
+              "advertisedHero": "moth_furgeant",
+              "includedHeroes": [
+                "但丁",
+                "波肯",
+                "鲁弗斯",
+                "贝索",
+                "寅将军",
+                "灌木熊",
+                "洛茜娅",
+                "塔克修士",
+                "扎丽尔",
+                "格里弗",
+                "布朗歇",
+                "沃德尼克",
+                "索罗卡",
+                "诺德里",
+                "河洛",
+                "萨丝琪雅",
+                "费尔顿",
+                "凯兰尼",
+                "柑橘",
+                "阿奎拉",
+                "树威尔",
+                "提灯",
+                "布达廷",
+                "泰伦",
+                "兰斯洛特爵士",
+                "扎伯格",
+                "拉乌尔",
+                "露西",
+                "住友",
+                "卡勒",
+                "布隆特斯",
+                "韩塞尔",
+                "柱子骨骼",
+                "木果",
+                "佛斯考",
+                "基里尔",
+                "格里亚斯",
+                "奥兹玛",
+                "赵",
+                "苏格拉泰",
+                "迷雾",
+                "摆摆",
+                "普罗透斯",
+                "小蛋糕",
+                "科达",
+                "黑风怪",
+                "富尔维亚",
+                "阿拉敏塔",
+                "仙妲",
+                "艾西多尔",
+                "埃卡奈特",
+                "裴雷格林",
+                "齐格弗里德王子",
+                "玛阿特",
+                "鬼若丸",
+                "卡蜜拉",
+                "维里蒂",
+                "河马守护者",
+                "基迪恩",
+                "克利奥帕特拉",
+                "艾塞特",
+                "欧吉马",
+                "巴斯泰托",
+                "露娜",
+                "塔姆林",
+                "罗什福尔",
+                "米尔特",
+                "莫德",
+                "约兰达",
+                "菲洛梅娜",
+                "伊莎贝尔",
+                "乔利恩",
+                "阿西安",
+                "布兰博",
+                "费尔尼"
+              ]
             }
           ],
           "scheduleNotification": true,
@@ -65080,5 +65259,5 @@
       }
     ]
   },
-  "shopConfigId": 56185389
+  "shopConfigId": 1774230185
 }

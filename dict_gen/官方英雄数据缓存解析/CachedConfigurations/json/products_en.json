@@ -2055,7 +2055,7 @@
         "id": "lottery_featured_event_beowulf",
         "gemPrice": 350,
         "amount": 1,
-        "uiPriority": 90,
+        "uiPriority": 147,
         "advertisedHero": "cultist_female_poisoner",
         "associatedEvent": "RecurringBeowulf",
         "bonusChest": "beowulf_chest",
@@ -2145,7 +2145,7 @@
         "id": "lottery_wilderness_default",
         "gemPrice": 400,
         "amount": 1,
-        "uiPriority": 142,
+        "uiPriority": 146,
         "associatedEvent": "WildernessSummon",
         "bonusChest": "wilderness_chest",
         "bonusChestRequirement": 10,
@@ -2254,7 +2254,7 @@
         "id": "lottery_shadow_default",
         "gemPrice": 450,
         "amount": 1,
-        "uiPriority": 138,
+        "uiPriority": 145,
         "associatedEvent": "ShadowQuest",
         "bonusChest": "shadow_summon_chest",
         "bonusChestRequirement": 10,
@@ -3779,7 +3779,7 @@
         "id": "lottery_tower_magic_default",
         "gemPrice": 350,
         "amount": 1,
-        "uiPriority": 141,
+        "uiPriority": 144,
         "advertisedHero": "magic_carpet_shareef",
         "associatedEvent": "TowerMagic",
         "bucketWeights": [
@@ -35072,7 +35072,7 @@
         "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [],
-        "allianceGiftCustomContentId": "dynamic_alliancegift",
+        "allianceGiftCustomContentId": "dynamic2_alliancegift",
         "dynamicOfferProduct": true
       },
       {
@@ -35082,6 +35082,7 @@
         "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [],
+        "allianceGiftCustomContentId": "dynamic3_alliancegift",
         "dynamicOfferProduct": true
       },
       {
@@ -56530,5 +56531,5 @@
       }
     ]
   },
-  "productsConfigId": 1343860998
+  "productsConfigId": 285083522
 }
