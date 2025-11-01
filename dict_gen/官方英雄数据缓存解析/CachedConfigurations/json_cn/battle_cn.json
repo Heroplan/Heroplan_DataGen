@@ -54262,7 +54262,7 @@
         "id": "add_insanity_kadath",
         "buff": "PermanentDebuff",
         "alwaysAdd": true,
-        "insanityToAdd": 45,
+        "insanityToAdd": 50,
         "reductionOnHealSources": [
           "SpecialSkill",
           "AssistSkill",
@@ -54275,7 +54275,7 @@
         "id": "add_insanity_to_self_kadath",
         "buff": "PermanentDebuff",
         "alwaysAdd": true,
-        "insanityToAdd": 55,
+        "insanityToAdd": 45,
         "reductionOnHealSources": [
           "SpecialSkill",
           "AssistSkill",
@@ -54385,10 +54385,8 @@
         "statusEffect": "BouncingDamageOverTime",
         "id": "bouncing_damage_over_time_anatemah",
         "buff": "MinorDebuff",
-        "damageMultiplierPerMil": 0,
-        "damageMultiplierIncrementPerLevelPerMil": 0,
-        "fixedDamagePerTurn": 560,
-        "fixedDamagePerTurnIncrementPerLevel": 20,
+        "damageMultiplierPerMil": 270,
+        "damageMultiplierIncrementPerLevelPerMil": 20,
         "maxBounces": 5,
         "bounceTargetType": "All",
         "bounceSideAffected": "Allies"
@@ -54434,7 +54432,7 @@
         "statusEffect": "ReceivedDamageModifier",
         "id": "received_damage_increase_shareef",
         "buff": "MinorDebuff",
-        "receivedDamageMultiplierPerMil": 1200,
+        "receivedDamageMultiplierPerMil": 1230,
         "receivedDamageMultiplierIncrementPerLevelPerMil": 10
       },
       {
@@ -54514,6 +54512,22 @@
         "iconOverrideStatusEffectId": "counter_attack",
         "damageDeflectionPerMil": 860,
         "damageDeflectionPerLevelPerMil": 20
+      },
+      {
+        "statusEffect": "Bleeding",
+        "id": "bleed_shareef",
+        "buff": "MinorDebuff",
+        "iconOverrideStatusEffectId": "bleed",
+        "damageMultiplierPerMil": 150,
+        "damageMultiplierIncrementPerLevelPerMil": 2
+      },
+      {
+        "statusEffect": "Burn",
+        "id": "burn_wiglaf",
+        "buff": "MinorDebuff",
+        "iconOverrideStatusEffectId": "burn",
+        "damageMultiplierPerMil": 105,
+        "damageMultiplierIncrementPerLevelPerMil": 10
       }
     ],
     "tileEnhancements": [
@@ -80787,5 +80801,5 @@
       "SharedDamage"
     ]
   },
-  "battleConfigId": 995924103
+  "battleConfigId": 511970269
 }

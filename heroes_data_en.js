@@ -109035,5 +109035,31 @@ window.allHeroes =
         "costume_id": 0,
         "originalIndex": 1572,
         "cn_skill_info": []
+    },
+    {
+        "name": "Eldwren",
+        "fancy_name": "The Flock Father",
+        "AetherPower": "",
+        "color": "Purple",
+        "class": "Paladin",
+        "speed": "Slow",
+        "skill": "",
+        "types": [],
+        "skill_types": [],
+        "source": "",
+        "Release date": "",
+        "specialId": "",
+        "heroId": "dark_god_eldwren",
+        "star": 5,
+        "power": null,
+        "attack": null,
+        "defense": null,
+        "health": null,
+        "effects": [],
+        "passives": [],
+        "family": "hotm2025",
+        "costume_id": 0,
+        "originalIndex": 1573,
+        "cn_skill_info": []
     }
 ];

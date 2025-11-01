@@ -27812,7 +27812,8 @@
     "manaSpeedId": "快速",
     "passiveSkills": [
       "attack_buff_on_damage_received",
-      "resist_direct_mana_reductions"
+      "resist_mana_reductions_with_health_boost_and_mana",
+      "never_miss_special"
     ],
     "classType": "圣骑士",
     "aetherGift": "Attack Up",

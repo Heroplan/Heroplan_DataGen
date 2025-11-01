@@ -154,6 +154,10 @@
           {
             "key": "specials.v2.property.superscratch.damage.sides.enemies.minion.bigminion.hittargetsonly.statuseffects.brittle_superscratch",
             "text": "Infligge il {POWERFOROTHERTARGETS}% di danni da [#!]artiglio[#] ai nemici ai confini della formazione. Se c'è un solo nemico, i danni vengono raddoppiati."
+          },
+          {
+            "key": "specials.v2.statuseffect.minor.receiveddamagemodifier.single.enemies.chain_strike",
+            "text": "Tutti i bersagli colpiti subiscono il {DAMAGEMODIFIER}% di danni aumentati per {TURNS} turni."
           }
         ]
       },
@@ -310,6 +314,10 @@
           {
             "key": "specials.v2.property.superscratch.damage.sides.enemies.minion.bigminion.hittargetsonly.statuseffects.brittle_superscratch",
             "text": "Наносит {POWERFOROTHERTARGETS} % [#!]царапающего[#] урона врагам по краям. Если остался только один враг, то урон удваивается."
+          },
+          {
+            "key": "specials.v2.statuseffect.minor.receiveddamagemodifier.single.enemies.chain_strike",
+            "text": "Все попавшие под удар цели получают {DAMAGEMODIFIER} % увеличенного урона на {TURNS} х."
           }
         ]
       },
@@ -466,6 +474,10 @@
           {
             "key": "specials.v2.property.superscratch.damage.sides.enemies.minion.bigminion.hittargetsonly.statuseffects.brittle_superscratch",
             "text": "Zadaje {POWERFOROTHERTARGETS}% [#!]rozdzierających[#] obrażeń wrogom na skraju formacji. Jeśli został tylko jeden wróg, obrażenia są podwajane."
+          },
+          {
+            "key": "specials.v2.statuseffect.minor.receiveddamagemodifier.single.enemies.chain_strike",
+            "text": "Wszystkie trafione cele otrzymują o {DAMAGEMODIFIER}% zwiększone obrażenia przez okres {TURNS} tur."
           }
         ]
       },
@@ -622,6 +634,10 @@
           {
             "key": "specials.v2.property.superscratch.damage.sides.enemies.minion.bigminion.hittargetsonly.statuseffects.brittle_superscratch",
             "text": "對位於陣型邊緣的敵人造成{POWERFOROTHERTARGETS}%[#!]爪擊[#]傷害。如果只有1個敵人，傷害加倍。"
+          },
+          {
+            "key": "specials.v2.statuseffect.minor.receiveddamagemodifier.single.enemies.chain_strike",
+            "text": "被命中的所有敵人，受到的傷害增加{DAMAGEMODIFIER}% ，持續{TURNS}回合。"
           }
         ]
       },
@@ -778,6 +794,10 @@
           {
             "key": "specials.v2.property.superscratch.damage.sides.enemies.minion.bigminion.hittargetsonly.statuseffects.brittle_superscratch",
             "text": "대형 가장자리에 있는 적들에게 {POWERFOROTHERTARGETS}% [#!]발톱[#] 피해를 줍니다. 적이 하나뿐이면 피해량이 두 배로 늘어납니다."
+          },
+          {
+            "key": "specials.v2.statuseffect.minor.receiveddamagemodifier.single.enemies.chain_strike",
+            "text": "모든 대상은 {TURNS}턴 동안 {DAMAGEMODIFIER}% 추가 피해를 받습니다."
           }
         ]
       },
@@ -934,6 +954,10 @@
           {
             "key": "specials.v2.property.superscratch.damage.sides.enemies.minion.bigminion.hittargetsonly.statuseffects.brittle_superscratch",
             "text": "Fügt Gegnern am Rand der Formation {POWERFOROTHERTARGETS} % [#!]Klauen[#]-Schaden zu. Wenn nur ein Gegner übrig ist, wird der Schaden verdoppelt."
+          },
+          {
+            "key": "specials.v2.statuseffect.minor.receiveddamagemodifier.single.enemies.chain_strike",
+            "text": "Alle Ziele erhalten für {TURNS} Runden {DAMAGEMODIFIER} % mehr Schaden."
           }
         ]
       },
@@ -1094,6 +1118,10 @@
           {
             "key": "specials.v2.property.superscratch.damage.sides.enemies.minion.bigminion.hittargetsonly.statuseffects.brittle_superscratch",
             "text": "陣形の両端にいる敵に{POWERFOROTHERTARGETS}%の[#!]鉤爪[#]のダメージを与える。敵が1体しかいない場合は与えるダメージが2倍になる。"
+          },
+          {
+            "key": "specials.v2.statuseffect.minor.receiveddamagemodifier.single.enemies.chain_strike",
+            "text": "攻撃を受けたターゲット全員が{TURNS}ターンの間、{DAMAGEMODIFIER}%の増加ダメージを受ける。"
           }
         ]
       },
@@ -1250,6 +1278,10 @@
           {
             "key": "specials.v2.property.superscratch.damage.sides.enemies.minion.bigminion.hittargetsonly.statuseffects.brittle_superscratch",
             "text": "Gör {POWERFOROTHERTARGETS} % [#!]klösskada[#] mot fiender vid kanten av fiendeformationen. Om det bara finns en fiende dubblas skadan."
+          },
+          {
+            "key": "specials.v2.statuseffect.minor.receiveddamagemodifier.single.enemies.chain_strike",
+            "text": "Alla mål som träffas tar {DAMAGEMODIFIER} % mer skada i {TURNS} rundor"
           }
         ]
       },
@@ -1406,6 +1438,10 @@
           {
             "key": "specials.v2.property.superscratch.damage.sides.enemies.minion.bigminion.hittargetsonly.statuseffects.brittle_superscratch",
             "text": "Oluşumun kenarlarındaki düşmanlara %{POWERFOROTHERTARGETS} [#!]Pençeleme[#] hasarı verir. Sadece bir düşman varsa hasar iki katına çıkar."
+          },
+          {
+            "key": "specials.v2.statuseffect.minor.receiveddamagemodifier.single.enemies.chain_strike",
+            "text": "İsabet alan tüm hedefler {TURNS} tur boyunca %{DAMAGEMODIFIER} artırılmış hasar alır."
           }
         ]
       },
@@ -1450,6 +1486,10 @@
           {
             "key": "odds.hero_event_super_elemental_yellow_3",
             "text": "[#ffffff]RARE[#] Event [##elementyellow]Holy[#] Hero: [#!]{0}%[#]"
+          },
+          {
+            "key": "specials.v2.statuseffect.minor.receiveddamagemodifier.single.enemies.chain_strike",
+            "text": "All hit targets get {DAMAGEMODIFIER}% increased damage for {TURNS} turns."
           }
         ]
       },
@@ -1606,6 +1646,10 @@
           {
             "key": "specials.v2.property.superscratch.damage.sides.enemies.minion.bigminion.hittargetsonly.statuseffects.brittle_superscratch",
             "text": "لإلحاق {POWERFOROTHERTARGETS}% من ضرر تمزيق [#!]المخلب[#] بالأعداء الموجودين على أطراف التشكيل. إذا وُجد عدو واحد فقط، يتضاعف الضرر."
+          },
+          {
+            "key": "specials.v2.statuseffect.minor.receiveddamagemodifier.single.enemies.chain_strike",
+            "text": "جميع الأهداف المصابة تحصل على زيادة في الضرر بنسبة {DAMAGEMODIFIER}% لمدة {TURNS} من الجولات"
           }
         ]
       },
@@ -1762,6 +1806,10 @@
           {
             "key": "specials.v2.property.superscratch.damage.sides.enemies.minion.bigminion.hittargetsonly.statuseffects.brittle_superscratch",
             "text": "Inflige {POWERFOROTHERTARGETS} % de dégâts de [#!]griffes[#] aux ennemis sur les bords de leur formation. S'il n'y a qu'un seul ennemi, les dégâts sont doublés."
+          },
+          {
+            "key": "specials.v2.statuseffect.minor.receiveddamagemodifier.single.enemies.chain_strike",
+            "text": "Toutes les cibles touchées subissent {DAMAGEMODIFIER} % de dégâts supplémentaires pendant {TURNS} tours."
           }
         ]
       },
@@ -1918,6 +1966,10 @@
           {
             "key": "specials.v2.property.superscratch.damage.sides.enemies.minion.bigminion.hittargetsonly.statuseffects.brittle_superscratch",
             "text": "Causa {POWERFOROTHERTARGETS}% de dano de [#!]garra[#] aos inimigos nas bordas da formação. Quando só há um inimigo, o dano é duplicado."
+          },
+          {
+            "key": "specials.v2.statuseffect.minor.receiveddamagemodifier.single.enemies.chain_strike",
+            "text": "Todos os alvos recebem {DAMAGEMODIFIER}% mais dano por {TURNS} turnos."
           }
         ]
       },
@@ -2074,6 +2126,10 @@
           {
             "key": "specials.v2.property.superscratch.damage.sides.enemies.minion.bigminion.hittargetsonly.statuseffects.brittle_superscratch",
             "text": "Menimbulkan kerusakan [#!]Cakar[#] {POWERFOROTHERTARGETS}% kepada musuh di tepi formasi. Jika hanya ada satu musuh, kerusakannya ganda."
+          },
+          {
+            "key": "specials.v2.statuseffect.minor.receiveddamagemodifier.single.enemies.chain_strike",
+            "text": "Semua sasaran yang terkena mengalami {DAMAGEMODIFIER}% peningkatan kerusakan selama {TURNS} giliran"
           }
         ]
       },
@@ -2230,6 +2286,10 @@
           {
             "key": "specials.v2.property.superscratch.damage.sides.enemies.minion.bigminion.hittargetsonly.statuseffects.brittle_superscratch",
             "text": "Tuottaa {POWERFOROTHERTARGETS} % [#!]kynsimis[#]vauriota ryhmän laidoilla oleville vihollisille. Jos vihollisia on vain yksi, vaurio tuplaantuu."
+          },
+          {
+            "key": "specials.v2.statuseffect.minor.receiveddamagemodifier.single.enemies.chain_strike",
+            "text": "Kaikki osutut kohteet kärsivät {DAMAGEMODIFIER} % enemmän vauriota {TURNS} vuoron ajan."
           }
         ]
       },
@@ -2386,6 +2446,10 @@
           {
             "key": "specials.v2.property.superscratch.damage.sides.enemies.minion.bigminion.hittargetsonly.statuseffects.brittle_superscratch",
             "text": "Giver {POWERFOROTHERTARGETS} % [#!]kloskade[#] imod fjenderne yderst i formationen. Hvis der kun er en enkelt fjende, fordobles skaden."
+          },
+          {
+            "key": "specials.v2.statuseffect.minor.receiveddamagemodifier.single.enemies.chain_strike",
+            "text": "Alle ramte mål får {DAMAGEMODIFIER} % øget skade i {TURNS} runder"
           }
         ]
       },
@@ -2542,6 +2606,10 @@
           {
             "key": "specials.v2.property.superscratch.damage.sides.enemies.minion.bigminion.hittargetsonly.statuseffects.brittle_superscratch",
             "text": "Inflige un {POWERFOROTHERTARGETS} % de daño [#!]desgarrador[#] a los enemigos en los márgenes de la formación. Si solo queda un enemigo, el daño se duplica."
+          },
+          {
+            "key": "specials.v2.statuseffect.minor.receiveddamagemodifier.single.enemies.chain_strike",
+            "text": "Todos los objetivos golpeados reciben un {DAMAGEMODIFIER} % más de daño durante {TURNS} turnos."
           }
         ]
       },
@@ -2698,6 +2766,10 @@
           {
             "key": "specials.v2.property.superscratch.damage.sides.enemies.minion.bigminion.hittargetsonly.statuseffects.brittle_superscratch",
             "text": "Påfører {POWERFOROTHERTARGETS} % [#!]kloreskade[#] på fiendene på kanten av formasjonen. Dersom det kun er én fiende, dobles skaden."
+          },
+          {
+            "key": "specials.v2.statuseffect.minor.receiveddamagemodifier.single.enemies.chain_strike",
+            "text": "Alle mål truffet får {DAMAGEMODIFIER} % økt skade i {TURNS} runder"
           }
         ]
       },
@@ -2854,6 +2926,10 @@
           {
             "key": "specials.v2.property.superscratch.damage.sides.enemies.minion.bigminion.hittargetsonly.statuseffects.brittle_superscratch",
             "text": "Doet {POWERFOROTHERTARGETS}% [#!]klauwschade[#] aan vijanden aan de randen van de formatie. Als er maar één vijand is, wordt de schade verdubbeld."
+          },
+          {
+            "key": "specials.v2.statuseffect.minor.receiveddamagemodifier.single.enemies.chain_strike",
+            "text": "Alle getroffen doelwitten lijden {TURNS} beurten lang {DAMAGEMODIFIER}% meer schade"
           }
         ]
       },
@@ -3010,10 +3086,14 @@
           {
             "key": "specials.v2.property.superscratch.damage.sides.enemies.minion.bigminion.hittargetsonly.statuseffects.brittle_superscratch",
             "text": "对位于敌军阵型边缘的敌人造成{POWERFOROTHERTARGETS}%[#!]抓挠[#]伤害。如果仅有一名敌人，则伤害加倍。"
+          },
+          {
+            "key": "specials.v2.statuseffect.minor.receiveddamagemodifier.single.enemies.chain_strike",
+            "text": "命中的所有目标受到的伤害增加{DAMAGEMODIFIER}%，持续{TURNS}回合。"
           }
         ]
       }
     }
   },
-  "languageOverridesConfigId": 7179701
+  "languageOverridesConfigId": 3859542396
 }

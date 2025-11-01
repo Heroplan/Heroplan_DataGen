@@ -75,5 +75,16 @@
         "costume_id": 0,
         "heroId": "forsaken_kadath",
         "Lottery_Only":1
+    },
+    {
+        "name": "Eldwren",
+        "fancy_name": "The Flock Father",
+        "color": "Purple",
+        "Release date": "",
+        "star": 5,
+        "family": "hotm2025",
+        "costume_id": 0,
+        "heroId": "dark_god_eldwren",
+        "Lottery_Only":1
     }
 ]

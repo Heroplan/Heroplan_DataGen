@@ -44738,7 +44738,7 @@
           "sideAffected": "Enemies",
           "typeOfTarget": "NearToTarget",
           "effectType": "Damage",
-          "powerMultiplierPerMil": 3450,
+          "powerMultiplierPerMil": 3650,
           "powerMultiplierIncrementPerLevelPerMil": 50
         },
         "maxLevel": 8,
@@ -44746,6 +44746,12 @@
           "last_stand_wiglaf"
         ],
         "statusEffects": [
+          {
+            "id": "burn_wiglaf",
+            "sideAffected": "Enemies",
+            "statusTargetType": "NearToTarget",
+            "turns": 3
+          },
           {
             "id": "special_damage_power_modifier_wiglaf",
             "sideAffected": "Allies",
@@ -61394,18 +61400,22 @@
         "propertyType": "DifferentExtraHitPowerChainStrike",
         "id": "chain_strike_shareef",
         "chainEffectType": "Damage",
-        "powerMultiplierPerMil": 3900,
+        "powerMultiplierPerMil": 3650,
         "powerMultiplierIncrementPerLevelPerMil": 50,
         "maxExtraHits": 2,
         "extraHitChancePerMil": 1000,
-        "statusEffectsOnExtraHitsOverride": [
+        "statusEffects": [
           {
             "id": "received_damage_increase_shareef",
+            "turns": 3
+          },
+          {
+            "id": "bleed_shareef",
             "turns": 3
           }
         ],
         "allowMainTargetInRandomTargets": true,
-        "additionalHitDamagePerMil": 3450,
+        "additionalHitDamagePerMil": 3650,
         "additionalHitDamageIncrementPerLevelPerMil": 50
       },
       {
@@ -61538,5 +61548,5 @@
       }
     ]
   },
-  "specialsConfigId": 1039955491
+  "specialsConfigId": 4278768572
 }
