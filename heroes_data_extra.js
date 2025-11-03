@@ -40790,5 +40790,57 @@ window.allHeroesExtra = [
             "cleanse_on_special_critical_damage_all_safe"
         ],
         "family": "outlaw"
+    },
+    {
+        "name": "Anatemah",
+        "fancy name": "Astral Demon Empress",
+        "element": "Blue",
+        "rarity": 5,
+        "class": "Cleric",
+        "speed": "slow",
+        "Release date": "2025-11-02",
+        "AetherPower": "Defense Up",
+        "skill_types": [
+            "Chain & Random Attackers",
+            "Buff Blockers",
+            "Extra Damage Dealers",
+            "DoT Attackers",
+            "Bypassers"
+        ],
+        "heroId": "astral_demon_anatemah",
+        "baseAttack": 593,
+        "baseDefense": 661,
+        "baseHealth": 1099,
+        "specialId": "astral_orb",
+        "passiveSkills": [
+            "never_miss_special",
+            "resist_all_mana_debuffs"
+        ],
+        "family": "astral_demons"
+    },
+    {
+        "name": "Eldwren",
+        "fancy name": "The Flock Father",
+        "element": "Purple",
+        "rarity": 5,
+        "class": "Druid",
+        "speed": "average",
+        "Release date": "2025-11-01",
+        "AetherPower": "Dodge",
+        "skill_types": [
+            "Snipers",
+            "Fiends Summoners",
+            "Mindless Attack & Mindless Heal"
+        ],
+        "heroId": "dark_god_eldwren",
+        "baseAttack": 577,
+        "baseDefense": 549,
+        "baseHealth": 1013,
+        "specialId": "flock_of_folly_eldwren",
+        "passiveSkills": [
+            "resist_special_blocking",
+            "resist_parasites"
+        ],
+        "family": "hotm2025"
     }
 ];

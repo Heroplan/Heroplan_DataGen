@@ -27736,5 +27736,41 @@
             "Defense": 1568,
             "Life": 2875
         }
+    },
+    "Anatemah": {
+        "base": {
+            "Attack": 1221,
+            "Defense": 1361,
+            "Life": 2263,
+            "Power": 1250
+        },
+        "lb1": {
+            "Attack": 1316,
+            "Defense": 1467,
+            "Life": 2439
+        },
+        "lb2": {
+            "Attack": 1506,
+            "Defense": 1678,
+            "Life": 2791
+        }
+    },
+    "Eldwren": {
+        "base": {
+            "Attack": 1188,
+            "Defense": 1130,
+            "Life": 2086,
+            "Power": 1149
+        },
+        "lb1": {
+            "Attack": 1280,
+            "Defense": 1218,
+            "Life": 2248
+        },
+        "lb2": {
+            "Attack": 1465,
+            "Defense": 1394,
+            "Life": 2573
+        }
     }
 }
