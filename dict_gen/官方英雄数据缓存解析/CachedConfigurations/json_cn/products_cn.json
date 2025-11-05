@@ -21179,7 +21179,6 @@
         "id": "com.smallgiantgames.empires.selectable_ascension_1",
         "dollarValue": 25,
         "zyngaStoreDollarValueOverride": 23,
-        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -27191,7 +27190,6 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.luxury_threekingdoms",
         "dollarValue": 100,
-        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -27987,7 +27985,6 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.step_up_nature_1",
         "dollarValue": 2,
-        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -28006,7 +28003,6 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.step_up_nature_2",
         "dollarValue": 5,
-        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -28025,7 +28021,6 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.step_up_nature_3",
         "dollarValue": 10,
-        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -28044,7 +28039,6 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.step_up_nature_4",
         "dollarValue": 30,
-        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -28068,7 +28062,6 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.step_up_nature_5",
         "dollarValue": 100,
-        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -35008,7 +35001,7 @@
         "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [],
-        "allianceGiftCustomContentId": "dynamic_alliancegift",
+        "allianceGiftCustomContentId": "",
         "dynamicOfferProduct": true
       },
       {
@@ -35027,6 +35020,7 @@
         "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [],
+        "allianceGiftCustomContentId": "dynamic3_alliancegift",
         "dynamicOfferProduct": true
       },
       {
@@ -56532,5 +56526,5 @@
       }
     ]
   },
-  "productsConfigId": 2623243129
+  "productsConfigId": 3397813797
 }

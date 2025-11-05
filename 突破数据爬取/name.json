@@ -7004,5 +7004,16 @@
     },
     {
         "name": "Eldwren"
+    },
+    {
+        "name": "Cristobal C",
+        "bonuses": {
+            "attack": 63,
+            "defense": 63,
+            "health": 64
+        }
+    },
+    {
+        "name": "Shareef"
     }
 ]

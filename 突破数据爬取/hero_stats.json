@@ -27772,5 +27772,41 @@
             "Defense": 1394,
             "Life": 2573
         }
+    },
+    "Cristobal C": {
+        "base": {
+            "Attack": 1302,
+            "Defense": 1224,
+            "Life": 2327,
+            "Power": 1249
+        },
+        "lb1": {
+            "Attack": 1403,
+            "Defense": 1320,
+            "Life": 2507
+        },
+        "lb2": {
+            "Attack": 1605,
+            "Defense": 1511,
+            "Life": 2870
+        }
+    },
+    "Shareef": {
+        "base": {
+            "Attack": 1336,
+            "Defense": 1268,
+            "Life": 2167,
+            "Power": 1251
+        },
+        "lb1": {
+            "Attack": 1440,
+            "Defense": 1367,
+            "Life": 2335
+        },
+        "lb2": {
+            "Attack": 1648,
+            "Defense": 1564,
+            "Life": 2672
+        }
     }
 }

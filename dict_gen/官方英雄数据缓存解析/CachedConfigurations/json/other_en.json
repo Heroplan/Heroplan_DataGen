@@ -81202,8 +81202,8 @@
     "languageSelectionEnabled": true,
     "maxVersionToShowUpdateOutReminderAndroid": "80.0.1",
     "maxVersionToShowUpdateOutReminderIos": "80.0.1",
-    "maxVersionToShowUpdateOutReminderAndroidStandalone": "80.0.1",
-    "standaloneNewVersionRolloutPercentage": 100,
+    "maxVersionToShowUpdateOutReminderAndroidStandalone": "80.0.2",
+    "standaloneNewVersionRolloutPercentage": 10,
     "fastClientLogFlushTimeSeconds": 5,
     "accountDeletionEnabled": true,
     "popupSuppression": {
@@ -81293,5 +81293,5 @@
     "criticalOperationPendingDelaySeconds": 3,
     "allowedCriticalOperationPendingCount": 3
   },
-  "otherConfigId": 910648755
+  "otherConfigId": 4150291706
 }

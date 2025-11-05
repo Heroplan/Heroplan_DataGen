@@ -920,5 +920,7 @@
   "Chance for Critical hit": "機率暴擊",
   "Steal Mana 1": "偷取法力 (單體)",
   "Astral Orb to hit enemies": "星界之珠攻擊敵人",
-  "Fiend 1": "召喚1個惡魔"
+  "Fiend 1": "召喚1個惡魔",
+  "Increased Damage Debuff to hit targets": "對命中目標施加額外傷害減益",
+  "Dot to hit targets": "對命中目標施加持續傷害"
 }

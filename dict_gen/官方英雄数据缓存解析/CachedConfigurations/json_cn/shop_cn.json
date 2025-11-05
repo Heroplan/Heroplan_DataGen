@@ -481,12 +481,7 @@
         "contents": [
           {
             "type": "Item",
-            "id": "lottery_mercenary_war_coin",
-            "amount": 50
-          },
-          {
-            "type": "Item",
-            "id": "lottery_legendary_troop",
+            "id": "lottery_tower_coin",
             "amount": 50
           }
         ]
@@ -496,12 +491,7 @@
         "contents": [
           {
             "type": "Item",
-            "id": "lottery_wilderness_coin",
-            "amount": 50
-          },
-          {
-            "type": "Item",
-            "id": "lottery_pickup_coin",
+            "id": "lottery_astralelves_coin",
             "amount": 50
           }
         ]
@@ -19912,8 +19902,7 @@
           }
         ],
         "recurringGroup": "DragonLuxEvery2ndWed",
-        "mode": "Dragon",
-        "zyngaStoreEnabled": true
+        "mode": "Dragon"
       },
       {
         "offerType": "Default",
@@ -19925,8 +19914,7 @@
           }
         ],
         "recurringGroup": "DragonMon",
-        "mode": "Dragon",
-        "zyngaStoreEnabled": true
+        "mode": "Dragon"
       },
       {
         "offerType": "Default",
@@ -23544,23 +23532,23 @@
           },
           {
             "id": "com.smallgiantgames.empires.xp_pyramid_1a",
-            "purchaseLimit": 1
+            "purchaseLimit": 2
           },
           {
             "id": "com.smallgiantgames.empires.xp_pyramid_1b",
-            "purchaseLimit": 1
+            "purchaseLimit": 2
           },
           {
             "id": "com.smallgiantgames.empires.xp_pyramid_2a",
-            "purchaseLimit": 1
+            "purchaseLimit": 2
           },
           {
             "id": "com.smallgiantgames.empires.xp_pyramid_2b",
-            "purchaseLimit": 1
+            "purchaseLimit": 2
           },
           {
             "id": "com.smallgiantgames.empires.xp_pyramid_3",
-            "purchaseLimit": 1
+            "purchaseLimit": 2
           }
         ],
         "requiresQuestsUnlocked": true,
@@ -28621,39 +28609,15 @@
         "id": "dynamic_offer_28_faiez_oasis",
         "products": [
           {
-            "id": "com.smallgiantgames.empires.dynamic_15",
+            "id": "com.smallgiantgames.empires.dynamic_10c",
             "purchaseLimit": 2
           },
           {
-            "id": "com.smallgiantgames.empires.dynamic_5",
-            "purchaseLimit": 3
-          },
-          {
-            "id": "com.smallgiantgames.empires.dynamic_12",
-            "purchaseLimit": 3
-          },
-          {
-            "id": "com.smallgiantgames.empires.dynamic_30",
+            "id": "com.smallgiantgames.empires.dynamic_15d",
             "purchaseLimit": 2
           },
           {
-            "id": "com.smallgiantgames.empires.dynamic_5b",
-            "purchaseLimit": 3
-          },
-          {
-            "id": "com.smallgiantgames.empires.dynamic_5d",
-            "purchaseLimit": 3
-          },
-          {
-            "id": "com.smallgiantgames.empires.dynamic_15b",
-            "purchaseLimit": 3
-          },
-          {
-            "id": "com.smallgiantgames.empires.dynamic_7",
-            "purchaseLimit": 2
-          },
-          {
-            "id": "com.smallgiantgames.empires.dynamic_33",
+            "id": "com.smallgiantgames.empires.dynamic_29",
             "purchaseLimit": 2
           }
         ],
@@ -29227,24 +29191,12 @@
         "id": "dynamic_offer_45_red_alucard",
         "products": [
           {
-            "id": "com.smallgiantgames.empires.dynamic_3",
-            "purchaseLimit": 3
-          },
-          {
-            "id": "com.smallgiantgames.empires.dynamic_7b",
+            "id": "com.smallgiantgames.empires.dynamic_12c",
             "purchaseLimit": 2
           },
           {
-            "id": "com.smallgiantgames.empires.dynamic_10",
-            "purchaseLimit": 3
-          },
-          {
-            "id": "com.smallgiantgames.empires.dynamic_20c",
+            "id": "com.smallgiantgames.empires.dynamic_12d",
             "purchaseLimit": 2
-          },
-          {
-            "id": "com.smallgiantgames.empires.dynamic_100",
-            "purchaseLimit": 1
           }
         ],
         "requiresQuestsUnlocked": true,
@@ -29253,6 +29205,7 @@
         "priorityInShop": 1,
         "zyngaStoreEnabled": true,
         "offerLayoutSource": "dynamic_offer_10_red_alucard",
+        "dynamicType": "AllianceGift",
         "titleKey": "shop.offers.title.dynamic.feel_the_power"
       },
       {
@@ -39083,6 +39036,21 @@
                 "amount": 1
               }
             ]
+          },
+          {
+            "activationTime": "2025-11-04 09:00:00",
+            "contents": [
+              {
+                "type": "Gem",
+                "amount": 2600
+              },
+              {
+                "type": "Item",
+                "id": "lottery_pickup_coin",
+                "amount": 1100,
+                "zyngaStoreExtraAmount": 300
+              }
+            ]
           }
         ]
       },
@@ -42035,6 +42003,22 @@
                 "id": "misc_loot_ticket",
                 "amount": 2,
                 "zyngaStoreExtraAmount": 3
+              }
+            ]
+          },
+          {
+            "activationTime": "2025-11-04 09:00:00",
+            "contents": [
+              {
+                "type": "Item",
+                "id": "relic_level_up_xp_multiplier",
+                "amount": 1
+              },
+              {
+                "type": "Item",
+                "id": "lottery_ascension_coin",
+                "amount": 700,
+                "zyngaStoreExtraAmount": 100
               }
             ]
           },
@@ -45188,6 +45172,17 @@
                 "amount": 1
               }
             ]
+          },
+          {
+            "activationTime": "2025-11-04 12:30:00",
+            "contents": [
+              {
+                "type": "Item",
+                "id": "lottery_astralelves_coin",
+                "amount": 1000,
+                "zyngaStoreExtraAmount": 110
+              }
+            ]
           }
         ]
       },
@@ -45322,6 +45317,17 @@
                 "type": "Item",
                 "id": "lottery_legendary_troop",
                 "amount": 400
+              }
+            ]
+          },
+          {
+            "activationTime": "2025-11-04 12:30:00",
+            "contents": [
+              {
+                "type": "Item",
+                "id": "lottery_tower_coin",
+                "amount": 1000,
+                "zyngaStoreExtraAmount": 100
               }
             ]
           }
@@ -45498,6 +45504,22 @@
                 "type": "Item",
                 "id": "lottery_mercenary_war_coin",
                 "amount": 100,
+                "zyngaStoreExtraAmount": 100
+              }
+            ]
+          },
+          {
+            "activationTime": "2025-11-04 09:00:00",
+            "contents": [
+              {
+                "type": "Item",
+                "id": "hero_limitbreak_alpha",
+                "amount": 3
+              },
+              {
+                "type": "Item",
+                "id": "lottery_pickup_coin",
+                "amount": 600,
                 "zyngaStoreExtraAmount": 100
               }
             ]
@@ -47500,13 +47522,6 @@
         "endTime": "2025-11-02 07:00:00"
       },
       {
-        "id": "dynamic_offer_66_guillemette",
-        "slot": "RightExtraBottom",
-        "scheduledManually": true,
-        "startTime": "2025-10-30 09:00:00",
-        "endTime": "2025-11-01 06:30:00"
-      },
-      {
         "id": "dynamic_offer_3_green_elradir",
         "slot": "LeftBottom",
         "scheduledManually": true,
@@ -47618,13 +47633,6 @@
         "scheduledManually": true,
         "startTime": "2025-11-01 07:00:00",
         "endTime": "2025-11-03 07:00:00"
-      },
-      {
-        "id": "dynamic_offer_10_red_alucard",
-        "slot": "RightExtraBottom",
-        "scheduledManually": true,
-        "startTime": "2025-11-01 08:30:00",
-        "endTime": "2025-11-02 06:30:00"
       },
       {
         "id": "dragon_dynamic_02_xondar",
@@ -47762,7 +47770,8 @@
       },
       {
         "id": "dynamic_offer_21_shrubbear",
-        "slot": "LeftExtraTop",
+        "slot": "ShopOnly",
+        "scheduledManually": true,
         "startTime": "2025-11-04 07:00:00",
         "endTime": "2025-11-05 06:30:00"
       },
@@ -47805,6 +47814,20 @@
         "endTime": "2025-11-06 07:00:00"
       },
       {
+        "id": "dynamic_offer_28_faiez_oasis",
+        "slot": "LeftExtraTop",
+        "scheduledManually": true,
+        "startTime": "2025-11-04 09:00:00",
+        "endTime": "2025-11-05 06:30:00"
+      },
+      {
+        "id": "dynamic_offer_45_red_alucard",
+        "slot": "ShopOnly",
+        "scheduledManually": true,
+        "startTime": "2025-11-04 12:30:00",
+        "endTime": "2025-11-05 06:30:00"
+      },
+      {
         "id": "dynamic_offer_19_sparkles",
         "slot": "LeftBottom",
         "startTime": "2025-11-05 07:00:00",
@@ -47815,6 +47838,13 @@
         "slot": "RightMiddle",
         "startTime": "2025-11-05 07:00:00",
         "endTime": "2025-11-06 06:30:00"
+      },
+      {
+        "id": "com.smallgiantgames.empires.double_covenant",
+        "slot": "LeftExtraBottom",
+        "scheduledManually": true,
+        "startTime": "2025-11-05 07:00:00",
+        "endTime": "2025-11-06 07:00:00"
       },
       {
         "id": "halloween_10_30",
@@ -47850,7 +47880,7 @@
       },
       {
         "id": "emblemvault",
-        "slot": "LeftExtraBottom",
+        "slot": "ShopOnly",
         "scheduledManually": true,
         "startTime": "2025-11-05 07:00:00",
         "endTime": "2025-11-07 07:00:00"
@@ -47866,6 +47896,13 @@
         "slot": "LeftBottom",
         "startTime": "2025-11-06 07:00:00",
         "endTime": "2025-11-07 06:30:00"
+      },
+      {
+        "id": "com.smallgiantgames.empires.double_covenant2",
+        "slot": "LeftExtraBottom",
+        "scheduledManually": true,
+        "startTime": "2025-11-06 07:00:00",
+        "endTime": "2025-11-07 07:00:00"
       },
       {
         "id": "dragon_flaming_new",
@@ -57004,6 +57041,107 @@
                 "福克斯格洛夫",
                 "内特尔泰尔"
               ]
+            },
+            {
+              "lotteryProductType": "盟约召唤",
+              "id": "lottery_covenant_2025_11_4",
+              "productId": "lottery_covenant_default",
+              "startDate": "2025-11-05 07:00:00",
+              "endDate": "2025-11-07 07:00:00",
+              "overridden": true,
+              "featuredHeroes": [
+                "法夫纳",
+                "酸蛰",
+                "李逵",
+                "阿斯特丽德",
+                "斯瓦法",
+                "阮小七"
+              ],
+              "advertisedHero": "bard_astrid",
+              "includedHeroes": [
+                "鹰月",
+                "波肯",
+                "贾汉吉",
+                "贝索",
+                "博尔登",
+                "灌木熊",
+                "贝丽丝",
+                "塔克修士",
+                "菲安娜",
+                "格里弗",
+                "卡里尔",
+                "沃德尼克",
+                "旦",
+                "诺德里",
+                "古纳尔",
+                "西达",
+                "爱德蕾德",
+                "凯兰尼",
+                "柑橘",
+                "普利斯卡",
+                "蝙蝠守护者",
+                "提灯",
+                "格留",
+                "泰伦",
+                "兰斯洛特爵士",
+                "斯嘉丽",
+                "卡莉莱",
+                "玛黑根",
+                "住友",
+                "僵骨",
+                "米兰朵",
+                "韩塞尔",
+                "柱子骨骼",
+                "布琳希尔德",
+                "纳克斯",
+                "基里尔",
+                "格林姆",
+                "索尼娅",
+                "赵",
+                "博加特",
+                "迷雾",
+                "胡桃",
+                "普罗透斯",
+                "炸弹魔",
+                "梅朵",
+                "萨拜娜",
+                "科斯特雷尔船长",
+                "洛基夫人",
+                "巴德尔",
+                "摩根勒菲",
+                "疯帽子",
+                "变色龙守护者",
+                "龙佩尔斯迪尔钦",
+                "爱丽丝",
+                "米桑德拉",
+                "波塞冬",
+                "诺伦三女神",
+                "猫头鹰守护者",
+                "马尾藻",
+                "巨齿鲨",
+                "狼老大",
+                "锈喙",
+                "骨颤",
+                "费洛斯",
+                "运输石",
+                "涯拉克",
+                "花蕊",
+                "硫磺",
+                "刹克尔博特",
+                "嗣卡伏",
+                "沙埃尔",
+                "伏榕德",
+                "诺第卡",
+                "角岩",
+                "夜魅",
+                "莱茵辉光",
+                "卡尔塔",
+                "熔砾",
+                "斯卡恩",
+                "关恩",
+                "福克斯格洛夫",
+                "内特尔泰尔"
+              ]
             }
           ],
           "scheduleNotification": true,
@@ -63627,6 +63765,42 @@
                 "amount": 50
               }
             ]
+          },
+          {
+            "startTime": "2025-11-05 07:00:00",
+            "endTime": "2025-11-06 07:00:00",
+            "onlyGemSummon": true,
+            "maxAllowedRedeems": 1,
+            "requiredSummonAmounts": [
+              10
+            ],
+            "rewards": [
+              {
+                "type": "Item",
+                "id": "lottery_elite_hero",
+                "amount": 25
+              },
+              {
+                "type": "Item",
+                "id": "lottery_covenant_coin",
+                "amount": 700
+              },
+              {
+                "type": "Item",
+                "id": "lottery_tower_coin",
+                "amount": 300
+              },
+              {
+                "type": "Item",
+                "id": "lottery_astralelves_coin",
+                "amount": 300
+              },
+              {
+                "type": "Item",
+                "id": "lottery_item_limit_break",
+                "amount": 30
+              }
+            ]
           }
         ]
       },
@@ -64226,6 +64400,19 @@
             "featuredHeroes": [
               "玛吉斯汀",
               "史莱姆戈"
+            ],
+            "extraHeroesPoolId": "default",
+            "adSummonEnabled": true
+          },
+          {
+            "lotteryProductType": "节选召唤",
+            "id": "pickup_summon_110425",
+            "productId": "lottery_pickup_default",
+            "startDate": "2025-11-04 09:00:00",
+            "endDate": "2025-11-05 07:00:00",
+            "featuredHeroes": [
+              "贡戈斯",
+              "奥瑞卡克"
             ],
             "extraHeroesPoolId": "default",
             "adSummonEnabled": true
@@ -66922,5 +67109,5 @@
       }
     ]
   },
-  "shopConfigId": 939924930
+  "shopConfigId": 2028207111
 }

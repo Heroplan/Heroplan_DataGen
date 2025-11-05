@@ -1,4 +1,4 @@
-✅ 成功匹配的服装 (475 / 0)
+✅ 成功匹配的服装 (476 / 0)
 ================================
 Name: Berden Costume1, Fancy Name: Adroit Archer
 Name: Hannah Costume1, Fancy Name: Adventurous Drover
@@ -109,6 +109,7 @@ Name: Caedmon Toon, Fancy Name: Elven Toon
 Name: Caedmon Glass, Fancy Name: Elven Vitrail
 Name: Melia Costume1, Fancy Name: Emissary of Atlantis
 Name: Ariel Costume1, Fancy Name: Enchanter of Atlantis
+Name: Cristobal costume1, Fancy Name: Enchantments Professor
 Name: Captain Nemo Costume1, Fancy Name: Enigmatic Machinist
 Name: Musashi Costume1, Fancy Name: Escape Artist
 Name: Vainamoinen Costume1, Fancy Name: Eternal Sage

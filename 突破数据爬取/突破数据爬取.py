@@ -175,7 +175,7 @@ def main():
         else:
             print(f"  -> 失败: '{hero_name}' 数据获取不完整，将在下次运行时重试。")
             
-        time.sleep(5)
+        time.sleep(1)
 
     print(f"\n所有英雄处理完毕。最终数据保存在 {output_filename} 中。")
 

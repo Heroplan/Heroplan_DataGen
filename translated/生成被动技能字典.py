@@ -61,14 +61,41 @@ def extract_string_from_item(item):
     return None
 
 def expand_passive_list(raw_passives):
-    """将包含 '*' 的字符串拆分为多个条目。"""
+    """
+    将包含 '*' 的字符串拆分为多个条目。
+    - 规则1: 如果字符串只包含 '*' 和空格 (如 " ****" 或 "* * *"), 则不分割。
+    - 规则2: 如果字符串包含其他字符 (如 "Effect 1 * Effect 2"), 
+             则按单个 '*' (r'\s+(?=\*(?!\*))') 分割，忽略 '**' 或 '***'。
+    """
     expanded_list = []
-    split_pattern = r'\s+(?=\*)'
+    
+    # 规则2: 用于分割普通技能的正则表达式 (匹配单个*, 忽略**)
+    split_pattern = r'\s+(?=\*(?!\*))'
+    
+    # 规则1: 用于检查纯星号标题行的正则表达式
+    # ^[\s\*]+$ 意味着从头到尾只包含空格或星号
+    star_header_pattern = re.compile(r'^[\s\*]+$')
+
     for item in raw_passives:
         text = extract_string_from_item(item)
-        if text and text.strip():
+        if not text:
+            continue
+            
+        stripped_text = text.strip()
+        if not stripped_text:
+            continue
+
+        # 检查是否为 "纯星号标题行"
+        # 1. 字符串中必须包含 '*'
+        # 2. 字符串必须只由 '*' 和空格组成
+        if '*' in stripped_text and star_header_pattern.match(stripped_text):
+            # 这是标题行 (如 " ****" 或 "* * *")，不要分割
+            expanded_list.append(stripped_text)
+        else:
+            # 这是普通技能描述，按规则2分割
             split_parts = [part.strip() for part in re.split(split_pattern, text) if part.strip()]
             expanded_list.extend(split_parts)
+            
     return expanded_list
 
 def get_numeric_value(s):

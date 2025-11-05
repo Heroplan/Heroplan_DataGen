@@ -40842,5 +40842,67 @@ window.allHeroesExtra = [
             "resist_parasites"
         ],
         "family": "hotm2025"
+    },
+    {
+        "name": "Cristobal costume1",
+        "fancy name": "Enchantments Professor",
+        "element": "Green",
+        "rarity": 5,
+        "class": "Cleric",
+        "speed": "charge_magic",
+        "Release date": "2025-11-03",
+        "AetherPower": "Counterattack",
+        "skill_types": [
+            "AoE Attackers (Hit-5)",
+            "Extra Damage Dealers",
+            "Snipers",
+            "Mana Reducers or Blockers",
+            "Minions Counters"
+        ],
+        "heroId": "magic_cristobal_costume_emerald",
+        "baseAttack": 388,
+        "baseDefense": 365,
+        "baseHealth": 689,
+        "specialId": "charmed_dual_blade",
+        "specialId_costume": "emerald_dual_blade",
+        "passiveSkills": [
+            "magic_mana_regen_debuff_on_special_costume"
+        ],
+        "costumeBonusPassiveSkillIds": [
+            "reduce_big_minion_health"
+        ],
+        "attackBonus": "63%",
+        "defenseBonus": "63%",
+        "healthBonus": "64%",
+        "manaBonus": "1%",
+        "family": "magic"
+    },
+    {
+        "name": "Shareef",
+        "fancy name": "Unstoppable Wizard",
+        "element": "Yellow",
+        "rarity": 5,
+        "class": "Wizard",
+        "speed": "fast",
+        "Release date": "2025-11-03",
+        "AetherPower": "Defense Up",
+        "skill_types": [
+            "Minions Counters",
+            "Snipers",
+            "Chain & Random Attackers",
+            "DoT Attackers",
+            "Extra Damage Dealers",
+            "Status Effect Conversion"
+        ],
+        "heroId": "magic_carpet_shareef",
+        "baseAttack": 649,
+        "baseDefense": 616,
+        "baseHealth": 1052,
+        "specialId": "skyfall_crumble",
+        "passiveSkills": [
+            "reduce_big_minion_health",
+            "fly_magic_carpet"
+        ],
+        "family": "magic_carpet"
     }
 ];

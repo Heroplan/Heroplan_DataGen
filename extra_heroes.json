@@ -1,27 +1,5 @@
 [
     {
-        "name": "Cristobal C",
-        "fancy_name": "Enchantments Professor",
-        "color": "Green",
-        "Release date": "",
-        "star": 5,
-        "family": "magic",
-        "costume_id": 1,
-        "heroId": "magic_cristobal_costume_emerald",
-        "Lottery_Only":1
-    },
-    {
-        "name": "Shareef",
-        "fancy_name": "Unstoppable Wizard",
-        "color": "Yellow",
-        "Release date": "",
-        "star": 5,
-        "family": "magic_carpet",
-        "costume_id": 0,
-        "heroId": "magic_carpet_shareef",
-        "Lottery_Only":1
-    },
-    {
         "name": "Zandria C",
         "fancy_name": "Defender of Galaxies",
         "color": "Yellow",
