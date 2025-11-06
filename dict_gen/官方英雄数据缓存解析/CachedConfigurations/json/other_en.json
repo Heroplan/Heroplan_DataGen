@@ -1396,7 +1396,8 @@
           "MonthlyHeroDecember2025",
           "Mimic",
           "MonthlyHeroJanuary2026",
-          "HalloweenWeekAllianceGift"
+          "HalloweenWeekAllianceGift",
+          "Temple"
         ],
         "uniqueEvents": [
           {
@@ -2661,14 +2662,14 @@
           {
             "id": "MonthlyHeroDecember2025",
             "type": "MonthlyHero",
-            "startTime": "2200-01-01 07:00:00",
-            "endTime": "2200-01-01 07:00:00"
+            "startTime": "2025-12-01 07:00:00",
+            "endTime": "2026-01-01 06:59:00"
           },
           {
             "id": "MonthlyHeroJanuary2026",
             "type": "MonthlyHero",
-            "startTime": "2200-01-01 07:00:00",
-            "endTime": "2200-01-01 07:00:00"
+            "startTime": "2026-01-01 07:00:00",
+            "endTime": "2026-02-01 06:59:00"
           },
           {
             "id": "SecretSummonAscensionMimicGreen",
@@ -2705,6 +2706,19 @@
             "type": "MysteryHero",
             "startTime": "2025-10-27 07:00:00",
             "endTime": "2025-10-28 07:00:00"
+          },
+          {
+            "id": "Christmas",
+            "type": "Seasonal",
+            "eventBonus": "christmas_bonus",
+            "startTime": "2025-12-01 07:00:00",
+            "endTime": "2026-01-01 07:00:00"
+          },
+          {
+            "id": "CovenantQuest2",
+            "type": "CovenantQuest",
+            "startTime": "2025-11-23 07:00:00",
+            "endTime": "2025-11-26 07:00:00"
           }
         ],
         "challengeEventEntries": [
@@ -2753,8 +2767,8 @@
               "beowulf_wealhtheow"
             ],
             "eventBonus": "event_hero_bonus_challenge_events",
-            "startTime": "2025-11-27 07:00:00",
-            "endTime": "2025-12-01 07:00:00"
+            "startTime": "2025-12-07 07:00:00",
+            "endTime": "2025-12-11 07:00:00"
           }
         ],
         "allianceQuestEventEntries": [
@@ -2797,6 +2811,7 @@
             "eventBundle": "bundle_challenge_1",
             "eventOffer": "alliancequestoffer",
             "eventEndingOffer": "",
+            "manuallyOverwritten": true,
             "advertisedHero": "moth_furgeant",
             "featuredHeroes": [
               "moth_furgeant",
@@ -2806,41 +2821,26 @@
             "eventBonus": "event_hero_bonus_alliance_quest",
             "startTime": "2025-10-13 07:00:00",
             "endTime": "2025-10-18 07:00:00"
+          },
+          {
+            "id": "AllianceQuestMusketeers",
+            "type": "AllianceQuest",
+            "eventBundle": "bundle_challenge_1",
+            "eventOffer": "alliancequest_calendar",
+            "eventEndingOffer": "",
+            "manuallyOverwritten": true,
+            "advertisedHero": "beauty_beast_the_beast",
+            "featuredHeroes": [
+              "beauty_beast_the_beast",
+              "beauty_beast_rose_de_flo",
+              "musketeer_aramis_costume_boulanger"
+            ],
+            "eventBonus": "event_hero_bonus_alliance_quest",
+            "startTime": "2025-11-12 07:00:00",
+            "endTime": "2025-11-17 07:00:00"
           }
         ],
         "treasureQuestEventEntries": [
-          {
-            "id": "TreasureQuestAlphaAether",
-            "type": "TreasureQuest",
-            "manuallyOverwritten": true,
-            "featuredFamilies": [
-              "midgard",
-              "jotunheim",
-              "svartalfheim",
-              "niflheim",
-              "helheim"
-            ],
-            "eventBonus": "event_hero_bonus_treasure_quest",
-            "startTime": "2025-09-02 07:00:00",
-            "endTime": "2025-09-04 07:00:00"
-          },
-          {
-            "id": "TreasureQuestXPYellow",
-            "type": "TreasureQuest",
-            "eventBundle": "",
-            "eventOffer": "",
-            "eventEndingOffer": "",
-            "manuallyOverwritten": true,
-            "featuredFamilies": [
-              "halloween",
-              "winter",
-              "easter",
-              "kalevala"
-            ],
-            "eventBonus": "event_hero_bonus_treasure_quest",
-            "startTime": "2025-09-08 07:00:00",
-            "endTime": "2025-09-10 07:00:00"
-          },
           {
             "id": "TreasureQuestCovenantSuperElemental",
             "type": "TreasureQuest",
@@ -2957,6 +2957,23 @@
             "eventBonus": "event_hero_bonus_treasure_quest",
             "startTime": "2026-02-23 07:00:00",
             "endTime": "2026-02-25 07:00:00"
+          },
+          {
+            "id": "TreasureQuestAlphaAether",
+            "type": "TreasureQuest",
+            "eventBundle": "",
+            "eventOffer": "",
+            "eventEndingOffer": "",
+            "featuredFamilies": [
+              "midgard",
+              "jotunheim",
+              "svartalfheim",
+              "niflheim",
+              "helheim"
+            ],
+            "eventBonus": "event_hero_bonus_treasure_quest",
+            "startTime": "2026-03-16 07:00:00",
+            "endTime": "2026-03-18 07:00:00"
           }
         ],
         "chessEventEntries": [
@@ -3276,8 +3293,7 @@
               "eventOffer": "alliancequest_calendar",
               "eventEndingOffer": "",
               "eventBundle": "bundle_challenge_1",
-              "eventBonus": "event_hero_bonus_alliance_quest",
-              "skipped": true
+              "eventBonus": "event_hero_bonus_alliance_quest"
             },
             {
               "id": "AllianceQuestMoths",
@@ -3285,13 +3301,14 @@
               "eventEndingOffer": "",
               "eventBundle": "bundle_challenge_1",
               "eventBonus": "event_hero_bonus_alliance_quest",
+              "skipped": true,
               "earliestLaunchDate": "2024-12-17 07:00:00"
             }
           ],
           "featuredEntityRotation": [
             {
               "id": "musketeer1",
-              "eventId": "Brave Musketeers",
+              "eventId": "The Brave & The Beautiful",
               "featuredEntities": {
                 "heroes": [
                   "musketeer_constance",
@@ -3302,7 +3319,7 @@
             },
             {
               "id": "musketeer2",
-              "eventId": "Brave Musketeers",
+              "eventId": "The Brave & The Beautiful",
               "featuredEntities": {
                 "heroes": [
                   "musketeer_cardinal_richelieu",
@@ -3658,6 +3675,22 @@
               ],
               "startTime": "2025-11-03 07:00:00",
               "endTime": "2025-11-08 07:00:00"
+            },
+            {
+              "id": "TowerMagic",
+              "type": "Tower",
+              "eventBundle": "",
+              "eventOffer": "com.smallgiantgames.empires.toweroffer",
+              "eventEndingOffer": "",
+              "manuallyOverwritten": true,
+              "advertisedHero": "magic_carpet_lando",
+              "featuredHeroes": [
+                "magic_carpet_lando",
+                "magic_nadezhda_costume_postmaster",
+                "magic_carpet_naeem"
+              ],
+              "startTime": "2025-11-30 07:00:00",
+              "endTime": "2025-12-05 07:00:00"
             }
           ],
           "scheduleConfig": {
@@ -7112,6 +7145,7 @@
         },
         "eventsScoring": {
           "lootTicketPoints": 100,
+          "lootTicketPointsForAllianceQuest": 10000,
           "commonMonsterKillPoints": 500,
           "bossMonsterKillPoints": 1500,
           "rareMonsterKillPoints": 5000,
@@ -13529,13 +13563,13 @@
               1
             ],
             "lootTiers": [
-              "alliance_quest_musketeers_player_rank_reward_below_100000",
-              "alliance_quest_musketeers_player_rank_reward_top_100000",
-              "alliance_quest_musketeers_player_rank_reward_top_10000",
-              "alliance_quest_musketeers_player_rank_reward_top_1000",
-              "alliance_quest_musketeers_player_rank_reward_top_100",
-              "alliance_quest_musketeers_player_rank_reward_top_10",
-              "alliance_quest_musketeers_player_rank_reward_top_1"
+              "alliance_quest_moths_player_rank_reward_below_100000",
+              "alliance_quest_moths_player_rank_reward_top_100000",
+              "alliance_quest_moths_player_rank_reward_top_10000",
+              "alliance_quest_moths_player_rank_reward_top_1000",
+              "alliance_quest_moths_player_rank_reward_top_100",
+              "alliance_quest_moths_player_rank_reward_top_10",
+              "alliance_quest_moths_player_rank_reward_top_1"
             ],
             "fixedRewards": [
               {
@@ -13582,7 +13616,7 @@
                 "content": [
                   {
                     "type": "Avatar",
-                    "id": "Jolly Musketeer",
+                    "id": "Depraved Assassin-Callous Pirate",
                     "amount": 1
                   },
                   {
@@ -13596,12 +13630,7 @@
                 "content": [
                   {
                     "type": "Avatar",
-                    "id": "Romantic Musketeer",
-                    "amount": 1
-                  },
-                  {
-                    "type": "Avatar",
-                    "id": "Elegant Monarch",
+                    "id": "Dominique's Younger Brother",
                     "amount": 1
                   },
                   {
@@ -13615,12 +13644,7 @@
                 "content": [
                   {
                     "type": "Avatar",
-                    "id": "Ardent Musketeer",
-                    "amount": 1
-                  },
-                  {
-                    "type": "Avatar",
-                    "id": "Courageous Musketeer",
+                    "id": "Bloom of the Bewitched Castle",
                     "amount": 1
                   },
                   {
@@ -13847,12 +13871,12 @@
               1
             ],
             "lootTiers": [
-              "alliance_quest_musketeers_alliance_rank_reward_below_10000",
-              "alliance_quest_musketeers_alliance_rank_reward_top_10000",
-              "alliance_quest_musketeers_alliance_rank_reward_top_1000",
-              "alliance_quest_musketeers_alliance_rank_reward_top_100",
-              "alliance_quest_musketeers_alliance_rank_reward_top_10",
-              "alliance_quest_musketeers_alliance_rank_reward_top_1"
+              "alliance_quest_castle_alliance_rank_reward_below_10000",
+              "alliance_quest_castle_alliance_rank_reward_top_10000",
+              "alliance_quest_castle_alliance_rank_reward_top_1000",
+              "alliance_quest_castle_alliance_rank_reward_top_100",
+              "alliance_quest_castle_alliance_rank_reward_top_10",
+              "alliance_quest_castle_alliance_rank_reward_top_1"
             ],
             "fixedRewards": [
               {
@@ -13899,12 +13923,12 @@
                 "content": [
                   {
                     "type": "Avatar",
-                    "id": "musketeer_richelieu",
+                    "id": "Romantic Musketeer-Boulanger Musketeer",
                     "amount": 1
                   },
                   {
                     "type": "Avatar",
-                    "id": "Veteran Musketeer",
+                    "id": "Pompous Duke-Pompous Jester",
                     "amount": 1
                   },
                   {
@@ -13918,12 +13942,12 @@
                 "content": [
                   {
                     "type": "Avatar",
-                    "id": "Machiavellian Villainess",
+                    "id": "Lonely Prince of the Bewitched Castle",
                     "amount": 1
                   },
                   {
                     "type": "Avatar",
-                    "id": "Ruthless Miscreant",
+                    "id": "Illuminator of the Bewitched Castle",
                     "amount": 1
                   },
                   {
@@ -14050,38 +14074,6 @@
         "allowedDailyAttacks": 5,
         "allowedDailyRerolls": 6,
         "pvpEventEntries": [
-          {
-            "specialRuleId": "dragon_tournament",
-            "rarityRequirementsId": "legendary",
-            "elementRequirementsId": "all_elements",
-            "tournamentOfferId": "com.smallgiantgames.empires.tournamentoffer2",
-            "startTime": "2025-08-10 08:00:00",
-            "endTime": "2025-08-16 08:00:00"
-          },
-          {
-            "specialRuleId": "rush_attack",
-            "rarityRequirementsId": "rare",
-            "elementRequirementsId": "all_elements",
-            "tournamentOfferId": "com.smallgiantgames.empires.trainerpack2020",
-            "startTime": "2025-08-17 08:00:00",
-            "endTime": "2025-08-23 08:00:00"
-          },
-          {
-            "specialRuleId": "bloody_battle",
-            "rarityRequirementsId": "legendary",
-            "elementRequirementsId": "no_green",
-            "tournamentOfferId": "com.smallgiantgames.empires.tournamentoffer1",
-            "startTime": "2025-08-24 08:00:00",
-            "endTime": "2025-08-30 08:00:00"
-          },
-          {
-            "specialRuleId": "rush_attack",
-            "rarityRequirementsId": "legendary",
-            "elementRequirementsId": "all_elements",
-            "tournamentOfferId": "com.smallgiantgames.empires.tournamentoffer2",
-            "startTime": "2025-08-31 08:00:00",
-            "endTime": "2025-09-06 08:00:00"
-          },
           {
             "specialRuleId": "buff_booster",
             "rarityRequirementsId": "epic",
@@ -14265,6 +14257,38 @@
             "tournamentOfferId": "com.smallgiantgames.empires.tournamentoffer1",
             "startTime": "2026-02-08 08:00:00",
             "endTime": "2026-02-14 08:00:00"
+          },
+          {
+            "specialRuleId": "bloody_battle",
+            "rarityRequirementsId": "epic",
+            "elementRequirementsId": "no_purple",
+            "tournamentOfferId": "com.smallgiantgames.empires.tournamentoffer2",
+            "startTime": "2026-02-15 08:00:00",
+            "endTime": "2026-02-21 08:00:00"
+          },
+          {
+            "specialRuleId": "buff_booster",
+            "rarityRequirementsId": "legendary",
+            "elementRequirementsId": "no_purple",
+            "tournamentOfferId": "com.smallgiantgames.empires.trainerpack2020",
+            "startTime": "2026-02-22 08:00:00",
+            "endTime": "2026-02-28 08:00:00"
+          },
+          {
+            "specialRuleId": "rush_attack",
+            "rarityRequirementsId": "rare",
+            "elementRequirementsId": "no_blue",
+            "tournamentOfferId": "com.smallgiantgames.empires.tournamentoffer1",
+            "startTime": "2026-03-01 08:00:00",
+            "endTime": "2026-03-07 08:00:00"
+          },
+          {
+            "specialRuleId": "bloody_battle",
+            "rarityRequirementsId": "legendary",
+            "elementRequirementsId": "all_elements",
+            "tournamentOfferId": "com.smallgiantgames.empires.tournamentoffer2",
+            "startTime": "2026-03-08 08:00:00",
+            "endTime": "2026-03-14 08:00:00"
           }
         ],
         "pvpEventSchedule": {
@@ -14586,6 +14610,21 @@
             "minRankPerMil": 0,
             "lootId": "pvp_tournament_reward_7",
             "entities": []
+          }
+        ],
+        "additionalRewardsEnabled": false,
+        "ruleIdToAdditionalRewards": [
+          {
+            "ruleId": "dragon_tournament",
+            "additionalRewardLootIdsByTier": [
+              "pvp_tournament_extra_dragon_reward_1",
+              "pvp_tournament_extra_dragon_reward_2",
+              "pvp_tournament_extra_dragon_reward_3",
+              "pvp_tournament_extra_dragon_reward_4",
+              "pvp_tournament_extra_dragon_reward_5",
+              "pvp_tournament_extra_dragon_reward_6",
+              "pvp_tournament_extra_dragon_reward_7"
+            ]
           }
         ]
       },
@@ -23014,6 +23053,22 @@
             "gemValue": 1000
           },
           {
+            "id": "Pompous Duke-Pompous Jester",
+            "gemValue": 1000
+          },
+          {
+            "id": "Depraved Assassin-Callous Pirate",
+            "gemValue": 1000
+          },
+          {
+            "id": "musketeer_kitty_costume_harvester",
+            "gemValue": 1000
+          },
+          {
+            "id": "musketeer_planchet_costume_adventurer",
+            "gemValue": 1000
+          },
+          {
             "id": "Astral Demon Empress",
             "gemValue": 1000
           },
@@ -23031,6 +23086,14 @@
           },
           {
             "id": "Astral Demon Warlord",
+            "gemValue": 1000
+          },
+          {
+            "id": "Astral Demon Shadowguard",
+            "gemValue": 1000
+          },
+          {
+            "id": "Astral Demon Socialite",
             "gemValue": 1000
           },
           {
@@ -23175,6 +23238,118 @@
           },
           {
             "id": "Unstoppable Wizard",
+            "gemValue": 1000
+          },
+          {
+            "id": "Lonely Prince of the Bewitched Castle",
+            "gemValue": 1000
+          },
+          {
+            "id": "Dominique's Younger Brother",
+            "gemValue": 1000
+          },
+          {
+            "id": "Illuminator of the Bewitched Castle",
+            "gemValue": 1000
+          },
+          {
+            "id": "Bloom of the Bewitched Castle",
+            "gemValue": 1000
+          },
+          {
+            "id": "community_elites_club_richard",
+            "gemValue": 1000
+          },
+          {
+            "id": "community_covenant_master",
+            "gemValue": 1000
+          },
+          {
+            "id": "The Faithful Protector",
+            "gemValue": 1000
+          },
+          {
+            "id": "Protector Slime",
+            "gemValue": 1000
+          },
+          {
+            "id": "Shadow Stalker Slime",
+            "gemValue": 1000
+          },
+          {
+            "id": "Fearless Gladiator Slime",
+            "gemValue": 1000
+          },
+          {
+            "id": "The Road Bandit",
+            "gemValue": 1000
+          },
+          {
+            "id": "The Deceitful Marksman",
+            "gemValue": 1000
+          },
+          {
+            "id": "Basket Maker",
+            "gemValue": 1000
+          },
+          {
+            "id": "Royal Performer",
+            "gemValue": 1000
+          },
+          {
+            "id": "Prideful Assassin",
+            "gemValue": 1000
+          },
+          {
+            "id": "Shrewd Politician",
+            "gemValue": 1000
+          },
+          {
+            "id": "Gifted Errand Boy",
+            "gemValue": 1000
+          },
+          {
+            "id": "Snow Warden",
+            "gemValue": 1000
+          },
+          {
+            "id": "Joyful Sledge Kid",
+            "gemValue": 1000
+          },
+          {
+            "id": "Magical Aviator",
+            "gemValue": 1000
+          },
+          {
+            "id": "Magic Lab Genius",
+            "gemValue": 1000
+          },
+          {
+            "id": "Lava Magic Girl",
+            "gemValue": 1000
+          },
+          {
+            "id": "Enchantress of Al-Layl",
+            "gemValue": 1000
+          },
+          {
+            "id": "dragon_ceestraze",
+            "gemValue": 1000
+          },
+          {
+            "id": "dragon_duskwing",
+            "gemValue": 1000
+          },
+          {
+            "id": "dragon_smoldercoil",
+            "gemValue": 1000
+          },
+          {
+            "id": "dragon_trezoro",
+            "gemValue": 1000
+          },
+          {
+            "id": "dragon_wildheart",
             "gemValue": 1000
           }
         ],
@@ -23386,6 +23561,14 @@
           {
             "id": "map_s3",
             "gemValue": 300
+          },
+          {
+            "id": "community_elites_club_background",
+            "gemValue": 1000
+          },
+          {
+            "id": "community_elites_club_background_v2",
+            "gemValue": 1000
           }
         ],
         "avatarPins": [
@@ -24155,6 +24338,42 @@
           },
           {
             "id": "community_crow",
+            "gemValue": 200
+          },
+          {
+            "id": "community_elites_club",
+            "gemValue": 200
+          },
+          {
+            "id": "community_elites_club_v2",
+            "gemValue": 200
+          },
+          {
+            "id": "community_trophy",
+            "gemValue": 200
+          },
+          {
+            "id": "community_birthday_10",
+            "gemValue": 200
+          },
+          {
+            "id": "community_birthday_11",
+            "gemValue": 200
+          },
+          {
+            "id": "community_birthday_12",
+            "gemValue": 200
+          },
+          {
+            "id": "community_birthday_13",
+            "gemValue": 200
+          },
+          {
+            "id": "community_birthday_14",
+            "gemValue": 200
+          },
+          {
+            "id": "community_birthday_15",
             "gemValue": 200
           }
         ],
@@ -36702,8 +36921,7 @@
         "wantedTitanAllianceHoppingCooldown": 43200,
         "skipsResourceConfig": {
           "productionIntervalSeconds": 82800
-        },
-        "taskListWidgetImprovementEnabled": true
+        }
       },
       "valorSeason": {
         "enabled": true,
@@ -40696,18 +40914,6 @@
           ],
           "challengeSeasonsEntries": [
             {
-              "occurrenceId": "path_of_valor_28_7_2025",
-              "challengeSeasonId": "path_of_valor_4",
-              "startTime": "2025-07-28 07:00:00",
-              "endTime": "2025-08-25 07:00:00"
-            },
-            {
-              "occurrenceId": "path_of_valor_25_8_2025",
-              "challengeSeasonId": "path_of_valor_5",
-              "startTime": "2025-08-25 07:00:00",
-              "endTime": "2025-09-22 07:00:00"
-            },
-            {
               "occurrenceId": "path_of_valor_22_9_2025",
               "challengeSeasonId": "path_of_valor_6",
               "startTime": "2025-09-22 07:00:00",
@@ -40748,6 +40954,12 @@
               "challengeSeasonId": "path_of_valor_2",
               "startTime": "2026-03-09 07:00:00",
               "endTime": "2026-04-06 07:00:00"
+            },
+            {
+              "occurrenceId": "path_of_valor_6_4_2026",
+              "challengeSeasonId": "path_of_valor_3",
+              "startTime": "2026-04-06 07:00:00",
+              "endTime": "2026-05-04 07:00:00"
             }
           ]
         },
@@ -44044,18 +44256,6 @@
           ],
           "challengeSeasonsEntries": [
             {
-              "occurrenceId": "path_of_giants_28_7_2025",
-              "challengeSeasonId": "path_of_giants_9",
-              "startTime": "2025-07-28 07:00:00",
-              "endTime": "2025-08-25 07:00:00"
-            },
-            {
-              "occurrenceId": "path_of_giants_25_8_2025",
-              "challengeSeasonId": "path_of_giants_10",
-              "startTime": "2025-08-25 07:00:00",
-              "endTime": "2025-09-22 07:00:00"
-            },
-            {
               "occurrenceId": "path_of_giants_22_9_2025",
               "challengeSeasonId": "path_of_giants_1",
               "startTime": "2025-09-22 07:00:00",
@@ -44096,6 +44296,12 @@
               "challengeSeasonId": "path_of_giants_7",
               "startTime": "2026-03-09 07:00:00",
               "endTime": "2026-04-06 07:00:00"
+            },
+            {
+              "occurrenceId": "path_of_giants_6_4_2026",
+              "challengeSeasonId": "path_of_giants_8",
+              "startTime": "2026-04-06 07:00:00",
+              "endTime": "2026-05-04 07:00:00"
             }
           ]
         },
@@ -48160,12 +48366,6 @@
           ],
           "challengeSeasonsEntries": [
             {
-              "occurrenceId": "path_of_dragons_11_8_2025",
-              "challengeSeasonId": "path_of_dragons_2",
-              "startTime": "2025-08-11 07:00:00",
-              "endTime": "2025-09-08 07:00:00"
-            },
-            {
               "occurrenceId": "path_of_dragons_8_9_2025",
               "challengeSeasonId": "path_of_dragons_3",
               "startTime": "2025-09-08 07:00:00",
@@ -48206,6 +48406,12 @@
               "challengeSeasonId": "path_of_dragons_9",
               "startTime": "2026-02-23 07:00:00",
               "endTime": "2026-03-23 07:00:00"
+            },
+            {
+              "occurrenceId": "path_of_dragons_23_3_2026",
+              "challengeSeasonId": "path_of_dragons_10",
+              "startTime": "2026-03-23 07:00:00",
+              "endTime": "2026-04-20 07:00:00"
             }
           ]
         },
@@ -49702,6 +49908,13 @@
               "levelPropertyId": "halloween_brawl",
               "startTime": "2025-10-08 07:00:00",
               "endTime": "2025-11-04 07:00:00"
+            },
+            {
+              "id": "christmas_brawl",
+              "battleSpecificHeroEffectId": "christmas_brawl",
+              "levelPropertyId": "christmas_brawl",
+              "startTime": "2025-12-01 07:00:00",
+              "endTime": "2026-01-01 07:00:00"
             }
           ]
         }
@@ -49983,11 +50196,6 @@
               "endTime": "2022-04-20 07:00:00"
             },
             {
-              "uberTitanId": "mythic_titan_jormungandr",
-              "startTime": "2025-09-15 07:00:00",
-              "endTime": "2025-09-17 07:00:00"
-            },
-            {
               "uberTitanId": "mythic_titan_ifrit",
               "startTime": "2025-11-10 07:00:00",
               "endTime": "2025-11-12 07:00:00"
@@ -50001,6 +50209,11 @@
               "uberTitanId": "mythic_titan_gilgamesh",
               "startTime": "2026-03-02 07:00:00",
               "endTime": "2026-03-04 07:00:00"
+            },
+            {
+              "uberTitanId": "mythic_titan_baba_yaga",
+              "startTime": "2026-04-27 07:00:00",
+              "endTime": "2026-04-29 07:00:00"
             }
           ]
         },
@@ -50513,6 +50726,43 @@
               ],
               "startTime": "2025-08-29 07:00:00",
               "endTime": "2025-09-01 07:00:00"
+            },
+            {
+              "id": "soul_exchange_2025_11_20",
+              "soulExchangeTiers": [
+                {
+                  "cost": 10,
+                  "heroes": [
+                    "gargoyle_uwe",
+                    "holy_god_aviana",
+                    "masquerade_carmenta",
+                    "christmas_tinsel",
+                    "construct_haulstone"
+                  ]
+                },
+                {
+                  "cost": 15,
+                  "heroes": [
+                    "s5_bastet_costume_forest",
+                    "journey_erlang_shen",
+                    "construct_brimstone",
+                    "construct_skarn",
+                    "owl_relius"
+                  ]
+                },
+                {
+                  "cost": 20,
+                  "heroes": [
+                    "goblin_acidfire",
+                    "champions_lazara",
+                    "owl_lodius",
+                    "astral_starwalker",
+                    "gargoyle_garten"
+                  ]
+                }
+              ],
+              "startTime": "2025-11-20 07:00:00",
+              "endTime": "2025-11-23 07:00:00"
             }
           ]
         }
@@ -50555,9 +50805,10 @@
               "endTime": "2025-11-02 07:00:00"
             },
             {
+              "overridden": true,
               "id": "mercenary_war_3_2_2026",
-              "startTime": "2026-02-03 07:00:00",
-              "endTime": "2026-02-08 07:00:00"
+              "startTime": "2025-11-19 07:00:00",
+              "endTime": "2025-11-24 07:00:00"
             }
           ]
         },
@@ -56929,6 +57180,42 @@
         "items": [
           {
             "itemType": "Costume",
+            "id": "item_musketeer_felton_costume_pirate",
+            "gameModes": [
+              "Classic"
+            ],
+            "rarity": 3,
+            "notAllowedAsLoot": true,
+            "canBeReceivedDate": "2025-11-12 07:00:00",
+            "costumeId": "Depraved Assassin-Callous Pirate",
+            "parentHeroId": "musketeer_felton"
+          },
+          {
+            "itemType": "Costume",
+            "id": "item_musketeer_planchet_costume_adventurer",
+            "gameModes": [
+              "Classic"
+            ],
+            "rarity": 3,
+            "notAllowedAsLoot": true,
+            "canBeReceivedDate": "2200-01-01 07:00:00",
+            "costumeId": "musketeer_planchet_costume_adventurer",
+            "parentHeroId": "musketeer_planchet"
+          },
+          {
+            "itemType": "Costume",
+            "id": "item_musketeer_kitty_costume_harvester",
+            "gameModes": [
+              "Classic"
+            ],
+            "rarity": 4,
+            "notAllowedAsLoot": true,
+            "canBeReceivedDate": "2200-01-01 07:00:00",
+            "costumeId": "musketeer_kitty_costume_harvester",
+            "parentHeroId": "musketeer_kitty"
+          },
+          {
+            "itemType": "Costume",
             "id": "item_s2_oceanus_costume_volcano",
             "gameModes": [
               "Classic"
@@ -57007,7 +57294,7 @@
             ],
             "rarity": 5,
             "notAllowedAsLoot": true,
-            "canBeReceivedDate": "2200-01-01 07:00:00",
+            "canBeReceivedDate": "2025-11-12 07:00:00",
             "costumeId": "Romantic Musketeer-Boulanger Musketeer",
             "parentHeroId": "musketeer_aramis"
           },
@@ -57228,6 +57515,16 @@
             "rarity": 3,
             "gemValue": 500,
             "season": "UntoldTales1"
+          },
+          {
+            "itemType": "LureBonus",
+            "id": "lure_bonus_untoldtales2",
+            "gameModes": [
+              "Classic"
+            ],
+            "rarity": 3,
+            "gemValue": 500,
+            "season": "UntoldTales2"
           },
           {
             "itemType": "Costume",
@@ -63828,6 +64125,18 @@
           },
           {
             "itemType": "Costume",
+            "id": "item_musketeer_villiers_costume_jester",
+            "gameModes": [
+              "Classic"
+            ],
+            "rarity": 4,
+            "notAllowedAsLoot": true,
+            "canBeReceivedDate": "2025-11-12 07:00:00",
+            "costumeId": "Pompous Duke-Pompous Jester",
+            "parentHeroId": "musketeer_villiers"
+          },
+          {
+            "itemType": "Costume",
             "id": "item_tales2_regin_costume_omen",
             "gameModes": [
               "Classic"
@@ -64449,6 +64758,17 @@
             "gemValue": 50,
             "canBeReceivedDate": "2025-10-08 07:00:00",
             "hideInInventory": true,
+            "amountForSummon": 100
+          },
+          {
+            "itemType": "LotteryToken",
+            "id": "lottery_temple_coin",
+            "gameModes": [
+              "Classic"
+            ],
+            "rarity": 4,
+            "gemValue": 3,
+            "canBeReceivedDate": "2200-01-01 07:00:00",
             "amountForSummon": 100
           },
           {
@@ -67162,6 +67482,270 @@
             "typeOfRefill": "Recruits",
             "typeOfRefillAmount": "Specific",
             "refillAmount": 100
+          },
+          {
+            "itemType": "Costume",
+            "id": "item_dark_god_hel_costume_cute",
+            "gameModes": [
+              "Classic"
+            ],
+            "rarity": 5,
+            "notAllowedAsLoot": true,
+            "canBeReceivedDate": "2200-01-01 07:00:00",
+            "costumeId": "Celestial of Darkness-Toon Celestial of Darkness",
+            "parentHeroId": "dark_god_hel"
+          },
+          {
+            "itemType": "Costume",
+            "id": "item_ice_god_athena_costume_cute",
+            "gameModes": [
+              "Classic"
+            ],
+            "rarity": 5,
+            "notAllowedAsLoot": true,
+            "canBeReceivedDate": "2200-01-01 07:00:00",
+            "costumeId": "Celestial of Ice-Toon Celestial of Ice",
+            "parentHeroId": "ice_god_athena"
+          },
+          {
+            "itemType": "Costume",
+            "id": "item_s2_junglehunter_costume_cute",
+            "gameModes": [
+              "Classic"
+            ],
+            "rarity": 5,
+            "notAllowedAsLoot": true,
+            "canBeReceivedDate": "2200-01-01 07:00:00",
+            "costumeId": "Prince of the Jungle-Toon of the Jungle",
+            "parentHeroId": "s2_junglehunter"
+          },
+          {
+            "itemType": "Costume",
+            "id": "item_s2_noble_lady_costume_cute",
+            "gameModes": [
+              "Classic"
+            ],
+            "rarity": 5,
+            "notAllowedAsLoot": true,
+            "canBeReceivedDate": "2200-01-01 07:00:00",
+            "costumeId": "Fatal Beauty-Toon Beauty",
+            "parentHeroId": "s2_noble_lady"
+          },
+          {
+            "itemType": "Costume",
+            "id": "item_s2_fox_girl_costume_cute",
+            "gameModes": [
+              "Classic"
+            ],
+            "rarity": 5,
+            "notAllowedAsLoot": true,
+            "canBeReceivedDate": "2200-01-01 07:00:00",
+            "costumeId": "Nine-tailed Spirit-Nine-tailed Toon",
+            "parentHeroId": "s2_fox_girl"
+          },
+          {
+            "itemType": "Costume",
+            "id": "item_s2_cursed_samurai_costume_cute",
+            "gameModes": [
+              "Classic"
+            ],
+            "rarity": 5,
+            "notAllowedAsLoot": true,
+            "canBeReceivedDate": "2200-01-01 07:00:00",
+            "costumeId": "Cursed Warlord-Cursed Toonlord",
+            "parentHeroId": "s2_cursed_samurai"
+          },
+          {
+            "itemType": "Costume",
+            "id": "item_s2_skyllaros_costume_cute",
+            "gameModes": [
+              "Classic"
+            ],
+            "rarity": 5,
+            "notAllowedAsLoot": true,
+            "canBeReceivedDate": "2200-01-01 07:00:00",
+            "costumeId": "Guardian of Atlantis-Toon Guardian of Atlantis",
+            "parentHeroId": "s2_skyllaros"
+          },
+          {
+            "itemType": "Costume",
+            "id": "item_s2_ariel_costume_cute",
+            "gameModes": [
+              "Classic"
+            ],
+            "rarity": 5,
+            "notAllowedAsLoot": true,
+            "canBeReceivedDate": "2200-01-01 07:00:00",
+            "costumeId": "Princess of Atlantis-Toon Princess of Atlantis",
+            "parentHeroId": "s2_ariel"
+          },
+          {
+            "itemType": "Costume",
+            "id": "item_s2_poseidon_costume_cute",
+            "gameModes": [
+              "Classic"
+            ],
+            "rarity": 5,
+            "notAllowedAsLoot": true,
+            "canBeReceivedDate": "2200-01-01 07:00:00",
+            "costumeId": "Ruler of Atlantis-Toon Ruler of Atlantis",
+            "parentHeroId": "s2_poseidon"
+          },
+          {
+            "itemType": "Costume",
+            "id": "item_s2_ursena_costume_cute",
+            "gameModes": [
+              "Classic"
+            ],
+            "rarity": 5,
+            "notAllowedAsLoot": true,
+            "canBeReceivedDate": "2200-01-01 07:00:00",
+            "costumeId": "Empress of the Depths-Toon of the Depths",
+            "parentHeroId": "s2_ursena"
+          },
+          {
+            "itemType": "Costume",
+            "id": "item_s2_chameleon_mage_costume_cute",
+            "gameModes": [
+              "Classic"
+            ],
+            "rarity": 4,
+            "notAllowedAsLoot": true,
+            "canBeReceivedDate": "2200-01-01 07:00:00",
+            "costumeId": "Chameleon Shaman-Toon Chameleon Shaman",
+            "parentHeroId": "s2_chameleon_mage"
+          },
+          {
+            "itemType": "Costume",
+            "id": "item_s2_rugged_fisherman_costume_cute",
+            "gameModes": [
+              "Classic"
+            ],
+            "rarity": 4,
+            "notAllowedAsLoot": true,
+            "canBeReceivedDate": "2200-01-01 07:00:00",
+            "costumeId": "Valiant Fisherman-Valiant Fishertoon",
+            "parentHeroId": "s2_rugged_fisherman"
+          },
+          {
+            "itemType": "Costume",
+            "id": "item_s2_demon_master_costume_cute",
+            "gameModes": [
+              "Classic"
+            ],
+            "rarity": 4,
+            "notAllowedAsLoot": true,
+            "canBeReceivedDate": "2200-01-01 07:00:00",
+            "costumeId": "Daimyo of Deceit-Toon of Deceit",
+            "parentHeroId": "s2_demon_master"
+          },
+          {
+            "itemType": "Costume",
+            "id": "item_s2_proteus_costume_cute",
+            "gameModes": [
+              "Classic"
+            ],
+            "rarity": 4,
+            "notAllowedAsLoot": true,
+            "canBeReceivedDate": "2200-01-01 07:00:00",
+            "costumeId": "Mage of Atlantis-Toon Mage of Atlantis",
+            "parentHeroId": "s2_proteus"
+          },
+          {
+            "itemType": "Costume",
+            "id": "item_s2_atlantean_robot_costume_cute",
+            "gameModes": [
+              "Classic"
+            ],
+            "rarity": 4,
+            "notAllowedAsLoot": true,
+            "canBeReceivedDate": "2200-01-01 07:00:00",
+            "costumeId": "Watcher of Atlantis-Atlantean Watcher Toon",
+            "parentHeroId": "s2_atlantean_robot"
+          },
+          {
+            "itemType": "Costume",
+            "id": "item_s2_fiji_mermaid_costume_cute",
+            "gameModes": [
+              "Classic"
+            ],
+            "rarity": 3,
+            "notAllowedAsLoot": true,
+            "canBeReceivedDate": "2200-01-01 07:00:00",
+            "costumeId": "Shallows Hunter-Toon Hunter",
+            "parentHeroId": "s2_fiji_mermaid"
+          },
+          {
+            "itemType": "Costume",
+            "id": "item_s2_merwoman_costume_cute",
+            "gameModes": [
+              "Classic"
+            ],
+            "rarity": 3,
+            "notAllowedAsLoot": true,
+            "canBeReceivedDate": "2200-01-01 07:00:00",
+            "costumeId": "Mermaid of Atlantis-Toon Mermaid",
+            "parentHeroId": "s2_merwoman"
+          },
+          {
+            "itemType": "Costume",
+            "id": "item_s2_merman_costume_cute",
+            "gameModes": [
+              "Classic"
+            ],
+            "rarity": 3,
+            "notAllowedAsLoot": true,
+            "canBeReceivedDate": "2200-01-01 07:00:00",
+            "costumeId": "Merman of Atlantis-Toon Merman",
+            "parentHeroId": "s2_merman"
+          },
+          {
+            "itemType": "Costume",
+            "id": "item_magic_ulius_costume_buccaneer",
+            "gameModes": [
+              "Classic"
+            ],
+            "rarity": 5,
+            "notAllowedAsLoot": true,
+            "canBeReceivedDate": "2200-01-01 07:00:00",
+            "costumeId": "Peculiar Inventor Wizard-Peculiar Arcane Buccaneer",
+            "parentHeroId": "magic_ulius"
+          },
+          {
+            "itemType": "Costume",
+            "id": "item_christmas_ginger_costume_gift_wrapper",
+            "gameModes": [
+              "Classic"
+            ],
+            "rarity": 5,
+            "notAllowedAsLoot": true,
+            "canBeReceivedDate": "2025-12-01 07:00:00",
+            "costumeId": "Gnome Explorer-Gnome Master of Gifts",
+            "parentHeroId": "christmas_ginger"
+          },
+          {
+            "itemType": "Costume",
+            "id": "item_christmas_elf_costume_gift_bookkeper",
+            "gameModes": [
+              "Classic"
+            ],
+            "rarity": 4,
+            "notAllowedAsLoot": true,
+            "canBeReceivedDate": "2025-12-01 07:00:00",
+            "costumeId": "Santa's Little Helper-Santa's Bookkeeper",
+            "parentHeroId": "christmas_elf"
+          },
+          {
+            "itemType": "Costume",
+            "id": "item_christmas_reindeer_costume_knightly_steed",
+            "gameModes": [
+              "Classic"
+            ],
+            "rarity": 3,
+            "notAllowedAsLoot": true,
+            "canBeReceivedDate": "2025-12-01 07:00:00",
+            "costumeId": "Santa's Loyal Steed-Santa's Knightly Steed",
+            "parentHeroId": "christmas_reindeer"
           }
         ],
         "battleItemEffects": [
@@ -70678,13 +71262,8 @@
             "trainingTime": 32400,
             "trainingTimeSkipPrice": 290,
             "rare": false,
-            "includedExtraHeroes": [
-              "pirate_vodnik",
-              "knights_bauchan",
-              "guardian_bat",
-              "wonderland_bear",
-              "fables_pixie"
-            ]
+            "nonClassicHeroChancePerMil": 50,
+            "youngestNonClassicHeroAgeInDays": 730
           },
           {
             "id": "academy6",
@@ -70772,18 +71351,8 @@
             "trainingTime": 216000,
             "trainingTimeSkipPrice": 1100,
             "rare": false,
-            "includedExtraHeroes": [
-              "pirate_cabin_boy",
-              "pirate_first_mate",
-              "knights_merlin",
-              "knights_sir_lancelot",
-              "guardian_falcon_priest",
-              "guardian_jackal_assassin",
-              "wonderland_captain",
-              "wonderland_cheshire_cat",
-              "fables_gretel",
-              "fables_hansel"
-            ]
+            "nonClassicHeroChancePerMil": 50,
+            "youngestNonClassicHeroAgeInDays": 730
           },
           {
             "id": "academy9",
@@ -70836,58 +71405,10 @@
             "trainingTimeSkipPrice": 3080,
             "rare": true,
             "catalystRarity": 5,
-            "eventHeroChancePerMil": 50,
+            "nonClassicHeroChancePerMil": 50,
+            "youngestNonClassicHeroAgeInDays": 730,
             "costumeChancePerMil": 50,
-            "includedExtraHeroes": [
-              "pirate_swashbuckler",
-              "pirate_lady",
-              "pirate_dread_captain",
-              "fables_boss_wolf",
-              "fables_red_hood",
-              "fables_rumpelstiltskin",
-              "guardian_cat_warrior",
-              "guardian_owl_gentleman",
-              "guardian_gorilla_chieftain",
-              "knights_guinevere",
-              "knights_king_arthur",
-              "knights_morgan_le_fay",
-              "s2_junglehunter",
-              "s2_hammerhead_hulk",
-              "s2_mercenary_woman",
-              "s2_noble_lady",
-              "s2_fox_girl",
-              "s2_cursed_samurai",
-              "s2_skyllaros",
-              "s2_ariel",
-              "s2_poseidon",
-              "s2_ursena",
-              "wonderland_alice",
-              "wonderland_queen",
-              "wonderland_hatter",
-              "sand_queen",
-              "sand_king",
-              "sand_roc",
-              "vampire_king",
-              "halloween_vanda",
-              "halloween_francine",
-              "christmas_santa",
-              "christmas_mrs_claus",
-              "christmas_krampus",
-              "christmas_mr_pengi",
-              "easter_killhare",
-              "rabbit_blue",
-              "easter_sir_roostley",
-              "easter_jasper",
-              "easter_archie",
-              "christmas_augustus",
-              "christmas_tinsel",
-              "christmas_peppermint",
-              "halloween_alucard",
-              "halloween_miriam_and_midnight",
-              "halloween_matilda",
-              "kalevala_ilmarinen",
-              "kalevala_louhi"
-            ]
+            "youngestCostumeAgeInDays": 365
           }
         ],
         "actionsAllowedPerLevel": [
@@ -71332,6 +71853,21 @@
           },
           {
             "type": "HalloweenRare",
+            "targetDefeats": 1,
+            "rewards": [
+              {
+                "type": "Gem",
+                "amount": 2
+              }
+            ]
+          },
+          {
+            "type": "UntoldTales2Rare",
+            "targetDefeats": 1,
+            "rewards": []
+          },
+          {
+            "type": "AllianceQuest2Rare",
             "targetDefeats": 1,
             "rewards": [
               {
@@ -72253,9 +72789,16 @@
           {
             "supportType": "LevelProperty",
             "id": "level_property_assist_dragons",
+            "additionalWarCompletionRewardLootIds": [
+              "assist_dragon_alliance_war_completion_reward_lose",
+              "assist_dragon_alliance_war_completion_reward_win_by_default",
+              "assist_dragon_alliance_war_completion_reward_draw",
+              "assist_dragon_alliance_war_completion_reward_win"
+            ],
             "levelPropertyId": "alliance_war_assist_dragons"
           }
         ],
+        "additionalWarSupportCompletionRewardsEnabled": false,
         "playerLevelRequirementForWar": 12,
         "numberOfBestHeroesForCalculatingWarScore": 30,
         "finalWarReminderHours": 3,
@@ -72275,6 +72818,7 @@
           "productionIntervalAmount": 5
         },
         "allowedDailyFriendlyAttacks": 5,
+        "newlyCreatedAllianceAgeDays": 3,
         "battleDurationLimit": 600,
         "prepareAttackReservationTimeoutOffline": 180,
         "prepareAttackReservationTimeoutOnline": 360,
@@ -77714,6 +78258,24 @@
                     "defenseBonusPerMil": 30,
                     "healthBonusPerMil": 60,
                     "manaBonusPerMil": 50
+                  },
+                  {
+                    "attackBonusPerMil": 30,
+                    "defenseBonusPerMil": 30,
+                    "healthBonusPerMil": 60,
+                    "manaBonusPerMil": 50
+                  },
+                  {
+                    "attackBonusPerMil": 30,
+                    "defenseBonusPerMil": 30,
+                    "healthBonusPerMil": 60,
+                    "manaBonusPerMil": 50
+                  },
+                  {
+                    "attackBonusPerMil": 30,
+                    "defenseBonusPerMil": 30,
+                    "healthBonusPerMil": 60,
+                    "manaBonusPerMil": 50
                   }
                 ]
               },
@@ -77736,6 +78298,30 @@
                     "defenseBonusPerMil": 20,
                     "healthBonusPerMil": 50,
                     "manaBonusPerMil": 30
+                  },
+                  {
+                    "attackBonusPerMil": 30,
+                    "defenseBonusPerMil": 30,
+                    "healthBonusPerMil": 60,
+                    "manaBonusPerMil": 50
+                  },
+                  {
+                    "attackBonusPerMil": 30,
+                    "defenseBonusPerMil": 30,
+                    "healthBonusPerMil": 60,
+                    "manaBonusPerMil": 50
+                  },
+                  {
+                    "attackBonusPerMil": 30,
+                    "defenseBonusPerMil": 30,
+                    "healthBonusPerMil": 60,
+                    "manaBonusPerMil": 50
+                  },
+                  {
+                    "attackBonusPerMil": 30,
+                    "defenseBonusPerMil": 30,
+                    "healthBonusPerMil": 60,
+                    "manaBonusPerMil": 50
                   },
                   {
                     "attackBonusPerMil": 30,
@@ -78166,6 +78752,30 @@
                     "defenseBonusPerMil": 230,
                     "healthBonusPerMil": 430,
                     "manaBonusPerMil": 30
+                  },
+                  {
+                    "attackBonusPerMil": 280,
+                    "defenseBonusPerMil": 260,
+                    "healthBonusPerMil": 450,
+                    "manaBonusPerMil": 50
+                  },
+                  {
+                    "attackBonusPerMil": 280,
+                    "defenseBonusPerMil": 260,
+                    "healthBonusPerMil": 450,
+                    "manaBonusPerMil": 50
+                  },
+                  {
+                    "attackBonusPerMil": 280,
+                    "defenseBonusPerMil": 260,
+                    "healthBonusPerMil": 450,
+                    "manaBonusPerMil": 50
+                  },
+                  {
+                    "attackBonusPerMil": 280,
+                    "defenseBonusPerMil": 260,
+                    "healthBonusPerMil": 450,
+                    "manaBonusPerMil": 50
                   },
                   {
                     "attackBonusPerMil": 280,
@@ -78615,10 +79225,54 @@
                 "bonusLevels": []
               },
               {
-                "bonusLevels": []
+                "bonusLevels": [
+                  {
+                    "attackBonusPerMil": 10,
+                    "defenseBonusPerMil": 10,
+                    "healthBonusPerMil": 20,
+                    "manaBonusPerMil": 10
+                  },
+                  {
+                    "attackBonusPerMil": 10,
+                    "defenseBonusPerMil": 10,
+                    "healthBonusPerMil": 30,
+                    "manaBonusPerMil": 30
+                  },
+                  {
+                    "attackBonusPerMil": 20,
+                    "defenseBonusPerMil": 20,
+                    "healthBonusPerMil": 40,
+                    "manaBonusPerMil": 50
+                  }
+                ]
               },
               {
-                "bonusLevels": []
+                "bonusLevels": [
+                  {
+                    "attackBonusPerMil": 10,
+                    "defenseBonusPerMil": 10,
+                    "healthBonusPerMil": 10,
+                    "manaBonusPerMil": 10
+                  },
+                  {
+                    "attackBonusPerMil": 10,
+                    "defenseBonusPerMil": 10,
+                    "healthBonusPerMil": 20,
+                    "manaBonusPerMil": 20
+                  },
+                  {
+                    "attackBonusPerMil": 10,
+                    "defenseBonusPerMil": 10,
+                    "healthBonusPerMil": 30,
+                    "manaBonusPerMil": 30
+                  },
+                  {
+                    "attackBonusPerMil": 20,
+                    "defenseBonusPerMil": 20,
+                    "healthBonusPerMil": 40,
+                    "manaBonusPerMil": 50
+                  }
+                ]
               },
               {
                 "bonusLevels": [
@@ -78909,6 +79563,30 @@
                     "defenseBonusPerMil": 230,
                     "healthBonusPerMil": 270,
                     "manaBonusPerMil": 30
+                  },
+                  {
+                    "attackBonusPerMil": 250,
+                    "defenseBonusPerMil": 250,
+                    "healthBonusPerMil": 300,
+                    "manaBonusPerMil": 50
+                  },
+                  {
+                    "attackBonusPerMil": 250,
+                    "defenseBonusPerMil": 250,
+                    "healthBonusPerMil": 300,
+                    "manaBonusPerMil": 50
+                  },
+                  {
+                    "attackBonusPerMil": 250,
+                    "defenseBonusPerMil": 250,
+                    "healthBonusPerMil": 300,
+                    "manaBonusPerMil": 50
+                  },
+                  {
+                    "attackBonusPerMil": 250,
+                    "defenseBonusPerMil": 250,
+                    "healthBonusPerMil": 300,
+                    "manaBonusPerMil": 50
                   },
                   {
                     "attackBonusPerMil": 250,
@@ -79389,6 +80067,95 @@
                     "defenseBonusPerMil": 630,
                     "healthBonusPerMil": 640,
                     "manaBonusPerMil": 10
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "musketeer",
+            "statBonuses": [
+              {
+                "bonusLevels": []
+              },
+              {
+                "bonusLevels": []
+              },
+              {
+                "bonusLevels": [
+                  {
+                    "attackBonusPerMil": 40,
+                    "defenseBonusPerMil": 40,
+                    "healthBonusPerMil": 60,
+                    "manaBonusPerMil": 10
+                  },
+                  {
+                    "attackBonusPerMil": 70,
+                    "defenseBonusPerMil": 70,
+                    "healthBonusPerMil": 90,
+                    "manaBonusPerMil": 30
+                  },
+                  {
+                    "attackBonusPerMil": 100,
+                    "defenseBonusPerMil": 100,
+                    "healthBonusPerMil": 120,
+                    "manaBonusPerMil": 50
+                  }
+                ]
+              },
+              {
+                "bonusLevels": [
+                  {
+                    "attackBonusPerMil": 80,
+                    "defenseBonusPerMil": 80,
+                    "healthBonusPerMil": 80,
+                    "manaBonusPerMil": 10
+                  },
+                  {
+                    "attackBonusPerMil": 100,
+                    "defenseBonusPerMil": 100,
+                    "healthBonusPerMil": 100,
+                    "manaBonusPerMil": 20
+                  },
+                  {
+                    "attackBonusPerMil": 120,
+                    "defenseBonusPerMil": 120,
+                    "healthBonusPerMil": 120,
+                    "manaBonusPerMil": 30
+                  },
+                  {
+                    "attackBonusPerMil": 140,
+                    "defenseBonusPerMil": 140,
+                    "healthBonusPerMil": 140,
+                    "manaBonusPerMil": 50
+                  }
+                ]
+              },
+              {
+                "bonusLevels": [
+                  {
+                    "attackBonusPerMil": 420,
+                    "defenseBonusPerMil": 440,
+                    "healthBonusPerMil": 390,
+                    "manaBonusPerMil": 10
+                  },
+                  {
+                    "attackBonusPerMil": 420,
+                    "defenseBonusPerMil": 440,
+                    "healthBonusPerMil": 420,
+                    "manaBonusPerMil": 20
+                  },
+                  {
+                    "attackBonusPerMil": 450,
+                    "defenseBonusPerMil": 460,
+                    "healthBonusPerMil": 450,
+                    "manaBonusPerMil": 30
+                  },
+                  {
+                    "attackBonusPerMil": 480,
+                    "defenseBonusPerMil": 480,
+                    "healthBonusPerMil": 480,
+                    "manaBonusPerMil": 50
                   }
                 ]
               }
@@ -80954,7 +81721,8 @@
           }
         ],
         "termsVersion": "v2000",
-        "maxTermsDeclines": 3
+        "maxTermsDeclines": 3,
+        "vipTermsLink": "https://www.take2games.com/vipterms"
       },
       "dragonHearts": {
         "enabled": true,
@@ -81203,13 +81971,15 @@
     "maxVersionToShowUpdateOutReminderAndroid": "80.0.1",
     "maxVersionToShowUpdateOutReminderIos": "80.0.1",
     "maxVersionToShowUpdateOutReminderAndroidStandalone": "80.0.2",
-    "standaloneNewVersionRolloutPercentage": 10,
+    "standaloneNewVersionRolloutPercentage": 30,
     "fastClientLogFlushTimeSeconds": 5,
     "accountDeletionEnabled": true,
     "popupSuppression": {
       "enabled": true,
       "threshold": 2,
-      "intervalSeconds": 600
+      "dragonThreshold": 1,
+      "intervalSeconds": 600,
+      "dragonIntervalSeconds": 1800
     },
     "appTrackingTransparencyPopupEnabled": true,
     "eventProcessor": {
@@ -81293,5 +82063,5 @@
     "criticalOperationPendingDelaySeconds": 3,
     "allowedCriticalOperationPendingCount": 3
   },
-  "otherConfigId": 4150291706
+  "otherConfigId": 2564661129
 }

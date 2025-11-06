@@ -4724,6 +4724,7 @@
         "maxRareMonsterCountPerWave": 1,
         "rareMonsterType": "ChallengeEventRare",
         "stagesCanBeReplayed": true,
+        "isAllowedToHaveZeroRareSpawnChance": true,
         "energyType": "PveEnergy"
       },
       {
@@ -5244,6 +5245,7 @@
         "maxRareMonsterCountPerWave": 1,
         "rareMonsterType": "ChallengeEventRare",
         "stagesCanBeReplayed": true,
+        "isAllowedToHaveZeroRareSpawnChance": true,
         "energyType": "PveEnergy"
       },
       {
@@ -5761,6 +5763,7 @@
         "maxRareMonsterCountPerWave": 1,
         "rareMonsterType": "ChallengeEventRare",
         "stagesCanBeReplayed": true,
+        "isAllowedToHaveZeroRareSpawnChance": true,
         "energyType": "PveEnergy"
       },
       {
@@ -15934,7 +15937,7 @@
             "boosterItemRewards": [
               {
                 "type": "Item",
-                "id": "lottery_goblin_coin",
+                "id": "lottery_temple_coin",
                 "amount": 2
               },
               {
@@ -16064,7 +16067,7 @@
             "boosterItemRewards": [
               {
                 "type": "Item",
-                "id": "lottery_goblin_coin",
+                "id": "lottery_temple_coin",
                 "amount": 2
               },
               {
@@ -16194,7 +16197,7 @@
             "boosterItemRewards": [
               {
                 "type": "Item",
-                "id": "lottery_goblin_coin",
+                "id": "lottery_temple_coin",
                 "amount": 2
               },
               {
@@ -16262,8 +16265,8 @@
             "boosterItemRewards": [
               {
                 "type": "Item",
-                "id": "battle_antidote_potion",
-                "amount": 2
+                "id": "hero_limitbreak_rare_green",
+                "amount": 10
               },
               {
                 "type": "Item",
@@ -16333,7 +16336,7 @@
             "boosterItemRewards": [
               {
                 "type": "Item",
-                "id": "lottery_goblin_coin",
+                "id": "lottery_temple_coin",
                 "amount": 2
               },
               {
@@ -16473,7 +16476,7 @@
             "boosterItemRewards": [
               {
                 "type": "Item",
-                "id": "lottery_goblin_coin",
+                "id": "lottery_temple_coin",
                 "amount": 2
               },
               {
@@ -16618,7 +16621,7 @@
             "boosterItemRewards": [
               {
                 "type": "Item",
-                "id": "lottery_goblin_coin",
+                "id": "lottery_temple_coin",
                 "amount": 2
               },
               {
@@ -16708,7 +16711,7 @@
               },
               {
                 "type": "Item",
-                "id": "lottery_goblin_coin",
+                "id": "lottery_temple_coin",
                 "amount": 10
               },
               {
@@ -16862,7 +16865,7 @@
             "boosterItemRewards": [
               {
                 "type": "Item",
-                "id": "lottery_goblin_coin",
+                "id": "lottery_temple_coin",
                 "amount": 3
               },
               {
@@ -17024,7 +17027,7 @@
             "boosterItemRewards": [
               {
                 "type": "Item",
-                "id": "lottery_goblin_coin",
+                "id": "lottery_temple_coin",
                 "amount": 5
               },
               {
@@ -17184,7 +17187,7 @@
             "boosterItemRewards": [
               {
                 "type": "Item",
-                "id": "lottery_goblin_coin",
+                "id": "hero_limitbreak_epic_blue",
                 "amount": 5
               },
               {
@@ -17535,7 +17538,7 @@
             "boosterItemRewards": [
               {
                 "type": "Item",
-                "id": "lottery_goblin_coin",
+                "id": "lottery_temple_coin",
                 "amount": 5
               },
               {
@@ -18166,8 +18169,8 @@
             "boosterItemRewards": [
               {
                 "type": "Item",
-                "id": "lottery_wilderness_coin",
-                "amount": 2
+                "id": "hero_limitbreak_rare_purple",
+                "amount": 15
               },
               {
                 "type": "Item",
@@ -19139,7 +19142,7 @@
               "xpReward": 2115
             },
             "recommendedTeamPower": 3250,
-            "avatarReward": "xmas_dizzy",
+            "avatarReward": "xmas_krampus",
             "heroRewards": [],
             "itemRewards": [
               {
@@ -19157,8 +19160,8 @@
             "boosterItemRewards": [
               {
                 "type": "Item",
-                "id": "lottery_wilderness_coin",
-                "amount": 5
+                "id": "hero_limitbreak_epic_yellow",
+                "amount": 10
               },
               {
                 "type": "Item",
@@ -19800,7 +19803,7 @@
             "boosterItemRewards": [
               {
                 "type": "Item",
-                "id": "lottery_goblin_coin",
+                "id": "lottery_temple_coin",
                 "amount": 5
               },
               {
@@ -19883,7 +19886,7 @@
             "boosterItemRewards": [
               {
                 "type": "Item",
-                "id": "lottery_goblin_coin",
+                "id": "lottery_temple_coin",
                 "amount": 5
               },
               {
@@ -20049,7 +20052,7 @@
             "boosterItemRewards": [
               {
                 "type": "Item",
-                "id": "lottery_goblin_coin",
+                "id": "lottery_temple_coin",
                 "amount": 5
               },
               {
@@ -20214,7 +20217,7 @@
             "boosterItemRewards": [
               {
                 "type": "Item",
-                "id": "lottery_goblin_coin",
+                "id": "lottery_temple_coin",
                 "amount": 5
               },
               {
@@ -20391,7 +20394,7 @@
             "boosterItemRewards": [
               {
                 "type": "Item",
-                "id": "lottery_goblin_coin",
+                "id": "lottery_temple_coin",
                 "amount": 5
               },
               {
@@ -20557,7 +20560,7 @@
             "boosterItemRewards": [
               {
                 "type": "Item",
-                "id": "lottery_goblin_coin",
+                "id": "lottery_temple_coin",
                 "amount": 5
               },
               {
@@ -20734,7 +20737,7 @@
               },
               {
                 "type": "Item",
-                "id": "lottery_goblin_coin",
+                "id": "lottery_temple_coin",
                 "amount": 10
               },
               {
@@ -20978,7 +20981,7 @@
             "boosterItemRewards": [
               {
                 "type": "Item",
-                "id": "lottery_goblin_coin",
+                "id": "lottery_temple_coin",
                 "amount": 10
               },
               {
@@ -21162,7 +21165,7 @@
             "boosterItemRewards": [
               {
                 "type": "Item",
-                "id": "lottery_goblin_coin",
+                "id": "lottery_temple_coin",
                 "amount": 10
               },
               {
@@ -21784,7 +21787,7 @@
               "xpReward": 3650
             },
             "recommendedTeamPower": 4600,
-            "avatarReward": "xmas_krampus_costume_eager_devil",
+            "avatarReward": "christmas_florencia",
             "heroRewards": [
               {
                 "type": "Hero",
@@ -28601,6 +28604,7 @@
         "maxRareMonsterCountPerWave": 1,
         "rareMonsterType": "ChallengeEventRare",
         "stagesCanBeReplayed": true,
+        "isAllowedToHaveZeroRareSpawnChance": true,
         "energyType": "PveEnergy"
       },
       {
@@ -29088,6 +29092,7 @@
         "maxRareMonsterCountPerWave": 1,
         "rareMonsterType": "ChallengeEventRare",
         "stagesCanBeReplayed": true,
+        "isAllowedToHaveZeroRareSpawnChance": true,
         "energyType": "PveEnergy"
       },
       {
@@ -29579,6 +29584,7 @@
         "maxRareMonsterCountPerWave": 1,
         "rareMonsterType": "ChallengeEventRare",
         "stagesCanBeReplayed": true,
+        "isAllowedToHaveZeroRareSpawnChance": true,
         "energyType": "PveEnergy"
       },
       {
@@ -36833,6 +36839,7 @@
         "maxRareMonsterCountPerWave": 1,
         "rareMonsterType": "ChallengeEventRare",
         "stagesCanBeReplayed": true,
+        "isAllowedToHaveZeroRareSpawnChance": true,
         "energyType": "PveEnergy"
       },
       {
@@ -37327,6 +37334,7 @@
         "maxRareMonsterCountPerWave": 1,
         "rareMonsterType": "ChallengeEventRare",
         "stagesCanBeReplayed": true,
+        "isAllowedToHaveZeroRareSpawnChance": true,
         "energyType": "PveEnergy"
       },
       {
@@ -37816,6 +37824,7 @@
         "maxRareMonsterCountPerWave": 1,
         "rareMonsterType": "ChallengeEventRare",
         "stagesCanBeReplayed": true,
+        "isAllowedToHaveZeroRareSpawnChance": true,
         "energyType": "PveEnergy"
       },
       {
@@ -43733,6 +43742,7 @@
         "maxRareMonsterCountPerWave": 1,
         "rareMonsterType": "ChallengeEventRare",
         "stagesCanBeReplayed": true,
+        "isAllowedToHaveZeroRareSpawnChance": true,
         "energyType": "PveEnergy"
       },
       {
@@ -44277,6 +44287,7 @@
         "maxRareMonsterCountPerWave": 1,
         "rareMonsterType": "ChallengeEventRare",
         "stagesCanBeReplayed": true,
+        "isAllowedToHaveZeroRareSpawnChance": true,
         "energyType": "PveEnergy"
       },
       {
@@ -44821,6 +44832,7 @@
         "maxRareMonsterCountPerWave": 1,
         "rareMonsterType": "ChallengeEventRare",
         "stagesCanBeReplayed": true,
+        "isAllowedToHaveZeroRareSpawnChance": true,
         "energyType": "PveEnergy"
       },
       {
@@ -55224,6 +55236,7 @@
         "maxRareMonsterCountPerWave": 1,
         "rareMonsterType": "ChallengeEventRare",
         "stagesCanBeReplayed": true,
+        "isAllowedToHaveZeroRareSpawnChance": true,
         "energyType": "PveEnergy"
       },
       {
@@ -55741,6 +55754,7 @@
         "maxRareMonsterCountPerWave": 1,
         "rareMonsterType": "ChallengeEventRare",
         "stagesCanBeReplayed": true,
+        "isAllowedToHaveZeroRareSpawnChance": true,
         "energyType": "PveEnergy"
       },
       {
@@ -56253,6 +56267,7 @@
         "maxRareMonsterCountPerWave": 1,
         "rareMonsterType": "ChallengeEventRare",
         "stagesCanBeReplayed": true,
+        "isAllowedToHaveZeroRareSpawnChance": true,
         "energyType": "PveEnergy"
       },
       {
@@ -56829,7 +56844,7 @@
                       "id": "musketeer_assassin_purple"
                     },
                     {
-                      "id": "布朗歇",
+                      "id": "罗丝·德·弗洛",
                       "lvl": 25
                     },
                     {
@@ -56838,7 +56853,7 @@
                   ]
                 }
               ],
-              "battlegroundId": "MusketeerMarket",
+              "battlegroundId": "BeautyBeastCastle",
               "foodReward": 0,
               "ironReward": 0,
               "recruitsReward": 2,
@@ -56876,7 +56891,7 @@
                       "id": "musketeer_thug_blue"
                     },
                     {
-                      "id": "维利尔斯",
+                      "id": "多米尼克",
                       "lvl": 30
                     },
                     {
@@ -56885,7 +56900,7 @@
                   ]
                 }
               ],
-              "battlegroundId": "MusketeerStreet",
+              "battlegroundId": "BeautyBeastCastle",
               "foodReward": 0,
               "ironReward": 0,
               "recruitsReward": 3,
@@ -56973,7 +56988,7 @@
                   ]
                 }
               ],
-              "battlegroundId": "MusketeerStreet",
+              "battlegroundId": "BeautyBeastCastle",
               "foodReward": 0,
               "ironReward": 0,
               "recruitsReward": 3,
@@ -57011,12 +57026,12 @@
                       "id": "安娜王后"
                     },
                     {
-                      "id": "布朗歇"
+                      "id": "罗丝·德·弗洛"
                     }
                   ]
                 }
               ],
-              "battlegroundId": "MusketeerMarket",
+              "battlegroundId": "BeautyBeastCastle",
               "foodReward": 0,
               "ironReward": 0,
               "recruitsReward": 3,
@@ -57063,7 +57078,7 @@
                   ]
                 }
               ],
-              "battlegroundId": "MusketeerStreet",
+              "battlegroundId": "BeautyBeastCastle",
               "foodReward": 0,
               "ironReward": 0,
               "recruitsReward": 4,
@@ -57147,11 +57162,11 @@
                   "waveFormationId": "boss_3_A_big",
                   "monsterDefinitions": [
                     {
-                      "id": "达达尼昂",
+                      "id": "罗丝·德·弗洛",
                       "lvl": 60
                     },
                     {
-                      "id": "阿多斯",
+                      "id": "多米尼克",
                       "lvl": 60
                     },
                     {
@@ -57161,7 +57176,7 @@
                   ]
                 }
               ],
-              "battlegroundId": "MusketeerStreet",
+              "battlegroundId": "BeautyBeastCastle",
               "foodReward": 0,
               "ironReward": 0,
               "recruitsReward": 4,
@@ -57245,21 +57260,21 @@
                   "waveFormationId": "boss_3_A_big",
                   "monsterDefinitions": [
                     {
-                      "id": "阿多斯",
+                      "id": "罗丝·德·弗洛",
                       "lvl": 71
                     },
                     {
-                      "id": "达达尼昂",
+                      "id": "野兽",
                       "lvl": 71
                     },
                     {
-                      "id": "阿拉密斯",
+                      "id": "多米尼克",
                       "lvl": 71
                     }
                   ]
                 }
               ],
-              "battlegroundId": "MusketeerStreet",
+              "battlegroundId": "BeautyBeastCastle",
               "foodReward": 0,
               "ironReward": 0,
               "recruitsReward": 4,
@@ -57281,7 +57296,9 @@
         "progressChests": [
           "loot_alliance_quest_easy"
         ],
+        "rareMonsterType": "AllianceQuest2Rare",
         "stagesCanBeReplayed": true,
+        "isAllowedToHaveZeroRareSpawnChance": true,
         "energyType": "PveEnergy"
       },
       {
@@ -57321,7 +57338,7 @@
                       "id": "musketeer_assassin_purple"
                     },
                     {
-                      "id": "布朗歇",
+                      "id": "罗丝·德·弗洛",
                       "lvl": 85
                     },
                     {
@@ -57330,7 +57347,7 @@
                   ]
                 }
               ],
-              "battlegroundId": "MusketeerMarket",
+              "battlegroundId": "BeautyBeastCastle",
               "foodReward": 0,
               "ironReward": 0,
               "recruitsReward": 3,
@@ -57368,7 +57385,7 @@
                       "id": "musketeer_thug_blue"
                     },
                     {
-                      "id": "维利尔斯",
+                      "id": "多米尼克",
                       "lvl": 90
                     },
                     {
@@ -57377,7 +57394,7 @@
                   ]
                 }
               ],
-              "battlegroundId": "MusketeerStreet",
+              "battlegroundId": "BeautyBeastCastle",
               "foodReward": 0,
               "ironReward": 0,
               "recruitsReward": 4,
@@ -57467,7 +57484,7 @@
                   ]
                 }
               ],
-              "battlegroundId": "MusketeerStreet",
+              "battlegroundId": "BeautyBeastCastle",
               "foodReward": 0,
               "ironReward": 0,
               "recruitsReward": 5,
@@ -57506,13 +57523,13 @@
                       "lvl": 109
                     },
                     {
-                      "id": "布朗歇",
+                      "id": "罗丝·德·弗洛",
                       "lvl": 109
                     }
                   ]
                 }
               ],
-              "battlegroundId": "MusketeerMarket",
+              "battlegroundId": "BeautyBeastCastle",
               "foodReward": 0,
               "ironReward": 0,
               "recruitsReward": 5,
@@ -57561,7 +57578,7 @@
                   ]
                 }
               ],
-              "battlegroundId": "MusketeerStreet",
+              "battlegroundId": "BeautyBeastCastle",
               "foodReward": 0,
               "ironReward": 0,
               "recruitsReward": 6,
@@ -57645,11 +57662,11 @@
                   "waveFormationId": "boss_3_A_big",
                   "monsterDefinitions": [
                     {
-                      "id": "达达尼昂",
+                      "id": "罗丝·德·弗洛",
                       "lvl": 120
                     },
                     {
-                      "id": "阿多斯",
+                      "id": "多米尼克",
                       "lvl": 120
                     },
                     {
@@ -57659,7 +57676,7 @@
                   ]
                 }
               ],
-              "battlegroundId": "MusketeerStreet",
+              "battlegroundId": "BeautyBeastCastle",
               "foodReward": 0,
               "ironReward": 0,
               "recruitsReward": 6,
@@ -57743,21 +57760,21 @@
                   "waveFormationId": "boss_3_A_big",
                   "monsterDefinitions": [
                     {
-                      "id": "阿多斯",
+                      "id": "罗丝·德·弗洛",
                       "lvl": 152
                     },
                     {
-                      "id": "达达尼昂",
+                      "id": "野兽",
                       "lvl": 152
                     },
                     {
-                      "id": "阿拉密斯",
+                      "id": "多米尼克",
                       "lvl": 152
                     }
                   ]
                 }
               ],
-              "battlegroundId": "MusketeerStreet",
+              "battlegroundId": "BeautyBeastCastle",
               "foodReward": 0,
               "ironReward": 0,
               "recruitsReward": 6,
@@ -57780,7 +57797,9 @@
           "loot_alliance_quest_normal"
         ],
         "minimumAllianceScore": 2500000,
+        "rareMonsterType": "AllianceQuest2Rare",
         "stagesCanBeReplayed": true,
+        "isAllowedToHaveZeroRareSpawnChance": true,
         "energyType": "PveEnergy"
       },
       {
@@ -57820,7 +57839,7 @@
                       "id": "musketeer_assassin_purple"
                     },
                     {
-                      "id": "布朗歇",
+                      "id": "罗丝·德·弗洛",
                       "lvl": 133
                     },
                     {
@@ -57829,7 +57848,7 @@
                   ]
                 }
               ],
-              "battlegroundId": "MusketeerMarket",
+              "battlegroundId": "BeautyBeastCastle",
               "foodReward": 0,
               "ironReward": 0,
               "recruitsReward": 5,
@@ -57867,7 +57886,7 @@
                       "id": "musketeer_thug_blue"
                     },
                     {
-                      "id": "维利尔斯",
+                      "id": "多米尼克",
                       "lvl": 134
                     },
                     {
@@ -57876,7 +57895,7 @@
                   ]
                 }
               ],
-              "battlegroundId": "MusketeerStreet",
+              "battlegroundId": "BeautyBeastCastle",
               "foodReward": 0,
               "ironReward": 0,
               "recruitsReward": 6,
@@ -57964,7 +57983,7 @@
                   ]
                 }
               ],
-              "battlegroundId": "MusketeerStreet",
+              "battlegroundId": "BeautyBeastCastle",
               "foodReward": 0,
               "ironReward": 0,
               "recruitsReward": 7,
@@ -58003,13 +58022,13 @@
                       "lvl": 159
                     },
                     {
-                      "id": "布朗歇",
+                      "id": "罗丝·德·弗洛",
                       "lvl": 159
                     }
                   ]
                 }
               ],
-              "battlegroundId": "MusketeerMarket",
+              "battlegroundId": "BeautyBeastCastle",
               "foodReward": 0,
               "ironReward": 0,
               "recruitsReward": 7,
@@ -58058,7 +58077,7 @@
                   ]
                 }
               ],
-              "battlegroundId": "MusketeerStreet",
+              "battlegroundId": "BeautyBeastCastle",
               "foodReward": 0,
               "ironReward": 0,
               "recruitsReward": 8,
@@ -58142,11 +58161,11 @@
                   "waveFormationId": "boss_3_A_big",
                   "monsterDefinitions": [
                     {
-                      "id": "达达尼昂",
+                      "id": "罗丝·德·弗洛",
                       "lvl": 169
                     },
                     {
-                      "id": "阿多斯",
+                      "id": "多米尼克",
                       "lvl": 169
                     },
                     {
@@ -58156,7 +58175,7 @@
                   ]
                 }
               ],
-              "battlegroundId": "MusketeerStreet",
+              "battlegroundId": "BeautyBeastCastle",
               "foodReward": 0,
               "ironReward": 0,
               "recruitsReward": 8,
@@ -58237,21 +58256,21 @@
                   "waveFormationId": "boss_3_A_big",
                   "monsterDefinitions": [
                     {
-                      "id": "阿多斯",
+                      "id": "罗丝·德·弗洛",
                       "lvl": 185
                     },
                     {
-                      "id": "达达尼昂",
+                      "id": "野兽",
                       "lvl": 185
                     },
                     {
-                      "id": "阿拉密斯",
+                      "id": "多米尼克",
                       "lvl": 185
                     }
                   ]
                 }
               ],
-              "battlegroundId": "MusketeerStreet",
+              "battlegroundId": "BeautyBeastCastle",
               "foodReward": 0,
               "ironReward": 0,
               "recruitsReward": 8,
@@ -58274,7 +58293,9 @@
           "loot_alliance_quest_hard"
         ],
         "minimumAllianceScore": 10000000,
+        "rareMonsterType": "AllianceQuest2Rare",
         "stagesCanBeReplayed": true,
+        "isAllowedToHaveZeroRareSpawnChance": true,
         "energyType": "PveEnergy"
       },
       {
@@ -74458,6 +74479,7 @@
         "maxRareMonsterCountPerWave": 1,
         "rareMonsterType": "ChallengeEventRare",
         "stagesCanBeReplayed": true,
+        "isAllowedToHaveZeroRareSpawnChance": true,
         "energyType": "PveEnergy"
       },
       {
@@ -74989,6 +75011,7 @@
         "maxRareMonsterCountPerWave": 1,
         "rareMonsterType": "ChallengeEventRare",
         "stagesCanBeReplayed": true,
+        "isAllowedToHaveZeroRareSpawnChance": true,
         "energyType": "PveEnergy"
       },
       {
@@ -75517,6 +75540,7 @@
         "maxRareMonsterCountPerWave": 1,
         "rareMonsterType": "ChallengeEventRare",
         "stagesCanBeReplayed": true,
+        "isAllowedToHaveZeroRareSpawnChance": true,
         "energyType": "PveEnergy"
       },
       {
@@ -84360,6 +84384,7 @@
         "maxRareMonsterCountPerWave": 1,
         "rareMonsterType": "ChallengeEventRare",
         "stagesCanBeReplayed": true,
+        "isAllowedToHaveZeroRareSpawnChance": true,
         "energyType": "PveEnergy"
       },
       {
@@ -84844,6 +84869,7 @@
         "maxRareMonsterCountPerWave": 1,
         "rareMonsterType": "ChallengeEventRare",
         "stagesCanBeReplayed": true,
+        "isAllowedToHaveZeroRareSpawnChance": true,
         "energyType": "PveEnergy"
       },
       {
@@ -85329,6 +85355,7 @@
         "maxRareMonsterCountPerWave": 1,
         "rareMonsterType": "ChallengeEventRare",
         "stagesCanBeReplayed": true,
+        "isAllowedToHaveZeroRareSpawnChance": true,
         "energyType": "PveEnergy"
       },
       {
@@ -86407,6 +86434,7 @@
         "maxRareMonsterCountPerWave": 1,
         "rareMonsterType": "ChallengeEventRare",
         "stagesCanBeReplayed": true,
+        "isAllowedToHaveZeroRareSpawnChance": true,
         "energyType": "PveEnergy"
       },
       {
@@ -86881,6 +86909,7 @@
         "maxRareMonsterCountPerWave": 1,
         "rareMonsterType": "ChallengeEventRare",
         "stagesCanBeReplayed": true,
+        "isAllowedToHaveZeroRareSpawnChance": true,
         "energyType": "PveEnergy"
       },
       {
@@ -87356,6 +87385,7 @@
         "maxRareMonsterCountPerWave": 1,
         "rareMonsterType": "ChallengeEventRare",
         "stagesCanBeReplayed": true,
+        "isAllowedToHaveZeroRareSpawnChance": true,
         "energyType": "PveEnergy"
       },
       {
@@ -94233,6 +94263,7 @@
         "maxRareMonsterCountPerWave": 1,
         "rareMonsterType": "ChallengeEventRare",
         "stagesCanBeReplayed": true,
+        "isAllowedToHaveZeroRareSpawnChance": true,
         "energyType": "PveEnergy"
       },
       {
@@ -94717,6 +94748,7 @@
         "maxRareMonsterCountPerWave": 1,
         "rareMonsterType": "ChallengeEventRare",
         "stagesCanBeReplayed": true,
+        "isAllowedToHaveZeroRareSpawnChance": true,
         "energyType": "PveEnergy"
       },
       {
@@ -95206,6 +95238,7 @@
         "maxRareMonsterCountPerWave": 1,
         "rareMonsterType": "ChallengeEventRare",
         "stagesCanBeReplayed": true,
+        "isAllowedToHaveZeroRareSpawnChance": true,
         "energyType": "PveEnergy"
       },
       {
@@ -108522,6 +108555,7 @@
     },
     "starterQuestScoring": {
       "lootTicketPoints": 100,
+      "lootTicketPointsForAllianceQuest": 10000,
       "commonMonsterKillPoints": 500,
       "bossMonsterKillPoints": 2000,
       "rareMonsterKillPoints": 5000,
@@ -108666,6 +108700,12 @@
           "questLineId": "dragon_cave_classic",
           "startTime": "2026-02-20 07:00:00",
           "endTime": "2026-02-23 07:00:00"
+        },
+        {
+          "id": "dragon_cave_classic2026_3_20",
+          "questLineId": "dragon_cave_classic",
+          "startTime": "2026-03-20 07:00:00",
+          "endTime": "2026-03-23 07:00:00"
         }
       ]
     },
@@ -108673,5 +108713,5 @@
       "maxRareMonstersPerEvent": 100
     }
   },
-  "questsConfigId": 575078019
+  "questsConfigId": 3549472240
 }

@@ -40,6 +40,7 @@
 "lottery.title.spring","春日召喚"
 "lottery.title.summon.view.untoldtales","隱秘傳說"
 "lottery.title.superelementalsummon","超級元素召喚"
+"lottery.title.templesummon","神殿召喚"
 "lottery.title.towereventsummon","高塔召喚"
 "lottery.title.towertroopsummon","高塔部隊召喚"
 "lottery.title.untoldtales","隱秘傳說召喚"

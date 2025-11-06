@@ -15,6 +15,17 @@
 "familybonuses.description.long.attack_multiplier_plains_hunters","{2MEMBERSMULTIPLIERPERCENTCHANGE}%/{3MEMBERSMULTIPLIERPERCENTCHANGE}%/{4MEMBERSMULTIPLIERPERCENTCHANGE}%/{5MEMBERSMULTIPLIERPERCENTCHANGE}%攻击力。"
 "familybonuses.description.long.attack_multiplier_realm","{2MEMBERSMULTIPLIERPERCENTCHANGE}%/{3MEMBERSMULTIPLIERPERCENTCHANGE}%攻击力。"
 "familybonuses.description.long.attack_multiplier_zodiac_tiger","{2MEMBERSMULTIPLIERPERCENTCHANGE}%攻击力。"
+"familybonuses.description.long.buff_on_ransack_shady_scoundrels","该角色每次尝试对敌方发动掠夺时，所有盟友获得{FAMILYMEMBERS1ATTACK}%/{FAMILYMEMBERS2ATTACK}%/{FAMILYMEMBERS3ATTACK}%攻击力叠加效果。（最大叠加次数：{MAXSTACK}）"
+"familybonuses.description.long.build_charge_beauty_beast","不同英雄需要的谦逊值各不相同。
+当英雄施放强力版本特殊技能时，只会消耗所需数量的谦逊。
+谦逊上限：100。拥有同一家族的1/2/3名独特英雄时获得额外加成：
+当该英雄受到来自特殊技能的直接伤害时，会获得{1MEMBERCHARGEFROMDAMAGE}/{2MEMBERSCHARGEFROMDAMAGE}/{3MEMBERSCHARGEFROMDAMAGE}点谦逊。
+当该英雄受到来自特殊技能的直接治疗时，会获得{1MEMBERCHARGEFROMHEAL}/{2MEMBERSCHARGEFROMHEAL}/{3MEMBERSCHARGEFROMHEAL}点谦逊。"
+"familybonuses.description.long.build_charge_beauty_beast.oncefromdamage.oncefromheal","不同英雄需要的谦逊值各不相同。
+当英雄施放强力版特殊技能时，只会消耗所需数量的谦逊。
+谦逊上限：100。拥有同一家族的1/2/3名独特英雄时获得额外加成：
+当该英雄受到来自特殊技能的直接伤害时，会获得{1MEMBERCHARGEFROMDAMAGE}/{2MEMBERSCHARGEFROMDAMAGE}/{3MEMBERSCHARGEFROMDAMAGE}点谦逊。每回合最多一次。
+当该英雄受到来自特殊技能的直接治疗时，会获得{1MEMBERCHARGEFROMHEAL}/{2MEMBERSCHARGEFROMHEAL}/{3MEMBERSCHARGEFROMHEAL}点谦逊。每回合最多一次。"
 "familybonuses.description.long.build_charge_construct","每当此角色受到来自普通攻击或特殊技能的伤害时，都会为其机械核心充能。"
 "familybonuses.description.long.build_charge_myrkheim","每当此角色受到来自普通攻击或特殊技能的伤害时，都会为其极地核心充能。"
 "familybonuses.description.long.build_charge_nidavellir","每当此角色受到来自普通攻击或特殊技能的伤害时，都会为其熔岩核心充能。"
@@ -165,6 +176,11 @@
 "familybonuses.description.short.blood_lily_to_highest_hp_per_turn_pve_tier1","每回合开始时，用血莲标记剩余生命值最高的敌人。"
 "familybonuses.description.short.blood_lily_to_highest_hp_per_turn_pve_tier2","每回合开始时，用血莲标记剩余生命值最高的敌人。"
 "familybonuses.description.short.blood_lily_to_highest_hp_per_turn_pve_tier3","每回合开始时，用血莲标记剩余生命值最高的敌人。"
+"familybonuses.description.short.buff_on_ransack_shady_scoundrels","当该角色尝试对敌人发动掠夺时，为全体盟友施加{ATTACK}%攻击力叠加效果。（最大叠加次数：{MAXSTACK}）"
+"familybonuses.description.short.build_charge_beauty_beast","该角色在受到特殊技能造成的直接伤害时会获得{CURRENTCHARGEFROMDAMAGE}点谦逊。
+该角色在受到特殊技能直接治疗时会获得{CURRENTCHARGEFROMHEAL}点谦逊。"
+"familybonuses.description.short.build_charge_beauty_beast.oncefromdamage.oncefromheal","该角色在受到特殊技能造成的直接伤害时会获得{CURRENTCHARGEFROMDAMAGE}点谦逊。每回合最多一次。
+该角色在受到特殊技能直接治疗时会获得{CURRENTCHARGEFROMHEAL}点谦逊。每回合最多一次。"
 "familybonuses.description.short.build_charge_construct","每当此角色受到来自普通攻击或特殊技能的伤害时，都会为其机械核心充能。"
 "familybonuses.description.short.build_charge_myrkheim","每当此角色受到来自普通攻击或特殊技能的伤害时，都会为此角色的极地核心充能。"
 "familybonuses.description.short.build_charge_nidavellir","每当此角色受到来自普通攻击或特殊技能的伤害时，都会为此角色的熔岩核心充能。"
@@ -291,6 +307,7 @@
 此英雄在当前突袭乱斗活动中具有以下突袭加成："
 "herocard.family.description.common","当与相同家族的独特英雄组队时，英雄会变得更强。"
 "herocard.family.description.common.bard","吟游诗人家族为队伍中唯一属于该家族的英雄提供单人加成："
+"herocard.family.description.common.beauty_beast","该家族的英雄可通过积累谦逊来施放强力版本的特殊技能。"
 "herocard.family.description.common.classic","当与相同家族的独特英雄组队时，英雄会变得更强。
 
 经典家族英雄需要进阶到满级才能获得家族加成。
@@ -319,7 +336,7 @@
 "herocard.family.description.eventherobonus.active_now_event","此活动正在进行中！"
 "herocard.family.description.eventherobonus.alliancequestcastle","该家族的成员在骑士冲击活动中拥有额外的加成。"
 "herocard.family.description.eventherobonus.alliancequestmoths","该家族的成员在飞蛾之夜活动中拥有额外的加成。"
-"herocard.family.description.eventherobonus.alliancequestmusketeers","该家族的成员在英勇火枪手活动中拥有额外的加成。"
+"herocard.family.description.eventherobonus.alliancequestmusketeers","该家族的成员在勇者与美人活动中拥有额外的加成。"
 "herocard.family.description.eventherobonus.beachparty","该家族的成员在海滩派对活动中拥有额外的加成。"
 "herocard.family.description.eventherobonus.christmas","该家族的成员在圣诞老人挑战活动中拥有额外的加成。"
 "herocard.family.description.eventherobonus.easter","该家族的成员在春谷节活动中拥有额外的加成。"
@@ -384,6 +401,8 @@
 "herocard.family.title.bear","野熊家族"
 "herocard.family.title.bear.short","野熊"
 "herocard.family.title.bear_pve.short","野熊"
+"herocard.family.title.beauty_beast","美女与野兽家族"
+"herocard.family.title.beauty_beast.short","美女与野兽"
 "herocard.family.title.beowulf","贝奥武夫家族"
 "herocard.family.title.beowulf.short","贝奥武夫"
 "herocard.family.title.champions","冠军家族"
@@ -498,6 +517,8 @@
 "herocard.family.title.raven_pve.short","渡鸦"
 "herocard.family.title.sand","飞沙帝国家族"
 "herocard.family.title.sand.short","飞沙帝国"
+"herocard.family.title.shady_scoundrels","暗影无赖家族"
+"herocard.family.title.shady_scoundrels.short","暗影无赖"
 "herocard.family.title.slayers","杀手家族"
 "herocard.family.title.slayers.short","杀手"
 "herocard.family.title.slime","史莱姆家族"

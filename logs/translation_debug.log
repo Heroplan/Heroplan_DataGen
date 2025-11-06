@@ -34,6 +34,18 @@
 - [heroes.name.mimic_training_hero_red] 原始: 'Experience Mimic' 标准化: 'Experience Mimic'
 - [heroes.name.mimic_training_hero_yellow] 原始: 'Experience Mimic' 标准化: 'Experience Mimic'
 
+'aramis' 有以下变体:
+- [heroes.name.musketeer_aramis] 原始: 'Aramis' 标准化: 'Aramis'
+- [heroes.name.musketeer_aramis_costume_boulanger] 原始: 'Aramis' 标准化: 'Aramis'
+
+'athos' 有以下变体:
+- [heroes.name.musketeer_athos] 原始: 'Athos' 标准化: 'Athos'
+- [heroes.name.musketeer_athos_costume_farrier] 原始: 'Athos' 标准化: 'Athos'
+
+'porthos' 有以下变体:
+- [heroes.name.musketeer_porthos] 原始: 'Porthos' 标准化: 'Porthos'
+- [heroes.name.musketeer_porthos_costume_merchant] 原始: 'Porthos' 标准化: 'Porthos'
+
 'trainer hero' 有以下变体:
 - [heroes.name.rider_hero_blue] 原始: 'Trainer Hero' 标准化: 'Trainer Hero'
 - [heroes.name.rider_hero_green] 原始: 'Trainer Hero' 标准化: 'Trainer Hero'
@@ -46,7 +58,7 @@
 - [heroes.name.s3_loki_male] 原始: 'Lord Loki' 标准化: 'Lord Loki'
 - [heroes.name.s3_lord_loki_covenant] 原始: 'Lord Loki' 标准化: 'Lord Loki'
 
-总重复组数: 6
+总重复组数: 9
 
 --- 无未匹配英文条目 ---
 
@@ -69,13 +81,16 @@
 - [heroes.name.mimic_training_hero_purple] 经验拟态兽
 - [heroes.name.mimic_training_hero_red] 经验拟态兽
 - [heroes.name.mimic_training_hero_yellow] 经验拟态兽
+- [heroes.name.musketeer_aramis_costume_boulanger] 阿拉密斯
+- [heroes.name.musketeer_athos_costume_farrier] 阿多斯
+- [heroes.name.musketeer_porthos_costume_merchant] 波尔多斯
 - [heroes.name.rider_hero_green] 训练师英雄
 - [heroes.name.rider_hero_purple] 训练师英雄
 - [heroes.name.rider_hero_red] 训练师英雄
 - [heroes.name.rider_hero_yellow] 训练师英雄
 - [heroes.name.s3_lord_loki_covenant] 洛基领主
 - [heroes.name.trainer] 训练师英雄
-总数: 24
+总数: 27
 
 
 === heroes_name (zh-Hant) 翻译分析调试信息 ===
@@ -112,6 +127,18 @@
 - [heroes.name.mimic_training_hero_red] 原始: 'Experience Mimic' 标准化: 'Experience Mimic'
 - [heroes.name.mimic_training_hero_yellow] 原始: 'Experience Mimic' 标准化: 'Experience Mimic'
 
+'aramis' 有以下变体:
+- [heroes.name.musketeer_aramis] 原始: 'Aramis' 标准化: 'Aramis'
+- [heroes.name.musketeer_aramis_costume_boulanger] 原始: 'Aramis' 标准化: 'Aramis'
+
+'athos' 有以下变体:
+- [heroes.name.musketeer_athos] 原始: 'Athos' 标准化: 'Athos'
+- [heroes.name.musketeer_athos_costume_farrier] 原始: 'Athos' 标准化: 'Athos'
+
+'porthos' 有以下变体:
+- [heroes.name.musketeer_porthos] 原始: 'Porthos' 标准化: 'Porthos'
+- [heroes.name.musketeer_porthos_costume_merchant] 原始: 'Porthos' 标准化: 'Porthos'
+
 'trainer hero' 有以下变体:
 - [heroes.name.rider_hero_blue] 原始: 'Trainer Hero' 标准化: 'Trainer Hero'
 - [heroes.name.rider_hero_green] 原始: 'Trainer Hero' 标准化: 'Trainer Hero'
@@ -124,7 +151,7 @@
 - [heroes.name.s3_loki_male] 原始: 'Lord Loki' 标准化: 'Lord Loki'
 - [heroes.name.s3_lord_loki_covenant] 原始: 'Lord Loki' 标准化: 'Lord Loki'
 
-总重复组数: 6
+总重复组数: 9
 
 --- 无未匹配英文条目 ---
 
@@ -147,13 +174,16 @@
 - [heroes.name.mimic_training_hero_purple] 經驗模仿怪
 - [heroes.name.mimic_training_hero_red] 經驗模仿怪
 - [heroes.name.mimic_training_hero_yellow] 經驗模仿怪
+- [heroes.name.musketeer_aramis_costume_boulanger] 阿拉米司
+- [heroes.name.musketeer_athos_costume_farrier] 亞叟斯
+- [heroes.name.musketeer_porthos_costume_merchant] 波梭司
 - [heroes.name.rider_hero_green] 教練英雄
 - [heroes.name.rider_hero_purple] 教練英雄
 - [heroes.name.rider_hero_red] 教練英雄
 - [heroes.name.rider_hero_yellow] 教練英雄
 - [heroes.name.s3_lord_loki_covenant] 洛基領主
 - [heroes.name.trainer] 教練英雄
-总数: 24
+总数: 27
 
 
 === heroes_name_fancy (zh-Hans) 翻译分析调试信息 ===
@@ -399,6 +429,10 @@ Each hit from a Bee Minion gives the target the following status ailments:'
 - [specials.v2.minion.dark_soldier.all] 原始: 'Summons a Dark Soldier Minion for all allies with {FAMILIARHEALTHPERCENT}% HP and {FAMILIARATTACK}% attack inherited from the caster.' 标准化: 'Summons a Dark Soldier Minion for all allies with {FAMILIARHEALTHPERCENT}% HP and {FAMILIARATTACK}% attack inherited from the caster.'
 - [specials.v2.minion.dark_soldier_set_costume.all] 原始: 'Summons a Dark Soldier Minion for all allies with {FAMILIARHEALTHPERCENT}% HP and {FAMILIARATTACK}% attack inherited from the caster.' 标准化: 'Summons a Dark Soldier Minion for all allies with {FAMILIARHEALTHPERCENT}% HP and {FAMILIARATTACK}% attack inherited from the caster.'
 
+'summons an enchanted sigil minion for each ally with {familiarhealthpercent}% hp and {familiarattack}% attack inherited from the caster.' 有以下变体:
+- [specials.v2.minion.enchanted_sigil_minion.all] 原始: 'Summons an Enchanted Sigil Minion for each ally with {FAMILIARHEALTHPERCENT}% HP and {FAMILIARATTACK}% attack inherited from the caster.' 标准化: 'Summons an Enchanted Sigil Minion for each ally with {FAMILIARHEALTHPERCENT}% HP and {FAMILIARATTACK}% attack inherited from the caster.'
+- [specials.v2.minion.enchanted_sigil_minion_costume.all] 原始: 'Summons an Enchanted Sigil Minion for each ally with {FAMILIARHEALTHPERCENT}% HP and {FAMILIARATTACK}% attack inherited from the caster.' 标准化: 'Summons an Enchanted Sigil Minion for each ally with {FAMILIARHEALTHPERCENT}% HP and {FAMILIARATTACK}% attack inherited from the caster.'
+
 'summons a firewall minion for all allies with {familiarhealthpercent}% hp inherited from the caster.' 有以下变体:
 - [specials.v2.minion.firewall_minion.all] 原始: 'Summons a Firewall Minion for all allies with {FAMILIARHEALTHPERCENT}% HP inherited from the caster.' 标准化: 'Summons a Firewall Minion for all allies with {FAMILIARHEALTHPERCENT}% HP inherited from the caster.'
 - [specials.v2.minion.living_fire.all] 原始: 'Summons a Firewall Minion for all allies with {FAMILIARHEALTHPERCENT}% HP inherited from the caster.' 标准化: 'Summons a Firewall Minion for all allies with {FAMILIARHEALTHPERCENT}% HP inherited from the caster.'
@@ -539,6 +573,15 @@ The Ninja Assassin Fiend absorbs healing. It disappears after absorbing a healin
 - [specials.v2.parasite.charge_ninja_fiend3.all] 原始: 'Summons a Ninja Assassin Fiend for all enemies. The Fiend damages its target with {FAMILIARATTACK}% attack every turn.
 The Ninja Assassin Fiend absorbs healing. It disappears after absorbing a healing amount equal to {FAMILIARHEALTHPERCENT}% of its target's max health.' 标准化: 'Summons a Ninja Assassin Fiend for all enemies. The Fiend damages its target with {FAMILIARATTACK}% attack every turn.
 The Ninja Assassin Fiend absorbs healing. It disappears after absorbing a healing amount equal to {FAMILIARHEALTHPERCENT}% of its target's max health.'
+
+'summons a cursed sigil fiend for all enemies. the fiend damages its target with {familiarattack}% attack every turn.
+the cursed sigil fiend absorbs healing. it disappears after absorbing a healing amount equal to {familiarhealthpercent}% of its target's max health.' 有以下变体:
+- [specials.v2.parasite.cursed_sigil_parasite.all] 原始: 'Summons a Cursed Sigil Fiend for all enemies. The Fiend damages its target with {FAMILIARATTACK}% attack every turn.
+The Cursed Sigil Fiend absorbs healing. It disappears after absorbing a healing amount equal to {FAMILIARHEALTHPERCENT}% of its target's max health.' 标准化: 'Summons a Cursed Sigil Fiend for all enemies. The Fiend damages its target with {FAMILIARATTACK}% attack every turn.
+The Cursed Sigil Fiend absorbs healing. It disappears after absorbing a healing amount equal to {FAMILIARHEALTHPERCENT}% of its target's max health.'
+- [specials.v2.parasite.cursed_sigil_parasite_costume.all] 原始: 'Summons a Cursed Sigil Fiend for all enemies. The Fiend damages its target with {FAMILIARATTACK}% attack every turn.
+The Cursed Sigil Fiend absorbs healing. It disappears after absorbing a healing amount equal to {FAMILIARHEALTHPERCENT}% of its target's max health.' 标准化: 'Summons a Cursed Sigil Fiend for all enemies. The Fiend damages its target with {FAMILIARATTACK}% attack every turn.
+The Cursed Sigil Fiend absorbs healing. It disappears after absorbing a healing amount equal to {FAMILIARHEALTHPERCENT}% of its target's max health.'
 
 'summons a dagger fiend for the target and holy enemies. the fiend damages its target with {familiarattack}% attack every turn.
 the dagger fiend absorbs healing. it disappears after absorbing a healing amount equal to {familiarhealthpercent}% of its target's max health.' 有以下变体:
@@ -695,6 +738,15 @@ The Worm Fiend absorbs healing. It disappears after absorbing a healing amount e
 - [specials.v2.property.basechainstrike.randommaintarget] 原始: 'Deals {DAMAGE}% damage to {TOTALMAXHITS} random enemies.' 标准化: 'Deals {DAMAGE}% damage to {TOTALMAXHITS} random enemies.'
 - [specials.v2.property.chainstrike.allowmaintargetinrandomtargets.randommaintarget] 原始: 'Deals {DAMAGE}% damage to {TOTALMAXHITS} random enemies.' 标准化: 'Deals {DAMAGE}% damage to {TOTALMAXHITS} random enemies.'
 - [specials.v2.property.chainstrike.randommaintarget] 原始: 'Deals {DAMAGE}% damage to {TOTALMAXHITS} random enemies.' 标准化: 'Deals {DAMAGE}% damage to {TOTALMAXHITS} random enemies.'
+
+'growth boon: deals {powerperbasestat}% extra damage for each point of modified attack.' 有以下变体:
+- [specials.v2.property.casterbasestatdependentsecondaryeffect.damage.all.enemies.attack] 原始: 'Growth Boon: Deals {POWERPERBASESTAT}% extra damage for each point of modified attack.' 标准化: 'Growth Boon: Deals {POWERPERBASESTAT}% extra damage for each point of modified attack.'
+- [specials.v2.property.casterbasestatdependentsecondaryeffect.damage.single.enemies.attack] 原始: 'Growth Boon: Deals {POWERPERBASESTAT}% extra damage for each point of modified attack.' 标准化: 'Growth Boon: Deals {POWERPERBASESTAT}% extra damage for each point of modified attack.'
+
+'growth boon: deals {fixedpowerperbasestat}x extra damage for each point of modified attack.' 有以下变体:
+- [specials.v2.property.casterbasestatdependentsecondaryeffect.damage.all.enemies.attack.fixed_power] 原始: 'Growth Boon: Deals {FIXEDPOWERPERBASESTAT}x extra damage for each point of modified attack.' 标准化: 'Growth Boon: Deals {FIXEDPOWERPERBASESTAT}x extra damage for each point of modified attack.'
+- [specials.v2.property.casterbasestatdependentsecondaryeffect.damage.neartotarget.enemies.attack.fixed_power] 原始: 'Growth Boon: Deals {FIXEDPOWERPERBASESTAT}x extra damage for each point of modified attack.' 标准化: 'Growth Boon: Deals {FIXEDPOWERPERBASESTAT}x extra damage for each point of modified attack.'
+- [specials.v2.property.casterbasestatdependentsecondaryeffect.damage.single.enemies.attack.fixed_power] 原始: 'Growth Boon: Deals {FIXEDPOWERPERBASESTAT}x extra damage for each point of modified attack.' 标准化: 'Growth Boon: Deals {FIXEDPOWERPERBASESTAT}x extra damage for each point of modified attack.'
 
 'has a {chance}% chance for additional hits on random enemies up to {maxhits} times. additional hits deal minor damage.' 有以下变体:
 - [specials.v2.property.chainstrike.allowmaintargetinrandomtargets.minordamage.with_chance] 原始: 'Has a {CHANCE}% chance for additional hits on random enemies up to {MAXHITS} times. Additional hits deal minor damage.' 标准化: 'Has a {CHANCE}% chance for additional hits on random enemies up to {MAXHITS} times. Additional hits deal minor damage.'
@@ -1006,6 +1058,10 @@ Enemies with Minions or Mega Minions receive {STATUSEFFECT1DEFENSE}% defense for
 'wither: the target and nearby enemies get {attackincrease} attack and {defenseincrease} defense.' 有以下变体:
 - [specials.v2.property.wither.none.neartotarget.enemies] 原始: 'Wither: The target and nearby enemies get {ATTACKINCREASE} attack and {DEFENSEINCREASE} defense.' 标准化: 'Wither: The target and nearby enemies get {ATTACKINCREASE} attack and {DEFENSEINCREASE} defense.'
 - [specials.v2.property.wither.none.neartotarget.enemies.attack.defense] 原始: 'Wither: The target and nearby enemies get {ATTACKINCREASE} attack and {DEFENSEINCREASE} defense.' 标准化: 'Wither: The target and nearby enemies get {ATTACKINCREASE} attack and {DEFENSEINCREASE} defense.'
+
+'the caster goes into ambush. damage dealt by the caster is increased by {damage}%, and damage received by them is decreased by {damagereduction}%.' 有以下变体:
+- [specials.v2.statuseffect.major.ambush.single.allies.decrease.removeondamagereceived] 原始: 'The caster goes into Ambush. Damage dealt by the caster is increased by {DAMAGE}%, and damage received by them is decreased by {DAMAGEREDUCTION}%.' 标准化: 'The caster goes into Ambush. Damage dealt by the caster is increased by {DAMAGE}%, and damage received by them is decreased by {DAMAGEREDUCTION}%.'
+- [specials.v2.statuseffect.major.ambush.single.allies.decrease.removeondamagereceived.while.caster.enemies.none] 原始: 'The caster goes into Ambush. Damage dealt by the caster is increased by {DAMAGE}%, and damage received by them is decreased by {DAMAGEREDUCTION}%.' 标准化: 'The caster goes into Ambush. Damage dealt by the caster is increased by {DAMAGE}%, and damage received by them is decreased by {DAMAGEREDUCTION}%.'
 
 'the target gets {attack}% attack for {turns} turns. the effect duration resets if the target is healed. this effect can't be cleansed.' 有以下变体:
 - [specials.v2.statuseffect.major.attackmodifier.single.allies.resetonheal] 原始: 'The target gets {ATTACK}% attack for {TURNS} turns. The effect duration resets if the target is healed. This effect can't be cleansed.' 标准化: 'The target gets {ATTACK}% attack for {TURNS} turns. The effect duration resets if the target is healed. This effect can't be cleansed.'
@@ -1394,9 +1450,11 @@ The Source of Buffs will activate {MAXACTIVATIONCOUNT} times. Each attempt to di
  Magma Cubes explode in {TURNS} turns doing {DAMAGE} damage to their owner.
  If Magma Cube is cleansed, the owner gets {STATUSEFFECT1MANAREGEN}% mana generation for {REMOVALEFFECT2STATUSEFFECT1TURNS} turns.'
 
-总重复组数: 178
+总重复组数: 183
 
---- 无未匹配英文条目 ---
+--- 未匹配的英文条目 ---
+- [specials.v2.statuseffect.major.constantmanasteal.all.enemies.while.single.allies.familiaralive.cursed_sigil_parasite_costume] The caster steals {CURRENTMANASTEAL}% of generated mana from all enemies. The effect lasts as long as the target has Cursed Sigil Fiends. This effect can't be cleansed, but it gets removed if the caster is defeated.
+总数: 1
 
 --- 未使用的zh-Hans翻译 ---
 - [specials.v2.directeffect.addmana.all.enemies.increment] 使所有敌人的法力减少{MANA}%。
@@ -1412,6 +1470,7 @@ The Source of Buffs will activate {MAXACTIVATIONCOUNT} times. Each attempt to di
 - [specials.v2.minion.charge_shinobi_minion3.all] 为每位盟友召唤一个忍者小兵，其可从施法者处继承{FAMILIARHEALTHPERCENT}%生命和{FAMILIARATTACK}%攻击力。
 - [specials.v2.minion.clown_costume.all] 为每位盟友召唤一个小丑小兵，其可从施法者处继承{FAMILIARHEALTHPERCENT}%生命和{FAMILIARATTACK}%攻击力。
 - [specials.v2.minion.dark_soldier_set_costume.all] 为所有盟友召唤一个暗黑战士小兵，其可从施法者处继承{FAMILIARHEALTHPERCENT}%生命和{FAMILIARATTACK}%攻击力。
+- [specials.v2.minion.enchanted_sigil_minion_costume.all] 为每位盟友召唤一个迷幻印记小兵，其可从施法者处继承{FAMILIARHEALTHPERCENT}%生命和{FAMILIARATTACK}%攻击力。
 - [specials.v2.minion.forest_sprite_costume_mielikki.all] 为所有盟友召唤一个森林精灵小兵，其可从施法者处继承{FAMILIARHEALTHPERCENT}%生命和{FAMILIARATTACK}%攻击力。
 - [specials.v2.minion.holy_god_delilah.all] 为每位盟友召唤一个守护者小兵，其可从施法者处继承{FAMILIARHEALTHPERCENT}%生命和{FAMILIARATTACK}%攻击力。
 - [specials.v2.minion.jellyfish_minion_costume1.all] 为每位盟友召唤一个水母小兵，其可从施法者处继承{FAMILIARHEALTHPERCENT}%生命和{FAMILIARATTACK}%攻击力。
@@ -1447,6 +1506,8 @@ The Source of Buffs will activate {MAXACTIVATIONCOUNT} times. Each attempt to di
 忍者刺客恶魔会吸收治疗，当吸收的治疗量达到其目标最大生命值的{FAMILIARHEALTHPERCENT}%时，便会消失。
 - [specials.v2.parasite.charge_ninja_fiend3.all] 召唤忍者刺客恶魔附身于所有敌人。该恶魔每回合会用攻击力的{FAMILIARATTACK}%对其目标造成伤害。
 忍者刺客恶魔会吸收治疗，当吸收的治疗量达到其目标最大生命值的{FAMILIARHEALTHPERCENT}%时，便会消失。
+- [specials.v2.parasite.cursed_sigil_parasite_costume.all] 召唤诅咒印记恶魔附身于所有敌人。该恶魔每回合会用攻击力的{FAMILIARATTACK}%对其目标造成伤害。
+诅咒印记恶魔会吸收治疗，当吸收的治疗量达到其目标最大生命值的{FAMILIARHEALTHPERCENT}%时，便会消失。
 - [specials.v2.parasite.dagger_parasite_costume.singleandyellow] 召唤匕首恶魔附身于目标和神圣系敌人。该恶魔每回合会用攻击力的{FAMILIARATTACK}%对其目标造成伤害。
 匕首恶魔会吸收治疗，当吸收的治疗量达到其目标最大生命值的{FAMILIARHEALTHPERCENT}%时，便会消失。
 - [specials.v2.parasite.gargoyle_parasite.explode.hasturns] 石像鬼恶魔会在{FAMILIAREFFECTFREQUENCY}回合后爆炸，对目标造成{FAMILIARFIXEDEXPLOSIONDAMAGE}点伤害。
@@ -1486,6 +1547,9 @@ The Source of Buffs will activate {MAXACTIVATIONCOUNT} times. Each attempt to di
 - [specials.v2.parasite.worm_parasite_vollermork_costume.all] 召唤蠕虫恶魔附身于所有敌人。该恶魔每回合会用攻击力的{FAMILIARATTACK}%对其目标造成伤害。
 蠕虫恶魔会吸收治疗，当吸收的治疗量达到其目标最大生命值的{FAMILIARHEALTHPERCENT}%时，便会消失。
 - [specials.v2.property.addstatuseffectswithchance.bleed_zarga.single.enemies] 目标有{ADDSTATUSEFFECTCHANCE}%几率在{STATUSEFFECT1TURNS}回合内受到共计{STATUSEFFECT1DAMAGE}点流血伤害。
+- [specials.v2.property.casterbasestatdependentsecondaryeffect.damage.neartotarget.enemies.attack.fixed_power] 成长恩赐：每点修正攻击力造成{FIXEDPOWERPERBASESTAT}x额外伤害。
+- [specials.v2.property.casterbasestatdependentsecondaryeffect.damage.single.enemies.attack] 成长恩赐：每点修正攻击力造成{POWERPERBASESTAT}%额外伤害。
+- [specials.v2.property.casterbasestatdependentsecondaryeffect.damage.single.enemies.attack.fixed_power] 成长恩赐：每点修正攻击力造成{FIXEDPOWERPERBASESTAT}x额外伤害。
 - [specials.v2.property.chainstrike.allowmaintargetinrandomtargets.randommaintarget] 对随机{TOTALMAXHITS}名敌人造成{DAMAGE}%伤害。
 - [specials.v2.property.chainstrike.minordamage.with_chance] 有{CHANCE}%的几率可额外攻击随机敌人，最多{MAXHITS}次。额外攻击造成轻微伤害。
 - [specials.v2.property.chainstrike.randommaintarget] 对随机{TOTALMAXHITS}名敌人造成{DAMAGE}%伤害。
@@ -1596,6 +1660,7 @@ The Source of Buffs will activate {MAXACTIVATIONCOUNT} times. Each attempt to di
 怪兽和头目触发此效果时，此效果的作用会减弱。
 - [specials.v2.property.wither.none.neartotarget.enemies.attack.defense] 衰退：目标与附近敌人获得{ATTACKINCREASE}点攻击力和{DEFENSEINCREASE}点防御。
 - [specials.v2.saturated_suffering.immuneelement.blue] 所有冰雪系敌人对此攻击免疫。
+- [specials.v2.statuseffect.major.ambush.single.allies.decrease.removeondamagereceived.while.caster.enemies.none] 施法者进入伏击状态，其造成的伤害增加{DAMAGE}%，受到的伤害减少{DAMAGEREDUCTION}%。
 - [specials.v2.statuseffect.major.attackmodifier.single.enemies.resetonheal] 目标获得{ATTACK}%攻击力，持续{TURNS}回合。若目标受到治疗，效果持续时间将重置。此效果无法净化。
 - [specials.v2.statuseffect.major.corrosivepoison.sides.enemies.managenerationmodifier.extra_minion_damage.minion.bigminion.follower.extra_minion_damage.minion.bigminion.follower] 处于敌方阵型边缘的敌人受到腐蚀性毒伤，持续{TURNS}回合。腐蚀性毒伤每回合造成{DAMAGEPERTURN}点剧毒伤害，并且使目标法力生成降低{CHANGE}%。此效果无法净化。
 - [specials.v2.statuseffect.major.counterattack.single.allies.while.single.allies.familiaralive.charge_shinobi_minion2] 忍者小兵被召唤后，在拥有该小兵期间，该小兵使其所有者能以所受伤害的{DEFLECTION}%作出反击。此效果无法驱散。
@@ -1698,7 +1763,7 @@ The Source of Buffs will activate {MAXACTIVATIONCOUNT} times. Each attempt to di
 熔岩魔方将在{TURNS}回合后爆炸，对其所有者造成{DAMAGE}点伤害。
 如果熔岩魔方被净化，则其所有者获得{STATUSEFFECT1MANAREGEN}%法力生成，持续{REMOVALEFFECT2STATUSEFFECT1TURNS}回合。
 - [specials.v2.statuseffect.sandcurse.single.enemies.contagious] 目标在{TURNS}回合内受到共计{DAMAGE}点沙系伤害。此效果会蔓延至附近敌人。
-总数: 231
+总数: 237
 
 
 === skill (zh-Hant) 翻译分析调试信息 ===
@@ -1781,6 +1846,10 @@ Each hit from a Bee Minion gives the target the following status ailments:'
 'summons a dark soldier minion for all allies with {familiarhealthpercent}% hp and {familiarattack}% attack inherited from the caster.' 有以下变体:
 - [specials.v2.minion.dark_soldier.all] 原始: 'Summons a Dark Soldier Minion for all allies with {FAMILIARHEALTHPERCENT}% HP and {FAMILIARATTACK}% attack inherited from the caster.' 标准化: 'Summons a Dark Soldier Minion for all allies with {FAMILIARHEALTHPERCENT}% HP and {FAMILIARATTACK}% attack inherited from the caster.'
 - [specials.v2.minion.dark_soldier_set_costume.all] 原始: 'Summons a Dark Soldier Minion for all allies with {FAMILIARHEALTHPERCENT}% HP and {FAMILIARATTACK}% attack inherited from the caster.' 标准化: 'Summons a Dark Soldier Minion for all allies with {FAMILIARHEALTHPERCENT}% HP and {FAMILIARATTACK}% attack inherited from the caster.'
+
+'summons an enchanted sigil minion for each ally with {familiarhealthpercent}% hp and {familiarattack}% attack inherited from the caster.' 有以下变体:
+- [specials.v2.minion.enchanted_sigil_minion.all] 原始: 'Summons an Enchanted Sigil Minion for each ally with {FAMILIARHEALTHPERCENT}% HP and {FAMILIARATTACK}% attack inherited from the caster.' 标准化: 'Summons an Enchanted Sigil Minion for each ally with {FAMILIARHEALTHPERCENT}% HP and {FAMILIARATTACK}% attack inherited from the caster.'
+- [specials.v2.minion.enchanted_sigil_minion_costume.all] 原始: 'Summons an Enchanted Sigil Minion for each ally with {FAMILIARHEALTHPERCENT}% HP and {FAMILIARATTACK}% attack inherited from the caster.' 标准化: 'Summons an Enchanted Sigil Minion for each ally with {FAMILIARHEALTHPERCENT}% HP and {FAMILIARATTACK}% attack inherited from the caster.'
 
 'summons a firewall minion for all allies with {familiarhealthpercent}% hp inherited from the caster.' 有以下变体:
 - [specials.v2.minion.firewall_minion.all] 原始: 'Summons a Firewall Minion for all allies with {FAMILIARHEALTHPERCENT}% HP inherited from the caster.' 标准化: 'Summons a Firewall Minion for all allies with {FAMILIARHEALTHPERCENT}% HP inherited from the caster.'
@@ -1922,6 +1991,15 @@ The Ninja Assassin Fiend absorbs healing. It disappears after absorbing a healin
 - [specials.v2.parasite.charge_ninja_fiend3.all] 原始: 'Summons a Ninja Assassin Fiend for all enemies. The Fiend damages its target with {FAMILIARATTACK}% attack every turn.
 The Ninja Assassin Fiend absorbs healing. It disappears after absorbing a healing amount equal to {FAMILIARHEALTHPERCENT}% of its target's max health.' 标准化: 'Summons a Ninja Assassin Fiend for all enemies. The Fiend damages its target with {FAMILIARATTACK}% attack every turn.
 The Ninja Assassin Fiend absorbs healing. It disappears after absorbing a healing amount equal to {FAMILIARHEALTHPERCENT}% of its target's max health.'
+
+'summons a cursed sigil fiend for all enemies. the fiend damages its target with {familiarattack}% attack every turn.
+the cursed sigil fiend absorbs healing. it disappears after absorbing a healing amount equal to {familiarhealthpercent}% of its target's max health.' 有以下变体:
+- [specials.v2.parasite.cursed_sigil_parasite.all] 原始: 'Summons a Cursed Sigil Fiend for all enemies. The Fiend damages its target with {FAMILIARATTACK}% attack every turn.
+The Cursed Sigil Fiend absorbs healing. It disappears after absorbing a healing amount equal to {FAMILIARHEALTHPERCENT}% of its target's max health.' 标准化: 'Summons a Cursed Sigil Fiend for all enemies. The Fiend damages its target with {FAMILIARATTACK}% attack every turn.
+The Cursed Sigil Fiend absorbs healing. It disappears after absorbing a healing amount equal to {FAMILIARHEALTHPERCENT}% of its target's max health.'
+- [specials.v2.parasite.cursed_sigil_parasite_costume.all] 原始: 'Summons a Cursed Sigil Fiend for all enemies. The Fiend damages its target with {FAMILIARATTACK}% attack every turn.
+The Cursed Sigil Fiend absorbs healing. It disappears after absorbing a healing amount equal to {FAMILIARHEALTHPERCENT}% of its target's max health.' 标准化: 'Summons a Cursed Sigil Fiend for all enemies. The Fiend damages its target with {FAMILIARATTACK}% attack every turn.
+The Cursed Sigil Fiend absorbs healing. It disappears after absorbing a healing amount equal to {FAMILIARHEALTHPERCENT}% of its target's max health.'
 
 'summons a dagger fiend for the target and holy enemies. the fiend damages its target with {familiarattack}% attack every turn.
 the dagger fiend absorbs healing. it disappears after absorbing a healing amount equal to {familiarhealthpercent}% of its target's max health.' 有以下变体:
@@ -2078,6 +2156,15 @@ The Worm Fiend absorbs healing. It disappears after absorbing a healing amount e
 - [specials.v2.property.basechainstrike.randommaintarget] 原始: 'Deals {DAMAGE}% damage to {TOTALMAXHITS} random enemies.' 标准化: 'Deals {DAMAGE}% damage to {TOTALMAXHITS} random enemies.'
 - [specials.v2.property.chainstrike.allowmaintargetinrandomtargets.randommaintarget] 原始: 'Deals {DAMAGE}% damage to {TOTALMAXHITS} random enemies.' 标准化: 'Deals {DAMAGE}% damage to {TOTALMAXHITS} random enemies.'
 - [specials.v2.property.chainstrike.randommaintarget] 原始: 'Deals {DAMAGE}% damage to {TOTALMAXHITS} random enemies.' 标准化: 'Deals {DAMAGE}% damage to {TOTALMAXHITS} random enemies.'
+
+'growth boon: deals {powerperbasestat}% extra damage for each point of modified attack.' 有以下变体:
+- [specials.v2.property.casterbasestatdependentsecondaryeffect.damage.all.enemies.attack] 原始: 'Growth Boon: Deals {POWERPERBASESTAT}% extra damage for each point of modified attack.' 标准化: 'Growth Boon: Deals {POWERPERBASESTAT}% extra damage for each point of modified attack.'
+- [specials.v2.property.casterbasestatdependentsecondaryeffect.damage.single.enemies.attack] 原始: 'Growth Boon: Deals {POWERPERBASESTAT}% extra damage for each point of modified attack.' 标准化: 'Growth Boon: Deals {POWERPERBASESTAT}% extra damage for each point of modified attack.'
+
+'growth boon: deals {fixedpowerperbasestat}x extra damage for each point of modified attack.' 有以下变体:
+- [specials.v2.property.casterbasestatdependentsecondaryeffect.damage.all.enemies.attack.fixed_power] 原始: 'Growth Boon: Deals {FIXEDPOWERPERBASESTAT}x extra damage for each point of modified attack.' 标准化: 'Growth Boon: Deals {FIXEDPOWERPERBASESTAT}x extra damage for each point of modified attack.'
+- [specials.v2.property.casterbasestatdependentsecondaryeffect.damage.neartotarget.enemies.attack.fixed_power] 原始: 'Growth Boon: Deals {FIXEDPOWERPERBASESTAT}x extra damage for each point of modified attack.' 标准化: 'Growth Boon: Deals {FIXEDPOWERPERBASESTAT}x extra damage for each point of modified attack.'
+- [specials.v2.property.casterbasestatdependentsecondaryeffect.damage.single.enemies.attack.fixed_power] 原始: 'Growth Boon: Deals {FIXEDPOWERPERBASESTAT}x extra damage for each point of modified attack.' 标准化: 'Growth Boon: Deals {FIXEDPOWERPERBASESTAT}x extra damage for each point of modified attack.'
 
 'has a {chance}% chance for additional hits on random enemies up to {maxhits} times. additional hits deal minor damage.' 有以下变体:
 - [specials.v2.property.chainstrike.allowmaintargetinrandomtargets.minordamage.with_chance] 原始: 'Has a {CHANCE}% chance for additional hits on random enemies up to {MAXHITS} times. Additional hits deal minor damage.' 标准化: 'Has a {CHANCE}% chance for additional hits on random enemies up to {MAXHITS} times. Additional hits deal minor damage.'
@@ -2389,6 +2476,10 @@ Enemies with Minions or Mega Minions receive {STATUSEFFECT1DEFENSE}% defense for
 'wither: the target and nearby enemies get {attackincrease} attack and {defenseincrease} defense.' 有以下变体:
 - [specials.v2.property.wither.none.neartotarget.enemies] 原始: 'Wither: The target and nearby enemies get {ATTACKINCREASE} attack and {DEFENSEINCREASE} defense.' 标准化: 'Wither: The target and nearby enemies get {ATTACKINCREASE} attack and {DEFENSEINCREASE} defense.'
 - [specials.v2.property.wither.none.neartotarget.enemies.attack.defense] 原始: 'Wither: The target and nearby enemies get {ATTACKINCREASE} attack and {DEFENSEINCREASE} defense.' 标准化: 'Wither: The target and nearby enemies get {ATTACKINCREASE} attack and {DEFENSEINCREASE} defense.'
+
+'the caster goes into ambush. damage dealt by the caster is increased by {damage}%, and damage received by them is decreased by {damagereduction}%.' 有以下变体:
+- [specials.v2.statuseffect.major.ambush.single.allies.decrease.removeondamagereceived] 原始: 'The caster goes into Ambush. Damage dealt by the caster is increased by {DAMAGE}%, and damage received by them is decreased by {DAMAGEREDUCTION}%.' 标准化: 'The caster goes into Ambush. Damage dealt by the caster is increased by {DAMAGE}%, and damage received by them is decreased by {DAMAGEREDUCTION}%.'
+- [specials.v2.statuseffect.major.ambush.single.allies.decrease.removeondamagereceived.while.caster.enemies.none] 原始: 'The caster goes into Ambush. Damage dealt by the caster is increased by {DAMAGE}%, and damage received by them is decreased by {DAMAGEREDUCTION}%.' 标准化: 'The caster goes into Ambush. Damage dealt by the caster is increased by {DAMAGE}%, and damage received by them is decreased by {DAMAGEREDUCTION}%.'
 
 'the target gets {attack}% attack for {turns} turns. the effect duration resets if the target is healed. this effect can't be cleansed.' 有以下变体:
 - [specials.v2.statuseffect.major.attackmodifier.single.allies.resetonheal] 原始: 'The target gets {ATTACK}% attack for {TURNS} turns. The effect duration resets if the target is healed. This effect can't be cleansed.' 标准化: 'The target gets {ATTACK}% attack for {TURNS} turns. The effect duration resets if the target is healed. This effect can't be cleansed.'
@@ -2777,9 +2868,11 @@ The Source of Buffs will activate {MAXACTIVATIONCOUNT} times. Each attempt to di
  Magma Cubes explode in {TURNS} turns doing {DAMAGE} damage to their owner.
  If Magma Cube is cleansed, the owner gets {STATUSEFFECT1MANAREGEN}% mana generation for {REMOVALEFFECT2STATUSEFFECT1TURNS} turns.'
 
-总重复组数: 178
+总重复组数: 183
 
---- 无未匹配英文条目 ---
+--- 未匹配的英文条目 ---
+- [specials.v2.statuseffect.major.constantmanasteal.all.enemies.while.single.allies.familiaralive.cursed_sigil_parasite_costume] The caster steals {CURRENTMANASTEAL}% of generated mana from all enemies. The effect lasts as long as the target has Cursed Sigil Fiends. This effect can't be cleansed, but it gets removed if the caster is defeated.
+总数: 1
 
 --- 未使用的zh-Hant翻译 ---
 - [specials.v2.directeffect.addmana.all.enemies.increment] 使所有敵人的法力減少{MANA}%。
@@ -2795,6 +2888,7 @@ The Source of Buffs will activate {MAXACTIVATIONCOUNT} times. Each attempt to di
 - [specials.v2.minion.charge_shinobi_minion3.all] 為每個盟友召喚一個忍小兵，其可從施法者繼承{FAMILIARHEALTHPERCENT}%生命值與{FAMILIARATTACK}%攻擊。
 - [specials.v2.minion.clown_costume.all] 為每個盟友召喚一個小丑小兵，其可從施法者繼承{FAMILIARHEALTHPERCENT}%生命值與{FAMILIARATTACK}%攻擊。
 - [specials.v2.minion.dark_soldier_set_costume.all] 為所有盟友召喚一個暗黑士兵小兵，其可從施法者繼承{FAMILIARHEALTHPERCENT}%生命與{FAMILIARATTACK}%攻擊。
+- [specials.v2.minion.enchanted_sigil_minion_costume.all] 為每個盟友召喚一個魔法符咒小兵，其可從施法者繼承{FAMILIARHEALTHPERCENT}%生命與{FAMILIARATTACK}%攻擊。
 - [specials.v2.minion.forest_sprite_costume_mielikki.all] 為所有盟友召喚一個森林妖精小兵，其可從施法者繼承{FAMILIARHEALTHPERCENT}%生命值與{FAMILIARATTACK}%攻擊力。
 - [specials.v2.minion.holy_god_delilah.all] 為每個盟友召喚一個守護者小兵，其可從施法者繼承{FAMILIARHEALTHPERCENT}%生命與{FAMILIARATTACK}%攻擊。
 - [specials.v2.minion.jellyfish_minion_costume1.all] 為每個盟友召喚一個水母小兵，其可從施法者繼承{FAMILIARHEALTHPERCENT}%生命值與{FAMILIARATTACK}%攻擊。
@@ -2830,6 +2924,8 @@ The Source of Buffs will activate {MAXACTIVATIONCOUNT} times. Each attempt to di
 忍者刺客惡魔會吸收治療效果。在吸收的治療量等於目標最大生命值的{FAMILIARHEALTHPERCENT}%時消失。
 - [specials.v2.parasite.charge_ninja_fiend3.all] 對所有敵人召喚忍者刺客惡魔。惡魔每回合以{FAMILIARATTACK}%的攻擊力對目標造成傷害。
 忍者刺客惡魔會吸收治療效果。在吸收的治療量等於目標最大生命值的{FAMILIARHEALTHPERCENT}%時消失。
+- [specials.v2.parasite.cursed_sigil_parasite_costume.all] 召喚受詛咒的符咒惡魔附身所有敵人。惡魔每回合以{FAMILIARATTACK}%的攻擊力對目標造成傷害。
+受詛咒的符咒惡魔會吸收治療效果。在吸收的治療量等於目標最大生命值的{FAMILIARHEALTHPERCENT}%時消失。
 - [specials.v2.parasite.dagger_parasite_costume.singleandyellow] 對目標與神聖敵人召喚匕首惡魔。惡魔每回合以{FAMILIARATTACK}%的攻擊力對目標造成傷害。
 匕首惡魔會吸收治療效果。在吸收的治療量等於目標最大生命值的{FAMILIARHEALTHPERCENT}%時消失。
 - [specials.v2.parasite.gargoyle_parasite.explode.hasturns] 石像鬼惡魔會在{FAMILIAREFFECTFREQUENCY}個回合後爆炸，對目標造成{FAMILIARFIXEDEXPLOSIONDAMAGE}點傷害。
@@ -2869,6 +2965,9 @@ The Source of Buffs will activate {MAXACTIVATIONCOUNT} times. Each attempt to di
 - [specials.v2.parasite.worm_parasite_vollermork_costume.all] 對所有敵人召喚蠕蟲惡魔。惡魔每回合以{FAMILIARATTACK}%的攻擊力對目標造成傷害。
 蠕蟲惡魔會吸收治療效果。在吸收的治療量等於目標最大生命值的{FAMILIARHEALTHPERCENT}%時消失。
 - [specials.v2.property.addstatuseffectswithchance.bleed_zarga.single.enemies] 目標有{ADDSTATUSEFFECTCHANCE}%的機率受到持續{STATUSEFFECT1TURNS}回合的{STATUSEFFECT1DAMAGE}點流血傷害。
+- [specials.v2.property.casterbasestatdependentsecondaryeffect.damage.neartotarget.enemies.attack.fixed_power] 成長恩惠：每一點已修改的攻擊造成{FIXEDPOWERPERBASESTAT}x點額外傷害。
+- [specials.v2.property.casterbasestatdependentsecondaryeffect.damage.single.enemies.attack] 成長恩惠：每一點調整過的攻擊會造成{POWERPERBASESTAT}%額外傷害。
+- [specials.v2.property.casterbasestatdependentsecondaryeffect.damage.single.enemies.attack.fixed_power] 成長恩惠：每一點已修改的攻擊造成{FIXEDPOWERPERBASESTAT}x點額外傷害。
 - [specials.v2.property.chainstrike.allowmaintargetinrandomtargets.randommaintarget] 對{TOTALMAXHITS}名隨機敵人造成{DAMAGE}%傷害。
 - [specials.v2.property.chainstrike.minordamage.with_chance] 有{CHANCE}%的機率可額外攻擊隨機敵人，最多{MAXHITS}次。額外攻擊可造成輕微傷害。
 - [specials.v2.property.chainstrike.randommaintarget] 對{TOTALMAXHITS}名隨機敵人造成{DAMAGE}%傷害。
@@ -2978,6 +3077,7 @@ The Source of Buffs will activate {MAXACTIVATIONCOUNT} times. Each attempt to di
 此效果若由怪獸和頭目啟用，則效果較差。
 - [specials.v2.property.wither.none.neartotarget.enemies.attack.defense] 枯萎：目標和附近敵人獲得{ATTACKINCREASE}點攻擊和{DEFENSEINCREASE}點防禦。
 - [specials.v2.saturated_suffering.immuneelement.blue] 所有冰雪敵人對此攻擊免疫。
+- [specials.v2.statuseffect.major.ambush.single.allies.decrease.removeondamagereceived.while.caster.enemies.none] 施法者進入伏擊狀態。施法者造成的傷害提高{DAMAGE}%，其受到的傷害降低{DAMAGEREDUCTION}%。
 - [specials.v2.statuseffect.major.attackmodifier.single.enemies.resetonheal] 目標獲得{ATTACK}%攻擊，持續{TURNS}個回合。目標受到治療後，效果持續時間會被重設。此效果無法淨化。
 - [specials.v2.statuseffect.major.corrosivepoison.sides.enemies.managenerationmodifier.extra_minion_damage.minion.bigminion.follower.extra_minion_damage.minion.bigminion.follower] 敵方陣型邊緣的敵人會受到腐蝕劇毒，持續{TURNS}回合。腐蝕劇毒會造成{DAMAGEPERTURN}劇毒傷害，而且每個回合降低目標的法力產出{CHANGE}%。此效果無法淨化。
 - [specials.v2.statuseffect.major.counterattack.single.allies.while.single.allies.familiaralive.charge_shinobi_minion2] 召喚忍小兵之後，主人擁有忍小兵期間，忍小兵會給主人所受傷害{DEFLECTION}%的反擊能力。此效果無法驅散。
@@ -3080,7 +3180,7 @@ The Source of Buffs will activate {MAXACTIVATIONCOUNT} times. Each attempt to di
 岩漿立方會在{TURNS}個回合內爆炸，對其擁有者造成{DAMAGE}點傷害。
 若岩漿立方被淨化，則擁有者獲得{STATUSEFFECT1MANAREGEN}%法力產出，持續{REMOVALEFFECT2STATUSEFFECT1TURNS}個回合。
 - [specials.v2.statuseffect.sandcurse.single.enemies.contagious] 目標在{TURNS}個回合內受到{DAMAGE}點飛沙傷害。此效果會擴散至附近的敵人。
-总数: 231
+总数: 237
 
 
 === passive_skill (zh-Hans) 翻译分析调试信息 ===
@@ -3147,10 +3247,6 @@ This includes status effect buffs and ailments, positive and negative Stacks as 
 - [herocard.passive_skill.description.statuseffectdefensemodifier.reduction] 原始: 'Status ailments that reduce defense are {MODIFIER}% less effective against this character.' 标准化: 'Status ailments that reduce defense are {MODIFIER}% less effective against this character.'
 - [herocard.passive_skill.description.statuseffectdefensemodifiersupportcharacter.troop.reduction] 原始: 'Status ailments that reduce defense are {MODIFIER}% less effective against this character.' 标准化: 'Status ailments that reduce defense are {MODIFIER}% less effective against this character.'
 
-'every time this gargoyle casts a special skill, all allies receive softskin. the next {maxactivations} times they receive damage, it is reduced by {damagereduction}%. they are also immune to all status ailments, mana reductions and insanity. this effect can't be dispelled.' 有以下变体:
-- [herocard.passive_skill.description.statuseffectonspecialcast.major.all.allies.softskin] 原始: 'Every time this Gargoyle casts a Special Skill, all allies receive Softskin. The next {MAXACTIVATIONS} times they receive damage, it is reduced by {DAMAGEREDUCTION}%. They are also immune to all status ailments, mana reductions and Insanity. This effect can't be dispelled.' 标准化: 'Every time this Gargoyle casts a Special Skill, all allies receive Softskin. The next {MAXACTIVATIONS} times they receive damage, it is reduced by {DAMAGEREDUCTION}%. They are also immune to all status ailments, mana reductions and Insanity. This effect can't be dispelled.'
-- [herocard.passive_skill.description.statuseffectonspecialcast.major.all.allies.softskin.status_effect_to_others.softskin] 原始: 'Every time this Gargoyle casts a Special Skill, all allies receive Softskin. The next {MAXACTIVATIONS} times they receive damage, it is reduced by {DAMAGEREDUCTION}%. They are also immune to all status ailments, mana reductions and Insanity. This effect can't be dispelled.' 标准化: 'Every time this Gargoyle casts a Special Skill, all allies receive Softskin. The next {MAXACTIVATIONS} times they receive damage, it is reduced by {DAMAGEREDUCTION}%. They are also immune to all status ailments, mana reductions and Insanity. This effect can't be dispelled.'
-
 'when this character is defeated, they summon slime mega minions to nearby allies with {familiarhealthpercent}% hp and {familiarattack}% attack inherited from this character.' 有以下变体:
 - [herocard.passive_skill.description.summononownerdeath.slime_big_minion_blue.neartotargetexceptcaster.allies] 原始: 'When this character is defeated, they summon Slime Mega Minions to nearby allies with {FAMILIARHEALTHPERCENT}% HP and {FAMILIARATTACK}% attack inherited from this character.' 标准化: 'When this character is defeated, they summon Slime Mega Minions to nearby allies with {FAMILIARHEALTHPERCENT}% HP and {FAMILIARATTACK}% attack inherited from this character.'
 - [herocard.passive_skill.description.summononownerdeath.slime_big_minion_green.neartotargetexceptcaster.allies] 原始: 'When this character is defeated, they summon Slime Mega Minions to nearby allies with {FAMILIARHEALTHPERCENT}% HP and {FAMILIARATTACK}% attack inherited from this character.' 标准化: 'When this character is defeated, they summon Slime Mega Minions to nearby allies with {FAMILIARHEALTHPERCENT}% HP and {FAMILIARATTACK}% attack inherited from this character.'
@@ -3182,9 +3278,13 @@ This includes status effect buffs and ailments, positive and negative Stacks as 
 - [herocard.passive_skill.title.conditionaleffectovertime.revival.while.single.allies.hasdeadallies] 原始: 'Revive Over Time' 标准化: 'Revive Over Time'
 - [herocard.passive_skill.title.effectovertime.revival] 原始: 'Revive Over Time' 标准化: 'Revive Over Time'
 
+'beautiful inside' 有以下变体:
+- [herocard.passive_skill.title.convertincomingdamagetoheal.all.statuseffect] 原始: 'Beautiful Inside' 标准化: 'Beautiful Inside'
+- [herocard.passive_skill.title.convertincomingdamagetoheal.statuseffect] 原始: 'Beautiful Inside' 标准化: 'Beautiful Inside'
+
 'molten core' 有以下变体:
-- [herocard.passive_skill.title.corrosiveburncorechargeeffectonspecial.activates_on_ally_action.statuseffects.corrosiveburn] 原始: 'Molten Core' 标准化: 'Molten Core'
-- [herocard.passive_skill.title.corrosiveburncorechargeeffectonspecial.statuseffects.corrosiveburn] 原始: 'Molten Core' 标准化: 'Molten Core'
+- [herocard.passive_skill.title.corrosiveburncoreintrinsicchargeeffectonspecial.activates_on_ally_action.statuseffects.corrosiveburn] 原始: 'Molten Core' 标准化: 'Molten Core'
+- [herocard.passive_skill.title.corrosiveburncoreintrinsicchargeeffectonspecial.statuseffects.corrosiveburn] 原始: 'Molten Core' 标准化: 'Molten Core'
 
 'critical modifier' 有以下变体:
 - [herocard.passive_skill.title.criticalmodifier] 原始: 'Critical Modifier' 标准化: 'Critical Modifier'
@@ -3244,9 +3344,9 @@ This includes status effect buffs and ailments, positive and negative Stacks as 
 - [herocard.passive_skill.title.league_heal_modifier_against_family] 原始: 'League Disadvantage' 标准化: 'League Disadvantage'
 
 'league advantage' 有以下变体:
+- [herocard.passive_skill.title.league_featured_family_resist] 原始: 'League Advantage' 标准化: 'League Advantage'
 - [herocard.passive_skill.title.league_heal_modifier_for_family] 原始: 'League Advantage' 标准化: 'League Advantage'
 - [herocard.passive_skill.title.league_received_damage_modifier_against_non_featured_family] 原始: 'League Advantage' 标准化: 'League Advantage'
-- [herocard.passive_skill.title.league_resist_debuffs_manareduction_dispels] 原始: 'League Advantage' 标准化: 'League Advantage'
 
 'dread' 有以下变体:
 - [herocard.passive_skill.title.mimic_dread_damage_minions] 原始: 'Dread' 标准化: 'Dread'
@@ -3325,7 +3425,11 @@ This includes status effect buffs and ailments, positive and negative Stacks as 
 - [herocard.passive_skill.title.titan_resist_16] 原始: 'Titan' 标准化: 'Titan'
 - [herocard.passive_skill.title.titan_resist_17] 原始: 'Titan' 标准化: 'Titan'
 
-总重复组数: 50
+'transform buffs' 有以下变体:
+- [herocard.passive_skill.title.transformstatuseffectonspecialcast.minorbuff.enemies.all.transform_attackmodifier_into_attackmodifier.transform_defensemodifier_into_defensemodifier.transform_managenerationmodifier_into_defensemodifier] 原始: 'Transform Buffs' 标准化: 'Transform Buffs'
+- [herocard.passive_skill.title.transformstatuseffectonspecialcast.minorbuff.enemies.all.transform_attackmodifier_into_attackmodifier.transform_defensemodifier_into_defensemodifier.transform_managenerationmodifier_into_managenerationmodifier] 原始: 'Transform Buffs' 标准化: 'Transform Buffs'
+
+总重复组数: 51
 
 --- 无未匹配英文条目 ---
 
@@ -3346,7 +3450,6 @@ This includes status effect buffs and ailments, positive and negative Stacks as 
 - [herocard.passive_skill.description.statuseffectattackmodifiersupportcharacter.troop.reduction] 此角色受到降低攻击力的状态异常时，该状态异常将被削弱{MODIFIER}%。
 - [herocard.passive_skill.description.statuseffectdefensemodifiersupportcharacter.troop.addition] 此角色获得提高防御的状态效果时，该状态效果将被增强{MODIFIER}%。
 - [herocard.passive_skill.description.statuseffectdefensemodifiersupportcharacter.troop.reduction] 此角色受到降低防御的状态异常时，该状态异常将被削弱{MODIFIER}%。
-- [herocard.passive_skill.description.statuseffectonspecialcast.major.all.allies.softskin.status_effect_to_others.softskin] 每当此石像鬼施放特殊技能时，所有盟友将获得软化皮肤效果。接下来对他们造成的{MAXACTIVATIONS}次伤害降低{DAMAGEREDUCTION}%，同时免疫所有状态异常、法力减损和狂乱。此效果无法驱散。
 - [herocard.passive_skill.description.summononownerdeath.slime_big_minion_green.neartotargetexceptcaster.allies] 该角色被击败后，会为附近盟友召唤史莱姆超级小兵，此超级小兵继承该角色的{FAMILIARHEALTHPERCENT}%生命值和{FAMILIARATTACK}%攻击力。
 - [herocard.passive_skill.description.summononownerdeath.slime_big_minion_purple.neartotargetexceptcaster.allies] 该角色被击败后，会为附近盟友召唤史莱姆超级小兵，此超级小兵继承该角色的{FAMILIARHEALTHPERCENT}%生命值和{FAMILIARATTACK}%攻击力。
 - [herocard.passive_skill.description.summononownerdeath.slime_big_minion_red.neartotargetexceptcaster.allies] 该角色被击败后，会为附近盟友召唤史莱姆超级小兵，此超级小兵继承该角色的{FAMILIARHEALTHPERCENT}%生命值和{FAMILIARATTACK}%攻击力。
@@ -3355,7 +3458,9 @@ This includes status effect buffs and ailments, positive and negative Stacks as 
 - [herocard.passive_skill.description.summononreceiveddamagewiththreshold.slime_big_minion_purple] 如果此角色一次性失去最大生命值的{DAMAGETHRESHOLD}%，会为自己召唤一个史莱姆超级小兵，该超级小兵继承其{FAMILIARHEALTHPERCENT}%生命值和{FAMILIARATTACK}%攻击力。
 - [herocard.passive_skill.description.summononreceiveddamagewiththreshold.slime_big_minion_red] 如果此角色一次性失去最大生命值的{DAMAGETHRESHOLD}%，会为自己召唤一个史莱姆超级小兵，该超级小兵继承其{FAMILIARHEALTHPERCENT}%生命值和{FAMILIARATTACK}%攻击力。
 - [herocard.passive_skill.description.summononreceiveddamagewiththreshold.slime_big_minion_yellow] 如果此角色一次性失去最大生命值的{DAMAGETHRESHOLD}%，会为自己召唤一个史莱姆超级小兵，该超级小兵继承其{FAMILIARHEALTHPERCENT}%生命值和{FAMILIARATTACK}%攻击力。
-- [herocard.passive_skill.title.corrosiveburncorechargeeffectonspecial.statuseffects.corrosiveburn] 熔岩核心
+- [herocard.passive_skill.description.transformstatuseffectonspecialcast.minorbuff.enemies.all.transform_attackmodifier_into_attackmodifier.transform_defensemodifier_into_defensemodifier.transform_managenerationmodifier_into_defensemodifier] 每当该角色施放特殊技能时，影响所有敌人攻击、防御和法力生成的所有增益将转换为对应的不可净化状态异常。
+- [herocard.passive_skill.title.convertincomingdamagetoheal.statuseffect] 内在美
+- [herocard.passive_skill.title.corrosiveburncoreintrinsicchargeeffectonspecial.statuseffects.corrosiveburn] 熔岩核心
 - [herocard.passive_skill.title.criticalmodifiersupportcharacter.troop] 暴击修正
 - [herocard.passive_skill.title.debuffdamagereductionsupportcharacter.troop] 状态异常造成的伤害减少
 - [herocard.passive_skill.title.effectondamagereceived.none.specialskill.exclude.statuseffect.stacking_attack_on_damage_received_passive_pve] 受到伤害时获得攻击力叠加
@@ -3376,8 +3481,8 @@ This includes status effect buffs and ailments, positive and negative Stacks as 
 - [herocard.passive_skill.title.increasespecialdamage.usable_once] 特殊技能伤害提升
 - [herocard.passive_skill.title.increasespecialdamagesupportcharacter.troop] 特殊技能伤害提升
 - [herocard.passive_skill.title.league_heal_modifier_against_family] 锦标赛劣势
+- [herocard.passive_skill.title.league_heal_modifier_for_family] 锦标赛优势
 - [herocard.passive_skill.title.league_received_damage_modifier_against_non_featured_family] 锦标赛优势
-- [herocard.passive_skill.title.league_resist_debuffs_manareduction_dispels] 锦标赛优势
 - [herocard.passive_skill.title.receivedstrongelementsupportcharacterdamage] 队伍大师
 - [herocard.passive_skill.title.remove_wither_from_allies] 守卫集结
 - [herocard.passive_skill.title.resist.defensemodifiers.alldebuffs] 抵抗防御异常
@@ -3410,7 +3515,8 @@ This includes status effect buffs and ailments, positive and negative Stacks as 
 - [herocard.passive_skill.title.titan_dread_damage_minions_17] 恐惧
 - [herocard.passive_skill.title.titan_resist_16] 泰坦
 - [herocard.passive_skill.title.titan_resist_17] 泰坦
-总数: 78
+- [herocard.passive_skill.title.transformstatuseffectonspecialcast.minorbuff.enemies.all.transform_attackmodifier_into_attackmodifier.transform_defensemodifier_into_defensemodifier.transform_managenerationmodifier_into_managenerationmodifier] 转换增益
+总数: 80
 
 
 === passive_skill (zh-Hant) 翻译分析调试信息 ===
@@ -3477,10 +3583,6 @@ This includes status effect buffs and ailments, positive and negative Stacks as 
 - [herocard.passive_skill.description.statuseffectdefensemodifier.reduction] 原始: 'Status ailments that reduce defense are {MODIFIER}% less effective against this character.' 标准化: 'Status ailments that reduce defense are {MODIFIER}% less effective against this character.'
 - [herocard.passive_skill.description.statuseffectdefensemodifiersupportcharacter.troop.reduction] 原始: 'Status ailments that reduce defense are {MODIFIER}% less effective against this character.' 标准化: 'Status ailments that reduce defense are {MODIFIER}% less effective against this character.'
 
-'every time this gargoyle casts a special skill, all allies receive softskin. the next {maxactivations} times they receive damage, it is reduced by {damagereduction}%. they are also immune to all status ailments, mana reductions and insanity. this effect can't be dispelled.' 有以下变体:
-- [herocard.passive_skill.description.statuseffectonspecialcast.major.all.allies.softskin] 原始: 'Every time this Gargoyle casts a Special Skill, all allies receive Softskin. The next {MAXACTIVATIONS} times they receive damage, it is reduced by {DAMAGEREDUCTION}%. They are also immune to all status ailments, mana reductions and Insanity. This effect can't be dispelled.' 标准化: 'Every time this Gargoyle casts a Special Skill, all allies receive Softskin. The next {MAXACTIVATIONS} times they receive damage, it is reduced by {DAMAGEREDUCTION}%. They are also immune to all status ailments, mana reductions and Insanity. This effect can't be dispelled.'
-- [herocard.passive_skill.description.statuseffectonspecialcast.major.all.allies.softskin.status_effect_to_others.softskin] 原始: 'Every time this Gargoyle casts a Special Skill, all allies receive Softskin. The next {MAXACTIVATIONS} times they receive damage, it is reduced by {DAMAGEREDUCTION}%. They are also immune to all status ailments, mana reductions and Insanity. This effect can't be dispelled.' 标准化: 'Every time this Gargoyle casts a Special Skill, all allies receive Softskin. The next {MAXACTIVATIONS} times they receive damage, it is reduced by {DAMAGEREDUCTION}%. They are also immune to all status ailments, mana reductions and Insanity. This effect can't be dispelled.'
-
 'when this character is defeated, they summon slime mega minions to nearby allies with {familiarhealthpercent}% hp and {familiarattack}% attack inherited from this character.' 有以下变体:
 - [herocard.passive_skill.description.summononownerdeath.slime_big_minion_blue.neartotargetexceptcaster.allies] 原始: 'When this character is defeated, they summon Slime Mega Minions to nearby allies with {FAMILIARHEALTHPERCENT}% HP and {FAMILIARATTACK}% attack inherited from this character.' 标准化: 'When this character is defeated, they summon Slime Mega Minions to nearby allies with {FAMILIARHEALTHPERCENT}% HP and {FAMILIARATTACK}% attack inherited from this character.'
 - [herocard.passive_skill.description.summononownerdeath.slime_big_minion_green.neartotargetexceptcaster.allies] 原始: 'When this character is defeated, they summon Slime Mega Minions to nearby allies with {FAMILIARHEALTHPERCENT}% HP and {FAMILIARATTACK}% attack inherited from this character.' 标准化: 'When this character is defeated, they summon Slime Mega Minions to nearby allies with {FAMILIARHEALTHPERCENT}% HP and {FAMILIARATTACK}% attack inherited from this character.'
@@ -3512,9 +3614,13 @@ This includes status effect buffs and ailments, positive and negative Stacks as 
 - [herocard.passive_skill.title.conditionaleffectovertime.revival.while.single.allies.hasdeadallies] 原始: 'Revive Over Time' 标准化: 'Revive Over Time'
 - [herocard.passive_skill.title.effectovertime.revival] 原始: 'Revive Over Time' 标准化: 'Revive Over Time'
 
+'beautiful inside' 有以下变体:
+- [herocard.passive_skill.title.convertincomingdamagetoheal.all.statuseffect] 原始: 'Beautiful Inside' 标准化: 'Beautiful Inside'
+- [herocard.passive_skill.title.convertincomingdamagetoheal.statuseffect] 原始: 'Beautiful Inside' 标准化: 'Beautiful Inside'
+
 'molten core' 有以下变体:
-- [herocard.passive_skill.title.corrosiveburncorechargeeffectonspecial.activates_on_ally_action.statuseffects.corrosiveburn] 原始: 'Molten Core' 标准化: 'Molten Core'
-- [herocard.passive_skill.title.corrosiveburncorechargeeffectonspecial.statuseffects.corrosiveburn] 原始: 'Molten Core' 标准化: 'Molten Core'
+- [herocard.passive_skill.title.corrosiveburncoreintrinsicchargeeffectonspecial.activates_on_ally_action.statuseffects.corrosiveburn] 原始: 'Molten Core' 标准化: 'Molten Core'
+- [herocard.passive_skill.title.corrosiveburncoreintrinsicchargeeffectonspecial.statuseffects.corrosiveburn] 原始: 'Molten Core' 标准化: 'Molten Core'
 
 'critical modifier' 有以下变体:
 - [herocard.passive_skill.title.criticalmodifier] 原始: 'Critical Modifier' 标准化: 'Critical Modifier'
@@ -3574,9 +3680,9 @@ This includes status effect buffs and ailments, positive and negative Stacks as 
 - [herocard.passive_skill.title.league_heal_modifier_against_family] 原始: 'League Disadvantage' 标准化: 'League Disadvantage'
 
 'league advantage' 有以下变体:
+- [herocard.passive_skill.title.league_featured_family_resist] 原始: 'League Advantage' 标准化: 'League Advantage'
 - [herocard.passive_skill.title.league_heal_modifier_for_family] 原始: 'League Advantage' 标准化: 'League Advantage'
 - [herocard.passive_skill.title.league_received_damage_modifier_against_non_featured_family] 原始: 'League Advantage' 标准化: 'League Advantage'
-- [herocard.passive_skill.title.league_resist_debuffs_manareduction_dispels] 原始: 'League Advantage' 标准化: 'League Advantage'
 
 'dread' 有以下变体:
 - [herocard.passive_skill.title.mimic_dread_damage_minions] 原始: 'Dread' 标准化: 'Dread'
@@ -3655,7 +3761,11 @@ This includes status effect buffs and ailments, positive and negative Stacks as 
 - [herocard.passive_skill.title.titan_resist_16] 原始: 'Titan' 标准化: 'Titan'
 - [herocard.passive_skill.title.titan_resist_17] 原始: 'Titan' 标准化: 'Titan'
 
-总重复组数: 50
+'transform buffs' 有以下变体:
+- [herocard.passive_skill.title.transformstatuseffectonspecialcast.minorbuff.enemies.all.transform_attackmodifier_into_attackmodifier.transform_defensemodifier_into_defensemodifier.transform_managenerationmodifier_into_defensemodifier] 原始: 'Transform Buffs' 标准化: 'Transform Buffs'
+- [herocard.passive_skill.title.transformstatuseffectonspecialcast.minorbuff.enemies.all.transform_attackmodifier_into_attackmodifier.transform_defensemodifier_into_defensemodifier.transform_managenerationmodifier_into_managenerationmodifier] 原始: 'Transform Buffs' 标准化: 'Transform Buffs'
+
+总重复组数: 51
 
 --- 无未匹配英文条目 ---
 
@@ -3676,7 +3786,6 @@ This includes status effect buffs and ailments, positive and negative Stacks as 
 - [herocard.passive_skill.description.statuseffectattackmodifiersupportcharacter.troop.reduction] 降低攻擊力的狀態異常，對此角色的效果降低{MODIFIER}%。
 - [herocard.passive_skill.description.statuseffectdefensemodifiersupportcharacter.troop.addition] 提升防禦的狀態效果，對此角色的效果提升{MODIFIER}%。
 - [herocard.passive_skill.description.statuseffectdefensemodifiersupportcharacter.troop.reduction] 降低防禦的狀態異常，對此角色的效果降低{MODIFIER}%。
-- [herocard.passive_skill.description.statuseffectonspecialcast.major.all.allies.softskin.status_effect_to_others.softskin] 每次此石像鬼施放特殊技能時，所有盟友獲得柔軟膚。它們受之後{MAXACTIVATIONS}次的傷害，其傷害減少{DAMAGEREDUCTION}%且也對所有狀態異常、法力減損與瘋狂免疫。此效果無法驅散。
 - [herocard.passive_skill.description.summononownerdeath.slime_big_minion_green.neartotargetexceptcaster.allies] 當此角色被擊敗時，會召喚史萊姆超級小兵給附近盟友，這些小兵繼承此角色的{FAMILIARHEALTHPERCENT}%生命值和{FAMILIARATTACK}%攻擊力。
 - [herocard.passive_skill.description.summononownerdeath.slime_big_minion_purple.neartotargetexceptcaster.allies] 當此角色被擊敗時，會召喚史萊姆超級小兵給附近盟友，這些小兵繼承此角色的{FAMILIARHEALTHPERCENT}%生命值和{FAMILIARATTACK}%攻擊力。
 - [herocard.passive_skill.description.summononownerdeath.slime_big_minion_red.neartotargetexceptcaster.allies] 當此角色被擊敗時，會召喚史萊姆超級小兵給附近盟友，這些小兵繼承此角色的{FAMILIARHEALTHPERCENT}%生命值和{FAMILIARATTACK}%攻擊力。
@@ -3685,7 +3794,9 @@ This includes status effect buffs and ailments, positive and negative Stacks as 
 - [herocard.passive_skill.description.summononreceiveddamagewiththreshold.slime_big_minion_purple] 當此角色一次失去超過{DAMAGETHRESHOLD}%的最大生命值時，會為自身召喚史萊姆超級小兵，小兵具有{FAMILIARHEALTHPERCENT}%生命值和{FAMILIARATTACK}%攻擊力。
 - [herocard.passive_skill.description.summononreceiveddamagewiththreshold.slime_big_minion_red] 當此角色一次失去超過{DAMAGETHRESHOLD}%的最大生命值時，會為自身召喚史萊姆超級小兵，小兵具有{FAMILIARHEALTHPERCENT}%生命值和{FAMILIARATTACK}%攻擊力。
 - [herocard.passive_skill.description.summononreceiveddamagewiththreshold.slime_big_minion_yellow] 當此角色一次失去超過{DAMAGETHRESHOLD}%的最大生命值時，會為自身召喚史萊姆超級小兵，小兵具有{FAMILIARHEALTHPERCENT}%生命值和{FAMILIARATTACK}%攻擊力。
-- [herocard.passive_skill.title.corrosiveburncorechargeeffectonspecial.statuseffects.corrosiveburn] 熔融核心
+- [herocard.passive_skill.description.transformstatuseffectonspecialcast.minorbuff.enemies.all.transform_attackmodifier_into_attackmodifier.transform_defensemodifier_into_defensemodifier.transform_managenerationmodifier_into_defensemodifier] 每當該角色施放特殊技能時，所有會影響敵人攻擊、防禦與法力產出的增益，皆會轉化為對應的無法驅散異常。
+- [herocard.passive_skill.title.convertincomingdamagetoheal.statuseffect] 內在之美
+- [herocard.passive_skill.title.corrosiveburncoreintrinsicchargeeffectonspecial.statuseffects.corrosiveburn] 熔融核心
 - [herocard.passive_skill.title.criticalmodifiersupportcharacter.troop] 暴擊修正
 - [herocard.passive_skill.title.debuffdamagereductionsupportcharacter.troop] 狀態異常造成的傷害減少
 - [herocard.passive_skill.title.effectondamagereceived.none.specialskill.exclude.statuseffect.stacking_attack_on_damage_received_passive_pve] 受到傷害時疊加攻擊
@@ -3706,8 +3817,8 @@ This includes status effect buffs and ailments, positive and negative Stacks as 
 - [herocard.passive_skill.title.increasespecialdamage.usable_once] 已增加特殊技能傷害
 - [herocard.passive_skill.title.increasespecialdamagesupportcharacter.troop] 已增加特殊技能傷害
 - [herocard.passive_skill.title.league_heal_modifier_against_family] 聯盟劣勢
+- [herocard.passive_skill.title.league_heal_modifier_for_family] 聯盟優勢
 - [herocard.passive_skill.title.league_received_damage_modifier_against_non_featured_family] 聯盟優勢
-- [herocard.passive_skill.title.league_resist_debuffs_manareduction_dispels] 聯盟優勢
 - [herocard.passive_skill.title.receivedstrongelementsupportcharacterdamage] 部隊精通
 - [herocard.passive_skill.title.remove_wither_from_allies] 守衛集結
 - [herocard.passive_skill.title.resist.defensemodifiers.alldebuffs] 抵禦防禦異常
@@ -3740,7 +3851,8 @@ This includes status effect buffs and ailments, positive and negative Stacks as 
 - [herocard.passive_skill.title.titan_dread_damage_minions_17] 恐懼
 - [herocard.passive_skill.title.titan_resist_16] 泰坦
 - [herocard.passive_skill.title.titan_resist_17] 泰坦
-总数: 78
+- [herocard.passive_skill.title.transformstatuseffectonspecialcast.minorbuff.enemies.all.transform_attackmodifier_into_attackmodifier.transform_defensemodifier_into_defensemodifier.transform_managenerationmodifier_into_managenerationmodifier] 轉化增益
+总数: 80
 
 
 === skill_name (zh-Hans) 翻译分析调试信息 ===
@@ -3866,13 +3978,30 @@ This includes status effect buffs and ailments, positive and negative Stacks as 
 - [specials.name.divine_protection] 原始: 'Divine Protection' 标准化: 'Divine Protection'
 - [specials.name.divine_protection_deadly] 原始: 'Divine Protection' 标准化: 'Divine Protection'
 
+'blinding blaze' 有以下变体:
+- [specials.name.dragon_blinding_blaze] 原始: 'Blinding Blaze' 标准化: 'Blinding Blaze'
+- [specials.name.dragon_blinding_blaze_duskwing] 原始: 'Blinding Blaze' 标准化: 'Blinding Blaze'
+- [specials.name.dragon_blinding_blaze_wildheart] 原始: 'Blinding Blaze' 标准化: 'Blinding Blaze'
+
+'rallying breath' 有以下变体:
+- [specials.name.dragon_rallying_breath] 原始: 'Rallying Breath' 标准化: 'Rallying Breath'
+- [specials.name.dragon_rallying_breath_trezoro] 原始: 'Rallying Breath' 标准化: 'Rallying Breath'
+
 'sacred flame' 有以下变体:
 - [specials.name.dragon_sacred_flame] 原始: 'Sacred Flame' 标准化: 'Sacred Flame'
 - [specials.name.dragon_sacred_flame_harmonis] 原始: 'Sacred Flame' 标准化: 'Sacred Flame'
 
+'spring breath' 有以下变体:
+- [specials.name.dragon_spring_breath] 原始: 'Spring Breath' 标准化: 'Spring Breath'
+- [specials.name.dragon_spring_breath_erudius] 原始: 'Spring Breath' 标准化: 'Spring Breath'
+
 'weakening blaze' 有以下变体:
 - [specials.name.dragon_weakening_blaze] 原始: 'Weakening Blaze' 标准化: 'Weakening Blaze'
 - [specials.name.dragon_weakening_blaze_ashenheart] 原始: 'Weakening Blaze' 标准化: 'Weakening Blaze'
+
+'wounding blaze' 有以下变体:
+- [specials.name.dragon_wounding_blaze] 原始: 'Wounding Blaze' 标准化: 'Wounding Blaze'
+- [specials.name.dragon_wounding_blaze_ceestraze] 原始: 'Wounding Blaze' 标准化: 'Wounding Blaze'
 
 'elemental infusion arrow' 有以下变体:
 - [specials.name.elemental_infusion_arrow] 原始: 'Elemental Infusion Arrow' 标准化: 'Elemental Infusion Arrow'
@@ -4262,7 +4391,7 @@ This includes status effect buffs and ailments, positive and negative Stacks as 
 - [specials.name.wall_of_ki] 原始: 'Wall of Ki' 标准化: 'Wall of Ki'
 - [specials.name.wall_of_ki2] 原始: 'Wall of Ki' 标准化: 'Wall of Ki'
 
-总重复组数: 122
+总重复组数: 126
 
 --- 无未匹配英文条目 ---
 
@@ -4294,8 +4423,13 @@ This includes status effect buffs and ailments, positive and negative Stacks as 
 - [specials.name.divine_protection_deadly] 天使之护
 - [specials.name.doomstrike] 毁灭一击
 - [specials.name.dragon_blazing_inferno] 炽焰炼狱
+- [specials.name.dragon_blinding_blaze_duskwing] 致盲烈焰
+- [specials.name.dragon_blinding_blaze_wildheart] 致盲烈焰
+- [specials.name.dragon_rallying_breath_trezoro] 集结之息
 - [specials.name.dragon_sacred_flame_harmonis] 神圣火焰
+- [specials.name.dragon_spring_breath_erudius] 春日吐息
 - [specials.name.dragon_weakening_blaze_ashenheart] 虚弱之焰
+- [specials.name.dragon_wounding_blaze_ceestraze] 创伤之焰
 - [specials.name.elemental_infusion_arrow_pve] 元素灌注之箭
 - [specials.name.empowering_bash_deadly] 赋权狂击
 - [specials.name.exquisite_victuals_pve_advanced] 珍馐盛宴
@@ -4416,7 +4550,7 @@ This includes status effect buffs and ailments, positive and negative Stacks as 
 - [specials.name.vengeful_scythe] 复仇镰刀
 - [specials.name.viziers_curse] 飞沙狂风
 - [specials.name.wall_of_ki2] 气之墙
-总数: 149
+总数: 154
 
 
 === skill_name (zh-Hant) 翻译分析调试信息 ===
@@ -4542,13 +4676,30 @@ This includes status effect buffs and ailments, positive and negative Stacks as 
 - [specials.name.divine_protection] 原始: 'Divine Protection' 标准化: 'Divine Protection'
 - [specials.name.divine_protection_deadly] 原始: 'Divine Protection' 标准化: 'Divine Protection'
 
+'blinding blaze' 有以下变体:
+- [specials.name.dragon_blinding_blaze] 原始: 'Blinding Blaze' 标准化: 'Blinding Blaze'
+- [specials.name.dragon_blinding_blaze_duskwing] 原始: 'Blinding Blaze' 标准化: 'Blinding Blaze'
+- [specials.name.dragon_blinding_blaze_wildheart] 原始: 'Blinding Blaze' 标准化: 'Blinding Blaze'
+
+'rallying breath' 有以下变体:
+- [specials.name.dragon_rallying_breath] 原始: 'Rallying Breath' 标准化: 'Rallying Breath'
+- [specials.name.dragon_rallying_breath_trezoro] 原始: 'Rallying Breath' 标准化: 'Rallying Breath'
+
 'sacred flame' 有以下变体:
 - [specials.name.dragon_sacred_flame] 原始: 'Sacred Flame' 标准化: 'Sacred Flame'
 - [specials.name.dragon_sacred_flame_harmonis] 原始: 'Sacred Flame' 标准化: 'Sacred Flame'
 
+'spring breath' 有以下变体:
+- [specials.name.dragon_spring_breath] 原始: 'Spring Breath' 标准化: 'Spring Breath'
+- [specials.name.dragon_spring_breath_erudius] 原始: 'Spring Breath' 标准化: 'Spring Breath'
+
 'weakening blaze' 有以下变体:
 - [specials.name.dragon_weakening_blaze] 原始: 'Weakening Blaze' 标准化: 'Weakening Blaze'
 - [specials.name.dragon_weakening_blaze_ashenheart] 原始: 'Weakening Blaze' 标准化: 'Weakening Blaze'
+
+'wounding blaze' 有以下变体:
+- [specials.name.dragon_wounding_blaze] 原始: 'Wounding Blaze' 标准化: 'Wounding Blaze'
+- [specials.name.dragon_wounding_blaze_ceestraze] 原始: 'Wounding Blaze' 标准化: 'Wounding Blaze'
 
 'elemental infusion arrow' 有以下变体:
 - [specials.name.elemental_infusion_arrow] 原始: 'Elemental Infusion Arrow' 标准化: 'Elemental Infusion Arrow'
@@ -4938,7 +5089,7 @@ This includes status effect buffs and ailments, positive and negative Stacks as 
 - [specials.name.wall_of_ki] 原始: 'Wall of Ki' 标准化: 'Wall of Ki'
 - [specials.name.wall_of_ki2] 原始: 'Wall of Ki' 标准化: 'Wall of Ki'
 
-总重复组数: 122
+总重复组数: 126
 
 --- 无未匹配英文条目 ---
 
@@ -4970,8 +5121,13 @@ This includes status effect buffs and ailments, positive and negative Stacks as 
 - [specials.name.divine_protection_deadly] 神聖守護
 - [specials.name.doomstrike] 冰霜之刺
 - [specials.name.dragon_blazing_inferno] 熾焰煉獄
+- [specials.name.dragon_blinding_blaze_duskwing] 致盲熾焰
+- [specials.name.dragon_blinding_blaze_wildheart] 致盲熾焰
+- [specials.name.dragon_rallying_breath_trezoro] 集結之息
 - [specials.name.dragon_sacred_flame_harmonis] 神聖火焰
+- [specials.name.dragon_spring_breath_erudius] 春之吐息
 - [specials.name.dragon_weakening_blaze_ashenheart] 弱化熾焰
+- [specials.name.dragon_wounding_blaze_ceestraze] 傷人熾焰
 - [specials.name.elemental_infusion_arrow_pve] 元素注入箭
 - [specials.name.empowering_bash_deadly] 賦能猛擊
 - [specials.name.exquisite_victuals_pve_advanced] 精緻飲食
@@ -5092,7 +5248,7 @@ This includes status effect buffs and ailments, positive and negative Stacks as 
 - [specials.name.vengeful_scythe] 復仇鐮刀
 - [specials.name.viziers_curse] 飛沙狂風
 - [specials.name.wall_of_ki2] 氣之牆
-总数: 149
+总数: 154
 
 
 === aether_power (zh-Hans) 翻译分析调试信息 ===

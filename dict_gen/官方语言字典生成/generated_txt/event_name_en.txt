@@ -1,6 +1,6 @@
 "event.name.alliancequestcastle","Clash of Knights"
 "event.name.alliancequestmoths","Night of the Moth"
-"event.name.alliancequestmusketeers","Brave Musketeers"
+"event.name.alliancequestmusketeers","The Brave & The Beautiful"
 "event.name.chess","Chess Event"
 "event.name.covenantquest1","Covenant Quest"
 "event.name.covenantquest2","Covenant Quest"

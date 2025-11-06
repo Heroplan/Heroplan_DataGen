@@ -1,6 +1,6 @@
 "event.name.alliancequestcastle","騎士衝突"
 "event.name.alliancequestmoths","飛蛾之夜"
-"event.name.alliancequestmusketeers","英勇火槍手"
+"event.name.alliancequestmusketeers","勇者與美人"
 "event.name.chess","西洋棋活動"
 "event.name.covenantquest1","聖約任務"
 "event.name.covenantquest2","聖約任務"

@@ -42,5 +42,181 @@
         "costume_id": 0,
         "heroId": "forsaken_kadath",
         "Lottery_Only":1
+    },
+    {
+        "name": "Ustad Anand",
+        "fancy_name": "Royal Performer",
+        "color": "Yellow",
+        "Release date": "",
+        "star": 5,
+        "family": "mahayoddha",
+        "costume_id": 0,
+        "heroId": "mahayoddha_ustad_anand",
+        "Lottery_Only":1
+    },
+    {
+        "name": "Bonga",
+        "fancy_name": "Basket Maker",
+        "color": "Green",
+        "Release date": "",
+        "star": 5,
+        "family": "mahayoddha",
+        "costume_id": 0,
+        "heroId": "mahayoddha_bonga",
+        "Lottery_Only":1
+    },
+    {
+        "name": "Rafeeq",
+        "fancy_name": "Shrewd Politician",
+        "color": "Blue",
+        "Release date": "",
+        "star": 4,
+        "family": "mahayoddha",
+        "costume_id": 0,
+        "heroId": "mahayoddha_rafeeq",
+        "Lottery_Only":1
+    },
+    {
+        "name": "Ali",
+        "fancy_name": "Gifted Errand Boy",
+        "color": "Green",
+        "Release date": "",
+        "star": 3,
+        "family": "mahayoddha",
+        "costume_id": 0,
+        "heroId": "mahayoddha_ali",
+        "Lottery_Only":1
+    },
+    {
+        "name": "Aramis C",
+        "fancy_name": "Boulanger Musketeer",
+        "color": "Purple",
+        "Release date": "",
+        "star": 5,
+        "family": "musketeer",
+        "costume_id": 1,
+        "heroId": "musketeer_aramis_costume_boulanger",
+        "Lottery_Only":1
+    },
+    {
+        "name": "Villiers C",
+        "fancy_name": "Pompous Jester",
+        "color": "Green",
+        "Release date": "",
+        "star": 5,
+        "family": "musketeer",
+        "costume_id": 1,
+        "heroId": "musketeer_villiers_costume_jester",
+        "Lottery_Only":1
+    },
+    {
+        "name": "Felton C",
+        "fancy_name": "Callous Pirate",
+        "color": "Yellow",
+        "Release date": "",
+        "star": 5,
+        "family": "musketeer",
+        "costume_id": 1,
+        "heroId": "musketeer_villiers_costume_jester",
+        "Lottery_Only":1
+    },
+    {
+        "name": "Halwinter",
+        "fancy_name": "Heavily Armored Construct",
+        "color": "Blue",
+        "Release date": "",
+        "star": 5,
+        "family": "construct",
+        "costume_id": 0,
+        "heroId": "construct_halwinter",
+        "Lottery_Only":1
+    },
+    {
+        "name": "The Beast",
+        "fancy_name": "Lonely Prince of the Bewitched Castle",
+        "color": "Purple",
+        "Release date": "",
+        "star": 5,
+        "family": "beauty_beast",
+        "costume_id": 0,
+        "heroId": "beauty_beast_the_beast",
+        "Lottery_Only":1
+    },
+    {
+        "name": "Rose de Flo",
+        "fancy_name": "Bloom of the Bewitched Castle",
+        "color": "Red",
+        "Release date": "",
+        "star": 5,
+        "family": "beauty_beast",
+        "costume_id": 0,
+        "heroId": "beauty_beast_rose_de_flo",
+        "Lottery_Only":1
+    },
+    {
+        "name": "Chandel",
+        "fancy_name": "Illuminator of the Bewitched Castle",
+        "color": "Yellow",
+        "Release date": "",
+        "star": 4,
+        "family": "beauty_beast",
+        "costume_id": 0,
+        "heroId": "beauty_beast_chandel",
+        "Lottery_Only":1
+    },
+    {
+        "name": "Lucas",
+        "fancy_name": "Dominique's Younger Brother",
+        "color": "Green",
+        "Release date": "",
+        "star": 3,
+        "family": "beauty_beast",
+        "costume_id": 0,
+        "heroId": "beauty_beast_lucas",
+        "Lottery_Only":1
+    },
+    {
+        "name": "Duval",
+        "fancy_name": "The Deceitful Marksman",
+        "color": "Purple",
+        "Release date": "",
+        "star": 5,
+        "family": "shady_scoundrels",
+        "costume_id": 0,
+        "heroId": "scoundrel_duval",
+        "Lottery_Only":1
+    },
+    {
+        "name": "Lane",
+        "fancy_name": "The Road Bandit",
+        "color": "Blue",
+        "Release date": "",
+        "star": 5,
+        "family": "shady_scoundrels",
+        "costume_id": 0,
+        "heroId": "scoundrel_lane",
+        "Lottery_Only":1
+    },
+    {
+        "name": "Noel",
+        "fancy_name": "Joyful Sledge Kid",
+        "color": "Purple",
+        "Release date": "",
+        "star": 5,
+        "family": "winter",
+        "costume_id": 0,
+        "heroId": "christmas_noel",
+        "Lottery_Only":1
+    },
+    {
+        "name": "Florencia",
+        "fancy_name": "Snow Warden",
+        "color": "Yellow",
+        "Release date": "",
+        "star": 5,
+        "family": "winter",
+        "costume_id": 0,
+        "heroId": "christmas_florencia",
+        "Lottery_Only":1
     }
 ]

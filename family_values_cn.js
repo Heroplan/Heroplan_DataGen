@@ -79,7 +79,10 @@ window.family_values = {
     "mimic": "拟态兽",
     "outlaw": "三国 - 梁山好汉",
     "mahayoddha":"马哈尤达",
-    "vegetable":"英勇植物",
+    "vegetable": "英勇植物",
+    "beauty_beast": "美女与野兽",
+    "shady_scoundrels": "暗影无赖",
+    
     "hotm2017": "月英 - 2017",
     "hotm2018": "月英 - 2018",
     "hotm2019": "月英 - 2019",

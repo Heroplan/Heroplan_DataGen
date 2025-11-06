@@ -690,6 +690,8 @@ def generate_js_data_with_translation(heroes_base_dir, output_path_cn, output_pa
             elif hero_family in ['mystery']: source_to_translate = 'tavernoflegendssecret'
             elif hero_family in ['knight', 'pirate', 'fable', 'guardian', 'wonderland']: source_to_translate = 'challengefestival1'
             elif hero_family in ['villains', 'circus', 'slayers', 'bard', 'mighty_pet']: source_to_translate = 'challengefestival2'
+            elif hero_family in ['shady_scoundrels']: source_to_translate = 'blackfriday'
+            elif hero_family in ['mahayoddha']: source_to_translate = 'temple'
 
             # --- 修改: 检测到缺失时，保存名字、颜色和星级 ---
             if not extra: 

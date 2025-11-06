@@ -73298,6 +73298,38 @@
           {
             "id": "dragon_s1_province_19",
             "lootTableId": "dragon_s1_province_19",
+            "provinceCompletionRewards": [
+              {
+                "type": "Item",
+                "id": "lottery_elite_dragon",
+                "amount": 1
+              },
+              {
+                "type": "Dragon",
+                "id": "trainer_dragon_red_uncommon",
+                "amount": 5
+              },
+              {
+                "type": "Dragon",
+                "id": "trainer_dragon_rainbow_novice_common",
+                "amount": 5
+              },
+              {
+                "type": "Item",
+                "id": "dragon_battle_super_healing_salve",
+                "amount": 5
+              },
+              {
+                "type": "Item",
+                "id": "dragon_ruby_horse_statue",
+                "amount": 1
+              },
+              {
+                "type": "Item",
+                "id": "dragon_feathered_headdress",
+                "amount": 1
+              }
+            ],
             "idleLootChestLootConfigId": "dragon_pve_idle_loot_chest_guaranteed_loot_area_19"
           },
           {
@@ -82712,306 +82744,38 @@
           {
             "provinceId": "dragon_s1_province_19",
             "energyCost": 5,
-            "commonMonstersLevel": 112,
+            "commonMonstersLevel": 119,
+            "monsterAttackModifierPerMil": 254,
             "commonMonstersLevelDeviation": 2,
             "randomizedMonsterIds": [
-              "dragon_small_rose_dragon_yellow",
-              "dragon_small_tree_dragon_red"
+              "dragon_small_mouse_purple",
+              "dragon_small_ice_mouse",
+              "dragon_small_mouse_green"
             ],
             "randomizedMonsterWaveFormationIds": [
               "random_4_A",
-              "random_3_V",
-              "random_3_line"
+              "random_5_M",
+              "random_5_A"
             ],
             "numberOfRandomizedWaves": 3,
             "predeterminedWaves": [
               {
-                "waveFormationId": "boss_3_A",
+                "waveFormationId": "boss_5_W",
                 "monsterDefinitions": [
                   {
-                    "id": "dragon_small_rose_dragon_yellow"
+                    "id": "dragon_small_ice_mouse"
                   },
                   {
-                    "id": "dragon_ignis"
+                    "id": "dragon_small_mouse_yellow"
                   },
                   {
-                    "id": "dragon_small_rose_dragon_yellow"
-                  }
-                ]
-              }
-            ],
-            "battlegroundId": "DragonRainbowClouds",
-            "foodReward": 8300,
-            "ironReward": 17000,
-            "recruitsReward": 12,
-            "xpReward": 2050,
-            "specificLevelPropertyIds": [
-              "esoteric_winds"
-            ],
-            "hmEnergyCost": 10,
-            "hmCommonMonstersLevel": 105,
-            "hmCommonMonstersLevelDeviation": 2,
-            "hmFoodReward": 9780,
-            "hmIronReward": 16020,
-            "hmRecruitsReward": 8,
-            "hmXpReward": 3900
-          },
-          {
-            "provinceId": "dragon_s1_province_19",
-            "energyCost": 5,
-            "commonMonstersLevel": 113,
-            "commonMonstersLevelDeviation": 2,
-            "randomizedMonsterIds": [
-              "dragon_small_frost_dragon",
-              "dragon_small_berry_dragon"
-            ],
-            "randomizedMonsterWaveFormationIds": [
-              "random_4_A",
-              "random_3_V",
-              "random_3_line"
-            ],
-            "numberOfRandomizedWaves": 3,
-            "predeterminedWaves": [
-              {
-                "waveFormationId": "boss_3_A",
-                "monsterDefinitions": [
-                  {
-                    "id": "dragon_small_frost_dragon"
+                    "id": "dragon_horned_owl_boss_purple"
                   },
                   {
-                    "id": "dragon_bonefang"
+                    "id": "dragon_small_mouse_red"
                   },
                   {
-                    "id": "dragon_small_frost_dragon"
-                  }
-                ]
-              }
-            ],
-            "battlegroundId": "DragonRainbowClouds",
-            "foodReward": 8300,
-            "ironReward": 17000,
-            "recruitsReward": 12,
-            "xpReward": 2050,
-            "specificLevelPropertyIds": [
-              "esoteric_winds"
-            ],
-            "hmEnergyCost": 10,
-            "hmCommonMonstersLevel": 105,
-            "hmCommonMonstersLevelDeviation": 2,
-            "hmFoodReward": 9780,
-            "hmIronReward": 16020,
-            "hmRecruitsReward": 8,
-            "hmXpReward": 3900
-          },
-          {
-            "provinceId": "dragon_s1_province_19",
-            "energyCost": 5,
-            "commonMonstersLevel": 114,
-            "commonMonstersLevelDeviation": 2,
-            "randomizedMonsterIds": [
-              "dragon_small_rose_dragon_yellow",
-              "dragon_small_berry_dragon_green"
-            ],
-            "randomizedMonsterWaveFormationIds": [
-              "random_4_A",
-              "random_3_V",
-              "random_3_line"
-            ],
-            "numberOfRandomizedWaves": 3,
-            "predeterminedWaves": [
-              {
-                "waveFormationId": "fixed_2",
-                "monsterDefinitions": [
-                  {
-                    "id": "dragon_ignis"
-                  },
-                  {
-                    "id": "dragon_bonefang"
-                  }
-                ]
-              }
-            ],
-            "battlegroundId": "DragonRainbowClouds",
-            "foodReward": 8300,
-            "ironReward": 17000,
-            "recruitsReward": 12,
-            "xpReward": 2050,
-            "specificLevelPropertyIds": [
-              "esoteric_winds"
-            ],
-            "hmEnergyCost": 10,
-            "hmCommonMonstersLevel": 105,
-            "hmCommonMonstersLevelDeviation": 2,
-            "hmFoodReward": 9780,
-            "hmIronReward": 16020,
-            "hmRecruitsReward": 8,
-            "hmXpReward": 3900
-          },
-          {
-            "provinceId": "dragon_s1_province_19",
-            "energyCost": 5,
-            "commonMonstersLevel": 115,
-            "commonMonstersLevelDeviation": 2,
-            "randomizedMonsterIds": [
-              "dragon_small_berry_dragon",
-              "dragon_small_tree_dragon_green"
-            ],
-            "randomizedMonsterWaveFormationIds": [
-              "random_4_A",
-              "random_3_V",
-              "random_3_line"
-            ],
-            "numberOfRandomizedWaves": 3,
-            "predeterminedWaves": [
-              {
-                "waveFormationId": "boss_3_A",
-                "monsterDefinitions": [
-                  {
-                    "id": "dragon_small_berry_dragon"
-                  },
-                  {
-                    "id": "dragon_doombringer"
-                  },
-                  {
-                    "id": "dragon_small_berry_dragon"
-                  }
-                ]
-              }
-            ],
-            "battlegroundId": "DragonRainbowClouds",
-            "foodReward": 8300,
-            "ironReward": 17000,
-            "recruitsReward": 12,
-            "xpReward": 2050,
-            "specificLevelPropertyIds": [
-              "esoteric_winds"
-            ],
-            "hmEnergyCost": 10,
-            "hmCommonMonstersLevel": 105,
-            "hmCommonMonstersLevelDeviation": 2,
-            "hmFoodReward": 9780,
-            "hmIronReward": 16020,
-            "hmRecruitsReward": 8,
-            "hmXpReward": 3900
-          },
-          {
-            "provinceId": "dragon_s1_province_19",
-            "energyCost": 5,
-            "commonMonstersLevel": 116,
-            "commonMonstersLevelDeviation": 2,
-            "randomizedMonsterIds": [
-              "dragon_small_berry_dragon_blue",
-              "dragon_small_rose_dragon"
-            ],
-            "randomizedMonsterWaveFormationIds": [
-              "random_4_A",
-              "random_3_V",
-              "random_3_line"
-            ],
-            "numberOfRandomizedWaves": 3,
-            "predeterminedWaves": [
-              {
-                "waveFormationId": "boss_3_A",
-                "monsterDefinitions": [
-                  {
-                    "id": "dragon_small_berry_dragon_blue"
-                  },
-                  {
-                    "id": "dragon_dreamcatcher"
-                  },
-                  {
-                    "id": "dragon_small_berry_dragon_blue"
-                  }
-                ]
-              }
-            ],
-            "battlegroundId": "DragonRainbowClouds",
-            "foodReward": 8300,
-            "ironReward": 17000,
-            "recruitsReward": 12,
-            "xpReward": 2050,
-            "specificLevelPropertyIds": [
-              "esoteric_winds"
-            ],
-            "hmEnergyCost": 10,
-            "hmCommonMonstersLevel": 105,
-            "hmCommonMonstersLevelDeviation": 2,
-            "hmFoodReward": 9780,
-            "hmIronReward": 16020,
-            "hmRecruitsReward": 8,
-            "hmXpReward": 3900
-          },
-          {
-            "provinceId": "dragon_s1_province_19",
-            "energyCost": 5,
-            "commonMonstersLevel": 117,
-            "commonMonstersLevelDeviation": 2,
-            "randomizedMonsterIds": [
-              "dragon_small_potato_dragon_purple",
-              "dragon_small_tree_dragon"
-            ],
-            "randomizedMonsterWaveFormationIds": [
-              "random_4_A",
-              "random_3_V",
-              "random_3_line"
-            ],
-            "numberOfRandomizedWaves": 3,
-            "predeterminedWaves": [
-              {
-                "waveFormationId": "fixed_2",
-                "monsterDefinitions": [
-                  {
-                    "id": "dragon_doombringer"
-                  },
-                  {
-                    "id": "dragon_dreamcatcher"
-                  }
-                ]
-              }
-            ],
-            "battlegroundId": "DragonRainbowClouds",
-            "foodReward": 8300,
-            "ironReward": 17000,
-            "recruitsReward": 12,
-            "xpReward": 2050,
-            "specificLevelPropertyIds": [
-              "esoteric_winds"
-            ],
-            "hmEnergyCost": 10,
-            "hmCommonMonstersLevel": 105,
-            "hmCommonMonstersLevelDeviation": 2,
-            "hmFoodReward": 9780,
-            "hmIronReward": 16020,
-            "hmRecruitsReward": 8,
-            "hmXpReward": 3900
-          },
-          {
-            "provinceId": "dragon_s1_province_19",
-            "energyCost": 5,
-            "commonMonstersLevel": 118,
-            "commonMonstersLevelDeviation": 2,
-            "randomizedMonsterIds": [
-              "dragon_small_tree_dragon_blue",
-              "dragon_small_potato_dragon_yellow"
-            ],
-            "randomizedMonsterWaveFormationIds": [
-              "random_4_A",
-              "random_3_V",
-              "random_3_line"
-            ],
-            "numberOfRandomizedWaves": 3,
-            "predeterminedWaves": [
-              {
-                "waveFormationId": "boss_3_A",
-                "monsterDefinitions": [
-                  {
-                    "id": "dragon_small_tree_dragon_blue"
-                  },
-                  {
-                    "id": "dragon_saestrasz"
-                  },
-                  {
-                    "id": "dragon_small_tree_dragon_blue"
+                    "id": "dragon_small_mouse_green"
                   }
                 ]
               }
@@ -83038,27 +82802,89 @@
             "commonMonstersLevel": 119,
             "commonMonstersLevelDeviation": 2,
             "randomizedMonsterIds": [
-              "dragon_small_berry_dragon_red",
-              "dragon_small_tree_dragon_green"
+              "dragon_small_ice_mouse",
+              "dragon_small_mouse_red",
+              "dragon_small_mouse_yellow"
             ],
             "randomizedMonsterWaveFormationIds": [
               "random_4_A",
-              "random_3_V",
-              "random_3_line"
+              "random_5_M",
+              "random_5_A"
             ],
             "numberOfRandomizedWaves": 3,
             "predeterminedWaves": [
               {
-                "waveFormationId": "boss_3_A",
+                "waveFormationId": "boss_5_W",
                 "monsterDefinitions": [
                   {
-                    "id": "dragon_small_berry_dragon_red"
+                    "id": "dragon_small_mouse_yellow"
                   },
                   {
-                    "id": "dragon_veneno"
+                    "id": "dragon_small_mouse_green"
                   },
                   {
-                    "id": "dragon_small_berry_dragon_red"
+                    "id": "dragon_horned_owl_boss_red"
+                  },
+                  {
+                    "id": "dragon_small_ice_mouse"
+                  },
+                  {
+                    "id": "dragon_small_mouse_purple"
+                  }
+                ]
+              }
+            ],
+            "battlegroundId": "DragonRainbowClouds",
+            "foodReward": 8300,
+            "ironReward": 17000,
+            "recruitsReward": 12,
+            "xpReward": 2050,
+            "specificLevelPropertyIds": [
+              "esoteric_winds"
+            ],
+            "hmEnergyCost": 10,
+            "hmCommonMonstersLevel": 105,
+            "hmCommonMonstersLevelDeviation": 2,
+            "hmFoodReward": 9780,
+            "hmIronReward": 16020,
+            "hmRecruitsReward": 8,
+            "hmXpReward": 3900
+          },
+          {
+            "provinceId": "dragon_s1_province_19",
+            "energyCost": 5,
+            "commonMonstersLevel": 119,
+            "monsterAttackModifierPerMil": 9,
+            "commonMonstersLevelDeviation": 2,
+            "randomizedMonsterIds": [
+              "dragon_small_mouse_green",
+              "dragon_small_mouse_purple",
+              "dragon_small_ice_mouse"
+            ],
+            "randomizedMonsterWaveFormationIds": [
+              "random_4_A",
+              "random_5_M",
+              "random_5_A"
+            ],
+            "numberOfRandomizedWaves": 3,
+            "predeterminedWaves": [
+              {
+                "waveFormationId": "boss_5_W",
+                "monsterDefinitions": [
+                  {
+                    "id": "dragon_small_mouse_red"
+                  },
+                  {
+                    "id": "dragon_small_ice_mouse"
+                  },
+                  {
+                    "id": "dragon_horned_owl_boss_purple"
+                  },
+                  {
+                    "id": "dragon_small_mouse_green"
+                  },
+                  {
+                    "id": "dragon_small_mouse_yellow"
                   }
                 ]
               }
@@ -83083,15 +82909,292 @@
             "provinceId": "dragon_s1_province_19",
             "energyCost": 5,
             "commonMonstersLevel": 120,
+            "monsterAttackModifierPerMil": 11,
             "commonMonstersLevelDeviation": 2,
             "randomizedMonsterIds": [
-              "dragon_small_rose_dragon_yellow",
-              "dragon_small_potato_dragon_red"
+              "dragon_small_mouse_yellow",
+              "dragon_small_mouse_red",
+              "dragon_small_mouse_purple"
             ],
             "randomizedMonsterWaveFormationIds": [
               "random_4_A",
-              "random_3_V",
-              "random_3_line"
+              "random_5_M",
+              "random_5_A"
+            ],
+            "numberOfRandomizedWaves": 3,
+            "predeterminedWaves": [
+              {
+                "waveFormationId": "boss_5_W",
+                "monsterDefinitions": [
+                  {
+                    "id": "dragon_small_mouse_purple"
+                  },
+                  {
+                    "id": "dragon_small_mouse_green"
+                  },
+                  {
+                    "id": "dragon_horned_owl_boss_red"
+                  },
+                  {
+                    "id": "dragon_small_mouse_yellow"
+                  },
+                  {
+                    "id": "dragon_small_ice_mouse"
+                  }
+                ]
+              }
+            ],
+            "battlegroundId": "DragonRainbowClouds",
+            "foodReward": 8300,
+            "ironReward": 17000,
+            "recruitsReward": 12,
+            "xpReward": 2050,
+            "specificLevelPropertyIds": [
+              "esoteric_winds"
+            ],
+            "hmEnergyCost": 10,
+            "hmCommonMonstersLevel": 105,
+            "hmCommonMonstersLevelDeviation": 2,
+            "hmFoodReward": 9780,
+            "hmIronReward": 16020,
+            "hmRecruitsReward": 8,
+            "hmXpReward": 3900
+          },
+          {
+            "provinceId": "dragon_s1_province_19",
+            "energyCost": 5,
+            "commonMonstersLevel": 120,
+            "monsterAttackModifierPerMil": 11,
+            "commonMonstersLevelDeviation": 2,
+            "randomizedMonsterIds": [
+              "dragon_small_mouse_purple",
+              "dragon_small_mouse_yellow",
+              "dragon_small_mouse_green"
+            ],
+            "randomizedMonsterWaveFormationIds": [
+              "random_4_A",
+              "random_5_M",
+              "random_5_A"
+            ],
+            "numberOfRandomizedWaves": 3,
+            "predeterminedWaves": [
+              {
+                "waveFormationId": "boss_5_W",
+                "monsterDefinitions": [
+                  {
+                    "id": "dragon_small_mouse_yellow"
+                  },
+                  {
+                    "id": "dragon_small_mouse_red"
+                  },
+                  {
+                    "id": "dragon_horned_owl_boss_purple"
+                  },
+                  {
+                    "id": "dragon_small_ice_mouse"
+                  },
+                  {
+                    "id": "dragon_small_mouse_green"
+                  }
+                ]
+              }
+            ],
+            "battlegroundId": "DragonRainbowClouds",
+            "foodReward": 8300,
+            "ironReward": 17000,
+            "recruitsReward": 12,
+            "xpReward": 2050,
+            "specificLevelPropertyIds": [
+              "esoteric_winds"
+            ],
+            "hmEnergyCost": 10,
+            "hmCommonMonstersLevel": 105,
+            "hmCommonMonstersLevelDeviation": 2,
+            "hmFoodReward": 9780,
+            "hmIronReward": 16020,
+            "hmRecruitsReward": 8,
+            "hmXpReward": 3900
+          },
+          {
+            "provinceId": "dragon_s1_province_19",
+            "energyCost": 5,
+            "commonMonstersLevel": 120,
+            "monsterAttackModifierPerMil": 255,
+            "commonMonstersLevelDeviation": 2,
+            "randomizedMonsterIds": [
+              "dragon_small_mouse_red",
+              "dragon_small_ice_mouse",
+              "dragon_small_mouse_green"
+            ],
+            "randomizedMonsterWaveFormationIds": [
+              "random_4_A",
+              "random_5_M",
+              "random_5_A"
+            ],
+            "numberOfRandomizedWaves": 3,
+            "predeterminedWaves": [
+              {
+                "waveFormationId": "boss_5_W",
+                "monsterDefinitions": [
+                  {
+                    "id": "dragon_small_ice_mouse"
+                  },
+                  {
+                    "id": "dragon_small_mouse_purple"
+                  },
+                  {
+                    "id": "dragon_horned_owl_boss_red"
+                  },
+                  {
+                    "id": "dragon_small_mouse_yellow"
+                  },
+                  {
+                    "id": "dragon_small_mouse_green"
+                  }
+                ]
+              }
+            ],
+            "battlegroundId": "DragonRainbowClouds",
+            "foodReward": 8300,
+            "ironReward": 17000,
+            "recruitsReward": 12,
+            "xpReward": 2050,
+            "specificLevelPropertyIds": [
+              "esoteric_winds"
+            ],
+            "hmEnergyCost": 10,
+            "hmCommonMonstersLevel": 105,
+            "hmCommonMonstersLevelDeviation": 2,
+            "hmFoodReward": 9780,
+            "hmIronReward": 16020,
+            "hmRecruitsReward": 8,
+            "hmXpReward": 3900
+          },
+          {
+            "provinceId": "dragon_s1_province_19",
+            "energyCost": 5,
+            "commonMonstersLevel": 121,
+            "monsterAttackModifierPerMil": 6,
+            "commonMonstersLevelDeviation": 2,
+            "randomizedMonsterIds": [
+              "dragon_small_mouse_purple",
+              "dragon_small_mouse_red",
+              "dragon_small_mouse_yellow"
+            ],
+            "randomizedMonsterWaveFormationIds": [
+              "random_4_A",
+              "random_5_M",
+              "random_5_A"
+            ],
+            "numberOfRandomizedWaves": 3,
+            "predeterminedWaves": [
+              {
+                "waveFormationId": "boss_5_W",
+                "monsterDefinitions": [
+                  {
+                    "id": "dragon_small_mouse_green"
+                  },
+                  {
+                    "id": "dragon_small_mouse_yellow"
+                  },
+                  {
+                    "id": "dragon_horned_owl_boss_purple"
+                  },
+                  {
+                    "id": "dragon_small_mouse_red"
+                  },
+                  {
+                    "id": "dragon_small_ice_mouse"
+                  }
+                ]
+              }
+            ],
+            "battlegroundId": "DragonRainbowClouds",
+            "foodReward": 8300,
+            "ironReward": 17000,
+            "recruitsReward": 12,
+            "xpReward": 2050,
+            "specificLevelPropertyIds": [
+              "esoteric_winds"
+            ],
+            "hmEnergyCost": 10,
+            "hmCommonMonstersLevel": 105,
+            "hmCommonMonstersLevelDeviation": 2,
+            "hmFoodReward": 9780,
+            "hmIronReward": 16020,
+            "hmRecruitsReward": 8,
+            "hmXpReward": 3900
+          },
+          {
+            "provinceId": "dragon_s1_province_19",
+            "energyCost": 5,
+            "commonMonstersLevel": 121,
+            "monsterAttackModifierPerMil": 8,
+            "commonMonstersLevelDeviation": 2,
+            "randomizedMonsterIds": [
+              "dragon_small_mouse_green",
+              "dragon_small_mouse_red",
+              "dragon_small_mouse_purple"
+            ],
+            "randomizedMonsterWaveFormationIds": [
+              "random_4_A",
+              "random_5_M",
+              "random_5_A"
+            ],
+            "numberOfRandomizedWaves": 3,
+            "predeterminedWaves": [
+              {
+                "waveFormationId": "boss_5_W",
+                "monsterDefinitions": [
+                  {
+                    "id": "dragon_small_ice_mouse"
+                  },
+                  {
+                    "id": "dragon_small_mouse_green"
+                  },
+                  {
+                    "id": "dragon_horned_owl_boss_red"
+                  },
+                  {
+                    "id": "dragon_small_mouse_purple"
+                  },
+                  {
+                    "id": "dragon_small_mouse_yellow"
+                  }
+                ]
+              }
+            ],
+            "battlegroundId": "DragonRainbowClouds",
+            "foodReward": 8300,
+            "ironReward": 17000,
+            "recruitsReward": 12,
+            "xpReward": 2050,
+            "specificLevelPropertyIds": [
+              "esoteric_winds"
+            ],
+            "hmEnergyCost": 10,
+            "hmCommonMonstersLevel": 105,
+            "hmCommonMonstersLevelDeviation": 2,
+            "hmFoodReward": 9780,
+            "hmIronReward": 16020,
+            "hmRecruitsReward": 8,
+            "hmXpReward": 3900
+          },
+          {
+            "provinceId": "dragon_s1_province_19",
+            "energyCost": 5,
+            "commonMonstersLevel": 124,
+            "monsterAttackModifierPerMil": 10,
+            "commonMonstersLevelDeviation": 2,
+            "randomizedMonsterIds": [
+              "dragon_small_mouse_yellow",
+              "dragon_small_mouse_green",
+              "dragon_small_mouse_red"
+            ],
+            "randomizedMonsterWaveFormationIds": [
+              "random_4_A",
+              "random_5_M",
+              "random_5_A"
             ],
             "numberOfRandomizedWaves": 3,
             "predeterminedWaves": [
@@ -83099,10 +83202,10 @@
                 "waveFormationId": "fixed_2",
                 "monsterDefinitions": [
                   {
-                    "id": "dragon_saestrasz"
+                    "id": "dragon_horned_owl_boss_purple"
                   },
                   {
-                    "id": "dragon_veneno"
+                    "id": "dragon_horned_owl_boss_red"
                   }
                 ]
               }
@@ -83126,30 +83229,28 @@
           {
             "provinceId": "dragon_s1_province_19",
             "energyCost": 5,
-            "commonMonstersLevel": 121,
+            "commonMonstersLevel": 125,
             "commonMonstersLevelDeviation": 2,
             "randomizedMonsterIds": [
-              "dragon_small_potato_dragon_purple",
-              "dragon_small_bee_dragon"
+              "dragon_small_mouse_purple",
+              "dragon_small_mouse_yellow",
+              "dragon_small_mouse_green"
             ],
             "randomizedMonsterWaveFormationIds": [
               "random_4_A",
-              "random_3_V",
-              "random_3_line"
+              "random_5_M",
+              "random_5_A"
             ],
             "numberOfRandomizedWaves": 3,
             "predeterminedWaves": [
               {
-                "waveFormationId": "boss_3_A_big",
+                "waveFormationId": "fixed_2",
                 "monsterDefinitions": [
                   {
-                    "id": "dragon_saestrasz"
+                    "id": "dragon_horned_owl_boss_red"
                   },
                   {
-                    "id": "dragon_veneno"
-                  },
-                  {
-                    "id": "dragon_dreamcatcher"
+                    "id": "dragon_horned_owl_boss_purple"
                   }
                 ]
               }
@@ -83173,34 +83274,16 @@
           {
             "provinceId": "dragon_s1_province_19",
             "energyCost": 5,
-            "commonMonstersLevel": 121,
+            "commonMonstersLevel": 125,
             "commonMonstersLevelDeviation": 2,
-            "randomizedMonsterIds": [
-              "dragon_small_frost_dragon",
-              "dragon_small_berry_dragon_yellow"
-            ],
+            "randomizedMonsterIds": [],
             "randomizedMonsterWaveFormationIds": [
               "random_4_A",
-              "random_3_V",
-              "random_3_line"
+              "random_5_M",
+              "random_5_A"
             ],
             "numberOfRandomizedWaves": 3,
-            "predeterminedWaves": [
-              {
-                "waveFormationId": "boss_3_A_big",
-                "monsterDefinitions": [
-                  {
-                    "id": "dragon_noctur"
-                  },
-                  {
-                    "id": "dragon_saestrasz"
-                  },
-                  {
-                    "id": "dragon_aranth"
-                  }
-                ]
-              }
-            ],
+            "predeterminedWaves": [],
             "battlegroundId": "DragonRainbowClouds",
             "foodReward": 8300,
             "ironReward": 17000,
@@ -84888,7 +84971,7 @@
               "provinces": [
                 "dragon_s1_province_19"
               ],
-              "startTime": "2051-08-24 07:00:00",
+              "startTime": "2025-12-01 07:00:00",
               "overridden": true
             },
             {
@@ -95880,50 +95963,62 @@
         "provinces": [
           {
             "id": "tales2_chapter_01",
+            "rareMonsterSpawnChancePerMil": 8,
             "lootTableId": "tales2_chapter_01"
           },
           {
             "id": "tales2_chapter_02",
+            "rareMonsterSpawnChancePerMil": 10,
             "lootTableId": "tales2_chapter_02"
           },
           {
             "id": "tales2_chapter_03",
+            "rareMonsterSpawnChancePerMil": 13,
             "lootTableId": "tales2_chapter_03"
           },
           {
             "id": "tales2_chapter_04",
+            "rareMonsterSpawnChancePerMil": 17,
             "lootTableId": "tales2_chapter_04"
           },
           {
             "id": "tales2_chapter_05",
+            "rareMonsterSpawnChancePerMil": 20,
             "lootTableId": "tales2_chapter_05"
           },
           {
             "id": "tales2_chapter_06",
+            "rareMonsterSpawnChancePerMil": 20,
             "lootTableId": "tales2_chapter_06"
           },
           {
             "id": "tales2_chapter_01_hardmode",
+            "rareMonsterSpawnChancePerMil": 20,
             "lootTableId": "tales2_chapter_01_hardmode"
           },
           {
             "id": "tales2_chapter_02_hardmode",
+            "rareMonsterSpawnChancePerMil": 22,
             "lootTableId": "tales2_chapter_02_hardmode"
           },
           {
             "id": "tales2_chapter_03_hardmode",
+            "rareMonsterSpawnChancePerMil": 23,
             "lootTableId": "tales2_chapter_03_hardmode"
           },
           {
             "id": "tales2_chapter_04_hardmode",
+            "rareMonsterSpawnChancePerMil": 28,
             "lootTableId": "tales2_chapter_04_hardmode"
           },
           {
             "id": "tales2_chapter_05_hardmode",
+            "rareMonsterSpawnChancePerMil": 30,
             "lootTableId": "tales2_chapter_05_hardmode"
           },
           {
             "id": "tales2_chapter_06_hardmode",
+            "rareMonsterSpawnChancePerMil": 30,
             "lootTableId": "tales2_chapter_06_hardmode"
           },
           {
@@ -104141,7 +104236,11 @@
           }
         ],
         "seasonRareMonsterConfiguration": {
-          "lureBonusFeatureEnabled": false
+          "lureBonusFeatureEnabled": true,
+          "maxRareMonstersPerInterval": 15,
+          "rareMonsterSpawnLimitIntervalDuration": 86400,
+          "lureBonusMaxRareMonstersPerInterval": 25,
+          "lureBonusRareMonsterSpawnChanceMultiplierPerMil": 10000
         },
         "buttonUnlockProvinceRequirement": "tales1_chapter_03",
         "mapUnlockProvinceRequirement": "tales1_chapter_03",
@@ -138870,5 +138969,5 @@
     "untoldTalesEnabled": true,
     "dragonProvinceCompletionRewardsEnabled": true
   },
-  "mapConfigId": 2836969580
+  "mapConfigId": 4186527863
 }

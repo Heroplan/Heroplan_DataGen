@@ -87,7 +87,7 @@
 "quests.name.monster_island_horde_small_red","小型变色蜥龙兽群"
 "quests.name.monster_island_horde_small_yellow","小型甲虫怪兽群"
 "quests.name.moths","飞蛾之夜"
-"quests.name.musketeers","英勇火枪手"
+"quests.name.musketeers","勇者与美人"
 "quests.name.ninja","忍者高塔"
 "quests.name.ninja_impossible","忍者高塔：噩梦"
 "quests.name.opera","歌剧之谜"

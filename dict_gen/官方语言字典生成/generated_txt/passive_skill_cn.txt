@@ -18,6 +18,8 @@
 "herocard.passive_skill.description.conditionaleffectovertime.revival.all.allies.while.single.allies.hasdeadallies","每{TURNS}回合，复活所有被击败的盟友，使其拥有{POWER}%的生命值。"
 "herocard.passive_skill.description.conditionaleffectovertime.revival.neartotargetexceptcaster.allies.while.single.allies.hasdeadallies","每{TURNS}回合，复活附近被击败的盟友，使其拥有{POWER}%的生命值。"
 "herocard.passive_skill.description.conditionaleffectovertime.usable_once.heal.addmana.everyturn.while.single.allies.lowhealth","当此角色在一场战斗期间首次以低血量开始回合时，该角色将恢复{HEALTH}%生命并获得{MANA}%法力。"
+"herocard.passive_skill.description.convertincomingdamagetoheal.all.statuseffect","每当该角色本应受到状态异常造成的伤害时，改为恢复相同数值的生命值。"
+"herocard.passive_skill.description.convertincomingdamagetoheal.statuseffect","每当该角色本应受到状态异常造成的伤害时，改为恢复生命值。恢复量为伤害的{MULTIPLIER}%。"
 "herocard.passive_skill.description.criticalmodifiersupportcharacter.troop","{CRITICALMODIFIER}%暴击几率。"
 "herocard.passive_skill.description.damage.all.enemies","对所有敌人造成{DAMAGE}%的伤害。"
 "herocard.passive_skill.description.damagefamiliarsovertime.all.enemies.minion.bigminion","每{TURNS}回合对所有敌方小兵和超级小兵造成{DAMAGEPERTURN}点伤害。"
@@ -30,7 +32,7 @@
 所造成的额外元素伤害：+{MODIFIER}%"
 "herocard.passive_skill.description.debuffdamagereduction","状态异常造成的伤害减少{DAMAGEREDUCTION}%"
 "herocard.passive_skill.description.debuffdamagereductionsupportcharacter.troop","状态异常对此角色造成的伤害减少{DAMAGEREDUCTION}%。"
-"herocard.passive_skill.description.destructivecorechargeeffectonspecial.damage.all.enemies.always","此角色的机械核心为毁灭核心。
+"herocard.passive_skill.description.destructivecoreintrinsicchargeeffectonspecial.damage.all.enemies.always","此角色的机械核心为毁灭核心。
 
 每当此角色施放特殊技能时，都会启动毁灭核心：
 
@@ -52,6 +54,7 @@
 "herocard.passive_skill.description.effectondispel.heal.statuseffectdebuffs.removalreason.dispel.removal.reallocation.expiration","每当此角色身上的一个状态异常失效，又或是被净化、移除或转移时，此角色都会获得{POWER}%的生命。此效果每回合只能生效一次。"
 "herocard.passive_skill.description.effectondispel.heal.statuseffectdebuffs.removalreason.dispel.removal.reallocation.expiration.chance","每当此角色身上的一个状态异常失效，又或是被净化、移除或转移时，此角色都有{CHANCE}%几率获得{POWER}%的生命。此效果每回合只能生效一次。"
 "herocard.passive_skill.description.effectondispel.healthboost.fixedpower.minorbuff.removalreason.dispel","每驱散此角色身上的一个增益效果，此角色都会获得{POWER}点生命加成。此效果每回合只能生效一次。"
+"herocard.passive_skill.description.effectonfamiliardamagedone.minion.frost","该角色拥有的小兵每次攻击时，会对目标造成{DAMAGE}点冰冻伤害，持续{TURNS}回合。"
 "herocard.passive_skill.description.effectonheal.addmana","此角色每次恢复生命时，都会获得{POWER}%法力。"
 "herocard.passive_skill.description.effectonheal.heal","此角色每次恢复生命时，都会获得{POWER}%生命。"
 "herocard.passive_skill.description.effectonhealsupportcharacter.troop.heal","此角色每次恢复生命时，都会获得{POWER}%生命。"
@@ -102,7 +105,7 @@
 "herocard.passive_skill.description.extraactionsafterspecial","此角色在施放特殊技能时，有{CHANCE}%几率施放额外技能。"
 "herocard.passive_skill.description.familiaraccuracymodifier.all.enemies.minion.bigminion","所有敌方小兵拥有{MINIONMODIFIER}%精准度。
 所有敌方超级小兵拥有{MEGAMINIONMODIFIER}%精准度。"
-"herocard.passive_skill.description.familiarcorechargeeffectonspecial.summonfamiliar.construct_minion_core.all.allies.always","此角色的机械核心为小兵核心。
+"herocard.passive_skill.description.familiarcoreintrinsicchargeeffectonspecial.summonfamiliar.construct_minion_core.all.allies.always","此角色的机械核心为小兵核心。
 
 每当此角色施放特殊技能时，都会启动小兵核心：
 
@@ -423,6 +426,16 @@
 普通 神圣系训练师英雄
 普通神圣系英雄"
 "herocard.passive_skill.description.nevermissspecial","此角色的特殊技能必定命中。"
+"herocard.passive_skill.description.ransack","每回合开始时，该角色会掠夺一名随机敌人：
+
+偷取{DAMAGE}点生命值。
+安全地窃取目标的一个增益、成长效果或正面叠加效果。包括不可驱散的增益与舞蹈效果。"
+"herocard.passive_skill.description.ransack.chance","每回合开始时，该角色有{CHANCE}%的几率掠夺一名随机敌人：
+
+掠夺：
+偷取{DAMAGE}点生命值。
+安全地从敌人身上偷取的一个随机成长效果、正面叠加或状态效果增益。包括不可驱散的增益与舞蹈效果。
+安全偷取会无视状态效果增益被移除时的副作用，例如移除时的伤害。但被动技能和家族效果仍会触发。"
 "herocard.passive_skill.description.reallocatestatuseffectonspecialcast.damage.all.enemies.minorbuff.newest","此角色施放特殊技能时，有{CHANCE}%几率从一名身上有增益的随机敌人窃取其最新获得的可驱散增益。若所有敌人身上都没有增益，则对所有敌人造成{DAMAGE}%伤害。"
 "herocard.passive_skill.description.reallocatestatuseffectonspecialcast.damage.all.enemies.minorbuff.newest.randomenemytarget","此角色施放特殊技能时，有{CHANCE}%几率从一名身上有增益的随机敌人窃取其最新获得的可驱散增益。若所有敌人身上都没有增益，则对所有敌人造成{DAMAGE}%伤害。"
 "herocard.passive_skill.description.reallocatestatuseffectonspecialcast.heal.always.minordebuff.newest","此角色施放特殊技能时，将把其身上最新的可净化状态异常转移至其目标。若其特殊技能无法选择敌方目标，则会随机转移至一名敌人。若此角色没有可净化的状态异常，则恢复自身{HEALTH}%的生命。"
@@ -431,10 +444,14 @@
 所受到的元素伤害：-{MODIFIER}%"
 "herocard.passive_skill.description.receivedstrongelementsupportcharacterdamage.combined","从较强元素队伍处受到的元素伤害减少{MODIFIER}%。"
 "herocard.passive_skill.description.receivedstrongelementsupportcharacterdamage.increase.dragon","在被较强元素的火球攻击时额外受到{MODIFIER}%元素伤害。"
+"herocard.passive_skill.description.redirectlethaldamage.enemies.single","该角色第一次受到致命伤害时，将该伤害会转移至一个随机敌人。
+
+在包含多波敌人的战斗中，该效果会在每一波开始时刷新。"
+"herocard.passive_skill.description.redirectlethaldamage.enemies.single.battle","该角色第一次受到致命伤害时，将该伤害会转移至一个随机敌人。（剩余触发次数：{ACTIVATIONSLEFT}）"
 "herocard.passive_skill.description.reflectstatuseffect.with_chance","额外{CHANCE}%几率将状态异常反弹给攻击者。"
 "herocard.passive_skill.description.removebasestatmodifiers.removenegative.from.all.allies","每{TURNS}回合，移除所有盟友身上的衰退效果。"
 "herocard.passive_skill.description.removebasestatmodifiers.removepositive.from.all.enemies","每{TURNS}回合，移除所有敌人身上的成长效果。"
-"herocard.passive_skill.description.repaircorechargeeffectonspecial.healthboost.all.allies.always","此角色的机械核心为修复核心。
+"herocard.passive_skill.description.repaircoreintrinsicchargeeffectonspecial.healthboost.all.allies.always","此角色的机械核心为修复核心。
 
 每当此角色施放特殊技能时，都会启动修复核心：
 
@@ -444,6 +461,7 @@
 "herocard.passive_skill.description.resist.accuracymodifiers","此角色免疫影响精准度的状态异常。不包括来自盟友的原始状态效果。"
 "herocard.passive_skill.description.resist.alldebuffs.alldebuffs","此角色免疫状态异常和负面效果叠加。"
 "herocard.passive_skill.description.resist.alldebuffs.buffdispels.with_chance","额外{CHANCE}%几率抵抗所有状态异常以及增益驱散。"
+"herocard.passive_skill.description.resist.alldebuffs.manareduction.buffdispels.attackwither.defensewither.alldebuffs.with_chance","额外{CHANCE}%几率抵抗所有状态异常、法力减损、增益驱散和衰退效果。"
 "herocard.passive_skill.description.resist.alldebuffs.manareduction.buffdispels.insanity.with_chance","额外{CHANCE}%几率抵抗所有状态异常、法力减损、增益驱散和狂乱。"
 "herocard.passive_skill.description.resist.alldebuffs.manareduction.buffdispels.with_chance","额外{CHANCE}%几率抵抗所有状态异常、法力减损以及增益驱散。"
 "herocard.passive_skill.description.resist.alldebuffs.with_chance","额外{CHANCE}%几率抵抗所有状态异常。"
@@ -513,13 +531,23 @@
 "herocard.passive_skill.description.resistnewfamiliars.parasite.bigparasite","此角色无法被恶魔或超级恶魔附身。"
 "herocard.passive_skill.description.resistsupportcharacter.troop.alldebuffs.with_chance","额外{CHANCE}%几率抵抗所有状态异常。"
 "herocard.passive_skill.description.revivalchancemodifier.all.enemies","所有敌人在战斗中复活的几率，将降低至原始几率的{MODIFIER}%。"
-"herocard.passive_skill.description.reviveinalternativeformwithinsanitychance","被击败后，该角色有几率以上古邪神宿主的姿态重生。该角色每有{INSANITYPERSTEP}点狂乱值，几率便会提升{CHANCEINCREASEPERSTEP}%，最多可提升至{MAXCHANCEINCREASE}%。
+"herocard.passive_skill.description.revivalhealthmodifier.all.enemies.excluding.boss","除头目外的所有敌人会以{HEALTHMODIFIER}%的生命值复活。"
+"herocard.passive_skill.description.reviveinalternativeformwithinsanitychance","被击败后，该角色有几率以上古邪神宿主的姿态重生。该角色每有{INSANITYPERSTEP}点狂乱值，几率便会提升{CHANCEINCREASEPERSTEP}%，最多可提升至{MAXCHANCEINCREASE}%。若因自身狂乱效果而自我击败，则几率为{CHANCEONSELFCAUSEDDEATH}%。
 
 上古邪神宿主拥有：
 {INHERITEDHEALTH}%继承生命值。
 {ATTACK}攻击力。
 {DEFENSE}防御力。
-特殊技能：邪神荒疫"
+特殊技能：邪神荒疫。"
+"herocard.passive_skill.description.reviveinalternativeformwithinsanitychance_temp","被击败后，该角色有几率以上古邪神宿主的姿态重生。该角色每有{INSANITYPERSTEP}点狂乱值，几率便会提升{CHANCEINCREASEPERSTEP}%，最多可提升至{MAXCHANCEINCREASE}%。
+
+上古邪神宿主拥有：
+{INHERITEDHEALTH}%继承生命值。
+{ATTACK}攻击力。
+{DEFENSE}防御力。
+特殊技能：邪神荒疫。
+
+若因自身狂乱效果而被自己击败，重生几率始终为{CHANCEONSELFCAUSEDDEATH}%。"
 "herocard.passive_skill.description.revivewithchance.healthrecoverymultiplier.manarecoverymultiplier.activationreducedchance","此角色被击败时有{TOTALCHANCE}%的几率在其下一个回合复活，复活时拥有{HEALTH}%的生命与{MANA}%的法力。
 
 最多可触发{MAXACTIVATIONCOUNT}次。复活几率会在每次触发后衰减。无法通过状态异常或被动技能阻止该效果。"
@@ -551,7 +579,6 @@
 "herocard.passive_skill.description.statuseffectdurationmodifier.increase.minorbuff.majorbuff","此角色获得来自特殊技能的增益效果时，前{MAXACTIVATIONCOUNT}个增益效果的持续时间将增加{DURATIONMODIFIER}个回合。"
 "herocard.passive_skill.description.statuseffectoncleanse.single.enemies","该英雄身上的状态异常被净化时，将被净化的状态异常重新复制施放给一个随机敌人。"
 "herocard.passive_skill.description.statuseffectonspecialcast.major.all.allies.softskin","每当此石像鬼施放特殊技能时，所有盟友将获得软化皮肤效果。接下来对他们造成的{MAXACTIVATIONS}次伤害降低{DAMAGEREDUCTION}%，同时免疫所有状态异常、法力减损和狂乱。此效果无法驱散。"
-"herocard.passive_skill.description.statuseffectonspecialcast.major.all.allies.softskin.status_effect_to_others.softskin","每当此石像鬼施放特殊技能时，所有盟友将获得软化皮肤效果。接下来对他们造成的{MAXACTIVATIONS}次伤害降低{DAMAGEREDUCTION}%，同时免疫所有状态异常、法力减损和狂乱。此效果无法驱散。"
 "herocard.passive_skill.description.statuseffectonspecialcast.major.single.allies.softskin","每当此石像鬼施放特殊技能时，将激活软化皮肤效果。接下来对其造成的{MAXACTIVATIONS}次伤害降低{DAMAGEREDUCTION}%，同时免疫所有状态异常、法力减损和狂乱。此效果无法驱散。"
 "herocard.passive_skill.description.statuseffectonspecialcast.major.single.allies.stone","每当此石像鬼施放特殊技能时，其石质皮肤就会变硬。接下来受到的{MAXHITS}次伤害会降为1点。此效果无法被驱散。"
 "herocard.passive_skill.description.statuseffectonspecialcast.minor.single.allies.attackmodifierfrompassiveskill","当施放特殊技能时，此角色将在{TURNS}回合内获得{ATTACK}%的攻击力。此效果可与其他影响攻击力的效果被同时激活。"
@@ -597,6 +624,9 @@
 "herocard.passive_skill.description.summononsummon.activates_on_enemy_action.enemies.cursed_sapling_parasite.minion","当一名敌人使用特殊技能召唤任意小兵时，此角色会召唤厄运树苗恶魔附身于该敌人。"
 "herocard.passive_skill.description.summononsummon.activates_on_enemy_action.enemies.seedling_parasite.minion","当一名敌人使用特殊技能召唤任意小兵时，此角色会召唤幼苗恶魔附身于该敌人。"
 "herocard.passive_skill.description.taunt","此角色的特殊技能不受嘲讽影响。"
+"herocard.passive_skill.description.transformstatuseffectonspecialcast.minorbuff.enemies.all.transform_attackmodifier_into_attackmodifier.transform_defensemodifier_into_defensemodifier.transform_managenerationmodifier_into_defensemodifier","每当该角色施放特殊技能时，影响所有敌人攻击、防御和法力生成的所有增益将转换为对应的不可净化状态异常。"
+"herocard.passive_skill.description.transformstatuseffectonspecialcast.minorbuff.enemies.all.transform_attackmodifier_into_attackmodifier.transform_defensemodifier_into_defensemodifier.transform_managenerationmodifier_into_managenerationmodifier","每当该角色施放特殊技能时，影响所有敌人攻击、防御和法力生成的所有增益将转换为对应的不可驱散状态异常。"
+"herocard.passive_skill.description.transformstatuseffectonspecialcast.minordebuff.allies.all.transform_attackmodifier_into_attackmodifier.transform_defensemodifier_into_defensemodifier.transform_managenerationmodifier_into_managenerationmodifier","每当该角色施放特殊技能时，影响所有盟友的攻击、防御和法力生成的所有状态异常将转换为对应的不可驱散增益。"
 "herocard.passive_skill.description.wither.all.enemies","所有敌人的基础攻击和基础防御每回合减少{STATINCREASE}点，持续{MAXACTIVATIONCOUNT}回合。"
 "herocard.passive_skill.inactive","未激活：达到最高等级且完全进阶才能激活。"
 "herocard.passive_skill.sidedependent.sideinfo.heroside","作为进攻方时的被动技能："
@@ -614,10 +644,12 @@
 "herocard.passive_skill.title.conditionaleffectovertime.addmana.everyturn.while.all.allies.haswither","衰退期间获得法力"
 "herocard.passive_skill.title.conditionaleffectovertime.revival.while.single.allies.hasdeadallies","持续性复活"
 "herocard.passive_skill.title.conditionaleffectovertime.usable_once.heal.addmana.everyturn.while.single.allies.lowhealth","西苏之力"
-"herocard.passive_skill.title.corrosiveburncorechargeeffectonspecial.activates_on_ally_action.statuseffects.corrosiveburn","熔岩核心"
-"herocard.passive_skill.title.corrosiveburncorechargeeffectonspecial.statuseffects.corrosiveburn","熔岩核心"
-"herocard.passive_skill.title.corrosivecorechargeeffectonspecial.statuseffects.corrosivepoison","腐蚀核心"
-"herocard.passive_skill.title.corrosivefrostcorechargeeffectonspecial.statuseffects.corrosivefrost","极地核心"
+"herocard.passive_skill.title.convertincomingdamagetoheal.all.statuseffect","内在美"
+"herocard.passive_skill.title.convertincomingdamagetoheal.statuseffect","内在美"
+"herocard.passive_skill.title.corrosiveburncoreintrinsicchargeeffectonspecial.activates_on_ally_action.statuseffects.corrosiveburn","熔岩核心"
+"herocard.passive_skill.title.corrosiveburncoreintrinsicchargeeffectonspecial.statuseffects.corrosiveburn","熔岩核心"
+"herocard.passive_skill.title.corrosivecoreintrinsicchargeeffectonspecial.statuseffects.corrosivepoison","腐蚀核心"
+"herocard.passive_skill.title.corrosivefrostcoreintrinsicchargeeffectonspecial.statuseffects.corrosivefrost","极地核心"
 "herocard.passive_skill.title.criticalmodifier","暴击修正"
 "herocard.passive_skill.title.criticalmodifiersupportcharacter.troop","暴击修正"
 "herocard.passive_skill.title.critmodifier","暴击几率修正"
@@ -626,7 +658,7 @@
 "herocard.passive_skill.title.dealtstrongelementtroopdamage","队伍大师"
 "herocard.passive_skill.title.debuffdamagereduction","状态异常造成的伤害减少"
 "herocard.passive_skill.title.debuffdamagereductionsupportcharacter.troop","状态异常造成的伤害减少"
-"herocard.passive_skill.title.destructivecorechargeeffectonspecial.damage","毁灭核心"
+"herocard.passive_skill.title.destructivecoreintrinsicchargeeffectonspecial.damage","毁灭核心"
 "herocard.passive_skill.title.dispelonownfamiliardeath.minion.minordebuff","小兵死亡时获得净化"
 "herocard.passive_skill.title.dodgespecialdamage","闪避特殊技能伤害"
 "herocard.passive_skill.title.doubleeffectonchargedspecial.statuseffects.stackingmanagenerationmodifier.stacks","施放特殊技能时给予叠加"
@@ -643,6 +675,7 @@
 "herocard.passive_skill.title.effectondispel.addmana.minorbuff.removalreason.dispel","驱散增益时获得法力"
 "herocard.passive_skill.title.effectondispel.heal.statuseffectdebuffs.removalreason.dispel.removal.reallocation.expiration","状态异常失效或被清除时恢复生命"
 "herocard.passive_skill.title.effectondispel.healthboost.minorbuff.removalreason.dispel","驱散增益时获得生命加成"
+"herocard.passive_skill.title.effectonfamiliardamagedone.minion.frost","命中小兵时施加霜冻"
 "herocard.passive_skill.title.effectonheal.addmana","恢复生命时获得法力"
 "herocard.passive_skill.title.effectonheal.heal","恢复生命时获得额外生命"
 "herocard.passive_skill.title.effectonhealsupportcharacter.troop.heal","额外治疗"
@@ -698,7 +731,7 @@
 "herocard.passive_skill.title.effectsonparasitereceived.activates_on_enemy_action.damage.enemies.parasite","萌宠之怒"
 "herocard.passive_skill.title.effectsonparasitereceived.activates_on_enemy_action.healthboost.enemies.parasite","召唤恶魔时获得生命加成"
 "herocard.passive_skill.title.familiaraccuracymodifier.all.enemies.minion.bigminion","致盲小兵"
-"herocard.passive_skill.title.familiarcorechargeeffectonspecial.summonfamiliar.construct_minion_core","小兵核心"
+"herocard.passive_skill.title.familiarcoreintrinsicchargeeffectonspecial.summonfamiliar.construct_minion_core","小兵核心"
 "herocard.passive_skill.title.familiarhealthmodifier.all.enemies.bigminion.decrease","较弱的超级小兵"
 "herocard.passive_skill.title.familiarhealthmodifier.all.enemies.minion.decrease","较弱的小兵"
 "herocard.passive_skill.title.familiarsilencer.all.enemies.bigminion","阻止超级小兵"
@@ -722,10 +755,10 @@
 "herocard.passive_skill.title.insanitydamagereduction","古神的标记"
 "herocard.passive_skill.title.iterateeffectonspecial","施放特殊技能时有额外机会触发效果"
 "herocard.passive_skill.title.league_accuracy_modifier_against_family","锦标赛劣势"
+"herocard.passive_skill.title.league_featured_family_resist","锦标赛优势"
 "herocard.passive_skill.title.league_heal_modifier_against_family","锦标赛劣势"
 "herocard.passive_skill.title.league_heal_modifier_for_family","锦标赛优势"
 "herocard.passive_skill.title.league_received_damage_modifier_against_non_featured_family","锦标赛优势"
-"herocard.passive_skill.title.league_resist_debuffs_manareduction_dispels","锦标赛优势"
 "herocard.passive_skill.title.manadebuffprotection","法力生成异常防护"
 "herocard.passive_skill.title.managenerationmodifier.all.enemies","减少特殊技能获得的法力"
 "herocard.passive_skill.title.manaonownfamiliardeath.minion","小兵死亡时获得法力"
@@ -735,12 +768,15 @@
 "herocard.passive_skill.title.mimic_dread_damage_minions","恐惧"
 "herocard.passive_skill.title.mimiclootonlevelcompleted","拟态兽战利品"
 "herocard.passive_skill.title.nevermissspecial","完美精准度"
+"herocard.passive_skill.title.ransack","盗贼的良机"
 "herocard.passive_skill.title.reallocatestatuseffectonspecialcast.damage.minorbuff.newest","窃取增益"
 "herocard.passive_skill.title.reallocatestatuseffectonspecialcast.heal.minordebuff.newest","猎手的感官"
 "herocard.passive_skill.title.receivedstrongelementsupportcharacterdamage","队伍大师"
+"herocard.passive_skill.title.receivedstrongelementsupportcharacterdamage.increase.dragon","强化火球伤害提升"
+"herocard.passive_skill.title.redirectlethaldamage.enemies.single","死里逃生"
 "herocard.passive_skill.title.remove_growth_from_enemies","守卫集结"
 "herocard.passive_skill.title.remove_wither_from_allies","守卫集结"
-"herocard.passive_skill.title.repaircorechargeeffectonspecial.healthboost","修复核心"
+"herocard.passive_skill.title.repaircoreintrinsicchargeeffectonspecial.healthboost","修复核心"
 "herocard.passive_skill.title.repeat_special_once","好运"
 "herocard.passive_skill.title.resist.accuracymodifiers","抵抗致盲"
 "herocard.passive_skill.title.resist.alldebuffs","抵抗状态异常"
@@ -792,6 +828,7 @@
 "herocard.passive_skill.title.resistnewfamiliars.parasite.bigparasite","抵抗恶魔和超级恶魔"
 "herocard.passive_skill.title.resistsupportcharacter.troop.alldebuffs","抵抗状态异常"
 "herocard.passive_skill.title.revivalchancemodifier.all.enemies","降低复活几率"
+"herocard.passive_skill.title.revivalhealthmodifier.all.enemies.excluding.boss","复活生命值削减"
 "herocard.passive_skill.title.revive_chance_nine_lives","九条命"
 "herocard.passive_skill.title.reviveinalternativeformwithinsanitychance","邪神契约"
 "herocard.passive_skill.title.revivewithchance","复活"
@@ -858,4 +895,7 @@
 "herocard.passive_skill.title.titan_resist_16","泰坦"
 "herocard.passive_skill.title.titan_resist_17","泰坦"
 "herocard.passive_skill.title.toon_resist_debuffs_manareduction_dispels","卡通"
+"herocard.passive_skill.title.transformstatuseffectonspecialcast.minorbuff.enemies.all.transform_attackmodifier_into_attackmodifier.transform_defensemodifier_into_defensemodifier.transform_managenerationmodifier_into_defensemodifier","转换增益"
+"herocard.passive_skill.title.transformstatuseffectonspecialcast.minorbuff.enemies.all.transform_attackmodifier_into_attackmodifier.transform_defensemodifier_into_defensemodifier.transform_managenerationmodifier_into_managenerationmodifier","转换增益"
+"herocard.passive_skill.title.transformstatuseffectonspecialcast.minordebuff.allies.all.transform_attackmodifier_into_attackmodifier.transform_defensemodifier_into_defensemodifier.transform_managenerationmodifier_into_managenerationmodifier","转换状态异常"
 "herocard.passive_skill.title.wither.all.enemies","衰退"

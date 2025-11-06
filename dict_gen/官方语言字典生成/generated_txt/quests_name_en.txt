@@ -87,7 +87,7 @@
 "quests.name.monster_island_horde_small_red","Small Camo Lizard Horde"
 "quests.name.monster_island_horde_small_yellow","Small Beetloid Horde"
 "quests.name.moths","Night of the Moth"
-"quests.name.musketeers","Brave Musketeers"
+"quests.name.musketeers","The Brave & The Beautiful"
 "quests.name.ninja","Ninja Tower"
 "quests.name.ninja_impossible","Ninja Tower: Impossible"
 "quests.name.opera","Secrets of the Opera"

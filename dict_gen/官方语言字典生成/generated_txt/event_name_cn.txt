@@ -1,6 +1,6 @@
 "event.name.alliancequestcastle","骑士冲击"
 "event.name.alliancequestmoths","飞蛾之夜"
-"event.name.alliancequestmusketeers","英勇火枪手"
+"event.name.alliancequestmusketeers","勇者与美人"
 "event.name.chess","国际象棋活动"
 "event.name.covenantquest1","盟约任务"
 "event.name.covenantquest2","盟约任务"

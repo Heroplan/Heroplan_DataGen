@@ -4724,6 +4724,7 @@
         "maxRareMonsterCountPerWave": 1,
         "rareMonsterType": "ChallengeEventRare",
         "stagesCanBeReplayed": true,
+        "isAllowedToHaveZeroRareSpawnChance": true,
         "energyType": "PveEnergy"
       },
       {
@@ -5244,6 +5245,7 @@
         "maxRareMonsterCountPerWave": 1,
         "rareMonsterType": "ChallengeEventRare",
         "stagesCanBeReplayed": true,
+        "isAllowedToHaveZeroRareSpawnChance": true,
         "energyType": "PveEnergy"
       },
       {
@@ -5761,6 +5763,7 @@
         "maxRareMonsterCountPerWave": 1,
         "rareMonsterType": "ChallengeEventRare",
         "stagesCanBeReplayed": true,
+        "isAllowedToHaveZeroRareSpawnChance": true,
         "energyType": "PveEnergy"
       },
       {
@@ -15934,7 +15937,7 @@
             "boosterItemRewards": [
               {
                 "type": "Item",
-                "id": "lottery_goblin_coin",
+                "id": "lottery_temple_coin",
                 "amount": 2
               },
               {
@@ -16064,7 +16067,7 @@
             "boosterItemRewards": [
               {
                 "type": "Item",
-                "id": "lottery_goblin_coin",
+                "id": "lottery_temple_coin",
                 "amount": 2
               },
               {
@@ -16194,7 +16197,7 @@
             "boosterItemRewards": [
               {
                 "type": "Item",
-                "id": "lottery_goblin_coin",
+                "id": "lottery_temple_coin",
                 "amount": 2
               },
               {
@@ -16262,8 +16265,8 @@
             "boosterItemRewards": [
               {
                 "type": "Item",
-                "id": "battle_antidote_potion",
-                "amount": 2
+                "id": "hero_limitbreak_rare_green",
+                "amount": 10
               },
               {
                 "type": "Item",
@@ -16333,7 +16336,7 @@
             "boosterItemRewards": [
               {
                 "type": "Item",
-                "id": "lottery_goblin_coin",
+                "id": "lottery_temple_coin",
                 "amount": 2
               },
               {
@@ -16473,7 +16476,7 @@
             "boosterItemRewards": [
               {
                 "type": "Item",
-                "id": "lottery_goblin_coin",
+                "id": "lottery_temple_coin",
                 "amount": 2
               },
               {
@@ -16618,7 +16621,7 @@
             "boosterItemRewards": [
               {
                 "type": "Item",
-                "id": "lottery_goblin_coin",
+                "id": "lottery_temple_coin",
                 "amount": 2
               },
               {
@@ -16708,7 +16711,7 @@
               },
               {
                 "type": "Item",
-                "id": "lottery_goblin_coin",
+                "id": "lottery_temple_coin",
                 "amount": 10
               },
               {
@@ -16862,7 +16865,7 @@
             "boosterItemRewards": [
               {
                 "type": "Item",
-                "id": "lottery_goblin_coin",
+                "id": "lottery_temple_coin",
                 "amount": 3
               },
               {
@@ -17024,7 +17027,7 @@
             "boosterItemRewards": [
               {
                 "type": "Item",
-                "id": "lottery_goblin_coin",
+                "id": "lottery_temple_coin",
                 "amount": 5
               },
               {
@@ -17184,7 +17187,7 @@
             "boosterItemRewards": [
               {
                 "type": "Item",
-                "id": "lottery_goblin_coin",
+                "id": "hero_limitbreak_epic_blue",
                 "amount": 5
               },
               {
@@ -17535,7 +17538,7 @@
             "boosterItemRewards": [
               {
                 "type": "Item",
-                "id": "lottery_goblin_coin",
+                "id": "lottery_temple_coin",
                 "amount": 5
               },
               {
@@ -18166,8 +18169,8 @@
             "boosterItemRewards": [
               {
                 "type": "Item",
-                "id": "lottery_wilderness_coin",
-                "amount": 2
+                "id": "hero_limitbreak_rare_purple",
+                "amount": 15
               },
               {
                 "type": "Item",
@@ -19139,7 +19142,7 @@
               "xpReward": 2115
             },
             "recommendedTeamPower": 3250,
-            "avatarReward": "xmas_dizzy",
+            "avatarReward": "xmas_krampus",
             "heroRewards": [],
             "itemRewards": [
               {
@@ -19157,8 +19160,8 @@
             "boosterItemRewards": [
               {
                 "type": "Item",
-                "id": "lottery_wilderness_coin",
-                "amount": 5
+                "id": "hero_limitbreak_epic_yellow",
+                "amount": 10
               },
               {
                 "type": "Item",
@@ -19800,7 +19803,7 @@
             "boosterItemRewards": [
               {
                 "type": "Item",
-                "id": "lottery_goblin_coin",
+                "id": "lottery_temple_coin",
                 "amount": 5
               },
               {
@@ -19883,7 +19886,7 @@
             "boosterItemRewards": [
               {
                 "type": "Item",
-                "id": "lottery_goblin_coin",
+                "id": "lottery_temple_coin",
                 "amount": 5
               },
               {
@@ -20049,7 +20052,7 @@
             "boosterItemRewards": [
               {
                 "type": "Item",
-                "id": "lottery_goblin_coin",
+                "id": "lottery_temple_coin",
                 "amount": 5
               },
               {
@@ -20214,7 +20217,7 @@
             "boosterItemRewards": [
               {
                 "type": "Item",
-                "id": "lottery_goblin_coin",
+                "id": "lottery_temple_coin",
                 "amount": 5
               },
               {
@@ -20391,7 +20394,7 @@
             "boosterItemRewards": [
               {
                 "type": "Item",
-                "id": "lottery_goblin_coin",
+                "id": "lottery_temple_coin",
                 "amount": 5
               },
               {
@@ -20557,7 +20560,7 @@
             "boosterItemRewards": [
               {
                 "type": "Item",
-                "id": "lottery_goblin_coin",
+                "id": "lottery_temple_coin",
                 "amount": 5
               },
               {
@@ -20734,7 +20737,7 @@
               },
               {
                 "type": "Item",
-                "id": "lottery_goblin_coin",
+                "id": "lottery_temple_coin",
                 "amount": 10
               },
               {
@@ -20978,7 +20981,7 @@
             "boosterItemRewards": [
               {
                 "type": "Item",
-                "id": "lottery_goblin_coin",
+                "id": "lottery_temple_coin",
                 "amount": 10
               },
               {
@@ -21162,7 +21165,7 @@
             "boosterItemRewards": [
               {
                 "type": "Item",
-                "id": "lottery_goblin_coin",
+                "id": "lottery_temple_coin",
                 "amount": 10
               },
               {
@@ -21784,7 +21787,7 @@
               "xpReward": 3650
             },
             "recommendedTeamPower": 4600,
-            "avatarReward": "xmas_krampus_costume_eager_devil",
+            "avatarReward": "christmas_florencia",
             "heroRewards": [
               {
                 "type": "Hero",
@@ -28601,6 +28604,7 @@
         "maxRareMonsterCountPerWave": 1,
         "rareMonsterType": "ChallengeEventRare",
         "stagesCanBeReplayed": true,
+        "isAllowedToHaveZeroRareSpawnChance": true,
         "energyType": "PveEnergy"
       },
       {
@@ -29088,6 +29092,7 @@
         "maxRareMonsterCountPerWave": 1,
         "rareMonsterType": "ChallengeEventRare",
         "stagesCanBeReplayed": true,
+        "isAllowedToHaveZeroRareSpawnChance": true,
         "energyType": "PveEnergy"
       },
       {
@@ -29579,6 +29584,7 @@
         "maxRareMonsterCountPerWave": 1,
         "rareMonsterType": "ChallengeEventRare",
         "stagesCanBeReplayed": true,
+        "isAllowedToHaveZeroRareSpawnChance": true,
         "energyType": "PveEnergy"
       },
       {
@@ -36833,6 +36839,7 @@
         "maxRareMonsterCountPerWave": 1,
         "rareMonsterType": "ChallengeEventRare",
         "stagesCanBeReplayed": true,
+        "isAllowedToHaveZeroRareSpawnChance": true,
         "energyType": "PveEnergy"
       },
       {
@@ -37327,6 +37334,7 @@
         "maxRareMonsterCountPerWave": 1,
         "rareMonsterType": "ChallengeEventRare",
         "stagesCanBeReplayed": true,
+        "isAllowedToHaveZeroRareSpawnChance": true,
         "energyType": "PveEnergy"
       },
       {
@@ -37816,6 +37824,7 @@
         "maxRareMonsterCountPerWave": 1,
         "rareMonsterType": "ChallengeEventRare",
         "stagesCanBeReplayed": true,
+        "isAllowedToHaveZeroRareSpawnChance": true,
         "energyType": "PveEnergy"
       },
       {
@@ -43733,6 +43742,7 @@
         "maxRareMonsterCountPerWave": 1,
         "rareMonsterType": "ChallengeEventRare",
         "stagesCanBeReplayed": true,
+        "isAllowedToHaveZeroRareSpawnChance": true,
         "energyType": "PveEnergy"
       },
       {
@@ -44277,6 +44287,7 @@
         "maxRareMonsterCountPerWave": 1,
         "rareMonsterType": "ChallengeEventRare",
         "stagesCanBeReplayed": true,
+        "isAllowedToHaveZeroRareSpawnChance": true,
         "energyType": "PveEnergy"
       },
       {
@@ -44821,6 +44832,7 @@
         "maxRareMonsterCountPerWave": 1,
         "rareMonsterType": "ChallengeEventRare",
         "stagesCanBeReplayed": true,
+        "isAllowedToHaveZeroRareSpawnChance": true,
         "energyType": "PveEnergy"
       },
       {
@@ -55224,6 +55236,7 @@
         "maxRareMonsterCountPerWave": 1,
         "rareMonsterType": "ChallengeEventRare",
         "stagesCanBeReplayed": true,
+        "isAllowedToHaveZeroRareSpawnChance": true,
         "energyType": "PveEnergy"
       },
       {
@@ -55741,6 +55754,7 @@
         "maxRareMonsterCountPerWave": 1,
         "rareMonsterType": "ChallengeEventRare",
         "stagesCanBeReplayed": true,
+        "isAllowedToHaveZeroRareSpawnChance": true,
         "energyType": "PveEnergy"
       },
       {
@@ -56253,6 +56267,7 @@
         "maxRareMonsterCountPerWave": 1,
         "rareMonsterType": "ChallengeEventRare",
         "stagesCanBeReplayed": true,
+        "isAllowedToHaveZeroRareSpawnChance": true,
         "energyType": "PveEnergy"
       },
       {
@@ -56829,7 +56844,7 @@
                       "id": "musketeer_assassin_purple"
                     },
                     {
-                      "id": "Valiant Valet",
+                      "id": "Bloom of the Bewitched Castle",
                       "lvl": 25
                     },
                     {
@@ -56838,7 +56853,7 @@
                   ]
                 }
               ],
-              "battlegroundId": "MusketeerMarket",
+              "battlegroundId": "BeautyBeastCastle",
               "foodReward": 0,
               "ironReward": 0,
               "recruitsReward": 2,
@@ -56876,7 +56891,7 @@
                       "id": "musketeer_thug_blue"
                     },
                     {
-                      "id": "Pompous Duke",
+                      "id": "The Faithful Protector",
                       "lvl": 30
                     },
                     {
@@ -56885,7 +56900,7 @@
                   ]
                 }
               ],
-              "battlegroundId": "MusketeerStreet",
+              "battlegroundId": "BeautyBeastCastle",
               "foodReward": 0,
               "ironReward": 0,
               "recruitsReward": 3,
@@ -56924,7 +56939,7 @@
                       "lvl": 35
                     },
                     {
-                      "id": "Veteran Musketeer",
+                      "id": "Veteran Musketeer-Farrier Musketeer",
                       "lvl": 35
                     }
                   ]
@@ -56965,15 +56980,15 @@
                   "waveFormationId": "fixed_2",
                   "monsterDefinitions": [
                     {
-                      "id": "Romantic Musketeer"
+                      "id": "Romantic Musketeer-Boulanger Musketeer"
                     },
                     {
-                      "id": "Jolly Musketeer"
+                      "id": "Jolly Musketeer-Merchant Musketeer"
                     }
                   ]
                 }
               ],
-              "battlegroundId": "MusketeerStreet",
+              "battlegroundId": "BeautyBeastCastle",
               "foodReward": 0,
               "ironReward": 0,
               "recruitsReward": 3,
@@ -57011,12 +57026,12 @@
                       "id": "Elegant Monarch"
                     },
                     {
-                      "id": "Valiant Valet"
+                      "id": "Bloom of the Bewitched Castle"
                     }
                   ]
                 }
               ],
-              "battlegroundId": "MusketeerMarket",
+              "battlegroundId": "BeautyBeastCastle",
               "foodReward": 0,
               "ironReward": 0,
               "recruitsReward": 3,
@@ -57058,12 +57073,12 @@
                       "lvl": 50
                     },
                     {
-                      "id": "Romantic Musketeer"
+                      "id": "Romantic Musketeer-Boulanger Musketeer"
                     }
                   ]
                 }
               ],
-              "battlegroundId": "MusketeerStreet",
+              "battlegroundId": "BeautyBeastCastle",
               "foodReward": 0,
               "ironReward": 0,
               "recruitsReward": 4,
@@ -57098,7 +57113,7 @@
                   "waveFormationId": "boss_3_A_big",
                   "monsterDefinitions": [
                     {
-                      "id": "Veteran Musketeer",
+                      "id": "Veteran Musketeer-Farrier Musketeer",
                       "lvl": 51
                     },
                     {
@@ -57106,7 +57121,7 @@
                       "lvl": 51
                     },
                     {
-                      "id": "Jolly Musketeer",
+                      "id": "Jolly Musketeer-Merchant Musketeer",
                       "lvl": 51
                     }
                   ]
@@ -57147,11 +57162,11 @@
                   "waveFormationId": "boss_3_A_big",
                   "monsterDefinitions": [
                     {
-                      "id": "Ardent Musketeer",
+                      "id": "Bloom of the Bewitched Castle",
                       "lvl": 60
                     },
                     {
-                      "id": "Veteran Musketeer",
+                      "id": "The Faithful Protector",
                       "lvl": 60
                     },
                     {
@@ -57161,7 +57176,7 @@
                   ]
                 }
               ],
-              "battlegroundId": "MusketeerStreet",
+              "battlegroundId": "BeautyBeastCastle",
               "foodReward": 0,
               "ironReward": 0,
               "recruitsReward": 4,
@@ -57196,11 +57211,11 @@
                   "waveFormationId": "boss_3_A_big",
                   "monsterDefinitions": [
                     {
-                      "id": "Romantic Musketeer",
+                      "id": "Romantic Musketeer-Boulanger Musketeer",
                       "lvl": 61
                     },
                     {
-                      "id": "Jolly Musketeer",
+                      "id": "Jolly Musketeer-Merchant Musketeer",
                       "lvl": 61
                     },
                     {
@@ -57245,21 +57260,21 @@
                   "waveFormationId": "boss_3_A_big",
                   "monsterDefinitions": [
                     {
-                      "id": "Veteran Musketeer",
+                      "id": "Bloom of the Bewitched Castle",
                       "lvl": 71
                     },
                     {
-                      "id": "Ardent Musketeer",
+                      "id": "Lonely Prince of the Bewitched Castle",
                       "lvl": 71
                     },
                     {
-                      "id": "Romantic Musketeer",
+                      "id": "The Faithful Protector",
                       "lvl": 71
                     }
                   ]
                 }
               ],
-              "battlegroundId": "MusketeerStreet",
+              "battlegroundId": "BeautyBeastCastle",
               "foodReward": 0,
               "ironReward": 0,
               "recruitsReward": 4,
@@ -57281,7 +57296,9 @@
         "progressChests": [
           "loot_alliance_quest_easy"
         ],
+        "rareMonsterType": "AllianceQuest2Rare",
         "stagesCanBeReplayed": true,
+        "isAllowedToHaveZeroRareSpawnChance": true,
         "energyType": "PveEnergy"
       },
       {
@@ -57321,7 +57338,7 @@
                       "id": "musketeer_assassin_purple"
                     },
                     {
-                      "id": "Valiant Valet",
+                      "id": "Bloom of the Bewitched Castle",
                       "lvl": 85
                     },
                     {
@@ -57330,7 +57347,7 @@
                   ]
                 }
               ],
-              "battlegroundId": "MusketeerMarket",
+              "battlegroundId": "BeautyBeastCastle",
               "foodReward": 0,
               "ironReward": 0,
               "recruitsReward": 3,
@@ -57368,7 +57385,7 @@
                       "id": "musketeer_thug_blue"
                     },
                     {
-                      "id": "Pompous Duke",
+                      "id": "The Faithful Protector",
                       "lvl": 90
                     },
                     {
@@ -57377,7 +57394,7 @@
                   ]
                 }
               ],
-              "battlegroundId": "MusketeerStreet",
+              "battlegroundId": "BeautyBeastCastle",
               "foodReward": 0,
               "ironReward": 0,
               "recruitsReward": 4,
@@ -57416,7 +57433,7 @@
                       "lvl": 90
                     },
                     {
-                      "id": "Veteran Musketeer",
+                      "id": "Veteran Musketeer-Farrier Musketeer",
                       "lvl": 90
                     }
                   ]
@@ -57457,17 +57474,17 @@
                   "waveFormationId": "fixed_2",
                   "monsterDefinitions": [
                     {
-                      "id": "Romantic Musketeer",
+                      "id": "Romantic Musketeer-Boulanger Musketeer",
                       "lvl": 99
                     },
                     {
-                      "id": "Jolly Musketeer",
+                      "id": "Jolly Musketeer-Merchant Musketeer",
                       "lvl": 99
                     }
                   ]
                 }
               ],
-              "battlegroundId": "MusketeerStreet",
+              "battlegroundId": "BeautyBeastCastle",
               "foodReward": 0,
               "ironReward": 0,
               "recruitsReward": 5,
@@ -57506,13 +57523,13 @@
                       "lvl": 109
                     },
                     {
-                      "id": "Valiant Valet",
+                      "id": "Bloom of the Bewitched Castle",
                       "lvl": 109
                     }
                   ]
                 }
               ],
-              "battlegroundId": "MusketeerMarket",
+              "battlegroundId": "BeautyBeastCastle",
               "foodReward": 0,
               "ironReward": 0,
               "recruitsReward": 5,
@@ -57555,13 +57572,13 @@
                       "lvl": 100
                     },
                     {
-                      "id": "Romantic Musketeer",
+                      "id": "Romantic Musketeer-Boulanger Musketeer",
                       "lvl": 100
                     }
                   ]
                 }
               ],
-              "battlegroundId": "MusketeerStreet",
+              "battlegroundId": "BeautyBeastCastle",
               "foodReward": 0,
               "ironReward": 0,
               "recruitsReward": 6,
@@ -57596,7 +57613,7 @@
                   "waveFormationId": "boss_3_A_big",
                   "monsterDefinitions": [
                     {
-                      "id": "Veteran Musketeer",
+                      "id": "Veteran Musketeer-Farrier Musketeer",
                       "lvl": 110
                     },
                     {
@@ -57604,7 +57621,7 @@
                       "lvl": 110
                     },
                     {
-                      "id": "Jolly Musketeer",
+                      "id": "Jolly Musketeer-Merchant Musketeer",
                       "lvl": 110
                     }
                   ]
@@ -57645,11 +57662,11 @@
                   "waveFormationId": "boss_3_A_big",
                   "monsterDefinitions": [
                     {
-                      "id": "Ardent Musketeer",
+                      "id": "Bloom of the Bewitched Castle",
                       "lvl": 120
                     },
                     {
-                      "id": "Veteran Musketeer",
+                      "id": "The Faithful Protector",
                       "lvl": 120
                     },
                     {
@@ -57659,7 +57676,7 @@
                   ]
                 }
               ],
-              "battlegroundId": "MusketeerStreet",
+              "battlegroundId": "BeautyBeastCastle",
               "foodReward": 0,
               "ironReward": 0,
               "recruitsReward": 6,
@@ -57694,7 +57711,7 @@
                   "waveFormationId": "boss_3_A_big",
                   "monsterDefinitions": [
                     {
-                      "id": "Romantic Musketeer",
+                      "id": "Romantic Musketeer-Boulanger Musketeer",
                       "lvl": 125
                     },
                     {
@@ -57743,21 +57760,21 @@
                   "waveFormationId": "boss_3_A_big",
                   "monsterDefinitions": [
                     {
-                      "id": "Veteran Musketeer",
+                      "id": "Bloom of the Bewitched Castle",
                       "lvl": 152
                     },
                     {
-                      "id": "Ardent Musketeer",
+                      "id": "Lonely Prince of the Bewitched Castle",
                       "lvl": 152
                     },
                     {
-                      "id": "Romantic Musketeer",
+                      "id": "The Faithful Protector",
                       "lvl": 152
                     }
                   ]
                 }
               ],
-              "battlegroundId": "MusketeerStreet",
+              "battlegroundId": "BeautyBeastCastle",
               "foodReward": 0,
               "ironReward": 0,
               "recruitsReward": 6,
@@ -57780,7 +57797,9 @@
           "loot_alliance_quest_normal"
         ],
         "minimumAllianceScore": 2500000,
+        "rareMonsterType": "AllianceQuest2Rare",
         "stagesCanBeReplayed": true,
+        "isAllowedToHaveZeroRareSpawnChance": true,
         "energyType": "PveEnergy"
       },
       {
@@ -57820,7 +57839,7 @@
                       "id": "musketeer_assassin_purple"
                     },
                     {
-                      "id": "Valiant Valet",
+                      "id": "Bloom of the Bewitched Castle",
                       "lvl": 133
                     },
                     {
@@ -57829,7 +57848,7 @@
                   ]
                 }
               ],
-              "battlegroundId": "MusketeerMarket",
+              "battlegroundId": "BeautyBeastCastle",
               "foodReward": 0,
               "ironReward": 0,
               "recruitsReward": 5,
@@ -57867,7 +57886,7 @@
                       "id": "musketeer_thug_blue"
                     },
                     {
-                      "id": "Pompous Duke",
+                      "id": "The Faithful Protector",
                       "lvl": 134
                     },
                     {
@@ -57876,7 +57895,7 @@
                   ]
                 }
               ],
-              "battlegroundId": "MusketeerStreet",
+              "battlegroundId": "BeautyBeastCastle",
               "foodReward": 0,
               "ironReward": 0,
               "recruitsReward": 6,
@@ -57915,7 +57934,7 @@
                       "lvl": 130
                     },
                     {
-                      "id": "Veteran Musketeer",
+                      "id": "Veteran Musketeer-Farrier Musketeer",
                       "lvl": 130
                     }
                   ]
@@ -57956,15 +57975,15 @@
                   "waveFormationId": "fixed_2",
                   "monsterDefinitions": [
                     {
-                      "id": "Romantic Musketeer"
+                      "id": "Romantic Musketeer-Boulanger Musketeer"
                     },
                     {
-                      "id": "Jolly Musketeer"
+                      "id": "Jolly Musketeer-Merchant Musketeer"
                     }
                   ]
                 }
               ],
-              "battlegroundId": "MusketeerStreet",
+              "battlegroundId": "BeautyBeastCastle",
               "foodReward": 0,
               "ironReward": 0,
               "recruitsReward": 7,
@@ -58003,13 +58022,13 @@
                       "lvl": 159
                     },
                     {
-                      "id": "Valiant Valet",
+                      "id": "Bloom of the Bewitched Castle",
                       "lvl": 159
                     }
                   ]
                 }
               ],
-              "battlegroundId": "MusketeerMarket",
+              "battlegroundId": "BeautyBeastCastle",
               "foodReward": 0,
               "ironReward": 0,
               "recruitsReward": 7,
@@ -58052,13 +58071,13 @@
                       "lvl": 155
                     },
                     {
-                      "id": "Romantic Musketeer",
+                      "id": "Romantic Musketeer-Boulanger Musketeer",
                       "lvl": 155
                     }
                   ]
                 }
               ],
-              "battlegroundId": "MusketeerStreet",
+              "battlegroundId": "BeautyBeastCastle",
               "foodReward": 0,
               "ironReward": 0,
               "recruitsReward": 8,
@@ -58093,7 +58112,7 @@
                   "waveFormationId": "boss_3_A_big",
                   "monsterDefinitions": [
                     {
-                      "id": "Veteran Musketeer",
+                      "id": "Veteran Musketeer-Farrier Musketeer",
                       "lvl": 160
                     },
                     {
@@ -58101,7 +58120,7 @@
                       "lvl": 160
                     },
                     {
-                      "id": "Jolly Musketeer",
+                      "id": "Jolly Musketeer-Merchant Musketeer",
                       "lvl": 160
                     }
                   ]
@@ -58142,11 +58161,11 @@
                   "waveFormationId": "boss_3_A_big",
                   "monsterDefinitions": [
                     {
-                      "id": "Ardent Musketeer",
+                      "id": "Bloom of the Bewitched Castle",
                       "lvl": 169
                     },
                     {
-                      "id": "Veteran Musketeer",
+                      "id": "The Faithful Protector",
                       "lvl": 169
                     },
                     {
@@ -58156,7 +58175,7 @@
                   ]
                 }
               ],
-              "battlegroundId": "MusketeerStreet",
+              "battlegroundId": "BeautyBeastCastle",
               "foodReward": 0,
               "ironReward": 0,
               "recruitsReward": 8,
@@ -58191,10 +58210,10 @@
                   "waveFormationId": "boss_3_A_big",
                   "monsterDefinitions": [
                     {
-                      "id": "Romantic Musketeer"
+                      "id": "Romantic Musketeer-Boulanger Musketeer"
                     },
                     {
-                      "id": "Jolly Musketeer"
+                      "id": "Jolly Musketeer-Merchant Musketeer"
                     },
                     {
                       "id": "Elegant Monarch"
@@ -58237,21 +58256,21 @@
                   "waveFormationId": "boss_3_A_big",
                   "monsterDefinitions": [
                     {
-                      "id": "Veteran Musketeer",
+                      "id": "Bloom of the Bewitched Castle",
                       "lvl": 185
                     },
                     {
-                      "id": "Ardent Musketeer",
+                      "id": "Lonely Prince of the Bewitched Castle",
                       "lvl": 185
                     },
                     {
-                      "id": "Romantic Musketeer",
+                      "id": "The Faithful Protector",
                       "lvl": 185
                     }
                   ]
                 }
               ],
-              "battlegroundId": "MusketeerStreet",
+              "battlegroundId": "BeautyBeastCastle",
               "foodReward": 0,
               "ironReward": 0,
               "recruitsReward": 8,
@@ -58274,7 +58293,9 @@
           "loot_alliance_quest_hard"
         ],
         "minimumAllianceScore": 10000000,
+        "rareMonsterType": "AllianceQuest2Rare",
         "stagesCanBeReplayed": true,
+        "isAllowedToHaveZeroRareSpawnChance": true,
         "energyType": "PveEnergy"
       },
       {
@@ -74458,6 +74479,7 @@
         "maxRareMonsterCountPerWave": 1,
         "rareMonsterType": "ChallengeEventRare",
         "stagesCanBeReplayed": true,
+        "isAllowedToHaveZeroRareSpawnChance": true,
         "energyType": "PveEnergy"
       },
       {
@@ -74989,6 +75011,7 @@
         "maxRareMonsterCountPerWave": 1,
         "rareMonsterType": "ChallengeEventRare",
         "stagesCanBeReplayed": true,
+        "isAllowedToHaveZeroRareSpawnChance": true,
         "energyType": "PveEnergy"
       },
       {
@@ -75517,6 +75540,7 @@
         "maxRareMonsterCountPerWave": 1,
         "rareMonsterType": "ChallengeEventRare",
         "stagesCanBeReplayed": true,
+        "isAllowedToHaveZeroRareSpawnChance": true,
         "energyType": "PveEnergy"
       },
       {
@@ -84360,6 +84384,7 @@
         "maxRareMonsterCountPerWave": 1,
         "rareMonsterType": "ChallengeEventRare",
         "stagesCanBeReplayed": true,
+        "isAllowedToHaveZeroRareSpawnChance": true,
         "energyType": "PveEnergy"
       },
       {
@@ -84844,6 +84869,7 @@
         "maxRareMonsterCountPerWave": 1,
         "rareMonsterType": "ChallengeEventRare",
         "stagesCanBeReplayed": true,
+        "isAllowedToHaveZeroRareSpawnChance": true,
         "energyType": "PveEnergy"
       },
       {
@@ -85329,6 +85355,7 @@
         "maxRareMonsterCountPerWave": 1,
         "rareMonsterType": "ChallengeEventRare",
         "stagesCanBeReplayed": true,
+        "isAllowedToHaveZeroRareSpawnChance": true,
         "energyType": "PveEnergy"
       },
       {
@@ -86407,6 +86434,7 @@
         "maxRareMonsterCountPerWave": 1,
         "rareMonsterType": "ChallengeEventRare",
         "stagesCanBeReplayed": true,
+        "isAllowedToHaveZeroRareSpawnChance": true,
         "energyType": "PveEnergy"
       },
       {
@@ -86881,6 +86909,7 @@
         "maxRareMonsterCountPerWave": 1,
         "rareMonsterType": "ChallengeEventRare",
         "stagesCanBeReplayed": true,
+        "isAllowedToHaveZeroRareSpawnChance": true,
         "energyType": "PveEnergy"
       },
       {
@@ -87356,6 +87385,7 @@
         "maxRareMonsterCountPerWave": 1,
         "rareMonsterType": "ChallengeEventRare",
         "stagesCanBeReplayed": true,
+        "isAllowedToHaveZeroRareSpawnChance": true,
         "energyType": "PveEnergy"
       },
       {
@@ -94233,6 +94263,7 @@
         "maxRareMonsterCountPerWave": 1,
         "rareMonsterType": "ChallengeEventRare",
         "stagesCanBeReplayed": true,
+        "isAllowedToHaveZeroRareSpawnChance": true,
         "energyType": "PveEnergy"
       },
       {
@@ -94717,6 +94748,7 @@
         "maxRareMonsterCountPerWave": 1,
         "rareMonsterType": "ChallengeEventRare",
         "stagesCanBeReplayed": true,
+        "isAllowedToHaveZeroRareSpawnChance": true,
         "energyType": "PveEnergy"
       },
       {
@@ -95206,6 +95238,7 @@
         "maxRareMonsterCountPerWave": 1,
         "rareMonsterType": "ChallengeEventRare",
         "stagesCanBeReplayed": true,
+        "isAllowedToHaveZeroRareSpawnChance": true,
         "energyType": "PveEnergy"
       },
       {
@@ -108522,6 +108555,7 @@
     },
     "starterQuestScoring": {
       "lootTicketPoints": 100,
+      "lootTicketPointsForAllianceQuest": 10000,
       "commonMonsterKillPoints": 500,
       "bossMonsterKillPoints": 2000,
       "rareMonsterKillPoints": 5000,
@@ -108666,6 +108700,12 @@
           "questLineId": "dragon_cave_classic",
           "startTime": "2026-02-20 07:00:00",
           "endTime": "2026-02-23 07:00:00"
+        },
+        {
+          "id": "dragon_cave_classic2026_3_20",
+          "questLineId": "dragon_cave_classic",
+          "startTime": "2026-03-20 07:00:00",
+          "endTime": "2026-03-23 07:00:00"
         }
       ]
     },
@@ -108673,5 +108713,5 @@
       "maxRareMonstersPerEvent": 100
     }
   },
-  "questsConfigId": 575078019
+  "questsConfigId": 3549472240
 }
