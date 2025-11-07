@@ -40852,7 +40852,13 @@ window.allHeroesExtra = [
         "speed": "charge_magic",
         "Release date": "2025-11-03",
         "AetherPower": "Counterattack",
-        "skill_types": [],
+        "skill_types": [
+            "AoE Attackers (Hit-5)",
+            "Extra Damage Dealers",
+            "Snipers",
+            "Mana Reducers or Blockers",
+            "Minions Counters"
+        ],
         "heroId": "magic_cristobal_costume_emerald",
         "baseAttack": 388,
         "baseDefense": 365,
@@ -40880,7 +40886,14 @@ window.allHeroesExtra = [
         "speed": "fast",
         "Release date": "2025-11-03",
         "AetherPower": "Defense Up",
-        "skill_types": [],
+        "skill_types": [
+            "Minions Counters",
+            "Snipers",
+            "Chain & Random Attackers",
+            "DoT Attackers",
+            "Extra Damage Dealers",
+            "Status Effect Conversion"
+        ],
         "heroId": "magic_carpet_shareef",
         "baseAttack": 649,
         "baseDefense": 616,
@@ -40891,5 +40904,25 @@ window.allHeroesExtra = [
             "fly_magic_carpet"
         ],
         "family": "magic_carpet"
+    },
+    {
+        "name": "Kadath",
+        "fancy name": "Accursed Clergyman",
+        "element": "Purple",
+        "rarity": 5,
+        "class": "Wizard",
+        "speed": "fast",
+        "Release date": "2025-11-06",
+        "AetherPower": "Bulwark",
+        "skill_types": [],
+        "heroId": "forsaken_kadath",
+        "baseAttack": 633,
+        "baseDefense": 616,
+        "baseHealth": 1093,
+        "specialId": "cult_of_arachnid",
+        "passiveSkills": [
+            "damage_increase_by_insanity"
+        ],
+        "family": "forsaken"
     }
 ];

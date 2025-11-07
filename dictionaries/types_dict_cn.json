@@ -922,5 +922,6 @@
   "Astral Orb to hit enemies": "星体法球攻击敌人",
   "Fiend 1": "召唤1个恶魔",
   "Increased Damage Debuff to hit targets": "对命中目标施加额外伤害减益",
-  "Dot to hit targets": "对命中目标施加持续伤害"
+  "Dot to hit targets": "对命中目标施加持续伤害",
+  "Fear Debuff 1": "施加恐惧减益 (单体)"
 }

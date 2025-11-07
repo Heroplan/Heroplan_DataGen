@@ -40904,5 +40904,33 @@ window.allHeroesExtra = [
             "fly_magic_carpet"
         ],
         "family": "magic_carpet"
+    },
+    {
+        "name": "Kadath",
+        "fancy name": "Accursed Clergyman",
+        "element": "Purple",
+        "rarity": 5,
+        "class": "Wizard",
+        "speed": "fast",
+        "Release date": "2025-11-06",
+        "AetherPower": "Bulwark",
+        "skill_types": [
+            "Snipers",
+            "Buffers (DEF)",
+            "Dispellers",
+            "Buff Blockers",
+            "Extra Damage Dealers",
+            "Mindless Attack & Mindless Heal",
+            "Negative Effects On Self Or Allies"
+        ],
+        "heroId": "forsaken_kadath",
+        "baseAttack": 633,
+        "baseDefense": 616,
+        "baseHealth": 1093,
+        "specialId": "cult_of_arachnid",
+        "passiveSkills": [
+            "damage_increase_by_insanity"
+        ],
+        "family": "forsaken"
     }
 ];

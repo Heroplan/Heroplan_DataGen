@@ -922,5 +922,6 @@
   "Astral Orb to hit enemies": "星界之珠攻擊敵人",
   "Fiend 1": "召喚1個惡魔",
   "Increased Damage Debuff to hit targets": "對命中目標施加額外傷害減益",
-  "Dot to hit targets": "對命中目標施加持續傷害"
+  "Dot to hit targets": "對命中目標施加持續傷害",
+  "Fear Debuff 1": "施加恐懼減益 (單體)"
 }

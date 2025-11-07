@@ -27808,5 +27808,23 @@
             "Defense": 1564,
             "Life": 2672
         }
+    },
+    "Kadath": {
+        "base": {
+            "Attack": 1303,
+            "Defense": 1268,
+            "Life": 2251,
+            "Power": 1251
+        },
+        "lb1": {
+            "Attack": 1405,
+            "Defense": 1367,
+            "Life": 2426
+        },
+        "lb2": {
+            "Attack": 1607,
+            "Defense": 1564,
+            "Life": 2776
+        }
     }
 }
