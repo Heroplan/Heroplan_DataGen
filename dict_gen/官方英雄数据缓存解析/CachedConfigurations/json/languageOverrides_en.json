@@ -4,6 +4,10 @@
       "Italian": {
         "overrideEntries": [
           {
+            "key": "herocard.passive_skill.description.reviveinalternativeformwithinsanitychance",
+            "text": "Se sconfitto, questo personaggio ha la possibilità di rinascere come [#!]Ospite sinistro[#]. La probabilità è di un [#!]{CHANCEINCREASEPERSTEP}%[#] per [#!]{INSANITYPERSTEP}[#] [#!]Follia[#] di questo personaggio, fino a una probabilità massima di un [#!]{MAXCHANCEINCREASE}%[#]. \n\nL'[#!]Ospite sinistro[#] ha:\n[*][#!]{INHERITEDHEALTH}%[#] Salute ereditata. \n[*][#!]{ATTACK}[#] Attacco.\n[*][#!]{DEFENSE}[#] Difesa.\n[*] Abilità speciale: [#!]Piaga sinistra[#].\n\nSe questo personaggio si sconfigge da sé quando attiva [#!]Follia[#], la probabilità di rinascere è sempre di un [#!]{CHANCEONSELFCAUSEDDEATH}%[#]."
+          },
+          {
             "key": "specials.v2.statuseffect.minor.receiveddamagemodifier.single.enemies.chain_strike",
             "text": "Tutti i bersagli colpiti subiscono il {DAMAGEMODIFIER}% di danni aumentati per {TURNS} turni."
           }
@@ -11,6 +15,10 @@
       },
       "Russian": {
         "overrideEntries": [
+          {
+            "key": "herocard.passive_skill.description.reviveinalternativeformwithinsanitychance",
+            "text": "При поражении герой имеет шанс возродиться в виде [#!]хозяина жути[#]. Шанс [#!]{CHANCEINCREASEPERSTEP} %[#] за [#!]{INSANITYPERSTEP}[#] ед. [#!]безумия[#] у героя, до максимума [#!]{MAXCHANCEINCREASE} %[#]. \n\n[#!]Хозяин жути[#] получает:\n[*][#!]{INHERITEDHEALTH} %[#]  здоровья от героя. \n[*][#!]{ATTACK}[#] атаки.\n[*][#!]{DEFENSE}[#] защиты.\n[*]Особый навык: [#!]\"Жуткое проклятие\"[#].\n\nЕсли во время активации [#!]безумия[#] герой уничтожает сам себя, то шанс становится равным [#!]{CHANCEONSELFCAUSEDDEATH} %[#]."
+          },
           {
             "key": "specials.v2.statuseffect.minor.receiveddamagemodifier.single.enemies.chain_strike",
             "text": "Все попавшие под удар цели получают {DAMAGEMODIFIER} % увеличенного урона на {TURNS} х."
@@ -20,6 +28,10 @@
       "Polish": {
         "overrideEntries": [
           {
+            "key": "herocard.passive_skill.description.reviveinalternativeformwithinsanitychance",
+            "text": "W przypadku porażki ta postać ma szanse na odrodzenie jako [#!]nadprzyrodzony nosiciel[#]. Szanse wynoszą [#!]{CHANCEINCREASEPERSTEP}%[#] za każde [#!]{INSANITYPERSTEP}[#] pkt. [#!]obłędu[#] tej postaci, maksymalnie do [#!]{MAXCHANCEINCREASE}%[#].\n\n [#!]Nadprzyrodzony nosiciel[#] ma:\n[*][#!]{INHERITEDHEALTH}%[#] odziedziczonego zdrowia. \n[*][#!]{ATTACK}[#] pkt. ataku.\n[*][#!]{DEFENSE}[#] pkt. obrony.\n[*]Umiejętność specjalna: [#!]Nadprzyrodzona plaga[#].\n\nJeśli ta postać pokona sama siebie, gdy aktywuje się [#!]obłęd[#], szanse wynoszą [#!]{CHANCEONSELFCAUSEDDEATH}%[#]."
+          },
+          {
             "key": "specials.v2.statuseffect.minor.receiveddamagemodifier.single.enemies.chain_strike",
             "text": "Wszystkie trafione cele otrzymują o {DAMAGEMODIFIER}% zwiększone obrażenia przez okres {TURNS} tur."
           }
@@ -27,6 +39,10 @@
       },
       "ChineseTraditional": {
         "overrideEntries": [
+          {
+            "key": "herocard.passive_skill.description.reviveinalternativeformwithinsanitychance",
+            "text": "如果被擊敗，此角色有機率重生為[#!]駭異宿主[#]。此角色每有[#!]{INSANITYPERSTEP}[#]點[#!]瘋狂[#]，該機率為[#!]{CHANCEINCREASEPERSTEP}%[#]，最高機率為[#!]{MAXCHANCEINCREASE}%[#]。\n\nThe [#!]駭異宿主[#]具有：\n[*][#!]{INHERITEDHEALTH}%[#]繼承生命。\n[*][#!]{ATTACK}[#]點攻擊。\n[*][#!]{DEFENSE}[#]點防禦。\n[*]特殊技能：[#!]駭異疫病[#]。\n\n在[#!]瘋狂[#]生效時，若此角色擊敗自己，重生的機率一律為[#!]{CHANCEONSELFCAUSEDDEATH}%[#]。"
+          },
           {
             "key": "specials.v2.statuseffect.minor.receiveddamagemodifier.single.enemies.chain_strike",
             "text": "被命中的所有敵人，受到的傷害增加{DAMAGEMODIFIER}% ，持續{TURNS}回合。"
@@ -36,6 +52,10 @@
       "Korean": {
         "overrideEntries": [
           {
+            "key": "herocard.passive_skill.description.reviveinalternativeformwithinsanitychance",
+            "text": "이 캐릭터는 패배 시 일정 확률로 [#!]엘드리히 호스트[#]로 부활할 수 있습니다. 그 확률은 이 캐릭터의 [#!]{INSANITYPERSTEP}[#] [#!]광기[#]당 [#!]{CHANCEINCREASEPERSTEP}%[#]이며 [#!]{MAXCHANCEINCREASE}%[#]를 초과할 수 없습니다. \n\n[#!]엘드리히 호스트[#]는 다음과 같은 특성을 갖습니다.\n[*][#!]{INHERITEDHEALTH}%[#] HP 계승. \n[*][#!]{ATTACK}[#] 공격력.\n[*][#!]{DEFENSE}[#] 방어력.\n[*]특수 스킬: [#!]Eldritch Blight[#].\n\n[#!]광기[#]가 활성화되어 이 캐릭터가 스스로 쓰러지면 그 확률은 [#!]{CHANCEONSELFCAUSEDDEATH}%[#]입니다."
+          },
+          {
             "key": "specials.v2.statuseffect.minor.receiveddamagemodifier.single.enemies.chain_strike",
             "text": "모든 대상은 {TURNS}턴 동안 {DAMAGEMODIFIER}% 추가 피해를 받습니다."
           }
@@ -43,6 +63,10 @@
       },
       "German": {
         "overrideEntries": [
+          {
+            "key": "herocard.passive_skill.description.reviveinalternativeformwithinsanitychance",
+            "text": "Wenn er besiegt wurde, hat dieser Charakter eine Chance, als [#!]Gespenstischer Wirt[#] wiedergeboren zu werden. Die Chance beträgt [#!]{CHANCEINCREASEPERSTEP} %[#] pro [#!]{INSANITYPERSTEP}[#] [#!]Wahnsinn[#] auf diesem Charakter, bis zu maximal {MAXCHANCEINCREASE} %.\n\nDer [#!]Gespenstische Wirt[#] hat:\n[*][#!]{INHERITEDHEALTH} %[#] vererbtes Leben. \n[*][#!]{ATTACK}[#] Angriff.\n[*][#!]{DEFENSE}[#] Verteidigung.\n[*]Spezialfähigkeit: [#!]Gespentische Fäule[#].\n\nWenn sich dieser Charakter bei Aktivierung von [#!]Wahnsinn[#] selbst besiegt, beträgt die Chance [#!]{CHANCEONSELFCAUSEDDEATH} %[#]."
+          },
           {
             "key": "specials.v2.statuseffect.minor.receiveddamagemodifier.single.enemies.chain_strike",
             "text": "Alle Ziele erhalten für {TURNS} Runden {DAMAGEMODIFIER} % mehr Schaden."
@@ -52,6 +76,10 @@
       "Japanese": {
         "overrideEntries": [
           {
+            "key": "herocard.passive_skill.description.reviveinalternativeformwithinsanitychance",
+            "text": "このキャラクターが倒されると、一定確率で[#!]エルドリッチの主人[#]として復活する。この確率はこのキャラクターに付与されている[#!]{INSANITYPERSTEP}[#][#!]狂気[#]につき[#!]{CHANCEINCREASEPERSTEP}%[#]となる。最大で[#!]{MAXCHANCEINCREASE}%[#]まで。\n\n[#!]エルドリッチの主人[#]のステータス：\n[*]キャラクターのライフの[#!]{INHERITEDHEALTH}%[#]を継承。\n[*]攻撃力[#!]{ATTACK}[#]。\n[*]防御力[#!]{DEFENSE}[#]。\n[*]特殊スキル：[#!]エルドリッチの荒廃[#]。\n\n[#!]狂気[#]を発動してこのキャラクターが自身を倒した場合、復活する可能性が常に[#!]{CHANCEONSELFCAUSEDDEATH}%[#]になる。"
+          },
+          {
             "key": "specials.v2.statuseffect.minor.receiveddamagemodifier.single.enemies.chain_strike",
             "text": "攻撃を受けたターゲット全員が{TURNS}ターンの間、{DAMAGEMODIFIER}%の増加ダメージを受ける。"
           }
@@ -59,6 +87,10 @@
       },
       "Swedish": {
         "overrideEntries": [
+          {
+            "key": "herocard.passive_skill.description.reviveinalternativeformwithinsanitychance",
+            "text": "Om den här karaktären besegras har den en chans att återfödas som en [#!]kuslig värd[#]. Chansen är [#!]{CHANCEINCREASEPERSTEP} %[#] per [#!]{INSANITYPERSTEP}[#] [#!]vansinne[#] på den här karaktären, upp till en maximal chans på [#!]{MAXCHANCEINCREASE} %[#].\n\nDen [#!]kusliga värden[#] har:\n[*][#!]{INHERITEDHEALTH} %[#] ärvd hälsa.\n[*][#!]{ATTACK}[#] attack.\n[*][#!]{DEFENSE}[#] försvar.\n[*]Specialförmåga: [#!]Kusligt fördärv[#].\n\nOm den här karaktären besegrar sig själv när [#!]vansinne[#] aktiveras är chansen att återfödas [#!]{CHANCEONSELFCAUSEDDEATH} %[#]."
+          },
           {
             "key": "specials.v2.statuseffect.minor.receiveddamagemodifier.single.enemies.chain_strike",
             "text": "Alla mål som träffas tar {DAMAGEMODIFIER} % mer skada i {TURNS} rundor"
@@ -68,6 +100,10 @@
       "Turkish": {
         "overrideEntries": [
           {
+            "key": "herocard.passive_skill.description.reviveinalternativeformwithinsanitychance",
+            "text": "Bu karakterin yenildiğinde [#!]Tuhaf Konak[#] olarak dirilme şansı vardır. Şans, karakter üzerindeki {INSANITYPERSTEP} [#!]Delilik[#] başına en fazla [#!]%{MAXCHANCEINCREASE}[#] olmak üzere %{CHANCEINCREASEPERSTEP} oranındadır. \n\n[#!]Tuhaf Konak[#] şunlara sahiptir:\n[*][#!]%{INHERITEDHEALTH}[#] devralınan sağlık. \n[*][#!]{ATTACK}[#] saldırı.\n[*][#!]{DEFENSE}[#] savunma.\n[*]Özel Yetenek: [#!]Tuhaf Felaket[#].\n\nBu karakter [#!]Deliliği[#] etkinleştirirken kendini alt ederse yeniden dirilme şansı her zaman [#!]%{CHANCEONSELFCAUSEDDEATH}[#] olur."
+          },
+          {
             "key": "specials.v2.statuseffect.minor.receiveddamagemodifier.single.enemies.chain_strike",
             "text": "İsabet alan tüm hedefler {TURNS} tur boyunca %{DAMAGEMODIFIER} artırılmış hasar alır."
           }
@@ -76,13 +112,25 @@
       "English": {
         "overrideEntries": [
           {
+            "key": "herocard.passive_skill.description.reviveinalternativeformwithinsanitychance",
+            "text": "If defeated, this character has a chance to be reborn as an [#!]Eldritch Host[#]. The chance is [#!]{CHANCEINCREASEPERSTEP}%[#] per [#!]{INSANITYPERSTEP}[#] [#!]Insanity[#] on this character, up to a maximum chance of [#!]{MAXCHANCEINCREASE}%[#]. \n\nThe [#!]Eldritch Host[#] has:\n[*][#!]{INHERITEDHEALTH}%[#] inherited health. \n[*][#!]{ATTACK}[#] attack.\n[*][#!]{DEFENSE}[#] defense.\n[*]Special Skill: [#!]Eldritch Blight[#].\n\nIf this character defeats themself when activating [#!]Insanity[#], the chance to be reborn is always [#!]{CHANCEONSELFCAUSEDDEATH}%[#]."
+          },
+          {
             "key": "specials.v2.statuseffect.minor.receiveddamagemodifier.single.enemies.chain_strike",
             "text": "All hit targets get {DAMAGEMODIFIER}% increased damage for {TURNS} turns."
+          },
+          {
+            "key": "herocard.passive_skill.description.transformstatuseffectonspecialcast.minorbuff.enemies.all.transform_attackmodifier_into_attackmodifier.transform_defensemodifier_into_defensemodifier.transform_managenerationmodifier_into_managenerationmodifier",
+            "text": "Each time this character casts their Special Skill, all dispellable buffs affecting attack, defense and mana generation on all enemies are transformed into matching undispellable status ailments.\n\n[#!]Transformed effects: [#]\n[*]Attack buffs are transformed into {STATUSEFFECT1ATTACK}% attack status ailments for {STATUSEFFECT1TURNS} turns.\n[*]Defense buffs are transformed into {STATUSEFFECT2DEFENSE}% defense status ailments for {STATUSEFFECT2TURNS} turns.\n[*]Mana generation buffs are transformed into {STATUSEFFECT3MANAREGEN}% mana generation status ailments for {STATUSEFFECT3TURNS} turns."
           }
         ]
       },
       "Arabic": {
         "overrideEntries": [
+          {
+            "key": "herocard.passive_skill.description.reviveinalternativeformwithinsanitychance",
+            "text": "عند هزيمتها، تتمتع هذه الشخصية بفرصة للعودة إلى الحياة باعتبارها [#!]مضيف الشعوذة[#]. تعتمد الفرصة على [#!]{CHANCEINCREASEPERSTEP}%[#] لكل [#!]{INSANITYPERSTEP}[#] من [#!]الجنون[#] لدى هذه الشخصية، بحد أقصى قدره [#!]{MAXCHANCEINCREASE}%[#].\n\nيتمتع [#!]مضيف الشعوذة[#] بنسبة:\n[*][#!]{INHERITEDHEALTH}%[#] من الصحة الموروثة.\n[*][#!]{ATTACK}[#] من الهجوم.\n[*][#!]{DEFENSE}[#] من الدفاع.\n[*]المهارة الخاصة: [#!]لعنة الشعوذة[#]. إذا هزمت هذه الشخصية نفسها عند تفعيل [#!]الجنون[#]، فإن فرصة إعادة الإحياء دائمًا تكون [#!]{CHANCEONSELFCAUSEDDEATH}%[#]."
+          },
           {
             "key": "specials.v2.statuseffect.minor.receiveddamagemodifier.single.enemies.chain_strike",
             "text": "جميع الأهداف المصابة تحصل على زيادة في الضرر بنسبة {DAMAGEMODIFIER}% لمدة {TURNS} من الجولات"
@@ -92,6 +140,10 @@
       "French": {
         "overrideEntries": [
           {
+            "key": "herocard.passive_skill.description.reviveinalternativeformwithinsanitychance",
+            "text": "S'il est vaincu, ce personnage a une chance de renaître sous la forme d'un [#!]hôte fantasmagorique[#]. La probabilité est de [#!]{CHANCEINCREASEPERSTEP} %[#] pour chaque tranche de [#!]{INSANITYPERSTEP}[#] point(s) de [#!]folie[#] sur le personnage, jusqu'à un maximum de [#!]{MAXCHANCEINCREASE} % [#].\n\nL'[#!]hôte fantasmagorique[#] a :\n[*][#!]{INHERITEDHEALTH} %[#] de santé héritée.\n[*][#!]{ATTACK}[#] points d'attaque.\n[*][#!]{DEFENSE}[#] points de défense.\n[*]Compétence spéciale : [#!]Fléau fantasmagorique[#].\n\nSi le personnage s'élimine lui-même lors de l'activation de la [#!]folie[#], la probabilité est de [#!]{CHANCEONSELFCAUSEDDEATH} %[#]."
+          },
+          {
             "key": "specials.v2.statuseffect.minor.receiveddamagemodifier.single.enemies.chain_strike",
             "text": "Toutes les cibles touchées subissent {DAMAGEMODIFIER} % de dégâts supplémentaires pendant {TURNS} tours."
           }
@@ -99,6 +151,10 @@
       },
       "Portuguese": {
         "overrideEntries": [
+          {
+            "key": "herocard.passive_skill.description.reviveinalternativeformwithinsanitychance",
+            "text": "Quando é derrotado, este personagem pode renascer como [#!]Hospedeiro Místico[#]. A chance é de [#!]{CHANCEINCREASEPERSTEP}%[#] por [#!]{INSANITYPERSTEP}[#] [#!]Insanidade[#] do personagem, até o limite de [#!]{MAXCHANCEINCREASE}%[#] de chance. \n\nO [#!]Hospedeiro Místico[#] tem:\n[*] [#!]{INHERITEDHEALTH}%[#] de vida herdada\n[*] [#!]{ATTACK}[#] de ataque\n[*] [#!]{DEFENSE}[#] de defesa\n[*]Habilidade especial: [#!]Flagelo Místico[#].\n\nQuando este personagem derrota a si mesmo ao ativar  [#!]Insanidade[#], a chance de renascer é sempre [#!]{CHANCEONSELFCAUSEDDEATH}%[#]."
+          },
           {
             "key": "specials.v2.statuseffect.minor.receiveddamagemodifier.single.enemies.chain_strike",
             "text": "Todos os alvos recebem {DAMAGEMODIFIER}% mais dano por {TURNS} turnos."
@@ -108,6 +164,10 @@
       "Indonesian": {
         "overrideEntries": [
           {
+            "key": "herocard.passive_skill.description.reviveinalternativeformwithinsanitychance",
+            "text": "Jika kalah, karakter ini berpeluang terlahir sebagai [#!]Inang Eldritch[#]. Peluangnya [#!]{CHANCEINCREASEPERSTEP}%[#] per [#!]{INSANITYPERSTEP}[#] [#!]Kegilaan[#] pada karakter ini, hingga peluang maks [#!]{MAXCHANCEINCREASE}%[#].\n\n[#!]Inang Eldritch[#] memiliki \n[*]{INHERITEDHEALTH}% kesehatan yang diwarisi. \n[*][#!]{ATTACK}[#] serangan.\n[*][#!]{DEFENSE}[#] pertahanan.\n[*]Keahlian Khusus: [#!]Penyakit Eldritch[#].\n\nJika karakter ini mengalahan diri sendiri saat [#!]Kegilaan[#] diaktifkan, peluangnya untuk terlahir kembali selalu [#!]{CHANCEONSELFCAUSEDDEATH}%[#]."
+          },
+          {
             "key": "specials.v2.statuseffect.minor.receiveddamagemodifier.single.enemies.chain_strike",
             "text": "Semua sasaran yang terkena mengalami {DAMAGEMODIFIER}% peningkatan kerusakan selama {TURNS} giliran"
           }
@@ -115,6 +175,10 @@
       },
       "Finnish": {
         "overrideEntries": [
+          {
+            "key": "herocard.passive_skill.description.reviveinalternativeformwithinsanitychance",
+            "text": "Jos tämä hahmo kukistuu, hänellä on mahdollisuus syntyä uudelleen [#!]ikiaikaisena oliona[#]. Mahdollisuus on [#!]{CHANCEINCREASEPERSTEP} %[#] jokaista tällä hahmolla olevaa [#!]{INSANITYPERSTEP}[#] [#!]hulluuspistettä[#] kohti, yhteensä enintään [#!]{MAXCHANCEINCREASE} %[#]. \n\n[#!]Ikiaikaisella oliolla[#] on:\n[*][#!]{INHERITEDHEALTH} %[#] perittyä terveyttä. \n[*][#!]{ATTACK}[#] hyökkäystä.\n[*][#!]{DEFENSE}[#] puolustusta.\n[*]Erikoistaito: [#!]Ikiaikainen vitsaus[#].\n\nJos tämä hahmo kukistaa itsensä [#!]hulluuden[#] aktivoituessa, uudelleen syntymisen mahdollisuus on aina [#!]{CHANCEONSELFCAUSEDDEATH} %[#]."
+          },
           {
             "key": "specials.v2.statuseffect.minor.receiveddamagemodifier.single.enemies.chain_strike",
             "text": "Kaikki osutut kohteet kärsivät {DAMAGEMODIFIER} % enemmän vauriota {TURNS} vuoron ajan."
@@ -124,6 +188,10 @@
       "Danish": {
         "overrideEntries": [
           {
+            "key": "herocard.passive_skill.description.reviveinalternativeformwithinsanitychance",
+            "text": "Hvis denne figur bliver besejret, er der en chance for, at den genfødes som en [#!]sælsom vært[#]. Chancen er [#!]{CHANCEINCREASEPERSTEP} %[#] pr. [#!]{INSANITYPERSTEP}[#] [#!]vanvid[#] på denne figur op til maks. chance på [#!]{MAXCHANCEINCREASE} %[#]. \n\nDen [#!]sælsomme vært[#] har:\n[*][#!]{INHERITEDHEALTH} %[#] nedarvet helbred. \n[*][#!]{ATTACK}[#] angreb.\n[*][#!]{DEFENSE}[#] forsvar.\n[*]Særlig egenskab: [#!]Sælsomt fordærv[#]. \n\nHvis denne figur besejrer sig selv, når [#!]vanviddet[#] aktiveres, er chancen for at blive genfødt altid [#!]{CHANCEONSELFCAUSEDDEATH} %[#]."
+          },
+          {
             "key": "specials.v2.statuseffect.minor.receiveddamagemodifier.single.enemies.chain_strike",
             "text": "Alle ramte mål får {DAMAGEMODIFIER} % øget skade i {TURNS} runder"
           }
@@ -131,6 +199,10 @@
       },
       "Spanish": {
         "overrideEntries": [
+          {
+            "key": "herocard.passive_skill.description.reviveinalternativeformwithinsanitychance",
+            "text": "Si este personaje cae derrotado, tiene una probabilidad de renacer como [#!]huésped sobrenatural[#]. La probabilidad es del [#!]{CHANCEINCREASEPERSTEP} %[#] por cada [#!]{INSANITYPERSTEP}[#] de [#!]demencia[#] que tenga el personaje hasta un máximo del [#!]{MAXCHANCEINCREASE} %[#].\n\nEl [#!]huésped sobrenatural[#] tiene:\n[*] [#!]{INHERITEDHEALTH} %[#] de vitalidad heredada\n[*] [#!]{ATTACK}[#] de ataque\n[*] [#!]{DEFENSE}[#] de defensa\n[*] Habilidad especial: [#!]Plaga sobrenatural[#]\n\nSi este personaje cae derrotado cuando se activa la [#!]demencia[#], siempre tiene un [#!]{CHANCEONSELFCAUSEDDEATH} %[#] de probabilidad de renacer."
+          },
           {
             "key": "specials.v2.statuseffect.minor.receiveddamagemodifier.single.enemies.chain_strike",
             "text": "Todos los objetivos golpeados reciben un {DAMAGEMODIFIER} % más de daño durante {TURNS} turnos."
@@ -140,6 +212,10 @@
       "Norwegian": {
         "overrideEntries": [
           {
+            "key": "herocard.passive_skill.description.reviveinalternativeformwithinsanitychance",
+            "text": "Hvis den beseires, har denne figuren en sjanse til å bli gjenfødt som en [#!]uhyggelig vert[#]. Sjansen er [#!]{CHANCEINCREASEPERSTEP} %[#] per [#!]{INSANITYPERSTEP}[#] [#!]galskap[#] på denne figuren, opptil en maksimal sjanse på [#!]{MAXCHANCEINCREASE} %[#]. \n\nDen [#!]uhyggelige verten[#] har:\n[*][#!]{INHERITEDHEALTH} %[#] nedarvet helse. \n[*][#!]{ATTACK}[#] angrep.\n[*][#!]{DEFENSE}[#] forsvar.\n[*]Spesialferdighet: [#!]Uhyggelig trussel[#].\n\nHvis denne figuren beseirer seg selv når [#!]galskap[#] aktiveres, er sjansen [#!]{CHANCEONSELFCAUSEDDEATH} %[#]."
+          },
+          {
             "key": "specials.v2.statuseffect.minor.receiveddamagemodifier.single.enemies.chain_strike",
             "text": "Alle mål truffet får {DAMAGEMODIFIER} % økt skade i {TURNS} runder"
           }
@@ -147,6 +223,10 @@
       },
       "Dutch": {
         "overrideEntries": [
+          {
+            "key": "herocard.passive_skill.description.reviveinalternativeformwithinsanitychance",
+            "text": "Als dit personage verslagen wordt, is er een kans dat het herboren wordt als een [#!]Eldritch-host[#]. De kans is [#!]{CHANCEINCREASEPERSTEP}%[#] per [#!]{INSANITYPERSTEP}[#] [#!]waanzin[#] voor dit personage, en maximaal [#!]{MAXCHANCEINCREASE}%[#]. \n\nDe [#!]Eldritch-host[#] erft:\n[*][#!]{INHERITEDHEALTH}%[#] gezondheid \n[*][#!]{ATTACK}[#] aanval.\n[*][#!]{DEFENSE}[#] verdediging.\n[*]Speciale vaardigheid: [#!]Eldritch-verderf[#].\n\nAls dit personage zichzelf verslaat wanneer [#!]waanzin[#] geactiveerd wordt, is de kans [#!]{CHANCEONSELFCAUSEDDEATH}%[#]."
+          },
           {
             "key": "specials.v2.statuseffect.minor.receiveddamagemodifier.single.enemies.chain_strike",
             "text": "Alle getroffen doelwitten lijden {TURNS} beurten lang {DAMAGEMODIFIER}% meer schade"
@@ -156,6 +236,10 @@
       "ChineseSimplified": {
         "overrideEntries": [
           {
+            "key": "herocard.passive_skill.description.reviveinalternativeformwithinsanitychance",
+            "text": "被击败后，该角色有几率以[#!]上古邪神宿主[#]的姿态重生。该角色每有[#!]{INSANITYPERSTEP}[#]点[#!]狂乱[#]值，几率便会提升[#!]{CHANCEINCREASEPERSTEP}%[#]，最多可提升至[#!]{MAXCHANCEINCREASE}%[#]。\n\n[#!]上古邪神宿主[#]拥有：\n[*][#!]{INHERITEDHEALTH}%[#]继承生命值。\n[*][#!]{ATTACK}[#]攻击力。\n[*][#!]{DEFENSE}[#]防御力。\n[*]特殊技能：[#!]邪神荒疫[#]。\n\n若因自身[#!]狂乱[#]效果而被自己击败，重生几率始终为[#!]{CHANCEONSELFCAUSEDDEATH}%[#]。"
+          },
+          {
             "key": "specials.v2.statuseffect.minor.receiveddamagemodifier.single.enemies.chain_strike",
             "text": "命中的所有目标受到的伤害增加{DAMAGEMODIFIER}%，持续{TURNS}回合。"
           }
@@ -163,5 +247,5 @@
       }
     }
   },
-  "languageOverridesConfigId": 3735998490
+  "languageOverridesConfigId": 2381713129
 }

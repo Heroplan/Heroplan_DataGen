@@ -3383,24 +3383,6 @@
             "Life": 1811
         }
     },
-    "Krampus C": {
-        "base": {
-            "Attack": 1013,
-            "Defense": 1058,
-            "Life": 1884,
-            "Power": 1039
-        },
-        "lb1": {
-            "Attack": 1093,
-            "Defense": 1140,
-            "Life": 2031
-        },
-        "lb2": {
-            "Attack": 1251,
-            "Defense": 1305,
-            "Life": 2324
-        }
-    },
     "Lennart": {
         "base": {
             "Attack": 1326,
@@ -9663,24 +9645,6 @@
             "Attack": 746,
             "Defense": 1010,
             "Life": 1803
-        }
-    },
-    "Mother North C": {
-        "base": {
-            "Attack": 789,
-            "Defense": 1120,
-            "Life": 2015,
-            "Power": 996
-        },
-        "lb1": {
-            "Attack": 850,
-            "Defense": 1206,
-            "Life": 2172
-        },
-        "lb2": {
-            "Attack": 973,
-            "Defense": 1381,
-            "Life": 2485
         }
     },
     "Mucktus": {
@@ -21365,24 +21329,6 @@
             "Life": 1772
         }
     },
-    "Santa Claus C": {
-        "base": {
-            "Attack": 861,
-            "Defense": 1105,
-            "Life": 1904,
-            "Power": 1002
-        },
-        "lb1": {
-            "Attack": 928,
-            "Defense": 1192,
-            "Life": 2052
-        },
-        "lb2": {
-            "Attack": 1062,
-            "Defense": 1363,
-            "Life": 2347
-        }
-    },
     "Saoirse": {
         "base": {
             "Attack": 737,
@@ -27825,6 +27771,240 @@
             "Attack": 1607,
             "Defense": 1564,
             "Life": 2776
+        }
+    },
+    "Marnes": {
+        "base": {
+            "Attack": 1324,
+            "Defense": 1254,
+            "Life": 2233,
+            "Power": 1252
+        },
+        "lb1": {
+            "Attack": 1427,
+            "Defense": 1351,
+            "Life": 2406
+        },
+        "lb2": {
+            "Attack": 1633,
+            "Defense": 1546,
+            "Life": 2753
+        }
+    },
+    "Rose de Flo": {
+        "base": {
+            "Attack": 1289,
+            "Defense": 1293,
+            "Life": 2257,
+            "Power": 1254
+        },
+        "lb1": {
+            "Attack": 1389,
+            "Defense": 1394,
+            "Life": 2433
+        },
+        "lb2": {
+            "Attack": 1590,
+            "Defense": 1595,
+            "Life": 2783
+        }
+    },
+    "Wiglaf": {
+        "base": {
+            "Attack": 1310,
+            "Defense": 1256,
+            "Life": 2263,
+            "Power": 1252
+        },
+        "lb1": {
+            "Attack": 1411,
+            "Defense": 1354,
+            "Life": 2439
+        },
+        "lb2": {
+            "Attack": 1615,
+            "Defense": 1549,
+            "Life": 2791
+        }
+    },
+    "Lucas": {
+        "base": {
+            "Attack": 556,
+            "Defense": 561,
+            "Life": 975,
+            "Power": 553
+        },
+        "lb1": {
+            "Attack": 630,
+            "Defense": 636,
+            "Life": 1105
+        },
+        "lb2": {
+            "Attack": 778,
+            "Defense": 786,
+            "Life": 1365
+        }
+    },
+    "The Beast": {
+        "base": {
+            "Attack": 1297,
+            "Defense": 1281,
+            "Life": 2263,
+            "Power": 1254
+        },
+        "lb1": {
+            "Attack": 1398,
+            "Defense": 1380,
+            "Life": 2439
+        },
+        "lb2": {
+            "Attack": 1600,
+            "Defense": 1579,
+            "Life": 2791
+        }
+    },
+    "Chandel": {
+        "base": {
+            "Attack": 837,
+            "Defense": 775,
+            "Life": 1374,
+            "Power": 787
+        },
+        "lb1": {
+            "Attack": 909,
+            "Defense": 842,
+            "Life": 1493
+        },
+        "lb2": {
+            "Attack": 1054,
+            "Defense": 977,
+            "Life": 1732
+        }
+    },
+    "Krampus C": {
+        "base": {
+            "Attack": 1013,
+            "Defense": 1058,
+            "Life": 1884,
+            "Power": 1039
+        },
+        "lb1": {
+            "Attack": 1109,
+            "Defense": 1157,
+            "Life": 2076
+        },
+        "lb2": {
+            "Attack": 1269,
+            "Defense": 1324,
+            "Life": 2376
+        }
+    },
+    "Mother North C": {
+        "base": {
+            "Attack": 789,
+            "Defense": 1120,
+            "Life": 2015,
+            "Power": 996
+        },
+        "lb1": {
+            "Attack": 863,
+            "Defense": 1224,
+            "Life": 2220
+        },
+        "lb2": {
+            "Attack": 987,
+            "Defense": 1401,
+            "Life": 2540
+        }
+    },
+    "Santa Claus C": {
+        "base": {
+            "Attack": 861,
+            "Defense": 1105,
+            "Life": 1904,
+            "Power": 1002
+        },
+        "lb1": {
+            "Attack": 942,
+            "Defense": 1209,
+            "Life": 2097
+        },
+        "lb2": {
+            "Attack": 1078,
+            "Defense": 1383,
+            "Life": 2399
+        }
+    },
+    "Villiers C": {
+        "base": {
+            "Attack": 808,
+            "Defense": 776,
+            "Life": 1435,
+            "Power": 785
+        },
+        "lb1": {
+            "Attack": 878,
+            "Defense": 844,
+            "Life": 1558
+        },
+        "lb2": {
+            "Attack": 1018,
+            "Defense": 978,
+            "Life": 1808
+        }
+    },
+    "Aramis C": {
+        "base": {
+            "Attack": 1368,
+            "Defense": 1202,
+            "Life": 2240,
+            "Power": 1253
+        },
+        "lb1": {
+            "Attack": 1475,
+            "Defense": 1295,
+            "Life": 2414
+        },
+        "lb2": {
+            "Attack": 1687,
+            "Defense": 1483,
+            "Life": 2763
+        }
+    },
+    "Felton C": {
+        "base": {
+            "Attack": 624,
+            "Defense": 585,
+            "Life": 740,
+            "Power": 550
+        },
+        "lb1": {
+            "Attack": 708,
+            "Defense": 663,
+            "Life": 839
+        },
+        "lb2": {
+            "Attack": 875,
+            "Defense": 819,
+            "Life": 1038
+        }
+    },
+    "Zandria C": {
+        "base": {
+            "Attack": 1203,
+            "Defense": 1274,
+            "Life": 2506,
+            "Power": 1253
+        },
+        "lb1": {
+            "Attack": 1296,
+            "Defense": 1373,
+            "Life": 2701
+        },
+        "lb2": {
+            "Attack": 1483,
+            "Defense": 1570,
+            "Life": 3091
         }
     }
 }

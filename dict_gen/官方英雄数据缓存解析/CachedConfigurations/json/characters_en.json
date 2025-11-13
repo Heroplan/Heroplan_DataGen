@@ -1663,6 +1663,9 @@
     "manaSpeedId": "slow",
     "classType": "Monk",
     "aetherGift": "Special Armor",
+    "costumeBonusPassiveSkillIds": [
+      "frost_on_minion_damage_done"
+    ],
     "rarity": 5,
     "specialId": "hyper_porridge",
     "canBeReceivedDate": "2021-12-01 07:00:00",
@@ -1679,6 +1682,9 @@
     "manaSpeedId": "slow",
     "classType": "Sorcerer",
     "aetherGift": "Regen",
+    "costumeBonusPassiveSkillIds": [
+      "frost_on_minion_damage_done"
+    ],
     "rarity": 5,
     "specialId": "gift_of_rock",
     "canBeReceivedDate": "2021-12-01 07:00:00",
@@ -1695,6 +1701,9 @@
     "manaSpeedId": "average",
     "classType": "Barbarian",
     "aetherGift": "Dodge",
+    "costumeBonusPassiveSkillIds": [
+      "frost_on_minion_damage_done"
+    ],
     "rarity": 5,
     "specialId": "merriest_misery",
     "canBeReceivedDate": "2021-12-01 07:00:00",
@@ -10866,7 +10875,7 @@
     "specialId": "unwavering_devotion",
     "canBeReceivedDate": "2022-10-10 07:00:00",
     "origin": "SuperElemental",
-    "costumeBonusesId": "elemental"
+    "costumeBonusesId": "elemental_nov_2025"
   },
   "elemental_jequn": {
     "id": "The Cosmic Enigma",
@@ -19923,6 +19932,9 @@
     "manaSpeedId": "fast",
     "classType": "Rogue",
     "aetherGift": "Attack Up",
+    "costumeBonusPassiveSkillIds": [
+      "frost_on_minion_damage_done"
+    ],
     "rarity": 5,
     "specialId": "herring_surprise",
     "canBeReceivedDate": "2024-12-01 07:00:00",
@@ -21760,7 +21772,7 @@
     "id": "Defender of Galaxies",
     "element": "Yellow",
     "family": "super_elemental",
-    "baseHealth": 829,
+    "baseHealth": 828,
     "baseAttack": 400,
     "baseDefense": 424,
     "manaSpeedId": "very_slow",
@@ -22267,9 +22279,9 @@
     "id": "Boulanger Musketeer",
     "element": "Purple",
     "family": "musketeer",
-    "baseHealth": 677,
+    "baseHealth": 680,
     "baseAttack": 429,
-    "baseDefense": 376,
+    "baseDefense": 377,
     "manaSpeedId": "average",
     "passiveSkills": [
       "damage_all_enemies_on_cover_or_special_damage_received_costume",
@@ -26861,7 +26873,7 @@
     "aetherGift": "Attack Up",
     "rarity": 5,
     "specialId": "weakening_strike",
-    "canBeReceivedDate": "2200-01-01 07:00:00",
+    "canBeReceivedDate": "2025-11-20 07:00:00",
     "origin": "MonsterIsland1",
     "additionalBattleSpecificHeroEffectOrigin": "MonsterIsland2"
   },
@@ -28899,7 +28911,8 @@
     "manaSpeedId": "fast",
     "passiveSkills": [
       "reduce_big_minion_health",
-      "fly_magic_carpet"
+      "fly_magic_carpet",
+      "debuffs_to_buffs_on_special_cast_magic_carpet"
     ],
     "classType": "Sorcerer",
     "aetherGift": "Special Boost",
@@ -28918,7 +28931,8 @@
     "manaSpeedId": "fast",
     "passiveSkills": [
       "reduce_big_minion_health",
-      "fly_magic_carpet"
+      "fly_magic_carpet",
+      "buffs_to_debuffs_on_special_cast_magic_carpet"
     ],
     "classType": "Rogue",
     "aetherGift": "Attack Up",
@@ -28975,7 +28989,8 @@
     "manaSpeedId": "average",
     "passiveSkills": [
       "reduce_big_minion_health",
-      "fly_magic_carpet"
+      "fly_magic_carpet",
+      "debuffs_to_buffs_on_special_cast_magic_carpet"
     ],
     "classType": "Cleric",
     "aetherGift": "Defense Up",
@@ -28994,7 +29009,8 @@
     "manaSpeedId": "slow",
     "passiveSkills": [
       "resist_negative_minion_and_mega_minion_effects",
-      "fly_magic_carpet"
+      "fly_magic_carpet",
+      "buffs_to_debuffs_on_special_cast_magic_carpet"
     ],
     "classType": "Druid",
     "aetherGift": "Damage Reduction",
@@ -29013,7 +29029,8 @@
     "manaSpeedId": "average",
     "passiveSkills": [
       "reduce_big_minion_health",
-      "fly_magic_carpet"
+      "fly_magic_carpet",
+      "buffs_to_debuffs_on_special_cast_magic_carpet"
     ],
     "classType": "Wizard",
     "aetherGift": "Damage Reduction",
@@ -29032,7 +29049,8 @@
     "manaSpeedId": "slow",
     "passiveSkills": [
       "reduce_big_minion_health",
-      "fly_magic_carpet"
+      "fly_magic_carpet",
+      "debuffs_to_buffs_on_special_cast_magic_carpet"
     ],
     "classType": "Ranger",
     "aetherGift": "Special Armor",
@@ -29051,7 +29069,8 @@
     "manaSpeedId": "average",
     "passiveSkills": [
       "reduce_big_minion_health",
-      "fly_magic_carpet"
+      "fly_magic_carpet",
+      "buffs_to_debuffs_on_special_cast_magic_carpet"
     ],
     "classType": "Rogue",
     "aetherGift": "Attack Up",
@@ -29070,7 +29089,8 @@
     "manaSpeedId": "slow",
     "passiveSkills": [
       "reduce_big_minion_health",
-      "fly_magic_carpet"
+      "fly_magic_carpet",
+      "debuffs_to_buffs_on_special_cast_magic_carpet"
     ],
     "classType": "Wizard",
     "aetherGift": "Defense Up",
@@ -30020,9 +30040,9 @@
     "id": "Son of Vayu",
     "element": "Red",
     "family": "mahayoddha",
-    "baseHealth": 1048,
-    "baseAttack": 626,
-    "baseDefense": 581,
+    "baseHealth": 1098,
+    "baseAttack": 645,
+    "baseDefense": 600,
     "manaSpeedId": "average",
     "passiveSkills": [
       "increased_damage_against_minions_and_mega_minions",
@@ -30039,9 +30059,9 @@
     "id": "Warrior Princess of Manipura",
     "element": "Blue",
     "family": "mahayoddha",
-    "baseHealth": 1083,
-    "baseAttack": 576,
-    "baseDefense": 626,
+    "baseHealth": 1099,
+    "baseAttack": 607,
+    "baseDefense": 647,
     "manaSpeedId": "fast",
     "passiveSkills": [
       "resist_negative_minion_and_mega_minion_effects",
@@ -30138,7 +30158,8 @@
     "manaSpeedId": "average",
     "passiveSkills": [
       "reduce_big_minion_health",
-      "fly_magic_carpet"
+      "fly_magic_carpet",
+      "debuffs_to_buffs_on_special_cast_magic_carpet"
     ],
     "classType": "Druid",
     "aetherGift": "Defense Up",
@@ -30157,7 +30178,8 @@
     "manaSpeedId": "very_fast",
     "passiveSkills": [
       "reduce_big_minion_health",
-      "fly_magic_carpet"
+      "fly_magic_carpet",
+      "buffs_to_debuffs_on_special_cast_magic_carpet"
     ],
     "classType": "Wizard",
     "aetherGift": "Special Boost",
@@ -30227,13 +30249,13 @@
     "id": "Heavily Armored Construct",
     "element": "Blue",
     "family": "construct",
-    "baseHealth": 1080,
-    "baseAttack": 617,
-    "baseDefense": 601,
+    "baseHealth": 1099,
+    "baseAttack": 632,
+    "baseDefense": 617,
     "manaSpeedId": "average",
     "passiveSkills": [
       "minion_core",
-      "hp_on_own_familiar_death_construct"
+      "resist_special_blocking_with_health_boost_and_mana"
     ],
     "classType": "Paladin",
     "aetherGift": "Taunt",
@@ -30635,7 +30657,7 @@
     "aetherGift": "Bulwark",
     "rarity": 5,
     "specialId": "savage_gobble_purple",
-    "canBeReceivedDate": "2200-01-01 07:00:00",
+    "canBeReceivedDate": "2025-11-09 07:00:00",
     "origin": "SecretSummonEmblemMimicPurple",
     "forceUseCostumeLevelUpAndUpgradeCosts": true,
     "isSecret": true
@@ -31195,7 +31217,8 @@
     "manaSpeedId": "fast",
     "passiveSkills": [
       "reduce_big_minion_health",
-      "fly_magic_carpet"
+      "fly_magic_carpet",
+      "buffs_to_debuffs_on_special_cast_magic_carpet"
     ],
     "classType": "Wizard",
     "aetherGift": "Defense Up",
@@ -31523,11 +31546,11 @@
     "baseAttack": 467,
     "baseDefense": 453,
     "manaSpeedId": "fast",
-    "passiveSkills": [
-      "frost_on_minion_damage_done"
-    ],
     "classType": "Cleric",
     "aetherGift": "Boosted Regen",
+    "costumeBonusPassiveSkillIds": [
+      "frost_on_minion_damage_done"
+    ],
     "rarity": 5,
     "specialId": "hasty_gift_wrapper",
     "canBeReceivedDate": "2025-12-01 07:00:00",
@@ -31542,11 +31565,11 @@
     "baseAttack": 252,
     "baseDefense": 322,
     "manaSpeedId": "average",
-    "passiveSkills": [
-      "frost_on_minion_damage_done"
-    ],
     "classType": "Monk",
     "aetherGift": "Special Boost",
+    "costumeBonusPassiveSkillIds": [
+      "frost_on_minion_damage_done"
+    ],
     "rarity": 4,
     "specialId": "gift_list",
     "canBeReceivedDate": "2025-12-01 07:00:00",
@@ -31561,11 +31584,11 @@
     "baseAttack": 311,
     "baseDefense": 229,
     "manaSpeedId": "fast",
-    "passiveSkills": [
-      "frost_on_minion_damage_done"
-    ],
     "classType": "Barbarian",
     "aetherGift": "Defense Up",
+    "costumeBonusPassiveSkillIds": [
+      "frost_on_minion_damage_done"
+    ],
     "rarity": 3,
     "specialId": "titanium_antler_attack",
     "canBeReceivedDate": "2025-12-01 07:00:00",
@@ -31596,9 +31619,9 @@
     "id": "Lonely Prince of the Bewitched Castle",
     "element": "Purple",
     "family": "beauty_beast",
-    "baseHealth": 1077,
-    "baseAttack": 613,
-    "baseDefense": 604,
+    "baseHealth": 1099,
+    "baseAttack": 630,
+    "baseDefense": 622,
     "manaSpeedId": "slow",
     "passiveSkills": [
       "convert_incoming_damage_to_heal",
@@ -31616,9 +31639,9 @@
     "id": "Bloom of the Bewitched Castle",
     "element": "Red",
     "family": "beauty_beast",
-    "baseHealth": 1092,
-    "baseAttack": 605,
-    "baseDefense": 606,
+    "baseHealth": 1096,
+    "baseAttack": 626,
+    "baseDefense": 628,
     "manaSpeedId": "very_fast",
     "passiveSkills": [
       "convert_incoming_damage_to_heal",
@@ -31636,9 +31659,9 @@
     "id": "Illuminator of the Bewitched Castle",
     "element": "Yellow",
     "family": "beauty_beast",
-    "baseHealth": 610,
-    "baseAttack": 395,
-    "baseDefense": 340,
+    "baseHealth": 647,
+    "baseAttack": 394,
+    "baseDefense": 365,
     "manaSpeedId": "average",
     "passiveSkills": [
       "convert_incoming_damage_to_heal",
@@ -31656,9 +31679,9 @@
     "id": "Dominique's Younger Brother",
     "element": "Green",
     "family": "beauty_beast",
-    "baseHealth": 501,
-    "baseAttack": 300,
-    "baseDefense": 302,
+    "baseHealth": 561,
+    "baseAttack": 320,
+    "baseDefense": 323,
     "manaSpeedId": "fast",
     "passiveSkills": [
       "convert_incoming_damage_to_heal",
@@ -31826,7 +31849,7 @@
     "aetherGift": "Special Armor",
     "rarity": 5,
     "specialId": "tokri_of_resources",
-    "canBeReceivedDate": "2025-11-15 07:00:00",
+    "canBeReceivedDate": "2025-11-17 07:00:00",
     "origin": "Temple"
   },
   "mahayoddha_ustad_anand": {
@@ -31845,7 +31868,7 @@
     "aetherGift": "Counterattack",
     "rarity": 5,
     "specialId": "ceremonial_katar",
-    "canBeReceivedDate": "2025-11-15 07:00:00",
+    "canBeReceivedDate": "2025-11-17 07:00:00",
     "origin": "Temple"
   },
   "mahayoddha_rafeeq": {
@@ -31864,7 +31887,7 @@
     "aetherGift": "Special Boost",
     "rarity": 4,
     "specialId": "blade_of_betrayal",
-    "canBeReceivedDate": "2025-11-15 07:00:00",
+    "canBeReceivedDate": "2025-11-17 07:00:00",
     "origin": "Temple"
   },
   "mahayoddha_ali": {
@@ -31883,7 +31906,7 @@
     "aetherGift": "Rage",
     "rarity": 3,
     "specialId": "marble_frenzy",
-    "canBeReceivedDate": "2025-11-15 07:00:00",
+    "canBeReceivedDate": "2025-11-17 07:00:00",
     "origin": "Temple"
   },
   "scoundrel_duval": {

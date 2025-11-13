@@ -1,38 +1,5 @@
 [
     {
-        "name": "Zandria C",
-        "fancy_name": "Defender of Galaxies",
-        "color": "Yellow",
-        "Release date": "",
-        "star": 5,
-        "family": "super_elemental",
-        "costume_id": 1,
-        "heroId": "elemental_zandria_costume_planet",
-        "Lottery_Only":1
-    },
-    {
-        "name": "Wiglaf",
-        "fancy_name": "Son of Weohstan",
-        "color": "Red",
-        "Release date": "",
-        "star": 5,
-        "family": "beowulf",
-        "costume_id": 0,
-        "heroId": "beowulf_wiglaf",
-        "Lottery_Only":1
-    },
-    {
-        "name": "Marnes",
-        "fancy_name": "Flank-Stabbing Panther",
-        "color": "Purple",
-        "Release date": "",
-        "star": 5,
-        "family": "wild_cat",
-        "costume_id": 0,
-        "heroId": "wild_cat_marnes",
-        "Lottery_Only":1
-    },
-    {
         "name": "Ustad Anand",
         "fancy_name": "Royal Performer",
         "color": "Yellow",
@@ -77,94 +44,6 @@
         "Lottery_Only":1
     },
     {
-        "name": "Aramis C",
-        "fancy_name": "Boulanger Musketeer",
-        "color": "Purple",
-        "Release date": "",
-        "star": 5,
-        "family": "musketeer",
-        "costume_id": 1,
-        "heroId": "musketeer_aramis_costume_boulanger",
-        "Lottery_Only":1
-    },
-    {
-        "name": "Villiers C",
-        "fancy_name": "Pompous Jester",
-        "color": "Green",
-        "Release date": "",
-        "star": 5,
-        "family": "musketeer",
-        "costume_id": 1,
-        "heroId": "musketeer_villiers_costume_jester",
-        "Lottery_Only":1
-    },
-    {
-        "name": "Felton C",
-        "fancy_name": "Callous Pirate",
-        "color": "Yellow",
-        "Release date": "",
-        "star": 3,
-        "family": "musketeer",
-        "costume_id": 1,
-        "heroId": "musketeer_felton_costume_pirate",
-        "Lottery_Only":1
-    },
-    {
-        "name": "Halwinter",
-        "fancy_name": "Heavily Armored Construct",
-        "color": "Blue",
-        "Release date": "",
-        "star": 5,
-        "family": "construct",
-        "costume_id": 0,
-        "heroId": "construct_halwinter",
-        "Lottery_Only":1
-    },
-    {
-        "name": "The Beast",
-        "fancy_name": "Lonely Prince of the Bewitched Castle",
-        "color": "Purple",
-        "Release date": "",
-        "star": 5,
-        "family": "beauty_beast",
-        "costume_id": 0,
-        "heroId": "beauty_beast_the_beast",
-        "Lottery_Only":1
-    },
-    {
-        "name": "Rose de Flo",
-        "fancy_name": "Bloom of the Bewitched Castle",
-        "color": "Red",
-        "Release date": "",
-        "star": 5,
-        "family": "beauty_beast",
-        "costume_id": 0,
-        "heroId": "beauty_beast_rose_de_flo",
-        "Lottery_Only":1
-    },
-    {
-        "name": "Chandel",
-        "fancy_name": "Illuminator of the Bewitched Castle",
-        "color": "Yellow",
-        "Release date": "",
-        "star": 4,
-        "family": "beauty_beast",
-        "costume_id": 0,
-        "heroId": "beauty_beast_chandel",
-        "Lottery_Only":1
-    },
-    {
-        "name": "Lucas",
-        "fancy_name": "Dominique's Younger Brother",
-        "color": "Green",
-        "Release date": "",
-        "star": 3,
-        "family": "beauty_beast",
-        "costume_id": 0,
-        "heroId": "beauty_beast_lucas",
-        "Lottery_Only":1
-    },
-    {
         "name": "Duval",
         "fancy_name": "The Deceitful Marksman",
         "color": "Purple",
@@ -206,6 +85,17 @@
         "family": "winter",
         "costume_id": 0,
         "heroId": "christmas_florencia",
+        "Lottery_Only":1
+    },
+    {
+        "name": "Sorcha",
+        "fancy_name": "Persistent Hunter",
+        "color": "Purple",
+        "Release date": "",
+        "star": 5,
+        "family": "plains_hunter",
+        "costume_id": 0,
+        "heroId": "monster_hunter_sorcha",
         "Lottery_Only":1
     }
 ]

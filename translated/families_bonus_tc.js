@@ -126,6 +126,20 @@ window.families_bonus = [
     },
     {
         "originalIndex": 13,
+        "name": "beauty_beast",
+        "bonus": [
+            "此家族的英雄獲得謙遜，以施放強力特殊技能。",
+            "* 不同的英雄所需的謙遜也不同。",
+            "* 當英雄施放更强力的特殊技能時，只需消耗所需數量的謙遜。",
+            "* 謙遜上限： 100。",
+            "1 / 2 / 3 位相同家族的英雄獎励：",
+            "* 受到特殊技能的直接傷害時，英雄獲得 15 / 17 / 20 謙遜。",
+            "* 接受特殊技能的直接治療時，英雄獲得 20 / 22 / 25 謙遜。",
+            "活動英雄加成：此家族的成員在勇者與美人活動中有額外福利。"
+        ]
+    },
+    {
+        "originalIndex": 14,
         "name": "sand",
         "bonus": [
             "1 / 2 / 3 位獨特英雄的加成：",
@@ -134,7 +148,7 @@ window.families_bonus = [
         ]
     },
     {
-        "originalIndex": 14,
+        "originalIndex": 15,
         "name": "halloween",
         "bonus": [
             "1 / 2 / 3 位獨特英雄的加成：",
@@ -143,7 +157,7 @@ window.families_bonus = [
         ]
     },
     {
-        "originalIndex": 15,
+        "originalIndex": 16,
         "name": "winter",
         "bonus": [
             "2 / 3 位獨特英雄的加成：",
@@ -153,7 +167,7 @@ window.families_bonus = [
         ]
     },
     {
-        "originalIndex": 16,
+        "originalIndex": 17,
         "name": "ninja",
         "bonus": [
             "1 / 2 / 3 位獨特英雄的加成：",
@@ -162,7 +176,7 @@ window.families_bonus = [
         ]
     },
     {
-        "originalIndex": 17,
+        "originalIndex": 18,
         "name": "magic",
         "bonus": [
             "1 / 2 / 3 位獨特英雄的加成：",
@@ -171,7 +185,7 @@ window.families_bonus = [
         ]
     },
     {
-        "originalIndex": 18,
+        "originalIndex": 19,
         "name": "corellia",
         "bonus": [
             "2 / 3 / 4 / 5 位獨特英雄的加成：",
@@ -180,7 +194,7 @@ window.families_bonus = [
         ]
     },
     {
-        "originalIndex": 19,
+        "originalIndex": 20,
         "name": "lagoon",
         "bonus": [
             "1 / 2 / 3 / 4 / 5 位獨特英雄的加成：",
@@ -188,7 +202,7 @@ window.families_bonus = [
         ]
     },
     {
-        "originalIndex": 20,
+        "originalIndex": 21,
         "name": "hotm2017",
         "bonus": [
             "1 / 2 / 3 位加成：",
@@ -198,7 +212,7 @@ window.families_bonus = [
         ]
     },
     {
-        "originalIndex": 21,
+        "originalIndex": 22,
         "name": "hotm2018",
         "bonus": [
             "1 / 2 / 3 位加成：",
@@ -208,7 +222,7 @@ window.families_bonus = [
         ]
     },
     {
-        "originalIndex": 22,
+        "originalIndex": 23,
         "name": "hotm2019",
         "bonus": [
             "1 / 2 / 3 位加成：",
@@ -218,7 +232,7 @@ window.families_bonus = [
         ]
     },
     {
-        "originalIndex": 23,
+        "originalIndex": 24,
         "name": "hotm2020",
         "bonus": [
             "1 / 2 / 3 位加成：",
@@ -228,7 +242,7 @@ window.families_bonus = [
         ]
     },
     {
-        "originalIndex": 24,
+        "originalIndex": 25,
         "name": "hotm2021",
         "bonus": [
             "1 / 2 / 3 位加成：",
@@ -238,7 +252,7 @@ window.families_bonus = [
         ]
     },
     {
-        "originalIndex": 25,
+        "originalIndex": 26,
         "name": "hotm2022",
         "bonus": [
             "1 / 2 / 3 位英雄的加成：",
@@ -248,7 +262,7 @@ window.families_bonus = [
         ]
     },
     {
-        "originalIndex": 26,
+        "originalIndex": 27,
         "name": "hotm2023",
         "bonus": [
             "1 / 2 / 3 位英雄的加成：",
@@ -258,7 +272,7 @@ window.families_bonus = [
         ]
     },
     {
-        "originalIndex": 27,
+        "originalIndex": 28,
         "name": "hotm2024",
         "bonus": [
             "1 / 2 / 3 位英雄的加成：",
@@ -268,14 +282,14 @@ window.families_bonus = [
         ]
     },
     {
-        "originalIndex": 28,
+        "originalIndex": 29,
         "name": "hotm2025",
         "bonus": [
             "加成將於 2026 年 1 月 1 日啟用"
         ]
     },
     {
-        "originalIndex": 29,
+        "originalIndex": 30,
         "name": "japanese",
         "bonus": [
             "1 / 2 / 3 / 4 / 5 位獨特英雄的加成：",
@@ -283,7 +297,7 @@ window.families_bonus = [
         ]
     },
     {
-        "originalIndex": 30,
+        "originalIndex": 31,
         "name": "atlantis",
         "bonus": [
             "1 / 2 / 3 / 4 / 5 位獨特英雄的加成：",
@@ -291,7 +305,7 @@ window.families_bonus = [
         ]
     },
     {
-        "originalIndex": 31,
+        "originalIndex": 32,
         "name": "fable",
         "bonus": [
             "2 / 3 / 4 / 5 位獨特英雄的加成：",
@@ -301,7 +315,7 @@ window.families_bonus = [
         ]
     },
     {
-        "originalIndex": 32,
+        "originalIndex": 33,
         "name": "alfheim",
         "bonus": [
             "1 / 2 / 3 位獨特英雄的加成：",
@@ -309,7 +323,7 @@ window.families_bonus = [
         ]
     },
     {
-        "originalIndex": 33,
+        "originalIndex": 34,
         "name": "asgard",
         "bonus": [
             "1 / 2 / 3 位獨特英雄的加成：",
@@ -317,7 +331,7 @@ window.families_bonus = [
         ]
     },
     {
-        "originalIndex": 34,
+        "originalIndex": 35,
         "name": "helheim",
         "bonus": [
             "1 / 2 / 3 位獨特英雄的加成：",
@@ -325,7 +339,7 @@ window.families_bonus = [
         ]
     },
     {
-        "originalIndex": 35,
+        "originalIndex": 36,
         "name": "jotunheim",
         "bonus": [
             "1 / 2 / 3 位獨特英雄的加成：",
@@ -333,7 +347,7 @@ window.families_bonus = [
         ]
     },
     {
-        "originalIndex": 36,
+        "originalIndex": 37,
         "name": "midgard",
         "bonus": [
             "1 / 2 / 3 位獨特英雄的加成：",
@@ -341,7 +355,7 @@ window.families_bonus = [
         ]
     },
     {
-        "originalIndex": 37,
+        "originalIndex": 38,
         "name": "muspelheim",
         "bonus": [
             "1 / 2 / 3 位獨特英雄的加成：",
@@ -349,7 +363,7 @@ window.families_bonus = [
         ]
     },
     {
-        "originalIndex": 38,
+        "originalIndex": 39,
         "name": "niflheim",
         "bonus": [
             "1 / 2 / 3 位獨特英雄的加成：",
@@ -357,7 +371,7 @@ window.families_bonus = [
         ]
     },
     {
-        "originalIndex": 39,
+        "originalIndex": 40,
         "name": "svartalfheim",
         "bonus": [
             "1 / 2 / 3 位獨特英雄的加成：",
@@ -365,7 +379,7 @@ window.families_bonus = [
         ]
     },
     {
-        "originalIndex": 40,
+        "originalIndex": 41,
         "name": "vanaheim",
         "bonus": [
             "1 / 2 / 3 位獨特英雄的加成：",
@@ -373,7 +387,7 @@ window.families_bonus = [
         ]
     },
     {
-        "originalIndex": 41,
+        "originalIndex": 42,
         "name": "guardian",
         "bonus": [
             "2 / 3 / 4 / 5 位獨特英雄的加成：",
@@ -383,7 +397,7 @@ window.families_bonus = [
         ]
     },
     {
-        "originalIndex": 42,
+        "originalIndex": 43,
         "name": "abyss",
         "bonus": [
             "1 / 2 / 3 / 4 / 5 位獨特英雄的加成：",
@@ -393,7 +407,7 @@ window.families_bonus = [
         ]
     },
     {
-        "originalIndex": 43,
+        "originalIndex": 44,
         "name": "kingdom",
         "bonus": [
             "1 / 2 / 3 位獨特英雄的加成：",
@@ -405,7 +419,7 @@ window.families_bonus = [
         ]
     },
     {
-        "originalIndex": 44,
+        "originalIndex": 45,
         "name": "wonderland",
         "bonus": [
             "2 / 3 / 4 / 5 位獨特英雄的加成：",
@@ -415,7 +429,7 @@ window.families_bonus = [
         ]
     },
     {
-        "originalIndex": 45,
+        "originalIndex": 46,
         "name": "sun",
         "bonus": [
             "1 / 2 位獨特英雄的加成：",
@@ -425,7 +439,7 @@ window.families_bonus = [
         ]
     },
     {
-        "originalIndex": 46,
+        "originalIndex": 47,
         "name": "moon",
         "bonus": [
             "1 / 2 位獨特英雄的加成：",
@@ -435,7 +449,7 @@ window.families_bonus = [
         ]
     },
     {
-        "originalIndex": 47,
+        "originalIndex": 48,
         "name": "villains",
         "bonus": [
             "1 / 2 / 3 位英雄的加成：",
@@ -445,7 +459,7 @@ window.families_bonus = [
         ]
     },
     {
-        "originalIndex": 48,
+        "originalIndex": 49,
         "name": "gargoyle",
         "bonus": [
             "1 / 2 / 3 / 位獨特英雄的加成：",
@@ -454,7 +468,7 @@ window.families_bonus = [
         ]
     },
     {
-        "originalIndex": 49,
+        "originalIndex": 50,
         "name": "styx",
         "bonus": [
             "1 / 2 / 3 位獨特英雄的加成：",
@@ -462,7 +476,7 @@ window.families_bonus = [
         ]
     },
     {
-        "originalIndex": 50,
+        "originalIndex": 51,
         "name": "kalevala",
         "bonus": [
             "1 / 2 / 3 位獨特英雄的加成：",
@@ -471,7 +485,7 @@ window.families_bonus = [
         ]
     },
     {
-        "originalIndex": 51,
+        "originalIndex": 52,
         "name": "bard",
         "bonus": [
             "吟遊詩人家族賦予隊伍中該家族唯一成員的任意英雄单人加成:",
@@ -480,7 +494,7 @@ window.families_bonus = [
         ]
     },
     {
-        "originalIndex": 52,
+        "originalIndex": 53,
         "name": "plains_hunter",
         "bonus": [
             "2 / 3 / 4 / 5 位英雄的加成：",
@@ -489,7 +503,7 @@ window.families_bonus = [
         ]
     },
     {
-        "originalIndex": 53,
+        "originalIndex": 54,
         "name": "super_elemental",
         "bonus": [
             "每回合一個或以上的護盾將被強化至力量寶石。",
@@ -498,7 +512,7 @@ window.families_bonus = [
         ]
     },
     {
-        "originalIndex": 54,
+        "originalIndex": 55,
         "name": "mighty_pet",
         "bonus": [
             "1 / 2 / 3 位英雄的加成：",
@@ -510,7 +524,7 @@ window.families_bonus = [
         ]
     },
     {
-        "originalIndex": 55,
+        "originalIndex": 56,
         "name": "masquerade",
         "bonus": [
             "化裝舞會角色會在戰鬥開始時為自己召喚一名假面小兵。同一個隊伍裡的化裝舞會角色越多，假面小兵越強：",
@@ -520,18 +534,18 @@ window.families_bonus = [
         ]
     },
     {
-        "originalIndex": 56,
+        "originalIndex": 57,
         "name": "musketeer",
         "bonus": [
             "1 / 2 / 3 位英雄的加成：",
             "此角色施放特殊技能時，有 50% / 75% / 100% 的機率給予隨機盟友掩護，持續 3 回合。",
             "在掩護狀態下，盟友不會受到特殊技能或普通攻擊的傷害。此角色會承受掩護中角色本應受到傷害的 60% / 50% / 40%。",
             "此效果無法驅散，但在此角色被擊敗時結束。角色一次只能為一個盟友提供掩護。",
-            "此家族的成員在英勇火槍手活動中有額外福利。"
+            "活動英雄加成：此家族的成員在勇者與美人活動中有額外福利。"
         ]
     },
     {
-        "originalIndex": 57,
+        "originalIndex": 58,
         "name": "circus",
         "bonus": [
             "1 / 2 / 3 位英雄的加成：",
@@ -540,7 +554,7 @@ window.families_bonus = [
         ]
     },
     {
-        "originalIndex": 58,
+        "originalIndex": 59,
         "name": "classic",
         "bonus": [
             "經典家族的英雄需要完全升等才能享有家族加成。",
@@ -552,7 +566,7 @@ window.families_bonus = [
         ]
     },
     {
-        "originalIndex": 59,
+        "originalIndex": 60,
         "name": "zodiac",
         "bonus": [
             "與其他同家族的獨特英雄組隊時，英雄會更強大。",
@@ -568,7 +582,7 @@ window.families_bonus = [
         ]
     },
     {
-        "originalIndex": 60,
+        "originalIndex": 61,
         "name": "cupid",
         "bonus": [
             "邱比特家族能支援其他家族與王國",
@@ -577,7 +591,7 @@ window.families_bonus = [
         ]
     },
     {
-        "originalIndex": 61,
+        "originalIndex": 62,
         "name": "journey",
         "bonus": [
             "與其他同家族的獨特英雄組隊時，英雄會更強大。",
@@ -589,7 +603,7 @@ window.families_bonus = [
         ]
     },
     {
-        "originalIndex": 62,
+        "originalIndex": 63,
         "name": "jungle_hunter",
         "bonus": [
             "2 / 3 / 4 / 5 位英雄的加成：",
@@ -601,7 +615,7 @@ window.families_bonus = [
         ]
     },
     {
-        "originalIndex": 63,
+        "originalIndex": 64,
         "name": "abyss_hunter",
         "bonus": [
             "2 / 3 / 4 / 5 位英雄的加成：",
@@ -610,7 +624,7 @@ window.families_bonus = [
         ]
     },
     {
-        "originalIndex": 64,
+        "originalIndex": 65,
         "name": "tales1_goodies",
         "bonus": [
             "1 / 2 位獨特英雄的加成：",
@@ -621,7 +635,7 @@ window.families_bonus = [
         ]
     },
     {
-        "originalIndex": 65,
+        "originalIndex": 66,
         "name": "tales1_baddies",
         "bonus": [
             "1 / 2 位獨特英雄的加成：",
@@ -632,7 +646,7 @@ window.families_bonus = [
         ]
     },
     {
-        "originalIndex": 66,
+        "originalIndex": 67,
         "name": "beachparty",
         "bonus": [
             "1 + 位英雄的加成：",
@@ -641,7 +655,7 @@ window.families_bonus = [
         ]
     },
     {
-        "originalIndex": 67,
+        "originalIndex": 68,
         "name": "construct",
         "bonus": [
             "此家族的成員有一個構造體核心：",
@@ -649,7 +663,7 @@ window.families_bonus = [
         ]
     },
     {
-        "originalIndex": 68,
+        "originalIndex": 69,
         "name": "slayers",
         "bonus": [
             "1 / 2 / 3 位英雄的加成：",
@@ -659,7 +673,7 @@ window.families_bonus = [
         ]
     },
     {
-        "originalIndex": 69,
+        "originalIndex": 70,
         "name": "opera",
         "bonus": [
             "與其他同家族的獨特英雄組隊時，英雄會更強大。",
@@ -671,7 +685,7 @@ window.families_bonus = [
         ]
     },
     {
-        "originalIndex": 70,
+        "originalIndex": 71,
         "name": "maskedgod",
         "bonus": [
             "蒙面之神角色會在戰鬥開始時為自己召喚一名假面小兵。同一個隊伍裡的蒙面之神角色越多，假面小兵越強。",
@@ -681,7 +695,7 @@ window.families_bonus = [
         ]
     },
     {
-        "originalIndex": 71,
+        "originalIndex": 72,
         "name": "goblin",
         "bonus": [
             "1 / 2 / 3 位英雄的加成：",
@@ -689,7 +703,7 @@ window.families_bonus = [
         ]
     },
     {
-        "originalIndex": 72,
+        "originalIndex": 73,
         "name": "stag",
         "bonus": [
             "與其他同家族的獨特英雄組隊時，英雄會更強大。",
@@ -699,7 +713,7 @@ window.families_bonus = [
         ]
     },
     {
-        "originalIndex": 73,
+        "originalIndex": 74,
         "name": "bear",
         "bonus": [
             "與其他同家族的獨特英雄組隊時，英雄會更強大。",
@@ -709,7 +723,7 @@ window.families_bonus = [
         ]
     },
     {
-        "originalIndex": 74,
+        "originalIndex": 75,
         "name": "astral_elves",
         "bonus": [
             "1 / 2 位獨特英雄的加成：",
@@ -717,7 +731,7 @@ window.families_bonus = [
         ]
     },
     {
-        "originalIndex": 75,
+        "originalIndex": 76,
         "name": "champions",
         "bonus": [
             "1 / 2 / 3 位獨特英雄的加成：",
@@ -725,7 +739,7 @@ window.families_bonus = [
         ]
     },
     {
-        "originalIndex": 76,
+        "originalIndex": 77,
         "name": "owl",
         "bonus": [
             "1 / 2 / 3 位獨特英雄的加成：",
@@ -733,7 +747,7 @@ window.families_bonus = [
         ]
     },
     {
-        "originalIndex": 77,
+        "originalIndex": 78,
         "name": "investigator",
         "bonus": [
             "1 / 2 / 3 位英雄的加成：",
@@ -743,7 +757,7 @@ window.families_bonus = [
         ]
     },
     {
-        "originalIndex": 78,
+        "originalIndex": 79,
         "name": "garrison",
         "bonus": [
             "1 / 2 / 3 位英雄的加成：",
@@ -751,7 +765,7 @@ window.families_bonus = [
         ]
     },
     {
-        "originalIndex": 79,
+        "originalIndex": 80,
         "name": "wolf",
         "bonus": [
             "1 / 2 / 3 位英雄的加成：",
@@ -760,7 +774,7 @@ window.families_bonus = [
         ]
     },
     {
-        "originalIndex": 80,
+        "originalIndex": 81,
         "name": "cultist",
         "bonus": [
             "1 / 2 / 3 位英雄的加成：",
@@ -769,7 +783,7 @@ window.families_bonus = [
         ]
     },
     {
-        "originalIndex": 81,
+        "originalIndex": 82,
         "name": "slime",
         "bonus": [
             "1 / 2 / 3 位英雄的加成：",
@@ -777,7 +791,7 @@ window.families_bonus = [
         ]
     },
     {
-        "originalIndex": 82,
+        "originalIndex": 83,
         "name": "fox",
         "bonus": [
             "1 / 2 位英雄的加成：",
@@ -787,7 +801,7 @@ window.families_bonus = [
         ]
     },
     {
-        "originalIndex": 83,
+        "originalIndex": 84,
         "name": "faun",
         "bonus": [
             "1 / 2 位英雄的加成：",
@@ -796,7 +810,7 @@ window.families_bonus = [
         ]
     },
     {
-        "originalIndex": 84,
+        "originalIndex": 85,
         "name": "mystery",
         "bonus": [
             "2 / 3 位英雄的加成：",
@@ -804,7 +818,7 @@ window.families_bonus = [
         ]
     },
     {
-        "originalIndex": 85,
+        "originalIndex": 86,
         "name": "beowulf",
         "bonus": [
             "1 / 2 位英雄的加成：",
@@ -813,7 +827,7 @@ window.families_bonus = [
         ]
     },
     {
-        "originalIndex": 86,
+        "originalIndex": 87,
         "name": "nidavellir",
         "bonus": [
             "此王國的成員擁有一個熔融核心。",
@@ -822,7 +836,7 @@ window.families_bonus = [
         ]
     },
     {
-        "originalIndex": 87,
+        "originalIndex": 88,
         "name": "astral_dwarfs",
         "bonus": [
             "1 / 2 位獨特英雄的加成：",
@@ -831,7 +845,7 @@ window.families_bonus = [
         ]
     },
     {
-        "originalIndex": 88,
+        "originalIndex": 89,
         "name": "moths",
         "bonus": [
             "1 / 2 / 3 位英雄的加成：",
@@ -844,7 +858,7 @@ window.families_bonus = [
         ]
     },
     {
-        "originalIndex": 89,
+        "originalIndex": 90,
         "name": "wild_cat",
         "bonus": [
             "1 / 2 / 3 位獨特英雄的加成：",

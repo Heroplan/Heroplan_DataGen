@@ -854,9 +854,9 @@
     {
         "name": "Krampus C",
         "bonuses": {
-            "attack": 35,
-            "defense": 35,
-            "health": 35
+            "attack": 37,
+            "defense": 37,
+            "health": 38
         }
     },
     {
@@ -2520,9 +2520,9 @@
     {
         "name": "Mother North C",
         "bonuses": {
-            "attack": 35,
-            "defense": 35,
-            "health": 35
+            "attack": 37,
+            "defense": 37,
+            "health": 38
         }
     },
     {
@@ -5501,9 +5501,9 @@
     {
         "name": "Santa Claus C",
         "bonuses": {
-            "attack": 35,
-            "defense": 35,
-            "health": 35
+            "attack": 37,
+            "defense": 37,
+            "health": 38
         }
     },
     {
@@ -7018,5 +7018,55 @@
     },
     {
         "name": "Kadath"
+    },
+    {
+        "name": "Marnes"
+    },
+    {
+        "name": "Lucas"
+    },
+    {
+        "name": "Villiers C",
+        "bonuses": {
+            "attack": 15,
+            "defense": 15,
+            "health": 20
+        }
+    },
+    {
+        "name": "Aramis C",
+        "bonuses": {
+            "attack": 55,
+            "defense": 55,
+            "health": 60
+        }
+    },
+    {
+        "name": "The Beast"
+    },
+    {
+        "name": "Rose de Flo"
+    },
+    {
+        "name": "Wiglaf"
+    },
+    {
+        "name": "Felton C",
+        "bonuses": {
+            "attack": 15,
+            "defense": 15,
+            "health": 15
+        }
+    },
+    {
+        "name": "Chandel"
+    },
+    {
+        "name": "Zandria C",
+        "bonuses": {
+            "attack": 46,
+            "defense": 46,
+            "health": 47
+        }
     }
 ]

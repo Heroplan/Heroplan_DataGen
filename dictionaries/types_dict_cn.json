@@ -923,5 +923,14 @@
   "Fiend 1": "召唤1个恶魔",
   "Increased Damage Debuff to hit targets": "对命中目标施加额外伤害减益",
   "Dot to hit targets": "对命中目标施加持续伤害",
-  "Fear Debuff 1": "施加恐惧减益 (单体)"
+  "Fear Debuff 1": "施加恐惧减益 (单体)",
+  "Surge Bleed DoT 2": "2个目标奔涌流血持续伤害",
+  "Poison DoT 2": "2个目标中毒持续伤害",
+  "Self Counterattack": "自身反击",
+  "Damage Boosted Heal All": "按伤害全体提升生命",
+  "Self Damage Reduction Buff": "自身伤害减免增益",
+  "Hit random 6": "随机攻击6个目标",
+  "Elemental Defense Debuff on hit": "命中时施加元素防御降低减益",
+  "Mindless Attack on hit": "命中时施加失心攻击",
+  "Self Special Skill Defense Buff": "自身特殊技能防御增益"
 }

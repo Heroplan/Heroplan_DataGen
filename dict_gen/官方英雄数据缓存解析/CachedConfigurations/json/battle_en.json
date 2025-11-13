@@ -32949,6 +32949,14 @@
         "defenseMultiplierIncrementPerLevelPerMil": 20
       },
       {
+        "statusEffect": "YellowDefenseModifier",
+        "id": "barrier_holy_becky_costume",
+        "buff": "MinorBuff",
+        "iconOverrideStatusEffectId": "barrier_holy",
+        "defenseMultiplierPerMil": 1310,
+        "defenseMultiplierIncrementPerLevelPerMil": 20
+      },
+      {
         "statusEffect": "GreenDefenseModifier",
         "id": "barrier_green",
         "buff": "MinorBuff",
@@ -33361,6 +33369,14 @@
         "buff": "MinorDebuff",
         "healMultiplierPerMil": 250,
         "healMultiplierPerLevelPerMil": 0
+      },
+      {
+        "statusEffect": "HealMultiplier",
+        "id": "reduce_healing_vaishali_costume",
+        "buff": "MinorDebuff",
+        "iconOverrideStatusEffectId": "reduce_healing_more_more",
+        "healMultiplierPerMil": 690,
+        "healMultiplierPerLevelPerMil": 236
       },
       {
         "statusEffect": "SandCurse",
@@ -51722,7 +51738,10 @@
         "id": "poison_agrafena_costume",
         "buff": "MinorDebuff",
         "damageMultiplierPerMil": 75,
-        "damageMultiplierIncrementPerLevelPerMil": 3
+        "damageMultiplierIncrementPerLevelPerMil": 3,
+        "additionalCasterSideEffect": "Heal",
+        "additionalCasterSideEffectPowerPerMil": 100,
+        "additionalCasterSideEffectTargetType": "Single"
       },
       {
         "statusEffect": "AttackModifier",
@@ -51776,14 +51795,18 @@
         "id": "burn_nadezhda_costume",
         "buff": "MinorDebuff",
         "damageMultiplierPerMil": 120,
-        "damageMultiplierIncrementPerLevelPerMil": 3
+        "damageMultiplierIncrementPerLevelPerMil": 3,
+        "additionalCasterSideEffect": "Heal",
+        "additionalCasterSideEffectPowerPerMil": 100,
+        "additionalCasterSideEffectTargetType": "Single"
       },
       {
         "statusEffect": "FixedHealthRecovery",
         "id": "hp_recovery_nadezhda_costume",
         "buff": "MinorBuff",
         "healthPoints": 160,
-        "healthPointsIncrementPerLevel": 15
+        "healthPointsIncrementPerLevel": 15,
+        "isHealthBoost": true
       },
       {
         "statusEffect": "FixedHealthRecovery",
@@ -52181,7 +52204,10 @@
         "id": "burn_manpip",
         "buff": "MinorDebuff",
         "damageMultiplierPerMil": 100,
-        "damageMultiplierIncrementPerLevelPerMil": 0
+        "damageMultiplierIncrementPerLevelPerMil": 0,
+        "additionalCasterSideEffect": "Heal",
+        "additionalCasterSideEffectPowerPerMil": 200,
+        "additionalCasterSideEffectTargetType": "Single"
       },
       {
         "statusEffect": "FixedHealthRecovery",
@@ -52810,7 +52836,10 @@
         "id": "burn_ray_costume",
         "buff": "MinorDebuff",
         "damageMultiplierPerMil": 110,
-        "damageMultiplierIncrementPerLevelPerMil": 9
+        "damageMultiplierIncrementPerLevelPerMil": 9,
+        "additionalCasterSideEffect": "Heal",
+        "additionalCasterSideEffectPowerPerMil": 100,
+        "additionalCasterSideEffectTargetType": "Single"
       },
       {
         "statusEffect": "RedDefenseModifier",
@@ -52824,7 +52853,8 @@
         "id": "hp_recovery_ray_costume",
         "buff": "MinorBuff",
         "healthPoints": 197,
-        "healthPointsIncrementPerLevel": 9
+        "healthPointsIncrementPerLevel": 9,
+        "isHealthBoost": true
       },
       {
         "statusEffect": "GreenAttackModifier",
@@ -53335,10 +53365,10 @@
         "statusEffect": "DefenseModifierPerTile",
         "id": "defense_modifier_debuff_per_blue_tile_glacivolt",
         "buff": "MinorDebuff",
-        "defenseMultiplierPerMil": 940,
+        "defenseMultiplierPerMil": 890,
         "defenseMultiplierIncrementPerLevelPerMil": 236,
         "incrementPerTilePerMil": 206,
-        "maxTileCount": 6,
+        "maxTileCount": 5,
         "element": "Blue"
       },
       {
@@ -53352,7 +53382,7 @@
         "statusEffect": "Frost",
         "id": "frost_all_glacivolt",
         "buff": "MinorDebuff",
-        "damageMultiplierPerMil": 50,
+        "damageMultiplierPerMil": 65,
         "damageMultiplierIncrementPerLevelPerMil": 10
       },
       {
@@ -55108,7 +55138,7 @@
         "statusEffect": "Frost",
         "id": "frost_damage_minion_winter",
         "buff": "MinorDebuff",
-        "damageMultiplierPerMil": 30,
+        "damageMultiplierPerMil": 95,
         "damageMultiplierIncrementPerLevelPerMil": 0
       },
       {
@@ -61613,7 +61643,7 @@
         "chanceIncreasedPerInsanityStepPerMil": 50,
         "insanityPerStep": 10,
         "maximumRevivalChancePerMil": 500,
-        "chanceOnInsanityActivationCausedDeathPerMil": 0,
+        "chanceOnInsanityActivationCausedDeathPerMil": 500,
         "alternativeFormId": "eldritch_host"
       },
       {
@@ -82064,5 +82094,5 @@
       "SharedDamage"
     ]
   },
-  "battleConfigId": 4046182703
+  "battleConfigId": 3138984920
 }

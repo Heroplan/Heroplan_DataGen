@@ -1,4 +1,4 @@
-✅ 成功匹配的服装 (476 / 0)
+✅ 成功匹配的服装 (480 / 0)
 ================================
 Name: Berden Costume1, Fancy Name: Adroit Archer
 Name: Hannah Costume1, Fancy Name: Adventurous Drover
@@ -34,6 +34,7 @@ Name: Mitsuko Costume1, Fancy Name: Blazing Beauty
 Name: Finley Costume1, Fancy Name: Bleak Commodore
 Name: Wilbur Costume1, Fancy Name: Bold Brewmaster
 Name: Guardian Jackal Costume1, Fancy Name: Bone Collector of Teltoc
+Name: Aramis costume1, Fancy Name: Boulanger Musketeer
 Name: Gan Ju Glass, Fancy Name: Branch of Glass
 Name: Gan Ju Toon, Fancy Name: Branch of Toons
 Name: Gunnar Costume1, Fancy Name: Brave Blacksmith
@@ -43,6 +44,7 @@ Name: Colen Costume2, Fancy Name: Brave Tracker
 Name: Kiril Glass, Fancy Name: Brewer Vitrail
 Name: Elizabeth Costume1, Fancy Name: Bridal Aristocrat
 Name: Gravemaker Costume1, Fancy Name: Burning Avenger
+Name: Felton costume1, Fancy Name: Callous Pirate
 Name: Skittleskull Costume1, Fancy Name: Candy Witch
 Name: Elena Costume1, Fancy Name: Captain of Fire
 Name: Mr Pengi Costume1, Fancy Name: Captain of Snowboard Team
@@ -85,6 +87,7 @@ Name: Cyprian Glass, Fancy Name: Deathbound Vitrail
 Name: Cyprian Costume1, Fancy Name: Deathless Prince
 Name: Sabina Costume1, Fancy Name: Deathless Princess
 Name: Sabina Toon, Fancy Name: Deathless Toon
+Name: Zandria costume1, Fancy Name: Defender of Galaxies
 Name: Dr Moreau Costume1, Fancy Name: Devious Scribe
 Name: Roz Costume1, Fancy Name: Disco Sharpshooter
 Name: Jaco Costume1, Fancy Name: Dodgy Alchemist of the Deep
@@ -292,6 +295,7 @@ Name: Melendor Costume2, Fancy Name: Party Wizard
 Name: Aeron Costume1, Fancy Name: Periwig Judge
 Name: Ahmose Costume1, Fancy Name: Pharaoh Reborn
 Name: Waqas Costume1, Fancy Name: Pharaoh's Blade
+Name: Villiers costume1, Fancy Name: Pompous Jester
 Name: Obakan Costume1, Fancy Name: Praetorian Gladiator
 Name: Obakan Toon, Fancy Name: Praetorian Toon
 Name: Obakan Costume2, Fancy Name: Praetorian Vampire

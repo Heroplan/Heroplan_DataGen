@@ -121,7 +121,8 @@ window.allHeroesExtra = [
         "specialId": "sewing_back_together",
         "passiveSkills": [
             "reduce_big_minion_health",
-            "fly_magic_carpet"
+            "fly_magic_carpet",
+            "debuffs_to_buffs_on_special_cast_magic_carpet"
         ],
         "family": "magic_carpet"
     },
@@ -3304,9 +3305,9 @@ window.allHeroesExtra = [
             "Healers (Special)"
         ],
         "heroId": "mahayoddha_chitrangada",
-        "baseAttack": 576,
-        "baseDefense": 626,
-        "baseHealth": 1083,
+        "baseAttack": 607,
+        "baseDefense": 647,
+        "baseHealth": 1099,
         "specialId": "gift_of_rejuvenation",
         "passiveSkills": [
             "resist_negative_minion_and_mega_minion_effects",
@@ -4576,10 +4577,12 @@ window.allHeroesExtra = [
         "specialId": "scourge_of_joy",
         "specialId_costume": "merriest_misery",
         "passiveSkills": null,
-        "costumeBonusPassiveSkillIds": null,
-        "attackBonus": "35%",
-        "defenseBonus": "35%",
-        "healthBonus": "35%",
+        "costumeBonusPassiveSkillIds": [
+            "frost_on_minion_damage_done"
+        ],
+        "attackBonus": "37%",
+        "defenseBonus": "37%",
+        "healthBonus": "38%",
         "manaBonus": "5%",
         "family": "winter"
     },
@@ -5355,10 +5358,12 @@ window.allHeroesExtra = [
         "specialId": "herring_blaster",
         "specialId_costume": "herring_surprise",
         "passiveSkills": null,
-        "costumeBonusPassiveSkillIds": null,
-        "attackBonus": "35%",
-        "defenseBonus": "35%",
-        "healthBonus": "35%",
+        "costumeBonusPassiveSkillIds": [
+            "frost_on_minion_damage_done"
+        ],
+        "attackBonus": "37%",
+        "defenseBonus": "37%",
+        "healthBonus": "38%",
         "manaBonus": "5%",
         "family": "winter"
     },
@@ -11185,7 +11190,8 @@ window.allHeroesExtra = [
         "specialId": "picnic_in_the_sky",
         "passiveSkills": [
             "reduce_big_minion_health",
-            "fly_magic_carpet"
+            "fly_magic_carpet",
+            "debuffs_to_buffs_on_special_cast_magic_carpet"
         ],
         "family": "magic_carpet"
     },
@@ -13276,10 +13282,12 @@ window.allHeroesExtra = [
         "specialId": "super_porridge",
         "specialId_costume": "hyper_porridge",
         "passiveSkills": null,
-        "costumeBonusPassiveSkillIds": null,
-        "attackBonus": "35%",
-        "defenseBonus": "35%",
-        "healthBonus": "35%",
+        "costumeBonusPassiveSkillIds": [
+            "frost_on_minion_damage_done"
+        ],
+        "attackBonus": "37%",
+        "defenseBonus": "37%",
+        "healthBonus": "38%",
         "manaBonus": "5%",
         "family": "winter"
     },
@@ -24286,7 +24294,8 @@ window.allHeroesExtra = [
         "specialId": "kindled_carpet",
         "passiveSkills": [
             "reduce_big_minion_health",
-            "fly_magic_carpet"
+            "fly_magic_carpet",
+            "buffs_to_debuffs_on_special_cast_magic_carpet"
         ],
         "family": "magic_carpet"
     },
@@ -25498,9 +25507,9 @@ window.allHeroesExtra = [
             "Ability Scores Modifiers"
         ],
         "heroId": "mahayoddha_bhima",
-        "baseAttack": 626,
-        "baseDefense": 581,
-        "baseHealth": 1048,
+        "baseAttack": 645,
+        "baseDefense": 600,
+        "baseHealth": 1098,
         "specialId": "righteous_pulverizer",
         "passiveSkills": [
             "increased_damage_against_minions_and_mega_minions",
@@ -28125,7 +28134,8 @@ window.allHeroesExtra = [
         "specialId": "countering_hammock",
         "passiveSkills": [
             "reduce_big_minion_health",
-            "fly_magic_carpet"
+            "fly_magic_carpet",
+            "buffs_to_debuffs_on_special_cast_magic_carpet"
         ],
         "family": "magic_carpet"
     },
@@ -29106,10 +29116,12 @@ window.allHeroesExtra = [
         "specialId": "ultimate_giftsack",
         "specialId_costume": "gift_of_rock",
         "passiveSkills": null,
-        "costumeBonusPassiveSkillIds": null,
-        "attackBonus": "35%",
-        "defenseBonus": "35%",
-        "healthBonus": "35%",
+        "costumeBonusPassiveSkillIds": [
+            "frost_on_minion_damage_done"
+        ],
+        "attackBonus": "37%",
+        "defenseBonus": "37%",
+        "healthBonus": "38%",
         "manaBonus": "5%",
         "family": "winter"
     },
@@ -36951,7 +36963,8 @@ window.allHeroesExtra = [
         "specialId": "soaring_blast",
         "passiveSkills": [
             "reduce_big_minion_health",
-            "fly_magic_carpet"
+            "fly_magic_carpet",
+            "debuffs_to_buffs_on_special_cast_magic_carpet"
         ],
         "family": "magic_carpet"
     },
@@ -37357,7 +37370,8 @@ window.allHeroesExtra = [
         "specialId": "twostep_swing",
         "passiveSkills": [
             "reduce_big_minion_health",
-            "fly_magic_carpet"
+            "fly_magic_carpet",
+            "debuffs_to_buffs_on_special_cast_magic_carpet"
         ],
         "family": "magic_carpet"
     },
@@ -37865,7 +37879,8 @@ window.allHeroesExtra = [
         "specialId": "high_altitude_ambush",
         "passiveSkills": [
             "reduce_big_minion_health",
-            "fly_magic_carpet"
+            "fly_magic_carpet",
+            "buffs_to_debuffs_on_special_cast_magic_carpet"
         ],
         "family": "magic_carpet"
     },
@@ -38734,7 +38749,8 @@ window.allHeroesExtra = [
         "specialId": "catnip_fury",
         "passiveSkills": [
             "resist_negative_minion_and_mega_minion_effects",
-            "fly_magic_carpet"
+            "fly_magic_carpet",
+            "buffs_to_debuffs_on_special_cast_magic_carpet"
         ],
         "family": "magic_carpet"
     },
@@ -39475,7 +39491,8 @@ window.allHeroesExtra = [
         "specialId": "zooming_lunge",
         "passiveSkills": [
             "reduce_big_minion_health",
-            "fly_magic_carpet"
+            "fly_magic_carpet",
+            "buffs_to_debuffs_on_special_cast_magic_carpet"
         ],
         "family": "magic_carpet"
     },
@@ -40486,7 +40503,8 @@ window.allHeroesExtra = [
         "specialId": "herbal_remedies",
         "passiveSkills": [
             "reduce_big_minion_health",
-            "fly_magic_carpet"
+            "fly_magic_carpet",
+            "debuffs_to_buffs_on_special_cast_magic_carpet"
         ],
         "family": "magic_carpet"
     },
@@ -40901,7 +40919,8 @@ window.allHeroesExtra = [
         "specialId": "skyfall_crumble",
         "passiveSkills": [
             "reduce_big_minion_health",
-            "fly_magic_carpet"
+            "fly_magic_carpet",
+            "buffs_to_debuffs_on_special_cast_magic_carpet"
         ],
         "family": "magic_carpet"
     },
@@ -40932,5 +40951,320 @@ window.allHeroesExtra = [
             "damage_increase_by_insanity"
         ],
         "family": "forsaken"
+    },
+    {
+        "name": "Marnes",
+        "fancy name": "Flank-Stabbing Panther",
+        "element": "Purple",
+        "rarity": 5,
+        "class": "Rogue",
+        "speed": "very_fast",
+        "Release date": "2025-11-07",
+        "AetherPower": "Attack Up",
+        "skill_types": [
+            "Snipers",
+            "DoT Attackers"
+        ],
+        "heroId": "wild_cat_marnes",
+        "baseAttack": 643,
+        "baseDefense": 609,
+        "baseHealth": 1084,
+        "specialId": "blade_of_horrid_affliction",
+        "passiveSkills": [
+            "resist_all_defense_effects",
+            "revive_chance_nine_lives"
+        ],
+        "family": "wild_cat"
+    },
+    {
+        "name": "Emblem Mimic Dark",
+        "fancy name": "Horrifying One-Eyed Lockbox",
+        "element": "Purple",
+        "rarity": 5,
+        "class": "Ranger",
+        "speed": "fast",
+        "Release date": "2025-11-09",
+        "AetherPower": "Bulwark",
+        "skill_types": [
+            "Healers (Special)",
+            "Minions Counters",
+            "Snipers",
+            "Mana Raisers",
+            "Immunity Providers",
+            "Ghost Form & Hiding",
+            "Bypassers",
+            "DoT Attackers"
+        ],
+        "heroId": "mimic_emblem_purple",
+        "baseAttack": 628,
+        "baseDefense": 628,
+        "baseHealth": 1080,
+        "specialId": "savage_gobble_purple",
+        "passiveSkills": [
+            "mimic_emblem_purple",
+            "never_miss_special"
+        ],
+        "family": "mimic"
+    },
+    {
+        "name": "Lucas",
+        "fancy name": "Dominique's Younger Brother",
+        "element": "Green",
+        "rarity": 3,
+        "class": "Fighter",
+        "speed": "fast",
+        "Release date": "2025-11-12",
+        "AetherPower": "Regen",
+        "skill_types": [
+            "AoE Attackers (Hit-3)",
+            "Counterattackers"
+        ],
+        "heroId": "beauty_beast_lucas",
+        "baseAttack": 320,
+        "baseDefense": 323,
+        "baseHealth": 561,
+        "specialId": "gentlemans_cane",
+        "passiveSkills": [
+            "convert_incoming_damage_to_heal",
+            "heal_on_expired_or_cleared_debuff",
+            "reduce_revival_health_all_enemies"
+        ],
+        "family": "beauty_beast"
+    },
+    {
+        "name": "Villiers costume1",
+        "fancy name": "Pompous Jester",
+        "element": "Green",
+        "rarity": 4,
+        "class": "Rogue",
+        "speed": "average",
+        "Release date": "2025-11-12",
+        "AetherPower": "Damage Reduction",
+        "skill_types": [
+            "AoE Attackers (Hit-3)",
+            "Buff Stealers",
+            "Fiends Summoners",
+            "DoT Attackers",
+            "Heal over Time (HoT)",
+            "Health Boosters"
+        ],
+        "heroId": "musketeer_villiers_costume_jester",
+        "baseAttack": 331,
+        "baseDefense": 318,
+        "baseHealth": 563,
+        "specialId": "the_dukes_investigation",
+        "specialId_costume": "the_undercover_investigation",
+        "passiveSkills": [
+            "damage_all_enemies_on_cover_or_special_damage_received_costume",
+            "resist_defense_modifier_debuffs"
+        ],
+        "costumeBonusPassiveSkillIds": null,
+        "attackBonus": "15%",
+        "defenseBonus": "15%",
+        "healthBonus": "20%",
+        "manaBonus": "5%",
+        "family": "musketeer"
+    },
+    {
+        "name": "Aramis costume1",
+        "fancy name": "Boulanger Musketeer",
+        "element": "Purple",
+        "rarity": 5,
+        "class": "Paladin",
+        "speed": "average",
+        "Release date": "2025-11-12",
+        "AetherPower": "Dodge",
+        "skill_types": [
+            "AoE Attackers (Hit-3)",
+            "Health Boosters",
+            "Immunity Providers",
+            "Healers (Special)",
+            "Damage Reducers"
+        ],
+        "heroId": "musketeer_aramis_costume_boulanger",
+        "baseAttack": 429,
+        "baseDefense": 377,
+        "baseHealth": 680,
+        "specialId": "charmers_blades",
+        "specialId_costume": "bakers_baguettes",
+        "passiveSkills": [
+            "damage_all_enemies_on_cover_or_special_damage_received_costume",
+            "resist_defense_modifier_debuffs"
+        ],
+        "costumeBonusPassiveSkillIds": null,
+        "attackBonus": "55%",
+        "defenseBonus": "55%",
+        "healthBonus": "60%",
+        "manaBonus": "5%",
+        "family": "musketeer"
+    },
+    {
+        "name": "The Beast",
+        "fancy name": "Lonely Prince of the Bewitched Castle",
+        "element": "Purple",
+        "rarity": 5,
+        "class": "Monk",
+        "speed": "slow",
+        "Release date": "2025-11-12",
+        "AetherPower": "Rage",
+        "skill_types": [
+            "Chain & Random Attackers",
+            "Debuffers (DEF)",
+            "Mindless Attack & Mindless Heal",
+            "Health Boosters"
+        ],
+        "heroId": "beauty_beast_the_beast",
+        "baseAttack": 630,
+        "baseDefense": 622,
+        "baseHealth": 1099,
+        "specialId": "dinner_with_the_beast",
+        "passiveSkills": [
+            "convert_incoming_damage_to_heal",
+            "heal_on_expired_or_cleared_debuff",
+            "reduce_revival_health_all_enemies"
+        ],
+        "family": "beauty_beast"
+    },
+    {
+        "name": "Rose de Flo",
+        "fancy name": "Bloom of the Bewitched Castle",
+        "element": "Red",
+        "rarity": 5,
+        "class": "Druid",
+        "speed": "very_fast",
+        "Release date": "2025-11-12",
+        "AetherPower": "Fiend Resist",
+        "skill_types": [
+            "Healers",
+            "Cleansers",
+            "Heal over Time (HoT)",
+            "Buffers (DEF)"
+        ],
+        "heroId": "beauty_beast_rose_de_flo",
+        "baseAttack": 626,
+        "baseDefense": 628,
+        "baseHealth": 1096,
+        "specialId": "beautiful_petals",
+        "passiveSkills": [
+            "convert_incoming_damage_to_heal",
+            "heal_on_expired_or_cleared_debuff",
+            "reduce_revival_health_all_enemies"
+        ],
+        "family": "beauty_beast"
+    },
+    {
+        "name": "Wiglaf",
+        "fancy name": "Son of Weohstan",
+        "element": "Red",
+        "rarity": 5,
+        "class": "Paladin",
+        "speed": "fast",
+        "Release date": "2025-11-08",
+        "AetherPower": "Attack Up",
+        "skill_types": [
+            "AoE Attackers (Hit-3)",
+            "Extra Damage Dealers",
+            "DoT Attackers",
+            "Buffers (ATK)"
+        ],
+        "heroId": "beowulf_wiglaf",
+        "baseAttack": 636,
+        "baseDefense": 610,
+        "baseHealth": 1099,
+        "specialId": "stalwart_to_the_end",
+        "passiveSkills": [
+            "attack_buff_on_damage_received",
+            "resist_mana_reductions_with_health_boost_and_mana",
+            "never_miss_special"
+        ],
+        "family": "beowulf"
+    },
+    {
+        "name": "Felton costume1",
+        "fancy name": "Callous Pirate",
+        "element": "Yellow",
+        "rarity": 3,
+        "class": "Barbarian",
+        "speed": "fast",
+        "Release date": "2025-11-12",
+        "AetherPower": "Counterattack",
+        "skill_types": [
+            "Extra Damage Dealers",
+            "Reflectors",
+            "Snipers",
+            "Heal over Time (HoT)",
+            "Health Boosters"
+        ],
+        "heroId": "musketeer_felton_costume_pirate",
+        "baseAttack": 313,
+        "baseDefense": 293,
+        "baseHealth": 371,
+        "specialId": "covert_stab",
+        "specialId_costume": "swashbuckling_stab",
+        "passiveSkills": [
+            "damage_all_enemies_on_cover_or_special_damage_received_costume",
+            "resist_defense_modifier_debuffs"
+        ],
+        "costumeBonusPassiveSkillIds": null,
+        "attackBonus": "15%",
+        "defenseBonus": "15%",
+        "healthBonus": "15%",
+        "manaBonus": "5%",
+        "family": "musketeer"
+    },
+    {
+        "name": "Chandel",
+        "fancy name": "Illuminator of the Bewitched Castle",
+        "element": "Yellow",
+        "rarity": 4,
+        "class": "Cleric",
+        "speed": "average",
+        "Release date": "2025-11-12",
+        "AetherPower": "Attack Up",
+        "skill_types": [
+            "Snipers",
+            "Max Health Reducers"
+        ],
+        "heroId": "beauty_beast_chandel",
+        "baseAttack": 394,
+        "baseDefense": 365,
+        "baseHealth": 647,
+        "specialId": "engulfing_candlelight",
+        "passiveSkills": [
+            "convert_incoming_damage_to_heal",
+            "heal_on_expired_or_cleared_debuff",
+            "reduce_revival_health_all_enemies"
+        ],
+        "family": "beauty_beast"
+    },
+    {
+        "name": "Zandria costume1",
+        "fancy name": "Defender of Galaxies",
+        "element": "Yellow",
+        "rarity": 5,
+        "class": "Fighter",
+        "speed": "very_slow",
+        "Release date": "2025-11-10",
+        "AetherPower": "Bulwark",
+        "skill_types": [
+            "AoE Attackers (Hit-5)",
+            "Revivers",
+            "Extra Damage Dealers"
+        ],
+        "heroId": "elemental_zandria_costume_planet",
+        "baseAttack": 400,
+        "baseDefense": 424,
+        "baseHealth": 828,
+        "specialId": "unwavering_devotion",
+        "specialId_costume": "cosmic_devotion",
+        "passiveSkills": [
+            "strong_troop_damage_modifier_costume"
+        ],
+        "costumeBonusPassiveSkillIds": null,
+        "attackBonus": "46%",
+        "defenseBonus": "46%",
+        "healthBonus": "47%",
+        "manaBonus": "5%",
+        "family": "super_elemental"
     }
 ];

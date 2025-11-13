@@ -1169,7 +1169,7 @@
         "id": "lottery_super_elemental_yellow",
         "gemPrice": 350,
         "amount": 1,
-        "uiPriority": 139,
+        "uiPriority": 148,
         "associatedEvent": "SuperElemental",
         "bonusChest": "super_elemental_chest_yellow",
         "bonusChestRequirement": 10,
@@ -2217,7 +2217,7 @@
         "id": "lottery_covenant_default",
         "gemPrice": 400,
         "amount": 1,
-        "uiPriority": 135,
+        "uiPriority": 148,
         "associatedEvent": "CovenantSummon",
         "bonusChest": "covenant_chest",
         "bonusChestRequirement": 10,
@@ -14786,7 +14786,6 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.triple4_tree_1",
         "dollarValue": 5,
-        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -14868,7 +14867,6 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.triple4_tree_3",
         "dollarValue": 100,
-        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -21261,6 +21259,7 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.singlesday_1",
         "dollarValue": 10,
+        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -21270,57 +21269,57 @@
           },
           {
             "type": "Item",
-            "id": "lottery_astralelves_coin",
-            "amount": 111
-          },
-          {
-            "type": "Item",
-            "id": "hero_orb_of_magic",
-            "amount": 1
-          },
-          {
-            "type": "Item",
-            "id": "hero_sturdy_shield",
-            "amount": 1
-          },
-          {
-            "type": "Item",
-            "id": "hero_trap_tools",
-            "amount": 1
-          },
-          {
-            "type": "Item",
-            "id": "hero_warm_cape",
-            "amount": 1
-          },
-          {
-            "type": "Item",
-            "id": "hero_compass",
-            "amount": 1
-          },
-          {
-            "type": "Item",
-            "id": "hero_fine_gloves",
-            "amount": 1
-          },
-          {
-            "type": "Item",
-            "id": "hero_hidden_blade",
-            "amount": 1
-          },
-          {
-            "type": "Item",
-            "id": "titan_battle_scroll_of_alteration",
+            "id": "hero_limitbreak_rare_red",
             "amount": 11
           },
           {
             "type": "Item",
-            "id": "titan_battle_giant_harpoon",
+            "id": "hero_limitbreak_rare_blue",
             "amount": 11
           },
           {
             "type": "Item",
-            "id": "titan_battle_hurricane",
+            "id": "hero_limitbreak_rare_green",
+            "amount": 11
+          },
+          {
+            "type": "Item",
+            "id": "hero_limitbreak_rare_yellow",
+            "amount": 11
+          },
+          {
+            "type": "Item",
+            "id": "hero_limitbreak_rare_purple",
+            "amount": 11
+          },
+          {
+            "type": "Item",
+            "id": "hero_limitbreak_alpha",
+            "amount": 1
+          },
+          {
+            "type": "Item",
+            "id": "hero_limitbreak_epic_red",
+            "amount": 11
+          },
+          {
+            "type": "Item",
+            "id": "hero_limitbreak_epic_blue",
+            "amount": 11
+          },
+          {
+            "type": "Item",
+            "id": "hero_limitbreak_epic_green",
+            "amount": 11
+          },
+          {
+            "type": "Item",
+            "id": "hero_limitbreak_epic_yellow",
+            "amount": 11
+          },
+          {
+            "type": "Item",
+            "id": "hero_limitbreak_epic_purple",
             "amount": 11
           }
         ]
@@ -21329,6 +21328,7 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.singlesday_2",
         "dollarValue": 100,
+        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -21338,33 +21338,63 @@
           },
           {
             "type": "Item",
-            "id": "lottery_astralelves_coin",
-            "amount": 1111
+            "id": "emblem_master_monk",
+            "amount": 11
           },
           {
             "type": "Item",
-            "id": "hero_mystic_rings",
-            "amount": 1
+            "id": "emblem_master_rogue",
+            "amount": 11
           },
           {
             "type": "Item",
-            "id": "hero_poison_darts",
-            "amount": 1
+            "id": "emblem_master_druid",
+            "amount": 11
           },
           {
             "type": "Item",
-            "id": "hero_mysterious_tonic",
-            "amount": 1
+            "id": "emblem_master_wizard",
+            "amount": 11
           },
           {
             "type": "Item",
-            "id": "hero_royal_tabard",
-            "amount": 1
+            "id": "emblem_master_cleric",
+            "amount": 11
           },
           {
             "type": "Item",
-            "id": "hero_farsight_telescope",
-            "amount": 1
+            "id": "lottery_challenge_coin",
+            "amount": 111
+          },
+          {
+            "type": "Item",
+            "id": "emblem_master_ranger",
+            "amount": 11
+          },
+          {
+            "type": "Item",
+            "id": "emblem_master_fighter",
+            "amount": 11
+          },
+          {
+            "type": "Item",
+            "id": "emblem_master_paladin",
+            "amount": 11
+          },
+          {
+            "type": "Item",
+            "id": "emblem_master_barbarian",
+            "amount": 11
+          },
+          {
+            "type": "Item",
+            "id": "emblem_master_sorcerer",
+            "amount": 11
+          },
+          {
+            "type": "Item",
+            "id": "hero_limitbreak_alpha",
+            "amount": 11
           },
           {
             "type": "Item",
@@ -21389,36 +21419,6 @@
           {
             "type": "Item",
             "id": "hero_limitbreak_legendary_purple",
-            "amount": 1
-          },
-          {
-            "type": "Item",
-            "id": "hero_limitbreak_alpha",
-            "amount": 1
-          },
-          {
-            "type": "Item",
-            "id": "hero_tome_of_tactics",
-            "amount": 1
-          },
-          {
-            "type": "Item",
-            "id": "hero_damascus_blade",
-            "amount": 1
-          },
-          {
-            "type": "Item",
-            "id": "refill_energy_pvp_full",
-            "amount": 1
-          },
-          {
-            "type": "Item",
-            "id": "refill_energy_alliance_full",
-            "amount": 1
-          },
-          {
-            "type": "Item",
-            "id": "refill_energy_pve_full",
             "amount": 1
           }
         ]
@@ -22699,7 +22699,6 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.step_up_1",
         "dollarValue": 3,
-        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -22723,7 +22722,6 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.step_up_2",
         "dollarValue": 5,
-        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -22752,7 +22750,6 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.step_up_3",
         "dollarValue": 10,
-        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -22776,7 +22773,6 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.step_up_4",
         "dollarValue": 20,
-        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -22805,7 +22801,6 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.step_up_5",
         "dollarValue": 30,
-        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -23239,13 +23234,8 @@
         "contents": [
           {
             "type": "Item",
-            "id": "hero_limitbreak_legendary_blue",
-            "amount": 1
-          },
-          {
-            "type": "Item",
-            "id": "hero_limitbreak_epic_blue",
-            "amount": 3
+            "id": "tome_levels_blue_lesser",
+            "amount": 2
           },
           {
             "type": "Item",
@@ -23253,29 +23243,34 @@
             "amount": 1
           },
           {
-            "type": "Item",
-            "id": "hero_warm_cape",
-            "amount": 2
-          },
-          {
-            "type": "Item",
-            "id": "hero_limitbreak_rare_blue",
-            "amount": 6
-          },
-          {
             "type": "Hero",
             "id": "trainer_blue_epic",
-            "amount": 6
+            "amount": 1
           },
           {
             "type": "Hero",
             "id": "trainer_blue_rare",
-            "amount": 8
+            "amount": 1
           },
           {
             "type": "Item",
-            "id": "refill_food_giant",
+            "id": "hero_limitbreak_alpha",
             "amount": 2
+          },
+          {
+            "type": "Item",
+            "id": "hero_limitbreak_legendary_blue",
+            "amount": 1
+          },
+          {
+            "type": "Item",
+            "id": "hero_limitbreak_epic_blue",
+            "amount": 10
+          },
+          {
+            "type": "Item",
+            "id": "hero_limitbreak_rare_blue",
+            "amount": 20
           }
         ]
       },
@@ -23289,13 +23284,8 @@
         "contents": [
           {
             "type": "Item",
-            "id": "hero_limitbreak_legendary_green",
-            "amount": 1
-          },
-          {
-            "type": "Item",
-            "id": "hero_limitbreak_epic_green",
-            "amount": 3
+            "id": "tome_levels_green_lesser",
+            "amount": 2
           },
           {
             "type": "Item",
@@ -23303,29 +23293,34 @@
             "amount": 1
           },
           {
-            "type": "Item",
-            "id": "hero_sturdy_shield",
-            "amount": 2
-          },
-          {
-            "type": "Item",
-            "id": "hero_limitbreak_rare_green",
-            "amount": 6
-          },
-          {
             "type": "Hero",
             "id": "trainer_green_epic",
-            "amount": 6
+            "amount": 1
           },
           {
             "type": "Hero",
             "id": "trainer_green_rare",
-            "amount": 8
+            "amount": 1
           },
           {
             "type": "Item",
-            "id": "refill_food_giant",
+            "id": "hero_limitbreak_alpha",
             "amount": 2
+          },
+          {
+            "type": "Item",
+            "id": "hero_limitbreak_legendary_green",
+            "amount": 1
+          },
+          {
+            "type": "Item",
+            "id": "hero_limitbreak_epic_green",
+            "amount": 10
+          },
+          {
+            "type": "Item",
+            "id": "hero_limitbreak_rare_green",
+            "amount": 20
           }
         ]
       },
@@ -23339,13 +23334,8 @@
         "contents": [
           {
             "type": "Item",
-            "id": "hero_limitbreak_legendary_purple",
-            "amount": 1
-          },
-          {
-            "type": "Item",
-            "id": "hero_limitbreak_epic_purple",
-            "amount": 3
+            "id": "tome_levels_purple_lesser",
+            "amount": 2
           },
           {
             "type": "Item",
@@ -23353,29 +23343,34 @@
             "amount": 1
           },
           {
-            "type": "Item",
-            "id": "hero_trap_tools",
-            "amount": 2
-          },
-          {
-            "type": "Item",
-            "id": "hero_limitbreak_rare_purple",
-            "amount": 6
-          },
-          {
             "type": "Hero",
             "id": "trainer_purple_epic",
-            "amount": 6
+            "amount": 1
           },
           {
             "type": "Hero",
             "id": "trainer_purple_rare",
-            "amount": 8
+            "amount": 1
           },
           {
             "type": "Item",
-            "id": "refill_food_giant",
+            "id": "hero_limitbreak_alpha",
             "amount": 2
+          },
+          {
+            "type": "Item",
+            "id": "hero_limitbreak_legendary_purple",
+            "amount": 1
+          },
+          {
+            "type": "Item",
+            "id": "hero_limitbreak_epic_purple",
+            "amount": 10
+          },
+          {
+            "type": "Item",
+            "id": "hero_limitbreak_rare_purple",
+            "amount": 20
           }
         ]
       },
@@ -23389,13 +23384,8 @@
         "contents": [
           {
             "type": "Item",
-            "id": "hero_limitbreak_legendary_red",
-            "amount": 1
-          },
-          {
-            "type": "Item",
-            "id": "hero_limitbreak_epic_red",
-            "amount": 3
+            "id": "tome_levels_red_lesser",
+            "amount": 2
           },
           {
             "type": "Item",
@@ -23403,29 +23393,34 @@
             "amount": 1
           },
           {
-            "type": "Item",
-            "id": "hero_hidden_blade",
-            "amount": 2
-          },
-          {
-            "type": "Item",
-            "id": "hero_limitbreak_rare_red",
-            "amount": 6
-          },
-          {
             "type": "Hero",
             "id": "trainer_red_epic",
-            "amount": 6
+            "amount": 1
           },
           {
             "type": "Hero",
             "id": "trainer_red_rare",
-            "amount": 8
+            "amount": 1
           },
           {
             "type": "Item",
-            "id": "refill_food_giant",
+            "id": "hero_limitbreak_alpha",
             "amount": 2
+          },
+          {
+            "type": "Item",
+            "id": "hero_limitbreak_legendary_red",
+            "amount": 1
+          },
+          {
+            "type": "Item",
+            "id": "hero_limitbreak_epic_red",
+            "amount": 10
+          },
+          {
+            "type": "Item",
+            "id": "hero_limitbreak_rare_red",
+            "amount": 20
           }
         ]
       },
@@ -23439,13 +23434,8 @@
         "contents": [
           {
             "type": "Item",
-            "id": "hero_limitbreak_legendary_yellow",
-            "amount": 1
-          },
-          {
-            "type": "Item",
-            "id": "hero_limitbreak_epic_yellow",
-            "amount": 3
+            "id": "tome_levels_yellow_lesser",
+            "amount": 2
           },
           {
             "type": "Item",
@@ -23453,29 +23443,34 @@
             "amount": 1
           },
           {
-            "type": "Item",
-            "id": "hero_orb_of_magic",
-            "amount": 2
-          },
-          {
-            "type": "Item",
-            "id": "hero_limitbreak_rare_yellow",
-            "amount": 6
-          },
-          {
             "type": "Hero",
             "id": "trainer_yellow_epic",
-            "amount": 6
+            "amount": 1
           },
           {
             "type": "Hero",
             "id": "trainer_yellow_rare",
-            "amount": 8
+            "amount": 1
           },
           {
             "type": "Item",
-            "id": "refill_food_giant",
+            "id": "hero_limitbreak_alpha",
             "amount": 2
+          },
+          {
+            "type": "Item",
+            "id": "hero_limitbreak_legendary_yellow",
+            "amount": 1
+          },
+          {
+            "type": "Item",
+            "id": "hero_limitbreak_epic_yellow",
+            "amount": 10
+          },
+          {
+            "type": "Item",
+            "id": "hero_limitbreak_rare_yellow",
+            "amount": 20
           }
         ]
       },
@@ -23533,11 +23528,12 @@
         "id": "com.smallgiantgames.empires.selectable_elemental_blue2",
         "dollarValue": 10,
         "zyngaStoreDollarValueOverride": 9,
+        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
             "type": "Item",
-            "id": "hero_limitbreak_legendary_blue",
+            "id": "tome_levels_blue_lesser",
             "amount": 1
           },
           {
@@ -23546,9 +23542,9 @@
             "amount": 1
           },
           {
-            "type": "Hero",
-            "id": "trainer_blue_epic",
-            "amount": 2
+            "type": "Item",
+            "id": "hero_limitbreak_rare_blue",
+            "amount": 5
           }
         ]
       },
@@ -23557,11 +23553,12 @@
         "id": "com.smallgiantgames.empires.selectable_elemental_green2",
         "dollarValue": 10,
         "zyngaStoreDollarValueOverride": 9,
+        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
             "type": "Item",
-            "id": "hero_limitbreak_legendary_green",
+            "id": "tome_levels_green_lesser",
             "amount": 1
           },
           {
@@ -23570,9 +23567,9 @@
             "amount": 1
           },
           {
-            "type": "Hero",
-            "id": "trainer_green_epic",
-            "amount": 2
+            "type": "Item",
+            "id": "hero_limitbreak_rare_green",
+            "amount": 5
           }
         ]
       },
@@ -23581,11 +23578,12 @@
         "id": "com.smallgiantgames.empires.selectable_elemental_purple2",
         "dollarValue": 10,
         "zyngaStoreDollarValueOverride": 9,
+        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
             "type": "Item",
-            "id": "hero_limitbreak_legendary_purple",
+            "id": "tome_levels_purple_lesser",
             "amount": 1
           },
           {
@@ -23594,9 +23592,9 @@
             "amount": 1
           },
           {
-            "type": "Hero",
-            "id": "trainer_purple_epic",
-            "amount": 2
+            "type": "Item",
+            "id": "hero_limitbreak_rare_purple",
+            "amount": 5
           }
         ]
       },
@@ -23605,11 +23603,12 @@
         "id": "com.smallgiantgames.empires.selectable_elemental_red2",
         "dollarValue": 10,
         "zyngaStoreDollarValueOverride": 9,
+        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
             "type": "Item",
-            "id": "hero_limitbreak_legendary_red",
+            "id": "tome_levels_red_lesser",
             "amount": 1
           },
           {
@@ -23618,9 +23617,9 @@
             "amount": 1
           },
           {
-            "type": "Hero",
-            "id": "trainer_red_epic",
-            "amount": 2
+            "type": "Item",
+            "id": "hero_limitbreak_rare_red",
+            "amount": 5
           }
         ]
       },
@@ -23629,11 +23628,12 @@
         "id": "com.smallgiantgames.empires.selectable_elemental_yellow2",
         "dollarValue": 10,
         "zyngaStoreDollarValueOverride": 9,
+        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
             "type": "Item",
-            "id": "hero_limitbreak_legendary_yellow",
+            "id": "tome_levels_yellow_lesser",
             "amount": 1
           },
           {
@@ -23642,9 +23642,9 @@
             "amount": 1
           },
           {
-            "type": "Hero",
-            "id": "trainer_yellow_epic",
-            "amount": 2
+            "type": "Item",
+            "id": "hero_limitbreak_rare_yellow",
+            "amount": 5
           }
         ]
       },
@@ -23657,43 +23657,43 @@
         "contents": [
           {
             "type": "Item",
-            "id": "hero_limitbreak_legendary_blue",
+            "id": "tome_levels_blue_greater",
+            "amount": 1
+          },
+          {
+            "type": "Item",
+            "id": "tome_levels_blue_lesser",
             "amount": 2
-          },
-          {
-            "type": "Item",
-            "id": "hero_limitbreak_epic_blue",
-            "amount": 4
-          },
-          {
-            "type": "Item",
-            "id": "hero_farsight_telescope",
-            "amount": 2
-          },
-          {
-            "type": "Item",
-            "id": "hero_warm_cape",
-            "amount": 2
-          },
-          {
-            "type": "Item",
-            "id": "hero_limitbreak_rare_blue",
-            "amount": 8
           },
           {
             "type": "Hero",
             "id": "trainer_blue_epic",
-            "amount": 8
+            "amount": 2
           },
           {
             "type": "Hero",
             "id": "trainer_blue_rare",
-            "amount": 8
+            "amount": 1
           },
           {
             "type": "Item",
-            "id": "refill_food_giant",
-            "amount": 2
+            "id": "hero_limitbreak_alpha",
+            "amount": 3
+          },
+          {
+            "type": "Item",
+            "id": "hero_limitbreak_legendary_blue",
+            "amount": 1
+          },
+          {
+            "type": "Item",
+            "id": "hero_limitbreak_epic_blue",
+            "amount": 10
+          },
+          {
+            "type": "Item",
+            "id": "hero_limitbreak_rare_blue",
+            "amount": 20
           }
         ]
       },
@@ -23706,43 +23706,43 @@
         "contents": [
           {
             "type": "Item",
-            "id": "hero_limitbreak_legendary_green",
+            "id": "tome_levels_green_greater",
+            "amount": 1
+          },
+          {
+            "type": "Item",
+            "id": "tome_levels_green_lesser",
             "amount": 2
-          },
-          {
-            "type": "Item",
-            "id": "hero_limitbreak_epic_green",
-            "amount": 4
-          },
-          {
-            "type": "Item",
-            "id": "hero_mysterious_tonic",
-            "amount": 2
-          },
-          {
-            "type": "Item",
-            "id": "hero_sturdy_shield",
-            "amount": 2
-          },
-          {
-            "type": "Item",
-            "id": "hero_limitbreak_rare_green",
-            "amount": 8
           },
           {
             "type": "Hero",
             "id": "trainer_green_epic",
-            "amount": 8
+            "amount": 2
           },
           {
             "type": "Hero",
             "id": "trainer_green_rare",
-            "amount": 8
+            "amount": 1
           },
           {
             "type": "Item",
-            "id": "refill_food_giant",
-            "amount": 2
+            "id": "hero_limitbreak_alpha",
+            "amount": 3
+          },
+          {
+            "type": "Item",
+            "id": "hero_limitbreak_legendary_green",
+            "amount": 1
+          },
+          {
+            "type": "Item",
+            "id": "hero_limitbreak_epic_green",
+            "amount": 10
+          },
+          {
+            "type": "Item",
+            "id": "hero_limitbreak_rare_green",
+            "amount": 20
           }
         ]
       },
@@ -23755,43 +23755,43 @@
         "contents": [
           {
             "type": "Item",
-            "id": "hero_limitbreak_legendary_purple",
+            "id": "tome_levels_purple_greater",
+            "amount": 1
+          },
+          {
+            "type": "Item",
+            "id": "tome_levels_purple_lesser",
             "amount": 2
-          },
-          {
-            "type": "Item",
-            "id": "hero_limitbreak_epic_purple",
-            "amount": 4
-          },
-          {
-            "type": "Item",
-            "id": "hero_royal_tabard",
-            "amount": 2
-          },
-          {
-            "type": "Item",
-            "id": "hero_trap_tools",
-            "amount": 2
-          },
-          {
-            "type": "Item",
-            "id": "hero_limitbreak_rare_purple",
-            "amount": 8
           },
           {
             "type": "Hero",
             "id": "trainer_purple_epic",
-            "amount": 8
+            "amount": 2
           },
           {
             "type": "Hero",
             "id": "trainer_purple_rare",
-            "amount": 8
+            "amount": 1
           },
           {
             "type": "Item",
-            "id": "refill_food_giant",
-            "amount": 2
+            "id": "hero_limitbreak_alpha",
+            "amount": 3
+          },
+          {
+            "type": "Item",
+            "id": "hero_limitbreak_legendary_purple",
+            "amount": 1
+          },
+          {
+            "type": "Item",
+            "id": "hero_limitbreak_epic_purple",
+            "amount": 10
+          },
+          {
+            "type": "Item",
+            "id": "hero_limitbreak_rare_purple",
+            "amount": 20
           }
         ]
       },
@@ -23804,43 +23804,43 @@
         "contents": [
           {
             "type": "Item",
-            "id": "hero_limitbreak_legendary_red",
+            "id": "tome_levels_red_greater",
+            "amount": 1
+          },
+          {
+            "type": "Item",
+            "id": "tome_levels_red_lesser",
             "amount": 2
-          },
-          {
-            "type": "Item",
-            "id": "hero_limitbreak_epic_red",
-            "amount": 4
-          },
-          {
-            "type": "Item",
-            "id": "hero_mystic_rings",
-            "amount": 2
-          },
-          {
-            "type": "Item",
-            "id": "hero_hidden_blade",
-            "amount": 2
-          },
-          {
-            "type": "Item",
-            "id": "hero_limitbreak_rare_red",
-            "amount": 8
           },
           {
             "type": "Hero",
             "id": "trainer_red_epic",
-            "amount": 8
+            "amount": 2
           },
           {
             "type": "Hero",
             "id": "trainer_red_rare",
-            "amount": 8
+            "amount": 1
           },
           {
             "type": "Item",
-            "id": "refill_food_giant",
-            "amount": 2
+            "id": "hero_limitbreak_alpha",
+            "amount": 3
+          },
+          {
+            "type": "Item",
+            "id": "hero_limitbreak_legendary_red",
+            "amount": 1
+          },
+          {
+            "type": "Item",
+            "id": "hero_limitbreak_epic_red",
+            "amount": 10
+          },
+          {
+            "type": "Item",
+            "id": "hero_limitbreak_rare_red",
+            "amount": 20
           }
         ]
       },
@@ -23853,43 +23853,43 @@
         "contents": [
           {
             "type": "Item",
-            "id": "hero_limitbreak_legendary_yellow",
+            "id": "tome_levels_yellow_greater",
+            "amount": 1
+          },
+          {
+            "type": "Item",
+            "id": "tome_levels_yellow_lesser",
             "amount": 2
-          },
-          {
-            "type": "Item",
-            "id": "hero_limitbreak_epic_yellow",
-            "amount": 4
-          },
-          {
-            "type": "Item",
-            "id": "hero_poison_darts",
-            "amount": 2
-          },
-          {
-            "type": "Item",
-            "id": "hero_orb_of_magic",
-            "amount": 2
-          },
-          {
-            "type": "Item",
-            "id": "hero_limitbreak_rare_yellow",
-            "amount": 8
           },
           {
             "type": "Hero",
             "id": "trainer_yellow_epic",
-            "amount": 8
+            "amount": 2
           },
           {
             "type": "Hero",
             "id": "trainer_yellow_rare",
-            "amount": 8
+            "amount": 1
           },
           {
             "type": "Item",
-            "id": "refill_food_giant",
-            "amount": 2
+            "id": "hero_limitbreak_alpha",
+            "amount": 3
+          },
+          {
+            "type": "Item",
+            "id": "hero_limitbreak_legendary_yellow",
+            "amount": 1
+          },
+          {
+            "type": "Item",
+            "id": "hero_limitbreak_epic_yellow",
+            "amount": 10
+          },
+          {
+            "type": "Item",
+            "id": "hero_limitbreak_rare_yellow",
+            "amount": 20
           }
         ]
       },
@@ -23898,7 +23898,6 @@
         "id": "com.smallgiantgames.empires.mastertraineroffer2",
         "dollarValue": 30,
         "zyngaStoreDollarValueOverride": 27,
-        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -24241,7 +24240,6 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.triple4_tree_2b",
         "dollarValue": 30,
-        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -28196,7 +28194,6 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.unlock_master_trainer_tier1",
         "dollarValue": 3,
-        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -28216,7 +28213,6 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.unlock_master_trainer_tier2",
         "dollarValue": 5,
-        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -28236,7 +28232,6 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.unlock_master_trainer_tier3",
         "dollarValue": 15,
-        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -28261,7 +28256,6 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.unlock_master_trainer_tier4",
         "dollarValue": 20,
-        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -28287,7 +28281,6 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.unlock_master_trainer_tier5",
         "dollarValue": 50,
-        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -28316,7 +28309,7 @@
         "contents": [
           {
             "type": "Gem",
-            "amount": 350,
+            "amount": 400,
             "zyngaStoreExtraAmount": 50
           }
         ]
@@ -28353,14 +28346,14 @@
             "zyngaStoreExtraAmount": 200
           },
           {
-            "type": "Item",
-            "id": "lottery_costume_key",
-            "amount": 15
+            "type": "Product",
+            "id": "hero_cap_increase",
+            "amount": 1
           },
           {
             "type": "Item",
-            "id": "lottery_challenge_coin",
-            "amount": 30
+            "id": "misc_free_talent_point",
+            "amount": 1
           }
         ]
       },
@@ -28378,23 +28371,18 @@
           },
           {
             "type": "Item",
-            "id": "lottery_season5_coin",
-            "amount": 300
+            "id": "lottery_wilderness_coin",
+            "amount": 400
           },
           {
             "type": "Item",
-            "id": "lottery_underwild_coin",
-            "amount": 300
+            "id": "lottery_covenant_coin",
+            "amount": 400
           },
           {
             "type": "Item",
-            "id": "lottery_valhalla_coin",
-            "amount": 300
-          },
-          {
-            "type": "Item",
-            "id": "lottery_atlantis_coin",
-            "amount": 300
+            "id": "lottery_ascension_coin",
+            "amount": 400
           }
         ]
       },
@@ -28534,18 +28522,13 @@
         "contents": [
           {
             "type": "Gem",
-            "amount": 6000,
+            "amount": 5000,
             "zyngaStoreExtraAmount": 1000
           },
           {
             "type": "Item",
-            "id": "lottery_wilderness_coin",
-            "amount": 1000
-          },
-          {
-            "type": "Item",
-            "id": "lottery_super_elemental_coin",
-            "amount": 1000
+            "id": "hero_limitbreak_alpha",
+            "amount": 10
           }
         ]
       },
@@ -33450,6 +33433,7 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.monsterisland_day1_1",
         "dollarValue": 30,
+        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -33469,6 +33453,7 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.monsterisland_day1_2",
         "dollarValue": 3,
+        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -33483,6 +33468,7 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.monsterisland_day2_1",
         "dollarValue": 15,
+        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -33507,6 +33493,7 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.monsterisland_day2_2",
         "dollarValue": 5,
+        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -33530,6 +33517,7 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.monsterisland_day3_1",
         "dollarValue": 30,
+        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -33549,6 +33537,7 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.monsterisland_day3_2",
         "dollarValue": 10,
+        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -33876,7 +33865,6 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.dragon_majestic_1",
         "dollarValue": 3,
-        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -33900,7 +33888,6 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.dragon_majestic_2",
         "dollarValue": 10,
-        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -33959,7 +33946,6 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.dragon_majestic_3",
         "dollarValue": 30,
-        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -34048,7 +34034,6 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.dragon_snowys_1",
         "dollarValue": 5,
-        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -34077,7 +34062,6 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.dragon_snowys_2",
         "dollarValue": 20,
-        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -34239,7 +34223,6 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.dragon_select_asc4",
         "dollarValue": 30,
-        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -34259,7 +34242,6 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.dragon_flaming",
         "dollarValue": 5,
-        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -34317,7 +34299,6 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.dragon_owlfords",
         "dollarValue": 5,
-        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -35365,7 +35346,6 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.dragon_select_asc3",
         "dollarValue": 10,
-        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -36139,7 +36119,6 @@
         "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [],
-        "allianceGiftCustomContentId": "dynamic3_alliancegift",
         "dynamicOfferProduct": true
       },
       {
@@ -37250,6 +37229,7 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.monsterisland_day0_2",
         "dollarValue": 15,
+        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -37268,6 +37248,7 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.monsterisland_day0_1",
         "dollarValue": 5,
+        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -55179,7 +55160,7 @@
         "id": "lottery_featured_alliance_quest_musketeers",
         "gemPrice": 350,
         "amount": 1,
-        "uiPriority": 80,
+        "uiPriority": 149,
         "advertisedHero": "musketeer_dartagnan",
         "associatedEvent": "AllianceQuestMusketeers",
         "bonusChest": "alliance_quest_chest",
@@ -57750,5 +57731,5 @@
       }
     ]
   },
-  "productsConfigId": 2309358401
+  "productsConfigId": 350246355
 }

@@ -2714,7 +2714,7 @@
           "sideAffected": "Enemies",
           "typeOfTarget": "NearToTarget",
           "effectType": "Damage",
-          "powerMultiplierPerMil": 2750,
+          "powerMultiplierPerMil": 3050,
           "powerMultiplierIncrementPerLevelPerMil": 50
         },
         "maxLevel": 8,
@@ -4580,7 +4580,7 @@
           "sideAffected": "Enemies",
           "typeOfTarget": "All",
           "effectType": "Damage",
-          "powerMultiplierPerMil": 1500,
+          "powerMultiplierPerMil": 1800,
           "powerMultiplierIncrementPerLevelPerMil": 50
         },
         "maxLevel": 8,
@@ -8456,7 +8456,7 @@
           "sideAffected": "Enemies",
           "typeOfTarget": "NearToTarget",
           "effectType": "Damage",
-          "powerMultiplierPerMil": 2650,
+          "powerMultiplierPerMil": 2950,
           "powerMultiplierIncrementPerLevelPerMil": 50
         },
         "maxLevel": 8,
@@ -14295,7 +14295,7 @@
           "sideAffected": "Enemies",
           "typeOfTarget": "Single",
           "effectType": "Damage",
-          "powerMultiplierPerMil": 2850,
+          "powerMultiplierPerMil": 3150,
           "powerMultiplierIncrementPerLevelPerMil": 50
         },
         "maxLevel": 8,
@@ -26526,7 +26526,7 @@
           "sideAffected": "Enemies",
           "typeOfTarget": "NearToTarget",
           "effectType": "Damage",
-          "powerMultiplierPerMil": 2950,
+          "powerMultiplierPerMil": 3250,
           "powerMultiplierIncrementPerLevelPerMil": 50
         },
         "maxLevel": 8,
@@ -30226,7 +30226,7 @@
           "sideAffected": "Enemies",
           "typeOfTarget": "All",
           "effectType": "Damage",
-          "powerMultiplierPerMil": 2150,
+          "powerMultiplierPerMil": 2450,
           "powerMultiplierIncrementPerLevelPerMil": 50
         },
         "maxLevel": 8,
@@ -40830,7 +40830,7 @@
           "sideAffected": "Enemies",
           "typeOfTarget": "NearToTarget",
           "effectType": "Damage",
-          "powerMultiplierPerMil": 2450,
+          "powerMultiplierPerMil": 2750,
           "powerMultiplierIncrementPerLevelPerMil": 50
         },
         "maxLevel": 8,
@@ -45858,7 +45858,7 @@
         },
         "maxLevel": 8,
         "properties": [
-          "ailments_to_buffs_all_allies",
+          "bypass_defensive_buffs_always",
           "damage_zazha",
           "health_steal_boosted_zazha"
         ]
@@ -45874,8 +45874,7 @@
         },
         "maxLevel": 8,
         "properties": [
-          "add_status_effects_agadh",
-          "buffs_to_ailments_nearby_enemies"
+          "add_status_effects_agadh"
         ]
       },
       {
@@ -45979,7 +45978,15 @@
           "powerMultiplierIncrementPerLevelPerMil": 50
         },
         "maxLevel": 8,
-        "buffToRemove": "MinorBuff"
+        "buffToRemove": "MinorBuff",
+        "statusEffects": [
+          {
+            "id": "frost",
+            "sideAffected": "Enemies",
+            "statusTargetType": "All",
+            "turns": 5
+          }
+        ]
       },
       {
         "id": "parcel_of_the_dragon_familiar",
@@ -46261,7 +46268,8 @@
         },
         "maxLevel": 8,
         "properties": [
-          "heal_per_red_tile_ignazio_costume"
+          "heal_per_red_tile_ignazio_costume",
+          "status_effect_amplifier_against_red"
         ],
         "buffToRemove": "MinorDebuff",
         "buffToRemoveSideAffected": "Allies",
@@ -46318,6 +46326,7 @@
           "typeOfTarget": "All"
         },
         "maxLevel": 8,
+        "strongAttackElement": "Blue",
         "properties": [
           "damage_with_green_tile_based_target_type_roz_costume"
         ]
@@ -46332,6 +46341,8 @@
           "powerMultiplierIncrementPerLevelPerMil": 50
         },
         "maxLevel": 8,
+        "absorbDamagePerMil": 300,
+        "absorbDamageTargetType": "Single",
         "properties": [
           "damage_neartotarget_when_main_target_is_fire_zengar_costume",
           "frost_neartotarget_when_main_target_is_fire_zengar_costume"
@@ -46355,6 +46366,14 @@
         "properties": [
           "reduce_mana_more_for_yellow_griffex_costume",
           "add_mana_more_for_purple_griffex_costume"
+        ],
+        "statusEffects": [
+          {
+            "id": "resist_mana_effects",
+            "sideAffected": "Allies",
+            "statusTargetType": "All",
+            "turns": 5
+          }
         ]
       },
       {
@@ -46399,7 +46418,7 @@
         },
         "maxLevel": 8,
         "properties": [
-          "ailments_to_buffs_all_allies"
+          "cleanse_two_debuffs_all_allies"
         ],
         "statusEffects": [
           {
@@ -46420,8 +46439,15 @@
         "properties": [
           "minion_big_minion_steal",
           "damage_single_lilli",
-          "attack_while_minion_lilli",
-          "buffs_to_ailments_all_enemies"
+          "attack_while_minion_lilli"
+        ],
+        "statusEffects": [
+          {
+            "id": "hp_recovery_more_more_more",
+            "sideAffected": "Allies",
+            "statusTargetType": "Single",
+            "turns": 5
+          }
         ]
       },
       {
@@ -46432,8 +46458,7 @@
         },
         "maxLevel": 8,
         "properties": [
-          "ailments_to_buffs_all_allies",
-          "cleanse_debuffs_from_all_allies",
+          "remove_debuffs_safe_all",
           "damage_all_lando"
         ],
         "statusEffects": [
@@ -46456,8 +46481,7 @@
         },
         "maxLevel": 8,
         "properties": [
-          "burn_manpip",
-          "buffs_to_ailments_nearby_enemies"
+          "burn_manpip"
         ]
       },
       {
@@ -46544,8 +46568,7 @@
         "maxLevel": 8,
         "properties": [
           "hp_recovery_first_bertha",
-          "revive_bertha",
-          "ailments_to_buffs_all_allies"
+          "revive_bertha"
         ]
       },
       {
@@ -46556,7 +46579,6 @@
         },
         "maxLevel": 8,
         "properties": [
-          "buffs_to_ailments_nearby_enemies",
           "damage_target_and_nearby_naeem"
         ],
         "statusEffects": [
@@ -47650,6 +47672,12 @@
             "sideAffected": "Enemies",
             "statusTargetType": "All",
             "turns": 5
+          },
+          {
+            "id": "reduce_healing_vaishali_costume",
+            "sideAffected": "Enemies",
+            "statusTargetType": "All",
+            "turns": 5
           }
         ]
       },
@@ -48636,8 +48664,7 @@
         "properties": [
           "eat_parasites_all",
           "heal_lowest_hp_ally_most_ragrim",
-          "growth_ragrim",
-          "ailments_to_buffs_all_allies"
+          "growth_ragrim"
         ]
       },
       {
@@ -48651,7 +48678,7 @@
         },
         "maxLevel": 8,
         "properties": [
-          "buffs_to_ailments_nearby_enemies"
+          "reduce_max_health_neartotarget_bart"
         ],
         "statusEffects": [
           {
@@ -48677,6 +48704,12 @@
             "id": "burn_doxan_costume",
             "sideAffected": "Enemies",
             "statusTargetType": "SingleAndGreen",
+            "turns": 4
+          },
+          {
+            "id": "basic_attack",
+            "sideAffected": "Allies",
+            "statusTargetType": "Red",
             "turns": 4
           }
         ]
@@ -49675,6 +49708,12 @@
             "sideAffected": "Allies",
             "statusTargetType": "Single",
             "turns": 5
+          },
+          {
+            "id": "barrier_holy_becky_costume",
+            "sideAffected": "Allies",
+            "statusTargetType": "NearToTarget",
+            "turns": 5
           }
         ]
       },
@@ -50132,6 +50171,12 @@
         "statusEffects": [
           {
             "id": "brittle_specials_camilla_costume",
+            "sideAffected": "Enemies",
+            "statusTargetType": "All",
+            "turns": 5
+          },
+          {
+            "id": "reduce_healing_vaishali_costume",
             "sideAffected": "Enemies",
             "statusTargetType": "All",
             "turns": 5
@@ -50813,8 +50858,7 @@
         },
         "maxLevel": 8,
         "properties": [
-          "chain_strike_shareef",
-          "buffs_to_ailments_all_enemies"
+          "chain_strike_shareef"
         ]
       },
       {
@@ -52218,6 +52262,14 @@
         "id": "reduce_max_health_neartottarget",
         "reduction": 40,
         "reductionIncrementPerLevel": 5,
+        "targetType": "NearToTarget",
+        "sideAffected": "Enemies"
+      },
+      {
+        "propertyType": "ReduceMaxHealth",
+        "id": "reduce_max_health_neartotarget_bart",
+        "reduction": 360,
+        "reductionIncrementPerLevel": 20,
         "targetType": "NearToTarget",
         "sideAffected": "Enemies"
       },
@@ -55022,7 +55074,7 @@
       {
         "propertyType": "EffectPerRemovedStatusEffect",
         "id": "damage_per_dispelled_buff_costume_zimkitha",
-        "powerMultiplierPerMil": 1750,
+        "powerMultiplierPerMil": 2050,
         "powerMultiplierIncrementPerLevelPerMil": 50,
         "effectType": "Damage",
         "targetType": "All",
@@ -56899,7 +56951,7 @@
         "propertyType": "ChainStrike",
         "id": "chain_strike_the_beast1",
         "chainEffectType": "Damage",
-        "powerMultiplierPerMil": 4400,
+        "powerMultiplierPerMil": 3950,
         "powerMultiplierIncrementPerLevelPerMil": 50,
         "maxExtraHits": 5,
         "extraHitChancePerMil": 1000,
@@ -56920,7 +56972,7 @@
         "propertyType": "ChainStrike",
         "id": "chain_strike_the_beast2",
         "chainEffectType": "Damage",
-        "powerMultiplierPerMil": 4400,
+        "powerMultiplierPerMil": 3950,
         "powerMultiplierIncrementPerLevelPerMil": 50,
         "maxExtraHits": 4,
         "extraHitChancePerMil": 1000,
@@ -60051,7 +60103,7 @@
       {
         "propertyType": "IceStrike",
         "id": "ice_strike_bragi",
-        "fixedPower": 890,
+        "fixedPower": 1040,
         "fixedPowerIncrementPerLevel": 30,
         "targetType": "Single",
         "sideAffected": "Enemies",
@@ -63316,5 +63368,5 @@
       }
     ]
   },
-  "specialsConfigId": 2083279464
+  "specialsConfigId": 4181015282
 }

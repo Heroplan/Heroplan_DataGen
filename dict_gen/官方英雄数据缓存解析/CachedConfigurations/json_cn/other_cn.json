@@ -2719,6 +2719,12 @@
             "type": "CovenantQuest",
             "startTime": "2025-11-23 07:00:00",
             "endTime": "2025-11-26 07:00:00"
+          },
+          {
+            "id": "SecretSummonEmblemMimicPurple",
+            "type": "MysteryHero",
+            "startTime": "2025-11-09 07:00:00",
+            "endTime": "2025-11-10 07:00:00"
           }
         ],
         "challengeEventEntries": [
@@ -50207,8 +50213,9 @@
             },
             {
               "uberTitanId": "mythic_titan_gilgamesh",
-              "startTime": "2026-03-02 07:00:00",
-              "endTime": "2026-03-04 07:00:00"
+              "overridden": true,
+              "startTime": "2026-03-13 07:00:00",
+              "endTime": "2026-03-15 07:00:00"
             },
             {
               "uberTitanId": "mythic_titan_baba_yaga",
@@ -50733,31 +50740,31 @@
                 {
                   "cost": 10,
                   "heroes": [
-                    "乌韦",
-                    "阿维亚纳",
-                    "卡耳门塔",
-                    "金丝儿",
-                    "运输石"
+                    "歌剧魅影",
+                    "欧吉马",
+                    "埃利亚涅",
+                    "莱莎诺",
+                    "诺古"
                   ]
                 },
                 {
                   "cost": 15,
                   "heroes": [
-                    "巴斯泰托-森林之眼",
-                    "二郎神",
-                    "硫磺",
-                    "斯卡恩",
-                    "雷利乌斯"
+                    "卡尔塔",
+                    "阿尔瓦",
+                    "闪焰",
+                    "开悟",
+                    "达洛加"
                   ]
                 },
                 {
                   "cost": 20,
                   "heroes": [
-                    "酸火",
-                    "拉扎拉",
-                    "洛迪乌斯",
-                    "星游者",
-                    "加滕"
+                    "暗羽",
+                    "莱蒙伍德",
+                    "戴蒙",
+                    "赫特费雷斯-水疗的斯芬克斯",
+                    "米纳"
                   ]
                 }
               ],
@@ -50807,8 +50814,8 @@
             {
               "overridden": true,
               "id": "mercenary_war_3_2_2026",
-              "startTime": "2025-11-19 07:00:00",
-              "endTime": "2025-11-24 07:00:00"
+              "startTime": "2025-12-14 07:00:00",
+              "endTime": "2025-12-19 07:00:00"
             }
           ]
         },
@@ -56410,8 +56417,8 @@
               "overridden": true,
               "blessingSetId": "hexmap_blessing_set2",
               "id": "MonsterIsland2",
-              "startTime": "2200-03-28 07:00:00",
-              "endTime": "2200-04-01 07:00:00"
+              "startTime": "2025-11-20 07:00:00",
+              "endTime": "2025-11-24 07:00:00"
             }
           ],
           "alternatingScheduleStartTimeOffset": 43200
@@ -60118,8 +60125,7 @@
             ],
             "rarity": 4,
             "gemValue": 8000,
-            "notAllowedAsLoot": true,
-            "canBeReceivedDate": "2200-01-01 07:00:00",
+            "canBeReceivedDate": "2025-11-12 07:00:00",
             "typeOfTome": "ElementalLevelUp",
             "effectAmount": 20,
             "increaseSpecialLevel": true,
@@ -60133,8 +60139,7 @@
             ],
             "rarity": 4,
             "gemValue": 8000,
-            "notAllowedAsLoot": true,
-            "canBeReceivedDate": "2200-01-01 07:00:00",
+            "canBeReceivedDate": "2025-11-12 07:00:00",
             "typeOfTome": "ElementalLevelUp",
             "effectAmount": 20,
             "increaseSpecialLevel": true,
@@ -60148,8 +60153,7 @@
             ],
             "rarity": 4,
             "gemValue": 8000,
-            "notAllowedAsLoot": true,
-            "canBeReceivedDate": "2200-01-01 07:00:00",
+            "canBeReceivedDate": "2025-11-12 07:00:00",
             "typeOfTome": "ElementalLevelUp",
             "effectAmount": 20,
             "increaseSpecialLevel": true,
@@ -60163,8 +60167,7 @@
             ],
             "rarity": 4,
             "gemValue": 8000,
-            "notAllowedAsLoot": true,
-            "canBeReceivedDate": "2200-01-01 07:00:00",
+            "canBeReceivedDate": "2025-11-12 07:00:00",
             "typeOfTome": "ElementalLevelUp",
             "effectAmount": 20,
             "increaseSpecialLevel": true,
@@ -60178,8 +60181,7 @@
             ],
             "rarity": 4,
             "gemValue": 8000,
-            "notAllowedAsLoot": true,
-            "canBeReceivedDate": "2200-01-01 07:00:00",
+            "canBeReceivedDate": "2025-11-12 07:00:00",
             "typeOfTome": "ElementalLevelUp",
             "effectAmount": 20,
             "increaseSpecialLevel": true,
@@ -60193,8 +60195,7 @@
             ],
             "rarity": 5,
             "gemValue": 20000,
-            "notAllowedAsLoot": true,
-            "canBeReceivedDate": "2200-01-01 07:00:00",
+            "canBeReceivedDate": "2025-11-12 07:00:00",
             "typeOfTome": "ElementalLevelUp",
             "increaseSpecialLevel": true,
             "limitBreakEffectAmount": 5,
@@ -60208,8 +60209,7 @@
             ],
             "rarity": 5,
             "gemValue": 20000,
-            "notAllowedAsLoot": true,
-            "canBeReceivedDate": "2200-01-01 07:00:00",
+            "canBeReceivedDate": "2025-11-12 07:00:00",
             "typeOfTome": "ElementalLevelUp",
             "increaseSpecialLevel": true,
             "limitBreakEffectAmount": 5,
@@ -60223,8 +60223,7 @@
             ],
             "rarity": 5,
             "gemValue": 20000,
-            "notAllowedAsLoot": true,
-            "canBeReceivedDate": "2200-01-01 07:00:00",
+            "canBeReceivedDate": "2025-11-12 07:00:00",
             "typeOfTome": "ElementalLevelUp",
             "increaseSpecialLevel": true,
             "limitBreakEffectAmount": 5,
@@ -60238,8 +60237,7 @@
             ],
             "rarity": 5,
             "gemValue": 20000,
-            "notAllowedAsLoot": true,
-            "canBeReceivedDate": "2200-01-01 07:00:00",
+            "canBeReceivedDate": "2025-11-12 07:00:00",
             "typeOfTome": "ElementalLevelUp",
             "increaseSpecialLevel": true,
             "limitBreakEffectAmount": 5,
@@ -60253,8 +60251,7 @@
             ],
             "rarity": 5,
             "gemValue": 20000,
-            "notAllowedAsLoot": true,
-            "canBeReceivedDate": "2200-01-01 07:00:00",
+            "canBeReceivedDate": "2025-11-12 07:00:00",
             "typeOfTome": "ElementalLevelUp",
             "increaseSpecialLevel": true,
             "limitBreakEffectAmount": 5,
@@ -72798,7 +72795,7 @@
             "levelPropertyId": "alliance_war_assist_dragons"
           }
         ],
-        "additionalWarSupportCompletionRewardsEnabled": false,
+        "additionalWarSupportCompletionRewardsEnabled": true,
         "playerLevelRequirementForWar": 12,
         "numberOfBestHeroesForCalculatingWarScore": 30,
         "finalWarReminderHours": 3,
@@ -79277,27 +79274,27 @@
               {
                 "bonusLevels": [
                   {
-                    "attackBonusPerMil": 240,
-                    "defenseBonusPerMil": 240,
-                    "healthBonusPerMil": 240,
+                    "attackBonusPerMil": 280,
+                    "defenseBonusPerMil": 280,
+                    "healthBonusPerMil": 290,
                     "manaBonusPerMil": 10
-                  },
-                  {
-                    "attackBonusPerMil": 270,
-                    "defenseBonusPerMil": 270,
-                    "healthBonusPerMil": 270,
-                    "manaBonusPerMil": 20
                   },
                   {
                     "attackBonusPerMil": 310,
                     "defenseBonusPerMil": 310,
-                    "healthBonusPerMil": 310,
+                    "healthBonusPerMil": 320,
+                    "manaBonusPerMil": 20
+                  },
+                  {
+                    "attackBonusPerMil": 340,
+                    "defenseBonusPerMil": 340,
+                    "healthBonusPerMil": 350,
                     "manaBonusPerMil": 30
                   },
                   {
-                    "attackBonusPerMil": 350,
-                    "defenseBonusPerMil": 350,
-                    "healthBonusPerMil": 350,
+                    "attackBonusPerMil": 370,
+                    "defenseBonusPerMil": 370,
+                    "healthBonusPerMil": 380,
                     "manaBonusPerMil": 50
                   }
                 ]
@@ -80073,6 +80070,51 @@
             ]
           },
           {
+            "id": "elemental_nov_2025",
+            "statBonuses": [
+              {
+                "bonusLevels": []
+              },
+              {
+                "bonusLevels": []
+              },
+              {
+                "bonusLevels": []
+              },
+              {
+                "bonusLevels": []
+              },
+              {
+                "bonusLevels": [
+                  {
+                    "attackBonusPerMil": 360,
+                    "defenseBonusPerMil": 360,
+                    "healthBonusPerMil": 370,
+                    "manaBonusPerMil": 20
+                  },
+                  {
+                    "attackBonusPerMil": 400,
+                    "defenseBonusPerMil": 400,
+                    "healthBonusPerMil": 410,
+                    "manaBonusPerMil": 30
+                  },
+                  {
+                    "attackBonusPerMil": 440,
+                    "defenseBonusPerMil": 440,
+                    "healthBonusPerMil": 450,
+                    "manaBonusPerMil": 40
+                  },
+                  {
+                    "attackBonusPerMil": 460,
+                    "defenseBonusPerMil": 460,
+                    "healthBonusPerMil": 470,
+                    "manaBonusPerMil": 50
+                  }
+                ]
+              }
+            ]
+          },
+          {
             "id": "musketeer",
             "statBonuses": [
               {
@@ -80084,21 +80126,21 @@
               {
                 "bonusLevels": [
                   {
-                    "attackBonusPerMil": 40,
-                    "defenseBonusPerMil": 40,
-                    "healthBonusPerMil": 60,
+                    "attackBonusPerMil": 110,
+                    "defenseBonusPerMil": 110,
+                    "healthBonusPerMil": 110,
                     "manaBonusPerMil": 10
                   },
                   {
-                    "attackBonusPerMil": 70,
-                    "defenseBonusPerMil": 70,
-                    "healthBonusPerMil": 90,
+                    "attackBonusPerMil": 130,
+                    "defenseBonusPerMil": 130,
+                    "healthBonusPerMil": 130,
                     "manaBonusPerMil": 30
                   },
                   {
-                    "attackBonusPerMil": 100,
-                    "defenseBonusPerMil": 100,
-                    "healthBonusPerMil": 120,
+                    "attackBonusPerMil": 150,
+                    "defenseBonusPerMil": 150,
+                    "healthBonusPerMil": 150,
                     "manaBonusPerMil": 50
                   }
                 ]
@@ -80106,27 +80148,27 @@
               {
                 "bonusLevels": [
                   {
-                    "attackBonusPerMil": 80,
-                    "defenseBonusPerMil": 80,
-                    "healthBonusPerMil": 80,
+                    "attackBonusPerMil": 120,
+                    "defenseBonusPerMil": 120,
+                    "healthBonusPerMil": 140,
                     "manaBonusPerMil": 10
                   },
                   {
-                    "attackBonusPerMil": 100,
-                    "defenseBonusPerMil": 100,
-                    "healthBonusPerMil": 100,
+                    "attackBonusPerMil": 130,
+                    "defenseBonusPerMil": 130,
+                    "healthBonusPerMil": 160,
                     "manaBonusPerMil": 20
-                  },
-                  {
-                    "attackBonusPerMil": 120,
-                    "defenseBonusPerMil": 120,
-                    "healthBonusPerMil": 120,
-                    "manaBonusPerMil": 30
                   },
                   {
                     "attackBonusPerMil": 140,
                     "defenseBonusPerMil": 140,
-                    "healthBonusPerMil": 140,
+                    "healthBonusPerMil": 180,
+                    "manaBonusPerMil": 30
+                  },
+                  {
+                    "attackBonusPerMil": 150,
+                    "defenseBonusPerMil": 150,
+                    "healthBonusPerMil": 200,
                     "manaBonusPerMil": 50
                   }
                 ]
@@ -80134,27 +80176,27 @@
               {
                 "bonusLevels": [
                   {
-                    "attackBonusPerMil": 420,
-                    "defenseBonusPerMil": 440,
-                    "healthBonusPerMil": 390,
+                    "attackBonusPerMil": 460,
+                    "defenseBonusPerMil": 460,
+                    "healthBonusPerMil": 510,
                     "manaBonusPerMil": 10
                   },
                   {
-                    "attackBonusPerMil": 420,
-                    "defenseBonusPerMil": 440,
-                    "healthBonusPerMil": 420,
+                    "attackBonusPerMil": 390,
+                    "defenseBonusPerMil": 390,
+                    "healthBonusPerMil": 540,
                     "manaBonusPerMil": 20
                   },
                   {
-                    "attackBonusPerMil": 450,
-                    "defenseBonusPerMil": 460,
-                    "healthBonusPerMil": 450,
+                    "attackBonusPerMil": 520,
+                    "defenseBonusPerMil": 520,
+                    "healthBonusPerMil": 570,
                     "manaBonusPerMil": 30
                   },
                   {
-                    "attackBonusPerMil": 480,
-                    "defenseBonusPerMil": 480,
-                    "healthBonusPerMil": 480,
+                    "attackBonusPerMil": 550,
+                    "defenseBonusPerMil": 550,
+                    "healthBonusPerMil": 600,
                     "manaBonusPerMil": 50
                   }
                 ]
@@ -81968,10 +82010,10 @@
     "minSecondsBetweenRecentActivityRequests": 30,
     "colorBlindModeEnabled": true,
     "languageSelectionEnabled": true,
-    "maxVersionToShowUpdateOutReminderAndroid": "80.0.1",
-    "maxVersionToShowUpdateOutReminderIos": "80.0.1",
+    "maxVersionToShowUpdateOutReminderAndroid": "80.0.2",
+    "maxVersionToShowUpdateOutReminderIos": "80.0.2",
     "maxVersionToShowUpdateOutReminderAndroidStandalone": "80.0.2",
-    "standaloneNewVersionRolloutPercentage": 30,
+    "standaloneNewVersionRolloutPercentage": 100,
     "fastClientLogFlushTimeSeconds": 5,
     "accountDeletionEnabled": true,
     "popupSuppression": {
@@ -82063,5 +82105,5 @@
     "criticalOperationPendingDelaySeconds": 3,
     "allowedCriticalOperationPendingCount": 3
   },
-  "otherConfigId": 2564661129
+  "otherConfigId": 4037132808
 }
