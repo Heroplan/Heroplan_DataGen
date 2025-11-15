@@ -32,7 +32,7 @@ window.families_bonus = [
         "name": "magic_carpet",
         "bonus": [
             "Heroes of this family have Flight Momentum.",
-            " * Hero start with full Flight Momentum.",
+            " * Hero starts with full Flight Momentum.",
             " * At the end of each turn and when taking damage the hero loses a small amount of Flight Momentum.",
             " * When casting their Special Skill, hero gains Flight Momentum.",
             " * Slower heroes gain increased amount of Flight Momentum."
@@ -506,8 +506,9 @@ window.families_bonus = [
         "originalIndex": 54,
         "name": "super_elemental",
         "bonus": [
-            "One or more shields are enhanced to Power Gems each turn.",
-            "The amount is the same as <<Hero element>> heroes in the team. 5 Power Gems per element can be on the board at the same time.",
+            "Super Elemental family makes teams of a specific element stronger. This hero enhances <<Hero element>> element.",
+            " * One or more shields are enhanced to Power Gems each turn.",
+            " * The amount is the same as <<Hero element>> heroes in the team. 5 Power Gems per element can be on the board at the same time.",
             "The Power Gem deals 20/15/10 (5*/4*/3*) damage to a random enemy each turn until it is matched. When Power Gems are matched, they deal 10 damage to all enemies."
         ]
     },

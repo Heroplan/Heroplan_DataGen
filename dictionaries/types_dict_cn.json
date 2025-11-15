@@ -932,5 +932,10 @@
   "Hit random 6": "随机攻击6个目标",
   "Elemental Defense Debuff on hit": "命中时施加元素防御降低减益",
   "Mindless Attack on hit": "命中时施加失心攻击",
-  "Self Special Skill Defense Buff": "自身特殊技能防御增益"
+  "Self Special Skill Defense Buff": "自身特殊技能防御增益",
+  "Random Counterattack to self": "自身随机反击",
+  "Self Status Ailment Immunity": "自身状态异常免疫",
+  "Cleaser All": "全体净化",
+  "Attack Buff to Fire allies": "火系盟友攻击增益",
+  "Safely Cleanser All": "全体安全净化"
 }

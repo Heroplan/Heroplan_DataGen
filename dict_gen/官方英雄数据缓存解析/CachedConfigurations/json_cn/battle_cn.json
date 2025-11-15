@@ -48636,7 +48636,7 @@
         "id": "reduce_max_health_over_time_sorcha",
         "buff": "MinorDebuff",
         "resetTurnsLeftTrigger": "Heal",
-        "reduction": 270,
+        "reduction": 330,
         "reductionIncrementPerLevel": 10
       },
       {
@@ -82094,5 +82094,5 @@
       "SharedDamage"
     ]
   },
-  "battleConfigId": 3138984920
+  "battleConfigId": 251880786
 }

@@ -37387,6 +37387,7 @@ window.allHeroesExtra = [
         "skill_types": [
             "Damage Reducers",
             "DoT Attackers",
+            "Healers (Special)",
             "Heal over Time (HoT)",
             "Minions Counters",
             "Revivers",
@@ -37896,9 +37897,11 @@ window.allHeroesExtra = [
         "skill_types": [
             "Minions Counters",
             "DoT Attackers",
+            "Healers (Special)",
             "Dispellers",
             "Debuffers (DEF)",
             "Heal over Time (HoT)",
+            "Health Boosters",
             "Buffers (ATK)",
             "Cleansers",
             "Mana Reducers or Blockers",
@@ -41266,5 +41269,32 @@ window.allHeroesExtra = [
         "healthBonus": "47%",
         "manaBonus": "5%",
         "family": "super_elemental"
+    },
+    {
+        "name": "Halwinter",
+        "fancy name": "Heavily Armored Construct",
+        "element": "Blue",
+        "rarity": 5,
+        "class": "Paladin",
+        "speed": "average",
+        "Release date": "2025-11-13",
+        "AetherPower": "Taunt",
+        "skill_types": [
+            "Taunters",
+            "Counterattackers",
+            "Damage Reducers",
+            "Immunity Providers",
+            "Minions Counters"
+        ],
+        "heroId": "construct_halwinter",
+        "baseAttack": 632,
+        "baseDefense": 617,
+        "baseHealth": 1099,
+        "specialId": "soul_guardian",
+        "passiveSkills": [
+            "minion_core",
+            "resist_special_blocking_with_health_boost_and_mana"
+        ],
+        "family": "construct"
     }
 ];

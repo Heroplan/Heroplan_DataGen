@@ -28006,5 +28006,23 @@
             "Defense": 1570,
             "Life": 3091
         }
+    },
+    "Halwinter": {
+        "base": {
+            "Attack": 1301,
+            "Defense": 1271,
+            "Life": 2263,
+            "Power": 1253
+        },
+        "lb1": {
+            "Attack": 1403,
+            "Defense": 1369,
+            "Life": 2439
+        },
+        "lb2": {
+            "Attack": 1605,
+            "Defense": 1567,
+            "Life": 2791
+        }
     }
 }

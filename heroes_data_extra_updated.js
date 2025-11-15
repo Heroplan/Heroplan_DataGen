@@ -41015,7 +41015,10 @@ window.allHeroesExtra = [
         "speed": "fast",
         "Release date": "2025-11-12",
         "AetherPower": "Regen",
-        "skill_types": [],
+        "skill_types": [
+            "AoE Attackers (Hit-3)",
+            "Counterattackers"
+        ],
         "heroId": "beauty_beast_lucas",
         "baseAttack": 320,
         "baseDefense": 323,
@@ -41037,7 +41040,14 @@ window.allHeroesExtra = [
         "speed": "average",
         "Release date": "2025-11-12",
         "AetherPower": "Damage Reduction",
-        "skill_types": [],
+        "skill_types": [
+            "AoE Attackers (Hit-3)",
+            "Buff Stealers",
+            "Fiends Summoners",
+            "DoT Attackers",
+            "Heal over Time (HoT)",
+            "Health Boosters"
+        ],
         "heroId": "musketeer_villiers_costume_jester",
         "baseAttack": 331,
         "baseDefense": 318,
@@ -41064,7 +41074,13 @@ window.allHeroesExtra = [
         "speed": "average",
         "Release date": "2025-11-12",
         "AetherPower": "Dodge",
-        "skill_types": [],
+        "skill_types": [
+            "AoE Attackers (Hit-3)",
+            "Health Boosters",
+            "Immunity Providers",
+            "Healers (Special)",
+            "Damage Reducers"
+        ],
         "heroId": "musketeer_aramis_costume_boulanger",
         "baseAttack": 429,
         "baseDefense": 377,
@@ -41091,7 +41107,12 @@ window.allHeroesExtra = [
         "speed": "slow",
         "Release date": "2025-11-12",
         "AetherPower": "Rage",
-        "skill_types": [],
+        "skill_types": [
+            "Chain & Random Attackers",
+            "Debuffers (DEF)",
+            "Mindless Attack & Mindless Heal",
+            "Health Boosters"
+        ],
         "heroId": "beauty_beast_the_beast",
         "baseAttack": 630,
         "baseDefense": 622,
@@ -41113,7 +41134,12 @@ window.allHeroesExtra = [
         "speed": "very_fast",
         "Release date": "2025-11-12",
         "AetherPower": "Fiend Resist",
-        "skill_types": [],
+        "skill_types": [
+            "Healers",
+            "Cleansers",
+            "Heal over Time (HoT)",
+            "Buffers (DEF)"
+        ],
         "heroId": "beauty_beast_rose_de_flo",
         "baseAttack": 626,
         "baseDefense": 628,
@@ -41135,7 +41161,12 @@ window.allHeroesExtra = [
         "speed": "fast",
         "Release date": "2025-11-08",
         "AetherPower": "Attack Up",
-        "skill_types": [],
+        "skill_types": [
+            "AoE Attackers (Hit-3)",
+            "Extra Damage Dealers",
+            "DoT Attackers",
+            "Buffers (ATK)"
+        ],
         "heroId": "beowulf_wiglaf",
         "baseAttack": 636,
         "baseDefense": 610,
@@ -41157,7 +41188,13 @@ window.allHeroesExtra = [
         "speed": "fast",
         "Release date": "2025-11-12",
         "AetherPower": "Counterattack",
-        "skill_types": [],
+        "skill_types": [
+            "Extra Damage Dealers",
+            "Reflectors",
+            "Snipers",
+            "Heal over Time (HoT)",
+            "Health Boosters"
+        ],
         "heroId": "musketeer_felton_costume_pirate",
         "baseAttack": 313,
         "baseDefense": 293,
@@ -41184,7 +41221,10 @@ window.allHeroesExtra = [
         "speed": "average",
         "Release date": "2025-11-12",
         "AetherPower": "Attack Up",
-        "skill_types": [],
+        "skill_types": [
+            "Snipers",
+            "Max Health Reducers"
+        ],
         "heroId": "beauty_beast_chandel",
         "baseAttack": 394,
         "baseDefense": 365,
@@ -41206,7 +41246,11 @@ window.allHeroesExtra = [
         "speed": "very_slow",
         "Release date": "2025-11-10",
         "AetherPower": "Bulwark",
-        "skill_types": [],
+        "skill_types": [
+            "AoE Attackers (Hit-5)",
+            "Revivers",
+            "Extra Damage Dealers"
+        ],
         "heroId": "elemental_zandria_costume_planet",
         "baseAttack": 400,
         "baseDefense": 424,
@@ -41222,5 +41266,32 @@ window.allHeroesExtra = [
         "healthBonus": "47%",
         "manaBonus": "5%",
         "family": "super_elemental"
+    },
+    {
+        "name": "Halwinter",
+        "fancy name": "Heavily Armored Construct",
+        "element": "Blue",
+        "rarity": 5,
+        "class": "Paladin",
+        "speed": "average",
+        "Release date": "2025-11-13",
+        "AetherPower": "Taunt",
+        "skill_types": [
+            "Taunters",
+            "Counterattackers",
+            "Damage Reducers",
+            "Immunity Providers",
+            "Minions Counters"
+        ],
+        "heroId": "construct_halwinter",
+        "baseAttack": 632,
+        "baseDefense": 617,
+        "baseHealth": 1099,
+        "specialId": "soul_guardian",
+        "passiveSkills": [
+            "minion_core",
+            "resist_special_blocking_with_health_boost_and_mana"
+        ],
+        "family": "construct"
     }
 ];

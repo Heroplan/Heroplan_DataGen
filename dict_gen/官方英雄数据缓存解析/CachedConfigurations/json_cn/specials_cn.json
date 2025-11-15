@@ -41041,10 +41041,11 @@
           "sideAffected": "Enemies",
           "typeOfTarget": "NearToTarget",
           "effectType": "Damage",
-          "powerMultiplierPerMil": 3450,
+          "powerMultiplierPerMil": 3750,
           "powerMultiplierIncrementPerLevelPerMil": 50
         },
         "maxLevel": 8,
+        "strongAttackElement": "Yellow",
         "statusEffects": [
           {
             "id": "reduce_max_health_over_time_sorcha",
@@ -63368,5 +63369,5 @@
       }
     ]
   },
-  "specialsConfigId": 4181015282
+  "specialsConfigId": 616820419
 }
