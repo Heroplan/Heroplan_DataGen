@@ -14,7 +14,7 @@ window.families_bonus = [
         "name": "raven",
         "bonus": [
             "Bonus for 1/2/3 Heroes:",
-            "20%/35%/50% chance to make a cast ailment uncleansable.",
+            "20%/35%/50% chance to make a cast ailment [##elementred]uncleansable[#].",
             "The members of this family have additional perks in the Clash of Knights event."
         ]
     },
@@ -82,7 +82,7 @@ window.families_bonus = [
         "name": "institute",
         "bonus": [
             "Bonus for 1 / 2 / 3 Heroes:",
-            " * +5% / +9% / +13% mana generation.",
+            " * +5% / +9% / +13% [#!]mana generation[#].",
             " * +20% / +30% / +40% health.",
             "The members of this family have additional perks in the Shadows of the Deep event."
         ]
@@ -111,7 +111,7 @@ window.families_bonus = [
         "name": "astral_demons",
         "bonus": [
             "Bonus for 1/2 Heroes:",
-            " * This character gains 3% / 6% mana when taking Special Skills damage. This effect can activate once per turn.",
+            " * This character gains 3% / 6% [#!]mana[#] when taking Special Skills damage. This effect can activate once per turn.",
             " * 50% / 70% chance to cleanse a random cleansable status ailment from this character when receiving Special Skill damage."
         ]
     },
@@ -152,7 +152,7 @@ window.families_bonus = [
         "name": "halloween",
         "bonus": [
             "Bonus for 1/2/3 Unique Heroes:",
-            "+3%/+6%/+9% mana generation",
+            "+3%/+6%/+9% [#!]mana generation[#]",
             "The members of this family have additional perks in the Halloween event."
         ]
     },
@@ -171,7 +171,7 @@ window.families_bonus = [
         "name": "ninja",
         "bonus": [
             "Bonus for 1/2/3 Unique Heroes:",
-            "5%/10%/15% chance to dodge normal attacks and Special Skills",
+            "5%/10%/15% chance to [#!]dodge[#] normal attacks and Special Skills",
             "5%/10%/15% chance to counterattack with 60%/90%/120% of the damage received."
         ]
     },
@@ -180,7 +180,7 @@ window.families_bonus = [
         "name": "magic",
         "bonus": [
             "Bonus for 1/2/3 Unique Heroes:",
-            "50% / 75% / 100% chance to cast +5 mana generation stack on a random ally when this hero casts their Special Skill.",
+            "50% / 75% / 100% chance to cast +5 [#!]mana generation[#] stack on a random ally when this hero casts their Special Skill.",
             "Maximum stack size: 10"
         ]
     },
@@ -190,7 +190,7 @@ window.families_bonus = [
         "bonus": [
             "Bonus for 2/3/4/5 Unique Heroes:",
             "+3%/+6%/+10%/+15% attack",
-            "+2%/+4%/+7%/+12% mana generation"
+            "+2%/+4%/+7%/+12% [#!]mana generation[#]"
         ]
     },
     {
@@ -206,7 +206,7 @@ window.families_bonus = [
         "name": "hotm2017",
         "bonus": [
             "Bonus for 1/2/3:",
-            "+5%/+10%/+15% mana generation.",
+            "+5%/+10%/+15% [#!]mana generation[#].",
             "Bonus for 2+ Heroes:",
             "Element Link affects all allies."
         ]
@@ -293,7 +293,7 @@ window.families_bonus = [
         "name": "japanese",
         "bonus": [
             "Bonus for 1/2/3/4/5 Unique Heroes:",
-            "+3%/+6%/+9%/+11/+13% mana generation"
+            "+3%/+6%/+9%/+11/+13% [#!]mana generation[#]"
         ]
     },
     {
@@ -327,7 +327,7 @@ window.families_bonus = [
         "name": "asgard",
         "bonus": [
             "Bonus for 1/2/3 Unique Heroes:",
-            "All allies gain 10%/15%/20% mana when an Asgard Hero is defeated"
+            "All allies gain 10%/15%/20% [#!]mana[#] when an Asgard Hero is defeated"
         ]
     },
     {
@@ -367,7 +367,7 @@ window.families_bonus = [
         "name": "niflheim",
         "bonus": [
             "Bonus for 1/2/3 Unique Heroes:",
-            "All enemies have -5%/-10%/-15% accuracy for as long as a Niflheim ally has low health. Chance to miss also applies to offensive Special Skills."
+            "All enemies have -5%/-10%/-15% [##elementyellow]accuracy[#] for as long as a Niflheim ally has low health. Chance to miss also applies to offensive Special Skills."
         ]
     },
     {
@@ -383,7 +383,7 @@ window.families_bonus = [
         "name": "vanaheim",
         "bonus": [
             "Bonus for 1/2/3 Unique Heroes:",
-            "The mana of all enemies is reduced by -5/-10/-15% when a Vanaheim Hero dies."
+            "The [#!]mana[#] of all enemies is reduced by -5/-10/-15% when a Vanaheim Hero dies."
         ]
     },
     {
@@ -411,7 +411,7 @@ window.families_bonus = [
         "name": "kingdom",
         "bonus": [
             "Bonus for 1/2/3 Unique Heroes:",
-            "2% / 4% / 6% mana each time a Minion is summoned for the Hero.",
+            "2% / 4% / 6% [#!]mana[#] each time a Minion is summoned for the Hero.",
             "3% / 5% / 7% heal each time a Minion is summoned for the Hero.",
             "Morale Boost:",
             "Heroes belonging to this family as well as heroes fighting alongside with them receive additional perks in War of the Three Kingdoms:",
@@ -423,7 +423,7 @@ window.families_bonus = [
         "name": "wonderland",
         "bonus": [
             "Bonus for 2/3/4/5 Unique Heroes:",
-            "+2%/+4%/+7%/+12% mana generation",
+            "+2%/+4%/+7%/+12% [#!]mana generation[#]",
             "+5%/+10%/+15%/+20% [##elementred]critical[#] chance",
             "The members of this family have additional perks in the Challenge Festival events."
         ]
@@ -433,7 +433,7 @@ window.families_bonus = [
         "name": "sun",
         "bonus": [
             "Bonus for 1/2 Unique Heroes:",
-            "50% / 75% chance to make a cast -35% accuracy for 2 turns and 196/146/114 (5*/4*/3*) [##elementred]Burn damage[#] over 2 turns on an enemy who deals Special Skill damage to this character.",
+            "50% / 75% chance to make a cast -35% [##elementyellow]accuracy[#] for 2 turns and 196/146/114 (5*/4*/3*) [##elementred]Burn damage[#] over 2 turns on an enemy who deals Special Skill damage to this character.",
             "If the enemy’s Special Skill defeats this character, the chance is 75%/100%",
             "The members of this family have additional perks in Season V stages."
         ]
@@ -472,7 +472,7 @@ window.families_bonus = [
         "name": "styx",
         "bonus": [
             "Bonus for 1/2/3 Unique Heroes:",
-            "40%/60%/80% chance to cast -30% mana generation to all enemies for 2 turns when this hero casts their Special Skill."
+            "40%/60%/80% chance to cast -30% [#!]mana generation[#] to all enemies for 2 turns when this hero casts their Special Skill."
         ]
     },
     {
@@ -489,7 +489,7 @@ window.families_bonus = [
         "name": "bard",
         "bonus": [
             "Bard Family grants a solo bonus for any Hero who is the only member of their family on the team:",
-            " * +5% mana generation.",
+            " * +5% [#!]mana generation[#].",
             "The members of this family have additional perks in the Challenge Festival events."
         ]
     },
@@ -530,8 +530,8 @@ window.families_bonus = [
         "bonus": [
             "Masquerade characters summon a Mask Minion for themselves at the start of the battle. THe more Masquerade characters there are in the same team, the better the Mask Minion is:",
             "1 family member: This character summons a Mask Minion with 8% health and 8% attack inherited from the character.",
-            "Additional skill with 2 family members: Mask Minion gives its owner +7% attack while the owner has a Mask Minion. This effect can't be dispelled.",
-            "Additional skill with 3 family members: Mask Minion gives its owner immunity to all status ailments while the owner has a Mask Minion. This effect can't be dispelled."
+            "Additional skill with 2 family members: Mask Minion gives its owner +7% attack while the owner has a Mask Minion. This effect [#!]can't be dispelled[#].",
+            "Additional skill with 3 family members: Mask Minion gives its owner immunity to all status ailments while the owner has a Mask Minion. This effect [#!]can't be dispelled[#]."
         ]
     },
     {
@@ -573,7 +573,7 @@ window.families_bonus = [
             "Heroes become stronger when teamed with other unique Heroes of the same family.",
             "The Lunar Year family features different Lunar Year Animal Heroes. Each Lunar Year Animal grants different bonus to the members of the Lunar Year family when paired with at least 1 other Lunar Year Hero.",
             "This Hero gives the following Lunar Year (**) bonus to the members of the Lunar Year Family: ",
-            " ** Rabbit: +5% mana generation",
+            " ** Rabbit: +5% [#!]mana generation[#]",
             " ** Ox: +10% defense",
             " ** Tiger: +10% attack",
             " ** Dragon: +15% [##elementred]critical[#] chance",
@@ -640,7 +640,7 @@ window.families_bonus = [
         "name": "tales1_baddies",
         "bonus": [
             "Bonus for 1/2 Unique Heroes:",
-            "50%/75% chance to cast -10% mana generation for 3 turns on an enemy who deals Special Skill damage to this character. If the enemy’s Special Skill defeats this character, the chance is 75%/100%.",
+            "50%/75% chance to cast -10% [#!]mana generation[#] for 3 turns on an enemy who deals Special Skill damage to this character. If the enemy’s Special Skill defeats this character, the chance is 75%/100%.",
             "Related Family Bonus: Hero is related to the Atlantis Family.",
             "Hero receives the family bonus of a related family when in team with at least 1 related hero. Bonus for 1/2/3/4/5 heroes: +5%/+10%/+15%/+20%/+25% defense.",
             "The members of this family have additional perks in Untold Tales 1: Mysteries of the Deep stages."
@@ -669,7 +669,7 @@ window.families_bonus = [
         "bonus": [
             "Bonus for 1/2/3 Heroes:",
             " * [#!]Stack (Max: 10):[#] The caster recovers 15 HP each turn.",
-            " * [#!]Stack (Max: 10):[#] The caster gets +6% mana generation.",
+            " * [#!]Stack (Max: 10):[#] The caster gets +6% [#!]mana generation[#].",
             "The members of this family have additional perks in the Challenge Festival events."
         ]
     },
@@ -744,7 +744,7 @@ window.families_bonus = [
         "name": "owl",
         "bonus": [
             "Bonus for 1/2/3 Unique Heroes:",
-            "* All received mana status ailments will be replaced by a +11% / +31% / +39% mana generation buff for 3 turns."
+            "* All received [#!]mana[#] status ailments will be replaced by a +11% / +31% / +39% [#!]mana generation[#] buff for 3 turns."
         ]
     },
     {
@@ -797,8 +797,8 @@ window.families_bonus = [
         "bonus": [
             "Bonus for 1/2 Heroes:",
             "This hero summons 1/2 Sly Fox Minions for self, with 2% health and 100% attack inherited from the hero.",
-            "Sly Fox Minion has 80% chance to dodge incomming attacks.",
-            "When Sly Fox Minion dodges, it steals latest dispellable buff from the attacker and gives it to its owner."
+            "Sly Fox Minion has 80% chance to [#!]dodge[#] incomming attacks.",
+            "When Sly Fox Minion [#!]dodge[#]s, it steals latest dispellable buff from the attacker and gives it to its owner."
         ]
     },
     {
@@ -806,7 +806,7 @@ window.families_bonus = [
         "name": "faun",
         "bonus": [
             "Bonus for 1 / 2 Heroes:",
-            " * 75% / 100% chance to resist mana reductions and mana status ailments. Each succesful resist by this family gives this character 15% mana.",
+            " * 75% / 100% chance to resist [#!]mana[#] reductions and [#!]mana[#] status ailments. Each succesful resist by this family gives this character 15% [#!]mana[#].",
             " * +50% / +100% more damage dealt against Minions and Mega Minions."
         ]
     },
@@ -842,7 +842,7 @@ window.families_bonus = [
         "bonus": [
             "Bonus for 1/2 Unique Heroes:",
             " * 25% / 50% chance to dispel a random dispellable status effect buff from all enemies at the end of each turn.",
-            " * 75% / 100% chance to resist mana reduction and mana status ailments. Each successful resist by this family gives this character 5% mana."
+            " * 75% / 100% chance to resist [#!]mana[#] reduction and [#!]mana[#] status ailments. Each successful resist by this family gives this character 5% [#!]mana[#]."
         ]
     },
     {
@@ -852,7 +852,7 @@ window.families_bonus = [
             "Bonus for 1/2/3 Heroes:",
             "At the start of each turn, cast Moth Dust to a random enemy for 2/3/4 turns.",
             "Moth Dust has the following effets:",
-            " * -30% mana generation.",
+            " * -30% [#!]mana generation[#].",
             " * Mega Minion's current health is reduced by 50% each turn.",
             "If Moth Dust is cleansed or removed, the target falls asleep and receives +80% increased damage while sleeping.",
             "The members of this family have additional perks in the Night of the Moth event."
@@ -863,8 +863,8 @@ window.families_bonus = [
         "name": "wild_cat",
         "bonus": [
             "Bonus for 1/2/3 Unique Heroes:",
-            "5%/10%/15% chance to dodge Special Skills.",
-            "Each Special Skill dodged damages the attacker for 100/200/300 damage."
+            "5%/10%/15% chance to [#!]dodge[#] Special Skills.",
+            "Each Special Skill [#!]dodge[#]d damages the attacker for 100/200/300 damage."
         ]
     }
 ];
