@@ -1420,8 +1420,8 @@ const allTranslations =
         "name": "伦纳特 (Lennart)",
         "passives": [
             "Nine Lives:",
-            " * When defeated this character has 80% chance to revive at the begining of their next turn with 50% health and 80% mana.",
-            " * Activates up to 9 times. Chance to revive is reduced on each activation. Can’t be prevented with status ailments or Passive Skills.",
+            " * When defeated this character has 80% chance to [##elementgreen]revive[#] at the begining of their next turn with 50% health and 80% mana.",
+            " * Activates up to 9 times. Chance to [##elementgreen]revive[#] is reduced on each activation. Can’t be prevented with status ailments or Passive Skills.",
             "Trait: Lithe Frame",
             "This character is not affect by effects that increase or reduce defense.",
             "This includes:",
@@ -2126,8 +2126,8 @@ const allTranslations =
         "name": "维尼克斯 (Vernix)",
         "passives": [
             "Nine Lives:",
-            " * When defeated this character has 80% chance to revive at the begining of their next turn with 50% health and 80% mana.",
-            " * Activates up to 9 times. Chance to revive is reduced on each activation. Can’t be prevented with status ailments or Passive Skills.",
+            " * When defeated this character has 80% chance to [##elementgreen]revive[#] at the begining of their next turn with 50% health and 80% mana.",
+            " * Activates up to 9 times. Chance to [##elementgreen]revive[#] is reduced on each activation. Can’t be prevented with status ailments or Passive Skills.",
             "Trait: Lithe Frame",
             "This character is not affect by effects that increase or reduce defense.",
             "This includes:",
@@ -2390,8 +2390,8 @@ const allTranslations =
         "name": "费尔尼 (Ferni)",
         "passives": [
             "Nine Lives:",
-            " * When defeated this character has 80% chance to revive at the begining of their next turn with 50% health and 80% mana.",
-            " * Activates up to 9 times. Chance to revive is reduced on each activation. Can’t be prevented with status ailments or Passive Skills.",
+            " * When defeated this character has 80% chance to [##elementgreen]revive[#] at the begining of their next turn with 50% health and 80% mana.",
+            " * Activates up to 9 times. Chance to [##elementgreen]revive[#] is reduced on each activation. Can’t be prevented with status ailments or Passive Skills.",
             "Trait: Lithe Frame",
             "This character is not affect by effects that increase or reduce defense.",
             "This includes:",
@@ -2506,7 +2506,7 @@ const allTranslations =
         "originalIndex": 352,
         "name": "卢卡斯 (Lucas)",
         "passives": [
-            "Revival Health Reduction: All enemies have -50% health when revived. Boss enemies are not affected.",
+            "Revival Health Reduction: All enemies have -50% health when [##elementgreen]revived[#]. Boss enemies are not affected.",
             "Heal when status ailment expires or is cleared: This character receives 10% health each time a status ailment expires or is cleansed, removed or reallocated from them. This effect can activate only once per turn.",
             "Beautiful Inside: Whenever this character would take damage from a status ailment, they will recover that much health instead."
         ]
@@ -3851,8 +3851,8 @@ const allTranslations =
         "name": "雷奥妮 (Leonie)",
         "passives": [
             "Nine Lives:",
-            " * When defeated this character has 80% chance to revive at the begining of their next turn with 50% health and 80% mana.",
-            " * Activates up to 9 times. Chance to revive is reduced on each activation. Can’t be prevented with status ailments on Passive Skills.",
+            " * When defeated this character has 80% chance to [##elementgreen]revive[#] at the begining of their next turn with 50% health and 80% mana.",
+            " * Activates up to 9 times. Chance to [##elementgreen]revive[#] is reduced on each activation. Can’t be prevented with status ailments on Passive Skills.",
             "Trait: Lithe Frame",
             "This character is not affect by effects that increase or reduce defense.",
             "This includes:",
@@ -4378,8 +4378,8 @@ const allTranslations =
         "name": "塔弗 (Thaffer)",
         "passives": [
             "Nine Lives:",
-            " * When defeated this character has 80% chance to revive at the begining of their next turn with 50% health and 80% mana.",
-            " * Activates up to 9 times. Chance to revive is reduced on each activation. Can’t be prevented with status ailments on Passive Skills.",
+            " * When defeated this character has 80% chance to [##elementgreen]revive[#] at the begining of their next turn with 50% health and 80% mana.",
+            " * Activates up to 9 times. Chance to [##elementgreen]revive[#] is reduced on each activation. Can’t be prevented with status ailments on Passive Skills.",
             "Trait: Lithe Frame",
             "This character is not affect by effects that increase or reduce defense.",
             "This includes:",
@@ -5827,8 +5827,8 @@ const allTranslations =
         "name": "伊玛古斯 (Imagus)",
         "passives": [
             "Nine Lives:",
-            " * When defeated this character has 80% chance to revive at the begining of their next turn with 50% health and 80% mana.",
-            " * Activates up to 9 times. Chance to revive is reduced on each activation. Can’t be prevented with status ailments on Passive Skills.",
+            " * When defeated this character has 80% chance to [##elementgreen]revive[#] at the begining of their next turn with 50% health and 80% mana.",
+            " * Activates up to 9 times. Chance to [##elementgreen]revive[#] is reduced on each activation. Can’t be prevented with status ailments on Passive Skills.",
             "Trait: Lithe Frame",
             "This character is not affected by effects that increase or reduce defense.",
             "This includes:",
@@ -6111,8 +6111,8 @@ const allTranslations =
         "name": "马恩斯 (Marnes)",
         "passives": [
             "Nine Lives:",
-            " * When defeated this character has 80% chance to revive at the begining of their next turn with 50% health and 80% mana.",
-            " * Activates up to 9 times. Chance to revive is reduced on each activation. Can’t be prevented with status ailments on Passive Skills.",
+            " * When defeated this character has 80% chance to [##elementgreen]revive[#] at the begining of their next turn with 50% health and 80% mana.",
+            " * Activates up to 9 times. Chance to [##elementgreen]revive[#] is reduced on each activation. Can’t be prevented with status ailments on Passive Skills.",
             "Trait: Lithe Frame",
             "This character is not affected by effects that increase or reduce defense.",
             "This includes:",
@@ -6576,7 +6576,7 @@ const allTranslations =
         "originalIndex": 919,
         "name": "野兽 (The Beast)",
         "passives": [
-            "Revival Health Reduction: All enemies have -50% health when revived. Boss enemies are not affected.",
+            "Revival Health Reduction: All enemies have -50% health when [##elementgreen]revived[#]. Boss enemies are not affected.",
             "Heal when status ailment expires or is cleared: This character receives 10% health each time a status ailment expires or is cleansed, removed or reallocated from them. This effect can activate only once per turn.",
             "Beautiful Inside: Whenever this character would take damage from a status ailment, they will recover that much health instead."
         ]
@@ -8743,8 +8743,8 @@ const allTranslations =
         "name": "拉杰什 (Rajesh)",
         "passives": [
             "Nine Lives:",
-            " * When defeated this character has 80% chance to revive at the begining of their next turn with 50% health and 80% mana.",
-            " * Activates up to 9 times. Chance to revive is reduced on each activation. Can’t be prevented with status ailments on Passive Skills.",
+            " * When defeated this character has 80% chance to [##elementgreen]revive[#] at the begining of their next turn with 50% health and 80% mana.",
+            " * Activates up to 9 times. Chance to [##elementgreen]revive[#] is reduced on each activation. Can’t be prevented with status ailments on Passive Skills.",
             "Trait: Lithe Frame",
             "This character is not affect by effects that increase or reduce defense.",
             "This includes:",
@@ -8837,7 +8837,7 @@ const allTranslations =
         "originalIndex": 1233,
         "name": "罗丝·德·弗洛 (Rose de Flo)",
         "passives": [
-            "Revival Health Reduction: All enemies have -50% health when revived. Boss enemies are not affected.",
+            "Revival Health Reduction: All enemies have -50% health when [##elementgreen]revived[#]. Boss enemies are not affected.",
             "Heal when status ailment expires or is cleared: This character receives 10% health each time a status ailment expires or is cleansed, removed or reallocated from them. This effect can activate only once per turn.",
             "Beautiful Inside: Whenever this character would take damage from a status ailment, they will recover that much health instead."
         ]
@@ -9556,7 +9556,7 @@ const allTranslations =
         "originalIndex": 1335,
         "name": "香黛儿 (Chandel)",
         "passives": [
-            "Revival Health Reduction: All enemies have -50% health when revived. Boss enemies are not affected.",
+            "Revival Health Reduction: All enemies have -50% health when [##elementgreen]revived[#]. Boss enemies are not affected.",
             "Heal when status ailment expires or is cleared: This character receives 10% health each time a status ailment expires or is cleansed, removed or reallocated from them. This effect can activate only once per turn.",
             "Beautiful Inside: Whenever this character would take damage from a status ailment, they will recover that much health instead."
         ]
@@ -11096,8 +11096,8 @@ const allTranslations =
         "name": "斯特拉维亚 (Stravia)",
         "passives": [
             "Nine Lives:",
-            " * When defeated this character has 80% chance to revive at the begining of their next turn with 50% health and 80% mana.",
-            " * Activates up to 9 times. Chance to revive is reduced on each activation. Can’t be prevented with status ailments or Passive Skills.",
+            " * When defeated this character has 80% chance to [##elementgreen]revive[#] at the begining of their next turn with 50% health and 80% mana.",
+            " * Activates up to 9 times. Chance to [##elementgreen]revive[#] is reduced on each activation. Can’t be prevented with status ailments or Passive Skills.",
             "Trait: Lithe Frame",
             "This character is not affected by effects that increase or reduce defense.",
             "This includes:",

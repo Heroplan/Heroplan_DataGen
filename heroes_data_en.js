@@ -273,7 +273,7 @@ window.allHeroes =
         "health": 782,
         "effects": [
             "All allies regenerate 425 HP over 5 turns.",
-            "Each defeated ally has a 35% chance to get revived with 25% HP."
+            "Each defeated ally has a 35% chance to get [##elementgreen]revived[#] with 25% HP."
         ],
         "passives": [
             "Transform Ailments: Each time this character casts their Special Skill, all cleansable status ailments affecting attack, defense and mana generation on all allies are transformed into matching undispellable buffs. Transformed effects:",
@@ -9523,7 +9523,7 @@ window.allHeroes =
         "effects": [
             "Recover 20% health for all allies.",
             "[#!]Growth Boon[#]: Recovers 2x extra for each point of modified defense. (Up to a maximum 800 additional  healing. Status effects affecting healing received do affect the healing scaling.)",
-            "Each defeated ally has a 35% chance to get revived with 35% HP.",
+            "Each defeated ally has a 35% chance to get [##elementgreen]revived[#] with 35% HP.",
             "Cleanses 1 status ailment from all allies. (Status ailments are cleansed in the order they have been received. The latest status ailments are cleansed first.)"
         ],
         "passives": [
@@ -13518,8 +13518,8 @@ window.allHeroes =
         ],
         "passives": [
             "Nine Lives:",
-            " * When defeated this character has 80% chance to revive at the begining of their next turn with 50% health and 80% mana.",
-            " * Activates up to 9 times. Chance to revive is reduced on each activation. Can’t be prevented with status ailments or Passive Skills.",
+            " * When defeated this character has 80% chance to [##elementgreen]revive[#] at the begining of their next turn with 50% health and 80% mana.",
+            " * Activates up to 9 times. Chance to [##elementgreen]revive[#] is reduced on each activation. Can’t be prevented with status ailments or Passive Skills.",
             "Trait: Lithe Frame",
             "This character is not affect by effects that increase or reduce defense.",
             "This includes:",
@@ -13780,7 +13780,7 @@ window.allHeroes =
         "defense": 1015,
         "health": 1808,
         "effects": [
-            "Each defeated ally has a 60% chance to get revived with 20% HP.",
+            "Each defeated ally has a 60% chance to get [##elementgreen]revived[#] with 20% HP.",
             "All allies get +50% attack for 5 turns. The attack increases by 5% each turn, up to +70%.",
             "All allies regenerate 1270 boosted health over 5 turns. Boosted health can exceed max HP."
         ],
@@ -17969,7 +17969,7 @@ window.allHeroes =
             "Casts [#!]Full Removal[#] on the caster. ([#!]Full Removal[#] removes all status effects, stacks and [#!]Growth[#] and [#!]Wither[#] effects. Removes even status effects and stack that are otherwise undispelalble and uncleasable.",
             "The caster shifts into Ghost form for 3 turns. (While in Ghost form, Character can’t gain mana, and can’t be healed by Special Skills, but is immune to normal attacks, Special Skill attacks, damage dealing passives, status effects and stacks. Immune to new [#!]Growth[#] and [#!]Wither[#] effects.)",
             "When the Ghost form expires:",
-            "The caster revives a random defeated ally with 40% HP.",
+            "The caster [##elementgreen]revive[#]s a random defeated ally with 40% HP.",
             "All allies regenerate 900 health over 3 turns.",
             "Cleanses status ailments from all allies at then end of each turn for 3 turns."
         ],
@@ -20686,8 +20686,8 @@ window.allHeroes =
         ],
         "passives": [
             "Nine Lives:",
-            " * When defeated this character has 80% chance to revive at the begining of their next turn with 50% health and 80% mana.",
-            " * Activates up to 9 times. Chance to revive is reduced on each activation. Can’t be prevented with status ailments or Passive Skills.",
+            " * When defeated this character has 80% chance to [##elementgreen]revive[#] at the begining of their next turn with 50% health and 80% mana.",
+            " * Activates up to 9 times. Chance to [##elementgreen]revive[#] is reduced on each activation. Can’t be prevented with status ailments or Passive Skills.",
             "Trait: Lithe Frame",
             "This character is not affect by effects that increase or reduce defense.",
             "This includes:",
@@ -23069,8 +23069,8 @@ window.allHeroes =
         ],
         "passives": [
             "Nine Lives:",
-            " * When defeated this character has 80% chance to revive at the begining of their next turn with 50% health and 80% mana.",
-            " * Activates up to 9 times. Chance to revive is reduced on each activation. Can’t be prevented with status ailments or Passive Skills.",
+            " * When defeated this character has 80% chance to [##elementgreen]revive[#] at the begining of their next turn with 50% health and 80% mana.",
+            " * Activates up to 9 times. Chance to [##elementgreen]revive[#] is reduced on each activation. Can’t be prevented with status ailments or Passive Skills.",
             "Trait: Lithe Frame",
             "This character is not affect by effects that increase or reduce defense.",
             "This includes:",
@@ -23650,7 +23650,7 @@ window.allHeroes =
         "defense": 514,
         "health": 804,
         "effects": [
-            "Each fallen ally has a 33% chance to get revived with 23% HP.",
+            "Each fallen ally has a 33% chance to get [##elementgreen]revived[#] with 23% HP.",
             "All allies receive a small ammount of mana over 4 turns."
         ],
         "passives": [
@@ -23714,7 +23714,7 @@ window.allHeroes =
         "defense": 515,
         "health": 850,
         "effects": [
-            "Each fallen ally has a 33% chance to get revived with 23% HP.",
+            "Each fallen ally has a 33% chance to get [##elementgreen]revived[#] with 23% HP.",
             "All allies regenerate 324 HP over 4 turns."
         ],
         "passives": [
@@ -24215,7 +24215,7 @@ window.allHeroes =
             " * Deals 250% damage to the target and minor damage to nearby enemies."
         ],
         "passives": [
-            "Revival Health Reduction: All enemies have -50% health when revived. Boss enemies are not affected.",
+            "Revival Health Reduction: All enemies have -50% health when [##elementgreen]revived[#]. Boss enemies are not affected.",
             "Heal when status ailment expires or is cleared: This character receives 10% health each time a status ailment expires or is cleansed, removed or reallocated from them. This effect can activate only once per turn.",
             "Beautiful Inside: Whenever this character would take damage from a status ailment, they will recover that much health instead."
         ],
@@ -25290,7 +25290,7 @@ window.allHeroes =
             " * Deals 250% damage to all enemies. Each hit has 60% accuracy.",
             " * All hit enemies receive 92 [##elementpurple]Poison damage[#] over 2 turns.",
             "2x [#!]Mana[#] Charge:",
-            " * Each fallen ally has a 44% chance to get revived with 40% HP.",
+            " * Each fallen ally has a 44% chance to get [##elementgreen]revived[#] with 40% HP.",
             " * All allies regenerate 405 HP over 5 turns"
         ],
         "passives": [
@@ -29534,7 +29534,7 @@ window.allHeroes =
         "defense": 741,
         "health": 1277,
         "effects": [
-            "Each fallen ally has a 33% chance to get revived with 23% HP.",
+            "Each fallen ally has a 33% chance to get [##elementgreen]revived[#] with 23% HP.",
             "All allies regenerate 712 HP over 4 turns.",
             "All allies regenerate a moderate amount of mana over 4 turns.",
             "Element Link gives all [##elementgreen]Nature[#] allies +15% attack and +15 defense for 6 turns. This effect can't be dispelled."
@@ -29604,7 +29604,7 @@ window.allHeroes =
         "defense": 946,
         "health": 1871,
         "effects": [
-            "Each fallen ally has a 38% chance to get revived with 28% HP.",
+            "Each fallen ally has a 38% chance to get [##elementgreen]revived[#] with 28% HP.",
             "All allies regenerate 648 HP over 4 turns.",
             "All allies ge +38% mana generation for 4 turns.",
             "Element Link gives all [##elementgreen]Nature[#] allies +15% attack and +15 defense for 6 turns. This effect can't be dispelled."
@@ -35708,7 +35708,7 @@ window.allHeroes =
         "health": 1417,
         "effects": [
             "Boosts health of all allies by 500. Boosted health can exceed max HP.",
-            "Each fallen ally has a 20% chance to get revived with 30% HP.",
+            "Each fallen ally has a 20% chance to get [##elementgreen]revived[#] with 30% HP.",
             "All allies get +30% attack for 4 turns."
         ],
         "passives": [],
@@ -35772,7 +35772,7 @@ window.allHeroes =
         "defense": 1099,
         "health": 1887,
         "effects": [
-            "Each fallen ally has 50% chance to get revived with 20% HP.",
+            "Each fallen ally has 50% chance to get [##elementgreen]revived[#] with 20% HP.",
             "All allies get +50% attack for 4 turns.",
             "All allies regenerate 672 boosted health over 4 turns. Boosted health can exceed max HP."
         ],
@@ -37600,8 +37600,8 @@ window.allHeroes =
         ],
         "passives": [
             "Nine Lives:",
-            " * When defeated this character has 80% chance to revive at the begining of their next turn with 50% health and 80% mana.",
-            " * Activates up to 9 times. Chance to revive is reduced on each activation. Can’t be prevented with status ailments on Passive Skills.",
+            " * When defeated this character has 80% chance to [##elementgreen]revive[#] at the begining of their next turn with 50% health and 80% mana.",
+            " * Activates up to 9 times. Chance to [##elementgreen]revive[#] is reduced on each activation. Can’t be prevented with status ailments on Passive Skills.",
             "Trait: Lithe Frame",
             "This character is not affect by effects that increase or reduce defense.",
             "This includes:",
@@ -39113,7 +39113,7 @@ window.allHeroes =
         "health": 1462,
         "effects": [
             "Recovers 30% health for all allies.",
-            "Each fallen ally has a 50% chance to get revived with 10% HP.",
+            "Each fallen ally has a 50% chance to get [##elementgreen]revived[#] with 10% HP.",
             "Summons an Elf Minion for each ally with 10% HP and 10% attack inherited from the caster."
         ],
         "passives": [],
@@ -39178,7 +39178,7 @@ window.allHeroes =
         "defense": 1120,
         "health": 2015,
         "effects": [
-            "Each fallen ally has a 55% chance to get revived with 15% HP.",
+            "Each fallen ally has a 55% chance to get [##elementgreen]revived[#] with 15% HP.",
             "Summons an Elf Minion for each ally with 10% HP and 10% attack inherited from the caster.",
             "All allies regenerate 612 HP over 4 turns."
         ],
@@ -40687,7 +40687,7 @@ window.allHeroes =
         "health": 1695,
         "effects": [
             "Recovers 30% health for all allies.",
-            "Each fallen ally has a 40% chance to get revived with 30% HP.",
+            "Each fallen ally has a 40% chance to get [##elementgreen]revived[#] with 30% HP.",
             "All allies a get Moonrise Ward for 4 turns, that reduces incoming Special Skill damage by -800. Reduces by additional 30% when attacker is [##elementyellow]Holy[#]."
         ],
         "passives": [
@@ -41321,7 +41321,7 @@ window.allHeroes =
         "defense": 1271,
         "health": 2165,
         "effects": [
-            "The target and nearby enemies can't revive their allies or themselves for 5 turns.",
+            "The target and nearby enemies can't [##elementgreen]revive[#] their allies or themselves for 5 turns.",
             "The target and nearby enemies can't receive new status effects that would resurrect them for 5 turns.",
             "Deals 530% damage to the target and minor damage to nearby enemies.",
             "[#!]Wither[#]: The target and nearby allies get -380 defense."
@@ -42437,8 +42437,8 @@ window.allHeroes =
         ],
         "passives": [
             "Nine Lives:",
-            " * When defeated this character has 80% chance to revive at the begining of their next turn with 50% health and 80% mana.",
-            " * Activates up to 9 times. Chance to revive is reduced on each activation. Can’t be prevented with status ailments on Passive Skills.",
+            " * When defeated this character has 80% chance to [##elementgreen]revive[#] at the begining of their next turn with 50% health and 80% mana.",
+            " * Activates up to 9 times. Chance to [##elementgreen]revive[#] is reduced on each activation. Can’t be prevented with status ailments on Passive Skills.",
             "Trait: Lithe Frame",
             "This character is not affect by effects that increase or reduce defense.",
             "This includes:",
@@ -50805,7 +50805,7 @@ window.allHeroes =
         "effects": [
             "Deals 565% damage to the target and minor damage to nearby enemies.",
             "The target and nearby enemies receives [##elementpurple]Corrosive Poison[#] for 3 turns. The [##elementpurple]Corrosive Poison[#] deals 134 [##elementpurple]Poison damage[#] and lowers the target’s mana generation by 10% each turn. Deals extra damage against heroes with Minions or a Mega Minion. (Affects only mana generated from matching tiles or mana gained by the defense team at then end of their turn.)",
-            "The target and nearby enemies can’t revive their allies or themself for 3 turns."
+            "The target and nearby enemies can’t [##elementgreen]revive[#] their allies or themself for 3 turns."
         ],
         "passives": [
             "Transform Buffs: Each time this character casts their Special Skill, all dispellable buffs affecting attack, defense and mana generation on all enemies are transformed into matching undispellable status ailments. Transformed effects:",
@@ -52926,11 +52926,11 @@ window.allHeroes =
             "1x [#!]Mana[#] Charge:",
             "* Boosts health of all allies by 450. Boosted health can exceed max HP.",
             "2x [#!]Mana[#] Charge:",
-            "* Each fallen ally has 50% chance to get revived with 10% HP.",
+            "* Each fallen ally has 50% chance to get [##elementgreen]revived[#] with 10% HP.",
             "* All allies regenerate 609 HP over 3 turns.",
             "3x [#!]Mana[#] Charge:",
             "* Boosts health of all allies by 700. Boosted health can exceed max HP.",
-            "* Each fallen ally has 65% chance to get revived with 27% HP.",
+            "* Each fallen ally has 65% chance to get [##elementgreen]revived[#] with 27% HP.",
             "* All allies regenerate 952 HP over 4 turns."
         ],
         "passives": [
@@ -56530,8 +56530,8 @@ window.allHeroes =
         ],
         "passives": [
             "Nine Lives:",
-            " * When defeated this character has 80% chance to revive at the begining of their next turn with 50% health and 80% mana.",
-            " * Activates up to 9 times. Chance to revive is reduced on each activation. Can’t be prevented with status ailments on Passive Skills.",
+            " * When defeated this character has 80% chance to [##elementgreen]revive[#] at the begining of their next turn with 50% health and 80% mana.",
+            " * Activates up to 9 times. Chance to [##elementgreen]revive[#] is reduced on each activation. Can’t be prevented with status ailments on Passive Skills.",
             "Trait: Lithe Frame",
             "This character is not affected by effects that increase or reduce defense.",
             "This includes:",
@@ -59233,8 +59233,8 @@ window.allHeroes =
         ],
         "passives": [
             "Nine Lives:",
-            " * When defeated this character has 80% chance to revive at the begining of their next turn with 50% health and 80% mana.",
-            " * Activates up to 9 times. Chance to revive is reduced on each activation. Can’t be prevented with status ailments on Passive Skills.",
+            " * When defeated this character has 80% chance to [##elementgreen]revive[#] at the begining of their next turn with 50% health and 80% mana.",
+            " * Activates up to 9 times. Chance to [##elementgreen]revive[#] is reduced on each activation. Can’t be prevented with status ailments on Passive Skills.",
             "Trait: Lithe Frame",
             "This character is not affected by effects that increase or reduce defense.",
             "This includes:",
@@ -63803,7 +63803,7 @@ window.allHeroes =
             " * The caster regenerates 1000 boosted health over 4 turns. Boosted health can exceed max HP."
         ],
         "passives": [
-            "Revival Health Reduction: All enemies have -50% health when revived. Boss enemies are not affected.",
+            "Revival Health Reduction: All enemies have -50% health when [##elementgreen]revived[#]. Boss enemies are not affected.",
             "Heal when status ailment expires or is cleared: This character receives 10% health each time a status ailment expires or is cleansed, removed or reallocated from them. This effect can activate only once per turn.",
             "Beautiful Inside: Whenever this character would take damage from a status ailment, they will recover that much health instead."
         ],
@@ -81597,7 +81597,7 @@ window.allHeroes =
         "defense": 776,
         "health": 1409,
         "effects": [
-            "All enemies can’t revive their allies or themselves for 5 turns.",
+            "All enemies can’t [##elementgreen]revive[#] their allies or themselves for 5 turns.",
             "All enemies can’t receive new status effects that would resurrect them for 5 turns.",
             "Deals 430% damage to the target and minor damage to the nearby enemies."
         ],
@@ -81664,7 +81664,7 @@ window.allHeroes =
         "defense": 993,
         "health": 1942,
         "effects": [
-            "All enemies can’t revive their allies or themselves for 4 turns.",
+            "All enemies can’t [##elementgreen]revive[#] their allies or themselves for 4 turns.",
             "All enemies can’t receive new status effects that would resurrect them for 4 turns.",
             "Deals 460% damage to the target and minor damage to nearby enemies."
         ],
@@ -83021,7 +83021,7 @@ window.allHeroes =
             " * The target and nearby enemies receive 156 [##elementred]Burn damage[#] over 2 turns.",
             " * If the caster dies during the next 2 turns they are resurrected in the beginning of their next turn with 32% health. All status effects and stacks are removed when the caster dies.",
             "2x [#!]Mana[#] Charge:",
-            " * Each defeated ally has a 50% chance to get revived with 40% HP.",
+            " * Each defeated ally has a 50% chance to get [##elementgreen]revived[#] with 40% HP.",
             " * All allies regenerate 714 HP over 3 turns.",
             " * All allies reduce all received damage by -50% for 3 turns."
         ],
@@ -83111,7 +83111,7 @@ window.allHeroes =
             " * All enemies receive 350 [##elementred]Burn damage[#] over 2 turns. The caster absorbs 10% of dealt [##elementred]Burn damage[#] as health.",
             " * If the caster is defeated during the next 2 turns, they are resurrected in the beginning of their next turn with 40% health. All status effects and stack are removed when the caster is defeated.",
             "2x [#!]Mana[#] Charge:",
-            " * Each defeated ally has a 55% chance to get revived with 44% HP.",
+            " * Each defeated ally has a 55% chance to get [##elementgreen]revived[#] with 44% HP.",
             " * All allies regenerate 795 boosted health over 3 turns. Boosted health can exceed max HP.",
             " * All allies reduce all received damage by -60% for 3 turns."
         ],
@@ -84875,8 +84875,8 @@ window.allHeroes =
         ],
         "passives": [
             "Nine Lives:",
-            " * When defeated this character has 80% chance to revive at the begining of their next turn with 50% health and 80% mana.",
-            " * Activates up to 9 times. Chance to revive is reduced on each activation. Can’t be prevented with status ailments on Passive Skills.",
+            " * When defeated this character has 80% chance to [##elementgreen]revive[#] at the begining of their next turn with 50% health and 80% mana.",
+            " * Activates up to 9 times. Chance to [##elementgreen]revive[#] is reduced on each activation. Can’t be prevented with status ailments on Passive Skills.",
             "Trait: Lithe Frame",
             "This character is not affect by effects that increase or reduce defense.",
             "This includes:",
@@ -85753,7 +85753,7 @@ window.allHeroes =
             " * All allies regenerate 900 HP over 3 turns."
         ],
         "passives": [
-            "Revival Health Reduction: All enemies have -50% health when revived. Boss enemies are not affected.",
+            "Revival Health Reduction: All enemies have -50% health when [##elementgreen]revived[#]. Boss enemies are not affected.",
             "Heal when status ailment expires or is cleared: This character receives 10% health each time a status ailment expires or is cleansed, removed or reallocated from them. This effect can activate only once per turn.",
             "Beautiful Inside: Whenever this character would take damage from a status ailment, they will recover that much health instead."
         ],
@@ -92665,7 +92665,7 @@ window.allHeroes =
             " * Deals 260% damage to the enemies on the edges of the enemy formation. If there is only one enemy, the damage is doubled."
         ],
         "passives": [
-            "Revival Health Reduction: All enemies have -50% health when revived. Boss enemies are not affected.",
+            "Revival Health Reduction: All enemies have -50% health when [##elementgreen]revived[#]. Boss enemies are not affected.",
             "Heal when status ailment expires or is cleared: This character receives 10% health each time a status ailment expires or is cleansed, removed or reallocated from them. This effect can activate only once per turn.",
             "Beautiful Inside: Whenever this character would take damage from a status ailment, they will recover that much health instead."
         ],
@@ -96585,7 +96585,7 @@ window.allHeroes =
         "health": 2251,
         "effects": [
             "Recovers 50% health for all allies.",
-            "Each defeated ally has 40% chance to get revived with 30% HP.",
+            "Each defeated ally has 40% chance to get [##elementgreen]revived[#] with 30% HP.",
             "All allies have a 20% chance to drop any received damage to 1 for 3 turns."
         ],
         "passives": [
@@ -97622,7 +97622,7 @@ window.allHeroes =
         "defense": 894,
         "health": 1559,
         "effects": [
-            "Each fallen ally has a 40% chance to get revived with 20% HP.",
+            "Each fallen ally has a 40% chance to get [##elementgreen]revived[#] with 20% HP.",
             "All allies regenerating 894 HP over 4 turns, starting low an increasing every turn.",
             "All allies get +24% defense for 4 turns. The defense increases by 10% each turn up to +54%."
         ],
@@ -104421,7 +104421,7 @@ window.allHeroes =
         "defense": 1231,
         "health": 2202,
         "effects": [
-            "Each defeated ally has a 60% chance to get revived with 20% HP.",
+            "Each defeated ally has a 60% chance to get [##elementgreen]revived[#] with 20% HP.",
             "All allies regenerate 1080 boosted health over 4 turn. Boosted health can exceed max HP.",
             "All enemies get -50% defense against Special Skills for 4 turns. Against [##elementpurple]Dark[#] characters, this status effect becomes uncleansable and lasts 2 turns longer."
         ],
@@ -107650,8 +107650,8 @@ window.allHeroes =
         ],
         "passives": [
             "Nine Lives:",
-            " * When defeated this character has 80% chance to revive at the begining of their next turn with 50% health and 80% mana.",
-            " * Activates up to 9 times. Chance to revive is reduced on each activation. Can’t be prevented with status ailments or Passive Skills.",
+            " * When defeated this character has 80% chance to [##elementgreen]revive[#] at the begining of their next turn with 50% health and 80% mana.",
+            " * Activates up to 9 times. Chance to [##elementgreen]revive[#] is reduced on each activation. Can’t be prevented with status ailments or Passive Skills.",
             "Trait: Lithe Frame",
             "This character is not affected by effects that increase or reduce defense.",
             "This includes:",
@@ -109575,8 +109575,8 @@ window.allHeroes =
         "effects": [
             "Deals 210% damage to all enemies.",
             "Deals additional 20% damage per each [##elementyellow]Holy[#] shield on the board up to 450% damage in total.",
-            "Each fallen ally has a 20% chance to be revived at 40% HP.",
-            "Each [##elementyellow]Holy[#] shield on the board increases the chance of to be revived by 5% up to 80% chance in total."
+            "Each fallen ally has a 20% chance to be [##elementgreen]revived[#] at 40% HP.",
+            "Each [##elementyellow]Holy[#] shield on the board increases the chance of to be [##elementgreen]revived[#] by 5% up to 80% chance in total."
         ],
         "passives": [
             "Troop Mastery:",
@@ -109647,8 +109647,8 @@ window.allHeroes =
         "effects": [
             "Deals 250% damage to all enemies.",
             "Deals additional 25% damage per each [##elementyellow]Holy[#] shield on the board, up to 550% damage in total.",
-            "Each defeated ally has a 20% chance to be revived with 45% HP.",
-            "Each [##elementyellow]Holy[#] shield on the board increases the chance to be revived by 5%, up to 80% chance in total.",
+            "Each defeated ally has a 20% chance to be [##elementgreen]revived[#] with 45% HP.",
+            "Each [##elementyellow]Holy[#] shield on the board increases the chance to be [##elementgreen]revived[#] by 5%, up to 80% chance in total.",
             "Deals extra damage against [##elementpurple]Dark[#]."
         ],
         "passives": [

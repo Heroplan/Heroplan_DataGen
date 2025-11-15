@@ -50,7 +50,7 @@ const allTranslations =
         "name": "伯莎 (Bertha)",
         "effects": [
             "All allies regenerate 425 HP over 5 turns.",
-            "Each defeated ally has a 35% chance to get revived with 25% HP."
+            "Each defeated ally has a 35% chance to get [##elementgreen]revived[#] with 25% HP."
         ]
     },
     {
@@ -1323,7 +1323,7 @@ const allTranslations =
         "effects": [
             "Recover 20% health for all allies.",
             "[#!]Growth Boon[#]: Recovers 2x extra for each point of modified defense. (Up to a maximum 800 additional  healing. Status effects affecting healing received do affect the healing scaling.)",
-            "Each defeated ally has a 35% chance to get revived with 35% HP.",
+            "Each defeated ally has a 35% chance to get [##elementgreen]revived[#] with 35% HP.",
             "Cleanses 1 status ailment from all allies. (Status ailments are cleansed in the order they have been received. The latest status ailments are cleansed first.)"
         ]
     },
@@ -1896,7 +1896,7 @@ const allTranslations =
         "originalIndex": 201,
         "name": "莱莎诺 (Lysanor)",
         "effects": [
-            "Each defeated ally has a 60% chance to get revived with 20% HP.",
+            "Each defeated ally has a 60% chance to get [##elementgreen]revived[#] with 20% HP.",
             "All allies get +50% attack for 5 turns. The attack increases by 5% each turn, up to +70%.",
             "All allies regenerate 1270 boosted health over 5 turns. Boosted health can exceed max HP."
         ]
@@ -2479,7 +2479,7 @@ const allTranslations =
             "Casts [#!]Full Removal[#] on the caster. ([#!]Full Removal[#] removes all status effects, stacks and [#!]Growth[#] and [#!]Wither[#] effects. Removes even status effects and stack that are otherwise undispelalble and uncleasable.",
             "The caster shifts into Ghost form for 3 turns. (While in Ghost form, Character can’t gain mana, and can’t be healed by Special Skills, but is immune to normal attacks, Special Skill attacks, damage dealing passives, status effects and stacks. Immune to new [#!]Growth[#] and [#!]Wither[#] effects.)",
             "When the Ghost form expires:",
-            "The caster revives a random defeated ally with 40% HP.",
+            "The caster [##elementgreen]revive[#]s a random defeated ally with 40% HP.",
             "All allies regenerate 900 health over 3 turns.",
             "Cleanses status ailments from all allies at then end of each turn for 3 turns."
         ]
@@ -3276,7 +3276,7 @@ const allTranslations =
         "originalIndex": 343,
         "name": "格兰普斯 (Gramps)",
         "effects": [
-            "Each fallen ally has a 33% chance to get revived with 23% HP.",
+            "Each fallen ally has a 33% chance to get [##elementgreen]revived[#] with 23% HP.",
             "All allies receive a small ammount of mana over 4 turns."
         ]
     },
@@ -3284,7 +3284,7 @@ const allTranslations =
         "originalIndex": 344,
         "name": "格兰普斯 (Gramps) C1",
         "effects": [
-            "Each fallen ally has a 33% chance to get revived with 23% HP.",
+            "Each fallen ally has a 33% chance to get [##elementgreen]revived[#] with 23% HP.",
             "All allies regenerate 324 HP over 4 turns."
         ]
     },
@@ -3510,7 +3510,7 @@ const allTranslations =
             " * Deals 250% damage to all enemies. Each hit has 60% accuracy.",
             " * All hit enemies receive 92 [##elementpurple]Poison damage[#] over 2 turns.",
             "2x [#!]Mana[#] Charge:",
-            " * Each fallen ally has a 44% chance to get revived with 40% HP.",
+            " * Each fallen ally has a 44% chance to get [##elementgreen]revived[#] with 40% HP.",
             " * All allies regenerate 405 HP over 5 turns"
         ]
     },
@@ -4084,7 +4084,7 @@ const allTranslations =
         "originalIndex": 431,
         "name": "阿尔贝里希 (Alberich)",
         "effects": [
-            "Each fallen ally has a 33% chance to get revived with 23% HP.",
+            "Each fallen ally has a 33% chance to get [##elementgreen]revived[#] with 23% HP.",
             "All allies regenerate 712 HP over 4 turns.",
             "All allies regenerate a moderate amount of mana over 4 turns.",
             "Element Link gives all [##elementgreen]Nature[#] allies +15% attack and +15 defense for 6 turns. This effect can't be dispelled."
@@ -4094,7 +4094,7 @@ const allTranslations =
         "originalIndex": 432,
         "name": "阿尔贝里希 (Alberich) C1",
         "effects": [
-            "Each fallen ally has a 38% chance to get revived with 28% HP.",
+            "Each fallen ally has a 38% chance to get [##elementgreen]revived[#] with 28% HP.",
             "All allies regenerate 648 HP over 4 turns.",
             "All allies ge +38% mana generation for 4 turns.",
             "Element Link gives all [##elementgreen]Nature[#] allies +15% attack and +15 defense for 6 turns. This effect can't be dispelled."
@@ -4952,7 +4952,7 @@ const allTranslations =
         "name": "海姆达 (Heimdall)",
         "effects": [
             "Boosts health of all allies by 500. Boosted health can exceed max HP.",
-            "Each fallen ally has a 20% chance to get revived with 30% HP.",
+            "Each fallen ally has a 20% chance to get [##elementgreen]revived[#] with 30% HP.",
             "All allies get +30% attack for 4 turns."
         ]
     },
@@ -4960,7 +4960,7 @@ const allTranslations =
         "originalIndex": 517,
         "name": "海姆达 (Heimdall) C1",
         "effects": [
-            "Each fallen ally has 50% chance to get revived with 20% HP.",
+            "Each fallen ally has 50% chance to get [##elementgreen]revived[#] with 20% HP.",
             "All allies get +50% attack for 4 turns.",
             "All allies regenerate 672 boosted health over 4 turns. Boosted health can exceed max HP."
         ]
@@ -5417,7 +5417,7 @@ const allTranslations =
         "name": "北方之母 (Mother North)",
         "effects": [
             "Recovers 30% health for all allies.",
-            "Each fallen ally has a 50% chance to get revived with 10% HP.",
+            "Each fallen ally has a 50% chance to get [##elementgreen]revived[#] with 10% HP.",
             "Summons an Elf Minion for each ally with 10% HP and 10% attack inherited from the caster."
         ]
     },
@@ -5425,7 +5425,7 @@ const allTranslations =
         "originalIndex": 566,
         "name": "北方之母 (Mother North) C1",
         "effects": [
-            "Each fallen ally has a 55% chance to get revived with 15% HP.",
+            "Each fallen ally has a 55% chance to get [##elementgreen]revived[#] with 15% HP.",
             "Summons an Elf Minion for each ally with 10% HP and 10% attack inherited from the caster.",
             "All allies regenerate 612 HP over 4 turns."
         ]
@@ -5642,7 +5642,7 @@ const allTranslations =
         "name": "雷利乌斯 (Relius)",
         "effects": [
             "Recovers 30% health for all allies.",
-            "Each fallen ally has a 40% chance to get revived with 30% HP.",
+            "Each fallen ally has a 40% chance to get [##elementgreen]revived[#] with 30% HP.",
             "All allies a get Moonrise Ward for 4 turns, that reduces incoming Special Skill damage by -800. Reduces by additional 30% when attacker is [##elementyellow]Holy[#]."
         ]
     },
@@ -5727,7 +5727,7 @@ const allTranslations =
         "originalIndex": 596,
         "name": "酸蛰 (Soursting)",
         "effects": [
-            "The target and nearby enemies can't revive their allies or themselves for 5 turns.",
+            "The target and nearby enemies can't [##elementgreen]revive[#] their allies or themselves for 5 turns.",
             "The target and nearby enemies can't receive new status effects that would resurrect them for 5 turns.",
             "Deals 530% damage to the target and minor damage to nearby enemies.",
             "[#!]Wither[#]: The target and nearby allies get -380 defense."
@@ -7060,7 +7060,7 @@ const allTranslations =
         "effects": [
             "Deals 565% damage to the target and minor damage to nearby enemies.",
             "The target and nearby enemies receives [##elementpurple]Corrosive Poison[#] for 3 turns. The [##elementpurple]Corrosive Poison[#] deals 134 [##elementpurple]Poison damage[#] and lowers the target’s mana generation by 10% each turn. Deals extra damage against heroes with Minions or a Mega Minion. (Affects only mana generated from matching tiles or mana gained by the defense team at then end of their turn.)",
-            "The target and nearby enemies can’t revive their allies or themself for 3 turns."
+            "The target and nearby enemies can’t [##elementgreen]revive[#] their allies or themself for 3 turns."
         ]
     },
     {
@@ -7361,11 +7361,11 @@ const allTranslations =
             "1x [#!]Mana[#] Charge:",
             "* Boosts health of all allies by 450. Boosted health can exceed max HP.",
             "2x [#!]Mana[#] Charge:",
-            "* Each fallen ally has 50% chance to get revived with 10% HP.",
+            "* Each fallen ally has 50% chance to get [##elementgreen]revived[#] with 10% HP.",
             "* All allies regenerate 609 HP over 3 turns.",
             "3x [#!]Mana[#] Charge:",
             "* Boosts health of all allies by 700. Boosted health can exceed max HP.",
-            "* Each fallen ally has 65% chance to get revived with 27% HP.",
+            "* Each fallen ally has 65% chance to get [##elementgreen]revived[#] with 27% HP.",
             "* All allies regenerate 952 HP over 4 turns."
         ]
     },
@@ -11357,7 +11357,7 @@ const allTranslations =
         "originalIndex": 1177,
         "name": "克拉夫克鲁什 (Kravekrush)",
         "effects": [
-            "All enemies can’t revive their allies or themselves for 5 turns.",
+            "All enemies can’t [##elementgreen]revive[#] their allies or themselves for 5 turns.",
             "All enemies can’t receive new status effects that would resurrect them for 5 turns.",
             "Deals 430% damage to the target and minor damage to the nearby enemies."
         ]
@@ -11366,7 +11366,7 @@ const allTranslations =
         "originalIndex": 1178,
         "name": "克拉夫克鲁什 (Kravekrush) C1",
         "effects": [
-            "All enemies can’t revive their allies or themselves for 4 turns.",
+            "All enemies can’t [##elementgreen]revive[#] their allies or themselves for 4 turns.",
             "All enemies can’t receive new status effects that would resurrect them for 4 turns.",
             "Deals 460% damage to the target and minor damage to nearby enemies."
         ]
@@ -11570,7 +11570,7 @@ const allTranslations =
             " * The target and nearby enemies receive 156 [##elementred]Burn damage[#] over 2 turns.",
             " * If the caster dies during the next 2 turns they are resurrected in the beginning of their next turn with 32% health. All status effects and stacks are removed when the caster dies.",
             "2x [#!]Mana[#] Charge:",
-            " * Each defeated ally has a 50% chance to get revived with 40% HP.",
+            " * Each defeated ally has a 50% chance to get [##elementgreen]revived[#] with 40% HP.",
             " * All allies regenerate 714 HP over 3 turns.",
             " * All allies reduce all received damage by -50% for 3 turns."
         ]
@@ -11584,7 +11584,7 @@ const allTranslations =
             " * All enemies receive 350 [##elementred]Burn damage[#] over 2 turns. The caster absorbs 10% of dealt [##elementred]Burn damage[#] as health.",
             " * If the caster is defeated during the next 2 turns, they are resurrected in the beginning of their next turn with 40% health. All status effects and stack are removed when the caster is defeated.",
             "2x [#!]Mana[#] Charge:",
-            " * Each defeated ally has a 55% chance to get revived with 44% HP.",
+            " * Each defeated ally has a 55% chance to get [##elementgreen]revived[#] with 44% HP.",
             " * All allies regenerate 795 boosted health over 3 turns. Boosted health can exceed max HP.",
             " * All allies reduce all received damage by -60% for 3 turns."
         ]
@@ -13431,7 +13431,7 @@ const allTranslations =
         "name": "阿斯特丽德 (Astrid)",
         "effects": [
             "Recovers 50% health for all allies.",
-            "Each defeated ally has 40% chance to get revived with 30% HP.",
+            "Each defeated ally has 40% chance to get [##elementgreen]revived[#] with 30% HP.",
             "All allies have a 20% chance to drop any received damage to 1 for 3 turns."
         ]
     },
@@ -13567,7 +13567,7 @@ const allTranslations =
         "originalIndex": 1407,
         "name": "达布莉亚 (Dabria)",
         "effects": [
-            "Each fallen ally has a 40% chance to get revived with 20% HP.",
+            "Each fallen ally has a 40% chance to get [##elementgreen]revived[#] with 20% HP.",
             "All allies regenerating 894 HP over 4 turns, starting low an increasing every turn.",
             "All allies get +24% defense for 4 turns. The defense increases by 10% each turn up to +54%."
         ]
@@ -14517,7 +14517,7 @@ const allTranslations =
         "originalIndex": 1501,
         "name": "勒明盖宁之母 (Mother Lemminkainen)",
         "effects": [
-            "Each defeated ally has a 60% chance to get revived with 20% HP.",
+            "Each defeated ally has a 60% chance to get [##elementgreen]revived[#] with 20% HP.",
             "All allies regenerate 1080 boosted health over 4 turn. Boosted health can exceed max HP.",
             "All enemies get -50% defense against Special Skills for 4 turns. Against [##elementpurple]Dark[#] characters, this status effect becomes uncleansable and lasts 2 turns longer."
         ]
@@ -15242,8 +15242,8 @@ const allTranslations =
         "effects": [
             "Deals 210% damage to all enemies.",
             "Deals additional 20% damage per each [##elementyellow]Holy[#] shield on the board up to 450% damage in total.",
-            "Each fallen ally has a 20% chance to be revived at 40% HP.",
-            "Each [##elementyellow]Holy[#] shield on the board increases the chance of to be revived by 5% up to 80% chance in total."
+            "Each fallen ally has a 20% chance to be [##elementgreen]revived[#] at 40% HP.",
+            "Each [##elementyellow]Holy[#] shield on the board increases the chance of to be [##elementgreen]revived[#] by 5% up to 80% chance in total."
         ]
     },
     {
@@ -15252,8 +15252,8 @@ const allTranslations =
         "effects": [
             "Deals 250% damage to all enemies.",
             "Deals additional 25% damage per each [##elementyellow]Holy[#] shield on the board, up to 550% damage in total.",
-            "Each defeated ally has a 20% chance to be revived with 45% HP.",
-            "Each [##elementyellow]Holy[#] shield on the board increases the chance to be revived by 5%, up to 80% chance in total.",
+            "Each defeated ally has a 20% chance to be [##elementgreen]revived[#] with 45% HP.",
+            "Each [##elementyellow]Holy[#] shield on the board increases the chance to be [##elementgreen]revived[#] by 5%, up to 80% chance in total.",
             "Deals extra damage against [##elementpurple]Dark[#]."
         ]
     },
