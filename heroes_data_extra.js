@@ -5029,6 +5029,7 @@ window.allHeroesExtra = [
         "AetherPower": "Dodge",
         "skill_types": [
             "AoE Attackers (Hit-5)",
+            "DoT Attackers",
             "Cleansers",
             "Dispellers",
             "Healers",
@@ -17290,7 +17291,8 @@ window.allHeroesExtra = [
             "Debuffers (ATK)",
             "Debuffers (DEF)",
             "DoT Attackers",
-            "Health Boosters"
+            "Health Boosters",
+            "Healers (Special)"
         ],
         "heroId": "magic_agrafena_costume_dark",
         "baseAttack": 368,
@@ -24284,6 +24286,7 @@ window.allHeroesExtra = [
         "skill_types": [
             "AoE Attackers (Hit-3)",
             "DoT Attackers",
+            "Healers (Special)",
             "Status Effects Blockers",
             "Status Effect Conversion"
         ],
@@ -36951,6 +36954,7 @@ window.allHeroesExtra = [
         "AetherPower": "Special Boost",
         "skill_types": [
             "Snipers",
+            "Bypassers",
             "Healers (Special)",
             "Health Boosters",
             "Minions Counters",
@@ -37783,7 +37787,8 @@ window.allHeroesExtra = [
         "skill_types": [
             "AoE Attackers (Hit-3)",
             "AoE Attackers (Hit-5)",
-            "Snipers"
+            "Snipers",
+            "Extra Damage Dealers"
         ],
         "heroId": "elemental_roz_costume_disco",
         "baseAttack": 458,
@@ -38548,7 +38553,8 @@ window.allHeroesExtra = [
         "skill_types": [
             "DoT Attackers",
             "Snipers",
-            "Chain & Random Attackers"
+            "Chain & Random Attackers",
+            "Healers (Special)"
         ],
         "heroId": "elemental_zengar_costume_farmer",
         "baseAttack": 422,
@@ -38743,7 +38749,8 @@ window.allHeroesExtra = [
             "Minions Counters",
             "Snipers",
             "Status Effect Conversion",
-            "Extra Damage Dealers"
+            "Extra Damage Dealers",
+            "Heal over Time (HoT)"
         ],
         "heroId": "magic_carpet_lilli",
         "baseAttack": 585,
@@ -38801,7 +38808,8 @@ window.allHeroesExtra = [
             "Debuffers (ATK)",
             "Dispellers",
             "DoT Attackers",
-            "Heal over Time (HoT)"
+            "Heal over Time (HoT)",
+            "Healing Reducers"
         ],
         "heroId": "magic_vaishali_costume_chef",
         "baseAttack": 456,
@@ -38941,7 +38949,8 @@ window.allHeroesExtra = [
         "AetherPower": "Damage Reduction",
         "skill_types": [
             "Mana Raisers",
-            "Mana Reducers or Blockers"
+            "Mana Reducers or Blockers",
+            "Immunity Providers"
         ],
         "heroId": "elemental_griffex_costume_camera",
         "baseAttack": 413,
@@ -39103,7 +39112,8 @@ window.allHeroesExtra = [
         "skill_types": [
             "DoT Attackers",
             "Snipers",
-            "Chain & Random Attackers"
+            "Chain & Random Attackers",
+            "Buffers (ATK)"
         ],
         "heroId": "elemental_doxan_costume_hacker",
         "baseAttack": 430,
@@ -39485,7 +39495,8 @@ window.allHeroesExtra = [
         "skill_types": [
             "AoE Attackers (Hit-3)",
             "Status Effect Conversion",
-            "Debuffers (ATK)"
+            "Debuffers (ATK)",
+            "Max Health Reducers"
         ],
         "heroId": "magic_carpet_bart",
         "baseAttack": 621,
@@ -39512,6 +39523,7 @@ window.allHeroesExtra = [
             "AoE Attackers (Hit-5)",
             "Mana Raisers",
             "Mana Reducers or Blockers",
+            "Buffers (DEF)",
             "Snipers",
             "Stacking Heroes",
             "Healers"
@@ -40414,7 +40426,8 @@ window.allHeroesExtra = [
             "Health Boosters",
             "Max Health Reducers",
             "Stacking Heroes",
-            "Mana Reducers or Blockers"
+            "Mana Reducers or Blockers",
+            "Healing Reducers"
         ],
         "heroId": "magic_camilla_costume_flower",
         "baseAttack": 405,

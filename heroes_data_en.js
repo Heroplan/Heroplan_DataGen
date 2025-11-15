@@ -8011,7 +8011,8 @@ window.allHeroes =
         "skill_types": [
             "AoE Attackers (Hit-3)",
             "Status Effect Conversion",
-            "Debuffers (ATK)"
+            "Debuffers (ATK)",
+            "Max Health Reducers"
         ],
         "source": "Tower - Magic",
         "Release date": "2025-09-17",
@@ -8071,7 +8072,8 @@ window.allHeroes =
             },
             {
                 "负面效果": [
-                    "Atk - Accuracy ↓"
+                    "Atk - Accuracy ↓",
+                    "Heal - Max Health ↓"
                 ]
             }
         ]
@@ -8656,7 +8658,8 @@ window.allHeroes =
             "Health Boosters",
             "Max Health Reducers",
             "Stacking Heroes",
-            "Mana Reducers or Blockers"
+            "Mana Reducers or Blockers",
+            "Healing Reducers"
         ],
         "source": "Tower - Magic",
         "Release date": "2025-10-19",
@@ -8718,7 +8721,8 @@ window.allHeroes =
             {
                 "负面效果": [
                     "Heal - Max Health ↓",
-                    "Def - Def ↓ : Special"
+                    "Def - Def ↓ : Special",
+                    "Heal - Healing ↓"
                 ]
             }
         ]
@@ -14781,6 +14785,7 @@ window.allHeroes =
         ],
         "skill_types": [
             "AoE Attackers (Hit-5)",
+            "DoT Attackers",
             "Cleansers",
             "Dispellers",
             "Healers",
@@ -14834,7 +14839,8 @@ window.allHeroes =
             {
                 "基础技能": [
                     "Heal: Instant",
-                    "Atk: All"
+                    "Atk: All",
+                    "Dmg: DoT"
                 ]
             },
             {
@@ -14844,7 +14850,8 @@ window.allHeroes =
             },
             {
                 "负面效果": [
-                    "Status - Cleanse Ailments"
+                    "Status - Cleanse Ailments",
+                    "Dmg - DoT : Frost"
                 ]
             }
         ]
@@ -21188,7 +21195,8 @@ window.allHeroes =
         "skill_types": [
             "DoT Attackers",
             "Snipers",
-            "Chain & Random Attackers"
+            "Chain & Random Attackers",
+            "Healers (Special)"
         ],
         "source": "Super Elementals",
         "Release date": "2025-08-12",
@@ -21238,6 +21246,11 @@ window.allHeroes =
                     "Atk: Single",
                     "Dmg: DoT",
                     "Atk: Variable Targets"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Heal - Self Recovery / Boost Health"
                 ]
             },
             {
@@ -40860,7 +40873,8 @@ window.allHeroes =
         "skill_types": [
             "AoE Attackers (Hit-3)",
             "AoE Attackers (Hit-5)",
-            "Snipers"
+            "Snipers",
+            "Extra Damage Dealers"
         ],
         "source": "Super Elementals",
         "Release date": "2025-07-18",
@@ -40907,6 +40921,11 @@ window.allHeroes =
             {
                 "基础技能": [
                     "Atk: Variable Targets"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Dmg - Dmg ↑ : Ice"
                 ]
             }
         ]
@@ -50946,7 +50965,8 @@ window.allHeroes =
             "Debuffers (ATK)",
             "Debuffers (DEF)",
             "DoT Attackers",
-            "Health Boosters"
+            "Health Boosters",
+            "Healers (Special)"
         ],
         "source": "Tower - Magic",
         "Release date": "2025-05-29",
@@ -50999,6 +51019,11 @@ window.allHeroes =
                     "Heal: Boost Health",
                     "Heal: Over Time",
                     "Dmg: DoT"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Heal - Self Recovery / Boost Health"
                 ]
             },
             {
@@ -52145,6 +52170,7 @@ window.allHeroes =
             "AoE Attackers (Hit-5)",
             "Mana Raisers",
             "Mana Reducers or Blockers",
+            "Buffers (DEF)",
             "Snipers",
             "Stacking Heroes",
             "Healers"
@@ -52208,7 +52234,8 @@ window.allHeroes =
             },
             {
                 "增益效果": [
-                    "Mana - Mana Gain"
+                    "Mana - Mana Gain",
+                    "Def - Def ↑ : Holy"
                 ]
             },
             {
@@ -55381,7 +55408,8 @@ window.allHeroes =
         ],
         "skill_types": [
             "Mana Raisers",
-            "Mana Reducers or Blockers"
+            "Mana Reducers or Blockers",
+            "Immunity Providers"
         ],
         "source": "Super Elementals",
         "Release date": "2025-08-28",
@@ -55431,7 +55459,8 @@ window.allHeroes =
             },
             {
                 "增益效果": [
-                    "Mana - Mana Gain"
+                    "Mana - Mana Gain",
+                    "Status - Ailment Immunity"
                 ]
             }
         ]
@@ -58221,7 +58250,8 @@ window.allHeroes =
             "Minions Counters",
             "Snipers",
             "Status Effect Conversion",
-            "Extra Damage Dealers"
+            "Extra Damage Dealers",
+            "Heal over Time (HoT)"
         ],
         "source": "Tower - Magic",
         "Release date": "2025-08-20",
@@ -58278,7 +58308,8 @@ window.allHeroes =
             {
                 "特殊效果": [
                     "Atk - Steal Minions",
-                    "Status - Replace with Ailment"
+                    "Status - Replace with Ailment",
+                    "Heal - Self Recovery / Boost Health"
                 ]
             },
             {
@@ -71611,6 +71642,7 @@ window.allHeroes =
         "skill_types": [
             "AoE Attackers (Hit-3)",
             "DoT Attackers",
+            "Healers (Special)",
             "Status Effects Blockers",
             "Status Effect Conversion"
         ],
@@ -71667,7 +71699,8 @@ window.allHeroes =
             },
             {
                 "特殊效果": [
-                    "Status - Replace with Ailment"
+                    "Status - Replace with Ailment",
+                    "Heal - Self Recovery / Boost Health"
                 ]
             },
             {
@@ -77103,7 +77136,8 @@ window.allHeroes =
         "skill_types": [
             "DoT Attackers",
             "Snipers",
-            "Chain & Random Attackers"
+            "Chain & Random Attackers",
+            "Buffers (ATK)"
         ],
         "source": "Super Elementals",
         "Release date": "2025-09-04",
@@ -77151,6 +77185,11 @@ window.allHeroes =
                     "Atk: Single",
                     "Atk: Variable Targets",
                     "Dmg: DoT"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Atk - Attack ↑"
                 ]
             },
             {
@@ -108275,7 +108314,8 @@ window.allHeroes =
             "Debuffers (ATK)",
             "Dispellers",
             "DoT Attackers",
-            "Heal over Time (HoT)"
+            "Heal over Time (HoT)",
+            "Healing Reducers"
         ],
         "source": "Tower - Magic",
         "Release date": "2025-08-20",
@@ -108342,7 +108382,8 @@ window.allHeroes =
                 "负面效果": [
                     "Atk - Attack ↓",
                     "Dmg - DoT : Sand",
-                    "Status - Cleanse Ailments"
+                    "Status - Cleanse Ailments",
+                    "Heal - Healing ↓"
                 ]
             }
         ]
@@ -109662,6 +109703,7 @@ window.allHeroes =
         ],
         "skill_types": [
             "Snipers",
+            "Bypassers",
             "Healers (Special)",
             "Health Boosters",
             "Minions Counters",
@@ -109716,12 +109758,14 @@ window.allHeroes =
             {
                 "基础技能": [
                     "Heal: From Dmg",
+                    "Heal: Boost Health",
                     "Atk: Single"
                 ]
             },
             {
                 "特殊效果": [
-                    "Status - Replace with Buff"
+                    "Status - Replace with Buff",
+                    "Atk - Bypass / Ignore"
                 ]
             }
         ]
