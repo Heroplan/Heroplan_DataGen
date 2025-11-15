@@ -1963,7 +1963,7 @@ const allTranslations =
         "originalIndex": 274,
         "name": "宋江 (Song Jiang)",
         "passives": [
-            "Cleanse on Critical Special Attack: When this character scores a [##elementred]critical[#] hit with their Special Skill, they safely cleanse the latest cleansable status effect from all allies. This effect can activate once per turn.",
+            "Cleanse on Critical Special Attack: When this character scores a [##elementred]critical[#] hit with their Special Skill, they [##elementgreen]safely cleanse[#] the latest cleansable status effect from all allies. This effect can activate once per turn.",
             "Righteous Rebellion: ",
             " * When this character’s Special Skill hits a character that had higher current HP, gain +20% boosted health.",
             " * When this character is hit by the Special Skill of a character that had higher current HP, gain +20% [#!]mana[#].",
@@ -5419,7 +5419,7 @@ const allTranslations =
         "originalIndex": 766,
         "name": "晁盖 (Chao Gai)",
         "passives": [
-            "Cleanse on Critical Special Attack: When this character scores a [##elementred]critical[#] hit with their Special Skill, they safely cleanse the latest cleansable status effect from all allies. This effect can activate once per turn.",
+            "Cleanse on Critical Special Attack: When this character scores a [##elementred]critical[#] hit with their Special Skill, they [##elementgreen]safely cleanse[#] the latest cleansable status effect from all allies. This effect can activate once per turn.",
             "Righteous Rebellion: ",
             " * When this character’s Special Skill hits a character that had higher current HP, gain +20% boosted health.",
             " * When this character is hit by the Special Skill of a character that had higher current HP, gain +20% [#!]mana[#].",
@@ -7017,7 +7017,7 @@ const allTranslations =
         "originalIndex": 982,
         "name": "刘唐 (Liu Tang)",
         "passives": [
-            "Cleanse on Critical Special Attack: When this character scores a [##elementred]critical[#] hit with their Special Skill, they safely cleanse the latest cleansable status effect from all allies. This effect can activate once per turn.",
+            "Cleanse on Critical Special Attack: When this character scores a [##elementred]critical[#] hit with their Special Skill, they [##elementgreen]safely cleanse[#] the latest cleansable status effect from all allies. This effect can activate once per turn.",
             "Righteous Rebellion: ",
             " * When this character’s Special Skill hits a character that had higher current HP, gain +20% boosted health.",
             " * When this character is hit by the Special Skill of a character that had higher current HP, gain +20% [#!]mana[#].",
@@ -8465,7 +8465,7 @@ const allTranslations =
         "originalIndex": 1184,
         "name": "李逵 (Li Kui)",
         "passives": [
-            "Cleanse on Critical Special Attack: When this character scores a [##elementred]critical[#] hit with their Special Skill, they safely cleanse the latest cleansable status effect from all allies. This effect can activate once per turn.",
+            "Cleanse on Critical Special Attack: When this character scores a [##elementred]critical[#] hit with their Special Skill, they [##elementgreen]safely cleanse[#] the latest cleansable status effect from all allies. This effect can activate once per turn.",
             "Righteous Rebellion: ",
             " * When this character’s Special Skill hits a character that had higher current HP, gain +20% boosted health.",
             " * When this character is hit by the Special Skill of a character that had higher current HP, gain +20% [#!]mana[#].",
@@ -9668,7 +9668,7 @@ const allTranslations =
         "originalIndex": 1351,
         "name": "顾大嫂 (Gu Dasao)",
         "passives": [
-            "Cleanse on Critical Special Attack: When this character scores a [##elementred]critical[#] hit with their Special Skill, they safely cleanse the latest cleansable status effect from all allies. This effect can activate once per turn.",
+            "Cleanse on Critical Special Attack: When this character scores a [##elementred]critical[#] hit with their Special Skill, they [##elementgreen]safely cleanse[#] the latest cleansable status effect from all allies. This effect can activate once per turn.",
             "Righteous Rebellion: ",
             " * When this character’s Special Skill hits a character that had higher current HP, gain +20% boosted health.",
             " * When this character is hit by the Special Skill of a character that had higher current HP, gain +20% [#!]mana[#].",
@@ -10997,7 +10997,7 @@ const allTranslations =
         "originalIndex": 1534,
         "name": "阮小七 (Ruan Xiaoqi)",
         "passives": [
-            "Cleanse on Critical Special Attack: When this character scores a [##elementred]critical[#] hit with their Special Skill, they safely cleanse the latest cleansable status effect from all allies. This effect can activate once per turn.",
+            "Cleanse on Critical Special Attack: When this character scores a [##elementred]critical[#] hit with their Special Skill, they [##elementgreen]safely cleanse[#] the latest cleansable status effect from all allies. This effect can activate once per turn.",
             "Righteous Rebellion: ",
             " * When this character’s Special Skill hits a character that had higher current HP, gain +20% boosted health.",
             " * When this character is hit by the Special Skill of a character that had higher current HP, gain +20% [#!]mana[#].",
@@ -11261,7 +11261,7 @@ const allTranslations =
         "originalIndex": 1569,
         "name": "吴用 (Wu Yong)",
         "passives": [
-            "Cleanse on Critical Special Attack: When this character scores a [##elementred]critical[#] hit with their Special Skill, they safely cleanse the latest cleansable status effect from all allies. This effect can activate once per turn.",
+            "Cleanse on Critical Special Attack: When this character scores a [##elementred]critical[#] hit with their Special Skill, they [##elementgreen]safely cleanse[#] the latest cleansable status effect from all allies. This effect can activate once per turn.",
             "Righteous Rebellion: ",
             " * When this character’s Special Skill hits a character that had higher current HP, gain +20% boosted health.",
             " * When this character is hit by the Special Skill of a character that had higher current HP, gain +20% [#!]mana[#].",

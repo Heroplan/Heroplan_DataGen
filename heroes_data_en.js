@@ -19086,7 +19086,7 @@ window.allHeroes =
             "The target and nearby enemies get -30% defense for 4 turns."
         ],
         "passives": [
-            "Cleanse on Critical Special Attack: When this character scores a [##elementred]critical[#] hit with their Special Skill, they safely cleanse the latest cleansable status effect from all allies. This effect can activate once per turn.",
+            "Cleanse on Critical Special Attack: When this character scores a [##elementred]critical[#] hit with their Special Skill, they [##elementgreen]safely cleanse[#] the latest cleansable status effect from all allies. This effect can activate once per turn.",
             "Righteous Rebellion: ",
             " * When this character’s Special Skill hits a character that had higher current HP, gain +20% boosted health.",
             " * When this character is hit by the Special Skill of a character that had higher current HP, gain +20% [#!]mana[#].",
@@ -52847,7 +52847,7 @@ window.allHeroes =
             "All allies get +40% [##elementred]critical[#] chance for 2 turns. This effect is undispellable. (While in Ghost form. Character can’t gain [#!]mana[#] and can’t be healed by Special Skills, but is immune to normal attacks, Special Skill attacks, damage dealing passives, status effects and stacks. Immune to new [#!]Growth[#] and [##elementred]Wither[#] effects.)"
         ],
         "passives": [
-            "Cleanse on Critical Special Attack: When this character scores a [##elementred]critical[#] hit with their Special Skill, they safely cleanse the latest cleansable status effect from all allies. This effect can activate once per turn.",
+            "Cleanse on Critical Special Attack: When this character scores a [##elementred]critical[#] hit with their Special Skill, they [##elementgreen]safely cleanse[#] the latest cleansable status effect from all allies. This effect can activate once per turn.",
             "Righteous Rebellion: ",
             " * When this character’s Special Skill hits a character that had higher current HP, gain +20% boosted health.",
             " * When this character is hit by the Special Skill of a character that had higher current HP, gain +20% [#!]mana[#].",
@@ -68018,7 +68018,7 @@ window.allHeroes =
             "The caster gets [##elementred]Taunt[#] that prevents enemies from using Special Skills on the caster’s allies for 5 turns."
         ],
         "passives": [
-            "Cleanse on Critical Special Attack: When this character scores a [##elementred]critical[#] hit with their Special Skill, they safely cleanse the latest cleansable status effect from all allies. This effect can activate once per turn.",
+            "Cleanse on Critical Special Attack: When this character scores a [##elementred]critical[#] hit with their Special Skill, they [##elementgreen]safely cleanse[#] the latest cleansable status effect from all allies. This effect can activate once per turn.",
             "Righteous Rebellion: ",
             " * When this character’s Special Skill hits a character that had higher current HP, gain +20% boosted health.",
             " * When this character is hit by the Special Skill of a character that had higher current HP, gain +20% [#!]mana[#].",
@@ -82082,7 +82082,7 @@ window.allHeroes =
             "The caster reduces all received damage by -50% for 4 turns."
         ],
         "passives": [
-            "Cleanse on Critical Special Attack: When this character scores a [##elementred]critical[#] hit with their Special Skill, they safely cleanse the latest cleansable status effect from all allies. This effect can activate once per turn.",
+            "Cleanse on Critical Special Attack: When this character scores a [##elementred]critical[#] hit with their Special Skill, they [##elementgreen]safely cleanse[#] the latest cleansable status effect from all allies. This effect can activate once per turn.",
             "Righteous Rebellion: ",
             " * When this character’s Special Skill hits a character that had higher current HP, gain +20% boosted health.",
             " * When this character is hit by the Special Skill of a character that had higher current HP, gain +20% [#!]mana[#].",
@@ -93780,7 +93780,7 @@ window.allHeroes =
             "The caster decreases -5% [#!]mana[#] from the attacker on each counterattack for 4 turns. The effect gets diminished for consecutive activations during the same turn."
         ],
         "passives": [
-            "Cleanse on Critical Special Attack: When this character scores a [##elementred]critical[#] hit with their Special Skill, they safely cleanse the latest cleansable status effect from all allies. This effect can activate once per turn.",
+            "Cleanse on Critical Special Attack: When this character scores a [##elementred]critical[#] hit with their Special Skill, they [##elementgreen]safely cleanse[#] the latest cleansable status effect from all allies. This effect can activate once per turn.",
             "Righteous Rebellion: ",
             " * When this character’s Special Skill hits a character that had higher current HP, gain +20% boosted health.",
             " * When this character is hit by the Special Skill of a character that had higher current HP, gain +20% [#!]mana[#].",
@@ -106763,7 +106763,7 @@ window.allHeroes =
             "The enemy that had the highest remaining HP get 810 [##elementblue]Water damage[#] over 3 turns. This effect can’t be cleansed."
         ],
         "passives": [
-            "Cleanse on Critical Special Attack: When this character scores a [##elementred]critical[#] hit with their Special Skill, they safely cleanse the latest cleansable status effect from all allies. This effect can activate once per turn.",
+            "Cleanse on Critical Special Attack: When this character scores a [##elementred]critical[#] hit with their Special Skill, they [##elementgreen]safely cleanse[#] the latest cleansable status effect from all allies. This effect can activate once per turn.",
             "Righteous Rebellion: ",
             " * When this character’s Special Skill hits a character that had higher current HP, gain +20% boosted health.",
             " * When this character is hit by the Special Skill of a character that had higher current HP, gain +20% [#!]mana[#].",
@@ -109362,7 +109362,7 @@ window.allHeroes =
             "All allies get +55% [##elementred]critical[#] chance for 5 turns."
         ],
         "passives": [
-            "Cleanse on Critical Special Attack: When this character scores a [##elementred]critical[#] hit with their Special Skill, they safely cleanse the latest cleansable status effect from all allies. This effect can activate once per turn.",
+            "Cleanse on Critical Special Attack: When this character scores a [##elementred]critical[#] hit with their Special Skill, they [##elementgreen]safely cleanse[#] the latest cleansable status effect from all allies. This effect can activate once per turn.",
             "Righteous Rebellion: ",
             " * When this character’s Special Skill hits a character that had higher current HP, gain +20% boosted health.",
             " * When this character is hit by the Special Skill of a character that had higher current HP, gain +20% [#!]mana[#].",
