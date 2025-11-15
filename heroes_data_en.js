@@ -8381,7 +8381,7 @@ window.allHeroes =
         "effects": [
             "Deals 480% damage to the target.",
             "The target gets -44% defense for 4 turns.",
-            "The target automatically casts Shifting [#!]Mindless Attack[#] on a random ally when [#!]mana[#] is full at the start of the turn during 4 turns. When this effect is triggered, it shifts to the hit ally, and the duration is refreshed."
+            "The target automatically casts Shifting [##elementred]Mindless Attack[#] on a random ally when [#!]mana[#] is full at the start of the turn during 4 turns. When this effect is triggered, it shifts to the hit ally, and the duration is refreshed."
         ],
         "passives": [
             "Wrath of Pets: When a Fiend is summoned to any enemy, this character deals 85% damage to all enemies. This effect can activate only once per turn.",
@@ -8517,8 +8517,8 @@ window.allHeroes =
         "effects": [
             "Summons a Shield Guard Mega Minion with 65% HP and 180% attack inherited from the caster.",
             "The Shield Guard Mega Minion cleanses the latest cleansable status ailment from all allies each turn. This does not trigger secondary effects.",
-            "All enemies fall asleep.",
-            "While asleep, the target can’t attack or gain [#!]mana[#].",
+            "All enemies fall [##elementred]asleep[#].",
+            "While [##elementred]asleep[#], the target can’t attack or gain [#!]mana[#].",
             "All damage dealt to the sleeping target is increased by +70%.",
             "The sleeping target is woken once it take damage. This excludes damage from Minions and Fiends."
         ],
@@ -13069,10 +13069,10 @@ window.allHeroes =
         "health": 1689,
         "effects": [
             "Deals 200% damage to the target.",
-            "For 3 turns, the target is forced to cast [#!]Mindless Heal[#] when at full [#!]mana[#].",
+            "For 3 turns, the target is forced to cast [##elementred]Mindless Heal[#] when at full [#!]mana[#].",
             "Deals 200% damage to 3 other random enemies. (This effect target the same enemy as the first hit if there are no other valid targets)",
-            "For 3 turns, all hit enemies are forced to cast [#!]Mindless Heal[#] when at full [#!]mana[#].",
-            "[#!]Mindless Heal[#]: Recovers 20% health for the character on the opposing side with the lowest remaining HP."
+            "For 3 turns, all hit enemies are forced to cast [##elementred]Mindless Heal[#] when at full [#!]mana[#].",
+            "[##elementred]Mindless Heal[#]: Recovers 20% health for the character on the opposing side with the lowest remaining HP."
         ],
         "passives": [
             "Resist Special Skill Blocking: This character has innate resistance against status ailments that block Special Skills."
@@ -15021,7 +15021,7 @@ window.allHeroes =
         "effects": [
             "Deals 280% damage to the target.",
             "Has a 42% chance for additional hits on random enemies up to 3 times.",
-            "Enemies hit automatically cast [#!]Mindless Attack[#] on a random ally when [#!]mana[#] is full at the start of a turn during 3 turns."
+            "Enemies hit automatically cast [##elementred]Mindless Attack[#] on a random ally when [#!]mana[#] is full at the start of a turn during 3 turns."
         ],
         "passives": [],
         "family": "lagoon",
@@ -19463,7 +19463,7 @@ window.allHeroes =
         "health": 2084,
         "effects": [
             "Steals all dispellable buffs from the target and randomly distributes them on allies.",
-            "The target falls into Deep Sleep and receives +80% increased damage while in Deep Sleep. (The character in Deep Sleep cannot gain [#!]mana[#] or attack. The character in Deep Sleep is woken once it takes 750 damage. This effect is uncleasable.)",
+            "The target falls into [##elementred]Deep Sleep[#] and receives +80% increased damage while in [##elementred]Deep Sleep[#]. (The character in [##elementred]Deep Sleep[#] cannot gain [#!]mana[#] or attack. The character in [##elementred]Deep Sleep[#] is woken once it takes 750 damage. This effect is uncleasable.)",
             "Recovers 30% health for all allies."
         ],
         "passives": [
@@ -26550,7 +26550,7 @@ window.allHeroes =
         "health": 1275,
         "effects": [
             "Deals 350% damage to the target.",
-            "The target falls into Deep Sleep and receives +80% increased damage while in Deep Sleep. (The character in Deep Sleep cannot gain [#!]mana[#] or attack. The character in Deep Sleep is woken once it takes 750 damage. This effect is uncleasable.)"
+            "The target falls into [##elementred]Deep Sleep[#] and receives +80% increased damage while in [##elementred]Deep Sleep[#]. (The character in [##elementred]Deep Sleep[#] cannot gain [#!]mana[#] or attack. The character in [##elementred]Deep Sleep[#] is woken once it takes 750 damage. This effect is uncleasable.)"
         ],
         "passives": [
             "Dodge Special Damage: This character has a 15% chance to [#!]dodge[#] Special Skills that deal damage."
@@ -28979,8 +28979,8 @@ window.allHeroes =
         "health": 1364,
         "effects": [
             "Attacks the target with Frostfall Strike, dealing up to 1020 damage. Deals 30% more if the target is of the [##elementred]Fire[#] element. This Special Skill [##elementyellow]never misses[#] its targets.",
-            "The target get [#!]Soul Bound[#] for 3 turns. This effect can’t be cleansed. (This effect will always bypass reflection.)",
-            "All damage received by the caster is also dealt to all [#!]Soul Bound[#] enemies. (Damage is shared between all [#!]Soul Bound[#] enemies. This effect will not share damage coming from other shared damage sources or counterattacks.)"
+            "The target get [##elementred]Soul Bound[#] for 3 turns. This effect can’t be cleansed. (This effect will always bypass reflection.)",
+            "All damage received by the caster is also dealt to all [##elementred]Soul Bound[#] enemies. (Damage is shared between all [##elementred]Soul Bound[#] enemies. This effect will not share damage coming from other shared damage sources or counterattacks.)"
         ],
         "passives": [
             "Empowered Resist Frost: This character has innate resistance against Frost and gains 450 boosted heath and 5% [#!]mana[#] each time they resist.",
@@ -29946,7 +29946,7 @@ window.allHeroes =
         "effects": [
             "Deals 300% damage to all enemies.",
             "Summons a Bodyguard Mega Minion with 50% HP and 250% attack inherited from the caster.",
-            "The target hit by the Bodyguard Mega Minion falls asleep and receives +60% increased damage when sleeping. (A sleeping target cannot gain [#!]mana[#]. The sleeping target is woken once it takes damage. This excludes dmaage from Minions and Fiends. The effect is [##elementred]uncleansable[#].)"
+            "The target hit by the Bodyguard Mega Minion [##elementred]falls asleep[#] and receives +60% increased damage when sleeping. (A sleeping target cannot gain [#!]mana[#]. The sleeping target is woken once it takes damage. This excludes dmaage from Minions and Fiends. The effect is [##elementred]uncleansable[#].)"
         ],
         "passives": [
             "Resist Attack Ailments: This character has innate resistance against status ailments that affect attack.",
@@ -30479,8 +30479,8 @@ window.allHeroes =
         "health": 1378,
         "effects": [
             "Deals 350% damage to the target.",
-            "The target falls asleep.",
-            "While asleep, the target can't attack or gain [#!]mana[#].",
+            "The target [##elementred]falls asleep[#].",
+            "While [##elementred]asleep[#], the target can't attack or gain [#!]mana[#].",
             "All damage dealt to the sleeping target is increased by +60%.",
             "The sleeping target is woken once it takes damage. This excludes damage from minions and fiends.",
             "Element Link gives +10% increase for any healing received for all [##elementgreen]Nature[#] allies for 4 turns. This effect [#!]can't be dispelled[#]."
@@ -30914,15 +30914,15 @@ window.allHeroes =
             "1x [#!]Mana[#] Charge",
             " * [#!]Dispels[#] buffs from the enemies on the edges of the enemy formation.",
             " * Deals 300% damage to the enemies on the edges of the enemy formation. If there is only one enemy aive, the damage is doubled.",
-            " * The enemy on the edges of the formation fall asleep and receive +60% increased damage while sleeping. (A sleeping character cannot gain [#!]mana[#]. The sleeping target is woken once it takes damage. This excludes damage from Minions and Fiends. This effect is [##elementred]uncleansable[#].)",
+            " * The enemy on the edges of the formation fall [##elementred]asleep[#] and receive +60% increased damage while sleeping. (A sleeping character cannot gain [#!]mana[#]. The sleeping target is woken once it takes damage. This excludes damage from Minions and Fiends. This effect is [##elementred]uncleansable[#].)",
             "2x [#!]Mana[#] Charge",
             " * [#!]Dispels[#] buffs from the enemies on the edges of the enemy formation.",
             " * Deals 485% damage to the enemies on the edges of the enemy formation. If there is only one enemy aive, the damage is doubled.",
-            " * The enemy on the edges of the formation fall asleep and receive +80% increased damage while sleeping. (A sleeping character cannot gain [#!]mana[#]. The sleeping target is woken once it takes damage. This excludes damage from Minions and Fiends. This effect is [##elementred]uncleansable[#].)",
+            " * The enemy on the edges of the formation fall [##elementred]asleep[#] and receive +80% increased damage while sleeping. (A sleeping character cannot gain [#!]mana[#]. The sleeping target is woken once it takes damage. This excludes damage from Minions and Fiends. This effect is [##elementred]uncleansable[#].)",
             "3x [#!]Mana[#] Charge",
             " * [#!]Dispels[#] buffs from the enemies on the edges of the enemy formation.",
             " * Deals 900% damage to the enemies on the edges of the enemy formation. If there is only one enemy aive, the damage is doubled.",
-            " * The enemy on the edges of the formation fall asleep and receive +100% increased damage while sleeping. (A sleeping character cannot gain [#!]mana[#]. The sleeping target is woken once it takes damage. This excludes damage from Minions and Fiends. This effect is [##elementred]uncleansable[#].)"
+            " * The enemy on the edges of the formation fall [##elementred]asleep[#] and receive +100% increased damage while sleeping. (A sleeping character cannot gain [#!]mana[#]. The sleeping target is woken once it takes damage. This excludes damage from Minions and Fiends. This effect is [##elementred]uncleansable[#].)"
         ],
         "passives": [
             "Decreased Minion Health: Enemy Minions inherit -50% less Health when summoned."
@@ -37972,7 +37972,7 @@ window.allHeroes =
         "health": 2175,
         "effects": [
             "Deals 300% damage to all enemies.",
-            "All enemies fall into Deep Sleep and receive +80% increased damage while in Deep Sleep. (This character in Deep Sleep cannot gain [#!]mana[#] or attack. The character in Deep Sleep is woken once it takes 750 damage. This effect is [##elementred]uncleansable[#].)",
+            "All enemies fall into [##elementred]Deep Sleep[#] and receive +80% increased damage while in [##elementred]Deep Sleep[#]. (This character in [##elementred]Deep Sleep[#] cannot gain [#!]mana[#] or attack. The character in [##elementred]Deep Sleep[#] is woken once it takes 750 damage. This effect is [##elementred]uncleansable[#].)",
             "Steals all dispellable buffs from the target and randomly distributes them on allies.",
             "Caster gains 3% [#!]mana[#] for each stolen buff, up to a maximum of 30% [#!]mana[#]."
         ],
@@ -42198,8 +42198,8 @@ window.allHeroes =
         "health": 1627,
         "effects": [
             "Deals 180% damage to all enemies.",
-            "All enemies fall asleep.",
-            "While asleep, the target can’t attack or gain [#!]mana[#].",
+            "All enemies fall [##elementred]asleep[#].",
+            "While [##elementred]asleep[#], the target can’t attack or gain [#!]mana[#].",
             "All damage dealt to the sleeping target is increased by +70%.",
             "The sleeping target is woken once it takes damage. The excudes damage from Minions or Fiends.",
             "All allies regenerate 1200 HP over 4 turns."
@@ -42575,7 +42575,7 @@ window.allHeroes =
             "Summons a Playing Card Minion with 25% HP and 40% attack inherited from the caster."
         ],
         "passives": [
-            "[#!]Mindless Attack[#] on Special Skill: When this character casts their Special Skill, they have a 50% chance to give [#!]Mindless Attack[#] for 3 turns to a random enemy."
+            "[##elementred]Mindless Attack[#] on Special Skill: When this character casts their Special Skill, they have a 50% chance to give [##elementred]Mindless Attack[#] for 3 turns to a random enemy."
         ],
         "family": "wonderland",
         "costume_id": 1,
@@ -43948,7 +43948,7 @@ window.allHeroes =
         "effects": [
             "Deals 320% damage to the target",
             "Increases the [#!]mana[#] of the target by 50%",
-            "The target automatically casts [#!]Mindless Attack[#] on a random ally when [#!]mana[#] is full at the start of a turn during 3 turns.",
+            "The target automatically casts [##elementred]Mindless Attack[#] on a random ally when [#!]mana[#] is full at the start of a turn during 3 turns.",
             "Element Link gives all [##elementgreen]Nature[#] allies +30% defense against Special Skills for 4 turns. This effect can’t be dispelled."
         ],
         "passives": [
@@ -48865,7 +48865,7 @@ window.allHeroes =
         "effects": [
             "Deals 220% damage to the target",
             "The more [#!]mana[#] the enemies have,the more damage they will receive, up to 250%",
-            "The target automatically casts [#!]Mindless Attack[#] on a random ally when [#!]mana[#] is full at the start of a turn during 3 turns."
+            "The target automatically casts [##elementred]Mindless Attack[#] on a random ally when [#!]mana[#] is full at the start of a turn during 3 turns."
         ],
         "passives": [],
         "family": "knight",
@@ -48932,7 +48932,7 @@ window.allHeroes =
         "effects": [
             "Deals 210% damage to the target and nearby enemies.",
             "The more [#!]mana[#] the enemies have, the more damage they will receive, up to 270%.",
-            "The target automatically casts [#!]Mindless Attack[#] on a random ally when [#!]mana[#] is full at the start of a turn during 3 turns"
+            "The target automatically casts [##elementred]Mindless Attack[#] on a random ally when [#!]mana[#] is full at the start of a turn during 3 turns"
         ],
         "passives": [],
         "family": "knight",
@@ -51148,7 +51148,7 @@ window.allHeroes =
             "Deals 200% damage to hit targets.",
             "Casts 5 [##elementpurple]Dark[#] Cubes to random enemies.",
             "[##elementpurple]Dark[#] Cube reduces max health from the target by 224. Max health can't get lower than 30% of the original max health.",
-            "Enemies hit automatically casts [#!]Mindless Attack[#] on a random ally when [#!]mana[#] is full at the start of a turn during 3 turns."
+            "Enemies hit automatically casts [##elementred]Mindless Attack[#] on a random ally when [#!]mana[#] is full at the start of a turn during 3 turns."
         ],
         "passives": [],
         "family": "svartalfheim",
@@ -51213,7 +51213,7 @@ window.allHeroes =
             "Deals 240% damage to hit targets.",
             "Casts 5 [##elementpurple]Dark[#] Cubes to random enemies.",
             "[##elementpurple]Dark[#] Cube reduces max health from the target by 184. This effect is stronger against targets with boosted health. Max health can’t get lower than 30% of the original max health. Any boosted health is reduced by an additional 184.",
-            "Enemies hit automatically casts [#!]Mindless Attack[#] on a random ally when [#!]mana[#] is full at the start of a turn during 3 turns."
+            "Enemies hit automatically casts [##elementred]Mindless Attack[#] on a random ally when [#!]mana[#] is full at the start of a turn during 3 turns."
         ],
         "passives": [],
         "family": "svartalfheim",
@@ -51351,8 +51351,8 @@ window.allHeroes =
         "effects": [
             "Recover 30% health for all allies.",
             "Steals all dispellable buffs from the target and randomly distributes them on allies.",
-            "The target falls asleep.",
-            "While asleep, the target can’t attack or gain [#!]mana[#].",
+            "The target [##elementred]falls asleep[#].",
+            "While [##elementred]asleep[#], the target can’t attack or gain [#!]mana[#].",
             "All damage dealt to the sleeping target is increased by +50%.",
             "The sleeping target is woken once it takes damage. This excludes damage from Minions and Fiends.",
             "Elemental Link gives all [##elementpurple]Dark[#] allies +10% additional Special Skill damage for 4 turns. This effect cannot be dispelled."
@@ -51426,7 +51426,7 @@ window.allHeroes =
         "defense": 850,
         "health": 1586,
         "effects": [
-            "Inflicts the target with [#!]Greed[#] for 3 turns. The enemies with [#!]Greed[#] prevent other enemies from receiving friendly effects of their allies Special Skills.",
+            "Inflicts the target with [##elementred]Greed[#] for 3 turns. The enemies with [##elementred]Greed[#] prevent other enemies from receiving friendly effects of their allies Special Skills.",
             "All enemies receive 501 [##elementpurple]Poison damage[#] over 3 turns.",
             "All enemies get -34% defense for 3 turns."
         ],
@@ -51500,7 +51500,7 @@ window.allHeroes =
         "defense": 1220,
         "health": 2391,
         "effects": [
-            "Inflicts the target with [#!]Greed[#] for 3 turns. The enemies with [#!]Greed[#] prevent other enemies from receiving friendly effects of their allies’ Special Skills.",
+            "Inflicts the target with [##elementred]Greed[#] for 3 turns. The enemies with [##elementred]Greed[#] prevent other enemies from receiving friendly effects of their allies’ Special Skills.",
             "All enemies receive 888 [##elementpurple]Poison damage[#] over 3 turns.",
             "All enemies get -28% defense for 3 turns."
         ],
@@ -54351,7 +54351,7 @@ window.allHeroes =
             "Deals 400% damage to the target.",
             "Summons a Wren Fiend to the target. The Fiend damages the enemies with 55% attack every turn.",
             "The Wren Fiend absorbs healing. it disapperars after absorbing a healing amount equal to 55% of its target’s max health.",
-            "The target automatically casts [#!]Mindless Attack[#] on a random ally when [#!]mana[#] is full at the start of a turn during 3 turns. This effect can’t be cleansed.",
+            "The target automatically casts [##elementred]Mindless Attack[#] on a random ally when [#!]mana[#] is full at the start of a turn during 3 turns. This effect can’t be cleansed.",
             "Element Link gives all [##elementpurple]Dark[#] allies +20% attack for 4 turns. This effect can’t be dispelled."
         ],
         "passives": [
@@ -56659,7 +56659,7 @@ window.allHeroes =
             "The enemies on the edges of the enemy formation receive [##elementpurple]Corrosive Poison[#] for 3 turns. The [##elementpurple]Corrosive Poison[#] deals 153 [##elementpurple]Poison damage[#] and lowers the target's [#!]mana generation[#] by -12% each turn. This effect can't be cleansed. Deals extra damage against heroes with Minions or Mega Minions."
         ],
         "passives": [
-            "[#!]Mindless Attack[#] On Special Skill: On Special Skill cast, 50% chance to inflict [#!]Mindless Attack[#] on a random enemy for 3 turns."
+            "[##elementred]Mindless Attack[#] On Special Skill: On Special Skill cast, 50% chance to inflict [##elementred]Mindless Attack[#] on a random enemy for 3 turns."
         ],
         "family": "wonderland",
         "costume_id": 1,
@@ -57748,7 +57748,7 @@ window.allHeroes =
         "health": 1823,
         "effects": [
             "Deals 300% damage to the target and nearby enemies.",
-            "The target automatically casts [#!]Mindless Attack[#] on a random ally when the [#!]mana[#] is full at the start of a turn during 3 turns.",
+            "The target automatically casts [##elementred]Mindless Attack[#] on a random ally when the [#!]mana[#] is full at the start of a turn during 3 turns.",
             "Summons a Tart Minion for each ally with 10% HP and 32% attack inherited from the caster. The Minion recovers 10% health for its owner when it is defeated."
         ],
         "passives": [],
@@ -59377,11 +59377,11 @@ window.allHeroes =
             "Special Skill need consecutive uses to reach full power, the following order:",
             "1st:",
             " * Deals 365% damage to the target and nearby enemies.",
-            " * The target automatically casts Shifting [#!]Mindless Attack[#] on a random ally when [#!]mana[#] is full at the start of a turn during 3 turns. When this effect is triggered, it shifts to the hit ally and the duration is refreshed.",
+            " * The target automatically casts Shifting [##elementred]Mindless Attack[#] on a random ally when [#!]mana[#] is full at the start of a turn during 3 turns. When this effect is triggered, it shifts to the hit ally and the duration is refreshed.",
             " * The target and nearby enemies get -50% decrease for any healing received for 3 turns.",
             "2nd:",
             " * Deals 430% damage to the target and nearby enemies.",
-            " * The target automatically casts Shifting [#!]Mindless Attack[#] on a random ally when [#!]mana[#] is full at the start of a turn during 4 turns. When this effect is triggered, it shifts to the hit ally and the duration is refreshed.",
+            " * The target automatically casts Shifting [##elementred]Mindless Attack[#] on a random ally when [#!]mana[#] is full at the start of a turn during 4 turns. When this effect is triggered, it shifts to the hit ally and the duration is refreshed.",
             " * The target and nearby enemies get -75% decrease for any healing received for 4 turns."
         ],
         "passives": [
@@ -59456,11 +59456,11 @@ window.allHeroes =
             "Special Skill need consecutive uses to reach full power, the following order:",
             "1st:",
             " * Deals 355% damage to the target and nearby enemies.",
-            " * The target automatically casts Shifting [#!]Mindless Attack[#] on a random ally when [#!]mana[#] is full at the start of a turn during 3 turns. When this effect is triggered, it shifts to the hit ally and the duration is refreshed.",
+            " * The target automatically casts Shifting [##elementred]Mindless Attack[#] on a random ally when [#!]mana[#] is full at the start of a turn during 3 turns. When this effect is triggered, it shifts to the hit ally and the duration is refreshed.",
             " * The target and nearby enemies get -45% decrease for any healing received for 3 turns.",
             "2nd:",
             " * Deals 450% damage to the target and nearby enemies.",
-            " * The target automatically casts Shifting [#!]Mindless Attack[#] on a random ally when [#!]mana[#] is full at the start of a turn during 4 turns. When this effect is triggered, it shifts to the hit ally and the duration is refreshed.",
+            " * The target automatically casts Shifting [##elementred]Mindless Attack[#] on a random ally when [#!]mana[#] is full at the start of a turn during 4 turns. When this effect is triggered, it shifts to the hit ally and the duration is refreshed.",
             " * The target and nearby enemies get -85% decrease for any healing received for 4 turns."
         ],
         "passives": [
@@ -61470,7 +61470,7 @@ window.allHeroes =
         "health": 1942,
         "effects": [
             "Deals 300% damage to the target and nearby enemies.",
-            "The target and nearby enemies automatically cast [#!]Mindless Attack[#] on a random ally when [#!]mana[#] is full at the start of a turn during 4 turns."
+            "The target and nearby enemies automatically cast [##elementred]Mindless Attack[#] on a random ally when [#!]mana[#] is full at the start of a turn during 4 turns."
         ],
         "passives": [],
         "family": "classic",
@@ -63720,8 +63720,8 @@ window.allHeroes =
         "health": 1586,
         "effects": [
             "Deals 395% damage to the target.",
-            "The target get [#!]Soul Bound[#] for 3 turns. This effect can’t be cleansed. This effect will always bypass reflection.",
-            "All damage received by the caster is also dealt to all [#!]Soul Bound[#] Enemies. Damage is shared between all [#!]Soul Bound[#] enemies. This effect will not share damage coming from other shared damage sources or counterattacks."
+            "The target get [##elementred]Soul Bound[#] for 3 turns. This effect can’t be cleansed. This effect will always bypass reflection.",
+            "All damage received by the caster is also dealt to all [##elementred]Soul Bound[#] Enemies. Damage is shared between all [##elementred]Soul Bound[#] enemies. This effect will not share damage coming from other shared damage sources or counterattacks."
         ],
         "passives": [
             "Resist Special Skill Blocking: This character has innate resistance against status ailments that block Special Skill.",
@@ -63795,7 +63795,7 @@ window.allHeroes =
             "If the caster has 35 or more Humility:",
             " * Deals 430% damage to 6 random enemies.",
             " * All hit targets get -54% defense against [##elementpurple]Dark[#] for 4 turns.",
-            " * Enemies hit automatically cast [#!]Mindless Attack[#] on a random ally when [#!]mana[#] is full at the start of a turn during 4 turns.",
+            " * Enemies hit automatically cast [##elementred]Mindless Attack[#] on a random ally when [#!]mana[#] is full at the start of a turn during 4 turns.",
             " * The caster regenerates 1200 boosted health over 4 turns. Boosted health can exceed max HP.",
             "[#!]Otherwise:[#]",
             " * Deals 430% damage to 5 random enemies.",
@@ -76555,8 +76555,8 @@ window.allHeroes =
         "health": 1545,
         "effects": [
             "Deals 295% damage to the target and nearby enemies.",
-            "For 3 turns, the target and nearby enemies are forced to cast [#!]Mindless Heal[#] when at full [#!]mana[#].",
-            "[#!]Mindless Heal[#]: Recovers 20% health for the character on the opposing side with the lowest remaining HP."
+            "For 3 turns, the target and nearby enemies are forced to cast [##elementred]Mindless Heal[#] when at full [#!]mana[#].",
+            "[##elementred]Mindless Heal[#]: Recovers 20% health for the character on the opposing side with the lowest remaining HP."
         ],
         "passives": [
             "Resist Special Skill Blocking: This character has innate resistance against status ailments that block Special Skills."
@@ -78559,7 +78559,7 @@ window.allHeroes =
         "health": 1678,
         "effects": [
             "Attacks the target with Moonrise Strike, dealing up to 2180 damage. Deals 40% more damage if the target is [##elementyellow]Holy[#].",
-            "The target automatically casts Shifting [#!]Mindless Attack[#] on a random ally when [#!]mana[#] is full at the start of a turn during 4 turns. When this effect is triggered, it shifts to the hit ally and duration is refreshed.",
+            "The target automatically casts Shifting [##elementred]Mindless Attack[#] on a random ally when [#!]mana[#] is full at the start of a turn during 4 turns. When this effect is triggered, it shifts to the hit ally and duration is refreshed.",
             "All enemies get -35% defense for 4 turns."
         ],
         "passives": [
@@ -79103,7 +79103,7 @@ window.allHeroes =
             "Deals 435% damage to the target.",
             "The target receives 628 Toxin damage over 4 turns. Damage is increased against targets with boosted health, Minions or a Mega Minion. The Toxin damage is increased by +100% against targets with boosted health. The Toxin damage is increased by +33% per Minion or Mega Minion owned by target. Maximum increased damage is +199%.)",
             "Deals 435% damage to the enemies on the edges of the enemy formation. If there is only one enemy, the damage is doubled.",
-            "The enemies on the edges of the enemy formation fall into Deep Sleep and receives +80% increased damage while in Deep Sleep. (The character in Deep Sleep cannot gain [#!]mana[#] or attack. The character in Deep Sleep is woken once it takes 750 damage. This effect is uncleasable.)"
+            "The enemies on the edges of the enemy formation fall into [##elementred]Deep Sleep[#] and receives +80% increased damage while in [##elementred]Deep Sleep[#]. (The character in [##elementred]Deep Sleep[#] cannot gain [#!]mana[#] or attack. The character in [##elementred]Deep Sleep[#] is woken once it takes 750 damage. This effect is uncleasable.)"
         ],
         "passives": [
             "Dodge Special Damage: This character has a 15% chance to [#!]dodge[#] Special Skills that deal damage."
@@ -80234,7 +80234,7 @@ window.allHeroes =
         "effects": [
             "Deals 450% damage to the target.",
             "Summons a Gargoyle Fiend for the target. The Gargoyle Fiend absorbs healing and disappears when it has absorbed health equal to 30% of its owner’s max health.",
-            "When summoned, the Gargoyle Fiend forces its owner to cast [#!]Mindless Attack[#] on a random ally when [#!]mana[#] is full. The effect lasts as long as the target has Gargoyle Fiends. This effect cannot be dispelled.",
+            "When summoned, the Gargoyle Fiend forces its owner to cast [##elementred]Mindless Attack[#] on a random ally when [#!]mana[#] is full. The effect lasts as long as the target has Gargoyle Fiends. This effect cannot be dispelled.",
             "The Gargyle Fiend explodes after 4 turns, dealing 150 damage to its target."
         ],
         "passives": [
@@ -84795,7 +84795,7 @@ window.allHeroes =
             "The caster gets +74% defense against Special Skills for 4 turns."
         ],
         "passives": [
-            "[#!]Mindless Attack[#] On Special Skill: On Special Skill cast, 50% chance to inflict [#!]Mindless Attack[#] on a random enemy for 3 turns."
+            "[##elementred]Mindless Attack[#] On Special Skill: On Special Skill cast, 50% chance to inflict [##elementred]Mindless Attack[#] on a random enemy for 3 turns."
         ],
         "family": "wonderland",
         "costume_id": 1,
@@ -95217,7 +95217,7 @@ window.allHeroes =
         "health": 1317,
         "effects": [
             "Deals 365% damage to the target.",
-            "The target automatically casts Shifting [#!]Mindless Attack[#] on a random ally when [#!]mana[#] is full at the start of a turn during 3 turns. When this effect is triggered, it shifts to the hit ally, and the duration is refreshed."
+            "The target automatically casts Shifting [##elementred]Mindless Attack[#] on a random ally when [#!]mana[#] is full at the start of a turn during 3 turns. When this effect is triggered, it shifts to the hit ally, and the duration is refreshed."
         ],
         "passives": [
             "When a Minion is summoned to any ally, this character gains 5% health and 5% [#!]mana[#]. This effect can activate only once per turn.",
@@ -96204,8 +96204,8 @@ window.allHeroes =
         "effects": [
             "This Special Skill [##elementyellow]never misses[#] its targets.",
             "Deals 460% damage to the target.",
-            "For 3 turns, the target is forced to cast [#!]Mindless Heal[#] when at full [#!]mana[#].",
-            "[#!]Mindless Heal[#]:",
+            "For 3 turns, the target is forced to cast [##elementred]Mindless Heal[#] when at full [#!]mana[#].",
+            "[##elementred]Mindless Heal[#]:",
             " * Recovers 20% HP health for the character on the opposing side with the lowest remaining HP."
         ],
         "passives": [
@@ -96661,7 +96661,7 @@ window.allHeroes =
             "Steals all Minions or a Mega Minion from the target.",
             "Steals 40% [#!]mana[#] from the target and distributes it to allies.",
             "Deals 530% damage to the target.",
-            "The target falls into Deep Sleep and receive +80% increased damage while in Deep Sleep. (This character in Deep Sleep cannot gain [#!]mana[#] or attack. The character in Deep Sleep is woken once it takes 750 damage. This effect is [##elementred]uncleansable[#].)"
+            "The target falls into [##elementred]Deep Sleep[#] and receive +80% increased damage while in [##elementred]Deep Sleep[#]. (This character in [##elementred]Deep Sleep[#] cannot gain [#!]mana[#] or attack. The character in [##elementred]Deep Sleep[#] is woken once it takes 750 damage. This effect is [##elementred]uncleansable[#].)"
         ],
         "passives": [
             "Dodge Special Damage: This character has a 15% chance to [#!]dodge[#] Special Skills that deal damage."
@@ -99144,7 +99144,7 @@ window.allHeroes =
         "effects": [
             "The caster gets [##elementred]Taunt[#] that prevents enemies from using Special Skills on the caster’s allies for 4 turns.",
             "The caster has a 50% chance to [##elementyellow]drop any received damage[#] to 1 for 4 turns.",
-            "For the next 4 turns, this character deals 250% damage to a random enemy each time any other ally casts their Special Skill. The enemy hit falls into Deep Sleep and receive +80% increased damage while in Deep Sleep. (Each character can trigger this effect once per turn.)",
+            "For the next 4 turns, this character deals 250% damage to a random enemy each time any other ally casts their Special Skill. The enemy hit falls into [##elementred]Deep Sleep[#] and receive +80% increased damage while in [##elementred]Deep Sleep[#]. (Each character can trigger this effect once per turn.)",
             "All allies get +25% [#!]mana generation[#] for 4 turns. (Affects only [#!]mana[#] generated from matching tiles or [#!]mana[#] gained by the defense team at the end of their turn.)"
         ],
         "passives": [
@@ -99450,7 +99450,7 @@ window.allHeroes =
         "defense": 1091,
         "health": 2119,
         "effects": [
-            "Inflicts the target with [#!]Greed[#] for 4 turns. Friendly effects from Special Skills only affect characters with [#!]Greed[#]. ([#!]Greed[#] prevents all other heroes in the same team from gaining friendly effects. This includes all buffs, healing and growth effects.)",
+            "Inflicts the target with [##elementred]Greed[#] for 4 turns. Friendly effects from Special Skills only affect characters with [##elementred]Greed[#]. ([##elementred]Greed[#] prevents all other heroes in the same team from gaining friendly effects. This includes all buffs, healing and growth effects.)",
             "All enemies receive 988 [##elementred]Bleed damage[#] over 4 turns.",
             "Deals 310% damage to all enemies."
         ],
@@ -102518,7 +102518,7 @@ window.allHeroes =
         "effects": [
             "Deal 300% damage to the target.",
             "Deals 470% damage to a random different enemy.",
-            "Enemies hit automatically cast [#!]Mindless Attack[#] on a random ally when [#!]mana[#] is full at the start of a turn during 3 turns. Against [##elementpurple]Dark[#] characters, this status effect becomes [##elementred]uncleansable[#] and lasts 2 turns longer."
+            "Enemies hit automatically cast [##elementred]Mindless Attack[#] on a random ally when [#!]mana[#] is full at the start of a turn during 3 turns. Against [##elementpurple]Dark[#] characters, this status effect becomes [##elementred]uncleansable[#] and lasts 2 turns longer."
         ],
         "passives": [
             "Power of Sisu: When this character starts a turn with low health for the first time during a battle, they recover 15% health and receive 15% [#!]mana[#]."
@@ -102655,19 +102655,19 @@ window.allHeroes =
             "* The caster goes into hiding for 2 turns.",
             "* While hidden, the caster can’t receive new status effects or stacks, and all received damage is reduced by -20%.",
             "* When the caster comes out of hiding, they deal 227 damage to all enemies who use Special Skills while the caster was hiding.",
-            "* The target automatically casts [#!]Mindless Attack[#] on a random ally when [#!]mana[#] is full at the start of a turn during 2 turns.",
+            "* The target automatically casts [##elementred]Mindless Attack[#] on a random ally when [#!]mana[#] is full at the start of a turn during 2 turns.",
             "2x [#!]Mana[#] Charge",
             "* Deals 370% damage to the target.",
             "* The caster goes into hiding for 3 turns.",
             "* While hidden, the caster can’t receive new status effects or stacks, and all received damage is reduced by -30%.",
             "* When the caster comes out of hiding they deal 316 damage to all enemies who use Special Skills while the caster was hiding.",
-            "* The target automatically casts [#!]Mindless Attack[#] on a random ally when [#!]mana[#] is full at the start of a turn during 3 turns.",
+            "* The target automatically casts [##elementred]Mindless Attack[#] on a random ally when [#!]mana[#] is full at the start of a turn during 3 turns.",
             "3x [#!]Mana[#] Charge",
             "* Deals 450% damage to the target.",
             "* The caster goes into hiding for 4 turns.",
             "* While hidden, the caster can’t receive new status effects or stacks, and all received damage is reduced by -40%.",
             "* When the caster comes out of hiding they deal 348 damage to all enemies who use Special Skills while the caster was hiding.",
-            "* The target automatically casts [#!]Mindless Attack[#] on a random ally when [#!]mana[#] is full at the start of a turn during 4 turns."
+            "* The target automatically casts [##elementred]Mindless Attack[#] on a random ally when [#!]mana[#] is full at the start of a turn during 4 turns."
         ],
         "passives": [],
         "family": "ninja",
@@ -105798,7 +105798,7 @@ window.allHeroes =
         "effects": [
             "Deals 500% damage to the target and minor damage to nearby enemies.",
             "Enhanced Defense Ailment: The target and nearby enemies get -50% defense against Special Skills. This effect lasts until the enemy takes damage from a Special Skill once.",
-            "After the Enhanced Defense Ailments ends or is removed or replaced, the enemy falls asleep and receives +70% increased damage while sleeping. (A sleeping character cannot gain [#!]mana[#] or attack. The sleeping target is woken once it takes damage. This excludes damage from Minions, Fiends, Mega Minions and Mega Fiends. This effect is [##elementred]uncleansable[#].)"
+            "After the Enhanced Defense Ailments ends or is removed or replaced, the enemy [##elementred]falls asleep[#] and receives +70% increased damage while sleeping. (A sleeping character cannot gain [#!]mana[#] or attack. The sleeping target is woken once it takes damage. This excludes damage from Minions, Fiends, Mega Minions and Mega Fiends. This effect is [##elementred]uncleansable[#].)"
         ],
         "passives": [
             "Minion Blind: All enemies’ Minions have -60% [##elementyellow]accuracy[#]. All enemies’ Mega Minions have -50% [##elementyellow]accuracy[#].",
@@ -107435,7 +107435,7 @@ window.allHeroes =
         "health": 1833,
         "effects": [
             "Steals Minions and Mega Minions from target.",
-            "Inflicts the target wit lasting [#!]Greed[#]. Friendly effects from Special Skills only affect characters with [#!]Greed[#]. ([#!]Greed[#] prevents all other heroes from gaining friendly effects. This includes all buffs, healing and growth effects. This effect is lasting until it is cleansed, replaced or removed.)",
+            "Inflicts the target wit lasting [##elementred]Greed[#]. Friendly effects from Special Skills only affect characters with [##elementred]Greed[#]. ([##elementred]Greed[#] prevents all other heroes from gaining friendly effects. This includes all buffs, healing and growth effects. This effect is lasting until it is cleansed, replaced or removed.)",
             "All enemies receive 975 [#!]Curse damage[#] over 4 turns, starting low and increasing every turn."
         ],
         "passives": [
@@ -108984,7 +108984,7 @@ window.allHeroes =
             "The target and nearby enemies get -34% defense for 3 turns. The effect duration resets if the target is healed. This effect can't be cleansed."
         ],
         "passives": [
-            "[#!]Mindless Attack[#] On Special Skill: On Special Skill cast, 50% chance to inflict [#!]Mindless Attack[#] on a random enemy for 3 turns."
+            "[##elementred]Mindless Attack[#] On Special Skill: On Special Skill cast, 50% chance to inflict [##elementred]Mindless Attack[#] on a random enemy for 3 turns."
         ],
         "family": "wonderland",
         "costume_id": 1,

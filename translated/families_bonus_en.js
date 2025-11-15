@@ -854,7 +854,7 @@ window.families_bonus = [
             "Moth Dust has the following effets:",
             " * -30% [#!]mana generation[#].",
             " * Mega Minion's current health is reduced by 50% each turn.",
-            "If Moth Dust is cleansed or removed, the target falls asleep and receives +80% increased damage while sleeping.",
+            "If Moth Dust is cleansed or removed, the target [##elementred]falls asleep[#] and receives +80% increased damage while sleeping.",
             "The members of this family have additional perks in the Night of the Moth event."
         ]
     },

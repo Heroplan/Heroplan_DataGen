@@ -4397,7 +4397,7 @@ const allTranslations =
         "originalIndex": 613,
         "name": "疯帽子 (The Hatter) C1",
         "passives": [
-            "[#!]Mindless Attack[#] on Special Skill: When this character casts their Special Skill, they have a 50% chance to give [#!]Mindless Attack[#] for 3 turns to a random enemy."
+            "[##elementred]Mindless Attack[#] on Special Skill: When this character casts their Special Skill, they have a 50% chance to give [##elementred]Mindless Attack[#] for 3 turns to a random enemy."
         ]
     },
     {
@@ -5846,7 +5846,7 @@ const allTranslations =
         "originalIndex": 819,
         "name": "炸脖龙 (Jabberwock) C1",
         "passives": [
-            "[#!]Mindless Attack[#] On Special Skill: On Special Skill cast, 50% chance to inflict [#!]Mindless Attack[#] on a random enemy for 3 turns."
+            "[##elementred]Mindless Attack[#] On Special Skill: On Special Skill cast, 50% chance to inflict [##elementred]Mindless Attack[#] on a random enemy for 3 turns."
         ]
     },
     {
@@ -8735,7 +8735,7 @@ const allTranslations =
         "originalIndex": 1221,
         "name": "红桃王后 (Queen of Hearts) C1",
         "passives": [
-            "[#!]Mindless Attack[#] On Special Skill: On Special Skill cast, 50% chance to inflict [#!]Mindless Attack[#] on a random enemy for 3 turns."
+            "[##elementred]Mindless Attack[#] On Special Skill: On Special Skill cast, 50% chance to inflict [##elementred]Mindless Attack[#] on a random enemy for 3 turns."
         ]
     },
     {
@@ -11224,7 +11224,7 @@ const allTranslations =
         "originalIndex": 1564,
         "name": "白兔先生 (White Rabbit) C1",
         "passives": [
-            "[#!]Mindless Attack[#] On Special Skill: On Special Skill cast, 50% chance to inflict [#!]Mindless Attack[#] on a random enemy for 3 turns."
+            "[##elementred]Mindless Attack[#] On Special Skill: On Special Skill cast, 50% chance to inflict [##elementred]Mindless Attack[#] on a random enemy for 3 turns."
         ]
     },
     {

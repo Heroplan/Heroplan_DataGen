@@ -4414,7 +4414,7 @@ const translatedPassivesCN =
         "originalIndex": 613,
         "name": "The Hatter C1",
         "passives": [
-            "特殊技能附带[#!]莽夫乱拳[#]：当该角色施放其特殊技能时，有 50% 的几率对一个随机敌人施加[#!]莽夫乱拳[#]，持续 3 回合。"
+            "特殊技能附带[##elementred]莽夫乱拳[#]：当该角色施放其特殊技能时，有 50% 的几率对一个随机敌人施加[##elementred]莽夫乱拳[#]，持续 3 回合。"
         ]
     },
     {
@@ -5867,7 +5867,7 @@ const translatedPassivesCN =
         "originalIndex": 819,
         "name": "Jabberwock C1",
         "passives": [
-            "特殊技能附带[#!]莽夫乱拳[#]：施放特殊技能时， 50% 几率对一个随机敌人施加[#!]莽夫乱拳[#]，持续 3 回合。"
+            "特殊技能附带[##elementred]莽夫乱拳[#]：施放特殊技能时， 50% 几率对一个随机敌人施加[##elementred]莽夫乱拳[#]，持续 3 回合。"
         ]
     },
     {
@@ -8766,7 +8766,7 @@ const translatedPassivesCN =
         "originalIndex": 1221,
         "name": "Queen of Hearts C1",
         "passives": [
-            "特殊技能附带[#!]莽夫乱拳[#]：施放特殊技能时， 50% 几率对一个随机敌人施加[#!]莽夫乱拳[#]，持续 3 回合。"
+            "特殊技能附带[##elementred]莽夫乱拳[#]：施放特殊技能时， 50% 几率对一个随机敌人施加[##elementred]莽夫乱拳[#]，持续 3 回合。"
         ]
     },
     {
@@ -11266,7 +11266,7 @@ const translatedPassivesCN =
         "originalIndex": 1564,
         "name": "White Rabbit C1",
         "passives": [
-            "特殊技能附带[#!]莽夫乱拳[#]：施放特殊技能时， 50% 几率对一个随机敌人施加[#!]莽夫乱拳[#]，持续 3 回合。"
+            "特殊技能附带[##elementred]莽夫乱拳[#]：施放特殊技能时， 50% 几率对一个随机敌人施加[##elementred]莽夫乱拳[#]，持续 3 回合。"
         ]
     },
     {
