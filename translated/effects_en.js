@@ -5158,7 +5158,7 @@ const allTranslations =
             "Deals 300% damage to all enemies.",
             "Deals additional 6% damage per removed status effect, up to 330% damage in total.",
             "Summnos a Shield Guard Mega Minion with 65% HP and 180% attack inherited from the caster.",
-            "The Shield Guard Mega Minion safely cleanses the latest cleansable status ailment from all allies each turn. (Safe cleanse [#!]bypasses[#] secondary effects, such as damage on removal, from the remove status ailment. External effects such as passive skills and family effects can still activate.)"
+            "The Shield Guard Mega Minion [##elementgreen]safely cleanses[#] the latest cleansable status ailment from all allies each turn. (Safe cleanse [#!]bypasses[#] secondary effects, such as damage on removal, from the remove status ailment. External effects such as passive skills and family effects can still activate.)"
         ]
     },
     {
@@ -8167,7 +8167,7 @@ const allTranslations =
             "Boosts health of all allies by 800. Boosted health can exceed max HP.",
             "Boosts health of all allies by 160 foreach status ailment the ally has, up to 800 health in total.",
             "Summons a Shield Guard Mega Minion with 65% HP and 180% attack inherited from the caster.",
-            "The Shield Guard Mega Minion safely cleanses the latest cleansable status ailment from all allies each turn. (Safe cleanse [#!]bypasses[#] secondary effect, such as damage on removal, from the removed status ailment. External effects such as passive skills and family effects can still activate.)"
+            "The Shield Guard Mega Minion [##elementgreen]safely cleanses[#] the latest cleansable status ailment from all allies each turn. (Safe cleanse [#!]bypasses[#] secondary effect, such as damage on removal, from the removed status ailment. External effects such as passive skills and family effects can still activate.)"
         ]
     },
     {
@@ -14831,7 +14831,7 @@ const allTranslations =
             "Recovers 30% health for all allies.",
             "Stack (Max 10): All damage all allies receive is reduced by -5%.",
             "Summnos a Shiled Guard Mega Minion with 65% HP and 180% attack inherited from the caster.",
-            "The Shield Guard Mega Minion safely cleanses the latest cleansable status ailment from all allies each turn. (Safe cleanse [#!]bypasses[#] secondary effects, such as damage on remova, from the remove status ailment. External effects such as passive skills and family effects can still activate."
+            "The Shield Guard Mega Minion [##elementgreen]safely cleanses[#] the latest cleansable status ailment from all allies each turn. (Safe cleanse [#!]bypasses[#] secondary effects, such as damage on remova, from the remove status ailment. External effects such as passive skills and family effects can still activate."
         ]
     },
     {

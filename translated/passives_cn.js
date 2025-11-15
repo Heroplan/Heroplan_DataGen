@@ -1972,7 +1972,7 @@ const translatedPassivesCN =
         "originalIndex": 274,
         "name": "Song Jiang",
         "passives": [
-            "特殊攻击[##elementred]暴击[#]时[##elementgreen]净化[#]：当该角色用特殊技能造成[##elementred]暴击[#]时，会安全地[##elementgreen]净化[#]所有盟友最新的可[##elementgreen]净化[#]状态效果。此效果每回合可激活一次。",
+            "特殊攻击[##elementred]暴击[#]时[##elementgreen]净化[#]：当该角色用特殊技能造成[##elementred]暴击[#]时，会[##elementgreen]安全净化[#]所有盟友最新的可[##elementgreen]净化[#]状态效果。此效果每回合可激活一次。",
             "正义反叛：",
             "* 当该角色的特殊技能击中当前生命值较高的角色时，获得 +20% 的生命加成。",
             "* 当该角色被当前生命值较高的角色的特殊技能击中时，获得 +20% 的[#!]法力[#]。",
@@ -5440,7 +5440,7 @@ const translatedPassivesCN =
         "originalIndex": 766,
         "name": "Chao Gai",
         "passives": [
-            "特殊攻击[##elementred]暴击[#]时[##elementgreen]净化[#]：当该角色用特殊技能造成[##elementred]暴击[#]时，会安全地[##elementgreen]净化[#]所有盟友最新的可[##elementgreen]净化[#]状态效果。此效果每回合可激活一次。",
+            "特殊攻击[##elementred]暴击[#]时[##elementgreen]净化[#]：当该角色用特殊技能造成[##elementred]暴击[#]时，会[##elementgreen]安全净化[#]所有盟友最新的可[##elementgreen]净化[#]状态效果。此效果每回合可激活一次。",
             "正义反叛：",
             "* 当该角色的特殊技能击中当前生命值较高的角色时，获得 +20% 的生命加成。",
             "* 当该角色被当前生命值较高的角色的特殊技能击中时，获得 +20% 的[#!]法力[#]。",
@@ -7042,7 +7042,7 @@ const translatedPassivesCN =
         "originalIndex": 982,
         "name": "Liu Tang",
         "passives": [
-            "特殊攻击[##elementred]暴击[#]时[##elementgreen]净化[#]：当该角色用特殊技能造成[##elementred]暴击[#]时，会安全地[##elementgreen]净化[#]所有盟友最新的可[##elementgreen]净化[#]状态效果。此效果每回合可激活一次。",
+            "特殊攻击[##elementred]暴击[#]时[##elementgreen]净化[#]：当该角色用特殊技能造成[##elementred]暴击[#]时，会[##elementgreen]安全净化[#]所有盟友最新的可[##elementgreen]净化[#]状态效果。此效果每回合可激活一次。",
             "正义反叛：",
             "* 当该角色的特殊技能击中当前生命值较高的角色时，获得 +20% 的生命加成。",
             "* 当该角色被当前生命值较高的角色的特殊技能击中时，获得 +20% 的[#!]法力[#]。",
@@ -8496,7 +8496,7 @@ const translatedPassivesCN =
         "originalIndex": 1184,
         "name": "Li Kui",
         "passives": [
-            "特殊攻击[##elementred]暴击[#]时[##elementgreen]净化[#]：当该角色用特殊技能造成[##elementred]暴击[#]时，会安全地[##elementgreen]净化[#]所有盟友最新的可[##elementgreen]净化[#]状态效果。此效果每回合可激活一次。",
+            "特殊攻击[##elementred]暴击[#]时[##elementgreen]净化[#]：当该角色用特殊技能造成[##elementred]暴击[#]时，会[##elementgreen]安全净化[#]所有盟友最新的可[##elementgreen]净化[#]状态效果。此效果每回合可激活一次。",
             "正义反叛：",
             "* 当该角色的特殊技能击中当前生命值较高的角色时，获得 +20% 的生命加成。",
             "* 当该角色被当前生命值较高的角色的特殊技能击中时，获得 +20% 的[#!]法力[#]。",
@@ -9699,7 +9699,7 @@ const translatedPassivesCN =
         "originalIndex": 1351,
         "name": "Gu Dasao",
         "passives": [
-            "特殊攻击[##elementred]暴击[#]时[##elementgreen]净化[#]：当该角色用特殊技能造成[##elementred]暴击[#]时，会安全地[##elementgreen]净化[#]所有盟友最新的可[##elementgreen]净化[#]状态效果。此效果每回合可激活一次。",
+            "特殊攻击[##elementred]暴击[#]时[##elementgreen]净化[#]：当该角色用特殊技能造成[##elementred]暴击[#]时，会[##elementgreen]安全净化[#]所有盟友最新的可[##elementgreen]净化[#]状态效果。此效果每回合可激活一次。",
             "正义反叛：",
             "* 当该角色的特殊技能击中当前生命值较高的角色时，获得 +20% 的生命加成。",
             "* 当该角色被当前生命值较高的角色的特殊技能击中时，获得 +20% 的[#!]法力[#]。",
@@ -11037,7 +11037,7 @@ const translatedPassivesCN =
         "originalIndex": 1534,
         "name": "Ruan Xiaoqi",
         "passives": [
-            "特殊攻击[##elementred]暴击[#]时[##elementgreen]净化[#]：当该角色用特殊技能造成[##elementred]暴击[#]时，会安全地[##elementgreen]净化[#]所有盟友最新的可[##elementgreen]净化[#]状态效果。此效果每回合可激活一次。",
+            "特殊攻击[##elementred]暴击[#]时[##elementgreen]净化[#]：当该角色用特殊技能造成[##elementred]暴击[#]时，会[##elementgreen]安全净化[#]所有盟友最新的可[##elementgreen]净化[#]状态效果。此效果每回合可激活一次。",
             "正义反叛：",
             "* 当该角色的特殊技能击中当前生命值较高的角色时，获得 +20% 的生命加成。",
             "* 当该角色被当前生命值较高的角色的特殊技能击中时，获得 +20% 的[#!]法力[#]。",
@@ -11303,7 +11303,7 @@ const translatedPassivesCN =
         "originalIndex": 1569,
         "name": "Wu Yong",
         "passives": [
-            "特殊攻击[##elementred]暴击[#]时[##elementgreen]净化[#]：当该角色用特殊技能造成[##elementred]暴击[#]时，会安全地[##elementgreen]净化[#]所有盟友最新的可[##elementgreen]净化[#]状态效果。此效果每回合可激活一次。",
+            "特殊攻击[##elementred]暴击[#]时[##elementgreen]净化[#]：当该角色用特殊技能造成[##elementred]暴击[#]时，会[##elementgreen]安全净化[#]所有盟友最新的可[##elementgreen]净化[#]状态效果。此效果每回合可激活一次。",
             "正义反叛：",
             "* 当该角色的特殊技能击中当前生命值较高的角色时，获得 +20% 的生命加成。",
             "* 当该角色被当前生命值较高的角色的特殊技能击中时，获得 +20% 的[#!]法力[#]。",
