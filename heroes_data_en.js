@@ -206,7 +206,7 @@ window.allHeroes =
             "All enemies get -24% mana generation for 6 turns. (Affects only mana generated from matching tiles or mana gained by the defense team at the end of their turn.)"
         ],
         "passives": [
-            "Resist Mana Ailments: This character is immune to status ailments and negative stacks that affect mana generation. Applies also to status ailments that block mana or steal mana.",
+            "Resist [#!]Mana[#] Ailments: This character is immune to status ailments and negative stacks that affect mana generation. Applies also to status ailments that block mana or steal mana.",
             "Perfect Accuracy: This character’s Special Skill never misses its targets."
         ],
         "family": "astral_demons",
@@ -279,7 +279,7 @@ window.allHeroes =
             "Transform Ailments: Each time this character casts their Special Skill, all cleansable status ailments affecting attack, defense and mana generation on all allies are transformed into matching undispellable buffs. Transformed effects:",
             " * Attack status ailments are transformed into +40% attack buffs for 3 turns.",
             " * Defense status ailments are transformed into +40% defense buffs for 3 turns.",
-            " * Mana generation status ailments are transformed into +40% mana generation buffs for 3 turns.",
+            " * [#!]Mana generation[#] status ailments are transformed into +40% mana generation buffs for 3 turns.",
             "Flight Momentum: If this character has any amount of Flight Momentum, they receive:",
             " * Up to +35% mana generation.",
             " * Up to +25% extra chance to dodge.",
@@ -2650,13 +2650,13 @@ window.allHeroes =
         "health": 976,
         "effects": [
             "Special Skill has a different effect when charged with 100% / 200% / 300% mana:",
-            "1x Mana Charge:",
+            "1x [#!]Mana[#] Charge:",
             "* Recovers 15% health for all allies.",
             "* All allies get +40% defense against [##elementgreen]Nature[#] for 2 turns.",
-            "2x Mana Charge:",
+            "2x [#!]Mana[#] Charge:",
             "* Recovers 25% health for all allies.",
             "* All allies get +54% defense against Special Skills for 3 turns.",
-            "3x Mana Charge:",
+            "3x [#!]Mana[#] Charge:",
             "* Recovers 45% health for all allies.",
             "* All allies get +94% defense against [##elementgreen]Nature[#] for 2 turns.",
             "* All allies get +74% defense against Special Skills for 3 turns."
@@ -4085,7 +4085,7 @@ window.allHeroes =
             "The target hit by the Sword Guard Mega Minion receives 267 [##elementred]Bleed damage[#] over 3 turns. This effect spreads to nearby enemies."
         ],
         "passives": [
-            "Resist Mana reduction: This character has an innate resistance against Mana Reduction.",
+            "Resist [#!]Mana[#] reduction: This character has an innate resistance against [#!]Mana[#] Reduction.",
             "Guard Rally: Every 4 turns, removes all [#!]Wither[#] effects from all allies."
         ],
         "family": "garrison",
@@ -5214,7 +5214,7 @@ window.allHeroes =
             "Reduces the mana of the target by 10%."
         ],
         "passives": [
-            "Reduce Mana Gain from Special Skill: Reduces the amount of mana increased by Special Skill by -80%. The effect applies to all enemies in the battle."
+            "Reduce [#!]Mana[#] Gain from Special Skill: Reduces the amount of mana increased by Special Skill by -80%. The effect applies to all enemies in the battle."
         ],
         "family": "owl",
         "costume_id": 0,
@@ -5282,13 +5282,13 @@ window.allHeroes =
         "defense": 637,
         "health": 1232,
         "effects": [
-            "1x Mana Charge",
+            "1x [#!]Mana[#] Charge",
             "* Deals 350% damage to the target.",
             "* The target gets -35% defense for 2 turns.",
-            "2x Mana Charge",
+            "2x [#!]Mana[#] Charge",
             "* Deals 375% damage to the target.",
             "* The target gets -40% defense for 4 turns.",
-            "3x Mana Charge",
+            "3x [#!]Mana[#] Charge",
             "* Deals 400% damage to the target.",
             "* If the attack defeats the target, the caster gains 100% mana.",
             "* The target gets -45% defense for 6 turns."
@@ -5418,13 +5418,13 @@ window.allHeroes =
         "defense": 541,
         "health": 1285,
         "effects": [
-            "1x Mana Charge",
+            "1x [#!]Mana[#] Charge",
             "* Deals 225% damage to the target",
             "* The attack has a 35% chance to bypass defensive buffs. This includes counter attack.",
-            "2x Mana Charge",
+            "2x [#!]Mana[#] Charge",
             "* Deals 250% damage to the target and nearby enemies",
             "* The attack has a 60% chance to bypass defensive buffs. This includes counter attack.",
-            "3x Mana Charge",
+            "3x [#!]Mana[#] Charge",
             "* Deals 290% damage to all enemies",
             "* The attack has a 85% chance to bypass defensive buffs. This includes counter attack."
         ],
@@ -6811,14 +6811,14 @@ window.allHeroes =
         "health": 1771,
         "effects": [
             "Special Skill has a different effect when charged with 100% / 200% / 300% mana:",
-            "1x Mana Charge:",
+            "1x [#!]Mana[#] Charge:",
             "* Deals 200% damage to all enemies.",
             "* All enemies get -25% decrease of any healing received for 3 turns.",
-            "2x Mana Charge:",
+            "2x [#!]Mana[#] Charge:",
             "* Deals 315% damage to all enemies.",
             "* Summons a Styx Spirit Fiend for all enemies. The Fiend damages its target with 40% attack every turn.",
             "* The Styx Spirit Fiend absorbs healing. It disappears after absorbing a healing amount equal to 25% if its target’s max health.",
-            "3x Mana Charge:",
+            "3x [#!]Mana[#] Charge:",
             "* Deals 365% damage to all enemies.",
             "* Summons a Styx Spirit Fiend for all enemies. The Fiend damages its target with 40% attack every turn.",
             "* The Styx Spirit Fiend absorbs healing. It disappears after absorbing a healing amount equal to 25% if its target’s max health.",
@@ -6901,7 +6901,7 @@ window.allHeroes =
             "If the Astral Orb is cleansed, the owner receives Resonance for 3 turns. Resonance deals 500 damage that reverberates to 5 random enemies each turn. (If an Astal Orb is replaced by a new Astral Orb, it explodes. This effect can happen up to 2 times per turn. Damage can't reverberate on the same target twice in a row. Reverberating damage is reduced after each hit.)"
         ],
         "passives": [
-            "Resist Mana Ailments: This character is immune to status ailments and negative stacks that affect mana generation. Applies also to status ailments that block mana or steal mana.",
+            "Resist [#!]Mana[#] Ailments: This character is immune to status ailments and negative stacks that affect mana generation. Applies also to status ailments that block mana or steal mana.",
             "Perfect Accuracy: This character’s Special Skill never misses its targets."
         ],
         "family": "astral_demons",
@@ -7878,15 +7878,15 @@ window.allHeroes =
         "health": 1477,
         "effects": [
             "Special Skill has a different effect when charged with 100%/200%/300% mana",
-            "1x Mana Charge",
+            "1x [#!]Mana[#] Charge",
             "* Deals 250% damage to the target and nearby enemies.",
             "* The target and nearby enemies get -35% accuracy for 2 turns. Chance to miss also applies to offensive Special Skills.",
             "* The target and nearby enemies deal 320 damage to a random ally if they miss Special Skill during 2 turns.",
-            "2x Mana Charge",
+            "2x [#!]Mana[#] Charge",
             "* Deals 325% damage to the target and nearby enemies.",
             "* The target and nearby enemies get -40% accuracy for 3 turns. Chance to miss also applies to offensive Special Skills.",
             "* The target and nearby enemies deal 390 damage to a random ally if they miss Special Skill during 3 turns.",
-            "3x Mana Charge",
+            "3x [#!]Mana[#] Charge",
             "* Deals 400% damage to the target and nearby enemies.",
             "* The target and nearby enemies get -54% accuracy for 4 turns. Chance to miss also applies to offensive Special Skills.",
             "* The target and nearby enemies deal 470 damage to a random ally if they miss Special Skill during 4 turns."
@@ -8037,7 +8037,7 @@ window.allHeroes =
             "Transform Buffs: Each time this character casts their Special Skill, all dispellable buffs affecting attack, defense and mana generation on all enemies are transformed into matching undispellable status ailments. Transformed effects:",
             " * Attack buffs are transformed into -40% attack status ailments for 3 turns.",
             " * Defense buffs are transformed into -40% defense status ailments for 3 turns.",
-            " * Mana generation buffs are transformed into -40% mana generation status ailments for 3 turns.",
+            " * [#!]Mana generation[#] buffs are transformed into -40% mana generation status ailments for 3 turns.",
             "Flight Momentum: If this character has any amount of Flight Momentum, they receive:",
             " * Up to +35% mana generation.",
             " * Up to +25% extra chance to dodge.",
@@ -8523,7 +8523,7 @@ window.allHeroes =
             "The sleeping target is woken once it take damage. This excludes damage from Minions and Fiends."
         ],
         "passives": [
-            "Resist Mana reduction: This character has an innate resistance against mana Reduction.",
+            "Resist [#!]Mana[#] reduction: This character has an innate resistance against mana Reduction.",
             "Guard Rally: Every 4 turns, removes all [#!]Wither[#] effects from all allies."
         ],
         "family": "garrison",
@@ -8592,10 +8592,10 @@ window.allHeroes =
         "health": 1483,
         "effects": [
             "Special Skill has a different effect when charged with 100%/200% mana:",
-            "1x Mana Charge:",
+            "1x [#!]Mana[#] Charge:",
             " * Boosts health of all allies by 400. Boosted health can exceed max HP.",
             " * All allies get +40% defense against Special Skill for 3 turns.",
-            "2x Mana Charge:",
+            "2x [#!]Mana[#] Charge:",
             " * Reduce max health of all enemies by 800. Max health can`t get lower than 30% of the original max health. Any boosted health is reduced by an additional 800.",
             " * All enemies get -54% defense against Special Skill for 5 turns."
         ],
@@ -8679,10 +8679,10 @@ window.allHeroes =
         "health": 2254,
         "effects": [
             "Special Skill has a different effect when charged with 100%/200% mana:",
-            "1x Mana Charge:",
+            "1x [#!]Mana[#] Charge:",
             " * Boosts health of all allies by 450. Boosted health can exceed max HP.",
             " * All allies get +45% defense against Special Skill for 3 turns.",
-            "2x Mana Charge:",
+            "2x [#!]Mana[#] Charge:",
             " * Reduce max health of all enemies by 900. The effect is stronger against targets with boosted health. (Max health can`t get lower than 30% of the original max health. Any boosted health is reduced by an additional 900.)",
             " * All enemies get -58% defense against Special Skill for 5 turns.",
             " * All enemies get -45% decrease for any healing for 5 turns."
@@ -9296,7 +9296,7 @@ window.allHeroes =
             "All allies get +45% defense against Special Skills for 4 turns."
         ],
         "passives": [
-            "Mana on Buff Received: This character has a 50% chance to gain 10% mana when they receive a buff or possitive stack.",
+            "[#!]Mana[#] on Buff Received: This character has a 50% chance to gain 10% mana when they receive a buff or possitive stack.",
             "Health Recovery on Buff Received: This character has a 50% chance to recover 10% health when they receive a buff or possitve stack."
         ],
         "family": "journey",
@@ -9527,7 +9527,7 @@ window.allHeroes =
             "Cleanses 1 status ailment from all allies. (Status ailments are cleansed in the order they have been received. The latest status ailments are cleansed first.)"
         ],
         "passives": [
-            "Mana on Damage Received:",
+            "[#!]Mana[#] on Damage Received:",
             " * When this character receives direct damage from Special Skills or Normal Attacks they receive a small amount of mana.",
             " * Maximum of 10% mana gained per turn.",
             "Superior Resist Negative Minion Effects: This character has innate resistance against incoming negative effects and damage from Minions and Mega Minions."
@@ -9598,7 +9598,7 @@ window.allHeroes =
             "Each hit from the Spear Guard Mega Minion dispels all dispellable buffs from the target."
         ],
         "passives": [
-            "Resist Mana reduction: This character has an innate resistance against mana Reduction.",
+            "Resist [#!]Mana[#] reduction: This character has an innate resistance against mana Reduction.",
             "Guard Rally: Every 4 turns, removes all [#!]Wither[#] effects from all allies."
         ],
         "family": "garrison",
@@ -9802,13 +9802,13 @@ window.allHeroes =
         "defense": 685,
         "health": 1435,
         "effects": [
-            "1x Mana Charge",
+            "1x [#!]Mana[#] Charge",
             "* Deals 320% damage to the target",
             "* The attack has a 60% chance to bypass defensive buffs. This includes counterattacks.",
-            "2x Mana Charge",
+            "2x [#!]Mana[#] Charge",
             "* Deals 355% damage to the target and nearby enemies",
             "* The attack has a 85% chance to bypass defensive buffs. This includes counterattacks.",
-            "3x Mana Charge",
+            "3x [#!]Mana[#] Charge",
             "* Deals 390% damage to all enemies",
             "* The attack has a 100% chance to bypass defensive buffs. This includes counterattacks."
         ],
@@ -10335,7 +10335,7 @@ window.allHeroes =
             "All [##elementblue]Ice[#] enemies are immune to this attack"
         ],
         "passives": [
-            "Start Battle with Mana: This character receives 20% mana at the start of the battle."
+            "Start Battle with [#!]Mana[#]: This character receives 20% mana at the start of the battle."
         ],
         "family": "abyss",
         "costume_id": 0,
@@ -10407,7 +10407,7 @@ window.allHeroes =
             "All [##elementblue]Ice[#] enemies are immune to this attack."
         ],
         "passives": [
-            "Start Battle with Mana: This character receives 20% mana at the start of the battle.",
+            "Start Battle with [#!]Mana[#]: This character receives 20% mana at the start of the battle.",
             "Increased Damage Against Boosted Health: After this character casts their Special Skill, all allies deal +70% increased normal attack and Special Skills damage against targets with boosted health for 4 turns."
         ],
         "family": "abyss",
@@ -10701,8 +10701,8 @@ window.allHeroes =
             "The target hit by the Sword Guard Mega Minion recieves 414 [##elementred]Bleed damage[#] over 3 turns. This effect spreads to nearby enemies."
         ],
         "passives": [
-            "Mana on Status Ailment Received: This character gains 5% mana when they receive a status ailment or negative stack.",
-            "Resist Mana reduction: This character has an innate resistance against mana Reduction.",
+            "[#!]Mana[#] on Status Ailment Received: This character gains 5% mana when they receive a status ailment or negative stack.",
+            "Resist [#!]Mana[#] reduction: This character has an innate resistance against mana Reduction.",
             "Guard Rally: Every 4 turns, removes all [#!]Wither[#] effects from all allies."
         ],
         "family": "garrison",
@@ -11267,7 +11267,7 @@ window.allHeroes =
             "The caster and nearby allies get +40% [##elementred]critical[#] chance for 3 turns."
         ],
         "passives": [
-            "Resist Mana Reduction: This character has an innate resistance against mana reduction.",
+            "Resist [#!]Mana[#] Reduction: This character has an innate resistance against mana reduction.",
             "Guard Rally: Every 4 turns, removes all [#!]Wither[#] effects from all allies."
         ],
         "family": "garrison",
@@ -11558,7 +11558,7 @@ window.allHeroes =
         ],
         "passives": [
             "Resist Special Skill Blocking: This character has innate resistance against status ailments that block Special Skills.",
-            "Mana on Enemy Defensive Buffs: This character gains 10% mana when any enemy receives a defenseive buff."
+            "[#!]Mana[#] on Enemy Defensive Buffs: This character gains 10% mana when any enemy receives a defenseive buff."
         ],
         "family": "hotm2024",
         "costume_id": 0,
@@ -12443,7 +12443,7 @@ window.allHeroes =
         ],
         "passives": [
             "Resist Burn: This character has innate resistance against Burn.",
-            "Mana on Buff Dispel: This character receives 10% mana each time a buff is dispelled from this character. This effect can activate only once per turn."
+            "[#!]Mana[#] on Buff Dispel: This character receives 10% mana each time a buff is dispelled from this character. This effect can activate only once per turn."
         ],
         "family": "hotm2022",
         "costume_id": 0,
@@ -13301,7 +13301,7 @@ window.allHeroes =
         ],
         "passives": [
             "Resist Special Skill Blocking: This character has innate resistance against status ailments that block Special Skills.",
-            "Resist Mana Reduction: This character has innate resistance against mana reduction."
+            "Resist [#!]Mana[#] Reduction: This character has innate resistance against mana reduction."
         ],
         "family": "hotm2022",
         "costume_id": 0,
@@ -13785,7 +13785,7 @@ window.allHeroes =
             "All allies regenerate 1270 boosted health over 5 turns. Boosted health can exceed max HP."
         ],
         "passives": [
-            "Mana on Buff Received: Gain 5% mana when receiving a buff or a positive stack.",
+            "[#!]Mana[#] on Buff Received: Gain 5% mana when receiving a buff or a positive stack.",
             "Health Recovery on Buff Received: This character recovers 5% health when they receive a buff or a positive stack."
         ],
         "family": "stag",
@@ -14251,7 +14251,7 @@ window.allHeroes =
             "Cleanses status ailments from all allies."
         ],
         "passives": [
-            "Reduce Mana Gain from Special Skills: Reduces the amount of mana increased by Special Skill by -80%. The effect applies to all enemies in the battle."
+            "Reduce [#!]Mana[#] Gain from Special Skills: Reduces the amount of mana increased by Special Skill by -80%. The effect applies to all enemies in the battle."
         ],
         "family": "owl",
         "costume_id": 0,
@@ -14516,7 +14516,7 @@ window.allHeroes =
         ],
         "passives": [
             "Resist Burn: This character has innate resistance against Burn.",
-            "Mana on Frost: This character gains 5% mana each time an enemy receives [##elementblue]Frost damage[#]."
+            "[#!]Mana[#] on Frost: This character gains 5% mana each time an enemy receives [##elementblue]Frost damage[#]."
         ],
         "family": "hotm2024",
         "costume_id": 0,
@@ -14723,15 +14723,15 @@ window.allHeroes =
         "health": 1409,
         "effects": [
             "Special Skill has a different effect when charged with 100%/200% mana:",
-            "1x Mana Charge:",
+            "1x [#!]Mana[#] Charge:",
             " * Recovers 25% health for all allies.",
             " * Cleanses status ailments from all allies.",
-            "2x Mana Charge:",
+            "2x [#!]Mana[#] Charge:",
             " * Deals 420% damage to all enemies.",
             " * Dispels buffs from all enemies."
         ],
         "passives": [
-            "Mana on Special: When this character casts their Special Skill, they have a 50% chance to give 10% mana to all allies. If the Special Skill is fully charged, the chance is 100%."
+            "[#!]Mana[#] on Special: When this character casts their Special Skill, they have a 50% chance to give 10% mana to all allies. If the Special Skill is fully charged, the chance is 100%."
         ],
         "family": "magic",
         "costume_id": 0,
@@ -14808,16 +14808,16 @@ window.allHeroes =
         "health": 2198,
         "effects": [
             "Special Skill has a different effect when charged with 100% / 200% mana:",
-            "1x Mana Charge:",
+            "1x [#!]Mana[#] Charge:",
             " * Recovers 26% health for all allies.",
             " * Cleanses status ailments from all allies.",
-            "2x Mana Charge:",
+            "2x [#!]Mana[#] Charge:",
             " * Deals 440% damage to all enemies.",
             " * Dispels buffs from all enemies.",
             " * All enemies receive 340 [##elementblue]Frost damage[#] over 5 turns."
         ],
         "passives": [
-            "Mana on Special: When this character casts their Special Skill, they have a 60% chance to give 10% mana to all allies. If the Special Skill is fully charged, the chance is 100%.",
+            "[#!]Mana[#] on Special: When this character casts their Special Skill, they have a 60% chance to give 10% mana to all allies. If the Special Skill is fully charged, the chance is 100%.",
             "Weaker Mega Minions: Enemy Mega Minions have -75% HP."
         ],
         "family": "magic",
@@ -15154,7 +15154,7 @@ window.allHeroes =
             "Heals all allies for 10% of damage dealt."
         ],
         "passives": [
-            "Mana Buff on Status Ailment Received: The character with this skill receives +24% mana generation for 3 turns when they receive any status ailment or a negative stack.",
+            "[#!]Mana[#] Buff on Status Ailment Received: The character with this skill receives +24% mana generation for 3 turns when they receive any status ailment or a negative stack.",
             "Damage on Enemy Special: If a target is Average mana speed or faster casts a Special Skill, all enemies receive 100 damage. This effect can activate only once per turn.",
             "Resist Attack Ailments: This character has innate resistance against status ailments that affect attack."
         ],
@@ -15301,8 +15301,8 @@ window.allHeroes =
             " * The Source of Buffs will activate 4 times. Each attempt to dispel it removes one activation."
         ],
         "passives": [
-            "Mana on Buff Received: This character gains 5% mana when they receive a buff or positive stack.",
-            "Empowered Resist Mana Reductions: This character has innate resistance against mana reduction. They also gain 600 boosted health and 10% mana each time they resist.",
+            "[#!]Mana[#] on Buff Received: This character gains 5% mana when they receive a buff or positive stack.",
+            "Empowered Resist [#!]Mana[#] Reductions: This character has innate resistance against mana reduction. They also gain 600 boosted health and 10% mana each time they resist.",
             "Resist Buff Immunity: This character has innate resistance against ailments that give immunity to new buffs."
         ],
         "family": "beowulf",
@@ -15894,7 +15894,7 @@ window.allHeroes =
         ],
         "passives": [
             "Health Recovery on Buff Received: This characters has a 50% chance to  recover 10% health when they receive a buff or a positive stack.",
-            "Mana on Buff Received: This characters has a 50% chance to recover 10% mana when they receive a buff or a positive stack."
+            "[#!]Mana[#] on Buff Received: This characters has a 50% chance to recover 10% mana when they receive a buff or a positive stack."
         ],
         "family": "journey",
         "costume_id": 0,
@@ -16124,15 +16124,15 @@ window.allHeroes =
         "health": 1666,
         "effects": [
             "Special Skill has a different effect when charged with 100%/200%/300% mana:",
-            "x1 Mana Charge:",
+            "x1 [#!]Mana[#] Charge:",
             " - Boosts health of caster by 390. Boosted health can exceed max HP.",
             " - The caster gets [##elementred]Taunt[#] that prevents enemies from using Special Skill on the caster’s allies for 2 turns. This effect can’t be dispelled.",
             " - The caster counterattacks with 50% of the damage received for 2 turns.",
-            "x2 Mana Charge:",
+            "x2 [#!]Mana[#] Charge:",
             " - Boosts health of caster by 490. Boosted health can exceed max HP.",
             " - The caster gets [##elementred]Taunt[#] that prevents enemies from using Special Skill on the caster’s allies for 3 turns. This effect can’t be dispelled.",
             " - The caster counterattacks with 105% of the damage received for 3 turns.",
-            "x3 Mana Charge:",
+            "x3 [#!]Mana[#] Charge:",
             " - Boosts health of caster by 540. Boosted health can exceed max HP.",
             " - The caster gets [##elementred]Taunt[#] that prevents enemies from using Special Skill on the caster’s allies for 4 turns. This effect can’t be dispelled.",
             " - The caster counterattacks with 133% of the damage received for 3 turns."
@@ -18121,9 +18121,9 @@ window.allHeroes =
             "The caster and nearby allies have 55% chance to drop any received damage to 1 for 4 turns. If this effect is dispelled, it dispels buffs from all enemies."
         ],
         "passives": [
-            "Mana Buff on Status Ailment Received: The character with this skill receives +24% mana generation for 3 turns when they receive any status ailment or a negative stack.",
+            "[#!]Mana[#] Buff on Status Ailment Received: The character with this skill receives +24% mana generation for 3 turns when they receive any status ailment or a negative stack.",
             "Health Boost on Buff Dispel: This character receives 450 boosted health each time a buff is dispelled from this character. This effect can activate only once per turn.",
-            "Mana on Buff Dispel: This character receives 10% mana each time a buff is dispelled from them. This effect can activate only once per turn."
+            "[#!]Mana[#] on Buff Dispel: This character receives 10% mana each time a buff is dispelled from them. This effect can activate only once per turn."
         ],
         "family": "champions",
         "costume_id": 0,
@@ -18190,15 +18190,15 @@ window.allHeroes =
         "defense": 1297,
         "health": 1705,
         "effects": [
-            "1x Mana Charge",
+            "1x [#!]Mana[#] Charge",
             "* Recovers 25% health for all allies.",
             "* For the next 2 turns this character recovers 300 health to all allies after an enemy casts their Special Skill. (Each enemy can trigger this effect once per turn.)",
             "* Cleanses status ailments from the caster.",
-            "2x Mana Charge",
+            "2x [#!]Mana[#] Charge",
             "* Recovers 30% health for all allies.",
             "* For the next 4 turns this character recovers 350 health to all allies after an enemy casts their Special Skill. (Each enemy can trigger this effect once per turn.)",
             "* Cleanses status ailments from the caster and nearby allies.",
-            "3x Mana Charge",
+            "3x [#!]Mana[#] Charge",
             "* Recovers 35% health for all allies.",
             "* For the next 6 turns this character recovers 400 health to all allies after an enemy casts their Special Skill. (Each enemy can trigger this effect once per turn.)",
             "* Cleanses status ailments from all allies."
@@ -18347,7 +18347,7 @@ window.allHeroes =
         ],
         "passives": [
             "Resist Special Skill Blocking: This character has innate resistance against status ailments that block Special Skills.",
-            "Status Effect on Mana Reduction: This character get +30% attack for 3 turns when their mana is reduced."
+            "Status Effect on [#!]Mana[#] Reduction: This character get +30% attack for 3 turns when their mana is reduced."
         ],
         "family": "hotm2024",
         "costume_id": 0,
@@ -19837,13 +19837,13 @@ window.allHeroes =
         "health": 1522,
         "effects": [
             "Special Skill has a different effect when charged with 100% / 200% / 300% mana:",
-            "1x Mana Charge:",
+            "1x [#!]Mana[#] Charge:",
             "* Recovers 20% health for all allies.",
             "* All allies get +24% mana generation for 2 turns.",
-            "2x Mana Charge:",
+            "2x [#!]Mana[#] Charge:",
             "* Recovers 30% health for all allies.",
             "* Increases the mana of all allies by 10%.",
-            "3x Mana Charge:",
+            "3x [#!]Mana[#] Charge:",
             "* Recovers 50% health for all allies.",
             "* Increases the mana of all allies by 20%.",
             "* All allies get +40% mana generation for 4 turns."
@@ -20227,7 +20227,7 @@ window.allHeroes =
             "The target and nearby enemies are immune to new status effect buffs for 3 turns."
         ],
         "passives": [
-            "Reduce Mana Gain from Special Skills: Reduces the amount of mana increased by Special Skill by -80%. The effect applies to all enemies in the battle."
+            "Reduce [#!]Mana[#] Gain from Special Skills: Reduces the amount of mana increased by Special Skill by -80%. The effect applies to all enemies in the battle."
         ],
         "family": "owl",
         "costume_id": 0,
@@ -20449,10 +20449,10 @@ window.allHeroes =
         "health": 1726,
         "effects": [
             "Special Skill has a different effect when charged with 100%/200% mana:",
-            "1x Mana Charge:",
+            "1x [#!]Mana[#] Charge:",
             " * Summons an Enchanted Sigil Minion for each ally with 15% HP and 20% attack inherited from the caster.",
             " * When summoned, the Enchanted Sigil Minion gives +20% mana generation for its owner for as long as the owner has Enchanted Sigil Minions. This effect can’t be dispelled.",
-            "2x Mana Charge:",
+            "2x [#!]Mana[#] Charge:",
             " * Summons a Cursed Sigil Field to all enemies. The Fiend damages its target with 100% attack every turn.",
             " * The Cursed Sigil Fiend absorbs healing. It disappers after absorbing a healing amount equal to 60% of its target’s max health.",
             " * When summoned, the Cursed Sigil Fiend give -38% mana generation for its owner for as long as the owner has Cursed Sigil Fiends. This effect can’t be cleansed."
@@ -21292,15 +21292,15 @@ window.allHeroes =
         "health": 1435,
         "effects": [
             "Special Skill has a different effect when charged with 100%/200%/300% mana:",
-            "1x Mana Charge:",
+            "1x [#!]Mana[#] Charge:",
             " - All allies regenerate 144 boosted health over 2 turns. Boosted health can exceed max HP.",
             " - All allies get +24% defense, and a further 5% increase every time they are hit during 2 turns.",
             " - All allies are immune to buff dispels for 2 turns.",
-            "2x Mana Charge:",
+            "2x [#!]Mana[#] Charge:",
             " - All allies regenerate 504 boosted health over 3 turns. Boosted health can exceed max HP.",
             " - All allies get +34% defense, and a further 5% increase every time they are hit during 3 turns.",
             " - All allies are immune to buff dispels for 3 turns.",
-            "3x Mana Charge:",
+            "3x [#!]Mana[#] Charge:",
             " - All allies regenerate 980 boosted health over 4 turns. Boosted health can exceed max HP.",
             " - All allies get +54% defense, and a further 5% increase every time they are hit during 4 turns.",
             " - All allies are immune to buff dispels for 4 turns."
@@ -22734,10 +22734,10 @@ window.allHeroes =
         "health": 796,
         "effects": [
             "Special Skill has a different effect when charged with 100%/200% mana:",
-            "1x Mana Charge:",
+            "1x [#!]Mana[#] Charge:",
             " * All allies become Soul Connected for 3 turns. Soul Connected allies share received damage.",
             " * All allies get +63% defense for 3 turns.",
-            "2x Mana Charge:",
+            "2x [#!]Mana[#] Charge:",
             " * All allies become Soul Connected for 5 turns. Soul Connected allies share received damage.",
             " * All enemies get -56% defense for 5 turns."
         ],
@@ -23003,7 +23003,7 @@ window.allHeroes =
             "Attacks the target and nearby enemies with Moonrise Strike, dealing up to 700 damage. Deals 20% more damage if the target is of the [##elementyellow]Holy[#] element. This Special Skill never misses its targets."
         ],
         "passives": [
-            "Reduce Mana Gain from Special Skills: Reduces the amount of mana increased by Special Skill by -80%. The effect applies to all enemies in the battle."
+            "Reduce [#!]Mana[#] Gain from Special Skills: Reduces the amount of mana increased by Special Skill by -80%. The effect applies to all enemies in the battle."
         ],
         "family": "owl",
         "costume_id": 0,
@@ -24601,15 +24601,15 @@ window.allHeroes =
         "health": 663,
         "effects": [
             "Special Skill has a different effect when charged with 100%/200% mana:",
-            "1x Mana Charge:",
+            "1x [#!]Mana[#] Charge:",
             " * Deals 175% damage to the target.",
             " * The target receives 35% damage for all the damage their allies receive for 3 turns.",
-            "2x Mana Charge:",
+            "2x [#!]Mana[#] Charge:",
             " * All allies get 50% chance to bypass defensive buffs with their attacks for 5 turns. Defensive buffs include counterattacks.",
             " * All allies get +30% [##elementred]critical[#] chance for 5 turns."
         ],
         "passives": [
-            "Mana on Special: When this character casts their Special Skill, they have a 50% chance to give 10% mana to all allies. If the Special Skill is fully charged, the chance is 100%.",
+            "[#!]Mana[#] on Special: When this character casts their Special Skill, they have a 50% chance to give 10% mana to all allies. If the Special Skill is fully charged, the chance is 100%.",
             "Stack on Special: When this character casts their Special Skill, all enemies get -5% mana generation stack. If the Special Skill is fully charged, all enemies get two stacks. An enemy can have up to 10 stacks."
         ],
         "family": "magic",
@@ -24798,7 +24798,7 @@ window.allHeroes =
             "The caster and nearby allies get +36% [##elementred]critical[#] chance for 3 turns."
         ],
         "passives": [
-            "Resist Mana reduction: This character has an innate resistance against mana Reduction.",
+            "Resist [#!]Mana[#] reduction: This character has an innate resistance against mana Reduction.",
             "Guard Rally: Every 4 turns, removes all [#!]Wither[#] effects from all allies."
         ],
         "family": "garrison",
@@ -25286,10 +25286,10 @@ window.allHeroes =
         "health": 1334,
         "effects": [
             "Special Skill has a different effect when charged with 100%/200% mana:",
-            "1x Mana Charge:",
+            "1x [#!]Mana[#] Charge:",
             " * Deals 250% damage to all enemies. Each hit has 60% accuracy.",
             " * All hit enemies receive 92 [##elementpurple]Poison damage[#] over 2 turns.",
-            "2x Mana Charge:",
+            "2x [#!]Mana[#] Charge:",
             " * Each fallen ally has a 44% chance to get revived with 40% HP.",
             " * All allies regenerate 405 HP over 5 turns"
         ],
@@ -25359,13 +25359,13 @@ window.allHeroes =
         "health": 1130,
         "effects": [
             "Special Skill has a different effect when charged with 100% / 200% / 300% mana:",
-            "1x Mana Charge:",
+            "1x [#!]Mana[#] Charge:",
             "* Recovers 25% health for the caster and nearby allies.",
             "* The caster and nearby allies get +24% mana generation for 2 turns.",
-            "2x Mana Charge:",
+            "2x [#!]Mana[#] Charge:",
             "* Recovers 35% health for the caster and nearby allies.",
             "* Increases the mana of the caster and nearby allies by 10%.",
-            "3x Mana Charge:",
+            "3x [#!]Mana[#] Charge:",
             "* Recovers 55% health for the caster and nearby allies.",
             "* Increases the mana of the caster and nearby allies by 30%.",
             "* The caster and nearby allies get +40% mana generation for 4 turns."
@@ -29683,7 +29683,7 @@ window.allHeroes =
             "The target hit by the Sword Guard Mega Minion receives 441 [##elementred]Bleed damage[#] over 3 turns. This effect spreads to nearby enemies."
         ],
         "passives": [
-            "Resist Mana reduction: This character has an innate resistance against mana Reduction.",
+            "Resist [#!]Mana[#] reduction: This character has an innate resistance against mana Reduction.",
             "Guard Rally: Every 4 turns, removes all [#!]Wither[#] effects from all allies."
         ],
         "family": "garrison",
@@ -30624,7 +30624,7 @@ window.allHeroes =
         ],
         "passives": [
             "Resist Minion Removal: This character has innate resistance against Minion removal.",
-            "Mana on Minion Summon: When a Minion is summoned to an ally, this character gains 5% mana. This effect can activate only once per turn."
+            "[#!]Mana[#] on Minion Summon: When a Minion is summoned to an ally, this character gains 5% mana. This effect can activate only once per turn."
         ],
         "family": "hotm2024",
         "costume_id": 0,
@@ -30911,15 +30911,15 @@ window.allHeroes =
         "defense": 1141,
         "health": 1627,
         "effects": [
-            "1x Mana Charge",
+            "1x [#!]Mana[#] Charge",
             " * Dispels buffs from the enemies on the edges of the enemy formation.",
             " * Deals 300% damage to the enemies on the edges of the enemy formation. If there is only one enemy aive, the damage is doubled.",
             " * The enemy on the edges of the formation fall asleep and receive +60% increased damage while sleeping. (A sleeping character cannot gain mana. The sleeping target is woken once it takes damage. This excludes damage from Minions and Fiends. This effect is uncleansable.)",
-            "2x Mana Charge",
+            "2x [#!]Mana[#] Charge",
             " * Dispels buffs from the enemies on the edges of the enemy formation.",
             " * Deals 485% damage to the enemies on the edges of the enemy formation. If there is only one enemy aive, the damage is doubled.",
             " * The enemy on the edges of the formation fall asleep and receive +80% increased damage while sleeping. (A sleeping character cannot gain mana. The sleeping target is woken once it takes damage. This excludes damage from Minions and Fiends. This effect is uncleansable.)",
-            "3x Mana Charge",
+            "3x [#!]Mana[#] Charge",
             " * Dispels buffs from the enemies on the edges of the enemy formation.",
             " * Deals 900% damage to the enemies on the edges of the enemy formation. If there is only one enemy aive, the damage is doubled.",
             " * The enemy on the edges of the formation fall asleep and receive +100% increased damage while sleeping. (A sleeping character cannot gain mana. The sleeping target is woken once it takes damage. This excludes damage from Minions and Fiends. This effect is uncleansable.)"
@@ -31343,10 +31343,10 @@ window.allHeroes =
         "health": 1417,
         "effects": [
             "Special Skill has a different effect when charged with 100%/200% mana:",
-            "1x Mana Charge:",
+            "1x [#!]Mana[#] Charge:",
             " * Deals 250% damage to the target.",
             " * Deals 500% damage if the target has less than 50% health remaining.",
-            "2x Mana Charge:",
+            "2x [#!]Mana[#] Charge:",
             " * Deals 215% damage to all enemies.",
             " * Deals 430% damage to enemies with more than 50% health remaining."
         ],
@@ -31419,10 +31419,10 @@ window.allHeroes =
         "health": 2327,
         "effects": [
             "Special Skill has a different effect when charged with 100%/200% mana:",
-            "1x Mana Charge:",
+            "1x [#!]Mana[#] Charge:",
             " * Deals 300% damage to the target.",
             " * Deals 600% damage if the target has more than 50% health remaining.",
-            "2x Mana Charge:",
+            "2x [#!]Mana[#] Charge:",
             " * Deals 250% damage to all enemies.",
             " * Deals 500% damage to enemies with less than 50% health remaining."
         ],
@@ -31789,7 +31789,7 @@ window.allHeroes =
         ],
         "passives": [
             "Perfect Accuracy: This character’s Special Skill never mises its target.",
-            "Mana on Buff Received: This character gains 5% mana when they receive a buff or positive stack.",
+            "[#!]Mana[#] on Buff Received: This character gains 5% mana when they receive a buff or positive stack.",
             "Stacking Attack On Damage Received: When this character receives damage from Special Skills, they gain +30% attack Stack (Max: 10). One Stack can be gained per turn."
         ],
         "family": "beowulf",
@@ -32137,15 +32137,15 @@ window.allHeroes =
         "health": 1563,
         "effects": [
             "Special Skill has a different effect when charged with 100%/200%/300% mana:",
-            "x1 Mana Charge:",
+            "x1 [#!]Mana[#] Charge:",
             " - Deals 200% damage to all enemies.",
             " - Summons a Shinobi Minion for each ally with 8% HP and 10% attack inherited from the caster.",
             " - When summoned, the Shinobi Minion gives its owner the ability to counterattack with 60% of the damage received for as long as the owner has a Shinobi Minion. The effect can’t be dispelled.",
-            "x2 Mana Charge:",
+            "x2 [#!]Mana[#] Charge:",
             " - Deals 280% damage to all enemies.",
             " - Summons a Shinobi Minion for each ally with 16% HP and 16% attack inherited from the caster.",
             " - When summoned, the Shinobi Minion gives its owner the ability to counterattack with 60% of the damage received for as long as the owner has a Shinobi Minion. The effect can’t be dispelled.",
-            "x3 Mana Charge:",
+            "x3 [#!]Mana[#] Charge:",
             " - Deals 360% damage to all enemies.",
             " - Summons a Shinobi Minion for each ally with 22% HP and 26% attack inherited from the caster.",
             " - When summoned, the Shinobi Minion gives its owner the ability to counterattack with 60% of the damage received for as long as the owner has a Shinobi Minion. The effect can’t be dispelled."
@@ -32291,7 +32291,7 @@ window.allHeroes =
             " * Deals 70% damage to all enemies.",
             " * Dispels the latest dispellable buff from enemies.",
             "Guaranteed Effect on Special Skill: When this character casts their Special Skill, any of their Passive Skills that grant extra effects on cast are guaranteed to activate.",
-            "Mana on Status Ailment Received: This character gains 5% mana when they receive a status ailment or negative stack."
+            "[#!]Mana[#] on Status Ailment Received: This character gains 5% mana when they receive a status ailment or negative stack."
         ],
         "family": "moon",
         "costume_id": 1,
@@ -32673,7 +32673,7 @@ window.allHeroes =
         ],
         "passives": [
             "Resist Special Skill Blocking: This character has innate resistance against status ailments that Block Special Skills.",
-            "Mana on Status Ailment Received: This character gains 5% mana when they receive a status ailment or a negative stack."
+            "[#!]Mana[#] on Status Ailment Received: This character gains 5% mana when they receive a status ailment or a negative stack."
         ],
         "family": "hotm2021",
         "costume_id": 0,
@@ -32747,7 +32747,7 @@ window.allHeroes =
             "Transform Ailments: Each time this character casts their Special Skill, all cleansable status ailments affecting attack, defense and mana generation on all allies are transformed into matching undispellable buffs. Transformed effects:",
             " * Attack status ailments are transformed into +40% attack buffs for 3 turns.",
             " * Defense status ailments are transformed into +40% defense buffs for 3 turns.",
-            " * Mana generation status ailments are transformed into +40% mana generation buffs for 3 turns.",
+            " * [#!]Mana generation[#] status ailments are transformed into +40% mana generation buffs for 3 turns.",
             "Flight Momentum: If this character has any amount of Flight Momentum, they receive:",
             " * Up to +35% mana generation.",
             " * Up to +25% extra chance to dodge.",
@@ -33444,7 +33444,7 @@ window.allHeroes =
             "Elemental Link gives all [##elementgreen]Nature[#] allies +20% attack for 4 turns. This effect can’t be dispelled."
         ],
         "passives": [
-            "Mana on Status Ailment Received: This character gains 5% mana when they receive a status ailment or a negative stack.",
+            "[#!]Mana[#] on Status Ailment Received: This character gains 5% mana when they receive a status ailment or a negative stack.",
             "Resist Poison: This character has innate resistance against Poison."
         ],
         "family": "hotm2025",
@@ -33726,8 +33726,8 @@ window.allHeroes =
             "The Source of Ailments will activate 4 times. Each attempt to dispel it removes one activation."
         ],
         "passives": [
-            "Mana Per Enemy Buff: Gains a small amount of mana for every active status effect buff that the enemy team has at the start of each turn (maximum of 20 buffs).",
-            "Empowered Resist Mana Reduction: This character has innate resistance against mana reductions. They also gain 600 boosted health and 10% mana each time they resist.",
+            "[#!]Mana[#] Per Enemy Buff: Gains a small amount of mana for every active status effect buff that the enemy team has at the start of each turn (maximum of 20 buffs).",
+            "Empowered Resist [#!]Mana[#] Reduction: This character has innate resistance against mana reductions. They also gain 600 boosted health and 10% mana each time they resist.",
             "Resist Buff Blocking: This character is immune to effect that would block them from receiving new status effect buffs."
         ],
         "family": "beowulf",
@@ -34771,7 +34771,7 @@ window.allHeroes =
             "Each hit from the Spear Guard Mega Minion dispels all dispellable buffs from the target."
         ],
         "passives": [
-            "Resist Mana reduction: This character has an innate resistance against mana Reduction.",
+            "Resist [#!]Mana[#] reduction: This character has an innate resistance against mana Reduction.",
             "Guard Rally: Every 4 turns, removes all [#!]Wither[#] effects from all allies."
         ],
         "family": "garrison",
@@ -34928,7 +34928,7 @@ window.allHeroes =
         ],
         "passives": [
             "Resist Burn: This character has innate resistance against Burn.",
-            "Mana on [##elementred]Taunt[#]: Each time an enemy receives a [##elementred]Taunt[#] status effect this character’s mana is increased by 10%."
+            "[#!]Mana[#] on [##elementred]Taunt[#]: Each time an enemy receives a [##elementred]Taunt[#] status effect this character’s mana is increased by 10%."
         ],
         "family": "hotm2022",
         "costume_id": 0,
@@ -35201,7 +35201,7 @@ window.allHeroes =
         ],
         "passives": [
             "Perfect Accuracy: This character’s Special Skill never mises its target.",
-            "Empowered Resist Mana Reductions: This character has innate resistance against mana reduction. They also gain 600 boosted health and 10% mana each time they resist.",
+            "Empowered Resist [#!]Mana[#] Reductions: This character has innate resistance against mana reduction. They also gain 600 boosted health and 10% mana each time they resist.",
             "Stacking Attack On Damage Received: When this character receives damage from Special Skills, they gain +30% attack Stack (Max: 10). One Stack can be gained per turn."
         ],
         "family": "beowulf",
@@ -36466,15 +36466,15 @@ window.allHeroes =
         "health": 1854,
         "effects": [
             "Special Skill has a different effect when charged with 100%/200%/300% mana:",
-            "x1 Mana Charge:",
+            "x1 [#!]Mana[#] Charge:",
             " - Deals 430% damage to the target.",
             " - Boosts all allies’ health by 25% of damage dealt.",
             " - The target gets -35% mana generation for 2 turns. (Affects only mana generated from matching tiles or mana gained by the defense team at the end of their turn.)",
-            "x2 Mana Charge:",
+            "x2 [#!]Mana[#] Charge:",
             " - Deals 440% damage to the target and nearby enemies.",
             " - Boosts all allies’ health by 25% of damage dealt.",
             " - The target and nearby enemies get -40% mana generation for 4 turns. (Affects only mana generated from matching tiles or mana gained by the defense team at the end of their turn.)",
-            "x3 Mana Charge:",
+            "x3 [#!]Mana[#] Charge:",
             " - Deals 450% damage to all enemies.",
             " - Boosts all allies’ health by 25% of damage dealt.",
             " - All enemies get -45% mana generation for 6 turns. (Affects only mana generated from matching tiles or mana gained by the defense team at the end of their turn.)"
@@ -36542,15 +36542,15 @@ window.allHeroes =
         "defense": 819,
         "health": 1446,
         "effects": [
-            "1x Mana Charge",
+            "1x [#!]Mana[#] Charge",
             " * Deals 115% damage to all enemies.",
             " * Reduces the mana of all enemies by 10%.",
             " * The caster gets +25% chance of dodging special attacks that deal damage for 3 turns.",
-            "2x Mana Charge",
+            "2x [#!]Mana[#] Charge",
             " * Deals 210% damage to all enemies.",
             " * Reduces the mana of all enemies by 15%.",
             " * The caster and nearby allies get +50% chance of dodging special attacks that deal damage for 4 turns.",
-            "3x Mana Charge",
+            "3x [#!]Mana[#] Charge",
             " * Deals 300% damage to all enemies.",
             " * Reduces the mana of all enemies by 25%.",
             " * All allies get +75% chance of dodging special attacks that deal damage for 5 turns."
@@ -37125,7 +37125,7 @@ window.allHeroes =
             "The Shield Guard Mega Minion safely cleanses the latest cleansable status ailment from all allies each turn. (Safe cleanse bypasses secondary effects, such as damage on removal, from the remove status ailment. External effects such as passive skills and family effects can still activate.)"
         ],
         "passives": [
-            "Resist Mana reduction: This character has an innate resistance against mana Reduction.",
+            "Resist [#!]Mana[#] reduction: This character has an innate resistance against mana Reduction.",
             "Guard Rally: Every 4 turns, removes all [#!]Wither[#] effects from all allies."
         ],
         "family": "garrison",
@@ -38422,7 +38422,7 @@ window.allHeroes =
             " * Deals 70% damage to all enemies.",
             " * All enemies get -34% attack for 3 turns.",
             "Extra Chance for Effects on Special Skill: When this character casts their  Special Skill, any of their Passive Skills that grant extra effects on cast have 3 chances to activate.",
-            "Mana on Health Boosting Special Skill: This character gains 5% mana each time an enemy casts a Special Skill that directly boosts health."
+            "[#!]Mana[#] on Health Boosting Special Skill: This character gains 5% mana each time an enemy casts a Special Skill that directly boosts health."
         ],
         "family": "sun",
         "costume_id": 1,
@@ -39315,15 +39315,15 @@ window.allHeroes =
         "health": 1516,
         "effects": [
             "Special Skill has a different effect when charged with 100%/200%/300% mana:",
-            "x1 Mana Charge:",
+            "x1 [#!]Mana[#] Charge:",
             " - Boosts health of all allies by 370. Boosted health can exceed max HP.",
             " - All allies get +33% mana generation for 2 turns.",
             " - All allies get +25% defense for 2 turns.",
-            "x2 Mana Charge:",
+            "x2 [#!]Mana[#] Charge:",
             " - Boosts health of all allies by 530. Boosted health can exceed max HP.",
             " - All allies get +33% mana generation for 3 turns.",
             " - All allies get +40% defense for 3 turns.",
-            "x3 Mana Charge:",
+            "x3 [#!]Mana[#] Charge:",
             " - Boosts health of all allies by 600. Boosted health can exceed max HP.",
             " - All allies get +33% mana generation for 4 turns.",
             " - All allies get +65% defense for 4 turns."
@@ -39466,8 +39466,8 @@ window.allHeroes =
             "For the next 3 turns, the target and nearby enemies convert all boosted  health received to max health reduction. Max health is reduced more for  targets that already have boosted health. (Max health can’t get lower than 30% of the original max health. When boosted healing is converted, the max health reduction is doubled if the target already has boosted health.)"
         ],
         "passives": [
-            "Mana Buff on Status Ailment Received: Receives +24% mana generation for 3  turns when this character receives a status ailment or a negative stack.",
-            "Mana on Health Boosting Special Skill: This character gains 10% mana each  time an enemy casts a Special Skill that directly boosts health.",
+            "[#!]Mana[#] Buff on Status Ailment Received: Receives +24% mana generation for 3  turns when this character receives a status ailment or a negative stack.",
+            "[#!]Mana[#] on Health Boosting Special Skill: This character gains 10% mana each  time an enemy casts a Special Skill that directly boosts health.",
             "Health Boost on Enemy Health Boost: This character gets 450 boosted health  each time an enemy casts a Special Skill that directly boosts health."
         ],
         "family": "champions",
@@ -39829,15 +39829,15 @@ window.allHeroes =
         "health": 1435,
         "effects": [
             "Special Skill has a different effect when charged with 100%/200%/300% mana:",
-            "x1 Mana Charge:",
+            "x1 [#!]Mana[#] Charge:",
             " * Deals 240% damage to the target.",
             " • The target receives 220 [##elementpurple]Poison damage[#] over 2 turns.",
             " • The target gets -35% accuracy for 2 turns. Chance to miss also applies to offensive Special Skills.",
-            "x2 Mana Charge:",
+            "x2 [#!]Mana[#] Charge:",
             " * Deals 280% damage to the target and nearby enemies.",
             " * The target and nearby enemies receive 438 [##elementpurple]Poison damage[#] over 3 turns.",
             " * The target and nearby enemies get -40% accuracy for 3 turns. Chance to miss also applies to offensive Special Skills.",
-            "x3 Mana Charge:",
+            "x3 [#!]Mana[#] Charge:",
             " * Deals 320% damage to all enemies.",
             " * All enemies receive 764 [##elementpurple]Poison damage[#] over 4 turns.",
             " * All enemies get -54% accuracy for 4 turns. Chance to miss also applies to offensive Special Skills."
@@ -40060,7 +40060,7 @@ window.allHeroes =
             "All hit targets take +50% increased damage from Bleed status ailments for 3 turns."
         ],
         "passives": [
-            "Resist Mana reduction: This character has an innate resistance against mana Reduction.",
+            "Resist [#!]Mana[#] reduction: This character has an innate resistance against mana Reduction.",
             "Guard Rally: Every 4 turns, removes all [#!]Wither[#] effects from all allies."
         ],
         "family": "garrison",
@@ -40490,7 +40490,7 @@ window.allHeroes =
             "Transform Ailments: Each time this character casts their Special Skill, all cleansable status ailments affecting attack, defense and mana generation on all allies are transformed into matching undispellable buffs. Transformed effects:",
             " * Attack status ailments are transformed into +40% attack buffs for 3 turns.",
             " * Defense status ailments are transformed into +40% defense buffs for 3 turns.",
-            " * Mana generation status ailments are transformed into +40% mana generation buffs for 3 turns.",
+            " * [#!]Mana generation[#] status ailments are transformed into +40% mana generation buffs for 3 turns.",
             "Flight Momentum: If this character has any amount of Flight Momentum, they receive:",
             " * Up to +35% mana generation.",
             " * Up to +25% extra chance to dodge.",
@@ -40691,7 +40691,7 @@ window.allHeroes =
             "All allies a get Moonrise Ward for 4 turns, that reduces incoming Special Skill damage by -800. Reduces by additional 30% when attacker is [##elementyellow]Holy[#]."
         ],
         "passives": [
-            "Reduce Mana Gain from Special Skills: Reduces the amount of mana increased by Special Skill by -80%. The effect applies to all enemies in the battle."
+            "Reduce [#!]Mana[#] Gain from Special Skills: Reduces the amount of mana increased by Special Skill by -80%. The effect applies to all enemies in the battle."
         ],
         "family": "owl",
         "costume_id": 0,
@@ -41039,7 +41039,7 @@ window.allHeroes =
             "All allies get +45% chance to dodge Special Skills that deal damage for 4 turns."
         ],
         "passives": [
-            "Mana on Buff Received: This character has a 50% chance to gain 10% mana when they receive a buff or possitive stack.",
+            "[#!]Mana[#] on Buff Received: This character has a 50% chance to gain 10% mana when they receive a buff or possitive stack.",
             "Health Recovery on Buff Received: This character has a 50% chance to recover 10% health when they receive a buff or possitve stack."
         ],
         "family": "journey",
@@ -41998,17 +41998,17 @@ window.allHeroes =
         "health": 1909,
         "effects": [
             "Special Skill has a different effect when charged with 100%/200%/300% mana:",
-            "x1 Mana Charge:",
+            "x1 [#!]Mana[#] Charge:",
             " - This Special Skill never misses its targets.",
             " - Deals 250% damage to the target.",
             " - Deals 450% damage if the target has more than 50% health remaining.",
             " - Deals an additional 250% damage to the nearby enemies.",
-            "x2 Mana Charge:",
+            "x2 [#!]Mana[#] Charge:",
             " - This Special Skill never misses its targets.",
             " - Deals 350% damage to the target.",
             " - Deals 550% damage if the target has more than 50% health remaining.",
             " - Deals an additional 350% damage to the nearby enemies.",
-            "x3 Mana Charge:",
+            "x3 [#!]Mana[#] Charge:",
             " - This Special Skill never misses its targets.",
             " - Deals 400% damage to the target.",
             " - Deals 700% damage if the target has more than 50% health remaining.",
@@ -42352,10 +42352,10 @@ window.allHeroes =
         "health": 1528,
         "effects": [
             "Special Skill has a different effect when charged with 100%/200% mana:",
-            "1x Mana Charge:",
+            "1x [#!]Mana[#] Charge:",
             " * All enemies take +50% increased damage from status ailments for 3 turns.",
             " * All enemies receive 357 [##elementpurple]Poison damage[#] over 3 turns.",
-            "2x Mana Charge:",
+            "2x [#!]Mana[#] Charge:",
             " * Recovers 75% health for the caster and nearby allies.",
             " * The caster and nearby allies are immune to damage from status ailments for 5 turns."
         ],
@@ -42649,8 +42649,8 @@ window.allHeroes =
             "All enemies get -35% defense for 5 turns."
         ],
         "passives": [
-            "Mana on Status Ailment Received: This character gains 5% mana when they receive a status ailment or negative stack.",
-            "Resist Mana reduction: This character has an innate resistance against mana Reduction.",
+            "[#!]Mana[#] on Status Ailment Received: This character gains 5% mana when they receive a status ailment or negative stack.",
+            "Resist [#!]Mana[#] reduction: This character has an innate resistance against mana Reduction.",
             "Guard Rally: Every 4 turns, removes all [#!]Wither[#] effects from all allies."
         ],
         "family": "garrison",
@@ -43061,7 +43061,7 @@ window.allHeroes =
             "All enemies get -45% accuracy for 4 turns. Chance to miss also applies to offensive Special Skills."
         ],
         "passives": [
-            "Reduce Mana Gain from Special Skills: Reduces the amount of mana increased by Special Skill by -80%. The effect applies to all enemies in the battle."
+            "Reduce [#!]Mana[#] Gain from Special Skills: Reduces the amount of mana increased by Special Skill by -80%. The effect applies to all enemies in the battle."
         ],
         "family": "owl",
         "costume_id": 0,
@@ -43355,7 +43355,7 @@ window.allHeroes =
         "effects": [
             "Deals 300% damage to all enemies.",
             "The caster gets additional +100% power for the next Special Skill they cast. The additional power increases +25% each turn, up to a maximum of +200% in total.",
-            "All enemies receive Mana Corruption for 4 turns. Each time an afflicted enemy receives mana from an additional source, they receive 400 damage. Additional sources include direct mana addition from Special Skills, status effects, level properties, passive skills, family effects, tile effects and Minions. Mana added for defense team at the end of their turn or from matching tiles is included only if the target has a mana generation bufff or a posive mana generation stack."
+            "All enemies receive [#!]Mana[#] Corruption for 4 turns. Each time an afflicted enemy receives mana from an additional source, they receive 400 damage. Additional sources include direct mana addition from Special Skills, status effects, level properties, passive skills, family effects, tile effects and Minions. [#!]Mana[#] added for defense team at the end of their turn or from matching tiles is included only if the target has a mana generation bufff or a posive mana generation stack."
         ],
         "passives": [
             "Health Recovery on Buff Received: This character recovers 5% health when they receive a buff or a positive stack."
@@ -43509,7 +43509,7 @@ window.allHeroes =
             "Deals 190% damage to a random enemy at the end of each turn for as long as the caster has boosted health. This effect can't be dispelled."
         ],
         "passives": [
-            "Resist Mana Ailments: This character is immune to status ailments and negative stacks that affect mana generation. Applies also to status ailments that block mana or steal mana.",
+            "Resist [#!]Mana[#] Ailments: This character is immune to status ailments and negative stacks that affect mana generation. Applies also to status ailments that block mana or steal mana.",
             "Perfect Accuracy: This character’s Special Skill never misses its targets."
         ],
         "family": "astral_demons",
@@ -44444,7 +44444,7 @@ window.allHeroes =
         "passives": [
             "Effects on Special Skill: 50% chance to perform the following actions when this character casts their Special Skill: * Deals 70% damage to all enemies. * Dispells the latest dispellable buff from all enemies.",
             "Extra Chance for Effects On Special Skill: When this character casts their Special Skill, any of their Passive Skills that grant extra effects on cast have 3 chances to activate.",
-            "Mana on Status Ailment Received: This character gains 5% mana when they receive a status ailment or negative stack."
+            "[#!]Mana[#] on Status Ailment Received: This character gains 5% mana when they receive a status ailment or negative stack."
         ],
         "family": "moon",
         "costume_id": 1,
@@ -45501,13 +45501,13 @@ window.allHeroes =
         "health": 702,
         "effects": [
             "Special Skill has a different effect when charged with 100%/200%/300% mana:",
-            "x1 Mana Charge:",
+            "x1 [#!]Mana[#] Charge:",
             " - All enemies receive 64 [##elementpurple]Poison damage[#] over 2 turns.",
             " - All enemies get -40% accuracy for 2 turns. Chance to miss also applies to offensive Special Skills.",
-            "x2 Mana Charge:",
+            "x2 [#!]Mana[#] Charge:",
             " - All enemies receive 196 [##elementpurple]Poison damage[#] over 4 turns.",
             " - All enemies get -40% accuracy for 4 turns. Chance to miss also applies to offensive Special Skills.",
-            "x3 Mana Charge:",
+            "x3 [#!]Mana[#] Charge:",
             " - All enemies receive 354 [##elementpurple]Poison damage[#] over 6 turns.",
             " - All enemies get -40% accuracy for 6 turns. Chance to miss also applies to offensive Special Skills."
         ],
@@ -46760,7 +46760,7 @@ window.allHeroes =
             " * The Source of Ailments will activate 3 times. Each attempt to dispel it removes one activation."
         ],
         "passives": [
-            "Empowered Resist Mana Reductions: This character has innate resistance against mana reduction. They also gain 600 boosted health and 10% mana each time they resist.",
+            "Empowered Resist [#!]Mana[#] Reductions: This character has innate resistance against mana reduction. They also gain 600 boosted health and 10% mana each time they resist.",
             "Perfect Accuracy: This character’s Special Skill never mises its target."
         ],
         "family": "beowulf",
@@ -46964,7 +46964,7 @@ window.allHeroes =
             " * Deals 70% damage to all enemies.",
             " * Dispels the latest dispellable buff from enemies.",
             "Extra Chance for Effects On Special Skill: When this character casts their Special Skill, any of their Passive Skills that grant extra effects on cast have 3 chances to activate.",
-            "Mana on Status Ailment Received: This character gains 5% mana each time they receive a status ailment or negative stack."
+            "[#!]Mana[#] on Status Ailment Received: This character gains 5% mana each time they receive a status ailment or negative stack."
         ],
         "family": "moon",
         "costume_id": 1,
@@ -47149,13 +47149,13 @@ window.allHeroes =
         "defense": 561,
         "health": 1268,
         "effects": [
-            "1x Mana Charge",
+            "1x [#!]Mana[#] Charge",
             "* Dispels buffs from the target",
             "* Deals 220% damage to the target",
-            "2x Mana Charge",
+            "2x [#!]Mana[#] Charge",
             "* Dispels buffs from the target and nearby enemies",
             "* Deals 255% damage to the target and nearby enemies",
-            "3x Mana Charge",
+            "3x [#!]Mana[#] Charge",
             "* Dispels buffs from all enemies",
             "* Deals 300% damage to all enemies"
         ],
@@ -47368,13 +47368,13 @@ window.allHeroes =
         "health": 1357,
         "effects": [
             "Special Skill has a different effect when charged with 100% / 200% / 300% mana:",
-            "1x Mana Charge:",
+            "1x [#!]Mana[#] Charge:",
             "* Deals 165% damages to the target and nearby enemies.",
             "* The caster and nearby allies get +30% attack for 3 turns.",
-            "2x Mana Charge:",
+            "2x [#!]Mana[#] Charge:",
             "* Deals 215% damages to the target and nearby enemies.",
             "* The target and nearby enemies get -34% defense for 3 turns.",
-            "3x Mana Charge:",
+            "3x [#!]Mana[#] Charge:",
             "* Deals 365% damages to the target and nearby enemies.",
             "* The caster and nearby allies get +50% attack for 3 turns.",
             "* The target and nearby enemies get -44% defense for 3 turns."
@@ -48526,7 +48526,7 @@ window.allHeroes =
             "The target and nearby enemies receive 900 [##elementpurple]Poison damage[#] over 5 turns. The caster and all allies absorb 35% of the dealt [##elementpurple]Poison damage[#] as health."
         ],
         "passives": [
-            "Reduce Mana Gain from Special Skills: Reduces the amount of mana increased by Special Skill by -80%. The effect applies to all enemies in the battle."
+            "Reduce [#!]Mana[#] Gain from Special Skills: Reduces the amount of mana increased by Special Skill by -80%. The effect applies to all enemies in the battle."
         ],
         "family": "owl",
         "costume_id": 0,
@@ -49728,9 +49728,9 @@ window.allHeroes =
         "health": 1351,
         "effects": [
             "Special Skill has a different effect when charged with 100%/200% mana:",
-            "1x Mana Charge:",
+            "1x [#!]Mana[#] Charge:",
             " * All enemies get -54% defense against [##elementpurple]Dark[#] for 3 turns.",
-            "2x Mana Charge:",
+            "2x [#!]Mana[#] Charge:",
             " * All allies get +100% normal attack for 5 turns. This effect can be active in addition to effects that alter attack in general. Normal attacks can have a total maximum of +160% increase power while this effect is active."
         ],
         "passives": [
@@ -50811,7 +50811,7 @@ window.allHeroes =
             "Transform Buffs: Each time this character casts their Special Skill, all dispellable buffs affecting attack, defense and mana generation on all enemies are transformed into matching undispellable status ailments. Transformed effects:",
             " * Attack buffs are transformed into -40% attack status ailments for 3 turns.",
             " * Defense buffs are transformed into -40% defense status ailments for 3 turns.",
-            " * Mana generation buffs are transformed into -40% mana generation status ailments for 3 turns.",
+            " * [#!]Mana generation[#] buffs are transformed into -40% mana generation status ailments for 3 turns.",
             "Flight Momentum: If this character has any amount of Flight Momentum, they receive:",
             " * Up to +35% mana generation.",
             " * Up to +25% extra chance to dodge.",
@@ -50893,11 +50893,11 @@ window.allHeroes =
         "health": 1454,
         "effects": [
             "Special Skill has a different effect when charged with 100%/200% mana:",
-            "1x Mana Charge:",
+            "1x [#!]Mana[#] Charge:",
             " * All enemies get -20% attack for 3 turns.",
             " * All enemies get -20% defense for 3 turns.",
             " * All enemies receive 159 [##elementpurple]Poison damage[#] over 3 turns.",
-            "2x Mana Charge:",
+            "2x [#!]Mana[#] Charge:",
             " * All allies get +45% attack, and a further 20% increase every time they are hit during 6 turns.",
             " * All allies get +54% defense, and a further 5% increase every time they are hit during 6 turns.",
             " * All allies regenerate 1428 HP over 6 turns."
@@ -50985,11 +50985,11 @@ window.allHeroes =
         "health": 2279,
         "effects": [
             "Special Skill has a different effect when charged with 100%/200% mana:",
-            "1x Mana Charge:",
+            "1x [#!]Mana[#] Charge:",
             " * All enemies get -27% attack for 3 turns.",
             " * All enemies get -27% defense for 3 turns.",
             " * All enemies receive 342 [##elementpurple]Poison damage[#] over 3 turns. The caster absorbs 10% of dealt [##elementpurple]Poison damage[#] as health.",
-            "2x Mana Charge:",
+            "2x [#!]Mana[#] Charge:",
             " * All allies get +50% attack, and a further 20% increase every time they are hit during 6 turns, up to +150% attack.",
             " * All allies get +59% defense, and a further 5% increase every time they are hit during 6 turns, up to +84% defense.",
             " * All allies regenerate 1500 boosted health over 6 turns. Boosted health can exceed max HP."
@@ -51274,15 +51274,15 @@ window.allHeroes =
         "health": 1518,
         "effects": [
             "Special Skill has a different effect when charged with 100%/200%/300% mana:",
-            "x1 Mana Charge:",
+            "x1 [#!]Mana[#] Charge:",
             " - Deals 200% damage to all enemies.",
             " - Summons a Ninja Assassin Fiend for all enemies. The Fiend damages its target with 59% attack each turn.",
             " - The Ninja Assassin Fiend absorbs healing. It disappears after absorbing a healing amount equal to 32% of its target’s max health.",
-            "x2 Mana Charge:",
+            "x2 [#!]Mana[#] Charge:",
             " - Deals 275% damage to all enemies.",
             " - Summons a Ninja Assassin Fiend for all enemies. The Fiend damages its target with 75% attack each turn.",
             " - The Ninja Assassin Fiend absorbs healing. It disappears after absorbing a healing amount equal to 50% of its target’s max health.",
-            "x3 Mana Charge:",
+            "x3 [#!]Mana[#] Charge:",
             " - Deals 355% damage to all enemies.",
             " - Summons a Ninja Assassin Fiend for all enemies. The Fiend damages its target with 84% attack each turn.",
             " - The Ninja Assassin Fiend absorbs healing. It disappears after absorbing a healing amount equal to 54% of its target’s max health."
@@ -51509,7 +51509,7 @@ window.allHeroes =
             " * Deals 70% damage to all enemies.",
             " * Dispells the latest dispellable buff from all enemies.",
             "Guaranteed Effect on Special Skill: When this character casts their Special Skill, any of their Passive Skills that grant extra effects on cast are guaranteed to activate.",
-            "Mana on Status Ailment Received: This character gains 5% mana when they receive a status ailment or negative stack."
+            "[#!]Mana[#] on Status Ailment Received: This character gains 5% mana when they receive a status ailment or negative stack."
         ],
         "family": "moon",
         "costume_id": 1,
@@ -51725,7 +51725,7 @@ window.allHeroes =
             "Element Link gives all [##elementpurple]Dark[#] allies +10% defense for 4 turns. This effect can’t be dispelled."
         ],
         "passives": [
-            "Status Effect on Mana Reduction: This character gets +30% attack for 3 turns when their mana reduced.",
+            "Status Effect on [#!]Mana[#] Reduction: This character gets +30% attack for 3 turns when their mana reduced.",
             "Resist Health Steal Ailments: This hero has innate resistance against status ailments that steal health."
         ],
         "family": "hotm2022",
@@ -52034,7 +52034,7 @@ window.allHeroes =
             " * Deals 70% damage to all enemies.",
             " * Dispells the latest dispellable buff from all enemies.",
             "Extra Chance for Effects On Special Skill: When this character casts their Special Skill, any of their Passive Skills that grant extra effects on cast have 3 chances to activate.",
-            "Mana on Status Ailment Received: This character gains 5% mana when they receive a status ailment or negative stack."
+            "[#!]Mana[#] on Status Ailment Received: This character gains 5% mana when they receive a status ailment or negative stack."
         ],
         "family": "moon",
         "costume_id": 1,
@@ -52102,10 +52102,10 @@ window.allHeroes =
         "health": 1602,
         "effects": [
             "Special Skill has a different effect when charged with 100%/200% mana:",
-            "1x Mana Charge:",
+            "1x [#!]Mana[#] Charge:",
             " * Deals 350% damage to the target.",
             " * Each time the target activate their Special Skill during 3 turns mana of all other enemies is reduced by -15%.",
-            "2x Mana Charge:",
+            "2x [#!]Mana[#] Charge:",
             " * Increase the mana of all allies by 10%.",
             " * For the next 5 turns, this character deals 250% damage to all enemies each time any other ally casts their Special Skill. (Each character can trigger this effect once per turn.)"
         ],
@@ -52193,10 +52193,10 @@ window.allHeroes =
         "health": 2288,
         "effects": [
             "Special Skill has a different effect when charged with 100%/200% mana:",
-            "1x Mana Charge:",
+            "1x [#!]Mana[#] Charge:",
             " * Deals 430% damage to the target.",
             " * Each time the target activate their Special Skill during 3 turns mana of all other enemies is reduced by -15%.",
-            "2x Mana Charge:",
+            "2x [#!]Mana[#] Charge:",
             " * The caster and nearby allies get +45% defense against [##elementyellow]Holy[#] for 5 turns.",
             " * Increase the mana of all allies by 10%.",
             " * For the next 5 turns, this character deals 265% damage to all enemies each time any other ally casts their Special Skill. (Each character can trigger this effect once per turn.)"
@@ -52283,7 +52283,7 @@ window.allHeroes =
             "All allies are immune to buff dispels and reallocations for 4 turns. The immunity also includes this effect itself."
         ],
         "passives": [
-            "Mana increase reduction: Reduces the amount of mana increased by Special Skill by -80%. The effect applies to all enemies in the battle."
+            "[#!]Mana[#] increase reduction: Reduces the amount of mana increased by Special Skill by -80%. The effect applies to all enemies in the battle."
         ],
         "family": "bard",
         "costume_id": 0,
@@ -52696,7 +52696,7 @@ window.allHeroes =
             "Can recast up to 3 times and chance to recast is reduced by -35% after every successful cast."
         ],
         "passives": [
-            "Reduce Mana Gain from Special Skills: Reduces the amount of mana increased by Special Skill by -80%. The effect applies to all enemies in the battle."
+            "Reduce [#!]Mana[#] Gain from Special Skills: Reduces the amount of mana increased by Special Skill by -80%. The effect applies to all enemies in the battle."
         ],
         "family": "owl",
         "costume_id": 0,
@@ -52771,8 +52771,8 @@ window.allHeroes =
             "Element Link gives +10% increase for any healing received for all [##elementpurple]Dark[#] allies for 4 turns. This effect can't be dispelled."
         ],
         "passives": [
-            "Resist Mana reduction: This character has an innate resistance against mana Reduction.",
-            "Mana Buff on Status Ailment Received: Receives +24% mana generation for 3 turns when this character receives a status ailment or a negative stack."
+            "Resist [#!]Mana[#] reduction: This character has an innate resistance against mana Reduction.",
+            "[#!]Mana[#] Buff on Status Ailment Received: Receives +24% mana generation for 3 turns when this character receives a status ailment or a negative stack."
         ],
         "family": "hotm2021",
         "costume_id": 0,
@@ -52923,12 +52923,12 @@ window.allHeroes =
         "health": 1678,
         "effects": [
             "Special Skill has a different effect when charged with 100% / 200% / 300% mana:",
-            "1x Mana Charge:",
+            "1x [#!]Mana[#] Charge:",
             "* Boosts health of all allies by 450. Boosted health can exceed max HP.",
-            "2x Mana Charge:",
+            "2x [#!]Mana[#] Charge:",
             "* Each fallen ally has 50% chance to get revived with 10% HP.",
             "* All allies regenerate 609 HP over 3 turns.",
-            "3x Mana Charge:",
+            "3x [#!]Mana[#] Charge:",
             "* Boosts health of all allies by 700. Boosted health can exceed max HP.",
             "* Each fallen ally has 65% chance to get revived with 27% HP.",
             "* All allies regenerate 952 HP over 4 turns."
@@ -55291,8 +55291,8 @@ window.allHeroes =
             "The Source of Ailments will activate 6 times. Each attempt to dispel it removes one activation."
         ],
         "passives": [
-            "Mana of Buff Received: This character gains 5% mana when they receive a buff or possive stack.",
-            "Empowered Resist Mana Reductions: This character has innate resistance against mana reduction. They also gain 600 boosted health and 10% mana each time they resist.",
+            "[#!]Mana[#] of Buff Received: This character gains 5% mana when they receive a buff or possive stack.",
+            "Empowered Resist [#!]Mana[#] Reductions: This character has innate resistance against mana reduction. They also gain 600 boosted health and 10% mana each time they resist.",
             "Stacking Attack On Damage Received: When this character receives damage from Special Skills, they gain +30% attack Stack (Max: 10). One Stack can be gained per turn."
         ],
         "family": "beowulf",
@@ -55782,7 +55782,7 @@ window.allHeroes =
             "The Golden Idol Fiend gives -20% attack for its owner as long as the owner has Golden Idol Fiends. This effect cannot be cleansed."
         ],
         "passives": [
-            "Start Battle with Mana: This character receives 20% mana at the start of the battle."
+            "Start Battle with [#!]Mana[#]: This character receives 20% mana at the start of the battle."
         ],
         "family": "abyss",
         "costume_id": 0,
@@ -55857,7 +55857,7 @@ window.allHeroes =
             "When summoned, the Golden Idol Fiend gives -20% attack for its owner for as long as the owner has Golden Idol Fiends. This effect can’t be cleansed."
         ],
         "passives": [
-            "Start Battle With Mana: This Hero receives 20% mana at the start of the battle.",
+            "Start Battle With [#!]Mana[#]: This Hero receives 20% mana at the start of the battle.",
             "Increased Damage Against Boosted Health: After this character casts their Special Skill, all allies deal +70% increased normal attacks and Special Skills damage against targets with boosted health for 4 turns."
         ],
         "family": "abyss",
@@ -56731,10 +56731,10 @@ window.allHeroes =
         "health": 1668,
         "effects": [
             "Special Skill has a different effect when charged with 100%/200% mana:",
-            "1x Mana Charge:",
+            "1x [#!]Mana[#] Charge:",
             " * Deals 290% damage to the target.",
             " * The target receives 588 Poision damage over 3 turns. The caster absorbs 100% of the dealt [##elementpurple]Poison damage[#] as heath.",
-            "2x Mana Charge:",
+            "2x [#!]Mana[#] Charge:",
             " * Deals 300% damage to all enemies.",
             " * All enemies receives 730 Poision damage over 5 turns. The caster and all their allies absorb 30% of the dealt [##elementpurple]Poison damage[#] as health."
         ],
@@ -58277,7 +58277,7 @@ window.allHeroes =
             "Transform Buffs: Each time this character casts their Special Skill, all dispellable buffs affecting attack, defense and mana generation on all enemies are transformed into matching undispellable status ailments. Transformed effects:",
             " * Attack buffs are transformed into -40% attack status ailments for 3 turns.",
             " * Defense buffs are transformed into -40% defense status ailments for 3 turns.",
-            " * Mana generation buffs are transformed into -40% mana generation status ailments for 3 turns.",
+            " * [#!]Mana generation[#] buffs are transformed into -40% mana generation status ailments for 3 turns.",
             "Flight Momentum: If this character has any amount of Flight Momentum, they receive:",
             " * Up to +35% mana generation.",
             " * Up to +25% extra chance to dodge.",
@@ -58926,7 +58926,7 @@ window.allHeroes =
             "The Shield Guard Mega Minion safely cleanses the latest cleansable status ailment from all allies each turn. (Safe cleanse bypasses secondary effect, such as damage on removal, from the removed status ailment. External effects such as passive skills and family effects can still activate.)"
         ],
         "passives": [
-            "Resist Mana reduction: This character has an innate resistance against mana Reduction.",
+            "Resist [#!]Mana[#] reduction: This character has an innate resistance against mana Reduction.",
             "Guard Rally: Every 4 turns, removes all [#!]Wither[#] effects from all allies."
         ],
         "family": "garrison",
@@ -59011,7 +59011,7 @@ window.allHeroes =
         ],
         "passives": [
             "Resist Health Steal Ailments: This character has innate resistance against status ailments that steal health.",
-            "Status Effect on Mana Reduction: This character gets +94% defense against [##elementyellow]Holy[#] for 3 turns when their mana is reduced."
+            "Status Effect on [#!]Mana[#] Reduction: This character gets +94% defense against [##elementyellow]Holy[#] for 3 turns when their mana is reduced."
         ],
         "family": "hotm2021",
         "costume_id": 0,
@@ -59761,8 +59761,8 @@ window.allHeroes =
             "Element Link gives all [##elementpurple]Dark[#] allies immunity to new Fiends for 4 turns. This effect cannot be dispelled"
         ],
         "passives": [
-            "Resist Mana Generation Ailments: This character has innate resistance against status ailments and negative stacks that affect mana generation. Doesn’t apply to status ailments that stop mana generation or steal mana.",
-            "Mana on Health Boosting Special Skill: This character gains 5% mana each time an enemy casts a Special Skill that directly boosts health."
+            "Resist [#!]Mana[#] Generation Ailments: This character has innate resistance against status ailments and negative stacks that affect mana generation. Doesn’t apply to status ailments that stop mana generation or steal mana.",
+            "[#!]Mana[#] on Health Boosting Special Skill: This character gains 5% mana each time an enemy casts a Special Skill that directly boosts health."
         ],
         "family": "hotm2022",
         "costume_id": 0,
@@ -60044,7 +60044,7 @@ window.allHeroes =
             "All enemies get -34% attack for 3 turns."
         ],
         "passives": [
-            "Mana increase reduction: Reduces the amount of mana increased by Special Skill by -80%. The effect applies to all enemies in the battle."
+            "[#!]Mana[#] increase reduction: Reduces the amount of mana increased by Special Skill by -80%. The effect applies to all enemies in the battle."
         ],
         "family": "bard",
         "costume_id": 0,
@@ -60112,13 +60112,13 @@ window.allHeroes =
         "health": 1514,
         "effects": [
             "Special Skill has a different effect when charged with 100% / 200% / 300% mana:",
-            "1x Mana Charge:",
+            "1x [#!]Mana[#] Charge:",
             " * Deals 220% damage to all enemies.",
             " * All allies get +30% attack for 3 turns.",
-            "2x Mana Charge:",
+            "2x [#!]Mana[#] Charge:",
             " * Deals 360% damage to all enemies.",
             " * All enemies get -34% defense for 3 turns.",
-            "3x Mana Charge:",
+            "3x [#!]Mana[#] Charge:",
             " * Deals 395% damage to all enemies.",
             " * All allies get +50% attack for 4 turns.",
             " * All enemies get -44% defense for 4 turns."
@@ -60604,7 +60604,7 @@ window.allHeroes =
             "All allies get 5% mana for each destroyed Fiend."
         ],
         "passives": [
-            "Reduce Mana Gain from Special Skills: Reduces the amount of mana increased by Special Skill by -80%. The effect applies to all enemies in the battle."
+            "Reduce [#!]Mana[#] Gain from Special Skills: Reduces the amount of mana increased by Special Skill by -80%. The effect applies to all enemies in the battle."
         ],
         "family": "owl",
         "costume_id": 0,
@@ -60673,15 +60673,15 @@ window.allHeroes =
         "defense": 706,
         "health": 1392,
         "effects": [
-            "1x Mana Charge",
+            "1x [#!]Mana[#] Charge",
             "* Deals 300% damage to the target.",
             "* The target is immune to new status effects buffs for 3 turns.",
             "* Dispels buffs from the target.",
-            "2x Mana Charge",
+            "2x [#!]Mana[#] Charge",
             "* Deals 340% damage to the target and nearby enemies.",
             "* The target and nearby enemies are immune to new status effects buffs for 4 turns.",
             "* Dispels buffs from the target and nearby enemies.",
-            "3x Mana Charge",
+            "3x [#!]Mana[#] Charge",
             "* Deals 380% damage to all enemies.",
             "* All enemies are immune to new status effects buffs for 5 turns.",
             "* Dispels buffs from all enemies."
@@ -60760,7 +60760,7 @@ window.allHeroes =
             "The target and nearby enemies deal 450 damage to a random ally if they miss Special Skill during 4 turns."
         ],
         "passives": [
-            "Resist Mana Ailments: This character is immune to status ailments and negative stacks that affect mana generation. Applies also to status ailments that block mana or steal mana.",
+            "Resist [#!]Mana[#] Ailments: This character is immune to status ailments and negative stacks that affect mana generation. Applies also to status ailments that block mana or steal mana.",
             "Perfect Accuracy: This character’s Special Skill never misses its targets."
         ],
         "family": "astral_demons",
@@ -61283,15 +61283,15 @@ window.allHeroes =
         "health": 1526,
         "effects": [
             "Special Skill has a different effect when charged with 100%/200%/300% mana:",
-            "1x Mana Charge:",
+            "1x [#!]Mana[#] Charge:",
             " - All allies regenerate 204 HP over 2 turns.",
             " - All allies get +34% attack for 2 turns.",
             " - Cleanses status ailments from all allies.",
-            "2x Mana Charge:",
+            "2x [#!]Mana[#] Charge:",
             " - All allies regenerate 624 HP over 3 turns.",
             " - All allies get +44% attack for 3 turns.",
             " - Cleanses status ailments from all allies.",
-            "3x Mana Charge:",
+            "3x [#!]Mana[#] Charge:",
             " - All allies regenerate 940 HP over 4 turns. This effect can't be dispelled.",
             " - All allies get +54% attack for 4 turns.",
             " - Cleanses status ailments from all allies."
@@ -61667,9 +61667,9 @@ window.allHeroes =
             "The healing absorbed is transferred to the summoner and their allies and distributed evenly. (Ignores heal steal, healing modifers and fiends)"
         ],
         "passives": [
-            "Mana Buff on Status Ailment Received: Receives +24% mana generation for 3 turns when this character receives a status ailment or a negative stack.",
+            "[#!]Mana[#] Buff on Status Ailment Received: Receives +24% mana generation for 3 turns when this character receives a status ailment or a negative stack.",
             "Health Boost on Fiend Summon: When a Fiend is summoned to any enemy, this character gets 300 boosted health. This effect can activate only once per turn.",
-            "Mana on Fiend Summon: When a Fiend is summoned to any enemy, this character gains 5% mana. This effect can activate only once per turn."
+            "[#!]Mana[#] on Fiend Summon: When a Fiend is summoned to any enemy, this character gains 5% mana. This effect can activate only once per turn."
         ],
         "family": "champions",
         "costume_id": 0,
@@ -62439,17 +62439,17 @@ window.allHeroes =
         "defense": 1236,
         "health": 1833,
         "effects": [
-            "1x Mana Charge",
+            "1x [#!]Mana[#] Charge",
             "* Deals 400% damage to the target.",
             "* The caster goes into hiding for 2 turns.",
             "* While hidden, the caster can’t receive new status effects or stacks, and all received damage is reduced by -30%.",
             "* When the caster comes out of hiding, they deal 330 damage to all enemies who used Special Skills while the caster was hiding.",
-            "2x Mana Charge",
+            "2x [#!]Mana[#] Charge",
             "* Deals 425% damage to the target and nearby enemies.",
             "* The caster goes into hiding for 2 turns.",
             "* While hidden, the caster can’t receive new status effects or stacks, and all received damage is reduced by -60%.",
             "* When the caster comes out of hiding, they deal 449 damage to all enemies who used Special Skills while the caster was hiding.",
-            "3x Mana Charge",
+            "3x [#!]Mana[#] Charge",
             "* Deals 450% damage to all enemies.",
             "* The caster goes into hiding for 2 turns.",
             "* While hidden, the caster can’t receive new status effects or stacks, and all received damage is reduced by -80%.",
@@ -63290,8 +63290,8 @@ window.allHeroes =
             "Element Link gives all [##elementpurple]Dark[#] allies +5% dodge chance for 6 turns. This effect cannot be dispelled."
         ],
         "passives": [
-            "Resist Mana Generation Ailments: This character has innate resistance against ailments and negative stacks that affect mana generation. Doesn’t apply to status ailments that stop mana generation or steal mana.",
-            "Mana on Health Recovery: This character receives 5% mana each time its health is recovered."
+            "Resist [#!]Mana[#] Generation Ailments: This character has innate resistance against ailments and negative stacks that affect mana generation. Doesn’t apply to status ailments that stop mana generation or steal mana.",
+            "[#!]Mana[#] on Health Recovery: This character receives 5% mana each time its health is recovered."
         ],
         "family": "hotm2024",
         "costume_id": 0,
@@ -63501,7 +63501,7 @@ window.allHeroes =
             " * Deals 70% damage to all enemies.",
             " * Dispels the latest dispellable buff from all enemies.",
             "Extra Chance for Effects On Special Skill: When this character casts their Special Skill, any of their Passive Skills that grant extra effects on cast have 3 chances to activate.",
-            "Mana on Status Ailment Received: This character gains 5% mana when they receive a status ailment or negative stack."
+            "[#!]Mana[#] on Status Ailment Received: This character gains 5% mana when they receive a status ailment or negative stack."
         ],
         "family": "moon",
         "costume_id": 1,
@@ -63653,7 +63653,7 @@ window.allHeroes =
         ],
         "passives": [
             "Resist Insanity: This character has innate resistance against Insanity.",
-            "Mana on Status Ailment Received: This character gains 5% mana when they receive a status ailment or a negative stacks.",
+            "[#!]Mana[#] on Status Ailment Received: This character gains 5% mana when they receive a status ailment or a negative stacks.",
             "Resist Attack Reduction: This character has innate resistance against status ailments, stacks and [#!]Wither[#] effects that affect attack."
         ],
         "family": "faun",
@@ -64085,15 +64085,15 @@ window.allHeroes =
         "health": 1648,
         "effects": [
             "Special Skill has a different effect when charged with 100%/200%/300% mana:",
-            "x1 Mana Charge:",
+            "x1 [#!]Mana[#] Charge:",
             " - Deals 400% damage to the target.",
             " - Deals additional 35% damage for each Minion or Mega Minion owned by the enemies up to 750% damage in total.",
             " - The attack bypasses defensive buffs. (This include counterattacks)",
-            "x2 Mana Charge:",
+            "x2 [#!]Mana[#] Charge:",
             " - Deals 425% damage to the target and nearby enemies.",
             " - Deals additional 35% damage for each Minion or Mega Minion owned by the enemies up to 775% damage in total.",
             " - The attack bypasses defensive buffs. (This include counterattacks)",
-            "x3 Mana Charge:",
+            "x3 [#!]Mana[#] Charge:",
             " - Deals 450% damage to all enemies.",
             " - Deals additional 35% damage for each Minion or Mega Minion owned by the enemies up to 800% damage in total.",
             " - The attack bypasses defensive buffs. (This include counterattacks)"
@@ -64535,15 +64535,15 @@ window.allHeroes =
         "health": 1689,
         "effects": [
             "Special Skill has a different effect when charged with 100%/200%/300% mana:",
-            "x1 Mana Charge:",
+            "x1 [#!]Mana[#] Charge:",
             " - Dispels buffs from the target.",
             " - The target receives 780 [##elementpurple]Poison damage[#] over 2 turns.",
             " - The target gets -80% decrease of any healing received for 2 turns.",
-            "x2 Mana Charge:",
+            "x2 [#!]Mana[#] Charge:",
             " - Dispels buffs from the target and nearby enemies.",
             " - The target and nearby enemies receive 1608 [##elementpurple]Poison damage[#] over 4 turns.",
             " - The target and nearby enemies get -85% decrease of any healing received for 4 turns.",
-            "x3 Mana Charge:",
+            "x3 [#!]Mana[#] Charge:",
             " - Dispels buffs from all enemies.",
             " - All enemies receive 2412 [##elementpurple]Poison damage[#] over 6 turns.",
             " - The target gets -90% decrease of any healing received for 6 turns."
@@ -64766,7 +64766,7 @@ window.allHeroes =
             "Element Link gives +10% mana generation for all [##elementpurple]Dark[#] allies for 4 turns.  This effect cannot be dispelled."
         ],
         "passives": [
-            "Mana Generation Stopping: This character has innate resistance against status ailments that stop mana generation.",
+            "[#!]Mana[#] Generation Stopping: This character has innate resistance against status ailments that stop mana generation.",
             "Resist Poison: This character has innate resistance against Poison."
         ],
         "family": "hotm2023",
@@ -65208,7 +65208,7 @@ window.allHeroes =
             "The target hit by the Sword Guard Mega Minion receives 447 [##elementred]Bleed damage[#] over 3 turns. This effect spreads to nearby enemies."
         ],
         "passives": [
-            "Resist Mana reduction: This character has an innate resistance against mana Reduction.",
+            "Resist [#!]Mana[#] reduction: This character has an innate resistance against mana Reduction.",
             "Guard Rally: Every 4 turns, removes all [#!]Wither[#] effects from all allies."
         ],
         "family": "garrison",
@@ -65579,7 +65579,7 @@ window.allHeroes =
             "Target and nearby enemies receive 936 [##elementpurple]Poison damage[#] over 3 turns. This effect can’t be cleansed."
         ],
         "passives": [
-            "Mana on Buff Received: This character has a 50% chance to gain 10% mana when they receive a buff or possitive stack.",
+            "[#!]Mana[#] on Buff Received: This character has a 50% chance to gain 10% mana when they receive a buff or possitive stack.",
             "Health Recovery on Buff Received: This character has a 50% chance to recover 10% health when they receive a buff or possitve stack."
         ],
         "family": "journey",
@@ -66963,14 +66963,14 @@ window.allHeroes =
         "health": 709,
         "effects": [
             "Special Skill has a different effect when charged with 100% / 200% / 300% mana:",
-            "1x Mana Charge:",
+            "1x [#!]Mana[#] Charge:",
             "* Deals 105% damage to all enemies.",
             "* The attack bypasses defensive buffs. This includes counterattacks.",
-            "2x Mana Charge:",
+            "2x [#!]Mana[#] Charge:",
             "* Deals 125% damage to all enemies.",
             "* The attack bypasses defensive buffs. This includes counterattacks.",
             "* All enemies receive 120 [##elementred]Burn damage[#] over 3 turns.",
-            "3x Mana Charge:",
+            "3x [#!]Mana[#] Charge:",
             "* Deals 205% damage to all enemies.",
             "* The attack bypasses defensive buffs. This includes counterattacks.",
             "* All enemies receive 160 [##elementred]Burn damage[#] over 4 turns."
@@ -67877,9 +67877,9 @@ window.allHeroes =
         "health": 802,
         "effects": [
             "Special Skill has a different effect when charged with 100%/200% mana:",
-            "1x Mana Charge:",
+            "1x [#!]Mana[#] Charge:",
             " * The caster and nearby allies get +45% attack, and a further 20% increase every time they are hit during 3 turns.",
-            "2x Mana Charge:",
+            "2x [#!]Mana[#] Charge:",
             " * The target and nearby enemies get -44% defense, and a further -4% decrease every time they are hit during 6 turns."
         ],
         "passives": [
@@ -68989,7 +68989,7 @@ window.allHeroes =
             "The Worm Fiend absorbs healing and disappears when it has absorbed health equal to 16% of the targets max health"
         ],
         "passives": [
-            "Start Battle with Mana: This character receives 20% mana at the start of the battle."
+            "Start Battle with [#!]Mana[#]: This character receives 20% mana at the start of the battle."
         ],
         "family": "abyss",
         "costume_id": 0,
@@ -69047,7 +69047,7 @@ window.allHeroes =
             "The fiend absorbs healing. It disappears after absorbing a healing equal to 20% of the target’s max health."
         ],
         "passives": [
-            "Start Battle with Mana: This character receives 20% mana at the start of the battle."
+            "Start Battle with [#!]Mana[#]: This character receives 20% mana at the start of the battle."
         ],
         "family": "abyss",
         "costume_id": 1,
@@ -69178,7 +69178,7 @@ window.allHeroes =
             " * Deals 70% damage to all enemies.",
             " * All enemies get -34% attack for 3 turns.",
             "Extra Chance for Effects on Special Skill: When this character casts their Special Skill, any of their Passive Skills that grant extra effects on cast have 3 chances to activate.",
-            "Mana on Health Boosting Special Skill: This character gains 5% mana each time an enemy casts a Special Skill that directly boosts health."
+            "[#!]Mana[#] on Health Boosting Special Skill: This character gains 5% mana each time an enemy casts a Special Skill that directly boosts health."
         ],
         "family": "sun",
         "costume_id": 1,
@@ -71323,10 +71323,10 @@ window.allHeroes =
         "health": 1300,
         "effects": [
             "Special Skill has a different effect when charged with 100%/200% mana:",
-            "1x Mana Charge:",
+            "1x [#!]Mana[#] Charge:",
             " * Deals 180% damage to the target.",
             " * Each time the target activates their Special Skill during 3 turns, mana of all other enemies is reduced by -8%.",
-            "2x Mana Charge:",
+            "2x [#!]Mana[#] Charge:",
             " * All allies get +24% mana generation for 5 turns.",
             " * For the next 5 turns, this character deals 115% damage to all enemies each time any other ally casts their Special Skill. Damage is dealt on the first Special Skill cast of each character per turn."
         ],
@@ -71527,7 +71527,7 @@ window.allHeroes =
             "Hit enemies receive Resonance for 3 turns. Resonance deals 125 damage each turn. Resonance deals additional damage that reverberates to 3 random enemies. (Damage can't reverberate on the same target twice in a row. Reverberating damage is reduced after each hit.)"
         ],
         "passives": [
-            "Resist Mana Ailments: This character is immune to status ailments and negative stacks that affect mana generation. Applies also to status ailments that block mana or steal mana.",
+            "Resist [#!]Mana[#] Ailments: This character is immune to status ailments and negative stacks that affect mana generation. Applies also to status ailments that block mana or steal mana.",
             "Perfect Accuracy: This character’s Special Skill never misses its targets."
         ],
         "family": "astral_demons",
@@ -71668,7 +71668,7 @@ window.allHeroes =
             "Transform Buffs: Each time this character casts their Special Skill, all dispellable buffs affecting attack, defense and mana generation on all enemies are transformed into matching undispellable status ailments. Transformed effects:",
             " * Attack buffs are transformed into -40% attack status ailments for 3 turns.",
             " * Defense buffs are transformed into -40% defense status ailments for 3 turns.",
-            " * Mana generation buffs are transformed into -40% mana generation status ailments for 3 turns.",
+            " * [#!]Mana generation[#] buffs are transformed into -40% mana generation status ailments for 3 turns.",
             "Flight Momentum: If this character has any amount of Flight Momentum, they receive:",
             " * Up to +35% mana generation.",
             " * Up to +25% extra chance to dodge.",
@@ -72418,13 +72418,13 @@ window.allHeroes =
         "defense": 626,
         "health": 1423,
         "effects": [
-            "1x Mana Charge",
+            "1x [#!]Mana[#] Charge",
             "* The caster regenerates 411 HP over 3 turns",
             "* Cleanses status ailments from the caster",
-            "2x Mana Charge",
+            "2x [#!]Mana[#] Charge",
             "* The caster and nearby allies regenerate 549 HP over 3 turns",
             "* Cleanses status ailments from the caster and nearby allies",
-            "3x Mana Charge",
+            "3x [#!]Mana[#] Charge",
             "* All allies regenerate 714 HP over 3 turns",
             "* Cleanses status ailments from all allies"
         ],
@@ -73717,7 +73717,7 @@ window.allHeroes =
             "Element Link gives all [##elementred]Fire[#] allies +46% defense against [##elementblue]Ice[#] for 4 turns. This effect can't be cleansed"
         ],
         "passives": [
-            "Resist Mana Generation Ailments: This character has an innate resistance against status ailments and negative stacks that affect mana generation. Doesn't apply to status ailments that stop mana generation or steal mana."
+            "Resist [#!]Mana[#] Generation Ailments: This character has an innate resistance against status ailments and negative stacks that affect mana generation. Doesn't apply to status ailments that stop mana generation or steal mana."
         ],
         "family": "hotm2019",
         "costume_id": 0,
@@ -74303,15 +74303,15 @@ window.allHeroes =
         "defense": 1141,
         "health": 1856,
         "effects": [
-            "1x Mana Charge",
+            "1x [#!]Mana[#] Charge",
             " * Deals 385% damage to the target.",
             "* The target gets a Bleed mark for 2 turns. Whenever a marked target receives a [##elementred]Bleed damage[#], they gain a stack (Max: 10). Each stack increases all damage they target receives by +5%.",
             " * The target receives 316 [##elementred]Bleed damage[#] over 2 turns.",
-            "2x Mana Charge",
+            "2x [#!]Mana[#] Charge",
             " * Deals 395% damage to the target and nearby enemies.",
             "* The target and nearby enemies get a Bleed mark for 4 turns. Whenever a marked target receives a [##elementred]Bleed damage[#], they gain a stack (Max: 10). Each stack increases all damage they target receives by +5%.",
             " * The target and nearby enemies receive 792 [##elementred]Bleed damage[#] over 4 turns.",
-            "3x Mana Charge",
+            "3x [#!]Mana[#] Charge",
             " * Deals 405% damage to all enemies.",
             "* All enemies get a Bleed mark for 6 turns. Whenever a marked target receives a [##elementred]Bleed damage[#], they gain a stack (Max: 10). Each stack increases all damage they target receives by +5%.",
             " * All enemies receive 1506 [##elementred]Bleed damage[#] over 6 turns."
@@ -75086,7 +75086,7 @@ window.allHeroes =
         ],
         "passives": [
             "Perfect Accuracy: This character’s Special Skill never mises its target.",
-            "Empowered Resist Mana Reductions: This character has innate resistance against mana reduction. They also gain 600 boosted health and 10% mana each time they resist.",
+            "Empowered Resist [#!]Mana[#] Reductions: This character has innate resistance against mana reduction. They also gain 600 boosted health and 10% mana each time they resist.",
             "Stacking Attack On Damage Received: When this character receives damage from Special Skills, they gain +30% attack Stack (Max: 10). One Stack can be gained per turn."
         ],
         "family": "beowulf",
@@ -75163,7 +75163,7 @@ window.allHeroes =
             "The target and nearby enemies get -50% accuracy for 3 turns. (Chance to miss also applies to offensive Special Skills.)"
         ],
         "passives": [
-            "Mana on Damage Received:",
+            "[#!]Mana[#] on Damage Received:",
             " * When this character receives direct damage from Special Skills or Normal Attacks they receive a small amount of mana.",
             " * Maximum of 10% mana gained per turn.",
             "Extra Damage to Minions & Mega Minions: This character does +150% damage to Minions and Mega Minions."
@@ -75773,7 +75773,7 @@ window.allHeroes =
             "Deals 555% damage if the caster has status ailments or negative stacks."
         ],
         "passives": [
-            "Start Battle with Mana: This character receives 20% mana at the start of the battle.",
+            "Start Battle with [#!]Mana[#]: This character receives 20% mana at the start of the battle.",
             "Increased Damage Against Boosted Health: After Special Skill cast, all allies’ normal attacks and Special Skills deal +70% damage against targets with boosted health for 4 turns."
         ],
         "family": "abyss",
@@ -76852,7 +76852,7 @@ window.allHeroes =
             "The target hit by the Sword Guard Mega Minion recieves 456 [##elementred]Bleed damage[#] over 3 turns. This effect spreads on nearby enemies."
         ],
         "passives": [
-            "Resist Mana reduction: This character has an innate resistance against mana reduction.",
+            "Resist [#!]Mana[#] reduction: This character has an innate resistance against mana reduction.",
             "Guard Rally: Every 4 turns, removes all [#!]Wither[#] effects from all allies."
         ],
         "family": "garrison",
@@ -77854,7 +77854,7 @@ window.allHeroes =
         ],
         "passives": [
             "Resist Burn: This character has innate resistance against Burn.",
-            "Mana on Burn: This character gains 5% mana each time an enemy receives [##elementred]Burn damage[#]."
+            "[#!]Mana[#] on Burn: This character gains 5% mana each time an enemy receives [##elementred]Burn damage[#]."
         ],
         "family": "hotm2025",
         "costume_id": 0,
@@ -78478,14 +78478,14 @@ window.allHeroes =
         "health": 1520,
         "effects": [
             "Special Skill has a different effect when charged with 100% / 200% / 300% mana:",
-            "1x Mana Charge:",
+            "1x [#!]Mana[#] Charge:",
             "* Destroys all Minions from the target.",
             "* Deals 520% damage to the target.",
-            "2x Mana Charge:",
+            "2x [#!]Mana[#] Charge:",
             "* Destroys all Minions from the target.",
             "* Deals 610% damage to the target.",
             "* The target can’t summon new Minions with Special Skill and receives 200 damage for each Minion they attempt to summon for 3 turns.",
-            "3x Mana Charge:",
+            "3x [#!]Mana[#] Charge:",
             "* Destroys all Minions from the target.",
             "* Deals 675% damage to the target.",
             "* The target can’t summon new Minions with Special Skill and receives 200 damage for each Minion they attempt to summon for 4 turns."
@@ -78563,7 +78563,7 @@ window.allHeroes =
             "All enemies get -35% defense for 4 turns."
         ],
         "passives": [
-            "Reduce Mana Gain from Special Skills: Reduces the amount of mana increased by Special Skill by -80%. The effect applies to all enemies in the battle."
+            "Reduce [#!]Mana[#] Gain from Special Skills: Reduces the amount of mana increased by Special Skill by -80%. The effect applies to all enemies in the battle."
         ],
         "family": "owl",
         "costume_id": 0,
@@ -78809,7 +78809,7 @@ window.allHeroes =
             "The target hit by the Sword Guard Mega Minion receives 468 [##elementred]Bleed damage[#] over 3 turns. This effect spreads to nearby enemies."
         ],
         "passives": [
-            "Resist Mana reduction: This character has an innate resistance against mana reduction.",
+            "Resist [#!]Mana[#] reduction: This character has an innate resistance against mana reduction.",
             "Guard Rally: Every 4 turns, removes all [#!]Wither[#] effects from all allies."
         ],
         "family": "garrison",
@@ -79030,7 +79030,7 @@ window.allHeroes =
             "The target and nearby enemies get -50% decrease for any healing received for 3 turns."
         ],
         "passives": [
-            "Reduce Mana Gain from Special Skills: Reduces the amount of mana increased by Special Skill by -80%. The effect applies to all enemies in the battle."
+            "Reduce [#!]Mana[#] Gain from Special Skills: Reduces the amount of mana increased by Special Skill by -80%. The effect applies to all enemies in the battle."
         ],
         "family": "owl",
         "costume_id": 0,
@@ -79167,13 +79167,13 @@ window.allHeroes =
         "defense": 751,
         "health": 1481,
         "effects": [
-            "1x Mana Charge",
+            "1x [#!]Mana[#] Charge",
             "* Boosts health of all allies by 230. Boosted health can exceed max HP.",
             "* All allies are immune to new status ailments for 2 turns.",
-            "2x Mana Charge",
+            "2x [#!]Mana[#] Charge",
             "* Boosts health of all allies by 450. Boosted health can exceed max HP.",
             "* All allies are immune to new status ailments for 3 turns.",
-            "3x Mana Charge",
+            "3x [#!]Mana[#] Charge",
             "* Boosts health of all allies by 750. Boosted health can exceed max HP.",
             "* All allies are immune to new status ailments for 4 turns."
         ],
@@ -80169,7 +80169,7 @@ window.allHeroes =
             " * Boosts health of all allies by 10%. Boosted Heath can exceed max HP.",
             " * All allies gain a small amount of mana.",
             "Guaranteed Effect on Special Skill: When this character casts their Special Skill, any of their Passive Skills that grant extra effects on cast are guaranteed to activate.",
-            "Resist Mana Generation Stopping: This character has an innate resistance against status ailments that affect stop mana generation."
+            "Resist [#!]Mana[#] Generation Stopping: This character has an innate resistance against status ailments that affect stop mana generation."
         ],
         "family": "moon",
         "costume_id": 1,
@@ -80379,14 +80379,14 @@ window.allHeroes =
         "health": 1503,
         "effects": [
             "Special Skill has a different effect when charged with 100% / 200% / 300% mana:",
-            "1x Mana Charge:",
+            "1x [#!]Mana[#] Charge:",
             " * Deals 220% damage to all enemies.",
             " * All enemies are immune to new status effects buffs for 2 turns.",
-            "2x Mana Charge:",
+            "2x [#!]Mana[#] Charge:",
             " * Dispels buffs from all enemies.",
             " * Deals 320% damage to all enemies.",
             " * All enemies are immune to new status effects buffs for 3 turns.",
-            "3x Mana Charge:",
+            "3x [#!]Mana[#] Charge:",
             " * Dispels buffs from all enemies.",
             " * Deals 385% damage to all enemies.",
             " * All enemies are immune to new status effects buffs for 4 turns."
@@ -80466,7 +80466,7 @@ window.allHeroes =
             "[#!]Stack (Max: 10):[#] All damage all enemies is increased by +8%."
         ],
         "passives": [
-            "Resist Mana reduction: This character has an innate resistance against mana Reduction.",
+            "Resist [#!]Mana[#] reduction: This character has an innate resistance against mana Reduction.",
             "Guard Rally: Every 4 turns, removes all [#!]Wither[#] effects from all allies."
         ],
         "family": "garrison",
@@ -80842,7 +80842,7 @@ window.allHeroes =
             "Each hit reduces the duration of all status effect buffs on the hit enemy by one turn. (The duration reduction affects both dispellable and undispellabe status effect buffs. If the duration on any buff is reduced to zero, the effect is considered as having expired naturally.)"
         ],
         "passives": [
-            "Resist Mana reduction: This character has an innate resistance against mana Reduction.",
+            "Resist [#!]Mana[#] reduction: This character has an innate resistance against mana Reduction.",
             "Guard Rally: Every 4 turns, removes all [#!]Wither[#] effects from all allies."
         ],
         "family": "garrison",
@@ -81602,7 +81602,7 @@ window.allHeroes =
             "Deals 430% damage to the target and minor damage to the nearby enemies."
         ],
         "passives": [
-            "Start Battle with Mana: This character receives 20% mana at the start of the battle."
+            "Start Battle with [#!]Mana[#]: This character receives 20% mana at the start of the battle."
         ],
         "family": "abyss",
         "costume_id": 0,
@@ -81669,7 +81669,7 @@ window.allHeroes =
             "Deals 460% damage to the target and minor damage to nearby enemies."
         ],
         "passives": [
-            "Start Battle with Mana: This character receives 20% mana at the start of the battle.",
+            "Start Battle with [#!]Mana[#]: This character receives 20% mana at the start of the battle.",
             "Increased Damage Against Boosted Health: After this character casts their Special Skill, all allies deal +70% increased normal attack and Special Skills damage against targets with boosted health for 4 turns."
         ],
         "family": "abyss",
@@ -82155,7 +82155,7 @@ window.allHeroes =
             "All allies counterattack with 60% of the damage received for 3 turns."
         ],
         "passives": [
-            "Reduce Mana Gain from Special Skills: Reduces the amount of mana increased by Special Skill by -80%. The effect applies to all enemies in the battle."
+            "Reduce [#!]Mana[#] Gain from Special Skills: Reduces the amount of mana increased by Special Skill by -80%. The effect applies to all enemies in the battle."
         ],
         "family": "owl",
         "costume_id": 0,
@@ -82391,14 +82391,14 @@ window.allHeroes =
         "health": 1493,
         "effects": [
             "Special Skill has a different effect when charged with 100%/200%/300% mana:",
-            "x1 Mana Charge:",
+            "x1 [#!]Mana[#] Charge:",
             " - Reduces max health of the target and nearby enemies by 500. The effect is stronger against targets with boosted health. (Max health can’t be lower than 30% of the original max health. Any boosted health is reduced by an additional 500).",
             " - Deals 250% damage to the target and nearby enemies.",
-            "x2 Mana Charge:",
+            "x2 [#!]Mana[#] Charge:",
             " - Reduces max health of the target and nearby enemies by 650. The effect is stronger against targets with boosted health. (Max health can’t be lower than 30% of the original max health. Any boosted health is reduced by an additional 650.)",
             " - Deals 375% damage to the target and nearby enemies.",
             " - The attack bypasses defensive buffs. (This includes counterattack.)",
-            "x3 Mana Charge:",
+            "x3 [#!]Mana[#] Charge:",
             " - Reduces max health of the target and nearby enemies by 800. The effect is stronger against targets with boosted health. (Max health can’t be lower than 30% of the original max health. Any boosted health is reduced by an additional 800.)",
             " - Deals 500% damage to the target and nearby enemies.",
             " - The attack bypasses defensive buffs. (This includes counterattack.)",
@@ -83017,10 +83017,10 @@ window.allHeroes =
         "health": 1446,
         "effects": [
             "Special Skill has a different effect when charged with 100%/200% mana:",
-            "1x Mana Charge:",
+            "1x [#!]Mana[#] Charge:",
             " * The target and nearby enemies receive 156 [##elementred]Burn damage[#] over 2 turns.",
             " * If the caster dies during the next 2 turns they are resurrected in the beginning of their next turn with 32% health. All status effects and stacks are removed when the caster dies.",
-            "2x Mana Charge:",
+            "2x [#!]Mana[#] Charge:",
             " * Each defeated ally has a 50% chance to get revived with 40% HP.",
             " * All allies regenerate 714 HP over 3 turns.",
             " * All allies reduce all received damage by -50% for 3 turns."
@@ -83107,10 +83107,10 @@ window.allHeroes =
         "health": 2249,
         "effects": [
             "Special Skill has a different effect when charged with 100% / 200% mana:",
-            "1x Mana Charge:",
+            "1x [#!]Mana[#] Charge:",
             " * All enemies receive 350 [##elementred]Burn damage[#] over 2 turns. The caster absorbs 10% of dealt [##elementred]Burn damage[#] as health.",
             " * If the caster is defeated during the next 2 turns, they are resurrected in the beginning of their next turn with 40% health. All status effects and stack are removed when the caster is defeated.",
-            "2x Mana Charge:",
+            "2x [#!]Mana[#] Charge:",
             " * Each defeated ally has a 55% chance to get revived with 44% HP.",
             " * All allies regenerate 795 boosted health over 3 turns. Boosted health can exceed max HP.",
             " * All allies reduce all received damage by -60% for 3 turns."
@@ -83202,7 +83202,7 @@ window.allHeroes =
             "Transform Buffs: Each time this character casts their Special Skill, all dispellable buffs affecting attack, defense and mana generation on all enemies are transformed into matching undispellable status ailments. Transformed effects:",
             " * Attack buffs are transformed into -40% attack status ailments for 3 turns.",
             " * Defense buffs are transformed into -40% defense status ailments for 3 turns.",
-            " * Mana generation buffs are transformed into -40% mana generation status ailments for 3 turns.",
+            " * [#!]Mana generation[#] buffs are transformed into -40% mana generation status ailments for 3 turns.",
             "Flight Momentum: If this character has any amount of Flight Momentum, they receive:",
             " * Up to +35% mana generation.",
             " * Up to +25% extra chance to dodge.",
@@ -83640,15 +83640,15 @@ window.allHeroes =
         "defense": 1067,
         "health": 1664,
         "effects": [
-            "1x Mana Charge",
+            "1x [#!]Mana[#] Charge",
             " * Deals 400% damage to the target.",
             " * Deals 600% damage if the target has less than 50% health remaining.",
             " * If the target is defeated by the attack, all allies get +20% mana generation for 2 turns.",
-            "2x Mana Charge",
+            "2x [#!]Mana[#] Charge",
             " * Deals 425% damage to the target and nearby enemies.",
             " * Deals 638% damage to enemies with less than 50% health remaining.",
             " * If the target is defeated by the attack, all allies get +30% mana generation for 3 turns.",
-            "3x Mana Charge",
+            "3x [#!]Mana[#] Charge",
             " * Deals 450% damage to all enemies.",
             " * Deals 675% damage to enemies with less than 50% health remaining.",
             " * If the target is defeated by the attack, all allies get +40% mana generation for 4 turns."
@@ -83796,8 +83796,8 @@ window.allHeroes =
             "Deals 320% damage to all enemies."
         ],
         "passives": [
-            "Mana Buff on Status Ailment Received: The character with this skill receives +24% mana generation for 3 turns when they receive any status ailment or a negative stack.",
-            "Mana on [##elementred]Taunt[#]: Each time an enemy receives [##elementred]Taunt[#] status effect this character’s mana is increased by 10%.",
+            "[#!]Mana[#] Buff on Status Ailment Received: The character with this skill receives +24% mana generation for 3 turns when they receive any status ailment or a negative stack.",
+            "[#!]Mana[#] on [##elementred]Taunt[#]: Each time an enemy receives [##elementred]Taunt[#] status effect this character’s mana is increased by 10%.",
             "Ignore [##elementred]Taunt[#]: The character’s Special Skill is not affected by [##elementred]Taunt[#]."
         ],
         "family": "champions",
@@ -85031,17 +85031,17 @@ window.allHeroes =
         "health": 1487,
         "effects": [
             "Special Skill has a different effect when charged with 100%/200% mana:",
-            "1x Mana Charge:",
+            "1x [#!]Mana[#] Charge:",
             " * All enemies receive 423 [##elementred]Burn damage[#] over 3 turns.",
             " * All enemies get -34% defense against [##elementred]Fire[#] for 3 turns.",
             " * Dispels buffs from all enemies.",
-            "2x Mana Charge:",
+            "2x [#!]Mana[#] Charge:",
             " * All allies regenerate 1190 HP over 5 turns.",
             " * All allies get +50% attack against [##elementgreen]Nature[#] for 5 turns.",
             " * Cleanses status ailments from all allies."
         ],
         "passives": [
-            "Mana on Special: When this character casts their Special Skill, all enemies get -5% mana generation stack. If the Special Skill is fully charged, all enemies get two stacks. An enemy can have up to 10 stacks.",
+            "[#!]Mana[#] on Special: When this character casts their Special Skill, all enemies get -5% mana generation stack. If the Special Skill is fully charged, all enemies get two stacks. An enemy can have up to 10 stacks.",
             "Stack on Special: When this character casts their Special Skill, they have a 50% chance to give 10% mana to all allies. If the Special Skill is fully charged, the chance is 100%."
         ],
         "family": "magic",
@@ -85128,17 +85128,17 @@ window.allHeroes =
         "health": 2134,
         "effects": [
             "Special Skill has a different effect when charged with 100%/200% mana:",
-            "1x Mana Charge:",
+            "1x [#!]Mana[#] Charge:",
             " * All enemies received 645 [##elementred]Burn damage[#] over 3 turns. The caster absorbs 10% of dealt [##elementred]Burn damage[#] as health.",
             " * All enemies get -36% defense against [##elementred]Fire[#] for 3 turns.",
             " * Dispels buffs from all enemies.",
-            "2x Mana Charge:",
+            "2x [#!]Mana[#] Charge:",
             " * All allies regenerate 1300 boosted health over 5 turns. Boosted health can exceed max HP.",
             " * All allies get +60% attack against [##elementgreen]Nature[#] for 5 turns.",
             " * Cleanses status ailments from all allies."
         ],
         "passives": [
-            "Mana on Special: When this character casts their Special Skill, they have a 60% chance to give 10% mana to all allies. If the Special Skill is fully charged, the chance is 100%.",
+            "[#!]Mana[#] on Special: When this character casts their Special Skill, they have a 60% chance to give 10% mana to all allies. If the Special Skill is fully charged, the chance is 100%.",
             "Stack on Special: When this character casts their Special Skill, all enemies get -7% mana generation stack. If the Special Skill is fully charged, all enemies get two stacks. An enemy can have up to 10 stacks.",
             "Weaker Mega Minions: Enemy Mega Minions have -75% HP."
         ],
@@ -85462,7 +85462,7 @@ window.allHeroes =
             "Element Link summons a [##elementred]Fire[#] Minion for all [##elementred]Fire[#] allies with 6% HP and 10% attack inherited from the caster."
         ],
         "passives": [
-            "Resist Mana Generation Ailments: This character has innate resistance against status ailments and negative stacks that affect Mana Generation. Doesn't apply to status ailments that stop mana generation or steal mana."
+            "Resist [#!]Mana[#] Generation Ailments: This character has innate resistance against status ailments and negative stacks that affect [#!]Mana[#] Generation. Doesn't apply to status ailments that stop mana generation or steal mana."
         ],
         "family": "hotm2020",
         "costume_id": 0,
@@ -85831,8 +85831,8 @@ window.allHeroes =
             "Element Link gives all [##elementred]Fire[#] allies get +5% chance to dodge status ailments for 4 turns. This effect can't be dispelled."
         ],
         "passives": [
-            "Eat Minions and Gain Mana Over Time: Every 3 turns eats all Minions from a random enemy and gains a small amount of mana for each eaten Minion.",
-            "Mana on Health Recovery: This character receives 5% mana each time its health is recovered."
+            "Eat Minions and Gain [#!]Mana[#] Over Time: Every 3 turns eats all Minions from a random enemy and gains a small amount of mana for each eaten Minion.",
+            "[#!]Mana[#] on Health Recovery: This character receives 5% mana each time its health is recovered."
         ],
         "family": "hotm2023",
         "costume_id": 0,
@@ -85984,15 +85984,15 @@ window.allHeroes =
         "health": 1442,
         "effects": [
             "Special Skill has a different effect when charged with 100%/200%/300% mana:",
-            "1x Mana Charge:",
+            "1x [#!]Mana[#] Charge:",
             " - Deals 290% damage to the target.",
             " - Reduces the mana of the target by 25%.",
             " - The target gets -14% mana generation for 2 turns.",
-            "2x Mana Charge:",
+            "2x [#!]Mana[#] Charge:",
             " - Deals 330% damage to the target and nearby enemies.",
             " - Reduces the mana of the target and nearby enemies by 50%.",
             " - The target and nearby enemies get -24% mana generation for 3 turns.",
-            "3x Mana Charge:",
+            "3x [#!]Mana[#] Charge:",
             " - Deals 370% damage to all enemies.",
             " - Reduces the mana of all enemies by 100%.",
             " - All enemies gets -34% mana generation for 4 turns."
@@ -86070,7 +86070,7 @@ window.allHeroes =
         ],
         "passives": [
             "Resist Attack Ailments: This character has innate resistance against status ailments that affect Attack.",
-            "Mana on Burn: This character gains 5% mana each time an enemy receives [##elementred]Burn damage[#]."
+            "[#!]Mana[#] on Burn: This character gains 5% mana each time an enemy receives [##elementred]Burn damage[#]."
         ],
         "family": "hotm2021",
         "costume_id": 0,
@@ -86829,7 +86829,7 @@ window.allHeroes =
             " * Deals 70% damage to all enemies.",
             " * All enemies get -34% attack for 3 turns.",
             "Extra Chance for Effects on Special Skill: When this character casts their Special Skill, any of their Passive Skills that grant extra effects on cast have 3 chances to activate.",
-            "Mana on Health Boosting Special Skill: This character gains 5% mana each time an enemy casts a Special Skill that directly boosts health."
+            "[#!]Mana[#] on Health Boosting Special Skill: This character gains 5% mana each time an enemy casts a Special Skill that directly boosts health."
         ],
         "family": "sun",
         "costume_id": 1,
@@ -86886,15 +86886,15 @@ window.allHeroes =
         "health": 1435,
         "effects": [
             "Special Skill has a different effect when charged with 100%/200%/300% mana:",
-            "x1 Mana Charge:",
+            "x1 [#!]Mana[#] Charge:",
             " - Deals 160% damage to all enemies.",
             " - All enemies receive 256 [##elementred]Burn damage[#] over 2 turns.",
             " - All enemies get -64% decrease of any healing received for 2 turns.",
-            "x2 Mana Charge:",
+            "x2 [#!]Mana[#] Charge:",
             " - Deals 275% damage to all enemies.",
             " - All enemies receive 561 [##elementred]Burn damage[#] over 3 turns.",
             " - All enemies get -74% decrease of any healing received for 3 turns.",
-            "x3 Mana Charge:",
+            "x3 [#!]Mana[#] Charge:",
             " - Deals 340% damage to all enemies.",
             " - All enemies receive 840 [##elementred]Burn damage[#] over 4 turns.",
             " - All enemies get -84% decrease of any healing received for 4 turns."
@@ -87421,7 +87421,7 @@ window.allHeroes =
             " * Deals 70% damage to all enemies.",
             " * Dispells the latest dispellable buff from all enemies.",
             "Extra Chance for Effects on Special Skill: When this character casts their Special Skill, any of their Passive Skills that grant extra effects on cast have 3 chances to activate.",
-            "Mana on Status Ailment Received: This character gains 5% mana when they receive a status ailment or negative stack."
+            "[#!]Mana[#] on Status Ailment Received: This character gains 5% mana when they receive a status ailment or negative stack."
         ],
         "family": "moon",
         "costume_id": 1,
@@ -88077,8 +88077,8 @@ window.allHeroes =
             "The Shield Guard Mega Minion cleanses the latest cleansable status ailments from all allies each turn. This does not trigger secondary effects."
         ],
         "passives": [
-            "Resist Mana reduction: This character has an innate resistance against mana Reduction.",
-            "Mana on Status Ailment Received: This character gains 5% mana when they receive a status ailment or negative stack.",
+            "Resist [#!]Mana[#] reduction: This character has an innate resistance against mana Reduction.",
+            "[#!]Mana[#] on Status Ailment Received: This character gains 5% mana when they receive a status ailment or negative stack.",
             "Guard Rally: Every 4 turns, removes all [#!]Wither[#] effects from all allies."
         ],
         "family": "garrison",
@@ -88154,7 +88154,7 @@ window.allHeroes =
         ],
         "passives": [
             "Perfect Accuracy: This character’s Special Skill never mises its target.",
-            "Empowered Resist Mana Reductions: This character has innate resistance against mana reduction. They also gain 600 boosted health and 10% mana each time they resist.",
+            "Empowered Resist [#!]Mana[#] Reductions: This character has innate resistance against mana reduction. They also gain 600 boosted health and 10% mana each time they resist.",
             "Stacking Attack On Damage Received: When this character receives damage from Special Skills, they gain +30% attack Stack (Max: 10). One Stack can be gained per turn."
         ],
         "family": "beowulf",
@@ -88451,7 +88451,7 @@ window.allHeroes =
             "[#!]Stack (Max: 10):[#] All allies get +15% attack."
         ],
         "passives": [
-            "Mana on Buff Received: This character has a 50% chance to gain 10% mana when they receive a buff or possitive stack.",
+            "[#!]Mana[#] on Buff Received: This character has a 50% chance to gain 10% mana when they receive a buff or possitive stack.",
             "Health Recovery on Buff Received: This character has a 50% chance to recover 10% health when they receive a buff or possitve stack."
         ],
         "family": "journey",
@@ -88743,7 +88743,7 @@ window.allHeroes =
         ],
         "passives": [
             "Heal on Bleed: This character regenerates 50 HP each time an enemy receives [##elementred]Bleed damage[#].",
-            "Mana on Bleed: This character receives 8% mana each time an enemy receives [##elementred]Bleed damage[#]."
+            "[#!]Mana[#] on Bleed: This character receives 8% mana each time an enemy receives [##elementred]Bleed damage[#]."
         ],
         "family": "hotm2024",
         "costume_id": 0,
@@ -91413,13 +91413,13 @@ window.allHeroes =
         "health": 627,
         "effects": [
             "Special Skill has a different effect when charged with 100%/200%/300% mana:",
-            "x1 Mana Charge:",
+            "x1 [#!]Mana[#] Charge:",
             " - Deals 145% damage to the target.",
             " - Deals additional 145% damage to 2 random enemies.",
-            "x2 Mana Charge:",
+            "x2 [#!]Mana[#] Charge:",
             " - Deals 195% damage to the target.",
             " - Deals additional 195% damage to 3 random enemies.",
-            "x3 Mana Charge:",
+            "x3 [#!]Mana[#] Charge:",
             " - Deals 220% damage to the target.",
             " - Deals additional 220% damage to 4 random enemies."
         ],
@@ -91738,7 +91738,7 @@ window.allHeroes =
             "All allies get +24% mana generation for 6 turns."
         ],
         "passives": [
-            "Reduce Mana Gain from Special Skills: Reduces the amount of mana increased by Special Skill by -80%. The effect applies to all enemies in the battle."
+            "Reduce [#!]Mana[#] Gain from Special Skills: Reduces the amount of mana increased by Special Skill by -80%. The effect applies to all enemies in the battle."
         ],
         "family": "owl",
         "costume_id": 0,
@@ -92392,8 +92392,8 @@ window.allHeroes =
             "All allies regenerate 600 HP over 4 turns."
         ],
         "passives": [
-            "Empowered Resist Mana Reductions: This character has innate resistance against mana reduction. They also gain 600 boosted health and 10% mana each time they resist.",
-            "Mana on Status Ailment Received: This character gains 5% mana when they receive a status ailment or a negative stack."
+            "Empowered Resist [#!]Mana[#] Reductions: This character has innate resistance against mana reduction. They also gain 600 boosted health and 10% mana each time they resist.",
+            "[#!]Mana[#] on Status Ailment Received: This character gains 5% mana when they receive a status ailment or a negative stack."
         ],
         "family": "beowulf",
         "costume_id": 0,
@@ -92458,9 +92458,9 @@ window.allHeroes =
         "health": 1319,
         "effects": [
             "Special Skill has a different effect when charged with 100%/200% mana:",
-            "1x Mana Charge:",
+            "1x [#!]Mana[#] Charge:",
             " * Summons a Grimoire Minion for all allies with 13% HP and 20% attack inherited from the caster.",
-            "2x Mana Charge:",
+            "2x [#!]Mana[#] Charge:",
             " * Deals 235 damage to all enemies.",
             " * Summons a Grimoire Fiend for all enemies. The Fiend damages the enemy with 43% attack every turn.",
             " * The Grimoire Fiend absorbs healing. It disappears after absorbing a healing amount equal to 30% of its target's max health."
@@ -95086,11 +95086,11 @@ window.allHeroes =
         "health": 1272,
         "effects": [
             "Special Skill has a different effect when charged with 100% / 200% / 300% mana:",
-            "1x Mana Charge:",
+            "1x [#!]Mana[#] Charge:",
             "* All allies regenerate 324 boosted health over 3 turns. Boosted health can exceed max HP.",
-            "2x Mana Charge:",
+            "2x [#!]Mana[#] Charge:",
             "* If any ally dies during the next 3 turns they are resurrected in the beginning of their next turn with 20% health. All status effects and stacks are removed when the ally dies.",
-            "* 3x Mana Charge:",
+            "* 3x [#!]Mana[#] Charge:",
             "* All allies regenerate 584 boosted health over 4 turns. Boosted health can exceed max HP.",
             "* If any ally dies during the next 4 turns they are resurrected in the beginning of their next turn with 40% health. All status effects and stacks are removed when the ally dies."
         ],
@@ -96740,7 +96740,7 @@ window.allHeroes =
             "Elemental Link gives all [##elementyellow]Holy[#] allies +20% attack for 4 turns. This effect can’t be dispelled."
         ],
         "passives": [
-            "Resist Mana Reduction: This character has innate resistance against mana reduction.",
+            "Resist [#!]Mana[#] Reduction: This character has innate resistance against mana reduction.",
             "Increased Special Skill Damage: The first time this character cast a Special Skill that deals damage, an additional 50% is added to its power."
         ],
         "family": "hotm2025",
@@ -96816,7 +96816,7 @@ window.allHeroes =
         ],
         "passives": [
             "Resist Bleed Damage: This character has innate resistance against Bleed.",
-            "Mana on Buff Received: This character gains 5% mana when they receive a buff or a positive stack."
+            "[#!]Mana[#] on Buff Received: This character gains 5% mana when they receive a buff or a positive stack."
         ],
         "family": "hotm2024",
         "costume_id": 0,
@@ -98707,7 +98707,7 @@ window.allHeroes =
             " * Deals 70% damage to all enemies.",
             " * All enemies get -34% attack for 3 turns.",
             "Extra Chance for Effects on Special Skill: When this character casts their Special Skill, any of their Passive Skills that grant extra effects on cast have 3 chances to activate.",
-            "Mana on Health Boosting Special Skill: This character gains 5% mana each time an enemy casts a Special Skill that directly boosts health."
+            "[#!]Mana[#] on Health Boosting Special Skill: This character gains 5% mana each time an enemy casts a Special Skill that directly boosts health."
         ],
         "family": "sun",
         "costume_id": 1,
@@ -98864,8 +98864,8 @@ window.allHeroes =
             "Element Link gives all [##elementyellow]Holy[#] allies +20% [##elementred]critical[#] chance for 6 turns. This effect cannot be dispelled."
         ],
         "passives": [
-            "Resist Mana Reduction: This character has innate resistance against mana reduction.",
-            "Mana on Buff Received: This character gains 5% mana when they receive a buff or positive stack."
+            "Resist [#!]Mana[#] Reduction: This character has innate resistance against mana reduction.",
+            "[#!]Mana[#] on Buff Received: This character gains 5% mana when they receive a buff or positive stack."
         ],
         "family": "hotm2024",
         "costume_id": 0,
@@ -98993,7 +98993,7 @@ window.allHeroes =
             "The Recruit Guard Mega Minion gains more HP and attack when there are more unique Garrison Guard heroes on the team, up to 30% HP and 140% attack."
         ],
         "passives": [
-            "Resist Mana reduction: This character has an innate resistance against mana Reduction.",
+            "Resist [#!]Mana[#] reduction: This character has an innate resistance against mana Reduction.",
             "Guard Rally: Every 4 turns, removes all [#!]Wither[#] effects from all allies."
         ],
         "family": "garrison",
@@ -99309,7 +99309,7 @@ window.allHeroes =
         "passives": [
             "Resist Defense Reduction: This character has innate resistance against status ailments, stacks and [#!]Wither[#] effects that affect defense.",
             "Resist Insanity: This character has innate resistance against Insanity.",
-            "Mana on Status Ailment Received: This character gains 5% mana when they receive a status ailment or a negative stacks."
+            "[#!]Mana[#] on Status Ailment Received: This character gains 5% mana when they receive a status ailment or a negative stacks."
         ],
         "family": "faun",
         "costume_id": 0,
@@ -99382,8 +99382,8 @@ window.allHeroes =
             "Element Link gives all [##elementyellow]Holy[#] allies a +5% chance to dodge status ailments for 4 turns. This effect cannot be dispelled."
         ],
         "passives": [
-            "Resist Mana Ailments: This character has innate resistance against ailments that affect mana.",
-            "Mana Per Enemy Buff: Gains a small amount of mana for every active status effect buff that the enemy team has at the start of each turn (maximum of 20 buffs)."
+            "Resist [#!]Mana[#] Ailments: This character has innate resistance against ailments that affect mana.",
+            "[#!]Mana[#] Per Enemy Buff: Gains a small amount of mana for every active status effect buff that the enemy team has at the start of each turn (maximum of 20 buffs)."
         ],
         "family": "hotm2023",
         "costume_id": 0,
@@ -100562,7 +100562,7 @@ window.allHeroes =
         ],
         "passives": [
             "Resist Special Skill Blocking: This character has innate resistance against status ailments that block Special Skill.",
-            "Mana on Buff Received: This character gains 5% mana when they receive a buff or a positive stack."
+            "[#!]Mana[#] on Buff Received: This character gains 5% mana when they receive a buff or a positive stack."
         ],
         "family": "hotm2021",
         "costume_id": 0,
@@ -100852,7 +100852,7 @@ window.allHeroes =
         "passives": [
             "Effects on Special Skill: 40% chance to perform the following actions when this character casts their Special Skill ' * Deals 70% damage to all enemies.' ' * All enemies get -34% attack for 3 turns.'",
             "Extra Chance for Effects on Special Skill: When this character casts their Special Skill, any of their Passive Skills that grant extra effects on cast have 3 chances to activate.",
-            "Mana on Health Boosting Special Skill: This character gains 5% mana each time an enemy casts a Special Skill that directly boosts health."
+            "[#!]Mana[#] on Health Boosting Special Skill: This character gains 5% mana each time an enemy casts a Special Skill that directly boosts health."
         ],
         "family": "sun",
         "costume_id": 1,
@@ -100913,15 +100913,15 @@ window.allHeroes =
         "defense": 1054,
         "health": 1639,
         "effects": [
-            "1x Mana Charge",
+            "1x [#!]Mana[#] Charge",
             " * Summons a Kunai Fiend for the target. The Fiend damages the enemy with 150% attack every turn.",
             " * The Kunai Fiend absorbs healing and disappears when it has absorbed health equal to 45% of it’s owner’s max health.",
             " * The Kunai Fiend explodes after 3 turns, dealing 1850 damage to its target.",
-            "2x Mana Charge",
+            "2x [#!]Mana[#] Charge",
             " * Summons a Kunai Fiend for the target and nearby enemies. The Fiend damages the enemy with 175% attack every turn.",
             " * The Kunai Fiend absorbs healing and disappears when it has absorbed health equal to 50% of it’s owner’s max health.",
             " * The Kunai Fiend explodes after 3 turns, dealing 2000 damage to its target.",
-            "3x Mana Charge",
+            "3x [#!]Mana[#] Charge",
             " * Summons a Kunai Fiend for all enemies. The Fiend damages the enemy with 200% attack every turn.",
             " * The Kunai Fiend absorbs healing and disappears when it has absorbed health equal to 55% of it’s owner’s max health.",
             " * The Kunai Fiend explodes after 3 turns, dealing 2250 damage to its target."
@@ -102458,7 +102458,7 @@ window.allHeroes =
             "Element Link gives all [##elementyellow]Holy[#] allies +10% defense for 4 turns. This effect can't be dispelled."
         ],
         "passives": [
-            "Mana on Buff Dispel: This character receives 10% mana each time a buff is dispelled from this character.",
+            "[#!]Mana[#] on Buff Dispel: This character receives 10% mana each time a buff is dispelled from this character.",
             "Resist Defense Ailments: This character has innate resistance against status ailments that affect defense. Applies also to status ailments that affect elemental defense."
         ],
         "family": "hotm2022",
@@ -102650,19 +102650,19 @@ window.allHeroes =
         "health": 1590,
         "effects": [
             "Special Skill has a different effect when charged with 100%/200%/300% mana",
-            "1x Mana Charge",
+            "1x [#!]Mana[#] Charge",
             "* Deals 280% damage to the target.",
             "* The caster goes into hiding for 2 turns.",
             "* While hidden, the caster can’t receive new status effects or stacks, and all received damage is reduced by -20%.",
             "* When the caster comes out of hiding, they deal 227 damage to all enemies who use Special Skills while the caster was hiding.",
             "* The target automatically casts [#!]Mindless Attack[#] on a random ally when mana is full at the start of a turn during 2 turns.",
-            "2x Mana Charge",
+            "2x [#!]Mana[#] Charge",
             "* Deals 370% damage to the target.",
             "* The caster goes into hiding for 3 turns.",
             "* While hidden, the caster can’t receive new status effects or stacks, and all received damage is reduced by -30%.",
             "* When the caster comes out of hiding they deal 316 damage to all enemies who use Special Skills while the caster was hiding.",
             "* The target automatically casts [#!]Mindless Attack[#] on a random ally when mana is full at the start of a turn during 3 turns.",
-            "3x Mana Charge",
+            "3x [#!]Mana[#] Charge",
             "* Deals 450% damage to the target.",
             "* The caster goes into hiding for 4 turns.",
             "* While hidden, the caster can’t receive new status effects or stacks, and all received damage is reduced by -40%.",
@@ -102830,7 +102830,7 @@ window.allHeroes =
             "Transform Ailments: Each time this character casts their Special Skill, all cleansable status ailments affecting attack, defense and mana generation on all allies are transformed into matching undispellable buffs. Transformed effects:",
             " * Attack status ailments are transformed into +40% attack buffs for 3 turns.",
             " * Defense status ailments are transformed into +40% defense buffs for 3 turns.",
-            " * Mana generation status ailments are transformed into +40% mana generation buffs for 3 turns.",
+            " * [#!]Mana generation[#] status ailments are transformed into +40% mana generation buffs for 3 turns.",
             "Flight Momentum: If this character has any amount of Flight Momentum, they receive:",
             " * Up to +35% mana generation.",
             " * Up to +25% extra chance to dodge.",
@@ -102976,7 +102976,7 @@ window.allHeroes =
             "All enemies can’t get their status ailments cleansed or reallocated by Special Skills for 4 turns. (This effect also prevents cleansing and reallocating of itself."
         ],
         "passives": [
-            "Mana Buff on Status Ailment Received: Receives +24% mana generation for 3 turns when this character receives a status ailment or a negative stack.",
+            "[#!]Mana[#] Buff on Status Ailment Received: Receives +24% mana generation for 3 turns when this character receives a status ailment or a negative stack.",
             "Health Boost on Attempted Ally Cleanse: When an ally attempts to cleanse by using Special Skill, all allies receive 300 boosted health. This effect can activate only once per turn.",
             "Damage on Attempted Enemy Cleanse: When an enemy attempts to cleanse by using Special Skill, all enemies receive 300 damage. This effect can activate only once per turn."
         ],
@@ -103461,7 +103461,7 @@ window.allHeroes =
             "The caster and nearby allies reflect status ailments and negative stacks for 4 turns. Status effects cast by characters, Minions and Fiends on the same side cannot be reflected."
         ],
         "passives": [
-            "Reduce Mana Gain from Special Skills: Reduces the amount of mana increased by Special Skill by -80%. The effect applies to all enemies in the battle."
+            "Reduce [#!]Mana[#] Gain from Special Skills: Reduces the amount of mana increased by Special Skill by -80%. The effect applies to all enemies in the battle."
         ],
         "family": "owl",
         "costume_id": 0,
@@ -103834,7 +103834,7 @@ window.allHeroes =
         ],
         "passives": [
             "Resist Minion Removal: This character has innate resistance against Minion removal.",
-            "Mana on Buff Received: This character gains 5% mana when they receive a buff or a positive stack."
+            "[#!]Mana[#] on Buff Received: This character gains 5% mana when they receive a buff or a positive stack."
         ],
         "family": "hotm2025",
         "costume_id": 0,
@@ -104200,15 +104200,15 @@ window.allHeroes =
         "defense": 821,
         "health": 1380,
         "effects": [
-            "1x Mana Charge",
+            "1x [#!]Mana[#] Charge",
             " * All allies become Soul Connected for 2 turns. Soul Connected allies share received damage.",
             " * All allies get +25% defense for 2 turns",
             " * All allies get +24% mana generation for 2 turns",
-            "2x Mana Charge",
+            "2x [#!]Mana[#] Charge",
             " * All allies become Soul Connected for 4 turns. Soul Connected allies share received damage.",
             " * All allies get +50% defense for 4 turns",
             " * All allies get +33% mana generation for 4 turns",
-            "3x Mana Charge",
+            "3x [#!]Mana[#] Charge",
             " * All allies become Soul Connected for 5 turns. Soul Connected allies share received damage.",
             " * All allies get +73% defense for 5 turns",
             " * All allies get +38% mana generation for 5 turns"
@@ -104347,11 +104347,11 @@ window.allHeroes =
         "health": 1439,
         "effects": [
             "Special Skill has a different effect when charged with 100%/200% mana:",
-            "1x Mana Charge:",
+            "1x [#!]Mana[#] Charge:",
             " * Summons a Butterfly Minion for each ally with 14% HP and 20% attack inherited from the caster.",
             "* Each hit from a Butterfly Minion Gives the target the following status ailment:",
             " *** +20% increase to all received damage for 3 turns.",
-            "2x Mana Charge:",
+            "2x [#!]Mana[#] Charge:",
             " * Summons a Butterfly Fiend for all enemies. The Fiend damages the enemy with 43% attack every turn.",
             " * The Butterfly Fiend absorbs healing and disappears when it has absorbed health equal to 50% of it's owner's max health.",
             " * When summoned, the Butterfly Fiend gives -50% accuracy for its target for as long as the owner has Butterfly Fiends. This effect can't be cleansed. Chance to miss also applies to offensive Special Skills."
@@ -104698,7 +104698,7 @@ window.allHeroes =
             "Elemental link gives +4% mana generation for all [##elementyellow]Holy[#] allies for 4 turns. This effect cannot be dispelled."
         ],
         "passives": [
-            "Resist Mana Generation Stopping: This character has an innate resistance against status ailments that Stop Mana Generation."
+            "Resist [#!]Mana[#] Generation Stopping: This character has an innate resistance against status ailments that Stop [#!]Mana[#] Generation."
         ],
         "family": "hotm2019",
         "costume_id": 0,
@@ -104764,13 +104764,13 @@ window.allHeroes =
         "health": 1479,
         "effects": [
             "Special Skill has a different effect when charged with 100% / 200% / 300% mana:",
-            "1x Mana Charge:",
+            "1x [#!]Mana[#] Charge:",
             "* Deals 500% damage to the target.",
             "* For 3 turns each time an enemy’s mana is increased by a Special Skill, status effect, level property, passive skill, family effect or minion, they receive 250 damage.",
-            "2x Mana Charge:",
+            "2x [#!]Mana[#] Charge:",
             "* Deals 640% damage to the target.",
             "* All enemies are immune to new status effect buffs. Attempted mana generation buffs will be replaced by -34% mana generation for 3 turns.",
-            "3x Mana Charge:",
+            "3x [#!]Mana[#] Charge:",
             "* Deals 680% damage to the target.",
             "* All enemies are immune to new status effect buffs. Attempted mana generation buffs will be replaced by -34% mana generation for 3 turns.",
             "* For 3 turns each time an enemy’s mana is increased by a Special Skill, status effect, level property, passive skill, family effect or minion, they receive 250 damage."
@@ -104852,7 +104852,7 @@ window.allHeroes =
         ],
         "passives": [
             "Perfect Accuracy: This character’s Special Skill never mises its target.",
-            "Resist Mana Reduction: This character has innate resistance against mana reduction.",
+            "Resist [#!]Mana[#] Reduction: This character has innate resistance against mana reduction.",
             "Stacking Attack On Damage Received: When this character receives damage from Special Skills, they gain +30% attack Stack (Max: 10). One Stack can be gained per turn."
         ],
         "family": "beowulf",
@@ -105175,7 +105175,7 @@ window.allHeroes =
             "[#!]Stack (Max: 10):[#] All enemies get -7% mana generation for each destroyed Minion."
         ],
         "passives": [
-            "Mana increase reduction: Reduces the amount of mana increased by Special Skill by -80%. The effect applies to all enemies in the battle."
+            "[#!]Mana[#] increase reduction: Reduces the amount of mana increased by Special Skill by -80%. The effect applies to all enemies in the battle."
         ],
         "family": "bard",
         "costume_id": 0,
@@ -105398,7 +105398,7 @@ window.allHeroes =
             " * Boosts health of all allies by 10%. Boosted health can exceed max HP.",
             " * All allies gain a small amount of mana.",
             "Guaranteed Effect on Special Skill: When this character casts their Special Skill, any of their Passive Skills that grant extra effects on cast are guaranteed to activate.",
-            "Resist Mana Generation Stopping: This character has an innate resistance against status ailments that affect stop mana generation."
+            "Resist [#!]Mana[#] Generation Stopping: This character has an innate resistance against status ailments that affect stop mana generation."
         ],
         "family": "moon",
         "costume_id": 1,
@@ -105725,7 +105725,7 @@ window.allHeroes =
             "While in Owlhalla the target receives 360 damage each turn. (While in Ghost form, Character can’t gain mana and can’t be healed by Special Skills, but is immune to normal attack, Special Skill attacks, damage dealing passives, status effects and stacks. Immune to new [#!]Growth[#] and [#!]Wither[#] effects. Can’t be cast if there is only one enemy left in the battle.)"
         ],
         "passives": [
-            "Reduce Mana Gain from Special Skills: Reduces the amount of mana increased by Special Skill by -80%. The effect applies to all enemies in the battle."
+            "Reduce [#!]Mana[#] Gain from Special Skills: Reduces the amount of mana increased by Special Skill by -80%. The effect applies to all enemies in the battle."
         ],
         "family": "owl",
         "costume_id": 0,
@@ -105997,7 +105997,7 @@ window.allHeroes =
             "All allies regenerate 600 boosted health over 4 turns. Boosted health can exceed max HP. The effect duration is reset if the target receives status ailments."
         ],
         "passives": [
-            "Start Battle with Mana: This character receives 20% mana at the start of the battle."
+            "Start Battle with [#!]Mana[#]: This character receives 20% mana at the start of the battle."
         ],
         "family": "abyss",
         "costume_id": 0,
@@ -106067,7 +106067,7 @@ window.allHeroes =
             "All allies regenerate 400 boosted health over 4 turns. Boosted health can exceed max HP. The effect duration is reset if the target receives status ailments."
         ],
         "passives": [
-            "Start Battle with Mana: This character receives 20% mana at the start of the battle.",
+            "Start Battle with [#!]Mana[#]: This character receives 20% mana at the start of the battle.",
             "Health Boost on Special Skill: On Special Skill cast, boosts all allies’ HP by 10%."
         ],
         "family": "abyss",
@@ -106126,7 +106126,7 @@ window.allHeroes =
         "health": 1608,
         "effects": [
             "Deals 330% damage to all enemies.",
-            "All allies get +10% mana every time an enemy uses their Special Skill during 4 turns. Mana is received at the end of a Special Skill. Mana will not be received if this status effect is removed during a Special Skill",
+            "All allies get +10% mana every time an enemy uses their Special Skill during 4 turns. [#!]Mana[#] is received at the end of a Special Skill. [#!]Mana[#] will not be received if this status effect is removed during a Special Skill",
             "The caster gets Vengeance for 4 turns. If Vengeance is dispelled by an enemy’s Special Skill, all enemies receive 525 damage."
         ],
         "passives": [],
@@ -106473,7 +106473,7 @@ window.allHeroes =
             "Cleanses status ailments from all allies."
         ],
         "passives": [
-            "Mana increase reduction: Reduces the amount of mana increased by Special Skill by -80%. The effect applies to all enemies in the battle."
+            "[#!]Mana[#] increase reduction: Reduces the amount of mana increased by Special Skill by -80%. The effect applies to all enemies in the battle."
         ],
         "family": "bard",
         "costume_id": 0,
@@ -106686,7 +106686,7 @@ window.allHeroes =
             "The Shield Guard Mega Minion safely cleanses the latest cleansable status ailment from all allies each turn. (Safe cleanse bypasses secondary effects, such as damage on remova, from the remove status ailment. External effects such as passive skills and family effects can still activate."
         ],
         "passives": [
-            "Resist Mana reduction: This character has an innate resistance against mana Reduction.",
+            "Resist [#!]Mana[#] reduction: This character has an innate resistance against mana Reduction.",
             "Guard Rally: Every 4 turns, removes all [#!]Wither[#] effects from all allies."
         ],
         "family": "garrison",
@@ -107166,7 +107166,7 @@ window.allHeroes =
             "Transform Buffs: Each time this character casts their Special Skill, all dispellable buffs affecting attack, defense and mana generation on all enemies are transformed into matching undispellable status ailments. Transformed effects:",
             " * Attack buffs are transformed into -40% attack status ailments for 3 turns.",
             " * Defense buffs are transformed into -40% defense status ailments for 3 turns.",
-            " * Mana generation buffs are transformed into -40% mana generation status ailments for 3 turns.",
+            " * [#!]Mana generation[#] buffs are transformed into -40% mana generation status ailments for 3 turns.",
             "Flight Momentum: If this character has any amount of Flight Momentum, they receive:",
             " * Up to +35% mana generation.",
             " * Up to +25% extra chance to dodge.",
@@ -107245,7 +107245,7 @@ window.allHeroes =
             "The target hit by the Sword Guard Mega Minion receives 411 [##elementred]Bleed damage[#] over 3 turns. This effect spreads to nearby enemies."
         ],
         "passives": [
-            "Resist Mana reduction: This character has an innate resistance against mana Reduction.",
+            "Resist [#!]Mana[#] reduction: This character has an innate resistance against mana Reduction.",
             "Guard Rally: Every 4 turns, removes all [#!]Wither[#] effects from all allies."
         ],
         "family": "garrison",
@@ -107726,7 +107726,7 @@ window.allHeroes =
             "All allies get 20% defense for 2 turns."
         ],
         "passives": [
-            "Mana on Buff Received: This character has a 50% chance to recover 10% mana when they receive a buff or possitve stack.",
+            "[#!]Mana[#] on Buff Received: This character has a 50% chance to recover 10% mana when they receive a buff or possitve stack.",
             "Health Recovery on Buff Received: This character has a 50% chance to recover 10% health when they receive a buff or possitive stack."
         ],
         "family": "journey",
@@ -108077,15 +108077,15 @@ window.allHeroes =
         "health": 1491,
         "effects": [
             "Special Skill has a different effect when charged with 100%/200%/300% mana:",
-            "x1 Mana Charge:",
+            "x1 [#!]Mana[#] Charge:",
             " * Destroys all Minions from the target.",
             " * Deals 310% damage to the target.",
             " * All allies get a small amount of mana for each destroyed Minion.",
-            "x2 Mana Charge:",
+            "x2 [#!]Mana[#] Charge:",
             " * Destroys all Minions from the target and nearby enemies.",
             " * Deals 350% damage to the target and nearby enemies.",
             " * All allies get a small amount of mana for each destroyed Minion.",
-            "x3 Mana Charge:",
+            "x3 [#!]Mana[#] Charge:",
             " * Destroys all Minions from all enemies.",
             " * Deals 390% damage to all enemies.",
             " * All allies get a small amount of mana for each destroyed Minion."
@@ -108241,18 +108241,18 @@ window.allHeroes =
         "health": 1705,
         "effects": [
             "Special Skill has a different effect when charged with 100%/200% mana:",
-            "1x Mana Charge:",
+            "1x [#!]Mana[#] Charge:",
             " * All allies regenerate 594 HP over 3 turns.",
             " * All allies get +30% attack for 3 turns.",
             " * Cleanses status ailments from all allies.",
-            "2x Mana Charge:",
+            "2x [#!]Mana[#] Charge:",
             " * Dispels buffs from all enemies.",
             " * All enemies receive 1290 [##elementyellow]Sand damage[#] over 5 turns.",
             " * All enemies get -45% attack for 5 turns."
         ],
         "passives": [
             "Stack on Special: When this character casts their Special Skill, all enemies get -5% mana generation stack. If the Special Skill is fully changed, all enemies get two stacks. An enemy can have up to 10 stacks.",
-            "Mana on Special: When this character casts their Special Skill, they have a 50% chance to give 10% mana to all allies. If the Special Skill is fully changed, the chance is 100%."
+            "[#!]Mana[#] on Special: When this character casts their Special Skill, they have a 50% chance to give 10% mana to all allies. If the Special Skill is fully changed, the chance is 100%."
         ],
         "family": "magic",
         "costume_id": 0,
@@ -108335,18 +108335,18 @@ window.allHeroes =
         "health": 2247,
         "effects": [
             "Special Skill has a different effect when charged with 100%/200% mana:",
-            "1x Mana Charge:",
+            "1x [#!]Mana[#] Charge:",
             " * All allies regenerate 702 HP over 3 turns.",
             " * All allies get +33% attack for 3 turns.",
             " * Cleanses status ailments from all allies.",
-            "2x Mana Charge:",
+            "2x [#!]Mana[#] Charge:",
             " * Dispels buffs from all enemies.",
             " * All enemies receive 1855 [##elementyellow]Sand damage[#] over 5 turns.",
             " * All enemies get -50% attack for 5 turns.",
             " * All enemies get -45% decrease for any healing for 5 turns."
         ],
         "passives": [
-            "Mana on Special: When this character casts their Special Skill, they have a 50% chance to give 10% mana to all allies. If the Special Skill is fully changed, the chance is 100%.",
+            "[#!]Mana[#] on Special: When this character casts their Special Skill, they have a 50% chance to give 10% mana to all allies. If the Special Skill is fully changed, the chance is 100%.",
             "Stack on Special: When this character casts their Special Skill, all enemies get -5% mana generation stack. If the Special Skill is fully changed, all enemies get two stacks. An enemy can have up to 10 stacks.",
             "Weaker Mega Minions: Enemy Mega Minions have -75% HP."
         ],
@@ -108852,7 +108852,7 @@ window.allHeroes =
             " * The Source of Buffs will activate 3 times. Each attempt to dispel it removes one activation."
         ],
         "passives": [
-            "Mana on Buff Received: This character gains 5% mana when they receive a buff or positive stack.",
+            "[#!]Mana[#] on Buff Received: This character gains 5% mana when they receive a buff or positive stack.",
             "Heal when Status Ailment Expires or Is Cleared: This character’s receives 10% health each time a status ailment expires or is cleansed, removed or reallocated from them. This effect can activate only once per turn.",
             "Resist Buff Immunity: This character has innate resistance against ailments that give immunity to new buffs."
         ],
@@ -109053,11 +109053,11 @@ window.allHeroes =
         "health": 1598,
         "effects": [
             "Special Skill has a different effect when charged with 100%/200% mana:",
-            "1x Mana Charge:",
+            "1x [#!]Mana[#] Charge:",
             " * Deals 175% damage to all enemies.",
             " * Dispels status effect buffs that affect defense from all enemies.",
             " * All enemies are immune to new status effect buffs that affect defense for 3 turns.",
-            "2x Mana Charge:",
+            "2x [#!]Mana[#] Charge:",
             " * All allies bypass defensive buffs with their attacks for 5 turns. Defensive buffs include counterattacks.",
             " * All allies reduce all received damage by -45% for 5 turns.",
             " * All allies counterattack with 115% of the damage received for 5 turns."
@@ -109145,7 +109145,7 @@ window.allHeroes =
             "All allies get +60% defense as long as the caster has boosted health. This effect can’t be cleansed."
         ],
         "passives": [
-            "Mana on Buff Received: Gain 5% mana when receiving a buff or a positive stack",
+            "[#!]Mana[#] on Buff Received: Gain 5% mana when receiving a buff or a positive stack",
             "Health Recovery on Buff Received: This character recovers 5% health when they receive a buff or a positive stack."
         ],
         "family": "bear",
@@ -109732,7 +109732,7 @@ window.allHeroes =
             "Transform Ailments: Each time this character casts their Special Skill, all cleansable status ailments affecting attack, defense and mana generation on all allies are transformed into matching undispellable buffs. Transformed effects:",
             " * Attack status ailments are transformed into +40% attack buffs for 3 turns.",
             " * Defense status ailments are transformed into +40% defense buffs for 3 turns.",
-            " * Mana generation status ailments are transformed into +40% mana generation buffs for 3 turns.",
+            " * [#!]Mana generation[#] status ailments are transformed into +40% mana generation buffs for 3 turns.",
             "Flight Momentum: If this character has any amount of Flight Momentum, they receive:",
             " * Up to +35% mana generation.",
             " * Up to +25% extra chance to dodge.",
@@ -110300,8 +110300,8 @@ window.allHeroes =
             "Element Link gives all [##elementyellow]Holy[#] allies +10% additional Special Skill damage for 4 turns. This effect cannot be dispelled."
         ],
         "passives": [
-            "Resist Mana Reduction: This character has innate resistance against mana reduction.",
-            "Mana on Status Ailment Received: This character gains 5% mana when they receive a status ailment or negative stack."
+            "Resist [#!]Mana[#] Reduction: This character has innate resistance against mana reduction.",
+            "[#!]Mana[#] on Status Ailment Received: This character gains 5% mana when they receive a status ailment or negative stack."
         ],
         "family": "hotm2024",
         "costume_id": 0,

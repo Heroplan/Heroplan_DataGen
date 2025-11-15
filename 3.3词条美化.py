@@ -27,6 +27,7 @@ COMMOM_DICT_CONFIG = {
     '神圣': '[##elementyellow]神圣[#]',
     '神聖': '[##elementyellow]神聖[#]',
     '冰雪': '[##elementblue]冰雪[#]',
+    '冰霜': '[##elementblue]冰霜[#]',
     'Dark': '[##elementpurple]Dark[#]',
     'Nature': '[##elementgreen]Nature[#]',
     'Fire': '[##elementred]Fire[#]',
@@ -50,6 +51,13 @@ COMMOM_DICT_CONFIG = {
     '衰退': '[#!]衰退[#]',
     '枯萎': '[#!]枯萎[#]',
     'Wither': '[#!]Wither[#]',
+    '法力': '[#!]法力[#]',
+    'Mana': '[#!]Mana[#]',
+    '法力生成': '[#!]法力生成[#]',
+    '法力產出': '[#!]法力產出[#]',
+    'Mana generation': '[#!]Mana generation[#]',
+    '精准度': '[##elementyellow]精准度[#]',
+    '精準度': '[##elementyellow]精準度[#]',
     '成长恩赐': '[#!]成长恩赐[#]',
     '成長恩惠': '[#!]成長恩惠[#]',
     '成长': '[#!]成长[#]',
@@ -119,11 +127,6 @@ FAMILIES_BONUS_DICT = {
 
 PASSIVES_DICT = {
     # 在这里添加passives专属字典
-    '防御': '[#!]防御[#]',
-    '防禦': '[#!]防禦[#]',
-    '元素防御': '[#!]元素防御[#]',
-    '元素防禦': '[#!]元素防禦[#]',
-    '特殊技能': '[#!]特殊技能[#]',
     '剧毒': '[##elementpurple]剧毒[#]',
     '劇毒': '[##elementpurple]劇毒[#]',
     '燃烧': '[##elementred]燃烧[#]',

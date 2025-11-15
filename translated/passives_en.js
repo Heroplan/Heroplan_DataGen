@@ -29,7 +29,7 @@ const allTranslations =
         "originalIndex": 5,
         "name": "阿加罗斯 (Agharoth)",
         "passives": [
-            "Resist Mana Ailments: This character is immune to status ailments and negative stacks that affect mana generation. Applies also to status ailments that block mana or steal mana.",
+            "Resist [#!]Mana[#] Ailments: This character is immune to status ailments and negative stacks that affect mana generation. Applies also to status ailments that block mana or steal mana.",
             "Perfect Accuracy: This character’s Special Skill never misses its targets."
         ]
     },
@@ -40,7 +40,7 @@ const allTranslations =
             "Transform Ailments: Each time this character casts their Special Skill, all cleansable status ailments affecting attack, defense and mana generation on all allies are transformed into matching undispellable buffs. Transformed effects:",
             " * Attack status ailments are transformed into +40% attack buffs for 3 turns.",
             " * Defense status ailments are transformed into +40% defense buffs for 3 turns.",
-            " * Mana generation status ailments are transformed into +40% mana generation buffs for 3 turns.",
+            " * [#!]Mana generation[#] status ailments are transformed into +40% mana generation buffs for 3 turns.",
             "Flight Momentum: If this character has any amount of Flight Momentum, they receive:",
             " * Up to +35% mana generation.",
             " * Up to +25% extra chance to dodge.",
@@ -437,7 +437,7 @@ const allTranslations =
         "originalIndex": 65,
         "name": "格雷戈 (Greg)",
         "passives": [
-            "Resist Mana reduction: This character has an innate resistance against Mana Reduction.",
+            "Resist [#!]Mana[#] reduction: This character has an innate resistance against [#!]Mana[#] Reduction.",
             "Guard Rally: Every 4 turns, removes all [#!]Wither[#] effects from all allies."
         ]
     },
@@ -546,7 +546,7 @@ const allTranslations =
         "originalIndex": 82,
         "name": "奥尔贝克 (Olbec)",
         "passives": [
-            "Reduce Mana Gain from Special Skill: Reduces the amount of mana increased by Special Skill by -80%. The effect applies to all enemies in the battle."
+            "Reduce [#!]Mana[#] Gain from Special Skill: Reduces the amount of mana increased by Special Skill by -80%. The effect applies to all enemies in the battle."
         ]
     },
     {
@@ -702,7 +702,7 @@ const allTranslations =
         "originalIndex": 107,
         "name": "阿纳特玛 (Anatemah)",
         "passives": [
-            "Resist Mana Ailments: This character is immune to status ailments and negative stacks that affect mana generation. Applies also to status ailments that block mana or steal mana.",
+            "Resist [#!]Mana[#] Ailments: This character is immune to status ailments and negative stacks that affect mana generation. Applies also to status ailments that block mana or steal mana.",
             "Perfect Accuracy: This character’s Special Skill never misses its targets."
         ]
     },
@@ -834,7 +834,7 @@ const allTranslations =
             "Transform Buffs: Each time this character casts their Special Skill, all dispellable buffs affecting attack, defense and mana generation on all enemies are transformed into matching undispellable status ailments. Transformed effects:",
             " * Attack buffs are transformed into -40% attack status ailments for 3 turns.",
             " * Defense buffs are transformed into -40% defense status ailments for 3 turns.",
-            " * Mana generation buffs are transformed into -40% mana generation status ailments for 3 turns.",
+            " * [#!]Mana generation[#] buffs are transformed into -40% mana generation status ailments for 3 turns.",
             "Flight Momentum: If this character has any amount of Flight Momentum, they receive:",
             " * Up to +35% mana generation.",
             " * Up to +25% extra chance to dodge.",
@@ -892,7 +892,7 @@ const allTranslations =
         "originalIndex": 129,
         "name": "卡伦 (Caelen)",
         "passives": [
-            "Resist Mana reduction: This character has an innate resistance against mana Reduction.",
+            "Resist [#!]Mana[#] reduction: This character has an innate resistance against mana Reduction.",
             "Guard Rally: Every 4 turns, removes all [#!]Wither[#] effects from all allies."
         ]
     },
@@ -973,7 +973,7 @@ const allTranslations =
         "originalIndex": 139,
         "name": "嫦娥 (Chang'e)",
         "passives": [
-            "Mana on Buff Received: This character has a 50% chance to gain 10% mana when they receive a buff or possitive stack.",
+            "[#!]Mana[#] on Buff Received: This character has a 50% chance to gain 10% mana when they receive a buff or possitive stack.",
             "Health Recovery on Buff Received: This character has a 50% chance to recover 10% health when they receive a buff or possitve stack."
         ]
     },
@@ -995,7 +995,7 @@ const allTranslations =
         "originalIndex": 142,
         "name": "齐特拉伽达 (Chitrangada)",
         "passives": [
-            "Mana on Damage Received:",
+            "[#!]Mana[#] on Damage Received:",
             " * When this character receives direct damage from Special Skills or Normal Attacks they receive a small amount of mana.",
             " * Maximum of 10% mana gained per turn.",
             "Superior Resist Negative Minion Effects: This character has innate resistance against incoming negative effects and damage from Minions and Mega Minions."
@@ -1005,7 +1005,7 @@ const allTranslations =
         "originalIndex": 143,
         "name": "席亚拉 (Ciara)",
         "passives": [
-            "Resist Mana reduction: This character has an innate resistance against mana Reduction.",
+            "Resist [#!]Mana[#] reduction: This character has an innate resistance against mana Reduction.",
             "Guard Rally: Every 4 turns, removes all [#!]Wither[#] effects from all allies."
         ]
     },
@@ -1080,14 +1080,14 @@ const allTranslations =
         "originalIndex": 153,
         "name": "艾克塞拉 (Exeera)",
         "passives": [
-            "Start Battle with Mana: This character receives 20% mana at the start of the battle."
+            "Start Battle with [#!]Mana[#]: This character receives 20% mana at the start of the battle."
         ]
     },
     {
         "originalIndex": 154,
         "name": "艾克塞拉 (Exeera) C1",
         "passives": [
-            "Start Battle with Mana: This character receives 20% mana at the start of the battle.",
+            "Start Battle with [#!]Mana[#]: This character receives 20% mana at the start of the battle.",
             "Increased Damage Against Boosted Health: After this character casts their Special Skill, all allies deal +70% increased normal attack and Special Skills damage against targets with boosted health for 4 turns."
         ]
     },
@@ -1118,8 +1118,8 @@ const allTranslations =
         "originalIndex": 158,
         "name": "费格斯 (Fergus)",
         "passives": [
-            "Mana on Status Ailment Received: This character gains 5% mana when they receive a status ailment or negative stack.",
-            "Resist Mana reduction: This character has an innate resistance against mana Reduction.",
+            "[#!]Mana[#] on Status Ailment Received: This character gains 5% mana when they receive a status ailment or negative stack.",
+            "Resist [#!]Mana[#] reduction: This character has an innate resistance against mana Reduction.",
             "Guard Rally: Every 4 turns, removes all [#!]Wither[#] effects from all allies."
         ]
     },
@@ -1178,7 +1178,7 @@ const allTranslations =
         "originalIndex": 166,
         "name": "冰嗅 (Frostsnout)",
         "passives": [
-            "Resist Mana Reduction: This character has an innate resistance against mana reduction.",
+            "Resist [#!]Mana[#] Reduction: This character has an innate resistance against mana reduction.",
             "Guard Rally: Every 4 turns, removes all [#!]Wither[#] effects from all allies."
         ]
     },
@@ -1213,7 +1213,7 @@ const allTranslations =
         "name": "格拉迪乌斯 (Gladius)",
         "passives": [
             "Resist Special Skill Blocking: This character has innate resistance against status ailments that block Special Skills.",
-            "Mana on Enemy Defensive Buffs: This character gains 10% mana when any enemy receives a defenseive buff."
+            "[#!]Mana[#] on Enemy Defensive Buffs: This character gains 10% mana when any enemy receives a defenseive buff."
         ]
     },
     {
@@ -1313,7 +1313,7 @@ const allTranslations =
         "name": "艾莉丝 (Iris)",
         "passives": [
             "Resist Burn: This character has innate resistance against Burn.",
-            "Mana on Buff Dispel: This character receives 10% mana each time a buff is dispelled from this character. This effect can activate only once per turn."
+            "[#!]Mana[#] on Buff Dispel: This character receives 10% mana each time a buff is dispelled from this character. This effect can activate only once per turn."
         ]
     },
     {
@@ -1400,7 +1400,7 @@ const allTranslations =
         "name": "克拉恩 (Klaern)",
         "passives": [
             "Resist Special Skill Blocking: This character has innate resistance against status ailments that block Special Skills.",
-            "Resist Mana Reduction: This character has innate resistance against mana reduction."
+            "Resist [#!]Mana[#] Reduction: This character has innate resistance against mana reduction."
         ]
     },
     {
@@ -1451,7 +1451,7 @@ const allTranslations =
         "originalIndex": 201,
         "name": "莱莎诺 (Lysanor)",
         "passives": [
-            "Mana on Buff Received: Gain 5% mana when receiving a buff or a positive stack.",
+            "[#!]Mana[#] on Buff Received: Gain 5% mana when receiving a buff or a positive stack.",
             "Health Recovery on Buff Received: This character recovers 5% health when they receive a buff or a positive stack."
         ]
     },
@@ -1496,7 +1496,7 @@ const allTranslations =
         "originalIndex": 208,
         "name": "马莉奥尔 (Mariol)",
         "passives": [
-            "Reduce Mana Gain from Special Skills: Reduces the amount of mana increased by Special Skill by -80%. The effect applies to all enemies in the battle."
+            "Reduce [#!]Mana[#] Gain from Special Skills: Reduces the amount of mana increased by Special Skill by -80%. The effect applies to all enemies in the battle."
         ]
     },
     {
@@ -1521,7 +1521,7 @@ const allTranslations =
         "name": "梅内 (Mene)",
         "passives": [
             "Resist Burn: This character has innate resistance against Burn.",
-            "Mana on Frost: This character gains 5% mana each time an enemy receives [##elementblue]Frost damage[#]."
+            "[#!]Mana[#] on Frost: This character gains 5% mana each time an enemy receives [##elementblue]Frost damage[#]."
         ]
     },
     {
@@ -1542,14 +1542,14 @@ const allTranslations =
         "originalIndex": 215,
         "name": "米莱娜 (Milena)",
         "passives": [
-            "Mana on Special: When this character casts their Special Skill, they have a 50% chance to give 10% mana to all allies. If the Special Skill is fully charged, the chance is 100%."
+            "[#!]Mana[#] on Special: When this character casts their Special Skill, they have a 50% chance to give 10% mana to all allies. If the Special Skill is fully charged, the chance is 100%."
         ]
     },
     {
         "originalIndex": 216,
         "name": "米莱娜 (Milena) C1",
         "passives": [
-            "Mana on Special: When this character casts their Special Skill, they have a 60% chance to give 10% mana to all allies. If the Special Skill is fully charged, the chance is 100%.",
+            "[#!]Mana[#] on Special: When this character casts their Special Skill, they have a 60% chance to give 10% mana to all allies. If the Special Skill is fully charged, the chance is 100%.",
             "Weaker Mega Minions: Enemy Mega Minions have -75% HP."
         ]
     },
@@ -1579,7 +1579,7 @@ const allTranslations =
         "originalIndex": 221,
         "name": "米斯特拉 (Mistra)",
         "passives": [
-            "Mana Buff on Status Ailment Received: The character with this skill receives +24% mana generation for 3 turns when they receive any status ailment or a negative stack.",
+            "[#!]Mana[#] Buff on Status Ailment Received: The character with this skill receives +24% mana generation for 3 turns when they receive any status ailment or a negative stack.",
             "Damage on Enemy Special: If a target is Average mana speed or faster casts a Special Skill, all enemies receive 100 damage. This effect can activate only once per turn.",
             "Resist Attack Ailments: This character has innate resistance against status ailments that affect attack."
         ]
@@ -1596,8 +1596,8 @@ const allTranslations =
         "originalIndex": 223,
         "name": "莫德瑞丝 (Modthryth)",
         "passives": [
-            "Mana on Buff Received: This character gains 5% mana when they receive a buff or positive stack.",
-            "Empowered Resist Mana Reductions: This character has innate resistance against mana reduction. They also gain 600 boosted health and 10% mana each time they resist.",
+            "[#!]Mana[#] on Buff Received: This character gains 5% mana when they receive a buff or positive stack.",
+            "Empowered Resist [#!]Mana[#] Reductions: This character has innate resistance against mana reduction. They also gain 600 boosted health and 10% mana each time they resist.",
             "Resist Buff Immunity: This character has innate resistance against ailments that give immunity to new buffs."
         ]
     },
@@ -1659,7 +1659,7 @@ const allTranslations =
         "name": "九头兽 (Nine-Headed Beast)",
         "passives": [
             "Health Recovery on Buff Received: This characters has a 50% chance to  recover 10% health when they receive a buff or a positive stack.",
-            "Mana on Buff Received: This characters has a 50% chance to recover 10% mana when they receive a buff or a positive stack."
+            "[#!]Mana[#] on Buff Received: This characters has a 50% chance to recover 10% mana when they receive a buff or a positive stack."
         ]
     },
     {
@@ -1866,9 +1866,9 @@ const allTranslations =
         "originalIndex": 261,
         "name": "开悟 (Satori)",
         "passives": [
-            "Mana Buff on Status Ailment Received: The character with this skill receives +24% mana generation for 3 turns when they receive any status ailment or a negative stack.",
+            "[#!]Mana[#] Buff on Status Ailment Received: The character with this skill receives +24% mana generation for 3 turns when they receive any status ailment or a negative stack.",
             "Health Boost on Buff Dispel: This character receives 450 boosted health each time a buff is dispelled from this character. This effect can activate only once per turn.",
-            "Mana on Buff Dispel: This character receives 10% mana each time a buff is dispelled from them. This effect can activate only once per turn."
+            "[#!]Mana[#] on Buff Dispel: This character receives 10% mana each time a buff is dispelled from them. This effect can activate only once per turn."
         ]
     },
     {
@@ -1891,7 +1891,7 @@ const allTranslations =
         "name": "西尼 (Sini)",
         "passives": [
             "Resist Special Skill Blocking: This character has innate resistance against status ailments that block Special Skills.",
-            "Status Effect on Mana Reduction: This character get +30% attack for 3 turns when their mana is reduced."
+            "Status Effect on [#!]Mana[#] Reduction: This character get +30% attack for 3 turns when their mana is reduced."
         ]
     },
     {
@@ -2081,7 +2081,7 @@ const allTranslations =
         "originalIndex": 290,
         "name": "蒂米乌斯 (Timius)",
         "passives": [
-            "Reduce Mana Gain from Special Skills: Reduces the amount of mana increased by Special Skill by -80%. The effect applies to all enemies in the battle."
+            "Reduce [#!]Mana[#] Gain from Special Skills: Reduces the amount of mana increased by Special Skill by -80%. The effect applies to all enemies in the battle."
         ]
     },
     {
@@ -2382,7 +2382,7 @@ const allTranslations =
         "originalIndex": 333,
         "name": "费瑟里诺 (Featherino)",
         "passives": [
-            "Reduce Mana Gain from Special Skills: Reduces the amount of mana increased by Special Skill by -80%. The effect applies to all enemies in the battle."
+            "Reduce [#!]Mana[#] Gain from Special Skills: Reduces the amount of mana increased by Special Skill by -80%. The effect applies to all enemies in the battle."
         ]
     },
     {
@@ -2544,7 +2544,7 @@ const allTranslations =
         "originalIndex": 358,
         "name": "洛茜娅 (Roxia)",
         "passives": [
-            "Mana on Special: When this character casts their Special Skill, they have a 50% chance to give 10% mana to all allies. If the Special Skill is fully charged, the chance is 100%.",
+            "[#!]Mana[#] on Special: When this character casts their Special Skill, they have a 50% chance to give 10% mana to all allies. If the Special Skill is fully charged, the chance is 100%.",
             "Stack on Special: When this character casts their Special Skill, all enemies get -5% mana generation stack. If the Special Skill is fully charged, all enemies get two stacks. An enemy can have up to 10 stacks."
         ]
     },
@@ -2562,7 +2562,7 @@ const allTranslations =
         "originalIndex": 361,
         "name": "威廉 (William)",
         "passives": [
-            "Resist Mana reduction: This character has an innate resistance against mana Reduction.",
+            "Resist [#!]Mana[#] reduction: This character has an innate resistance against mana Reduction.",
             "Guard Rally: Every 4 turns, removes all [#!]Wither[#] effects from all allies."
         ]
     },
@@ -3030,7 +3030,7 @@ const allTranslations =
         "originalIndex": 433,
         "name": "阿奇巴尔德 (Archibald)",
         "passives": [
-            "Resist Mana reduction: This character has an innate resistance against mana Reduction.",
+            "Resist [#!]Mana[#] reduction: This character has an innate resistance against mana Reduction.",
             "Guard Rally: Every 4 turns, removes all [#!]Wither[#] effects from all allies."
         ]
     },
@@ -3127,7 +3127,7 @@ const allTranslations =
         "name": "博与朗特 (Bo & Runt)",
         "passives": [
             "Resist Minion Removal: This character has innate resistance against Minion removal.",
-            "Mana on Minion Summon: When a Minion is summoned to an ally, this character gains 5% mana. This effect can activate only once per turn."
+            "[#!]Mana[#] on Minion Summon: When a Minion is summoned to an ally, this character gains 5% mana. This effect can activate only once per turn."
         ]
     },
     {
@@ -3264,7 +3264,7 @@ const allTranslations =
         "name": "艾格齐乌 (Ecgtheow)",
         "passives": [
             "Perfect Accuracy: This character’s Special Skill never mises its target.",
-            "Mana on Buff Received: This character gains 5% mana when they receive a buff or positive stack.",
+            "[#!]Mana[#] on Buff Received: This character gains 5% mana when they receive a buff or positive stack.",
             "Stacking Attack On Damage Received: When this character receives damage from Special Skills, they gain +30% attack Stack (Max: 10). One Stack can be gained per turn."
         ]
     },
@@ -3316,7 +3316,7 @@ const allTranslations =
             " * Deals 70% damage to all enemies.",
             " * Dispels the latest dispellable buff from enemies.",
             "Guaranteed Effect on Special Skill: When this character casts their Special Skill, any of their Passive Skills that grant extra effects on cast are guaranteed to activate.",
-            "Mana on Status Ailment Received: This character gains 5% mana when they receive a status ailment or negative stack."
+            "[#!]Mana[#] on Status Ailment Received: This character gains 5% mana when they receive a status ailment or negative stack."
         ]
     },
     {
@@ -3353,7 +3353,7 @@ const allTranslations =
         "name": "埃拉德 (Elradir)",
         "passives": [
             "Resist Special Skill Blocking: This character has innate resistance against status ailments that Block Special Skills.",
-            "Mana on Status Ailment Received: This character gains 5% mana when they receive a status ailment or a negative stack."
+            "[#!]Mana[#] on Status Ailment Received: This character gains 5% mana when they receive a status ailment or a negative stack."
         ]
     },
     {
@@ -3363,7 +3363,7 @@ const allTranslations =
             "Transform Ailments: Each time this character casts their Special Skill, all cleansable status ailments affecting attack, defense and mana generation on all allies are transformed into matching undispellable buffs. Transformed effects:",
             " * Attack status ailments are transformed into +40% attack buffs for 3 turns.",
             " * Defense status ailments are transformed into +40% defense buffs for 3 turns.",
-            " * Mana generation status ailments are transformed into +40% mana generation buffs for 3 turns.",
+            " * [#!]Mana generation[#] status ailments are transformed into +40% mana generation buffs for 3 turns.",
             "Flight Momentum: If this character has any amount of Flight Momentum, they receive:",
             " * Up to +35% mana generation.",
             " * Up to +25% extra chance to dodge.",
@@ -3445,7 +3445,7 @@ const allTranslations =
         "originalIndex": 485,
         "name": "弗洛伦娜 (Florenna)",
         "passives": [
-            "Mana on Status Ailment Received: This character gains 5% mana when they receive a status ailment or a negative stack.",
+            "[#!]Mana[#] on Status Ailment Received: This character gains 5% mana when they receive a status ailment or a negative stack.",
             "Resist Poison: This character has innate resistance against Poison."
         ]
     },
@@ -3474,8 +3474,8 @@ const allTranslations =
         "originalIndex": 489,
         "name": "弗蕾亚瓦鲁 (Freawaru)",
         "passives": [
-            "Mana Per Enemy Buff: Gains a small amount of mana for every active status effect buff that the enemy team has at the start of each turn (maximum of 20 buffs).",
-            "Empowered Resist Mana Reduction: This character has innate resistance against mana reductions. They also gain 600 boosted health and 10% mana each time they resist.",
+            "[#!]Mana[#] Per Enemy Buff: Gains a small amount of mana for every active status effect buff that the enemy team has at the start of each turn (maximum of 20 buffs).",
+            "Empowered Resist [#!]Mana[#] Reduction: This character has innate resistance against mana reductions. They also gain 600 boosted health and 10% mana each time they resist.",
             "Resist Buff Blocking: This character is immune to effect that would block them from receiving new status effect buffs."
         ]
     },
@@ -3580,7 +3580,7 @@ const allTranslations =
         "originalIndex": 503,
         "name": "戈弗雷 (Godfrey)",
         "passives": [
-            "Resist Mana reduction: This character has an innate resistance against mana Reduction.",
+            "Resist [#!]Mana[#] reduction: This character has an innate resistance against mana Reduction.",
             "Guard Rally: Every 4 turns, removes all [#!]Wither[#] effects from all allies."
         ]
     },
@@ -3597,7 +3597,7 @@ const allTranslations =
         "name": "格蕾丝 (Grace)",
         "passives": [
             "Resist Burn: This character has innate resistance against Burn.",
-            "Mana on [##elementred]Taunt[#]: Each time an enemy receives a [##elementred]Taunt[#] status effect this character’s mana is increased by 10%."
+            "[#!]Mana[#] on [##elementred]Taunt[#]: Each time an enemy receives a [##elementred]Taunt[#] status effect this character’s mana is increased by 10%."
         ]
     },
     {
@@ -3622,7 +3622,7 @@ const allTranslations =
         "name": "格伦德尔 (Grendel)",
         "passives": [
             "Perfect Accuracy: This character’s Special Skill never mises its target.",
-            "Empowered Resist Mana Reductions: This character has innate resistance against mana reduction. They also gain 600 boosted health and 10% mana each time they resist.",
+            "Empowered Resist [#!]Mana[#] Reductions: This character has innate resistance against mana reduction. They also gain 600 boosted health and 10% mana each time they resist.",
             "Stacking Attack On Damage Received: When this character receives damage from Special Skills, they gain +30% attack Stack (Max: 10). One Stack can be gained per turn."
         ]
     },
@@ -3803,7 +3803,7 @@ const allTranslations =
         "originalIndex": 536,
         "name": "柯利亚 (Kolya)",
         "passives": [
-            "Resist Mana reduction: This character has an innate resistance against mana Reduction.",
+            "Resist [#!]Mana[#] reduction: This character has an innate resistance against mana Reduction.",
             "Guard Rally: Every 4 turns, removes all [#!]Wither[#] effects from all allies."
         ]
     },
@@ -3944,7 +3944,7 @@ const allTranslations =
             " * Deals 70% damage to all enemies.",
             " * All enemies get -34% attack for 3 turns.",
             "Extra Chance for Effects on Special Skill: When this character casts their  Special Skill, any of their Passive Skills that grant extra effects on cast have 3 chances to activate.",
-            "Mana on Health Boosting Special Skill: This character gains 5% mana each time an enemy casts a Special Skill that directly boosts health."
+            "[#!]Mana[#] on Health Boosting Special Skill: This character gains 5% mana each time an enemy casts a Special Skill that directly boosts health."
         ]
     },
     {
@@ -4051,8 +4051,8 @@ const allTranslations =
         "originalIndex": 570,
         "name": "诺古 (Nogu)",
         "passives": [
-            "Mana Buff on Status Ailment Received: Receives +24% mana generation for 3  turns when this character receives a status ailment or a negative stack.",
-            "Mana on Health Boosting Special Skill: This character gains 10% mana each  time an enemy casts a Special Skill that directly boosts health.",
+            "[#!]Mana[#] Buff on Status Ailment Received: Receives +24% mana generation for 3  turns when this character receives a status ailment or a negative stack.",
+            "[#!]Mana[#] on Health Boosting Special Skill: This character gains 10% mana each  time an enemy casts a Special Skill that directly boosts health.",
             "Health Boost on Enemy Health Boost: This character gets 450 boosted health  each time an enemy casts a Special Skill that directly boosts health."
         ]
     },
@@ -4116,7 +4116,7 @@ const allTranslations =
         "originalIndex": 578,
         "name": "皮普 (Pip)",
         "passives": [
-            "Resist Mana reduction: This character has an innate resistance against mana Reduction.",
+            "Resist [#!]Mana[#] reduction: This character has an innate resistance against mana Reduction.",
             "Guard Rally: Every 4 turns, removes all [#!]Wither[#] effects from all allies."
         ]
     },
@@ -4163,7 +4163,7 @@ const allTranslations =
             "Transform Ailments: Each time this character casts their Special Skill, all cleansable status ailments affecting attack, defense and mana generation on all allies are transformed into matching undispellable buffs. Transformed effects:",
             " * Attack status ailments are transformed into +40% attack buffs for 3 turns.",
             " * Defense status ailments are transformed into +40% defense buffs for 3 turns.",
-            " * Mana generation status ailments are transformed into +40% mana generation buffs for 3 turns.",
+            " * [#!]Mana generation[#] status ailments are transformed into +40% mana generation buffs for 3 turns.",
             "Flight Momentum: If this character has any amount of Flight Momentum, they receive:",
             " * Up to +35% mana generation.",
             " * Up to +25% extra chance to dodge.",
@@ -4185,7 +4185,7 @@ const allTranslations =
         "originalIndex": 587,
         "name": "雷利乌斯 (Relius)",
         "passives": [
-            "Reduce Mana Gain from Special Skills: Reduces the amount of mana increased by Special Skill by -80%. The effect applies to all enemies in the battle."
+            "Reduce [#!]Mana[#] Gain from Special Skills: Reduces the amount of mana increased by Special Skill by -80%. The effect applies to all enemies in the battle."
         ]
     },
     {
@@ -4227,7 +4227,7 @@ const allTranslations =
         "originalIndex": 592,
         "name": "沙悟净 (Sha Wujing)",
         "passives": [
-            "Mana on Buff Received: This character has a 50% chance to gain 10% mana when they receive a buff or possitive stack.",
+            "[#!]Mana[#] on Buff Received: This character has a 50% chance to gain 10% mana when they receive a buff or possitive stack.",
             "Health Recovery on Buff Received: This character has a 50% chance to recover 10% health when they receive a buff or possitve stack."
         ]
     },
@@ -4404,8 +4404,8 @@ const allTranslations =
         "originalIndex": 614,
         "name": "狄奥多西 (Theodosius)",
         "passives": [
-            "Mana on Status Ailment Received: This character gains 5% mana when they receive a status ailment or negative stack.",
-            "Resist Mana reduction: This character has an innate resistance against mana Reduction.",
+            "[#!]Mana[#] on Status Ailment Received: This character gains 5% mana when they receive a status ailment or negative stack.",
+            "Resist [#!]Mana[#] reduction: This character has an innate resistance against mana Reduction.",
             "Guard Rally: Every 4 turns, removes all [#!]Wither[#] effects from all allies."
         ]
     },
@@ -4447,7 +4447,7 @@ const allTranslations =
         "originalIndex": 620,
         "name": "韦鲁斯 (Verus)",
         "passives": [
-            "Reduce Mana Gain from Special Skills: Reduces the amount of mana increased by Special Skill by -80%. The effect applies to all enemies in the battle."
+            "Reduce [#!]Mana[#] Gain from Special Skills: Reduces the amount of mana increased by Special Skill by -80%. The effect applies to all enemies in the battle."
         ]
     },
     {
@@ -4494,7 +4494,7 @@ const allTranslations =
         "originalIndex": 626,
         "name": "克沙赫尔 (Xshahr)",
         "passives": [
-            "Resist Mana Ailments: This character is immune to status ailments and negative stacks that affect mana generation. Applies also to status ailments that block mana or steal mana.",
+            "Resist [#!]Mana[#] Ailments: This character is immune to status ailments and negative stacks that affect mana generation. Applies also to status ailments that block mana or steal mana.",
             "Perfect Accuracy: This character’s Special Skill never misses its targets."
         ]
     },
@@ -4593,7 +4593,7 @@ const allTranslations =
         "passives": [
             "Effects on Special Skill: 50% chance to perform the following actions when this character casts their Special Skill: * Deals 70% damage to all enemies. * Dispells the latest dispellable buff from all enemies.",
             "Extra Chance for Effects On Special Skill: When this character casts their Special Skill, any of their Passive Skills that grant extra effects on cast have 3 chances to activate.",
-            "Mana on Status Ailment Received: This character gains 5% mana when they receive a status ailment or negative stack."
+            "[#!]Mana[#] on Status Ailment Received: This character gains 5% mana when they receive a status ailment or negative stack."
         ]
     },
     {
@@ -4808,7 +4808,7 @@ const allTranslations =
         "originalIndex": 678,
         "name": "昂伏斯 (Unferth)",
         "passives": [
-            "Empowered Resist Mana Reductions: This character has innate resistance against mana reduction. They also gain 600 boosted health and 10% mana each time they resist.",
+            "Empowered Resist [#!]Mana[#] Reductions: This character has innate resistance against mana reduction. They also gain 600 boosted health and 10% mana each time they resist.",
             "Perfect Accuracy: This character’s Special Skill never mises its target."
         ]
     },
@@ -4836,7 +4836,7 @@ const allTranslations =
             " * Deals 70% damage to all enemies.",
             " * Dispels the latest dispellable buff from enemies.",
             "Extra Chance for Effects On Special Skill: When this character casts their Special Skill, any of their Passive Skills that grant extra effects on cast have 3 chances to activate.",
-            "Mana on Status Ailment Received: This character gains 5% mana each time they receive a status ailment or negative stack."
+            "[#!]Mana[#] on Status Ailment Received: This character gains 5% mana each time they receive a status ailment or negative stack."
         ]
     },
     {
@@ -4974,7 +4974,7 @@ const allTranslations =
         "originalIndex": 705,
         "name": "朱利安尼 (Juliani)",
         "passives": [
-            "Reduce Mana Gain from Special Skills: Reduces the amount of mana increased by Special Skill by -80%. The effect applies to all enemies in the battle."
+            "Reduce [#!]Mana[#] Gain from Special Skills: Reduces the amount of mana increased by Special Skill by -80%. The effect applies to all enemies in the battle."
         ]
     },
     {
@@ -5201,7 +5201,7 @@ const allTranslations =
             "Transform Buffs: Each time this character casts their Special Skill, all dispellable buffs affecting attack, defense and mana generation on all enemies are transformed into matching undispellable status ailments. Transformed effects:",
             " * Attack buffs are transformed into -40% attack status ailments for 3 turns.",
             " * Defense buffs are transformed into -40% defense status ailments for 3 turns.",
-            " * Mana generation buffs are transformed into -40% mana generation status ailments for 3 turns.",
+            " * [#!]Mana generation[#] buffs are transformed into -40% mana generation status ailments for 3 turns.",
             "Flight Momentum: If this character has any amount of Flight Momentum, they receive:",
             " * Up to +35% mana generation.",
             " * Up to +25% extra chance to dodge.",
@@ -5272,7 +5272,7 @@ const allTranslations =
             " * Deals 70% damage to all enemies.",
             " * Dispells the latest dispellable buff from all enemies.",
             "Guaranteed Effect on Special Skill: When this character casts their Special Skill, any of their Passive Skills that grant extra effects on cast are guaranteed to activate.",
-            "Mana on Status Ailment Received: This character gains 5% mana when they receive a status ailment or negative stack."
+            "[#!]Mana[#] on Status Ailment Received: This character gains 5% mana when they receive a status ailment or negative stack."
         ]
     },
     {
@@ -5294,7 +5294,7 @@ const allTranslations =
         "originalIndex": 751,
         "name": "阿法尼亚斯 (Arfanias)",
         "passives": [
-            "Status Effect on Mana Reduction: This character gets +30% attack for 3 turns when their mana reduced.",
+            "Status Effect on [#!]Mana[#] Reduction: This character gets +30% attack for 3 turns when their mana reduced.",
             "Resist Health Steal Ailments: This hero has innate resistance against status ailments that steal health."
         ]
     },
@@ -5341,7 +5341,7 @@ const allTranslations =
             " * Deals 70% damage to all enemies.",
             " * Dispells the latest dispellable buff from all enemies.",
             "Extra Chance for Effects On Special Skill: When this character casts their Special Skill, any of their Passive Skills that grant extra effects on cast have 3 chances to activate.",
-            "Mana on Status Ailment Received: This character gains 5% mana when they receive a status ailment or negative stack."
+            "[#!]Mana[#] on Status Ailment Received: This character gains 5% mana when they receive a status ailment or negative stack."
         ]
     },
     {
@@ -5365,7 +5365,7 @@ const allTranslations =
         "originalIndex": 758,
         "name": "贝拉多娜 (Belladonna)",
         "passives": [
-            "Mana increase reduction: Reduces the amount of mana increased by Special Skill by -80%. The effect applies to all enemies in the battle."
+            "[#!]Mana[#] increase reduction: Reduces the amount of mana increased by Special Skill by -80%. The effect applies to all enemies in the battle."
         ]
     },
     {
@@ -5404,15 +5404,15 @@ const allTranslations =
         "originalIndex": 764,
         "name": "塞妮乌丝 (Cennius)",
         "passives": [
-            "Reduce Mana Gain from Special Skills: Reduces the amount of mana increased by Special Skill by -80%. The effect applies to all enemies in the battle."
+            "Reduce [#!]Mana[#] Gain from Special Skills: Reduces the amount of mana increased by Special Skill by -80%. The effect applies to all enemies in the battle."
         ]
     },
     {
         "originalIndex": 765,
         "name": "查科斯兹洛特 (Chakkoszrot)",
         "passives": [
-            "Resist Mana reduction: This character has an innate resistance against mana Reduction.",
-            "Mana Buff on Status Ailment Received: Receives +24% mana generation for 3 turns when this character receives a status ailment or a negative stack."
+            "Resist [#!]Mana[#] reduction: This character has an innate resistance against mana Reduction.",
+            "[#!]Mana[#] Buff on Status Ailment Received: Receives +24% mana generation for 3 turns when this character receives a status ailment or a negative stack."
         ]
     },
     {
@@ -5694,8 +5694,8 @@ const allTranslations =
         "originalIndex": 800,
         "name": "格伦德尔之母 (Grendel's Mother)",
         "passives": [
-            "Mana of Buff Received: This character gains 5% mana when they receive a buff or possive stack.",
-            "Empowered Resist Mana Reductions: This character has innate resistance against mana reduction. They also gain 600 boosted health and 10% mana each time they resist.",
+            "[#!]Mana[#] of Buff Received: This character gains 5% mana when they receive a buff or possive stack.",
+            "Empowered Resist [#!]Mana[#] Reductions: This character has innate resistance against mana reduction. They also gain 600 boosted health and 10% mana each time they resist.",
             "Stacking Attack On Damage Received: When this character receives damage from Special Skills, they gain +30% attack Stack (Max: 10). One Stack can be gained per turn."
         ]
     },
@@ -5750,14 +5750,14 @@ const allTranslations =
         "originalIndex": 807,
         "name": "汉娜 (Hannah)",
         "passives": [
-            "Start Battle with Mana: This character receives 20% mana at the start of the battle."
+            "Start Battle with [#!]Mana[#]: This character receives 20% mana at the start of the battle."
         ]
     },
     {
         "originalIndex": 808,
         "name": "汉娜 (Hannah) C1",
         "passives": [
-            "Start Battle With Mana: This Hero receives 20% mana at the start of the battle.",
+            "Start Battle With [#!]Mana[#]: This Hero receives 20% mana at the start of the battle.",
             "Increased Damage Against Boosted Health: After this character casts their Special Skill, all allies deal +70% increased normal attacks and Special Skills damage against targets with boosted health for 4 turns."
         ]
     },
@@ -6013,7 +6013,7 @@ const allTranslations =
             "Transform Buffs: Each time this character casts their Special Skill, all dispellable buffs affecting attack, defense and mana generation on all enemies are transformed into matching undispellable status ailments. Transformed effects:",
             " * Attack buffs are transformed into -40% attack status ailments for 3 turns.",
             " * Defense buffs are transformed into -40% defense status ailments for 3 turns.",
-            " * Mana generation buffs are transformed into -40% mana generation status ailments for 3 turns.",
+            " * [#!]Mana generation[#] buffs are transformed into -40% mana generation status ailments for 3 turns.",
             "Flight Momentum: If this character has any amount of Flight Momentum, they receive:",
             " * Up to +35% mana generation.",
             " * Up to +25% extra chance to dodge.",
@@ -6082,7 +6082,7 @@ const allTranslations =
         "originalIndex": 851,
         "name": "麦希 (Maisie)",
         "passives": [
-            "Resist Mana reduction: This character has an innate resistance against mana Reduction.",
+            "Resist [#!]Mana[#] reduction: This character has an innate resistance against mana Reduction.",
             "Guard Rally: Every 4 turns, removes all [#!]Wither[#] effects from all allies."
         ]
     },
@@ -6091,7 +6091,7 @@ const allTranslations =
         "name": "马利克纳 (Malicna)",
         "passives": [
             "Resist Health Steal Ailments: This character has innate resistance against status ailments that steal health.",
-            "Status Effect on Mana Reduction: This character gets +94% defense against [##elementyellow]Holy[#] for 3 turns when their mana is reduced."
+            "Status Effect on [#!]Mana[#] Reduction: This character gets +94% defense against [##elementyellow]Holy[#] for 3 turns when their mana is reduced."
         ]
     },
     {
@@ -6171,8 +6171,8 @@ const allTranslations =
         "originalIndex": 862,
         "name": "摩拉克斯 (Morax)",
         "passives": [
-            "Resist Mana Generation Ailments: This character has innate resistance against status ailments and negative stacks that affect mana generation. Doesn’t apply to status ailments that stop mana generation or steal mana.",
-            "Mana on Health Boosting Special Skill: This character gains 5% mana each time an enemy casts a Special Skill that directly boosts health."
+            "Resist [#!]Mana[#] Generation Ailments: This character has innate resistance against status ailments and negative stacks that affect mana generation. Doesn’t apply to status ailments that stop mana generation or steal mana.",
+            "[#!]Mana[#] on Health Boosting Special Skill: This character gains 5% mana each time an enemy casts a Special Skill that directly boosts health."
         ]
     },
     {
@@ -6201,7 +6201,7 @@ const allTranslations =
         "originalIndex": 866,
         "name": "娜希莎 (Narcisa)",
         "passives": [
-            "Mana increase reduction: Reduces the amount of mana increased by Special Skill by -80%. The effect applies to all enemies in the battle."
+            "[#!]Mana[#] increase reduction: Reduces the amount of mana increased by Special Skill by -80%. The effect applies to all enemies in the battle."
         ]
     },
     {
@@ -6253,7 +6253,7 @@ const allTranslations =
         "originalIndex": 874,
         "name": "奥莫德斯 (Ommodus)",
         "passives": [
-            "Reduce Mana Gain from Special Skills: Reduces the amount of mana increased by Special Skill by -80%. The effect applies to all enemies in the battle."
+            "Reduce [#!]Mana[#] Gain from Special Skills: Reduces the amount of mana increased by Special Skill by -80%. The effect applies to all enemies in the battle."
         ]
     },
     {
@@ -6265,7 +6265,7 @@ const allTranslations =
         "originalIndex": 876,
         "name": "派蒙 (Paimon)",
         "passives": [
-            "Resist Mana Ailments: This character is immune to status ailments and negative stacks that affect mana generation. Applies also to status ailments that block mana or steal mana.",
+            "Resist [#!]Mana[#] Ailments: This character is immune to status ailments and negative stacks that affect mana generation. Applies also to status ailments that block mana or steal mana.",
             "Perfect Accuracy: This character’s Special Skill never misses its targets."
         ]
     },
@@ -6354,9 +6354,9 @@ const allTranslations =
         "originalIndex": 889,
         "name": "拉蒙娜 (Ramona)",
         "passives": [
-            "Mana Buff on Status Ailment Received: Receives +24% mana generation for 3 turns when this character receives a status ailment or a negative stack.",
+            "[#!]Mana[#] Buff on Status Ailment Received: Receives +24% mana generation for 3 turns when this character receives a status ailment or a negative stack.",
             "Health Boost on Fiend Summon: When a Fiend is summoned to any enemy, this character gets 300 boosted health. This effect can activate only once per turn.",
-            "Mana on Fiend Summon: When a Fiend is summoned to any enemy, this character gains 5% mana. This effect can activate only once per turn."
+            "[#!]Mana[#] on Fiend Summon: When a Fiend is summoned to any enemy, this character gains 5% mana. This effect can activate only once per turn."
         ]
     },
     {
@@ -6514,8 +6514,8 @@ const allTranslations =
         "originalIndex": 912,
         "name": "卡斯米尔爵士 (Sir Casmir)",
         "passives": [
-            "Resist Mana Generation Ailments: This character has innate resistance against ailments and negative stacks that affect mana generation. Doesn’t apply to status ailments that stop mana generation or steal mana.",
-            "Mana on Health Recovery: This character receives 5% mana each time its health is recovered."
+            "Resist [#!]Mana[#] Generation Ailments: This character has innate resistance against ailments and negative stacks that affect mana generation. Doesn’t apply to status ailments that stop mana generation or steal mana.",
+            "[#!]Mana[#] on Health Recovery: This character receives 5% mana each time its health is recovered."
         ]
     },
     {
@@ -6543,7 +6543,7 @@ const allTranslations =
             " * Deals 70% damage to all enemies.",
             " * Dispels the latest dispellable buff from all enemies.",
             "Extra Chance for Effects On Special Skill: When this character casts their Special Skill, any of their Passive Skills that grant extra effects on cast have 3 chances to activate.",
-            "Mana on Status Ailment Received: This character gains 5% mana when they receive a status ailment or negative stack."
+            "[#!]Mana[#] on Status Ailment Received: This character gains 5% mana when they receive a status ailment or negative stack."
         ]
     },
     {
@@ -6558,7 +6558,7 @@ const allTranslations =
         "name": "塔姆林 (Tamlin)",
         "passives": [
             "Resist Insanity: This character has innate resistance against Insanity.",
-            "Mana on Status Ailment Received: This character gains 5% mana when they receive a status ailment or a negative stacks.",
+            "[#!]Mana[#] on Status Ailment Received: This character gains 5% mana when they receive a status ailment or a negative stacks.",
             "Resist Attack Reduction: This character has innate resistance against status ailments, stacks and [#!]Wither[#] effects that affect attack."
         ]
     },
@@ -6672,7 +6672,7 @@ const allTranslations =
         "originalIndex": 932,
         "name": "乌丝拉甘 (Uthragan)",
         "passives": [
-            "Mana Generation Stopping: This character has innate resistance against status ailments that stop mana generation.",
+            "[#!]Mana[#] Generation Stopping: This character has innate resistance against status ailments that stop mana generation.",
             "Resist Poison: This character has innate resistance against Poison."
         ]
     },
@@ -6721,7 +6721,7 @@ const allTranslations =
         "originalIndex": 938,
         "name": "维奥莱特·波茨 (Violet Potts)",
         "passives": [
-            "Resist Mana reduction: This character has an innate resistance against mana Reduction.",
+            "Resist [#!]Mana[#] reduction: This character has an innate resistance against mana Reduction.",
             "Guard Rally: Every 4 turns, removes all [#!]Wither[#] effects from all allies."
         ]
     },
@@ -6758,7 +6758,7 @@ const allTranslations =
         "originalIndex": 943,
         "name": "蝎子精 (Xie Zi Jing)",
         "passives": [
-            "Mana on Buff Received: This character has a 50% chance to gain 10% mana when they receive a buff or possitive stack.",
+            "[#!]Mana[#] on Buff Received: This character has a 50% chance to gain 10% mana when they receive a buff or possitive stack.",
             "Health Recovery on Buff Received: This character has a 50% chance to recover 10% health when they receive a buff or possitve stack."
         ]
     },
@@ -7111,14 +7111,14 @@ const allTranslations =
         "originalIndex": 997,
         "name": "沃勒莫克 (Vollermork)",
         "passives": [
-            "Start Battle with Mana: This character receives 20% mana at the start of the battle."
+            "Start Battle with [#!]Mana[#]: This character receives 20% mana at the start of the battle."
         ]
     },
     {
         "originalIndex": 998,
         "name": "沃勒莫克 (Vollermork) C1",
         "passives": [
-            "Start Battle with Mana: This character receives 20% mana at the start of the battle."
+            "Start Battle with [#!]Mana[#]: This character receives 20% mana at the start of the battle."
         ]
     },
     {
@@ -7138,7 +7138,7 @@ const allTranslations =
             " * Deals 70% damage to all enemies.",
             " * All enemies get -34% attack for 3 turns.",
             "Extra Chance for Effects on Special Skill: When this character casts their Special Skill, any of their Passive Skills that grant extra effects on cast have 3 chances to activate.",
-            "Mana on Health Boosting Special Skill: This character gains 5% mana each time an enemy casts a Special Skill that directly boosts health."
+            "[#!]Mana[#] on Health Boosting Special Skill: This character gains 5% mana each time an enemy casts a Special Skill that directly boosts health."
         ]
     },
     {
@@ -7366,7 +7366,7 @@ const allTranslations =
         "originalIndex": 1036,
         "name": "马埃尔 (Mael)",
         "passives": [
-            "Resist Mana Ailments: This character is immune to status ailments and negative stacks that affect mana generation. Applies also to status ailments that block mana or steal mana.",
+            "Resist [#!]Mana[#] Ailments: This character is immune to status ailments and negative stacks that affect mana generation. Applies also to status ailments that block mana or steal mana.",
             "Perfect Accuracy: This character’s Special Skill never misses its targets."
         ]
     },
@@ -7385,7 +7385,7 @@ const allTranslations =
             "Transform Buffs: Each time this character casts their Special Skill, all dispellable buffs affecting attack, defense and mana generation on all enemies are transformed into matching undispellable status ailments. Transformed effects:",
             " * Attack buffs are transformed into -40% attack status ailments for 3 turns.",
             " * Defense buffs are transformed into -40% defense status ailments for 3 turns.",
-            " * Mana generation buffs are transformed into -40% mana generation status ailments for 3 turns.",
+            " * [#!]Mana generation[#] buffs are transformed into -40% mana generation status ailments for 3 turns.",
             "Flight Momentum: If this character has any amount of Flight Momentum, they receive:",
             " * Up to +35% mana generation.",
             " * Up to +25% extra chance to dodge.",
@@ -7585,7 +7585,7 @@ const allTranslations =
         "originalIndex": 1068,
         "name": "安佐 (Anzogh)",
         "passives": [
-            "Resist Mana Generation Ailments: This character has an innate resistance against status ailments and negative stacks that affect mana generation. Doesn't apply to status ailments that stop mana generation or steal mana."
+            "Resist [#!]Mana[#] Generation Ailments: This character has an innate resistance against status ailments and negative stacks that affect mana generation. Doesn't apply to status ailments that stop mana generation or steal mana."
         ]
     },
     {
@@ -7731,7 +7731,7 @@ const allTranslations =
         "name": "贝奥武夫 (Beowulf)",
         "passives": [
             "Perfect Accuracy: This character’s Special Skill never mises its target.",
-            "Empowered Resist Mana Reductions: This character has innate resistance against mana reduction. They also gain 600 boosted health and 10% mana each time they resist.",
+            "Empowered Resist [#!]Mana[#] Reductions: This character has innate resistance against mana reduction. They also gain 600 boosted health and 10% mana each time they resist.",
             "Stacking Attack On Damage Received: When this character receives damage from Special Skills, they gain +30% attack Stack (Max: 10). One Stack can be gained per turn."
         ]
     },
@@ -7739,7 +7739,7 @@ const allTranslations =
         "originalIndex": 1088,
         "name": "比马 (Bhima)",
         "passives": [
-            "Mana on Damage Received:",
+            "[#!]Mana[#] on Damage Received:",
             " * When this character receives direct damage from Special Skills or Normal Attacks they receive a small amount of mana.",
             " * Maximum of 10% mana gained per turn.",
             "Extra Damage to Minions & Mega Minions: This character does +150% damage to Minions and Mega Minions."
@@ -7805,7 +7805,7 @@ const allTranslations =
         "originalIndex": 1097,
         "name": "尼莫船长 (Captain Nemo) C1",
         "passives": [
-            "Start Battle with Mana: This character receives 20% mana at the start of the battle.",
+            "Start Battle with [#!]Mana[#]: This character receives 20% mana at the start of the battle.",
             "Increased Damage Against Boosted Health: After Special Skill cast, all allies’ normal attacks and Special Skills deal +70% damage against targets with boosted health for 4 turns."
         ]
     },
@@ -7920,7 +7920,7 @@ const allTranslations =
         "originalIndex": 1112,
         "name": "迪马 (Dima)",
         "passives": [
-            "Resist Mana reduction: This character has an innate resistance against mana reduction.",
+            "Resist [#!]Mana[#] reduction: This character has an innate resistance against mana reduction.",
             "Guard Rally: Every 4 turns, removes all [#!]Wither[#] effects from all allies."
         ]
     },
@@ -8028,7 +8028,7 @@ const allTranslations =
         "name": "埃利亚涅 (Eliane)",
         "passives": [
             "Resist Burn: This character has innate resistance against Burn.",
-            "Mana on Burn: This character gains 5% mana each time an enemy receives [##elementred]Burn damage[#]."
+            "[#!]Mana[#] on Burn: This character gains 5% mana each time an enemy receives [##elementred]Burn damage[#]."
         ]
     },
     {
@@ -8096,7 +8096,7 @@ const allTranslations =
         "originalIndex": 1135,
         "name": "埃隆 (Eron)",
         "passives": [
-            "Reduce Mana Gain from Special Skills: Reduces the amount of mana increased by Special Skill by -80%. The effect applies to all enemies in the battle."
+            "Reduce [#!]Mana[#] Gain from Special Skills: Reduces the amount of mana increased by Special Skill by -80%. The effect applies to all enemies in the battle."
         ]
     },
     {
@@ -8126,7 +8126,7 @@ const allTranslations =
         "originalIndex": 1138,
         "name": "炎皮 (Flamehide)",
         "passives": [
-            "Resist Mana reduction: This character has an innate resistance against mana reduction.",
+            "Resist [#!]Mana[#] reduction: This character has an innate resistance against mana reduction.",
             "Guard Rally: Every 4 turns, removes all [#!]Wither[#] effects from all allies."
         ]
     },
@@ -8150,7 +8150,7 @@ const allTranslations =
         "originalIndex": 1141,
         "name": "富尔维亚 (Fulvia)",
         "passives": [
-            "Reduce Mana Gain from Special Skills: Reduces the amount of mana increased by Special Skill by -80%. The effect applies to all enemies in the battle."
+            "Reduce [#!]Mana[#] Gain from Special Skills: Reduces the amount of mana increased by Special Skill by -80%. The effect applies to all enemies in the battle."
         ]
     },
     {
@@ -8263,7 +8263,7 @@ const allTranslations =
             " * Boosts health of all allies by 10%. Boosted Heath can exceed max HP.",
             " * All allies gain a small amount of mana.",
             "Guaranteed Effect on Special Skill: When this character casts their Special Skill, any of their Passive Skills that grant extra effects on cast are guaranteed to activate.",
-            "Resist Mana Generation Stopping: This character has an innate resistance against status ailments that affect stop mana generation."
+            "Resist [#!]Mana[#] Generation Stopping: This character has an innate resistance against status ailments that affect stop mana generation."
         ]
     },
     {
@@ -8293,7 +8293,7 @@ const allTranslations =
         "originalIndex": 1161,
         "name": "亚莱斯 (Iarlaith)",
         "passives": [
-            "Resist Mana reduction: This character has an innate resistance against mana Reduction.",
+            "Resist [#!]Mana[#] reduction: This character has an innate resistance against mana Reduction.",
             "Guard Rally: Every 4 turns, removes all [#!]Wither[#] effects from all allies."
         ]
     },
@@ -8337,7 +8337,7 @@ const allTranslations =
         "originalIndex": 1166,
         "name": "约坎塔 (Iocantha)",
         "passives": [
-            "Resist Mana reduction: This character has an innate resistance against mana Reduction.",
+            "Resist [#!]Mana[#] reduction: This character has an innate resistance against mana Reduction.",
             "Guard Rally: Every 4 turns, removes all [#!]Wither[#] effects from all allies."
         ]
     },
@@ -8415,14 +8415,14 @@ const allTranslations =
         "originalIndex": 1177,
         "name": "克拉夫克鲁什 (Kravekrush)",
         "passives": [
-            "Start Battle with Mana: This character receives 20% mana at the start of the battle."
+            "Start Battle with [#!]Mana[#]: This character receives 20% mana at the start of the battle."
         ]
     },
     {
         "originalIndex": 1178,
         "name": "克拉夫克鲁什 (Kravekrush) C1",
         "passives": [
-            "Start Battle with Mana: This character receives 20% mana at the start of the battle.",
+            "Start Battle with [#!]Mana[#]: This character receives 20% mana at the start of the battle.",
             "Increased Damage Against Boosted Health: After this character casts their Special Skill, all allies deal +70% increased normal attack and Special Skills damage against targets with boosted health for 4 turns."
         ]
     },
@@ -8477,7 +8477,7 @@ const allTranslations =
         "originalIndex": 1185,
         "name": "洛迪乌斯 (Lodius)",
         "passives": [
-            "Reduce Mana Gain from Special Skills: Reduces the amount of mana increased by Special Skill by -80%. The effect applies to all enemies in the battle."
+            "Reduce [#!]Mana[#] Gain from Special Skills: Reduces the amount of mana increased by Special Skill by -80%. The effect applies to all enemies in the battle."
         ]
     },
     {
@@ -8577,7 +8577,7 @@ const allTranslations =
             "Transform Buffs: Each time this character casts their Special Skill, all dispellable buffs affecting attack, defense and mana generation on all enemies are transformed into matching undispellable status ailments. Transformed effects:",
             " * Attack buffs are transformed into -40% attack status ailments for 3 turns.",
             " * Defense buffs are transformed into -40% defense status ailments for 3 turns.",
-            " * Mana generation buffs are transformed into -40% mana generation status ailments for 3 turns.",
+            " * [#!]Mana generation[#] buffs are transformed into -40% mana generation status ailments for 3 turns.",
             "Flight Momentum: If this character has any amount of Flight Momentum, they receive:",
             " * Up to +35% mana generation.",
             " * Up to +25% extra chance to dodge.",
@@ -8641,8 +8641,8 @@ const allTranslations =
         "originalIndex": 1207,
         "name": "诺曼 (Norman)",
         "passives": [
-            "Mana Buff on Status Ailment Received: The character with this skill receives +24% mana generation for 3 turns when they receive any status ailment or a negative stack.",
-            "Mana on [##elementred]Taunt[#]: Each time an enemy receives [##elementred]Taunt[#] status effect this character’s mana is increased by 10%.",
+            "[#!]Mana[#] Buff on Status Ailment Received: The character with this skill receives +24% mana generation for 3 turns when they receive any status ailment or a negative stack.",
+            "[#!]Mana[#] on [##elementred]Taunt[#]: Each time an enemy receives [##elementred]Taunt[#] status effect this character’s mana is increased by 10%.",
             "Ignore [##elementred]Taunt[#]: The character’s Special Skill is not affected by [##elementred]Taunt[#]."
         ]
     },
@@ -8764,7 +8764,7 @@ const allTranslations =
         "originalIndex": 1224,
         "name": "雷 (Ray)",
         "passives": [
-            "Mana on Special: When this character casts their Special Skill, all enemies get -5% mana generation stack. If the Special Skill is fully charged, all enemies get two stacks. An enemy can have up to 10 stacks.",
+            "[#!]Mana[#] on Special: When this character casts their Special Skill, all enemies get -5% mana generation stack. If the Special Skill is fully charged, all enemies get two stacks. An enemy can have up to 10 stacks.",
             "Stack on Special: When this character casts their Special Skill, they have a 50% chance to give 10% mana to all allies. If the Special Skill is fully charged, the chance is 100%."
         ]
     },
@@ -8772,7 +8772,7 @@ const allTranslations =
         "originalIndex": 1225,
         "name": "雷 (Ray) C1",
         "passives": [
-            "Mana on Special: When this character casts their Special Skill, they have a 60% chance to give 10% mana to all allies. If the Special Skill is fully charged, the chance is 100%.",
+            "[#!]Mana[#] on Special: When this character casts their Special Skill, they have a 60% chance to give 10% mana to all allies. If the Special Skill is fully charged, the chance is 100%.",
             "Stack on Special: When this character casts their Special Skill, all enemies get -7% mana generation stack. If the Special Skill is fully charged, all enemies get two stacks. An enemy can have up to 10 stacks.",
             "Weaker Mega Minions: Enemy Mega Minions have -75% HP."
         ]
@@ -8808,7 +8808,7 @@ const allTranslations =
         "originalIndex": 1229,
         "name": "鲁本 (Reuben)",
         "passives": [
-            "Resist Mana Generation Ailments: This character has innate resistance against status ailments and negative stacks that affect Mana Generation. Doesn't apply to status ailments that stop mana generation or steal mana."
+            "Resist [#!]Mana[#] Generation Ailments: This character has innate resistance against status ailments and negative stacks that affect [#!]Mana[#] Generation. Doesn't apply to status ailments that stop mana generation or steal mana."
         ]
     },
     {
@@ -8846,8 +8846,8 @@ const allTranslations =
         "originalIndex": 1234,
         "name": "拉菲恩与呢姬布 (Roughian & Nurgib)",
         "passives": [
-            "Eat Minions and Gain Mana Over Time: Every 3 turns eats all Minions from a random enemy and gains a small amount of mana for each eaten Minion.",
-            "Mana on Health Recovery: This character receives 5% mana each time its health is recovered."
+            "Eat Minions and Gain [#!]Mana[#] Over Time: Every 3 turns eats all Minions from a random enemy and gains a small amount of mana for each eaten Minion.",
+            "[#!]Mana[#] on Health Recovery: This character receives 5% mana each time its health is recovered."
         ]
     },
     {
@@ -8868,7 +8868,7 @@ const allTranslations =
         "name": "拉塞尔 (Russell)",
         "passives": [
             "Resist Attack Ailments: This character has innate resistance against status ailments that affect Attack.",
-            "Mana on Burn: This character gains 5% mana each time an enemy receives [##elementred]Burn damage[#]."
+            "[#!]Mana[#] on Burn: This character gains 5% mana each time an enemy receives [##elementred]Burn damage[#]."
         ]
     },
     {
@@ -8949,7 +8949,7 @@ const allTranslations =
             " * Deals 70% damage to all enemies.",
             " * All enemies get -34% attack for 3 turns.",
             "Extra Chance for Effects on Special Skill: When this character casts their Special Skill, any of their Passive Skills that grant extra effects on cast have 3 chances to activate.",
-            "Mana on Health Boosting Special Skill: This character gains 5% mana each time an enemy casts a Special Skill that directly boosts health."
+            "[#!]Mana[#] on Health Boosting Special Skill: This character gains 5% mana each time an enemy casts a Special Skill that directly boosts health."
         ]
     },
     {
@@ -9013,7 +9013,7 @@ const allTranslations =
             " * Deals 70% damage to all enemies.",
             " * Dispells the latest dispellable buff from all enemies.",
             "Extra Chance for Effects on Special Skill: When this character casts their Special Skill, any of their Passive Skills that grant extra effects on cast have 3 chances to activate.",
-            "Mana on Status Ailment Received: This character gains 5% mana when they receive a status ailment or negative stack."
+            "[#!]Mana[#] on Status Ailment Received: This character gains 5% mana when they receive a status ailment or negative stack."
         ]
     },
     {
@@ -9070,8 +9070,8 @@ const allTranslations =
         "originalIndex": 1264,
         "name": "万亚 (Vanya)",
         "passives": [
-            "Resist Mana reduction: This character has an innate resistance against mana Reduction.",
-            "Mana on Status Ailment Received: This character gains 5% mana when they receive a status ailment or negative stack.",
+            "Resist [#!]Mana[#] reduction: This character has an innate resistance against mana Reduction.",
+            "[#!]Mana[#] on Status Ailment Received: This character gains 5% mana when they receive a status ailment or negative stack.",
             "Guard Rally: Every 4 turns, removes all [#!]Wither[#] effects from all allies."
         ]
     },
@@ -9080,7 +9080,7 @@ const allTranslations =
         "name": "维格拉夫 (Wiglaf)",
         "passives": [
             "Perfect Accuracy: This character’s Special Skill never mises its target.",
-            "Empowered Resist Mana Reductions: This character has innate resistance against mana reduction. They also gain 600 boosted health and 10% mana each time they resist.",
+            "Empowered Resist [#!]Mana[#] Reductions: This character has innate resistance against mana reduction. They also gain 600 boosted health and 10% mana each time they resist.",
             "Stacking Attack On Damage Received: When this character receives damage from Special Skills, they gain +30% attack Stack (Max: 10). One Stack can be gained per turn."
         ]
     },
@@ -9110,7 +9110,7 @@ const allTranslations =
         "originalIndex": 1269,
         "name": "西王母 (Xiwangmu)",
         "passives": [
-            "Mana on Buff Received: This character has a 50% chance to gain 10% mana when they receive a buff or possitive stack.",
+            "[#!]Mana[#] on Buff Received: This character has a 50% chance to gain 10% mana when they receive a buff or possitive stack.",
             "Health Recovery on Buff Received: This character has a 50% chance to recover 10% health when they receive a buff or possitve stack."
         ]
     },
@@ -9144,7 +9144,7 @@ const allTranslations =
         "name": "扎尔加 (Zarga)",
         "passives": [
             "Heal on Bleed: This character regenerates 50 HP each time an enemy receives [##elementred]Bleed damage[#].",
-            "Mana on Bleed: This character receives 8% mana each time an enemy receives [##elementred]Bleed damage[#]."
+            "[#!]Mana[#] on Bleed: This character receives 8% mana each time an enemy receives [##elementred]Bleed damage[#]."
         ]
     },
     {
@@ -9447,7 +9447,7 @@ const allTranslations =
         "originalIndex": 1321,
         "name": "佩雅 (Paeia)",
         "passives": [
-            "Reduce Mana Gain from Special Skills: Reduces the amount of mana increased by Special Skill by -80%. The effect applies to all enemies in the battle."
+            "Reduce [#!]Mana[#] Gain from Special Skills: Reduces the amount of mana increased by Special Skill by -80%. The effect applies to all enemies in the battle."
         ]
     },
     {
@@ -9526,8 +9526,8 @@ const allTranslations =
         "originalIndex": 1331,
         "name": "爱斯舍尔 (Aeschere)",
         "passives": [
-            "Empowered Resist Mana Reductions: This character has innate resistance against mana reduction. They also gain 600 boosted health and 10% mana each time they resist.",
-            "Mana on Status Ailment Received: This character gains 5% mana when they receive a status ailment or a negative stack."
+            "Empowered Resist [#!]Mana[#] Reductions: This character has innate resistance against mana reduction. They also gain 600 boosted health and 10% mana each time they resist.",
+            "[#!]Mana[#] on Status Ailment Received: This character gains 5% mana when they receive a status ailment or a negative stack."
         ]
     },
     {
@@ -9977,7 +9977,7 @@ const allTranslations =
         "originalIndex": 1395,
         "name": "奥罗克斯 (Aurox)",
         "passives": [
-            "Resist Mana Reduction: This character has innate resistance against mana reduction.",
+            "Resist [#!]Mana[#] Reduction: This character has innate resistance against mana reduction.",
             "Increased Special Skill Damage: The first time this character cast a Special Skill that deals damage, an additional 50% is added to its power."
         ]
     },
@@ -9986,7 +9986,7 @@ const allTranslations =
         "name": "阿维亚纳 (Aviana)",
         "passives": [
             "Resist Bleed Damage: This character has innate resistance against Bleed.",
-            "Mana on Buff Received: This character gains 5% mana when they receive a buff or a positive stack."
+            "[#!]Mana[#] on Buff Received: This character gains 5% mana when they receive a buff or a positive stack."
         ]
     },
     {
@@ -10188,7 +10188,7 @@ const allTranslations =
             " * Deals 70% damage to all enemies.",
             " * All enemies get -34% attack for 3 turns.",
             "Extra Chance for Effects on Special Skill: When this character casts their Special Skill, any of their Passive Skills that grant extra effects on cast have 3 chances to activate.",
-            "Mana on Health Boosting Special Skill: This character gains 5% mana each time an enemy casts a Special Skill that directly boosts health."
+            "[#!]Mana[#] on Health Boosting Special Skill: This character gains 5% mana each time an enemy casts a Special Skill that directly boosts health."
         ]
     },
     {
@@ -10208,8 +10208,8 @@ const allTranslations =
         "originalIndex": 1424,
         "name": "法欧娜 (Faeona)",
         "passives": [
-            "Resist Mana Reduction: This character has innate resistance against mana reduction.",
-            "Mana on Buff Received: This character gains 5% mana when they receive a buff or positive stack."
+            "Resist [#!]Mana[#] Reduction: This character has innate resistance against mana reduction.",
+            "[#!]Mana[#] on Buff Received: This character gains 5% mana when they receive a buff or positive stack."
         ]
     },
     {
@@ -10221,7 +10221,7 @@ const allTranslations =
         "originalIndex": 1426,
         "name": "弗兰克·\"獠牙\"·布林威尔 (Frank 'Fangs' Brimwell)",
         "passives": [
-            "Resist Mana reduction: This character has an innate resistance against mana Reduction.",
+            "Resist [#!]Mana[#] reduction: This character has an innate resistance against mana Reduction.",
             "Guard Rally: Every 4 turns, removes all [#!]Wither[#] effects from all allies."
         ]
     },
@@ -10257,15 +10257,15 @@ const allTranslations =
         "passives": [
             "Resist Defense Reduction: This character has innate resistance against status ailments, stacks and [#!]Wither[#] effects that affect defense.",
             "Resist Insanity: This character has innate resistance against Insanity.",
-            "Mana on Status Ailment Received: This character gains 5% mana when they receive a status ailment or a negative stacks."
+            "[#!]Mana[#] on Status Ailment Received: This character gains 5% mana when they receive a status ailment or a negative stacks."
         ]
     },
     {
         "originalIndex": 1431,
         "name": "吉利根 (Gilligan)",
         "passives": [
-            "Resist Mana Ailments: This character has innate resistance against ailments that affect mana.",
-            "Mana Per Enemy Buff: Gains a small amount of mana for every active status effect buff that the enemy team has at the start of each turn (maximum of 20 buffs)."
+            "Resist [#!]Mana[#] Ailments: This character has innate resistance against ailments that affect mana.",
+            "[#!]Mana[#] Per Enemy Buff: Gains a small amount of mana for every active status effect buff that the enemy team has at the start of each turn (maximum of 20 buffs)."
         ]
     },
     {
@@ -10375,7 +10375,7 @@ const allTranslations =
         "name": "哈妮特拉 (Hanitra)",
         "passives": [
             "Resist Special Skill Blocking: This character has innate resistance against status ailments that block Special Skill.",
-            "Mana on Buff Received: This character gains 5% mana when they receive a buff or a positive stack."
+            "[#!]Mana[#] on Buff Received: This character gains 5% mana when they receive a buff or a positive stack."
         ]
     },
     {
@@ -10407,7 +10407,7 @@ const allTranslations =
         "passives": [
             "Effects on Special Skill: 40% chance to perform the following actions when this character casts their Special Skill ' * Deals 70% damage to all enemies.' ' * All enemies get -34% attack for 3 turns.'",
             "Extra Chance for Effects on Special Skill: When this character casts their Special Skill, any of their Passive Skills that grant extra effects on cast have 3 chances to activate.",
-            "Mana on Health Boosting Special Skill: This character gains 5% mana each time an enemy casts a Special Skill that directly boosts health."
+            "[#!]Mana[#] on Health Boosting Special Skill: This character gains 5% mana each time an enemy casts a Special Skill that directly boosts health."
         ]
     },
     {
@@ -10562,7 +10562,7 @@ const allTranslations =
         "originalIndex": 1474,
         "name": "卡拉 (Kara)",
         "passives": [
-            "Mana on Buff Dispel: This character receives 10% mana each time a buff is dispelled from this character.",
+            "[#!]Mana[#] on Buff Dispel: This character receives 10% mana each time a buff is dispelled from this character.",
             "Resist Defense Ailments: This character has innate resistance against status ailments that affect defense. Applies also to status ailments that affect elemental defense."
         ]
     },
@@ -10600,7 +10600,7 @@ const allTranslations =
             "Transform Ailments: Each time this character casts their Special Skill, all cleansable status ailments affecting attack, defense and mana generation on all allies are transformed into matching undispellable buffs. Transformed effects:",
             " * Attack status ailments are transformed into +40% attack buffs for 3 turns.",
             " * Defense status ailments are transformed into +40% defense buffs for 3 turns.",
-            " * Mana generation status ailments are transformed into +40% mana generation buffs for 3 turns.",
+            " * [#!]Mana generation[#] status ailments are transformed into +40% mana generation buffs for 3 turns.",
             "Flight Momentum: If this character has any amount of Flight Momentum, they receive:",
             " * Up to +35% mana generation.",
             " * Up to +25% extra chance to dodge.",
@@ -10619,7 +10619,7 @@ const allTranslations =
         "originalIndex": 1481,
         "name": "拉扎拉 (Lazara)",
         "passives": [
-            "Mana Buff on Status Ailment Received: Receives +24% mana generation for 3 turns when this character receives a status ailment or a negative stack.",
+            "[#!]Mana[#] Buff on Status Ailment Received: Receives +24% mana generation for 3 turns when this character receives a status ailment or a negative stack.",
             "Health Boost on Attempted Ally Cleanse: When an ally attempts to cleanse by using Special Skill, all allies receive 300 boosted health. This effect can activate only once per turn.",
             "Damage on Attempted Enemy Cleanse: When an enemy attempts to cleanse by using Special Skill, all enemies receive 300 damage. This effect can activate only once per turn."
         ]
@@ -10665,7 +10665,7 @@ const allTranslations =
         "originalIndex": 1488,
         "name": "利维娅 (Livia)",
         "passives": [
-            "Reduce Mana Gain from Special Skills: Reduces the amount of mana increased by Special Skill by -80%. The effect applies to all enemies in the battle."
+            "Reduce [#!]Mana[#] Gain from Special Skills: Reduces the amount of mana increased by Special Skill by -80%. The effect applies to all enemies in the battle."
         ]
     },
     {
@@ -10702,7 +10702,7 @@ const allTranslations =
         "name": "梅 (May)",
         "passives": [
             "Resist Minion Removal: This character has innate resistance against Minion removal.",
-            "Mana on Buff Received: This character gains 5% mana when they receive a buff or a positive stack."
+            "[#!]Mana[#] on Buff Received: This character gains 5% mana when they receive a buff or a positive stack."
         ]
     },
     {
@@ -10794,7 +10794,7 @@ const allTranslations =
         "originalIndex": 1505,
         "name": "奈斯 (Neith)",
         "passives": [
-            "Resist Mana Generation Stopping: This character has an innate resistance against status ailments that Stop Mana Generation."
+            "Resist [#!]Mana[#] Generation Stopping: This character has an innate resistance against status ailments that Stop [#!]Mana[#] Generation."
         ]
     },
     {
@@ -10810,7 +10810,7 @@ const allTranslations =
         "name": "恶怨妖灵 (Nithgaest)",
         "passives": [
             "Perfect Accuracy: This character’s Special Skill never mises its target.",
-            "Resist Mana Reduction: This character has innate resistance against mana reduction.",
+            "Resist [#!]Mana[#] Reduction: This character has innate resistance against mana reduction.",
             "Stacking Attack On Damage Received: When this character receives damage from Special Skills, they gain +30% attack Stack (Max: 10). One Stack can be gained per turn."
         ]
     },
@@ -10838,7 +10838,7 @@ const allTranslations =
         "originalIndex": 1512,
         "name": "欧吉马 (Ogima)",
         "passives": [
-            "Mana increase reduction: Reduces the amount of mana increased by Special Skill by -80%. The effect applies to all enemies in the battle."
+            "[#!]Mana[#] increase reduction: Reduces the amount of mana increased by Special Skill by -80%. The effect applies to all enemies in the battle."
         ]
     },
     {
@@ -10865,7 +10865,7 @@ const allTranslations =
             " * Boosts health of all allies by 10%. Boosted health can exceed max HP.",
             " * All allies gain a small amount of mana.",
             "Guaranteed Effect on Special Skill: When this character casts their Special Skill, any of their Passive Skills that grant extra effects on cast are guaranteed to activate.",
-            "Resist Mana Generation Stopping: This character has an innate resistance against status ailments that affect stop mana generation."
+            "Resist [#!]Mana[#] Generation Stopping: This character has an innate resistance against status ailments that affect stop mana generation."
         ]
     },
     {
@@ -10900,7 +10900,7 @@ const allTranslations =
         "originalIndex": 1519,
         "name": "佩蒂纳克斯 (Pertinax)",
         "passives": [
-            "Reduce Mana Gain from Special Skills: Reduces the amount of mana increased by Special Skill by -80%. The effect applies to all enemies in the battle."
+            "Reduce [#!]Mana[#] Gain from Special Skills: Reduces the amount of mana increased by Special Skill by -80%. The effect applies to all enemies in the battle."
         ]
     },
     {
@@ -10926,14 +10926,14 @@ const allTranslations =
         "originalIndex": 1523,
         "name": "黎登布洛克教授 (Prof. Lidenbrock)",
         "passives": [
-            "Start Battle with Mana: This character receives 20% mana at the start of the battle."
+            "Start Battle with [#!]Mana[#]: This character receives 20% mana at the start of the battle."
         ]
     },
     {
         "originalIndex": 1524,
         "name": "黎登布洛克教授 (Prof. Lidenbrock) C1",
         "passives": [
-            "Start Battle with Mana: This character receives 20% mana at the start of the battle.",
+            "Start Battle with [#!]Mana[#]: This character receives 20% mana at the start of the battle.",
             "Health Boost on Special Skill: On Special Skill cast, boosts all allies’ HP by 10%."
         ]
     },
@@ -10972,7 +10972,7 @@ const allTranslations =
         "originalIndex": 1530,
         "name": "里斯 (Rhys)",
         "passives": [
-            "Mana increase reduction: Reduces the amount of mana increased by Special Skill by -80%. The effect applies to all enemies in the battle."
+            "[#!]Mana[#] increase reduction: Reduces the amount of mana increased by Special Skill by -80%. The effect applies to all enemies in the battle."
         ]
     },
     {
@@ -10989,7 +10989,7 @@ const allTranslations =
         "originalIndex": 1533,
         "name": "罗莎琳德 (Rosalind)",
         "passives": [
-            "Resist Mana reduction: This character has an innate resistance against mana Reduction.",
+            "Resist [#!]Mana[#] reduction: This character has an innate resistance against mana Reduction.",
             "Guard Rally: Every 4 turns, removes all [#!]Wither[#] effects from all allies."
         ]
     },
@@ -11045,7 +11045,7 @@ const allTranslations =
             "Transform Buffs: Each time this character casts their Special Skill, all dispellable buffs affecting attack, defense and mana generation on all enemies are transformed into matching undispellable status ailments. Transformed effects:",
             " * Attack buffs are transformed into -40% attack status ailments for 3 turns.",
             " * Defense buffs are transformed into -40% defense status ailments for 3 turns.",
-            " * Mana generation buffs are transformed into -40% mana generation status ailments for 3 turns.",
+            " * [#!]Mana generation[#] buffs are transformed into -40% mana generation status ailments for 3 turns.",
             "Flight Momentum: If this character has any amount of Flight Momentum, they receive:",
             " * Up to +35% mana generation.",
             " * Up to +25% extra chance to dodge.",
@@ -11057,7 +11057,7 @@ const allTranslations =
         "originalIndex": 1540,
         "name": "闪鳞 (Shimmerscale)",
         "passives": [
-            "Resist Mana reduction: This character has an innate resistance against mana Reduction.",
+            "Resist [#!]Mana[#] reduction: This character has an innate resistance against mana Reduction.",
             "Guard Rally: Every 4 turns, removes all [#!]Wither[#] effects from all allies."
         ]
     },
@@ -11110,7 +11110,7 @@ const allTranslations =
         "originalIndex": 1547,
         "name": "唐三藏 (Tang Sanzang)",
         "passives": [
-            "Mana on Buff Received: This character has a 50% chance to recover 10% mana when they receive a buff or possitve stack.",
+            "[#!]Mana[#] on Buff Received: This character has a 50% chance to recover 10% mana when they receive a buff or possitve stack.",
             "Health Recovery on Buff Received: This character has a 50% chance to recover 10% health when they receive a buff or possitive stack."
         ]
     },
@@ -11158,14 +11158,14 @@ const allTranslations =
         "name": "吠舍离 (Vaishali)",
         "passives": [
             "Stack on Special: When this character casts their Special Skill, all enemies get -5% mana generation stack. If the Special Skill is fully changed, all enemies get two stacks. An enemy can have up to 10 stacks.",
-            "Mana on Special: When this character casts their Special Skill, they have a 50% chance to give 10% mana to all allies. If the Special Skill is fully changed, the chance is 100%."
+            "[#!]Mana[#] on Special: When this character casts their Special Skill, they have a 50% chance to give 10% mana to all allies. If the Special Skill is fully changed, the chance is 100%."
         ]
     },
     {
         "originalIndex": 1555,
         "name": "吠舍离 (Vaishali) C1",
         "passives": [
-            "Mana on Special: When this character casts their Special Skill, they have a 50% chance to give 10% mana to all allies. If the Special Skill is fully changed, the chance is 100%.",
+            "[#!]Mana[#] on Special: When this character casts their Special Skill, they have a 50% chance to give 10% mana to all allies. If the Special Skill is fully changed, the chance is 100%.",
             "Stack on Special: When this character casts their Special Skill, all enemies get -5% mana generation stack. If the Special Skill is fully changed, all enemies get two stacks. An enemy can have up to 10 stacks.",
             "Weaker Mega Minions: Enemy Mega Minions have -75% HP."
         ]
@@ -11210,7 +11210,7 @@ const allTranslations =
         "originalIndex": 1562,
         "name": "韦尔霍夫 (Wealhtheow)",
         "passives": [
-            "Mana on Buff Received: This character gains 5% mana when they receive a buff or positive stack.",
+            "[#!]Mana[#] on Buff Received: This character gains 5% mana when they receive a buff or positive stack.",
             "Heal when Status Ailment Expires or Is Cleared: This character’s receives 10% health each time a status ailment expires or is cleansed, removed or reallocated from them. This effect can activate only once per turn.",
             "Resist Buff Immunity: This character has innate resistance against ailments that give immunity to new buffs."
         ]
@@ -11239,7 +11239,7 @@ const allTranslations =
         "originalIndex": 1566,
         "name": "温妮 (Winnie)",
         "passives": [
-            "Mana on Buff Received: Gain 5% mana when receiving a buff or a positive stack",
+            "[#!]Mana[#] on Buff Received: Gain 5% mana when receiving a buff or a positive stack",
             "Health Recovery on Buff Received: This character recovers 5% health when they receive a buff or a positive stack."
         ]
     },
@@ -11314,7 +11314,7 @@ const allTranslations =
             "Transform Ailments: Each time this character casts their Special Skill, all cleansable status ailments affecting attack, defense and mana generation on all allies are transformed into matching undispellable buffs. Transformed effects:",
             " * Attack status ailments are transformed into +40% attack buffs for 3 turns.",
             " * Defense status ailments are transformed into +40% defense buffs for 3 turns.",
-            " * Mana generation status ailments are transformed into +40% mana generation buffs for 3 turns.",
+            " * [#!]Mana generation[#] status ailments are transformed into +40% mana generation buffs for 3 turns.",
             "Flight Momentum: If this character has any amount of Flight Momentum, they receive:",
             " * Up to +35% mana generation.",
             " * Up to +25% extra chance to dodge.",
@@ -11378,8 +11378,8 @@ const allTranslations =
         "originalIndex": 1582,
         "name": "佐拉 (Zora)",
         "passives": [
-            "Resist Mana Reduction: This character has innate resistance against mana reduction.",
-            "Mana on Status Ailment Received: This character gains 5% mana when they receive a status ailment or negative stack."
+            "Resist [#!]Mana[#] Reduction: This character has innate resistance against mana reduction.",
+            "[#!]Mana[#] on Status Ailment Received: This character gains 5% mana when they receive a status ailment or negative stack."
         ]
     },
     {

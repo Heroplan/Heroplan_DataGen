@@ -362,13 +362,13 @@ const allTranslations =
         "name": "维吉尔 (Virgil)",
         "effects": [
             "Special Skill has a different effect when charged with 100% / 200% / 300% mana:",
-            "1x Mana Charge:",
+            "1x [#!]Mana[#] Charge:",
             "* Recovers 15% health for all allies.",
             "* All allies get +40% defense against [##elementgreen]Nature[#] for 2 turns.",
-            "2x Mana Charge:",
+            "2x [#!]Mana[#] Charge:",
             "* Recovers 25% health for all allies.",
             "* All allies get +54% defense against Special Skills for 3 turns.",
-            "3x Mana Charge:",
+            "3x [#!]Mana[#] Charge:",
             "* Recovers 45% health for all allies.",
             "* All allies get +94% defense against [##elementgreen]Nature[#] for 2 turns.",
             "* All allies get +74% defense against Special Skills for 3 turns."
@@ -717,13 +717,13 @@ const allTranslations =
         "originalIndex": 83,
         "name": "修 (Osamu)",
         "effects": [
-            "1x Mana Charge",
+            "1x [#!]Mana[#] Charge",
             "* Deals 350% damage to the target.",
             "* The target gets -35% defense for 2 turns.",
-            "2x Mana Charge",
+            "2x [#!]Mana[#] Charge",
             "* Deals 375% damage to the target.",
             "* The target gets -40% defense for 4 turns.",
-            "3x Mana Charge",
+            "3x [#!]Mana[#] Charge",
             "* Deals 400% damage to the target.",
             "* If the attack defeats the target, the caster gains 100% mana.",
             "* The target gets -45% defense for 6 turns."
@@ -741,13 +741,13 @@ const allTranslations =
         "originalIndex": 85,
         "name": "青玉 (Sapphire)",
         "effects": [
-            "1x Mana Charge",
+            "1x [#!]Mana[#] Charge",
             "* Deals 225% damage to the target",
             "* The attack has a 35% chance to bypass defensive buffs. This includes counter attack.",
-            "2x Mana Charge",
+            "2x [#!]Mana[#] Charge",
             "* Deals 250% damage to the target and nearby enemies",
             "* The attack has a 60% chance to bypass defensive buffs. This includes counter attack.",
-            "3x Mana Charge",
+            "3x [#!]Mana[#] Charge",
             "* Deals 290% damage to all enemies",
             "* The attack has a 85% chance to bypass defensive buffs. This includes counter attack."
         ]
@@ -934,14 +934,14 @@ const allTranslations =
         "name": "安菲特里忒 (Amphitrite)",
         "effects": [
             "Special Skill has a different effect when charged with 100% / 200% / 300% mana:",
-            "1x Mana Charge:",
+            "1x [#!]Mana[#] Charge:",
             "* Deals 200% damage to all enemies.",
             "* All enemies get -25% decrease of any healing received for 3 turns.",
-            "2x Mana Charge:",
+            "2x [#!]Mana[#] Charge:",
             "* Deals 315% damage to all enemies.",
             "* Summons a Styx Spirit Fiend for all enemies. The Fiend damages its target with 40% attack every turn.",
             "* The Styx Spirit Fiend absorbs healing. It disappears after absorbing a healing amount equal to 25% if its target’s max health.",
-            "3x Mana Charge:",
+            "3x [#!]Mana[#] Charge:",
             "* Deals 365% damage to all enemies.",
             "* Summons a Styx Spirit Fiend for all enemies. The Fiend damages its target with 40% attack every turn.",
             "* The Styx Spirit Fiend absorbs healing. It disappears after absorbing a healing amount equal to 25% if its target’s max health.",
@@ -1085,15 +1085,15 @@ const allTranslations =
         "name": "石青 (Azurite)",
         "effects": [
             "Special Skill has a different effect when charged with 100%/200%/300% mana",
-            "1x Mana Charge",
+            "1x [#!]Mana[#] Charge",
             "* Deals 250% damage to the target and nearby enemies.",
             "* The target and nearby enemies get -35% accuracy for 2 turns. Chance to miss also applies to offensive Special Skills.",
             "* The target and nearby enemies deal 320 damage to a random ally if they miss Special Skill during 2 turns.",
-            "2x Mana Charge",
+            "2x [#!]Mana[#] Charge",
             "* Deals 325% damage to the target and nearby enemies.",
             "* The target and nearby enemies get -40% accuracy for 3 turns. Chance to miss also applies to offensive Special Skills.",
             "* The target and nearby enemies deal 390 damage to a random ally if they miss Special Skill during 3 turns.",
-            "3x Mana Charge",
+            "3x [#!]Mana[#] Charge",
             "* Deals 400% damage to the target and nearby enemies.",
             "* The target and nearby enemies get -54% accuracy for 4 turns. Chance to miss also applies to offensive Special Skills.",
             "* The target and nearby enemies deal 470 damage to a random ally if they miss Special Skill during 4 turns."
@@ -1188,10 +1188,10 @@ const allTranslations =
         "name": "卡蜜拉 (Camilla)",
         "effects": [
             "Special Skill has a different effect when charged with 100%/200% mana:",
-            "1x Mana Charge:",
+            "1x [#!]Mana[#] Charge:",
             " * Boosts health of all allies by 400. Boosted health can exceed max HP.",
             " * All allies get +40% defense against Special Skill for 3 turns.",
-            "2x Mana Charge:",
+            "2x [#!]Mana[#] Charge:",
             " * Reduce max health of all enemies by 800. Max health can`t get lower than 30% of the original max health. Any boosted health is reduced by an additional 800.",
             " * All enemies get -54% defense against Special Skill for 5 turns."
         ]
@@ -1201,10 +1201,10 @@ const allTranslations =
         "name": "卡蜜拉 (Camilla) C1",
         "effects": [
             "Special Skill has a different effect when charged with 100%/200% mana:",
-            "1x Mana Charge:",
+            "1x [#!]Mana[#] Charge:",
             " * Boosts health of all allies by 450. Boosted health can exceed max HP.",
             " * All allies get +45% defense against Special Skill for 3 turns.",
-            "2x Mana Charge:",
+            "2x [#!]Mana[#] Charge:",
             " * Reduce max health of all enemies by 900. The effect is stronger against targets with boosted health. (Max health can`t get lower than 30% of the original max health. Any boosted health is reduced by an additional 900.)",
             " * All enemies get -58% defense against Special Skill for 5 turns.",
             " * All enemies get -45% decrease for any healing for 5 turns."
@@ -1358,13 +1358,13 @@ const allTranslations =
         "originalIndex": 146,
         "name": "钴蓝 (Cobalt)",
         "effects": [
-            "1x Mana Charge",
+            "1x [#!]Mana[#] Charge",
             "* Deals 320% damage to the target",
             "* The attack has a 60% chance to bypass defensive buffs. This includes counterattacks.",
-            "2x Mana Charge",
+            "2x [#!]Mana[#] Charge",
             "* Deals 355% damage to the target and nearby enemies",
             "* The attack has a 85% chance to bypass defensive buffs. This includes counterattacks.",
-            "3x Mana Charge",
+            "3x [#!]Mana[#] Charge",
             "* Deals 390% damage to all enemies",
             "* The attack has a 100% chance to bypass defensive buffs. This includes counterattacks."
         ]
@@ -2021,10 +2021,10 @@ const allTranslations =
         "name": "米莱娜 (Milena)",
         "effects": [
             "Special Skill has a different effect when charged with 100%/200% mana:",
-            "1x Mana Charge:",
+            "1x [#!]Mana[#] Charge:",
             " * Recovers 25% health for all allies.",
             " * Cleanses status ailments from all allies.",
-            "2x Mana Charge:",
+            "2x [#!]Mana[#] Charge:",
             " * Deals 420% damage to all enemies.",
             " * Dispels buffs from all enemies."
         ]
@@ -2034,10 +2034,10 @@ const allTranslations =
         "name": "米莱娜 (Milena) C1",
         "effects": [
             "Special Skill has a different effect when charged with 100% / 200% mana:",
-            "1x Mana Charge:",
+            "1x [#!]Mana[#] Charge:",
             " * Recovers 26% health for all allies.",
             " * Cleanses status ailments from all allies.",
-            "2x Mana Charge:",
+            "2x [#!]Mana[#] Charge:",
             " * Deals 440% damage to all enemies.",
             " * Dispels buffs from all enemies.",
             " * All enemies receive 340 [##elementblue]Frost damage[#] over 5 turns."
@@ -2218,15 +2218,15 @@ const allTranslations =
         "name": "鬼若丸 (Oniwakamaru)",
         "effects": [
             "Special Skill has a different effect when charged with 100%/200%/300% mana:",
-            "x1 Mana Charge:",
+            "x1 [#!]Mana[#] Charge:",
             " - Boosts health of caster by 390. Boosted health can exceed max HP.",
             " - The caster gets [##elementred]Taunt[#] that prevents enemies from using Special Skill on the caster’s allies for 2 turns. This effect can’t be dispelled.",
             " - The caster counterattacks with 50% of the damage received for 2 turns.",
-            "x2 Mana Charge:",
+            "x2 [#!]Mana[#] Charge:",
             " - Boosts health of caster by 490. Boosted health can exceed max HP.",
             " - The caster gets [##elementred]Taunt[#] that prevents enemies from using Special Skill on the caster’s allies for 3 turns. This effect can’t be dispelled.",
             " - The caster counterattacks with 105% of the damage received for 3 turns.",
-            "x3 Mana Charge:",
+            "x3 [#!]Mana[#] Charge:",
             " - Boosts health of caster by 540. Boosted health can exceed max HP.",
             " - The caster gets [##elementred]Taunt[#] that prevents enemies from using Special Skill on the caster’s allies for 4 turns. This effect can’t be dispelled.",
             " - The caster counterattacks with 133% of the damage received for 3 turns."
@@ -2508,15 +2508,15 @@ const allTranslations =
         "originalIndex": 262,
         "name": "泽野 (Sawano)",
         "effects": [
-            "1x Mana Charge",
+            "1x [#!]Mana[#] Charge",
             "* Recovers 25% health for all allies.",
             "* For the next 2 turns this character recovers 300 health to all allies after an enemy casts their Special Skill. (Each enemy can trigger this effect once per turn.)",
             "* Cleanses status ailments from the caster.",
-            "2x Mana Charge",
+            "2x [#!]Mana[#] Charge",
             "* Recovers 30% health for all allies.",
             "* For the next 4 turns this character recovers 350 health to all allies after an enemy casts their Special Skill. (Each enemy can trigger this effect once per turn.)",
             "* Cleanses status ailments from the caster and nearby allies.",
-            "3x Mana Charge",
+            "3x [#!]Mana[#] Charge",
             "* Recovers 35% health for all allies.",
             "* For the next 6 turns this character recovers 400 health to all allies after an enemy casts their Special Skill. (Each enemy can trigger this effect once per turn.)",
             "* Cleanses status ailments from all allies."
@@ -2735,13 +2735,13 @@ const allTranslations =
         "name": "塔纳托斯 (Thanatos)",
         "effects": [
             "Special Skill has a different effect when charged with 100% / 200% / 300% mana:",
-            "1x Mana Charge:",
+            "1x [#!]Mana[#] Charge:",
             "* Recovers 20% health for all allies.",
             "* All allies get +24% mana generation for 2 turns.",
-            "2x Mana Charge:",
+            "2x [#!]Mana[#] Charge:",
             "* Recovers 30% health for all allies.",
             "* Increases the mana of all allies by 10%.",
-            "3x Mana Charge:",
+            "3x [#!]Mana[#] Charge:",
             "* Recovers 50% health for all allies.",
             "* Increases the mana of all allies by 20%.",
             "* All allies get +40% mana generation for 4 turns."
@@ -2821,10 +2821,10 @@ const allTranslations =
         "name": "尤留思 (Ulius)",
         "effects": [
             "Special Skill has a different effect when charged with 100%/200% mana:",
-            "1x Mana Charge:",
+            "1x [#!]Mana[#] Charge:",
             " * Summons an Enchanted Sigil Minion for each ally with 15% HP and 20% attack inherited from the caster.",
             " * When summoned, the Enchanted Sigil Minion gives +20% mana generation for its owner for as long as the owner has Enchanted Sigil Minions. This effect can’t be dispelled.",
-            "2x Mana Charge:",
+            "2x [#!]Mana[#] Charge:",
             " * Summons a Cursed Sigil Field to all enemies. The Fiend damages its target with 100% attack every turn.",
             " * The Cursed Sigil Fiend absorbs healing. It disappers after absorbing a healing amount equal to 60% of its target’s max health.",
             " * When summoned, the Cursed Sigil Fiend give -38% mana generation for its owner for as long as the owner has Cursed Sigil Fiends. This effect can’t be cleansed."
@@ -2939,15 +2939,15 @@ const allTranslations =
         "name": "锆英 (Zircon)",
         "effects": [
             "Special Skill has a different effect when charged with 100%/200%/300% mana:",
-            "1x Mana Charge:",
+            "1x [#!]Mana[#] Charge:",
             " - All allies regenerate 144 boosted health over 2 turns. Boosted health can exceed max HP.",
             " - All allies get +24% defense, and a further 5% increase every time they are hit during 2 turns.",
             " - All allies are immune to buff dispels for 2 turns.",
-            "2x Mana Charge:",
+            "2x [#!]Mana[#] Charge:",
             " - All allies regenerate 504 boosted health over 3 turns. Boosted health can exceed max HP.",
             " - All allies get +34% defense, and a further 5% increase every time they are hit during 3 turns.",
             " - All allies are immune to buff dispels for 3 turns.",
-            "3x Mana Charge:",
+            "3x [#!]Mana[#] Charge:",
             " - All allies regenerate 980 boosted health over 4 turns. Boosted health can exceed max HP.",
             " - All allies get +54% defense, and a further 5% increase every time they are hit during 4 turns.",
             " - All allies are immune to buff dispels for 4 turns."
@@ -3155,10 +3155,10 @@ const allTranslations =
         "name": "多尔根 (Dolgoon)",
         "effects": [
             "Special Skill has a different effect when charged with 100%/200% mana:",
-            "1x Mana Charge:",
+            "1x [#!]Mana[#] Charge:",
             " * All allies become Soul Connected for 3 turns. Soul Connected allies share received damage.",
             " * All allies get +63% defense for 3 turns.",
-            "2x Mana Charge:",
+            "2x [#!]Mana[#] Charge:",
             " * All allies become Soul Connected for 5 turns. Soul Connected allies share received damage.",
             " * All enemies get -56% defense for 5 turns."
         ]
@@ -3408,10 +3408,10 @@ const allTranslations =
         "name": "洛茜娅 (Roxia)",
         "effects": [
             "Special Skill has a different effect when charged with 100%/200% mana:",
-            "1x Mana Charge:",
+            "1x [#!]Mana[#] Charge:",
             " * Deals 175% damage to the target.",
             " * The target receives 35% damage for all the damage their allies receive for 3 turns.",
-            "2x Mana Charge:",
+            "2x [#!]Mana[#] Charge:",
             " * All allies get 50% chance to bypass defensive buffs with their attacks for 5 turns. Defensive buffs include counterattacks.",
             " * All allies get +30% [##elementred]critical[#] chance for 5 turns."
         ]
@@ -3506,10 +3506,10 @@ const allTranslations =
         "name": "安东 (Anton)",
         "effects": [
             "Special Skill has a different effect when charged with 100%/200% mana:",
-            "1x Mana Charge:",
+            "1x [#!]Mana[#] Charge:",
             " * Deals 250% damage to all enemies. Each hit has 60% accuracy.",
             " * All hit enemies receive 92 [##elementpurple]Poison damage[#] over 2 turns.",
-            "2x Mana Charge:",
+            "2x [#!]Mana[#] Charge:",
             " * Each fallen ally has a 44% chance to get revived with 40% HP.",
             " * All allies regenerate 405 HP over 5 turns"
         ]
@@ -3519,13 +3519,13 @@ const allTranslations =
         "name": "布隆特斯 (Brontes)",
         "effects": [
             "Special Skill has a different effect when charged with 100% / 200% / 300% mana:",
-            "1x Mana Charge:",
+            "1x [#!]Mana[#] Charge:",
             "* Recovers 25% health for the caster and nearby allies.",
             "* The caster and nearby allies get +24% mana generation for 2 turns.",
-            "2x Mana Charge:",
+            "2x [#!]Mana[#] Charge:",
             "* Recovers 35% health for the caster and nearby allies.",
             "* Increases the mana of the caster and nearby allies by 10%.",
-            "3x Mana Charge:",
+            "3x [#!]Mana[#] Charge:",
             "* Recovers 55% health for the caster and nearby allies.",
             "* Increases the mana of the caster and nearby allies by 30%.",
             "* The caster and nearby allies get +40% mana generation for 4 turns."
@@ -4270,15 +4270,15 @@ const allTranslations =
         "originalIndex": 450,
         "name": "知贺雄 (Chikao)",
         "effects": [
-            "1x Mana Charge",
+            "1x [#!]Mana[#] Charge",
             " * Dispels buffs from the enemies on the edges of the enemy formation.",
             " * Deals 300% damage to the enemies on the edges of the enemy formation. If there is only one enemy aive, the damage is doubled.",
             " * The enemy on the edges of the formation fall asleep and receive +60% increased damage while sleeping. (A sleeping character cannot gain mana. The sleeping target is woken once it takes damage. This excludes damage from Minions and Fiends. This effect is uncleansable.)",
-            "2x Mana Charge",
+            "2x [#!]Mana[#] Charge",
             " * Dispels buffs from the enemies on the edges of the enemy formation.",
             " * Deals 485% damage to the enemies on the edges of the enemy formation. If there is only one enemy aive, the damage is doubled.",
             " * The enemy on the edges of the formation fall asleep and receive +80% increased damage while sleeping. (A sleeping character cannot gain mana. The sleeping target is woken once it takes damage. This excludes damage from Minions and Fiends. This effect is uncleansable.)",
-            "3x Mana Charge",
+            "3x [#!]Mana[#] Charge",
             " * Dispels buffs from the enemies on the edges of the enemy formation.",
             " * Deals 900% damage to the enemies on the edges of the enemy formation. If there is only one enemy aive, the damage is doubled.",
             " * The enemy on the edges of the formation fall asleep and receive +100% increased damage while sleeping. (A sleeping character cannot gain mana. The sleeping target is woken once it takes damage. This excludes damage from Minions and Fiends. This effect is uncleansable.)"
@@ -4337,10 +4337,10 @@ const allTranslations =
         "name": "克里斯托巴尔 (Cristobal)",
         "effects": [
             "Special Skill has a different effect when charged with 100%/200% mana:",
-            "1x Mana Charge:",
+            "1x [#!]Mana[#] Charge:",
             " * Deals 250% damage to the target.",
             " * Deals 500% damage if the target has less than 50% health remaining.",
-            "2x Mana Charge:",
+            "2x [#!]Mana[#] Charge:",
             " * Deals 215% damage to all enemies.",
             " * Deals 430% damage to enemies with more than 50% health remaining."
         ]
@@ -4350,10 +4350,10 @@ const allTranslations =
         "name": "克里斯托巴尔 (Cristobal) C1",
         "effects": [
             "Special Skill has a different effect when charged with 100%/200% mana:",
-            "1x Mana Charge:",
+            "1x [#!]Mana[#] Charge:",
             " * Deals 300% damage to the target.",
             " * Deals 600% damage if the target has more than 50% health remaining.",
-            "2x Mana Charge:",
+            "2x [#!]Mana[#] Charge:",
             " * Deals 250% damage to all enemies.",
             " * Deals 500% damage to enemies with less than 50% health remaining."
         ]
@@ -4446,15 +4446,15 @@ const allTranslations =
         "name": "埃卡奈特 (Ekanite)",
         "effects": [
             "Special Skill has a different effect when charged with 100%/200%/300% mana:",
-            "x1 Mana Charge:",
+            "x1 [#!]Mana[#] Charge:",
             " - Deals 200% damage to all enemies.",
             " - Summons a Shinobi Minion for each ally with 8% HP and 10% attack inherited from the caster.",
             " - When summoned, the Shinobi Minion gives its owner the ability to counterattack with 60% of the damage received for as long as the owner has a Shinobi Minion. The effect can’t be dispelled.",
-            "x2 Mana Charge:",
+            "x2 [#!]Mana[#] Charge:",
             " - Deals 280% damage to all enemies.",
             " - Summons a Shinobi Minion for each ally with 16% HP and 16% attack inherited from the caster.",
             " - When summoned, the Shinobi Minion gives its owner the ability to counterattack with 60% of the damage received for as long as the owner has a Shinobi Minion. The effect can’t be dispelled.",
-            "x3 Mana Charge:",
+            "x3 [#!]Mana[#] Charge:",
             " - Deals 360% damage to all enemies.",
             " - Summons a Shinobi Minion for each ally with 22% HP and 26% attack inherited from the caster.",
             " - When summoned, the Shinobi Minion gives its owner the ability to counterattack with 60% of the damage received for as long as the owner has a Shinobi Minion. The effect can’t be dispelled."
@@ -5053,15 +5053,15 @@ const allTranslations =
         "name": "伊藤 (Ito)",
         "effects": [
             "Special Skill has a different effect when charged with 100%/200%/300% mana:",
-            "x1 Mana Charge:",
+            "x1 [#!]Mana[#] Charge:",
             " - Deals 430% damage to the target.",
             " - Boosts all allies’ health by 25% of damage dealt.",
             " - The target gets -35% mana generation for 2 turns. (Affects only mana generated from matching tiles or mana gained by the defense team at the end of their turn.)",
-            "x2 Mana Charge:",
+            "x2 [#!]Mana[#] Charge:",
             " - Deals 440% damage to the target and nearby enemies.",
             " - Boosts all allies’ health by 25% of damage dealt.",
             " - The target and nearby enemies get -40% mana generation for 4 turns. (Affects only mana generated from matching tiles or mana gained by the defense team at the end of their turn.)",
-            "x3 Mana Charge:",
+            "x3 [#!]Mana[#] Charge:",
             " - Deals 450% damage to all enemies.",
             " - Boosts all allies’ health by 25% of damage dealt.",
             " - All enemies get -45% mana generation for 6 turns. (Affects only mana generated from matching tiles or mana gained by the defense team at the end of their turn.)"
@@ -5071,15 +5071,15 @@ const allTranslations =
         "originalIndex": 528,
         "name": "碧玉 (Jade)",
         "effects": [
-            "1x Mana Charge",
+            "1x [#!]Mana[#] Charge",
             " * Deals 115% damage to all enemies.",
             " * Reduces the mana of all enemies by 10%.",
             " * The caster gets +25% chance of dodging special attacks that deal damage for 3 turns.",
-            "2x Mana Charge",
+            "2x [#!]Mana[#] Charge",
             " * Deals 210% damage to all enemies.",
             " * Reduces the mana of all enemies by 15%.",
             " * The caster and nearby allies get +50% chance of dodging special attacks that deal damage for 4 turns.",
-            "3x Mana Charge",
+            "3x [#!]Mana[#] Charge",
             " * Deals 300% damage to all enemies.",
             " * Reduces the mana of all enemies by 25%.",
             " * All allies get +75% chance of dodging special attacks that deal damage for 5 turns."
@@ -5445,15 +5445,15 @@ const allTranslations =
         "name": "妙印尼 (Myoin-ni)",
         "effects": [
             "Special Skill has a different effect when charged with 100%/200%/300% mana:",
-            "x1 Mana Charge:",
+            "x1 [#!]Mana[#] Charge:",
             " - Boosts health of all allies by 370. Boosted health can exceed max HP.",
             " - All allies get +33% mana generation for 2 turns.",
             " - All allies get +25% defense for 2 turns.",
-            "x2 Mana Charge:",
+            "x2 [#!]Mana[#] Charge:",
             " - Boosts health of all allies by 530. Boosted health can exceed max HP.",
             " - All allies get +33% mana generation for 3 turns.",
             " - All allies get +40% defense for 3 turns.",
-            "x3 Mana Charge:",
+            "x3 [#!]Mana[#] Charge:",
             " - Boosts health of all allies by 600. Boosted health can exceed max HP.",
             " - All allies get +33% mana generation for 4 turns.",
             " - All allies get +65% defense for 4 turns."
@@ -5520,15 +5520,15 @@ const allTranslations =
         "name": "珮绿朵 (Peridot)",
         "effects": [
             "Special Skill has a different effect when charged with 100%/200%/300% mana:",
-            "x1 Mana Charge:",
+            "x1 [#!]Mana[#] Charge:",
             " * Deals 240% damage to the target.",
             " • The target receives 220 [##elementpurple]Poison damage[#] over 2 turns.",
             " • The target gets -35% accuracy for 2 turns. Chance to miss also applies to offensive Special Skills.",
-            "x2 Mana Charge:",
+            "x2 [#!]Mana[#] Charge:",
             " * Deals 280% damage to the target and nearby enemies.",
             " * The target and nearby enemies receive 438 [##elementpurple]Poison damage[#] over 3 turns.",
             " * The target and nearby enemies get -40% accuracy for 3 turns. Chance to miss also applies to offensive Special Skills.",
-            "x3 Mana Charge:",
+            "x3 [#!]Mana[#] Charge:",
             " * Deals 320% damage to all enemies.",
             " * All enemies receive 764 [##elementpurple]Poison damage[#] over 4 turns.",
             " * All enemies get -54% accuracy for 4 turns. Chance to miss also applies to offensive Special Skills."
@@ -5832,17 +5832,17 @@ const allTranslations =
         "name": "为朝 (Tametomo)",
         "effects": [
             "Special Skill has a different effect when charged with 100%/200%/300% mana:",
-            "x1 Mana Charge:",
+            "x1 [#!]Mana[#] Charge:",
             " - This Special Skill never misses its targets.",
             " - Deals 250% damage to the target.",
             " - Deals 450% damage if the target has more than 50% health remaining.",
             " - Deals an additional 250% damage to the nearby enemies.",
-            "x2 Mana Charge:",
+            "x2 [#!]Mana[#] Charge:",
             " - This Special Skill never misses its targets.",
             " - Deals 350% damage to the target.",
             " - Deals 550% damage if the target has more than 50% health remaining.",
             " - Deals an additional 350% damage to the nearby enemies.",
-            "x3 Mana Charge:",
+            "x3 [#!]Mana[#] Charge:",
             " - This Special Skill never misses its targets.",
             " - Deals 400% damage to the target.",
             " - Deals 700% damage if the target has more than 50% health remaining.",
@@ -5893,10 +5893,10 @@ const allTranslations =
         "name": "特罗纽斯 (Telonius)",
         "effects": [
             "Special Skill has a different effect when charged with 100%/200% mana:",
-            "1x Mana Charge:",
+            "1x [#!]Mana[#] Charge:",
             " * All enemies take +50% increased damage from status ailments for 3 turns.",
             " * All enemies receive 357 [##elementpurple]Poison damage[#] over 3 turns.",
-            "2x Mana Charge:",
+            "2x [#!]Mana[#] Charge:",
             " * Recovers 75% health for the caster and nearby allies.",
             " * The caster and nearby allies are immune to damage from status ailments for 5 turns."
         ]
@@ -6025,7 +6025,7 @@ const allTranslations =
         "effects": [
             "Deals 300% damage to all enemies.",
             "The caster gets additional +100% power for the next Special Skill they cast. The additional power increases +25% each turn, up to a maximum of +200% in total.",
-            "All enemies receive Mana Corruption for 4 turns. Each time an afflicted enemy receives mana from an additional source, they receive 400 damage. Additional sources include direct mana addition from Special Skills, status effects, level properties, passive skills, family effects, tile effects and Minions. Mana added for defense team at the end of their turn or from matching tiles is included only if the target has a mana generation bufff or a posive mana generation stack."
+            "All enemies receive [#!]Mana[#] Corruption for 4 turns. Each time an afflicted enemy receives mana from an additional source, they receive 400 damage. Additional sources include direct mana addition from Special Skills, status effects, level properties, passive skills, family effects, tile effects and Minions. [#!]Mana[#] added for defense team at the end of their turn or from matching tiles is included only if the target has a mana generation bufff or a posive mana generation stack."
         ]
     },
     {
@@ -6322,13 +6322,13 @@ const allTranslations =
         "name": "摩根奈特 (Morganite)",
         "effects": [
             "Special Skill has a different effect when charged with 100%/200%/300% mana:",
-            "x1 Mana Charge:",
+            "x1 [#!]Mana[#] Charge:",
             " - All enemies receive 64 [##elementpurple]Poison damage[#] over 2 turns.",
             " - All enemies get -40% accuracy for 2 turns. Chance to miss also applies to offensive Special Skills.",
-            "x2 Mana Charge:",
+            "x2 [#!]Mana[#] Charge:",
             " - All enemies receive 196 [##elementpurple]Poison damage[#] over 4 turns.",
             " - All enemies get -40% accuracy for 4 turns. Chance to miss also applies to offensive Special Skills.",
-            "x3 Mana Charge:",
+            "x3 [#!]Mana[#] Charge:",
             " - All enemies receive 354 [##elementpurple]Poison damage[#] over 6 turns.",
             " - All enemies get -40% accuracy for 6 turns. Chance to miss also applies to offensive Special Skills."
         ]
@@ -6550,13 +6550,13 @@ const allTranslations =
         "originalIndex": 684,
         "name": "紫晶 (Ametrine)",
         "effects": [
-            "1x Mana Charge",
+            "1x [#!]Mana[#] Charge",
             "* Dispels buffs from the target",
             "* Deals 220% damage to the target",
-            "2x Mana Charge",
+            "2x [#!]Mana[#] Charge",
             "* Dispels buffs from the target and nearby enemies",
             "* Deals 255% damage to the target and nearby enemies",
-            "3x Mana Charge",
+            "3x [#!]Mana[#] Charge",
             "* Dispels buffs from all enemies",
             "* Deals 300% damage to all enemies"
         ]
@@ -6584,13 +6584,13 @@ const allTranslations =
         "name": "阿尔吉斯 (Arges)",
         "effects": [
             "Special Skill has a different effect when charged with 100% / 200% / 300% mana:",
-            "1x Mana Charge:",
+            "1x [#!]Mana[#] Charge:",
             "* Deals 165% damages to the target and nearby enemies.",
             "* The caster and nearby allies get +30% attack for 3 turns.",
-            "2x Mana Charge:",
+            "2x [#!]Mana[#] Charge:",
             "* Deals 215% damages to the target and nearby enemies.",
             "* The target and nearby enemies get -34% defense for 3 turns.",
-            "3x Mana Charge:",
+            "3x [#!]Mana[#] Charge:",
             "* Deals 365% damages to the target and nearby enemies.",
             "* The caster and nearby allies get +50% attack for 3 turns.",
             "* The target and nearby enemies get -44% defense for 3 turns."
@@ -6906,9 +6906,9 @@ const allTranslations =
         "name": "谢尔盖 (Sergei)",
         "effects": [
             "Special Skill has a different effect when charged with 100%/200% mana:",
-            "1x Mana Charge:",
+            "1x [#!]Mana[#] Charge:",
             " * All enemies get -54% defense against [##elementpurple]Dark[#] for 3 turns.",
-            "2x Mana Charge:",
+            "2x [#!]Mana[#] Charge:",
             " * All allies get +100% normal attack for 5 turns. This effect can be active in addition to effects that alter attack in general. Normal attacks can have a total maximum of +160% increase power while this effect is active."
         ]
     },
@@ -7068,11 +7068,11 @@ const allTranslations =
         "name": "阿格拉菲纳 (Agrafena)",
         "effects": [
             "Special Skill has a different effect when charged with 100%/200% mana:",
-            "1x Mana Charge:",
+            "1x [#!]Mana[#] Charge:",
             " * All enemies get -20% attack for 3 turns.",
             " * All enemies get -20% defense for 3 turns.",
             " * All enemies receive 159 [##elementpurple]Poison damage[#] over 3 turns.",
-            "2x Mana Charge:",
+            "2x [#!]Mana[#] Charge:",
             " * All allies get +45% attack, and a further 20% increase every time they are hit during 6 turns.",
             " * All allies get +54% defense, and a further 5% increase every time they are hit during 6 turns.",
             " * All allies regenerate 1428 HP over 6 turns."
@@ -7083,11 +7083,11 @@ const allTranslations =
         "name": "阿格拉菲纳 (Agrafena) C1",
         "effects": [
             "Special Skill has a different effect when charged with 100%/200% mana:",
-            "1x Mana Charge:",
+            "1x [#!]Mana[#] Charge:",
             " * All enemies get -27% attack for 3 turns.",
             " * All enemies get -27% defense for 3 turns.",
             " * All enemies receive 342 [##elementpurple]Poison damage[#] over 3 turns. The caster absorbs 10% of dealt [##elementpurple]Poison damage[#] as health.",
-            "2x Mana Charge:",
+            "2x [#!]Mana[#] Charge:",
             " * All allies get +50% attack, and a further 20% increase every time they are hit during 6 turns, up to +150% attack.",
             " * All allies get +59% defense, and a further 5% increase every time they are hit during 6 turns, up to +84% defense.",
             " * All allies regenerate 1500 boosted health over 6 turns. Boosted health can exceed max HP."
@@ -7128,15 +7128,15 @@ const allTranslations =
         "name": "紫石 (Amethyst)",
         "effects": [
             "Special Skill has a different effect when charged with 100%/200%/300% mana:",
-            "x1 Mana Charge:",
+            "x1 [#!]Mana[#] Charge:",
             " - Deals 200% damage to all enemies.",
             " - Summons a Ninja Assassin Fiend for all enemies. The Fiend damages its target with 59% attack each turn.",
             " - The Ninja Assassin Fiend absorbs healing. It disappears after absorbing a healing amount equal to 32% of its target’s max health.",
-            "x2 Mana Charge:",
+            "x2 [#!]Mana[#] Charge:",
             " - Deals 275% damage to all enemies.",
             " - Summons a Ninja Assassin Fiend for all enemies. The Fiend damages its target with 75% attack each turn.",
             " - The Ninja Assassin Fiend absorbs healing. It disappears after absorbing a healing amount equal to 50% of its target’s max health.",
-            "x3 Mana Charge:",
+            "x3 [#!]Mana[#] Charge:",
             " - Deals 355% damage to all enemies.",
             " - Summons a Ninja Assassin Fiend for all enemies. The Fiend damages its target with 84% attack each turn.",
             " - The Ninja Assassin Fiend absorbs healing. It disappears after absorbing a healing amount equal to 54% of its target’s max health."
@@ -7243,10 +7243,10 @@ const allTranslations =
         "name": "贝琪 (Becky)",
         "effects": [
             "Special Skill has a different effect when charged with 100%/200% mana:",
-            "1x Mana Charge:",
+            "1x [#!]Mana[#] Charge:",
             " * Deals 350% damage to the target.",
             " * Each time the target activate their Special Skill during 3 turns mana of all other enemies is reduced by -15%.",
-            "2x Mana Charge:",
+            "2x [#!]Mana[#] Charge:",
             " * Increase the mana of all allies by 10%.",
             " * For the next 5 turns, this character deals 250% damage to all enemies each time any other ally casts their Special Skill. (Each character can trigger this effect once per turn.)"
         ]
@@ -7256,10 +7256,10 @@ const allTranslations =
         "name": "贝琪 (Becky) C1",
         "effects": [
             "Special Skill has a different effect when charged with 100%/200% mana:",
-            "1x Mana Charge:",
+            "1x [#!]Mana[#] Charge:",
             " * Deals 430% damage to the target.",
             " * Each time the target activate their Special Skill during 3 turns mana of all other enemies is reduced by -15%.",
-            "2x Mana Charge:",
+            "2x [#!]Mana[#] Charge:",
             " * The caster and nearby allies get +45% defense against [##elementyellow]Holy[#] for 5 turns.",
             " * Increase the mana of all allies by 10%.",
             " * For the next 5 turns, this character deals 265% damage to all enemies each time any other ally casts their Special Skill. (Each character can trigger this effect once per turn.)"
@@ -7358,12 +7358,12 @@ const allTranslations =
         "name": "卡戎 (Charon)",
         "effects": [
             "Special Skill has a different effect when charged with 100% / 200% / 300% mana:",
-            "1x Mana Charge:",
+            "1x [#!]Mana[#] Charge:",
             "* Boosts health of all allies by 450. Boosted health can exceed max HP.",
-            "2x Mana Charge:",
+            "2x [#!]Mana[#] Charge:",
             "* Each fallen ally has 50% chance to get revived with 10% HP.",
             "* All allies regenerate 609 HP over 3 turns.",
-            "3x Mana Charge:",
+            "3x [#!]Mana[#] Charge:",
             "* Boosts health of all allies by 700. Boosted health can exceed max HP.",
             "* Each fallen ally has 65% chance to get revived with 27% HP.",
             "* All allies regenerate 952 HP over 4 turns."
@@ -7867,10 +7867,10 @@ const allTranslations =
         "name": "杰特 (Jett)",
         "effects": [
             "Special Skill has a different effect when charged with 100%/200% mana:",
-            "1x Mana Charge:",
+            "1x [#!]Mana[#] Charge:",
             " * Deals 290% damage to the target.",
             " * The target receives 588 Poision damage over 3 turns. The caster absorbs 100% of the dealt [##elementpurple]Poison damage[#] as heath.",
-            "2x Mana Charge:",
+            "2x [#!]Mana[#] Charge:",
             " * Deals 300% damage to all enemies.",
             " * All enemies receives 730 Poision damage over 5 turns. The caster and all their allies absorb 30% of the dealt [##elementpurple]Poison damage[#] as health."
         ]
@@ -8348,13 +8348,13 @@ const allTranslations =
         "name": "倪克斯 (Nyx)",
         "effects": [
             "Special Skill has a different effect when charged with 100% / 200% / 300% mana:",
-            "1x Mana Charge:",
+            "1x [#!]Mana[#] Charge:",
             " * Deals 220% damage to all enemies.",
             " * All allies get +30% attack for 3 turns.",
-            "2x Mana Charge:",
+            "2x [#!]Mana[#] Charge:",
             " * Deals 360% damage to all enemies.",
             " * All enemies get -34% defense for 3 turns.",
-            "3x Mana Charge:",
+            "3x [#!]Mana[#] Charge:",
             " * Deals 395% damage to all enemies.",
             " * All allies get +50% attack for 4 turns.",
             " * All enemies get -44% defense for 4 turns."
@@ -8429,15 +8429,15 @@ const allTranslations =
         "originalIndex": 875,
         "name": "玛瑙 (Onyx)",
         "effects": [
-            "1x Mana Charge",
+            "1x [#!]Mana[#] Charge",
             "* Deals 300% damage to the target.",
             "* The target is immune to new status effects buffs for 3 turns.",
             "* Dispels buffs from the target.",
-            "2x Mana Charge",
+            "2x [#!]Mana[#] Charge",
             "* Deals 340% damage to the target and nearby enemies.",
             "* The target and nearby enemies are immune to new status effects buffs for 4 turns.",
             "* Dispels buffs from the target and nearby enemies.",
-            "3x Mana Charge",
+            "3x [#!]Mana[#] Charge",
             "* Deals 380% damage to all enemies.",
             "* All enemies are immune to new status effects buffs for 5 turns.",
             "* Dispels buffs from all enemies."
@@ -8531,15 +8531,15 @@ const allTranslations =
         "name": "瓜尔茨 (Quartz)",
         "effects": [
             "Special Skill has a different effect when charged with 100%/200%/300% mana:",
-            "1x Mana Charge:",
+            "1x [#!]Mana[#] Charge:",
             " - All allies regenerate 204 HP over 2 turns.",
             " - All allies get +34% attack for 2 turns.",
             " - Cleanses status ailments from all allies.",
-            "2x Mana Charge:",
+            "2x [#!]Mana[#] Charge:",
             " - All allies regenerate 624 HP over 3 turns.",
             " - All allies get +44% attack for 3 turns.",
             " - Cleanses status ailments from all allies.",
-            "3x Mana Charge:",
+            "3x [#!]Mana[#] Charge:",
             " - All allies regenerate 940 HP over 4 turns. This effect can't be dispelled.",
             " - All allies get +54% attack for 4 turns.",
             " - Cleanses status ailments from all allies."
@@ -8693,17 +8693,17 @@ const allTranslations =
         "originalIndex": 901,
         "name": "杀意 (Satsui)",
         "effects": [
-            "1x Mana Charge",
+            "1x [#!]Mana[#] Charge",
             "* Deals 400% damage to the target.",
             "* The caster goes into hiding for 2 turns.",
             "* While hidden, the caster can’t receive new status effects or stacks, and all received damage is reduced by -30%.",
             "* When the caster comes out of hiding, they deal 330 damage to all enemies who used Special Skills while the caster was hiding.",
-            "2x Mana Charge",
+            "2x [#!]Mana[#] Charge",
             "* Deals 425% damage to the target and nearby enemies.",
             "* The caster goes into hiding for 2 turns.",
             "* While hidden, the caster can’t receive new status effects or stacks, and all received damage is reduced by -60%.",
             "* When the caster comes out of hiding, they deal 449 damage to all enemies who used Special Skills while the caster was hiding.",
-            "3x Mana Charge",
+            "3x [#!]Mana[#] Charge",
             "* Deals 450% damage to all enemies.",
             "* The caster goes into hiding for 2 turns.",
             "* While hidden, the caster can’t receive new status effects or stacks, and all received damage is reduced by -80%.",
@@ -8922,15 +8922,15 @@ const allTranslations =
         "name": "寅 (Tora)",
         "effects": [
             "Special Skill has a different effect when charged with 100%/200%/300% mana:",
-            "x1 Mana Charge:",
+            "x1 [#!]Mana[#] Charge:",
             " - Deals 400% damage to the target.",
             " - Deals additional 35% damage for each Minion or Mega Minion owned by the enemies up to 750% damage in total.",
             " - The attack bypasses defensive buffs. (This include counterattacks)",
-            "x2 Mana Charge:",
+            "x2 [#!]Mana[#] Charge:",
             " - Deals 425% damage to the target and nearby enemies.",
             " - Deals additional 35% damage for each Minion or Mega Minion owned by the enemies up to 775% damage in total.",
             " - The attack bypasses defensive buffs. (This include counterattacks)",
-            "x3 Mana Charge:",
+            "x3 [#!]Mana[#] Charge:",
             " - Deals 450% damage to all enemies.",
             " - Deals additional 35% damage for each Minion or Mega Minion owned by the enemies up to 800% damage in total.",
             " - The attack bypasses defensive buffs. (This include counterattacks)"
@@ -9001,15 +9001,15 @@ const allTranslations =
         "name": "梅子 (Umeko)",
         "effects": [
             "Special Skill has a different effect when charged with 100%/200%/300% mana:",
-            "x1 Mana Charge:",
+            "x1 [#!]Mana[#] Charge:",
             " - Dispels buffs from the target.",
             " - The target receives 780 [##elementpurple]Poison damage[#] over 2 turns.",
             " - The target gets -80% decrease of any healing received for 2 turns.",
-            "x2 Mana Charge:",
+            "x2 [#!]Mana[#] Charge:",
             " - Dispels buffs from the target and nearby enemies.",
             " - The target and nearby enemies receive 1608 [##elementpurple]Poison damage[#] over 4 turns.",
             " - The target and nearby enemies get -85% decrease of any healing received for 4 turns.",
-            "x3 Mana Charge:",
+            "x3 [#!]Mana[#] Charge:",
             " - Dispels buffs from all enemies.",
             " - All enemies receive 2412 [##elementpurple]Poison damage[#] over 6 turns.",
             " - The target gets -90% decrease of any healing received for 6 turns."
@@ -9359,14 +9359,14 @@ const allTranslations =
         "name": "但丁 (Dante)",
         "effects": [
             "Special Skill has a different effect when charged with 100% / 200% / 300% mana:",
-            "1x Mana Charge:",
+            "1x [#!]Mana[#] Charge:",
             "* Deals 105% damage to all enemies.",
             "* The attack bypasses defensive buffs. This includes counterattacks.",
-            "2x Mana Charge:",
+            "2x [#!]Mana[#] Charge:",
             "* Deals 125% damage to all enemies.",
             "* The attack bypasses defensive buffs. This includes counterattacks.",
             "* All enemies receive 120 [##elementred]Burn damage[#] over 3 turns.",
-            "3x Mana Charge:",
+            "3x [#!]Mana[#] Charge:",
             "* Deals 205% damage to all enemies.",
             "* The attack bypasses defensive buffs. This includes counterattacks.",
             "* All enemies receive 160 [##elementred]Burn damage[#] over 4 turns."
@@ -9482,9 +9482,9 @@ const allTranslations =
         "name": "科内尔 (Kornel)",
         "effects": [
             "Special Skill has a different effect when charged with 100%/200% mana:",
-            "1x Mana Charge:",
+            "1x [#!]Mana[#] Charge:",
             " * The caster and nearby allies get +45% attack, and a further 20% increase every time they are hit during 3 turns.",
-            "2x Mana Charge:",
+            "2x [#!]Mana[#] Charge:",
             " * The target and nearby enemies get -44% defense, and a further -4% decrease every time they are hit during 6 turns."
         ]
     },
@@ -9932,10 +9932,10 @@ const allTranslations =
         "name": "露西 (Lucy)",
         "effects": [
             "Special Skill has a different effect when charged with 100%/200% mana:",
-            "1x Mana Charge:",
+            "1x [#!]Mana[#] Charge:",
             " * Deals 180% damage to the target.",
             " * Each time the target activates their Special Skill during 3 turns, mana of all other enemies is reduced by -8%.",
-            "2x Mana Charge:",
+            "2x [#!]Mana[#] Charge:",
             " * All allies get +24% mana generation for 5 turns.",
             " * For the next 5 turns, this character deals 115% damage to all enemies each time any other ally casts their Special Skill. Damage is dealt on the first Special Skill cast of each character per turn."
         ]
@@ -10080,13 +10080,13 @@ const allTranslations =
         "originalIndex": 1049,
         "name": "页岩 (Shale)",
         "effects": [
-            "1x Mana Charge",
+            "1x [#!]Mana[#] Charge",
             "* The caster regenerates 411 HP over 3 turns",
             "* Cleanses status ailments from the caster",
-            "2x Mana Charge",
+            "2x [#!]Mana[#] Charge",
             "* The caster and nearby allies regenerate 549 HP over 3 turns",
             "* Cleanses status ailments from the caster and nearby allies",
-            "3x Mana Charge",
+            "3x [#!]Mana[#] Charge",
             "* All allies regenerate 714 HP over 3 turns",
             "* Cleanses status ailments from all allies"
         ]
@@ -10338,15 +10338,15 @@ const allTranslations =
         "originalIndex": 1076,
         "name": "黄金 (Aurum)",
         "effects": [
-            "1x Mana Charge",
+            "1x [#!]Mana[#] Charge",
             " * Deals 385% damage to the target.",
             "* The target gets a Bleed mark for 2 turns. Whenever a marked target receives a [##elementred]Bleed damage[#], they gain a stack (Max: 10). Each stack increases all damage they target receives by +5%.",
             " * The target receives 316 [##elementred]Bleed damage[#] over 2 turns.",
-            "2x Mana Charge",
+            "2x [#!]Mana[#] Charge",
             " * Deals 395% damage to the target and nearby enemies.",
             "* The target and nearby enemies get a Bleed mark for 4 turns. Whenever a marked target receives a [##elementred]Bleed damage[#], they gain a stack (Max: 10). Each stack increases all damage they target receives by +5%.",
             " * The target and nearby enemies receive 792 [##elementred]Bleed damage[#] over 4 turns.",
-            "3x Mana Charge",
+            "3x [#!]Mana[#] Charge",
             " * Deals 405% damage to all enemies.",
             "* All enemies get a Bleed mark for 6 turns. Whenever a marked target receives a [##elementred]Bleed damage[#], they gain a stack (Max: 10). Each stack increases all damage they target receives by +5%.",
             " * All enemies receive 1506 [##elementred]Bleed damage[#] over 6 turns."
@@ -10913,14 +10913,14 @@ const allTranslations =
         "name": "厄瑞玻斯 (Erebus)",
         "effects": [
             "Special Skill has a different effect when charged with 100% / 200% / 300% mana:",
-            "1x Mana Charge:",
+            "1x [#!]Mana[#] Charge:",
             "* Destroys all Minions from the target.",
             "* Deals 520% damage to the target.",
-            "2x Mana Charge:",
+            "2x [#!]Mana[#] Charge:",
             "* Destroys all Minions from the target.",
             "* Deals 610% damage to the target.",
             "* The target can’t summon new Minions with Special Skill and receives 200 damage for each Minion they attempt to summon for 3 turns.",
-            "3x Mana Charge:",
+            "3x [#!]Mana[#] Charge:",
             "* Destroys all Minions from the target.",
             "* Deals 675% damage to the target.",
             "* The target can’t summon new Minions with Special Skill and receives 200 damage for each Minion they attempt to summon for 4 turns."
@@ -11005,13 +11005,13 @@ const allTranslations =
         "originalIndex": 1143,
         "name": "绯红 (Garnet)",
         "effects": [
-            "1x Mana Charge",
+            "1x [#!]Mana[#] Charge",
             "* Boosts health of all allies by 230. Boosted health can exceed max HP.",
             "* All allies are immune to new status ailments for 2 turns.",
-            "2x Mana Charge",
+            "2x [#!]Mana[#] Charge",
             "* Boosts health of all allies by 450. Boosted health can exceed max HP.",
             "* All allies are immune to new status ailments for 3 turns.",
-            "3x Mana Charge",
+            "3x [#!]Mana[#] Charge",
             "* Boosts health of all allies by 750. Boosted health can exceed max HP.",
             "* All allies are immune to new status ailments for 4 turns."
         ]
@@ -11191,14 +11191,14 @@ const allTranslations =
         "name": "修普诺斯 (Hypnos)",
         "effects": [
             "Special Skill has a different effect when charged with 100% / 200% / 300% mana:",
-            "1x Mana Charge:",
+            "1x [#!]Mana[#] Charge:",
             " * Deals 220% damage to all enemies.",
             " * All enemies are immune to new status effects buffs for 2 turns.",
-            "2x Mana Charge:",
+            "2x [#!]Mana[#] Charge:",
             " * Dispels buffs from all enemies.",
             " * Deals 320% damage to all enemies.",
             " * All enemies are immune to new status effects buffs for 3 turns.",
-            "3x Mana Charge:",
+            "3x [#!]Mana[#] Charge:",
             " * Dispels buffs from all enemies.",
             " * Deals 385% damage to all enemies.",
             " * All enemies are immune to new status effects buffs for 4 turns."
@@ -11475,14 +11475,14 @@ const allTranslations =
         "name": "灾厄 (Malum)",
         "effects": [
             "Special Skill has a different effect when charged with 100%/200%/300% mana:",
-            "x1 Mana Charge:",
+            "x1 [#!]Mana[#] Charge:",
             " - Reduces max health of the target and nearby enemies by 500. The effect is stronger against targets with boosted health. (Max health can’t be lower than 30% of the original max health. Any boosted health is reduced by an additional 500).",
             " - Deals 250% damage to the target and nearby enemies.",
-            "x2 Mana Charge:",
+            "x2 [#!]Mana[#] Charge:",
             " - Reduces max health of the target and nearby enemies by 650. The effect is stronger against targets with boosted health. (Max health can’t be lower than 30% of the original max health. Any boosted health is reduced by an additional 650.)",
             " - Deals 375% damage to the target and nearby enemies.",
             " - The attack bypasses defensive buffs. (This includes counterattack.)",
-            "x3 Mana Charge:",
+            "x3 [#!]Mana[#] Charge:",
             " - Reduces max health of the target and nearby enemies by 800. The effect is stronger against targets with boosted health. (Max health can’t be lower than 30% of the original max health. Any boosted health is reduced by an additional 800.)",
             " - Deals 500% damage to the target and nearby enemies.",
             " - The attack bypasses defensive buffs. (This includes counterattack.)",
@@ -11566,10 +11566,10 @@ const allTranslations =
         "name": "纳德兹达 (Nadezhda)",
         "effects": [
             "Special Skill has a different effect when charged with 100%/200% mana:",
-            "1x Mana Charge:",
+            "1x [#!]Mana[#] Charge:",
             " * The target and nearby enemies receive 156 [##elementred]Burn damage[#] over 2 turns.",
             " * If the caster dies during the next 2 turns they are resurrected in the beginning of their next turn with 32% health. All status effects and stacks are removed when the caster dies.",
-            "2x Mana Charge:",
+            "2x [#!]Mana[#] Charge:",
             " * Each defeated ally has a 50% chance to get revived with 40% HP.",
             " * All allies regenerate 714 HP over 3 turns.",
             " * All allies reduce all received damage by -50% for 3 turns."
@@ -11580,10 +11580,10 @@ const allTranslations =
         "name": "纳德兹达 (Nadezhda) C1",
         "effects": [
             "Special Skill has a different effect when charged with 100% / 200% mana:",
-            "1x Mana Charge:",
+            "1x [#!]Mana[#] Charge:",
             " * All enemies receive 350 [##elementred]Burn damage[#] over 2 turns. The caster absorbs 10% of dealt [##elementred]Burn damage[#] as health.",
             " * If the caster is defeated during the next 2 turns, they are resurrected in the beginning of their next turn with 40% health. All status effects and stack are removed when the caster is defeated.",
-            "2x Mana Charge:",
+            "2x [#!]Mana[#] Charge:",
             " * Each defeated ally has a 55% chance to get revived with 44% HP.",
             " * All allies regenerate 795 boosted health over 3 turns. Boosted health can exceed max HP.",
             " * All allies reduce all received damage by -60% for 3 turns."
@@ -11651,15 +11651,15 @@ const allTranslations =
         "originalIndex": 1205,
         "name": "浪子 (Nomad)",
         "effects": [
-            "1x Mana Charge",
+            "1x [#!]Mana[#] Charge",
             " * Deals 400% damage to the target.",
             " * Deals 600% damage if the target has less than 50% health remaining.",
             " * If the target is defeated by the attack, all allies get +20% mana generation for 2 turns.",
-            "2x Mana Charge",
+            "2x [#!]Mana[#] Charge",
             " * Deals 425% damage to the target and nearby enemies.",
             " * Deals 638% damage to enemies with less than 50% health remaining.",
             " * If the target is defeated by the attack, all allies get +30% mana generation for 3 turns.",
-            "3x Mana Charge",
+            "3x [#!]Mana[#] Charge",
             " * Deals 450% damage to all enemies.",
             " * Deals 675% damage to enemies with less than 50% health remaining.",
             " * If the target is defeated by the attack, all allies get +40% mana generation for 4 turns."
@@ -11844,11 +11844,11 @@ const allTranslations =
         "name": "雷 (Ray)",
         "effects": [
             "Special Skill has a different effect when charged with 100%/200% mana:",
-            "1x Mana Charge:",
+            "1x [#!]Mana[#] Charge:",
             " * All enemies receive 423 [##elementred]Burn damage[#] over 3 turns.",
             " * All enemies get -34% defense against [##elementred]Fire[#] for 3 turns.",
             " * Dispels buffs from all enemies.",
-            "2x Mana Charge:",
+            "2x [#!]Mana[#] Charge:",
             " * All allies regenerate 1190 HP over 5 turns.",
             " * All allies get +50% attack against [##elementgreen]Nature[#] for 5 turns.",
             " * Cleanses status ailments from all allies."
@@ -11859,11 +11859,11 @@ const allTranslations =
         "name": "雷 (Ray) C1",
         "effects": [
             "Special Skill has a different effect when charged with 100%/200% mana:",
-            "1x Mana Charge:",
+            "1x [#!]Mana[#] Charge:",
             " * All enemies received 645 [##elementred]Burn damage[#] over 3 turns. The caster absorbs 10% of dealt [##elementred]Burn damage[#] as health.",
             " * All enemies get -36% defense against [##elementred]Fire[#] for 3 turns.",
             " * Dispels buffs from all enemies.",
-            "2x Mana Charge:",
+            "2x [#!]Mana[#] Charge:",
             " * All allies regenerate 1300 boosted health over 5 turns. Boosted health can exceed max HP.",
             " * All allies get +60% attack against [##elementgreen]Nature[#] for 5 turns.",
             " * Cleanses status ailments from all allies."
@@ -11975,15 +11975,15 @@ const allTranslations =
         "name": "露比 (Ruby)",
         "effects": [
             "Special Skill has a different effect when charged with 100%/200%/300% mana:",
-            "1x Mana Charge:",
+            "1x [#!]Mana[#] Charge:",
             " - Deals 290% damage to the target.",
             " - Reduces the mana of the target by 25%.",
             " - The target gets -14% mana generation for 2 turns.",
-            "2x Mana Charge:",
+            "2x [#!]Mana[#] Charge:",
             " - Deals 330% damage to the target and nearby enemies.",
             " - Reduces the mana of the target and nearby enemies by 50%.",
             " - The target and nearby enemies get -24% mana generation for 3 turns.",
-            "3x Mana Charge:",
+            "3x [#!]Mana[#] Charge:",
             " - Deals 370% damage to all enemies.",
             " - Reduces the mana of all enemies by 100%.",
             " - All enemies gets -34% mana generation for 4 turns."
@@ -12099,15 +12099,15 @@ const allTranslations =
         "name": "桃针 (Serandite)",
         "effects": [
             "Special Skill has a different effect when charged with 100%/200%/300% mana:",
-            "x1 Mana Charge:",
+            "x1 [#!]Mana[#] Charge:",
             " - Deals 160% damage to all enemies.",
             " - All enemies receive 256 [##elementred]Burn damage[#] over 2 turns.",
             " - All enemies get -64% decrease of any healing received for 2 turns.",
-            "x2 Mana Charge:",
+            "x2 [#!]Mana[#] Charge:",
             " - Deals 275% damage to all enemies.",
             " - All enemies receive 561 [##elementred]Burn damage[#] over 3 turns.",
             " - All enemies get -74% decrease of any healing received for 3 turns.",
-            "x3 Mana Charge:",
+            "x3 [#!]Mana[#] Charge:",
             " - Deals 340% damage to all enemies.",
             " - All enemies receive 840 [##elementred]Burn damage[#] over 4 turns.",
             " - All enemies get -84% decrease of any healing received for 4 turns."
@@ -12726,13 +12726,13 @@ const allTranslations =
         "name": "金砂石 (Kinsaishi)",
         "effects": [
             "Special Skill has a different effect when charged with 100%/200%/300% mana:",
-            "x1 Mana Charge:",
+            "x1 [#!]Mana[#] Charge:",
             " - Deals 145% damage to the target.",
             " - Deals additional 145% damage to 2 random enemies.",
-            "x2 Mana Charge:",
+            "x2 [#!]Mana[#] Charge:",
             " - Deals 195% damage to the target.",
             " - Deals additional 195% damage to 3 random enemies.",
-            "x3 Mana Charge:",
+            "x3 [#!]Mana[#] Charge:",
             " - Deals 220% damage to the target.",
             " - Deals additional 220% damage to 4 random enemies."
         ]
@@ -12874,9 +12874,9 @@ const allTranslations =
         "name": "阿纳斯塔西亚 (Anastasia)",
         "effects": [
             "Special Skill has a different effect when charged with 100%/200% mana:",
-            "1x Mana Charge:",
+            "1x [#!]Mana[#] Charge:",
             " * Summons a Grimoire Minion for all allies with 13% HP and 20% attack inherited from the caster.",
-            "2x Mana Charge:",
+            "2x [#!]Mana[#] Charge:",
             " * Deals 235 damage to all enemies.",
             " * Summons a Grimoire Fiend for all enemies. The Fiend damages the enemy with 43% attack every turn.",
             " * The Grimoire Fiend absorbs healing. It disappears after absorbing a healing amount equal to 30% of its target's max health."
@@ -13234,11 +13234,11 @@ const allTranslations =
         "name": "斯忒洛珀 (Steropes)",
         "effects": [
             "Special Skill has a different effect when charged with 100% / 200% / 300% mana:",
-            "1x Mana Charge:",
+            "1x [#!]Mana[#] Charge:",
             "* All allies regenerate 324 boosted health over 3 turns. Boosted health can exceed max HP.",
-            "2x Mana Charge:",
+            "2x [#!]Mana[#] Charge:",
             "* If any ally dies during the next 3 turns they are resurrected in the beginning of their next turn with 20% health. All status effects and stacks are removed when the ally dies.",
-            "* 3x Mana Charge:",
+            "* 3x [#!]Mana[#] Charge:",
             "* All allies regenerate 584 boosted health over 4 turns. Boosted health can exceed max HP.",
             "* If any ally dies during the next 4 turns they are resurrected in the beginning of their next turn with 40% health. All status effects and stacks are removed when the ally dies."
         ]
@@ -14014,15 +14014,15 @@ const allTranslations =
         "originalIndex": 1452,
         "name": "伊贺 (Iga)",
         "effects": [
-            "1x Mana Charge",
+            "1x [#!]Mana[#] Charge",
             " * Summons a Kunai Fiend for the target. The Fiend damages the enemy with 150% attack every turn.",
             " * The Kunai Fiend absorbs healing and disappears when it has absorbed health equal to 45% of it’s owner’s max health.",
             " * The Kunai Fiend explodes after 3 turns, dealing 1850 damage to its target.",
-            "2x Mana Charge",
+            "2x [#!]Mana[#] Charge",
             " * Summons a Kunai Fiend for the target and nearby enemies. The Fiend damages the enemy with 175% attack every turn.",
             " * The Kunai Fiend absorbs healing and disappears when it has absorbed health equal to 50% of it’s owner’s max health.",
             " * The Kunai Fiend explodes after 3 turns, dealing 2000 damage to its target.",
-            "3x Mana Charge",
+            "3x [#!]Mana[#] Charge",
             " * Summons a Kunai Fiend for all enemies. The Fiend damages the enemy with 200% attack every turn.",
             " * The Kunai Fiend absorbs healing and disappears when it has absorbed health equal to 55% of it’s owner’s max health.",
             " * The Kunai Fiend explodes after 3 turns, dealing 2250 damage to its target."
@@ -14256,19 +14256,19 @@ const allTranslations =
         "name": "公相君 (Kushanku)",
         "effects": [
             "Special Skill has a different effect when charged with 100%/200%/300% mana",
-            "1x Mana Charge",
+            "1x [#!]Mana[#] Charge",
             "* Deals 280% damage to the target.",
             "* The caster goes into hiding for 2 turns.",
             "* While hidden, the caster can’t receive new status effects or stacks, and all received damage is reduced by -20%.",
             "* When the caster comes out of hiding, they deal 227 damage to all enemies who use Special Skills while the caster was hiding.",
             "* The target automatically casts [#!]Mindless Attack[#] on a random ally when mana is full at the start of a turn during 2 turns.",
-            "2x Mana Charge",
+            "2x [#!]Mana[#] Charge",
             "* Deals 370% damage to the target.",
             "* The caster goes into hiding for 3 turns.",
             "* While hidden, the caster can’t receive new status effects or stacks, and all received damage is reduced by -30%.",
             "* When the caster comes out of hiding they deal 316 damage to all enemies who use Special Skills while the caster was hiding.",
             "* The target automatically casts [#!]Mindless Attack[#] on a random ally when mana is full at the start of a turn during 3 turns.",
-            "3x Mana Charge",
+            "3x [#!]Mana[#] Charge",
             "* Deals 450% damage to the target.",
             "* The caster goes into hiding for 4 turns.",
             "* While hidden, the caster can’t receive new status effects or stacks, and all received damage is reduced by -40%.",
@@ -14474,15 +14474,15 @@ const allTranslations =
         "originalIndex": 1498,
         "name": "云母 (Mica)",
         "effects": [
-            "1x Mana Charge",
+            "1x [#!]Mana[#] Charge",
             " * All allies become Soul Connected for 2 turns. Soul Connected allies share received damage.",
             " * All allies get +25% defense for 2 turns",
             " * All allies get +24% mana generation for 2 turns",
-            "2x Mana Charge",
+            "2x [#!]Mana[#] Charge",
             " * All allies become Soul Connected for 4 turns. Soul Connected allies share received damage.",
             " * All allies get +50% defense for 4 turns",
             " * All allies get +33% mana generation for 4 turns",
-            "3x Mana Charge",
+            "3x [#!]Mana[#] Charge",
             " * All allies become Soul Connected for 5 turns. Soul Connected allies share received damage.",
             " * All allies get +73% defense for 5 turns",
             " * All allies get +38% mana generation for 5 turns"
@@ -14503,11 +14503,11 @@ const allTranslations =
         "name": "莫泰加 (Motega)",
         "effects": [
             "Special Skill has a different effect when charged with 100%/200% mana:",
-            "1x Mana Charge:",
+            "1x [#!]Mana[#] Charge:",
             " * Summons a Butterfly Minion for each ally with 14% HP and 20% attack inherited from the caster.",
             "* Each hit from a Butterfly Minion Gives the target the following status ailment:",
             " *** +20% increase to all received damage for 3 turns.",
-            "2x Mana Charge:",
+            "2x [#!]Mana[#] Charge:",
             " * Summons a Butterfly Fiend for all enemies. The Fiend damages the enemy with 43% attack every turn.",
             " * The Butterfly Fiend absorbs healing and disappears when it has absorbed health equal to 50% of it's owner's max health.",
             " * When summoned, the Butterfly Fiend gives -50% accuracy for its target for as long as the owner has Butterfly Fiends. This effect can't be cleansed. Chance to miss also applies to offensive Special Skills."
@@ -14565,13 +14565,13 @@ const allTranslations =
         "name": "涅墨西斯 (Nemesis)",
         "effects": [
             "Special Skill has a different effect when charged with 100% / 200% / 300% mana:",
-            "1x Mana Charge:",
+            "1x [#!]Mana[#] Charge:",
             "* Deals 500% damage to the target.",
             "* For 3 turns each time an enemy’s mana is increased by a Special Skill, status effect, level property, passive skill, family effect or minion, they receive 250 damage.",
-            "2x Mana Charge:",
+            "2x [#!]Mana[#] Charge:",
             "* Deals 640% damage to the target.",
             "* All enemies are immune to new status effect buffs. Attempted mana generation buffs will be replaced by -34% mana generation for 3 turns.",
-            "3x Mana Charge:",
+            "3x [#!]Mana[#] Charge:",
             "* Deals 680% damage to the target.",
             "* All enemies are immune to new status effect buffs. Attempted mana generation buffs will be replaced by -34% mana generation for 3 turns.",
             "* For 3 turns each time an enemy’s mana is increased by a Special Skill, status effect, level property, passive skill, family effect or minion, they receive 250 damage."
@@ -14755,7 +14755,7 @@ const allTranslations =
         "name": "郭王后 (Queen Guowang)",
         "effects": [
             "Deals 330% damage to all enemies.",
-            "All allies get +10% mana every time an enemy uses their Special Skill during 4 turns. Mana is received at the end of a Special Skill. Mana will not be received if this status effect is removed during a Special Skill",
+            "All allies get +10% mana every time an enemy uses their Special Skill during 4 turns. [#!]Mana[#] is received at the end of a Special Skill. [#!]Mana[#] will not be received if this status effect is removed during a Special Skill",
             "The caster gets Vengeance for 4 turns. If Vengeance is dispelled by an enemy’s Special Skill, all enemies receive 525 damage."
         ]
     },
@@ -15026,15 +15026,15 @@ const allTranslations =
         "name": "黄玉 (Topaz)",
         "effects": [
             "Special Skill has a different effect when charged with 100%/200%/300% mana:",
-            "x1 Mana Charge:",
+            "x1 [#!]Mana[#] Charge:",
             " * Destroys all Minions from the target.",
             " * Deals 310% damage to the target.",
             " * All allies get a small amount of mana for each destroyed Minion.",
-            "x2 Mana Charge:",
+            "x2 [#!]Mana[#] Charge:",
             " * Destroys all Minions from the target and nearby enemies.",
             " * Deals 350% damage to the target and nearby enemies.",
             " * All allies get a small amount of mana for each destroyed Minion.",
-            "x3 Mana Charge:",
+            "x3 [#!]Mana[#] Charge:",
             " * Destroys all Minions from all enemies.",
             " * Deals 390% damage to all enemies.",
             " * All allies get a small amount of mana for each destroyed Minion."
@@ -15055,11 +15055,11 @@ const allTranslations =
         "name": "吠舍离 (Vaishali)",
         "effects": [
             "Special Skill has a different effect when charged with 100%/200% mana:",
-            "1x Mana Charge:",
+            "1x [#!]Mana[#] Charge:",
             " * All allies regenerate 594 HP over 3 turns.",
             " * All allies get +30% attack for 3 turns.",
             " * Cleanses status ailments from all allies.",
-            "2x Mana Charge:",
+            "2x [#!]Mana[#] Charge:",
             " * Dispels buffs from all enemies.",
             " * All enemies receive 1290 [##elementyellow]Sand damage[#] over 5 turns.",
             " * All enemies get -45% attack for 5 turns."
@@ -15070,11 +15070,11 @@ const allTranslations =
         "name": "吠舍离 (Vaishali) C1",
         "effects": [
             "Special Skill has a different effect when charged with 100%/200% mana:",
-            "1x Mana Charge:",
+            "1x [#!]Mana[#] Charge:",
             " * All allies regenerate 702 HP over 3 turns.",
             " * All allies get +33% attack for 3 turns.",
             " * Cleanses status ailments from all allies.",
-            "2x Mana Charge:",
+            "2x [#!]Mana[#] Charge:",
             " * Dispels buffs from all enemies.",
             " * All enemies receive 1855 [##elementyellow]Sand damage[#] over 5 turns.",
             " * All enemies get -50% attack for 5 turns.",
@@ -15168,11 +15168,11 @@ const allTranslations =
         "name": "维柳 (Willow)",
         "effects": [
             "Special Skill has a different effect when charged with 100%/200% mana:",
-            "1x Mana Charge:",
+            "1x [#!]Mana[#] Charge:",
             " * Deals 175% damage to all enemies.",
             " * Dispels status effect buffs that affect defense from all enemies.",
             " * All enemies are immune to new status effect buffs that affect defense for 3 turns.",
-            "2x Mana Charge:",
+            "2x [#!]Mana[#] Charge:",
             " * All allies bypass defensive buffs with their attacks for 5 turns. Defensive buffs include counterattacks.",
             " * All allies reduce all received damage by -45% for 5 turns.",
             " * All allies counterattack with 115% of the damage received for 5 turns."
