@@ -10,6 +10,106 @@
           {
             "key": "specials.v2.statuseffect.minor.receiveddamagemodifier.single.enemies.chain_strike",
             "text": "Tutti i bersagli colpiti subiscono il {DAMAGEMODIFIER}% di danni aumentati per {TURNS} turni."
+          },
+          {
+            "key": "items.description.lure_bonus_untoldtales2",
+            "text": "Questa esca si attiverà automaticamente nel prossimo evento Ricchezze naniche."
+          },
+          {
+            "key": "items.availability.source.reward.tales2_aftermath_rare_purple",
+            "text": "Nemici rari di Tesori della Fiamma e del Gelo durante l'evento Ricchezze naniche"
+          },
+          {
+            "key": "familiar.statuseffect.major.manaovertime.small.single.allies.enchanted_sigil_minion_costume.summon",
+            "text": "Quando viene evocato, il servitore sigillo incantato conferisce una piccola quantità di mana al suo proprietario finché questi ha servitori sigillo incantato. Questo effetto non può essere annullato."
+          },
+          {
+            "key": "shop.item.com.smallgiantgames.empires.hero_limit_break_1_blue_1",
+            "text": "Spezzalimite 1 - Blu"
+          },
+          {
+            "key": "shop.item.com.smallgiantgames.empires.hero_limit_break_1_green_1",
+            "text": "Spezzalimite 1 - Verde"
+          },
+          {
+            "key": "shop.item.com.smallgiantgames.empires.hero_limit_break_1_purple_1",
+            "text": "Spezzalimite 1 - Viola"
+          },
+          {
+            "key": "shop.item.com.smallgiantgames.empires.hero_limit_break_1_red_1",
+            "text": "Spezzalimite 1 - Rosso"
+          },
+          {
+            "key": "shop.item.com.smallgiantgames.empires.hero_limit_break_1_yellow_1",
+            "text": "Spezzalimite 1 - Giallo"
+          },
+          {
+            "key": "shop.item.com.smallgiantgames.empires.hero_limit_break_2_blue_1",
+            "text": "Spezzalimite 2 - Blu"
+          },
+          {
+            "key": "shop.item.com.smallgiantgames.empires.hero_limit_break_2_green_1",
+            "text": "Spezzalimite 2 - Verde"
+          },
+          {
+            "key": "shop.item.com.smallgiantgames.empires.hero_limit_break_2_purple_1",
+            "text": "Spezzalimite 2 - Viola"
+          },
+          {
+            "key": "shop.item.com.smallgiantgames.empires.hero_limit_break_2_red_1",
+            "text": "Spezzalimite 2 - Rosso"
+          },
+          {
+            "key": "shop.item.com.smallgiantgames.empires.hero_limit_break_2_yellow_1",
+            "text": "Spezzalimite 2 - Giallo"
+          },
+          {
+            "key": "shop.offers.title.hero_limit_break_1_blue_1",
+            "text": "Spezzalimite 1 - Blu"
+          },
+          {
+            "key": "shop.offers.title.hero_limit_break_1_green_1",
+            "text": "Spezzalimite 1 - Verde"
+          },
+          {
+            "key": "shop.offers.title.hero_limit_break_1_purple_1",
+            "text": "Spezzalimite 1 - Viola"
+          },
+          {
+            "key": "shop.offers.title.hero_limit_break_1_red_1",
+            "text": "Spezzalimite 1 - Rosso"
+          },
+          {
+            "key": "shop.offers.title.hero_limit_break_1_yellow_1",
+            "text": "Spezzalimite 1 - Giallo"
+          },
+          {
+            "key": "shop.offers.title.hero_limit_break_2_blue_1",
+            "text": "Spezzalimite 2 - Blu"
+          },
+          {
+            "key": "shop.offers.title.hero_limit_break_2_green_1",
+            "text": "Spezzalimite 2 - Verde"
+          },
+          {
+            "key": "shop.offers.title.hero_limit_break_2_purple_1",
+            "text": "Spezzalimite 2 - Viola"
+          },
+          {
+            "key": "shop.offers.title.hero_limit_break_2_red_1",
+            "text": "Spezzalimite 2 - Rosso"
+          },
+          {
+            "key": "shop.offers.title.hero_limit_break_2_yellow_1",
+            "text": "Spezzalimite 2 - Giallo"
+          },
+          {
+            "key": "specials.v2.statuseffect.major.constantmanasteal.all.enemies.while.single.allies.familiaralive.cursed_sigil_parasite_costume",
+            "text": "L'evocatore ruba il {CURRENTMANASTEAL}% del mana generato da tutti i nemici. L'effetto dura fino a quando il bersaglio ha demoni sigillo maledetto. Questo effetto non può essere rimosso, ma viene eliminato se l'evocatore viene sconfitto."
+          },
+          {
+            "key": "statuseffects.description.constantmanasteal.while.single.allies.familiaralive.cursed_sigil_parasite_costume",
+            "text": "[#!]{CURRENTMANASTEAL}%[#] del mana ricevuto viene rubato (attivo finché questo personaggio ha un [#!]demone sigillo maledetto[#])."
           }
         ]
       },
@@ -22,6 +122,106 @@
           {
             "key": "specials.v2.statuseffect.minor.receiveddamagemodifier.single.enemies.chain_strike",
             "text": "Все попавшие под удар цели получают {DAMAGEMODIFIER} % увеличенного урона на {TURNS} х."
+          },
+          {
+            "key": "items.description.lure_bonus_untoldtales2",
+            "text": "Эта приманка будет автоматически активирована в следующем событии \"Гномьи богатства\"."
+          },
+          {
+            "key": "items.availability.source.reward.tales2_aftermath_rare_purple",
+            "text": "Редкие враги в \"Сокровищах пламени и мороза\" во время события \"Гномьи богатства\""
+          },
+          {
+            "key": "familiar.statuseffect.major.manaovertime.small.single.allies.enchanted_sigil_minion_costume.summon",
+            "text": "При призыве зачарованная печать дает небольшое количество маны владельцу, пока у того есть зачарованные печати. Нельзя снять."
+          },
+          {
+            "key": "shop.item.com.smallgiantgames.empires.hero_limit_break_1_blue_1",
+            "text": "Слом ограничений 1 - Синий"
+          },
+          {
+            "key": "shop.item.com.smallgiantgames.empires.hero_limit_break_1_green_1",
+            "text": "Слом ограничений 1 - Зеленый"
+          },
+          {
+            "key": "shop.item.com.smallgiantgames.empires.hero_limit_break_1_purple_1",
+            "text": "Слом ограничений 1 - Фиол."
+          },
+          {
+            "key": "shop.item.com.smallgiantgames.empires.hero_limit_break_1_red_1",
+            "text": "Слом ограничений 1 - Красный"
+          },
+          {
+            "key": "shop.item.com.smallgiantgames.empires.hero_limit_break_1_yellow_1",
+            "text": "Слом ограничений 1 - Желтый"
+          },
+          {
+            "key": "shop.item.com.smallgiantgames.empires.hero_limit_break_2_blue_1",
+            "text": "Слом ограничений 2 - Синий"
+          },
+          {
+            "key": "shop.item.com.smallgiantgames.empires.hero_limit_break_2_green_1",
+            "text": "Слом ограничений 2 - Зеленый"
+          },
+          {
+            "key": "shop.item.com.smallgiantgames.empires.hero_limit_break_2_purple_1",
+            "text": "Слом ограничений 2 - Фиол."
+          },
+          {
+            "key": "shop.item.com.smallgiantgames.empires.hero_limit_break_2_red_1",
+            "text": "Слом ограничений 2 - Красный"
+          },
+          {
+            "key": "shop.item.com.smallgiantgames.empires.hero_limit_break_2_yellow_1",
+            "text": "Слом ограничений 2 - Желтый"
+          },
+          {
+            "key": "shop.offers.title.hero_limit_break_1_blue_1",
+            "text": "Слом ограничений 1 - Синий"
+          },
+          {
+            "key": "shop.offers.title.hero_limit_break_1_green_1",
+            "text": "Слом ограничений 1 - Зеленый"
+          },
+          {
+            "key": "shop.offers.title.hero_limit_break_1_purple_1",
+            "text": "Слом ограничений 1 - Фиол."
+          },
+          {
+            "key": "shop.offers.title.hero_limit_break_1_red_1",
+            "text": "Слом ограничений 1 - Красный"
+          },
+          {
+            "key": "shop.offers.title.hero_limit_break_1_yellow_1",
+            "text": "Слом ограничений 1 - Желтый"
+          },
+          {
+            "key": "shop.offers.title.hero_limit_break_2_blue_1",
+            "text": "Слом ограничений 2 - Синий"
+          },
+          {
+            "key": "shop.offers.title.hero_limit_break_2_green_1",
+            "text": "Слом ограничений 2 - Зеленый"
+          },
+          {
+            "key": "shop.offers.title.hero_limit_break_2_purple_1",
+            "text": "Слом ограничений 2 - Фиол."
+          },
+          {
+            "key": "shop.offers.title.hero_limit_break_2_red_1",
+            "text": "Слом ограничений 2 - Красный"
+          },
+          {
+            "key": "shop.offers.title.hero_limit_break_2_yellow_1",
+            "text": "Слом ограничений 2 - Желтый"
+          },
+          {
+            "key": "specials.v2.statuseffect.major.constantmanasteal.all.enemies.while.single.allies.familiaralive.cursed_sigil_parasite_costume",
+            "text": "Герой крадет {CURRENTMANASTEAL} % генерируемой маны у всех врагов. Эффект действует, пока у цели есть проклятая печать-паразит. Эффект нельзя очистить, но он пропадает, если победить героя."
+          },
+          {
+            "key": "statuseffects.description.constantmanasteal.while.single.allies.familiaralive.cursed_sigil_parasite_costume",
+            "text": "[#!]{CURRENTMANASTEAL} %[#] полученной маны будет украдено. (Действует, пока у героя есть [#!]проклятая печать-паразит[#])"
           }
         ]
       },
@@ -34,6 +234,106 @@
           {
             "key": "specials.v2.statuseffect.minor.receiveddamagemodifier.single.enemies.chain_strike",
             "text": "Wszystkie trafione cele otrzymują o {DAMAGEMODIFIER}% zwiększone obrażenia przez okres {TURNS} tur."
+          },
+          {
+            "key": "items.description.lure_bonus_untoldtales2",
+            "text": "Przynęta zostanie automatycznie aktywowana przy kolejnym wydarzeniu krasnoludzkie skarby."
+          },
+          {
+            "key": "items.availability.source.reward.tales2_aftermath_rare_purple",
+            "text": "Rzadcy wrogowie skarbów ognia i mrozu podczas wydarzenia krasnoludzkie skarby"
+          },
+          {
+            "key": "familiar.statuseffect.major.manaovertime.small.single.allies.enchanted_sigil_minion_costume.summon",
+            "text": "Po wezwaniu zaklęty magiczny pomocnik daje właścicielowi niewielką ilość many przez cały okres posiadania. Odwołanie tego efektu nie jest możliwe."
+          },
+          {
+            "key": "shop.item.com.smallgiantgames.empires.hero_limit_break_1_blue_1",
+            "text": "Pokonanie limitu 1 - błękit"
+          },
+          {
+            "key": "shop.item.com.smallgiantgames.empires.hero_limit_break_1_green_1",
+            "text": "Pokonanie limitu 1 - zieleń"
+          },
+          {
+            "key": "shop.item.com.smallgiantgames.empires.hero_limit_break_1_purple_1",
+            "text": "Pokonanie limitu 1 - fiolet"
+          },
+          {
+            "key": "shop.item.com.smallgiantgames.empires.hero_limit_break_1_red_1",
+            "text": "Pokonanie limitu 1 - czerwień"
+          },
+          {
+            "key": "shop.item.com.smallgiantgames.empires.hero_limit_break_1_yellow_1",
+            "text": "Pokonanie limitu 1 - żółć"
+          },
+          {
+            "key": "shop.item.com.smallgiantgames.empires.hero_limit_break_2_blue_1",
+            "text": "Pokonanie limitu 2 - błękit"
+          },
+          {
+            "key": "shop.item.com.smallgiantgames.empires.hero_limit_break_2_green_1",
+            "text": "Pokonanie limitu 2 - zieleń"
+          },
+          {
+            "key": "shop.item.com.smallgiantgames.empires.hero_limit_break_2_purple_1",
+            "text": "Pokonanie limitu 2 - fiolet"
+          },
+          {
+            "key": "shop.item.com.smallgiantgames.empires.hero_limit_break_2_red_1",
+            "text": "Pokonanie limitu 2 - czerwień"
+          },
+          {
+            "key": "shop.item.com.smallgiantgames.empires.hero_limit_break_2_yellow_1",
+            "text": "Pokonanie limitu 2 - żółć"
+          },
+          {
+            "key": "shop.offers.title.hero_limit_break_1_blue_1",
+            "text": "Pokonanie limitu 1 - błękit"
+          },
+          {
+            "key": "shop.offers.title.hero_limit_break_1_green_1",
+            "text": "Pokonanie limitu 1 - zieleń"
+          },
+          {
+            "key": "shop.offers.title.hero_limit_break_1_purple_1",
+            "text": "Pokonanie limitu 1 - fiolet"
+          },
+          {
+            "key": "shop.offers.title.hero_limit_break_1_red_1",
+            "text": "Pokonanie limitu 1 - czerwień"
+          },
+          {
+            "key": "shop.offers.title.hero_limit_break_1_yellow_1",
+            "text": "Pokonanie limitu 1 - żółć"
+          },
+          {
+            "key": "shop.offers.title.hero_limit_break_2_blue_1",
+            "text": "Pokonanie limitu 2 - błękit"
+          },
+          {
+            "key": "shop.offers.title.hero_limit_break_2_green_1",
+            "text": "Pokonanie limitu 2 - zieleń"
+          },
+          {
+            "key": "shop.offers.title.hero_limit_break_2_purple_1",
+            "text": "Pokonanie limitu 2 - fiolet"
+          },
+          {
+            "key": "shop.offers.title.hero_limit_break_2_red_1",
+            "text": "Pokonanie limitu 2 - czerwień"
+          },
+          {
+            "key": "shop.offers.title.hero_limit_break_2_yellow_1",
+            "text": "Pokonanie limitu 2 - żółć"
+          },
+          {
+            "key": "specials.v2.statuseffect.major.constantmanasteal.all.enemies.while.single.allies.familiaralive.cursed_sigil_parasite_costume",
+            "text": "Rzucający kradnie {CURRENTMANASTEAL}% regeneracji many wszystkim wrogom przez cały okres posiadania. Oczyszczenie statusu z tego efektu nie jest możliwe, ale zostaje on zdjęty w razie pokonania rzucającego."
+          },
+          {
+            "key": "statuseffects.description.constantmanasteal.while.single.allies.familiaralive.cursed_sigil_parasite_costume",
+            "text": "[#!]{CURRENTMANASTEAL}%[#] wygenerowanej many zostało ukradzione. (Efekt aktywny, póki postać posiada [#!]przeklętego magicznego potwora[#])"
           }
         ]
       },
@@ -46,6 +346,106 @@
           {
             "key": "specials.v2.statuseffect.minor.receiveddamagemodifier.single.enemies.chain_strike",
             "text": "被命中的所有敵人，受到的傷害增加{DAMAGEMODIFIER}% ，持續{TURNS}回合。"
+          },
+          {
+            "key": "items.description.lure_bonus_untoldtales2",
+            "text": "此誘餌將於下次「矮人財寶」活動時自動啟用。"
+          },
+          {
+            "key": "items.availability.source.reward.tales2_aftermath_rare_purple",
+            "text": "矮人財寶活動期間「火焰與冰霜的寶藏」稀有敵人"
+          },
+          {
+            "key": "familiar.statuseffect.major.manaovertime.small.single.allies.enchanted_sigil_minion_costume.summon",
+            "text": "召喚魔法符咒小兵之後，主人擁有魔法符咒小兵期間，幼蟲小兵會賦予其主人少量法力。此效果無法被驅散。"
+          },
+          {
+            "key": "shop.item.com.smallgiantgames.empires.hero_limit_break_1_blue_1",
+            "text": "不容錯過的極限突破1：藍色"
+          },
+          {
+            "key": "shop.item.com.smallgiantgames.empires.hero_limit_break_1_green_1",
+            "text": "不容錯過的極限突破1：綠色"
+          },
+          {
+            "key": "shop.item.com.smallgiantgames.empires.hero_limit_break_1_purple_1",
+            "text": "不容錯過的極限突破1：紫色"
+          },
+          {
+            "key": "shop.item.com.smallgiantgames.empires.hero_limit_break_1_red_1",
+            "text": "不容錯過的極限突破1：紅色"
+          },
+          {
+            "key": "shop.item.com.smallgiantgames.empires.hero_limit_break_1_yellow_1",
+            "text": "不容錯過的極限突破1：黃色"
+          },
+          {
+            "key": "shop.item.com.smallgiantgames.empires.hero_limit_break_2_blue_1",
+            "text": "不容錯過的極限突破2：藍色"
+          },
+          {
+            "key": "shop.item.com.smallgiantgames.empires.hero_limit_break_2_green_1",
+            "text": "不容錯過的極限突破2：綠色"
+          },
+          {
+            "key": "shop.item.com.smallgiantgames.empires.hero_limit_break_2_purple_1",
+            "text": "不容錯過的極限突破2：紫色"
+          },
+          {
+            "key": "shop.item.com.smallgiantgames.empires.hero_limit_break_2_red_1",
+            "text": "不容錯過的極限突破2：紅色"
+          },
+          {
+            "key": "shop.item.com.smallgiantgames.empires.hero_limit_break_2_yellow_1",
+            "text": "不容錯過的極限突破2：黃色"
+          },
+          {
+            "key": "shop.offers.title.hero_limit_break_1_blue_1",
+            "text": "極限突破1：藍色"
+          },
+          {
+            "key": "shop.offers.title.hero_limit_break_1_green_1",
+            "text": "極限突破1：綠色"
+          },
+          {
+            "key": "shop.offers.title.hero_limit_break_1_purple_1",
+            "text": "極限突破1：紫色"
+          },
+          {
+            "key": "shop.offers.title.hero_limit_break_1_red_1",
+            "text": "極限突破1：紅色"
+          },
+          {
+            "key": "shop.offers.title.hero_limit_break_1_yellow_1",
+            "text": "極限突破1：黃色"
+          },
+          {
+            "key": "shop.offers.title.hero_limit_break_2_blue_1",
+            "text": "極限突破2：藍色"
+          },
+          {
+            "key": "shop.offers.title.hero_limit_break_2_green_1",
+            "text": "極限突破2：綠色"
+          },
+          {
+            "key": "shop.offers.title.hero_limit_break_2_purple_1",
+            "text": "極限突破2：紫色"
+          },
+          {
+            "key": "shop.offers.title.hero_limit_break_2_red_1",
+            "text": "極限突破2：紅色"
+          },
+          {
+            "key": "shop.offers.title.hero_limit_break_2_yellow_1",
+            "text": "極限突破2：黃色"
+          },
+          {
+            "key": "specials.v2.statuseffect.major.constantmanasteal.all.enemies.while.single.allies.familiaralive.cursed_sigil_parasite_costume",
+            "text": "施法者竊偷所有敵人所產出法力的{CURRENTMANASTEAL}%，效果持續至目標失去受詛咒的符咒惡魔為止。此效果無法淨化，但會在施法者被擊敗後移除。"
+          },
+          {
+            "key": "statuseffects.description.constantmanasteal.while.single.allies.familiaralive.cursed_sigil_parasite_costume",
+            "text": "[#!]{CURRENTMANASTEAL}%[#]所獲的法力會被竊取。（此角色有[#!]受詛咒的符咒惡魔[#]時才有效）"
           }
         ]
       },
@@ -53,11 +453,111 @@
         "overrideEntries": [
           {
             "key": "herocard.passive_skill.description.reviveinalternativeformwithinsanitychance",
-            "text": "이 캐릭터는 패배 시 일정 확률로 [#!]엘드리히 호스트[#]로 부활할 수 있습니다. 그 확률은 이 캐릭터의 [#!]{INSANITYPERSTEP}[#] [#!]광기[#]당 [#!]{CHANCEINCREASEPERSTEP}%[#]이며 [#!]{MAXCHANCEINCREASE}%[#]를 초과할 수 없습니다. \n\n[#!]엘드리히 호스트[#]는 다음과 같은 특성을 갖습니다.\n[*][#!]{INHERITEDHEALTH}%[#] HP 계승. \n[*][#!]{ATTACK}[#] 공격력.\n[*][#!]{DEFENSE}[#] 방어력.\n[*]특수 스킬: [#!]Eldritch Blight[#].\n\n[#!]광기[#]가 활성화되어 이 캐릭터가 스스로 쓰러지면 그 확률은 [#!]{CHANCEONSELFCAUSEDDEATH}%[#]입니다."
+            "text": "이 캐릭터는 패배 시 일정 확률로 [#!]엘드리히 호스트[#]로 부활할 수 있습니다. 그 확률은 이 캐릭터의 [#!]{INSANITYPERSTEP}[#] [#!]광기[#]당 [#!]{CHANCEINCREASEPERSTEP}%[#]이며 [#!]{MAXCHANCEINCREASE}%[#]를 초과할 수 없습니다. \n\n[#!]엘드리히 호스트[#]는 다음과 같은 특성을 갖습니다.\n[*][#!]{INHERITEDHEALTH}%[#] HP 계승. \n[*][#!]{ATTACK}[#] 공격력.\n[*][#!]{DEFENSE}[#] 방어력.\n[*]특수 스킬: [#!]엘드리히의 재앙[#].\n\n[#!]광기[#]가 활성화되어 이 캐릭터가 스스로 쓰러지면 그 확률은 [#!]{CHANCEONSELFCAUSEDDEATH}%[#]입니다."
           },
           {
             "key": "specials.v2.statuseffect.minor.receiveddamagemodifier.single.enemies.chain_strike",
             "text": "모든 대상은 {TURNS}턴 동안 {DAMAGEMODIFIER}% 추가 피해를 받습니다."
+          },
+          {
+            "key": "items.description.lure_bonus_untoldtales2",
+            "text": "이 미끼는 다음 드워프 재물 이벤트에서 자동으로 활성화됩니다."
+          },
+          {
+            "key": "items.availability.source.reward.tales2_aftermath_rare_purple",
+            "text": "드워프 재물 이벤트 중 불꽃과 서리의 보물 희귀 적"
+          },
+          {
+            "key": "familiar.statuseffect.major.manaovertime.small.single.allies.enchanted_sigil_minion_costume.summon",
+            "text": "소환되면 주인이 마법의 인장 하수인을 보유한 동안 마법의 인장 하수인은 주인에게 소량의 마나를 줍니다. 이 효과는 해제할 수 없습니다."
+          },
+          {
+            "key": "shop.item.com.smallgiantgames.empires.hero_limit_break_1_blue_1",
+            "text": "한도 해제 1 - 파란색"
+          },
+          {
+            "key": "shop.item.com.smallgiantgames.empires.hero_limit_break_1_green_1",
+            "text": "한도 해제 1 - 녹색"
+          },
+          {
+            "key": "shop.item.com.smallgiantgames.empires.hero_limit_break_1_purple_1",
+            "text": "한도 해제 1 - 보라색"
+          },
+          {
+            "key": "shop.item.com.smallgiantgames.empires.hero_limit_break_1_red_1",
+            "text": "한도 해제 1 - 빨간색"
+          },
+          {
+            "key": "shop.item.com.smallgiantgames.empires.hero_limit_break_1_yellow_1",
+            "text": "한도 해제 1 - 노란색"
+          },
+          {
+            "key": "shop.item.com.smallgiantgames.empires.hero_limit_break_2_blue_1",
+            "text": "한도 해제 2 - 파란색"
+          },
+          {
+            "key": "shop.item.com.smallgiantgames.empires.hero_limit_break_2_green_1",
+            "text": "한도 해제 2 - 녹색"
+          },
+          {
+            "key": "shop.item.com.smallgiantgames.empires.hero_limit_break_2_purple_1",
+            "text": "한도 해제 2 - 보라색"
+          },
+          {
+            "key": "shop.item.com.smallgiantgames.empires.hero_limit_break_2_red_1",
+            "text": "한도 해제 2 - 빨간색"
+          },
+          {
+            "key": "shop.item.com.smallgiantgames.empires.hero_limit_break_2_yellow_1",
+            "text": "한도 해제 2 - 노란색"
+          },
+          {
+            "key": "shop.offers.title.hero_limit_break_1_blue_1",
+            "text": "한도 해제 1 - 파란색"
+          },
+          {
+            "key": "shop.offers.title.hero_limit_break_1_green_1",
+            "text": "한도 해제 1 - 녹색"
+          },
+          {
+            "key": "shop.offers.title.hero_limit_break_1_purple_1",
+            "text": "한도 해제 1 - 보라색"
+          },
+          {
+            "key": "shop.offers.title.hero_limit_break_1_red_1",
+            "text": "한도 해제 1 - 빨간색"
+          },
+          {
+            "key": "shop.offers.title.hero_limit_break_1_yellow_1",
+            "text": "한도 해제 1 - 노란색"
+          },
+          {
+            "key": "shop.offers.title.hero_limit_break_2_blue_1",
+            "text": "한도 해제 2 - 파란색"
+          },
+          {
+            "key": "shop.offers.title.hero_limit_break_2_green_1",
+            "text": "한도 해제 2 - 녹색"
+          },
+          {
+            "key": "shop.offers.title.hero_limit_break_2_purple_1",
+            "text": "한도 해제 2 - 보라색"
+          },
+          {
+            "key": "shop.offers.title.hero_limit_break_2_red_1",
+            "text": "한도 해제 2 - 빨간색"
+          },
+          {
+            "key": "shop.offers.title.hero_limit_break_2_yellow_1",
+            "text": "한도 해제 2 - 노란색"
+          },
+          {
+            "key": "specials.v2.statuseffect.major.constantmanasteal.all.enemies.while.single.allies.familiaralive.cursed_sigil_parasite_costume",
+            "text": "시전자는 모든 적으로부터 생성된 마나의 {CURRENTMANASTEAL}%를 가져옵니다. 이 효과는 목표물이 저주받은 인장 악마를 가지고 있는 한 계속 유지됩니다. 이 효과는 정화할 수 없지만, 시전자가 쓰러지면 효과가 제거됩니다."
+          },
+          {
+            "key": "statuseffects.description.constantmanasteal.while.single.allies.familiaralive.cursed_sigil_parasite_costume",
+            "text": "[#!]받은 마나 중 {CURRENTMANASTEAL}%[#]를 빼앗깁니다. (이 캐릭터에게 [#!]저주받은 인장 악마[#]가 있는 한 활성화)"
           }
         ]
       },
@@ -69,7 +569,107 @@
           },
           {
             "key": "specials.v2.statuseffect.minor.receiveddamagemodifier.single.enemies.chain_strike",
-            "text": "Alle Ziele erhalten für {TURNS} Runden {DAMAGEMODIFIER} % mehr Schaden."
+            "text": "Alle getroffenen Ziele erhalten für {TURNS} Runden {DAMAGEMODIFIER} % mehr Schaden."
+          },
+          {
+            "key": "items.description.lure_bonus_untoldtales2",
+            "text": "Dieser Köder wird beim nächsten Zwergenschätze-Event automatisch aktiviert."
+          },
+          {
+            "key": "items.availability.source.reward.tales2_aftermath_rare_purple",
+            "text": "Seltene „Schätze von Flamme und Frost“-Gegner im Zwergenschätze-Event"
+          },
+          {
+            "key": "familiar.statuseffect.major.manaovertime.small.single.allies.enchanted_sigil_minion_costume.summon",
+            "text": "Der Verzaubertes-Siegel-Lakai gewährt seinem Besitzer kleine Mengen Mana, solange der Besitzer Verzaubertes-Siegel-Lakaien hat. Dieser Effekt kann nicht gesäubert werden."
+          },
+          {
+            "key": "shop.item.com.smallgiantgames.empires.hero_limit_break_1_blue_1",
+            "text": "Limitüberschreitung 1 – Blau"
+          },
+          {
+            "key": "shop.item.com.smallgiantgames.empires.hero_limit_break_1_green_1",
+            "text": "Limitüberschreitung 1 – Grün"
+          },
+          {
+            "key": "shop.item.com.smallgiantgames.empires.hero_limit_break_1_purple_1",
+            "text": "Limitüberschreitung 1 – Lila"
+          },
+          {
+            "key": "shop.item.com.smallgiantgames.empires.hero_limit_break_1_red_1",
+            "text": "Limitüberschreitung 1 – Rot"
+          },
+          {
+            "key": "shop.item.com.smallgiantgames.empires.hero_limit_break_1_yellow_1",
+            "text": "Limitüberschreitung 1 – Gelb"
+          },
+          {
+            "key": "shop.item.com.smallgiantgames.empires.hero_limit_break_2_blue_1",
+            "text": "Limitüberschreitung 2 – Blau"
+          },
+          {
+            "key": "shop.item.com.smallgiantgames.empires.hero_limit_break_2_green_1",
+            "text": "Limitüberschreitung 2 – Grün"
+          },
+          {
+            "key": "shop.item.com.smallgiantgames.empires.hero_limit_break_2_purple_1",
+            "text": "Limitüberschreitung 2 – Lila"
+          },
+          {
+            "key": "shop.item.com.smallgiantgames.empires.hero_limit_break_2_red_1",
+            "text": "Limitüberschreitung 2 – Rot"
+          },
+          {
+            "key": "shop.item.com.smallgiantgames.empires.hero_limit_break_2_yellow_1",
+            "text": "Limitüberschreitung 2 – Gelb"
+          },
+          {
+            "key": "shop.offers.title.hero_limit_break_1_blue_1",
+            "text": "Limitüberschreitung 1 – Blau"
+          },
+          {
+            "key": "shop.offers.title.hero_limit_break_1_green_1",
+            "text": "Limitüberschreitung 1 – Grün"
+          },
+          {
+            "key": "shop.offers.title.hero_limit_break_1_purple_1",
+            "text": "Limitüberschreitung 1 – Lila"
+          },
+          {
+            "key": "shop.offers.title.hero_limit_break_1_red_1",
+            "text": "Limitüberschreitung 1 – Rot"
+          },
+          {
+            "key": "shop.offers.title.hero_limit_break_1_yellow_1",
+            "text": "Limitüberschreitung 1 – Gelb"
+          },
+          {
+            "key": "shop.offers.title.hero_limit_break_2_blue_1",
+            "text": "Limitüberschreitung 2 – Blau"
+          },
+          {
+            "key": "shop.offers.title.hero_limit_break_2_green_1",
+            "text": "Limitüberschreitung 2 – Grün"
+          },
+          {
+            "key": "shop.offers.title.hero_limit_break_2_purple_1",
+            "text": "Limitüberschreitung 2 – Lila"
+          },
+          {
+            "key": "shop.offers.title.hero_limit_break_2_red_1",
+            "text": "Limitüberschreitung 2 – Rot"
+          },
+          {
+            "key": "shop.offers.title.hero_limit_break_2_yellow_1",
+            "text": "Limitüberschreitung 2 – Gelb"
+          },
+          {
+            "key": "specials.v2.statuseffect.major.constantmanasteal.all.enemies.while.single.allies.familiaralive.cursed_sigil_parasite_costume",
+            "text": "Der Wirker stiehlt allen Gegnern {CURRENTMANASTEAL} % des erzeugten Manas. Der Effekt hält an, solange das Ziel Verfluchtes-Siegel-Feinde hat. Dieser Effekt kann nicht gereinigt werden, wird aber entfernt, wenn der Wirker besiegt wird."
+          },
+          {
+            "key": "statuseffects.description.constantmanasteal.while.single.allies.familiaralive.cursed_sigil_parasite_costume",
+            "text": "[#!]{CURRENTMANASTEAL} %[#] des erhaltenen Manas wird gestohlen. (Aktiv, solange dieser Charakter einen [#!]Verfluchtes-Siegel-Feind[#] hat)"
           }
         ]
       },
@@ -82,6 +682,106 @@
           {
             "key": "specials.v2.statuseffect.minor.receiveddamagemodifier.single.enemies.chain_strike",
             "text": "攻撃を受けたターゲット全員が{TURNS}ターンの間、{DAMAGEMODIFIER}%の増加ダメージを受ける。"
+          },
+          {
+            "key": "items.description.lure_bonus_untoldtales2",
+            "text": "この誘引は次回の「ドワーフの財宝」イベントで自動的に発動する。"
+          },
+          {
+            "key": "items.availability.source.reward.tales2_aftermath_rare_purple",
+            "text": "「ドワーフの財宝」イベント期間中の「炎とフロストの財宝」のレアな敵"
+          },
+          {
+            "key": "familiar.statuseffect.major.manaovertime.small.single.allies.enchanted_sigil_minion_costume.summon",
+            "text": "魔法のシジルのミニオンがサモンされた場合は、所有者が魔法のシジルのミニオンを所有する限り、所有者に少量のマナを与える。この効果は解除できない。"
+          },
+          {
+            "key": "shop.item.com.smallgiantgames.empires.hero_limit_break_1_blue_1",
+            "text": "リミットブレイク1 - ブルー"
+          },
+          {
+            "key": "shop.item.com.smallgiantgames.empires.hero_limit_break_1_green_1",
+            "text": "リミットブレイク1 - グリーン"
+          },
+          {
+            "key": "shop.item.com.smallgiantgames.empires.hero_limit_break_1_purple_1",
+            "text": "リミットブレイク1 - ブルー"
+          },
+          {
+            "key": "shop.item.com.smallgiantgames.empires.hero_limit_break_1_red_1",
+            "text": "リミットブレイク1 - レッド"
+          },
+          {
+            "key": "shop.item.com.smallgiantgames.empires.hero_limit_break_1_yellow_1",
+            "text": "リミットブレイク1 - イエロー"
+          },
+          {
+            "key": "shop.item.com.smallgiantgames.empires.hero_limit_break_2_blue_1",
+            "text": "リミットブレイク2 - ブルー"
+          },
+          {
+            "key": "shop.item.com.smallgiantgames.empires.hero_limit_break_2_green_1",
+            "text": "リミットブレイク2 - グリーン"
+          },
+          {
+            "key": "shop.item.com.smallgiantgames.empires.hero_limit_break_2_purple_1",
+            "text": "リミットブレイク2 - ブルー"
+          },
+          {
+            "key": "shop.item.com.smallgiantgames.empires.hero_limit_break_2_red_1",
+            "text": "リミットブレイク2 - レッド"
+          },
+          {
+            "key": "shop.item.com.smallgiantgames.empires.hero_limit_break_2_yellow_1",
+            "text": "リミットブレイク2 - イエロー"
+          },
+          {
+            "key": "shop.offers.title.hero_limit_break_1_blue_1",
+            "text": "リミットブレイク1 - ブルー"
+          },
+          {
+            "key": "shop.offers.title.hero_limit_break_1_green_1",
+            "text": "リミットブレイク1 - グリーン"
+          },
+          {
+            "key": "shop.offers.title.hero_limit_break_1_purple_1",
+            "text": "リミットブレイク1 - ブルー"
+          },
+          {
+            "key": "shop.offers.title.hero_limit_break_1_red_1",
+            "text": "リミットブレイク1 - レッド"
+          },
+          {
+            "key": "shop.offers.title.hero_limit_break_1_yellow_1",
+            "text": "リミットブレイク1 - イエロー"
+          },
+          {
+            "key": "shop.offers.title.hero_limit_break_2_blue_1",
+            "text": "リミットブレイク2 - ブルー"
+          },
+          {
+            "key": "shop.offers.title.hero_limit_break_2_green_1",
+            "text": "リミットブレイク2 - グリーン"
+          },
+          {
+            "key": "shop.offers.title.hero_limit_break_2_purple_1",
+            "text": "リミットブレイク2 - ブルー"
+          },
+          {
+            "key": "shop.offers.title.hero_limit_break_2_red_1",
+            "text": "リミットブレイク2 - レッド"
+          },
+          {
+            "key": "shop.offers.title.hero_limit_break_2_yellow_1",
+            "text": "リミットブレイク2 - イエロー"
+          },
+          {
+            "key": "specials.v2.statuseffect.major.constantmanasteal.all.enemies.while.single.allies.familiaralive.cursed_sigil_parasite_costume",
+            "text": "術者が、すべての敵のマナの{CURRENTMANASTEAL}%を奪う。この効果はターゲットが呪いのシジルのフィエンドを保有する限り続く。この効果は浄化できないが術者が倒されると解除される。"
+          },
+          {
+            "key": "statuseffects.description.constantmanasteal.while.single.allies.familiaralive.cursed_sigil_parasite_costume",
+            "text": "付与されたマナの[#!]{CURRENTMANASTEAL}%[#]が奪われる。この効果は、このキャラクターが[#!]呪いのシジルのフィエンド[#]を所有する限り持続する。"
           }
         ]
       },
@@ -93,7 +793,107 @@
           },
           {
             "key": "specials.v2.statuseffect.minor.receiveddamagemodifier.single.enemies.chain_strike",
-            "text": "Alla mål som träffas tar {DAMAGEMODIFIER} % mer skada i {TURNS} rundor"
+            "text": "Alla mål som träffas tar {DAMAGEMODIFIER} % mer skada i {TURNS} rundor."
+          },
+          {
+            "key": "items.description.lure_bonus_untoldtales2",
+            "text": "Det här betet aktiveras automatiskt i nästa Dvärgrikedomar-evenemang."
+          },
+          {
+            "key": "items.availability.source.reward.tales2_aftermath_rare_purple",
+            "text": "Sällsynta fiender från Flammors och frosts skatter i evenemanget Dvärgrikedomar"
+          },
+          {
+            "key": "familiar.statuseffect.major.manaovertime.small.single.allies.enchanted_sigil_minion_costume.summon",
+            "text": "När den förtrollade sigillundersåten åkallas ger den en liten mängd mana till sin ägare så länge ägaren har förtrollade sigillundersåtar. Effekten kan inte avbrytas."
+          },
+          {
+            "key": "shop.item.com.smallgiantgames.empires.hero_limit_break_1_blue_1",
+            "text": "Gränsbrytning 1 – blå"
+          },
+          {
+            "key": "shop.item.com.smallgiantgames.empires.hero_limit_break_1_green_1",
+            "text": "Gränsbrytning 1 – grön"
+          },
+          {
+            "key": "shop.item.com.smallgiantgames.empires.hero_limit_break_1_purple_1",
+            "text": "Gränsbrytning 1 – lila"
+          },
+          {
+            "key": "shop.item.com.smallgiantgames.empires.hero_limit_break_1_red_1",
+            "text": "Gränsbrytning 1 – röd"
+          },
+          {
+            "key": "shop.item.com.smallgiantgames.empires.hero_limit_break_1_yellow_1",
+            "text": "Gränsbrytning 1 – gul"
+          },
+          {
+            "key": "shop.item.com.smallgiantgames.empires.hero_limit_break_2_blue_1",
+            "text": "Gränsbrytning 2 – blå"
+          },
+          {
+            "key": "shop.item.com.smallgiantgames.empires.hero_limit_break_2_green_1",
+            "text": "Gränsbrytning 2 – grön"
+          },
+          {
+            "key": "shop.item.com.smallgiantgames.empires.hero_limit_break_2_purple_1",
+            "text": "Gränsbrytning 2 – lila"
+          },
+          {
+            "key": "shop.item.com.smallgiantgames.empires.hero_limit_break_2_red_1",
+            "text": "Gränsbrytning 2 – röd"
+          },
+          {
+            "key": "shop.item.com.smallgiantgames.empires.hero_limit_break_2_yellow_1",
+            "text": "Gränsbrytning 2 – gul"
+          },
+          {
+            "key": "shop.offers.title.hero_limit_break_1_blue_1",
+            "text": "Gränsbrytning 1 – blå"
+          },
+          {
+            "key": "shop.offers.title.hero_limit_break_1_green_1",
+            "text": "Gränsbrytning 1 – grön"
+          },
+          {
+            "key": "shop.offers.title.hero_limit_break_1_purple_1",
+            "text": "Gränsbrytning 1 – lila"
+          },
+          {
+            "key": "shop.offers.title.hero_limit_break_1_red_1",
+            "text": "Gränsbrytning 1 – röd"
+          },
+          {
+            "key": "shop.offers.title.hero_limit_break_1_yellow_1",
+            "text": "Gränsbrytning 1 – gul"
+          },
+          {
+            "key": "shop.offers.title.hero_limit_break_2_blue_1",
+            "text": "Gränsbrytning 2 – blå"
+          },
+          {
+            "key": "shop.offers.title.hero_limit_break_2_green_1",
+            "text": "Gränsbrytning 2 – grön"
+          },
+          {
+            "key": "shop.offers.title.hero_limit_break_2_purple_1",
+            "text": "Gränsbrytning 2 – lila"
+          },
+          {
+            "key": "shop.offers.title.hero_limit_break_2_red_1",
+            "text": "Gränsbrytning 2 – röd"
+          },
+          {
+            "key": "shop.offers.title.hero_limit_break_2_yellow_1",
+            "text": "Gränsbrytning 2 – gul"
+          },
+          {
+            "key": "specials.v2.statuseffect.major.constantmanasteal.all.enemies.while.single.allies.familiaralive.cursed_sigil_parasite_costume",
+            "text": "Användaren stjäl {CURRENTMANASTEAL} % av den skapade manan från alla fiender så länge som målen har förhäxade sigillodjur. Effekten kan inte renas, men den tas bort när användaren besegras."
+          },
+          {
+            "key": "statuseffects.description.constantmanasteal.while.single.allies.familiaralive.cursed_sigil_parasite_costume",
+            "text": "[#!]{CURRENTMANASTEAL} %[#] av erhållen mana stjäls. (Aktivt så länge den här karaktären har ett [#!]förhäxat sigillodjur[#].)"
           }
         ]
       },
@@ -106,6 +906,106 @@
           {
             "key": "specials.v2.statuseffect.minor.receiveddamagemodifier.single.enemies.chain_strike",
             "text": "İsabet alan tüm hedefler {TURNS} tur boyunca %{DAMAGEMODIFIER} artırılmış hasar alır."
+          },
+          {
+            "key": "items.description.lure_bonus_untoldtales2",
+            "text": "Bu yem, sonraki Cüce Servetleri etkinliğinde otomatik olarak etkinleştirilir."
+          },
+          {
+            "key": "items.availability.source.reward.tales2_aftermath_rare_purple",
+            "text": "Cüce Servetleri etkinliği sırasında Alev ve Ayaz Hazineleri'ndeki nadir düşmanlar"
+          },
+          {
+            "key": "familiar.statuseffect.major.manaovertime.small.single.allies.enchanted_sigil_minion_costume.summon",
+            "text": "Büyülü Mühür Hizmetkarı çağrıldığında sahibi Büyülü Mühür Hizmetkarına sahip olduğu sürece sahibine küçük miktarda mana verir. Bu efekt bozulamaz."
+          },
+          {
+            "key": "shop.item.com.smallgiantgames.empires.hero_limit_break_1_blue_1",
+            "text": "Sınır Aşımı 1 - Mavi"
+          },
+          {
+            "key": "shop.item.com.smallgiantgames.empires.hero_limit_break_1_green_1",
+            "text": "Sınır Aşımı 1 - Yeşil"
+          },
+          {
+            "key": "shop.item.com.smallgiantgames.empires.hero_limit_break_1_purple_1",
+            "text": "Sınır Aşımı 1 - Mor"
+          },
+          {
+            "key": "shop.item.com.smallgiantgames.empires.hero_limit_break_1_red_1",
+            "text": "Sınır Aşımı 1 - Kırmızı"
+          },
+          {
+            "key": "shop.item.com.smallgiantgames.empires.hero_limit_break_1_yellow_1",
+            "text": "Sınır Aşımı 1 - Sarı"
+          },
+          {
+            "key": "shop.item.com.smallgiantgames.empires.hero_limit_break_2_blue_1",
+            "text": "Sınır Aşımı 2 - Mavi"
+          },
+          {
+            "key": "shop.item.com.smallgiantgames.empires.hero_limit_break_2_green_1",
+            "text": "Sınır Aşımı 2 - Yeşil"
+          },
+          {
+            "key": "shop.item.com.smallgiantgames.empires.hero_limit_break_2_purple_1",
+            "text": "Sınır Aşımı 2 - Mor"
+          },
+          {
+            "key": "shop.item.com.smallgiantgames.empires.hero_limit_break_2_red_1",
+            "text": "Sınır Aşımı 2 - Kırmızı"
+          },
+          {
+            "key": "shop.item.com.smallgiantgames.empires.hero_limit_break_2_yellow_1",
+            "text": "Sınır Aşımı 2 - Sarı"
+          },
+          {
+            "key": "shop.offers.title.hero_limit_break_1_blue_1",
+            "text": "Sınır Aşımı 1 - Mavi"
+          },
+          {
+            "key": "shop.offers.title.hero_limit_break_1_green_1",
+            "text": "Sınır Aşımı 1 - Yeşil"
+          },
+          {
+            "key": "shop.offers.title.hero_limit_break_1_purple_1",
+            "text": "Sınır Aşımı 1 - Mor"
+          },
+          {
+            "key": "shop.offers.title.hero_limit_break_1_red_1",
+            "text": "Sınır Aşımı 1 - Kırmızı"
+          },
+          {
+            "key": "shop.offers.title.hero_limit_break_1_yellow_1",
+            "text": "Sınır Aşımı 1 - Sarı"
+          },
+          {
+            "key": "shop.offers.title.hero_limit_break_2_blue_1",
+            "text": "Sınır Aşımı 2 - Mavi"
+          },
+          {
+            "key": "shop.offers.title.hero_limit_break_2_green_1",
+            "text": "Sınır Aşımı 2 - Yeşil"
+          },
+          {
+            "key": "shop.offers.title.hero_limit_break_2_purple_1",
+            "text": "Sınır Aşımı 2 - Mor"
+          },
+          {
+            "key": "shop.offers.title.hero_limit_break_2_red_1",
+            "text": "Sınır Aşımı 2 - Kırmızı"
+          },
+          {
+            "key": "shop.offers.title.hero_limit_break_2_yellow_1",
+            "text": "Sınır Aşımı 2 - Sarı"
+          },
+          {
+            "key": "specials.v2.statuseffect.major.constantmanasteal.all.enemies.while.single.allies.familiaralive.cursed_sigil_parasite_costume",
+            "text": "Eylemci, tüm düşmanlardan üretilen mananın %{CURRENTMANASTEAL} kadarını çalar. Efekt, hedefin Lanetli Mühür Canavarları olduğu sürece devam eder. Bu efekt arındırılamaz ama eylemci yenilirse kaldırılır."
+          },
+          {
+            "key": "statuseffects.description.constantmanasteal.while.single.allies.familiaralive.cursed_sigil_parasite_costume",
+            "text": "Alınan mananın [#!]%{CURRENTMANASTEAL}[#] kadarı çalındı. (Karakter [#!]Lanetli Mühür Canavarına[#] sahip olduğu sürece aktiftir)"
           }
         ]
       },
@@ -122,6 +1022,106 @@
           {
             "key": "herocard.passive_skill.description.transformstatuseffectonspecialcast.minorbuff.enemies.all.transform_attackmodifier_into_attackmodifier.transform_defensemodifier_into_defensemodifier.transform_managenerationmodifier_into_managenerationmodifier",
             "text": "Each time this character casts their Special Skill, all dispellable buffs affecting attack, defense and mana generation on all enemies are transformed into matching undispellable status ailments.\n\n[#!]Transformed effects: [#]\n[*]Attack buffs are transformed into {STATUSEFFECT1ATTACK}% attack status ailments for {STATUSEFFECT1TURNS} turns.\n[*]Defense buffs are transformed into {STATUSEFFECT2DEFENSE}% defense status ailments for {STATUSEFFECT2TURNS} turns.\n[*]Mana generation buffs are transformed into {STATUSEFFECT3MANAREGEN}% mana generation status ailments for {STATUSEFFECT3TURNS} turns."
+          },
+          {
+            "key": "items.description.lure_bonus_untoldtales2",
+            "text": "This lure will be automatically activated at the next Dwarven Riches event."
+          },
+          {
+            "key": "items.availability.source.reward.tales2_aftermath_rare_purple",
+            "text": "Treasures of Flame and Frost rare enemies during the Dwarven Riches event"
+          },
+          {
+            "key": "familiar.statuseffect.major.manaovertime.small.single.allies.enchanted_sigil_minion_costume.summon",
+            "text": "When summoned, the Enchanted Sigil Minion gives small amount of mana for its owner for as long as the owner has Enchanted Sigil Minions. This effect can't be dispelled."
+          },
+          {
+            "key": "shop.item.com.smallgiantgames.empires.hero_limit_break_1_blue_1",
+            "text": "Limit Break 1 - Blue"
+          },
+          {
+            "key": "shop.item.com.smallgiantgames.empires.hero_limit_break_1_green_1",
+            "text": "Limit Break 1 - Green"
+          },
+          {
+            "key": "shop.item.com.smallgiantgames.empires.hero_limit_break_1_purple_1",
+            "text": "Limit Break 1 - Purple"
+          },
+          {
+            "key": "shop.item.com.smallgiantgames.empires.hero_limit_break_1_red_1",
+            "text": "Limit Break 1 - Red"
+          },
+          {
+            "key": "shop.item.com.smallgiantgames.empires.hero_limit_break_1_yellow_1",
+            "text": "Limit Break 1 - Yellow"
+          },
+          {
+            "key": "shop.item.com.smallgiantgames.empires.hero_limit_break_2_blue_1",
+            "text": "Limit Break 2 - Blue"
+          },
+          {
+            "key": "shop.item.com.smallgiantgames.empires.hero_limit_break_2_green_1",
+            "text": "Limit Break 2 - Green"
+          },
+          {
+            "key": "shop.item.com.smallgiantgames.empires.hero_limit_break_2_purple_1",
+            "text": "Limit Break 2 - Purple"
+          },
+          {
+            "key": "shop.item.com.smallgiantgames.empires.hero_limit_break_2_red_1",
+            "text": "Limit Break 2 - Red"
+          },
+          {
+            "key": "shop.item.com.smallgiantgames.empires.hero_limit_break_2_yellow_1",
+            "text": "Limit Break 2 - Yellow"
+          },
+          {
+            "key": "shop.offers.title.hero_limit_break_1_blue_1",
+            "text": "Limit Break 1 - Blue"
+          },
+          {
+            "key": "shop.offers.title.hero_limit_break_1_green_1",
+            "text": "Limit Break 1 - Green"
+          },
+          {
+            "key": "shop.offers.title.hero_limit_break_1_purple_1",
+            "text": "Limit Break 1 - Purple"
+          },
+          {
+            "key": "shop.offers.title.hero_limit_break_1_red_1",
+            "text": "Limit Break 1 - Red"
+          },
+          {
+            "key": "shop.offers.title.hero_limit_break_1_yellow_1",
+            "text": "Limit Break 1 - Yellow"
+          },
+          {
+            "key": "shop.offers.title.hero_limit_break_2_blue_1",
+            "text": "Limit Break 2 - Blue"
+          },
+          {
+            "key": "shop.offers.title.hero_limit_break_2_green_1",
+            "text": "Limit Break 2 - Green"
+          },
+          {
+            "key": "shop.offers.title.hero_limit_break_2_purple_1",
+            "text": "Limit Break 2 - Purple"
+          },
+          {
+            "key": "shop.offers.title.hero_limit_break_2_red_1",
+            "text": "Limit Break 2 - Red"
+          },
+          {
+            "key": "shop.offers.title.hero_limit_break_2_yellow_1",
+            "text": "Limit Break 2 - Yellow"
+          },
+          {
+            "key": "specials.v2.statuseffect.major.constantmanasteal.all.enemies.while.single.allies.familiaralive.cursed_sigil_parasite_costume",
+            "text": "The caster steals {CURRENTMANASTEAL}% of generated mana from all enemies. The effect lasts as long as the target has Cursed Sigil Fiends. This effect can't be cleansed, but it gets removed if the caster is defeated."
+          },
+          {
+            "key": "statuseffects.description.constantmanasteal.while.single.allies.familiaralive.cursed_sigil_parasite_costume",
+            "text": "[#!]{CURRENTMANASTEAL}%[#] of received mana is stolen. (Active as long as this character has a [#!]Cursed Sigil Fiend[#])"
           }
         ]
       },
@@ -133,7 +1133,107 @@
           },
           {
             "key": "specials.v2.statuseffect.minor.receiveddamagemodifier.single.enemies.chain_strike",
-            "text": "جميع الأهداف المصابة تحصل على زيادة في الضرر بنسبة {DAMAGEMODIFIER}% لمدة {TURNS} من الجولات"
+            "text": "تحصل جميع الأهداف المصابة على زيادة في الضرر بنسبة {DAMAGEMODIFIER}% لمدة {TURNS} من الجولات."
+          },
+          {
+            "key": "items.description.lure_bonus_untoldtales2",
+            "text": "سيتم تفعيل هذا الاستدراج تلقائيًّا في حدث ثروات الأقزام التالي."
+          },
+          {
+            "key": "items.availability.source.reward.tales2_aftermath_rare_purple",
+            "text": "الأعداء النادرون في فعالية ثروات الأقزام ضمن كنوز اللهب والصقيع"
+          },
+          {
+            "key": "familiar.statuseffect.major.manaovertime.small.single.allies.enchanted_sigil_minion_costume.summon",
+            "text": "عند الاستدعاء، يمنح سيغيل المسحور مالكه مقدارًا صغيرًا من القوة طوال المدة التي يمتلك فيها تابعي سيغيل المسحور. لا يمكن تبديد هذا التأثير."
+          },
+          {
+            "key": "shop.item.com.smallgiantgames.empires.hero_limit_break_1_blue_1",
+            "text": "اختراق الحد الأقصى 1 - أزرق"
+          },
+          {
+            "key": "shop.item.com.smallgiantgames.empires.hero_limit_break_1_green_1",
+            "text": "اختراق الحد الأقصى 1 - أخضر"
+          },
+          {
+            "key": "shop.item.com.smallgiantgames.empires.hero_limit_break_1_purple_1",
+            "text": "اختراق الحد الأقصى 1 - بنفسجي"
+          },
+          {
+            "key": "shop.item.com.smallgiantgames.empires.hero_limit_break_1_red_1",
+            "text": "اختراق الحد الأقصى 1 - أحمر"
+          },
+          {
+            "key": "shop.item.com.smallgiantgames.empires.hero_limit_break_1_yellow_1",
+            "text": "اختراق الحد الأقصى 1 - أصفر"
+          },
+          {
+            "key": "shop.item.com.smallgiantgames.empires.hero_limit_break_2_blue_1",
+            "text": "اختراق الحد الأقصى 2 - أزرق"
+          },
+          {
+            "key": "shop.item.com.smallgiantgames.empires.hero_limit_break_2_green_1",
+            "text": "اختراق الحد الأقصى 2 - أخضر"
+          },
+          {
+            "key": "shop.item.com.smallgiantgames.empires.hero_limit_break_2_purple_1",
+            "text": "اختراق الحد الأقصى 2 - بنفسجي"
+          },
+          {
+            "key": "shop.item.com.smallgiantgames.empires.hero_limit_break_2_red_1",
+            "text": "اختراق الحد الأقصى 2 - أحمر"
+          },
+          {
+            "key": "shop.item.com.smallgiantgames.empires.hero_limit_break_2_yellow_1",
+            "text": "اختراق الحد الأقصى 2 - أصفر"
+          },
+          {
+            "key": "shop.offers.title.hero_limit_break_1_blue_1",
+            "text": "اختراق الحد الأقصى 1 - أزرق"
+          },
+          {
+            "key": "shop.offers.title.hero_limit_break_1_green_1",
+            "text": "اختراق الحد الأقصى 1 - أخضر"
+          },
+          {
+            "key": "shop.offers.title.hero_limit_break_1_purple_1",
+            "text": "اختراق الحد الأقصى 1 - بنفسجي"
+          },
+          {
+            "key": "shop.offers.title.hero_limit_break_1_red_1",
+            "text": "اختراق الحد الأقصى 1 - أحمر"
+          },
+          {
+            "key": "shop.offers.title.hero_limit_break_1_yellow_1",
+            "text": "اختراق الحد الأقصى 1 - أصفر"
+          },
+          {
+            "key": "shop.offers.title.hero_limit_break_2_blue_1",
+            "text": "اختراق الحد الأقصى 2 - أزرق"
+          },
+          {
+            "key": "shop.offers.title.hero_limit_break_2_green_1",
+            "text": "اختراق الحد الأقصى 2 - أخضر"
+          },
+          {
+            "key": "shop.offers.title.hero_limit_break_2_purple_1",
+            "text": "اختراق الحد الأقصى 2 - بنفسجي"
+          },
+          {
+            "key": "shop.offers.title.hero_limit_break_2_red_1",
+            "text": "اختراق الحد الأقصى 2 - أحمر"
+          },
+          {
+            "key": "shop.offers.title.hero_limit_break_2_yellow_1",
+            "text": "اختراق الحد الأقصى 2 - أصفر"
+          },
+          {
+            "key": "specials.v2.statuseffect.major.constantmanasteal.all.enemies.while.single.allies.familiaralive.cursed_sigil_parasite_costume",
+            "text": "يسرق الرامي {CURRENTMANASTEAL}% من القوة التي يولِّدها كل الأعداء. يستمر هذا التأثير ما دام لدى الهدف أشرار سيغيل الملعونون. لا يمكن التطهر من ذلك التأثير، لكنه يُزال إذا هُزم الرامي."
+          },
+          {
+            "key": "statuseffects.description.constantmanasteal.while.single.allies.familiaralive.cursed_sigil_parasite_costume",
+            "text": "تتم سرقة [#!]{CURRENTMANASTEAL}%[#] من القوة المتلقاة. (يظل التأثير مفعلًا ما دامت هذه الشخصية لديها [#!]شرير سيغيل ملعونًا[#])"
           }
         ]
       },
@@ -146,6 +1246,106 @@
           {
             "key": "specials.v2.statuseffect.minor.receiveddamagemodifier.single.enemies.chain_strike",
             "text": "Toutes les cibles touchées subissent {DAMAGEMODIFIER} % de dégâts supplémentaires pendant {TURNS} tours."
+          },
+          {
+            "key": "items.description.lure_bonus_untoldtales2",
+            "text": "Cet appât s'activera automatiquement lors du prochain événement « Richesses des nains »."
+          },
+          {
+            "key": "items.availability.source.reward.tales2_aftermath_rare_purple",
+            "text": "Ennemis rares des trésors des flammes et du givre pendant l'événement des richesses des nains."
+          },
+          {
+            "key": "familiar.statuseffect.major.manaovertime.small.single.allies.enchanted_sigil_minion_costume.summon",
+            "text": "Lorsqu'il est invoqué, le sbire sceau enchanté octroie une petite quantité de mana à son propriétaire tant qu'il est actif. Cet effet ne peut pas être dissipé."
+          },
+          {
+            "key": "shop.item.com.smallgiantgames.empires.hero_limit_break_1_blue_1",
+            "text": "Dépassement 1 – Bleu"
+          },
+          {
+            "key": "shop.item.com.smallgiantgames.empires.hero_limit_break_1_green_1",
+            "text": "Dépassement 1 – Vert"
+          },
+          {
+            "key": "shop.item.com.smallgiantgames.empires.hero_limit_break_1_purple_1",
+            "text": "Dépassement 1 – Violet"
+          },
+          {
+            "key": "shop.item.com.smallgiantgames.empires.hero_limit_break_1_red_1",
+            "text": "Dépassement 1 – Rouge"
+          },
+          {
+            "key": "shop.item.com.smallgiantgames.empires.hero_limit_break_1_yellow_1",
+            "text": "Dépassement 1 – Jaune"
+          },
+          {
+            "key": "shop.item.com.smallgiantgames.empires.hero_limit_break_2_blue_1",
+            "text": "Dépassement 2 – Bleu"
+          },
+          {
+            "key": "shop.item.com.smallgiantgames.empires.hero_limit_break_2_green_1",
+            "text": "Dépassement 2 – Vert"
+          },
+          {
+            "key": "shop.item.com.smallgiantgames.empires.hero_limit_break_2_purple_1",
+            "text": "Dépassement 2 – Violet"
+          },
+          {
+            "key": "shop.item.com.smallgiantgames.empires.hero_limit_break_2_red_1",
+            "text": "Dépassement 2 – Rouge"
+          },
+          {
+            "key": "shop.item.com.smallgiantgames.empires.hero_limit_break_2_yellow_1",
+            "text": "Dépassement 2 – Jaune"
+          },
+          {
+            "key": "shop.offers.title.hero_limit_break_1_blue_1",
+            "text": "Dépassement 1 – Bleu"
+          },
+          {
+            "key": "shop.offers.title.hero_limit_break_1_green_1",
+            "text": "Dépassement 1 – Vert"
+          },
+          {
+            "key": "shop.offers.title.hero_limit_break_1_purple_1",
+            "text": "Dépassement 1 – Violet"
+          },
+          {
+            "key": "shop.offers.title.hero_limit_break_1_red_1",
+            "text": "Dépassement 1 – Rouge"
+          },
+          {
+            "key": "shop.offers.title.hero_limit_break_1_yellow_1",
+            "text": "Dépassement 1 – Jaune"
+          },
+          {
+            "key": "shop.offers.title.hero_limit_break_2_blue_1",
+            "text": "Dépassement 2 – Bleu"
+          },
+          {
+            "key": "shop.offers.title.hero_limit_break_2_green_1",
+            "text": "Dépassement 2 – Vert"
+          },
+          {
+            "key": "shop.offers.title.hero_limit_break_2_purple_1",
+            "text": "Dépassement 2 – Violet"
+          },
+          {
+            "key": "shop.offers.title.hero_limit_break_2_red_1",
+            "text": "Dépassement 2 – Rouge"
+          },
+          {
+            "key": "shop.offers.title.hero_limit_break_2_yellow_1",
+            "text": "Dépassement 2 – Jaune"
+          },
+          {
+            "key": "specials.v2.statuseffect.major.constantmanasteal.all.enemies.while.single.allies.familiaralive.cursed_sigil_parasite_costume",
+            "text": "Le lanceur vole {CURRENTMANASTEAL} % du mana généré par tous les ennemis. Cet effet dure tant que la cible a des démons sceaux maudits et il ne peut pas être purifié, mais il disparaît si le lanceur est vaincu."
+          },
+          {
+            "key": "statuseffects.description.constantmanasteal.while.single.allies.familiaralive.cursed_sigil_parasite_costume",
+            "text": "[#!]{CURRENTMANASTEAL} %[#] du mana reçu est volé. (Actif tant que ce personnage a un [#!]démon sceau maudit[#])"
           }
         ]
       },
@@ -158,6 +1358,106 @@
           {
             "key": "specials.v2.statuseffect.minor.receiveddamagemodifier.single.enemies.chain_strike",
             "text": "Todos os alvos recebem {DAMAGEMODIFIER}% mais dano por {TURNS} turnos."
+          },
+          {
+            "key": "items.description.lure_bonus_untoldtales2",
+            "text": "Esta isca será ativada automaticamente no próximo evento Tesouros dos Anões."
+          },
+          {
+            "key": "items.availability.source.reward.tales2_aftermath_rare_purple",
+            "text": "Inimigos raros de Tesouros de Chama e Neve durante o evento Tesouros dos Anões"
+          },
+          {
+            "key": "familiar.statuseffect.major.manaovertime.small.single.allies.enchanted_sigil_minion_costume.summon",
+            "text": "Quando convocado, o ajudante Selo Encantado dá um pouco de mana ao dono. O efeito se mantém enquanto o dono tem Selos Encantados e não pode ser dissipado."
+          },
+          {
+            "key": "shop.item.com.smallgiantgames.empires.hero_limit_break_1_blue_1",
+            "text": "Quebra de limite 1 - Azul"
+          },
+          {
+            "key": "shop.item.com.smallgiantgames.empires.hero_limit_break_1_green_1",
+            "text": "Quebra de limite 1 - Verde"
+          },
+          {
+            "key": "shop.item.com.smallgiantgames.empires.hero_limit_break_1_purple_1",
+            "text": "Quebra de limite 1 - Roxo"
+          },
+          {
+            "key": "shop.item.com.smallgiantgames.empires.hero_limit_break_1_red_1",
+            "text": "Quebra de limite 1 - Vermelho"
+          },
+          {
+            "key": "shop.item.com.smallgiantgames.empires.hero_limit_break_1_yellow_1",
+            "text": "Quebra de limite 1 - Amarelo"
+          },
+          {
+            "key": "shop.item.com.smallgiantgames.empires.hero_limit_break_2_blue_1",
+            "text": "Quebra de limite 2 - Azul"
+          },
+          {
+            "key": "shop.item.com.smallgiantgames.empires.hero_limit_break_2_green_1",
+            "text": "Quebra de limite 2 - Verde"
+          },
+          {
+            "key": "shop.item.com.smallgiantgames.empires.hero_limit_break_2_purple_1",
+            "text": "Quebra de limite 2 - Roxo"
+          },
+          {
+            "key": "shop.item.com.smallgiantgames.empires.hero_limit_break_2_red_1",
+            "text": "Quebra de limite 2 - Vermelho"
+          },
+          {
+            "key": "shop.item.com.smallgiantgames.empires.hero_limit_break_2_yellow_1",
+            "text": "Quebra de limite 2 - Amarelo"
+          },
+          {
+            "key": "shop.offers.title.hero_limit_break_1_blue_1",
+            "text": "Quebra de limite 1 - Azul"
+          },
+          {
+            "key": "shop.offers.title.hero_limit_break_1_green_1",
+            "text": "Quebra de limite 1 - Verde"
+          },
+          {
+            "key": "shop.offers.title.hero_limit_break_1_purple_1",
+            "text": "Quebra de limite 1 - Roxo"
+          },
+          {
+            "key": "shop.offers.title.hero_limit_break_1_red_1",
+            "text": "Quebra de limite 1 - Vermelho"
+          },
+          {
+            "key": "shop.offers.title.hero_limit_break_1_yellow_1",
+            "text": "Quebra de limite 1 - Amarelo"
+          },
+          {
+            "key": "shop.offers.title.hero_limit_break_2_blue_1",
+            "text": "Quebra de limite 2 - Azul"
+          },
+          {
+            "key": "shop.offers.title.hero_limit_break_2_green_1",
+            "text": "Quebra de limite 2 - Verde"
+          },
+          {
+            "key": "shop.offers.title.hero_limit_break_2_purple_1",
+            "text": "Quebra de limite 2 - Roxo"
+          },
+          {
+            "key": "shop.offers.title.hero_limit_break_2_red_1",
+            "text": "Quebra de limite 2 - Vermelho"
+          },
+          {
+            "key": "shop.offers.title.hero_limit_break_2_yellow_1",
+            "text": "Quebra de limite 2 - Amarelo"
+          },
+          {
+            "key": "specials.v2.statuseffect.major.constantmanasteal.all.enemies.while.single.allies.familiaralive.cursed_sigil_parasite_costume",
+            "text": "O invocador rouba {CURRENTMANASTEAL}% de mana gerado de todos os inimigos. O efeito se mantém enquanto o alvo tem demônios Selo Maldito e não pode ser expurgado, mas é removido quando o invocador é derrotado."
+          },
+          {
+            "key": "statuseffects.description.constantmanasteal.while.single.allies.familiaralive.cursed_sigil_parasite_costume",
+            "text": "[#!]{CURRENTMANASTEAL}%[#] do mana recebido é roubado. (Ativo enquanto este personagem tem um [#!]demônio Selo Maldito[#])"
           }
         ]
       },
@@ -169,7 +1469,107 @@
           },
           {
             "key": "specials.v2.statuseffect.minor.receiveddamagemodifier.single.enemies.chain_strike",
-            "text": "Semua sasaran yang terkena mengalami {DAMAGEMODIFIER}% peningkatan kerusakan selama {TURNS} giliran"
+            "text": "Semua sasaran yang terkena mengalami {DAMAGEMODIFIER}% peningkatan kerusakan selama {TURNS} giliran."
+          },
+          {
+            "key": "items.description.lure_bonus_untoldtales2",
+            "text": "Umpan ini akan diaktifkan secara otomatis pada acara Kekayaan Kurcaci berikutnya."
+          },
+          {
+            "key": "items.availability.source.reward.tales2_aftermath_rare_purple",
+            "text": "Musuh langka Harta Karun Api dan Es selama acara Kekayaan Kurcaci"
+          },
+          {
+            "key": "familiar.statuseffect.major.manaovertime.small.single.allies.enchanted_sigil_minion_costume.summon",
+            "text": "Saat dipanggil, Antek Sigil Termantrai memberi pemiliknya mana dalam jumlah kecil selama si pemilik memiliki Antek Sigil Termantrai. Efek ini tidak bisa dienyahkan."
+          },
+          {
+            "key": "shop.item.com.smallgiantgames.empires.hero_limit_break_1_blue_1",
+            "text": "Pemecah Batas 1 - Biru"
+          },
+          {
+            "key": "shop.item.com.smallgiantgames.empires.hero_limit_break_1_green_1",
+            "text": "Pemecah Batas 1 - Hijau"
+          },
+          {
+            "key": "shop.item.com.smallgiantgames.empires.hero_limit_break_1_purple_1",
+            "text": "Pemecah Batas 1 - Ungu"
+          },
+          {
+            "key": "shop.item.com.smallgiantgames.empires.hero_limit_break_1_red_1",
+            "text": "Pemecah Batas 1 - Merah"
+          },
+          {
+            "key": "shop.item.com.smallgiantgames.empires.hero_limit_break_1_yellow_1",
+            "text": "Pemecah Batas 1 - Kuning"
+          },
+          {
+            "key": "shop.item.com.smallgiantgames.empires.hero_limit_break_2_blue_1",
+            "text": "Pemecah Batas 2 - Biru"
+          },
+          {
+            "key": "shop.item.com.smallgiantgames.empires.hero_limit_break_2_green_1",
+            "text": "Pemecah Batas 2 - Hijau"
+          },
+          {
+            "key": "shop.item.com.smallgiantgames.empires.hero_limit_break_2_purple_1",
+            "text": "Pemecah Batas 2 - Ungu"
+          },
+          {
+            "key": "shop.item.com.smallgiantgames.empires.hero_limit_break_2_red_1",
+            "text": "Pemecah Batas 2 - Merah"
+          },
+          {
+            "key": "shop.item.com.smallgiantgames.empires.hero_limit_break_2_yellow_1",
+            "text": "Pemecah Batas 2 - Kuning"
+          },
+          {
+            "key": "shop.offers.title.hero_limit_break_1_blue_1",
+            "text": "Pemecah Batas 1 - Biru"
+          },
+          {
+            "key": "shop.offers.title.hero_limit_break_1_green_1",
+            "text": "Pemecah Batas 1 - Hijau"
+          },
+          {
+            "key": "shop.offers.title.hero_limit_break_1_purple_1",
+            "text": "Pemecah Batas 1 - Ungu"
+          },
+          {
+            "key": "shop.offers.title.hero_limit_break_1_red_1",
+            "text": "Pemecah Batas 1 - Merah"
+          },
+          {
+            "key": "shop.offers.title.hero_limit_break_1_yellow_1",
+            "text": "Pemecah Batas 1 - Kuning"
+          },
+          {
+            "key": "shop.offers.title.hero_limit_break_2_blue_1",
+            "text": "Pemecah Batas 2 - Biru"
+          },
+          {
+            "key": "shop.offers.title.hero_limit_break_2_green_1",
+            "text": "Pemecah Batas 2 - Hijau"
+          },
+          {
+            "key": "shop.offers.title.hero_limit_break_2_purple_1",
+            "text": "Pemecah Batas 2 - Ungu"
+          },
+          {
+            "key": "shop.offers.title.hero_limit_break_2_red_1",
+            "text": "Pemecah Batas 2 - Merah"
+          },
+          {
+            "key": "shop.offers.title.hero_limit_break_2_yellow_1",
+            "text": "Pemecah Batas 2 - Kuning"
+          },
+          {
+            "key": "specials.v2.statuseffect.major.constantmanasteal.all.enemies.while.single.allies.familiaralive.cursed_sigil_parasite_costume",
+            "text": "Perapal mencuri {CURRENTMANASTEAL}% dari mana yang dihasilkan semua musuh. Efeknya bertahan selama sasaran memiliki Iblis Sigil Termantrai. Efek ini tidak bisa dibersihkan, tetapi akan hilang jika perapalnya kalah."
+          },
+          {
+            "key": "statuseffects.description.constantmanasteal.while.single.allies.familiaralive.cursed_sigil_parasite_costume",
+            "text": "[#!]{CURRENTMANASTEAL}%[#]dari mana yang diterima dicuri. (Aktif selama karakter ini memiliiki [#!]Iblis Sigil Termantrai[#])"
           }
         ]
       },
@@ -182,6 +1582,106 @@
           {
             "key": "specials.v2.statuseffect.minor.receiveddamagemodifier.single.enemies.chain_strike",
             "text": "Kaikki osutut kohteet kärsivät {DAMAGEMODIFIER} % enemmän vauriota {TURNS} vuoron ajan."
+          },
+          {
+            "key": "items.description.lure_bonus_untoldtales2",
+            "text": "Tämä viehe aktivoituu automaattisesti seuraavassa Kääpiöiden aarteet -tapahtumassa."
+          },
+          {
+            "key": "items.availability.source.reward.tales2_aftermath_rare_purple",
+            "text": "Liekin ja hallan aarteiden harvinaiset viholliset Kääpiöiden aarteet -tapahtuman aikana"
+          },
+          {
+            "key": "familiar.statuseffect.major.manaovertime.small.single.allies.enchanted_sigil_minion_costume.summon",
+            "text": "Kun lumoussinettikäskyläinen kutsutaan, se antaa omistajalleen pienen määrän manaa niin kauan kuin omistajalla on lumoussinettikäskyläisiä. Vaikutusta ei voi häivyttää."
+          },
+          {
+            "key": "shop.item.com.smallgiantgames.empires.hero_limit_break_1_blue_1",
+            "text": "Rajannosto 1 - Sininen"
+          },
+          {
+            "key": "shop.item.com.smallgiantgames.empires.hero_limit_break_1_green_1",
+            "text": "Rajannosto 1 - Vihreä"
+          },
+          {
+            "key": "shop.item.com.smallgiantgames.empires.hero_limit_break_1_purple_1",
+            "text": "Rajannosto 1 - Purppura"
+          },
+          {
+            "key": "shop.item.com.smallgiantgames.empires.hero_limit_break_1_red_1",
+            "text": "Rajannosto 1 - Punainen"
+          },
+          {
+            "key": "shop.item.com.smallgiantgames.empires.hero_limit_break_1_yellow_1",
+            "text": "Rajannosto 1 - Keltainen"
+          },
+          {
+            "key": "shop.item.com.smallgiantgames.empires.hero_limit_break_2_blue_1",
+            "text": "Rajannosto 2 - Sininen"
+          },
+          {
+            "key": "shop.item.com.smallgiantgames.empires.hero_limit_break_2_green_1",
+            "text": "Rajannosto 2 - Vihreä"
+          },
+          {
+            "key": "shop.item.com.smallgiantgames.empires.hero_limit_break_2_purple_1",
+            "text": "Rajannosto 2 - Purppura"
+          },
+          {
+            "key": "shop.item.com.smallgiantgames.empires.hero_limit_break_2_red_1",
+            "text": "Rajannosto 2 - Punainen"
+          },
+          {
+            "key": "shop.item.com.smallgiantgames.empires.hero_limit_break_2_yellow_1",
+            "text": "Rajannosto 2 - Keltainen"
+          },
+          {
+            "key": "shop.offers.title.hero_limit_break_1_blue_1",
+            "text": "Rajannosto 1 - Sininen"
+          },
+          {
+            "key": "shop.offers.title.hero_limit_break_1_green_1",
+            "text": "Rajannosto 1 - Vihreä"
+          },
+          {
+            "key": "shop.offers.title.hero_limit_break_1_purple_1",
+            "text": "Rajannosto 1 - Purppura"
+          },
+          {
+            "key": "shop.offers.title.hero_limit_break_1_red_1",
+            "text": "Rajannosto 1 - Punainen"
+          },
+          {
+            "key": "shop.offers.title.hero_limit_break_1_yellow_1",
+            "text": "Rajannosto 1 - Keltainen"
+          },
+          {
+            "key": "shop.offers.title.hero_limit_break_2_blue_1",
+            "text": "Rajannosto 2 - Sininen"
+          },
+          {
+            "key": "shop.offers.title.hero_limit_break_2_green_1",
+            "text": "Rajannosto 2 - Vihreä"
+          },
+          {
+            "key": "shop.offers.title.hero_limit_break_2_purple_1",
+            "text": "Rajannosto 2 - Purppura"
+          },
+          {
+            "key": "shop.offers.title.hero_limit_break_2_red_1",
+            "text": "Rajannosto 2 - Punainen"
+          },
+          {
+            "key": "shop.offers.title.hero_limit_break_2_yellow_1",
+            "text": "Rajannosto 2 - Keltainen"
+          },
+          {
+            "key": "specials.v2.statuseffect.major.constantmanasteal.all.enemies.while.single.allies.familiaralive.cursed_sigil_parasite_costume",
+            "text": "Loitsija anastaa {CURRENTMANASTEAL} % kaikkien vihollisten tuottamasta manasta. Vaikutus kestää niin kauan kuin kohteella on kiroussinettiriiviöitä. Vaikutusta ei voi puhdistaa, mutta se poistuu, jos loitsija kukistuu."
+          },
+          {
+            "key": "statuseffects.description.constantmanasteal.while.single.allies.familiaralive.cursed_sigil_parasite_costume",
+            "text": "[#!]{CURRENTMANASTEAL} %[#] saadusta manasta varastetaan. (Voimassa niin kauan kuin tällä hahmolla on [#!]kiroussinettiriiviö[#])"
           }
         ]
       },
@@ -194,6 +1694,106 @@
           {
             "key": "specials.v2.statuseffect.minor.receiveddamagemodifier.single.enemies.chain_strike",
             "text": "Alle ramte mål får {DAMAGEMODIFIER} % øget skade i {TURNS} runder"
+          },
+          {
+            "key": "items.description.lure_bonus_untoldtales2",
+            "text": "Denne madding vil blive aktiveret automatisk ved den næste Dværgenes rigdomme-begivenhed."
+          },
+          {
+            "key": "items.availability.source.reward.tales2_aftermath_rare_purple",
+            "text": "Sjældne flammens og frostens skatte-fjender i løbet af Dværgenes rigdomme-begivenheden"
+          },
+          {
+            "key": "familiar.statuseffect.major.manaovertime.small.single.allies.enchanted_sigil_minion_costume.summon",
+            "text": "Når den hidkaldes, giver den fortryllede sigilhåndlanger en lille mængde mana til sin ejer, så længe ejeren har fortryllede sigilhåndlangere. Denne effekt kan ikke ophæves."
+          },
+          {
+            "key": "shop.item.com.smallgiantgames.empires.hero_limit_break_1_blue_1",
+            "text": "Grænsebrud 1 - Blå"
+          },
+          {
+            "key": "shop.item.com.smallgiantgames.empires.hero_limit_break_1_green_1",
+            "text": "Grænsebrud 1 - Grøn"
+          },
+          {
+            "key": "shop.item.com.smallgiantgames.empires.hero_limit_break_1_purple_1",
+            "text": "Grænsebrud 1 - Lilla"
+          },
+          {
+            "key": "shop.item.com.smallgiantgames.empires.hero_limit_break_1_red_1",
+            "text": "Grænsebrud 1 - Rød"
+          },
+          {
+            "key": "shop.item.com.smallgiantgames.empires.hero_limit_break_1_yellow_1",
+            "text": "Grænsebrud 1 - Gul"
+          },
+          {
+            "key": "shop.item.com.smallgiantgames.empires.hero_limit_break_2_blue_1",
+            "text": "Grænsebrud 2 - Blå"
+          },
+          {
+            "key": "shop.item.com.smallgiantgames.empires.hero_limit_break_2_green_1",
+            "text": "Grænsebrud 2 - Grøn"
+          },
+          {
+            "key": "shop.item.com.smallgiantgames.empires.hero_limit_break_2_purple_1",
+            "text": "Grænsebrud 2 - Lilla"
+          },
+          {
+            "key": "shop.item.com.smallgiantgames.empires.hero_limit_break_2_red_1",
+            "text": "Grænsebrud 2 - Rød"
+          },
+          {
+            "key": "shop.item.com.smallgiantgames.empires.hero_limit_break_2_yellow_1",
+            "text": "Grænsebrud 2 - Gul"
+          },
+          {
+            "key": "shop.offers.title.hero_limit_break_1_blue_1",
+            "text": "Grænsebrud 1 - Blå"
+          },
+          {
+            "key": "shop.offers.title.hero_limit_break_1_green_1",
+            "text": "Grænsebrud 1 - Grøn"
+          },
+          {
+            "key": "shop.offers.title.hero_limit_break_1_purple_1",
+            "text": "Grænsebrud 1 - Lilla"
+          },
+          {
+            "key": "shop.offers.title.hero_limit_break_1_red_1",
+            "text": "Grænsebrud 1 - Rød"
+          },
+          {
+            "key": "shop.offers.title.hero_limit_break_1_yellow_1",
+            "text": "Grænsebrud 1 - Gul"
+          },
+          {
+            "key": "shop.offers.title.hero_limit_break_2_blue_1",
+            "text": "Grænsebrud 2 - Blå"
+          },
+          {
+            "key": "shop.offers.title.hero_limit_break_2_green_1",
+            "text": "Grænsebrud 2 - Grøn"
+          },
+          {
+            "key": "shop.offers.title.hero_limit_break_2_purple_1",
+            "text": "Grænsebrud 2 - Lilla"
+          },
+          {
+            "key": "shop.offers.title.hero_limit_break_2_red_1",
+            "text": "Grænsebrud 2 - Rød"
+          },
+          {
+            "key": "shop.offers.title.hero_limit_break_2_yellow_1",
+            "text": "Grænsebrud 2 - Gul"
+          },
+          {
+            "key": "specials.v2.statuseffect.major.constantmanasteal.all.enemies.while.single.allies.familiaralive.cursed_sigil_parasite_costume",
+            "text": "Kasteren stjæler {CURRENTMANASTEAL} % af den genererede mana fra alle fjender. Effekten varer, så længe målet har forbandede sigildjævle. Denne effekt kan ikke udrenses, men den bliver fjernet, hvis kasteren bliver besejret."
+          },
+          {
+            "key": "statuseffects.description.constantmanasteal.while.single.allies.familiaralive.cursed_sigil_parasite_costume",
+            "text": "[#!]{CURRENTMANASTEAL} %[#] af den modtagne mana stjæles. (Aktiv, så længe figuren har en [#!]forbandede sigildjævel[#])"
           }
         ]
       },
@@ -206,6 +1806,106 @@
           {
             "key": "specials.v2.statuseffect.minor.receiveddamagemodifier.single.enemies.chain_strike",
             "text": "Todos los objetivos golpeados reciben un {DAMAGEMODIFIER} % más de daño durante {TURNS} turnos."
+          },
+          {
+            "key": "items.description.lure_bonus_untoldtales2",
+            "text": "Este señuelo se activará automáticamente en el próximo evento de las riquezas de los enanos."
+          },
+          {
+            "key": "items.availability.source.reward.tales2_aftermath_rare_purple",
+            "text": "Enemigos raros de Tesoros de hielo y fuego durante el evento de riquezas de los enanos"
+          },
+          {
+            "key": "familiar.statuseffect.major.manaovertime.small.single.allies.enchanted_sigil_minion_costume.summon",
+            "text": "Al invocarse, mientras lo tenga, el secuaz sello encantado otorga una pequeña cantidad de maná a su dueño. Este efecto no se puede descartar."
+          },
+          {
+            "key": "shop.item.com.smallgiantgames.empires.hero_limit_break_1_blue_1",
+            "text": "Rompelímites 1: Azul"
+          },
+          {
+            "key": "shop.item.com.smallgiantgames.empires.hero_limit_break_1_green_1",
+            "text": "Rompelímites 1: Verde"
+          },
+          {
+            "key": "shop.item.com.smallgiantgames.empires.hero_limit_break_1_purple_1",
+            "text": "Rompelímites 1: Morado"
+          },
+          {
+            "key": "shop.item.com.smallgiantgames.empires.hero_limit_break_1_red_1",
+            "text": "Rompelímites 1: Rojo"
+          },
+          {
+            "key": "shop.item.com.smallgiantgames.empires.hero_limit_break_1_yellow_1",
+            "text": "Rompelímites 1: Amarillo"
+          },
+          {
+            "key": "shop.item.com.smallgiantgames.empires.hero_limit_break_2_blue_1",
+            "text": "Rompelímites 2: Azul"
+          },
+          {
+            "key": "shop.item.com.smallgiantgames.empires.hero_limit_break_2_green_1",
+            "text": "Rompelímites 2: Verde"
+          },
+          {
+            "key": "shop.item.com.smallgiantgames.empires.hero_limit_break_2_purple_1",
+            "text": "Rompelímites 2: Morado"
+          },
+          {
+            "key": "shop.item.com.smallgiantgames.empires.hero_limit_break_2_red_1",
+            "text": "Rompelímites 2: Rojo"
+          },
+          {
+            "key": "shop.item.com.smallgiantgames.empires.hero_limit_break_2_yellow_1",
+            "text": "Rompelímites 2: Amarillo"
+          },
+          {
+            "key": "shop.offers.title.hero_limit_break_1_blue_1",
+            "text": "Rompelímites 1: Azul"
+          },
+          {
+            "key": "shop.offers.title.hero_limit_break_1_green_1",
+            "text": "Rompelímites 1: Verde"
+          },
+          {
+            "key": "shop.offers.title.hero_limit_break_1_purple_1",
+            "text": "Rompelímites 1: Morado"
+          },
+          {
+            "key": "shop.offers.title.hero_limit_break_1_red_1",
+            "text": "Rompelímites 1: Rojo"
+          },
+          {
+            "key": "shop.offers.title.hero_limit_break_1_yellow_1",
+            "text": "Rompelímites 1: Amarillo"
+          },
+          {
+            "key": "shop.offers.title.hero_limit_break_2_blue_1",
+            "text": "Rompelímites 2: Azul"
+          },
+          {
+            "key": "shop.offers.title.hero_limit_break_2_green_1",
+            "text": "Rompelímites 2: Verde"
+          },
+          {
+            "key": "shop.offers.title.hero_limit_break_2_purple_1",
+            "text": "Rompelímites 2: Morado"
+          },
+          {
+            "key": "shop.offers.title.hero_limit_break_2_red_1",
+            "text": "Rompelímites 2: Rojo"
+          },
+          {
+            "key": "shop.offers.title.hero_limit_break_2_yellow_1",
+            "text": "Rompelímites 2: Amarillo"
+          },
+          {
+            "key": "specials.v2.statuseffect.major.constantmanasteal.all.enemies.while.single.allies.familiaralive.cursed_sigil_parasite_costume",
+            "text": "El héroe roba un {CURRENTMANASTEAL} % del maná generado de todos los enemigos. El efecto dura mientras el objetivo tenga demonios sello maldito. Este efecto no se puede purificar, pero se elimina si el héroe cae derrotado."
+          },
+          {
+            "key": "statuseffects.description.constantmanasteal.while.single.allies.familiaralive.cursed_sigil_parasite_costume",
+            "text": "Se roba un [#!]{CURRENTMANASTEAL} %[#] del maná recibido. (Se activa siempre que el personaje tenga un [#!]demonio sello maldito[#])."
           }
         ]
       },
@@ -217,7 +1917,107 @@
           },
           {
             "key": "specials.v2.statuseffect.minor.receiveddamagemodifier.single.enemies.chain_strike",
-            "text": "Alle mål truffet får {DAMAGEMODIFIER} % økt skade i {TURNS} runder"
+            "text": "Alle mål truffet får {DAMAGEMODIFIER} % økt skade i {TURNS} runder."
+          },
+          {
+            "key": "items.description.lure_bonus_untoldtales2",
+            "text": "Denne lokkingen aktiveres automatisk ved neste Dvergskatter-hendelse."
+          },
+          {
+            "key": "items.availability.source.reward.tales2_aftermath_rare_purple",
+            "text": "Skatter av flamme og frost, sjeldne fiender under Dvergskatter-hendelsen"
+          },
+          {
+            "key": "familiar.statuseffect.major.manaovertime.small.single.allies.enchanted_sigil_minion_costume.summon",
+            "text": "Når fremkalt gir fortryllet Sigil-undersått eieren en liten mengde mana så lenge eieren har fortryllet Sigil-undersått. Denne effekten kan ikke fjernes."
+          },
+          {
+            "key": "shop.item.com.smallgiantgames.empires.hero_limit_break_1_blue_1",
+            "text": "Grensebryter 1 – blå"
+          },
+          {
+            "key": "shop.item.com.smallgiantgames.empires.hero_limit_break_1_green_1",
+            "text": "Grensebryter 1 – grønn"
+          },
+          {
+            "key": "shop.item.com.smallgiantgames.empires.hero_limit_break_1_purple_1",
+            "text": "Grensebryter 1 – lilla"
+          },
+          {
+            "key": "shop.item.com.smallgiantgames.empires.hero_limit_break_1_red_1",
+            "text": "Grensebryter 1 – rød"
+          },
+          {
+            "key": "shop.item.com.smallgiantgames.empires.hero_limit_break_1_yellow_1",
+            "text": "Grensebryter 1 – gul"
+          },
+          {
+            "key": "shop.item.com.smallgiantgames.empires.hero_limit_break_2_blue_1",
+            "text": "Grensebryter 2 – blå"
+          },
+          {
+            "key": "shop.item.com.smallgiantgames.empires.hero_limit_break_2_green_1",
+            "text": "Grensebryter 2 – grønn"
+          },
+          {
+            "key": "shop.item.com.smallgiantgames.empires.hero_limit_break_2_purple_1",
+            "text": "Grensebryter 2 – lilla"
+          },
+          {
+            "key": "shop.item.com.smallgiantgames.empires.hero_limit_break_2_red_1",
+            "text": "Grensebryter 2 – rød"
+          },
+          {
+            "key": "shop.item.com.smallgiantgames.empires.hero_limit_break_2_yellow_1",
+            "text": "Grensebryter 2 – gul"
+          },
+          {
+            "key": "shop.offers.title.hero_limit_break_1_blue_1",
+            "text": "Grensebryter 1 – blå"
+          },
+          {
+            "key": "shop.offers.title.hero_limit_break_1_green_1",
+            "text": "Grensebryter 1 – grønn"
+          },
+          {
+            "key": "shop.offers.title.hero_limit_break_1_purple_1",
+            "text": "Grensebryter 1 – lilla"
+          },
+          {
+            "key": "shop.offers.title.hero_limit_break_1_red_1",
+            "text": "Grensebryter 1 – rød"
+          },
+          {
+            "key": "shop.offers.title.hero_limit_break_1_yellow_1",
+            "text": "Grensebryter 1 – gul"
+          },
+          {
+            "key": "shop.offers.title.hero_limit_break_2_blue_1",
+            "text": "Grensebryter 2 – blå"
+          },
+          {
+            "key": "shop.offers.title.hero_limit_break_2_green_1",
+            "text": "Grensebryter 2 – grønn"
+          },
+          {
+            "key": "shop.offers.title.hero_limit_break_2_purple_1",
+            "text": "Grensebryter 2 – lilla"
+          },
+          {
+            "key": "shop.offers.title.hero_limit_break_2_red_1",
+            "text": "Grensebryter 2 – rød"
+          },
+          {
+            "key": "shop.offers.title.hero_limit_break_2_yellow_1",
+            "text": "Grensebryter 2 – gul"
+          },
+          {
+            "key": "specials.v2.statuseffect.major.constantmanasteal.all.enemies.while.single.allies.familiaralive.cursed_sigil_parasite_costume",
+            "text": "Brukeren stjeler {CURRENTMANASTEAL} % av generert mana fra alle fiender. Effekten varer så lenge målet har forbannet Sigil-djevelen. Denne effekten kan ikke renses bort, men fjernes dersom brukeren beseires."
+          },
+          {
+            "key": "statuseffects.description.constantmanasteal.while.single.allies.familiaralive.cursed_sigil_parasite_costume",
+            "text": "[#!]{CURRENTMANASTEAL} %[#] av mottatt mana stjeles. (Aktiv så lenge denne figuren har en [#!]forbannet Sigil-djevel[#])"
           }
         ]
       },
@@ -229,7 +2029,107 @@
           },
           {
             "key": "specials.v2.statuseffect.minor.receiveddamagemodifier.single.enemies.chain_strike",
-            "text": "Alle getroffen doelwitten lijden {TURNS} beurten lang {DAMAGEMODIFIER}% meer schade"
+            "text": "Alle getroffen doelwitten lijden {TURNS} beurten lang {DAMAGEMODIFIER}% meer schade."
+          },
+          {
+            "key": "items.description.lure_bonus_untoldtales2",
+            "text": "Deze verleiding wordt automatisch geactiveerd tijdens het volgende Dwergrijkdom-evenement."
+          },
+          {
+            "key": "items.availability.source.reward.tales2_aftermath_rare_purple",
+            "text": "Zeldzame vijanden van Schatten van Vorst en Vlam tijdens het evenement Dwergrijkdom"
+          },
+          {
+            "key": "familiar.statuseffect.major.manaovertime.small.single.allies.enchanted_sigil_minion_costume.summon",
+            "text": "Wanneer deze aangeroepen wordt, geeft de betoverde zegelvolgeling de eigenaar een kleine hoeveelheid mana zolang de eigenaar betoverde zegelvolgeling heeft. Dit effect kan niet ongedaan worden gemaakt."
+          },
+          {
+            "key": "shop.item.com.smallgiantgames.empires.hero_limit_break_1_blue_1",
+            "text": "Limietbreuk 1 - Blauw"
+          },
+          {
+            "key": "shop.item.com.smallgiantgames.empires.hero_limit_break_1_green_1",
+            "text": "Limietbreuk 1 - Groen"
+          },
+          {
+            "key": "shop.item.com.smallgiantgames.empires.hero_limit_break_1_purple_1",
+            "text": "Limietbreuk 1 - Paars"
+          },
+          {
+            "key": "shop.item.com.smallgiantgames.empires.hero_limit_break_1_red_1",
+            "text": "Limietbreuk 1 - Rood"
+          },
+          {
+            "key": "shop.item.com.smallgiantgames.empires.hero_limit_break_1_yellow_1",
+            "text": "Limietbreuk 1 - Geel"
+          },
+          {
+            "key": "shop.item.com.smallgiantgames.empires.hero_limit_break_2_blue_1",
+            "text": "Limietbreuk 2 - Blauw"
+          },
+          {
+            "key": "shop.item.com.smallgiantgames.empires.hero_limit_break_2_green_1",
+            "text": "Limietbreuk 2 - Groen"
+          },
+          {
+            "key": "shop.item.com.smallgiantgames.empires.hero_limit_break_2_purple_1",
+            "text": "Limietbreuk 2 - Paars"
+          },
+          {
+            "key": "shop.item.com.smallgiantgames.empires.hero_limit_break_2_red_1",
+            "text": "Limietbreuk 2 - Rood"
+          },
+          {
+            "key": "shop.item.com.smallgiantgames.empires.hero_limit_break_2_yellow_1",
+            "text": "Limietbreuk 2 - Geel"
+          },
+          {
+            "key": "shop.offers.title.hero_limit_break_1_blue_1",
+            "text": "Limietbreuk 1 - Blauw"
+          },
+          {
+            "key": "shop.offers.title.hero_limit_break_1_green_1",
+            "text": "Limietbreuk 1 - Groen"
+          },
+          {
+            "key": "shop.offers.title.hero_limit_break_1_purple_1",
+            "text": "Limietbreuk 1 - Paars"
+          },
+          {
+            "key": "shop.offers.title.hero_limit_break_1_red_1",
+            "text": "Limietbreuk 1 - Rood"
+          },
+          {
+            "key": "shop.offers.title.hero_limit_break_1_yellow_1",
+            "text": "Limietbreuk 1 - Geel"
+          },
+          {
+            "key": "shop.offers.title.hero_limit_break_2_blue_1",
+            "text": "Limietbreuk 2 - Blauw"
+          },
+          {
+            "key": "shop.offers.title.hero_limit_break_2_green_1",
+            "text": "Limietbreuk 2 - Groen"
+          },
+          {
+            "key": "shop.offers.title.hero_limit_break_2_purple_1",
+            "text": "Limietbreuk 2 - Paars"
+          },
+          {
+            "key": "shop.offers.title.hero_limit_break_2_red_1",
+            "text": "Limietbreuk 2 - Rood"
+          },
+          {
+            "key": "shop.offers.title.hero_limit_break_2_yellow_1",
+            "text": "Limietbreuk 2 - Geel"
+          },
+          {
+            "key": "specials.v2.statuseffect.major.constantmanasteal.all.enemies.while.single.allies.familiaralive.cursed_sigil_parasite_costume",
+            "text": "De spreukspreker steelt {CURRENTMANASTEAL}% ontvangen mana van alle vijanden. Het effect duurt zolang het doelwit een vervloekte zegeldemon heeft. Dit effect kan niet worden gezuiverd, maar verdwijnt als de spreukspreker wordt verslagen."
+          },
+          {
+            "key": "statuseffects.description.constantmanasteal.while.single.allies.familiaralive.cursed_sigil_parasite_costume",
+            "text": "[#!]{CURRENTMANASTEAL}%[#] van ontvangen mana wordt gestolen. (Actief zolang dit personage een [#!]vervloekte zegeldemon[#] heeft)"
           }
         ]
       },
@@ -242,10 +2142,110 @@
           {
             "key": "specials.v2.statuseffect.minor.receiveddamagemodifier.single.enemies.chain_strike",
             "text": "命中的所有目标受到的伤害增加{DAMAGEMODIFIER}%，持续{TURNS}回合。"
+          },
+          {
+            "key": "items.description.lure_bonus_untoldtales2",
+            "text": "此诱饵将在下一次矮人宝藏活动中自动激活。"
+          },
+          {
+            "key": "items.availability.source.reward.tales2_aftermath_rare_purple",
+            "text": "“矮人宝藏”活动期间的烈焰与冰霜宝藏稀有敌人"
+          },
+          {
+            "key": "familiar.statuseffect.major.manaovertime.small.single.allies.enchanted_sigil_minion_costume.summon",
+            "text": "迷幻印记小兵被召唤后，在拥有该小兵期间，该小兵会给予其所有者少量法力。此效果无法驱散。"
+          },
+          {
+            "key": "shop.item.com.smallgiantgames.empires.hero_limit_break_1_blue_1",
+            "text": "不容错过的界限突破1——蓝色"
+          },
+          {
+            "key": "shop.item.com.smallgiantgames.empires.hero_limit_break_1_green_1",
+            "text": "不容错过的界限突破1——绿色"
+          },
+          {
+            "key": "shop.item.com.smallgiantgames.empires.hero_limit_break_1_purple_1",
+            "text": "不容错过的界限突破1——紫色"
+          },
+          {
+            "key": "shop.item.com.smallgiantgames.empires.hero_limit_break_1_red_1",
+            "text": "不容错过的界限突破1——红色"
+          },
+          {
+            "key": "shop.item.com.smallgiantgames.empires.hero_limit_break_1_yellow_1",
+            "text": "不容错过的界限突破1——黄色"
+          },
+          {
+            "key": "shop.item.com.smallgiantgames.empires.hero_limit_break_2_blue_1",
+            "text": "不容错过的界限突破2——蓝色"
+          },
+          {
+            "key": "shop.item.com.smallgiantgames.empires.hero_limit_break_2_green_1",
+            "text": "不容错过的界限突破2——绿色"
+          },
+          {
+            "key": "shop.item.com.smallgiantgames.empires.hero_limit_break_2_purple_1",
+            "text": "不容错过的界限突破2——紫色"
+          },
+          {
+            "key": "shop.item.com.smallgiantgames.empires.hero_limit_break_2_red_1",
+            "text": "不容错过的界限突破2——红色"
+          },
+          {
+            "key": "shop.item.com.smallgiantgames.empires.hero_limit_break_2_yellow_1",
+            "text": "不容错过的界限突破2——黄色"
+          },
+          {
+            "key": "shop.offers.title.hero_limit_break_1_blue_1",
+            "text": "不容错过的界限突破1——蓝色"
+          },
+          {
+            "key": "shop.offers.title.hero_limit_break_1_green_1",
+            "text": "不容错过的界限突破1——绿色"
+          },
+          {
+            "key": "shop.offers.title.hero_limit_break_1_purple_1",
+            "text": "不容错过的界限突破1——紫色"
+          },
+          {
+            "key": "shop.offers.title.hero_limit_break_1_red_1",
+            "text": "不容错过的界限突破1——红色"
+          },
+          {
+            "key": "shop.offers.title.hero_limit_break_1_yellow_1",
+            "text": "不容错过的界限突破1——黄色"
+          },
+          {
+            "key": "shop.offers.title.hero_limit_break_2_blue_1",
+            "text": "不容错过的界限突破2——蓝色"
+          },
+          {
+            "key": "shop.offers.title.hero_limit_break_2_green_1",
+            "text": "不容错过的界限突破2——绿色"
+          },
+          {
+            "key": "shop.offers.title.hero_limit_break_2_purple_1",
+            "text": "不容错过的界限突破2——紫色"
+          },
+          {
+            "key": "shop.offers.title.hero_limit_break_2_red_1",
+            "text": "不容错过的界限突破2——红色"
+          },
+          {
+            "key": "shop.offers.title.hero_limit_break_2_yellow_1",
+            "text": "不容错过的界限突破2——黄色"
+          },
+          {
+            "key": "specials.v2.statuseffect.major.constantmanasteal.all.enemies.while.single.allies.familiaralive.cursed_sigil_parasite_costume",
+            "text": "施法者偷取所有敌人生成法力的{CURRENTMANASTEAL}%。只要目标拥有诅咒印记恶魔，此效果将会持续并且无法净化，但会在施法者被击败后移除。"
+          },
+          {
+            "key": "statuseffects.description.constantmanasteal.while.single.allies.familiaralive.cursed_sigil_parasite_costume",
+            "text": "获得的法力中有[#!]{CURRENTMANASTEAL}%[#]会被偷取。（此角色拥有[#!]诅咒印记恶魔[#]期间有效）"
           }
         ]
       }
     }
   },
-  "languageOverridesConfigId": 2381713129
+  "languageOverridesConfigId": 955588832
 }

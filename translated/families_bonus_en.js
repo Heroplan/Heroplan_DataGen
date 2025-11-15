@@ -4,7 +4,7 @@ window.families_bonus = [
         "name": "knight",
         "bonus": [
             "Bonus for 2/3/4/5 Unique Heroes:",
-            "+5%/+10%/+15%/+20% critical chance",
+            "+5%/+10%/+15%/+20% [##elementred]critical[#] chance",
             "+4%/+6%/+9%/+13% healing",
             "The members of this family have additional perks in the Challenge Festival events."
         ]
@@ -65,7 +65,7 @@ window.families_bonus = [
         "name": "mahayoddha",
         "bonus": [
             "Bonus for 1/2/3 Heroes:",
-            "At the end of each turn heroes in the Mahayoddha family gain Growth 100 / 110 / 120 attack and 100 / 110 / 120 defense."
+            "At the end of each turn heroes in the Mahayoddha family gain [#!]Growth[#] 100 / 110 / 120 attack and 100 / 110 / 120 defense."
         ]
     },
     {
@@ -92,7 +92,7 @@ window.families_bonus = [
         "name": "forsaken",
         "bonus": [
             "Bonus for 1 / 2 / 3 Heroes:",
-            " * +15% / +20% / +30% critical chance.",
+            " * +15% / +20% / +30% [##elementred]critical[#] chance.",
             " * +20% / +30% / +40% health.",
             "The members of this family have additional perks in the Shadows of the Deep event."
         ]
@@ -102,7 +102,7 @@ window.families_bonus = [
         "name": "fleur_de_sang",
         "bonus": [
             "At the start of each turn, each Fleur de Sang character marks the enemy with highest remaining HP with Blood Lily.",
-            "Blood Lily, Stack (Max: 10): The target receive 4/6/10 damage per turn. The Fleur de Sang characters on the opposing team gain the amount of damage dealt as health, divided equally between them.",
+            "Blood Lily, [#!]Stack (Max: 10):[#] The target receive 4/6/10 damage per turn. The Fleur de Sang characters on the opposing team gain the amount of damage dealt as health, divided equally between them.",
             "The members of this family have additional perks in the Halloween event."
         ]
     },
@@ -128,13 +128,13 @@ window.families_bonus = [
         "originalIndex": 13,
         "name": "beauty_beast",
         "bonus": [
-            "Heroes of this family gain Humility to cast a strong version of their Special Skills.",
-            " * Different Heroes have different Humility requirements.",
-            " * When the Hero casts the strong version of their Special Skill, only the required amount of Humility is consumed.",
-            " * Maximum Humility: 100",
+            "Heroes of this family gain [#!]Humility[#] to cast a strong version of their Special Skills.",
+            " * Different Heroes have different [#!]Humility[#] requirements.",
+            " * When the Hero casts the strong version of their Special Skill, only the required amount of [#!]Humility[#] is consumed.",
+            " * Maximum [#!]Humility[#]: 100",
             "Bonus for 1/2/3 Unique Heroes of the same family:",
-            " * The Hero gains 15/17/20 Humility when receiving direct damage from Special Skills.",
-            " * The Hero gains 20/22/25 Humility when receiving direct healing from Special Skills.",
+            " * The Hero gains 15/17/20 [#!]Humility[#] when receiving direct damage from Special Skills.",
+            " * The Hero gains 20/22/25 [#!]Humility[#] when receiving direct healing from Special Skills.",
             "The members of this family have additional perks in The Brave & The Beautiful event."
         ]
     },
@@ -246,7 +246,7 @@ window.families_bonus = [
         "name": "hotm2021",
         "bonus": [
             "Bonus for 1/2/3:",
-            "+10%/+15%/+20% critical chance.",
+            "+10%/+15%/+20% [##elementred]critical[#] chance.",
             "Bonus for 2+ Heroes:",
             "Element Link affects all allies."
         ]
@@ -343,7 +343,7 @@ window.families_bonus = [
         "name": "jotunheim",
         "bonus": [
             "Bonus for 1/2/3 Unique Heroes:",
-            "All allies get an Ice Giant minion with 6%/10%/14% HP and 10%/12%/16% attack inherited from the caster when a Jotunheim Hero dies."
+            "All allies get an [##elementblue]Ice[#] Giant minion with 6%/10%/14% HP and 10%/12%/16% attack inherited from the caster when a Jotunheim Hero dies."
         ]
     },
     {
@@ -359,7 +359,7 @@ window.families_bonus = [
         "name": "muspelheim",
         "bonus": [
             "Bonus for 1/2/3 Unique Heroes:",
-            "All enemies receive 22/37/64 Burn damage for as long as a Muspelheim ally has low health. This effect cannot be dispelled."
+            "All enemies receive 22/37/64 [##elementred]Burn damage[#] for as long as a Muspelheim ally has low health. This effect cannot be dispelled."
         ]
     },
     {
@@ -375,7 +375,7 @@ window.families_bonus = [
         "name": "svartalfheim",
         "bonus": [
             "Bonus for 1/2/3 Unique Heroes:",
-            "All enemies received 22/37/64 Poison damage for as long as a Svartalfheim ally has low health. This effect cannot be dispelled."
+            "All enemies received 22/37/64 [##elementpurple]Poison damage[#] for as long as a Svartalfheim ally has low health. This effect cannot be dispelled."
         ]
     },
     {
@@ -424,7 +424,7 @@ window.families_bonus = [
         "bonus": [
             "Bonus for 2/3/4/5 Unique Heroes:",
             "+2%/+4%/+7%/+12% mana generation",
-            "+5%/+10%/+15%/+20% critical chance",
+            "+5%/+10%/+15%/+20% [##elementred]critical[#] chance",
             "The members of this family have additional perks in the Challenge Festival events."
         ]
     },
@@ -433,7 +433,7 @@ window.families_bonus = [
         "name": "sun",
         "bonus": [
             "Bonus for 1/2 Unique Heroes:",
-            "50% / 75% chance to make a cast -35% accuracy for 2 turns and 196/146/114 (5*/4*/3*) Burn damage over 2 turns on an enemy who deals Special Skill damage to this character.",
+            "50% / 75% chance to make a cast -35% accuracy for 2 turns and 196/146/114 (5*/4*/3*) [##elementred]Burn damage[#] over 2 turns on an enemy who deals Special Skill damage to this character.",
             "If the enemy’s Special Skill defeats this character, the chance is 75%/100%",
             "The members of this family have additional perks in Season V stages."
         ]
@@ -443,7 +443,7 @@ window.families_bonus = [
         "name": "moon",
         "bonus": [
             "Bonus for 1/2 Unique Heroes:",
-            "50% / 75% chance to cast -24% defense for 2 turns and 196/146/114 (5*/4*/3*) Water damage over 2 turns on an enemy who deals Special Skill damage to this character.",
+            "50% / 75% chance to cast -24% defense for 2 turns and 196/146/114 (5*/4*/3*) [##elementblue]Water damage[#] over 2 turns on an enemy who deals Special Skill damage to this character.",
             "If the enemy’s Special Skill defeats this character, the chance is 75%/100%",
             "The members of this family have additional perks in Season V stages"
         ]
@@ -463,7 +463,7 @@ window.families_bonus = [
         "name": "gargoyle",
         "bonus": [
             "Bonus for 1/2/3/ Unique Heroes:",
-            "Immune to Poison damage / Immune to Poison and Burn damage / Immune to Poison, Burn and Water damage",
+            "Immune to [##elementpurple]Poison damage[#] / Immune to Poison and [##elementred]Burn damage[#] / Immune to Poison, Burn and [##elementblue]Water damage[#]",
             "The members of this family have additional perks in the Return to Sanctuary event."
         ]
     },
@@ -576,7 +576,7 @@ window.families_bonus = [
             " ** Rabbit: +5% mana generation",
             " ** Ox: +10% defense",
             " ** Tiger: +10% attack",
-            " ** Dragon: +15% critical chance",
+            " ** Dragon: +15% [##elementred]critical[#] chance",
             " ** Snake: +5% healing",
             " ** Rat: +15% Special Skill power",
             "The members of this family have additional perks in the Lunar New Year event."
@@ -668,8 +668,8 @@ window.families_bonus = [
         "name": "slayers",
         "bonus": [
             "Bonus for 1/2/3 Heroes:",
-            " * Stack (Max: 10): The caster recovers 15 HP each turn.",
-            " * Stack (Max: 10): The caster gets +6% mana generation.",
+            " * [#!]Stack (Max: 10):[#] The caster recovers 15 HP each turn.",
+            " * [#!]Stack (Max: 10):[#] The caster gets +6% mana generation.",
             "The members of this family have additional perks in the Challenge Festival events."
         ]
     },

@@ -461,8 +461,23 @@
         "contents": [
           {
             "type": "Item",
-            "id": "assist_skill_material_epic",
-            "amount": 1
+            "id": "lottery_alliance_coin",
+            "amount": 3
+          },
+          {
+            "type": "Item",
+            "id": "lottery_covenant_coin",
+            "amount": 25
+          },
+          {
+            "type": "Item",
+            "id": "lottery_untold_tales_coin",
+            "amount": 25
+          },
+          {
+            "type": "Item",
+            "id": "lottery_legendary_troop",
+            "amount": 25
           }
         ]
       },
@@ -480,24 +495,8 @@
         "id": "dynamic4_alliancegift",
         "contents": [
           {
-            "type": "Item",
-            "id": "lottery_challenge_coin",
-            "amount": 4
-          },
-          {
-            "type": "Item",
-            "id": "lottery_wilderness_coin",
-            "amount": 35
-          },
-          {
-            "type": "Item",
-            "id": "lottery_shadow_coin",
-            "amount": 35
-          },
-          {
-            "type": "Item",
-            "id": "lottery_season5_coin",
-            "amount": 35
+            "type": "Gem",
+            "amount": 100
           }
         ]
       },
@@ -21916,6 +21915,7 @@
           }
         ],
         "supportsTabs": true,
+        "zyngaStoreEnabled": true,
         "associatedEvent": "Christmas"
       },
       {
@@ -21940,6 +21940,7 @@
           }
         ],
         "supportsTabs": true,
+        "zyngaStoreEnabled": true,
         "associatedEvent": "Christmas"
       },
       {
@@ -21964,6 +21965,7 @@
           }
         ],
         "supportsTabs": true,
+        "zyngaStoreEnabled": true,
         "associatedEvent": "Christmas"
       },
       {
@@ -21976,6 +21978,7 @@
           }
         ],
         "supportsTabs": true,
+        "zyngaStoreEnabled": true,
         "associatedEvent": "Christmas"
       },
       {
@@ -21989,6 +21992,7 @@
           }
         ],
         "supportsTabs": true,
+        "zyngaStoreEnabled": true,
         "associatedEvent": "Christmas"
       },
       {
@@ -23932,11 +23936,11 @@
           },
           {
             "id": "com.smallgiantgames.empires.emblem_pyramid_1a",
-            "purchaseLimit": 1
+            "purchaseLimit": 3
           },
           {
             "id": "com.smallgiantgames.empires.emblem_pyramid_1b",
-            "purchaseLimit": 1
+            "purchaseLimit": 3
           },
           {
             "id": "com.smallgiantgames.empires.emblem_pyramid_2a",
@@ -26709,20 +26713,12 @@
         "id": "dynamic_offer_17_celebration_fireworks",
         "products": [
           {
-            "id": "offer_dynamic_free",
-            "purchaseLimit": 1
-          },
-          {
-            "id": "com.smallgiantgames.empires.dynamic_12d",
+            "id": "com.smallgiantgames.empires.dynamic_10f",
             "purchaseLimit": 2
           },
           {
-            "id": "com.smallgiantgames.empires.dynamic_10d",
-            "purchaseLimit": 1
-          },
-          {
-            "id": "com.smallgiantgames.empires.dynamic_5d",
-            "purchaseLimit": 1
+            "id": "com.smallgiantgames.empires.dynamic_15d",
+            "purchaseLimit": 2
           }
         ],
         "requiresQuestsUnlocked": true,
@@ -29459,27 +29455,11 @@
         "id": "dynamic_offer_30_construct_shacklebolt",
         "products": [
           {
-            "id": "com.smallgiantgames.empires.dynamic_5",
-            "purchaseLimit": 3
+            "id": "com.smallgiantgames.empires.dynamic_12c",
+            "purchaseLimit": 4
           },
           {
-            "id": "com.smallgiantgames.empires.dynamic_15",
-            "purchaseLimit": 2
-          },
-          {
-            "id": "com.smallgiantgames.empires.dynamic_10",
-            "purchaseLimit": 3
-          },
-          {
-            "id": "com.smallgiantgames.empires.dynamic_30",
-            "purchaseLimit": 2
-          },
-          {
-            "id": "com.smallgiantgames.empires.dynamic_10b",
-            "purchaseLimit": 3
-          },
-          {
-            "id": "com.smallgiantgames.empires.dynamic_20",
+            "id": "com.smallgiantgames.empires.dynamic_5d",
             "purchaseLimit": 2
           }
         ],
@@ -29488,6 +29468,7 @@
         "offerCategory": "Dynamic",
         "priorityInShop": 1,
         "zyngaStoreEnabled": true,
+        "dynamicType": "AllianceGift",
         "titleKey": "shop.offers.title.dynamic.unchained_offers"
       },
       {
@@ -46279,6 +46260,16 @@
                 "amount": 5
               }
             ]
+          },
+          {
+            "activationTime": "2025-11-16 09:00:00",
+            "contents": [
+              {
+                "type": "Item",
+                "id": "lottery_elite_hero",
+                "amount": 8
+              }
+            ]
           }
         ]
       },
@@ -50666,6 +50657,32 @@
                 "amount": 1
               }
             ]
+          },
+          {
+            "activationTime": "2025-11-16 09:00:00",
+            "contents": [
+              {
+                "type": "Item",
+                "id": "lottery_alliance_coin",
+                "amount": 30,
+                "zyngaStoreExtraAmount": 10
+              },
+              {
+                "type": "Item",
+                "id": "lottery_covenant_coin",
+                "amount": 300
+              },
+              {
+                "type": "Item",
+                "id": "lottery_untold_tales_coin",
+                "amount": 300
+              },
+              {
+                "type": "Item",
+                "id": "lottery_legendary_troop",
+                "amount": 300
+              }
+            ]
           }
         ]
       },
@@ -51056,6 +51073,16 @@
                 "id": "lottery_pickup_coin",
                 "amount": 600,
                 "zyngaStoreExtraAmount": 100
+              }
+            ]
+          },
+          {
+            "activationTime": "2025-11-15 10:00:00",
+            "contents": [
+              {
+                "type": "Gem",
+                "amount": 2600,
+                "zyngaStoreExtraAmount": 200
               }
             ]
           },
@@ -51492,6 +51519,16 @@
                 "type": "Item",
                 "id": "lottery_pickup_coin",
                 "amount": 1110,
+                "zyngaStoreExtraAmount": 100
+              }
+            ]
+          },
+          {
+            "activationTime": "2025-11-15 10:00:00",
+            "contents": [
+              {
+                "type": "Gem",
+                "amount": 1300,
                 "zyngaStoreExtraAmount": 100
               }
             ]
@@ -53563,13 +53600,6 @@
         "endTime": "2025-11-17 07:00:00"
       },
       {
-        "id": "dynamic_offer_63_construct_shacklebolt",
-        "slot": "RightBottom",
-        "scheduledManually": true,
-        "startTime": "2025-11-12 12:30:00",
-        "endTime": "2025-11-13 06:30:00"
-      },
-      {
         "id": "selectableoffer_elemental2",
         "slot": "RightExtraBottom",
         "scheduledManually": true,
@@ -53625,7 +53655,8 @@
       },
       {
         "id": "dynamic_offer_55_ludwig",
-        "slot": "LeftExtraTop",
+        "slot": "ShopOnly",
+        "scheduledManually": true,
         "startTime": "2025-11-14 07:00:00",
         "endTime": "2025-11-15 06:30:00"
       },
@@ -53642,13 +53673,6 @@
         "scheduledManually": true,
         "startTime": "2025-11-14 07:00:00",
         "endTime": "2025-11-15 07:00:00"
-      },
-      {
-        "id": "com.smallgiantgames.empires.lootticketoffer2",
-        "slot": "RightExtraBottom",
-        "scheduledManually": true,
-        "startTime": "2025-11-14 07:00:00",
-        "endTime": "2025-11-16 07:00:00"
       },
       {
         "id": "dragon_trainer_2",
@@ -53679,6 +53703,20 @@
         "endTime": "2025-11-18 07:00:00"
       },
       {
+        "id": "emblem_pyramid",
+        "slot": "LeftExtraTop",
+        "scheduledManually": true,
+        "startTime": "2025-11-14 08:00:00",
+        "endTime": "2025-11-15 07:00:00"
+      },
+      {
+        "id": "com.smallgiantgames.empires.lootticketoffer2",
+        "slot": "RightExtraBottom",
+        "scheduledManually": true,
+        "startTime": "2025-11-14 09:00:00",
+        "endTime": "2025-11-16 07:00:00"
+      },
+      {
         "id": "dynamic_offer_45_red_alucard",
         "slot": "RightMiddle",
         "startTime": "2025-11-15 07:00:00",
@@ -53686,13 +53724,21 @@
       },
       {
         "id": "dynamic_offer_49_purple_umbria",
-        "slot": "RightBottom",
+        "slot": "ShopOnly",
+        "scheduledManually": true,
         "startTime": "2025-11-15 07:00:00",
         "endTime": "2025-11-16 06:30:00"
       },
       {
         "id": "com.smallgiantgames.empires.double_covenant",
         "slot": "LeftTop",
+        "scheduledManually": true,
+        "startTime": "2025-11-15 07:00:00",
+        "endTime": "2025-11-16 07:00:00"
+      },
+      {
+        "id": "selectable_ascension_1",
+        "slot": "LeftBottom",
         "scheduledManually": true,
         "startTime": "2025-11-15 07:00:00",
         "endTime": "2025-11-16 07:00:00"
@@ -53712,11 +53758,11 @@
         "endTime": "2025-11-17 07:00:00"
       },
       {
-        "id": "selectable_ascension_1",
-        "slot": "LeftBottom",
+        "id": "dynamic_offer_17_celebration_fireworks",
+        "slot": "RightBottom",
         "scheduledManually": true,
-        "startTime": "2025-11-15 07:00:00",
-        "endTime": "2025-11-17 07:00:00"
+        "startTime": "2025-11-15 10:00:00",
+        "endTime": "2025-11-16 06:30:00"
       },
       {
         "id": "dynamic_offer_27_bertulf",
@@ -53738,11 +53784,25 @@
         "endTime": "2025-11-17 07:00:00"
       },
       {
+        "id": "mastertraineroffer",
+        "slot": "LeftBottom",
+        "scheduledManually": true,
+        "startTime": "2025-11-16 07:00:00",
+        "endTime": "2025-11-17 07:00:00"
+      },
+      {
         "id": "selectable_limitbreak",
         "slot": "RightBottom",
         "scheduledManually": true,
         "startTime": "2025-11-16 07:00:00",
         "endTime": "2025-11-18 07:00:00"
+      },
+      {
+        "id": "dynamic_offer_30_construct_shacklebolt",
+        "slot": "RightExtraBottom",
+        "scheduledManually": true,
+        "startTime": "2025-11-16 09:00:00",
+        "endTime": "2025-11-17 06:30:00"
       },
       {
         "id": "dynamic_offer_52_sparkles",
@@ -53893,13 +53953,6 @@
         "endTime": "2025-11-22 07:00:00"
       },
       {
-        "id": "emblemvault",
-        "slot": "LeftExtraBottom",
-        "scheduledManually": true,
-        "startTime": "2025-11-20 07:00:00",
-        "endTime": "2025-11-22 07:00:00"
-      },
-      {
         "id": "monsterisland_calendar",
         "slot": "RightMiddle",
         "scheduledManually": true,
@@ -53950,7 +54003,7 @@
       },
       {
         "id": "m_emblemvault",
-        "slot": "RightBottom",
+        "slot": "LeftExtraBottom",
         "scheduledManually": true,
         "startTime": "2025-11-21 07:00:00",
         "endTime": "2025-11-23 07:00:00"
@@ -53975,6 +54028,13 @@
         "scheduledManually": true,
         "startTime": "2025-11-22 07:00:00",
         "endTime": "2025-11-23 06:30:00"
+      },
+      {
+        "id": "emblemvault",
+        "slot": "LeftBottom",
+        "scheduledManually": true,
+        "startTime": "2025-11-22 07:00:00",
+        "endTime": "2025-11-23 07:00:00"
       },
       {
         "id": "triple_levelupsummon",
@@ -70709,6 +70769,67 @@
                 "amount": 1
               }
             ]
+          },
+          {
+            "startTime": "2025-11-15 07:00:00",
+            "endTime": "2025-11-16 07:00:00",
+            "onlyGemSummon": true,
+            "maxAllowedRedeems": 1,
+            "requiredSummonAmounts": [
+              20
+            ],
+            "rewards": [
+              {
+                "type": "Hero",
+                "id": "Witch of the North-Mistress of the North",
+                "amount": 1
+              },
+              {
+                "type": "Hero",
+                "id": "Champion of the Court-Champion of the Bramble",
+                "amount": 1
+              },
+              {
+                "type": "Hero",
+                "id": "The Lab Moth",
+                "amount": 1
+              },
+              {
+                "type": "Hero",
+                "id": "Bard of Spirit Festivals",
+                "amount": 1
+              },
+              {
+                "type": "Hero",
+                "id": "The Enlightened-The Justicar Crusader",
+                "amount": 1
+              },
+              {
+                "type": "Hero",
+                "id": "Poison Flower Ninja",
+                "amount": 1
+              },
+              {
+                "type": "Hero",
+                "id": "Abyssal Huntsman",
+                "amount": 1
+              },
+              {
+                "type": "Hero",
+                "id": "Arctic Ambassador",
+                "amount": 1
+              },
+              {
+                "type": "Hero",
+                "id": "Magitech Sniper-Toon Sniper",
+                "amount": 1
+              },
+              {
+                "type": "Hero",
+                "id": "Scorpion Demoness",
+                "amount": 1
+              }
+            ]
           }
         ]
       },
@@ -70854,6 +70975,19 @@
       "pickupLottery": {
         "enabled": true,
         "lotteryEntries": [
+          {
+            "lotteryProductType": "Pick Up Summon",
+            "id": "pickup_summon_111725",
+            "productId": "lottery_pickup_default",
+            "startDate": "2025-11-17 07:00:00",
+            "endDate": "2025-11-19 07:00:00",
+            "featuredHeroes": [
+              "owl_lodius",
+              "owl_timius"
+            ],
+            "extraHeroesPoolId": "default",
+            "adSummonEnabled": true
+          },
           {
             "lotteryProductType": "Pick Up Summon",
             "id": "pickup_summon_12825",
@@ -71499,6 +71633,19 @@
             "featuredHeroes": [
               "beowulf_nithgaest",
               "tales2_thrivaldi"
+            ],
+            "extraHeroesPoolId": "default",
+            "adSummonEnabled": true
+          },
+          {
+            "lotteryProductType": "Pick Up Summon",
+            "id": "pickup_summon_111525",
+            "productId": "lottery_pickup_default",
+            "startDate": "2025-11-15 07:00:00",
+            "endDate": "2025-11-17 07:00:00",
+            "featuredHeroes": [
+              "garrison_flamehide",
+              "garrison_archibald"
             ],
             "extraHeroesPoolId": "default",
             "adSummonEnabled": true
@@ -74400,5 +74547,5 @@
       }
     ]
   },
-  "shopConfigId": 1202079804
+  "shopConfigId": 794301857
 }

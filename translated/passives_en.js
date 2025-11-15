@@ -54,8 +54,8 @@ const allTranslations =
         "passives": [
             "Empowered Resist Frost: This character has innate resistance against Frost and gains 450 boosted health and 5% mana each time they resist.",
             "Arctic Core: The Arctic Core activates each time this character’s Special Skill is cast",
-            " * All enemies receive Corrosive Frost for 3 turns. With fully charged Arctic Core, the Corrosive Frost deals 153 Frost damage, and lowers the target’s attack by -15% each turn. Deals extra damage against heroes with Minions or a Mega Minion.",
-            " * The Frost damage is scaled by the amount of charge in the Core. All charge is exhausted when the Core is activated."
+            " * All enemies receive [##elementblue]Corrosive Frost[#] for 3 turns. With fully charged Arctic Core, the [##elementblue]Corrosive Frost[#] deals 153 [##elementblue]Frost damage[#], and lowers the target’s attack by -15% each turn. Deals extra damage against heroes with Minions or a Mega Minion.",
+            " * The [##elementblue]Frost damage[#] is scaled by the amount of charge in the Core. All charge is exhausted when the Core is activated."
         ]
     },
     {
@@ -311,7 +311,7 @@ const allTranslations =
         "passives": [
             "Effects on Special Skill: 50% chance to perform the following actions when this character casts their Special Skill",
             " * Deals 80% damage to all enemies.",
-            " * All allies get +21% critical chance for 2 turns."
+            " * All allies get +21% [##elementred]critical[#] chance for 2 turns."
         ]
     },
     {
@@ -320,7 +320,7 @@ const allTranslations =
         "passives": [
             "Effects on Special Skill: 50% chance to perform the following actions when this character casts their Special Skill",
             " * Deals 80% damage to all enemies.",
-            " * All allies get +21% critical chance for 2 turns.",
+            " * All allies get +21% [##elementred]critical[#] chance for 2 turns.",
             "Resist Insanity: This character has innate resistance against Insanity."
         ]
     },
@@ -400,8 +400,8 @@ const allTranslations =
         "passives": [
             "Empowered Resist Frost: This character has innate resistance against Frost and gains 450 boosted health and 5% mana each time they resist.",
             "Arctic Core: The Arctic Core activates each time this character’s Special Skill is cast",
-            " * All enemies receive Corrosive Frost for 3 turns. With fully charged Arctic Core, the Corrosive Frost deals 193 Frost damage, and lowers the target’s attack by -15% each turn. Deals extra damage against heroes with Minions or a Mega Minion.",
-            " * The Frost damage is scaled by the amount of charge in the Core. All charge is exhausted when the Core is activated."
+            " * All enemies receive [##elementblue]Corrosive Frost[#] for 3 turns. With fully charged Arctic Core, the [##elementblue]Corrosive Frost[#] deals 193 [##elementblue]Frost damage[#], and lowers the target’s attack by -15% each turn. Deals extra damage against heroes with Minions or a Mega Minion.",
+            " * The [##elementblue]Frost damage[#] is scaled by the amount of charge in the Core. All charge is exhausted when the Core is activated."
         ]
     },
     {
@@ -438,7 +438,7 @@ const allTranslations =
         "name": "格雷戈 (Greg)",
         "passives": [
             "Resist Mana reduction: This character has an innate resistance against Mana Reduction.",
-            "Guard Rally: Every 4 turns, removes all Wither effects from all allies."
+            "Guard Rally: Every 4 turns, removes all [#!]Wither[#] effects from all allies."
         ]
     },
     {
@@ -713,8 +713,8 @@ const allTranslations =
             "Empowered Resist Burn: This character has innate resistance against Burn and gains 450 boosted health and 5% mana each time they resist.",
             "Molten Core. This character has a Molten Core.",
             "The Molten Core activates each time this character’s Special Skill is cast:",
-            " * All enemies receive Corrosive Burn for 3 turns. With fully charged Molten Core, the Corrosive Burn deals 309 Burn damage, and lowers the target’s defense by -12% each turn. Deals extra damage against heroes with Minions or Mega Minions",
-            " * The Burn damage is scaled by the amount of charge in the Core. All charge is exhausted when the Core is activated."
+            " * All enemies receive [##elementred]Corrosive Burn[#] for 3 turns. With fully charged Molten Core, the [##elementred]Corrosive Burn[#] deals 309 [##elementred]Burn damage[#], and lowers the target’s defense by -12% each turn. Deals extra damage against heroes with Minions or Mega Minions",
+            " * The [##elementred]Burn damage[#] is scaled by the amount of charge in the Core. All charge is exhausted when the Core is activated."
         ]
     },
     {
@@ -733,7 +733,7 @@ const allTranslations =
         "name": "艾丽娅珂丝 (Areax)",
         "passives": [
             "Resist Special Skill Blocking: This character has innate resistance against status ailments that block Special Skills.",
-            "Resist Water Damage: This character has innate resistance against Water damage."
+            "Resist Water Damage: This character has innate resistance against [##elementblue]Water damage[#]."
         ]
     },
     {
@@ -780,7 +780,7 @@ const allTranslations =
         "passives": [
             "Minion Blind: All enemies’ Minions have -60% accuracy. All enemies’ Mega Minions have -50% accuracy.",
             "Resist Insanity: This character has innate resistance against Insanity.",
-            "Resist Attack Reduction: This character has innate resistance against status ailments, stacks and Wither effects that affect attack."
+            "Resist Attack Reduction: This character has innate resistance against status ailments, stacks and [#!]Wither[#] effects that affect attack."
         ]
     },
     {
@@ -823,7 +823,7 @@ const allTranslations =
         "originalIndex": 121,
         "name": "巴洛尔 (Balur)",
         "passives": [
-            "Heal on Bleed: This character regenerates 50 HP each time an enemy receives Bleed damage.",
+            "Heal on Bleed: This character regenerates 50 HP each time an enemy receives [##elementred]Bleed damage[#].",
             "Resist Attack Ailments: This character has innate resistance against status ailments that affect attack."
         ]
     },
@@ -893,7 +893,7 @@ const allTranslations =
         "name": "卡伦 (Caelen)",
         "passives": [
             "Resist Mana reduction: This character has an innate resistance against mana Reduction.",
-            "Guard Rally: Every 4 turns, removes all Wither effects from all allies."
+            "Guard Rally: Every 4 turns, removes all [#!]Wither[#] effects from all allies."
         ]
     },
     {
@@ -956,7 +956,7 @@ const allTranslations =
         "passives": [
             "Effects on Special Skill: 50% chance to perform the following actions when this character casts their Special Skill",
             " * Deals 80% damage to all enemies.",
-            " * All allies get +21% critical chance for 2 turns."
+            " * All allies get +21% [##elementred]critical[#] chance for 2 turns."
         ]
     },
     {
@@ -965,7 +965,7 @@ const allTranslations =
         "passives": [
             "Effects on Special Skill: 50% chance to perform the following actions when this character casts their Special Skill",
             " * Deals 80% damage to all enemies.",
-            " * All allies get +21% critical chance for 2 turns.",
+            " * All allies get +21% [##elementred]critical[#] chance for 2 turns.",
             "Resist Insanity: This character has innate resistance against Insanity."
         ]
     },
@@ -1006,7 +1006,7 @@ const allTranslations =
         "name": "席亚拉 (Ciara)",
         "passives": [
             "Resist Mana reduction: This character has an innate resistance against mana Reduction.",
-            "Guard Rally: Every 4 turns, removes all Wither effects from all allies."
+            "Guard Rally: Every 4 turns, removes all [#!]Wither[#] effects from all allies."
         ]
     },
     {
@@ -1047,7 +1047,7 @@ const allTranslations =
         "originalIndex": 149,
         "name": "戴维·韦威 (Davey Wavey)",
         "passives": [
-            "Damage over time on Special: When this character casts their Special Skill, all enemies receive 238 Water damage over 2 turns.",
+            "Damage over time on Special: When this character casts their Special Skill, all enemies receive 238 [##elementblue]Water damage[#] over 2 turns.",
             "Resist Water Damage: This character has innate resistance against Water Damage."
         ]
     },
@@ -1097,11 +1097,11 @@ const allTranslations =
         "passives": [
             "Perfect Accuracy: This character’s Special Skill never misses its targets.",
             "Mimic Loot: This Mimic gives a chance for extra loot when completing stages",
-            " * Common Ice Trainer Heroes",
-            " * Uncommon Ice Trainer Heroes",
-            " * Rare Ice Trainer Heroes",
-            " * Common Ice Heroes",
-            " * Uncommon Ice Heroes"
+            " * Common [##elementblue]Ice[#] Trainer Heroes",
+            " * Uncommon [##elementblue]Ice[#] Trainer Heroes",
+            " * Rare [##elementblue]Ice[#] Trainer Heroes",
+            " * Common [##elementblue]Ice[#] Heroes",
+            " * Uncommon [##elementblue]Ice[#] Heroes"
         ]
     },
     {
@@ -1120,7 +1120,7 @@ const allTranslations =
         "passives": [
             "Mana on Status Ailment Received: This character gains 5% mana when they receive a status ailment or negative stack.",
             "Resist Mana reduction: This character has an innate resistance against mana Reduction.",
-            "Guard Rally: Every 4 turns, removes all Wither effects from all allies."
+            "Guard Rally: Every 4 turns, removes all [#!]Wither[#] effects from all allies."
         ]
     },
     {
@@ -1132,7 +1132,7 @@ const allTranslations =
         "originalIndex": 160,
         "name": "芬利 (Finley) C1",
         "passives": [
-            "Poison on Special Skill: When this character casts their Special Skill, all enemies receive 528 Poison damage over 4 turns."
+            "Poison on Special Skill: When this character casts their Special Skill, all enemies receive 528 [##elementpurple]Poison damage[#] over 4 turns."
         ]
     },
     {
@@ -1179,7 +1179,7 @@ const allTranslations =
         "name": "冰嗅 (Frostsnout)",
         "passives": [
             "Resist Mana Reduction: This character has an innate resistance against mana reduction.",
-            "Guard Rally: Every 4 turns, removes all Wither effects from all allies."
+            "Guard Rally: Every 4 turns, removes all [#!]Wither[#] effects from all allies."
         ]
     },
     {
@@ -1290,8 +1290,8 @@ const allTranslations =
         "passives": [
             "Empowered Resist Frost: This character has innate resistance against Frost and gains 450 boosted health and 5% mana each time they resist.",
             "Arctic Core: The Arctic Core activates each time this character’s Special Skill is cast",
-            " * All enemies receive Corrosive Frost for 3 turns. With fully charged Arctic Core, the Corrosive Frost deals 315 Frost damage, and lowers the target’s attack by -15% each turn. Deals extra damage against heroes with Minions or a Mega Minion.",
-            " * The Frost damage is scaled by the amount of charge in the Core. All charge is exhausted when the Core is activated."
+            " * All enemies receive [##elementblue]Corrosive Frost[#] for 3 turns. With fully charged Arctic Core, the [##elementblue]Corrosive Frost[#] deals 315 [##elementblue]Frost damage[#], and lowers the target’s attack by -15% each turn. Deals extra damage against heroes with Minions or a Mega Minion.",
+            " * The [##elementblue]Frost damage[#] is scaled by the amount of charge in the Core. All charge is exhausted when the Core is activated."
         ]
     },
     {
@@ -1371,7 +1371,7 @@ const allTranslations =
         "passives": [
             "Minion Blind: All enemies’ Minions have -60% accuracy. All enemies’ Mega Minions have -50% accuracy.",
             "Resist Insanity: This character has innate resistance against Insanity.",
-            "Resist Defense Ailments: This character has innate resistance against status ailments, stacks and Wither effects that affect defense. "
+            "Resist Defense Ailments: This character has innate resistance against status ailments, stacks and [#!]Wither[#] effects that affect defense. "
         ]
     },
     {
@@ -1412,7 +1412,7 @@ const allTranslations =
         "originalIndex": 196,
         "name": "克朗普斯 (Krampus) C1",
         "passives": [
-            "Frost on Minion Hit: Each hit from the Minions owned by the Hero inflicts 264 Frost damage over 4 turns."
+            "Frost on Minion Hit: Each hit from the Minions owned by the Hero inflicts 264 [##elementblue]Frost damage[#] over 4 turns."
         ]
     },
     {
@@ -1427,7 +1427,7 @@ const allTranslations =
             "This includes:",
             " * - Status effect buffs and ailments.",
             " * - Positive and negative stacks.",
-            " * - Growth and Wither effects."
+            " * - [#!]Growth[#] and [#!]Wither[#] effects."
         ]
     },
     {
@@ -1521,7 +1521,7 @@ const allTranslations =
         "name": "梅内 (Mene)",
         "passives": [
             "Resist Burn: This character has innate resistance against Burn.",
-            "Mana on Frost: This character gains 5% mana each time an enemy receives Frost damage."
+            "Mana on Frost: This character gains 5% mana each time an enemy receives [##elementblue]Frost damage[#]."
         ]
     },
     {
@@ -1589,7 +1589,7 @@ const allTranslations =
         "name": "蜜丝缇 (Misty)",
         "passives": [
             "Resist Water Damage: This character has innate resistance against Water Damage.",
-            "Damage over time on Special: When this character casts their Special Skill, all enemies receive 210 Water damage over 2 turns."
+            "Damage over time on Special: When this character casts their Special Skill, all enemies receive 210 [##elementblue]Water damage[#] over 2 turns."
         ]
     },
     {
@@ -1633,7 +1633,7 @@ const allTranslations =
         "originalIndex": 228,
         "name": "潘吉先生 (Mr. Pengi) C1",
         "passives": [
-            "Frost on Minion Hit: Each hit from the Minions owned by the Hero inflicts 264 Frost damage over 4 turns."
+            "Frost on Minion Hit: Each hit from the Minions owned by the Hero inflicts 264 [##elementblue]Frost damage[#] over 4 turns."
         ]
     },
     {
@@ -1917,7 +1917,7 @@ const allTranslations =
         "passives": [
             "Resist Special Skill Blocking: This character has innate resistance against status ailments that block Special Skill.",
             "Corrosive Core: The Construct Core of this character is Corrosive Core. The Corrosive Core activates each time this character’s Special Skill is cast:",
-            " * All enemies receive Corrosive Poison for 3 turns. With a fully charged Corrosive Core, the Corrosive Poison deals 153 Poison damage and lowers the target’s mana generation by -13% each turn. Deals extra damage against heroes with Minions or a Mega Minion.",
+            " * All enemies receive [##elementpurple]Corrosive Poison[#] for 3 turns. With a fully charged Corrosive Core, the [##elementpurple]Corrosive Poison[#] deals 153 [##elementpurple]Poison damage[#] and lowers the target’s mana generation by -13% each turn. Deals extra damage against heroes with Minions or a Mega Minion.",
             " * The poison damage is scaled by the amount of charge in the Core. All charge is exhausted when the Core is activated."
         ]
     },
@@ -1945,7 +1945,7 @@ const allTranslations =
         "passives": [
             "Effects on Special Skill: 60% chance to perform the following actions when this character casts their Special Skill",
             " * Deals 70% damage to all enemies.",
-            " * All enemies receive 255 Sand damage over 3 turns."
+            " * All enemies receive 255 [##elementyellow]Sand damage[#] over 3 turns."
         ]
     },
     {
@@ -1954,7 +1954,7 @@ const allTranslations =
         "passives": [
             "Effects on Special Skill: 60% chance to perform the following actions when this character casts their Special Skill",
             " * Deals 70% damage to all enemies.",
-            " * All enemies receive 363 Sand damage over 3 turns.",
+            " * All enemies receive 363 [##elementyellow]Sand damage[#] over 3 turns.",
             "Extra Chance for Effects On Special Skill: When this character casts their Special Skill, any of their Passive Skills that grant extra effects on cast have 3 chances to activate.",
             "Increased Special Skill Damage: The first time this character casts a Special Skill that deals damage an additional 50% is added to its power."
         ]
@@ -1963,7 +1963,7 @@ const allTranslations =
         "originalIndex": 274,
         "name": "宋江 (Song Jiang)",
         "passives": [
-            "Cleanse on Critical Special Attack: When this character scores a critical hit with their Special Skill, they safely cleanse the latest cleansable status effect from all allies. This effect can activate once per turn.",
+            "Cleanse on Critical Special Attack: When this character scores a [##elementred]critical[#] hit with their Special Skill, they safely cleanse the latest cleansable status effect from all allies. This effect can activate once per turn.",
             "Righteous Rebellion: ",
             " * When this character’s Special Skill hits a character that had higher current HP, gain +20% boosted health.",
             " * When this character is hit by the Special Skill of a character that had higher current HP, gain +20% mana.",
@@ -2001,8 +2001,8 @@ const allTranslations =
         "passives": [
             "Empowered Resist Frost: This character has innate resistance against Frost and gains 450 boosted health and 5% mana each time they resist.",
             "Arctic Core: The Arctic Core activates each time this character’s Special Skill is cast",
-            " * All enemies receive Corrosive Frost for 3 turns. With fully charged Arctic Core, the Corrosive Frost deals 346 Frost damage, and lowers the target’s attack by -15% each turn. Deals extra damage against heroes with Minions or a Mega Minion.",
-            " * The Frost damage is scaled by the amount of charge in the Core. All charge is exhausted when the Core is activated."
+            " * All enemies receive [##elementblue]Corrosive Frost[#] for 3 turns. With fully charged Arctic Core, the [##elementblue]Corrosive Frost[#] deals 346 [##elementblue]Frost damage[#], and lowers the target’s attack by -15% each turn. Deals extra damage against heroes with Minions or a Mega Minion.",
+            " * The [##elementblue]Frost damage[#] is scaled by the amount of charge in the Core. All charge is exhausted when the Core is activated."
         ]
     },
     {
@@ -2028,7 +2028,7 @@ const allTranslations =
         "passives": [
             "Effects on Special Skill: 50% chance to perform the following actions when this character casts their Special Skill",
             " * Deals 80% damage to all enemies.",
-            " * All allies get +21% critical chance for 2 turns.",
+            " * All allies get +21% [##elementred]critical[#] chance for 2 turns.",
             "Resist Insanity: This character has innate resistance against Insanity."
         ]
     },
@@ -2038,7 +2038,7 @@ const allTranslations =
         "passives": [
             "Effects on Special Skill: 50% chance to perform the following actions when this character casts their Special Skill",
             " * Deals 80% damage to all enemies.",
-            " * All allies get +21% critical chance for 2 turns.",
+            " * All allies get +21% [##elementred]critical[#] chance for 2 turns.",
             "Resist Insanity: This character has innate resistance against Insanity."
         ]
     },
@@ -2118,7 +2118,7 @@ const allTranslations =
         "passives": [
             "Minion Blind: All enemies’ Minions have -60% accuracy. All enemies’ Mega Minions have -50% accuracy.",
             "Resist Insanity: This character has innate resistance against Insanity.",
-            "Resist Attack Reduction: This character has innate resistance against status ailments, stacks and Wither effects that affect attack."
+            "Resist Attack Reduction: This character has innate resistance against status ailments, stacks and [#!]Wither[#] effects that affect attack."
         ]
     },
     {
@@ -2133,7 +2133,7 @@ const allTranslations =
             "This includes:",
             " * - Status effect buffs and ailments.",
             " * - Positive and negative stacks.",
-            " * - Growth and Wither effects."
+            " * - [#!]Growth[#] and [#!]Wither[#] effects."
         ]
     },
     {
@@ -2162,12 +2162,12 @@ const allTranslations =
         "originalIndex": 300,
         "name": "武松 (Wu Song)",
         "passives": [
-            "Health Boost on Critical Special Attack: When this character scores a critical hit with their Special Skill, they boost the health of all their allies by 10%. This effect can activate once per turn.",
+            "Health Boost on Critical Special Attack: When this character scores a [##elementred]critical[#] hit with their Special Skill, they boost the health of all their allies by 10%. This effect can activate once per turn.",
             "Righteous Rebellion: ",
             " * When this character’s Special Skill hits a character that had higher current HP, gain +20% boosted health.",
             " * When this character is hit by the Special Skill of a character that had higher current HP, gain +20% mana.",
             " * Each of these effects can activate once per turn.",
-            "Resist Bleed Damage: This character has innate resistance against Bleed damage.    "
+            "Resist Bleed Damage: This character has innate resistance against [##elementred]Bleed damage[#].    "
         ]
     },
     {
@@ -2397,7 +2397,7 @@ const allTranslations =
             "This includes:",
             " * - Status effect buffs and ailments.",
             " * - Positive and negative stacks.",
-            " * - Growth and Wither effects."
+            " * - [#!]Growth[#] and [#!]Wither[#] effects."
         ]
     },
     {
@@ -2563,7 +2563,7 @@ const allTranslations =
         "name": "威廉 (William)",
         "passives": [
             "Resist Mana reduction: This character has an innate resistance against mana Reduction.",
-            "Guard Rally: Every 4 turns, removes all Wither effects from all allies."
+            "Guard Rally: Every 4 turns, removes all [#!]Wither[#] effects from all allies."
         ]
     },
     {
@@ -2866,7 +2866,7 @@ const allTranslations =
         "passives": [
             "Minion Blind: All enemies’ Minions have -60% accuracy. All enemies’ Mega Minions have -50% accuracy.",
             "Resist Insanity: This character has innate resistance against Insanity.",
-            "Resist Attack Reduction: This character has innate resistance against status ailments, stacks and Wither effects that affect attack."
+            "Resist Attack Reduction: This character has innate resistance against status ailments, stacks and [#!]Wither[#] effects that affect attack."
         ]
     },
     {
@@ -2956,8 +2956,8 @@ const allTranslations =
         "passives": [
             "Empowered Resist Frost: This character has innate resistance against Frost and gains 450 boosted heath and 5% mana each time they resist.",
             "Arctic Core: The Arctic Core activates each time this character’s Special Skill is cast",
-            " * All enemies receive Corrosive Frost for 3 turns. With fully charged Arctic Core, the Corrosive Frost deals 209 Frost damage, and lowers the target’s attack by -15% each turn. Deals extra damage against heroes with Minions or a Mega Minion.",
-            " * The Frost damage is scaled by the amount of charge in the Core. All charge is exhausted when the Core is activated."
+            " * All enemies receive [##elementblue]Corrosive Frost[#] for 3 turns. With fully charged Arctic Core, the [##elementblue]Corrosive Frost[#] deals 209 [##elementblue]Frost damage[#], and lowers the target’s attack by -15% each turn. Deals extra damage against heroes with Minions or a Mega Minion.",
+            " * The [##elementblue]Frost damage[#] is scaled by the amount of charge in the Core. All charge is exhausted when the Core is activated."
         ]
     },
     {
@@ -3011,7 +3011,7 @@ const allTranslations =
             " * Deals 70% damage to all enemies.",
             " * All enemies get -24% mana generation for 3 turns.",
             "Extra Chance for Effects on Special Skill: When this character casts their Special Skill, any of their Passive Skills that grant extra effects on cast have 3 chances to activate.",
-            "Resist Sand Damage: This character has innate resistance against Sand damage."
+            "Resist Sand Damage: This character has innate resistance against [##elementyellow]Sand damage[#]."
         ]
     },
     {
@@ -3031,7 +3031,7 @@ const allTranslations =
         "name": "阿奇巴尔德 (Archibald)",
         "passives": [
             "Resist Mana reduction: This character has an innate resistance against mana Reduction.",
-            "Guard Rally: Every 4 turns, removes all Wither effects from all allies."
+            "Guard Rally: Every 4 turns, removes all [#!]Wither[#] effects from all allies."
         ]
     },
     {
@@ -3154,7 +3154,7 @@ const allTranslations =
         "name": "布兰博 (Bramble)",
         "passives": [
             "Minion Blind: All enemies’ Minions have -60% accuracy. All enemies’ Mega Minions have -50% accuracy.",
-            "Resist Defense Reduction: This character has innate resistance against status ailments, stacks and Wither effects that affect defense.",
+            "Resist Defense Reduction: This character has innate resistance against status ailments, stacks and [#!]Wither[#] effects that affect defense.",
             "Resist Insanity: This character has innate resistance against Insanity."
         ]
     },
@@ -3177,7 +3177,7 @@ const allTranslations =
         "originalIndex": 452,
         "name": "西尼希雅 (Cinisia)",
         "passives": [
-            "Increased Attack Per Non-Nature Enemy: At the start of the battle, this character’s attack is increased by 5% for enemy that is not of Nature element. In battles with multiple waves, this effect is refreshed at the beginning of each wave.",
+            "Increased Attack Per Non-[##elementgreen]Nature[#] Enemy: At the start of the battle, this character’s attack is increased by 5% for enemy that is not of [##elementgreen]Nature[#] element. In battles with multiple waves, this effect is refreshed at the beginning of each wave.",
             "Resist Attack Ailments: This character has innate resistance against status ailments that affect attack."
         ]
     },
@@ -3229,8 +3229,8 @@ const allTranslations =
             "Empowered Resist Burn: This character has innate resistance against Burn and gains 450 boosted health and 5% mana each time they resist.",
             "Molten Core. This character has a Molten Core.",
             "The Molten Core activates each time this character’s Special Skill is cast:",
-            " * All enemies receive Corrosive Burn for 3 turns. With a fully charged Molten Core, the Corrosive Burn deals 330 Burn damage, and lowers the target’s defense by -12% each turn. Deals extra damage against heroes with Minions or a Mega Minion.",
-            " * The Burn damage is scaled by the amount of charge in the Core. All charge is exhausted when the Core is activated."
+            " * All enemies receive [##elementred]Corrosive Burn[#] for 3 turns. With a fully charged Molten Core, the [##elementred]Corrosive Burn[#] deals 330 [##elementred]Burn damage[#], and lowers the target’s defense by -12% each turn. Deals extra damage against heroes with Minions or a Mega Minion.",
+            " * The [##elementred]Burn damage[#] is scaled by the amount of charge in the Core. All charge is exhausted when the Core is activated."
         ]
     },
     {
@@ -3408,11 +3408,11 @@ const allTranslations =
         "passives": [
             "Perfect Accuracy: This character’s Special Skill never misses its targets.",
             "Mimic Loot: This Mimic gives a chance for extra loot when completing stages",
-            " * Common Nature Trainer Heroes",
-            " * Uncommon Nature Trainer Heroes",
-            " * Rare Nature Trainer Heroes",
-            " * Common Nature Heroes",
-            " * Uncommon Nature Heroes"
+            " * Common [##elementgreen]Nature[#] Trainer Heroes",
+            " * Uncommon [##elementgreen]Nature[#] Trainer Heroes",
+            " * Rare [##elementgreen]Nature[#] Trainer Heroes",
+            " * Common [##elementgreen]Nature[#] Heroes",
+            " * Uncommon [##elementgreen]Nature[#] Heroes"
         ]
     },
     {
@@ -3421,8 +3421,8 @@ const allTranslations =
         "passives": [
             "Empowered Resist Frost: This character has innate resistance against Frost and gains 450 boosted heath and 5% mana each time they resist.",
             "Arctic Core: The Arctic Core activates each time this character’s Special Skill is cast",
-            " * All enemies receive Corrosive Frost for 3 turns. With fully charged Arctic Core, the Corrosive Frost deals 337 Frost damage, and lowers the target’s attack by -15% each turn. Deals extra damage against heroes with Minions or a Mega Minion.",
-            " * The Frost damage is scaled by the amount of charge in the Core. All charge is exhausted when the Core is activated."
+            " * All enemies receive [##elementblue]Corrosive Frost[#] for 3 turns. With fully charged Arctic Core, the [##elementblue]Corrosive Frost[#] deals 337 [##elementblue]Frost damage[#], and lowers the target’s attack by -15% each turn. Deals extra damage against heroes with Minions or a Mega Minion.",
+            " * The [##elementblue]Frost damage[#] is scaled by the amount of charge in the Core. All charge is exhausted when the Core is activated."
         ]
     },
     {
@@ -3438,7 +3438,7 @@ const allTranslations =
         "name": "费洛斯 (Ferrus)",
         "passives": [
             "Resist Special Skill Blocking: This character has innate resistance against status ailments that block Special Skill.",
-            "Corrosive Core: The Construct Core of this character is Corrosive Core. The Corrosive Core activates each time this character’s Special Skill is cast: * All enemies receive Corrosive Poison for 3 turns. With a fully charged Corrosive Core, the Corrosive Poision deals 128 Poison damage and lowers the target’s mana generation by -13% each turn. Deals extra damage against heroes with Minions or a Mega Minion. * The poison damage is scaled by the amount of charge in the Core. All charge is exhausted when the Core is activated."
+            "Corrosive Core: The Construct Core of this character is Corrosive Core. The Corrosive Core activates each time this character’s Special Skill is cast: * All enemies receive [##elementpurple]Corrosive Poison[#] for 3 turns. With a fully charged Corrosive Core, the Corrosive Poision deals 128 [##elementpurple]Poison damage[#] and lowers the target’s mana generation by -13% each turn. Deals extra damage against heroes with Minions or a Mega Minion. * The poison damage is scaled by the amount of charge in the Core. All charge is exhausted when the Core is activated."
         ]
     },
     {
@@ -3516,7 +3516,7 @@ const allTranslations =
         "passives": [
             "Effects on Special Skill: 50% chance to perform the following actions when this character casts their Special Skill",
             " * Deals 80% damage to all enemies.",
-            " * All allies get +21% critical chance for 2 turns.",
+            " * All allies get +21% [##elementred]critical[#] chance for 2 turns.",
             "Resist Insanity: This character has innate resistance against Insanity."
         ]
     },
@@ -3526,7 +3526,7 @@ const allTranslations =
         "passives": [
             "Effects on Special Skill: 50% chance to perform the following actions when this character casts their Special Skill",
             " * Deals 80% damage to all enemies.",
-            " * All allies get +21% critical chance for 2 turns.",
+            " * All allies get +21% [##elementred]critical[#] chance for 2 turns.",
             "Resist Insanity: This character has innate resistance against Insanity."
         ]
     },
@@ -3558,7 +3558,7 @@ const allTranslations =
         "passives": [
             "Effects on Special Skill: 50% chance to perform the following actions when this character casts their Special Skill",
             " * Deals 80% damage to all enemies.",
-            " * All allies get +21% critical chance for 2 turns."
+            " * All allies get +21% [##elementred]critical[#] chance for 2 turns."
         ]
     },
     {
@@ -3567,7 +3567,7 @@ const allTranslations =
         "passives": [
             "Effects on Special Skill: 50% chance to perform the following actions when this character casts their Special Skill",
             " * Deals 80% damage to all enemies.",
-            " * All allies get +21% critical chance for 2 turns.",
+            " * All allies get +21% [##elementred]critical[#] chance for 2 turns.",
             "Resist Insanity: This character has an innate resistance against Insanity."
         ]
     },
@@ -3581,7 +3581,7 @@ const allTranslations =
         "name": "戈弗雷 (Godfrey)",
         "passives": [
             "Resist Mana reduction: This character has an innate resistance against mana Reduction.",
-            "Guard Rally: Every 4 turns, removes all Wither effects from all allies."
+            "Guard Rally: Every 4 turns, removes all [#!]Wither[#] effects from all allies."
         ]
     },
     {
@@ -3597,7 +3597,7 @@ const allTranslations =
         "name": "格蕾丝 (Grace)",
         "passives": [
             "Resist Burn: This character has innate resistance against Burn.",
-            "Mana on Taunt: Each time an enemy receives a Taunt status effect this character’s mana is increased by 10%."
+            "Mana on [##elementred]Taunt[#]: Each time an enemy receives a [##elementred]Taunt[#] status effect this character’s mana is increased by 10%."
         ]
     },
     {
@@ -3804,7 +3804,7 @@ const allTranslations =
         "name": "柯利亚 (Kolya)",
         "passives": [
             "Resist Mana reduction: This character has an innate resistance against mana Reduction.",
-            "Guard Rally: Every 4 turns, removes all Wither effects from all allies."
+            "Guard Rally: Every 4 turns, removes all [#!]Wither[#] effects from all allies."
         ]
     },
     {
@@ -3816,7 +3816,7 @@ const allTranslations =
         "originalIndex": 538,
         "name": "洛克小姐 (Lady Locke) C1",
         "passives": [
-            "Poison on Special Skill: When this character casts their Special Skill, all enemies receive 540 Poison damage over 4 turns."
+            "Poison on Special Skill: When this character casts their Special Skill, all enemies receive 540 [##elementpurple]Poison damage[#] over 4 turns."
         ]
     },
     {
@@ -3858,7 +3858,7 @@ const allTranslations =
             "This includes:",
             " * - Status effect buffs and ailments.",
             " * - Positive and negative stacks.",
-            " * - Growth and Wither effects."
+            " * - [#!]Growth[#] and [#!]Wither[#] effects."
         ]
     },
     {
@@ -3976,7 +3976,7 @@ const allTranslations =
         "name": "马佐加 (Mazoga)",
         "passives": [
             "Resist Water Damage: This character has innate resistance against Water Damage.",
-            "Damage over time on Special: When this character casts their Special Skill, all enemies receive 254 Water damage over 2 turns."
+            "Damage over time on Special: When this character casts their Special Skill, all enemies receive 254 [##elementblue]Water damage[#] over 2 turns."
         ]
     },
     {
@@ -4023,7 +4023,7 @@ const allTranslations =
         "originalIndex": 566,
         "name": "北方之母 (Mother North) C1",
         "passives": [
-            "Frost on Minion Hit: Each hit from the Minions owned by the Hero inflicts 264 Frost damage over 4 turns."
+            "Frost on Minion Hit: Each hit from the Minions owned by the Hero inflicts 264 [##elementblue]Frost damage[#] over 4 turns."
         ]
     },
     {
@@ -4044,7 +4044,7 @@ const allTranslations =
         "name": "米斯蒂亚 (Mystia)",
         "passives": [
             "Resist Special Skill Blocking: This character has innate resistance against status ailments that block Special Skills.",
-            "Ignore Taunt: This character’s Special Skill is not affected by Taunt."
+            "Ignore [##elementred]Taunt[#]: This character’s Special Skill is not affected by [##elementred]Taunt[#]."
         ]
     },
     {
@@ -4060,22 +4060,22 @@ const allTranslations =
         "originalIndex": 571,
         "name": "奥特 (Ott)",
         "passives": [
-            "Empowered Resist Burn: This character is immune to status ailments that deal Burn damage and gains 450 boosted health and 5% mana each time they resist.",
+            "Empowered Resist Burn: This character is immune to status ailments that deal [##elementred]Burn damage[#] and gains 450 boosted health and 5% mana each time they resist.",
             "Molten Core. This character has a Molten Core.",
             "The Molten Core activates each time this character’s Special Skill is cast:",
-            " * All enemies receive Corrosive Burn for 3 turns. With a fully charged Molten Core, the Corrosive Burn deals 326 Burn damage, and lowers the target’s defense by -12% each turn. Deals extra damage against heroes with Minions or a Mega Minion.",
-            " * The Burn damage is scaled by the amount of charge in the Core. All charge is exhausted when the Core is activated."
+            " * All enemies receive [##elementred]Corrosive Burn[#] for 3 turns. With a fully charged Molten Core, the [##elementred]Corrosive Burn[#] deals 326 [##elementred]Burn damage[#], and lowers the target’s defense by -12% each turn. Deals extra damage against heroes with Minions or a Mega Minion.",
+            " * The [##elementred]Burn damage[#] is scaled by the amount of charge in the Core. All charge is exhausted when the Core is activated."
         ]
     },
     {
         "originalIndex": 572,
         "name": "奥特 (Ott) C1",
         "passives": [
-            "Empowered Resist Burn: This character is immune to status ailments that deal Burn damage and gains 600 boosted health and 10% mana each time they resist.",
+            "Empowered Resist Burn: This character is immune to status ailments that deal [##elementred]Burn damage[#] and gains 600 boosted health and 10% mana each time they resist.",
             "Molten Core. This character has a Molten Core.",
             "The Molten Core activates each time this character’s Special Skill is cast:",
-            " * All enemies receive Corrosive Burn for 3 turns. With a fully charged Molten Core, the Corrosive Burn deals 354 Burn damage, and lowers the target’s defense by -13% each turn. Deals extra damage against heroes with Minions or a Mega Minion.",
-            " * The Burn damage is scaled by the amount of charge in the Core. All charge is exhausted when the Core is activated."
+            " * All enemies receive [##elementred]Corrosive Burn[#] for 3 turns. With a fully charged Molten Core, the [##elementred]Corrosive Burn[#] deals 354 [##elementred]Burn damage[#], and lowers the target’s defense by -13% each turn. Deals extra damage against heroes with Minions or a Mega Minion.",
+            " * The [##elementred]Burn damage[#] is scaled by the amount of charge in the Core. All charge is exhausted when the Core is activated."
         ]
     },
     {
@@ -4089,7 +4089,7 @@ const allTranslations =
         "passives": [
             "Minion Blind: All enemies’ Minions have -60% accuracy. All enemies’ Mega Minions have -50% accuracy.",
             "Resist Insanity: This character has innate resistance against Insanity.",
-            "Resist Attack Reduction: This character has innate resistance against status ailments, stacks and Wither effects that affect attack."
+            "Resist Attack Reduction: This character has innate resistance against status ailments, stacks and [#!]Wither[#] effects that affect attack."
         ]
     },
     {
@@ -4117,7 +4117,7 @@ const allTranslations =
         "name": "皮普 (Pip)",
         "passives": [
             "Resist Mana reduction: This character has an innate resistance against mana Reduction.",
-            "Guard Rally: Every 4 turns, removes all Wither effects from all allies."
+            "Guard Rally: Every 4 turns, removes all [#!]Wither[#] effects from all allies."
         ]
     },
     {
@@ -4313,7 +4313,7 @@ const allTranslations =
         "originalIndex": 602,
         "name": "孙二娘 (Sun Erniang)",
         "passives": [
-            "Health Boost on Critical Special Attack: When this character scores a critical hit with their Special Skill, they boost the health of all their allies by 10%. This effect can activate once per turn.",
+            "Health Boost on Critical Special Attack: When this character scores a [##elementred]critical[#] hit with their Special Skill, they boost the health of all their allies by 10%. This effect can activate once per turn.",
             "Righteous Rebellion: ",
             " * When this character’s Special Skill hits a character that had higher current HP, gain +20% boosted health.",
             " * When this character is hit by the Special Skill of a character that had higher current HP, gain +20% mana.",
@@ -4385,7 +4385,7 @@ const allTranslations =
             "This includes:",
             " * - Status effect buffs and ailments.",
             " * - Positive and negative stacks.",
-            " * - Growth and Wither effects."
+            " * - [#!]Growth[#] and [#!]Wither[#] effects."
         ]
     },
     {
@@ -4397,7 +4397,7 @@ const allTranslations =
         "originalIndex": 613,
         "name": "疯帽子 (The Hatter) C1",
         "passives": [
-            "Mindless Attack on Special Skill: When this character casts their Special Skill, they have a 50% chance to give Mindless Attack for 3 turns to a random enemy."
+            "[#!]Mindless Attack[#] on Special Skill: When this character casts their Special Skill, they have a 50% chance to give [#!]Mindless Attack[#] for 3 turns to a random enemy."
         ]
     },
     {
@@ -4406,7 +4406,7 @@ const allTranslations =
         "passives": [
             "Mana on Status Ailment Received: This character gains 5% mana when they receive a status ailment or negative stack.",
             "Resist Mana reduction: This character has an innate resistance against mana Reduction.",
-            "Guard Rally: Every 4 turns, removes all Wither effects from all allies."
+            "Guard Rally: Every 4 turns, removes all [#!]Wither[#] effects from all allies."
         ]
     },
     {
@@ -4418,7 +4418,7 @@ const allTranslations =
         "originalIndex": 616,
         "name": "托克斯坎德拉 (Toxicandra) C1",
         "passives": [
-            "Curse on Special Skill: When this character casts their Special Skill, all enemies receive 461 Curse damage over 4 turns, starting low and increasing every turn."
+            "Curse on Special Skill: When this character casts their Special Skill, all enemies receive 461 [#!]Curse damage[#] over 4 turns, starting low and increasing every turn."
         ]
     },
     {
@@ -4531,7 +4531,7 @@ const allTranslations =
         "originalIndex": 632,
         "name": "佐卡 (Zocc)",
         "passives": [
-            "Resist Water Damage: This character has an innate resistance against Water damage."
+            "Resist Water Damage: This character has an innate resistance against [##elementblue]Water damage[#]."
         ]
     },
     {
@@ -5419,7 +5419,7 @@ const allTranslations =
         "originalIndex": 766,
         "name": "晁盖 (Chao Gai)",
         "passives": [
-            "Cleanse on Critical Special Attack: When this character scores a critical hit with their Special Skill, they safely cleanse the latest cleansable status effect from all allies. This effect can activate once per turn.",
+            "Cleanse on Critical Special Attack: When this character scores a [##elementred]critical[#] hit with their Special Skill, they safely cleanse the latest cleansable status effect from all allies. This effect can activate once per turn.",
             "Righteous Rebellion: ",
             " * When this character’s Special Skill hits a character that had higher current HP, gain +20% boosted health.",
             " * When this character is hit by the Special Skill of a character that had higher current HP, gain +20% mana.",
@@ -5451,7 +5451,7 @@ const allTranslations =
         "originalIndex": 770,
         "name": "暗黑领主 (Dark Lord) C1",
         "passives": [
-            "Curse on Special Skill: When this character casts their Special Skill, all enemies receive 473 Curse damage over 4 turns, starting low and increasing every turn."
+            "Curse on Special Skill: When this character casts their Special Skill, all enemies receive 473 [#!]Curse damage[#] over 4 turns, starting low and increasing every turn."
         ]
     },
     {
@@ -5569,8 +5569,8 @@ const allTranslations =
             "Empowered Resist Burn: This character has innate resistance against Burn and gains 450 boosted heath and 5% mana each time they resist.",
             "Molten Core. This character has a Molten Core.",
             "The Molten Core activates each time this character’s Special Skill is cast:",
-            " * All enemies receive Corrosive Burn for 3 turns. With fully charged Molten Core, the Corrosive Burn deals 308 Burn damage, and lowers the target’s defense by -12% each turn. Deals extra damage against heroes with Minions or Mega Minions",
-            " * The Burn damage is scaled by the amount of charge in the Core. All charge is exhausted when the Core is activated."
+            " * All enemies receive [##elementred]Corrosive Burn[#] for 3 turns. With fully charged Molten Core, the [##elementred]Corrosive Burn[#] deals 308 [##elementred]Burn damage[#], and lowers the target’s defense by -12% each turn. Deals extra damage against heroes with Minions or Mega Minions",
+            " * The [##elementred]Burn damage[#] is scaled by the amount of charge in the Core. All charge is exhausted when the Core is activated."
         ]
     },
     {
@@ -5619,11 +5619,11 @@ const allTranslations =
         "passives": [
             "Perfect Accuracy: This character’s Special Skill never misses its targets.",
             "Mimic Loot: This Mimic gives a chance for extra loot when completing stages",
-            " * Common Dark Trainer Heroes",
-            " * Uncommon Dark Trainer Heroes",
-            " * Rare Dark Trainer Heroes",
-            " * Common Dark Heroes",
-            " * Uncommon Dark Heroes"
+            " * Common [##elementpurple]Dark[#] Trainer Heroes",
+            " * Uncommon [##elementpurple]Dark[#] Trainer Heroes",
+            " * Rare [##elementpurple]Dark[#] Trainer Heroes",
+            " * Common [##elementpurple]Dark[#] Heroes",
+            " * Uncommon [##elementpurple]Dark[#] Heroes"
         ]
     },
     {
@@ -5788,8 +5788,8 @@ const allTranslations =
             "Empowered Resist Burn: This character has innate resistance against Burn and gains 450 boosted health and 5% mana each time they resist.",
             "Molten Core. This character has a Molten Core.",
             "The Molten Core activates each time this character’s Special Skill is cast:",
-            " * All enemies receive Corrosive Burn for 3 turns. With fully charged Molten Core, the Corrosive Burn deals 312 Burn damage, and lowers the target’s defense by -12% each turn. Deals extra damage against heroes with Minions or Mega Minions",
-            " * The Burn damage is scaled by the amount of charge in the Core. All charge is exhausted when the Core is activated."
+            " * All enemies receive [##elementred]Corrosive Burn[#] for 3 turns. With fully charged Molten Core, the [##elementred]Corrosive Burn[#] deals 312 [##elementred]Burn damage[#], and lowers the target’s defense by -12% each turn. Deals extra damage against heroes with Minions or Mega Minions",
+            " * The [##elementred]Burn damage[#] is scaled by the amount of charge in the Core. All charge is exhausted when the Core is activated."
         ]
     },
     {
@@ -5834,7 +5834,7 @@ const allTranslations =
             "This includes:",
             " * Status effect buffs and ailments.",
             " * Positive and negative stacks.",
-            " * Growth and Wither effects."
+            " * [#!]Growth[#] and [#!]Wither[#] effects."
         ]
     },
     {
@@ -5846,7 +5846,7 @@ const allTranslations =
         "originalIndex": 819,
         "name": "炸脖龙 (Jabberwock) C1",
         "passives": [
-            "Mindless Attack On Special Skill: On Special Skill cast, 50% chance to inflict Mindless Attack on a random enemy for 3 turns."
+            "[#!]Mindless Attack[#] On Special Skill: On Special Skill cast, 50% chance to inflict [#!]Mindless Attack[#] on a random enemy for 3 turns."
         ]
     },
     {
@@ -5883,7 +5883,7 @@ const allTranslations =
         "originalIndex": 825,
         "name": "卡洛夫 (Karnov) C1",
         "passives": [
-            "Curse on Special Skill: When this character casts their Special Skill, all enemies receive 461 Curse damage over 4 turns, starting low and increasing every turn.      "
+            "Curse on Special Skill: When this character casts their Special Skill, all enemies receive 461 [#!]Curse damage[#] over 4 turns, starting low and increasing every turn.      "
         ]
     },
     {
@@ -6083,7 +6083,7 @@ const allTranslations =
         "name": "麦希 (Maisie)",
         "passives": [
             "Resist Mana reduction: This character has an innate resistance against mana Reduction.",
-            "Guard Rally: Every 4 turns, removes all Wither effects from all allies."
+            "Guard Rally: Every 4 turns, removes all [#!]Wither[#] effects from all allies."
         ]
     },
     {
@@ -6091,7 +6091,7 @@ const allTranslations =
         "name": "马利克纳 (Malicna)",
         "passives": [
             "Resist Health Steal Ailments: This character has innate resistance against status ailments that steal health.",
-            "Status Effect on Mana Reduction: This character gets +94% defense against Holy for 3 turns when their mana is reduced."
+            "Status Effect on Mana Reduction: This character gets +94% defense against [##elementyellow]Holy[#] for 3 turns when their mana is reduced."
         ]
     },
     {
@@ -6103,7 +6103,7 @@ const allTranslations =
         "originalIndex": 854,
         "name": "玛丽-特瑞莎 (Marie-Therese) C1",
         "passives": [
-            "Poison on Special Skill: When this character casts their Special Skill, all enemies receive 504 Poison damage over 4 turns."
+            "Poison on Special Skill: When this character casts their Special Skill, all enemies receive 504 [##elementpurple]Poison damage[#] over 4 turns."
         ]
     },
     {
@@ -6118,7 +6118,7 @@ const allTranslations =
             "This includes:",
             " * Status effect buffs and ailments.",
             " * Positive and negative stacks.",
-            " * Growth and Wither effects."
+            " * [#!]Growth[#] and [#!]Wither[#] effects."
         ]
     },
     {
@@ -6127,7 +6127,7 @@ const allTranslations =
         "passives": [
             "Minion Blind: All enemies’ Minions have -60% accuracy. All enemies’ Mega Minions have -50% accuracy.",
             "Resist Insanity: This character has innate resistance against Insanity.",
-            "Resist Attack Reduction: This character has innate resistance against status ailments, stacks and Wither effects that affect attack."
+            "Resist Attack Reduction: This character has innate resistance against status ailments, stacks and [#!]Wither[#] effects that affect attack."
         ]
     },
     {
@@ -6186,7 +6186,7 @@ const allTranslations =
         "originalIndex": 864,
         "name": "莫迪默 (Mortimer)",
         "passives": [
-            "Damage over time on Special: When this character casts their Special Skill, all enemies receive 202 Water damage over 2 turns.",
+            "Damage over time on Special: When this character casts their Special Skill, all enemies receive 202 [##elementblue]Water damage[#] over 2 turns.",
             "Resist Water Damage: This character has innate resistance against Water Damage."
         ]
     },
@@ -6288,7 +6288,7 @@ const allTranslations =
         "passives": [
             "Effects on Special Skill: 50% chance to perform the following actions when this character casts their Special Skill",
             " * Deals 80% damage to all enemies.",
-            " * All allies get +21% critical chance for 2 turns.",
+            " * All allies get +21% [##elementred]critical[#] chance for 2 turns.",
             "Resist Insanity: This character has innate resistance against Insanity."
         ]
     },
@@ -6298,7 +6298,7 @@ const allTranslations =
         "passives": [
             "Effects on Special Skill: 50% chance to perform the following actions when this character casts their Special Skill",
             " * Deals 80% damage to all enemies.",
-            " * All allies get +21% critical chance for 2 turns.",
+            " * All allies get +21% [##elementred]critical[#] chance for 2 turns.",
             "Resist Insanity: This character has innate resistance against Insanity."
         ]
     },
@@ -6390,7 +6390,7 @@ const allTranslations =
         "originalIndex": 895,
         "name": "马尾藻 (Sargasso) C1",
         "passives": [
-            "Poison on Special Skill: When this character casts their Special Skill, all enemies receive 476 Poison damage over 4 turns."
+            "Poison on Special Skill: When this character casts their Special Skill, all enemies receive 476 [##elementpurple]Poison damage[#] over 4 turns."
         ]
     },
     {
@@ -6449,14 +6449,14 @@ const allTranslations =
         "name": "森安 (Senan) C1",
         "passives": [
             "Resist Damage from Status Effects: This character has innate resistance against incoming damage from status effects.",
-            "Bleed on Special Skill: When this character casts their Special Skill, all enemies receive 544 Bleed damage over 4 turns."
+            "Bleed on Special Skill: When this character casts their Special Skill, all enemies receive 544 [##elementred]Bleed damage[#] over 4 turns."
         ]
     },
     {
         "originalIndex": 905,
         "name": "塞雷娜 (Serena)",
         "passives": [
-            "Damage over time on Special: When this character casts their Special Skill, all enemies receive 278 Water damage over 2 turns.",
+            "Damage over time on Special: When this character casts their Special Skill, all enemies receive 278 [##elementblue]Water damage[#] over 2 turns.",
             "Resist Water Damage: This character has innate resistance against Water Damage."
         ]
     },
@@ -6492,7 +6492,7 @@ const allTranslations =
             " * Deals 70% damage to all enemies.",
             " * All enemies get -24% mana generation for 3 turns.",
             "Extra Chance for Effects on Special Skill: When this character casts their Special Skill, any of their Passive Skills that grant extra effects on cast have 3 chances to activate.",
-            "Resist Sand Damage: This character has innate resistance against Sand damage."
+            "Resist Sand Damage: This character has innate resistance against [##elementyellow]Sand damage[#]."
         ]
     },
     {
@@ -6559,7 +6559,7 @@ const allTranslations =
         "passives": [
             "Resist Insanity: This character has innate resistance against Insanity.",
             "Mana on Status Ailment Received: This character gains 5% mana when they receive a status ailment or a negative stacks.",
-            "Resist Attack Reduction: This character has innate resistance against status ailments, stacks and Wither effects that affect attack."
+            "Resist Attack Reduction: This character has innate resistance against status ailments, stacks and [#!]Wither[#] effects that affect attack."
         ]
     },
     {
@@ -6568,7 +6568,7 @@ const allTranslations =
         "passives": [
             "Resist Special Skill Blocking: This character has innate resistance against status ailments that block Special Skill.",
             "Corrosive Core: The Construct Core of this character is Corrosive Core. The Corrosive Core activates each time this character’s Special Skill is cast:",
-            " * All enemies receive Corrosive Poison for 3 turns. With a fully charged Corrosive Core, the Corrosive Poision deals 140 Poison damage and lowers the target’s mana generation by -13% each turn. Deals extra damage against heroes with Minions or a Mega Minion.",
+            " * All enemies receive [##elementpurple]Corrosive Poison[#] for 3 turns. With a fully charged Corrosive Core, the Corrosive Poision deals 140 [##elementpurple]Poison damage[#] and lowers the target’s mana generation by -13% each turn. Deals extra damage against heroes with Minions or a Mega Minion.",
             " * The poison damage is scaled by the amount of charge in the Core. All charge is exhausted when the Core is activated."
         ]
     },
@@ -6599,8 +6599,8 @@ const allTranslations =
         "passives": [
             "Empowered Resist Frost: This character has innate resistance against Frost and gains 450 boosted health and 5% mana each time they resist.",
             "Arctic Core: The Arctic Core activates each time this character’s Special Skill is cast",
-            " * All enemies receive Corrosive Frost for 3 turns. With fully charged Arctic Core, the Corrosive Frost deals 331 Frost damage, and lowers the target’s attack by -15% each turn. Deals extra damage against heroes with Minions or a Mega Minion.",
-            " * The Frost damage is scaled by the amount of charge in the Core. All charge is exhausted when the Core is activated."
+            " * All enemies receive [##elementblue]Corrosive Frost[#] for 3 turns. With fully charged Arctic Core, the [##elementblue]Corrosive Frost[#] deals 331 [##elementblue]Frost damage[#], and lowers the target’s attack by -15% each turn. Deals extra damage against heroes with Minions or a Mega Minion.",
+            " * The [##elementblue]Frost damage[#] is scaled by the amount of charge in the Core. All charge is exhausted when the Core is activated."
         ]
     },
     {
@@ -6722,7 +6722,7 @@ const allTranslations =
         "name": "维奥莱特·波茨 (Violet Potts)",
         "passives": [
             "Resist Mana reduction: This character has an innate resistance against mana Reduction.",
-            "Guard Rally: Every 4 turns, removes all Wither effects from all allies."
+            "Guard Rally: Every 4 turns, removes all [#!]Wither[#] effects from all allies."
         ]
     },
     {
@@ -6788,7 +6788,7 @@ const allTranslations =
         "passives": [
             "Minion Blind: All enemies’ Minions have -60% accuracy. All enemies’ Mega Minions have -50% accuracy.",
             "Resist Insanity: This character has innate resistance against Insanity.",
-            "Resist Attack Reduction: This character has innate resistance against status ailments, stacks and Wither effects that affect attack."
+            "Resist Attack Reduction: This character has innate resistance against status ailments, stacks and [#!]Wither[#] effects that affect attack."
         ]
     },
     {
@@ -6803,7 +6803,7 @@ const allTranslations =
         "originalIndex": 949,
         "name": "祖拉格 (Zulag)",
         "passives": [
-            "Resist Sand Damage: This character has innate resistance against Sand damage."
+            "Resist Sand Damage: This character has innate resistance against [##elementyellow]Sand damage[#]."
         ]
     },
     {
@@ -6959,22 +6959,22 @@ const allTranslations =
         "originalIndex": 974,
         "name": "赫尔吉 (Helgi)",
         "passives": [
-            "Empowered Resist Burn: This character is immune to status ailments that deal Burn damage and gains 450 boosted health and 5% mana each time they resist.",
+            "Empowered Resist Burn: This character is immune to status ailments that deal [##elementred]Burn damage[#] and gains 450 boosted health and 5% mana each time they resist.",
             "Molten Core. This character has a Molten Core.",
             "The Molten Core activates each time this character’s Special Skill is cast:",
-            " * All enemies receive Corrosive Burn for 3 turns. With fully charged Molten Core, the Corrosive Burn deals 147 Burn damage, and lowers the target’s defense by -12% each turn. Deals extra damage against heroes with Minions or Mega Minions",
-            " * The Burn damage is scaled by the amount of charge in the Core. All charge is exhausted when the Core is activated."
+            " * All enemies receive [##elementred]Corrosive Burn[#] for 3 turns. With fully charged Molten Core, the [##elementred]Corrosive Burn[#] deals 147 [##elementred]Burn damage[#], and lowers the target’s defense by -12% each turn. Deals extra damage against heroes with Minions or Mega Minions",
+            " * The [##elementred]Burn damage[#] is scaled by the amount of charge in the Core. All charge is exhausted when the Core is activated."
         ]
     },
     {
         "originalIndex": 975,
         "name": "赫尔吉 (Helgi) C1",
         "passives": [
-            "Empowered Resist Burn: This character is immune to status ailments that deal Burn damage and gains 600 boosted health and 10% mana each time they resist.",
+            "Empowered Resist Burn: This character is immune to status ailments that deal [##elementred]Burn damage[#] and gains 600 boosted health and 10% mana each time they resist.",
             "Molten Core. This character has a Molten Core.",
             "The Molten Core activates each time this character’s Special Skill is cast:",
-            " * All enemies receive Corrosive Burn for 3 turns. With a fully charged Molten Core, the Corrosive Burn deals 170 Burn damage, and lowers the target’s defense by -13% each turn. Deals extra damage against heroes with Minions or a Mega Minion.",
-            " * The Burn damage is scaled by the amount of charge in the Core. All charge is exhausted when the Core is activated."
+            " * All enemies receive [##elementred]Corrosive Burn[#] for 3 turns. With a fully charged Molten Core, the [##elementred]Corrosive Burn[#] deals 170 [##elementred]Burn damage[#], and lowers the target’s defense by -13% each turn. Deals extra damage against heroes with Minions or a Mega Minion.",
+            " * The [##elementred]Burn damage[#] is scaled by the amount of charge in the Core. All charge is exhausted when the Core is activated."
         ]
     },
     {
@@ -7017,7 +7017,7 @@ const allTranslations =
         "originalIndex": 982,
         "name": "刘唐 (Liu Tang)",
         "passives": [
-            "Cleanse on Critical Special Attack: When this character scores a critical hit with their Special Skill, they safely cleanse the latest cleansable status effect from all allies. This effect can activate once per turn.",
+            "Cleanse on Critical Special Attack: When this character scores a [##elementred]critical[#] hit with their Special Skill, they safely cleanse the latest cleansable status effect from all allies. This effect can activate once per turn.",
             "Righteous Rebellion: ",
             " * When this character’s Special Skill hits a character that had higher current HP, gain +20% boosted health.",
             " * When this character is hit by the Special Skill of a character that had higher current HP, gain +20% mana.",
@@ -7273,7 +7273,7 @@ const allTranslations =
         "originalIndex": 1023,
         "name": "伊潭 (Itham)",
         "passives": [
-            "Damage over time on Special: When this character casts their Special Skill, all enemies receive 160 Water damage over 2 turns.",
+            "Damage over time on Special: When this character casts their Special Skill, all enemies receive 160 [##elementblue]Water damage[#] over 2 turns.",
             "Resist Water Damage: This character has innate resistance against Water  Damage."
         ]
     },
@@ -7548,8 +7548,8 @@ const allTranslations =
             "Empowered Resist Burn: This character has innate resistance against Burn and gains 450 boosted health and 5% mana each time they resist.",
             "Molten Core. This character has a Molten Core.",
             "The Molten Core activates each time this character’s Special Skill is cast:",
-            " * All enemies receive Corrosive Burn for 3 turns. With fully charged Molten Core, the Corrosive Burn deals 312 Burn damage, and lowers the target’s defense by -12% each turn. Deals extra damage against heroes with Minions or Mega Minions",
-            " * The Burn damage is scaled by the amount of charge in the Core. All charge is exhausted when the Core is activated."
+            " * All enemies receive [##elementred]Corrosive Burn[#] for 3 turns. With fully charged Molten Core, the [##elementred]Corrosive Burn[#] deals 312 [##elementred]Burn damage[#], and lowers the target’s defense by -12% each turn. Deals extra damage against heroes with Minions or Mega Minions",
+            " * The [##elementred]Burn damage[#] is scaled by the amount of charge in the Core. All charge is exhausted when the Core is activated."
         ]
     },
     {
@@ -7577,7 +7577,7 @@ const allTranslations =
         "originalIndex": 1067,
         "name": "安迪·杰 (Andy Jay)",
         "passives": [
-            "Damage over time on Special: When this character casts their Special Skill, all enemies receive 292 Water damage over 2 turns.",
+            "Damage over time on Special: When this character casts their Special Skill, all enemies receive 292 [##elementblue]Water damage[#] over 2 turns.",
             "Resist Water Damage: This character has innate resistance against Water Damage."
         ]
     },
@@ -7601,7 +7601,7 @@ const allTranslations =
         "passives": [
             "Minion Blind: All enemies’ Minions have -60% accuracy. All enemies’ Mega Minions have -50% accuracy.",
             "Resist Insanity: This character has innate resistance against Insanity.",
-            "Resist Attack Reduction: This character has innate resistance against status ailments, stacks and Wither effects that affect attack."
+            "Resist Attack Reduction: This character has innate resistance against status ailments, stacks and [#!]Wither[#] effects that affect attack."
         ]
     },
     {
@@ -7921,7 +7921,7 @@ const allTranslations =
         "name": "迪马 (Dima)",
         "passives": [
             "Resist Mana reduction: This character has an innate resistance against mana reduction.",
-            "Guard Rally: Every 4 turns, removes all Wither effects from all allies."
+            "Guard Rally: Every 4 turns, removes all [#!]Wither[#] effects from all allies."
         ]
     },
     {
@@ -8028,7 +8028,7 @@ const allTranslations =
         "name": "埃利亚涅 (Eliane)",
         "passives": [
             "Resist Burn: This character has innate resistance against Burn.",
-            "Mana on Burn: This character gains 5% mana each time an enemy receives Burn damage."
+            "Mana on Burn: This character gains 5% mana each time an enemy receives [##elementred]Burn damage[#]."
         ]
     },
     {
@@ -8105,11 +8105,11 @@ const allTranslations =
         "passives": [
             "Perfect Accuracy: This character’s Special Skill never misses its targets.",
             "Mimic Loot: This Mimic gives a chance for extra loot when completing stages",
-            " * Common Fire Trainer Heroes",
-            " * Uncommon Fire Trainer Heroes",
-            " * Rare Fire Trainer Heroes",
-            " * Common Fire Heroes",
-            " * Uncommon Fire Heroes"
+            " * Common [##elementred]Fire[#] Trainer Heroes",
+            " * Uncommon [##elementred]Fire[#] Trainer Heroes",
+            " * Rare [##elementred]Fire[#] Trainer Heroes",
+            " * Common [##elementred]Fire[#] Heroes",
+            " * Uncommon [##elementred]Fire[#] Heroes"
         ]
     },
     {
@@ -8118,8 +8118,8 @@ const allTranslations =
         "passives": [
             "Empowered Resist Frost: This character has innate resistance against Frost and gains 450 boosted health and 5% mana each time they resist.",
             "Arctic Core: The Arctic Core activates each time this character’s Special Skill is cast",
-            " * All enemies receive Corrosive Frost for 3 turns. With fully charged Arctic Core, the Corrosive Frost deals 338 Frost damage, and lowers the target’s attack by -15% each turn. Deals extra damage against heroes with Minions or a Mega Minion.",
-            " * The Frost damage is scaled by the amount of charge in the Core. All charge is exhausted when the Core is activated."
+            " * All enemies receive [##elementblue]Corrosive Frost[#] for 3 turns. With fully charged Arctic Core, the [##elementblue]Corrosive Frost[#] deals 338 [##elementblue]Frost damage[#], and lowers the target’s attack by -15% each turn. Deals extra damage against heroes with Minions or a Mega Minion.",
+            " * The [##elementblue]Frost damage[#] is scaled by the amount of charge in the Core. All charge is exhausted when the Core is activated."
         ]
     },
     {
@@ -8127,7 +8127,7 @@ const allTranslations =
         "name": "炎皮 (Flamehide)",
         "passives": [
             "Resist Mana reduction: This character has an innate resistance against mana reduction.",
-            "Guard Rally: Every 4 turns, removes all Wither effects from all allies."
+            "Guard Rally: Every 4 turns, removes all [#!]Wither[#] effects from all allies."
         ]
     },
     {
@@ -8135,14 +8135,14 @@ const allTranslations =
         "name": "飞力普 (Flip)",
         "passives": [
             "Resist Water Damage: This character has innate resistance against Water Damage.",
-            "Damage over time on Special: When this character casts their Special Skill, all enemies receive 200 Water damage over 2 turns."
+            "Damage over time on Special: When this character casts their Special Skill, all enemies receive 200 [##elementblue]Water damage[#] over 2 turns."
         ]
     },
     {
         "originalIndex": 1140,
         "name": "飞力普 (Flip) C1",
         "passives": [
-            "Damage over time on Special: When this character casts their Special Skill, all enemies receive 272 Water damage over 2 turns.",
+            "Damage over time on Special: When this character casts their Special Skill, all enemies receive 272 [##elementblue]Water damage[#] over 2 turns.",
             "Resist Water Damage: This character has innate resistance against Water Damage."
         ]
     },
@@ -8294,7 +8294,7 @@ const allTranslations =
         "name": "亚莱斯 (Iarlaith)",
         "passives": [
             "Resist Mana reduction: This character has an innate resistance against mana Reduction.",
-            "Guard Rally: Every 4 turns, removes all Wither effects from all allies."
+            "Guard Rally: Every 4 turns, removes all [#!]Wither[#] effects from all allies."
         ]
     },
     {
@@ -8338,7 +8338,7 @@ const allTranslations =
         "name": "约坎塔 (Iocantha)",
         "passives": [
             "Resist Mana reduction: This character has an innate resistance against mana Reduction.",
-            "Guard Rally: Every 4 turns, removes all Wither effects from all allies."
+            "Guard Rally: Every 4 turns, removes all [#!]Wither[#] effects from all allies."
         ]
     },
     {
@@ -8397,7 +8397,7 @@ const allTranslations =
         "passives": [
             "Effects on Special Skill: 70% chance to perform the following actions when this character casts their Special Skill",
             " * Deals 70% damage to all enemies.",
-            " * All enemies receive 243 Sand damage over 3 turns."
+            " * All enemies receive 243 [##elementyellow]Sand damage[#] over 3 turns."
         ]
     },
     {
@@ -8406,7 +8406,7 @@ const allTranslations =
         "passives": [
             "Effects on Special Skill: 70% chance to perform the following actions when this character casts their Special Skill",
             " * Deals 70% damage to all enemies.",
-            " * All enemies receive 366 Sand damage over 3 turns.",
+            " * All enemies receive 366 [##elementyellow]Sand damage[#] over 3 turns.",
             "Extra Chance for Effects On Special Skill: When this character casts their Special Skill, any of their Passive Skills that grant extra effects on cast have 3 chances to activate.",
             "Increased Special Skill Damage: The first time this character casts a Special Skill that deals damage, an additional 50% is added to its power."
         ]
@@ -8442,7 +8442,7 @@ const allTranslations =
         "passives": [
             "Effects on Special Skill: 50% chance to perform the following actions when this character casts their Special Skill",
             " * Deals 80% damage to all enemies.",
-            " * All allies get +21% critical chance for 2 turns.",
+            " * All allies get +21% [##elementred]critical[#] chance for 2 turns.",
             "Resist Insanity: This character has innate resistance against Insanity."
         ]
     },
@@ -8452,7 +8452,7 @@ const allTranslations =
         "passives": [
             "Effects on Special Skill: 50% chance to perform the following actions when this character casts their Special Skill",
             " * Deals 80% damage to all enemies.",
-            " * All allies get +21% critical chance for 2 turns.",
+            " * All allies get +21% [##elementred]critical[#] chance for 2 turns.",
             "Resist Insanity: This character has innate resistance against Insanity."
         ]
     },
@@ -8465,7 +8465,7 @@ const allTranslations =
         "originalIndex": 1184,
         "name": "李逵 (Li Kui)",
         "passives": [
-            "Cleanse on Critical Special Attack: When this character scores a critical hit with their Special Skill, they safely cleanse the latest cleansable status effect from all allies. This effect can activate once per turn.",
+            "Cleanse on Critical Special Attack: When this character scores a [##elementred]critical[#] hit with their Special Skill, they safely cleanse the latest cleansable status effect from all allies. This effect can activate once per turn.",
             "Righteous Rebellion: ",
             " * When this character’s Special Skill hits a character that had higher current HP, gain +20% boosted health.",
             " * When this character is hit by the Special Skill of a character that had higher current HP, gain +20% mana.",
@@ -8484,7 +8484,7 @@ const allTranslations =
         "originalIndex": 1186,
         "name": "鲁智深 (Lu Zhishen)",
         "passives": [
-            "Health Boost on Critical Special Attack: When this character scores a critical hit with their Special Skill, they boost the health of all their allies by 10%. This effect can activate once per turn.",
+            "Health Boost on Critical Special Attack: When this character scores a [##elementred]critical[#] hit with their Special Skill, they boost the health of all their allies by 10%. This effect can activate once per turn.",
             "Righteous Rebellion: ",
             " * When this character’s Special Skill hits a character that had higher current HP, gain +20% boosted health.",
             " * When this character is hit by the Special Skill of a character that had higher current HP, gain +20% mana.",
@@ -8601,7 +8601,7 @@ const allTranslations =
         "originalIndex": 1202,
         "name": "尼马 (Neema)",
         "passives": [
-            "Ignore Taunt: This character’s Special Skill is not affected by Taunt.",
+            "Ignore [##elementred]Taunt[#]: This character’s Special Skill is not affected by [##elementred]Taunt[#].",
             "Resist Special Skill Blocking: This character has innate resistance against status ailments that block Special Skills."
         ]
     },
@@ -8642,8 +8642,8 @@ const allTranslations =
         "name": "诺曼 (Norman)",
         "passives": [
             "Mana Buff on Status Ailment Received: The character with this skill receives +24% mana generation for 3 turns when they receive any status ailment or a negative stack.",
-            "Mana on Taunt: Each time an enemy receives Taunt status effect this character’s mana is increased by 10%.",
-            "Ignore Taunt: The character’s Special Skill is not affected by Taunt."
+            "Mana on [##elementred]Taunt[#]: Each time an enemy receives [##elementred]Taunt[#] status effect this character’s mana is increased by 10%.",
+            "Ignore [##elementred]Taunt[#]: The character’s Special Skill is not affected by [##elementred]Taunt[#]."
         ]
     },
     {
@@ -8735,7 +8735,7 @@ const allTranslations =
         "originalIndex": 1221,
         "name": "红桃王后 (Queen of Hearts) C1",
         "passives": [
-            "Mindless Attack On Special Skill: On Special Skill cast, 50% chance to inflict Mindless Attack on a random enemy for 3 turns."
+            "[#!]Mindless Attack[#] On Special Skill: On Special Skill cast, 50% chance to inflict [#!]Mindless Attack[#] on a random enemy for 3 turns."
         ]
     },
     {
@@ -8750,7 +8750,7 @@ const allTranslations =
             "This includes:",
             " * - Status effect buffs and ailments.",
             " * - Positive and negative stacks.",
-            " * - Growth and Wither effects."
+            " * - [#!]Growth[#] and [#!]Wither[#] effects."
         ]
     },
     {
@@ -8786,22 +8786,22 @@ const allTranslations =
         "originalIndex": 1227,
         "name": "雷金 (Regin)",
         "passives": [
-            "Empowered Resist Burn: This character is immune to status ailments that deal Burn damage and gains 450 boosted health and 5% mana each time they resist.",
+            "Empowered Resist Burn: This character is immune to status ailments that deal [##elementred]Burn damage[#] and gains 450 boosted health and 5% mana each time they resist.",
             "Molten Core. This character has a Molten Core.",
             "The Molten Core activates each time this character’s Special Skill is cast:",
-            " * All enemies receive Corrosive Burn for 3 turns. With a fully charged Molten Core, the Corrosive Burn deals 341 Burn damage, and lowers the target’s defense by -12% each turn. Deals extra damage against heroes with Minions or Mega Minions",
-            " * The Burn damage is scaled by the amount of charge in the Core. All charge is exhausted when the Core is activated."
+            " * All enemies receive [##elementred]Corrosive Burn[#] for 3 turns. With a fully charged Molten Core, the [##elementred]Corrosive Burn[#] deals 341 [##elementred]Burn damage[#], and lowers the target’s defense by -12% each turn. Deals extra damage against heroes with Minions or Mega Minions",
+            " * The [##elementred]Burn damage[#] is scaled by the amount of charge in the Core. All charge is exhausted when the Core is activated."
         ]
     },
     {
         "originalIndex": 1228,
         "name": "雷金 (Regin) C1",
         "passives": [
-            "Empowered Resist Burn: This character is immune to status ailments that deal Burn damage and gains 600 boosted health and 10% mana each time they resist.",
+            "Empowered Resist Burn: This character is immune to status ailments that deal [##elementred]Burn damage[#] and gains 600 boosted health and 10% mana each time they resist.",
             "Molten Core. This character has a Molten Core.",
             "The Molten Core activates each time this character’s Special Skill is cast:",
-            " * All enemies receive Corrosive Burn for 3 turns. With a fully charged Molten Core, the Corrosive Burn deals 376 Burn damage, and lowers the target’s defense by -13% each turn. Deals extra damage against heroes with Minions or a Mega Minion.",
-            " * The Burn damage is scaled by the amount of charge in the Core. All charge is exhausted when the Core is activated."
+            " * All enemies receive [##elementred]Corrosive Burn[#] for 3 turns. With a fully charged Molten Core, the [##elementred]Corrosive Burn[#] deals 376 [##elementred]Burn damage[#], and lowers the target’s defense by -13% each turn. Deals extra damage against heroes with Minions or a Mega Minion.",
+            " * The [##elementred]Burn damage[#] is scaled by the amount of charge in the Core. All charge is exhausted when the Core is activated."
         ]
     },
     {
@@ -8868,7 +8868,7 @@ const allTranslations =
         "name": "拉塞尔 (Russell)",
         "passives": [
             "Resist Attack Ailments: This character has innate resistance against status ailments that affect Attack.",
-            "Mana on Burn: This character gains 5% mana each time an enemy receives Burn damage."
+            "Mana on Burn: This character gains 5% mana each time an enemy receives [##elementred]Burn damage[#]."
         ]
     },
     {
@@ -8895,7 +8895,7 @@ const allTranslations =
         "originalIndex": 1241,
         "name": "圣诞老人 (Santa Claus) C1",
         "passives": [
-            "Frost on Minion Hit: Each hit from the Minions owned by the Hero inflicts 264 Frost damage over 4 turns."
+            "Frost on Minion Hit: Each hit from the Minions owned by the Hero inflicts 264 [##elementblue]Frost damage[#] over 4 turns."
         ]
     },
     {
@@ -8910,7 +8910,7 @@ const allTranslations =
         "name": "西尔莎 (Saoirse) C1",
         "passives": [
             "Resist Damage from Status Effects: This charater has innate resistance against incoming damage from status effects.",
-            "Bleed on Special Skill: When this character casts their Special Skill, all enemies receive 452 Bleed damage over 4 turns."
+            "Bleed on Special Skill: When this character casts their Special Skill, all enemies receive 452 [##elementred]Bleed damage[#] over 4 turns."
         ]
     },
     {
@@ -8919,7 +8919,7 @@ const allTranslations =
         "passives": [
             "Resist Special Skill Blocking: This character has innate resistance against status ailments that block Special Skill.",
             "Corrosive Core: The Construct Core of this character is Corrosive Core. The Corrosive Core activates each time this character’s Special Skill is cast:",
-            " * All enemies receive Corrosive Poison for 3 turns. With a fully charged Corrosive Core, the Corrosive Poision deals 146 Poison damage and lowers the target’s mana generation by -13% each turn. Deals extra damage against heroes with Minions or Mega Minions.",
+            " * All enemies receive [##elementpurple]Corrosive Poison[#] for 3 turns. With a fully charged Corrosive Core, the Corrosive Poision deals 146 [##elementpurple]Poison damage[#] and lowers the target’s mana generation by -13% each turn. Deals extra damage against heroes with Minions or Mega Minions.",
             " * The poison damage is scaled by the amount of charge in the Core. All charge is exhausted when the Core is activated."
         ]
     },
@@ -9072,7 +9072,7 @@ const allTranslations =
         "passives": [
             "Resist Mana reduction: This character has an innate resistance against mana Reduction.",
             "Mana on Status Ailment Received: This character gains 5% mana when they receive a status ailment or negative stack.",
-            "Guard Rally: Every 4 turns, removes all Wither effects from all allies."
+            "Guard Rally: Every 4 turns, removes all [#!]Wither[#] effects from all allies."
         ]
     },
     {
@@ -9119,7 +9119,7 @@ const allTranslations =
         "name": "阳舞 (Yang Mai)",
         "passives": [
             "Status effect on mana reduction: The caster gets +30% attack for 3 turns when their mana is reduced.",
-            "Resist water damage: This character has innate resistance against Water damage."
+            "Resist water damage: This character has innate resistance against [##elementblue]Water damage[#]."
         ]
     },
     {
@@ -9128,7 +9128,7 @@ const allTranslations =
         "passives": [
             "Minion Blind: All enemies’ Minions have -60% accuracy. All enemies’ Mega Minions have -50% accuracy.",
             "Resist Insanity: This character has innate resistance against Insanity.",
-            "Resist Attack Reduction: This character has innate resistance against status ailments, stacks and Wither effects that affect attack."
+            "Resist Attack Reduction: This character has innate resistance against status ailments, stacks and [#!]Wither[#] effects that affect attack."
         ]
     },
     {
@@ -9143,8 +9143,8 @@ const allTranslations =
         "originalIndex": 1273,
         "name": "扎尔加 (Zarga)",
         "passives": [
-            "Heal on Bleed: This character regenerates 50 HP each time an enemy receives Bleed damage.",
-            "Mana on Bleed: This character receives 8% mana each time an enemy receives Bleed damage."
+            "Heal on Bleed: This character regenerates 50 HP each time an enemy receives [##elementred]Bleed damage[#].",
+            "Mana on Bleed: This character receives 8% mana each time an enemy receives [##elementred]Bleed damage[#]."
         ]
     },
     {
@@ -9185,7 +9185,7 @@ const allTranslations =
         "originalIndex": 1278,
         "name": "齐丹 (Zidane)",
         "passives": [
-            "Increased Attack per Non-Fire Enemy: At the start of each battle, this character’s attack is increased by +5% for every enemy that is not of Fire element. In battles with multiple waves, the effect is refreshed at the beginning of each wave.",
+            "Increased Attack per Non-[##elementred]Fire[#] Enemy: At the start of each battle, this character’s attack is increased by +5% for every enemy that is not of [##elementred]Fire[#] element. In battles with multiple waves, the effect is refreshed at the beginning of each wave.",
             "Resist Buff Immunity: This character has innate resistance against ailments that give immunity to new buffs."
         ]
     },
@@ -9311,7 +9311,7 @@ const allTranslations =
         "originalIndex": 1300,
         "name": "多拉克 (Dolrak)",
         "passives": [
-            "Damage over time on Special: When this character casts their Special Skill, all enemies receive 124 Water damage over 2 turns.",
+            "Damage over time on Special: When this character casts their Special Skill, all enemies receive 124 [##elementblue]Water damage[#] over 2 turns.",
             "Resist Water Damage: This character has innate resistance against Water Damage."
         ]
     },
@@ -9376,7 +9376,7 @@ const allTranslations =
         "passives": [
             "Effects on Special Skill: 50% chance to perform the following actions when this character casts their Special Skill",
             " * Deals 80% damage to all enemies.",
-            " * All allies get +21% critical chance for 2 turns."
+            " * All allies get +21% [##elementred]critical[#] chance for 2 turns."
         ]
     },
     {
@@ -9385,7 +9385,7 @@ const allTranslations =
         "passives": [
             "Effects on Special Skill: 50% chance to perform the following actions when this character casts their Special Skill",
             " * Deals 80% damage to all enemies.",
-            " * All allies get +21% critical chance for 3 turns.",
+            " * All allies get +21% [##elementred]critical[#] chance for 3 turns.",
             "Resist Insanity: This character has an innate resistance against Insanity."
         ]
     },
@@ -9519,7 +9519,7 @@ const allTranslations =
         "passives": [
             "Minion Blind: All enemies’ Minions have -60% accuracy. All enemies’ Mega Minions have -50% accuracy.",
             "Resist Insanity: This character has innate resistance against Insanity.",
-            "Resist Defense Reduction: This character has innate resistance against status ailments, stacks and Wither effects that affect defense."
+            "Resist Defense Reduction: This character has innate resistance against status ailments, stacks and [#!]Wither[#] effects that affect defense."
         ]
     },
     {
@@ -9618,22 +9618,22 @@ const allTranslations =
         "originalIndex": 1345,
         "name": "菲亚拉尔 (Fjalar)",
         "passives": [
-            "Empowered Resist Burn: This character is immune to status ailments that deal Burn damage and gains 450 boosted health and 5% mana each time they resist.",
+            "Empowered Resist Burn: This character is immune to status ailments that deal [##elementred]Burn damage[#] and gains 450 boosted health and 5% mana each time they resist.",
             "Molten Core. This character has a Molten Core.",
             "The Molten Core activates each time this character’s Special Skill is cast:",
-            " * All enemies receive Corrosive Burn for 3 turns. With fully charged Molten Core, the Corrosive Burn deals 193 Burn damage, and lowers the target’s defense by -12% each turn. Deals extra damage against heroes with Minions or Mega Minions",
-            " * The Burn damage is scaled by the amount of charge in the Core. All charge is exhausted when the Core is activated."
+            " * All enemies receive [##elementred]Corrosive Burn[#] for 3 turns. With fully charged Molten Core, the [##elementred]Corrosive Burn[#] deals 193 [##elementred]Burn damage[#], and lowers the target’s defense by -12% each turn. Deals extra damage against heroes with Minions or Mega Minions",
+            " * The [##elementred]Burn damage[#] is scaled by the amount of charge in the Core. All charge is exhausted when the Core is activated."
         ]
     },
     {
         "originalIndex": 1346,
         "name": "菲亚拉尔 (Fjalar) C1",
         "passives": [
-            "Empowered Resist Burn: This character is immune to status ailments that deal Burn damage and gains 600 boosted health and 10% mana each time they resist.",
+            "Empowered Resist Burn: This character is immune to status ailments that deal [##elementred]Burn damage[#] and gains 600 boosted health and 10% mana each time they resist.",
             "Molten Core. This character has a Molten Core.",
             "The Molten Core activates each time this character’s Special Skill is cast:",
-            " * All enemies receive Corrosive Burn for 3 turns. With a fully charged Molten Core, the Corrosive Burn deals 238 Burn damage, and lowers the target’s defense by -13% each turn. Deals extra damage against heroes with Minions or a Mega Minion.",
-            " * The Burn damage is scaled by the amount of charge in the Core. All charge is exhausted when the Core is activated."
+            " * All enemies receive [##elementred]Corrosive Burn[#] for 3 turns. With a fully charged Molten Core, the [##elementred]Corrosive Burn[#] deals 238 [##elementred]Burn damage[#], and lowers the target’s defense by -13% each turn. Deals extra damage against heroes with Minions or a Mega Minion.",
+            " * The [##elementred]Burn damage[#] is scaled by the amount of charge in the Core. All charge is exhausted when the Core is activated."
         ]
     },
     {
@@ -9668,7 +9668,7 @@ const allTranslations =
         "originalIndex": 1351,
         "name": "顾大嫂 (Gu Dasao)",
         "passives": [
-            "Cleanse on Critical Special Attack: When this character scores a critical hit with their Special Skill, they safely cleanse the latest cleansable status effect from all allies. This effect can activate once per turn.",
+            "Cleanse on Critical Special Attack: When this character scores a [##elementred]critical[#] hit with their Special Skill, they safely cleanse the latest cleansable status effect from all allies. This effect can activate once per turn.",
             "Righteous Rebellion: ",
             " * When this character’s Special Skill hits a character that had higher current HP, gain +20% boosted health.",
             " * When this character is hit by the Special Skill of a character that had higher current HP, gain +20% mana.",
@@ -10009,8 +10009,8 @@ const allTranslations =
         "passives": [
             "Empowered Resist Frost: This character has innate resistance against Frost and gains 450 boosted heath and 5% mana each time they resist.",
             "Arctic Core: The Arctic Core activates each time this character’s Special Skill is cast",
-            " * All enemies receive Corrosive Frost for 3 turns. With fully charged Arctic Core, the Corrosive Frost deals 343 Frost damage and lowers the target’s attack by -15% each turn. Deals extra damage against heroes with Minions or a Mega Minion.",
-            " * The Frost damage is scaled by the amount of charge in the Core. All charge is exhausted when the Core is activated."
+            " * All enemies receive [##elementblue]Corrosive Frost[#] for 3 turns. With fully charged Arctic Core, the [##elementblue]Corrosive Frost[#] deals 343 [##elementblue]Frost damage[#] and lowers the target’s attack by -15% each turn. Deals extra damage against heroes with Minions or a Mega Minion.",
+            " * The [##elementblue]Frost damage[#] is scaled by the amount of charge in the Core. All charge is exhausted when the Core is activated."
         ]
     },
     {
@@ -10025,7 +10025,7 @@ const allTranslations =
         "name": "凯特琳 (Caitlin) C1",
         "passives": [
             "Resist Damage from Status Effects: This charater has innate resistance against incoming damage from status effects.",
-            "Bleed on Special Skill: When this character casts their Special Skill, all enemies receive 528 Bleed damage over 4 turns."
+            "Bleed on Special Skill: When this character casts their Special Skill, all enemies receive 528 [##elementred]Bleed damage[#] over 4 turns."
         ]
     },
     {
@@ -10153,7 +10153,7 @@ const allTranslations =
         "passives": [
             "Effects on Special Skill: 50% chance to perform the following actions when this character casts their Special Skill",
             " * Deals 80% damage to all enemies.",
-            " * All allies get +21% critical chance for 2 turns."
+            " * All allies get +21% [##elementred]critical[#] chance for 2 turns."
         ]
     },
     {
@@ -10162,7 +10162,7 @@ const allTranslations =
         "passives": [
             "Effects on Special Skill: 50% chance to perform the following actions when this character casts their Special Skill",
             " * Deals 80% damage to all enemies.",
-            " * All allies get +21% critical chance for 2 turns.",
+            " * All allies get +21% [##elementred]critical[#] chance for 2 turns.",
             "Resist Insanity: This character has innate resistance against Insanity."
         ]
     },
@@ -10197,11 +10197,11 @@ const allTranslations =
         "passives": [
             "Perfect Accuracy: This character’s Special Skill never misses its targets.",
             "Mimic Loot: This Mimic gives a chance for extra loot when completing stages",
-            " * Common Holy Trainer Heroes",
-            " * Uncommon Holy Trainer Heroes",
-            " * Rare Holy Trainer Heroes",
-            " * Common Holy Heroes",
-            " * Uncommon Holy Heroes"
+            " * Common [##elementyellow]Holy[#] Trainer Heroes",
+            " * Uncommon [##elementyellow]Holy[#] Trainer Heroes",
+            " * Rare [##elementyellow]Holy[#] Trainer Heroes",
+            " * Common [##elementyellow]Holy[#] Heroes",
+            " * Uncommon [##elementyellow]Holy[#] Heroes"
         ]
     },
     {
@@ -10222,7 +10222,7 @@ const allTranslations =
         "name": "弗兰克·\"獠牙\"·布林威尔 (Frank 'Fangs' Brimwell)",
         "passives": [
             "Resist Mana reduction: This character has an innate resistance against mana Reduction.",
-            "Guard Rally: Every 4 turns, removes all Wither effects from all allies."
+            "Guard Rally: Every 4 turns, removes all [#!]Wither[#] effects from all allies."
         ]
     },
     {
@@ -10247,15 +10247,15 @@ const allTranslations =
             "Empowered Resist Burn: This character has innate resistance against Burn and gains 450 boosted heath and 5% mana each time they resist.",
             "Molten Core. This character has a Molten Core.",
             "The Molten Core activates each time this character’s Special Skill is cast:",
-            " * All enemies receive Corrosive Burn for 3 turns. With fully charged Molten Core, the Corrosive Burn deals 315 Burn damage, and lowers the target’s defense by -12% each turn. Deals extra damage against heroes with Minions or Mega Minions",
-            " * The Burn damage is scaled by the amount of charge in the Core. All charge is exhausted when the Core is activated."
+            " * All enemies receive [##elementred]Corrosive Burn[#] for 3 turns. With fully charged Molten Core, the [##elementred]Corrosive Burn[#] deals 315 [##elementred]Burn damage[#], and lowers the target’s defense by -12% each turn. Deals extra damage against heroes with Minions or Mega Minions",
+            " * The [##elementred]Burn damage[#] is scaled by the amount of charge in the Core. All charge is exhausted when the Core is activated."
         ]
     },
     {
         "originalIndex": 1430,
         "name": "基迪恩 (Gideon)",
         "passives": [
-            "Resist Defense Reduction: This character has innate resistance against status ailments, stacks and Wither effects that affect defense.",
+            "Resist Defense Reduction: This character has innate resistance against status ailments, stacks and [#!]Wither[#] effects that affect defense.",
             "Resist Insanity: This character has innate resistance against Insanity.",
             "Mana on Status Ailment Received: This character gains 5% mana when they receive a status ailment or a negative stacks."
         ]
@@ -10352,7 +10352,7 @@ const allTranslations =
         "name": "关恩 (Gwynn)",
         "passives": [
             "Resist Special Skill Blocking: This character has innate resistance against status ailments that block Special Skill.",
-            "Corrosive Core: The Construct Core of this character is Corrosive Core. The Corrosive Core activates each time this character’s Special Skill is cast: * All enemies receive Corrosive Poison for 3 turns. With a fully charged Corrosive Core, the Corrosive Poision deals 151 Poison damage and lowers the target’s mana generation by -13% each turn. Deals extra damage against heroes with Minions or a Mega Minion. * The poison damage is scaled by the amount of charge in the Core. All charge is exhausted when the Core is activated."
+            "Corrosive Core: The Construct Core of this character is Corrosive Core. The Corrosive Core activates each time this character’s Special Skill is cast: * All enemies receive [##elementpurple]Corrosive Poison[#] for 3 turns. With a fully charged Corrosive Core, the Corrosive Poision deals 151 [##elementpurple]Poison damage[#] and lowers the target’s mana generation by -13% each turn. Deals extra damage against heroes with Minions or a Mega Minion. * The poison damage is scaled by the amount of charge in the Core. All charge is exhausted when the Core is activated."
         ]
     },
     {
@@ -10727,7 +10727,7 @@ const allTranslations =
         "passives": [
             "Effects on Special Skill: 60% chance to perform the following actions when this character casts their Special Skill",
             " * Deals 70% damage to all enemies.",
-            " * All enemies receive 231 Sand damage over 3 turns."
+            " * All enemies receive 231 [##elementyellow]Sand damage[#] over 3 turns."
         ]
     },
     {
@@ -10736,7 +10736,7 @@ const allTranslations =
         "passives": [
             "Effects on Special Skill: 60% chance to perform the following actions when this character casts their Special Skill",
             " * Deals 70% damage to all enemies.",
-            " * All enemies receive 357 Sand damage over 3 turns.",
+            " * All enemies receive 357 [##elementyellow]Sand damage[#] over 3 turns.",
             "Extra Chance for Effects on Special Skill: When this character casts their Special Skill, any of their Passive Skills that grant extra effects on cast have 3 chances to activate.",
             "Increased Special Skill Damage: The first time this character casts a Special Skill that deals damage an additional 50% is added to its power."
         ]
@@ -10774,8 +10774,8 @@ const allTranslations =
         "passives": [
             "Empowered Resist Frost: This character has innate resistance against Frost and gains 450 boosted heath and 5% mana each time they resist.",
             "Arctic Core: The Arctic Core activates each time this character’s Special Skill is cast",
-            " * All enemies receive Corrosive Frost for 3 turns. With fully charged Arctic Core, the Corrosive Frost deals 316 Frost damage, and lowers the target’s attack by -15% each turn. Deals extra damage against heroes with Minions or a Mega Minion.",
-            " * The Frost damage is scaled by the amount of charge in the Core. All charge is exhausted when the Core is activated."
+            " * All enemies receive [##elementblue]Corrosive Frost[#] for 3 turns. With fully charged Arctic Core, the [##elementblue]Corrosive Frost[#] deals 316 [##elementblue]Frost damage[#], and lowers the target’s attack by -15% each turn. Deals extra damage against heroes with Minions or a Mega Minion.",
+            " * The [##elementblue]Frost damage[#] is scaled by the amount of charge in the Core. All charge is exhausted when the Core is activated."
         ]
     },
     {
@@ -10909,7 +10909,7 @@ const allTranslations =
         "passives": [
             "Minion Blind: All enemies’ Minions have -60% accuracy. All enemies’ Mega Minions have -50% accuracy.",
             "Resist Insanity: This character has innate resistance against Insanity.",
-            "Resist Attack Reduction: This character has innate resistance against status ailments, stacks and Wither effects that affect attack."
+            "Resist Attack Reduction: This character has innate resistance against status ailments, stacks and [#!]Wither[#] effects that affect attack."
         ]
     },
     {
@@ -10990,14 +10990,14 @@ const allTranslations =
         "name": "罗莎琳德 (Rosalind)",
         "passives": [
             "Resist Mana reduction: This character has an innate resistance against mana Reduction.",
-            "Guard Rally: Every 4 turns, removes all Wither effects from all allies."
+            "Guard Rally: Every 4 turns, removes all [#!]Wither[#] effects from all allies."
         ]
     },
     {
         "originalIndex": 1534,
         "name": "阮小七 (Ruan Xiaoqi)",
         "passives": [
-            "Cleanse on Critical Special Attack: When this character scores a critical hit with their Special Skill, they safely cleanse the latest cleansable status effect from all allies. This effect can activate once per turn.",
+            "Cleanse on Critical Special Attack: When this character scores a [##elementred]critical[#] hit with their Special Skill, they safely cleanse the latest cleansable status effect from all allies. This effect can activate once per turn.",
             "Righteous Rebellion: ",
             " * When this character’s Special Skill hits a character that had higher current HP, gain +20% boosted health.",
             " * When this character is hit by the Special Skill of a character that had higher current HP, gain +20% mana.",
@@ -11058,7 +11058,7 @@ const allTranslations =
         "name": "闪鳞 (Shimmerscale)",
         "passives": [
             "Resist Mana reduction: This character has an innate resistance against mana Reduction.",
-            "Guard Rally: Every 4 turns, removes all Wither effects from all allies."
+            "Guard Rally: Every 4 turns, removes all [#!]Wither[#] effects from all allies."
         ]
     },
     {
@@ -11103,7 +11103,7 @@ const allTranslations =
             "This includes:",
             " * - Status effect buffs and ailments.",
             " * - Positive and negative stacks.",
-            " * - Growth and Wither effects."
+            " * - [#!]Growth[#] and [#!]Wither[#] effects."
         ]
     },
     {
@@ -11149,7 +11149,7 @@ const allTranslations =
         "originalIndex": 1553,
         "name": "乌赖乌斯 (Uraeus)",
         "passives": [
-            "Resist Sand Damage: This character has an innate resistance against Sand damage.",
+            "Resist Sand Damage: This character has an innate resistance against [##elementyellow]Sand damage[#].",
             "Health from Dead Minion: This character recovers 50 health when a Minion owned by them is destroyed."
         ]
     },
@@ -11224,7 +11224,7 @@ const allTranslations =
         "originalIndex": 1564,
         "name": "白兔先生 (White Rabbit) C1",
         "passives": [
-            "Mindless Attack On Special Skill: On Special Skill cast, 50% chance to inflict Mindless Attack on a random enemy for 3 turns."
+            "[#!]Mindless Attack[#] On Special Skill: On Special Skill cast, 50% chance to inflict [#!]Mindless Attack[#] on a random enemy for 3 turns."
         ]
     },
     {
@@ -11261,7 +11261,7 @@ const allTranslations =
         "originalIndex": 1569,
         "name": "吴用 (Wu Yong)",
         "passives": [
-            "Cleanse on Critical Special Attack: When this character scores a critical hit with their Special Skill, they safely cleanse the latest cleansable status effect from all allies. This effect can activate once per turn.",
+            "Cleanse on Critical Special Attack: When this character scores a [##elementred]critical[#] hit with their Special Skill, they safely cleanse the latest cleansable status effect from all allies. This effect can activate once per turn.",
             "Righteous Rebellion: ",
             " * When this character’s Special Skill hits a character that had higher current HP, gain +20% boosted health.",
             " * When this character is hit by the Special Skill of a character that had higher current HP, gain +20% mana.",
@@ -11340,7 +11340,7 @@ const allTranslations =
         "originalIndex": 1577,
         "name": "泽努克瓦 (Zenuk'wa)",
         "passives": [
-            "Damage over time on Special: When this character casts their Special Skill, all enemies receive 238 Water damage over 2 turns.",
+            "Damage over time on Special: When this character casts their Special Skill, all enemies receive 238 [##elementblue]Water damage[#] over 2 turns.",
             "Resist Water Damage: This character has innate resistance against Water Damage."
         ]
     },

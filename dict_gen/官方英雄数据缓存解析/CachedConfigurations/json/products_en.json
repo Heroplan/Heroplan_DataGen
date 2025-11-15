@@ -19171,27 +19171,27 @@
           {
             "type": "Item",
             "id": "emblem_barbarian",
-            "amount": 2
+            "amount": 10
           },
           {
             "type": "Item",
             "id": "emblem_cleric",
-            "amount": 2
+            "amount": 10
           },
           {
             "type": "Item",
             "id": "emblem_druid",
-            "amount": 2
+            "amount": 10
           },
           {
             "type": "Item",
             "id": "emblem_fighter",
-            "amount": 2
+            "amount": 10
           },
           {
             "type": "Item",
             "id": "emblem_monk",
-            "amount": 2
+            "amount": 10
           }
         ]
       },
@@ -19202,27 +19202,27 @@
           {
             "type": "Item",
             "id": "emblem_paladin",
-            "amount": 2
+            "amount": 10
           },
           {
             "type": "Item",
             "id": "emblem_ranger",
-            "amount": 2
+            "amount": 10
           },
           {
             "type": "Item",
             "id": "emblem_rogue",
-            "amount": 2
+            "amount": 10
           },
           {
             "type": "Item",
             "id": "emblem_sorcerer",
-            "amount": 2
+            "amount": 10
           },
           {
             "type": "Item",
             "id": "emblem_wizard",
-            "amount": 2
+            "amount": 10
           }
         ]
       },
@@ -21925,6 +21925,7 @@
         "id": "com.smallgiantgames.empires.emblem_pyramid_1a",
         "dollarValue": 5,
         "zyngaStoreDollarValueOverride": 4,
+        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -21969,6 +21970,7 @@
         "id": "com.smallgiantgames.empires.emblem_pyramid_1b",
         "dollarValue": 5,
         "zyngaStoreDollarValueOverride": 4,
+        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -22013,6 +22015,7 @@
         "id": "com.smallgiantgames.empires.emblem_pyramid_2a",
         "dollarValue": 10,
         "zyngaStoreDollarValueOverride": 9,
+        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -22022,27 +22025,8 @@
           },
           {
             "type": "Item",
-            "id": "emblem_barbarian",
-            "amount": 100,
-            "zyngaStoreExtraAmount": 20
-          },
-          {
-            "type": "Item",
-            "id": "emblem_cleric",
-            "amount": 100,
-            "zyngaStoreExtraAmount": 20
-          },
-          {
-            "type": "Item",
-            "id": "emblem_druid",
-            "amount": 100,
-            "zyngaStoreExtraAmount": 20
-          },
-          {
-            "type": "Item",
-            "id": "refill_food_giant",
-            "amount": 2,
-            "zyngaStoreExtraAmount": 1
+            "id": "misc_free_talent_point",
+            "amount": 1
           }
         ]
       },
@@ -22051,6 +22035,7 @@
         "id": "com.smallgiantgames.empires.emblem_pyramid_2b",
         "dollarValue": 20,
         "zyngaStoreDollarValueOverride": 18,
+        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -22060,27 +22045,8 @@
           },
           {
             "type": "Item",
-            "id": "emblem_paladin",
-            "amount": 200,
-            "zyngaStoreExtraAmount": 40
-          },
-          {
-            "type": "Item",
-            "id": "emblem_ranger",
-            "amount": 200,
-            "zyngaStoreExtraAmount": 40
-          },
-          {
-            "type": "Item",
-            "id": "emblem_rogue",
-            "amount": 200,
-            "zyngaStoreExtraAmount": 40
-          },
-          {
-            "type": "Item",
-            "id": "refill_food_giant",
-            "amount": 2,
-            "zyngaStoreExtraAmount": 2
+            "id": "misc_free_talent_point",
+            "amount": 3
           }
         ]
       },
@@ -22089,6 +22055,7 @@
         "id": "com.smallgiantgames.empires.emblem_pyramid_3",
         "dollarValue": 50,
         "zyngaStoreDollarValueOverride": 45,
+        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -22098,27 +22065,13 @@
           },
           {
             "type": "Item",
-            "id": "emblem_monk",
-            "amount": 600,
-            "zyngaStoreExtraAmount": 50
+            "id": "collection_free_talent_points_epic",
+            "amount": 3
           },
           {
             "type": "Item",
-            "id": "emblem_fighter",
-            "amount": 600,
-            "zyngaStoreExtraAmount": 50
-          },
-          {
-            "type": "Item",
-            "id": "emblem_sorcerer",
-            "amount": 600,
-            "zyngaStoreExtraAmount": 50
-          },
-          {
-            "type": "Item",
-            "id": "emblem_wizard",
-            "amount": 600,
-            "zyngaStoreExtraAmount": 50
+            "id": "misc_free_talent_point",
+            "amount": 3
           }
         ]
       },
@@ -25106,7 +25059,6 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.superelemental_red_calendar_1_tier1",
         "dollarValue": 5,
-        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -25125,7 +25077,6 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.superelemental_red_calendar_1_tier2",
         "dollarValue": 30,
-        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -25144,7 +25095,6 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.superelemental_red_calendar_2_tier1",
         "dollarValue": 4,
-        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -25181,7 +25131,6 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.superelemental_red_calendar_3_tier1",
         "dollarValue": 10,
-        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -25201,7 +25150,6 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.superelemental_red_calendar_3_tier2",
         "dollarValue": 100,
-        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -29557,7 +29505,6 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.superelemental_red_calendar_2_tier2b",
         "dollarValue": 30,
-        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -36107,6 +36054,7 @@
         "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [],
+        "allianceGiftCustomContentId": "dynamic_alliancegift",
         "dynamicOfferProduct": true
       },
       {
@@ -36163,6 +36111,7 @@
         "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [],
+        "allianceGiftCustomContentId": "dynamic4_alliancegift",
         "dynamicOfferProduct": true
       },
       {
@@ -36191,6 +36140,7 @@
         "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [],
+        "allianceGiftCustomContentId": "dynamic4_alliancegift",
         "dynamicOfferProduct": true
       },
       {
@@ -57759,5 +57709,5 @@
       }
     ]
   },
-  "productsConfigId": 880590735
+  "productsConfigId": 1323140005
 }
