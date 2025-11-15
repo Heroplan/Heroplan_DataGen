@@ -128,13 +128,13 @@ window.families_bonus = [
         "originalIndex": 13,
         "name": "beauty_beast",
         "bonus": [
-            "Heroes of this family gain [#!]Humility[#] to cast a strong version of their Special Skills.",
-            " * Different Heroes have different [#!]Humility[#] requirements.",
-            " * When the Hero casts the strong version of their Special Skill, only the required amount of [#!]Humility[#] is consumed.",
-            " * Maximum [#!]Humility[#]: 100",
+            "Heroes of this family gain Humility to cast a strong version of their Special Skills.",
+            " * Different Heroes have different Humility requirements.",
+            " * When the Hero casts the strong version of their Special Skill, only the required amount of Humility is consumed.",
+            " * Maximum Humility: 100",
             "Bonus for 1/2/3 Unique Heroes of the same family:",
-            " * The Hero gains 15/17/20 [#!]Humility[#] when receiving direct damage from Special Skills.",
-            " * The Hero gains 20/22/25 [#!]Humility[#] when receiving direct healing from Special Skills.",
+            " * The Hero gains 15/17/20 Humility when receiving direct damage from Special Skills.",
+            " * The Hero gains 20/22/25 Humility when receiving direct healing from Special Skills.",
             "The members of this family have additional perks in The Brave & The Beautiful event."
         ]
     },

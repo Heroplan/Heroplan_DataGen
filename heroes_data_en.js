@@ -3656,8 +3656,8 @@ window.allHeroes =
         "health": 1374,
         "effects": [
             "Boosts health of the caster and nearby allies by 450. Boosted health can exceed max HP.",
-            "The caster and nearby allies get [#!]Sticky Surface[#] for 3 turns. This effect can’t be dispelled.",
-            "[#!]Sticky Surface[#]: Steals 1 random dispellable buff or [#!]Growth[#] from an attacking enemy. (Stolen dispellable buff or [#!]Growth[#] effect is chosen by random. [#!]Sticky Surface[#] is activated when any damage is received from an enemy. Each character with [#!]Sticky Surface[#] can only steal one status effect buff or [#!]Growth[#] effect per turn from normal attacks.)"
+            "The caster and nearby allies get Sticky Surface for 3 turns. This effect can’t be dispelled.",
+            "Sticky Surface: Steals 1 random dispellable buff or [#!]Growth[#] from an attacking enemy. (Stolen dispellable buff or [#!]Growth[#] effect is chosen by random. Sticky Surface is activated when any damage is received from an enemy. Each character with Sticky Surface can only steal one status effect buff or [#!]Growth[#] effect per turn from normal attacks.)"
         ],
         "passives": [
             "Slime Minion Upon Defeat: When this character is defeated, they summon Slime Mega Minions to nearby allies with 50% HP and 40% attack inherited from this character.",
@@ -7496,8 +7496,8 @@ window.allHeroes =
         "health": 2216,
         "effects": [
             "Deals 270% damage to all enemies.",
-            "[#!]Enhanced Defense Ailment[#]: All enemies get -50% defense against Special Skills. This effect lasts until the enemy takes damage from a Special Skill once.",
-            "After the [#!]Enhanced Defense Ailment[#] ends or is removed or replaced, reduces the enemy’s mana by -15%.",
+            "Enhanced Defense Ailment: All enemies get -50% defense against Special Skills. This effect lasts until the enemy takes damage from a Special Skill once.",
+            "After the Enhanced Defense Ailment ends or is removed or replaced, reduces the enemy’s mana by -15%.",
             "All allies gain 15% mana after 2 turns or immediately if the effect is removed before the duration ends."
         ],
         "passives": [
@@ -8107,7 +8107,7 @@ window.allHeroes =
         "health": 1563,
         "effects": [
             "The caster and nearby allies counterattack with 100% of the damage received for 5 turns. The damage of the counterattack increases by +5% with each counterattack, maxing out at 130%.",
-            "The caster and nearby allies reduce all received damage by -50% for 5 turns."
+            "The caster and nearby allies [##elementyellow]reduce all received damage[#] by -50% for 5 turns."
         ],
         "passives": [
             "Effects on Special Skill: 60% chance to perform the following actions when this character casts their Special Skill",
@@ -8173,7 +8173,7 @@ window.allHeroes =
         "health": 2344,
         "effects": [
             "The caster and nearby allies counterattack with 100% of the damage received for 5 turns. The damage of the counterattack increases by +10% with each counterattack, maxing out at 160%.",
-            "The caster and nearby allies reduce all received damage by -30% for 5 turns."
+            "The caster and nearby allies [##elementyellow]reduce all received damage[#] by -30% for 5 turns."
         ],
         "passives": [
             "Effects on Special Skill: 60% chance to perform the following actions when this character casts their Special Skill",
@@ -20607,8 +20607,8 @@ window.allHeroes =
         "health": 2148,
         "effects": [
             "Deals 350% damage to the target and nearby enemies.",
-            "[#!]Enhanced Defense Ailment[#]: The target and nearby enemies get -50% defense against Special Skills. This effect lasts until the enemy takes damage from Special Skill 3 times.",
-            "After the [#!]Enhanced Defense Ailment[#] ends or is removed or replaced, the enemy gets -40% mana generation for 3 turns."
+            "Enhanced Defense Ailment: The target and nearby enemies get -50% defense against Special Skills. This effect lasts until the enemy takes damage from Special Skill 3 times.",
+            "After the Enhanced Defense Ailment ends or is removed or replaced, the enemy gets -40% mana generation for 3 turns."
         ],
         "passives": [
             "Minion Blind: All enemies’ Minions have -60% accuracy. All enemies’ Mega Minions have -50% accuracy.",
@@ -24208,7 +24208,7 @@ window.allHeroes =
         "defense": 561,
         "health": 975,
         "effects": [
-            "If the caster has 35 or more [#!]Humility[#]:",
+            "If the caster has 35 or more Humility:",
             " * Deals 270% damage to the target and minor damage to nearby enemies.",
             " * The caster counterattacks with 90% of the damage received for 4 turns.",
             "[#!]Otherwise:[#]",
@@ -28096,8 +28096,8 @@ window.allHeroes =
         "health": 1300,
         "effects": [
             "Deals 280% damage to the target and minor damage to nearby enemies.",
-            "[#!]Enhanced Defense Ailment[#]: The target and nearby enemies get -40% defense against Special Skills. This effect lasts until the enemy takes damage from a Special Skill once.",
-            "After the [#!]Enhanced Defense Ailment[#] ends or is removed or replaced, the enemy receives 630 Poison Damage over 3 turns. This effect spreads to nearby enemies."
+            "Enhanced Defense Ailment: The target and nearby enemies get -40% defense against Special Skills. This effect lasts until the enemy takes damage from a Special Skill once.",
+            "After the Enhanced Defense Ailment ends or is removed or replaced, the enemy receives 630 Poison Damage over 3 turns. This effect spreads to nearby enemies."
         ],
         "passives": [
             "Minion Blind: All enemies’ Minions have -60% accuracy. All enemies’ Mega Minions have -50% accuracy.",
@@ -34074,7 +34074,7 @@ window.allHeroes =
         "effects": [
             "Boosts health of all allies by 1250. Boosted health can exceed max HP.",
             "All allies get Sticky surface for 4 turns. This effect can`t be dispelled.",
-            "Sticky surface: Steals 1 random dispellable buff or [#!]Growth[#] effect from an attacking enemy. (Each hero with [#!]Sticky Surface[#] can only steal one status effect buff or [#!]Growth[#] effect per turn from normal attacks.)",
+            "Sticky surface: Steals 1 random dispellable buff or [#!]Growth[#] effect from an attacking enemy. (Each hero with Sticky Surface can only steal one status effect buff or [#!]Growth[#] effect per turn from normal attacks.)",
             "All allies get +30% defense for 4 turns.",
             "All allies are immune to buff dispels and relocations for 4 turns. (This immunity also includes this effect itself.)"
         ],
@@ -38488,7 +38488,7 @@ window.allHeroes =
         "effects": [
             "Recovers 50% health for all allies.",
             "All allies regenerate 800 boosted health over 4 turns. Boosted health can exceed max HP.",
-            "All allies reduce all received damage by -40% for 4 turns."
+            "All allies [##elementyellow]reduce all received damage[#] by -40% for 4 turns."
         ],
         "passives": [
             "Destroy Fiends on Special: When this character casts their Special Skill, all fiends are destroyed from them.",
@@ -38624,7 +38624,7 @@ window.allHeroes =
         "effects": [
             "Recovers 45% health for all allies.",
             "Summons a Brown Puppy Minion for each ally with 35% HP and 55% attack inherited from the caster.",
-            "All allies reduce all received damage from the attacks and special skills of the stronger enemy by -80% for 5 turns."
+            "All allies [##elementyellow]reduce all received damage[#] from the attacks and special skills of the stronger enemy by -80% for 5 turns."
         ],
         "passives": [
             "Wrath of Pets: When a Fiend is summoned to any enemy, this character deals 85% damage to all enemies. This effect can activate only once per turn.",
@@ -42990,8 +42990,8 @@ window.allHeroes =
         "health": 2434,
         "effects": [
             "Deals 380% damage to the target and nearby enemies.",
-            "All allies get [#!]Sticky Surface[#] for 3 turns. This effect can’t be dispelled.",
-            "[#!]Sticky Surface[#]: Steals 1 random dispellable buff from an attacking enemy. (Stolen dispellable buff or [#!]Growth[#] effect is chosen by random. [#!]Sticky Surface[#] is activated when any damage is received from an enemy. Each character with [#!]Sticky Surface[#] can only steal one status effect buff or [#!]Growth[#] effect per turn from normal attacks.)"
+            "All allies get Sticky Surface for 3 turns. This effect can’t be dispelled.",
+            "Sticky Surface: Steals 1 random dispellable buff from an attacking enemy. (Stolen dispellable buff or [#!]Growth[#] effect is chosen by random. Sticky Surface is activated when any damage is received from an enemy. Each character with Sticky Surface can only steal one status effect buff or [#!]Growth[#] effect per turn from normal attacks.)"
         ],
         "passives": [
             "Slime Minion Upon Defeat: When this character is defeated, they summon Slime Mega Minions to nearby allies with 50% HP and 40% attack inherited from this character.",
@@ -47808,7 +47808,7 @@ window.allHeroes =
         "effects": [
             "The caster and nearby allies counterattack with 80% of the damage received for 4 turns.",
             "The caster and nearby allies regenerate a moderate amount of mana for each counterattack for 4 turns. The effect gets diminished for consecutive activations during the same turn.",
-            "The caster and nearby allies reduce all received damage by -35% for 4 turns."
+            "The caster and nearby allies [##elementyellow]reduce all received damage[#] by -35% for 4 turns."
         ],
         "passives": [],
         "family": "classic",
@@ -63648,8 +63648,8 @@ window.allHeroes =
         "health": 2171,
         "effects": [
             "Deals 460% damage to all enemies.",
-            "[#!]Enhanced Defense Ailment[#]: All enemies get -64% defense against Special Skills. This effect lasts until the enemy takes damage from a Special Skill 6 times.",
-            "After the [#!]Enhanced Defense Ailment[#] ends or is removed or replaced, the enemy gets silenced for 6 turns."
+            "Enhanced Defense Ailment: All enemies get -64% defense against Special Skills. This effect lasts until the enemy takes damage from a Special Skill 6 times.",
+            "After the Enhanced Defense Ailment ends or is removed or replaced, the enemy gets silenced for 6 turns."
         ],
         "passives": [
             "Resist Insanity: This character has innate resistance against Insanity.",
@@ -63792,7 +63792,7 @@ window.allHeroes =
         "defense": 1281,
         "health": 2263,
         "effects": [
-            "If the caster has 35 or more [#!]Humility[#]:",
+            "If the caster has 35 or more Humility:",
             " * Deals 430% damage to 6 random enemies.",
             " * All hit targets get -54% defense against [##elementpurple]Dark[#] for 4 turns.",
             " * Enemies hit automatically cast [#!]Mindless Attack[#] on a random ally when mana is full at the start of a turn during 4 turns.",
@@ -64306,11 +64306,11 @@ window.allHeroes =
             "1st:",
             " * Deals 30% damage per each [##elementpurple]Dark[#] shield on the board to all enemies, up to 300% damage in total.",
             " * The caster and nearby allies counterattack with 90% of the damage received for 3 turns.",
-            " * The caster and nearby allies reduce all received damage by -35% for 3 turns.",
+            " * The caster and nearby allies [##elementyellow]reduce all received damage[#] by -35% for 3 turns.",
             "2nd:",
             " * Deals 35% damage per each [##elementpurple]Dark[#] shield on the board to all enemies, up to 350% damage in total.",
             " * The caster and nearby allies counterattack with 130% of the damage received for 4 turns.",
-            " * The caster and nearby allies reduce all received damage by -45% for 4 turns."
+            " * The caster and nearby allies [##elementyellow]reduce all received damage[#] by -45% for 4 turns."
         ],
         "passives": [
             "Effects on Special Skill: 50% chance to perform the following actions when this character casts their Special Skill",
@@ -64390,11 +64390,11 @@ window.allHeroes =
             "1st:",
             " * Deals 28% damage per each [##elementpurple]Dark[#] shield on the board to all enemies, up to 280% damage in total.",
             " * The caster and nearby allies counterattack with 100% of the damage received for 3 turns.",
-            " * The caster and nearby allies reduce all received damage by -35% for 3 turns.",
+            " * The caster and nearby allies [##elementyellow]reduce all received damage[#] by -35% for 3 turns.",
             "2nd:",
             " * Deals 38% damage per each [##elementpurple]Dark[#] shield on the board to all enemies, up to 380% damage in total.",
             " * The caster and nearby allies counterattack with 140% of the damage received for 4 turns.",
-            " * The caster and nearby allies reduce all received damage by -50% for 4 turns."
+            " * The caster and nearby allies [##elementyellow]reduce all received damage[#] by -50% for 4 turns."
         ],
         "passives": [
             "Effects on Special Skill: 50% chance to perform the following actions when this character casts their Special Skill",
@@ -65878,8 +65878,8 @@ window.allHeroes =
         "health": 2142,
         "effects": [
             "Deals 535% damage to the target and minor damage to nearby enemies.",
-            "[#!]Enhanced Defense Ailment[#]: The target and nearby enemies get -64% defense against Special Skills. This effect lasts until the enemy takes damage from a Special Skill 3 times.",
-            "After the [#!]Enhanced Defense Ailment[#] ends or is removed or replaced, dispels buffs on the enemy."
+            "Enhanced Defense Ailment: The target and nearby enemies get -64% defense against Special Skills. This effect lasts until the enemy takes damage from a Special Skill 3 times.",
+            "After the Enhanced Defense Ailment ends or is removed or replaced, dispels buffs on the enemy."
         ],
         "passives": [
             "Minion Blind: All enemies’ Minions have -60% accuracy. All enemies’ Mega Minions have -50% accuracy.",
@@ -79530,8 +79530,8 @@ window.allHeroes =
         "effects": [
             "Deals 350% damage to all enemies.",
             "All enemies become Provoked for 4 turns. The Provoked character deals 1% damage to a random opponent at the end of the turn. This effect can’t be dispelled.",
-            "All allies get [#!]Sticky Surface[#] for 4 turns. This effect can’t be dispelled.",
-            "[#!]Sticky Surface[#]: Steals 1 random dispellable buff or [#!]Growth[#] effect from an attacking enemy. (Stolen dispellable buff is chosen by random. [#!]Sticky Surface[#] is activated when any damage is received from an enemy. Each character with [#!]Sticky Surface[#] can only steal one status effect buff or [#!]Growth[#] effect per turn from normal attacks.)",
+            "All allies get Sticky Surface for 4 turns. This effect can’t be dispelled.",
+            "Sticky Surface: Steals 1 random dispellable buff or [#!]Growth[#] effect from an attacking enemy. (Stolen dispellable buff is chosen by random. Sticky Surface is activated when any damage is received from an enemy. Each character with Sticky Surface can only steal one status effect buff or [#!]Growth[#] effect per turn from normal attacks.)",
             "All allies get +55% defense for 4 turns."
         ],
         "passives": [
@@ -80909,8 +80909,8 @@ window.allHeroes =
         "defense": 1118,
         "health": 2158,
         "effects": [
-            "[#!]Enhanced Defense Ailment[#]: All enemies get -64% defense against Special Skills. This effect lasts until the enemy takes damage from a Special Skill 3 times.",
-            "After the [#!]Enhanced Defense Ailment[#] ends or is removed or replaced, the enemy gets -80% decrease of any healing received for 6 turns.",
+            "Enhanced Defense Ailment: All enemies get -64% defense against Special Skills. This effect lasts until the enemy takes damage from a Special Skill 3 times.",
+            "After the Enhanced Defense Ailment ends or is removed or replaced, the enemy gets -80% decrease of any healing received for 6 turns.",
             "Deals 350% damage to the target and 9 random enemies. The damage is reduced on each consecutive hit."
         ],
         "passives": [
@@ -83023,7 +83023,7 @@ window.allHeroes =
             "2x [#!]Mana[#] Charge:",
             " * Each defeated ally has a 50% chance to get [##elementgreen]revived[#] with 40% HP.",
             " * All allies regenerate 714 HP over 3 turns.",
-            " * All allies reduce all received damage by -50% for 3 turns."
+            " * All allies [##elementyellow]reduce all received damage[#] by -50% for 3 turns."
         ],
         "passives": [
             "Health recovery on special: When this character casts their Special Skill, they have a 50% chance to recover 15% health for all allies. If the Special Skill is fully charged, the chance is 100%."
@@ -83113,7 +83113,7 @@ window.allHeroes =
             "2x [#!]Mana[#] Charge:",
             " * Each defeated ally has a 55% chance to get [##elementgreen]revived[#] with 44% HP.",
             " * All allies regenerate 795 boosted health over 3 turns. Boosted health can exceed max HP.",
-            " * All allies reduce all received damage by -60% for 3 turns."
+            " * All allies [##elementyellow]reduce all received damage[#] by -60% for 3 turns."
         ],
         "passives": [
             "Health Recovery on Special: When this character casts their Special Skill, they have a 60% chance to recover 20% health for allies. If the Special Skill is fully charged, the chance is 100%.",
@@ -85742,7 +85742,7 @@ window.allHeroes =
         "defense": 1293,
         "health": 2257,
         "effects": [
-            "If the caster has 60 or more [#!]Humility[#]:",
+            "If the caster has 60 or more Humility:",
             " * Recovers 30% health for all allies.",
             " * Cleanses status ailments from all allies.",
             " * All allies regenerate 1440 HP over 3 turns.",
@@ -91113,7 +91113,7 @@ window.allHeroes =
         "effects": [
             "Boosts health of all allies by 475. Boosted health can exceed max HP.",
             "Summons an Elf Minion for each ally with 10% HP and 10% attack inherited from the caster.",
-            "All allies reduce all received damage by -45% for 6 turns.",
+            "All allies [##elementyellow]reduce all received damage[#] by -45% for 6 turns.",
             "All allies get +35% mana generation for 6 turns."
         ],
         "passives": [],
@@ -92658,7 +92658,7 @@ window.allHeroes =
         "defense": 775,
         "health": 1374,
         "effects": [
-            "If the caster has 35 or more [#!]Humility[#]:",
+            "If the caster has 35 or more Humility:",
             " * Deals 300% damage to the enemies on the edges of the enemy formation. If there is only one enemy, the damage is doubled.",
             " * Reduces max health of the enemies on the edges of the enemy formation by 500. The effect is stronger against targets with boosted health. (Max health can't get lower than 30% of the original max health. Any boosted health is reduced by an additional 500.)",
             "[#!]Otherwise:[#]",
@@ -104274,7 +104274,7 @@ window.allHeroes =
         "effects": [
             "Summons an Astral Sphere Minion for each ally with 35% HP and 39% attack inherited from the caster.",
             "When summoned, the Astral Sphere Minion gives +33% mana generation for its owner for as long as the owner has Astral Sphere Minions. This effect can’t be dispelled. (Affects only mana generated from matching tiles or mana gained by the defense team at the end of their turn.)",
-            "All allies reduce all received damage by -43% for 4 turns.",
+            "All allies [##elementyellow]reduce all received damage[#] by -43% for 4 turns.",
             "All allies’ normal attacks and Special Skills deal +100% damage against targets with boosted health for 4 turns."
         ],
         "passives": [
@@ -105797,8 +105797,8 @@ window.allHeroes =
         "health": 2136,
         "effects": [
             "Deals 500% damage to the target and minor damage to nearby enemies.",
-            "[#!]Enhanced Defense Ailment[#]: The target and nearby enemies get -50% defense against Special Skills. This effect lasts until the enemy takes damage from a Special Skill once.",
-            "After the [#!]Enhanced Defense Ailment[#]s ends or is removed or replaced, the enemy falls asleep and receives +70% increased damage while sleeping. (A sleeping character cannot gain mana or attack. The sleeping target is woken once it takes damage. This excludes damage from Minions, Fiends, Mega Minions and Mega Fiends. This effect is uncleansable.)"
+            "Enhanced Defense Ailment: The target and nearby enemies get -50% defense against Special Skills. This effect lasts until the enemy takes damage from a Special Skill once.",
+            "After the Enhanced Defense Ailments ends or is removed or replaced, the enemy falls asleep and receives +70% increased damage while sleeping. (A sleeping character cannot gain mana or attack. The sleeping target is woken once it takes damage. This excludes damage from Minions, Fiends, Mega Minions and Mega Fiends. This effect is uncleansable.)"
         ],
         "passives": [
             "Minion Blind: All enemies’ Minions have -60% accuracy. All enemies’ Mega Minions have -50% accuracy.",
@@ -107312,7 +107312,7 @@ window.allHeroes =
         "health": 1339,
         "effects": [
             "The caster and nearby allies counterattack with 100% of the damage received for 4 turns.",
-            "The caster and nearby allies reduce all received damage by -50% for 4 turns.",
+            "The caster and nearby allies [##elementyellow]reduce all received damage[#] by -50% for 4 turns.",
             "The caster and nearby allies get +24% mana generation for 4 turns."
         ],
         "passives": [],
@@ -107374,7 +107374,7 @@ window.allHeroes =
         "effects": [
             "Increases the mana of the caster and nearby allies by 15%.",
             "The caster and nearby allies counterattack with 125% of the damage received for 4 turns.",
-            "The caster and nearby allies reduce all received damage by 40% for 4 turns."
+            "The caster and nearby allies [##elementyellow]reduce all received damage[#] by 40% for 4 turns."
         ],
         "passives": [],
         "family": "midgard",
@@ -109059,7 +109059,7 @@ window.allHeroes =
             " * All enemies are immune to new status effect buffs that affect defense for 3 turns.",
             "2x [#!]Mana[#] Charge:",
             " * All allies bypass defensive buffs with their attacks for 5 turns. Defensive buffs include counterattacks.",
-            " * All allies reduce all received damage by -45% for 5 turns.",
+            " * All allies [##elementyellow]reduce all received damage[#] by -45% for 5 turns.",
             " * All allies counterattack with 115% of the damage received for 5 turns."
         ],
         "passives": [
