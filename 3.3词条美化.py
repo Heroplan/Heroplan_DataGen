@@ -45,6 +45,7 @@ COMMOM_DICT_CONFIG = {
     '貪婪': '[##elementred]貪婪[#]',
     'Greed': '[##elementred]Greed[#]',
     '沉睡': '[##elementred]沉睡[#]',
+    '深眠': '[##elementred]深眠[#]',
     '深沉睡眠': '[##elementred]深沉睡眠[#]',
     'Deep Sleep': '[##elementred]Deep Sleep[#]',
     'falls asleep': '[##elementred]falls asleep[#]',
