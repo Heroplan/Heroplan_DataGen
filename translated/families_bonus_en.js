@@ -541,7 +541,7 @@ window.families_bonus = [
             "Bonus for 1/2/3 Heroes:",
             "50%/75%/100% chance to give Cover to a random ally for 3 turns when this character casts their Special Skill.",
             "While in Cover, the ally takes no damage from Special Skill attacks or normal attacks. This character takes 60% / 50% / 40% of the damage that would by received by the character in Cover.",
-            "This effect can't be dispelled, but ends when this character is defeated. Characters can only give cover to one ally at a time.",
+            "This effect can’t be dispelled, but ends when this character is defeated. Characters can only give cover to one ally at a time.",
             "The members of this family have additional perks in The Brave & The Beautiful event."
         ]
     },
@@ -691,8 +691,8 @@ window.families_bonus = [
         "bonus": [
             "Masked God characters summon a Mask Minion for themselves at the start of the battle. The more Masked God characters there are in the same team, the better the Mask minion is.",
             "1 family member: This character summons a Mask Minion with 8% health and 8% attack inherited from the character.",
-            "Additional skill with 2 family members: When summoned, the Mask Minion gives its owner +7% attack while the owner has a Mask Minion. This effect can't be dispelled.",
-            "Additional skill with 3 family members: When summoned, the Mask Minion gives its ower immunity to all status ailments while the owner has a Mask Minion. This effect can't be dispelled."
+            "Additional skill with 2 family members: When summoned, the Mask Minion gives its owner +7% attack while the owner has a Mask Minion. This effect can’t be dispelled.",
+            "Additional skill with 3 family members: When summoned, the Mask Minion gives its ower immunity to all status ailments while the owner has a Mask Minion. This effect can’t be dispelled."
         ]
     },
     {
