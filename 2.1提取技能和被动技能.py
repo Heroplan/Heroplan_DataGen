@@ -12,20 +12,76 @@ def log_message(message, log_file='../logs/extract_heroes_data_log.txt'):
     with open(log_file, 'a', encoding='utf-8') as f:
         timestamp = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
         f.write(f"[{timestamp}] {message}\n")
+
+def _clean_and_normalize_string(s):
+    """
+    [辅助函数] 专门用于清理单个字符串中的多余格式。
+    - 移除首尾多余的空格。
+    - 移除包裹整个字符串的单引号。
+    - 将源数据中用作换行的 ' ' 替换为单个空格。
+    """
+    if not isinstance(s, str):
+        return s
+    
+    # 1. 移除首尾空格
+    cleaned_s = s.strip()
+    
+    # 2. 如果字符串被单引号包裹，则移除它们
+    if cleaned_s.startswith("'") and cleaned_s.endswith("'"):
+        cleaned_s = cleaned_s[1:-1]
         
+    # 3. 将源数据中奇怪的 ' ' 拼接符替换为标准空格
+    #    这个操作会把 'word' 'word' 变成 'word word'
+    cleaned_s = cleaned_s.replace("' '", " ")
+    
+    # 4. 最后再清理一次，以防上面的操作产生新的首尾空格
+    return cleaned_s.strip()
+
+
 def process_and_split_multiline_strings(input_list):
     """
-    处理一个列表，将其中的多行字符串按换行符拆分。
+    处理一个列表，将其中的字符串按特定规则拆分。（最终修正版）
+    该版本整合了强大的清理功能和精确的拆分逻辑。
     """
     if not isinstance(input_list, list):
         return [] 
 
     processed_list = []
     for item in input_list:
-        if isinstance(item, str) and '\n' in item:
-            processed_list.extend(item.splitlines())
-        elif item is not None:
-            processed_list.append(item)
+        # --- 步骤 1: 对每个条目进行彻底的清理 ---
+        cleaned_item = _clean_and_normalize_string(item)
+        
+        # 如果清理后为空，则直接跳过
+        if not cleaned_item:
+            continue
+
+        # --- 步骤 2: 对清理后的字符串应用精确的拆分逻辑 ---
+        
+        # 使用正则表达式查找作为“分隔符”的 ' * '
+        if re.search(r'(?<=\S)\s\*\s', cleaned_item):
+            parts = re.split(r'\s\*\s', cleaned_item)
+            
+            # 再次清理分割后的每个部分，以防万一
+            non_empty_parts = [_clean_and_normalize_string(p) for p in parts if _clean_and_normalize_string(p)]
+            
+            if not non_empty_parts:
+                continue
+
+            processed_list.append(non_empty_parts[0])
+            for part in non_empty_parts[1:]:
+                processed_list.append(f"* {part}")
+
+        # 如果不含分隔符，则按换行符处理
+        elif '\n' in cleaned_item:
+            lines = cleaned_item.splitlines()
+            for line in lines:
+                cleaned_line = line.strip()
+                if cleaned_line:
+                    processed_list.append(cleaned_line)
+        # 否则，直接添加清理后的单行
+        else:
+            processed_list.append(cleaned_item)
+            
     return processed_list
 
 def extract_all_without_uniqueness_check(
