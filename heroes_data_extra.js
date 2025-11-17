@@ -41309,5 +41309,115 @@ window.allHeroesExtra = [
             "resist_special_blocking_with_health_boost_and_mana"
         ],
         "family": "construct"
+    },
+    {
+        "name": "Rafeeq",
+        "fancy name": "Shrewd Politician",
+        "element": "Blue",
+        "rarity": 4,
+        "class": "Rogue",
+        "speed": "average",
+        "Release date": "2025-11-17",
+        "AetherPower": "Special Boost",
+        "skill_types": [
+            "Minions Counters",
+            "Ability Scores Modifiers",
+            "Extra Damage Dealers",
+            "Snipers",
+            "Buff Blockers"
+        ],
+        "heroId": "mahayoddha_rafeeq",
+        "baseAttack": 373,
+        "baseDefense": 385,
+        "baseHealth": 676,
+        "specialId": "blade_of_betrayal",
+        "passiveSkills": [
+            "increased_damage_against_minions_and_mega_minions",
+            "mana_on_damage_received"
+        ],
+        "family": "mahayoddha"
+    },
+    {
+        "name": "Ali",
+        "fancy name": "Gifted Errand Boy",
+        "element": "Green",
+        "rarity": 3,
+        "class": "Ranger",
+        "speed": "fast",
+        "Release date": "2025-11-17",
+        "AetherPower": "Rage",
+        "skill_types": [
+            "Minions Counters",
+            "Ability Scores Modifiers",
+            "Extra Damage Dealers",
+            "Snipers",
+            "Mana Reducers or Blockers"
+        ],
+        "heroId": "mahayoddha_ali",
+        "baseAttack": 312,
+        "baseDefense": 316,
+        "baseHealth": 526,
+        "specialId": "marble_frenzy",
+        "passiveSkills": [
+            "increased_damage_against_minions_and_mega_minions",
+            "mana_on_damage_received"
+        ],
+        "family": "mahayoddha"
+    },
+    {
+        "name": "Bonga",
+        "fancy name": "Basket Maker",
+        "element": "Green",
+        "rarity": 5,
+        "class": "Monk",
+        "speed": "slow",
+        "Release date": "2025-11-17",
+        "AetherPower": "Special Armor",
+        "skill_types": [
+            "Minions Counters",
+            "Ability Scores Modifiers",
+            "Extra Damage Dealers",
+            "AoE Attackers (Hit-5)",
+            "Minions Summoners",
+            "Buff Stealers"
+        ],
+        "heroId": "mahayoddha_bonga",
+        "baseAttack": 620,
+        "baseDefense": 639,
+        "baseHealth": 1098,
+        "specialId": "tokri_of_resources",
+        "passiveSkills": [
+            "increased_damage_against_minions_and_mega_minions",
+            "mana_on_damage_received"
+        ],
+        "family": "mahayoddha"
+    },
+    {
+        "name": "Ustad Anand",
+        "fancy name": "Royal Performer",
+        "element": "Yellow",
+        "rarity": 5,
+        "class": "Wizard",
+        "speed": "average",
+        "Release date": "2025-11-17",
+        "AetherPower": "Counterattack",
+        "skill_types": [
+            "Minions Counters",
+            "Ability Scores Modifiers",
+            "Extra Damage Dealers",
+            "AoE Attackers (Hit-5)",
+            "Mana Reducers or Blockers",
+            "Buff Blockers"
+        ],
+        "heroId": "mahayoddha_ustad_anand",
+        "baseAttack": 616,
+        "baseDefense": 643,
+        "baseHealth": 1099,
+        "specialId": "ceremonial_katar",
+        "passiveSkills": [
+            "increased_damage_against_minions_and_mega_minions",
+            "mana_on_damage_received"
+        ],
+        "family": "mahayoddha"
     }
 ];

@@ -1,49 +1,5 @@
 [
     {
-        "name": "Ustad Anand",
-        "fancy_name": "Royal Performer",
-        "color": "Yellow",
-        "Release date": "",
-        "star": 5,
-        "family": "mahayoddha",
-        "costume_id": 0,
-        "heroId": "mahayoddha_ustad_anand",
-        "Lottery_Only":1
-    },
-    {
-        "name": "Bonga",
-        "fancy_name": "Basket Maker",
-        "color": "Green",
-        "Release date": "",
-        "star": 5,
-        "family": "mahayoddha",
-        "costume_id": 0,
-        "heroId": "mahayoddha_bonga",
-        "Lottery_Only":1
-    },
-    {
-        "name": "Rafeeq",
-        "fancy_name": "Shrewd Politician",
-        "color": "Blue",
-        "Release date": "",
-        "star": 4,
-        "family": "mahayoddha",
-        "costume_id": 0,
-        "heroId": "mahayoddha_rafeeq",
-        "Lottery_Only":1
-    },
-    {
-        "name": "Ali",
-        "fancy_name": "Gifted Errand Boy",
-        "color": "Green",
-        "Release date": "",
-        "star": 3,
-        "family": "mahayoddha",
-        "costume_id": 0,
-        "heroId": "mahayoddha_ali",
-        "Lottery_Only":1
-    },
-    {
         "name": "Duval",
         "fancy_name": "The Deceitful Marksman",
         "color": "Purple",

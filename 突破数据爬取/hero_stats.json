@@ -28024,5 +28024,77 @@
             "Defense": 1567,
             "Life": 2791
         }
+    },
+    "Rafeeq": {
+        "base": {
+            "Attack": 792,
+            "Defense": 818,
+            "Life": 1436,
+            "Power": 792
+        },
+        "lb1": {
+            "Attack": 861,
+            "Defense": 888,
+            "Life": 1560
+        },
+        "lb2": {
+            "Attack": 998,
+            "Defense": 1030,
+            "Life": 1809
+        }
+    },
+    "Ali": {
+        "base": {
+            "Attack": 542,
+            "Defense": 549,
+            "Life": 914,
+            "Power": 536
+        },
+        "lb1": {
+            "Attack": 614,
+            "Defense": 622,
+            "Life": 1036
+        },
+        "lb2": {
+            "Attack": 759,
+            "Defense": 769,
+            "Life": 1280
+        }
+    },
+    "Bonga": {
+        "base": {
+            "Attack": 1277,
+            "Defense": 1316,
+            "Life": 2261,
+            "Power": 1256
+        },
+        "lb1": {
+            "Attack": 1376,
+            "Defense": 1418,
+            "Life": 2437
+        },
+        "lb2": {
+            "Attack": 1574,
+            "Defense": 1623,
+            "Life": 2788
+        }
+    },
+    "Ustad Anand": {
+        "base": {
+            "Attack": 1268,
+            "Defense": 1324,
+            "Life": 2263,
+            "Power": 1256
+        },
+        "lb1": {
+            "Attack": 1367,
+            "Defense": 1427,
+            "Life": 2439
+        },
+        "lb2": {
+            "Attack": 1564,
+            "Defense": 1633,
+            "Life": 2791
+        }
     }
 }

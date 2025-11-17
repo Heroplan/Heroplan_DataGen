@@ -5029,6 +5029,7 @@ window.allHeroesExtra = [
         "AetherPower": "Dodge",
         "skill_types": [
             "AoE Attackers (Hit-5)",
+            "DoT Attackers",
             "Cleansers",
             "Dispellers",
             "Healers",
@@ -17290,7 +17291,8 @@ window.allHeroesExtra = [
             "Debuffers (ATK)",
             "Debuffers (DEF)",
             "DoT Attackers",
-            "Health Boosters"
+            "Health Boosters",
+            "Healers (Special)"
         ],
         "heroId": "magic_agrafena_costume_dark",
         "baseAttack": 368,
@@ -24284,6 +24286,7 @@ window.allHeroesExtra = [
         "skill_types": [
             "AoE Attackers (Hit-3)",
             "DoT Attackers",
+            "Healers (Special)",
             "Status Effects Blockers",
             "Status Effect Conversion"
         ],
@@ -36951,6 +36954,7 @@ window.allHeroesExtra = [
         "AetherPower": "Special Boost",
         "skill_types": [
             "Snipers",
+            "Bypassers",
             "Healers (Special)",
             "Health Boosters",
             "Minions Counters",
@@ -37387,6 +37391,7 @@ window.allHeroesExtra = [
         "skill_types": [
             "Damage Reducers",
             "DoT Attackers",
+            "Healers (Special)",
             "Heal over Time (HoT)",
             "Minions Counters",
             "Revivers",
@@ -37782,7 +37787,8 @@ window.allHeroesExtra = [
         "skill_types": [
             "AoE Attackers (Hit-3)",
             "AoE Attackers (Hit-5)",
-            "Snipers"
+            "Snipers",
+            "Extra Damage Dealers"
         ],
         "heroId": "elemental_roz_costume_disco",
         "baseAttack": 458,
@@ -37896,9 +37902,11 @@ window.allHeroesExtra = [
         "skill_types": [
             "Minions Counters",
             "DoT Attackers",
+            "Healers (Special)",
             "Dispellers",
             "Debuffers (DEF)",
             "Heal over Time (HoT)",
+            "Health Boosters",
             "Buffers (ATK)",
             "Cleansers",
             "Mana Reducers or Blockers",
@@ -38545,7 +38553,8 @@ window.allHeroesExtra = [
         "skill_types": [
             "DoT Attackers",
             "Snipers",
-            "Chain & Random Attackers"
+            "Chain & Random Attackers",
+            "Healers (Special)"
         ],
         "heroId": "elemental_zengar_costume_farmer",
         "baseAttack": 422,
@@ -38740,7 +38749,8 @@ window.allHeroesExtra = [
             "Minions Counters",
             "Snipers",
             "Status Effect Conversion",
-            "Extra Damage Dealers"
+            "Extra Damage Dealers",
+            "Heal over Time (HoT)"
         ],
         "heroId": "magic_carpet_lilli",
         "baseAttack": 585,
@@ -38798,7 +38808,8 @@ window.allHeroesExtra = [
             "Debuffers (ATK)",
             "Dispellers",
             "DoT Attackers",
-            "Heal over Time (HoT)"
+            "Heal over Time (HoT)",
+            "Healing Reducers"
         ],
         "heroId": "magic_vaishali_costume_chef",
         "baseAttack": 456,
@@ -38938,7 +38949,8 @@ window.allHeroesExtra = [
         "AetherPower": "Damage Reduction",
         "skill_types": [
             "Mana Raisers",
-            "Mana Reducers or Blockers"
+            "Mana Reducers or Blockers",
+            "Immunity Providers"
         ],
         "heroId": "elemental_griffex_costume_camera",
         "baseAttack": 413,
@@ -39100,7 +39112,8 @@ window.allHeroesExtra = [
         "skill_types": [
             "DoT Attackers",
             "Snipers",
-            "Chain & Random Attackers"
+            "Chain & Random Attackers",
+            "Buffers (ATK)"
         ],
         "heroId": "elemental_doxan_costume_hacker",
         "baseAttack": 430,
@@ -39482,7 +39495,8 @@ window.allHeroesExtra = [
         "skill_types": [
             "AoE Attackers (Hit-3)",
             "Status Effect Conversion",
-            "Debuffers (ATK)"
+            "Debuffers (ATK)",
+            "Max Health Reducers"
         ],
         "heroId": "magic_carpet_bart",
         "baseAttack": 621,
@@ -39509,6 +39523,7 @@ window.allHeroesExtra = [
             "AoE Attackers (Hit-5)",
             "Mana Raisers",
             "Mana Reducers or Blockers",
+            "Buffers (DEF)",
             "Snipers",
             "Stacking Heroes",
             "Healers"
@@ -40411,7 +40426,8 @@ window.allHeroesExtra = [
             "Health Boosters",
             "Max Health Reducers",
             "Stacking Heroes",
-            "Mana Reducers or Blockers"
+            "Mana Reducers or Blockers",
+            "Healing Reducers"
         ],
         "heroId": "magic_camilla_costume_flower",
         "baseAttack": 405,
@@ -41293,5 +41309,89 @@ window.allHeroesExtra = [
             "resist_special_blocking_with_health_boost_and_mana"
         ],
         "family": "construct"
+    },
+    {
+        "name": "Rafeeq",
+        "fancy name": "Shrewd Politician",
+        "element": "Blue",
+        "rarity": 4,
+        "class": "Rogue",
+        "speed": "average",
+        "Release date": "2025-11-17",
+        "AetherPower": "Special Boost",
+        "skill_types": [],
+        "heroId": "mahayoddha_rafeeq",
+        "baseAttack": 373,
+        "baseDefense": 385,
+        "baseHealth": 676,
+        "specialId": "blade_of_betrayal",
+        "passiveSkills": [
+            "increased_damage_against_minions_and_mega_minions",
+            "mana_on_damage_received"
+        ],
+        "family": "mahayoddha"
+    },
+    {
+        "name": "Ali",
+        "fancy name": "Gifted Errand Boy",
+        "element": "Green",
+        "rarity": 3,
+        "class": "Ranger",
+        "speed": "fast",
+        "Release date": "2025-11-17",
+        "AetherPower": "Rage",
+        "skill_types": [],
+        "heroId": "mahayoddha_ali",
+        "baseAttack": 312,
+        "baseDefense": 316,
+        "baseHealth": 526,
+        "specialId": "marble_frenzy",
+        "passiveSkills": [
+            "increased_damage_against_minions_and_mega_minions",
+            "mana_on_damage_received"
+        ],
+        "family": "mahayoddha"
+    },
+    {
+        "name": "Bonga",
+        "fancy name": "Basket Maker",
+        "element": "Green",
+        "rarity": 5,
+        "class": "Monk",
+        "speed": "slow",
+        "Release date": "2025-11-17",
+        "AetherPower": "Special Armor",
+        "skill_types": [],
+        "heroId": "mahayoddha_bonga",
+        "baseAttack": 620,
+        "baseDefense": 639,
+        "baseHealth": 1098,
+        "specialId": "tokri_of_resources",
+        "passiveSkills": [
+            "increased_damage_against_minions_and_mega_minions",
+            "mana_on_damage_received"
+        ],
+        "family": "mahayoddha"
+    },
+    {
+        "name": "Ustad Anand",
+        "fancy name": "Royal Performer",
+        "element": "Yellow",
+        "rarity": 5,
+        "class": "Wizard",
+        "speed": "average",
+        "Release date": "2025-11-17",
+        "AetherPower": "Counterattack",
+        "skill_types": [],
+        "heroId": "mahayoddha_ustad_anand",
+        "baseAttack": 616,
+        "baseDefense": 643,
+        "baseHealth": 1099,
+        "specialId": "ceremonial_katar",
+        "passiveSkills": [
+            "increased_damage_against_minions_and_mega_minions",
+            "mana_on_damage_received"
+        ],
+        "family": "mahayoddha"
     }
 ];
