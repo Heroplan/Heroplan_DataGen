@@ -1126,7 +1126,7 @@ const translatedPassivesCN =
         "passives": [
             "受到状态异常时获得法力：该角色在受到状态异常或负面效果叠加时获得 5% 的法力。",
             "抵抗法力削减：该角色天生对法力削减有抵抗能力。",
-            "守卫集结：每 4 回合，移除所有盟友身上的衰退效果。"
+            "每 4 回合，移除所有敌人身上的成长效果。"
         ]
     },
     {
@@ -2848,7 +2848,9 @@ const translatedPassivesCN =
     {
         "originalIndex": 407,
         "name": "Mielikki C1",
-        "passives": []
+        "passives": [
+            "西苏之力 - 当该角色在战斗中首次以低生命值开始回合时，他们会恢复 15% 的生命值并获得 15% 的法力。"
+        ]
     },
     {
         "originalIndex": 408,
@@ -3040,7 +3042,7 @@ const translatedPassivesCN =
         "name": "Archibald",
         "passives": [
             "抵抗法力削减：该角色天生对法力削减有抵抗能力。",
-            "守卫集结：每 4 回合，移除所有盟友身上的衰退效果。"
+            "每 4 回合，移除所有敌人身上的成长效果。"
         ]
     },
     {
@@ -3129,7 +3131,10 @@ const translatedPassivesCN =
     {
         "originalIndex": 445,
         "name": "Bertila",
-        "passives": []
+        "passives": [
+            "抵抗致盲：该角色天生对影响精准度的状态异常有抵抗能力。不适用于来自盟友的原始状态效果。",
+            "小兵死亡时获得法力：每次摧毁此角色的一名小兵，该角色都会获得少量的法力。"
+        ]
     },
     {
         "originalIndex": 446,
@@ -8156,7 +8161,7 @@ const translatedPassivesCN =
         "name": "Flamehide",
         "passives": [
             "抵抗法力削减：该角色天生对法力削减有抵抗能力。",
-            "守卫集结：每 4 回合，移除所有盟友身上的衰退效果。"
+            "每 4 回合，移除所有敌人身上的成长效果。"
         ]
     },
     {
@@ -10798,7 +10803,7 @@ const translatedPassivesCN =
         "originalIndex": 1500,
         "name": "Motega",
         "passives": [
-            "特殊技能恢复生命：当该角色施放其特殊技能时，有 50% 的几率为所有队友恢复 15% 的生命值。如果特殊技能完全充能，则几率为 100%。"
+            "此角色在施放特殊技能时，有 50% 的几率为所有盟友恢复 15% 的生命值。若该特殊技能已完全充满，则几率为 100%。"
         ]
     },
     {
@@ -10850,7 +10855,7 @@ const translatedPassivesCN =
         "name": "Nithgaest",
         "passives": [
             "完美精准度：该角色的特殊技能必定命中目标。",
-            "抵抗法力削减：该角色天生对法力削减有抵抗能力。",
+            "强化抵抗法力减损：此英雄免疫法力减损。每次抵抗时还会获得 600 点生命加成和 10% 法力。",
             "受到伤害时获得攻击力叠加：当该角色受到特殊技能伤害时，获得 +30% 的攻击力叠加（最多 10 层）。每回合可叠加一层。"
         ]
     },
@@ -11273,7 +11278,7 @@ const translatedPassivesCN =
         "originalIndex": 1565,
         "name": "Willow",
         "passives": [
-            "特殊技能恢复生命：当该角色施放其特殊技能时，有 50% 的几率为所有队友恢复 15% 的生命值。如果特殊技能完全充能，则几率为 100%。",
+            "此角色在施放特殊技能时，有 50% 的几率为所有盟友恢复 15% 的生命值。若该特殊技能已完全充满，则几率为 100%。",
             "特殊技能叠加：当该角色施放其特殊技能时，所有敌人获得 -5% 的法力生成叠加。如果特殊技能完全充能，则所有敌人获得两层叠加。一个敌人最多可以有 10 层叠加。"
         ]
     },
@@ -11467,6 +11472,16 @@ const translatedPassivesCN =
     {
         "originalIndex": 1591,
         "name": "Sorcha",
+        "passives": []
+    },
+    {
+        "originalIndex": 1592,
+        "name": "Experience Mimic Rare",
+        "passives": []
+    },
+    {
+        "originalIndex": 1593,
+        "name": "Ascension Mimic Epic Holy",
         "passives": []
     }
 ];

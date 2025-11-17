@@ -10709,7 +10709,7 @@ window.allHeroes =
         "passives": [
             "Mana on Status Ailment Received: This character gains 5% mana when they receive a status ailment or negative stack.",
             "Resist Mana reduction: This character has an innate resistance against mana Reduction.",
-            "Guard Rally: Every 4 turns, removes all Wither effects from all allies."
+            "Guard Rally: Every 4 turns, removes all Growth effects from all enemies."
         ],
         "family": "garrison",
         "costume_id": 0,
@@ -27867,7 +27867,9 @@ window.allHeroes =
             "When summoned, the Sprite of the Forest Minion gives +24% mana generation for its owner for as long as the owner has Sprite of the Forest Minions.  This effect can’t be dispelled.",
             "All enemies get -26% attack for 4 turns. Against Fire characters,  this status effect becomes uncleansable and lasts 2 turns longer."
         ],
-        "passives": [],
+        "passives": [
+            "Power of Sisu - When this character starts a turn with low health for the  first time during a battle, they recover 15% health and receive 15% mana."
+        ],
         "family": "kalevala",
         "costume_id": 1,
         "originalIndex": 407,
@@ -29692,7 +29694,7 @@ window.allHeroes =
         ],
         "passives": [
             "Resist Mana reduction: This character has an innate resistance against mana Reduction.",
-            "Guard Rally: Every 4 turns, removes all Wither effects from all allies."
+            "Guard Rally: Every 4 turns, removes all Growth effects from all enemies."
         ],
         "family": "garrison",
         "costume_id": 0,
@@ -30562,7 +30564,10 @@ window.allHeroes =
             "Lifts all cleansable status ailments that affect attack or defense from all allies and randomly distributes them on enemies.",
             "Element Link summons a Nature Minion for all Nature allies with 6% HP and 10% attack inherited from the caster."
         ],
-        "passives": [],
+        "passives": [
+            "Resist Blind: This character has innate resistance against status ailments that affect accurancy. Doesn't apply to status effects from allies.",
+            "Mana on Minion Death: The character gains a small amount of mana when a Minion owned by them is destroyed."
+        ],
         "family": "hotm2021",
         "costume_id": 0,
         "originalIndex": 445,
@@ -78833,7 +78838,7 @@ window.allHeroes =
         ],
         "passives": [
             "Resist Mana reduction: This character has an innate resistance against mana reduction.",
-            "Guard Rally: Every 4 turns, removes all Wither effects from all allies."
+            "Guard Rally: Every 4 turns, removes all Growth effects from all enemies."
         ],
         "family": "garrison",
         "costume_id": 0,
@@ -104886,7 +104891,7 @@ window.allHeroes =
         ],
         "passives": [
             "Perfect Accuracy: This character’s Special Skill never mises its target.",
-            "Resist Mana Reduction: This character has innate resistance against mana reduction.",
+            "Empowered Resist Mana Reduction: This character has innate resistance against mana reductions. They also gain 600 boosted health and 10% mana each time they resist.",
             "Stacking Attack On Damage Received: When this character receives damage from Special Skills, they gain +30% attack Stack (Max: 10). One Stack can be gained per turn."
         ],
         "family": "beowulf",
@@ -110604,6 +110609,58 @@ window.allHeroes =
         "family": "plains_hunter",
         "costume_id": 0,
         "originalIndex": 1591,
+        "cn_skill_info": []
+    },
+    {
+        "name": "Experience Mimic Rare",
+        "fancy_name": "Trove of the Tiny Teeth",
+        "AetherPower": "",
+        "color": "Red",
+        "class": "Paladin",
+        "speed": "Slow",
+        "skill": "",
+        "types": [],
+        "skill_types": [],
+        "source": "Mimic Summon",
+        "Release date": "",
+        "specialId": "",
+        "heroId": "mimic_experience_rare_red",
+        "star": 3,
+        "power": null,
+        "attack": null,
+        "defense": null,
+        "health": null,
+        "effects": [],
+        "passives": [],
+        "family": "mimic",
+        "costume_id": 0,
+        "originalIndex": 1592,
+        "cn_skill_info": []
+    },
+    {
+        "name": "Ascension Mimic Epic Holy",
+        "fancy_name": "Grinning Cache of Lesser Evil",
+        "AetherPower": "",
+        "color": "Yellow",
+        "class": "Paladin",
+        "speed": "Slow",
+        "skill": "",
+        "types": [],
+        "skill_types": [],
+        "source": "Mimic Summon",
+        "Release date": "",
+        "specialId": "",
+        "heroId": "mimic_ascension_epic_yellow",
+        "star": 4,
+        "power": null,
+        "attack": null,
+        "defense": null,
+        "health": null,
+        "effects": [],
+        "passives": [],
+        "family": "mimic",
+        "costume_id": 0,
+        "originalIndex": 1593,
         "cn_skill_info": []
     }
 ];

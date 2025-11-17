@@ -1126,7 +1126,7 @@ const allTranslations =
         "passives": [
             "Mana on Status Ailment Received: This character gains 5% mana when they receive a status ailment or negative stack.",
             "Resist Mana reduction: This character has an innate resistance against mana Reduction.",
-            "Guard Rally: Every 4 turns, removes all Wither effects from all allies."
+            "Guard Rally: Every 4 turns, removes all Growth effects from all enemies."
         ]
     },
     {
@@ -2848,7 +2848,9 @@ const allTranslations =
     {
         "originalIndex": 407,
         "name": "蔑里基 (Mielikki) C1",
-        "passives": []
+        "passives": [
+            "Power of Sisu - When this character starts a turn with low health for the  first time during a battle, they recover 15% health and receive 15% mana."
+        ]
     },
     {
         "originalIndex": 408,
@@ -3040,7 +3042,7 @@ const allTranslations =
         "name": "阿奇巴尔德 (Archibald)",
         "passives": [
             "Resist Mana reduction: This character has an innate resistance against mana Reduction.",
-            "Guard Rally: Every 4 turns, removes all Wither effects from all allies."
+            "Guard Rally: Every 4 turns, removes all Growth effects from all enemies."
         ]
     },
     {
@@ -3129,7 +3131,10 @@ const allTranslations =
     {
         "originalIndex": 445,
         "name": "贝蒂拉 (Bertila)",
-        "passives": []
+        "passives": [
+            "Resist Blind: This character has innate resistance against status ailments that affect accurancy. Doesn't apply to status effects from allies.",
+            "Mana on Minion Death: The character gains a small amount of mana when a Minion owned by them is destroyed."
+        ]
     },
     {
         "originalIndex": 446,
@@ -8156,7 +8161,7 @@ const allTranslations =
         "name": "炎皮 (Flamehide)",
         "passives": [
             "Resist Mana reduction: This character has an innate resistance against mana reduction.",
-            "Guard Rally: Every 4 turns, removes all Wither effects from all allies."
+            "Guard Rally: Every 4 turns, removes all Growth effects from all enemies."
         ]
     },
     {
@@ -10850,7 +10855,7 @@ const allTranslations =
         "name": "恶怨妖灵 (Nithgaest)",
         "passives": [
             "Perfect Accuracy: This character’s Special Skill never mises its target.",
-            "Resist Mana Reduction: This character has innate resistance against mana reduction.",
+            "Empowered Resist Mana Reduction: This character has innate resistance against mana reductions. They also gain 600 boosted health and 10% mana each time they resist.",
             "Stacking Attack On Damage Received: When this character receives damage from Special Skills, they gain +30% attack Stack (Max: 10). One Stack can be gained per turn."
         ]
     },
@@ -11467,6 +11472,16 @@ const allTranslations =
     {
         "originalIndex": 1591,
         "name": "索查 (Sorcha)",
+        "passives": []
+    },
+    {
+        "originalIndex": 1592,
+        "name": "经验拟态兽 (Experience Mimic) Rare",
+        "passives": []
+    },
+    {
+        "originalIndex": 1593,
+        "name": "进阶拟态兽 (Ascension Mimic) Epic Holy",
         "passives": []
     }
 ];

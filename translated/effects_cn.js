@@ -15378,5 +15378,15 @@ const translatedEffectsCN =
         "originalIndex": 1591,
         "name": "Sorcha",
         "effects": []
+    },
+    {
+        "originalIndex": 1592,
+        "name": "Experience Mimic Rare",
+        "effects": []
+    },
+    {
+        "originalIndex": 1593,
+        "name": "Ascension Mimic Epic Holy",
+        "effects": []
     }
 ];

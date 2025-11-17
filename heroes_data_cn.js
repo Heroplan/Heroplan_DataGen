@@ -10709,7 +10709,7 @@ window.allHeroes =
         "passives": [
             "受到状态异常时获得法力：该角色在受到状态异常或负面效果叠加时获得 5% 的法力。",
             "抵抗法力削减：该角色天生对法力削减有抵抗能力。",
-            "守卫集结：每 4 回合，移除所有盟友身上的衰退效果。"
+            "每 4 回合，移除所有敌人身上的成长效果。"
         ],
         "family": "garrison",
         "costume_id": 0,
@@ -27867,7 +27867,9 @@ window.allHeroes =
             "森林精灵小兵被召唤后，只要其所有者拥有该小兵，其所有者就会获得 +24% 法力生成。此效果无法驱散。",
             "所有敌人获得 -26% 攻击力，持续 4 回合。对烈火系角色，此状态效果无法净化且持续时间延长 2 回合。"
         ],
-        "passives": [],
+        "passives": [
+            "西苏之力 - 当该角色在战斗中首次以低生命值开始回合时，他们会恢复 15% 的生命值并获得 15% 的法力。"
+        ],
         "family": "kalevala",
         "costume_id": 1,
         "originalIndex": 407,
@@ -29692,7 +29694,7 @@ window.allHeroes =
         ],
         "passives": [
             "抵抗法力削减：该角色天生对法力削减有抵抗能力。",
-            "守卫集结：每 4 回合，移除所有盟友身上的衰退效果。"
+            "每 4 回合，移除所有敌人身上的成长效果。"
         ],
         "family": "garrison",
         "costume_id": 0,
@@ -30562,7 +30564,10 @@ window.allHeroes =
             "解除影响全体盟友攻击或防御的全部可净化状态异常，并随机施放给敌人。",
             "元素链为所有自然系盟友召唤出一名自然小兵，其可从施法者处继承 6% 生命和 10% 攻击力。"
         ],
-        "passives": [],
+        "passives": [
+            "抵抗致盲：该角色天生对影响精准度的状态异常有抵抗能力。不适用于来自盟友的原始状态效果。",
+            "小兵死亡时获得法力：每次摧毁此角色的一名小兵，该角色都会获得少量的法力。"
+        ],
         "family": "hotm2021",
         "costume_id": 0,
         "originalIndex": 445,
@@ -78833,7 +78838,7 @@ window.allHeroes =
         ],
         "passives": [
             "抵抗法力削减：该角色天生对法力削减有抵抗能力。",
-            "守卫集结：每 4 回合，移除所有盟友身上的衰退效果。"
+            "每 4 回合，移除所有敌人身上的成长效果。"
         ],
         "family": "garrison",
         "costume_id": 0,
@@ -104391,7 +104396,7 @@ window.allHeroes =
             "* 蝴蝶恶魔被召唤后，只要其所有者拥有蝴蝶恶魔，其所有者就会获得 -50% 精准度。此效果无法净化。进攻型特殊技能也有相同几率落空。"
         ],
         "passives": [
-            "特殊技能恢复生命：当该角色施放其特殊技能时，有 50% 的几率为所有队友恢复 15% 的生命值。如果特殊技能完全充能，则几率为 100%。"
+            "此角色在施放特殊技能时，有 50% 的几率为所有盟友恢复 15% 的生命值。若该特殊技能已完全充满，则几率为 100%。"
         ],
         "family": "magic",
         "costume_id": 0,
@@ -104886,7 +104891,7 @@ window.allHeroes =
         ],
         "passives": [
             "完美精准度：该角色的特殊技能必定命中目标。",
-            "抵抗法力削减：该角色天生对法力削减有抵抗能力。",
+            "强化抵抗法力减损：此英雄免疫法力减损。每次抵抗时还会获得 600 点生命加成和 10% 法力。",
             "受到伤害时获得攻击力叠加：当该角色受到特殊技能伤害时，获得 +30% 的攻击力叠加（最多 10 层）。每回合可叠加一层。"
         ],
         "family": "beowulf",
@@ -109099,7 +109104,7 @@ window.allHeroes =
             "* 所有盟友会以所受伤害的 115% 进行反击，持续 5 回合。"
         ],
         "passives": [
-            "特殊技能恢复生命：当该角色施放其特殊技能时，有 50% 的几率为所有队友恢复 15% 的生命值。如果特殊技能完全充能，则几率为 100%。",
+            "此角色在施放特殊技能时，有 50% 的几率为所有盟友恢复 15% 的生命值。若该特殊技能已完全充满，则几率为 100%。",
             "特殊技能叠加：当该角色施放其特殊技能时，所有敌人获得 -5% 的法力生成叠加。如果特殊技能完全充能，则所有敌人获得两层叠加。一个敌人最多可以有 10 层叠加。"
         ],
         "family": "magic",
@@ -110604,6 +110609,58 @@ window.allHeroes =
         "family": "plains_hunter",
         "costume_id": 0,
         "originalIndex": 1591,
+        "cn_skill_info": []
+    },
+    {
+        "name": "经验拟态兽 (Experience Mimic) Rare",
+        "fancy_name": "小齿秘藏",
+        "AetherPower": "",
+        "color": "红",
+        "class": "圣骑士",
+        "speed": "慢",
+        "skill": "",
+        "types": [],
+        "skill_types": [],
+        "source": "拟态兽召唤",
+        "Release date": "",
+        "specialId": "",
+        "heroId": "mimic_experience_rare_red",
+        "star": 3,
+        "power": null,
+        "attack": null,
+        "defense": null,
+        "health": null,
+        "effects": [],
+        "passives": [],
+        "family": "mimic",
+        "costume_id": 0,
+        "originalIndex": 1592,
+        "cn_skill_info": []
+    },
+    {
+        "name": "进阶拟态兽 (Ascension Mimic) Epic Holy",
+        "fancy_name": "小邪狞秘藏",
+        "AetherPower": "",
+        "color": "黄",
+        "class": "圣骑士",
+        "speed": "慢",
+        "skill": "",
+        "types": [],
+        "skill_types": [],
+        "source": "拟态兽召唤",
+        "Release date": "",
+        "specialId": "",
+        "heroId": "mimic_ascension_epic_yellow",
+        "star": 4,
+        "power": null,
+        "attack": null,
+        "defense": null,
+        "health": null,
+        "effects": [],
+        "passives": [],
+        "family": "mimic",
+        "costume_id": 0,
+        "originalIndex": 1593,
         "cn_skill_info": []
     }
 ];

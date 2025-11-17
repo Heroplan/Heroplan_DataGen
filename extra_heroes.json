@@ -97,5 +97,29 @@
         "costume_id": 0,
         "heroId": "monster_hunter_sorcha",
         "Lottery_Only":1
+    },
+    {
+        "name": "Experience Mimic Rare",
+        "fancy_name": "Trove of the Tiny Teeth",
+        "color": "Red",
+        "Release date": "",
+        "star": 3,
+        "family": "mimic",
+        "source": "mimic",
+        "costume_id": 0,
+        "heroId": "mimic_experience_rare_red",
+        "Lottery_Only":1
+    },
+    {
+        "name": "Ascension Mimic Epic Holy",
+        "fancy_name": "Grinning Cache of Lesser Evil",
+        "color": "Yellow",
+        "Release date": "",
+        "star": 4,
+        "family": "mimic",
+        "source": "mimic",
+        "costume_id": 0,
+        "heroId": "mimic_ascension_epic_yellow",
+        "Lottery_Only":1
     }
 ]

@@ -45,7 +45,7 @@ class Translator:
             self.compiled_rules = []
             for key, value in self.dictionary.items():
                 try:
-                    self.compiled_rules.append((re.compile(key, re.DOTALL), value))
+                    self.compiled_rules.append((re.compile(key, re.DOTALL | re.IGNORECASE), value))
                 except re.error as e:
                     self.logger.warning(f"警告 [{self.language_code}]: 无法编译正则表达式 '{key}': {e}")
             self.logger.info(f"翻译器 [{self.language_code}] 已初始化，共加载 {len(self.compiled_rules)} 条翻译规则。")
@@ -190,7 +190,7 @@ def main():
     total_items, translated_items_cn, failed_items_cn = 0, 0, 0
     translated_items_tc, failed_items_tc = 0, 0
 
-    split_pattern = re.compile(r'^(.*\S)\s*([\(\（][^)\）]+[\)\）])\s*([.。!?？]?)$', re.DOTALL)
+    split_pattern = re.compile(r'^(.*\S)\s*([\(\（][^)\）]+[\)\）])\s*([.。!?？]?)$', re.DOTALL | re.IGNORECASE)
     ending_punctuation = {'.', '!', '?', '。', '！', '？', ':', '：'}
 
     for item_index, item in enumerate(original_data):

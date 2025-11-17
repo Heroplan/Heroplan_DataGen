@@ -15378,5 +15378,15 @@ const allTranslations =
         "originalIndex": 1591,
         "name": "索查 (Sorcha)",
         "effects": []
+    },
+    {
+        "originalIndex": 1592,
+        "name": "经验拟态兽 (Experience Mimic) Rare",
+        "effects": []
+    },
+    {
+        "originalIndex": 1593,
+        "name": "进阶拟态兽 (Ascension Mimic) Epic Holy",
+        "effects": []
     }
 ];
