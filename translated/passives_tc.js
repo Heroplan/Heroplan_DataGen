@@ -3178,9 +3178,9 @@ const translatedPassivesTC =
         "originalIndex": 450,
         "name": "Bonzo",
         "passives": [
-            "快節奏：民謠。",
+            "快節奏：民謠：",
             "敵人施放的所有民謠僅持續 1 個回合。",
-            "快節奏：跳舞。",
+            "快節奏：跳舞：",
             "敵人施放的所有跳舞僅持續 1 個回合。"
         ]
     },
@@ -10026,9 +10026,9 @@ const translatedPassivesTC =
         "originalIndex": 1396,
         "name": "Astrid",
         "passives": [
-            "快節奏：民謠。",
+            "快節奏：民謠：",
             "敵人施放的所有民謠僅持續 1 個回合。",
-            "快節奏：跳舞。",
+            "快節奏：跳舞：",
             "敵人施放的所有跳舞僅持續 1 個回合。"
         ]
     },
