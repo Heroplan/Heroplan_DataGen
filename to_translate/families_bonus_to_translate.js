@@ -65,7 +65,9 @@ window.families_bonus = [
         "name": "mahayoddha",
         "bonus": [
             "Bonus for 1/2/3 Heroes:",
-            "At the end of each turn heroes in the Mahayoddha family gain Growth 100 / 110 / 120 attack and 100 / 110 / 120 defense."
+            "At the end of each turn heroes in the Mahayoddha family gain Growth 100 / 110 / 120 attack and 100 / 110 / 120 defense.",
+            "Limits for modified Ability Scores:",
+            " * Min 30% and max 170% of their original values."
         ]
     },
     {
@@ -668,6 +670,7 @@ window.families_bonus = [
         "name": "slayers",
         "bonus": [
             "Bonus for 1/2/3 Heroes:",
+            " * 50%/75%/100% chance to receive the following stacks at the end of each turn:",
             " * Stack (Max: 10): The caster recovers 15 HP each turn.",
             " * Stack (Max: 10): The caster gets +6% mana generation.",
             "The members of this family have additional perks in the Challenge Festival events."
