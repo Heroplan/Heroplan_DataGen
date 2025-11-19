@@ -467,7 +467,7 @@ window.allHeroes =
             "召喚小兵",
             "法力削減或格擋"
         ],
-        "source": "聖約召喚",
+        "source": "怪獸島召喚",
         "Release date": "2022-08-25",
         "specialId": "hunting_ballad",
         "passiveSkills": [
@@ -4934,7 +4934,7 @@ window.allHeroes =
             "疊加",
             "攻擊增益"
         ],
-        "source": "月活動 - 卡勒瓦拉",
+        "source": "怪獸島召喚",
         "Release date": "2023-05-06",
         "specialId": "jungle_riposte",
         "passiveSkills": [
@@ -6257,7 +6257,7 @@ window.allHeroes =
             "持續傷害",
             "召喚惡魔"
         ],
-        "source": "聖約召喚",
+        "source": "怪獸島召喚",
         "Release date": "2022-09-18",
         "specialId": "hunting_charge",
         "passiveSkills": [
@@ -18340,7 +18340,7 @@ window.allHeroes =
             "召喚惡魔",
             "持續傷害"
         ],
-        "source": "聖約召喚",
+        "source": "怪獸島召喚",
         "Release date": "2024-08-13",
         "specialId": "chitin_cage",
         "passiveSkills": [
@@ -19233,7 +19233,7 @@ window.allHeroes =
             "凈化",
             "全體攻擊 (打5)"
         ],
-        "source": "聖約召喚",
+        "source": "怪獸島召喚",
         "Release date": "2023-05-06",
         "specialId": "icebound_ritual",
         "passiveSkills": [
@@ -20444,7 +20444,7 @@ window.allHeroes =
             "攻擊增益",
             "持續傷害"
         ],
-        "source": "月活動 - 卡勒瓦拉",
+        "source": "怪獸島召喚",
         "Release date": "2023-07-27",
         "specialId": "protective_stance",
         "passiveSkills": [
@@ -20914,7 +20914,7 @@ window.allHeroes =
             "法力削減或格擋",
             "召喚小兵"
         ],
-        "source": "聖約召喚",
+        "source": "怪獸島召喚",
         "Release date": "2022-11-12",
         "specialId": "harpoon_sentry",
         "passiveSkills": [
@@ -23286,7 +23286,7 @@ window.allHeroes =
             "持續傷害",
             "召喚惡魔"
         ],
-        "source": "聖約召喚",
+        "source": "怪獸島召喚",
         "Release date": "2022-11-12",
         "specialId": "bone_arrow",
         "passiveSkills": [
@@ -23987,7 +23987,7 @@ window.allHeroes =
             "狙擊手",
             "治療削減"
         ],
-        "source": "月活動 - 飛沙帝國",
+        "source": "月活動 - 海灘派對",
         "Release date": "2018-06-21",
         "specialId": "horses_curse",
         "passiveSkills": null,
@@ -28321,7 +28321,7 @@ window.allHeroes =
             "持續傷害",
             "凈化"
         ],
-        "source": "聖約召喚",
+        "source": "怪獸島召喚",
         "Release date": "2023-05-06",
         "specialId": "cracked_skull_strike",
         "passiveSkills": [
@@ -35788,7 +35788,7 @@ window.allHeroes =
             "持續傷害",
             "額外傷害"
         ],
-        "source": "聖約召喚",
+        "source": "怪獸島召喚",
         "Release date": "2022-11-12",
         "specialId": "demolishing_crush",
         "passiveSkills": [
@@ -37124,7 +37124,7 @@ window.allHeroes =
             "狙擊手",
             "治療削減"
         ],
-        "source": "聖約召喚",
+        "source": "怪獸島召喚",
         "Release date": "2022-10-15",
         "specialId": "mantis_strike",
         "passiveSkills": [
@@ -39144,7 +39144,7 @@ window.allHeroes =
             "疊加",
             "持續傷害"
         ],
-        "source": "聖約召喚",
+        "source": "怪獸島召喚",
         "Release date": "2023-03-03",
         "specialId": "misty_punches",
         "passiveSkills": [
@@ -41855,7 +41855,7 @@ window.allHeroes =
             "持續傷害",
             "凈化"
         ],
-        "source": "聖約召喚",
+        "source": "怪獸島召喚",
         "Release date": "2023-02-09",
         "specialId": "mallet_swing_of_the_beast",
         "passiveSkills": [
@@ -42089,7 +42089,7 @@ window.allHeroes =
             "範圍攻擊 (打3)",
             "法力削減或格擋"
         ],
-        "source": "聖約召喚",
+        "source": "怪獸島召喚",
         "Release date": "2024-07-21",
         "specialId": "primeval_glaive",
         "passiveSkills": [
@@ -43819,7 +43819,7 @@ window.allHeroes =
             "持續傷害",
             "治療削減"
         ],
-        "source": "月活動 - 飛沙帝國",
+        "source": "月活動 - 海灘派對",
         "Release date": "2018-06-21",
         "specialId": "kings_curse",
         "passiveSkills": null,
@@ -43887,7 +43887,7 @@ window.allHeroes =
             "持續傷害",
             "法力生成增益"
         ],
-        "source": "月活動 - 飛沙帝國",
+        "source": "月活動 - 海灘派對",
         "Release date": "2021-06-21",
         "specialId": "kings_curse",
         "passiveSkills": null,
@@ -45481,7 +45481,7 @@ window.allHeroes =
             "凈化",
             "持續傷害"
         ],
-        "source": "聖約召喚",
+        "source": "怪獸島召喚",
         "Release date": "2023-02-09",
         "specialId": "stubby_reap",
         "passiveSkills": [
@@ -48493,7 +48493,7 @@ window.allHeroes =
             "治療削減",
             "狙擊手"
         ],
-        "source": "月活動 - 飛沙帝國",
+        "source": "月活動 - 海灘派對",
         "Release date": "2018-06-21",
         "specialId": "viziers_curse",
         "passiveSkills": null,
@@ -48698,7 +48698,7 @@ window.allHeroes =
             "持續傷害",
             "治療削減"
         ],
-        "source": "月活動 - 飛沙帝國",
+        "source": "月活動 - 海灘派對",
         "Release date": "2018-06-21",
         "specialId": "towers_curse",
         "passiveSkills": null,
@@ -49041,7 +49041,7 @@ window.allHeroes =
             "持續傷害",
             "狙擊手"
         ],
-        "source": "聖約召喚",
+        "source": "怪獸島召喚",
         "Release date": "2022-10-15",
         "specialId": "poison_tipped_arrow",
         "passiveSkills": [
@@ -54444,7 +54444,7 @@ window.allHeroes =
             "特殊治療",
             "狙擊手"
         ],
-        "source": "聖約召喚",
+        "source": "怪獸島召喚",
         "Release date": "2024-05-23",
         "specialId": "thundering_strike",
         "passiveSkills": [
@@ -55391,7 +55391,7 @@ window.allHeroes =
             "法力削減或格擋",
             "狙擊手"
         ],
-        "source": "聖約召喚",
+        "source": "怪獸島召喚",
         "Release date": "2022-12-24",
         "specialId": "titantooth_blade",
         "passiveSkills": [
@@ -56170,7 +56170,7 @@ window.allHeroes =
             "反射",
             "持續治療"
         ],
-        "source": "聖約召喚",
+        "source": "怪獸島召喚",
         "Release date": "2022-09-18",
         "specialId": "medicinal_fumes",
         "passiveSkills": [
@@ -56683,7 +56683,7 @@ window.allHeroes =
             "疊加",
             "攻擊增益"
         ],
-        "source": "月活動 - 卡勒瓦拉",
+        "source": "怪獸島召喚",
         "Release date": "2023-05-26",
         "specialId": "firestone_daggers",
         "passiveSkills": [
@@ -66933,7 +66933,7 @@ window.allHeroes =
             "反擊",
             "傷害分攤"
         ],
-        "source": "聖約召喚",
+        "source": "怪獸島召喚",
         "Release date": "2022-12-24",
         "specialId": "squeak_of_protection",
         "passiveSkills": [
@@ -71836,7 +71836,7 @@ window.allHeroes =
             "持續傷害",
             "召喚惡魔"
         ],
-        "source": "聖約召喚",
+        "source": "怪獸島召喚",
         "Release date": "2022-08-25",
         "specialId": "claws_of_the_hunter",
         "passiveSkills": [
@@ -75742,7 +75742,7 @@ window.allHeroes =
             "額外傷害",
             "持續傷害"
         ],
-        "source": "聖約召喚",
+        "source": "怪獸島召喚",
         "Release date": "2023-03-03",
         "specialId": "fury_of_the_silverback",
         "passiveSkills": [
@@ -76665,7 +76665,7 @@ window.allHeroes =
             "持續傷害",
             "召喚惡魔"
         ],
-        "source": "聖約召喚",
+        "source": "怪獸島召喚",
         "Release date": "2022-08-25",
         "specialId": "bone_ritual",
         "passiveSkills": [
@@ -77568,7 +77568,7 @@ window.allHeroes =
             "狙擊手",
             "狀態效果格擋"
         ],
-        "source": "聖約召喚",
+        "source": "怪獸島召喚",
         "Release date": "2022-10-15",
         "specialId": "flail_swing",
         "passiveSkills": [
@@ -84457,7 +84457,7 @@ window.allHeroes =
             "治療削減",
             "凈化"
         ],
-        "source": "聖約召喚",
+        "source": "怪獸島召喚",
         "Release date": "2022-12-24",
         "specialId": "dauntless_bladestorm",
         "passiveSkills": [
@@ -85773,7 +85773,7 @@ window.allHeroes =
             "治療",
             "反射"
         ],
-        "source": "聖約召喚",
+        "source": "怪獸島召喚",
         "Release date": "2024-10-18",
         "specialId": "cloak_of_feathers",
         "passiveSkills": [
@@ -86151,7 +86151,7 @@ window.allHeroes =
             "防禦增益",
             "生命強化"
         ],
-        "source": "聖約召喚",
+        "source": "怪獸島召喚",
         "Release date": "2024-06-26",
         "specialId": "scourge_of_the_strong",
         "passiveSkills": [
@@ -89790,7 +89790,7 @@ window.allHeroes =
             "持續傷害",
             "治療削減"
         ],
-        "source": "月活動 - 飛沙帝國",
+        "source": "月活動 - 海灘派對",
         "Release date": "2018-06-21",
         "specialId": "soldiers_curse",
         "passiveSkills": null,
@@ -90225,7 +90225,7 @@ window.allHeroes =
             "疊加",
             "攻擊增益"
         ],
-        "source": "月活動 - 卡勒瓦拉",
+        "source": "怪獸島召喚",
         "Release date": "2023-05-06",
         "specialId": "titanbone_chain_slash",
         "passiveSkills": [
@@ -90670,7 +90670,7 @@ window.allHeroes =
             "治療",
             "對自身或友軍負面效果"
         ],
-        "source": "聖約召喚",
+        "source": "怪獸島召喚",
         "Release date": "2022-10-15",
         "specialId": "nomadic_hymn",
         "passiveSkills": [
@@ -92839,7 +92839,7 @@ window.allHeroes =
             "持續傷害",
             "凈化"
         ],
-        "source": "聖約召喚",
+        "source": "怪獸島召喚",
         "Release date": "2022-12-24",
         "specialId": "bone_club_clonk",
         "passiveSkills": [
@@ -97869,7 +97869,7 @@ window.allHeroes =
             "持續治療",
             "復活"
         ],
-        "source": "聖約召喚",
+        "source": "怪獸島召喚",
         "Release date": "2023-02-09",
         "specialId": "liturgy_of_the_fallen",
         "passiveSkills": [
@@ -103864,7 +103864,7 @@ window.allHeroes =
             "額外傷害",
             "治療削減"
         ],
-        "source": "聖約召喚",
+        "source": "怪獸島召喚",
         "Release date": "2022-08-25",
         "specialId": "wild_cleave",
         "passiveSkills": [
@@ -106454,7 +106454,7 @@ window.allHeroes =
             "持續傷害",
             "治療削減"
         ],
-        "source": "月活動 - 飛沙帝國",
+        "source": "月活動 - 海灘派對",
         "Release date": "2018-06-21",
         "specialId": "queens_curse",
         "passiveSkills": null,
@@ -106522,7 +106522,7 @@ window.allHeroes =
             "持續傷害",
             "治療削減"
         ],
-        "source": "月活動 - 飛沙帝國",
+        "source": "月活動 - 海灘派對",
         "Release date": "2021-06-21",
         "specialId": "queens_curse",
         "passiveSkills": null,
@@ -106801,7 +106801,7 @@ window.allHeroes =
             "持續傷害",
             "治療削減"
         ],
-        "source": "月活動 - 飛沙帝國",
+        "source": "月活動 - 海灘派對",
         "Release date": "2020-06-29",
         "specialId": "sand_cyclone",
         "passiveSkills": null,
@@ -106865,7 +106865,7 @@ window.allHeroes =
             "驅散",
             "持續傷害"
         ],
-        "source": "月活動 - 飛沙帝國",
+        "source": "月活動 - 海灘派對",
         "Release date": "2022-05-16",
         "specialId": "sand_cyclone",
         "passiveSkills": null,
@@ -108190,7 +108190,7 @@ window.allHeroes =
             "疊加",
             "嘲諷"
         ],
-        "source": "月活動 - 卡勒瓦拉",
+        "source": "怪獸島召喚",
         "Release date": "2023-05-06",
         "specialId": "warcry_of_the_jungle",
         "passiveSkills": [
@@ -108267,7 +108267,7 @@ window.allHeroes =
             "繞過",
             "攻擊增益"
         ],
-        "source": "聖約召喚",
+        "source": "怪獸島召喚",
         "Release date": "2024-05-23",
         "specialId": "guiding_arrow",
         "passiveSkills": [
