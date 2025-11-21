@@ -5248,7 +5248,7 @@ const translatedEffectsTC =
         "name": "Leonie",
         "effects": [
             "對目標和附近敵人造成 250% 爪擊傷害。（對有任意防禦增益、小兵或超級小兵的敵人造成 400% 傷害。有任意防禦增益、小兵或超級小兵的敵人獲得 -35% 防禦，持續 6 回合。）",
-            "目標與附近敵人在 6 個回合內受到共計 1500 點重傷流血流血傷害。（若目標身上已有此效果，持續時間將會刷新，並且傷害會提高 300 點。最多共計 3000 點傷害）"
+            "目標與附近敵人在 6 個回合內受到共計 1500 點重傷流血傷害。（若目標身上已有此效果，持續時間將會刷新，並且傷害會提高 300 點。最多共計 3000 點傷害）"
         ]
     },
     {
@@ -7336,7 +7336,7 @@ const translatedEffectsTC =
         "name": "Carta",
         "effects": [
             "為所有盟友恢復 45% 生命值。",
-            "消除所有盟友的全部可淨化的狀態異常，並隨機分配給所有敵人。",
+            "消除所有盟友最新的可淨化的狀態異常，並隨機分配給所有敵人。",
             "所有盟友獲得 +33% 法力產出，持續 3 回合。"
         ]
     },
@@ -15405,6 +15405,66 @@ const translatedEffectsTC =
     {
         "originalIndex": 1593,
         "name": "Ascension Mimic Epic Holy",
+        "effects": []
+    },
+    {
+        "originalIndex": 1594,
+        "name": "Gunnar Glass",
+        "effects": []
+    },
+    {
+        "originalIndex": 1595,
+        "name": "Thorne Glass",
+        "effects": []
+    },
+    {
+        "originalIndex": 1596,
+        "name": "Sabina Glass",
+        "effects": []
+    },
+    {
+        "originalIndex": 1597,
+        "name": "Renfeld Glass",
+        "effects": []
+    },
+    {
+        "originalIndex": 1598,
+        "name": "Weland",
+        "effects": []
+    },
+    {
+        "originalIndex": 1599,
+        "name": "Bulklug",
+        "effects": []
+    },
+    {
+        "originalIndex": 1600,
+        "name": "Jax",
+        "effects": []
+    },
+    {
+        "originalIndex": 1601,
+        "name": "Ellery",
+        "effects": []
+    },
+    {
+        "originalIndex": 1602,
+        "name": "Ryleh",
+        "effects": []
+    },
+    {
+        "originalIndex": 1603,
+        "name": "Ulius C1",
+        "effects": []
+    },
+    {
+        "originalIndex": 1604,
+        "name": "Amelia",
+        "effects": []
+    },
+    {
+        "originalIndex": 1605,
+        "name": "Salome",
         "effects": []
     }
 ];

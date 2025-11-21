@@ -77,5 +77,159 @@
         "costume_id": 0,
         "heroId": "mimic_ascension_epic_yellow",
         "Lottery_Only":1
+    },
+    {
+        "name": "Gunnar Glass",
+        "fancy_name": "Glass Knight",
+        "color": "Blue",
+        "Release date": "",
+        "star": 3,
+        "family": "classic",
+        "costume_id": 3,
+        "heroId": "royal_knight_costume_glass",
+        "Lottery_Only":1
+    },
+    {
+        "name": "Thorne Glass",
+        "fancy_name": "Vitrail of Frostmorrow",
+        "color": "Blue",
+        "Release date": "",
+        "star": 5,
+        "family": "classic",
+        "costume_id": 4,
+        "heroId": "royal_knight_commander_costume_glass",
+        "Lottery_Only":1
+    },
+    {
+        "name": "Sabina Glass",
+        "fancy_name": "Deathbound Vitrail",
+        "color": "Purple",
+        "Release date": "",
+        "star": 4,
+        "family": "classic",
+        "costume_id": 4,
+        "heroId": "undead_female_warrior_costume_glass",
+        "Lottery_Only":1
+    },
+    {
+        "name": "Renfeld Glass",
+        "fancy_name": "Glass Assassin",
+        "color": "Purple",
+        "Release date": "",
+        "star": 3,
+        "family": "classic",
+        "costume_id": 3,
+        "heroId": "blackguard_skulker_costume_glass",
+        "Lottery_Only":1
+    },
+    {
+        "name": "Xandrella C1",
+        "fancy_name": "Idol of Elemental Creations",
+        "color": "Green",
+        "Release date": "",
+        "star": 5,
+        "family": "super_elemental",
+        "costume_id": 0,
+        "heroId": "elemental_xandrella_costume_idol",
+        "Lottery_Only":1
+    },
+    {
+        "name": "Weland",
+        "fancy_name": "Skillful Smith",
+        "color": "Yellow",
+        "Release date": "",
+        "star": 5,
+        "family": "beowulf",
+        "costume_id": 0,
+        "heroId": "beowulf_weland",
+        "Lottery_Only":1
+    },
+    {
+        "name": "Bulklug",
+        "fancy_name": "Blob Builder Slime",
+        "color": "Green",
+        "Release date": "",
+        "star": 5,
+        "family": "slime",
+        "costume_id": 0,
+        "heroId": "slime_bulklug",
+        "Lottery_Only":1
+    },
+    {
+        "name": "Jax",
+        "fancy_name": "Hounding Hooligan",
+        "color": "Green",
+        "Release date": "",
+        "star": 5,
+        "family": "forsaken",
+        "costume_id": 0,
+        "heroId": "forsaken_jax",
+        "Lottery_Only":1
+    },
+    {
+        "name": "Ellery",
+        "fancy_name": "Aberrant Biologist",
+        "color": "Green",
+        "Release date": "",
+        "star": 5,
+        "family": "institute",
+        "costume_id": 0,
+        "heroId": "institute_ellery",
+        "Lottery_Only":1
+    },
+    {
+        "name": "Ryleh",
+        "fancy_name": "Assistant Archivist",
+        "color": "Purple",
+        "Release date": "",
+        "star": 4,
+        "family": "institute",
+        "costume_id": 0,
+        "heroId": "institute_ryleh",
+        "Lottery_Only":1
+    },
+    {
+        "name": "Ulius C1",
+        "fancy_name": "Peculiar Arcane Buccaneer",
+        "color": "Blue",
+        "Release date": "",
+        "star": 5,
+        "family": "magic",
+        "costume_id": 1,
+        "heroId": "magic_ulius_costume_buccaneer",
+        "Lottery_Only":1
+    },
+    {
+        "name": "Amelia",
+        "fancy_name": "Magical Aviator",
+        "color": "Purple",
+        "Release date": "",
+        "star": 5,
+        "family": "magic_carpet",
+        "costume_id": 0,
+        "heroId": "magic_carpet_amelia",
+        "Lottery_Only":1
+    },
+    {
+        "name": "Salome",
+        "fancy_name": "Astral Demon Socialite",
+        "color": "Red",
+        "Release date": "",
+        "star": 5,
+        "family": "astral_demons",
+        "costume_id": 0,
+        "heroId": "astral_demon_salome",
+        "Lottery_Only":1
+    },
+    {
+        "name": "Aether Mimic",
+        "fancy_name": "Starved Storage of Rods",
+        "color": "Red",
+        "Release date": "",
+        "star": 5,
+        "family": "mimic",
+        "costume_id": 0,
+        "heroId": "mimic_aether_red",
+        "Lottery_Only":1
     }
 ]

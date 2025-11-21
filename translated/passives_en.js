@@ -11503,5 +11503,65 @@ const allTranslations =
         "originalIndex": 1593,
         "name": "进阶拟态兽 (Ascension Mimic) Epic Holy",
         "passives": []
+    },
+    {
+        "originalIndex": 1594,
+        "name": "古纳尔 (Gunnar) 玻璃",
+        "passives": []
+    },
+    {
+        "originalIndex": 1595,
+        "name": "索恩 (Thorne) 玻璃",
+        "passives": []
+    },
+    {
+        "originalIndex": 1596,
+        "name": "萨拜娜 (Sabina) 玻璃",
+        "passives": []
+    },
+    {
+        "originalIndex": 1597,
+        "name": "雷恩菲尔德 (Renfeld) 玻璃",
+        "passives": []
+    },
+    {
+        "originalIndex": 1598,
+        "name": "维兰德 (Weland)",
+        "passives": []
+    },
+    {
+        "originalIndex": 1599,
+        "name": "巴尔克卢格 (Bulklug)",
+        "passives": []
+    },
+    {
+        "originalIndex": 1600,
+        "name": "贾克斯 (Jax)",
+        "passives": []
+    },
+    {
+        "originalIndex": 1601,
+        "name": "埃勒里 (Ellery)",
+        "passives": []
+    },
+    {
+        "originalIndex": 1602,
+        "name": "莱耶 (Ryleh)",
+        "passives": []
+    },
+    {
+        "originalIndex": 1603,
+        "name": "尤留思 (Ulius) C1",
+        "passives": []
+    },
+    {
+        "originalIndex": 1604,
+        "name": "阿米莉亚 (Amelia)",
+        "passives": []
+    },
+    {
+        "originalIndex": 1605,
+        "name": "萨洛美 (Salome)",
+        "passives": []
     }
 ];

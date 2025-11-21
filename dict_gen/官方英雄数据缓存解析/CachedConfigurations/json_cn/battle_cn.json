@@ -55182,13 +55182,13 @@
           {
             "typeOfTarget": "Random",
             "effectType": "Damage",
-            "powerMultiplierPerMil": 1050,
+            "powerMultiplierPerMil": 1650,
             "powerMultiplierIncrementPerLevelPerMil": 50
           },
           {
             "typeOfTarget": "Random",
             "effectType": "ReduceMaxHealth",
-            "fixedPower": 160,
+            "fixedPower": 60,
             "fixedPowerIncrementPerLevel": 20
           }
         ],
@@ -80889,6 +80889,7 @@
       "manaMultiplierPerConsecutiveManaGainPerMil": 500
     },
     "specialSkillManaIncreasesAreNotAffectedByModifiers": false,
+    "assistSkillsUsedFirstInDefense": true,
     "assistSkills": [
       {
         "id": "dragon_blazing_inferno",
@@ -82094,5 +82095,5 @@
       "SharedDamage"
     ]
   },
-  "battleConfigId": 251880786
+  "battleConfigId": 1117475269
 }

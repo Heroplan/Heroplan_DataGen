@@ -36739,10 +36739,24 @@
                 "hero_limitbreak_legendary_red"
               ],
               "weights": [
-                99175,
-                515,
-                285,
+                98675,
+                900,
+                400,
                 25
+              ]
+            }
+          },
+          {
+            "type": "Item",
+            "idResolver": {
+              "resolverType": "WeightedRandom",
+              "entityIds": [
+                "",
+                "hero_limitbreak_alpha"
+              ],
+              "weights": [
+                9999,
+                1
               ]
             }
           }
@@ -36762,10 +36776,24 @@
                 "hero_limitbreak_legendary_green"
               ],
               "weights": [
-                99175,
-                515,
-                285,
+                98675,
+                900,
+                400,
                 25
+              ]
+            }
+          },
+          {
+            "type": "Item",
+            "idResolver": {
+              "resolverType": "WeightedRandom",
+              "entityIds": [
+                "",
+                "hero_limitbreak_alpha"
+              ],
+              "weights": [
+                9999,
+                1
               ]
             }
           }
@@ -36785,10 +36813,24 @@
                 "hero_limitbreak_legendary_blue"
               ],
               "weights": [
-                99175,
-                515,
-                285,
+                98675,
+                900,
+                400,
                 25
+              ]
+            }
+          },
+          {
+            "type": "Item",
+            "idResolver": {
+              "resolverType": "WeightedRandom",
+              "entityIds": [
+                "",
+                "hero_limitbreak_alpha"
+              ],
+              "weights": [
+                9999,
+                1
               ]
             }
           }
@@ -36808,10 +36850,24 @@
                 "hero_limitbreak_legendary_purple"
               ],
               "weights": [
-                99175,
-                515,
-                285,
+                98675,
+                900,
+                400,
                 25
+              ]
+            }
+          },
+          {
+            "type": "Item",
+            "idResolver": {
+              "resolverType": "WeightedRandom",
+              "entityIds": [
+                "",
+                "hero_limitbreak_alpha"
+              ],
+              "weights": [
+                9999,
+                1
               ]
             }
           }
@@ -36831,10 +36887,24 @@
                 "hero_limitbreak_legendary_yellow"
               ],
               "weights": [
-                99175,
-                515,
-                285,
+                98675,
+                900,
+                400,
                 25
+              ]
+            }
+          },
+          {
+            "type": "Item",
+            "idResolver": {
+              "resolverType": "WeightedRandom",
+              "entityIds": [
+                "",
+                "hero_limitbreak_alpha"
+              ],
+              "weights": [
+                9999,
+                1
               ]
             }
           }
@@ -43663,5 +43733,5 @@
       }
     ]
   },
-  "lootsConfigId": 2223471593
+  "lootsConfigId": 730209373
 }

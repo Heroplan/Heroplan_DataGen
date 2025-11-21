@@ -51400,7 +51400,7 @@
           "sideAffected": "Allies",
           "typeOfTarget": "All",
           "effectType": "Heal",
-          "powerMultiplierPerMil": 200,
+          "powerMultiplierPerMil": 190,
           "powerMultiplierIncrementPerLevelPerMil": 10
         },
         "maxLevel": 8,
@@ -63336,7 +63336,7 @@
       {
         "propertyType": "SecondaryDirectEffect",
         "id": "health_boost_salome",
-        "fixedPower": 900,
+        "fixedPower": 1000,
         "fixedPowerIncrementPerLevel": 50,
         "effectType": "HealthBoost",
         "targetType": "All",
@@ -63369,5 +63369,5 @@
       }
     ]
   },
-  "specialsConfigId": 616820419
+  "specialsConfigId": 3076325835
 }

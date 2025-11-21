@@ -11503,5 +11503,65 @@ const translatedPassivesTC =
         "originalIndex": 1593,
         "name": "Ascension Mimic Epic Holy",
         "passives": []
+    },
+    {
+        "originalIndex": 1594,
+        "name": "Gunnar Glass",
+        "passives": []
+    },
+    {
+        "originalIndex": 1595,
+        "name": "Thorne Glass",
+        "passives": []
+    },
+    {
+        "originalIndex": 1596,
+        "name": "Sabina Glass",
+        "passives": []
+    },
+    {
+        "originalIndex": 1597,
+        "name": "Renfeld Glass",
+        "passives": []
+    },
+    {
+        "originalIndex": 1598,
+        "name": "Weland",
+        "passives": []
+    },
+    {
+        "originalIndex": 1599,
+        "name": "Bulklug",
+        "passives": []
+    },
+    {
+        "originalIndex": 1600,
+        "name": "Jax",
+        "passives": []
+    },
+    {
+        "originalIndex": 1601,
+        "name": "Ellery",
+        "passives": []
+    },
+    {
+        "originalIndex": 1602,
+        "name": "Ryleh",
+        "passives": []
+    },
+    {
+        "originalIndex": 1603,
+        "name": "Ulius C1",
+        "passives": []
+    },
+    {
+        "originalIndex": 1604,
+        "name": "Amelia",
+        "passives": []
+    },
+    {
+        "originalIndex": 1605,
+        "name": "Salome",
+        "passives": []
     }
 ];

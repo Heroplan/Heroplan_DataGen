@@ -243,7 +243,7 @@
     "id": "Glass Knight",
     "element": "Blue",
     "family": "classic",
-    "baseHealth": 389,
+    "baseHealth": 390,
     "baseAttack": 255,
     "baseDefense": 263,
     "manaSpeedId": "slow",
@@ -255,7 +255,7 @@
     "aetherGift": "Special Armor",
     "rarity": 3,
     "specialId": "glass_stone_skin_gunnar",
-    "canBeReceivedDate": "2200-01-01 07:00:00",
+    "canBeReceivedDate": "2025-11-25 07:00:00",
     "origin": "Season1",
     "parentHeroId": "royal_knight"
   },
@@ -17418,7 +17418,7 @@
     "specialId": "scroll_of_equations",
     "canBeReceivedDate": "2023-08-23 07:00:00",
     "origin": "Tower of Magic",
-    "costumeBonusesId": "magic"
+    "costumeBonusesId": "magic_nov_2025_ulius"
   },
   "magic_telonius": {
     "id": "Centaur of the Woodlands",
@@ -20385,7 +20385,7 @@
     "id": "Vitrail of Frostmorrow",
     "element": "Blue",
     "family": "classic",
-    "baseHealth": 632,
+    "baseHealth": 634,
     "baseAttack": 338,
     "baseDefense": 362,
     "manaSpeedId": "average",
@@ -20397,7 +20397,7 @@
     "aetherGift": "Special Boost",
     "rarity": 5,
     "specialId": "glass_finisher_thorne",
-    "canBeReceivedDate": "2200-01-01 07:00:00",
+    "canBeReceivedDate": "2025-11-25 07:00:00",
     "origin": "Season1",
     "parentHeroId": "royal_knight_commander"
   },
@@ -20817,7 +20817,7 @@
     "aetherGift": "Special Armor",
     "rarity": 4,
     "specialId": "fog_of_the_glass_sabina",
-    "canBeReceivedDate": "2200-01-01 07:00:00",
+    "canBeReceivedDate": "2025-11-25 07:00:00",
     "origin": "Season1",
     "parentHeroId": "undead_female_warrior"
   },
@@ -21237,7 +21237,7 @@
     "aetherGift": "Special Boost",
     "rarity": 3,
     "specialId": "glass_leeching_stars_renfeld",
-    "canBeReceivedDate": "2200-01-01 07:00:00",
+    "canBeReceivedDate": "2025-11-25 07:00:00",
     "origin": "Season1",
     "parentHeroId": "blackguard_skulker"
   },
@@ -21802,7 +21802,7 @@
     "aetherGift": "Special Armor",
     "rarity": 5,
     "specialId": "melody_of_mana_control",
-    "canBeReceivedDate": "2200-01-01 07:00:00",
+    "canBeReceivedDate": "2025-12-07 07:00:00",
     "origin": "SuperElemental",
     "parentHeroId": "elemental_xandrella"
   },
@@ -27865,7 +27865,7 @@
     "aetherGift": "Defense Up",
     "rarity": 4,
     "specialId": "trial_of_the_waters",
-    "canBeReceivedDate": "2200-01-01 07:00:00",
+    "canBeReceivedDate": "2025-12-06 07:00:00",
     "origin": "Beowulf's Challenge"
   },
   "beowulf_freawaru": {
@@ -27945,7 +27945,7 @@
     "aetherGift": "Bulwark",
     "rarity": 5,
     "specialId": "gleaming_sword_and_iron_mail",
-    "canBeReceivedDate": "2200-01-01 07:00:00",
+    "canBeReceivedDate": "2025-12-06 07:00:00",
     "origin": "Beowulf's Challenge"
   },
   "fire_god_eliane": {
@@ -30959,9 +30959,10 @@
     "aetherGift": "Bulwark",
     "rarity": 5,
     "specialId": "aether_mimic_bite_red",
-    "canBeReceivedDate": "2200-01-01 07:00:00",
-    "origin": "Mimic",
-    "forceUseCostumeLevelUpAndUpgradeCosts": true
+    "canBeReceivedDate": "2025-11-21 07:00:00",
+    "origin": "SecretSummonAetherMimicRed",
+    "forceUseCostumeLevelUpAndUpgradeCosts": true,
+    "isSecret": true
   },
   "mimic_aether_green": {
     "id": "Starved Storage of Rods",
@@ -30980,8 +30981,9 @@
     "rarity": 5,
     "specialId": "aether_mimic_bite_green",
     "canBeReceivedDate": "2200-01-01 07:00:00",
-    "origin": "Mimic",
-    "forceUseCostumeLevelUpAndUpgradeCosts": true
+    "origin": "SecretSummonAetherMimicGreen",
+    "forceUseCostumeLevelUpAndUpgradeCosts": true,
+    "isSecret": true
   },
   "mimic_aether_blue": {
     "id": "Starved Storage of Rods",
@@ -31000,8 +31002,9 @@
     "rarity": 5,
     "specialId": "aether_mimic_bite_blue",
     "canBeReceivedDate": "2200-01-01 07:00:00",
-    "origin": "Mimic",
-    "forceUseCostumeLevelUpAndUpgradeCosts": true
+    "origin": "SecretSummonAetherMimicBlue",
+    "forceUseCostumeLevelUpAndUpgradeCosts": true,
+    "isSecret": true
   },
   "mimic_aether_purple": {
     "id": "Starved Storage of Rods",
@@ -31020,8 +31023,9 @@
     "rarity": 5,
     "specialId": "aether_mimic_bite_purple",
     "canBeReceivedDate": "2200-01-01 07:00:00",
-    "origin": "Mimic",
-    "forceUseCostumeLevelUpAndUpgradeCosts": true
+    "origin": "SecretSummonAetherMimicPurple",
+    "forceUseCostumeLevelUpAndUpgradeCosts": true,
+    "isSecret": true
   },
   "mimic_aether_yellow": {
     "id": "Starved Storage of Rods",
@@ -31040,8 +31044,9 @@
     "rarity": 5,
     "specialId": "aether_mimic_bite_yellow",
     "canBeReceivedDate": "2200-01-01 07:00:00",
-    "origin": "Mimic",
-    "forceUseCostumeLevelUpAndUpgradeCosts": true
+    "origin": "SecretSummonAetherMimicYellow",
+    "forceUseCostumeLevelUpAndUpgradeCosts": true,
+    "isSecret": true
   },
   "slime_boboosang": {
     "id": "Elder Peddler Slime",
@@ -31066,9 +31071,9 @@
     "id": "Blob Builder Slime",
     "element": "Green",
     "family": "slime",
-    "baseHealth": 1032,
-    "baseAttack": 568,
-    "baseDefense": 574,
+    "baseHealth": 1098,
+    "baseAttack": 628,
+    "baseDefense": 630,
     "manaSpeedId": "average",
     "passiveSkills": [
       "summon_slime_minion_on_damage_green",
@@ -31078,7 +31083,7 @@
     "aetherGift": "Boosted Regen",
     "rarity": 5,
     "specialId": "building_blocks_bulklug",
-    "canBeReceivedDate": "2200-01-01 07:00:00",
+    "canBeReceivedDate": "2025-11-26 07:00:00",
     "origin": "SuperElemental"
   },
   "slime_achillea": {
@@ -31168,7 +31173,7 @@
     "aetherGift": "Attack Up",
     "rarity": 3,
     "specialId": "ravenous_pounce",
-    "canBeReceivedDate": "2200-01-01 07:00:00",
+    "canBeReceivedDate": "2025-12-03 07:00:00",
     "origin": "ShadowQuest"
   },
   "institute_ellery": {
@@ -31186,7 +31191,7 @@
     "aetherGift": "Ailment Immunity",
     "rarity": 5,
     "specialId": "mutated_specimen",
-    "canBeReceivedDate": "2200-01-01 07:00:00",
+    "canBeReceivedDate": "2025-12-03 07:00:00",
     "origin": "ShadowQuest"
   },
   "institute_ryleh": {
@@ -31204,7 +31209,7 @@
     "aetherGift": "Defense Up",
     "rarity": 4,
     "specialId": "binding_contract",
-    "canBeReceivedDate": "2200-01-01 07:00:00",
+    "canBeReceivedDate": "2025-12-03 07:00:00",
     "origin": "ShadowQuest"
   },
   "magic_carpet_shareef": {
@@ -31519,9 +31524,9 @@
     "id": "Peculiar Arcane Buccaneer",
     "element": "Blue",
     "family": "magic",
-    "baseHealth": 838,
-    "baseAttack": 434,
-    "baseDefense": 445,
+    "baseHealth": 841,
+    "baseAttack": 435,
+    "baseDefense": 446,
     "manaSpeedId": "charge_magic",
     "passiveSkills": [
       "magic_mana_regen_stack_on_special_costume",
@@ -31534,7 +31539,7 @@
     ],
     "rarity": 5,
     "specialId": "scroll_of_navigation",
-    "canBeReceivedDate": "2200-01-01 07:00:00",
+    "canBeReceivedDate": "2025-11-30 07:00:00",
     "origin": "Tower of Magic",
     "parentHeroId": "magic_ulius"
   },
@@ -31738,9 +31743,9 @@
     "id": "Magical Aviator",
     "element": "Purple",
     "family": "magic_carpet",
-    "baseHealth": 1020,
-    "baseAttack": 612,
-    "baseDefense": 615,
+    "baseHealth": 1079,
+    "baseAttack": 632,
+    "baseDefense": 635,
     "manaSpeedId": "very_fast",
     "passiveSkills": [
       "reduce_big_minion_health",
@@ -31751,7 +31756,7 @@
     "aetherGift": "Regen",
     "rarity": 5,
     "specialId": "swift_maneuvers",
-    "canBeReceivedDate": "2200-01-01 07:00:00",
+    "canBeReceivedDate": "2025-11-30 07:00:00",
     "origin": "Tower of Magic"
   },
   "magic_carpet_crustee": {
@@ -31913,9 +31918,9 @@
     "id": "The Deceitful Marksman",
     "element": "Purple",
     "family": "shady_scoundrels",
-    "baseHealth": 1062,
-    "baseAttack": 552,
-    "baseDefense": 551,
+    "baseHealth": 1102,
+    "baseAttack": 629,
+    "baseDefense": 628,
     "manaSpeedId": "fast",
     "passiveSkills": [
       "cheat_death",
@@ -31932,9 +31937,9 @@
     "id": "The Road Bandit",
     "element": "Blue",
     "family": "shady_scoundrels",
-    "baseHealth": 1097,
-    "baseAttack": 533,
-    "baseDefense": 557,
+    "baseHealth": 1109,
+    "baseAttack": 618,
+    "baseDefense": 639,
     "manaSpeedId": "average",
     "passiveSkills": [
       "cheat_death",
@@ -32006,9 +32011,9 @@
     "id": "Astral Demon Socialite",
     "element": "Red",
     "family": "astral_demons",
-    "baseHealth": 1121,
-    "baseAttack": 598,
-    "baseDefense": 643,
+    "baseHealth": 1099,
+    "baseAttack": 618,
+    "baseDefense": 642,
     "manaSpeedId": "average",
     "passiveSkills": [
       "resist_heal_multiplier_debuffs",
@@ -32018,7 +32023,7 @@
     "aetherGift": "Regen",
     "rarity": 5,
     "specialId": "astral_assistance",
-    "canBeReceivedDate": "2200-01-01 07:00:00",
+    "canBeReceivedDate": "2025-11-29 07:00:00",
     "origin": "Astral Plane"
   }
 }

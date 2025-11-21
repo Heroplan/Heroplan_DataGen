@@ -5248,7 +5248,7 @@ const translatedEffectsCN =
         "name": "Leonie",
         "effects": [
             "对目标和附近敌人造成 250% 抓挠伤害。（对拥有任何防御增益、小兵或超级小兵的敌人造成 400% 伤害。拥有任何防御增益、小兵或超级小兵的敌人获得 -35% 防御，持续 6 回合。）",
-            "目标与附近敌人在 6 回合内受到共计 1500 点奔涌流血流血伤害。（若目标身上已有此效果，持续时间将会刷新，并且伤害会提高 300 点。最多共计 3000 点伤害）"
+            "目标与附近敌人在 6 回合内受到共计 1500 点奔涌流血伤害。（若目标身上已有此效果，持续时间将会刷新，并且伤害会提高 300 点。最多共计 3000 点伤害）"
         ]
     },
     {
@@ -7336,7 +7336,7 @@ const translatedEffectsCN =
         "name": "Carta",
         "effects": [
             "为所有盟友恢复 45% 生命值。",
-            "解除所有盟友的全部可净化状态异常并随机施放给敌人。",
+            "解除所有盟友的最新可净化状态异常并随机施放给敌人。",
             "所有盟友获得 +33% 法力生成，持续 3 回合。"
         ]
     },
@@ -9103,7 +9103,7 @@ const translatedEffectsCN =
         "name": "Victor",
         "effects": [
             "对目标造成 250% 伤害。",
-            "目标在 5 回合内受到共计 510 点奔涌流血流血伤害。若目标身上已有此效果，持续时间将会刷新，并且伤害会提高 455 点。总伤害上限: 1410。",
+            "目标在 5 回合内受到共计 510 点奔涌流血伤害。若目标身上已有此效果，持续时间将会刷新，并且伤害会提高 455 点。总伤害上限: 1410。",
             "施法者偷取目标所获治疗的 75%，持续 5 回合。",
             "所有盟友获得 +30% 防御，持续 5 回合。"
         ]
@@ -9113,7 +9113,7 @@ const translatedEffectsCN =
         "name": "Victor C1",
         "effects": [
             "对目标及附近敌人造成 155% 伤害。",
-            "目标与附近敌人在 5 回合内受到共计 330 点奔涌流血流血伤害。若目标身上已有此效果，持续时间将会刷新，并且伤害会提高 450 点。总伤害上限: 1225。",
+            "目标与附近敌人在 5 回合内受到共计 330 点奔涌流血伤害。若目标身上已有此效果，持续时间将会刷新，并且伤害会提高 450 点。总伤害上限: 1225。",
             "施法者偷取目标及其附近敌人所获治疗的 61%，持续 5 回合。",
             "目标与附近敌人获得 -24% 防御，持续 5 回合。"
         ]
@@ -15405,6 +15405,66 @@ const translatedEffectsCN =
     {
         "originalIndex": 1593,
         "name": "Ascension Mimic Epic Holy",
+        "effects": []
+    },
+    {
+        "originalIndex": 1594,
+        "name": "Gunnar Glass",
+        "effects": []
+    },
+    {
+        "originalIndex": 1595,
+        "name": "Thorne Glass",
+        "effects": []
+    },
+    {
+        "originalIndex": 1596,
+        "name": "Sabina Glass",
+        "effects": []
+    },
+    {
+        "originalIndex": 1597,
+        "name": "Renfeld Glass",
+        "effects": []
+    },
+    {
+        "originalIndex": 1598,
+        "name": "Weland",
+        "effects": []
+    },
+    {
+        "originalIndex": 1599,
+        "name": "Bulklug",
+        "effects": []
+    },
+    {
+        "originalIndex": 1600,
+        "name": "Jax",
+        "effects": []
+    },
+    {
+        "originalIndex": 1601,
+        "name": "Ellery",
+        "effects": []
+    },
+    {
+        "originalIndex": 1602,
+        "name": "Ryleh",
+        "effects": []
+    },
+    {
+        "originalIndex": 1603,
+        "name": "Ulius C1",
+        "effects": []
+    },
+    {
+        "originalIndex": 1604,
+        "name": "Amelia",
+        "effects": []
+    },
+    {
+        "originalIndex": 1605,
+        "name": "Salome",
         "effects": []
     }
 ];

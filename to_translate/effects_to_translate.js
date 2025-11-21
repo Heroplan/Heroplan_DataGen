@@ -15406,5 +15406,65 @@ const allTranslations =
         "originalIndex": 1593,
         "name": "Ascension Mimic Epic Holy",
         "effects": []
+    },
+    {
+        "originalIndex": 1594,
+        "name": "Gunnar Glass",
+        "effects": []
+    },
+    {
+        "originalIndex": 1595,
+        "name": "Thorne Glass",
+        "effects": []
+    },
+    {
+        "originalIndex": 1596,
+        "name": "Sabina Glass",
+        "effects": []
+    },
+    {
+        "originalIndex": 1597,
+        "name": "Renfeld Glass",
+        "effects": []
+    },
+    {
+        "originalIndex": 1598,
+        "name": "Weland",
+        "effects": []
+    },
+    {
+        "originalIndex": 1599,
+        "name": "Bulklug",
+        "effects": []
+    },
+    {
+        "originalIndex": 1600,
+        "name": "Jax",
+        "effects": []
+    },
+    {
+        "originalIndex": 1601,
+        "name": "Ellery",
+        "effects": []
+    },
+    {
+        "originalIndex": 1602,
+        "name": "Ryleh",
+        "effects": []
+    },
+    {
+        "originalIndex": 1603,
+        "name": "Ulius C1",
+        "effects": []
+    },
+    {
+        "originalIndex": 1604,
+        "name": "Amelia",
+        "effects": []
+    },
+    {
+        "originalIndex": 1605,
+        "name": "Salome",
+        "effects": []
     }
 ];

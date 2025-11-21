@@ -2162,7 +2162,7 @@
         "id": "lottery_black_default",
         "gemPrice": 350,
         "amount": 1,
-        "uiPriority": 120,
+        "uiPriority": 144,
         "associatedEvent": "BlackSummon",
         "bonusChest": "black_chest",
         "bonusChestRequirement": 10,
@@ -3846,7 +3846,7 @@
         "id": "lottery_tower_magic_default_ad",
         "sourceProductId": "lottery_tower_magic_default",
         "amount": 1,
-        "advertisedHero": "magic_carpet_shareef",
+        "advertisedHero": "magic_carpet_amelia",
         "associatedEvent": "TowerMagic",
         "bucketWeights": [
           3215,
@@ -3873,7 +3873,7 @@
         "gemPrice": 350,
         "amount": 1,
         "uiPriority": 144,
-        "advertisedHero": "magic_carpet_shareef",
+        "advertisedHero": "magic_carpet_amelia",
         "associatedEvent": "TowerMagic",
         "bucketWeights": [
           643,
@@ -29574,12 +29574,12 @@
           {
             "type": "Item",
             "id": "titan_battle_scroll_of_alteration",
-            "amount": 12
+            "amount": 20
           },
           {
             "type": "Item",
             "id": "titan_battle_hurricane",
-            "amount": 12
+            "amount": 20
           }
         ]
       },
@@ -29646,15 +29646,13 @@
           },
           {
             "type": "Item",
-            "id": "refill_food_giant",
-            "amount": 8,
-            "zyngaStoreExtraAmount": 2
+            "id": "relic_harvester_generic",
+            "amount": 1
           },
           {
             "type": "Item",
-            "id": "refill_iron_giant",
-            "amount": 8,
-            "zyngaStoreExtraAmount": 2
+            "id": "relic_harvester_items",
+            "amount": 1
           }
         ]
       },
@@ -29803,24 +29801,25 @@
         "realMoneyProductInStore": true,
         "contents": [
           {
-            "type": "Gem",
-            "amount": 10000,
-            "zyngaStoreExtraAmount": 2000
+            "type": "Item",
+            "id": "tome_limit_break_2",
+            "amount": 1
           },
           {
             "type": "Item",
-            "id": "lottery_legendary_troop",
-            "amount": 3000
+            "id": "tome_limit_break_1",
+            "amount": 1
           },
           {
-            "type": "Troop",
-            "id": "rainbow_epic_trainer",
-            "amount": 10
+            "type": "Item",
+            "id": "tome_levels_legendary",
+            "amount": 1
           },
           {
-            "type": "Troop",
-            "id": "rainbow_rare_trainer",
-            "amount": 10
+            "type": "Item",
+            "id": "tome_levels_epic",
+            "amount": 20,
+            "zyngaStoreExtraAmount": 5
           }
         ]
       },
@@ -36054,7 +36053,6 @@
         "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [],
-        "allianceGiftCustomContentId": "dynamic_alliancegift",
         "dynamicOfferProduct": true
       },
       {
@@ -36083,6 +36081,7 @@
         "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [],
+        "allianceGiftCustomContentId": "dynamic4_alliancegift",
         "dynamicOfferProduct": true
       },
       {
@@ -36092,6 +36091,7 @@
         "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [],
+        "allianceGiftCustomContentId": "dynamic2_alliancegift",
         "dynamicOfferProduct": true
       },
       {
@@ -36101,7 +36101,6 @@
         "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [],
-        "allianceGiftCustomContentId": "dynamic2_alliancegift",
         "dynamicOfferProduct": true
       },
       {
@@ -36111,7 +36110,6 @@
         "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [],
-        "allianceGiftCustomContentId": "dynamic4_alliancegift",
         "dynamicOfferProduct": true
       },
       {
@@ -57709,5 +57707,5 @@
       }
     ]
   },
-  "productsConfigId": 1323140005
+  "productsConfigId": 911510456
 }
