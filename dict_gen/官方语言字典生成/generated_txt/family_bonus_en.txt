@@ -1,7 +1,5 @@
 "familybonuses.description.long.abyss","{CHANCE}%/{2MEMBERSCHANCE}%/{3MEMBERSCHANCE}%/{4MEMBERSCHANCE}%/{5MEMBERSCHANCE}% chance to spawn an Underwild Gem on the board when this Hero casts their Special Skill.
-
 The Underwild Gems deal {FIXEDPOWER} damage to a random enemy each turn until it is matched.
-
 Underwild Gems can only spawn on regular shields that match the element of this Hero."
 "familybonuses.description.long.add_mana_on_received_special_damage_astral_demons.onceperturn","This character gains {1MEMBERMULTIPLIERPERCENT}/{2MEMBERSMULTIPLIERPERCENT}% mana when taking Special Skill damage. This effect can activate once per turn."
 "familybonuses.description.long.attack_multiplier","{2MEMBERSMULTIPLIERPERCENTCHANGE}%/{3MEMBERSMULTIPLIERPERCENTCHANGE}%/{4MEMBERSMULTIPLIERPERCENTCHANGE}%/{5MEMBERSMULTIPLIERPERCENTCHANGE}% attack."
@@ -18,16 +16,11 @@ Underwild Gems can only spawn on regular shields that match the element of this 
 "familybonuses.description.long.buff_on_ransack_shady_scoundrels","All allies get {FAMILYMEMBERS1ATTACK}%/{FAMILYMEMBERS2ATTACK}%/{FAMILYMEMBERS3ATTACK}% attack stack each time this character attempts to Ransack an enemy. (Max stack: {MAXSTACK})"
 "familybonuses.description.long.build_charge_beauty_beast","Different Heroes have different Humility requirements.
 When the Hero casts the strong version of their Special Skill, only the required amount of Humility is consumed.
- Maximum Humility: 100.
-
+Maximum Humility: 100.
 Bonus for 1/2/3 unique Heroes of the same family:
 The Hero gains {1MEMBERCHARGEFROMDAMAGE}/{2MEMBERSCHARGEFROMDAMAGE}/{3MEMBERSCHARGEFROMDAMAGE} Humility when receiving direct damage from Special Skills.
 The Hero gains {1MEMBERCHARGEFROMHEAL}/{2MEMBERSCHARGEFROMHEAL}/{3MEMBERSCHARGEFROMHEAL} Humility when receiving direct healing from Special Skills."
 "familybonuses.description.long.build_charge_beauty_beast.oncefromdamage.oncefromheal","Different Heroes have different Humility requirements.
-When the Hero casts the strong version of their Special Skill, only the required amount of Humility is consumed.
- Maximum Humility: 100.
-
-Bonus for 1/2/3 unique Heroes of the same family:
 The Hero gains {1MEMBERCHARGEFROMDAMAGE}/{2MEMBERSCHARGEFROMDAMAGE}/{3MEMBERSCHARGEFROMDAMAGE} Humility when receiving direct damage from Special Skills. Max once per turn.
 The Hero gains {1MEMBERCHARGEFROMHEAL}/{2MEMBERSCHARGEFROMHEAL}/{3MEMBERSCHARGEFROMHEAL} Humility when receiving direct healing from Special Skills. Max once per turn."
 "familybonuses.description.long.build_charge_construct","The Construct Core is charged each time this character receives damage from normal attacks or Special Skills."
@@ -47,19 +40,13 @@ The Hero gains {1MEMBERCHARGEFROMHEAL}/{2MEMBERSCHARGEFROMHEAL}/{3MEMBERSCHARGEF
 "familybonuses.description.long.critical_multiplier_outlaw","{MULTIPLIERPERCENTCHANGE}%/{2MEMBERSMULTIPLIERPERCENTCHANGE}%/{3MEMBERSMULTIPLIERPERCENTCHANGE}% critical chance."
 "familybonuses.description.long.critical_multiplier_realm","{2MEMBERSMULTIPLIERPERCENTCHANGE}%/{3MEMBERSMULTIPLIERPERCENTCHANGE}% critical chance."
 "familybonuses.description.long.damage_gem_per_turn","For each ally who has the same element as this Hero, a shield with this Hero's element is replaced with a Power Gem each turn.
-
 The Power Gem deals {FIXEDPOWER} damage to a random enemy each turn until it is matched.
-
 Power Gems can only spawn on regular shields that match the element of this Hero.
-
 Only {MAXTILESONBOARD} Power Gems per element can be on the board at the same time."
 "familybonuses.description.long.damage_gem_per_turn.match_effect.directeffect.damage.all.enemies","One or more shields are enhanced to Power Gems each turn.
 The amount is the same as {ELEMENT} heroes in the team. {MAXTILESONBOARD} Power Gems per element can be on the board at the same time.
-
 The Power Gem deals {FIXEDPOWER} damage to a random enemy each turn until it is matched. When Power Gems are matched, they deal {MATCHEFFECTFIXEDPOWER} damage to all enemies."
 "familybonuses.description.long.damage_gem_per_turn.match_effect.directeffect.damage.random.enemies","One or more shields are enhanced to Power Gems each turn.
-The amount is the same as {ELEMENT} heroes in the team. {MAXTILESONBOARD} Power Gems per element can be on the board at the same time.
-
 The Power Gem deals {FIXEDPOWER} damage to a random enemy each turn until it is matched. When Power Gems are matched, they deal {MATCHEFFECTFIXEDPOWER} damage to a random enemy."
 "familybonuses.description.long.damage_on_special_dodge_wild_cat","Each Special Skill dodged damages the attacker for {1MEMBERFIXEDVALUE}/{2MEMBERSFIXEDVALUE}/{3MEMBERSFIXEDVALUE} damage."
 "familybonuses.description.long.defense_multiplier","{2MEMBERSMULTIPLIERPERCENTCHANGE}%/{3MEMBERSMULTIPLIERPERCENTCHANGE}%/{4MEMBERSMULTIPLIERPERCENTCHANGE}%/{5MEMBERSMULTIPLIERPERCENTCHANGE}% defense."
@@ -83,7 +70,6 @@ At the end of each turn and when taking damage the hero loses a small amount of 
 When casting their Special Skill, hero gains Flight Momentum.
 Slower heroes gain increased amount of Flight Momentum"
 "familybonuses.description.long.growth_mahayoddha","At the end of each turn heroes in the Mahayoddha family gain Growth: {1MEMBERATTACKINCREASE}/{2MEMBERSATTACKINCREASE}/{3MEMBERSATTACKINCREASE} attack and {1MEMBERDEFENSEINCREASE}/{2MEMBERSDEFENSEINCREASE}/{3MEMBERSDEFENSEINCREASE} defense.
-
 Limits for modified Ability Scores:
 Min {MINSTAT}% and max {MAXSTAT}% of their original values."
 "familybonuses.description.long.heal_multiplier","{2MEMBERSMULTIPLIERPERCENTCHANGE}%/{3MEMBERSMULTIPLIERPERCENTCHANGE}%/{4MEMBERSMULTIPLIERPERCENTCHANGE}%/{5MEMBERSMULTIPLIERPERCENTCHANGE}% healing."
@@ -120,7 +106,7 @@ Min {MINSTAT}% and max {MAXSTAT}% of their original values."
 "familybonuses.description.long.minor_buff_to_major","{CHANCE}%/{2MEMBERSCHANCE}%/{3MEMBERSCHANCE}% chance to make a cast buff undispellable."
 "familybonuses.description.long.minor_debuff_to_major","{CHANCE}%/{2MEMBERSCHANCE}%/{3MEMBERSCHANCE}% chance to make a cast ailment uncleansable."
 "familybonuses.description.long.moon_debuffs_on_special_damage.brittle_moon_family.underwater_moon_family","{1MEMBERCHANCE}%/{2MEMBERSCHANCE}% chance to cast {DEFENSE}% defense for {STATUSEFFECT1TURNS} turns and {DAMAGE} Water damage over {STATUSEFFECT2TURNS} turns on an enemy who deals Special Skill damage to this character.
- If the enemy's Special Skill defeats this character, the chance is {1MEMBERCHANCEPERKILLINGHIT}%/{2MEMBERSCHANCEPERKILLINGHIT}%."
+If the enemy's Special Skill defeats this character, the chance is {1MEMBERCHANCEPERKILLINGHIT}%/{2MEMBERSCHANCEPERKILLINGHIT}%."
 "familybonuses.description.long.more_memory_slots","+{2MEMBERSFIXEDVALUE}/+{3MEMBERSFIXEDVALUE} memory slots for this character's innate ability."
 "familybonuses.description.long.moth_dust_per_turn","At the start of each turn, cast Moth Dust to a random enemy for {1MEMBERTURNS}/{2MEMBERSTURNS}/{3MEMBERSTURNS} turns."
 "familybonuses.description.long.opera_attack_multiplier","{1MEMBERMULTIPLIERPERCENTCHANGE}%/{2MEMBERSMULTIPLIERPERCENTCHANGE}%/{3MEMBERSMULTIPLIERPERCENTCHANGE}% attack."
@@ -142,27 +128,21 @@ Min {MINSTAT}% and max {MAXSTAT}% of their original values."
 Hero receives the family bonus of a related family when in a team with at least 1 related hero. Bonus for 1/2/3/4/5 heroes:
 {SHAREDEFFECTS}"
 "familybonuses.description.long.share_effects_from_magic_tower","Hero is related to the Magic Family.
-Hero receives the family bonus of a related family when in a team with at least 1 related hero. Bonus for 1/2/3/4/5 heroes:
-{SHAREDEFFECTS}"
 "familybonuses.description.long.slime_familiar_attack_multiplier","Mega Minions, Minions, Mega Fiends and Fiends summoned by allies get {1MEMBERMULTIPLIERPERCENTCHANGE}/{2MEMBERSMULTIPLIERPERCENTCHANGE}/{3MEMBERSMULTIPLIERPERCENTCHANGE}% attack based on the numbers of Slime Family Heroes in the team."
 "familybonuses.description.long.special_damage_multiplier_zodiac_rat","{2MEMBERSMULTIPLIERPERCENTCHANGE}% Special Skill power."
 "familybonuses.description.long.start_battle_with_fox_minion","At the start of the battle summons {FAMILIARAMOUNT}/{2MEMBERFAMILIARAMOUNT} Sly Fox Minions for self, with {FAMILIARHEALTHPERCENT}% health and {FAMILIARATTACK}% attack inherited from the hero.
-Sly Fox Minion has {FAMILIARDODGECHANCE}% chance to dodge incoming attacks. 
+Sly Fox Minion has {FAMILIARDODGECHANCE}% chance to dodge incoming attacks.
 When Sly Fox Minion dodges, it steals latest dispellable buff from the attacker and gives it to its owner."
 "familybonuses.description.long.start_battle_with_fox_minion.fox_dodge","Sly Fox Minion has {FAMILIARHEALTHPERCENT}% health and {FAMILIARATTACK}% attack inherited from the hero. Sly Fox Minion has {FAMILIARDODGECHANCE}% chance to dodge incoming attacks.
-When Sly Fox Minion dodges, it steals latest dispellable buff from the attacker and gives it to its owner."
 "familybonuses.description.long.start_battle_with_mask_minion.mask_minion.2members_attack_buff_while_mask_minion.3members_debuff_shield_while_mask_minion","1 family member: This character summons a Mask Minion with {FAMILIARHEALTHPERCENT}% health and {FAMILIARATTACK}% attack inherited from this character.
- Additional skill with 2 family members: When summoned, the Mask Minion gives its owner {ATTACK2MEMBERS}% attack while the owner has a Mask Minion. This effect can't be dispelled.
- Additional skill with 3 family members: When summoned, the Mask Minion gives its owner immunity to all status ailments while the owner has a Mask Minion. This effect can't be dispelled."
+Additional skill with 2 family members: When summoned, the Mask Minion gives its owner {ATTACK2MEMBERS}% attack while the owner has a Mask Minion. This effect can't be dispelled.
+Additional skill with 3 family members: When summoned, the Mask Minion gives its owner immunity to all status ailments while the owner has a Mask Minion. This effect can't be dispelled."
 "familybonuses.description.long.start_battle_with_recruit_guard_mega_minion.recruit_guard_mega_minion","At the start of the battle, summons a Recruit Guard Mega Minion with {FAMILIARHEALTHPERCENT}%/{FAMILIARHEALTHPERCENT2MEMBERS}%/{FAMILIARHEALTHPERCENT3MEMBERS}% HP and {FAMILIARATTACK}%/{FAMILIARATTACK2MEMBERS}%/{FAMILIARATTACK3MEMBERS}% attack inherited from this character."
 "familybonuses.description.long.status_effect_duration_increase","{1MEMBERCHANCE}%/{2MEMBERSCHANCE}%/{3MEMBERSCHANCE}% chance to increase the duration of each status effect that is cast by the hero by {1MEMBERFIXEDVALUE}/{2MEMBERSFIXEDVALUE}/{3MEMBERSFIXEDVALUE} turns."
 "familybonuses.description.long.strong_special_damage_reduction","Receive {MULTIPLIERPERCENTCHANGE}%/{2MEMBERSMULTIPLIERPERCENTCHANGE}%/{3MEMBERSMULTIPLIERPERCENTCHANGE}% less damage from the Special Skills of the stronger element ({ELEMENT})."
 "familybonuses.description.long.sun_debuffs_on_special_damage.blind_sun_family.burn_sun_family","{1MEMBERCHANCE}%/{2MEMBERSCHANCE}% chance to cast {ACCURACY}% accuracy for {STATUSEFFECT1TURNS} turns and {DAMAGE} Burn damage over {STATUSEFFECT2TURNS} turns on an enemy who deals Special Skill damage to this character.
-If the enemy's Special Skill defeats this character, the chance is {1MEMBERCHANCEPERKILLINGHIT}%/{2MEMBERSCHANCEPERKILLINGHIT}%."
 "familybonuses.description.long.tales1_attack_buff_on_special_damage.basic_attack_more","{1MEMBERCHANCE}%/{2MEMBERSCHANCE}% chance to give all allies {ATTACK}% attack for {TURNS} turns after this character receives Special Skill damage.
- If the enemy's Special Skill defeats this character, the chance is {1MEMBERCHANCEPERKILLINGHIT}%/{2MEMBERSCHANCEPERKILLINGHIT}%."
 "familybonuses.description.long.tales1_mana_debuff_on_special_damage.tales1_family_mana_reduction","{1MEMBERCHANCE}%/{2MEMBERSCHANCE}% chance to cast {MANAREGEN}% mana generation for {STATUSEFFECT1TURNS} turns on an enemy who deals Special Skill damage to this character.
- If the enemy's Special Skill defeats this character, the chance is {1MEMBERCHANCEPERKILLINGHIT}%/{2MEMBERSCHANCEPERKILLINGHIT}%."
 "familybonuses.description.long.unique_family_healing_received_modifier_all","{MULTIPLIER}% increase for any healing received."
 "familybonuses.description.long.unique_family_mana_multiplier_all","{MULTIPLIER}% mana generation."
 "familybonuses.description.members","(Family members: {0})"
@@ -283,7 +263,6 @@ This character gains {CURRENTCHARGEFROMHEAL} Humility when receiving direct heal
 "familybonuses.description.short.resist_mana_reduction_and_mana_debuffs_with_mana_on_resist.statuseffectdebuffs.addmana.single.allies","{CHANCE}% chance to resist mana reductions and mana status ailments and receive {POWER}% mana on resist"
 "familybonuses.description.short.resist_mana_reduction_and_mana_debuffs_with_mana_on_resist_fauns.statuseffectdebuffs.addmana.single.allies","{CHANCE}% chance to resist mana reductions and mana status ailments and receive {POWER}% mana on resist"
 "familybonuses.description.short.share_effects_from_atlantis","Hero is related to the Atlantis Family. Hero receives the family bonus of a related family when in a team with at least 1 related hero:
-{SHAREDEFFECTS}"
 "familybonuses.description.short.slime_familiar_attack_multiplier","Mega Minions, Minions, Mega Fiends and Fiends get {MULTIPLIERPERCENTCHANGE}% attack."
 "familybonuses.description.short.special_damage_multiplier_zodiac_rat","Lunar Year Rat bonus: {MULTIPLIERPERCENTCHANGE}% Special Skill power"
 "familybonuses.description.short.start_battle_with_fox_minion","Summons {FAMILIARAMOUNT} Sly Fox Minion for self at the start of battle. Sly Fox Minion has 80% chance to dodge incoming attacks. On a successful dodge, it steals the latest dispellable buff from the attacker and gives it to its owner."
@@ -316,21 +295,17 @@ This Hero has the following perks in Raids during the current Raid Brawl event:"
 "herocard.family.description.common.bard","Bard Family grants a solo bonus for any Hero who is the only member of their family on the team:"
 "herocard.family.description.common.beauty_beast","Heroes of this family gain Humility to cast a strong version of their Special Skills."
 "herocard.family.description.common.classic","Heroes become stronger when teamed with other unique Heroes of the same family.
-
 Classic Family Heroes need to be fully ascended to receive the Family Bonus.
-
 Bonus for fully ascended 2/3/4/5 Heroes:"
 "herocard.family.description.common.construct","Members of this family have a Construct Core."
 "herocard.family.description.common.cupid","Cupid Family grants a solo bonus for any Hero who is the only member of their family on the team:"
 "herocard.family.description.common.fleur_de_sang","At the start of each turn, each Fleur de Sang character marks the enemy with the highest remaining HP with a Blood Lily."
 "herocard.family.description.common.fox","Fox heroes summon a Sly Fox Minion for themselves at the start of the battle."
 "herocard.family.description.common.garrison","Heroes become stronger when teamed with other unique Heroes of the same family.
-
 Bonus for 1/2/3 Heroes:"
 "herocard.family.description.common.magic_carpet","Heroes of this family have Flight Momentum."
 "herocard.family.description.common.masquerade","Masked God characters summon a Mask Minion for themselves at the start of the battle. The more unique Masked God characters there are in the same team, the better the Mask Minion is."
-"herocard.family.description.common.mimic","Members of the Mimic Family have Mimic Loot passive. 
-
+"herocard.family.description.common.mimic","Members of the Mimic Family have Mimic Loot passive.
 Mimic Loot gives a chance for extra loot rewards when completing a map or quest level.
 Chances for extra loot increase with energy cost of the level.
 Mimics need to be at max level and fully ascended for Mimic Loot to be active.
@@ -339,7 +314,6 @@ Mimics have reduced leveling and ascension cost."
 "herocard.family.description.eventfamiliesherobonus.active_now_bonus","Event Hero Bonus is active!
 This Hero has the following perks in this event:"
 "herocard.family.description.eventherobonus.active_now_bonus","Event Hero Bonus is active!
-This Hero has the following perks in this event:"
 "herocard.family.description.eventherobonus.active_now_event","This event is currently ongoing!"
 "herocard.family.description.eventherobonus.alliancequestcastle","The members of this family have additional perks in the Clash of Knights event."
 "herocard.family.description.eventherobonus.alliancequestmoths","The members of this family have additional perks in the Night of the Moth event."
@@ -382,7 +356,6 @@ Heroes of the featured families have the following perks in this event:"
 "herocard.family.linked_family.description.family_specific.zodiac_snake","This Hero gives the following Lunar Year Snake bonus to the members of the Lunar Year family:"
 "herocard.family.linked_family.description.family_specific.zodiac_tiger","This Hero gives the following Lunar Year Tiger bonus to the members of the Lunar Year family:"
 "herocard.family.linked_family.description.generic.zodiac","Heroes become stronger when teamed with other unique Heroes of the same family.
-
 The Lunar Year family features different Lunar Year Animal Heroes. Each Lunar Year Animal grants a different bonus to the members of the Lunar Year family when paired with at least 1 other Lunar Year Hero."
 "herocard.family.name","Family"
 "herocard.family.title.abyss","Underwild Family"

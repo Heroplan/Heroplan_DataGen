@@ -501,7 +501,8 @@ window.families_bonus = [
         "bonus": [
             "Bonus for 2/3/4/5 Heroes:",
             "+5%/+10%/+15%/+20% attack.",
-            "Event Bonus: Heroes belonging to the Plains Hunter family receive the following perks on Monster Island: * +20% attack, +20% defense, +20% health * 50% less permanent damage taken. * Stack (Max 10): When this character casts their Special Skill, all enemies get -3% defense."
+            "Event Bonus: Heroes belonging to the Plains Hunter family receive the following perks on Monster Island:",
+            " * +40% attack, +40% defense, +40% health"
         ]
     },
     {
@@ -612,9 +613,7 @@ window.families_bonus = [
             "Bonus for 2/3/4/5 Heroes:",
             " +5%/+10%/+15%/+20% HP.",
             "Event Bonus: Heroes belonging to the Jungle Hunter family receive the following perks on Monster Island:",
-            " * +20% attack, +20% defense, +20% health",
-            " * 50% less permanent damage taken.",
-            " * Stack (Max 10): When this character casts their Special Skill, all enemies get -3% defense."
+            " * +40% attack, +40% defense, +40% health"
         ]
     },
     {
@@ -623,7 +622,8 @@ window.families_bonus = [
         "bonus": [
             "Bonus for 2/3/4/5 Heroes:",
             "+5%/+10%/+15%/+20% defense.",
-            "Event Bonus: Heroes belonging to the Abyss Hunter family receive the following perks on Monster Island: * +20% attack, +20% defense, +20% health * 50% less permanent damage taken. * Stack (Max 10): When this character casts their Special Skill, all enemies get -3% defense."
+            "Event Bonus: Heroes belonging to the Abyss Hunter family receive the following perks on Monster Island:",
+            " * +40% attack, +40% defense, +40% health"
         ]
     },
     {

@@ -41419,5 +41419,59 @@ window.allHeroesExtra = [
             "mana_on_damage_received"
         ],
         "family": "mahayoddha"
+    },
+    {
+        "name": "Sorcha",
+        "fancy name": "Persistent Hunter",
+        "element": "Purple",
+        "rarity": 5,
+        "class": "Rogue",
+        "speed": "fast",
+        "Release date": "2025-11-20",
+        "AetherPower": "Attack Up",
+        "skill_types": [
+            "AoE Attackers (Hit-3)",
+            "Max Health Reducers",
+            "Extra Damage Dealers"
+        ],
+        "heroId": "monster_hunter_sorcha",
+        "baseAttack": 638,
+        "baseDefense": 613,
+        "baseHealth": 1099,
+        "specialId": "weakening_strike",
+        "passiveSkills": [
+            "hunters_mark_on_special",
+            "special_damage_reduction_monster_hunters"
+        ],
+        "family": "plains_hunter"
+    },
+    {
+        "name": "Aether Mimic Fire",
+        "fancy name": "Starved Storage of Rods",
+        "element": "Red",
+        "rarity": 5,
+        "class": "Sorcerer",
+        "speed": "slow",
+        "Release date": "2025-11-21",
+        "AetherPower": "Bulwark",
+        "skill_types": [
+            "Snipers",
+            "Healers (Special)",
+            "Health Boosters",
+            "Mana Raisers",
+            "Immunity Providers",
+            "Ghost Form & Hiding",
+            "Bypassers",
+        ],
+        "heroId": "mimic_aether_red",
+        "baseAttack": 647,
+        "baseDefense": 647,
+        "baseHealth": 1097,
+        "specialId": "aether_mimic_bite_red",
+        "passiveSkills": [
+            "mimic_aether_red",
+            "never_miss_special"
+        ],
+        "family": "mimic"
     }
 ];

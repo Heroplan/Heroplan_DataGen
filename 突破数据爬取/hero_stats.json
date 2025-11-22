@@ -28096,5 +28096,41 @@
             "Defense": 1633,
             "Life": 2791
         }
+    },
+    "Sorcha": {
+        "base": {
+            "Attack": 1314,
+            "Defense": 1262,
+            "Life": 2263,
+            "Power": 1255
+        },
+        "lb1": {
+            "Attack": 1416,
+            "Defense": 1360,
+            "Life": 2439
+        },
+        "lb2": {
+            "Attack": 1620,
+            "Defense": 1557,
+            "Life": 2791
+        }
+    },
+    "Aether Mimic": {
+        "base": {
+            "Attack": 1332,
+            "Defense": 1332,
+            "Life": 2259,
+            "Power": 1280
+        },
+        "lb1": {
+            "Attack": 1436,
+            "Defense": 1436,
+            "Life": 2435
+        },
+        "lb2": {
+            "Attack": 1643,
+            "Defense": 1643,
+            "Life": 2786
+        }
     }
 }

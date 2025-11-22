@@ -41319,7 +41319,13 @@ window.allHeroesExtra = [
         "speed": "average",
         "Release date": "2025-11-17",
         "AetherPower": "Special Boost",
-        "skill_types": [],
+        "skill_types": [
+            "Minions Counters",
+            "Ability Scores Modifiers",
+            "Extra Damage Dealers",
+            "Snipers",
+            "Buff Blockers"
+        ],
         "heroId": "mahayoddha_rafeeq",
         "baseAttack": 373,
         "baseDefense": 385,
@@ -41340,7 +41346,13 @@ window.allHeroesExtra = [
         "speed": "fast",
         "Release date": "2025-11-17",
         "AetherPower": "Rage",
-        "skill_types": [],
+        "skill_types": [
+            "Minions Counters",
+            "Ability Scores Modifiers",
+            "Extra Damage Dealers",
+            "Snipers",
+            "Mana Reducers or Blockers"
+        ],
         "heroId": "mahayoddha_ali",
         "baseAttack": 312,
         "baseDefense": 316,
@@ -41361,7 +41373,14 @@ window.allHeroesExtra = [
         "speed": "slow",
         "Release date": "2025-11-17",
         "AetherPower": "Special Armor",
-        "skill_types": [],
+        "skill_types": [
+            "Minions Counters",
+            "Ability Scores Modifiers",
+            "Extra Damage Dealers",
+            "AoE Attackers (Hit-5)",
+            "Minions Summoners",
+            "Buff Stealers"
+        ],
         "heroId": "mahayoddha_bonga",
         "baseAttack": 620,
         "baseDefense": 639,
@@ -41382,7 +41401,14 @@ window.allHeroesExtra = [
         "speed": "average",
         "Release date": "2025-11-17",
         "AetherPower": "Counterattack",
-        "skill_types": [],
+        "skill_types": [
+            "Minions Counters",
+            "Ability Scores Modifiers",
+            "Extra Damage Dealers",
+            "AoE Attackers (Hit-5)",
+            "Mana Reducers or Blockers",
+            "Buff Blockers"
+        ],
         "heroId": "mahayoddha_ustad_anand",
         "baseAttack": 616,
         "baseDefense": 643,
@@ -41393,5 +41419,47 @@ window.allHeroesExtra = [
             "mana_on_damage_received"
         ],
         "family": "mahayoddha"
+    },
+    {
+        "name": "Sorcha",
+        "fancy name": "Persistent Hunter",
+        "element": "Purple",
+        "rarity": 5,
+        "class": "Rogue",
+        "speed": "fast",
+        "Release date": "2025-11-20",
+        "AetherPower": "Attack Up",
+        "skill_types": [],
+        "heroId": "monster_hunter_sorcha",
+        "baseAttack": 638,
+        "baseDefense": 613,
+        "baseHealth": 1099,
+        "specialId": "weakening_strike",
+        "passiveSkills": [
+            "hunters_mark_on_special",
+            "special_damage_reduction_monster_hunters"
+        ],
+        "family": "plains_hunter"
+    },
+    {
+        "name": "Aether Mimic Fire",
+        "fancy name": "Starved Storage of Rods",
+        "element": "Red",
+        "rarity": 5,
+        "class": "Sorcerer",
+        "speed": "slow",
+        "Release date": "2025-11-21",
+        "AetherPower": "Bulwark",
+        "skill_types": [],
+        "heroId": "mimic_aether_red",
+        "baseAttack": 647,
+        "baseDefense": 647,
+        "baseHealth": 1097,
+        "specialId": "aether_mimic_bite_red",
+        "passiveSkills": [
+            "mimic_aether_red",
+            "never_miss_special"
+        ],
+        "family": "mimic"
     }
 ];

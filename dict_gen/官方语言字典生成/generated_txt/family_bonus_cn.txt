@@ -1,7 +1,5 @@
 "familybonuses.description.long.abyss","当此英雄施放特殊技能时，面板中有{CHANCE}%/{2MEMBERSCHANCE}%/{3MEMBERSCHANCE}%/{4MEMBERSCHANCE}%/{5MEMBERSCHANCE}%的几率生成一个蛮荒地界宝石。
-
 该蛮荒地界宝石可于每回合对一名随机敌人造成{FIXEDPOWER}点伤害，直到被消除为止。
-
 蛮荒地界宝石只能在与此英雄的元素相同的常规盾牌上生成。"
 "familybonuses.description.long.add_mana_on_received_special_damage_astral_demons.onceperturn","受到特殊技能的伤害时，该角色获得{1MEMBERMULTIPLIERPERCENT}/{2MEMBERSMULTIPLIERPERCENT}%法力。此效果每回合只生效一次。"
 "familybonuses.description.long.attack_multiplier","{2MEMBERSMULTIPLIERPERCENTCHANGE}%/{3MEMBERSMULTIPLIERPERCENTCHANGE}%/{4MEMBERSMULTIPLIERPERCENTCHANGE}%/{5MEMBERSMULTIPLIERPERCENTCHANGE}%攻击力。"
@@ -23,7 +21,6 @@
 当该英雄受到来自特殊技能的直接治疗时，会获得{1MEMBERCHARGEFROMHEAL}/{2MEMBERSCHARGEFROMHEAL}/{3MEMBERSCHARGEFROMHEAL}点谦逊。"
 "familybonuses.description.long.build_charge_beauty_beast.oncefromdamage.oncefromheal","不同英雄需要的谦逊值各不相同。
 当英雄施放强力版特殊技能时，只会消耗所需数量的谦逊。
-谦逊上限：100。拥有同一家族的1/2/3名独特英雄时获得额外加成：
 当该英雄受到来自特殊技能的直接伤害时，会获得{1MEMBERCHARGEFROMDAMAGE}/{2MEMBERSCHARGEFROMDAMAGE}/{3MEMBERSCHARGEFROMDAMAGE}点谦逊。每回合最多一次。
 当该英雄受到来自特殊技能的直接治疗时，会获得{1MEMBERCHARGEFROMHEAL}/{2MEMBERSCHARGEFROMHEAL}/{3MEMBERSCHARGEFROMHEAL}点谦逊。每回合最多一次。"
 "familybonuses.description.long.build_charge_construct","每当此角色受到来自普通攻击或特殊技能的伤害时，都会为其机械核心充能。"
@@ -43,19 +40,13 @@
 "familybonuses.description.long.critical_multiplier_outlaw","{MULTIPLIERPERCENTCHANGE}%/{2MEMBERSMULTIPLIERPERCENTCHANGE}%/{3MEMBERSMULTIPLIERPERCENTCHANGE}%暴击几率。"
 "familybonuses.description.long.critical_multiplier_realm","{2MEMBERSMULTIPLIERPERCENTCHANGE}%/{3MEMBERSMULTIPLIERPERCENTCHANGE}%暴击几率。"
 "familybonuses.description.long.damage_gem_per_turn","每有一名盟友与此英雄元素相同，每回合该元素的一面盾牌就会被权力宝石所取代。
-
 权力宝石每回合将对一名随机敌人造成{FIXEDPOWER}点伤害，直到它被消除为止。
-
 权力宝石只能在与此英雄元素相同的普通盾牌上生成。
-
 每种元素在面板上同一时间最多只能有{MAXTILESONBOARD}颗权力宝石。"
 "familybonuses.description.long.damage_gem_per_turn.match_effect.directeffect.damage.all.enemies","每回合将有一个或多个盾牌被强化成权力宝石。
 该数量将等同于战队里{ELEMENT}系英雄的数量。每种元素同一时间在面板上最多只能有{MAXTILESONBOARD}颗权力宝石。
-
 权力宝石每回合将随机对一名敌人造成{FIXEDPOWER}点伤害，直到它被消除为止。权力宝石被消除时，将对所有敌人造成{MATCHEFFECTFIXEDPOWER}点伤害。"
 "familybonuses.description.long.damage_gem_per_turn.match_effect.directeffect.damage.random.enemies","每回合将有一个或多个盾牌被强化成权力宝石。
-该数量将等同于战队里{ELEMENT}系英雄的数量。每种元素同一时间在面板上最多只能有{MAXTILESONBOARD}颗权力宝石。
-
 权力宝石每回合将随机对一名敌人造成{FIXEDPOWER}点伤害，直到它被消除为止。权力宝石被消除时，将随机对一名敌人造成{MATCHEFFECTFIXEDPOWER}点伤害。"
 "familybonuses.description.long.damage_on_special_dodge_wild_cat","每次闪避特殊技能时，对攻击者造成{1MEMBERFIXEDVALUE}/{2MEMBERSFIXEDVALUE}/{3MEMBERSFIXEDVALUE} 点伤害。"
 "familybonuses.description.long.defense_multiplier","{2MEMBERSMULTIPLIERPERCENTCHANGE}%/{3MEMBERSMULTIPLIERPERCENTCHANGE}%/{4MEMBERSMULTIPLIERPERCENTCHANGE}%/{5MEMBERSMULTIPLIERPERCENTCHANGE}%防御。"
@@ -135,15 +126,12 @@
 此英雄与至少1名相关家族成员组队时，将获得相关家族的家族加成。1/2/3/4/5位英雄的加成：
 {SHAREDEFFECTS}"
 "familybonuses.description.long.share_effects_from_magic_tower","此英雄与魔法家族相关。
-此英雄与至少1名相关家族成员组队时，将获得相关家族的家族加成。1/2/3/4/5位英雄的加成：
-{SHAREDEFFECTS}"
 "familybonuses.description.long.slime_familiar_attack_multiplier","盟友召唤的超级小兵、小兵、超级恶魔和恶魔会根据战队中的史莱姆家族英雄数量获得{1MEMBERMULTIPLIERPERCENTCHANGE}/{2MEMBERSMULTIPLIERPERCENTCHANGE}/{3MEMBERSMULTIPLIERPERCENTCHANGE}%攻击力。"
 "familybonuses.description.long.special_damage_multiplier_zodiac_rat","{2MEMBERSMULTIPLIERPERCENTCHANGE}%特殊技能加成。"
 "familybonuses.description.long.start_battle_with_fox_minion","战斗开始时，为自身召唤{FAMILIARAMOUNT}/{2MEMBERFAMILIARAMOUNT}个狡狐小兵，该小兵将继承英雄{FAMILIARHEALTHPERCENT}%生命和{FAMILIARATTACK}%攻击力。
 狡狐小兵有{FAMILIARDODGECHANCE}%几率闪避袭来的攻击。
 狡狐小兵成功闪避后，会从攻击者身上窃取最后施加的可驱散增益，并施加给其所有者。"
 "familybonuses.description.long.start_battle_with_fox_minion.fox_dodge","狡狐小兵继承该英雄的{FAMILIARHEALTHPERCENT}%生命和{FAMILIARATTACK}%攻击力。狡狐小兵有{FAMILIARDODGECHANCE}%几率闪避袭来的攻击。
-狡狐小兵成功闪避后，会从攻击者身上窃取最后施加的可驱散增益，并施加给其所有者。"
 "familybonuses.description.long.start_battle_with_mask_minion.mask_minion.2members_attack_buff_while_mask_minion.3members_debuff_shield_while_mask_minion","1位家族成员：此角色将召唤一个面具小兵，该小兵继承此角色{FAMILIARHEALTHPERCENT}%的生命值和{FAMILIARATTACK}%的攻击力。
 2位家族成员的额外技能：召唤面具小兵后，在拥有该小兵期间，该小兵会给予其所有者{ATTACK2MEMBERS}%攻击力。此效果无法驱散。
 3位家族成员的额外技能：召唤面具小兵后，在拥有该小兵期间，该小兵会使其所有者对全部状态异常免疫。此效果无法驱散。"
@@ -151,7 +139,6 @@
 "familybonuses.description.long.status_effect_duration_increase","每次该英雄施放状态效果时，都有{1MEMBERCHANCE}%/{2MEMBERSCHANCE}%/{3MEMBERSCHANCE}%的几率使其持续时间延长{1MEMBERFIXEDVALUE}/{2MEMBERSFIXEDVALUE}/{3MEMBERSFIXEDVALUE}个回合。"
 "familybonuses.description.long.strong_special_damage_reduction","受到来自较强元素（{ELEMENT}）的特殊技能伤害时，该伤害减少{MULTIPLIERPERCENTCHANGE}%/{2MEMBERSMULTIPLIERPERCENTCHANGE}%/{3MEMBERSMULTIPLIERPERCENTCHANGE}%。"
 "familybonuses.description.long.sun_debuffs_on_special_damage.blind_sun_family.burn_sun_family","对此角色造成特殊技能伤害的敌人有{1MEMBERCHANCE}%/{2MEMBERSCHANCE}%的几率获得{ACCURACY}%精准度，持续{STATUSEFFECT1TURNS}回合，且在{STATUSEFFECT2TURNS}回合内受到共计{DAMAGE}点燃烧伤害。
-如果该敌人的特殊技能击杀了此角色，几率则变为{1MEMBERCHANCEPERKILLINGHIT}%/{2MEMBERSCHANCEPERKILLINGHIT}%。"
 "familybonuses.description.long.tales1_attack_buff_on_special_damage.basic_attack_more","此角色受到来自特殊技能的伤害后，有{1MEMBERCHANCE}%/{2MEMBERSCHANCE}%几率使所有盟友的攻击力{ATTACK}%，持续{TURNS}回合。
 如果敌方的特殊技能击杀了此角色，则此几率变为{1MEMBERCHANCEPERKILLINGHIT}%/{2MEMBERSCHANCEPERKILLINGHIT}%。"
 "familybonuses.description.long.tales1_mana_debuff_on_special_damage.tales1_family_mana_reduction","敌方的特殊技能对此角色造成伤害时，此角色有{1MEMBERCHANCE}%/{2MEMBERSCHANCE}%几率对该敌人施放{MANAREGEN}%法力生成，持续{STATUSEFFECT1TURNS}回合。
@@ -276,7 +263,6 @@
 "familybonuses.description.short.resist_mana_reduction_and_mana_debuffs_with_mana_on_resist.statuseffectdebuffs.addmana.single.allies","{CHANCE}%几率抵抗法力减损和法力状态异常，成功抵偿时获得{POWER}%法力"
 "familybonuses.description.short.resist_mana_reduction_and_mana_debuffs_with_mana_on_resist_fauns.statuseffectdebuffs.addmana.single.allies","{CHANCE}%几率抵抗法力减损和法力状态异常，成功抵抗时获得{POWER}%法力"
 "familybonuses.description.short.share_effects_from_atlantis","此英雄与亚特兰蒂斯家族相关。此英雄与至少1名相关家族成员组队时，将获得相关家族的家族加成：
-{SHAREDEFFECTS}"
 "familybonuses.description.short.slime_familiar_attack_multiplier","超级小兵、小兵、超级恶魔和恶魔获得{MULTIPLIERPERCENTCHANGE}%攻击力。"
 "familybonuses.description.short.special_damage_multiplier_zodiac_rat","农历鼠年加成： {MULTIPLIERPERCENTCHANGE}%特殊技能加成"
 "familybonuses.description.short.start_battle_with_fox_minion","在战斗开始时为自己召唤{FAMILIARAMOUNT}狡狐小兵。狡狐小兵有80%的几率闪避来袭的攻击。闪避成功后，它会从攻击者身上窃取最新获得的可驱散增益，并施加给其所有者。"
@@ -309,21 +295,17 @@
 "herocard.family.description.common.bard","吟游诗人家族为队伍中唯一属于该家族的英雄提供单人加成："
 "herocard.family.description.common.beauty_beast","该家族的英雄可通过积累谦逊来施放强力版本的特殊技能。"
 "herocard.family.description.common.classic","当与相同家族的独特英雄组队时，英雄会变得更强。
-
 经典家族英雄需要进阶到满级才能获得家族加成。
-
 2/3/4/5位进阶到满级的英雄加成："
 "herocard.family.description.common.construct","该家族的成员拥有一个机械核心。"
 "herocard.family.description.common.cupid","爱神家族为队伍中唯一属于该家族的英雄提供单人加成："
 "herocard.family.description.common.fleur_de_sang","每回合开始时，每名弗勒德桑角色用血莲标记剩余生命值最高的敌人。"
 "herocard.family.description.common.fox","战斗开始时，狐狸英雄将为自身召唤一个狡狐小兵。"
 "herocard.family.description.common.garrison","当与相同家族的独特英雄组队时，英雄会变得更强。
-
 1/2/3位英雄享受如下加成："
 "herocard.family.description.common.magic_carpet","此家族的英雄拥有飞行动量。"
 "herocard.family.description.common.masquerade","战斗开始时，蒙面之神角色将为自身召唤一个面具小兵。同一战队里独特的蒙面之神角色越多，面具小兵越强。"
 "herocard.family.description.common.mimic","拟态兽家族成员拥有拟态兽战利品被动技能。
-
 拟态兽战利品让成员在完成地图或任务关卡时有几率获得额外的战利品奖励。
 消耗的能量等级越高，获得额外战利品的几率越大。
 拟态兽需要达成最高等级且完全进阶才能激活拟态兽战利品。
@@ -332,7 +314,6 @@
 "herocard.family.description.eventfamiliesherobonus.active_now_bonus","活动英雄加成已启动！
 此英雄在该活动中具有以下加成："
 "herocard.family.description.eventherobonus.active_now_bonus","活动英雄加成已启动！
-此英雄在该活动中具有以下加成："
 "herocard.family.description.eventherobonus.active_now_event","此活动正在进行中！"
 "herocard.family.description.eventherobonus.alliancequestcastle","该家族的成员在骑士冲击活动中拥有额外的加成。"
 "herocard.family.description.eventherobonus.alliancequestmoths","该家族的成员在飞蛾之夜活动中拥有额外的加成。"
@@ -375,7 +356,6 @@
 "herocard.family.linked_family.description.family_specific.zodiac_snake","此英雄将为农历生肖家族的成员提供以下的农历蛇年加成："
 "herocard.family.linked_family.description.family_specific.zodiac_tiger","此英雄将为农历生肖家族的成员提供以下的农历虎年加成："
 "herocard.family.linked_family.description.generic.zodiac","当与相同家族的独特英雄组队时，英雄会变得更强。
-
 农历生肖家族里有各种农历生肖动物英雄。每只农历生肖动物与至少另1名农历生肖英雄组队时，都会为农历生肖家族成员提供不同的加成。"
 "herocard.family.name","家族"
 "herocard.family.title.abyss","蛮荒地界家族"
@@ -555,3 +535,4 @@
 "herocard.family.title.wonderland.short","仙境"
 "herocard.family.title.zodiac","农历生肖家族"
 "herocard.family.title.zodiac.short","农历生肖"
+"familybonuses.description.short.resist_mana_reduction_and_mana_debuffs_with_mana_on_resist_fauns.statuseffectdebuffs.addmana.single.allies","{CHANCE}%几率抵抗法力减损和法力状态异常，成功抵偿时获得{POWER}%法力"

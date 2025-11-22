@@ -1,0 +1,901 @@
+"herocard.passive_skill.description.addmana.all.allies","Tüm müttefikler küçük bir miktar mana kazanırlar."
+"herocard.passive_skill.description.bleed.effectondamageovertime.activates_on_enemy_action.addmana","Bir düşman her Kanama hasarı aldığında bu karakter %{POWER} mana alır.,"
+"herocard.passive_skill.description.bleed.effectondamageovertime.activates_on_enemy_action.heal.fixedpower","Bir düşman her Kanama hasarı aldığında bu karakter {POWER} SP yeniler."
+"herocard.passive_skill.description.burn.effectondamageovertime.activates_on_enemy_action.addmana","Bir düşman her Yakma hasarı aldığında bu karakter %{POWER} mana kazanır."
+"herocard.passive_skill.description.bypassfamiliars.minion","Bu karakterin verdiği tüm hasar, Hizmetkarları atlatır."
+"herocard.passive_skill.description.bypassfamiliars.minion.bigminion","Bu karakterin verdiği tüm hasar, Hizmetkarları ve Mega Hizmetkarları atlatır."
+"herocard.passive_skill.description.caststatuseffectdurationmodifier","Uygulanan durum efektlerinin süresini artırmak için şans."
+"herocard.passive_skill.description.caststatuseffectdurationmodifier.turns_with_chance","{0} tur: %{1}"
+"herocard.passive_skill.description.chargebasedmodifier.managenerationmodifier.dodgemodifier","Bu karakterin herhangi bir miktarda Uçuş İvmesi varsa şunu alır:
+%{MAXMANAGENERATIONMODIFIER} oranına varan mana üretimi.
+Savuşturmak için %{MAXDODGEMODIFIER} oranına varan ekstra şans. 
+Efektler, karakterin ne kadar az Uçuş İvmesi varsa o kadar azalır."
+"herocard.passive_skill.description.chargebasedmodifier.managenerationmodifier.dodgemodifier.battle","Uçuş İvmesi %{CHARGE}
+Bu karakter şu anda şunlara sahip:
+%{MANAGENERATIONMODIFIER} mana üretimi.
+Savuşturmak için %{DODGEMODIFIER} ekstra şans."
+"herocard.passive_skill.description.conditionaleffectovertime.addmana.everyturn.while.all.allies.haswither","Savaş alanındaki herhangi bir müttefik aktif bir Soldurma efektine sahipse her turun başında %{POWER} mana kazan."
+"herocard.passive_skill.description.conditionaleffectovertime.revival.all.allies.while.single.allies.hasdeadallies","Her {TURNS} turda bir, tüm yenilen müttefikleri %{POWER} SP ile diriltir."
+"herocard.passive_skill.description.conditionaleffectovertime.revival.neartotargetexceptcaster.allies.while.single.allies.hasdeadallies","Her {TURNS} turda bir, yakındaki yenilen müttefikleri %{POWER} SP ile diriltir."
+"herocard.passive_skill.description.conditionaleffectovertime.usable_once.heal.addmana.everyturn.while.single.allies.lowhealth","Bu karakter, bir savaşta ilk defa bir tura düşük sağlıkla başladığında %{HEALTH} sağlık yeniler ve %{MANA} mana alır."
+"herocard.passive_skill.description.convertincomingdamagetoheal.all.statuseffect","Bu karakter, bir durum engelinden hasar aldığında hasar almak yerine o kadar sağlık yeniler."
+"herocard.passive_skill.description.convertincomingdamagetoheal.statuseffect","Bu karakter, bir durum engelinden hasar aldığında hasar almak yerine o kadar sağlık yeniler. İyileştirilen miktar, hasarın %{MULTIPLIER} kadarıdır."
+"herocard.passive_skill.description.criticalmodifiersupportcharacter.troop","%{CRITICALMODIFIER} kritik şansı."
+"herocard.passive_skill.description.damage.all.enemies","Tüm düşmanlara %{DAMAGE} hasar verir."
+"herocard.passive_skill.description.damagefamiliarsovertime.all.enemies.minion.bigminion","Her {TURNS} turda bir tüm düşman Hizmetkarlara ve Mega Hizmetkarlara {DAMAGEPERTURN} hasar verir."
+"herocard.passive_skill.description.damagefamiliarsovertime.everyturn.all.enemies.bigminion.minion","Her turun başında tüm düşman Hizmetkarlara ve Mega Hizmetkarlara {DAMAGEPERTURN} hasar verir."
+"herocard.passive_skill.description.damagefamiliarsovertime.everyturn.all.enemies.minion.bigminion","Her turun başında tüm düşman Hizmetkarlara ve Mega Hizmetkarlara {DAMAGEPERTURN} hasar verir."
+"herocard.passive_skill.description.damageincreasebyinsanity.troop.specialskill.npcnormalattack","Bu karakterin normal saldırıları ve Özel Yetenekleri tarafından verilen tüm hasar, bu karakterin her {INSANITYPERSTEP} Deliliği başına en fazla %{MAXDAMAGEINCREASE} olmak üzere %{DAMAGEINCREASEPERSTEP} oranında artar."
+"herocard.passive_skill.description.dealtdamagemodifieragainststatuseffect.bloodlily.stacks.troop.specialskill.npcnormalattack.add_modifier_per_stack","Bu karakterin tüm normal saldırılarından ve Özel Yeteneklerinden alınan hasar, hedefteki Kanlı Zambak başına %{MODIFIER} artar."
+"herocard.passive_skill.description.dealtstrongelementsupportcharacterdamage.increase","Bu kahramanın Birlikleri zayıf elemente karşı ekstra elementer hasar verir.
+
+Verilen ekstra elementer hasar: +%{MODIFIER}"
+"herocard.passive_skill.description.debuffdamagereduction","Durum engellerinin verdiği hasar %{DAMAGEREDUCTION} azaltılır"
+"herocard.passive_skill.description.debuffdamagereductionsupportcharacter.troop","Bu karakter için durum engellerinin verdiği hasar %{DAMAGEREDUCTION} azaltılır."
+"herocard.passive_skill.description.destructivecoreintrinsicchargeeffectonspecial.damage.all.enemies.always","Bu karakterin Yapı Merkezi Yıkıcı Merkezdir.
+
+Yıkıcı Merkez bu karakterin Özel Yeteneği her uygulandığında etkinleşir:
+
+ Tamamen dolan bir Yıkıcı Merkezle tüm düşmanlara %{CHARGEDPOWER1} hasar verir. 
+ Hasar, Merkezin dolum miktarına göre değişir. Merkez etkinleştirildiğinde doluluk oranı tamamen boşaltılır."
+"herocard.passive_skill.description.dispelonownfamiliardeath.minion.minordebuff","Bu karaktere ait bir Hizmetkar yok edildiğinde karakter durum engellerinden arındırılır."
+"herocard.passive_skill.description.dodgespecialdamage","Bu karakterin, hasar veren Özel Yetenekleri atlatmak için %{CHANCE} şansı bulunur."
+"herocard.passive_skill.description.eatfamiliarsonspecialcast.parasite.allies.single","Bu karakter Özel Yeteneğini uyguladığında sahip olduğu tüm Canavarlar yok edilir."
+"herocard.passive_skill.description.eatfamiliarswitheffectpereatenfamiliarovertime.addmana","Her {TURNS} turda bir, rastgele bir düşmanın hizmetkarlarını yer ve yediği her Hizmetkar için küçük miktarda mana kazanır."
+"herocard.passive_skill.description.effectondamagereceived.addmana.specialskill.single.allies","Bu karakter, Özel Yeteneklerden hasar aldığında %{POWER} mana alır."
+"herocard.passive_skill.description.effectondamagereceived.addmana.troop.npcnormalattack.specialskill.single.allies","Bu karakter, Özel Yeteneklerden veya Normal Saldırılardan doğrudan hasar aldığında az miktarda mana alır. 
+ Tur başına en fazla %{MAXMANAGAINPERTURN} mana kazanılır."
+"herocard.passive_skill.description.effectondamagereceived.damage.specialskill.statuseffectskill.cover.all.enemies.with_chance","Bu karakter Özel Yeteneklerden veya Koruma altındaki karakterin yerine hasar alırsa alınan hasarın %{POWER} kadarını tüm düşmanlara vermek için %{CHANCE} şans bulunur."
+"herocard.passive_skill.description.effectondamagereceived.none.specialskill.exclude.statuseffect.stacking_attack_on_damage_received_passive.single.allies.onceperturn","Bu karakter Özel Yeteneklerden hasar aldığında %{STATUSEFFECT1ATTACK} saldırı İstifi (maks.: {STATUSEFFECT1MAXSTACK}) alır. Her turda bir İstif kazanılabilir."
+"herocard.passive_skill.description.effectondamagereceived.none.specialskill.exclude.statuseffect.stacking_attack_on_damage_received_passive_pve.single.allies.onceperturn","Bu karakter Özel Yeteneklerden hasar aldığında %{STATUSEFFECT1ATTACK} saldırı İstifi (maks.: {STATUSEFFECT1MAXSTACK}) alır. Her turda bir İstif kazanılabilir."
+"herocard.passive_skill.description.effectondispel.activates_on_ally_action.healthboost.all.allies.fixedpower.minordebuff.removalreason.dispel.activates_on_dispel_cast.valid_caster_side.allies","Bir müttefik, Özel Yetenekleri kullanarak arındırmaya çalıştığında tüm müttefikler {POWER} artırılmış sağlık alır. Bu efekt her turda sadece bir defa etkinleşebilir."
+"herocard.passive_skill.description.effectondispel.activates_on_enemy_action.damage.all.enemies.fixedpower.minordebuff.removalreason.dispel.activates_on_dispel_cast.valid_caster_side.enemies","Bir düşman, Özel Yetenekleri kullanarak arındırmaya çalıştığında tüm düşmanlar {POWER} hasar alır. Bu efekt her turda sadece bir defa etkinleşebilir."
+"herocard.passive_skill.description.effectondispel.addmana.minorbuff.removalreason.dispel","Bu karakter, kendisinden her buff bozulduğunda %{POWER} mana alır. Bu efekt tur başına yalnızca bir defa etkinleşebilir."
+"herocard.passive_skill.description.effectondispel.heal.statuseffectdebuffs.removalreason.dispel.removal.reallocation.expiration","Bu karakter; her bir durum engelinin süresi dolduğunda veya kendisinden bir durum engeli arındırıldığında, kaldırıldığında veya bir durum engeli kendisine yeniden tahsis edildiğinde %{POWER} sağlık alabilir. Bu efekt tur başına yalnızca bir defa etkinleşebilir."
+"herocard.passive_skill.description.effectondispel.heal.statuseffectdebuffs.removalreason.dispel.removal.reallocation.expiration.chance","Bu karakter %{CHANCE} şansla her bir durum engelinin süresi dolduğunda veya kendisinden bir durum engeli arındırıldığında, kaldırıldığında veya bir durum engeli kendisine yeniden tahsis edildiğinde %{POWER} sağlık alabilir. Bu efekt tur başına yalnızca bir defa etkinleşebilir."
+"herocard.passive_skill.description.effectondispel.healthboost.fixedpower.minorbuff.removalreason.dispel","Bu karakter, kendisinden her buff bozulduğunda {POWER} artırılmış sağlık alır. Bu efekt, tur başına yalnızca bir defa etkinleşebilir."
+"herocard.passive_skill.description.effectonfamiliardamagedone.minion.frost","Karakterin sahip olduğu Hizmetkarların her vuruşu {TURNS} tur boyunca {DAMAGE} Ayaz hasarı verir"
+"herocard.passive_skill.description.effectonheal.addmana","Bu karakter her sağlık yenilediğinde %{POWER} mana alır."
+"herocard.passive_skill.description.effectonheal.heal","Bu karakter her sağlık yenilediğinde %{POWER} sağlık alır."
+"herocard.passive_skill.description.effectonhealsupportcharacter.troop.heal","Bu karakter her sağlık yenilediğinde %{POWER} sağlık alır."
+"herocard.passive_skill.description.effectonresist.activates_on_enemy_action.healthboost.addmana.once","Bu karakter, başarılı direnmelerde %{HEALTHBOOST} artırılmış sağlık ve %{MANA} mana kazanır."
+"herocard.passive_skill.description.effectonspecialcastwitheffecttype.activates_on_enemy_action.addmana.on_healthboost_cast","Bu karakter, bir düşman her sağlığı doğrudan artıran bir Özel Yetenek uyguladığında %{POWER} mana kazanır."
+"herocard.passive_skill.description.effectonspecialcastwitheffecttype.activates_on_enemy_action.healthboost.fixedpower.on_healthboost_cast","Bu karakter, bir düşman her sağlığı doğrudan artıran bir Özel Yetenek uyguladığında {POWER} artırılmış sağlık alır."
+"herocard.passive_skill.description.effectonspecialchancepermanaspeed","Bu karakter, Özel Yeteneğini uyguladığında %{CHANCE} şansla aşağıdaki eylemler gerçekleştirilebilir:"
+"herocard.passive_skill.description.effectonspecialskilldamagedone.bufftoremove.minordebuff.from.all.allies.safe.only_criticals","Bu karakter, Özel Yeteneği ile bir kritik darbe uyguladığında tüm müttefiklerden son arındırılabilir durum engelini arındırır."
+"herocard.passive_skill.description.effectonspecialskilldamagedone.bufftoremove.minordebuff.latest.from.all.allies.safe.only_criticals.once","Bu karakter, Özel Yeteneği ile bir kritik darbe uyguladığında tüm müttefiklerden son arındırılabilir durum engelini arındırır. Bu efekt tur başına bir defa etkinleşebilir."
+"herocard.passive_skill.description.effectonspecialskilldamagedone.healthboost.all.allies.only_criticals","Bu karakter, Özel Yeteneği ile bir kritik darbe uyguladığında tüm müttefiklerinin sağlığını %{HEALTHBOOST} artırır."
+"herocard.passive_skill.description.effectonspecialskilldamagedone.healthboost.all.allies.only_criticals.once","Bu karakter, Özel Yeteneği ile bir kritik darbe uyguladığında tüm müttefiklerinin sağlığını %{HEALTHBOOST} artırır. Bu efekt yalnızca turda bir defa etkinleşebilir."
+"herocard.passive_skill.description.effectonspecialskilldamagedonebasedonhealthdifference.healthboost.once.effectonspecialskilldamagereceivedbasedonhealthdifference.addmana.once"," Bu karakter, Özel Yeteneği ile daha yüksek mevcut SP'ye sahip bir karaktere isabet ederse %{PASSIVESKILL1HEALTHBOOST} güçlendirilmiş sağlık kazanırsın.
+ Bu karakter, daha yüksek mevcut SP'ye sahip bir karakterin Özel Yeteneğinden isabet alırsa %{PASSIVESKILL2MANA} mana kazanırsın.
+Bu efektlerin her biri tur başına bir defa etkinleşebilir."
+"herocard.passive_skill.description.effectonspecialskilldamagereceived.healthboost.all.allies.only_criticals","Bu karakter, Özel Yeteneği ile bir kritik darbe uyguladığında tüm müttefiklerinin sağlığını %{HEALTHBOOST} artırır."
+"herocard.passive_skill.description.effectonspecialwithchance.activates_on_enemy_action.healthboost.fixedpower","Bir düşman Özel Yetenek uyguladığında bu karakterin, sağlığını {HEALTHBOOST} artırmak için %{CHANCE} şansı bulunur."
+"herocard.passive_skill.description.effectonspecialwithchance.addmana.all.allies","Bu Kahramanın Özel Yeteneği tamamen doluyken tüm müttefiklere %{POWER} mana vermesi için %{CHANCE} şans bulunur. Özel Yetenek tamamen doluysa %{CHANCEFULLYCHARGED} şans bulunur."
+"herocard.passive_skill.description.effectonspecialwithchance.addmana.notblue.allies","Bu Kahramanın Özel Yeteneği tamamen doluyken Buz elementinden olmayan tüm müttefiklere %{POWER} mana vermesi için %{CHANCE} şans bulunur. Özel Yetenek tamamen doluysa %{CHANCEFULLYCHARGED} şans bulunur."
+"herocard.passive_skill.description.effectonspecialwithchance.bufftoremove.minorbuff.latest.from.all.enemies.always","Bu karakter Özel Yeteneğini uyguladığında tüm düşmanlardan en yeni durum efekti buff'ını bozar."
+"herocard.passive_skill.description.effectonspecialwithchance.bufftoremove.minordebuff.latest.from.all.allies.always","Bu karakter Özel Yeteneğini uyguladığında tüm müttefiklerden en yeni durum engelini arındırır."
+"herocard.passive_skill.description.effectonspecialwithchance.damage.all.enemies","Bu Kahramanın Özel Yeteneği tamamen doluyken tüm düşmanlara %{POWER} hasar vermesi için %{CHANCE} şans bulunur. Özel Yetenek tamamen doluysa %{CHANCEFULLYCHARGED} şans bulunur."
+"herocard.passive_skill.description.effectonspecialwithchance.damage.notpurple.enemies","Bu Kahramanın Özel Yeteneği tamamen doluyken Karanlık elementinden olmayan tüm düşmanlara %{POWER} hasar vermesi için %{CHANCE} şans bulunur. Özel Yetenek tamamen doluysa %{CHANCEFULLYCHARGED} şans bulunur."
+"herocard.passive_skill.description.effectonspecialwithchance.damage.notred.enemies","Bu Kahramanın Özel Yeteneği tamamen doluyken Ateş elementinden olmayan tüm düşmanlara %{POWER} hasar vermesi için %{CHANCE} şans bulunur. Özel Yetenek tamamen doluysa %{CHANCEFULLYCHARGED} şans bulunur."
+"herocard.passive_skill.description.effectonspecialwithchance.heal.all.allies","Bu Kahramanın Özel Yeteneği tamamen doluyken tüm müttefiklere %{POWER} sağlık yenilemesi için %{CHANCE} şans bulunur. Özel Yetenek tamamen doluysa %{CHANCEFULLYCHARGED} şans bulunur."
+"herocard.passive_skill.description.effectonspecialwithchance.heal.notgreen.allies","Bu Kahramanın Özel Yeteneği tamamen doluyken Doğa elementinden olmayan tüm müttefiklere %{POWER} sağlık yenilemesi için %{CHANCE} şans bulunur. Özel Yetenek tamamen doluysa %{CHANCEFULLYCHARGED} şans bulunur."
+"herocard.passive_skill.description.effectonspecialwithchance.heal.notred.allies","Bu Kahramanın Özel Yeteneği tamamen doluyken Ateş elementinden olmayan tüm müttefiklere %{POWER} sağlık yenilemesi için %{CHANCE} şans bulunur. Özel Yetenek tamamen doluysa %{CHANCEFULLYCHARGED} şans bulunur."
+"herocard.passive_skill.description.effectonspecialwithchance.heal.notyellow.allies","Bu Kahramanın Özel Yeteneği tamamen doluyken Kutsal elementinden olmayan tüm müttefiklere %{POWER} sağlık yenilemesi için %{CHANCE} şans bulunur. Özel Yetenek tamamen doluysa %{CHANCEFULLYCHARGED} şans bulunur."
+"herocard.passive_skill.description.effectonspecialwithchance.healthboost.all.allies.always","Bu karakter Özel Yeteneğini uyguladığında tüm müttefiklerinin sağlığını %{POWER} artırır."
+"herocard.passive_skill.description.effectonspecialwithmanaspeedthreshold.activates_on_enemy_action.damage.all.enemies.fixedpower.faster.average.once","Ortalama veya daha hızlı mana hızına sahip bir düşman Özel Yetenek uygularsa tüm düşmanlar {DAMAGE} hasar alır. Bu efekt her turda yalnızca bir defa etkinleşebilir."
+"herocard.passive_skill.description.effectonstatuseffectaddition.activates_on_enemy_action.addmana.allbuffs.taunt","Bir düşman her bir Alay durum efekti aldığında bu karakterin manası, %{POWER} artırılır."
+"herocard.passive_skill.description.effectonstatuseffectaddition.activates_on_enemy_action.addmana.statuseffectbuffs.defensemodifier.once","Bir düşman, savunmayı etkileyen bir durum efekti buff'ı aldığında bu karakter %{POWER} mana alır. Bu efekt, tur başına yalnızca bir defa etkinleştirilebilir."
+"herocard.passive_skill.description.effectonstatuseffectaddition.addmana.allbuffs","Bu karakter bir buff ya da pozitif bir istif aldığında %{POWER} mana kazanır."
+"herocard.passive_skill.description.effectonstatuseffectaddition.addmana.alldebuffs","Bu karakter, bir durum engeli ya da negatif bir istif aldığında %{POWER} mana kazanır."
+"herocard.passive_skill.description.effectonstatuseffectaddition.heal.allbuffs","Bu karakter bir buff ya da pozitif bir istif aldığında %{POWER} sağlık yeniler."
+"herocard.passive_skill.description.effectonstatuseffectaddition.heal.alldebuffs","Bu karakter bir durum engeli ya da negatif bir istif aldığında %{POWER} sağlık yeniler."
+"herocard.passive_skill.description.effectonstatuseffectaddition.heal.fixedpower.alldebuffs","Bu karakter bir durum engeli ya da negatif bir istif aldığında {POWER} SP yeniler."
+"herocard.passive_skill.description.effectonstatuseffectadditionwithchance.addmana.allbuffs","Bu karakter buff veya pozitif bir istif aldığında %{POWER} mana kazanmak için %{CHANCE} şansı bulunur."
+"herocard.passive_skill.description.effectonstatuseffectadditionwithchance.can_stack.heal.allbuffs","Buff veya pozitif bir istif aldığında bu karakterin %{POWER} sağlık yenilemek için %{CHANCE} şansı bulunur."
+"herocard.passive_skill.description.effectonstatuseffectadditionwithchance.heal.allbuffs","Bu karakter buff veya pozitif bir istif aldığında %{POWER} sağlık yenilemek için %{CHANCE} şansı bulunur."
+"herocard.passive_skill.description.effectovertime.revival.neartotargetexceptcaster.allies","Her {TURNS} turda bir, yakındaki yenilen müttefikleri %{POWER} SP ile diriltir."
+"herocard.passive_skill.description.effectovertimeperstatuseffect.addmana.fixedpower.everyturn.per.statuseffectbuffs.enemies","Düşman takımının her bir turun başında sahip olduğu aktif durum efekti buff'ı (maksimum {MAXSTATUSEFFECTCOUNT} buff) için küçük bir miktarda mana kazanır."
+"herocard.passive_skill.description.effectovertimeperstatuseffect.healthboost.neartotarget.allies.everyturn.per.poison.statuseffectdebuffs.enemies","Her turun başında, Zehir ile vurulan her düşman için bu karakterin ve yakındaki müttefiklerin sağlığını %{INCREMENTPERSTATUSEFFECT1} artırır. Artırılan sağlık, maksimum SP'yi aşabilir."
+"herocard.passive_skill.description.effectsonminionreceived.activates_on_ally_action.addmana.allies.minion","Bir müttefike bir Hizmetkar çağrıldığında bu karakter %{POWER} mana kazanır. Bu efekt her turda yalnızca bir defa etkinleşebilir."
+"herocard.passive_skill.description.effectsonminionreceived.activates_on_ally_action.heal.addmana.allies.minion","Bir müttefike bir Hizmetkar çağrıldığında bu karakter %{HEALTH} sağlık ve %{MANA} mana kazanır. Bu efekt her turda yalnızca bir defa etkinleşebilir."
+"herocard.passive_skill.description.effectsonparasitereceived.activates_on_enemy_action.addmana.enemies.parasite","Bir düşmana bir Canavar çağrıldığında bu karakter %{POWER} mana kazanır. Bu efekt her turda yalnızca bir defa etkinleşebilir."
+"herocard.passive_skill.description.effectsonparasitereceived.activates_on_enemy_action.damage.all.enemies.enemies.parasite","Bir düşmana bir Canavar çağrıldığında bu karakter tüm düşmanlara %{DAMAGE} hasar verir. Bu efekt her turda yalnızca bir defa etkinleşebilir."
+"herocard.passive_skill.description.effectsonparasitereceived.activates_on_enemy_action.healthboost.fixedpower.enemies.parasite","Bir düşmana bir Canavar çağrıldığında bu karakter {POWER} artırılmış sağlık alır. Bu efekt her turda yalnızca bir defa etkinleşebilir."
+"herocard.passive_skill.description.extraactionsafterspecial","Bu karakter, Özel Yeteneğini uyguladığında %{CHANCE} şansla ek eylemler uygulanabilir."
+"herocard.passive_skill.description.familiaraccuracymodifier.all.enemies.minion.bigminion","Tüm düşmanların Hizmetkarları %{MINIONMODIFIER} isabetliliğe sahiptir.
+Tüm düşmanların Mega Hizmetkarları %{MEGAMINIONMODIFIER} isabetliliğe sahiptir."
+"herocard.passive_skill.description.familiarcoreintrinsicchargeeffectonspecial.summonfamiliar.construct_minion_core.all.allies.always","Bu karakterin Yapı Merkezi Hizmetkar Merkezidir.
+
+Hizmetkar Merkezi, bu karakterin Özel Yeteneği her uygulandığında etkinleşir:
+
+ Tamamen dolan bir Hizmetkar Merkezi, eylemciden tüm müttefiklere miras kalan %{FAMILIARHEALTHPERCENT} SP'ye ve %{FAMILIARATTACK} saldırıya sahip bir Katil Bot Hizmetkar çağırır.
+ Eylemciden miras kalan SP ve saldırı, Merkezin dolum miktarına göre değişir. Merkez etkinleştirildiğinde doluluk oranı tamamen boşaltılır.
+ Katil Bot Hizmetkar, hedefe vurmadan önce hedefteki tüm Hizmetkarları yok eder ve Mega Hizmetkarlara hasar verir."
+"herocard.passive_skill.description.familiarhealthmodifier.all.enemies.bigminion.decrease","Düşman Mega Hizmetkarların %{HEALTHMODIFIER} SP'si bulunur."
+"herocard.passive_skill.description.familiarhealthmodifier.all.enemies.minion.decrease","Düşman Hizmetkarların {HEALTHMODIFIER}% SP'si bulunur."
+"herocard.passive_skill.description.familiarsilencer.all.enemies.bigminion","Düşman Mega Hizmetkarlar saldıramaz veya kabiliyet kullanamaz."
+"herocard.passive_skill.description.familiarsilencer.all.enemies.minion.follower","Düşman Hizmetkarlar saldıramaz veya kabiliyet kullanamaz."
+"herocard.passive_skill.description.frost.effectondamageovertime.activates_on_enemy_action.addmana","Bir düşman her Ayaz hasarı aldığında bu karakter %{POWER} mana kazanır."
+"herocard.passive_skill.description.growth","Bu Kahramanın temel saldırısı ve temel savunması {MAXACTIVATIONCOUNT} tur boyunca her turda {STATINCREASE} artar."
+"herocard.passive_skill.description.guaranteedeffectonspecial","Bu karakter, Özel Yeteneğini kullandığında kullanılınca ekstra efekt veren Pasif Yeteneklerinden herhangi birinin etkinleşmesi garantidir."
+"herocard.passive_skill.description.heal.all.allies","Tüm müttefikler için %{HEALTH} sağlık yeniler."
+"herocard.passive_skill.description.healmodifier","Alınan her şifa için %{HEALMULTIPLIER} artış."
+"herocard.passive_skill.description.healmodifier.all.enemies.decrease","Tüm düşmanlar %{HEALMULTIPLIER} şifa alır."
+"herocard.passive_skill.description.healmodifier.decrease","Alınan her şifa için %{HEALMULTIPLIER} düşüş."
+"herocard.passive_skill.description.healonheal.can_stack.heal","Bu karakter her sağlık yenilediğinde %{POWER} sağlık alır."
+"herocard.passive_skill.description.healonownfamiliardeath.minion","Bu karaktere ait bir Hizmetkar yok edildiğinde karakter {HEALTH} sağlık yeniler."
+"herocard.passive_skill.description.healonownfamiliardeath.minion.healthboost","Bu karaktere ait bir Hizmetkar yok edildiğinde karakter {HEALTH} güçlendirilmiş sağlık yeniler."
+"herocard.passive_skill.description.healthboost.all.allies","Tüm müttefiklerin sağlığını %{HEALTHBOOST} artırır. Güçlendirilen sağlık, maks. SP'yi geçebilir."
+"herocard.passive_skill.description.increasedattackperelement.enemies.not.green","Her savaşın başında Doğa elementinden olmayan her düşman için bu karakterin saldırısı %{ATTACK} artar. Birden fazla dalganın olduğu savaşlarda efekt, her dalganın başında yenilenir."
+"herocard.passive_skill.description.increasedattackperelement.enemies.not.green.battle","Doğa elementinden olmayan ve hayatta olan her düşman için bu karakterin saldırısı %{ATTACK} artar. Efekt her dalganın başında yenilenir. (Şu anda: %{CURRENTMODIFIER})"
+"herocard.passive_skill.description.increasedattackperelement.enemies.not.red","Her savaşın başında Ateş elementinden olmayan her düşman için bu karakterin saldırısı %{ATTACK} artar. Birden fazla dalganın olduğu savaşlarda efekt, her dalganın başında yenilenir."
+"herocard.passive_skill.description.increasedattackperelement.enemies.not.red.battle","Ateş elementinden olmayan ve hayatta olan her düşman için bu karakterin saldırısı %{ATTACK} artar. Efekt her dalganın başında yenilenir. (Şu anda: %{CURRENTMODIFIER})"
+"herocard.passive_skill.description.increaseddamageagainstfamiliars.minion","Hizmetkarlara karşı %{DAMAGEMULTIPLIER} daha çok hasar verir."
+"herocard.passive_skill.description.increaseddamageagainstfamiliars.minion.bigminion","Bu karakter, Hizmetkarlara ve Mega Hizmetkarlara %{DAMAGEMULTIPLIER} hasar verir."
+"herocard.passive_skill.description.increasedspecialdamageagainsttaunt.taunt","Bu karakterin Özel Yeteneği isabet ettiğinde hedefin Alayı varsa ek %{POWERADDITION} güç verir."
+"herocard.passive_skill.description.increasespecialdamage","Bu karakterin, hasar veren bir Özel Yeteneği uyguladığı ilk {MAXACTIVATIONCOUNT} seferde karakterin gücüne %{POWERADDITION} daha eklenir."
+"herocard.passive_skill.description.increasespecialdamage.usable_once","Bu karakter, hasar veren bir Özel Yeteneği ilk defa uyguladığında gücüne %{POWERADDITION} daha eklenir."
+"herocard.passive_skill.description.increasespecialdamagesupportcharacter.troop","Bu karakter, hasar veren bir Özel Yeteneği her uyguladığında gücüne %{POWERADDITION} daha eklenir."
+"herocard.passive_skill.description.insanitydamagereduction","Bu karakterin aldığı tüm hasar, bu karakterdeki için {DISPLAYSCALE} Delilik başına %{DAMAGEREDUCTION} azaltılır. En fazla %{MAXDAMAGEREDUCTION} azaltılabilir."
+"herocard.passive_skill.description.iterateeffectonspecial","Bu karakter, Özel Yeteneğini kullandığında kullanılınca ekstra efekt veren Pasif Yeteneklerinden herhangi birinin etkinleşmesi için {APPLYCOUNT} şans bulunur."
+"herocard.passive_skill.description.league.featured_family","Bu Kahraman Öne Çıkan ailenin bir parçasıdır!"
+"herocard.passive_skill.description.league.non_featured_family","Bu Kahraman Öne Çıkan ailenin parçası değildir!"
+"herocard.passive_skill.description.league_accuracy_modifier_against_family.decrease","Öne Çıkan ailelerin Kahramanlarına karşı %{POWERMULTIPLIER} isabetlilik."
+"herocard.passive_skill.description.league_heal_modifier_against_family.decrease","Öne Çıkan aileleri etkileyen şifalar %{POWERMULTIPLIER} etkilidir."
+"herocard.passive_skill.description.league_received_damage_modifier_against_non_featured_family.decrease","Vitrinde Olmayan ailelerden %{POWERMULTIPLIER} hasar alınır."
+"herocard.passive_skill.description.manadebuffprotection","Mana üretimini etkileyen tüm durum engelleri ve negatif istifler {TURNS} tur boyunca %{MANAREGEN} mana üretimi durum efektiyle değiştirilecek. Mana üretimini durduran veya mana çalan durum engelleri için geçerli değildir."
+"herocard.passive_skill.description.managenerationmodifier.all.enemies.specialskill","Özel Yeteneklerin artırdığı mana miktarını %{MODIFIER} azaltır. Efekt, savaştaki tüm düşmanlar için geçerlidir."
+"herocard.passive_skill.description.managenerationmodifier.none","%{MODIFIER} mana üretimi."
+"herocard.passive_skill.description.manaonownfamiliardeath.minion","Bu karaktere ait bir Hizmetkar yok edildiğinde Kahraman küçük bir miktar mana kazanır."
+"herocard.passive_skill.description.memorizefamiliars.from.enemies.to.all","Bu karakterin, düşmanların Özel Yetenekleriyle çağrılan tüm Hizmetkarları veya Canavarları Ezberlemek içi doğal kabiliyeti bulunur. Düşmanların çağırdığı son Hizmetkar veya Canavar, Özel Yetenek uygulanana kadar ezberde kalır."
+"herocard.passive_skill.description.memorizefamiliars.from.enemies.to.all#2","Bu karakterin, düşmanların Özel Yetenekleriyle çağrılan tüm Hizmetkarları veya Canavarları Ezberlemek içi doğal kabiliyeti bulunur. Düşmanların çağırdığı son {0} Hizmetkar veya Canavar, Özel Yetenek uygulanana kadar ezberde kalır."
+"herocard.passive_skill.description.memorizefamiliars.from.enemies.to.all#3","This character has innate ability to Memorize any Minion or Fiend summoned by enemies' Special Skills. The latest {0} Minions and Fiends that enemies summon will stay memorized until the Special Skill is cast. (THIRD FORM)"
+"herocard.passive_skill.description.memorizestatuseffects","Bu karakter, durum engellerini Ezberleme konusunda doğuştan yeteneklidir. Karaktere uygulanan en yeni durum engeli, Özel Yetenek uygulanana kadar ezberde kalır. Yalnızca süreli durum engelleri ezberlenebilir."
+"herocard.passive_skill.description.memorizestatuseffects#2","Bu karakter, durum engellerini Ezberleme konusunda doğuştan yeteneklidir. Karaktere uygulanan en yeni {0} durum engeli, Özel Yetenek uygulanana kadar ezberde kalır. Yalnızca süreli durum engelleri ezberlenebilir."
+"herocard.passive_skill.description.memorizestatuseffects#3","This character has innate ability to Memorize status ailments. The latest {0} status ailments that are cast on this character will stay memorized until the Special Skill is cast. Only status ailments with a duration can be memorized. (THIRD FORM)"
+"herocard.passive_skill.description.mimiclootonlevelcompleted.mimic_aether_blue","Bu Taklit, şu aşamaları tamamlarken ekstra ganimet şansı verir:
+
+*****
+ Buz Eteri III
+
+****
+ Buz Eteri II
+
+***
+ Buz Eteri I"
+"herocard.passive_skill.description.mimiclootonlevelcompleted.mimic_aether_green","Bu Taklit, şu aşamaları tamamlarken ekstra ganimet şansı verir:
+
+*****
+ Doğa Eteri III
+
+****
+ Doğa Eteri II
+
+***
+ Doğa Eteri I"
+"herocard.passive_skill.description.mimiclootonlevelcompleted.mimic_aether_purple","Bu Taklit, şu aşamaları tamamlarken ekstra ganimet şansı verir:
+
+*****
+ Karanlık Eter III
+
+****
+ Karanlık Eter II
+
+***
+ Karanlık Eter I"
+"herocard.passive_skill.description.mimiclootonlevelcompleted.mimic_aether_red","Bu Taklit, şu aşamaları tamamlarken ekstra ganimet şansı verir:
+
+*****
+ Ateş Eteri III
+
+****
+ Ateş Eteri II
+
+***
+ Ateş Eteri I"
+"herocard.passive_skill.description.mimiclootonlevelcompleted.mimic_aether_yellow","Bu Taklit, şu aşamaları tamamlarken ekstra ganimet şansı verir:
+
+*****
+ Kutsal Eter III
+
+****
+ Kutsal Eter II
+
+***
+ Kutsal Eter I"
+"herocard.passive_skill.description.mimiclootonlevelcompleted.mimic_ascension_blue","Bu Taklit, aşamaları tamamlarken ekstra ganimet kazanma şansı verir:
+
+****
+ Şam Kılıcı
+ Taktik Kitabı
+ Uzak Görüş Teleskobu
+
+***
+ İnce Eldivenler
+ Pusula
+ Sıcak Pelerin
+ Savaş Kılavuzu
+ Uzun Çizme
+ Örme Zırh Gömlek
+
+**
+ Güçlü Halat"
+"herocard.passive_skill.description.mimiclootonlevelcompleted.mimic_ascension_epic_yellow","Bu Taklit, aşamaları tamamlarken ekstra ganimet kazanma şansı verir:
+
+***
+ Gizli Bıçak
+ Büyü Küresi
+ Sağlam Kalkan
+ Tuzak Aracı
+ Sıcak Pelerin
+ Savaş Kılavuzu 
+ Örme Zırh Gömlek
+ Kın
+ Uzun Çizme
+
+**
+ Gizli Kodlar
+ Hançer
+ Deri Zırh
+ Bileme Taşı
+ Güçlü Halat
+ Ahşap Kalkan
+
+*
+ Maceracı Kiti
+ Eğitim Kılıcı
+ Basit Kıyafetler"
+"herocard.passive_skill.description.mimiclootonlevelcompleted.mimic_ascension_green","Bu Taklit, aşamaları tamamlarken ekstra ganimet kazanma şansı verir:
+
+****
+ Şam Kılıcı
+ Taktik Kitabı
+ Gizemli Tonik
+
+***
+ İnce Eldivenler
+ Pusula
+ Sağlam Kalkan
+ Uzun Çizme
+ Kın
+
+**
+ Güçlü Halat
+ Hançer"
+"herocard.passive_skill.description.mimiclootonlevelcompleted.mimic_ascension_purple","Bu Taklit, aşamaları tamamlarken ekstra ganimet kazanma şansı verir:
+
+****
+ Şam Kılıcı
+ Taktik Kitabı
+ Kraliyet Cübbesi
+
+***
+ İnce Eldivenler
+ Pusula
+ Tuzak Araçları
+ Uzun Çizme
+ Kın
+
+**
+ Güçlü Halat
+ Hançer"
+"herocard.passive_skill.description.mimiclootonlevelcompleted.mimic_ascension_red","Bu Taklit, aşamaları tamamlarken ekstra ganimet kazanma şansı verir:
+
+****
+ Şam Kılıcı
+ Taktik Kitabı
+ Mistik Yüzükler
+
+***
+ İnce Eldivenler
+ Pusula
+ Gizli Bıçak
+ Örme Zırh Gömlek
+ Uzun Çizme
+
+**
+ Gizli Kod"
+"herocard.passive_skill.description.mimiclootonlevelcompleted.mimic_ascension_yellow","Bu Taklit, aşamaları tamamlarken ekstra ganimet kazanma şansı verir:
+
+****
+ Şam Kılıcı
+ Taktik Kitabı
+ Zehirli Oklar
+
+***
+ İnce Eldivenler
+ Pusula
+ Büyü Küresi
+ Örme Zırh Gömlek
+ Uzun Çizme
+
+**
+ Gizli Kod"
+"herocard.passive_skill.description.mimiclootonlevelcompleted.mimic_emblem_blue","Bu Taklit, aşamaları tamamlarken ekstra ganimet kazanma şansı verir:
+
+*****
+ Usta Büyücü Amblemleri
+ Usta Sihirbaz Amblemleri
+
+****
+ Büyücü Amblemleri
+ Sihirbaz Amblemleri"
+"herocard.passive_skill.description.mimiclootonlevelcompleted.mimic_emblem_green","Bu Taklit, aşamaları tamamlarken ekstra ganimet kazanma şansı verir:
+
+*****
+ Usta Paladin Amblemleri
+ Usta Rahip Amblemleri
+
+****
+ Paladin Amblemleri
+ Rahip Amblemleri"
+"herocard.passive_skill.description.mimiclootonlevelcompleted.mimic_emblem_purple","Bu Taklit, aşamaları tamamlarken ekstra ganimet kazanma şansı verir:
+
+*****
+ Usta Düzenbaz Amblemleri
+ Usta Bekçi Amblemleri
+
+****
+ Düzenbaz Amblemleri
+ Bekçi Amblemleri"
+"herocard.passive_skill.description.mimiclootonlevelcompleted.mimic_emblem_red","Bu Taklit, aşamaları tamamlarken ekstra ganimet kazanma şansı verir:
+
+*****
+ Usta Dövüşçü Amblemleri
+ Usta Barbar Amblemleri
+
+****
+ Dövüşçü Amblemleri
+ Barbar Amblemleri"
+"herocard.passive_skill.description.mimiclootonlevelcompleted.mimic_emblem_yellow","Bu Taklit, aşamaları tamamlarken ekstra ganimet kazanma şansı verir:
+
+*****
+ Usta Ruhban Amblemleri
+ Usta Keşiş Amblemleri
+
+****
+ Ruhban Amblemleri
+ Keşiş Amblemleri"
+"herocard.passive_skill.description.mimiclootonlevelcompleted.mimic_experience_rare_red","Bu Taklit, aşamaları tamamlarken ekstra ganimet kazanma şansı verir:
+
+**
+Sıra Dışı Ateş, Doğa, Buz Kahramanları, Karanlık ve Kutsal Kahramanlar
+
+*
+Usta Antrenör Kahramanlar
+Sıradan Ateş, Doğa, Buz Kahramanları, Karanlık ve Kutsal Kahramanlar"
+"herocard.passive_skill.description.mimiclootonlevelcompleted.mimic_training_hero_blue","Bu Taklit, aşamaları tamamlarken ekstra ganimet kazanma şansı verir:
+
+***
+Nadir Buz Antrenör Kahramanları
+
+**
+Sıra Dışı Buz Antrenör Kahramanları 
+Sıra Dışı Buz Kahramanları
+
+*
+Sıradan Buz Antrenör Kahramanları
+Sıradan Buz Kahramanları"
+"herocard.passive_skill.description.mimiclootonlevelcompleted.mimic_training_hero_green","Bu Taklit, aşamaları tamamlarken ekstra ganimet kazanma şansı verir:
+
+***
+Nadir Doğa Antrenör Kahramanları
+
+**
+Sıra Dışı Doğa Antrenör Kahramanları
+Sıra Dışı Doğa Kahramanları
+ 
+*
+Sıradan Doğa Antrenör Kahramanları
+Sıradan Doğa Kahramanları"
+"herocard.passive_skill.description.mimiclootonlevelcompleted.mimic_training_hero_purple","Bu Taklit, aşamaları tamamladığında ekstra ganimet alma şansı verir:
+
+***
+Nadir Karanlık Antrenör Kahramanları
+
+**
+Sıra Dışı Karanlık Antrenör Kahramanları
+Sıra Dışı Karanlık Kahramanları
+ 
+*
+Sıradan Karanlık Kahramanları
+Sıradan Karanlık Antrenör Kahramanları"
+"herocard.passive_skill.description.mimiclootonlevelcompleted.mimic_training_hero_red","Bu Taklit, aşamaları tamamladığında ekstra ganimet alma şansı verir:
+
+***
+Nadir Ateş Antrenör Kahramanları
+
+**
+Sıra Dışı Ateş Antrenör Kahramanları
+Sıra Dışı Ateş Kahramanları
+
+*
+Sıradan Ateş Antrenör Kahramanları
+Sıradan Ateş Kahramanları"
+"herocard.passive_skill.description.mimiclootonlevelcompleted.mimic_training_hero_yellow","Bu Taklit, aşamaları tamamladığında ekstra ganimet alma şansı verir:
+
+***
+Nadir Kutsal Antrenör Kahramanlar
+
+**
+Sıra Dışı Kutsal Antrenör Kahramanlar
+Sıra Dışı Kutsal Kahramanlar
+
+*
+Sıradan Kutsal Antrenör Kahramanlar
+Sıradan Kutsal Kahramanlar"
+"herocard.passive_skill.description.nevermissspecial","Bu karakterin Özel Yeteneği, hedefini asla şaşırmaz."
+"herocard.passive_skill.description.ransack","Her turun başında, bu karakter rastgele bir düşmanı Yağmalar:
+
+{DAMAGE} çalar.
+Düşmandan bir buff'ı, Büyüme efektini veya olumlu istifi güvenle çalar. Buna bozulamaz buff'lar ve dans efektleri dâhildir."
+"herocard.passive_skill.description.ransack.chance","Her turun başında, bu karakter %{CHANCE} şansla rastgele bir düşmanı Yağmalar:
+
+Yağmala:
+{DAMAGE} sağlık çalar.
+Düşmandan rastgele bir Büyüme efektini, olumlu İstifi veya durum efekti buff'ını güvenle çalar. Buna bozulamaz buff'lar ve Dans efektleri dâhildir.
+Güvenli çalma, kaldırılan buff'ın kaldırmadan sonra hasar gibi ikincil efektlerini atlatır. Pasif yetenekler ve aile efektleri yine de etkinleşebilir."
+"herocard.passive_skill.description.reallocatestatuseffectonspecialcast.damage.all.enemies.minorbuff.newest","Bu karakter Özel Yeteneğini uyguladığında, buff'ları olan rastgele bir düşmandan en yeni bozulabilen buff'ı çalmak için %{CHANCE} şansı bulunur. Hiçbir düşmanın buff'ı yoksa tüm düşmanlara %{DAMAGE} hasar verir."
+"herocard.passive_skill.description.reallocatestatuseffectonspecialcast.damage.all.enemies.minorbuff.newest.randomenemytarget","Bu karakter Özel Yeteneğini uyguladığında, buff'ları olan rastgele bir düşmandan en yeni bozulabilen buff'ı çalmak için %{CHANCE} şansı bulunur. Hiçbir düşmanın buff'ı yoksa tüm düşmanlara %{DAMAGE} hasar verir."
+"herocard.passive_skill.description.reallocatestatuseffectonspecialcast.heal.always.minordebuff.newest","Bu karakter Özel Yeteneğini uyguladığında en yeni arındırılabilir durum engellerini kendisinden hedefe aktarır. Özel Yetenek bir düşmanı hedef alamıyorsa bunun yerine rastgele bir düşman seçilir. Bu karakterin arındırılabilir durum engeli yoksa %{HEALTH} sağlık yeniler."
+"herocard.passive_skill.description.receivedstrongelementsupportcharacterdamage","Bu kahraman, güçlü elementin Birliklerinden daha az elementer hasar alır.
+
+Alınan elementer hasar: -%{MODIFIER}"
+"herocard.passive_skill.description.receivedstrongelementsupportcharacterdamage.combined","Daha güçlü elementin Birliklerinden %{MODIFIER} daha az element hasarı alınır."
+"herocard.passive_skill.description.receivedstrongelementsupportcharacterdamage.increase.dragon","Daha güçlü elementin ateş toplarından %{MODIFIER} daha çok element hasarı alınır."
+"herocard.passive_skill.description.redirectlethaldamage.enemies.single","Bu karakter, ilk defa ölümcül bir hasar aldığında o hasarı rastgele bir düşmana yönlendirir.
+
+Birden çok dalganın olduğu savaşlarda efekt, her dalganın başında yenilenir."
+"herocard.passive_skill.description.redirectlethaldamage.enemies.single.battle","Bu karakter ilk kez ölümcül hasar aldığında hasar almak yerine bu hasarı rastgele bir düşmana yansıtır. (Kalan etkinleştirme: {ACTIVATIONSLEFT})"
+"herocard.passive_skill.description.reflectstatuseffect.with_chance","Durum engellerini saldırgana geri yansıtmak için %{CHANCE} ekstra şans."
+"herocard.passive_skill.description.removebasestatmodifiers.removenegative.from.all.allies","Her {TURNS} turda bir tüm müttefiklerden tüm Soldurma efektlerini kaldırır."
+"herocard.passive_skill.description.removebasestatmodifiers.removepositive.from.all.enemies","Her {TURNS} turda bir tüm düşmanlardan tüm Büyüme efektlerini kaldırır."
+"herocard.passive_skill.description.repaircoreintrinsicchargeeffectonspecial.healthboost.all.allies.always","Bu karakterin Yapı Merkezi Onarım Merkezidir.
+
+Onarım Merkezi bu karakterin Özel Yeteneği her uygulandığında etkinleşir:
+
+ Tamamen dolan bir Onarım Merkeziyle tüm müttefiklerin sağlığını %{CHARGEDPOWER1} artırır. 
+ Şifa, Merkezin dolum miktarına göre değişir. Merkez etkinleştirildiğinde doluluk oranı tamamen boşaltılır."
+"herocard.passive_skill.description.repeatspecial","Bu Kahramanın Özel Yeteneğini {REPEATS} defa uygulamak için %{REPEATCHANCE} şans."
+"herocard.passive_skill.description.resist.accuracymodifiers","Bu karakterin, isabetliliği etkileyen durum engellerine karşı bağışıklığı bulunur. Müttefiklerin asıl durum efektlerine uygulanmaz."
+"herocard.passive_skill.description.resist.alldebuffs.alldebuffs","Bu karakterin, durum engellerine ve olumsuz istiflere karşı bağışıklığı bulunur."
+"herocard.passive_skill.description.resist.alldebuffs.buffdispels.with_chance","Tüm durum engellerine ve buff bozmalarına direnmek için ekstra %{CHANCE} şans."
+"herocard.passive_skill.description.resist.alldebuffs.manareduction.buffdispels.attackwither.defensewither.alldebuffs.with_chance","Tüm durum engellerine, mana düşüşlerine, buff bozmalarına ve Soldurma efektlerine direnmek için %{CHANCE} ekstra şans."
+"herocard.passive_skill.description.resist.alldebuffs.manareduction.buffdispels.insanity.with_chance","Tüm durum engellerine, mana azaltmalarına, buff bozmalarına ve Deliliğe direnmek için %{CHANCE} ekstra şans."
+"herocard.passive_skill.description.resist.alldebuffs.manareduction.buffdispels.with_chance","Tüm durum engellerine, mana düşüşlerine ve buff bozmalarına direnmek için %{CHANCE} ekstra şans."
+"herocard.passive_skill.description.resist.alldebuffs.with_chance","Tüm durum engellerine direnmek için %{CHANCE} ekstra şans."
+"herocard.passive_skill.description.resist.alldefensemodifiers.alldebuffs","Bu karakterin, savunmayı etkileyen durum engellerine karşı bağışıklığı bulunur. Elementer savunmaları etkileyen durum engellerine de uygulanır."
+"herocard.passive_skill.description.resist.alldefensemodifiers.defensewither.alldebuffs","Bu karakterin, savunmaları etkileyen durum engellerine, istiflere ve Soldurma efektlerine karşı bağışıklığı bulunur."
+"herocard.passive_skill.description.resist.alldefensemodifiers.defensewither.allstatuseffects","Bu karakter savunmayı artıran veya azaltan efektlerden etkilenmez.
+
+Buna Soldurma ve Büyüme efektlerinin yanı sıra durum efekti güçlendirmeleri ve engelleri, olumlu ve olumsuz İstifler dâhildir."
+"herocard.passive_skill.description.resist.alldefensemodifiers.defensewither.defensegrowth.allstatuseffectsandstacks","Bu karakter savunmayı artıran veya azaltan efektlerden etkilenmez.
+
+Buna 
+ Durum efekti buff'ları ve engelleri
+ Olumlu ve olumsuz İstifler
+ Büyüme ve Soldurma efektleri dâhildir."
+"herocard.passive_skill.description.resist.alldefensemodifiersincludingwither.allstatuseffects","Bu karakter savunmayı artıran veya azaltan efektlerden etkilenmez.
+
+Buna Soldurma ve Büyüme efektlerinin yanı sıra durum efekti güçlendirmeleri ve engelleri, olumlu ve olumsuz İstifler dâhildir."
+"herocard.passive_skill.description.resist.allmanaeffects.alldebuffs","Bu karakterin, mana üretimini etkileyen durum engellerine ve olumsuz istiflere karşı bağışıklığı bulunur. Mana engelleyen ya da mana çalan durum engelleri için de geçerlidir."
+"herocard.passive_skill.description.resist.allstatuseffectdamage.none","Bu karakterin, durum efektlerinden gelen hasara karşı bağışıklığı bulunur."
+"herocard.passive_skill.description.resist.attackdelay","Bu karakterin normal saldırısı geciktirilemez."
+"herocard.passive_skill.description.resist.attackdelay.alldebuffs","Bu karakterin normal saldırısı geciktirilemez."
+"herocard.passive_skill.description.resist.attackmodifiers","Bu karakterin, saldırıyı etkileyen durum engellerine karşı bağışıklığı bulunur."
+"herocard.passive_skill.description.resist.attackmodifiers.allstatuseffectsandstacks","Bu karakterin, saldırıları etkileyen tüm durum efektlerine ve istiflerine karşı bağışıklığı bulunur. Buna durum efekti buff'ları da dâhildir."
+"herocard.passive_skill.description.resist.attackmodifiers.attackwither.alldebuffs","Bu karakterin, saldırıyı etkileyen durum engellerine, istiflere ve Soldurma efektlerine karşı bağışıklığı bulunur."
+"herocard.passive_skill.description.resist.bleed","Bu karakterin, Kanama hasarı veren durum engellerine karşı bağışıklığı bulunur."
+"herocard.passive_skill.description.resist.bleed.with_effect.healthboost.addmana","Bu karakterin, Kanama hasarı veren durum engellerine karşı bağışıklığı bulunur ve her direndiğinde {HEALTHBOOST} güçlendirilmiş sağlık ve %{MANA} mana kazanır."
+"herocard.passive_skill.description.resist.buffdispels","Bu karakterin, durum efekti buff'larını bozan efektlere karşı bağışıklığı bulunur."
+"herocard.passive_skill.description.resist.buffdispels.none.with_chance","Buff bozmalarına direnmek için %{CHANCE} ekstra şans."
+"herocard.passive_skill.description.resist.buffimmunity","Bu karakterin, yeni durum efekti buff'ları almasını engelleyen efektlere karşı bağışıklığı bulunur."
+"herocard.passive_skill.description.resist.burn","Bu karakterin, Yakma hasarı veren durum engellerine karşı bağışıklığı bulunur."
+"herocard.passive_skill.description.resist.burn.with_effect.healthboost.addmana","Bu karakterin, Yakma hasarı veren durum engellerine karşı bağışıklığı bulunur ve her direndiğinde {HEALTHBOOST} güçlendirilmiş sağlık ve %{MANA} mana kazanır."
+"herocard.passive_skill.description.resist.can_stack.alldebuffs","Bu karakterin, durum engellerine karşı bağışıklığı bulunur."
+"herocard.passive_skill.description.resist.can_stack.alldebuffs.with_chance","Tüm durum engellerine direnmek için %{CHANCE} ekstra şans."
+"herocard.passive_skill.description.resist.criticalhits.none","Bu karakterin, Kritik Darbelerden gelen ekstra hasara ve ilave etkilere karşı bağışıklığı bulunur."
+"herocard.passive_skill.description.resist.defensemodifierdebuffs","Bu karakterin, savunmayı etkileyen durum engellerine karşı bağışıklığı bulunur. Elementer savunmaları etkileyen durum engellerine uygulanmaz."
+"herocard.passive_skill.description.resist.defensemodifiers.alldebuffs","Bu karakterin, savunmayı etkileyen durum engellerine ve olumsuz istiflere karşı bağışıklığı bulunur. Elementer savunmaları etkileyen durum engellerine uygulanmaz."
+"herocard.passive_skill.description.resist.familiarremoval.familiarsilence.familiarreceivingblocking.minion"," Hizmetkarları kaldıran etkilere karşı bağışıklığı bulunur.
+ Hizmetkar alması önlenemez.
+ Hizmetkar saldırıları ve kabiliyetleri devre dışı bırakılamaz."
+"herocard.passive_skill.description.resist.frost","Bu karakterin, Ayaz hasarı veren durum engellerine karşı bağışıklığı bulunur."
+"herocard.passive_skill.description.resist.frost.with_effect.healthboost.addmana","Bu karakterin, Ayaz hasarı veren durum engellerine karşı bağışıklığı bulunur ve her direndiğinde {HEALTHBOOST} güçlendirilmiş sağlık ve %{MANA} mana kazanır."
+"herocard.passive_skill.description.resist.healeffects","Bu karakterin, şifayı etkileyen durum engellerine karşı bağışıklığı bulunur."
+"herocard.passive_skill.description.resist.healthsteal","Bu karakterin, sağlık çalan durum engellerine karşı bağışıklığı bulunur."
+"herocard.passive_skill.description.resist.insanity.permanentstatuseffects","Bu karakterin, Deliliğe karşı bağışıklığı bulunur."
+"herocard.passive_skill.description.resist.manadebuffs","Bu karakterin, manayı etkileyen durum engellerine karşı bağışıklığı bulunur."
+"herocard.passive_skill.description.resist.manaeffectsandspecialblocking","Bu karakterin, mana üretimini etkileyen ya da Özel Yetenek kullanımını önleyen durum engellerine karşı bağışıklığı bulunur."
+"herocard.passive_skill.description.resist.manaeffectsandspecialblocking.with_chance","Bu karakterin, manayı etkileyen ya da Özel Yetenek kullanımını önleyen durum engellerine direnmek için %{CHANCE} şansı bulunur."
+"herocard.passive_skill.description.resist.managenerationmodifiers.alldebuffs","Bu karakterin, mana üretimini etkileyen durum engellerine ve olumsuz istiflere karşı bağışıklığı bulunur. Mana üretimini durduran veya mana çalan durum engelleri için geçerli değildir."
+"herocard.passive_skill.description.resist.manareduction","Bu karakterin, mana azalmalarına karşı bağışıklığı bulunur."
+"herocard.passive_skill.description.resist.manareduction.alldebuffs.with_chance","Mana azalmalarına direnmek için %{CHANCE} ekstra şans."
+"herocard.passive_skill.description.resist.manareduction.none.with_effect.healthboost.addmana","Bu karakterin, mana azaltmalarına karşı bağışıklığı bulunur. Ayrıca her direndiğinde {HEALTHBOOST} güçlendirilmiş sağlık ve %{MANA} mana kazanır."
+"herocard.passive_skill.description.resist.maxhealthreduction","Bu karakterin, maks. sağlık azalmasına karşı bağışıklığı bulunur."
+"herocard.passive_skill.description.resist.poison","Bu karakterin, Zehir hasarı veren durum engellerine karşı bağışıklığı bulunur."
+"herocard.passive_skill.description.resist.poison.burn.bleed","Bu karakterin, Zehir, Yakma ve Kanama hasarı veren durum engellerine karşı bağışıklığı bulunur."
+"herocard.passive_skill.description.resist.possession.allstatuseffects","Bu karakterin, karakteri ele geçirebilecek durum etkilerine karşı bağışıklığı bulunur."
+"herocard.passive_skill.description.resist.sand","Bu karakterin, Kum hasarı veren durum engellerine karşı bağışıklığı bulunur."
+"herocard.passive_skill.description.resist.specialblocking","Bu karakterin, Özel Yetenek kullanımını önleyen durum engellerine karşı bağışıklığı bulunur."
+"herocard.passive_skill.description.resist.specialblocking.with_chance","Bu karakterin Özel Yetenek kullanımını önleyen durum engellerine direnmek için %{CHANCE} şansı bulunur."
+"herocard.passive_skill.description.resist.specialblocking.with_effect.healthboost.addmana","Bu karakterin, Özel Yetenek kullanımını önleyen durum engellerine karşı bağışıklığı bulunur. Ayrıca her direndiğinde {HEALTHBOOST} güçlendirilmiş sağlık ve %{MANA} mana kazanır."
+"herocard.passive_skill.description.resist.stopmanageneration","Bu karakterin, mana üretimini durduran durum engellerine karşı bağışıklığı bulunur."
+"herocard.passive_skill.description.resist.water","Bu karakterin, Su hasarı veren durum engellerine karşı bağışıklığı bulunur."
+"herocard.passive_skill.description.resistdebuffsfromfamiliars.minion","Bu karakterin, Hizmetkarlardan gelen durum engellerine karşı bağışıklığı bulunur."
+"herocard.passive_skill.description.resistfamiliarremoval.minion.bigminion","Bu karakterin, kendisinden Hizmetkarları kaldıracak efektlere karşı bağışıklığı bulunur."
+"herocard.passive_skill.description.resistnegativefamiliareffects.minion","Bu karakterin, Hizmetkarlardan gelen olumsuz efektlere ve hasara karşı bağışıklığı bulunur."
+"herocard.passive_skill.description.resistnegativefamiliareffects.minion.bigminion","Bu karakterin, Hizmetkarlardan ve Mega Hizmetkarlardan gelen olumsuz efektlere ve hasara karşı bağışıklığı bulunur."
+"herocard.passive_skill.description.resistnewfamiliars.parasite","Bu karakter Canavar alamaz."
+"herocard.passive_skill.description.resistnewfamiliars.parasite.bigparasite","Bu karakter Canavar veya Mega Canavar alamaz"
+"herocard.passive_skill.description.resistsupportcharacter.troop.alldebuffs.with_chance","Tüm durum engellerine direnmek için %{CHANCE} ekstra şans."
+"herocard.passive_skill.description.revivalchancemodifier.all.enemies","Savaştaki tüm düşmanlar için dirilme şansı azaltılır. Şans, asıl değerin %{MODIFIER} kadarıdır."
+"herocard.passive_skill.description.revivalhealthmodifier.all.enemies.excluding.boss","Boss'lar dışında tüm düşmanlar %{HEALTHMODIFIER} sağlık ile dirilir."
+"herocard.passive_skill.description.reviveinalternativeformwithinsanitychance","Bu karakterin yenildiğinde Tuhaf Konak olarak dirilme şansı vardır. Şans, karakter üzerindeki {INSANITYPERSTEP} Delilik başına en fazla %{MAXCHANCEINCREASE} olmak üzere %{CHANCEINCREASEPERSTEP} oranındadır. Bu karakter Delilik etkinleşirken kendini alt ederse dirilme şansı %{CHANCEONSELFCAUSEDDEATH} olur.
+
+Tuhaf Konak şunlara sahiptir:
+%{INHERITEDHEALTH} devralınan sağlık. 
+{ATTACK} saldırı.
+{DEFENSE} savunma.
+Özel Yetenek: Tuhaf Felaket."
+"herocard.passive_skill.description.reviveinalternativeformwithinsanitychance_temp","Bu karakterin yenildiğinde Tuhaf Konak olarak dirilme şansı vardır. Şans, karakter üzerindeki {INSANITYPERSTEP} Delilik başına en fazla %{MAXCHANCEINCREASE} olmak üzere %{CHANCEINCREASEPERSTEP} oranındadır. 
+
+Tuhaf Konak şunlara sahiptir:
+%{INHERITEDHEALTH} devralınan sağlık. 
+{ATTACK} saldırı.
+{DEFENSE} savunma.
+Özel Yetenek: Tuhaf Felaket.
+
+Bu karakter Deliliği etkinleştirirken kendini alt ederse yeniden dirilme şansı her zaman %{CHANCEONSELFCAUSEDDEATH} olur."
+"herocard.passive_skill.description.revivewithchance.healthrecoverymultiplier.manarecoverymultiplier.activationreducedchance","Bu karakteri, yenildiğinde bir sonraki turunda %{HEALTH} sağlık ve %{MANA} mana ile dirilmek için %{TOTALCHANCE} şansı bulunur. 
+
+{MAXACTIVATIONCOUNT} defaya kadar etkinleşir. Dirilme şansı her etkinleşmede azalır. Durum engelleri veya Pasif Yetenekler ile engellenemez."
+"herocard.passive_skill.description.setstatuseffectdurationonaddition.all.allies.activates_on_ally_action.alldebuffs.dance","Düşmanların uyguladığı tüm Balatlar yalnızca {TURNS} tur sürer."
+"herocard.passive_skill.description.setstatuseffectdurationonaddition.single.enemies.activates_on_enemy_action.allbuffs.dance","Düşmanların uyguladığı tüm Danslar yalnızca {TURNS} tur sürer."
+"herocard.passive_skill.description.sharereceiveddamage","Bu karakterin aldığı hasarın %{SHAREDDAMAGEPORTION} kadarı diğer tüm müttefiklerle paylaşılır."
+"herocard.passive_skill.description.specialdamagereduction","Bu karakter, Özel Yeteneklerden gelen ilk {MAXACTIVATIONCOUNT} hasar için %{DAMAGEREDUCTION} daha az hasar alır."
+"herocard.passive_skill.description.specialdamagereduction.chance","Bu karakterin, Özel Yeteneklerden alınan doğrudan hasarı 1'e düşürmesi için %{CHANCE} şans bulunur."
+"herocard.passive_skill.description.specialdamagereductionsupportcharacter.troop","Bu karakter için Özel Yeteneklerden alınan hasar %{DAMAGEREDUCTION} azaltılır."
+"herocard.passive_skill.description.startbattlewitheffect.addmana","Bu karakter, savaşın başında %{MANA} mana alır."
+"herocard.passive_skill.description.statmodifier.attack","%{ATTACKMULTIPLIER} Saldırı."
+"herocard.passive_skill.description.statmodifier.defense","%{DEFENSEMULTIPLIER} Savunma."
+"herocard.passive_skill.description.statmodifier.health","%{HEALTHMULTIPLIER} Sağlık."
+"herocard.passive_skill.description.statmodifier.health.attack","%{HEALTHMULTIPLIER} Sağlık, %{ATTACKMULTIPLIER} Saldırı."
+"herocard.passive_skill.description.statmodifier.health.defense","%{HEALTHMULTIPLIER} Sağlık, %{DEFENSEMULTIPLIER} Savunma."
+"herocard.passive_skill.description.statmodifier.health.defense.attack","%{HEALTHMULTIPLIER} Sağlık, %{DEFENSEMULTIPLIER} Savunma, %{ATTACKMULTIPLIER} Saldırı."
+"herocard.passive_skill.description.statuseffectattackmodifier.addition","Saldırıyı artıran durum efektleri bu karakter için %{MODIFIER} daha etkilidir."
+"herocard.passive_skill.description.statuseffectattackmodifier.all.allies.reduction","Saldırıyı etkileyen durum engellerinin efektini %{MODIFIER} azaltır. Efekt, bu karakter ve savaştaki tüm müttefikleri için geçerlidir."
+"herocard.passive_skill.description.statuseffectattackmodifier.reduction","Saldırıyı azaltan durum engelleri, bu düşmana karşı %{MODIFIER} daha az etkilidir."
+"herocard.passive_skill.description.statuseffectattackmodifiersupportcharacter.troop.addition","Saldırıyı artıran durum efektleri bu karakter için %{MODIFIER} daha etkilidir."
+"herocard.passive_skill.description.statuseffectattackmodifiersupportcharacter.troop.reduction","Saldırıyı azaltan durum engelleri, bu düşmana karşı %{MODIFIER} daha az etkilidir."
+"herocard.passive_skill.description.statuseffectdefensemodifier.addition","Savunmayı artıran durum efektleri bu karakter için %{MODIFIER} daha etkilidir."
+"herocard.passive_skill.description.statuseffectdefensemodifier.all.allies.reduction","Savunma engellerinin etkisini %{MODIFIER} azaltır. Etki, bu karakter ve savaştaki tüm müttefikleri için geçerlidir."
+"herocard.passive_skill.description.statuseffectdefensemodifier.reduction","Savunmayı azaltan durum engelleri, bu düşmana karşı %{MODIFIER} daha az etkilidir."
+"herocard.passive_skill.description.statuseffectdefensemodifiersupportcharacter.troop.addition","Savunmayı artıran durum efektleri bu karakter için %{MODIFIER} daha etkilidir."
+"herocard.passive_skill.description.statuseffectdefensemodifiersupportcharacter.troop.reduction","Savunmayı azaltan durum engelleri, bu düşmana karşı %{MODIFIER} daha az etkilidir."
+"herocard.passive_skill.description.statuseffectdurationmodifier.decrease.minordebuff.majordebuff","Bu karakterin, Özel Yeteneklerden aldığı ilk {MAXACTIVATIONCOUNT} durum engelinin süresi, {DURATIONMODIFIER} tur azaltılır."
+"herocard.passive_skill.description.statuseffectdurationmodifier.decrease.minordebuff.majordebuff.defensemodifier.no_limit","Bu karakterin, Özel Yeteneklerden aldığı savunma durum engelinin süresi, {DURATIONMODIFIER} tur azaltılır."
+"herocard.passive_skill.description.statuseffectdurationmodifier.increase.minorbuff.majorbuff","Bu karakterin, Özel Yeteneklerden aldığı ilk {MAXACTIVATIONCOUNT} buff'ın süresi, {DURATIONMODIFIER} tur artırılır."
+"herocard.passive_skill.description.statuseffectoncleanse.single.enemies","Bu kahramandan bir durum engeli arındırılınca arındırılan engelin yeni bir kopyası, rastgele bir düşmana uygulanır."
+"herocard.passive_skill.description.statuseffectonspecialcast.major.all.allies.softskin","Bu Yaratık her Özel Yetenek kullandığında tüm müttefikler Yumuşak Deri alır. {MAXACTIVATIONS} defa daha hasar aldıklarında %{DAMAGEREDUCTION} azaltılır. Ayrıca tüm durum engellerine, mana azaltmalarına ve Deliliğe karşı bağışıklıkları bulunur. Bu efekt bozulamaz."
+"herocard.passive_skill.description.statuseffectonspecialcast.major.single.allies.softskin","Bu Yaratık her Özel Yetenek kullandığında müttefiklerin Yumuşak Derisi etkinleşir. {MAXACTIVATIONS} defa daha hasar aldığında %{DAMAGEREDUCTION} azaltılır. Ayrıca tüm durum engellerine, mana azaltmalarına ve Deliliğe karşı bağışıklıkları bulunur. Bu efekt bozulamaz."
+"herocard.passive_skill.description.statuseffectonspecialcast.major.single.allies.stone","Bu Yaratık her Özel Yetenek uyguladığında Taş Derisi sertleşir. Sonraki {MAXHITS} defa, aldığı hasar 1'e düşürülür. Bu efekt bozulamaz."
+"herocard.passive_skill.description.statuseffectonspecialcast.minor.single.allies.attackmodifierfrompassiveskill","Bu karakter Özel Yeteneğini uyguladığında {TURNS} tur boyunca %{ATTACK} saldırı alır. Bu efekt, saldırıyı değiştiren diğer efektlere ek olarak aktif olabilir."
+"herocard.passive_skill.description.statuseffectselection.usable_once.select_element_status_effect","Her savaşta bir defa, bu Kahramanın elementi, {TURNS} tur boyunca istediğin Elementle değiştirilebilir. Elementi, manası dolu olmadığında Kahramana dokunarak değiştirebilirsin."
+"herocard.passive_skill.description.summonfamiliarperturn.evolving_seedling_parasite.enemies","Her tur rastgele bir düşmana bir Fide Canavarı çağırır.
+Fide Canavarı {EVOLVINGFAMILIAR1EVOLVETURNS} tur sonra bir Filiz Canavarına evrilir.
+Filiz Canavarı {EVOLVINGFAMILIAR2EVOLVETURNS} tur sonra bir Çiçek Açan Mega Canavara evrilir.
+
+Fide Canavarı: 
+%{EVOLVINGFAMILIAR1ATTACK} saldırı, %{EVOLVINGFAMILIAR1HEALTH} sağlık.
+
+Filiz Canavarı: 
+%{EVOLVINGFAMILIAR2ATTACK} saldırı, %{EVOLVINGFAMILIAR2HEALTH} sağlık.
+
+Çiçek Açan Mega Canavar: 
+%{EVOLVINGFAMILIAR3ATTACK} saldırı, %{EVOLVINGFAMILIAR3HEALTH} sağlık."
+"herocard.passive_skill.description.summonfamiliarperturn.evolving_seedling_parasite.enemies.sharedonceperturn","Her tur rastgele bir düşmana bir Fide Canavarı çağırır. Bu Pasif Yetenek, her takım için her turda yalnızca bir defa etkinleştirilebilir.
+Fide Canavarı {EVOLVINGFAMILIAR1EVOLVETURNS} tur sonra bir Filiz Canavarına evrilir.
+Filiz Canavarı {EVOLVINGFAMILIAR2EVOLVETURNS} tur sonra bir Çiçek Açan Mega Canavara evrilir.
+
+Fide Canavarı: 
+%{EVOLVINGFAMILIAR1ATTACK} saldırı, %{EVOLVINGFAMILIAR1HEALTH} sağlık.
+
+Filiz Canavarı: 
+%{EVOLVINGFAMILIAR2ATTACK} saldırı, %{EVOLVINGFAMILIAR2HEALTH} sağlık.
+
+Çiçek Açan Mega Canavar: 
+%{EVOLVINGFAMILIAR3ATTACK} saldırı, %{EVOLVINGFAMILIAR3HEALTH} sağlık."
+"herocard.passive_skill.description.summononownerdeath.slime_big_minion_blue.neartotargetexceptcaster.allies","Bu karakter yenildiğinde yakındaki müttefiklere bu karakterden devralınan %{FAMILIARHEALTHPERCENT} SP'ye ve %{FAMILIARATTACK} saldırıya sahip Balçık Mega Hizmetkarları çağırır."
+"herocard.passive_skill.description.summononownerdeath.slime_big_minion_green.neartotargetexceptcaster.allies","Bu karakter yenildiğinde yakındaki müttefiklere bu karakterden devralınan %{FAMILIARHEALTHPERCENT} SP'ye ve %{FAMILIARATTACK} saldırıya sahip Balçık Mega Hizmetkarları çağırır."
+"herocard.passive_skill.description.summononownerdeath.slime_big_minion_purple.neartotargetexceptcaster.allies","Bu karakter yenildiğinde yakındaki müttefiklere bu karakterden devralınan %{FAMILIARHEALTHPERCENT} SP'ye ve %{FAMILIARATTACK} saldırıya sahip Balçık Mega Hizmetkarları çağırır."
+"herocard.passive_skill.description.summononownerdeath.slime_big_minion_red.neartotargetexceptcaster.allies","Bu karakter yenildiğinde yakındaki müttefiklere bu karakterden devralınan %{FAMILIARHEALTHPERCENT} SP'ye ve %{FAMILIARATTACK} saldırıya sahip Balçık Mega Hizmetkarları çağırır."
+"herocard.passive_skill.description.summononownerdeath.slime_big_minion_yellow.neartotargetexceptcaster.allies","Bu karakter yenildiğinde yakındaki müttefiklere bu karakterden devralınan %{FAMILIARHEALTHPERCENT} SP'ye ve %{FAMILIARATTACK} saldırıya sahip Balçık Mega Hizmetkarları çağırır."
+"herocard.passive_skill.description.summononreceiveddamagewiththreshold.slime_big_minion_blue","Bu karakter bir defada maks. sağlığının %{DAMAGETHRESHOLD} kadarından daha fazlasını kaybederse kendisine %{FAMILIARHEALTHPERCENT} SP'ye ve %{FAMILIARATTACK} saldırıya sahip bir Balçık Mega Hizmetkarı çağırır."
+"herocard.passive_skill.description.summononreceiveddamagewiththreshold.slime_big_minion_green","Bu karakter bir defada maks. sağlığının %{DAMAGETHRESHOLD} kadarından daha fazlasını kaybederse kendisine %{FAMILIARHEALTHPERCENT} SP'ye ve %{FAMILIARATTACK} saldırıya sahip bir Balçık Mega Hizmetkarı çağırır."
+"herocard.passive_skill.description.summononreceiveddamagewiththreshold.slime_big_minion_purple","Bu karakter bir defada maks. sağlığının %{DAMAGETHRESHOLD} kadarından daha fazlasını kaybederse kendisine %{FAMILIARHEALTHPERCENT} SP'ye ve %{FAMILIARATTACK} saldırıya sahip bir Balçık Mega Hizmetkarı çağırır."
+"herocard.passive_skill.description.summononreceiveddamagewiththreshold.slime_big_minion_red","Bu karakter bir defada maks. sağlığının %{DAMAGETHRESHOLD} kadarından daha fazlasını kaybederse kendisine %{FAMILIARHEALTHPERCENT} SP'ye ve %{FAMILIARATTACK} saldırıya sahip bir Balçık Mega Hizmetkarı çağırır."
+"herocard.passive_skill.description.summononreceiveddamagewiththreshold.slime_big_minion_yellow","Bu karakter bir defada maks. sağlığının %{DAMAGETHRESHOLD} kadarından daha fazlasını kaybederse kendisine %{FAMILIARHEALTHPERCENT} SP'ye ve %{FAMILIARATTACK} saldırıya sahip bir Balçık Mega Hizmetkarı çağırır."
+"herocard.passive_skill.description.summononstatuseffectaddition.burn.forest_guardian.statuseffectdebuffs","Bu karakter her Yakma durum engeli aldığında kendisi için bir Orman Muhafızı Hizmetkar çağırır. Orman Muhafızı Hizmetkar, bu karakterden %{FAMILIARHEALTHPERCENT} SP ve %{FAMILIARATTACK} saldırı alır."
+"herocard.passive_skill.description.summononstatuseffectaddition.damageovertime.card_soldier_no_taunt.statuseffectdebuffs","Bu karakter her Zamanla Hasar durum engeli aldığında kendisi için bir Kart Askeri Hizmetkarı çağırır. Kart Askeri Hizmetkarı, bu karakterden %{FAMILIARHEALTHPERCENT} SP ve %{FAMILIARATTACK} saldırı devralır."
+"herocard.passive_skill.description.summononstatuseffectaddition.defensemodifier.bull.none","Bu karakter her savunmasını etkileyen bir durum engeli aldığında kendisi için bir Boğa Hizmetkar çağırır. Boğa Hizmetkar, bu karakterden %{FAMILIARHEALTHPERCENT} SP ve %{FAMILIARATTACK} saldırı alır."
+"herocard.passive_skill.description.summononsummon.activates_on_enemy_action.allies.owl.minion","Düşman, Özel Yetenek ile herhangi bir Hizmetkar çağırınca kendi için bir Serçe Hizmetkar çağırır."
+"herocard.passive_skill.description.summononsummon.activates_on_enemy_action.enemies.cursed_sapling_parasite.minion","Bir düşman, bir Özel Yetenekle herhangi bir Hizmetkarı çağırırsa bu karakter, o düşman için bir Lanetli Fidan Canavarı çağırır."
+"herocard.passive_skill.description.summononsummon.activates_on_enemy_action.enemies.seedling_parasite.minion","Bir düşman, bir Özel Yetenekle herhangi bir Hizmetkarı çağırırsa bu karakter, o düşman için bir Fide Canavarı çağırır."
+"herocard.passive_skill.description.taunt","Bu karakterin Özel Yeteneği, Alaydan etkilenmez."
+"herocard.passive_skill.description.transformstatuseffectonspecialcast.minorbuff.enemies.all.transform_attackmodifier_into_attackmodifier.transform_defensemodifier_into_defensemodifier.transform_managenerationmodifier_into_defensemodifier","Bu karakter, Özel Yeteneğini her kullandığında tüm düşmanların üzerindeki saldırı, savunma ve mana üretimini etkileyen tüm buff'lar uyumlu arındırılamaz durum engellerine dönüştürülür."
+"herocard.passive_skill.description.transformstatuseffectonspecialcast.minorbuff.enemies.all.transform_attackmodifier_into_attackmodifier.transform_defensemodifier_into_defensemodifier.transform_managenerationmodifier_into_managenerationmodifier","Bu karakter, Özel Yeteneğini her kullandığında tüm düşmanların üzerindeki saldırı, savunma ve mana üretimini etkileyen tüm buff'lar uyumlu bozulamaz durum engellerine dönüştürülür."
+"herocard.passive_skill.description.transformstatuseffectonspecialcast.minordebuff.allies.all.transform_attackmodifier_into_attackmodifier.transform_defensemodifier_into_defensemodifier.transform_managenerationmodifier_into_managenerationmodifier","Bu karakter, Özel Yeteneğini her kullandığında tüm düşmanların üzerindeki saldırı, savunma ve mana üretimini etkileyen tüm durum engelleri uyumlu bozulamaz buff'lara dönüştürülür."
+"herocard.passive_skill.description.wither.all.enemies","Tüm düşmanların temel saldırısı ve temel savunması {MAXACTIVATIONCOUNT} tur boyunca her turda {STATINCREASE} azalır."
+"herocard.passive_skill.inactive","AKTİF DEĞİL: Etkinleştirmek için maks. seviyeye ve tam yükselişe ulaş."
+"herocard.passive_skill.sidedependent.sideinfo.heroside","Saldıran karakterde Pasif Yetenek:"
+"herocard.passive_skill.sidedependent.sideinfo.opponentside","Savunan karakterde Pasif Yetenek:"
+"herocard.passive_skill.title.addstatuseffectsonenemyattackbuff","Düşman Saldırı Buff'ında Durum Efekti"
+"herocard.passive_skill.title.addstatuseffectsonenemydefensebuff","Düşman Savunma Buff'ında Durum Efekti"
+"herocard.passive_skill.title.addstatuseffectsonmanareduction","Mana Azaltmasında Durum Efekti"
+"herocard.passive_skill.title.bleed.effectondamageovertime.activates_on_enemy_action.addmana","Kanamada Mana"
+"herocard.passive_skill.title.bleed.effectondamageovertime.activates_on_enemy_action.heal","Kanamada Şifa"
+"herocard.passive_skill.title.burn.effectondamageovertime.activates_on_enemy_action.addmana","Yakmada Mana"
+"herocard.passive_skill.title.bypassfamiliars.minion","Hizmetkarları Atlat"
+"herocard.passive_skill.title.bypassfamiliars.minion.bigminion","Üstün Hizmetkar Atlatıcı"
+"herocard.passive_skill.title.caststatuseffectdurationmodifier","Artırılmış Durum Efekti Süresi"
+"herocard.passive_skill.title.chargebasedmodifier.managenerationmodifier.dodgemodifier","Uçuş İvmesi"
+"herocard.passive_skill.title.conditionaleffectovertime.addmana.everyturn.while.all.allies.haswither","Soldurma Sırasında Mana"
+"herocard.passive_skill.title.conditionaleffectovertime.revival.while.single.allies.hasdeadallies","Zaman İçinde Dirilt"
+"herocard.passive_skill.title.conditionaleffectovertime.usable_once.heal.addmana.everyturn.while.single.allies.lowhealth","Sisu'nun Gücü"
+"herocard.passive_skill.title.convertincomingdamagetoheal.all.statuseffect","İç Güzellik"
+"herocard.passive_skill.title.convertincomingdamagetoheal.statuseffect","İç Güzellik"
+"herocard.passive_skill.title.corrosiveburncoreintrinsicchargeeffectonspecial.activates_on_ally_action.statuseffects.corrosiveburn","Eriyik Merkez"
+"herocard.passive_skill.title.corrosiveburncoreintrinsicchargeeffectonspecial.statuseffects.corrosiveburn","Eriyik Merkez"
+"herocard.passive_skill.title.corrosivecoreintrinsicchargeeffectonspecial.statuseffects.corrosivepoison","Yıpratıcı Merkez"
+"herocard.passive_skill.title.corrosivefrostcoreintrinsicchargeeffectonspecial.statuseffects.corrosivefrost","Kutup Merkezi"
+"herocard.passive_skill.title.criticalmodifier","Kritik Düzenleyici"
+"herocard.passive_skill.title.criticalmodifiersupportcharacter.troop","Kritik Düzenleyici"
+"herocard.passive_skill.title.critmodifier","Kritik Şansı Düzenleyici"
+"herocard.passive_skill.title.damageincreasebyinsanity.troop.specialskill.npcnormalattack","Eskiler Tarafından Damgalanmış"
+"herocard.passive_skill.title.dealtdamagemodifieragainststatuseffect.bloodlily.stacks","Kan Kırmızısı İşaret"
+"herocard.passive_skill.title.dealtstrongelementtroopdamage","Birlik Ustalığı"
+"herocard.passive_skill.title.debuffdamagereduction","Durum Engeli Hasar Azaltması"
+"herocard.passive_skill.title.debuffdamagereductionsupportcharacter.troop","Durum Engeli Hasar Azaltması"
+"herocard.passive_skill.title.destructivecoreintrinsicchargeeffectonspecial.damage","Yıkıcı Merkez"
+"herocard.passive_skill.title.dispelonownfamiliardeath.minion.minordebuff","Hizmetkar Ölümünde arınma"
+"herocard.passive_skill.title.dodgespecialdamage","Özel Hasarı Atlat"
+"herocard.passive_skill.title.doubleeffectonchargedspecial.statuseffects.stackingmanagenerationmodifier.stacks","Özel Yetenekte İstif"
+"herocard.passive_skill.title.eatfamiliarsonspecialcast.parasite.allies.single","Özel Yetenekle Canavarları Yok Et"
+"herocard.passive_skill.title.eatfamiliarswitheffectpereatenfamiliarovertime.addmana","Hizmetkar Ye ve Zaman İçinde Mana Kazan"
+"herocard.passive_skill.title.effectondamagereceived.addmana.specialskill","Özel Hasarda Mana"
+"herocard.passive_skill.title.effectondamagereceived.addmana.troop.npcnormalattack.specialskill","Alınan Hasarda Mana"
+"herocard.passive_skill.title.effectondamagereceived.damage.specialskill.statuseffectskill.cover","Özel Yetenekte ve Koruma Hasarında Hasar"
+"herocard.passive_skill.title.effectondamagereceived.none.specialskill.exclude.statuseffect.stacking_attack_on_damage_received_passive","Alınan Hasarda Saldırı İstifleme"
+"herocard.passive_skill.title.effectondamagereceived.none.specialskill.exclude.statuseffect.stacking_attack_on_damage_received_passive_pve","Alınan Hasarda Saldırı İstifleme"
+"herocard.passive_skill.title.effectondispel.activates_on_ally_action.healthboost.minordebuff.removalreason.dispel.activates_on_dispel_cast.valid_caster_side.allies","Müttefik Arındırmaya Çalışınca Sağlık Artışı"
+"herocard.passive_skill.title.effectondispel.activates_on_enemy_action.damage.minordebuff.removalreason.dispel.activates_on_dispel_cast.valid_caster_side.enemies","Düşman Arındırmaya Çalışınca Hasar"
+"herocard.passive_skill.title.effectondispel.addmana.minorbuff","Bozmada Mana"
+"herocard.passive_skill.title.effectondispel.addmana.minorbuff.removalreason.dispel","Buff Bozmasında Mana"
+"herocard.passive_skill.title.effectondispel.heal.statuseffectdebuffs.removalreason.dispel.removal.reallocation.expiration","Durum Engelinin Süresi Dolduğunda veya Temizlendiğinde Şifa"
+"herocard.passive_skill.title.effectondispel.healthboost.minorbuff.removalreason.dispel","Buff Bozmada Sağlık Artışı"
+"herocard.passive_skill.title.effectonfamiliardamagedone.minion.frost","Hizmetkar Vuruşunda Dondurma"
+"herocard.passive_skill.title.effectonheal.addmana","Sağlık Yenilemede Mana"
+"herocard.passive_skill.title.effectonheal.heal","Sağlık Yenilemede Ekstra Sağlık"
+"herocard.passive_skill.title.effectonhealsupportcharacter.troop.heal","Ekstra ŞİFA"
+"herocard.passive_skill.title.effectonmanareduction.statuseffects.attackmodifier","Mana Azaltmasında Durum Efekti"
+"herocard.passive_skill.title.effectonmanareduction.statuseffects.yellowdefensemodifier","Mana Azaltmasında Durum Efekti"
+"herocard.passive_skill.title.effectonresist.activates_on_enemy_action.healthboost.addmana.once","Dirençte Sağlık Artışı ve Mana"
+"herocard.passive_skill.title.effectonspecialcastwitheffecttype.activates_on_enemy_action.addmana.on_healthboost_cast","Sağlık Artıran Özel Yetenekte Mana"
+"herocard.passive_skill.title.effectonspecialcastwitheffecttype.activates_on_enemy_action.healthboost.on_healthboost_cast","Düşman Sağlık Artışında Sağlık Artışı"
+"herocard.passive_skill.title.effectonspecialchancepermanaspeed","Özel Yetenekteki Etkiler"
+"herocard.passive_skill.title.effectonspecialskilldamagedone.bufftoremove.minordebuff.latest.safe.only_criticals.once","Kritik Özel Saldırıda Arındırma"
+"herocard.passive_skill.title.effectonspecialskilldamagedone.bufftoremove.minordebuff.safe.only_criticals","Kritik Özel Saldırıda Arındırma"
+"herocard.passive_skill.title.effectonspecialskilldamagedone.healthboost.only_criticals","Kritik Özel Saldırıda Sağlık Artışı"
+"herocard.passive_skill.title.effectonspecialskilldamagedone.healthboost.only_criticals.once","Kritik Özel Saldırıda Sağlık Artışı"
+"herocard.passive_skill.title.effectonspecialskilldamagedonebasedonhealthdifference.healthboost.once.effectonspecialskilldamagereceivedbasedonhealthdifference.addmana.once","Meşru İsyan"
+"herocard.passive_skill.title.effectonspecialskilldamagereceived.healthboost.only_criticals","Kritik Özel Saldırıda Sağlık Artışı"
+"herocard.passive_skill.title.effectonspecialwithchance.activates_on_enemy_action.healthboost","Düşman Özel Uyguladığında Sağlık Artır"
+"herocard.passive_skill.title.effectonspecialwithchance.addmana","Özel Uygulandığında Mana"
+"herocard.passive_skill.title.effectonspecialwithchance.bufftoremove.minorbuff.latest","Özel Yetenekte Bozma"
+"herocard.passive_skill.title.effectonspecialwithchance.bufftoremove.minordebuff.latest","Özel Yetenekte Arındırma"
+"herocard.passive_skill.title.effectonspecialwithchance.damage","Özel Uygulandığında Hasar"
+"herocard.passive_skill.title.effectonspecialwithchance.heal","Özel Uygulandığında Sağlık Yenileme"
+"herocard.passive_skill.title.effectonspecialwithchance.healthboost","Özel Yetenekte Sağlık Artışı"
+"herocard.passive_skill.title.effectonspecialwithchance.statuseffects","Özel Uygulandığında Durum Efekti"
+"herocard.passive_skill.title.effectonspecialwithchance.statuseffects.bleeding","Özel Yetenekte Kanama"
+"herocard.passive_skill.title.effectonspecialwithchance.statuseffects.curseofdoom","Özel Yetenekte Lanet"
+"herocard.passive_skill.title.effectonspecialwithchance.statuseffects.damageovertime","Özel Yetenekte Zamanla Hasar"
+"herocard.passive_skill.title.effectonspecialwithchance.statuseffects.extradamageagainstboostedhealth","Artırılmış Sağlığa Karşı Artırılmış Hasar"
+"herocard.passive_skill.title.effectonspecialwithchance.statuseffects.huntersmark","Özel Yetenekte Zamanla Hasar"
+"herocard.passive_skill.title.effectonspecialwithchance.statuseffects.managenerationmodifier","Özel Yetenekte Durum Efekti"
+"herocard.passive_skill.title.effectonspecialwithchance.statuseffects.poison","Özel Yetenekte Zehir"
+"herocard.passive_skill.title.effectonspecialwithchance.statuseffects.possession","Özel Yetenekte Akılsız Saldırı"
+"herocard.passive_skill.title.effectonspecialwithchance.statuseffects.underwater","Özel Yetenekte Zamanla Hasar"
+"herocard.passive_skill.title.effectonspecialwithmanaspeedthreshold.activates_on_enemy_action.damage.faster.average.once","Düşman Özel Yeteneğinde Hasar"
+"herocard.passive_skill.title.effectonstatuseffectaddition.activates_on_enemy_action.addmana.allbuffs.taunt","Alayda Mana"
+"herocard.passive_skill.title.effectonstatuseffectaddition.activates_on_enemy_action.addmana.statuseffectbuffs.defensemodifier.once","Düşman Savunması Buff'ında Mana"
+"herocard.passive_skill.title.effectonstatuseffectaddition.activates_on_enemy_action.statuseffects.ubertitanstackingattackmodifier.allbuffs.defensemodifier","Düşman Savunma Buff'ında Durum Efekti"
+"herocard.passive_skill.title.effectonstatuseffectaddition.activates_on_enemy_action.statuseffects.ubertitanstackingreceiveddamagemodifier.allbuffs.attackmodifier","Düşman Saldırı Buff'ında Durum Efekti"
+"herocard.passive_skill.title.effectonstatuseffectaddition.addmana.allbuffs","Buff'ta Mana Alındı"
+"herocard.passive_skill.title.effectonstatuseffectaddition.addmana.alldebuffs","Alınan Durum Engelinde Mana"
+"herocard.passive_skill.title.effectonstatuseffectaddition.heal.allbuffs","Alınan Buff'da Sağlık Yenileme"
+"herocard.passive_skill.title.effectonstatuseffectaddition.heal.alldebuffs","Alınan Durum Engelinde Sağlık Yenileme"
+"herocard.passive_skill.title.effectonstatuseffectaddition.statuseffects.managenerationmodifier.alldebuffs","Alınan Durum Engelinde Mana Buff'ı"
+"herocard.passive_skill.title.effectonstatuseffectadditionwithchance.addmana.allbuffs","Buff'ta Mana Alındı"
+"herocard.passive_skill.title.effectonstatuseffectadditionwithchance.heal.allbuffs","Alınan Buff'da Sağlık Yenileme"
+"herocard.passive_skill.title.effectonstatuseffectremovalbyspecial.activates_on_ally_action.healthboost","Durum Efekti Kaldırınca Sağlık Artışı"
+"herocard.passive_skill.title.effectonstatuseffectremovalbyspecial.activates_on_enemy_action.damage","Durum Efekti Kaldırınca Hasar"
+"herocard.passive_skill.title.effectovertime.revival","Zaman İçinde Dirilt"
+"herocard.passive_skill.title.effectovertimeperstatuseffect.addmana.everyturn.per.statuseffectbuffs.enemies","Düşman Buff'ı başına Mana"
+"herocard.passive_skill.title.effectovertimeperstatuseffect.healthboost.everyturn.per.poison.statuseffectdebuffs.enemies","Zehirde Sağlık Artırma"
+"herocard.passive_skill.title.effectsonminionreceived.activates_on_ally_action.addmana.allies.minion","Hizmetkar çağrısında mana"
+"herocard.passive_skill.title.effectsonminionreceived.activates_on_ally_action.heal.addmana.allies.minion","Tanıdıkların Arkadaşı"
+"herocard.passive_skill.title.effectsonparasitereceived.activates_on_enemy_action.addmana.enemies.parasite","Canavar Çağrısında Mana"
+"herocard.passive_skill.title.effectsonparasitereceived.activates_on_enemy_action.damage.enemies.parasite","Evcil Hayvanları Gazabı"
+"herocard.passive_skill.title.effectsonparasitereceived.activates_on_enemy_action.healthboost.enemies.parasite","Canavar Çağrısında Sağlık Artışı"
+"herocard.passive_skill.title.familiaraccuracymodifier.all.enemies.minion.bigminion","Hizmetkar Kör Etme"
+"herocard.passive_skill.title.familiarcoreintrinsicchargeeffectonspecial.summonfamiliar.construct_minion_core","Hizmetkar Merkezi"
+"herocard.passive_skill.title.familiarhealthmodifier.all.enemies.bigminion.decrease","Zayıf Mega Hizmetkarlar"
+"herocard.passive_skill.title.familiarhealthmodifier.all.enemies.minion.decrease","Zayıf Hizmetkarlar"
+"herocard.passive_skill.title.familiarsilencer.all.enemies.bigminion","Mega Hizmetkarları Durdur"
+"herocard.passive_skill.title.familiarsilencer.all.enemies.minion.follower","Hizmetkarları Durdur"
+"herocard.passive_skill.title.frost.effectondamageovertime.activates_on_enemy_action.addmana","Ayazda Mana"
+"herocard.passive_skill.title.glass_reflect_debuffs","Cam"
+"herocard.passive_skill.title.growth","Büyüme"
+"herocard.passive_skill.title.guaranteedeffectonspecial","Özel Yetenekte Garantili Efekt"
+"herocard.passive_skill.title.healmodifier.all.enemies.decrease","Azaltılmış şifa"
+"herocard.passive_skill.title.healonheal.heal","Ekstra ŞİFA"
+"herocard.passive_skill.title.healonownfamiliardeath.minion","Ölü Hizmetkardan Gelen Sağlık"
+"herocard.passive_skill.title.healonownfamiliardeath.minion.healthboost","Ölü Hizmetkardan Gelen Güçlendirilmiş Sağlık"
+"herocard.passive_skill.title.increasedattackperelement.enemies.not.green","Doğa Olmayan Düşman başına Artırılan Saldırı"
+"herocard.passive_skill.title.increasedattackperelement.enemies.not.red","Ateş Olmayan Düşman başına Artırılmış Saldırı"
+"herocard.passive_skill.title.increaseddamageagainstfamiliars.minion.bigminion","Hizmetkarlara ve Mega Hizmetkarlara Ekstra Hasar"
+"herocard.passive_skill.title.increaseddamageagainstminions","Hizmetkarlara Karşı Artırılmış Hasar"
+"herocard.passive_skill.title.increasedspecialdamageagainsttaunt.taunt","Alaya Karşı Artırılmış Hasar"
+"herocard.passive_skill.title.increasespecialdamage","Artırılmış Özel Yetenek Hasarı"
+"herocard.passive_skill.title.increasespecialdamage.usable_once","Artırılmış Özel Yetenek Hasarı"
+"herocard.passive_skill.title.increasespecialdamagesupportcharacter.troop","Artırılmış Özel Yetenek Hasarı"
+"herocard.passive_skill.title.insanitydamagereduction","Eskilerin İşaretlediği"
+"herocard.passive_skill.title.iterateeffectonspecial","Özel Yetenekteki Efektler için Ekstra Şans"
+"herocard.passive_skill.title.league_accuracy_modifier_against_family","Lig Dezavantajı"
+"herocard.passive_skill.title.league_featured_family_resist","Lig Avantajı"
+"herocard.passive_skill.title.league_heal_modifier_against_family","Lig Dezavantajı"
+"herocard.passive_skill.title.league_heal_modifier_for_family","Lig Avantajı"
+"herocard.passive_skill.title.league_received_damage_modifier_against_non_featured_family","Lig Avantajı"
+"herocard.passive_skill.title.manadebuffprotection","Mana Üretimi Engeli Koruması"
+"herocard.passive_skill.title.managenerationmodifier.all.enemies","Özel Yeteneklerden kazanılan Manayı Azaltma"
+"herocard.passive_skill.title.manaonownfamiliardeath.minion","Hizmetkar Ölümünde Mana"
+"herocard.passive_skill.title.manaonstatuseffect.debuff","Engellerden gelen mana"
+"herocard.passive_skill.title.memorizefamiliars.activates_on_enemy_action","Düşman Hizmetkarlarını ve Canavarlarını Ezberle"
+"herocard.passive_skill.title.memorizestatuseffects","Durum Engellerini Ezberle"
+"herocard.passive_skill.title.mimic_dread_damage_minions","Dehşet"
+"herocard.passive_skill.title.mimiclootonlevelcompleted","Taklit Ganimeti"
+"herocard.passive_skill.title.nevermissspecial","Mükemmel İsabetlilik"
+"herocard.passive_skill.title.ransack","Hırsızın Fırsatı"
+"herocard.passive_skill.title.reallocatestatuseffectonspecialcast.damage.minorbuff.newest","Buff'ı Çal"
+"herocard.passive_skill.title.reallocatestatuseffectonspecialcast.heal.minordebuff.newest","Avcı Hissi"
+"herocard.passive_skill.title.receivedstrongelementsupportcharacterdamage","Birlik Ustalığı"
+"herocard.passive_skill.title.receivedstrongelementsupportcharacterdamage.increase.dragon","Güçlü Ateş Topu Hasarı Artışı"
+"herocard.passive_skill.title.redirectlethaldamage.enemies.single","Ölümü Atlat"
+"herocard.passive_skill.title.remove_growth_from_enemies","Muhafız Seferberliği"
+"herocard.passive_skill.title.remove_wither_from_allies","Muhafız Seferberliği"
+"herocard.passive_skill.title.repaircoreintrinsicchargeeffectonspecial.healthboost","Onarım Merkezi"
+"herocard.passive_skill.title.repeat_special_once","Şanslı"
+"herocard.passive_skill.title.resist.accuracymodifiers","Körlük Direnci"
+"herocard.passive_skill.title.resist.alldebuffs","Durum Engellerine Karşı Direnç"
+"herocard.passive_skill.title.resist.alldebuffs.alldebuffs","Tüm Engellere Karşı Direnç"
+"herocard.passive_skill.title.resist.alldebuffs.manareduction.buffdispels","Uç Direniş"
+"herocard.passive_skill.title.resist.alldefensemodifiers.alldebuffs","Savunma Engellerine Karşı Direnç"
+"herocard.passive_skill.title.resist.alldefensemodifiers.defensewither.alldebuffs","Savunma Azaltmasına Karşı Direnç"
+"herocard.passive_skill.title.resist.allmanaeffects.alldebuffs","Mana Engellerine Karşı Direnç"
+"herocard.passive_skill.title.resist.allstatuseffectdamage.none","Durum Efektlerinden alınan Hasara Direnç"
+"herocard.passive_skill.title.resist.attackdelay","Saldırı Geciktirmeye Karşı Direnç"
+"herocard.passive_skill.title.resist.attackmodifiers","Saldırı Engellerine Karşı Direnç"
+"herocard.passive_skill.title.resist.attackmodifiers.allstatuseffectsandstacks","Saldırı Durum Efektlerine Direnç"
+"herocard.passive_skill.title.resist.attackmodifiers.attackwither.alldebuffs","Saldırı Azaltmasına Direnç"
+"herocard.passive_skill.title.resist.bleed","Kanama Direnci"
+"herocard.passive_skill.title.resist.bleed.with_effect.healthboost.addmana","Güçlü Kanama Direnci"
+"herocard.passive_skill.title.resist.buffdispels","Bozma Direnci"
+"herocard.passive_skill.title.resist.buffimmunity","Buff Engelleme Direnci"
+"herocard.passive_skill.title.resist.burn","Yakma Direnci"
+"herocard.passive_skill.title.resist.burn.with_effect.healthboost.addmana","Güçlü Yakma Direnci"
+"herocard.passive_skill.title.resist.criticalhits.none","Kritik Darbe Direnci"
+"herocard.passive_skill.title.resist.defensemodifiers.alldebuffs","Savunma Engellerine Karşı Direnç"
+"herocard.passive_skill.title.resist.familiarremoval.familiarsilence.familiarreceivingblocking.minion","Durdurulamaz Hizmetkarlar"
+"herocard.passive_skill.title.resist.frost","Ayaz Direnci"
+"herocard.passive_skill.title.resist.frost.with_effect.healthboost.addmana","Güçlü Ayaz Direnci"
+"herocard.passive_skill.title.resist.healeffects","Sağlık Engellerine Karşı Direnç"
+"herocard.passive_skill.title.resist.healthsteal","Sağlık Çalma Engellerine Direnç"
+"herocard.passive_skill.title.resist.insanity.permanentstatuseffects","Deliliğe Direnç"
+"herocard.passive_skill.title.resist.manadebuffs","Mana Engellerine Karşı Direnç"
+"herocard.passive_skill.title.resist.manaeffectsandspecialblocking","Mana Engelleri ve Özel Yetenek Engelleme Direnci"
+"herocard.passive_skill.title.resist.managenerationmodifiers.alldebuffs","Mana Üretimi Engellerine Direnç"
+"herocard.passive_skill.title.resist.manareduction","Mana Azalmasına Karşı Direnç"
+"herocard.passive_skill.title.resist.manareduction.none.with_effect.healthboost.addmana","Mana Azalmasına Karşı Güçlü Direnç"
+"herocard.passive_skill.title.resist.maxhealthreduction","Maks. Sağlık Azalmasına Karşı Direnç"
+"herocard.passive_skill.title.resist.poison","Zehir Direnci"
+"herocard.passive_skill.title.resist.poison.burn.bleed","Zehre, Yakmaya ve Kanamaya Diren"
+"herocard.passive_skill.title.resist.possession.allstatuseffects","Ele Geçirmeye Direnç"
+"herocard.passive_skill.title.resist.sand","Kum Direnci"
+"herocard.passive_skill.title.resist.specialblocking","Özel Yetenek Engellerine Karşı Direnç"
+"herocard.passive_skill.title.resist.specialblocking.with_effect.healthboost.addmana","Güçlü Özel Yetenek Engelleme Direnci"
+"herocard.passive_skill.title.resist.stopmanageneration","Mana Üretimi Durdurulmasına Karşı Direnç"
+"herocard.passive_skill.title.resist.water","Su Direnci"
+"herocard.passive_skill.title.resist_all_defense_effects","Vasıf: 
+Esnek Gövde"
+"herocard.passive_skill.title.resistdebuffsfromfamiliars.minion","Hizmetkarlardan Gelen Durum Engellerine Direnç"
+"herocard.passive_skill.title.resistfamiliarremoval.minion.bigminion","Hizmetkar Kaldırmaya Direnç"
+"herocard.passive_skill.title.resistnegativefamiliareffects.minion","Olumsuz Hizmetkar Efektlerine Direnç"
+"herocard.passive_skill.title.resistnegativefamiliareffects.minion.bigminion","Olumsuz Hizmetkar Efektlerine Üstün Direnç"
+"herocard.passive_skill.title.resistnewfamiliars.parasite","Canavarlara diren"
+"herocard.passive_skill.title.resistnewfamiliars.parasite.bigparasite","Canavar ve Mega Canavarlara Direnç"
+"herocard.passive_skill.title.resistsupportcharacter.troop.alldebuffs","Durum Engellerine Karşı Direnç"
+"herocard.passive_skill.title.revivalchancemodifier.all.enemies","Dirilme Şansı Azaltması"
+"herocard.passive_skill.title.revivalhealthmodifier.all.enemies.excluding.boss","Diriltme Sağlık Düşüşü"
+"herocard.passive_skill.title.revive_chance_nine_lives","Dokuz Can"
+"herocard.passive_skill.title.reviveinalternativeformwithinsanitychance","Tuhaf Pakt"
+"herocard.passive_skill.title.revivewithchance","Diriltme"
+"herocard.passive_skill.title.setstatuseffectdurationonaddition.all.allies.activates_on_ally_action.alldebuffs.dance","Hızlı Tempo: Balat"
+"herocard.passive_skill.title.setstatuseffectdurationonaddition.single.enemies.activates_on_enemy_action.allbuffs.dance","Hızlı Tempo: Dans"
+"herocard.passive_skill.title.sharereceiveddamage","Alınan Hasarı Paylaş"
+"herocard.passive_skill.title.short.generic","Pasif"
+"herocard.passive_skill.title.short.league","Avantaj"
+"herocard.passive_skill.title.short.league.non_featured","Dezavantaj"
+"herocard.passive_skill.title.short.trait","Vasıf"
+"herocard.passive_skill.title.sidedependentpassiveskill.side_dependent_elemental_mask","Elementer Maskesi"
+"herocard.passive_skill.title.sidedependentpassiveskill.strong_troop_damage_modifier","Birlik Ustalığı"
+"herocard.passive_skill.title.sidedependentpassiveskill.strong_troop_damage_modifier_costume","Birlik Ustalığı"
+"herocard.passive_skill.title.specialdamagereduction","Özel Yetenek Hasar Azaltması"
+"herocard.passive_skill.title.specialdamagereductionsupportcharacter.troop","Özel Yetenek Hasar Azaltması"
+"herocard.passive_skill.title.startbattlewitheffect.addmana","Savaşa Mana İle Başla"
+"herocard.passive_skill.title.statmodifier.attack","Vahşi"
+"herocard.passive_skill.title.statmodifier.defense","Kabuklu"
+"herocard.passive_skill.title.statmodifier.health","Dayanıklı"
+"herocard.passive_skill.title.statuseffectattackmodifier.addition","Durum Efekti Saldırısını Artır"
+"herocard.passive_skill.title.statuseffectattackmodifier.all.allies.reduction","Saldırı Engeli Azaltması"
+"herocard.passive_skill.title.statuseffectattackmodifier.reduction","Saldırı Engeli Azaltması"
+"herocard.passive_skill.title.statuseffectattackmodifiersupportcharacter.troop.addition","Durum Efekti Saldırısını Artır"
+"herocard.passive_skill.title.statuseffectattackmodifiersupportcharacter.troop.reduction","Saldırı Engeli Azaltması"
+"herocard.passive_skill.title.statuseffectdefensemodifier.addition","Durum Efekti Savunmasını Artır"
+"herocard.passive_skill.title.statuseffectdefensemodifier.all.allies.reduction","Savunma Engeli Azaltması"
+"herocard.passive_skill.title.statuseffectdefensemodifier.reduction","Savunma Engeli Azaltması"
+"herocard.passive_skill.title.statuseffectdefensemodifiersupportcharacter.troop.addition","Durum Efekti Savunmasını Artır"
+"herocard.passive_skill.title.statuseffectdefensemodifiersupportcharacter.troop.reduction","Savunma Engeli Azaltması"
+"herocard.passive_skill.title.statuseffectdurationmodifier","Buff Süresini Artır"
+"herocard.passive_skill.title.statuseffectdurationmodifier.decrease.minordebuff.majordebuff","Engel Süresini Azalt"
+"herocard.passive_skill.title.statuseffectdurationmodifier.decrease.minordebuff.majordebuff.defensemodifier.no_limit","Savunma Engeli Süresini Azalt"
+"herocard.passive_skill.title.statuseffectdurationmodifier.increase.minorbuff.majorbuff","Buff Süresini Artır"
+"herocard.passive_skill.title.statuseffectoncleanse.single.enemies","Arındırmada Kopya Engel"
+"herocard.passive_skill.title.statuseffectonspecialcast.attackmodifierfrompassiveskill","Avcının Gücü"
+"herocard.passive_skill.title.statuseffectonspecialcast.softskin","Yaratığın Yumuşak Derisi"
+"herocard.passive_skill.title.statuseffectonspecialcast.stone","Yaratığın Taş Derisi"
+"herocard.passive_skill.title.statuseffectonstatuseffectaddition.debuff","Engellerden Gelen Mana Üretimi Buff'ı"
+"herocard.passive_skill.title.statuseffectselection.usable_once.select_element_status_effect","Elementer Maskesi"
+"herocard.passive_skill.title.summonfamiliarperturn.evolving_seedling_parasite.enemies","Fide Ulağı"
+"herocard.passive_skill.title.summonfamiliarperturn.evolving_seedling_parasite.enemies.sharedonceperturn","Fide Ulağı"
+"herocard.passive_skill.title.summononownerdeath.slime_big_minion_blue.neartotargetexceptcaster.allies","Yenilgide Balçık Hizmetkarı"
+"herocard.passive_skill.title.summononownerdeath.slime_big_minion_green.neartotargetexceptcaster.allies","Yenilgide Balçık Hizmetkarı"
+"herocard.passive_skill.title.summononownerdeath.slime_big_minion_purple.neartotargetexceptcaster.allies","Yenilgide Balçık Hizmetkarı"
+"herocard.passive_skill.title.summononownerdeath.slime_big_minion_red.neartotargetexceptcaster.allies","Yenilgide Balçık Hizmetkarı"
+"herocard.passive_skill.title.summononownerdeath.slime_big_minion_yellow.neartotargetexceptcaster.allies","Yenilgide Balçık Hizmetkarı"
+"herocard.passive_skill.title.summononreceiveddamagewiththreshold.slime_big_minion_blue","Balçık Hizmetkarı Yarılması"
+"herocard.passive_skill.title.summononreceiveddamagewiththreshold.slime_big_minion_green","Balçık Hizmetkarı Yarılması"
+"herocard.passive_skill.title.summononreceiveddamagewiththreshold.slime_big_minion_purple","Balçık Hizmetkarı Yarılması"
+"herocard.passive_skill.title.summononreceiveddamagewiththreshold.slime_big_minion_red","Balçık Hizmetkarı Yarılması"
+"herocard.passive_skill.title.summononreceiveddamagewiththreshold.slime_big_minion_yellow","Balçık Hizmetkarı Yarılması"
+"herocard.passive_skill.title.summononstatuseffectaddition.burn","Yakmada Çağır"
+"herocard.passive_skill.title.summononstatuseffectaddition.damageovertime","Zamanala Hasarda Çağırma"
+"herocard.passive_skill.title.summononstatuseffectaddition.defensemodifier","Savunma Engelinde Hizmetkar Çağır"
+"herocard.passive_skill.title.summononsummon.activates_on_enemy_action.allies.owl.minion","Serçe Çağıran"
+"herocard.passive_skill.title.summononsummon.activates_on_enemy_action.enemies.cursed_sapling_parasite.minion","Lanetli Fidan Çağıran"
+"herocard.passive_skill.title.summononsummon.activates_on_enemy_action.enemies.seedling_parasite.minion","Fide Ulak"
+"herocard.passive_skill.title.taunt","Alayı Yok Say"
+"herocard.passive_skill.title.titan_dread_damage_minions","Dehşet"
+"herocard.passive_skill.title.titan_dread_damage_minions_15","Dehşet"
+"herocard.passive_skill.title.titan_dread_damage_minions_16","Dehşet"
+"herocard.passive_skill.title.titan_dread_damage_minions_17","Dehşet"
+"herocard.passive_skill.title.titan_resist_15","Titan"
+"herocard.passive_skill.title.titan_resist_16","Titan"
+"herocard.passive_skill.title.titan_resist_17","Titan"
+"herocard.passive_skill.title.toon_resist_debuffs_manareduction_dispels","Çizgi Film"
+"herocard.passive_skill.title.transformstatuseffectonspecialcast.minorbuff.enemies.all.transform_attackmodifier_into_attackmodifier.transform_defensemodifier_into_defensemodifier.transform_managenerationmodifier_into_defensemodifier","Buff'ları Dönüştür"
+"herocard.passive_skill.title.transformstatuseffectonspecialcast.minorbuff.enemies.all.transform_attackmodifier_into_attackmodifier.transform_defensemodifier_into_defensemodifier.transform_managenerationmodifier_into_managenerationmodifier","Buff'ları Dönüştür"
+"herocard.passive_skill.title.transformstatuseffectonspecialcast.minordebuff.allies.all.transform_attackmodifier_into_attackmodifier.transform_defensemodifier_into_defensemodifier.transform_managenerationmodifier_into_managenerationmodifier","Engelleri Dönüştür"
+"herocard.passive_skill.title.wither.all.enemies","Soldurma"

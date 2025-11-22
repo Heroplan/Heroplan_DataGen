@@ -1,0 +1,899 @@
+"herocard.passive_skill.description.addmana.all.allies","Alle allierede får en lille smule mana."
+"herocard.passive_skill.description.bleed.effectondamageovertime.activates_on_enemy_action.addmana","Denne figur får {POWER} % mana, hver gang en fjende tager bløderskade."
+"herocard.passive_skill.description.bleed.effectondamageovertime.activates_on_enemy_action.heal.fixedpower","Denne figur regenererer {POWER} HP, hver gang en fjende tager bløderskade."
+"herocard.passive_skill.description.burn.effectondamageovertime.activates_on_enemy_action.addmana","Denne figur får {POWER} % mana, hver gang en fjende tager brandskade."
+"herocard.passive_skill.description.bypassfamiliars.minion","Al skade givet af denne figur ignorerer håndlangere."
+"herocard.passive_skill.description.bypassfamiliars.minion.bigminion","Al skade givet af denne figur ignorerer håndlangere og kæmpehåndlangere."
+"herocard.passive_skill.description.caststatuseffectdurationmodifier","Chance for at øge varigheden af de kastede statuseffekter."
+"herocard.passive_skill.description.caststatuseffectdurationmodifier.turns_with_chance","{0} runder: {1} %"
+"herocard.passive_skill.description.chargebasedmodifier.managenerationmodifier.dodgemodifier","Hvis denne figur har noget som helst flyvemomentum, får den:
+Op til {MAXMANAGENERATIONMODIFIER} % managendannelse.
+Op til {MAXDODGEMODIFIER} % ekstra chance for at undvige. 
+Effekten reduceres, jo mindre flyvemomentum figuren har."
+"herocard.passive_skill.description.chargebasedmodifier.managenerationmodifier.dodgemodifier.battle","Flyvemomentum {CHARGE} %
+Denne figur har:
+{MANAGENERATIONMODIFIER} % managendannelse.
+{DODGEMODIFIER} % ekstra undvigelseschance."
+"herocard.passive_skill.description.conditionaleffectovertime.addmana.everyturn.while.all.allies.haswither","Får {POWER} % mana ved starten af hver runde, hvis en allieret på slagmarken har en aktiv visne-effekt."
+"herocard.passive_skill.description.conditionaleffectovertime.revival.all.allies.while.single.allies.hasdeadallies","Hver {TURNS}. runde lever alle besejrede allierede op med {POWER} % HP."
+"herocard.passive_skill.description.conditionaleffectovertime.revival.neartotargetexceptcaster.allies.while.single.allies.hasdeadallies","Hver {TURNS}. runde lever besejrede allierede i nærheden op med {POWER} % HP."
+"herocard.passive_skill.description.conditionaleffectovertime.usable_once.heal.addmana.everyturn.while.single.allies.lowhealth","Når denne figur begynder en runde med lavt helbred for første gang under en kamp, genvinder vedkommende {HEALTH} % helbred og modtager {MANA} % mana."
+"herocard.passive_skill.description.convertincomingdamagetoheal.all.statuseffect","Når denne figur normalt ville tage skade fra en statuslidelse, genvinder den i stedet den samme mængde helbred."
+"herocard.passive_skill.description.convertincomingdamagetoheal.statuseffect","Når denne figur normalt ville tage skade fra en statuslidelse, genvinder den i stedet helbred. Mængden af helbredelse udgør {MULTIPLIER} % af skaden."
+"herocard.passive_skill.description.criticalmodifiersupportcharacter.troop","{CRITICALMODIFIER} % kritisk chance."
+"herocard.passive_skill.description.damage.all.enemies","Forvolder {DAMAGE} % skade mod alle fjender."
+"herocard.passive_skill.description.damagefamiliarsovertime.all.enemies.minion.bigminion","Forvolder {DAMAGEPERTURN} skade mod alle modstanderens håndlangere og kæmpehåndlangere hver {TURNS}. runde."
+"herocard.passive_skill.description.damagefamiliarsovertime.everyturn.all.enemies.bigminion.minion","Forvolder {DAMAGEPERTURN} skade mod alle modstanderens håndlangere og kæmpehåndlangere i begyndelsen af hver runde."
+"herocard.passive_skill.description.damagefamiliarsovertime.everyturn.all.enemies.minion.bigminion","Forvolder {DAMAGEPERTURN} skade mod alle modstanderens håndlangere og kæmpehåndlangere i begyndelsen af hver runde."
+"herocard.passive_skill.description.damageincreasebyinsanity.troop.specialskill.npcnormalattack","Al skade fra normale angreb og særlige egenskaber, denne figur forvolder, øges med {DAMAGEINCREASEPERSTEP} % pr. {INSANITYPERSTEP} vanvid på denne figur op til {MAXDAMAGEINCREASE} %."
+"herocard.passive_skill.description.dealtdamagemodifieragainststatuseffect.bloodlily.stacks.troop.specialskill.npcnormalattack.add_modifier_per_stack","Al skade fra normale angreb og særlige egenskaber forvoldet på denne figur øges med {MODIFIER} % pr. blodlilje-stak på målet."
+"herocard.passive_skill.description.dealtstrongelementsupportcharacterdamage.increase","Denne helts tropper giver yderligere elementskade til svagere elementer.
+
+Ekstra elementskade: +{MODIFIER} %"
+"herocard.passive_skill.description.debuffdamagereduction","Skade skabt af statuslidelser reduceret med {DAMAGEREDUCTION} %"
+"herocard.passive_skill.description.debuffdamagereductionsupportcharacter.troop","Skade skabt af statuslidelser reduceret med {DAMAGEREDUCTION} % for denne figur."
+"herocard.passive_skill.description.destructivecoreintrinsicchargeeffectonspecial.damage.all.enemies.always","Denne figurs byggekerne er en ødelæggende kerne.
+
+Den ødelæggende kerne aktiveres, hver gang figurens særlige egenskab kastes:
+
+ En fuldt opladet ødelæggende kerne, giver {CHARGEDPOWER1} % skade mod alle fjender. 
+. Skaden afhænger af kernens opladning. Når kernen aktiveres, opbruges den opsparede ladning."
+"herocard.passive_skill.description.dispelonownfamiliardeath.minion.minordebuff","Denne figur får ryddet sine statuslidelser, når en af deres håndlangere bliver dræbt."
+"herocard.passive_skill.description.dodgespecialdamage","Denne figur har {CHANCE} % chance for at undvige særlige egenskaber, der giver skade."
+"herocard.passive_skill.description.eatfamiliarsonspecialcast.parasite.allies.single","Når denne figur bruger sin særlige egenskab, ødelægges alle dens djævle."
+"herocard.passive_skill.description.eatfamiliarswitheffectpereatenfamiliarovertime.addmana","Æder alle håndlangere fra en tilfældigt udvalgt fjende hver {TURNS}. runde og modtager en lille mængde mana for hver fortæret håndlanger."
+"herocard.passive_skill.description.effectondamagereceived.addmana.specialskill.single.allies","Når denne figur modtager skade fra særlige egenskaber, får den {POWER} % i mana."
+"herocard.passive_skill.description.effectondamagereceived.addmana.troop.npcnormalattack.specialskill.single.allies","Når denne figur modtager direkte skade fra særlige egenskaber eller almindelige angreb, får de en lille mængde mana. 
+ Der kan maksimalt modtages {MAXMANAGAINPERTURN} % mana per runde."
+"herocard.passive_skill.description.effectondamagereceived.damage.specialskill.statuseffectskill.cover.all.enemies.with_chance","Når en figur tager skade fra særlige egenskaber, eller i stedet for en figur i Dækning, er der en {CHANCE} % chance for at gøre {POWER} % af den modtagne skade på alle fjender."
+"herocard.passive_skill.description.effectondamagereceived.none.specialskill.exclude.statuseffect.stacking_attack_on_damage_received_passive.single.allies.onceperturn","Når denne figur modtager skade fra særlige egenskaber, får den {STATUSEFFECT1ATTACK} % kumulativt angreb (maks.: {STATUSEFFECT1MAXSTACK}). Der kan erhverves én kumulativ effekt pr. runde."
+"herocard.passive_skill.description.effectondamagereceived.none.specialskill.exclude.statuseffect.stacking_attack_on_damage_received_passive_pve.single.allies.onceperturn","Når denne figur modtager skade fra særlige egenskaber, får den {STATUSEFFECT1ATTACK} % kumulativt angreb (maks.: {STATUSEFFECT1MAXSTACK}). Der kan erhverves én kumulativ effekt pr. runde."
+"herocard.passive_skill.description.effectondispel.activates_on_ally_action.healthboost.all.allies.fixedpower.minordebuff.removalreason.dispel.activates_on_dispel_cast.valid_caster_side.allies","Når en allieret forsøger at rense ved at bruge særlige egenskaber, modtager alle allierede {POWER} boosted helbred. Denne effekt kan kun aktiveres én gang pr. tur."
+"herocard.passive_skill.description.effectondispel.activates_on_enemy_action.damage.all.enemies.fixedpower.minordebuff.removalreason.dispel.activates_on_dispel_cast.valid_caster_side.enemies","Når en fjende forsøger at rense ved at bruge særlige egenskaber, modtager alle fjender {POWER} skade. Denne effekt kan kun aktiveres én gang pr. tur."
+"herocard.passive_skill.description.effectondispel.addmana.minorbuff.removalreason.dispel","Denne figur får {POWER} % mana, hver gang en buffer ophæves hos figuren. Denne effekt kan kun anvendes én gang per runde."
+"herocard.passive_skill.description.effectondispel.heal.statuseffectdebuffs.removalreason.dispel.removal.reallocation.expiration","Denne figur modtager {POWER} % helbred, hver gang en statuslidelse udløber eller renses, fjernes eller omfordeles. Denne effekt kan kun anvendes én gang per runde."
+"herocard.passive_skill.description.effectondispel.heal.statuseffectdebuffs.removalreason.dispel.removal.reallocation.expiration.chance","Denne figur har {CHANCE} % chance for at modtage {POWER} % helbred, hver gang en statuslidelse udløber eller renses, fjernes eller omfordeles. Denne effekt kan kun anvendes én gang per runde."
+"herocard.passive_skill.description.effectondispel.healthboost.fixedpower.minorbuff.removalreason.dispel","Denne figur får {POWER}  helbredsboost, hver gang en buffer ophæves hos figuren. Denne effekt kan kun anvendes én gang per runde."
+"herocard.passive_skill.description.effectonfamiliardamagedone.minion.frost","Hver træffer fra figurens håndlagere forvolder {DAMAGE} frostskade i {TURNS} runder"
+"herocard.passive_skill.description.effectonheal.addmana","Denne figur modtager {POWER} % mana hver gang dens helbreds gendannes."
+"herocard.passive_skill.description.effectonheal.heal","Denne figur modtager {POWER} % helbred, hver gang dens helbred gendannes."
+"herocard.passive_skill.description.effectonhealsupportcharacter.troop.heal","Denne figur modtager {POWER} % helbred, hver gang dens helbred gendannes."
+"herocard.passive_skill.description.effectonresist.activates_on_enemy_action.healthboost.addmana.once","Denne figur får {HEALTHBOOST} % boostet helbred og {MANA} % mana, når den modstår."
+"herocard.passive_skill.description.effectonspecialcastwitheffecttype.activates_on_enemy_action.addmana.on_healthboost_cast","Denne figur får {POWER} % mana, hver gang en helt bruger en særlig egenskab, der direkte styrker helbred."
+"herocard.passive_skill.description.effectonspecialcastwitheffecttype.activates_on_enemy_action.healthboost.fixedpower.on_healthboost_cast","Denne figur får {POWER} helbredsforøgelse, hver gang en helt bruger en særlig egenskab, der direkte styrker helbred."
+"herocard.passive_skill.description.effectonspecialchancepermanaspeed","{CHANCE} % chance for at udføre følgende handlinger, når denne figur kaster sin særlige egenskab:"
+"herocard.passive_skill.description.effectonspecialskilldamagedone.bufftoremove.minordebuff.from.all.allies.safe.only_criticals","Hvis denne figur får et kritisk slag, når de bruger deres særlige egenskab, renser det den seneste statuslidelse på alle allierede."
+"herocard.passive_skill.description.effectonspecialskilldamagedone.bufftoremove.minordebuff.latest.from.all.allies.safe.only_criticals.once","Hvis denne figur får et kritisk slag, når de bruger deres særlige egenskab, renser det den seneste statuslidelse på alle allierede. Denne effekt kan aktiveres én gang per runde."
+"herocard.passive_skill.description.effectonspecialskilldamagedone.healthboost.all.allies.only_criticals","Hvis denne figur får et kritisk slag, når de bruger deres særlige egenskab, forøger det alle allieredes helbred med {HEALTHBOOST} %."
+"herocard.passive_skill.description.effectonspecialskilldamagedone.healthboost.all.allies.only_criticals.once","Hvis denne figur får et kritisk slag, når de bruger deres særlige egenskab, forøger det alle allieredes helbred med {HEALTHBOOST} %. Effekten kan aktiveres en gang pr. tur."
+"herocard.passive_skill.description.effectonspecialskilldamagedonebasedonhealthdifference.healthboost.once.effectonspecialskilldamagereceivedbasedonhealthdifference.addmana.once"," Når denne figurs særlige egenskab rammer en figur, der har højere aktuelt helbred, får du {PASSIVESKILL1HEALTHBOOST} % øget helbred.
+ Når denne figur rammes af en særlig egenskab fra en figur, der har højere aktuelt helbred, får du {PASSIVESKILL2MANA} % mana.
+Du kan aktivere en effekt én gang per runde."
+"herocard.passive_skill.description.effectonspecialskilldamagereceived.healthboost.all.allies.only_criticals","Hvis denne figur får et kritisk slag, når de bruger deres særlige egenskab, forøger det alle allieredes helbred med {HEALTHBOOST} %."
+"herocard.passive_skill.description.effectonspecialwithchance.activates_on_enemy_action.healthboost.fixedpower","Når en fjende bruger sin særlig egenskab, har denne figur {CHANCE} % chance for at øge denne figurs helbred med {HEALTHBOOST}."
+"herocard.passive_skill.description.effectonspecialwithchance.addmana.all.allies","Når denne figur kaster sin særlige egenskab har de en {CHANCE} % chance for at give {POWER} % mana til alle allierede. Hvis den særlige egenskab er fuldt opladt, er chancen {CHANCEFULLYCHARGED} %."
+"herocard.passive_skill.description.effectonspecialwithchance.addmana.notblue.allies","Når denne figur kaster sin særlige egenskab har de en {CHANCE} % chance for at give {POWER} % mana til alle allierede, som ikke stammer fra is-elementet. Hvis den særlige egenskab er fuldt opladt, er chancen {CHANCEFULLYCHARGED} %."
+"herocard.passive_skill.description.effectonspecialwithchance.bufftoremove.minorbuff.latest.from.all.enemies.always","Når denne figur bruger sin særlige egenskab, ophæver det den nyeste statuseffekt-buff på alle fjender."
+"herocard.passive_skill.description.effectonspecialwithchance.bufftoremove.minordebuff.latest.from.all.allies.always","Når denne figur bruger sin særlige egenskab, renser det den nyeste statuslidelse på alle allierede."
+"herocard.passive_skill.description.effectonspecialwithchance.damage.all.enemies","Når denne figur kaster sin særlige egenskab har de en {CHANCE} % chance for at forvolde {POWER} % skade mod alle fjender. Hvis den særlige egenskab er fuldt opladt, er chancen {CHANCEFULLYCHARGED} %."
+"herocard.passive_skill.description.effectonspecialwithchance.damage.notpurple.enemies","Når denne figur kaster sin særlige egenskab har de en {CHANCE} % chance for at forvolde {POWER} % skade mod alle fjender, som ikke stammer fra det mørke element. Hvis den særlige egenskab er fuldt opladt, er chancen {CHANCEFULLYCHARGED} %."
+"herocard.passive_skill.description.effectonspecialwithchance.damage.notred.enemies","Når denne figur kaster sin særlige egenskab har de en {CHANCE} % chance for at forvolde {POWER} % skade mod alle fjender, som ikke stammer fra ild-elementet. Hvis den særlige egenskab er fuldt opladt, er chancen {CHANCEFULLYCHARGED} %."
+"herocard.passive_skill.description.effectonspecialwithchance.heal.all.allies","Når denne figur kaster sin særlige egenskab har de en {CHANCE} % chance for at give {POWER} % helbredelse til alle allierede. Hvis den særlige egenskab er fuldt opladt, er chancen {CHANCEFULLYCHARGED} %."
+"herocard.passive_skill.description.effectonspecialwithchance.heal.notgreen.allies","Når denne figur kaster sin særlige egenskab har de en {CHANCE} % chance for at give {POWER} % helbredelse til alle allierede, som ikke stammer fra natur-elementet. Hvis den særlige egenskab er fuldt opladt, er chancen {CHANCEFULLYCHARGED} %."
+"herocard.passive_skill.description.effectonspecialwithchance.heal.notred.allies","Når denne figur kaster sin særlige egenskab har de en {CHANCE} % chance for at give {POWER} % helbredelse til alle allierede, som ikke stammer fra ild-elementet. Hvis den særlige egenskab er fuldt opladt, er chancen {CHANCEFULLYCHARGED} %."
+"herocard.passive_skill.description.effectonspecialwithchance.heal.notyellow.allies","Når denne figur kaster sin særlige egenskab har de en {CHANCE} % chance for at give {POWER} % helbredelse til alle allierede, som ikke stammer fra det hellige element. Hvis den særlige egenskab er fuldt opladt, er chancen {CHANCEFULLYCHARGED} %."
+"herocard.passive_skill.description.effectonspecialwithchance.healthboost.all.allies.always","Når denne figur bruger sin særlige egenskab, forøger det alle allieredes helbred med {POWER} %."
+"herocard.passive_skill.description.effectonspecialwithmanaspeedthreshold.activates_on_enemy_action.damage.all.enemies.fixedpower.faster.average.once","Hvis en fjende med gennemsnitlig eller hurtigere manahastighed kaster en særlig egenskab, tager alle fjender {DAMAGE} skade. Denne effekt kan kun aktiveres en gang pr. runde."
+"herocard.passive_skill.description.effectonstatuseffectaddition.activates_on_enemy_action.addmana.allbuffs.taunt","Hver gang denne fjende modtager en hån-statuseffekt, bliver denne figurs mana øget med {POWER} %."
+"herocard.passive_skill.description.effectonstatuseffectaddition.activates_on_enemy_action.addmana.statuseffectbuffs.defensemodifier.once","Denne figur har opnår {POWER} % mana, når en fjende får en statuseffekt, der påvirker forsvar. Denne effekt kan kun aktiveres en gang pr. tur."
+"herocard.passive_skill.description.effectonstatuseffectaddition.addmana.allbuffs","Denne figur får {POWER} % mana ved modtagelse af en buffer eller en positiv kumulativ effekt."
+"herocard.passive_skill.description.effectonstatuseffectaddition.addmana.alldebuffs","Denne figur får {POWER} % mana ved modtagelse af en statuslidelse eller en negativ kumulativ effekt."
+"herocard.passive_skill.description.effectonstatuseffectaddition.heal.allbuffs","Figuren gendanner {POWER} % helbred ved modtagelse af en buffer eller en positiv kumulativ effekt."
+"herocard.passive_skill.description.effectonstatuseffectaddition.heal.alldebuffs","Figuren gendanner {POWER} % helbred, når de modtager en statuslidelse eller en negativ kumulativ effekt."
+"herocard.passive_skill.description.effectonstatuseffectaddition.heal.fixedpower.alldebuffs","Figuren gendanner {POWER} HP, når den modtager en statuslidelse eller en negativ kumulativ effekt."
+"herocard.passive_skill.description.effectonstatuseffectadditionwithchance.addmana.allbuffs","Denne figur får {CHANCE} % chance for at få {POWER} % mana ved modtagelse af en buffer eller en positiv kumulativ effekt."
+"herocard.passive_skill.description.effectonstatuseffectadditionwithchance.can_stack.heal.allbuffs","Denne figur får {CHANCE} % chance for at gendanne {POWER} % helbred ved modtagelse af en buffer eller en positiv kumulativ effekt."
+"herocard.passive_skill.description.effectonstatuseffectadditionwithchance.heal.allbuffs","Denne figur får {CHANCE} % chance for at gendanne {POWER} % helbred ved modtagelse af en buffer eller en positiv kumulativ effekt."
+"herocard.passive_skill.description.effectovertime.revival.neartotargetexceptcaster.allies","Hver {TURNS}. runde lever besejrede allierede i nærheden op med {POWER} % HP."
+"herocard.passive_skill.description.effectovertimeperstatuseffect.addmana.fixedpower.everyturn.per.statuseffectbuffs.enemies","Får en lille smule mana for hver aktiv statuseffekt-buffer på det fjendtlige hold i starten af hver tur (højest {MAXSTATUSEFFECTCOUNT} buffere)."
+"herocard.passive_skill.description.effectovertimeperstatuseffect.healthboost.neartotarget.allies.everyturn.per.poison.statuseffectdebuffs.enemies","Forstærker helbredet for denne figur og allierede i nærheden med {INCREMENTPERSTATUSEFFECT1} % for hver fjende, der rammes af gift, når runden starter. Forstærket helbred kan overstige maks. HP."
+"herocard.passive_skill.description.effectsonminionreceived.activates_on_ally_action.addmana.allies.minion","Når en håndlanger bliver hidkaldt til en allieret, får denne figur {POWER} % mana. Denne effekt kan kun aktiveres én gang pr. tur."
+"herocard.passive_skill.description.effectsonminionreceived.activates_on_ally_action.heal.addmana.allies.minion","Når en håndlanger bliver hidkaldt til en vilkårlig allieret, får denne figur {HEALTH} % helbred og {MANA} % mana. Denne effekt kan kun aktiveres én gang pr. tur."
+"herocard.passive_skill.description.effectsonparasitereceived.activates_on_enemy_action.addmana.enemies.parasite","Når en djævel bliver hidkaldt til en vilkårlig fjende, får denne figur {POWER} % mana. Denne effekt kan kun aktiveres én gang pr. tur."
+"herocard.passive_skill.description.effectsonparasitereceived.activates_on_enemy_action.damage.all.enemies.enemies.parasite","Når en djævel bliver hidkaldt til en vilkårlig fjende, giver denne figur {DAMAGE} % skade til alle fjender. Denne effekt kan kun aktiveres én gang pr. tur."
+"herocard.passive_skill.description.effectsonparasitereceived.activates_on_enemy_action.healthboost.fixedpower.enemies.parasite","Når en djævel bliver hidkaldt til en vilkårlig fjende, får denne figur {POWER} helbredsforøgelse. Denne effekt kan kun aktiveres én gang pr. tur."
+"herocard.passive_skill.description.extraactionsafterspecial","{CHANCE} % chance for at kaste ekstra handlinger, når denne figur kaster sin særlige egenskab."
+"herocard.passive_skill.description.familiaraccuracymodifier.all.enemies.minion.bigminion","Alle fjendtlige håndlangere har {MINIONMODIFIER} % præcision.
+Alle fjenders kæmpehåndlangere har {MEGAMINIONMODIFIER} % præcision."
+"herocard.passive_skill.description.familiarcoreintrinsicchargeeffectonspecial.summonfamiliar.construct_minion_core.all.allies.always","Denne figurs byggekerne er en håndlangerkerne.
+
+Håndlangerkernen aktiveres, hver gang denne figurs særlige egenskab kastes:
+
+ Med en fuldt opladet håndlangerkerne hidkaldes en  dræberbot-håndlanger med {FAMILIARHEALTHPERCENT} % HP og {FAMILIARATTACK} % angreb arvet kasteren på alle allierede.
+ De HP og det angreb, der arves fra kasteren, skaleres med ladningen i kernen. Al ladning udtømmes, når kernen aktiveres.
+ Før dræberbot-håndlangeren rammer et mål, tilintetgør den alle håndlangere fra målet og skader kæmpehåndlangere."
+"herocard.passive_skill.description.familiarhealthmodifier.all.enemies.bigminion.decrease","Fjendens kæmpehåndlangere har {HEALTHMODIFIER} % HP."
+"herocard.passive_skill.description.familiarhealthmodifier.all.enemies.minion.decrease","Fjendens håndlangere har {HEALTHMODIFIER} % HP."
+"herocard.passive_skill.description.familiarsilencer.all.enemies.bigminion","Fjendens kæmpehåndlangere kan ikke angribe eller bruge evner."
+"herocard.passive_skill.description.familiarsilencer.all.enemies.minion.follower","Fjendens håndlangere kan ikke angribe eller bruge evner."
+"herocard.passive_skill.description.frost.effectondamageovertime.activates_on_enemy_action.addmana","Denne figur får {POWER} % mana, hver gang en fjende tager frostskade."
+"herocard.passive_skill.description.growth","Heltens grundangreb og -forsvar forøges med {STATINCREASE} for hver runde i {MAXACTIVATIONCOUNT} runder."
+"herocard.passive_skill.description.guaranteedeffectonspecial","Når denne figur kaster sin særlige egenskab, vil de passive egenskaber, der giver ekstra effekter ved anvendelse, med garanti blive aktiveret."
+"herocard.passive_skill.description.heal.all.allies","Gendanner {HEALTH} % helbred for alle allierede."
+"herocard.passive_skill.description.healmodifier","{HEALMULTIPLIER} % forøgelse af enhver modtaget helbredelse."
+"herocard.passive_skill.description.healmodifier.all.enemies.decrease","Alle fjender får {HEALMULTIPLIER} % heling."
+"herocard.passive_skill.description.healmodifier.decrease","{HEALMULTIPLIER} % forringelse af enhver modtaget helbredelse."
+"herocard.passive_skill.description.healonheal.can_stack.heal","Denne figur modtager {POWER} % helbred, hver gang dens helbred gendannes."
+"herocard.passive_skill.description.healonownfamiliardeath.minion","Denne figur får gendannet {HEALTH} helbred, når en af deres håndlangere bliver dræbt."
+"herocard.passive_skill.description.healonownfamiliardeath.minion.healthboost","Denne figur får gendannet {HEALTH} boostet helbred, når en af deres håndlangere bliver dræbt."
+"herocard.passive_skill.description.healthboost.all.allies","Forstærker alle allieredes helbred med {HEALTHBOOST} %. Forstærket helbred kan overstige maks. HP."
+"herocard.passive_skill.description.increasedattackperelement.enemies.not.green","I starten af hver kamp bliver denne figurs angreb forøget med {ATTACK} % for fjende, der ikke er fra Natur-elementet. I kampe med flere bølger bliver effekten fornyet ved starten af hver bølge."
+"herocard.passive_skill.description.increasedattackperelement.enemies.not.green.battle","Denne figurs angreb forøges med {ATTACK} % for levende fjende, der ikke er fra Natur-elementet. Effekten fornyes ved starten af hver bølge. (Lige nu: {CURRENTMODIFIER} %)"
+"herocard.passive_skill.description.increasedattackperelement.enemies.not.red","I starten af hver kamp bliver denne figurs angreb forøget med {ATTACK} % for fjende, der ikke er fra Ild-elementet. I kampe med flere bølger bliver effekten fornyet ved starten af hver bølge."
+"herocard.passive_skill.description.increasedattackperelement.enemies.not.red.battle","Denne figurs angreb forøges med {ATTACK} % for levende fjende, der ikke er fra Ild-elementet. Effekten fornyes ved starten af hver bølge. (Lige nu: {CURRENTMODIFIER} %)"
+"herocard.passive_skill.description.increaseddamageagainstfamiliars.minion","Gør {DAMAGEMULTIPLIER} % mere skade mod håndlangere."
+"herocard.passive_skill.description.increaseddamageagainstfamiliars.minion.bigminion","Denne figur gør {DAMAGEMULTIPLIER} % skade på håndlangere og kæmpehåndlangere."
+"herocard.passive_skill.description.increasedspecialdamageagainsttaunt.taunt","Slag fra denne figurs særlige færdighed har en ekstra {POWERADDITION} % kraft, hvis målet har hån."
+"herocard.passive_skill.description.increasespecialdamage","De første {MAXACTIVATIONCOUNT} gange figuren kaster en særlig egenskab, som gør skade, forstærkes den med {POWERADDITION} %."
+"herocard.passive_skill.description.increasespecialdamage.usable_once","Første gang figuren kaster en særlig egenskab, som gør skade, forstærkes den med {POWERADDITION} %."
+"herocard.passive_skill.description.increasespecialdamagesupportcharacter.troop","Hver gang figuren kaster en særlig egenskab, som gør skade, forstærkes den med {POWERADDITION} %."
+"herocard.passive_skill.description.insanitydamagereduction","Al skade, som denne figur tager, bliver reduceret med {DAMAGEREDUCTION} % pr. {DISPLAYSCALE} vanvid for denne figur op til en maksimal reduktion på {MAXDAMAGEREDUCTION} %."
+"herocard.passive_skill.description.iterateeffectonspecial","Når denne figur kaster sin særlige egenskab, vil de passive egenskaber, der giver ekstra effekter ved anvendelse, få {APPLYCOUNT} chancer for at blive aktiveret."
+"herocard.passive_skill.description.league.featured_family","Denne helt er en del af en Fremhævet familie!"
+"herocard.passive_skill.description.league.non_featured_family","Denne helt er ikke en del af en Fremhævet familie!"
+"herocard.passive_skill.description.league_accuracy_modifier_against_family.decrease","{POWERMULTIPLIER} % præcision mod helte fra Fremhævede familie."
+"herocard.passive_skill.description.league_heal_modifier_against_family.decrease","Heling, der berører medlemmer i de Fremhævede familier, har {POWERMULTIPLIER} % effektivitet."
+"herocard.passive_skill.description.league_received_damage_modifier_against_non_featured_family.decrease","{POWERMULTIPLIER} % modtaget skade fra familier, der ikke er Fremhævede."
+"herocard.passive_skill.description.manadebuffprotection","Alle managendannelseslidelser konverteres til gendannelse af {MANAREGEN} % mana i {TURNS} runder. Gælder ikke for statuslidelser, som stopper managendannelse eller stjæler mana."
+"herocard.passive_skill.description.managenerationmodifier.all.enemies.specialskill","Reducerer mængden af mana, der øges af særlige egenskaber, med {MODIFIER} %. Effekten gælder for alle fjender i kampen."
+"herocard.passive_skill.description.managenerationmodifier.none","{MODIFIER} % managendannelse."
+"herocard.passive_skill.description.manaonownfamiliardeath.minion","Denne figur får en lille smule mana, når en af deres håndlangere bliver dræbt."
+"herocard.passive_skill.description.memorizefamiliars.from.enemies.to.all","Denne figur har en medfødt evne til at memorere enhver håndlanger eller djævel, der er blevet hidkaldt af fjendernes særlige egenskaber. Den seneste håndlanger eller djævel, der er blevet hidkaldt forbliver memoreret indtil den særlige egenskab er kastet."
+"herocard.passive_skill.description.memorizefamiliars.from.enemies.to.all#2","Denne figur har en medfødt evne til at memorere enhver håndlanger eller djævel, der er blevet hidkaldt af fjendernes særlige egenskaber. De seneste {0} håndlangere eller djævle, der er blevet hidkaldt forbliver memoreret indtil den særlige egenskab er kastet."
+"herocard.passive_skill.description.memorizefamiliars.from.enemies.to.all#3","Denne figur har en medfødt evne til at memorere enhver håndlanger eller djævel, der er blevet hidkaldt af fjendernes særlige egenskaber. Den seneste {0} håndlanger eller djævel, der er blevet hidkaldt forbliver memoreret indtil den særlige egenskab, er kastet. (THIRD FORM)"
+"herocard.passive_skill.description.memorizestatuseffects","Figuren har en medfødt evne til at memorere statuslidelser. Den seneste statuslidelse, som kastes på denne figur, memoreres, indtil den særlige egenskab kastes. Kun statuslidelser med varighed kan memoreres."
+"herocard.passive_skill.description.memorizestatuseffects#2","Figuren har en medfødt evne til at memorere statuslidelser. De sidste {0} statuslidelser, som kastes på denne figur, memoreres indtil den særlige egenskab kastes. Kun statuslidelser med varighed kan memoreres."
+"herocard.passive_skill.description.memorizestatuseffects#3","Figuren har en medfødt evne til at memorere statuslidelser. De sidste {0} statuslidelser, som kastes på denne figur, memoreres indtil den særlige egenskab kastes. Kun statuslidelser med varighed kan memoreres. (THIRD FORM)"
+"herocard.passive_skill.description.mimiclootonlevelcompleted.mimic_aether_blue","Denne efterligner giver en chance for at få ekstra bytte, når du gennemfører etaper:
+
+*****
+ Isæter III
+
+****
+ Isæter II
+
+***
+ Isæter I"
+"herocard.passive_skill.description.mimiclootonlevelcompleted.mimic_aether_green","Denne efterligner giver en chance for at få ekstra bytte, når du gennemfører etaper:
+
+*****
+ Naturæter III
+
+****
+ Naturæter II
+
+***
+ Naturæter I"
+"herocard.passive_skill.description.mimiclootonlevelcompleted.mimic_aether_purple","Denne efterligner giver en chance for at få ekstra bytte, når du gennemfører etaper:
+
+*****
+ Mørkeæter III
+
+****
+ Mørkeæter II
+
+***
+ Mørkeæter I"
+"herocard.passive_skill.description.mimiclootonlevelcompleted.mimic_aether_red","Denne efterligner giver en chance for at få ekstra bytte, når du gennemfører etaper:
+
+*****
+ Ildæter III
+
+****
+ Ildæter II
+
+***
+ Ildæter I"
+"herocard.passive_skill.description.mimiclootonlevelcompleted.mimic_aether_yellow","Denne efterligner giver en chance for at få ekstra bytte, når du gennemfører etaper:
+
+*****
+ Hellig æter III
+
+****
+ Hellig æter II
+
+***
+ Hellig æter I"
+"herocard.passive_skill.description.mimiclootonlevelcompleted.mimic_ascension_blue","Denne efterligner giver en chance for ekstra bytte, når du gennemfører etaper:
+
+****
+ Damaskusklinge
+ Taktikkens bog
+ Fjernt skuende teleskop
+
+***
+ Fine handsker
+ Kompas
+ Varm kappe
+ Kampmanual
+ Høje støvler
+ Ringbrynjeskjorte
+
+**
+ Stærkt reb"
+"herocard.passive_skill.description.mimiclootonlevelcompleted.mimic_ascension_epic_yellow","Denne efterligner giver en chance for ekstra bytte, når du gennemfører etaper:
+
+***
+ Skjult klinge
+ Magisk kugle
+ Solidt skjold
+ Fælderedskab
+ Varm kappe
+ Kampmanual
+ Ringbrynjeskjorte
+ Skede
+ Høje støvler
+
+**
+ Magiske skrifter
+ Dolk
+ Læderrustning
+ Slibesten
+ Stærkt reb
+ Træskjold
+
+*
+ Eventyrers udrustning
+ Træningssværd
+ Robust tøj"
+"herocard.passive_skill.description.mimiclootonlevelcompleted.mimic_ascension_green","Denne efterligner giver en chance for ekstra bytte, når du gennemfører etaper:
+
+****
+ Damaskusklinge
+ Taktikkens bog
+ Mystisk tonic
+
+***
+ Fine handsker
+ Kompas
+ Solidt skjold
+ Høje støvler
+ Skede
+
+**
+ Stærkt reb
+ Dolk"
+"herocard.passive_skill.description.mimiclootonlevelcompleted.mimic_ascension_purple","Denne efterligner giver en chance for ekstra bytte, når du gennemfører etaper:
+
+****
+ Damaskusklinge
+ Taktikkens bog
+ Royal tabard
+
+***
+ Fine handsker
+ Kompas
+ Fælderedskaber
+ Høje støvler
+ Skede
+
+**
+ Stærkt reb
+ Dolk"
+"herocard.passive_skill.description.mimiclootonlevelcompleted.mimic_ascension_red","Denne efterligner giver en chance for ekstra bytte, når du gennemfører etaper:
+
+****
+ Damaskusklinge
+ Taktikkens bog
+ Mystiske ringe
+
+***
+ Fine handsker
+ Kompas
+ Skjult klinge
+ Ringbrynjeskjorte
+ Høje støvler
+
+**
+ Magisk skrift"
+"herocard.passive_skill.description.mimiclootonlevelcompleted.mimic_ascension_yellow","Denne efterligner giver en chance for ekstra bytte, når du gennemfører etaper:
+
+****
+ Damaskusklinge
+ Taktikkens bog
+ Giftpile
+
+***
+ Fine handsker
+ Kompas
+ Magisk kugle
+ Ringbrynjeskjorte
+ Høje støvler
+
+**
+ Magisk skrift"
+"herocard.passive_skill.description.mimiclootonlevelcompleted.mimic_emblem_blue","Denne efterligner giver en chance for ekstra bytte, når du gennemfører etaper:
+
+*****
+ Heksemester - mesteremblem
+ Troldmand - mesteremblem
+
+****
+ Heksemester - emblem
+ Troldmand - emblem"
+"herocard.passive_skill.description.mimiclootonlevelcompleted.mimic_emblem_green","Denne efterligner giver en chance for ekstra bytte, når du gennemfører etaper:
+
+*****
+ Paladin - mesteremblem
+ Druide - mesteremblem
+
+****
+ Paladin - emblem
+ Druide - emblem"
+"herocard.passive_skill.description.mimiclootonlevelcompleted.mimic_emblem_purple","Denne efterligner giver en chance for ekstra bytte, når du gennemfører etaper:
+
+*****
+ Rebel - mesteremblem
+ Vandringsmand - mesteremblem
+
+****
+ Rebel - emblem
+ Vandringsmand - emblem"
+"herocard.passive_skill.description.mimiclootonlevelcompleted.mimic_emblem_red","Denne efterligner giver en chance for ekstra bytte, når du gennemfører etaper:
+
+*****
+ Kriger - mesteremblem
+ Barbar - mesteremblem
+
+****
+ Kriger - emblem
+ Barbar - emblem"
+"herocard.passive_skill.description.mimiclootonlevelcompleted.mimic_emblem_yellow","Denne efterligner giver en chance for ekstra bytte, når du gennemfører etaper:
+
+*****
+ Gejstlig - mesteremblem
+ Munk - mesteremblem
+
+****
+ Gejstlig - emblem
+ Munk - emblem"
+"herocard.passive_skill.description.mimiclootonlevelcompleted.mimic_experience_rare_red","Denne efterligner giver en chance for ekstra bytte, når du gennemfører etaper:
+
+**
+Ualmindelige ild-, natur-, is-, mørke  og hellige helte
+
+*
+Almindelige mestertrænerhelte
+Almindelige ild-, natur-, is-, mørke og hellige helte"
+"herocard.passive_skill.description.mimiclootonlevelcompleted.mimic_training_hero_blue","Denne efterligner giver en chance for ekstra bytte ved gennemførelse af etaper:
+
+***
+Sjældne istrænerhelte
+
+**
+Ualmindelige istrænerhelte
+Ualmindelige ishelte
+
+*
+Almindelige istrænerhelte
+Almindelige ishelte"
+"herocard.passive_skill.description.mimiclootonlevelcompleted.mimic_training_hero_green","Denne efterligner giver en chance for ekstra bytte ved gennemførelse af etaper:
+
+***
+Sjældne naturtrænerhelte
+**
+Ualmindelige naturtrænerhelte
+Ualmindelige naturhelte
+ 
+*
+Almindelige naturtrænerhelte
+Almindelige naturhelte"
+"herocard.passive_skill.description.mimiclootonlevelcompleted.mimic_training_hero_purple","Denne efterligner giver en chance for ekstra bytte ved gennemførelse af etaper:
+
+***
+Sjældne mørke trænerhelte
+
+**
+Ualmindelige mørke trænerhelte
+Ualmindelige mørke helte
+ 
+*
+Almindelige mørke helte
+Almindelige mørke trænerhelte"
+"herocard.passive_skill.description.mimiclootonlevelcompleted.mimic_training_hero_red","Denne efterligner giver en chance for ekstra bytte ved gennemførelse af etaper:
+
+***
+Sjældne ildtrænerhelte
+
+**
+Ualmindelige ildtrænerhelte
+Ualmindelige ildhelte
+
+*
+Almindelige ildtrænerhelte
+Almindelige ildhelte"
+"herocard.passive_skill.description.mimiclootonlevelcompleted.mimic_training_hero_yellow","Denne efterligner giver en chance for ekstra bytte ved gennemførelse af etaper:
+
+***
+Sjældne hellige trænerhelte
+
+**
+Ualmindelige hellige trænerhelte
+Ualmindelige hellige helte
+
+*
+Almindelige hellige trænerhelte
+Almindelige hellige helte"
+"herocard.passive_skill.description.nevermissspecial","Denne figurs særlige egenskab rammer aldrig ved siden af."
+"herocard.passive_skill.description.ransack","Ved starten af hver runde ransager denne figur  en vilkårlig fjende:
+
+Stjæler {DAMAGE} helbred.
+Stjæler på sikker vis en buffer, vækst-effekt eller positiv kumulativ buffer fra fjenden. Heriblandt uophævelige buffere og danseeffekter."
+"herocard.passive_skill.description.ransack.chance","Ved starten af hver runde har denne figur {CHANCE} % chance for at ransage en vilkårlig fjende:
+
+Stjæler {DAMAGE} helbred.
+Stjæler på sikker vis en vilkårlig vækst-effekt, positiv kumulativ buffer eller statuseffekt-buffer fra fjenden. Heriblandt uophævelige buffere og danseeffekter.
+Ved stjælning på sikker vis bliver sekundære effekter fra de fjernede buffere omgået, såsom skade ved fjernelse. Passive egenskaber og familieeffekter kan stadig aktiveres."
+"herocard.passive_skill.description.reallocatestatuseffectonspecialcast.damage.all.enemies.minorbuff.newest","Når denne figur bruger sin særlige egenskab, får vedkommende {CHANCE} % chance for at stjæle den seneste buffer, der kan ophæves, fra en tilfældig fjende med buffere. Hvis ingen fjende har buffere, rammes alle fjender af {DAMAGE} % skade."
+"herocard.passive_skill.description.reallocatestatuseffectonspecialcast.damage.all.enemies.minorbuff.newest.randomenemytarget","Når denne figur bruger sin særlige egenskab, får vedkommende {CHANCE} % chance for at stjæle den seneste buffer, der kan ophæves, fra en tilfældig fjende med buffere. Hvis ingen fjende har buffere, rammes alle fjender af {DAMAGE} % skade."
+"herocard.passive_skill.description.reallocatestatuseffectonspecialcast.heal.always.minordebuff.newest","Når denne figur kaster sin særlige egenskab, overføres den seneste statuslidelse, der kan ryddes, fra figuren til målet. Hvis den særlige egenskab ikke kan målrettes en fjende, bliver en tilfældig fjende udvalgt i stedet. Hvis denne figur ikke har nogen statuslidelser, der kan ryddes, gendannes {HEALTH} % af helbredet."
+"herocard.passive_skill.description.receivedstrongelementsupportcharacterdamage","Denne helt tager mindre elementskade fra stærkere elementtropper.
+
+Elementskade modtaget: -{MODIFIER} %"
+"herocard.passive_skill.description.receivedstrongelementsupportcharacterdamage.combined","{MODIFIER} % mindre elementskade fra tropper af det stærkere element."
+"herocard.passive_skill.description.receivedstrongelementsupportcharacterdamage.increase.dragon","{MODIFIER} % mere elementskade fra ildkugler af det stærkere element."
+"herocard.passive_skill.description.redirectlethaldamage.enemies.single","Første gang denne figur ellers ville have modtaget dødbringende skade, bliver skaden omdirigeret til en tilfældig fjende.
+
+I kampe med flere bølger bliver effekter fornyet ved begyndelsen af hver bølge."
+"herocard.passive_skill.description.redirectlethaldamage.enemies.single.battle","Første gang denne figur ellers ville have modtaget dødbringende skade, bliver skaden omdirigeret til en tilfældig fjende. (Aktiveringer tilbage: {ACTIVATIONSLEFT})"
+"herocard.passive_skill.description.reflectstatuseffect.with_chance","{CHANCE} % ekstra chance for at reflektere statuslidelser tilbage på angriberen."
+"herocard.passive_skill.description.removebasestatmodifiers.removenegative.from.all.allies","Hver {TURNS} tur fjernes alle visne-effekter fra alle allierede."
+"herocard.passive_skill.description.removebasestatmodifiers.removepositive.from.all.enemies","Hver {TURNS}. runde fjernes alle vækst-effekter fra alle fjender."
+"herocard.passive_skill.description.repaircoreintrinsicchargeeffectonspecial.healthboost.all.allies.always","Denne figurs særlige evne er en reparationskerne.
+
+Reparationskernen aktiveres, hver gang figurens særlige egenskab kastes:
+
+ En fuldt opladet reparationskerne, giver figuren {CHARGEDPOWER1} % mere HP til alle allierede 
+. Mængden af HP, der regenereres, afhænger af kernens opladning. Når kernen aktiveres opbruges den opsparede ladning."
+"herocard.passive_skill.description.repeatspecial","{REPEATCHANCE} % chance for at kaste denne helts særlige evne {REPEATS} gange."
+"herocard.passive_skill.description.resist.accuracymodifiers","Denne figur er immun over for statuslidelser, der påvirker præcision. Gælder ikke originale status-effekter fra allierede."
+"herocard.passive_skill.description.resist.alldebuffs.alldebuffs","Denne figur er immun over for statuslidelser og negative kumulative effekter."
+"herocard.passive_skill.description.resist.alldebuffs.buffdispels.with_chance","+{CHANCE} % chance for at modstå statuslidelser og bufferophævelse."
+"herocard.passive_skill.description.resist.alldebuffs.manareduction.buffdispels.attackwither.defensewither.alldebuffs.with_chance","+{CHANCE} % chance for at modstå statuslidelser, manareduktioner, bufferophævelse og visneeffekter."
+"herocard.passive_skill.description.resist.alldebuffs.manareduction.buffdispels.insanity.with_chance","{CHANCE} % større chance for at modstå alle statuslidelser, manareduktioner, bufferophævelser og vanvid."
+"herocard.passive_skill.description.resist.alldebuffs.manareduction.buffdispels.with_chance","+{CHANCE} % chance for at modstå statuslidelser, manareduktioner og bufferophævelse."
+"herocard.passive_skill.description.resist.alldebuffs.with_chance","+{CHANCE} % chance for at modstå statuslidelser."
+"herocard.passive_skill.description.resist.alldefensemodifiers.alldebuffs","Denne figur er immun over for statuslidelser, der påvirker forsvar. Gælder også ved statuslidelser, der påvirker elementforsvar."
+"herocard.passive_skill.description.resist.alldefensemodifiers.defensewither.alldebuffs","Denne figur er immun over for statuslidelser, stakke- og visne-effekter, der påvirker forsvar."
+"herocard.passive_skill.description.resist.alldefensemodifiers.defensewither.allstatuseffects","Denne figur er ikke påvirket af effekter, der øger eller reducerer forsvar.
+
+Dette inkluderer statuseffektbuffere og lidelser, positive og negative kumulative effekter samt vækst- og visne-effekter."
+"herocard.passive_skill.description.resist.alldefensemodifiers.defensewither.defensegrowth.allstatuseffectsandstacks","Denne figur er ikke påvirket af effekter, der øger eller reducerer forsvar.
+
+Dette inkluderer
+ statuseffektbuffere og lidelser,
+ positive og negative kumulative effekter
+ samt vækst- og visne-effekter"
+"herocard.passive_skill.description.resist.alldefensemodifiersincludingwither.allstatuseffects","Denne figur er ikke påvirket af effekter, der øger eller reducerer forsvar.
+
+Dette inkluderer statuseffektbuffere og lidelser, positive og negative kumulative effekter samt vækst- og visne-effekter."
+"herocard.passive_skill.description.resist.allmanaeffects.alldebuffs","Denne figur er immun over for statuslidelser og negative kumulativ effekter, der påvirker managendannelse. Gælder også ved statuslidelser, der blokerer mana eller stjæler mana."
+"herocard.passive_skill.description.resist.allstatuseffectdamage.none","Denne figur er immun over for skade fra statuseffekter."
+"herocard.passive_skill.description.resist.attackdelay","Figurens almindelige angreb kan ikke forsinkes."
+"herocard.passive_skill.description.resist.attackdelay.alldebuffs","Figurens almindelige angreb kan ikke forsinkes."
+"herocard.passive_skill.description.resist.attackmodifiers","Denne figur er immun over for statuslidelser, der påvirker angreb."
+"herocard.passive_skill.description.resist.attackmodifiers.allstatuseffectsandstacks","Denne figur er immun over for alle statuseffekter, der påvirker angreb. Dette inkluderer statuseffekt-buffere."
+"herocard.passive_skill.description.resist.attackmodifiers.attackwither.alldebuffs","Denne figur er immun over for statuslidelser, stakke- og visne-effekter, der påvirker angreb."
+"herocard.passive_skill.description.resist.bleed","Denne figur er immun over for statuslidelser, der forvolder blødnings-skade."
+"herocard.passive_skill.description.resist.bleed.with_effect.healthboost.addmana","Denne figur er immun over for statuslidelser, der forvolder blødning-skade, og får {HEALTHBOOST} boostet helbred og {MANA} % mana, hver gang den modstår."
+"herocard.passive_skill.description.resist.buffdispels","Denne figur er immun over for effekter, der ophæver dens statuseffekt-buffere."
+"herocard.passive_skill.description.resist.buffdispels.none.with_chance","{CHANCE} % ekstra chance for at modstå bufferophævelser."
+"herocard.passive_skill.description.resist.buffimmunity","Denne figur er immun over for effekter, der forhindrer den i at få nye statuseffekter."
+"herocard.passive_skill.description.resist.burn","Denne figur er immun over for statuslidelser, der forvolder brand-skade."
+"herocard.passive_skill.description.resist.burn.with_effect.healthboost.addmana","Denne figur er immun over for statuslidelser, der forvolder brand-skade, og får {HEALTHBOOST} boostet helbred og {MANA} % mana, hver gang den modstår."
+"herocard.passive_skill.description.resist.can_stack.alldebuffs","Denne figur er immun over for statuslidelser."
+"herocard.passive_skill.description.resist.can_stack.alldebuffs.with_chance","{CHANCE} % ekstra chance for at modstå statuslidelser."
+"herocard.passive_skill.description.resist.criticalhits.none","Denne figur er immun over for ekstra skade og yderligere effekter fra kritiske træffere."
+"herocard.passive_skill.description.resist.defensemodifierdebuffs","Denne figur er immun over for statuslidelser, der påvirker forsvar. Gælder ikke statuslidelser, der påvirker elementforsvar."
+"herocard.passive_skill.description.resist.defensemodifiers.alldebuffs","Denne figur er immun over for statuslidelser og negative stakke, der påvirker forsvar. Gælder ikke statuslidelser, der påvirker elementforsvar."
+"herocard.passive_skill.description.resist.familiarremoval.familiarsilence.familiarreceivingblocking.minion"," Immun over for effekter, der fjerner håndlangere.
+ Kan ikke forhindres for håndlanger, der modtager det.
+ En håndlangers angreb og evner kan ikke slås fra."
+"herocard.passive_skill.description.resist.frost","Denne figur er immun over for statuslidelser, der forvolder frost-skade."
+"herocard.passive_skill.description.resist.frost.with_effect.healthboost.addmana","Denne figur er immun over for statuslidelser, der forvolder frost-skade, og får {HEALTHBOOST} boostet helbred og {MANA} % mana, hver gang den modstår."
+"herocard.passive_skill.description.resist.healeffects","Denne figur er immun over for statuslidelser, der påvirker helbredelse."
+"herocard.passive_skill.description.resist.healthsteal","Denne figur er immun over for statuslidelser, der stjæler helbred."
+"herocard.passive_skill.description.resist.insanity.permanentstatuseffects","Denne figur er immun over for vanvid."
+"herocard.passive_skill.description.resist.manadebuffs","Denne figur er immun over for statuslidelser, der påvirker mana."
+"herocard.passive_skill.description.resist.manaeffectsandspecialblocking","Denne figur er immun over for statuslidelser, der påvirker managendannelse eller forhindrer brugen af særlige egenskaber."
+"herocard.passive_skill.description.resist.manaeffectsandspecialblocking.with_chance","Denne figur har {CHANCE} % chance for at modstå statuslidelser, der påvirker mana eller forhindrer brugen af særlige egenskaber."
+"herocard.passive_skill.description.resist.managenerationmodifiers.alldebuffs","Denne figur er immun over for statuslidelser og negative kumulative effekter, der påvirker managendannelse. Gælder ikke ved statuslidelser, der stopper managendannelse eller stjæler mana."
+"herocard.passive_skill.description.resist.manareduction","Denne figur er immun over for manareduktioner."
+"herocard.passive_skill.description.resist.manareduction.alldebuffs.with_chance","+{CHANCE} % chance for at modstå manareduktion."
+"herocard.passive_skill.description.resist.manareduction.none.with_effect.healthboost.addmana","Denne figur er immun over for manareduktion. Figuren får også {HEALTHBOOST} boostet helbred og {MANA} % mana, hver gang den modstår."
+"herocard.passive_skill.description.resist.maxhealthreduction","Denne figur er immun over for maks. helbredsreduktion."
+"herocard.passive_skill.description.resist.poison","Denne figur er immun over for statuslidelser, der forvolder gift-skade."
+"herocard.passive_skill.description.resist.poison.burn.bleed","Denne figur er immun over for statuslidelser, der forvolder gift-, brand- eller blødning-skade."
+"herocard.passive_skill.description.resist.possession.allstatuseffects","Denne figur er immun over for statuseffekter, der besætter den."
+"herocard.passive_skill.description.resist.sand","Denne figur er immun over for statuslidelser, der forvolder sand-skade."
+"herocard.passive_skill.description.resist.specialblocking","Denne figur er immun over for statuslidelser, der forhindrer brugen af særlige egenskaber."
+"herocard.passive_skill.description.resist.specialblocking.with_chance","Denne figur har {CHANCE} % chance for at modstå statuslidelser, der påvirker brugen af særlige egenskaber."
+"herocard.passive_skill.description.resist.specialblocking.with_effect.healthboost.addmana","Denne figur er immun over for statuslidelser, der forhindrer brugen af særlige egenskaber. Figuren får også {HEALTHBOOST} boostet helbred og {MANA} % mana, hver gang den modstår."
+"herocard.passive_skill.description.resist.stopmanageneration","Denne figur er immun over for statuslidelser, der stopper managendannelse."
+"herocard.passive_skill.description.resist.water","Denne figur er immun over for statuslidelser, der forvolder vand-skade."
+"herocard.passive_skill.description.resistdebuffsfromfamiliars.minion","Denne figur er immun over for statuslidelser, der kommer fra håndlangere."
+"herocard.passive_skill.description.resistfamiliarremoval.minion.bigminion","Denne figur er immun over for effekter, der fjerner håndlangere fra den."
+"herocard.passive_skill.description.resistnegativefamiliareffects.minion","Denne figur er immun over for kommende negative effekter og skade fra håndlangere."
+"herocard.passive_skill.description.resistnegativefamiliareffects.minion.bigminion","Denne figur er immun over for kommende negative effekter og skade fra håndlangere og kæmpehåndlangere."
+"herocard.passive_skill.description.resistnewfamiliars.parasite","Denne figur kan ikke modtage djævle."
+"herocard.passive_skill.description.resistnewfamiliars.parasite.bigparasite","Denne figur kan ikke modtage djævle eller megadjævle."
+"herocard.passive_skill.description.resistsupportcharacter.troop.alldebuffs.with_chance","+{CHANCE} % chance for at modstå statuslidelser."
+"herocard.passive_skill.description.revivalchancemodifier.all.enemies","Chancen for genoplivelse reduceres for alle fjender i kampen. Chancen bliver {MODIFIER} % af den oprindelige værdi."
+"herocard.passive_skill.description.revivalhealthmodifier.all.enemies.excluding.boss","Alle fjender, undtagen bosser, genoplives med {HEALTHMODIFIER} % helbred."
+"herocard.passive_skill.description.reviveinalternativeformwithinsanitychance","Hvis denne figur bliver besejret, er der en chance for, at den genfødes som en  {CHANCEINCREASEPERSTEP} % pr. {INSANITYPERSTEP} vanvid på denne figur op til maks. chance på {MAXCHANCEINCREASE} %. Hvis denne figur besejrer sig selv, når vanviddet aktiveres, er chancen {CHANCEONSELFCAUSEDDEATH} %.
+
+Den sælsomme vært har:
+{INHERITEDHEALTH} % nedarvet helbred. 
+{ATTACK} angreb.
+{DEFENSE} forsvar.
+Særlig egenskab: Sælsomt fordærv."
+"herocard.passive_skill.description.reviveinalternativeformwithinsanitychance_temp","Hvis denne figur bliver besejret, er der en chance for, at den genfødes som en sælsom vært. Chancen er {CHANCEINCREASEPERSTEP} % pr. {INSANITYPERSTEP} vanvid på denne figur op til maks. chance på {MAXCHANCEINCREASE} %. 
+
+Den sælsomme vært har:
+{INHERITEDHEALTH} % nedarvet helbred. 
+{ATTACK} angreb.
+{DEFENSE} forsvar.
+Særlig egenskab: Sælsomt fordærv. 
+
+Hvis denne figur besejrer sig selv, når vanviddet aktiveres, er chancen for at blive genfødt altid {CHANCEONSELFCAUSEDDEATH} %."
+"herocard.passive_skill.description.revivewithchance.healthrecoverymultiplier.manarecoverymultiplier.activationreducedchance","Når denne figur besejres, har den {TOTALCHANCE} % chance for at genoplive i begyndelsen af sin næste tur med {HEALTH} % helbred og {MANA} % mana. 
+
+Aktiveres op til {MAXACTIVATIONCOUNT} gange. Chancen for genoplivning reduceres ved hver aktivering. Kan ikke forhindres med statuslidelser eller passive færdigheder."
+"herocard.passive_skill.description.setstatuseffectdurationonaddition.all.allies.activates_on_ally_action.alldebuffs.dance","Alle sange, som kastes af fjender, varer kun i {TURNS} runder."
+"herocard.passive_skill.description.setstatuseffectdurationonaddition.single.enemies.activates_on_enemy_action.allbuffs.dance","Alle danse, som kastes af fjender, varer kun i {TURNS} runder."
+"herocard.passive_skill.description.sharereceiveddamage","{SHAREDDAMAGEPORTION} % af skaden, denne figur modtager, deles med alle allierede."
+"herocard.passive_skill.description.specialdamagereduction","Den pådragne skade reduceres med {DAMAGEREDUCTION} % de første {MAXACTIVATIONCOUNT} gange, figuren modtager skade fra særlige egenskaber."
+"herocard.passive_skill.description.specialdamagereduction.chance","Denne figur har {CHANCE} % chance for at reducere den direkte skade fra særlige egenskaber til 1."
+"herocard.passive_skill.description.specialdamagereductionsupportcharacter.troop","Den pådragne skade reduceres med {DAMAGEREDUCTION} % for denne figur."
+"herocard.passive_skill.description.startbattlewitheffect.addmana","Figuren modtager {MANA} % mana, når kampen begynder."
+"herocard.passive_skill.description.statmodifier.attack","{ATTACKMULTIPLIER} % angreb."
+"herocard.passive_skill.description.statmodifier.defense","{DEFENSEMULTIPLIER} % forsvar."
+"herocard.passive_skill.description.statmodifier.health","{HEALTHMULTIPLIER} % helbred."
+"herocard.passive_skill.description.statmodifier.health.attack","{HEALTHMULTIPLIER} % helbred, {ATTACKMULTIPLIER} % angreb."
+"herocard.passive_skill.description.statmodifier.health.defense","{HEALTHMULTIPLIER} % helbred, {DEFENSEMULTIPLIER} % forsvar."
+"herocard.passive_skill.description.statmodifier.health.defense.attack","{HEALTHMULTIPLIER} % helbred, {DEFENSEMULTIPLIER} % forsvar, {ATTACKMULTIPLIER} % angreb."
+"herocard.passive_skill.description.statuseffectattackmodifier.addition","Statuseffekter, der forøger angreb, er {MODIFIER} % mere effektive for denne figur."
+"herocard.passive_skill.description.statuseffectattackmodifier.all.allies.reduction","Reducerer effekten af statuspåvirkninger, der påvirker angreb med {MODIFIER} %. Effekten gælder for denne figur og alle dens allierede i kampen."
+"herocard.passive_skill.description.statuseffectattackmodifier.reduction","Statuslidelser, der reducerer forsvar, er {MODIFIER} % mindre effektive mod denne figur."
+"herocard.passive_skill.description.statuseffectattackmodifiersupportcharacter.troop.addition","Statuseffekter, der forøger angreb, er {MODIFIER} % mere effektive for denne figur."
+"herocard.passive_skill.description.statuseffectattackmodifiersupportcharacter.troop.reduction","Statuslidelser, der reducerer forsvar, er {MODIFIER} % mindre effektive mod denne figur."
+"herocard.passive_skill.description.statuseffectdefensemodifier.addition","Statuseffekter, der forøger angreb, er {MODIFIER} % mere effektive for denne figur."
+"herocard.passive_skill.description.statuseffectdefensemodifier.all.allies.reduction","Reducerer effekten af forsvarspåvirkninger med {MODIFIER} %. Effekten gælder for denne figur og alle dens allierede i kampen."
+"herocard.passive_skill.description.statuseffectdefensemodifier.reduction","Statuslidelser, der reducerer forsvar, er {MODIFIER} % mindre effektive mod denne fjende."
+"herocard.passive_skill.description.statuseffectdefensemodifiersupportcharacter.troop.addition","Statuseffekter, der forøger angreb, er {MODIFIER} % mere effektive for denne figur."
+"herocard.passive_skill.description.statuseffectdefensemodifiersupportcharacter.troop.reduction","Statuslidelser, der reducerer forsvar, er {MODIFIER} % mindre effektive mod denne fjende."
+"herocard.passive_skill.description.statuseffectdurationmodifier.decrease.minordebuff.majordebuff","Varigheden af de første {MAXACTIVATIONCOUNT} statuslidelser, som figuren får fra særlige egenskaber, formindskes med {DURATIONMODIFIER} runde."
+"herocard.passive_skill.description.statuseffectdurationmodifier.decrease.minordebuff.majordebuff.defensemodifier.no_limit","Varigheden af de første forsvarsstatuslidelser, som figuren får fra særlige egenskaber, formindskes med {DURATIONMODIFIER} runder."
+"herocard.passive_skill.description.statuseffectdurationmodifier.increase.minorbuff.majorbuff","Varigheden af de første {MAXACTIVATIONCOUNT} buffere, som figuren får fra særlige egenskaber, øges med {DURATIONMODIFIER} runde."
+"herocard.passive_skill.description.statuseffectoncleanse.single.enemies","Når en statuslidelse fjernes fra denne helt, gives en ny kopi af den fjernede lidelse til en tilfældig fjende."
+"herocard.passive_skill.description.statuseffectonspecialcast.major.all.allies.softskin","Hver gang gargoilen kaster en særlig egenskab, får alle allierede blødhud. De næste {MAXACTIVATIONS} gange de tager skade, reduceres den med {DAMAGEREDUCTION} %. De er også immune over for alle statuslidelser, manareduktioner og vanvid. Effekten kan ikke ophæves."
+"herocard.passive_skill.description.statuseffectonspecialcast.major.single.allies.softskin","Hver gang gargoilen kaster en særlig egenskab, aktiveres deres blødhud. De næste {MAXACTIVATIONS} gange de tager skade, reduceres den med {DAMAGEREDUCTION} %. De er også immune over for alle statuslidelser, manareduktioner og vanvid. Effekten kan ikke ophæves."
+"herocard.passive_skill.description.statuseffectonspecialcast.major.single.allies.stone","Hver gang denne gargoil kaster en særlig egenskab, forstærkes dens stenhud. De næste {MAXHITS} gange de modtager skade, reduceres den til 1. Denne effekt kan ikke ophæves."
+"herocard.passive_skill.description.statuseffectonspecialcast.minor.single.allies.attackmodifierfrompassiveskill","Når denne figur kaster sin særlige egenskab, får de {ATTACK} % angreb i {TURNS} runder. Denne effekt kan være aktiv samtidigt med andre effekter, der ændrer angreb."
+"herocard.passive_skill.description.statuseffectselection.usable_once.select_element_status_effect","Én gang pr. kamp kan denne helts element ændres til et valgfrit element i {TURNS} ture. Elementet kan ændres ved at trykke på denne helt, når den ikke har fuld mana."
+"herocard.passive_skill.description.summonfamiliarperturn.evolving_seedling_parasite.enemies","Hidkalder en frøplantedjævel hver tur til en tilfældig fjende.
+Frøplantedjævlen udvikler sig til en spiredjævel efter {EVOLVINGFAMILIAR1EVOLVETURNS} ture. 
+Spiredjævlen udvikler sig til en Blomster-megadjævel efter {EVOLVINGFAMILIAR2EVOLVETURNS} ture.
+
+Frøplantedjævel: 
+{EVOLVINGFAMILIAR1ATTACK} % angreb, {EVOLVINGFAMILIAR1HEALTH} % helbred
+
+Spiredjævel: 
+{EVOLVINGFAMILIAR2ATTACK} % angreb, {EVOLVINGFAMILIAR2HEALTH} % helbred
+
+Blomstrende megadjævel: 
+{EVOLVINGFAMILIAR3ATTACK} % angreb, {EVOLVINGFAMILIAR3HEALTH} % helbred"
+"herocard.passive_skill.description.summonfamiliarperturn.evolving_seedling_parasite.enemies.sharedonceperturn","Hidkalder en frøplantedjævel hver tur til en tilfældig fjende.
+Frøplantedjævlen udvikler sig til en spiredjævel efter {EVOLVINGFAMILIAR1EVOLVETURNS} ture. 
+Spiredjævlen udvikler sig til en Blomster-megadjævel efter {EVOLVINGFAMILIAR2EVOLVETURNS} ture.
+
+Frøplantedjævel: 
+{EVOLVINGFAMILIAR1ATTACK} % angreb, {EVOLVINGFAMILIAR1HEALTH} % helbred
+
+Spiredjævel: 
+{EVOLVINGFAMILIAR2ATTACK} % angreb, {EVOLVINGFAMILIAR2HEALTH} % helbred
+
+Blomstrende megadjævel: 
+{EVOLVINGFAMILIAR3ATTACK} % angreb, {EVOLVINGFAMILIAR3HEALTH} % helbred"
+"herocard.passive_skill.description.summononownerdeath.slime_big_minion_blue.neartotargetexceptcaster.allies","Når denne figur er besejret, hidkalder de slim-kæmpehåndlangere til allierede i nærheden med {FAMILIARHEALTHPERCENT} % HP og {FAMILIARATTACK} % angreb arvet af denne figur."
+"herocard.passive_skill.description.summononownerdeath.slime_big_minion_green.neartotargetexceptcaster.allies","Når denne figur er besejret, hidkalder de slim-kæmpehåndlangere til allierede i nærheden med {FAMILIARHEALTHPERCENT} % HP og {FAMILIARATTACK} % angreb arvet af denne figur."
+"herocard.passive_skill.description.summononownerdeath.slime_big_minion_purple.neartotargetexceptcaster.allies","Når denne figur er besejret, hidkalder de slim-kæmpehåndlangere til allierede i nærheden med {FAMILIARHEALTHPERCENT} % HP og {FAMILIARATTACK} % angreb arvet af denne figur."
+"herocard.passive_skill.description.summononownerdeath.slime_big_minion_red.neartotargetexceptcaster.allies","Når denne figur er besejret, hidkalder de slim-kæmpehåndlangere til allierede i nærheden med {FAMILIARHEALTHPERCENT} % HP og {FAMILIARATTACK} % angreb arvet af denne figur."
+"herocard.passive_skill.description.summononownerdeath.slime_big_minion_yellow.neartotargetexceptcaster.allies","Når denne figur er besejret, hidkalder de slim-kæmpehåndlangere til allierede i nærheden med {FAMILIARHEALTHPERCENT} % HP og {FAMILIARATTACK} % angreb arvet af denne figur."
+"herocard.passive_skill.description.summononreceiveddamagewiththreshold.slime_big_minion_blue","Hvis denne figur mister mere end {DAMAGETHRESHOLD} % af maks. helbred på én gang, hidkalder de en slim-kæmpehåndlanger til sig selv med {FAMILIARHEALTHPERCENT} % HP og {FAMILIARATTACK} % angreb."
+"herocard.passive_skill.description.summononreceiveddamagewiththreshold.slime_big_minion_green","Hvis denne figur mister mere end {DAMAGETHRESHOLD} % af maks. helbred på én gang, hidkalder de en slim-kæmpehåndlanger til sig selv med {FAMILIARHEALTHPERCENT} % HP og {FAMILIARATTACK} % angreb."
+"herocard.passive_skill.description.summononreceiveddamagewiththreshold.slime_big_minion_purple","Hvis denne figur mister mere end {DAMAGETHRESHOLD} % af maks. helbred på én gang, hidkalder de en slim-kæmpehåndlanger til sig selv med {FAMILIARHEALTHPERCENT} % HP og {FAMILIARATTACK} % angreb."
+"herocard.passive_skill.description.summononreceiveddamagewiththreshold.slime_big_minion_red","Hvis denne figur mister mere end {DAMAGETHRESHOLD} % af maks. helbred på én gang, hidkalder de en slim-kæmpehåndlanger til sig selv med {FAMILIARHEALTHPERCENT} % HP og {FAMILIARATTACK} % angreb."
+"herocard.passive_skill.description.summononreceiveddamagewiththreshold.slime_big_minion_yellow","Hvis denne figur mister mere end {DAMAGETHRESHOLD} % af maks. helbred på én gang, hidkalder de en slim-kæmpehåndlanger til sig selv med {FAMILIARHEALTHPERCENT} % HP og {FAMILIARATTACK} % angreb."
+"herocard.passive_skill.description.summononstatuseffectaddition.burn.forest_guardian.statuseffectdebuffs","Hver gang figuren modtager en brand-statuslidelse, hidkalder vedkommende en skovvogterhåndlanger til sig selv. Skovvogterhåndlangeren arver {FAMILIARHEALTHPERCENT} % HP og {FAMILIARATTACK} % angreb fra figuren."
+"herocard.passive_skill.description.summononstatuseffectaddition.damageovertime.card_soldier_no_taunt.statuseffectdebuffs","Hver gang denne figur får en skadesreduktion over tid, hidkalder den en kortsoldat-håndlanger til sig selv. Kortsoldat-håndlangere arver {FAMILIARHEALTHPERCENT} % HP og {FAMILIARATTACK} % angreb fra denne figur."
+"herocard.passive_skill.description.summononstatuseffectaddition.defensemodifier.bull.none","Hver gang denne figur modtager en statuslidelse, der påvirker dens forsvar, hidkalder den en tyrehåndlanger til sig selv. Tyrehåndlangeren arver {FAMILIARHEALTHPERCENT} % HP og {FAMILIARATTACK} % angreb fra figuren."
+"herocard.passive_skill.description.summononsummon.activates_on_enemy_action.allies.owl.minion","Hidkalder en spurve-håndlanger, når en fjende hidkalder håndlangere ved brug af sine særlige egenskaber."
+"herocard.passive_skill.description.summononsummon.activates_on_enemy_action.enemies.cursed_sapling_parasite.minion","Når en fjende hidkalder en hvilken som helst håndlanger med en særlig egenskab, hidkalder figuren en forbandet spire-djævel til den fjende."
+"herocard.passive_skill.description.summononsummon.activates_on_enemy_action.enemies.seedling_parasite.minion","Når en fjende hidkalder en hvilken som helst håndlanger med en særlig egenskab, hidkalder figuren en forbandet frøplante til den fjende."
+"herocard.passive_skill.description.taunt","Figurens særlige egenskab påvirkes ikke af hån."
+"herocard.passive_skill.description.transformstatuseffectonspecialcast.minorbuff.enemies.all.transform_attackmodifier_into_attackmodifier.transform_defensemodifier_into_defensemodifier.transform_managenerationmodifier_into_defensemodifier","Hver gang denne karakter bruger sin særlige egenskab, forvandles alle buffere, der påvirker angreb, forsvar og managendannelse for alle fjender, til tilsvarende urenselige statuslidelser."
+"herocard.passive_skill.description.transformstatuseffectonspecialcast.minorbuff.enemies.all.transform_attackmodifier_into_attackmodifier.transform_defensemodifier_into_defensemodifier.transform_managenerationmodifier_into_managenerationmodifier","Hver gang denne karakter bruger sin særlige egenskab, forvandles alle buffere, der påvirker angreb, forsvar og managendannelse for alle fjender, til tilsvarende uophævelige statuslidelser."
+"herocard.passive_skill.description.transformstatuseffectonspecialcast.minordebuff.allies.all.transform_attackmodifier_into_attackmodifier.transform_defensemodifier_into_defensemodifier.transform_managenerationmodifier_into_managenerationmodifier","Hver gang denne karakter bruger sin særlige egenskab, forvandles alle buffere, der påvirker angreb, forsvar og managendannelse for alle fjender, til tilsvarende uophævelige statuslidelser."
+"herocard.passive_skill.description.wither.all.enemies","Grundangreb og -forsvar for alle fjender formindskes med {STATINCREASE} for hver runde i {MAXACTIVATIONCOUNT} runder."
+"herocard.passive_skill.inactive","INAKTIV: Aktiveres ved maks. niveau og fuld forfremmelse."
+"herocard.passive_skill.sidedependent.sideinfo.heroside","Passiv evne som angribende figur:"
+"herocard.passive_skill.sidedependent.sideinfo.opponentside","Passiv evne som forsvarende figur:"
+"herocard.passive_skill.title.addstatuseffectsonenemyattackbuff","Statuseffekt ved fjendens angrebsbuffer"
+"herocard.passive_skill.title.addstatuseffectsonenemydefensebuff","Statuseffekt ved fjendens forsvarsbuffer"
+"herocard.passive_skill.title.addstatuseffectsonmanareduction","Statuseffekt ved manareduktion"
+"herocard.passive_skill.title.bleed.effectondamageovertime.activates_on_enemy_action.addmana","Mana ved blødning"
+"herocard.passive_skill.title.bleed.effectondamageovertime.activates_on_enemy_action.heal","Helbreder ved forblødning"
+"herocard.passive_skill.title.burn.effectondamageovertime.activates_on_enemy_action.addmana","Mana ved brand"
+"herocard.passive_skill.title.bypassfamiliars.minion","Ignorer håndlangere"
+"herocard.passive_skill.title.bypassfamiliars.minion.bigminion","Overlegen håndlangerforbier"
+"herocard.passive_skill.title.caststatuseffectdurationmodifier","Forøget varighed af statuseffekt"
+"herocard.passive_skill.title.chargebasedmodifier.managenerationmodifier.dodgemodifier","Flyvemomentum"
+"herocard.passive_skill.title.conditionaleffectovertime.addmana.everyturn.while.all.allies.haswither","Visnet mana"
+"herocard.passive_skill.title.conditionaleffectovertime.revival.while.single.allies.hasdeadallies","Genoplev over tid"
+"herocard.passive_skill.title.conditionaleffectovertime.usable_once.heal.addmana.everyturn.while.single.allies.lowhealth","Sisus kraft"
+"herocard.passive_skill.title.convertincomingdamagetoheal.all.statuseffect","Smuk på indersiden"
+"herocard.passive_skill.title.convertincomingdamagetoheal.statuseffect","Smuk på indersiden"
+"herocard.passive_skill.title.corrosiveburncoreintrinsicchargeeffectonspecial.activates_on_ally_action.statuseffects.corrosiveburn","Lavakerne"
+"herocard.passive_skill.title.corrosiveburncoreintrinsicchargeeffectonspecial.statuseffects.corrosiveburn","Lavakerne"
+"herocard.passive_skill.title.corrosivecoreintrinsicchargeeffectonspecial.statuseffects.corrosivepoison","Ætsende kerne"
+"herocard.passive_skill.title.corrosivefrostcoreintrinsicchargeeffectonspecial.statuseffects.corrosivefrost","Arktisk kerne"
+"herocard.passive_skill.title.criticalmodifier","Kritisk modifikator"
+"herocard.passive_skill.title.criticalmodifiersupportcharacter.troop","Kritisk modifikator"
+"herocard.passive_skill.title.critmodifier","Modifikation for kritisk chance"
+"herocard.passive_skill.title.damageincreasebyinsanity.troop.specialskill.npcnormalattack","Brændemærket af De Ældste"
+"herocard.passive_skill.title.dealtdamagemodifieragainststatuseffect.bloodlily.stacks","Rødt mærke"
+"herocard.passive_skill.title.dealtstrongelementtroopdamage","Troppeekspert"
+"herocard.passive_skill.title.debuffdamagereduction","Statuslidelse: Skadesreduktion"
+"herocard.passive_skill.title.debuffdamagereductionsupportcharacter.troop","Statuslidelse: Skadesreduktion"
+"herocard.passive_skill.title.destructivecoreintrinsicchargeeffectonspecial.damage","Ødelæggende kerne"
+"herocard.passive_skill.title.dispelonownfamiliardeath.minion.minordebuff","Ryddes ved håndlangerens død"
+"herocard.passive_skill.title.dodgespecialdamage","Undvig særlig skade"
+"herocard.passive_skill.title.doubleeffectonchargedspecial.statuseffects.stackingmanagenerationmodifier.stacks","Kumulativt tilbud"
+"herocard.passive_skill.title.eatfamiliarsonspecialcast.parasite.allies.single","Ødelæg håndlangere med særlig"
+"herocard.passive_skill.title.eatfamiliarswitheffectpereatenfamiliarovertime.addmana","Æd håndlangere, og få mana over tid"
+"herocard.passive_skill.title.effectondamagereceived.addmana.specialskill","Mana ved fuld skade"
+"herocard.passive_skill.title.effectondamagereceived.addmana.troop.npcnormalattack.specialskill","Mana ved modtaget skade"
+"herocard.passive_skill.title.effectondamagereceived.damage.specialskill.statuseffectskill.cover","Skade fra særlig egenskab og dækningsskade"
+"herocard.passive_skill.title.effectondamagereceived.none.specialskill.exclude.statuseffect.stacking_attack_on_damage_received_passive","Kumulative angreb ved modtaget skade"
+"herocard.passive_skill.title.effectondamagereceived.none.specialskill.exclude.statuseffect.stacking_attack_on_damage_received_passive_pve","Kumulative angreb ved modtaget skade"
+"herocard.passive_skill.title.effectondispel.activates_on_ally_action.healthboost.minordebuff.removalreason.dispel.activates_on_dispel_cast.valid_caster_side.allies","Helbredsboost ved forsøg på alliancerenselse"
+"herocard.passive_skill.title.effectondispel.activates_on_enemy_action.damage.minordebuff.removalreason.dispel.activates_on_dispel_cast.valid_caster_side.enemies","Skade ved forsøg på fjenderenselse"
+"herocard.passive_skill.title.effectondispel.addmana.minorbuff","Mana ved ophævelse"
+"herocard.passive_skill.title.effectondispel.addmana.minorbuff.removalreason.dispel","Mana ved bufferophævelse"
+"herocard.passive_skill.title.effectondispel.heal.statuseffectdebuffs.removalreason.dispel.removal.reallocation.expiration","Helbredes, når statuslidelse udløber eller renses"
+"herocard.passive_skill.title.effectondispel.healthboost.minorbuff.removalreason.dispel","Helbredsboost på bufferophævelse"
+"herocard.passive_skill.title.effectonfamiliardamagedone.minion.frost","Frost ved håndlangertræffer"
+"herocard.passive_skill.title.effectonheal.addmana","Mana ved helbredsgendannelse"
+"herocard.passive_skill.title.effectonheal.heal","Ekstra helbred ved helbredsgendannelse"
+"herocard.passive_skill.title.effectonhealsupportcharacter.troop.heal","Ekstra helbredelse"
+"herocard.passive_skill.title.effectonmanareduction.statuseffects.attackmodifier","Statuseffekt ved manareduktion"
+"herocard.passive_skill.title.effectonmanareduction.statuseffects.yellowdefensemodifier","Statuseffekt ved manareduktion"
+"herocard.passive_skill.title.effectonresist.activates_on_enemy_action.healthboost.addmana.once","Helbredsboost og mana ved modstand"
+"herocard.passive_skill.title.effectonspecialcastwitheffecttype.activates_on_enemy_action.addmana.on_healthboost_cast","Mana ved helbredsstyrkende særlige egenskaber"
+"herocard.passive_skill.title.effectonspecialcastwitheffecttype.activates_on_enemy_action.healthboost.on_healthboost_cast","Helbredsforøgelse ved fjendtlig helbredsforøgelse"
+"herocard.passive_skill.title.effectonspecialchancepermanaspeed","Effekter på særlig egenskab"
+"herocard.passive_skill.title.effectonspecialskilldamagedone.bufftoremove.minordebuff.latest.safe.only_criticals.once","Rensning ved særlige kritiske angreb"
+"herocard.passive_skill.title.effectonspecialskilldamagedone.bufftoremove.minordebuff.safe.only_criticals","Rensning ved særlige kritiske angreb"
+"herocard.passive_skill.title.effectonspecialskilldamagedone.healthboost.only_criticals","Helbredsforstærker ved særlige kritiske angreb"
+"herocard.passive_skill.title.effectonspecialskilldamagedone.healthboost.only_criticals.once","Helbredsforstærker ved særlige kritiske angreb"
+"herocard.passive_skill.title.effectonspecialskilldamagedonebasedonhealthdifference.healthboost.once.effectonspecialskilldamagereceivedbasedonhealthdifference.addmana.once","Retfærdigt oprør"
+"herocard.passive_skill.title.effectonspecialskilldamagereceived.healthboost.only_criticals","Helbredsforstærker ved særlige kritiske angreb"
+"herocard.passive_skill.title.effectonspecialwithchance.activates_on_enemy_action.healthboost","Øger helbred ved fjendes særlige egenskab"
+"herocard.passive_skill.title.effectonspecialwithchance.addmana","Mana ved fuld opladning"
+"herocard.passive_skill.title.effectonspecialwithchance.bufftoremove.minorbuff.latest","Ophævelse af særlig egenskab"
+"herocard.passive_skill.title.effectonspecialwithchance.bufftoremove.minordebuff.latest","Fjernelse af særlig egenskab"
+"herocard.passive_skill.title.effectonspecialwithchance.damage","Skade ved fuld opladning"
+"herocard.passive_skill.title.effectonspecialwithchance.heal","Helbredsgendannelse ved fuld opladning"
+"herocard.passive_skill.title.effectonspecialwithchance.healthboost","Helbredsboost på særlig egenskab"
+"herocard.passive_skill.title.effectonspecialwithchance.statuseffects","Statuseffekt ved fuld opladning"
+"herocard.passive_skill.title.effectonspecialwithchance.statuseffects.bleeding","Blødning ved særlig egenskab"
+"herocard.passive_skill.title.effectonspecialwithchance.statuseffects.curseofdoom","Forbandelse ved særlig egenskab"
+"herocard.passive_skill.title.effectonspecialwithchance.statuseffects.damageovertime","Skade over tid ved særlig egenskab"
+"herocard.passive_skill.title.effectonspecialwithchance.statuseffects.extradamageagainstboostedhealth","Forøget skade mod forstærket helbred"
+"herocard.passive_skill.title.effectonspecialwithchance.statuseffects.huntersmark","Skade over tid ved særlig egenskab"
+"herocard.passive_skill.title.effectonspecialwithchance.statuseffects.managenerationmodifier","Statuseffekt ved fuld opladning"
+"herocard.passive_skill.title.effectonspecialwithchance.statuseffects.poison","Forgiftning af særlig egenskab"
+"herocard.passive_skill.title.effectonspecialwithchance.statuseffects.possession","Tankeløst angreb på særlig egenskab"
+"herocard.passive_skill.title.effectonspecialwithchance.statuseffects.underwater","Skade over tid ved særlig egenskab"
+"herocard.passive_skill.title.effectonspecialwithmanaspeedthreshold.activates_on_enemy_action.damage.faster.average.once","Skade ved fjendtlig særegenskab"
+"herocard.passive_skill.title.effectonstatuseffectaddition.activates_on_enemy_action.addmana.allbuffs.taunt","Mana ved hån"
+"herocard.passive_skill.title.effectonstatuseffectaddition.activates_on_enemy_action.addmana.statuseffectbuffs.defensemodifier.once","Mana på fjendtlig forsvarsforøgelse"
+"herocard.passive_skill.title.effectonstatuseffectaddition.activates_on_enemy_action.statuseffects.ubertitanstackingattackmodifier.allbuffs.defensemodifier","Statuseffekt ved fjendens forsvarsbuffer"
+"herocard.passive_skill.title.effectonstatuseffectaddition.activates_on_enemy_action.statuseffects.ubertitanstackingreceiveddamagemodifier.allbuffs.attackmodifier","Statuseffekt ved fjendens angrebsbuffer"
+"herocard.passive_skill.title.effectonstatuseffectaddition.addmana.allbuffs","Mana ved modtaget buffer"
+"herocard.passive_skill.title.effectonstatuseffectaddition.addmana.alldebuffs","Mana ved statuslidelse modtaget"
+"herocard.passive_skill.title.effectonstatuseffectaddition.heal.allbuffs","Helbredsgendannelse ved buffer modtaget"
+"herocard.passive_skill.title.effectonstatuseffectaddition.heal.alldebuffs","Helbredsgendannelse ved statuslidelse modtaget"
+"herocard.passive_skill.title.effectonstatuseffectaddition.statuseffects.managenerationmodifier.alldebuffs","Manabuffer ved statuslidelse modtaget"
+"herocard.passive_skill.title.effectonstatuseffectadditionwithchance.addmana.allbuffs","Mana ved modtaget buffer"
+"herocard.passive_skill.title.effectonstatuseffectadditionwithchance.heal.allbuffs","Helbredsgendannelse ved buffer modtaget"
+"herocard.passive_skill.title.effectonstatuseffectremovalbyspecial.activates_on_ally_action.healthboost","Helbredsboost ved fjernelse af statuseffekt"
+"herocard.passive_skill.title.effectonstatuseffectremovalbyspecial.activates_on_enemy_action.damage","Skade ved fjernelse af statuseffekt"
+"herocard.passive_skill.title.effectovertime.revival","Genoplev over tid"
+"herocard.passive_skill.title.effectovertimeperstatuseffect.addmana.everyturn.per.statuseffectbuffs.enemies","Mana pr. fjendtlig buffer"
+"herocard.passive_skill.title.effectovertimeperstatuseffect.healthboost.everyturn.per.poison.statuseffectdebuffs.enemies","Helbredsboost ved gift"
+"herocard.passive_skill.title.effectsonminionreceived.activates_on_ally_action.addmana.allies.minion","Mana ved hidkaldelse af håndlanger"
+"herocard.passive_skill.title.effectsonminionreceived.activates_on_ally_action.heal.addmana.allies.minion","Åndernes ven"
+"herocard.passive_skill.title.effectsonparasitereceived.activates_on_enemy_action.addmana.enemies.parasite","Mana ved djævlehidkaldelse"
+"herocard.passive_skill.title.effectsonparasitereceived.activates_on_enemy_action.damage.enemies.parasite","Kæledyrenes vrede"
+"herocard.passive_skill.title.effectsonparasitereceived.activates_on_enemy_action.healthboost.enemies.parasite","Helbredsforøgelse ved djævlehidkaldelse"
+"herocard.passive_skill.title.familiaraccuracymodifier.all.enemies.minion.bigminion","Håndlangerblindhed"
+"herocard.passive_skill.title.familiarcoreintrinsicchargeeffectonspecial.summonfamiliar.construct_minion_core","Håndlangerkerne"
+"herocard.passive_skill.title.familiarhealthmodifier.all.enemies.bigminion.decrease","Svagere kæmpehåndlangere"
+"herocard.passive_skill.title.familiarhealthmodifier.all.enemies.minion.decrease","Svagere håndlangere"
+"herocard.passive_skill.title.familiarsilencer.all.enemies.bigminion","Stop kæmpehåndlangere"
+"herocard.passive_skill.title.familiarsilencer.all.enemies.minion.follower","Stop håndlangere"
+"herocard.passive_skill.title.frost.effectondamageovertime.activates_on_enemy_action.addmana","Mana på frost"
+"herocard.passive_skill.title.glass_reflect_debuffs","Glas"
+"herocard.passive_skill.title.growth","Vækst"
+"herocard.passive_skill.title.guaranteedeffectonspecial","Garanteret effekt på særlig egenskab"
+"herocard.passive_skill.title.healmodifier.all.enemies.decrease","Nedsat heling"
+"herocard.passive_skill.title.healonheal.heal","Ekstra helbredelse"
+"herocard.passive_skill.title.healonownfamiliardeath.minion","Helbred fra en død håndlanger"
+"herocard.passive_skill.title.healonownfamiliardeath.minion.healthboost","Øget helbred fra en død håndlanger"
+"herocard.passive_skill.title.increasedattackperelement.enemies.not.green","Forøget angreb pr. hver ikke-naturfjende"
+"herocard.passive_skill.title.increasedattackperelement.enemies.not.red","Forøget angreb pr. hver ikke-ildfjende"
+"herocard.passive_skill.title.increaseddamageagainstfamiliars.minion.bigminion","Ekstra skade på håndlangere og kæmpehåndlangere"
+"herocard.passive_skill.title.increaseddamageagainstminions","Øget skade mod håndlangere"
+"herocard.passive_skill.title.increasedspecialdamageagainsttaunt.taunt","Øget skade mod hån"
+"herocard.passive_skill.title.increasespecialdamage","Forøget skade ved særlig egenskab"
+"herocard.passive_skill.title.increasespecialdamage.usable_once","Forøget skade ved særlig egenskab"
+"herocard.passive_skill.title.increasespecialdamagesupportcharacter.troop","Forøget skade ved særlig egenskab"
+"herocard.passive_skill.title.insanitydamagereduction","Markeret af de gamle"
+"herocard.passive_skill.title.iterateeffectonspecial","Ekstra chance for effekter på særlig egenskab"
+"herocard.passive_skill.title.league_accuracy_modifier_against_family","Ligaulempe"
+"herocard.passive_skill.title.league_featured_family_resist","Ligafordel"
+"herocard.passive_skill.title.league_heal_modifier_against_family","Ligaulempe"
+"herocard.passive_skill.title.league_heal_modifier_for_family","Ligafordel"
+"herocard.passive_skill.title.league_received_damage_modifier_against_non_featured_family","Ligafordel"
+"herocard.passive_skill.title.manadebuffprotection","Beskyttelse mod managendannelseslidelse"
+"herocard.passive_skill.title.managenerationmodifier.all.enemies","Reducér manamægden, der gives fra særlige evner"
+"herocard.passive_skill.title.manaonownfamiliardeath.minion","Mana ved håndlangerdød"
+"herocard.passive_skill.title.manaonstatuseffect.debuff","Mana fra påvirkninger"
+"herocard.passive_skill.title.memorizefamiliars.activates_on_enemy_action","Memorer modstanderens håndlangere og djævle"
+"herocard.passive_skill.title.memorizestatuseffects","Memorer statuslidelser"
+"herocard.passive_skill.title.mimic_dread_damage_minions","Gru"
+"herocard.passive_skill.title.mimiclootonlevelcompleted","Efterligner-bytte"
+"herocard.passive_skill.title.nevermissspecial","Perfekt præcision"
+"herocard.passive_skill.title.ransack","Tyvens mulighed"
+"herocard.passive_skill.title.reallocatestatuseffectonspecialcast.damage.minorbuff.newest","Stjæl buffer"
+"herocard.passive_skill.title.reallocatestatuseffectonspecialcast.heal.minordebuff.newest","Jagtinstinkt"
+"herocard.passive_skill.title.receivedstrongelementsupportcharacterdamage","Troppeekspert"
+"herocard.passive_skill.title.receivedstrongelementsupportcharacterdamage.increase.dragon","Stærk forøgelse af ildkugleskade"
+"herocard.passive_skill.title.redirectlethaldamage.enemies.single","Snyd døden"
+"herocard.passive_skill.title.remove_growth_from_enemies","Vagtsamling"
+"herocard.passive_skill.title.remove_wither_from_allies","Vagtsamling"
+"herocard.passive_skill.title.repaircoreintrinsicchargeeffectonspecial.healthboost","Reparationskerne"
+"herocard.passive_skill.title.repeat_special_once","Heldig"
+"herocard.passive_skill.title.resist.accuracymodifiers","Modstå blindhed"
+"herocard.passive_skill.title.resist.alldebuffs","Modstå statuslidelser"
+"herocard.passive_skill.title.resist.alldebuffs.alldebuffs","Modstå alle påvirkninger"
+"herocard.passive_skill.title.resist.alldebuffs.manareduction.buffdispels","Bossmodstand"
+"herocard.passive_skill.title.resist.alldefensemodifiers.alldebuffs","Modstå påvirkning af forsvar"
+"herocard.passive_skill.title.resist.alldefensemodifiers.defensewither.alldebuffs","Modstå reducering af forsvar"
+"herocard.passive_skill.title.resist.allmanaeffects.alldebuffs","Modstå påvirkninger af mana"
+"herocard.passive_skill.title.resist.allstatuseffectdamage.none","Modstå skade fra statuseffekter"
+"herocard.passive_skill.title.resist.attackdelay","Modstå angrebsforsinkelse"
+"herocard.passive_skill.title.resist.attackmodifiers","Modstå påvirkning af angreb"
+"herocard.passive_skill.title.resist.attackmodifiers.allstatuseffectsandstacks","Modstå statuseffekter i angreb"
+"herocard.passive_skill.title.resist.attackmodifiers.attackwither.alldebuffs","Modstå angrebsreduktion"
+"herocard.passive_skill.title.resist.bleed","Modstand mod blødning"
+"herocard.passive_skill.title.resist.bleed.with_effect.healthboost.addmana","Styrket blødningsmodstand"
+"herocard.passive_skill.title.resist.buffdispels","Modstå ophævelser"
+"herocard.passive_skill.title.resist.buffimmunity","Modstand mod buffer-blokering"
+"herocard.passive_skill.title.resist.burn","Modstå ild"
+"herocard.passive_skill.title.resist.burn.with_effect.healthboost.addmana","Styrket brandmodstand"
+"herocard.passive_skill.title.resist.criticalhits.none","Modstå kritiske træffere"
+"herocard.passive_skill.title.resist.defensemodifiers.alldebuffs","Modstå påvirkning af forsvar"
+"herocard.passive_skill.title.resist.familiarremoval.familiarsilence.familiarreceivingblocking.minion","Ustoppelige håndlangere"
+"herocard.passive_skill.title.resist.frost","Modstå frost"
+"herocard.passive_skill.title.resist.frost.with_effect.healthboost.addmana","Styrket frostmodstand"
+"herocard.passive_skill.title.resist.healeffects","Modstå helbredelse af lidelser"
+"herocard.passive_skill.title.resist.healthsteal","Modstå påvirkning af helbredstyveri"
+"herocard.passive_skill.title.resist.insanity.permanentstatuseffects","Modstå vanvid"
+"herocard.passive_skill.title.resist.manadebuffs","Modstå påvirkninger af mana"
+"herocard.passive_skill.title.resist.manaeffectsandspecialblocking","Modstand mod manalidelser og blokering af særlige egenskaber"
+"herocard.passive_skill.title.resist.managenerationmodifiers.alldebuffs","Modstå påvirkninger af managendannelse"
+"herocard.passive_skill.title.resist.manareduction","Modstå direkte manareduktion"
+"herocard.passive_skill.title.resist.manareduction.none.with_effect.healthboost.addmana","Styrket manareduktionsmodstand"
+"herocard.passive_skill.title.resist.maxhealthreduction","Modstå reduktion af maksimalt helbred"
+"herocard.passive_skill.title.resist.poison","Modstå gift"
+"herocard.passive_skill.title.resist.poison.burn.bleed","Modstå gift-, brand- og bløderskade"
+"herocard.passive_skill.title.resist.possession.allstatuseffects","Modstå besættelse"
+"herocard.passive_skill.title.resist.sand","Modstand mod sand"
+"herocard.passive_skill.title.resist.specialblocking","Modstå blokering af særlig egenskab"
+"herocard.passive_skill.title.resist.specialblocking.with_effect.healthboost.addmana","Styrket modstand mod blokering af særlig egenskab"
+"herocard.passive_skill.title.resist.stopmanageneration","Modstå stop af managendannelse"
+"herocard.passive_skill.title.resist.water","Modstand mod vand"
+"herocard.passive_skill.title.resist_all_defense_effects","figurtræk: 
+Smidig"
+"herocard.passive_skill.title.resistdebuffsfromfamiliars.minion","Modstå statuslidelser fra håndlangere"
+"herocard.passive_skill.title.resistfamiliarremoval.minion.bigminion","Modstå fjernelse af håndlanger"
+"herocard.passive_skill.title.resistnegativefamiliareffects.minion","Modstå negative håndlangereffekter"
+"herocard.passive_skill.title.resistnegativefamiliareffects.minion.bigminion","Overlegen modstand mod negative håndlangereffekter"
+"herocard.passive_skill.title.resistnewfamiliars.parasite","Modstå djævle"
+"herocard.passive_skill.title.resistnewfamiliars.parasite.bigparasite","Modstå djævle og megadjævle"
+"herocard.passive_skill.title.resistsupportcharacter.troop.alldebuffs","Modstå statuslidelser"
+"herocard.passive_skill.title.revivalchancemodifier.all.enemies","Reduktion af genoplivelseschance"
+"herocard.passive_skill.title.revivalhealthmodifier.all.enemies.excluding.boss","Reduktion af genoplivningshelbred"
+"herocard.passive_skill.title.revive_chance_nine_lives","Ni liv"
+"herocard.passive_skill.title.reviveinalternativeformwithinsanitychance","Sælsom pagt"
+"herocard.passive_skill.title.revivewithchance","Genoplivning"
+"herocard.passive_skill.title.setstatuseffectdurationonaddition.all.allies.activates_on_ally_action.alldebuffs.dance","Hurtigt tempo: Sang"
+"herocard.passive_skill.title.setstatuseffectdurationonaddition.single.enemies.activates_on_enemy_action.allbuffs.dance","Hurtigt tempo: Dans"
+"herocard.passive_skill.title.sharereceiveddamage","Del modtaget skade"
+"herocard.passive_skill.title.short.generic","Passiv"
+"herocard.passive_skill.title.short.league","Fordel"
+"herocard.passive_skill.title.short.league.non_featured","Ulempe"
+"herocard.passive_skill.title.short.trait","figurtræk"
+"herocard.passive_skill.title.sidedependentpassiveskill.side_dependent_elemental_mask","Elementalmaske"
+"herocard.passive_skill.title.sidedependentpassiveskill.strong_troop_damage_modifier","Troppeekspert"
+"herocard.passive_skill.title.sidedependentpassiveskill.strong_troop_damage_modifier_costume","Troppeekspert"
+"herocard.passive_skill.title.specialdamagereduction","Skadesreduktion ved særlig egenskab"
+"herocard.passive_skill.title.specialdamagereductionsupportcharacter.troop","Skadesreduktion ved særlig egenskab"
+"herocard.passive_skill.title.startbattlewitheffect.addmana","Start kamp med mana"
+"herocard.passive_skill.title.statmodifier.attack","Blodtørstig"
+"herocard.passive_skill.title.statmodifier.defense","Rygskjoldet"
+"herocard.passive_skill.title.statmodifier.health","Modstandsdygtigt"
+"herocard.passive_skill.title.statuseffectattackmodifier.addition","Forøger statuseffekter i angreb"
+"herocard.passive_skill.title.statuseffectattackmodifier.all.allies.reduction","Reduktion af angrebspåvirkning"
+"herocard.passive_skill.title.statuseffectattackmodifier.reduction","Reduktion af angrebspåvirkning"
+"herocard.passive_skill.title.statuseffectattackmodifiersupportcharacter.troop.addition","Forøger statuseffekter i angreb"
+"herocard.passive_skill.title.statuseffectattackmodifiersupportcharacter.troop.reduction","Reduktion af angrebspåvirkning"
+"herocard.passive_skill.title.statuseffectdefensemodifier.addition","Forøger statuseffekter i forsvar"
+"herocard.passive_skill.title.statuseffectdefensemodifier.all.allies.reduction","Reduktion af skadespåvirkninger"
+"herocard.passive_skill.title.statuseffectdefensemodifier.reduction","Reduktion af skadespåvirkninger"
+"herocard.passive_skill.title.statuseffectdefensemodifiersupportcharacter.troop.addition","Forøger statuseffekter i forsvar"
+"herocard.passive_skill.title.statuseffectdefensemodifiersupportcharacter.troop.reduction","Reduktion af skadespåvirkninger"
+"herocard.passive_skill.title.statuseffectdurationmodifier","Forøg buffervarighed"
+"herocard.passive_skill.title.statuseffectdurationmodifier.decrease.minordebuff.majordebuff","Formindsk lidelsesvarighed"
+"herocard.passive_skill.title.statuseffectdurationmodifier.decrease.minordebuff.majordebuff.defensemodifier.no_limit","Formindsk forsvarslidelsesvarighed"
+"herocard.passive_skill.title.statuseffectdurationmodifier.increase.minorbuff.majorbuff","Forøg buffervarighed"
+"herocard.passive_skill.title.statuseffectoncleanse.single.enemies","Kopiér lidelse ved fjernelse"
+"herocard.passive_skill.title.statuseffectonspecialcast.attackmodifierfrompassiveskill","Jægerstyrke"
+"herocard.passive_skill.title.statuseffectonspecialcast.softskin","Gargoilens blødhud"
+"herocard.passive_skill.title.statuseffectonspecialcast.stone","Gargoilens stenhud"
+"herocard.passive_skill.title.statuseffectonstatuseffectaddition.debuff","Managendannelsesbuffer fra lidelser"
+"herocard.passive_skill.title.statuseffectselection.usable_once.select_element_status_effect","Elementalmaske"
+"herocard.passive_skill.title.summonfamiliarperturn.evolving_seedling_parasite.enemies","Frøplantefremkalder"
+"herocard.passive_skill.title.summonfamiliarperturn.evolving_seedling_parasite.enemies.sharedonceperturn","Frøplantefremkalder"
+"herocard.passive_skill.title.summononownerdeath.slime_big_minion_blue.neartotargetexceptcaster.allies","Slimhåndlanger ved nederlag"
+"herocard.passive_skill.title.summononownerdeath.slime_big_minion_green.neartotargetexceptcaster.allies","Slimhåndlanger ved nederlag"
+"herocard.passive_skill.title.summononownerdeath.slime_big_minion_purple.neartotargetexceptcaster.allies","Slimhåndlanger ved nederlag"
+"herocard.passive_skill.title.summononownerdeath.slime_big_minion_red.neartotargetexceptcaster.allies","Slimhåndlanger ved nederlag"
+"herocard.passive_skill.title.summononownerdeath.slime_big_minion_yellow.neartotargetexceptcaster.allies","Slimhåndlanger ved nederlag"
+"herocard.passive_skill.title.summononreceiveddamagewiththreshold.slime_big_minion_blue","Opdeling af slimhåndlanger"
+"herocard.passive_skill.title.summononreceiveddamagewiththreshold.slime_big_minion_green","Opdeling af slimhåndlanger"
+"herocard.passive_skill.title.summononreceiveddamagewiththreshold.slime_big_minion_purple","Opdeling af slimhåndlanger"
+"herocard.passive_skill.title.summononreceiveddamagewiththreshold.slime_big_minion_red","Opdeling af slimhåndlanger"
+"herocard.passive_skill.title.summononreceiveddamagewiththreshold.slime_big_minion_yellow","Opdeling af slimhåndlanger"
+"herocard.passive_skill.title.summononstatuseffectaddition.burn","Hidkald ved brand"
+"herocard.passive_skill.title.summononstatuseffectaddition.damageovertime","Hidkald på DoT"
+"herocard.passive_skill.title.summononstatuseffectaddition.defensemodifier","Hidkald håndlanger ved påvirkning af forsvar"
+"herocard.passive_skill.title.summononsummon.activates_on_enemy_action.allies.owl.minion","Spurvehidkalder"
+"herocard.passive_skill.title.summononsummon.activates_on_enemy_action.enemies.cursed_sapling_parasite.minion","Forbandet spire-djævel-hidkalder"
+"herocard.passive_skill.title.summononsummon.activates_on_enemy_action.enemies.seedling_parasite.minion","Frøplantefremkalder"
+"herocard.passive_skill.title.taunt","Ignorer hån"
+"herocard.passive_skill.title.titan_dread_damage_minions","Gru"
+"herocard.passive_skill.title.titan_dread_damage_minions_15","Gru"
+"herocard.passive_skill.title.titan_dread_damage_minions_16","Gru"
+"herocard.passive_skill.title.titan_dread_damage_minions_17","Gru"
+"herocard.passive_skill.title.titan_resist_15","Titan"
+"herocard.passive_skill.title.titan_resist_16","Titan"
+"herocard.passive_skill.title.titan_resist_17","Titan"
+"herocard.passive_skill.title.toon_resist_debuffs_manareduction_dispels","Tegneseriefigur"
+"herocard.passive_skill.title.transformstatuseffectonspecialcast.minorbuff.enemies.all.transform_attackmodifier_into_attackmodifier.transform_defensemodifier_into_defensemodifier.transform_managenerationmodifier_into_defensemodifier","Forvandl buffere"
+"herocard.passive_skill.title.transformstatuseffectonspecialcast.minorbuff.enemies.all.transform_attackmodifier_into_attackmodifier.transform_defensemodifier_into_defensemodifier.transform_managenerationmodifier_into_managenerationmodifier","Forvandl buffere"
+"herocard.passive_skill.title.transformstatuseffectonspecialcast.minordebuff.allies.all.transform_attackmodifier_into_attackmodifier.transform_defensemodifier_into_defensemodifier.transform_managenerationmodifier_into_managenerationmodifier","Forvandl lidelser"
+"herocard.passive_skill.title.wither.all.enemies","Visne"

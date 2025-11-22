@@ -1,0 +1,899 @@
+"herocard.passive_skill.description.addmana.all.allies","يكتسب جميع الحلفاء كمية صغيرة من القوة."
+"herocard.passive_skill.description.bleed.effectondamageovertime.activates_on_enemy_action.addmana","تكتسب هذه الشخصية {POWER}% من القوة، في كل مرة يتلقى فيها العدو ضرر النزيف."
+"herocard.passive_skill.description.bleed.effectondamageovertime.activates_on_enemy_action.heal.fixedpower","تجدد هذه الشخصية {POWER} من نقاط الصحة في كل مرة يتلقى فيها أحد الأعداء ضرر النزيف."
+"herocard.passive_skill.description.burn.effectondamageovertime.activates_on_enemy_action.addmana","تكتسب هذه الشخصية {POWER}% من القوة، في كل مرة يتلقى فيها العدو ضرر حريق."
+"herocard.passive_skill.description.bypassfamiliars.minion","كل الأضرار التي تُلحقها هذه الشخصية تتجاوز الأتباع."
+"herocard.passive_skill.description.bypassfamiliars.minion.bigminion","كل الأضرار التي تُلحقها هذه الشخصية تتجاوز الأتباع، والأتباع الضخام."
+"herocard.passive_skill.description.caststatuseffectdurationmodifier","فرصة لزيادة مدة إلقاء تأثيرات الحالة."
+"herocard.passive_skill.description.caststatuseffectdurationmodifier.turns_with_chance","{0} من الجولات: {1}%"
+"herocard.passive_skill.description.chargebasedmodifier.managenerationmodifier.dodgemodifier","إذا كان لدى هذه الشخصية أي مقدار من زخم التحليق، فإنها تحصل على:
+ما يصل إلى {MAXMANAGENERATIONMODIFIER}% من توليد القوة.
+بنسبة تصل إلى {MAXDODGEMODIFIER}% فرصة إضافية للتفادي. 
+تقل التأثيرات كلما قل زخم التحليق لدى الشخصية."
+"herocard.passive_skill.description.chargebasedmodifier.managenerationmodifier.dodgemodifier.battle","زخم التحليق {CHARGE}%
+لدى هذه الشخصية حاليًا: 
+{MANAGENERATIONMODIFIER}% من توليد القوة.
+{DODGEMODIFIER}% فرصة إضافية للتفادي."
+"herocard.passive_skill.description.conditionaleffectovertime.addmana.everyturn.while.all.allies.haswither","اكتسب {POWER}% من القوة في بداية كل جولة إذا كان لدى أي حليف على أرض المعركة أحد تأثيرات التلف."
+"herocard.passive_skill.description.conditionaleffectovertime.revival.all.allies.while.single.allies.hasdeadallies","في كل {TURNS} من الجولات، يُعيد إحياء جميع الحلفاء المهزومين بنسبة {POWER}% من نقاط الصحة."
+"herocard.passive_skill.description.conditionaleffectovertime.revival.neartotargetexceptcaster.allies.while.single.allies.hasdeadallies","في كل {TURNS} من الجولات، يُعيد إحياء الحلفاء المهزومين القريبين بنسبة {POWER}% من نقاط الصحة."
+"herocard.passive_skill.description.conditionaleffectovertime.usable_once.heal.addmana.everyturn.while.single.allies.lowhealth","عندما تبدأ هذه الشخصية جولة بصحة منخفضة لأول مرة أثناء المعركة، فإنها تستعيد {HEALTH}% من الصحة، وتحصل على {MANA}% من القوة."
+"herocard.passive_skill.description.convertincomingdamagetoheal.all.statuseffect","كلما تتلقّى هذه الشخصية ضررًا من حالة مرضية، تستعيد مقدارًا مساويًا من نقاط الصحة بدلًا من ذلك."
+"herocard.passive_skill.description.convertincomingdamagetoheal.statuseffect","كلما تتلقّى هذه الشخصية ضررًا من حالة مرضية، تستعيد مقدارًا مساويًا من نقاط الصحة بدلًا من ذلك. يبلغ مقدار العلاج {MULTIPLIER}% من الضرر."
+"herocard.passive_skill.description.criticalmodifiersupportcharacter.troop","{CRITICALMODIFIER}% فرصة حاسمة."
+"herocard.passive_skill.description.damage.all.enemies","لإلحاق {DAMAGE}% من الضرر بجميع الأعداء."
+"herocard.passive_skill.description.damagefamiliarsovertime.all.enemies.minion.bigminion","يتم إلحاق {DAMAGEPERTURN} من الضرر بجميع أتباع الأعداء وأتباعهم الضخام كل {TURNS} من الجولات."
+"herocard.passive_skill.description.damagefamiliarsovertime.everyturn.all.enemies.bigminion.minion","يتم إلحاق {DAMAGEPERTURN} من الضرر بجميع أتباع الأعداء، وأتباعهم الضخام في بداية كل جولة."
+"herocard.passive_skill.description.damagefamiliarsovertime.everyturn.all.enemies.minion.bigminion","يتم إلحاق {DAMAGEPERTURN} من الضرر بجميع أتباع الأعداء، وأتباعهم الضخام في بداية كل جولة."
+"herocard.passive_skill.description.damageincreasebyinsanity.troop.specialskill.npcnormalattack","يزداد كل الضرر من الهجمات العادية والمهارات الخاصة الملحقة لهذه الشخصية بنسبة {DAMAGEINCREASEPERSTEP}% لكل {INSANITYPERSTEP} من الجنون على هذه الشخصية بما يصل إلى {MAXDAMAGEINCREASE}%."
+"herocard.passive_skill.description.dealtdamagemodifieragainststatuseffect.bloodlily.stacks.troop.specialskill.npcnormalattack.add_modifier_per_stack","يزيد كل الضرر الناتج عن الهجمات العادية والمهارات الخاصة التي تلحقها هذه الشخصية بنسبة {MODIFIER}% لكل تراكم زنبق دموي على الهدف."
+"herocard.passive_skill.description.dealtstrongelementsupportcharacterdamage.increase","تلحق قوات هذا البطل ضرر عناصر إضافي ضد العنصر الأضعف.
+
+ضرر العناصر الإضافي المُلحَق: +{MODIFIER}%"
+"herocard.passive_skill.description.debuffdamagereduction","تم تقليل الضرر الناجم عن حالات الأمراض بنسبة {DAMAGEREDUCTION}%"
+"herocard.passive_skill.description.debuffdamagereductionsupportcharacter.troop","تم تقليل الضرر الناجم عن أمراض الحالات بنسبة {DAMAGEREDUCTION}% لهذه الشخصية"
+"herocard.passive_skill.description.destructivecoreintrinsicchargeeffectonspecial.damage.all.enemies.always","مركز بناء هذه الشخصية هو مركز مدمر.
+
+يُفعل المركز المدمر في كل مرة تلقى المهارة الخاصة لهذه الشخصية:
+
+ عند شحن المركز المدمر بالكامل، يلحق نسبة {CHARGEDPOWER1}% من الضرر بكل الأعداء. 
+ يُقاس الضرر حسب مقدار الشحن في المركز. يُستهلك كل الشحن عند تفعيل المركز."
+"herocard.passive_skill.description.dispelonownfamiliardeath.minion.minordebuff","يتم تطهير هذه الشخصية من حالات الأمراض، عندما يتم تدمير أحد أتباعها."
+"herocard.passive_skill.description.dodgespecialdamage","لدى هذه الشخصية احتمالية بنسبة {CHANCE}% لتفادي المهارات الخاصة التي تُلحق الضرر."
+"herocard.passive_skill.description.eatfamiliarsonspecialcast.parasite.allies.single","عندما تلقي هذه الشخصية مهاراتها الخاصة، سيتم تدمير جميع الأشرار منها."
+"herocard.passive_skill.description.eatfamiliarswitheffectpereatenfamiliarovertime.addmana","كل {TURNS} من الأدوار، قم بأكل جميع الأتباع الخاصة بعدو عشوائي واكتسب قدرًا صغيرًا من القوة عن كل تابع تأكله."
+"herocard.passive_skill.description.effectondamagereceived.addmana.specialskill.single.allies","عندما تتلقى هذه الشخصية ضرر المهارات الخاصة، تحصل على {POWER}% من القوة."
+"herocard.passive_skill.description.effectondamagereceived.addmana.troop.npcnormalattack.specialskill.single.allies","عندما تتلقى هذه الشخصية ضررًا مباشرًا من المهارات الخاصة أو الهجمات العادية، تحصل على كمية قليلة من القوة.  
+الحد الأقصى من {MAXMANAGAINPERTURN}% القوة المكتسبة لكل دور."
+"herocard.passive_skill.description.effectondamagereceived.damage.specialskill.statuseffectskill.cover.all.enemies.with_chance","عندما تتلقى هذه الشخصية الضرر من المهارات الخاصة أو بدلًا من شخصية محمية، فهناك فرصة {CHANCE}% لإلحاق {POWER}% من الضرر الذي تلقته بجميع الأعداء."
+"herocard.passive_skill.description.effectondamagereceived.none.specialskill.exclude.statuseffect.stacking_attack_on_damage_received_passive.single.allies.onceperturn","عندما تتلقى هذه الشخصية ضررًا من  مهارات خاصة، فإنها تحصل على تراكم هجوم بنسبة {STATUSEFFECT1ATTACK}% (بحد أقصى: {STATUSEFFECT1MAXSTACK}). يمكن الحصول على تراكم واحد في كل جولة."
+"herocard.passive_skill.description.effectondamagereceived.none.specialskill.exclude.statuseffect.stacking_attack_on_damage_received_passive_pve.single.allies.onceperturn","عندما تتلقى هذه الشخصية ضررًا من  مهارات خاصة، فإنها تحصل على تراكم هجوم بنسبة {STATUSEFFECT1ATTACK}% (بحد أقصى: {STATUSEFFECT1MAXSTACK}). يمكن الحصول على تراكم واحد في كل جولة."
+"herocard.passive_skill.description.effectondispel.activates_on_ally_action.healthboost.all.allies.fixedpower.minordebuff.removalreason.dispel.activates_on_dispel_cast.valid_caster_side.allies","عندما يحاول حليف التطهير باستخدام مهارات خاصة، تُعزز صحة جميع حلفائه بنسبة {POWER}. يمكن تنشيط هذا التأثير مرة واحدة لكل جولة."
+"herocard.passive_skill.description.effectondispel.activates_on_enemy_action.damage.all.enemies.fixedpower.minordebuff.removalreason.dispel.activates_on_dispel_cast.valid_caster_side.enemies","عندما يحاول عدو التطهير باستخدام مهارات خاصة، يتلقى جميع الأعداء ضررًا يساوي {POWER}. يمكن تنشيط هذا التأثير مرة واحدة لكل جولة."
+"herocard.passive_skill.description.effectondispel.addmana.minorbuff.removalreason.dispel","تحصل هذه الشخصية على {POWER}% من القوة في كل مرة يتم فيها تبديد علاوة منها. لا يمكن تفعيل هذا التأثير إلا مرة واحدة في الجولة."
+"herocard.passive_skill.description.effectondispel.heal.statuseffectdebuffs.removalreason.dispel.removal.reallocation.expiration","تحصل هذه الشخصية على {POWER}% من الصحة في كل مرة تنتهي مدة مرض، أو يُطهَّر منها، أو يُزال منها، أو ينتقل إلى شخصية أخرى. لا يمكن تفعيل هذا التأثير إلا مرة واحدة في الجولة."
+"herocard.passive_skill.description.effectondispel.heal.statuseffectdebuffs.removalreason.dispel.removal.reallocation.expiration.chance","لدى هذه الشخصية فرصة بنسبة {CHANCE}% للحصول على {POWER}% من الصحة في كل مرة تنتهي مدة مرض، أو يُطهَّر منها، أو يُزال منها، أوينتقل إلى شخصية أخرى. لا يمكن تفعيل هذا التأثير إلا مرة واحدة في الجولة."
+"herocard.passive_skill.description.effectondispel.healthboost.fixedpower.minorbuff.removalreason.dispel","تحصل هذه الشخصية على {POWER} من الصحة المعززة في كل مرة يتم فيها تبديد علاوة منها. لا يمكن تفعيل هذا التأثير إلا مرة واحدة في الجولة."
+"herocard.passive_skill.description.effectonfamiliardamagedone.minion.frost","تُلحق كل ضربة من التوابع التي تملكها الشخصية {DAMAGE} من ضرر الصقيع طوال {TURNS} من الأدوار"
+"herocard.passive_skill.description.effectonheal.addmana","تتلقى هذه الشخصية {POWER}% من القوة كل مرة تستعيد صحتها."
+"herocard.passive_skill.description.effectonheal.heal","تتلقى هذه الشخصية {POWER}% من الصحة كل مرة تستعيد صحتها."
+"herocard.passive_skill.description.effectonhealsupportcharacter.troop.heal","تتلقى هذه الشخصية {POWER}% من الصحة كل مرة تستعيد صحتها."
+"herocard.passive_skill.description.effectonresist.activates_on_enemy_action.healthboost.addmana.once","تحصل هذه الشخصية على تعزيز بنسبة {HEALTHBOOST}% في الصحة و{MANA}% في حالة المقاومة الناجحة."
+"herocard.passive_skill.description.effectonspecialcastwitheffecttype.activates_on_enemy_action.addmana.on_healthboost_cast","تكتسب هذه الشخصية {POWER}% من القوة في كل مرة يلقي فيها أحد الأعداء مهارة خاصة تعزز الصحة بشكل مباشر."
+"herocard.passive_skill.description.effectonspecialcastwitheffecttype.activates_on_enemy_action.healthboost.fixedpower.on_healthboost_cast","تحصل هذه الشخصية على {POWER} من الصحة المعززة في كل مرة يلقي فيها أحد الأعداء مهارة خاصة تعزز الصحة بشكل مباشر."
+"herocard.passive_skill.description.effectonspecialchancepermanaspeed","فرصة {CHANCE}% لأداء الحركات التالية عندما تُلقي هذه الشخصية مهارتها الخاصة:"
+"herocard.passive_skill.description.effectonspecialskilldamagedone.bufftoremove.minordebuff.from.all.allies.safe.only_criticals","عندما تسجل هذه الشخصية ضربة حرجة باستخدام مهارتها الخاصة، تطهّر آخر حالة مرضية يمكن تطهيرها من جميع الحلفاء بأمان."
+"herocard.passive_skill.description.effectonspecialskilldamagedone.bufftoremove.minordebuff.latest.from.all.allies.safe.only_criticals.once","عندما تسجل هذه الشخصية ضربة حرجة باستخدام مهارتها الخاصة، تطهّر آخر حالة مرضية يمكن تطهيرها من جميع الحلفاء بأمان. يمكن تفعيل هذا التأثير مرة واحدة في كل جولة."
+"herocard.passive_skill.description.effectonspecialskilldamagedone.healthboost.all.allies.only_criticals","عندما تسجل هذه الشخصية ضربة حرجة باستخدام مهارتها الخاصة، تزيد صحة جميع حلفائها بنسبة {HEALTHBOOST}%."
+"herocard.passive_skill.description.effectonspecialskilldamagedone.healthboost.all.allies.only_criticals.once","عندما تسجل هذه الشخصية ضربة حرجة باستخدام مهارتها الخاصة، تزيد صحة جميع حلفائها بنسبة {HEALTHBOOST}%. يمكن تنشيط هذا التأثير مرة واحدة في كل دور."
+"herocard.passive_skill.description.effectonspecialskilldamagedonebasedonhealthdifference.healthboost.once.effectonspecialskilldamagereceivedbasedonhealthdifference.addmana.once"," عندما تصيب مهارة هذه الشخصية الخاصة شخصية كانت تمتلك نقاط صحة حالية أعلى، يتم اكتساب {PASSIVESKILL1HEALTHBOOST}% من الصحة المعززة. 
+ عندما تتم إصابة هذه الشخصية بالمهارة الخاصة لشخصية كانت تمتلك نقاط صحة حالية أعلى، يتم اكتساب {PASSIVESKILL2MANA}% من القوة.
+يمكن تفعيل كل تأثير من تلك التأثيرات مرة واحدة في كل جولة."
+"herocard.passive_skill.description.effectonspecialskilldamagereceived.healthboost.all.allies.only_criticals","عندما تسجل هذه الشخصية ضربة حرجة باستخدام مهارتها الخاصة، تزيد صحة جميع حلفائها بنسبة {HEALTHBOOST}%."
+"herocard.passive_skill.description.effectonspecialwithchance.activates_on_enemy_action.healthboost.fixedpower","عندما يقذف عدو مهارته الخاصة، فإن هذه الشخصية لديها {CHANCE}% فرصة لتعزيز صحة هذه الشخصية بمقدار {HEALTHBOOST}."
+"herocard.passive_skill.description.effectonspecialwithchance.addmana.all.allies","عندما تُطلق هذه الشخصية مهارتها الخاصة، فإن لها فرصة {CHANCE}% لتمنح {POWER}% من القوة لجميع الحلفاء. إذا تم شحن المهارة الخاصة بالكامل، تصبح الفرصة {CHANCEFULLYCHARGED}%."
+"herocard.passive_skill.description.effectonspecialwithchance.addmana.notblue.allies","عندما تُطلق هذه الشخصية مهارتها الشخصية، فإن لها فرصة {CHANCE}% لتمنح {POWER}% من القوة لجميع الحلفاء ممن هم ليسوا من عنصر الثلج. إذا تم شحن المهارة الخاصة بالكامل، تصبح الفرصة {CHANCEFULLYCHARGED}%."
+"herocard.passive_skill.description.effectonspecialwithchance.bufftoremove.minorbuff.latest.from.all.enemies.always","عندما تلقي هذه الشخصية مهارتها الخاصة، فإنها تبدد أحدث علاوة تأثير على الحالة من جميع الأعداء."
+"herocard.passive_skill.description.effectonspecialwithchance.bufftoremove.minordebuff.latest.from.all.allies.always","عندما تلقي هذه الشخصية مهارتها الخاصة، فإنها تطهر مرض الحالة الأحدث من جميع الحلفاء."
+"herocard.passive_skill.description.effectonspecialwithchance.damage.all.enemies","عندما تُطلق هذه الشخصية مهارتها الخاصة، فإن لها فرصة {CHANCE}% لإلحاق {POWER}% من الضرر بجميع الأعداء. إذا تم سحن المهارة الخاصة بالكامل، تصبح الفرصة {CHANCEFULLYCHARGED}%."
+"herocard.passive_skill.description.effectonspecialwithchance.damage.notpurple.enemies","عندما تُطلق هذه الشخصية مهارتها الخاصة، فإن لها فرصة {CHANCE}% لإلحاق {POWER}% من الضرر بجميع الأعداء ممن هم ليسوا من عنصر الظلام. إذا تم شحن المهارة الخاصة بالكامل، تصبح الفرصة {CHANCEFULLYCHARGED}%."
+"herocard.passive_skill.description.effectonspecialwithchance.damage.notred.enemies","عندما تُطلق هذه الشخصية مهارتها الخاصة، فإن لها فرصة {CHANCE}% لإلحاق {POWER}% من الضرر بجميع الأعداء ممن هم ليسوا من عنصر النار. إذا تم شحن المهارة الخاصة بالكامل، تصبح الفرصة {CHANCEFULLYCHARGED}%."
+"herocard.passive_skill.description.effectonspecialwithchance.heal.all.allies","عندما تُطلق هذه الشخصية مهارتها الخاصة، فإن لها فرصة {CHANCE}% لاستعادة {POWER}% من الصحة لجميع الحلفاء. إذا تم شحن المهارة الخاصة بالكامل، تصبح الفرصة {CHANCEFULLYCHARGED}%."
+"herocard.passive_skill.description.effectonspecialwithchance.heal.notgreen.allies","عندما تُطلق هذه الشخصية مهارتها الخاصة، فإن لها فرصة {CHANCE}% لاستعادة {POWER}% من الصحة لجميع الحلفاء ممن هم ليسوا من عنصر الطبيعة. إذا تم شحن المهارة الخاصة بالكامل، تصبح الفرصة {CHANCEFULLYCHARGED}%."
+"herocard.passive_skill.description.effectonspecialwithchance.heal.notred.allies","عندما تُطلق هذه الشخصية مهارتها الخاصة، فإن لها فرصة {CHANCE}% لاستعادة {POWER}% من الصحة لجميع الحلفاء ممن هم ليسوا من عنصر النار. إذا تم شحن المهارة الخاصة بالكامل، تصبح الفرصة {CHANCEFULLYCHARGED}%."
+"herocard.passive_skill.description.effectonspecialwithchance.heal.notyellow.allies","عندما تُطلق هذه الشخصية مهارتها الخاصة، فإن لها فرصة {CHANCE}% لاستعادة {POWER}% من الصحة لجميع الحلفاء ممن هم ليسوا من العنصر المقدس. إذا تم شحن المهارة الخاصة بالكامل، تصبح الفرصة {CHANCEFULLYCHARGED}%."
+"herocard.passive_skill.description.effectonspecialwithchance.healthboost.all.allies.always","عندما تلقي هذه الشخصية مهاراتها الخاصة، فإنها تعزز صحة جميع حلفائها بنسبة {POWER}%."
+"herocard.passive_skill.description.effectonspecialwithmanaspeedthreshold.activates_on_enemy_action.damage.all.enemies.fixedpower.faster.average.once","إذا ألقى عدو لديه Average من سرعة القوة أو أسرع مهارة خاصة، فسيتلقى جميع الأعداء {DAMAGE} من الضرر. يمكن تنشيط هذا التأثير مرة واحدة فقط كل جولة."
+"herocard.passive_skill.description.effectonstatuseffectaddition.activates_on_enemy_action.addmana.allbuffs.taunt","في كل مرة يتلقى فيها عدو تأثير حالة استهزاء، تزداد قوة هذه الشخصية بنسبة {POWER}%."
+"herocard.passive_skill.description.effectonstatuseffectaddition.activates_on_enemy_action.addmana.statuseffectbuffs.defensemodifier.once","تكتسب هذه الشخصية {POWER}% من القوة عندما يتلقى العدو علاوة تأثير الحالة التي تؤثر على الدفاع. لا يمكن تفعيل هذا التأثير إلا مرة واحدة في الجولة."
+"herocard.passive_skill.description.effectonstatuseffectaddition.addmana.allbuffs","تكتسب هذه الشخصية {POWER}% من القوة عندما تتلقى علاوة أو تراكمًا إيجابيًّا."
+"herocard.passive_skill.description.effectonstatuseffectaddition.addmana.alldebuffs","تكتسب هذه الشخصية {POWER}% من القوة عندما تتلقى حالة مرض أو تراكم سلبي."
+"herocard.passive_skill.description.effectonstatuseffectaddition.heal.allbuffs","تستعيد هذه الشخصية {POWER}% من الصحة عندما تتلقى علاوة أو تراكمًا إيجابيًّا."
+"herocard.passive_skill.description.effectonstatuseffectaddition.heal.alldebuffs","تستعيد هذه الشخصية {POWER}% من الصحة عندما تتلقى حالة مرض أو تراكمًا سلبيًّا."
+"herocard.passive_skill.description.effectonstatuseffectaddition.heal.fixedpower.alldebuffs","تستعيد هذه الشخصية {POWER} من نقاط الصحة عندما تتلقى حالة مرض أو تراكمًا سلبيًّا."
+"herocard.passive_skill.description.effectonstatuseffectadditionwithchance.addmana.allbuffs","لدى هذه الشخصية فرصة بنسبة {CHANCE}% لاكتساب {POWER}% من القوة عندما تتلقى علاوة أو تراكمًا إيجابيًّا."
+"herocard.passive_skill.description.effectonstatuseffectadditionwithchance.can_stack.heal.allbuffs","لدى هذه الشخصية فرصة بنسبة {CHANCE}% لاستعادة {POWER}% من الصحة عندما تتلقى علاوة أو تراكمًا إيجابيًّا."
+"herocard.passive_skill.description.effectonstatuseffectadditionwithchance.heal.allbuffs","لدى هذه الشخصية فرصة بنسبة {CHANCE}% لاستعادة {POWER}% من الصحة عندما تتلقى علاوة أو تراكمًا إيجابيًّا."
+"herocard.passive_skill.description.effectovertime.revival.neartotargetexceptcaster.allies","في كل {TURNS} من الجولات، يُعيد إحياء الحلفاء المهزومين القريبين بنسبة {POWER}% من نقاط الصحة."
+"herocard.passive_skill.description.effectovertimeperstatuseffect.addmana.fixedpower.everyturn.per.statuseffectbuffs.enemies","يكتسب قدرًا صغيرًا من القوة لكل علاوات التأثيرات على الحالة يمتلكه فريق العدو في بداية كل جولة (بحد أقصى {MAXSTATUSEFFECTCOUNT} من العلاوات)."
+"herocard.passive_skill.description.effectovertimeperstatuseffect.healthboost.neartotarget.allies.everyturn.per.poison.statuseffectdebuffs.enemies","يعزز صحة هذه الشخصية والحلفاء القريبين بمقدار {INCREMENTPERSTATUSEFFECT1}% لكل عدو يُصاب بالسم في بداية كل جولة. يمكن أن تتخطى الصحة المعززة الحد الأقصى لنقاط الصحة."
+"herocard.passive_skill.description.effectsonminionreceived.activates_on_ally_action.addmana.allies.minion","عندما يتم استدعاء تابع لأحد الحلفاء، تكتسب هذه الشخصية {POWER}% من القوة. يمكن تنشيط هذا التأثير مرة واحدة لكل جولة."
+"herocard.passive_skill.description.effectsonminionreceived.activates_on_ally_action.heal.addmana.allies.minion","عندما يتم استدعاء تابع لأي من الحلفاء، تكتسب هذه الشخصية {HEALTH}% من الصحة و{MANA}% من القوة. يمكن تنشيط هذا التأثير مرة واحدة لكل جولة."
+"herocard.passive_skill.description.effectsonparasitereceived.activates_on_enemy_action.addmana.enemies.parasite","عندما يتم استدعاء شرير لأي من الأعداء، تكتسب هذه الشخصية {POWER}% من القوة. يمكن تنشيط هذا التأثير مرة واحدة لكل جولة."
+"herocard.passive_skill.description.effectsonparasitereceived.activates_on_enemy_action.damage.all.enemies.enemies.parasite","عندما يتم استدعاء شرير لأي من الأعداء، تُلحق هذه الشخصية {DAMAGE}% من الضرر بجميع الأعداء. يمكن تنشيط هذا التأثير مرة واحدة لكل جولة."
+"herocard.passive_skill.description.effectsonparasitereceived.activates_on_enemy_action.healthboost.fixedpower.enemies.parasite","عندما يتم استدعاء شرير لأي من الأعداء، تحصل هذه الشخصية على {POWER} من الصحة المعززة. يمكن تنشيط هذا التأثير مرة واحدة لكل جولة."
+"herocard.passive_skill.description.extraactionsafterspecial","فرصة {CHANCE}% لإلقاء الحركات الإضافية عندما تُلقي هذه الشخصية مهارتها الخاصة:"
+"herocard.passive_skill.description.familiaraccuracymodifier.all.enemies.minion.bigminion","كل أتباع الأعداء يتمتعون بدقة بنسبة {MINIONMODIFIER}%.
+كل الأتباع الضخام الخاصين بالأعداء يتمتعون بدقة بنسبة {MEGAMINIONMODIFIER}%."
+"herocard.passive_skill.description.familiarcoreintrinsicchargeeffectonspecial.summonfamiliar.construct_minion_core.all.allies.always","مركز بناء هذه الشخصية مركز تابع.
+
+يتم تفعيل مركز التابع كلما يتم إلقاء مهارة هذه الشخصية الخاصة:
+
+ مع مركز تابع مشحون بالكامل، يتم استدعاء تابع آلي قاتل مع صحة بنسبة {FAMILIARHEALTHPERCENT}% وهجوم بنسبة {FAMILIARATTACK}% موروث من الملقي لكل الحلفاء.
+ يتم تحديد الصحة والهجوم الموروثين من الملقي حسب مقدار شحنة المركز. يتم استنفاد كل الشحنات عند تفعيل المركز.
+ قبل أن يصيب التابع الآلي القاتل هدفًا، يدمر كل تابعي الهدف، ويلحق الضرر بالتابعين الضخام."
+"herocard.passive_skill.description.familiarhealthmodifier.all.enemies.bigminion.decrease","الأعداء الأتباع الضخام لديهم {HEALTHMODIFIER}% نقاط صحة."
+"herocard.passive_skill.description.familiarhealthmodifier.all.enemies.minion.decrease","الأعداء الأتباع لديهم {HEALTHMODIFIER}% نقاط صحة."
+"herocard.passive_skill.description.familiarsilencer.all.enemies.bigminion","لا يمكن لأتباع العدو الضخام الهجوم أو استخدام قدراتهم."
+"herocard.passive_skill.description.familiarsilencer.all.enemies.minion.follower","لا يمكن لأتباع العدو الهجوم أو استخدام قدراتهم."
+"herocard.passive_skill.description.frost.effectondamageovertime.activates_on_enemy_action.addmana","تكتسب هذه الشخصية {POWER}% من القوة في كل مرة يتلقى فيها العدو ضرر صقيع."
+"herocard.passive_skill.description.growth","ازداد هجوم هذا البطل ودفاعه الأساسيان بمقدار {STATINCREASE} كل جولة لعدد {MAXACTIVATIONCOUNT} من الجولات."
+"herocard.passive_skill.description.guaranteedeffectonspecial","عندما تلقي هذه الشخصية مهارتها الخاصة، يتم ضمان تفعيل أي من مهاراتها الخاملة التي تمنح تأثيرات إضافية عند الإلقاء."
+"herocard.passive_skill.description.heal.all.allies","لاستعادة {HEALTH}% من الصحة لجميع الحلفاء."
+"herocard.passive_skill.description.healmodifier","{HEALMULTIPLIER}% إضافية لكل شفاء مُتلقى."
+"herocard.passive_skill.description.healmodifier.all.enemies.decrease","يحصل جميع الأعداء على {HEALMULTIPLIER}% من التعافي."
+"herocard.passive_skill.description.healmodifier.decrease","انخفاض بنسبة {HEALMULTIPLIER}% لكل شفاء مُتلقى."
+"herocard.passive_skill.description.healonheal.can_stack.heal","تتلقى هذه الشخصية {POWER}% من الصحة كل مرة تستعيد صحتها."
+"herocard.passive_skill.description.healonownfamiliardeath.minion","تستعيد هذه الشخصية {HEALTH} من الصحة عند تدمير أحد أتباعها."
+"herocard.passive_skill.description.healonownfamiliardeath.minion.healthboost","تستعيد هذه الشخصية {HEALTH} من الصحة المعززة عند تدمير أحد أتباعها"
+"herocard.passive_skill.description.healthboost.all.allies","لتعزيز صحة جميع الحلفاء بنسبة {HEALTHBOOST}%. يمكن أن تتخطى الصحة المعززة الحد الأقصى لنقاط الصحة."
+"herocard.passive_skill.description.increasedattackperelement.enemies.not.green","في بداية كل معركة، يزداد هجوم هذه الشخصية بنسبة {ATTACK}% لكل عدو لا ينتمي لعناصر الطبيعة. في المعارك ذات الموجات المتعددة، يتم تحديث التأثير في بداية كل موجة."
+"herocard.passive_skill.description.increasedattackperelement.enemies.not.green.battle","يزداد هجوم هذه الشخصية بنسبة {ATTACK}% لكل عدو على قيد الحياة، ولا ينتمي لعناصر الطبيعة. يتم تحديث التأثير في بداية كل موجة. (حاليًّا: {CURRENTMODIFIER}%)"
+"herocard.passive_skill.description.increasedattackperelement.enemies.not.red","في بداية كل معركة، يزداد هجوم هذه الشخصية بنسبة {ATTACK}% لكل عدو لا ينتمي لعنصر النار. في المعارك ذات الموجات المتعددة، يتم تحديث التأثير في بداية كل موجة."
+"herocard.passive_skill.description.increasedattackperelement.enemies.not.red.battle","يزداد هجوم هذه الشخصية بنسبة {ATTACK}% لكل عدو على قيد الحياة، ولا ينتمي لعنصر النار. يتم تحديث التأثير في بداية كل موجة. (حاليًّا: {CURRENTMODIFIER}%)"
+"herocard.passive_skill.description.increaseddamageagainstfamiliars.minion","إلحاق {DAMAGEMULTIPLIER}% أكثر من الضرر ضد التوابع."
+"herocard.passive_skill.description.increaseddamageagainstfamiliars.minion.bigminion","تتسبب هذه الشخصية {DAMAGEMULTIPLIER}% من الضرر للأتباع والأتباع الضخام."
+"herocard.passive_skill.description.increasedspecialdamageagainsttaunt.taunt","تتمتع الضربات من المهارة الخاصة لهذه الشخصية بقوة إضافية بنسبة {POWERADDITION}% إذا كان لدى الهدف استهزاء."
+"herocard.passive_skill.description.increasespecialdamage","في أول {MAXACTIVATIONCOUNT} من المرات تستخدم فيها هذه الشخصية المهارة الخاصة التي تسبب أضرارًا، تتم إضافة {POWERADDITION}% إضافية إلى قوتها."
+"herocard.passive_skill.description.increasespecialdamage.usable_once","في المرة الأولى التي تستخدم فيها هذه الشخصية المهارة الخاصة التي تسبب أضرارًا، تتم إضافة {POWERADDITION}% إضافية إلى قوتها."
+"herocard.passive_skill.description.increasespecialdamagesupportcharacter.troop","في كل مرة تلقي فيها هذه الشخصية مهارة خاصة تسبب ضررًا، تتم إضافة {POWERADDITION}% إضافية إلى قوتها."
+"herocard.passive_skill.description.insanitydamagereduction","يقل كل الضرر الذي تتلقاه هذه الشخصية بنسبة {DAMAGEREDUCTION}% لكل {DISPLAYSCALE} من الجنون لهذه الشخصية حتى حد أقصى من التقليل نسبته {MAXDAMAGEREDUCTION}%."
+"herocard.passive_skill.description.iterateeffectonspecial","عندما تلقي هذه الشخصية مهاراتها الخاصة، يصبح لدى أي من مهاراتها الخاملة التي تمنح تأثيرات إضافية عند الإلقاء {APPLYCOUNT} من الفرص للتفعيل."
+"herocard.passive_skill.description.league.featured_family","هذا البطل جزء من العائلة المميزة!"
+"herocard.passive_skill.description.league.non_featured_family","هذا البطل ليس جزءًا من العائلة المميزة!"
+"herocard.passive_skill.description.league_accuracy_modifier_against_family.decrease","{POWERMULTIPLIER}% من الدقة ضد أبطال العائلات المميزة."
+"herocard.passive_skill.description.league_heal_modifier_against_family.decrease","تتمتع عمليات التعافي التي تؤثر على أفراد العائلة المميزة بنسبة {POWERMULTIPLIER}% من التأثير."
+"herocard.passive_skill.description.league_received_damage_modifier_against_non_featured_family.decrease","{POWERMULTIPLIER}% من الضرر المتلقى من العائلات غير المتميزة."
+"herocard.passive_skill.description.manadebuffprotection","جميع أمراض الحالات والتراكمات السلبية التي تؤثر فيتوليد الطاقة سيحل محلها نسبة  {MANAREGEN}% من تأثير حالة توليد الطاقة لمدة {TURNS} من الجولات. هذا لا ينطبق على أمراض الحالات التي توقِّف توليد الطاقة أو تسرقها."
+"herocard.passive_skill.description.managenerationmodifier.all.enemies.specialskill","لخفض مقدار القوة الذي يزيد بواسطة المهارة الخاصة بنسبة {MODIFIER}%. ينطبق التأثير على جميع الأعداء في المعركة."
+"herocard.passive_skill.description.managenerationmodifier.none","{MODIFIER}% توليد قوة."
+"herocard.passive_skill.description.manaonownfamiliardeath.minion","تربح هذه الشخصية كميةً قليلةً من القوة عند تدمير أحد أتباعها."
+"herocard.passive_skill.description.memorizefamiliars.from.enemies.to.all","تتمتع هذه الشخصية بقدرة غريزية على تذكر أي تابع أو شرير يتم استدعاؤه من خلال مهارات الأعداء الخاصة. سيظل آخر تابع وشرير استدعاه الأعداء محفوظًا حتى يتم إلقاء المهارة الخاصة."
+"herocard.passive_skill.description.memorizefamiliars.from.enemies.to.all#2","تتمتع هذه الشخصية بقدرة غريزية على تذكر أي تابع أو شرير يتم استدعاؤه من خلال مهارات الأعداء الخاصة. سيظل آخر اثنين من الأتباع، والأشرار الذين استدعاهم الأعداء محفوظين حتى يتم إلقاء المهارة الخاصة."
+"herocard.passive_skill.description.memorizefamiliars.from.enemies.to.all#3","تتمتع هذه الشخصية بقدرة غريزية على تذكر أي تابع أو شرير يتم استدعاؤه من خلال مهارات الأعداء الخاصة. سيظل آخر {0} توابع وأشرار استدعاهم الأعداء محفوظين حتى يتم إلقاء المهارة الخاصة."
+"herocard.passive_skill.description.memorizestatuseffects","تتمتع هذه الشخصية بقدرة غريزية على تذكر حالات الأمراض. ستظل آخر حالات الأمراض التي تلقى على هذه الشخصية محفوظة حتى إلقاء المهارة الخاصة. لا يمكن تذكر سوى حالات الأمراض التي لها مدة."
+"herocard.passive_skill.description.memorizestatuseffects#2","تتمتع هذه الشخصية بقدرة غريزية على تذكر حالات الأمراض. سيظل آخر مرضين من أمراض الحالات التي يتم إلقاؤها على هذه الشخصية محفوظة حتى إلقاء المهارة الخاصة. لا يمكن تذكر سوى حالات الأمراض التي لها مدة."
+"herocard.passive_skill.description.memorizestatuseffects#3","تتمتع هذه الشخصية بقدرة غريزية على تذكر حالات الأمراض. ستظل آخر {0} أمراض حالات يتم إلقاؤها على هذه الشخصية محفوظة حتى إلقاء المهارة الخاصة. لا يمكن تذكر سوى حالات الأمراض التي لها مدة."
+"herocard.passive_skill.description.mimiclootonlevelcompleted.mimic_aether_blue","تمنح هذه المحاكاة فرصة للحصول على غنيمة إضافية عند إكمال المراحل:
+
+*****
+ أثير الثلج 3
+
+****
+ أثير الثلج 2
+
+***
+ أثير الثلج 1"
+"herocard.passive_skill.description.mimiclootonlevelcompleted.mimic_aether_green","تمنح هذه المحاكاة فرصة للحصول على غنيمة إضافية عند إكمال المراحل:
+
+*****
+ أثير الطبيعة 3
+
+****
+ أثير الطبيعة 2
+
+***
+ أثير الطبيعة 1"
+"herocard.passive_skill.description.mimiclootonlevelcompleted.mimic_aether_purple","تمنح هذه المحاكاة فرصة للحصول على غنيمة إضافية عند إكمال المراحل:
+
+*****
+ أثير الظلام 3
+
+****
+ أثير الظلام 2
+
+***
+ أثير الظلام 1"
+"herocard.passive_skill.description.mimiclootonlevelcompleted.mimic_aether_red","تمنح هذه المحاكاة فرصة للحصول على غنيمة إضافية عند إكمال المراحل:
+
+*****
+ أثير النار 3
+
+****
+ أثير النار 2
+
+***
+ أثير النار 1"
+"herocard.passive_skill.description.mimiclootonlevelcompleted.mimic_aether_yellow","تمنح هذه المحاكاة فرصة للحصول على غنيمة إضافية عند إكمال المراحل:
+
+*****
+ الأثير المقدس 3
+
+****
+ الأثير المقدس 2
+
+***
+ الأثير المقدس 1"
+"herocard.passive_skill.description.mimiclootonlevelcompleted.mimic_ascension_blue","يمنحك هذا المحاكي فرصة للحصول على غنيمة إضافية عند إكمال المراحل:
+
+****
+ نصلًا دمشقيًّا
+ كتاب الإستراتيجيات
+ تلسكوب بعيد النظر
+
+***
+ قفازًا جيدًا
+ بوصلة
+ عباءة دافئة
+ دليل المعركة
+ حذاءً طويلًا
+ قميصًا من الزرد
+
+**
+ حبلًا قويًّا"
+"herocard.passive_skill.description.mimiclootonlevelcompleted.mimic_ascension_epic_yellow","يمنح هذا المحاكي فرصة للحصول على غنيمة إضافية عند إكمال المراحل:
+
+***
+ نصالًا خفية
+ مدار السحر
+  درعًا متينًا
+ أداة الفخاخ
+ عباءة دافئة
+ دليل المعركة 
+ قميصًا من الزرد
+ غمدًا
+ حذاءً طويلًا
+
+**
+ مخطوطات غامضة
+ خنجر
+ درعًا من الجلد
+ حجر الشحذ
+ حبلًا قويًّا
+ واقيًا خشبيًّا
+
+*
+ عدّة المغامر
+ سيف تدريب
+ ثياب رثة"
+"herocard.passive_skill.description.mimiclootonlevelcompleted.mimic_ascension_green","يمنحك المحاكي فرصة للحصول على غنيمة إضافية عند إكمال المراحل:
+
+****
+ نصلًا دمشقيًّا
+ كتاب الإستراتيجيات
+ منشطًا غامضًا
+
+***
+ قفازًا جيدًا
+ بوصلة
+ درعًا متينًا
+ حذاءً طويلًا
+ غمدًا
+
+**
+ حبلًا قويًّا
+ خنجر"
+"herocard.passive_skill.description.mimiclootonlevelcompleted.mimic_ascension_purple","يمنحك المحاكي فرصة للحصول على غنيمة إضافية عند إكمال المراحل:
+
+****
+ نصلًا دمشقيًّا
+ كتاب الإستراتيجيات
+ سترة ملكية
+
+***
+ قفازًا جيدًا
+ بوصلة
+ أدوات الفخاخ
+ حذاءً طويلًا
+ غمدًا
+
+**
+ حبلًا قويًّا
+ خنجر"
+"herocard.passive_skill.description.mimiclootonlevelcompleted.mimic_ascension_red","يمنحك المحاكي فرصة للحصول على غنيمة إضافية عند إكمال المراحل:
+
+****
+ نصلًا دمشقيًّا
+ كتاب الإستراتيجيات
+ خواتم غامضة
+
+***
+ قفازًا جيدًا
+ بوصلة
+ نصلًا مخفيًّا
+ قميص زرد
+ حذاءً طويلًا
+
+**
+ مخطوطة غامضة"
+"herocard.passive_skill.description.mimiclootonlevelcompleted.mimic_ascension_yellow","يمنحك المحاكي فرصة للحصول على غنيمة إضافية عند إكمال المراحل:
+
+****
+ نصلًا دمشقيًّا
+ كتاب الإستراتيجيات
+ أسهمًا سامة
+
+***
+ قفازًا جيدًا
+ بوصلة
+ مدار السحر
+ قميص زرد
+ حذاءً طويلًا
+
+**
+ مخطوطة غامضة"
+"herocard.passive_skill.description.mimiclootonlevelcompleted.mimic_emblem_blue","يمنح هذا المحاكي فرصة للحصول على غنائم إضافية عند إكمال المراحل:
+
+*****
+ رموز المشعوذ الرئيسية
+ رموز الساحر الرئيسية
+
+****
+ رموز المشعوذ
+ رموز الساحر"
+"herocard.passive_skill.description.mimiclootonlevelcompleted.mimic_emblem_green","يمنح هذا المحاكي فرصة للحصول على غنائم إضافية عند إكمال المراحل:
+
+*****
+ رموز بالادن الرئيسية
+ رموز الكاهن الرئيسية
+
+****
+ رموز بالادين
+ رموز الكاهن"
+"herocard.passive_skill.description.mimiclootonlevelcompleted.mimic_emblem_purple","يمنح هذا المحاكي فرصة للحصول على غنائم إضافية عند إكمال المراحل:
+
+*****
+ رموز المحتال الرئيسية
+ رموز الحارس الجوال الرئيسية
+
+****
+ رموز المحتال
+ رموز الحارس الجوال"
+"herocard.passive_skill.description.mimiclootonlevelcompleted.mimic_emblem_red","يمنح هذا المحاكي فرصة للحصول على غنائم إضافية عند إكمال المراحل:
+
+*****
+ رموز المقاتل الرئيسية
+ رموز البربري الرئيسية
+
+****
+ رموز المقاتل
+ رموز البربري"
+"herocard.passive_skill.description.mimiclootonlevelcompleted.mimic_emblem_yellow","يمنح هذا المحاكي فرصة للحصول على غنائم إضافية عند إكمال المراحل:
+
+*****
+ الرموز الإكليركية الرئيسية
+ رموز الراهب الرئيسية
+
+****
+ الرموز الإكليركية
+ رموز الراهب"
+"herocard.passive_skill.description.mimiclootonlevelcompleted.mimic_experience_rare_red","يمنح هذا المحاكي فرصة للحصول على غنيمة إضافية عند إكمال المراحل:
+
+**
+أبطال النار والطبيعة والصقيع والظلام والمقدسين غير العاديين
+
+*
+أبطال المدرب الرئيسي العادي
+أبطال النار والطبيعة والصقيع والظلام والمقدسين العاديين"
+"herocard.passive_skill.description.mimiclootonlevelcompleted.mimic_training_hero_blue","يمنح هذا المُحاكي فرصة للحصول على غنائم إضافية عند إكمال المراحل:
+
+***
+أبطال مدرب الثلج النادرين
+
+**
+أبطال مدرب الثلج غير العاديين
+أبطال الثلج غير العاديين
+
+*
+أبطال مدرب الثلج العاديين
+أبطال الثلج العاديين"
+"herocard.passive_skill.description.mimiclootonlevelcompleted.mimic_training_hero_green","يمنح هذا المحاكي فرصة للحصول على غنائم إضافية عند إكمال المراحل:
+
+***
+أبطال مدرب الطبيعة النادرين
+
+**
+أبطال مدرب الطبيعة غير العاديين
+أبطال الطبيعة غير العاديين
+ 
+*
+أبطال مدرب الطبيعة العاديين
+أبطال الطبيعة العاديين"
+"herocard.passive_skill.description.mimiclootonlevelcompleted.mimic_training_hero_purple","يمنح هذا المحاكي فرصة للحصول على غنائم إضافية عند إكمال المراحل:
+
+***
+أبطال مدرب الظلام النادرين
+
+**
+أبطال مدرب الظلام غير العاديين
+أبطال الظلام غير العاديين
+ 
+*
+أبطال الظلام العاديين
+أبطال مدرب  الظلام العاديين"
+"herocard.passive_skill.description.mimiclootonlevelcompleted.mimic_training_hero_red","يمنح هذا المحاكي فرصة للحصول على غنائم إضافية عند إكمال المراحل:
+
+***
+أبطال مدرب النار النادرين
+
+**
+أبطال مدرب النار غير العاديين
+أبطال النار غير العاديين
+
+*
+أبطال مدرب النار العاديين
+أبطال النار العاديين"
+"herocard.passive_skill.description.mimiclootonlevelcompleted.mimic_training_hero_yellow","يمنح هذا المحاكي فرصة للحصول على غنائم إضافية عند إكمال المراحل:
+
+***
+أبطال المدرب المقدس النادرين
+
+**
+أبطال المدرب المقدس غير العاديين
+الأبطال المقدسون غير العاديين
+
+*
+أبطال المدرب المقدس العاديين
+الأبطال المقدسون العاديون"
+"herocard.passive_skill.description.nevermissspecial","لا تفوت المهارة الخاصة لهذه الشخصية أهدافها أبدًا."
+"herocard.passive_skill.description.ransack","في بداية كل دور، تؤدي هذه الشخصية نهب عدو عشوائي:
+
+تسرق {DAMAGE} من الصحة.
+تسرق تأثيرًا إيجابيًّا، أو تأثير نمو، أو علاوة تراكم إيجابية من العدو؛ بما في ذلك العلاوات غير القابلة للتبديد وتأثيرات الرقص."
+"herocard.passive_skill.description.ransack.chance","في بداية كل دور، تتمتع هذه الشخصية بفرصة باحتمال {CHANCE}% في نهب عدو عشوائي:
+
+النهب:
+تسرق {DAMAGE} من الصحة.
+تسرق تأثير نمو عشوائي، أو تراكم إيجابي، أو علاوة تأثير الحالة من العدو. يتضمن ذلك التعزيزات غير القابلة للإزالة، وتأثيرات الرقص.
+تتجاوز السرقة الآمنة التأثيرات الثانوية مثل الضرر عند الإزالة من التعزيزات المُزالة. يمكن أن تظل المهارات الخاملة وتأثيرات العائلة مفعّلة."
+"herocard.passive_skill.description.reallocatestatuseffectonspecialcast.damage.all.enemies.minorbuff.newest","عندما تُلقي هذه الشخصية مهارتها الخاصة، فإن لها فرصة {CHANCE}% لسرقة العلاوة الأحدث القابلة للتبديد  من عدو عشوائي يملك علاوات. إذا لم يملك أي عدو علاوات، فإنها تسبب ضررًا بنسبة {DAMAGE}% لجميع الأعداء."
+"herocard.passive_skill.description.reallocatestatuseffectonspecialcast.damage.all.enemies.minorbuff.newest.randomenemytarget","عندما تُلقي هذه الشخصية مهارتها الخاصة، فإن لها فرصة {CHANCE}% لسرقة العلاوة الأحدث القابلة للتبديد  من عدو عشوائي يملك علاوات. إذا لم يملك أي عدو علاوات، فإنها تسبب ضررًا بنسبة {DAMAGE}% لجميع الأعداء."
+"herocard.passive_skill.description.reallocatestatuseffectonspecialcast.heal.always.minordebuff.newest","عندما تُلقي هذه الشخصية مهاراتها الخاصة، فإنها تنقل أحدث الأمراض القابلة للعلاج من نفسها إلى الهدف. إذا لم تستطع المهارة الخاصة استهداف عدو، فسيتم اختيار عدو عشوائي بدلاً من ذلك. إذا لم يكن لهذه الشخصية أمراض يمكن علاجها، فإنها تستعيد {HEALTH}% من نقاط الصحة."
+"herocard.passive_skill.description.receivedstrongelementsupportcharacterdamage","يتلقى هذا البطل ضرر عناصر أقل من القوات ذات العنصر الأقوى.
+
+ضرر العناصر المتلقى: -{MODIFIER}%"
+"herocard.passive_skill.description.receivedstrongelementsupportcharacterdamage.combined","تلقي ضرر عناصر أقل بنسبة {MODIFIER}% من قوات العنصر الأقوى."
+"herocard.passive_skill.description.receivedstrongelementsupportcharacterdamage.increase.dragon","تلقي ضرر عناصر أكبر بنسبة {MODIFIER}% من الكرات النارية للعنصر الأقوى."
+"herocard.passive_skill.description.redirectlethaldamage.enemies.single","في المرة الأولى التي تتلقّى فيها هذه الشخصية ضررًا قاتلًا، تُحوِّل ذلك الضرر إلى عدو عشوائي  بدلًا من ذلك.
+
+في المعارك التي تتكوّن من عدّة موجات، يُعاد تفعيل هذا التأثير في بداية كل موجة."
+"herocard.passive_skill.description.redirectlethaldamage.enemies.single.battle","في المرة الأولى التي تتلقى فيها هذه الشخصية ضررًا قاتلًا، تُحوِّل ذلك الضرر إلى عدو عشوائي بدلًا من ذلك. (عمليات التفعيل المتبقية: {ACTIVATIONSLEFT})"
+"herocard.passive_skill.description.reflectstatuseffect.with_chance","فرصة إضافية بنسبة {CHANCE}% لتعكس الأمراض إلى المهاجم."
+"herocard.passive_skill.description.removebasestatmodifiers.removenegative.from.all.allies","كل {TURNS} من الجولات، تُزال كل تأثيرات التلف من جميع الحلفاء."
+"herocard.passive_skill.description.removebasestatmodifiers.removepositive.from.all.enemies","كل {TURNS} من الجولات، تُزال كل تأثيرات النمو من جميع الأعداء."
+"herocard.passive_skill.description.repaircoreintrinsicchargeeffectonspecial.healthboost.all.allies.always","مركز بناء هذه الشخصية هو مركز الإصلاح.
+
+يُفعل مركز الإصلاح في كل مرة تُلقى المهارة الخاصة لهذه الشخصية:
+
+ عند شحن مركز الإصلاح بالكامل، تتعزز صحة كل الحلفاء بنسبة {CHARGEDPOWER1}%. 
+ يُقاس التعافي حسب مقدار الشحن في المركز. يُستهلك كل الشحن عند تفعيل المركز."
+"herocard.passive_skill.description.repeatspecial","توجد فرصة بنسبة {REPEATCHANCE}% لإلقاء المهارة الخاصة لهذا البطل {REPEATS} من المرات."
+"herocard.passive_skill.description.resist.accuracymodifiers","هذه الشخصية محصنة ضد حالات الأمراض التي تؤثر في الدقة. لا ينطبق ذلك على تأثيرات الحالة الأصلية من الحلفاء."
+"herocard.passive_skill.description.resist.alldebuffs.alldebuffs","هذه الشخصية محصنة ضد حالات الأمراض والتراكمات السلبية."
+"herocard.passive_skill.description.resist.alldebuffs.buffdispels.with_chance","فرصة إضافية بنسبة {CHANCE}% لمقاومة كل أمراض الحالات، وتبديد العلاوة."
+"herocard.passive_skill.description.resist.alldebuffs.manareduction.buffdispels.attackwither.defensewither.alldebuffs.with_chance","فرصة إضافية بنسبة {CHANCE}% لمقاومة كل أمراض الحالات، وتقليل القوة، وتبديد العلاوة، وتأثيرات التلف."
+"herocard.passive_skill.description.resist.alldebuffs.manareduction.buffdispels.insanity.with_chance","فرصة إضافية بنسبة {CHANCE}% لمقاومة كل حالات الأمراض، وتقليل القوة، وتبديد العلاوة، والجنون."
+"herocard.passive_skill.description.resist.alldebuffs.manareduction.buffdispels.with_chance","فرصة إضافية بنسبة {CHANCE}% لمقاومة كل أمراض الحالات، وتقليل القوة، وتبديد العلاوة."
+"herocard.passive_skill.description.resist.alldebuffs.with_chance","فرصة إضافية بنسبة {CHANCE}% لمقاومة كل أمراض الحالة."
+"herocard.passive_skill.description.resist.alldefensemodifiers.alldebuffs","هذه الشخصية منيعة ضد حالات الأمراض التي تؤثر في الدفاع. ينطبق ذلك أيضًا على حالات الأمراض التي تؤثر في دفاع العناصر."
+"herocard.passive_skill.description.resist.alldefensemodifiers.defensewither.alldebuffs","هذه الشخصية محصنة ضد حالات الأمراض، والتراكمات، وتأثيرات التلف التي تؤثر في الدفاع."
+"herocard.passive_skill.description.resist.alldefensemodifiers.defensewither.allstatuseffects","لا تتأثر هذه الشخصية بالتأثيرات التي تزيد أو تقلل الدفاع.
+
+وذلك يشمل علاوات التأثيرات على الحالة والأمراض، والتراكمات الإيجابية والسلبية، بالإضافة إلى تأثيرات التلف والنمو."
+"herocard.passive_skill.description.resist.alldefensemodifiers.defensewither.defensegrowth.allstatuseffectsandstacks","لا تتأثر هذه الشخصية بالتأثيرات التي تزيد أو تقلل من الدفاع.
+
+يشمل هذا
+ علاوات التأثيرات على الحالة والأمراض
+ التراكمات الإيجابية والسلبية
+ تأثيري النمو والتلف"
+"herocard.passive_skill.description.resist.alldefensemodifiersincludingwither.allstatuseffects","لا تتأثر هذه الشخصية بالتأثيرات التي تزيد أو تقلل الدفاع.
+
+وذلك يشمل علاوات التأثيرات على الحالة والأمراض، والتراكمات الإيجابية والسلبية، بالإضافة إلى تأثيرات التلف والنمو."
+"herocard.passive_skill.description.resist.allmanaeffects.alldebuffs","هذه الشخصية محصنة ضد حالات الأمراض والتراكمات السلبية التي تؤثر في توليد القوة. ينطبق ذلك أيضًا على حالات الأمراض التي تعيق القوة، أو تسرق القوة."
+"herocard.passive_skill.description.resist.allstatuseffectdamage.none","هذه الشخصية محصنة ضد الأضرار الناتجة من تأثيرات الحالة."
+"herocard.passive_skill.description.resist.attackdelay","لا يمكن تأخير الهجوم العادي لهذه الشخصية."
+"herocard.passive_skill.description.resist.attackdelay.alldebuffs","لا يمكن تأخير الهجوم العادي لهذه الشخصية."
+"herocard.passive_skill.description.resist.attackmodifiers","هذه الشخصية محصنة ضد حالات الأمراض التي تؤثر في الهجوم."
+"herocard.passive_skill.description.resist.attackmodifiers.allstatuseffectsandstacks","هذه الشخصية محصنة ضد جميع تأثيرات الحالة والتراكمات التي تؤثر في الهجوم. يشمل هذا علاوات التأثير على الحالة."
+"herocard.passive_skill.description.resist.attackmodifiers.attackwither.alldebuffs","هذه الشخصية محصنة ضد حالات الأمراض، والتراكمات، وتأثيرات التلف التي تؤثر في الهجوم."
+"herocard.passive_skill.description.resist.bleed","هذه الشخصية محصنة ضد حالات الأمراض التي تلحق ضرر النزيف."
+"herocard.passive_skill.description.resist.bleed.with_effect.healthboost.addmana","هذه الشخصية محصنة ضد الحالات المرضية التي تُلحق ضرر النزيف، وتكتسب صحة معززة بمقدار {HEALTHBOOST}، ونسبة {MANA}% من القوة في كل مرة تقاوم فيها."
+"herocard.passive_skill.description.resist.buffdispels","هذه الشخصية محصنة ضد التأثيرات التي تبدد تعزيزات تأثيرات الحالة."
+"herocard.passive_skill.description.resist.buffdispels.none.with_chance","احتمالية إضافية بنسبة {CHANCE}% لمقاومة تبديد العلاوات."
+"herocard.passive_skill.description.resist.buffimmunity","هذه الشخصية محصنة ضد التأثيرات التي تمنع تلقي تعزيزات تأثيرات الحالة الجديدة."
+"herocard.passive_skill.description.resist.burn","هذه الشخصية محصنة ضد حالات الأمراض التي تلحق ضرر الاحتراق."
+"herocard.passive_skill.description.resist.burn.with_effect.healthboost.addmana","هذه الشخصية محصنة ضد ضرر الحرق، وتكتسب صحة معززة بمقدار {HEALTHBOOST}، ونسبة {MANA}% من القوة في كل مرة تقاوم فيها."
+"herocard.passive_skill.description.resist.can_stack.alldebuffs","هذه الشخصية محصنة ضد حالات الأمراض."
+"herocard.passive_skill.description.resist.can_stack.alldebuffs.with_chance","فرصة إضافية بنسبة {CHANCE}% لمقاومة كل أمراض الحالات."
+"herocard.passive_skill.description.resist.criticalhits.none","هذه الشخصية منيعة ضد الضرر الإضافي والتأثيرات الإضافية من الضربات الحرجة."
+"herocard.passive_skill.description.resist.defensemodifierdebuffs","هذه الشخصية محصنة ضد حالات الأمراض التي تؤثر في الدفاع. ينطبق ذلك أيضًا على حالات الأمراض التي تؤثر في دفاع العناصر."
+"herocard.passive_skill.description.resist.defensemodifiers.alldebuffs","هذه الشخصية محصنة ضد حالات الأمراض والتراكمات السلبية التي تؤثر في الدفاع. ينطبق ذلك أيضًا على حالات الأمراض التي تؤثر في دفاع العناصر."
+"herocard.passive_skill.description.resist.familiarremoval.familiarsilence.familiarreceivingblocking.minion"," حصانة ضد التأثيرات التي تزيل التابعين.
+ لا يمكن المنع من تلقي التابعين.
+ لا يمكن تعطيل هجمات التابعين والقدرات."
+"herocard.passive_skill.description.resist.frost","هذه الشخصية محصنة ضد حالات الأمراض التي تلحق ضرر الصقيع."
+"herocard.passive_skill.description.resist.frost.with_effect.healthboost.addmana","هذه الشخصية منيعة ضد الصقيع، وتكتسب صحة معززة بمقدار {HEALTHBOOST}، ونسبة {MANA}% من القوة في كل مرة تقاوم فيها."
+"herocard.passive_skill.description.resist.healeffects","هذه الشخصية محصنة ضد حالات الأمراض التي تؤثر في الشفاء."
+"herocard.passive_skill.description.resist.healthsteal","هذه الشخصية محصنة ضد حالات الأمراض التي تسرق الصحة."
+"herocard.passive_skill.description.resist.insanity.permanentstatuseffects","هذه الشخصية محصنة ضد الجنون."
+"herocard.passive_skill.description.resist.manadebuffs","هذه الشخصية محصنة ضد حالات الأمراض التي تؤثر في القوة."
+"herocard.passive_skill.description.resist.manaeffectsandspecialblocking","هذه الشخصية محصنة ضد أمراض الحالات التي تؤثر في توليد القوة، أو تمنع استخدام المهارات الخاصة."
+"herocard.passive_skill.description.resist.manaeffectsandspecialblocking.with_chance","تتمتع هذه الشخصية بفرصة {CHANCE}% لمقاومة أمراض الحالات التي تؤثر على القوة أو تمنع استخدام المهارات الخاصة."
+"herocard.passive_skill.description.resist.managenerationmodifiers.alldebuffs","هذه الشخصية محصنة ضد حالات الأمراض والتراكمات السلبية التي تؤثر في  توليد القوة. لا ينطبق هذا على حالات الأمراض التي توقف توليد القوة أو تسرق القوة."
+"herocard.passive_skill.description.resist.manareduction","هذه الشخصية محصنة ضد تخفضيات القوة."
+"herocard.passive_skill.description.resist.manareduction.alldebuffs.with_chance","احتمالية إضافية بنسبة {CHANCE}% لمقاومة خفض القوة."
+"herocard.passive_skill.description.resist.manareduction.none.with_effect.healthboost.addmana","هذه الشخصية محصنة ضد خفض القوة، وتكتسب {HEALTHBOOST} من الصحة المعززة، و{MANA}% من القوة في كل مرة تقاوم فيها."
+"herocard.passive_skill.description.resist.maxhealthreduction","هذه الشخصية محصنة ضد تخفيض الصحة القصوى."
+"herocard.passive_skill.description.resist.poison","هذه الشخصية محصنة ضد حالات الأمراض التي تلحق ضرر السم."
+"herocard.passive_skill.description.resist.poison.burn.bleed","هذه الشخصية محصنة ضد حالات الأمراض التي تلحق ضرر السم، أو الاحتراق، أو النزيف."
+"herocard.passive_skill.description.resist.possession.allstatuseffects","هذه الشخصية محصنة ضد تأثيرات الحالة التي تستحوذ على الشخصية."
+"herocard.passive_skill.description.resist.sand","هذه الشخصية محصنة ضد حالات الأمراض التي تلحق ضرر الرمال."
+"herocard.passive_skill.description.resist.specialblocking","هذه الشخصية محصنة ضد حالات الأمراض التي تمنع استخدام المهارات الخاصة."
+"herocard.passive_skill.description.resist.specialblocking.with_chance","تتمتع هذه الشخصية بفرصة {CHANCE}% لمقاومة أمراض الحالات التي تمنع استخدام المهارات الخاصة."
+"herocard.passive_skill.description.resist.specialblocking.with_effect.healthboost.addmana","هذه الشخصية محصنة ضد حالات الأمراض التي تمنع استخدام المهارات الخاصة. وتكتسب {HEALTHBOOST} من الصحة المعززة، و{MANA}% من القوة في كل مرة تقاوم فيها."
+"herocard.passive_skill.description.resist.stopmanageneration","هذه الشخصية محصنة ضد تأثيرات الحالة التي توقف توليد القوة."
+"herocard.passive_skill.description.resist.water","هذه الشخصية محصنة ضد حالات الأمراض التي تلحق ضرر الماء."
+"herocard.passive_skill.description.resistdebuffsfromfamiliars.minion","هذه الشخصية محصنة ضد حالات الأمراض الناتجة من التابعين."
+"herocard.passive_skill.description.resistfamiliarremoval.minion.bigminion","هذه الشخصية محصنة ضد التأثيرات التي تزيل التابعين منها."
+"herocard.passive_skill.description.resistnegativefamiliareffects.minion","هذه الشخصية محصنة ضد التأثيرات السلبية والضرر الناتج من التابعين."
+"herocard.passive_skill.description.resistnegativefamiliareffects.minion.bigminion","هذه الشخصية محصنة ضد التأثيرات السلبية والضرر الناتج من التابعين الضخام."
+"herocard.passive_skill.description.resistnewfamiliars.parasite","لا يمكن لهذه الشخصية استقبال الأشرار."
+"herocard.passive_skill.description.resistnewfamiliars.parasite.bigparasite","لا يمكن لهذه الشخصية استقبال الأشرار، أو الأشرار الضخام"
+"herocard.passive_skill.description.resistsupportcharacter.troop.alldebuffs.with_chance","فرصة إضافية بنسبة {CHANCE}% لمقاومة كل أمراض الحالات."
+"herocard.passive_skill.description.revivalchancemodifier.all.enemies","خُفضت فرصة الإحياء لجميع الأعداء في المعركة. صارت الفرصة {MODIFIER}% من القيمة الأصلية."
+"herocard.passive_skill.description.revivalhealthmodifier.all.enemies.excluding.boss","يُعاد إحياء الأعداء، باستثناء الزعماء، بنسبة {HEALTHMODIFIER}% من الصحة."
+"herocard.passive_skill.description.reviveinalternativeformwithinsanitychance","عند هزيمتها، تتمتع هذه الشخصية بفرصة للعودة إلى الحياة باعتبارها مضيف الشعوذة. تعتمد الفرصة على {CHANCEINCREASEPERSTEP}% لكل {INSANITYPERSTEP} من الجنون لدى هذه الشخصية، بحد أقصى قدره {MAXCHANCEINCREASE}%. وإذا هزمت هذه الشخصية نفسها عند تفعيل الجنون، تكون الفرصة {CHANCEONSELFCAUSEDDEATH}%.
+
+يتمتع مضيف الشعوذة بنسبة:
+{INHERITEDHEALTH}% من الصحة الموروثة.
+{ATTACK} من الهجوم.
+{DEFENSE} من الدفاع.
+المهارة الخاصة: لعنة الشعوذة."
+"herocard.passive_skill.description.reviveinalternativeformwithinsanitychance_temp","عند هزيمتها، تتمتع هذه الشخصية بفرصة للعودة إلى الحياة باعتبارها مضيف الشعوذة. تعتمد الفرصة على {CHANCEINCREASEPERSTEP}% لكل {INSANITYPERSTEP} من الجنون لدى هذه الشخصية، بحد أقصى قدره {MAXCHANCEINCREASE}%.
+
+يتمتع مضيف الشعوذة بنسبة:
+{INHERITEDHEALTH}% من الصحة الموروثة.
+{ATTACK} من الهجوم.
+{DEFENSE} من الدفاع.
+المهارة الخاصة: لعنة الشعوذة. إذا هزمت هذه الشخصية نفسها عند تفعيل الجنون، فإن فرصة إعادة الإحياء دائمًا تكون {CHANCEONSELFCAUSEDDEATH}%."
+"herocard.passive_skill.description.revivewithchance.healthrecoverymultiplier.manarecoverymultiplier.activationreducedchance","عند الهزيمة، تتمتع هذه الشخصية بفرصة بنسبة {TOTALCHANCE}% لإعادة الإحياء في بداية الجولة التالية مع {HEALTH}% من الصحة و{MANA}% من القوة. 
+
+يتم التنشيط حتى {MAXACTIVATIONCOUNT} من المرات. تقل فرصة إعادة الإحياء عند كل تنشيط. لا يمكن منع ذلك بأمراض الحالات أو المهارات الخاملة."
+"herocard.passive_skill.description.setstatuseffectdurationonaddition.all.allies.activates_on_ally_action.alldebuffs.dance","كل الأغاني التي يغنيها الأعداء لا تدوم إلا لمدة {TURNS} من الأدوار."
+"herocard.passive_skill.description.setstatuseffectdurationonaddition.single.enemies.activates_on_enemy_action.allbuffs.dance","كل الرقصات التي يؤديها الأعداء لا تدوم إلا لمدة {TURNS} من الأدوار."
+"herocard.passive_skill.description.sharereceiveddamage","تتلقى هذه الشخصية نسبة {SHAREDDAMAGEPORTION}% من الضرر وتتشاركها مع الحلفاء الآخرين."
+"herocard.passive_skill.description.specialdamagereduction","يتم تقليل الضرر الملحق بنسبة {DAMAGEREDUCTION}% للمرات {MAXACTIVATIONCOUNT} الأولى التي تتلقى فيها هذه الشخصية الضرر من المهارات الخاصة."
+"herocard.passive_skill.description.specialdamagereduction.chance","هذه الشخصية لديها فرصة {CHANCE}% لتقليل الضرر المباشر المُتلقى من المهارات الخاصة إلى 1."
+"herocard.passive_skill.description.specialdamagereductionsupportcharacter.troop","يتم تقليل الضرر الناجم عن المهارات الخاصة بنسبة {DAMAGEREDUCTION}% لهذه الشخصية."
+"herocard.passive_skill.description.startbattlewitheffect.addmana","تتلقى هذه الشخصية {MANA}% من القوة في بداية المعركة."
+"herocard.passive_skill.description.statmodifier.attack","{ATTACKMULTIPLIER}% من الهجوم."
+"herocard.passive_skill.description.statmodifier.defense","{DEFENSEMULTIPLIER}% من الدفاع."
+"herocard.passive_skill.description.statmodifier.health","{HEALTHMULTIPLIER}% من نقاط الصحة."
+"herocard.passive_skill.description.statmodifier.health.attack","{HEALTHMULTIPLIER}% صحة، {ATTACKMULTIPLIER}% هجوم."
+"herocard.passive_skill.description.statmodifier.health.defense","{HEALTHMULTIPLIER}%صحة، {DEFENSEMULTIPLIER}%  دفاع."
+"herocard.passive_skill.description.statmodifier.health.defense.attack","{HEALTHMULTIPLIER}% صحة، {DEFENSEMULTIPLIER}% دفاع، {ATTACKMULTIPLIER}% هجوم."
+"herocard.passive_skill.description.statuseffectattackmodifier.addition","تأثيرات الحالة التي تزيد الهجوم تصبح أكثر تأثيرًا بنسبة {MODIFIER}% لهذه الشخصية."
+"herocard.passive_skill.description.statuseffectattackmodifier.all.allies.reduction","لخفض تأثير أمراض الحالات التي تؤثر على الهجوم بنسبة {MODIFIER}%. يسري التأثير على هذه الشخصية وجميع حلفائها في المعركة."
+"herocard.passive_skill.description.statuseffectattackmodifier.reduction","أمراض الحالات التي تقلل الهجوم تصبح أقل تأثيرًا بنسبة {MODIFIER}% ضد هذه الشخصية."
+"herocard.passive_skill.description.statuseffectattackmodifiersupportcharacter.troop.addition","تأثيرات الحالة التي تزيد الهجوم تصبح أكثر تأثيرًا بنسبة {MODIFIER}% لهذه الشخصية."
+"herocard.passive_skill.description.statuseffectattackmodifiersupportcharacter.troop.reduction","أمراض الحالات التي تقلل الهجوم تصبح أقل تأثيرًا بنسبة {MODIFIER}% ضد هذه الشخصية."
+"herocard.passive_skill.description.statuseffectdefensemodifier.addition","تأثيرات الحالة التي تزيد الدفاع تصبح أكثر تأثيرًا بنسبة {MODIFIER}% لهذه الشخصية."
+"herocard.passive_skill.description.statuseffectdefensemodifier.all.allies.reduction","تخفض تأثير أمراض الدفاع بنسبة {MODIFIER}%. يسري التأثير على هذه الشخصية وجميع حلفائها في المعركة."
+"herocard.passive_skill.description.statuseffectdefensemodifier.reduction","أمراض الحالات التي تقلل الدفاع تصبح أقل تأثيرًا بنسبة {MODIFIER}% ضد هذا العدو."
+"herocard.passive_skill.description.statuseffectdefensemodifiersupportcharacter.troop.addition","تأثيرات الحالة التي تزيد الدفاع تصبح أكثر تأثيرًا بنسبة {MODIFIER}% لهذه الشخصية."
+"herocard.passive_skill.description.statuseffectdefensemodifiersupportcharacter.troop.reduction","أمراض الحالات التي تقلل الدفاع تصبح أقل تأثيرًا بنسبة {MODIFIER}% ضد هذا العدو."
+"herocard.passive_skill.description.statuseffectdurationmodifier.decrease.minordebuff.majordebuff","تقل مدة أول {MAXACTIVATIONCOUNT} من حالات الأمراض التي تتلقاها هذه الشخصية من المهارات الخاصة بمعدل {DURATIONMODIFIER} جولة."
+"herocard.passive_skill.description.statuseffectdurationmodifier.decrease.minordebuff.majordebuff.defensemodifier.no_limit","تقل مدة أمراض حالة الدفاع التي تتلقاها هذه الشخصية من المهارات الخاصة بمعدل {DURATIONMODIFIER} من الجولات."
+"herocard.passive_skill.description.statuseffectdurationmodifier.increase.minorbuff.majorbuff","تزيد مدة أول {MAXACTIVATIONCOUNT} من التعزيزات التي تتلقاها هذه الشخصية من المهارات الخاصة بمعدل {DURATIONMODIFIER} جولة."
+"herocard.passive_skill.description.statuseffectoncleanse.single.enemies","عند تطهير هذا البطل من مرض الحالة، يُصاب عدو عشوائي بنسخة جديدة من هذا المرض المُطّهَر."
+"herocard.passive_skill.description.statuseffectonspecialcast.major.all.allies.softskin","في كل مرة يلقي فيها هذا المزراب مهارة خاصة، يتلقى جميع الحلفاء بشرة ناعمة. في المرات الـ{MAXACTIVATIONS} التالية التي يتلقون فيها ضررًا، يقل الضرر بنسبة {DAMAGEREDUCTION}%، ولديهم كذلك حصانة ضد جميع حالات الأمراض وحالات خفض القوة والجنون. لا يمكن إبطال هذا التأثير."
+"herocard.passive_skill.description.statuseffectonspecialcast.major.single.allies.softskin","في كل مرة يلقي فيها هذا المزراب مهارة خاصة، يتم تنشيط بشرته الناعمة. في المرات الـ{MAXACTIVATIONS} التالية التي يتلقى فيها ضررًا، يقل الضرر بنسبة {DAMAGEREDUCTION}%، ولديهم كذلك حصانة ضد جميع حالات الأمراض، وحالات خفض القوة والجنون. لا يمكن إبطال هذا التأثير."
+"herocard.passive_skill.description.statuseffectonspecialcast.major.single.allies.stone","في كل مرة يلقي فيها هذا المزراب مهارة خاصة، تتصلب بشرته الحجرية. خلال المرات {MAXHITS} التالية التي يتلقى فيها ضررًا، يقل إلى 1. لا يمكن حذف هذا التأثير."
+"herocard.passive_skill.description.statuseffectonspecialcast.minor.single.allies.attackmodifierfrompassiveskill","عندما تلقي هذه الشخصية مهارتها الخاصة، فإنها تحصل على ما مقداره {ATTACK}% هجوم لعدد {TURNS}من الجولات. يمكن أن يكون هذا التأثير نشطًا بالإضافة إلى تأثيرات أخرى تتداخل مع الهجوم."
+"herocard.passive_skill.description.statuseffectselection.usable_once.select_element_status_effect","مرة واحدة لكل معركة، يمكن تغيير عنصر البطل هذا بعنصر من اختيارك طوال {TURNS} من الجولات. يمكن تغيير العنصر؛ من خلال النقر على هذا البطل عندما لا يتمتع بالقوة الكاملة."
+"herocard.passive_skill.description.summonfamiliarperturn.evolving_seedling_parasite.enemies","يستدعي شرير بذرة كل جولة إلى عدو عشوائي.
+يتطور الشرير البذرة ليصبح شريرًا برعمًا بعد {EVOLVINGFAMILIAR1EVOLVETURNS} من الجولات.
+يتطور الشرير البرعم إلى شرير ضخم مزدهر بعد {EVOLVINGFAMILIAR2EVOLVETURNS} من الجولات.
+
+الشرير البذرة: 
+{EVOLVINGFAMILIAR1ATTACK}% من الهجوم، {EVOLVINGFAMILIAR1HEALTH}% من الصحة.
+
+الشرير البرعم: 
+{EVOLVINGFAMILIAR2ATTACK}% من الهجوم {EVOLVINGFAMILIAR2HEALTH}% من الصحة.
+
+الشرير الضخم المزدهر: 
+{EVOLVINGFAMILIAR3ATTACK}% من الهجوم {EVOLVINGFAMILIAR3HEALTH}% من الصحة."
+"herocard.passive_skill.description.summonfamiliarperturn.evolving_seedling_parasite.enemies.sharedonceperturn","يستدعي شرير بذرة كل جولة إلى عدو عشوائي. يتم تنشيط هذه المهارة الخاملة مرة واحدة فقط في كل دورة لكل فريق.
+يتطور الشرير البذرة ليصبح شريرًا برعمًا بعد {EVOLVINGFAMILIAR1EVOLVETURNS} من الجولات.
+يتطور الشرير البرعم إلى شرير ضخم مزدهر بعد {EVOLVINGFAMILIAR2EVOLVETURNS} من الجولات.
+
+الشرير البذرة:
+{EVOLVINGFAMILIAR1ATTACK}% من الهجوم، {EVOLVINGFAMILIAR1HEALTH}% من الصحة.
+
+الشرير البرعم:
+{EVOLVINGFAMILIAR2ATTACK}% من الهجوم {EVOLVINGFAMILIAR2HEALTH}% من الصحة.
+
+الشرير الضخم المزدهر:
+{EVOLVINGFAMILIAR3ATTACK}% من الهجوم {EVOLVINGFAMILIAR3HEALTH}% من الصحة."
+"herocard.passive_skill.description.summononownerdeath.slime_big_minion_blue.neartotargetexceptcaster.allies","عندما تتعرض هذه الشخصية للهزيمة، ستستدعي أتباع السلايم الضخام إلى الحلفاء المجاورين، بصحة قدرها {FAMILIARHEALTHPERCENT}%، وهجوم قدره {FAMILIARATTACK}% مَوروثَين من هذه الشخصية."
+"herocard.passive_skill.description.summononownerdeath.slime_big_minion_green.neartotargetexceptcaster.allies","عندما تتعرض هذه الشخصية للهزيمة، ستستدعي أتباع السلايم الضخام إلى الحلفاء المجاورين، بصحة قدرها {FAMILIARHEALTHPERCENT}%، وهجوم قدره {FAMILIARATTACK}% مَوروثَين من هذه الشخصية."
+"herocard.passive_skill.description.summononownerdeath.slime_big_minion_purple.neartotargetexceptcaster.allies","عندما تتعرض هذه الشخصية للهزيمة، ستستدعي أتباع السلايم الضخام إلى الحلفاء المجاورين، بصحة قدرها {FAMILIARHEALTHPERCENT}%، وهجوم قدره {FAMILIARATTACK}% مَوروثَين من هذه الشخصية."
+"herocard.passive_skill.description.summononownerdeath.slime_big_minion_red.neartotargetexceptcaster.allies","عندما تتعرض هذه الشخصية للهزيمة، ستستدعي أتباع السلايم الضخام إلى الحلفاء المجاورين، بصحة قدرها {FAMILIARHEALTHPERCENT}%، وهجوم قدره {FAMILIARATTACK}% مَوروثَين من هذه الشخصية."
+"herocard.passive_skill.description.summononownerdeath.slime_big_minion_yellow.neartotargetexceptcaster.allies","عندما تتعرض هذه الشخصية للهزيمة، ستستدعي أتباع السلايم الضخام إلى الحلفاء المجاورين، بصحة قدرها {FAMILIARHEALTHPERCENT}%، وهجوم قدره {FAMILIARATTACK}% مَوروثَين من هذه الشخصية."
+"herocard.passive_skill.description.summononreceiveddamagewiththreshold.slime_big_minion_blue","إن فقدت هذه الشخصية أكثر من {DAMAGETHRESHOLD}% من الصحة القصوى مرة واحدة، فستستدعي تابع السلايم الضخم لنفسها بصحة قدرها {FAMILIARHEALTHPERCENT}%، وهجوم قدره {FAMILIARATTACK}%."
+"herocard.passive_skill.description.summononreceiveddamagewiththreshold.slime_big_minion_green","إن فقدت هذه الشخصية أكثر من {DAMAGETHRESHOLD}% من الصحة القصوى مرة واحدة، فستستدعي تابع السلايم الضخم لنفسها بصحة قدرها {FAMILIARHEALTHPERCENT}%، وهجوم قدره {FAMILIARATTACK}%."
+"herocard.passive_skill.description.summononreceiveddamagewiththreshold.slime_big_minion_purple","إن فقدت هذه الشخصية أكثر من {DAMAGETHRESHOLD}% من الصحة القصوى مرة واحدة، فستستدعي تابع السلايم الضخم لنفسها بصحة قدرها {FAMILIARHEALTHPERCENT}%، وهجوم قدره {FAMILIARATTACK}%."
+"herocard.passive_skill.description.summononreceiveddamagewiththreshold.slime_big_minion_red","إن فقدت هذه الشخصية أكثر من {DAMAGETHRESHOLD}% من الصحة القصوى مرة واحدة، فستستدعي تابع السلايم الضخم لنفسها بصحة قدرها {FAMILIARHEALTHPERCENT}%، وهجوم قدره {FAMILIARATTACK}%."
+"herocard.passive_skill.description.summononreceiveddamagewiththreshold.slime_big_minion_yellow","إن فقدت هذه الشخصية أكثر من {DAMAGETHRESHOLD}% من الصحة القصوى مرة واحدة، فستستدعي تابع السلايم الضخم لنفسها بصحة قدرها {FAMILIARHEALTHPERCENT}%، وهجوم قدره {FAMILIARATTACK}%."
+"herocard.passive_skill.description.summononstatuseffectaddition.burn.forest_guardian.statuseffectdebuffs","في كل مرة تتلقى هذه الشخصية حالة حرق مرضية، يستدعي تابع حارس غابة لنفسه. يرث تابع حارس الغابة {FAMILIARHEALTHPERCENT}% من نقاط الصحة و{FAMILIARATTACK}% من الهجوم من هذه الشخصية."
+"herocard.passive_skill.description.summononstatuseffectaddition.damageovertime.card_soldier_no_taunt.statuseffectdebuffs","في كل مرة تتلقى هذه الشخصية مرض الضرر بمرور الوقت، تستدعي تابع جندي البطاقة لنفسها. يرث تابع جندي البطاقة {FAMILIARHEALTHPERCENT}% من نقاط الصحة و{FAMILIARATTACK}% من الهجوم من هذه الشخصية."
+"herocard.passive_skill.description.summononstatuseffectaddition.defensemodifier.bull.none","في كل مرة تتلقى هذه الشخصية حالة مرض تطال الدفاع، تستدعي تابع ثور لنفسه. يرث تابع الثور {FAMILIARHEALTHPERCENT}% من نقاط الصحة و{FAMILIARATTACK}% من الهجوم من هذه الشخصية."
+"herocard.passive_skill.description.summononsummon.activates_on_enemy_action.allies.owl.minion","استدعاء تابع عصفور عندما يقوم العدو باستدعاء أي تابع؛ عن طريق مهارة خاصة."
+"herocard.passive_skill.description.summononsummon.activates_on_enemy_action.enemies.cursed_sapling_parasite.minion","عندما يستدعي أحد الأعداء أي تابعين بواسطة مهارة خاصة، تستدعي هذه الشخصية شرير نبتةً ملعونةً لهذا العدو."
+"herocard.passive_skill.description.summononsummon.activates_on_enemy_action.enemies.seedling_parasite.minion","عندما يستدعي أحد الأعداء أي أتباع باستخدام مهارة خاصة، تستدعي هذه الشخصية شرير بذرة لذلك العدو."
+"herocard.passive_skill.description.taunt","لا تتأثر المهارة الخاصة لهذه الشخصية بالاستهزاء."
+"herocard.passive_skill.description.transformstatuseffectonspecialcast.minorbuff.enemies.all.transform_attackmodifier_into_attackmodifier.transform_defensemodifier_into_defensemodifier.transform_managenerationmodifier_into_defensemodifier","في كل مرة تُطلِق فيها هذه الشخصية مهارتها الخاصة، تتحوّل جميع التأثيرات الإيجابية التي تؤثر في الهجوم، والدفاع، وتوليد القوة على جميع الأعداء إلى حالات مرضية مطابقة غير قابلة للتبديد."
+"herocard.passive_skill.description.transformstatuseffectonspecialcast.minorbuff.enemies.all.transform_attackmodifier_into_attackmodifier.transform_defensemodifier_into_defensemodifier.transform_managenerationmodifier_into_managenerationmodifier","في كل مرة تلقي هذه الشخصية مهارتها الخاصة، يتم تحويل جميع التعزيزات التي تؤثر على الهجوم، والدفاع، وتوليد القوة على جميع الأعداء إلى حالة أمراض متطابقة غير قابلة للتبديد."
+"herocard.passive_skill.description.transformstatuseffectonspecialcast.minordebuff.allies.all.transform_attackmodifier_into_attackmodifier.transform_defensemodifier_into_defensemodifier.transform_managenerationmodifier_into_managenerationmodifier","في كل مرة تلقي هذه الشخصية مهارتها الخاصة، يتم تحويل جميع الأمراض التي تؤثر على الهجوم، والدفاع، وتوليد القوة لدى جميع الحلفاء إلى تعزيزات غير قابلة للتبديد."
+"herocard.passive_skill.description.wither.all.enemies","ينخفض هجوم كل الأعداء ودفاعهم الأساسيان بمقدار {STATINCREASE} كل جولة لعدد {MAXACTIVATIONCOUNT} من الجولات."
+"herocard.passive_skill.inactive","غير نشط: يجب الوصول إلى المستوى الأقصى والتصعيد الكامل للتفعيل."
+"herocard.passive_skill.sidedependent.sideinfo.heroside","المهارة الخاملة كشخصية هجومية:"
+"herocard.passive_skill.sidedependent.sideinfo.opponentside","المهارة الخاملة كشخصية دفاعية:"
+"herocard.passive_skill.title.addstatuseffectsonenemyattackbuff","تأثير الحالة على علاوة هجوم العدو"
+"herocard.passive_skill.title.addstatuseffectsonenemydefensebuff","تأثير الحالة على علاوة دفاع العدو"
+"herocard.passive_skill.title.addstatuseffectsonmanareduction","تأثير الحالة على خفض القوة"
+"herocard.passive_skill.title.bleed.effectondamageovertime.activates_on_enemy_action.addmana","القوة عند النزيف"
+"herocard.passive_skill.title.bleed.effectondamageovertime.activates_on_enemy_action.heal","الشفاء على النزيف"
+"herocard.passive_skill.title.burn.effectondamageovertime.activates_on_enemy_action.addmana","قوة عند الاحتراق"
+"herocard.passive_skill.title.bypassfamiliars.minion","تجاوز الأتباع"
+"herocard.passive_skill.title.bypassfamiliars.minion.bigminion","تجاوز الأتباع الفائق"
+"herocard.passive_skill.title.caststatuseffectdurationmodifier","زيادة فترة تأثير الحالة"
+"herocard.passive_skill.title.chargebasedmodifier.managenerationmodifier.dodgemodifier","زخم التحليق"
+"herocard.passive_skill.title.conditionaleffectovertime.addmana.everyturn.while.all.allies.haswither","القوة أثناء التلف"
+"herocard.passive_skill.title.conditionaleffectovertime.revival.while.single.allies.hasdeadallies","إعادة الإحياء بمرور الوقت"
+"herocard.passive_skill.title.conditionaleffectovertime.usable_once.heal.addmana.everyturn.while.single.allies.lowhealth","قوة السيسو"
+"herocard.passive_skill.title.convertincomingdamagetoheal.all.statuseffect","جمال الداخل"
+"herocard.passive_skill.title.convertincomingdamagetoheal.statuseffect","جمال الداخل"
+"herocard.passive_skill.title.corrosiveburncoreintrinsicchargeeffectonspecial.activates_on_ally_action.statuseffects.corrosiveburn","المركز الذائب"
+"herocard.passive_skill.title.corrosiveburncoreintrinsicchargeeffectonspecial.statuseffects.corrosiveburn","المركز الذائب"
+"herocard.passive_skill.title.corrosivecoreintrinsicchargeeffectonspecial.statuseffects.corrosivepoison","المركز المُتلف"
+"herocard.passive_skill.title.corrosivefrostcoreintrinsicchargeeffectonspecial.statuseffects.corrosivefrost","مركز القطب الشمالي"
+"herocard.passive_skill.title.criticalmodifier","المعدّل الحاسم"
+"herocard.passive_skill.title.criticalmodifiersupportcharacter.troop","المعدّل الحاسم"
+"herocard.passive_skill.title.critmodifier","معدّل الفرصة الحاسمة"
+"herocard.passive_skill.title.damageincreasebyinsanity.troop.specialskill.npcnormalattack","موسوم بواسطة القدماء"
+"herocard.passive_skill.title.dealtdamagemodifieragainststatuseffect.bloodlily.stacks","علامة دموية"
+"herocard.passive_skill.title.dealtstrongelementtroopdamage","براعة القوات"
+"herocard.passive_skill.title.debuffdamagereduction","تقليل ضرر الحالة المرضية"
+"herocard.passive_skill.title.debuffdamagereductionsupportcharacter.troop","تقليل ضرر الحالة المرضية"
+"herocard.passive_skill.title.destructivecoreintrinsicchargeeffectonspecial.damage","المركز المدمر"
+"herocard.passive_skill.title.dispelonownfamiliardeath.minion.minordebuff","التطهير عند موت التابع"
+"herocard.passive_skill.title.dodgespecialdamage","ضرر تفادي الهجمات الخاصة"
+"herocard.passive_skill.title.doubleeffectonchargedspecial.statuseffects.stackingmanagenerationmodifier.stacks","تراكم التأثيرات الخاصة"
+"herocard.passive_skill.title.eatfamiliarsonspecialcast.parasite.allies.single","تدمير الأشرار ذوي المهارات الخاصة"
+"herocard.passive_skill.title.eatfamiliarswitheffectpereatenfamiliarovertime.addmana","كُلْ الأتباع واكتسب القوة بمرور الوقت"
+"herocard.passive_skill.title.effectondamagereceived.addmana.specialskill","القوة عند استخدام الضرر الخاص"
+"herocard.passive_skill.title.effectondamagereceived.addmana.troop.npcnormalattack.specialskill","القوة عند تلقي الضرر"
+"herocard.passive_skill.title.effectondamagereceived.damage.specialskill.statuseffectskill.cover","الضرر الناتج عن المهارة الخاصة وضرر الحماية"
+"herocard.passive_skill.title.effectondamagereceived.none.specialskill.exclude.statuseffect.stacking_attack_on_damage_received_passive","الهجوم المتراكم عند الضرر المتلقي"
+"herocard.passive_skill.title.effectondamagereceived.none.specialskill.exclude.statuseffect.stacking_attack_on_damage_received_passive_pve","الهجوم المتراكم عند الضرر المتلقي"
+"herocard.passive_skill.title.effectondispel.activates_on_ally_action.healthboost.minordebuff.removalreason.dispel.activates_on_dispel_cast.valid_caster_side.allies","تعزيز الصحة عند محاولة الحليف للتطهير"
+"herocard.passive_skill.title.effectondispel.activates_on_enemy_action.damage.minordebuff.removalreason.dispel.activates_on_dispel_cast.valid_caster_side.enemies","الضرر الناتج عند محاولة العدو للتطهير"
+"herocard.passive_skill.title.effectondispel.addmana.minorbuff","القوة على التبديد"
+"herocard.passive_skill.title.effectondispel.addmana.minorbuff.removalreason.dispel","القوة على تبديد العلاوة"
+"herocard.passive_skill.title.effectondispel.heal.statuseffectdebuffs.removalreason.dispel.removal.reallocation.expiration","تعافَ عند انتهاء مدة المرض، أو عند إزالته"
+"herocard.passive_skill.title.effectondispel.healthboost.minorbuff.removalreason.dispel","تعزيز الصحة على تبديد العلاوة"
+"herocard.passive_skill.title.effectonfamiliardamagedone.minion.frost","الصقيع عند ضربة التابع"
+"herocard.passive_skill.title.effectonheal.addmana","القوة المكتسبة من استعادة نقاط الصحة"
+"herocard.passive_skill.title.effectonheal.heal","نقاط صحة إضافية عند استعادة الصحة"
+"herocard.passive_skill.title.effectonhealsupportcharacter.troop.heal","شفاء إضافي"
+"herocard.passive_skill.title.effectonmanareduction.statuseffects.attackmodifier","تأثير الحالة على خفض القوة"
+"herocard.passive_skill.title.effectonmanareduction.statuseffects.yellowdefensemodifier","تأثير الحالة على خفض القوة"
+"herocard.passive_skill.title.effectonresist.activates_on_enemy_action.healthboost.addmana.once","تعزيز الصحة والقوة عند المقاومة"
+"herocard.passive_skill.title.effectonspecialcastwitheffecttype.activates_on_enemy_action.addmana.on_healthboost_cast","القوة عند إلقاء المهارة الخاصة المعززة للقوة"
+"herocard.passive_skill.title.effectonspecialcastwitheffecttype.activates_on_enemy_action.healthboost.on_healthboost_cast","تعزيز الصحة عند تعزيز صحة العدو"
+"herocard.passive_skill.title.effectonspecialchancepermanaspeed","التأثيرات على المهارة الخاصة"
+"herocard.passive_skill.title.effectonspecialskilldamagedone.bufftoremove.minordebuff.latest.safe.only_criticals.once","التطهير عند الهجوم الخاص للضربة الحرجة"
+"herocard.passive_skill.title.effectonspecialskilldamagedone.bufftoremove.minordebuff.safe.only_criticals","التطهير عند الهجوم الخاص للضربة الحرجة"
+"herocard.passive_skill.title.effectonspecialskilldamagedone.healthboost.only_criticals","تعزيز الصحة عند الهجوم الخاص للضربة الحرجة"
+"herocard.passive_skill.title.effectonspecialskilldamagedone.healthboost.only_criticals.once","تعزيز الصحة عند الهجوم الخاص للضربة الحرجة"
+"herocard.passive_skill.title.effectonspecialskilldamagedonebasedonhealthdifference.healthboost.once.effectonspecialskilldamagereceivedbasedonhealthdifference.addmana.once","التمرد الصالح"
+"herocard.passive_skill.title.effectonspecialskilldamagereceived.healthboost.only_criticals","تعزيز الصحة عند الهجوم الخاص للضربة الحرجة"
+"herocard.passive_skill.title.effectonspecialwithchance.activates_on_enemy_action.healthboost","تعزيز الصحة على مهارة العدو الخاصة"
+"herocard.passive_skill.title.effectonspecialwithchance.addmana","القوة عند استخدام المهارة الخاصة"
+"herocard.passive_skill.title.effectonspecialwithchance.bufftoremove.minorbuff.latest","التبديد على المهارة الخاصة"
+"herocard.passive_skill.title.effectonspecialwithchance.bufftoremove.minordebuff.latest","التطهير على المهارة الخاصة"
+"herocard.passive_skill.title.effectonspecialwithchance.damage","الضرر الناتج عن المهارة الخاصة"
+"herocard.passive_skill.title.effectonspecialwithchance.heal","استعادة الصحة عند استخدام المهارة الخاصة"
+"herocard.passive_skill.title.effectonspecialwithchance.healthboost","تعزيز الصحة على المهارة الخاصة"
+"herocard.passive_skill.title.effectonspecialwithchance.statuseffects","تأثير الحالة في الشحن الكامل"
+"herocard.passive_skill.title.effectonspecialwithchance.statuseffects.bleeding","النزف عند المهارة الخاصة"
+"herocard.passive_skill.title.effectonspecialwithchance.statuseffects.curseofdoom","اللعنة عند المهارة الخاصة"
+"herocard.passive_skill.title.effectonspecialwithchance.statuseffects.damageovertime","الضرر بمرور الوقت على المهارة الخاصة"
+"herocard.passive_skill.title.effectonspecialwithchance.statuseffects.extradamageagainstboostedhealth","زيادة الضرر ضد الصحة المعززة"
+"herocard.passive_skill.title.effectonspecialwithchance.statuseffects.huntersmark","الضرر بمرور الوقت على المهارة الخاصة"
+"herocard.passive_skill.title.effectonspecialwithchance.statuseffects.managenerationmodifier","تأثير الحالة على المهارة الخاصة"
+"herocard.passive_skill.title.effectonspecialwithchance.statuseffects.poison","السمّ على المهارة الخاصة"
+"herocard.passive_skill.title.effectonspecialwithchance.statuseffects.possession","الهجوم بلا وعي عند إلقاء المهارة الخاصة"
+"herocard.passive_skill.title.effectonspecialwithchance.statuseffects.underwater","الضرر بمرور الوقت على المهارة الخاصة"
+"herocard.passive_skill.title.effectonspecialwithmanaspeedthreshold.activates_on_enemy_action.damage.faster.average.once","الضرر على مهارة العدو الخاصة"
+"herocard.passive_skill.title.effectonstatuseffectaddition.activates_on_enemy_action.addmana.allbuffs.taunt","القوة عند الاستهزاء"
+"herocard.passive_skill.title.effectonstatuseffectaddition.activates_on_enemy_action.addmana.statuseffectbuffs.defensemodifier.once","القوة المكتسبة من علاوة دفاع العدو"
+"herocard.passive_skill.title.effectonstatuseffectaddition.activates_on_enemy_action.statuseffects.ubertitanstackingattackmodifier.allbuffs.defensemodifier","تأثير الحالة على علاوة دفاع العدو"
+"herocard.passive_skill.title.effectonstatuseffectaddition.activates_on_enemy_action.statuseffects.ubertitanstackingreceiveddamagemodifier.allbuffs.attackmodifier","تأثير الحالة على علاوة هجوم العدو"
+"herocard.passive_skill.title.effectonstatuseffectaddition.addmana.allbuffs","القوة التي تم تلقيها على العلاوة"
+"herocard.passive_skill.title.effectonstatuseffectaddition.addmana.alldebuffs","تلقي قوة في حالة المرض"
+"herocard.passive_skill.title.effectonstatuseffectaddition.heal.allbuffs","استعادة الصحة عند تلقي العلاوة"
+"herocard.passive_skill.title.effectonstatuseffectaddition.heal.alldebuffs","استعادة الصحة في حالة مرض"
+"herocard.passive_skill.title.effectonstatuseffectaddition.statuseffects.managenerationmodifier.alldebuffs","تلقي علاوة القوة في حالة المرض"
+"herocard.passive_skill.title.effectonstatuseffectadditionwithchance.addmana.allbuffs","القوة التي تم تلقيها على العلاوة"
+"herocard.passive_skill.title.effectonstatuseffectadditionwithchance.heal.allbuffs","استعادة الصحة عند تلقي العلاوة"
+"herocard.passive_skill.title.effectonstatuseffectremovalbyspecial.activates_on_ally_action.healthboost","تعزيز الصحة عند إزالة تأثير الحالة"
+"herocard.passive_skill.title.effectonstatuseffectremovalbyspecial.activates_on_enemy_action.damage","الضرر الناتج عند إزالة تأثير الحالة"
+"herocard.passive_skill.title.effectovertime.revival","إعادة الإحياء بمرور الوقت"
+"herocard.passive_skill.title.effectovertimeperstatuseffect.addmana.everyturn.per.statuseffectbuffs.enemies","القوة لكل علاوة عدو"
+"herocard.passive_skill.title.effectovertimeperstatuseffect.healthboost.everyturn.per.poison.statuseffectdebuffs.enemies","تعزيز الصحة على السم"
+"herocard.passive_skill.title.effectsonminionreceived.activates_on_ally_action.addmana.allies.minion","القوة عند استدعاء تابع"
+"herocard.passive_skill.title.effectsonminionreceived.activates_on_ally_action.heal.addmana.allies.minion","شرير الأصدقاء"
+"herocard.passive_skill.title.effectsonparasitereceived.activates_on_enemy_action.addmana.enemies.parasite","القوة عند استدعاء الشرير"
+"herocard.passive_skill.title.effectsonparasitereceived.activates_on_enemy_action.damage.enemies.parasite","غضب الحيوانات الأليفة"
+"herocard.passive_skill.title.effectsonparasitereceived.activates_on_enemy_action.healthboost.enemies.parasite","تعزيز الصحة عند استدعاء الشرير"
+"herocard.passive_skill.title.familiaraccuracymodifier.all.enemies.minion.bigminion","عمى الأتباع"
+"herocard.passive_skill.title.familiarcoreintrinsicchargeeffectonspecial.summonfamiliar.construct_minion_core","مركز التابع"
+"herocard.passive_skill.title.familiarhealthmodifier.all.enemies.bigminion.decrease","أتباع ضخام أضعف"
+"herocard.passive_skill.title.familiarhealthmodifier.all.enemies.minion.decrease","أتباع أضعف"
+"herocard.passive_skill.title.familiarsilencer.all.enemies.bigminion","إيقاف الأتباع الضخام"
+"herocard.passive_skill.title.familiarsilencer.all.enemies.minion.follower","إيقاف الأتباع"
+"herocard.passive_skill.title.frost.effectondamageovertime.activates_on_enemy_action.addmana","قوة على الصقيع"
+"herocard.passive_skill.title.glass_reflect_debuffs","زجاجي"
+"herocard.passive_skill.title.growth","النمو"
+"herocard.passive_skill.title.guaranteedeffectonspecial","التأثير المضمون على المهارة الخاصة"
+"herocard.passive_skill.title.healmodifier.all.enemies.decrease","شفاء منخفض"
+"herocard.passive_skill.title.healonheal.heal","شفاء إضافي"
+"herocard.passive_skill.title.healonownfamiliardeath.minion","صحة من تابع ميت"
+"herocard.passive_skill.title.healonownfamiliardeath.minion.healthboost","صحة معززة من تابع ميت"
+"herocard.passive_skill.title.increasedattackperelement.enemies.not.green","هجوم متزايد لكل عدو لا ينتمي للطبيعة"
+"herocard.passive_skill.title.increasedattackperelement.enemies.not.red","هجوم متزايد لكل عدو لا ينتمي للنار"
+"herocard.passive_skill.title.increaseddamageagainstfamiliars.minion.bigminion","ضرر إضافي للأتباع والأتباع الضخام"
+"herocard.passive_skill.title.increaseddamageagainstminions","الضرر المتزايد ضد التوابع"
+"herocard.passive_skill.title.increasedspecialdamageagainsttaunt.taunt","الضرر المتزايد ضد الاستهزاء"
+"herocard.passive_skill.title.increasespecialdamage","تمت زيادة ضرر المهارة الخاصة"
+"herocard.passive_skill.title.increasespecialdamage.usable_once","تمت زيادة ضرر المهارة الخاصة"
+"herocard.passive_skill.title.increasespecialdamagesupportcharacter.troop","تمت زيادة ضرر المهارة الخاصة"
+"herocard.passive_skill.title.insanitydamagereduction","وضع القدماء عليه علامة"
+"herocard.passive_skill.title.iterateeffectonspecial","فرصة إضافية للتأثيرات على المهارة الخاصة"
+"herocard.passive_skill.title.league_accuracy_modifier_against_family","عيب الدوري"
+"herocard.passive_skill.title.league_featured_family_resist","ميزة الدوري"
+"herocard.passive_skill.title.league_heal_modifier_against_family","عيب الدوري"
+"herocard.passive_skill.title.league_heal_modifier_for_family","ميزة الدوري"
+"herocard.passive_skill.title.league_received_damage_modifier_against_non_featured_family","ميزة الدوري"
+"herocard.passive_skill.title.manadebuffprotection","حماية أمراض توليد القوة"
+"herocard.passive_skill.title.managenerationmodifier.all.enemies","خفض القوة المتكسبة من المهارات الخاصة"
+"herocard.passive_skill.title.manaonownfamiliardeath.minion","القوة الخاصة بموت التابع"
+"herocard.passive_skill.title.manaonstatuseffect.debuff","قوة للأمراض"
+"herocard.passive_skill.title.memorizefamiliars.activates_on_enemy_action","تذكر أتباع وأشرار العدو"
+"herocard.passive_skill.title.memorizestatuseffects","تذكر أمراض الحالات"
+"herocard.passive_skill.title.mimic_dread_damage_minions","الفزع"
+"herocard.passive_skill.title.mimiclootonlevelcompleted","غنيمة المحاكاة"
+"herocard.passive_skill.title.nevermissspecial","الدقة المثالية"
+"herocard.passive_skill.title.ransack","فرصة اللص"
+"herocard.passive_skill.title.reallocatestatuseffectonspecialcast.damage.minorbuff.newest","سرقة العلاوة"
+"herocard.passive_skill.title.reallocatestatuseffectonspecialcast.heal.minordebuff.newest","حاسة الصياد"
+"herocard.passive_skill.title.receivedstrongelementsupportcharacterdamage","براعة القوات"
+"herocard.passive_skill.title.receivedstrongelementsupportcharacterdamage.increase.dragon","زيادة في ضرر الكرة النارية القوية"
+"herocard.passive_skill.title.redirectlethaldamage.enemies.single","خداع الموت"
+"herocard.passive_skill.title.remove_growth_from_enemies","تجمّع الحراس"
+"herocard.passive_skill.title.remove_wither_from_allies","تجمّع الحراس"
+"herocard.passive_skill.title.repaircoreintrinsicchargeeffectonspecial.healthboost","مركز الإصلاح"
+"herocard.passive_skill.title.repeat_special_once","محظوظ"
+"herocard.passive_skill.title.resist.accuracymodifiers","مقاومة العمى"
+"herocard.passive_skill.title.resist.alldebuffs","مقاوَمة حالات الأمراض"
+"herocard.passive_skill.title.resist.alldebuffs.alldebuffs","مقاومة جميع الأمراض"
+"herocard.passive_skill.title.resist.alldebuffs.manareduction.buffdispels","مقاومة القمة"
+"herocard.passive_skill.title.resist.alldefensemodifiers.alldebuffs","مقاومة أمراض الدفاع"
+"herocard.passive_skill.title.resist.alldefensemodifiers.defensewither.alldebuffs","مقاومة تحفيض الدفاع"
+"herocard.passive_skill.title.resist.allmanaeffects.alldebuffs","مقاومة أمراض القوة"
+"herocard.passive_skill.title.resist.allstatuseffectdamage.none","مقاومة ضرر تأثيرات الحالة"
+"herocard.passive_skill.title.resist.attackdelay","مقاومة تأخر الهجوم"
+"herocard.passive_skill.title.resist.attackmodifiers","قاوم أمراض الهجوم"
+"herocard.passive_skill.title.resist.attackmodifiers.allstatuseffectsandstacks","قاوم تأثيرات حالة الهجوم"
+"herocard.passive_skill.title.resist.attackmodifiers.attackwither.alldebuffs","مقاومة تخفيض الهجوم"
+"herocard.passive_skill.title.resist.bleed","مقاومة النزيف"
+"herocard.passive_skill.title.resist.bleed.with_effect.healthboost.addmana","مقاومة النزيف المعززة"
+"herocard.passive_skill.title.resist.buffdispels","مقاومة الحذف"
+"herocard.passive_skill.title.resist.buffimmunity","مقاومة حجب التعزيز"
+"herocard.passive_skill.title.resist.burn","مقاومة الاحتراق"
+"herocard.passive_skill.title.resist.burn.with_effect.healthboost.addmana","مقاومة الاحتراق المعززة"
+"herocard.passive_skill.title.resist.criticalhits.none","مقاومة الضربات الحرجة"
+"herocard.passive_skill.title.resist.defensemodifiers.alldebuffs","مقاومة أمراض الدفاع"
+"herocard.passive_skill.title.resist.familiarremoval.familiarsilence.familiarreceivingblocking.minion","توابع لا تُقهر"
+"herocard.passive_skill.title.resist.frost","مقاومة الصقيع"
+"herocard.passive_skill.title.resist.frost.with_effect.healthboost.addmana","مقاومة الصقيع المعززة"
+"herocard.passive_skill.title.resist.healeffects","مقاومة شفاء الأمراض"
+"herocard.passive_skill.title.resist.healthsteal","مقاومة الأمراض التي تسرق الصحة"
+"herocard.passive_skill.title.resist.insanity.permanentstatuseffects","مقاومة الجنون"
+"herocard.passive_skill.title.resist.manadebuffs","مقاومة أمراض القوة"
+"herocard.passive_skill.title.resist.manaeffectsandspecialblocking","مقاومة أمراض القوة وحجب المهارات الخاصة"
+"herocard.passive_skill.title.resist.managenerationmodifiers.alldebuffs","مقاومة أمراض توليد الطاقة"
+"herocard.passive_skill.title.resist.manareduction","مقاومة تحفيض القوة المباشر"
+"herocard.passive_skill.title.resist.manareduction.none.with_effect.healthboost.addmana","مقاومة تحفيض القوة المعززة"
+"herocard.passive_skill.title.resist.maxhealthreduction","مقاومة خفض الصحة القصوى"
+"herocard.passive_skill.title.resist.poison","مقاومة السمّ"
+"herocard.passive_skill.title.resist.poison.burn.bleed","يقاوم السم، والحرق، والنزيف"
+"herocard.passive_skill.title.resist.possession.allstatuseffects","مقاومة الاستحواذ"
+"herocard.passive_skill.title.resist.sand","مقاومة الرمال"
+"herocard.passive_skill.title.resist.specialblocking","مقاومة حجب المهارات الخاصة"
+"herocard.passive_skill.title.resist.specialblocking.with_effect.healthboost.addmana","مقاومة حجب المهارات الخاصة المعززة"
+"herocard.passive_skill.title.resist.stopmanageneration","مقاومة إيقاف توليد القوة"
+"herocard.passive_skill.title.resist.water","مقاومة الماء"
+"herocard.passive_skill.title.resist_all_defense_effects","السمة: 
+إطار أنيق"
+"herocard.passive_skill.title.resistdebuffsfromfamiliars.minion","مقاومة حالات الأمراض من التوابع"
+"herocard.passive_skill.title.resistfamiliarremoval.minion.bigminion","مقاومة إزالة الأتباع"
+"herocard.passive_skill.title.resistnegativefamiliareffects.minion","مقاومة تأثيرات الأتباع السلبية"
+"herocard.passive_skill.title.resistnegativefamiliareffects.minion.bigminion","المقاومة الفائقة لتأثيرات الأتباع السلبية"
+"herocard.passive_skill.title.resistnewfamiliars.parasite","قاوم الأشرار"
+"herocard.passive_skill.title.resistnewfamiliars.parasite.bigparasite","مقاومة الأشرار، والأشرار الضخام"
+"herocard.passive_skill.title.resistsupportcharacter.troop.alldebuffs","مقاوَمة حالات الأمراض"
+"herocard.passive_skill.title.revivalchancemodifier.all.enemies","خفض فرصة الإحياء"
+"herocard.passive_skill.title.revivalhealthmodifier.all.enemies.excluding.boss","تقليل إعادة إحياء الصحة"
+"herocard.passive_skill.title.revive_chance_nine_lives","9 حيوات"
+"herocard.passive_skill.title.reviveinalternativeformwithinsanitychance","عهد الشعوذة"
+"herocard.passive_skill.title.revivewithchance","إعادة الإحياء"
+"herocard.passive_skill.title.setstatuseffectdurationonaddition.all.allies.activates_on_ally_action.alldebuffs.dance","إيقاع سريع: الأغاني"
+"herocard.passive_skill.title.setstatuseffectdurationonaddition.single.enemies.activates_on_enemy_action.allbuffs.dance","إيقاع سريع: الرقص"
+"herocard.passive_skill.title.sharereceiveddamage","مشاركة الضرر المتلقى"
+"herocard.passive_skill.title.short.generic","غير نشطة"
+"herocard.passive_skill.title.short.league","ميزة"
+"herocard.passive_skill.title.short.league.non_featured","عيب"
+"herocard.passive_skill.title.short.trait","السمة"
+"herocard.passive_skill.title.sidedependentpassiveskill.side_dependent_elemental_mask","القناع العنصري"
+"herocard.passive_skill.title.sidedependentpassiveskill.strong_troop_damage_modifier","براعة القوات"
+"herocard.passive_skill.title.sidedependentpassiveskill.strong_troop_damage_modifier_costume","براعة القوات"
+"herocard.passive_skill.title.specialdamagereduction","تقليل ضرر المهارة الخاصة"
+"herocard.passive_skill.title.specialdamagereductionsupportcharacter.troop","تقليل ضرر المهارة الخاصة"
+"herocard.passive_skill.title.startbattlewitheffect.addmana","بداية المعركة باستخدام القوة"
+"herocard.passive_skill.title.statmodifier.attack","مفترس"
+"herocard.passive_skill.title.statmodifier.defense","مدرع"
+"herocard.passive_skill.title.statmodifier.health","مثابر"
+"herocard.passive_skill.title.statuseffectattackmodifier.addition","زيادة هجوم تأثير حالة"
+"herocard.passive_skill.title.statuseffectattackmodifier.all.allies.reduction","خفض أمراض الهجوم"
+"herocard.passive_skill.title.statuseffectattackmodifier.reduction","خفض أمراض الهجوم"
+"herocard.passive_skill.title.statuseffectattackmodifiersupportcharacter.troop.addition","زيادة هجوم تأثير حالة"
+"herocard.passive_skill.title.statuseffectattackmodifiersupportcharacter.troop.reduction","خفض أمراض الهجوم"
+"herocard.passive_skill.title.statuseffectdefensemodifier.addition","زيادة دفاع تأثير حالة"
+"herocard.passive_skill.title.statuseffectdefensemodifier.all.allies.reduction","خفض أمراض الدفاع"
+"herocard.passive_skill.title.statuseffectdefensemodifier.reduction","خفض أمراض الدفاع"
+"herocard.passive_skill.title.statuseffectdefensemodifiersupportcharacter.troop.addition","زيادة دفاع تأثير حالة"
+"herocard.passive_skill.title.statuseffectdefensemodifiersupportcharacter.troop.reduction","خفض أمراض الدفاع"
+"herocard.passive_skill.title.statuseffectdurationmodifier","زِد من مدة التعزيزات"
+"herocard.passive_skill.title.statuseffectdurationmodifier.decrease.minordebuff.majordebuff","قلِّل من مدة الأمراض"
+"herocard.passive_skill.title.statuseffectdurationmodifier.decrease.minordebuff.majordebuff.defensemodifier.no_limit","قلِّل من مدة مرض الدفاع"
+"herocard.passive_skill.title.statuseffectdurationmodifier.increase.minorbuff.majorbuff","زِد من مدة التعزيزات"
+"herocard.passive_skill.title.statuseffectoncleanse.single.enemies","نسخ المرض عند تطهيره"
+"herocard.passive_skill.title.statuseffectonspecialcast.attackmodifierfrompassiveskill","قوة الصياد"
+"herocard.passive_skill.title.statuseffectonspecialcast.softskin","بشرة المزراب الناعمة"
+"herocard.passive_skill.title.statuseffectonspecialcast.stone","بشرة المزراب الحجرية"
+"herocard.passive_skill.title.statuseffectonstatuseffectaddition.debuff","علاوة توليد القوة من الأمراض"
+"herocard.passive_skill.title.statuseffectselection.usable_once.select_element_status_effect","القناع العنصري"
+"herocard.passive_skill.title.summonfamiliarperturn.evolving_seedling_parasite.enemies","مُستدعى البذرة"
+"herocard.passive_skill.title.summonfamiliarperturn.evolving_seedling_parasite.enemies.sharedonceperturn","مُستدعى البذرة"
+"herocard.passive_skill.title.summononownerdeath.slime_big_minion_blue.neartotargetexceptcaster.allies","تابع سلايم عند الهزيمة"
+"herocard.passive_skill.title.summononownerdeath.slime_big_minion_green.neartotargetexceptcaster.allies","تابع سلايم عند الهزيمة"
+"herocard.passive_skill.title.summononownerdeath.slime_big_minion_purple.neartotargetexceptcaster.allies","تابع سلايم عند الهزيمة"
+"herocard.passive_skill.title.summononownerdeath.slime_big_minion_red.neartotargetexceptcaster.allies","تابع سلايم عند الهزيمة"
+"herocard.passive_skill.title.summononownerdeath.slime_big_minion_yellow.neartotargetexceptcaster.allies","تابع سلايم عند الهزيمة"
+"herocard.passive_skill.title.summononreceiveddamagewiththreshold.slime_big_minion_blue","انفصال التابع السلايم"
+"herocard.passive_skill.title.summononreceiveddamagewiththreshold.slime_big_minion_green","انفصال التابع السلايم"
+"herocard.passive_skill.title.summononreceiveddamagewiththreshold.slime_big_minion_purple","انفصال التابع السلايم"
+"herocard.passive_skill.title.summononreceiveddamagewiththreshold.slime_big_minion_red","انفصال التابع السلايم"
+"herocard.passive_skill.title.summononreceiveddamagewiththreshold.slime_big_minion_yellow","انفصال التابع السلايم"
+"herocard.passive_skill.title.summononstatuseffectaddition.burn","استدعِ عند الاحتراق"
+"herocard.passive_skill.title.summononstatuseffectaddition.damageovertime","الاستدعاء عند الضرر بمرور الوقت"
+"herocard.passive_skill.title.summononstatuseffectaddition.defensemodifier","استدعاء تابع على أمراض الدفاع"
+"herocard.passive_skill.title.summononsummon.activates_on_enemy_action.allies.owl.minion","مستدعي العصفور"
+"herocard.passive_skill.title.summononsummon.activates_on_enemy_action.enemies.cursed_sapling_parasite.minion","مستدعي النبتة الملعونة"
+"herocard.passive_skill.title.summononsummon.activates_on_enemy_action.enemies.seedling_parasite.minion","مُستدعى البذرة"
+"herocard.passive_skill.title.taunt","تجاهل الاستهزاء"
+"herocard.passive_skill.title.titan_dread_damage_minions","الفزع"
+"herocard.passive_skill.title.titan_dread_damage_minions_15","الفزع"
+"herocard.passive_skill.title.titan_dread_damage_minions_16","الفزع"
+"herocard.passive_skill.title.titan_dread_damage_minions_17","الفزع"
+"herocard.passive_skill.title.titan_resist_15","عملاق"
+"herocard.passive_skill.title.titan_resist_16","عملاق"
+"herocard.passive_skill.title.titan_resist_17","عملاق"
+"herocard.passive_skill.title.toon_resist_debuffs_manareduction_dispels","كرتوني"
+"herocard.passive_skill.title.transformstatuseffectonspecialcast.minorbuff.enemies.all.transform_attackmodifier_into_attackmodifier.transform_defensemodifier_into_defensemodifier.transform_managenerationmodifier_into_defensemodifier","تحويل التعزيزات"
+"herocard.passive_skill.title.transformstatuseffectonspecialcast.minorbuff.enemies.all.transform_attackmodifier_into_attackmodifier.transform_defensemodifier_into_defensemodifier.transform_managenerationmodifier_into_managenerationmodifier","تحويل التعزيزات"
+"herocard.passive_skill.title.transformstatuseffectonspecialcast.minordebuff.allies.all.transform_attackmodifier_into_attackmodifier.transform_defensemodifier_into_defensemodifier.transform_managenerationmodifier_into_managenerationmodifier","تحويل حالة الأمراض"
+"herocard.passive_skill.title.wither.all.enemies","التلف"

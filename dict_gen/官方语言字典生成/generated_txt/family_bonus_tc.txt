@@ -1,7 +1,5 @@
 "familybonuses.description.long.abyss","當此英雄施展特殊技能時，有{CHANCE}%/{2MEMBERSCHANCE}%/{3MEMBERSCHANCE}%/{4MEMBERSCHANCE}%/{5MEMBERSCHANCE}%的機率能在面板中產生地底荒野寶石。
-
 地底荒野寶石找到對手之前，每回合能對一個隨機敵人造成{FIXEDPOWER}傷害。
-
 地底荒野寶石只能在與此英雄元素相符的普通護盾上產生。"
 "familybonuses.description.long.add_mana_on_received_special_damage_astral_demons.onceperturn","當此角色受到特殊技能傷害時，獲得{1MEMBERMULTIPLIERPERCENT}/{2MEMBERSMULTIPLIERPERCENT}%法力。此效果每回合可啟動一次。"
 "familybonuses.description.long.attack_multiplier","{2MEMBERSMULTIPLIERPERCENTCHANGE}%/{3MEMBERSMULTIPLIERPERCENTCHANGE}%/{4MEMBERSMULTIPLIERPERCENTCHANGE}%/{5MEMBERSMULTIPLIERPERCENTCHANGE}%攻擊。"
@@ -19,15 +17,10 @@
 "familybonuses.description.long.build_charge_beauty_beast","不同的英雄所需的謙遜也不同。
 當英雄施放更強力的特殊技能時，只需消耗所需數量的謙遜。
 謙遜上限：100。
-
 1/2/3位相同家族的英雄獎勵：
 受到特殊技能的直接傷害時，英雄獲得{1MEMBERCHARGEFROMDAMAGE}/{2MEMBERSCHARGEFROMDAMAGE}/{3MEMBERSCHARGEFROMDAMAGE}謙遜。
 接受特殊技能的直接治療時，英雄獲得{1MEMBERCHARGEFROMHEAL}/{2MEMBERSCHARGEFROMHEAL}/{3MEMBERSCHARGEFROMHEAL}謙遜。"
 "familybonuses.description.long.build_charge_beauty_beast.oncefromdamage.oncefromheal","不同的英雄所需的謙遜也不同。
-當英雄施放更強力的特殊技能時，只需消耗所需數量的謙遜。
-謙遜上限：100。
-
-1/2/3位相同家族的英雄獎勵：
 受到特殊技能的直接傷害時，英雄獲得{1MEMBERCHARGEFROMDAMAGE}/{2MEMBERSCHARGEFROMDAMAGE}/{3MEMBERSCHARGEFROMDAMAGE}謙遜。每回合達上限一次。
 接受特殊技能的直接治療時，英雄獲得{1MEMBERCHARGEFROMHEAL}/{2MEMBERSCHARGEFROMHEAL}/{3MEMBERSCHARGEFROMHEAL}謙遜。每回合達上限一次。"
 "familybonuses.description.long.build_charge_construct","每次此角色受到普通攻擊或特殊技能的傷害時，構造體核心都會暴增。"
@@ -47,19 +40,14 @@
 "familybonuses.description.long.critical_multiplier_outlaw","{MULTIPLIERPERCENTCHANGE}%/{2MEMBERSMULTIPLIERPERCENTCHANGE}%/{3MEMBERSMULTIPLIERPERCENTCHANGE}%暴擊率。"
 "familybonuses.description.long.critical_multiplier_realm","{2MEMBERSMULTIPLIERPERCENTCHANGE}%/{3MEMBERSMULTIPLIERPERCENTCHANGE}%暴擊率。"
 "familybonuses.description.long.damage_gem_per_turn","每一個與此英雄有相同元素的盟友，都會使此英雄元素的護盾被一個力量寶石來取代。
-
 力量寶石每回合會對隨機敵人造成{FIXEDPOWER}傷害，直到配對完畢。
-
 力量寶石僅會在符合此英雄元素的普通護盾上產生。
-
 僅有相同元素的{MAXTILESONBOARD}力量寶石能同時置於面板上。"
 "familybonuses.description.long.damage_gem_per_turn.match_effect.directeffect.damage.all.enemies","每回合一個或以上的護盾將被強化至力量寶石。
 數量與戰隊中的 {ELEMENT}英雄相同。每個元素的{MAXTILESONBOARD}力量寶石能同時存於面板上。
-
 力量寶石每回合對隨機一名敵人造成{FIXEDPOWER}傷害，直到配對成功為止。當力量寶石配對成功時，對所有敵人造成{MATCHEFFECTFIXEDPOWER}傷害。"
 "familybonuses.description.long.damage_gem_per_turn.match_effect.directeffect.damage.random.enemies","每回合會有一個以上的護盾被強化至力量寶石。
 數量等同於戰隊中的{ELEMENT}英雄數量。每個元素的{MAXTILESONBOARD}力量寶石能同時存在於面板上。
-
 力量寶石每回合對隨機一名敵人造成{FIXEDPOWER}點傷害，直到配對完成為止。當力量寶石配對完成時，會對一名隨機敵人造成{MATCHEFFECTFIXEDPOWER}點傷害。"
 "familybonuses.description.long.damage_on_special_dodge_wild_cat","每次閃避特殊技能時，都會對攻擊者造成{1MEMBERFIXEDVALUE}/{2MEMBERSFIXEDVALUE}/{3MEMBERSFIXEDVALUE}點傷害。"
 "familybonuses.description.long.defense_multiplier","{2MEMBERSMULTIPLIERPERCENTCHANGE}%/{3MEMBERSMULTIPLIERPERCENTCHANGE}%/{4MEMBERSMULTIPLIERPERCENTCHANGE}%/{5MEMBERSMULTIPLIERPERCENTCHANGE}%防禦。"
@@ -139,8 +127,6 @@
 在戰隊中有至少1名相關英雄時，英雄能獲得相關家族的家族加成。1/2/3/4/5名英雄的加成：
 {SHAREDEFFECTS}"
 "familybonuses.description.long.share_effects_from_magic_tower","英雄屬於魔法家族。
-在戰隊中有至少1名相關英雄時，英雄能獲得相關家族的家族加成。1/2/3/4/5名英雄的加成：
-{SHAREDEFFECTS}"
 "familybonuses.description.long.slime_familiar_attack_multiplier","盟友召喚的超級小兵、小兵、超級惡魔和惡魔能獲得依據隊伍上史萊姆家族數量而定的{1MEMBERMULTIPLIERPERCENTCHANGE}/{2MEMBERSMULTIPLIERPERCENTCHANGE}/{3MEMBERSMULTIPLIERPERCENTCHANGE}%攻擊力。"
 "familybonuses.description.long.special_damage_multiplier_zodiac_rat","{2MEMBERSMULTIPLIERPERCENTCHANGE}%特殊技能力量。"
 "familybonuses.description.long.start_battle_with_fox_minion","戰鬥開始時，為自身召喚{FAMILIARAMOUNT}/{2MEMBERFAMILIARAMOUNT}隻狡猾的狐狸小兵，狡猾的狐狸小兵具有從英雄繼承來的{FAMILIARHEALTHPERCENT}%生命值和{FAMILIARATTACK}%攻擊。
@@ -149,17 +135,15 @@
 "familybonuses.description.long.start_battle_with_fox_minion.fox_dodge","狡猾的狐狸小兵具有從英雄繼承來的{FAMILIARHEALTHPERCENT}%生命和{FAMILIARATTACK}%攻擊。狡猾的狐狸小兵有{FAMILIARDODGECHANCE}%的機率閃避來襲的攻擊。
 當狡猾的狐狸小兵閃避時，會向攻擊者竊取最新的可驅散增益並給予主人。"
 "familybonuses.description.long.start_battle_with_mask_minion.mask_minion.2members_attack_buff_while_mask_minion.3members_debuff_shield_while_mask_minion","1位家族成員：此角色會召喚一名假面小兵，繼承此角色{FAMILIARHEALTHPERCENT}%的生命值和{FAMILIARATTACK}%攻擊。
- 2位家族成員之額外技能：當主人擁有假面小兵時，召喚假面小兵可為主人提供{ATTACK2MEMBERS}%攻擊。此效果無法驅散。
- 3位家族成員之額外技能：當主人擁有假面小兵時，召喚假面小兵為主人提供所有狀態異常的免疫。此效果無法驅散。"
+2位家族成員之額外技能：當主人擁有假面小兵時，召喚假面小兵可為主人提供{ATTACK2MEMBERS}%攻擊。此效果無法驅散。
+3位家族成員之額外技能：當主人擁有假面小兵時，召喚假面小兵為主人提供所有狀態異常的免疫。此效果無法驅散。"
 "familybonuses.description.long.start_battle_with_recruit_guard_mega_minion.recruit_guard_mega_minion","戰鬥開始時，召喚從此角色繼承{FAMILIARHEALTHPERCENT}%/{FAMILIARHEALTHPERCENT2MEMBERS}%/{FAMILIARHEALTHPERCENT3MEMBERS}%生命值和{FAMILIARATTACK}%/{FAMILIARATTACK2MEMBERS}%/{FAMILIARATTACK3MEMBERS}%攻擊力的新兵守衛超級小兵。"
 "familybonuses.description.long.status_effect_duration_increase","{1MEMBERCHANCE}%/{2MEMBERSCHANCE}%/{3MEMBERSCHANCE}%機率提升所有此英雄施放的狀態效果持續時間，增加{1MEMBERFIXEDVALUE}/{2MEMBERSFIXEDVALUE}/{3MEMBERSFIXEDVALUE}個回合。"
 "familybonuses.description.long.strong_special_damage_reduction","較強元素({ELEMENT})的特殊技能減少{MULTIPLIERPERCENTCHANGE}%/{2MEMBERSMULTIPLIERPERCENTCHANGE}%/{3MEMBERSMULTIPLIERPERCENTCHANGE}%傷害。"
 "familybonuses.description.long.sun_debuffs_on_special_damage.blind_sun_family.burn_sun_family","{1MEMBERCHANCE}%/{2MEMBERSCHANCE}%機率施放{ACCURACY}%精準度，持續{STATUSEFFECT1TURNS}回合，並對向此角色造成特殊技能傷害的敵人造成{DAMAGE}燃燒傷害，持續{STATUSEFFECT2TURNS}回合。
-若敵人的特殊技能擊敗了這個角色，則機率變為{1MEMBERCHANCEPERKILLINGHIT}%/{2MEMBERSCHANCEPERKILLINGHIT}%。"
 "familybonuses.description.long.tales1_attack_buff_on_special_damage.basic_attack_more","此角色受到特殊技能傷害後，有{1MEMBERCHANCE}%/{2MEMBERSCHANCE}%機率為所有盟友提升{ATTACK}%攻擊，持續{TURNS}個回合。
 若敵人的特殊技擊敗了此角色，則機率變為{1MEMBERCHANCEPERKILLINGHIT}%/{2MEMBERSCHANCEPERKILLINGHIT}%。"
 "familybonuses.description.long.tales1_mana_debuff_on_special_damage.tales1_family_mana_reduction","{1MEMBERCHANCE}%/{2MEMBERSCHANCE}%機率對使用特殊技能向此角色造成傷害的敵人施放{MANAREGEN}%法力產出，持續{STATUSEFFECT1TURNS}個回合。
-若敵人的特殊技能擊敗了這個角色，則機率變為{1MEMBERCHANCEPERKILLINGHIT}%/{2MEMBERSCHANCEPERKILLINGHIT}%。"
 "familybonuses.description.long.unique_family_healing_received_modifier_all","獲得任何治療都能增加{MULTIPLIER}%。"
 "familybonuses.description.long.unique_family_mana_multiplier_all","{MULTIPLIER}%法力產出。"
 "familybonuses.description.members","（家族成員：{0}）"
@@ -280,7 +264,6 @@
 "familybonuses.description.short.resist_mana_reduction_and_mana_debuffs_with_mana_on_resist.statuseffectdebuffs.addmana.single.allies","有{CHANCE}%機率可以抵禦法力減損和法力狀態異常，並在抵禦時獲得{POWER}%法力"
 "familybonuses.description.short.resist_mana_reduction_and_mana_debuffs_with_mana_on_resist_fauns.statuseffectdebuffs.addmana.single.allies","有{CHANCE}%機率可以抵禦法力減損和法力狀態異常，並在抵禦時獲得{POWER}%法力"
 "familybonuses.description.short.share_effects_from_atlantis","英雄屬於亞特蘭蒂斯家族。在戰隊中有至少1名相關英雄時，英雄能獲得相關家族的家族加成：
-{SHAREDEFFECTS}"
 "familybonuses.description.short.slime_familiar_attack_multiplier","超級小兵、小兵、超級惡魔和惡魔能獲得{MULTIPLIERPERCENTCHANGE}%攻擊力。"
 "familybonuses.description.short.special_damage_multiplier_zodiac_rat","農曆鼠年加成：{MULTIPLIERPERCENTCHANGE}%特殊技能力量"
 "familybonuses.description.short.start_battle_with_fox_minion","在戰鬥開始時，為自身召喚{FAMILIARAMOUNT}個狡猾的狐狸小兵。狡猾的狐狸小兵有80%的機率閃避來襲攻擊。成功閃避攻擊時，會從攻擊者身上竊取其最新的可驅散增益，並將其交給主人。"
@@ -313,21 +296,17 @@
 "herocard.family.description.common.bard","吟遊詩人家族賦予隊伍中該家族唯一成員的任意英雄單人加成："
 "herocard.family.description.common.beauty_beast","此家族的英雄獲得謙遜，以施放強力特殊技能。"
 "herocard.family.description.common.classic","英雄與同家族的其他獨特英雄搭檔時會變得更強。
-
 經典家族的英雄需要完全升等才能享有家族加成。
-
 完全升等加成2/3/4/5英雄："
 "herocard.family.description.common.construct","此家族的成員有一個構造體核心。"
 "herocard.family.description.common.cupid","邱比特家族賦予隊伍中該家族唯一成員的任意英雄單人加成："
 "herocard.family.description.common.fleur_de_sang","每回合開始時，每個血花角色用血百合標記剩餘生命值最高的敵人 。"
 "herocard.family.description.common.fox","戰鬥開始時，狐狸英雄會為他們自己召喚一隻狡猾的狐狸小兵。"
 "herocard.family.description.common.garrison","當英雄和來自相同家族的其他獨特英雄位於相同戰隊時，將會變得更加強大。
-
 1/2/3英雄的加成："
 "herocard.family.description.common.magic_carpet","此家族的英雄擁有飛行動量。"
 "herocard.family.description.common.masquerade","蒙面之神角色會在戰鬥開始時為自己召喚一名假面小兵。同一個隊伍裡的蒙面之神角色越多，假面小兵越強。"
 "herocard.family.description.common.mimic","模仿怪家族成員擁有模仿怪戰利品被動效果。
-
 完成地圖或任務關卡時，模仿怪戰利品有機會提供額外戰利品獎勵。
 額外戰利品的機率會隨著關卡能量花費提高而提升。
 模仿怪需處於最高等級且完全升等，方可啟用模仿怪戰利品效果。
@@ -336,7 +315,6 @@
 "herocard.family.description.eventfamiliesherobonus.active_now_bonus","活動英雄加成已啟動！
 此英雄在這個活動中有下列福利："
 "herocard.family.description.eventherobonus.active_now_bonus","活動英雄加成已啟動！
-此英雄在這個活動中有下列福利："
 "herocard.family.description.eventherobonus.active_now_event","此活動正在進行中！"
 "herocard.family.description.eventherobonus.alliancequestcastle","此家族的成員在騎士衝突活動中有額外福利。"
 "herocard.family.description.eventherobonus.alliancequestmoths","此家族的成員會在飛蛾之夜活動中獲得額外福利。"
@@ -379,7 +357,6 @@
 "herocard.family.linked_family.description.family_specific.zodiac_snake","此英雄給予農曆年家族成員以下農曆蛇年加成："
 "herocard.family.linked_family.description.family_specific.zodiac_tiger","此英雄給予農曆年家族成員以下農曆虎年加成："
 "herocard.family.linked_family.description.generic.zodiac","與其他同家族的獨特英雄組隊時，英雄會更強大。
-
 農曆年家族主打不同的農曆年動物英雄。與至少一名其他農曆年英雄配對時，每個農曆年動物會給予同農曆年家族成員一項不同的加成。"
 "herocard.family.name","家族"
 "herocard.family.title.abyss","地底荒野家族"
