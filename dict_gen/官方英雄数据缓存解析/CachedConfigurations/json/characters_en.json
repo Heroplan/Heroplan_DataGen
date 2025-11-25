@@ -27859,7 +27859,7 @@
     "manaSpeedId": "slow",
     "passiveSkills": [
       "attack_buff_on_damage_received",
-      "resist_direct_mana_reductions"
+      "resist_mana_reductions_with_health_boost_and_mana"
     ],
     "classType": "Sorcerer",
     "aetherGift": "Defense Up",
@@ -27938,10 +27938,10 @@
     "manaSpeedId": "slow",
     "passiveSkills": [
       "attack_buff_on_damage_received",
-      "resist_direct_mana_reductions",
-      "heal_on_expired_or_cleared_debuff_slow"
+      "resist_mana_reductions_with_health_boost_and_mana",
+      "never_miss_special"
     ],
-    "classType": "Monk",
+    "classType": "Paladin",
     "aetherGift": "Bulwark",
     "rarity": 5,
     "specialId": "gleaming_sword_and_iron_mail",
@@ -28692,7 +28692,7 @@
     "passiveSkills": [
       "resist_bleed",
       "righteous_rebellion_parent",
-      "resist_special_blocking"
+      "cleanse_on_special_critical_damage_all_safe"
     ],
     "classType": "Ranger",
     "aetherGift": "Special Boost",
@@ -30293,10 +30293,10 @@
     "manaSpeedId": "slow",
     "passiveSkills": [
       "minion_core",
-      "mana_on_own_familiar_death_construct"
+      "resist_special_blocking_with_health_boost_and_mana"
     ],
     "classType": "Wizard",
-    "aetherGift": "Attack Up",
+    "aetherGift": "Regen",
     "rarity": 5,
     "specialId": "burning_wok",
     "canBeReceivedDate": "2200-01-01 07:00:00",
@@ -30446,7 +30446,7 @@
       "resist_health_steal"
     ],
     "classType": "Ranger",
-    "aetherGift": "Special Armor",
+    "aetherGift": "Special Boost",
     "rarity": 5,
     "specialId": "arrows_of_altruism_liora",
     "canBeReceivedDate": "2025-12-01 07:00:00",
@@ -31982,7 +31982,7 @@
       "frost_on_minion_damage_done"
     ],
     "classType": "Cleric",
-    "aetherGift": "Ailment Immunity",
+    "aetherGift": "Attack Up",
     "rarity": 5,
     "specialId": "watchful_duty",
     "canBeReceivedDate": "2025-12-01 07:00:00",

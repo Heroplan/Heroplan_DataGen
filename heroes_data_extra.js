@@ -41461,7 +41461,7 @@ window.allHeroesExtra = [
             "Mana Raisers",
             "Immunity Providers",
             "Ghost Form & Hiding",
-            "Bypassers",
+            "Bypassers"
         ],
         "heroId": "mimic_aether_red",
         "baseAttack": 647,
@@ -41473,5 +41473,55 @@ window.allHeroesExtra = [
             "never_miss_special"
         ],
         "family": "mimic"
+    },
+    {
+        "name": "Lane",
+        "fancy name": "The Road Bandit",
+        "element": "Blue",
+        "rarity": 5,
+        "class": "Rogue",
+        "speed": "average",
+        "Release date": "2025-11-24",
+        "AetherPower": "Counterattack",
+        "skill_types": [
+            "AoE Attackers (Hit-3)",
+            "Ghost Form & Hiding",
+            "Extra Damage Dealers"
+        ],
+        "heroId": "scoundrel_lane",
+        "baseAttack": 618,
+        "baseDefense": 639,
+        "baseHealth": 1109,
+        "specialId": "roadside_surprise",
+        "passiveSkills": [
+            "cheat_death",
+            "ransack"
+        ],
+        "family": "shady_scoundrels"
+    },
+    {
+        "name": "Duval",
+        "fancy name": "The Deceitful Marksman",
+        "element": "Purple",
+        "rarity": 5,
+        "class": "Ranger",
+        "speed": "fast",
+        "Release date": "2025-11-24",
+        "AetherPower": "Dodge",
+        "skill_types": [
+            "Buff Stealers",
+            "Snipers",
+            "DoT Attackers"
+        ],
+        "heroId": "scoundrel_duval",
+        "baseAttack": 629,
+        "baseDefense": 628,
+        "baseHealth": 1102,
+        "specialId": "thieving_shot",
+        "passiveSkills": [
+            "cheat_death",
+            "ransack"
+        ],
+        "family": "shady_scoundrels"
     }
 ];

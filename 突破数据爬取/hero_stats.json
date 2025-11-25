@@ -28132,5 +28132,41 @@
             "Defense": 1643,
             "Life": 2786
         }
+    },
+    "Lane": {
+        "base": {
+            "Attack": 1273,
+            "Defense": 1316,
+            "Life": 2284,
+            "Power": 1258
+        },
+        "lb1": {
+            "Attack": 1371,
+            "Defense": 1418,
+            "Life": 2461
+        },
+        "lb2": {
+            "Attack": 1569,
+            "Defense": 1623,
+            "Life": 2816
+        }
+    },
+    "Duval": {
+        "base": {
+            "Attack": 1295,
+            "Defense": 1293,
+            "Life": 2270,
+            "Power": 1258
+        },
+        "lb1": {
+            "Attack": 1396,
+            "Defense": 1394,
+            "Life": 2446
+        },
+        "lb2": {
+            "Attack": 1597,
+            "Defense": 1595,
+            "Life": 2799
+        }
     }
 }

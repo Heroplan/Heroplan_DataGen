@@ -110,6 +110,14 @@
           {
             "key": "statuseffects.description.constantmanasteal.while.single.allies.familiaralive.cursed_sigil_parasite_costume",
             "text": "[#!]{CURRENTMANASTEAL}%[#] del mana ricevuto viene rubato (attivo finché questo personaggio ha un [#!]demone sigillo maledetto[#])."
+          },
+          {
+            "key": "specials.v2.property.bypasscounterattackandreflect",
+            "text": "L'attacco supera i contrattacchi e il riflesso."
+          },
+          {
+            "key": "specials.v2.property.statuseffectreallocation.from.all.enemies.to.lessorequaltohalfhpleft.allies.customreallocationcount",
+            "text": "Ruba l'ultima magia benefica annullabile a tutti i nemici e la distribuisce in modo casuale agli alleati che hanno il 50% o meno di HP rimasti."
           }
         ]
       },
@@ -222,6 +230,14 @@
           {
             "key": "statuseffects.description.constantmanasteal.while.single.allies.familiaralive.cursed_sigil_parasite_costume",
             "text": "[#!]{CURRENTMANASTEAL} %[#] полученной маны будет украдено. (Действует, пока у героя есть [#!]проклятая печать-паразит[#])"
+          },
+          {
+            "key": "specials.v2.property.bypasscounterattackandreflect",
+            "text": "Атака обходит контратаки и ее нельзя отразить."
+          },
+          {
+            "key": "specials.v2.property.statuseffectreallocation.from.all.enemies.to.lessorequaltohalfhpleft.allies.customreallocationcount",
+            "text": "Крадет у всех врагов последние наложенные снимаемые усиления и случайным образом распределяет их между союзниками, у которых осталось 50 % и менее здоровья."
           }
         ]
       },
@@ -334,6 +350,14 @@
           {
             "key": "statuseffects.description.constantmanasteal.while.single.allies.familiaralive.cursed_sigil_parasite_costume",
             "text": "[#!]{CURRENTMANASTEAL}%[#] wygenerowanej many zostało ukradzione. (Efekt aktywny, póki postać posiada [#!]przeklętego magicznego potwora[#])"
+          },
+          {
+            "key": "specials.v2.property.bypasscounterattackandreflect",
+            "text": "Atak omija kontrataki i odbicie."
+          },
+          {
+            "key": "specials.v2.property.statuseffectreallocation.from.all.enemies.to.lessorequaltohalfhpleft.allies.customreallocationcount",
+            "text": "Zabiera ostatnie odwoływalne wzmocnienie wszystkim wrogom i losowo rozprowadza je na sojuszników, którym pozostało 50% lub mniej zdrowia."
           }
         ]
       },
@@ -446,6 +470,14 @@
           {
             "key": "statuseffects.description.constantmanasteal.while.single.allies.familiaralive.cursed_sigil_parasite_costume",
             "text": "[#!]{CURRENTMANASTEAL}%[#]所獲的法力會被竊取。（此角色有[#!]受詛咒的符咒惡魔[#]時才有效）"
+          },
+          {
+            "key": "specials.v2.property.bypasscounterattackandreflect",
+            "text": "此攻擊會避開反擊和反射效果。"
+          },
+          {
+            "key": "specials.v2.property.statuseffectreallocation.from.all.enemies.to.lessorequaltohalfhpleft.allies.customreallocationcount",
+            "text": "偷走所有敵人最新的可驅散增益，並隨機分配給生命值剩餘50%或更低的盟友。"
           }
         ]
       },
@@ -558,6 +590,14 @@
           {
             "key": "statuseffects.description.constantmanasteal.while.single.allies.familiaralive.cursed_sigil_parasite_costume",
             "text": "[#!]받은 마나 중 {CURRENTMANASTEAL}%[#]를 빼앗깁니다. (이 캐릭터에게 [#!]저주받은 인장 악마[#]가 있는 한 활성화)"
+          },
+          {
+            "key": "specials.v2.property.bypasscounterattackandreflect",
+            "text": "공격이 반격과 반사를 우회합니다."
+          },
+          {
+            "key": "specials.v2.property.statuseffectreallocation.from.all.enemies.to.lessorequaltohalfhpleft.allies.customreallocationcount",
+            "text": "마지막 해제 가능한 강화 효과를 모든 적으로부터 훔쳐, 무작위로 HP가 50% 이하인 아군에게 배포합니다."
           }
         ]
       },
@@ -670,6 +710,14 @@
           {
             "key": "statuseffects.description.constantmanasteal.while.single.allies.familiaralive.cursed_sigil_parasite_costume",
             "text": "[#!]{CURRENTMANASTEAL} %[#] des erhaltenen Manas wird gestohlen. (Aktiv, solange dieser Charakter einen [#!]Verfluchtes-Siegel-Feind[#] hat)"
+          },
+          {
+            "key": "specials.v2.property.bypasscounterattackandreflect",
+            "text": "Der Angriff umgeht Gegenangriffe und Reflexionen."
+          },
+          {
+            "key": "specials.v2.property.statuseffectreallocation.from.all.enemies.to.lessorequaltohalfhpleft.allies.customreallocationcount",
+            "text": "Stiehlt den neuesten bannbaren Bonus von allen Gegnern und verteilt die Boni zufällig auf Verbündete, die weniger als 50 % LP besitzen."
           }
         ]
       },
@@ -782,6 +830,14 @@
           {
             "key": "statuseffects.description.constantmanasteal.while.single.allies.familiaralive.cursed_sigil_parasite_costume",
             "text": "付与されたマナの[#!]{CURRENTMANASTEAL}%[#]が奪われる。この効果は、このキャラクターが[#!]呪いのシジルのフィエンド[#]を所有する限り持続する。"
+          },
+          {
+            "key": "specials.v2.property.bypasscounterattackandreflect",
+            "text": "攻撃時に反撃と反射を無効化する。"
+          },
+          {
+            "key": "specials.v2.property.statuseffectreallocation.from.all.enemies.to.lessorequaltohalfhpleft.allies.customreallocationcount",
+            "text": "敵全員から、直近の解除可能なバフを盗み、ライフが50%以下の仲間全員にランダムに分配する。"
           }
         ]
       },
@@ -894,6 +950,14 @@
           {
             "key": "statuseffects.description.constantmanasteal.while.single.allies.familiaralive.cursed_sigil_parasite_costume",
             "text": "[#!]{CURRENTMANASTEAL} %[#] av erhållen mana stjäls. (Aktivt så länge den här karaktären har ett [#!]förhäxat sigillodjur[#].)"
+          },
+          {
+            "key": "specials.v2.property.bypasscounterattackandreflect",
+            "text": "Attacken ignorerar motattacker och reflektioner."
+          },
+          {
+            "key": "specials.v2.property.statuseffectreallocation.from.all.enemies.to.lessorequaltohalfhpleft.allies.customreallocationcount",
+            "text": "Stjäl de senaste bonusarna som kan avbrytas från alla fiender och fördelar dem slumpmässigt på allierade som har 50 % eller mindre hälsa kvar."
           }
         ]
       },
@@ -1006,6 +1070,14 @@
           {
             "key": "statuseffects.description.constantmanasteal.while.single.allies.familiaralive.cursed_sigil_parasite_costume",
             "text": "Alınan mananın [#!]%{CURRENTMANASTEAL}[#] kadarı çalındı. (Karakter [#!]Lanetli Mühür Canavarına[#] sahip olduğu sürece aktiftir)"
+          },
+          {
+            "key": "specials.v2.property.bypasscounterattackandreflect",
+            "text": "Saldırı, kontratakları ve yansımaları atlatır."
+          },
+          {
+            "key": "specials.v2.property.statuseffectreallocation.from.all.enemies.to.lessorequaltohalfhpleft.allies.customreallocationcount",
+            "text": "Tüm düşmanlardan son bozulabilir buff'ı çalar ve onları rastgele %50 veya daha az SP'si kalan müttefiklere dağıtır."
           }
         ]
       },
@@ -1122,6 +1194,18 @@
           {
             "key": "statuseffects.description.constantmanasteal.while.single.allies.familiaralive.cursed_sigil_parasite_costume",
             "text": "[#!]{CURRENTMANASTEAL}%[#] of received mana is stolen. (Active as long as this character has a [#!]Cursed Sigil Fiend[#])"
+          },
+          {
+            "key": "herocard.passive_skill.description.mimiclootonlevelcompleted.mimic_aether_red",
+            "text": "This Mimic gives a chance for extra loot when completing stages:\n\n*****\n[*] Alpha Aether\n[*] Fire Aether III\n\n****\n[*] Fire Aether II\n\n***\n[*] Fire Aether I"
+          },
+          {
+            "key": "specials.v2.property.bypasscounterattackandreflect",
+            "text": "The attack bypasses counterattacks and reflection."
+          },
+          {
+            "key": "specials.v2.property.statuseffectreallocation.from.all.enemies.to.lessorequaltohalfhpleft.allies.customreallocationcount",
+            "text": "Steals the latest dispellable buff from all the enemies and randomly distributes them on allies who have 50% or less HP left."
           }
         ]
       },
@@ -1234,6 +1318,14 @@
           {
             "key": "statuseffects.description.constantmanasteal.while.single.allies.familiaralive.cursed_sigil_parasite_costume",
             "text": "تتم سرقة [#!]{CURRENTMANASTEAL}%[#] من القوة المتلقاة. (يظل التأثير مفعلًا ما دامت هذه الشخصية لديها [#!]شرير سيغيل ملعونًا[#])"
+          },
+          {
+            "key": "specials.v2.property.bypasscounterattackandreflect",
+            "text": "سيتجاوز الهجوم الهجمات المضادة والانعكاس."
+          },
+          {
+            "key": "specials.v2.property.statuseffectreallocation.from.all.enemies.to.lessorequaltohalfhpleft.allies.customreallocationcount",
+            "text": "تسرق آخر التعزيزات التي يمكن إبطالها من الأعداء وتوزعها عشوائيًّا على الحلفاء الذين لديهم 50% أو أقل من نقاط الصحة المتبقية."
           }
         ]
       },
@@ -1346,6 +1438,14 @@
           {
             "key": "statuseffects.description.constantmanasteal.while.single.allies.familiaralive.cursed_sigil_parasite_costume",
             "text": "[#!]{CURRENTMANASTEAL} %[#] du mana reçu est volé. (Actif tant que ce personnage a un [#!]démon sceau maudit[#])"
+          },
+          {
+            "key": "specials.v2.property.bypasscounterattackandreflect",
+            "text": "L'attaque ignore les contre-attaques et les renvois."
+          },
+          {
+            "key": "specials.v2.property.statuseffectreallocation.from.all.enemies.to.lessorequaltohalfhpleft.allies.customreallocationcount",
+            "text": "Vole le bonus dissipable le plus récent de chaque ennemi, puis distribue aléatoirement ces bonus aux alliés qui ont 50 % de PV ou moins."
           }
         ]
       },
@@ -1458,6 +1558,14 @@
           {
             "key": "statuseffects.description.constantmanasteal.while.single.allies.familiaralive.cursed_sigil_parasite_costume",
             "text": "[#!]{CURRENTMANASTEAL}%[#] do mana recebido é roubado. (Ativo enquanto este personagem tem um [#!]demônio Selo Maldito[#])"
+          },
+          {
+            "key": "specials.v2.property.bypasscounterattackandreflect",
+            "text": "O ataque ignora contra-ataques e reflexos."
+          },
+          {
+            "key": "specials.v2.property.statuseffectreallocation.from.all.enemies.to.lessorequaltohalfhpleft.allies.customreallocationcount",
+            "text": "Rouba o reforço dissipável mais recente de todos os inimigos e distribui esses reforços aleatoriamente entre os aliados com até 50% de PV."
           }
         ]
       },
@@ -1570,6 +1678,14 @@
           {
             "key": "statuseffects.description.constantmanasteal.while.single.allies.familiaralive.cursed_sigil_parasite_costume",
             "text": "[#!]{CURRENTMANASTEAL}%[#]dari mana yang diterima dicuri. (Aktif selama karakter ini memiliiki [#!]Iblis Sigil Termantrai[#])"
+          },
+          {
+            "key": "specials.v2.property.bypasscounterattackandreflect",
+            "text": "Serangan itu melewati serangan balasan dan pantulan."
+          },
+          {
+            "key": "specials.v2.property.statuseffectreallocation.from.all.enemies.to.lessorequaltohalfhpleft.allies.customreallocationcount",
+            "text": "Mencuri genjotan terbaru yang bisa dienyahkan dari semua musuh dan secara acak membagikannya kepada semua sekutu dengan sisa HP 50% atau kurang."
           }
         ]
       },
@@ -1682,6 +1798,14 @@
           {
             "key": "statuseffects.description.constantmanasteal.while.single.allies.familiaralive.cursed_sigil_parasite_costume",
             "text": "[#!]{CURRENTMANASTEAL} %[#] saadusta manasta varastetaan. (Voimassa niin kauan kuin tällä hahmolla on [#!]kiroussinettiriiviö[#])"
+          },
+          {
+            "key": "specials.v2.property.bypasscounterattackandreflect",
+            "text": "Hyökkäys ohittaa vastahyökkäykset ja heijastuksen."
+          },
+          {
+            "key": "specials.v2.property.statuseffectreallocation.from.all.enemies.to.lessorequaltohalfhpleft.allies.customreallocationcount",
+            "text": "Varastaa uusimman häivytettävän tehosteen kaikilta vihollisilta ja jakaa ne sattumanvaraisesti liittolaisille, joilla on enintään 50 % terveyttä jäljellä."
           }
         ]
       },
@@ -1794,6 +1918,14 @@
           {
             "key": "statuseffects.description.constantmanasteal.while.single.allies.familiaralive.cursed_sigil_parasite_costume",
             "text": "[#!]{CURRENTMANASTEAL} %[#] af den modtagne mana stjæles. (Aktiv, så længe figuren har en [#!]forbandede sigildjævel[#])"
+          },
+          {
+            "key": "specials.v2.property.bypasscounterattackandreflect",
+            "text": "Angrebet ignorerer modangreb og refleksioner."
+          },
+          {
+            "key": "specials.v2.property.statuseffectreallocation.from.all.enemies.to.lessorequaltohalfhpleft.allies.customreallocationcount",
+            "text": "Stjæler den seneste buffer, der kan ophæves, fra alle fjender og fordeler dem tilfældigt blandt allierede, der har højst 50 % helbred tilbage."
           }
         ]
       },
@@ -1906,6 +2038,14 @@
           {
             "key": "statuseffects.description.constantmanasteal.while.single.allies.familiaralive.cursed_sigil_parasite_costume",
             "text": "Se roba un [#!]{CURRENTMANASTEAL} %[#] del maná recibido. (Se activa siempre que el personaje tenga un [#!]demonio sello maldito[#])."
+          },
+          {
+            "key": "specials.v2.property.bypasscounterattackandreflect",
+            "text": "El ataque ignora los contraataques y reflejos."
+          },
+          {
+            "key": "specials.v2.property.statuseffectreallocation.from.all.enemies.to.lessorequaltohalfhpleft.allies.customreallocationcount",
+            "text": "Roba la última bendición descartable de todos los enemigos y la distribuye aleatoriamente entre los aliados a los que les quede un 50 % o menos de VIT."
           }
         ]
       },
@@ -2018,6 +2158,14 @@
           {
             "key": "statuseffects.description.constantmanasteal.while.single.allies.familiaralive.cursed_sigil_parasite_costume",
             "text": "[#!]{CURRENTMANASTEAL} %[#] av mottatt mana stjeles. (Aktiv så lenge denne figuren har en [#!]forbannet Sigil-djevel[#])"
+          },
+          {
+            "key": "specials.v2.property.bypasscounterattackandreflect",
+            "text": "Angrepet forbipasserer motangrep og reflektering"
+          },
+          {
+            "key": "specials.v2.property.statuseffectreallocation.from.all.enemies.to.lessorequaltohalfhpleft.allies.customreallocationcount",
+            "text": "Stjeler den nyeste fjernbare økningen fra fiendene, og fordeler dem tilfeldig på allierte som har 50 % eller mindre HP igjen."
           }
         ]
       },
@@ -2130,6 +2278,14 @@
           {
             "key": "statuseffects.description.constantmanasteal.while.single.allies.familiaralive.cursed_sigil_parasite_costume",
             "text": "[#!]{CURRENTMANASTEAL}%[#] van ontvangen mana wordt gestolen. (Actief zolang dit personage een [#!]vervloekte zegeldemon[#] heeft)"
+          },
+          {
+            "key": "specials.v2.property.bypasscounterattackandreflect",
+            "text": "De aanval omzeilt tegenaanvallen en weerspiegeling altijd."
+          },
+          {
+            "key": "specials.v2.property.statuseffectreallocation.from.all.enemies.to.lessorequaltohalfhpleft.allies.customreallocationcount",
+            "text": "Steelt de nieuwste oppepper die ongedaan kan worden gemaakt van alle vijanden en verdeelt deze willekeurig onder alle bondgenoten die 50% of minder HP over hebben."
           }
         ]
       },
@@ -2242,10 +2398,18 @@
           {
             "key": "statuseffects.description.constantmanasteal.while.single.allies.familiaralive.cursed_sigil_parasite_costume",
             "text": "获得的法力中有[#!]{CURRENTMANASTEAL}%[#]会被偷取。（此角色拥有[#!]诅咒印记恶魔[#]期间有效）"
+          },
+          {
+            "key": "specials.v2.property.bypasscounterattackandreflect",
+            "text": "此攻击无视反击和反弹。"
+          },
+          {
+            "key": "specials.v2.property.statuseffectreallocation.from.all.enemies.to.lessorequaltohalfhpleft.allies.customreallocationcount",
+            "text": "偷取全体敌人最新的可驱散增益，并随机施放给生命值不高于50%的盟友。"
           }
         ]
       }
     }
   },
-  "languageOverridesConfigId": 955588832
+  "languageOverridesConfigId": 100415327
 }

@@ -1,27 +1,5 @@
 [
     {
-        "name": "Duval",
-        "fancy_name": "The Deceitful Marksman",
-        "color": "Purple",
-        "Release date": "",
-        "star": 5,
-        "family": "shady_scoundrels",
-        "costume_id": 0,
-        "heroId": "scoundrel_duval",
-        "Lottery_Only":1
-    },
-    {
-        "name": "Lane",
-        "fancy_name": "The Road Bandit",
-        "color": "Blue",
-        "Release date": "",
-        "star": 5,
-        "family": "shady_scoundrels",
-        "costume_id": 0,
-        "heroId": "scoundrel_lane",
-        "Lottery_Only":1
-    },
-    {
         "name": "Noel",
         "fancy_name": "Joyful Sledge Kid",
         "color": "Purple",

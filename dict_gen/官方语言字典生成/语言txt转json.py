@@ -6,7 +6,7 @@ import glob
 def convert_txt_to_json():
     # 定义源目录和输出目录
     source_dir = 'generated_txt'
-    output_dir = 'langs_json'  # 或者直接输出到前端可以读取的目录
+    output_dir = '../../../Heroplan.github.io/langs_json'  # 或者直接输出到前端可以读取的目录
     
     if not os.path.exists(output_dir):
         os.makedirs(output_dir)

@@ -1711,6 +1711,7 @@
         "id": "com.smallgiantgames.empires.christmas_gift",
         "dollarValue": 10,
         "zyngaStoreDollarValueOverride": 9,
+        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -15124,6 +15125,7 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.triple6_rooster_1",
         "dollarValue": 5,
+        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -15205,6 +15207,7 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.triple6_rooster_3",
         "dollarValue": 100,
+        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -16200,6 +16203,7 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.alliancegiftoffer",
         "dollarValue": 3,
+        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -16313,6 +16317,7 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.mystery1",
         "dollarValue": 1,
+        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -16326,6 +16331,7 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.mystery1_bonus",
         "dollarValue": 5,
+        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -16339,6 +16345,7 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.mystery2",
         "dollarValue": 2,
+        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -16352,6 +16359,7 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.mystery2_bonus",
         "dollarValue": 8,
+        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -22652,6 +22660,7 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.step_up_1",
         "dollarValue": 3,
+        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -22675,6 +22684,7 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.step_up_2",
         "dollarValue": 5,
+        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -22703,6 +22713,7 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.step_up_3",
         "dollarValue": 10,
+        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -22726,6 +22737,7 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.step_up_4",
         "dollarValue": 20,
+        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -22754,6 +22766,7 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.step_up_5",
         "dollarValue": 30,
+        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -23606,6 +23619,7 @@
         "id": "com.smallgiantgames.empires.selectable_elemental_blue3",
         "dollarValue": 30,
         "zyngaStoreDollarValueOverride": 27,
+        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -23655,6 +23669,7 @@
         "id": "com.smallgiantgames.empires.selectable_elemental_green3",
         "dollarValue": 30,
         "zyngaStoreDollarValueOverride": 27,
+        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -23704,6 +23719,7 @@
         "id": "com.smallgiantgames.empires.selectable_elemental_purple3",
         "dollarValue": 30,
         "zyngaStoreDollarValueOverride": 27,
+        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -23753,6 +23769,7 @@
         "id": "com.smallgiantgames.empires.selectable_elemental_red3",
         "dollarValue": 30,
         "zyngaStoreDollarValueOverride": 27,
+        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -23802,6 +23819,7 @@
         "id": "com.smallgiantgames.empires.selectable_elemental_yellow3",
         "dollarValue": 30,
         "zyngaStoreDollarValueOverride": 27,
+        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -23851,6 +23869,7 @@
         "id": "com.smallgiantgames.empires.mastertraineroffer2",
         "dollarValue": 30,
         "zyngaStoreDollarValueOverride": 27,
+        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -23874,6 +23893,7 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.step_up_fire_1",
         "dollarValue": 2,
+        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -23897,6 +23917,7 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.step_up_fire_2",
         "dollarValue": 3,
+        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -23920,6 +23941,7 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.step_up_fire_3",
         "dollarValue": 5,
+        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -23943,6 +23965,7 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.step_up_fire_4",
         "dollarValue": 20,
+        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -23971,6 +23994,7 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.step_up_fire_5",
         "dollarValue": 50,
+        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -24309,6 +24333,7 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.triple6_rooster_2b",
         "dollarValue": 30,
+        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -24678,14 +24703,15 @@
         "realMoneyProductInStore": true,
         "contents": [
           {
-            "type": "Gem",
-            "amount": 400
+            "type": "Item",
+            "id": "lottery_super_elemental_coin",
+            "amount": 250,
+            "zyngaStoreExtraAmount": 50
           },
           {
             "type": "Item",
-            "id": "lottery_super_elemental_coin",
-            "amount": 300,
-            "zyngaStoreExtraAmount": 50
+            "id": "tome_levels_yellow_lesser",
+            "amount": 1
           }
         ]
       },
@@ -24789,14 +24815,9 @@
             "zyngaStoreExtraAmount": 1
           },
           {
-            "type": "Hero",
-            "id": "trainer_yellow_epic",
-            "amount": 6
-          },
-          {
-            "type": "Hero",
-            "id": "trainer_yellow_rare",
-            "amount": 18
+            "type": "Item",
+            "id": "tome_levels_yellow_greater",
+            "amount": 1
           }
         ]
       },
@@ -24808,14 +24829,15 @@
         "realMoneyProductInStore": true,
         "contents": [
           {
-            "type": "Gem",
-            "amount": 400
+            "type": "Item",
+            "id": "lottery_super_elemental_coin",
+            "amount": 250,
+            "zyngaStoreExtraAmount": 50
           },
           {
             "type": "Item",
-            "id": "lottery_super_elemental_coin",
-            "amount": 300,
-            "zyngaStoreExtraAmount": 50
+            "id": "tome_levels_green_lesser",
+            "amount": 1
           }
         ]
       },
@@ -24919,14 +24941,9 @@
             "zyngaStoreExtraAmount": 1
           },
           {
-            "type": "Hero",
-            "id": "trainer_green_epic",
-            "amount": 6
-          },
-          {
-            "type": "Hero",
-            "id": "trainer_green_rare",
-            "amount": 18
+            "type": "Item",
+            "id": "tome_levels_green_greater",
+            "amount": 1
           }
         ]
       },
@@ -24937,14 +24954,15 @@
         "realMoneyProductInStore": true,
         "contents": [
           {
-            "type": "Gem",
-            "amount": 400
+            "type": "Item",
+            "id": "lottery_super_elemental_coin",
+            "amount": 250,
+            "zyngaStoreExtraAmount": 50
           },
           {
             "type": "Item",
-            "id": "lottery_super_elemental_coin",
-            "amount": 300,
-            "zyngaStoreExtraAmount": 50
+            "id": "tome_levels_blue_lesser",
+            "amount": 1
           }
         ]
       },
@@ -25044,14 +25062,9 @@
             "zyngaStoreExtraAmount": 1
           },
           {
-            "type": "Hero",
-            "id": "trainer_blue_epic",
-            "amount": 6
-          },
-          {
-            "type": "Hero",
-            "id": "trainer_blue_rare",
-            "amount": 18
+            "type": "Item",
+            "id": "tome_levels_blue_greater",
+            "amount": 1
           }
         ]
       },
@@ -25062,14 +25075,15 @@
         "realMoneyProductInStore": true,
         "contents": [
           {
-            "type": "Gem",
-            "amount": 400
+            "type": "Item",
+            "id": "lottery_super_elemental_coin",
+            "amount": 250,
+            "zyngaStoreExtraAmount": 50
           },
           {
             "type": "Item",
-            "id": "lottery_super_elemental_coin",
-            "amount": 300,
-            "zyngaStoreExtraAmount": 50
+            "id": "tome_levels_red_lesser",
+            "amount": 1
           }
         ]
       },
@@ -25169,14 +25183,9 @@
             "zyngaStoreExtraAmount": 1
           },
           {
-            "type": "Hero",
-            "id": "trainer_red_epic",
-            "amount": 6
-          },
-          {
-            "type": "Hero",
-            "id": "trainer_red_rare",
-            "amount": 18
+            "type": "Item",
+            "id": "tome_levels_red_greater",
+            "amount": 1
           }
         ]
       },
@@ -25187,14 +25196,15 @@
         "realMoneyProductInStore": true,
         "contents": [
           {
-            "type": "Gem",
-            "amount": 400
+            "type": "Item",
+            "id": "lottery_super_elemental_coin",
+            "amount": 250,
+            "zyngaStoreExtraAmount": 50
           },
           {
             "type": "Item",
-            "id": "lottery_super_elemental_coin",
-            "amount": 300,
-            "zyngaStoreExtraAmount": 50
+            "id": "tome_levels_purple_lesser",
+            "amount": 1
           }
         ]
       },
@@ -25294,14 +25304,9 @@
             "zyngaStoreExtraAmount": 1
           },
           {
-            "type": "Hero",
-            "id": "trainer_purple_epic",
-            "amount": 6
-          },
-          {
-            "type": "Hero",
-            "id": "trainer_purple_rare",
-            "amount": 18
+            "type": "Item",
+            "id": "tome_levels_purple_greater",
+            "amount": 1
           }
         ]
       },
@@ -28142,6 +28147,7 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.unlock_master_trainer_tier1",
         "dollarValue": 3,
+        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -28161,6 +28167,7 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.unlock_master_trainer_tier2",
         "dollarValue": 5,
+        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -28180,6 +28187,7 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.unlock_master_trainer_tier3",
         "dollarValue": 15,
+        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -28204,6 +28212,7 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.unlock_master_trainer_tier4",
         "dollarValue": 20,
+        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -28229,6 +28238,7 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.unlock_master_trainer_tier5",
         "dollarValue": 50,
+        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -29322,7 +29332,6 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.goblins_day1_1",
         "dollarValue": 5,
-        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -29341,7 +29350,6 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.goblins_day1_2",
         "dollarValue": 30,
-        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -29360,7 +29368,6 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.goblins_day2_1",
         "dollarValue": 4,
-        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -29375,7 +29382,6 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.goblins_day2_2",
         "dollarValue": 10,
-        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -29405,7 +29411,6 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.goblins_day3_1",
         "dollarValue": 5,
-        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -29424,7 +29429,6 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.goblins_day3_2",
         "dollarValue": 35,
-        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -29458,9 +29462,9 @@
           },
           {
             "type": "Item",
-            "id": "lottery_super_elemental_coin",
-            "amount": 1000,
-            "zyngaStoreExtraAmount": 300
+            "id": "tome_levels_yellow_lesser",
+            "amount": 3,
+            "zyngaStoreExtraAmount": 1
           }
         ]
       },
@@ -29477,9 +29481,9 @@
           },
           {
             "type": "Item",
-            "id": "lottery_super_elemental_coin",
-            "amount": 1000,
-            "zyngaStoreExtraAmount": 300
+            "id": "tome_levels_green_lesser",
+            "amount": 3,
+            "zyngaStoreExtraAmount": 1
           }
         ]
       },
@@ -29495,9 +29499,9 @@
           },
           {
             "type": "Item",
-            "id": "lottery_super_elemental_coin",
-            "amount": 1000,
-            "zyngaStoreExtraAmount": 300
+            "id": "tome_levels_blue_lesser",
+            "amount": 3,
+            "zyngaStoreExtraAmount": 1
           }
         ]
       },
@@ -29513,9 +29517,9 @@
           },
           {
             "type": "Item",
-            "id": "lottery_super_elemental_coin",
-            "amount": 1000,
-            "zyngaStoreExtraAmount": 300
+            "id": "tome_levels_red_lesser",
+            "amount": 3,
+            "zyngaStoreExtraAmount": 1
           }
         ]
       },
@@ -29531,9 +29535,9 @@
           },
           {
             "type": "Item",
-            "id": "lottery_super_elemental_coin",
-            "amount": 1000,
-            "zyngaStoreExtraAmount": 300
+            "id": "tome_levels_purple_lesser",
+            "amount": 3,
+            "zyngaStoreExtraAmount": 1
           }
         ]
       },
@@ -30712,14 +30716,14 @@
         "id": "offer_dragon_cmonday2024_free_a",
         "contents": [
           {
-            "type": "Dragon",
-            "id": "trainer_dragon_red_common",
-            "amount": 2
+            "type": "Item",
+            "id": "lottery_ancient_dragon_coin",
+            "amount": 100
           },
           {
-            "type": "Dragon",
-            "id": "trainer_dragon_blue_common",
-            "amount": 2
+            "type": "Item",
+            "id": "refill_dragon_energy_pve_full",
+            "amount": 1
           }
         ]
       },
@@ -30728,14 +30732,14 @@
         "id": "offer_dragon_cmonday2024_free_b",
         "contents": [
           {
-            "type": "Dragon",
-            "id": "trainer_dragon_purple_common",
-            "amount": 2
+            "type": "Item",
+            "id": "lottery_elite_dragon",
+            "amount": 1
           },
           {
-            "type": "Dragon",
-            "id": "trainer_dragon_yellow_common",
-            "amount": 2
+            "type": "Item",
+            "id": "refill_dragon_energy_pvp_full",
+            "amount": 1
           }
         ]
       },
@@ -33486,6 +33490,7 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.selectable_vips_1",
         "dollarValue": 4,
+        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -33504,6 +33509,7 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.selectable_vips_2",
         "dollarValue": 7,
+        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -33522,6 +33528,7 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.selectable_vips_3",
         "dollarValue": 10,
+        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -33545,6 +33552,7 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.selectable_vips_4",
         "dollarValue": 15,
+        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -35308,6 +35316,7 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.dragon_cmonday2024_1a",
         "dollarValue": 5,
+        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -35318,27 +35327,27 @@
           {
             "type": "Dragon",
             "id": "trainer_dragon_red_common",
-            "amount": 2
+            "amount": 7
           },
           {
             "type": "Dragon",
             "id": "trainer_dragon_blue_common",
-            "amount": 2
+            "amount": 7
           },
           {
             "type": "Dragon",
             "id": "trainer_dragon_yellow_common",
-            "amount": 2
+            "amount": 7
           },
           {
             "type": "Dragon",
             "id": "trainer_dragon_purple_common",
-            "amount": 2
+            "amount": 7
           },
           {
             "type": "Dragon",
             "id": "trainer_dragon_green_common",
-            "amount": 2
+            "amount": 7
           }
         ]
       },
@@ -35346,6 +35355,7 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.dragon_cmonday2024_1b",
         "dollarValue": 7,
+        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -35355,18 +35365,23 @@
           },
           {
             "type": "Item",
-            "id": "assist_skill_material_uncommon",
-            "amount": 3
-          },
-          {
-            "type": "Item",
-            "id": "assist_skill_material_common",
+            "id": "refill_dragonstone_medium",
             "amount": 10
           },
           {
             "type": "Item",
-            "id": "lottery_silver_dragon_coin",
-            "amount": 200
+            "id": "refill_fish_medium",
+            "amount": 10
+          },
+          {
+            "type": "Item",
+            "id": "time_skip_hour",
+            "amount": 25
+          },
+          {
+            "type": "Product",
+            "id": "dragon_cap_increase",
+            "amount": 1
           }
         ]
       },
@@ -35374,6 +35389,7 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.dragon_cmonday2024_2a",
         "dollarValue": 10,
+        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -35383,18 +35399,23 @@
           },
           {
             "type": "Item",
-            "id": "dragon_uncut_ruby",
+            "id": "dragon_rainbow_chalice",
             "amount": 1
           },
           {
             "type": "Item",
-            "id": "dragon_uncut_jade",
-            "amount": 1
+            "id": "lottery_ancient_dragon_coin",
+            "amount": 200
           },
           {
             "type": "Item",
-            "id": "dragon_uncut_topaz",
-            "amount": 1
+            "id": "dragon_battle_healing_comet",
+            "amount": 5
+          },
+          {
+            "type": "Item",
+            "id": "dragon_battle_mana_comet",
+            "amount": 5
           }
         ]
       },
@@ -35402,6 +35423,7 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.dragon_cmonday2024_2b",
         "dollarValue": 10,
+        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -35411,18 +35433,23 @@
           },
           {
             "type": "Item",
-            "id": "dragon_uncut_amethyst",
+            "id": "dragon_dragonstone_pendant",
             "amount": 1
           },
           {
             "type": "Item",
-            "id": "dragon_uncut_sapphire",
-            "amount": 1
+            "id": "lottery_ancient_dragon_coin",
+            "amount": 200
           },
           {
             "type": "Item",
-            "id": "dragon_ornate_headdress",
-            "amount": 1
+            "id": "dragon_battle_storm_attack",
+            "amount": 5
+          },
+          {
+            "type": "Item",
+            "id": "dragon_battle_veil_of_eternity",
+            "amount": 5
           }
         ]
       },
@@ -35430,6 +35457,7 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.dragon_cmonday2024_3",
         "dollarValue": 30,
+        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -35440,32 +35468,32 @@
           {
             "type": "Item",
             "id": "assist_skill_material_epic",
-            "amount": 3
-          },
-          {
-            "type": "Item",
-            "id": "assist_skill_material_rare",
-            "amount": 5
-          },
-          {
-            "type": "Item",
-            "id": "assist_skill_material_uncommon",
             "amount": 10
           },
           {
             "type": "Item",
-            "id": "assist_skill_material_common",
-            "amount": 15
+            "id": "assist_skill_material_rare",
+            "amount": 10
+          },
+          {
+            "type": "Item",
+            "id": "lottery_ancient_dragon_coin",
+            "amount": 1000
           },
           {
             "type": "Item",
             "id": "lottery_elite_dragon",
-            "amount": 1
+            "amount": 10
           },
           {
             "type": "Item",
-            "id": "lottery_silver_dragon_coin",
-            "amount": 100
+            "id": "misc_loot_ticket",
+            "amount": 15
+          },
+          {
+            "type": "Item",
+            "id": "refill_dragon_energy_pve_full",
+            "amount": 3
           }
         ]
       },
@@ -37113,12 +37141,12 @@
         "contents": [
           {
             "type": "Gem",
-            "amount": 500
+            "amount": 400
           },
           {
             "type": "Item",
             "id": "lottery_super_elemental_coin",
-            "amount": 100,
+            "amount": 300,
             "zyngaStoreExtraAmount": 50
           }
         ]
@@ -37202,7 +37230,6 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.goblins_day0_2",
         "dollarValue": 17,
-        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -37221,7 +37248,6 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.goblins_day0_1",
         "dollarValue": 4,
-        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -57707,5 +57733,5 @@
       }
     ]
   },
-  "productsConfigId": 911510456
+  "productsConfigId": 171001194
 }

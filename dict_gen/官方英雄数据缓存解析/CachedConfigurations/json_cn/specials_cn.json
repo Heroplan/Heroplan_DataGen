@@ -43910,7 +43910,7 @@
           "sideAffected": "Enemies",
           "typeOfTarget": "All",
           "effectType": "Damage",
-          "powerMultiplierPerMil": 3650,
+          "powerMultiplierPerMil": 4400,
           "powerMultiplierIncrementPerLevelPerMil": 50
         },
         "maxLevel": 8,
@@ -48741,6 +48741,14 @@
         "properties": [
           "add_spell_slay_single_and_blue_xandrella_costume",
           "green_tile_mana_modifier_xandrella_costume"
+        ],
+        "statusEffects": [
+          {
+            "id": "mark_nature_xandrella_costume",
+            "sideAffected": "Enemies",
+            "statusTargetType": "Blue",
+            "turns": 4
+          }
         ]
       },
       {
@@ -48925,7 +48933,7 @@
           "sideAffected": "Enemies",
           "typeOfTarget": "NearToTarget",
           "effectType": "Damage",
-          "powerMultiplierPerMil": 2850,
+          "powerMultiplierPerMil": 2650,
           "powerMultiplierIncrementPerLevelPerMil": 50
         },
         "maxLevel": 8,
@@ -50348,9 +50356,6 @@
           "powerMultiplierIncrementPerLevelPerMil": 50
         },
         "maxLevel": 8,
-        "properties": [
-          "remove_debuff_boboosang"
-        ],
         "statusEffects": [
           {
             "id": "increasing_mana_steal_boboosang",
@@ -51632,7 +51637,7 @@
           "sideAffected": "Allies",
           "typeOfTarget": "All",
           "effectType": "HealthBoost",
-          "powerMultiplierPerMil": 330,
+          "powerMultiplierPerMil": 410,
           "powerMultiplierIncrementPerLevelPerMil": 50,
           "hasFixedPower": true
         },
@@ -62074,7 +62079,7 @@
       {
         "propertyType": "SecondaryDirectEffect",
         "id": "damage_lin_chong",
-        "powerMultiplierPerMil": 3250,
+        "powerMultiplierPerMil": 3550,
         "powerMultiplierIncrementPerLevelPerMil": 50,
         "effectType": "Damage",
         "targetType": "NearToTargetMinor",
@@ -62202,7 +62207,7 @@
         "propertyType": "ChainStrike",
         "id": "chain_strike_random_ironvein",
         "chainEffectType": "Damage",
-        "powerMultiplierPerMil": 3650,
+        "powerMultiplierPerMil": 2650,
         "powerMultiplierIncrementPerLevelPerMil": 50,
         "maxExtraHits": 1,
         "extraHitChancePerMil": 1000,
@@ -62262,11 +62267,11 @@
         "propertyType": "DamagePerTile",
         "id": "damage_per_red_tile_sizzleomatic",
         "element": "红",
-        "basePowerPerMil": 4650,
+        "basePowerPerMil": 4400,
         "basePowerIncrementPerLevelPerMil": 50,
-        "powerPerTilePerMil": 80,
+        "powerPerTilePerMil": 130,
         "powerPerTileIncrementPerLevelPerMil": 10,
-        "maxAmountOfTiles": 11,
+        "maxAmountOfTiles": 8,
         "targetType": "All",
         "sideAffected": "Enemies"
       },
@@ -62622,6 +62627,7 @@
         "reallocateToTargetType": "LessOrEqualToHalfHpLeft",
         "reallocateToSideAffected": "Allies",
         "reallocateStatusEffectType": "MinorBuff",
+        "customReallocationCount": 1,
         "targetType": "All",
         "sideAffected": "Enemies"
       },
@@ -62913,17 +62919,9 @@
         ]
       },
       {
-        "propertyType": "RemoveStatusEffects",
-        "id": "remove_debuff_boboosang",
-        "buffToRemove": "MinorDebuff",
-        "bypassEffectsOnRemoval": true,
-        "targetType": "All",
-        "sideAffected": "Allies"
-      },
-      {
         "propertyType": "Growth",
         "id": "growth_ellery",
-        "baseAttackIncrease": 160,
+        "baseAttackIncrease": 260,
         "baseAttackIncreasePerLevel": 20,
         "baseDefenseIncrease": 0,
         "targetType": "NearToTarget",
@@ -62932,7 +62930,7 @@
       {
         "propertyType": "SecondaryDirectEffect",
         "id": "damage_jax",
-        "powerMultiplierPerMil": 1850,
+        "powerMultiplierPerMil": 1400,
         "powerMultiplierIncrementPerLevelPerMil": 50,
         "statusEffects": [
           {
@@ -62948,7 +62946,7 @@
       {
         "propertyType": "SecondaryDirectEffect",
         "id": "damage_ryleh",
-        "powerMultiplierPerMil": 3100,
+        "powerMultiplierPerMil": 3650,
         "powerMultiplierIncrementPerLevelPerMil": 50,
         "statusEffects": [
           {
@@ -63369,5 +63367,5 @@
       }
     ]
   },
-  "specialsConfigId": 3076325835
+  "specialsConfigId": 2469821244
 }

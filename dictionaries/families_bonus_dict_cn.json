@@ -50,6 +50,7 @@
     "^\\s+\\*\\s+The\\s+Hero\\s+gains([+-]?\\s*\\d+\\s*%?)/([+-]?\\s*\\d+\\s*%?)/([+-]?\\s*\\d+\\s*%?)Humility\\s+when\\s+receiving\\s+direct\\s+damage\\s+from\\s+Special\\s+Skills\\.?\\s*$": "* 当该英雄受到来自特殊技能的直接伤害时，会获得\\1/\\2/\\3点谦逊。",
     "^\\s+\\*\\s+The\\s+Hero\\s+gains([+-]?\\s*\\d+\\s*%?)/([+-]?\\s*\\d+\\s*%?)/([+-]?\\s*\\d+\\s*%?)Humility\\s+when\\s+receiving\\s+direct\\s+healing\\s+from\\s+Special\\s+Skills\\.?\\s*$": "* 当该英雄受到来自特殊技能的直接治疗时，会获得\\1/\\2/\\3点谦逊。",
     "^The\\s+members\\s+of\\s+this\\s+family\\s+have\\s+additional\\s+perks\\s+in\\s+The\\s+Brave\\s+\\&\\s+The\\s+Beautiful\\s+event\\.?\\s*$": "活动英雄加成：该家族的成员在勇者与美人活动中拥有额外的加成。",
+    "^\\s+\\*\\s+All\\s+allies\\s+get\\s+([+-]?\\s*\\d+\\s*%?)/([+-]?\\s*\\d+\\s*%?)/([+-]?\\s*\\d+\\s*%?)\\s+attack\\s+stack\\s+each\\s+time\\s+this\\s+character\\s+attempts\\s+to\\s+Ransack\\s+an\\s+enemy\\.?\\s*\\s+\\(Max\\s+stack:([+-]?\\s*\\d+\\s*%?)\\)$": "* 该角色每次尝试对敌方发动掠夺时，所有盟友获得\\1/\\2/\\3攻击力叠加效果。（最大叠加：\\4）",
     "^Bonus\\s+for([+-]?\\s*\\d+\\s*%?)/([+-]?\\s*\\d+\\s*%?)/([+-]?\\s*\\d+\\s*%?)Unique\\s+Heroes:$": "\\1/\\2/\\3位独特英雄的加成：",
     "^([+-]?\\s*\\d+\\s*%?)/([+-]?\\s*\\d+\\s*%?)/([+-]?\\s*\\d+\\s*%?)\\s+defense$": "\\1 / \\2 / \\3 防御。",
     "^The\\s+members\\s+of\\s+this\\s+family\\s+have\\s+additional\\s+perks\\s+in\\s+the\\s+Sand\\s+Empire\\s+event\\.?\\s*$": "该家族的成员在沙之帝国活动中拥有额外特权。",

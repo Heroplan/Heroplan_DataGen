@@ -33524,7 +33524,7 @@
         "statusEffect": "Lifesteal",
         "id": "lifesteal_catalina",
         "buff": "MinorBuff",
-        "lifestealMultiplierPerMil": 1360,
+        "lifestealMultiplierPerMil": 860,
         "lifestealMultiplierIncrementPerMil": 20
       },
       {
@@ -40278,7 +40278,7 @@
         "statusEffect": "CritModifier",
         "id": "crit_catalina",
         "buff": "MinorBuff",
-        "critIncrementPerMil": 360,
+        "critIncrementPerMil": 260,
         "incrementPerLevelPerMil": 20
       },
       {
@@ -47026,7 +47026,7 @@
         "statusEffect": "AttackModifier",
         "id": "attack_buff_catalina",
         "buff": "MinorBuff",
-        "attackMultiplierPerMil": 1360,
+        "attackMultiplierPerMil": 1260,
         "attackMultiplierIncrementPerLevelPerMil": 20
       },
       {
@@ -51036,14 +51036,14 @@
         "statusEffect": "SpecialDamagePowerModifier",
         "id": "special_damage_power_modifier_weland",
         "buff": "MinorBuff",
-        "powerAdditionPerMil": 360,
-        "powerAdditionIncrementPerLevelPerMil": 20
+        "powerAdditionPerMil": 650,
+        "powerAdditionIncrementPerLevelPerMil": 50
       },
       {
         "statusEffect": "ManaGenerationModifier",
         "id": "mana_regen_weland",
         "buff": "MinorBuff",
-        "manaGenerationMultiplierPerMil": 1360,
+        "manaGenerationMultiplierPerMil": 1300,
         "manaGenerationMultiplierIncrementPerLevelPerMil": 20
       },
       {
@@ -53248,7 +53248,7 @@
         "statusEffect": "StackingCritModifier",
         "id": "stacking_crit_modifier_lin_chong",
         "buff": "StackMinorBuff",
-        "critIncrementPerMil": 100,
+        "critIncrementPerMil": 50,
         "incrementPerLevelPerMil": 0
       },
       {
@@ -53411,7 +53411,7 @@
         "statusEffect": "AttackModifier",
         "id": "attack_buff_sizzleomatic",
         "buff": "MinorBuff",
-        "attackMultiplierPerMil": 1460,
+        "attackMultiplierPerMil": 1360,
         "attackMultiplierIncrementPerLevelPerMil": 20
       },
       {
@@ -54648,7 +54648,7 @@
         "id": "add_insanity_aberration_big_minion",
         "buff": "PermanentDebuff",
         "alwaysAdd": true,
-        "insanityToAdd": 5,
+        "insanityToAdd": 10,
         "reductionOnHealSources": [
           "SpecialSkill",
           "AssistSkill",
@@ -54674,7 +54674,7 @@
         "id": "add_insanity_jax",
         "buff": "PermanentDebuff",
         "alwaysAdd": true,
-        "insanityToAdd": 20,
+        "insanityToAdd": 15,
         "reductionOnHealSources": [
           "SpecialSkill",
           "AssistSkill",
@@ -54687,7 +54687,7 @@
         "id": "add_insanity_to_self_jax",
         "buff": "PermanentDebuff",
         "alwaysAdd": true,
-        "insanityToAdd": 45,
+        "insanityToAdd": 35,
         "reductionOnHealSources": [
           "SpecialSkill",
           "AssistSkill",
@@ -54700,7 +54700,7 @@
         "id": "add_insanity_ryleh",
         "buff": "PermanentDebuff",
         "alwaysAdd": true,
-        "insanityToAdd": 40,
+        "insanityToAdd": 30,
         "reductionOnHealSources": [
           "SpecialSkill",
           "AssistSkill",
@@ -54713,7 +54713,7 @@
         "id": "add_insanity_to_self_ryleh",
         "buff": "PermanentDebuff",
         "alwaysAdd": true,
-        "insanityToAdd": 50,
+        "insanityToAdd": 55,
         "reductionOnHealSources": [
           "SpecialSkill",
           "AssistSkill",
@@ -55093,7 +55093,7 @@
           }
         ],
         "isUnreallocatableByConfigOverride": true,
-        "dodgeChancePerMil": 650,
+        "dodgeChancePerMil": 360,
         "dodgeChanceIncrementPerLevelPerMil": 20
       },
       {
@@ -55242,7 +55242,7 @@
         "id": "burn_hotspin",
         "buff": "MinorDebuff",
         "iconOverrideStatusEffectId": "burn",
-        "damageMultiplierPerMil": 50,
+        "damageMultiplierPerMil": 30,
         "damageMultiplierIncrementPerLevelPerMil": 10
       },
       {
@@ -55291,6 +55291,14 @@
         "iconOverrideStatusEffectId": "burn",
         "damageMultiplierPerMil": 105,
         "damageMultiplierIncrementPerLevelPerMil": 10
+      },
+      {
+        "statusEffect": "GreenDefenseModifier",
+        "id": "mark_nature_xandrella_costume",
+        "buff": "MinorDebuff",
+        "iconOverrideStatusEffectId": "mark_nature",
+        "defenseMultiplierPerMil": 940,
+        "defenseMultiplierIncrementPerLevelPerMil": 236
       }
     ],
     "tileEnhancements": [
@@ -64742,7 +64750,7 @@
             "id": "add_status_effects_aberration_big_minion"
           }
         ],
-        "healthPerMil": 280,
+        "healthPerMil": 330,
         "healthPerLevelPerMil": 10,
         "monsterHealthPerMil": 200
       },
@@ -64771,7 +64779,7 @@
             "id": "damage_snowsprite_minion"
           }
         ],
-        "healthPerMil": 150,
+        "healthPerMil": 200,
         "monsterHealthPerMil": 200
       },
       {
@@ -68171,7 +68179,7 @@
         "effectTriggers": [
           "Turn"
         ],
-        "attackPercentPerMil": 150
+        "attackPercentPerMil": 200
       },
       {
         "effectType": "Damage",
@@ -82095,5 +82103,5 @@
       "SharedDamage"
     ]
   },
-  "battleConfigId": 1117475269
+  "battleConfigId": 2325687091
 }

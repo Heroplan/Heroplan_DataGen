@@ -1714,27 +1714,27 @@
         "contents": [
           {
             "type": "Item",
-            "id": "lottery_atlantis_coin",
+            "id": "lottery_wilderness_coin",
             "amount": 10
           },
           {
             "type": "Item",
-            "id": "lottery_valhalla_coin",
+            "id": "lottery_covenant_coin",
             "amount": 10
           },
           {
             "type": "Item",
-            "id": "lottery_underwild_coin",
-            "amount": 10
-          },
-          {
-            "type": "Item",
-            "id": "lottery_season5_coin",
+            "id": "lottery_ascension_coin",
             "amount": 10
           },
           {
             "type": "Item",
             "id": "lottery_untold_tales_coin",
+            "amount": 10
+          },
+          {
+            "type": "Item",
+            "id": "lottery_season5_coin",
             "amount": 10
           }
         ]
@@ -20261,6 +20261,10 @@
           {
             "id": "com.smallgiantgames.empires.dynamic_100",
             "purchaseLimit": 1
+          },
+          {
+            "id": "com.smallgiantgames.empires.dynamic_10b",
+            "purchaseLimit": 1
           }
         ],
         "mode": "Dragon",
@@ -21326,7 +21330,8 @@
           "playerProgressOfferType": "PlayerProgress",
           "extraRequirement": "IsEligibleForTournamentRegistration",
           "duration": "1天",
-          "timeToTrigger": 600
+          "timeToTrigger": 600,
+          "onlyShownInShop": true
         }
       },
       {
@@ -21342,7 +21347,8 @@
           "playerProgressOfferType": "PlayerProgress",
           "extraRequirement": "IsEligibleForTournamentRegistration",
           "duration": "1天",
-          "timeToTrigger": 600
+          "timeToTrigger": 600,
+          "onlyShownInShop": true
         }
       },
       {
@@ -22746,7 +22752,8 @@
           "playerProgressOfferType": "PlayerProgress",
           "extraRequirement": "IsEligibleForTournamentRegistration",
           "duration": "1天",
-          "timeToTrigger": 600
+          "timeToTrigger": 600,
+          "onlyShownInShop": true
         }
       },
       {
@@ -23510,6 +23517,10 @@
           {
             "id": "com.smallgiantgames.empires.dynamic_30b",
             "purchaseLimit": 2
+          },
+          {
+            "id": "com.smallgiantgames.empires.dynamic_10b",
+            "purchaseLimit": 3
           }
         ],
         "requiresQuestsUnlocked": true,
@@ -29715,6 +29726,10 @@
           {
             "id": "com.smallgiantgames.empires.dynamic_20b",
             "purchaseLimit": 2
+          },
+          {
+            "id": "com.smallgiantgames.empires.dynamic_10d",
+            "purchaseLimit": 3
           }
         ],
         "requiresQuestsUnlocked": true,
@@ -46683,6 +46698,21 @@
             ]
           },
           {
+            "activationTime": "2025-11-25 07:00:00",
+            "contents": [
+              {
+                "type": "Gem",
+                "amount": 1100,
+                "zyngaStoreExtraAmount": 150
+              },
+              {
+                "type": "Item",
+                "id": "lottery_pickup_coin",
+                "amount": 300
+              }
+            ]
+          },
+          {
             "activationTime": "2025-11-27 07:00:00",
             "contents": [
               {
@@ -46693,6 +46723,17 @@
                 "type": "Item",
                 "id": "lottery_super_elemental_coin",
                 "amount": 300,
+                "zyngaStoreExtraAmount": 100
+              }
+            ]
+          },
+          {
+            "activationTime": "2025-11-28 07:00:00",
+            "contents": [
+              {
+                "type": "Item",
+                "id": "lottery_ancient_dragon_coin",
+                "amount": 800,
                 "zyngaStoreExtraAmount": 100
               }
             ]
@@ -49816,6 +49857,21 @@
                 "id": "refill_iron_giant",
                 "amount": 17,
                 "zyngaStoreExtraAmount": 2
+              }
+            ]
+          },
+          {
+            "activationTime": "2025-11-28 07:00:00",
+            "contents": [
+              {
+                "type": "Gem",
+                "amount": 1100,
+                "zyngaStoreExtraAmount": 150
+              },
+              {
+                "type": "Item",
+                "id": "lottery_pickup_coin",
+                "amount": 300
               }
             ]
           }
@@ -57298,7 +57354,7 @@
       },
       {
         "id": "harvester_hype2",
-        "slot": "RightBottom",
+        "slot": "LeftTop",
         "scheduledManually": true,
         "startTime": "2025-11-19 07:00:00",
         "endTime": "2025-11-20 07:00:00"
@@ -57408,6 +57464,20 @@
         "endTime": "2025-11-22 07:00:00"
       },
       {
+        "id": "selectableoffer_elemental3",
+        "slot": "RightExtraTop",
+        "scheduledManually": true,
+        "startTime": "2025-11-21 07:00:00",
+        "endTime": "2025-11-22 07:00:00"
+      },
+      {
+        "id": "unlock_mastertrainer",
+        "slot": "RightExtraBottom",
+        "scheduledManually": true,
+        "startTime": "2025-11-21 07:00:00",
+        "endTime": "2025-11-22 07:00:00"
+      },
+      {
         "id": "dragon_dynamic_02_xondar",
         "slot": "RightExtraTop",
         "scheduledManually": true,
@@ -57424,6 +57494,13 @@
       {
         "id": "dragon_triple_snowys_treasure_new",
         "slot": "RightTop",
+        "scheduledManually": true,
+        "startTime": "2025-11-21 07:00:00",
+        "endTime": "2025-11-23 07:00:00"
+      },
+      {
+        "id": "emblemvault",
+        "slot": "LeftBottom",
         "scheduledManually": true,
         "startTime": "2025-11-21 07:00:00",
         "endTime": "2025-11-23 07:00:00"
@@ -57464,8 +57541,15 @@
         "endTime": "2025-11-23 06:30:00"
       },
       {
-        "id": "emblemvault",
-        "slot": "LeftBottom",
+        "id": "com.smallgiantgames.empires.limitbreakaether_dark",
+        "slot": "RightBottom",
+        "scheduledManually": true,
+        "startTime": "2025-11-22 07:00:00",
+        "endTime": "2025-11-23 07:00:00"
+      },
+      {
+        "id": "step_up",
+        "slot": "LeftTop",
         "scheduledManually": true,
         "startTime": "2025-11-22 07:00:00",
         "endTime": "2025-11-23 07:00:00"
@@ -57513,7 +57597,21 @@
         "endTime": "2025-11-24 06:30:00"
       },
       {
+        "id": "mastertraineroffer2",
+        "slot": "RightExtraBottom",
+        "scheduledManually": true,
+        "startTime": "2025-11-23 07:00:00",
+        "endTime": "2025-11-24 07:00:00"
+      },
+      {
         "id": "rosterexpansionoffer",
+        "slot": "RightExtraTop",
+        "scheduledManually": true,
+        "startTime": "2025-11-23 07:00:00",
+        "endTime": "2025-11-24 07:00:00"
+      },
+      {
+        "id": "selectable_ascension_1",
         "slot": "LeftExtraBottom",
         "scheduledManually": true,
         "startTime": "2025-11-23 07:00:00",
@@ -57565,11 +57663,39 @@
         "endTime": "2025-11-25 07:00:00"
       },
       {
-        "id": "dragon_select_asc3_new",
-        "slot": "RightTop",
+        "id": "com.smallgiantgames.empires.selectable_ascension_4",
+        "slot": "LeftExtraTop",
+        "scheduledManually": true,
+        "startTime": "2025-11-24 07:00:00",
+        "endTime": "2025-11-25 07:00:00"
+      },
+      {
+        "id": "com.smallgiantgames.empires.triple6_rooster",
+        "slot": "RightExtraBottom",
+        "scheduledManually": true,
+        "startTime": "2025-11-24 07:00:00",
+        "endTime": "2025-11-25 07:00:00"
+      },
+      {
+        "id": "com.smallgiantgames.empires.limitbreakaether_ice",
+        "slot": "RightBottom",
         "scheduledManually": true,
         "startTime": "2025-11-24 07:00:00",
         "endTime": "2025-11-26 07:00:00"
+      },
+      {
+        "id": "dragon_select_asc3_new",
+        "slot": "LeftTop",
+        "scheduledManually": true,
+        "startTime": "2025-11-24 07:00:00",
+        "endTime": "2025-11-26 07:00:00"
+      },
+      {
+        "id": "com.smallgiantgames.empires.mystery3",
+        "slot": "LeftExtraBottom",
+        "scheduledManually": true,
+        "startTime": "2025-11-24 08:00:00",
+        "endTime": "2025-11-25 07:00:00"
       },
       {
         "id": "dynamic_offer_14_purple_umbria",
@@ -57586,8 +57712,29 @@
         "endTime": "2025-11-26 06:30:00"
       },
       {
+        "id": "com.smallgiantgames.empires.mystery2",
+        "slot": "LeftBottom",
+        "scheduledManually": true,
+        "startTime": "2025-11-25 07:00:00",
+        "endTime": "2025-11-26 07:00:00"
+      },
+      {
+        "id": "mastertraineroffer",
+        "slot": "RightExtraBottom",
+        "scheduledManually": true,
+        "startTime": "2025-11-25 07:00:00",
+        "endTime": "2025-11-26 07:00:00"
+      },
+      {
         "id": "triple_blacksummon_tue",
         "slot": "LeftTop",
+        "scheduledManually": true,
+        "startTime": "2025-11-25 07:00:00",
+        "endTime": "2025-11-26 07:00:00"
+      },
+      {
+        "id": "unlock_rocket",
+        "slot": "RightExtraTop",
         "scheduledManually": true,
         "startTime": "2025-11-25 07:00:00",
         "endTime": "2025-11-26 07:00:00"
@@ -57705,6 +57852,13 @@
         "endTime": "2025-11-29 07:00:00"
       },
       {
+        "id": "com.smallgiantgames.empires.alliancegiftoffer",
+        "slot": "LeftExtraBottom",
+        "scheduledManually": true,
+        "startTime": "2025-11-27 08:00:00",
+        "endTime": "2025-11-28 07:00:00"
+      },
+      {
         "id": "dynamic_offer_36_yellow_eloise",
         "slot": "RightTop",
         "scheduledManually": true,
@@ -57728,6 +57882,13 @@
       {
         "id": "com.smallgiantgames.empires.limitbreakaether_nature",
         "slot": "LeftBottom",
+        "scheduledManually": true,
+        "startTime": "2025-11-28 07:00:00",
+        "endTime": "2025-11-29 07:00:00"
+      },
+      {
+        "id": "harvester_hype2",
+        "slot": "LeftExtraBottom",
         "scheduledManually": true,
         "startTime": "2025-11-28 07:00:00",
         "endTime": "2025-11-29 07:00:00"
@@ -57789,6 +57950,20 @@
         "endTime": "2025-11-30 07:00:00"
       },
       {
+        "id": "selectableoffer_elemental",
+        "slot": "LeftExtraTop",
+        "scheduledManually": true,
+        "startTime": "2025-11-29 07:00:00",
+        "endTime": "2025-11-30 07:00:00"
+      },
+      {
+        "id": "step_up_fire",
+        "slot": "LeftBottom",
+        "scheduledManually": true,
+        "startTime": "2025-11-29 07:00:00",
+        "endTime": "2025-11-30 07:00:00"
+      },
+      {
         "id": "ascensioncrystalsoffer",
         "slot": "LeftExtraBottom",
         "scheduledManually": true,
@@ -57798,13 +57973,6 @@
       {
         "id": "dragon_owlfords_new",
         "slot": "RightBottom",
-        "scheduledManually": true,
-        "startTime": "2025-11-29 07:00:00",
-        "endTime": "2025-12-01 07:00:00"
-      },
-      {
-        "id": "selectableoffer_elemental",
-        "slot": "LeftExtraTop",
         "scheduledManually": true,
         "startTime": "2025-11-29 07:00:00",
         "endTime": "2025-12-01 07:00:00"
@@ -57864,6 +58032,13 @@
         "endTime": "2025-12-05 07:00:00"
       },
       {
+        "id": "com.smallgiantgames.empires.mystery1",
+        "slot": "LeftExtraTop",
+        "scheduledManually": true,
+        "startTime": "2025-11-30 08:00:00",
+        "endTime": "2025-12-01 07:00:00"
+      },
+      {
         "id": "dynamic_offer_48_green_lughaidh",
         "slot": "RightMiddle",
         "startTime": "2025-12-01 07:00:00",
@@ -57902,11 +58077,25 @@
         "endTime": "2025-12-02 07:00:00"
       },
       {
+        "id": "dragon_cmonday2024",
+        "slot": "LeftBottom",
+        "scheduledManually": true,
+        "startTime": "2025-12-01 07:00:00",
+        "endTime": "2025-12-03 07:00:00"
+      },
+      {
         "id": "dragon_select_asc3_new",
         "slot": "RightTop",
         "scheduledManually": true,
         "startTime": "2025-12-01 07:00:00",
         "endTime": "2025-12-03 07:00:00"
+      },
+      {
+        "id": "com.smallgiantgames.empires.christmas_gift",
+        "slot": "LeftTop",
+        "scheduledManually": true,
+        "startTime": "2025-12-01 07:00:00",
+        "endTime": "2025-12-10 07:00:00"
       },
       {
         "id": "com.smallgiantgames.empires.christmas_booster",
@@ -57967,13 +58156,6 @@
         "scheduledManually": true,
         "startTime": "2025-12-02 07:00:00",
         "endTime": "2025-12-04 07:00:00"
-      },
-      {
-        "id": "legendary_troop_calendar",
-        "slot": "RightExtraTop",
-        "scheduledManually": true,
-        "startTime": "2025-12-02 07:00:00",
-        "endTime": "2025-12-05 07:00:00"
       },
       {
         "id": "dynamic_offer_20_norns",
@@ -58167,6 +58349,13 @@
         "endTime": "2025-12-07 07:00:00"
       },
       {
+        "id": "mastertraineroffer",
+        "slot": "LeftExtraTop",
+        "scheduledManually": true,
+        "startTime": "2025-12-06 07:00:00",
+        "endTime": "2025-12-07 07:00:00"
+      },
+      {
         "id": "triple_levelupsummon",
         "slot": "RightExtraTop",
         "scheduledManually": true,
@@ -58183,13 +58372,6 @@
       {
         "id": "dragon_owlfords_new",
         "slot": "LeftTop",
-        "scheduledManually": true,
-        "startTime": "2025-12-06 07:00:00",
-        "endTime": "2025-12-08 07:00:00"
-      },
-      {
-        "id": "mastertraineroffer",
-        "slot": "LeftExtraTop",
         "scheduledManually": true,
         "startTime": "2025-12-06 07:00:00",
         "endTime": "2025-12-08 07:00:00"
@@ -58236,6 +58418,13 @@
       {
         "id": "dragon_legendary_tokens",
         "slot": "RightBottom",
+        "startTime": "2025-12-07 07:00:00",
+        "endTime": "2025-12-09 07:00:00"
+      },
+      {
+        "id": "rosterexpansionoffer",
+        "slot": "LeftExtraTop",
+        "scheduledManually": true,
         "startTime": "2025-12-07 07:00:00",
         "endTime": "2025-12-09 07:00:00"
       },
@@ -58305,6 +58494,13 @@
       },
       {
         "id": "dragon_triple_majestic",
+        "slot": "RightBottom",
+        "scheduledManually": true,
+        "startTime": "2025-12-09 07:00:00",
+        "endTime": "2025-12-11 07:00:00"
+      },
+      {
+        "id": "selectable_vips",
         "slot": "RightBottom",
         "scheduledManually": true,
         "startTime": "2025-12-09 07:00:00",
@@ -69875,7 +70071,7 @@
               "featuredHeroes": [
                 "tales1_domiventus",
                 "tales1_medea",
-                "knights_morgan_le_fay",
+                "ninja_amethyst",
                 "ninja_tametomo"
               ],
               "advertisedHero": "tales1_domiventus"
@@ -74812,6 +75008,19 @@
         "lotteryEntries": [
           {
             "lotteryProductType": "Pick Up Summon",
+            "id": "pickup_summon_112825",
+            "productId": "lottery_pickup_default",
+            "startDate": "2025-11-28 07:00:00",
+            "endDate": "2025-11-29 07:00:00",
+            "featuredHeroes": [
+              "owl_verus",
+              "owl_cennius"
+            ],
+            "extraHeroesPoolId": "default",
+            "adSummonEnabled": true
+          },
+          {
+            "lotteryProductType": "Pick Up Summon",
             "id": "pickup_summon_111725",
             "productId": "lottery_pickup_default",
             "startDate": "2025-11-17 07:00:00",
@@ -75494,6 +75703,19 @@
             "featuredHeroes": [
               "ballerina_odile",
               "guardian_gazelle_costume_bandalore"
+            ],
+            "extraHeroesPoolId": "default",
+            "adSummonEnabled": true
+          },
+          {
+            "lotteryProductType": "Pick Up Summon",
+            "id": "pickup_summon_112525",
+            "productId": "lottery_pickup_default",
+            "startDate": "2025-11-25 07:00:00",
+            "endDate": "2025-11-26 07:00:00",
+            "featuredHeroes": [
+              "owl_pertinax",
+              "owl_relius"
             ],
             "extraHeroesPoolId": "default",
             "adSummonEnabled": true
@@ -78395,5 +78617,5 @@
       }
     ]
   },
-  "shopConfigId": 2684861740
+  "shopConfigId": 3852692720
 }
