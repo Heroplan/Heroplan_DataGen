@@ -2449,9 +2449,9 @@
     },
     "Chitrangada": {
         "base": {
-            "Attack": 1186,
-            "Defense": 1289,
-            "Life": 2230,
+            "Attack": 1250,
+            "Defense": 1332,
+            "Life": 2263,
             "Power": 1213
         },
         "lb1": {
@@ -18595,9 +18595,9 @@
     },
     "Bhima": {
         "base": {
-            "Attack": 1289,
-            "Defense": 1196,
-            "Life": 2158,
+            "Attack": 1328,
+            "Defense": 1236,
+            "Life": 2261,
             "Power": 1213
         },
         "lb1": {
@@ -27451,10 +27451,10 @@
     },
     "Mr. Pengi C": {
         "base": {
-            "Attack": 1084,
-            "Defense": 1053,
-            "Life": 1895,
-            "Power": 1064
+            "Attack": 1100,
+            "Defense": 1068,
+            "Life": 1937,
+            "Power": 1080
         },
         "lb1": {
             "Attack": 1167,
@@ -28167,6 +28167,96 @@
             "Attack": 1597,
             "Defense": 1595,
             "Life": 2799
+        }
+    },
+    "Gunnar C3": {
+        "base": {
+            "Attack": 518,
+            "Defense": 534,
+            "Life": 825,
+            "Power": 511
+        },
+        "lb1": {
+            "Attack": 587,
+            "Defense": 606,
+            "Life": 936
+        },
+        "lb2": {
+            "Attack": 725,
+            "Defense": 748,
+            "Life": 1157
+        }
+    },
+    "Thorne C4": {
+        "base": {
+            "Attack": 1218,
+            "Defense": 1303,
+            "Life": 2324,
+            "Power": 1241
+        },
+        "lb1": {
+            "Attack": 1312,
+            "Defense": 1405,
+            "Life": 2504
+        },
+        "lb2": {
+            "Attack": 1501,
+            "Defense": 1608,
+            "Life": 2865
+        }
+    },
+    "Renfeld C3": {
+        "base": {
+            "Attack": 499,
+            "Defense": 487,
+            "Life": 1000,
+            "Power": 516
+        },
+        "lb1": {
+            "Attack": 566,
+            "Defense": 552,
+            "Life": 1133
+        },
+        "lb2": {
+            "Attack": 699,
+            "Defense": 683,
+            "Life": 1400
+        }
+    },
+    "Sabina C4": {
+        "base": {
+            "Attack": 829,
+            "Defense": 780,
+            "Life": 1148,
+            "Power": 754
+        },
+        "lb1": {
+            "Attack": 900,
+            "Defense": 848,
+            "Life": 1247
+        },
+        "lb2": {
+            "Attack": 1044,
+            "Defense": 984,
+            "Life": 1447
+        }
+    },
+    "Bulklug": {
+        "base": {
+            "Attack": 1293,
+            "Defense": 1297,
+            "Life": 2261,
+            "Power": 1257
+        },
+        "lb1": {
+            "Attack": 1394,
+            "Defense": 1398,
+            "Life": 2437
+        },
+        "lb2": {
+            "Attack": 1595,
+            "Defense": 1600,
+            "Life": 2788
         }
     }
 }

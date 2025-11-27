@@ -46,50 +46,6 @@
         "Lottery_Only":1
     },
     {
-        "name": "Gunnar Glass",
-        "fancy_name": "Glass Knight",
-        "color": "Blue",
-        "Release date": "",
-        "star": 3,
-        "family": "classic",
-        "costume_id": 3,
-        "heroId": "royal_knight_costume_glass",
-        "Lottery_Only":1
-    },
-    {
-        "name": "Thorne Glass",
-        "fancy_name": "Vitrail of Frostmorrow",
-        "color": "Blue",
-        "Release date": "",
-        "star": 5,
-        "family": "classic",
-        "costume_id": 4,
-        "heroId": "royal_knight_commander_costume_glass",
-        "Lottery_Only":1
-    },
-    {
-        "name": "Sabina Glass",
-        "fancy_name": "Deathbound Vitrail",
-        "color": "Purple",
-        "Release date": "",
-        "star": 4,
-        "family": "classic",
-        "costume_id": 4,
-        "heroId": "undead_female_warrior_costume_glass",
-        "Lottery_Only":1
-    },
-    {
-        "name": "Renfeld Glass",
-        "fancy_name": "Glass Assassin",
-        "color": "Purple",
-        "Release date": "",
-        "star": 3,
-        "family": "classic",
-        "costume_id": 3,
-        "heroId": "blackguard_skulker_costume_glass",
-        "Lottery_Only":1
-    },
-    {
         "name": "Xandrella C1",
         "fancy_name": "Idol of Elemental Creations",
         "color": "Green",
@@ -109,17 +65,6 @@
         "family": "beowulf",
         "costume_id": 0,
         "heroId": "beowulf_weland",
-        "Lottery_Only":1
-    },
-    {
-        "name": "Bulklug",
-        "fancy_name": "Blob Builder Slime",
-        "color": "Green",
-        "Release date": "",
-        "star": 5,
-        "family": "slime",
-        "costume_id": 0,
-        "heroId": "slime_bulklug",
         "Lottery_Only":1
     },
     {

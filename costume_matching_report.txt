@@ -1,4 +1,4 @@
-✅ 成功匹配的服装 (480 / 0)
+✅ 成功匹配的服装 (483 / 0)
 ================================
 Name: Berden Costume1, Fancy Name: Adroit Archer
 Name: Hannah Costume1, Fancy Name: Adventurous Drover
@@ -152,6 +152,7 @@ Name: Graymane Costume1, Fancy Name: Garlic Thief
 Name: Wang Yuanji Costume1, Fancy Name: Gentle Calligrapher
 Name: Atlanteia Costume1, Fancy Name: Glacial Siren of the Deep
 Name: Berden Glass, Fancy Name: Glass Archer
+Name: Renfeld glass, Fancy Name: Glass Assassin
 Name: Colen Glass, Fancy Name: Glass Bounty hunter
 Name: Bane Glass, Fancy Name: Glass Brawler
 Name: Rigard Glass, Fancy Name: Glass Cavalier
@@ -162,6 +163,7 @@ Name: Boril glass, Fancy Name: Glass Defender
 Name: Isshtak glass, Fancy Name: Glass Fighter
 Name: Li Xiu Glass, Fancy Name: Glass General
 Name: Kailani Glass, Fancy Name: Glass Healer
+Name: Gunnar glass, Fancy Name: Glass Knight
 Name: Azlar Glass, Fancy Name: Glass Leor
 Name: Balthazar Glass, Fancy Name: Glass Magician
 Name: Wu Kong glass, Fancy Name: Glass Monkey
@@ -455,6 +457,7 @@ Name: Sneferu Costume1, Fancy Name: Vanquisher of the Moon
 Name: Sonya Costume1, Fancy Name: Viking Champion
 Name: Sartana Glass, Fancy Name: Vitrail from Descenthia
 Name: Kelile Glass, Fancy Name: Vitrail of Dragonia
+Name: Thorne glass, Fancy Name: Vitrail of Frostmorrow
 Name: Isarnia Glass, Fancy Name: Vitrail of Glaceholm
 Name: Magni Glass, Fancy Name: Vitrail of Ice
 Name: Brienne Glass, Fancy Name: Vitrail of Rathwood

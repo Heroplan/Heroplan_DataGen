@@ -41523,5 +41523,150 @@ window.allHeroesExtra = [
             "ransack"
         ],
         "family": "shady_scoundrels"
+    },
+    {
+        "name": "Gunnar glass",
+        "fancy name": "Glass Knight",
+        "element": "Blue",
+        "rarity": 3,
+        "class": "Paladin",
+        "speed": "slow",
+        "Release date": "2025-11-25",
+        "AetherPower": "Special Armor",
+        "skill_types": [
+            "Buffers (DEF)",
+            "Damage Sharers",
+            "Reflectors"
+        ],
+        "heroId": "royal_knight_costume_glass",
+        "baseAttack": 255,
+        "baseDefense": 263,
+        "baseHealth": 390,
+        "specialId": "stone_skin",
+        "specialId_costume": "glass_stone_skin_gunnar",
+        "passiveSkills": [
+            "glass_reflect_debuffs"
+        ],
+        "costumeBonusPassiveSkillIds": null,
+        "attackBonus": "17%",
+        "defenseBonus": "17%",
+        "healthBonus": "22%",
+        "manaBonus": "5%",
+        "family": "classic"
+    },
+    {
+        "name": "Thorne glass",
+        "fancy name": "Vitrail of Frostmorrow",
+        "element": "Blue",
+        "rarity": 5,
+        "class": "Paladin",
+        "speed": "average",
+        "Release date": "2025-11-25",
+        "AetherPower": "Special Boost",
+        "skill_types": [
+            "AoE Attackers (Hit-3)",
+            "Bypassers"
+        ],
+        "heroId": "royal_knight_commander_costume_glass",
+        "baseAttack": 338,
+        "baseDefense": 362,
+        "baseHealth": 634,
+        "specialId": "icecold_finisher",
+        "specialId_costume": "glass_finisher_thorne",
+        "passiveSkills": [
+            "glass_reflect_debuffs"
+        ],
+        "costumeBonusPassiveSkillIds": null,
+        "attackBonus": "75%",
+        "defenseBonus": "75%",
+        "healthBonus": "78%",
+        "manaBonus": "5%",
+        "family": "classic"
+    },
+    {
+        "name": "Renfeld glass",
+        "fancy name": "Glass Assassin",
+        "element": "Purple",
+        "rarity": 3,
+        "class": "Fighter",
+        "speed": "average",
+        "Release date": "2025-11-25",
+        "AetherPower": "Special Boost",
+        "skill_types": [
+            "Snipers",
+            "Healers (Special)",
+            "Bypassers"
+        ],
+        "heroId": "blackguard_skulker_costume_glass",
+        "baseAttack": 246,
+        "baseDefense": 240,
+        "baseHealth": 472,
+        "specialId": "leeching_stars",
+        "specialId_costume": "glass_leeching_stars_renfeld",
+        "passiveSkills": [
+            "glass_reflect_debuffs"
+        ],
+        "costumeBonusPassiveSkillIds": null,
+        "attackBonus": "17%",
+        "defenseBonus": "17%",
+        "healthBonus": "22%",
+        "manaBonus": "5%",
+        "family": "classic"
+    },
+    {
+        "name": "Sabina glass",
+        "fancy name": "Deathbound Vitrail",
+        "element": "Purple",
+        "rarity": 4,
+        "class": "Sorcerer",
+        "speed": "average",
+        "Release date": "2025-11-25",
+        "AetherPower": "Special Armor",
+        "skill_types": [
+            "Dispellers",
+            "Healers",
+            "Reflectors"
+        ],
+        "heroId": "undead_female_warrior_costume_glass",
+        "baseAttack": 328,
+        "baseDefense": 309,
+        "baseHealth": 436,
+        "specialId": "fog_of_the_fallen",
+        "specialId_costume": "fog_of_the_glass_sabina",
+        "passiveSkills": [
+            "glass_reflect_debuffs"
+        ],
+        "costumeBonusPassiveSkillIds": null,
+        "attackBonus": "19%",
+        "defenseBonus": "19%",
+        "healthBonus": "24%",
+        "manaBonus": "5%",
+        "family": "classic"
+    },
+    {
+        "name": "Bulklug",
+        "fancy name": "Blob Builder Slime",
+        "element": "Green",
+        "rarity": 5,
+        "class": "Barbarian",
+        "speed": "average",
+        "Release date": "2025-11-26",
+        "AetherPower": "Boosted Regen",
+        "skill_types": [
+            "AoE Attackers (Hit-3)",
+            "Reflectors",
+            "Counterattackers",
+            "Revivers"
+        ],
+        "heroId": "slime_bulklug",
+        "baseAttack": 628,
+        "baseDefense": 630,
+        "baseHealth": 1098,
+        "specialId": "building_blocks_bulklug",
+        "passiveSkills": [
+            "summon_slime_minion_on_damage_green",
+            "summon_slime_minion_on_death_green"
+        ],
+        "family": "slime"
     }
 ];
