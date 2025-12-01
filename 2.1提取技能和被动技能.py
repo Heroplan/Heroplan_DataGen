@@ -187,7 +187,7 @@ if __name__ == '__main__':
     # 任务3：提取 'effects' 到 translated 目录 (用于生成英文数据)
     log_message("\n--- [任务 3/4]: 正在处理 'effects' (translated) ---")
     extract_all_without_uniqueness_check(
-        input_file='heroes_data_cn.js',
+        input_file='heroes_data_en.js',
         output_file='translated/effects_en.js',
         log_file='logs/extract_heroes_data_log.txt',
         extract_key='effects'
@@ -196,7 +196,7 @@ if __name__ == '__main__':
     # 任务4：提取 'passives' 到 translated 目录 (用于生成英文数据)
     log_message("\n--- [任务 4/4]: 正在处理 'passives' (translated) ---")
     extract_all_without_uniqueness_check(
-        input_file='heroes_data_cn.js',
+        input_file='heroes_data_en.js',
         output_file='translated/passives_en.js',
         log_file='logs/extract_heroes_data_log.txt',
         extract_key='passives'

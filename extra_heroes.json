@@ -99,38 +99,5 @@
         "costume_id": 0,
         "heroId": "institute_ryleh",
         "Lottery_Only":1
-    },
-    {
-        "name": "Ulius C1",
-        "fancy_name": "Peculiar Arcane Buccaneer",
-        "color": "Blue",
-        "Release date": "",
-        "star": 5,
-        "family": "magic",
-        "costume_id": 1,
-        "heroId": "magic_ulius_costume_buccaneer",
-        "Lottery_Only":1
-    },
-    {
-        "name": "Amelia",
-        "fancy_name": "Magical Aviator",
-        "color": "Purple",
-        "Release date": "",
-        "star": 5,
-        "family": "magic_carpet",
-        "costume_id": 0,
-        "heroId": "magic_carpet_amelia",
-        "Lottery_Only":1
-    },
-    {
-        "name": "Salome",
-        "fancy_name": "Astral Demon Socialite",
-        "color": "Red",
-        "Release date": "",
-        "star": 5,
-        "family": "astral_demons",
-        "costume_id": 0,
-        "heroId": "astral_demon_salome",
-        "Lottery_Only":1
     }
 ]

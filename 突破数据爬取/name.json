@@ -7130,5 +7130,19 @@
     },
     {
         "name": "Bulklug"
+    },
+    {
+        "name": "Salome"
+    },
+    {
+        "name": "Ulius C",
+        "bonuses": {
+            "attack": 38,
+            "defense": 38,
+            "health": 42
+        }
+    },
+    {
+        "name": "Amelia"
     }
 ]

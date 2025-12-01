@@ -1,4 +1,4 @@
-✅ 成功匹配的服装 (483 / 0)
+✅ 成功匹配的服装 (484 / 0)
 ================================
 Name: Berden Costume1, Fancy Name: Adroit Archer
 Name: Hannah Costume1, Fancy Name: Adventurous Drover
@@ -294,6 +294,7 @@ Name: Xnolphod Costume1, Fancy Name: Octopod Jailer
 Name: Hel Costume1, Fancy Name: Omen of Darkness
 Name: Peters Costume1, Fancy Name: Paper Boy at Shore
 Name: Melendor Costume2, Fancy Name: Party Wizard
+Name: Ulius costume1, Fancy Name: Peculiar Arcane Buccaneer
 Name: Aeron Costume1, Fancy Name: Periwig Judge
 Name: Ahmose Costume1, Fancy Name: Pharaoh Reborn
 Name: Waqas Costume1, Fancy Name: Pharaoh's Blade

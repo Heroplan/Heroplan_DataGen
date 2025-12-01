@@ -2,42 +2,42 @@ const allTranslations =
 [
     {
         "originalIndex": 0,
-        "name": "布兰德 (Brand)",
+        "name": "Brand",
         "effects": [
             "Deals 115% damage to all enemies"
         ]
     },
     {
         "originalIndex": 1,
-        "name": "西格鲁恩 (Sigrunn)",
+        "name": "Sigrunn",
         "effects": [
             "Deals 275% damage to the target"
         ]
     },
     {
         "originalIndex": 2,
-        "name": "奥拉夫 (Olaf)",
+        "name": "Olaf",
         "effects": [
             "All allies get +63% defense for 4 turns"
         ]
     },
     {
         "originalIndex": 3,
-        "name": "莱西德 (Ragnhild)",
+        "name": "Ragnhild",
         "effects": [
             "Deals 115% damage to all enemies"
         ]
     },
     {
         "originalIndex": 4,
-        "name": "托里尔 (Toril)",
+        "name": "Toril",
         "effects": [
             "All allies get +48% attack for 4 turns"
         ]
     },
     {
         "originalIndex": 5,
-        "name": "阿加罗斯 (Agharoth)",
+        "name": "Agharoth",
         "effects": [
             "The caster gets Taunt that prevents enemies from using Special Skills on the caster's allies for 6 turns.",
             "All enemies get -24% attack for 6 turns.",
@@ -47,7 +47,7 @@ const allTranslations =
     },
     {
         "originalIndex": 6,
-        "name": "伯莎 (Bertha)",
+        "name": "Bertha",
         "effects": [
             "All allies regenerate 425 HP over 5 turns.",
             "Each defeated ally has a 35% chance to get revived with 25% HP."
@@ -55,7 +55,7 @@ const allTranslations =
     },
     {
         "originalIndex": 7,
-        "name": "布里格维尔 (Bryggvir)",
+        "name": "Bryggvir",
         "effects": [
             "Attacks the target and nearby enemies with Frostfall Strike, dealing up to 840 damage. Deals 20% more if the target is of the Fire element. This Special Skill never misses its targets.",
             "Increases the mana of the caster and nearby allies by 10%."
@@ -63,7 +63,7 @@ const allTranslations =
     },
     {
         "originalIndex": 8,
-        "name": "小鸡 (Chick Jr.)",
+        "name": "Chick Jr.",
         "effects": [
             "Deals 180% damage to all enemies",
             "The caster gets -20% attack for 3 turns. This effect can't be cleansed."
@@ -71,7 +71,7 @@ const allTranslations =
     },
     {
         "originalIndex": 9,
-        "name": "旦 (Dawn)",
+        "name": "Dawn",
         "effects": [
             "Summons a Hunting Owl Minion for the caster and nearby allies with 10% HP and 20% attack inherited from the caster.",
             "Each hit from a Hunting Owl Minion reduces the mana of the target by -6%.",
@@ -81,7 +81,7 @@ const allTranslations =
     },
     {
         "originalIndex": 10,
-        "name": "霜冻雪人 (Frosty)",
+        "name": "Frosty",
         "effects": [
             "Recovers 32% health for all allies.",
             "Summons an Elf Minion for each ally with 10% HP and 10% attack inherited from the caster."
@@ -89,7 +89,7 @@ const allTranslations =
     },
     {
         "originalIndex": 11,
-        "name": "加托 (Gato)",
+        "name": "Gato",
         "effects": [
             "Deals 300% damage to the target.",
             "The caster and nearby allies are immune to new status ailments for 3 turns."
@@ -97,7 +97,7 @@ const allTranslations =
     },
     {
         "originalIndex": 12,
-        "name": "灰鬃狼人 (Graymane)",
+        "name": "Graymane",
         "effects": [
             "Deals 225% damage to the target.",
             "Heals the caster for 50% of damage dealt."
@@ -105,7 +105,7 @@ const allTranslations =
     },
     {
         "originalIndex": 13,
-        "name": "灰鬃狼人 (Graymane) C1",
+        "name": "Graymane C1",
         "effects": [
             "Deals 235% damage to the target.",
             "The caster is immune to new status ailments for 3 turns.  This effect can't be dispelled.",
@@ -114,7 +114,7 @@ const allTranslations =
     },
     {
         "originalIndex": 14,
-        "name": "灰鬃狼人 (Graymane) 卡通",
+        "name": "Graymane Toon",
         "effects": [
             "Deals 255% damage to the target.",
             "Heals the caster for 45% of damage dealt.",
@@ -123,7 +123,7 @@ const allTranslations =
     },
     {
         "originalIndex": 15,
-        "name": "灰鬃狼人 (Graymane) 玻璃",
+        "name": "Graymane Glass",
         "effects": [
             "Deals 265% damage to the target.",
             "The attack bypasses defensive buffs. (This includes counterattacks.)",
@@ -132,7 +132,7 @@ const allTranslations =
     },
     {
         "originalIndex": 16,
-        "name": "狐猴守护者 (Guardian Lemur)",
+        "name": "Guardian Lemur",
         "effects": [
             "Recovers 32% health for all allies.",
             "All allies get +94% defense against Nature for 4 turns."
@@ -140,7 +140,7 @@ const allTranslations =
     },
     {
         "originalIndex": 17,
-        "name": "古纳尔 (Gunnar)",
+        "name": "Gunnar",
         "effects": [
             "All allies become Soul Connected for 5 turns. Soul Connected allies share received damage.",
             "All allies get +63% defense for 5 turns"
@@ -148,7 +148,7 @@ const allTranslations =
     },
     {
         "originalIndex": 18,
-        "name": "古纳尔 (Gunnar) C1",
+        "name": "Gunnar C1",
         "effects": [
             "All enemies become Soul Connected for 5 turns. Soul Connected enemies share received damage.",
             "All enemies get -44% defense for 5 turns."
@@ -156,7 +156,7 @@ const allTranslations =
     },
     {
         "originalIndex": 19,
-        "name": "古纳尔 (Gunnar) 卡通",
+        "name": "Gunnar Toon",
         "effects": [
             "All allies become Soul Connected for 5 turns. Soul Connected allies share received damage. This status effect is undispellable and lasts 2 turns longer on Ice characters.",
             "All allies get +51% defense for 5 turns. This status effect is undispellable and lasts 2 turns longer on Ice characters."
@@ -164,7 +164,7 @@ const allTranslations =
     },
     {
         "originalIndex": 20,
-        "name": "古纳尔 (Gunnar) 玻璃",
+        "name": "Gunnar Glass",
         "effects": [
             "All allies become Soul Connected for 5 turns. Soul Connected allies share received damage.",
             "All allies get +59% defense for 5 turns.",
@@ -173,7 +173,7 @@ const allTranslations =
     },
     {
         "originalIndex": 21,
-        "name": "河洛 (Helo)",
+        "name": "Helo",
         "effects": [
             "Recovers 32% health for all allies.",
             "Cleanses status ailments from all allies."
@@ -181,7 +181,7 @@ const allTranslations =
     },
     {
         "originalIndex": 22,
-        "name": "河洛 (Helo) C1",
+        "name": "Helo C1",
         "effects": [
             "All allies regenerate 411 HP over 3 turns.",
             "Cleanses status ailments from all allies."
@@ -189,7 +189,7 @@ const allTranslations =
     },
     {
         "originalIndex": 23,
-        "name": "加里夫 (Jarif)",
+        "name": "Jarif",
         "effects": [
             "Deals 335% damage to the target.",
             "The target is immune to new status effect buffs for 3 turns, and receives 70 damage for each attempted buff."
@@ -197,7 +197,7 @@ const allTranslations =
     },
     {
         "originalIndex": 24,
-        "name": "加里夫 (Jarif) C1",
+        "name": "Jarif C1",
         "effects": [
             "Deals 300% damage to the target.",
             "The target is immune to new status effect buffs for 3 turns, and receives 150 damage for each attempted buff."
@@ -205,7 +205,7 @@ const allTranslations =
     },
     {
         "originalIndex": 25,
-        "name": "亚弗尔 (Jarvur)",
+        "name": "Jarvur",
         "effects": [
             "Deals 285% damage to the target.",
             "Stack (Max: 10): The caster gets +10% attack."
@@ -213,7 +213,7 @@ const allTranslations =
     },
     {
         "originalIndex": 26,
-        "name": "尤卡海宁 (Joukahainen)",
+        "name": "Joukahainen",
         "effects": [
             "Dispels buffs from all enemies.",
             "Deals 165% damage to all enemies.",
@@ -222,7 +222,7 @@ const allTranslations =
     },
     {
         "originalIndex": 27,
-        "name": "尤卡海宁 (Joukahainen) C1",
+        "name": "Joukahainen C1",
         "effects": [
             "Dispels buffs from all enemies.",
             "Deals 180% damage to all enemies.",
@@ -231,14 +231,14 @@ const allTranslations =
     },
     {
         "originalIndex": 28,
-        "name": "卡里尔 (Karil)",
+        "name": "Karil",
         "effects": [
             "Deals 260% damage to the target and minor damage to nearby enemies."
         ]
     },
     {
         "originalIndex": 29,
-        "name": "卡里尔 (Karil) C1",
+        "name": "Karil C1",
         "effects": [
             "Deals 240% damage to the target and minor damage to nearby enemies.",
             "The target and nearby enemies receive 60 Burn damage over 3 turns."
@@ -246,7 +246,7 @@ const allTranslations =
     },
     {
         "originalIndex": 30,
-        "name": "卡里尔 (Karil) 卡通",
+        "name": "Karil Toon",
         "effects": [
             "Deals 290% damage to the target and minor damage to nearby enemies.",
             "Deals extra damage against Fire."
@@ -254,7 +254,7 @@ const allTranslations =
     },
     {
         "originalIndex": 31,
-        "name": "卡里尔 (Karil) 玻璃",
+        "name": "Karil Glass",
         "effects": [
             "Deals 300% damage to the target and minor damage to nearby enemies.",
             "The attack bypasses defensive buffs. (This includes counterattacks.)"
@@ -262,7 +262,7 @@ const allTranslations =
     },
     {
         "originalIndex": 32,
-        "name": "诺德里 (Nordri)",
+        "name": "Nordri",
         "effects": [
             "Deals 245% damage to the target and minor damage to nearby enemies",
             "The target and nearby enemies get -54% defense against Ice for 4 turns"
@@ -270,7 +270,7 @@ const allTranslations =
     },
     {
         "originalIndex": 33,
-        "name": "诺德里 (Nordri) C1",
+        "name": "Nordri C1",
         "effects": [
             "Deals 230% damage to the target and nearby enemies.",
             "All enemies get -54% defense against Ice for 3 turns.  Against Fire characters, this status effect becomes uncleansable and lasts 2 turns longer."
@@ -278,7 +278,7 @@ const allTranslations =
     },
     {
         "originalIndex": 34,
-        "name": "布朗歇 (Planchet)",
+        "name": "Planchet",
         "effects": [
             "Destroys all Minions from the target.",
             "Deals 385% damage to the target.",
@@ -287,7 +287,7 @@ const allTranslations =
     },
     {
         "originalIndex": 35,
-        "name": "索罗卡 (Soroca)",
+        "name": "Soroca",
         "effects": [
             "Deals 235% damage to the target.",
             "Deals additional 10% damage per each Ice shield on the board, up to 335%  damage in total."
@@ -295,7 +295,7 @@ const allTranslations =
     },
     {
         "originalIndex": 36,
-        "name": "天鹅室女 (Swan Maiden)",
+        "name": "Swan Maiden",
         "effects": [
             "The caster regenerates 402 HP over 3 turns.",
             "The caster gets +30% chance to dodge Special Skills that deal damage for 3 turns.",
@@ -309,7 +309,7 @@ const allTranslations =
     },
     {
         "originalIndex": 37,
-        "name": "乌尔墨 (Ulmer)",
+        "name": "Ulmer",
         "effects": [
             "Deals 116% damage to all enemies.",
             "All enemies get -34% defense for 6 turns."
@@ -317,7 +317,7 @@ const allTranslations =
     },
     {
         "originalIndex": 38,
-        "name": "乌尔墨 (Ulmer) C1",
+        "name": "Ulmer C1",
         "effects": [
             "Deals 145% damage to all enemies.",
             "All allies get +48% attack for 6 turns."
@@ -325,7 +325,7 @@ const allTranslations =
     },
     {
         "originalIndex": 39,
-        "name": "乌尔墨 (Ulmer) 卡通",
+        "name": "Ulmer Toon",
         "effects": [
             "Deals 146% damage to all enemies.",
             "All enemies get -24% defense for 6 turns.",
@@ -334,7 +334,7 @@ const allTranslations =
     },
     {
         "originalIndex": 40,
-        "name": "乌尔墨 (Ulmer) 玻璃",
+        "name": "Ulmer Glass",
         "effects": [
             "Deals 156% damage to all enemies.",
             "The attack bypasses defensive buffs. (This includes counterattacks.)",
@@ -343,7 +343,7 @@ const allTranslations =
     },
     {
         "originalIndex": 41,
-        "name": "瓦伦 (Valen)",
+        "name": "Valen",
         "effects": [
             "Deals 300% damage to the target.",
             "The target gets -34% defense for 6 turns."
@@ -351,7 +351,7 @@ const allTranslations =
     },
     {
         "originalIndex": 42,
-        "name": "瓦伦 (Valen) C1",
+        "name": "Valen C1",
         "effects": [
             "Deals 335% damage to the target.",
             "The caster getts +54% attack for 6 turns."
@@ -359,7 +359,7 @@ const allTranslations =
     },
     {
         "originalIndex": 43,
-        "name": "瓦伦 (Valen) 卡通",
+        "name": "Valen Toon",
         "effects": [
             "Deals 330% damage to the target.",
             "The target gets -28% defense for 6 turns.",
@@ -368,7 +368,7 @@ const allTranslations =
     },
     {
         "originalIndex": 44,
-        "name": "维吉尔 (Virgil)",
+        "name": "Virgil",
         "effects": [
             "Special Skill has a different effect when charged with 100% / 200% / 300% mana:",
             "1x Mana Charge:",
@@ -385,7 +385,7 @@ const allTranslations =
     },
     {
         "originalIndex": 45,
-        "name": "沃德尼克 (Vodnik)",
+        "name": "Vodnik",
         "effects": [
             "Deals 280% damage to the target",
             "The more mana the enemies have, the more damage they will receive, up to 400%."
@@ -393,7 +393,7 @@ const allTranslations =
     },
     {
         "originalIndex": 46,
-        "name": "姚 (Yao)",
+        "name": "Yao",
         "effects": [
             "Deals 215% damage to the target and nearby enemies.",
             "Summons a Wei Soldier Minion with 20% HP and 25% attack inherited from the caster.",
@@ -402,7 +402,7 @@ const allTranslations =
     },
     {
         "originalIndex": 47,
-        "name": "艾格威 (Agwe)",
+        "name": "Agwe",
         "effects": [
             "Deals 190% damage to all enemies.",
             "All allies get +54% defense against Nature for 4 turns."
@@ -410,7 +410,7 @@ const allTranslations =
     },
     {
         "originalIndex": 48,
-        "name": "艾格威 (Agwe) C1",
+        "name": "Agwe C1",
         "effects": [
             "Deals 185% damage to all enemies.",
             "All Nature enemies receive 536 Burn damage over 4 turns."
@@ -418,7 +418,7 @@ const allTranslations =
     },
     {
         "originalIndex": 49,
-        "name": "水形魔 (Aqualith)",
+        "name": "Aqualith",
         "effects": [
             "Special Skill need consecutive uses to reach full power, the following order:",
             "1st:",
@@ -431,7 +431,7 @@ const allTranslations =
     },
     {
         "originalIndex": 50,
-        "name": "水形魔 (Aqualith) C1",
+        "name": "Aqualith C1",
         "effects": [
             "Special Skill need consecutive uses to reach full power, the following order:",
             "1st:",
@@ -444,7 +444,7 @@ const allTranslations =
     },
     {
         "originalIndex": 51,
-        "name": "奥兹玛 (Azmia)",
+        "name": "Azmia",
         "effects": [
             "Recovers 15% health for all allies.",
             "The caster and nearby allies counterattack with 100% of the damage received for 4 turns. The damage of the counterattack increases by +5% with each counterattack, maxing out at 130%."
@@ -452,7 +452,7 @@ const allTranslations =
     },
     {
         "originalIndex": 52,
-        "name": "奥兹玛 (Azmia) C1",
+        "name": "Azmia C1",
         "effects": [
             "Recovers 10% health for all allies.",
             "The caster and nearby allies counterattack with 110% of the damage received for 4 turns. The damage of the counterattack increases by +5% with each counterattack, maxing out at 135%."
@@ -460,7 +460,7 @@ const allTranslations =
     },
     {
         "originalIndex": 53,
-        "name": "骨颤 (Bonechill)",
+        "name": "Bonechill",
         "effects": [
             "Deals 240% damage to the target and nearby enemies.",
             "The target and nearby enemies get -34% defense against Special Skills for 3 turns.",
@@ -469,35 +469,35 @@ const allTranslations =
     },
     {
         "originalIndex": 54,
-        "name": "博立尔 (Boril)",
+        "name": "Boril",
         "effects": [
             "The caster and nearby allies counterattack with 125% of the damage received for 5 turns."
         ]
     },
     {
         "originalIndex": 55,
-        "name": "博立尔 (Boril) C1",
+        "name": "Boril C1",
         "effects": [
             "All allies counterattack with 60% of the damage received for 4 turns."
         ]
     },
     {
         "originalIndex": 56,
-        "name": "博立尔 (Boril) C2",
+        "name": "Boril C2",
         "effects": [
             "All allies counterattacks with 80% of the damage received for 4 turns. The counterattack damage increases by 20% each turn up to 140%."
         ]
     },
     {
         "originalIndex": 57,
-        "name": "博立尔 (Boril) 卡通",
+        "name": "Boril Toon",
         "effects": [
             "The caster and nearby allies counterattack with 120% of the damage received for 5 turns. This status effect is undispellable and lasts 2 turns longer on Ice characters."
         ]
     },
     {
         "originalIndex": 58,
-        "name": "博立尔 (Boril) 玻璃",
+        "name": "Boril Glass",
         "effects": [
             "The caster and nearby allies counterattack with 122% of the damage received for 5 turns.",
             "All Ice allies reflect status ailments and negative stacks for 2 turns. (Status effects cast by characters, Minions and Fiends on the same side cannot be reflected.)"
@@ -505,7 +505,7 @@ const allTranslations =
     },
     {
         "originalIndex": 59,
-        "name": "方块上尉 (Captain of Diamonds)",
+        "name": "Captain of Diamonds",
         "effects": [
             "Destroys all minions from the target.",
             "Deals 275% damage to hit targets.",
@@ -514,7 +514,7 @@ const allTranslations =
     },
     {
         "originalIndex": 60,
-        "name": "楚森 (Choozen)",
+        "name": "Choozen",
         "effects": [
             "Boosts health of the caster and nearby allies by 450. Boosted health can exceed max HP.",
             "The caster and nearby allies get Sticky Surface for 3 turns. This effect can’t be dispelled.",
@@ -523,7 +523,7 @@ const allTranslations =
     },
     {
         "originalIndex": 61,
-        "name": "达因 (Dain)",
+        "name": "Dain",
         "effects": [
             "The caster and nearby allies get a Frostfall Ward for 3 turns, that reduces incoming Special Skill damage up to -500. Reduces damage by additional 25% when the attacker is of Fire element.",
             "The caster and nearby allies get +120% normal attack for 3 turns. This effect can be active in addition to effects that alter attack in general. Normal attacks can have a total maxiumum of +200% increased attack while this effect is active."
@@ -531,7 +531,7 @@ const allTranslations =
     },
     {
         "originalIndex": 62,
-        "name": "佛斯考 (Fosco)",
+        "name": "Fosco",
         "effects": [
             "Destroys all Minions from all enemies.",
             "Dispels buffs from all enemies.",
@@ -540,7 +540,7 @@ const allTranslations =
     },
     {
         "originalIndex": 63,
-        "name": "弗兰克 (Frank)",
+        "name": "Frank",
         "effects": [
             "Deals 200% damage to all enemies.",
             "The damage is increased by 45% per dead enemy.",
@@ -549,7 +549,7 @@ const allTranslations =
     },
     {
         "originalIndex": 64,
-        "name": "弗兰克 (Frank) C1",
+        "name": "Frank C1",
         "effects": [
             "Deals 170% damage to all enemies",
             "The damage is increased by 45% for each dead enemy.",
@@ -559,7 +559,7 @@ const allTranslations =
     },
     {
         "originalIndex": 65,
-        "name": "格里亚斯 (Garyas)",
+        "name": "Garyas",
         "effects": [
             "Deals 330% damage to the target.",
             "Alter the power of all Ice shields on the board. When an attacking Hero casts the special, the shields become enchance and give +37% more mana. When a defending Hero casts the special, the shields become weakened and give -30% less mana."
@@ -567,7 +567,7 @@ const allTranslations =
     },
     {
         "originalIndex": 66,
-        "name": "格雷戈 (Greg)",
+        "name": "Greg",
         "effects": [
             "Deals 100% damage to all enemies.",
             "Summons a Sword Guard Mega Minion with 35% HP and 300% attack inherited from the caster.",
@@ -576,7 +576,7 @@ const allTranslations =
     },
     {
         "originalIndex": 67,
-        "name": "格林姆 (Grimm)",
+        "name": "Grimm",
         "effects": [
             "Deals 295% damage to the target and minor damage to nearby enemies.",
             "The target and nearby enemies get -34% defense for 6 turns."
@@ -584,7 +584,7 @@ const allTranslations =
     },
     {
         "originalIndex": 68,
-        "name": "格林姆 (Grimm) C1",
+        "name": "Grimm C1",
         "effects": [
             "Deals 295% damage to the target and minor damage to nearby enemies.",
             "The caster and nearby allies get +50% attack for 6 turns."
@@ -592,7 +592,7 @@ const allTranslations =
     },
     {
         "originalIndex": 69,
-        "name": "格林姆 (Grimm) C2",
+        "name": "Grimm C2",
         "effects": [
             "Deals 295% damage to the target and minor damage to nearby enemies.",
             "The caster and nearby allies Special Skill deal an additional +40% damage for 6 turns."
@@ -600,7 +600,7 @@ const allTranslations =
     },
     {
         "originalIndex": 70,
-        "name": "格林姆 (Grimm) 卡通",
+        "name": "Grimm Toon",
         "effects": [
             "Deals 325% damage to the target and minor damage to nearby enemies.",
             "The target and nearby enemies get -28% defense for 6 turns.",
@@ -609,7 +609,7 @@ const allTranslations =
     },
     {
         "originalIndex": 71,
-        "name": "格林姆 (Grimm) 玻璃",
+        "name": "Grimm Glass",
         "effects": [
             "Deals 335% damage to the target and minor damage to nearby enemies.",
             "The attack bypasses defensive buffs. (This includes counterattacks.)",
@@ -618,7 +618,7 @@ const allTranslations =
     },
     {
         "originalIndex": 72,
-        "name": "格蓝布尔 (Grumbl)",
+        "name": "Grumbl",
         "effects": [
             "All allies except the caster receive Softskin. (The next time they receive damage, it is reduced by -90%, and they resist all status ailment and mana reduction. This effect can’t be dispelled.)",
             "All allies recover 510 HP over 3 turns. This effect duration is reset if the status effect owner is hit with direct damage from a Special Skill.",
@@ -627,7 +627,7 @@ const allTranslations =
     },
     {
         "originalIndex": 73,
-        "name": "乔特 (Jott)",
+        "name": "Jott",
         "effects": [
             "Deals 200% damage to all enemies.",
             "Alters the power of all Ice shields on the board. When an attacking Hero casts the special, the shields become enhanced with +64% attack. When a defending Hero casts the special, the shields become weakened with -57% attack."
@@ -635,7 +635,7 @@ const allTranslations =
     },
     {
         "originalIndex": 74,
-        "name": "基里尔 (Kiril)",
+        "name": "Kiril",
         "effects": [
             "Recovers 28% health for all allies",
             "All allies get +30% attack for 3 turns",
@@ -644,7 +644,7 @@ const allTranslations =
     },
     {
         "originalIndex": 75,
-        "name": "基里尔 (Kiril) C1",
+        "name": "Kiril C1",
         "effects": [
             "Recovers 28% health for all allies",
             "All enemies get -34% attack for 3 turns",
@@ -653,7 +653,7 @@ const allTranslations =
     },
     {
         "originalIndex": 76,
-        "name": "基里尔 (Kiril) C2",
+        "name": "Kiril C2",
         "effects": [
             "Boosts health of all allies by 400. Boosted health can exceed max HP",
             "All allies get +30% defense for 3 turns",
@@ -662,7 +662,7 @@ const allTranslations =
     },
     {
         "originalIndex": 77,
-        "name": "基里尔 (Kiril) 卡通",
+        "name": "Kiril Toon",
         "effects": [
             "Recovers 31% health for all allies.",
             "All allies get 26% attack for 3 turns. This status effect is undispellable and lasts 2 turns longer on Ice characters.",
@@ -671,7 +671,7 @@ const allTranslations =
     },
     {
         "originalIndex": 78,
-        "name": "基里尔 (Kiril) 玻璃",
+        "name": "Kiril Glass",
         "effects": [
             "Recovers 32% health for all allies.",
             "All allies get +28% attack for 3 turns.",
@@ -681,7 +681,7 @@ const allTranslations =
     },
     {
         "originalIndex": 79,
-        "name": "纳克斯 (Knuckles)",
+        "name": "Knuckles",
         "effects": [
             "All allies get +30% defense, and a further 3% increase every time they are hit during 4 turns.",
             "All allies reflect status ailments and negative stacks for 4 turns. Status effects cast by characters, Minions and Fiends on the same side cannot be reflected.",
@@ -690,7 +690,7 @@ const allTranslations =
     },
     {
         "originalIndex": 80,
-        "name": "拉门缇娅 (Lamentia)",
+        "name": "Lamentia",
         "effects": [
             "Deals 280% damage to the target and nearby enemies and inflicts 15 Insanity on them.",
             "The target and nearby enemies receive 388 Curse damage over 4 turns, starting low and increasing every turn.",
@@ -699,7 +699,7 @@ const allTranslations =
     },
     {
         "originalIndex": 81,
-        "name": "莱纳斯 (Linus)",
+        "name": "Linus",
         "effects": [
             "Deals 315% damage to the target.",
             "If there are 6 or more Ice shields on the board, damage is dealt to the target and nearby enemies.",
@@ -708,7 +708,7 @@ const allTranslations =
     },
     {
         "originalIndex": 82,
-        "name": "麦尔威弗 (Mireweave)",
+        "name": "Mireweave",
         "effects": [
             "Deals 150% damage to the target and nearby enemies.",
             "Stack (Max: 10): The caster gets +10% attack."
@@ -716,7 +716,7 @@ const allTranslations =
     },
     {
         "originalIndex": 83,
-        "name": "奥尔贝克 (Olbec)",
+        "name": "Olbec",
         "effects": [
             "Attacks the target with Moonrise Strike, dealing up to 1020 damage. Deals 30% more damage if the target is Holy. This Special Skill never misses its targets.",
             "Reduces the mana of the target by 10%."
@@ -724,7 +724,7 @@ const allTranslations =
     },
     {
         "originalIndex": 84,
-        "name": "修 (Osamu)",
+        "name": "Osamu",
         "effects": [
             "1x Mana Charge",
             "* Deals 350% damage to the target.",
@@ -740,7 +740,7 @@ const allTranslations =
     },
     {
         "originalIndex": 85,
-        "name": "拉菲克 (Rafeeq)",
+        "name": "Rafeeq",
         "effects": [
             "Deals 300% damage to the target.",
             "Growth Boon: Deals 1x extra damage for each point of modified attack. (Extra damage is based on the modified attack on caster, when damage is dealt. Up to maximum 300 additional extra damage. Status effects affecting damage dealt do affect the extra damage. Defense stats does not affect the extra damage. Status effect affecting attack stat do not affect the extra damage.)",
@@ -749,7 +749,7 @@ const allTranslations =
     },
     {
         "originalIndex": 86,
-        "name": "桑格里厄 (Sanngrior)",
+        "name": "Sanngrior",
         "effects": [
             "Boosts health of the caster and nearby allies by 650. Boosted health can exceed max HP.",
             "The caster and nearby allies get +94% defence against Nature for 3 turns."
@@ -757,7 +757,7 @@ const allTranslations =
     },
     {
         "originalIndex": 87,
-        "name": "青玉 (Sapphire)",
+        "name": "Sapphire",
         "effects": [
             "1x Mana Charge",
             "* Deals 225% damage to the target",
@@ -772,7 +772,7 @@ const allTranslations =
     },
     {
         "originalIndex": 88,
-        "name": "索尼娅 (Sonya)",
+        "name": "Sonya",
         "effects": [
             "Deals 345% damage to the target.",
             "Dispels buffs from all enemies."
@@ -780,7 +780,7 @@ const allTranslations =
     },
     {
         "originalIndex": 89,
-        "name": "索尼娅 (Sonya) C1",
+        "name": "Sonya C1",
         "effects": [
             "Deals 345% damage to the target.",
             "Cleanses status ailments from all allies."
@@ -788,7 +788,7 @@ const allTranslations =
     },
     {
         "originalIndex": 90,
-        "name": "索尼娅 (Sonya) C2",
+        "name": "Sonya C2",
         "effects": [
             "Deals 345% damage to the target.",
             "All enemies are immune to new status effect buffs for 2 turns."
@@ -796,7 +796,7 @@ const allTranslations =
     },
     {
         "originalIndex": 91,
-        "name": "索尼娅 (Sonya) 卡通",
+        "name": "Sonya Toon",
         "effects": [
             "Deals 355% damage to the target.",
             "Deals extra damage against Fire.",
@@ -805,7 +805,7 @@ const allTranslations =
     },
     {
         "originalIndex": 92,
-        "name": "索尼娅 (Sonya) 玻璃",
+        "name": "Sonya Glass",
         "effects": [
             "Deals 365% damage to the target.",
             "The attack bypasses defensive buffs. (This includes counterattacks.)",
@@ -814,7 +814,7 @@ const allTranslations =
     },
     {
         "originalIndex": 93,
-        "name": "崔坦 (Triton)",
+        "name": "Triton",
         "effects": [
             "Deals 335% damage to the target",
             "All allies get +39% increase for any healing received for 4 turns"
@@ -822,7 +822,7 @@ const allTranslations =
     },
     {
         "originalIndex": 94,
-        "name": "崔坦 (Triton) C1",
+        "name": "Triton C1",
         "effects": [
             "Deals 295% damage to the target and minor damage to nearby enemies.",
             "All allies get +30% attack for 4 turns."
@@ -830,7 +830,7 @@ const allTranslations =
     },
     {
         "originalIndex": 95,
-        "name": "法蕾莉 (Valeria)",
+        "name": "Valeria",
         "effects": [
             "Deals 235% damage to the target.",
             "The target receives 150 Surge Bleed damage over 5 turns. (If a target already has this effect, the duration will be refreshed and the damage will be increased by 220, up to 580 damage in total.)",
@@ -839,7 +839,7 @@ const allTranslations =
     },
     {
         "originalIndex": 96,
-        "name": "夏侯惇 (Xiahou Dun)",
+        "name": "Xiahou Dun",
         "effects": [
             "Deals 355% damage to the target.",
             "Summons a Wei Soldier Minion for the caster and nearby allies with 20% HP and 25% attack inherited from the caster.",
@@ -848,7 +848,7 @@ const allTranslations =
     },
     {
         "originalIndex": 97,
-        "name": "齐拉蕾 (Zila Lei)",
+        "name": "Zila Lei",
         "effects": [
             "Deals 185% damage to the enemies on the edges of the enemy formation. If there is only one enemy alive, the damage is doubled.",
             "The enemies on the edges of the enemy formation get -34% defense for 3 turns."
@@ -856,7 +856,7 @@ const allTranslations =
     },
     {
         "originalIndex": 98,
-        "name": "齐拉蕾 (Zila Lei) C1",
+        "name": "Zila Lei C1",
         "effects": [
             "Deals 215% damage to the enemies on the edges of the enemy formation. If there is only one enemy alive, the damage is doubled.",
             "The enemies on the edges of the enemy formation get -30% defence for 3 turns."
@@ -864,7 +864,7 @@ const allTranslations =
     },
     {
         "originalIndex": 99,
-        "name": "爱德琳达 (Adalinda)",
+        "name": "Adalinda",
         "effects": [
             "Deals 395% damage to the target and nearby enemies.",
             "Summons a Bone Trap Fiend for the target and nearby enemies. The Fiend damages the enemy with 45% attack every turn. The damage increases by 8% each turn, up to a maximum of 93%.",
@@ -874,7 +874,7 @@ const allTranslations =
     },
     {
         "originalIndex": 100,
-        "name": "艾吉尔 (Aegir)",
+        "name": "Aegir",
         "effects": [
             "All allies become Soul Connected for 4 turns. Soul Connected allies share received damage.",
             "All allies get +40% defense for 4 turns.",
@@ -884,7 +884,7 @@ const allTranslations =
     },
     {
         "originalIndex": 101,
-        "name": "艾吉尔 (Aegir) C1",
+        "name": "Aegir C1",
         "effects": [
             "All allies become Soul Connected for 4 turns. Soul Connected allies share received damage.",
             "All allies get +35% defense, and a further 5% increase every time they are hit during 4 turns up to +60%.",
@@ -894,7 +894,7 @@ const allTranslations =
     },
     {
         "originalIndex": 102,
-        "name": "爱诺 (Aino)",
+        "name": "Aino",
         "effects": [
             "Cleanses status ailments from all allies.",
             "Recovers 40% health for all allies.",
@@ -903,7 +903,7 @@ const allTranslations =
     },
     {
         "originalIndex": 103,
-        "name": "爱诺 (Aino) C1",
+        "name": "Aino C1",
         "effects": [
             "Cleanses status ailments from all allies.",
             "Recovers 45% health for all allies.",
@@ -912,7 +912,7 @@ const allTranslations =
     },
     {
         "originalIndex": 104,
-        "name": "阿拉希 (Alasie)",
+        "name": "Alasie",
         "effects": [
             "Deals 542% damage to the target",
             "The target and nearby enemies get -24% mana generation for 3 turns. This effect can't be cleansed",
@@ -921,7 +921,7 @@ const allTranslations =
     },
     {
         "originalIndex": 105,
-        "name": "阿拉希 (Alasie) C1",
+        "name": "Alasie C1",
         "effects": [
             "Deals 496% damage to the target and minor damage to nearby enemies.",
             "Reduces the mana of the target and nearby enemies by 10%.",
@@ -931,7 +931,7 @@ const allTranslations =
     },
     {
         "originalIndex": 106,
-        "name": "亚历山德林 (Alexandrine)",
+        "name": "Alexandrine",
         "effects": [
             "Recovers 26% health for all allies.",
             "Recovers additional 3% health per each Ice shield on the board, up to 50% health in total.",
@@ -941,7 +941,7 @@ const allTranslations =
     },
     {
         "originalIndex": 107,
-        "name": "爱丽丝 (Alice)",
+        "name": "Alice",
         "effects": [
             "Deals 430% damage to the target.",
             "Target gets -44% attack for 3 turns. The effect duration is reset if the target is healed. This effect cannot be dispelled."
@@ -949,7 +949,7 @@ const allTranslations =
     },
     {
         "originalIndex": 108,
-        "name": "安菲特里忒 (Amphitrite)",
+        "name": "Amphitrite",
         "effects": [
             "Special Skill has a different effect when charged with 100% / 200% / 300% mana:",
             "1x Mana Charge:",
@@ -968,7 +968,7 @@ const allTranslations =
     },
     {
         "originalIndex": 109,
-        "name": "阿纳特玛 (Anatemah)",
+        "name": "Anatemah",
         "effects": [
             "Deals 400% damage to 5 random enemies.",
             "Hit enemies become afflicted with Astral Orb.",
@@ -979,7 +979,7 @@ const allTranslations =
     },
     {
         "originalIndex": 110,
-        "name": "安德瓦里 (Andvari)",
+        "name": "Andvari",
         "effects": [
             "Destroys all Minions from all enemies and damages all Mega Minions.",
             "Destroys all Fiends from all allies. This effect damages Mega Fiends.",
@@ -989,7 +989,7 @@ const allTranslations =
     },
     {
         "originalIndex": 111,
-        "name": "安齐雅 (Anzia)",
+        "name": "Anzia",
         "effects": [
             "All allies counterattack with 75% of the damage received, and a further 7% increase per each Ice shield on the board for 5 turns, up to 159% damage in total.",
             "All Ice allies regenerate a moderate amount of mana for each counterattack for 5 turns. This effect gets diminished for consecutive activations during the same turn."
@@ -997,7 +997,7 @@ const allTranslations =
     },
     {
         "originalIndex": 112,
-        "name": "艾丽娅珂丝 (Areax)",
+        "name": "Areax",
         "effects": [
             "Deals 440% damage to the target.",
             "The attack chains through all enemies who are adjacent to any hit enemy.",
@@ -1007,7 +1007,7 @@ const allTranslations =
     },
     {
         "originalIndex": 113,
-        "name": "爱丽儿 (Ariel)",
+        "name": "Ariel",
         "effects": [
             "Recovers 40% health for all allies.",
             "All allies get +24% mana generation for 4 turns.",
@@ -1016,7 +1016,7 @@ const allTranslations =
     },
     {
         "originalIndex": 114,
-        "name": "爱丽儿 (Ariel) C1",
+        "name": "Ariel C1",
         "effects": [
             "Boosts health of all allies by 520. Boosted health can exceed max HP.",
             "All allies regenerate a moderate amount of mana over 4 turns.",
@@ -1025,7 +1025,7 @@ const allTranslations =
     },
     {
         "originalIndex": 115,
-        "name": "阿梅尔 (Armel)",
+        "name": "Armel",
         "effects": [
             "Dispels buff from all enemies.",
             "Reduces max health of all enemies by 400. This effect is stronger against targets with boosted health. (Max health can’t get lower than 30% of the original max health. Any boosted health is reduced by an additional 400.)",
@@ -1034,7 +1034,7 @@ const allTranslations =
     },
     {
         "originalIndex": 116,
-        "name": "进阶拟态兽 (Ascension Mimic) Ice",
+        "name": "Ascension Mimic Ice",
         "effects": [
             "Deals 380% damage to the target and nearby enemies.",
             "If an enemy is defeated by the attack, the caster recovers +50% health and gains +33% mana.",
@@ -1044,7 +1044,7 @@ const allTranslations =
     },
     {
         "originalIndex": 117,
-        "name": "阿西安 (Ascian)",
+        "name": "Ascian",
         "effects": [
             "Deals 270% damage to all enemies.",
             "Enhanced Defense Ailment: All enemies get -50% defense against Special Skills. This effect lasts until the enemy takes damage from a Special Skill once.",
@@ -1054,7 +1054,7 @@ const allTranslations =
     },
     {
         "originalIndex": 118,
-        "name": "阿西娜 (Athena)",
+        "name": "Athena",
         "effects": [
             "Deals 365% damage to the target and minor damage to nearby enemies.",
             "The target and nearby enemies get -41% defense and a further -4% decrease every time they are hit for 4 turns.",
@@ -1064,7 +1064,7 @@ const allTranslations =
     },
     {
         "originalIndex": 119,
-        "name": "阿西娜 (Athena) C1",
+        "name": "Athena C1",
         "effects": [
             "Deals 350% damage to the target and minor damage to nearby enemies.",
             "The target and nearby enemies get -41% defense, and a further -4% decrease every time that they are hit for 3 turns.",
@@ -1074,7 +1074,7 @@ const allTranslations =
     },
     {
         "originalIndex": 120,
-        "name": "亚特兰蒂亚 (Atlanteia)",
+        "name": "Atlanteia",
         "effects": [
             "Special Skill need consecutive uses to reach full power, the following order:",
             "1st:",
@@ -1087,7 +1087,7 @@ const allTranslations =
     },
     {
         "originalIndex": 121,
-        "name": "亚特兰蒂亚 (Atlanteia) C1",
+        "name": "Atlanteia C1",
         "effects": [
             "Special Skill need consecutive uses to reach full power, the following order:",
             "1st:",
@@ -1100,7 +1100,7 @@ const allTranslations =
     },
     {
         "originalIndex": 122,
-        "name": "石青 (Azurite)",
+        "name": "Azurite",
         "effects": [
             "Special Skill has a different effect when charged with 100%/200%/300% mana",
             "1x Mana Charge",
@@ -1119,7 +1119,7 @@ const allTranslations =
     },
     {
         "originalIndex": 123,
-        "name": "巴洛尔 (Balur)",
+        "name": "Balur",
         "effects": [
             "Deals 530% damage to the target.",
             "The target receives 519 bleed damage over 3 turns.",
@@ -1128,7 +1128,7 @@ const allTranslations =
     },
     {
         "originalIndex": 124,
-        "name": "巴特 (Bart)",
+        "name": "Bart",
         "effects": [
             "Deals 360% damage to the target and minor damage to nearby enemies.",
             "Reduces the max health of the target and nearby enemies by 500. The effect is stronger against targets with boosted health.",
@@ -1137,7 +1137,7 @@ const allTranslations =
     },
     {
         "originalIndex": 125,
-        "name": "本努 (Bennu)",
+        "name": "Bennu",
         "effects": [
             "The caster and nearby allies counterattack with 100% of the damage received for 5 turns. The damage of the counterattack increases by +5% with each counterattack, maxing out at 130%.",
             "The caster and nearby allies reduce all received damage by -50% for 5 turns."
@@ -1145,7 +1145,7 @@ const allTranslations =
     },
     {
         "originalIndex": 126,
-        "name": "本努 (Bennu) C1",
+        "name": "Bennu C1",
         "effects": [
             "The caster and nearby allies counterattack with 100% of the damage received for 5 turns. The damage of the counterattack increases by +10% with each counterattack, maxing out at 160%.",
             "The caster and nearby allies reduce all received damage by -30% for 5 turns."
@@ -1153,7 +1153,7 @@ const allTranslations =
     },
     {
         "originalIndex": 127,
-        "name": "巴尔泰尔 (Bhaltair)",
+        "name": "Bhaltair",
         "effects": [
             "Deals 350% damage to all enemies.",
             "Heals all allies for 30% of the damage dealt.",
@@ -1164,7 +1164,7 @@ const allTranslations =
     },
     {
         "originalIndex": 128,
-        "name": "波波 (Bobo)",
+        "name": "Bobo",
         "effects": [
             "Deals 320% damage to all enemies.",
             "The enemy with the highest base defense gets -60% defense for 4 turns. This effect can't be cleansed.",
@@ -1173,7 +1173,7 @@ const allTranslations =
     },
     {
         "originalIndex": 129,
-        "name": "泡泡 (Bubbles)",
+        "name": "Bubbles",
         "effects": [
             "Deals 480% damage to the target.",
             "The target gets -44% defense for 4 turns.",
@@ -1182,7 +1182,7 @@ const allTranslations =
     },
     {
         "originalIndex": 130,
-        "name": "伯顿 (Burton)",
+        "name": "Burton",
         "effects": [
             "Deals 400% damage to the target and nearby enemies and inflicts 25 Insanity on them.",
             "The caster activates Stoneskin that drops all damage dealt to the caster to 1 but is removed after 5 hits. This affects can’t be dispelled.",
@@ -1191,7 +1191,7 @@ const allTranslations =
     },
     {
         "originalIndex": 131,
-        "name": "卡伦 (Caelen)",
+        "name": "Caelen",
         "effects": [
             "Summons a Shield Guard Mega Minion with 65% HP and 180% attack inherited from the caster.",
             "The Shield Guard Mega Minion cleanses the latest cleansable status ailment from all allies each turn. This does not trigger secondary effects.",
@@ -1203,7 +1203,7 @@ const allTranslations =
     },
     {
         "originalIndex": 132,
-        "name": "卡蜜拉 (Camilla)",
+        "name": "Camilla",
         "effects": [
             "Special Skill has a different effect when charged with 100%/200% mana:",
             "1x Mana Charge:",
@@ -1216,7 +1216,7 @@ const allTranslations =
     },
     {
         "originalIndex": 133,
-        "name": "卡蜜拉 (Camilla) C1",
+        "name": "Camilla C1",
         "effects": [
             "Special Skill has a different effect when charged with 100%/200% mana:",
             "1x Mana Charge:",
@@ -1230,7 +1230,7 @@ const allTranslations =
     },
     {
         "originalIndex": 134,
-        "name": "曹操 (Cao Cao)",
+        "name": "Cao Cao",
         "effects": [
             "Deals 330% damage to all enemies.",
             "Summons a Wei Soldier Minion for each ally with 20% HP and 25% attack inherited from the caster.",
@@ -1240,7 +1240,7 @@ const allTranslations =
     },
     {
         "originalIndex": 135,
-        "name": "曹操 (Cao Cao) C1",
+        "name": "Cao Cao C1",
         "effects": [
             "Deals 320% damage to all enemies.",
             "Summons a Wei Soldier Minion for each ally with 42% HP and 42% attack inherited from the caster.",
@@ -1250,7 +1250,7 @@ const allTranslations =
     },
     {
         "originalIndex": 136,
-        "name": "卡塔尔 (Cathal)",
+        "name": "Cathal",
         "effects": [
             "Deals 570% damage to the target.",
             "The attack has a 60% chance to bypass defensive buffs. This includes counterattacks.",
@@ -1260,7 +1260,7 @@ const allTranslations =
     },
     {
         "originalIndex": 137,
-        "name": "谢尔 (Cel)",
+        "name": "Cel",
         "effects": [
             "Summon a Rock Golem Minion for each ally with 40% HP and 50% attack inherited from the caster.",
             "The Rock Golem Minion gives its owner Golem’s Stoneskin when summoned, and again every 3 turns. This effect can’t be dispelled.",
@@ -1269,7 +1269,7 @@ const allTranslations =
     },
     {
         "originalIndex": 138,
-        "name": "塞里门妮 (Celimene)",
+        "name": "Celimene",
         "effects": [
             "Deals 400% damage to the target and nearby enemies.",
             "The target and nearby enemies can’t get their status ailments cleansed from Special Skills for 3 turns.",
@@ -1278,7 +1278,7 @@ const allTranslations =
     },
     {
         "originalIndex": 139,
-        "name": "刻托 (Ceto)",
+        "name": "Ceto",
         "effects": [
             "Special Skill need consecutive uses to reach full power, the following order:",
             "1st:",
@@ -1292,7 +1292,7 @@ const allTranslations =
     },
     {
         "originalIndex": 140,
-        "name": "刻托 (Ceto) C1",
+        "name": "Ceto C1",
         "effects": [
             "Special Skill need consecutive uses to reach full power, the following order:",
             "1st:",
@@ -1306,7 +1306,7 @@ const allTranslations =
     },
     {
         "originalIndex": 141,
-        "name": "嫦娥 (Chang'e)",
+        "name": "Chang'e",
         "effects": [
             "Deals 310% damage to all enemies.",
             "All enemies cannot cast any new status effects on enemies or allies for 4 turns. This includes stacks. This only includes status effects cast with Special Skills.",
@@ -1315,7 +1315,7 @@ const allTranslations =
     },
     {
         "originalIndex": 142,
-        "name": "切斯特 (Chester)",
+        "name": "Chester",
         "effects": [
             "Deals 440% damage to the target and nearby enemies.",
             "The target and nearby enemies receive 730 Curse damage over 5 turns, starting low and increasing every turn.",
@@ -1324,7 +1324,7 @@ const allTranslations =
     },
     {
         "originalIndex": 143,
-        "name": "切米斯特 (Chimister)",
+        "name": "Chimister",
         "effects": [
             "If any enemy has the Toxin status ailment:",
             "* All enemies receive 985 Toxin damage over 5 turns. Damage is increased against targets with boosted health, Minions or a Mega Minion. (The Toxin damage is increased by +100% against targets with boosted health. The Toxin damage is increased by +33% per Minion or Mega Minion owned by target. Maximum increased damage is +199%.)",
@@ -1337,7 +1337,7 @@ const allTranslations =
     },
     {
         "originalIndex": 144,
-        "name": "齐特拉伽达 (Chitrangada)",
+        "name": "Chitrangada",
         "effects": [
             "Recover 20% health for all allies.",
             "Growth Boon: Recovers 2x extra for each point of modified defense. (Up to a maximum 800 additional  healing. Status effects affecting healing received do affect the healing scaling.)",
@@ -1347,7 +1347,7 @@ const allTranslations =
     },
     {
         "originalIndex": 145,
-        "name": "席亚拉 (Ciara)",
+        "name": "Ciara",
         "effects": [
             "Deals 200% damage to all enemies.",
             "Summons a Spear Guard Mega Minion with 35% HP and 300% attack inherited from the caster.",
@@ -1356,7 +1356,7 @@ const allTranslations =
     },
     {
         "originalIndex": 146,
-        "name": "肉桂 (Cinnamon)",
+        "name": "Cinnamon",
         "effects": [
             "Deals 250% damage to all enemies.",
             "All enemies receive 524 Frost damage over 4 turns.",
@@ -1365,7 +1365,7 @@ const allTranslations =
     },
     {
         "originalIndex": 147,
-        "name": "克拉格 (Claeg)",
+        "name": "Claeg",
         "effects": [
             "Recovers 20% health for all allies. Recovers extra 5% for each status ailment the ally has, up to 35% health in total.",
             "Cleanses 3 status ailments from all allies. (Status ailments are cleansed in the order they have been received. The latest status ailments are cleansed first.)",
@@ -1374,7 +1374,7 @@ const allTranslations =
     },
     {
         "originalIndex": 148,
-        "name": "钴蓝 (Cobalt)",
+        "name": "Cobalt",
         "effects": [
             "1x Mana Charge",
             "* Deals 320% damage to the target",
@@ -1389,7 +1389,7 @@ const allTranslations =
     },
     {
         "originalIndex": 149,
-        "name": "宇宙讲者 (Cosmicspeaker)",
+        "name": "Cosmicspeaker",
         "effects": [
             "This Special Skill never misses its targets.",
             "Deals 350% damage to all enemies.",
@@ -1399,7 +1399,7 @@ const allTranslations =
     },
     {
         "originalIndex": 150,
-        "name": "克里斯托里斯 (Crystalis)",
+        "name": "Crystalis",
         "effects": [
             "Deals 190% damage to all enemies.",
             "Reduces the duration of all enemies’ active buffs by 1 turn.",
@@ -1408,7 +1408,7 @@ const allTranslations =
     },
     {
         "originalIndex": 151,
-        "name": "戴维·韦威 (Davey Wavey)",
+        "name": "Davey Wavey",
         "effects": [
             "All allies regenerate 500 boosted health over 4 turns. Boosted health can exceed max HP. The effect duration resets if the status effect owner is hit with direct damage from a Special Skill.",
             "All allies get +30% defense for 4 turns.",
@@ -1417,7 +1417,7 @@ const allTranslations =
     },
     {
         "originalIndex": 152,
-        "name": "纹章拟态兽 (Emblem Mimic) Ice",
+        "name": "Emblem Mimic Ice",
         "effects": [
             "Deals 480% damage to the target.",
             "If an enemy is defeated by the attack, the caster recovers +50% health and gains +33% mana.",
@@ -1427,7 +1427,7 @@ const allTranslations =
     },
     {
         "originalIndex": 153,
-        "name": "艾米莉 (Emilie)",
+        "name": "Emilie",
         "effects": [
             "Casts Full Removal on the target. (Full Removal removes all status effects, stacks and Growth and Wither effects. Removes even effects and stacks that are otherwise undispellable or uncleansable.)",
             "The target shifts into Abyss Ghost form for 5 turns.",
@@ -1439,7 +1439,7 @@ const allTranslations =
     },
     {
         "originalIndex": 154,
-        "name": "埃斯米 (Esme)",
+        "name": "Esme",
         "effects": [
             "Destroys all Fiends from all allies.",
             "Boosts health of all allies by 650. Boosted health can exceed max HP.",
@@ -1448,7 +1448,7 @@ const allTranslations =
     },
     {
         "originalIndex": 155,
-        "name": "艾克塞拉 (Exeera)",
+        "name": "Exeera",
         "effects": [
             "All enemies receive 237 Water damage, and an increase of 33 damage per each Ice shield on the board over 3 turns, up to 633 damage. This effect is uncleansable for all Fire enemies.",
             "All Ice enemies are immune to this attack"
@@ -1456,7 +1456,7 @@ const allTranslations =
     },
     {
         "originalIndex": 156,
-        "name": "艾克塞拉 (Exeera) C1",
+        "name": "Exeera C1",
         "effects": [
             "All enemies receive 270 Water damage, and an increase of 54 damage per each Ice shield on the board over 3 turns, up to 918 damage. This effect is uncleansable for all Fire enemies.",
             "All Ice enemies are immune to this attack."
@@ -1464,7 +1464,7 @@ const allTranslations =
     },
     {
         "originalIndex": 157,
-        "name": "经验拟态兽 (Experience Mimic) Ice",
+        "name": "Experience Mimic Ice",
         "effects": [
             "Destroys all Minions from the target. This effect damages Mega Minions.",
             "Deals 530% damage to the target.",
@@ -1474,7 +1474,7 @@ const allTranslations =
     },
     {
         "originalIndex": 158,
-        "name": "芬里厄 (Fenrir)",
+        "name": "Fenrir",
         "effects": [
             "Deals 320% damage to the target.",
             "Deals 640% damage if the target has less than 50% health remaining.",
@@ -1484,7 +1484,7 @@ const allTranslations =
     },
     {
         "originalIndex": 159,
-        "name": "芬里厄 (Fenrir) C1",
+        "name": "Fenrir C1",
         "effects": [
             "Deals 350% damage to the target.",
             "Deals 700% damage if the target has less than 50% health remaining.",
@@ -1494,7 +1494,7 @@ const allTranslations =
     },
     {
         "originalIndex": 160,
-        "name": "费格斯 (Fergus)",
+        "name": "Fergus",
         "effects": [
             "Reduces the mana of the enemy with the most mana by 70%. Reduces the mana of all other enemies by 40%.",
             "All enemies get -30% mana generation for 6 turns. (Affects only mana generated from matching tiles or mana gained by the defense team at the end of their turn.)",
@@ -1504,7 +1504,7 @@ const allTranslations =
     },
     {
         "originalIndex": 161,
-        "name": "芬利 (Finley)",
+        "name": "Finley",
         "effects": [
             "Deals 385% damage to the target",
             "If the target has buffs, targets another enemy with buffs. If none of the other enemies have buffs, targets a random enemy. The damage is reduced on each consecutive hit. Each enemy can only be hit once",
@@ -1513,7 +1513,7 @@ const allTranslations =
     },
     {
         "originalIndex": 162,
-        "name": "芬利 (Finley) C1",
+        "name": "Finley C1",
         "effects": [
             "Deals 420% damage to the target.",
             "If the target has buffs, targets another enemy with buffs. If none of the other enemies have buffs, targets a random enemy. The damage is reduced on each consecutive hit. Each enemy can only be hit once.",
@@ -1522,7 +1522,7 @@ const allTranslations =
     },
     {
         "originalIndex": 163,
-        "name": "费尔明·理查德 (Firmin Richard)",
+        "name": "Firmin Richard",
         "effects": [
             "Deals 175% damage to the all enemies.",
             "Stack (Max: 10): All allies get +20% attack.",
@@ -1531,7 +1531,7 @@ const allTranslations =
     },
     {
         "originalIndex": 164,
-        "name": "丝弦 (Fizzcoil)",
+        "name": "Fizzcoil",
         "effects": [
             "Deals 240% damage to all enemies.",
             "Wither: All enemies get -200 attack and -200 defense.",
@@ -1540,7 +1540,7 @@ const allTranslations =
     },
     {
         "originalIndex": 165,
-        "name": "福尔图娜 (Fortuna)",
+        "name": "Fortuna",
         "effects": [
             "Dispels buffs from all enemies.",
             "Deals 150% damage to all enemies.",
@@ -1551,7 +1551,7 @@ const allTranslations =
     },
     {
         "originalIndex": 166,
-        "name": "弗里达 (Frida)",
+        "name": "Frida",
         "effects": [
             "Deals 350% damage to the target and nearby enemies.",
             "The target and nearby enemies get -54% defense against Ice for 4 turns.",
@@ -1561,7 +1561,7 @@ const allTranslations =
     },
     {
         "originalIndex": 167,
-        "name": "弗洛斯 (Frosth)",
+        "name": "Frosth",
         "effects": [
             "Summons a Frost Sprite Minion for each ally with 18% HP and 20% attack inherited from the caster.",
             "All allies' Minions get +40% HP and +40% attack. This special can increase HP and attack up to +200% of the Minion's original HP and attack.",
@@ -1570,7 +1570,7 @@ const allTranslations =
     },
     {
         "originalIndex": 168,
-        "name": "冰嗅 (Frostsnout)",
+        "name": "Frostsnout",
         "effects": [
             "Deals 380% damage to the target and nearby enemies.",
             "Reduces the duration for the caster and nearby alllies’ active status ailments by 2 turns. (The duration reductionaffects both cleansable and uncleansable effects. If the durarion of any effect is reduced to zero, the effect is considered as having expired naturally.",
@@ -1579,7 +1579,7 @@ const allTranslations =
     },
     {
         "originalIndex": 169,
-        "name": "盖拉德 (Gaillard)",
+        "name": "Gaillard",
         "effects": [
             "Deals 540% damage to the target.",
             "All allies are immune to incoming negative effects and damage from Fiends for 4 turns.",
@@ -1588,7 +1588,7 @@ const allTranslations =
     },
     {
         "originalIndex": 170,
-        "name": "涯拉克 (Ghealach)",
+        "name": "Ghealach",
         "effects": [
             "Deals 385% damage to the target and nearby enemies.",
             "Summons a Fallen Star Fiend to the target and nearby enemies.",
@@ -1598,7 +1598,7 @@ const allTranslations =
     },
     {
         "originalIndex": 171,
-        "name": "冰雷 (Glacivolt)",
+        "name": "Glacivolt",
         "effects": [
             "Deals 270% damage to all enemies.",
             "All enemies get -25% defense, and a further -5% decrease per each Ice shield on the board for 3 turns, up to -50% defense.",
@@ -1607,7 +1607,7 @@ const allTranslations =
     },
     {
         "originalIndex": 172,
-        "name": "格拉迪乌斯 (Gladius)",
+        "name": "Gladius",
         "effects": [
             "This Special Skill never misses its targets.",
             "Deals 550% damage to the target.",
@@ -1617,7 +1617,7 @@ const allTranslations =
     },
     {
         "originalIndex": 173,
-        "name": "格伦达 (Glenda)",
+        "name": "Glenda",
         "effects": [
             "Deals 330% damage to the target and nearby enemies.",
             "The caster and nearby allies' Special Skills deal an additional +40% damage for 4 turns.",
@@ -1627,7 +1627,7 @@ const allTranslations =
     },
     {
         "originalIndex": 174,
-        "name": "格鲁兹默 (Gloozmer)",
+        "name": "Gloozmer",
         "effects": [
             "Steals all Minions or a Mega Minion from the target.",
             "Deals 600% damage to the target.",
@@ -1638,7 +1638,7 @@ const allTranslations =
     },
     {
         "originalIndex": 175,
-        "name": "寒铁 (Grimsteel)",
+        "name": "Grimsteel",
         "effects": [
             "Recovers 54% health for all allies.",
             "Growth: All allies get 450 attack and 450 defense.",
@@ -1647,7 +1647,7 @@ const allTranslations =
     },
     {
         "originalIndex": 176,
-        "name": "河马守护者 (Guardian Hippo)",
+        "name": "Guardian Hippo",
         "effects": [
             "For the next 3 turns, this character deals 225% damage to all enemies each time any other ally casts their Special skill. Damage is dealt on the first Special Skill cast of each character per turn. Damage is dealt on the first Special Skill cast of each character per turn.",
             "All allies get +34% mana generation for 3 turns."
@@ -1655,7 +1655,7 @@ const allTranslations =
     },
     {
         "originalIndex": 177,
-        "name": "冬寂 (Halwinter)",
+        "name": "Halwinter",
         "effects": [
             "The caster gets Taunt that prevents enemies from using Special Skills on the caster's allies for 4 turns.",
             "The caster counterattacks a random enemy with 120% of the damage received for 4 turns.",
@@ -1665,7 +1665,7 @@ const allTranslations =
     },
     {
         "originalIndex": 178,
-        "name": "赫特费雷斯 (Hetepheres)",
+        "name": "Hetepheres",
         "effects": [
             "Recovers 50% health for all allies.",
             "All allies get +84% defense agains Nature, and a further 2% increase every time they are hit during 4 turns.",
@@ -1674,7 +1674,7 @@ const allTranslations =
     },
     {
         "originalIndex": 179,
-        "name": "赫特费雷斯 (Hetepheres) C1",
+        "name": "Hetepheres C1",
         "effects": [
             "Recovers 54% health for all allies.",
             "All allies get +64% defense against Nature, and a further 3% increase every time they are hit during 4 turns.",
@@ -1683,7 +1683,7 @@ const allTranslations =
     },
     {
         "originalIndex": 180,
-        "name": "希莫洛斯 (Himeros)",
+        "name": "Himeros",
         "effects": [
             "Dispels buffs from the target.",
             "Deals 460% damage to the target.",
@@ -1692,7 +1692,7 @@ const allTranslations =
     },
     {
         "originalIndex": 181,
-        "name": "赫格内 (Hogne)",
+        "name": "Hogne",
         "effects": [
             "Attacks the target and nearby enemies with Frostfall Strike, dealing up to 2300 damage. Deals 40% more if the target is of the Fire element. This Special Skill never misses its targets.",
             "Reduces the max health of the target and nearby enemies with 800. This effec is strong against targets with boosted health. (Max health can’t get lower than 30% of the original max health. Any boosted health is reduced by an additional 600.)",
@@ -1701,7 +1701,7 @@ const allTranslations =
     },
     {
         "originalIndex": 182,
-        "name": "赫罗斯加 (Hrothgar)",
+        "name": "Hrothgar",
         "effects": [
             "Deals 340% damage to all enemies.",
             "Reduces the mana of all enemies by 20%.",
@@ -1714,7 +1714,7 @@ const allTranslations =
     },
     {
         "originalIndex": 183,
-        "name": "希丝特莉亚 (Hysteria)",
+        "name": "Hysteria",
         "effects": [
             "The caster gets Taunt that prevents enemies from using Special Skills on the caster’s allies for 4 turns.",
             "For the next 4 turns, the caster inflicts 10 Insanity to all enemies each time the caster is hit. The effect is triggered when the enemy deals damage through Special Skills. Tiles and normal attacks are limited to once per turn.",
@@ -1723,7 +1723,7 @@ const allTranslations =
     },
     {
         "originalIndex": 184,
-        "name": "艾莉丝 (Iris)",
+        "name": "Iris",
         "effects": [
             "Deals 405% damage to the target and minor damage to the nearby enemies.",
             "Dispells buffs from the target and nearby enemies at the end of each turn for 3 turns.",
@@ -1733,7 +1733,7 @@ const allTranslations =
     },
     {
         "originalIndex": 185,
-        "name": "伊萨莉亚 (Isarnia)",
+        "name": "Isarnia",
         "effects": [
             "Deals 235% damage to all enemies.",
             "All enemies get -44% defense for 6 turns."
@@ -1741,7 +1741,7 @@ const allTranslations =
     },
     {
         "originalIndex": 186,
-        "name": "伊萨莉亚 (Isarnia) C1",
+        "name": "Isarnia C1",
         "effects": [
             "Deals 255% damage to all enemies.",
             "All enemies get -34% defense for 6 turns."
@@ -1749,7 +1749,7 @@ const allTranslations =
     },
     {
         "originalIndex": 187,
-        "name": "伊萨莉亚 (Isarnia) C2",
+        "name": "Isarnia C2",
         "effects": [
             "Deals 270% damage to all enemies.",
             "All enemies get -34% attack for 4 turns. Against Nature characters, this status effect becomes uncleansable and lasts 2 turns longer.",
@@ -1758,7 +1758,7 @@ const allTranslations =
     },
     {
         "originalIndex": 188,
-        "name": "伊萨莉亚 (Isarnia) 卡通",
+        "name": "Isarnia Toon",
         "effects": [
             "Deals 385% damage to all enemies.",
             "All enemies get -34% defense for 6 turns.",
@@ -1767,7 +1767,7 @@ const allTranslations =
     },
     {
         "originalIndex": 189,
-        "name": "伊萨莉亚 (Isarnia) 玻璃",
+        "name": "Isarnia Glass",
         "effects": [
             "Deals 395% damage to all enemies.",
             "The attack bypasses defensive buffs. (This includes counterattacks.)",
@@ -1776,7 +1776,7 @@ const allTranslations =
     },
     {
         "originalIndex": 190,
-        "name": "艾辛 (Ixinn)",
+        "name": "Ixinn",
         "effects": [
             "Deals 530% damage to the target.",
             "The attack chains through all the enemies who are adjacent to any hit enemy.",
@@ -1786,7 +1786,7 @@ const allTranslations =
     },
     {
         "originalIndex": 191,
-        "name": "珠尔特 (Jolt)",
+        "name": "Jolt",
         "effects": [
             "Deals 215% damage to the target.",
             "The attack chains through all the enemies who are adjacent to any hit enemy.",
@@ -1796,7 +1796,7 @@ const allTranslations =
     },
     {
         "originalIndex": 192,
-        "name": "乔利恩 (Jolyon)",
+        "name": "Jolyon",
         "effects": [
             "Enhanced Dodge: All allies get +75% chance to dodge Special Skills that deal damage. This effect lasts until the ally succesfully dodges once.",
             "After the Enhanced Dodge ends or is removed or replaced, the ally gets a Wooden Doll Minion.",
@@ -1806,7 +1806,7 @@ const allTranslations =
     },
     {
         "originalIndex": 193,
-        "name": "卡比洛斯 (Kabeiroi)",
+        "name": "Kabeiroi",
         "effects": [
             "Deals 200% damage to the target.",
             "For 3 turns, the target is forced to cast Mindless Heal when at full mana.",
@@ -1817,7 +1817,7 @@ const allTranslations =
     },
     {
         "originalIndex": 194,
-        "name": "凯特尔 (Kettle)",
+        "name": "Kettle",
         "effects": [
             "Cook random foord for special effect (Activation chance for each effect):",
             "- Exquiste Food (45%)",
@@ -1832,7 +1832,7 @@ const allTranslations =
     },
     {
         "originalIndex": 195,
-        "name": "亚瑟王 (King Arthur)",
+        "name": "King Arthur",
         "effects": [
             "Deals 468% damage to the target.",
             "The target gets -39% attack for 4 turns.",
@@ -1842,7 +1842,7 @@ const allTranslations =
     },
     {
         "originalIndex": 196,
-        "name": "克拉恩 (Klaern)",
+        "name": "Klaern",
         "effects": [
             "Deals 300% damage to all enemies.",
             "All enemies receive 400 Water damage over 5 turns. The caster absorbs 35% of dealt Water damage as health.",
@@ -1851,7 +1851,7 @@ const allTranslations =
     },
     {
         "originalIndex": 197,
-        "name": "克朗普斯 (Krampus)",
+        "name": "Krampus",
         "effects": [
             "Summons an Elf Minion for each ally with 10% HP and 10% attack inherited from the caster.",
             "The caster gets Taunt that prevents enemies from using Special Skills on the caster's allies for 3 turns.",
@@ -1861,7 +1861,7 @@ const allTranslations =
     },
     {
         "originalIndex": 198,
-        "name": "克朗普斯 (Krampus) C1",
+        "name": "Krampus C1",
         "effects": [
             "Summons an Elf Minion for each ally with 10% HP and 10% attack inherited from the caster.",
             "The caster gets Taunt that prevents enemies from using Special Skills on the caster's allies for 3 turns.",
@@ -1871,7 +1871,7 @@ const allTranslations =
     },
     {
         "originalIndex": 199,
-        "name": "赖恩 (Lane)",
+        "name": "Lane",
         "effects": [
             "Deals 585% damage to the target and minor damage to all other enemies.",
             "The caster goes into Ambush. Damage dealt by the caster is increased by +50%, and damage received by them is decreased by -40%. (When the character goes into Ambush, all existing cleansable ailments and Wither effects are removed. The character can't gain new ailments or Wither effects while in Ambush. This effect is uncleansable. Ambush ends once the character has received 1500 damage.)",
@@ -1880,7 +1880,7 @@ const allTranslations =
     },
     {
         "originalIndex": 200,
-        "name": "伦纳特 (Lennart)",
+        "name": "Lennart",
         "effects": [
             "Deals 500% damage to the target.",
             "The target receives 1500 Surge Bleed damage over 6 turns. (If the target already has this effect, the duration will be refreshed and the damage will be increased by 300. Max total damage: 2400.)",
@@ -1890,7 +1890,7 @@ const allTranslations =
     },
     {
         "originalIndex": 201,
-        "name": "洛基领主 (Lord Loki)",
+        "name": "Lord Loki",
         "effects": [
             "Copies target's Special Skill and uses it as if it was the caster's own Special Skill.",
             "If the target does not have a Special Skill or it can't be copied, the following special skill will be cast",
@@ -1900,7 +1900,7 @@ const allTranslations =
     },
     {
         "originalIndex": 202,
-        "name": "洛基领主 (Lord Loki) C1",
+        "name": "Lord Loki C1",
         "effects": [
             "Copies all dispellable buffs from the target.",
             "Copies target's Special Skill and uses it in addition to the caster's own Special Skill.",
@@ -1911,7 +1911,7 @@ const allTranslations =
     },
     {
         "originalIndex": 203,
-        "name": "卢多维科 (Ludovico)",
+        "name": "Ludovico",
         "effects": [
             "Recovers 20% health for all allies.",
             "For each stack of the Blood Lily effect on enemies, boosts health of all allies by 30, up to 900 boosted health in total. Boosted health can exceed max HP.",
@@ -1921,7 +1921,7 @@ const allTranslations =
     },
     {
         "originalIndex": 204,
-        "name": "莱莎诺 (Lysanor)",
+        "name": "Lysanor",
         "effects": [
             "Each defeated ally has a 60% chance to get revived with 20% HP.",
             "All allies get +50% attack for 5 turns. The attack increases by 5% each turn, up to +70%.",
@@ -1930,7 +1930,7 @@ const allTranslations =
     },
     {
         "originalIndex": 205,
-        "name": "玛吉斯汀 (Magistine)",
+        "name": "Magistine",
         "effects": [
             "Deals 325% damage to all enemies.",
             "If the enemy team has any Mega Minions, this Special Skill deals 375% damage to all enemies instead.",
@@ -1940,7 +1940,7 @@ const allTranslations =
     },
     {
         "originalIndex": 206,
-        "name": "马格尼 (Magni)",
+        "name": "Magni",
         "effects": [
             "Deals 420% damage to the target.",
             "The caster and nearby allies get +63% defense for 4 turns."
@@ -1948,7 +1948,7 @@ const allTranslations =
     },
     {
         "originalIndex": 207,
-        "name": "马格尼 (Magni) C1",
+        "name": "Magni C1",
         "effects": [
             "Deals 420% damage to the target.",
             "The target and nearby enemies get -34% defense for 4 turns."
@@ -1956,7 +1956,7 @@ const allTranslations =
     },
     {
         "originalIndex": 208,
-        "name": "马格尼 (Magni) C2",
+        "name": "Magni C2",
         "effects": [
             "Deals 285% damage to target and nearby enemies.",
             "The target and nearby enemies get -64% defense against Special Skills for 4 turns."
@@ -1964,7 +1964,7 @@ const allTranslations =
     },
     {
         "originalIndex": 209,
-        "name": "马格尼 (Magni) 卡通",
+        "name": "Magni Toon",
         "effects": [
             "Deals 500% damage to the target.",
             "The caster and nearby allies get 56% defense for 4 turns.",
@@ -1973,7 +1973,7 @@ const allTranslations =
     },
     {
         "originalIndex": 210,
-        "name": "马格尼 (Magni) 玻璃",
+        "name": "Magni Glass",
         "effects": [
             "Deals 510% damage to the target.",
             "The attack bypasses defensive buffs. (This includes counterattacks.)",
@@ -1982,7 +1982,7 @@ const allTranslations =
     },
     {
         "originalIndex": 211,
-        "name": "马莉奥尔 (Mariol)",
+        "name": "Mariol",
         "effects": [
             "Boosts health of all allies by 700. Boosted health can exceed max HP.",
             "All allies get Moonrise Ward for 3 turns, that reduces incoming Special Skill damage by -700. Reduces damage by additional 30% when attacker is Holy.",
@@ -1991,7 +1991,7 @@ const allTranslations =
     },
     {
         "originalIndex": 212,
-        "name": "天兔大师 (Master Lepus)",
+        "name": "Master Lepus",
         "effects": [
             "Deals 410% damage to the target and minor damage to nearby enemies.",
             "The caster gets -20% defense for 3 turns. This effect can't be cleansed."
@@ -1999,7 +1999,7 @@ const allTranslations =
     },
     {
         "originalIndex": 213,
-        "name": "天兔大师 (Master Lepus) C1",
+        "name": "Master Lepus C1",
         "effects": [
             "Deals 280% damage to all enemies.",
             "The caster gets -24% mana generation for 4 turns. This effect can't be cleansed."
@@ -2007,7 +2007,7 @@ const allTranslations =
     },
     {
         "originalIndex": 214,
-        "name": "马特雷拉 (Matrera)",
+        "name": "Matrera",
         "effects": [
             "Deals 650% damage to the target.",
             "If the target is defeated, the excess damage is dealt to each nearby enemy.",
@@ -2016,7 +2016,7 @@ const allTranslations =
     },
     {
         "originalIndex": 215,
-        "name": "梅内 (Mene)",
+        "name": "Mene",
         "effects": [
             "Deals 310% damage to the target and nearby enemies.",
             "The target and nearby enemies receive 824 Frost damage over 4 turns.",
@@ -2026,7 +2026,7 @@ const allTranslations =
     },
     {
         "originalIndex": 216,
-        "name": "米琪 (Miki)",
+        "name": "Miki",
         "effects": [
             "All allies get +130% normal attack that only applies when the enemy has more HP than the attacker. This effect can be active in addition to effects that alter attack in general. Normal attacks can have a total maximum of +170% increased power while this efect is active. The effect lasts for 5 turns.",
             "The target and nearby enemies get silenced for 5 turns",
@@ -2035,7 +2035,7 @@ const allTranslations =
     },
     {
         "originalIndex": 217,
-        "name": "米莱狄·德·温特 (Milady de Winter)",
+        "name": "Milady de Winter",
         "effects": [
             "Deals 385% damage to all enemies.",
             "The caster regenerates 918 HP over 6 turns.",
@@ -2045,7 +2045,7 @@ const allTranslations =
     },
     {
         "originalIndex": 218,
-        "name": "米莱娜 (Milena)",
+        "name": "Milena",
         "effects": [
             "Special Skill has a different effect when charged with 100%/200% mana:",
             "1x Mana Charge:",
@@ -2058,7 +2058,7 @@ const allTranslations =
     },
     {
         "originalIndex": 219,
-        "name": "米莱娜 (Milena) C1",
+        "name": "Milena C1",
         "effects": [
             "Special Skill has a different effect when charged with 100% / 200% mana:",
             "1x Mana Charge:",
@@ -2072,7 +2072,7 @@ const allTranslations =
     },
     {
         "originalIndex": 220,
-        "name": "米丽安与午夜 (Miriam & Midnight)",
+        "name": "Miriam & Midnight",
         "effects": [
             "Summons a Blue Kitten Minion for the caster and nearby allies. Blue Kitten Minion inherits 30% HP and 30% attack from the caster. The Minion recovers 22% health for its owner at the end of each turn.",
             "The Blue Kitten Minion lifts the newest cleansable status ailment from its owner and adds it to the hit target.",
@@ -2081,7 +2081,7 @@ const allTranslations =
     },
     {
         "originalIndex": 221,
-        "name": "米桑德拉 (Misandra)",
+        "name": "Misandra",
         "effects": [
             "Deals 310% damage to the target.",
             "Has a 42% chance for additional hits on random enemies up to 3 times. Additional hits deal minor damage.",
@@ -2090,7 +2090,7 @@ const allTranslations =
     },
     {
         "originalIndex": 222,
-        "name": "米桑德拉 (Misandra) C1",
+        "name": "Misandra C1",
         "effects": [
             "Deals 280% damage to the target.",
             "Has a 42% chance for additional hits on random enemies up to 3 times.",
@@ -2099,7 +2099,7 @@ const allTranslations =
     },
     {
         "originalIndex": 223,
-        "name": "艾瑟尔小姐 (Miss Ethel)",
+        "name": "Miss Ethel",
         "effects": [
             "Deals 600% damage to the target.",
             "If the target had more then 40% health before receiving damage targets another enemy who had over 40% health before receiving any damage from this Special Skill. If none of the other enemies have 40% health targets a random enemy. The damage is reduced on each consecutive hits. Each enemy can only be hit once.",
@@ -2108,7 +2108,7 @@ const allTranslations =
     },
     {
         "originalIndex": 224,
-        "name": "米斯特拉 (Mistra)",
+        "name": "Mistra",
         "effects": [
             "Deals 350% damage to all enemies.",
             "If the target is Average mana speed, deals an additional 50% damage.",
@@ -2119,7 +2119,7 @@ const allTranslations =
     },
     {
         "originalIndex": 225,
-        "name": "蜜丝缇 (Misty)",
+        "name": "Misty",
         "effects": [
             "Boosts health of all allies by 180. Boosted health can exceed max HP.",
             "Reduces the max health of all enemies by 180. This effect is stronger against targets with boosted health. Max health can’t get lower than 30% of the original max health. Any boosted health is reduced by an additional 180.",
@@ -2128,7 +2128,7 @@ const allTranslations =
     },
     {
         "originalIndex": 226,
-        "name": "莫德瑞丝 (Modthryth)",
+        "name": "Modthryth",
         "effects": [
             "The caster and nearby allies counterattack with 135% of the damage received for 3 turns.",
             "The caster and nearby allies decrease -10% mana from the attacker on each counterattack for 3 turns. The effect get diminished for consecutive activations during the same turn.",
@@ -2141,7 +2141,7 @@ const allTranslations =
     },
     {
         "originalIndex": 227,
-        "name": "月医 (Mooncure)",
+        "name": "Mooncure",
         "effects": [
             "Recovers 55% health for all allies.",
             "All allies get +10% mana every time an enemy uses their Special skill during 5 turns.",
@@ -2151,7 +2151,7 @@ const allTranslations =
     },
     {
         "originalIndex": 228,
-        "name": "莫雷尔 (Morel)",
+        "name": "Morel",
         "effects": [
             "Deals 180% damage to all enemies",
             "All enemis get -34% defense for 3 turns."
@@ -2159,7 +2159,7 @@ const allTranslations =
     },
     {
         "originalIndex": 229,
-        "name": "莫雷尔 (Morel) C1",
+        "name": "Morel C1",
         "effects": [
             "Deals 145% damage to all enemies.",
             "All enemies get -34% defense for 3 turns.",
@@ -2168,7 +2168,7 @@ const allTranslations =
     },
     {
         "originalIndex": 230,
-        "name": "潘吉先生 (Mr. Pengi)",
+        "name": "Mr. Pengi",
         "effects": [
             "Deals 450% damage to the target.",
             "Deals an additional 130% damage to as many random enemies as there are Minions owned by allies. The damage is reduced on each consecutive hit.",
@@ -2178,7 +2178,7 @@ const allTranslations =
     },
     {
         "originalIndex": 231,
-        "name": "潘吉先生 (Mr. Pengi) C1",
+        "name": "Mr. Pengi C1",
         "effects": [
             "Deals 400% damage to the target.",
             "Deals an additional 160% damage to as many random enemies as there are Minions owned by allies. The damage is reduced on each consecutive hit.",
@@ -2188,7 +2188,7 @@ const allTranslations =
     },
     {
         "originalIndex": 232,
-        "name": "诺第卡 (Nautica)",
+        "name": "Nautica",
         "effects": [
             "Recovers 45% health for all allies.",
             "Increases the mana of nearby allies by 33%.",
@@ -2198,7 +2198,7 @@ const allTranslations =
     },
     {
         "originalIndex": 233,
-        "name": "奈拉西斯 (Nerasis)",
+        "name": "Nerasis",
         "effects": [
             "Deals 460% damage to the target.",
             "If the target is defeated by the attack, the caster gains +50% mana. (After a character has received 5 direct mana addition from Special Skill during a single turn, all subsequent direct mana addition done by Special Skills will have reduced power on that character.)",
@@ -2208,7 +2208,7 @@ const allTranslations =
     },
     {
         "originalIndex": 234,
-        "name": "九头兽 (Nine-Headed Beast)",
+        "name": "Nine-Headed Beast",
         "effects": [
             "160% damage to 9 random enemies.",
             "The duration of buffs is reset for all allies.",
@@ -2219,7 +2219,7 @@ const allTranslations =
     },
     {
         "originalIndex": 235,
-        "name": "尼洛拉 (Nylora)",
+        "name": "Nylora",
         "effects": [
             "Targets element is changed to Fire for 3 turns. (Titans and Mythic Titans are not affected by Element Swap)",
             "Deals 550% damage to the target.",
@@ -2228,7 +2228,7 @@ const allTranslations =
     },
     {
         "originalIndex": 236,
-        "name": "奥黛特 (Odette)",
+        "name": "Odette",
         "effects": [
             "The caster regenerates 609 HP over 3 turns.",
             "The caster gets +45% chance to dodge Special Skills that deal damage for 3 turns.",
@@ -2242,7 +2242,7 @@ const allTranslations =
     },
     {
         "originalIndex": 237,
-        "name": "鬼若丸 (Oniwakamaru)",
+        "name": "Oniwakamaru",
         "effects": [
             "Special Skill has a different effect when charged with 100%/200%/300% mana:",
             "x1 Mana Charge:",
@@ -2261,7 +2261,7 @@ const allTranslations =
     },
     {
         "originalIndex": 238,
-        "name": "奥科 (Orcur)",
+        "name": "Orcur",
         "effects": [
             "Recovers 30% health for all allies.",
             "Growth: All allies get 250 attack.",
@@ -2270,7 +2270,7 @@ const allTranslations =
     },
     {
         "originalIndex": 239,
-        "name": "奥德索 (Otso)",
+        "name": "Otso",
         "effects": [
             "Deals 380% damage to all enemies.",
             "The caster regenerates 870 HP over 6 turns.",
@@ -2279,7 +2279,7 @@ const allTranslations =
     },
     {
         "originalIndex": 240,
-        "name": "帕瑟帕特奥 (Passepartout)",
+        "name": "Passepartout",
         "effects": [
             "Recovers 25% health for all allies.",
             "All allies regenerate 400 HP over 4 turns, and a further increase of 100 HP per each Nature shield on the board, up to 1200 HP total.",
@@ -2288,7 +2288,7 @@ const allTranslations =
     },
     {
         "originalIndex": 241,
-        "name": "帕瑟帕特奥 (Passepartout) C1",
+        "name": "Passepartout C1",
         "effects": [
             "Recover 40% health for all allies.",
             "All allies regenerate 260 HP over 4 turns and a further increase of 76 HP per each Nature shield on the board, up to 868 HP total.",
@@ -2297,7 +2297,7 @@ const allTranslations =
     },
     {
         "originalIndex": 242,
-        "name": "佩普布勒 (Pepperbleu)",
+        "name": "Pepperbleu",
         "effects": [
             "Deals 450% damage to the target.",
             "Safely dispels status effect buffs from the target. (Safe dispel bypasses secondary effects, such as damage on removal, from the removed status effect buffs. External effects such as passive skills and family effects can still activate.)",
@@ -2308,7 +2308,7 @@ const allTranslations =
     },
     {
         "originalIndex": 243,
-        "name": "柏休斯 (Perseus)",
+        "name": "Perseus",
         "effects": [
             "Deal 455% damage to the target.",
             "The target gets -100% decrease for any healing received for 4 turns.  This effect can’t be cleansed.",
@@ -2318,7 +2318,7 @@ const allTranslations =
     },
     {
         "originalIndex": 244,
-        "name": "柏休斯 (Perseus) C1",
+        "name": "Perseus C1",
         "effects": [
             "Deals 405% damage to the target and nearby enemies.",
             "The target and nearby enemies get -100% decrease of any healing received for 4 turns. This effect can’t be cleansed.",
@@ -2328,7 +2328,7 @@ const allTranslations =
     },
     {
         "originalIndex": 245,
-        "name": "金曲 (Pophit)",
+        "name": "Pophit",
         "effects": [
             "The target and nearby enemies get -30% defense for 3 turns. If the effect is removed before the duration ends, the target with the effect suffers 668 damage.",
             "Deals 390% damage to the target and nearby enemies.",
@@ -2337,7 +2337,7 @@ const allTranslations =
     },
     {
         "originalIndex": 246,
-        "name": "波尔多斯 (Porthos)",
+        "name": "Porthos",
         "effects": [
             "Deals 380% damage to all enemies.",
             "Alters the power of all Ice shields on the board. When an attacking Hero casts the special, the shields become enchanced with +64% attack. When a defending Hero casts the special, the shields become weakened with -57% attack.",
@@ -2347,7 +2347,7 @@ const allTranslations =
     },
     {
         "originalIndex": 247,
-        "name": "夸里 (Quari)",
+        "name": "Quari",
         "effects": [
             "Deals 450% damage to the target and nearby enemies.",
             "The target and nearby enemies receive 788 Water damage over 4 turns. All allies absorb 50% of dealt Water damage as boosted health.",
@@ -2356,7 +2356,7 @@ const allTranslations =
     },
     {
         "originalIndex": 248,
-        "name": "奎恩 (Quinn)",
+        "name": "Quinn",
         "effects": [
             "Boosts health of all allies by 400. Boosted health can be exceed max HP.",
             "All enemies are immune to new status effect buffs for 3 turns.",
@@ -2368,7 +2368,7 @@ const allTranslations =
     },
     {
         "originalIndex": 249,
-        "name": "昆汀 (Quintin)",
+        "name": "Quintin",
         "effects": [
             "Deals 420% damage to the target.",
             "The target receives 100% damage for all the damage their allies receive for 4 turns."
@@ -2376,7 +2376,7 @@ const allTranslations =
     },
     {
         "originalIndex": 250,
-        "name": "拉菲尔 (Raffaele)",
+        "name": "Raffaele",
         "effects": [
             "Heals all allies who have less than 50% HP left to 50% health.",
             "All allies regenerate 1080 HP over 4 turns.",
@@ -2386,7 +2386,7 @@ const allTranslations =
     },
     {
         "originalIndex": 251,
-        "name": "里安 (Rian)",
+        "name": "Rian",
         "effects": [
             "Cleanses status ailments from all allies.",
             "Deals 210% damage to all enemies.",
@@ -2397,7 +2397,7 @@ const allTranslations =
     },
     {
         "originalIndex": 252,
-        "name": "理查德 (Richard)",
+        "name": "Richard",
         "effects": [
             "Deals 415% damage to the target and minor damage to nearby enemies.",
             "The target and nearby enemies get -34% attack for 6 turns."
@@ -2405,7 +2405,7 @@ const allTranslations =
     },
     {
         "originalIndex": 253,
-        "name": "理查德 (Richard) C1",
+        "name": "Richard C1",
         "effects": [
             "Deals 435% damage to the target and minor damage to nearby enemies.",
             "The target and nearby enemies get -34% attack for 4 turns."
@@ -2413,7 +2413,7 @@ const allTranslations =
     },
     {
         "originalIndex": 254,
-        "name": "理查德 (Richard) C2",
+        "name": "Richard C2",
         "effects": [
             "Deals 300% damage to the target and nearby enemies.",
             "The target and nearby enemies get -30% attack, and a further -2% decrease every time they are hit during 4 turns."
@@ -2421,7 +2421,7 @@ const allTranslations =
     },
     {
         "originalIndex": 255,
-        "name": "理查德 (Richard) 卡通",
+        "name": "Richard Toon",
         "effects": [
             "Deals 565% damage to the target and minor damage to nearby enemies.",
             "The target and nearby enemies get -24% attack for 6 turns.",
@@ -2430,7 +2430,7 @@ const allTranslations =
     },
     {
         "originalIndex": 256,
-        "name": "理查德 (Richard) 玻璃",
+        "name": "Richard Glass",
         "effects": [
             "Deals 575% damage to the target and minor damage to nearby enemies.",
             "The attack bypasses defensive buffs. (This includes counterattacks.)",
@@ -2439,7 +2439,7 @@ const allTranslations =
     },
     {
         "originalIndex": 257,
-        "name": "河牙 (Riverfang)",
+        "name": "Riverfang",
         "effects": [
             "Dispels buffs from target and nearby enemies.",
             "Deals 400% damage to the target and nearby enemies.",
@@ -2449,7 +2449,7 @@ const allTranslations =
     },
     {
         "originalIndex": 258,
-        "name": "龙佩尔斯迪尔钦 (Rumpelstiltskin)",
+        "name": "Rumpelstiltskin",
         "effects": [
             "Draw a card for a special effect:",
             "Skull",
@@ -2465,7 +2465,7 @@ const allTranslations =
     },
     {
         "originalIndex": 259,
-        "name": "龙佩尔斯迪尔钦 (Rumpelstiltskin) C1",
+        "name": "Rumpelstiltskin C1",
         "effects": [
             "Draw a card for a special effect:",
             "Skull",
@@ -2481,7 +2481,7 @@ const allTranslations =
     },
     {
         "originalIndex": 260,
-        "name": "鲁苏拉 (Russula)",
+        "name": "Russula",
         "effects": [
             "Deals 330% damage to the target.",
             "The caster goes into hiding for 2 turns.",
@@ -2491,7 +2491,7 @@ const allTranslations =
     },
     {
         "originalIndex": 261,
-        "name": "鲁苏拉 (Russula) C1",
+        "name": "Russula C1",
         "effects": [
             "Deals 300% damage to the target.",
             "The caster goes into hiding for 2 turns.",
@@ -2501,7 +2501,7 @@ const allTranslations =
     },
     {
         "originalIndex": 262,
-        "name": "紫貂 (Sable)",
+        "name": "Sable",
         "effects": [
             "Casts Full Removal on the caster. (Full Removal removes all status effects, stacks and Growth and Wither effects. Removes even status effects and stack that are otherwise undispelalble and uncleasable.",
             "The caster shifts into Ghost form for 3 turns. (While in Ghost form, Character can’t gain mana, and can’t be healed by Special Skills, but is immune to normal attacks, Special Skill attacks, damage dealing passives, status effects and stacks. Immune to new Growth and Wither effects.)",
@@ -2513,7 +2513,7 @@ const allTranslations =
     },
     {
         "originalIndex": 263,
-        "name": "萨尔瓦多 (Salvatore)",
+        "name": "Salvatore",
         "effects": [
             "Casts Full Removal on the caster. (Full Removal removes all status effects, stacks and Gowth and Wither effects. Removes even status effects and stacks that are otherwise undispellable or uncleansable. )",
             "The caster shifts into Deranged Dire Ghost form for 5 turns.",
@@ -2524,7 +2524,7 @@ const allTranslations =
     },
     {
         "originalIndex": 264,
-        "name": "开悟 (Satori)",
+        "name": "Satori",
         "effects": [
             "Deals 315% damage to all enemies.",
             "Deals 630% damage against characters that cleanse or dispel using Special Skills. (Only direct Dispel and Cleanse effects from Special Skills are considered. This excludes Remove effects, Passives, Minions, Family effects, Talents and Status effects.)",
@@ -2533,7 +2533,7 @@ const allTranslations =
     },
     {
         "originalIndex": 265,
-        "name": "泽野 (Sawano)",
+        "name": "Sawano",
         "effects": [
             "1x Mana Charge",
             "* Recovers 25% health for all allies.",
@@ -2551,7 +2551,7 @@ const allTranslations =
     },
     {
         "originalIndex": 266,
-        "name": "西格恩 (Sigyn)",
+        "name": "Sigyn",
         "effects": [
             "Deals 500% damage to the enemies on the edges of the enemy formation. If there is only one enemy alive, the damage is doubled.",
             "Reduces the mana of the enemies on the edges of the enemy formation by 50%.",
@@ -2561,7 +2561,7 @@ const allTranslations =
     },
     {
         "originalIndex": 267,
-        "name": "西尼 (Sini)",
+        "name": "Sini",
         "effects": [
             "Deals 280% damage to all enemies.",
             "Alters the power of all Ice shields on the board. When an attacking hero casts the special, the shields become enhanced with +54% attack. When a defending Hero casts the special, the shields becme weakened with -47% attack.",
@@ -2571,7 +2571,7 @@ const allTranslations =
     },
     {
         "originalIndex": 268,
-        "name": "希奥弗拉 (Siofra)",
+        "name": "Siofra",
         "effects": [
             "Deals 290% damage to the target and nearby enemies.",
             "The attack bypasses defensive buffs. This includes counterattacks.",
@@ -2581,7 +2581,7 @@ const allTranslations =
     },
     {
         "originalIndex": 269,
-        "name": "斯嘉蒂 (Skadi)",
+        "name": "Skadi",
         "effects": [
             "Deals 220% damage to all enemies.",
             "The damage is increased by 50% per each dead enemy.",
@@ -2591,7 +2591,7 @@ const allTranslations =
     },
     {
         "originalIndex": 270,
-        "name": "斯嘉蒂 (Skadi) C1",
+        "name": "Skadi C1",
         "effects": [
             "Deals 320% damage to the target and nearby enemies.",
             "The damage is increased by 35% per each dead enemy.",
@@ -2601,7 +2601,7 @@ const allTranslations =
     },
     {
         "originalIndex": 271,
-        "name": "斯卡恩 (Skarn)",
+        "name": "Skarn",
         "effects": [
             "Deals 185% damage to all enemies.",
             "All enemies get -30% defense against Ice for 3 turns.",
@@ -2610,7 +2610,7 @@ const allTranslations =
     },
     {
         "originalIndex": 272,
-        "name": "史莱姆戈 (Slimgo)",
+        "name": "Slimgo",
         "effects": [
             "Deals 270% damage to all enemies.",
             "All enemies receive 627 Water damage over 3 turns.",
@@ -2619,7 +2619,7 @@ const allTranslations =
     },
     {
         "originalIndex": 273,
-        "name": "白雪公主 (Snow White)",
+        "name": "Snow White",
         "effects": [
             "Cleanses all buffs and status ailments from all allies and enemies.",
             "Deals 180% damage to all enemies, and additional 15% damage per removed status effect, up to 420% damage in total."
@@ -2627,7 +2627,7 @@ const allTranslations =
     },
     {
         "originalIndex": 274,
-        "name": "白雪公主 (Snow White) C1",
+        "name": "Snow White C1",
         "effects": [
             "Dispels and cleanses all buffs and status ailments from all allies and enemies.",
             "Deals 140% damage to all enemies.",
@@ -2636,7 +2636,7 @@ const allTranslations =
     },
     {
         "originalIndex": 275,
-        "name": "索贝克 (Sobek)",
+        "name": "Sobek",
         "effects": [
             "Deals 290% damage to all enemies.",
             "The attack bypasses defensive buffs. This includes counterattacks."
@@ -2644,7 +2644,7 @@ const allTranslations =
     },
     {
         "originalIndex": 276,
-        "name": "索贝克 (Sobek) C1",
+        "name": "Sobek C1",
         "effects": [
             "Deals 280% damage to all enemies.",
             "The attack bypasses defensive buffs. (This includes counterattacks.)",
@@ -2653,7 +2653,7 @@ const allTranslations =
     },
     {
         "originalIndex": 277,
-        "name": "宋江 (Song Jiang)",
+        "name": "Song Jiang",
         "effects": [
             "This Special Skill has a chance to deal Critical hits. (The chance of dealing a Critical hit is based on Hero’s overall critical chance when the damage is dealt. Critical hits caused by this Special Skill deal 50% more damage. Critical hits can reduces enemies’ max health on PVP battles. This effect is stronger against boosted health.)",
             "Deals 450% damage to the target and nearby enemies.",
@@ -2664,7 +2664,7 @@ const allTranslations =
     },
     {
         "originalIndex": 278,
-        "name": "娑柔 (Sorrow)",
+        "name": "Sorrow",
         "effects": [
             "Summons 2 Icebound Sickle Minions for the caster and nearby allies with 18% HP and 30% attack inherited from the caster.",
             "When summoned, the Icebound Sickle Minion gives +45% attack for its owner for as long as the owner has Icebound Sickle Minions. The attack increases by 5% each turn, up to 60%. This effect can't be cleansed.",
@@ -2673,7 +2673,7 @@ const allTranslations =
     },
     {
         "originalIndex": 279,
-        "name": "星游者 (Starwalker)",
+        "name": "Starwalker",
         "effects": [
             "This Special Skill never misses its targets.",
             "Deals 200% damage to all enemies.",
@@ -2683,7 +2683,7 @@ const allTranslations =
     },
     {
         "originalIndex": 280,
-        "name": "铃奈 (Suzuna)",
+        "name": "Suzuna",
         "effects": [
             "Cleanses status ailments from the caster and nearby allies.",
             "The caster and nearby allies reflect status ailments and negative stacks for 3 turns. Status effects casts by characters, Minions and fiends on the same side cannot be reflected.",
@@ -2693,7 +2693,7 @@ const allTranslations =
     },
     {
         "originalIndex": 281,
-        "name": "斯瓦法 (Svafa)",
+        "name": "Svafa",
         "effects": [
             "Attacks the target and nearby enemies with Frostfall Strike, dealing up to 1500 damage. Deals 40% more if the target is of the Fire element. This Special Skill never misses its targets.",
             "The target and nearby enemies receive 705 Bleed damage over 3 turns.",
@@ -2702,7 +2702,7 @@ const allTranslations =
     },
     {
         "originalIndex": 282,
-        "name": "提尔莫因 (Tealmoine)",
+        "name": "Tealmoine",
         "effects": [
             "Steals all dispellable buffs from the target and randomly distributes them on allies.",
             "The target falls into Deep Sleep and receives +80% increased damage while in Deep Sleep. (The character in Deep Sleep cannot gain mana or attack. The character in Deep Sleep is woken once it takes 750 damage. This effect is uncleasable.)",
@@ -2711,7 +2711,7 @@ const allTranslations =
     },
     {
         "originalIndex": 283,
-        "name": "忒提丝 (Tethys)",
+        "name": "Tethys",
         "effects": [
             "Deals 300% damage to target and nearby enemies.",
             "The target and nearby enemies receive 396 Water damage over 3 turns.",
@@ -2721,7 +2721,7 @@ const allTranslations =
     },
     {
         "originalIndex": 284,
-        "name": "忒提丝 (Tethys) C1",
+        "name": "Tethys C1",
         "effects": [
             "Deals 400% damage to the target and nearby enemies.",
             "The target and nearby enemies receive 657 Water damage over 3 turns.",
@@ -2731,7 +2731,7 @@ const allTranslations =
     },
     {
         "originalIndex": 285,
-        "name": "塔拉萨 (Thalassa)",
+        "name": "Thalassa",
         "effects": [
             "Special Skill need consecutive uses to reach full power, the following order:",
             "1st:",
@@ -2745,7 +2745,7 @@ const allTranslations =
     },
     {
         "originalIndex": 286,
-        "name": "塔拉萨 (Thalassa) C1",
+        "name": "Thalassa C1",
         "effects": [
             "Special Skill need consecutive uses to reach full power, the following order:",
             "1st",
@@ -2759,7 +2759,7 @@ const allTranslations =
     },
     {
         "originalIndex": 287,
-        "name": "塔纳托斯 (Thanatos)",
+        "name": "Thanatos",
         "effects": [
             "Special Skill has a different effect when charged with 100% / 200% / 300% mana:",
             "1x Mana Charge:",
@@ -2776,7 +2776,7 @@ const allTranslations =
     },
     {
         "originalIndex": 288,
-        "name": "西奥博尔德 (Theobald)",
+        "name": "Theobald",
         "effects": [
             "Deals 405% damage to the enemy with the highest remaining HP. Deals 260% damage to all other enemies.",
             "All allies reflect all status effects and 115% damage back to the attacker and block other negative effects from enemies' Nature Special Skills for 4 turns. Status effects cast by characters, Minions and Fiends on the same side cannot be reflected.",
@@ -2785,14 +2785,14 @@ const allTranslations =
     },
     {
         "originalIndex": 289,
-        "name": "索恩 (Thorne)",
+        "name": "Thorne",
         "effects": [
             "Deals 490% damage to the target and minor damage to nearby enemies"
         ]
     },
     {
         "originalIndex": 290,
-        "name": "索恩 (Thorne) C1",
+        "name": "Thorne C1",
         "effects": [
             "Deals 540% damage to the target.",
             "The caster gets +24% mana generation for 3 turns. This effect can't be dispelled."
@@ -2800,7 +2800,7 @@ const allTranslations =
     },
     {
         "originalIndex": 291,
-        "name": "索恩 (Thorne) C2",
+        "name": "Thorne C2",
         "effects": [
             "Deals 360% damage to the target and nearby enemies.",
             "Reduces the mana of the target and nearby enemies by 15%.",
@@ -2809,7 +2809,7 @@ const allTranslations =
     },
     {
         "originalIndex": 292,
-        "name": "索恩 (Thorne) 卡通",
+        "name": "Thorne Toon",
         "effects": [
             "Deals 640% damage to the target and minor damage to nearby enemies.",
             "Deals extra damage against Fire."
@@ -2817,7 +2817,7 @@ const allTranslations =
     },
     {
         "originalIndex": 293,
-        "name": "索恩 (Thorne) 玻璃",
+        "name": "Thorne Glass",
         "effects": [
             "Deals 650% damage to the target and minor damage to nearby enemies.",
             "The attack bypasses defensive buffs. (This includes counterattacks.)"
@@ -2825,7 +2825,7 @@ const allTranslations =
     },
     {
         "originalIndex": 294,
-        "name": "蒂米乌斯 (Timius)",
+        "name": "Timius",
         "effects": [
             "Dispels buffs from the target and nearby enemies.",
             "Attacks the target and nearby enemies with Moonrise Strike, dealing up to 1500 damage. Deals 40% more damage if the target is Holy.",
@@ -2834,7 +2834,7 @@ const allTranslations =
     },
     {
         "originalIndex": 295,
-        "name": "金丝儿 (Tinsel)",
+        "name": "Tinsel",
         "effects": [
             "Deals 340% damage to the target and nearby enemies.",
             "Summons an Elf Minion for each ally with 10% HP and 10% attack inherited from the caster.",
@@ -2844,7 +2844,7 @@ const allTranslations =
     },
     {
         "originalIndex": 296,
-        "name": "特烈末 (Tremor)",
+        "name": "Tremor",
         "effects": [
             "All allies recover 500 health after 3 turns. If this effect is removed before the duration ends, recovers 800 health instead.",
             "The caster deals 500 damage to all enemies after 3 turns. If this effect is removed or replaced before the duration ends, deals 800 damage instead.",
@@ -2853,7 +2853,7 @@ const allTranslations =
     },
     {
         "originalIndex": 297,
-        "name": "尤留思 (Ulius)",
+        "name": "Ulius",
         "effects": [
             "Special Skill has a different effect when charged with 100%/200% mana:",
             "1x Mana Charge:",
@@ -2867,7 +2867,21 @@ const allTranslations =
     },
     {
         "originalIndex": 298,
-        "name": "维拉 (Vela)",
+        "name": "Ulius C1",
+        "effects": [
+            "Special Skill has a different effect when charged with 100%/200% mana:",
+            "1x Mana Charge:",
+            "* Summons an Enchanted Sigil Minion for each ally with 16% HP and 25% attack inherited from the caster.",
+            "* When summoned, the Enchanted Sigil Minion gives small amount of mana for its owner for as long as the owner has Enchanted Sigil Minions. This effect can’t be dispelled.",
+            "2x Mana Charge:",
+            "* Summons a Cursed Sigil Field to all enemies. The Fiend damages its target with 120% attack every turn.",
+            "* The Cursed Sigil Fiend absorbs healing. It disappers after absorbing a healing amount equal to 70% of its target’s max health.",
+            "* The caster steals 45% of generated mana from all enemies. The effect lasts as long as the target has Cursed Sigil Fiends. This effect can't be cleansed, but it gets removed if the caster is defeated."
+        ]
+    },
+    {
+        "originalIndex": 299,
+        "name": "Vela",
         "effects": [
             "Deals 230% damage to all enemies.",
             "All enemies receive 318 Water damage over 3 turns.",
@@ -2877,8 +2891,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 299,
-        "name": "维里蒂 (Verity)",
+        "originalIndex": 300,
+        "name": "Verity",
         "effects": [
             "Deals 350% damage to the target and nearby enemies.",
             "Enhanced Defense Ailment: The target and nearby enemies get -50% defense against Special Skills. This effect lasts until the enemy takes damage from Special Skill 3 times.",
@@ -2886,8 +2900,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 300,
-        "name": "维尼克斯 (Vernix)",
+        "originalIndex": 301,
+        "name": "Vernix",
         "effects": [
             "If the enemy has the Frost status ailment:",
             "* Deals 310% damage to all enemies.",
@@ -2899,8 +2913,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 301,
-        "name": "文森特 (Vincent)",
+        "originalIndex": 302,
+        "name": "Vincent",
         "effects": [
             "If the enemy has the Frost status ailment:",
             "* All enemies get -30% defense against Ice for 5 turns.",
@@ -2911,8 +2925,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 302,
-        "name": "水贯 (Waterpipe)",
+        "originalIndex": 303,
+        "name": "Waterpipe",
         "effects": [
             "Summons a Harpoon Sentry Minion for each ally with 12% HP and 20% attack inherited from the caster.",
             "Each hit from a Harpoon Sentry Minion reduces the mana of the target by -5% and gives the target the following status ailments:",
@@ -2921,8 +2935,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 303,
-        "name": "白牙 (Whitefang)",
+        "originalIndex": 304,
+        "name": "Whitefang",
         "effects": [
             "Dispels buffs from the target.",
             "Deals 550% damage to the target.",
@@ -2930,8 +2944,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 304,
-        "name": "武松 (Wu Song)",
+        "originalIndex": 305,
+        "name": "Wu Song",
         "effects": [
             "Dispels buffs from all enemies.",
             "This Special Skill has a chance to deal Critical hits. (The chance of dealing a Critical hit is based on Hero’s overall critical chance when the damage is dealt. Critical hits caused by this Special Skill deal 50% more damage. Critical hits can reduces enemies’ max health on PVP battles. This effect is stronger against boosted health.)",
@@ -2940,8 +2954,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 305,
-        "name": "扎帕 (Zappa)",
+        "originalIndex": 306,
+        "name": "Zappa",
         "effects": [
             "Deals 350% damage to the target.",
             "Summons an Elf Minion with 10% HP and 10% attack inherited from the caster.",
@@ -2949,8 +2963,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 306,
-        "name": "曾迦 (Zengar)",
+        "originalIndex": 307,
+        "name": "Zengar",
         "effects": [
             "Deals 200% damage to the target.",
             "If the target is of Fire element, deals 450% damage to nearby enemies.",
@@ -2959,8 +2973,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 307,
-        "name": "曾迦 (Zengar) C1",
+        "originalIndex": 308,
+        "name": "Zengar C1",
         "effects": [
             "Deals 450% damage to the target.",
             "If the target is of Fire element, deals 400% damage to nearby enemies.",
@@ -2970,8 +2984,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 308,
-        "name": "锆英 (Zircon)",
+        "originalIndex": 309,
+        "name": "Zircon",
         "effects": [
             "Special Skill has a different effect when charged with 100%/200%/300% mana:",
             "1x Mana Charge:",
@@ -2989,51 +3003,51 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 309,
-        "name": "奥伊芙 (Aife)",
+        "originalIndex": 310,
+        "name": "Aife",
         "effects": [
             "Deals 275% damage to the target"
         ]
     },
     {
-        "originalIndex": 310,
-        "name": "德里克 (Derric)",
+        "originalIndex": 311,
+        "name": "Derric",
         "effects": [
             "Deals 255% damage to the target"
         ]
     },
     {
-        "originalIndex": 311,
-        "name": "布洛根 (Brogan)",
+        "originalIndex": 312,
+        "name": "Brogan",
         "effects": [
             "Deals 200% damage to the target and minor damage to nearby enemies"
         ]
     },
     {
-        "originalIndex": 312,
-        "name": "詹内 (Jenneh)",
+        "originalIndex": 313,
+        "name": "Jenneh",
         "effects": [
             "Deals 245% damage to the target"
         ]
     },
     {
-        "originalIndex": 313,
-        "name": "刺头 (Needler)",
+        "originalIndex": 314,
+        "name": "Needler",
         "effects": [
             "Deals 250% damage to the target"
         ]
     },
     {
-        "originalIndex": 314,
-        "name": "阿莱西亚 (Alessia)",
+        "originalIndex": 315,
+        "name": "Alessia",
         "effects": [
             "Deals 250% damage to the target and nearby enemies.",
             "Reduces max health of the target and nearby enemies by 204 over 3 turns. The effect is stronger against targets with boosted health. Max health can’t get lower than 30% of max health. Any boosted health is reduced by an additional 68 per turn."
         ]
     },
     {
-        "originalIndex": 315,
-        "name": "阿里 (Ali)",
+        "originalIndex": 316,
+        "name": "Ali",
         "effects": [
             "Deals 235% damage to the target.",
             "Growth Boon: Deals 1x extra damage for each point of modified attack. (Extra damage is based on the modified attack on caster, when damage is dealt. Up to maximum 300 additional extra damage. Status effects affecting damage dealt do affect the extra damage. Defense stats does not affect the extra damage. Status effect affecting attack stat do not affect the extra damage.)",
@@ -3041,24 +3055,24 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 316,
-        "name": "贝丽丝 (Belith)",
+        "originalIndex": 317,
+        "name": "Belith",
         "effects": [
             "Recovers 32% health for all allies.",
             "Dispels buffs from all enemies."
         ]
     },
     {
-        "originalIndex": 317,
-        "name": "贝丽丝 (Belith) C1",
+        "originalIndex": 318,
+        "name": "Belith C1",
         "effects": [
             "All allies regenerate 459 HP over 3 turns.",
             "All allies are immune to buff dispells for 3 turns."
         ]
     },
     {
-        "originalIndex": 318,
-        "name": "贝丽丝 (Belith) 卡通",
+        "originalIndex": 319,
+        "name": "Belith Toon",
         "effects": [
             "Recovers 35% health for all allies.",
             "All allies get +34% defense for 3 turns. For all Nature characters, this status effect becomes undispellable and lasts 2 turns longer.",
@@ -3066,8 +3080,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 319,
-        "name": "贝丽丝 (Belith) 玻璃",
+        "originalIndex": 320,
+        "name": "Belith Glass",
         "effects": [
             "Recovers 36% health for all allies.",
             "All Nature allies reflect status ailments and negative stacks for 2 turns. (Status effect cast by characters, Minions and Fiends on the same side cannot be reflected.)",
@@ -3075,24 +3089,24 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 320,
-        "name": "博尔登 (Berden)",
+        "originalIndex": 321,
+        "name": "Berden",
         "effects": [
             "Deals 325% damage to the target.",
             "The target gets -34% attack for 6 turns."
         ]
     },
     {
-        "originalIndex": 321,
-        "name": "博尔登 (Berden) C1",
+        "originalIndex": 322,
+        "name": "Berden C1",
         "effects": [
             "Deals 325% damage to the target.",
             "The target gets -34% defense for 6 turns."
         ]
     },
     {
-        "originalIndex": 322,
-        "name": "博尔登 (Berden) 卡通",
+        "originalIndex": 323,
+        "name": "Berden Toon",
         "effects": [
             "Deals 330% damage to the target.",
             "The target gets -24% attack for 6 turns.",
@@ -3100,8 +3114,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 323,
-        "name": "博尔登 (Berden) 玻璃",
+        "originalIndex": 324,
+        "name": "Berden Glass",
         "effects": [
             "Deals 340% damage to the target.",
             "The attack bypasses defensive buffs. (This includes counterattacks.)",
@@ -3109,37 +3123,37 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 324,
-        "name": "布里恩妮 (Brienne)",
+        "originalIndex": 325,
+        "name": "Brienne",
         "effects": [
             "All allies get +45% attack and a further 20% increase every time they are hit during 5 turns"
         ]
     },
     {
-        "originalIndex": 325,
-        "name": "布里恩妮 (Brienne) C1",
+        "originalIndex": 326,
+        "name": "Brienne C1",
         "effects": [
             "All enemies get -41% defense and a further -4% decrease every time they are hit for 4 turns"
         ]
     },
     {
-        "originalIndex": 326,
-        "name": "布里恩妮 (Brienne) 卡通",
+        "originalIndex": 327,
+        "name": "Brienne Toon",
         "effects": [
             "All allies get 45% attack, and a further 20% increase every time they are hit during 5 turns. For all Nature characters, this status effect becomes undispellable and lasts 2 turns longer."
         ]
     },
     {
-        "originalIndex": 327,
-        "name": "布里恩妮 (Brienne) 玻璃",
+        "originalIndex": 328,
+        "name": "Brienne Glass",
         "effects": [
             "All allies get +50% attack, and a further 20% increase every time they are hit during 5 turns.",
             "All Nature allies reflect status ailments and negative stacks for 2 turns. (Status effect cast by characters, Minions and Fiends on the same side cannot be reflected.)"
         ]
     },
     {
-        "originalIndex": 328,
-        "name": "拜伍尔夫 (By-Ulf)",
+        "originalIndex": 329,
+        "name": "By-Ulf",
         "effects": [
             "The caster and nearby allies get +48% attack for 4 turns.",
             "The caster and nearby allies get +46% defense for 4 turns.",
@@ -3152,24 +3166,24 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 329,
-        "name": "卡沃 (Carver)",
+        "originalIndex": 330,
+        "name": "Carver",
         "effects": [
             "Deals 125% damage to all enemies.",
             "Reduces the mana of all enemies by 16%."
         ]
     },
     {
-        "originalIndex": 330,
-        "name": "卡沃 (Carver) C1",
+        "originalIndex": 331,
+        "name": "Carver C1",
         "effects": [
             "Deals 125% damage to all enemies.",
             "All enemies get -24% mana generation for 3 turns. This effect can't be cleansed."
         ]
     },
     {
-        "originalIndex": 331,
-        "name": "卡沃 (Carver) 卡通",
+        "originalIndex": 332,
+        "name": "Carver Toon",
         "effects": [
             "Deals 155% damage to all enemies.",
             "Reduces the mana of all enemies by 10%.",
@@ -3177,8 +3191,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 332,
-        "name": "卡沃 (Carver) 玻璃",
+        "originalIndex": 333,
+        "name": "Carver Glass",
         "effects": [
             "Deals 165% damage to all enemies.",
             "The attack bypasses defensive buffs. (This includes counterattacks.)",
@@ -3186,16 +3200,16 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 333,
-        "name": "奇雷斯 (Chires)",
+        "originalIndex": 334,
+        "name": "Chires",
         "effects": [
             "Boosts health for the caster and nearby allies by 350. Boosted health can exceed max HP.",
             "Growth: the caster and nearby allies get 50 attack and 50 defense."
         ]
     },
     {
-        "originalIndex": 334,
-        "name": "多尔根 (Dolgoon)",
+        "originalIndex": 335,
+        "name": "Dolgoon",
         "effects": [
             "Special Skill has a different effect when charged with 100%/200% mana:",
             "1x Mana Charge:",
@@ -3207,16 +3221,16 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 335,
-        "name": "尤马基乌斯 (Eumachius)",
+        "originalIndex": 336,
+        "name": "Eumachius",
         "effects": [
             "Deals 475% damage to the enemy with the highest remaining HP.",
             "The enemy that had the highest remaining HP is marked with a Blood Lily. (A memento from the Fleur de Sang family. This effect can stack (max: 10). Each stack of the Blood Lily effect deals 4 damage to the target per turn. The Fleur de Sang characters on the opposing team gain the amount of damage dealt as health, divided equally between them. Each stack of the Blood Lily effect also increases the damage that members of the Fleur de Sang family deal to the target. The Blood Lily stacks can be avoided or removed with various effect that affect stacks.)"
         ]
     },
     {
-        "originalIndex": 336,
-        "name": "法伊兹 (Faiez)",
+        "originalIndex": 337,
+        "name": "Faiez",
         "effects": [
             "Boost health of all allies by 350. Boosted health can exceed max HP.",
             "All allies are immune to new status ailments for 4 turns.",
@@ -3224,8 +3238,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 337,
-        "name": "法伊兹 (Faiez) C1",
+        "originalIndex": 338,
+        "name": "Faiez C1",
         "effects": [
             "Boost health of all allies by 300. Boosted health can exceed max HP.",
             "All allies are immune to new status ailments for 4 turns.",
@@ -3233,23 +3247,23 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 338,
-        "name": "费瑟里诺 (Featherino)",
+        "originalIndex": 339,
+        "name": "Featherino",
         "effects": [
             "Attacks the target and nearby enemies with Moonrise Strike, dealing up to 700 damage. Deals 20% more damage if the target is of the Holy element. This Special Skill never misses its targets."
         ]
     },
     {
-        "originalIndex": 339,
-        "name": "费尔尼 (Ferni)",
+        "originalIndex": 340,
+        "name": "Ferni",
         "effects": [
             "Deals 300% Clawing damage to the target. (Deals 450% damage against enemies with any defensive buffs, Minions or Mega Minions. Enemies with any defensive buffs, Minions or Mega Minions receive -35% defense for 6 turns.)",
             "The target receives 600 Surge Bleed damage over 6 turns. (If a target already has this effect, the duration will be refreshed and the damage will be increased by 300. Max total damage 1200)"
         ]
     },
     {
-        "originalIndex": 340,
-        "name": "菲安娜 (Fianna)",
+        "originalIndex": 341,
+        "name": "Fianna",
         "effects": [
             "Deals 225% damage to the target and nearby enemies.",
             "Summons a Bone Trap Fiend for the target and nearby enemies. The Fiend damages the enemy with 45% attack each turn. The damage increases by 8% each turn, up to a maximum of 93%.",
@@ -3257,32 +3271,32 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 341,
-        "name": "塔克修士 (Friar Tuck)",
+        "originalIndex": 342,
+        "name": "Friar Tuck",
         "effects": [
             "Recovers 37% health for the caster and nearby allies.",
             "The caster and nearby allies get +24% mana generation for 3 turns."
         ]
     },
     {
-        "originalIndex": 342,
-        "name": "塔克修士 (Friar Tuck) C1",
+        "originalIndex": 343,
+        "name": "Friar Tuck C1",
         "effects": [
             "Recovers 22% health for all allies.",
             "All allies get +24% mana generation for 3 turns."
         ]
     },
     {
-        "originalIndex": 343,
-        "name": "塔克修士 (Friar Tuck) 卡通",
+        "originalIndex": 344,
+        "name": "Friar Tuck Toon",
         "effects": [
             "Recovers 40% health for the caster and nearby allies.",
             "The caster and nearby allies get +12% mana generation for 3 turns. For all Nature characters, this status effect becomes undispellable and lasts 2 turns longer."
         ]
     },
     {
-        "originalIndex": 344,
-        "name": "塔克修士 (Friar Tuck) 玻璃",
+        "originalIndex": 345,
+        "name": "Friar Tuck Glass",
         "effects": [
             "Recovers 42% health for the caster and nearby allies.",
             "The caster and nearby allies get +15% mana generation for 3 turns.",
@@ -3290,8 +3304,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 345,
-        "name": "寅将军 (General Yin)",
+        "originalIndex": 346,
+        "name": "General Yin",
         "effects": [
             "Dispels buffs from all enemies.",
             "Deals 180% damage to all enemies.",
@@ -3299,16 +3313,16 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 346,
-        "name": "诺莫尔 (Gnomer)",
+        "originalIndex": 347,
+        "name": "Gnomer",
         "effects": [
             "Deals 250% damage to the target.",
             "The target receives 94 Bleed damage over 2 turns."
         ]
     },
     {
-        "originalIndex": 347,
-        "name": "小黏糊 (Goopy)",
+        "originalIndex": 348,
+        "name": "Goopy",
         "effects": [
             "Deals 125% damage to all enemies.",
             "Deals additional 12% damage per each Nature shield on the board, up to 221% damage in total.",
@@ -3316,32 +3330,32 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 348,
-        "name": "格兰普斯 (Gramps)",
+        "originalIndex": 349,
+        "name": "Gramps",
         "effects": [
             "Each fallen ally has a 33% chance to get revived with 23% HP.",
             "All allies receive a small ammount of mana over 4 turns."
         ]
     },
     {
-        "originalIndex": 349,
-        "name": "格兰普斯 (Gramps) C1",
+        "originalIndex": 350,
+        "name": "Gramps C1",
         "effects": [
             "Each fallen ally has a 33% chance to get revived with 23% HP.",
             "All allies regenerate 324 HP over 4 turns."
         ]
     },
     {
-        "originalIndex": 350,
-        "name": "格里弗 (Grevle)",
+        "originalIndex": 351,
+        "name": "Grevle",
         "effects": [
             "Boosts health of all allies by 250. Boosted health can exceed max HP.",
             "All allies get +30% attack for 4 turns."
         ]
     },
     {
-        "originalIndex": 351,
-        "name": "阿骏 (Hisan)",
+        "originalIndex": 352,
+        "name": "Hisan",
         "effects": [
             "Deals 280% damage to the target.",
             "The target receives 104 damage over 4 turns.",
@@ -3350,39 +3364,39 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 352,
-        "name": "伊师塔克 (Isshtak)",
+        "originalIndex": 353,
+        "name": "Isshtak",
         "effects": [
             "Deals 260% damage to the target and minor damage to nearby enemies."
         ]
     },
     {
-        "originalIndex": 353,
-        "name": "伊师塔克 (Isshtak) C1",
+        "originalIndex": 354,
+        "name": "Isshtak C1",
         "effects": [
             "Deals 185% damage to the target and minor damage to nearby enemies.",
             "The target and nearby enemies get -44% defense for 4 turns."
         ]
     },
     {
-        "originalIndex": 354,
-        "name": "伊师塔克 (Isshtak) 卡通",
+        "originalIndex": 355,
+        "name": "Isshtak Toon",
         "effects": [
             "Deals 290% damage to the target and minor damage to nearby enemies.",
             "Deals extra damage against Ice."
         ]
     },
     {
-        "originalIndex": 355,
-        "name": "伊师塔克 (Isshtak) 玻璃",
+        "originalIndex": 356,
+        "name": "Isshtak Glass",
         "effects": [
             "Deals 300% damage to the target and minor damage to nearby enemies.",
             "The attack bypasses defensive buffs. (This includes counterattacks.)"
         ]
     },
     {
-        "originalIndex": 356,
-        "name": "荆 (Jing)",
+        "originalIndex": 357,
+        "name": "Jing",
         "effects": [
             "Deals 340% damage to the target.",
             "Summons a Shu Soldier Minion with 16% HP and 17% attack inherited from the caster.",
@@ -3390,8 +3404,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 357,
-        "name": "卢卡斯 (Lucas)",
+        "originalIndex": 358,
+        "name": "Lucas",
         "effects": [
             "If the caster has 35 or more Humility:",
             "* Deals 270% damage to the target and minor damage to nearby enemies.",
@@ -3401,24 +3415,24 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 358,
-        "name": "内修斯 (Mnesseus)",
+        "originalIndex": 359,
+        "name": "Mnesseus",
         "effects": [
             "Deals 320% damage to the target.",
             "Dispels buffs from all enemies."
         ]
     },
     {
-        "originalIndex": 359,
-        "name": "内修斯 (Mnesseus) C1",
+        "originalIndex": 360,
+        "name": "Mnesseus C1",
         "effects": [
             "Deals 320% damage to the target.",
             "Cleanses status ailments from all allies."
         ]
     },
     {
-        "originalIndex": 360,
-        "name": "麻吉 (Muggy)",
+        "originalIndex": 361,
+        "name": "Muggy",
         "effects": [
             "All allies become Bruiser Bros for 4 turns. If an ally is defeated while being a Bruiser Bro they will be reborn as a Chameleon with:",
             "* 66% health.",
@@ -3429,16 +3443,16 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 361,
-        "name": "内特尔泰尔 (Nettletail)",
+        "originalIndex": 362,
+        "name": "Nettletail",
         "effects": [
             "Boosts health of all allies by 275. Boosted health can exceed max HP.",
             "All allies get lasting +25% defense. (This effect lasts until it is dispelled, replaced or removed.)"
         ]
     },
     {
-        "originalIndex": 362,
-        "name": "诺里尔 (Noril)",
+        "originalIndex": 363,
+        "name": "Noril",
         "effects": [
             "Deals 240% damage to the target.",
             "Deals 390% damage to a random different enemy. Deals extra damage if the target is ice.",
@@ -3447,8 +3461,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 363,
-        "name": "洛茜娅 (Roxia)",
+        "originalIndex": 364,
+        "name": "Roxia",
         "effects": [
             "Special Skill has a different effect when charged with 100%/200% mana:",
             "1x Mana Charge:",
@@ -3460,8 +3474,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 364,
-        "name": "灌木熊 (Shrubbear)",
+        "originalIndex": 365,
+        "name": "Shrubbear",
         "effects": [
             "The caster gets Taunt that prevents enemies from using Special Skills on the caster's allies for 4 turns",
             "The caster gets +63% defense for 4 turns",
@@ -3469,16 +3483,16 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 365,
-        "name": "哈克 (Whacker)",
+        "originalIndex": 366,
+        "name": "Whacker",
         "effects": [
             "Deals 315% damage to the target.",
             "The enemy with the highest base attack gets -54% attack for 3 turns."
         ]
     },
     {
-        "originalIndex": 366,
-        "name": "威廉 (William)",
+        "originalIndex": 367,
+        "name": "William",
         "effects": [
             "Deals 210% damage to the target and nearby enemies.",
             "The caster and nearby allies get +36% defense for 3 turns.",
@@ -3486,8 +3500,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 367,
-        "name": "尤娜 (Yona)",
+        "originalIndex": 368,
+        "name": "Yona",
         "effects": [
             "Draw a card for a special effect:",
             "Gentle Paw",
@@ -3499,8 +3513,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 368,
-        "name": "扎丽尔 (Zarel)",
+        "originalIndex": 369,
+        "name": "Zarel",
         "effects": [
             "Deals 260% damage to all enemies.",
             "All enemies get -34% attack for 5 turns.",
@@ -3508,16 +3522,16 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 369,
-        "name": "查罗拉 (Zarola)",
+        "originalIndex": 370,
+        "name": "Zarola",
         "effects": [
             "Deals 200% damage to the target and nearby enemies.",
             "The less mana the enemies have, the more damage they will receive, up to 300%."
         ]
     },
     {
-        "originalIndex": 370,
-        "name": "阿尔翡 (Alfie)",
+        "originalIndex": 371,
+        "name": "Alfie",
         "effects": [
             "Deals 200% damage to all enemies.",
             "All Ice enemies get -30% accuracy for 4 turns. Chance to miss apllies to  offensive Special Skills.",
@@ -3527,8 +3541,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 371,
-        "name": "阿穆尔 (Almur)",
+        "originalIndex": 372,
+        "name": "Almur",
         "effects": [
             "Deals 150% damage to the target and nearby enemies.",
             "Reduces max health from the target and nearby enemies by 75. The effect is stronger against targets with boosted health. Max health can't get lower than 30% of the original max health. Any boosted health is reduced by an additional 75.",
@@ -3536,8 +3550,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 372,
-        "name": "阿穆尔 (Almur) C1",
+        "originalIndex": 373,
+        "name": "Almur C1",
         "effects": [
             "Deals 290% damage to the target.",
             "Reduces the mana of teh target by 20%.",
@@ -3545,8 +3559,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 373,
-        "name": "安东 (Anton)",
+        "originalIndex": 374,
+        "name": "Anton",
         "effects": [
             "Special Skill has a different effect when charged with 100%/200% mana:",
             "1x Mana Charge:",
@@ -3558,8 +3572,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 374,
-        "name": "布隆特斯 (Brontes)",
+        "originalIndex": 375,
+        "name": "Brontes",
         "effects": [
             "Special Skill has a different effect when charged with 100% / 200% / 300% mana:",
             "1x Mana Charge:",
@@ -3575,8 +3589,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 375,
-        "name": "布琳希尔德 (Brynhild)",
+        "originalIndex": 376,
+        "name": "Brynhild",
         "effects": [
             "Recovers 37% health for the caster and nearby allies.",
             "The caster and nearby allies are immune to buff dispels for 3 turns.",
@@ -3585,8 +3599,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 376,
-        "name": "巴迪 (Buddy)",
+        "originalIndex": 377,
+        "name": "Buddy",
         "effects": [
             "Deals 205% damage to the target and nearby enemies.",
             "Summons an Elf Minion for the caster and nearby allies with 10% HP and 10% attack inherited from the caster.",
@@ -3595,24 +3609,24 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 377,
-        "name": "凯德蒙 (Caedmon)",
+        "originalIndex": 378,
+        "name": "Caedmon",
         "effects": [
             "Deals 345% damage to the target.",
             "Dispels buffs from all enemies."
         ]
     },
     {
-        "originalIndex": 378,
-        "name": "凯德蒙 (Caedmon) C1",
+        "originalIndex": 379,
+        "name": "Caedmon C1",
         "effects": [
             "Deals 345% damage to the target.",
             "Cleanses status ailments from all allies."
         ]
     },
     {
-        "originalIndex": 379,
-        "name": "凯德蒙 (Caedmon) C2",
+        "originalIndex": 380,
+        "name": "Caedmon C2",
         "effects": [
             "Deals 275% damage to the target and nearby enemies.",
             "The target and nearby enemies are immune to new status effect buffs for 3 turns.",
@@ -3620,8 +3634,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 380,
-        "name": "凯德蒙 (Caedmon) 卡通",
+        "originalIndex": 381,
+        "name": "Caedmon Toon",
         "effects": [
             "Deals 350% damage to the target.",
             "Deals extra damage against Ice.",
@@ -3629,8 +3643,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 381,
-        "name": "凯德蒙 (Caedmon) 玻璃",
+        "originalIndex": 382,
+        "name": "Caedmon Glass",
         "effects": [
             "Deals 360% damage to the target.",
             "The attack bypasses defensive buffs. (This includes counterattacks.)",
@@ -3639,8 +3653,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 382,
-        "name": "弗朗茨 (Franz)",
+        "originalIndex": 383,
+        "name": "Franz",
         "effects": [
             "Deals 215% damage to all enemies.",
             "All damage all enemies receive is increased by +50% for 6 turns.",
@@ -3648,16 +3662,16 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 383,
-        "name": "弗鲁提奥 (Fruitio)",
+        "originalIndex": 384,
+        "name": "Fruitio",
         "effects": [
             "Deals 380% damage to tha target.",
             "After 1 turn the target gets Paralyzed for 4 turns. (Paralyzed enemies can’t attack or gain man and receive +50% increased damage. Once Paralyzed, the effect can’t be cleansed. Bosses, Titans and Mythic Titans are not affected by this status effect.)"
         ]
     },
     {
-        "originalIndex": 384,
-        "name": "嘉德利亚斯 (Gadeirus)",
+        "originalIndex": 385,
+        "name": "Gadeirus",
         "effects": [
             "Deals 165% damage to the target and minor damage to nearby enemies.",
             "The caster and nearby allies get +48% attack for 4 turns.",
@@ -3665,8 +3679,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 385,
-        "name": "嘉德利亚斯 (Gadeirus) C1",
+        "originalIndex": 386,
+        "name": "Gadeirus C1",
         "effects": [
             "Deals 130% damage to all enemies.",
             "All allies get +48% attack for 4 turns.",
@@ -3674,8 +3688,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 386,
-        "name": "戈布勒 (Gobbler)",
+        "originalIndex": 387,
+        "name": "Gobbler",
         "effects": [
             "Destroys all Minions from all enemies and damages all Mega Minions.",
             "Deals 170% damage to all enemies.",
@@ -3683,8 +3697,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 387,
-        "name": "戈布勒 (Gobbler) C1",
+        "originalIndex": 388,
+        "name": "Gobbler C1",
         "effects": [
             "Steals Minions from the target.",
             "Deals 310% damage to the target.",
@@ -3692,8 +3706,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 388,
-        "name": "韩塞尔 (Hansel)",
+        "originalIndex": 389,
+        "name": "Hansel",
         "effects": [
             "Deals 255% damage to the target",
             "Automatically does 146 damage to the target and consumes 50% mana from the  target when the target’s mana is full for 3 turns.",
@@ -3701,8 +3715,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 389,
-        "name": "韩塞尔 (Hansel) C1",
+        "originalIndex": 390,
+        "name": "Hansel C1",
         "effects": [
             "Deals 209% damage to the target.",
             "Automatically does 341 damage to the target and consumes 50% mana from  the target when the target’s mana is full for 3 turns.",
@@ -3710,16 +3724,16 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 390,
-        "name": "杰克·奥黑尔 (Jack O'Hare)",
+        "originalIndex": 391,
+        "name": "Jack O'Hare",
         "effects": [
             "Deal 180% damage to all enemies",
             "The caster gets -20% defense for 3 turns. This effect can't be cleansed"
         ]
     },
     {
-        "originalIndex": 391,
-        "name": "杰克·奥黑尔 (Jack O'Hare) C1",
+        "originalIndex": 392,
+        "name": "Jack O'Hare C1",
         "effects": [
             "Deals 230% damage to the target.",
             "The attack chains through all enemies who are adjacent to any hit enemy.",
@@ -3727,16 +3741,16 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 392,
-        "name": "乔伊沃特 (Joyvert)",
+        "originalIndex": 393,
+        "name": "Joyvert",
         "effects": [
             "Deals 350% damage to the target.",
             "The target falls into Deep Sleep and receives +80% increased damage while in Deep Sleep. (The character in Deep Sleep cannot gain mana or attack. The character in Deep Sleep is woken once it takes 750 damage. This effect is uncleasable.)"
         ]
     },
     {
-        "originalIndex": 393,
-        "name": "卡勒 (Kalo)",
+        "originalIndex": 394,
+        "name": "Kalo",
         "effects": [
             "Deals 70% damage to all enemies.",
             "If no allies have fallen, deals twice the amount of damage to all enemies.",
@@ -3745,40 +3759,40 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 394,
-        "name": "喀什雷克 (Kashhrek)",
+        "originalIndex": 395,
+        "name": "Kashhrek",
         "effects": [
             "Recovers 45% health for the caster and nearby allies.",
             "The caster and nearby allies get +94% defense against Fire for 3 turns."
         ]
     },
     {
-        "originalIndex": 395,
-        "name": "喀什雷克 (Kashhrek) C1",
+        "originalIndex": 396,
+        "name": "Kashhrek C1",
         "effects": [
             "Boosts health of the caster and nearby allies by 450. Bosted health can exceed max HP.",
             "The caster and nearby allies get +64% defense against Fire for 3 turns."
         ]
     },
     {
-        "originalIndex": 396,
-        "name": "喀什雷克 (Kashhrek) C2",
+        "originalIndex": 397,
+        "name": "Kashhrek C2",
         "effects": [
             "The caster and nearby allies regenerate 459 HP over 3 turns.",
             "The caster and nearby allies get +54% defense against Special Skills for 3 turns."
         ]
     },
     {
-        "originalIndex": 397,
-        "name": "喀什雷克 (Kashhrek) 卡通",
+        "originalIndex": 398,
+        "name": "Kashhrek Toon",
         "effects": [
             "Recovers 48% health for the caster and nearby allies.",
             "The caster and nearby allies get +84% defense against Fire for 3 turns. For all Nature characters, this status effect becomes undispellable and lasts 2 turns longer."
         ]
     },
     {
-        "originalIndex": 398,
-        "name": "喀什雷克 (Kashhrek) 玻璃",
+        "originalIndex": 399,
+        "name": "Kashhrek Glass",
         "effects": [
             "Recovers 49% health for the caster and nearby allies.",
             "All Nature allies reflect status ailments and negative stacks for 2 turns. (Status effect cast by characters, Minions and Fiends on the same side cannot be reflected.)",
@@ -3786,8 +3800,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 399,
-        "name": "星纱 (Lionstring)",
+        "originalIndex": 400,
+        "name": "Lionstring",
         "effects": [
             "This Special Skill never misses its targets.",
             "Deal 245% damage to the target and minor damage to nearby enemies.",
@@ -3796,32 +3810,32 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 400,
-        "name": "小约翰 (Little John)",
+        "originalIndex": 401,
+        "name": "Little John",
         "effects": [
             "Deals 185% damage to all enemies.",
             "All enemies get -64% mana generation for 3 turns."
         ]
     },
     {
-        "originalIndex": 401,
-        "name": "小约翰 (Little John) C1",
+        "originalIndex": 402,
+        "name": "Little John C1",
         "effects": [
             "Deals 185% damage to all enemies",
             "The caster and nearby allies have from +30% to +70% chance of dodging special attacks that do damage.  The higher the damage from the special is, the higher the chance to dodge it. Each dodge gives +24% mana to the target. The effect lasts for 4 turns."
         ]
     },
     {
-        "originalIndex": 402,
-        "name": "小约翰 (Little John) C2",
+        "originalIndex": 403,
+        "name": "Little John C2",
         "effects": [
             "Deals 185% damage to all enemies.",
             "All allies get +33% mana generation for 3 turns."
         ]
     },
     {
-        "originalIndex": 403,
-        "name": "小约翰 (Little John) 卡通",
+        "originalIndex": 404,
+        "name": "Little John Toon",
         "effects": [
             "Deals 215% damage to all enemies.",
             "All enemies get -54% mana generation for 3 turns.",
@@ -3829,8 +3843,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 404,
-        "name": "小约翰 (Little John) 玻璃",
+        "originalIndex": 405,
+        "name": "Little John Glass",
         "effects": [
             "Deals 225% damage to all enemies.",
             "The attack bypasses defensive buffs. (This includes counterattacks.)",
@@ -3838,8 +3852,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 405,
-        "name": "马塞尔 (Marcel)",
+        "originalIndex": 406,
+        "name": "Marcel",
         "effects": [
             "Deals 300% damage to the target and nearby enemies.",
             "All allies with a cleansable status ailment that affects attack get +50% attack for 3 turns.",
@@ -3847,16 +3861,16 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 406,
-        "name": "米兰朵 (Melendor)",
+        "originalIndex": 407,
+        "name": "Melendor",
         "effects": [
             "Recovers 42% health for all allies",
             "Dispels buffs from all enemies"
         ]
     },
     {
-        "originalIndex": 407,
-        "name": "米兰朵 (Melendor) C1",
+        "originalIndex": 408,
+        "name": "Melendor C1",
         "effects": [
             "All allies regenerate 609 HP over 3 turns",
             "All allies get +46% defense for 3 turns",
@@ -3864,8 +3878,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 408,
-        "name": "米兰朵 (Melendor) C2",
+        "originalIndex": 409,
+        "name": "Melendor C2",
         "effects": [
             "All allies regenerate 609 HP over 3 turns.",
             "All allies get +50% attack for 3 turns.",
@@ -3873,8 +3887,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 409,
-        "name": "米兰朵 (Melendor) 卡通",
+        "originalIndex": 410,
+        "name": "Melendor Toon",
         "effects": [
             "Recovers 45% health for all allies.",
             "All allies get 34% defense for 3 turns. For all Nature characters, this status effect becomes undispellable and lasts 2 turns longer.",
@@ -3882,8 +3896,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 410,
-        "name": "米兰朵 (Melendor) 玻璃",
+        "originalIndex": 411,
+        "name": "Melendor Glass",
         "effects": [
             "Recovers 46% health for all allies.",
             "All Nature allies reflect status ailments and negative stacks for 2 turns. (Status effect cast by characters, Minions and Fiends on the same side cannot be reflected.)",
@@ -3891,8 +3905,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 411,
-        "name": "蔑里基 (Mielikki)",
+        "originalIndex": 412,
+        "name": "Mielikki",
         "effects": [
             "Summons a Sprite of the Forest Minion for all allies with 15% HP and 10% attack inherited from the caster.",
             "The Sprite of the Forest Minion gives +20% mana generation for its owner for as long as the owner has the Sprite of the Forest Minions. This effect can't be dispelled.",
@@ -3900,8 +3914,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 412,
-        "name": "蔑里基 (Mielikki) C1",
+        "originalIndex": 413,
+        "name": "Mielikki C1",
         "effects": [
             "Summons a Sprite of the Forest Minion for all allies with 18% HP  and 8% attack inherited from the caster.",
             "When summoned, the Sprite of the Forest Minion gives +24% mana generation for its owner for as long as the owner has Sprite of the Forest Minions.  This effect can’t be dispelled.",
@@ -3909,8 +3923,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 413,
-        "name": "木果 (Mulgog)",
+        "originalIndex": 414,
+        "name": "Mulgog",
         "effects": [
             "Special Skill need consecutive uses to reach full power, the following order:",
             "1st:",
@@ -3923,8 +3937,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 414,
-        "name": "木果 (Mulgog) C1",
+        "originalIndex": 415,
+        "name": "Mulgog C1",
         "effects": [
             "Special Skill need consecutive uses to reach full power, the following order:",
             "1st:",
@@ -3937,8 +3951,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 415,
-        "name": "米尔特 (Myrtle)",
+        "originalIndex": 416,
+        "name": "Myrtle",
         "effects": [
             "Deals 280% damage to the target and minor damage to nearby enemies.",
             "Enhanced Defense Ailment: The target and nearby enemies get -40% defense against Special Skills. This effect lasts until the enemy takes damage from a Special Skill once.",
@@ -3946,8 +3960,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 416,
-        "name": "僵骨 (Numbskull)",
+        "originalIndex": 417,
+        "name": "Numbskull",
         "effects": [
             "Deals 150% damage to all enemies.",
             "Summons a Bone Skull Minion for each ally with 12% HP and 20% attack  inherited from the caster.",
@@ -3955,8 +3969,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 417,
-        "name": "奥拉 (Orla)",
+        "originalIndex": 418,
+        "name": "Orla",
         "effects": [
             "Deals 230% damage to the target.",
             "Deals 450% damage if the target has less than 50% health remaining.",
@@ -3966,16 +3980,16 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 418,
-        "name": "皮特斯 (Peters)",
+        "originalIndex": 419,
+        "name": "Peters",
         "effects": [
             "Deals 320% damage to the target",
             "The target gets silenced for 3 turns"
         ]
     },
     {
-        "originalIndex": 419,
-        "name": "皮特斯 (Peters) C1",
+        "originalIndex": 420,
+        "name": "Peters C1",
         "effects": [
             "Deals 320% damage to the target.",
             "The target gets silenced for 3 turns.",
@@ -3983,24 +3997,24 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 420,
-        "name": "托勒密 (Ptolemy)",
+        "originalIndex": 421,
+        "name": "Ptolemy",
         "effects": [
             "Recovers 30% health for all allies.",
             "The caster and nearby allies are immune to new status ailments for 3 turns, and recover 175 health for each attempted status ailments."
         ]
     },
     {
-        "originalIndex": 421,
-        "name": "托勒密 (Ptolemy) C1",
+        "originalIndex": 422,
+        "name": "Ptolemy C1",
         "effects": [
             "Recovers 35% health for all allies.",
             "The caster and nearby allies are immune to new status ailments for 3 turns, and recover 100 health for each attempted status ailment."
         ]
     },
     {
-        "originalIndex": 422,
-        "name": "劳利 (Raleigh)",
+        "originalIndex": 423,
+        "name": "Raleigh",
         "effects": [
             "Boosts health of all allies by 500. Boosted health can exceed max HP.",
             "All allies get +30% attack for 5 turns. The attack increases by 5% each  turn up to 50%.",
@@ -4008,32 +4022,32 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 423,
-        "name": "柱子骨骼 (Skittleskull)",
+        "originalIndex": 424,
+        "name": "Skittleskull",
         "effects": [
             "Deals 185% damage to all enemies",
             "All enemies get -34% attack for 6 turns"
         ]
     },
     {
-        "originalIndex": 424,
-        "name": "柱子骨骼 (Skittleskull) C1",
+        "originalIndex": 425,
+        "name": "Skittleskull C1",
         "effects": [
             "Deals 175% damage to all enemies",
             "All enemies get -39% attack for 6 turns"
         ]
     },
     {
-        "originalIndex": 425,
-        "name": "柱子骨骼 (Skittleskull) C2",
+        "originalIndex": 426,
+        "name": "Skittleskull C2",
         "effects": [
             "Deals 195% damage to all enemies.",
             "All enemies get -34% defense for 6 turns."
         ]
     },
     {
-        "originalIndex": 426,
-        "name": "柱子骨骼 (Skittleskull) 卡通",
+        "originalIndex": 427,
+        "name": "Skittleskull Toon",
         "effects": [
             "Deals 215% damage to all enemies.",
             "All enemies get -24% attack for 6 turns.",
@@ -4041,8 +4055,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 427,
-        "name": "柱子骨骼 (Skittleskull) 玻璃",
+        "originalIndex": 428,
+        "name": "Skittleskull Glass",
         "effects": [
             "Deals 225% damage to all enemies.",
             "The attack bypasses defensive buffs. (This includes counterattacks.)",
@@ -4050,8 +4064,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 428,
-        "name": "斯诺里 (Snorri)",
+        "originalIndex": 429,
+        "name": "Snorri",
         "effects": [
             "Attacks the target with Frostfall Strike, dealing up to 1020 damage. Deals 30% more if the target is of the Fire element. This Special Skill never misses its targets.",
             "The target get Soul Bound for 3 turns. This effect can’t be cleansed. (This effect will always bypass reflection.)",
@@ -4059,8 +4073,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 429,
-        "name": "特图克 (Tettukh)",
+        "originalIndex": 430,
+        "name": "Tettukh",
         "effects": [
             "Deals 320% damage to the target",
             "The target gets silenced for 4 turns",
@@ -4068,8 +4082,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 430,
-        "name": "特图克 (Tettukh) C1",
+        "originalIndex": 431,
+        "name": "Tettukh C1",
         "effects": [
             "Deals 280% damage to the target.",
             "The target gets silence for 4 turns.",
@@ -4077,8 +4091,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 431,
-        "name": "维利尔斯 (Villiers)",
+        "originalIndex": 432,
+        "name": "Villiers",
         "effects": [
             "Deals 165% damage to the target and nearby enemies.",
             "Summon a Spy Fiend for the target and nearby enemies. The Fiend damages the enemy with 45% attack every turn.",
@@ -4088,8 +4102,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 432,
-        "name": "维利尔斯 (Villiers) C1",
+        "originalIndex": 433,
+        "name": "Villiers C1",
         "effects": [
             "Deals 200% damage to the target and nearby enemies.",
             "Summons a Spy Fiend for the target and nearby enemies. The Fiend damages the enemy with 45% attack every turn.",
@@ -4099,8 +4113,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 433,
-        "name": "雷恩 (Wren)",
+        "originalIndex": 434,
+        "name": "Wren",
         "effects": [
             "Deals 240% damage to the target.",
             "If the target has buffs and is hit, targets another enemy with buffs. If none of the other enemies have buffs, targets a random enemy. The damage is reduced on each consecutive hit. Each enemy can only be hit once.",
@@ -4108,24 +4122,24 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 434,
-        "name": "雅赫摩斯 (Ahmose)",
+        "originalIndex": 435,
+        "name": "Ahmose",
         "effects": [
             "Deals 400% damage to all enemies.",
             "All allies reflect all status effects and 150% damage back to the attacker and block other negative effects from enemies’ Fire Special Skill for 4 turns. This effect can’t be dispelled. (Status effects cast by characters, Minions and Fiends on the same side cannot be reflected.)"
         ]
     },
     {
-        "originalIndex": 435,
-        "name": "雅赫摩斯 (Ahmose) C1",
+        "originalIndex": 436,
+        "name": "Ahmose C1",
         "effects": [
             "Deals 410% damage to all enemies.",
             "All allies reflect all status effects and 160% damage back to the attacker and block other negative effects from enemies’ Fire Special Skill for 3 turns. This effect can’t be dispelled. (Status effects cast by characters, Minions and Fiends on the same side cannot be reflected.)"
         ]
     },
     {
-        "originalIndex": 436,
-        "name": "阿尔贝里希 (Alberich)",
+        "originalIndex": 437,
+        "name": "Alberich",
         "effects": [
             "Each fallen ally has a 33% chance to get revived with 23% HP.",
             "All allies regenerate 712 HP over 4 turns.",
@@ -4134,8 +4148,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 437,
-        "name": "阿尔贝里希 (Alberich) C1",
+        "originalIndex": 438,
+        "name": "Alberich C1",
         "effects": [
             "Each fallen ally has a 38% chance to get revived with 28% HP.",
             "All allies regenerate 648 HP over 4 turns.",
@@ -4144,8 +4158,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 438,
-        "name": "阿奇巴尔德 (Archibald)",
+        "originalIndex": 439,
+        "name": "Archibald",
         "effects": [
             "Deals 300% damage to all enemies.",
             "Damage bypasses target’s Minions.",
@@ -4155,8 +4169,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 439,
-        "name": "亚奇 (Archie)",
+        "originalIndex": 440,
+        "name": "Archie",
         "effects": [
             "Deal 250% damage to all enemies.",
             "All enemies are immune to new status effect buffs for 4 turns, and receive 150 damage for each attempted buff.",
@@ -4164,8 +4178,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 440,
-        "name": "亚奇 (Archie) C1",
+        "originalIndex": 441,
+        "name": "Archie C1",
         "effects": [
             "Deals 240% damage to all enemies.",
             "All enemies are immune to new status effect buffs for 4 turns, and receive 300 damage for each attempted buff.",
@@ -4173,8 +4187,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 441,
-        "name": "阿尔科 (Arco)",
+        "originalIndex": 442,
+        "name": "Arco",
         "effects": [
             "Replaces all Fiends on all allies with Gargoyle Minions.",
             "Summons a Gargoyle Minion for each ally. The Gargoyle Minion inherits 30% HP and 20% attack for the caster.",
@@ -4182,8 +4196,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 442,
-        "name": "阿曼德·孟夏曼 (Armand Moncharmin)",
+        "originalIndex": 443,
+        "name": "Armand Moncharmin",
         "effects": [
             "Deals 300% damage to all enemies.",
             "Summons a Bodyguard Mega Minion with 50% HP and 250% attack inherited from the caster.",
@@ -4191,8 +4205,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 443,
-        "name": "进阶拟态兽 (Ascension Mimic) Nature",
+        "originalIndex": 444,
+        "name": "Ascension Mimic Nature",
         "effects": [
             "Deals 380% damage to the target and nearby enemies.",
             "If an enemy is defeated by the attack, the caster recovers +50% health and gains +33% mana.",
@@ -4201,8 +4215,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 444,
-        "name": "阿多斯 (Athos)",
+        "originalIndex": 445,
+        "name": "Athos",
         "effects": [
             "Destroys all Minions from the target.",
             "Deals 470% damage to the target.",
@@ -4212,8 +4226,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 445,
-        "name": "阿多莫斯 (Atomos)",
+        "originalIndex": 446,
+        "name": "Atomos",
         "effects": [
             "Deals 170% damage to all enemies.",
             "The more mana the enemies have, the more damage they will receive, up to 290%.",
@@ -4221,8 +4235,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 446,
-        "name": "阿多莫斯 (Atomos) C1",
+        "originalIndex": 447,
+        "name": "Atomos C1",
         "effects": [
             "Deals 160% damage to all enemies.",
             "The less mana the enemies have, the more damage they will receive, up to 310%.",
@@ -4230,8 +4244,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 447,
-        "name": "阿特伍德 (Atwood)",
+        "originalIndex": 448,
+        "name": "Atwood",
         "effects": [
             "Dispels buffs from the target and nearby enemies.",
             "Deals 380% damage to the target and nearby enemies and inflicts 45 Insanity on them.",
@@ -4240,8 +4254,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 448,
-        "name": "奥古斯都 (Augustus)",
+        "originalIndex": 449,
+        "name": "Augustus",
         "effects": [
             "Cleanses status ailments from all allies.",
             "Boosts health for all allies by 690. Boosted health can exceed max HP.",
@@ -4251,8 +4265,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 449,
-        "name": "巴尔巴 (Balbar)",
+        "originalIndex": 450,
+        "name": "Balbar",
         "effects": [
             "Deals 350% damage to the target.",
             "The target falls asleep.",
@@ -4263,8 +4277,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 450,
-        "name": "贝蒂拉 (Bertila)",
+        "originalIndex": 451,
+        "name": "Bertila",
         "effects": [
             "Deals 370% damage to all enemies.",
             "Lifts all cleansable status ailments that affect attack or defense from all allies and randomly distributes them on enemies.",
@@ -4272,8 +4286,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 451,
-        "name": "博与朗特 (Bo & Runt)",
+        "originalIndex": 452,
+        "name": "Bo & Runt",
         "effects": [
             "Deals 450% damage to the target.",
             "Deals additional 25% damage for each Minion owned by the allies, up to 650% damage in total.",
@@ -4283,8 +4297,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 452,
-        "name": "邦加 (Bonga)",
+        "originalIndex": 453,
+        "name": "Bonga",
         "effects": [
             "Deals 415% damage to all enemies.",
             "Growth Boon: Deals 2x extra damage for each point of modified attack. (Extra damage is based on the modified attack on caster, when damage is dealt. Up to maximum 800 additional extra damage. Status effects affecting damage dealt do affect the extra damage. Defense stats does not affect the extra damage. Status effect affecting attack stat do not affect the extra damage.)",
@@ -4293,8 +4307,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 453,
-        "name": "邦佐 (Bonzo)",
+        "originalIndex": 454,
+        "name": "Bonzo",
         "effects": [
             "Rearranges the enemy positions randomly.",
             "Deals 250% damage to all enemies.",
@@ -4303,16 +4317,16 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 454,
-        "name": "哼哼和尖牙 (Boom & Fang)",
+        "originalIndex": 455,
+        "name": "Boom & Fang",
         "effects": [
             "Summons a White Boar Mega Minion with 65% HP and 250% attack inherited from the caster.",
             "When summoned the White Boar Mega Minion gives its owner the ability to counterattack with 100% of the received damage as long as the owner has a White Boar Mega Minion. This effect can’t be dispelled."
         ]
     },
     {
-        "originalIndex": 455,
-        "name": "布兰博 (Bramble)",
+        "originalIndex": 456,
+        "name": "Bramble",
         "effects": [
             "Recovers 50% health for all allies.",
             "All allies gain 25% mana after 3 turns or immediately if the effect is removed before the duration ends.",
@@ -4320,8 +4334,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 456,
-        "name": "巴尔克卢格 (Bulklug)",
+        "originalIndex": 457,
+        "name": "Bulklug",
         "effects": [
             "Deals 405% damage to target and nearby enemies.",
             "The caster and the nearby allies reflects all status ailments and 160% damage back to the attacker and block other negative effects from enemies' Fire Special Skills for 4 turns. This effect can't be dispelled. (Status effects cast by characters, Minions and Fiends on the same side cannot be reflected.)",
@@ -4330,8 +4344,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 457,
-        "name": "知贺雄 (Chikao)",
+        "originalIndex": 458,
+        "name": "Chikao",
         "effects": [
             "1x Mana Charge",
             "* Dispels buffs from the enemies on the edges of the enemy formation.",
@@ -4348,8 +4362,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 458,
-        "name": "克洛丽丝 (Chloris)",
+        "originalIndex": 459,
+        "name": "Chloris",
         "effects": [
             "Boosts health for all allies by 650. Boosted health can exceed max HP.",
             "All allies regenerate 400 Bosted health over 4 turns. Boosted health can exceed max HP.",
@@ -4358,8 +4372,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 459,
-        "name": "西尼希雅 (Cinisia)",
+        "originalIndex": 460,
+        "name": "Cinisia",
         "effects": [
             "Deals 300% damage to all enemies.",
             "All enemies get -70% decrease of any healing received for 3 turns.",
@@ -4368,24 +4382,24 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 460,
-        "name": "康伽拉赫 (Congalach)",
+        "originalIndex": 461,
+        "name": "Congalach",
         "effects": [
             "Deals 310% damage to 5 random enemies.",
             "Stack (Max: 10): Each hit gives its target -9% attack."
         ]
     },
     {
-        "originalIndex": 461,
-        "name": "康伽拉赫 (Congalach) C1",
+        "originalIndex": 462,
+        "name": "Congalach C1",
         "effects": [
             "Deals 325% damage to 5 random enemies.",
             "Stack (Max: 10): Each hit gives its target -8% attack."
         ]
     },
     {
-        "originalIndex": 462,
-        "name": "克拉姆 (Craum)",
+        "originalIndex": 463,
+        "name": "Craum",
         "effects": [
             "Recovers 800 boosted health for all allies.",
             "Recovers additional 50 boosted heath for each Nature shield, up to 1400.",
@@ -4396,8 +4410,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 463,
-        "name": "克里斯托巴尔 (Cristobal)",
+        "originalIndex": 464,
+        "name": "Cristobal",
         "effects": [
             "Special Skill has a different effect when charged with 100%/200% mana:",
             "1x Mana Charge:",
@@ -4409,8 +4423,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 464,
-        "name": "克里斯托巴尔 (Cristobal) C1",
+        "originalIndex": 465,
+        "name": "Cristobal C1",
         "effects": [
             "Special Skill has a different effect when charged with 100%/200% mana:",
             "1x Mana Charge:",
@@ -4422,8 +4436,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 465,
-        "name": "达格 (Dagr)",
+        "originalIndex": 466,
+        "name": "Dagr",
         "effects": [
             "Attacks all enemies with Firestorm Strike, dealing up to 1500 damage. Deals 40% more if the target is of the Nature element. This Special Skill never misses its targets.",
             "Damage bypasses target’s Minions.",
@@ -4432,8 +4446,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 466,
-        "name": "达洛加 (Daroga)",
+        "originalIndex": 467,
+        "name": "Daroga",
         "effects": [
             "Deals 535% damage to the target.",
             "The targets receives 1245 Bleeding damage over 3 turns. This effect spreads to nearby enemies.",
@@ -4441,8 +4455,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 467,
-        "name": "德斯蒙德 (Desmond)",
+        "originalIndex": 468,
+        "name": "Desmond",
         "effects": [
             "Deals 480% damage to the enemies of the edges of the enemy formation. If there is only one enemy alive, the damage is doubled.",
             "Boosts the caster’s and nearby allies’ health by 20% of the damage dealt.",
@@ -4451,8 +4465,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 468,
-        "name": "多戈洛姆 (Dodgrom)",
+        "originalIndex": 469,
+        "name": "Dodgrom",
         "effects": [
             "The caster gets Taunt that prevents enemies from using Special Skills on the caster’s allies for 4 turns.",
             "The caster counterattacks a random enemy with 80% of the damage received for 4 turns.",
@@ -4460,16 +4474,16 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 469,
-        "name": "艾格齐乌 (Ecgtheow)",
+        "originalIndex": 470,
+        "name": "Ecgtheow",
         "effects": [
             "Deals 500% damage to the enemy with the highest remaining HP. Deals 300% damage to all other enemies.",
             "Reduces the mana of the enemy with the most mana by 50%. Reduces the mana of all other enemies by 30%."
         ]
     },
     {
-        "originalIndex": 470,
-        "name": "艾德文 (Edwin)",
+        "originalIndex": 471,
+        "name": "Edwin",
         "effects": [
             "Deals 250% damage to all enemies.",
             "The attack bypasses defensive buffs. This includes counterattacks.",
@@ -4477,8 +4491,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 471,
-        "name": "艾德文 (Edwin) C1",
+        "originalIndex": 472,
+        "name": "Edwin C1",
         "effects": [
             "Deals 265% damage to all enemies.",
             "The attack bypasses defensive buffs. (This includes counterattacks.)",
@@ -4487,8 +4501,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 472,
-        "name": "埃奥拉与毛毛 (Eiora & Fluffy)",
+        "originalIndex": 473,
+        "name": "Eiora & Fluffy",
         "effects": [
             "Destroys all minions from the target. This effect damages Mega Minions.",
             "Deals 600% damage to the target.",
@@ -4496,8 +4510,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 473,
-        "name": "埃奥拉与毛毛 (Eiora & Fluffy) C1",
+        "originalIndex": 474,
+        "name": "Eiora & Fluffy C1",
         "effects": [
             "Destroys all Minions from the target. This effect damages Mega Minions.",
             "Deals 640% damage to the target.",
@@ -4505,8 +4519,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 474,
-        "name": "埃卡奈特 (Ekanite)",
+        "originalIndex": 475,
+        "name": "Ekanite",
         "effects": [
             "Special Skill has a different effect when charged with 100%/200%/300% mana:",
             "x1 Mana Charge:",
@@ -4524,48 +4538,48 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 475,
-        "name": "埃纳达哈 (El Naddaha)",
+        "originalIndex": 476,
+        "name": "El Naddaha",
         "effects": [
             "Deals 305% damage to the target and nearby enemies.",
             "The target and nearby enemies are immune to new status effect buff for 3 turns, and receive 200 damage for each attempted buff."
         ]
     },
     {
-        "originalIndex": 476,
-        "name": "埃纳达哈 (El Naddaha) C1",
+        "originalIndex": 477,
+        "name": "El Naddaha C1",
         "effects": [
             "Deals 295% damage to the target and nearby enemies.",
             "The target and nearby enemies are immune to new status effect buffs for 3 turns, and receive 400 damage for each attempted buff."
         ]
     },
     {
-        "originalIndex": 477,
-        "name": "埃尔卡能 (Elkanen)",
+        "originalIndex": 478,
+        "name": "Elkanen",
         "effects": [
             "Deals 330% damage to the target and minor damage to nearby enemies",
             "Heals the caster for 38% or damage dealt"
         ]
     },
     {
-        "originalIndex": 478,
-        "name": "埃尔卡能 (Elkanen) C1",
+        "originalIndex": 479,
+        "name": "Elkanen C1",
         "effects": [
             "Deals 280% damage to the target and nearby enemies",
             "The caster steals 61% of any healing applied to the target and nearby enemies for 3 turns"
         ]
     },
     {
-        "originalIndex": 479,
-        "name": "埃尔卡能 (Elkanen) C2",
+        "originalIndex": 480,
+        "name": "Elkanen C2",
         "effects": [
             "Deals 230% damage to all enemies",
             "All enemies get -50% decrease for any healing received for 3 turns. This effect can't be cleansed."
         ]
     },
     {
-        "originalIndex": 480,
-        "name": "埃尔卡能 (Elkanen) 卡通",
+        "originalIndex": 481,
+        "name": "Elkanen Toon",
         "effects": [
             "Deals 410% damage to the target and minor damage to nearby enemies.",
             "Heals the caster for 35% of damage dealt.",
@@ -4573,8 +4587,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 481,
-        "name": "埃尔卡能 (Elkanen) 玻璃",
+        "originalIndex": 482,
+        "name": "Elkanen Glass",
         "effects": [
             "Deals 420% damage to the target and minor damage to nearby enemies.",
             "The attack bypasses defensive buffs. (This includes counterattacks.)",
@@ -4582,8 +4596,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 482,
-        "name": "埃拉德 (Elradir)",
+        "originalIndex": 483,
+        "name": "Elradir",
         "effects": [
             "Deals 345% damage to the target and nearby enemies.",
             "The caster reflects 130% of the damage received from their status ailments and negative stacks to all enemies for 4 turns.",
@@ -4591,8 +4605,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 483,
-        "name": "艾莉莎 (Elyssa)",
+        "originalIndex": 484,
+        "name": "Elyssa",
         "effects": [
             "Recovers 50% health for all allies.",
             "Cleanses 2 status ailments from all allies. (Status ailments are cleansed in the order they have been received. The latest status ailments are cleansed first.)",
@@ -4600,8 +4614,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 484,
-        "name": "纹章拟态兽 (Emblem Mimic) Nature",
+        "originalIndex": 485,
+        "name": "Emblem Mimic Nature",
         "effects": [
             "Deals 480% damage to the target.",
             "If an enemy is defeated by the attack, the caster recovers +50% health and gains +33% mana.",
@@ -4610,8 +4624,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 485,
-        "name": "恩尼格莫 (Enigmo)",
+        "originalIndex": 486,
+        "name": "Enigmo",
         "effects": [
             "Recovers 25% health for all allies.",
             "Deals 150% damage to all enemies.",
@@ -4620,8 +4634,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 486,
-        "name": "伊夫林 (Evelyn)",
+        "originalIndex": 487,
+        "name": "Evelyn",
         "effects": [
             "Deals 290% damage to the target and nearby enemies",
             "The target and nearby enemies get -54% defense against Nature for 4 turns",
@@ -4630,8 +4644,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 487,
-        "name": "伊夫林 (Evelyn) C1",
+        "originalIndex": 488,
+        "name": "Evelyn C1",
         "effects": [
             "Deals 280% damage to the target and nearby enemies.",
             "The target and nearby enemies get -56% defense against Nature for 4 turns.",
@@ -4640,8 +4654,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 488,
-        "name": "经验拟态兽 (Experience Mimic) Nature",
+        "originalIndex": 489,
+        "name": "Experience Mimic Nature",
         "effects": [
             "Destroys all Minions from the target. This effect damages Mega Minions.",
             "Deals 530% damage to the target.",
@@ -4650,8 +4664,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 489,
-        "name": "法夫纳 (Fafnir)",
+        "originalIndex": 490,
+        "name": "Fafnir",
         "effects": [
             "Attacks the target and nearby enemies with Frostfall Strike, dealing up to 2100 damage. Deals 40% more if the target is of the Fire element. This Special Skill never misses its targets.",
             "All damage the target and nearby enemies receive is increased by +35% for 3 turns.",
@@ -4659,8 +4673,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 490,
-        "name": "菲布路斯 (Februus)",
+        "originalIndex": 491,
+        "name": "Februus",
         "effects": [
             "Destroys all Fiends from all allies.",
             "Cleanses status ailments from all allies.",
@@ -4669,8 +4683,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 491,
-        "name": "费洛斯 (Ferrus)",
+        "originalIndex": 492,
+        "name": "Ferrus",
         "effects": [
             "Deals 390% damage to the target and nearby enemies.",
             "The target and nearby enemies receive 576 Bleed damage over 3 turns.",
@@ -4678,8 +4692,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 492,
-        "name": "弗洛伦娜 (Florenna)",
+        "originalIndex": 493,
+        "name": "Florenna",
         "effects": [
             "Deals 435% damage to the target.",
             "The target can’t get their status ailments cleansed or reallocated by Special Skills for 3 turns. (This effect also prevents cleansing and reallocating of itself.)",
@@ -4688,8 +4702,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 493,
-        "name": "狐斯利 (Foxley)",
+        "originalIndex": 494,
+        "name": "Foxley",
         "effects": [
             "Deals 375% damage to the target and nearby enemies.",
             "The target and nearby enemies receive lasting 250 Bleed damage per turn. (This effect lasts until it is cleaned, replaced or removed.)",
@@ -4697,8 +4711,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 494,
-        "name": "弗朗辛 (Francine)",
+        "originalIndex": 495,
+        "name": "Francine",
         "effects": [
             "Deals 225% damage to the target and nearby enemies.",
             "Cleanses status ailments from all allies at the end of each turn for 3 turns.",
@@ -4706,8 +4720,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 495,
-        "name": "弗朗辛 (Francine) C1",
+        "originalIndex": 496,
+        "name": "Francine C1",
         "effects": [
             "Deals 225% damage to the target and nearby enemies.",
             "Cleanses status ailments from all allies at the end of each turn for 3 turns. This effect can't be dispelled.",
@@ -4715,8 +4729,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 496,
-        "name": "弗蕾亚瓦鲁 (Freawaru)",
+        "originalIndex": 497,
+        "name": "Freawaru",
         "effects": [
             "Safely dispels status effect buffs from all enemies. (Safe dispel bypasses secondary effects, such as damage on removal, from the removed status ailment. External effects such as passive skills and family effects can still activate.)",
             "Boosts health for all allies by 1300. Boosted health can exceed max HP.",
@@ -4727,8 +4741,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 497,
-        "name": "弗丽嘉 (Frigg)",
+        "originalIndex": 498,
+        "name": "Frigg",
         "effects": [
             "Deals 100% damage to all enemies.",
             "Deals additional 18% damage per each Nature shield on the board, up to 244% damage in total.",
@@ -4736,8 +4750,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 498,
-        "name": "弗丽嘉 (Frigg) C1",
+        "originalIndex": 499,
+        "name": "Frigg C1",
         "effects": [
             "Deals 90% damage to all enemies.",
             "Deals additional 18% damage per each Nature shield on the board, up to 234% damage in total.",
@@ -4745,8 +4759,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 499,
-        "name": "青蛙王子 (Frog Prince)",
+        "originalIndex": 500,
+        "name": "Frog Prince",
         "effects": [
             "Deals 230% damage to all enemies.",
             "All enemies receive 1285 Poison damage over 5 turns. The caster receives  a small amount of mana each time Poison damage is applied.",
@@ -4755,8 +4769,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 500,
-        "name": "伏榕德 (Frond)",
+        "originalIndex": 501,
+        "name": "Frond",
         "effects": [
             "Deals 375% damage to the target and nearby enemies.",
             "Deals 900 extra damage if the target has boosted health.",
@@ -4764,8 +4778,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 501,
-        "name": "香菇斯丁 (Fungustine)",
+        "originalIndex": 502,
+        "name": "Fungustine",
         "effects": [
             "Boosts health of all allies by 1250. Boosted health can exceed max HP.",
             "All allies get Sticky surface for 4 turns. This effect can`t be dispelled.",
@@ -4775,8 +4789,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 502,
-        "name": "加拉帕戈 (Galapago)",
+        "originalIndex": 503,
+        "name": "Galapago",
         "effects": [
             "Special Skill need consecutive uses to reach full power, the following order:",
             "1st:",
@@ -4791,8 +4805,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 503,
-        "name": "加拉帕戈 (Galapago) C1",
+        "originalIndex": 504,
+        "name": "Galapago C1",
         "effects": [
             "Special Skill need consecutive uses to reach full power, the following order:",
             "1st:",
@@ -4807,24 +4821,24 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 504,
-        "name": "卡加莫 (Garjammal)",
+        "originalIndex": 505,
+        "name": "Garjammal",
         "effects": [
             "Deals 430% damage to the target.",
             "The caster regenerates 675 HP over 3 turns. The effect duration is reset if the caster is hit with direct damage from a special skill."
         ]
     },
     {
-        "originalIndex": 505,
-        "name": "卡加莫 (Garjammal) C1",
+        "originalIndex": 506,
+        "name": "Garjammal C1",
         "effects": [
             "Deals 410% damage to the target.",
             "The caster regenerates 800 HP over 4 turns. The duration is reset if the caster is hit with direct damage from a special skill."
         ]
     },
     {
-        "originalIndex": 506,
-        "name": "加滕 (Garten)",
+        "originalIndex": 507,
+        "name": "Garten",
         "effects": [
             "Boosts health of all allies by 700. Boosted health can exceed max HP.",
             "Reduces max health of all enemies by 700. The effect is stronger against targets with boosted health. (Max health can’t get lower than 30% of the original max health. Any boosted health is reduced by an additional 700.",
@@ -4833,8 +4847,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 507,
-        "name": "杰勒 (Gelert)",
+        "originalIndex": 508,
+        "name": "Gelert",
         "effects": [
             "Special Skill need consecutive uses to reach full power, the following order:",
             "1st:",
@@ -4850,8 +4864,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 508,
-        "name": "杰勒 (Gelert) C1",
+        "originalIndex": 509,
+        "name": "Gelert C1",
         "effects": [
             "Special Skill need consecutive uses to reach full power, the following order:",
             "1st:",
@@ -4867,8 +4881,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 509,
-        "name": "金姬 (Ginger)",
+        "originalIndex": 510,
+        "name": "Ginger",
         "effects": [
             "Summons an Elf Minion for each ally with 10% HP and 10% attack inherited from the caster.",
             "For the next 3 turns, this character deals 500% damage to a random enemy each time any other ally casts their Special Skill. (Damage is dealt on the first Special Skill cast of each character per turn.)",
@@ -4876,8 +4890,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 510,
-        "name": "戈弗雷 (Godfrey)",
+        "originalIndex": 511,
+        "name": "Godfrey",
         "effects": [
             "Recovers 35% health for all allies.",
             "All allies are immune to new status ailments for 4 turns.",
@@ -4886,8 +4900,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 511,
-        "name": "古利安 (Goorian)",
+        "originalIndex": 512,
+        "name": "Goorian",
         "effects": [
             "Deals 480% damage to all enemies.",
             "All hit targets get -40% defense and a further -5% decrease every time they are hit during 5 turns, to max -60%.",
@@ -4901,8 +4915,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 512,
-        "name": "格蕾丝 (Grace)",
+        "originalIndex": 513,
+        "name": "Grace",
         "effects": [
             "Deals 395% damage to the target and nearby enemies.",
             "The target and nearby enemies cannot cast any new Taunt status effects for 3 turns.",
@@ -4911,8 +4925,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 513,
-        "name": "绿骑士 (Green Knight)",
+        "originalIndex": 514,
+        "name": "Green Knight",
         "effects": [
             "All enemies get -24% defense for 3 turns.",
             "Deals 265% damage to all enemies.",
@@ -4920,8 +4934,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 514,
-        "name": "格雷戈里恩 (Gregorion)",
+        "originalIndex": 515,
+        "name": "Gregorion",
         "effects": [
             "Deals 550% damage to the target.",
             "All allies get +35% critical chance for 3 turns.",
@@ -4929,8 +4943,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 515,
-        "name": "格雷戈里恩 (Gregorion) C1",
+        "originalIndex": 516,
+        "name": "Gregorion C1",
         "effects": [
             "Deals 535% damage to the target.",
             "All allies get +45% critical chance for 4 turns.",
@@ -4938,8 +4952,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 516,
-        "name": "格伦德尔 (Grendel)",
+        "originalIndex": 517,
+        "name": "Grendel",
         "effects": [
             "The target and nearby enemies get -40% defense against Nature for 3 turns.",
             "Deals 320% damage to the target and nearby enemies.",
@@ -4948,8 +4962,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 517,
-        "name": "格罗沃特 (Grovevert)",
+        "originalIndex": 518,
+        "name": "Grovevert",
         "effects": [
             "After the Special Skill has been cast increases the mana of the caster by 20%.",
             "Summons a Moss Mothling Mega Fiend for the target. The Fiend damages the enemy with 275% attack every turn.",
@@ -4958,8 +4972,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 518,
-        "name": "关羽 (Guan Yu)",
+        "originalIndex": 519,
+        "name": "Guan Yu",
         "effects": [
             "Deals 390% damage to the target and nearby enemies.",
             "Damage bypasses target’s Minions.",
@@ -4967,8 +4981,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 519,
-        "name": "关羽 (Guan Yu) C1",
+        "originalIndex": 520,
+        "name": "Guan Yu C1",
         "effects": [
             "Deals 400% damage to the target and nearby enemies.",
             "Damage bypasses target’s Minions.",
@@ -4976,8 +4990,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 520,
-        "name": "变色龙守护者 (Guardian Chameleon)",
+        "originalIndex": 521,
+        "name": "Guardian Chameleon",
         "effects": [
             "Removes all status effects from all enemies. Removes even status effects that are otherwise undispellable or uncleansable.",
             "Changes the element of all enemies to the element they are strong against for 4 turns.",
@@ -4986,16 +5000,16 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 521,
-        "name": "锤牙 (Hammertusk)",
+        "originalIndex": 522,
+        "name": "Hammertusk",
         "effects": [
             "Deals 360% damage to the target and nearby enemies.",
             "All damage the target and nearby enemies receives is increased by +50% for 4 turns."
         ]
     },
     {
-        "originalIndex": 522,
-        "name": "运输石 (Haulstone)",
+        "originalIndex": 523,
+        "name": "Haulstone",
         "effects": [
             "Each ally receives buffs based on their current health:",
             "Full HP:",
@@ -5011,8 +5025,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 523,
-        "name": "海姆达 (Heimdall)",
+        "originalIndex": 524,
+        "name": "Heimdall",
         "effects": [
             "Boosts health of all allies by 500. Boosted health can exceed max HP.",
             "Each fallen ally has a 20% chance to get revived with 30% HP.",
@@ -5020,8 +5034,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 524,
-        "name": "海姆达 (Heimdall) C1",
+        "originalIndex": 525,
+        "name": "Heimdall C1",
         "effects": [
             "Each fallen ally has 50% chance to get revived with 20% HP.",
             "All allies get +50% attack for 4 turns.",
@@ -5029,24 +5043,24 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 525,
-        "name": "霍格火 (Horghall)",
+        "originalIndex": 526,
+        "name": "Horghall",
         "effects": [
             "Deals 280% damage to all enemies",
             "All enemies get -34% attack for 6 turns"
         ]
     },
     {
-        "originalIndex": 526,
-        "name": "霍格火 (Horghall) C1",
+        "originalIndex": 527,
+        "name": "Horghall C1",
         "effects": [
             "Deals 250% damage to all enemies",
             "All enemies get -54% attack for 6 turns"
         ]
     },
     {
-        "originalIndex": 527,
-        "name": "霍格火 (Horghall) C2",
+        "originalIndex": 528,
+        "name": "Horghall C2",
         "effects": [
             "Deals 260% damage to all enemies.",
             "All enemies get -31% attack, and a further 4% decrease any time they are hit during 4 turns.",
@@ -5055,8 +5069,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 528,
-        "name": "霍格火 (Horghall) 卡通",
+        "originalIndex": 529,
+        "name": "Horghall Toon",
         "effects": [
             "Deals 430% damage to all enemies.",
             "All enemies get -24% attack for 6 turns.",
@@ -5064,8 +5078,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 529,
-        "name": "霍格火 (Horghall) 玻璃",
+        "originalIndex": 530,
+        "name": "Horghall Glass",
         "effects": [
             "Deals 440% damage to all enemies.",
             "The attack bypasses defensive buffs. (This includes counterattacks.)",
@@ -5073,8 +5087,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 530,
-        "name": "霍滕西娅 (Hortensia)",
+        "originalIndex": 531,
+        "name": "Hortensia",
         "effects": [
             "Destroys all Minions from the target and nearby enmies. This effect damage Mega Minions.",
             "Deals 430% damage to the target and nearby enemies.",
@@ -5084,8 +5098,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 531,
-        "name": "亨伯特 (Humbert)",
+        "originalIndex": 532,
+        "name": "Humbert",
         "effects": [
             "Deals 350% damage to all enemies.",
             "Boosts all allies’ health by 25% of damage dealt.",
@@ -5093,8 +5107,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 532,
-        "name": "海吉尔 (Hygil)",
+        "originalIndex": 533,
+        "name": "Hygil",
         "effects": [
             "Deals 850% damage to the target.",
             "The target receives 100% damage for all the damage their allies receive for 5 turns.",
@@ -5103,8 +5117,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 533,
-        "name": "伊古·杜尔索 (Iku-Turso)",
+        "originalIndex": 534,
+        "name": "Iku-Turso",
         "effects": [
             "Deals 280% damage to the target and nearby enemies.",
             "The target and nearby enemies receive 243 Water damage over 3 turns. Against Fire characters, this status effect becomes uncleansable and lasts 2 turns longer.",
@@ -5112,8 +5126,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 534,
-        "name": "伊藤 (Ito)",
+        "originalIndex": 535,
+        "name": "Ito",
         "effects": [
             "Special Skill has a different effect when charged with 100%/200%/300% mana:",
             "x1 Mana Charge:",
@@ -5131,8 +5145,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 535,
-        "name": "碧玉 (Jade)",
+        "originalIndex": 536,
+        "name": "Jade",
         "effects": [
             "1x Mana Charge",
             "* Deals 115% damage to all enemies.",
@@ -5149,16 +5163,16 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 536,
-        "name": "卡迪雷恩 (Kadilen)",
+        "originalIndex": 537,
+        "name": "Kadilen",
         "effects": [
             "Deals 190% damage to all enemies",
             "All allies get +74% defense against Special Skills for 3 turns"
         ]
     },
     {
-        "originalIndex": 537,
-        "name": "卡迪雷恩 (Kadilen) C1",
+        "originalIndex": 538,
+        "name": "Kadilen C1",
         "effects": [
             "Deals 170% damage to all enemies.",
             "All allies get +45% chance to dodge special skills for 3 turns. Each dodge summons a thorn minion.",
@@ -5166,8 +5180,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 538,
-        "name": "卡迪雷恩 (Kadilen) C2",
+        "originalIndex": 539,
+        "name": "Kadilen C2",
         "effects": [
             "Deals 210% damage to all enemies.",
             "All allies get +40% chance to dodge Special Skills for 3 turns. Each dodge summons an Empowered Thorn Minion.",
@@ -5175,8 +5189,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 539,
-        "name": "卡迪雷恩 (Kadilen) 卡通",
+        "originalIndex": 540,
+        "name": "Kadilen Toon",
         "effects": [
             "Deals 270% damage to all enemies.",
             "All allies get +64% defense against Special Skills for 3 turns.",
@@ -5184,8 +5198,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 540,
-        "name": "凯 (Kai)",
+        "originalIndex": 541,
+        "name": "Kai",
         "effects": [
             "Deals 435% damage to the target.",
             "Summons a Bone Trap Fiend for the target. The Fiend damages the enemy with 45% attack each turn. The damage increases by 8% each turn, up to a maximum of 93%.",
@@ -5195,8 +5209,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 541,
-        "name": "卡特罗克斯 (Khatrox)",
+        "originalIndex": 542,
+        "name": "Khatrox",
         "effects": [
             "Boosts health of the caster by 1000. Boosted health can exceed max HP.",
             "Deals 470% damage to all enemies and inflicts 20 Insanity on them.",
@@ -5205,8 +5219,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 542,
-        "name": "金士顿 (Kingston)",
+        "originalIndex": 543,
+        "name": "Kingston",
         "effects": [
             "Deals 495% damage to the target.",
             "The target and nearby enemies get -31% attack, and a further -4% decrease every time they are hit during 4 turns.",
@@ -5214,8 +5228,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 543,
-        "name": "柯利亚 (Kolya)",
+        "originalIndex": 544,
+        "name": "Kolya",
         "effects": [
             "Dispels 1 buff from all enemies. (The latest buffs are dispelled first.)",
             "Deals 300% damage to all enemies.",
@@ -5225,16 +5239,16 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 544,
-        "name": "洛克小姐 (Lady Locke)",
+        "originalIndex": 545,
+        "name": "Lady Locke",
         "effects": [
             "The target and nearby enemies receive 932 damage over 4 turns, starting low and increasing with every turn",
             "Cleanses status ailments from all allies"
         ]
     },
     {
-        "originalIndex": 545,
-        "name": "洛克小姐 (Lady Locke) C1",
+        "originalIndex": 546,
+        "name": "Lady Locke C1",
         "effects": [
             "Deals 120% damage to the target and minor damage to nearby enemies.",
             "The target and nearby enemies receive 1118 damage over 4 turns, starting low and increasing with every turn.",
@@ -5242,8 +5256,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 546,
-        "name": "圣湖女神 (Lady of the Lake)",
+        "originalIndex": 547,
+        "name": "Lady of the Lake",
         "effects": [
             "Recovers 42% health for all allies",
             "Summons a Magic Sword Minion for the caster and nearby allies with 14% HP and 15% attack inherited from the caster",
@@ -5251,8 +5265,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 547,
-        "name": "圣湖女神 (Lady of the Lake) C1",
+        "originalIndex": 548,
+        "name": "Lady of the Lake C1",
         "effects": [
             "Boosts health of all allies by 550. Boosted health can exceed max HP.",
             "Summons a Magical Sword Minion for the caster and nearby allies with 14% HP and 15% attack inherited from the caster.",
@@ -5261,8 +5275,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 548,
-        "name": "丽德里娅 (Leadria)",
+        "originalIndex": 549,
+        "name": "Leadria",
         "effects": [
             "Summons a Spirit of Spring Minion for all allies with 30% HP inherited from the caster.",
             "When summoned, the Spirit of Spring Minion boosts 100 health for its owner at the end of each turn for as long as the owner has a Spirit of Spring Minion. This effect can’t be dispelled.",
@@ -5271,8 +5285,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 549,
-        "name": "叶拂 (Leafwhisk)",
+        "originalIndex": 550,
+        "name": "Leafwhisk",
         "effects": [
             "Growth: All allies get 355 defense.",
             "Summons a Spotted Boar Mega Minion with 65% HP and 260% attack inherited from the caster.",
@@ -5280,55 +5294,55 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 550,
-        "name": "雷奥妮 (Leonie)",
+        "originalIndex": 551,
+        "name": "Leonie",
         "effects": [
             "Deals 250% Clawing damage to the target and nearby enemies. (Deals 400% damage against enemies with any defensive buffs, Minions or Mega Minions. Enemies with any defensive buffs, Minions or Mega Minions receive -35% defense for 6 turns.)",
             "The target and nearby enemies receive lasting 1500 Surge Bleed damage over 6 turns. (If the target already has this effect, the duration will be refreshed and the damage will be increased by 300. Max total damage 3000.)"
         ]
     },
     {
-        "originalIndex": 551,
-        "name": "丽阿娜 (Lianna)",
+        "originalIndex": 552,
+        "name": "Lianna",
         "effects": [
             "Deals 512% damage to the target"
         ]
     },
     {
-        "originalIndex": 552,
-        "name": "丽阿娜 (Lianna) C1",
+        "originalIndex": 553,
+        "name": "Lianna C1",
         "effects": [
             "Deals 482% damage to the target",
             "The targe gets -34% mana generation for 3 turns"
         ]
     },
     {
-        "originalIndex": 553,
-        "name": "丽阿娜 (Lianna) C2",
+        "originalIndex": 554,
+        "name": "Lianna C2",
         "effects": [
             "Deals 500% damage to the target",
             "The targe gets silenced for 3 turns"
         ]
     },
     {
-        "originalIndex": 554,
-        "name": "丽阿娜 (Lianna) 卡通",
+        "originalIndex": 555,
+        "name": "Lianna Toon",
         "effects": [
             "Deals 592% damage to the target.",
             "Deals extra damage against Ice."
         ]
     },
     {
-        "originalIndex": 555,
-        "name": "丽阿娜 (Lianna) 玻璃",
+        "originalIndex": 556,
+        "name": "Lianna Glass",
         "effects": [
             "Deals 602% damage to the target.",
             "The attack bypasses defensive buffs. (This includes counterattacks.)"
         ]
     },
     {
-        "originalIndex": 556,
-        "name": "莱姆博尔 (Limeboire)",
+        "originalIndex": 557,
+        "name": "Limeboire",
         "effects": [
             "Deals 300% damage to all enemies.",
             "All enemies fall into Deep Sleep and receive +80% increased damage while in Deep Sleep. (This character in Deep Sleep cannot gain mana or attack. The character in Deep Sleep is woken once it takes 750 damage. This effect is uncleansable.)",
@@ -5337,8 +5351,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 557,
-        "name": "刘备 (Liu Bei)",
+        "originalIndex": 558,
+        "name": "Liu Bei",
         "effects": [
             "Deals 360% damage to the target and nearby enemies.",
             "Summons a Shu Soldier Minion for each ally with 16% HP and 17% attack inherited from the caster.",
@@ -5346,8 +5360,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 558,
-        "name": "刘备 (Liu Bei) C1",
+        "originalIndex": 559,
+        "name": "Liu Bei C1",
         "effects": [
             "Deals 350% damage to the target and nearby enemies.",
             "Summons a Shu Soldier Minion for each ally with 33% HP and 33% attack inherited from the caster.",
@@ -5355,8 +5369,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 559,
-        "name": "鲁海德 (Lughaidh)",
+        "originalIndex": 560,
+        "name": "Lughaidh",
         "effects": [
             "Cast Full Removal on the caster. (Full Removal removes all status efects, stacks and Growth and Wither effects. Removes even status effects and stacks that are otherwise undispellable or uncleasable.)",
             "The caster shifts into Ghost form for 4 turns.",
@@ -5367,8 +5381,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 560,
-        "name": "鲁海德 (Lughaidh) C1",
+        "originalIndex": 561,
+        "name": "Lughaidh C1",
         "effects": [
             "Cast Full Removal on the caster. (Full Removal removes all status efects, stacks and Growth and Wither effects. Removes even status effects and stacks that are otherwise undispellable or uncleasable.)",
             "The caster shifts into Ghost form for 4 turns.",
@@ -5378,8 +5392,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 561,
-        "name": "玛阿特 (Ma'at)",
+        "originalIndex": 562,
+        "name": "Ma'at",
         "effects": [
             "Deals 195% damage to all enemies.",
             "All enemies get -34% defense for 3 turns.",
@@ -5387,8 +5401,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 562,
-        "name": "玛阿特 (Ma'at) C1",
+        "originalIndex": 563,
+        "name": "Ma'at C1",
         "effects": [
             "Deals 220% damage to all enemies.",
             "All enemies get -35% defense for 3 turns.",
@@ -5396,8 +5410,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 563,
-        "name": "麦戈文 (Maegwyn)",
+        "originalIndex": 564,
+        "name": "Maegwyn",
         "effects": [
             "Recovers 50% health for all allies.",
             "All allies regenerate 800 boosted health over 4 turns. Boosted health can exceed max HP.",
@@ -5405,8 +5419,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 564,
-        "name": "玛格丽特 (Margaret)",
+        "originalIndex": 565,
+        "name": "Margaret",
         "effects": [
             "Deals 150% damage to the target and nearby enemies.",
             "The caster and nearby allies have from +30% to +90% chance of dodging special attacks that do damage. The higher the damage from the special is, the higher the chance to dodge it. Each dodge gives +24% mana to the target. Effect lasts 3 turns.",
@@ -5414,8 +5428,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 565,
-        "name": "麦克思 (Max)",
+        "originalIndex": 566,
+        "name": "Max",
         "effects": [
             "Recovers 45% health for all allies.",
             "Summons a Brown Puppy Minion for each ally with 35% HP and 55% attack inherited from the caster.",
@@ -5423,8 +5437,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 566,
-        "name": "马佐加 (Mazoga)",
+        "originalIndex": 567,
+        "name": "Mazoga",
         "effects": [
             "Deals 280% damage to the target and nearby enemies.",
             "The target and nearby enemies get -24% defense for 3 turns. The effect duration resets if the character receives status ailments.",
@@ -5432,8 +5446,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 567,
-        "name": "米纳 (Mena)",
+        "originalIndex": 568,
+        "name": "Mena",
         "effects": [
             "Deals 390% damage to the target and minor damage to nearby enemies.",
             "At the end of each turn, the caster and nearby allies shoot a Fluff Volley at a random enemy for 3 turns.",
@@ -5442,8 +5456,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 568,
-        "name": "梅里斯 (Merith)",
+        "originalIndex": 569,
+        "name": "Merith",
         "effects": [
             "Reduces max health of the target and nearby enemies by 1000. The effect is stronger against targets with boosted health. (Max health can’t get lower than 30% of the original max health. Any boosted health is reduced by an additional 1000.)",
             "After 1 turn the target and nearby enemies get Paralyzed for 2 turn. (Paralized enemies can’t attack or gain man and receive +50% increased damage. Once Paralyzed, the effect can’t be cleansed. Bosses, Titans and Mythic Titans are not affected by this status effect.)",
@@ -5451,8 +5465,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 569,
-        "name": "布雾者 (Mistweaver)",
+        "originalIndex": 570,
+        "name": "Mistweaver",
         "effects": [
             "Deals 350% damage to the target and nearby enemies.",
             "The target and nearby enemies resist healing and receive 220 damage per each resisted healing for 3 turns.",
@@ -5460,24 +5474,24 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 570,
-        "name": "月之花 (Moonflower)",
+        "originalIndex": 571,
+        "name": "Moonflower",
         "effects": [
             "For the next 3 turns, this character deals 235% damage to all enemies after an enemy casts their Special Skill.",
             "All allies get +35% mana generation for 3 turns."
         ]
     },
     {
-        "originalIndex": 571,
-        "name": "摩根勒菲 (Morgan Le Fay)",
+        "originalIndex": 572,
+        "name": "Morgan Le Fay",
         "effects": [
             "The caster drains 772 HP from the target over 4 turns. This effect can't be cleansed, but gets removed if this caster dies",
             "The caster and nearby allies gets +94% defense against Fire for 4 turns."
         ]
     },
     {
-        "originalIndex": 572,
-        "name": "北方之母 (Mother North)",
+        "originalIndex": 573,
+        "name": "Mother North",
         "effects": [
             "Recovers 30% health for all allies.",
             "Each fallen ally has a 50% chance to get revived with 10% HP.",
@@ -5485,8 +5499,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 573,
-        "name": "北方之母 (Mother North) C1",
+        "originalIndex": 574,
+        "name": "Mother North C1",
         "effects": [
             "Each fallen ally has a 55% chance to get revived with 15% HP.",
             "Summons an Elf Minion for each ally with 10% HP and 10% attack inherited from the caster.",
@@ -5494,8 +5508,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 574,
-        "name": "马克特司 (Mucktus)",
+        "originalIndex": 575,
+        "name": "Mucktus",
         "effects": [
             "Deals 290% damage to all enemies.",
             "Summons a Slime Fiend for all enemies. The Fiend damage the enemy with 50% attack every turn.",
@@ -5504,8 +5518,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 575,
-        "name": "妙印尼 (Myoin-ni)",
+        "originalIndex": 576,
+        "name": "Myoin-ni",
         "effects": [
             "Special Skill has a different effect when charged with 100%/200%/300% mana:",
             "x1 Mana Charge:",
@@ -5523,8 +5537,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 576,
-        "name": "米斯蒂亚 (Mystia)",
+        "originalIndex": 577,
+        "name": "Mystia",
         "effects": [
             "All enemies become Soul Connected for 4 turns. Soul Connected enemies share received damage.",
             "All enemies get -34% defense for 4 turns.",
@@ -5533,8 +5547,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 577,
-        "name": "诺古 (Nogu)",
+        "originalIndex": 578,
+        "name": "Nogu",
         "effects": [
             "Deals 460% damage to the target and minor damage to nearby enemies.",
             "The target and nearby enemies receive 504 Bleed damage over 3 turns.",
@@ -5542,8 +5556,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 578,
-        "name": "奥特 (Ott)",
+        "originalIndex": 579,
+        "name": "Ott",
         "effects": [
             "Boosts health of all allies by 600. Boosted health can exceed max HP.",
             "All allies get a Firestorm Ward for 3 turns, that reduces incoming Special Skill damage by up to -1100. Reduces damage by additional 30% when the attacker is of the Nature element.",
@@ -5551,8 +5565,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 579,
-        "name": "奥特 (Ott) C1",
+        "originalIndex": 580,
+        "name": "Ott C1",
         "effects": [
             "Boosts health of all allies by 800. Boosted health can exceed max HP.",
             "All allies get a Firestorm Ward for 3 turns, that reduces incoming Special Skill damage by up to -1280. Reduces damage by additional 30% when the attacker is of the Nature element.",
@@ -5560,8 +5574,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 580,
-        "name": "珀涅罗珀 (Penelope)",
+        "originalIndex": 581,
+        "name": "Penelope",
         "effects": [
             "Deals 440% damage to all enemies.",
             "Heals all allies for 35% of the damage dealth.",
@@ -5570,8 +5584,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 581,
-        "name": "裴雷格林 (Peregrine)",
+        "originalIndex": 582,
+        "name": "Peregrine",
         "effects": [
             "Deals 450% damage to the target and nearby enemies.",
             "Enhanced Dodge: The caster and nearby allies get +55% chance to dodge Special Skills that deal damage. This effect lasts until the ally succesfully dodges 5 times.",
@@ -5579,8 +5593,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 582,
-        "name": "珮绿朵 (Peridot)",
+        "originalIndex": 583,
+        "name": "Peridot",
         "effects": [
             "Special Skill has a different effect when charged with 100%/200%/300% mana:",
             "x1 Mana Charge:",
@@ -5598,8 +5612,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 583,
-        "name": "斐利亚·福格 (Phileas Fogg)",
+        "originalIndex": 584,
+        "name": "Phileas Fogg",
         "effects": [
             "Dispels buffs from target.",
             "Deals 420% damage to the target.",
@@ -5607,8 +5621,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 584,
-        "name": "斐利亚·福格 (Phileas Fogg) C1",
+        "originalIndex": 585,
+        "name": "Phileas Fogg C1",
         "effects": [
             "Dispels buffs from target.",
             "Deals 410% damage to the target.",
@@ -5616,8 +5630,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 585,
-        "name": "皮普 (Pip)",
+        "originalIndex": 586,
+        "name": "Pip",
         "effects": [
             "Deals 350% damage to the target.",
             "Deals additional 350% damage to 2 random enemies.",
@@ -5626,8 +5640,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 586,
-        "name": "齐格弗里德王子 (Prince Siegfried)",
+        "originalIndex": 587,
+        "name": "Prince Siegfried",
         "effects": [
             "If the caster is defeated during the next 5 turns, they are resurrected in the beginning of their next turn with 30% health and all allies recover 1100 HP. (All status effects and stacks are removed when the caster is defeated)",
             "Casts Dance of the Heron to all allies but caster for 5 turns. All existing status effects will be removed when this effect is added.",
@@ -5639,8 +5653,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 587,
-        "name": "青龙 (Qinglong)",
+        "originalIndex": 588,
+        "name": "Qinglong",
         "effects": [
             "Deals 160% damage to all enemies.",
             "Steals the latest dispellable buff from all enemies and randomly distributes them on allies.",
@@ -5648,8 +5662,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 588,
-        "name": "安娜王后 (Queen Anne)",
+        "originalIndex": 589,
+        "name": "Queen Anne",
         "effects": [
             "The caster gets Taunt that prevents enemies from using Special Skills on the caster’s allies for 6 turns.",
             "The caster regenerates 918 HP over 6 turns.",
@@ -5658,8 +5672,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 589,
-        "name": "奎奈尔 (Quenell)",
+        "originalIndex": 590,
+        "name": "Quenell",
         "effects": [
             "Deals 320% damage to the target and nearby enemies.",
             "The caster gets additional +40% power for the next Special Skill they cast. The additional power increases +40% each turn, up to a maximum of 200% in total.",
@@ -5667,8 +5681,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 590,
-        "name": "奎奈尔 (Quenell) C1",
+        "originalIndex": 591,
+        "name": "Quenell C1",
         "effects": [
             "Deals 360% damage to the target and nearby enemies.",
             "The caster gets additional +30% power for the next Special Skill they cast. The additional power increases +30% each turn, up to +150% in total.",
@@ -5676,8 +5690,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 591,
-        "name": "拉格里姆 (Ragrim)",
+        "originalIndex": 592,
+        "name": "Ragrim",
         "effects": [
             "Destroys all Fiends from all allies. This effect damages Mega Fiends.",
             "Recovers 65% health for the ally with the lowest remaing HP. All other allies recover 45% health.",
@@ -5685,24 +5699,24 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 592,
-        "name": "拉塔托斯克 (Ratatoskr)",
+        "originalIndex": 593,
+        "name": "Ratatoskr",
         "effects": [
             "Recovers 44% health for all allies.",
             "Alters the power of All Nature shields on the board. When an attacking Hero casts the special, the shields become enhanced with +64% attack. When a defending Hero casts the special, the shields become weakened with -57% attack."
         ]
     },
     {
-        "originalIndex": 593,
-        "name": "拉塔托斯克 (Ratatoskr) C1",
+        "originalIndex": 594,
+        "name": "Ratatoskr C1",
         "effects": [
             "All allies regenerate 795 HP over 3 turns.",
             "Alters the power of all Nature shields on the board. When an attacking Hero casts the special, the shields become enhance with +64% attack. When a defending Hero casts the special, the shields become weakened with -57% attack."
         ]
     },
     {
-        "originalIndex": 594,
-        "name": "雷利乌斯 (Relius)",
+        "originalIndex": 595,
+        "name": "Relius",
         "effects": [
             "Recovers 30% health for all allies.",
             "Each fallen ally has a 40% chance to get revived with 30% HP.",
@@ -5710,8 +5724,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 595,
-        "name": "莱茵辉光 (Rhineglow)",
+        "originalIndex": 596,
+        "name": "Rhineglow",
         "effects": [
             "The caster gets Taunt that prevents enemies from using Special Skills on the caster’s allies for 3 turns.",
             "All allies regenerates 1200 boosted health over 3 turns. Boosted health can exceed max HP. This effect can’t be dispelled.",
@@ -5719,8 +5733,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 596,
-        "name": "罗兹 (Roz)",
+        "originalIndex": 597,
+        "name": "Roz",
         "effects": [
             "Deals 530% damage to the target.",
             "If there are 6 or more Nature shields on the board damage is dealt to the target and nearby enemies.",
@@ -5728,8 +5742,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 597,
-        "name": "罗兹 (Roz) C1",
+        "originalIndex": 598,
+        "name": "Roz C1",
         "effects": [
             "Deals 540% damage to the target.",
             "If there are 5 or more Nature shields on the board damage is dealt to the target and nearby enemies.",
@@ -5738,8 +5752,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 598,
-        "name": "萨迪 (Sadie)",
+        "originalIndex": 599,
+        "name": "Sadie",
         "effects": [
             "Deals 550% damage to the target.",
             "The target gets silenced for 3 turns.",
@@ -5749,8 +5763,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 599,
-        "name": "沙悟净 (Sha Wujing)",
+        "originalIndex": 600,
+        "name": "Sha Wujing",
         "effects": [
             "Deals 610% damage to the target.",
             "Heals all allies for 40% of damage dealt.",
@@ -5758,8 +5772,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 600,
-        "name": "西尔瓦丽亚 (Silvaria)",
+        "originalIndex": 601,
+        "name": "Silvaria",
         "effects": [
             "The target and nearby enemies get -34% defense for 3 turns.",
             "Deals 380% damage to the target.",
@@ -5768,8 +5782,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 601,
-        "name": "巧舌妇 (Smarttongue)",
+        "originalIndex": 602,
+        "name": "Smarttongue",
         "effects": [
             "Wither: All enemies get -350 attack.",
             "Reduces max health for all enemies by 700. This effect is stronger against targets with boosted health. (Max health can’t be lower than the 30% of the original max health. Any boosted health is reduced by an additional 700.)",
@@ -5777,8 +5791,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 602,
-        "name": "雪球 (Snowball)",
+        "originalIndex": 603,
+        "name": "Snowball",
         "effects": [
             "Deals 250% damage to the target and nearby enemies.",
             "Summons a Barbed Arrow Fiend to the target and nearby enemies. The Fiend damages the enemies with 43% attack every turn.",
@@ -5787,8 +5801,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 603,
-        "name": "酸蛰 (Soursting)",
+        "originalIndex": 604,
+        "name": "Soursting",
         "effects": [
             "The target and nearby enemies can't revive their allies or themselves for 5 turns.",
             "The target and nearby enemies can't receive new status effects that would resurrect them for 5 turns.",
@@ -5797,8 +5811,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 604,
-        "name": "斯帕托依 (Spartoi)",
+        "originalIndex": 605,
+        "name": "Spartoi",
         "effects": [
             "Special Skill need consecutive uses to reach full power, the following order:",
             "1st:",
@@ -5812,8 +5826,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 605,
-        "name": "斯帕托依 (Spartoi) C1",
+        "originalIndex": 606,
+        "name": "Spartoi C1",
         "effects": [
             "Special Skill need consecutive uses to reach full power, the following order:",
             "1st:",
@@ -5827,8 +5841,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 606,
-        "name": "斯皮夫 (Spiff)",
+        "originalIndex": 607,
+        "name": "Spiff",
         "effects": [
             "The caster gets lasting bypass for defensive buffs. (Defensive buffs include counterattacks. This effect lasts until it is cleansed, replaced or removed.)",
             "Deals 585% damage to the target.",
@@ -5836,8 +5850,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 607,
-        "name": "斯特因堂 (Staintongue)",
+        "originalIndex": 608,
+        "name": "Staintongue",
         "effects": [
             "Deals 330% damage to the target and nearby enemies.",
             "The target and nearby enemies get -30% accuracy for 3 turns. The accuracy decreases by -10% each turn, up to -50%.",
@@ -5845,8 +5859,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 608,
-        "name": "星瞳 (Starlass)",
+        "originalIndex": 609,
+        "name": "Starlass",
         "effects": [
             "This Special Skill never misses its targets.",
             "Deals 550% damage to target and nearby enemies",
@@ -5854,8 +5868,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 609,
-        "name": "孙二娘 (Sun Erniang)",
+        "originalIndex": 610,
+        "name": "Sun Erniang",
         "effects": [
             "Casts one of the following Special Skill:",
             "If any enemy has the Bleed status ailment:",
@@ -5870,8 +5884,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 610,
-        "name": "苏涅 (Sune)",
+        "originalIndex": 611,
+        "name": "Sune",
         "effects": [
             "Deals 550% damage to the target.",
             "If the target is of Ice element, deals 300% damage to nearby enemies.",
@@ -5881,8 +5895,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 611,
-        "name": "鳞梭鱼 (Suomuhauki)",
+        "originalIndex": 612,
+        "name": "Suomuhauki",
         "effects": [
             "Deals 400% damage to the target.",
             "Summons a Pike Mega Fiend for the target. The Fiend damages the enemy with 270% attack every turn. Deals strong damage against Fire characters.",
@@ -5891,8 +5905,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 612,
-        "name": "为朝 (Tametomo)",
+        "originalIndex": 613,
+        "name": "Tametomo",
         "effects": [
             "Special Skill has a different effect when charged with 100%/200%/300% mana:",
             "x1 Mana Charge:",
@@ -5913,24 +5927,24 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 613,
-        "name": "塔拉克 (Tarlak)",
+        "originalIndex": 614,
+        "name": "Tarlak",
         "effects": [
             "All allies get +100% normal attack for 4 turns. Stacks with similar status effects up to a maximum of +160% normal attack.",
             "All allies regenerate 324 HP over 4 turns."
         ]
     },
     {
-        "originalIndex": 614,
-        "name": "塔拉克 (Tarlak) C1",
+        "originalIndex": 615,
+        "name": "Tarlak C1",
         "effects": [
             "Boosts health for all allies by 470. Boosted health can exceed max HP.",
             "All allies get +80% normal attack for 5 turns. The normal attack is increased by +20% each turn. This effect can be active with addition to effect that alter attack in general. Normal attacks can have a total maximum of +160% increased power while this effect is active."
         ]
     },
     {
-        "originalIndex": 615,
-        "name": "泰迪 (Teddy)",
+        "originalIndex": 616,
+        "name": "Teddy",
         "effects": [
             "Deals 180% damage to all enemies.",
             "All enemies fall asleep.",
@@ -5941,8 +5955,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 616,
-        "name": "特鲁利亚 (Telluria)",
+        "originalIndex": 617,
+        "name": "Telluria",
         "effects": [
             "Deals 160% damage to all enemies.",
             "Summons a Forest Familiar Minion for all allies with 15% HP and 15% attack inherited from the caster.",
@@ -5952,8 +5966,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 617,
-        "name": "特罗纽斯 (Telonius)",
+        "originalIndex": 618,
+        "name": "Telonius",
         "effects": [
             "Special Skill has a different effect when charged with 100%/200% mana:",
             "1x Mana Charge:",
@@ -5965,8 +5979,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 618,
-        "name": "塔弗 (Thaffer)",
+        "originalIndex": 619,
+        "name": "Thaffer",
         "effects": [
             "The caster steals 25% mana from the target.",
             "Deals 375% damage to the target and 4 random enemies.",
@@ -5974,16 +5988,16 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 619,
-        "name": "疯帽子 (The Hatter)",
+        "originalIndex": 620,
+        "name": "The Hatter",
         "effects": [
             "Deals 400% damage to the target and minor damage to nearby enemies",
             "Steals all the dispellable buffs from all enemies and randomly allocates them on all allies"
         ]
     },
     {
-        "originalIndex": 620,
-        "name": "疯帽子 (The Hatter) C1",
+        "originalIndex": 621,
+        "name": "The Hatter C1",
         "effects": [
             "Deals 400% damage to the target and minor damage to nearby enemies.",
             "Steals all the dispellable buffs from all enemies and randomly allocates them on the allies.",
@@ -5991,8 +6005,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 621,
-        "name": "狄奥多西 (Theodosius)",
+        "originalIndex": 622,
+        "name": "Theodosius",
         "effects": [
             "Deals 450% damage to all enemies.",
             "Reduces the duration of all allies’ active status ailments by 3 turn. (The duration reduction affects both cleansable and uncleansable status ailments. If the duration on any ailment is reduced to zero, the effect is considered as having expired naturally.)",
@@ -6002,8 +6016,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 622,
-        "name": "托克斯坎德拉 (Toxicandra)",
+        "originalIndex": 623,
+        "name": "Toxicandra",
         "effects": [
             "Recovers 30% health for all allies.",
             "All allies regenerate a moderate amount of mana over 3 turns.",
@@ -6011,8 +6025,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 623,
-        "name": "托克斯坎德拉 (Toxicandra) C1",
+        "originalIndex": 624,
+        "name": "Toxicandra C1",
         "effects": [
             "Boosts health of all allies by 750. Boosted health can exceed max HP.",
             "All allies regenerate a moderate amount of mana over 3 turns.",
@@ -6020,24 +6034,24 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 624,
-        "name": "万奈摩宁 (Vainamoinen)",
+        "originalIndex": 625,
+        "name": "Vainamoinen",
         "effects": [
             "Deals 270% damage to the target and nearby enemies.",
             "All enemies get -30% accuracy for 3 turns. Against Fire characters, this status effect becomes uncleansable and lasts 2 turns longer. Chance to miss also applies to offensive Special Skills."
         ]
     },
     {
-        "originalIndex": 625,
-        "name": "万奈摩宁 (Vainamoinen) C1",
+        "originalIndex": 626,
+        "name": "Vainamoinen C1",
         "effects": [
             "Deals 300% damage to the target and nearby enemies.",
             "All enemies get -25% accuracy for 3 turns. Against Fire characters, this status effect becomes uncleansable and lasts 2 turns longer. Chance to miss also applies to offensive Special Skills."
         ]
     },
     {
-        "originalIndex": 626,
-        "name": "维迪古 (Verdigoo)",
+        "originalIndex": 627,
+        "name": "Verdigoo",
         "effects": [
             "Deals 380% damage to the target and nearby enemies.",
             "All allies get Sticky Surface for 3 turns. This effect can’t be dispelled.",
@@ -6045,8 +6059,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 627,
-        "name": "韦鲁斯 (Verus)",
+        "originalIndex": 628,
+        "name": "Verus",
         "effects": [
             "Attacks all enemies with Moonrise Strike, dealing up to 1200 damage. Deals 40% more damage if the target is Holy.",
             "All enemies receive 924 Bleed damage over 4 turns.",
@@ -6054,8 +6068,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 628,
-        "name": "维赛勒斯 (Viselus)",
+        "originalIndex": 629,
+        "name": "Viselus",
         "effects": [
             "Destroys all Minions from the target and nearby enemies. This effect damages Mega Minions.",
             "Deals 340% damage to the target and nearby enemies.",
@@ -6064,8 +6078,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 629,
-        "name": "威妮弗蕾德 (Winifred)",
+        "originalIndex": 630,
+        "name": "Winifred",
         "effects": [
             "Deals 550% damage to the target.",
             "The attack chains through all the enemies who are adjacent to any hit enemy and deals minor damage.",
@@ -6074,8 +6088,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 630,
-        "name": "赞德瑞拉 (Xandrella)",
+        "originalIndex": 631,
+        "name": "Xandrella",
         "effects": [
             "Deals 450% damage to target and all Ice enemies.",
             "Automatically does 438 damage to the target and all Ice enemies, when their mana is full and reduces their mana by 50% for 4 turns.",
@@ -6083,8 +6097,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 631,
-        "name": "夏玛拉 (Xiamara)",
+        "originalIndex": 632,
+        "name": "Xiamara",
         "effects": [
             "Deals 300% damage to all enemies.",
             "The caster gets additional +100% power for the next Special Skill they cast. The additional power increases +25% each turn, up to a maximum of +200% in total.",
@@ -6092,8 +6106,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 632,
-        "name": "小青 (Xiaoqing)",
+        "originalIndex": 633,
+        "name": "Xiaoqing",
         "effects": [
             "Recovers 40% health for all allies.",
             "Lifts the latest cleansable status ailment from all allies and randomly distributes them on enemies.",
@@ -6101,8 +6115,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 633,
-        "name": "克沙赫尔 (Xshahr)",
+        "originalIndex": 634,
+        "name": "Xshahr",
         "effects": [
             "Deals 610% damage to the target.",
             "Boosts the caster's health by 40% of damage dealt.",
@@ -6111,8 +6125,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 634,
-        "name": "尤纳恩 (Yunan)",
+        "originalIndex": 635,
+        "name": "Yunan",
         "effects": [
             "Deals 200% damage to all enemies",
             "All enemies receive 381 damage over 3 turns",
@@ -6121,8 +6135,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 635,
-        "name": "尤纳恩 (Yunan) C1",
+        "originalIndex": 636,
+        "name": "Yunan C1",
         "effects": [
             "Deals 215% damage to all enemies.",
             "All enemies receive 815 Sand damage over 5 turns.",
@@ -6131,8 +6145,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 636,
-        "name": "扎维尼亚 (Zavinia)",
+        "originalIndex": 637,
+        "name": "Zavinia",
         "effects": [
             "Deals 450% damage to the target.",
             "Deals additional 180% damage to as many random enemies as there are Nature tiles on the board, up to a maximum of 12 hits. The damage is reduced on each consecutive hit.",
@@ -6141,8 +6155,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 637,
-        "name": "西林 (Zeline)",
+        "originalIndex": 638,
+        "name": "Zeline",
         "effects": [
             "Deals 225% damage to all enemies",
             "All enemies get -34% attack for 4 turns",
@@ -6152,8 +6166,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 638,
-        "name": "西林 (Zeline) C1",
+        "originalIndex": 639,
+        "name": "Zeline C1",
         "effects": [
             "Dispels buffs from all enemies.",
             "Deals 210% damage to all enemies.",
@@ -6163,8 +6177,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 639,
-        "name": "佐卡 (Zocc)",
+        "originalIndex": 640,
+        "name": "Zocc",
         "effects": [
             "Deals 320% damage to the target",
             "Increases the mana of the target by 50%",
@@ -6173,8 +6187,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 640,
-        "name": "祖妮 (Zuni)",
+        "originalIndex": 641,
+        "name": "Zuni",
         "effects": [
             "Deals 300% damage to the target.",
             "If the target is of Ice element, deals 275% damage to all other enemes.",
@@ -6183,121 +6197,121 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 641,
-        "name": "弗莱彻 (Fletcher)",
+        "originalIndex": 642,
+        "name": "Fletcher",
         "effects": [
             "Deals 265% damage to the target"
         ]
     },
     {
-        "originalIndex": 642,
-        "name": "夜影 (Nightshade)",
-        "effects": [
-            "Deals 250% damage to the target"
-        ]
-    },
-    {
         "originalIndex": 643,
-        "name": "朱利叶斯 (Julius)",
+        "name": "Nightshade",
         "effects": [
             "Deals 250% damage to the target"
         ]
     },
     {
         "originalIndex": 644,
-        "name": "蕾拉 (Layla)",
+        "name": "Julius",
+        "effects": [
+            "Deals 250% damage to the target"
+        ]
+    },
+    {
+        "originalIndex": 645,
+        "name": "Layla",
         "effects": [
             "The target receives 78 damage over 6 turns"
         ]
     },
     {
-        "originalIndex": 645,
-        "name": "希利苏斯 (Silthus)",
+        "originalIndex": 646,
+        "name": "Silthus",
         "effects": [
             "All allies get +48% attack for 4 turns"
         ]
     },
     {
-        "originalIndex": 646,
-        "name": "阿德琳 (Aderyn)",
+        "originalIndex": 647,
+        "name": "Aderyn",
         "effects": [
             "Recovers 32% health for all allies.",
             "All enemies get -50% decrease for any healing received for 4 turns."
         ]
     },
     {
-        "originalIndex": 647,
-        "name": "安文德尔 (An-Windr)",
+        "originalIndex": 648,
+        "name": "An-Windr",
         "effects": [
             "The caster gets +45% attack, and a further 20% increase every time they or any of their allies are hit during 3 turns. When the effect ends, all enemies receive 119 damage. Each hit on the caster or their allies during the duration increases the damage by 8 to a maximum of 215 damage."
         ]
     },
     {
-        "originalIndex": 648,
-        "name": "阿奎拉 (Aqeela)",
+        "originalIndex": 649,
+        "name": "Aqeela",
         "effects": [
             "Deals 155% damage to the target and nearby enemies.",
             "The caster and nearby allies get +45% chance to dodge Special Skills for 3 turns. Each dodge gives +5% defense stack (Max: 10)."
         ]
     },
     {
-        "originalIndex": 649,
-        "name": "阿奎拉 (Aqeela) C1",
+        "originalIndex": 650,
+        "name": "Aqeela C1",
         "effects": [
             "Deals 145% damage to the target and nearby enemies.",
             "The caster and nearby allies get +45% chance to dodge Special Skills for 3 turns. Each dodge gives +10% defense stack (Max: 10)."
         ]
     },
     {
-        "originalIndex": 650,
-        "name": "巴特萨 (Balthazar)",
+        "originalIndex": 651,
+        "name": "Balthazar",
         "effects": [
             "Deals 335% damage to the target"
         ]
     },
     {
-        "originalIndex": 651,
-        "name": "巴特萨 (Balthazar) C1",
+        "originalIndex": 652,
+        "name": "Balthazar C1",
         "effects": [
             "Deals 315% damage to the target",
             "The target receives 60 Poison damage over 3 turns"
         ]
     },
     {
-        "originalIndex": 652,
-        "name": "巴特萨 (Balthazar) 卡通",
+        "originalIndex": 653,
+        "name": "Balthazar Toon",
         "effects": [
             "Deals 365% damage to the target.",
             "Deals extra damage if the target is Holy."
         ]
     },
     {
-        "originalIndex": 653,
-        "name": "巴特萨 (Balthazar) 玻璃",
+        "originalIndex": 654,
+        "name": "Balthazar Glass",
         "effects": [
             "Deals 375% damage to the target.",
             "The attack bypasses defensive buffs. (This includes counterattacks.)"
         ]
     },
     {
-        "originalIndex": 654,
-        "name": "贝第 (Betty)",
+        "originalIndex": 655,
+        "name": "Betty",
         "effects": [
             "Deals 210% damage to target and nearby enemies.",
             "Nearby allies receive Softskin. (The next time they receive damage, it is reduced by -90%, and they resist all status ailment and mana reduction. This effect can’t be dispelled.)"
         ]
     },
     {
-        "originalIndex": 655,
-        "name": "比约恩 (Bjorn)",
+        "originalIndex": 656,
+        "name": "Bjorn",
         "effects": [
             "Deals 200% damage to the target.",
             "Deals 350% damage to a random different enemy. Deals extra damage if the target is Holy. This effect targets the same enemy as the first hit if there are no other valid targets."
         ]
     },
     {
-        "originalIndex": 656,
-        "name": "比约恩 (Bjorn) C1",
+        "originalIndex": 657,
+        "name": "Bjorn C1",
         "effects": [
             "Deals 180% damage to the target.",
             "Deals 380% damage to a random different enemy.",
@@ -6305,31 +6319,31 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 657,
-        "name": "布达廷 (Budatin)",
+        "originalIndex": 658,
+        "name": "Budatin",
         "effects": [
             "Alters the power of all Dark shields on the board. When an attacking Hero casts the special, the shields become enhanced and give +37% more mana. When a defending Hero casts the special, the shields become weakened and give -30% less mana."
         ]
     },
     {
-        "originalIndex": 658,
-        "name": "提灯 (Chochin)",
+        "originalIndex": 659,
+        "name": "Chochin",
         "effects": [
             "Deals 215% damage to the target and nearby enemies.",
             "The target and nearby enemies get -24% mana generation for 3 turns."
         ]
     },
     {
-        "originalIndex": 659,
-        "name": "艾德 (Edd)",
+        "originalIndex": 660,
+        "name": "Edd",
         "effects": [
             "Deal 335% damage to the target.",
             "The target is immune to new status effect buffs for 3 turns."
         ]
     },
     {
-        "originalIndex": 660,
-        "name": "鳃拉 (Gill-Ra)",
+        "originalIndex": 661,
+        "name": "Gill-Ra",
         "effects": [
             "All enemies get -34% defense for 4 turns.",
             "All enemies get -34% attack for 4 turns.",
@@ -6337,8 +6351,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 661,
-        "name": "鳃拉 (Gill-Ra) C1",
+        "originalIndex": 662,
+        "name": "Gill-Ra C1",
         "effects": [
             "All allies get +25% defense for 4 turns.",
             "All allies get +25% attack for 4 turns.",
@@ -6346,8 +6360,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 662,
-        "name": "格留 (Greel)",
+        "originalIndex": 663,
+        "name": "Greel",
         "effects": [
             "Deals 210% damage to all enemies.",
             "Deals 315% damage if the target has less than 50% health remaining.",
@@ -6355,24 +6369,24 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 663,
-        "name": "蝙蝠守护者 (Guardian Bat)",
+        "originalIndex": 664,
+        "name": "Guardian Bat",
         "effects": [
             "Deals 270% damage to the target and minor damage to nearby enemies.",
             "The damage is increased by 50% per each dead ally."
         ]
     },
     {
-        "originalIndex": 664,
-        "name": "杰克 (Jack)",
+        "originalIndex": 665,
+        "name": "Jack",
         "effects": [
             "Deals 200% damage to the target.",
             "The target receieves a Pumpkin Bomb. After 3 turns the Pumpkin Bomb explodes and deals 206 damage to the target and nearby targets. The Pumpkin Bomb also explodes when the target is defeated."
         ]
     },
     {
-        "originalIndex": 665,
-        "name": "梅芙 (Maeve)",
+        "originalIndex": 666,
+        "name": "Maeve",
         "effects": [
             "Deals 260% damage to the target and nearby enemies.",
             "The target and nearby enemies get -44% defenese for 4 turns.",
@@ -6381,8 +6395,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 666,
-        "name": "摩根奈特 (Morganite)",
+        "originalIndex": 667,
+        "name": "Morganite",
         "effects": [
             "Special Skill has a different effect when charged with 100%/200%/300% mana:",
             "x1 Mana Charge:",
@@ -6397,8 +6411,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 667,
-        "name": "毛里斯 (Morris)",
+        "originalIndex": 668,
+        "name": "Morris",
         "effects": [
             "Removes all status effects and stacks from the caster. Removes even status effects and stacsk that are otherwise undispellable or uncleansable.",
             "Caster digs a hole and hides in it for 2 turns.",
@@ -6409,8 +6423,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 668,
-        "name": "毛里斯 (Morris) C1",
+        "originalIndex": 669,
+        "name": "Morris C1",
         "effects": [
             "Removes all status effects and stacks from the caster. Removes even those status effects and stacks that are otherwise undispellable or uncleansable.",
             "Caster digs a hole and hides in it for 3 turns.",
@@ -6421,23 +6435,23 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 669,
-        "name": "奥伯伦 (Oberon)",
+        "originalIndex": 670,
+        "name": "Oberon",
         "effects": [
             "Deals 121% damage to all enemies.",
             "All enemies receive 102 damage over 6 turns."
         ]
     },
     {
-        "originalIndex": 670,
-        "name": "奥伯伦 (Oberon) C1",
+        "originalIndex": 671,
+        "name": "Oberon C1",
         "effects": [
             "All enemies receive 324 Poison damage over 3 turns.  This effect can't be cleased."
         ]
     },
     {
-        "originalIndex": 671,
-        "name": "奥伯伦 (Oberon) 卡通",
+        "originalIndex": 672,
+        "name": "Oberon Toon",
         "effects": [
             "Deals 151% damage to all enemies.",
             "All enemies receive 76 damage over 6 turns.",
@@ -6445,8 +6459,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 672,
-        "name": "奥伯伦 (Oberon) 玻璃",
+        "originalIndex": 673,
+        "name": "Oberon Glass",
         "effects": [
             "Deals 161% damage to all enemies.",
             "The attack bypasses defensive buffs. (This includes counterattacks.)",
@@ -6454,32 +6468,32 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 673,
-        "name": "帕拉 (Para)",
+        "originalIndex": 674,
+        "name": "Para",
         "effects": [
             "Recovers 32% health for all allies.",
             "All enemies get -24% attack for 4 turns. Against Holy characters, this status effect becomes uncleansable and lasts 2 turns longer."
         ]
     },
     {
-        "originalIndex": 674,
-        "name": "普利斯卡 (Prisca)",
+        "originalIndex": 675,
+        "name": "Prisca",
         "effects": [
             "Deals 235% damage to the target.",
             "Heals the caster for 50% of damage dealt."
         ]
     },
     {
-        "originalIndex": 675,
-        "name": "普利斯卡 (Prisca) C1",
+        "originalIndex": 676,
+        "name": "Prisca C1",
         "effects": [
             "Deals 205% damage to the target and minor damage to nearby enemies.",
             "Heals the caster for 30% of the damage dealt."
         ]
     },
     {
-        "originalIndex": 676,
-        "name": "普利斯卡 (Prisca) 卡通",
+        "originalIndex": 677,
+        "name": "Prisca Toon",
         "effects": [
             "Deals 265% damage to the target.",
             "Heals the caster for 45% of damage dealt.",
@@ -6487,8 +6501,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 677,
-        "name": "普利斯卡 (Prisca) 玻璃",
+        "originalIndex": 678,
+        "name": "Prisca Glass",
         "effects": [
             "Deals 275% damage to the target.",
             "The attack bypasses defensive buffs.(This includes counterattacks.)",
@@ -6496,24 +6510,24 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 678,
-        "name": "雷恩菲尔德 (Renfeld)",
+        "originalIndex": 679,
+        "name": "Renfeld",
         "effects": [
             "Deals 215% damage to the target.",
             "Heals the caster for 50% of damage dealt."
         ]
     },
     {
-        "originalIndex": 679,
-        "name": "雷恩菲尔德 (Renfeld) C1",
+        "originalIndex": 680,
+        "name": "Renfeld C1",
         "effects": [
             "Deals 195% damage to the target.",
             "The caster steals generated mana of the target and the nearby enemies over 4 turns starting low and increasing every turn until on the last turn all the generated mana is stolen.  This effect can't be cleansed, but it gets removed if the caster dies."
         ]
     },
     {
-        "originalIndex": 680,
-        "name": "雷恩菲尔德 (Renfeld) 卡通",
+        "originalIndex": 681,
+        "name": "Renfeld Toon",
         "effects": [
             "Deals 245% damage to the target.",
             "Heals the caster for 40% of damage dealt.",
@@ -6521,8 +6535,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 681,
-        "name": "雷恩菲尔德 (Renfeld) 玻璃",
+        "originalIndex": 682,
+        "name": "Renfeld Glass",
         "effects": [
             "Deals 255% damage to the target.",
             "The attack bypasses defensive buffs. (This includes counterattacks.)",
@@ -6530,8 +6544,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 682,
-        "name": "树威尔 (Treevil)",
+        "originalIndex": 683,
+        "name": "Treevil",
         "effects": [
             "Deals 280% damage to all enemies.",
             "All enemies get -34% attack for 6 turns.",
@@ -6540,24 +6554,24 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 683,
-        "name": "泰伦 (Tyrum)",
+        "originalIndex": 684,
+        "name": "Tyrum",
         "effects": [
             "Deal 310% damage to the target.",
             "Dispels buffs from all enemies."
         ]
     },
     {
-        "originalIndex": 684,
-        "name": "泰伦 (Tyrum) C1",
+        "originalIndex": 685,
+        "name": "Tyrum C1",
         "effects": [
             "Deal 310% damage to the target.",
             "Cleanses status ailments from all allies."
         ]
     },
     {
-        "originalIndex": 685,
-        "name": "泰伦 (Tyrum) 卡通",
+        "originalIndex": 686,
+        "name": "Tyrum Toon",
         "effects": [
             "Deals 315% damage to the target.",
             "Deals extra damage against Holy.",
@@ -6565,8 +6579,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 686,
-        "name": "昂伏斯 (Unferth)",
+        "originalIndex": 687,
+        "name": "Unferth",
         "effects": [
             "Deals 250% damage to the target.",
             "Deals 300% damage if the target has more than 70% health remaining.",
@@ -6576,32 +6590,32 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 687,
-        "name": "弗拉德 (Vlad)",
+        "originalIndex": 688,
+        "name": "Vlad",
         "effects": [
             "The target receives 65 Surge Bleed damage over 5 turns. (If a target already has this effect, the duration will be refreshed and the damage will be increased by 115. Max total damage 295.)",
             "The caster steals 61% of any healing applied to the target for 3 turns."
         ]
     },
     {
-        "originalIndex": 688,
-        "name": "爱赫特波 (Ahhotep)",
+        "originalIndex": 689,
+        "name": "Ahhotep",
         "effects": [
             "Deals 340% damage to the target and minor damage to nearby enemies.",
             "If the target is defeated in the next 3 turns, all caster’s allies get +20 mana."
         ]
     },
     {
-        "originalIndex": 689,
-        "name": "爱赫特波 (Ahhotep) C1",
+        "originalIndex": 690,
+        "name": "Ahhotep C1",
         "effects": [
             "Deals 370% damage to the target and minor damage to nearby enemies.",
             "If the target is defeated in the next 3 turns, all caster’s allies get +15% mana."
         ]
     },
     {
-        "originalIndex": 690,
-        "name": "雨女 (Ameonna)",
+        "originalIndex": 691,
+        "name": "Ameonna",
         "effects": [
             "Casts Full Removal on the caster.",
             "The caster shifts into Ghost Form for 4 turns.",
@@ -6609,8 +6623,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 691,
-        "name": "雨女 (Ameonna) C1",
+        "originalIndex": 692,
+        "name": "Ameonna C1",
         "effects": [
             "Casts Full Removal on the caster.",
             "The caster shifts into Ghost Form for 4 turns. While in Ghost form Character can't gain mana and can't be healed by Special Skills, but is immune to normal attacks, Special Skill attacks, damage dealing passives, status effects and stacks. Immune to new Growth and Wither effects.",
@@ -6619,8 +6633,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 692,
-        "name": "紫晶 (Ametrine)",
+        "originalIndex": 693,
+        "name": "Ametrine",
         "effects": [
             "1x Mana Charge",
             "* Dispels buffs from the target",
@@ -6634,8 +6648,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 693,
-        "name": "安娜·贝尔 (Ana-Belle)",
+        "originalIndex": 694,
+        "name": "Ana-Belle",
         "effects": [
             "Dispels and cleanses all buffs and status ailments from all allies and enemies.",
             "Recovers 45% heath for all allies.",
@@ -6643,8 +6657,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 694,
-        "name": "安娜·贝尔 (Ana-Belle) C1",
+        "originalIndex": 695,
+        "name": "Ana-Belle C1",
         "effects": [
             "Dispels and cleanses all buffs and status ailment from all allies and enemies.",
             "Recovers 43% heath for all allies.",
@@ -6652,8 +6666,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 695,
-        "name": "阿尔吉斯 (Arges)",
+        "originalIndex": 696,
+        "name": "Arges",
         "effects": [
             "Special Skill has a different effect when charged with 100% / 200% / 300% mana:",
             "1x Mana Charge:",
@@ -6669,16 +6683,16 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 696,
-        "name": "炸弹魔 (Boomer)",
+        "originalIndex": 697,
+        "name": "Boomer",
         "effects": [
             "Deals 204% damage to all enemies",
             "The caster and nearby allies get +94% defense against Holy for 3 turns"
         ]
     },
     {
-        "originalIndex": 697,
-        "name": "柴郡猫 (Cheshire Cat)",
+        "originalIndex": 698,
+        "name": "Cheshire Cat",
         "effects": [
             "Rearranges the enemy positions randomly",
             "All holy enemies get -44% defense for 4 turns",
@@ -6686,8 +6700,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 698,
-        "name": "柴郡猫 (Cheshire Cat) C1",
+        "originalIndex": 699,
+        "name": "Cheshire Cat C1",
         "effects": [
             "Rearranges the enemy positions randomly.",
             "All Holy enemies get -34% defense for 4 turns.",
@@ -6695,8 +6709,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 699,
-        "name": "小蛋糕 (Cupcake)",
+        "originalIndex": 700,
+        "name": "Cupcake",
         "effects": [
             "Steals Minions from the target.",
             "Deals 400% damage to the target.",
@@ -6704,22 +6718,22 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 700,
-        "name": "塞普里恩 (Cyprian)",
+        "originalIndex": 701,
+        "name": "Cyprian",
         "effects": [
             "The caster and nearby allies counterattack with 125% of the damage received for 5 turns"
         ]
     },
     {
-        "originalIndex": 701,
-        "name": "塞普里恩 (Cyprian) C1",
+        "originalIndex": 702,
+        "name": "Cyprian C1",
         "effects": [
             "All allies counterattack with 60% of the damage received for 4 turns."
         ]
     },
     {
-        "originalIndex": 702,
-        "name": "塞普里恩 (Cyprian) C2",
+        "originalIndex": 703,
+        "name": "Cyprian C2",
         "effects": [
             "The caster and nearby allies counterattack with 80% of the damage received for 4 turns.",
             "The caster and nearby allies regenerate a moderate amount of mana for each counterattack for 4 turns. The effect gets diminished for consecutive activations during the same turn.",
@@ -6727,23 +6741,23 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 703,
-        "name": "塞普里恩 (Cyprian) 卡通",
+        "originalIndex": 704,
+        "name": "Cyprian Toon",
         "effects": [
             "The caster and nearby allies counterattack with 125% of the damage received for 5 turns. This status effect is undispellable and lasts 2 turns longer on Dark characters."
         ]
     },
     {
-        "originalIndex": 704,
-        "name": "塞普里恩 (Cyprian) 玻璃",
+        "originalIndex": 705,
+        "name": "Cyprian Glass",
         "effects": [
             "The caster and nearby allies counterattack with 125% of the damage received for 5 turns.",
             "All Dark allies reflect status ailments and negative stacks for 2 turns. (Status effect cast by characters, Minions and Fiends on the same side cannot be reflected.)"
         ]
     },
     {
-        "originalIndex": 705,
-        "name": "迪基 (Dizzy)",
+        "originalIndex": 706,
+        "name": "Dizzy",
         "effects": [
             "Deals 250% damage to the target and nearby enemies.",
             "Summons an Elf Minion for the caster and nearby allies with 10% HP and 10% attack inherited from the caster.",
@@ -6751,8 +6765,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 706,
-        "name": "福克斯格洛夫 (Foxglove)",
+        "originalIndex": 707,
+        "name": "Foxglove",
         "effects": [
             "Deals 255% damage to the target and nearby enemies.",
             "The target and nearby enemies receive lasting 97 Poison damage per turn. (This effect lasts until it is cleansed, replaced or removed.)",
@@ -6760,8 +6774,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 707,
-        "name": "芙拉 (Fura)",
+        "originalIndex": 708,
+        "name": "Fura",
         "effects": [
             "Deals 150% damage to all enemies.",
             "Reduces max health of all enemies by 100. The effect is stronger against targets with boosted health. Max health can’t get lower than 30% of the original max health. Any boosted health is reduced by an additional 100.",
@@ -6769,8 +6783,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 708,
-        "name": "芙拉 (Fura) C1",
+        "originalIndex": 709,
+        "name": "Fura C1",
         "effects": [
             "Deals 280% damage to the target and nearby enemies.",
             "Reduces the mana of the target and the nearby enemies by 15%.",
@@ -6778,8 +6792,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 709,
-        "name": "贾法尔 (Gafar)",
+        "originalIndex": 710,
+        "name": "Gafar",
         "effects": [
             "Deals 260% damage to the target.",
             "The target receives 228 damage over 4 turns.",
@@ -6788,8 +6802,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 710,
-        "name": "黑风怪 (Heifeng Guai)",
+        "originalIndex": 711,
+        "name": "Heifeng Guai",
         "effects": [
             "Deals 285% damage to target",
             "The duration of dispellable status ailments is reset for the target.",
@@ -6797,8 +6811,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 711,
-        "name": "因戈尔夫 (Ingolf)",
+        "originalIndex": 712,
+        "name": "Ingolf",
         "effects": [
             "Deals 280% damage to all enemies",
             "Reduces the duration of all enemies active buffs by 1 turn.",
@@ -6806,8 +6820,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 712,
-        "name": "贾巴尔 (Jabbar)",
+        "originalIndex": 713,
+        "name": "Jabbar",
         "effects": [
             "Deals 235% damage to the target and minor damage to nearby enemies.",
             "The target and nearby enemies receive 172 damage over 4 turns.",
@@ -6816,8 +6830,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 713,
-        "name": "朱利安尼 (Juliani)",
+        "originalIndex": 714,
+        "name": "Juliani",
         "effects": [
             "This Special Skill never misses its targets.",
             "Attacks the target and nearby enemies with Moonrise Strike dealing up to 860 damage. Deals 30% more damage if the target is Holy.",
@@ -6825,8 +6839,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 714,
-        "name": "凯蒂 (Kitty)",
+        "originalIndex": 715,
+        "name": "Kitty",
         "effects": [
             "All allies regenerate 450 boosted health over 3 turns. Boosted health can exceed max HP.",
             "All allies reflect status ailments to a random character on the opposing team for 3 turns. Only cleansable status ailments are reflected.",
@@ -6834,8 +6848,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 715,
-        "name": "科达 (Koda)",
+        "originalIndex": 716,
+        "name": "Koda",
         "effects": [
             "Deals 400% damage to the target.",
             "The target gets -35% defense for 3 turns.",
@@ -6843,8 +6857,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 716,
-        "name": "莱克茜 (Lexi)",
+        "originalIndex": 717,
+        "name": "Lexi",
         "effects": [
             "The caster and nearby allies become Soul onnected for received damage with  each other for 4 turns. Soul Connected allies share received damage.",
             "The target and nearby enemies become Soul Connected for 4 turns. Soul Cibbected enemies share received damage.",
@@ -6853,16 +6867,16 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 717,
-        "name": "梅朵 (Meadow)",
+        "originalIndex": 718,
+        "name": "Meadow",
         "effects": [
             "Deals 265% damage to the target.",
             "The target receives 402 Poison damage over 3 turns, starting low and increasing with every turn."
         ]
     },
     {
-        "originalIndex": 718,
-        "name": "梅林 (Merlin)",
+        "originalIndex": 719,
+        "name": "Merlin",
         "effects": [
             "Deals 220% damage to the target",
             "The more mana the enemies have,the more damage they will receive, up to 250%",
@@ -6870,8 +6884,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 719,
-        "name": "梅林 (Merlin) C1",
+        "originalIndex": 720,
+        "name": "Merlin C1",
         "effects": [
             "Deals 210% damage to the target and nearby enemies.",
             "The more mana the enemies have, the more damage they will receive, up to 270%.",
@@ -6879,32 +6893,32 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 720,
-        "name": "普罗透斯 (Proteus)",
+        "originalIndex": 721,
+        "name": "Proteus",
         "effects": [
             "The target and nearby enemies receive 327 Poison damage over 3 turns.",
             "The target and nearby enemies can't gain mana for 3 turns."
         ]
     },
     {
-        "originalIndex": 721,
-        "name": "普罗透斯 (Proteus) C1",
+        "originalIndex": 722,
+        "name": "Proteus C1",
         "effects": [
             "All enemies receive 324 Poison damage over 2 turns.",
             "All enemies get -50% mana generation for 4 turns."
         ]
     },
     {
-        "originalIndex": 722,
-        "name": "里加 (Rigard)",
+        "originalIndex": 723,
+        "name": "Rigard",
         "effects": [
             "Recover 42% health for all allies",
             "Cleanses status ailments from all allies"
         ]
     },
     {
-        "originalIndex": 723,
-        "name": "里加 (Rigard) C1",
+        "originalIndex": 724,
+        "name": "Rigard C1",
         "effects": [
             "All allies regenerate 609 HP over 3 turns",
             "All allies get +48% attack for 3 turns",
@@ -6912,8 +6926,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 724,
-        "name": "里加 (Rigard) C2",
+        "originalIndex": 725,
+        "name": "Rigard C2",
         "effects": [
             "Boosts health of all allies by 410. Boosted health can exceed max HP.",
             "All allies get +40% defense for 3 turns.",
@@ -6921,8 +6935,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 725,
-        "name": "里加 (Rigard) 卡通",
+        "originalIndex": 726,
+        "name": "Rigard Toon",
         "effects": [
             "Recovers 45% health for all allies.",
             "All allies get +34% defense for 3 turns. This status effect is undispellable and lasts 2 turns longer on Dark characters.",
@@ -6930,8 +6944,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 726,
-        "name": "里加 (Rigard) 玻璃",
+        "originalIndex": 727,
+        "name": "Rigard Glass",
         "effects": [
             "Recovers 47% health for all allies.",
             "All Dark allies reflect status ailments and negative stacks for 2 turns. (Status effect cast by characters, Minions and Fiends on the same side cannot be reflected.)",
@@ -6939,16 +6953,16 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 727,
-        "name": "萨拜娜 (Sabina)",
+        "originalIndex": 728,
+        "name": "Sabina",
         "effects": [
             "Recovers 42% health for all allies",
             "Dispels buffs from all enemies"
         ]
     },
     {
-        "originalIndex": 728,
-        "name": "萨拜娜 (Sabina) C1",
+        "originalIndex": 729,
+        "name": "Sabina C1",
         "effects": [
             "All allies regenerate 609 HP over 3 turns",
             "All enemies are immune to new buffs for 3 turns",
@@ -6956,8 +6970,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 729,
-        "name": "萨拜娜 (Sabina) C2",
+        "originalIndex": 730,
+        "name": "Sabina C2",
         "effects": [
             "All allies regenerate 609 HP over 3 turns.",
             "All allies are immune to new status ailments for 3 turns.",
@@ -6965,8 +6979,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 730,
-        "name": "萨拜娜 (Sabina) 卡通",
+        "originalIndex": 731,
+        "name": "Sabina Toon",
         "effects": [
             "Recovers 45% health for all allies.",
             "All allies get +34% defense for 3 turns. This status effect is undispellable and lasts 2 turns longer on Dark characters.",
@@ -6974,8 +6988,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 731,
-        "name": "萨拜娜 (Sabina) 玻璃",
+        "originalIndex": 732,
+        "name": "Sabina Glass",
         "effects": [
             "Recovers 46% health for all allies.",
             "All Dark allies reflect status ailments and negative stacks for 2 turns.",
@@ -6983,8 +6997,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 732,
-        "name": "谢尔盖 (Sergei)",
+        "originalIndex": 733,
+        "name": "Sergei",
         "effects": [
             "Special Skill has a different effect when charged with 100%/200% mana:",
             "1x Mana Charge:",
@@ -6994,8 +7008,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 733,
-        "name": "沙凯 (Shar'Khai)",
+        "originalIndex": 734,
+        "name": "Shar'Khai",
         "effects": [
             "Special Skill need consecutive uses to reach full power, the following order:",
             "1st:",
@@ -7007,8 +7021,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 734,
-        "name": "沙凯 (Shar'Khai) C1",
+        "originalIndex": 735,
+        "name": "Shar'Khai C1",
         "effects": [
             "Special Skill need consecutive uses to reach full power, the following order:",
             "1st:",
@@ -7020,8 +7034,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 735,
-        "name": "肖戈 (Shoggo)",
+        "originalIndex": 736,
+        "name": "Shoggo",
         "effects": [
             "Deals 250% damage to all and inflicts 10 Insanity on them.",
             "All enemies are immune to new status effect buffs for 4 turns.",
@@ -7029,16 +7043,16 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 736,
-        "name": "希罗布雷 (Shyombre)",
+        "originalIndex": 737,
+        "name": "Shyombre",
         "effects": [
             "Deals 250% damage to the enemies on the edges of the enemy formation. If there is only one enemy, the damage is doubled.",
             "The enemies on the edges of the enemy formation receives 220 Toxin damage over 4 turns. If Toxin is cast on a target with boosted health, Minions or Mega Minion, the Toxin damage received is increased. (The Toxin damage is increased by +100% against targets with boosted health. Each Minion or Mega Minion owned by the target increases the damage by additional +33%, up to total +199%.)"
         ]
     },
     {
-        "originalIndex": 737,
-        "name": "斯通克里夫 (Stonecleave)",
+        "originalIndex": 738,
+        "name": "Stonecleave",
         "effects": [
             "Removes all status effects and stacks from the caster. Removes even status effects and stacks that are otherwise undispellable or uncleansable.",
             "The caster shifts into Dire Ghost form.",
@@ -7048,8 +7062,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 738,
-        "name": "塔莱茜娅 (Talesie)",
+        "originalIndex": 739,
+        "name": "Talesie",
         "effects": [
             "Deals 220% damage to the target.",
             "Deals 180% damage to all enemies marked with Blood Lily.",
@@ -7057,32 +7071,32 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 739,
-        "name": "迪波特斯 (Tiburtus)",
+        "originalIndex": 740,
+        "name": "Tiburtus",
         "effects": [
             "Deals 295% damage to the target and minor damage to nearby enemies.",
             "The target and nearby enemies get -34% defense for 6 turns."
         ]
     },
     {
-        "originalIndex": 740,
-        "name": "迪波特斯 (Tiburtus) C1",
+        "originalIndex": 741,
+        "name": "Tiburtus C1",
         "effects": [
             "Deals 175% damage to all enemies.",
             "All enemies get -34% defense for 4 turns."
         ]
     },
     {
-        "originalIndex": 741,
-        "name": "迪波特斯 (Tiburtus) C2",
+        "originalIndex": 742,
+        "name": "Tiburtus C2",
         "effects": [
             "Deals 295% damage to the target and minor damage to nearby enemies.",
             "Reduces the max health of the target and nearby enemies by 600 over 4 turns. The effect is stronger against targets with boosted health. Max heath can’t get lower than 30% of the original max health. Any boosted health is reduced by an additional 150 per turn."
         ]
     },
     {
-        "originalIndex": 742,
-        "name": "迪波特斯 (Tiburtus) 卡通",
+        "originalIndex": 743,
+        "name": "Tiburtus Toon",
         "effects": [
             "Deals 325% damage to the target and minor damage to nearby enemies.",
             "The target and nearby enemies get -24% defense for 6 turns.",
@@ -7090,8 +7104,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 743,
-        "name": "迪波特斯 (Tiburtus) 玻璃",
+        "originalIndex": 744,
+        "name": "Tiburtus Glass",
         "effects": [
             "Deals 335% damage to the target and minor damage to nearby enemies.",
             "The attack bypasses defensive buffs. (This includes counterattacks.)",
@@ -7099,8 +7113,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 744,
-        "name": "酸火 (Acidfire)",
+        "originalIndex": 745,
+        "name": "Acidfire",
         "effects": [
             "Deals 355% damage to the target and nearby enemies.",
             "Wither: The target and nearby enemies get -225 attack and -225 defense.",
@@ -7108,8 +7122,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 745,
-        "name": "阿珂妮亚 (Aconia)",
+        "originalIndex": 746,
+        "name": "Aconia",
         "effects": [
             "Summons a Dagger Fiend for the target and Holy enemies. The Fiend damages its target with 250% attack every turn.",
             "The Dagger Fiend absorbs healing. It disappears after absorbing healing amount equal to 20% of its target’s max health.",
@@ -7117,8 +7131,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 746,
-        "name": "艾龙 (Aeron)",
+        "originalIndex": 747,
+        "name": "Aeron",
         "effects": [
             "All allies regenerate 1150 HP over 5 turns.",
             "The caster and nearby allies are immune to new status ailments for 5 turns. This effect can't be dispelled.",
@@ -7127,8 +7141,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 747,
-        "name": "艾龙 (Aeron) C1",
+        "originalIndex": 748,
+        "name": "Aeron C1",
         "effects": [
             "Recovers 47% health for all allies.",
             "Lifts all cleansable status ailments from the caster and nearby allies and randomly distributes them on enemies.",
@@ -7136,8 +7150,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 748,
-        "name": "阿加德 (Agadh)",
+        "originalIndex": 749,
+        "name": "Agadh",
         "effects": [
             "Deals 565% damage to the target and minor damage to nearby enemies.",
             "The target and nearby enemies receives Corrosive Poison for 3 turns. The Corrosive Poison deals 134 Poison damage and lowers the target’s mana generation by 10% each turn. Deals extra damage against heroes with Minions or a Mega Minion. (Affects only mana generated from matching tiles or mana gained by the defense team at then end of their turn.)",
@@ -7145,8 +7159,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 749,
-        "name": "阿格拉菲纳 (Agrafena)",
+        "originalIndex": 750,
+        "name": "Agrafena",
         "effects": [
             "Special Skill has a different effect when charged with 100%/200% mana:",
             "1x Mana Charge:",
@@ -7160,8 +7174,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 750,
-        "name": "阿格拉菲纳 (Agrafena) C1",
+        "originalIndex": 751,
+        "name": "Agrafena C1",
         "effects": [
             "Special Skill has a different effect when charged with 100%/200% mana:",
             "1x Mana Charge:",
@@ -7175,8 +7189,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 751,
-        "name": "阿基利乌斯 (Akilius)",
+        "originalIndex": 752,
+        "name": "Akilius",
         "effects": [
             "Steals Minions from the target.",
             "Deals 490% damage to the target.",
@@ -7185,8 +7199,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 752,
-        "name": "阿尔弗莱克 (Alfrike)",
+        "originalIndex": 753,
+        "name": "Alfrike",
         "effects": [
             "Deals 200% damage to hit targets.",
             "Casts 5 Dark Cubes to random enemies.",
@@ -7195,8 +7209,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 753,
-        "name": "阿尔弗莱克 (Alfrike) C1",
+        "originalIndex": 754,
+        "name": "Alfrike C1",
         "effects": [
             "Deals 240% damage to hit targets.",
             "Casts 5 Dark Cubes to random enemies.",
@@ -7205,8 +7219,17 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 754,
-        "name": "紫石 (Amethyst)",
+        "originalIndex": 755,
+        "name": "Amelia",
+        "effects": [
+            "Recovers 26% health for all allies.",
+            "Dispels 1 buff from all enemies. (The latest buffs are dispelled first.)",
+            "All allies except the caster get +34% chance to dodge Special Skills for 3 turns. Each dodge gives +27% attack stack(Max: 10)."
+        ]
+    },
+    {
+        "originalIndex": 756,
+        "name": "Amethyst",
         "effects": [
             "Special Skill has a different effect when charged with 100%/200%/300% mana:",
             "x1 Mana Charge:",
@@ -7224,8 +7247,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 755,
-        "name": "安诺舒卡 (Anoushka)",
+        "originalIndex": 757,
+        "name": "Anoushka",
         "effects": [
             "Recover 30% health for all allies.",
             "Steals all dispellable buffs from the target and randomly distributes them on allies.",
@@ -7237,8 +7260,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 756,
-        "name": "阿努比斯 (Anubis)",
+        "originalIndex": 758,
+        "name": "Anubis",
         "effects": [
             "Inflicts the target with Greed for 3 turns. The enemies with Greed prevent other enemies from receiving friendly effects of their allies Special Skills.",
             "All enemies receive 501 Poison damage over 3 turns.",
@@ -7246,8 +7269,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 757,
-        "name": "阿努比斯 (Anubis) C1",
+        "originalIndex": 759,
+        "name": "Anubis C1",
         "effects": [
             "Inflicts the target with Greed for 3 turns. The enemies with Greed prevent other enemies from receiving friendly effects of their allies’ Special Skills.",
             "All enemies receive 888 Poison damage over 3 turns.",
@@ -7255,8 +7278,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 758,
-        "name": "阿拉密斯 (Aramis)",
+        "originalIndex": 760,
+        "name": "Aramis",
         "effects": [
             "Deals 375% damage to the target and nearby enemies.",
             "Boosts all allies’ health by 30% of damage dealt.",
@@ -7265,8 +7288,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 759,
-        "name": "阿拉密斯 (Aramis) C1",
+        "originalIndex": 761,
+        "name": "Aramis C1",
         "effects": [
             "Deals 400% damage to the target and nearby enemies.",
             "Boosts all allies' health by 30% of damage dealt.",
@@ -7275,8 +7298,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 760,
-        "name": "阿法尼亚斯 (Arfanias)",
+        "originalIndex": 762,
+        "name": "Arfanias",
         "effects": [
             "Deals 460% damage to the target.",
             "The more mana the enemies have, the more damage they will receive up to 650%.",
@@ -7285,8 +7308,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 761,
-        "name": "进阶拟态兽 (Ascension Mimic) Dark",
+        "originalIndex": 763,
+        "name": "Ascension Mimic Dark",
         "effects": [
             "Deals 380% damage to the target and nearby enemies.",
             "If an enemy is defeated by the attack, the caster recovers +50% health and gains +33% mana.",
@@ -7295,8 +7318,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 762,
-        "name": "阿斯科特尔 (Asketel)",
+        "originalIndex": 764,
+        "name": "Asketel",
         "effects": [
             "Deals 410% damage to the target and nearby enemies and inflicts 40 Insanity on them.",
             "All active status ailments are uncleansable for the target and nearby enemies for the remaining turns of the status ailment.",
@@ -7304,24 +7327,24 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 763,
-        "name": "巴斯泰托 (Bastet)",
+        "originalIndex": 765,
+        "name": "Bastet",
         "effects": [
             "Deals 220% damage to all enemies.",
             "All allies get +45% chance to dodge Special Skills for 3 turns. Each dodge gives +5% defense stack (Max: 10)."
         ]
     },
     {
-        "originalIndex": 764,
-        "name": "巴斯泰托 (Bastet) C1",
+        "originalIndex": 766,
+        "name": "Bastet C1",
         "effects": [
             "Deals 210% damage to all enemies.",
             "All allies get +45% chance to dodge Special Skills for 3 turns. Each dodge gives +10% defense stack (Max: 10)."
         ]
     },
     {
-        "originalIndex": 765,
-        "name": "贝琪 (Becky)",
+        "originalIndex": 767,
+        "name": "Becky",
         "effects": [
             "Special Skill has a different effect when charged with 100%/200% mana:",
             "1x Mana Charge:",
@@ -7333,8 +7356,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 766,
-        "name": "贝琪 (Becky) C1",
+        "originalIndex": 768,
+        "name": "Becky C1",
         "effects": [
             "Special Skill has a different effect when charged with 100%/200% mana:",
             "1x Mana Charge:",
@@ -7347,8 +7370,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 767,
-        "name": "贝拉多娜 (Belladonna)",
+        "originalIndex": 769,
+        "name": "Belladonna",
         "effects": [
             "Recovers 42% health for all allies.",
             "All allies recover additional 8% health for each Fiend owned by the allies.",
@@ -7357,8 +7380,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 768,
-        "name": "贝拉 (Bera)",
+        "originalIndex": 770,
+        "name": "Bera",
         "effects": [
             "Summons a Moth Minion for each ally. The Moth Minion inherits 20% HP and 20% attack from the caster.",
             "Each hit from a Moth Minon gives the target the following status ailments:",
@@ -7367,8 +7390,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 769,
-        "name": "贝拉 (Bera) C1",
+        "originalIndex": 771,
+        "name": "Bera C1",
         "effects": [
             "Summons a Moth Minion for each ally. Moth Minion inherits 30% attack and 30% HP from the caster.",
             "Each hit from the Moth Minion gives the target the following status ailments:",
@@ -7377,8 +7400,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 770,
-        "name": "狼老大 (Boss Wolf)",
+        "originalIndex": 772,
+        "name": "Boss Wolf",
         "effects": [
             "All allies get +24% mana generation for 4 turns. This effect can't be dispelled.",
             "All enemies get -34% mana generation for 4 turns.",
@@ -7386,8 +7409,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 771,
-        "name": "卡尔塔 (Carta)",
+        "originalIndex": 773,
+        "name": "Carta",
         "effects": [
             "Recovers 45% health for all allies.",
             "Lifts the latest status ailments from all allies and distributes them on enemies.",
@@ -7395,16 +7418,16 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 772,
-        "name": "塞西莉亚 (Cecilia)",
+        "originalIndex": 774,
+        "name": "Cecilia",
         "effects": [
             "Deals 240% damage to all enemies.",
             "All allies get +45% chance to dodge Special Skills for 3 turns. Each dodge boosts health by 250. Boosted health can exceed max HP."
         ]
     },
     {
-        "originalIndex": 773,
-        "name": "塞妮乌丝 (Cennius)",
+        "originalIndex": 775,
+        "name": "Cennius",
         "effects": [
             "This Special Skill never misses its targets.",
             "Attacks the target with Moonrise Strike, dealing up to 1100 damage. Deals 40% more damage if the target is Holy.",
@@ -7413,8 +7436,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 774,
-        "name": "查科斯兹洛特 (Chakkoszrot)",
+        "originalIndex": 776,
+        "name": "Chakkoszrot",
         "effects": [
             "Deals 295% damage to all enemies",
             "All enemies with a dispellable mana generation buff get -54% mana generation for 5 turns. This effect can't be cleansed.",
@@ -7423,8 +7446,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 775,
-        "name": "晁盖 (Chao Gai)",
+        "originalIndex": 777,
+        "name": "Chao Gai",
         "effects": [
             "This Special Skill has a chance to deal Critical hits. (The chance of dealing a Critical hit is based on Hero’s overall critical chance when the damage is dealt. Critical hits caused by this Special Skill deal 50% more damage. Critical hits can reduces enemies’ max health on PVP battles. This effect is stronger against boosted health.)",
             "Deals 420% damage to the target.",
@@ -7435,8 +7458,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 776,
-        "name": "卡戎 (Charon)",
+        "originalIndex": 778,
+        "name": "Charon",
         "effects": [
             "Special Skill has a different effect when charged with 100% / 200% / 300% mana:",
             "1x Mana Charge:",
@@ -7451,8 +7474,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 777,
-        "name": "克拉里萨 (Clarissa)",
+        "originalIndex": 779,
+        "name": "Clarissa",
         "effects": [
             "Deals 175% damage to the target and nearby enemies.",
             "The target and nearby enemies receive 344 Poison damage over 2 turns.",
@@ -7461,8 +7484,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 778,
-        "name": "暗黑领主 (Dark Lord)",
+        "originalIndex": 780,
+        "name": "Dark Lord",
         "effects": [
             "Deals 550% damage to the target.",
             "Reduces the duration of the target and nearby enemies buffs by 1 turn.",
@@ -7470,8 +7493,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 779,
-        "name": "暗黑领主 (Dark Lord) C1",
+        "originalIndex": 781,
+        "name": "Dark Lord C1",
         "effects": [
             "Deals 560% damage to the target.",
             "Reduces the duration of the target and nearby enemies’ buffs by 2 turns. (The duration reduction affects both dispellable and undispellable effects. If the duration of any effect is reduced to zero, the effect is considered as having expired naturally.)",
@@ -7479,8 +7502,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 780,
-        "name": "黑比特 (Darkbeat)",
+        "originalIndex": 782,
+        "name": "Darkbeat",
         "effects": [
             "Deals 355% damage to all enemies.",
             "Reduces the duration of all allies’ active status ailments by 2 turns. (The duration modification affects both cleansable and uncleasable effects. If the duration of any effect is reduced to zero the effect is considered as having expired naturally.)",
@@ -7489,8 +7512,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 781,
-        "name": "暗羽 (Darkfeather)",
+        "originalIndex": 783,
+        "name": "Darkfeather",
         "effects": [
             "Recovers 25% health of all allies.",
             "Growth: All allies get 180 attack and 180 defense.",
@@ -7498,8 +7521,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 782,
-        "name": "亡灵布特 (Deadboot)",
+        "originalIndex": 784,
+        "name": "Deadboot",
         "effects": [
             "Steals all dispellable status effect buffs from the target and randomly distributes them on allies.",
             "Deals 375% damage to the target.",
@@ -7508,8 +7531,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 783,
-        "name": "新月 (Demilune)",
+        "originalIndex": 785,
+        "name": "Demilune",
         "effects": [
             "The Special Skill never misses its targets.",
             "Deals 495% damage to the target and minor damage to nearby enemies.",
@@ -7518,8 +7541,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 784,
-        "name": "貂蝉 (Diaochan)",
+        "originalIndex": 786,
+        "name": "Diaochan",
         "effects": [
             "Recover 35% health for all allies.",
             "Summons a Lackey Minion for the caster and nearby allies with 16% HP and 25% attack inherited from the caster.",
@@ -7527,8 +7550,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 785,
-        "name": "貂蝉 (Diaochan) C1",
+        "originalIndex": 787,
+        "name": "Diaochan C1",
         "effects": [
             "Recover 33% health for all allies.",
             "Summons a Lackey Minion for the caster and nearby allies with 33% HP and 33% attack inherited from the caster.",
@@ -7536,8 +7559,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 786,
-        "name": "多米西亚 (Domitia)",
+        "originalIndex": 788,
+        "name": "Domitia",
         "effects": [
             "Deals 440% damage to the target.",
             "The caster and nearby allies get + 94% defense against Holy for 4 turns.",
@@ -7545,8 +7568,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 787,
-        "name": "多米西亚 (Domitia) C1",
+        "originalIndex": 789,
+        "name": "Domitia C1",
         "effects": [
             "Deals 400% damage to the target.",
             "The target and nearby enemies receive 356 Poison damage over 4 turns.",
@@ -7554,8 +7577,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 788,
-        "name": "多米西亚 (Domitia) C2",
+        "originalIndex": 790,
+        "name": "Domitia C2",
         "effects": [
             "Deals 335% damage to target and nearby enemies",
             "The target and nearby enemies get -64% defense against Dark for 4 turns. Against Holy characters, this status effect becomes uncleansable and lasts 2 turns longer.",
@@ -7563,8 +7586,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 789,
-        "name": "多米西亚 (Domitia) 卡通",
+        "originalIndex": 791,
+        "name": "Domitia Toon",
         "effects": [
             "Deals 590% damage to the target.",
             "The caster and nearby allies get +64% defense against Holy for 4 turns.",
@@ -7573,8 +7596,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 790,
-        "name": "多米西亚 (Domitia) 玻璃",
+        "originalIndex": 792,
+        "name": "Domitia Glass",
         "effects": [
             "Deals 600% damage to the target.",
             "The attack bypasses defensive buffs. (This includes counterattacks.)",
@@ -7583,24 +7606,24 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 791,
-        "name": "莫罗博士 (Dr. Moreau)",
+        "originalIndex": 793,
+        "name": "Dr. Moreau",
         "effects": [
             "Deals 270% damage to the target and nearby enemies.",
             "The target and nearby enemies get -35% accuracy for 3 turns. The effect duration is reset if the target is healed. Chance to miss also applies to offensive Special Skills."
         ]
     },
     {
-        "originalIndex": 792,
-        "name": "莫罗博士 (Dr. Moreau) C1",
+        "originalIndex": 794,
+        "name": "Dr. Moreau C1",
         "effects": [
             "Deals 265% damage to the target and nearby enemies.",
             "The target and nearby enemies get -40% accuracy for 4 turns. The effect duration resets if the target is healed. Chance to miss also applies to offensive Special Skills."
         ]
     },
     {
-        "originalIndex": 793,
-        "name": "恐惧之星 (Dreadstar)",
+        "originalIndex": 795,
+        "name": "Dreadstar",
         "effects": [
             "This Special Skill never misses its targets.",
             "Deals 340% damage to all enemies.",
@@ -7609,8 +7632,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 794,
-        "name": "杜班 (Dubhan)",
+        "originalIndex": 796,
+        "name": "Dubhan",
         "effects": [
             "Deals 300% damage to the target.",
             "If the target had more than 50% health before receiving damage, targets another enemy who had over 50% health before receiving any damage from this Special Skill. If none of the other enemies had 50% health, targets a random enemy. The damage is increased on each consecutive hit. Each enemy can only hit once.",
@@ -7618,8 +7641,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 795,
-        "name": "杜拉富勒 (Dularfulr)",
+        "originalIndex": 797,
+        "name": "Dularfulr",
         "effects": [
             "Recovers 30% health for all allies.",
             "All allies get a Firestorm Ward for 4 turns, that reduces incoming Special Skill damage by up to -1300. Reduces damage by additional 30% when the attacker is of the Nature element.",
@@ -7627,8 +7650,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 796,
-        "name": "杜瓦尔 (Duval)",
+        "originalIndex": 798,
+        "name": "Duval",
         "effects": [
             "Ransacks the target, stealing health and buffs. (Steals 400 health. Safely steals one random Growth effect, positive stack, or status effect buff from the target. This includes undispellable buffs and Dance effects. Safe stealing bypasses secondary effects, such as damage on removal, from the removed buffs. Passive skills and family effects can still activate.)",
             "Deals 560% damage to the target.",
@@ -7636,8 +7659,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 797,
-        "name": "埃尔德温 (Eldwren)",
+        "originalIndex": 799,
+        "name": "Eldwren",
         "effects": [
             "Deals 400% damage to the target.",
             "Summons a Wren Fiend to the target. The Fiend damages the enemies with 55% attack every turn.",
@@ -7647,8 +7670,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 798,
-        "name": "埃尔斯贝特 (Elsbeth)",
+        "originalIndex": 800,
+        "name": "Elsbeth",
         "effects": [
             "Deals 600% damage to the target.",
             "If the target has Fiends or Mega Fiends, deals 500% damage to a random enemy.",
@@ -7657,8 +7680,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 799,
-        "name": "纹章拟态兽 (Emblem Mimic) Dark",
+        "originalIndex": 801,
+        "name": "Emblem Mimic Dark",
         "effects": [
             "Deals 480% damage to the target.",
             "If an enemy is defeated by the attack, the caster recovers +50% health and gains +33% mana.",
@@ -7667,16 +7690,16 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 800,
-        "name": "厄洛斯 (Eros)",
+        "originalIndex": 802,
+        "name": "Eros",
         "effects": [
             "Deals 465% damage to the target.",
             "All damage the target receives is increased by +40% for 2 turns."
         ]
     },
     {
-        "originalIndex": 801,
-        "name": "经验拟态兽 (Experience Mimic) Dark",
+        "originalIndex": 803,
+        "name": "Experience Mimic Dark",
         "effects": [
             "Destroys all Minions from the target. This effect damages Mega Minions.",
             "Deals 530% damage to the target.",
@@ -7685,8 +7708,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 802,
-        "name": "法拉 (Farrah)",
+        "originalIndex": 804,
+        "name": "Farrah",
         "effects": [
             "Deals 500% damage to the target.",
             "Deals additional 200% damage to as many random enemies as there are Dark tiles on the board, up to a maximum 12 hits. The damage is reduced on each consecutive hit.",
@@ -7694,8 +7717,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 803,
-        "name": "弗蕾亚 (Freya)",
+        "originalIndex": 805,
+        "name": "Freya",
         "effects": [
             "Summons a Raven Minion for each ally with 20% HP and 20% attack inherited from the caster.",
             "Raven Minion gives +120% attack to all its owner's other Minions.",
@@ -7703,8 +7726,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 804,
-        "name": "弗蕾亚 (Freya) C1",
+        "originalIndex": 806,
+        "name": "Freya C1",
         "effects": [
             "Summons a Raven Minion for each ally with 25% HP and 15% attack inherited from the caster.",
             "Raven Minion gives +180% attack to all its owner's other Minions.",
@@ -7712,16 +7735,16 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 805,
-        "name": "加斯蒂尔 (Gastille)",
+        "originalIndex": 807,
+        "name": "Gastille",
         "effects": [
             "All allies get +150% normal attack for 4 turns. This effect can be active in addition to effects that alter attack in general. Normal attacks can have a total maximum of 200% increased power while this effect is active.",
             "All damage all enemies receive is increased by +55% for 4 turns."
         ]
     },
     {
-        "originalIndex": 806,
-        "name": "贡戈斯 (Gongoth)",
+        "originalIndex": 808,
+        "name": "Gongoth",
         "effects": [
             "Deals 400% damage to the target and nearby enemies.",
             "Wither: The target and nearby enemies get -350 attack.",
@@ -7729,8 +7752,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 807,
-        "name": "古尔德隆 (Gooldron)",
+        "originalIndex": 809,
+        "name": "Gooldron",
         "effects": [
             "Deals 385% damage to the target and nearby enemies.",
             "Summons a Slime Fiend for the target and nearby enemies. The Fiend damage the enemy with 50% attack every turn.",
@@ -7739,8 +7762,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 808,
-        "name": "血齿 (Goretooth)",
+        "originalIndex": 810,
+        "name": "Goretooth",
         "effects": [
             "Deals 430% damage to the target.",
             "The target gets -45% defense for 2 turns. The defense decreases by -15% each turn, up to -60%.",
@@ -7748,16 +7771,16 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 809,
-        "name": "戈塞克 (Goseck)",
+        "originalIndex": 811,
+        "name": "Goseck",
         "effects": [
             "Deals 350% damage to all enemies.",
             "The less HP the caster has, the more damage they deal up to 700%."
         ]
     },
     {
-        "originalIndex": 810,
-        "name": "格伦德尔之母 (Grendel's Mother)",
+        "originalIndex": 812,
+        "name": "Grendel's Mother",
         "effects": [
             "Deals 410% damage to all enemies.",
             "All enemies receive 1230 Curse damage over 6 turns, starting low and increasing every turn.",
@@ -7768,16 +7791,16 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 811,
-        "name": "葛瑞菲斯 (Griffex)",
+        "originalIndex": 813,
+        "name": "Griffex",
         "effects": [
             "Reduces the mana of all Holy enemies by 100%. Reduces the mana of all other enemies by 50%.",
             "Increases the mana of all Dark allies except the caster by 30%. Increases the mana of all other allies by 15%."
         ]
     },
     {
-        "originalIndex": 812,
-        "name": "葛瑞菲斯 (Griffex) C1",
+        "originalIndex": 814,
+        "name": "Griffex C1",
         "effects": [
             "Reduces the mana of all Holy enemies by 100%. Reduces the mana of all other enemies by 55%.",
             "Increases the mana of all Dark allies except the caster by 30%. Increases the mana of all other allies by 15%. (This has no effect on other Griffex characters.)",
@@ -7785,8 +7808,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 813,
-        "name": "格林布尔 (Grimble)",
+        "originalIndex": 815,
+        "name": "Grimble",
         "effects": [
             "Destroys all minions from all enemies.",
             "Deals 315% damage to all enemies.",
@@ -7795,8 +7818,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 814,
-        "name": "黑豹守护者 (Guardian Panther)",
+        "originalIndex": 816,
+        "name": "Guardian Panther",
         "effects": [
             "Deals 210% damage to the target and nearby enemies",
             "The target and nearby enemies get -54% defense against Dark for 4 turns",
@@ -7804,8 +7827,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 815,
-        "name": "黑豹守护者 (Guardian Panther) C1",
+        "originalIndex": 817,
+        "name": "Guardian Panther C1",
         "effects": [
             "Deals 285% damage to all enemies.",
             "All enemies get -34% defense against Dark for 3 turns.",
@@ -7813,8 +7836,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 816,
-        "name": "刚特司 (Gunktus)",
+        "originalIndex": 818,
+        "name": "Gunktus",
         "effects": [
             "Deals 535% damage to the target and minor damage to nearby enemies.",
             "The caster gets +45% attack, and a further +20% increase every time they are hit during 3 turns.",
@@ -7830,8 +7853,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 817,
-        "name": "汉娜 (Hannah)",
+        "originalIndex": 819,
+        "name": "Hannah",
         "effects": [
             "Deals 215% damage to the target and narby enemies.",
             "Summons a Golden Idol Field for the target and nearby enemies. The Fiend damages the enemy with 43% attack every turn.",
@@ -7840,8 +7863,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 818,
-        "name": "汉娜 (Hannah) C1",
+        "originalIndex": 820,
+        "name": "Hannah C1",
         "effects": [
             "Deals 225% damage to the target and nearby enemies.",
             "Summons a Golden Idol Fiend for the target and nearby enemies. The Fiend damages the enemy with 36% attack every turn.",
@@ -7850,8 +7873,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 819,
-        "name": "山楂 (Hawthorn)",
+        "originalIndex": 821,
+        "name": "Hawthorn",
         "effects": [
             "All allies regenerate 672 boosted health over 4 turns. Boosted health can exceed max HP.",
             "All allies receive a small amount of mana over 4 turns.",
@@ -7859,8 +7882,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 820,
-        "name": "赫尔 (Hel)",
+        "originalIndex": 822,
+        "name": "Hel",
         "effects": [
             "Deals 375% damage to the target and minor damage to nearby enemies",
             "The target and nearby enemies can't gain mana for 4 turns",
@@ -7869,8 +7892,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 821,
-        "name": "赫尔 (Hel) C1",
+        "originalIndex": 823,
+        "name": "Hel C1",
         "effects": [
             "Deals 350% damage to all enemies.",
             "The caster steals generated mana of all enemies over 4 turns starting low and increasing every turn until on the last turn all generated mana is stolen. This effect can’t be cleansed, but it gets removed if the caster dies.",
@@ -7879,8 +7902,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 822,
-        "name": "赫里德马尔 (Hreidmarr)",
+        "originalIndex": 824,
+        "name": "Hreidmarr",
         "effects": [
             "Attacks all enemies with Firestorm Strike, dealing up to 2200 damage. Deals 40% more if the target is of the Nature element. This Special Skill never misses its targets.",
             "The caster steals generated mana of all enemies over 5 turns starting low and increasing every turn until on the last turn all the generated mana is stolen. This effect can't be cleansed, but it gets removed if the caster is defeated.",
@@ -7888,8 +7911,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 823,
-        "name": "胡尔达 (Hulda)",
+        "originalIndex": 825,
+        "name": "Hulda",
         "effects": [
             "Summons a Larva Minion for each ally with 31% HP inheried from the caster. The Minion recovers 11% health for its owner at the end of each turn.",
             "When summoned, the Larva Minion gives +24% mana generation for its owner for as long as the owner has Larva Minions. This effect can't be dispelled.",
@@ -7897,8 +7920,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 824,
-        "name": "胡尔达 (Hulda) C1",
+        "originalIndex": 826,
+        "name": "Hulda C1",
         "effects": [
             "Summons a Larva Minion for each ally with 36% HP inherited from the caster. The Minion recovers 15% health for its owner at the end of each turn.",
             "When summoned, the Larva Minion gives +24% mana generation for its owner for as long as the owner has Larva Minions. This effect can’t be dispelled.",
@@ -7906,8 +7929,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 825,
-        "name": "狩猎者 (Hunter)",
+        "originalIndex": 827,
+        "name": "Hunter",
         "effects": [
             "This Special Skill never misses its targets.",
             "The target get -25% defense for 3 turns.",
@@ -7917,8 +7940,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 826,
-        "name": "飓风 (Hurricane)",
+        "originalIndex": 828,
+        "name": "Hurricane",
         "effects": [
             "Deals 410% damage to the target and nearby enemies.",
             "The duration of status ailments is reset for the target and nearby enemies.",
@@ -7927,8 +7950,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 827,
-        "name": "伊玛古斯 (Imagus)",
+        "originalIndex": 829,
+        "name": "Imagus",
         "effects": [
             "Wither: All enemies get -400 attack.",
             "All enemies get -80% decrease for any healing received for 4 turns. This effect can’t be cleansed.",
@@ -7937,24 +7960,24 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 828,
-        "name": "炸脖龙 (Jabberwock)",
+        "originalIndex": 830,
+        "name": "Jabberwock",
         "effects": [
             "Deals 300% damage to the enemies on the edges of the enemy formation, If there is only one enemy alive, the damage is doubled.",
             "The enemies on the edges of the enemy formation receive 249 poison damage over 3 turns. This effect can't be cleansed."
         ]
     },
     {
-        "originalIndex": 829,
-        "name": "炸脖龙 (Jabberwock) C1",
+        "originalIndex": 831,
+        "name": "Jabberwock C1",
         "effects": [
             "Deals 300% damage to the enemies on the edges of the enemy formation. If there is only one enemy alive, the damage is doubled.",
             "The enemies on the edges of the enemy formation receive Corrosive Poison for 3 turns. The Corrosive Poison deals 153 Poison damage and lowers the target's mana generation by -12% each turn. This effect can't be cleansed. Deals extra damage against heroes with Minions or Mega Minions."
         ]
     },
     {
-        "originalIndex": 830,
-        "name": "杰特 (Jett)",
+        "originalIndex": 832,
+        "name": "Jett",
         "effects": [
             "Special Skill has a different effect when charged with 100%/200% mana:",
             "1x Mana Charge:",
@@ -7966,8 +7989,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 831,
-        "name": "卡达斯 (Kadath)",
+        "originalIndex": 833,
+        "name": "Kadath",
         "effects": [
             "The target succumbs to Fear for 3 turns. (The target gets -35% defense. Removes all dispellable buffs and Growth effects when a Fear status effect is added. The target cannot gain new buffs or Growth effects for the duration. Target with Fear deals 130% damage to random ally each time any other ally casts their Special Skill. Each character can trigger this effect once per turn.)",
             "Deals 570% damage to the target and inflicts 50 Insanity on them.",
@@ -7976,8 +7999,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 832,
-        "name": "影血 (Kageburado)",
+        "originalIndex": 834,
+        "name": "Kageburado",
         "effects": [
             "Dispels buffs from the target.",
             "Deals 225% damage to the target.",
@@ -7985,8 +8008,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 833,
-        "name": "影血 (Kageburado) C1",
+        "originalIndex": 835,
+        "name": "Kageburado C1",
         "effects": [
             "Dispels buffs from the target.",
             "Deals 320% damage to the target.",
@@ -7995,16 +8018,16 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 834,
-        "name": "卡洛夫 (Karnov)",
+        "originalIndex": 836,
+        "name": "Karnov",
         "effects": [
             "Deals 290% damage to all enemies.",
             "Alters the power of all Dark shields on the board. When an attacking hero casts the special, the shields become enhanced with +64% attack. When a defending hero casts the special, the shields become weakened with -57% attack."
         ]
     },
     {
-        "originalIndex": 835,
-        "name": "卡洛夫 (Karnov) C1",
+        "originalIndex": 837,
+        "name": "Karnov C1",
         "effects": [
             "Deals 340% damage to all enemies.",
             "Alters the power of all Dark shields on the board. When an attacking Hero casts the special, the shields become enhanced with +64% attack. When a defending Hero casts the special, the shields become weakened with -57% attack.",
@@ -8012,16 +8035,16 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 836,
-        "name": "凯梅尼 (Kemeny)",
+        "originalIndex": 838,
+        "name": "Kemeny",
         "effects": [
             "Deals 330% damage to all enemies.",
             "Deals additional 65% damage per status ailment the caster has up to 655% damage in total."
         ]
     },
     {
-        "originalIndex": 837,
-        "name": "凯布利 (Khepri)",
+        "originalIndex": 839,
+        "name": "Khepri",
         "effects": [
             "Deals 275% damage to target and nearby enemies.",
             "Summons a Scarab Bomb Fiend for the target and nearby enemies. The Fiend damages the enemy with 38% attack every turn.",
@@ -8030,8 +8053,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 838,
-        "name": "凯布利 (Khepri) C1",
+        "originalIndex": 840,
+        "name": "Khepri C1",
         "effects": [
             "Deals 265% damage to the target and nearby enemies.",
             "Summons a Scarab Bomb Fiend for the target and nearby enemies. The Fiend damages the enemy with 38% attack every turn.",
@@ -8040,8 +8063,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 839,
-        "name": "基奥娜 (Khiona)",
+        "originalIndex": 841,
+        "name": "Khiona",
         "effects": [
             "Deals 422% damage to the target",
             "The caster and nearby allies get +45% attack, and a further 20% increase every time they are hit during 3 turns.",
@@ -8049,8 +8072,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 840,
-        "name": "基奥娜 (Khiona) C1",
+        "originalIndex": 842,
+        "name": "Khiona C1",
         "effects": [
             "Deals 350% damage to the target.",
             "The caster and nearby allies get +45% attack, and a further 20% increase every time they are hit during 4 turns.",
@@ -8058,40 +8081,40 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 841,
-        "name": "孔舒 (Khonshu)",
+        "originalIndex": 843,
+        "name": "Khonshu",
         "effects": [
             "425% damage to the target",
             "If it attack defeats the target, the caster gains +50% mana."
         ]
     },
     {
-        "originalIndex": 842,
-        "name": "孔舒 (Khonshu) C1",
+        "originalIndex": 844,
+        "name": "Khonshu C1",
         "effects": [
             "450% damage to the target.",
             "If it attack defeats the target, the caster gains +45% mana."
         ]
     },
     {
-        "originalIndex": 843,
-        "name": "杀戮野兔 (Killhare)",
+        "originalIndex": 845,
+        "name": "Killhare",
         "effects": [
             "Deals 300% damage to all enemies.",
             "All allies except the caster get -20% defense for 3 turns. This effect can't be cleansed."
         ]
     },
     {
-        "originalIndex": 844,
-        "name": "杀戮野兔 (Killhare) C1",
+        "originalIndex": 846,
+        "name": "Killhare C1",
         "effects": [
             "Deals 330% damage to all enemies.",
             "All allies except the caser get -20% attack for 3 turns. This effect can't be cleansed."
         ]
     },
     {
-        "originalIndex": 845,
-        "name": "红心骑士 (Knave of Hearts)",
+        "originalIndex": 847,
+        "name": "Knave of Hearts",
         "effects": [
             "Deals 300% damage to the target and nearby enemies.",
             "The target automatically casts Mindless Attack on a random ally when the mana is full at the start of a turn during 3 turns.",
@@ -8099,8 +8122,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 846,
-        "name": "奈特司 (Knightus)",
+        "originalIndex": 848,
+        "name": "Knightus",
         "effects": [
             "Deals 540% damage to the target.",
             "The target enemy receives Devouring Goo status ailment for 3 turns.",
@@ -8110,8 +8133,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 847,
-        "name": "坤奇恩 (Kunchen)",
+        "originalIndex": 849,
+        "name": "Kunchen",
         "effects": [
             "Recovers 45% health for all allies.",
             "All enemies get -34% defense for 5 turns.",
@@ -8120,8 +8143,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 848,
-        "name": "莱姆尼斯 (Lemniss)",
+        "originalIndex": 850,
+        "name": "Lemniss",
         "effects": [
             "Recovers 45% health from all allies.",
             "Increases the duration of all allies active buffs by 2 turns. (The duration modification affects both cleansable and uncleasable effects.)",
@@ -8129,8 +8152,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 849,
-        "name": "勒皮奥塔 (Lepiota)",
+        "originalIndex": 851,
+        "name": "Lepiota",
         "effects": [
             "Deals 158% damage to the target.",
             "Cast Full Removal on the target. (Full Removal removes all status efects, stacks and Growth and Wither effects. Removes even status effects and stacks that are otherwise undispellable or uncleasable.)",
@@ -8141,8 +8164,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 850,
-        "name": "勒皮奥塔 (Lepiota) C1",
+        "originalIndex": 852,
+        "name": "Lepiota C1",
         "effects": [
             "Deals 150% damage to the target.",
             "Cast Full Removal on the target. (Full Removal removes all status efects, stacks and Growth and Wither effects. Removes even status effects and stacks that are otherwise undispellable or uncleasable.)",
@@ -8153,8 +8176,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 851,
-        "name": "莉拉瑞恩 (Lilareine)",
+        "originalIndex": 853,
+        "name": "Lilareine",
         "effects": [
             "Boosts health fo all allies by 1500. Boosted health can exceed max HP.",
             "Cleanses status ailments from all allies.",
@@ -8163,8 +8186,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 852,
-        "name": "莉莉 (Lilli)",
+        "originalIndex": 854,
+        "name": "Lilli",
         "effects": [
             "Steals all Minions or a Mega Minion from the target.",
             "Deals 850% damage to the target.",
@@ -8173,8 +8196,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 853,
-        "name": "娄希 (Louhi)",
+        "originalIndex": 855,
+        "name": "Louhi",
         "effects": [
             "Dispels buffs from all enemies.",
             "Deals 250% damage to all enemies.",
@@ -8182,8 +8205,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 854,
-        "name": "娄希 (Louhi) C1",
+        "originalIndex": 856,
+        "name": "Louhi C1",
         "effects": [
             "Dispels buffs from all enemies.",
             "Deals 280% damage to all enemies.",
@@ -8191,8 +8214,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 855,
-        "name": "吕布 (Lu Bu)",
+        "originalIndex": 857,
+        "name": "Lu Bu",
         "effects": [
             "Deals 330% damage to all enemies.",
             "Summons a Mercenary Fiend for all enemies. The Fiend damages its target with 56% attack every turn.",
@@ -8201,8 +8224,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 856,
-        "name": "吕布 (Lu Bu) C1",
+        "originalIndex": 858,
+        "name": "Lu Bu C1",
         "effects": [
             "Deals 320% damage to all enemies.",
             "Summons a Mercenary Fiend for all enemies. The Fiend damages the enemy with 70% attack every turn.",
@@ -8211,8 +8234,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 857,
-        "name": "卢辛达 (Lucinda)",
+        "originalIndex": 859,
+        "name": "Lucinda",
         "effects": [
             "Deals 470% damage to target and nearby enemies.",
             "The target and nearby enemies get -40% accuracy for 6 turns. Chance to miss also applies to offensive Special Skills.",
@@ -8221,8 +8244,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 858,
-        "name": "路德维希 (Ludwig)",
+        "originalIndex": 860,
+        "name": "Ludwig",
         "effects": [
             "The caster gets Taunt that prevents enemies from using Special Skills on the caster's allies for 6 turns.",
             "The caster gets +84% defense against Special Skills for 6 turns.",
@@ -8230,8 +8253,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 859,
-        "name": "露娜 (Luna)",
+        "originalIndex": 861,
+        "name": "Luna",
         "effects": [
             "Recovers 20% health for the caster and nearby allies.",
             "At the end of each turn caster and nearby allies shoot a Moon Beam at a random enemy for 3 turns.",
@@ -8240,8 +8263,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 860,
-        "name": "吉莉夫人 (Madame Giry)",
+        "originalIndex": 862,
+        "name": "Madame Giry",
         "effects": [
             "Deals 340% damage to all enemies.",
             "Summons a Ballerina Fiend for all enemies. The Fiend damage the enemy with 110% attack every turn.",
@@ -8251,8 +8274,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 861,
-        "name": "麦希 (Maisie)",
+        "originalIndex": 863,
+        "name": "Maisie",
         "effects": [
             "Boosts health of all allies by 800. Boosted health can exceed max HP.",
             "Boosts health of all allies by 160 foreach status ailment the ally has, up to 800 health in total.",
@@ -8261,8 +8284,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 862,
-        "name": "马利克纳 (Malicna)",
+        "originalIndex": 864,
+        "name": "Malicna",
         "effects": [
             "Deals 350% damage to the target and nearby enemies",
             "Randomly casts one of the following alternatives:",
@@ -8278,8 +8301,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 863,
-        "name": "玛丽-特瑞莎 (Marie-Therese)",
+        "originalIndex": 865,
+        "name": "Marie-Therese",
         "effects": [
             "Deals 168% damage to all enemies",
             "All allies regenerate 612 HP over 4 turns",
@@ -8293,8 +8316,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 864,
-        "name": "玛丽-特瑞莎 (Marie-Therese) C1",
+        "originalIndex": 866,
+        "name": "Marie-Therese C1",
         "effects": [
             "Deals 138% damage to all enemies.",
             "All allies regenerae 600 boosted health over 4 turns. Boosted health can exceed max HP. This effect can't be dispelled.",
@@ -8307,8 +8330,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 865,
-        "name": "马恩斯 (Marnes)",
+        "originalIndex": 867,
+        "name": "Marnes",
         "effects": [
             "Deals 300% Clawing damage to the enemies on the edges of the formation. If there is only one enemy, the damage is doubled. (Deals 400% damage against enemies with any defensive buffs, Minions or Mega Minions. Enemies with any defensive buffs, Minions or Mega Minions receive -35% defense for 5 turns.)",
             "The enemies on the edges of the enemy formation receive 1500 Surge Bleed damage over 5 turns. (If a target already has this effect, the duration will be refreshed and the damage will be increased by 250. Max total damage: 3000.)",
@@ -8316,8 +8339,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 866,
-        "name": "莫德 (Maud)",
+        "originalIndex": 868,
+        "name": "Maud",
         "effects": [
             "Deals 500% damage to the enemy with the lowest remaining HP. Deals 280% damage to all other enemies.",
             "Enhanced Dodge: The caster gets +60% chance to dodge Special Skills that deal damage. This effect lasts until the caster sucessfully dodges 3 times.",
@@ -8325,8 +8348,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 867,
-        "name": "美狄亚 (Medea)",
+        "originalIndex": 869,
+        "name": "Medea",
         "effects": [
             "Special Skill need consecutive uses to reach full power, the following order:",
             "1st:",
@@ -8340,8 +8363,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 868,
-        "name": "美狄亚 (Medea) C1",
+        "originalIndex": 870,
+        "name": "Medea C1",
         "effects": [
             "Special Skill need consecutive uses to reach full power, the following order:",
             "1st:",
@@ -8355,8 +8378,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 869,
-        "name": "忧郁者 (Melancholia)",
+        "originalIndex": 871,
+        "name": "Melancholia",
         "effects": [
             "Revives all allies with 70% HP and 50 Insanity.",
             "All allies get +74% defense against Special Skills for 5 turns.",
@@ -8365,8 +8388,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 870,
-        "name": "巨齿鲨 (Mok-Arr)",
+        "originalIndex": 872,
+        "name": "Mok-Arr",
         "effects": [
             "Deals 270% damage to all enemies.",
             "Deals 50% damage to all allies.",
@@ -8375,8 +8398,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 871,
-        "name": "巨齿鲨 (Mok-Arr) C1",
+        "originalIndex": 873,
+        "name": "Mok-Arr C1",
         "effects": [
             "Deals 280% damage to all enemies.",
             "All Dark allies and enemies get +54% attack for 4 turns.",
@@ -8385,8 +8408,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 872,
-        "name": "摩拉克斯 (Morax)",
+        "originalIndex": 874,
+        "name": "Morax",
         "effects": [
             "Deals 430% damage to the target and minor damage to nearby enemies.",
             "The target gets -24% mana generation for 4 turns.",
@@ -8395,8 +8418,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 873,
-        "name": "死亡女巫 (Mortewitch)",
+        "originalIndex": 875,
+        "name": "Mortewitch",
         "effects": [
             "Deals 800% damage to the target.",
             "The attack bypasses defensive buffs. (This includes counterattacks.)",
@@ -8407,8 +8430,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 874,
-        "name": "莫迪默 (Mortimer)",
+        "originalIndex": 876,
+        "name": "Mortimer",
         "effects": [
             "Deals 480% damage to target and a minor damage to nearby enemies.",
             "The target and nearby enemies get silenced for 3 turns.",
@@ -8416,16 +8439,16 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 875,
-        "name": "神秘人 (Myztero)",
+        "originalIndex": 877,
+        "name": "Myztero",
         "effects": [
             "Deals 175% damage to all enemies.",
             "All status ailments memorized by the innate ability are cast to all enemies."
         ]
     },
     {
-        "originalIndex": 876,
-        "name": "娜希莎 (Narcisa)",
+        "originalIndex": 878,
+        "name": "Narcisa",
         "effects": [
             "Deals 240% damage to all enemies.",
             "The duration of status ailments is reset for all enemies.",
@@ -8433,8 +8456,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 877,
-        "name": "倪克斯 (Nyx)",
+        "originalIndex": 879,
+        "name": "Nyx",
         "effects": [
             "Special Skill has a different effect when charged with 100% / 200% / 300% mana:",
             "1x Mana Charge:",
@@ -8450,24 +8473,24 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 878,
-        "name": "欧巴坎 (Obakan)",
+        "originalIndex": 880,
+        "name": "Obakan",
         "effects": [
             "Deals 310% damage to the target and minor damage to nearby enemies.",
             "The caster counterattacks with 115% of the damage received for 4 turns."
         ]
     },
     {
-        "originalIndex": 879,
-        "name": "欧巴坎 (Obakan) C1",
+        "originalIndex": 881,
+        "name": "Obakan C1",
         "effects": [
             "Deals 182% damage to all enemies.",
             "The caster and nearby allies counterattack with 85% of the damage receied for 4 turns."
         ]
     },
     {
-        "originalIndex": 880,
-        "name": "欧巴坎 (Obakan) C2",
+        "originalIndex": 882,
+        "name": "Obakan C2",
         "effects": [
             "Deals 260% damage to the target and nearby enemies.",
             "The caster and nearby allies counterattack with 95% of the damage received for 3 turns.",
@@ -8475,8 +8498,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 881,
-        "name": "欧巴坎 (Obakan) 卡通",
+        "originalIndex": 883,
+        "name": "Obakan Toon",
         "effects": [
             "Deals 390% damage to the target and minor damage to nearby enemies.",
             "The caster counterattacks with 110% of the damage received for 4 turns.",
@@ -8484,8 +8507,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 882,
-        "name": "欧巴坎 (Obakan) 玻璃",
+        "originalIndex": 884,
+        "name": "Obakan Glass",
         "effects": [
             "Deals 400% damage to the target and minor damage to nearby enemies.",
             "The attack bypasses defensive buffs. (This includes counterattacks.)",
@@ -8493,8 +8516,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 883,
-        "name": "奥迪尔 (Odile)",
+        "originalIndex": 885,
+        "name": "Odile",
         "effects": [
             "Boosts health for all allies by 475. Boosted health can exceed max HP.",
             "Casts Dance of the Black Swan to all allies but caster for 4 turns. All existing status effects will be removed when this effect is added.",
@@ -8505,8 +8528,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 884,
-        "name": "奥莫德斯 (Ommodus)",
+        "originalIndex": 886,
+        "name": "Ommodus",
         "effects": [
             "Destroys all Fiends from all allies. This effect damages Mega Fiends.",
             "This Special Skill never misses its targets.",
@@ -8515,8 +8538,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 885,
-        "name": "玛瑙 (Onyx)",
+        "originalIndex": 887,
+        "name": "Onyx",
         "effects": [
             "1x Mana Charge",
             "* Deals 300% damage to the target.",
@@ -8533,8 +8556,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 886,
-        "name": "派蒙 (Paimon)",
+        "originalIndex": 888,
+        "name": "Paimon",
         "effects": [
             "Dispels buffs from the target and nearby enemies.",
             "Deals 440% damage to the target and minor damage to nearby enemies.",
@@ -8543,8 +8566,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 887,
-        "name": "薄荷 (Peppermint)",
+        "originalIndex": 889,
+        "name": "Peppermint",
         "effects": [
             "Deals 250% damage to all enemies.",
             "Summons an Elf Minion for each ally with 10% HP and 10% attack inherited from the caster.",
@@ -8552,8 +8575,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 888,
-        "name": "歌剧魅影 (Phantom of the Opera)",
+        "originalIndex": 890,
+        "name": "Phantom of the Opera",
         "effects": [
             "Deals 405% damage to the target and nearby enemies.",
             "The target and nearby enemies dance to Ballad of Obsession for 4 turns.  All existing status effects will be removed when this effect is added.",
@@ -8565,8 +8588,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 889,
-        "name": "福耳库斯 (Phorcys)",
+        "originalIndex": 891,
+        "name": "Phorcys",
         "effects": [
             "Special Skill need consecutive uses to reach full power, the following order:",
             "1st:",
@@ -8581,8 +8604,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 890,
-        "name": "福耳库斯 (Phorcys) C1",
+        "originalIndex": 892,
+        "name": "Phorcys C1",
         "effects": [
             "Special Skill need consecutive uses to reach full power, the following order:",
             "1st:",
@@ -8597,8 +8620,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 891,
-        "name": "菲托努斯 (Phthonus)",
+        "originalIndex": 893,
+        "name": "Phthonus",
         "effects": [
             "Deals 360% damage to all enemies.",
             "Dispels buffs from all enemies.",
@@ -8606,8 +8629,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 892,
-        "name": "莫里斯特教授 (Prof. Morryster)",
+        "originalIndex": 894,
+        "name": "Prof. Morryster",
         "effects": [
             "Deals 460% damage to the target and nearby enemies and inflicts 45 Insanity on them.",
             "Inflicts the target and nearby enemies with Minion Corruption for 4 turns, that adds a chance of Minions transforming into Fiends. This effect is uncleansable.",
@@ -8616,8 +8639,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 893,
-        "name": "瓜尔茨 (Quartz)",
+        "originalIndex": 895,
+        "name": "Quartz",
         "effects": [
             "Special Skill has a different effect when charged with 100%/200%/300% mana:",
             "1x Mana Charge:",
@@ -8635,47 +8658,47 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 894,
-        "name": "昆塔斯 (Quintus)",
+        "originalIndex": 896,
+        "name": "Quintus",
         "effects": [
             "Deals 270% damage to all enemies"
         ]
     },
     {
-        "originalIndex": 895,
-        "name": "昆塔斯 (Quintus) C1",
+        "originalIndex": 897,
+        "name": "Quintus C1",
         "effects": [
             "Deals 235% damage to all enemies",
             "All enemies get -34% attack for 4 turns"
         ]
     },
     {
-        "originalIndex": 896,
-        "name": "昆塔斯 (Quintus) C2",
+        "originalIndex": 898,
+        "name": "Quintus C2",
         "effects": [
             "Deals 300% damage to the target and nearby enemies.",
             "The target and nearby enemies automatically cast Mindless Attack on a random ally when mana is full at the start of a turn during 4 turns."
         ]
     },
     {
-        "originalIndex": 897,
-        "name": "昆塔斯 (Quintus) 卡通",
+        "originalIndex": 899,
+        "name": "Quintus Toon",
         "effects": [
             "Deals 420% damage to all enemies.",
             "Deals extra damage against Holy."
         ]
     },
     {
-        "originalIndex": 898,
-        "name": "昆塔斯 (Quintus) 玻璃",
+        "originalIndex": 900,
+        "name": "Quintus Glass",
         "effects": [
             "Deals 430% damage to all enemies.",
             "The attack bypasses defensive buffs. (This includes counterattacks.)"
         ]
     },
     {
-        "originalIndex": 899,
-        "name": "拉蒙娜 (Ramona)",
+        "originalIndex": 901,
+        "name": "Ramona",
         "effects": [
             "Deals 450% damage to the target.",
             "Summons three Ram Fiends for the target. This Fiend damages the enemy with 40% attack every turn.",
@@ -8684,24 +8707,24 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 900,
-        "name": "莱恩 (Rayne)",
+        "originalIndex": 902,
+        "name": "Rayne",
         "effects": [
             "Deals 400% damage to the target.",
             "The target receives 1300 Poison damage over 5 turns. This effect spreads to nearby enemies."
         ]
     },
     {
-        "originalIndex": 901,
-        "name": "罗什福尔 (Rochefort)",
+        "originalIndex": 903,
+        "name": "Rochefort",
         "effects": [
             "Deals 565% damage to the target and minor damage to nearby enemies.",
             "If the targets is defeated in 3 turns all enemies receive 626 damage."
         ]
     },
     {
-        "originalIndex": 902,
-        "name": "鲑鱼洛基 (Salmon Loki)",
+        "originalIndex": 904,
+        "name": "Salmon Loki",
         "effects": [
             "Deals 250% damage to all Holy enemies.",
             "For 3 turns the element of all enemies is changed each turn. On the first 2 turns, the element is random.",
@@ -8710,8 +8733,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 903,
-        "name": "鲑鱼洛基 (Salmon Loki) C1",
+        "originalIndex": 905,
+        "name": "Salmon Loki C1",
         "effects": [
             "Deals 350% damage to all holy Enemies.",
             "For 4 turns, the element of all enemies is changed each turn. On the first 3 turns, the element is random.",
@@ -8720,16 +8743,16 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 904,
-        "name": "马尾藻 (Sargasso)",
+        "originalIndex": 906,
+        "name": "Sargasso",
         "effects": [
             "Deals 415% damage to the target and minor damage to nearby enemies",
             "The target and nearby enemies get -90% increase for any healing received for 4 turns."
         ]
     },
     {
-        "originalIndex": 905,
-        "name": "马尾藻 (Sargasso) C1",
+        "originalIndex": 907,
+        "name": "Sargasso C1",
         "effects": [
             "Deals 415% damage to the target and minor damage to nearby enemies.",
             "The target and nearby enemies get -100% decrease for any healing received for 4 turns.",
@@ -8737,23 +8760,23 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 906,
-        "name": "萨塔娜 (Sartana)",
+        "originalIndex": 908,
+        "name": "Sartana",
         "effects": [
             "Deals 452% damage to the target.",
             "The target receives 306 Poison damage over 6 turns."
         ]
     },
     {
-        "originalIndex": 907,
-        "name": "萨塔娜 (Sartana) C1",
+        "originalIndex": 909,
+        "name": "Sartana C1",
         "effects": [
             "Deals 532% damage to the target"
         ]
     },
     {
-        "originalIndex": 908,
-        "name": "萨塔娜 (Sartana) C2",
+        "originalIndex": 910,
+        "name": "Sartana C2",
         "effects": [
             "Destroys all Minions from the target.",
             "Deals 500% damage to the target.",
@@ -8761,8 +8784,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 909,
-        "name": "萨塔娜 (Sartana) 卡通",
+        "originalIndex": 911,
+        "name": "Sartana Toon",
         "effects": [
             "Deals 530% damage to the target.",
             "The target receives 510 Poison damage over 3 turns.",
@@ -8770,8 +8793,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 910,
-        "name": "萨塔娜 (Sartana) 玻璃",
+        "originalIndex": 912,
+        "name": "Sartana Glass",
         "effects": [
             "Deals 540% damage to the target.",
             "The attack bypasses defensive buffs. (This includes counterattacks.)",
@@ -8779,8 +8802,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 911,
-        "name": "杀意 (Satsui)",
+        "originalIndex": 913,
+        "name": "Satsui",
         "effects": [
             "1x Mana Charge",
             "* Deals 400% damage to the target.",
@@ -8800,8 +8823,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 912,
-        "name": "嗣卡伏 (Scath)",
+        "originalIndex": 914,
+        "name": "Scath",
         "effects": [
             "All allies regenerate 1290 HP over 3 turns. This effect can't be dispelled.",
             "The caster counterattacks with 145% of the damage received for 3 turns.",
@@ -8809,8 +8832,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 913,
-        "name": "森安 (Senan)",
+        "originalIndex": 915,
+        "name": "Senan",
         "effects": [
             "Deals 275% damage to the all enemies.",
             "Summons a Spectre Fiend for all enemies. The Fiend damages its target with 45% attack every turn.",
@@ -8820,8 +8843,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 914,
-        "name": "森安 (Senan) C1",
+        "originalIndex": 916,
+        "name": "Senan C1",
         "effects": [
             "Deals 265% damage to all enemies.",
             "Summons a Specter Fiend for all enemies. The Fiend damages its target with 55% attack every turn.",
@@ -8831,8 +8854,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 915,
-        "name": "塞雷娜 (Serena)",
+        "originalIndex": 917,
+        "name": "Serena",
         "effects": [
             "Deals 400% damage to the target.",
             "Summons a Gossip Whisperer Fiend for the target.",
@@ -8842,8 +8865,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 916,
-        "name": "赛沙特 (Seshat)",
+        "originalIndex": 918,
+        "name": "Seshat",
         "effects": [
             "Deals 450% damage to the target.",
             "Summon a Replicator Minion with 20% HP and 17% attack inherited from the caster. The minion generates a clone of itself every 3 turns. Cloned minions inherit the same amount of HP and attack as the original minion.",
@@ -8852,8 +8875,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 917,
-        "name": "赛沙特 (Seshat) C1",
+        "originalIndex": 919,
+        "name": "Seshat C1",
         "effects": [
             "Dispels buffs from the target and nearby enemies.",
             "Deals 420% damage to the target.",
@@ -8862,8 +8885,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 918,
-        "name": "赛特 (Set)",
+        "originalIndex": 920,
+        "name": "Set",
         "effects": [
             "Summon a Dark Soldier Minion for all allies with 40% HP and 40% attack inherited from the caster.",
             "All enemies receive 324 Poison damage over 3 turns.",
@@ -8871,8 +8894,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 919,
-        "name": "赛特 (Set) C1",
+        "originalIndex": 921,
+        "name": "Set C1",
         "effects": [
             "Summons a Dark Soldier Minion for all allies with 45% HP and 35% attack inherited from the caster.",
             "All enemies receive 1136 Poison damage over 4 turns.",
@@ -8880,8 +8903,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 920,
-        "name": "刹克尔博特 (Shacklebolt)",
+        "originalIndex": 922,
+        "name": "Shacklebolt",
         "effects": [
             "Deals 370% damage to the target and nearby enemies.",
             "Steals 25% mana from the target and nearby enemies and distributes it to the caster and nearby allies.",
@@ -8889,8 +8912,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 921,
-        "name": "影牙 (Shadowfang)",
+        "originalIndex": 923,
+        "name": "Shadowfang",
         "effects": [
             "Deals 390% damage to all enemies.",
             "At the end of each turn, the caster cast a Bone Toss at a random enemy for 5 turns.",
@@ -8900,8 +8923,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 922,
-        "name": "卡斯米尔爵士 (Sir Casmir)",
+        "originalIndex": 924,
+        "name": "Sir Casmir",
         "effects": [
             "Cleanses status ailments from the caster and nearby allies.",
             "For the next 5 turns, this character has a 55% chance to deal 600% damage to a random enemy after an enemy casts their Special Skill. (Each enemy can trigger this effect once per turn.)",
@@ -8910,16 +8933,16 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 923,
-        "name": "斯利波西 (Sliposi)",
+        "originalIndex": 925,
+        "name": "Sliposi",
         "effects": [
             "Increases the mana of allies on the edges of the formation by 30%.",
             "Summon a Slime Mega Minion for the allies on the edges of the enemy formation with 50% HP and 40% attack inherited from the caster."
         ]
     },
     {
-        "originalIndex": 924,
-        "name": "斯尼夫鲁 (Sneferu)",
+        "originalIndex": 926,
+        "name": "Sneferu",
         "effects": [
             "Deals 415% damage to the target.",
             "The attack chains through all the enemies who are adjacent to any hit enemy.",
@@ -8927,8 +8950,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 925,
-        "name": "斯尼夫鲁 (Sneferu) C1",
+        "originalIndex": 927,
+        "name": "Sneferu C1",
         "effects": [
             "Deals 530% damage to the target.",
             "The attack chains through all the enemies who are adjacent to any hit enemy.",
@@ -8936,8 +8959,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 926,
-        "name": "索查 (Sorcha)",
+        "originalIndex": 928,
+        "name": "Sorcha",
         "effects": [
             "Deals 410% damage to the target and nearby enemies.",
             "Reduces max health of the target and nearby enemies by 1200 over 3 turns. This effect is stronger against targets with boosted health. The effect duration resets if the target is healed. (Max health can't get lower than 30% of the original max health. Any boosted health is reduced by an additional 400 per turn.)",
@@ -8945,8 +8968,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 927,
-        "name": "迅爪 (Swiftpaw)",
+        "originalIndex": 929,
+        "name": "Swiftpaw",
         "effects": [
             "Deals 540% damage to the target.",
             "The target gets silenced for 3 turns.",
@@ -8956,8 +8979,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 928,
-        "name": "塔姆林 (Tamlin)",
+        "originalIndex": 930,
+        "name": "Tamlin",
         "effects": [
             "Deals 460% damage to all enemies.",
             "Enhanced Defense Ailment: All enemies get -64% defense against Special Skills. This effect lasts until the enemy takes damage from a Special Skill 6 times.",
@@ -8965,8 +8988,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 929,
-        "name": "夜魅 (Tenebrae)",
+        "originalIndex": 931,
+        "name": "Tenebrae",
         "effects": [
             "Deals 395% damage to the target.",
             "The target get Soul Bound for 3 turns. This effect can’t be cleansed. This effect will always bypass reflection.",
@@ -8974,8 +8997,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 930,
-        "name": "野兽 (The Beast)",
+        "originalIndex": 932,
+        "name": "The Beast",
         "effects": [
             "If the caster has 35 or more Humility:",
             "* Deals 430% damage to 6 random enemies.",
@@ -8989,8 +9012,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 931,
-        "name": "图特阿蒙 (Thoth-Amun)",
+        "originalIndex": 933,
+        "name": "Thoth-Amun",
         "effects": [
             "Deals 340% damage to the target and nearby enemies.",
             "Summons an Undead Minion for the caster and nearby allies with 30% HP and 20% attack inherited from the caster.",
@@ -8998,8 +9021,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 932,
-        "name": "图特阿蒙 (Thoth-Amun) C1",
+        "originalIndex": 934,
+        "name": "Thoth-Amun C1",
         "effects": [
             "Deals 360% damage to the target and nearby enemies.",
             "Summons an Undead Minion for the Caster and Nearby allies with 27% HP and 27% attack inherited from the caster.",
@@ -9007,8 +9030,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 933,
-        "name": "特里瓦尔迪 (Thrivaldi)",
+        "originalIndex": 935,
+        "name": "Thrivaldi",
         "effects": [
             "Attacks all enemies with Frostfall Strike, dealing up to 1600 damage. Deals 40% more if the target is of the Fire element. This Special Skill never misses its targets.",
             "All allies get +40% defense for 4 turns.",
@@ -9016,8 +9039,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 934,
-        "name": "寅 (Tora)",
+        "originalIndex": 936,
+        "name": "Tora",
         "effects": [
             "Special Skill has a different effect when charged with 100%/200%/300% mana:",
             "x1 Mana Charge:",
@@ -9035,8 +9058,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 935,
-        "name": "图尔顾汝克 (Turgruk)",
+        "originalIndex": 937,
+        "name": "Turgruk",
         "effects": [
             "Deals 480% damage to the target.",
             "Stack (Max:10): All damage the target receives is increased by +5%.",
@@ -9044,8 +9067,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 936,
-        "name": "特伟双胞胎 (Tweedles)",
+        "originalIndex": 938,
+        "name": "Tweedles",
         "effects": [
             "Deals 600% damage to a random enemy.",
             "The target gets -50% defense for 5 turns.",
@@ -9055,8 +9078,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 937,
-        "name": "奥绰刻斯 (Ultrox)",
+        "originalIndex": 939,
+        "name": "Ultrox",
         "effects": [
             "Special Skill need consecutive uses to reach full power, the following order:",
             "1st:",
@@ -9070,8 +9093,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 938,
-        "name": "奥绰刻斯 (Ultrox) C1",
+        "originalIndex": 940,
+        "name": "Ultrox C1",
         "effects": [
             "Special Skill need consecutive uses to reach full power, the following order:",
             "1st:",
@@ -9085,8 +9108,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 939,
-        "name": "翁布丽亚 (Umbria)",
+        "originalIndex": 941,
+        "name": "Umbria",
         "effects": [
             "Deaks 450% damage to the target.",
             "Summon a Spreading Shadow Fiend for the target. The Fiend damage the enemy with 60% attack every turn.",
@@ -9095,8 +9118,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 940,
-        "name": "梅子 (Umeko)",
+        "originalIndex": 942,
+        "name": "Umeko",
         "effects": [
             "Special Skill has a different effect when charged with 100%/200%/300% mana:",
             "x1 Mana Charge:",
@@ -9114,8 +9137,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 941,
-        "name": "尤塞娜 (Ursena)",
+        "originalIndex": 943,
+        "name": "Ursena",
         "effects": [
             "Deals 130% damage to all enemies.",
             "Deals 260% damage if the target has more than 50% health remaining.",
@@ -9124,8 +9147,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 942,
-        "name": "尤塞娜 (Ursena) C1",
+        "originalIndex": 944,
+        "name": "Ursena C1",
         "effects": [
             "Deals 130% damage to all enemies.",
             "Deals 260% damage if the target has more than 50% health remaining.",
@@ -9134,8 +9157,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 943,
-        "name": "乌丝拉甘 (Uthragan)",
+        "originalIndex": 945,
+        "name": "Uthragan",
         "effects": [
             "Deals 180% damage to the target.",
             "The target and nearby enemies receive 822 Poison damage over 3 turns.  The caster absorbs 100% of dealt Poison damage as health.",
@@ -9143,8 +9166,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 944,
-        "name": "乌韦 (Uwe)",
+        "originalIndex": 946,
+        "name": "Uwe",
         "effects": [
             "Deals 850% damage to the target.",
             "If the target has less than 50% health before receiving damage, targets another enemy who had less than 50% health before receiving any damage from this Special Skill. If none of the other enemies have 50% health, targets a random enemy. The damage is reduced on each consecutive hit. Each enemy can only be hit once.",
@@ -9152,8 +9175,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 945,
-        "name": "范德尔 (Vander)",
+        "originalIndex": 947,
+        "name": "Vander",
         "effects": [
             "Deals 450% damage to the target.",
             "The target gets silenced for 3 turns.",
@@ -9162,8 +9185,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 946,
-        "name": "瓦德 (Vard)",
+        "originalIndex": 948,
+        "name": "Vard",
         "effects": [
             "Deals 470% damage to all enemies.",
             "Wither: All enemies get -350 attack and -350 defense.",
@@ -9171,8 +9194,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 947,
-        "name": "维克托 (Victor)",
+        "originalIndex": 949,
+        "name": "Victor",
         "effects": [
             "Deals 250% damage to the target.",
             "The target receives 510 Surge Bleed over 5 turns. If a target already has this effect, the duration will be refreshed and the damage will be increased by 455, up to 1410 damage in total.",
@@ -9181,8 +9204,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 948,
-        "name": "维克托 (Victor) C1",
+        "originalIndex": 950,
+        "name": "Victor C1",
         "effects": [
             "Deals 155% damage to the target and nearby enemies.",
             "The target and nearby enemies receive 330 Surge Bleed over 5 turns. If a target already has this effect, the duration will be refreshed and the damage will be increased by 450, up to 1225 damage in total.",
@@ -9191,8 +9214,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 949,
-        "name": "维奥莱特·波茨 (Violet Potts)",
+        "originalIndex": 951,
+        "name": "Violet Potts",
         "effects": [
             "Safely dispels status effect buffs from all enemies.",
             "All enemies are immune to new status effect buffs for 4 turns.",
@@ -9201,8 +9224,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 950,
-        "name": "维斯卡罗 (Viscaro)",
+        "originalIndex": 952,
+        "name": "Viscaro",
         "effects": [
             "Deals 280% damage to all enemies.",
             "Damage bypasses target’s minions.",
@@ -9213,8 +9236,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 951,
-        "name": "咯木子爵 (Viscount Cluckwood)",
+        "originalIndex": 953,
+        "name": "Viscount Cluckwood",
         "effects": [
             "Rearranges the enemy positions randomly.",
             "Deals 340% damage to all enemies.",
@@ -9223,8 +9246,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 952,
-        "name": "虚空之星 (Voidstar)",
+        "originalIndex": 954,
+        "name": "Voidstar",
         "effects": [
             "This Special Skill never misses its targets.",
             "Deals 620% damage to the target.",
@@ -9233,8 +9256,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 953,
-        "name": "冯·罗斯巴特 (Von Rothbart)",
+        "originalIndex": 955,
+        "name": "Von Rothbart",
         "effects": [
             "Deals 550% damage to the target.",
             "The target dances to Ballad of Pain for 4 turns. The dance spreads to nearby enemies.",
@@ -9247,8 +9270,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 954,
-        "name": "蝎子精 (Xie Zi Jing)",
+        "originalIndex": 956,
+        "name": "Xie Zi Jing",
         "effects": [
             "This Special Skill ignores Dodge effects.",
             "Dispels buffs from the target and nearby enemies.",
@@ -9256,8 +9279,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 955,
-        "name": "熊山君 (Xiong Shanjun)",
+        "originalIndex": 957,
+        "name": "Xiong Shanjun",
         "effects": [
             "Reduces max health of all enemies by 800 over 4 turns. The effect is stronger against targets with boosted health. Max health can't get lower than 30% of the original max health. Any boosted health is reduced by an additional 200 per turn.",
             "All allies regenerate 800 boosted health over 4 turns. Boosted health can exceed max HP.",
@@ -9266,8 +9289,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 956,
-        "name": "泽诺福德 (Xnolphod)",
+        "originalIndex": 958,
+        "name": "Xnolphod",
         "effects": [
             "Recovers 40% health for all allies.",
             "Increases the mana of all allies by 10%.",
@@ -9275,8 +9298,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 957,
-        "name": "泽诺福德 (Xnolphod) C1",
+        "originalIndex": 959,
+        "name": "Xnolphod C1",
         "effects": [
             "All allies regenerate 1060 HP over 4 turns.",
             "All allies receive a small amount of mana over 4 turns.",
@@ -9284,8 +9307,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 958,
-        "name": "伊莎贝尔 (Ysabel)",
+        "originalIndex": 960,
+        "name": "Ysabel",
         "effects": [
             "Deals 535% damage to the target and minor damage to nearby enemies.",
             "Enhanced Defense Ailment: The target and nearby enemies get -64% defense against Special Skills. This effect lasts until the enemy takes damage from a Special Skill 3 times.",
@@ -9293,8 +9316,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 959,
-        "name": "泽德 (Zed)",
+        "originalIndex": 961,
+        "name": "Zed",
         "effects": [
             "Deals 440% damage to the target.",
             "The target gets -34% defense for 2 turns. The effect duration resets if the target is hit with direct damage from a Special Skill.",
@@ -9303,8 +9326,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 960,
-        "name": "祖拉格 (Zulag)",
+        "originalIndex": 962,
+        "name": "Zulag",
         "effects": [
             "The caster and nearby allies regenerate 852 HP over 4 turns",
             "The caster and nearby allies get +46% defense for 4 turns",
@@ -9313,66 +9336,66 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 961,
-        "name": "莎朗 (Sharan)",
+        "originalIndex": 963,
+        "name": "Sharan",
         "effects": [
             "Recovers 27% health for all allies"
         ]
     },
     {
-        "originalIndex": 962,
-        "name": "图丹 (Tudan)",
+        "originalIndex": 964,
+        "name": "Tudan",
         "effects": [
             "Deals 265% damage to the target"
         ]
     },
     {
-        "originalIndex": 963,
-        "name": "法里德 (Farid)",
+        "originalIndex": 965,
+        "name": "Farid",
         "effects": [
             "Deals 115% damage to all enemies"
         ]
     },
     {
-        "originalIndex": 964,
-        "name": "吉尔 (Jill)",
+        "originalIndex": 966,
+        "name": "Jill",
         "effects": [
             "All allies get 48% attack for 4 turns"
         ]
     },
     {
-        "originalIndex": 965,
-        "name": "沙克特 (Shaarkot)",
+        "originalIndex": 967,
+        "name": "Shaarkot",
         "effects": [
             "All allies get +48% attack for 4 turns"
         ]
     },
     {
-        "originalIndex": 966,
-        "name": "祖达 (Zudak)",
+        "originalIndex": 968,
+        "name": "Zudak",
         "effects": [
             "Deals 200% damage to the target and minor damage to nearby enemies"
         ]
     },
     {
-        "originalIndex": 967,
-        "name": "阿萨尔 (Azar)",
+        "originalIndex": 969,
+        "name": "Azar",
         "effects": [
             "Deals 280% damage to the target.",
             "Reduces the mana of the target by 25%."
         ]
     },
     {
-        "originalIndex": 968,
-        "name": "阿萨尔 (Azar) C1",
+        "originalIndex": 970,
+        "name": "Azar C1",
         "effects": [
             "Deals 170% damage to the target and nearby enemies.",
             "Reduces the mana of the target and nearby enemies by 15%."
         ]
     },
     {
-        "originalIndex": 969,
-        "name": "阿萨尔 (Azar) 卡通",
+        "originalIndex": 971,
+        "name": "Azar Toon",
         "effects": [
             "Deals 285% damage to the target.",
             "Reduces the mana of the target by 20%.",
@@ -9380,8 +9403,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 970,
-        "name": "阿萨尔 (Azar) 玻璃",
+        "originalIndex": 972,
+        "name": "Azar Glass",
         "effects": [
             "Deals 295% damage to the target.",
             "Reduces the mana of the target by 25%.",
@@ -9389,8 +9412,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 971,
-        "name": "巴格雷格 (Bagreg)",
+        "originalIndex": 973,
+        "name": "Bagreg",
         "effects": [
             "Special Skill need consecutive uses to reach full power, the following order:",
             "1st:",
@@ -9402,8 +9425,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 972,
-        "name": "巴格雷格 (Bagreg) C1",
+        "originalIndex": 974,
+        "name": "Bagreg C1",
         "effects": [
             "Special Skill needs consecutive uses to reach full power, in the following order:",
             "1st:",
@@ -9415,8 +9438,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 973,
-        "name": "贝索 (Basil)",
+        "originalIndex": 975,
+        "name": "Basil",
         "effects": [
             "All allies become Soul Connected for 4 turns. Soul Connected allies share received damage.",
             "All allies get +35% defense for 4 turns. The defense increases by 10% each turn up to +65%.",
@@ -9424,8 +9447,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 974,
-        "name": "波肯 (Bauchan)",
+        "originalIndex": 976,
+        "name": "Bauchan",
         "effects": [
             "Deals 105% damage to all enemies.",
             "Reduces the mana of all enemies by 20%.",
@@ -9433,8 +9456,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 975,
-        "name": "布茨 (Boots)",
+        "originalIndex": 977,
+        "name": "Boots",
         "effects": [
             "Deals 200% damage to the target and nearby enemies.",
             "Wither: The target and nearby enemies get -40 attack and -40 defense.",
@@ -9442,8 +9465,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 976,
-        "name": "巴斯特 (Buster)",
+        "originalIndex": 978,
+        "name": "Buster",
         "effects": [
             "Deals 275% damage to the target and nearby enemies.",
             "Summons an Elf Minion for the caster with 10% HP and 10% attack inherited from the caster.",
@@ -9451,8 +9474,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 977,
-        "name": "但丁 (Dante)",
+        "originalIndex": 979,
+        "name": "Dante",
         "effects": [
             "Special Skill has a different effect when charged with 100% / 200% / 300% mana:",
             "1x Mana Charge:",
@@ -9469,95 +9492,95 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 978,
-        "name": "艾邓恩 (Ei-Dunn)",
+        "originalIndex": 980,
+        "name": "Ei-Dunn",
         "effects": [
             "Deals 240% damage to the target and nearby enemies.",
             "The target and nearby enemies get -24% mana generation for 4 turns."
         ]
     },
     {
-        "originalIndex": 979,
-        "name": "艾邓恩 (Ei-Dunn) C1",
+        "originalIndex": 981,
+        "name": "Ei-Dunn C1",
         "effects": [
             "Deals 180% damage to all enemies.",
             "Reduces the mana of all enemies by 10%."
         ]
     },
     {
-        "originalIndex": 980,
-        "name": "小鹿 (Fawn)",
+        "originalIndex": 982,
+        "name": "Fawn",
         "effects": [
             "All allies get +45% chance to Dodge Special Skills for 3 turns.  Each Dodge damages the attacker for 80 damage.",
             "All allies receive a small amount of mana over 3 turns."
         ]
     },
     {
-        "originalIndex": 981,
-        "name": "鹰月 (Hawkmoon)",
+        "originalIndex": 983,
+        "name": "Hawkmoon",
         "effects": [
             "Recover 32% health for all allies."
         ]
     },
     {
-        "originalIndex": 982,
-        "name": "鹰月 (Hawkmoon) C1",
+        "originalIndex": 984,
+        "name": "Hawkmoon C1",
         "effects": [
             "All allies regenerate 459 HP over 3 turns.",
             "All allies get +30% attack for 3 turns."
         ]
     },
     {
-        "originalIndex": 983,
-        "name": "鹰月 (Hawkmoon) 卡通",
+        "originalIndex": 985,
+        "name": "Hawkmoon Toon",
         "effects": [
             "Recovers 35% health for all allies.",
             "All allies get +34% defense for 3 turns. For all Fire characters, this status effect becomes undispellable and lasts 2 turns longer."
         ]
     },
     {
-        "originalIndex": 984,
-        "name": "鹰月 (Hawkmoon) 玻璃",
+        "originalIndex": 986,
+        "name": "Hawkmoon Glass",
         "effects": [
             "Recovers 37% health for all allies.",
             "All Fire allies reflect status ailments and negative stacks for 2 turns.(Status effect cast by characters, Minions and Fiends on the same side cannot be reflected.)"
         ]
     },
     {
-        "originalIndex": 985,
-        "name": "赫尔吉 (Helgi)",
+        "originalIndex": 987,
+        "name": "Helgi",
         "effects": [
             "Deals 130% damage to 8 random enemies.",
             "The duration of buffs is reset for all allies."
         ]
     },
     {
-        "originalIndex": 986,
-        "name": "赫尔吉 (Helgi) C1",
+        "originalIndex": 988,
+        "name": "Helgi C1",
         "effects": [
             "Deals 150% damage to 8 random enemies.",
             "The duration of buffs is reset for all allies."
         ]
     },
     {
-        "originalIndex": 987,
-        "name": "贾汉吉 (Jahangir)",
+        "originalIndex": 989,
+        "name": "Jahangir",
         "effects": [
             "Deals 145% damage to all enemies.",
             "All enemies receive 120 damage over 6 turns."
         ]
     },
     {
-        "originalIndex": 988,
-        "name": "贾汉吉 (Jahangir) C1",
+        "originalIndex": 990,
+        "name": "Jahangir C1",
         "effects": [
             "Deals 115% damage to all enemies.",
             "All enemies receive 156 Burn damage over 4 turns."
         ]
     },
     {
-        "originalIndex": 989,
-        "name": "贾汉吉 (Jahangir) 卡通",
+        "originalIndex": 991,
+        "name": "Jahangir Toon",
         "effects": [
             "Deals 175% damage to all enemies.",
             "All enemies receive 114 Burn damage over 3 turns.",
@@ -9565,8 +9588,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 990,
-        "name": "贾汉吉 (Jahangir) 玻璃",
+        "originalIndex": 992,
+        "name": "Jahangir Glass",
         "effects": [
             "Deals 185% damage to all enemies.",
             "The attack bypasses defensive buffs. (This includes counterattacks.)",
@@ -9574,8 +9597,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 991,
-        "name": "科内尔 (Kornel)",
+        "originalIndex": 993,
+        "name": "Kornel",
         "effects": [
             "Special Skill has a different effect when charged with 100%/200% mana:",
             "1x Mana Charge:",
@@ -9585,8 +9608,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 992,
-        "name": "李 (Li)",
+        "originalIndex": 994,
+        "name": "Li",
         "effects": [
             "Deals 160% damage to all enemies.",
             "Summons a Wu Soldier Minion for each ally with 10% HP and 18% attack inherited from the caster.",
@@ -9594,8 +9617,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 993,
-        "name": "刘唐 (Liu Tang)",
+        "originalIndex": 995,
+        "name": "Liu Tang",
         "effects": [
             "This Special Skill has a chance to deal Critical hits. (The chance of dealing a Critical hit is based on Hero’s overall critical chance when the damage is dealt. Critical hits caused by this Special Skill deal 50% more damage. Critical hits can reduces enemies’ max health on PVP battles. This effect is stronger against boosted health.)",
             "Deals 265% damage to the target and minor damage to nearby enemies.",
@@ -9603,32 +9626,32 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 994,
-        "name": "生剥鬼 (Namahage)",
+        "originalIndex": 996,
+        "name": "Namahage",
         "effects": [
             "Deals 290% damage to the target.",
             "The caster gets +45% attack, and a further 20% increase every time they are hit during 5 turns."
         ]
     },
     {
-        "originalIndex": 995,
-        "name": "纳什加 (Nashgar)",
+        "originalIndex": 997,
+        "name": "Nashgar",
         "effects": [
             "Deals 290% damage to the target.",
             "The target receives 126 Burn damage over 6 turns."
         ]
     },
     {
-        "originalIndex": 996,
-        "name": "纳什加 (Nashgar) C1",
+        "originalIndex": 998,
+        "name": "Nashgar C1",
         "effects": [
             "Deals 260% damage to the target.",
             "The target receives 129 Burn damage over 3 turns."
         ]
     },
     {
-        "originalIndex": 997,
-        "name": "纳什加 (Nashgar) 卡通",
+        "originalIndex": 999,
+        "name": "Nashgar Toon",
         "effects": [
             "Deals 295% damage to the target.",
             "The target receives 144 Burn damage over 4 turns.",
@@ -9636,8 +9659,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 998,
-        "name": "纳什加 (Nashgar) 玻璃",
+        "originalIndex": 1000,
+        "name": "Nashgar Glass",
         "effects": [
             "Deals 305% damage to the target.",
             "The attack bypasses defensive buffs. (This includes counterattacks.)",
@@ -9645,16 +9668,16 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 999,
-        "name": "菲尼克斯 (Phoenicus)",
+        "originalIndex": 1001,
+        "name": "Phoenicus",
         "effects": [
             "All allies except the caster get +50% attack for 3 turns.",
             "All allies except the caster get +24% mana generation for 3 turns."
         ]
     },
     {
-        "originalIndex": 1000,
-        "name": "派珀 (Piper)",
+        "originalIndex": 1002,
+        "name": "Piper",
         "effects": [
             "Deals 220% damage to the target and nearby enemies and inflicts 25 Insanity on them.",
             "Stack (Max: 10): The caster gets +17% attack.",
@@ -9662,16 +9685,16 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1001,
-        "name": "小玫瑰 (Rosepetite)",
+        "originalIndex": 1003,
+        "name": "Rosepetite",
         "effects": [
             "Deals 200% damage to the target and nearby enemies.",
             "The target and nearby enemies receives 144 Toxin damage over 4 turns. If Toxin is cast on a target with boosted health, Minions or Mega Minion, the Toxin damage received is increased. (The Toxin damage is increased by +100% against targets with boosted health. Each Minion or Mega Minion owned by the target increases the damage by additional +33%, up to total +199%.)"
         ]
     },
     {
-        "originalIndex": 1002,
-        "name": "鲁道夫 (Rudolph)",
+        "originalIndex": 1004,
+        "name": "Rudolph",
         "effects": [
             "Deals 285% damage to the target",
             "Reduces the mana of the target by 20%.",
@@ -9679,8 +9702,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1003,
-        "name": "鲁弗斯 (Rufus)",
+        "originalIndex": 1005,
+        "name": "Rufus",
         "effects": [
             "Deals 210% damage to all enemies.",
             "All enemies receive 216 Bleed damage over 4 turns.",
@@ -9688,24 +9711,24 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1004,
-        "name": "斯克里克 (Skrekok)",
+        "originalIndex": 1006,
+        "name": "Skrekok",
         "effects": [
             "Deals 225% damage to the target and nearby enemies.",
             "The caster and nearby allies get +45% attack and a further +20% increase every time they are hit during 3 turns."
         ]
     },
     {
-        "originalIndex": 1005,
-        "name": "兔子随从 (Squire Wabbit)",
+        "originalIndex": 1007,
+        "name": "Squire Wabbit",
         "effects": [
             "Deals 355% damage to the target",
             "The caster gets -20% defense for 3 turns. This effect can't be cleansed"
         ]
     },
     {
-        "originalIndex": 1006,
-        "name": "星闪 (Starswift)",
+        "originalIndex": 1008,
+        "name": "Starswift",
         "effects": [
             "This Special Skill never misses its targets.",
             "Deal 265% damage to the target and nearby enemies.",
@@ -9713,48 +9736,48 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1007,
-        "name": "苏德里 (Sudri)",
+        "originalIndex": 1009,
+        "name": "Sudri",
         "effects": [
             "Deals 120% damage to all enemies.",
             "Deals additional 24% damage per each Fire shield on the board, up to 360% damage in total."
         ]
     },
     {
-        "originalIndex": 1008,
-        "name": "沃勒莫克 (Vollermork)",
+        "originalIndex": 1010,
+        "name": "Vollermork",
         "effects": [
             "Summons a Worm Fiend for all enemies. The Fiend damages the enemy with 32% attack every turn.",
             "The Worm Fiend absorbs healing and disappears when it has absorbed health equal to 16% of the targets max health"
         ]
     },
     {
-        "originalIndex": 1009,
-        "name": "沃勒莫克 (Vollermork) C1",
+        "originalIndex": 1011,
+        "name": "Vollermork C1",
         "effects": [
             "Summons a Worm Fiend for all enemies. The fiend damages the enemy with 28% attack every turn.",
             "The fiend absorbs healing. It disappears after absorbing a healing equal to 20% of the target’s max health."
         ]
     },
     {
-        "originalIndex": 1010,
-        "name": "瓦卡斯 (Waqas)",
+        "originalIndex": 1012,
+        "name": "Waqas",
         "effects": [
             "Deals 205% damage to all enemies.",
             "Reduces max health for all enemies by 450 over 3 turns. The effect is stronger against targets with boosted health. (Max health can’t get lower than 30% of the original max health. Any boosted health is reduced by an additional 150 per turn.)"
         ]
     },
     {
-        "originalIndex": 1011,
-        "name": "瓦卡斯 (Waqas) C1",
+        "originalIndex": 1013,
+        "name": "Waqas C1",
         "effects": [
             "Deals 235% damage to all enemies.",
             "Reduces max health of all enemies by 345 over 3 turns. The effect is stronger against targets with boosted health. (Max health can’t get lower than 30% of the original max health. Any boosted health is reduced by an additional 115 per turn.)"
         ]
     },
     {
-        "originalIndex": 1012,
-        "name": "奥丹 (Aodhan)",
+        "originalIndex": 1014,
+        "name": "Aodhan",
         "effects": [
             "Deals 210% damage to all enemies.",
             "Summons a Wisp Fiend for all enemies. The Fiend damages its target with 35% attack every turn.",
@@ -9764,40 +9787,40 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1013,
-        "name": "猛牙 (Boldtusk)",
+        "originalIndex": 1015,
+        "name": "Boldtusk",
         "effects": [
             "Recovers 27% health for all allies.",
             "All allies get +48% attack for 4 turns."
         ]
     },
     {
-        "originalIndex": 1014,
-        "name": "猛牙 (Boldtusk) C1",
+        "originalIndex": 1016,
+        "name": "Boldtusk C1",
         "effects": [
             "Recovers 37% health for all allies.",
             "All allies get +30% attack for 4 turns."
         ]
     },
     {
-        "originalIndex": 1015,
-        "name": "猛牙 (Boldtusk) C2",
+        "originalIndex": 1017,
+        "name": "Boldtusk C2",
         "effects": [
             "All allies regenerate 288 boosted health over 4 turns. Boosted health can exceed max HP.",
             "All allies get +45% attack, and a further 20% increase every time they are hit during 4 turns."
         ]
     },
     {
-        "originalIndex": 1016,
-        "name": "猛牙 (Boldtusk) 卡通",
+        "originalIndex": 1018,
+        "name": "Boldtusk Toon",
         "effects": [
             "Recovers 33% health for all allies.",
             "All allies get +40% attack for 4 turns. For all Fire characters, this status effect becomes undispellable and lasts 2 turns longer."
         ]
     },
     {
-        "originalIndex": 1017,
-        "name": "猛牙 (Boldtusk) 玻璃",
+        "originalIndex": 1019,
+        "name": "Boldtusk Glass",
         "effects": [
             "Recovers 34% health for all allies.",
             "All allies get +45% attack for 4 turns.",
@@ -9805,8 +9828,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1018,
-        "name": "卡罗尔 (Carol)",
+        "originalIndex": 1020,
+        "name": "Carol",
         "effects": [
             "Reduces mana of the target by 25%.",
             "Summons an elf Minion with 10% HP and 10% attack inherited from the caster.",
@@ -9814,8 +9837,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1019,
-        "name": "希里安 (Cillian)",
+        "originalIndex": 1021,
+        "name": "Cillian",
         "effects": [
             "Deals 315% damage to the target and nearby enemies.",
             "If the caster dies during the next 4 turns they are resurrected in the beginning of their next turn with 27% health. All status effects and stacks are removed when the caster dies.",
@@ -9824,24 +9847,24 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1020,
-        "name": "科伦 (Colen)",
+        "originalIndex": 1022,
+        "name": "Colen",
         "effects": [
             "Deals 180% damage to all enemies",
             "All enemies receive 348 damage over 6 turns"
         ]
     },
     {
-        "originalIndex": 1021,
-        "name": "科伦 (Colen) C1",
+        "originalIndex": 1023,
+        "name": "Colen C1",
         "effects": [
             "Deals 240% damage to all enemies.",
             "All enemies receive 204 Burn damage over 3 turns."
         ]
     },
     {
-        "originalIndex": 1022,
-        "name": "科伦 (Colen) C2",
+        "originalIndex": 1024,
+        "name": "Colen C2",
         "effects": [
             "Deals 285% damage to the target and nearby enemies.",
             "The target and nearby enemies get -54% defense against Fire for 6 turns.",
@@ -9849,8 +9872,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1023,
-        "name": "科伦 (Colen) 卡通",
+        "originalIndex": 1025,
+        "name": "Colen Toon",
         "effects": [
             "Deals 210% damage to all enemies.",
             "All enemies receive 174 Burn damage over 3 turns.",
@@ -9858,8 +9881,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1024,
-        "name": "科伦 (Colen) 玻璃",
+        "originalIndex": 1026,
+        "name": "Colen Glass",
         "effects": [
             "Deals 220% damage to all enemies.",
             "The attack bypasses defensive buffs. (This includes counterattacks.)",
@@ -9867,40 +9890,40 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1025,
-        "name": "艾希贝尔伯格 (Eichbelborg)",
+        "originalIndex": 1027,
+        "name": "Eichbelborg",
         "effects": [
             "Deals 340% damage to the target.",
             "The enemy with the highest base defense gets -44% defense for 4 turns."
         ]
     },
     {
-        "originalIndex": 1026,
-        "name": "费朗特 (Ferant)",
+        "originalIndex": 1028,
+        "name": "Ferant",
         "effects": [
             "The caster and nearby allies counterattack with 115% of the damage received for 5 turns.",
             "The caster and nearby allies decrease -10% mana from the attacker on each counterattack for 5 turns. The effect gets diminished for consecutive activations during the same turn."
         ]
     },
     {
-        "originalIndex": 1027,
-        "name": "费朗特 (Ferant) C1",
+        "originalIndex": 1029,
+        "name": "Ferant C1",
         "effects": [
             "The caster and nearby allies counterattack with 120% of the received damage for 5 turns.",
             "The caster and nearby allies decrease -5% mana from the attacker on each counterattack for 5 turns. The effect gets diminished for consecutive activations during the same turn."
         ]
     },
     {
-        "originalIndex": 1028,
-        "name": "戈莫克 (Gormek)",
+        "originalIndex": 1030,
+        "name": "Gormek",
         "effects": [
             "Deals 295% damage to the target and minor damage on nearby enemies.",
             "The target an nearby enemies get -34% defense for 6 turns."
         ]
     },
     {
-        "originalIndex": 1029,
-        "name": "戈莫克 (Gormek) C1",
+        "originalIndex": 1031,
+        "name": "Gormek C1",
         "effects": [
             "Destroys all Minions from all enemies.",
             "Deals 180% damage to all enemies.",
@@ -9908,16 +9931,16 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1030,
-        "name": "戈莫克 (Gormek) C2",
+        "originalIndex": 1032,
+        "name": "Gormek C2",
         "effects": [
             "Dispels buffs from all enemies",
             "Deals 225% damage to all enemies"
         ]
     },
     {
-        "originalIndex": 1031,
-        "name": "戈莫克 (Gormek) 卡通",
+        "originalIndex": 1033,
+        "name": "Gormek Toon",
         "effects": [
             "Deals 325% damage to the target and minor damage to nearby enemies.",
             "The target and nearby enemies get -24% defense for 6 turns.",
@@ -9925,8 +9948,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1032,
-        "name": "戈莫克 (Gormek) 玻璃",
+        "originalIndex": 1034,
+        "name": "Gormek Glass",
         "effects": [
             "Deals 335% damage to the target and minor damage to nearby enemies.",
             "The attack bypasses defensive buffs. (This includes counterattacks.)",
@@ -9934,16 +9957,16 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1033,
-        "name": "飞鹰守护者 (Guardian Falcon)",
+        "originalIndex": 1035,
+        "name": "Guardian Falcon",
         "effects": [
             "Deals 225% damage to the target and nearby enemies.",
             "The target and nearby enemies get -54% defense against fire for 4 turns"
         ]
     },
     {
-        "originalIndex": 1034,
-        "name": "伊潭 (Itham)",
+        "originalIndex": 1036,
+        "name": "Itham",
         "effects": [
             "Deals 270% damage to the target and nearby enemies.",
             "The target and nearby enemies are immune to new status effect buffs for 3 turns, and receive 70 damage for each attempted buff.",
@@ -9951,47 +9974,47 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1035,
-        "name": "约纳德 (Junaid)",
+        "originalIndex": 1037,
+        "name": "Junaid",
         "effects": [
             "Deals 400% damage to the target.",
             "Heals all allies for 30% of the damage dealt"
         ]
     },
     {
-        "originalIndex": 1036,
-        "name": "约纳德 (Junaid) C1",
+        "originalIndex": 1038,
+        "name": "Junaid C1",
         "effects": [
             "Deals 370% damage to the target.",
             "Heals all allies for 40% of damage dealt."
         ]
     },
     {
-        "originalIndex": 1037,
-        "name": "卡莉莱 (Kelile)",
+        "originalIndex": 1039,
+        "name": "Kelile",
         "effects": [
             "Deals 320% damage to the target.",
             "The target receives 414 damage over 6 turns."
         ]
     },
     {
-        "originalIndex": 1038,
-        "name": "卡莉莱 (Kelile) C1",
+        "originalIndex": 1040,
+        "name": "Kelile C1",
         "effects": [
             "All enemies receieve 334 Burn damage over 2 turns."
         ]
     },
     {
-        "originalIndex": 1039,
-        "name": "卡莉莱 (Kelile) C2",
+        "originalIndex": 1041,
+        "name": "Kelile C2",
         "effects": [
             "Deals 220% damage to the target and nearby enemies.",
             "The target and nearby enemies receive 198 Burn damage over 3 turns. The caster absorbs 30% of dealt Burn damage as health."
         ]
     },
     {
-        "originalIndex": 1040,
-        "name": "卡莉莱 (Kelile) 卡通",
+        "originalIndex": 1042,
+        "name": "Kelile Toon",
         "effects": [
             "Deals 325% damage to the target.",
             "The target receives 216 Burn damage over 3 turns.",
@@ -9999,8 +10022,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1041,
-        "name": "卡莉莱 (Kelile) 玻璃",
+        "originalIndex": 1043,
+        "name": "Kelile Glass",
         "effects": [
             "Deals 335% damage to the target.",
             "The attack bypasses defensive buffs. (This includes counterattacks.)",
@@ -10008,24 +10031,24 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1042,
-        "name": "勒明盖宁 (Lemminkainen)",
+        "originalIndex": 1044,
+        "name": "Lemminkainen",
         "effects": [
             "Deals 285% damage to the target and minor damage to nearby enemies.",
             "The target and nearby enemies receive 196 Burn damage over 4 turns. Against Ice characters, this status effect becomes uncleansable and lasts 2 turns longer."
         ]
     },
     {
-        "originalIndex": 1043,
-        "name": "勒明盖宁 (Lemminkainen) C1",
+        "originalIndex": 1045,
+        "name": "Lemminkainen C1",
         "effects": [
             "Deals 300% damage to the target and minor damage to nearby enemies.",
             "The target and nearby enemies receive 176 Burn Damage over 4 turns. Against Ice characters, this status effect becomes uncleansable and lasts 2 turns longer."
         ]
     },
     {
-        "originalIndex": 1044,
-        "name": "露西 (Lucy)",
+        "originalIndex": 1046,
+        "name": "Lucy",
         "effects": [
             "Special Skill has a different effect when charged with 100%/200% mana:",
             "1x Mana Charge:",
@@ -10037,24 +10060,24 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1045,
-        "name": "马克 (Mack)",
+        "originalIndex": 1047,
+        "name": "Mack",
         "effects": [
             "The caster and nearby allies counterattack with 125% of the damage received for 4 turns.",
             "The caster and nearby allies get +25% attack for 4 turns."
         ]
     },
     {
-        "originalIndex": 1046,
-        "name": "马克 (Mack) C1",
+        "originalIndex": 1048,
+        "name": "Mack C1",
         "effects": [
             "The caster and nearby allies counterattack with 100% of the damage received for 4 turns.",
             "The caster and nearby allies get +35% attack for 4 turns."
         ]
     },
     {
-        "originalIndex": 1047,
-        "name": "马埃尔 (Mael)",
+        "originalIndex": 1049,
+        "name": "Mael",
         "effects": [
             "Deals 285% damage to the target.",
             "Has 60% chance for additional hits on random enemies up to 3 times. Additional hits deals minor damage.",
@@ -10062,8 +10085,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1048,
-        "name": "玛黑根 (Maheegan)",
+        "originalIndex": 1050,
+        "name": "Maheegan",
         "effects": [
             "Deals 280% damage to the target and minor damage to nearby enemies.",
             "Summons a Bone Trap Fiend for the target and nearby enemies. The Fiend damages the enemy with 45% attack each turn. The damage increases by 8% each turn, up to a maximum of 93%.",
@@ -10071,16 +10094,16 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1049,
-        "name": "曼皮普 (Manpip)",
+        "originalIndex": 1051,
+        "name": "Manpip",
         "effects": [
             "Deals 250% damage to the target and nearby enemies.",
             "The target and nearby enemies receive 296 Burn damage over 4 turns. The caster absorbs 20% of dealt Burn damage as health."
         ]
     },
     {
-        "originalIndex": 1050,
-        "name": "诺娃 (Nova)",
+        "originalIndex": 1052,
+        "name": "Nova",
         "effects": [
             "Recovers 25% health for all allies.",
             "Recovers additional 2% health per each Fire shield on the board, up to 45% health in total.",
@@ -10088,8 +10111,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1051,
-        "name": "拉乌尔 (Raul)",
+        "originalIndex": 1053,
+        "name": "Raul",
         "effects": [
             "Deals 120% damage to the target and nearby enemies.",
             "The target and nearby enemies dance to Ballad of Attraction for 3 turns.  All existing status effects will be removed when this effect is added.",
@@ -10101,32 +10124,32 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1052,
-        "name": "洛卡莫什 (Rokkamush)",
+        "originalIndex": 1054,
+        "name": "Rokkamush",
         "effects": [
             "Deals 200% damage to all enemies. Each hit has 50% accuracy.",
             "All hit enemies receive 192 Bleed damage over 4 turns."
         ]
     },
     {
-        "originalIndex": 1053,
-        "name": "洛卡莫什 (Rokkamush) C1",
+        "originalIndex": 1055,
+        "name": "Rokkamush C1",
         "effects": [
             "Deals 175% damage to all enemies. Each hit has 80% accuracy.",
             "All hit enemies receive 200 bleed damage over 4 turns."
         ]
     },
     {
-        "originalIndex": 1054,
-        "name": "斯嘉丽 (Scarlett)",
+        "originalIndex": 1056,
+        "name": "Scarlett",
         "effects": [
             "Deals 215% damage to the target and minor damage to nearby enemies.",
             "The target and nearby enemies get -34% attack for 6 turns."
         ]
     },
     {
-        "originalIndex": 1055,
-        "name": "斯嘉丽 (Scarlett) C1",
+        "originalIndex": 1057,
+        "name": "Scarlett C1",
         "effects": [
             "Deals 185% damage to the target and minor damage to nearby enemies.",
             "The target and nearby enemies receive 138 Poison damage over 3 turns.",
@@ -10134,16 +10157,16 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1056,
-        "name": "斯嘉丽 (Scarlett) C2",
+        "originalIndex": 1058,
+        "name": "Scarlett C2",
         "effects": [
             "Deals 235% damage to the target and minor damage to the nearby enemies.",
             "The target and nearby enemies get -31% attack, and a further 4% decrease every time they are hit during 4 turns."
         ]
     },
     {
-        "originalIndex": 1057,
-        "name": "斯嘉丽 (Scarlett) 卡通",
+        "originalIndex": 1059,
+        "name": "Scarlett Toon",
         "effects": [
             "Deals 220% damage to the target and minor damage to nearby enemies.",
             "The target and nearby enemies get -24% attack for 6 turns.",
@@ -10151,8 +10174,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1058,
-        "name": "斯嘉丽 (Scarlett) 玻璃",
+        "originalIndex": 1060,
+        "name": "Scarlett Glass",
         "effects": [
             "Deals 230% damage to the target and minor damage to nearby enemies.",
             "The attack bypasses defensive buffs. (This includes counterattacks.)",
@@ -10160,8 +10183,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1059,
-        "name": "沙德里夫 (Shadereave)",
+        "originalIndex": 1061,
+        "name": "Shadereave",
         "effects": [
             "All allies get +30% attack for 4 turns.",
             "All allies get +30% critical chance for 4 turns.",
@@ -10173,8 +10196,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1060,
-        "name": "页岩 (Shale)",
+        "originalIndex": 1062,
+        "name": "Shale",
         "effects": [
             "1x Mana Charge",
             "* The caster regenerates 411 HP over 3 turns",
@@ -10188,8 +10211,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1061,
-        "name": "兰斯洛特爵士 (Sir Lancelot)",
+        "originalIndex": 1063,
+        "name": "Sir Lancelot",
         "effects": [
             "Deals 265% damage to the target",
             "The caster and nearby allies get +24% mana generation for 4 turns",
@@ -10197,8 +10220,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1062,
-        "name": "住友 (Sumitomo)",
+        "originalIndex": 1064,
+        "name": "Sumitomo",
         "effects": [
             "Deals 300% damage to the target.",
             "The caster counterattacks with 135% of the damage received for 5 turns.",
@@ -10206,8 +10229,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1063,
-        "name": "住友 (Sumitomo) C1",
+        "originalIndex": 1065,
+        "name": "Sumitomo C1",
         "effects": [
             "Deals 280% damage to the target.",
             "The caster counterattacks with 155% of the damage received for 5 turns.",
@@ -10215,32 +10238,32 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1064,
-        "name": "萨姆勒 (Sumle)",
+        "originalIndex": 1066,
+        "name": "Sumle",
         "effects": [
             "Deals 235% damage to all enemies. Each hit has 80% accuracy.",
             "The damage is increased by 70% per each dead enemy."
         ]
     },
     {
-        "originalIndex": 1065,
-        "name": "萨姆勒 (Sumle) C1",
+        "originalIndex": 1067,
+        "name": "Sumle C1",
         "effects": [
             "Deals 365% damage to target and nearby enemies. Each hit has 85% accuracy.",
             "The damage is increased by 25% per each dead enemy."
         ]
     },
     {
-        "originalIndex": 1066,
-        "name": "孙尚香 (Sun Shangxiang)",
+        "originalIndex": 1068,
+        "name": "Sun Shangxiang",
         "effects": [
             "Deals 280% damage to the target and minor damage to dearby enemies.",
             "The target and nearby enemies get -44% defense, and a further -4% decrease every time they are hit during 3 turns."
         ]
     },
     {
-        "originalIndex": 1067,
-        "name": "冯莱纳 (Vonreine)",
+        "originalIndex": 1069,
+        "name": "Vonreine",
         "effects": [
             "Deals 285% damage to the target and nearby enemies.",
             "Summons a Fire Wisp Fiend to the target and nearby enemies.",
@@ -10249,8 +10272,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1068,
-        "name": "威尔伯 (Wilbur)",
+        "originalIndex": 1070,
+        "name": "Wilbur",
         "effects": [
             "All allies become Soul Connected for 4 turns. Soul Connected allies share received damage.",
             "All enemies become Soul Connected for 4 turns. Soul Connected enemies share received damage.",
@@ -10259,24 +10282,24 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1069,
-        "name": "威尔伯 (Wilbur) C1",
+        "originalIndex": 1071,
+        "name": "Wilbur C1",
         "effects": [
             "All allies get +100% normal attack for 4 turns. This effect can be active in addition to effects that alter attack in general. Normal attacks can have a total maximum of +140% increased power while this effect is active.",
             "All allies regenerate 280 HP over 4 turns."
         ]
     },
     {
-        "originalIndex": 1070,
-        "name": "扎伯格 (Zhabog)",
+        "originalIndex": 1072,
+        "name": "Zhabog",
         "effects": [
             "Deals 350% damage to the target.",
             "The duration of status ailments is reset for all enemies."
         ]
     },
     {
-        "originalIndex": 1071,
-        "name": "周瑜 (Zhou Yu)",
+        "originalIndex": 1073,
+        "name": "Zhou Yu",
         "effects": [
             "Deals 355% damage to the target.",
             "Summons a Wu Soldier Minion for each ally with 10% HP and 18% attack inherited from the caster.",
@@ -10284,8 +10307,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1072,
-        "name": "周瑜 (Zhou Yu) C1",
+        "originalIndex": 1074,
+        "name": "Zhou Yu C1",
         "effects": [
             "Deals 345% damage to the target.",
             "Summons a Wu Soldier Minion for each ally with 22% HP and 30% attack inherited from the caster.",
@@ -10293,8 +10316,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1073,
-        "name": "阿比盖尔 (Abigail)",
+        "originalIndex": 1075,
+        "name": "Abigail",
         "effects": [
             "Deals 260% damage to all enemies.",
             "Summons a Xulu Minion for each ally with 15% HP and 20% attack inherited from the caster.",
@@ -10305,8 +10328,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1074,
-        "name": "艾瑟尔拟态兽 (Aether Mimic) Fire",
+        "originalIndex": 1076,
+        "name": "Aether Mimic Fire",
         "effects": [
             "Deals 600% damage to the target.",
             "If an enemy is defeated by the attack, the caster recovers +50% health and gains +33% mana.",
@@ -10315,8 +10338,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1075,
-        "name": "埃斯莱高 (Aethslegaur)",
+        "originalIndex": 1077,
+        "name": "Aethslegaur",
         "effects": [
             "Attacks the target with Firestorm Strike, dealing up to 4000 damage. Deals 40% more if the target is of the Nature element. This Special Skill never misses its targets.",
             "All allies get +45% chance to dodge attacks and Special Skills for 5 turns.",
@@ -10324,8 +10347,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1076,
-        "name": "阿鲁卡多 (Alucard)",
+        "originalIndex": 1078,
+        "name": "Alucard",
         "effects": [
             "Destroys all Minions from the target and nearby enemies. This effect damages Mega Minions.",
             "Deals 250% damage to the target and nearby enemies.",
@@ -10335,8 +10358,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1077,
-        "name": "阿鲁卡多 (Alucard) C1",
+        "originalIndex": 1079,
+        "name": "Alucard C1",
         "effects": [
             "Destroys all Minions from the target and nearby enemies. This effect damages Mega Minions.",
             "Deals 245% damage to the target and nearby enemies.",
@@ -10346,8 +10369,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1078,
-        "name": "安布尔 (Amber)",
+        "originalIndex": 1080,
+        "name": "Amber",
         "effects": [
             "Deals 605% damage to the target.",
             "Heals the caster for 100% of the damage dealt.",
@@ -10355,8 +10378,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1079,
-        "name": "安迪·杰 (Andy Jay)",
+        "originalIndex": 1081,
+        "name": "Andy Jay",
         "effects": [
             "Deals 450% damage to all enemies.",
             "All allies except the caster dance the Blazing Dave Dance for 3 turns.",
@@ -10366,8 +10389,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1080,
-        "name": "安佐 (Anzogh)",
+        "originalIndex": 1082,
+        "name": "Anzogh",
         "effects": [
             "Deals 280% damage to all enemies",
             "Heals each ally with 35% of total damage dealt",
@@ -10375,8 +10398,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1081,
-        "name": "阿拉迪亚 (Aradia)",
+        "originalIndex": 1083,
+        "name": "Aradia",
         "effects": [
             "Reduces max health of all enemies by 570. The effect is stronger against targets with boosted health. Max health can’t get lower than 30% of max health. Any boosted health is reduced by an additional 570.",
             "All enemies receive 744 Burn damage over 4 turns.",
@@ -10384,8 +10407,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1082,
-        "name": "阿拉敏塔 (Araminta)",
+        "originalIndex": 1084,
+        "name": "Araminta",
         "effects": [
             "Deals 260% damage to all enemies.",
             "Stack (Max: 10): All damage all enemies recieve is increased by +7%.",
@@ -10393,8 +10416,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1083,
-        "name": "阿瑞斯 (Ares)",
+        "originalIndex": 1085,
+        "name": "Ares",
         "effects": [
             "The caster and nearby allies get +54% attack for 4 turns.",
             "The caster and nearby allies get +46% critical chance for 4 turns.",
@@ -10403,8 +10426,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1084,
-        "name": "阿瑞斯 (Ares) C1",
+        "originalIndex": 1086,
+        "name": "Ares C1",
         "effects": [
             "The caster and nearby allies get +45% attack for 4 turns. The attack increases by 5% each turn, up to +60%.",
             "The caster and nearby allies counterattack with 110% of the damage received for 4 turns. The counterattack damage increases by 10% each turn, up to 140%.",
@@ -10413,8 +10436,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1085,
-        "name": "进阶拟态兽 (Ascension Mimic)",
+        "originalIndex": 1087,
+        "name": "Ascension Mimic",
         "effects": [
             "Deals 380% damage to the target and nearby enemies.",
             "If an enemy is defeated by the attack, the caster recovers +50% health and gains +33% mana.",
@@ -10423,8 +10446,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1086,
-        "name": "余烬 (Ash)",
+        "originalIndex": 1088,
+        "name": "Ash",
         "effects": [
             "Deals 150% damage to 9 random enemies.",
             "Damage is increased by 5% per each Fire shield on the board, up to +200% damage per hit.",
@@ -10432,8 +10455,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1087,
-        "name": "阿斯特琉思 (Asterius)",
+        "originalIndex": 1089,
+        "name": "Asterius",
         "effects": [
             "Deals 360% damage to the target and nearby enemies.",
             "Reduces the duration of the target and nearby enemies buffs by 1 turn.",
@@ -10441,8 +10464,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1088,
-        "name": "黄金 (Aurum)",
+        "originalIndex": 1090,
+        "name": "Aurum",
         "effects": [
             "1x Mana Charge",
             "* Deals 385% damage to the target.",
@@ -10459,16 +10482,16 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1089,
-        "name": "阿基拉 (Azlar)",
+        "originalIndex": 1091,
+        "name": "Azlar",
         "effects": [
             "Deals 205% damage to all enemies",
             "All enemies receive 414 damage over 6 turns"
         ]
     },
     {
-        "originalIndex": 1090,
-        "name": "阿基拉 (Azlar) C1",
+        "originalIndex": 1092,
+        "name": "Azlar C1",
         "effects": [
             "Deals 205% damage to the target and nearby enemies",
             "Deals 410% damage if the target has less than 50% health remaining",
@@ -10476,16 +10499,16 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1091,
-        "name": "阿基拉 (Azlar) C2",
+        "originalIndex": 1093,
+        "name": "Azlar C2",
         "effects": [
             "Deals 310% damage to the target and nearby enemies.",
             "The target and nearby enemies receive 636 Burn damage over 4 turns. The caster absorbs 40% of the dealt Burn damage as health."
         ]
     },
     {
-        "originalIndex": 1092,
-        "name": "阿基拉 (Azlar) 卡通",
+        "originalIndex": 1094,
+        "name": "Azlar Toon",
         "effects": [
             "Deals 355% damage to all enemies.",
             "All enemies receive 513 damage over 3 turns.",
@@ -10493,8 +10516,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1093,
-        "name": "阿基拉 (Azlar) 玻璃",
+        "originalIndex": 1095,
+        "name": "Azlar Glass",
         "effects": [
             "Deals 365% damage to all enemies.",
             "The attack bypasses defensive buffs. (This includes counterattacks.)",
@@ -10502,8 +10525,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1094,
-        "name": "巴德尔 (Baldur)",
+        "originalIndex": 1096,
+        "name": "Baldur",
         "effects": [
             "Deals 165% damage to a random enemy.",
             "Boosts health of the caster by 1000. Boosted health can exceed max HP.",
@@ -10512,8 +10535,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1095,
-        "name": "巴德尔 (Baldur) C1",
+        "originalIndex": 1097,
+        "name": "Baldur C1",
         "effects": [
             "Deals 400% damage to the target.",
             "Boosts health of the caster by 850. Boosted health can exceed max HP.",
@@ -10522,8 +10545,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1096,
-        "name": "巴克利 (Barkley)",
+        "originalIndex": 1098,
+        "name": "Barkley",
         "effects": [
             "Deals 300% damage to the target and 2 random enemies.",
             "Summons a Missile Fiend to hit enemies. The Fiend damages the enemy with 55% attack every turn.",
@@ -10532,8 +10555,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1097,
-        "name": "巴塞洛缪 (Bartholomew)",
+        "originalIndex": 1099,
+        "name": "Bartholomew",
         "effects": [
             "Deals 300% damage to the target and nearby enemies.",
             "Deals additional 15% damage for each Fiend or Mega Fiend owned by the enemies, up to 450% damage in total.",
@@ -10542,8 +10565,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1098,
-        "name": "贝尔纳黛特 (Bearnadette)",
+        "originalIndex": 1100,
+        "name": "Bearnadette",
         "effects": [
             "Dispels buffs from all enemies.",
             "Deals 250% damage to all enemies.",
@@ -10554,8 +10577,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1099,
-        "name": "贝奥武夫 (Beowulf)",
+        "originalIndex": 1101,
+        "name": "Beowulf",
         "effects": [
             "Deals 615% damage to the target.",
             "Recovers 15% health for all allies.",
@@ -10564,8 +10587,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1100,
-        "name": "比马 (Bhima)",
+        "originalIndex": 1102,
+        "name": "Bhima",
         "effects": [
             "This Special Skill never misses its targets.",
             "Deals 410% damage to the target and nearby enemies.",
@@ -10575,8 +10598,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1101,
-        "name": "黑凯撒 (Black Caesar)",
+        "originalIndex": 1103,
+        "name": "Black Caesar",
         "effects": [
             "Deals 335% damage to all enemies.",
             "Summons a Pirate Skeleton Fiend for all enemies. The Fiend damage the enemy with 100% attack every turn.",
@@ -10585,8 +10608,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1102,
-        "name": "黑骑士 (Black Knight)",
+        "originalIndex": 1104,
+        "name": "Black Knight",
         "effects": [
             "The caster has a 50% chance to drop any received damage to 1 for 3 turns",
             "The caster gets Taunt that prevents enemies from using Special Skills on the caster's allies for 3 turns.",
@@ -10594,8 +10617,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1103,
-        "name": "黑骑士 (Black Knight) C1",
+        "originalIndex": 1105,
+        "name": "Black Knight C1",
         "effects": [
             "The caster has a 50% chance to drop any received damage to 1 for 4 turns.",
             "The caster gets Taunt that prevents enemies from using Special Skills on the caster’s allies for 4 turns.",
@@ -10603,8 +10626,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1104,
-        "name": "花蕊 (Blossom)",
+        "originalIndex": 1106,
+        "name": "Blossom",
         "effects": [
             "Recovers 45% health for all allies.",
             "Dispels buffs from all enemies.",
@@ -10612,8 +10635,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1105,
-        "name": "碎骨魔 (Bonecrusher)",
+        "originalIndex": 1107,
+        "name": "Bonecrusher",
         "effects": [
             "Deals 540% damage to the target.",
             "The damage is increased by 30% per each living ally of the caster.",
@@ -10621,8 +10644,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1106,
-        "name": "硫磺 (Brimstone)",
+        "originalIndex": 1108,
+        "name": "Brimstone",
         "effects": [
             "Deals 200% damage to all enemies.",
             "Summons an Infernal Fiend for all enemies. The Fiend damage its target with 80% attack every turn.",
@@ -10632,32 +10655,32 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1107,
-        "name": "科斯特雷尔船长 (Captain Kestrel)",
+        "originalIndex": 1109,
+        "name": "Captain Kestrel",
         "effects": [
             "Deals 215% damage to the target and nearby enemies",
             "The more mana enemies have, the more damage they will receive, up to 335%"
         ]
     },
     {
-        "originalIndex": 1108,
-        "name": "尼莫船长 (Captain Nemo)",
+        "originalIndex": 1110,
+        "name": "Captain Nemo",
         "effects": [
             "Deals 300% damage to the target.",
             "Deals 600% damage if the caster has status ailments or negative stats."
         ]
     },
     {
-        "originalIndex": 1109,
-        "name": "尼莫船长 (Captain Nemo) C1",
+        "originalIndex": 1111,
+        "name": "Captain Nemo C1",
         "effects": [
             "Deals 370% damage to the target.",
             "Deals 555% damage if the caster has status ailments or negative stacks."
         ]
     },
     {
-        "originalIndex": 1110,
-        "name": "红衣主教黎塞留 (Cardinal Richelieu)",
+        "originalIndex": 1112,
+        "name": "Cardinal Richelieu",
         "effects": [
             "Deals 330% damage to all enemies.",
             "Summon a Spy Fiend for all enemies. The Fiend damages the enemy with 45% attack every turn.",
@@ -10666,8 +10689,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1111,
-        "name": "卡耳门塔 (Carmenta)",
+        "originalIndex": 1113,
+        "name": "Carmenta",
         "effects": [
             "Spreads all of the target’s cleansable status ailments to nearby enemies.",
             "The duration of the status ailments is reset for target and nearby enemies.",
@@ -10675,8 +10698,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1112,
-        "name": "西里斯 (Ceris)",
+        "originalIndex": 1114,
+        "name": "Ceris",
         "effects": [
             "Deals 600% damage to the target.",
             "If the target had more than 50% mana before receiving damage, targets another enemy who had over 50% mana before receiving any damage from this Special Skill. If none of the other enemies had 50% mana, targets a random enemy. The damage is reduced on each consecutive hit. Each enemy can only be hit once.",
@@ -10685,8 +10708,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1113,
-        "name": "夏洛塔 (Charlotta)",
+        "originalIndex": 1115,
+        "name": "Charlotta",
         "effects": [
             "Deals 450% damage to target and nearby enemies.",
             "The target and nearby enemies dance to Ballad of Condemnation for 3 turns.",
@@ -10697,8 +10720,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1114,
-        "name": "夏麦妮 (Charmione)",
+        "originalIndex": 1116,
+        "name": "Charmione",
         "effects": [
             "Deals 400% damage to the target and nearby enemies.",
             "The target and nearby enemies receive Devouring Goo status ailment for 5 turns.",
@@ -10707,8 +10730,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1115,
-        "name": "嘎嘣 (Chomper)",
+        "originalIndex": 1117,
+        "name": "Chomper",
         "effects": [
             "Deals 330% damage to the target and nearby enemies.",
             "Heals each ally with 40% of the total damage dealt.",
@@ -10716,8 +10739,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1116,
-        "name": "淳绮罗翼 (Chunkyroi)",
+        "originalIndex": 1118,
+        "name": "Chunkyroi",
         "effects": [
             "Recovers 45% health for all allies.",
             "For the next 4 turns, this character recovers 350 boosted health to all allies each time any other ally casts their Special Skill. (Each character an trigger this effect once per turn.)",
@@ -10726,8 +10749,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1117,
-        "name": "灰姑娘 (Cinderella)",
+        "originalIndex": 1119,
+        "name": "Cinderella",
         "effects": [
             "Cleanses status ailments from all allies.",
             "All allies become Soul Connected for 4 turns. Soul Connected allies share received damage.",
@@ -10737,8 +10760,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1118,
-        "name": "屠刀 (Cleaver)",
+        "originalIndex": 1120,
+        "name": "Cleaver",
         "effects": [
             "Deals 100% damage to all enemies.",
             "Summons a Bone Trap Fiend for all enemies. The Fiend damages the enemy with 45% attack each turn. The damage increases by 8% each turn, up to a maximum of 93%.",
@@ -10747,8 +10770,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1119,
-        "name": "库奇 (Cookie)",
+        "originalIndex": 1121,
+        "name": "Cookie",
         "effects": [
             "Reduces the mana of all enemies by 20%.",
             "Summons an Elf Minion for each ally with 10% HP and 10% attack inherited from the caster.",
@@ -10756,8 +10779,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1120,
-        "name": "丘比特 (Cupido)",
+        "originalIndex": 1122,
+        "name": "Cupido",
         "effects": [
             "Deals 295% damage to the target and nearby enemies.",
             "For 3 turns, the target and nearby enemies are forced to cast Mindless Heal when at full mana.",
@@ -10765,8 +10788,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1121,
-        "name": "达达尼昂 (D Artagnan)",
+        "originalIndex": 1123,
+        "name": "D Artagnan",
         "effects": [
             "Deals 470% damage to the target.",
             "The target receives 1065 Burn damage over 3 turns. This effect spreads to nearby enemies.",
@@ -10774,8 +10797,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1122,
-        "name": "戴蒙 (Daemon)",
+        "originalIndex": 1124,
+        "name": "Daemon",
         "effects": [
             "Dispels buffs from the target.",
             "Blocks Talent Skill activation for the target.",
@@ -10784,8 +10807,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1123,
-        "name": "德姆哈拉 (Demhalar)",
+        "originalIndex": 1125,
+        "name": "Demhalar",
         "effects": [
             "Deals 350% damage to the target and nearby enemies and inflicts 30 Insanity on them.",
             "The target and nearby enemies receive 654 Water damage over 3 turns.",
@@ -10794,8 +10817,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1124,
-        "name": "迪马 (Dima)",
+        "originalIndex": 1126,
+        "name": "Dima",
         "effects": [
             "Deals 400% damage to the target and nearby enemies.",
             "The target and nearby enemies get -25% defense for 4 turns. The effect duration resets if the enemy is healed.",
@@ -10804,8 +10827,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1125,
-        "name": "多米万图斯 (Domiventus)",
+        "originalIndex": 1127,
+        "name": "Domiventus",
         "effects": [
             "Special Skill need consecutive uses to reach full power, the following order:",
             "1st:",
@@ -10817,8 +10840,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1126,
-        "name": "多米万图斯 (Domiventus) C1",
+        "originalIndex": 1128,
+        "name": "Domiventus C1",
         "effects": [
             "Special Skill need consecutive uses to reach full power, the following order:",
             "1st:",
@@ -10830,16 +10853,16 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1127,
-        "name": "多客森 (Doxan)",
+        "originalIndex": 1129,
+        "name": "Doxan",
         "effects": [
             "Deals 500% damage to the target and minor damage to all Nature enemies.",
             "The target and all Nature enemies receive 992 Burn damage over 4 turns."
         ]
     },
     {
-        "originalIndex": 1128,
-        "name": "多客森 (Doxan) C1",
+        "originalIndex": 1130,
+        "name": "Doxan C1",
         "effects": [
             "Deals 550% damage to the target and minor damage to all Nature enemies.",
             "The target and all Nature enemies receive 1504 Burn damage over 4 turns.",
@@ -10847,8 +10870,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1129,
-        "name": "邓纳·哈特 (Dunnar Hart)",
+        "originalIndex": 1131,
+        "name": "Dunnar Hart",
         "effects": [
             "Deals 500% damage to all enemies.",
             "All enemies receive Corrosive Burn for 5 turns. The Corrosive Burn deals 322 Burn damage and lowers the target’s defense by -13% each turn. Deals extra damage against heroes with Minions and Mega Minion.",
@@ -10857,8 +10880,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1130,
-        "name": "埃芭 (Ebba)",
+        "originalIndex": 1132,
+        "name": "Ebba",
         "effects": [
             "Deals 585% damage to the target.",
             "Deals an additional 260% damage to as many random enemies as there are Fiends owned by enemies. The damage is reduced on each consecutive hit.",
@@ -10867,16 +10890,16 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1131,
-        "name": "埃尔杜克 (El Duque)",
+        "originalIndex": 1133,
+        "name": "El Duque",
         "effects": [
             "Deals 355% damage to the target and minor damage to nearby enemies.",
             "Stack: (Max: 10): The target and nearby enemies get -9% defense."
         ]
     },
     {
-        "originalIndex": 1132,
-        "name": "厄尔巴 (Elba)",
+        "originalIndex": 1134,
+        "name": "Elba",
         "effects": [
             "Deals 325% damage to the target and nearby enemies.",
             "Caster and nearby allies recover 1000 health for 4 turns. If the effect is removed before the duration ends, recovers 1300 health instead.",
@@ -10884,32 +10907,32 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1133,
-        "name": "艾琳娜 (Elena)",
+        "originalIndex": 1135,
+        "name": "Elena",
         "effects": [
             "Deals 202% damage to all enemies.",
             "The caster and nearby allies counterattack with 125% of the damage received for 5 turns."
         ]
     },
     {
-        "originalIndex": 1134,
-        "name": "艾琳娜 (Elena) C1",
+        "originalIndex": 1136,
+        "name": "Elena C1",
         "effects": [
             "Deals 172% damage to all enemies.",
             "The caster and nearby allies counterattack with 155% of the damage received for 5 turns."
         ]
     },
     {
-        "originalIndex": 1135,
-        "name": "艾琳娜 (Elena) C2",
+        "originalIndex": 1137,
+        "name": "Elena C2",
         "effects": [
             "Deals 242% damage to all enemies.",
             "The caster and nearby allies counterattack with 115% of the damage received for 5 turns. The counterattack damage increases +10% each turn, up to 155%."
         ]
     },
     {
-        "originalIndex": 1136,
-        "name": "艾琳娜 (Elena) 卡通",
+        "originalIndex": 1138,
+        "name": "Elena Toon",
         "effects": [
             "Deals 352% damage to all enemies.",
             "The caster and nearby allies counterattack with 120% of the damage received for 5 turns.",
@@ -10917,8 +10940,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1137,
-        "name": "艾琳娜 (Elena) 玻璃",
+        "originalIndex": 1139,
+        "name": "Elena Glass",
         "effects": [
             "Deals 362% damage to all enemies.",
             "The attack bypasses defensive buffs. (This includes counterattacks.)",
@@ -10926,8 +10949,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1138,
-        "name": "埃利亚涅 (Eliane)",
+        "originalIndex": 1140,
+        "name": "Eliane",
         "effects": [
             "Deals 300% damage to all enemies.",
             "All enemies receive 640 Burn damage over 4 turns.",
@@ -10936,8 +10959,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1139,
-        "name": "伊丽莎白 (Elizabeth)",
+        "originalIndex": 1141,
+        "name": "Elizabeth",
         "effects": [
             "Deals 175% damage to all enemies.",
             "Summons a Spider Fiend for all enemies. The Fiend damages the enemy with 43% attack every turn.",
@@ -10946,8 +10969,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1140,
-        "name": "伊丽莎白 (Elizabeth) C1",
+        "originalIndex": 1142,
+        "name": "Elizabeth C1",
         "effects": [
             "Deals 165% damage to all enemies.",
             "Summons a Spider Fiend for all enemies. The Fiend damages its target with 41% attack every turn.",
@@ -10956,8 +10979,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1141,
-        "name": "埃莉萨贝尔·德·蒂耶尔 (Elyzabel de Tuillieres)",
+        "originalIndex": 1143,
+        "name": "Elyzabel de Tuillieres",
         "effects": [
             "Deals 465% damage to the target and nearby enemies.",
             "All allies are immune to new effects that prevent the use of Special Skills for 4 turns.",
@@ -10966,8 +10989,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1142,
-        "name": "安柏 (Ember)",
+        "originalIndex": 1144,
+        "name": "Ember",
         "effects": [
             "Deals 300% damage to all enemies.",
             "Summons a Firewall Minion for all allies with 35% HP inherited from the caster.",
@@ -10975,8 +10998,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1143,
-        "name": "纹章拟态兽 (Emblem Mimic) Fire",
+        "originalIndex": 1145,
+        "name": "Emblem Mimic Fire",
         "effects": [
             "Deals 480% damage to the target.",
             "If an enemy is defeated by the attack, the caster recovers +50% health and gains +33% mana.",
@@ -10985,8 +11008,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1144,
-        "name": "埃米利奥 (Emilio)",
+        "originalIndex": 1146,
+        "name": "Emilio",
         "effects": [
             "Casts one of the following special skills:",
             "If any enemy has the Burn Status Ailment:",
@@ -10999,8 +11022,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1145,
-        "name": "埃米利奥 (Emilio) C1",
+        "originalIndex": 1147,
+        "name": "Emilio C1",
         "effects": [
             "Casts one of the following Special Skills:",
             "If any enemy has the Burn status ailment:",
@@ -11013,8 +11036,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1146,
-        "name": "厄瑞玻斯 (Erebus)",
+        "originalIndex": 1148,
+        "name": "Erebus",
         "effects": [
             "Special Skill has a different effect when charged with 100% / 200% / 300% mana:",
             "1x Mana Charge:",
@@ -11031,8 +11054,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1147,
-        "name": "埃隆 (Eron)",
+        "originalIndex": 1149,
+        "name": "Eron",
         "effects": [
             "Attacks the target with Moonrise Strike, dealing up to 2180 damage. Deals 40% more damage if the target is Holy.",
             "The target automatically casts Shifting Mindless Attack on a random ally when mana is full at the start of a turn during 4 turns. When this effect is triggered, it shifts to the hit ally and duration is refreshed.",
@@ -11040,8 +11063,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1148,
-        "name": "经验拟态兽 (Experience Mimic)",
+        "originalIndex": 1150,
+        "name": "Experience Mimic",
         "effects": [
             "Destroys all Minions from the target. This effect damages Mega Minions.",
             "Deals 530% damage to the target.",
@@ -11050,8 +11073,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1149,
-        "name": "费玛芬格 (Fimafeng)",
+        "originalIndex": 1151,
+        "name": "Fimafeng",
         "effects": [
             "Safely cleanses all status ailments from the caster.",
             "Attacks the target with Frostfall Strike, dealing up to 3000 damage. Deals 40% more if the target is of the Fire element. This Special Skill never misses its targets.",
@@ -11060,8 +11083,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1150,
-        "name": "炎皮 (Flamehide)",
+        "originalIndex": 1152,
+        "name": "Flamehide",
         "effects": [
             "Deals 375% damage to the target.",
             "Summons a Sword Guard Mega Minion with 35% HP and 300% attack inherited from the caster.",
@@ -11069,8 +11092,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1151,
-        "name": "飞力普 (Flip)",
+        "originalIndex": 1153,
+        "name": "Flip",
         "effects": [
             "Recovers 45% health for all allies.",
             "All allies bypass defensive buffs with their attacks for 4 turns. Defensive buffs include counterattacks.",
@@ -11078,8 +11101,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1152,
-        "name": "飞力普 (Flip) C1",
+        "originalIndex": 1154,
+        "name": "Flip C1",
         "effects": [
             "Recovers 50% health for all allies.",
             "All allies bypass defensive buffs with their attacks for 4 turns. (Defensive buffs include counterattacks.)",
@@ -11087,8 +11110,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1153,
-        "name": "富尔维亚 (Fulvia)",
+        "originalIndex": 1155,
+        "name": "Fulvia",
         "effects": [
             "Attacks the target and nearby enemies with Moonrise Strike, dealing up to 1440 damage. Deals 40% more damage if the target is Holy.",
             "For 3 turns, reduces the mana of the target and nearby enemies by -15% at the end of turn.",
@@ -11096,8 +11119,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1154,
-        "name": "加德瑞德 (Gardered)",
+        "originalIndex": 1156,
+        "name": "Gardered",
         "effects": [
             "Deals 435% damage to the target.",
             "The target receives 628 Toxin damage over 4 turns. Damage is increased against targets with boosted health, Minions or a Mega Minion. The Toxin damage is increased by +100% against targets with boosted health. The Toxin damage is increased by +33% per Minion or Mega Minion owned by target. Maximum increased damage is +199%.)",
@@ -11106,8 +11129,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1155,
-        "name": "绯红 (Garnet)",
+        "originalIndex": 1157,
+        "name": "Garnet",
         "effects": [
             "1x Mana Charge",
             "* Boosts health of all allies by 230. Boosted health can exceed max HP.",
@@ -11121,24 +11144,24 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1156,
-        "name": "格费因 (Gefjon)",
+        "originalIndex": 1158,
+        "name": "Gefjon",
         "effects": [
             "Steals minions from the target.",
             "Deals 500% damage to the target."
         ]
     },
     {
-        "originalIndex": 1157,
-        "name": "格费因 (Gefjon) C1",
+        "originalIndex": 1159,
+        "name": "Gefjon C1",
         "effects": [
             "Destroys all Minions from the target and nearby enemies. This effect damages Mega Minions.",
             "Deals 335% damage to the target and nearby enemies."
         ]
     },
     {
-        "originalIndex": 1158,
-        "name": "格式塔 (Gestalt)",
+        "originalIndex": 1160,
+        "name": "Gestalt",
         "effects": [
             "Special Skill need consecutive uses to reach full power, the following order:",
             "1st:",
@@ -11156,8 +11179,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1159,
-        "name": "格式塔 (Gestalt) C1",
+        "originalIndex": 1161,
+        "name": "Gestalt C1",
         "effects": [
             "Special Skill need consecutive uses to reach full power, the following order:",
             "1st:",
@@ -11175,8 +11198,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1160,
-        "name": "古兹 (Gooze)",
+        "originalIndex": 1162,
+        "name": "Gooze",
         "effects": [
             "Deals 350% damage to all enemies.",
             "All enemies become Provoked for 4 turns. The Provoked character deals 1% damage to a random opponent at the end of the turn. This effect can’t be dispelled.",
@@ -11186,8 +11209,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1161,
-        "name": "造墓人 (Gravemaker)",
+        "originalIndex": 1163,
+        "name": "Gravemaker",
         "effects": [
             "Deals 200% damage to the target and nearby enemies.",
             "The target and nearby enemies receive 492 burn damage over 2 turns.",
@@ -11196,8 +11219,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1162,
-        "name": "造墓人 (Gravemaker) C1",
+        "originalIndex": 1164,
+        "name": "Gravemaker C1",
         "effects": [
             "Deals 175% damage to all enemies.",
             "All enemies receive 542 Burn damage over 2 turns.",
@@ -11205,8 +11228,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1163,
-        "name": "格拉祖 (Grazul)",
+        "originalIndex": 1165,
+        "name": "Grazul",
         "effects": [
             "Recovers 23% health for all allies",
             "All allies are immune to new status ailments for 2 turns.",
@@ -11214,8 +11237,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1164,
-        "name": "金刚守护者 (Guardian Kong)",
+        "originalIndex": 1166,
+        "name": "Guardian Kong",
         "effects": [
             "Deals 250% damage to all enemies.",
             "All allies get +94% defense against Ice for 4 turns.",
@@ -11223,8 +11246,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1165,
-        "name": "金刚守护者 (Guardian Kong) C1",
+        "originalIndex": 1167,
+        "name": "Guardian Kong C1",
         "effects": [
             "Deals 300% damage to all enemies.",
             "All allies reflect all status effects and 115% damage back to the attacker and block other negative effects from enemies’ Ice Special Skills for 4 turns. Status effects cast by characters, Minions and Fiends on the same side cannot be reflected.",
@@ -11232,8 +11255,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1166,
-        "name": "格法 (Guffa)",
+        "originalIndex": 1168,
+        "name": "Guffa",
         "effects": [
             "The caster gets Taunt that prevents enemies from using Special Skills on the caster’s allies for 4 turns.",
             "The caster gets +40% mana generation for 4 turns. (Affects only mana generated from matching tiles or mana gained by the defense team at the end of their turn.)",
@@ -11242,8 +11265,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1167,
-        "name": "叮当铁锤 (Hammerclang)",
+        "originalIndex": 1169,
+        "name": "Hammerclang",
         "effects": [
             "This Special Skill never misses its targets.",
             "Deals 400% damage to the target and minor damage to all other enemies.",
@@ -11252,24 +11275,24 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1168,
-        "name": "哈索尔 (Hathor)",
+        "originalIndex": 1170,
+        "name": "Hathor",
         "effects": [
             "Boosts health of all allies by 480. Boosted Heath can exceed max HP.",
             "All allies are immune to new status ailments for 4 turns."
         ]
     },
     {
-        "originalIndex": 1169,
-        "name": "哈索尔 (Hathor) C1",
+        "originalIndex": 1171,
+        "name": "Hathor C1",
         "effects": [
             "All allies renerate 640 Boosted health over 4 turns. Boosted Heath can exceed max HP.",
             "All allies are immune to new status ailments for 4 turns."
         ]
     },
     {
-        "originalIndex": 1170,
-        "name": "霍恩韦尔夫 (Hohenwerf)",
+        "originalIndex": 1172,
+        "name": "Hohenwerf",
         "effects": [
             "Deals 450% damage to the target.",
             "Summons a Gargoyle Fiend for the target. The Gargoyle Fiend absorbs healing and disappears when it has absorbed health equal to 30% of its owner’s max health.",
@@ -11278,8 +11301,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1171,
-        "name": "角岩 (Hornfel)",
+        "originalIndex": 1173,
+        "name": "Hornfel",
         "effects": [
             "Deals 480% damage to the target and minor damage to nearby enemies.",
             "Knocks down enemies. This has a different effect based on the team of this character:",
@@ -11291,8 +11314,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1172,
-        "name": "修普诺斯 (Hypnos)",
+        "originalIndex": 1174,
+        "name": "Hypnos",
         "effects": [
             "Special Skill has a different effect when charged with 100% / 200% / 300% mana:",
             "1x Mana Charge:",
@@ -11309,8 +11332,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1173,
-        "name": "亚莱斯 (Iarlaith)",
+        "originalIndex": 1175,
+        "name": "Iarlaith",
         "effects": [
             "Deals 600% damage to the target.",
             "The target receives 100% damage for all the damage their allies receive for 3 turns.",
@@ -11318,8 +11341,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1174,
-        "name": "伊格纳奇奥 (Ignazio)",
+        "originalIndex": 1176,
+        "name": "Ignazio",
         "effects": [
             "Recovers 25% health for all allies.",
             "Recovers additional 3% health per each Fire shield on the board, up to 55% health in total.",
@@ -11328,8 +11351,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1175,
-        "name": "伊格纳奇奥 (Ignazio) C1",
+        "originalIndex": 1177,
+        "name": "Ignazio C1",
         "effects": [
             "Recovers 28% health for all allies.",
             "Recovers additional 4% health per each Fire shield on the board, up to 60%.",
@@ -11338,8 +11361,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1176,
-        "name": "伊尔玛利宁 (Ilmarinen)",
+        "originalIndex": 1178,
+        "name": "Ilmarinen",
         "effects": [
             "Reduces the mana of all Ice enemies by 40%. Reduces the mana of all other enemies by 20%.",
             "All enemies become Soul Connected for 4 turns. Soul Connected enemies share received damage. This status effect is undispellable and lasts 2 turns longer on Ice characters.",
@@ -11347,8 +11370,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1177,
-        "name": "伊尔玛利宁 (Ilmarinen) C1",
+        "originalIndex": 1179,
+        "name": "Ilmarinen C1",
         "effects": [
             "Reduces the mana of all Ice enemies by 50%. Reduces the mana of all other enemies by 30%.",
             "All enemies become Soul Connected for 4 turns. Soul Connected enemis share received damage. This status effect is undispellable and lasts 2 turns longer on Ice characters.",
@@ -11356,8 +11379,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1178,
-        "name": "约坎塔 (Iocantha)",
+        "originalIndex": 1180,
+        "name": "Iocantha",
         "effects": [
             "The attack bypasses defensive buffs. (This includes counterattacks.)",
             "Deals 320% damage to the target and 2 random enemies.",
@@ -11365,8 +11388,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1179,
-        "name": "艾西多尔 (Isidore)",
+        "originalIndex": 1181,
+        "name": "Isidore",
         "effects": [
             "Enhanced Defense Ailment: All enemies get -64% defense against Special Skills. This effect lasts until the enemy takes damage from a Special Skill 3 times.",
             "After the Enhanced Defense Ailment ends or is removed or replaced, the enemy gets -80% decrease of any healing received for 6 turns.",
@@ -11374,8 +11397,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1180,
-        "name": "艾斯罗德 (Isrod)",
+        "originalIndex": 1182,
+        "name": "Isrod",
         "effects": [
             "Deals 260% damage to the target and nearby enemies.",
             "The caster and nearby allies counterattack with 110% of received damage for 3 turns.",
@@ -11383,8 +11406,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1181,
-        "name": "让-弗朗索瓦 (Jean-Francois)",
+        "originalIndex": 1183,
+        "name": "Jean-Francois",
         "effects": [
             "All enemies receive 630 Burn damage over 3 turns.",
             "All allies get +94% defense against Ice for 4 turns.",
@@ -11393,8 +11416,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1182,
-        "name": "可汗 (Khagan)",
+        "originalIndex": 1184,
+        "name": "Khagan",
         "effects": [
             "Deals 380% damage to the target and nearby enemies.",
             "The caster and nearby allies get +24% mana generation for 5 turns.",
@@ -11402,8 +11425,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1183,
-        "name": "可汗 (Khagan) C1",
+        "originalIndex": 1185,
+        "name": "Khagan C1",
         "effects": [
             "Deals 514% damage to the target.",
             "All allies get +12% mana generation for 5 turns.",
@@ -11411,8 +11434,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1184,
-        "name": "可汗 (Khagan) C2",
+        "originalIndex": 1186,
+        "name": "Khagan C2",
         "effects": [
             "Deals 285% damage to all enemies.",
             "All allies receive a moderate amount of mana over 5 turns.",
@@ -11420,8 +11443,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1185,
-        "name": "可汗 (Khagan) 卡通",
+        "originalIndex": 1187,
+        "name": "Khagan Toon",
         "effects": [
             "Deals 530% damage to the target and nearby enemies.",
             "The caster and nearby allies get +22% mana generation for 5 turns. (Affects only mana generated from matching tiles or mana gained by defence team at the end of turn.)",
@@ -11430,8 +11453,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1186,
-        "name": "可汗 (Khagan) 玻璃",
+        "originalIndex": 1188,
+        "name": "Khagan Glass",
         "effects": [
             "Deals 540% damage to the target and nearby enemies.",
             "The attack bypasses defensive buffs. (This includes counterattacks.)",
@@ -11440,8 +11463,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1187,
-        "name": "胡夫 (Khufu)",
+        "originalIndex": 1189,
+        "name": "Khufu",
         "effects": [
             "Deals 450% damage to the target.",
             "The attack chains through all the enemies who are adjacent to any hit enemy.",
@@ -11449,8 +11472,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1188,
-        "name": "胡夫 (Khufu) C1",
+        "originalIndex": 1190,
+        "name": "Khufu C1",
         "effects": [
             "Deals 500% damage to the target.",
             "The attack chains through all the enemies who are adjacent to any hit enemy.",
@@ -11458,8 +11481,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1189,
-        "name": "克拉夫克鲁什 (Kravekrush)",
+        "originalIndex": 1191,
+        "name": "Kravekrush",
         "effects": [
             "All enemies can’t revive their allies or themselves for 5 turns.",
             "All enemies can’t receive new status effects that would resurrect them for 5 turns.",
@@ -11467,8 +11490,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1190,
-        "name": "克拉夫克鲁什 (Kravekrush) C1",
+        "originalIndex": 1192,
+        "name": "Kravekrush C1",
         "effects": [
             "All enemies can’t revive their allies or themselves for 4 turns.",
             "All enemies can’t receive new status effects that would resurrect them for 4 turns.",
@@ -11476,8 +11499,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1191,
-        "name": "洛基夫人 (Lady Loki)",
+        "originalIndex": 1193,
+        "name": "Lady Loki",
         "effects": [
             "Lifts all cleansable status ailments  from all allies and randomly distributes them on enemies.",
             "Deals 170% damage to all enemies",
@@ -11485,8 +11508,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1192,
-        "name": "洛基夫人 (Lady Loki) C1",
+        "originalIndex": 1194,
+        "name": "Lady Loki C1",
         "effects": [
             "Lifts all cleansable status ailments from all allies and randomly distributes them on enemies.",
             "Deals 135% damage to all enemies.",
@@ -11494,8 +11517,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1193,
-        "name": "拉萨尔 (Lasalle)",
+        "originalIndex": 1195,
+        "name": "Lasalle",
         "effects": [
             "Special Skill need consecutive uses to reach full power, the following order:",
             "1st:",
@@ -11511,8 +11534,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1194,
-        "name": "拉萨尔 (Lasalle) C1",
+        "originalIndex": 1196,
+        "name": "Lasalle C1",
         "effects": [
             "Special Skill need consecutive uses to reach full power, the following order:",
             "1st:",
@@ -11528,16 +11551,16 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1195,
-        "name": "莱维娜 (Lewena)",
+        "originalIndex": 1197,
+        "name": "Lewena",
         "effects": [
             "Blocks Talent Skill activation for all enemies for 6 turns.",
             "Deals 260% damage to all enemies."
         ]
     },
     {
-        "originalIndex": 1196,
-        "name": "李逵 (Li Kui)",
+        "originalIndex": 1198,
+        "name": "Li Kui",
         "effects": [
             "This Special Skill has a chance to deal Critical hits. (The chance of dealing a Critical hit is based on Hero’s overall critical chance when the damage is dealt. Critical hits caused by this Special Skill deal 50% more damage. Critical hits can reduces enemies’ max health on PVP battles. This effect is stronger against boosted health.)",
             "Deals 300% damage to the target and 4 random enemies.",
@@ -11546,8 +11569,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1197,
-        "name": "洛迪乌斯 (Lodius)",
+        "originalIndex": 1199,
+        "name": "Lodius",
         "effects": [
             "Attacks the target with Moonrise Strike, dealing up to 2200 damage. Deals 40% more damage if the target is Holy.",
             "If the target is defeated by the attack, then nearby enemies are unable to gain any mana for 3 turns.",
@@ -11555,8 +11578,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1198,
-        "name": "鲁智深 (Lu Zhishen)",
+        "originalIndex": 1200,
+        "name": "Lu Zhishen",
         "effects": [
             "This Special Skill has a chance to deal Critical hits. (The chance of dealing a Critical hit is based on Hero’s overall critical chance when the damage is dealt. Critical hits caused by this Special Skill deal 50% more damage. Critical hits can reduces enemies’ max health on PVP battles. This effect is stronger against boosted health.)",
             "Deals 340% damage to all enemies.",
@@ -11565,8 +11588,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1199,
-        "name": "疯锤儿 (Madhammer)",
+        "originalIndex": 1201,
+        "name": "Madhammer",
         "effects": [
             "Deals 500% damage to the target.",
             "Has 50% chance to deal 450% damage to a random different enemy. (This effect targets the same enemy as the first hit target if there are no other valid targets.)",
@@ -11575,8 +11598,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1200,
-        "name": "灾厄 (Malum)",
+        "originalIndex": 1202,
+        "name": "Malum",
         "effects": [
             "Special Skill has a different effect when charged with 100%/200%/300% mana:",
             "x1 Mana Charge:",
@@ -11594,8 +11617,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1201,
-        "name": "梅普尔 (Maple)",
+        "originalIndex": 1203,
+        "name": "Maple",
         "effects": [
             "This Special Skill never misses its targets.",
             "Deals 300% damage to 3 random enemies.",
@@ -11604,16 +11627,16 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1202,
-        "name": "马里亚娜 (Marjana)",
+        "originalIndex": 1204,
+        "name": "Marjana",
         "effects": [
             "Deals 458% damage to the target",
             "The target receives 300 damage over 6 turns"
         ]
     },
     {
-        "originalIndex": 1203,
-        "name": "马里亚娜 (Marjana) C1",
+        "originalIndex": 1205,
+        "name": "Marjana C1",
         "effects": [
             "Deals 358% damage to the target and minor damage to nearby enemies.",
             "The target and nearby enemies get -54% defense against Fire for 3 turns.",
@@ -11621,8 +11644,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1204,
-        "name": "马里亚娜 (Marjana) C2",
+        "originalIndex": 1206,
+        "name": "Marjana C2",
         "effects": [
             "Deals 300% damage to target and nearby enemies.",
             "The target and nearby enemies get -34% defense for 3 turns. Against Ice characters, this status effect becomes uncleansable, and lasts 2 turns longer.",
@@ -11630,8 +11653,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1205,
-        "name": "马里亚娜 (Marjana) 卡通",
+        "originalIndex": 1207,
+        "name": "Marjana Toon",
         "effects": [
             "Deals 538% damage to the target.",
             "The target receives 516 damage over 3 turns.",
@@ -11639,8 +11662,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1206,
-        "name": "马里亚娜 (Marjana) 玻璃",
+        "originalIndex": 1208,
+        "name": "Marjana Glass",
         "effects": [
             "Deals 548% damage to the target.",
             "The attack bypasses defensive buffs. (This includes counterattacks.)",
@@ -11648,8 +11671,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1207,
-        "name": "光子 (Mitsuko)",
+        "originalIndex": 1209,
+        "name": "Mitsuko",
         "effects": [
             "Deals 245% damage to the target and nearby enemies.",
             "Reduces the mana of the target and nearby enemies by 20%.",
@@ -11657,8 +11680,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1208,
-        "name": "光子 (Mitsuko) C1",
+        "originalIndex": 1210,
+        "name": "Mitsuko C1",
         "effects": [
             "Deals 230% damage to all enemies.",
             "All enemies get -34% mana generation.",
@@ -11666,8 +11689,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1209,
-        "name": "纳德兹达 (Nadezhda)",
+        "originalIndex": 1211,
+        "name": "Nadezhda",
         "effects": [
             "Special Skill has a different effect when charged with 100%/200% mana:",
             "1x Mana Charge:",
@@ -11680,8 +11703,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1210,
-        "name": "纳德兹达 (Nadezhda) C1",
+        "originalIndex": 1212,
+        "name": "Nadezhda C1",
         "effects": [
             "Special Skill has a different effect when charged with 100% / 200% mana:",
             "1x Mana Charge:",
@@ -11694,8 +11717,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1211,
-        "name": "纳伊姆 (Naeem)",
+        "originalIndex": 1213,
+        "name": "Naeem",
         "effects": [
             "Deals 330% damage to the target and nearby enemies.",
             "The caster and nearby allies counterattack with 145% of the damage received for 4 turns.",
@@ -11703,8 +11726,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1212,
-        "name": "娜塔莉亚 (Natalya)",
+        "originalIndex": 1214,
+        "name": "Natalya",
         "effects": [
             "The target receives 960 Burn damage over 4 turns. This effect can’t be cleansed.",
             "The target gets -54% mana generation for 4 turns. This effect can’t be cleansed.",
@@ -11713,8 +11736,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1213,
-        "name": "娜塔莉亚 (Natalya) C1",
+        "originalIndex": 1215,
+        "name": "Natalya C1",
         "effects": [
             "The target receives 1432 Burn damage over 4 turns. This effect can’t be cleansed.",
             "The target gets -50% mana generation for 4 turns. This effect can’t be cleansed.",
@@ -11723,8 +11746,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1214,
-        "name": "尼马 (Neema)",
+        "originalIndex": 1216,
+        "name": "Neema",
         "effects": [
             "Deals 280% damage to all enemies.",
             "Summons a Fire Tiger Fiend for all enemies. The Fiend damages its target with 45% attack every turn.",
@@ -11734,8 +11757,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1215,
-        "name": "尼布尔斯 (Nibbles)",
+        "originalIndex": 1217,
+        "name": "Nibbles",
         "effects": [
             "Recovers 20% health for all allies.",
             "Steals the latest dispellable buffs for all enemies and randomly distributes them on allies.",
@@ -11743,8 +11766,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1216,
-        "name": "妮姬 (Niki)",
+        "originalIndex": 1218,
+        "name": "Niki",
         "effects": [
             "This Special Skill never misses its targets.",
             "Deals 430% damage to all enemies.",
@@ -11752,8 +11775,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1217,
-        "name": "浪子 (Nomad)",
+        "originalIndex": 1219,
+        "name": "Nomad",
         "effects": [
             "1x Mana Charge",
             "* Deals 400% damage to the target.",
@@ -11770,8 +11793,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1218,
-        "name": "诺尔 (Noor)",
+        "originalIndex": 1220,
+        "name": "Noor",
         "effects": [
             "Recovers 15% health for all allies.",
             "Summons a Sparrow Minion for each ally. The Sparrow Minion inherits 30% HP and 30% attack from the caster",
@@ -11780,8 +11803,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1219,
-        "name": "诺曼 (Norman)",
+        "originalIndex": 1221,
+        "name": "Norman",
         "effects": [
             "This Special Skill ignores Dodge effects.",
             "All allies get 100% chance to bypass defensive buffs with their attacks for 4 turns. (Defensive buffs include counterattacks.)",
@@ -11789,8 +11812,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1220,
-        "name": "俄刻阿诺斯 (Oceanus)",
+        "originalIndex": 1222,
+        "name": "Oceanus",
         "effects": [
             "Deals 220% damage to all enemies.",
             "All allies get +120% normal attack for 4 turns. This effect can be active in addition to effects that alter attack in general. Normal attacks can have a total maximum of +170% increased power while this effect is active.",
@@ -11798,8 +11821,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1221,
-        "name": "俄刻阿诺斯 (Oceanus) C1",
+        "originalIndex": 1223,
+        "name": "Oceanus C1",
         "effects": [
             "Deals 270% damage to all enemies.",
             "All allies get +125% normal attack for 4 turns. This effect can be active in addition to effects that alter attack in general. Normal attacks can have a total maximum of +180% increased power while this effect is active.",
@@ -11807,8 +11830,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1222,
-        "name": "奥克特斯 (Octros)",
+        "originalIndex": 1224,
+        "name": "Octros",
         "effects": [
             "Deals 180% damage to all enemies.",
             "Deals 20% additional damage per each Fire shield on the board, up to 340% damage in total.",
@@ -11816,8 +11839,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1223,
-        "name": "奥克特斯 (Octros) C1",
+        "originalIndex": 1225,
+        "name": "Octros C1",
         "effects": [
             "Deals 160% damage to all enemies.",
             "Deals additional 35% damage per each Fire shield on the board, up to 440% damage in total.",
@@ -11825,8 +11848,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1224,
-        "name": "奥门 (Omen)",
+        "originalIndex": 1226,
+        "name": "Omen",
         "effects": [
             "Deals 500% damage to the target.",
             "Summons an Ominous Tentacle Fiend for the target.",
@@ -11837,8 +11860,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1225,
-        "name": "奥提斯 (Otis)",
+        "originalIndex": 1227,
+        "name": "Otis",
         "effects": [
             "Deals 370% damage to all enemies.",
             "All enemies receive 575 Bleed damage over 4 turns, starting low, and increasing with every turn.",
@@ -11846,8 +11869,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1226,
-        "name": "奥蒂利娅 (Ottilia)",
+        "originalIndex": 1228,
+        "name": "Ottilia",
         "effects": [
             "Deals 440% damage to the target.",
             "Copies all dispellable buffs from the target to the caster.",
@@ -11856,8 +11879,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1227,
-        "name": "椒焰 (Pepperflame)",
+        "originalIndex": 1229,
+        "name": "Pepperflame",
         "effects": [
             "Deals 470% damage to the target and minor damage to nearby enemies.",
             "Growth: The caster and nearby allies get 250 attack.",
@@ -11865,8 +11888,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1228,
-        "name": "菲妮克莎 (Phenexa)",
+        "originalIndex": 1230,
+        "name": "Phenexa",
         "effects": [
             "Recovers 42% health for all allies.",
             "The duration of buffs is reset for all allies.",
@@ -11875,8 +11898,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1229,
-        "name": "普鲁斯 (Pluth)",
+        "originalIndex": 1231,
+        "name": "Pluth",
         "effects": [
             "Rearranges the enemy positions randomly.",
             "Deals 215% damage to all enemies.",
@@ -11885,8 +11908,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1230,
-        "name": "穿靴子的猫 (Puss in Boots)",
+        "originalIndex": 1232,
+        "name": "Puss in Boots",
         "effects": [
             "All Minion Summoner allies summon a Minion for themselves",
             "Summons 3 Mouse Minions with 10% HP and 30% attack inherited from the caster. The Minions have -32% accuracy",
@@ -11895,8 +11918,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1231,
-        "name": "穿靴子的猫 (Puss in Boots) C1",
+        "originalIndex": 1233,
+        "name": "Puss in Boots C1",
         "effects": [
             "All Minion Summoner allies summon a Minion for themselves.",
             "Summons 3 Mouse Minions with 20% HP and 20% attack inherited from the caster. The Minions have -16% accuracy.",
@@ -11905,8 +11928,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1232,
-        "name": "红桃王后 (Queen of Hearts)",
+        "originalIndex": 1234,
+        "name": "Queen of Hearts",
         "effects": [
             "Deals 240% damage to the target and nearby enemies.",
             "Summons a Playing Card Minion with 16% HP and 30% attack inherited from the caster.",
@@ -11915,8 +11938,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1233,
-        "name": "红桃王后 (Queen of Hearts) C1",
+        "originalIndex": 1235,
+        "name": "Queen of Hearts C1",
         "effects": [
             "Deals 200% damage to the target and nearby enemies.",
             "Summons a Playing Card Minion with 25% HP and 40% attack inherited from the caster.",
@@ -11925,8 +11948,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1234,
-        "name": "拉杰什 (Rajesh)",
+        "originalIndex": 1236,
+        "name": "Rajesh",
         "effects": [
             "Cleanses all status ailments from all allies, and increases all allies’ mana by 10% for each cleansed ailment.",
             "All allies bypass defensive buffs with their attacks for 4 turns. If any defensive buffs are bypassed, the attacking ally’s mana is increased by 15%. (Defensive buffs include counterattacks.)",
@@ -11935,8 +11958,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1235,
-        "name": "拉尚 (Rashan)",
+        "originalIndex": 1237,
+        "name": "Rashan",
         "effects": [
             "Deals 330% damage to the enemies on the edges of the enemy formation and inflicts 25 Insanity on them. If only one enemy alive, the damage and Insanity is doubled.",
             "The enemies on the edges of the enemy formation resist healing and receive 250 damage per each resisted healing for 3 turns.",
@@ -11944,8 +11967,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1236,
-        "name": "雷 (Ray)",
+        "originalIndex": 1238,
+        "name": "Ray",
         "effects": [
             "Special Skill has a different effect when charged with 100%/200% mana:",
             "1x Mana Charge:",
@@ -11959,8 +11982,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1237,
-        "name": "雷 (Ray) C1",
+        "originalIndex": 1239,
+        "name": "Ray C1",
         "effects": [
             "Special Skill has a different effect when charged with 100%/200% mana:",
             "1x Mana Charge:",
@@ -11974,16 +11997,16 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1238,
-        "name": "小红帽 (Red Hood)",
+        "originalIndex": 1240,
+        "name": "Red Hood",
         "effects": [
             "Deals 215% damage to all enemies.",
             "Summons a Fox Minion for each ally with 25% HP. The minion recovers 10% health for its owner at the end of each turn. The minion protects its owner from mana reduction."
         ]
     },
     {
-        "originalIndex": 1239,
-        "name": "雷金 (Regin)",
+        "originalIndex": 1241,
+        "name": "Regin",
         "effects": [
             "Dispels buffs from the target and nearby enemies.",
             "Attacks the target and nearby enemies with Firestorm Strike, dealing up to 2000 damage. Deals 40% more damage if the target is of the Nature element. This Special Skill never misses its targets.",
@@ -11991,8 +12014,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1240,
-        "name": "雷金 (Regin) C1",
+        "originalIndex": 1242,
+        "name": "Regin C1",
         "effects": [
             "Dispels buffs from the target and nearby enemies.",
             "Attacks the target and nearby enemies with Firestorm Strike, dealing up to 2220 damage. Deals 40% more damage if the target is of the Nature element. This Special Skill never misses its targets.",
@@ -12000,8 +12023,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1241,
-        "name": "鲁本 (Reuben)",
+        "originalIndex": 1243,
+        "name": "Reuben",
         "effects": [
             "Deals 310% damage to the target and nearby enemies.",
             "All allies get -75% reduction to damage received from status effects for 4 turns.",
@@ -12009,8 +12032,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1242,
-        "name": "蕾夫娜 (Revna)",
+        "originalIndex": 1244,
+        "name": "Revna",
         "effects": [
             "Safely cleanses 1 status ailment from all allies. (Status ailments are cleansed in the order they have been received. The latest status ailments are cleansed first.)",
             "Recovers 35% health for all allies.",
@@ -12018,8 +12041,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1243,
-        "name": "火箭 (Rocket)",
+        "originalIndex": 1245,
+        "name": "Rocket",
         "effects": [
             "Wither: The target gets -330 defense.",
             "Summons a Goblin Explosive Fiend for the target and nearby enemies. The Fiend damages the enemy with 195% attack every turn.",
@@ -12028,8 +12051,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1244,
-        "name": "罗莎娜 (Rosanna)",
+        "originalIndex": 1246,
+        "name": "Rosanna",
         "effects": [
             "Deals 500% damage to the target.",
             "Has a 80% chance for additional hits on random enemies up to 4 times. Additional hits deal minor damage.",
@@ -12038,8 +12061,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1245,
-        "name": "罗丝·德·弗洛 (Rose de Flo)",
+        "originalIndex": 1247,
+        "name": "Rose de Flo",
         "effects": [
             "If the caster has 60 or more Humility:",
             "* Recovers 30% health for all allies.",
@@ -12053,8 +12076,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1246,
-        "name": "拉菲恩与呢姬布 (Roughian & Nurgib)",
+        "originalIndex": 1248,
+        "name": "Roughian & Nurgib",
         "effects": [
             "Steals 50% mana from the target and distributes them on allies.",
             "Deals 450% damage to the target.",
@@ -12063,8 +12086,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1247,
-        "name": "鲁瓦 (Ruadh)",
+        "originalIndex": 1249,
+        "name": "Ruadh",
         "effects": [
             "Dispels buffs from all enemies.",
             "Deals 400% damage to all enemies.",
@@ -12075,8 +12098,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1248,
-        "name": "露比 (Ruby)",
+        "originalIndex": 1250,
+        "name": "Ruby",
         "effects": [
             "Special Skill has a different effect when charged with 100%/200%/300% mana:",
             "1x Mana Charge:",
@@ -12094,8 +12117,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1249,
-        "name": "拉塞尔 (Russell)",
+        "originalIndex": 1251,
+        "name": "Russell",
         "effects": [
             "This Special Skill never misses its targets.",
             "Deals 450% damage to the target.",
@@ -12104,8 +12127,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1250,
-        "name": "腊斯特 (Rust)",
+        "originalIndex": 1252,
+        "name": "Rust",
         "effects": [
             "Deals 535% damage to the target and nearby enemies.",
             "The target receives lasting 210 Bleed damage per turn. (This effect lasts until it is cleansed or removed.)",
@@ -12114,8 +12137,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1251,
-        "name": "萨利马塔 (Salimata)",
+        "originalIndex": 1253,
+        "name": "Salimata",
         "effects": [
             "Dispels buffs from the target and nearby enemies.",
             "Deals 375% damage to target and nearby enemies.",
@@ -12125,8 +12148,19 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1252,
-        "name": "圣诞老人 (Santa Claus)",
+        "originalIndex": 1254,
+        "name": "Salome",
+        "effects": [
+            "Destroys all Fiends from all allies. The effect damages Mega Fiends.",
+            "Boosts health of all allies by 1300. Boosted health can exceed max HP.",
+            "At the end of each turn, all allies shot an Astral Beam at a random enemy for 4 turns.",
+            "Each Astral Beam deals 200% damage.",
+            "Each Astral Beam reduces the Max Health of the hit enemy by 200."
+        ]
+    },
+    {
+        "originalIndex": 1255,
+        "name": "Santa Claus",
         "effects": [
             "Deals 200% damage to all enemies.",
             "Summons an Elf Minion for each ally with 10% HP and 10% attack inherited from the caster.",
@@ -12135,8 +12169,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1253,
-        "name": "圣诞老人 (Santa Claus) C1",
+        "originalIndex": 1256,
+        "name": "Santa Claus C1",
         "effects": [
             "Deals 150% damage to all enemies.",
             "Summons an Elf Minion for each ally with 10% HP and 10% attack inherited from the caster.",
@@ -12145,8 +12179,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1254,
-        "name": "西尔莎 (Saoirse)",
+        "originalIndex": 1257,
+        "name": "Saoirse",
         "effects": [
             "Deals 315% damage to the target and nearby enemies.",
             "The target and nearby enemies get -54% defense for 3 turns.",
@@ -12155,8 +12189,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1255,
-        "name": "西尔莎 (Saoirse) C1",
+        "originalIndex": 1258,
+        "name": "Saoirse C1",
         "effects": [
             "Deals 335% damage to the target and nearby enemies.",
             "The target and nearby enemies get -44% defense for 3 turns.",
@@ -12165,8 +12199,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1256,
-        "name": "熔砾 (Scoria)",
+        "originalIndex": 1259,
+        "name": "Scoria",
         "effects": [
             "Deals 420% damage to the enemy with the highest HP. Deals 300% damage to all other enemies.",
             "The enemy that had the highest remaining HP gets silenced for 3 turns.",
@@ -12174,8 +12208,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1257,
-        "name": "赛迪尔 (Sedille)",
+        "originalIndex": 1260,
+        "name": "Sedille",
         "effects": [
             "Deals 450% damage to all enemies.",
             "All enemies receive 785 Burn damage over 5 turns. All allies absorb 25% of dealt Burn damage as boosted health.",
@@ -12183,24 +12217,24 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1258,
-        "name": "塞赫美特 (Sekhmet)",
+        "originalIndex": 1261,
+        "name": "Sekhmet",
         "effects": [
             "Deals 450% damage to the target.",
             "Heals all allies for 40% of the damage dealt."
         ]
     },
     {
-        "originalIndex": 1259,
-        "name": "塞赫美特 (Sekhmet) C1",
+        "originalIndex": 1262,
+        "name": "Sekhmet C1",
         "effects": [
             "Deals 500% damage to the target.",
             "Heals all allies for 35% of damage dealt."
         ]
     },
     {
-        "originalIndex": 1260,
-        "name": "桃针 (Serandite)",
+        "originalIndex": 1263,
+        "name": "Serandite",
         "effects": [
             "Special Skill has a different effect when charged with 100%/200%/300% mana:",
             "x1 Mana Charge:",
@@ -12218,8 +12252,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1261,
-        "name": "斯卡格列马 (Skargremar)",
+        "originalIndex": 1264,
+        "name": "Skargremar",
         "effects": [
             "Deals 345% damage to the target and nearby enemies.",
             "Reduces the mana of the target and nearby enemies by 20%.",
@@ -12228,8 +12262,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1262,
-        "name": "闪焰 (Sparklight)",
+        "originalIndex": 1265,
+        "name": "Sparklight",
         "effects": [
             "This Special Skill never misses its targets.",
             "Deal 430% damage to the target and nearby enemies.",
@@ -12238,8 +12272,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1263,
-        "name": "孙权 (Sun Quan)",
+        "originalIndex": 1266,
+        "name": "Sun Quan",
         "effects": [
             "Deals 340% damage to the target and nearby enemies.",
             "Summons a Wu Soldier Minion for each ally with 10% HP and 18% attack inherited from the caster.",
@@ -12247,8 +12281,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1264,
-        "name": "孙权 (Sun Quan) C1",
+        "originalIndex": 1267,
+        "name": "Sun Quan C1",
         "effects": [
             "Deals 330% damage to the target and nearby enemies.",
             "Summons a Wu Soldier Minion for each ally with 22% HP and 30% attack inherited from the caster.",
@@ -12256,8 +12290,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1265,
-        "name": "塔希尔 (Tahir)",
+        "originalIndex": 1268,
+        "name": "Tahir",
         "effects": [
             "Deals 400% damage to the target.",
             "Deals 600% damage if the target has status ailments or negative stacks.",
@@ -12266,8 +12300,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1266,
-        "name": "特里谢里 (Tetisheri)",
+        "originalIndex": 1269,
+        "name": "Tetisheri",
         "effects": [
             "Deals 500% damage to the target and minor damage to nearby enemies.",
             "The target gets -54% defense for 3 turns.",
@@ -12275,8 +12309,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1267,
-        "name": "特里谢里 (Tetisheri) C1",
+        "originalIndex": 1270,
+        "name": "Tetisheri C1",
         "effects": [
             "Deals 530% damage to the target and minor damage to nearby enemies.",
             "The target gets -44% defense for 3 turns.",
@@ -12284,8 +12318,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1268,
-        "name": "蒂莫西 (Timothy)",
+        "originalIndex": 1271,
+        "name": "Timothy",
         "effects": [
             "Boosts health for all allies by 560. Boosted health can exceed max HP.",
             "All allies get +20% attack, and an additional +10% each time any ally casts their Special Skill, up to maximimum of 70%, for the next 3 turns.",
@@ -12293,8 +12327,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1269,
-        "name": "托本 (Torben)",
+        "originalIndex": 1272,
+        "name": "Torben",
         "effects": [
             "The target receives 80% damage for all the damage their allies receive for 3 turns.",
             "The target get -44% defense for 3 turns.",
@@ -12302,8 +12336,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1270,
-        "name": "泰尔 (Tyr)",
+        "originalIndex": 1273,
+        "name": "Tyr",
         "effects": [
             "Deals 285% damage to the target.",
             "The attack has a 60% chance to bypass defensive buffs. This includes counterattacks.",
@@ -12313,8 +12347,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1271,
-        "name": "泰尔 (Tyr) C1",
+        "originalIndex": 1274,
+        "name": "Tyr C1",
         "effects": [
             "Deals 260% damage to the target and nearby enemies.",
             "The attack bypasses defensive buffs. This includes counterattacks.",
@@ -12323,8 +12357,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1272,
-        "name": "乌戈宁 (Ukkonen)",
+        "originalIndex": 1275,
+        "name": "Ukkonen",
         "effects": [
             "Deals 230% damage to all enemies.",
             "All enemies get -40% attack for 3 turns. Against Ice characters, this status effect becomes uncleansable and lasts 2 turns longer.",
@@ -12333,8 +12367,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1273,
-        "name": "乌戈宁 (Ukkonen) C1",
+        "originalIndex": 1276,
+        "name": "Ukkonen C1",
         "effects": [
             "Deals 260% damage to all enemies.",
             "All enemies get -30% attack for 3 turns. Against Ice characters, this status effect becomes uncleansable and lasts 2 turns longer.",
@@ -12343,8 +12377,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1274,
-        "name": "凡达 (Vanda)",
+        "originalIndex": 1277,
+        "name": "Vanda",
         "effects": [
             "Deals 125% damage to all enemies.",
             "The caster steals 61% of any healing applied to all enemies for 2 turns.",
@@ -12352,8 +12386,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1275,
-        "name": "凡达 (Vanda) C1",
+        "originalIndex": 1278,
+        "name": "Vanda C1",
         "effects": [
             "Deals 115% damage to all enemies.",
             "The caster steals 51% of any healing applied to all enemies for 3 turns.",
@@ -12361,8 +12395,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1276,
-        "name": "万亚 (Vanya)",
+        "originalIndex": 1279,
+        "name": "Vanya",
         "effects": [
             "Recovers 54% health of all allies.",
             "Summons a Shield Guard Mega Minion with 65% HP and 180% attack inherited from the caster.",
@@ -12370,8 +12404,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1277,
-        "name": "维格拉夫 (Wiglaf)",
+        "originalIndex": 1280,
+        "name": "Wiglaf",
         "effects": [
             "Deals 400% damage to the target and nearby enemies.",
             "The damage is increased by 25% per each defeated ally.",
@@ -12380,8 +12414,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1278,
-        "name": "仙妲 (Xenda)",
+        "originalIndex": 1281,
+        "name": "Xenda",
         "effects": [
             "Deals 250% damage to all enemies.",
             "All enemies receive 300 Burn damage over 4 turns. The caster absorbs 15% of dealt Burn damage as health.",
@@ -12389,8 +12423,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1279,
-        "name": "仙妲 (Xenda) C1",
+        "originalIndex": 1282,
+        "name": "Xenda C1",
         "effects": [
             "Deals 230% damage to all enemies.",
             "All enemies receive 472 Burn damage over 4 turns. The caster absorbs 20% of dealt Burn damage as health.",
@@ -12398,16 +12432,16 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1280,
-        "name": "小兔 (Xiaotu)",
+        "originalIndex": 1283,
+        "name": "Xiaotu",
         "effects": [
             "Deals 655% damage to the target.",
             "The target and nearby enemies resist healing and receive 250 damage per each resisted healing for 4 turns."
         ]
     },
     {
-        "originalIndex": 1281,
-        "name": "西王母 (Xiwangmu)",
+        "originalIndex": 1284,
+        "name": "Xiwangmu",
         "effects": [
             "If the caster dies during the next 5 turns, they are resurrected in the beginning of their next turn with 35% health and 815 damage is dealt to all enemies. All status effects and stacks are removed when the caster dies.",
             "All allies gets +50% critical chance for 4 turns.",
@@ -12415,8 +12449,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1282,
-        "name": "阳舞 (Yang Mai)",
+        "originalIndex": 1285,
+        "name": "Yang Mai",
         "effects": [
             "Deals 370% damage to the target.",
             "Has a 60% chance for additional hits on random enemies up to 4 times. Additional hits deal minor damage.",
@@ -12426,8 +12460,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1283,
-        "name": "约兰达 (Yolanda)",
+        "originalIndex": 1286,
+        "name": "Yolanda",
         "effects": [
             "Deals 450% damage to the target and nearby enemies.",
             "Enhanced Dodge: The caster and nearby allies get +55% chance to dodge Special Skills that deal damage. This effect lasts until the ally succesfully dodges 3 times.",
@@ -12435,8 +12469,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1284,
-        "name": "扎戈洛格 (Zagrog)",
+        "originalIndex": 1287,
+        "name": "Zagrog",
         "effects": [
             "Deals 490% damage to the target and minor damage to nearby enemies.",
             "The attack bypasses defensive buffs. This includes counterattacks.",
@@ -12445,8 +12479,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1285,
-        "name": "扎尔加 (Zarga)",
+        "originalIndex": 1288,
+        "name": "Zarga",
         "effects": [
             "Deals 465% damage to the target.",
             "The target has 55% chance to get 1068 Bleed damage over 6 turns.",
@@ -12455,8 +12489,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1286,
-        "name": "萨里亚 (Zaria)",
+        "originalIndex": 1289,
+        "name": "Zaria",
         "effects": [
             "Deals 290% damage to all enemies.",
             "If there are 6 or more Fire shields on the board, damage is increased to 340%.",
@@ -12464,24 +12498,24 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1287,
-        "name": "季诺碧亚 (Zenobia)",
+        "originalIndex": 1290,
+        "name": "Zenobia",
         "effects": [
             "Deals 320% damage to the enemies on he edges of the enemy formation. If there is only one enemy alive, the damage is doubled.",
             "Alters the power of all Fire shields on the board. When an attacking Hero casts the special, the shield becomes enhanced with +64% attack. When a defending Hero casts the special, the shields become weakened with -57% attack."
         ]
     },
     {
-        "originalIndex": 1288,
-        "name": "季诺碧亚 (Zenobia) C1",
+        "originalIndex": 1291,
+        "name": "Zenobia C1",
         "effects": [
             "Deals 340% damage to the enemies on the edges of the enemy formation. If there is only one enemy alive, the damage is doubled.",
             "Alters the power of Fire shields on the board. When an attacking Hero casts the special, the shields become enhanced with +64% attack. When a defending Hero casts the special, the shields become weakened with -57% attack."
         ]
     },
     {
-        "originalIndex": 1289,
-        "name": "泽斯蒂克 (Zestique)",
+        "originalIndex": 1292,
+        "name": "Zestique",
         "effects": [
             "Increases the mana of nearby allies by 30%.",
             "Growth: Nearby allies gets 300 attack and 300 defense.",
@@ -12489,8 +12523,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1290,
-        "name": "齐丹 (Zidane)",
+        "originalIndex": 1293,
+        "name": "Zidane",
         "effects": [
             "Deals 405% damage to the target.",
             "Steals the latest dispellable buff from target and grants it to the caster.",
@@ -12505,8 +12539,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1291,
-        "name": "西姆吉塔 (Zimkitha)",
+        "originalIndex": 1294,
+        "name": "Zimkitha",
         "effects": [
             "Deals 215% damage to all enemies.",
             "All allies get +30% attack for 4 turns.",
@@ -12515,8 +12549,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1292,
-        "name": "西姆吉塔 (Zimkitha) C1",
+        "originalIndex": 1295,
+        "name": "Zimkitha C1",
         "effects": [
             "Dispels buffs from all enemies.",
             "Deals 240% damage to all enemies.",
@@ -12525,52 +12559,52 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1293,
-        "name": "光 (Hikaru)",
+        "originalIndex": 1296,
+        "name": "Hikaru",
         "effects": [
             "Deals 265% damage to the target"
         ]
     },
     {
-        "originalIndex": 1294,
-        "name": "健次郎 (Kenjiro)",
+        "originalIndex": 1297,
+        "name": "Kenjiro",
         "effects": [
             "Deals 115% damage to all enemies"
         ]
     },
     {
-        "originalIndex": 1295,
-        "name": "猴 (Hou)",
+        "originalIndex": 1298,
+        "name": "Hou",
         "effects": [
             "All allies get +63% defense for 4 turns"
         ]
     },
     {
-        "originalIndex": 1296,
-        "name": "纳什 (Nash)",
+        "originalIndex": 1299,
+        "name": "Nash",
         "effects": [
             "Deals 195% damage to the target",
             "The target gets -34% attack for 6 turns"
         ]
     },
     {
-        "originalIndex": 1297,
-        "name": "莎姬 (Sha Ji)",
+        "originalIndex": 1300,
+        "name": "Sha Ji",
         "effects": [
             "Recovers 28% health for all allies"
         ]
     },
     {
-        "originalIndex": 1298,
-        "name": "艾格尼斯 (Agnes)",
+        "originalIndex": 1301,
+        "name": "Agnes",
         "effects": [
             "Deals 320% damage to the target.",
             "The attack has a 60% chance to bypass defensive buffs. This includes counterattacks."
         ]
     },
     {
-        "originalIndex": 1299,
-        "name": "阿尔曼 (Arman)",
+        "originalIndex": 1302,
+        "name": "Arman",
         "effects": [
             "Deals 130% damage to all enemies.",
             "All enemies receive 92 damage over 4 turns.",
@@ -12579,24 +12613,24 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1300,
-        "name": "贝恩 (Bane)",
+        "originalIndex": 1303,
+        "name": "Bane",
         "effects": [
             "Deals 300% damage to the target.",
             "The target gets -35% accuracy for 4 turns. Chance to miss also applies to offensive Special Skills."
         ]
     },
     {
-        "originalIndex": 1301,
-        "name": "贝恩 (Bane) C1",
+        "originalIndex": 1304,
+        "name": "Bane C1",
         "effects": [
             "Deals 280% damage to the target",
             "The target gets -40% accuracy for 4 turns. Chance to miss also applies to offensive Special Skills."
         ]
     },
     {
-        "originalIndex": 1302,
-        "name": "贝恩 (Bane) 卡通",
+        "originalIndex": 1305,
+        "name": "Bane Toon",
         "effects": [
             "Deals 305% damage to the target.",
             "The target gets -30% accuracy for 2 turns.",
@@ -12604,8 +12638,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1303,
-        "name": "贝恩 (Bane) 玻璃",
+        "originalIndex": 1306,
+        "name": "Bane Glass",
         "effects": [
             "Deals 315% damage to the target.",
             "The attack bypasses defensive buffs. (This includes counterattacks.)",
@@ -12613,23 +12647,23 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1304,
-        "name": "柏图尔夫 (Bertulf)",
+        "originalIndex": 1307,
+        "name": "Bertulf",
         "effects": [
             "All allies get +100% normal attack for 4 turns. This effect can be active in addition to effectst hat alter attack in general. Normal attacks can have a total maximum of +160% increased power while this effect is active."
         ]
     },
     {
-        "originalIndex": 1305,
-        "name": "坎迪 (Candy)",
+        "originalIndex": 1308,
+        "name": "Candy",
         "effects": [
             "Heals all allies who have less than 50% HP left to 50% health.",
             "All allies regenerate 261 HP over 3 turns."
         ]
     },
     {
-        "originalIndex": 1306,
-        "name": "西达 (Cedar)",
+        "originalIndex": 1309,
+        "name": "Cedar",
         "effects": [
             "Deals 175% damage to all enemies.",
             "All enemies get -15% accuracy, and a further -2% decreae every time they  are hit during 4 turns, up to -35% accuracy.",
@@ -12637,8 +12671,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1307,
-        "name": "克苏乌 (Cthuwu)",
+        "originalIndex": 1310,
+        "name": "Cthuwu",
         "effects": [
             "Deals 250% damage to the target.",
             "All allies have 50% chance to deal 100% damage toa random enemy and inflicts 20 Insanity on them after any subsequent alied Special Skill is cast for 3 turns. (Damage and Insanity are dealt on the first Special Skill cast of each character per turn. The damage and Insanity dealt by this effect is not affected by Insanity.)",
@@ -12646,39 +12680,39 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1308,
-        "name": "达瓦 (Dawa)",
+        "originalIndex": 1311,
+        "name": "Dawa",
         "effects": [
             "Deals 210% damage to the target and minor damage to nearby enemies."
         ]
     },
     {
-        "originalIndex": 1309,
-        "name": "达瓦 (Dawa) C1",
+        "originalIndex": 1312,
+        "name": "Dawa C1",
         "effects": [
             "Deals 200% damage to the target.",
             "Deals 230% damage to a random different enemy. Deals extra damage to the target if the target is Dark."
         ]
     },
     {
-        "originalIndex": 1310,
-        "name": "达瓦 (Dawa) 卡通",
+        "originalIndex": 1313,
+        "name": "Dawa Toon",
         "effects": [
             "Deals 240% damage to the target and minor to nearby enemies.",
             "Deals extra damage against Dark."
         ]
     },
     {
-        "originalIndex": 1311,
-        "name": "达瓦 (Dawa) 玻璃",
+        "originalIndex": 1314,
+        "name": "Dawa Glass",
         "effects": [
             "Deals 250% damage to the target and minor damage to nearby enemies.",
             "The attack bypasses defensive buffs. (This includes counterattacks.)"
         ]
     },
     {
-        "originalIndex": 1312,
-        "name": "多拉克 (Dolrak)",
+        "originalIndex": 1315,
+        "name": "Dolrak",
         "effects": [
             "Deals 270% damage to the target.",
             "The target gets -30% defense for 4 turns. The effect duration resets if the target is healed.",
@@ -12686,16 +12720,16 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1313,
-        "name": "爱德蕾德 (Edelaide)",
+        "originalIndex": 1316,
+        "name": "Edelaide",
         "effects": [
             "Recovers 26% health for all allies.",
             "All allies get +195% attack and -35% accuracy that only applies when the enemy has more HP than the attacker. The effect lasts for 3 turns."
         ]
     },
     {
-        "originalIndex": 1314,
-        "name": "费尔顿 (Felton)",
+        "originalIndex": 1317,
+        "name": "Felton",
         "effects": [
             "Deals 355% damage to the target.",
             "Deals 100 extra damage if the target has boosted health.",
@@ -12704,8 +12738,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1315,
-        "name": "费尔顿 (Felton) C1",
+        "originalIndex": 1318,
+        "name": "Felton C1",
         "effects": [
             "Deals 375% damage to the target.",
             "Deals 150 extra damage if the target has boosted health.",
@@ -12714,24 +12748,24 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1316,
-        "name": "柑橘 (Gan Ju)",
+        "originalIndex": 1319,
+        "name": "Gan Ju",
         "effects": [
             "Deals 270% damage to the target.",
             "Reduces the mana of the target by 25%."
         ]
     },
     {
-        "originalIndex": 1317,
-        "name": "柑橘 (Gan Ju) C1",
+        "originalIndex": 1320,
+        "name": "Gan Ju C1",
         "effects": [
             "Deals 220% damage to the target.",
             "Reduces the mana of the target by 40%."
         ]
     },
     {
-        "originalIndex": 1318,
-        "name": "柑橘 (Gan Ju) 卡通",
+        "originalIndex": 1321,
+        "name": "Gan Ju Toon",
         "effects": [
             "Deals 300% damage to the target.",
             "Reduces the mana of the target by 20%.",
@@ -12739,8 +12773,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1319,
-        "name": "柑橘 (Gan Ju) 玻璃",
+        "originalIndex": 1322,
+        "name": "Gan Ju Glass",
         "effects": [
             "Deals 310% damage to the target.",
             "The attack bypasses defensive buffs. (This includes counterattacks.)",
@@ -12748,8 +12782,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1320,
-        "name": "春坊 (Harubo)",
+        "originalIndex": 1323,
+        "name": "Harubo",
         "effects": [
             "Deals 350% damage to the target.",
             "The target enemy receives Devouring Goo status ailment for 3 turns.",
@@ -12757,8 +12791,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1321,
-        "name": "雅科 (Jaco)",
+        "originalIndex": 1324,
+        "name": "Jaco",
         "effects": [
             "Special Skill need consecutive uses to reach full power, the following order:",
             "1st:",
@@ -12770,8 +12804,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1322,
-        "name": "雅科 (Jaco) C1",
+        "originalIndex": 1325,
+        "name": "Jaco C1",
         "effects": [
             "Special Skill need consecutive uses to reach full power, the following order:",
             "1st:",
@@ -12783,8 +12817,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1323,
-        "name": "乔力 (Jolly)",
+        "originalIndex": 1326,
+        "name": "Jolly",
         "effects": [
             "Boosts health of all allies by 475. Boosted health can exceed max HP.",
             "Summons an Elf Minion for each ally with 10% HP and 10% attack inherited from the caster.",
@@ -12793,32 +12827,32 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1324,
-        "name": "凯兰尼 (Kailani)",
+        "originalIndex": 1327,
+        "name": "Kailani",
         "effects": [
             "All allies become Soul Connected for 5 turns. Soul Connected allies share received damage.",
             "All allies get +63% defense for 5 turns."
         ]
     },
     {
-        "originalIndex": 1325,
-        "name": "凯兰尼 (Kailani) C1",
+        "originalIndex": 1328,
+        "name": "Kailani C1",
         "effects": [
             "All allies become Soul Connected for 5 turns. Soul Connected allies share received damage.",
             "All allies get +50% attack for 5 turns"
         ]
     },
     {
-        "originalIndex": 1326,
-        "name": "凯兰尼 (Kailani) 卡通",
+        "originalIndex": 1329,
+        "name": "Kailani Toon",
         "effects": [
             "All allies become Soul Connected for 5 turns. Soul Connected allies share received damage. For all Holy characters, this status effect is undispellable and lasts 2 turns longer.",
             "All allies get 56% defense for 5 turns. For all Holy characters, this status effect is undispellable and lasts 2 turns longer."
         ]
     },
     {
-        "originalIndex": 1327,
-        "name": "凯兰尼 (Kailani) 玻璃",
+        "originalIndex": 1330,
+        "name": "Kailani Glass",
         "effects": [
             "All allies become Soul Connected for 5 turns. Soul Connected allies share received damage.",
             "All allies get +59% defense for 5 turns.",
@@ -12826,8 +12860,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1328,
-        "name": "金砂石 (Kinsaishi)",
+        "originalIndex": 1331,
+        "name": "Kinsaishi",
         "effects": [
             "Special Skill has a different effect when charged with 100%/200%/300% mana:",
             "x1 Mana Charge:",
@@ -12842,8 +12876,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1329,
-        "name": "卡瓦希尔 (Kvasir)",
+        "originalIndex": 1332,
+        "name": "Kvasir",
         "effects": [
             "Summons a Bee Minion for each ally. The Bee Minion inherits 15% HP and 17% attack from the caster.",
             "Each hit from a Bee Minion gives the target the following status ailments:",
@@ -12852,8 +12886,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1330,
-        "name": "卡瓦希尔 (Kvasir) C1",
+        "originalIndex": 1333,
+        "name": "Kvasir C1",
         "effects": [
             "Summons a Bee Minion for each ally. The Bee Minion inherits 18% HP and 15% attack from the caster.",
             "Each hit from the Bee Minion gives the target the following status ailments:",
@@ -12862,24 +12896,24 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1331,
-        "name": "梅里亚 (Melia)",
+        "originalIndex": 1334,
+        "name": "Melia",
         "effects": [
             "Deals 120% damage to all enemies.",
             "All allies get +36% critical chance for 4 turns."
         ]
     },
     {
-        "originalIndex": 1332,
-        "name": "梅里亚 (Melia) C1",
+        "originalIndex": 1335,
+        "name": "Melia C1",
         "effects": [
             "Deals 120% damage to all enemies.",
             "All enemies get -25% accuracy for 3 turns. Chance to miss also applies too offensive Special Skills."
         ]
     },
     {
-        "originalIndex": 1333,
-        "name": "佩雅 (Paeia)",
+        "originalIndex": 1336,
+        "name": "Paeia",
         "effects": [
             "All allies get a Moonrise Ward for 6 turns, that reduces the incoming Special Skill damage by -320. Reduces damage by additional 20% when attacker is Holy.",
             "All allies get +24% attack for 6 turns.",
@@ -12887,48 +12921,48 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1334,
-        "name": "皮格茜 (Pixie)",
+        "originalIndex": 1337,
+        "name": "Pixie",
         "effects": [
             "Deals 290% damage to the target.",
             "Automatically does 89 damage to the target and consumes 50% mana from the target when the target's mana is full for 3 turns."
         ]
     },
     {
-        "originalIndex": 1335,
-        "name": "波比 (Poppy)",
+        "originalIndex": 1338,
+        "name": "Poppy",
         "effects": [
             "Deals 300% damage to the target.",
             "Has a 42% chance for additional hits on random enemies up to 3 times.  Additional hits deal minor damage."
         ]
     },
     {
-        "originalIndex": 1336,
-        "name": "波比 (Poppy) C1",
+        "originalIndex": 1339,
+        "name": "Poppy C1",
         "effects": [
             "Deals 280% damage to the target.",
             "Has a 55% chance for additional hits on random enemies up to 3 times. Additional hits deal minor damage."
         ]
     },
     {
-        "originalIndex": 1337,
-        "name": "雷克赫特 (Rekhetre)",
+        "originalIndex": 1340,
+        "name": "Rekhetre",
         "effects": [
             "All allies regenerate 450 boosted health over 3 turns. Boosted health can exceed max HP.",
             "The caster gets +84% defense against Dark, and a further 2% increase every time they are hit during 3 turns."
         ]
     },
     {
-        "originalIndex": 1338,
-        "name": "雷克赫特 (Rekhetre) C1",
+        "originalIndex": 1341,
+        "name": "Rekhetre C1",
         "effects": [
             "All allies regenerate 540 boosted health over 3 turns. Boosted health can exceed max HP.",
             "The caster gets +74% defense against Dark, and a further 2% increase every time they are hit during 3 turns."
         ]
     },
     {
-        "originalIndex": 1339,
-        "name": "呱呱 (Ribbit)",
+        "originalIndex": 1342,
+        "name": "Ribbit",
         "effects": [
             "Deals 250% damage to the target and nearby enemies.",
             "Reduces the mana of the target and nearby enemies by 15%.",
@@ -12936,8 +12970,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1340,
-        "name": "锈喙 (Rustbeak)",
+        "originalIndex": 1343,
+        "name": "Rustbeak",
         "effects": [
             "The caster and nearby allies regenerate 429 HP over 3 turns.",
             "The caster and nearby allies get +45% chance to dodge attacks and Special skills for 3 turns.",
@@ -12945,16 +12979,16 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1341,
-        "name": "萨莉 (Sally)",
+        "originalIndex": 1344,
+        "name": "Sally",
         "effects": [
             "Deals 270% damage to the target.",
             "The attack chains through all the enemies who are adjacent to any hit enemy."
         ]
     },
     {
-        "originalIndex": 1342,
-        "name": "萨丝琪雅 (Saskia)",
+        "originalIndex": 1345,
+        "name": "Saskia",
         "effects": [
             "Recovering 26% health for all allies.",
             "Enhanced Dodge: All allies get +45% chance to dodge Special Skills that deal damage. This effect lasts until the ally succesfully dodges 1 time.",
@@ -12962,8 +12996,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1343,
-        "name": "爱斯舍尔 (Aeschere)",
+        "originalIndex": 1346,
+        "name": "Aeschere",
         "effects": [
             "Safely dispels 1 buff from all enemies. (The latest buffs are dispelled first.)",
             "Source of Buffs: The following effects are cast on a random ally at the start of each turn",
@@ -12974,8 +13008,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1344,
-        "name": "阿纳斯塔西亚 (Anastasia)",
+        "originalIndex": 1347,
+        "name": "Anastasia",
         "effects": [
             "Special Skill has a different effect when charged with 100%/200% mana:",
             "1x Mana Charge:",
@@ -12987,24 +13021,24 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1345,
-        "name": "贝勒里夫 (Bellerive)",
+        "originalIndex": 1348,
+        "name": "Bellerive",
         "effects": [
             "Deals 420% damage to the target.",
             "If the target dies, the excess damage is dealt to each nearby enemy."
         ]
     },
     {
-        "originalIndex": 1346,
-        "name": "博加特 (Bogart)",
+        "originalIndex": 1349,
+        "name": "Bogart",
         "effects": [
             "Deals 305% damage to the target and minor damage to nearby enemies.",
             "The target and nearby enemies get -35% defense for 3 turns. The defense descrese by -10% each turn, up to -55%."
         ]
     },
     {
-        "originalIndex": 1347,
-        "name": "香黛儿 (Chandel)",
+        "originalIndex": 1350,
+        "name": "Chandel",
         "effects": [
             "If the caster has 35 or more Humility:",
             "* Deals 300% damage to the enemies on the edges of the enemy formation. If there is only one enemy, the damage is doubled.",
@@ -13014,32 +13048,32 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1348,
-        "name": "赵 (Chao)",
+        "originalIndex": 1351,
+        "name": "Chao",
         "effects": [
             "Deals 315% damage to the target",
             "Reduces the mana of the target by 25%"
         ]
     },
     {
-        "originalIndex": 1349,
-        "name": "赵 (Chao) C1",
+        "originalIndex": 1352,
+        "name": "Chao C1",
         "effects": [
             "Deals 275% damage to the target.",
             "The caster steals generated mana of the target over 4 turns starting low and increasing every turn until on the last turn all the generated mana is stolen. This effect can't be cleansed, but it gets remoed if the caster dies."
         ]
     },
     {
-        "originalIndex": 1350,
-        "name": "赵 (Chao) C2",
+        "originalIndex": 1353,
+        "name": "Chao C2",
         "effects": [
             "Deals 275% damage to the target and nearby enemies.",
             "The target and nearby enemies get -24% mana generation for 3 turns."
         ]
     },
     {
-        "originalIndex": 1351,
-        "name": "赵 (Chao) 卡通",
+        "originalIndex": 1354,
+        "name": "Chao Toon",
         "effects": [
             "Deals 320% damage to the target.",
             "Reduces the mana of the target by -20%.",
@@ -13047,8 +13081,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1352,
-        "name": "赵 (Chao) 玻璃",
+        "originalIndex": 1355,
+        "name": "Chao Glass",
         "effects": [
             "Deals 325% damage to the target.",
             "Reduces the mana of the target by -23%.",
@@ -13056,8 +13090,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1353,
-        "name": "迪安德烈 (D'Andre)",
+        "originalIndex": 1356,
+        "name": "D'Andre",
         "effects": [
             "Recovers 35% health for all allies.",
             "All allies with a cleansable status ailment that affects defense get +50% defense for 3 turns.",
@@ -13065,8 +13099,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1354,
-        "name": "团三郎狸 (Danzaburo)",
+        "originalIndex": 1357,
+        "name": "Danzaburo",
         "effects": [
             "Perform a trick for a special effect:",
             "Swords:",
@@ -13081,8 +13115,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1355,
-        "name": "团三郎狸 (Danzaburo) C1",
+        "originalIndex": 1358,
+        "name": "Danzaburo C1",
         "effects": [
             "Sell junk for a specific effect:",
             "Dull Swords",
@@ -13097,16 +13131,16 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1356,
-        "name": "埃林 (Errin)",
+        "originalIndex": 1359,
+        "name": "Errin",
         "effects": [
             "All enemies become Soul Connected for 4 turns. Soul Connected enemies share received damage.",
             "All enemies receive +25% increased damage for 4 turns. This effect is increased by +5% for each Minion or Mega minion owned by all enemies, up to +50% in total."
         ]
     },
     {
-        "originalIndex": 1357,
-        "name": "菲亚拉尔 (Fjalar)",
+        "originalIndex": 1360,
+        "name": "Fjalar",
         "effects": [
             "Damage bypasses target’s Minions.",
             "Attack the target with Firestorm Strike, dealing up to 1080 damage. Deals 30% more damage if the target is ok the Nature element. This Special Skill never misses its targets.",
@@ -13114,8 +13148,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1358,
-        "name": "菲亚拉尔 (Fjalar) C1",
+        "originalIndex": 1361,
+        "name": "Fjalar C1",
         "effects": [
             "Damage bypasses target’s Minions.",
             "Attack the target with Firestorm Strike, dealing up to 1180 damage. Deals 30% more damage if the target is of the Nature element. This Special Skill never misses its targets.",
@@ -13123,8 +13157,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1359,
-        "name": "金娘 (Goldie)",
+        "originalIndex": 1362,
+        "name": "Goldie",
         "effects": [
             "Recover 38% health for all allies.",
             "Growth: All allies get 100 attack.",
@@ -13132,8 +13166,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1360,
-        "name": "格蕾特 (Gretel)",
+        "originalIndex": 1363,
+        "name": "Gretel",
         "effects": [
             "Deals 175% damage to the target and minor damage to nearby enemies",
             "Automatically does 147 damage to the target and consumes 50% mana from the  target when the target's mana is full for 3 turns.",
@@ -13141,24 +13175,24 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1361,
-        "name": "格里芬 (Griffin)",
+        "originalIndex": 1364,
+        "name": "Griffin",
         "effects": [
             "Deals 340% damage to the target.",
             "The attack will always bypass counterattacks and reflection."
         ]
     },
     {
-        "originalIndex": 1362,
-        "name": "格里芬 (Griffin) C1",
+        "originalIndex": 1365,
+        "name": "Griffin C1",
         "effects": [
             "Deals 320% damage to the target.",
             "The caster and nearby allies bypass defense buffs with their attacks for 2 turns. Defensive buffs include counterattacks."
         ]
     },
     {
-        "originalIndex": 1363,
-        "name": "顾大嫂 (Gu Dasao)",
+        "originalIndex": 1366,
+        "name": "Gu Dasao",
         "effects": [
             "This Special Skill has a chance to deal Critical hits. (The chance of dealing a Critical hit is based on Hero’s overall critical chance when the damage is dealt. Critical hits caused by this Special Skill deal 50% more damage. Critical hits can reduces enemies’ max health on PVP battles. This effect is stronger against boosted health.)",
             "Deals 185% damage to the target and minor damage to all other enemies.",
@@ -13167,40 +13201,40 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1364,
-        "name": "豺狼守护者 (Guardian Jackal)",
+        "originalIndex": 1367,
+        "name": "Guardian Jackal",
         "effects": [
             "Deals 270% damage to the target.",
             "The target gets -54% defense against Holy for 4 turns."
         ]
     },
     {
-        "originalIndex": 1365,
-        "name": "豺狼守护者 (Guardian Jackal) C1",
+        "originalIndex": 1368,
+        "name": "Guardian Jackal C1",
         "effects": [
             "Deals 280% damage to the target.",
             "The caster and nearby allies get +94% defense against Dark for 3 turns."
         ]
     },
     {
-        "originalIndex": 1366,
-        "name": "古林博斯帝 (Gullinbursti)",
+        "originalIndex": 1369,
+        "name": "Gullinbursti",
         "effects": [
             "Boosts health of all allies by 400. Boosted health can exceed max HP.",
             "The caster get +45% attack, and a further 20% increase every time they or any of their allies are hit during 3 turns. When the effect ends, all enemies receive 176 damage. Each hit on the caster or their allies during the duration increases the damage by 13 to a maximum of 332 damage."
         ]
     },
     {
-        "originalIndex": 1367,
-        "name": "古林博斯帝 (Gullinbursti) C1",
+        "originalIndex": 1370,
+        "name": "Gullinbursti C1",
         "effects": [
             "All allies regenerate 480 boosted health over 4 turns. Boosted health can exceed max HP.",
             "The caster gets +35% attack, and a further 15% increase every time they or any of their allies are hit during 4 turns. When the effect ends, all enemies receive 236 damage. Each hit on the caster or their allies during the duration increases the damage by 15 to a maximum of 416 damage."
         ]
     },
     {
-        "originalIndex": 1368,
-        "name": "霍莉 (Holly)",
+        "originalIndex": 1371,
+        "name": "Holly",
         "effects": [
             "Recovers 20% heath for all allies.",
             "Recovers additional 3% health per each Holy shield on the board, up to 44% health in total.",
@@ -13209,8 +13243,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1369,
-        "name": "胡桃 (Hu Tao)",
+        "originalIndex": 1372,
+        "name": "Hu Tao",
         "effects": [
             "Deals 210% damage to all enemies.",
             "All enemies get -40% accuracy for 4 turns.",
@@ -13218,8 +13252,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1370,
-        "name": "胡桃 (Hu Tao) C1",
+        "originalIndex": 1373,
+        "name": "Hu Tao C1",
         "effects": [
             "Deals 160% damage to all enemies.",
             "All enemies get -30% accuracy for 4 turns. Chance to miss also applies to offensive Special SKills.",
@@ -13227,8 +13261,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1371,
-        "name": "胡桃 (Hu Tao) C2",
+        "originalIndex": 1374,
+        "name": "Hu Tao C2",
         "effects": [
             "Deals 200% damage to all enemies.",
             "All enemies get -30% accuracy for 4 turns. Chance to miss also applies to offensive Special Skills.",
@@ -13236,8 +13270,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1372,
-        "name": "胡桃 (Hu Tao) 卡通",
+        "originalIndex": 1375,
+        "name": "Hu Tao Toon",
         "effects": [
             "Deals 240% damage to all enemies.",
             "All enemies get -34% accuracy for 4 turns.",
@@ -13245,8 +13279,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1373,
-        "name": "胡桃 (Hu Tao) 玻璃",
+        "originalIndex": 1376,
+        "name": "Hu Tao Glass",
         "effects": [
             "Deals 245% damage to all enemies",
             "The attack bypasses defensive buffs. (This includes counterattacks.)",
@@ -13254,40 +13288,40 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1374,
-        "name": "伍尔顿女士 (Lady Woolerton)",
+        "originalIndex": 1377,
+        "name": "Lady Woolerton",
         "effects": [
             "Recovers 40% Health for all allies.",
             "The caster can't gain mana for 2 turns. This effect can't be cleansed."
         ]
     },
     {
-        "originalIndex": 1375,
-        "name": "丽秀 (Li Xiu)",
+        "originalIndex": 1378,
+        "name": "Li Xiu",
         "effects": [
             "Deals 150% damage to all enemies",
             "Reduces the mana of enemies by 20%"
         ]
     },
     {
-        "originalIndex": 1376,
-        "name": "丽秀 (Li Xiu) C1",
+        "originalIndex": 1379,
+        "name": "Li Xiu C1",
         "effects": [
             "Deals 180% damage to all enemies",
             "Reduces the mana of all enemies by 10%"
         ]
     },
     {
-        "originalIndex": 1377,
-        "name": "丽秀 (Li Xiu) C2",
+        "originalIndex": 1380,
+        "name": "Li Xiu C2",
         "effects": [
             "Deals 270% damage to the target and nearby enemies.",
             "The target and nearby enemies get silenced for 3 turns."
         ]
     },
     {
-        "originalIndex": 1378,
-        "name": "丽秀 (Li Xiu) 卡通",
+        "originalIndex": 1381,
+        "name": "Li Xiu Toon",
         "effects": [
             "Deals 180% damage to all enemies.",
             "Reduces the mana of all enemies by 16%.",
@@ -13295,8 +13329,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1379,
-        "name": "丽秀 (Li Xiu) 玻璃",
+        "originalIndex": 1382,
+        "name": "Li Xiu Glass",
         "effects": [
             "Deals 190% damage to all enemies.",
             "The attack bypasses defensive buffs. (This includes counterattacks.)",
@@ -13304,8 +13338,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1380,
-        "name": "迷雾 (Mist)",
+        "originalIndex": 1383,
+        "name": "Mist",
         "effects": [
             "Deals 175% damage to the target and nearby enemies.",
             "The target and nearby enemies are immune to new status effect buffs for 3 turns.",
@@ -13314,8 +13348,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1381,
-        "name": "苏格拉泰 (Scoratek)",
+        "originalIndex": 1384,
+        "name": "Scoratek",
         "effects": [
             "Deals 190% damage to the target.",
             "Summons a Bomb Scarab Fiend for the target. The Fiend damages its target with 38% attack every turn.",
@@ -13324,8 +13358,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1382,
-        "name": "苏格拉泰 (Scoratek) C1",
+        "originalIndex": 1385,
+        "name": "Scoratek C1",
         "effects": [
             "Deals 125% damage to the target.",
             "Summons a Scarab Bomb Fiend for the target. The Fiend damages the enemy with 38% attack every turn.",
@@ -13334,8 +13368,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1383,
-        "name": "斯忒洛珀 (Steropes)",
+        "originalIndex": 1386,
+        "name": "Steropes",
         "effects": [
             "Special Skill has a different effect when charged with 100% / 200% / 300% mana:",
             "1x Mana Charge:",
@@ -13348,32 +13382,32 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1384,
-        "name": "沃路普塔斯 (Voluptas)",
+        "originalIndex": 1387,
+        "name": "Voluptas",
         "effects": [
             "Destroys all Fiends from the caster and nearby allies.",
             "Recovers 40% health for the caster and nearby allies."
         ]
     },
     {
-        "originalIndex": 1385,
-        "name": "摆摆 (Waddles)",
+        "originalIndex": 1388,
+        "name": "Waddles",
         "effects": [
             "Deals 365% damage to the target.",
             "The target automatically casts Shifting Mindless Attack on a random ally when mana is full at the start of a turn during 3 turns. When this effect is triggered, it shifts to the hit ally, and the duration is refreshed."
         ]
     },
     {
-        "originalIndex": 1386,
-        "name": "王元姬 (Wang Yuanji)",
+        "originalIndex": 1389,
+        "name": "Wang Yuanji",
         "effects": [
             "Destroys all Fiends from all allies.",
             "Boosts health of all allies by 625. Boosted health can exceed max HP."
         ]
     },
     {
-        "originalIndex": 1387,
-        "name": "王元姬 (Wang Yuanji) C1",
+        "originalIndex": 1390,
+        "name": "Wang Yuanji C1",
         "effects": [
             "Destroys all Fiends from all allies. This effect damages Mega Fiends.",
             "Boosts health of all allies by 520. Boosted health can exceed max HP.",
@@ -13381,62 +13415,62 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1388,
-        "name": "悟空 (Wu Kong)",
+        "originalIndex": 1391,
+        "name": "Wu Kong",
         "effects": [
             "All allies get +185% attack with -32% accuracy for 5 turns",
             "Chance to miss also applies to offensive special skills"
         ]
     },
     {
-        "originalIndex": 1389,
-        "name": "悟空 (Wu Kong) C1",
+        "originalIndex": 1392,
+        "name": "Wu Kong C1",
         "effects": [
             "Deals 210% damage to all enemies",
             "The caster gets -20% defense for 3 turns. This effect can't be cleansed."
         ]
     },
     {
-        "originalIndex": 1390,
-        "name": "悟空 (Wu Kong) C2",
+        "originalIndex": 1393,
+        "name": "Wu Kong C2",
         "effects": [
             "All allies get +170% attack with -25% accuracy for 5 turns. Chance to miss also applies to offensive special skills."
         ]
     },
     {
-        "originalIndex": 1391,
-        "name": "悟空 (Wu Kong) 卡通",
+        "originalIndex": 1394,
+        "name": "Wu Kong Toon",
         "effects": [
             "All allies get +175% attack with -32% accuracy for 5 turns. For all Holy characters, this status effect becomes undispellable and lasts 2 turns longer."
         ]
     },
     {
-        "originalIndex": 1392,
-        "name": "悟空 (Wu Kong) 玻璃",
+        "originalIndex": 1395,
+        "name": "Wu Kong Glass",
         "effects": [
             "All allies get +180% attack with -32% accuracy for 5 turns. (Chance to Miss applies to offensive Special Skills.)",
             "All Holy allies reflect status ailments and negative stacks for 2 turns. (Status effect cast by characters, Minions and Fiends on the same side cannot be reflected.)"
         ]
     },
     {
-        "originalIndex": 1393,
-        "name": "紫苑 (Zione)",
+        "originalIndex": 1396,
+        "name": "Zione",
         "effects": [
             "Alters the power of all Holy shields on the board. When an attacking Hero casts the special, the shields become enhanced and give +30% more mana. When a defending casts the special, the shields become weakened and give -23% less mana.",
             "All allies get +35% attack for 4 turns. For all Holy characters, the status effect becomes undispellable and last 2 turns longer."
         ]
     },
     {
-        "originalIndex": 1394,
-        "name": "阿克罗格 (Akkorog)",
+        "originalIndex": 1397,
+        "name": "Akkorog",
         "effects": [
             "Rearranges the enemy positions randomly.",
             "Deals 280% damage to the target and nearby enemies."
         ]
     },
     {
-        "originalIndex": 1395,
-        "name": "阿克罗格 (Akkorog) C1",
+        "originalIndex": 1398,
+        "name": "Akkorog C1",
         "effects": [
             "Rearranges the enemy positions randomly.",
             "Deals 260% damage to the target and nearby enemies.",
@@ -13444,8 +13478,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1396,
-        "name": "阿尔宾 (Albin)",
+        "originalIndex": 1399,
+        "name": "Albin",
         "effects": [
             "Deals 440% damage to all enemies.",
             "The duration of buffs is reset for all allies.",
@@ -13453,8 +13487,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1397,
-        "name": "阿尔瓦 (Alvar)",
+        "originalIndex": 1400,
+        "name": "Alvar",
         "effects": [
             "Lifts all cleansable status ailments from all allies and randomly distributes them on enemies.",
             "The duration of status ailments is reset for all enemies.",
@@ -13463,8 +13497,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1398,
-        "name": "阿蒙德 (Amund)",
+        "originalIndex": 1401,
+        "name": "Amund",
         "effects": [
             "Deals 350% damage to all enemies.",
             "Summons a Bone Trap Fiend for all enemies. The Fiend damages the enemy with 45% attack every turn. The damage increases by 8% each turn, up to a maximum 93%.",
@@ -13473,8 +13507,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1399,
-        "name": "安 (Anne)",
+        "originalIndex": 1402,
+        "name": "Anne",
         "effects": [
             "Deals 550% damage to the target.",
             "If the target had more than 50% health before receiving damage, targets another enemy who had over 50% health before receiving damage from this Special Skill. If none of the other enemies had 50% health, targets a random enemy. The damage is reduced on each consecutive hit. Each enemy can only be hit once.",
@@ -13482,8 +13516,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1400,
-        "name": "安忒洛斯 (Anteros)",
+        "originalIndex": 1403,
+        "name": "Anteros",
         "effects": [
             "This Special Skill never misses its targets.",
             "Deals 460% damage to the target.",
@@ -13493,24 +13527,24 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1401,
-        "name": "奥代 (Aouda)",
+        "originalIndex": 1404,
+        "name": "Aouda",
         "effects": [
             "Deals 450% damage to the target.",
             "Deals 500 extra damage if the target has boosted health."
         ]
     },
     {
-        "originalIndex": 1402,
-        "name": "奥代 (Aouda) C1",
+        "originalIndex": 1405,
+        "name": "Aouda C1",
         "effects": [
             "Deals 250% damage to the target.",
             "Deals 1140 extra damage if the target has boosted health."
         ]
     },
     {
-        "originalIndex": 1403,
-        "name": "进阶拟态兽 (Ascension Mimic) Holy",
+        "originalIndex": 1406,
+        "name": "Ascension Mimic Holy",
         "effects": [
             "Deals 380% damage to the target and nearby enemies.",
             "If an enemy is defeated by the attack, the caster recovers +50% health and gains +33% mana.",
@@ -13519,8 +13553,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1404,
-        "name": "艾森 (Ashen)",
+        "originalIndex": 1407,
+        "name": "Ashen",
         "effects": [
             "If the caster is recovering health:",
             "* Deals 300% damage to all enemies.",
@@ -13531,8 +13565,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1405,
-        "name": "阿斯特丽德 (Astrid)",
+        "originalIndex": 1408,
+        "name": "Astrid",
         "effects": [
             "Recovers 50% health for all allies.",
             "Each defeated ally has 40% chance to get revived with 30% HP.",
@@ -13540,8 +13574,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1406,
-        "name": "奥瑞卡克 (Auricarc)",
+        "originalIndex": 1409,
+        "name": "Auricarc",
         "effects": [
             "Steals all Minions or a Mega Minion from the target.",
             "Steals 40% mana from the target and distributes it to allies.",
@@ -13550,8 +13584,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1407,
-        "name": "奥罗克斯 (Aurox)",
+        "originalIndex": 1410,
+        "name": "Aurox",
         "effects": [
             "Destroys all Minions from the target and nearby enemies. This effect damages Mega Minions.",
             "Deals 360% damage to the target and nearby enemies.",
@@ -13560,8 +13594,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1408,
-        "name": "阿维亚纳 (Aviana)",
+        "originalIndex": 1411,
+        "name": "Aviana",
         "effects": [
             "Deals 330% damage to the target and nearby enemies.",
             "The target and nearby enemies are immune to new status effects buffs for 4 turns.",
@@ -13570,8 +13604,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1409,
-        "name": "白杨 (Bai Yeong)",
+        "originalIndex": 1412,
+        "name": "Bai Yeong",
         "effects": [
             "Deals 390% damage to the target.",
             "The target gets -75% accuracy for 2 turns.  Chance to miss also applies to offensive Special Skills.",
@@ -13580,8 +13614,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1410,
-        "name": "白鼠 (Baishu)",
+        "originalIndex": 1413,
+        "name": "Baishu",
         "effects": [
             "Steals the latest status effect buff from all enemies and randomly distributes them on allies.",
             "If no buffs were succesfully stolen, deal 200% damage to all enemies.",
@@ -13590,8 +13624,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1411,
-        "name": "布拉吉 (Bragi)",
+        "originalIndex": 1414,
+        "name": "Bragi",
         "effects": [
             "Attacks the target with Frostfall Strike, dealing up to 2500 damage. Deals 40% more if the target is of the Fire element.  This Special Skill never misses its targets.",
             "Steals a random dispellable buff from the target to the caster.",
@@ -13599,8 +13633,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1412,
-        "name": "凯特琳 (Caitlin)",
+        "originalIndex": 1415,
+        "name": "Caitlin",
         "effects": [
             "Dispels buffs from all enemies.",
             "Deals 180% damage to all enemies",
@@ -13610,8 +13644,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1413,
-        "name": "凯特琳 (Caitlin) C1",
+        "originalIndex": 1416,
+        "name": "Caitlin C1",
         "effects": [
             "Dispels buffs from all enemies.",
             "Deals 170% damage to all enemies.",
@@ -13621,8 +13655,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1414,
-        "name": "塞利达纳 (Celidana)",
+        "originalIndex": 1417,
+        "name": "Celidana",
         "effects": [
             "Boosts health of the caster and nearby allies by 1100. Boosted health can exceed max HP.",
             "The caster and nearby allies get +50% defense as long as caster has boosted health. This effect can’t be dispelled.",
@@ -13631,8 +13665,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1415,
-        "name": "克里斯蒂娜·达埃 (Christine Daae)",
+        "originalIndex": 1418,
+        "name": "Christine Daae",
         "effects": [
             "Deals 355% damage to the target and nearby enemies.",
             "The target and nearby enemies dance to Ballad of Passion for 3 turns. All existing status effects will be removed when this effect is added.",
@@ -13644,32 +13678,32 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1416,
-        "name": "克利奥帕特拉 (Cleopatra)",
+        "originalIndex": 1419,
+        "name": "Cleopatra",
         "effects": [
             "Recovers 65% health for all allies.",
             "All allies are immune to new status ailments for 3 turns, and recover 205 health for each attempted status ailment."
         ]
     },
     {
-        "originalIndex": 1417,
-        "name": "克利奥帕特拉 (Cleopatra) C1",
+        "originalIndex": 1420,
+        "name": "Cleopatra C1",
         "effects": [
             "Recovers 60% health for all allies.",
             "All allies are immune to new status ailments for 3 turns, and recover 360 health for each attempted status ailment."
         ]
     },
     {
-        "originalIndex": 1418,
-        "name": "康斯坦丝 (Constance)",
+        "originalIndex": 1421,
+        "name": "Constance",
         "effects": [
             "Deals 230% damage to all enemies.",
             "All allies get +45% chance to dodge Special Skills for 3 turns. Each dodge damage the attacker for 100 damage."
         ]
     },
     {
-        "originalIndex": 1419,
-        "name": "达布莉亚 (Dabria)",
+        "originalIndex": 1422,
+        "name": "Dabria",
         "effects": [
             "Each fallen ally has a 40% chance to get revived with 20% HP.",
             "All allies regenerating 894 HP over 4 turns, starting low an increasing every turn.",
@@ -13677,8 +13711,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1420,
-        "name": "达利拉 (Delilah)",
+        "originalIndex": 1423,
+        "name": "Delilah",
         "effects": [
             "Recovers 40% health for all allies",
             "Summons a Guardian Minion for each ally with 20% HP and 20% attack inherited from the caster",
@@ -13686,8 +13720,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1421,
-        "name": "达利拉 (Delilah) C1",
+        "originalIndex": 1424,
+        "name": "Delilah C1",
         "effects": [
             "Recovers 37% health for all allies.",
             "Summons a Guardian Minion for each ally with 25% HP and 30% attack inherited from the caster.",
@@ -13695,8 +13729,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1422,
-        "name": "德瓦娜 (Devana)",
+        "originalIndex": 1425,
+        "name": "Devana",
         "effects": [
             "Deals 315% damage to the target and nearby enemies.",
             "Summons a Lynx Minion with 35% HP and 35% attack inherited from the caster.",
@@ -13706,8 +13740,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1423,
-        "name": "朱利主管 (Director Zuri)",
+        "originalIndex": 1426,
+        "name": "Director Zuri",
         "effects": [
             "Recovers 65% health for the ally with the lowest ramining HP. All other allies recover 42% health.",
             "Summons a Clown Minion for each ally with 15% HP and 22% attack inherited from the caster.",
@@ -13715,8 +13749,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1424,
-        "name": "朱利主管 (Director Zuri) C1",
+        "originalIndex": 1427,
+        "name": "Director Zuri C1",
         "effects": [
             "Recovers 65% health for the ally with the lowest remaining HP. All other allies recover 45% health.",
             "Summons a Clown Minion for each ally with 20% HP and 30% attack, inherited from the caster.",
@@ -13724,8 +13758,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1425,
-        "name": "德洛丽丝 (Dolores)",
+        "originalIndex": 1428,
+        "name": "Dolores",
         "effects": [
             "For the next 4 turns, this character deals 220% damage and inflicts 15 Insanity to a random target and nearby enemies each time any other ally casts their Special Skill.",
             "Stack (Max: 10): All allies get +20% attack",
@@ -13734,8 +13768,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1426,
-        "name": "德雷克方 (Drake Fong)",
+        "originalIndex": 1429,
+        "name": "Drake Fong",
         "effects": [
             "Deals 330% damage to the target and nearby enemies.",
             "The target and nearby enemies get -35% accuracy for 3 turns. Chance to miss also applies to offensive Special Skills.",
@@ -13743,8 +13777,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1427,
-        "name": "德雷克方 (Drake Fong) C1",
+        "originalIndex": 1430,
+        "name": "Drake Fong C1",
         "effects": [
             "Deals 300% damage to the target and nearby enemies.",
             "The target and nearby enemies get -50% accuracy for 3 turns. The effect duration is reset if the target is healed. Chance to miss also applies to offensive Special Skills.",
@@ -13752,8 +13786,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1428,
-        "name": "埃洛伊丝 (Eloise)",
+        "originalIndex": 1431,
+        "name": "Eloise",
         "effects": [
             "Destroys all Minions from all enemies.",
             "Deals 270% damage to all enemies.",
@@ -13761,8 +13795,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1429,
-        "name": "纹章拟态兽 (Emblem Mimic) Holy",
+        "originalIndex": 1432,
+        "name": "Emblem Mimic Holy",
         "effects": [
             "Deals 480% damage to the target.",
             "If an enemy is defeated by the attack, the caster recovers +50% health and gains +33% mana.",
@@ -13771,8 +13805,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1430,
-        "name": "依菲拉 (Ephyra)",
+        "originalIndex": 1433,
+        "name": "Ephyra",
         "effects": [
             "Special Skill need consecutive uses to reach full power, the following order:",
             "1st:",
@@ -13785,8 +13819,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1431,
-        "name": "依菲拉 (Ephyra) C1",
+        "originalIndex": 1434,
+        "name": "Ephyra C1",
         "effects": [
             "Special Skill need consecutive uses to reach full power, the following order:",
             "1st:",
@@ -13799,16 +13833,16 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1432,
-        "name": "二郎神 (Erlang Shen)",
+        "originalIndex": 1435,
+        "name": "Erlang Shen",
         "effects": [
             "Deals 500% damage to the target and minor damage to nearby enemies.",
             "The target and nearby enemies get -48% attack for 3 turns. If the effect is removed before the duration ends, the target with the effect suffers 514 damage."
         ]
     },
     {
-        "originalIndex": 1433,
-        "name": "艾塞特 (Eset)",
+        "originalIndex": 1436,
+        "name": "Eset",
         "effects": [
             "Deals 250% damage to the target. Deals extra damage is the target is Dark.",
             "Deals 180% damage to 5 random enemies. Deals extra damage if the target is Dark.",
@@ -13816,8 +13850,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1434,
-        "name": "艾塞特 (Eset) C1",
+        "originalIndex": 1437,
+        "name": "Eset C1",
         "effects": [
             "Deals 260% damage to the target. Deals extra damage if the target is Dark.",
             "Deals 250% damage to 5 random enemies. Deals extra damage if the target is Dark. (This effect targets the same enemy as the first hit if there are no other valid targets.)",
@@ -13825,8 +13859,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1435,
-        "name": "经验拟态兽 (Experience Mimic) Holy",
+        "originalIndex": 1438,
+        "name": "Experience Mimic Holy",
         "effects": [
             "Destroys all Minions from the target. This effect damages Mega Minions.",
             "Deals 530% damage to the target.",
@@ -13835,8 +13869,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1436,
-        "name": "法欧娜 (Faeona)",
+        "originalIndex": 1439,
+        "name": "Faeona",
         "effects": [
             "Recovers 45% health for all allies.",
             "All allies get +30% increase for any healing received for 5 turns.",
@@ -13845,16 +13879,16 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1437,
-        "name": "法里恩 (Faline)",
+        "originalIndex": 1440,
+        "name": "Faline",
         "effects": [
             "Deals 330% daamage to the target and nearby enemies.",
             "The hit enemy with the fastest base mana speed gets -64% mana generation for 3 turns."
         ]
     },
     {
-        "originalIndex": 1438,
-        "name": "弗兰克·“獠牙”·布林威尔 (Frank 'Fangs' Brimwell)",
+        "originalIndex": 1441,
+        "name": "Frank 'Fangs' Brimwell",
         "effects": [
             "Deals 350% damage to the target and nearby enemies.",
             "If any ally has a Mega Minion before this Special Skill is cast, deals 365% damage to all enemies instead.",
@@ -13863,8 +13897,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1439,
-        "name": "费迪南 (Furdinand)",
+        "originalIndex": 1442,
+        "name": "Furdinand",
         "effects": [
             "Cleanses status ailments from all allies.",
             "All allies get +63% defense for 4 turns.",
@@ -13874,8 +13908,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1440,
-        "name": "弗吉安特 (Furgeant)",
+        "originalIndex": 1443,
+        "name": "Furgeant",
         "effects": [
             "The caster gets Taunt that prevents enemies from using Special Skills on the caster’s allies for 4 turns.",
             "The caster has a 50% chance to drop any received damage to 1 for 4 turns.",
@@ -13884,8 +13918,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1441,
-        "name": "甘德尔 (Gandr)",
+        "originalIndex": 1444,
+        "name": "Gandr",
         "effects": [
             "Attacks all enemies with Firestorm Strike, dealing up to 2200 damage. Deals 40% more if the target is of the Nature element. This Special Skill never misses its targets.",
             "Heals all allies for 30% of damage dealt.",
@@ -13893,8 +13927,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1442,
-        "name": "基迪恩 (Gideon)",
+        "originalIndex": 1445,
+        "name": "Gideon",
         "effects": [
             "Safely cleanses status ailments from all allies. (Safe cleanse bypasses secondary effects, such as damage on removal, from removed status ailment. External effects such as passive skills and family effects can still activate.",
             "Enhanced Dodge: All allies get +100% chance to dodge Special Skill that deal damage. This effect lasts until the ally succesfully dodges once.",
@@ -13902,8 +13936,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1443,
-        "name": "吉利根 (Gilligan)",
+        "originalIndex": 1446,
+        "name": "Gilligan",
         "effects": [
             "Deals 380% damage to the target and nearby enemies.",
             "The attack has a 80% chance to bypass defensive buffs. This includes counterattacks.",
@@ -13912,8 +13946,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1444,
-        "name": "金滴 (Goldrip)",
+        "originalIndex": 1447,
+        "name": "Goldrip",
         "effects": [
             "Inflicts the target with Greed for 4 turns. Friendly effects from Special Skills only affect characters with Greed. (Greed prevents all other heroes in the same team from gaining friendly effects. This includes all buffs, healing and growth effects.)",
             "All enemies receive 988 Bleed damage over 4 turns.",
@@ -13921,8 +13955,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1445,
-        "name": "公牛 (Gongniu)",
+        "originalIndex": 1448,
+        "name": "Gongniu",
         "effects": [
             "All allies get +54% defense, and a further +5% increase every time they are hit during 3 turns.",
             "All allies recover 1000 health after 3 turns. If the effect is removed or replaced before the duration ends, recovers 1400 health instead.",
@@ -13930,8 +13964,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1446,
-        "name": "古里克 (Gooric)",
+        "originalIndex": 1449,
+        "name": "Gooric",
         "effects": [
             "All allies get +60% attack for 5 turns.",
             "All allies get +44% mana generation for 5 turns.",
@@ -13944,8 +13978,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1447,
-        "name": "葛莉卡 (Grilka)",
+        "originalIndex": 1450,
+        "name": "Grilka",
         "effects": [
             "If there’s 8 or more Holy shields on the board, then all effects cast in this Special Skill are undispellable.",
             "The caster get Taunt that prevents enemies from using Special Skils on the caster’s allies for 5 turns.",
@@ -13954,8 +13988,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1448,
-        "name": "巨象守护者 (Guardian Elephant)",
+        "originalIndex": 1451,
+        "name": "Guardian Elephant",
         "effects": [
             "Deals 160% damage to 9 random enemies.",
             "Stack (Max: 10): Each hit gives its target -9% attack.",
@@ -13965,8 +13999,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1449,
-        "name": "瞪羚守护者 (Guardian Gazelle)",
+        "originalIndex": 1452,
+        "name": "Guardian Gazelle",
         "effects": [
             "Removes all cleansable and uncleansable status effects from all allies except the caster. Removes even status effects that are otherwise undispellable or uncleansable.",
             "The caster regenerates 612 HP over 4 turns.",
@@ -13978,8 +14012,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1450,
-        "name": "瞪羚守护者 (Guardian Gazelle) C1",
+        "originalIndex": 1453,
+        "name": "Guardian Gazelle C1",
         "effects": [
             "Removes all status effects from all allies except the caster. Removes even status effects that are otherwise undispellable or uncleansable.",
             "Recovers 48% health for all allies.",
@@ -13991,8 +14025,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1451,
-        "name": "猫头鹰守护者 (Guardian Owl)",
+        "originalIndex": 1454,
+        "name": "Guardian Owl",
         "effects": [
             "Deals 300% damage to all enemies.",
             "Damage is increased by 60% per each dead ally (max damage 540%).",
@@ -14001,8 +14035,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1452,
-        "name": "吉耶梅特 (Guillemette)",
+        "originalIndex": 1455,
+        "name": "Guillemette",
         "effects": [
             "Deals 270% damage to all enemies.",
             "All allies are immune to new negative mana effects for 4 turns.",
@@ -14010,8 +14044,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1453,
-        "name": "桂妮维亚 (Guinevere)",
+        "originalIndex": 1456,
+        "name": "Guinevere",
         "effects": [
             "Reduces the mana of all enemies by 20%.",
             "The caster and nearby allies regenerate 612 HP over 4 turns.",
@@ -14019,8 +14053,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1454,
-        "name": "桂妮维亚 (Guinevere) C1",
+        "originalIndex": 1457,
+        "name": "Guinevere C1",
         "effects": [
             "Reduces the mana of the target and nearby enemies by 25%.",
             "Recovers 40% health for all allies.",
@@ -14028,8 +14062,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1455,
-        "name": "格温多林 (Gwendoline)",
+        "originalIndex": 1458,
+        "name": "Gwendoline",
         "effects": [
             "Cleanses status ailments from the caster and nearby allies.",
             "Recovers 70% health for the caster and nearby allies.",
@@ -14042,8 +14076,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1456,
-        "name": "关恩 (Gwynn)",
+        "originalIndex": 1459,
+        "name": "Gwynn",
         "effects": [
             "Deals 350% damage to all enemies.",
             "Damage bypasses target’s Minions.",
@@ -14052,8 +14086,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1457,
-        "name": "忠犬八公 (Hachiko)",
+        "originalIndex": 1460,
+        "name": "Hachiko",
         "effects": [
             "Deals 270% damage to all enemies.",
             "All allies counterattack with 80% of the damage received for 4 turns. The counterattack damage increases by +15% each turn, up to 125%.",
@@ -14061,8 +14095,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1458,
-        "name": "哈尔西翁 (Halcyon)",
+        "originalIndex": 1461,
+        "name": "Halcyon",
         "effects": [
             "Destroys all Minions from the target. This effect damage Mega Minions. (This effect applies to Mega Minions as well but instead of destroying, damage equal to 50% of the Mega Minion’s max health is dealt to the Mega Minion.)",
             "Deals 325% damage to hit targets.",
@@ -14071,8 +14105,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1459,
-        "name": "哈妮特拉 (Hanitra)",
+        "originalIndex": 1462,
+        "name": "Hanitra",
         "effects": [
             "All allies get +45% chance to dodge Special SKills for 3 turns. Each dodge boosts max health by 425. Boosted health cand exceed max HP.",
             "All allies resist max health reduction for 3 turns.",
@@ -14080,8 +14114,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1460,
-        "name": "哈乌里 (Haumri)",
+        "originalIndex": 1463,
+        "name": "Haumri",
         "effects": [
             "Deals 600% damage to the target.",
             "If the target has buffs and is hit, targets another enemy with buffs. If none of the other enemies have buffs, targets a random enemy. The damage is reduced on each consecutive hit. Each enemy can only be hit once.",
@@ -14090,8 +14124,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1461,
-        "name": "希尔达 (Hilda)",
+        "originalIndex": 1464,
+        "name": "Hilda",
         "effects": [
             "Deals 435% damage to the target and nearby enemies.",
             "The target and nearby enemies receive 708 Bleed damage over 4 turns. All allies steal 50% of dealt Bleed damage as boosted health.",
@@ -14099,24 +14133,24 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1462,
-        "name": "荷鲁斯 (Horus)",
+        "originalIndex": 1465,
+        "name": "Horus",
         "effects": [
             "Deals 250% damage to target and nearby enemies.",
             "Reduces max health of the target and nearby enemies by 450 over 3 turns. The effect is stronger against targets with boosted health. Max health can’t get lower than 30% of the original health. Any boosted health is reduced by an additional 150 per turn."
         ]
     },
     {
-        "originalIndex": 1463,
-        "name": "荷鲁斯 (Horus) C1",
+        "originalIndex": 1466,
+        "name": "Horus C1",
         "effects": [
             "Deals 230% damage to the target and nearby enemies.",
             "Reduces max health of the target and nearby enemies by 600 over 3 turns. The effect is stronger against targets with boosted health. Max health can’t get lower than 30% of the original health. Any boosted health is reduced by an additional 200 per turn."
         ]
     },
     {
-        "originalIndex": 1464,
-        "name": "伊贺 (Iga)",
+        "originalIndex": 1467,
+        "name": "Iga",
         "effects": [
             "1x Mana Charge",
             "* Summons a Kunai Fiend for the target. The Fiend damages the enemy with 150% attack every turn.",
@@ -14133,8 +14167,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1465,
-        "name": "稻荷 (Inari)",
+        "originalIndex": 1468,
+        "name": "Inari",
         "effects": [
             "Deals 180% damage to all enemies.",
             "All allies get +56% chance to dodge Special Skills for 3 turns. Each dodge summons a Sakura Fox minion",
@@ -14142,8 +14176,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1466,
-        "name": "稻荷 (Inari) C1",
+        "originalIndex": 1469,
+        "name": "Inari C1",
         "effects": [
             "Deals 210% damage to all enemies.",
             "Summons a Sakura Fox Minion for the caster and nearby allies. Sakura Fox Minion has 12% HP and 30% attack inherited from the caster. The minion adds 7% mana to its owner at the end of each turn.",
@@ -14151,8 +14185,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1467,
-        "name": "钢铁之心 (Iron-Heart)",
+        "originalIndex": 1470,
+        "name": "Iron-Heart",
         "effects": [
             "Deals 520% damage to the target.",
             "Deals 520% damage to a random different enemy.",
@@ -14161,8 +14195,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1468,
-        "name": "铁锚 (Ironmaw)",
+        "originalIndex": 1471,
+        "name": "Ironmaw",
         "effects": [
             "Deals 500% damage to the target and all Dark enemies.",
             "All enemies get -39% mana generation for 4 turns. Against Dark characters, this status effect becomes uncleansable and lasts 2 turns longer.",
@@ -14170,8 +14204,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1469,
-        "name": "伊塔尔 (Ithar)",
+        "originalIndex": 1472,
+        "name": "Ithar",
         "effects": [
             "Steals all dispellable buffs from the target and randomly distributes them on allies.",
             "Steals 35% mana from the target and distributes it to allies.",
@@ -14180,8 +14214,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1470,
-        "name": "嘉娜 (Jana)",
+        "originalIndex": 1473,
+        "name": "Jana",
         "effects": [
             "Deals 470% damage to the target.",
             "The target gets -44% defense for 4 turns.",
@@ -14190,8 +14224,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1471,
-        "name": "贾斯珀 (Jasper)",
+        "originalIndex": 1474,
+        "name": "Jasper",
         "effects": [
             "All allies regenerate 1428 HP over 6 turns.",
             "All allies get +50% attack for 6 turns.",
@@ -14200,8 +14234,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1472,
-        "name": "贾斯珀 (Jasper) C1",
+        "originalIndex": 1475,
+        "name": "Jasper C1",
         "effects": [
             "All allies regenerate 1450 HP over 5 turns.",
             "All allies get +60% attack for 5 turns.",
@@ -14210,8 +14244,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1473,
-        "name": "亚坤 (Jequn)",
+        "originalIndex": 1476,
+        "name": "Jequn",
         "effects": [
             "Deals 200% damage to all enemies.",
             "All Dark enemies get -34% accuracy for 3 turns. (Chance to miss also applies to offensive Special Skills.)",
@@ -14221,8 +14255,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1474,
-        "name": "亚坤 (Jequn) C1",
+        "originalIndex": 1477,
+        "name": "Jequn C1",
         "effects": [
             "Deals 210% damage to all enemies.",
             "All Dark enemies get -39% accuracy for 3 turns. (Chance to miss also applies to offensive Special Skills.)",
@@ -14232,24 +14266,24 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1475,
-        "name": "尤恩 (Joon)",
+        "originalIndex": 1478,
+        "name": "Joon",
         "effects": [
             "Deals 468% damage to the target.",
             "The target gets -40% accuracy for 6 turns. Chance to miss also applies to offensive special skills."
         ]
     },
     {
-        "originalIndex": 1476,
-        "name": "尤恩 (Joon) C1",
+        "originalIndex": 1479,
+        "name": "Joon C1",
         "effects": [
             "Deals 488% damage to the target.",
             "The target gets -35% accuracy for 4 turns. Chance to miss also applies to offensive special skills."
         ]
     },
     {
-        "originalIndex": 1477,
-        "name": "尤恩 (Joon) C2",
+        "originalIndex": 1480,
+        "name": "Joon C2",
         "effects": [
             "Deals 260% damage to target and nearby enemies.",
             "The target and nearby enemies receive 195 Burn damage over 3 turns.",
@@ -14257,8 +14291,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1478,
-        "name": "尤恩 (Joon) 卡通",
+        "originalIndex": 1481,
+        "name": "Joon Toon",
         "effects": [
             "Deals 548% damage to the target.",
             "The target gets -35% accuracy for 6 turns.",
@@ -14266,8 +14300,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1479,
-        "name": "尤恩 (Joon) 玻璃",
+        "originalIndex": 1482,
+        "name": "Joon Glass",
         "effects": [
             "Deals 558% damage to the target.",
             "The attack bypasses defensive buffs. (This includes counterattacks.)",
@@ -14275,8 +14309,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1480,
-        "name": "朱庇特 (Jove)",
+        "originalIndex": 1483,
+        "name": "Jove",
         "effects": [
             "Deals 490% damage to the target, and minor damage to all other enemies.",
             "All enemies get -65% decrease for any healing received for 3 turns.",
@@ -14284,16 +14318,16 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1481,
-        "name": "贾斯提斯 (Justice)",
+        "originalIndex": 1484,
+        "name": "Justice",
         "effects": [
             "Deals 285% damage to all enemies.",
             "All enemies get -40% accuracy for 4 turns. Chance to miss also applies to offensive Special Skills."
         ]
     },
     {
-        "originalIndex": 1482,
-        "name": "贾斯提斯 (Justice) C1",
+        "originalIndex": 1485,
+        "name": "Justice C1",
         "effects": [
             "Deals 250% damage to all enemies.",
             "The damage is increased by 50% per each dead ally.",
@@ -14301,8 +14335,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1483,
-        "name": "贾斯提斯 (Justice) C2",
+        "originalIndex": 1486,
+        "name": "Justice C2",
         "effects": [
             "Deals 300% damage to all enemies.",
             "The damage is increased by 45% per each dead enemy.",
@@ -14310,8 +14344,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1484,
-        "name": "贾斯提斯 (Justice) 卡通",
+        "originalIndex": 1487,
+        "name": "Justice Toon",
         "effects": [
             "Deals 435% damage to all enemies.",
             "All enemies get -30% accuracy for 4 turns. (Chance to miss also applies to offensive Special Skills.)",
@@ -14319,8 +14353,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1485,
-        "name": "贾斯提斯 (Justice) 玻璃",
+        "originalIndex": 1488,
+        "name": "Justice Glass",
         "effects": [
             "Deals 445% damage to all enemies.",
             "The attack bypasses defensive buffs. (This includes counterattacks.)",
@@ -14328,8 +14362,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1486,
-        "name": "卡拉 (Kara)",
+        "originalIndex": 1489,
+        "name": "Kara",
         "effects": [
             "The caster gets Taunt that prevents enemies from using Special Skills on the caster's allies for 4 turns.",
             "The caster gets +74% defense against special skills for 4 turns.",
@@ -14338,8 +14372,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1487,
-        "name": "古勒沃 (Kullervo)",
+        "originalIndex": 1490,
+        "name": "Kullervo",
         "effects": [
             "Deal 300% damage to the target.",
             "Deals 470% damage to a random different enemy.",
@@ -14347,8 +14381,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1488,
-        "name": "古勒沃 (Kullervo) C1",
+        "originalIndex": 1491,
+        "name": "Kullervo C1",
         "effects": [
             "Deals 450% damage to the target.",
             "Deals 320% damage to a random different enemy.",
@@ -14356,8 +14390,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1489,
-        "name": "公相君 (Kushanku)",
+        "originalIndex": 1492,
+        "name": "Kushanku",
         "effects": [
             "Special Skill has a different effect when charged with 100%/200%/300% mana",
             "1x Mana Charge",
@@ -14381,8 +14415,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1490,
-        "name": "拉布拉布 (Labblub)",
+        "originalIndex": 1493,
+        "name": "Labblub",
         "effects": [
             "Destroys all Minions from all enemies and damages Mega Minions.",
             "Deals 350% damage to all enemies.",
@@ -14391,8 +14425,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1491,
-        "name": "兰度 (Lando)",
+        "originalIndex": 1494,
+        "name": "Lando",
         "effects": [
             "Safely cleanses status ailments for all allies.",
             "Deals 450% damage to all enemies.",
@@ -14400,16 +14434,16 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1492,
-        "name": "老虎 (Laohu)",
+        "originalIndex": 1495,
+        "name": "Laohu",
         "effects": [
             "Deals 605% damage to the target.",
             "Boosts the caster’s health by 50% of damage dealt."
         ]
     },
     {
-        "originalIndex": 1493,
-        "name": "拉扎拉 (Lazara)",
+        "originalIndex": 1496,
+        "name": "Lazara",
         "effects": [
             "Cleanses status ailments from all allies without triggering secondary effects.",
             "Deals 325% damage to all enemies.",
@@ -14418,8 +14452,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1494,
-        "name": "莱蒙伍德 (Lemonwood)",
+        "originalIndex": 1497,
+        "name": "Lemonwood",
         "effects": [
             "This Special Skill never misses its targets.",
             "Deals 380% damage to the target.",
@@ -14428,8 +14462,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1495,
-        "name": "莱昂尼达斯 (Leonidas)",
+        "originalIndex": 1498,
+        "name": "Leonidas",
         "effects": [
             "Deals 415% damage to the target.",
             "Reduces the mana of the target by 40%.",
@@ -14437,8 +14471,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1496,
-        "name": "莱昂尼达斯 (Leonidas) C1",
+        "originalIndex": 1499,
+        "name": "Leonidas C1",
         "effects": [
             "Deals 390% damage to the target and minor damage to nearby enemies",
             "The target and nearby enemies get -54% defense against Holy for 4 turns.",
@@ -14446,8 +14480,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1497,
-        "name": "莱昂尼达斯 (Leonidas) C2",
+        "originalIndex": 1500,
+        "name": "Leonidas C2",
         "effects": [
             "Deals 240% damage to all enemies.",
             "Reduces the mana of all enemies by 10%.",
@@ -14455,8 +14489,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1498,
-        "name": "莱昂尼达斯 (Leonidas) 卡通",
+        "originalIndex": 1501,
+        "name": "Leonidas Toon",
         "effects": [
             "Deals 565% damage to the target.",
             "Reduces the mana of the target by 35%.",
@@ -14465,8 +14499,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1499,
-        "name": "莱昂尼达斯 (Leonidas) 玻璃",
+        "originalIndex": 1502,
+        "name": "Leonidas Glass",
         "effects": [
             "Deals 575% damage to the target.",
             "The attack bypasses defensive buffs. (This includes counterattacks.)",
@@ -14475,8 +14509,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1500,
-        "name": "利维娅 (Livia)",
+        "originalIndex": 1503,
+        "name": "Livia",
         "effects": [
             "Lifts all cleansable status ailments from the caster and nearby allies and randomly distributes them on enemies.",
             "The caster and nearby allies get Moonrise Ward for 4 turns, that reduces incoming Special Skill damage by -1320. Reduces damage by additional 30% when attack is Holy.",
@@ -14485,8 +14519,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1501,
-        "name": "莉亚 (Lyria)",
+        "originalIndex": 1504,
+        "name": "Lyria",
         "effects": [
             "Deals 475% damage to the target.",
             "The attack bypasses defensive bufs. (This includes counterattacks.)",
@@ -14495,8 +14529,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1502,
-        "name": "玛琳 (Malin)",
+        "originalIndex": 1505,
+        "name": "Malin",
         "effects": [
             "Deals 325% damage to all enemies.",
             "All enemies receive 364 Bleed damage over 4 turns. Against Dark characters, this status effect becomes uncleansable and lasts 2 turns longer.",
@@ -14506,8 +14540,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1503,
-        "name": "马洛斯 (Malosi)",
+        "originalIndex": 1506,
+        "name": "Malosi",
         "effects": [
             "Deals 400% damage to the target.",
             "The target cannot cast any new status effects on enemies or allies for 3 turns. This includes stacks. This only includes status effects cast with Special Skill.",
@@ -14515,8 +14549,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1504,
-        "name": "玛蒂尔达 (Matilda)",
+        "originalIndex": 1507,
+        "name": "Matilda",
         "effects": [
             "All enemies receive 330 Poison damage over 3 turns.",
             "Summons a Muffin Fiend for all enemies. The Fiend damages the enemy with 38% attack every turn.",
@@ -14527,8 +14561,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1505,
-        "name": "梅 (May)",
+        "originalIndex": 1508,
+        "name": "May",
         "effects": [
             "Growth: All allies get 150 attack and 150 defense.",
             "Summon a Carrot Minion for each ally with 25% HP inherited from the caster.",
@@ -14537,8 +14571,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1506,
-        "name": "梅格·吉瑞 (Meg Giry)",
+        "originalIndex": 1509,
+        "name": "Meg Giry",
         "effects": [
             "Recovers 60% health for all allies.",
             "Cleanses the latest status ailments from all allies and gives to a random target in the enemy team.",
@@ -14547,16 +14581,16 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1507,
-        "name": "仙乐缪斯 (Melodymuse)",
+        "originalIndex": 1510,
+        "name": "Melodymuse",
         "effects": [
             "Boosts health of all allies by 710. Boosted health can exceed max HP.",
             "All allies are immune to new status ailments for 4 turns."
         ]
     },
     {
-        "originalIndex": 1508,
-        "name": "美勒桑克 (Meresankh)",
+        "originalIndex": 1511,
+        "name": "Meresankh",
         "effects": [
             "Deals 130% damage to all enemies.",
             "The more mana the enemies have,the more damage they will receive,up to 250%",
@@ -14565,8 +14599,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1509,
-        "name": "美勒桑克 (Meresankh) C1",
+        "originalIndex": 1512,
+        "name": "Meresankh C1",
         "effects": [
             "Deals 180% damage to all enemies.",
             "The more mana the enemies have, the more damage they will receive, up to 300%.",
@@ -14575,8 +14609,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1510,
-        "name": "云母 (Mica)",
+        "originalIndex": 1513,
+        "name": "Mica",
         "effects": [
             "1x Mana Charge",
             "* All allies become Soul Connected for 2 turns. Soul Connected allies share received damage.",
@@ -14593,8 +14627,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1511,
-        "name": "月之钟 (Moonbell)",
+        "originalIndex": 1514,
+        "name": "Moonbell",
         "effects": [
             "Summons an Astral Sphere Minion for each ally with 35% HP and 39% attack inherited from the caster.",
             "When summoned, the Astral Sphere Minion gives +33% mana generation for its owner for as long as the owner has Astral Sphere Minions. This effect can’t be dispelled. (Affects only mana generated from matching tiles or mana gained by the defense team at the end of their turn.)",
@@ -14603,8 +14637,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1512,
-        "name": "莫泰加 (Motega)",
+        "originalIndex": 1515,
+        "name": "Motega",
         "effects": [
             "Special Skill has a different effect when charged with 100%/200% mana:",
             "1x Mana Charge:",
@@ -14618,8 +14652,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1513,
-        "name": "勒明盖宁之母 (Mother Lemminkainen)",
+        "originalIndex": 1516,
+        "name": "Mother Lemminkainen",
         "effects": [
             "Each defeated ally has a 60% chance to get revived with 20% HP.",
             "All allies regenerate 1080 boosted health over 4 turn. Boosted health can exceed max HP.",
@@ -14627,8 +14661,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1514,
-        "name": "莫索尼尔 (Motsognir)",
+        "originalIndex": 1517,
+        "name": "Motsognir",
         "effects": [
             "All allies get a Frostfall Ward for 4 turns, that reduces incoming Special Skill damage up to -1400. Reduces damage by additional 30% when the attacker is of Fire element.",
             "All allies bypass defensive buffs with their attacks for 4 turns. (Defensive buffs include counterattacks.)",
@@ -14637,8 +14671,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1515,
-        "name": "武藏 (Musashi)",
+        "originalIndex": 1518,
+        "name": "Musashi",
         "effects": [
             "Deals 362% damage to the target and minor damage to nearby enemies",
             "The caster heals 50% of dealt normal damage for 5 turns.",
@@ -14646,8 +14680,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1516,
-        "name": "武藏 (Musashi) C1",
+        "originalIndex": 1519,
+        "name": "Musashi C1",
         "effects": [
             "Deals 350% damage to the target and minor damage to nearby enemies.",
             "The caster heals 75% of dealt normal damage for 5 turns.",
@@ -14655,8 +14689,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1517,
-        "name": "奈斯 (Neith)",
+        "originalIndex": 1520,
+        "name": "Neith",
         "effects": [
             "Deals 200% damage to all enemies",
             "Reduces the mana of all enemies by 20%.",
@@ -14665,8 +14699,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1518,
-        "name": "涅墨西斯 (Nemesis)",
+        "originalIndex": 1521,
+        "name": "Nemesis",
         "effects": [
             "Special Skill has a different effect when charged with 100% / 200% / 300% mana:",
             "1x Mana Charge:",
@@ -14682,8 +14716,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1519,
-        "name": "恶怨妖灵 (Nithgaest)",
+        "originalIndex": 1522,
+        "name": "Nithgaest",
         "effects": [
             "Deals 335% damage to the target and nearby enemies.",
             "The caster and nearby allies counterattack with 150% of the damage received for 4 turns.",
@@ -14691,24 +14725,24 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1520,
-        "name": "诺伦三女神 (Norns)",
+        "originalIndex": 1523,
+        "name": "Norns",
         "effects": [
             "Deals 280% damage to the target and nearby enemies.",
             "The target and nearby enemies become weak against the element they are strong against for 5 turns. They stay weak against the element they are normally weak against."
         ]
     },
     {
-        "originalIndex": 1521,
-        "name": "诺伦三女神 (Norns) C1",
+        "originalIndex": 1524,
+        "name": "Norns C1",
         "effects": [
             "Deals 300% damage to the target and nearby enemies.",
             "The target and nearby enemies become weak against the element they are strong against for 6 turns. They stay weak against the element they are normally weak against."
         ]
     },
     {
-        "originalIndex": 1522,
-        "name": "奥丁 (Odin)",
+        "originalIndex": 1525,
+        "name": "Odin",
         "effects": [
             "Deals 100% damage to all enemies.",
             "Deals additional 18% damage per each Holy shield on the board, up to 244% damage in total",
@@ -14716,8 +14750,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1523,
-        "name": "奥丁 (Odin) C1",
+        "originalIndex": 1526,
+        "name": "Odin C1",
         "effects": [
             "Deals 90% damage to all enemies.",
             "Deals additional 25% damage per each Holy shield on the board, up to 290% damage in total",
@@ -14725,8 +14759,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1524,
-        "name": "欧吉马 (Ogima)",
+        "originalIndex": 1527,
+        "name": "Ogima",
         "effects": [
             "Destroys all Minions for all enemies and damages all Mega Minions.",
             "Deals 275% damage to all enemies.",
@@ -14735,8 +14769,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1525,
-        "name": "奥纳特而 (Onatel)",
+        "originalIndex": 1528,
+        "name": "Onatel",
         "effects": [
             "Deals 330% damage to the target and nearby enemies",
             "The caster steals generated mana of the target and the nearby enemies over 4 turns starting low and increasing every turn until on the last turn all the generated mana is stolen. This effect can't be cleansed, but gets removed if the caster dies.",
@@ -14744,16 +14778,16 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1526,
-        "name": "帕普罗斯 (Papyros)",
+        "originalIndex": 1529,
+        "name": "Papyros",
         "effects": [
             "Sand Golem Minion has 14% HP and 18% attack inherited from the caster. Each time the Sand Golem Minion is attacked by normal attacks or Special Skills, the attacker receives 294 Sand damage over 3 turns.",
             "All allies get +30% defense for 3 turns."
         ]
     },
     {
-        "originalIndex": 1527,
-        "name": "帕普罗斯 (Papyros) C1",
+        "originalIndex": 1530,
+        "name": "Papyros C1",
         "effects": [
             "Summons a Sand Golem Minion for each ally with 20% HP and 25% attack inherited from the caster.",
             "Each time the Sand Golem Minion is attacked by normal attacks or Special Skills, the attacker receives 411 Sand damage over 3 turns.",
@@ -14761,8 +14795,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1528,
-        "name": "佩诺利特 (Penolite)",
+        "originalIndex": 1531,
+        "name": "Penolite",
         "effects": [
             "Deals 245% damage to all enemies.",
             "Deals 490% damage against Minion and Fiend Summoners.",
@@ -14770,8 +14804,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1529,
-        "name": "波莎 (Persa)",
+        "originalIndex": 1532,
+        "name": "Persa",
         "effects": [
             "Special Skill need consecutive uses to reach full power, the following order:",
             "1st:",
@@ -14785,8 +14819,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1530,
-        "name": "波莎 (Persa) C1",
+        "originalIndex": 1533,
+        "name": "Persa C1",
         "effects": [
             "Special Skill need consecutive uses to reach full power, the following order:",
             "1st:",
@@ -14800,8 +14834,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1531,
-        "name": "佩蒂纳克斯 (Pertinax)",
+        "originalIndex": 1534,
+        "name": "Pertinax",
         "effects": [
             "Attacks the target and nearby enemies with Moonrise Strike, dealing up to 1620 damage. Deals 40% more damage if the target of the Holy element. This Special Skill Never misses its targets",
             "Summon Owlkyrie Minion for the caster and nearby allies. The minion inherits 25% HP and 45% attack from the caster.",
@@ -14811,8 +14845,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1532,
-        "name": "菲洛梅娜 (Philomena)",
+        "originalIndex": 1535,
+        "name": "Philomena",
         "effects": [
             "Deals 500% damage to the target and minor damage to nearby enemies.",
             "Enhanced Defense Ailment: The target and nearby enemies get -50% defense against Special Skills. This effect lasts until the enemy takes damage from a Special Skill once.",
@@ -14820,8 +14854,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1533,
-        "name": "波塞冬 (Poseidon)",
+        "originalIndex": 1536,
+        "name": "Poseidon",
         "effects": [
             "Deals 450% damage to the target.",
             "All allies resist new negative mana effects for 3 turns.",
@@ -14829,16 +14863,16 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1534,
-        "name": "波塞冬 (Poseidon) C1",
+        "originalIndex": 1537,
+        "name": "Poseidon C1",
         "effects": [
             "Deals 480% damage to the target.",
             "All allies are immune to new status ailments for 3 turns."
         ]
     },
     {
-        "originalIndex": 1535,
-        "name": "黎登布洛克教授 (Prof. Lidenbrock)",
+        "originalIndex": 1538,
+        "name": "Prof. Lidenbrock",
         "effects": [
             "Cleanses status ailments from all allies.",
             "Boosts health of all allies by 200. Boosted health can exceed max HP.",
@@ -14846,8 +14880,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1536,
-        "name": "黎登布洛克教授 (Prof. Lidenbrock) C1",
+        "originalIndex": 1539,
+        "name": "Prof. Lidenbrock C1",
         "effects": [
             "Cleanses status ailments from all allies.",
             "Boosts health of all allies by 500. Boosted health can exceed max HP.",
@@ -14855,8 +14889,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1537,
-        "name": "郭王后 (Queen Guowang)",
+        "originalIndex": 1540,
+        "name": "Queen Guowang",
         "effects": [
             "Deals 330% damage to all enemies.",
             "All allies get +10% mana every time an enemy uses their Special Skill during 4 turns. Mana is received at the end of a Special Skill. Mana will not be received if this status effect is removed during a Special Skill",
@@ -14864,8 +14898,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1538,
-        "name": "拉娜 (Rana)",
+        "originalIndex": 1541,
+        "name": "Rana",
         "effects": [
             "Deals 185% damage to the target and nearby enemies.",
             "The target and nearby enemies receive 423 damage over 3 turns.",
@@ -14874,8 +14908,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1539,
-        "name": "拉娜 (Rana) C1",
+        "originalIndex": 1542,
+        "name": "Rana C1",
         "effects": [
             "Deals 185% damage to the target and nearby enemies.",
             "The target and nearby enemies receive 692 Water damage over 4 turns",
@@ -14884,8 +14918,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1540,
-        "name": "兰威尔 (Ranvir)",
+        "originalIndex": 1543,
+        "name": "Ranvir",
         "effects": [
             "Deals 265% damage to the target.",
             "All allies get +195% attack and -35% accuracy that only applies when the enemy has more health than the attacker. The effect lasts for 5 turns.",
@@ -14893,16 +14927,16 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1541,
-        "name": "鼠蛆 (Ratgrub)",
+        "originalIndex": 1544,
+        "name": "Ratgrub",
         "effects": [
             "Summons a Rat Princess Mega Minion with 40% HP and 160% attack inherited from the caster.",
             "When summoned, the Rat Princess Mega Minion gives its owner the ability to deal 250% damage to all enemies each time any other ally casts their Special Skill. (Each character can trigger this effect once per turn.)"
         ]
     },
     {
-        "originalIndex": 1542,
-        "name": "里斯 (Rhys)",
+        "originalIndex": 1545,
+        "name": "Rhys",
         "effects": [
             "Boost health of all allies by 320. Boosted health can exceed max HP.",
             "Alters the power of all Holy shields on the board. When an attacking Hero casts the special, the shields become enhanced and give +37% more mana. When a defending Hero casts the special, the shields become weakened and give -30% less mana.",
@@ -14911,8 +14945,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1543,
-        "name": "罗克 (Roc)",
+        "originalIndex": 1546,
+        "name": "Roc",
         "effects": [
             "All enemies receive 324 Sand damage over 3 turns.",
             "All enemies get -50% decrease for any healing received for 2 turns. This effect can't be cleansed.",
@@ -14920,8 +14954,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1544,
-        "name": "罗克 (Roc) C1",
+        "originalIndex": 1547,
+        "name": "Roc C1",
         "effects": [
             "All enemies receive 780 Sand damage over 4 turns.",
             "All enemies get -44% defense for 3 turns.",
@@ -14929,8 +14963,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1545,
-        "name": "罗莎琳德 (Rosalind)",
+        "originalIndex": 1548,
+        "name": "Rosalind",
         "effects": [
             "Recovers 30% health for all allies.",
             "Stack (Max 10): All damage all allies receive is reduced by -5%.",
@@ -14939,8 +14973,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1546,
-        "name": "阮小七 (Ruan Xiaoqi)",
+        "originalIndex": 1549,
+        "name": "Ruan Xiaoqi",
         "effects": [
             "This Special Skill has a chance to deal Critical hits. (The chance of dealing a Critical hit is based on Hero’s overall critical chance when the damage is dealt. Critical hits caused by this Special Skill deal 50% more damage. Critical hits can reduces enemies’ max health on PVP battles. This effect is stronger against boosted health.)",
             "Dispels 2 buffs from all enemies. (The latest buffs are dispelled first.)",
@@ -14949,8 +14983,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1547,
-        "name": "萨尔尼斯 (Salniss)",
+        "originalIndex": 1550,
+        "name": "Salniss",
         "effects": [
             "Deals 500% damage to the target.",
             "The target gets silenced for 3 turns.",
@@ -14959,8 +14993,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1548,
-        "name": "萨丁皮门特 (Satinpimenter)",
+        "originalIndex": 1551,
+        "name": "Satinpimenter",
         "effects": [
             "Dispels buffs from the target and nearby enemies.",
             "Deals 420% damage to the target and nearby enemies.",
@@ -14969,8 +15003,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1549,
-        "name": "滚兽 (Scrollbeast)",
+        "originalIndex": 1552,
+        "name": "Scrollbeast",
         "effects": [
             "Deals 365% damage to all enemies.",
             "Wither: All enemies get -400 attack.",
@@ -14979,8 +15013,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1550,
-        "name": "沙埃尔 (Shaal)",
+        "originalIndex": 1553,
+        "name": "Shaal",
         "effects": [
             "Deals 340% damage to all enemies.",
             "Heals all allies for 20% of the damage dealt.",
@@ -14989,8 +15023,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1551,
-        "name": "沙里夫 (Shareef)",
+        "originalIndex": 1554,
+        "name": "Shareef",
         "effects": [
             "Deals 400% damage to the target.",
             "Deals 400% damage to 2 random enemies. (This effect targets the same enemy as the first hit if there are no valid targets.)",
@@ -14999,8 +15033,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1552,
-        "name": "闪鳞 (Shimmerscale)",
+        "originalIndex": 1555,
+        "name": "Shimmerscale",
         "effects": [
             "Deals 300% damage to the target and nearby enemies.",
             "Summons a Sword Guard Mega Minion with 35% HP and 300% attack inherited from the caster.",
@@ -15008,8 +15042,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1553,
-        "name": "希芙 (Sif)",
+        "originalIndex": 1556,
+        "name": "Sif",
         "effects": [
             "The caster and nearby allies counterattack with 100% of the damage received for 4 turns.",
             "The caster and nearby allies reduce all received damage by -50% for 4 turns.",
@@ -15017,8 +15051,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1554,
-        "name": "希芙 (Sif) C1",
+        "originalIndex": 1557,
+        "name": "Sif C1",
         "effects": [
             "Increases the mana of the caster and nearby allies by 15%.",
             "The caster and nearby allies counterattack with 125% of the damage received for 4 turns.",
@@ -15026,8 +15060,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1555,
-        "name": "银爪 (Silverpaw)",
+        "originalIndex": 1558,
+        "name": "Silverpaw",
         "effects": [
             "Steals Minions and Mega Minions from target.",
             "Inflicts the target wit lasting Greed. Friendly effects from Special Skills only affect characters with Greed. (Greed prevents all other heroes from gaining friendly effects. This includes all buffs, healing and growth effects. This effect is lasting until it is cleansed, replaced or removed.)",
@@ -15035,8 +15069,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1556,
-        "name": "咕咕鸡先生 (Sir Roostley)",
+        "originalIndex": 1559,
+        "name": "Sir Roostley",
         "effects": [
             "Deals 310% damage to the target.",
             "The attack chains through all enemies that are adjacent to any hit enemy.",
@@ -15044,8 +15078,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1557,
-        "name": "斯拉古司 (Sludgus)",
+        "originalIndex": 1560,
+        "name": "Sludgus",
         "effects": [
             "Recovers 50% health for all allies.",
             "All allies except the caster dance the Dance of the Slimy for 4 turns.",
@@ -15055,8 +15089,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1558,
-        "name": "斯特拉维亚 (Stravia)",
+        "originalIndex": 1561,
+        "name": "Stravia",
         "effects": [
             "Deals 170% Clawing damage to all enemies. (Deals 255% damage against enemies with Minions or Mega Minions. Enemies with Minions or Mega Minions receive -35% defense for 6 turns.)",
             "All enemies receives 1200 Surge Bleed damage over 6 turns. (If the target already has this effect, the duration will be refreshed and the damage will be increased by 300. Max total damage: 3000.)",
@@ -15065,8 +15099,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1559,
-        "name": "唐三藏 (Tang Sanzang)",
+        "originalIndex": 1562,
+        "name": "Tang Sanzang",
         "effects": [
             "Boosts health of all allies by 500. Boosted health can exceed max HP.",
             "Cleanses the latest cleansable status ailments from all allies.",
@@ -15074,8 +15108,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1560,
-        "name": "托尔 (Thor)",
+        "originalIndex": 1563,
+        "name": "Thor",
         "effects": [
             "Special Skill has a different effect on consecutive uses, in the following order:",
             "1st:",
@@ -15090,8 +15124,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1561,
-        "name": "托尔 (Thor) C1",
+        "originalIndex": 1564,
+        "name": "Thor C1",
         "effects": [
             "Special Skill has a different effect on consecutive uses, in the following order:",
             "1st:",
@@ -15106,8 +15140,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1562,
-        "name": "雷响 (Thunderclap)",
+        "originalIndex": 1565,
+        "name": "Thunderclap",
         "effects": [
             "The caster gets Taunt that prevents enemies from using Special Skill on the caster's allies for 5 turns.",
             "The caster regenerates 1250 boosted health over 5 turns. Boosted health can exceed max HP.",
@@ -15116,8 +15150,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1563,
-        "name": "杜拉 (Thura)",
+        "originalIndex": 1566,
+        "name": "Thura",
         "effects": [
             "Deals 355% damage to the target and nearby enemies.",
             "The more health the enemy has, the more damage they will receive, up to 435%.",
@@ -15126,8 +15160,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1564,
-        "name": "黄玉 (Topaz)",
+        "originalIndex": 1567,
+        "name": "Topaz",
         "effects": [
             "Special Skill has a different effect when charged with 100%/200%/300% mana:",
             "x1 Mana Charge:",
@@ -15145,8 +15179,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1565,
-        "name": "乌赖乌斯 (Uraeus)",
+        "originalIndex": 1568,
+        "name": "Uraeus",
         "effects": [
             "Deals 585% damage to the target",
             "Damage bypasses target's Minions.",
@@ -15155,8 +15189,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1566,
-        "name": "阿南德大师 (Ustad Anand)",
+        "originalIndex": 1569,
+        "name": "Ustad Anand",
         "effects": [
             "Deals 355% damage to all enemies.",
             "Growth Boon: Deals 2x extra damage for each point of modified attack. (Extra damage is based on the modified attack on caster, when damage is dealt. Up to maximum 800 additional extra damage. Status effects affecting damage dealt do affect the extra damage. Defense stat does not affect the extra damage. Status effect affecting attack stat do not affect the extra damage.)",
@@ -15165,8 +15199,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1567,
-        "name": "吠舍离 (Vaishali)",
+        "originalIndex": 1570,
+        "name": "Vaishali",
         "effects": [
             "Special Skill has a different effect when charged with 100%/200% mana:",
             "1x Mana Charge:",
@@ -15180,8 +15214,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1568,
-        "name": "吠舍离 (Vaishali) C1",
+        "originalIndex": 1571,
+        "name": "Vaishali C1",
         "effects": [
             "Special Skill has a different effect when charged with 100%/200% mana:",
             "1x Mana Charge:",
@@ -15196,8 +15230,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1569,
-        "name": "薇薇卡 (Vivica)",
+        "originalIndex": 1572,
+        "name": "Vivica",
         "effects": [
             "Recovers 44% health for all allies",
             "All allies get +63% defense for 4 turns",
@@ -15205,8 +15239,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1570,
-        "name": "薇薇卡 (Vivica) C1",
+        "originalIndex": 1573,
+        "name": "Vivica C1",
         "effects": [
             "Recovers 44% health for all allies",
             "All enemies get -44% defense for 4 turns",
@@ -15214,8 +15248,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1571,
-        "name": "薇薇卡 (Vivica) C2",
+        "originalIndex": 1574,
+        "name": "Vivica C2",
         "effects": [
             "Boosts health of all allies by 670. Boosted health can exceed max HP",
             "All enemies get -39% attack for 4 turns",
@@ -15223,8 +15257,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1572,
-        "name": "薇薇卡 (Vivica) 卡通",
+        "originalIndex": 1575,
+        "name": "Vivica Toon",
         "effects": [
             "Recovers 54% health for all allies.",
             "All allies get +45% defense for 4 turns. For all Holy characters, this status effect becomes undispellable and lasts 2 turns longer.",
@@ -15232,8 +15266,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1573,
-        "name": "薇薇卡 (Vivica) 玻璃",
+        "originalIndex": 1576,
+        "name": "Vivica Glass",
         "effects": [
             "Recovers 55% health for all allies.",
             "All allies get +60% defense for 4 turns.",
@@ -15242,16 +15276,16 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1574,
-        "name": "韦恩 (Wayne)",
+        "originalIndex": 1577,
+        "name": "Wayne",
         "effects": [
             "All enemies receive 284 Bleed damage over 2 turns. The caster absorbs 30% of the dealt Bleed damage as health.",
             "The caster steals 60% of any healing applies to all enemies for 2 turns."
         ]
     },
     {
-        "originalIndex": 1575,
-        "name": "韦尔霍夫 (Wealhtheow)",
+        "originalIndex": 1578,
+        "name": "Wealhtheow",
         "effects": [
             "Heals all allies who have less than 50% HP left to 50% health.",
             "All allies regenerate 1320 boosted health over 3 turns. Boosted health can exceed max HP.",
@@ -15262,24 +15296,24 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1576,
-        "name": "白兔先生 (White Rabbit)",
+        "originalIndex": 1579,
+        "name": "White Rabbit",
         "effects": [
             "Deals 280% Damage to the target and nearby enemies",
             "Target gets -34% defense for 4 turns. The effect duration is reset if the target is healed. This effect can't be cleansed."
         ]
     },
     {
-        "originalIndex": 1577,
-        "name": "白兔先生 (White Rabbit) C1",
+        "originalIndex": 1580,
+        "name": "White Rabbit C1",
         "effects": [
             "Deals 260% damage to the target and nearby enemies.",
             "The target and nearby enemies get -34% defense for 3 turns. The effect duration resets if the target is healed. This effect can't be cleansed."
         ]
     },
     {
-        "originalIndex": 1578,
-        "name": "维柳 (Willow)",
+        "originalIndex": 1581,
+        "name": "Willow",
         "effects": [
             "Special Skill has a different effect when charged with 100%/200% mana:",
             "1x Mana Charge:",
@@ -15293,8 +15327,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1579,
-        "name": "温妮 (Winnie)",
+        "originalIndex": 1582,
+        "name": "Winnie",
         "effects": [
             "Cleanses status ailments from all allies.",
             "Boosts health of all allies by 1200. Boosted health can exceed max HP.",
@@ -15303,8 +15337,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1580,
-        "name": "沃尔夫冈 (Wolfgang)",
+        "originalIndex": 1583,
+        "name": "Wolfgang",
         "effects": [
             "Deals 250% damage to all enemies.",
             "The caster reduces all received damage by -50% for 4 turns.",
@@ -15312,8 +15346,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1581,
-        "name": "沃尔夫冈 (Wolfgang) C1",
+        "originalIndex": 1584,
+        "name": "Wolfgang C1",
         "effects": [
             "Deals 300% damage to all enemies.",
             "The caster reduces all received damage by -45% for 4 turns.",
@@ -15321,8 +15355,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1582,
-        "name": "吴用 (Wu Yong)",
+        "originalIndex": 1585,
+        "name": "Wu Yong",
         "effects": [
             "This Special Skill has a chance to deal critical hits.",
             "Deals 450% damage to the target.",
@@ -15332,8 +15366,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1583,
-        "name": "武尔夫斯坦 (Wulfstan)",
+        "originalIndex": 1586,
+        "name": "Wulfstan",
         "effects": [
             "Steals all dispellable buff from all enemies to the caster.",
             "Deals 350% damage to all and inflicts 10 Insanity on them.",
@@ -15341,8 +15375,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1584,
-        "name": "泽维尔 (Xavier)",
+        "originalIndex": 1587,
+        "name": "Xavier",
         "effects": [
             "Deals 280% damage to the target.",
             "If 1 ally is of Holy element, the damage will increase to 290%, and it will affect nearby enemies.",
@@ -15351,8 +15385,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1585,
-        "name": "赞德莉亚 (Zandria)",
+        "originalIndex": 1588,
+        "name": "Zandria",
         "effects": [
             "Deals 210% damage to all enemies.",
             "Deals additional 20% damage per each Holy shield on the board up to 450% damage in total.",
@@ -15361,8 +15395,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1586,
-        "name": "赞德莉亚 (Zandria) C1",
+        "originalIndex": 1589,
+        "name": "Zandria C1",
         "effects": [
             "Deals 250% damage to all enemies.",
             "Deals additional 25% damage per each Holy shield on the board, up to 550% damage in total.",
@@ -15372,8 +15406,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1587,
-        "name": "扎莎 (Zazha)",
+        "originalIndex": 1590,
+        "name": "Zazha",
         "effects": [
             "The attack bypasses defensive buffs. (This includes counterattacks.)",
             "Deals 620% damage to the target.",
@@ -15381,8 +15415,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1588,
-        "name": "泽克纳 (Zekena)",
+        "originalIndex": 1591,
+        "name": "Zekena",
         "effects": [
             "Deals 300% damage to the target.",
             "Deals 450% damage to a random target enemy. Deals extra damage if ther target is Dark.",
@@ -15390,8 +15424,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1589,
-        "name": "泽克纳 (Zekena) C1",
+        "originalIndex": 1592,
+        "name": "Zekena C1",
         "effects": [
             "Deals 400% damage to the target.",
             "Deals 400% damage to a random different enemy. Deals extra damage if the target is Dark.",
@@ -15399,8 +15433,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1590,
-        "name": "泽努克瓦 (Zenuk'wa)",
+        "originalIndex": 1593,
+        "name": "Zenuk'wa",
         "effects": [
             "Deals 275% damage to target and nearby enemies.",
             "The target and nearby enemies receive 225 damage for each received status ailments for 4 turns.",
@@ -15408,16 +15442,16 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1591,
-        "name": "张飞 (Zhang Fei)",
+        "originalIndex": 1594,
+        "name": "Zhang Fei",
         "effects": [
             "Deals 530% damage to the target.",
             "All allies reflect status ailments that affect defense back to the attacker for 3 turns. This effect can't be bypassed. Status effects cast by characters, Minions and Fiends on the same side cannot be reflected."
         ]
     },
     {
-        "originalIndex": 1592,
-        "name": "张飞 (Zhang Fei) C1",
+        "originalIndex": 1595,
+        "name": "Zhang Fei C1",
         "effects": [
             "Deals 520% damage to the target.",
             "The target receives 390 Bleed damage over 3 turns.",
@@ -15425,8 +15459,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1593,
-        "name": "诸葛亮 (Zhuge Liang)",
+        "originalIndex": 1596,
+        "name": "Zhuge Liang",
         "effects": [
             "Summons a Shu Soldier Minion for each ally with 16% HP and 17% attack inherited from the caster.",
             "Shu Soldier Minion gives it’s owner the ability to counterattack with 60% of the damage received as long as the owner has a Shu Soldier Minion. This effect can’t be dispelled.",
@@ -15435,8 +15469,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1594,
-        "name": "诸葛亮 (Zhuge Liang) C1",
+        "originalIndex": 1597,
+        "name": "Zhuge Liang C1",
         "effects": [
             "Summons a Shu Soldier Minion for each ally with 33% HP and 33% attack inherited from the caster.",
             "When summoned, the Shu Soldier Minion gives its owner the ability to counterattack with 55% of the damage received as long as the owner has a Shu Soldier Minion. This effect can’t be dispelled.",
@@ -15445,8 +15479,8 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1595,
-        "name": "佐拉 (Zora)",
+        "originalIndex": 1598,
+        "name": "Zora",
         "effects": [
             "Deals 330% damage to all enemies.",
             "Cleanses status ailments from all allies.",
@@ -15455,63 +15489,48 @@ const allTranslations =
         ]
     },
     {
-        "originalIndex": 1596,
-        "name": "诺艾尔 (Noel)",
-        "effects": []
-    },
-    {
-        "originalIndex": 1597,
-        "name": "弗洛伦西亚 (Florencia)",
-        "effects": []
-    },
-    {
-        "originalIndex": 1598,
-        "name": "经验拟态兽 (Experience Mimic) Rare",
-        "effects": []
-    },
-    {
         "originalIndex": 1599,
-        "name": "进阶拟态兽 (Ascension Mimic) Epic Holy",
+        "name": "Noel",
         "effects": []
     },
     {
         "originalIndex": 1600,
-        "name": "赞德瑞拉 (Xandrella) C1",
+        "name": "Florencia",
         "effects": []
     },
     {
         "originalIndex": 1601,
-        "name": "维兰德 (Weland)",
+        "name": "Experience Mimic Rare",
         "effects": []
     },
     {
         "originalIndex": 1602,
-        "name": "贾克斯 (Jax)",
+        "name": "Ascension Mimic Epic Holy",
         "effects": []
     },
     {
         "originalIndex": 1603,
-        "name": "埃勒里 (Ellery)",
+        "name": "Xandrella C1",
         "effects": []
     },
     {
         "originalIndex": 1604,
-        "name": "莱耶 (Ryleh)",
+        "name": "Weland",
         "effects": []
     },
     {
         "originalIndex": 1605,
-        "name": "尤留思 (Ulius) C1",
+        "name": "Jax",
         "effects": []
     },
     {
         "originalIndex": 1606,
-        "name": "阿米莉亚 (Amelia)",
+        "name": "Ellery",
         "effects": []
     },
     {
         "originalIndex": 1607,
-        "name": "萨洛美 (Salome)",
+        "name": "Ryleh",
         "effects": []
     }
 ];

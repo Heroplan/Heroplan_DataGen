@@ -41652,7 +41652,12 @@ window.allHeroesExtra = [
         "speed": "average",
         "Release date": "2025-11-26",
         "AetherPower": "Boosted Regen",
-        "skill_types": [],
+        "skill_types": [
+            "AoE Attackers (Hit-3)",
+            "Reflectors",
+            "Counterattackers",
+            "Revivers"
+        ],
         "heroId": "slime_bulklug",
         "baseAttack": 628,
         "baseDefense": 630,
@@ -41663,5 +41668,82 @@ window.allHeroesExtra = [
             "summon_slime_minion_on_death_green"
         ],
         "family": "slime"
+    },
+    {
+        "name": "Salome",
+        "fancy name": "Astral Demon Socialite",
+        "element": "Red",
+        "rarity": 5,
+        "class": "Cleric",
+        "speed": "average",
+        "Release date": "2025-11-29",
+        "AetherPower": "Regen",
+        "skill_types": [
+            "Fiends Counters",
+            "Health Boosters",
+            "Chain & Random Attackers",
+            "Max Health Reducers"
+        ],
+        "heroId": "astral_demon_salome",
+        "baseAttack": 618,
+        "baseDefense": 642,
+        "baseHealth": 1099,
+        "specialId": "astral_assistance",
+        "passiveSkills": [
+            "resist_heal_multiplier_debuffs",
+            "resist_all_mana_debuffs"
+        ],
+        "family": "astral_demons"
+    },
+    {
+        "name": "Ulius costume1",
+        "fancy name": "Peculiar Arcane Buccaneer",
+        "element": "Blue",
+        "rarity": 5,
+        "class": "Cleric",
+        "speed": "charge_magic",
+        "Release date": "2025-11-30",
+        "AetherPower": "Damage Reduction",
+        "skill_types": [],
+        "heroId": "magic_ulius_costume_buccaneer",
+        "baseAttack": 435,
+        "baseDefense": 446,
+        "baseHealth": 841,
+        "specialId": "scroll_of_equations",
+        "specialId_costume": "scroll_of_navigation",
+        "passiveSkills": [
+            "magic_mana_regen_stack_on_special_costume",
+            "magic_damage_on_full_charge_costume"
+        ],
+        "costumeBonusPassiveSkillIds": [
+            "reduce_big_minion_health"
+        ],
+        "attackBonus": "38%",
+        "defenseBonus": "38%",
+        "healthBonus": "42%",
+        "manaBonus": "1%",
+        "family": "magic"
+    },
+    {
+        "name": "Amelia",
+        "fancy name": "Magical Aviator",
+        "element": "Purple",
+        "rarity": 5,
+        "class": "Fighter",
+        "speed": "very_fast",
+        "Release date": "2025-11-30",
+        "AetherPower": "Regen",
+        "skill_types": [],
+        "heroId": "magic_carpet_amelia",
+        "baseAttack": 632,
+        "baseDefense": 635,
+        "baseHealth": 1079,
+        "specialId": "swift_maneuvers",
+        "passiveSkills": [
+            "reduce_big_minion_health",
+            "fly_magic_carpet",
+            "debuffs_to_buffs_on_special_cast_magic_carpet"
+        ],
+        "family": "magic_carpet"
     }
 ];

@@ -28258,5 +28258,59 @@
             "Defense": 1600,
             "Life": 2788
         }
+    },
+    "Salome": {
+        "base": {
+            "Attack": 1273,
+            "Defense": 1322,
+            "Life": 2263,
+            "Power": 1257
+        },
+        "lb1": {
+            "Attack": 1371,
+            "Defense": 1425,
+            "Life": 2439
+        },
+        "lb2": {
+            "Attack": 1569,
+            "Defense": 1630,
+            "Life": 2791
+        }
+    },
+    "Amelia": {
+        "base": {
+            "Attack": 1301,
+            "Defense": 1308,
+            "Life": 2222,
+            "Power": 1257
+        },
+        "lb1": {
+            "Attack": 1403,
+            "Defense": 1409,
+            "Life": 2395
+        },
+        "lb2": {
+            "Attack": 1605,
+            "Defense": 1612,
+            "Life": 2740
+        }
+    },
+    "Ulius C": {
+        "base": {
+            "Attack": 1236,
+            "Defense": 1266,
+            "Life": 2459,
+            "Power": 1256
+        },
+        "lb1": {
+            "Attack": 1331,
+            "Defense": 1366,
+            "Life": 2651
+        },
+        "lb2": {
+            "Attack": 1523,
+            "Defense": 1562,
+            "Life": 3033
+        }
     }
 }
