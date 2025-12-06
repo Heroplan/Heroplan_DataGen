@@ -943,5 +943,10 @@
   "Self Ambush": "自身伏击",
   "Ransack 1": "掠夺 (单体)",
   "Debuffs Reflect All": "全体状态异常反射",
-  "Dispeller 1 Buff All": "全体移除1个增益"
+  "Dispeller 1 Buff All": "全体移除1个增益",
+  "Hit 1 on Ally SS": "盟友特殊技能时攻击单个目标",
+  "Mana generation Buff 4": "4个目标法力生成增益",
+  "Latest Buff Steal All": "偷取全体最新增益",
+  "Bomb Debuff All": "全体炸弹减益",
+  "Summoner 2x All": "全体召唤2个小兵"
 }

@@ -2138,7 +2138,7 @@
         "id": "lottery_featured_event_beowulf",
         "gemPrice": 350,
         "amount": 1,
-        "uiPriority": 147,
+        "uiPriority": 151,
         "advertisedHero": "cultist_female_poisoner",
         "associatedEvent": "RecurringBeowulf",
         "bonusChest": "beowulf_chest",
@@ -2348,7 +2348,7 @@
         "id": "lottery_shadow_default",
         "gemPrice": 450,
         "amount": 1,
-        "uiPriority": 145,
+        "uiPriority": 150,
         "associatedEvent": "ShadowQuest",
         "bonusChest": "shadow_summon_chest",
         "bonusChestRequirement": 10,
@@ -4164,7 +4164,7 @@
         "id": "lottery_hero_christmas",
         "gemPrice": 300,
         "amount": 1,
-        "uiPriority": 40,
+        "uiPriority": 149,
         "advertisedHero": "christmas_noel",
         "associatedEvent": "Christmas",
         "bucketWeights": [
@@ -22144,7 +22144,6 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.valentines2022_day1",
         "dollarValue": 5,
-        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -22166,7 +22165,6 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.valentines2022_day2",
         "dollarValue": 10,
-        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -22192,7 +22190,6 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.valentines2022_day3",
         "dollarValue": 20,
-        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -22232,7 +22229,6 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.valentines2022_day4",
         "dollarValue": 5,
-        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -22269,7 +22265,6 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.valentines2022_day5",
         "dollarValue": 10,
-        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -22329,7 +22324,6 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.valentines2022_day6",
         "dollarValue": 5,
-        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -22864,17 +22858,17 @@
           },
           {
             "type": "Item",
+            "id": "titan_battle_scroll_of_alteration",
+            "amount": 3
+          },
+          {
+            "type": "Item",
             "id": "titan_battle_hurricane",
             "amount": 3
           },
           {
             "type": "Item",
-            "id": "titan_battle_time_freeze",
-            "amount": 3
-          },
-          {
-            "type": "Item",
-            "id": "titan_battle_scroll_of_alteration",
+            "id": "battle_tornado",
             "amount": 3
           }
         ]
@@ -22892,12 +22886,6 @@
             "zyngaStoreExtraAmount": 50
           },
           {
-            "type": "Item",
-            "id": "lottery_season5_coin",
-            "amount": 150,
-            "zyngaStoreExtraAmount": 50
-          },
-          {
             "type": "Hero",
             "id": "trainer_rainbow_rare",
             "amount": 2
@@ -22905,12 +22893,17 @@
           {
             "type": "Hero",
             "id": "trainer_rainbow_uncommon",
-            "amount": 4
+            "amount": 2
           },
           {
-            "type": "Hero",
-            "id": "trainer_rainbow_common",
-            "amount": 6
+            "type": "Troop",
+            "id": "rainbow_rare_trainer",
+            "amount": 2
+          },
+          {
+            "type": "Troop",
+            "id": "rainbow_uncommon_trainer",
+            "amount": 2
           }
         ]
       },
@@ -34269,7 +34262,6 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.dragon_trainer_1",
         "dollarValue": 10,
-        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -36090,7 +36082,7 @@
         "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [],
-        "allianceGiftCustomContentId": "dynamic3_alliancegift",
+        "allianceGiftCustomContentId": "dynamic2_alliancegift",
         "dynamicOfferProduct": true
       },
       {
@@ -36109,7 +36101,6 @@
         "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [],
-        "allianceGiftCustomContentId": "dynamic4_alliancegift",
         "dynamicOfferProduct": true
       },
       {
@@ -36129,6 +36120,7 @@
         "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [],
+        "allianceGiftCustomContentId": "dynamic3_alliancegift",
         "dynamicOfferProduct": true
       },
       {
@@ -36138,6 +36130,7 @@
         "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [],
+        "allianceGiftCustomContentId": "dynamic_alliancegift",
         "dynamicOfferProduct": true
       },
       {
@@ -55457,21 +55450,21 @@
       {
         "productType": "LeagueSummon",
         "id": "lottery_league_default_bulk",
-        "gemPrice": 3900,
+        "gemPrice": 4500,
         "sourceProductId": "lottery_league_default",
         "amount": 10
       },
       {
         "productType": "LeagueSummon",
         "id": "lottery_league_default",
-        "gemPrice": 450,
+        "gemPrice": 500,
         "amount": 1,
         "uiPriority": 60,
         "bucketWeights": [
           710,
           265,
-          5,
-          20
+          0,
+          25
         ],
         "hasMysteryHeroBonusRoll": true,
         "powerGradeWeights": [
@@ -57733,5 +57726,5 @@
       }
     ]
   },
-  "productsConfigId": 171001194
+  "productsConfigId": 3885895086
 }

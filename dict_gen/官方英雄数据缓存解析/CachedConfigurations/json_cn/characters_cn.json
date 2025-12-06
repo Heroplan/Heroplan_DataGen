@@ -27853,9 +27853,9 @@
     "id": "布雷卡",
     "element": "蓝",
     "family": "贝奥武夫家族",
-    "baseHealth": 623,
-    "baseAttack": 345,
-    "baseDefense": 344,
+    "baseHealth": 707,
+    "baseAttack": 374,
+    "baseDefense": 373,
     "manaSpeedId": "慢",
     "passiveSkills": [
       "attack_buff_on_damage_received",
@@ -27932,9 +27932,9 @@
     "id": "维兰德",
     "element": "黄",
     "family": "贝奥武夫家族",
-    "baseHealth": 1077,
-    "baseAttack": 575,
-    "baseDefense": 586,
+    "baseHealth": 1098,
+    "baseAttack": 627,
+    "baseDefense": 637,
     "manaSpeedId": "慢",
     "passiveSkills": [
       "attack_buff_on_damage_received",
@@ -28514,8 +28514,7 @@
     "specialId": "贪婪吞噬",
     "canBeReceivedDate": "2025-04-22 07:00:00",
     "origin": "SecretSummonExperienceMimicRed",
-    "forceUseCostumeLevelUpAndUpgradeCosts": true,
-    "isSecret": true
+    "forceUseCostumeLevelUpAndUpgradeCosts": true
   },
   "mimic_training_hero_blue": {
     "id": "经验拟态兽",
@@ -28535,8 +28534,7 @@
     "specialId": "贪婪吞噬",
     "canBeReceivedDate": "2025-05-03 07:00:00",
     "origin": "SecretSummonExperienceMimicBlue",
-    "forceUseCostumeLevelUpAndUpgradeCosts": true,
-    "isSecret": true
+    "forceUseCostumeLevelUpAndUpgradeCosts": true
   },
   "mimic_training_hero_green": {
     "id": "经验拟态兽",
@@ -28556,8 +28554,7 @@
     "specialId": "贪婪吞噬",
     "canBeReceivedDate": "2025-05-15 07:00:00",
     "origin": "SecretSummonExperienceMimicGreen",
-    "forceUseCostumeLevelUpAndUpgradeCosts": true,
-    "isSecret": true
+    "forceUseCostumeLevelUpAndUpgradeCosts": true
   },
   "mimic_training_hero_yellow": {
     "id": "经验拟态兽",
@@ -28577,8 +28574,7 @@
     "specialId": "贪婪吞噬",
     "canBeReceivedDate": "2025-05-31 07:00:00",
     "origin": "SecretSummonExperienceMimicYellow",
-    "forceUseCostumeLevelUpAndUpgradeCosts": true,
-    "isSecret": true
+    "forceUseCostumeLevelUpAndUpgradeCosts": true
   },
   "mimic_training_hero_purple": {
     "id": "经验拟态兽",
@@ -28598,8 +28594,7 @@
     "specialId": "贪婪吞噬",
     "canBeReceivedDate": "2025-06-06 07:00:00",
     "origin": "SecretSummonExperienceMimicPurple",
-    "forceUseCostumeLevelUpAndUpgradeCosts": true,
-    "isSecret": true
+    "forceUseCostumeLevelUpAndUpgradeCosts": true
   },
   "outlaw_song_jiang": {
     "id": "宋江",
@@ -29949,8 +29944,7 @@
     "specialId": "暴食咀嚼",
     "canBeReceivedDate": "2025-07-04 07:00:00",
     "origin": "SecretSummonAscensionMimicRed",
-    "forceUseCostumeLevelUpAndUpgradeCosts": true,
-    "isSecret": true
+    "forceUseCostumeLevelUpAndUpgradeCosts": true
   },
   "mimic_ascension_item_blue": {
     "id": "进阶拟态兽",
@@ -29970,8 +29964,7 @@
     "specialId": "暴食咀嚼",
     "canBeReceivedDate": "2025-07-26 07:00:00",
     "origin": "SecretSummonAscensionMimicBlue",
-    "forceUseCostumeLevelUpAndUpgradeCosts": true,
-    "isSecret": true
+    "forceUseCostumeLevelUpAndUpgradeCosts": true
   },
   "mimic_ascension_item_green": {
     "id": "进阶拟态兽",
@@ -29991,8 +29984,7 @@
     "specialId": "暴食咀嚼",
     "canBeReceivedDate": "2025-08-05 07:00:00",
     "origin": "SecretSummonAscensionMimicGreen",
-    "forceUseCostumeLevelUpAndUpgradeCosts": true,
-    "isSecret": true
+    "forceUseCostumeLevelUpAndUpgradeCosts": true
   },
   "mimic_ascension_item_yellow": {
     "id": "进阶拟态兽",
@@ -30012,8 +30004,7 @@
     "specialId": "暴食咀嚼",
     "canBeReceivedDate": "2025-08-18 07:00:00",
     "origin": "SecretSummonAscensionMimicYellow",
-    "forceUseCostumeLevelUpAndUpgradeCosts": true,
-    "isSecret": true
+    "forceUseCostumeLevelUpAndUpgradeCosts": true
   },
   "mimic_ascension_item_purple": {
     "id": "进阶拟态兽",
@@ -30033,8 +30024,7 @@
     "specialId": "暴食咀嚼",
     "canBeReceivedDate": "2025-08-29 07:00:00",
     "origin": "SecretSummonAscensionMimicPurple",
-    "forceUseCostumeLevelUpAndUpgradeCosts": true,
-    "isSecret": true
+    "forceUseCostumeLevelUpAndUpgradeCosts": true
   },
   "mahayoddha_bhima": {
     "id": "比马",
@@ -30437,9 +30427,9 @@
     "id": "利奥拉",
     "element": "绿",
     "family": "hotm2025",
-    "baseHealth": 885,
-    "baseAttack": 569,
-    "baseDefense": 510,
+    "baseHealth": 993,
+    "baseAttack": 589,
+    "baseDefense": 561,
     "manaSpeedId": "快速",
     "passiveSkills": [
       "never_miss_special",
@@ -30575,8 +30565,7 @@
     "specialId": "野蛮吞噬",
     "canBeReceivedDate": "2025-09-18 07:00:00",
     "origin": "SecretSummonEmblemMimicRed",
-    "forceUseCostumeLevelUpAndUpgradeCosts": true,
-    "isSecret": true
+    "forceUseCostumeLevelUpAndUpgradeCosts": true
   },
   "mimic_emblem_blue": {
     "id": "纹章拟态兽",
@@ -30596,8 +30585,7 @@
     "specialId": "野蛮吞噬",
     "canBeReceivedDate": "2025-09-30 07:00:00",
     "origin": "SecretSummonEmblemMimicBlue",
-    "forceUseCostumeLevelUpAndUpgradeCosts": true,
-    "isSecret": true
+    "forceUseCostumeLevelUpAndUpgradeCosts": true
   },
   "mimic_emblem_green": {
     "id": "纹章拟态兽",
@@ -30617,8 +30605,7 @@
     "specialId": "野蛮吞噬",
     "canBeReceivedDate": "2025-10-27 07:00:00",
     "origin": "SecretSummonEmblemMimicGreen",
-    "forceUseCostumeLevelUpAndUpgradeCosts": true,
-    "isSecret": true
+    "forceUseCostumeLevelUpAndUpgradeCosts": true
   },
   "mimic_emblem_yellow": {
     "id": "纹章拟态兽",
@@ -30638,8 +30625,7 @@
     "specialId": "野蛮吞噬",
     "canBeReceivedDate": "2025-10-17 07:00:00",
     "origin": "SecretSummonEmblemMimicYellow",
-    "forceUseCostumeLevelUpAndUpgradeCosts": true,
-    "isSecret": true
+    "forceUseCostumeLevelUpAndUpgradeCosts": true
   },
   "mimic_emblem_purple": {
     "id": "纹章拟态兽",
@@ -30659,8 +30645,7 @@
     "specialId": "野蛮吞噬",
     "canBeReceivedDate": "2025-11-09 07:00:00",
     "origin": "SecretSummonEmblemMimicPurple",
-    "forceUseCostumeLevelUpAndUpgradeCosts": true,
-    "isSecret": true
+    "forceUseCostumeLevelUpAndUpgradeCosts": true
   },
   "mimic_ascension_epic_yellow": {
     "id": "进阶拟态兽",
@@ -30961,8 +30946,7 @@
     "specialId": "渴望之咬",
     "canBeReceivedDate": "2025-11-21 07:00:00",
     "origin": "SecretSummonAetherMimicRed",
-    "forceUseCostumeLevelUpAndUpgradeCosts": true,
-    "isSecret": true
+    "forceUseCostumeLevelUpAndUpgradeCosts": true
   },
   "mimic_aether_green": {
     "id": "艾瑟尔拟态兽",
@@ -31165,9 +31149,9 @@
     "id": "贾克斯",
     "element": "绿",
     "family": "被遗弃者家族",
-    "baseHealth": 490,
-    "baseAttack": 296,
-    "baseDefense": 316,
+    "baseHealth": 523,
+    "baseAttack": 307,
+    "baseDefense": 327,
     "manaSpeedId": "飞速",
     "classType": "盗贼",
     "aetherGift": "Attack Up",
@@ -31180,9 +31164,9 @@
     "id": "埃勒里",
     "element": "绿",
     "family": "学院家族",
-    "baseHealth": 1094,
-    "baseAttack": 619,
-    "baseDefense": 606,
+    "baseHealth": 1097,
+    "baseAttack": 636,
+    "baseDefense": 623,
     "manaSpeedId": "中等",
     "passiveSkills": [
       "revive_in_alternative_form_with_insanity_chance"
@@ -31198,9 +31182,9 @@
     "id": "莱耶",
     "element": "紫",
     "family": "学院家族",
-    "baseHealth": 643,
-    "baseAttack": 361,
-    "baseDefense": 374,
+    "baseHealth": 679,
+    "baseAttack": 373,
+    "baseDefense": 386,
     "manaSpeedId": "中等",
     "passiveSkills": [
       "damage_increase_by_insanity"
@@ -31547,7 +31531,7 @@
     "id": "地精礼物大师",
     "element": "绿",
     "family": "冬日家族",
-    "baseHealth": 787,
+    "baseHealth": 789,
     "baseAttack": 467,
     "baseDefense": 453,
     "manaSpeedId": "快速",
@@ -31585,7 +31569,7 @@
     "id": "圣诞老人的骑士坐骑",
     "element": "红",
     "family": "冬日家族",
-    "baseHealth": 347,
+    "baseHealth": 348,
     "baseAttack": 311,
     "baseDefense": 229,
     "manaSpeedId": "快速",
@@ -31956,9 +31940,9 @@
     "id": "诺艾尔",
     "element": "紫",
     "family": "冬日家族",
-    "baseHealth": 1063,
-    "baseAttack": 600,
-    "baseDefense": 643,
+    "baseHealth": 1094,
+    "baseAttack": 621,
+    "baseDefense": 644,
     "manaSpeedId": "快速",
     "passiveSkills": [
       "frost_on_minion_damage_done"
@@ -31974,9 +31958,9 @@
     "id": "弗洛伦西亚",
     "element": "黄",
     "family": "冬日家族",
-    "baseHealth": 1105,
-    "baseAttack": 632,
-    "baseDefense": 605,
+    "baseHealth": 1099,
+    "baseAttack": 642,
+    "baseDefense": 615,
     "manaSpeedId": "中等",
     "passiveSkills": [
       "frost_on_minion_damage_done"

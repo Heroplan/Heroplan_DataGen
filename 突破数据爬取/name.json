@@ -7144,5 +7144,38 @@
     },
     {
         "name": "Amelia"
+    },
+    {
+        "name": "Buddy C",
+        "bonuses": {
+            "attack": 25,
+            "defense": 25,
+            "health": 25
+        }
+    },
+    {
+        "name": "Ginger C",
+        "bonuses": {
+            "attack": 37,
+            "defense": 37,
+            "health": 38
+        }
+    },
+    {
+        "name": "Liora"
+    },
+    {
+        "name": "Noel"
+    },
+    {
+        "name": "Rudolph C",
+        "bonuses": {
+            "attack": 20,
+            "defense": 20,
+            "health": 25
+        }
+    },
+    {
+        "name": "Florencia"
     }
 ]

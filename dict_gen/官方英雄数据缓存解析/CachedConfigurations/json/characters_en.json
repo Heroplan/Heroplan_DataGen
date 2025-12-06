@@ -27853,9 +27853,9 @@
     "id": "Boon Companion",
     "element": "Blue",
     "family": "beowulf",
-    "baseHealth": 623,
-    "baseAttack": 345,
-    "baseDefense": 344,
+    "baseHealth": 707,
+    "baseAttack": 374,
+    "baseDefense": 373,
     "manaSpeedId": "slow",
     "passiveSkills": [
       "attack_buff_on_damage_received",
@@ -27932,9 +27932,9 @@
     "id": "Skillful Smith",
     "element": "Yellow",
     "family": "beowulf",
-    "baseHealth": 1077,
-    "baseAttack": 575,
-    "baseDefense": 586,
+    "baseHealth": 1098,
+    "baseAttack": 627,
+    "baseDefense": 637,
     "manaSpeedId": "slow",
     "passiveSkills": [
       "attack_buff_on_damage_received",
@@ -28514,8 +28514,7 @@
     "specialId": "mimic_training_hero_red_bite",
     "canBeReceivedDate": "2025-04-22 07:00:00",
     "origin": "SecretSummonExperienceMimicRed",
-    "forceUseCostumeLevelUpAndUpgradeCosts": true,
-    "isSecret": true
+    "forceUseCostumeLevelUpAndUpgradeCosts": true
   },
   "mimic_training_hero_blue": {
     "id": "Trove of Thousand Teeth",
@@ -28535,8 +28534,7 @@
     "specialId": "mimic_training_hero_blue_bite",
     "canBeReceivedDate": "2025-05-03 07:00:00",
     "origin": "SecretSummonExperienceMimicBlue",
-    "forceUseCostumeLevelUpAndUpgradeCosts": true,
-    "isSecret": true
+    "forceUseCostumeLevelUpAndUpgradeCosts": true
   },
   "mimic_training_hero_green": {
     "id": "Trove of Thousand Teeth",
@@ -28556,8 +28554,7 @@
     "specialId": "mimic_training_hero_green_bite",
     "canBeReceivedDate": "2025-05-15 07:00:00",
     "origin": "SecretSummonExperienceMimicGreen",
-    "forceUseCostumeLevelUpAndUpgradeCosts": true,
-    "isSecret": true
+    "forceUseCostumeLevelUpAndUpgradeCosts": true
   },
   "mimic_training_hero_yellow": {
     "id": "Trove of Thousand Teeth",
@@ -28577,8 +28574,7 @@
     "specialId": "mimic_training_hero_yellow_bite",
     "canBeReceivedDate": "2025-05-31 07:00:00",
     "origin": "SecretSummonExperienceMimicYellow",
-    "forceUseCostumeLevelUpAndUpgradeCosts": true,
-    "isSecret": true
+    "forceUseCostumeLevelUpAndUpgradeCosts": true
   },
   "mimic_training_hero_purple": {
     "id": "Trove of Thousand Teeth",
@@ -28598,8 +28594,7 @@
     "specialId": "mimic_training_hero_purple_bite",
     "canBeReceivedDate": "2025-06-06 07:00:00",
     "origin": "SecretSummonExperienceMimicPurple",
-    "forceUseCostumeLevelUpAndUpgradeCosts": true,
-    "isSecret": true
+    "forceUseCostumeLevelUpAndUpgradeCosts": true
   },
   "outlaw_song_jiang": {
     "id": "Timely Rain of Water Margin",
@@ -29949,8 +29944,7 @@
     "specialId": "gorging_chew_red",
     "canBeReceivedDate": "2025-07-04 07:00:00",
     "origin": "SecretSummonAscensionMimicRed",
-    "forceUseCostumeLevelUpAndUpgradeCosts": true,
-    "isSecret": true
+    "forceUseCostumeLevelUpAndUpgradeCosts": true
   },
   "mimic_ascension_item_blue": {
     "id": "Grinning Cache of Evil",
@@ -29970,8 +29964,7 @@
     "specialId": "gorging_chew_blue",
     "canBeReceivedDate": "2025-07-26 07:00:00",
     "origin": "SecretSummonAscensionMimicBlue",
-    "forceUseCostumeLevelUpAndUpgradeCosts": true,
-    "isSecret": true
+    "forceUseCostumeLevelUpAndUpgradeCosts": true
   },
   "mimic_ascension_item_green": {
     "id": "Grinning Cache of Evil",
@@ -29991,8 +29984,7 @@
     "specialId": "gorging_chew_green",
     "canBeReceivedDate": "2025-08-05 07:00:00",
     "origin": "SecretSummonAscensionMimicGreen",
-    "forceUseCostumeLevelUpAndUpgradeCosts": true,
-    "isSecret": true
+    "forceUseCostumeLevelUpAndUpgradeCosts": true
   },
   "mimic_ascension_item_yellow": {
     "id": "Grinning Cache of Evil",
@@ -30012,8 +30004,7 @@
     "specialId": "gorging_chew_yellow",
     "canBeReceivedDate": "2025-08-18 07:00:00",
     "origin": "SecretSummonAscensionMimicYellow",
-    "forceUseCostumeLevelUpAndUpgradeCosts": true,
-    "isSecret": true
+    "forceUseCostumeLevelUpAndUpgradeCosts": true
   },
   "mimic_ascension_item_purple": {
     "id": "Grinning Cache of Evil",
@@ -30033,8 +30024,7 @@
     "specialId": "gorging_chew_purple",
     "canBeReceivedDate": "2025-08-29 07:00:00",
     "origin": "SecretSummonAscensionMimicPurple",
-    "forceUseCostumeLevelUpAndUpgradeCosts": true,
-    "isSecret": true
+    "forceUseCostumeLevelUpAndUpgradeCosts": true
   },
   "mahayoddha_bhima": {
     "id": "Son of Vayu",
@@ -30437,9 +30427,9 @@
     "id": "The Benevolent Bandit",
     "element": "Green",
     "family": "hotm2025",
-    "baseHealth": 885,
-    "baseAttack": 569,
-    "baseDefense": 510,
+    "baseHealth": 993,
+    "baseAttack": 589,
+    "baseDefense": 561,
     "manaSpeedId": "fast",
     "passiveSkills": [
       "never_miss_special",
@@ -30575,8 +30565,7 @@
     "specialId": "savage_gobble_red",
     "canBeReceivedDate": "2025-09-18 07:00:00",
     "origin": "SecretSummonEmblemMimicRed",
-    "forceUseCostumeLevelUpAndUpgradeCosts": true,
-    "isSecret": true
+    "forceUseCostumeLevelUpAndUpgradeCosts": true
   },
   "mimic_emblem_blue": {
     "id": "Horrifying One-Eyed Lockbox",
@@ -30596,8 +30585,7 @@
     "specialId": "savage_gobble_blue",
     "canBeReceivedDate": "2025-09-30 07:00:00",
     "origin": "SecretSummonEmblemMimicBlue",
-    "forceUseCostumeLevelUpAndUpgradeCosts": true,
-    "isSecret": true
+    "forceUseCostumeLevelUpAndUpgradeCosts": true
   },
   "mimic_emblem_green": {
     "id": "Horrifying One-Eyed Lockbox",
@@ -30617,8 +30605,7 @@
     "specialId": "savage_gobble_green",
     "canBeReceivedDate": "2025-10-27 07:00:00",
     "origin": "SecretSummonEmblemMimicGreen",
-    "forceUseCostumeLevelUpAndUpgradeCosts": true,
-    "isSecret": true
+    "forceUseCostumeLevelUpAndUpgradeCosts": true
   },
   "mimic_emblem_yellow": {
     "id": "Horrifying One-Eyed Lockbox",
@@ -30638,8 +30625,7 @@
     "specialId": "savage_gobble_yellow",
     "canBeReceivedDate": "2025-10-17 07:00:00",
     "origin": "SecretSummonEmblemMimicYellow",
-    "forceUseCostumeLevelUpAndUpgradeCosts": true,
-    "isSecret": true
+    "forceUseCostumeLevelUpAndUpgradeCosts": true
   },
   "mimic_emblem_purple": {
     "id": "Horrifying One-Eyed Lockbox",
@@ -30659,8 +30645,7 @@
     "specialId": "savage_gobble_purple",
     "canBeReceivedDate": "2025-11-09 07:00:00",
     "origin": "SecretSummonEmblemMimicPurple",
-    "forceUseCostumeLevelUpAndUpgradeCosts": true,
-    "isSecret": true
+    "forceUseCostumeLevelUpAndUpgradeCosts": true
   },
   "mimic_ascension_epic_yellow": {
     "id": "Grinning Cache of Lesser Evil",
@@ -30961,8 +30946,7 @@
     "specialId": "aether_mimic_bite_red",
     "canBeReceivedDate": "2025-11-21 07:00:00",
     "origin": "SecretSummonAetherMimicRed",
-    "forceUseCostumeLevelUpAndUpgradeCosts": true,
-    "isSecret": true
+    "forceUseCostumeLevelUpAndUpgradeCosts": true
   },
   "mimic_aether_green": {
     "id": "Starved Storage of Rods",
@@ -31165,9 +31149,9 @@
     "id": "Hounding Hooligan",
     "element": "Green",
     "family": "forsaken",
-    "baseHealth": 490,
-    "baseAttack": 296,
-    "baseDefense": 316,
+    "baseHealth": 523,
+    "baseAttack": 307,
+    "baseDefense": 327,
     "manaSpeedId": "very_fast",
     "classType": "Rogue",
     "aetherGift": "Attack Up",
@@ -31180,9 +31164,9 @@
     "id": "Aberrant Biologist",
     "element": "Green",
     "family": "institute",
-    "baseHealth": 1094,
-    "baseAttack": 619,
-    "baseDefense": 606,
+    "baseHealth": 1097,
+    "baseAttack": 636,
+    "baseDefense": 623,
     "manaSpeedId": "average",
     "passiveSkills": [
       "revive_in_alternative_form_with_insanity_chance"
@@ -31198,9 +31182,9 @@
     "id": "Assistant Archivist",
     "element": "Purple",
     "family": "institute",
-    "baseHealth": 643,
-    "baseAttack": 361,
-    "baseDefense": 374,
+    "baseHealth": 679,
+    "baseAttack": 373,
+    "baseDefense": 386,
     "manaSpeedId": "average",
     "passiveSkills": [
       "damage_increase_by_insanity"
@@ -31547,7 +31531,7 @@
     "id": "Gnome Master of Gifts",
     "element": "Green",
     "family": "winter",
-    "baseHealth": 787,
+    "baseHealth": 789,
     "baseAttack": 467,
     "baseDefense": 453,
     "manaSpeedId": "fast",
@@ -31585,7 +31569,7 @@
     "id": "Santa's Knightly Steed",
     "element": "Red",
     "family": "winter",
-    "baseHealth": 347,
+    "baseHealth": 348,
     "baseAttack": 311,
     "baseDefense": 229,
     "manaSpeedId": "fast",
@@ -31956,9 +31940,9 @@
     "id": "Joyful Sledge Kid",
     "element": "Purple",
     "family": "winter",
-    "baseHealth": 1063,
-    "baseAttack": 600,
-    "baseDefense": 643,
+    "baseHealth": 1094,
+    "baseAttack": 621,
+    "baseDefense": 644,
     "manaSpeedId": "fast",
     "passiveSkills": [
       "frost_on_minion_damage_done"
@@ -31974,9 +31958,9 @@
     "id": "Snow Warden",
     "element": "Yellow",
     "family": "winter",
-    "baseHealth": 1105,
-    "baseAttack": 632,
-    "baseDefense": 605,
+    "baseHealth": 1099,
+    "baseAttack": 642,
+    "baseDefense": 615,
     "manaSpeedId": "average",
     "passiveSkills": [
       "frost_on_minion_damage_done"

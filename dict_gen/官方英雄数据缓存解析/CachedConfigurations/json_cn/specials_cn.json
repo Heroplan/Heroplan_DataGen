@@ -63334,7 +63334,7 @@
       {
         "propertyType": "SecondaryDirectEffect",
         "id": "health_boost_salome",
-        "fixedPower": 1000,
+        "fixedPower": 950,
         "fixedPowerIncrementPerLevel": 50,
         "effectType": "HealthBoost",
         "targetType": "All",
@@ -63367,5 +63367,5 @@
       }
     ]
   },
-  "specialsConfigId": 2469821244
+  "specialsConfigId": 1250448858
 }

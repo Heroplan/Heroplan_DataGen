@@ -28312,5 +28312,113 @@
             "Defense": 1562,
             "Life": 3033
         }
+    },
+    "Liora": {
+        "base": {
+            "Attack": 1213,
+            "Defense": 1155,
+            "Life": 2045,
+            "Power": 1159
+        },
+        "lb1": {
+            "Attack": 1307,
+            "Defense": 1245,
+            "Life": 2204
+        },
+        "lb2": {
+            "Attack": 1496,
+            "Defense": 1424,
+            "Life": 2522
+        }
+    },
+    "Noel": {
+        "base": {
+            "Attack": 1279,
+            "Defense": 1326,
+            "Life": 2253,
+            "Power": 1259
+        },
+        "lb1": {
+            "Attack": 1378,
+            "Defense": 1429,
+            "Life": 2428
+        },
+        "lb2": {
+            "Attack": 1577,
+            "Defense": 1635,
+            "Life": 2778
+        }
+    },
+    "Florencia": {
+        "base": {
+            "Attack": 1322,
+            "Defense": 1266,
+            "Life": 2263,
+            "Power": 1259
+        },
+        "lb1": {
+            "Attack": 1425,
+            "Defense": 1365,
+            "Life": 2439
+        },
+        "lb2": {
+            "Attack": 1630,
+            "Defense": 1562,
+            "Life": 2791
+        }
+    },
+    "Ginger C": {
+        "base": {
+            "Attack": 1317,
+            "Defense": 1278,
+            "Life": 2242,
+            "Power": 1257
+        },
+        "lb1": {
+            "Attack": 1419,
+            "Defense": 1376,
+            "Life": 2416
+        },
+        "lb2": {
+            "Attack": 1624,
+            "Defense": 1575,
+            "Life": 2765
+        }
+    },
+    "Buddy C": {
+        "base": {
+            "Attack": 668,
+            "Defense": 855,
+            "Life": 1665,
+            "Power": 791
+        },
+        "lb1": {
+            "Attack": 726,
+            "Defense": 928,
+            "Life": 1808
+        },
+        "lb2": {
+            "Attack": 842,
+            "Defense": 1076,
+            "Life": 2097
+        }
+    },
+    "Rudolph C": {
+        "base": {
+            "Attack": 648,
+            "Defense": 477,
+            "Life": 755,
+            "Power": 531
+        },
+        "lb1": {
+            "Attack": 734,
+            "Defense": 541,
+            "Life": 856
+        },
+        "lb2": {
+            "Attack": 907,
+            "Defense": 668,
+            "Life": 1058
+        }
     }
 }

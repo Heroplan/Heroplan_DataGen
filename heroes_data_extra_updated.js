@@ -41704,7 +41704,13 @@ window.allHeroesExtra = [
         "speed": "charge_magic",
         "Release date": "2025-11-30",
         "AetherPower": "Damage Reduction",
-        "skill_types": [],
+        "skill_types": [
+            "Fiends Summoners",
+            "Mana Generation Buffers",
+            "Mana Reducers or Blockers",
+            "Minions Summoners",
+            "Stacking Heroes"
+        ],
         "heroId": "magic_ulius_costume_buccaneer",
         "baseAttack": 435,
         "baseDefense": 446,
@@ -41733,7 +41739,13 @@ window.allHeroesExtra = [
         "speed": "very_fast",
         "Release date": "2025-11-30",
         "AetherPower": "Regen",
-        "skill_types": [],
+        "skill_types": [
+            "Healers",
+            "Dispellers",
+            "Dodgers",
+            "Buffers (ATK)",
+            "Stacking Heroes"
+        ],
         "heroId": "magic_carpet_amelia",
         "baseAttack": 632,
         "baseDefense": 635,
@@ -41745,5 +41757,173 @@ window.allHeroesExtra = [
             "debuffs_to_buffs_on_special_cast_magic_carpet"
         ],
         "family": "magic_carpet"
+    },
+    {
+        "name": "Buddy costume1",
+        "fancy name": "Santa's Bookkeeper",
+        "element": "Green",
+        "rarity": 4,
+        "class": "Monk",
+        "speed": "average",
+        "Release date": "2025-12-01",
+        "AetherPower": "Special Boost",
+        "skill_types": [
+            "AoE Attackers (Hit-3)",
+            "Debuffers (ATK)",
+            "Debuffers (DEF)",
+            "Minions Summoners",
+            "Extra Damage Dealers"
+        ],
+        "heroId": "christmas_elf_costume_gift_bookkeper",
+        "baseAttack": 252,
+        "baseDefense": 322,
+        "baseHealth": 627,
+        "specialId": "giftsack",
+        "specialId_costume": "gift_list",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": [
+            "frost_on_minion_damage_done"
+        ],
+        "attackBonus": "25%",
+        "defenseBonus": "25%",
+        "healthBonus": "25%",
+        "manaBonus": "5%",
+        "family": "winter"
+    },
+    {
+        "name": "Ginger costume1",
+        "fancy name": "Gnome Master of Gifts",
+        "element": "Green",
+        "rarity": 5,
+        "class": "Cleric",
+        "speed": "fast",
+        "Release date": "2025-12-01",
+        "AetherPower": "Boosted Regen",
+        "skill_types": [
+            "Buffers (ATK)",
+            "Chain & Random Attackers",
+            "Minions Summoners",
+            "Mana Generation Buffers"
+        ],
+        "heroId": "christmas_ginger_costume_gift_wrapper",
+        "baseAttack": 467,
+        "baseDefense": 453,
+        "baseHealth": 789,
+        "specialId": "hasty_trigger_finger",
+        "specialId_costume": "hasty_gift_wrapper",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": [
+            "frost_on_minion_damage_done"
+        ],
+        "attackBonus": "37%",
+        "defenseBonus": "37%",
+        "healthBonus": "38%",
+        "manaBonus": "5%",
+        "family": "winter"
+    },
+    {
+        "name": "Liora",
+        "fancy name": "The Benevolent Bandit",
+        "element": "Green",
+        "rarity": 5,
+        "class": "Ranger",
+        "speed": "fast",
+        "Release date": "2025-12-01",
+        "AetherPower": "Special Boost",
+        "skill_types": [
+            "AoE Attackers (Hit-5)",
+            "Bypassers",
+            "Buff Stealers"
+        ],
+        "heroId": "nature_god_liora",
+        "baseAttack": 589,
+        "baseDefense": 561,
+        "baseHealth": 993,
+        "specialId": "arrows_of_altruism_liora",
+        "passiveSkills": [
+            "never_miss_special",
+            "resist_health_steal"
+        ],
+        "family": "hotm2025"
+    },
+    {
+        "name": "Noel",
+        "fancy name": "Joyful Sledge Kid",
+        "element": "Purple",
+        "rarity": 5,
+        "class": "Monk",
+        "speed": "fast",
+        "Release date": "2025-12-01",
+        "AetherPower": "Damage Reduction",
+        "skill_types": [
+            "Health Boosters",
+            "Dodgers",
+            "Minions Summoners"
+        ],
+        "heroId": "christmas_noel",
+        "baseAttack": 621,
+        "baseDefense": 644,
+        "baseHealth": 1094,
+        "specialId": "sledge_bash",
+        "passiveSkills": [
+            "frost_on_minion_damage_done"
+        ],
+        "family": "winter"
+    },
+    {
+        "name": "Rudolph costume1",
+        "fancy name": "Santa's Knightly Steed",
+        "element": "Red",
+        "rarity": 3,
+        "class": "Barbarian",
+        "speed": "fast",
+        "Release date": "2025-12-01",
+        "AetherPower": "Defense Up",
+        "skill_types": [
+            "Snipers",
+            "Mana Reducers or Blockers",
+            "Minions Summoners",
+            "Buffers (DEF)"
+        ],
+        "heroId": "christmas_reindeer_costume_knightly_steed",
+        "baseAttack": 311,
+        "baseDefense": 229,
+        "baseHealth": 348,
+        "specialId": "horn_attack",
+        "specialId_costume": "titanium_antler_attack",
+        "passiveSkills": null,
+        "costumeBonusPassiveSkillIds": [
+            "frost_on_minion_damage_done"
+        ],
+        "attackBonus": "20%",
+        "defenseBonus": "20%",
+        "healthBonus": "25%",
+        "manaBonus": "5%",
+        "family": "winter"
+    },
+    {
+        "name": "Florencia",
+        "fancy name": "Snow Warden",
+        "element": "Yellow",
+        "rarity": 5,
+        "class": "Cleric",
+        "speed": "average",
+        "Release date": "2025-12-01",
+        "AetherPower": "Attack Up",
+        "skill_types": [
+            "Bypassers",
+            "AoE Attackers (Hit-5)",
+            "Silencers",
+            "Minions Summoners"
+        ],
+        "heroId": "christmas_florencia",
+        "baseAttack": 642,
+        "baseDefense": 615,
+        "baseHealth": 1099,
+        "specialId": "watchful_duty",
+        "passiveSkills": [
+            "frost_on_minion_damage_done"
+        ],
+        "family": "winter"
     }
 ];

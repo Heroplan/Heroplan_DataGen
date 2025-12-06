@@ -59731,7 +59731,7 @@
           "AttackWither",
           "DefenseWither"
         ],
-        "resistChancePerMil": 500,
+        "resistChancePerMil": 600,
         "resistingBuffCategory": "AllDebuffs"
       },
       {
@@ -61266,7 +61266,7 @@
         "id": "league_heal_modifier_non_featured_family",
         "targets": "Single",
         "targetsSideAffected": "Allies",
-        "healMultiplierPerMil": 650
+        "healMultiplierPerMil": 600
       },
       {
         "passiveSkillType": "HealModifier",
@@ -61300,7 +61300,7 @@
         "targetsSideAffected": "Allies",
         "hasCustomText": true,
         "modifierStatType": "AccuracyMultiplier",
-        "powerMultiplierPerMil": 850
+        "powerMultiplierPerMil": 800
       },
       {
         "passiveSkillType": "StatModifierAgainstTarget",
@@ -61309,7 +61309,7 @@
         "targetsSideAffected": "Allies",
         "hasCustomText": true,
         "modifierStatType": "ReceivedDamageMultiplier",
-        "powerMultiplierPerMil": 800
+        "powerMultiplierPerMil": 700
       },
       {
         "passiveSkillType": "StatModifierAgainstTarget",
@@ -77687,7 +77687,6 @@
         ],
         "extraPassiveSkillIds": [
           "league_received_damage_modifier_against_non_featured_family",
-          "league_heal_modifier_featured_family",
           "league_featured_family_resist"
         ],
         "rarity": 5
@@ -77711,7 +77710,6 @@
         ],
         "extraPassiveSkillIds": [
           "league_received_damage_modifier_against_non_featured_family",
-          "league_heal_modifier_featured_family",
           "league_featured_family_resist"
         ],
         "rarity": 4
@@ -77735,7 +77733,6 @@
         ],
         "extraPassiveSkillIds": [
           "league_received_damage_modifier_against_non_featured_family",
-          "league_heal_modifier_featured_family",
           "league_featured_family_resist"
         ],
         "rarity": 3
@@ -82103,5 +82100,5 @@
       "SharedDamage"
     ]
   },
-  "battleConfigId": 2325687091
+  "battleConfigId": 2875343475
 }

@@ -14641,7 +14641,7 @@
       },
       "pvpLeague": {
         "enabled": true,
-        "showUpcomingEventAsComingSoon": true,
+        "showUpcomingEventAsComingSoon": false,
         "xpLevelRequirement": 14,
         "eventEntries": [
           {
@@ -14725,9 +14725,16 @@
           },
           {
             "featuredFamilies": [
-              "肃煞森林家族",
-              "仙境家族",
-              "阿瓦隆家族"
+              "月亮家族",
+              "太阳家族",
+              "三国家族",
+              "西游家族",
+              "恶狼家族",
+              "渡鸦家族",
+              "冥河家族",
+              "超能萌宠家族",
+              "蒙面之神家族",
+              "hotm2023"
             ],
             "featuredClassesPerRound": [
               [
@@ -14756,27 +14763,47 @@
             ],
             "guestMembers": [
               {
-                "heroId": "knights_black_knight",
+                "heroId": "styx_hypnos",
                 "powerGrade": "MaxAscension"
               },
               {
-                "heroId": "fables_frog_prince",
+                "heroId": "castle_raven_lewena",
                 "powerGrade": "MaxAscension"
               },
               {
-                "heroId": "knights_mordred",
+                "heroId": "castle_raven_rayne",
                 "powerGrade": "MaxAscension"
               },
               {
-                "heroId": "wonderland_white_rabbit",
+                "heroId": "s5_khonshu",
                 "powerGrade": "MaxAscension"
               },
               {
-                "heroId": "wonderland_hatter",
+                "heroId": "s5_maat",
+                "powerGrade": "MaxAscension"
+              },
+              {
+                "heroId": "mighty_pet_toto",
+                "powerGrade": "MaxAscension"
+              },
+              {
+                "heroId": "s5_sobek",
+                "powerGrade": "MaxAscension"
+              },
+              {
+                "heroId": "journey_change",
+                "powerGrade": "MaxAscension"
+              },
+              {
+                "heroId": "castle_wolf_wolfgang",
+                "powerGrade": "MaxAscension"
+              },
+              {
+                "heroId": "kingdom_zhang_fei",
                 "powerGrade": "MaxAscension"
               }
             ],
-            "startTime": "2050-08-04 07:00:00"
+            "startTime": "2025-12-08 07:00:00"
           },
           {
             "featuredFamilies": [
@@ -15016,22 +15043,22 @@
                 },
                 {
                   "type": "Item",
-                  "id": "emblem_master_barbarian",
+                  "id": "emblem_master_druid",
                   "amount": 5
                 },
                 {
                   "type": "Item",
-                  "id": "emblem_master_fighter",
+                  "id": "emblem_master_cleric",
                   "amount": 5
                 },
                 {
                   "type": "Item",
-                  "id": "emblem_barbarian",
+                  "id": "emblem_druid",
                   "amount": 100
                 },
                 {
                   "type": "Item",
-                  "id": "emblem_fighter",
+                  "id": "emblem_cleric",
                   "amount": 100
                 }
               ]
@@ -15080,22 +15107,22 @@
                 },
                 {
                   "type": "Item",
-                  "id": "emblem_master_barbarian",
+                  "id": "emblem_master_druid",
                   "amount": 10
                 },
                 {
                   "type": "Item",
-                  "id": "emblem_master_fighter",
+                  "id": "emblem_master_cleric",
                   "amount": 10
                 },
                 {
                   "type": "Item",
-                  "id": "emblem_barbarian",
+                  "id": "emblem_druid",
                   "amount": 150
                 },
                 {
                   "type": "Item",
-                  "id": "emblem_fighter",
+                  "id": "emblem_cleric",
                   "amount": 150
                 }
               ]
@@ -15159,22 +15186,22 @@
                 },
                 {
                   "type": "Item",
-                  "id": "emblem_master_barbarian",
+                  "id": "emblem_master_druid",
                   "amount": 15
                 },
                 {
                   "type": "Item",
-                  "id": "emblem_master_fighter",
+                  "id": "emblem_master_cleric",
                   "amount": 15
                 },
                 {
                   "type": "Item",
-                  "id": "emblem_barbarian",
+                  "id": "emblem_druid",
                   "amount": 250
                 },
                 {
                   "type": "Item",
-                  "id": "emblem_fighter",
+                  "id": "emblem_cleric",
                   "amount": 250
                 }
               ]
@@ -15253,22 +15280,22 @@
                 },
                 {
                   "type": "Item",
-                  "id": "emblem_master_barbarian",
+                  "id": "emblem_master_druid",
                   "amount": 20
                 },
                 {
                   "type": "Item",
-                  "id": "emblem_master_fighter",
+                  "id": "emblem_master_cleric",
                   "amount": 20
                 },
                 {
                   "type": "Item",
-                  "id": "emblem_barbarian",
+                  "id": "emblem_druid",
                   "amount": 350
                 },
                 {
                   "type": "Item",
-                  "id": "emblem_fighter",
+                  "id": "emblem_cleric",
                   "amount": 350
                 }
               ]
@@ -15362,22 +15389,22 @@
                 },
                 {
                   "type": "Item",
-                  "id": "emblem_master_barbarian",
+                  "id": "emblem_master_druid",
                   "amount": 25
                 },
                 {
                   "type": "Item",
-                  "id": "emblem_master_fighter",
+                  "id": "emblem_master_cleric",
                   "amount": 25
                 },
                 {
                   "type": "Item",
-                  "id": "emblem_barbarian",
+                  "id": "emblem_druid",
                   "amount": 500
                 },
                 {
                   "type": "Item",
-                  "id": "emblem_fighter",
+                  "id": "emblem_cleric",
                   "amount": 500
                 }
               ]
@@ -79229,21 +79256,21 @@
               {
                 "bonusLevels": [
                   {
-                    "attackBonusPerMil": 10,
-                    "defenseBonusPerMil": 10,
-                    "healthBonusPerMil": 20,
+                    "attackBonusPerMil": 140,
+                    "defenseBonusPerMil": 140,
+                    "healthBonusPerMil": 190,
                     "manaBonusPerMil": 10
                   },
                   {
-                    "attackBonusPerMil": 10,
-                    "defenseBonusPerMil": 10,
-                    "healthBonusPerMil": 30,
+                    "attackBonusPerMil": 170,
+                    "defenseBonusPerMil": 170,
+                    "healthBonusPerMil": 220,
                     "manaBonusPerMil": 30
                   },
                   {
-                    "attackBonusPerMil": 20,
-                    "defenseBonusPerMil": 20,
-                    "healthBonusPerMil": 40,
+                    "attackBonusPerMil": 200,
+                    "defenseBonusPerMil": 200,
+                    "healthBonusPerMil": 250,
                     "manaBonusPerMil": 50
                   }
                 ]
@@ -79251,27 +79278,27 @@
               {
                 "bonusLevels": [
                   {
-                    "attackBonusPerMil": 10,
-                    "defenseBonusPerMil": 10,
-                    "healthBonusPerMil": 10,
+                    "attackBonusPerMil": 160,
+                    "defenseBonusPerMil": 160,
+                    "healthBonusPerMil": 160,
                     "manaBonusPerMil": 10
                   },
                   {
-                    "attackBonusPerMil": 10,
-                    "defenseBonusPerMil": 10,
-                    "healthBonusPerMil": 20,
+                    "attackBonusPerMil": 190,
+                    "defenseBonusPerMil": 190,
+                    "healthBonusPerMil": 190,
                     "manaBonusPerMil": 20
                   },
                   {
-                    "attackBonusPerMil": 10,
-                    "defenseBonusPerMil": 10,
-                    "healthBonusPerMil": 30,
+                    "attackBonusPerMil": 220,
+                    "defenseBonusPerMil": 220,
+                    "healthBonusPerMil": 220,
                     "manaBonusPerMil": 30
                   },
                   {
-                    "attackBonusPerMil": 20,
-                    "defenseBonusPerMil": 20,
-                    "healthBonusPerMil": 40,
+                    "attackBonusPerMil": 250,
+                    "defenseBonusPerMil": 250,
+                    "healthBonusPerMil": 250,
                     "manaBonusPerMil": 50
                   }
                 ]
@@ -82034,17 +82061,6 @@
         "showInstantlyIfPossible": true,
         "waitForShopInitialization": false,
         "ignoreActivityTriggersPopupsRequirement": false
-      },
-      {
-        "type": "LeftTopOffer",
-        "group": "Essential",
-        "priority": 999,
-        "cooldownSeconds": 14400,
-        "cooldownXpLevels": 0,
-        "delayOnStartupSeconds": 0,
-        "showInstantlyIfPossible": false,
-        "waitForShopInitialization": true,
-        "ignoreActivityTriggersPopupsRequirement": false
       }
     ],
     "ratingPromptDisabledLanguages": [],
@@ -82073,8 +82089,8 @@
     "languageSelectionEnabled": true,
     "maxVersionToShowUpdateOutReminderAndroid": "80.0.2",
     "maxVersionToShowUpdateOutReminderIos": "80.0.2",
-    "maxVersionToShowUpdateOutReminderAndroidStandalone": "80.0.2",
-    "standaloneNewVersionRolloutPercentage": 100,
+    "maxVersionToShowUpdateOutReminderAndroidStandalone": "81.0.0",
+    "standaloneNewVersionRolloutPercentage": 70,
     "fastClientLogFlushTimeSeconds": 5,
     "accountDeletionEnabled": true,
     "popupSuppression": {
@@ -82166,5 +82182,5 @@
     "criticalOperationPendingDelaySeconds": 3,
     "allowedCriticalOperationPendingCount": 3
   },
-  "otherConfigId": 1638723345
+  "otherConfigId": 1088653048
 }

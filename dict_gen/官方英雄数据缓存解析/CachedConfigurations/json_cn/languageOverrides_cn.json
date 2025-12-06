@@ -238,6 +238,10 @@
           {
             "key": "specials.v2.property.statuseffectreallocation.from.all.enemies.to.lessorequaltohalfhpleft.allies.customreallocationcount",
             "text": "Крадет у всех врагов последние наложенные снимаемые усиления и случайным образом распределяет их между союзниками, у которых осталось 50 % и менее здоровья."
+          },
+          {
+            "key": "specials.v2.bigminion.aberration_big_minion.single",
+            "text": "Призывает мегаприслужника-мутанта с {FAMILIARHEALTHPERCENT} % здоровья и {FAMILIARATTACK} % атаки, получаемых от героя.\n\nКаждый удар мегаприслужника-мутанта дает цели следующий недуг:"
           }
         ]
       },
@@ -718,6 +722,10 @@
           {
             "key": "specials.v2.property.statuseffectreallocation.from.all.enemies.to.lessorequaltohalfhpleft.allies.customreallocationcount",
             "text": "Stiehlt den neuesten bannbaren Bonus von allen Gegnern und verteilt die Boni zufällig auf Verbündete, die weniger als 50 % LP besitzen."
+          },
+          {
+            "key": "specials.v2.bigminion.aberration_big_minion.single",
+            "text": "Beschwört einen Abweichungs-Mega-Lakaien mit {FAMILIARHEALTHPERCENT} % LP und {FAMILIARATTACK} % Angriff vom Wirker.\n\nJeder Treffer eines Abweichungs-Mega-Lakaien verleiht dem Ziel folgende negative Statusänderung:"
           }
         ]
       },
@@ -1206,6 +1214,10 @@
           {
             "key": "specials.v2.property.statuseffectreallocation.from.all.enemies.to.lessorequaltohalfhpleft.allies.customreallocationcount",
             "text": "Steals the latest dispellable buff from all the enemies and randomly distributes them on allies who have 50% or less HP left."
+          },
+          {
+            "key": "lottery.description.long.season5",
+            "text": "The [#!]Dunes Summon[#] features three Legendary Season V Heroes. There is also a chance to get the current Hero of the Month.\n\nThe Dunes Summon has an increased chance for [#!]Legendary[#] Heroes.\n\nSummons can be done with gems or [#!]Dunes Coins[#] which can be obtained by completing [#!]Season V stages[#] for the first time. A single summon costs 100 Dunes Coins.\n\nAfter every {0} summons a [#!]Dynasty of Dunes Bonus Chest[#] is granted. You can claim a maximum of [#!]{1}[#] chests during each Dunes Summon event."
           }
         ]
       },
@@ -2411,5 +2423,5 @@
       }
     }
   },
-  "languageOverridesConfigId": 100415327
+  "languageOverridesConfigId": 3032012857
 }
