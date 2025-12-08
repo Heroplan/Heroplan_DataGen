@@ -158,6 +158,8 @@
 "herocard.family.title.tales1_baddies.short","アトランティスの悪夢"
 "herocard.family.title.tales1_goodies","アトランティスの守護者ファミリー"
 "herocard.family.title.tales1_goodies.short","アトランティスの守護者"
+"herocard.family.title.titan_hunter","タイタンハンターファミリー"
+"herocard.family.title.titan_hunter.short","タイタンハンター"
 "herocard.family.title.vanaheim","ヴァナヘイム領域"
 "herocard.family.title.vanaheim.short","ヴァナヘイム"
 "herocard.family.title.vegetable","勇猛な野菜ファミリー"

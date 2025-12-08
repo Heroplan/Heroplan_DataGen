@@ -158,6 +158,8 @@
 "herocard.family.title.tales1_baddies.short","Koszmary Atlantydy"
 "herocard.family.title.tales1_goodies","Rodzina obrońców Atlantydy"
 "herocard.family.title.tales1_goodies.short","Obrońcy Atlantydy"
+"herocard.family.title.titan_hunter","Rodzina łowców tytanów"
+"herocard.family.title.titan_hunter.short","Łowca tytanów"
 "herocard.family.title.vanaheim","Królestwo Vanaheimu"
 "herocard.family.title.vanaheim.short","Vanaheim"
 "herocard.family.title.vegetable","Rodzina walecznych warzyw"

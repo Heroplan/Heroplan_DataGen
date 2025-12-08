@@ -29,10 +29,12 @@ L'Eroe ottiene {1MEMBERCHARGEFROMHEAL}/{2MEMBERSCHARGEFROMHEAL}/{3MEMBERSCHARGEF
 "familybonuses.description.long.build_charge_nidavellir_alt","Il Nucleo fuso viene caricato ogni volta che questo personaggio subisce danni da attacchi normali o Abilità speciali."
 "familybonuses.description.long.cast_defense_debuffs_back_to_enemies","Quando questo eroe riceve un disturbo che interessa la Difesa, ha il {1MEMBERCHANCE}%/{2MEMBERSCHANCE}%/{3MEMBERSCHANCE}% di probabilità di lanciare il disturbo subito a tutti i nemici."
 "familybonuses.description.long.champions_special_damage_power_modifier","+{1MEMBERMULTIPLIERPERCENT}%/+{2MEMBERSMULTIPLIERPERCENT}%/+{3MEMBERSMULTIPLIERPERCENT}% danni da Abilità speciali extra."
+"familybonuses.description.long.chance_to_cleanse_all_on_received_special_damage_astral_demons.minordebuff","{1MEMBERCHANCE}/{2MEMBERSCHANCE}% di probabilità di rimuovere tutti i disturbi da questo personaggio quando subisce danni da Abilità speciali."
 "familybonuses.description.long.chance_to_cleanse_on_received_special_damage_astral_demons.minordebuff","{1MEMBERCHANCE}/{2MEMBERSCHANCE}% di probabilità di rimuovere un disturbo casuale rimovibile da questo personaggio quando subisce danni da Abilità speciali."
 "familybonuses.description.long.cleanse_random_debuff_on_special_damage_received.minordebuff.onceperturn","{1MEMBERCHANCE}%/{2MEMBERSCHANCE}% di probabilità di rimuovere un disturbo casuale rimovibile da tutti gli alleati quando questo personaggio subisce danni da un'Abilità speciale del nemico. L'effetto può essere attivato solo una volta per turno."
 "familybonuses.description.long.counter_attack_ninja","{CHANCE}%/{2MEMBERSCHANCE}%/{3MEMBERSCHANCE}% di probabilità di contrattaccare con un {MULTIPLIERPERCENT}%/{2MEMBERSMULTIPLIERPERCENT}%/{3MEMBERSMULTIPLIERPERCENT}% dei danni ricevuti."
 "familybonuses.description.long.counter_attack_ninja2","{CHANCE}%/{2MEMBERSCHANCE}%/{3MEMBERSCHANCE}% di probabilità di contrattaccare con un {MULTIPLIERPERCENT}%/{2MEMBERSMULTIPLIERPERCENT}%/{3MEMBERSMULTIPLIERPERCENT}% dei danni ricevuti."
+"familybonuses.description.long.counter_attack_titan_specials_titan_hunters.against_titan.specialskill.always","Contrattacca con il {1MEMBERMULTIPLIERPERCENT}%/{2MEMBERSMULTIPLIERPERCENT}%/{3MEMBERSMULTIPLIERPERCENT}% dei danni subiti dalle Abilità speciali del Titano."
 "familybonuses.description.long.crit_multiplier_zodiac_dragon","{2MEMBERSMULTIPLIERPERCENTCHANGE}% di possibilità critica."
 "familybonuses.description.long.critical_multiplier","{2MEMBERSMULTIPLIERPERCENTCHANGE}%/{3MEMBERSMULTIPLIERPERCENTCHANGE}%/{4MEMBERSMULTIPLIERPERCENTCHANGE}%/{5MEMBERSMULTIPLIERPERCENTCHANGE}% di possibilità critica."
 "familybonuses.description.long.critical_multiplier_forsaken","{MULTIPLIERPERCENTCHANGE}%/{2MEMBERSMULTIPLIERPERCENTCHANGE}%/{3MEMBERSMULTIPLIERPERCENTCHANGE}% di possibilità critica."
@@ -69,7 +71,9 @@ La Gemma della potenza infligge {FIXEDPOWER} danni a un nemico casuale a ogni tu
 Alla fine di ogni turno e quando subisce danni, l'Eroe perde una piccola quantità di Spinta volante.
 Quando lancia la sua Abilità speciale, l'Eroe ottiene Spinta volante.
 Gli Eroi più lenti ottengono una quantità maggiore di Spinta volante."
-"familybonuses.description.long.growth_mahayoddha","Alla fine di ogni turno, gli Eroi della famiglia Mahayoddha ottengono Crescita: {1MEMBERATTACKINCREASE}/{2MEMBERSATTACKINCREASE}/{3MEMBERSATTACKINCREASE} di Attacco e {1MEMBERDEFENSEINCREASE}/{2MEMBERSDEFENSEINCREASE}/{3MEMBERSDEFENSEINCREASE} di Difesa."
+"familybonuses.description.long.growth_mahayoddha","Alla fine di ogni turno, gli Eroi della famiglia Mahayoddha ottengono Crescita: {1MEMBERATTACKINCREASE}/{2MEMBERSATTACKINCREASE}/{3MEMBERSATTACKINCREASE} di Attacco e {1MEMBERDEFENSEINCREASE}/{2MEMBERSDEFENSEINCREASE}/{3MEMBERSDEFENSEINCREASE} di Difesa.
+Limiti dei punteggi delle abilità modificati:
+Minimo {MINSTAT}% e massimo {MAXSTAT}% dei loro valori originali."
 "familybonuses.description.long.heal_multiplier","{2MEMBERSMULTIPLIERPERCENTCHANGE}%/{3MEMBERSMULTIPLIERPERCENTCHANGE}%/{4MEMBERSMULTIPLIERPERCENTCHANGE}%/{5MEMBERSMULTIPLIERPERCENTCHANGE}% di guarigione."
 "familybonuses.description.long.heal_multiplier_classic","{2MEMBERSMULTIPLIERPERCENTCHANGE}%/{3MEMBERSMULTIPLIERPERCENTCHANGE}%/{4MEMBERSMULTIPLIERPERCENTCHANGE}%/{5MEMBERSMULTIPLIERPERCENTCHANGE}% di guarigione."
 "familybonuses.description.long.heal_multiplier_hotm2020","{MULTIPLIERPERCENTCHANGE}%/{2MEMBERSMULTIPLIERPERCENTCHANGE}%/{3MEMBERSMULTIPLIERPERCENTCHANGE}% di guarigione."
@@ -132,6 +136,7 @@ L'Eroe riceve il Bonus famiglia parente quando si trova in squadra con almeno 1 
 Il servitore Volpe furba ha il {FAMILIARDODGECHANCE}% di probabilità di schivare gli attacchi in arrivo.
 Quando il servitore Volpe furba schiva, ruba l'ultima magia benefica annullabile all'attaccante e la dà al suo proprietario."
 "familybonuses.description.long.start_battle_with_fox_minion.fox_dodge","Il servitore Volpe furba ha il {FAMILIARHEALTHPERCENT}% di Salute e il {FAMILIARATTACK}% di Attacco ereditati dall'Eroe. Il servitore Volpe furba ha il {FAMILIARDODGECHANCE}% di probabilità di schivare gli attacchi in arrivo.
+"familybonuses.description.long.start_battle_with_mana_titan_hunters.addmana.single.allies.titan.ubertitan","All'inizio della battaglia, riceve il {1MEMBERMULTIPLIERPERCENT}%/{2MEMBERSMULTIPLIERPERCENT}%/{3MEMBERSMULTIPLIERPERCENT}% di mana. Contro i Titani, riceve il {ALTERNATIVE1MEMBERMULTIPLIERPERCENT}%/{ALTERNATIVE2MEMBERSMULTIPLIERPERCENT}%/{ALTERNATIVE3MEMBERSMULTIPLIERPERCENT}% di mana."
 "familybonuses.description.long.start_battle_with_mask_minion.mask_minion.2members_attack_buff_while_mask_minion.3members_debuff_shield_while_mask_minion","1 membro della famiglia: questo personaggio evoca un servitore Maschera con il {FAMILIARHEALTHPERCENT}% di Salute e il {FAMILIARATTACK}% di Attacco ereditati da questo personaggio.
 Abilità aggiuntiva con 2 membri della famiglia: quando viene evocato, il servitore Maschera conferisce al suo proprietario il {ATTACK2MEMBERS}% di Attacco finché il proprietario ha un servitore Maschera. Questo effetto non può essere annullato.
 Abilità aggiuntiva con 3 membri della famiglia: quando viene evocato, il servitore Maschera conferisce al suo proprietario l'immunità da tutti i disturbi finché il proprietario ha un servitore Maschera. Questo effetto non può essere annullato."
@@ -173,10 +178,12 @@ Questo personaggio ottiene {CURRENTCHARGEFROMHEAL} Umiltà quando riceve cure di
 "familybonuses.description.short.build_charge_nidavellir_alt","Il Nucleo fuso viene caricato ogni volta che questo personaggio subisce danni da attacchi normali o Abilità speciali."
 "familybonuses.description.short.cast_defense_debuffs_back_to_enemies","Quando questo eroe riceve un disturbo che interessa la difesa, {CHANCE}% di probabilità di lanciare il disturbo ricevuto a tutti i nemici."
 "familybonuses.description.short.champions_special_damage_power_modifier","+{MULTIPLIERPERCENT}% di danni aggiuntivi dell'Abilità speciale."
+"familybonuses.description.short.chance_to_cleanse_all_on_received_special_damage_astral_demons.minordebuff","{CHANCE}% di probabilità di rimuovere tutti i disturbi rimovibili da questo personaggio quando subisce danni da Abilità speciali."
 "familybonuses.description.short.chance_to_cleanse_on_received_special_damage_astral_demons.minordebuff","{CHANCE}% di probabilità di rimuovere un disturbo casuale rimovibile da questo personaggio quando subisce danni da Abilità speciali."
 "familybonuses.description.short.cleanse_random_debuff_on_special_damage_received.minordebuff.onceperturn","Ogni volta che un nemico infligge danni da Abilità speciali a questo personaggio, quest'ultimo ha un {CHANCE}% di probabilità di rimuovere un disturbo casuale rimovibile da tutti gli alleati. L'effetto può essere attivato solo una volta per turno."
 "familybonuses.description.short.counter_attack_ninja","{CHANCE}% di probabilità di contrattaccare con un {MULTIPLIERPERCENT}% dei danni ricevuti."
 "familybonuses.description.short.counter_attack_ninja2","{CHANCE}% di probabilità di contrattaccare con un {MULTIPLIERPERCENT}% dei danni ricevuti."
+"familybonuses.description.short.counter_attack_titan_specials_titan_hunters.against_titan.specialskill.always","Contrattacca con il {MULTIPLIERPERCENT}% dei danni subiti dalle Abilità speciali del Titano"
 "familybonuses.description.short.crit_multiplier_zodiac_dragon","Bonus del Drago dell'anno lunare: {MULTIPLIERPERCENTCHANGE}% di possibilità critica"
 "familybonuses.description.short.critical_multiplier","{MULTIPLIERPERCENTCHANGE}% di possibilità critica"
 "familybonuses.description.short.critical_multiplier_forsaken","{MULTIPLIERPERCENTCHANGE}% di possibilità critica"
@@ -266,6 +273,7 @@ Questo personaggio ottiene {CURRENTCHARGEFROMHEAL} Umiltà quando riceve cure di
 "familybonuses.description.short.special_damage_multiplier_zodiac_rat","Bonus del Topo dell'anno lunare: {MULTIPLIERPERCENTCHANGE}% di potenza dell'Abilità speciale"
 "familybonuses.description.short.start_battle_with_fox_minion","Evoca {FAMILIARAMOUNT} servitore Volpe furba per sé all'inizio della battaglia. Il servitore Volpe furba ha l'80% di probabilità di schivare gli attacchi in arrivo. Quando schiva con successo, ruba l'ultima magia benefica annullabile all'attaccante e la dà al suo proprietario."
 "familybonuses.description.short.start_battle_with_fox_minion.multiple_familiars","Evoca {FAMILIARAMOUNT} servitori Volpe furba per sé all'inizio della battaglia. Il servitore Volpe furba ha l'80% di probabilità di schivare gli attacchi in arrivo. Quando schiva con successo, ruba l'ultima magia benefica annullabile all'attaccante e la dà al suo proprietario."
+"familybonuses.description.short.start_battle_with_mana_titan_hunters.addmana.single.allies.titan.ubertitan","riceve il {MULTIPLIERPERCENT}% di mana all'inizio della battaglia."
 "familybonuses.description.short.start_battle_with_mask_minion","Evoca un servitore maschera per sé all'inizio della battaglia."
 "familybonuses.description.short.start_battle_with_recruit_guard_mega_minion","All'inizio della battaglia, evoca un servitore Mega guardia recluta con il {FAMILIARHEALTHPERCENT}% di HP e il {FAMILIARATTACK}% di Attacco ereditati da questo personaggio."
 "familybonuses.description.short.status_effect_duration_increase","{CHANCE}% di probabilità di aumentare del {FIXEDVALUE} la durata degli effetti di stato lanciati."
@@ -517,6 +525,8 @@ La famiglia Anno lunare presenta diversi Eroi animali dell'anno lunare. Ogni ani
 "herocard.family.title.tales1_baddies.short","Incubi di Atlantide"
 "herocard.family.title.tales1_goodies","Famiglia Difensori di Atlantide"
 "herocard.family.title.tales1_goodies.short","Difensori di Atlantide"
+"herocard.family.title.titan_hunter","Famiglia Cacciatori di Titani"
+"herocard.family.title.titan_hunter.short","Cacciatori di Titani"
 "herocard.family.title.vanaheim","Regno di Vanaheim"
 "herocard.family.title.vanaheim.short","Vanaheim"
 "herocard.family.title.vegetable","Famiglia Vegetali valorosa"

@@ -57,6 +57,7 @@
 "quests.name.hotm_quest1","Taverna delle Leggende"
 "quests.name.iron","Estrai il ferro nella miniera"
 "quests.name.kalevala","Kalevala"
+"quests.name.legendary_troop","Caserma delle Leggende"
 "quests.name.limit_breaker_dark","Miraggi di Omega"
 "quests.name.limit_breaker_fire","Miraggi di Omega"
 "quests.name.limit_breaker_holy","Miraggi di Omega"

@@ -187,12 +187,7 @@ def main():
                 should_process = True
         
         else:
-            if not os.path.exists(local_filename):
-                print(f" -> 状态: 记录显示已是最新，但本地文件缺失，重新下载...")
-                if download_file(img_url, local_filename):
-                    should_process = True
-            else:
-                print(f" -> 状态: 已是最新，跳过下载。")
+            print(f" -> 状态: 已是最新，跳过下载。")
         
         # 后续处理：转换和移动
         if should_process:

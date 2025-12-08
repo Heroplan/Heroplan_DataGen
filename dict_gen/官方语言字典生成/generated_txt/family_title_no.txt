@@ -158,6 +158,8 @@
 "herocard.family.title.tales1_baddies.short","Marerittene til Atlantis"
 "herocard.family.title.tales1_goodies","Forsvarer av Atlantis-familien"
 "herocard.family.title.tales1_goodies.short","Forsvarer av Atlantis"
+"herocard.family.title.titan_hunter","Titanjeger-familie"
+"herocard.family.title.titan_hunter.short","Titanjeger"
 "herocard.family.title.vanaheim","Vanaheim"
 "herocard.family.title.vanaheim.short","Vanaheim"
 "herocard.family.title.vegetable","Tapper Grønnsak-familie"

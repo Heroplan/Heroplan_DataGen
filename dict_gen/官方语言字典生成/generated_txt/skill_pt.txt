@@ -98,6 +98,7 @@ Cada ataque de um ajudante mega Aberração dá ao alvo o seguinte mal de status
 "specials.v2.follower.follower_moreau_weaker.single.multiplepercharacter","Convoca {FAMILIARAMOUNT} Cristais Protetores com {FAMILIARHEALTH} de PV para o invocador. Não é possível impedir a convocação de Cristais Protetores. Quando alguém tenta roubá-lo, o Cristal Protetor morre."
 "specials.v2.hidden_special.dragon_bonefang","Bonefang é famoso pela sanguinolência. Esse mastodonte rápido adora despertar o medo nos outros e usar os ossos dos inimigos derrotados como adornos."
 "specials.v2.hidden_special.dragon_doombringer","Poucos conhecem este temível dragão de fogo. Ele raramente deixa o Monte da Fúria, onde vive. Segundo os rumores, um vulcão entra em erupção sempre que seu rugido se faz ouvir."
+"specials.v2.hidden_special.dragon_dreamcatcher","A rainha dos sonhos e pesadelos. Dizem que o ódio pelos heróis é consequência do que ela viu nos sonhos deles. O que será que ela viu?"
 "specials.v2.hidden_special.dragon_mordax","Mordax, o terror da Baía do Eremita, é famoso por seu apetite insaciável. Segundo os rumores, ele pode ganhar um número infinito de cabeças ao perder uma delas."
 "specials.v2.hidden_special.dragon_stargazer","Um dragão antigo que, segundo os rumores, voa entre as estrelas. A origem desse dragão é um mistério."
 "specials.v2.hidden_special.dragon_terrorclaw","Garra do Terror costuma aterrorizar a Ravina Adormecida. Esse dragão cruel adora despedaçar os inimigos com suas garras longas e afiadas."
@@ -373,6 +374,8 @@ Cada ataque de um ajudante Xulu dá ao alvo o seguinte mal de status:"
 "specials.v2.parasite.ominous_tentacle.single","Convoca um demônio Tentáculo Nefasto para o alvo. O demônio Tentáculo Nefasto absorve a cura e desaparece depois de absorver vida equivalente a {FAMILIARHEALTHPERCENT}% do limite de vida do dono."
 "specials.v2.parasite.ominous_tentacle_titan.all","Convoca um demônio Tentáculo Nefasto para todos os inimigos.
  O demônio Tentáculo Nefasto absorve a cura e desaparece depois de absorver vida equivalente a {FAMILIARHEALTHPERCENT}% do limite de vida do dono."
+"specials.v2.parasite.piranha_fiend.all","Convoca um demônio Piranha para todos os inimigos. O demônio causa dano ao inimigo com {FAMILIARATTACK}% do ataque a cada turno.
+ O demônio Piranha absorve a cura e desaparece depois de absorver cura equivalente a {FAMILIARHEALTHPERCENT}% do limite de vida do alvo."
 "specials.v2.parasite.pirate_fiend.all","Convoca um demônio Esqueleto Pirata para todos os inimigos. O demônio causa dano ao inimigo com {FAMILIARATTACK}% de ataque a cada turno.
  O demônio Esqueleto Pirata absorve a cura e desaparece depois de absorver cura equivalente a {FAMILIARHEALTHPERCENT}% do limite de vida do alvo."
 "specials.v2.parasite.ram_fiend.single.multiplepercharacter","Convoca três demônios Carneiro para o alvo. O demônio causa dano ao inimigo com {FAMILIARATTACK}% de ataque a cada turno.
@@ -461,7 +464,7 @@ Cada ataque de um ajudante Xulu dá ao alvo o seguinte mal de status:"
  Quando {COUNTREQUIREMENT} ou mais aliados no campo de batalha têm reforços de ataque, o dano aumenta para {POWER}% e afeta os inimigos próximos."
 "specials.v2.property.buffcategorycountbasedpowermodifierandtargettype.extra","Aliados derrotados não contam como aliados no campo de batalha."
 "specials.v2.property.buffchainstrike.target_prefer_continuation.no_duplicates","Quando o alvo tem reforços e é atingido, ele mira em outro inimigo com reforços. Quando nenhum dos outros inimigos tem reforços, ele mira em um inimigo aleatório. O dano diminui a cada acerto consecutivo. Cada inimigo só pode ser atingido uma vez."
-"specials.v2.property.bypasscounterattackandreflect","O ataque sempre ignora contra-ataques e reflexos."
+"specials.v2.property.bypasscounterattackandreflect","O ataque ignora contra-ataques e reflexos."
 "specials.v2.property.bypassdefensivebuffs","O ataque tem {BYPASSCHANCE}% de chance de ignorar reforços defensivos."
 "specials.v2.property.bypassdefensivebuffs.bypass_always","O ataque ignora reforços defensivos."
 "specials.v2.property.bypassdefensivebuffs.extra","Inclui contra-ataques."
@@ -487,6 +490,7 @@ Cada ataque de um ajudante Xulu dá ao alvo o seguinte mal de status:"
 "specials.v2.property.casterbasestatdependentsecondaryeffect.heal.fixed_power.extra","O dano adicional é baseado no ataque modificado do invocador quando o dano é causado.
  Limite de {MAXFIXEDPOWER} de cura adicional
  Os efeitos de status que afetam a cura recebida não afetam o cálculo da cura."
+"specials.v2.property.casterbasestatdependentsecondaryeffect.heal.neartotarget.allies.defense.fixed_power","Dádiva de Crescimento: restaura {FIXEDPOWERPERBASESTAT}x mais vida adicional por cada ponto de defesa modificada."
 "specials.v2.property.chain_effect.damage","Causa {HEALTH}% de dano aos alvos atingidos."
 "specials.v2.property.chainstrike","Causa {HEALTH}% de dano ao alvo.
  Causa {DAMAGE}% de dano adicional a {MAXHITS} inimigos aleatórios."
@@ -497,6 +501,7 @@ Cada ataque de um ajudante Xulu dá ao alvo o seguinte mal de status:"
 "specials.v2.property.chainstrike.minordamage.with_chance","Tem {CHANCE}% de chance de acertos adicionais em inimigos aleatórios até no máximo {MAXHITS} vezes. Acertos adicionais causam danos menores."
 "specials.v2.property.chainstrike.randommaintarget","Causa {DAMAGE}% de dano a {TOTALMAXHITS} inimigos aleatórios."
 "specials.v2.property.chainstrikewitheffectonsametargethits.addmana.single.allies.2_outof_2","O invocador recebe {EXTRAEFFECTPOWER}% de mana quando os dois ataques atingem o mesmo alvo."
+"specials.v2.property.chainstrikewitheffectonsametargethits.allowmaintargetinrandomtargets.onehit","Causa {DAMAGE}% de dano a um inimigo aleatório."
 "specials.v2.property.chainstrikewitheffectperhit.addmana.all.allies.minordamage.with_chance","Tem {CHANCE}% de chance de acertos adicionais em inimigos aleatórios até no máximo {MAXHITS} vezes. Acertos adicionais causam danos menores.
  Todos os aliados ganham uma pequena quantidade de mana para cada acerto."
 "specials.v2.property.chainstrikewitheffectperhit.all.allies.minordamage.with_chance","Tem {CHANCE}% de chance de acertos adicionais em inimigos aleatórios até no máximo {MAXHITS} vezes. Acertos adicionais causam danos menores."
@@ -696,7 +701,7 @@ Cada ataque de um ajudante Xulu dá ao alvo o seguinte mal de status:"
 "specials.v2.property.excessdamagetonearbytargets","Quando o alvo é derrotado, cada inimigo próximo recebe o dano sobressalente."
 "specials.v2.property.extradamageagainstboostedhealth","Causa {DAMAGE} de dano extra quando o alvo tem vida reforçada."
 "specials.v2.property.extradamageagainstfamiliarsummoners","Causa {DAMAGEMULTIPLIER}% de dano a invocadores de ajudantes e demônios."
-"specials.v2.property.extradamageagainstmonstercategory.titan","Causa {DAMAGEMULTIPLIER}% de dano a titãs."
+"specials.v2.property.extradamageagainstmonstercategory.titan","Contra titãs, causa {DAMAGEMULTIPLIER}% de dano."
 "specials.v2.property.extradamagepercasterstatuseffects.alldebuffs","Causa {DAMAGE}% de dano adicional por mal de status do invocador, até o limite de {MAXDAMAGE}% de dano total."
 "specials.v2.property.extradamagewithbuffcategory.alldebuffs.allies","Causa {DAMAGEMULTIPLIER}% de dano quando o invocador tem males de status ou acumulações negativas."
 "specials.v2.property.extradamagewithbuffcategory.alldebuffs.enemies","Causa {DAMAGEMULTIPLIER}% de dano quando o alvo tem males de status ou acumulações negativas."
@@ -736,6 +741,7 @@ Limites de modificação das Pontuações de Habilidade:
 "specials.v2.property.growth.none.neartotarget.allies.attack","Crescimento: o invocador e os aliados próximos recebem {ATTACKINCREASE} de ataque."
 "specials.v2.property.growth.none.neartotarget.allies.attack.defense","Crescimento: o invocador e os aliados próximos recebem {ATTACKINCREASE} de ataque e {DEFENSEINCREASE} de defesa."
 "specials.v2.property.growth.none.neartotarget.allies.defense","Crescimento: o invocador e os aliados próximos recebem {DEFENSEINCREASE} de defesa."
+"specials.v2.property.growth.none.neartotargetexceptcaster.allies.attack","Crescimento: os aliados próximos recebem {ATTACKINCREASE} de ataque."
 "specials.v2.property.growth.none.neartotargetexceptcaster.allies.attack.defense","Crescimento: os aliados próximos recebem {ATTACKINCREASE} de ataque e {DEFENSEINCREASE} de defesa."
 "specials.v2.property.growth.none.single.allies.attack","Crescimento: o invocador recebe {ATTACKINCREASE} de ataque."
 "specials.v2.property.growth.none.single.allies.attack.defense","Crescimento: o invocador recebe {ATTACKINCREASE} de ataque e {DEFENSEINCREASE} de defesa."
@@ -862,6 +868,7 @@ Limites de modificação das Pontuações de Habilidade:
 "specials.v2.property.reducemaxhealth.reducemaxhealth.neartotargetexceptmaintarget.enemies","Reduz em {REDUCTION} o limite de vida dos inimigos próximos ao alvo. O efeito é mais forte contra alvos com vida reforçada."
 "specials.v2.property.reducemaxhealth.reducemaxhealth.sides.enemies","Reduz em {REDUCTION} o limite de vida dos inimigos nas bordas da formação inimiga. O efeito é mais forte contra alvos com vida reforçada."
 "specials.v2.property.reducemaxhealth.reducemaxhealth.single.allies","Reduz em {REDUCTION} o limite de vida do invocador. O efeito é mais forte contra alvos com vida reforçada."
+"specials.v2.property.reducemaxhealth.reducemaxhealth.single.enemies","Reduz em {REDUCTION} o limite de vida do alvo. O efeito é mais forte contra alvos com vida reforçada."
 "specials.v2.property.removebasestatmodifiers","Remove os efeitos Crescimento e Atrofia do alvo"
 "specials.v2.property.removebasestatmodifiers.all.allies","Remove os efeitos Crescimento e Atrofia de todos os aliados."
 "specials.v2.property.removebasestatmodifiers.all.enemies","Remove os efeitos Crescimento e Atrofia de todos os inimigos."
@@ -1011,6 +1018,7 @@ Não é possível copiar esta habilidade especial."
 "specials.v2.property.statuseffectreallocation.from.all.enemies.to.all.allies","Rouba todos os reforços dissipáveis de todos os inimigos e os distribui aleatoriamente entre os aliados."
 "specials.v2.property.statuseffectreallocation.from.all.enemies.to.all.allies.customreallocationcount","Rouba o reforço dissipável mais recente de todos os inimigos e distribui esses reforços aleatoriamente entre os aliados."
 "specials.v2.property.statuseffectreallocation.from.all.enemies.to.lessorequaltohalfhpleft.allies","Rouba os reforços dissipáveis de todos os inimigos e os distribui aleatoriamente entre os aliados com até 50% de PV."
+"specials.v2.property.statuseffectreallocation.from.all.enemies.to.lessorequaltohalfhpleft.allies.customreallocationcount","Rouba o reforço dissipável mais recente de todos os inimigos e distribui esses reforços aleatoriamente entre os aliados com até 50% de PV."
 "specials.v2.property.statuseffectreallocation.from.all.enemies.to.single.allies","Rouba todos os reforços dissipáveis de todos os inimigos e os atribui ao invocador."
 "specials.v2.property.statuseffectreallocation.from.neartotarget.allies.to.all.enemies","Remove todos os males de status expurgáveis do invocador e dos aliados próximos e os distribui aleatoriamente entre os inimigos."
 "specials.v2.property.statuseffectreallocation.from.neartotarget.enemies.to.all.allies","Rouba todos os reforços dissipáveis do alvo e de todos os inimigos próximos e os distribui aleatoriamente entre os aliados."
@@ -1080,11 +1088,14 @@ Efeitos da transformação:
  O demônio causa dano ao alvo a cada turno e desaparece após absorver a cura. A quantidade de cura necessária depende do limite de vida do alvo."
 "specials.v2.property.targetfamiliarbasedchainstrikewithfamiliarsummon.onehit.parasite.bigparasite.evolving_seedling_parasite","Quando o alvo tem demônios ou demônios mega, causa {DAMAGE}% de dano a outro inimigo aleatório.
  Convoca um demônio Muda para atingir cada inimigo."
+"specials.v2.property.targetfamiliarbasedchainstrikewithfamiliarsummon.onehit.parasite.bigparasite.evolving_seedling_parasite_with_delay","Quando o alvo tem demônios ou demônios mega, causa {DAMAGE}% de dano a outro inimigo aleatório.
+ Convoca um demônio Muda para atingir cada inimigo."
 "specials.v2.property.targethealthdependantextradamage.over_health_boundary.all","Causa {DAMAGEMULTIPLIER}% de dano aos inimigos com mais de {HEALTHBOUNDARY}% de vida restante."
 "specials.v2.property.targethealthdependantextradamage.over_health_boundary.neartotarget","Causa {DAMAGEMULTIPLIER}% de dano aos inimigos com mais de {HEALTHBOUNDARY}% de vida restante."
 "specials.v2.property.targethealthdependantextradamage.over_health_boundary.single","Causa {DAMAGEMULTIPLIER}% de dano se o alvo tiver mais de {HEALTHBOUNDARY}% de vida restante."
 "specials.v2.property.targethealthdependantextradamage.under_health_boundary.all","Causa {DAMAGEMULTIPLIER}% de dano aos inimigos com menos de {HEALTHBOUNDARY}% de vida restante."
 "specials.v2.property.targethealthdependantextradamage.under_health_boundary.neartotarget","Causa {DAMAGEMULTIPLIER}% de dano aos inimigos com menos de {HEALTHBOUNDARY}% de vida restante."
+"specials.v2.property.targethealthdependantextradamage.under_health_boundary.neartotargetminor","Causa dano adicional aos inimigos com menos de {HEALTHBOUNDARY}% de vida restante."
 "specials.v2.property.targethealthdependantextradamage.under_health_boundary.single","Causa {DAMAGEMULTIPLIER}% de dano se o alvo tiver menos de {HEALTHBOUNDARY}% de vida restante."
 "specials.v2.property.thresholdaftereffectchainstrike.allowmaintargetinrandomtargets.target_random.allow_duplicates.over_mana_threshold","Quando o alvo tem mais de {THRESHOLD1}% de mana após a redução do mana, a habilidade especial alveja um inimigo aleatório novamente. O dano é reduzido a cada acerto consecutivo."
 "specials.v2.property.thresholdaftereffectchainstrike.over_mana_threshold","Quando o alvo tem mais de {THRESHOLD1}% de mana após a redução do mana, a habilidade especial alveja um inimigo aleatório novamente. O dano é reduzido a cada acerto consecutivo."
@@ -1100,23 +1111,26 @@ Efeitos da transformação:
 "specials.v2.property.tilecountbasedamplifiedeffect.damage.neartotarget.enemies.green_tiles.neartotarget","Quando existem {COUNTREQUIREMENT} ou mais escudos de Natureza no tabuleiro, o dano é causado ao alvo e aos inimigos próximos."
 "specials.v2.property.tilecountbasedamplifiedeffect.damage.neartotarget.enemies.purple_tiles.neartotarget","Quando existem {COUNTREQUIREMENT} ou mais escudos de Trevas no tabuleiro, o dano é causado e os males de status são aplicados ao alvo e aos inimigos próximos."
 "specials.v2.property.tileenhancement.accuracymodifier.both.blue","Altera a chance crítica ou precisão de todos os escudos de Gelo no tabuleiro. Quando um herói atacante lança a habilidade especial, os escudos são reforçados com {MODIFIERATTACKER}% de chance crítica. Quando um herói defensor lança a habilidade especial, os escudos perdem {MODIFIERDEFENDER}% de precisão."
+"specials.v2.property.tileenhancement.accuracymodifier.both.red","Altera a chance crítica ou precisão de todos os escudos de Fogo no tabuleiro. Quando um herói atacante lança a habilidade especial, os escudos são reforçados com {MODIFIERATTACKER}% de chance crítica. Quando um herói defensor lança a habilidade especial, os escudos perdem {MODIFIERDEFENDER}% de precisão."
 "specials.v2.property.tileenhancement.accuracymodifier.npcs.blue","Enfraquece todos os escudos de Gelo. Escudos enfraquecidos têm {MODIFIERDEFENDER}% de precisão."
+"specials.v2.property.tileenhancement.accuracymodifier.npcs.red","Enfraquece todos os escudos de Fogo. Escudos enfraquecidos têm {MODIFIERDEFENDER}% de precisão."
 "specials.v2.property.tileenhancement.attackmultiplier.both.blue","Altera o poder de todos os escudos de Gelo no tabuleiro. Quando um herói atacante lança a habilidade especial, os escudos são reforçados com {MODIFIERATTACKER}% de ataque. Quando um herói defensor evoca a habilidade especial, os escudos são enfraquecidos com {MODIFIERDEFENDER}% de ataque."
 "specials.v2.property.tileenhancement.attackmultiplier.both.green","Altera o poder de todos os escudos de Natureza no tabuleiro. Quando um herói atacante lança a habilidade especial, os escudos são reforçados com {MODIFIERATTACKER}% de ataque. Quando um herói defensor evoca a habilidade especial, os escudos são enfraquecidos com {MODIFIERDEFENDER}% de ataque."
 "specials.v2.property.tileenhancement.attackmultiplier.both.purple","Altera o poder de todos os escudos de Trevas no tabuleiro. Quando um herói atacante lança a habilidade especial, os escudos são reforçados com {MODIFIERATTACKER}% de ataque. Quando um herói defensor evoca a habilidade especial, os escudos são enfraquecidos com {MODIFIERDEFENDER}% de ataque."
 "specials.v2.property.tileenhancement.attackmultiplier.both.red","Altera o poder de todos os escudos de Fogo no tabuleiro. Quando um herói atacante lança a habilidade especial, os escudos são reforçados com {MODIFIERATTACKER}% de ataque. Quando um herói defensor evoca a habilidade especial, os escudos são enfraquecidos com {MODIFIERDEFENDER}% de ataque."
 "specials.v2.property.tileenhancement.attackmultiplier.both.yellow","Altera o poder de todos os escudos de Luz no tabuleiro. Quando um herói atacante lança a habilidade especial, os escudos são reforçados com {MODIFIERATTACKER}% de ataque. Quando um herói defensor evoca a habilidade especial, os escudos são enfraquecidos com {MODIFIERDEFENDER}% de ataque."
-"specials.v2.property.tileenhancement.attackmultiplier.npcs.blue","Enfraquece todos os escudos de Gelo. Escudos enfraquecidos têm {MODIFIERDEFENDER}% de ataque."
-"specials.v2.property.tileenhancement.attackmultiplier.npcs.green","Enfraquece todos os escudos de Natureza. Escudos enfraquecidos têm {MODIFIERDEFENDER}% de ataque."
-"specials.v2.property.tileenhancement.attackmultiplier.npcs.purple","Enfraquece todos os escudos de Trevas. Escudos enfraquecidos têm {MODIFIERDEFENDER}% de ataque."
-"specials.v2.property.tileenhancement.attackmultiplier.npcs.red","Enfraquece todos os escudos de Fogo. Escudos enfraquecidos têm {MODIFIERDEFENDER}% de ataque."
-"specials.v2.property.tileenhancement.attackmultiplier.npcs.yellow","Enfraquece todos os escudos de Luz. Escudos enfraquecidos têm {MODIFIERDEFENDER}% de ataque."
-"specials.v2.property.tileenhancement.attackmultiplier.playercharacters.blue","Reforça todos os escudos de Gelo. Escudos reforçados têm {MODIFIERATTACKER}% de ataque."
-"specials.v2.property.tileenhancement.attackmultiplier.playercharacters.green","Reforça todos os escudos de Natureza. Escudos reforçados têm {MODIFIERATTACKER}% de ataque."
+"specials.v2.property.tileenhancement.attackmultiplier.npcs.blue","Enfraquece todos os escudos de Gelo no tabuleiro. Escudos enfraquecidos têm {MODIFIERDEFENDER}% de ataque."
+"specials.v2.property.tileenhancement.attackmultiplier.npcs.green","Enfraquece todos os escudos de Natureza no tabuleiro. Escudos enfraquecidos têm {MODIFIERDEFENDER}% de ataque."
+"specials.v2.property.tileenhancement.attackmultiplier.npcs.purple","Enfraquece todos os escudos de Trevas no tabuleiro. Escudos enfraquecidos têm {MODIFIERDEFENDER}% de ataque."
+"specials.v2.property.tileenhancement.attackmultiplier.npcs.red","Enfraquece todos os escudos de Fogo no tabuleiro. Escudos enfraquecidos têm {MODIFIERDEFENDER}% de ataque."
+"specials.v2.property.tileenhancement.attackmultiplier.npcs.yellow","Enfraquece todos os escudos de Luz no tabuleiro. Escudos enfraquecidos têm {MODIFIERDEFENDER}% de ataque."
+"specials.v2.property.tileenhancement.attackmultiplier.playercharacters.blue","Reforça todos os escudos de Gelo no tabuleiro. Escudos reforçados têm {MODIFIERATTACKER}% de ataque."
+"specials.v2.property.tileenhancement.attackmultiplier.playercharacters.green","Reforça todos os escudos de Natureza no tabuleiro. Escudos reforçados têm {MODIFIERATTACKER}% de ataque."
 "specials.v2.property.tileenhancement.attackmultiplier.playercharacters.purple","Reforça todos os escudos de Trevas no tabuleiro. Escudos reforçados têm {MODIFIERATTACKER}% de ataque."
 "specials.v2.property.tileenhancement.attackmultiplier.playercharacters.red","Reforça todos os escudos de Fogo no tabuleiro. Escudos reforçados têm {MODIFIERATTACKER}% de ataque."
 "specials.v2.property.tileenhancement.attackmultiplier.playercharacters.yellow","Reforça todos os escudos de Luz no tabuleiro. Escudos reforçados têm {MODIFIERATTACKER}% de ataque."
 "specials.v2.property.tileenhancement.criticalchancemultiplier.playercharacters.blue","Reforça todos os escudos de Gelo. Escudos reforçados têm {MODIFIERATTACKER}% de chance crítica."
+"specials.v2.property.tileenhancement.criticalchancemultiplier.playercharacters.red","Reforça todos os escudos de Fogo no tabuleiro. Escudos reforçados têm {MODIFIERATTACKER}% de chance crítica."
 "specials.v2.property.tileenhancement.manamultiplier.both.blue","Altera o poder de todos os escudos de Gelo no tabuleiro. Quando um herói atacante lança a habilidade especial, os escudos são reforçados e dão {MODIFIERATTACKER}% mais mana. Quando um herói defensor lança a habilidade especial, os escudos são enfraquecidos e dão {MODIFIERDEFENDER}% menos mana."
 "specials.v2.property.tileenhancement.manamultiplier.both.green","Altera o poder de todos os escudos de Natureza no tabuleiro. Quando um herói atacante lança a habilidade especial, os escudos são reforçados e dão {MODIFIERATTACKER}% mais mana. Quando um herói defensor lança a habilidade especial, os escudos são enfraquecidos e dão {MODIFIERDEFENDER}% menos mana."
 "specials.v2.property.tileenhancement.manamultiplier.both.purple","Altera o poder de todos os escudos de Trevas no tabuleiro. Quando um herói atacante lança a habilidade especial, os escudos são reforçados e dão {MODIFIERATTACKER}% mais mana. Quando um herói defensor lança a habilidade especial, os escudos são enfraquecidos e dão {MODIFIERDEFENDER}% menos mana."
@@ -1191,10 +1205,12 @@ Limites para Pontuações de Habilidade modificadas.
 "specials.v2.statuseffect.major.berserkdefense.single.allies","O invocador recebe {DEFENSE}% de defesa e mais {CHANGE}% de aumento cada vez que são atingidos por {TURNS} turnos, até o limite de {MAXMODIFIER}% de defesa. Este efeito não pode ser dissipado."
 "specials.v2.statuseffect.major.buffimmunity.neartotarget.enemies","O alvo e os inimigos próximos ficam imunes a novos reforços de efeito de status por {TURNS} turnos. Este efeito não pode ser dissipado."
 "specials.v2.statuseffect.major.buildupdamageonremoval.all.allies.onremoval.damage.random.enemies.expiration","Todos os aliados causam {DAMAGE} a {MAXDAMAGE} de dano a um inimigo aleatório após {TURNS} turnos, com base no dano que os aliados sofreram enquanto este efeito estava ativo. Este efeito não pode ser dissipado."
+"specials.v2.statuseffect.major.buildupdamageonremoval.single.allies.onremoval.damage.all.enemies.expiration.death","Causa {DAMAGE} a {MAXDAMAGE} de dano a todos os inimigos depois de {TURNS} turnos ou quando o invocador é derrotado, com base no dano que o invocador sofre enquanto este efeito está ativo. Este efeito não pode ser dissipado."
 "specials.v2.statuseffect.major.burn.all.enemies","Todos os inimigos recebem {DAMAGE} de dano de queimadura por {TURNS} turnos. Este efeito não pode ser expurgado."
 "specials.v2.statuseffect.major.burn.neartotarget.enemies","O alvo e todos os inimigos próximos recebem {DAMAGE} de dano de queimadura por {TURNS} turnos. Este efeito não pode ser expurgado."
 "specials.v2.statuseffect.major.burn.single.enemies","O alvo recebe {DAMAGE} de dano de queimadura por {TURNS} turnos. Este efeito não pode ser expurgado."
 "specials.v2.statuseffect.major.constantmanasteal.all.enemies","O invocador rouba {CURRENTMANASTEAL}% de mana gerado de todos os inimigos por  {TURNS} turnos. O efeito não pode ser expurgado, mas é removido quando o invocador é derrotado."
+"specials.v2.statuseffect.major.constantmanasteal.all.enemies.while.single.allies.familiaralive.cursed_sigil_parasite_costume","O invocador rouba {CURRENTMANASTEAL}% de mana gerado de todos os inimigos. O efeito se mantém enquanto o alvo tem demônios Selo Maldito e não pode ser expurgado, mas é removido quando o invocador é derrotado."
 "specials.v2.statuseffect.major.constantmanasteal.all.enemies.while.single.allies.familiaralive.fire_wisp_parasite_vonreine","O invocador rouba {CURRENTMANASTEAL}% de mana gerado do alvo e dos inimigos próximos. O efeito se mantém enquanto o alvo tem demônios Fogo-Fátuo Ardente e não pode ser expurgado, mas é removido quando o invocador é derrotado."
 "specials.v2.statuseffect.major.constantmanasteal.neartotarget.enemies.while.single.allies.familiaralive.fallen_star_parasite","O invocador rouba {CURRENTMANASTEAL}% de mana gerado do alvo e dos inimigos próximos. O efeito se mantém enquanto o alvo tem demônios Estrela Cadente e não pode ser expurgado, mas é removido quando o invocador é derrotado."
 "specials.v2.statuseffect.major.corrosivepoison.sides.enemies.managenerationmodifier","Todos os inimigos nos cantos da formação inimiga recebem Veneno Corrosivo por {TURNS} turnos. Veneno Corrosivo causa {DAMAGEPERTURN} de dano de veneno e diminui a geração de mana do alvo em {CHANGE}% a cada turno. Este efeito não pode ser expurgado."
@@ -1604,8 +1620,9 @@ Dança dos Espíritos
 "specials.v2.statuseffect.minor.accuracymodifier.purple.allies","Todos os heróis de Trevas recebem {ACCURACY}% de precisão por {TURNS} turnos."
 "specials.v2.statuseffect.minor.accuracymodifier.purple.enemies","Todos os inimigos de Trevas recebem {ACCURACY}% de precisão por {TURNS} turnos."
 "specials.v2.statuseffect.minor.accuracymodifier.red.enemies","Todos os inimigos de Fogo recebem {ACCURACY}% de precisão por {TURNS} turnos."
-"specials.v2.statuseffect.minor.accuracymodifier.single.allies","O invocador ganha {ACCURACY}% de precisão por {TURNS} turnos."
-"specials.v2.statuseffect.minor.accuracymodifier.single.enemies","O alvo ganha {ACCURACY}% de precisão por {TURNS} turnos."
+"specials.v2.statuseffect.minor.accuracymodifier.single.allies","O invocador recebe {ACCURACY}% de precisão por {TURNS} turnos."
+"specials.v2.statuseffect.minor.accuracymodifier.single.enemies","O alvo recebe {ACCURACY}% de precisão por {TURNS} turnos."
+"specials.v2.statuseffect.minor.accuracymodifier.single.enemies.chain_strike","Todos os alvos atingidos recebem {ACCURACY}% de precisão por {TURNS} turnos."
 "specials.v2.statuseffect.minor.accuracymodifierperhit.all.enemies","Todos os inimigos ganham {ACCURACY}% de precisão e mais {CHANGE}% de redução cada vez que são atingidos, por {TURNS} turnos, até {MAXACCURACY}% de precisão."
 "specials.v2.statuseffect.minor.accuracymodifierpertile.blue.neartotarget.enemies","O alvo e os inimigos próximos recebem {ACCURACY}% de precisão e {ACCURACYPERTILE}% de redução adicional por cada escudo de Gelo no tabuleiro por {TURNS} turnos, até o limite de {MAXACCURACY}% de precisão."
 "specials.v2.statuseffect.minor.accuracymodifierpertile.purple.all.enemies","Todos os inimigos recebem {ACCURACY}% de precisão e {ACCURACYPERTILE}% de redução adicional por cada escudo de Trevas no tabuleiro por {TURNS} turnos, até o limite de {MAXACCURACY}% de precisão."
@@ -1628,6 +1645,7 @@ Dança dos Espíritos
 "specials.v2.statuseffect.minor.addstatuseffectonremoval.single.enemies.onremoval.expiration.paralysis.single.allies.turns.one","Após {TURNS} turno, o alvo recebe Paralisado por {STATUSEFFECT1TURNS} turnos."
 "specials.v2.statuseffect.minor.addstatuseffectonremoval.single.enemies.onremoval.expiration.paralysis_fruitio.single.allies.turns.one","Após {TURNS} turno, o alvo recebe Paralisado por {STATUSEFFECT1TURNS} turnos."
 "specials.v2.statuseffect.minor.addstatuseffectonremoval.single.enemies.onremoval.expiration.paralysis_knightus.turns.one","Após {TURNS} turno, o alvo recebe Paralisado por {STATUSEFFECT1TURNS} turnos."
+"specials.v2.statuseffect.minor.addstatuseffectonremoval.single.enemies.onremoval.expiration.paralysis_wilcox.turns.one","Após {TURNS} turno, o alvo recebe Paralisado por {STATUSEFFECT1TURNS} turnos."
 "specials.v2.statuseffect.minor.addstatuseffectonremoval.single.enemies.onremoval.paralysis.single.allies.turns.one","Após {TURNS} turno, o alvo recebe Paralisado por {STATUSEFFECT1TURNS} turnos."
 "specials.v2.statuseffect.minor.addstatuseffectonremoval.single.enemies.onremoval.paralysis_fruitio.turns.one","Após {TURNS} turno, o alvo recebe Paralisado por {STATUSEFFECT1TURNS} turnos."
 "specials.v2.statuseffect.minor.amplifieddamageonremoval.single.allies.onremoval.damage.all.enemies.expiration.onremoval.damage.all.enemies.dispel.removal.reallocation.death.replacesamestatuseffect.override.enterabsentform","O invocador causa {REMOVALEFFECT1FIXEDPOWER} de dano a todos os inimigos após {TURNS} turnos. Quando o efeito é removido ou substituído antes de acabar, em vez disso, causa {REMOVALEFFECT2FIXEDPOWER} de dano."
@@ -1737,6 +1755,7 @@ Dança dos Espíritos
 "specials.v2.statuseffect.minor.blockstatuseffectcasting.neartotarget.enemies","O alvo e os inimigos próximos não podem lançar novos efeitos de status em inimigos ou aliados por {TURNS} turnos."
 "specials.v2.statuseffect.minor.blockstatuseffectcasting.single.enemies","O alvo não pode lançar novos efeitos de status em inimigos ou aliados por {TURNS} turnos."
 "specials.v2.statuseffect.minor.blockstatuseffectcasting.single.enemies.chain_strike","Os alvos atingidos não podem lançar novos efeitos de status em inimigos ou aliados por {TURNS} turnos."
+"specials.v2.statuseffect.minor.blockstatuseffectcasting.single.enemies.chain_strike.only_main_target","O alvo não pode lançar novos efeitos de status em inimigos ou aliados por {TURNS} turnos."
 "specials.v2.statuseffect.minor.blocktalentskillactivation.all.enemies","Bloqueia a ativação de habilidades de talento para todos os inimigos por {TURNS} turnos."
 "specials.v2.statuseffect.minor.blocktalentskillactivation.single.enemies","Bloqueia a ativação de habilidades de talento para o alvo por {TURNS} turnos."
 "specials.v2.statuseffect.minor.blocktauntcasting.all.enemies","Os inimigos não podem lançar novos efeitos de status Provocar por {TURNS} turnos."
@@ -2002,6 +2021,7 @@ No último turno, os inimigos voltam ao elemento original.
 "specials.v2.statuseffect.minor.fixedattackmodifier.neartotarget.enemies","O alvo e os inimigos próximos recebem {ATTACK} de ataque por {TURNS} turnos."
 "specials.v2.statuseffect.minor.fixedattackmodifier.neartotarget.enemies.removeonhealfromspecialreceived","O alvo e os inimigos próximos recebem {ATTACK} de ataque enquanto não são curados por uma habilidade especial."
 "specials.v2.statuseffect.minor.fixedattackmodifier.single.enemies","O alvo recebe {ATTACK} de ataque por {TURNS} turnos."
+"specials.v2.statuseffect.minor.fixedattackmodifier.single.enemies.chain_strike","Os inimigos atingidos ganham {ATTACK} de ataque por {TURNS} turnos."
 "specials.v2.statuseffect.minor.fixedbluedefensemodifier.single.enemies.chain_strike","Todos os alvos recebem {DEFENSE} de defesa contra Gelo por {TURNS} turnos."
 "specials.v2.statuseffect.minor.fixedcrusheddefense.single.enemies","O alvo recebe {DEFENSE} de defesa e mais {CHANGE} de redução cada vez que é atingido por {TURNS} turnos, até o limite de {MAXDEFENSE} de defesa."
 "specials.v2.statuseffect.minor.fixeddefensemodifier.all.allies","Todos os aliados recebem {DEFENSE} de defesa por {TURNS} turnos."
@@ -2012,6 +2032,7 @@ No último turno, os inimigos voltam ao elemento original.
 "specials.v2.statuseffect.minor.fixeddefensemodifier.single.allies","O invocador recebe {DEFENSE} de defesa por {TURNS} turnos."
 "specials.v2.statuseffect.minor.fixeddefensemodifier.single.enemies","O alvo recebe {DEFENSE} de defesa por {TURNS} turnos."
 "specials.v2.statuseffect.minor.fixedgamble.all.allies","Todos os aliados recebem {ATTACK} de ataque com {ACCURACY}% de precisão por {TURNS} turnos."
+"specials.v2.statuseffect.minor.fixedgreendefensemodifier.single.enemies","O alvo recebe {DEFENSE} de defesa contra Natureza por {TURNS} turnos."
 "specials.v2.statuseffect.minor.fixedhealthrecovery.all.allies","Todos os aliados regeneram {TOTAL} PV por {TURNS} turnos."
 "specials.v2.statuseffect.minor.fixedhealthrecovery.all.allies.noturns","Todos os aliados recebem {HPPERTURN} de regeneração de vida persistente por turno."
 "specials.v2.statuseffect.minor.fixedhealthrecovery.all.allies.resetondirectspecialdamage","Todos os aliados recuperam {TOTAL} PV por {TURNS} turnos. A duração do efeito é redefinida quando o invocador recebe dano direto de uma habilidade especial."
@@ -2038,6 +2059,7 @@ No último turno, os inimigos voltam ao elemento original.
 "specials.v2.statuseffect.minor.fixedpurpledefensemodifier.single.enemies","O alvo recebe {DEFENSE} de defesa contra Trevas por {TURNS} turnos."
 "specials.v2.statuseffect.minor.fixedspecialskilldefensemodifier.all.allies","Todos os aliados recebem {DEFENSE} de defesa contra habilidades especiais por {TURNS} turnos."
 "specials.v2.statuseffect.minor.fixedspecialskilldefensemodifier.all.enemies","Todos os inimigos recebem {DEFENSE} de defesa contra habilidades especiais por {TURNS} turnos."
+"specials.v2.statuseffect.minor.fixedyellowdefensemodifier.single.enemies.chain_strike","Todos os alvos recebem {DEFENSE} de defesa contra Luz por {TURNS} turnos."
 "specials.v2.statuseffect.minor.fluffvolleystatuseffectskill.neartotarget.allies.on.turnend.damage.random.enemies.addmana.random.enemies","No fim de cada turno, o invocador e os aliados próximos disparam Saraivada Fofa contra um inimigo aleatório por {TURNS} turnos.
  Cada Saraivada Fofa causa {POWER1}% de dano.
  Cada Saraivada Fofa reduz o mana do inimigo atingido em {ABSPOWER2}%."
@@ -2084,6 +2106,7 @@ No último turno, os inimigos voltam ao elemento original.
 "specials.v2.statuseffect.minor.healonremoval.all.allies.onremoval.heal.single.allies","Todos os aliados recuperam {REMOVALEFFECT1FIXEDPOWER} de vida após {TURNS} turnos, ou imediatamente quando o efeito é removido antes de acabar."
 "specials.v2.statuseffect.minor.healonremoval.single.allies.onremoval.heal.all.allies.expiration.replacesamestatuseffect","Todos os aliados recuperam {REMOVALEFFECT1FIXEDPOWER} de vida após {TURNS} turnos."
 "specials.v2.statuseffect.minor.healstatuseffectskill.single.allies.on.allyspecial.healthboost.all.allies","Durante os {TURNS} turnos seguintes, este personagem restaura {FIXEDPOWER} da vida reforçada de todos os aliados depois que outro aliado usa a habilidade especial."
+"specials.v2.statuseffect.minor.healstatuseffectskill.single.allies.on.allyspecial.healthboost.neartotarget.allies","Durante os {TURNS} turnos seguintes, este personagem restaura {FIXEDPOWER} da vida reforçada do invocador e dos aliados próximos sempre que outro aliado usa a própria habilidade especial."
 "specials.v2.statuseffect.minor.healsteal.all.enemies","O invocador rouba {HEALING}% de qualquer cura aplicada a todos os inimigos por {TURNS} turnos."
 "specials.v2.statuseffect.minor.healsteal.neartotarget.enemies","O invocador rouba {HEALING}% de qualquer cura aplicada ao alvo e aos inimigos próximos por {TURNS} turnos."
 "specials.v2.statuseffect.minor.healsteal.single.enemies","O invocador rouba {HEALING}% de qualquer cura aplicada ao alvo por {TURNS} turnos."
@@ -2178,7 +2201,7 @@ No último turno, os inimigos voltam ao elemento original.
  Cada Feixe Lunar reduz o mana do inimigo atingido em {ABSPOWER2}%."
 "specials.v2.statuseffect.minor.moonbeamstatuseffectskill.all.allies.on.turnend.damage.random.enemies.reducemaxhealth.random.enemies.with_chance","No fim de cada turno, todos os aliados disparam um Feixe Astral contra um inimigo aleatório por {TURNS} turnos.
  Cada Feixe Astral causa {POWER1}% de dano.
- Cada Feixe Astral reduz o limite de vida do inimigo atingido em {REDUCTION}."
+ Cada Feixe Astral reduz o limite de vida do inimigo atingido em {REDUCTION2}."
 "specials.v2.statuseffect.minor.moonbeamstatuseffectskill.neartotarget.allies.on.turnend.damage.random.enemies.addmana.random.enemies","No fim de cada turno, o invocador e os aliados próximos disparam um Feixe Lunar contra um inimigo aleatório por {TURNS} turnos.
  Cada Feixe Lunar causa {POWER1}% de dano.
  Cada Feixe Lunar reduz o mana do inimigo atingido em {ABSPOWER2}%."
@@ -2199,7 +2222,8 @@ No último turno, os inimigos voltam ao elemento original.
 "specials.v2.statuseffect.minor.normalattackmodifier.single.allies","O invocador recebe {ATTACK}% de ataque normal por {TURNS} turnos."
 "specials.v2.statuseffect.minor.normalattacknullifier.neartotarget.enemies","O alvo e os inimigos próximos não contribuem para o dano da Tropa por {TURNS} turnos."
 "specials.v2.statuseffect.minor.normalattackreceiveddamagemodifier.neartotargetminor.enemies","O alvo recebe {DAMAGEMODIFIER}% de dano aumentado de ataques normais, e os inimigos próximos recebem {MINORDAMAGEMODIFIER}% de dano de ataques normais por 3 turnos."
-"specials.v2.statuseffect.minor.painempathy.single.enemies","O alvo recebe {DAMAGEMULTIPLIER}% de dano por todo o dano recebido pelos aliados durante {TURNS} turnos."
+"specials.v2.statuseffect.minor.painempathy.sides.enemies","Por {TURNS} turnos, os inimigos nas bordas da formação inimiga recebem {DAMAGEMULTIPLIER}% de todo o dano causado aos aliados deles."
+"specials.v2.statuseffect.minor.painempathy.single.enemies","Por {TURNS} turnos, o alvo recebe {DAMAGEMULTIPLIER}% de todo o dano causado aos aliados dele."
 "specials.v2.statuseffect.minor.poison.all.enemies","Todos os inimigos recebem {DAMAGE} de dano de veneno por {TURNS} turnos."
 "specials.v2.statuseffect.minor.poison.all.enemies.absorb_healing.to.all","Todos os inimigos recebem {DAMAGE} de dano de veneno por {TURNS} turnos. O invocador e todos os aliados absorvem {ABSORBHEALING}% do dano de veneno como vida."
 "specials.v2.statuseffect.minor.poison.all.enemies.absorb_healing.to.single","Todos os inimigos recebem {DAMAGE} de dano de veneno por {TURNS} turnos. O invocador absorve {ABSORBHEALING}% do dano de veneno como vida."
@@ -2219,22 +2243,26 @@ No último turno, os inimigos voltam ao elemento original.
 "specials.v2.statuseffect.minor.poisonpertile.purple.all.enemies","Todos os inimigos recebem {BASEDAMAGE} de dano de Veneno e um aumento de {DAMAGEPERTILE} no dano para cada escudo de Trevas no tabuleiro por {TURNS} turnos. Limite de {MAXDAMAGE} de dano."
 "specials.v2.statuseffect.minor.possession.all.enemies","Todos os inimigos atingidos invocam automaticamente Ataque Aleatório em um aliado aleatório, quando o mana está cheio, por {TURNS} turnos."
 "specials.v2.statuseffect.minor.possession.all.enemies.mindless_attack","Todos os inimigos atingidos invocam automaticamente Ataque Aleatório em um aliado aleatório, quando o mana está cheio, por {TURNS} turnos."
-"specials.v2.statuseffect.minor.possession.neartotarget.enemies.healing_gift","Por 3 turnos, o alvo e inimigos próximos são forçados a invocar Cura Aleatória quando o mana estiver cheio.
+"specials.v2.statuseffect.minor.possession.neartotarget.enemies.healing_gift","Por {TURNS} turnos, o alvo e inimigos próximos são forçados a invocar Cura Aleatória quando o mana estiver cheio.
 
 {SPECIALTITLE}
 {SPECIALDESCRIPTION}"
 "specials.v2.statuseffect.minor.possession.neartotarget.enemies.mindless_attack","O alvo e os inimigos próximos lançam automaticamente Ataque Aleatório em um aliado aleatório, quando o mana está cheio no início do turno, por {TURNS} turnos."
 "specials.v2.statuseffect.minor.possession.random.enemies.shifting_mindless_attack.removeonspecialcast","Um alvo atingido aleatório invoca automaticamente Ataque Irracional em um aliado aleatório, quando o mana está cheio, por {TURNS} turnos. Quando este efeito é acionado, ele é transferido para o aliado atingido, e o temporizador de duração é reiniciado."
+"specials.v2.statuseffect.minor.possession.sides.enemies.healing_gift","Por {TURNS} turnos, os inimigos nas bordas da formação inimiga são forçados a lançar Cura Aleatória quando o mana está cheio.
+
+{SPECIALTITLE}
+{SPECIALDESCRIPTION}"
 "specials.v2.statuseffect.minor.possession.single.allies.shifting_mindless_attack.removeonspecialcast","O alvo invoca automaticamente Ataque Irracional em um aliado aleatório, quando o mana está cheio, por {TURNS} turnos. Quando este efeito é acionado, ele é transferido para o aliado atingido, e o temporizador de duração é reiniciado."
-"specials.v2.statuseffect.minor.possession.single.enemies.healing_gift_anteros","Por {TURNS} turnos, o alvo é forçado a invocar Cura Aleatória quando tem todo o mana.
+"specials.v2.statuseffect.minor.possession.single.enemies.healing_gift_anteros","Por {TURNS} turnos, o alvo é forçado a invocar Cura Aleatória quando o mana está cheio.
 
 {SPECIALTITLE}
 {SPECIALDESCRIPTION}"
-"specials.v2.statuseffect.minor.possession.single.enemies.healing_gift_kabeiroi.chain_strike.four_hit_chain_strike_kabeiroi.on_additional_hit","Por 3 turnos, todos os inimigos atingidos são forçados a invocar Cura Aleatória quando têm todo o mana.
+"specials.v2.statuseffect.minor.possession.single.enemies.healing_gift_kabeiroi.chain_strike.four_hit_chain_strike_kabeiroi.on_additional_hit","Por {TURNS} turnos, todos os inimigos atingidos são forçados a lançar Cura Aleatória quando o mana está cheio.
 
 {SPECIALTITLE}
 {SPECIALDESCRIPTION}"
-"specials.v2.statuseffect.minor.possession.single.enemies.healing_gift_kabeiroi.chain_strike.only_main_target","Por 3 turnos, o alvo é forçado a invocar Cura Aleatória quando tem todo o mana."
+"specials.v2.statuseffect.minor.possession.single.enemies.healing_gift_kabeiroi.chain_strike.only_main_target","Por {TURNS} turnos, o alvo é forçado a lançar Cura Aleatória quando o mana está cheio."
 "specials.v2.statuseffect.minor.possession.single.enemies.mindless_attack","O alvo invoca automaticamente Ataque Aleatório em um aliado aleatório, quando o mana está cheio, por {TURNS} turnos."
 "specials.v2.statuseffect.minor.possession.single.enemies.mindless_attack.chain_strike","Os inimigos atingidos invocam automaticamente Ataque Aleatório em um aliado aleatório, quando o mana está cheio, por {TURNS} turnos."
 "specials.v2.statuseffect.minor.possession.single.enemies.shifting_mindless_attack.removeonspecialcast","O alvo invoca automaticamente Ataque Irracional em um aliado aleatório, quando o mana está cheio, por {TURNS} turnos. Quando este efeito é acionado, ele é transferido para o aliado atingido, e o temporizador de duração é reiniciado."
@@ -2279,6 +2307,7 @@ No último turno, os inimigos voltam ao elemento original.
 Ferimento de Ajudante: a cada turno, a vida dos ajudantes do alvo diminui em {HEALTHREDUCTION}%, e a vida do ajudante mega diminui em {BIGMINIONHEALTHREDUCTION}%."
 "specials.v2.statuseffect.minor.reducefamiliarhealth.neartotarget.enemies.minion.bigminion","O alvo e os inimigos próximos recebem Ferimento de Ajudante por {TURNS} turnos.
 Ferimento de Ajudante: a cada turno, a vida dos ajudantes do alvo diminui em {HEALTHREDUCTION}%, e a vida do ajudante mega diminui em {BIGMINIONHEALTHREDUCTION}%."
+"specials.v2.statuseffect.minor.reducemaxhealthonhealthboost.all.enemies","Pelos {TURNS} turnos seguintes, todos os inimigos convertem toda a vida reforçada recebida em redução do limte de vida. A redução do limite de vida é maior para os alvos que já têm vida reforçada."
 "specials.v2.statuseffect.minor.reducemaxhealthonhealthboost.neartotarget.enemies","Pelos {TURNS} turnos seguintes, o alvo e os inimigos próximos convertem toda a vida reforçada recebida em redução do limte de vida. A redução do limite de vida é maior para os alvos que já têm vida reforçada."
 "specials.v2.statuseffect.minor.reducemaxhealthovertime.all.enemies","Reduz em {TOTAL} o limite de vida de todos os inimigos por {TURNS} turnos. O efeito é mais forte contra alvos com vida reforçada."
 "specials.v2.statuseffect.minor.reducemaxhealthovertime.neartotarget.enemies","Reduz em {TOTAL} o limite de vida do alvo e dos inimigos próximos por {TURNS} turnos. O efeito é mais forte contra alvos com vida reforçada."
@@ -2309,6 +2338,7 @@ Ferimento de Ajudante: a cada turno, a vida dos ajudantes do alvo diminui em {HE
 "specials.v2.statuseffect.minor.resisthealing.sides.enemies.damage","Os inimigos nas laterais da formação inimiga resistem à cura e recebem {FIXEDPOWER} de dano por cada cura resistida durante {TURNS} turnos."
 "specials.v2.statuseffect.minor.resisthealing.single.enemies.damage","O alvo resiste à cura e recebe {FIXEDPOWER} de dano por cada cura resistida durante {TURNS} turnos."
 "specials.v2.statuseffect.minor.resisthealing.single.enemies.damage.chain_strike","O alvo resiste à cura e recebe {FIXEDPOWER} de dano por cada cura resistida durante {TURNS} turnos."
+"specials.v2.statuseffect.minor.resisthealing.single.enemies.damage.chain_strike.chain_strike_turundh.on_additional_hit","O alvo do segundo acerto resiste à cura e recebe {FIXEDPOWER} de dano por cada cura resistida durante {TURNS} turnos."
 "specials.v2.statuseffect.minor.resistmanaeffects.all.allies","Todos os aliados ficam imunes a novos efeitos negativos de mana por {TURNS} turnos."
 "specials.v2.statuseffect.minor.resistmanaeffects.all.allies.onresist.addmana.single.allies","Todos os aliados ficam imunes a novos efeitos de mana negativos por {TURNS} turnos, e o mana deles aumenta em {POWER}% por cada efeito resistido."
 "specials.v2.statuseffect.minor.resistmanaeffects.neartotarget.allies.onresist.addmana.single.allies","O invocador e os aliados próximos ficam imunes a novos efeitos de mana negativos por {TURNS} turnos, e o mana deles aumenta em {POWER}% por cada efeito resistido."
@@ -2389,6 +2419,7 @@ Quando a Gosma não é derrotada em {CHANGEDAPPEARANCETURNS} turnos, renasce com
 "specials.v2.statuseffect.minor.soulconnection.neartotarget.allies","O invocador e os aliados próximos se tornam Almas Conectadas por {TURNS} turnos. Os aliados com Almas Conectadas compartilham o dano recebido."
 "specials.v2.statuseffect.minor.soulconnection.neartotarget.both","O invocador e os aliados próximos se tornam Almas Conectadas por {TURNS} turnos. Os aliados com Almas Conectadas compartilham o dano recebido.
  O alvo e os inimigos próximos se tornam Almas Conectadas por {TURNS} turnos. Os inimigos com Almas Conectadas compartilham o dano recebido."
+"specials.v2.statuseffect.minor.soulconnection.neartotarget.enemies","O alvo e os inimigos próximos se tornam Almas Conectadas por {TURNS} turnos. Os inimigos com Almas Conectadas compartilham o dano recebido."
 "specials.v2.statuseffect.minor.specialdamageabsorb.all.allies","Todos os aliados são curados no equivalente a {LIFESTEAL}% do dano causado pelas próprias habilidades especiais por {TURNS} turnos."
 "specials.v2.statuseffect.minor.specialdamagepowermodifier.all.allies","A habilidade especial de todos os aliados causa {POWER}% mais dano por {TURNS} turnos."
 "specials.v2.statuseffect.minor.specialdamagepowermodifier.allexceptcaster.allies","A habilidade especial de todos os aliados exceto o invocador causa {POWER}% mais dano por {TURNS} turnos."
@@ -2443,7 +2474,7 @@ Quando a Gosma não é derrotada em {CHANGEDAPPEARANCETURNS} turnos, renasce com
 "specials.v2.statuseffect.minor.spellslay.singleandblue.enemies","Causa {DAMAGE} de dano automático ao alvo e a todos os inimigos de Gelo quando o mana deles fica cheio e reduz o mana a {MANAREDUCTION}% por {TURNS} turnos."
 "specials.v2.statuseffect.minor.stackingattackmodifier.all.allies","Cumulativo (máx.: {MAXSTACK}): todos os aliados recebem {ATTACK}% de ataque."
 "specials.v2.statuseffect.minor.stackingattackmodifier.single.allies","Cumulativo (máx.: {MAXSTACK}): o invocador recebe {ATTACK}% do ataque."
-"specials.v2.statuseffect.minor.stackingattackmodifier.single.allies.effect_per_eaten_familiar.minion.follower.bigminion","Cumulativo (máx.: {MAXSTACK}): o invocador recebe {ATTACK}% do ataque a mais por cada ajudante destruído."
+"specials.v2.statuseffect.minor.stackingattackmodifier.single.allies.effect_per_eaten_familiar.minion.follower.bigminion","Cumulativo (máx.: {MAXSTACK}): o invocador recebe mais {ATTACK}% de ataque por cada ajudante destruído."
 "specials.v2.statuseffect.minor.stackingattackmodifier.single.enemies.chain_strike","Cumulativo (máx.: {MAXSTACK}): cada acerto dá {ATTACK}% de ataque ao alvo."
 "specials.v2.statuseffect.minor.stackingattackmodifieragainstweakerelement.single.allies","Cumulativo (máx.: {MAXSTACK}): o invocador recebe {ATTACK}% de ataque contra o elemento mais fraco."
 "specials.v2.statuseffect.minor.stackingcritmodifier.all.allies.withbasestackcount","Cumulativo +{BASESTACKCOUNT} (máx.: {MAXSTACK}): todos os aliados recebem {CRITPERSTACK}% de chance crítica por acumulação."
@@ -2452,7 +2483,7 @@ Quando a Gosma não é derrotada em {CHANGEDAPPEARANCETURNS} turnos, renasce com
 "specials.v2.statuseffect.minor.stackingdefensemodifier.all.allies","Cumulativo (máx.: {MAXSTACK}): todos os aliados recebem {DEFENSE}% de defesa."
 "specials.v2.statuseffect.minor.stackingdefensemodifier.all.allies.withbasestackcount","Cumulativo +{BASESTACKCOUNT} (máx.: {MAXSTACK}): todos os aliados recebem {DEFENSE}% de defesa."
 "specials.v2.statuseffect.minor.stackingdefensemodifier.neartotarget.enemies","Cumulativo (máx.: {MAXSTACK}): o alvo e os inimigos próximos recebem {DEFENSE}% de defesa."
-"specials.v2.statuseffect.minor.stackingdefensemodifier.single.allies.effect_per_eaten_familiar.minion.follower","Cumulativo (máx.: {MAXSTACK}): o invocador recebe {DEFENSE}% de defesa a mais por cada ajudante destruído."
+"specials.v2.statuseffect.minor.stackingdefensemodifier.single.allies.effect_per_eaten_familiar.minion.follower","Cumulativo (máx.: {MAXSTACK}): o invocador recebe mais {DEFENSE}% de defesa por cada ajudante destruído."
 "specials.v2.statuseffect.minor.stackingdefensemodifier.single.enemies.chain_strike","Cumulativo (máx.: {MAXSTACK}): cada acerto dá {DEFENSE}% de defesa ao alvo."
 "specials.v2.statuseffect.minor.stackinghealthgeneration.all.allies","Cumulativo (máx.: {MAXSTACK}): todos os aliados recuperam {HEAL} PV a cada turno."
 "specials.v2.statuseffect.minor.stackinghealthgeneration.single.allies","Cumulativo (máx.: {MAXSTACK}): o invocador recupera {HEAL} PV a cada turno."
@@ -2471,6 +2502,7 @@ Quando a Gosma não é derrotada em {CHANGEDAPPEARANCETURNS} turnos, renasce com
 "specials.v2.statuseffect.minor.stackingminionmaxhealthmodifier.all.allies","Cumulativo (máx.: {MAXSTACK}): todos os aliados recebem {MAXHEALTH}% do total de PV herdado pelos novos ajudantes que convocam."
 "specials.v2.statuseffect.minor.stackingreceiveddamagemodifier.all.allies.decrease","Cumulativo (máx.: {MAXSTACK}): todo o dano recebido pelos aliados diminui em {DAMAGEMODIFIER}%."
 "specials.v2.statuseffect.minor.stackingreceiveddamagemodifier.all.enemies","Cumulativo (máx.: {MAXSTACK}): todo o dano recebido pelos inimigos aumenta em {DAMAGEMODIFIER}%."
+"specials.v2.statuseffect.minor.stackingreceiveddamagemodifier.neartotarget.allies.decrease","Cumulativo (máx.: {MAXSTACK}): todo o dano recebido pelo invocador e pelos aliados próximos diminui em {DAMAGEMODIFIER}%."
 "specials.v2.statuseffect.minor.stackingreceiveddamagemodifier.neartotarget.enemies","Cumulativo (máx.: {MAXSTACK}): todo dano que o alvo e os inimigos próximos recebem aumenta em {DAMAGEMODIFIER}%."
 "specials.v2.statuseffect.minor.stackingreceiveddamagemodifier.single.allies.decrease","Cumulativo (máx.: {MAXSTACK}): todo o dano recebido pelo invocador diminui em {DAMAGEMODIFIER}%."
 "specials.v2.statuseffect.minor.stackingreceiveddamagemodifier.single.enemies","Cumulativo (máx.: {MAXSTACK}): todo o dano recebido pelo alvo aumenta em {DAMAGEMODIFIER}%."
@@ -2489,6 +2521,7 @@ Quando a Gosma não é derrotada em {CHANGEDAPPEARANCETURNS} turnos, renasce com
 "specials.v2.statuseffect.minor.summonfamiliarperdodgedspecial.all.allies.druid_thorn","Todos os aliados ganham {DODGE}% de chance de se esquivar de habilidades especiais por {TURNS} turnos. Cada esquiva convoca um ajudante espinho."
 "specials.v2.statuseffect.minor.summonfamiliarperdodgedspecial.all.allies.druid_thorn_empowered","Todos os aliados recebem {DODGE}% de chance de se esquivar de habilidades especiais por {TURNS} turnos. Cada esquiva convoca um ajudante Espinho Empoderado."
 "specials.v2.statuseffect.minor.summonfamiliarperdodgedspecial.all.allies.sakura_fox","Todos os aliados ganham {DODGE}% de chance de se esquivar de habilidades especiais por {TURNS} turnos. Cada esquiva convoca um ajudante raposa Sakura."
+"specials.v2.statuseffect.minor.targetdependentattackmodifier.all.allies.against_red_titan","Todos os aliados recebem {ATTACK}% de ataque por {TURNS} turnos. Contra titãs de Fogo, todos os aliados recebem {ATTACKAGAINSTVALIDTARGET}% de ataque."
 "specials.v2.statuseffect.minor.taunt.single.allies","O invocador recebe Provocar que impede os inimigos de usar habilidades especiais nos aliados do invocador por {TURNS} turnos."
 "specials.v2.statuseffect.minor.toxin.all.enemies.extra_damage_against.boostedhealth.extra_minion_damage.minion.bigminion.follower","Todos os inimigos recebem {DAMAGE} de dano de Toxina ao longo de {TURNS} turnos. O dano aumenta contra alvos com vida reforçada, ajudantes ou um ajudante mega."
 "specials.v2.statuseffect.minor.toxin.neartotarget.enemies.extra_damage_against.boostedhealth.extra_minion_damage.minion.bigminion.follower","O alvo e os inimigos próximos recebem {DAMAGE} de dano de Toxina ao longo de {TURNS} turnos. O dano aumenta contra alvos com vida reforçada, ajudantes ou um ajudante mega."
@@ -2521,7 +2554,7 @@ Quando a Gosma não é derrotada em {CHANGEDAPPEARANCETURNS} turnos, renasce com
 "specials.v2.statuseffect.permanent.accuracymodifier.purple.allies","Todos os heróis de Trevas recebem {ACCURACY}% de precisão."
 "specials.v2.statuseffect.permanent.attackmodifier.yellow.allies","Todos os heróis de Luz recebem {ATTACK}% de ataque."
 "specials.v2.statuseffect.permanent.insanity.all.allies","Aplica {INSANITYTOADD} Insanidade a todos os aliados."
-"specials.v2.statuseffect.permanent.insanity.all.both","Aplica {INSANITYTOADD} Insanidade a todos os Heróis.
+"specials.v2.statuseffect.permanent.insanity.all.both","Aplica {INSANITYTOADD} Insanidade a todos os heróis.
 
 Insanidade
 Dá a chance de reverter o alvo de uma habilidade especial.

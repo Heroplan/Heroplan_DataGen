@@ -158,6 +158,8 @@
 "herocard.family.title.tales1_baddies.short","아틀란티스의 악몽"
 "herocard.family.title.tales1_goodies","아틀란티스의 방어병 패밀리"
 "herocard.family.title.tales1_goodies.short","아틀란티스의 방어병"
+"herocard.family.title.titan_hunter","타이탄 사냥꾼 패밀리"
+"herocard.family.title.titan_hunter.short","타이탄 사냥꾼"
 "herocard.family.title.vanaheim","바나하임 왕국"
 "herocard.family.title.vanaheim.short","바나하임"
 "herocard.family.title.vegetable","용맹한 채소 패밀리"

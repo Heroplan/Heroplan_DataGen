@@ -57,6 +57,7 @@
 "quests.name.hotm_quest1","Taverne des Légendes"
 "quests.name.iron","Extraire du Fer"
 "quests.name.kalevala","Kalevala"
+"quests.name.legendary_troop","Caserne des légendes"
 "quests.name.limit_breaker_dark","Mirages de l'oméga"
 "quests.name.limit_breaker_fire","Mirages de l'oméga"
 "quests.name.limit_breaker_holy","Mirages de l'oméga"

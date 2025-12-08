@@ -57,6 +57,7 @@
 "quests.name.hotm_quest1","Legendernes kro"
 "quests.name.iron","Bryd jern"
 "quests.name.kalevala","Kalevala"
+"quests.name.legendary_troop","Legendernes barakker"
 "quests.name.limit_breaker_dark","Omega-illusionerne"
 "quests.name.limit_breaker_fire","Omega-illusionerne"
 "quests.name.limit_breaker_holy","Omega-illusionerne"

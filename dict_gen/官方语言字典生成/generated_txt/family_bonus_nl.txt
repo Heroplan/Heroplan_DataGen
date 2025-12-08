@@ -29,10 +29,12 @@ De held krijgt {1MEMBERCHARGEFROMHEAL}/{2MEMBERSCHARGEFROMHEAL}/{3MEMBERSCHARGEF
 "familybonuses.description.long.build_charge_nidavellir_alt","De gesmolten kern wordt opgeladen elke keer als dit personage schade oploopt van normale aanvallen of speciale vaardigheden."
 "familybonuses.description.long.cast_defense_debuffs_back_to_enemies","Als een held een statuseffect ontvangt dat invloed heeft op zijn verdediging, is er {1MEMBERCHANCE}%/{2MEMBERSCHANCE}%/{3MEMBERSCHANCE}% kans dat het ontvangen effect op alle vijanden wordt toegepast."
 "familybonuses.description.long.champions_special_damage_power_modifier","+{1MEMBERMULTIPLIERPERCENT}%/+{2MEMBERSMULTIPLIERPERCENT}%/+{3MEMBERSMULTIPLIERPERCENT}% extra schade speciale vaardigheden."
+"familybonuses.description.long.chance_to_cleanse_all_on_received_special_damage_astral_demons.minordebuff","{1MEMBERCHANCE}/{2MEMBERSCHANCE}% kans om alle zuiverbare statusaandoeningen te zuiveren wanneer dit personage schade oploopt door een speciale vaardigheid."
 "familybonuses.description.long.chance_to_cleanse_on_received_special_damage_astral_demons.minordebuff","{1MEMBERCHANCE}/{2MEMBERSCHANCE}% kans om een willekeurig zuiverbare statusaandoening te zuiveren wanneer dit personage schade oploopt door een speciale vaardigheid."
 "familybonuses.description.long.cleanse_random_debuff_on_special_damage_received.minordebuff.onceperturn","{1MEMBERCHANCE}%/{2MEMBERSCHANCE}% kans om een willekeurig zuiverbare statusaandoening van alle bondgenoten te zuiveren wanneer dit personage schade oploopt door de speciale vaardigheid van een vijand. Dit effect kan maar één keer per beurt worden geactiveerd."
 "familybonuses.description.long.counter_attack_ninja","{CHANCE}%/{2MEMBERSCHANCE}%/{3MEMBERSCHANCE}% kans op tegenaanval met {MULTIPLIERPERCENT}%/{2MEMBERSMULTIPLIERPERCENT}%/{3MEMBERSMULTIPLIERPERCENT}% van de opgelopen schade."
 "familybonuses.description.long.counter_attack_ninja2","{CHANCE}%/{2MEMBERSCHANCE}%/{3MEMBERSCHANCE}% kans op tegenaanval met {MULTIPLIERPERCENT}%/{2MEMBERSMULTIPLIERPERCENT}%/{3MEMBERSMULTIPLIERPERCENT}% van de opgelopen schade."
+"familybonuses.description.long.counter_attack_titan_specials_titan_hunters.against_titan.specialskill.always","Tegenaanvallen met {1MEMBERMULTIPLIERPERCENT}%/{2MEMBERSMULTIPLIERPERCENT}%/{3MEMBERSMULTIPLIERPERCENT}% van de opgelopen schade door speciale vaardigheden van Titanen."
 "familybonuses.description.long.crit_multiplier_zodiac_dragon","{2MEMBERSMULTIPLIERPERCENTCHANGE}% kans op kritieke aanval."
 "familybonuses.description.long.critical_multiplier","{2MEMBERSMULTIPLIERPERCENTCHANGE}%/{3MEMBERSMULTIPLIERPERCENTCHANGE}%/{4MEMBERSMULTIPLIERPERCENTCHANGE}%/{5MEMBERSMULTIPLIERPERCENTCHANGE}% kans op kritieke aanval."
 "familybonuses.description.long.critical_multiplier_forsaken","{MULTIPLIERPERCENTCHANGE}%/{2MEMBERSMULTIPLIERPERCENTCHANGE}%/{3MEMBERSMULTIPLIERPERCENTCHANGE}% kans op kritieke aanval."
@@ -69,7 +71,9 @@ De krachtedelsteen doet elke beurt {FIXEDPOWER} schade aan een willekeurige vija
 Aan het eind van iedere beurt en wanneer de held schade lijdt, verliest deze held een beetje vluchtmomentum.
 Wanneer de speciale vaardigheid van de held wordt toegepast, krijgt de held vluchtmomentum.
 Tragere helden krijgen meer vluchtmomentum"
-"familybonuses.description.long.growth_mahayoddha","Aan het eind van elke beurt krijgen helden in de Mahayoddha-familie Groei: {1MEMBERATTACKINCREASE}/{2MEMBERSATTACKINCREASE}/{3MEMBERSATTACKINCREASE} aanvalskracht en {1MEMBERDEFENSEINCREASE}/{2MEMBERSDEFENSEINCREASE}/{3MEMBERSDEFENSEINCREASE} verdedigingskracht."
+"familybonuses.description.long.growth_mahayoddha","Aan het eind van elke beurt krijgen helden in de Mahayoddha-familie Groei: {1MEMBERATTACKINCREASE}/{2MEMBERSATTACKINCREASE}/{3MEMBERSATTACKINCREASE} aanvalskracht en {1MEMBERDEFENSEINCREASE}/{2MEMBERSDEFENSEINCREASE}/{3MEMBERSDEFENSEINCREASE} verdedigingskracht.
+Limieten voor aangepaste vaardigheidsscores:
+Min. {MINSTAT}% en max. {MAXSTAT}% van de oorspronkelijke waarde."
 "familybonuses.description.long.heal_multiplier","{2MEMBERSMULTIPLIERPERCENTCHANGE}%/{3MEMBERSMULTIPLIERPERCENTCHANGE}%/{4MEMBERSMULTIPLIERPERCENTCHANGE}%/{5MEMBERSMULTIPLIERPERCENTCHANGE}% genezing."
 "familybonuses.description.long.heal_multiplier_classic","{2MEMBERSMULTIPLIERPERCENTCHANGE}%/{3MEMBERSMULTIPLIERPERCENTCHANGE}%/{4MEMBERSMULTIPLIERPERCENTCHANGE}%/{5MEMBERSMULTIPLIERPERCENTCHANGE}% genezing."
 "familybonuses.description.long.heal_multiplier_hotm2020","{MULTIPLIERPERCENTCHANGE}%/{2MEMBERSMULTIPLIERPERCENTCHANGE}%/{3MEMBERSMULTIPLIERPERCENTCHANGE}% genezing."
@@ -133,6 +137,7 @@ De sluwe vosvolgeling heeft {FAMILIARDODGECHANCE}% kans om inkomende aanvallen t
 Wanneer de sluwe vosvolgeling ontwijkt, steelt deze de nieuwste verwijderbare oppepper van de aanvaller en geeft deze aan de eigenaar."
 "familybonuses.description.long.start_battle_with_fox_minion.fox_dodge","De sluwe vosvolgeling heeft {FAMILIARHEALTHPERCENT}% gezondheid en {FAMILIARATTACK}% aanvalskracht gekregen van de held. De sluwe vosvolgeling heeft {FAMILIARDODGECHANCE}% kans om inkomende aanvallen te ontwijken.
 Wanneer de sluwe vosvolgeling ontwijkt, steelt hij de nieuwste verwijderbare oppepper van de aanvaller en geeft hij deze aan de eigenaar."
+"familybonuses.description.long.start_battle_with_mana_titan_hunters.addmana.single.allies.titan.ubertitan","Krijgt aan het begin van het gevecht {1MEMBERMULTIPLIERPERCENT}%/{2MEMBERSMULTIPLIERPERCENT}%/{3MEMBERSMULTIPLIERPERCENT}% mana. Krijgt tegen Titanen {ALTERNATIVE1MEMBERMULTIPLIERPERCENT}%/{ALTERNATIVE2MEMBERSMULTIPLIERPERCENT}%/{ALTERNATIVE3MEMBERSMULTIPLIERPERCENT}% mana."
 "familybonuses.description.long.start_battle_with_mask_minion.mask_minion.2members_attack_buff_while_mask_minion.3members_debuff_shield_while_mask_minion","1 familielid: dit personage roept een maskervolgeling aan met {FAMILIARHEALTHPERCENT}% gezondheid en {FAMILIARATTACK}% aanvalskracht van dit personage.
 Aanvullende vaardigheid met 2 familieleden: Bij aanroep geeft de maskervolgeling de eigenaar {ATTACK2MEMBERS}% aanvalskracht wanneer de eigenaar een maskervolgeling heeft. Dit effect kan niet ongedaan worden gemaakt.
 Aanvullende vaardigheid met 3 familieleden: bij aanroep geeft de maskervolgeling de eigenaar immuniteit voor alle statusaandoeningen wanneer de eigenaar een maskervolgeling heeft. Dit effect kan niet ongedaan worden gemaakt."
@@ -173,10 +178,12 @@ Dit personage krijgt {CURRENTCHARGEFROMHEAL} nederigheid wanneer het directe gen
 "familybonuses.description.short.build_charge_nidavellir_alt","De gesmolten kern wordt opgeladen elke keer als dit personage schade oploopt van normale aanvallen of speciale vaardigheden."
 "familybonuses.description.short.cast_defense_debuffs_back_to_enemies","Als een statuseffect invloed heeft op de verdediging van deze held, is er {CHANCE}% kans om het ontvangen effect op alle vijanden toe te passen."
 "familybonuses.description.short.champions_special_damage_power_modifier","+{MULTIPLIERPERCENT}% aanvullende schade van speciale vaardigheid."
+"familybonuses.description.short.chance_to_cleanse_all_on_received_special_damage_astral_demons.minordebuff","{CHANCE}% kans om alle zuiverbare statusaandoeningen te zuiveren wanneer dit personage schade oploopt door een speciale vaardigheid"
 "familybonuses.description.short.chance_to_cleanse_on_received_special_damage_astral_demons.minordebuff","{CHANCE}% kans om een willekeurig zuiverbare statusaandoening te zuiveren wanneer dit personage schade oploopt door een speciale vaardigheid."
 "familybonuses.description.short.cleanse_random_debuff_on_special_damage_received.minordebuff.onceperturn","Als een vijand schade toebrengt met een speciale vaardigheid, is er een kans van {CHANCE}% dat dit personage een willekeurig zuiverbare statusaandoening verwijdert van alle bondgenoten. Dit effect kan maar één keer per beurt worden geactiveerd."
 "familybonuses.description.short.counter_attack_ninja","{CHANCE}% kans op tegenaanval met {MULTIPLIERPERCENT}% van de ontvangen schade."
 "familybonuses.description.short.counter_attack_ninja2","{CHANCE}% kans op tegenaanval met {MULTIPLIERPERCENT}% van de ontvangen schade."
+"familybonuses.description.short.counter_attack_titan_specials_titan_hunters.against_titan.specialskill.always","Tegenaanvallen met {MULTIPLIERPERCENT}% van de opgelopen schade door speciale vaardigheden van Titanen."
 "familybonuses.description.short.crit_multiplier_zodiac_dragon","Jaar van de Draak-bonus: {MULTIPLIERPERCENTCHANGE}% kans op kritieke aanval"
 "familybonuses.description.short.critical_multiplier","{MULTIPLIERPERCENTCHANGE}% kans op kritieke aanval"
 "familybonuses.description.short.critical_multiplier_forsaken","{MULTIPLIERPERCENTCHANGE}% kans op kritieke aanval"
@@ -266,6 +273,7 @@ Dit personage krijgt {CURRENTCHARGEFROMHEAL} nederigheid wanneer het directe gen
 "familybonuses.description.short.special_damage_multiplier_zodiac_rat","Jaar van de Rat-bonus: {MULTIPLIERPERCENTCHANGE}% kracht door speciale vaardigheid"
 "familybonuses.description.short.start_battle_with_fox_minion","Roept aan het begin van het gevecht {FAMILIARAMOUNT} sluwe vosvolgeling voor zichzelf aan. De sluwe vosvolgeling heeft 80% kans om inkomende aanvallen te ontwijken. Bij een geslaagde ontwijking, steelt deze de nieuwste verwijderbare oppepper van de aanvaller en geeft die aan de eigenaar."
 "familybonuses.description.short.start_battle_with_fox_minion.multiple_familiars","Roept aan het begin van het gevecht {FAMILIARAMOUNT} sluwe vosvolgelingen voor zichzelf aan. De sluwe vosvolgeling heeft 80% kans om inkomende aanvallen te ontwijken. Bij een geslaagde ontwijking, steelt deze de nieuwste verwijderbare oppepper van de aanvaller en geeft die aan de eigenaar."
+"familybonuses.description.short.start_battle_with_mana_titan_hunters.addmana.single.allies.titan.ubertitan","krijgt {MULTIPLIERPERCENT}% mana aan het begin van het gevecht."
 "familybonuses.description.short.start_battle_with_mask_minion","Roept aan het begin van het gevecht een maskervolgeling voor zichzelf aan."
 "familybonuses.description.short.start_battle_with_recruit_guard_mega_minion","Roept aan het begin van het gevecht een wachterrekruut-megavolgeling aan die {FAMILIARHEALTHPERCENT}% van de gezondheid en {FAMILIARATTACK}% van de aanvalskracht erft van dit personage."
 "familybonuses.description.short.status_effect_duration_increase","{CHANCE}% kans om de duur van statuseffecten met {FIXEDVALUE} te verlengen."
@@ -517,6 +525,8 @@ De Maanjaar-familie bevat verschillende maanjaardierenhelden. Elk maanjaardier g
 "herocard.family.title.tales1_baddies.short","Nachtmerries van Atlantis"
 "herocard.family.title.tales1_goodies","Verdedigers van Atlantis-familie"
 "herocard.family.title.tales1_goodies.short","Verdedigers van Atlantis"
+"herocard.family.title.titan_hunter","Titanenjagerfamilie"
+"herocard.family.title.titan_hunter.short","Titanenjager"
 "herocard.family.title.vanaheim","Vanaheim-rijk"
 "herocard.family.title.vanaheim.short","Vanaheim"
 "herocard.family.title.vegetable","Dappere groente-familie"

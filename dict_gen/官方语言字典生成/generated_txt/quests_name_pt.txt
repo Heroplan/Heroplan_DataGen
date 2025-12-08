@@ -57,6 +57,7 @@
 "quests.name.hotm_quest1","Taberna das Lendas"
 "quests.name.iron","Minere Ferro"
 "quests.name.kalevala","Kalevala"
+"quests.name.legendary_troop","Quartel das lendas"
 "quests.name.limit_breaker_dark","Miragens de Ômega"
 "quests.name.limit_breaker_fire","Miragens de Ômega"
 "quests.name.limit_breaker_holy","Miragens de Ômega"

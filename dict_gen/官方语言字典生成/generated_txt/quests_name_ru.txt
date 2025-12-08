@@ -57,6 +57,7 @@
 "quests.name.hotm_quest1","Таверна Легенд"
 "quests.name.iron","Добудьте железо"
 "quests.name.kalevala","Калевала"
+"quests.name.legendary_troop","Казармы легенд"
 "quests.name.limit_breaker_dark","Миражи Омеги"
 "quests.name.limit_breaker_fire","Миражи Омеги"
 "quests.name.limit_breaker_holy","Миражи Омеги"

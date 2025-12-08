@@ -57,6 +57,7 @@
 "quests.name.hotm_quest1","Tavern of Legends"
 "quests.name.iron","Mine Iron"
 "quests.name.kalevala","Kalevala"
+"quests.name.legendary_troop","Barracks of Legends"
 "quests.name.limit_breaker_dark","Mirages of Omega"
 "quests.name.limit_breaker_fire","Mirages of Omega"
 "quests.name.limit_breaker_holy","Mirages of Omega"

@@ -158,6 +158,8 @@
 "herocard.family.title.tales1_baddies.short","كوابيس أطلانطس"
 "herocard.family.title.tales1_goodies","عائلة المدافعين عن أطلانطس"
 "herocard.family.title.tales1_goodies.short","المدافعون عن أطلانطس"
+"herocard.family.title.titan_hunter","عائلة صائد العمالقة"
+"herocard.family.title.titan_hunter.short","صائد العمالقة"
 "herocard.family.title.vanaheim","عالم فاناهايم"
 "herocard.family.title.vanaheim.short","فاناهايم"
 "herocard.family.title.vegetable","عائلة الخضراوات الباسلة"

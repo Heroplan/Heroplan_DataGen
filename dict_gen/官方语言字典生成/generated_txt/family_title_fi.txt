@@ -158,6 +158,8 @@
 "herocard.family.title.tales1_baddies.short","Atlantiksen painajaiset"
 "herocard.family.title.tales1_goodies","Atlantiksen puolustajat -perhe"
 "herocard.family.title.tales1_goodies.short","Atlantiksen puolustajat"
+"herocard.family.title.titan_hunter","Titaaninmetsästäjäperhe"
+"herocard.family.title.titan_hunter.short","Titaaninmetsästäjä"
 "herocard.family.title.vanaheim","Vanaheimin valtakunta"
 "herocard.family.title.vanaheim.short","Vanaheim"
 "herocard.family.title.vegetable","Urhoollinen kasviperhe"

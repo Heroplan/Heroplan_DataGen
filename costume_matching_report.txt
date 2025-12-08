@@ -1,4 +1,4 @@
-✅ 成功匹配的服装 (487 / 0)
+✅ 成功匹配的服装 (488 / 0)
 ================================
 Name: Berden Costume1, Fancy Name: Adroit Archer
 Name: Hannah Costume1, Fancy Name: Adventurous Drover
@@ -206,6 +206,7 @@ Name: Krampus Costume1, Fancy Name: Holiday Prankster
 Name: Mother North Costume1, Fancy Name: Holiday Sweater Enthusiast
 Name: Isarnia Costume1, Fancy Name: Ice Witch of Glaceholm
 Name: Alasie Costume1, Fancy Name: Iceberg Champion
+Name: Xandrella costume1, Fancy Name: Idol of Elemental Creations
 Name: Ukkonen Costume1, Fancy Name: Infernal Kin of Vainamoinen
 Name: Guan Yu Costume1, Fancy Name: Inferno General
 Name: Griffin Costume1, Fancy Name: Invisible Priest

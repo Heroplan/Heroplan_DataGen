@@ -57,6 +57,7 @@
 "quests.name.hotm_quest1","Legendojen taverna"
 "quests.name.iron","Louhi rautaa"
 "quests.name.kalevala","Kalevala"
+"quests.name.legendary_troop","Legendojen kasarmi"
 "quests.name.limit_breaker_dark","Omegan kangastukset"
 "quests.name.limit_breaker_fire","Omegan kangastukset"
 "quests.name.limit_breaker_holy","Omegan kangastukset"

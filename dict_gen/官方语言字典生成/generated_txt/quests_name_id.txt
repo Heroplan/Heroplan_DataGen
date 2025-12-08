@@ -57,6 +57,7 @@
 "quests.name.hotm_quest1","Kedai Minum Legenda"
 "quests.name.iron","Tambang Besi"
 "quests.name.kalevala","Kalevala"
+"quests.name.legendary_troop","Barak Legenda"
 "quests.name.limit_breaker_dark","Fatamorgana Omega"
 "quests.name.limit_breaker_fire","Fatamorgana Omega"
 "quests.name.limit_breaker_holy","Fatamorgana Omega"

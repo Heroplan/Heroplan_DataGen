@@ -29,10 +29,12 @@
 "familybonuses.description.long.build_charge_nidavellir_alt","每次此角色受到普通攻擊或特殊技能的傷害時，熔融核心都會暴增。"
 "familybonuses.description.long.cast_defense_debuffs_back_to_enemies","當此英雄受到影響防禦的狀態異常時，有{1MEMBERCHANCE}%/{2MEMBERSCHANCE}%/{3MEMBERSCHANCE}%機率對所有敵人施放所受到的異常。"
 "familybonuses.description.long.champions_special_damage_power_modifier","6+{1MEMBERMULTIPLIERPERCENT}%/+{2MEMBERSMULTIPLIERPERCENT}%/+{3MEMBERSMULTIPLIERPERCENT}%額外特殊技能傷害。"
+"familybonuses.description.long.chance_to_cleanse_all_on_received_special_damage_astral_demons.minordebuff","當此角色受特殊技能傷害時，有{1MEMBERCHANCE}/{2MEMBERSCHANCE}%機率可以淨化此角色的所有狀態異常。"
 "familybonuses.description.long.chance_to_cleanse_on_received_special_damage_astral_demons.minordebuff","當此角色受特殊技能傷害時，有{1MEMBERCHANCE}/{2MEMBERSCHANCE}%機率可以隨機淨化此角色的可淨化狀態異常。"
 "familybonuses.description.long.cleanse_random_debuff_on_special_damage_received.minordebuff.onceperturn","當此角色受到敵人特殊技能的傷害時，有{1MEMBERCHANCE}%/{2MEMBERSCHANCE}%機率可以隨機淨化所有盟友的可淨化狀態異常。此效果每回合僅能啟動一次。"
 "familybonuses.description.long.counter_attack_ninja","{CHANCE}%/{2MEMBERSCHANCE}%/{3MEMBERSCHANCE}%的機率能以所受傷害的{MULTIPLIERPERCENT}%/{2MEMBERSMULTIPLIERPERCENT}%/{3MEMBERSMULTIPLIERPERCENT}%進行反擊。"
 "familybonuses.description.long.counter_attack_ninja2","{CHANCE}%/{2MEMBERSCHANCE}%/{3MEMBERSCHANCE}%的機率能以所受傷害的{MULTIPLIERPERCENT}%/{2MEMBERSMULTIPLIERPERCENT}%/{3MEMBERSMULTIPLIERPERCENT}%進行反擊。"
+"familybonuses.description.long.counter_attack_titan_specials_titan_hunters.against_titan.specialskill.always","以所受的泰坦特殊技能傷害的{1MEMBERMULTIPLIERPERCENT}%/{2MEMBERSMULTIPLIERPERCENT}%/{3MEMBERSMULTIPLIERPERCENT}%進行反擊。"
 "familybonuses.description.long.crit_multiplier_zodiac_dragon","{2MEMBERSMULTIPLIERPERCENTCHANGE}%暴擊率。"
 "familybonuses.description.long.critical_multiplier","{2MEMBERSMULTIPLIERPERCENTCHANGE}%/{3MEMBERSMULTIPLIERPERCENTCHANGE}%/{4MEMBERSMULTIPLIERPERCENTCHANGE}%/{5MEMBERSMULTIPLIERPERCENTCHANGE}%暴擊率。"
 "familybonuses.description.long.critical_multiplier_forsaken","{MULTIPLIERPERCENTCHANGE}%/{2MEMBERSMULTIPLIERPERCENTCHANGE}%/{3MEMBERSMULTIPLIERPERCENTCHANGE}%暴擊率。"
@@ -70,7 +72,9 @@
 在每回合結束和受到傷害時，英雄會喪失一小部分的飛行動量。
 英雄會在施放特殊技能時獲得飛行動量。
 速度較慢的英雄獲得的飛行動量較多"
-"familybonuses.description.long.growth_mahayoddha","每回合結束時，瑪哈悠達家族的英雄獲得成長：{1MEMBERATTACKINCREASE}/{2MEMBERSATTACKINCREASE}/{3MEMBERSATTACKINCREASE}點攻擊和 {1MEMBERDEFENSEINCREASE}/{2MEMBERSDEFENSEINCREASE}/{3MEMBERSDEFENSEINCREASE}點防禦。"
+"familybonuses.description.long.growth_mahayoddha","每回合結束時，瑪哈悠達家族的英雄獲得成長：{1MEMBERATTACKINCREASE}/{2MEMBERSATTACKINCREASE}/{3MEMBERSATTACKINCREASE}點攻擊和 {1MEMBERDEFENSEINCREASE}/{2MEMBERSDEFENSEINCREASE}/{3MEMBERSDEFENSEINCREASE}點防禦。
+已修改的能力限制：
+其原始數值的最低{MINSTAT}%和最高{MAXSTAT}%。"
 "familybonuses.description.long.heal_multiplier","{2MEMBERSMULTIPLIERPERCENTCHANGE}%/{3MEMBERSMULTIPLIERPERCENTCHANGE}%/{4MEMBERSMULTIPLIERPERCENTCHANGE}%/{5MEMBERSMULTIPLIERPERCENTCHANGE}%治療。"
 "familybonuses.description.long.heal_multiplier_classic","{2MEMBERSMULTIPLIERPERCENTCHANGE}%/{3MEMBERSMULTIPLIERPERCENTCHANGE}%/{4MEMBERSMULTIPLIERPERCENTCHANGE}%/{5MEMBERSMULTIPLIERPERCENTCHANGE}%治療。"
 "familybonuses.description.long.heal_multiplier_hotm2020","{MULTIPLIERPERCENTCHANGE}%/{2MEMBERSMULTIPLIERPERCENTCHANGE}%/{3MEMBERSMULTIPLIERPERCENTCHANGE}%治療。"
@@ -134,6 +138,7 @@
 當狡猾的狐狸小兵閃避時，會向攻擊者竊取最新的可驅散增益，並給予主人。"
 "familybonuses.description.long.start_battle_with_fox_minion.fox_dodge","狡猾的狐狸小兵具有從英雄繼承來的{FAMILIARHEALTHPERCENT}%生命和{FAMILIARATTACK}%攻擊。狡猾的狐狸小兵有{FAMILIARDODGECHANCE}%的機率閃避來襲的攻擊。
 當狡猾的狐狸小兵閃避時，會向攻擊者竊取最新的可驅散增益並給予主人。"
+"familybonuses.description.long.start_battle_with_mana_titan_hunters.addmana.single.allies.titan.ubertitan","戰鬥開始時，獲得{1MEMBERMULTIPLIERPERCENT}%/{2MEMBERSMULTIPLIERPERCENT}%/{3MEMBERSMULTIPLIERPERCENT}%法力。對上泰坦時，獲得{ALTERNATIVE1MEMBERMULTIPLIERPERCENT}%/{ALTERNATIVE2MEMBERSMULTIPLIERPERCENT}%/{ALTERNATIVE3MEMBERSMULTIPLIERPERCENT}%法力。"
 "familybonuses.description.long.start_battle_with_mask_minion.mask_minion.2members_attack_buff_while_mask_minion.3members_debuff_shield_while_mask_minion","1位家族成員：此角色會召喚一名假面小兵，繼承此角色{FAMILIARHEALTHPERCENT}%的生命值和{FAMILIARATTACK}%攻擊。
 2位家族成員之額外技能：當主人擁有假面小兵時，召喚假面小兵可為主人提供{ATTACK2MEMBERS}%攻擊。此效果無法驅散。
 3位家族成員之額外技能：當主人擁有假面小兵時，召喚假面小兵為主人提供所有狀態異常的免疫。此效果無法驅散。"
@@ -175,10 +180,12 @@
 "familybonuses.description.short.build_charge_nidavellir_alt","每次此角色受到普通攻擊或特殊技能的傷害時，熔融核心都會暴增。"
 "familybonuses.description.short.cast_defense_debuffs_back_to_enemies","當此英雄受到影響防禦的狀態異常時，有{CHANCE}%機率對所有敵人施放所受到的異常。"
 "familybonuses.description.short.champions_special_damage_power_modifier","+{MULTIPLIERPERCENT}%額外特殊技能傷害。"
+"familybonuses.description.short.chance_to_cleanse_all_on_received_special_damage_astral_demons.minordebuff","當此角色受特殊技能傷害時，有{CHANCE}%機率可以淨化此角色的所有可淨化狀態異常"
 "familybonuses.description.short.chance_to_cleanse_on_received_special_damage_astral_demons.minordebuff","當此角色受特殊技能傷害時，有{CHANCE}%機率可以隨機淨化此角色的可淨化狀態異常。"
 "familybonuses.description.short.cleanse_random_debuff_on_special_damage_received.minordebuff.onceperturn","當敵人對此角色造成特殊技能傷害時，此角色有{CHANCE}%機率隨機淨化所有盟友的可淨化狀態異常。此效果每回合僅能啟動一次。"
 "familybonuses.description.short.counter_attack_ninja","{CHANCE}%的機率能以所受傷害的{MULTIPLIERPERCENT}%進行反擊。"
 "familybonuses.description.short.counter_attack_ninja2","{CHANCE}%的機率能以所受傷害的{MULTIPLIERPERCENT}%進行反擊。"
+"familybonuses.description.short.counter_attack_titan_specials_titan_hunters.against_titan.specialskill.always","以所受的泰坦特殊技能傷害的{MULTIPLIERPERCENT}%進行反擊。"
 "familybonuses.description.short.crit_multiplier_zodiac_dragon","農曆龍年加成：{MULTIPLIERPERCENTCHANGE}%暴擊率"
 "familybonuses.description.short.critical_multiplier","{MULTIPLIERPERCENTCHANGE}%暴擊率"
 "familybonuses.description.short.critical_multiplier_forsaken","{MULTIPLIERPERCENTCHANGE}%暴擊率"
@@ -268,6 +275,7 @@
 "familybonuses.description.short.special_damage_multiplier_zodiac_rat","農曆鼠年加成：{MULTIPLIERPERCENTCHANGE}%特殊技能力量"
 "familybonuses.description.short.start_battle_with_fox_minion","在戰鬥開始時，為自身召喚{FAMILIARAMOUNT}個狡猾的狐狸小兵。狡猾的狐狸小兵有80%的機率閃避來襲攻擊。成功閃避攻擊時，會從攻擊者身上竊取其最新的可驅散增益，並將其交給主人。"
 "familybonuses.description.short.start_battle_with_fox_minion.multiple_familiars","在戰鬥開始時，為自身召喚{FAMILIARAMOUNT}個狡猾的狐狸小兵。狡猾的狐狸小兵有80%的機率閃避來襲攻擊。成功閃避攻擊時，會從攻擊者身上竊取其最新的可驅散增益，並將其交給主人。"
+"familybonuses.description.short.start_battle_with_mana_titan_hunters.addmana.single.allies.titan.ubertitan","戰鬥開始時，獲得{MULTIPLIERPERCENT}%法力。"
 "familybonuses.description.short.start_battle_with_mask_minion","戰鬥開始時，為自己召喚一名假面小兵。"
 "familybonuses.description.short.start_battle_with_recruit_guard_mega_minion","戰鬥開始時，召喚從此角色繼承{FAMILIARHEALTHPERCENT}%生命值和{FAMILIARATTACK}%攻擊力的新兵守衛超級小兵。"
 "familybonuses.description.short.status_effect_duration_increase","{CHANCE}%機率提升施放狀態效果的持續時間，增加{FIXEDVALUE}。"
@@ -519,6 +527,8 @@
 "herocard.family.title.tales1_baddies.short","亞特蘭蒂斯的夢魘"
 "herocard.family.title.tales1_goodies","亞特蘭蒂斯家族衛士"
 "herocard.family.title.tales1_goodies.short","亞特蘭蒂斯衛士"
+"herocard.family.title.titan_hunter","泰坦獵人家族"
+"herocard.family.title.titan_hunter.short","泰坦獵人"
 "herocard.family.title.vanaheim","華納海姆王國"
 "herocard.family.title.vanaheim.short","華納海姆"
 "herocard.family.title.vegetable","英勇蔬菜家族"

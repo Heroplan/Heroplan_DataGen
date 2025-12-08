@@ -5508,7 +5508,7 @@
         },
         "versionSafe": true,
         "origin": "",
-        "canBeReceivedDate": "2200-01-01 07:00:00",
+        "canBeReceivedDate": "2025-12-27 07:00:00",
         "canBeAscendedToDate": "2200-01-01 07:00:00"
       },
       {
@@ -6078,7 +6078,7 @@
         },
         "versionSafe": true,
         "origin": "",
-        "canBeReceivedDate": "2200-01-01 07:00:00",
+        "canBeReceivedDate": "2025-12-27 07:00:00",
         "canBeAscendedToDate": "2200-01-01 07:00:00"
       },
       {
@@ -6648,7 +6648,7 @@
         },
         "versionSafe": true,
         "origin": "",
-        "canBeReceivedDate": "2200-01-01 07:00:00",
+        "canBeReceivedDate": "2025-12-27 07:00:00",
         "canBeAscendedToDate": "2200-01-01 07:00:00"
       },
       {
@@ -7218,7 +7218,7 @@
         },
         "versionSafe": true,
         "origin": "",
-        "canBeReceivedDate": "2200-01-01 07:00:00",
+        "canBeReceivedDate": "2025-12-27 07:00:00",
         "canBeAscendedToDate": "2200-01-01 07:00:00"
       },
       {
@@ -7788,7 +7788,7 @@
         },
         "versionSafe": true,
         "origin": "",
-        "canBeReceivedDate": "2200-01-01 07:00:00",
+        "canBeReceivedDate": "2025-12-27 07:00:00",
         "canBeAscendedToDate": "2200-01-01 07:00:00"
       }
     ],
@@ -7988,6 +7988,20 @@
           "electrified_claws"
         ],
         "sourceHeroId": "dragon_dreamcatcher",
+        "mode": "Dragon"
+      },
+      {
+        "id": "dragon_dreamcatcher_ultimateboss",
+        "element": "Blue",
+        "baseHealth": 8000,
+        "baseAttack": 4500,
+        "baseDefense": 1500,
+        "manaSpeedId": "very_fast",
+        "type": "UltimateBoss",
+        "turnsToAttackPerMil": 1000,
+        "specialIds": [
+          "electrified_claws_ultimate_boss"
+        ],
         "mode": "Dragon"
       },
       {
@@ -32853,6 +32867,11 @@
         "buff": "MinorBuff"
       },
       {
+        "statusEffect": "SoulConnection",
+        "id": "soul_connection_ailment",
+        "buff": "MinorDebuff"
+      },
+      {
         "statusEffect": "Gamble",
         "id": "gamble",
         "buff": "MinorBuff",
@@ -32911,6 +32930,13 @@
         "id": "mana_regen",
         "buff": "MinorBuff",
         "manaGenerationMultiplierPerMil": 1100,
+        "manaGenerationMultiplierIncrementPerLevelPerMil": 20
+      },
+      {
+        "statusEffect": "ManaGenerationModifier",
+        "id": "mana_regen_cerissa1",
+        "buff": "MinorBuff",
+        "manaGenerationMultiplierPerMil": 1160,
         "manaGenerationMultiplierIncrementPerLevelPerMil": 20
       },
       {
@@ -33151,6 +33177,13 @@
       {
         "statusEffect": "PurpleDefenseModifier",
         "id": "barrier_dark_low",
+        "buff": "MinorBuff",
+        "defenseMultiplierPerMil": 1400,
+        "defenseMultiplierIncrementPerLevelPerMil": 20
+      },
+      {
+        "statusEffect": "PurpleDefenseModifier",
+        "id": "barrier_dark_low_costume_voluptas",
         "buff": "MinorBuff",
         "defenseMultiplierPerMil": 1400,
         "defenseMultiplierIncrementPerLevelPerMil": 20
@@ -34160,6 +34193,30 @@
       },
       {
         "statusEffect": "AddStatusEffectOnRemoval",
+        "id": "add_paralysis_on_removal_wilcox",
+        "buff": "MinorDebuff",
+        "removalEffects": [
+          {
+            "effectType": "None",
+            "effectTargetType": "Single",
+            "sideAffected": "Allies",
+            "effectTriggerRemovalReasons": [
+              "Expiration"
+            ],
+            "excludeEffectTriggerRemovalReasons": [],
+            "statusEffects": [
+              {
+                "id": "paralysis_wilcox",
+                "sideAffected": "Allies",
+                "statusTargetType": "Single",
+                "turns": 2
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "statusEffect": "AddStatusEffectOnRemoval",
         "id": "add_paralysis_on_removal_merith",
         "buff": "MinorDebuff",
         "removalEffects": [
@@ -34775,8 +34832,8 @@
         "statusEffect": "FixedHealthRecovery",
         "id": "hp_recovery_erudius",
         "buff": "MinorBuff",
-        "healthPoints": 1500,
-        "healthPointsIncrementPerLevel": 100
+        "healthPoints": 660,
+        "healthPointsIncrementPerLevel": 60
       },
       {
         "statusEffect": "FixedHealthRecovery",
@@ -37844,6 +37901,13 @@
       },
       {
         "statusEffect": "DebuffDamageModifier",
+        "id": "debuff_damage_increase_telonius_costume",
+        "buff": "MinorDebuff",
+        "damageMultiplierPerMil": 1410,
+        "damageMultiplierIncrementPerLevelPerMil": 20
+      },
+      {
+        "statusEffect": "DebuffDamageModifier",
         "id": "debuff_damage_increase_lennart",
         "buff": "MinorDebuff",
         "damageMultiplierPerMil": 1260,
@@ -38762,6 +38826,14 @@
         "fixedPowerIncrementPerLevel": 20
       },
       {
+        "statusEffect": "ResistHealing",
+        "id": "resist_healing_with_damage_turundh",
+        "buff": "MinorDebuff",
+        "effectOnResistedHealing": "Damage",
+        "fixedPower": 110,
+        "fixedPowerIncrementPerLevel": 20
+      },
+      {
         "statusEffect": "Burn",
         "id": "burn_with_absorb_healing_azlar_costume",
         "buff": "MinorDebuff",
@@ -39267,6 +39339,28 @@
         "maxRelativeDamageTakenPerMil": 500
       },
       {
+        "statusEffect": "BuildUpDamageOnRemoval",
+        "id": "buildup_damage_on_removal_gitnib",
+        "buff": "MajorBuff",
+        "removalEffects": [
+          {
+            "effectType": "Damage",
+            "effectTargetType": "All",
+            "sideAffected": "Enemies",
+            "effectTriggerRemovalReasons": [
+              "Expiration",
+              "Death"
+            ],
+            "excludeEffectTriggerRemovalReasons": [],
+            "fixedPower": 490,
+            "fixedPowerIncrementPerLevel": 30
+          }
+        ],
+        "maxAdditionalFixedDamage": 490,
+        "maxAdditionalFixedDamageIncrementPerLevel": 30,
+        "maxRelativeDamageTakenPerMil": 500
+      },
+      {
         "statusEffect": "Burn",
         "id": "burn_doxan",
         "buff": "MinorDebuff",
@@ -39384,6 +39478,13 @@
         "id": "blind_akilius",
         "buff": "MinorDebuff",
         "accuracyIncrementPerMil": 65226,
+        "accuracyIncrementPerLevelPerMil": 236
+      },
+      {
+        "statusEffect": "AccuracyModifier",
+        "id": "blind_gilda",
+        "buff": "MinorDebuff",
+        "accuracyIncrementPerMil": 65326,
         "accuracyIncrementPerLevelPerMil": 236
       },
       {
@@ -40977,6 +41078,13 @@
       },
       {
         "statusEffect": "CounterAttack",
+        "id": "counterattack_gitnib",
+        "buff": "MinorBuff",
+        "damageDeflectionPerMil": 650,
+        "damageDeflectionPerLevelPerMil": 50
+      },
+      {
+        "statusEffect": "CounterAttack",
         "id": "counterattack_lucas",
         "buff": "MinorBuff",
         "damageDeflectionPerMil": 550,
@@ -41766,6 +41874,13 @@
         "sharedDamageMultiplierIncrementPerLevelPerMil": 20
       },
       {
+        "statusEffect": "PainEmpathy",
+        "id": "pain_empathy_vernon",
+        "buff": "MinorDebuff",
+        "sharedDamageMultiplierPerMil": 360,
+        "sharedDamageMultiplierIncrementPerLevelPerMil": 20
+      },
+      {
         "statusEffect": "DefenseModifier",
         "id": "defense_debuff_torben",
         "buff": "MinorDebuff",
@@ -42548,51 +42663,6 @@
         "accuracyIncrementPerLevelPerMil": 236
       },
       {
-        "statusEffect": "DynamicAttackModifier",
-        "id": "chess_dynamic_attack_modifier_elite",
-        "buff": "None",
-        "attackMultiplierPerMil": 1600,
-        "attackMultiplierIncrementPerLevelPerMil": 255,
-        "typeOnBuff": "PermanentBuff",
-        "typeOnDebuff": "PermanentDebuff"
-      },
-      {
-        "statusEffect": "DynamicAttackModifier",
-        "id": "chess_dynamic_attack_modifier_royalty",
-        "buff": "None",
-        "attackMultiplierPerMil": 2000,
-        "attackMultiplierIncrementPerLevelPerMil": 255,
-        "typeOnBuff": "PermanentBuff",
-        "typeOnDebuff": "PermanentDebuff"
-      },
-      {
-        "statusEffect": "DynamicDefenseModifier",
-        "id": "chess_dynamic_defense_modifier_elite",
-        "buff": "None",
-        "defenseMultiplierPerMil": 1300,
-        "defenseMultiplierIncrementPerLevelPerMil": 255,
-        "typeOnBuff": "PermanentBuff",
-        "typeOnDebuff": "PermanentDebuff"
-      },
-      {
-        "statusEffect": "DynamicDefenseModifier",
-        "id": "chess_dynamic_defense_modifier_royalty",
-        "buff": "None",
-        "defenseMultiplierPerMil": 1600,
-        "defenseMultiplierIncrementPerLevelPerMil": 255,
-        "typeOnBuff": "PermanentBuff",
-        "typeOnDebuff": "PermanentDebuff"
-      },
-      {
-        "statusEffect": "DynamicAttackModifier",
-        "id": "chess_dynamic_attack_modifier_player",
-        "buff": "None",
-        "attackMultiplierPerMil": 1000,
-        "attackMultiplierIncrementPerLevelPerMil": 100,
-        "typeOnBuff": "PermanentBuff",
-        "typeOnDebuff": "PermanentDebuff"
-      },
-      {
         "statusEffect": "ReceivedDamageModifier",
         "id": "received_damage_increase_eros",
         "buff": "MinorDebuff",
@@ -43032,13 +43102,6 @@
         "fixedEffectPowerIncrementPerLevel": 20
       },
       {
-        "statusEffect": "ManaGenerationModifier",
-        "id": "mana_generation_champions_family",
-        "buff": "MinorBuff",
-        "manaGenerationMultiplierPerMil": 1300,
-        "manaGenerationMultiplierIncrementPerLevelPerMil": 0
-      },
-      {
         "statusEffect": "Poison",
         "id": "poison_costume_passive",
         "buff": "MinorDebuff",
@@ -43070,6 +43133,13 @@
         "id": "stacking_defense_firmin",
         "buff": "StackMinorBuff",
         "defenseMultiplierPerMil": 1130,
+        "defenseMultiplierIncrementPerLevelPerMil": 10
+      },
+      {
+        "statusEffect": "StackingDefenseModifier",
+        "id": "stacking_defense_erudius",
+        "buff": "StackMinorBuff",
+        "defenseMultiplierPerMil": 1110,
         "defenseMultiplierIncrementPerLevelPerMil": 10
       },
       {
@@ -43473,6 +43543,11 @@
       {
         "statusEffect": "ReduceMaxHealthOnHealthBoost",
         "id": "reduce_max_health_on_health_boost_nogu",
+        "buff": "MinorDebuff"
+      },
+      {
+        "statusEffect": "ReduceMaxHealthOnHealthBoost",
+        "id": "reduce_max_health_on_health_boost_lempi",
         "buff": "MinorDebuff"
       },
       {
@@ -44452,6 +44527,17 @@
       },
       {
         "statusEffect": "Paralysis",
+        "id": "paralysis_wilcox",
+        "buff": "MajorDebuff",
+        "excludedMonsterCategories": [
+          "Boss",
+          "Titan"
+        ],
+        "receivedDamageMultiplierPerMil": 1500,
+        "receivedDamageMultiplierIncrementPerLevelPerMil": 0
+      },
+      {
+        "statusEffect": "Paralysis",
         "id": "paralysis_merith",
         "buff": "MajorDebuff",
         "excludedMonsterCategories": [
@@ -44983,6 +45069,13 @@
       },
       {
         "statusEffect": "AssistSkillAccuracyModifier",
+        "id": "dragon_support_skill_accuracy_debuff_epic",
+        "buff": "MinorDebuff",
+        "accuracyIncrementPerMil": 241,
+        "accuracyIncrementPerLevelPerMil": 241
+      },
+      {
+        "statusEffect": "AssistSkillAccuracyModifier",
         "id": "dragon_support_skill_accuracy_debuff_rare",
         "buff": "MinorDebuff",
         "accuracyIncrementPerMil": 246,
@@ -44994,6 +45087,13 @@
         "buff": "MinorDebuff",
         "healMultiplierPerMil": 970,
         "healMultiplierPerLevelPerMil": 226
+      },
+      {
+        "statusEffect": "AssistSkillHealMultiplier",
+        "id": "dragon_support_skill_healing_reduction_debuff_rare",
+        "buff": "MinorDebuff",
+        "healMultiplierPerMil": 990,
+        "healMultiplierPerLevelPerMil": 246
       },
       {
         "statusEffect": "AssistSkillManaGenerationModifier",
@@ -45183,6 +45283,13 @@
         "healMultiplierPerMil": 940,
         "healMultiplierPerLevelPerMil": 246,
         "minorEffectMultiplierPerMil": 2000
+      },
+      {
+        "statusEffect": "HealMultiplier",
+        "id": "wound_rangifer",
+        "buff": "MinorDebuff",
+        "healMultiplierPerMil": 480,
+        "healMultiplierPerLevelPerMil": 236
       },
       {
         "statusEffect": "NormalAttackReceivedDamageModifier",
@@ -46454,6 +46561,10 @@
         "statusEffect": "TransformHero",
         "id": "gwendoline_changed_appearance",
         "buff": "MajorBuff",
+        "excludedMonsterCategories": [
+          "Boss",
+          "Titan"
+        ],
         "appearanceHeroIdForPortrait": "shadow_monster_hero",
         "specialId": "eternal_bond",
         "manaSpeedId": "very_fast",
@@ -46572,6 +46683,18 @@
         "id": "stoneskin_burton",
         "buff": "MajorBuff",
         "maxActivationCount": 5
+      },
+      {
+        "statusEffect": "Stone",
+        "id": "stoneskin_laurent1",
+        "buff": "MajorBuff",
+        "maxActivationCount": 5
+      },
+      {
+        "statusEffect": "Stone",
+        "id": "stoneskin_laurent2",
+        "buff": "MajorBuff",
+        "maxActivationCount": 3
       },
       {
         "statusEffect": "UnderwaterMagmaCube",
@@ -46893,6 +47016,13 @@
         "buff": "MinorDebuff",
         "attackModifier": 63226,
         "attackModifierIncrementPerLevel": 65326
+      },
+      {
+        "statusEffect": "FixedAttackModifier",
+        "id": "stun_fixed_gonthrox",
+        "buff": "MinorDebuff",
+        "attackModifier": 63116,
+        "attackModifierIncrementPerLevel": 65316
       },
       {
         "statusEffect": "Burn",
@@ -48647,6 +48777,20 @@
         "receivedDamageMultiplierIncrementPerLevelPerMil": 0
       },
       {
+        "statusEffect": "StackingReceivedDamageModifier",
+        "id": "stacking_received_damage_reduction_cerissa1",
+        "buff": "StackMinorBuff",
+        "receivedDamageMultiplierPerMil": 910,
+        "receivedDamageMultiplierIncrementPerLevelPerMil": 0
+      },
+      {
+        "statusEffect": "StackingReceivedDamageModifier",
+        "id": "stacking_received_damage_reduction_cerissa2",
+        "buff": "StackMinorBuff",
+        "receivedDamageMultiplierPerMil": 930,
+        "receivedDamageMultiplierIncrementPerLevelPerMil": 0
+      },
+      {
         "statusEffect": "ResistCleanseFromSpecial",
         "id": "resist_cleanse_from_special_while_bone_trap_parasite_amund",
         "buff": "MinorDebuff",
@@ -49328,6 +49472,15 @@
         "fixedDamagePerTurn": 650
       },
       {
+        "statusEffect": "Frost",
+        "id": "frost_chilling_mist_3",
+        "buff": "MinorDebuff",
+        "removalTrigger": "HealFromSpecialReceived",
+        "damageMultiplierPerMil": 0,
+        "damageMultiplierIncrementPerLevelPerMil": 0,
+        "fixedDamagePerTurn": 800
+      },
+      {
         "statusEffect": "ManaGenerationModifier",
         "id": "mana_regen_reduction_slimgo",
         "buff": "MinorDebuff",
@@ -49946,6 +50099,13 @@
         "damageMultiplierIncrementPerLevelPerMil": 3
       },
       {
+        "statusEffect": "Poison",
+        "id": "poison_sartana_stylish",
+        "buff": "MinorDebuff",
+        "damageMultiplierPerMil": 160,
+        "damageMultiplierIncrementPerLevelPerMil": 3
+      },
+      {
         "statusEffect": "HealMultiplier",
         "id": "reduce_healing_hogne",
         "buff": "MinorDebuff",
@@ -49957,6 +50117,13 @@
         "id": "stun_richard_glass",
         "buff": "MinorDebuff",
         "attackMultiplierPerMil": 840,
+        "attackMultiplierIncrementPerLevelPerMil": 236
+      },
+      {
+        "statusEffect": "AttackModifier",
+        "id": "stun_richard_stylish",
+        "buff": "MinorDebuff",
+        "attackMultiplierPerMil": 820,
         "attackMultiplierIncrementPerLevelPerMil": 236
       },
       {
@@ -50002,10 +50169,24 @@
         "damageMultiplierIncrementPerLevelPerMil": 10
       },
       {
+        "statusEffect": "Burn",
+        "id": "burn_azlar_stylish",
+        "buff": "MinorDebuff",
+        "damageMultiplierPerMil": 100,
+        "damageMultiplierIncrementPerLevelPerMil": 10
+      },
+      {
         "statusEffect": "AttackModifier",
         "id": "attack_buff_boldtusk_glass",
         "buff": "MinorBuff",
         "attackMultiplierPerMil": 1380,
+        "attackMultiplierIncrementPerLevelPerMil": 10
+      },
+      {
+        "statusEffect": "AttackModifier",
+        "id": "attack_buff_boldtusk_stylish",
+        "buff": "MinorBuff",
+        "attackMultiplierPerMil": 1390,
         "attackMultiplierIncrementPerLevelPerMil": 10
       },
       {
@@ -50016,10 +50197,24 @@
         "defenseMultiplierIncrementPerLevelPerMil": 246
       },
       {
+        "statusEffect": "DefenseModifier",
+        "id": "brittle_stylish",
+        "buff": "MinorDebuff",
+        "defenseMultiplierPerMil": 750,
+        "defenseMultiplierIncrementPerLevelPerMil": 246
+      },
+      {
         "statusEffect": "CounterAttack",
         "id": "counterattack_obakan_glass",
         "buff": "MinorBuff",
         "damageDeflectionPerMil": 850,
+        "damageDeflectionPerLevelPerMil": 50
+      },
+      {
+        "statusEffect": "CounterAttack",
+        "id": "counterattack_obakan_stylish",
+        "buff": "MinorBuff",
+        "damageDeflectionPerMil": 950,
         "damageDeflectionPerLevelPerMil": 50
       },
       {
@@ -50030,10 +50225,25 @@
         "defenseMultiplierIncrementPerLevelPerMil": 20
       },
       {
+        "statusEffect": "DefenseModifier",
+        "id": "basic_defense_vivica_stylish",
+        "buff": "MinorBuff",
+        "defenseMultiplierPerMil": 1470,
+        "defenseMultiplierIncrementPerLevelPerMil": 20
+      },
+      {
         "statusEffect": "Burn",
         "id": "burn_glass",
         "buff": "MinorDebuff",
         "damageMultiplierPerMil": 80,
+        "damageMultiplierIncrementPerLevelPerMil": 0,
+        "strongAttackMultiplierIncrementPerMil": 50
+      },
+      {
+        "statusEffect": "Burn",
+        "id": "burn_stylish",
+        "buff": "MinorDebuff",
+        "damageMultiplierPerMil": 90,
         "damageMultiplierIncrementPerLevelPerMil": 0,
         "strongAttackMultiplierIncrementPerMil": 50
       },
@@ -50072,6 +50282,42 @@
             "effectType": "HealthBoost",
             "fixedPower": 175,
             "fixedPowerIncrementPerLevel": 25
+          }
+        ],
+        "activationChancePerMil": 1000,
+        "effectActivationTypes": [
+          "AllySpecial"
+        ]
+      },
+      {
+        "statusEffect": "HealStatusEffectSkill",
+        "id": "health_boost_caster_nearby_on_ally_special_cerissa1",
+        "buff": "MinorBuff",
+        "directEffects": [
+          {
+            "sideAffected": "Allies",
+            "typeOfTarget": "NearToTarget",
+            "effectType": "HealthBoost",
+            "fixedPower": 320,
+            "fixedPowerIncrementPerLevel": 40
+          }
+        ],
+        "activationChancePerMil": 1000,
+        "effectActivationTypes": [
+          "AllySpecial"
+        ]
+      },
+      {
+        "statusEffect": "HealStatusEffectSkill",
+        "id": "health_boost_caster_nearby_on_ally_special_cerissa2",
+        "buff": "MinorBuff",
+        "directEffects": [
+          {
+            "sideAffected": "Allies",
+            "typeOfTarget": "NearToTarget",
+            "effectType": "HealthBoost",
+            "fixedPower": 240,
+            "fixedPowerIncrementPerLevel": 30
           }
         ],
         "activationChancePerMil": 1000,
@@ -50840,6 +51086,13 @@
         "defenseMultiplierIncrementPerLevelPerMil": 236
       },
       {
+        "statusEffect": "GreenDefenseModifier",
+        "id": "mark_nature_costume_zarola",
+        "buff": "MinorDebuff",
+        "defenseMultiplierPerMil": 800,
+        "defenseMultiplierIncrementPerLevelPerMil": 236
+      },
+      {
         "statusEffect": "CurseOfDoom",
         "id": "curse_grendels_mother",
         "buff": "MinorDebuff",
@@ -51520,6 +51773,19 @@
       },
       {
         "statusEffect": "BloodPoisoning",
+        "id": "additive_bleeding_gitnib",
+        "buff": "MinorDebuff",
+        "damageMultiplierPerMil": 0,
+        "damageMultiplierIncrementPerLevelPerMil": 0,
+        "fixedDamagePerTurn": 230,
+        "fixedDamagePerTurnIncrementPerLevel": 10,
+        "extraDamagePerTurnPerMil": 0,
+        "maxExtraDamagePerTurnPerMil": 0,
+        "fixedExtraDamagePerTurn": 50,
+        "maxFixedExtraDamagePerTurn": 200
+      },
+      {
+        "statusEffect": "BloodPoisoning",
         "id": "additive_bleeding_ferni",
         "buff": "MinorDebuff",
         "damageMultiplierPerMil": 0,
@@ -52006,6 +52272,15 @@
         "damageMultiplierPerMil": 0,
         "damageMultiplierIncrementPerLevelPerMil": 0,
         "fixedDamagePerTurn": 22,
+        "fixedDamagePerTurnIncrementPerLevel": 22
+      },
+      {
+        "statusEffect": "AssistSkillBurn",
+        "id": "dragon_support_skill_burn_crippling_blaze_belzaas",
+        "buff": "MinorDebuff",
+        "damageMultiplierPerMil": 0,
+        "damageMultiplierIncrementPerLevelPerMil": 0,
+        "fixedDamagePerTurn": 24,
         "fixedDamagePerTurnIncrementPerLevel": 22
       },
       {
@@ -52820,8 +53095,8 @@
         "statusEffect": "Bleeding",
         "id": "bleed_ascension_mimic_epic",
         "buff": "MinorDebuff",
-        "damageMultiplierPerMil": 30,
-        "damageMultiplierIncrementPerLevelPerMil": 10
+        "damageMultiplierPerMil": 20,
+        "damageMultiplierIncrementPerLevelPerMil": 3
       },
       {
         "statusEffect": "Poison",
@@ -52846,6 +53121,13 @@
         "id": "mark_fire_ray_costume",
         "buff": "MinorDebuff",
         "defenseMultiplierPerMil": 780,
+        "defenseMultiplierIncrementPerLevelPerMil": 236
+      },
+      {
+        "statusEffect": "RedDefenseModifier",
+        "id": "mark_fire_costume_cupido",
+        "buff": "MinorDebuff",
+        "defenseMultiplierPerMil": 600,
         "defenseMultiplierIncrementPerLevelPerMil": 236
       },
       {
@@ -53305,11 +53587,11 @@
         "buff": "MinorBuff",
         "effectTargetType": "All",
         "sideAffected": "Allies",
-        "basePowerPerMil": 750,
+        "basePowerPerMil": 790,
         "basePowerIncrementPerLevelPerMil": 236,
-        "powerPerRemovedStatusEffectPerMil": 206,
-        "powerPerRemovedStatusEffectIncrementPerLevelPerMil": 246,
-        "maxAmountOfRemovedStatusEffects": 5
+        "powerPerRemovedStatusEffectPerMil": 236,
+        "powerPerRemovedStatusEffectIncrementPerLevelPerMil": 0,
+        "maxAmountOfRemovedStatusEffects": 10
       },
       {
         "statusEffect": "StackingReceivedDamageModifier",
@@ -53966,6 +54248,13 @@
         "incrementPerLevelPerMil": 0
       },
       {
+        "statusEffect": "ElementLinkCritModifier",
+        "id": "holy_elemental_link_crit_more",
+        "buff": "MajorBuff",
+        "critIncrementPerMil": 200,
+        "incrementPerLevelPerMil": 0
+      },
+      {
         "statusEffect": "Possession",
         "id": "possession_of_eldwren",
         "buff": "MajorDebuff",
@@ -53997,6 +54286,13 @@
         "minorEffectMultiplierPerMil": 300
       },
       {
+        "statusEffect": "FixedGreenDefenseModifier",
+        "id": "mark_nature_fixed_jawbreaker",
+        "buff": "MinorDebuff",
+        "defenseModifier": 63886,
+        "defenseModifierIncrementPerLevel": 65386
+      },
+      {
         "statusEffect": "FixedPurpleDefenseModifier",
         "id": "mark_dark_fixed_duskwing",
         "buff": "MinorDebuff",
@@ -54009,6 +54305,13 @@
         "buff": "MinorDebuff",
         "defenseModifier": 63886,
         "defenseModifierIncrementPerLevel": 65386
+      },
+      {
+        "statusEffect": "FixedYellowDefenseModifier",
+        "id": "mark_holy_fixed_talonshine",
+        "buff": "MinorDebuff",
+        "defenseModifier": 64436,
+        "defenseModifierIncrementPerLevel": 156
       },
       {
         "statusEffect": "AssistSkillBerserkDefense",
@@ -54592,7 +54895,7 @@
       {
         "statusEffect": "Taunt",
         "id": "taunt_justico",
-        "buff": "MajorBuff"
+        "buff": "MinorBuff"
       },
       {
         "statusEffect": "BerserkDefense",
@@ -54962,6 +55265,24 @@
         "incrementPerLevelPerMil": 0
       },
       {
+        "statusEffect": "DefenseModifier",
+        "id": "brittle_adelitza",
+        "buff": "MinorDebuff",
+        "defenseMultiplierPerMil": 670,
+        "defenseMultiplierIncrementPerLevelPerMil": 246
+      },
+      {
+        "statusEffect": "TargetDependentAttackModifier",
+        "id": "attack_up_tora_and_taiga",
+        "buff": "MinorBuff",
+        "attackMultiplierPerMil": 1430,
+        "attackMultiplierIncrementPerLevelPerMil": 10,
+        "affectedMonsterCategory": "Titan",
+        "affectedElement": "Red",
+        "attackMultiplierAgainstValidTargetPerMil": 1530,
+        "attackMultiplierAgainstValidTargetIncrementPerLevelPerMil": 10
+      },
+      {
         "statusEffect": "StatusEffectOnDodgedSpecial",
         "id": "attack_stack_on_dodged_special_amelia",
         "buff": "MinorBuff",
@@ -55135,6 +55456,16 @@
         "defenseMultiplierIncrementPerLevelPerMil": 236
       },
       {
+        "statusEffect": "DamageOnHitReceived",
+        "id": "damage_on_critical_hit_received_titan_hunter",
+        "buff": "MinorDebuff",
+        "effectTargetType": "Single",
+        "sideAffected": "Allies",
+        "fixedPower": 150,
+        "fixedPowerIncrementPerLevel": 0,
+        "requiresCriticalHit": true
+      },
+      {
         "statusEffect": "Frost",
         "id": "frost_damage_minion_winter",
         "buff": "MinorDebuff",
@@ -55293,6 +55624,163 @@
         "damageMultiplierIncrementPerLevelPerMil": 10
       },
       {
+        "statusEffect": "AttackModifier",
+        "id": "attack_buff_stylish",
+        "buff": "MinorBuff",
+        "attackMultiplierPerMil": 1350,
+        "attackMultiplierIncrementPerLevelPerMil": 0
+      },
+      {
+        "statusEffect": "DefenseModifier",
+        "id": "defense_stylish",
+        "buff": "MinorBuff",
+        "defenseMultiplierPerMil": 1350
+      },
+      {
+        "statusEffect": "ManaGenerationModifier",
+        "id": "mana_regen_stylish",
+        "buff": "MinorBuff",
+        "manaGenerationMultiplierPerMil": 1350,
+        "manaGenerationMultiplierIncrementPerLevelPerMil": 0
+      },
+      {
+        "statusEffect": "HealMultiplier",
+        "id": "heal_increase_stylish",
+        "buff": "MinorBuff",
+        "healMultiplierPerMil": 1350,
+        "healMultiplierPerLevelPerMil": 0
+      },
+      {
+        "statusEffect": "ReceivedDamageModifier",
+        "id": "received_damage_reduction_stylish",
+        "buff": "MinorBuff",
+        "receivedDamageMultiplierPerMil": 650,
+        "receivedDamageMultiplierIncrementPerLevelPerMil": 0
+      },
+      {
+        "statusEffect": "ReflectMinorDebuffs",
+        "id": "reflect_minor_debuffs",
+        "buff": "MinorBuff",
+        "reflectChancePerMil": 1000,
+        "reflectTargetType": "Caster"
+      },
+      {
+        "statusEffect": "Insanity",
+        "id": "add_insanity_wilcox",
+        "buff": "PermanentDebuff",
+        "alwaysAdd": true,
+        "insanityToAdd": 15,
+        "reductionOnHealSources": [
+          "SpecialSkill",
+          "AssistSkill",
+          "Item",
+          "TileEffect"
+        ]
+      },
+      {
+        "statusEffect": "Insanity",
+        "id": "add_insanity_to_self_wilcox",
+        "buff": "PermanentDebuff",
+        "alwaysAdd": true,
+        "insanityToAdd": 50,
+        "reductionOnHealSources": [
+          "SpecialSkill",
+          "AssistSkill",
+          "Item",
+          "TileEffect"
+        ]
+      },
+      {
+        "statusEffect": "Insanity",
+        "id": "add_insanity_inanis",
+        "buff": "PermanentDebuff",
+        "alwaysAdd": true,
+        "insanityToAdd": 20,
+        "reductionOnHealSources": [
+          "SpecialSkill",
+          "AssistSkill",
+          "Item",
+          "TileEffect"
+        ]
+      },
+      {
+        "statusEffect": "Insanity",
+        "id": "add_insanity_to_self_inanis",
+        "buff": "PermanentDebuff",
+        "alwaysAdd": true,
+        "insanityToAdd": 50,
+        "reductionOnHealSources": [
+          "SpecialSkill",
+          "AssistSkill",
+          "Item",
+          "TileEffect"
+        ]
+      },
+      {
+        "statusEffect": "StackingReceivedDamageModifier",
+        "id": "stacking_received_damage_increase_inanis",
+        "buff": "StackMinorDebuff",
+        "receivedDamageMultiplierPerMil": 1015,
+        "receivedDamageMultiplierIncrementPerLevelPerMil": 5
+      },
+      {
+        "statusEffect": "CounterAttack",
+        "id": "counterattack_meenakshi",
+        "buff": "MinorBuff",
+        "damageDeflectionPerMil": 1310,
+        "damageDeflectionPerLevelPerMil": 20
+      },
+      {
+        "statusEffect": "FixedManaToOwnerOnCounterAttack",
+        "id": "counterattack_meenakshi_mana",
+        "buff": "MinorBuff",
+        "reductionPerActivationPerMil": 330,
+        "fixedManaPerCounterAttack": 100
+      },
+      {
+        "statusEffect": "CorrosiveFrost",
+        "id": "corrosive_frost_dvalin",
+        "buff": "MinorDebuff",
+        "damageMultiplierPerMil": 200,
+        "damageMultiplierIncrementPerLevelPerMil": 5,
+        "extraDamageModifierConfigs": [
+          {
+            "extraDamageModifierPerMil": 350,
+            "conditionType": "HasFamiliars",
+            "requiredFamiliarTypes": [
+              "Minion",
+              "BigMinion",
+              "Follower"
+            ]
+          }
+        ],
+        "modifier": "AttackModifier",
+        "multiplierPerMil": 890,
+        "multiplierIncrementPerTurnPerMil": 146,
+        "multiplierIncrementPerTurnIncrementPerLevelPerMil": 0
+      },
+      {
+        "statusEffect": "AttackModifier",
+        "id": "attack_buff_dvalin",
+        "buff": "MinorBuff",
+        "attackMultiplierPerMil": 1400,
+        "attackMultiplierIncrementPerLevelPerMil": 20
+      },
+      {
+        "statusEffect": "Poison",
+        "id": "poison_telonius_costume",
+        "buff": "MinorDebuff",
+        "damageMultiplierPerMil": 110,
+        "damageMultiplierIncrementPerLevelPerMil": 5
+      },
+      {
+        "statusEffect": "HealMultiplier",
+        "id": "wound_turundh",
+        "buff": "MinorDebuff",
+        "healMultiplierPerMil": 640,
+        "healMultiplierPerLevelPerMil": 236
+      },
+      {
         "statusEffect": "GreenDefenseModifier",
         "id": "mark_nature_xandrella_costume",
         "buff": "MinorDebuff",
@@ -55419,6 +55907,16 @@
         "id": "mana_modifier_defender_xandrella_costume",
         "multiplierPerMil": 740,
         "multiplierIncrementPerLevelPerMil": 246
+      },
+      {
+        "enhancementType": "CriticalChanceMultiplier",
+        "id": "critical_chance_titan_hunter_passive",
+        "multiplierPerMil": 1540
+      },
+      {
+        "enhancementType": "AccuracyModifier",
+        "id": "accuracy_modifier_titan_hunter_passive",
+        "multiplierPerMil": 530
       }
     ],
     "tileMatchEffects": [
@@ -55946,7 +56444,8 @@
           "AttackModifierPerRemovedEffect",
           "AttackModifierPerReallocatedEffect",
           "IncreasingAttackModifierOnOwnSpecialCast",
-          "FixedAttackModifier"
+          "FixedAttackModifier",
+          "TargetDependentAttackModifier"
         ]
       },
       {
@@ -56147,6 +56646,12 @@
     "statusEffectTags": [
       {
         "typeOfStatusEffect": "AttackModifier",
+        "tags": [
+          "AttackModifier"
+        ]
+      },
+      {
+        "typeOfStatusEffect": "TargetDependentAttackModifier",
         "tags": [
           "AttackModifier"
         ]
@@ -56492,7 +56997,8 @@
         "typeOfStatusEffect": "SpiritDance",
         "tags": [
           "AttackModifier",
-          "Dance"
+          "Dance",
+          "ReceivedDamageModifier"
         ]
       },
       {
@@ -56533,7 +57039,8 @@
       {
         "typeOfStatusEffect": "ElementLinkHeal",
         "tags": [
-          "ElementLink"
+          "ElementLink",
+          "HealEffect"
         ]
       },
       {
@@ -56561,7 +57068,9 @@
       {
         "typeOfStatusEffect": "ElementLinkHealModifier",
         "tags": [
-          "ElementLink"
+          "ElementLink",
+          "HealEffect",
+          "HealingModifier"
         ]
       },
       {
@@ -56602,7 +57111,8 @@
         "tags": [
           "Sleep",
           "SpecialBlocking",
-          "ManaEffect"
+          "ManaEffect",
+          "ReceivedDamageModifier"
         ]
       },
       {
@@ -56611,7 +57121,8 @@
           "Sleep",
           "SpecialBlocking",
           "ManaEffect",
-          "Paralysis"
+          "Paralysis",
+          "ReceivedDamageModifier"
         ]
       },
       {
@@ -57068,7 +57579,8 @@
       {
         "typeOfStatusEffect": "HealMultiplier",
         "tags": [
-          "HealEffect"
+          "HealEffect",
+          "HealingModifier"
         ]
       },
       {
@@ -57087,13 +57599,15 @@
       {
         "typeOfStatusEffect": "BoostedHealMultiplier",
         "tags": [
-          "HealEffect"
+          "HealEffect",
+          "HealingModifier"
         ]
       },
       {
         "typeOfStatusEffect": "IncreasingHealMultiplier",
         "tags": [
-          "HealEffect"
+          "HealEffect",
+          "HealingModifier"
         ]
       },
       {
@@ -57239,7 +57753,8 @@
       {
         "typeOfStatusEffect": "AssistSkillHealMultiplier",
         "tags": [
-          "HealEffect"
+          "HealEffect",
+          "HealingModifier"
         ]
       },
       {
@@ -57273,7 +57788,8 @@
         "tags": [
           "Sleep",
           "SpecialBlocking",
-          "ManaEffect"
+          "ManaEffect",
+          "ReceivedDamageModifier"
         ]
       },
       {
@@ -57428,7 +57944,135 @@
         "typeOfStatusEffect": "Ambush",
         "tags": [
           "AttackModifier",
-          "DefenseModifier"
+          "DefenseModifier",
+          "ReceivedDamageModifier"
+        ]
+      },
+      {
+        "typeOfStatusEffect": "AetherPowerHealMultiplier",
+        "tags": [
+          "HealEffect",
+          "HealingModifier"
+        ]
+      },
+      {
+        "typeOfStatusEffect": "ElementMirror",
+        "tags": [
+          "StatusEffectReflect"
+        ]
+      },
+      {
+        "typeOfStatusEffect": "ReflectDebuffsAndDamage",
+        "tags": [
+          "StatusEffectReflect"
+        ]
+      },
+      {
+        "typeOfStatusEffect": "ReflectDebuffs",
+        "tags": [
+          "StatusEffectReflect"
+        ]
+      },
+      {
+        "typeOfStatusEffect": "ReflectDefenseDebuffStatusEffects",
+        "tags": [
+          "StatusEffectReflect"
+        ]
+      },
+      {
+        "typeOfStatusEffect": "ReflectMinorBuffs",
+        "tags": [
+          "StatusEffectReflect"
+        ]
+      },
+      {
+        "typeOfStatusEffect": "ReflectMinorDebuffs",
+        "tags": [
+          "StatusEffectReflect"
+        ]
+      },
+      {
+        "typeOfStatusEffect": "AetherPowerReceivedDamageModifier",
+        "tags": [
+          "ReceivedDamageModifier"
+        ]
+      },
+      {
+        "typeOfStatusEffect": "AssistSkillReceivedDamageModifier",
+        "tags": [
+          "ReceivedDamageModifier"
+        ]
+      },
+      {
+        "typeOfStatusEffect": "BackStab",
+        "tags": [
+          "ReceivedDamageModifier"
+        ]
+      },
+      {
+        "typeOfStatusEffect": "NormalAttackReceivedDamageModifier",
+        "tags": [
+          "ReceivedDamageModifier"
+        ]
+      },
+      {
+        "typeOfStatusEffect": "ReceivedDamageModifierPerFamiliar",
+        "tags": [
+          "ReceivedDamageModifier"
+        ]
+      },
+      {
+        "typeOfStatusEffect": "ReceivedDamageModifier",
+        "tags": [
+          "ReceivedDamageModifier"
+        ]
+      },
+      {
+        "typeOfStatusEffect": "ReceivedDamageModifierPerRemovedEffect",
+        "tags": [
+          "ReceivedDamageModifier"
+        ]
+      },
+      {
+        "typeOfStatusEffect": "ReceivedDamageModifierPerTile",
+        "tags": [
+          "ReceivedDamageModifier"
+        ]
+      },
+      {
+        "typeOfStatusEffect": "ReceivedStrongDamageModifier",
+        "tags": [
+          "ReceivedDamageModifier"
+        ]
+      },
+      {
+        "typeOfStatusEffect": "SoftSkin",
+        "tags": [
+          "ReceivedDamageModifier"
+        ]
+      },
+      {
+        "typeOfStatusEffect": "StackingReceivedDamageModifier",
+        "tags": [
+          "ReceivedDamageModifier"
+        ]
+      },
+      {
+        "typeOfStatusEffect": "WarReceivedDamageModifier",
+        "tags": [
+          "ReceivedDamageModifier"
+        ]
+      },
+      {
+        "typeOfStatusEffect": "UberTitanStackingReceivedDamageModifier",
+        "tags": [
+          "ReceivedDamageModifier"
+        ]
+      },
+      {
+        "typeOfStatusEffect": "FixedReceivedDamageModifier",
+        "tags": [
+          "ReceivedDamageModifier"
         ]
       }
     ],
@@ -58642,7 +59286,9 @@
         "targets": "All",
         "targetsSideAffected": "Enemies",
         "modifierPerMil": 500,
-        "requiredSource": "SpecialSkill"
+        "requiredSources": [
+          "SpecialSkill"
+        ]
       },
       {
         "passiveSkillType": "RevivalChanceModifier",
@@ -59976,20 +60622,6 @@
         "criticalIncrementPerMil": 150
       },
       {
-        "passiveSkillType": "ManaDebuffProtection",
-        "id": "mana_debuff_protection",
-        "targets": "Single",
-        "targetsSideAffected": "Allies",
-        "statusEffects": [
-          {
-            "id": "mana_generation_champions_family",
-            "sideAffected": "Allies",
-            "statusTargetType": "Single",
-            "turns": 3
-          }
-        ]
-      },
-      {
         "passiveSkillType": "GuaranteedEffectOnSpecial",
         "id": "guaranteed_passive_effects_on_special",
         "targets": "Single",
@@ -60385,7 +61017,22 @@
         "targets": "All",
         "targetsSideAffected": "Enemies",
         "modifierPerMil": 200,
-        "requiredSource": "SpecialSkill"
+        "requiredSources": [
+          "SpecialSkill"
+        ]
+      },
+      {
+        "passiveSkillType": "ManaGenerationModifier",
+        "id": "mana_generation_modifier_all_enemies_more_sources",
+        "targets": "All",
+        "targetsSideAffected": "Enemies",
+        "modifierPerMil": 200,
+        "requiredSources": [
+          "SpecialSkill",
+          "PassiveSkill",
+          "Family",
+          "StatusEffect"
+        ]
       },
       {
         "passiveSkillType": "HealModifier",
@@ -60493,7 +61140,6 @@
         "targetsSideAffected": "Allies",
         "effectType": "None",
         "powerMultiplierPerMil": 0,
-        "isPowerRelativeToReceivedDamage": false,
         "chancePerMil": 1000,
         "sideAffected": "Allies",
         "typeOfTarget": "Single",
@@ -60517,7 +61163,6 @@
         "targetsSideAffected": "Allies",
         "effectType": "None",
         "powerMultiplierPerMil": 0,
-        "isPowerRelativeToReceivedDamage": false,
         "chancePerMil": 1000,
         "sideAffected": "Allies",
         "typeOfTarget": "Single",
@@ -60912,7 +61557,6 @@
         "targetsSideAffected": "Allies",
         "effectType": "AddMana",
         "powerMultiplierPerMil": 10,
-        "isPowerRelativeToReceivedDamage": false,
         "chancePerMil": 1000,
         "sideAffected": "Allies",
         "typeOfTarget": "Single",
@@ -61258,8 +61902,7 @@
         "id": "league_mana_generation_modifier_non_featured_family",
         "targets": "Single",
         "targetsSideAffected": "Allies",
-        "modifierPerMil": 850,
-        "requiredSource": "None"
+        "modifierPerMil": 850
       },
       {
         "passiveSkillType": "HealModifier",
@@ -61378,7 +62021,7 @@
         ]
       },
       {
-        "passiveSkillType": "EffectOnSpecialSkillDamageDone",
+        "passiveSkillType": "EffectOnDamageDone",
         "id": "health_boost_on_special_critical_damage_all",
         "targets": "Single",
         "targetsSideAffected": "Allies",
@@ -61389,11 +62032,14 @@
             "powerMultiplierPerMil": 100
           }
         ],
+        "requiredEffectSources": [
+          "SpecialSkill"
+        ],
         "activatesOnlyOnCriticals": true,
         "activatesOnlyOncePerTurn": true
       },
       {
-        "passiveSkillType": "EffectOnSpecialSkillDamageDone",
+        "passiveSkillType": "EffectOnDamageDone",
         "id": "cleanse_on_special_critical_damage_all_safe",
         "targets": "Single",
         "targetsSideAffected": "Allies",
@@ -61403,11 +62049,14 @@
           "removeOnlyLatestStatusEffect": true,
           "bypassEffectsOnRemoval": true
         },
+        "requiredEffectSources": [
+          "SpecialSkill"
+        ],
         "activatesOnlyOnCriticals": true,
         "activatesOnlyOncePerTurn": true
       },
       {
-        "passiveSkillType": "EffectOnSpecialSkillDamageDoneBasedOnHealthDifference",
+        "passiveSkillType": "EffectOnDamageDoneToHealthierTarget",
         "id": "righteous_rebellion_health_boost",
         "targets": "Single",
         "targetsSideAffected": "Allies",
@@ -61419,22 +62068,25 @@
             "powerMultiplierPerMil": 200
           }
         ],
+        "requiredEffectSources": [
+          "SpecialSkill"
+        ],
         "activatesOnlyOncePerTurn": true
       },
       {
-        "passiveSkillType": "EffectOnSpecialSkillDamageReceivedBasedOnHealthDifference",
+        "passiveSkillType": "EffectOnDamageReceivedFromHealthierAttacker",
         "id": "righteous_rebellion_add_mana",
         "targets": "Single",
         "targetsSideAffected": "Allies",
-        "effects": [
-          {
-            "sideAffected": "Allies",
-            "typeOfTarget": "Single",
-            "effectType": "AddMana",
-            "powerMultiplierPerMil": 200
-          }
+        "effectType": "AddMana",
+        "powerMultiplierPerMil": 200,
+        "chancePerMil": 1000,
+        "sideAffected": "Allies",
+        "typeOfTarget": "Single",
+        "triggeringSources": [
+          "SpecialSkill"
         ],
-        "activatesOnlyOncePerTurn": true
+        "limitUsageToOncePerTurn": true
       },
       {
         "passiveSkillType": "ParentPassiveSkill",
@@ -61639,6 +62291,15 @@
         "targets": "Single",
         "targetsSideAffected": "Allies",
         "familiarId": "evolving_seedling_parasite",
+        "summonFamiliarSide": "Enemies",
+        "sharedActivatesOnlyOncePerTurn": true
+      },
+      {
+        "passiveSkillType": "SummonFamiliarPerTurn",
+        "id": "summon_seedling_parasite_per_turn_shared_with_delay_veggie",
+        "targets": "Single",
+        "targetsSideAffected": "Allies",
+        "familiarId": "evolving_seedling_parasite_with_delay",
         "summonFamiliarSide": "Enemies",
         "sharedActivatesOnlyOncePerTurn": true
       },
@@ -61892,6 +62553,19 @@
         ]
       },
       {
+        "passiveSkillType": "StatusEffectOnSpecialCast",
+        "id": "titan_hunter_hunting_flare_on_special_cast",
+        "targets": "Single",
+        "targetsSideAffected": "Allies",
+        "manaSpeedToStatusEffect": {
+          "average": "damage_on_critical_hit_received_titan_hunter",
+          "fast": "damage_on_critical_hit_received_titan_hunter"
+        },
+        "statusEffectTargetType": "Random",
+        "statusEffectSide": "Enemies",
+        "turns": 4
+      },
+      {
         "passiveSkillType": "Ransack",
         "id": "ransack",
         "targets": "Single",
@@ -61910,6 +62584,233 @@
         ],
         "orderOfReallocation": "Random",
         "fixedHealthStealAmount": 200
+      },
+      {
+        "passiveSkillType": "ReceivedEffectReplacement",
+        "id": "stylish",
+        "targets": "Single",
+        "targetsSideAffected": "Allies",
+        "hasCustomText": true,
+        "affectedBuffCategory": "MinorDebuff",
+        "replacementChancePerMil": 650,
+        "directEffectReplacements": [
+          {
+            "effectEvent": "ManaReduction",
+            "replacementEffectPowerPerMil": 100
+          },
+          {
+            "effectEvent": "Dispel"
+          },
+          {
+            "effectEvent": "AttackWither",
+            "fixedReplacementEffectPower": 100
+          },
+          {
+            "effectEvent": "DefenseWither",
+            "fixedReplacementEffectPower": 100
+          },
+          {
+            "effectEvent": "Fiend",
+            "replacementFamiliarId": "stylish_minion"
+          }
+        ],
+        "statusEffectReplacements": [
+          {
+            "requiredTag": "AttackModifier",
+            "replacementStatusEffect": {
+              "id": "attack_buff_stylish",
+              "sideAffected": "Allies",
+              "statusTargetType": "Single",
+              "turns": 4
+            }
+          },
+          {
+            "requiredTag": "DefenseModifier",
+            "replacementStatusEffect": {
+              "id": "defense_stylish",
+              "sideAffected": "Allies",
+              "statusTargetType": "Single",
+              "turns": 4
+            }
+          },
+          {
+            "requiredTag": "ManaGenerationModifier",
+            "replacementStatusEffect": {
+              "id": "mana_regen_stylish",
+              "sideAffected": "Allies",
+              "statusTargetType": "Single",
+              "turns": 4
+            }
+          },
+          {
+            "requiredTag": "HealingModifier",
+            "replacementStatusEffect": {
+              "id": "heal_increase_stylish",
+              "sideAffected": "Allies",
+              "statusTargetType": "Single",
+              "turns": 4
+            }
+          },
+          {
+            "requiredTag": "ReceivedDamageModifier",
+            "replacementStatusEffect": {
+              "id": "received_damage_reduction_stylish",
+              "sideAffected": "Allies",
+              "statusTargetType": "Single",
+              "turns": 4
+            }
+          },
+          {
+            "requiredTag": "BuffImmunity",
+            "replacementStatusEffect": {
+              "id": "debuff_shield_minor",
+              "sideAffected": "Allies",
+              "statusTargetType": "Single",
+              "turns": 4
+            }
+          },
+          {
+            "requiredTag": "StatusEffectReflect",
+            "replacementStatusEffect": {
+              "id": "reflect_minor_debuffs",
+              "sideAffected": "Allies",
+              "statusTargetType": "Single",
+              "turns": 4
+            }
+          }
+        ]
+      },
+      {
+        "passiveSkillType": "SideDependentPassiveSkill",
+        "id": "tile_enhancement_red_on_special_titan_hunter_parent",
+        "targets": "Single",
+        "targetsSideAffected": "Allies",
+        "heroSidePassiveSkill": "critical_chance_red_tile_enhancement_on_special_titan_hunter",
+        "opponentSidePassiveSkill": "accuracy_down_red_tile_enhancement_on_special_titan_hunter"
+      },
+      {
+        "passiveSkillType": "TileEnhancementOnSpecial",
+        "id": "critical_chance_red_tile_enhancement_on_special_titan_hunter",
+        "targets": "Single",
+        "targetsSideAffected": "Allies",
+        "element": "Red",
+        "tileEnhancementId": "critical_chance_titan_hunter_passive"
+      },
+      {
+        "passiveSkillType": "TileEnhancementOnSpecial",
+        "id": "accuracy_down_red_tile_enhancement_on_special_titan_hunter",
+        "targets": "Single",
+        "targetsSideAffected": "Allies",
+        "element": "Red",
+        "tileEnhancementId": "accuracy_modifier_titan_hunter_passive"
+      },
+      {
+        "passiveSkillType": "SideDependentPassiveSkill",
+        "id": "tile_enhancement_green_on_special_titan_hunter_parent",
+        "targets": "Single",
+        "targetsSideAffected": "Allies",
+        "heroSidePassiveSkill": "critical_chance_green_tile_enhancement_on_special_titan_hunter",
+        "opponentSidePassiveSkill": "accuracy_down_green_tile_enhancement_on_special_titan_hunter"
+      },
+      {
+        "passiveSkillType": "TileEnhancementOnSpecial",
+        "id": "critical_chance_green_tile_enhancement_on_special_titan_hunter",
+        "targets": "Single",
+        "targetsSideAffected": "Allies",
+        "element": "Green",
+        "tileEnhancementId": "critical_chance_titan_hunter_passive"
+      },
+      {
+        "passiveSkillType": "TileEnhancementOnSpecial",
+        "id": "accuracy_down_green_tile_enhancement_on_special_titan_hunter",
+        "targets": "Single",
+        "targetsSideAffected": "Allies",
+        "element": "Green",
+        "tileEnhancementId": "accuracy_modifier_titan_hunter_passive"
+      },
+      {
+        "passiveSkillType": "SideDependentPassiveSkill",
+        "id": "tile_enhancement_blue_on_special_titan_hunter_parent",
+        "targets": "Single",
+        "targetsSideAffected": "Allies",
+        "heroSidePassiveSkill": "critical_chance_blue_tile_enhancement_on_special_titan_hunter",
+        "opponentSidePassiveSkill": "accuracy_down_blue_tile_enhancement_on_special_titan_hunter"
+      },
+      {
+        "passiveSkillType": "TileEnhancementOnSpecial",
+        "id": "critical_chance_blue_tile_enhancement_on_special_titan_hunter",
+        "targets": "Single",
+        "targetsSideAffected": "Allies",
+        "element": "Blue",
+        "tileEnhancementId": "critical_chance_titan_hunter_passive"
+      },
+      {
+        "passiveSkillType": "TileEnhancementOnSpecial",
+        "id": "accuracy_down_blue_tile_enhancement_on_special_titan_hunter",
+        "targets": "Single",
+        "targetsSideAffected": "Allies",
+        "element": "Blue",
+        "tileEnhancementId": "accuracy_modifier_titan_hunter_passive"
+      },
+      {
+        "passiveSkillType": "SideDependentPassiveSkill",
+        "id": "tile_enhancement_yellow_on_special_titan_hunter_parent",
+        "targets": "Single",
+        "targetsSideAffected": "Allies",
+        "heroSidePassiveSkill": "critical_chance_yellow_tile_enhancement_on_special_titan_hunter",
+        "opponentSidePassiveSkill": "accuracy_down_yellow_tile_enhancement_on_special_titan_hunter"
+      },
+      {
+        "passiveSkillType": "TileEnhancementOnSpecial",
+        "id": "critical_chance_yellow_tile_enhancement_on_special_titan_hunter",
+        "targets": "Single",
+        "targetsSideAffected": "Allies",
+        "element": "Yellow",
+        "tileEnhancementId": "critical_chance_titan_hunter_passive"
+      },
+      {
+        "passiveSkillType": "TileEnhancementOnSpecial",
+        "id": "accuracy_down_yellow_tile_enhancement_on_special_titan_hunter",
+        "targets": "Single",
+        "targetsSideAffected": "Allies",
+        "element": "Yellow",
+        "tileEnhancementId": "accuracy_modifier_titan_hunter_passive"
+      },
+      {
+        "passiveSkillType": "SideDependentPassiveSkill",
+        "id": "tile_enhancement_purple_on_special_titan_hunter_parent",
+        "targets": "Single",
+        "targetsSideAffected": "Allies",
+        "heroSidePassiveSkill": "critical_chance_purple_tile_enhancement_on_special_titan_hunter",
+        "opponentSidePassiveSkill": "accuracy_down_purple_tile_enhancement_on_special_titan_hunter"
+      },
+      {
+        "passiveSkillType": "TileEnhancementOnSpecial",
+        "id": "critical_chance_purple_tile_enhancement_on_special_titan_hunter",
+        "targets": "Single",
+        "targetsSideAffected": "Allies",
+        "element": "Purple",
+        "tileEnhancementId": "critical_chance_titan_hunter_passive"
+      },
+      {
+        "passiveSkillType": "TileEnhancementOnSpecial",
+        "id": "accuracy_down_purple_tile_enhancement_on_special_titan_hunter",
+        "targets": "Single",
+        "targetsSideAffected": "Allies",
+        "element": "Purple",
+        "tileEnhancementId": "accuracy_modifier_titan_hunter_passive"
+      },
+      {
+        "passiveSkillType": "Resist",
+        "id": "resist_all_mana_debuffs_and_reductions",
+        "targets": "Single",
+        "targetsSideAffected": "Allies",
+        "resistTypes": [
+          "AllManaEffects",
+          "ManaReduction"
+        ],
+        "resistChancePerMil": 1000,
+        "resistingBuffCategory": "AllDebuffs"
       }
     ],
     "familiars": [
@@ -64620,11 +65521,41 @@
       },
       {
         "familiarType": "Parasite",
+        "id": "evolving_seedling_parasite_with_delay",
+        "accuracyPerMil": 1000,
+        "effects": [
+          {
+            "id": "evolve_seedling_to_sapling_with_delay_on_damage"
+          },
+          {
+            "id": "damage_seedling_parasite"
+          }
+        ],
+        "healthPerMil": 150,
+        "monsterHealthPerMil": 200
+      },
+      {
+        "familiarType": "Parasite",
         "id": "evolving_sapling_parasite",
         "accuracyPerMil": 1000,
         "effects": [
           {
             "id": "evolve_sapling_to_blooming"
+          },
+          {
+            "id": "damage_sapling_parasite"
+          }
+        ],
+        "healthPerMil": 250,
+        "monsterHealthPerMil": 500
+      },
+      {
+        "familiarType": "Parasite",
+        "id": "evolving_sapling_parasite_with_delay",
+        "accuracyPerMil": 1000,
+        "effects": [
+          {
+            "id": "evolve_sapling_to_blooming_with_delay_on_damage"
           },
           {
             "id": "damage_sapling_parasite"
@@ -64810,6 +65741,29 @@
         "healthPerMil": 560,
         "healthPerLevelPerMil": 20,
         "monsterHealthPerMil": 200
+      },
+      {
+        "familiarType": "Parasite",
+        "id": "piranha_fiend",
+        "accuracyPerMil": 1000,
+        "effects": [
+          {
+            "id": "damage_piranha_fiend"
+          }
+        ],
+        "healthPerMil": 500
+      },
+      {
+        "familiarType": "Minion",
+        "id": "stylish_minion",
+        "accuracyPerMil": 1000,
+        "effects": [
+          {
+            "id": "damage_stylish_minion"
+          }
+        ],
+        "healthPerMil": 100,
+        "monsterHealthPerMil": 100
       }
     ],
     "familiarEffects": [
@@ -66841,6 +67795,17 @@
         "monsterAttackPercentPerMil": 130
       },
       {
+        "effectType": "Damage",
+        "id": "damage_piranha_fiend",
+        "effectTriggers": [
+          "Turn"
+        ],
+        "sideAffected": "Allies",
+        "attackPercentPerMil": 1090,
+        "attackPercentIncrementPerLevelPerMil": 30,
+        "monsterAttackPercentPerMil": 130
+      },
+      {
         "effectType": "AddStatusEffects",
         "id": "attack_debuff_while_pirate_fiend",
         "effectTriggers": [
@@ -68025,11 +68990,31 @@
       },
       {
         "effectType": "Evolve",
+        "id": "evolve_seedling_to_sapling_with_delay_on_damage",
+        "effectTriggers": [
+          "LateTurn"
+        ],
+        "effectTurnsFrequencyOverride": 2,
+        "additionalTurnsDelayToEffect": 1,
+        "evolvedFamiliarId": "evolving_sapling_parasite"
+      },
+      {
+        "effectType": "Evolve",
         "id": "evolve_sapling_to_blooming",
         "effectTriggers": [
           "LateTurn"
         ],
         "effectTurnsFrequencyOverride": 2,
+        "evolvedFamiliarId": "blooming_big_parasite"
+      },
+      {
+        "effectType": "Evolve",
+        "id": "evolve_sapling_to_blooming_with_delay_on_damage",
+        "effectTriggers": [
+          "LateTurn"
+        ],
+        "effectTurnsFrequencyOverride": 2,
+        "additionalTurnsDelayToEffect": 1,
         "evolvedFamiliarId": "blooming_big_parasite"
       },
       {
@@ -68215,6 +69200,15 @@
             "statusTargetType": "Single"
           }
         ]
+      },
+      {
+        "effectType": "Damage",
+        "id": "damage_stylish_minion",
+        "effectTriggers": [
+          "Turn"
+        ],
+        "attackPercentPerMil": 100,
+        "monsterAttackPercentPerMil": 100
       }
     ],
     "talentSkills": [
@@ -68963,7 +69957,7 @@
           "attack_multiplier_hotm2019",
           "element_link_to_all"
         ],
-        "deactivatedUntil": 820566000
+        "deactivatedUntil": 852102000
       },
       {
         "id": "hotm2025",
@@ -69654,8 +70648,8 @@
       {
         "id": "titan_hunter",
         "familyEffects": [
-          "attack_multiplier",
-          "defense_multiplier"
+          "start_battle_with_mana_titan_hunters",
+          "counter_attack_titan_specials_titan_hunters"
         ]
       },
       {
@@ -69794,7 +70788,7 @@
         ]
       },
       {
-        "effectType": "CounterAttackChance",
+        "effectType": "CounterAttack",
         "id": "counter_attack_ninja",
         "statMultiplierIncrementPerMilsForEachMember": [
           600,
@@ -70890,7 +71884,7 @@
         ]
       },
       {
-        "effectType": "CounterAttackChance",
+        "effectType": "CounterAttack",
         "id": "counter_attack_ninja2",
         "statMultiplierIncrementPerMilsForEachMember": [
           600,
@@ -71412,6 +72406,17 @@
         "buffToRemove": "MinorDebuff"
       },
       {
+        "effectType": "RemoveRandomStatusEffectOnSpecialDamageReceived",
+        "id": "chance_to_cleanse_all_on_received_special_damage_astral_demons",
+        "chanceIncrementsPerMilForEachMember": [
+          600,
+          250
+        ],
+        "removalSide": "Allies",
+        "removalTargetType": "All",
+        "buffToRemove": "MinorDebuff"
+      },
+      {
         "effectType": "IntrinsicCharge",
         "id": "build_charge_beauty_beast",
         "precedeDescriptionWithEmptyLine": true,
@@ -71448,6 +72453,43 @@
             "sideAffected": "Allies",
             "statusTargetType": "All"
           }
+        ]
+      },
+      {
+        "effectType": "BattleTypeAlternativePowerEffectOnStartOfBattle",
+        "id": "start_battle_with_mana_titan_hunters",
+        "statMultiplierIncrementPerMilsForEachMember": [
+          100,
+          50,
+          50
+        ],
+        "alternativeStatMultiplierIncrementPerMilsForEachMember": [
+          400,
+          200,
+          400
+        ],
+        "effect": "AddMana",
+        "sideAffected": "Allies",
+        "typeOfTarget": "Single",
+        "battleTypesForAlternativePower": [
+          "Titan",
+          "UberTitan"
+        ]
+      },
+      {
+        "effectType": "CounterAttack",
+        "id": "counter_attack_titan_specials_titan_hunters",
+        "statMultiplierIncrementPerMilsForEachMember": [
+          1000,
+          200,
+          200
+        ],
+        "chanceIncrementsPerMilForEachMember": [
+          1000
+        ],
+        "requiredMonsterCategory": "Titan",
+        "requiredSources": [
+          "SpecialSkill"
         ]
       }
     ],
@@ -73151,26 +74193,6 @@
         "turnsBetweenTurnBasedEffects": 4
       },
       {
-        "id": "chess_morale_elite",
-        "effects": [
-          "chess_morale_elite",
-          "chess_morale_player"
-        ]
-      },
-      {
-        "id": "chess_morale_royalty",
-        "effects": [
-          "chess_morale_royalty",
-          "chess_morale_player"
-        ]
-      },
-      {
-        "id": "chess_morale_pawn",
-        "effects": [
-          "chess_morale_player"
-        ]
-      },
-      {
         "id": "owl_curse",
         "effects": [
           "owl_curse"
@@ -73361,6 +74383,12 @@
         ]
       },
       {
+        "id": "barren_winds",
+        "effects": [
+          "barren_winds"
+        ]
+      },
+      {
         "id": "duskfall",
         "effects": [
           "duskfall"
@@ -73403,6 +74431,14 @@
         "id": "chilling_mist_2",
         "effects": [
           "chilling_mist_2"
+        ],
+        "turnsBetweenTurnBasedEffects": 4,
+        "applyTurnBasedEffectsAtStartOfBattle": true
+      },
+      {
+        "id": "chilling_mist_3",
+        "effects": [
+          "chilling_mist_3"
         ],
         "turnsBetweenTurnBasedEffects": 4,
         "applyTurnBasedEffectsAtStartOfBattle": true
@@ -73559,6 +74595,123 @@
           "christmas_brawl_resist_parasites",
           "christmas_brawl_resist_mana_reductions",
           "christmas_brawl_resist_mana_status_effects"
+        ]
+      },
+      {
+        "id": "valentines_brawl",
+        "effects": [
+          "valentines_brawl_resist_healing_ailments",
+          "valentines_brawl_enhanced_criticals",
+          "valentines_brawl_resist_mana_reductions",
+          "valentines_brawl_resist_mana_status_effects"
+        ]
+      },
+      {
+        "id": "chess_player_pawn",
+        "effects": [
+          "soothing_winds_attack_buff"
+        ],
+        "turnsBetweenTurnBasedEffects": 4
+      },
+      {
+        "id": "chess_player_rook",
+        "effects": [
+          "soothing_winds_attack_buff"
+        ],
+        "turnsBetweenTurnBasedEffects": 4
+      },
+      {
+        "id": "chess_player_knight",
+        "effects": [
+          "soothing_winds_attack_buff"
+        ],
+        "turnsBetweenTurnBasedEffects": 4
+      },
+      {
+        "id": "chess_player_bishop",
+        "effects": [
+          "soothing_winds_attack_buff"
+        ],
+        "turnsBetweenTurnBasedEffects": 4
+      },
+      {
+        "id": "chess_player_queen",
+        "effects": [
+          "soothing_winds_attack_buff"
+        ],
+        "turnsBetweenTurnBasedEffects": 4
+      },
+      {
+        "id": "chess_player_king",
+        "effects": [
+          "soothing_winds_attack_buff"
+        ],
+        "turnsBetweenTurnBasedEffects": 4
+      },
+      {
+        "id": "chess_enemy_pawn",
+        "effects": [
+          "s5_magic_barrier"
+        ],
+        "turnsBetweenTurnBasedEffects": 4
+      },
+      {
+        "id": "chess_enemy_rook",
+        "effects": [
+          "s5_magic_barrier"
+        ],
+        "turnsBetweenTurnBasedEffects": 4
+      },
+      {
+        "id": "chess_enemy_knight",
+        "effects": [
+          "s5_magic_barrier"
+        ],
+        "turnsBetweenTurnBasedEffects": 4
+      },
+      {
+        "id": "chess_enemy_bishop",
+        "effects": [
+          "s5_magic_barrier"
+        ],
+        "turnsBetweenTurnBasedEffects": 4
+      },
+      {
+        "id": "chess_enemy_queen",
+        "effects": [
+          "s5_magic_barrier"
+        ],
+        "turnsBetweenTurnBasedEffects": 4
+      },
+      {
+        "id": "chess_enemy_king",
+        "effects": [
+          "s5_magic_barrier"
+        ],
+        "turnsBetweenTurnBasedEffects": 4
+      },
+      {
+        "id": "rush_attack_dragon",
+        "effects": [
+          "rush_attack_dragon"
+        ]
+      },
+      {
+        "id": "buff_booster_dragon",
+        "effects": [
+          "buff_booster_dragon"
+        ]
+      },
+      {
+        "id": "bloody_battle_dragon",
+        "effects": [
+          "bloody_battle_dragon"
+        ]
+      },
+      {
+        "id": "chess_event_rules",
+        "effects": [
+          "health_boost_as_heal"
         ]
       }
     ],
@@ -75775,55 +76928,6 @@
         "battleFieldSide": "PlayerCharacters"
       },
       {
-        "effectType": "ChessMorale",
-        "id": "chess_morale_elite",
-        "statusEffects": [
-          {
-            "id": "chess_dynamic_attack_modifier_elite",
-            "sideAffected": "Enemies",
-            "statusTargetType": "All"
-          },
-          {
-            "id": "chess_dynamic_defense_modifier_elite",
-            "sideAffected": "Enemies",
-            "statusTargetType": "All"
-          }
-        ],
-        "chancePerMil": 1000,
-        "battleFieldSide": "Npcs"
-      },
-      {
-        "effectType": "ChessMorale",
-        "id": "chess_morale_royalty",
-        "statusEffects": [
-          {
-            "id": "chess_dynamic_attack_modifier_royalty",
-            "sideAffected": "Enemies",
-            "statusTargetType": "All"
-          },
-          {
-            "id": "chess_dynamic_defense_modifier_royalty",
-            "sideAffected": "Enemies",
-            "statusTargetType": "All"
-          }
-        ],
-        "chancePerMil": 1000,
-        "battleFieldSide": "Npcs"
-      },
-      {
-        "effectType": "ChessMorale",
-        "id": "chess_morale_player",
-        "statusEffects": [
-          {
-            "id": "chess_dynamic_attack_modifier_player",
-            "sideAffected": "Allies",
-            "statusTargetType": "All"
-          }
-        ],
-        "chancePerMil": 1000,
-        "battleFieldSide": "PlayerCharacters"
-      },
-      {
         "effectType": "TowerCurse",
         "id": "owl_curse",
         "turnsDuration": 3,
@@ -76171,6 +77275,14 @@
         "battleFieldSide": "Both"
       },
       {
+        "effectType": "StatModifier",
+        "id": "barren_winds",
+        "stat": "HealMultiplier",
+        "multiplierPerMil": 350,
+        "multiplierIncrementPerMilPerEffectLevel": 0,
+        "battleFieldSide": "Both"
+      },
+      {
         "effectType": "StatModifierPerTurn",
         "id": "duskfall",
         "stat": "AccuracyMultiplier",
@@ -76240,6 +77352,19 @@
         "statusEffects": [
           {
             "id": "frost_chilling_mist_2",
+            "sideAffected": "Allies",
+            "statusTargetType": "All"
+          }
+        ],
+        "chancePerMil": 1000,
+        "hasEmbeddedStatusEffectsDescription": true
+      },
+      {
+        "effectType": "StatusEffectOverTime",
+        "id": "chilling_mist_3",
+        "statusEffects": [
+          {
+            "id": "frost_chilling_mist_3",
             "sideAffected": "Allies",
             "statusTargetType": "All"
           }
@@ -76677,6 +77802,75 @@
         "affectedFamilies": [
           "winter"
         ]
+      },
+      {
+        "effectType": "ResistNewFamiliars",
+        "id": "valentines_brawl_resist_parasites",
+        "sideAffected": "Both",
+        "resistedFamiliarTypes": [
+          "Parasite"
+        ],
+        "affectedFamilies": [
+          "cupid"
+        ]
+      },
+      {
+        "effectType": "ResistManaReductions",
+        "id": "valentines_brawl_resist_mana_reductions",
+        "sideAffected": "Both",
+        "affectedFamilies": [
+          "cupid"
+        ]
+      },
+      {
+        "effectType": "ResistStatusEffects",
+        "id": "valentines_brawl_resist_healing_ailments",
+        "resistedBuffCategory": "StatusEffectDebuffs",
+        "resistedStatusEffectTags": [
+          "HealEffect"
+        ],
+        "sideAffected": "Both",
+        "affectedFamilies": [
+          "cupid"
+        ]
+      },
+      {
+        "effectType": "ResistStatusEffects",
+        "id": "valentines_brawl_resist_mana_status_effects",
+        "resistedBuffCategory": "StatusEffectDebuffs",
+        "resistedStatusEffectTags": [
+          "ManaEffect"
+        ],
+        "sideAffected": "Both",
+        "affectedFamilies": [
+          "cupid"
+        ]
+      },
+      {
+        "effectType": "PvpCriticalHitEnhancement",
+        "id": "valentines_brawl_enhanced_criticals",
+        "supportCharacterMaxHealthReductionModifierPerMil": 500,
+        "specialSkillMaxHealthReductionModifierPerMil": 100,
+        "affectedFamilies": [
+          "cupid"
+        ]
+      },
+      {
+        "effectType": "BuffsModifier",
+        "id": "buff_booster_dragon",
+        "showSpecialRuleName": true,
+        "attackMultiplierPerBuffPerMil": 1200
+      },
+      {
+        "effectType": "NoHealOrRevive",
+        "id": "bloody_battle_dragon",
+        "showSpecialRuleName": true
+      },
+      {
+        "effectType": "ManaSpeedChanger",
+        "id": "rush_attack_dragon",
+        "showSpecialRuleName": true,
+        "manaSpeedId": "very_fast"
       }
     ],
     "battleSpecificHeroEffects": [
@@ -78125,6 +79319,31 @@
         ],
         "families": [
           "冬日家族"
+        ]
+      },
+      {
+        "effectType": "BrawlBonus",
+        "id": "valentines_brawl",
+        "statMultipliers": [
+          {
+            "type": "AttackMultiplier",
+            "multiplierPerMil": 1500
+          },
+          {
+            "type": "DefenseMultiplier",
+            "multiplierPerMil": 1300
+          },
+          {
+            "type": "HealthMultiplier",
+            "multiplierPerMil": 1300
+          },
+          {
+            "type": "ManaGenerationMultiplier",
+            "multiplierPerMil": 1300
+          }
+        ],
+        "families": [
+          "爱神家族"
         ]
       }
     ],
@@ -80468,13 +81687,16 @@
       "GuestIP2Location7",
       "HalloweenMansionPath",
       "HalloweenMansionStairs",
-      "BeautyBeastCastle"
+      "BeautyBeastCastle",
+      "DragonGoldenIslands",
+      "DragonShipwreckShore"
     ],
     "titanBackgroundId": "MoltenCore",
     "uberTitanBackgroundId": "MoltenCore",
     "allianceWarBackgroundId": "AllianceWar",
     "mercenaryWarBackgroundId": "MercenaryWar",
     "pvpEventBackgroundId": "RaidWeeklyArena",
+    "dragonPvpEventBackgroundId": "DragonArenaSunken",
     "pvpLeagueBackgrounds": [
       "RaidLeagueGladiator",
       "RaidLeagueIce",
@@ -80668,6 +81890,11 @@
       "BouncingDamageOverTime",
       "Ambush"
     ],
+    "ownedStatusEffectsWithExtraDescription": [
+      "BerserkCounterAttack",
+      "Berserk",
+      "BerserkDefense"
+    ],
     "statusEffectTagsWithExtraDescription": [
       "ManaGenerationModifier",
       "Ghost"
@@ -80717,6 +81944,9 @@
     "familiarTypesWithExtraDescription": [
       "BigMinion",
       "BigParasite"
+    ],
+    "passiveSkillsWithExtraDescription": [
+      "ReceivedEffectReplacement"
     ],
     "statsPerLevelConfiguration": {
       "defaultMonsterStatsMultiplierPerLevelPerMil": 60,
@@ -80895,6 +82125,11 @@
     },
     "specialSkillManaIncreasesAreNotAffectedByModifiers": false,
     "assistSkillsUsedFirstInDefense": true,
+    "riderHeroBoostConfig": {
+      "enabledBattleTypes": [],
+      "riderHeroDefenseBonusMultiplierPerMil": 3000,
+      "riderHeroHealthBonusMultiplierPerMil": 3000
+    },
     "assistSkills": [
       {
         "id": "dragon_blazing_inferno",
@@ -81077,6 +82312,24 @@
         ]
       },
       {
+        "id": "dragon_weakening_blaze_gonthrox",
+        "directEffects": [
+          {
+            "effectType": "Damage",
+            "fixedPower": 43,
+            "fixedPowerIncrementPerLevel": 43
+          }
+        ],
+        "statusEffects": [
+          {
+            "id": "dragon_support_skill_attack_debuff",
+            "sideAffected": "Enemies",
+            "statusTargetType": "All",
+            "turns": 5
+          }
+        ]
+      },
+      {
         "id": "dragon_weakening_blaze_ashenheart",
         "directEffects": [
           {
@@ -81106,6 +82359,24 @@
         "statusEffects": [
           {
             "id": "dragon_support_skill_accuracy_debuff",
+            "sideAffected": "Enemies",
+            "statusTargetType": "All",
+            "turns": 5
+          }
+        ]
+      },
+      {
+        "id": "dragon_blinding_blaze_jawbreaker",
+        "directEffects": [
+          {
+            "effectType": "Damage",
+            "fixedPower": 35,
+            "fixedPowerIncrementPerLevel": 35
+          }
+        ],
+        "statusEffects": [
+          {
+            "id": "dragon_support_skill_accuracy_debuff_epic",
             "sideAffected": "Enemies",
             "statusTargetType": "All",
             "turns": 5
@@ -81160,6 +82431,24 @@
         "statusEffects": [
           {
             "id": "dragon_support_skill_healing_reduction_debuff",
+            "sideAffected": "Enemies",
+            "statusTargetType": "All",
+            "turns": 5
+          }
+        ]
+      },
+      {
+        "id": "dragon_wounding_blaze_talonshine",
+        "directEffects": [
+          {
+            "effectType": "Damage",
+            "fixedPower": 25,
+            "fixedPowerIncrementPerLevel": 25
+          }
+        ],
+        "statusEffects": [
+          {
+            "id": "dragon_support_skill_healing_reduction_debuff_rare",
             "sideAffected": "Enemies",
             "statusTargetType": "All",
             "turns": 5
@@ -81704,7 +82993,7 @@
           {
             "sideAffected": "Allies",
             "effectType": "Heal",
-            "fixedPower": 65,
+            "fixedPower": 75,
             "fixedPowerIncrementPerLevel": 65
           }
         ],
@@ -81864,11 +83153,47 @@
         ]
       },
       {
+        "id": "dragon_wrecking_blaze_rangifer",
+        "directEffects": [
+          {
+            "effectType": "Damage",
+            "fixedPower": 46,
+            "fixedPowerIncrementPerLevel": 46
+          }
+        ],
+        "statusEffects": [
+          {
+            "id": "resist_new_minions",
+            "sideAffected": "Enemies",
+            "statusTargetType": "All",
+            "turns": 5
+          }
+        ]
+      },
+      {
         "id": "dragon_crippling_blaze",
         "directEffects": [],
         "statusEffects": [
           {
             "id": "dragon_support_skill_burn_crippling_blaze",
+            "sideAffected": "Enemies",
+            "statusTargetType": "All",
+            "turns": 5
+          },
+          {
+            "id": "dragon_support_skill_mana_regen_reduction_crippling_blaze",
+            "sideAffected": "Enemies",
+            "statusTargetType": "All",
+            "turns": 5
+          }
+        ]
+      },
+      {
+        "id": "dragon_crippling_blaze_belzaas",
+        "directEffects": [],
+        "statusEffects": [
+          {
+            "id": "dragon_support_skill_burn_crippling_blaze_belzaas",
             "sideAffected": "Enemies",
             "statusTargetType": "All",
             "turns": 5
@@ -82100,5 +83425,5 @@
       "SharedDamage"
     ]
   },
-  "battleConfigId": 2875343475
+  "battleConfigId": 2460455452
 }

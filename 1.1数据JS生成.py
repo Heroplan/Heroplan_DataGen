@@ -679,6 +679,7 @@ def generate_js_data_with_translation(heroes_base_dir, output_path_cn, output_pa
             elif hero_family in ['tales1_goodies', 'tales1_baddies']: source_to_translate = 'untoldtales1'
             elif hero_family in ['nidavellir', 'myrkheim']: source_to_translate = 'untoldtales2'
             elif hero_family in ['plains_hunter',  'abyss_hunter', 'jungle_hunter']: source_to_translate = 'monsterisland'
+            elif hero_family in ['titan_hunter']: source_to_translate = 'titanhunter'
             elif hero_family in ['fox']: source_to_translate = 'covenant'
             elif hero_family in ['wild_cat']: source_to_translate = 'wilderness'
             elif hero_family in ['beowulf']: source_to_translate = 'beowulf'

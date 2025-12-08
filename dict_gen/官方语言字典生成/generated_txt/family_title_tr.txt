@@ -158,6 +158,8 @@
 "herocard.family.title.tales1_baddies.short","Atlantis Kabusları"
 "herocard.family.title.tales1_goodies","Atlantis Savunucuları Ailesi"
 "herocard.family.title.tales1_goodies.short","Atlantis Savunucuları"
+"herocard.family.title.titan_hunter","Titan Avcısı Ailesi"
+"herocard.family.title.titan_hunter.short","Titan Avcısı"
 "herocard.family.title.vanaheim","Vanaheim Diyarı"
 "herocard.family.title.vanaheim.short","Vanaheim"
 "herocard.family.title.vegetable","Cesur Sebze Ailesi"

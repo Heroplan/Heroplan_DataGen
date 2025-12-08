@@ -1,4 +1,4 @@
-"specials.v2.bigminion.aberration_big_minion.single","Призывает мегаприслужника-мутанта для каждого союзника с {FAMILIARHEALTHPERCENT} % здоровья и {FAMILIARATTACK} % атаки, получаемых от героя.
+"specials.v2.bigminion.aberration_big_minion.single","Призывает мегаприслужника-мутанта с {FAMILIARHEALTHPERCENT} % здоровья и {FAMILIARATTACK} % атаки, получаемых от героя.
 
 Каждый удар мегаприслужника-мутанта дает цели следующий недуг:"
 "specials.v2.bigminion.black_boar_mega_minion.single","Призывает черного мегавепря с {FAMILIARHEALTHPERCENT} % здоровья и {FAMILIARATTACK} % атаки, получаемой от героя."
@@ -98,6 +98,7 @@
 "specials.v2.follower.follower_moreau_weaker.single.multiplepercharacter","Призывает защитные кристаллы ({FAMILIARAMOUNT}) с {FAMILIARHEALTH} ОЗ для героя. Нельзя заблокировать призыв защитных кристаллов; попытка украсть защитный кристалл приводит к его гибели."
 "specials.v2.hidden_special.dragon_bonefang","Боунфанг известен своей кровожадностью. Это быстрое несдержанное чудовище любит вселять страх в других и украшать себя костями павших врагов."
 "specials.v2.hidden_special.dragon_doombringer","Этого вселяющего страх огненного дракона знают немногие. Он держится особняком и редко покидает свой дом на Горе Ярости. Говорят, когда слышен его рев, извергается вулкан."
+"specials.v2.hidden_special.dragon_dreamcatcher","Королева снов и кошмаров. Поговаривают, что она возненавидела героев после того, как побывала в их снах. Как думаете, что же такого она там увидела?"
 "specials.v2.hidden_special.dragon_mordax","Мордакс, Кошмар Бухты отшельника, известен своим неуемным аппетитом. Говорят, если отрубить ему одну голову, на ее месте появятся бесчисленные новые."
 "specials.v2.hidden_special.dragon_stargazer","Говорят, этот древный дракон летает среди звезд. Его происхождение и по сей день окутано тайной."
 "specials.v2.hidden_special.dragon_terrorclaw","Терроркло наводит ужас на Сонную лощину. Безжалостный змей раздирает жертв на части длинными острыми когтями."
@@ -373,6 +374,8 @@
 Зловещий тентакль (паразит) поглощает лечение и исчезает, когда впитает здоровье в количестве, равном {FAMILIARHEALTHPERCENT} % макс. здоровья владельца."
 "specials.v2.parasite.ominous_tentacle_titan.all","Призывает зловещий тентакль (паразит) для всех врагов.
 Зловещий тентакль поглощает лечение и исчезает, когда впитает здоровье в количестве, равном {FAMILIARHEALTHPERCENT} % макс. здоровья владельца."
+"specials.v2.parasite.piranha_fiend.all","Призывает пиранью-паразита для всех врагов. Паразит атакует врагов с силой {FAMILIARATTACK} % атаки каждый ход.
+Пиранья-паразит поглощает лечение и исчезает, когда впитает исцеление в количестве, равном {FAMILIARHEALTHPERCENT} % макс. здоровья цели."
 "specials.v2.parasite.pirate_fiend.all","Призывает скелет пирата (паразита) для всех врагов. Паразит атакует врага с силой {FAMILIARATTACK} % атаки каждый ход.
 Паразит поглощает лечение и исчезает, когда впитает исцеление в количестве, равном {FAMILIARHEALTHPERCENT} % макс. здоровья цели."
 "specials.v2.parasite.ram_fiend.single.multiplepercharacter","Призывает трех баранов-паразитов для цели. Паразит атакует врага с силой {FAMILIARATTACK} % атаки каждый ход.
@@ -461,7 +464,7 @@
 если не менее {COUNTREQUIREMENT} союзников, участвующих в бою, обладают усилениями атаки, урон увеличится до {POWER} % и враги поблизости будут задеты."
 "specials.v2.property.buffcategorycountbasedpowermodifierandtargettype.extra","Побежденные союзники не считаются участвующими в бою."
 "specials.v2.property.buffchainstrike.target_prefer_continuation.no_duplicates","Если у цели есть усиления и она задета, то нацеливается на следующего врага с усилениями. Если у других врагов нет усилений, то бьет случайного врага. Урон уменьшается при каждом последующем попадании. По каждому врагу может быть нанесено не больше одного удара."
-"specials.v2.property.bypasscounterattackandreflect","Нельзя отразить атаку или ответить контратакой."
+"specials.v2.property.bypasscounterattackandreflect","Атака обходит контратаки и ее нельзя отразить."
 "specials.v2.property.bypassdefensivebuffs","Атака имеет {BYPASSCHANCE} % шанс обойти усиливающие защиту заклинания."
 "specials.v2.property.bypassdefensivebuffs.bypass_always","Атака обходит усиливающие защиту заклинания."
 "specials.v2.property.bypassdefensivebuffs.extra","Включает в том числе и контратаки."
@@ -487,6 +490,7 @@
 "specials.v2.property.casterbasestatdependentsecondaryeffect.heal.fixed_power.extra","При исцелении количество дополнительного здоровья зависит от защиты героя с учетом всех модификаторов.
 До {MAXFIXEDPOWER} дополнительного исцеления
 Эффекты статуса, влияющие на исцеление, влияют и на этот показатель."
+"specials.v2.property.casterbasestatdependentsecondaryeffect.heal.neartotarget.allies.defense.fixed_power","Дар роста: восстанавливает {FIXEDPOWERPERBASESTAT} дополнительного здоровья за каждую единицу измененной атаки."
 "specials.v2.property.chain_effect.damage","Наносит {HEALTH} % урона задетым целям."
 "specials.v2.property.chainstrike","Наносит {HEALTH} % урона цели. Наносит {DAMAGE} % урона дополнительно {MAXHITS} случайным врагам."
 "specials.v2.property.chainstrike.allowmaintargetinrandomtargets","Наносит {DAMAGE} % урона цели и {MAXHITS} случайным врагам."
@@ -496,6 +500,7 @@
 "specials.v2.property.chainstrike.minordamage.with_chance","Шанс {CHANCE} % нанести дополнительные удары случайным врагам. Максимум до {MAXHITS} раз. Дополнительные удары наносят незначительный урон."
 "specials.v2.property.chainstrike.randommaintarget","Наносит {DAMAGE} % урона {TOTALMAXHITS} случайным врагам."
 "specials.v2.property.chainstrikewitheffectonsametargethits.addmana.single.allies.2_outof_2","Герой получает {EXTRAEFFECTPOWER} % маны, если обе атаки поражают одну цель."
+"specials.v2.property.chainstrikewitheffectonsametargethits.allowmaintargetinrandomtargets.onehit","Наносит {DAMAGE} % случайному врагу."
 "specials.v2.property.chainstrikewitheffectperhit.addmana.all.allies.minordamage.with_chance","Шанс {CHANCE} % нанести дополнительные удар по случайным врагам. Максимум: {MAXHITS} раз(а). Дополнительные удары наносят незначительный урон.
  Все союзники получают небольшое количество маны за каждый удар."
 "specials.v2.property.chainstrikewitheffectperhit.all.allies.minordamage.with_chance","Шанс {CHANCE} % нанести дополнительные удары случайным врагам. Максимум до {MAXHITS} раз. Дополнительные удары наносят незначительный урон."
@@ -695,7 +700,7 @@
 "specials.v2.property.excessdamagetonearbytargets","Если цель побеждена, остаток урона наносится каждому врагу поблизости."
 "specials.v2.property.extradamageagainstboostedhealth","Наносит {DAMAGE} дополнительного урона, если у цели есть бонус к здоровью."
 "specials.v2.property.extradamageagainstfamiliarsummoners","Наносит {DAMAGEMULTIPLIER} % урона всем героям, призывающим прислужников и паразитов."
-"specials.v2.property.extradamageagainstmonstercategory.titan","Наносит {DAMAGEMULTIPLIER} % урона титанам."
+"specials.v2.property.extradamageagainstmonstercategory.titan","Наносит {DAMAGEMULTIPLIER} % урона при сражении с титанами."
 "specials.v2.property.extradamagepercasterstatuseffects.alldebuffs","Наносит дополнительно {DAMAGE} % урона за каждый недуг героя, использующего навык, но не более {MAXDAMAGE} % урона."
 "specials.v2.property.extradamagewithbuffcategory.alldebuffs.allies","Наносит {DAMAGEMULTIPLIER} % урона, если у героя есть недуги или отрицательные складываемые эффекты."
 "specials.v2.property.extradamagewithbuffcategory.alldebuffs.enemies","Наносит {DAMAGEMULTIPLIER} % урона, если у цели есть недуги или отрицательные складываемые эффекты."
@@ -734,6 +739,7 @@
 "specials.v2.property.growth.none.neartotarget.allies.attack","Рост: герой и ближайшие союзники получают {ATTACKINCREASE} атаки."
 "specials.v2.property.growth.none.neartotarget.allies.attack.defense","Рост: герой и все союзники поблизости получают {ATTACKINCREASE} атаки и {DEFENSEINCREASE} защиты."
 "specials.v2.property.growth.none.neartotarget.allies.defense","Рост: герой и все союзники получают {DEFENSEINCREASE} защиты."
+"specials.v2.property.growth.none.neartotargetexceptcaster.allies.attack","Рост: ближайшие союзники получают {ATTACKINCREASE} атаки."
 "specials.v2.property.growth.none.neartotargetexceptcaster.allies.attack.defense","Рост: все союзники поблизости получают {ATTACKINCREASE} атаки и {DEFENSEINCREASE} защиты."
 "specials.v2.property.growth.none.single.allies.attack","Рост: герой получает {ATTACKINCREASE} атаки."
 "specials.v2.property.growth.none.single.allies.attack.defense","Рост: герой получает {ATTACKINCREASE} атаки и {DEFENSEINCREASE} защиты."
@@ -860,6 +866,7 @@
 "specials.v2.property.reducemaxhealth.reducemaxhealth.neartotargetexceptmaintarget.enemies","Сокращает максимальное здоровье врагов поблизости от цели на {REDUCTION}. Эффект сильнее против целей, на которых есть усиления здоровья."
 "specials.v2.property.reducemaxhealth.reducemaxhealth.sides.enemies","Сокращает максимальное здоровье всех врагов по краям вражеского построения на {REDUCTION}. Эффект сильнее против целей, на которых есть усиления здоровья."
 "specials.v2.property.reducemaxhealth.reducemaxhealth.single.allies","Сокращает максимальное здоровье героя на {REDUCTION}. Эффект сильнее против целей, на которых есть усиления здоровья."
+"specials.v2.property.reducemaxhealth.reducemaxhealth.single.enemies","Сокращает максимальное здоровье цели на {REDUCTION}. Эффект сильнее против целей, на которых есть усиления здоровья."
 "specials.v2.property.removebasestatmodifiers","Снимает с цели эффекты роста и увядания."
 "specials.v2.property.removebasestatmodifiers.all.allies","Снимает со всех союзников эффекты роста и увядания."
 "specials.v2.property.removebasestatmodifiers.all.enemies","Снимает со всех врагов эффекты роста и увядания."
@@ -889,14 +896,14 @@
 "specials.v2.property.removestatuseffects.minordebuff.all.allies","Очищает недуги у всех союзников."
 "specials.v2.property.removestatuseffects.minordebuff.all.allies.bypassremoveeffects","Безопасно очищает недуги у всех союзников."
 "specials.v2.property.removestatuseffects.minordebuff.all.allies.bypassremoveeffects.effectonremoval.addmana.single","Безопасно очищает всех союзников от всех недугов и увеличивает их ману на {POWER} % за каждый очищенный недуг."
-"specials.v2.property.removestatuseffects.minordebuff.all.allies.customremovalcount","Очищает недуг у всех союзников."
-"specials.v2.property.removestatuseffects.minordebuff.all.allies.customremovalcount.bypassremoveeffects","Безопасно очищает недуг со всех союзников."
+"specials.v2.property.removestatuseffects.minordebuff.all.allies.customremovalcount","Очищает 1 недуг у всех союзников."
+"specials.v2.property.removestatuseffects.minordebuff.all.allies.customremovalcount.bypassremoveeffects","Безопасно очищает 1 недуг со всех союзников."
 "specials.v2.property.removestatuseffects.minordebuff.all.allies.customremovalcount.multiple","Очищает недуги ({REMOVALCOUNT}) у всех союзников."
 "specials.v2.property.removestatuseffects.minordebuff.all.allies.effectonremoval.addmana.single","Очищает всех союзников от всех недугов и увеличивает их ману на {POWER} % за каждый очищенный недуг."
 "specials.v2.property.removestatuseffects.minordebuff.customremovalcount.extra","Недуги очищаются в том порядке, в которм были получены, начиная с последних."
 "specials.v2.property.removestatuseffects.minordebuff.extra","При безопасном очищении не срабатывают вторичные эффекты снимаемого недуга, например урон при снятии. Внешние эффекты, такие как пассивные навыки и эффекты семьи, все равно могут активироваться."
 "specials.v2.property.removestatuseffects.minordebuff.neartotarget.allies.bypassremoveeffects","Безопасно очищает недуги с героя и ближайших союзников."
-"specials.v2.property.removestatuseffects.minordebuff.single.allies.customremovalcount","Очищает недуг героя."
+"specials.v2.property.removestatuseffects.minordebuff.single.allies.customremovalcount","Очищает 1 недуг героя."
 "specials.v2.property.removestatuseffectsandbasemodifiers.extra","Полное снятие убирает все эффекты статуса, складываемые эффекты, а также эффекты роста и увядания с цели. Снимает даже те эффекты, которые нельзя снять или очистить."
 "specials.v2.property.removestatuseffectsandbasemodifiers.neartotarget.allies.allstatuseffectsandstacks","Накладывает полное снятие на героя и союзников поблизости."
 "specials.v2.property.removestatuseffectsandbasemodifiers.single.allies.allstatuseffectsandstacks","Накладывает полное снятие на героя."
@@ -1009,6 +1016,7 @@
 "specials.v2.property.statuseffectreallocation.from.all.enemies.to.all.allies","Крадет у всех врагов все блокируемые усиления и случайным образом распределяет их между союзниками."
 "specials.v2.property.statuseffectreallocation.from.all.enemies.to.all.allies.customreallocationcount","Крадет у всех врагов последнее снимаемое усиление и случайным образом распределяет его между союзниками."
 "specials.v2.property.statuseffectreallocation.from.all.enemies.to.lessorequaltohalfhpleft.allies","Крадет у всех врагов снимаемые усиления и случайным образом распределяет их между союзниками, у которых осталось 50 % и менее здоровья."
+"specials.v2.property.statuseffectreallocation.from.all.enemies.to.lessorequaltohalfhpleft.allies.customreallocationcount","Крадет у всех врагов последние наложенные снимаемые усиления и случайным образом распределяет их между союзниками, у которых осталось 50 % и менее здоровья."
 "specials.v2.property.statuseffectreallocation.from.all.enemies.to.single.allies","Крадет у всех врагов все блокируемые усиления и передает герою."
 "specials.v2.property.statuseffectreallocation.from.neartotarget.allies.to.all.enemies","Забирает у героя и союзников поблизости все снимаемые недуги и случайным образом распределяет их между врагами."
 "specials.v2.property.statuseffectreallocation.from.neartotarget.enemies.to.all.allies","Крадет у цели и врагов поблизости все блокируемые усиления и случайным образом распределяет их между союзниками."
@@ -1073,11 +1081,14 @@
 Паразит наносит урон своей цели каждый ход. Паразит поглощает лечение и исчезает, когда впитает исцеление в размере, зависящем от макс. здоровья цели."
 "specials.v2.property.targetfamiliarbasedchainstrikewithfamiliarsummon.onehit.parasite.bigparasite.evolving_seedling_parasite","Если у цели есть паразиты или мегапаразиты, наносит {DAMAGE} % урона случайному врагу.
 Призывает росток-паразит к задетым врагам."
+"specials.v2.property.targetfamiliarbasedchainstrikewithfamiliarsummon.onehit.parasite.bigparasite.evolving_seedling_parasite_with_delay","Если у цели есть паразиты или мегапаразиты, наносит {DAMAGE} % урона случайному врагу.
+Призывает росток-паразит к задетым врагам."
 "specials.v2.property.targethealthdependantextradamage.over_health_boundary.all","Наносит {DAMAGEMULTIPLIER} % урона врагам, у которых осталось больше {HEALTHBOUNDARY} % здоровья."
 "specials.v2.property.targethealthdependantextradamage.over_health_boundary.neartotarget","Наносит {DAMAGEMULTIPLIER} % урона врагам, у которых осталось больше {HEALTHBOUNDARY} % здоровья."
 "specials.v2.property.targethealthdependantextradamage.over_health_boundary.single","Наносит {DAMAGEMULTIPLIER} % урона, если у цели осталось больше {HEALTHBOUNDARY} % здоровья."
 "specials.v2.property.targethealthdependantextradamage.under_health_boundary.all","Наносит {DAMAGEMULTIPLIER} % урона врагам, у которых осталось меньше {HEALTHBOUNDARY} % здоровья."
 "specials.v2.property.targethealthdependantextradamage.under_health_boundary.neartotarget","Наносит {DAMAGEMULTIPLIER} % урона врагам, у которых осталось меньше {HEALTHBOUNDARY} % здоровья."
+"specials.v2.property.targethealthdependantextradamage.under_health_boundary.neartotargetminor","Наносит дополнительный урон врагам, у которых осталось меньше {HEALTHBOUNDARY} % здоровья."
 "specials.v2.property.targethealthdependantextradamage.under_health_boundary.single","Наносит {DAMAGEMULTIPLIER} % урона, если у цели осталось меньше {HEALTHBOUNDARY} % здоровья."
 "specials.v2.property.thresholdaftereffectchainstrike.allowmaintargetinrandomtargets.target_random.allow_duplicates.over_mana_threshold","Если у цели больше {THRESHOLD1} % маны после ее уменьшения, особый навык вновь нацеливается на случайного врага. Урон уменьшается после каждого следующего попадания."
 "specials.v2.property.thresholdaftereffectchainstrike.over_mana_threshold","Если у цели больше {THRESHOLD1} % маны после ее уменьшения, особый навык вновь нацеливается на случайного врага. Урон уменьшается после каждого следующего попадания."
@@ -1093,7 +1104,9 @@
 "specials.v2.property.tilecountbasedamplifiedeffect.damage.neartotarget.enemies.green_tiles.neartotarget","Если на поле не менее {COUNTREQUIREMENT} щитов природы, урон наносится цели и врагам поблизости."
 "specials.v2.property.tilecountbasedamplifiedeffect.damage.neartotarget.enemies.purple_tiles.neartotarget","Если на поле не менее {COUNTREQUIREMENT} щитов тьмы, урон наносится и недуги передаются цели и врагам поблизости."
 "specials.v2.property.tileenhancement.accuracymodifier.both.blue","Изменяет вероятность критического удара или меткость всех щитов льда на поле. Когда атакующий герой использует особый навык, щиты усиливаются на {MODIFIERATTACKER} % вероятности критического удара. Если особый навык использует герой защиты, щиты ослабляются на {MODIFIERDEFENDER} % меткости."
+"specials.v2.property.tileenhancement.accuracymodifier.both.red","Изменяет вероятность критического удара или меткость всех щитов огня на поле. Когда атакующий герой использует особый навык, щит усиливается на {MODIFIERATTACKER} % вероятности критического удара. Если особый навык использует герой защиты, щиты ослабляются на {MODIFIERDEFENDER} % меткости."
 "specials.v2.property.tileenhancement.accuracymodifier.npcs.blue","Ослабляет все щиты льда на поле. Меткость ослабленных щитов: {MODIFIERDEFENDER} %."
+"specials.v2.property.tileenhancement.accuracymodifier.npcs.red","Ослабляет все щиты огня на поле. Атака ослабленных щитов: {MODIFIERDEFENDER} %."
 "specials.v2.property.tileenhancement.attackmultiplier.both.blue","Изменяет силу всех щитов льда на поле. Когда атакующий герой использует особый навык, щиты усиливаются на {MODIFIERATTACKER} % атаки. Если особый навык использует герой защиты, щиты ослабляются на {MODIFIERDEFENDER} % атаки."
 "specials.v2.property.tileenhancement.attackmultiplier.both.green","Изменяет силу всех щитов природы на поле. Когда атакующий герой использует особый навык, щиты усиливаются на {MODIFIERATTACKER} % атаки. Если особый навык использует герой защиты, щиты ослабляются на {MODIFIERDEFENDER} % атаки."
 "specials.v2.property.tileenhancement.attackmultiplier.both.purple","Изменяет силу всех щитов тьмы на поле. Когда атакующий герой использует особый навык, щиты усиливаются на {MODIFIERATTACKER} % атаки. Если особый навык использует герой защиты, щиты ослабляются на {MODIFIERDEFENDER} % атаки."
@@ -1110,6 +1123,7 @@
 "specials.v2.property.tileenhancement.attackmultiplier.playercharacters.red","Усиливает все щиты огня на поле. Атака усиленных щитов: {MODIFIERATTACKER} %."
 "specials.v2.property.tileenhancement.attackmultiplier.playercharacters.yellow","Усиливает все щиты святыни на поле. Атака усиленных щитов: {MODIFIERATTACKER} %."
 "specials.v2.property.tileenhancement.criticalchancemultiplier.playercharacters.blue","Усиливает все щиты льда на поле. Вероятность критического удара усиленных щитов: {MODIFIERATTACKER} %."
+"specials.v2.property.tileenhancement.criticalchancemultiplier.playercharacters.red","Усиливает все щиты огня на поле. Вероятность критического удара усиленных щитов: {MODIFIERATTACKER} %."
 "specials.v2.property.tileenhancement.manamultiplier.both.blue","Изменяет силу всех щитов льда на поле. Когда атакующий герой использует особый навык, щиты усиливаются и приносят на {MODIFIERATTACKER} % больше маны. Если особый навык использует герой защиты, щиты ослабляются и приносят на {MODIFIERDEFENDER} % меньше маны."
 "specials.v2.property.tileenhancement.manamultiplier.both.green","Изменяет силу всех щитов природы на поле. Когда атакующий герой использует особый навык, щиты усиливаются и приносят на {MODIFIERATTACKER} % больше маны. Если особый навык использует герой защиты, щиты ослабляются и приносят на {MODIFIERDEFENDER} % меньше маны."
 "specials.v2.property.tileenhancement.manamultiplier.both.purple","Изменяет силу всех щитов тьмы на поле. Когда атакующий герой использует особый навык, щиты усиливаются и приносят на {MODIFIERATTACKER} % больше маны. Если особый навык использует герой защиты, щиты ослабляются и приносят на {MODIFIERDEFENDER} % меньше маны."
@@ -1184,10 +1198,12 @@
 "specials.v2.statuseffect.major.berserkdefense.single.allies","Герой получает {DEFENSE} % к защите, а также дополнительно {CHANGE} % при каждом ударе противника на протяжении {TURNS} х., до {MAXMODIFIER} % защиты. Эффект нельзя снять."
 "specials.v2.statuseffect.major.buffimmunity.neartotarget.enemies","Цель и враги поблизости получают иммунитет к новым усилениям на протяжении {TURNS} х. Эффект нельзя снять."
 "specials.v2.statuseffect.major.buildupdamageonremoval.all.allies.onremoval.damage.random.enemies.expiration","Все союзники наносят {DAMAGE}-{MAXDAMAGE} урона случайному врагу спустя {TURNS} х. в зависимости от урона, который получили союзники, пока этот эффект был активен. Нельзя снять."
+"specials.v2.statuseffect.major.buildupdamageonremoval.single.allies.onremoval.damage.all.enemies.expiration.death","Наносит {DAMAGE}–{MAXDAMAGE} урона всем врагам спустя {TURNS} х. или если этот персонаж побежден, в зависимости от урона, который получил герой, пока этот эффект был активен."
 "specials.v2.statuseffect.major.burn.all.enemies","Все враги получают {DAMAGE} ед. урона от ожога в течение {TURNS} х. Нельзя очистить."
 "specials.v2.statuseffect.major.burn.neartotarget.enemies","Цель и ближайшие враги получают {DAMAGE} ед. урона от ожога в течение {TURNS} х. Нельзя очистить."
 "specials.v2.statuseffect.major.burn.single.enemies","Цель получает {DAMAGE} ед. урона от ожога в течение {TURNS} х. Нельзя очистить."
 "specials.v2.statuseffect.major.constantmanasteal.all.enemies","Герой крадет {CURRENTMANASTEAL} % генерируемой маны у всех врагов в течение {TURNS} х. Эффект нельзя очистить, но он пропадает, если победить героя."
+"specials.v2.statuseffect.major.constantmanasteal.all.enemies.while.single.allies.familiaralive.cursed_sigil_parasite_costume","Герой крадет {CURRENTMANASTEAL} % генерируемой маны у всех врагов. Эффект действует, пока у цели есть проклятая печать-паразит. Эффект нельзя очистить, но он пропадает, если победить героя."
 "specials.v2.statuseffect.major.constantmanasteal.all.enemies.while.single.allies.familiaralive.fire_wisp_parasite_vonreine","Герой крадет {CURRENTMANASTEAL} % генерируемой маны у цели и врагов поблизости. Эффект действует, пока у цели есть огненный дымок-паразит. Эффект нельзя очистить, но он пропадает, если победить героя."
 "specials.v2.statuseffect.major.constantmanasteal.neartotarget.enemies.while.single.allies.familiaralive.fallen_star_parasite","Герой крадет {CURRENTMANASTEAL} % генерируемой маны у цели и врагов поблизости. Эффект действует, пока у цели есть падающая звезда-паразит. Эффект нельзя очистить, но он пропадает, если победить героя."
 "specials.v2.statuseffect.major.corrosivepoison.sides.enemies.managenerationmodifier","Враги по краям формации получают разъедающее отравление в течение {TURNS} х. Разъедающее отравление наносит {DAMAGEPERTURN} урона и снижает генерацию маны цели на {CHANGE} % каждый ход. Нельзя очистить."
@@ -1204,8 +1220,8 @@
 "specials.v2.statuseffect.major.damageanddebuffshield.single.allies.turns.one","Весь полученный урон и недуги блокируются на {TURNS} х."
 "specials.v2.statuseffect.major.dancemultieffect.allexceptcaster.allies.dance_of_ishq_kesha","Все союзники, кроме героя, танцуют танец Ишк в течение {TURNS} х. 
 
-Танец Ишк
-{STATUSEFFECTS}"
+ Танец Ишк
+ {STATUSEFFECTS}"
 "specials.v2.statuseffect.major.dancemultieffect.allexceptcaster.allies.dance_of_the_dunes","Все союзники, кроме героя, танцуют танец дюн в течение {TURNS} х.
 
 Танец дюн
@@ -1597,6 +1613,7 @@
 "specials.v2.statuseffect.minor.accuracymodifier.red.enemies","Все враги огня получают {ACCURACY} % меткости на {TURNS} х."
 "specials.v2.statuseffect.minor.accuracymodifier.single.allies","Герой получает {ACCURACY} % меткости на {TURNS} х."
 "specials.v2.statuseffect.minor.accuracymodifier.single.enemies","Цель получает {ACCURACY} % меткости на {TURNS} х."
+"specials.v2.statuseffect.minor.accuracymodifier.single.enemies.chain_strike","Все задетые цели получают {ACCURACY} % меткости на {TURNS} х."
 "specials.v2.statuseffect.minor.accuracymodifierperhit.all.enemies","Все враги получают {ACCURACY} % к меткости, а также теряют {CHANGE} % при каждом ударе противника на протяжении {TURNS} х., но не более {MAXACCURACY} % меткости."
 "specials.v2.statuseffect.minor.accuracymodifierpertile.blue.neartotarget.enemies","Цель и враги поблизости получают {ACCURACY} % меткости, и она снижается еще на {ACCURACYPERTILE} % за каждый щит льда на поле в течение {TURNS} х., вплоть до {MAXACCURACY} % меткости."
 "specials.v2.statuseffect.minor.accuracymodifierpertile.purple.all.enemies","Все враги получают {ACCURACY} % меткости, и она снижается еще на {ACCURACYPERTILE} % за каждый щит тьмы на поле в течение {TURNS} х., вплоть до {MAXACCURACY} % меткости."
@@ -1619,6 +1636,7 @@
 "specials.v2.statuseffect.minor.addstatuseffectonremoval.single.enemies.onremoval.expiration.paralysis.single.allies.turns.one","Спустя {TURNS} х. цель будет парализована на {STATUSEFFECT1TURNS} х."
 "specials.v2.statuseffect.minor.addstatuseffectonremoval.single.enemies.onremoval.expiration.paralysis_fruitio.single.allies.turns.one","Спустя {TURNS} х. цель будет парализована на {STATUSEFFECT1TURNS} х."
 "specials.v2.statuseffect.minor.addstatuseffectonremoval.single.enemies.onremoval.expiration.paralysis_knightus.turns.one","Спустя {TURNS} х. цель будет парализована на {STATUSEFFECT1TURNS} х."
+"specials.v2.statuseffect.minor.addstatuseffectonremoval.single.enemies.onremoval.expiration.paralysis_wilcox.turns.one","Спустя {TURNS} х. цель будет парализована на {STATUSEFFECT1TURNS} х."
 "specials.v2.statuseffect.minor.addstatuseffectonremoval.single.enemies.onremoval.paralysis.single.allies.turns.one","Спустя {TURNS} х. цель будет парализована на {STATUSEFFECT1TURNS} х."
 "specials.v2.statuseffect.minor.addstatuseffectonremoval.single.enemies.onremoval.paralysis_fruitio.turns.one","Спустя {TURNS} х. цель будет парализована на {STATUSEFFECT1TURNS} х."
 "specials.v2.statuseffect.minor.amplifieddamageonremoval.single.allies.onremoval.damage.all.enemies.expiration.onremoval.damage.all.enemies.dispel.removal.reallocation.death.replacesamestatuseffect.override.enterabsentform","Герой наносит {REMOVALEFFECT1FIXEDPOWER} урона всем врагам спустя {TURNS} х. Если эффект снимается или заменяется до истечения срока, наносит {REMOVALEFFECT2FIXEDPOWER} урона."
@@ -1646,7 +1664,7 @@
 "specials.v2.statuseffect.minor.assistskillspecialskilldefensemodifier.all.enemies","Все враги получают {SPECIALSKILLDEFENSE} % защиты против особых навыков в течение {TURNS} ходов."
 "specials.v2.statuseffect.minor.astralorbaddstatuseffectsonremoval.single.enemies.onremoval.damage.single.allies.expiration.replacesamestatuseffect.onremoval.dispel.bouncing_damage_over_time_anatemah.single.allies.chain_strike","Пораженные враги получают астральные шары.
 Владелец астрального шара не может получать новые усиления, находясь под его воздействием.
- Спустя {TURNS} х. астральные шары взрываются и наносят {DAMAGE} ед. урона своему владельцу.
+ Спустя {TURNS} х. астральные шары взрываются и наносят {DAMAGE} ед. урона владельцу.
  Если астральный шар очищен, его владелец получает резонанс на {STATUSEFFECT1TURNS} х. Резонанс наносит {STATUSEFFECT1DAMAGEPERTURN} ед. урона каждый ход. Он также наносит {DAMAGEPERBOUNCE} дополнительного урона, который распространяется на {MAXBOUNCES} случайных врагов."
 "specials.v2.statuseffect.minor.attackmodifier.all.allies","Все союзники получают {ATTACK} % атаки на {TURNS} ходов(а)."
 "specials.v2.statuseffect.minor.attackmodifier.all.allies.noturns","Все союзники получают продолжительный эффект: {ATTACK} % атаки."
@@ -1728,6 +1746,7 @@
 "specials.v2.statuseffect.minor.blockstatuseffectcasting.neartotarget.enemies","Цель и ближайшие враги не могут накладывать эффекты статуса на врагов или союзников в течение {TURNS} х."
 "specials.v2.statuseffect.minor.blockstatuseffectcasting.single.enemies","Цель не может накладывать эффекты статуса на врагов или союзников в течение {TURNS} х."
 "specials.v2.statuseffect.minor.blockstatuseffectcasting.single.enemies.chain_strike","Все задетые цели не могут накладывать эффекты статуса на врагов или союзников в течение {TURNS} х."
+"specials.v2.statuseffect.minor.blockstatuseffectcasting.single.enemies.chain_strike.only_main_target","Цель не может накладывать эффекты статуса на врагов или союзников в течение {TURNS} х."
 "specials.v2.statuseffect.minor.blocktalentskillactivation.all.enemies","Блокирует активацию навыков таланта у всех врагов в течение {TURNS} х."
 "specials.v2.statuseffect.minor.blocktalentskillactivation.single.enemies","Блокирует активацию навыков таланта у цели в течение {TURNS} х."
 "specials.v2.statuseffect.minor.blocktauntcasting.all.enemies","Все враги не могут накладывать насмешку на врагов или союзников в течение {TURNS} ходов."
@@ -1993,6 +2012,7 @@
 "specials.v2.statuseffect.minor.fixedattackmodifier.neartotarget.enemies","Цель и враги поблизости получают {ATTACK} атаки на {TURNS} х."
 "specials.v2.statuseffect.minor.fixedattackmodifier.neartotarget.enemies.removeonhealfromspecialreceived","Цель и враги поблизости получают {ATTACK} атаки, пока не исцеляются особым навыком."
 "specials.v2.statuseffect.minor.fixedattackmodifier.single.enemies","Цель получает {ATTACK} атаки на {TURNS} х."
+"specials.v2.statuseffect.minor.fixedattackmodifier.single.enemies.chain_strike","Задетые враги получают {ATTACK} атаки на {TURNS} х."
 "specials.v2.statuseffect.minor.fixedbluedefensemodifier.single.enemies.chain_strike","Все затронутые цели получают {DEFENSE} защиты от льда на {TURNS} х."
 "specials.v2.statuseffect.minor.fixedcrusheddefense.single.enemies","Цель получает {DEFENSE} защиты, а также теряет {CHANGE} при каждом ударе противника на протяжении {TURNS} х. (вплоть до {MAXDEFENSE} защиты)."
 "specials.v2.statuseffect.minor.fixeddefensemodifier.all.allies","Все союзники получают {DEFENSE} защиты на {TURNS} х."
@@ -2003,6 +2023,7 @@
 "specials.v2.statuseffect.minor.fixeddefensemodifier.single.allies","Герой получает {DEFENSE} защиты на {TURNS} х."
 "specials.v2.statuseffect.minor.fixeddefensemodifier.single.enemies","Цель получает {DEFENSE} защиты на {TURNS} х."
 "specials.v2.statuseffect.minor.fixedgamble.all.allies","Все союзники получают {ATTACK} атаки с {ACCURACY} % меткостью на {TURNS} х."
+"specials.v2.statuseffect.minor.fixedgreendefensemodifier.single.enemies","Цель получает {DEFENSE} защиты против природы на {TURNS} х."
 "specials.v2.statuseffect.minor.fixedhealthrecovery.all.allies","Все союзники восстанавливают {TOTAL} ОЗ в течение {TURNS} ходов."
 "specials.v2.statuseffect.minor.fixedhealthrecovery.all.allies.noturns","Все союзники получают продолжительный эффект: восстановление {HPPERTURN} здоровья каждый ход."
 "specials.v2.statuseffect.minor.fixedhealthrecovery.all.allies.resetondirectspecialdamage","Все союзники восстанавливают {TOTAL} ОЗ за {TURNS} х. Длительность эффекта обнуляется, если владелец эффекта получает прямой урон от особого навыка."
@@ -2029,6 +2050,7 @@
 "specials.v2.statuseffect.minor.fixedpurpledefensemodifier.single.enemies","Цель получает {DEFENSE} к защите против тьмы на {TURNS} х."
 "specials.v2.statuseffect.minor.fixedspecialskilldefensemodifier.all.allies","Все союзники получают {DEFENSE} защиты против особых навыков на протяжении {TURNS} х."
 "specials.v2.statuseffect.minor.fixedspecialskilldefensemodifier.all.enemies","Все враги получают {DEFENSE} защиты против особых навыков на протяжении {TURNS} х."
+"specials.v2.statuseffect.minor.fixedyellowdefensemodifier.single.enemies.chain_strike","Цель получает {DEFENSE} защиты против святыни на {TURNS} х."
 "specials.v2.statuseffect.minor.fluffvolleystatuseffectskill.neartotarget.allies.on.turnend.damage.random.enemies.addmana.random.enemies","В конце каждого хода герой и союзники поблизости выстреливают пушистым залпом в случайного врага в течение {TURNS} х.
 Каждый пушистый залп наносит {POWER1} % урона.
 Каждый пушистый залп снижает ману пораженного врага на {ABSPOWER2} %."
@@ -2075,6 +2097,7 @@
 "specials.v2.statuseffect.minor.healonremoval.all.allies.onremoval.heal.single.allies","Все союзники получают {REMOVALEFFECT1FIXEDPOWER} здоровья спустя {TURNS} х. Если эффект снимается до истечения срока, они получают здоровье немедленно."
 "specials.v2.statuseffect.minor.healonremoval.single.allies.onremoval.heal.all.allies.expiration.replacesamestatuseffect","Все союзники восстанавливают {REMOVALEFFECT1FIXEDPOWER} здоровья спустя {TURNS} х."
 "specials.v2.statuseffect.minor.healstatuseffectskill.single.allies.on.allyspecial.healthboost.all.allies","В течение {TURNS} х. герой восстанавливает {FIXEDPOWER} усиленного здоровья всем союзникам каждый раз после использования особого навыка любым союзником."
+"specials.v2.statuseffect.minor.healstatuseffectskill.single.allies.on.allyspecial.healthboost.neartotarget.allies","В течение {TURNS} х. герой восстанавливает {FIXEDPOWER} усиленного здоровья герою и союзникам поблизости каждый раз после использования особого навыка любым союзником."
 "specials.v2.statuseffect.minor.healsteal.all.enemies","Герой забирает {HEALING} % от исцеления всех врагов на {TURNS} ходов(а)."
 "specials.v2.statuseffect.minor.healsteal.neartotarget.enemies","Герой забирает {HEALING} % от исцеления цели и ближайших врагов на {TURNS} ходов(а)."
 "specials.v2.statuseffect.minor.healsteal.single.enemies","Герой забирает {HEALING} % от исцеления цели на {TURNS} ходов(а)."
@@ -2092,7 +2115,7 @@
 "specials.v2.statuseffect.minor.increasingbleed.all.enemies","Все враги получают {DAMAGE} урона от кровотечения на протяжении {TURNS} ходов. Урон медленно увеличивается с каждым ходом."
 "specials.v2.statuseffect.minor.increasingcounterattack.all.allies","Все союзники контратакуют с {DEFLECTION} % полученного урона в течение {TURNS} х. Урон от контратаки увеличивается на {INCREASEPERTURN} % с каждым ходом до максимума {MAXDEFLECTION} %."
 "specials.v2.statuseffect.minor.increasingcounterattack.neartotarget.allies","Герой и союзники поблизости контратакуют с {DEFLECTION} % полученного урона в течение {TURNS} х. Урон от контратаки увеличивается на {INCREASEPERTURN} % с каждым ходом до максимума {MAXDEFLECTION} %."
-"specials.v2.statuseffect.minor.increasingcounterattack.single.allies","Герой контратакует с {DEFLECTION} % полученного урона в течение {TURNS} х. Урон от контратаки увеличивается на {INCREASEPERTURN} % с каждым ходом до максимума {MAXDEFLECTION} %."
+"specials.v2.statuseffect.minor.increasingcounterattack.single.allies","Герой контратакует, нанося {DEFLECTION} % полученного урона в течение {TURNS} х. Урон от контратаки увеличивается на {INCREASEPERTURN} % с каждым ходом, вплоть до {MAXDEFLECTION} %."
 "specials.v2.statuseffect.minor.increasingdefensemodifier.all.allies","Все союзники получают {DEFENSE} % обороны на {TURNS} х. Оборона увеличивается на {INCREASEPERTURN} % каждый ход, до {CAP} %."
 "specials.v2.statuseffect.minor.increasingdefensemodifier.all.enemies","Все враги получают {DEFENSE} % защиты на {TURNS} х. Защита снижается на {INCREASEPERTURN} % каждый ход, до {CAP} %."
 "specials.v2.statuseffect.minor.increasingdefensemodifier.neartotarget.allies","Герой и союзники поблизости получают {DEFENSE} % обороны на {TURNS} х. Оборона увеличивается на {INCREASEPERTURN} % каждый ход, до {CAP} %."
@@ -2105,7 +2128,7 @@
 "specials.v2.statuseffect.minor.increasingpoison.single.enemies","Цель получает {DAMAGE} урона ядом на протяжении {TURNS} ходов. Урон медленно увеличивается с каждым ходом."
 "specials.v2.statuseffect.minor.increasingproportionalmanarecovery.neartotarget.allies","Герой и союзники поблизости получают ману каждый ход в течение {TURNS} х. Получаемая мана возрастает каждый ход до последнего хода, на котором можно получить {MAXMANAPERTURN} % маны."
 "specials.v2.statuseffect.minor.increasingproportionalmanarecovery.neartotargetexceptcaster.allies","Ближайшие союзники получают ману каждый ход в течение {TURNS} х. Получаемая мана возрастает каждый ход до последнего хода, на котором можно получить {MAXMANAPERTURN} % маны."
-"specials.v2.statuseffect.minor.increasingspecialdamagepowermodifier.single.allies.removeonspecialcast","Герой получает дополнительные {POWER} % силы за следующий использованный особый навык. Дополнительная сила увеличивается на {INCREASEPERTURN} % каждый ход, до максимума {MAXPOWERADDITION} %."
+"specials.v2.statuseffect.minor.increasingspecialdamagepowermodifier.single.allies.removeonspecialcast","Герой получает дополнительные {POWER} % силы за следующий использованный особый навык. Дополнительная сила увеличивается на {INCREASEPERTURN} % каждый ход, вплоть до {MAXPOWERADDITION} %."
 "specials.v2.statuseffect.minor.insanityonhit.single.allies","В течение следующих {TURNS} х. герой накладывает {STATUSEFFECT1INSANITYTOADD} ед. безумия на всех врагов каждый раз, когда он попадает под удар. Эффект может быть вызван, когда враг наносит урон особым навыком. Клетки и особые атаки ограничиваются одним разом за ход."
 "specials.v2.statuseffect.minor.invisible.single.allies.all.enemies.expiration.while.caster.allies.hastargetableallies","Если у героя, использующего навык, есть союзники, к которым его можно применить, к герою нельзя применить навык в течение {TURNS} х. Наносит {FIXEDPOWER} урона всем врагам после последнего хода или когда герой становится последним, к кому можно применить навык."
 "specials.v2.statuseffect.minor.lifesteal.all.allies","Все герои исцеляют {LIFESTEAL} % обычного урона в течение {TURNS} ходов."
@@ -2169,7 +2192,7 @@
 Каждый лунный луч снижает ману пораженного врага на {ABSPOWER2} %."
 "specials.v2.statuseffect.minor.moonbeamstatuseffectskill.all.allies.on.turnend.damage.random.enemies.reducemaxhealth.random.enemies.with_chance","В конце каждого хода все союзники выстреливают астральным лучом в случайного врага в течение {TURNS} х.
 Каждый астральный луч наносит {POWER1} % урона.
-Каждый астральный луч снижает макс. здоровье пораженного врага на {REDUCTION}."
+Каждый астральный луч снижает макс. здоровье пораженного врага на {REDUCTION2}."
 "specials.v2.statuseffect.minor.moonbeamstatuseffectskill.neartotarget.allies.on.turnend.damage.random.enemies.addmana.random.enemies","В конце каждого хода герой и союзники поблизости выстреливают лунным лучом в случайного врага в течение {TURNS} х.
 Каждый лунный луч наносит {POWER1} % урона.
 Каждый лунный луч снижает ману пораженного врага на {ABSPOWER2} %."
@@ -2190,7 +2213,8 @@
 "specials.v2.statuseffect.minor.normalattackmodifier.single.allies","Герой получает {ATTACK} % к обычным атакам на {TURNS} ходов(а)."
 "specials.v2.statuseffect.minor.normalattacknullifier.neartotarget.enemies","Цель и враги поблизости не учитываются в уроне отрядов в течение {TURNS} х."
 "specials.v2.statuseffect.minor.normalattackreceiveddamagemodifier.neartotargetminor.enemies","Цель получает на {DAMAGEMODIFIER} % больше урона от обычных атак, а враги поблизости получают {MINORDAMAGEMODIFIER} % урона от обычных атак в течение 3 х."
-"specials.v2.statuseffect.minor.painempathy.single.enemies","Цель получает {DAMAGEMULTIPLIER} % урона за весь полученный союзниками урон в течение {TURNS} х."
+"specials.v2.statuseffect.minor.painempathy.sides.enemies","Враги по краям построения получают {DAMAGEMULTIPLIER} % всего урона, полученного их союзниками, в течение {TURNS} х."
+"specials.v2.statuseffect.minor.painempathy.single.enemies","Цель получает {DAMAGEMULTIPLIER} % всего урона, полученного ее союзниками, в течение {TURNS} х."
 "specials.v2.statuseffect.minor.poison.all.enemies","Все враги получают {DAMAGE} ед. урона от яда в течение {TURNS} ходов(а)."
 "specials.v2.statuseffect.minor.poison.all.enemies.absorb_healing.to.all","Все враги получают {DAMAGE} ед. урона от яда в течение {TURNS} х. Герой и все его союзники поглощают {ABSORBHEALING} % нанесенного ядом урона в виде здоровья."
 "specials.v2.statuseffect.minor.poison.all.enemies.absorb_healing.to.single","Все враги получают {DAMAGE} ед. урона от яда в течение {TURNS} х. Герой поглощает {ABSORBHEALING} % нанесенного ядом урона в виде здоровья."
@@ -2210,22 +2234,26 @@
 "specials.v2.statuseffect.minor.poisonpertile.purple.all.enemies","Все враги получают {BASEDAMAGE} урона ядом и дополнительно {DAMAGEPERTILE} урона за каждый щит тьмы на поле в течение {TURNS} х., вплоть до {MAXDAMAGE} урона."
 "specials.v2.statuseffect.minor.possession.all.enemies","Когда заполняется шкала маны, все враги автоматически используют Безумную атаку на случайном союзнике в течение {TURNS} ходов."
 "specials.v2.statuseffect.minor.possession.all.enemies.mindless_attack","Когда заполняется шкала маны, все враги автоматически используют Безумную атаку на случайном союзнике. Эффект длится {TURNS} х."
-"specials.v2.statuseffect.minor.possession.neartotarget.enemies.healing_gift","В течение 3 ходов цель и враги поблизости вынуждены использовать Бездумное исцеление при полной мане.
+"specials.v2.statuseffect.minor.possession.neartotarget.enemies.healing_gift","В течение {TURNS} х. цель и враги поблизости вынуждены использовать ""Бездумное исцеление"" при полной мане.
 
 {SPECIALTITLE}
 {SPECIALDESCRIPTION}"
 "specials.v2.statuseffect.minor.possession.neartotarget.enemies.mindless_attack","Цель и враги поблизости автоматически используют Безумную атаку на случайном союзнике, когда заполняется шкала маны. Эффект длится {TURNS} х."
 "specials.v2.statuseffect.minor.possession.random.enemies.shifting_mindless_attack.removeonspecialcast","Случайно пораженная цель автоматически использует ""Безумие оборотня"" на случайном союзнике в течение {TURNS} х., когда заполняется шкала маны. Если вызывается этот эффект, он действует на задетом союзнике, и длительность обновляется."
+"specials.v2.statuseffect.minor.possession.sides.enemies.healing_gift","В течение {TURNS} х. враги по краям вражеской формации вынуждены использовать ""Бездумное исцеление"" при полной мане.
+
+{SPECIALTITLE}
+{SPECIALDESCRIPTION}"
 "specials.v2.statuseffect.minor.possession.single.allies.shifting_mindless_attack.removeonspecialcast","Цель автоматически использует ""Безумие оборотня"" на случайном союзнике в течение {TURNS} х., когда заполняется шкала маны. Если вызывается этот эффект, он действует на задетом союзнике, и длительность обновляется."
 "specials.v2.statuseffect.minor.possession.single.enemies.healing_gift_anteros","В течение {TURNS} ходов цель вынуждена использовать ""Бездумное исцеление"" при полной мане.
 
 {SPECIALTITLE}
 {SPECIALDESCRIPTION}"
-"specials.v2.statuseffect.minor.possession.single.enemies.healing_gift_kabeiroi.chain_strike.four_hit_chain_strike_kabeiroi.on_additional_hit","В течение 3 ходов все задетые враги вынуждены использовать ""Бездумное исцеление"" при полной мане.
+"specials.v2.statuseffect.minor.possession.single.enemies.healing_gift_kabeiroi.chain_strike.four_hit_chain_strike_kabeiroi.on_additional_hit","В течение {TURNS} х. все задетые враги вынуждены использовать ""Бездумное исцеление"" при полной мане.
 
 {SPECIALTITLE}
 {SPECIALDESCRIPTION}"
-"specials.v2.statuseffect.minor.possession.single.enemies.healing_gift_kabeiroi.chain_strike.only_main_target","В течение 3 ходов цель вынуждена использовать ""Бездумное исцеление"" при полной мане."
+"specials.v2.statuseffect.minor.possession.single.enemies.healing_gift_kabeiroi.chain_strike.only_main_target","В течение {TURNS} х. цель вынуждена использовать ""Бездумное исцеление"" при полной мане."
 "specials.v2.statuseffect.minor.possession.single.enemies.mindless_attack","Цель автоматически использует Безумную атаку на случайном союзнике в течение {TURNS} ходов(а), когда заполняется шкала маны."
 "specials.v2.statuseffect.minor.possession.single.enemies.mindless_attack.chain_strike","Задетые враги автоматически используют Безумную атаку на случайном союзнике в течение {TURNS} ходов, когда заполняется шкала маны."
 "specials.v2.statuseffect.minor.possession.single.enemies.shifting_mindless_attack.removeonspecialcast","Цель автоматически использует Безумие оборотня на случайном союзнике в течение {TURNS} ходов, когда заполняется шкала маны. Если вызывается этот эффект, он действует на задетом союзнике, и длительность обновляется."
@@ -2270,6 +2298,7 @@
 Рана прислужника: здоровье прислужника цели снижается на {HEALTHREDUCTION} %, а здоровье мегаприслужника снижается на {BIGMINIONHEALTHREDUCTION} % каждый ход."
 "specials.v2.statuseffect.minor.reducefamiliarhealth.neartotarget.enemies.minion.bigminion","Цель и враги поблизости получают рану прислужника на {TURNS} х.
 Рана прислужника: здоровье прислужника цели снижается на {HEALTHREDUCTION} %, а здоровье мегаприслужника снижается на {BIGMINIONHEALTHREDUCTION} % каждый ход."
+"specials.v2.statuseffect.minor.reducemaxhealthonhealthboost.all.enemies","В течение {TURNS} х. все враги превращают все полученные усиления здоровья в уменьшение максимального здоровья. Максимальное здоровье снижается сильнее у целей, здоровье которых уже усилено."
 "specials.v2.statuseffect.minor.reducemaxhealthonhealthboost.neartotarget.enemies","В течение {TURNS} х. цель и враги поблизости превращают все полученные усиления здоровья в уменьшение максимального здоровья. Максимальное здоровье снижается сильнее у целей, здоровье которых уже усилено."
 "specials.v2.statuseffect.minor.reducemaxhealthovertime.all.enemies","Сокращает максимальное здоровье всех врагов на {TOTAL} в течение {TURNS} х. Эффект сильнее против целей, на которых есть усиления здоровья."
 "specials.v2.statuseffect.minor.reducemaxhealthovertime.neartotarget.enemies","Сокращает максимальное здоровье цели и врагов поблизости на {TOTAL} в течение {TURNS} х. Эффект сильнее против целей, на которых есть усиления здоровья."
@@ -2300,6 +2329,7 @@
 "specials.v2.statuseffect.minor.resisthealing.sides.enemies.damage","Враги по краям вражеского построения сопротивляются исцелению и получают {FIXEDPOWER} урона за каждое отвергнутое исцеление в течение {TURNS} ходов."
 "specials.v2.statuseffect.minor.resisthealing.single.enemies.damage","Цель сопротивляется исцелению и получает {FIXEDPOWER} урона за каждое отвергнутое исцеление в течение {TURNS} х."
 "specials.v2.statuseffect.minor.resisthealing.single.enemies.damage.chain_strike","Цель сопротивляется исцелению и получает {FIXEDPOWER} урона за каждое отвергнутое исцеление в течение {TURNS} х."
+"specials.v2.statuseffect.minor.resisthealing.single.enemies.damage.chain_strike.chain_strike_turundh.on_additional_hit","Цель второго удара сопротивляется исцелению и получает {FIXEDPOWER} урона за каждое отвергнутое исцеление в течение {TURNS} х."
 "specials.v2.statuseffect.minor.resistmanaeffects.all.allies","Все союзники обладают иммунитетом к новым отрицательным эффектам маны на {TURNS} х."
 "specials.v2.statuseffect.minor.resistmanaeffects.all.allies.onresist.addmana.single.allies","Все союзники обладают иммунитетом к новым отрицательным эффектам маны на {TURNS} х., и за каждый заблокированный эффект мана увеличивается на {POWER} %."
 "specials.v2.statuseffect.minor.resistmanaeffects.neartotarget.allies.onresist.addmana.single.allies","Герой и все союзники поблизости обладают иммунитетом к новым отрицательным эффектам маны на {TURNS} х., и за каждый заблокированный эффект мана увеличивается на {POWER} %."
@@ -2379,6 +2409,7 @@
 "specials.v2.statuseffect.minor.soulconnection.neartotarget.allies","Герой и союзники поблизости получают связь душ на {TURNS} х. Связанные союзники делят полученный урон."
 "specials.v2.statuseffect.minor.soulconnection.neartotarget.both","Герой и союзники поблизости получают связь душ на {TURNS} х. Связанные союзники делят полученный урон.
  Цель и враги поблизости получают связь душ на {TURNS} х. Связанные враги делят полученный урон."
+"specials.v2.statuseffect.minor.soulconnection.neartotarget.enemies","Цель и враги поблизости получают связь душ на {TURNS} х. Связанные враги делят полученный урон."
 "specials.v2.statuseffect.minor.specialdamageabsorb.all.allies","Все союзники исцеляют {LIFESTEAL} % нанесенного особым навыком урона на протяжении {TURNS} х."
 "specials.v2.statuseffect.minor.specialdamagepowermodifier.all.allies","Все атаки с помощью особых навыков союзников наносят еще {POWER} % урона в течение {TURNS} х."
 "specials.v2.statuseffect.minor.specialdamagepowermodifier.allexceptcaster.allies","Все атаки с помощью особых навыков союзников, кроме героя, наносят еще {POWER} % урона в течение {TURNS} х."
@@ -2433,7 +2464,7 @@
 "specials.v2.statuseffect.minor.spellslay.singleandblue.enemies","Автоматически наносит {DAMAGE} урона цели и всем ледяным врагам, когда их мана заполнена, а также сокращает их ману на {MANAREDUCTION} % на протяжении {TURNS} х."
 "specials.v2.statuseffect.minor.stackingattackmodifier.all.allies","Складываемые (до: {MAXSTACK}): Все союзники получают {ATTACK} % к атаке."
 "specials.v2.statuseffect.minor.stackingattackmodifier.single.allies","Складываемые (до: {MAXSTACK}): Использующий навык герой получает {ATTACK} % атаки."
-"specials.v2.statuseffect.minor.stackingattackmodifier.single.allies.effect_per_eaten_familiar.minion.follower.bigminion","Складывается до {MAXSTACK} р.: герой получает {ATTACK} % к атаке за каждого уничтоженного прислужника."
+"specials.v2.statuseffect.minor.stackingattackmodifier.single.allies.effect_per_eaten_familiar.minion.follower.bigminion","Складывается до {MAXSTACK} р.: герой получает дополнительно {ATTACK} % атаки за каждого уничтоженного прислужника."
 "specials.v2.statuseffect.minor.stackingattackmodifier.single.enemies.chain_strike","Складываемые (до: {MAXSTACK}): Каждый удар дает цели {ATTACK} % атаки."
 "specials.v2.statuseffect.minor.stackingattackmodifieragainstweakerelement.single.allies","Складывается (до: {MAXSTACK} р.): Использующий навык герой получает {ATTACK} % атаки против более слабой стихии."
 "specials.v2.statuseffect.minor.stackingcritmodifier.all.allies.withbasestackcount","Накапливается +{BASESTACKCOUNT} (макс: {MAXSTACK}): Все союзники получают {CRITPERSTACK} % вероятности критического удара."
@@ -2442,7 +2473,7 @@
 "specials.v2.statuseffect.minor.stackingdefensemodifier.all.allies","Накапливается (макс.: {MAXSTACK}): Все союзники получают {DEFENSE} % защиты."
 "specials.v2.statuseffect.minor.stackingdefensemodifier.all.allies.withbasestackcount","Накапливается +{BASESTACKCOUNT} (макс.: {MAXSTACK}): Все союзники получают {DEFENSE} % защиты."
 "specials.v2.statuseffect.minor.stackingdefensemodifier.neartotarget.enemies","Накапливается (макс.: {MAXSTACK}): Цель и враги поблизости получают {DEFENSE} % защиты."
-"specials.v2.statuseffect.minor.stackingdefensemodifier.single.allies.effect_per_eaten_familiar.minion.follower","Складываемые (до: {MAXSTACK}): герой получает {DEFENSE} % к защите за каждого уничтоженного прислужника."
+"specials.v2.statuseffect.minor.stackingdefensemodifier.single.allies.effect_per_eaten_familiar.minion.follower","Складывается до {MAXSTACK} р.: герой получает дополнительно {DEFENSE} % защиты за каждого уничтоженного прислужника."
 "specials.v2.statuseffect.minor.stackingdefensemodifier.single.enemies.chain_strike","Складыватся до {MAXSTACK} р.: каждый удар дает цели {DEFENSE} % защиты."
 "specials.v2.statuseffect.minor.stackinghealthgeneration.all.allies","Складывается до: {MAXSTACK} р.: Все союзники восстанавливают {HEAL} ОЗ каждый ход."
 "specials.v2.statuseffect.minor.stackinghealthgeneration.single.allies","Складывается (до: {MAXSTACK} р.): герой восстанавливает {HEAL} ОЗ каждый ход."
@@ -2461,6 +2492,7 @@
 "specials.v2.statuseffect.minor.stackingminionmaxhealthmodifier.all.allies","Складываемые (до: {MAXSTACK}): Все союзники получают {MAXHEALTH} % ОЗ за новых призванных прислужников."
 "specials.v2.statuseffect.minor.stackingreceiveddamagemodifier.all.allies.decrease","Складывается (макс.: {MAXSTACK}): весь урон, получаемый всеми сюзниками, уменьшается на {DAMAGEMODIFIER} %."
 "specials.v2.statuseffect.minor.stackingreceiveddamagemodifier.all.enemies","Складывается (макс.: {MAXSTACK}): весь урон, получаемый всеми врагами, увеличивается на {DAMAGEMODIFIER} %."
+"specials.v2.statuseffect.minor.stackingreceiveddamagemodifier.neartotarget.allies.decrease","Складывается до {MAXSTACK} р.: весь урон, получаемый героем и союзниками поблизости, уменьшается на {DAMAGEMODIFIER} %"
 "specials.v2.statuseffect.minor.stackingreceiveddamagemodifier.neartotarget.enemies","Складывается (макс.: {MAXSTACK}): весь урон, получаемый целью и врагами поблизости, увеличивается на {DAMAGEMODIFIER} %."
 "specials.v2.statuseffect.minor.stackingreceiveddamagemodifier.single.allies.decrease","Складывается до {MAXSTACK} р.: весь урон, получаемый героем, уменьшается на {DAMAGEMODIFIER} %."
 "specials.v2.statuseffect.minor.stackingreceiveddamagemodifier.single.enemies","Складывается (макс.: {MAXSTACK}): весь урон, получаемый целью, увеличивается на {DAMAGEMODIFIER} %."
@@ -2479,6 +2511,7 @@
 "specials.v2.statuseffect.minor.summonfamiliarperdodgedspecial.all.allies.druid_thorn","Все союзники получают {DODGE} % шанс уклониться от особых навыков на протяжении {TURNS} ходов(а). При каждом уклонении призывается прислужник Шип."
 "specials.v2.statuseffect.minor.summonfamiliarperdodgedspecial.all.allies.druid_thorn_empowered","Все союзники получают {DODGE} % шанс уклониться от особых навыков на протяжении {TURNS} х. При каждом уклонении призывается усиленный прислужник-шип."
 "specials.v2.statuseffect.minor.summonfamiliarperdodgedspecial.all.allies.sakura_fox","Все союзники получают {DODGE} % шанс уклониться от особых навыков на протяжении {TURNS} ходов(а). При каждом уклонении призывается лиса сакуры."
+"specials.v2.statuseffect.minor.targetdependentattackmodifier.all.allies.against_red_titan","Все союзники получают {ATTACK} % атаки на {TURNS} х. Все союзники получают {ATTACKAGAINSTVALIDTARGET} % атаки против огненных титанов."
 "specials.v2.statuseffect.minor.taunt.single.allies","Герой получает Насмешку, которая не позволяет врагам использовать особые навыки против союзников героя на протяжении {TURNS} ходов(а)."
 "specials.v2.statuseffect.minor.toxin.all.enemies.extra_damage_against.boostedhealth.extra_minion_damage.minion.bigminion.follower","Все враги получают {DAMAGE} урона от токсина урона в течение {TURNS} х. Цели с увеличенным здоровьем, прислужниками или мегаприслужником получают дополнительный урон."
 "specials.v2.statuseffect.minor.toxin.neartotarget.enemies.extra_damage_against.boostedhealth.extra_minion_damage.minion.bigminion.follower","Цель и окружающие враги получают {DAMAGE} урона от токсина урона в течение {TURNS} х. Цели с увеличенным здоровьем, прислужниками или мегаприслужником получают дополнительный урон."

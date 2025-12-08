@@ -57,6 +57,7 @@
 "quests.name.hotm_quest1","Efsaneler Tavernası"
 "quests.name.iron","Maden demiri"
 "quests.name.kalevala","Kalevala"
+"quests.name.legendary_troop","Efsaneler Kışlası"
 "quests.name.limit_breaker_dark","Omega Serapları"
 "quests.name.limit_breaker_fire","Omega Serapları"
 "quests.name.limit_breaker_holy","Omega Serapları"

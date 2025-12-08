@@ -57,6 +57,7 @@
 "quests.name.hotm_quest1","伝説の酒場"
 "quests.name.iron","鉄を精製せよ"
 "quests.name.kalevala","カレワラ"
+"quests.name.legendary_troop","レジェンドたちの特殊訓練場"
 "quests.name.limit_breaker_dark","オメガの蜃気楼"
 "quests.name.limit_breaker_fire","オメガの蜃気楼"
 "quests.name.limit_breaker_holy","オメガの蜃気楼"

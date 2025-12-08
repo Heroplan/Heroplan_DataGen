@@ -57,6 +57,7 @@
 "quests.name.hotm_quest1","Taberna de las leyendas"
 "quests.name.iron","Hierro de la mina"
 "quests.name.kalevala","Kalevala"
+"quests.name.legendary_troop","Barracones de las leyendas"
 "quests.name.limit_breaker_dark","Ilusiones omega"
 "quests.name.limit_breaker_fire","Ilusiones omega"
 "quests.name.limit_breaker_holy","Ilusiones omega"

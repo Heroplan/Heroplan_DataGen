@@ -158,6 +158,8 @@
 "herocard.family.title.tales1_baddies.short","Pesadillas de Atlantis"
 "herocard.family.title.tales1_goodies","Familia de defensores de Atlantis"
 "herocard.family.title.tales1_goodies.short","Defensores de Atlantis"
+"herocard.family.title.titan_hunter","Familia de cazatitanes"
+"herocard.family.title.titan_hunter.short","Cazatitantes"
 "herocard.family.title.vanaheim","Reino de Vanaheim"
 "herocard.family.title.vanaheim.short","Vanaheim"
 "herocard.family.title.vegetable","Familia de verduras valerosas"

@@ -158,6 +158,8 @@
 "herocard.family.title.tales1_baddies.short","Кошмар Атлантиды"
 "herocard.family.title.tales1_goodies","Семья защитников Атлантиды"
 "herocard.family.title.tales1_goodies.short","Защитники Атлантиды"
+"herocard.family.title.titan_hunter","Семья охотников на титанов"
+"herocard.family.title.titan_hunter.short","Охотник на титанов"
 "herocard.family.title.vanaheim","Ванахейм"
 "herocard.family.title.vanaheim.short","Ванахейм"
 "herocard.family.title.vegetable","Семья отважных овощей"

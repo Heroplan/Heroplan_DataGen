@@ -948,5 +948,20 @@
   "Mana generation Buff 4": "4個目標法力生成增益",
   "Latest Buff Steal All": "偷取全體最新的增益",
   "Bomb Debuff All": "全體炸彈減益",
-  "Summoner 2x All": "全體召喚2个小兵"
+  "Summoner 2x All": "全體召喚2个小兵",
+  "Aberration Mega Minion": "召喚畸變超級小兵",
+  "MM DoT 1": "超級小兵持續傷害 (單體)",
+  "MM Insanity 1": "超級小兵瘋狂 (單體)",
+  "Soul Bound 1": "靈魂綁定 (單體)",
+  "Drop to 1 Damage All": "全體傷害降至1",
+  "Drop to 1 Damage 3": "3個目標傷害降至1",
+  "Damage when Full Mana 1": "法力全滿時造成傷害 (單體)",
+  "Mana Reducer when Full Mana 1": "法力全滿時降低法力 (單體)",
+  "Hit All Ice": "攻擊全體 (冰)",
+  "Damage when Full Mana on Hit": "命中時法力全滿造成傷害",
+  "Mana Reducer when Full Mana on Hit": "命中時法力全滿降低法力",
+  "Drop to 1 Damage Self": "自身傷害降至1",
+  "Damage when Full Mana 3": "法力全滿時造成傷害 (3個目標)",
+  "Mana Reducer when Full Mana 3": "法力全滿時降低法力 (3個目標)",
+  "Source of Buffs Random 1": "隨機1個增益來源"
 }

@@ -29,10 +29,12 @@ Der Held erhält {1MEMBERCHARGEFROMHEAL}/{2MEMBERSCHARGEFROMHEAL}/{3MEMBERSCHARG
 "familybonuses.description.long.build_charge_nidavellir_alt","Der Geschmolzene Kern wird jedes Mal aufgeladen, wenn dieser Charakter Schaden durch normale Angriffe oder Spezialfähigkeiten erleidet."
 "familybonuses.description.long.cast_defense_debuffs_back_to_enemies","Wenn dieser Held eine negative Statusänderung erleidet, die sich auf die Verteidigung auswirkt, besteht eine Chance von {1MEMBERCHANCE} %/{2MEMBERSCHANCE} %/{3MEMBERSCHANCE} %, die erlittene Änderung auf alle Gegner zu wirken."
 "familybonuses.description.long.champions_special_damage_power_modifier","+{1MEMBERMULTIPLIERPERCENT} %/+{2MEMBERSMULTIPLIERPERCENT} %/+{3MEMBERSMULTIPLIERPERCENT} % zusätzlicher Schaden durch Spezialfähigkeiten."
+"familybonuses.description.long.chance_to_cleanse_all_on_received_special_damage_astral_demons.minordebuff","{1MEMBERCHANCE}/{2MEMBERSCHANCE} % Chance, alle negativen Statusänderungen von diesem Charakter zu säubern, wenn dieser Charakter Schaden durch eine Spezialfähigkeit erleidet."
 "familybonuses.description.long.chance_to_cleanse_on_received_special_damage_astral_demons.minordebuff","{1MEMBERCHANCE}/{2MEMBERSCHANCE} % Chance, eine zufällige säuberbare negative Statusänderung von diesem Charakter zu säubern, wenn dieser Charakter Schaden durch eine Spezialfähigkeit erleidet."
 "familybonuses.description.long.cleanse_random_debuff_on_special_damage_received.minordebuff.onceperturn","{1MEMBERCHANCE} %/{2MEMBERSCHANCE} % Chance, eine zufällige säuberbare negative Statusänderung von allen Verbündeten zu säubern, wenn dieser Charakter Schaden durch eine gegnerische Spezialfähigkeit erleidet. Dieser Effekt kann nur einmal pro Runde aktiviert werden."
 "familybonuses.description.long.counter_attack_ninja","{CHANCE} %/{2MEMBERSCHANCE} %/{3MEMBERSCHANCE} % Chance, mit {MULTIPLIERPERCENT} %/{2MEMBERSMULTIPLIERPERCENT} %/{3MEMBERSMULTIPLIERPERCENT} % des erlittenen Schadens zu kontern."
 "familybonuses.description.long.counter_attack_ninja2","{CHANCE} %/{2MEMBERSCHANCE} %/{3MEMBERSCHANCE} % Chance, mit {MULTIPLIERPERCENT} %/{2MEMBERSMULTIPLIERPERCENT} %/{3MEMBERSMULTIPLIERPERCENT} % des erlittenen Schadens zu kontern."
+"familybonuses.description.long.counter_attack_titan_specials_titan_hunters.against_titan.specialskill.always","Führt einen Gegenangriff mit {1MEMBERMULTIPLIERPERCENT} %/{2MEMBERSMULTIPLIERPERCENT} %/{3MEMBERSMULTIPLIERPERCENT} % des durch Titan-Spezialfähigkeiten erlittenen Schadens aus."
 "familybonuses.description.long.crit_multiplier_zodiac_dragon","{2MEMBERSMULTIPLIERPERCENTCHANGE} % Chance auf kritische Treffer."
 "familybonuses.description.long.critical_multiplier","{2MEMBERSMULTIPLIERPERCENTCHANGE} %/{3MEMBERSMULTIPLIERPERCENTCHANGE} %/{4MEMBERSMULTIPLIERPERCENTCHANGE} %/{5MEMBERSMULTIPLIERPERCENTCHANGE} % Chance auf kritische Treffer."
 "familybonuses.description.long.critical_multiplier_forsaken","{MULTIPLIERPERCENTCHANGE} %/{2MEMBERSMULTIPLIERPERCENTCHANGE} %/{3MEMBERSMULTIPLIERPERCENTCHANGE} % Chance auf kritische Treffer."
@@ -69,7 +71,9 @@ Das Kraftjuwel fügt in jeder Runde einem zufälligen Gegner {FIXEDPOWER} Schade
 Am Ende jedes Zuges und wenn er Schaden erleidet, verliert der Held eine kleine Menge Flugmoment.
 Wenn er seine Spezialfähigkeit wirkt, erhält er Flugmoment.
 Langsamere Helden erhalten eine erhöhte Menge an Flugmoment"
-"familybonuses.description.long.growth_mahayoddha","Am Ende jeder Runde erhalten die Helden der Mahayoddha-Familie Wachstum: {1MEMBERATTACKINCREASE}/{2MEMBERSATTACKINCREASE}/{3MEMBERSATTACKINCREASE} Angriff und {1MEMBERDEFENSEINCREASE}/{2MEMBERSDEFENSEINCREASE}/{3MEMBERSDEFENSEINCREASE} Verteidigung."
+"familybonuses.description.long.growth_mahayoddha","Am Ende jeder Runde erhalten die Helden der Mahayoddha-Familie Wachstum: {1MEMBERATTACKINCREASE}/{2MEMBERSATTACKINCREASE}/{3MEMBERSATTACKINCREASE} Angriff und {1MEMBERDEFENSEINCREASE}/{2MEMBERSDEFENSEINCREASE}/{3MEMBERSDEFENSEINCREASE} Verteidigung.
+Grenzen für geänderte Fähigkeitswerte:
+Min. {MINSTAT} % und max. {MAXSTAT} % der ursprünglichen Werte."
 "familybonuses.description.long.heal_multiplier","{2MEMBERSMULTIPLIERPERCENTCHANGE} %/{3MEMBERSMULTIPLIERPERCENTCHANGE} %/{4MEMBERSMULTIPLIERPERCENTCHANGE} %/{5MEMBERSMULTIPLIERPERCENTCHANGE} % Heilung."
 "familybonuses.description.long.heal_multiplier_classic","{2MEMBERSMULTIPLIERPERCENTCHANGE} %/{3MEMBERSMULTIPLIERPERCENTCHANGE} %/{4MEMBERSMULTIPLIERPERCENTCHANGE} %/{5MEMBERSMULTIPLIERPERCENTCHANGE} % Heilung."
 "familybonuses.description.long.heal_multiplier_hotm2020","{MULTIPLIERPERCENTCHANGE} %/{2MEMBERSMULTIPLIERPERCENTCHANGE} %/{3MEMBERSMULTIPLIERPERCENTCHANGE} % Heilung."
@@ -133,6 +137,7 @@ Der Schlauer-Fuchs-Lakai hat eine Chance von {FAMILIARDODGECHANCE} %, eingehend
 Wenn der Schlauer-Fuchs-Lakai ausweicht, stiehlt er den letzten entfernbaren Bonus vom Angreifer und gibt ihn seinem Besitzer."
 "familybonuses.description.long.start_battle_with_fox_minion.fox_dodge","Der Schlauer-Fuchs-Lakai erhält {FAMILIARHEALTHPERCENT} % Leben und {FAMILIARATTACK} % Angriff vom Helden. Der Schlauer-Fuchs-Lakai hat eine {FAMILIARDODGECHANCE} %-Chance, eingehenden Angriffen auszuweichen.
 Wenn der Schlauer-Fuchs-Lakai ausweicht, stielht er den letzten entfernbaren Bonus vom Angreifer und gibt ihm seinem Besitzer."
+"familybonuses.description.long.start_battle_with_mana_titan_hunters.addmana.single.allies.titan.ubertitan","Erhält zu Beginn des Kampfes {1MEMBERMULTIPLIERPERCENT} %/{2MEMBERSMULTIPLIERPERCENT} %/{3MEMBERSMULTIPLIERPERCENT} % Mana. Erhält gegen Titanen {ALTERNATIVE1MEMBERMULTIPLIERPERCENT} %/{ALTERNATIVE2MEMBERSMULTIPLIERPERCENT} %/{ALTERNATIVE3MEMBERSMULTIPLIERPERCENT} % Mana."
 "familybonuses.description.long.start_battle_with_mask_minion.mask_minion.2members_attack_buff_while_mask_minion.3members_debuff_shield_while_mask_minion","1 Familienmitglied: Dieser Charakter beschwört einen Maskenlakaien mit {FAMILIARHEALTHPERCENT} % Leben und {FAMILIARATTACK} % Angriff, die von diesem Charakter geerbt werden.
 Zusätzliche Fähigkeit bei 2 Familienmitgliedern: Beschwörte Maskenlakaien gewähren dem Besitzer {ATTACK2MEMBERS} % Angriff, solange der Besitzer einen Maskenlakaien hat. Dieser Effekt kann nicht entfernt werden.
 Zusätzliche Fähigkeit mit 3 Familienmitgliedern: Beschworene Maskenlakaien verleihen dem Besitzer Immunität gegen alle negativen Statusänderungen, solange der Besitzer einen Maskenlakaien hat. Dieser Effekt kann nicht entfernt werden."
@@ -174,10 +179,12 @@ Dieser Charakter erhält {CURRENTCHARGEFROMHEAL} Bescheidenheit, wenn er direkte
 "familybonuses.description.short.build_charge_nidavellir_alt","Der Geschmolzene Kern wird jedes Mal aufgeladen, wenn dieser Charakter Schaden durch normale Angriffe oder Spezialfähigkeiten erleidet."
 "familybonuses.description.short.cast_defense_debuffs_back_to_enemies","Wenn dieser Held eine negative Statusänderung erleidet, die sich auf die Verteidigung auswirkt, besteht eine Chance von {CHANCE} %, die erlittene Änderung auf alle Gegner zu wirken."
 "familybonuses.description.short.champions_special_damage_power_modifier","+{MULTIPLIERPERCENT} % zusätzlicher Schaden durch Spezialfähigkeiten."
+"familybonuses.description.short.chance_to_cleanse_all_on_received_special_damage_astral_demons.minordebuff","{CHANCE} % Chance, alle säuberbaren negativen Statusänderungen von diesem Charakter zu säubern, wenn dieser Charakter Schaden durch eine Spezialfähigkeit erleidet."
 "familybonuses.description.short.chance_to_cleanse_on_received_special_damage_astral_demons.minordebuff","{CHANCE} % Chance, eine zufällige säuberbare negative Statusänderung von diesem Charakter zu säubern, wenn dieser Charakter Schaden durch eine Spezialfähigkeit erleidet."
 "familybonuses.description.short.cleanse_random_debuff_on_special_damage_received.minordebuff.onceperturn","Wenn ein Gegner an diesem Charakter Schaden durch eine Spezialfähigkeit verursacht, besteht eine {CHANCE} % Chance, dass dieser Charakter eine zufällige säuberbare negative Statusänderung von allen Verbündeten säubert. Dieser Effekt kann nur einmal pro Runde aktiviert werden."
 "familybonuses.description.short.counter_attack_ninja","{CHANCE} % Chance, mit {MULTIPLIERPERCENT} % des erlittenen Schadens zu kontern."
 "familybonuses.description.short.counter_attack_ninja2","{CHANCE} % Chance, mit {MULTIPLIERPERCENT} % des erlittenen Schadens zu kontern."
+"familybonuses.description.short.counter_attack_titan_specials_titan_hunters.against_titan.specialskill.always","Führt einen Gegenangriff mit {MULTIPLIERPERCENT} % des durch Titan-Spezialfähigkeiten erlittenen Schadens aus."
 "familybonuses.description.short.crit_multiplier_zodiac_dragon","Mondneujahr-Drachenbonus: {MULTIPLIERPERCENTCHANGE} % Chance auf kritische Treffer"
 "familybonuses.description.short.critical_multiplier","{MULTIPLIERPERCENTCHANGE} % Chance auf kritische Treffer"
 "familybonuses.description.short.critical_multiplier_forsaken","{MULTIPLIERPERCENTCHANGE} % Chance auf kritische Treffer"
@@ -267,6 +274,7 @@ Dieser Charakter erhält {CURRENTCHARGEFROMHEAL} Bescheidenheit, wenn er direkte
 "familybonuses.description.short.special_damage_multiplier_zodiac_rat","Mondneujahr-Rattenbonus: {MULTIPLIERPERCENTCHANGE} % Stärke der Spezialfähigkeit"
 "familybonuses.description.short.start_battle_with_fox_minion","Ruft zu Beginn des Kampfes {FAMILIARAMOUNT} Schlauer-Fuchs-Lakaien für sich selbst herbei. Der Schlauer-Fuchs-Lakai hat eine 80 % Chance, eingehenden Angriffen auszuweichen. Bei einem erfolgreichen Ausweichmanöver stiehlt er die letzte aufhebbare Stärkung des Angreifers und gibt sie seinem Besitzer."
 "familybonuses.description.short.start_battle_with_fox_minion.multiple_familiars","Ruft zu Beginn des Kampfes {FAMILIARAMOUNT} Schlauer-Fuchs-Lakaien für sich selbst herbei. Der Schlauer-Fuchs-Lakai hat eine 80 % Chance, eingehenden Angriffen auszuweichen. Bei einem erfolgreichen Ausweichmanöver stiehlt er die letzte aufhebbare Stärkung des Angreifers und gibt sie seinem Besitzer."
+"familybonuses.description.short.start_battle_with_mana_titan_hunters.addmana.single.allies.titan.ubertitan","Erhält zu Beginn des Kampfes {MULTIPLIERPERCENT} % Mana."
 "familybonuses.description.short.start_battle_with_mask_minion","Beschwört einen Maskenlakaien für sich selbst zum Beginn des Kampfes."
 "familybonuses.description.short.start_battle_with_recruit_guard_mega_minion","Beschwört zu Beginn des Kampfs eine Mega-Lakaien-Rekrutenwache mit {FAMILIARHEALTHPERCENT} % LP und {FAMILIARATTACK} % Angriff des Charakters."
 "familybonuses.description.short.status_effect_duration_increase","{CHANCE} % Chance, die Dauer von gewirkten Statuseffekten um {FIXEDVALUE} zu verlängern."
@@ -518,6 +526,8 @@ Die Mondneujahr-Familie bietet verschiedene Mondneujahr-Tierhelden. Jedes Mondne
 "herocard.family.title.tales1_baddies.short","Albträume von Atlantis"
 "herocard.family.title.tales1_goodies","„Verteidiger von Atlantis“-Familie"
 "herocard.family.title.tales1_goodies.short","Verteidiger von Atlantis"
+"herocard.family.title.titan_hunter","Titanenjäger-Familie"
+"herocard.family.title.titan_hunter.short","Titanenjäger"
 "herocard.family.title.vanaheim","Vanaheim-Reich"
 "herocard.family.title.vanaheim.short","Vanaheim"
 "herocard.family.title.vegetable","„Geschicktes Gemüse“-Familie"

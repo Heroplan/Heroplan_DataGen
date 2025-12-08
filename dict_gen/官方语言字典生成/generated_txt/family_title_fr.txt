@@ -158,6 +158,8 @@
 "herocard.family.title.tales1_baddies.short","Cauchemars de l'Atlantide"
 "herocard.family.title.tales1_goodies","Famille Défenseurs de l'Atlantide"
 "herocard.family.title.tales1_goodies.short","Défenseurs de l'Atlantide"
+"herocard.family.title.titan_hunter","Famille des chasseurs de titans"
+"herocard.family.title.titan_hunter.short","Chasseur de titans"
 "herocard.family.title.vanaheim","Royaume de Vanaheim"
 "herocard.family.title.vanaheim.short","Vanaheim"
 "herocard.family.title.vegetable","Famille des braves légumes"

@@ -29,10 +29,12 @@
 "familybonuses.description.long.build_charge_nidavellir_alt","溶解のコアは、このキャラクターが通常攻撃または特殊スキルによるダメージを受けるたびにチャージされる。"
 "familybonuses.description.long.cast_defense_debuffs_back_to_enemies","この英雄が防御力に影響するステータス異常を受けた場合、{1MEMBERCHANCE}%/{2MEMBERSCHANCE}%/{3MEMBERSCHANCE}%の確率で、与えられたステータス異常を敵全員に適用する。"
 "familybonuses.description.long.champions_special_damage_power_modifier","+{1MEMBERMULTIPLIERPERCENT}%/+{2MEMBERSMULTIPLIERPERCENT}%/+{3MEMBERSMULTIPLIERPERCENT}%の追加特殊スキルダメージ。"
+"familybonuses.description.long.chance_to_cleanse_all_on_received_special_damage_astral_demons.minordebuff","特殊スキルによるダメージを受けると{1MEMBERCHANCE}/{2MEMBERSCHANCE}%の確率で、このキャラクターに付与されたすべてのステータス異常を1つ浄化する。"
 "familybonuses.description.long.chance_to_cleanse_on_received_special_damage_astral_demons.minordebuff","特殊スキルによるダメージを受けると{1MEMBERCHANCE}/{2MEMBERSCHANCE}%の確率で、このキャラクターに付与されたいずれかの浄化可能なステータス異常を1つ浄化する。"
 "familybonuses.description.long.cleanse_random_debuff_on_special_damage_received.minordebuff.onceperturn","このキャラクターが敵の特殊スキルでダメージを受けると、{1MEMBERCHANCE}%/{2MEMBERSCHANCE}%の確率で仲間全員から、それぞれに付与されたいずれかの浄化可能なステータス異常が浄化される。この効果は1ターンに1回のみ発動する。"
 "familybonuses.description.long.counter_attack_ninja","{CHANCE}%/{2MEMBERSCHANCE}%/{3MEMBERSCHANCE}%の確率で、受けたダメージの{MULTIPLIERPERCENT}%/{2MEMBERSMULTIPLIERPERCENT}%/{3MEMBERSMULTIPLIERPERCENT}%で反撃する。"
 "familybonuses.description.long.counter_attack_ninja2","{CHANCE}%/{2MEMBERSCHANCE}%/{3MEMBERSCHANCE}%の確率で、受けたダメージの{MULTIPLIERPERCENT}%/{2MEMBERSMULTIPLIERPERCENT}%/{3MEMBERSMULTIPLIERPERCENT}%で反撃する。"
+"familybonuses.description.long.counter_attack_titan_specials_titan_hunters.against_titan.specialskill.always","タイタンの特殊スキルで受けたダメージの{1MEMBERMULTIPLIERPERCENT}%/{2MEMBERSMULTIPLIERPERCENT}%/{3MEMBERSMULTIPLIERPERCENT}%で反撃する。"
 "familybonuses.description.long.crit_multiplier_zodiac_dragon","クリティカル攻撃を与える確率が{2MEMBERSMULTIPLIERPERCENTCHANGE}%になる。"
 "familybonuses.description.long.critical_multiplier","クリティカル攻撃を与える確率が、{2MEMBERSMULTIPLIERPERCENTCHANGE}%/{3MEMBERSMULTIPLIERPERCENTCHANGE}%/{4MEMBERSMULTIPLIERPERCENTCHANGE}%/{5MEMBERSMULTIPLIERPERCENTCHANGE}%になる。"
 "familybonuses.description.long.critical_multiplier_forsaken","クリティカル攻撃を与える確率が、{MULTIPLIERPERCENTCHANGE}%/{2MEMBERSMULTIPLIERPERCENTCHANGE}%/{3MEMBERSMULTIPLIERPERCENTCHANGE}%になる。"
@@ -69,7 +71,9 @@
 各ターン終了時およびダメージを受けた場合、英雄は飛行推進力を少し失う。
 特殊スキルを使用すると、英雄は飛行推進力を獲得する。
 動きの遅い英雄は飛行推進力の獲得量が高くなる"
-"familybonuses.description.long.growth_mahayoddha","マハヨッダファミリーの英雄は、各ターン終了時、成長を獲得する： 攻撃力が{1MEMBERATTACKINCREASE}/{2MEMBERSATTACKINCREASE}/{3MEMBERSATTACKINCREASE}、防御力が{1MEMBERDEFENSEINCREASE}/{2MEMBERSDEFENSEINCREASE}/{3MEMBERSDEFENSEINCREASE}増加する。"
+"familybonuses.description.long.growth_mahayoddha","マハヨッダファミリーの英雄は、各ターン終了時、成長を獲得する： 攻撃力が{1MEMBERATTACKINCREASE}/{2MEMBERSATTACKINCREASE}/{3MEMBERSATTACKINCREASE}、防御力が{1MEMBERDEFENSEINCREASE}/{2MEMBERSDEFENSEINCREASE}/{3MEMBERSDEFENSEINCREASE}増加する。
+変化後の才能スコア制限
+最低値は元の才能スコアの{MINSTAT}%に、最高値は{MAXSTAT}%になる。"
 "familybonuses.description.long.heal_multiplier","回復量が{2MEMBERSMULTIPLIERPERCENTCHANGE}%/{3MEMBERSMULTIPLIERPERCENTCHANGE}%/{4MEMBERSMULTIPLIERPERCENTCHANGE}%/{5MEMBERSMULTIPLIERPERCENTCHANGE}%になる。"
 "familybonuses.description.long.heal_multiplier_classic","回復量が{2MEMBERSMULTIPLIERPERCENTCHANGE}%/{3MEMBERSMULTIPLIERPERCENTCHANGE}%/{4MEMBERSMULTIPLIERPERCENTCHANGE}%/{5MEMBERSMULTIPLIERPERCENTCHANGE}%になる。"
 "familybonuses.description.long.heal_multiplier_hotm2020","回復量が{MULTIPLIERPERCENTCHANGE}%/{2MEMBERSMULTIPLIERPERCENTCHANGE}%/{3MEMBERSMULTIPLIERPERCENTCHANGE}%になる。"
@@ -135,6 +139,7 @@
 このミニオンは{FAMILIARDODGECHANCE}%の確率で敵の攻撃を回避する。
 スライフォックスのミニオンは、回避時に攻撃者に直近に付与された解除可能なバフを奪い、所有者に付与する。"
 "familybonuses.description.long.start_battle_with_fox_minion.fox_dodge","スライフォックスのミニオンは、英雄のライフの{FAMILIARHEALTHPERCENT}%と攻撃力の{FAMILIARATTACK}%を受け継ぐ。また、このミニオンは{FAMILIARDODGECHANCE}%の確率で敵の攻撃を回避する。
+"familybonuses.description.long.start_battle_with_mana_titan_hunters.addmana.single.allies.titan.ubertitan","戦闘開始時にマナを{1MEMBERMULTIPLIERPERCENT}%/{2MEMBERSMULTIPLIERPERCENT}%/{3MEMBERSMULTIPLIERPERCENT}%獲得する。タイタンが相手の場合、マナを{ALTERNATIVE1MEMBERMULTIPLIERPERCENT}%/{ALTERNATIVE2MEMBERSMULTIPLIERPERCENT}%/{ALTERNATIVE3MEMBERSMULTIPLIERPERCENT}%獲得する。"
 "familybonuses.description.long.start_battle_with_mask_minion.mask_minion.2members_attack_buff_while_mask_minion.3members_debuff_shield_while_mask_minion","ファミリーメンバーが1人の場合：このキャラクターのライフの{FAMILIARHEALTHPERCENT}%と攻撃力の{FAMILIARATTACK}%を持つ仮面ミニオンをサモンする。
 ファミリーメンバーが2人の場合に獲得できる追加スキル：仮面のミニオンがサモンされた場合は、所有者が仮面のミニオンを所有する限り、所有者の攻撃力が{ATTACK2MEMBERS}%になる。この効果は解除できない。
 ファミリーメンバーが3人の場合に獲得できる追加スキル：仮面のミニオンがサモンされた場合は、所有者が仮面のミニオンを所有する限り、所有者のすべてのステータス異常を無効化する。この効果は解除できない。"
@@ -176,10 +181,12 @@
 "familybonuses.description.short.build_charge_nidavellir_alt","溶解のコアは、このキャラクターが通常攻撃または特殊スキルによるダメージを受けるたびにチャージされる。"
 "familybonuses.description.short.cast_defense_debuffs_back_to_enemies","この英雄が防御力に影響するステータス異常を受けた場合、{CHANCE}%の確率で、与えられたステータス異常を敵全員に適用する"
 "familybonuses.description.short.champions_special_damage_power_modifier","特殊スキルのダメージが+{MULTIPLIERPERCENT}%増加。"
+"familybonuses.description.short.chance_to_cleanse_all_on_received_special_damage_astral_demons.minordebuff","特殊スキルによるダメージを受けると{CHANCE}%の確率で、このキャラクターに付与された浄化可能なステータス異常をすべて浄化する。"
 "familybonuses.description.short.chance_to_cleanse_on_received_special_damage_astral_demons.minordebuff","特殊スキルによるダメージを受けると{CHANCE}%の確率で、このキャラクターに付与されたいずれかの浄化可能なステータス異常を1つ浄化する。"
 "familybonuses.description.short.cleanse_random_debuff_on_special_damage_received.minordebuff.onceperturn","敵がこのキャラクターに特殊スキルによるダメージを与えた場合、{CHANCE}%の確率で、このキャラクターが仲間全員から浄化可能なステータス異常をランダムに1つ浄化する。この効果は1ターンに1回のみ発動する。"
 "familybonuses.description.short.counter_attack_ninja","{CHANCE}%の確率で、受けたダメージの{MULTIPLIERPERCENT}%で反撃する。"
 "familybonuses.description.short.counter_attack_ninja2","{CHANCE}%の確率で、受けたダメージの{MULTIPLIERPERCENT}%で反撃する。"
+"familybonuses.description.short.counter_attack_titan_specials_titan_hunters.against_titan.specialskill.always","タイタンの特殊スキルで受けたダメージの{MULTIPLIERPERCENT}%で反撃する。"
 "familybonuses.description.short.crit_multiplier_zodiac_dragon","旧正月の辰年ボーナス：クリティカル攻撃を与える確率が{MULTIPLIERPERCENTCHANGE}%になる。"
 "familybonuses.description.short.critical_multiplier","クリティカル攻撃を与える確率が{MULTIPLIERPERCENTCHANGE}%になる。"
 "familybonuses.description.short.critical_multiplier_forsaken","クリティカル攻撃を与える確率が{MULTIPLIERPERCENTCHANGE}%になる。"
@@ -269,6 +276,7 @@
 "familybonuses.description.short.special_damage_multiplier_zodiac_rat","旧正月の鼠年ボーナス：特殊スキルの威力が{MULTIPLIERPERCENTCHANGE}%になる。"
 "familybonuses.description.short.start_battle_with_fox_minion","戦闘開始時にスライフォックスのミニオンを{FAMILIARAMOUNT}体サモンする。スライフォックスのミニオンは80%の確率で敵の攻撃を回避する。回避に成功すると、攻撃者に直近に付与された解除可能なバフを奪い、所有者に付与する。"
 "familybonuses.description.short.start_battle_with_fox_minion.multiple_familiars","戦闘開始時にスライフォックスのミニオンを{FAMILIARAMOUNT}体サモンする。スライフォックスのミニオンは80%の確率で敵の攻撃を回避する。回避に成功すると、攻撃者に直近に付与された解除可能なバフを奪い、所有者に付与する。"
+"familybonuses.description.short.start_battle_with_mana_titan_hunters.addmana.single.allies.titan.ubertitan","戦闘開始時にマナを{MULTIPLIERPERCENT}%獲得する。"
 "familybonuses.description.short.start_battle_with_mask_minion","バトル開始時に、自らに仮面のミニオンをサモンする。"
 "familybonuses.description.short.start_battle_with_recruit_guard_mega_minion","戦闘開始時に、リクルートガードのメガミニオンがサモンされる。このミニオンは、術者のHPの{FAMILIARHEALTHPERCENT}%と攻撃力の{FAMILIARATTACK}%を持つ。"
 "familybonuses.description.short.status_effect_duration_increase","{CHANCE}%の確率で、特殊スキルによるステータス効果の持続時間が{FIXEDVALUE}ターン分延長される。"
@@ -528,6 +536,8 @@
 "herocard.family.title.tales1_baddies.short","アトランティスの悪夢"
 "herocard.family.title.tales1_goodies","アトランティスの守護者ファミリー"
 "herocard.family.title.tales1_goodies.short","アトランティスの守護者"
+"herocard.family.title.titan_hunter","タイタンハンターファミリー"
+"herocard.family.title.titan_hunter.short","タイタンハンター"
 "herocard.family.title.vanaheim","ヴァナヘイム領域"
 "herocard.family.title.vanaheim.short","ヴァナヘイム"
 "herocard.family.title.vegetable","勇猛な野菜ファミリー"

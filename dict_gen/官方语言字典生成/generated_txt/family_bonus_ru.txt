@@ -29,10 +29,12 @@
 "familybonuses.description.long.build_charge_nidavellir_alt","Расплавленное ядро заряжается каждый раз, когда герой получает урон от обычных атак или особых навыков."
 "familybonuses.description.long.cast_defense_debuffs_back_to_enemies","Когда герой получает недуг, влияющий на защиту, есть {1MEMBERCHANCE} %/{2MEMBERSCHANCE} %/{3MEMBERSCHANCE} % шанса наложить полученный недуг на всех врагов."
 "familybonuses.description.long.champions_special_damage_power_modifier","+{1MEMBERMULTIPLIERPERCENT} %/+{2MEMBERSMULTIPLIERPERCENT} %/+{3MEMBERSMULTIPLIERPERCENT} % дополнительного урона от особого навыка."
+"familybonuses.description.long.chance_to_cleanse_all_on_received_special_damage_astral_demons.minordebuff","{1MEMBERCHANCE}/{2MEMBERSCHANCE} % шанс очистить все недуги с героя при получении этим героем урона от вражеского особого навыка."
 "familybonuses.description.long.chance_to_cleanse_on_received_special_damage_astral_demons.minordebuff","{1MEMBERCHANCE}/{2MEMBERSCHANCE} % шанс очистить случайный очищаемый недуг с героя при получении этим героем урона от вражеского особого навыка"
 "familybonuses.description.long.cleanse_random_debuff_on_special_damage_received.minordebuff.onceperturn","Когда этот герой получает урон от вражеского особого навыка, с вероятностью {1MEMBERCHANCE} %/{2MEMBERSCHANCE} % со всех союзников очищается случайный снимаемый недуг. Эффект может активироваться только один раз за ход."
 "familybonuses.description.long.counter_attack_ninja","{CHANCE} %/{2MEMBERSCHANCE} %/{3MEMBERSCHANCE} % шанс контратаки с {MULTIPLIERPERCENT} %/{2MEMBERSMULTIPLIERPERCENT} %/{3MEMBERSMULTIPLIERPERCENT} % полученного урона."
 "familybonuses.description.long.counter_attack_ninja2","{CHANCE} %/{2MEMBERSCHANCE} %/{3MEMBERSCHANCE} % шанс контратаки с {MULTIPLIERPERCENT} %/{2MEMBERSMULTIPLIERPERCENT} %/{3MEMBERSMULTIPLIERPERCENT} % полученного урона."
+"familybonuses.description.long.counter_attack_titan_specials_titan_hunters.against_titan.specialskill.always","Контратакует, нанося {1MEMBERMULTIPLIERPERCENT} %/{2MEMBERSMULTIPLIERPERCENT} %/{3MEMBERSMULTIPLIERPERCENT} % от урона, полученного от особых навыков титана."
 "familybonuses.description.long.crit_multiplier_zodiac_dragon","{2MEMBERSMULTIPLIERPERCENTCHANGE} % вероятности критического удара."
 "familybonuses.description.long.critical_multiplier","{2MEMBERSMULTIPLIERPERCENTCHANGE} %/{3MEMBERSMULTIPLIERPERCENTCHANGE} %/{4MEMBERSMULTIPLIERPERCENTCHANGE} %/{5MEMBERSMULTIPLIERPERCENTCHANGE} % вероятности критического удара."
 "familybonuses.description.long.critical_multiplier_forsaken","{MULTIPLIERPERCENTCHANGE} %/{2MEMBERSMULTIPLIERPERCENTCHANGE} %/{3MEMBERSMULTIPLIERPERCENTCHANGE} % вероятности критического удара."
@@ -69,7 +71,9 @@
 Персонаж теряет небольшое количество заряда ""Динамики полета"" в конце каждого хода и при получении урона.
 Герой получает заряд ""Динамики полета"" при применении особого навыка.
 Медленные герои получают увеличенный заряд ""Динамики полета"""
-"familybonuses.description.long.growth_mahayoddha","В конце каждого хода герои семьи Махайодды получают рост: {1MEMBERATTACKINCREASE}/{2MEMBERSATTACKINCREASE}/{3MEMBERSATTACKINCREASE} атаки и {1MEMBERDEFENSEINCREASE}/{2MEMBERSDEFENSEINCREASE}/{3MEMBERSDEFENSEINCREASE} защиты."
+"familybonuses.description.long.growth_mahayoddha","В конце каждого хода герои семьи Махайодды получают рост: {1MEMBERATTACKINCREASE}/{2MEMBERSATTACKINCREASE}/{3MEMBERSATTACKINCREASE} атаки и {1MEMBERDEFENSEINCREASE}/{2MEMBERSDEFENSEINCREASE}/{3MEMBERSDEFENSEINCREASE} защиты.
+Лимиты изменения счета способностей:
+мин. {MINSTAT} % и макс. {MAXSTAT} % исходных значений."
 "familybonuses.description.long.heal_multiplier","{2MEMBERSMULTIPLIERPERCENTCHANGE} %/{3MEMBERSMULTIPLIERPERCENTCHANGE} %/{4MEMBERSMULTIPLIERPERCENTCHANGE} %/{5MEMBERSMULTIPLIERPERCENTCHANGE} % исцеления."
 "familybonuses.description.long.heal_multiplier_classic","{2MEMBERSMULTIPLIERPERCENTCHANGE} %/{3MEMBERSMULTIPLIERPERCENTCHANGE} %/{4MEMBERSMULTIPLIERPERCENTCHANGE} %/{5MEMBERSMULTIPLIERPERCENTCHANGE} % исцеления."
 "familybonuses.description.long.heal_multiplier_hotm2020","{MULTIPLIERPERCENTCHANGE} %/{2MEMBERSMULTIPLIERPERCENTCHANGE} %/{3MEMBERSMULTIPLIERPERCENTCHANGE} % исцеления."
@@ -133,6 +137,7 @@
 Шанс уклонения от атак у хитрой лисы равен {FAMILIARDODGECHANCE} %.
 Когда хитрая лиса уклоняется, она крадет у атакующего последнее наложенное на того снимаемое усиление и передает это усиление своему хозяину."
 "familybonuses.description.long.start_battle_with_fox_minion.fox_dodge","Хитрая лиса имеет {FAMILIARHEALTHPERCENT} % здоровья и {FAMILIARATTACK} % атаки героя. Шанс уклонения от атак у хитрой лисы равен {FAMILIARDODGECHANCE} %.
+"familybonuses.description.long.start_battle_with_mana_titan_hunters.addmana.single.allies.titan.ubertitan","Получает {1MEMBERMULTIPLIERPERCENT} %/{2MEMBERSMULTIPLIERPERCENT} %/{3MEMBERSMULTIPLIERPERCENT} % маны. Получает {ALTERNATIVE1MEMBERMULTIPLIERPERCENT} %/{ALTERNATIVE2MEMBERSMULTIPLIERPERCENT} %/{ALTERNATIVE3MEMBERSMULTIPLIERPERCENT} % маны при сражении с титанами."
 "familybonuses.description.long.start_battle_with_mask_minion.mask_minion.2members_attack_buff_while_mask_minion.3members_debuff_shield_while_mask_minion","1 член семьи: Герой призывает маску-прислужника с {FAMILIARHEALTHPERCENT} % здоровья и {FAMILIARATTACK} % атаки героя.
 Дополнительный навык с 2 членами семьи: при призыве маска-прислужник дает владельцу {ATTACK2MEMBERS} % атаки, пока у него есть маска-прислужник. Эффект нельзя снять.
 Дополнительный навык с 3 членами семьи: при призыве маска-прислужник дает владельцу иммунитет ко всем недугам, пока у него есть маска-прислужник. Эффект нельзя снять."
@@ -174,10 +179,12 @@
 "familybonuses.description.short.build_charge_nidavellir_alt","Расплавленное ядро заряжается каждый раз, когда герой получает урон от обычных атак или особых навыков."
 "familybonuses.description.short.cast_defense_debuffs_back_to_enemies","Когда герой получает недуг, влияющий на защиту, есть {CHANCE} % шанса наложить полученный недуг на всех врагов."
 "familybonuses.description.short.champions_special_damage_power_modifier","+{MULTIPLIERPERCENT} % дополнительного урона от особого навыка."
+"familybonuses.description.short.chance_to_cleanse_all_on_received_special_damage_astral_demons.minordebuff","{CHANCE} % шанс очистить все очищаемые недуги с героя, если ему наносят урон вражеским особым навыком"
 "familybonuses.description.short.chance_to_cleanse_on_received_special_damage_astral_demons.minordebuff","{CHANCE} % шанс очистить случайный очищаемый недуг с героя при получении этим героем урона от вражеского особого навыка"
 "familybonuses.description.short.cleanse_random_debuff_on_special_damage_received.minordebuff.onceperturn","Когда враг наносит герою урон особым навыком, герой с вероятностью {CHANCE} % может очистить случайный очищаемый недуг со всех союзников. Эффект активируется один раз за ход."
 "familybonuses.description.short.counter_attack_ninja","{CHANCE} % шанс контратаки с {MULTIPLIERPERCENT} % полученного урона."
 "familybonuses.description.short.counter_attack_ninja2","{CHANCE} % шанс контратаки с {MULTIPLIERPERCENT} % полученного урона."
+"familybonuses.description.short.counter_attack_titan_specials_titan_hunters.against_titan.specialskill.always","Контратакует, нанося {MULTIPLIERPERCENT} % урона, полученного от особых навыков титана"
 "familybonuses.description.short.crit_multiplier_zodiac_dragon","Бонус года Дракона: {MULTIPLIERPERCENTCHANGE} % вероятности критического удара"
 "familybonuses.description.short.critical_multiplier","{MULTIPLIERPERCENTCHANGE} % вероятности критического удара"
 "familybonuses.description.short.critical_multiplier_forsaken","{MULTIPLIERPERCENTCHANGE} % вероятности критического удара"
@@ -267,6 +274,7 @@
 "familybonuses.description.short.special_damage_multiplier_zodiac_rat","Бонус Года Крысы: {MULTIPLIERPERCENTCHANGE} % силы особого навыка"
 "familybonuses.description.short.start_battle_with_fox_minion","Призывает {FAMILIARAMOUNT} хитрого лиса для себя в начале боя. Хитрый лис уворачивается от атак с вероятностью 80 %. Успешно увернувшись от атаки, хитрый лис крадет последнее наложенное снимаемое усиление у атакующего и передает его своему хозяину."
 "familybonuses.description.short.start_battle_with_fox_minion.multiple_familiars","Призывает {FAMILIARAMOUNT} хитрых лис для себя в начале боя. Хитрые лисы уворачиваются от атак с вероятностью 80 %. Успешно увернувшись от атаки, хитрые лисы крадут последнее наложенное снимаемое усиление у атакующего и передают его своему хозяину."
+"familybonuses.description.short.start_battle_with_mana_titan_hunters.addmana.single.allies.titan.ubertitan","получает {MULTIPLIERPERCENT} % маны в начале битвы."
 "familybonuses.description.short.start_battle_with_mask_minion","Призывает маску-прислужника для себя в начале битвы."
 "familybonuses.description.short.start_battle_with_recruit_guard_mega_minion","В начале боя призывает мегаприслужника ""Стража-наемника"" с {FAMILIARHEALTHPERCENT} % здоровья и {FAMILIARATTACK} % атаки, получаемой от этого героя."
 "familybonuses.description.short.status_effect_duration_increase","{CHANCE} % вероятности увеличить длительность используемых эффектов статуса на {FIXEDVALUE}."
@@ -518,6 +526,8 @@
 "herocard.family.title.tales1_baddies.short","Кошмар Атлантиды"
 "herocard.family.title.tales1_goodies","Семья защитников Атлантиды"
 "herocard.family.title.tales1_goodies.short","Защитники Атлантиды"
+"herocard.family.title.titan_hunter","Семья охотников на титанов"
+"herocard.family.title.titan_hunter.short","Охотник на титанов"
 "herocard.family.title.vanaheim","Ванахейм"
 "herocard.family.title.vanaheim.short","Ванахейм"
 "herocard.family.title.vegetable","Семья отважных овощей"

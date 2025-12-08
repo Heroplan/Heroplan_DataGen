@@ -27,10 +27,12 @@
 "familybonuses.description.long.build_charge_nidavellir_alt","يُشحن المركز الذائب في كل مرة تتلقى هذه الشخصية ضررًا من الهجمات العادية أو من المهارات الخاصة."
 "familybonuses.description.long.cast_defense_debuffs_back_to_enemies","عندما يتلقى هذا البطل حالة مرض تطال الدفاع، {1MEMBERCHANCE}%/{2MEMBERSCHANCE}%/{3MEMBERSCHANCE}% فرصة لإلقاء المرض المُتلقى على جميع الأعداء."
 "familybonuses.description.long.champions_special_damage_power_modifier","+{1MEMBERMULTIPLIERPERCENT}%/+{2MEMBERSMULTIPLIERPERCENT}%/+{3MEMBERSMULTIPLIERPERCENT}% من الضرر الإضافي للمهارة الخاصة."
+"familybonuses.description.long.chance_to_cleanse_all_on_received_special_damage_astral_demons.minordebuff","احتمالية بنسبة {1MEMBERCHANCE}/{2MEMBERSCHANCE}% لتطهير أمراض الحالات الخاصة بهذه الشخصية عند تلقي ضرر المهارة الخاصة."
 "familybonuses.description.long.chance_to_cleanse_on_received_special_damage_astral_demons.minordebuff","احتمالية بنسبة {1MEMBERCHANCE}/{2MEMBERSCHANCE}% لتطهير مرض حالة قابل للتطهير بشكل عشوائي من هذه الشخصية عند تلقي ضرر المهارة الخاصة."
 "familybonuses.description.long.cleanse_random_debuff_on_special_damage_received.minordebuff.onceperturn","فرصة بنسبة {1MEMBERCHANCE}%/{2MEMBERSCHANCE}% لتطهير حالة مرضية قابلة للتطهير بشكل عشوائي من جميع الحلفاء عندما تتلقى هذه الشخصية ضررًا من المهارة الخاصة للعدو. يمكن تنشيط هذا التأثير مرة واحدة لكل جولة."
 "familybonuses.description.long.counter_attack_ninja","{CHANCE}%/{2MEMBERSCHANCE}%/{3MEMBERSCHANCE}% فرصة لشن هجوم مضاد مع {MULTIPLIERPERCENT}%/{2MEMBERSMULTIPLIERPERCENT}%/{3MEMBERSMULTIPLIERPERCENT}% من الضرر المتلقى."
 "familybonuses.description.long.counter_attack_ninja2","{CHANCE}%/{2MEMBERSCHANCE}%/{3MEMBERSCHANCE}% فرصة لشن هجوم مضاد مع {MULTIPLIERPERCENT}%/{2MEMBERSMULTIPLIERPERCENT}%/{3MEMBERSMULTIPLIERPERCENT}% من الضرر المتلقى."
+"familybonuses.description.long.counter_attack_titan_specials_titan_hunters.against_titan.specialskill.always","شن هجومًا مضادًّا بنسبة {1MEMBERMULTIPLIERPERCENT}%/{2MEMBERSMULTIPLIERPERCENT}%/{3MEMBERSMULTIPLIERPERCENT}% من الضرر المتلقى من مهارات العملاق الخاصة."
 "familybonuses.description.long.crit_multiplier_zodiac_dragon"," {2MEMBERSMULTIPLIERPERCENTCHANGE}% من الفرص الحاسمة."
 "familybonuses.description.long.critical_multiplier","{2MEMBERSMULTIPLIERPERCENTCHANGE}%/{3MEMBERSMULTIPLIERPERCENTCHANGE}%/{4MEMBERSMULTIPLIERPERCENTCHANGE}%/{5MEMBERSMULTIPLIERPERCENTCHANGE}% فرصة حاسمة."
 "familybonuses.description.long.critical_multiplier_forsaken","{MULTIPLIERPERCENTCHANGE}%/{2MEMBERSMULTIPLIERPERCENTCHANGE}%/{3MEMBERSMULTIPLIERPERCENTCHANGE}% فرصة حاسمة."
@@ -64,7 +66,9 @@
 في نهاية كل دور وعند تلقي الضرر، يفقد البطل قدرًا صغيرًا من زخم التحليق.
 عند إلقاء مهارته الخاصة، يكتسب البطل زخم التحليق.
 يكتسب الأبطال الأبطأ قدرًا متزايدًا من زخم التحليق"
-"familybonuses.description.long.growth_mahayoddha","في نهاية كل دور، يكتسب الأبطال في عائلة المهايوذّة النمو: هجوم {1MEMBERATTACKINCREASE}/{2MEMBERSATTACKINCREASE}/{3MEMBERSATTACKINCREASE}، ودفاع {1MEMBERDEFENSEINCREASE}/{2MEMBERSDEFENSEINCREASE}/{3MEMBERSDEFENSEINCREASE}"
+"familybonuses.description.long.growth_mahayoddha","في نهاية كل جولة، يكتسب الأبطال المنتمون إلى عائلة المهايوذّة نموًّا : زيادة في الهجوم بمقدار {1MEMBERATTACKINCREASE}/{2MEMBERSATTACKINCREASE}/{3MEMBERSATTACKINCREASE}، وزيادة في الدفاع بمقدار {1MEMBERDEFENSEINCREASE}/{2MEMBERSDEFENSEINCREASE}/{3MEMBERSDEFENSEINCREASE}.
+حدود مجموع القدرة المعدل:
+الحد الأدنى {MINSTAT}%، والحد الأقصى {MAXSTAT}% من القيمة الأصلية."
 "familybonuses.description.long.heal_multiplier","{2MEMBERSMULTIPLIERPERCENTCHANGE}%/{3MEMBERSMULTIPLIERPERCENTCHANGE}%/{4MEMBERSMULTIPLIERPERCENTCHANGE}%/{5MEMBERSMULTIPLIERPERCENTCHANGE}% من التعافي."
 "familybonuses.description.long.heal_multiplier_classic","{2MEMBERSMULTIPLIERPERCENTCHANGE}%/{3MEMBERSMULTIPLIERPERCENTCHANGE}%/{4MEMBERSMULTIPLIERPERCENTCHANGE}%/{5MEMBERSMULTIPLIERPERCENTCHANGE}% من التعافي."
 "familybonuses.description.long.heal_multiplier_hotm2020","{MULTIPLIERPERCENTCHANGE}%/{2MEMBERSMULTIPLIERPERCENTCHANGE}%/{3MEMBERSMULTIPLIERPERCENTCHANGE}% من التعافي."
@@ -126,6 +130,7 @@
 لدى تابع الثعلب المكار فرصة بنسبة {FAMILIARDODGECHANCE}% لتفادي الهجمات الآتية.
 عندما يتفادى تابع الثعلب المكار، فإنه يسرق التعزيز الأخير القابل للتبديد من المهاجم، ويعطيه لمالكه."
 "familybonuses.description.long.start_battle_with_fox_minion.fox_dodge","يمتلك تابع الثعلب المكار {FAMILIARHEALTHPERCENT}% من نقاط الصحة، و{FAMILIARATTACK}% من الهجوم الموروث من البطل. لدى تابع الثعلب المكار فرصة بنسبة {FAMILIARDODGECHANCE}% لتفادي الهجمات الآتية.
+"familybonuses.description.long.start_battle_with_mana_titan_hunters.addmana.single.allies.titan.ubertitan","في بداية المعركة، تحصل على {1MEMBERMULTIPLIERPERCENT}%/{2MEMBERSMULTIPLIERPERCENT}%/{3MEMBERSMULTIPLIERPERCENT}% من القوة. وضد العمالقة تحصل على {ALTERNATIVE1MEMBERMULTIPLIERPERCENT}%/{ALTERNATIVE2MEMBERSMULTIPLIERPERCENT}%/{ALTERNATIVE3MEMBERSMULTIPLIERPERCENT}% من القوة."
 "familybonuses.description.long.start_battle_with_mask_minion.mask_minion.2members_attack_buff_while_mask_minion.3members_debuff_shield_while_mask_minion","عضو عائلة واحد: تستدعي هذه الشخصية تابع قناع يتمتع بـ{FAMILIARHEALTHPERCENT}% صحة و{FAMILIARATTACK}% ودفاع تحصل عليهما من هذه الشخصية.
 مهارة إضافية مع 2 من أعضاء العائلة: عند الاستدعاء، يعطي تابع القناع مالكه {ATTACK2MEMBERS}% من الهجوم ما دام تابع القناع في حوزته. لا يمكن إبطال هذا التأثير.
 مهارة إضافية مع 3 من أعضاء العائلة: عند الاستدعاء، يعطي تابع القناع مالكه حصانةً ضد جميع الأمراض ما دام تابع القناع في حوزته. لا يمكن إبطال هذا التأثير."
@@ -167,10 +172,12 @@
 "familybonuses.description.short.build_charge_nidavellir_alt","يُشحن المركز الذائب في كل مرة تتلقى هذه الشخصية ضررًا من الهجمات العادية أو من المهارات الخاصة."
 "familybonuses.description.short.cast_defense_debuffs_back_to_enemies","عندما يتلقى هذا البطل حالة مرض تطال الدفاع، {CHANCE}% فرصة لإلقاء المرض المُتلقى على جميع الأعداء."
 "familybonuses.description.short.champions_special_damage_power_modifier","+{MULTIPLIERPERCENT}% ضرر إضافي للمهارة الخاصة."
+"familybonuses.description.short.chance_to_cleanse_all_on_received_special_damage_astral_demons.minordebuff","احتمالية بنسبة {CHANCE}% لتطهير كل الحالات المرضية القابلة للتطهير من هذه الشخصية على ضرر المهارة الخاصة المتلقى."
 "familybonuses.description.short.chance_to_cleanse_on_received_special_damage_astral_demons.minordebuff","احتمالية بنسبة {CHANCE}% لتطهير حالة مرضية قابلة للتطهير بشكل عشوائي من هذه الشخصية على ضرر المهارة الخاصة المتلقى."
 "familybonuses.description.short.cleanse_random_debuff_on_special_damage_received.minordebuff.onceperturn","عندما يلحق عدو ضرر المهارة الخاصة بهذه الشخصية، هناك فرصة بنسبة {CHANCE}% لهذه الشخصية لتطهير حالة مرضية  قابلة للتطهير بشكل عشوائي من جميع الحلفاء. يمكن تنشيط هذا التأثير مرة واحدة لكل جولة."
 "familybonuses.description.short.counter_attack_ninja","{CHANCE}% فرصة للهجوم المضاد باستخدام {MULTIPLIERPERCENT}% من الضرر اللاحق."
 "familybonuses.description.short.counter_attack_ninja2","{CHANCE}% فرصة للهجوم المضاد باستخدام {MULTIPLIERPERCENT}% من الضرر اللاحق."
+"familybonuses.description.short.counter_attack_titan_specials_titan_hunters.against_titan.specialskill.always","شن هجومًا مضادًّا بنسبة {MULTIPLIERPERCENT}% من الضرر المتلقى من مهارات العملاق الخاصة."
 "familybonuses.description.short.crit_multiplier_zodiac_dragon","مكافأة سنة التنين القمرية: {MULTIPLIERPERCENTCHANGE}% من الفرص الحاسمة"
 "familybonuses.description.short.critical_multiplier","{MULTIPLIERPERCENTCHANGE}% من الفرص الحاسمة"
 "familybonuses.description.short.critical_multiplier_forsaken","{MULTIPLIERPERCENTCHANGE}% من الفرص الحاسمة"
@@ -260,6 +267,7 @@
 "familybonuses.description.short.special_damage_multiplier_zodiac_rat","مكافأة سنة الفأر القمرية: {MULTIPLIERPERCENTCHANGE}% من قوة المهارات الخاصة"
 "familybonuses.description.short.start_battle_with_fox_minion","يتم استدعاء {FAMILIARAMOUNT} من تابع الثعلب المكار لنفسك في بداية المعركة. لدى التابع الثعلب المكار فرصة بنسبة 80% لتفادي الهجمات. عند تنفيذ محاولة تفادي ناجحة، يسرق آخر معزز يمكن تبديده من المهاجم، ويمنحه إلى مالكه."
 "familybonuses.description.short.start_battle_with_fox_minion.multiple_familiars","يتم استدعاء {FAMILIARAMOUNT} من أتباع الثعلب المكار لنفسك في بداية المعركة. لدى التابع الثعلب المكار فرصة بنسبة 80% لتفادي الهجمات. عند تنفيذ محاولة تفادي ناجحة، يسرق آخر معزز يمكن تبديده من المهاجم، ويمنحه إلى مالكه."
+"familybonuses.description.short.start_battle_with_mana_titan_hunters.addmana.single.allies.titan.ubertitan","تحصل على {MULTIPLIERPERCENT}% من القوة في بداية المعركة."
 "familybonuses.description.short.start_battle_with_mask_minion","لاستدعاء تابع قناع دفاعًا عن النفس عند بداية المعركة."
 "familybonuses.description.short.start_battle_with_recruit_guard_mega_minion","في بداية المعركة، يتم استدعاء تابع ضخم حارس مجند لديه {FAMILIARHEALTHPERCENT}% من نقاط الصحة و {FAMILIARATTACK}% من الهجوم الموروث من هذه الشخصية."
 "familybonuses.description.short.status_effect_duration_increase","فرصة {CHANCE}% لزيادة مدة إلقاء تأثيرات الحالة بمقدار {FIXEDVALUE}."
@@ -507,6 +515,8 @@
 "herocard.family.title.tales1_baddies.short","كوابيس أطلانطس"
 "herocard.family.title.tales1_goodies","عائلة المدافعين عن أطلانطس"
 "herocard.family.title.tales1_goodies.short","المدافعون عن أطلانطس"
+"herocard.family.title.titan_hunter","عائلة صائد العمالقة"
+"herocard.family.title.titan_hunter.short","صائد العمالقة"
 "herocard.family.title.vanaheim","عالم فاناهايم"
 "herocard.family.title.vanaheim.short","فاناهايم"
 "herocard.family.title.vegetable","عائلة الخضراوات الباسلة"

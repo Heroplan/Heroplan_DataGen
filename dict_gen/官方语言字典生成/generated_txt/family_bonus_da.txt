@@ -29,10 +29,12 @@ Helten får {1MEMBERCHARGEFROMHEAL}/{2MEMBERSCHARGEFROMHEAL}/{3MEMBERSCHARGEFROM
 "familybonuses.description.long.build_charge_nidavellir_alt","Lavakernen lades, hver gang denne figur får skade fra normale angreb eller særlige evner."
 "familybonuses.description.long.cast_defense_debuffs_back_to_enemies","Når denne helt rammes af en statuslidelse, der påvirker forsvar, er der {1MEMBERCHANCE} %/{2MEMBERSCHANCE} %/{3MEMBERSCHANCE} % chance for at kaste lidelsen mod alle fjender."
 "familybonuses.description.long.champions_special_damage_power_modifier","+{1MEMBERMULTIPLIERPERCENT} %/+{2MEMBERSMULTIPLIERPERCENT} %/+{3MEMBERSMULTIPLIERPERCENT} % yderligere skade fra særlig egenskab."
+"familybonuses.description.long.chance_to_cleanse_all_on_received_special_damage_astral_demons.minordebuff","{1MEMBERCHANCE} /{2MEMBERSCHANCE}  % chance for at fjerne alle statuslidelser fra denne figur, når den tager skade fra særlige egenskaber."
 "familybonuses.description.long.chance_to_cleanse_on_received_special_damage_astral_demons.minordebuff","{1MEMBERCHANCE} /{2MEMBERSCHANCE}  % chance for at fjerne en tilfældig statuslidelse fra denne figur, når den tager skade fra særlige egenskaber."
 "familybonuses.description.long.cleanse_random_debuff_on_special_damage_received.minordebuff.onceperturn","{1MEMBERCHANCE} %/{2MEMBERSCHANCE} % chance for at fjerne en tilfældig statuslidelse fra alle allierede, når denne figur tager skade fra en fjendes særlige egenskab. Denne effekt kan kun aktiveres én gang pr. tur."
 "familybonuses.description.long.counter_attack_ninja","{CHANCE} %/{2MEMBERSCHANCE} %/{3MEMBERSCHANCE} % chance for at modangribe med {MULTIPLIERPERCENT} %/{2MEMBERSMULTIPLIERPERCENT} %/{3MEMBERSMULTIPLIERPERCENT} % af den påførte skade."
 "familybonuses.description.long.counter_attack_ninja2","{CHANCE} %/{2MEMBERSCHANCE} %/{3MEMBERSCHANCE} % chance for at modangribe med {MULTIPLIERPERCENT} %/{2MEMBERSMULTIPLIERPERCENT} %/{3MEMBERSMULTIPLIERPERCENT} % af den påførte skade."
+"familybonuses.description.long.counter_attack_titan_specials_titan_hunters.against_titan.specialskill.always","Laver modangreb med {1MEMBERMULTIPLIERPERCENT} %/{2MEMBERSMULTIPLIERPERCENT} %/{3MEMBERSMULTIPLIERPERCENT} % af skaden modtaget fra titaners særlige egenskaber."
 "familybonuses.description.long.crit_multiplier_zodiac_dragon","{2MEMBERSMULTIPLIERPERCENTCHANGE} % kritisk chance."
 "familybonuses.description.long.critical_multiplier","{2MEMBERSMULTIPLIERPERCENTCHANGE} %/{3MEMBERSMULTIPLIERPERCENTCHANGE} %/{4MEMBERSMULTIPLIERPERCENTCHANGE} %/{5MEMBERSMULTIPLIERPERCENTCHANGE} % kritisk chance."
 "familybonuses.description.long.critical_multiplier_forsaken","{MULTIPLIERPERCENTCHANGE} %/{2MEMBERSMULTIPLIERPERCENTCHANGE} %/{3MEMBERSMULTIPLIERPERCENTCHANGE} % kritisk chance."
@@ -69,7 +71,9 @@ Kraftjuvelen giver {FIXEDPOWER} skade til en tilfældig fjende under hver tur, i
 Ved afslutningen af hver tur, og når helten tager skade, mister den en smule af sit flyvemomentum.
 Når en helt bruger sin særlige evne, får den mere flyvemomentum.
 Langsommere helte får mere flyvemomentum"
-"familybonuses.description.long.growth_mahayoddha","I slutningen af hver runde får helte i Mahayoddha-familien vækst: {1MEMBERATTACKINCREASE}/{2MEMBERSATTACKINCREASE}/{3MEMBERSATTACKINCREASE} angreb og {1MEMBERDEFENSEINCREASE}/{2MEMBERSDEFENSEINCREASE}/{3MEMBERSDEFENSEINCREASE} forsvar."
+"familybonuses.description.long.growth_mahayoddha","I slutningen af hver runde får helte i Mahayoddha-familien vækst: {1MEMBERATTACKINCREASE}/{2MEMBERSATTACKINCREASE}/{3MEMBERSATTACKINCREASE} angreb og {1MEMBERDEFENSEINCREASE}/{2MEMBERSDEFENSEINCREASE}/{3MEMBERSDEFENSEINCREASE} forsvar.
+Grænser for ændrede evneværdier:
+Min. {MINSTAT} % og maks. {MAXSTAT} % af deres oprindelige værdier."
 "familybonuses.description.long.heal_multiplier","{2MEMBERSMULTIPLIERPERCENTCHANGE} %/{3MEMBERSMULTIPLIERPERCENTCHANGE} %/{4MEMBERSMULTIPLIERPERCENTCHANGE} %/{5MEMBERSMULTIPLIERPERCENTCHANGE} % helbredelse."
 "familybonuses.description.long.heal_multiplier_classic","{2MEMBERSMULTIPLIERPERCENTCHANGE} %/{3MEMBERSMULTIPLIERPERCENTCHANGE} %/{4MEMBERSMULTIPLIERPERCENTCHANGE} %/{5MEMBERSMULTIPLIERPERCENTCHANGE} % helbredelse."
 "familybonuses.description.long.heal_multiplier_hotm2020","{MULTIPLIERPERCENTCHANGE} %/{2MEMBERSMULTIPLIERPERCENTCHANGE} %/{3MEMBERSMULTIPLIERPERCENTCHANGE} % helbredelse."
@@ -133,6 +137,7 @@ Helten modtager en beslægtets familes familiebonus, hvis der er mindst 1 beslæ
 Den snu rævehåndlanger har {FAMILIARDODGECHANCE} % chance for at undgå indkommende angreb.
 Når den snu rævehåndlanger undviger, stjæler den angriberens seneste buffer, der kan fjernes, og giver den til sin ejer."
 "familybonuses.description.long.start_battle_with_fox_minion.fox_dodge","Den snu rævehåndlanger har {FAMILIARHEALTHPERCENT} % helbred og {FAMILIARATTACK} % angreb, der nedarves fra helten. Den snu rævehåndlanger har {FAMILIARDODGECHANCE} % chance for at undvige angreb.
+"familybonuses.description.long.start_battle_with_mana_titan_hunters.addmana.single.allies.titan.ubertitan","I starten af kampen modtager den{1MEMBERMULTIPLIERPERCENT} %/{2MEMBERSMULTIPLIERPERCENT} %/{3MEMBERSMULTIPLIERPERCENT} % mana. Mod titaner modtager den {ALTERNATIVE1MEMBERMULTIPLIERPERCENT} %/{ALTERNATIVE2MEMBERSMULTIPLIERPERCENT} %/{ALTERNATIVE3MEMBERSMULTIPLIERPERCENT} % mana."
 "familybonuses.description.long.start_battle_with_mask_minion.mask_minion.2members_attack_buff_while_mask_minion.3members_debuff_shield_while_mask_minion","1 familiemedlem: Denne figur hidkalder en maskeret håndlanger med {FAMILIARHEALTHPERCENT} % helbred og {FAMILIARATTACK} % angreb arvet fra denne figur.
 Ekstra egenskab med 2 familiemedlemmer: Hvis hidkaldt, giver den maskerede håndlanger sin ejer {ATTACK2MEMBERS} % angrebsbonus, når ejeren har en maskeret håndlanger. Denne effekt kan ikke ophæves.
 Ekstra egenskab med 3 familiemedlemmer: Hvis hidkaldt, giver den maskerede håndlanger sin ejer immunitet overfor alle statuslidelser, når ejeren har en maskeret håndlanger. Denne effekt kan ikke ophæves."
@@ -174,10 +179,12 @@ Denne figur får {CURRENTCHARGEFROMHEAL} ydmyghed, når de modtager direkte helb
 "familybonuses.description.short.build_charge_nidavellir_alt","Lavakernen lades, hver gang denne figur får skade fra normale angreb eller særlige evner."
 "familybonuses.description.short.cast_defense_debuffs_back_to_enemies","Når denne helt rammes af en statuslidelse, der påvirker forsvar, er der {CHANCE} % chance for at kaste lidelsen mod alle fjender."
 "familybonuses.description.short.champions_special_damage_power_modifier","+{MULTIPLIERPERCENT} % ekstra skade ved særlig egenskab."
+"familybonuses.description.short.chance_to_cleanse_all_on_received_special_damage_astral_demons.minordebuff","{CHANCE}  % chance for at fjerne alle statuslidelser fra denne figur, når denne figur tager skade fra særlige egenskaber"
 "familybonuses.description.short.chance_to_cleanse_on_received_special_damage_astral_demons.minordebuff","{CHANCE}  % chance for at fjerne en tilfældig statuslidelse fra denne figur, når denne figur tager skade fra særlige egenskaber."
 "familybonuses.description.short.cleanse_random_debuff_on_special_damage_received.minordebuff.onceperturn","Når en fjende forvolder skade med en særlig egenskab mod figuren, er der {CHANCE} % chance for, at figuren kan fjerne en tilfældig statuslidelse, der kan fjernes, fra alle allierede. Denne effekt kan kun aktiveres én gang pr. tur."
 "familybonuses.description.short.counter_attack_ninja","{CHANCE} % chance for at modangribe med {MULTIPLIERPERCENT} % af den påførte skade."
 "familybonuses.description.short.counter_attack_ninja2","{CHANCE} % chance for at modangribe med {MULTIPLIERPERCENT} % af den påførte skade."
+"familybonuses.description.short.counter_attack_titan_specials_titan_hunters.against_titan.specialskill.always","Laver modangreb med {MULTIPLIERPERCENT} % af skaden modtaget fra titaners særlige egenskaber"
 "familybonuses.description.short.crit_multiplier_zodiac_dragon","Dragens år-bonus: {MULTIPLIERPERCENTCHANGE} % kritisk chance"
 "familybonuses.description.short.critical_multiplier","{MULTIPLIERPERCENTCHANGE} % kritisk chance"
 "familybonuses.description.short.critical_multiplier_forsaken","{MULTIPLIERPERCENTCHANGE} % kritisk chance"
@@ -267,6 +274,7 @@ Denne figur får {CURRENTCHARGEFROMHEAL} ydmyghed, når de modtager direkte helb
 "familybonuses.description.short.special_damage_multiplier_zodiac_rat","Rottens år-bonus: {MULTIPLIERPERCENTCHANGE} % styrke til særlige egenskaber"
 "familybonuses.description.short.start_battle_with_fox_minion","Hidkalder {FAMILIARAMOUNT} snu rævehåndlanger til sig selv, når kampen begynder. Snu rævehåndlangere har 80 % chance for at undgive indgående angreb. Hvis undvigelsen er en succes, stjæler den den seneste buffer, der kan ophæves, fra anrgiberen og giver den til sin ejer."
 "familybonuses.description.short.start_battle_with_fox_minion.multiple_familiars","Hidkalder {FAMILIARAMOUNT} snu rævehåndlangere til sig selv, når kampen begynder. Snu rævehåndlangere har 80 % chance for at undgive indgående angreb. Hvis undvigelsen er en succes, stjæler de den seneste buffer, der kan ophæves, fra anrgiberen og giver den til deres ejer."
+"familybonuses.description.short.start_battle_with_mana_titan_hunters.addmana.single.allies.titan.ubertitan","modtager {MULTIPLIERPERCENT} % mana, når kampen begynder."
 "familybonuses.description.short.start_battle_with_mask_minion","Hidkalder en maskeret håndlanger ved kampens begyndelse."
 "familybonuses.description.short.start_battle_with_recruit_guard_mega_minion","Hidkalder en menig vogter-kæmpehåndlanger i begyndelsen af kampen med {FAMILIARHEALTHPERCENT} %  HP og {FAMILIARATTACK} % angreb, nedarvet fra kasteren."
 "familybonuses.description.short.status_effect_duration_increase","{CHANCE} % chance for at øge varigheden af de kastede statuseffekter med {FIXEDVALUE}."
@@ -518,6 +526,8 @@ Månenytårs-familien indeholder forskellige dyrehelte fra månenytåret. Hvert 
 "herocard.family.title.tales1_baddies.short","Mareridt fra Atlantis"
 "herocard.family.title.tales1_goodies","Atlantis' beskyttere-familie"
 "herocard.family.title.tales1_goodies.short","Atlantis' beskyttere"
+"herocard.family.title.titan_hunter","Titanjægerfamilie"
+"herocard.family.title.titan_hunter.short","Titanjæger"
 "herocard.family.title.vanaheim","Vanaheim-verden"
 "herocard.family.title.vanaheim.short","Vanaheim"
 "herocard.family.title.vegetable","Tapper grøntsagsfamilie"

@@ -29,10 +29,12 @@ O herói ganha {1MEMBERCHARGEFROMHEAL}/{2MEMBERSCHARGEFROMHEAL}/{3MEMBERSCHARGEF
 "familybonuses.description.long.build_charge_nidavellir_alt","O Núcleo Derretido é carregado sempre que este personagem recebe dano de ataques normais ou Habilidades Especiais."
 "familybonuses.description.long.cast_defense_debuffs_back_to_enemies","Quando este Herói recebe um mal de status que afeta a defesa, {1MEMBERCHANCE}%/{2MEMBERSCHANCE}%/{3MEMBERSCHANCE}% de chance de lançar o mal recebido em todos os inimigos."
 "familybonuses.description.long.champions_special_damage_power_modifier","+{1MEMBERMULTIPLIERPERCENT}%/+{2MEMBERSMULTIPLIERPERCENT}%/+{3MEMBERSMULTIPLIERPERCENT}% de dano adicional da habilidade especial."
+"familybonuses.description.long.chance_to_cleanse_all_on_received_special_damage_astral_demons.minordebuff","{1MEMBERCHANCE}/{2MEMBERSCHANCE}% de chance de expurgar todos os males de status expurgável aleatório deste personagem ao receber dano de uma habilidade especial."
 "familybonuses.description.long.chance_to_cleanse_on_received_special_damage_astral_demons.minordebuff","{1MEMBERCHANCE}/{2MEMBERSCHANCE}% de chance de expurgar um mal de status expurgável aleatório deste personagem ao receber dano de uma habilidade especial."
 "familybonuses.description.long.cleanse_random_debuff_on_special_damage_received.minordebuff.onceperturn","{1MEMBERCHANCE}%/{2MEMBERSCHANCE}% de chance de expurgar um mal de status expurgável aleatório de todos os aliados quando este personagem recebe dano da habilidade especial de um inimigo. Este efeito pode ser ativado uma vez por turno."
 "familybonuses.description.long.counter_attack_ninja","{CHANCE}%/{2MEMBERSCHANCE}%/{3MEMBERSCHANCE}% de chance de contra-atacar com {MULTIPLIERPERCENT}%/{2MEMBERSMULTIPLIERPERCENT}%/{3MEMBERSMULTIPLIERPERCENT}% do dano recebido."
 "familybonuses.description.long.counter_attack_ninja2","{CHANCE}%/{2MEMBERSCHANCE}%/{3MEMBERSCHANCE}% de chance de contra-atacar com {MULTIPLIERPERCENT}%/{2MEMBERSMULTIPLIERPERCENT}%/{3MEMBERSMULTIPLIERPERCENT}% do dano recebido."
+"familybonuses.description.long.counter_attack_titan_specials_titan_hunters.against_titan.specialskill.always","Contra-ataca com {1MEMBERMULTIPLIERPERCENT}%/{2MEMBERSMULTIPLIERPERCENT}%/{3MEMBERSMULTIPLIERPERCENT}% do dano recebido de habilidades especiais de titã."
 "familybonuses.description.long.crit_multiplier_zodiac_dragon","{2MEMBERSMULTIPLIERPERCENTCHANGE}% de chance crítica."
 "familybonuses.description.long.critical_multiplier","{2MEMBERSMULTIPLIERPERCENTCHANGE}%/{3MEMBERSMULTIPLIERPERCENTCHANGE}%/{4MEMBERSMULTIPLIERPERCENTCHANGE}%/{5MEMBERSMULTIPLIERPERCENTCHANGE}% de chance crítica."
 "familybonuses.description.long.critical_multiplier_forsaken","{MULTIPLIERPERCENTCHANGE}%/{2MEMBERSMULTIPLIERPERCENTCHANGE}%/{3MEMBERSMULTIPLIERPERCENTCHANGE}% de chance crítica."
@@ -69,7 +71,9 @@ A Gema de Poder causa {FIXEDPOWER} de dano a um inimigo aleatório a cada turno 
 Ao fim de cada turno e ao receber dano, o herói perde uma pequena quantidade de Impulso de Voo.
 Ao lançar a habilidade especial, o herói ganha Impulso de Voo.
 Heróis mais lentos recebem mais Impulso de Voo."
-"familybonuses.description.long.growth_mahayoddha","Ao fim de cada turno, os heróis da família Mahayoddha ganham Crescimento: {1MEMBERATTACKINCREASE}/{2MEMBERSATTACKINCREASE}/{3MEMBERSATTACKINCREASE} de ataque e {1MEMBERDEFENSEINCREASE}/{2MEMBERSDEFENSEINCREASE}/{3MEMBERSDEFENSEINCREASE} de defesa."
+"familybonuses.description.long.growth_mahayoddha","Ao fim de cada turno, os heróis da família Mahayoddha ganham Crescimento: {1MEMBERATTACKINCREASE}/{2MEMBERSATTACKINCREASE}/{3MEMBERSATTACKINCREASE} de ataque e {1MEMBERDEFENSEINCREASE}/{2MEMBERSDEFENSEINCREASE}/{3MEMBERSDEFENSEINCREASE} de defesa.
+Limites das pontuações de habilidade modificadas:
+No mínimo {MINSTAT}% e no máximo {MAXSTAT}% dos valores originais."
 "familybonuses.description.long.heal_multiplier","{2MEMBERSMULTIPLIERPERCENTCHANGE}%/{3MEMBERSMULTIPLIERPERCENTCHANGE}%/{4MEMBERSMULTIPLIERPERCENTCHANGE}%/{5MEMBERSMULTIPLIERPERCENTCHANGE}% de cura."
 "familybonuses.description.long.heal_multiplier_classic","{2MEMBERSMULTIPLIERPERCENTCHANGE}%/{3MEMBERSMULTIPLIERPERCENTCHANGE}%/{4MEMBERSMULTIPLIERPERCENTCHANGE}%/{5MEMBERSMULTIPLIERPERCENTCHANGE}% de cura."
 "familybonuses.description.long.heal_multiplier_hotm2020","{MULTIPLIERPERCENTCHANGE}%/{2MEMBERSMULTIPLIERPERCENTCHANGE}%/{3MEMBERSMULTIPLIERPERCENTCHANGE}% de cura."
@@ -132,6 +136,7 @@ O herói recebe o bônus familiar de uma família relacionada quando está em um
 O ajudante Raposa Astuta tem {FAMILIARDODGECHANCE}% de chance de se esquivar de ataques.
 Quando se esquiva, o ajudante Raposa Astuta rouba o reforço dissipável mais recente do atacante e o transfere para o dono."
 "familybonuses.description.long.start_battle_with_fox_minion.fox_dodge","O ajudante Raposa Astuta herda {FAMILIARHEALTHPERCENT}% de vida e {FAMILIARATTACK}% de ataque do Herói. O ajudante Raposa Astuta tem {FAMILIARDODGECHANCE}% de chance de esquivar de ataques.
+"familybonuses.description.long.start_battle_with_mana_titan_hunters.addmana.single.allies.titan.ubertitan","No início da batalha, recebe {1MEMBERMULTIPLIERPERCENT}%/{2MEMBERSMULTIPLIERPERCENT}%/{3MEMBERSMULTIPLIERPERCENT}% de mana. Contra titãs, recebe {ALTERNATIVE1MEMBERMULTIPLIERPERCENT}%/{ALTERNATIVE2MEMBERSMULTIPLIERPERCENT}%/{ALTERNATIVE3MEMBERSMULTIPLIERPERCENT}% de mana."
 "familybonuses.description.long.start_battle_with_mask_minion.mask_minion.2members_attack_buff_while_mask_minion.3members_debuff_shield_while_mask_minion","1 membro da família: este personagem convoca um ajudante Máscara que herda dele {FAMILIARHEALTHPERCENT}% de vida e {FAMILIARATTACK}% de ataque.
 Habilidade adicional com 2 membros da família: quando convocado, o ajudante Máscara dá ao dono {ATTACK2MEMBERS}% de ataque enquanto o dono tem um ajudante Máscara. Este efeito não pode ser dissipado.
 Habilidade adicional com 3 membros da família: quando convocado, o ajudante Máscara dá ao dono imunidade contra todos os males de status enquanto o dono tem um ajudante Máscara. Este efeito não pode ser dissipado."
@@ -172,10 +177,12 @@ Este personagem ganha {CURRENTCHARGEFROMHEAL} Humildade ao receber cura direta d
 "familybonuses.description.short.build_charge_nidavellir_alt","O Núcleo Derretido é carregado sempre que este personagem recebe dano de ataques normais ou Habilidades Especiais."
 "familybonuses.description.short.cast_defense_debuffs_back_to_enemies","Quando este Herói recebe um mal de status que afeta a defesa, {CHANCE}% de chance de lançar o mal recebido em todos os inimigos."
 "familybonuses.description.short.champions_special_damage_power_modifier","+{MULTIPLIERPERCENT}% de dano adicional da habilidade especial."
+"familybonuses.description.short.chance_to_cleanse_all_on_received_special_damage_astral_demons.minordebuff","{CHANCE}% de chance de expurgar todos os males de status expurgáveis deste personagem ao receber dano de uma habilidade especial."
 "familybonuses.description.short.chance_to_cleanse_on_received_special_damage_astral_demons.minordebuff","{CHANCE}% de chance de expurgar um mal de status expurgável aleatório deste personagem ao receber dano de uma habilidade especial."
 "familybonuses.description.short.cleanse_random_debuff_on_special_damage_received.minordebuff.onceperturn","Quando este personagem recebe dano da habilidade especial de um inimigo, tem {CHANCE}% de chance de expurgar um mal de status expurgável aleatório de todos os aliados. Este efeito pode ser ativado uma vez por turno."
 "familybonuses.description.short.counter_attack_ninja","{CHANCE}% de chance de contra-atacar com {MULTIPLIERPERCENT}% do dano recebido."
 "familybonuses.description.short.counter_attack_ninja2","{CHANCE}% de chance de contra-atacar com {MULTIPLIERPERCENT}% do dano recebido."
+"familybonuses.description.short.counter_attack_titan_specials_titan_hunters.against_titan.specialskill.always","Contra-ataca com {MULTIPLIERPERCENT}% do dano recebido de habilidades especiais de titã."
 "familybonuses.description.short.crit_multiplier_zodiac_dragon","Bônus do Dragão do Ano Lunar: {MULTIPLIERPERCENTCHANGE}% de chance crítica"
 "familybonuses.description.short.critical_multiplier","{MULTIPLIERPERCENTCHANGE}% de chance crítica"
 "familybonuses.description.short.critical_multiplier_forsaken","{MULTIPLIERPERCENTCHANGE}% de chance crítica"
@@ -266,6 +273,7 @@ O Herói recebe o bônus familiar de uma família relacionada quando está em um
 "familybonuses.description.short.special_damage_multiplier_zodiac_rat","Bônus de Rato do Ano Lunar: {MULTIPLIERPERCENTCHANGE}% de poder da habilidade especial"
 "familybonuses.description.short.start_battle_with_fox_minion","Convoca {FAMILIARAMOUNT} ajudante Raposa Astuta para si mesmo no início da batalha. O ajudante Raposa Astuta tem 80% de chance de se esquivar de ataques. Ao se esquivar, ele rouba o reforço dissipável mais recente do atacante e o transfere para o dono."
 "familybonuses.description.short.start_battle_with_fox_minion.multiple_familiars","Convoca {FAMILIARAMOUNT} ajudantes Raposa Astuta para si mesmo no início da batalha. O ajudante Raposa Astuta tem 80% de chance de se esquivar de ataques. Ao se esquivar, ele rouba o reforço dissipável mais recente do atacante e o transfere para o dono."
+"familybonuses.description.short.start_battle_with_mana_titan_hunters.addmana.single.allies.titan.ubertitan","recebe {MULTIPLIERPERCENT}% de mana no início da batalha."
 "familybonuses.description.short.start_battle_with_mask_minion","Convoca um ajudante Máscara para si mesmo no início da batalha."
 "familybonuses.description.short.start_battle_with_recruit_guard_mega_minion","No início da batalha, convoca um ajudante mega Guarda Recruta com {FAMILIARHEALTHPERCENT}% de PV e {FAMILIARATTACK}% de ataque herdados deste personagem."
 "familybonuses.description.short.status_effect_duration_increase","{CHANCE}% de chance de aumentar em {FIXEDVALUE} a duração dos efeitos de status lançados."
@@ -293,8 +301,8 @@ Este herói tem as seguintes vantagens en investidas durante o evento Briga de I
 "herocard.family.description.common","Os heróis ficam mais fortes quando se unem a outros heróis únicos da mesma família."
 "herocard.family.description.common.bard","A família Bardo dá um  Bônus Solo a qualquer herói que é o único membro da própria família na equipe:"
 "herocard.family.description.common.beauty_beast","Os heróis desta família ganham Humildade ao lançar uma versão potente das habilidades especiais."
-"herocard.family.description.common.classic","Os Heróis ficam mais fortes quando se juntam a outros Heróis da mesma família.
-Os Heróis da Família Clássicos precisam estar totalmente Ascendidos para receber o Bônus Familiar.
+"herocard.family.description.common.classic","Os heróis ficam mais fortes quando se juntam a outros heróis da mesma família.
+Os heróis da Família Clássicos precisam estar totalmente Ascendidos para receber o Bônus Familiar.
 Bônus por 2/3/4/5 Heróis totalmente Ascendidos:"
 "herocard.family.description.common.construct","Os membros desta família tem um Núcleo de Construto."
 "herocard.family.description.common.cupid","A família Cupido dá um  Bônus Solo a qualquer herói que é o único membro da própria família na equipe:"
@@ -347,14 +355,14 @@ Este herói tem as seguintes vantagens no evento:"
 "herocard.family.description.seasonherobonus.active_now_bonus","Bônus de Herói da Temporada ativo!
 Este Herói tem as seguintes vantagens na fase:"
 "herocard.family.description.treasurequestbonus.active_now_bonus","Bônus de Herói do Evento ativo!
-Os Heróis das famílias em destaque têm as seguintes vantagens no evento:"
+Os heróis das famílias em destaque têm as seguintes vantagens no evento:"
 "herocard.family.linked_family.description.family_specific.zodiac_dragon","Este Herói dá o seguinte bônus de Dragão do Ano Lunar aos membros família Ano Lunar:"
 "herocard.family.linked_family.description.family_specific.zodiac_ox","Este Herói dá o seguinte bônus de Boi do Ano Lunar aos membros família Ano Lunar:"
 "herocard.family.linked_family.description.family_specific.zodiac_rabbit","Este Herói dá o seguinte bônus de Coelho do Ano Lunar aos membros família Ano Lunar:"
 "herocard.family.linked_family.description.family_specific.zodiac_rat","Este Herói dá o seguinte bônus de Rato do Ano Lunar aos membros família Ano Lunar:"
 "herocard.family.linked_family.description.family_specific.zodiac_snake","Este Herói dá o seguinte bônus de Serpente do Ano Lunar aos membros família Ano Lunar:"
 "herocard.family.linked_family.description.family_specific.zodiac_tiger","Este Herói dá o seguinte bônus de Tigre do Ano Lunar aos membros família Ano Lunar:"
-"herocard.family.linked_family.description.generic.zodiac","Os Heróis ficam mais fortes quando em equipe com outros Heróis diferentes da mesma família.
+"herocard.family.linked_family.description.generic.zodiac","Os heróis ficam mais fortes quando em equipe com outros heróis diferentes da mesma família.
 A família Ano Lunar inclui diferentes Heróis de Animais do Ano Lunar. Cada Animal do Ano Lunar concede um bônus específico aos membros da família Ano Lunar quando acompanhado de pelo menos 1 outro Herói do Ano Lunar."
 "herocard.family.name","Família"
 "herocard.family.title.abyss","Família Submundo Selvagem"
@@ -517,6 +525,8 @@ A família Ano Lunar inclui diferentes Heróis de Animais do Ano Lunar. Cada Ani
 "herocard.family.title.tales1_baddies.short","Pesadelos de Atlântida"
 "herocard.family.title.tales1_goodies","Família Defensores de Atlântida"
 "herocard.family.title.tales1_goodies.short","Defensores de Atlântida"
+"herocard.family.title.titan_hunter","Família Caçadores de Titãs"
+"herocard.family.title.titan_hunter.short","Caçadores de Titãs"
 "herocard.family.title.vanaheim","Reino de Vanaheim"
 "herocard.family.title.vanaheim.short","Vanaheim"
 "herocard.family.title.vegetable","Família Hortaliça Honrada"

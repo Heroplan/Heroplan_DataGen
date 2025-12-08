@@ -29,10 +29,12 @@ Pahlawan meraih {1MEMBERCHARGEFROMHEAL}/{2MEMBERSCHARGEFROMHEAL}/{3MEMBERSCHARGE
 "familybonuses.description.long.build_charge_nidavellir_alt","Inti Cair dicas setiap kali karakter ini mengalami kerusakan dari serangan normal atau Keahlian Khusus."
 "familybonuses.description.long.cast_defense_debuffs_back_to_enemies","Saat Pahlawan ini menerima status pelemahan yang memengaruhi pertahanan, berpeluang {1MEMBERCHANCE}%/{2MEMBERSCHANCE}%/{3MEMBERSCHANCE}% untuk merapal pelemahan yang diterima kepada semua musuh."
 "familybonuses.description.long.champions_special_damage_power_modifier","+{1MEMBERMULTIPLIERPERCENT}%/+{2MEMBERSMULTIPLIERPERCENT}%/+{3MEMBERSMULTIPLIERPERCENT}% kerusakan Keahlian Khusus tambahan."
+"familybonuses.description.long.chance_to_cleanse_all_on_received_special_damage_astral_demons.minordebuff","Peluang {1MEMBERCHANCE}/{2MEMBERSCHANCE}% untuk membersihkan semua status pelemahan karakter ini saat menderita kerusakan dari Keahlian Khusus."
 "familybonuses.description.long.chance_to_cleanse_on_received_special_damage_astral_demons.minordebuff","Peluang {1MEMBERCHANCE}/{2MEMBERSCHANCE}% untuk membersihkan status pelemahan acak yang bisa dibersihkan dari karakter ini saat menderita kerusakan dari Keahlian Khusus."
 "familybonuses.description.long.cleanse_random_debuff_on_special_damage_received.minordebuff.onceperturn","Peluang {1MEMBERCHANCE}%/{2MEMBERSCHANCE}% untuk membersihkan status pelemahan acak yang bisa dibersihkan dari semua sekutu saat karakter ini menderita kerusakan dari Keahlian Khusus musuh. Efek ini hanya bisa diaktifkan satu kali per giliran."
 "familybonuses.description.long.counter_attack_ninja","Peluang {CHANCE}%/{2MEMBERSCHANCE}%/{3MEMBERSCHANCE}%  untuk menyerang balik dengan {MULTIPLIERPERCENT}%/{2MEMBERSMULTIPLIERPERCENT}%/{3MEMBERSMULTIPLIERPERCENT}% dari kerusakan yang diderita."
 "familybonuses.description.long.counter_attack_ninja2","Peluang {CHANCE}%/{2MEMBERSCHANCE}%/{3MEMBERSCHANCE}%  untuk menyerang balik dengan {MULTIPLIERPERCENT}%/{2MEMBERSMULTIPLIERPERCENT}%/{3MEMBERSMULTIPLIERPERCENT}% dari kerusakan yang diderita."
+"familybonuses.description.long.counter_attack_titan_specials_titan_hunters.against_titan.specialskill.always","Menyerang balik dengan {1MEMBERMULTIPLIERPERCENT}%/{2MEMBERSMULTIPLIERPERCENT}%/{3MEMBERSMULTIPLIERPERCENT}% kerusakan yang diterima dari Keahlian Khusus Titan."
 "familybonuses.description.long.crit_multiplier_zodiac_dragon","Peluang kritis {2MEMBERSMULTIPLIERPERCENTCHANGE}%."
 "familybonuses.description.long.critical_multiplier","Peluang kritis {2MEMBERSMULTIPLIERPERCENTCHANGE}%/{3MEMBERSMULTIPLIERPERCENTCHANGE}%/{4MEMBERSMULTIPLIERPERCENTCHANGE}%/{5MEMBERSMULTIPLIERPERCENTCHANGE}%."
 "familybonuses.description.long.critical_multiplier_forsaken","Peluang kritis {MULTIPLIERPERCENTCHANGE}%/{2MEMBERSMULTIPLIERPERCENTCHANGE}%/{3MEMBERSMULTIPLIERPERCENTCHANGE}%."
@@ -70,7 +72,9 @@ Permata Kekuatan menimbulkan {FIXEDPOWER} kerusakan kepada satu musuh acak di se
 Pada akhir setiap giliran dan ketika mengalami kerusakan, pahlawan kehilangan sejumlah kecil Momentum Penerbangan.
 Ketika mengeluarkan Keahlian Khusus, pahlawan meraih Momentum Penerbangan.
 Pahlawan yang lebih lambat mendapatkan peningkatan jumlah Momentum Penerbangan"
-"familybonuses.description.long.growth_mahayoddha","Di akhir tiap giliran, pahlawan di keluarga Mahayoddha meraih Bertumbuh: {1MEMBERATTACKINCREASE}/{2MEMBERSATTACKINCREASE}/{3MEMBERSATTACKINCREASE} serangan, dan {1MEMBERDEFENSEINCREASE}/{2MEMBERSDEFENSEINCREASE}/{3MEMBERSDEFENSEINCREASE} pertahanan."
+"familybonuses.description.long.growth_mahayoddha","Di akhir tiap giliran, pahlawan di keluarga Mahayoddha meraih Bertumbuh: {1MEMBERATTACKINCREASE}/{2MEMBERSATTACKINCREASE}/{3MEMBERSATTACKINCREASE} serangan, dan {1MEMBERDEFENSEINCREASE}/{2MEMBERSDEFENSEINCREASE}/{3MEMBERSDEFENSEINCREASE} pertahanan.
+Batas untuk Skor Kemampuan yang dimodifikasi:
+Minimal {MINSTAT}% dan maksimal {MAXSTAT}% dari nilai aslinya."
 "familybonuses.description.long.heal_multiplier","{2MEMBERSMULTIPLIERPERCENTCHANGE}%/{3MEMBERSMULTIPLIERPERCENTCHANGE}%/{4MEMBERSMULTIPLIERPERCENTCHANGE}%/{5MEMBERSMULTIPLIERPERCENTCHANGE}% penyembuhan."
 "familybonuses.description.long.heal_multiplier_classic","{2MEMBERSMULTIPLIERPERCENTCHANGE}%/{3MEMBERSMULTIPLIERPERCENTCHANGE}%/{4MEMBERSMULTIPLIERPERCENTCHANGE}%/{5MEMBERSMULTIPLIERPERCENTCHANGE}% penyembuhan."
 "familybonuses.description.long.heal_multiplier_hotm2020","{MULTIPLIERPERCENTCHANGE}%/{2MEMBERSMULTIPLIERPERCENTCHANGE}%/{3MEMBERSMULTIPLIERPERCENTCHANGE}% penyembuhan."
@@ -133,6 +137,7 @@ Pahlawan menerima bonus keluarga dari keluarga terkait saat masuk tim dengan set
 Antek Rubah Licik berpeluang {FAMILIARDODGECHANCE}% untuk berkelit dari serangan yang masuk.
 Saat Antek Rubah Licik berkelit, ia mencuri genjotan yang bisa dienyahkan dari penyerang dan memberikannya kepada pemiliknya."
 "familybonuses.description.long.start_battle_with_fox_minion.fox_dodge","Antek Rubah Licik memiliki {FAMILIARHEALTHPERCENT}% kesehatan dan {FAMILIARATTACK}% serangan yang diwarisi dari pahlawan. Antek Rubah Licik berpeluang {FAMILIARDODGECHANCE}% untuk berkelit dari serangan yang masuk.
+"familybonuses.description.long.start_battle_with_mana_titan_hunters.addmana.single.allies.titan.ubertitan","Di awal pertempuran, menerima {1MEMBERMULTIPLIERPERCENT}%/{2MEMBERSMULTIPLIERPERCENT}%/{3MEMBERSMULTIPLIERPERCENT}% mana. Melawan Titan, menerima {ALTERNATIVE1MEMBERMULTIPLIERPERCENT}%/{ALTERNATIVE2MEMBERSMULTIPLIERPERCENT}%/{ALTERNATIVE3MEMBERSMULTIPLIERPERCENT}% mana."
 "familybonuses.description.long.start_battle_with_mask_minion.mask_minion.2members_attack_buff_while_mask_minion.3members_debuff_shield_while_mask_minion","1 anggota keluarga: Karakter ini memanggil Antek Topeng dengan {FAMILIARHEALTHPERCENT}% kesehatan dan {FAMILIARATTACK}% serangan yang diwarisi dari karakter ini.
 Keahlian tambahan dengan 2 anggota keluarga : Ketika dipanggil, Antek Topeng memberi pemiliknya {ATTACK2MEMBERS}% serangan saat pemiliknya memiliki Antek Topeng. Efek ini tidak bisa dienyahkan.
 Keahlian tambahan dengan 3 anggota keluarga: Ketika dipanggil, Antek Topeng memberi pemiliknya kekebalan terhadap semua status pelemahan sementara pemiliknya memiliki Antek Topeng. Efek ini tidak bisa dienyahkan."
@@ -173,10 +178,12 @@ Karakter ini meraih {CURRENTCHARGEFROMHEAL} Kerendahan Hati saat menerima penyem
 "familybonuses.description.short.build_charge_nidavellir_alt","Inti Cair dicas setiap kali karakter ini mengalami kerusakan dari serangan normal atau Keahlian Khusus."
 "familybonuses.description.short.cast_defense_debuffs_back_to_enemies","Saat Pahlawan ini menerima status pelemahan yang memengaruhi pertahanan, berpeluang {CHANCE}% untuk merapal pelemahan yang diterima kepada semua musuh."
 "familybonuses.description.short.champions_special_damage_power_modifier","+{MULTIPLIERPERCENT}% kerusakan Keahlian Khusus tambahan."
+"familybonuses.description.short.chance_to_cleanse_all_on_received_special_damage_astral_demons.minordebuff","Peluang {CHANCE}% untuk membersihkan semua status pelemahan yang bisa dibersihkan dari karakter ini atas kerusakan Keahlian Khusus yang diderita"
 "familybonuses.description.short.chance_to_cleanse_on_received_special_damage_astral_demons.minordebuff","Peluang {CHANCE}% untuk membersihkan status pelemahan acak yang bisa dibersihkan dari karakter ini atas kerusakan Keahlian Khusus yang diderita."
 "familybonuses.description.short.cleanse_random_debuff_on_special_damage_received.minordebuff.onceperturn","Ketika musuh menimbulkan kerusakan Keahlian Khusus pada karakter ini, terdapat peluang {CHANCE}% bagi karakter ini untuk membersihkan status pelemahan acak yang bisa dibersihkan dari semua sekutu. Efek ini hanya bisa diaktifkan sekali per giliran."
 "familybonuses.description.short.counter_attack_ninja","Peluang {CHANCE}% untuk menyerang balik dengan {MULTIPLIERPERCENT}% dari kerusakan yang diderita."
 "familybonuses.description.short.counter_attack_ninja2","Peluang {CHANCE}% untuk menyerang balik dengan {MULTIPLIERPERCENT}% dari kerusakan yang diderita."
+"familybonuses.description.short.counter_attack_titan_specials_titan_hunters.against_titan.specialskill.always","Menyerang balik dengan {MULTIPLIERPERCENT}% kerusakan yang ditrerima dari Keahlian Khusus Titan"
 "familybonuses.description.short.crit_multiplier_zodiac_dragon","Bonus Imlek Tahun Naga: Peluang kritis {MULTIPLIERPERCENTCHANGE}%"
 "familybonuses.description.short.critical_multiplier","Peluang kritis {MULTIPLIERPERCENTCHANGE}%"
 "familybonuses.description.short.critical_multiplier_forsaken","Peluang kritis {MULTIPLIERPERCENTCHANGE}%"
@@ -266,6 +273,7 @@ Karakter ini meraih {CURRENTCHARGEFROMHEAL} Kerendahan Hati saat menerima penyem
 "familybonuses.description.short.special_damage_multiplier_zodiac_rat","Bonus Imlek Tahun Tikus: {MULTIPLIERPERCENTCHANGE}% kekuatan Keahlian Khusus"
 "familybonuses.description.short.start_battle_with_fox_minion","Memanggil {FAMILIARAMOUNT} Antek Rubah Licik untuk diri sendiri di awal pertempuran. Antek Rubah Licik berpeluang 80% untuk berkelit dari serangan masuk. Jika berhasil berkelit, ia mencuri genjotanterbaru yang dapat dienyahkan dari penyerang dan memberikannya kepada pemiliknya."
 "familybonuses.description.short.start_battle_with_fox_minion.multiple_familiars","Memanggil {FAMILIARAMOUNT} Antek Rubah Licik untuk diri sendiri di awal pertempuran. Antek Rubah Licik berpeluang 80% untuk berkelit dari serangan masuk. Jika berhasil berkelit, ia mencuri genjotanterbaru yang dapat dienyahkan dari penyerang dan memberikannya kepada pemiliknya."
+"familybonuses.description.short.start_battle_with_mana_titan_hunters.addmana.single.allies.titan.ubertitan","menerima {MULTIPLIERPERCENT}% mana di awal pertempuran."
 "familybonuses.description.short.start_battle_with_mask_minion","Panggil Antek Topeng untuk diri sendiri di awal pertempuran."
 "familybonuses.description.short.start_battle_with_recruit_guard_mega_minion","Di awal pertempuran, memanggil Antek Mega Penjaga Anggota Baru dengan {FAMILIARHEALTHPERCENT}% HP dan {FAMILIARATTACK}% serangan diwarisi dari karakter ini."
 "familybonuses.description.short.status_effect_duration_increase","Peluang {CHANCE}% untuk meningkatkan durasi efek status sebanyak {FIXEDVALUE}."
@@ -516,6 +524,8 @@ Keluarga Imlek menampilkan Pahlawan Hewan Imlek yang berbeda. Setiap Hewan Imlek
 "herocard.family.title.tales1_baddies.short","Mimpi Buruk Atlantis"
 "herocard.family.title.tales1_goodies","Pembela Keluarga Atlantis"
 "herocard.family.title.tales1_goodies.short","Pembela Atlantis"
+"herocard.family.title.titan_hunter","Keluarga Pemburu Titan"
+"herocard.family.title.titan_hunter.short","Pemburu Titan"
 "herocard.family.title.vanaheim","Area Vanaheim"
 "herocard.family.title.vanaheim.short","Vanaheim"
 "herocard.family.title.vegetable","Keluarga Sayuran Perkasa"

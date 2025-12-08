@@ -29,10 +29,12 @@ Bohater zyskuje {1MEMBERCHARGEFROMHEAL}/{2MEMBERSCHARGEFROMHEAL}/{3MEMBERSCHARGE
 "familybonuses.description.long.build_charge_nidavellir_alt","Stopiony rdzeń zostanie naładowany za każdym razem, gdy ta postać otrzyma obrażenia od ataków zwykłych lub umiejętności specjalnych."
 "familybonuses.description.long.cast_defense_debuffs_back_to_enemies","Gdy na tego bohatera zostanie rzucona dolegliwość ze statusu wpływająca na obronę, szansa na rzucenie tej dolegliwości na wszystkich wrogów wynosi {1MEMBERCHANCE}%/{2MEMBERSCHANCE}%/{3MEMBERSCHANCE}%."
 "familybonuses.description.long.champions_special_damage_power_modifier","+{1MEMBERMULTIPLIERPERCENT}%/+{2MEMBERSMULTIPLIERPERCENT}%/+{3MEMBERSMULTIPLIERPERCENT}% dodatkowych obrażeń od umiejętności specjalnej."
+"familybonuses.description.long.chance_to_cleanse_all_on_received_special_damage_astral_demons.minordebuff","{1MEMBERCHANCE}/{2MEMBERSCHANCE}% szans na oczyszczenie wszystkich dolegliwości ze statusu z tej postaci podczas odnoszenia obrażeń od umiejętności specjalnej."
 "familybonuses.description.long.chance_to_cleanse_on_received_special_damage_astral_demons.minordebuff","{1MEMBERCHANCE}/{2MEMBERSCHANCE}% szans na oczyszczenie losowej oczyszczalnej dolegliwości ze statusu z tej postaci podczas odnoszenia obrażeń od umiejętności specjalnej."
 "familybonuses.description.long.cleanse_random_debuff_on_special_damage_received.minordebuff.onceperturn","{1MEMBERCHANCE}%/{2MEMBERSCHANCE}% szans na usunięcie losowej oczyszczalnej dolegliwości ze statusu u wszystkich sojuszników, gdy ten bohater odniesie obrażenia od umiejętności specjalnej wroga. Ten efekt może się aktywować tylko raz na turę."
 "familybonuses.description.long.counter_attack_ninja","{CHANCE}%/{2MEMBERSCHANCE}%/{3MEMBERSCHANCE}% szansy kontrataku i zadania {MULTIPLIERPERCENT}%/{2MEMBERSMULTIPLIERPERCENT}%/{3MEMBERSMULTIPLIERPERCENT}%  otrzymanych obrażeń."
 "familybonuses.description.long.counter_attack_ninja2","{CHANCE}%/{2MEMBERSCHANCE}%/{3MEMBERSCHANCE}% szansy kontrataku i zadania {MULTIPLIERPERCENT}%/{2MEMBERSMULTIPLIERPERCENT}%/{3MEMBERSMULTIPLIERPERCENT}%  otrzymanych obrażeń."
+"familybonuses.description.long.counter_attack_titan_specials_titan_hunters.against_titan.specialskill.always","Kontratakuje, zadając {1MEMBERMULTIPLIERPERCENT}%/{2MEMBERSMULTIPLIERPERCENT}%/{3MEMBERSMULTIPLIERPERCENT}% obrażeń otrzymanych od umiejętności specjalnych tytana."
 "familybonuses.description.long.crit_multiplier_zodiac_dragon","{2MEMBERSMULTIPLIERPERCENTCHANGE}% szans na trafienie krytyczne."
 "familybonuses.description.long.critical_multiplier","{2MEMBERSMULTIPLIERPERCENTCHANGE}%/{3MEMBERSMULTIPLIERPERCENTCHANGE}%/{4MEMBERSMULTIPLIERPERCENTCHANGE}%/{5MEMBERSMULTIPLIERPERCENTCHANGE}% szans na trafienie krytyczne."
 "familybonuses.description.long.critical_multiplier_forsaken","{MULTIPLIERPERCENTCHANGE}%/{2MEMBERSMULTIPLIERPERCENTCHANGE}%/{3MEMBERSMULTIPLIERPERCENTCHANGE}% szans na trafienie krytyczne."
@@ -69,7 +71,9 @@ Klejnot mocy zadaje {FIXEDPOWER} pkt. obrażeń losowemu przeciwnikowi w każdej
 Na koniec każdej tury i podczas otrzymywania obrażeń bohater traci niewielką ilość pędu lotu.
 Podczas rzucania umiejętności specjalnej bohater zyskuje pęd lotu.
 Wolniejsi bohaterowie zyskują więcej pędu lotu"
-"familybonuses.description.long.growth_mahayoddha","Na koniec każdej tury bohaterowie z rodziny Mahayoddha zyskują Wzrost: {1MEMBERATTACKINCREASE}/{2MEMBERSATTACKINCREASE}/{3MEMBERSATTACKINCREASE} ataku i {1MEMBERDEFENSEINCREASE}/{2MEMBERSDEFENSEINCREASE}/{3MEMBERSDEFENSEINCREASE} obrony."
+"familybonuses.description.long.growth_mahayoddha","Na koniec każdej tury bohaterowie z rodziny Mahayoddha zyskują Wzrost: {1MEMBERATTACKINCREASE}/{2MEMBERSATTACKINCREASE}/{3MEMBERSATTACKINCREASE} ataku i {1MEMBERDEFENSEINCREASE}/{2MEMBERSDEFENSEINCREASE}/{3MEMBERSDEFENSEINCREASE} obrony.
+Limity dla zmodyfikowanej siły umiejętności:
+Min.: {MINSTAT}% i maks.: {MAXSTAT}% oryginalnej wartości."
 "familybonuses.description.long.heal_multiplier","{2MEMBERSMULTIPLIERPERCENTCHANGE}%/{3MEMBERSMULTIPLIERPERCENTCHANGE}%/{4MEMBERSMULTIPLIERPERCENTCHANGE}%/{5MEMBERSMULTIPLIERPERCENTCHANGE}% uzdrowienia."
 "familybonuses.description.long.heal_multiplier_classic","{2MEMBERSMULTIPLIERPERCENTCHANGE}%/{3MEMBERSMULTIPLIERPERCENTCHANGE}%/{4MEMBERSMULTIPLIERPERCENTCHANGE}%/{5MEMBERSMULTIPLIERPERCENTCHANGE}% uzdrowienia."
 "familybonuses.description.long.heal_multiplier_hotm2020","{MULTIPLIERPERCENTCHANGE}%/{2MEMBERSMULTIPLIERPERCENTCHANGE}%/{3MEMBERSMULTIPLIERPERCENTCHANGE}% uzdrowienia."
@@ -132,6 +136,7 @@ Bohater otrzymuje premię rodzinną, gdy jest w drużynie z co najmniej 1 spokre
 Pomocnik szczwany lis ma {FAMILIARDODGECHANCE}% szans na uniknięcie ataków.
 Gdy pomocnik szczwany lis zrobi unik, kradnie ostatnie odwoływalne wzmocnienie napastnikowi i daje je swojemu właścicielowi."
 "familybonuses.description.long.start_battle_with_fox_minion.fox_dodge","Pomocnik szczwany lis ma {FAMILIARHEALTHPERCENT}% zdrowia i {FAMILIARATTACK}% ataku przejęte od bohatera. Pomocnik szczwany lis ma {FAMILIARDODGECHANCE}% szans na uniknięcie ataków.
+"familybonuses.description.long.start_battle_with_mana_titan_hunters.addmana.single.allies.titan.ubertitan","Na początku bitwy otrzymuje {1MEMBERMULTIPLIERPERCENT}%/{2MEMBERSMULTIPLIERPERCENT}%/{3MEMBERSMULTIPLIERPERCENT}% many. Przeciwko tytanom otrzymuje {ALTERNATIVE1MEMBERMULTIPLIERPERCENT}%/{ALTERNATIVE2MEMBERSMULTIPLIERPERCENT}%/{ALTERNATIVE3MEMBERSMULTIPLIERPERCENT}% many."
 "familybonuses.description.long.start_battle_with_mask_minion.mask_minion.2members_attack_buff_while_mask_minion.3members_debuff_shield_while_mask_minion","1 członek rodziny: Postać wzywa zamaskowanego pomocnika, który przejmuje {FAMILIARHEALTHPERCENT}% zdrowia i {FAMILIARATTACK}% ataku od tej postaci.
 Dodatkowa umiejętność z 2 członkami rodziny: po wezwaniu zamaskowany pomocnik zapewnia właścicielowi {ATTACK2MEMBERS}% ataku, dopóki właściciel posiada zamaskowanego pomocnika. Efekt nie może być odwołany czarami.
 Dodatkowa umiejętność z 3 członkami rodziny: po wezwaniu zamaskowany pomocnik zapewnia właścicielowi odporność na wszystkie dolegliwości ze statusu, dopóki właściciel posiada zamaskowanego pomocnika. Efekt nie może być odwołany czarami."
@@ -172,10 +177,12 @@ Ta postać zyskuje {CURRENTCHARGEFROMHEAL} pokory, gdy otrzymuje bezpośrednie l
 "familybonuses.description.short.build_charge_nidavellir_alt","Stopiony rdzeń zostanie naładowany za każdym razem, gdy ta postać otrzyma obrażenia od ataków zwykłych lub umiejętności specjalnych."
 "familybonuses.description.short.cast_defense_debuffs_back_to_enemies","Gdy ten bohater odnosi dolegliwości ze statusu wpływające na obronę, szansa na rzucenie tej dolegliwości na wszystkich wrogów wynosi {CHANCE}%."
 "familybonuses.description.short.champions_special_damage_power_modifier","+{MULTIPLIERPERCENT}% dodatkowych obrażeń od umiejętności specjalnej."
+"familybonuses.description.short.chance_to_cleanse_all_on_received_special_damage_astral_demons.minordebuff","{CHANCE}% szans na oczyszczenie wszystkich oczyszczalnych dolegliwości ze statusu z tej postaci podczas odnoszenia obrażeń od umiejętności specjalnej."
 "familybonuses.description.short.chance_to_cleanse_on_received_special_damage_astral_demons.minordebuff","{CHANCE}% szans na oczyszczenie losowej oczyszczalnej dolegliwości ze statusu z tej postaci podczas odnoszenia obrażeń od umiejętności specjalnej."
 "familybonuses.description.short.cleanse_random_debuff_on_special_damage_received.minordebuff.onceperturn","Gdy przeciwnik zadaje tej postaci obrażenia od umiejętności specjalnej, istnieje {CHANCE}% szans na to, że postać usunie losową oczyszczalną dolegliwość ze statusu u wszystkich sojuszników. Ten efekt może się aktywować tylko raz na turę."
 "familybonuses.description.short.counter_attack_ninja","{CHANCE}% szansy kontrataku i zadania {MULTIPLIERPERCENT}% otrzymanych obrażeń"
 "familybonuses.description.short.counter_attack_ninja2","{CHANCE}% szansy kontrataku i zadania {MULTIPLIERPERCENT}% otrzymanych obrażeń"
+"familybonuses.description.short.counter_attack_titan_specials_titan_hunters.against_titan.specialskill.always","Kontratakuje, zadając {MULTIPLIERPERCENT}% obrażeń otrzymanych od umiejętności specjalnych tytana."
 "familybonuses.description.short.crit_multiplier_zodiac_dragon","Premia księżycowego roku smoka: {MULTIPLIERPERCENTCHANGE}% szans na trafienie krytyczne"
 "familybonuses.description.short.critical_multiplier","{MULTIPLIERPERCENTCHANGE}% szans na trafienie krytyczne"
 "familybonuses.description.short.critical_multiplier_forsaken","{MULTIPLIERPERCENTCHANGE}% szans na trafienie krytyczne"
@@ -265,6 +272,7 @@ Ta postać zyskuje {CURRENTCHARGEFROMHEAL} pokory, gdy otrzymuje bezpośrednie l
 "familybonuses.description.short.special_damage_multiplier_zodiac_rat","Premia Księżycowego roku szczura: {MULTIPLIERPERCENTCHANGE}% mocy umiejętności specjalnej"
 "familybonuses.description.short.start_battle_with_fox_minion","Wzywa dla siebie {FAMILIARAMOUNT} pomocnika szczwanego lisa na początku bitwy. Pomocnik szczwany lis ma 80% szans na uniknięcie ataków. Po udanym uniku kradnie ostatnie odwoływalne wzmocnienie z atakującego i daje je swojemu właścicielowi."
 "familybonuses.description.short.start_battle_with_fox_minion.multiple_familiars","Wzywa dla siebie {FAMILIARAMOUNT} pomocników szczwanych lisów na początku bitwy. Pomocnik szczwany lis ma 80% szans na uniknięcie ataków. Po udanym uniku kradnie ostatnie odwoływalne wzmocnienie z atakującego i daje je swojemu właścicielowi."
+"familybonuses.description.short.start_battle_with_mana_titan_hunters.addmana.single.allies.titan.ubertitan","Na początku bitwy otrzymuje {MULTIPLIERPERCENT}% many."
 "familybonuses.description.short.start_battle_with_mask_minion","Przywołuje dla siebie zamaskowanego pomocnika na początku bitwy."
 "familybonuses.description.short.start_battle_with_recruit_guard_mega_minion","Na początku bitwy przywołuje mega pomocnika strażnika rekruta z {FAMILIARHEALTHPERCENT}% PŻ i {FAMILIARATTACK}% ataku przejętymi od tej postaci."
 "familybonuses.description.short.status_effect_duration_increase","{CHANCE}% szans na wydłużenie czasu trwania rzuconych efektów ze statusu o następującą liczbę tur: {FIXEDVALUE}."
@@ -516,6 +524,8 @@ Rodzina księżycowego roku obejmuje różnych bohaterów, będąćych zwierzęt
 "herocard.family.title.tales1_baddies.short","Koszmary Atlantydy"
 "herocard.family.title.tales1_goodies","Rodzina obrońców Atlantydy"
 "herocard.family.title.tales1_goodies.short","Obrońcy Atlantydy"
+"herocard.family.title.titan_hunter","Rodzina łowców tytanów"
+"herocard.family.title.titan_hunter.short","Łowca tytanów"
 "herocard.family.title.vanaheim","Królestwo Vanaheimu"
 "herocard.family.title.vanaheim.short","Vanaheim"
 "herocard.family.title.vegetable","Rodzina walecznych warzyw"

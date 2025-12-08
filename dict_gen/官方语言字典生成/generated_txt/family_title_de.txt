@@ -158,6 +158,8 @@
 "herocard.family.title.tales1_baddies.short","Albträume von Atlantis"
 "herocard.family.title.tales1_goodies","„Verteidiger von Atlantis“-Familie"
 "herocard.family.title.tales1_goodies.short","Verteidiger von Atlantis"
+"herocard.family.title.titan_hunter","Titanenjäger-Familie"
+"herocard.family.title.titan_hunter.short","Titanenjäger"
 "herocard.family.title.vanaheim","Vanaheim-Reich"
 "herocard.family.title.vanaheim.short","Vanaheim"
 "herocard.family.title.vegetable","„Geschicktes Gemüse“-Familie"

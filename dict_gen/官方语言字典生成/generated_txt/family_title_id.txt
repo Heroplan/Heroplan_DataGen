@@ -158,6 +158,8 @@
 "herocard.family.title.tales1_baddies.short","Mimpi Buruk Atlantis"
 "herocard.family.title.tales1_goodies","Pembela Keluarga Atlantis"
 "herocard.family.title.tales1_goodies.short","Pembela Atlantis"
+"herocard.family.title.titan_hunter","Keluarga Pemburu Titan"
+"herocard.family.title.titan_hunter.short","Pemburu Titan"
 "herocard.family.title.vanaheim","Area Vanaheim"
 "herocard.family.title.vanaheim.short","Vanaheim"
 "herocard.family.title.vegetable","Keluarga Sayuran Perkasa"

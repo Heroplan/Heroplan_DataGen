@@ -98,6 +98,7 @@ Le méga démon brochet absorbe les soins et disparaît après avoir absorbé {F
 "specials.v2.follower.follower_moreau_weaker.single.multiplepercharacter","Invoque {FAMILIARAMOUNT} cristaux protecteurs avec {FAMILIARHEALTH} PV pour le lanceur. Il est impossible d'empêcher l'invocation d'un cristal protecteur ; toute tentative de vol de cette unité entraînera sa destruction."
 "specials.v2.hidden_special.dragon_bonefang","Bonefang est réputé pour sa soif de sang. Ce monstre rapide adore effrayer les autres et se vêtir des os des ennemis qu'il a vaincus."
 "specials.v2.hidden_special.dragon_doombringer","Peu de gens connaissent ce terrifiant dragon. Très réservé, il quitte rarement son domaine, le mont de la fureur. On raconte qu'un volcan entre en éruption à chaque fois qu'il rugit."
+"specials.v2.hidden_special.dragon_dreamcatcher","La reine des rêves et des cauchemars. On raconte que sa haine envers les héros se manifeste dans leurs songes. À votre avis, que voit-elle quand elle dort ?"
 "specials.v2.hidden_special.dragon_mordax","Mordax, la terreur de la baie de l'ermite, est célèbre pour son appétit insatiable. D'après la rumeur, s'il perd une de ses têtes, il peut en refaire pousser autant qu'il veut."
 "specials.v2.hidden_special.dragon_stargazer","On raconte que ce très vieux dragon est capable de voler parmi les étoiles. On ignore tout de ses origines."
 "specials.v2.hidden_special.dragon_terrorclaw","Terrorclaw sème la terreur dans la gorge endormie. Ce dragon cruel adore déchiqueter ses ennemis avec ses longues griffes acérées."
@@ -374,6 +375,8 @@ Le démon absorbe les soins. Il disparaît après avoir absorbé une quantité d
 Le démon tentacule sinistre absorbe les soins et disparaît après avoir absorbé {FAMILIARHEALTHPERCENT} % de la santé maximum de son propriétaire."
 "specials.v2.parasite.ominous_tentacle_titan.all","Invoque un démon tentacule sinistre pour tous les ennemis.
 Le démon tentacule sinistre absorbe les soins et disparaît après avoir absorbé {FAMILIARHEALTHPERCENT} % de la santé maximum de son propriétaire."
+"specials.v2.parasite.piranha_fiend.all","Invoque un démon piranha pour tous les ennemis. Il inflige des dégâts à l'ennemi à hauteur de {FAMILIARATTACK} % d'attaque à chaque tour.
+Le démon piranha absorbe les soins. Il disparaît après avoir absorbé une quantité de soins équivalente à {FAMILIARHEALTHPERCENT} % de la santé maximale de sa cible"
 "specials.v2.parasite.pirate_fiend.all","Invoque un démon squelette pirate pour tous les ennemis. Il inflige des dégâts à l'ennemi à hauteur de {FAMILIARATTACK} % d'attaque à chaque tour.
 Le démon squelette pirate absorbe les soins. Il disparaît après avoir absorbé une quantité de soins équivalente à {FAMILIARHEALTHPERCENT} % de la santé maximum de sa cible."
 "specials.v2.parasite.ram_fiend.single.multiplepercharacter","Invoque trois démons béliers pour la cible. Chaque démon inflige des dégâts à l'ennemi à hauteur de {FAMILIARATTACK} % d'attaque à chaque tour.
@@ -462,7 +465,7 @@ Le démon troglodyte absorbe les soins. Il disparaît après avoir absorbé une 
 Si au moins {COUNTREQUIREMENT} alliés présents sur le champ de bataille bénéficient de bonus d'attaque, les dégâts passent à {POWER} % et les ennemis proches sont affectés."
 "specials.v2.property.buffcategorycountbasedpowermodifierandtargettype.extra","Les alliés vaincus ne sont pas considérés comme étant présents sur le champ de bataille."
 "specials.v2.property.buffchainstrike.target_prefer_continuation.no_duplicates","Si la cible a des bonus et est touchée, elle vise un autre ennemi qui a des bonus. Si aucun des ennemis n'a de bonus, elle vise un ennemi aléatoire. Les dégâts sont réduits à chaque coup consécutif. Chaque ennemi ne peut être touché qu'une seule fois."
-"specials.v2.property.bypasscounterattackandreflect","L'attaque ignore toujours les contre-attaques et les renvois."
+"specials.v2.property.bypasscounterattackandreflect","L'attaque ignore les contre-attaques et les renvois."
 "specials.v2.property.bypassdefensivebuffs","L'attaque a {BYPASSCHANCE} % de chances de contourner les bonus défensifs."
 "specials.v2.property.bypassdefensivebuffs.bypass_always","L'attaque contourne les bonus défensifs."
 "specials.v2.property.bypassdefensivebuffs.extra","Les contre-attaques sont également concernées."
@@ -488,6 +491,7 @@ Les effets affectant l'attaque n'affectent pas les dégâts supplémentaires."
 "specials.v2.property.casterbasestatdependentsecondaryeffect.heal.fixed_power.extra","La santé supplémentaire dépend de la défense modifiée du lanceur lorsque les soins sont appliqués.
 Jusqu'à {MAXFIXEDPOWER} points de soins supplémentaires.
 Les effets affectant les soins affectent le modificateur de soins."
+"specials.v2.property.casterbasestatdependentsecondaryeffect.heal.neartotarget.allies.defense.fixed_power","Bienfait de croissance : rend {FIXEDPOWERPERBASESTAT} fois plus de PV pour chaque point de défense modifiée."
 "specials.v2.property.chain_effect.damage","Inflige {HEALTH} % de dégâts aux cibles touchées."
 "specials.v2.property.chainstrike","Inflige {HEALTH} % de dégâts à la cible.
  Inflige {DAMAGE} % de dégâts supplémentaires à {MAXHITS} ennemis aléatoires."
@@ -498,6 +502,7 @@ Les effets affectant les soins affectent le modificateur de soins."
 "specials.v2.property.chainstrike.minordamage.with_chance","A {CHANCE} % de chances de donner des coups supplémentaires à des ennemis aléatoires avec un maximum de {MAXHITS} coups. Les coups causent des dégâts légers."
 "specials.v2.property.chainstrike.randommaintarget","Inflige {DAMAGE} % de dégâts à {TOTALMAXHITS} ennemis aléatoires."
 "specials.v2.property.chainstrikewitheffectonsametargethits.addmana.single.allies.2_outof_2","Le lanceur reçoit {EXTRAEFFECTPOWER} % de mana si les deux attaques touchent la même cible."
+"specials.v2.property.chainstrikewitheffectonsametargethits.allowmaintargetinrandomtargets.onehit","Inflige {DAMAGE} % de dégâts à un ennemi aléatoire."
 "specials.v2.property.chainstrikewitheffectperhit.addmana.all.allies.minordamage.with_chance","A {CHANCE} % de chances de donner des coups supplémentaires à des ennemis aléatoires avec un maximum de {MAXHITS} coups. Les coups causent des dégâts légers.
  Tous les alliés obtiennent une petite quantité de mana à chaque coup."
 "specials.v2.property.chainstrikewitheffectperhit.all.allies.minordamage.with_chance","A {CHANCE} % de chances de donner des coups supplémentaires à des ennemis aléatoires avec un maximum de {MAXHITS} coups. Les coups causent des dégâts légers."
@@ -733,6 +738,7 @@ Cet effet est moins puissant lorsqu'il est activé par des monstres ou des boss.
 "specials.v2.property.growth.none.neartotarget.allies.attack","Croissance : le lanceur et les alliés proches reçoivent {ATTACKINCREASE} points d'attaque."
 "specials.v2.property.growth.none.neartotarget.allies.attack.defense","Croissance : le lanceur et les alliés proches reçoivent {ATTACKINCREASE} points d'attaque et {DEFENSEINCREASE} points de défense."
 "specials.v2.property.growth.none.neartotarget.allies.defense","Croissance : le lanceur et les alliés proches reçoivent {DEFENSEINCREASE} points de défense."
+"specials.v2.property.growth.none.neartotargetexceptcaster.allies.attack","Croissance : les alliés proches reçoivent {ATTACKINCREASE} points d'attaque."
 "specials.v2.property.growth.none.neartotargetexceptcaster.allies.attack.defense","Croissance : les alliés proches reçoivent {ATTACKINCREASE} points d'attaque et {DEFENSEINCREASE} points de défense."
 "specials.v2.property.growth.none.single.allies.attack","Croissance : le lanceur reçoit {ATTACKINCREASE} points d'attaque."
 "specials.v2.property.growth.none.single.allies.attack.defense","Croissance : le lanceur reçoit {ATTACKINCREASE} points d'attaque et {DEFENSEINCREASE} points de défense."
@@ -859,6 +865,7 @@ La santé boostée subit une réduction supplémentaire de {REDUCTION}."
 "specials.v2.property.reducemaxhealth.reducemaxhealth.neartotargetexceptmaintarget.enemies","La santé maximale des ennemis proches de la cible est réduite de {REDUCTION}. L'effet est plus puissant sur les ennemis dont la santé est boostée."
 "specials.v2.property.reducemaxhealth.reducemaxhealth.sides.enemies","La santé maximale des ennemis sur les bords de leur formation est réduite de {REDUCTION}. L'effet est plus puissant sur les ennemis dont la santé est boostée."
 "specials.v2.property.reducemaxhealth.reducemaxhealth.single.allies","La santé maximale du lanceur est réduite de {REDUCTION}. L'effet est plus puissant sur les ennemis dont la santé est boostée."
+"specials.v2.property.reducemaxhealth.reducemaxhealth.single.enemies","La santé maximale de la cible est réduite de {REDUCTION}. L'effet est plus puissant sur les cibles dont la santé est boostée."
 "specials.v2.property.removebasestatmodifiers","Supprime les effets de croissance et de flétrissement de la cible."
 "specials.v2.property.removebasestatmodifiers.all.allies","Supprime les effets de croissance et de flétrissement de tous les alliés."
 "specials.v2.property.removebasestatmodifiers.all.enemies","Supprime les effets de croissance et de flétrissement de tous les ennemis."
@@ -1008,6 +1015,7 @@ Si la cible ne dispose pas de compétence spéciale ou si celle-ci ne peut pas �
 "specials.v2.property.statuseffectreallocation.from.all.enemies.to.all.allies","Vole tous les bonus dissipables de tous les ennemis et les octroie aléatoirement aux alliés."
 "specials.v2.property.statuseffectreallocation.from.all.enemies.to.all.allies.customreallocationcount","Vole le bonus dissipable le plus récent de chaque ennemi, puis les redistribue aux alliés."
 "specials.v2.property.statuseffectreallocation.from.all.enemies.to.lessorequaltohalfhpleft.allies","Vole les bonus dissipables de tous les ennemis et les octroie aléatoirement aux alliés qui ont 50 % de PV ou moins."
+"specials.v2.property.statuseffectreallocation.from.all.enemies.to.lessorequaltohalfhpleft.allies.customreallocationcount","Vole le bonus dissipable le plus récent de chaque ennemi, puis distribue aléatoirement ces bonus aux alliés qui ont 50 % de PV ou moins."
 "specials.v2.property.statuseffectreallocation.from.all.enemies.to.single.allies","Vole tous les bonus dissipables de tous les ennemis et les octroie au lanceur."
 "specials.v2.property.statuseffectreallocation.from.neartotarget.allies.to.all.enemies","Retire tous les effets négatifs purifiables du lanceur et des alliés proches et les inflige aléatoirement aux ennemis."
 "specials.v2.property.statuseffectreallocation.from.neartotarget.enemies.to.all.allies","Vole tous les bonus dissipables de la cible et des ennemis proches, et les octroie aléatoirement aux alliés."
@@ -1072,11 +1080,14 @@ Le démon jeune pousse devient un méga démon florissant au bout de {EVOLVINGFA
 Les démons infligent des dégâts à leur cible à chaque tour et disparaissent après avoir absorbé une quantité de soins proportionnelle à la santé maximale de la cible."
 "specials.v2.property.targetfamiliarbasedchainstrikewithfamiliarsummon.onehit.parasite.bigparasite.evolving_seedling_parasite","Si la cible à des démons ou des méga démons, inflige {DAMAGE} % de dégâts à un autre ennemi aléatoire.
 Invoque un démon plantule pour chaque ennemi touché."
+"specials.v2.property.targetfamiliarbasedchainstrikewithfamiliarsummon.onehit.parasite.bigparasite.evolving_seedling_parasite_with_delay","Si la cible à des démons ou des méga démons, inflige {DAMAGE} % de dégâts à un autre ennemi aléatoire.
+Invoque un démon plantule pour chaque ennemi touché."
 "specials.v2.property.targethealthdependantextradamage.over_health_boundary.all","Inflige {DAMAGEMULTIPLIER} % de dégâts aux ennemis qui ont plus de {HEALTHBOUNDARY} % de santé."
 "specials.v2.property.targethealthdependantextradamage.over_health_boundary.neartotarget","Inflige {DAMAGEMULTIPLIER} % de dégâts aux ennemis qui ont plus de {HEALTHBOUNDARY} % de santé."
 "specials.v2.property.targethealthdependantextradamage.over_health_boundary.single","Inflige {DAMAGEMULTIPLIER} % de dégâts s'il reste plus de {HEALTHBOUNDARY} % de santé à la cible."
 "specials.v2.property.targethealthdependantextradamage.under_health_boundary.all","Inflige {DAMAGEMULTIPLIER} % de dégâts aux ennemis qui ont moins de {HEALTHBOUNDARY} % de santé."
 "specials.v2.property.targethealthdependantextradamage.under_health_boundary.neartotarget","Inflige {DAMAGEMULTIPLIER} % de dégâts aux ennemis qui ont moins de {HEALTHBOUNDARY} % de santé."
+"specials.v2.property.targethealthdependantextradamage.under_health_boundary.neartotargetminor","Inflige des dégâts supplémentaires aux ennemis qui ont moins de {HEALTHBOUNDARY} % de santé."
 "specials.v2.property.targethealthdependantextradamage.under_health_boundary.single","Inflige {DAMAGEMULTIPLIER} % de dégâts s'il reste moins de {HEALTHBOUNDARY} % de santé à la cible."
 "specials.v2.property.thresholdaftereffectchainstrike.allowmaintargetinrandomtargets.target_random.allow_duplicates.over_mana_threshold","Si la cible a plus de {THRESHOLD1} % de mana après la réduction de mana, la compétence spéciale vise à nouveau un ennemi aléatoire. Les dégâts sont réduits à chaque coup."
 "specials.v2.property.thresholdaftereffectchainstrike.over_mana_threshold","Si la cible a plus de {THRESHOLD1} % de mana après la réduction de mana, la compétence spéciale vise à nouveau un ennemi aléatoire. Les dégâts sont réduits à chaque coup."
@@ -1092,7 +1103,9 @@ Invoque un démon plantule pour chaque ennemi touché."
 "specials.v2.property.tilecountbasedamplifiedeffect.damage.neartotarget.enemies.green_tiles.neartotarget","S'il y a {COUNTREQUIREMENT} boucliers de nature ou plus sur le plateau, les dégâts sont infligés à la cible et aux ennemis à proximité."
 "specials.v2.property.tilecountbasedamplifiedeffect.damage.neartotarget.enemies.purple_tiles.neartotarget","S'il y a {COUNTREQUIREMENT} boucliers sombres ou plus sur le plateau, les dégâts et les effets négatifs sont infligés à la cible et aux ennemis proches."
 "specials.v2.property.tileenhancement.accuracymodifier.both.blue","Altère les chances de coup critique ou la précision de tous les boucliers de type Glace sur le plateau. Lorsqu'un héros attaquant lance la compétence spéciale, les boucliers gagnent {MODIFIERATTACKER} % de chances de coup critique. Lorsqu'un héros défenseur lance la compétence spéciale, les boucliers perdent {MODIFIERDEFENDER} % de précision."
+"specials.v2.property.tileenhancement.accuracymodifier.both.red","Altère les chances de coup critique ou la précision de tous les boucliers de feu sur le plateau. Lorsqu'un héros en attaque lance la compétence spéciale, les boucliers gagnent {MODIFIERATTACKER} % de chances de coup critique. Lorsqu'un héros en défense lance la compétence spéciale, les boucliers perdent {MODIFIERDEFENDER} % de précision."
 "specials.v2.property.tileenhancement.accuracymodifier.npcs.blue","Affaiblit tous les boucliers de type Glace sur le plateau. Les boucliers affaiblis ont {MODIFIERDEFENDER} % de précision."
+"specials.v2.property.tileenhancement.accuracymodifier.npcs.red","Affaiblit tous les boucliers de feu sur le plateau. Les boucliers affaiblis ont {MODIFIERDEFENDER} % de précision."
 "specials.v2.property.tileenhancement.attackmultiplier.both.blue","Altère la puissance de tous les boucliers de type Glace sur le plateau. Lorsqu'un héros attaquant lance la compétence spéciale, les boucliers gagnent {MODIFIERATTACKER} % d'attaque. Lorsqu'un héros défenseur lance la compétence spéciale, les boucliers perdent {MODIFIERDEFENDER} % d'attaque."
 "specials.v2.property.tileenhancement.attackmultiplier.both.green","Altère la puissance de tous les boucliers de type Nature sur le plateau. Lorsqu'un héros attaquant lance la compétence spéciale, les boucliers gagnent {MODIFIERATTACKER} % d'attaque. Lorsqu'un héros défenseur lance la compétence spéciale, les boucliers perdent {MODIFIERDEFENDER} % d'attaque."
 "specials.v2.property.tileenhancement.attackmultiplier.both.purple","Altère la puissance de tous les boucliers de type Sombre sur le plateau. Lorsqu'un héros attaquant lance la compétence spéciale, les boucliers gagnent {MODIFIERATTACKER} % d'attaque. Lorsqu'un héros défenseur lance la compétence spéciale, les boucliers perdent {MODIFIERDEFENDER} % d'attaque."
@@ -1109,6 +1122,7 @@ Invoque un démon plantule pour chaque ennemi touché."
 "specials.v2.property.tileenhancement.attackmultiplier.playercharacters.red","Améliore tous les boucliers de type Feu sur le plateau. Les boucliers améliorés ont {MODIFIERATTACKER} % d'attaque."
 "specials.v2.property.tileenhancement.attackmultiplier.playercharacters.yellow","Améliore tous les boucliers de type Sacré sur le plateau. Les boucliers améliorés ont {MODIFIERATTACKER} % d'attaque."
 "specials.v2.property.tileenhancement.criticalchancemultiplier.playercharacters.blue","Améliore tous les boucliers de type Glace sur le plateau. Les boucliers améliorés ont {MODIFIERATTACKER} % de chances de coup critique."
+"specials.v2.property.tileenhancement.criticalchancemultiplier.playercharacters.red","Améliore tous les boucliers de feu sur le plateau. Les boucliers améliorés ont {MODIFIERATTACKER} % de chances de coup critique."
 "specials.v2.property.tileenhancement.manamultiplier.both.blue","Altère la puissance de tous les boucliers de type Glace sur le plateau. Lorsqu'un héros attaquant lance la compétence spéciale, le bouclier devient amélioré et donne {MODIFIERATTACKER} % de mana supplémentaire. Lorsqu'un héros défenseur lance la compétence spéciale, les boucliers sont affaiblis et donnent {MODIFIERDEFENDER} % de mana en moins."
 "specials.v2.property.tileenhancement.manamultiplier.both.green","Altère la puissance de tous les boucliers de type Nature sur le plateau. Lorsqu'un héros attaquant lance la compétence spéciale, le bouclier devient amélioré et donne {MODIFIERATTACKER} % de mana supplémentaire. Lorsqu'un héros défenseur lance la compétence spéciale, les boucliers sont affaiblis et donnent {MODIFIERDEFENDER} % de mana en moins."
 "specials.v2.property.tileenhancement.manamultiplier.both.purple","Altère la puissance de tous les boucliers de type Sombre sur le plateau. Lorsqu'un héros attaquant lance la compétence spéciale, le bouclier devient amélioré et donne {MODIFIERATTACKER} % de mana supplémentaire. Lorsqu'un héros défenseur lance la compétence spéciale, les boucliers sont affaiblis et donnent {MODIFIERDEFENDER} % de mana en moins."
@@ -1183,10 +1197,12 @@ Lorsque le lanceur sort de sa cachette, il inflige {DAMAGE} points de dégâts 
 "specials.v2.statuseffect.major.berserkdefense.single.allies","Le lanceur reçoit {DEFENSE} % de défense, et une augmentation supplémentaire de {CHANGE} % à chaque coup subi pendant {TURNS} tours, jusqu'à un maximum de {MAXMODIFIER} %. Cet effet ne peut pas être dissipé."
 "specials.v2.statuseffect.major.buffimmunity.neartotarget.enemies","La cible et les ennemis à proximité ne peuvent pas recevoir de nouveaux bonus pendant {TURNS} tours. Cet effet ne peut pas être dissipé."
 "specials.v2.statuseffect.major.buildupdamageonremoval.all.allies.onremoval.damage.random.enemies.expiration","Tous les alliés infligent entre {DAMAGE} et {MAXDAMAGE} points de dégâts à un ennemi aléatoire au bout de {TURNS} tours. La valeur dépend des dégâts subis par les alliés pendant l'effet. Cet effet ne peut pas être dissipé."
+"specials.v2.statuseffect.major.buildupdamageonremoval.single.allies.onremoval.damage.all.enemies.expiration.death","Inflige entre {DAMAGE} et {MAXDAMAGE} points de dégâts à tous les ennemis au bout de {TURNS} tours ou lorsque le lanceur est vaincu. La valeur dépend des dégâts subis par le lanceur pendant l'effet. Cet effet ne peut pas être dissipé."
 "specials.v2.statuseffect.major.burn.all.enemies","Tous les ennemis reçoivent {DAMAGE} dégâts de brûlure sur {TURNS} tours. Cet effet ne peut pas être purifié."
 "specials.v2.statuseffect.major.burn.neartotarget.enemies","La cible et les ennemis à proximité reçoivent {DAMAGE} dégâts de brûlure sur {TURNS} tours. Cet effet ne peut pas être purifié."
 "specials.v2.statuseffect.major.burn.single.enemies","La cible reçoit {DAMAGE} dégâts de brûlure sur {TURNS} tours. Cet effet ne peut pas être purifié."
 "specials.v2.statuseffect.major.constantmanasteal.all.enemies","Le lanceur vole {CURRENTMANASTEAL} % du mana généré par les ennemis sur {TURNS} tours. Cet effet ne peut pas être purifié, mais il disparaît si le lanceur est vaincu."
+"specials.v2.statuseffect.major.constantmanasteal.all.enemies.while.single.allies.familiaralive.cursed_sigil_parasite_costume","Le lanceur vole {CURRENTMANASTEAL} % du mana généré par tous les ennemis. Cet effet dure tant que la cible a des démons sceaux maudits et il ne peut pas être purifié, mais il disparaît si le lanceur est vaincu."
 "specials.v2.statuseffect.major.constantmanasteal.all.enemies.while.single.allies.familiaralive.fire_wisp_parasite_vonreine","Le lanceur vole {CURRENTMANASTEAL} % du mana généré à la cible et aux ennemis à proximité. Cet effet dure tant que la cible a des démons feux follets ardents et il ne peut pas être purifié, mais il disparaît si le lanceur est vaincu."
 "specials.v2.statuseffect.major.constantmanasteal.neartotarget.enemies.while.single.allies.familiaralive.fallen_star_parasite","Le lanceur vole {CURRENTMANASTEAL} % du mana généré à la cible et aux ennemis à proximité. Cet effet dure tant que la cible a des démons étoiles déchues et il ne peut pas être purifié, mais disparaît si le lanceur est vaincu."
 "specials.v2.statuseffect.major.corrosivepoison.sides.enemies.managenerationmodifier","Les ennemis sur les bords de leur formation sont affectés par Poison corrosif pendant {TURNS} tours, qui inflige {DAMAGEPERTURN} dégâts et réduit la génération de mana des ennemis affectés de {CHANGE} % à chaque tour. Cet effet ne peut pas être purifié."
@@ -1201,9 +1217,9 @@ Lorsque le lanceur sort de sa cachette, il inflige {DAMAGE} points de dégâts 
 "specials.v2.statuseffect.major.damageanddebuffshield.cover.single.allies","Le coffre imposteur se ferme pendant {TURNS} tours."
 "specials.v2.statuseffect.major.damageanddebuffshield.single.allies","Tous les dégâts et effets négatifs subis sont bloqués pendant {TURNS} tours."
 "specials.v2.statuseffect.major.damageanddebuffshield.single.allies.turns.one","Tous les dégâts et effets négatifs subis sont bloqués pendant {TURNS} tour."
-"specials.v2.statuseffect.major.dancemultieffect.allexceptcaster.allies.dance_of_ishq_kesha","Tous les alliés à l'exception du lanceur font la danse de l'Ishq pendant {TURNS} tours. 
+"specials.v2.statuseffect.major.dancemultieffect.allexceptcaster.allies.dance_of_ishq_kesha","Tous les alliés à l'exception du lanceur font la danse d'Ishq pendant {TURNS} tours. 
 
-Danse de l'Ishq
+Danse d'Ishq
 {STATUSEFFECTS}"
 "specials.v2.statuseffect.major.dancemultieffect.allexceptcaster.allies.dance_of_the_dunes","Tous les alliés à l'exception du lanceur font la danse des dunes pendant {TURNS} tours. 
 
@@ -1597,6 +1613,7 @@ La source de bienfaits s'active {MAXACTIVATIONCOUNT} fois. Chaque tentative de 
 "specials.v2.statuseffect.minor.accuracymodifier.red.enemies","Tous les ennemis de feu reçoivent {ACCURACY} % de précision pendant {TURNS} tours."
 "specials.v2.statuseffect.minor.accuracymodifier.single.allies","Le lanceur reçoit {ACCURACY} % de précision pendant {TURNS} tours."
 "specials.v2.statuseffect.minor.accuracymodifier.single.enemies","La cible reçoit {ACCURACY} % de précision pendant {TURNS} tours."
+"specials.v2.statuseffect.minor.accuracymodifier.single.enemies.chain_strike","Toutes les cibles touchées reçoivent {ACCURACY} % de précision pendant {TURNS} tours."
 "specials.v2.statuseffect.minor.accuracymodifierperhit.all.enemies","Tous les ennemis obtiennent {ACCURACY} % de précision et une diminution supplémentaire de {CHANGE} % à chaque fois qu'ils sont touchés pendant {TURNS} tours. Maximum : {MAXACCURACY} %."
 "specials.v2.statuseffect.minor.accuracymodifierpertile.blue.neartotarget.enemies","Pendant {TURNS} tours, la cible et les ennemis proches reçoivent {ACCURACY} % de précision, avec une réduction supplémentaire de {ACCURACYPERTILE} % pour chaque bouclier de glace sur le plateau, jusqu'à un maximum de {MAXACCURACY} %."
 "specials.v2.statuseffect.minor.accuracymodifierpertile.purple.all.enemies","Pendant {TURNS} tours, tous les ennemis reçoivent {ACCURACY} % de précision, avec une réduction supplémentaire de {ACCURACYPERTILE} % pour chaque bouclier sombre sur le plateau, jusqu'à un maximum de {MAXACCURACY} %."
@@ -1619,6 +1636,7 @@ La source de bienfaits s'active {MAXACTIVATIONCOUNT} fois. Chaque tentative de 
 "specials.v2.statuseffect.minor.addstatuseffectonremoval.single.enemies.onremoval.expiration.paralysis.single.allies.turns.one","Au bout de {TURNS} tour, la cible est paralysée pour {STATUSEFFECT1TURNS} tours."
 "specials.v2.statuseffect.minor.addstatuseffectonremoval.single.enemies.onremoval.expiration.paralysis_fruitio.single.allies.turns.one","Au bout de {TURNS} tour, la cible est paralysée pour {STATUSEFFECT1TURNS} tours."
 "specials.v2.statuseffect.minor.addstatuseffectonremoval.single.enemies.onremoval.expiration.paralysis_knightus.turns.one","Au bout de {TURNS} tour, la cible est paralysée pour {STATUSEFFECT1TURNS} tours."
+"specials.v2.statuseffect.minor.addstatuseffectonremoval.single.enemies.onremoval.expiration.paralysis_wilcox.turns.one","Au bout de {TURNS} tour, la cible est paralysée pour {STATUSEFFECT1TURNS} tours."
 "specials.v2.statuseffect.minor.addstatuseffectonremoval.single.enemies.onremoval.paralysis.single.allies.turns.one","Au bout de {TURNS} tour, la cible est paralysée pour {STATUSEFFECT1TURNS} tours."
 "specials.v2.statuseffect.minor.addstatuseffectonremoval.single.enemies.onremoval.paralysis_fruitio.turns.one","Au bout de {TURNS} tour, la cible est paralysée pour {STATUSEFFECT1TURNS} tours."
 "specials.v2.statuseffect.minor.amplifieddamageonremoval.single.allies.onremoval.damage.all.enemies.expiration.onremoval.damage.all.enemies.dispel.removal.reallocation.death.replacesamestatuseffect.override.enterabsentform","Le lanceur inflige {REMOVALEFFECT1FIXEDPOWER} points de dégâts à tous les ennemis après {TURNS} tours. Si l'effet est supprimé ou remplacé avant la fin de cette durée, inflige {REMOVALEFFECT2FIXEDPOWER} points de dégâts à la place."
@@ -1728,6 +1746,7 @@ Tant que l'Orbe astral est présent, son possesseur ne peut pas obtenir de nouve
 "specials.v2.statuseffect.minor.blockstatuseffectcasting.neartotarget.enemies","La cible et les ennemis à proximité ne peuvent pas lancer de nouveaux effets appliqués sur les ennemis ou alliés pendant {TURNS} tours."
 "specials.v2.statuseffect.minor.blockstatuseffectcasting.single.enemies","La cible ne peut pas lancer de nouveaux effets appliqués sur les ennemis ou alliés pendant {TURNS} tours."
 "specials.v2.statuseffect.minor.blockstatuseffectcasting.single.enemies.chain_strike","Les cibles touchées ne peuvent pas lancer de nouveaux effets appliqués sur les ennemis ou alliés pendant {TURNS} tours."
+"specials.v2.statuseffect.minor.blockstatuseffectcasting.single.enemies.chain_strike.only_main_target","La cible ne peut pas lancer de nouveaux effets appliqués sur les ennemis ou alliés pendant {TURNS} tours."
 "specials.v2.statuseffect.minor.blocktalentskillactivation.all.enemies","Bloque l'activation des compétences de talent de tous les ennemis pendant {TURNS} tours."
 "specials.v2.statuseffect.minor.blocktalentskillactivation.single.enemies","Bloque l'activation des compétences de talent de la cible pendant {TURNS} tours."
 "specials.v2.statuseffect.minor.blocktauntcasting.all.enemies","Tous les ennemis ne peuvent pas lancer de nouveaux effets appliqués Provoquer pendant {TURNS} tours."
@@ -1993,6 +2012,7 @@ Après chaque changement d'élément, les ennemis subissent {DAMAGEPERTURN} si l
 "specials.v2.statuseffect.minor.fixedattackmodifier.neartotarget.enemies","La cible et les ennemis proches reçoivent {ATTACK} points d'attaque pour {TURNS} tours."
 "specials.v2.statuseffect.minor.fixedattackmodifier.neartotarget.enemies.removeonhealfromspecialreceived","La cible et les ennemis proches reçoivent {ATTACK} points d'attaque jusqu'à ce qu'ils soient soignés par une compétence spéciale."
 "specials.v2.statuseffect.minor.fixedattackmodifier.single.enemies","La cible reçoit {ATTACK} points d'attaque pour {TURNS} tours."
+"specials.v2.statuseffect.minor.fixedattackmodifier.single.enemies.chain_strike","Les ennemis touchés reçoivent {ATTACK} points d'attaque pendant {TURNS} tours."
 "specials.v2.statuseffect.minor.fixedbluedefensemodifier.single.enemies.chain_strike","Toutes les cibles touchées reçoivent {DEFENSE} points de défense contre la glace pendant {TURNS} tours."
 "specials.v2.statuseffect.minor.fixedcrusheddefense.single.enemies","La cible obtient {DEFENSE} points de défense et une diminution supplémentaire de {CHANGE} à chaque fois qu'elle est touchée pendant {TURNS} tours, jusqu'à un maximum de {MAXDEFENSE}."
 "specials.v2.statuseffect.minor.fixeddefensemodifier.all.allies","Tous les alliés reçoivent {DEFENSE} points de défense pour {TURNS} tours."
@@ -2003,6 +2023,7 @@ Après chaque changement d'élément, les ennemis subissent {DAMAGEPERTURN} si l
 "specials.v2.statuseffect.minor.fixeddefensemodifier.single.allies","Le lanceur reçoit {DEFENSE} points de défense pour {TURNS} tours."
 "specials.v2.statuseffect.minor.fixeddefensemodifier.single.enemies","La cible reçoit {DEFENSE} points de défense pour {TURNS} tours."
 "specials.v2.statuseffect.minor.fixedgamble.all.allies","Tous les alliés reçoivent {ATTACK} points d'attaque et {ACCURACY} % de précision pour {TURNS} tours."
+"specials.v2.statuseffect.minor.fixedgreendefensemodifier.single.enemies","La cible reçoit {DEFENSE} points de défense contre la nature pendant {TURNS} tours."
 "specials.v2.statuseffect.minor.fixedhealthrecovery.all.allies","Tous les alliés récupèrent {TOTAL} PV sur {TURNS} tours."
 "specials.v2.statuseffect.minor.fixedhealthrecovery.all.allies.noturns","Tous les alliés récupèrent {HPPERTURN} PV à chaque tour de façon permanente."
 "specials.v2.statuseffect.minor.fixedhealthrecovery.all.allies.resetondirectspecialdamage","Tous les alliés récupèrent {TOTAL} PV sur {TURNS} tours. La durée de l'effet est réinitialisée si le propriétaire de l'effet subit des dégâts directs d'une compétence spéciale."
@@ -2029,6 +2050,7 @@ Après chaque changement d'élément, les ennemis subissent {DAMAGEPERTURN} si l
 "specials.v2.statuseffect.minor.fixedpurpledefensemodifier.single.enemies","La cible reçoit {DEFENSE} de défense contre l'élément sombre pour {TURNS} tours."
 "specials.v2.statuseffect.minor.fixedspecialskilldefensemodifier.all.allies","Tous les alliés reçoivent {DEFENSE} points de défense contre les compétences spéciales pour {TURNS} tours."
 "specials.v2.statuseffect.minor.fixedspecialskilldefensemodifier.all.enemies","Tous les ennemis reçoivent {DEFENSE} points de défense contre les compétences spéciales pour {TURNS} tours."
+"specials.v2.statuseffect.minor.fixedyellowdefensemodifier.single.enemies.chain_strike","Toutes les cibles touchées reçoivent {DEFENSE} points de défense contre l'élément sacré pendant {TURNS} tours."
 "specials.v2.statuseffect.minor.fluffvolleystatuseffectskill.neartotarget.allies.on.turnend.damage.random.enemies.addmana.random.enemies","Pendant {TURNS} tours, à la fin de chaque tour, le lanceur et les alliés à proximité lancent une volée adorable sur un ennemi aléatoire.
 Chaque volée adorable inflige {POWER1} % de dégâts.
 Chaque volée adorable réduit le mana de la cible de {ABSPOWER2} %."
@@ -2075,6 +2097,7 @@ Chaque pièce inflige {POWER1} % de dégâts."
 "specials.v2.statuseffect.minor.healonremoval.all.allies.onremoval.heal.single.allies","Tous les alliés récupèrent {REMOVALEFFECT1FIXEDPOWER} PV au bout de {TURNS} tours, ou immédiatement si l'effet prend fin avant d'arriver à terme."
 "specials.v2.statuseffect.minor.healonremoval.single.allies.onremoval.heal.all.allies.expiration.replacesamestatuseffect","Tous les alliés récupèrent {REMOVALEFFECT1FIXEDPOWER} de santé au bout de {TURNS} tours."
 "specials.v2.statuseffect.minor.healstatuseffectskill.single.allies.on.allyspecial.healthboost.all.allies","Au cours des {TURNS} prochains tours, ce personnage booste la santé de tous les alliés de {FIXEDPOWER} lorsqu'un autre allié utilise sa compétence spéciale."
+"specials.v2.statuseffect.minor.healstatuseffectskill.single.allies.on.allyspecial.healthboost.neartotarget.allies","Au cours des {TURNS} tours suivants, ce personnage booste la santé du lanceur et des alliés proches de {FIXEDPOWER} lorsqu'un autre allié utilise sa compétence spéciale."
 "specials.v2.statuseffect.minor.healsteal.all.enemies","Le lanceur vole {HEALING} % des soins appliqués à tous les ennemis pendant {TURNS} tours."
 "specials.v2.statuseffect.minor.healsteal.neartotarget.enemies","Le lanceur vole {HEALING} % des soins appliqués à la cible et les ennemis à proximité pendant {TURNS} tours."
 "specials.v2.statuseffect.minor.healsteal.single.enemies","Le lanceur vole {HEALING} % des soins appliqués à la cible pendant {TURNS} tours."
@@ -2105,7 +2128,7 @@ Chaque pièce inflige {POWER1} % de dégâts."
 "specials.v2.statuseffect.minor.increasingpoison.single.enemies","La cible subit {DAMAGE} dégâts de poison sur {TURNS} tours, en commençant avec une faible quantité, qui augmente à chaque tour."
 "specials.v2.statuseffect.minor.increasingproportionalmanarecovery.neartotarget.allies","Le lanceur et les alliés proches reçoivent du mana à chaque tour pendant {TURNS} tours. La quantité de mana obtenue augmente à chaque tour, jusqu'à {MAXMANAPERTURN} % au dernier tour."
 "specials.v2.statuseffect.minor.increasingproportionalmanarecovery.neartotargetexceptcaster.allies","Les alliés proches reçoivent du mana à chaque tour pendant {TURNS} tours. La quantité de mana obtenue augmente à chaque tour, jusqu'à {MAXMANAPERTURN} % au dernier tour."
-"specials.v2.statuseffect.minor.increasingspecialdamagepowermodifier.single.allies.removeonspecialcast","La puissance de la prochaine compétence spéciale du lanceur est augmentée de {POWER} %. Le bonus augmente de {INCREASEPERTURN} % à chaque tour, jusqu'à un maximum de {MAXPOWERADDITION} %."
+"specials.v2.statuseffect.minor.increasingspecialdamagepowermodifier.single.allies.removeonspecialcast","La puissance de la compétence spéciale suivante du lanceur est augmentée de {POWER} %. Le bonus augmente de {INCREASEPERTURN} % à chaque tour, jusqu'à un maximum de {MAXPOWERADDITION} %."
 "specials.v2.statuseffect.minor.insanityonhit.single.allies","Au cours des {TURNS} prochains tours, le lanceur inflige {STATUSEFFECT1INSANITYTOADD} point(s) de folie à tous les ennemis à chaque fois qu'il est touché. Cet effet se déclenche lorsqu'un ennemi inflige des dégâts avec une compétence spéciale. Les cases et les attaques normales ne peuvent déclencher l'effet qu'une fois par tour"
 "specials.v2.statuseffect.minor.invisible.single.allies.all.enemies.expiration.while.caster.allies.hastargetableallies","Si le lanceur a des alliés pouvant être ciblés, il ne peut plus être ciblé pendant {TURNS} tours. Inflige {FIXEDPOWER} de dégâts à tous les ennemis après le dernier tour ou au moment où le lanceur devient le dernier personnage pouvant être ciblé."
 "specials.v2.statuseffect.minor.lifesteal.all.allies","Tous les alliés récupèrent {LIFESTEAL} % des dégâts normaux infligés pour {TURNS} tours."
@@ -2169,7 +2192,7 @@ Chaque rayon de lune inflige {POWER1} % de dégâts.
 Chaque rayon de lune réduit le mana de la cible de {ABSPOWER2} %."
 "specials.v2.statuseffect.minor.moonbeamstatuseffectskill.all.allies.on.turnend.damage.random.enemies.reducemaxhealth.random.enemies.with_chance","Pendant {TURNS} tours, à la fin de chaque tour, tous les alliés lancent un rayon astral sur un ennemi aléatoire.
 Chaque rayon astral inflige {POWER1} % de dégâts.
-Chaque rayon astral réduit la santé maximale de la cible de {REDUCTION}."
+Chaque rayon astral réduit la santé maximale de la cible de {REDUCTION2}."
 "specials.v2.statuseffect.minor.moonbeamstatuseffectskill.neartotarget.allies.on.turnend.damage.random.enemies.addmana.random.enemies","Pendant {TURNS} tours, à la fin de chaque tour, le lanceur et les alliés à proximité lancent un rayon de lune sur un ennemi aléatoire.
 Chaque rayon de lune inflige {POWER1} % de dégâts.
 Chaque rayon de lune réduit le mana de la cible de {ABSPOWER2} %."
@@ -2190,7 +2213,8 @@ Chaque rayon de lune réduit le mana de la cible de {ABSPOWER2} %."
 "specials.v2.statuseffect.minor.normalattackmodifier.single.allies","Le lanceur obtient {ATTACK} % d'attaque normale pendant {TURNS} tours."
 "specials.v2.statuseffect.minor.normalattacknullifier.neartotarget.enemies","La cible et les ennemis proches ne contribuent plus au dégâts de troupe pendant {TURNS} tours."
 "specials.v2.statuseffect.minor.normalattackreceiveddamagemodifier.neartotargetminor.enemies","Pendant 3 tours, les attaques normales infligent {DAMAGEMODIFIER} % de dégâts supplémentaires à la cible et {MINORDAMAGEMODIFIER} % aux ennemis proches."
-"specials.v2.statuseffect.minor.painempathy.single.enemies","La cible subit {DAMAGEMULTIPLIER} % de tous les dégâts subis par ses alliés pendant {TURNS} tours."
+"specials.v2.statuseffect.minor.painempathy.sides.enemies","Pendant {TURNS} tours, les ennemis sur les bords de leur formation reçoivent {DAMAGEMULTIPLIER} % de tous les dégâts infligés à leurs alliés."
+"specials.v2.statuseffect.minor.painempathy.single.enemies","Pendant {TURNS} tours, la cible reçoit {DAMAGEMULTIPLIER} % de tous les dégâts infligés à ses alliés."
 "specials.v2.statuseffect.minor.poison.all.enemies","Tous les ennemis reçoivent {DAMAGE} dégâts de poison sur {TURNS} tours."
 "specials.v2.statuseffect.minor.poison.all.enemies.absorb_healing.to.all","Tous les ennemis reçoivent {DAMAGE} points de dégâts de poison en {TURNS} tours. Le lanceur et ses alliés se soignent à hauteur de {ABSORBHEALING} % des dégâts de poison."
 "specials.v2.statuseffect.minor.poison.all.enemies.absorb_healing.to.single","Tous les ennemis reçoivent {DAMAGE} points de dégâts de poison en {TURNS} tours. Le lanceur se soigne à hauteur de {ABSORBHEALING} % des dégâts de poison."
@@ -2210,22 +2234,26 @@ Chaque rayon de lune réduit le mana de la cible de {ABSPOWER2} %."
 "specials.v2.statuseffect.minor.poisonpertile.purple.all.enemies","Tous les ennemis reçoivent {BASEDAMAGE} dégâts de poison, avec une augmentation de {DAMAGEPERTILE} pour chaque bouclier de glace sur le plateau pendant {TURNS} tours, jusqu'à un maximum de {MAXDAMAGE}."
 "specials.v2.statuseffect.minor.possession.all.enemies","Pendant {TURNS} tours, tous les ennemis touchés lancent automatiquement attaque irréfléchie sur un allié aléatoire quand le mana est plein."
 "specials.v2.statuseffect.minor.possession.all.enemies.mindless_attack","Pendant {TURNS} tours, tous les ennemis touchés lancent automatiquement attaque irréfléchie sur un allié aléatoire quand le mana est plein."
-"specials.v2.statuseffect.minor.possession.neartotarget.enemies.healing_gift","Pendant 3 tours, la cible et les ennemis proches sont obligés d'utiliser soin inconscient lorsque leur mana est au maximum.
+"specials.v2.statuseffect.minor.possession.neartotarget.enemies.healing_gift","Pendant {TURNS} tours, la cible et les ennemis proches sont obligés d'utiliser Soin inconscient lorsque leur mana est au maximum.
 
 {SPECIALTITLE}
 {SPECIALDESCRIPTION}"
 "specials.v2.statuseffect.minor.possession.neartotarget.enemies.mindless_attack","Pendant {TURNS} tours, la cible et les ennemis proches lancent automatiquement Attaque irréfléchie sur un allié aléatoire si le mana est plein au début du tour."
 "specials.v2.statuseffect.minor.possession.random.enemies.shifting_mindless_attack.removeonspecialcast","Une cible aléatoire lance automatiquement Attaque irréfléchie changeante sur un allié aléatoire quand son mana est plein pendant {TURNS} tours. Quand cet effet est déclenché, il passe à l'allié touché et sa durée est réinitialisée."
+"specials.v2.statuseffect.minor.possession.sides.enemies.healing_gift","Pendant {TURNS} tours, les ennemis sur les bords de leur formation sont obligés d'utiliser Soin inconscient lorsque leur mana est au maximum.
+
+{SPECIALTITLE}
+{SPECIALDESCRIPTION}"
 "specials.v2.statuseffect.minor.possession.single.allies.shifting_mindless_attack.removeonspecialcast","La cible lance automatiquement Attaque irréfléchie changeante sur un allié aléatoire quand son mana est plein pendant {TURNS} tours. Quand cet effet est déclenché, il passe à l'allié touché et sa durée est réinitialisée."
 "specials.v2.statuseffect.minor.possession.single.enemies.healing_gift_anteros","Pendant {TURNS} tours, la cible est obligée d'utiliser soin inconscient lorsque son mana est au maximum.
 
 {SPECIALTITLE}
 {SPECIALDESCRIPTION}"
-"specials.v2.statuseffect.minor.possession.single.enemies.healing_gift_kabeiroi.chain_strike.four_hit_chain_strike_kabeiroi.on_additional_hit","Pendant 3 tours, tous les ennemis touchés sont obligés d'utiliser Soin inconscient lorsque leur mana est au maximum.
+"specials.v2.statuseffect.minor.possession.single.enemies.healing_gift_kabeiroi.chain_strike.four_hit_chain_strike_kabeiroi.on_additional_hit","Pendant {TURNS} tours, tous les ennemis touchés sont obligés d'utiliser Soin inconscient lorsque leur mana est au maximum.
 
 {SPECIALTITLE}
 {SPECIALDESCRIPTION}"
-"specials.v2.statuseffect.minor.possession.single.enemies.healing_gift_kabeiroi.chain_strike.only_main_target","Pendant 3 tours, la cible doit lancer Soin inconscient lorsque son mana est au maximum."
+"specials.v2.statuseffect.minor.possession.single.enemies.healing_gift_kabeiroi.chain_strike.only_main_target","Pendant {TURNS} tours, la cible est obligée d'utiliser Soin inconscient lorsque son mana est au maximum."
 "specials.v2.statuseffect.minor.possession.single.enemies.mindless_attack","La cible lance automatiquement Attaque irréfléchie sur un allié aléatoire quand son mana est plein pendant {TURNS} tours."
 "specials.v2.statuseffect.minor.possession.single.enemies.mindless_attack.chain_strike","Pendant {TURNS} tours, les ennemis touchés lancent automatiquement attaque irréfléchie sur un allié aléatoire quand le mana est plein."
 "specials.v2.statuseffect.minor.possession.single.enemies.shifting_mindless_attack.removeonspecialcast","La cible lance automatiquement Attaque irréfléchie changeante sur un allié aléatoire quand son mana est plein pendant {TURNS} tours. Quand cet effet est déclenché, il passe à l'allié touché et sa durée est réinitialisée."
@@ -2270,6 +2298,7 @@ Chaque rayon de lune réduit le mana de la cible de {ABSPOWER2} %."
 Blessure de sbire : à chaque tour, la santé des sbires de la cible est réduite de {HEALTHREDUCTION} %, et celle des méga sbires de {BIGMINIONHEALTHREDUCTION} %."
 "specials.v2.statuseffect.minor.reducefamiliarhealth.neartotarget.enemies.minion.bigminion","La cible et les alliés proches reçoivent blessure de sbire pendant {TURNS} tours.
 Blessure de sbire : à chaque tour, la santé des sbires de la cible est réduite de {HEALTHREDUCTION} %, et celle des méga sbires de {BIGMINIONHEALTHREDUCTION} %."
+"specials.v2.statuseffect.minor.reducemaxhealthonhealthboost.all.enemies","Pendant les {TURNS} tours suivants, la santé boostée de tous les ennemis est transformée en réduction de santé maximale. La réduction est plus importante pour les cibles dont la santé est déjà boostée."
 "specials.v2.statuseffect.minor.reducemaxhealthonhealthboost.neartotarget.enemies","Pendant les {TURNS} tours suivants, la santé boostée de la cible et des ennemis proches est transformée en réduction de la santé maximale. La réduction est plus importante pour les cibles dont la santé est déjà boostée."
 "specials.v2.statuseffect.minor.reducemaxhealthovertime.all.enemies","La santé maximale de tous les ennemis est réduite de {TOTAL} sur {TURNS} tours. L'effet est plus puissant sur les ennemis dont la santé est boostée."
 "specials.v2.statuseffect.minor.reducemaxhealthovertime.neartotarget.enemies","La santé maximale de la cible et des ennemis proches est réduite de {TOTAL} sur {TURNS} tours. L'effet est plus puissant sur les ennemis dont la santé est boostée."
@@ -2300,6 +2329,7 @@ Blessure de sbire : à chaque tour, la santé des sbires de la cible est rédui
 "specials.v2.statuseffect.minor.resisthealing.sides.enemies.damage","Les ennemis sur les bords de leur formation résistent aux soins et subissent {FIXEDPOWER} points de dégâts pour chaque soin auquel ils résistent pendant {TURNS} tours."
 "specials.v2.statuseffect.minor.resisthealing.single.enemies.damage","La cible résiste aux soins et subit {FIXEDPOWER} points de dégâts pour chaque soin auquel elle résiste pendant {TURNS} tours."
 "specials.v2.statuseffect.minor.resisthealing.single.enemies.damage.chain_strike","La cible résiste aux soins et subit {FIXEDPOWER} points de dégâts pour chaque soin auquel elle résiste pendant {TURNS} tours."
+"specials.v2.statuseffect.minor.resisthealing.single.enemies.damage.chain_strike.chain_strike_turundh.on_additional_hit","La cible du deuxième coup résiste aux soins et subit {FIXEDPOWER} points de dégâts pour chaque soin auquel elle résiste pendant {TURNS} tours."
 "specials.v2.statuseffect.minor.resistmanaeffects.all.allies","Tous les alliés sont immunisés contre les nouveaux effets négatifs affectant le mana pendant {TURNS} tours."
 "specials.v2.statuseffect.minor.resistmanaeffects.all.allies.onresist.addmana.single.allies","Tous les alliés sont immunisés contre les nouveaux effets négatifs affectant le mana pendant {TURNS} tours, et leur mana augmente de {POWER} % à chaque fois qu'ils résistent à un effet."
 "specials.v2.statuseffect.minor.resistmanaeffects.neartotarget.allies.onresist.addmana.single.allies","Le lanceur et les alliés proches sont immunisés contre les nouveaux effets négatifs affectant le mana pendant {TURNS} tours, et leur mana augmente de {POWER} % à chaque fois qu'ils résistent à un effet."
@@ -2380,6 +2410,7 @@ Lors de la résurrection, tous les ennemis reçoivent {STATUSEFFECT1ACCURACY} %
 "specials.v2.statuseffect.minor.soulconnection.neartotarget.allies","Le lanceur et les alliés proches deviennent liés par l'âme pendant {TURNS} tours et partagent les dégâts subis."
 "specials.v2.statuseffect.minor.soulconnection.neartotarget.both","Le lanceur et les alliés proches deviennent liés par l'âme pendant {TURNS} tours et partagent les dégâts subis.
  La cible et les ennemis proches deviennent liés par l'âme pendant {TURNS} tours et partagent les dégâts subis."
+"specials.v2.statuseffect.minor.soulconnection.neartotarget.enemies","La cible et les ennemis proches deviennent liés par l'âme pendant {TURNS} tours et partagent les dégâts subis."
 "specials.v2.statuseffect.minor.specialdamageabsorb.all.allies","Pendant {TURNS} tours, tous les alliés sont soignés à hauteur de {LIFESTEAL} % des dégâts infligés par leurs compétences spéciales."
 "specials.v2.statuseffect.minor.specialdamagepowermodifier.all.allies","La compétence spéciale de tous les alliés infligent {POWER} % de dégâts supplémentaires pendant {TURNS} tours."
 "specials.v2.statuseffect.minor.specialdamagepowermodifier.allexceptcaster.allies","La compétence spéciale de tous les alliés à l'exception du lanceur inflige {POWER} % de dégâts supplémentaires pendant {TURNS} tours."
@@ -2462,6 +2493,7 @@ Lors de la résurrection, tous les ennemis reçoivent {STATUSEFFECT1ACCURACY} %
 "specials.v2.statuseffect.minor.stackingminionmaxhealthmodifier.all.allies","Cumul (max : {MAXSTACK}) : tous les alliés reçoivent {MAXHEALTH} % de PV hérités pour les nouveaux sbires qu'ils invoquent."
 "specials.v2.statuseffect.minor.stackingreceiveddamagemodifier.all.allies.decrease","Cumul (maximum : {MAXSTACK}) : tous les dégâts subis par les alliés sont réduits de {DAMAGEMODIFIER} %."
 "specials.v2.statuseffect.minor.stackingreceiveddamagemodifier.all.enemies","Cumul (maximum : {MAXSTACK}) : tous les dégâts subis par les ennemis sont augmentés de {DAMAGEMODIFIER} %."
+"specials.v2.statuseffect.minor.stackingreceiveddamagemodifier.neartotarget.allies.decrease","Cumul (maximum : {MAXSTACK}) : tous les dégâts subis par le lanceur et les alliés proches sont réduits de {DAMAGEMODIFIER} %."
 "specials.v2.statuseffect.minor.stackingreceiveddamagemodifier.neartotarget.enemies","Cumul (maximum : {MAXSTACK}) : tous les dégâts subis par la cible et les ennemis à proximité sont augmentés de {DAMAGEMODIFIER} %."
 "specials.v2.statuseffect.minor.stackingreceiveddamagemodifier.single.allies.decrease","Cumul (maximum : {MAXSTACK}) : tous les dégâts subis par le lanceur sont réduits de {DAMAGEMODIFIER} %."
 "specials.v2.statuseffect.minor.stackingreceiveddamagemodifier.single.enemies","Cumul (maximum : {MAXSTACK}) : tous les dégâts subis par la cible sont augmentés de {DAMAGEMODIFIER} %."
@@ -2480,6 +2512,7 @@ Chaque esquive donne à tous les alliés {MANAREGEN} % de génération de mana 
 "specials.v2.statuseffect.minor.summonfamiliarperdodgedspecial.all.allies.druid_thorn","Tous les alliés obtiennent {DODGE} % de chances d'esquiver les compétences spéciales pendant {TURNS} tours. Chaque esquive invoque un sbire épineux."
 "specials.v2.statuseffect.minor.summonfamiliarperdodgedspecial.all.allies.druid_thorn_empowered","Tous les alliés obtiennent {DODGE} % de chances d'esquiver les compétences spéciales pendant {TURNS} tours. Chaque esquive invoque un sbire épineux puissant."
 "specials.v2.statuseffect.minor.summonfamiliarperdodgedspecial.all.allies.sakura_fox","Tous les alliés obtiennent {DODGE} % de chances d'esquiver les compétences spéciales pendant {TURNS} tours. Chaque esquive invoque un sbire renard sakura."
+"specials.v2.statuseffect.minor.targetdependentattackmodifier.all.allies.against_red_titan","Tous les alliés reçoivent {ATTACK} % d'attaque pendant {TURNS} tours. Face aux titans de feu, tous les alliés reçoivent {ATTACKAGAINSTVALIDTARGET} % d'attaque."
 "specials.v2.statuseffect.minor.taunt.single.allies","Le lanceur reçoit Provoquer qui empêche les ennemis d'utiliser les compétences spéciales sur les alliés du lanceur pendant {TURNS} tours."
 "specials.v2.statuseffect.minor.toxin.all.enemies.extra_damage_against.boostedhealth.extra_minion_damage.minion.bigminion.follower","Tous les ennemis reçoivent {DAMAGE} points de dégâts de toxines en {TURNS} tours. Les dégâts sont plus importants sur les cibles dont la santé est boostée ou qui possèdent des sbires ou des méga sbires."
 "specials.v2.statuseffect.minor.toxin.neartotarget.enemies.extra_damage_against.boostedhealth.extra_minion_damage.minion.bigminion.follower","La cible et les ennemis proches reçoivent {DAMAGE} points de dégâts de toxines en {TURNS} tours. Les dégâts sont plus importants sur les cibles dont la santé est boostée ou qui possèdent des sbires ou des méga sbires."

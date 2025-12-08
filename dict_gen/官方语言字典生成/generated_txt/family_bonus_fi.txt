@@ -29,10 +29,12 @@ Sankari saa {1MEMBERCHARGEFROMHEAL}/{2MEMBERSCHARGEFROMHEAL}/{3MEMBERSCHARGEFROM
 "familybonuses.description.long.build_charge_nidavellir_alt","Sulanut ydin latautuu aina, kun tämä hahmo kärsii vauriota normaalihyökkäyksistä tai erikoistaidoista."
 "familybonuses.description.long.cast_defense_debuffs_back_to_enemies","Kun tämä sankari saa puolustukseen vaikuttavan vaivan, {1MEMBERCHANCE} %:n/{2MEMBERSCHANCE} %:n/{3MEMBERSCHANCE} %:n mahdollisuus loitsia saatu vaiva kaikille vihollisille."
 "familybonuses.description.long.champions_special_damage_power_modifier","+{1MEMBERMULTIPLIERPERCENT} %/+{2MEMBERSMULTIPLIERPERCENT} %/+{3MEMBERSMULTIPLIERPERCENT} % lisää erikoistaitovauriota."
+"familybonuses.description.long.chance_to_cleanse_all_on_received_special_damage_astral_demons.minordebuff","{1MEMBERCHANCE} %:n/{2MEMBERSCHANCE} %:n mahdollisuus puhdistaa kaikki vaivat tältä hahmolta, kun hahmo kärsii vauriota erikoistaidosta."
 "familybonuses.description.long.chance_to_cleanse_on_received_special_damage_astral_demons.minordebuff","{1MEMBERCHANCE} %:n/{2MEMBERSCHANCE} %:n mahdollisuus puhdistaa satunnainen puhdistettava vaiva tältä hahmolta, kun hahmo kärsii vauriota erikoistaidosta."
 "familybonuses.description.long.cleanse_random_debuff_on_special_damage_received.minordebuff.onceperturn","{1MEMBERCHANCE} %:n/{2MEMBERSCHANCE} %:n mahdollisuus puhdistaa satunnainen puhdistettava vaiva kaikilta liittolaisilta, kun tämä hahmo kärsii vauriota vihollisen erikoistaidosta. Tämä vaikutus voi aktivoitua vain kerran vuorossa."
 "familybonuses.description.long.counter_attack_ninja","{CHANCE} %:n/{2MEMBERSCHANCE} %:n/{3MEMBERSCHANCE} %:n mahdollisuus tehdä vastahyökkäyksenä {MULTIPLIERPERCENT} %/{2MEMBERSMULTIPLIERPERCENT} %/{3MEMBERSMULTIPLIERPERCENT} % saadusta vauriosta."
 "familybonuses.description.long.counter_attack_ninja2","{CHANCE} %:n/{2MEMBERSCHANCE} %:n/{3MEMBERSCHANCE} %:n mahdollisuus tehdä vastahyökkäyksenä {MULTIPLIERPERCENT} %/{2MEMBERSMULTIPLIERPERCENT} %/{3MEMBERSMULTIPLIERPERCENT} % saadusta vauriosta."
+"familybonuses.description.long.counter_attack_titan_specials_titan_hunters.against_titan.specialskill.always","Tekee vastahyökkäyksen, jonka teho on {1MEMBERMULTIPLIERPERCENT} %/{2MEMBERSMULTIPLIERPERCENT} %/{3MEMBERSMULTIPLIERPERCENT} % titaanin erikoistaitojen tuottamasta vauriosta."
 "familybonuses.description.long.crit_multiplier_zodiac_dragon","{2MEMBERSMULTIPLIERPERCENTCHANGE} % kriittisiä iskuja."
 "familybonuses.description.long.critical_multiplier","{2MEMBERSMULTIPLIERPERCENTCHANGE} %/{3MEMBERSMULTIPLIERPERCENTCHANGE} %/{4MEMBERSMULTIPLIERPERCENTCHANGE} %/{5MEMBERSMULTIPLIERPERCENTCHANGE} % kriittisiä iskuja."
 "familybonuses.description.long.critical_multiplier_forsaken","{MULTIPLIERPERCENTCHANGE} %/{2MEMBERSMULTIPLIERPERCENTCHANGE} %/{3MEMBERSMULTIPLIERPERCENTCHANGE} % kriittisiä iskuja."
@@ -69,7 +71,9 @@ Voimajalokivi tuottaa joka vuorolla {FIXEDPOWER} vauriota satunnaiselle vihollis
 Sankari menettää pienen määrän lentovauhtia jokaisen vuoron lopussa ja vauriota kärsiessään.
 Sankari saa lisää lentovauhtia käyttämällä erikoistaitoaan.
 Hitaammat sankarit saavat enemmän lentovauhtia"
-"familybonuses.description.long.growth_mahayoddha","Mahayoddha-perheen sankarit saavat jokaisen vuoron lopussa kasvua:  {1MEMBERATTACKINCREASE}/{2MEMBERSATTACKINCREASE}/{3MEMBERSATTACKINCREASE} hyökkäystä ja {1MEMBERDEFENSEINCREASE}/{2MEMBERSDEFENSEINCREASE}/{3MEMBERSDEFENSEINCREASE} puolustusta."
+"familybonuses.description.long.growth_mahayoddha","Mahayoddha-perheen sankarit saavat jokaisen vuoron lopussa kasvua:  {1MEMBERATTACKINCREASE}/{2MEMBERSATTACKINCREASE}/{3MEMBERSATTACKINCREASE} hyökkäystä ja {1MEMBERDEFENSEINCREASE}/{2MEMBERSDEFENSEINCREASE}/{3MEMBERSDEFENSEINCREASE} puolustusta.
+Muokattujen ominaisuuksien rajat:
+Vähintään {MINSTAT} % ja enintään {MAXSTAT} % alkuperäisestä arvosta."
 "familybonuses.description.long.heal_multiplier","{2MEMBERSMULTIPLIERPERCENTCHANGE} %/{3MEMBERSMULTIPLIERPERCENTCHANGE} %/{4MEMBERSMULTIPLIERPERCENTCHANGE} %/{5MEMBERSMULTIPLIERPERCENTCHANGE} % parannusta."
 "familybonuses.description.long.heal_multiplier_classic","{2MEMBERSMULTIPLIERPERCENTCHANGE} %/{3MEMBERSMULTIPLIERPERCENTCHANGE} %/{4MEMBERSMULTIPLIERPERCENTCHANGE} %/{5MEMBERSMULTIPLIERPERCENTCHANGE} % parannusta."
 "familybonuses.description.long.heal_multiplier_hotm2020","{MULTIPLIERPERCENTCHANGE} %/{2MEMBERSMULTIPLIERPERCENTCHANGE} %/{3MEMBERSMULTIPLIERPERCENTCHANGE} % parannusta."
@@ -132,6 +136,7 @@ Sankari saa sukulaisen perhebonuksen ollessaan ryhmässä, jossa on vähintään
 Viekkaalla kettukäskyläisellä on {FAMILIARDODGECHANCE} %:n mahdollisuus väistää hyökkäyksiä.
 Kun viekas kettukäskyläinen väistää, se anastaa hyökkääjältä viimeisimmän häivytettävän tehosteen ja antaa sen omistajalleen."
 "familybonuses.description.long.start_battle_with_fox_minion.fox_dodge","Viekas kettukäskyläinen perii sankarilta {FAMILIARHEALTHPERCENT} % terveyttä ja {FAMILIARATTACK} % hyökkäystä. Viekkaalla kettukäskyläisellä on {FAMILIARDODGECHANCE} %:n mahdollisuus väistää hyökkäyksiä.
+"familybonuses.description.long.start_battle_with_mana_titan_hunters.addmana.single.allies.titan.ubertitan","Saa taistelun alussa {1MEMBERMULTIPLIERPERCENT} %/{2MEMBERSMULTIPLIERPERCENT} %/{3MEMBERSMULTIPLIERPERCENT} % manaa. Saa titaaneja vastaan {ALTERNATIVE1MEMBERMULTIPLIERPERCENT} %/{ALTERNATIVE2MEMBERSMULTIPLIERPERCENT} %/{ALTERNATIVE3MEMBERSMULTIPLIERPERCENT} % manaa."
 "familybonuses.description.long.start_battle_with_mask_minion.mask_minion.2members_attack_buff_while_mask_minion.3members_debuff_shield_while_mask_minion","1 perheenjäsen: Tämä hahmo kutsuu naamiokäskyläisen, joka perii hahmolta {FAMILIARHEALTHPERCENT} % terveyttä ja {FAMILIARATTACK} % hyökkäystä.
 Lisätaito kahdella perheenjäsenellä: Kun naamiokäskyläinen kutsutaan, se antaa omistajalleen {ATTACK2MEMBERS} % hyökkäystä niin kauan kuin omistajalla on naamiokäskyläinen. Vaikutusta ei voi häivyttää.
 Lisätaito kolmella perheenjäsenellä: Kun naamiokäskyläinen kutsutaan, se tekee omistajansa immuuniksi vaivoille niin kauan kuin omistajalla on naamiokäskyläinen. Vaikutusta ei voi häivyttää."
@@ -172,10 +177,12 @@ Tämä hahmo saa {CURRENTCHARGEFROMHEAL} nöyryyttä saadessaan suoraa parannust
 "familybonuses.description.short.build_charge_nidavellir_alt","Sulanut ydin latautuu aina, kun tämä hahmo kärsii vauriota normaalihyökkäyksistä tai erikoistaidoista."
 "familybonuses.description.short.cast_defense_debuffs_back_to_enemies","Kun tämä sankari saa puolustukseen vaikuttavan vaivan, {CHANCE} %:n mahdollisuus loitsia saatu vaiva kaikille vihollisille."
 "familybonuses.description.short.champions_special_damage_power_modifier","+{MULTIPLIERPERCENT} % erikoistaitojen vaurioon."
+"familybonuses.description.short.chance_to_cleanse_all_on_received_special_damage_astral_demons.minordebuff","{CHANCE} %:n mahdollisuus puhdistaa kaikki puhdistettavat vaivat tältä hahmolta, kun hahmo kärsii vauriota erikoistaidosta"
 "familybonuses.description.short.chance_to_cleanse_on_received_special_damage_astral_demons.minordebuff","{CHANCE} %:n mahdollisuus puhdistaa satunnainen puhdistettava vaiva tältä hahmolta, kun hahmo kärsii vauriota erikoistaidosta."
 "familybonuses.description.short.cleanse_random_debuff_on_special_damage_received.minordebuff.onceperturn","Kun vihollinen tuottaa erikoistaidolla vauriota tälle hahmolle, on {CHANCE} %:n mahdollisuus, että tämä hahmo puhdistaa kaikilta liittolaisilta satunnaisen puhdistettavan vaivan. Tämä vaikutus voi aktivoitua vain kerran vuorossa."
 "familybonuses.description.short.counter_attack_ninja","{CHANCE} %:n mahdollisuus tehdä vastahyökkäyksenä {MULTIPLIERPERCENT} % saadusta vauriosta."
 "familybonuses.description.short.counter_attack_ninja2","{CHANCE} %:n mahdollisuus tehdä vastahyökkäyksenä {MULTIPLIERPERCENT} % saadusta vauriosta."
+"familybonuses.description.short.counter_attack_titan_specials_titan_hunters.against_titan.specialskill.always","Tekee vastahyökkäyksen, jonka teho on {MULTIPLIERPERCENT} % titaanin erikoistaitojen tuottamasta vauriosta"
 "familybonuses.description.short.crit_multiplier_zodiac_dragon","Kuukalenterin lohikäärmeen bonus: {MULTIPLIERPERCENTCHANGE} % kriittisiä iskuja"
 "familybonuses.description.short.critical_multiplier","{MULTIPLIERPERCENTCHANGE} % kriittisiä iskuja"
 "familybonuses.description.short.critical_multiplier_forsaken","{MULTIPLIERPERCENTCHANGE} % kriittisiä iskuja"
@@ -265,6 +272,7 @@ Tämä hahmo saa {CURRENTCHARGEFROMHEAL} nöyryyttä saadessaan suoraa parannust
 "familybonuses.description.short.special_damage_multiplier_zodiac_rat","Kuukalenterin rotan bonus: {MULTIPLIERPERCENTCHANGE} % erikoistaidon voimaa"
 "familybonuses.description.short.start_battle_with_fox_minion","Kutsuu itselleen {FAMILIARAMOUNT} viekkaan kettukäskyläisen taistelun alussa. Viekkaalla kettukäskyläisellä on 80 %:n mahdollisuus väistää hyökkäyksiä. Kun se väistää onnistuneesti, se anastaa hyökkääjältä viimeisimmän häivytettävän tehosteen ja antaa sen omistajalleen."
 "familybonuses.description.short.start_battle_with_fox_minion.multiple_familiars","Kutsuu itselleen {FAMILIARAMOUNT} viekasta kettukäskyläistä taistelun alussa. Viekkaalla kettukäskyläisellä on 80 %:n mahdollisuus väistää hyökkäyksiä. Kun se väistää onnistuneesti, se anastaa hyökkääjältä viimeisimmän häivytettävän tehosteen ja antaa sen omistajalleen."
+"familybonuses.description.short.start_battle_with_mana_titan_hunters.addmana.single.allies.titan.ubertitan","saa {MULTIPLIERPERCENT} % manaa taistelun alussa."
 "familybonuses.description.short.start_battle_with_mask_minion","Kutsuu itselleen naamiokäskyläisen taistelun alussa."
 "familybonuses.description.short.start_battle_with_recruit_guard_mega_minion","Kutsuu taistelun alussa alokasvartija-megakäskyläisen, joka perii tältä hahmolta {FAMILIARHEALTHPERCENT} % terveyttä ja {FAMILIARATTACK} % hyökkäystä."
 "familybonuses.description.short.status_effect_duration_increase","{CHANCE} %:n mahdollisuus pidentää loitsittujen tilaefektien kestoa {FIXEDVALUE}."
@@ -516,6 +524,8 @@ Kuukalenteriperheessä on erilaisia kuukalenterin eläinsankareita. Kukin kuukal
 "herocard.family.title.tales1_baddies.short","Atlantiksen painajaiset"
 "herocard.family.title.tales1_goodies","Atlantiksen puolustajat -perhe"
 "herocard.family.title.tales1_goodies.short","Atlantiksen puolustajat"
+"herocard.family.title.titan_hunter","Titaaninmetsästäjäperhe"
+"herocard.family.title.titan_hunter.short","Titaaninmetsästäjä"
 "herocard.family.title.vanaheim","Vanaheimin valtakunta"
 "herocard.family.title.vanaheim.short","Vanaheim"
 "herocard.family.title.vegetable","Urhoollinen kasviperhe"

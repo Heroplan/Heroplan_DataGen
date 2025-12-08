@@ -57,6 +57,7 @@
 "quests.name.hotm_quest1","여관의 전설"
 "quests.name.iron","철 채광"
 "quests.name.kalevala","칼레발라"
+"quests.name.legendary_troop","전설 병영"
 "quests.name.limit_breaker_dark","오메가의 신기루"
 "quests.name.limit_breaker_fire","오메가의 신기루"
 "quests.name.limit_breaker_holy","오메가의 신기루"

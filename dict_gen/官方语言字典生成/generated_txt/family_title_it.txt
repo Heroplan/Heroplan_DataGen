@@ -158,6 +158,8 @@
 "herocard.family.title.tales1_baddies.short","Incubi di Atlantide"
 "herocard.family.title.tales1_goodies","Famiglia Difensori di Atlantide"
 "herocard.family.title.tales1_goodies.short","Difensori di Atlantide"
+"herocard.family.title.titan_hunter","Famiglia Cacciatori di Titani"
+"herocard.family.title.titan_hunter.short","Cacciatori di Titani"
 "herocard.family.title.vanaheim","Regno di Vanaheim"
 "herocard.family.title.vanaheim.short","Vanaheim"
 "herocard.family.title.vegetable","Famiglia Vegetali valorosa"

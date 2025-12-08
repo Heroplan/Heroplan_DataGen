@@ -29,10 +29,12 @@ Le héros reçoit {1MEMBERCHARGEFROMHEAL}/{2MEMBERSCHARGEFROMHEAL}/{3MEMBERSCHAR
 "familybonuses.description.long.build_charge_nidavellir_alt","Le noyau en fusion se charge chaque fois que ce personnage subit des dégâts d'attaques normales ou de compétences spéciales."
 "familybonuses.description.long.cast_defense_debuffs_back_to_enemies","Quand ce héros subit un effet négatif qui affecte la défense, il a {1MEMBERCHANCE} %/{2MEMBERSCHANCE} %/{3MEMBERSCHANCE} % de chances de le transmettre à tous les ennemis."
 "familybonuses.description.long.champions_special_damage_power_modifier","+{1MEMBERMULTIPLIERPERCENT} %/+{2MEMBERSMULTIPLIERPERCENT} %/+{3MEMBERSMULTIPLIERPERCENT} % de dégâts de compétence spéciale."
+"familybonuses.description.long.chance_to_cleanse_all_on_received_special_damage_astral_demons.minordebuff","{1MEMBERCHANCE}/{2MEMBERSCHANCE} % de chances de purifier tous les effets négatifs purifiables pour ce personnage lorsqu'il subit des dégâts de compétence spéciale."
 "familybonuses.description.long.chance_to_cleanse_on_received_special_damage_astral_demons.minordebuff","{1MEMBERCHANCE}/{2MEMBERSCHANCE} % de chances de purifier un effet négatif purifiable aléatoire pour ce personnage lorsqu'il subit des dégâts de compétence spéciale."
 "familybonuses.description.long.cleanse_random_debuff_on_special_damage_received.minordebuff.onceperturn","{1MEMBERCHANCE} %/{2MEMBERSCHANCE} % de chances de purifier un effet négatif purifiable aléatoire pour tous les alliés lorsque ce personnage reçoit des dégâts d'une compétence spéciale ennemie. Cet effet ne peut s'activer qu'une fois par tour."
 "familybonuses.description.long.counter_attack_ninja","{CHANCE} %/{2MEMBERSCHANCE} %/{3MEMBERSCHANCE} % de chances de riposter avec {MULTIPLIERPERCENT} %/{2MEMBERSMULTIPLIERPERCENT} %/{3MEMBERSMULTIPLIERPERCENT} % des dégâts reçus."
 "familybonuses.description.long.counter_attack_ninja2","{CHANCE} %/{2MEMBERSCHANCE} %/{3MEMBERSCHANCE} % de chances de riposter avec {MULTIPLIERPERCENT} %/{2MEMBERSMULTIPLIERPERCENT} %/{3MEMBERSMULTIPLIERPERCENT} % des dégâts reçus."
+"familybonuses.description.long.counter_attack_titan_specials_titan_hunters.against_titan.specialskill.always","Contre-attaque à hauteur de {1MEMBERMULTIPLIERPERCENT} %/{2MEMBERSMULTIPLIERPERCENT} %/{3MEMBERSMULTIPLIERPERCENT} % des dégâts infligés par les compétences spéciales des titans."
 "familybonuses.description.long.crit_multiplier_zodiac_dragon","{2MEMBERSMULTIPLIERPERCENTCHANGE} % de chances de coup critique."
 "familybonuses.description.long.critical_multiplier","{2MEMBERSMULTIPLIERPERCENTCHANGE} %/{3MEMBERSMULTIPLIERPERCENTCHANGE} %/{4MEMBERSMULTIPLIERPERCENTCHANGE} %/{5MEMBERSMULTIPLIERPERCENTCHANGE} % de chances de coup critique."
 "familybonuses.description.long.critical_multiplier_forsaken","{MULTIPLIERPERCENTCHANGE} %/{2MEMBERSMULTIPLIERPERCENTCHANGE} %/{3MEMBERSMULTIPLIERPERCENTCHANGE} % de chances de coup critique."
@@ -69,7 +71,9 @@ Une gemme de puissance inflige {FIXEDPOWER} points de dégâts à un ennemi al�
 À la fin de chaque tour et lorsqu'il subit des dégâts, le héros perd une petite quantité d'élan aérien.
 Lorsqu'il utilise sa compétence spéciale, le héros gagne de l'élan aérien.
 Plus le héros est lent, plus il gagne d'élan aérien."
-"familybonuses.description.long.growth_mahayoddha","À la fin de chaque tour, les héros de la famille Mahayoddha reçoivent de la croissance : {1MEMBERATTACKINCREASE}/{2MEMBERSATTACKINCREASE}/{3MEMBERSATTACKINCREASE} points d'attaque et {1MEMBERDEFENSEINCREASE}/{2MEMBERSDEFENSEINCREASE}/{3MEMBERSDEFENSEINCREASE} points de défense."
+"familybonuses.description.long.growth_mahayoddha","À la fin de chaque tour, les héros de la famille Mahayoddha reçoivent de la croissance : {1MEMBERATTACKINCREASE}/{2MEMBERSATTACKINCREASE}/{3MEMBERSATTACKINCREASE} points d'attaque et {1MEMBERDEFENSEINCREASE}/{2MEMBERSDEFENSEINCREASE}/{3MEMBERSDEFENSEINCREASE} points de défense.
+Limites des scores de capacité modifiés :
+Minimum : {MINSTAT} % de la valeur d'origine. Maximum : {MAXSTAT} % de la valeur d'origine."
 "familybonuses.description.long.heal_multiplier","{2MEMBERSMULTIPLIERPERCENTCHANGE} %/{3MEMBERSMULTIPLIERPERCENTCHANGE} %/{4MEMBERSMULTIPLIERPERCENTCHANGE} %/{5MEMBERSMULTIPLIERPERCENTCHANGE} % de soins."
 "familybonuses.description.long.heal_multiplier_classic","{2MEMBERSMULTIPLIERPERCENTCHANGE} %/{3MEMBERSMULTIPLIERPERCENTCHANGE} %/{4MEMBERSMULTIPLIERPERCENTCHANGE} %/{5MEMBERSMULTIPLIERPERCENTCHANGE} % de soins."
 "familybonuses.description.long.heal_multiplier_hotm2020","{MULTIPLIERPERCENTCHANGE} %/{2MEMBERSMULTIPLIERPERCENTCHANGE} %/{3MEMBERSMULTIPLIERPERCENTCHANGE} % de soins."
@@ -133,6 +137,7 @@ Le héros reçoit le bonus d'une famille s'il est dans une équipe comportant au
 Le sbire renard rusé a {FAMILIARDODGECHANCE} % de chances d'esquiver les attaques.
 Quand le sbire renard rusé esquive, il vole le bonus dissipable le plus récent de l'attaquant et le donne à son propriétaire."
 "familybonuses.description.long.start_battle_with_fox_minion.fox_dodge","Le sbire renard rusé a {FAMILIARHEALTHPERCENT} % de santé et {FAMILIARATTACK} % d'attaque hérités du héros, et {FAMILIARDODGECHANCE} % de chances d'esquiver les attaques.
+"familybonuses.description.long.start_battle_with_mana_titan_hunters.addmana.single.allies.titan.ubertitan","Au début du combat, le personnage reçoit {1MEMBERMULTIPLIERPERCENT} %/{2MEMBERSMULTIPLIERPERCENT} %/{3MEMBERSMULTIPLIERPERCENT} % de mana. Contre les titans, il reçoit {ALTERNATIVE1MEMBERMULTIPLIERPERCENT} %/{ALTERNATIVE2MEMBERSMULTIPLIERPERCENT} %/{ALTERNATIVE3MEMBERSMULTIPLIERPERCENT} % de mana."
 "familybonuses.description.long.start_battle_with_mask_minion.mask_minion.2members_attack_buff_while_mask_minion.3members_debuff_shield_while_mask_minion","1 membre de la famille : ce personnage invoque un sbire masque avec {FAMILIARHEALTHPERCENT} % de santé et {FAMILIARATTACK} % d'attaque hérités de ce personnage.
 Compétence supplémentaire avec 2 membres de la famille : lorsqu'il est invoqué, le sbire masque confère {ATTACK2MEMBERS} % d'attaque à son propriétaire tant qu'il est actif. Cet effet ne peut pas être dissipé.
 Compétence supplémentaire avec 3 membres de la famille : lorsqu'il est invoqué, le sbire masque immunise son propriétaire contre tous les effets négatifs tant qu'il est actif. Cet effet ne peut pas être dissipé."
@@ -174,10 +179,12 @@ Ce personnage reçoit {CURRENTCHARGEFROMHEAL} point(s) d'humilité lorsqu'il re
 "familybonuses.description.short.build_charge_nidavellir_alt","Le noyau en fusion se charge chaque fois que ce personnage subit des dégâts d'attaques normales ou de compétences spéciales."
 "familybonuses.description.short.cast_defense_debuffs_back_to_enemies","Quand ce héros subit un effet négatif qui affecte la défense, il a {CHANCE} % de chances de le transmettre à tous les ennemis."
 "familybonuses.description.short.champions_special_damage_power_modifier","+{MULTIPLIERPERCENT} % de dégâts de compétence spéciale."
+"familybonuses.description.short.chance_to_cleanse_all_on_received_special_damage_astral_demons.minordebuff","{CHANCE} % de chances de purifier tous les effets négatifs purifiables de ce personnage lorsqu'il subit des dégâts de compétence spéciale."
 "familybonuses.description.short.chance_to_cleanse_on_received_special_damage_astral_demons.minordebuff","{CHANCE} % de chances de purifier un effet négatif purifiable aléatoire pour ce personnage lorsqu'il subit des dégâts de compétence spéciale."
 "familybonuses.description.short.cleanse_random_debuff_on_special_damage_received.minordebuff.onceperturn","Quand un ennemi inflige des dégâts de compétence spéciale à ce personnage, il a {CHANCE} % de chances de purifier un effet négatif aléatoire pour tous les alliés. Cet effet ne peut s'activer qu'une fois par tour."
 "familybonuses.description.short.counter_attack_ninja","{CHANCE} % de chances de riposter avec {MULTIPLIERPERCENT} % des dégâts reçus."
 "familybonuses.description.short.counter_attack_ninja2","{CHANCE} % de chances de riposter avec {MULTIPLIERPERCENT} % des dégâts reçus."
+"familybonuses.description.short.counter_attack_titan_specials_titan_hunters.against_titan.specialskill.always","Contre-attaque à hauteur de {MULTIPLIERPERCENT} % des dégâts infligés par les compétences spéciales des titans."
 "familybonuses.description.short.crit_multiplier_zodiac_dragon","Bonus de l'année du dragon : {MULTIPLIERPERCENTCHANGE} % de chance de coup critique"
 "familybonuses.description.short.critical_multiplier","{MULTIPLIERPERCENTCHANGE} % de chances de coup critique"
 "familybonuses.description.short.critical_multiplier_forsaken","{MULTIPLIERPERCENTCHANGE} % de chances de coup critique"
@@ -267,6 +274,7 @@ Ce personnage reçoit {CURRENTCHARGEFROMHEAL} point(s) d'humilité lorsqu'il re
 "familybonuses.description.short.special_damage_multiplier_zodiac_rat","Bonus de l'année du rat : {MULTIPLIERPERCENTCHANGE} % de puissance de compétence spéciale"
 "familybonuses.description.short.start_battle_with_fox_minion","Invoque {FAMILIARAMOUNT} sbire renard rusé pour le lanceur au début du combat. Le sbire renard rusé a 80 % de chances d'esquiver les attaques. En cas d'esquive réussie, il vole le bonus dissipable le plus récent de l'attaquant et le donne à son propriétaire."
 "familybonuses.description.short.start_battle_with_fox_minion.multiple_familiars","Invoque {FAMILIARAMOUNT} sbires renards rusés pour le lanceur au début du combat. Le sbire renard rusé a 80 % de chances d'esquiver les attaques. En cas d'esquive réussie, il vole le bonus dissipable le plus récent de l'attaquant et le donne à son propriétaire."
+"familybonuses.description.short.start_battle_with_mana_titan_hunters.addmana.single.allies.titan.ubertitan","Le personnage reçoit {MULTIPLIERPERCENT} % de mana au début du combat."
 "familybonuses.description.short.start_battle_with_mask_minion","Invoque un sbire masque pour vous en début de combat."
 "familybonuses.description.short.start_battle_with_recruit_guard_mega_minion","Au début du combat, invoque un sbire méga garde novice avec {FAMILIARHEALTHPERCENT} % de PV et {FAMILIARATTACK} % d'attaque hérités de ce personnage."
 "familybonuses.description.short.status_effect_duration_increase","{CHANCE} % de chances de prolonger les effets de {FIXEDVALUE}."
@@ -518,6 +526,8 @@ La famille Année lumière est composée de différents animaux du calendrier lu
 "herocard.family.title.tales1_baddies.short","Cauchemars de l'Atlantide"
 "herocard.family.title.tales1_goodies","Famille Défenseurs de l'Atlantide"
 "herocard.family.title.tales1_goodies.short","Défenseurs de l'Atlantide"
+"herocard.family.title.titan_hunter","Famille des chasseurs de titans"
+"herocard.family.title.titan_hunter.short","Chasseur de titans"
 "herocard.family.title.vanaheim","Royaume de Vanaheim"
 "herocard.family.title.vanaheim.short","Vanaheim"
 "herocard.family.title.vegetable","Famille des braves légumes"

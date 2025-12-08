@@ -57,6 +57,7 @@
 "quests.name.hotm_quest1","神话酒馆"
 "quests.name.iron","挖掘铁块"
 "quests.name.kalevala","卡勒瓦拉"
+"quests.name.legendary_troop","传奇兵营"
 "quests.name.limit_breaker_dark","欧米茄幻象"
 "quests.name.limit_breaker_fire","欧米茄幻象"
 "quests.name.limit_breaker_holy","欧米茄幻象"

@@ -318,3 +318,4 @@ if __name__ == "__main__":
             print(f"[{output_type} 匹配结果] 无匹配的语言文件")
 
     print("\n所有任务处理完成！")
+    input("按回车键退出...")

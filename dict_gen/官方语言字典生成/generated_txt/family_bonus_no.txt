@@ -29,10 +29,12 @@ Helten får {1MEMBERCHARGEFROMHEAL}/{2MEMBERSCHARGEFROMHEAL}/{3MEMBERSCHARGEFROM
 "familybonuses.description.long.build_charge_nidavellir_alt","Moltenkjernen lades hver gang denne figuren tar skade fra vanlige angrep eller spesialferdighet."
 "familybonuses.description.long.cast_defense_debuffs_back_to_enemies","Når denne helten mottar en statuslidelse som påvirker forsvar, er det {1MEMBERCHANCE} % / {2MEMBERSCHANCE} % / {3MEMBERSCHANCE} % sjanse til å bruke den mottatte lidelsen på alle fiender."
 "familybonuses.description.long.champions_special_damage_power_modifier","+{1MEMBERMULTIPLIERPERCENT} %/+{2MEMBERSMULTIPLIERPERCENT} %/+{3MEMBERSMULTIPLIERPERCENT} % ekstra skade fra spesialferdighet."
+"familybonuses.description.long.chance_to_cleanse_all_on_received_special_damage_astral_demons.minordebuff","{1MEMBERCHANCE}/{2MEMBERSCHANCE} % sjanse til å rense alle statuslidelser fra denne figuren når den tar skade fra spesialferdighet."
 "familybonuses.description.long.chance_to_cleanse_on_received_special_damage_astral_demons.minordebuff","{1MEMBERCHANCE}/{2MEMBERSCHANCE} % sjanse til å rense en tilfeldig statuslidelser som kan renses, fra denne figuren når den tar skade fra spesialferdighet."
 "familybonuses.description.long.cleanse_random_debuff_on_special_damage_received.minordebuff.onceperturn","{1MEMBERCHANCE} %/{2MEMBERSCHANCE} % sjanse til å rense en tilfeldig statuslidelse som kan renses, fra alle allierte når denne figuren tar skade fra en fiendtlig spesialferdighet. Denne effekten kan aktiveres kun én gang per runde."
 "familybonuses.description.long.counter_attack_ninja","{CHANCE} %/{2MEMBERSCHANCE} %/{3MEMBERSCHANCE} % sjanse til å gjøre motangrep med {MULTIPLIERPERCENT} %/{2MEMBERSMULTIPLIERPERCENT} %/{3MEMBERSMULTIPLIERPERCENT} % av mottatt skade."
 "familybonuses.description.long.counter_attack_ninja2","{CHANCE} %/{2MEMBERSCHANCE} %/{3MEMBERSCHANCE} % sjanse til å gjøre motangrep med {MULTIPLIERPERCENT} %/{2MEMBERSMULTIPLIERPERCENT} %/{3MEMBERSMULTIPLIERPERCENT} % av mottatt skade."
+"familybonuses.description.long.counter_attack_titan_specials_titan_hunters.against_titan.specialskill.always","Utfører motangrep med {1MEMBERMULTIPLIERPERCENT} %/{2MEMBERSMULTIPLIERPERCENT} %/{3MEMBERSMULTIPLIERPERCENT} % av skaden mottatt fra Titan-spesialferdigheter."
 "familybonuses.description.long.crit_multiplier_zodiac_dragon","{2MEMBERSMULTIPLIERPERCENTCHANGE} % fulltreffersjanse."
 "familybonuses.description.long.critical_multiplier","{2MEMBERSMULTIPLIERPERCENTCHANGE} %/{3MEMBERSMULTIPLIERPERCENTCHANGE} %/{4MEMBERSMULTIPLIERPERCENTCHANGE} %/{5MEMBERSMULTIPLIERPERCENTCHANGE} % fulltreffersjanse."
 "familybonuses.description.long.critical_multiplier_forsaken","{MULTIPLIERPERCENTCHANGE} %/{2MEMBERSMULTIPLIERPERCENTCHANGE} %/{3MEMBERSMULTIPLIERPERCENTCHANGE} % fulltreffersjanse."
@@ -69,7 +71,9 @@ Kraftjuvelene påfører {FIXEDPOWER} skade på en tilfeldig fiende hver runde fr
 Ved starten av hver runde, og når helten har skade, mister han eller hun en liten mengde flymomentum.
 Når helten bruker spesialferdigheten sin, får han eller hun mer flymomentum.
 Tregere helter får en større mengde flymomentum"
-"familybonuses.description.long.growth_mahayoddha","Ved slutten av hver runde får helter i Mahayoddha-familien Vekst: {1MEMBERATTACKINCREASE}/{2MEMBERSATTACKINCREASE}/{3MEMBERSATTACKINCREASE} angrep og {1MEMBERDEFENSEINCREASE}/{2MEMBERSDEFENSEINCREASE}/{3MEMBERSDEFENSEINCREASE} forsvar."
+"familybonuses.description.long.growth_mahayoddha","Ved slutten av hver runde får helter i Mahayoddha-familien Vekst: {1MEMBERATTACKINCREASE}/{2MEMBERSATTACKINCREASE}/{3MEMBERSATTACKINCREASE} angrep og {1MEMBERDEFENSEINCREASE}/{2MEMBERSDEFENSEINCREASE}/{3MEMBERSDEFENSEINCREASE} forsvar.
+Grenser for modifiserte egenskapsscorer:
+Min. {MINSTAT} % og maks. {MAXSTAT} % av deres originale verdier."
 "familybonuses.description.long.heal_multiplier","{2MEMBERSMULTIPLIERPERCENTCHANGE} %/{3MEMBERSMULTIPLIERPERCENTCHANGE} %/{4MEMBERSMULTIPLIERPERCENTCHANGE} %/{5MEMBERSMULTIPLIERPERCENTCHANGE} % helbredelse."
 "familybonuses.description.long.heal_multiplier_classic","{2MEMBERSMULTIPLIERPERCENTCHANGE} %/{3MEMBERSMULTIPLIERPERCENTCHANGE} %/{4MEMBERSMULTIPLIERPERCENTCHANGE} %/{5MEMBERSMULTIPLIERPERCENTCHANGE} % helbredelse."
 "familybonuses.description.long.heal_multiplier_hotm2020","{MULTIPLIERPERCENTCHANGE} %/{2MEMBERSMULTIPLIERPERCENTCHANGE} %/{3MEMBERSMULTIPLIERPERCENTCHANGE} % helbredelse."
@@ -134,6 +138,7 @@ Slu rev-undersåtten har {FAMILIARDODGECHANCE} % sjanse til å unnvike innkomme
 Når slu rev-undersåtten unnviker, stjeler den den nyeste økningen som kan fjernes fra angriperen, og gir den til eieren sin."
 "familybonuses.description.long.start_battle_with_fox_minion.fox_dodge","Slu rev-undersåtten har {FAMILIARHEALTHPERCENT} % helse og {FAMILIARATTACK} % angrep nedarvet fra helten. Slu rev-undersåtten har {FAMILIARDODGECHANCE} % sjanse til å unnvike innkommende angrep.
 Når slu rev-undersåtten undersåtten unnviker, stjeler den den nyeste økningen som kan fjernes fra angriperen, og gir den til eieren sin."
+"familybonuses.description.long.start_battle_with_mana_titan_hunters.addmana.single.allies.titan.ubertitan","Ved kampens start mottas {1MEMBERMULTIPLIERPERCENT} %/{2MEMBERSMULTIPLIERPERCENT} %/{3MEMBERSMULTIPLIERPERCENT} % mana. Mot titaner mottas {ALTERNATIVE1MEMBERMULTIPLIERPERCENT} %/{ALTERNATIVE2MEMBERSMULTIPLIERPERCENT} %/{ALTERNATIVE3MEMBERSMULTIPLIERPERCENT} % mana."
 "familybonuses.description.long.start_battle_with_mask_minion.mask_minion.2members_attack_buff_while_mask_minion.3members_debuff_shield_while_mask_minion","1 familiemedlem: Denne figuren fremkaller en maskeundersått med {FAMILIARHEALTHPERCENT} % helse og {FAMILIARATTACK} % angrep nedarvet fra denne figuren.
 Ekstra ferdighet med 2 familiemedlemmer: Når fremkalt vil maskeundersåtten gi eieren sin {ATTACK2MEMBERS} % angrep mens eieren har en maskeundersått. Denne effekten kan ikke fjernes.
 Ekstra ferdighet med 3 familiemedlemmer: Når fremkalt vil maskeundersåtten gi eieren sin immunitet mot alle statuslidelser mens eieren har en maskeundersått. Denne effekten kan ikke fjernes."
@@ -175,10 +180,12 @@ Denne figuren får {CURRENTCHARGEFROMHEAL} ydmykhet når den tar direkte helbred
 "familybonuses.description.short.build_charge_nidavellir_alt","Moltenkjernen lades hver gang denne figuren tar skade fra vanlige angrep eller spesialferdighet."
 "familybonuses.description.short.cast_defense_debuffs_back_to_enemies","Når denne helten mottar en statuslidelse som påvirker forsvar, er det {CHANCE} % sjanse til å bruke den mottatte lidelsen på alle fiender."
 "familybonuses.description.short.champions_special_damage_power_modifier","+{MULTIPLIERPERCENT} % ekstra skade fra spesialferdighet."
+"familybonuses.description.short.chance_to_cleanse_all_on_received_special_damage_astral_demons.minordebuff","{CHANCE} % sjanse til å rense alle statuslidelser som kan renses, fra denne figuren når den tar skade fra spesialferdighet."
 "familybonuses.description.short.chance_to_cleanse_on_received_special_damage_astral_demons.minordebuff","{CHANCE} % sjanse til å rense en tilfeldig statuslidelse som kan renses, fra denne figuren når den tar skade fra spesialferdighet."
 "familybonuses.description.short.cleanse_random_debuff_on_special_damage_received.minordebuff.onceperturn","Når en fiende påfører denne figuren skade med en spesialferdighet, er det en {CHANCE} % sjanse for at denne figuren renser en tilfeldig statuslidelse som kan renses, fra alle allierte. Denne effekten kan aktiveres kun én gang per runde."
 "familybonuses.description.short.counter_attack_ninja","{CHANCE} % sjanse til å gjøre motangrep med {MULTIPLIERPERCENT} % av mottatt skade."
 "familybonuses.description.short.counter_attack_ninja2","{CHANCE} % sjanse til å gjøre motangrep med {MULTIPLIERPERCENT} % av mottatt skade."
+"familybonuses.description.short.counter_attack_titan_specials_titan_hunters.against_titan.specialskill.always","Utfører motangrep med {MULTIPLIERPERCENT} % av skaden mottatt fra Titan-spesialferdigheter."
 "familybonuses.description.short.crit_multiplier_zodiac_dragon","Måneår-dragebonus: {MULTIPLIERPERCENTCHANGE} % fulltreffersjanse"
 "familybonuses.description.short.critical_multiplier","{MULTIPLIERPERCENTCHANGE} % fulltreffersjanse"
 "familybonuses.description.short.critical_multiplier_forsaken","{MULTIPLIERPERCENTCHANGE} % fulltreffersjanse"
@@ -268,6 +275,7 @@ Denne figuren får {CURRENTCHARGEFROMHEAL} ydmykhet når den tar direkte helbred
 "familybonuses.description.short.special_damage_multiplier_zodiac_rat","Måneår-rottebonus: {MULTIPLIERPERCENTCHANGE} % spesialferdighetkraft"
 "familybonuses.description.short.start_battle_with_fox_minion","Fremkaller {FAMILIARAMOUNT} slu rev-undersått til seg selv ved starten av kampen. Slu rev-undersått har 80 % sjanse til å unnvike innkommende angrep. Ved vellykket unnvikelse stjeler den den siste økningen som kan fjernes fra angriperen, og gir den til eieren sin."
 "familybonuses.description.short.start_battle_with_fox_minion.multiple_familiars","Fremkaller {FAMILIARAMOUNT} slu rev-undersåtter til seg selv ved starten av kampen. Slu rev-undersått har 80 % sjanse til å unnvike innkommende angrep. Ved vellykket unnvikelse stjeler den den siste økningen som kan fjernes fra angriperen, og gir den til eieren sin."
+"familybonuses.description.short.start_battle_with_mana_titan_hunters.addmana.single.allies.titan.ubertitan","mottar {MULTIPLIERPERCENT} % mana ved starten av kampen."
 "familybonuses.description.short.start_battle_with_mask_minion","Fremkaller en maskeundersått til seg selv ved kampens start."
 "familybonuses.description.short.start_battle_with_recruit_guard_mega_minion","Ved kampens start tilkalles en rekruttvakt-megaundersått med {FAMILIARHEALTHPERCENT} % HP og {FAMILIARATTACK} % angrep nedarvet fra denne figuren."
 "familybonuses.description.short.status_effect_duration_increase","{CHANCE} % sjanse til å øke varigheten til brukte statuseffekter med {FIXEDVALUE}."
@@ -519,6 +527,8 @@ Månenyttår-familien har forskjellige Månenyttår-dyrehelter. Hvert Månenytt�
 "herocard.family.title.tales1_baddies.short","Marerittene til Atlantis"
 "herocard.family.title.tales1_goodies","Forsvarer av Atlantis-familien"
 "herocard.family.title.tales1_goodies.short","Forsvarer av Atlantis"
+"herocard.family.title.titan_hunter","Titanjeger-familie"
+"herocard.family.title.titan_hunter.short","Titanjeger"
 "herocard.family.title.vanaheim","Vanaheim"
 "herocard.family.title.vanaheim.short","Vanaheim"
 "herocard.family.title.vegetable","Tapper Grønnsak-familie"

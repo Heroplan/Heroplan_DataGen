@@ -57,6 +57,7 @@
 "quests.name.hotm_quest1","حانة الأساطير"
 "quests.name.iron","نقب عن الحديد"
 "quests.name.kalevala","كاليفالا"
+"quests.name.legendary_troop","ثكنات الأساطير"
 "quests.name.limit_breaker_dark","سراب أوميجا"
 "quests.name.limit_breaker_fire","سراب أوميجا"
 "quests.name.limit_breaker_holy","سراب أوميجا"

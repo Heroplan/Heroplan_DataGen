@@ -319,9 +319,9 @@ window.allHeroesExtra = [
             "glass_reflect_debuffs"
         ],
         "costumeBonusPassiveSkillIds": null,
-        "attackBonus": "17%",
-        "defenseBonus": "17%",
-        "healthBonus": "22%",
+        "attackBonus": "18%",
+        "defenseBonus": "18%",
+        "healthBonus": "23%",
         "manaBonus": "5%",
         "family": "classic"
     },
@@ -7366,9 +7366,9 @@ window.allHeroesExtra = [
             "glass_reflect_debuffs"
         ],
         "costumeBonusPassiveSkillIds": null,
-        "attackBonus": "17%",
-        "defenseBonus": "17%",
-        "healthBonus": "22%",
+        "attackBonus": "18%",
+        "defenseBonus": "18%",
+        "healthBonus": "23%",
         "manaBonus": "5%",
         "family": "classic"
     },
@@ -7474,9 +7474,9 @@ window.allHeroesExtra = [
             "glass_reflect_debuffs"
         ],
         "costumeBonusPassiveSkillIds": null,
-        "attackBonus": "17%",
-        "defenseBonus": "17%",
-        "healthBonus": "22%",
+        "attackBonus": "18%",
+        "defenseBonus": "18%",
+        "healthBonus": "23%",
         "manaBonus": "5%",
         "family": "classic"
     },
@@ -7577,9 +7577,9 @@ window.allHeroesExtra = [
             "glass_reflect_debuffs"
         ],
         "costumeBonusPassiveSkillIds": null,
-        "attackBonus": "17%",
-        "defenseBonus": "17%",
-        "healthBonus": "22%",
+        "attackBonus": "18%",
+        "defenseBonus": "18%",
+        "healthBonus": "23%",
         "manaBonus": "5%",
         "family": "classic"
     },
@@ -7943,9 +7943,9 @@ window.allHeroesExtra = [
             "glass_reflect_debuffs"
         ],
         "costumeBonusPassiveSkillIds": null,
-        "attackBonus": "17%",
-        "defenseBonus": "17%",
-        "healthBonus": "22%",
+        "attackBonus": "18%",
+        "defenseBonus": "18%",
+        "healthBonus": "23%",
         "manaBonus": "5%",
         "family": "classic"
     },
@@ -15079,9 +15079,9 @@ window.allHeroesExtra = [
             "glass_reflect_debuffs"
         ],
         "costumeBonusPassiveSkillIds": null,
-        "attackBonus": "17%",
-        "defenseBonus": "17%",
-        "healthBonus": "22%",
+        "attackBonus": "18%",
+        "defenseBonus": "18%",
+        "healthBonus": "23%",
         "manaBonus": "5%",
         "family": "classic"
     },
@@ -15655,9 +15655,9 @@ window.allHeroesExtra = [
             "glass_reflect_debuffs"
         ],
         "costumeBonusPassiveSkillIds": null,
-        "attackBonus": "17%",
-        "defenseBonus": "17%",
-        "healthBonus": "22%",
+        "attackBonus": "18%",
+        "defenseBonus": "18%",
+        "healthBonus": "23%",
         "manaBonus": "5%",
         "family": "classic"
     },
@@ -22434,9 +22434,9 @@ window.allHeroesExtra = [
             "glass_reflect_debuffs"
         ],
         "costumeBonusPassiveSkillIds": null,
-        "attackBonus": "17%",
-        "defenseBonus": "17%",
-        "healthBonus": "22%",
+        "attackBonus": "18%",
+        "defenseBonus": "18%",
+        "healthBonus": "23%",
         "manaBonus": "5%",
         "family": "classic"
     },
@@ -22890,9 +22890,9 @@ window.allHeroesExtra = [
             "glass_reflect_debuffs"
         ],
         "costumeBonusPassiveSkillIds": null,
-        "attackBonus": "17%",
-        "defenseBonus": "17%",
-        "healthBonus": "22%",
+        "attackBonus": "18%",
+        "defenseBonus": "18%",
+        "healthBonus": "23%",
         "manaBonus": "5%",
         "family": "classic"
     },
@@ -30356,9 +30356,9 @@ window.allHeroesExtra = [
             "glass_reflect_debuffs"
         ],
         "costumeBonusPassiveSkillIds": null,
-        "attackBonus": "17%",
-        "defenseBonus": "17%",
-        "healthBonus": "22%",
+        "attackBonus": "18%",
+        "defenseBonus": "18%",
+        "healthBonus": "23%",
         "manaBonus": "5%",
         "family": "classic"
     },
@@ -30707,9 +30707,9 @@ window.allHeroesExtra = [
             "glass_reflect_debuffs"
         ],
         "costumeBonusPassiveSkillIds": null,
-        "attackBonus": "17%",
-        "defenseBonus": "17%",
-        "healthBonus": "22%",
+        "attackBonus": "18%",
+        "defenseBonus": "18%",
+        "healthBonus": "23%",
         "manaBonus": "5%",
         "family": "classic"
     },
@@ -30893,9 +30893,9 @@ window.allHeroesExtra = [
             "glass_reflect_debuffs"
         ],
         "costumeBonusPassiveSkillIds": null,
-        "attackBonus": "17%",
-        "defenseBonus": "17%",
-        "healthBonus": "22%",
+        "attackBonus": "18%",
+        "defenseBonus": "18%",
+        "healthBonus": "23%",
         "manaBonus": "5%",
         "family": "classic"
     },
@@ -37625,9 +37625,9 @@ window.allHeroesExtra = [
             "glass_reflect_debuffs"
         ],
         "costumeBonusPassiveSkillIds": null,
-        "attackBonus": "17%",
-        "defenseBonus": "17%",
-        "healthBonus": "22%",
+        "attackBonus": "18%",
+        "defenseBonus": "18%",
+        "healthBonus": "23%",
         "manaBonus": "5%",
         "family": "classic"
     },
@@ -37714,9 +37714,9 @@ window.allHeroesExtra = [
             "glass_reflect_debuffs"
         ],
         "costumeBonusPassiveSkillIds": null,
-        "attackBonus": "17%",
-        "defenseBonus": "17%",
-        "healthBonus": "22%",
+        "attackBonus": "18%",
+        "defenseBonus": "18%",
+        "healthBonus": "23%",
         "manaBonus": "5%",
         "family": "classic"
     },
@@ -38478,9 +38478,9 @@ window.allHeroesExtra = [
             "glass_reflect_debuffs"
         ],
         "costumeBonusPassiveSkillIds": null,
-        "attackBonus": "17%",
-        "defenseBonus": "17%",
-        "healthBonus": "22%",
+        "attackBonus": "18%",
+        "defenseBonus": "18%",
+        "healthBonus": "23%",
         "manaBonus": "5%",
         "family": "classic"
     },
@@ -38620,9 +38620,9 @@ window.allHeroesExtra = [
             "glass_reflect_debuffs"
         ],
         "costumeBonusPassiveSkillIds": null,
-        "attackBonus": "17%",
-        "defenseBonus": "17%",
-        "healthBonus": "22%",
+        "attackBonus": "18%",
+        "defenseBonus": "18%",
+        "healthBonus": "23%",
         "manaBonus": "5%",
         "family": "classic"
     },
@@ -39181,9 +39181,9 @@ window.allHeroesExtra = [
             "glass_reflect_debuffs"
         ],
         "costumeBonusPassiveSkillIds": null,
-        "attackBonus": "17%",
-        "defenseBonus": "17%",
-        "healthBonus": "22%",
+        "attackBonus": "18%",
+        "defenseBonus": "18%",
+        "healthBonus": "23%",
         "manaBonus": "5%",
         "family": "classic"
     },
@@ -39241,9 +39241,9 @@ window.allHeroesExtra = [
             "glass_reflect_debuffs"
         ],
         "costumeBonusPassiveSkillIds": null,
-        "attackBonus": "17%",
-        "defenseBonus": "17%",
-        "healthBonus": "22%",
+        "attackBonus": "18%",
+        "defenseBonus": "18%",
+        "healthBonus": "23%",
         "manaBonus": "5%",
         "family": "classic"
     },
@@ -39866,9 +39866,9 @@ window.allHeroesExtra = [
             "glass_reflect_debuffs"
         ],
         "costumeBonusPassiveSkillIds": null,
-        "attackBonus": "17%",
-        "defenseBonus": "17%",
-        "healthBonus": "22%",
+        "attackBonus": "18%",
+        "defenseBonus": "18%",
+        "healthBonus": "23%",
         "manaBonus": "5%",
         "family": "classic"
     },
@@ -40159,9 +40159,9 @@ window.allHeroesExtra = [
             "glass_reflect_debuffs"
         ],
         "costumeBonusPassiveSkillIds": null,
-        "attackBonus": "17%",
-        "defenseBonus": "17%",
-        "healthBonus": "22%",
+        "attackBonus": "18%",
+        "defenseBonus": "18%",
+        "healthBonus": "23%",
         "manaBonus": "5%",
         "family": "classic"
     },
@@ -40792,8 +40792,8 @@ window.allHeroesExtra = [
         "baseHealth": 1099,
         "specialId": "minion_scrutiny",
         "passiveSkills": [
-            "summon_slime_minion_on_damage_red",
-            "summon_slime_minion_on_death_red"
+            "summon_slime_minion_on_damage_yellow",
+            "summon_slime_minion_on_death_yellow"
         ],
         "family": "slime"
     },
@@ -41548,9 +41548,9 @@ window.allHeroesExtra = [
             "glass_reflect_debuffs"
         ],
         "costumeBonusPassiveSkillIds": null,
-        "attackBonus": "17%",
-        "defenseBonus": "17%",
-        "healthBonus": "22%",
+        "attackBonus": "18%",
+        "defenseBonus": "18%",
+        "healthBonus": "23%",
         "manaBonus": "5%",
         "family": "classic"
     },
@@ -41607,9 +41607,9 @@ window.allHeroesExtra = [
             "glass_reflect_debuffs"
         ],
         "costumeBonusPassiveSkillIds": null,
-        "attackBonus": "17%",
-        "defenseBonus": "17%",
-        "healthBonus": "22%",
+        "attackBonus": "18%",
+        "defenseBonus": "18%",
+        "healthBonus": "23%",
         "manaBonus": "5%",
         "family": "classic"
     },
@@ -41925,5 +41925,159 @@ window.allHeroesExtra = [
             "frost_on_minion_damage_done"
         ],
         "family": "winter"
+    },
+    {
+        "name": "Breca",
+        "fancy name": "Boon Companion",
+        "element": "Blue",
+        "rarity": 4,
+        "class": "Sorcerer",
+        "speed": "slow",
+        "Release date": "2025-12-06",
+        "AetherPower": "Defense Up",
+        "skill_types": [
+            "AoE Attackers (Hit-5)",
+            "Buffers (DEF)",
+            "Heal over Time (HoT)",
+            "Extra Damage Dealers",
+            "Bypassers"
+        ],
+        "heroId": "beowulf_breca",
+        "baseAttack": 374,
+        "baseDefense": 373,
+        "baseHealth": 707,
+        "specialId": "trial_of_the_waters",
+        "passiveSkills": [
+            "attack_buff_on_damage_received",
+            "resist_mana_reductions_with_health_boost_and_mana"
+        ],
+        "family": "beowulf"
+    },
+    {
+        "name": "Jax",
+        "fancy name": "Hounding Hooligan",
+        "element": "Green",
+        "rarity": 3,
+        "class": "Rogue",
+        "speed": "very_fast",
+        "Release date": "2025-12-03",
+        "AetherPower": "Attack Up",
+        "skill_types": [
+            "Snipers",
+            "Mindless Attack & Mindless Heal",
+            "Negative Effects On Self Or Allies"
+        ],
+        "heroId": "forsaken_jax",
+        "baseAttack": 307,
+        "baseDefense": 327,
+        "baseHealth": 523,
+        "specialId": "ravenous_pounce",
+        "passiveSkills": null,
+        "family": "forsaken"
+    },
+    {
+        "name": "Ellery",
+        "fancy name": "Aberrant Biologist",
+        "element": "Green",
+        "rarity": 5,
+        "class": "Sorcerer",
+        "speed": "average",
+        "Release date": "2025-12-03",
+        "AetherPower": "Ailment Immunity",
+        "skill_types": [
+            "Ability Scores Modifiers",
+            "Mega Minions Summoners",
+            "DoT Attackers",
+            "Mindless Attack & Mindless Heal",
+            "Negative Effects On Self Or Allies"
+        ],
+        "heroId": "institute_ellery",
+        "baseAttack": 636,
+        "baseDefense": 623,
+        "baseHealth": 1097,
+        "specialId": "mutated_specimen",
+        "passiveSkills": [
+            "revive_in_alternative_form_with_insanity_chance"
+        ],
+        "family": "institute"
+    },
+    {
+        "name": "Ryleh",
+        "fancy name": "Assistant Archivist",
+        "element": "Purple",
+        "rarity": 4,
+        "class": "Wizard",
+        "speed": "average",
+        "Release date": "2025-12-03",
+        "AetherPower": "Defense Up",
+        "skill_types": [
+            "Snipers",
+            "Damage Sharers",
+            "Mindless Attack & Mindless Heal",
+            "Negative Effects On Self Or Allies"
+        ],
+        "heroId": "institute_ryleh",
+        "baseAttack": 373,
+        "baseDefense": 386,
+        "baseHealth": 679,
+        "specialId": "binding_contract",
+        "passiveSkills": [
+            "damage_increase_by_insanity"
+        ],
+        "family": "institute"
+    },
+    {
+        "name": "Weland",
+        "fancy name": "Skillful Smith",
+        "element": "Yellow",
+        "rarity": 5,
+        "class": "Paladin",
+        "speed": "slow",
+        "Release date": "2025-12-06",
+        "AetherPower": "Bulwark",
+        "skill_types": [
+            "AoE Attackers (Hit-5)",
+            "Damage Reducers",
+            "Buffers (ATK)",
+            "Mana Generation Buffers",
+            "Bypassers"
+        ],
+        "heroId": "beowulf_weland",
+        "baseAttack": 627,
+        "baseDefense": 637,
+        "baseHealth": 1098,
+        "specialId": "gleaming_sword_and_iron_mail",
+        "passiveSkills": [
+            "attack_buff_on_damage_received",
+            "resist_mana_reductions_with_health_boost_and_mana",
+            "never_miss_special"
+        ],
+        "family": "beowulf"
+    },
+    {
+        "name": "Xandrella costume1",
+        "fancy name": "Idol of Elemental Creations",
+        "element": "Green",
+        "rarity": 5,
+        "class": "Cleric",
+        "speed": "average",
+        "Release date": "2025-12-07",
+        "AetherPower": "Special Armor",
+        "skill_types": [],
+        "heroId": "elemental_xandrella_costume_idol",
+        "baseAttack": 411,
+        "baseDefense": 417,
+        "baseHealth": 832,
+        "specialId": "staff_of_mana_control",
+        "specialId_costume": "melody_of_mana_control",
+        "passiveSkills": [
+            "strong_troop_damage_modifier_costume"
+        ],
+        "costumeBonusPassiveSkillIds": null,
+        "attackBonus": "46%",
+        "defenseBonus": "46%",
+        "healthBonus": "47%",
+        "manaBonus": "5%",
+        "family": "super_elemental"
     }
 ];

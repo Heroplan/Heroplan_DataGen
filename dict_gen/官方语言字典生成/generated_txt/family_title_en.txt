@@ -158,6 +158,8 @@
 "herocard.family.title.tales1_baddies.short","Nightmares of Atlantis"
 "herocard.family.title.tales1_goodies","Defenders of Atlantis Family"
 "herocard.family.title.tales1_goodies.short","Defenders of Atlantis"
+"herocard.family.title.titan_hunter","Titan Hunter Family"
+"herocard.family.title.titan_hunter.short","Titan Hunter"
 "herocard.family.title.vanaheim","Vanaheim Realm"
 "herocard.family.title.vanaheim.short","Vanaheim"
 "herocard.family.title.vegetable","Valiant Vegetable Family"

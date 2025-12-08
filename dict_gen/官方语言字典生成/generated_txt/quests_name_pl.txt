@@ -57,6 +57,7 @@
 "quests.name.hotm_quest1","Tawerna Legend"
 "quests.name.iron","Wydobywaj żelazo"
 "quests.name.kalevala","Kalevala"
+"quests.name.legendary_troop","Baraki legend"
 "quests.name.limit_breaker_dark","Miraże omegi"
 "quests.name.limit_breaker_fire","Miraże omegi"
 "quests.name.limit_breaker_holy","Miraże omegi"

@@ -57,6 +57,7 @@
 "quests.name.hotm_quest1","Taverne der legenden"
 "quests.name.iron","Delf IJzer"
 "quests.name.kalevala","Kalevala"
+"quests.name.legendary_troop","Barakken van legenden"
 "quests.name.limit_breaker_dark","Luchtspiegelingen van Omega"
 "quests.name.limit_breaker_fire","Luchtspiegelingen van Omega"
 "quests.name.limit_breaker_holy","Luchtspiegelingen van Omega"

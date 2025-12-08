@@ -57,6 +57,7 @@
 "quests.name.hotm_quest1","傳奇酒館"
 "quests.name.iron","採掘鐵塊"
 "quests.name.kalevala","卡勒瓦拉"
+"quests.name.legendary_troop","傳奇兵營"
 "quests.name.limit_breaker_dark","奧米加幻影"
 "quests.name.limit_breaker_fire","奧米加幻影"
 "quests.name.limit_breaker_holy","奧米加幻影"

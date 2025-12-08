@@ -29,10 +29,12 @@ El héroe obtiene {1MEMBERCHARGEFROMHEAL}/{2MEMBERSCHARGEFROMHEAL}/{3MEMBERSCHAR
 "familybonuses.description.long.build_charge_nidavellir_alt","El núcleo fundido se carga cada vez que este personaje recibe daño de los ataques normales o las habilidades especiales."
 "familybonuses.description.long.cast_defense_debuffs_back_to_enemies","Cuando este héroe recibe un estado alterado que afecta a la defensa, {1MEMBERCHANCE} %/{2MEMBERSCHANCE} %/{3MEMBERSCHANCE} % de probabilidad de lanzárselo a todos los enemigos."
 "familybonuses.description.long.champions_special_damage_power_modifier","+{1MEMBERMULTIPLIERPERCENT} %/+{2MEMBERSMULTIPLIERPERCENT} %/+{3MEMBERSMULTIPLIERPERCENT} % de daño de habilidad especial adicional."
+"familybonuses.description.long.chance_to_cleanse_all_on_received_special_damage_astral_demons.minordebuff","{1MEMBERCHANCE} %/{2MEMBERSCHANCE} % de probabilidad de purificar todos los estados alterados de este personaje cuando recibe daño de la habilidad especial de un enemigo."
 "familybonuses.description.long.chance_to_cleanse_on_received_special_damage_astral_demons.minordebuff","{1MEMBERCHANCE} %/{2MEMBERSCHANCE} % de probabilidad de purificar un estado alterado purificable aleatorio de este personaje cuando recibe daño de la habilidad especial de un enemigo."
 "familybonuses.description.long.cleanse_random_debuff_on_special_damage_received.minordebuff.onceperturn","{1MEMBERCHANCE} %/{2MEMBERSCHANCE} % de probabilidad de purificar un estado alterado purificable aleatorio de todos los aliados cuando este personaje recibe daño de la habilidad especial de un enemigo. Este efecto solo se puede activar una vez por turno."
 "familybonuses.description.long.counter_attack_ninja","{CHANCE} %/{2MEMBERSCHANCE} %/{3MEMBERSCHANCE} % de probabilidad de contraatacar con un {MULTIPLIERPERCENT} %/{2MEMBERSMULTIPLIERPERCENT} %/{3MEMBERSMULTIPLIERPERCENT} % del daño recibido"
 "familybonuses.description.long.counter_attack_ninja2","{CHANCE} %/{2MEMBERSCHANCE} %/{3MEMBERSCHANCE} % de probabilidad de contraatacar con un {MULTIPLIERPERCENT} %/{2MEMBERSMULTIPLIERPERCENT} %/{3MEMBERSMULTIPLIERPERCENT} % del daño recibido"
+"familybonuses.description.long.counter_attack_titan_specials_titan_hunters.against_titan.specialskill.always","Contraataca con un {1MEMBERMULTIPLIERPERCENT} %/{2MEMBERSMULTIPLIERPERCENT} %/{3MEMBERSMULTIPLIERPERCENT} % del daño recibido de las habilidades especiales de los titanes."
 "familybonuses.description.long.crit_multiplier_zodiac_dragon","{2MEMBERSMULTIPLIERPERCENTCHANGE} % de probabilidad de crítico."
 "familybonuses.description.long.critical_multiplier","{2MEMBERSMULTIPLIERPERCENTCHANGE} %/{3MEMBERSMULTIPLIERPERCENTCHANGE} %/{4MEMBERSMULTIPLIERPERCENTCHANGE} %/{5MEMBERSMULTIPLIERPERCENTCHANGE} % de probabilidad de crítico."
 "familybonuses.description.long.critical_multiplier_forsaken","{MULTIPLIERPERCENTCHANGE} %/{2MEMBERSMULTIPLIERPERCENTCHANGE} %/{3MEMBERSMULTIPLIERPERCENTCHANGE} % de probabilidad de crítico."
@@ -69,7 +71,9 @@ Una gema de poder inflige {FIXEDPOWER} de daño a un enemigo aleatorio en cada 
 Al final de cada turno y al recibir daño, el héroe pierde una pequeña cantidad de ímpetu de vuelo.
 Al lanzar su habilidad especial, el héroe obtiene ímpetu de vuelo.
 Los héroes más lentos obtienen una cantidad mayor de ímpetu de vuelo."
-"familybonuses.description.long.growth_mahayoddha","Al final de cada turno, los héroes de la familia de Mahayoddha obtienen crecimiento: {1MEMBERATTACKINCREASE}/{2MEMBERSATTACKINCREASE}/{3MEMBERSATTACKINCREASE} de ataque y {1MEMBERDEFENSEINCREASE}/{2MEMBERSDEFENSEINCREASE}/{3MEMBERSDEFENSEINCREASE} de defensa."
+"familybonuses.description.long.growth_mahayoddha","Al final de cada turno, los héroes de la familia de Mahayoddha obtienen crecimiento: {1MEMBERATTACKINCREASE}/{2MEMBERSATTACKINCREASE}/{3MEMBERSATTACKINCREASE} de ataque y {1MEMBERDEFENSEINCREASE}/{2MEMBERSDEFENSEINCREASE}/{3MEMBERSDEFENSEINCREASE} de defensa.
+Límites para las puntuaciones de habilidad modificada:
+Mínimo del {MINSTAT} % y máximo del {MAXSTAT} % de sus valores originales."
 "familybonuses.description.long.heal_multiplier","{2MEMBERSMULTIPLIERPERCENTCHANGE} %/{3MEMBERSMULTIPLIERPERCENTCHANGE} %/{4MEMBERSMULTIPLIERPERCENTCHANGE} %/{5MEMBERSMULTIPLIERPERCENTCHANGE} % de curación."
 "familybonuses.description.long.heal_multiplier_classic","{2MEMBERSMULTIPLIERPERCENTCHANGE} %/{3MEMBERSMULTIPLIERPERCENTCHANGE} %/{4MEMBERSMULTIPLIERPERCENTCHANGE} %/{5MEMBERSMULTIPLIERPERCENTCHANGE} % de curación."
 "familybonuses.description.long.heal_multiplier_hotm2020","{MULTIPLIERPERCENTCHANGE} %/{2MEMBERSMULTIPLIERPERCENTCHANGE} %/{3MEMBERSMULTIPLIERPERCENTCHANGE} % de curación."
@@ -132,6 +136,7 @@ El héroe recibe la bonificación de relación familiar cuando está en un equip
 El secuaz tiene un {FAMILIARDODGECHANCE} % de probabilidad de esquivar los ataques que reciba.
 Cuando el secuaz esquiva, roba la última bendición descartable del atacante y se la otorga a su dueño."
 "familybonuses.description.long.start_battle_with_fox_minion.fox_dodge","El secuaz zorro astuto tiene un {FAMILIARHEALTHPERCENT} % de vitalidad y un {FAMILIARATTACK} % de ataque heredados del héroe. El secuaz tiene un {FAMILIARDODGECHANCE} % de probabilidad de esquivar los ataques que reciba.
+"familybonuses.description.long.start_battle_with_mana_titan_hunters.addmana.single.allies.titan.ubertitan","Al comienzo de la batalla, recibe un {1MEMBERMULTIPLIERPERCENT} %/{2MEMBERSMULTIPLIERPERCENT} %/{3MEMBERSMULTIPLIERPERCENT} % de maná. Contra titanes, recibe un {ALTERNATIVE1MEMBERMULTIPLIERPERCENT} %/{ALTERNATIVE2MEMBERSMULTIPLIERPERCENT} %/{ALTERNATIVE3MEMBERSMULTIPLIERPERCENT} % de maná."
 "familybonuses.description.long.start_battle_with_mask_minion.mask_minion.2members_attack_buff_while_mask_minion.3members_debuff_shield_while_mask_minion","1 miembro de la familia: Este personaje invoca un secuaz máscara que hereda un {FAMILIARHEALTHPERCENT} % de vitalidad y un {FAMILIARATTACK} % de ataque de este personaje.
 Habilidad adicional con 2 miembros de la familia: Al invocarse, mientras lo tenga, el secuaz máscara otorga un {ATTACK2MEMBERS} % de ataque a su dueño. Este efecto no se puede descartar.
 Habilidad adicional con 3 miembros de la familia: Al invocarse, mientras lo tenga, el secuaz máscara otorga a su dueño inmunidad a todos los estados alterados. Este efecto no se puede descartar."
@@ -173,10 +178,12 @@ Este personaje obtiene {CURRENTCHARGEFROMHEAL} de humildad al recibir curación
 "familybonuses.description.short.build_charge_nidavellir_alt","El núcleo fundido se carga cada vez que este personaje recibe daño de los ataques normales o las habilidades especiales."
 "familybonuses.description.short.cast_defense_debuffs_back_to_enemies","Cuando este héroe recibe un estado alterado que afecta a la defensa, {CHANCE} % de probabilidad de lanzárselo a todos los enemigos."
 "familybonuses.description.short.champions_special_damage_power_modifier","+{MULTIPLIERPERCENT} % de daño de habilidad especial adicional."
+"familybonuses.description.short.chance_to_cleanse_all_on_received_special_damage_astral_demons.minordebuff","{CHANCE} % de probabilidad de purificar todos los estados alterados purificables de este personaje cuando recibe daño de la habilidad especial de un enemigo."
 "familybonuses.description.short.chance_to_cleanse_on_received_special_damage_astral_demons.minordebuff","{CHANCE} % de probabilidad de purificar un estado alterado purificable aleatorio de este personaje cuando recibe daño de la habilidad especial de un enemigo."
 "familybonuses.description.short.cleanse_random_debuff_on_special_damage_received.minordebuff.onceperturn","Cuando un enemigo inflige daño a este personaje con su habilidad especial, este tiene un {CHANCE} % de probabilidad de purificar un estado alterado purificable aleatorio de todos los aliados. Este efecto solo se puede activar una vez por turno."
 "familybonuses.description.short.counter_attack_ninja","{CHANCE} % de probabilidad de contraatacar con un {MULTIPLIERPERCENT} % del daño recibido"
 "familybonuses.description.short.counter_attack_ninja2","{CHANCE} % de probabilidad de contraatacar con un {MULTIPLIERPERCENT} % del daño recibido"
+"familybonuses.description.short.counter_attack_titan_specials_titan_hunters.against_titan.specialskill.always","Contraataca con un {MULTIPLIERPERCENT} % del daño recibido de las habilidades especiales de los titanes."
 "familybonuses.description.short.crit_multiplier_zodiac_dragon","Bonificación de Dragón del año lunar: {MULTIPLIERPERCENTCHANGE} % de probabilidad de crítico"
 "familybonuses.description.short.critical_multiplier","{MULTIPLIERPERCENTCHANGE} % de probabilidad de crítico"
 "familybonuses.description.short.critical_multiplier_forsaken","{MULTIPLIERPERCENTCHANGE} % de probabilidad de crítico"
@@ -266,6 +273,7 @@ Este personaje obtiene {CURRENTCHARGEFROMHEAL} de humildad al recibir curación
 "familybonuses.description.short.special_damage_multiplier_zodiac_rat","Bonificación de Rata del año lunar: {MULTIPLIERPERCENTCHANGE} % de poder para las habilidades especiales"
 "familybonuses.description.short.start_battle_with_fox_minion","Se autoinvoca {FAMILIARAMOUNT} secuaz zorro astuto al comienzo de la batalla. El secuaz tiene un 80 % de probabilidad de esquivar los ataques. Si esquiva un ataque, roba la última bendición descartable del atacante y se la otorga a su dueño."
 "familybonuses.description.short.start_battle_with_fox_minion.multiple_familiars","Se autoinvoca {FAMILIARAMOUNT} secuaces zorro astuto al comienzo de la batalla. El secuaz tiene un 80 % de probabilidad de esquivar los ataques. Si esquiva un ataque, roba la última bendición descartable del atacante y se la otorga a su dueño."
+"familybonuses.description.short.start_battle_with_mana_titan_hunters.addmana.single.allies.titan.ubertitan","Recibe un {MULTIPLIERPERCENT} % de maná al comienzo de la batalla."
 "familybonuses.description.short.start_battle_with_mask_minion","Se autoinvoca un secuaz máscara al comienzo de la batalla."
 "familybonuses.description.short.start_battle_with_recruit_guard_mega_minion","Al comienzo de la batalla, invoca un megasecuaz guardia recluta con un {FAMILIARHEALTHPERCENT} % de VIT y un {FAMILIARATTACK} % de ataque heredados de este personaje."
 "familybonuses.description.short.status_effect_duration_increase","{CHANCE} % de probabilidad de aumentar la duración de los efectos de estado aplicados en {FIXEDVALUE}."
@@ -517,6 +525,8 @@ La familia del año lunar tiene diferentes héroes animales. Cada animal del añ
 "herocard.family.title.tales1_baddies.short","Pesadillas de Atlantis"
 "herocard.family.title.tales1_goodies","Familia de defensores de Atlantis"
 "herocard.family.title.tales1_goodies.short","Defensores de Atlantis"
+"herocard.family.title.titan_hunter","Familia de cazatitanes"
+"herocard.family.title.titan_hunter.short","Cazatitantes"
 "herocard.family.title.vanaheim","Reino de Vanaheim"
 "herocard.family.title.vanaheim.short","Vanaheim"
 "herocard.family.title.vegetable","Familia de verduras valerosas"

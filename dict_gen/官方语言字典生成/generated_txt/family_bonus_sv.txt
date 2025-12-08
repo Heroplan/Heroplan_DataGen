@@ -29,10 +29,12 @@ Hjälten får {1MEMBERCHARGEFROMHEAL}/{2MEMBERSCHARGEFROMHEAL}/{3MEMBERSCHARGEFR
 "familybonuses.description.long.build_charge_nidavellir_alt","Den smälta kärnan laddas varje gång den här karaktären tar skada av vanliga attacker eller specialförmågor."
 "familybonuses.description.long.cast_defense_debuffs_back_to_enemies","När den här hjälten får en negativ statuseffekt som påverkar försvar har den {1MEMBERCHANCE} %/{2MEMBERSCHANCE} %/{3MEMBERSCHANCE} % chans att kasta samma statuseffekt på alla fiender."
 "familybonuses.description.long.champions_special_damage_power_modifier","+{1MEMBERMULTIPLIERPERCENT} %/+{2MEMBERSMULTIPLIERPERCENT} %/+{3MEMBERSMULTIPLIERPERCENT} % ytterligare skada från specialförmågor."
+"familybonuses.description.long.chance_to_cleanse_all_on_received_special_damage_astral_demons.minordebuff","{1MEMBERCHANCE}/{2MEMBERSCHANCE} % chans att rensa alla negativ statuseffekter från den här karaktären när den tar skada av en specialförmåga."
 "familybonuses.description.long.chance_to_cleanse_on_received_special_damage_astral_demons.minordebuff","{1MEMBERCHANCE}/{2MEMBERSCHANCE} % chans att rensa en slumpvald negativ statuseffekt från den här karaktären när den tar skada av en specialförmåga."
 "familybonuses.description.long.cleanse_random_debuff_on_special_damage_received.minordebuff.onceperturn","{1MEMBERCHANCE} %/{2MEMBERSCHANCE} % chans att rensa en slumpvald negativ statuseffekt som kan rensas från alla allierade när den här karaktären tar skada av en fiendes specialförmåga. Den här effekten kan bara aktiveras en gång per runda."
 "familybonuses.description.long.counter_attack_ninja","{CHANCE} %/{2MEMBERSCHANCE} %/{3MEMBERSCHANCE} % chans att motanfalla med {MULTIPLIERPERCENT} %/{2MEMBERSMULTIPLIERPERCENT} %/{3MEMBERSMULTIPLIERPERCENT} % av den tagna skadan."
 "familybonuses.description.long.counter_attack_ninja2","{CHANCE} %/{2MEMBERSCHANCE} %/{3MEMBERSCHANCE} % chans att motanfalla med {MULTIPLIERPERCENT} %/{2MEMBERSMULTIPLIERPERCENT} %/{3MEMBERSMULTIPLIERPERCENT} % av den tagna skadan."
+"familybonuses.description.long.counter_attack_titan_specials_titan_hunters.against_titan.specialskill.always","Motanfaller med {1MEMBERMULTIPLIERPERCENT} %/{2MEMBERSMULTIPLIERPERCENT} %/{3MEMBERSMULTIPLIERPERCENT} % av den tagna skadan från titaners specialförmågor."
 "familybonuses.description.long.crit_multiplier_zodiac_dragon","{2MEMBERSMULTIPLIERPERCENTCHANGE} % kritisk chans."
 "familybonuses.description.long.critical_multiplier","{2MEMBERSMULTIPLIERPERCENTCHANGE} %/{3MEMBERSMULTIPLIERPERCENTCHANGE} %/{4MEMBERSMULTIPLIERPERCENTCHANGE} %/{5MEMBERSMULTIPLIERPERCENTCHANGE} % kritisk chans."
 "familybonuses.description.long.critical_multiplier_forsaken","{MULTIPLIERPERCENTCHANGE} %/{2MEMBERSMULTIPLIERPERCENTCHANGE} %/{3MEMBERSMULTIPLIERPERCENTCHANGE} % kritisk chans."
@@ -70,7 +72,9 @@ Kraftstenen gör {FIXEDPOWER} skada på en slumpmässig fiende varje runda tills
 Hjälten förlorar lite flygstyrka i slutet av varje runda och när den tar skada.
 Hjälten får flygstyrka när den använder sin specialförmåga.
 Långsammare hjältar får mer flygstyrka."
-"familybonuses.description.long.growth_mahayoddha","I slutet av varje tur får hjältar i Mahayodda-familjen tillväxt: {1MEMBERATTACKINCREASE}/{2MEMBERSATTACKINCREASE}/{3MEMBERSATTACKINCREASE} attack och {1MEMBERDEFENSEINCREASE}/{2MEMBERSDEFENSEINCREASE}/{3MEMBERSDEFENSEINCREASE} försvar."
+"familybonuses.description.long.growth_mahayoddha","I slutet av varje tur får hjältar i Mahayodda-familjen tillväxt: {1MEMBERATTACKINCREASE}/{2MEMBERSATTACKINCREASE}/{3MEMBERSATTACKINCREASE} attack och {1MEMBERDEFENSEINCREASE}/{2MEMBERSDEFENSEINCREASE}/{3MEMBERSDEFENSEINCREASE} försvar.
+Gränser för modifierade förmågepoäng:
+Minst {MINSTAT} % och högst {MAXSTAT} % av originalvärdet."
 "familybonuses.description.long.heal_multiplier","{2MEMBERSMULTIPLIERPERCENTCHANGE} %/{3MEMBERSMULTIPLIERPERCENTCHANGE} %/{4MEMBERSMULTIPLIERPERCENTCHANGE} %/{5MEMBERSMULTIPLIERPERCENTCHANGE} % läkning."
 "familybonuses.description.long.heal_multiplier_classic","{2MEMBERSMULTIPLIERPERCENTCHANGE} %/{3MEMBERSMULTIPLIERPERCENTCHANGE} %/{4MEMBERSMULTIPLIERPERCENTCHANGE} %/{5MEMBERSMULTIPLIERPERCENTCHANGE} % läkning."
 "familybonuses.description.long.heal_multiplier_hotm2020","{MULTIPLIERPERCENTCHANGE} %/{2MEMBERSMULTIPLIERPERCENTCHANGE} %/{3MEMBERSMULTIPLIERPERCENTCHANGE} % läkning."
@@ -134,6 +138,7 @@ Den sluga rävundersåten har {FAMILIARDODGECHANCE} % chans att väja för inko
 När den sluga rävundersåten väjer stjäls den senaste avbrytningsbara positiva effekten från anfallaren och ges till rävundersåtens ägare."
 "familybonuses.description.long.start_battle_with_fox_minion.fox_dodge","Den sluga rävundersåten har {FAMILIARHEALTHPERCENT} % hälsa och {FAMILIARATTACK} % attack som ärvs från hjälten. Den sluga rävundersåten har {FAMILIARDODGECHANCE} % chans att väja för inkommande attacker.
 När den sluga rävundersåten väjer stjäl den den senaste avbrytningsbara positiva effekten från anfallaren och ger den till sin ägare."
+"familybonuses.description.long.start_battle_with_mana_titan_hunters.addmana.single.allies.titan.ubertitan","Får {1MEMBERMULTIPLIERPERCENT} %/{2MEMBERSMULTIPLIERPERCENT} %/{3MEMBERSMULTIPLIERPERCENT} % mana i början av striden. Får {ALTERNATIVE1MEMBERMULTIPLIERPERCENT} %/{ALTERNATIVE2MEMBERSMULTIPLIERPERCENT} %/{ALTERNATIVE3MEMBERSMULTIPLIERPERCENT} % mana mot titaner."
 "familybonuses.description.long.start_battle_with_mask_minion.mask_minion.2members_attack_buff_while_mask_minion.3members_debuff_shield_while_mask_minion","1 familjemedlem: Den här karaktären åkallar en maskundersåte med {FAMILIARHEALTHPERCENT} % hälsa och {FAMILIARATTACK} % attack som ärvs från den här karaktären.
 Ytterligare förmåga med 2 familjemedlemmar: När maskundersåten åkallas ger den sin ägare {ATTACK2MEMBERS} % attack medan ägaren har en maskundersåte. Effekten kan inte avbrytas.
 Ytterligare förmåga med 3 familjemedlemmar: När maskundersåten åkallas ger den sin ägare immunitet mot negativa statuseffekter medan ägaren har en maskundersåte. Effekten kan inte avbrytas."
@@ -174,10 +179,12 @@ Den här karaktären får {CURRENTCHARGEFROMHEAL} ödmjukhet när den får direk
 "familybonuses.description.short.build_charge_nidavellir_alt","Den smälta kärnan laddas varje gång den här karaktären tar skada av vanliga attacker eller specialförmågor."
 "familybonuses.description.short.cast_defense_debuffs_back_to_enemies","När den här hjälten får en negativ statuseffekt som påverkar försvar har den {CHANCE} % chans att kasta samma statuseffekt på alla fiender."
 "familybonuses.description.short.champions_special_damage_power_modifier","+{MULTIPLIERPERCENT} % ytterligare skada från specialförmågor."
+"familybonuses.description.short.chance_to_cleanse_all_on_received_special_damage_astral_demons.minordebuff","{CHANCE} % chans att rensa alla negativa statuseffekter från den här karaktären när den tar skada av en specialförmåga"
 "familybonuses.description.short.chance_to_cleanse_on_received_special_damage_astral_demons.minordebuff","{CHANCE} % chans att rensa en slumpvald negativ statuseffekt från den här karaktären när den tar skada av en specialförmåga."
 "familybonuses.description.short.cleanse_random_debuff_on_special_damage_received.minordebuff.onceperturn","{CHANCE} % chans att rensa en slumpmässig negativ statuseffekt som går att rensa för alla allierade när en fiende gör specialförmågeskada på den här karaktären. Den här effekten kan bara aktiveras en gång per runda."
 "familybonuses.description.short.counter_attack_ninja","{CHANCE} % chans att motanfalla med {MULTIPLIERPERCENT} % av den tagna skadan."
 "familybonuses.description.short.counter_attack_ninja2","{CHANCE} % chans att motanfalla med {MULTIPLIERPERCENT} % av den tagna skadan."
+"familybonuses.description.short.counter_attack_titan_specials_titan_hunters.against_titan.specialskill.always","Motanfaller med  {MULTIPLIERPERCENT} % av den tagna skadan från titaners specialförmågor."
 "familybonuses.description.short.crit_multiplier_zodiac_dragon","Drakens år-bonus: {MULTIPLIERPERCENTCHANGE} % kritisk chans."
 "familybonuses.description.short.critical_multiplier","{MULTIPLIERPERCENTCHANGE} % kritisk chans"
 "familybonuses.description.short.critical_multiplier_forsaken","{MULTIPLIERPERCENTCHANGE} % kritisk chans"
@@ -267,6 +274,7 @@ Den här karaktären får {CURRENTCHARGEFROMHEAL} ödmjukhet när den får direk
 "familybonuses.description.short.special_damage_multiplier_zodiac_rat","Råttans år-bonus: {MULTIPLIERPERCENTCHANGE} % specialförmågekraft."
 "familybonuses.description.short.start_battle_with_fox_minion","Åkallar {FAMILIARAMOUNT} slug rävundersåte till sig själv i början av striden. Den har80 % chans att undvika inkommande attacker. Om undvikningen lyckas stjäl undersåten den senaste bonusen som kan avbrytas från anfallaren och ger den till sin ägare."
 "familybonuses.description.short.start_battle_with_fox_minion.multiple_familiars","Åkallar {FAMILIARAMOUNT} sluga rävundersåtar till sig själv i början av striden. De har80 % chans att undvika inkommande attacker. Om undvikningen lyckas stjäl undersåtarna den senaste bonusen som kan avbrytas från anfallaren och ger den till ägaren."
+"familybonuses.description.short.start_battle_with_mana_titan_hunters.addmana.single.allies.titan.ubertitan","får {MULTIPLIERPERCENT} % mana i början av striden."
 "familybonuses.description.short.start_battle_with_mask_minion","Åkallar en maskundersåte till sig själv i början av striden."
 "familybonuses.description.short.start_battle_with_recruit_guard_mega_minion","Åkallar megaundersåten Rekrytvakt i början av striden, med {FAMILIARHEALTHPERCENT} % hälsa och {FAMILIARATTACK} % attack som ärvs från den här karaktären."
 "familybonuses.description.short.status_effect_duration_increase","{CHANCE} % chans att förlänga alla statuseffekter med {FIXEDVALUE}."
@@ -518,6 +526,8 @@ Månårsfamiljen innehåller olika månårsdjurhjältar. Varje månårsdjur ger 
 "herocard.family.title.tales1_baddies.short","Atlantis mardrömmar"
 "herocard.family.title.tales1_goodies","Atlantis försvarare-familjen"
 "herocard.family.title.tales1_goodies.short","Atlantis försvarare"
+"herocard.family.title.titan_hunter","Titanjägarfamiljen"
+"herocard.family.title.titan_hunter.short","Titanjägare"
 "herocard.family.title.vanaheim","Riket Vanheim"
 "herocard.family.title.vanaheim.short","Vanheim"
 "herocard.family.title.vegetable","Tappra grönsaksfamiljen"

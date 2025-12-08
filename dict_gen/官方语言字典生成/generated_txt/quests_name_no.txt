@@ -57,6 +57,7 @@
 "quests.name.hotm_quest1","Legendenes kro"
 "quests.name.iron","Utvinn jern"
 "quests.name.kalevala","Kalevala"
+"quests.name.legendary_troop","Legenders kaserner"
 "quests.name.limit_breaker_dark","Omegas luftspeilinger"
 "quests.name.limit_breaker_fire","Omegas luftspeilinger"
 "quests.name.limit_breaker_holy","Omegas luftspeilinger"

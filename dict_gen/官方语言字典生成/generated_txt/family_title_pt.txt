@@ -158,6 +158,8 @@
 "herocard.family.title.tales1_baddies.short","Pesadelos de Atlântida"
 "herocard.family.title.tales1_goodies","Família Defensores de Atlântida"
 "herocard.family.title.tales1_goodies.short","Defensores de Atlântida"
+"herocard.family.title.titan_hunter","Família Caçadores de Titãs"
+"herocard.family.title.titan_hunter.short","Caçadores de Titãs"
 "herocard.family.title.vanaheim","Reino de Vanaheim"
 "herocard.family.title.vanaheim.short","Vanaheim"
 "herocard.family.title.vegetable","Família Hortaliça Honrada"

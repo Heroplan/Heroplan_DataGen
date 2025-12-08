@@ -158,6 +158,8 @@
 "herocard.family.title.tales1_baddies.short","亚特兰蒂斯梦魇"
 "herocard.family.title.tales1_goodies","亚特兰蒂斯卫士家族"
 "herocard.family.title.tales1_goodies.short","亚特兰蒂斯卫士"
+"herocard.family.title.titan_hunter","泰坦猎手家族"
+"herocard.family.title.titan_hunter.short","泰坦猎手"
 "herocard.family.title.vanaheim","瓦纳海姆王国"
 "herocard.family.title.vanaheim.short","瓦纳海姆"
 "herocard.family.title.vegetable","英勇植物家族"

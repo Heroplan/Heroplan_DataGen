@@ -158,6 +158,8 @@
 "herocard.family.title.tales1_baddies.short","Atlantis mardrömmar"
 "herocard.family.title.tales1_goodies","Atlantis försvarare-familjen"
 "herocard.family.title.tales1_goodies.short","Atlantis försvarare"
+"herocard.family.title.titan_hunter","Titanjägarfamiljen"
+"herocard.family.title.titan_hunter.short","Titanjägare"
 "herocard.family.title.vanaheim","Riket Vanheim"
 "herocard.family.title.vanaheim.short","Vanheim"
 "herocard.family.title.vegetable","Tappra grönsaksfamiljen"

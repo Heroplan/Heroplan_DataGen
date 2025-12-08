@@ -82,6 +82,8 @@ window.family_values = {
     "vegetable": "蔬菜",
     "beauty_beast": "聯盟 - 美女與野獸",
     "shady_scoundrels": "陰險無賴",
+    "titan_hunter": "泰坦獵人召喚 - 泰坦獵人",
+
     "hotm2017": "月英 - 2017",
     "hotm2018": "月英 - 2018",
     "hotm2019": "月英 - 2019",

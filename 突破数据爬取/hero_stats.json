@@ -179,24 +179,6 @@
             "Life": 1326
         }
     },
-    "Graymane C3": {
-        "base": {
-            "Attack": 532,
-            "Defense": 446,
-            "Life": 980,
-            "Power": 513
-        },
-        "lb1": {
-            "Attack": 603,
-            "Defense": 506,
-            "Life": 1112
-        },
-        "lb2": {
-            "Attack": 745,
-            "Defense": 625,
-            "Life": 1373
-        }
-    },
     "Guardian Lemur": {
         "base": {
             "Attack": 455,
@@ -449,24 +431,6 @@
             "Life": 1212
         }
     },
-    "Karil C3": {
-        "base": {
-            "Attack": 599,
-            "Defense": 418,
-            "Life": 873,
-            "Power": 513
-        },
-        "lb1": {
-            "Attack": 679,
-            "Defense": 473,
-            "Life": 989
-        },
-        "lb2": {
-            "Attack": 840,
-            "Defense": 586,
-            "Life": 1222
-        }
-    },
     "Nordri": {
         "base": {
             "Attack": 488,
@@ -609,24 +573,6 @@
             "Attack": 746,
             "Defense": 707,
             "Life": 1149
-        }
-    },
-    "Ulmer C3": {
-        "base": {
-            "Attack": 552,
-            "Defense": 507,
-            "Life": 830,
-            "Power": 516
-        },
-        "lb1": {
-            "Attack": 625,
-            "Defense": 575,
-            "Life": 941
-        },
-        "lb2": {
-            "Attack": 774,
-            "Defense": 711,
-            "Life": 1163
         }
     },
     "Valen": {
@@ -5327,24 +5273,6 @@
             "Life": 1226
         }
     },
-    "Belith C3": {
-        "base": {
-            "Attack": 521,
-            "Defense": 504,
-            "Life": 894,
-            "Power": 513
-        },
-        "lb1": {
-            "Attack": 592,
-            "Defense": 570,
-            "Life": 1013
-        },
-        "lb2": {
-            "Attack": 731,
-            "Defense": 705,
-            "Life": 1252
-        }
-    },
     "Berden": {
         "base": {
             "Attack": 470,
@@ -5399,24 +5327,6 @@
             "Life": 1155
         }
     },
-    "Berden C3": {
-        "base": {
-            "Attack": 556,
-            "Defense": 493,
-            "Life": 843,
-            "Power": 515
-        },
-        "lb1": {
-            "Attack": 630,
-            "Defense": 559,
-            "Life": 956
-        },
-        "lb2": {
-            "Attack": 779,
-            "Defense": 691,
-            "Life": 1180
-        }
-    },
     "Brienne": {
         "base": {
             "Attack": 446,
@@ -5469,24 +5379,6 @@
             "Attack": 710,
             "Defense": 685,
             "Life": 1238
-        }
-    },
-    "Brienne C3": {
-        "base": {
-            "Attack": 472,
-            "Defense": 532,
-            "Life": 940,
-            "Power": 510
-        },
-        "lb1": {
-            "Attack": 537,
-            "Defense": 603,
-            "Life": 1066
-        },
-        "lb2": {
-            "Attack": 663,
-            "Defense": 745,
-            "Life": 1317
         }
     },
     "By-Ulf": {
@@ -5559,24 +5451,6 @@
             "Attack": 752,
             "Defense": 721,
             "Life": 1098
-        }
-    },
-    "Carver C3": {
-        "base": {
-            "Attack": 620,
-            "Defense": 425,
-            "Life": 816,
-            "Power": 515
-        },
-        "lb1": {
-            "Attack": 702,
-            "Defense": 483,
-            "Life": 924
-        },
-        "lb2": {
-            "Attack": 868,
-            "Defense": 597,
-            "Life": 1143
         }
     },
     "Chires": {
@@ -5759,24 +5633,6 @@
             "Life": 1144
         }
     },
-    "Friar Tuck C3": {
-        "base": {
-            "Attack": 548,
-            "Defense": 524,
-            "Life": 816,
-            "Power": 517
-        },
-        "lb1": {
-            "Attack": 621,
-            "Defense": 594,
-            "Life": 924
-        },
-        "lb2": {
-            "Attack": 768,
-            "Defense": 733,
-            "Life": 1143
-        }
-    },
     "General Yin": {
         "base": {
             "Attack": 519,
@@ -5955,24 +5811,6 @@
             "Attack": 677,
             "Defense": 654,
             "Life": 1460
-        }
-    },
-    "Isshtak C3": {
-        "base": {
-            "Attack": 501,
-            "Defense": 471,
-            "Life": 1052,
-            "Power": 519
-        },
-        "lb1": {
-            "Attack": 568,
-            "Defense": 534,
-            "Life": 1194
-        },
-        "lb2": {
-            "Attack": 703,
-            "Defense": 659,
-            "Life": 1474
         }
     },
     "Jing": {
@@ -10943,24 +10781,6 @@
             "Life": 1112
         }
     },
-    "Balthazar C3": {
-        "base": {
-            "Attack": 587,
-            "Defense": 475,
-            "Life": 785,
-            "Power": 513
-        },
-        "lb1": {
-            "Attack": 665,
-            "Defense": 538,
-            "Life": 890
-        },
-        "lb2": {
-            "Attack": 822,
-            "Defense": 665,
-            "Life": 1101
-        }
-    },
     "Betty": {
         "base": {
             "Attack": 530,
@@ -11285,24 +11105,6 @@
             "Life": 1340
         }
     },
-    "Oberon C3": {
-        "base": {
-            "Attack": 532,
-            "Defense": 471,
-            "Life": 963,
-            "Power": 517
-        },
-        "lb1": {
-            "Attack": 603,
-            "Defense": 534,
-            "Life": 1093
-        },
-        "lb2": {
-            "Attack": 745,
-            "Defense": 659,
-            "Life": 1350
-        }
-    },
     "Para": {
         "base": {
             "Attack": 457,
@@ -11373,24 +11175,6 @@
             "Attack": 668,
             "Defense": 746,
             "Life": 1299
-        }
-    },
-    "Prisca C3": {
-        "base": {
-            "Attack": 504,
-            "Defense": 527,
-            "Life": 929,
-            "Power": 519
-        },
-        "lb1": {
-            "Attack": 570,
-            "Defense": 599,
-            "Life": 1054
-        },
-        "lb2": {
-            "Attack": 705,
-            "Defense": 739,
-            "Life": 1302
         }
     },
     "Renfeld": {
@@ -16271,24 +16055,6 @@
             "Life": 1080
         }
     },
-    "Azar C3": {
-        "base": {
-            "Attack": 601,
-            "Defense": 463,
-            "Life": 785,
-            "Power": 514
-        },
-        "lb1": {
-            "Attack": 682,
-            "Defense": 525,
-            "Life": 890
-        },
-        "lb2": {
-            "Attack": 842,
-            "Defense": 648,
-            "Life": 1101
-        }
-    },
     "Bagreg": {
         "base": {
             "Attack": 571,
@@ -16523,24 +16289,6 @@
             "Life": 1071
         }
     },
-    "Hawkmoon C3": {
-        "base": {
-            "Attack": 585,
-            "Defense": 518,
-            "Life": 733,
-            "Power": 517
-        },
-        "lb1": {
-            "Attack": 663,
-            "Defense": 587,
-            "Life": 830
-        },
-        "lb2": {
-            "Attack": 819,
-            "Defense": 725,
-            "Life": 1027
-        }
-    },
     "Helgi": {
         "base": {
             "Attack": 545,
@@ -16629,24 +16377,6 @@
             "Attack": 777,
             "Defense": 673,
             "Life": 1129
-        }
-    },
-    "Jahangir C3": {
-        "base": {
-            "Attack": 566,
-            "Defense": 487,
-            "Life": 825,
-            "Power": 514
-        },
-        "lb1": {
-            "Attack": 642,
-            "Defense": 552,
-            "Life": 936
-        },
-        "lb2": {
-            "Attack": 794,
-            "Defense": 683,
-            "Life": 1157
         }
     },
     "Kornel": {
@@ -16773,24 +16503,6 @@
             "Attack": 872,
             "Defense": 568,
             "Life": 1092
-        }
-    },
-    "Nashgar C3": {
-        "base": {
-            "Attack": 642,
-            "Defense": 408,
-            "Life": 788,
-            "Power": 514
-        },
-        "lb1": {
-            "Attack": 727,
-            "Defense": 462,
-            "Life": 893
-        },
-        "lb2": {
-            "Attack": 899,
-            "Defense": 572,
-            "Life": 1104
         }
     },
     "Phoenicus": {
@@ -22103,24 +21815,6 @@
             "Life": 1191
         }
     },
-    "Bane C3": {
-        "base": {
-            "Attack": 562,
-            "Defense": 457,
-            "Life": 868,
-            "Power": 511
-        },
-        "lb1": {
-            "Attack": 637,
-            "Defense": 518,
-            "Life": 984
-        },
-        "lb2": {
-            "Attack": 788,
-            "Defense": 639,
-            "Life": 1216
-        }
-    },
     "Bertulf": {
         "base": {
             "Attack": 491,
@@ -22247,24 +21941,6 @@
             "Life": 1065
         }
     },
-    "Dawa C3": {
-        "base": {
-            "Attack": 556,
-            "Defense": 515,
-            "Life": 768,
-            "Power": 511
-        },
-        "lb1": {
-            "Attack": 630,
-            "Defense": 585,
-            "Life": 872
-        },
-        "lb2": {
-            "Attack": 779,
-            "Defense": 723,
-            "Life": 1077
-        }
-    },
     "Dolrak": {
         "base": {
             "Attack": 524,
@@ -22371,24 +22047,6 @@
             "Attack": 755,
             "Defense": 589,
             "Life": 1363
-        }
-    },
-    "Gan Ju C3": {
-        "base": {
-            "Attack": 552,
-            "Defense": 425,
-            "Life": 995,
-            "Power": 516
-        },
-        "lb1": {
-            "Attack": 625,
-            "Defense": 483,
-            "Life": 1128
-        },
-        "lb2": {
-            "Attack": 774,
-            "Defense": 597,
-            "Life": 1394
         }
     },
     "Harubo": {
@@ -22515,24 +22173,6 @@
             "Attack": 687,
             "Defense": 736,
             "Life": 1228
-        }
-    },
-    "Kailani C3": {
-        "base": {
-            "Attack": 485,
-            "Defense": 548,
-            "Life": 902,
-            "Power": 514
-        },
-        "lb1": {
-            "Attack": 549,
-            "Defense": 621,
-            "Life": 1023
-        },
-        "lb2": {
-            "Attack": 679,
-            "Defense": 768,
-            "Life": 1263
         }
     },
     "Kinsaishi": {
@@ -28169,24 +27809,6 @@
             "Life": 2799
         }
     },
-    "Gunnar C3": {
-        "base": {
-            "Attack": 518,
-            "Defense": 534,
-            "Life": 825,
-            "Power": 511
-        },
-        "lb1": {
-            "Attack": 587,
-            "Defense": 606,
-            "Life": 936
-        },
-        "lb2": {
-            "Attack": 725,
-            "Defense": 748,
-            "Life": 1157
-        }
-    },
     "Thorne C4": {
         "base": {
             "Attack": 1218,
@@ -28203,24 +27825,6 @@
             "Attack": 1501,
             "Defense": 1608,
             "Life": 2865
-        }
-    },
-    "Renfeld C3": {
-        "base": {
-            "Attack": 499,
-            "Defense": 487,
-            "Life": 1000,
-            "Power": 516
-        },
-        "lb1": {
-            "Attack": 566,
-            "Defense": 552,
-            "Life": 1133
-        },
-        "lb2": {
-            "Attack": 699,
-            "Defense": 683,
-            "Life": 1400
         }
     },
     "Sabina C4": {
@@ -28419,6 +28023,510 @@
             "Attack": 907,
             "Defense": 668,
             "Life": 1058
+        }
+    },
+    "Breca": {
+        "base": {
+            "Attack": 794,
+            "Defense": 792,
+            "Life": 1502,
+            "Power": 794
+        },
+        "lb1": {
+            "Attack": 863,
+            "Defense": 861,
+            "Life": 1632
+        },
+        "lb2": {
+            "Attack": 1001,
+            "Defense": 998,
+            "Life": 1892
+        }
+    },
+    "Ellery": {
+        "base": {
+            "Attack": 1310,
+            "Defense": 1283,
+            "Life": 2259,
+            "Power": 1259
+        },
+        "lb1": {
+            "Attack": 1411,
+            "Defense": 1383,
+            "Life": 2435
+        },
+        "lb2": {
+            "Attack": 1615,
+            "Defense": 1582,
+            "Life": 2786
+        }
+    },
+    "Jax": {
+        "base": {
+            "Attack": 533,
+            "Defense": 568,
+            "Life": 908,
+            "Power": 537
+        },
+        "lb1": {
+            "Attack": 604,
+            "Defense": 644,
+            "Life": 1030
+        },
+        "lb2": {
+            "Attack": 747,
+            "Defense": 795,
+            "Life": 1272
+        }
+    },
+    "Weland": {
+        "base": {
+            "Attack": 1291,
+            "Defense": 1312,
+            "Life": 2261,
+            "Power": 1260
+        },
+        "lb1": {
+            "Attack": 1391,
+            "Defense": 1414,
+            "Life": 2437
+        },
+        "lb2": {
+            "Attack": 1592,
+            "Defense": 1617,
+            "Life": 2788
+        }
+    },
+    "Ryleh": {
+        "base": {
+            "Attack": 767,
+            "Defense": 794,
+            "Life": 1366,
+            "Power": 1260
+        },
+        "lb1": {
+            "Attack": 833,
+            "Defense": 862,
+            "Life": 1484
+        },
+        "lb2": {
+            "Attack": 965,
+            "Defense": 999,
+            "Life": 1720
+        }
+    },
+    "Graymane C3": {
+        "base": {
+            "Attack": 532,
+            "Defense": 446,
+            "Life": 980,
+            "Power": 513
+        },
+        "lb1": {
+            "Attack": 608,
+            "Defense": 510,
+            "Life": 1121
+        },
+        "lb2": {
+            "Attack": 751,
+            "Defense": 631,
+            "Life": 1384
+        }
+    },
+    "Karil C3": {
+        "base": {
+            "Attack": 599,
+            "Defense": 418,
+            "Life": 873,
+            "Power": 513
+        },
+        "lb1": {
+            "Attack": 685,
+            "Defense": 477,
+            "Life": 997
+        },
+        "lb2": {
+            "Attack": 847,
+            "Defense": 591,
+            "Life": 1232
+        }
+    },
+    "Ulmer C3": {
+        "base": {
+            "Attack": 552,
+            "Defense": 507,
+            "Life": 830,
+            "Power": 516
+        },
+        "lb1": {
+            "Attack": 631,
+            "Defense": 580,
+            "Life": 949
+        },
+        "lb2": {
+            "Attack": 781,
+            "Defense": 717,
+            "Life": 1173
+        }
+    },
+    "Belith C3": {
+        "base": {
+            "Attack": 521,
+            "Defense": 504,
+            "Life": 894,
+            "Power": 513
+        },
+        "lb1": {
+            "Attack": 597,
+            "Defense": 575,
+            "Life": 1022
+        },
+        "lb2": {
+            "Attack": 737,
+            "Defense": 711,
+            "Life": 1263
+        }
+    },
+    "Berden C3": {
+        "base": {
+            "Attack": 556,
+            "Defense": 493,
+            "Life": 843,
+            "Power": 515
+        },
+        "lb1": {
+            "Attack": 636,
+            "Defense": 564,
+            "Life": 964
+        },
+        "lb2": {
+            "Attack": 785,
+            "Defense": 697,
+            "Life": 1190
+        }
+    },
+    "Brienne C3": {
+        "base": {
+            "Attack": 472,
+            "Defense": 532,
+            "Life": 940,
+            "Power": 510
+        },
+        "lb1": {
+            "Attack": 541,
+            "Defense": 608,
+            "Life": 1075
+        },
+        "lb2": {
+            "Attack": 669,
+            "Defense": 751,
+            "Life": 1328
+        }
+    },
+    "Carver C3": {
+        "base": {
+            "Attack": 620,
+            "Defense": 425,
+            "Life": 816,
+            "Power": 515
+        },
+        "lb1": {
+            "Attack": 708,
+            "Defense": 487,
+            "Life": 932
+        },
+        "lb2": {
+            "Attack": 875,
+            "Defense": 602,
+            "Life": 1152
+        }
+    },
+    "Friar Tuck C3": {
+        "base": {
+            "Attack": 548,
+            "Defense": 524,
+            "Life": 816,
+            "Power": 517
+        },
+        "lb1": {
+            "Attack": 626,
+            "Defense": 599,
+            "Life": 932
+        },
+        "lb2": {
+            "Attack": 775,
+            "Defense": 739,
+            "Life": 1152
+        }
+    },
+    "Isshtak C3": {
+        "base": {
+            "Attack": 501,
+            "Defense": 471,
+            "Life": 1052,
+            "Power": 519
+        },
+        "lb1": {
+            "Attack": 573,
+            "Defense": 539,
+            "Life": 1204
+        },
+        "lb2": {
+            "Attack": 709,
+            "Defense": 665,
+            "Life": 1487
+        }
+    },
+    "Balthazar C3": {
+        "base": {
+            "Attack": 587,
+            "Defense": 475,
+            "Life": 785,
+            "Power": 513
+        },
+        "lb1": {
+            "Attack": 671,
+            "Defense": 542,
+            "Life": 897
+        },
+        "lb2": {
+            "Attack": 829,
+            "Defense": 671,
+            "Life": 1110
+        }
+    },
+    "Oberon C3": {
+        "base": {
+            "Attack": 532,
+            "Defense": 471,
+            "Life": 963,
+            "Power": 517
+        },
+        "lb1": {
+            "Attack": 608,
+            "Defense": 539,
+            "Life": 1102
+        },
+        "lb2": {
+            "Attack": 751,
+            "Defense": 665,
+            "Life": 1361
+        }
+    },
+    "Prisca C3": {
+        "base": {
+            "Attack": 504,
+            "Defense": 527,
+            "Life": 929,
+            "Power": 519
+        },
+        "lb1": {
+            "Attack": 575,
+            "Defense": 604,
+            "Life": 1062
+        },
+        "lb2": {
+            "Attack": 711,
+            "Defense": 745,
+            "Life": 1313
+        }
+    },
+    "Azar C3": {
+        "base": {
+            "Attack": 601,
+            "Defense": 463,
+            "Life": 785,
+            "Power": 514
+        },
+        "lb1": {
+            "Attack": 687,
+            "Defense": 529,
+            "Life": 897
+        },
+        "lb2": {
+            "Attack": 849,
+            "Defense": 653,
+            "Life": 1110
+        }
+    },
+    "Hawkmoon C3": {
+        "base": {
+            "Attack": 585,
+            "Defense": 518,
+            "Life": 733,
+            "Power": 517
+        },
+        "lb1": {
+            "Attack": 669,
+            "Defense": 592,
+            "Life": 837
+        },
+        "lb2": {
+            "Attack": 826,
+            "Defense": 731,
+            "Life": 1035
+        }
+    },
+    "Jahangir C3": {
+        "base": {
+            "Attack": 566,
+            "Defense": 487,
+            "Life": 825,
+            "Power": 514
+        },
+        "lb1": {
+            "Attack": 647,
+            "Defense": 556,
+            "Life": 944
+        },
+        "lb2": {
+            "Attack": 801,
+            "Defense": 689,
+            "Life": 1167
+        }
+    },
+    "Nashgar C3": {
+        "base": {
+            "Attack": 642,
+            "Defense": 408,
+            "Life": 788,
+            "Power": 514
+        },
+        "lb1": {
+            "Attack": 733,
+            "Defense": 466,
+            "Life": 900
+        },
+        "lb2": {
+            "Attack": 907,
+            "Defense": 577,
+            "Life": 1113
+        }
+    },
+    "Bane C3": {
+        "base": {
+            "Attack": 562,
+            "Defense": 457,
+            "Life": 868,
+            "Power": 511
+        },
+        "lb1": {
+            "Attack": 643,
+            "Defense": 522,
+            "Life": 992
+        },
+        "lb2": {
+            "Attack": 795,
+            "Defense": 645,
+            "Life": 1226
+        }
+    },
+    "Dawa C3": {
+        "base": {
+            "Attack": 556,
+            "Defense": 515,
+            "Life": 768,
+            "Power": 511
+        },
+        "lb1": {
+            "Attack": 636,
+            "Defense": 590,
+            "Life": 879
+        },
+        "lb2": {
+            "Attack": 785,
+            "Defense": 729,
+            "Life": 1086
+        }
+    },
+    "Gan Ju C3": {
+        "base": {
+            "Attack": 552,
+            "Defense": 425,
+            "Life": 995,
+            "Power": 516
+        },
+        "lb1": {
+            "Attack": 631,
+            "Defense": 487,
+            "Life": 1137
+        },
+        "lb2": {
+            "Attack": 781,
+            "Defense": 602,
+            "Life": 1405
+        }
+    },
+    "Kailani C3": {
+        "base": {
+            "Attack": 485,
+            "Defense": 548,
+            "Life": 902,
+            "Power": 514
+        },
+        "lb1": {
+            "Attack": 554,
+            "Defense": 626,
+            "Life": 1031
+        },
+        "lb2": {
+            "Attack": 685,
+            "Defense": 775,
+            "Life": 1274
+        }
+    },
+    "Gunnar C3": {
+        "base": {
+            "Attack": 518,
+            "Defense": 534,
+            "Life": 825,
+            "Power": 511
+        },
+        "lb1": {
+            "Attack": 592,
+            "Defense": 611,
+            "Life": 944
+        },
+        "lb2": {
+            "Attack": 731,
+            "Defense": 755,
+            "Life": 1167
+        }
+    },
+    "Renfeld C3": {
+        "base": {
+            "Attack": 499,
+            "Defense": 487,
+            "Life": 1000,
+            "Power": 516
+        },
+        "lb1": {
+            "Attack": 571,
+            "Defense": 556,
+            "Life": 1142
+        },
+        "lb2": {
+            "Attack": 705,
+            "Defense": 689,
+            "Life": 1412
+        }
+    },
+    "Xandrella C": {
+        "base": {
+            "Attack": 1235,
+            "Defense": 1254,
+            "Life": 2518,
+            "Power": 1260
+        },
+        "lb1": {
+            "Attack": 1331,
+            "Defense": 1350,
+            "Life": 2715
+        },
+        "lb2": {
+            "Attack": 1522,
+            "Defense": 1546,
+            "Life": 3106
         }
     }
 }

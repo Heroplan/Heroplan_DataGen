@@ -61,3 +61,4 @@ def convert_txt_to_json():
 
 if __name__ == "__main__":
     convert_txt_to_json()
+    input("按回车键退出...")

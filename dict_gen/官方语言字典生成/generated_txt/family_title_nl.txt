@@ -158,6 +158,8 @@
 "herocard.family.title.tales1_baddies.short","Nachtmerries van Atlantis"
 "herocard.family.title.tales1_goodies","Verdedigers van Atlantis-familie"
 "herocard.family.title.tales1_goodies.short","Verdedigers van Atlantis"
+"herocard.family.title.titan_hunter","Titanenjagerfamilie"
+"herocard.family.title.titan_hunter.short","Titanenjager"
 "herocard.family.title.vanaheim","Vanaheim-rijk"
 "herocard.family.title.vanaheim.short","Vanaheim"
 "herocard.family.title.vegetable","Dappere groente-familie"

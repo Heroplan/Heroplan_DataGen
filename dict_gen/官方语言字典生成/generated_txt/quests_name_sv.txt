@@ -57,6 +57,7 @@
 "quests.name.hotm_quest1","Legendernas värdshus"
 "quests.name.iron","Bryt Järn"
 "quests.name.kalevala","Kalevala"
+"quests.name.legendary_troop","Legendernas barack"
 "quests.name.limit_breaker_dark","Omegas hägringar"
 "quests.name.limit_breaker_fire","Omegas hägringar"
 "quests.name.limit_breaker_holy","Omegas hägringar"

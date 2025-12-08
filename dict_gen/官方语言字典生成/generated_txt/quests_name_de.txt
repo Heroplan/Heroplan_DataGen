@@ -57,6 +57,7 @@
 "quests.name.hotm_quest1","Taverne der Legenden"
 "quests.name.iron","Fördere Eisen"
 "quests.name.kalevala","Kalevala"
+"quests.name.legendary_troop","Kaserne der Legenden"
 "quests.name.limit_breaker_dark","Omega-Illusionen"
 "quests.name.limit_breaker_fire","Omega-Illusionen"
 "quests.name.limit_breaker_holy","Omega-Illusionen"
