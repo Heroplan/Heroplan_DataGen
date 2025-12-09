@@ -14695,7 +14695,7 @@
       },
       "dragonPvpEvents": {
         "mode": "Dragon",
-        "pvpEventsEnabled": false,
+        "pvpEventsEnabled": true,
         "pvpEventsXpLevelRequirement": 20,
         "pvpEventsXpLevelTabsShownRequirement": 20,
         "registrationCost": {},
@@ -73288,9 +73288,9 @@
       },
       "heroLevelUp": {
         "mode": "Classic",
-        "specialLevelUpChancePerSameCharacterSacrificePerMil": 250,
+        "specialLevelUpChancePerSameCharacterSacrificePerMil": 1000,
         "specialLevelUpChanceMultiplierPerSameColorSacrificePerMil": 2000,
-        "specialLevelUpChanceMultiplierPerSacrificeRarityPerMil": 10,
+        "specialLevelUpChanceMultiplierPerSacrificeRarityPerMil": 50,
         "specialLevelUpChanceMultiplierAtMaxAscensionPerMil": 5000,
         "receivedXpForCostumeMultiplierPerMil": 2000,
         "levelUpFoodCostForCostumeMultiplierPerMil": 750,
@@ -73329,9 +73329,9 @@
         "duplicateHeroSacrificeXpBonusMultiplierPerMilPerRarity": [
           0,
           0,
-          0,
-          0,
-          0
+          10000,
+          25000,
+          50000
         ],
         "estimatedAverageSacrificeAmountPerLevelPerMil": 2000,
         "aetherGiftMinLimitBreakLevel": 2,
@@ -82737,8 +82737,8 @@
     "minSecondsBetweenRecentActivityRequests": 30,
     "colorBlindModeEnabled": true,
     "languageSelectionEnabled": true,
-    "maxVersionToShowUpdateOutReminderAndroid": "80.0.2",
-    "maxVersionToShowUpdateOutReminderIos": "80.0.2",
+    "maxVersionToShowUpdateOutReminderAndroid": "81.0.2",
+    "maxVersionToShowUpdateOutReminderIos": "81.0.2",
     "maxVersionToShowUpdateOutReminderAndroidStandalone": "81.0.2",
     "standaloneNewVersionRolloutPercentage": 100,
     "fastClientLogFlushTimeSeconds": 5,
@@ -82832,5 +82832,5 @@
     "criticalOperationPendingDelaySeconds": 3,
     "allowedCriticalOperationPendingCount": 3
   },
-  "otherConfigId": 1419260556
+  "otherConfigId": 3644474063
 }

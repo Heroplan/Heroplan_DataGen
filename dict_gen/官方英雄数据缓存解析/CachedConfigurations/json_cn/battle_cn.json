@@ -7928,19 +7928,19 @@
           "defenseCap": 0
         },
         {
-          "healthCap": 1500,
-          "attackCap": 800,
-          "defenseCap": 800
+          "healthCap": 0,
+          "attackCap": 0,
+          "defenseCap": 0
         },
         {
-          "healthCap": 1900,
-          "attackCap": 900,
-          "defenseCap": 900
+          "healthCap": 0,
+          "attackCap": 0,
+          "defenseCap": 0
         },
         {
-          "healthCap": 2000,
-          "attackCap": 1000,
-          "defenseCap": 1000
+          "healthCap": 0,
+          "attackCap": 0,
+          "defenseCap": 0
         }
       ]
     },
@@ -81388,6 +81388,3044 @@
           }
         ],
         "classType": "战士"
+      },
+      {
+        "bonusType": "Base",
+        "id": "default_improved",
+        "statBonuses": [
+          {
+            "bonusLevels": []
+          },
+          {
+            "bonusLevels": []
+          },
+          {
+            "bonusLevels": [
+              {
+                "attackBonus": 24,
+                "defenseBonus": 24,
+                "healthBonus": 12
+              },
+              {
+                "attackBonus": 48,
+                "defenseBonus": 40,
+                "healthBonus": 18
+              },
+              {
+                "attackBonus": 72,
+                "defenseBonus": 56,
+                "healthBonus": 24
+              },
+              {
+                "attackBonus": 100,
+                "defenseBonus": 80,
+                "healthBonus": 30
+              }
+            ]
+          },
+          {
+            "bonusLevels": [
+              {
+                "attackBonus": 32,
+                "defenseBonus": 24,
+                "healthBonus": 9
+              },
+              {
+                "attackBonus": 64,
+                "defenseBonus": 48,
+                "healthBonus": 18
+              },
+              {
+                "attackBonus": 96,
+                "defenseBonus": 72,
+                "healthBonus": 27
+              },
+              {
+                "attackBonus": 128,
+                "defenseBonus": 96,
+                "healthBonus": 36
+              },
+              {
+                "attackBonus": 160,
+                "defenseBonus": 120,
+                "healthBonus": 45
+              }
+            ]
+          },
+          {
+            "bonusLevels": [
+              {
+                "attackBonus": 105,
+                "defenseBonus": 80,
+                "healthBonus": 20
+              },
+              {
+                "attackBonus": 135,
+                "defenseBonus": 105,
+                "healthBonus": 35
+              },
+              {
+                "attackBonus": 165,
+                "defenseBonus": 130,
+                "healthBonus": 50
+              },
+              {
+                "attackBonus": 195,
+                "defenseBonus": 155,
+                "healthBonus": 65
+              },
+              {
+                "attackBonus": 225,
+                "defenseBonus": 180,
+                "healthBonus": 80
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "bonusType": "Base",
+        "id": "ancient",
+        "statBonuses": [
+          {
+            "bonusLevels": []
+          },
+          {
+            "bonusLevels": []
+          },
+          {
+            "bonusLevels": [
+              {
+                "attackBonus": 24,
+                "defenseBonus": 24,
+                "healthBonus": 12
+              },
+              {
+                "attackBonus": 48,
+                "defenseBonus": 40,
+                "healthBonus": 18
+              },
+              {
+                "attackBonus": 72,
+                "defenseBonus": 56,
+                "healthBonus": 24
+              },
+              {
+                "attackBonus": 100,
+                "defenseBonus": 80,
+                "healthBonus": 30
+              }
+            ]
+          },
+          {
+            "bonusLevels": [
+              {
+                "attackBonus": 32,
+                "defenseBonus": 24,
+                "healthBonus": 9
+              },
+              {
+                "attackBonus": 64,
+                "defenseBonus": 48,
+                "healthBonus": 18
+              },
+              {
+                "attackBonus": 96,
+                "defenseBonus": 72,
+                "healthBonus": 27
+              },
+              {
+                "attackBonus": 128,
+                "defenseBonus": 96,
+                "healthBonus": 36
+              },
+              {
+                "attackBonus": 160,
+                "defenseBonus": 120,
+                "healthBonus": 45
+              }
+            ]
+          },
+          {
+            "bonusLevels": [
+              {
+                "attackBonus": 110,
+                "defenseBonus": 80,
+                "healthBonus": 20
+              },
+              {
+                "attackBonus": 145,
+                "defenseBonus": 110,
+                "healthBonus": 40
+              },
+              {
+                "attackBonus": 180,
+                "defenseBonus": 140,
+                "healthBonus": 60
+              },
+              {
+                "attackBonus": 215,
+                "defenseBonus": 170,
+                "healthBonus": 80
+              },
+              {
+                "attackBonus": 250,
+                "defenseBonus": 200,
+                "healthBonus": 100
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "bonusType": "Element",
+        "id": "red_improved",
+        "statBonuses": [
+          {
+            "bonusLevels": []
+          },
+          {
+            "bonusLevels": []
+          },
+          {
+            "bonusLevels": [
+              {
+                "attackBonus": 4,
+                "defenseBonus": 3,
+                "healthBonus": 3
+              },
+              {
+                "attackBonus": 7,
+                "defenseBonus": 5,
+                "healthBonus": 6
+              },
+              {
+                "attackBonus": 10,
+                "defenseBonus": 7,
+                "healthBonus": 9
+              },
+              {
+                "attackBonus": 15,
+                "defenseBonus": 10,
+                "healthBonus": 12
+              }
+            ]
+          },
+          {
+            "bonusLevels": [
+              {
+                "attackBonus": 4,
+                "defenseBonus": 3,
+                "healthBonus": 3
+              },
+              {
+                "attackBonus": 8,
+                "defenseBonus": 6,
+                "healthBonus": 6
+              },
+              {
+                "attackBonus": 12,
+                "defenseBonus": 9,
+                "healthBonus": 9
+              },
+              {
+                "attackBonus": 16,
+                "defenseBonus": 12,
+                "healthBonus": 12
+              },
+              {
+                "attackBonus": 20,
+                "defenseBonus": 15,
+                "healthBonus": 15
+              }
+            ]
+          },
+          {
+            "bonusLevels": [
+              {
+                "attackBonus": 5,
+                "defenseBonus": 4,
+                "healthBonus": 4
+              },
+              {
+                "attackBonus": 10,
+                "defenseBonus": 8,
+                "healthBonus": 8
+              },
+              {
+                "attackBonus": 20,
+                "defenseBonus": 15,
+                "healthBonus": 15
+              },
+              {
+                "attackBonus": 25,
+                "defenseBonus": 20,
+                "healthBonus": 20
+              },
+              {
+                "attackBonus": 30,
+                "defenseBonus": 25,
+                "healthBonus": 25
+              }
+            ]
+          }
+        ],
+        "element": "红"
+      },
+      {
+        "bonusType": "Element",
+        "id": "green_improved",
+        "statBonuses": [
+          {
+            "bonusLevels": []
+          },
+          {
+            "bonusLevels": []
+          },
+          {
+            "bonusLevels": [
+              {
+                "attackBonus": 4,
+                "defenseBonus": 3,
+                "healthBonus": 3
+              },
+              {
+                "attackBonus": 7,
+                "defenseBonus": 5,
+                "healthBonus": 6
+              },
+              {
+                "attackBonus": 10,
+                "defenseBonus": 7,
+                "healthBonus": 9
+              },
+              {
+                "attackBonus": 15,
+                "defenseBonus": 10,
+                "healthBonus": 12
+              }
+            ]
+          },
+          {
+            "bonusLevels": [
+              {
+                "attackBonus": 4,
+                "defenseBonus": 3,
+                "healthBonus": 3
+              },
+              {
+                "attackBonus": 8,
+                "defenseBonus": 6,
+                "healthBonus": 6
+              },
+              {
+                "attackBonus": 12,
+                "defenseBonus": 9,
+                "healthBonus": 9
+              },
+              {
+                "attackBonus": 16,
+                "defenseBonus": 12,
+                "healthBonus": 12
+              },
+              {
+                "attackBonus": 20,
+                "defenseBonus": 15,
+                "healthBonus": 15
+              }
+            ]
+          },
+          {
+            "bonusLevels": [
+              {
+                "attackBonus": 5,
+                "defenseBonus": 4,
+                "healthBonus": 4
+              },
+              {
+                "attackBonus": 10,
+                "defenseBonus": 8,
+                "healthBonus": 8
+              },
+              {
+                "attackBonus": 20,
+                "defenseBonus": 15,
+                "healthBonus": 15
+              },
+              {
+                "attackBonus": 25,
+                "defenseBonus": 20,
+                "healthBonus": 20
+              },
+              {
+                "attackBonus": 30,
+                "defenseBonus": 25,
+                "healthBonus": 25
+              }
+            ]
+          }
+        ],
+        "element": "绿"
+      },
+      {
+        "bonusType": "Element",
+        "id": "blue_improved",
+        "statBonuses": [
+          {
+            "bonusLevels": []
+          },
+          {
+            "bonusLevels": []
+          },
+          {
+            "bonusLevels": [
+              {
+                "attackBonus": 4,
+                "defenseBonus": 3,
+                "healthBonus": 3
+              },
+              {
+                "attackBonus": 7,
+                "defenseBonus": 5,
+                "healthBonus": 6
+              },
+              {
+                "attackBonus": 10,
+                "defenseBonus": 7,
+                "healthBonus": 9
+              },
+              {
+                "attackBonus": 15,
+                "defenseBonus": 10,
+                "healthBonus": 12
+              }
+            ]
+          },
+          {
+            "bonusLevels": [
+              {
+                "attackBonus": 4,
+                "defenseBonus": 3,
+                "healthBonus": 3
+              },
+              {
+                "attackBonus": 8,
+                "defenseBonus": 6,
+                "healthBonus": 6
+              },
+              {
+                "attackBonus": 12,
+                "defenseBonus": 9,
+                "healthBonus": 9
+              },
+              {
+                "attackBonus": 16,
+                "defenseBonus": 12,
+                "healthBonus": 12
+              },
+              {
+                "attackBonus": 20,
+                "defenseBonus": 15,
+                "healthBonus": 15
+              }
+            ]
+          },
+          {
+            "bonusLevels": [
+              {
+                "attackBonus": 5,
+                "defenseBonus": 4,
+                "healthBonus": 4
+              },
+              {
+                "attackBonus": 10,
+                "defenseBonus": 8,
+                "healthBonus": 8
+              },
+              {
+                "attackBonus": 20,
+                "defenseBonus": 15,
+                "healthBonus": 15
+              },
+              {
+                "attackBonus": 25,
+                "defenseBonus": 20,
+                "healthBonus": 20
+              },
+              {
+                "attackBonus": 30,
+                "defenseBonus": 25,
+                "healthBonus": 25
+              }
+            ]
+          }
+        ],
+        "element": "蓝"
+      },
+      {
+        "bonusType": "Element",
+        "id": "purple_improved",
+        "statBonuses": [
+          {
+            "bonusLevels": []
+          },
+          {
+            "bonusLevels": []
+          },
+          {
+            "bonusLevels": [
+              {
+                "attackBonus": 4,
+                "defenseBonus": 3,
+                "healthBonus": 3
+              },
+              {
+                "attackBonus": 7,
+                "defenseBonus": 5,
+                "healthBonus": 6
+              },
+              {
+                "attackBonus": 10,
+                "defenseBonus": 7,
+                "healthBonus": 9
+              },
+              {
+                "attackBonus": 15,
+                "defenseBonus": 10,
+                "healthBonus": 12
+              }
+            ]
+          },
+          {
+            "bonusLevels": [
+              {
+                "attackBonus": 4,
+                "defenseBonus": 3,
+                "healthBonus": 3
+              },
+              {
+                "attackBonus": 8,
+                "defenseBonus": 6,
+                "healthBonus": 6
+              },
+              {
+                "attackBonus": 12,
+                "defenseBonus": 9,
+                "healthBonus": 9
+              },
+              {
+                "attackBonus": 16,
+                "defenseBonus": 12,
+                "healthBonus": 12
+              },
+              {
+                "attackBonus": 20,
+                "defenseBonus": 15,
+                "healthBonus": 15
+              }
+            ]
+          },
+          {
+            "bonusLevels": [
+              {
+                "attackBonus": 5,
+                "defenseBonus": 4,
+                "healthBonus": 4
+              },
+              {
+                "attackBonus": 10,
+                "defenseBonus": 8,
+                "healthBonus": 8
+              },
+              {
+                "attackBonus": 20,
+                "defenseBonus": 15,
+                "healthBonus": 15
+              },
+              {
+                "attackBonus": 25,
+                "defenseBonus": 20,
+                "healthBonus": 20
+              },
+              {
+                "attackBonus": 30,
+                "defenseBonus": 25,
+                "healthBonus": 25
+              }
+            ]
+          }
+        ],
+        "element": "紫"
+      },
+      {
+        "bonusType": "Element",
+        "id": "yellow_improved",
+        "statBonuses": [
+          {
+            "bonusLevels": []
+          },
+          {
+            "bonusLevels": []
+          },
+          {
+            "bonusLevels": [
+              {
+                "attackBonus": 4,
+                "defenseBonus": 3,
+                "healthBonus": 3
+              },
+              {
+                "attackBonus": 7,
+                "defenseBonus": 5,
+                "healthBonus": 6
+              },
+              {
+                "attackBonus": 10,
+                "defenseBonus": 7,
+                "healthBonus": 9
+              },
+              {
+                "attackBonus": 15,
+                "defenseBonus": 10,
+                "healthBonus": 12
+              }
+            ]
+          },
+          {
+            "bonusLevels": [
+              {
+                "attackBonus": 4,
+                "defenseBonus": 3,
+                "healthBonus": 3
+              },
+              {
+                "attackBonus": 8,
+                "defenseBonus": 6,
+                "healthBonus": 6
+              },
+              {
+                "attackBonus": 12,
+                "defenseBonus": 9,
+                "healthBonus": 9
+              },
+              {
+                "attackBonus": 16,
+                "defenseBonus": 12,
+                "healthBonus": 12
+              },
+              {
+                "attackBonus": 20,
+                "defenseBonus": 15,
+                "healthBonus": 15
+              }
+            ]
+          },
+          {
+            "bonusLevels": [
+              {
+                "attackBonus": 5,
+                "defenseBonus": 4,
+                "healthBonus": 4
+              },
+              {
+                "attackBonus": 10,
+                "defenseBonus": 8,
+                "healthBonus": 8
+              },
+              {
+                "attackBonus": 20,
+                "defenseBonus": 15,
+                "healthBonus": 15
+              },
+              {
+                "attackBonus": 25,
+                "defenseBonus": 20,
+                "healthBonus": 20
+              },
+              {
+                "attackBonus": 30,
+                "defenseBonus": 25,
+                "healthBonus": 25
+              }
+            ]
+          }
+        ],
+        "element": "黄"
+      },
+      {
+        "bonusType": "Class",
+        "id": "paladin_improved",
+        "statBonuses": [
+          {
+            "bonusLevels": []
+          },
+          {
+            "bonusLevels": []
+          },
+          {
+            "bonusLevels": [
+              {
+                "attackBonus": 4,
+                "defenseBonus": 3,
+                "healthBonus": 3
+              },
+              {
+                "attackBonus": 7,
+                "defenseBonus": 5,
+                "healthBonus": 6
+              },
+              {
+                "attackBonus": 10,
+                "defenseBonus": 7,
+                "healthBonus": 9
+              },
+              {
+                "attackBonus": 15,
+                "defenseBonus": 10,
+                "healthBonus": 12
+              }
+            ]
+          },
+          {
+            "bonusLevels": [
+              {
+                "attackBonus": 4,
+                "defenseBonus": 3,
+                "healthBonus": 3
+              },
+              {
+                "attackBonus": 8,
+                "defenseBonus": 6,
+                "healthBonus": 6
+              },
+              {
+                "attackBonus": 12,
+                "defenseBonus": 9,
+                "healthBonus": 9
+              },
+              {
+                "attackBonus": 16,
+                "defenseBonus": 12,
+                "healthBonus": 12
+              },
+              {
+                "attackBonus": 20,
+                "defenseBonus": 15,
+                "healthBonus": 15
+              }
+            ]
+          },
+          {
+            "bonusLevels": [
+              {
+                "attackBonus": 5,
+                "defenseBonus": 4,
+                "healthBonus": 4
+              },
+              {
+                "attackBonus": 10,
+                "defenseBonus": 8,
+                "healthBonus": 8
+              },
+              {
+                "attackBonus": 20,
+                "defenseBonus": 15,
+                "healthBonus": 15
+              },
+              {
+                "attackBonus": 25,
+                "defenseBonus": 20,
+                "healthBonus": 20
+              },
+              {
+                "attackBonus": 30,
+                "defenseBonus": 25,
+                "healthBonus": 25
+              }
+            ]
+          }
+        ],
+        "classType": "圣骑士"
+      },
+      {
+        "bonusType": "Class",
+        "id": "sorcerer_improved",
+        "statBonuses": [
+          {
+            "bonusLevels": []
+          },
+          {
+            "bonusLevels": []
+          },
+          {
+            "bonusLevels": [
+              {
+                "attackBonus": 4,
+                "defenseBonus": 3,
+                "healthBonus": 3
+              },
+              {
+                "attackBonus": 7,
+                "defenseBonus": 5,
+                "healthBonus": 6
+              },
+              {
+                "attackBonus": 10,
+                "defenseBonus": 7,
+                "healthBonus": 9
+              },
+              {
+                "attackBonus": 15,
+                "defenseBonus": 10,
+                "healthBonus": 12
+              }
+            ]
+          },
+          {
+            "bonusLevels": [
+              {
+                "attackBonus": 4,
+                "defenseBonus": 3,
+                "healthBonus": 3
+              },
+              {
+                "attackBonus": 8,
+                "defenseBonus": 6,
+                "healthBonus": 6
+              },
+              {
+                "attackBonus": 12,
+                "defenseBonus": 9,
+                "healthBonus": 9
+              },
+              {
+                "attackBonus": 16,
+                "defenseBonus": 12,
+                "healthBonus": 12
+              },
+              {
+                "attackBonus": 20,
+                "defenseBonus": 15,
+                "healthBonus": 15
+              }
+            ]
+          },
+          {
+            "bonusLevels": [
+              {
+                "attackBonus": 5,
+                "defenseBonus": 4,
+                "healthBonus": 4
+              },
+              {
+                "attackBonus": 10,
+                "defenseBonus": 8,
+                "healthBonus": 8
+              },
+              {
+                "attackBonus": 20,
+                "defenseBonus": 15,
+                "healthBonus": 15
+              },
+              {
+                "attackBonus": 25,
+                "defenseBonus": 20,
+                "healthBonus": 20
+              },
+              {
+                "attackBonus": 30,
+                "defenseBonus": 25,
+                "healthBonus": 25
+              }
+            ]
+          }
+        ],
+        "classType": "术士"
+      },
+      {
+        "bonusType": "Class",
+        "id": "monk_improved",
+        "statBonuses": [
+          {
+            "bonusLevels": []
+          },
+          {
+            "bonusLevels": []
+          },
+          {
+            "bonusLevels": [
+              {
+                "attackBonus": 4,
+                "defenseBonus": 3,
+                "healthBonus": 3
+              },
+              {
+                "attackBonus": 7,
+                "defenseBonus": 5,
+                "healthBonus": 6
+              },
+              {
+                "attackBonus": 10,
+                "defenseBonus": 7,
+                "healthBonus": 9
+              },
+              {
+                "attackBonus": 15,
+                "defenseBonus": 10,
+                "healthBonus": 12
+              }
+            ]
+          },
+          {
+            "bonusLevels": [
+              {
+                "attackBonus": 4,
+                "defenseBonus": 3,
+                "healthBonus": 3
+              },
+              {
+                "attackBonus": 8,
+                "defenseBonus": 6,
+                "healthBonus": 6
+              },
+              {
+                "attackBonus": 12,
+                "defenseBonus": 9,
+                "healthBonus": 9
+              },
+              {
+                "attackBonus": 16,
+                "defenseBonus": 12,
+                "healthBonus": 12
+              },
+              {
+                "attackBonus": 20,
+                "defenseBonus": 15,
+                "healthBonus": 15
+              }
+            ]
+          },
+          {
+            "bonusLevels": [
+              {
+                "attackBonus": 5,
+                "defenseBonus": 4,
+                "healthBonus": 4
+              },
+              {
+                "attackBonus": 10,
+                "defenseBonus": 8,
+                "healthBonus": 8
+              },
+              {
+                "attackBonus": 20,
+                "defenseBonus": 15,
+                "healthBonus": 15
+              },
+              {
+                "attackBonus": 25,
+                "defenseBonus": 20,
+                "healthBonus": 20
+              },
+              {
+                "attackBonus": 30,
+                "defenseBonus": 25,
+                "healthBonus": 25
+              }
+            ]
+          }
+        ],
+        "classType": "僧侣"
+      },
+      {
+        "bonusType": "Class",
+        "id": "druid_improved",
+        "statBonuses": [
+          {
+            "bonusLevels": []
+          },
+          {
+            "bonusLevels": []
+          },
+          {
+            "bonusLevels": [
+              {
+                "attackBonus": 4,
+                "defenseBonus": 3,
+                "healthBonus": 3
+              },
+              {
+                "attackBonus": 7,
+                "defenseBonus": 5,
+                "healthBonus": 6
+              },
+              {
+                "attackBonus": 10,
+                "defenseBonus": 7,
+                "healthBonus": 9
+              },
+              {
+                "attackBonus": 15,
+                "defenseBonus": 10,
+                "healthBonus": 12
+              }
+            ]
+          },
+          {
+            "bonusLevels": [
+              {
+                "attackBonus": 4,
+                "defenseBonus": 3,
+                "healthBonus": 3
+              },
+              {
+                "attackBonus": 8,
+                "defenseBonus": 6,
+                "healthBonus": 6
+              },
+              {
+                "attackBonus": 12,
+                "defenseBonus": 9,
+                "healthBonus": 9
+              },
+              {
+                "attackBonus": 16,
+                "defenseBonus": 12,
+                "healthBonus": 12
+              },
+              {
+                "attackBonus": 20,
+                "defenseBonus": 15,
+                "healthBonus": 15
+              }
+            ]
+          },
+          {
+            "bonusLevels": [
+              {
+                "attackBonus": 5,
+                "defenseBonus": 4,
+                "healthBonus": 4
+              },
+              {
+                "attackBonus": 10,
+                "defenseBonus": 8,
+                "healthBonus": 8
+              },
+              {
+                "attackBonus": 20,
+                "defenseBonus": 15,
+                "healthBonus": 15
+              },
+              {
+                "attackBonus": 25,
+                "defenseBonus": 20,
+                "healthBonus": 20
+              },
+              {
+                "attackBonus": 30,
+                "defenseBonus": 25,
+                "healthBonus": 25
+              }
+            ]
+          }
+        ],
+        "classType": "德鲁伊"
+      },
+      {
+        "bonusType": "Class",
+        "id": "rogue_improved",
+        "statBonuses": [
+          {
+            "bonusLevels": []
+          },
+          {
+            "bonusLevels": []
+          },
+          {
+            "bonusLevels": [
+              {
+                "attackBonus": 4,
+                "defenseBonus": 3,
+                "healthBonus": 3
+              },
+              {
+                "attackBonus": 7,
+                "defenseBonus": 5,
+                "healthBonus": 6
+              },
+              {
+                "attackBonus": 10,
+                "defenseBonus": 7,
+                "healthBonus": 9
+              },
+              {
+                "attackBonus": 15,
+                "defenseBonus": 10,
+                "healthBonus": 12
+              }
+            ]
+          },
+          {
+            "bonusLevels": [
+              {
+                "attackBonus": 4,
+                "defenseBonus": 3,
+                "healthBonus": 3
+              },
+              {
+                "attackBonus": 8,
+                "defenseBonus": 6,
+                "healthBonus": 6
+              },
+              {
+                "attackBonus": 12,
+                "defenseBonus": 9,
+                "healthBonus": 9
+              },
+              {
+                "attackBonus": 16,
+                "defenseBonus": 12,
+                "healthBonus": 12
+              },
+              {
+                "attackBonus": 20,
+                "defenseBonus": 15,
+                "healthBonus": 15
+              }
+            ]
+          },
+          {
+            "bonusLevels": [
+              {
+                "attackBonus": 5,
+                "defenseBonus": 4,
+                "healthBonus": 4
+              },
+              {
+                "attackBonus": 10,
+                "defenseBonus": 8,
+                "healthBonus": 8
+              },
+              {
+                "attackBonus": 20,
+                "defenseBonus": 15,
+                "healthBonus": 15
+              },
+              {
+                "attackBonus": 25,
+                "defenseBonus": 20,
+                "healthBonus": 20
+              },
+              {
+                "attackBonus": 30,
+                "defenseBonus": 25,
+                "healthBonus": 25
+              }
+            ]
+          }
+        ],
+        "classType": "盗贼"
+      },
+      {
+        "bonusType": "Class",
+        "id": "cleric_improved",
+        "statBonuses": [
+          {
+            "bonusLevels": []
+          },
+          {
+            "bonusLevels": []
+          },
+          {
+            "bonusLevels": [
+              {
+                "attackBonus": 4,
+                "defenseBonus": 3,
+                "healthBonus": 3
+              },
+              {
+                "attackBonus": 7,
+                "defenseBonus": 5,
+                "healthBonus": 6
+              },
+              {
+                "attackBonus": 10,
+                "defenseBonus": 7,
+                "healthBonus": 9
+              },
+              {
+                "attackBonus": 15,
+                "defenseBonus": 10,
+                "healthBonus": 12
+              }
+            ]
+          },
+          {
+            "bonusLevels": [
+              {
+                "attackBonus": 4,
+                "defenseBonus": 3,
+                "healthBonus": 3
+              },
+              {
+                "attackBonus": 8,
+                "defenseBonus": 6,
+                "healthBonus": 6
+              },
+              {
+                "attackBonus": 12,
+                "defenseBonus": 9,
+                "healthBonus": 9
+              },
+              {
+                "attackBonus": 16,
+                "defenseBonus": 12,
+                "healthBonus": 12
+              },
+              {
+                "attackBonus": 20,
+                "defenseBonus": 15,
+                "healthBonus": 15
+              }
+            ]
+          },
+          {
+            "bonusLevels": [
+              {
+                "attackBonus": 5,
+                "defenseBonus": 4,
+                "healthBonus": 4
+              },
+              {
+                "attackBonus": 10,
+                "defenseBonus": 8,
+                "healthBonus": 8
+              },
+              {
+                "attackBonus": 20,
+                "defenseBonus": 15,
+                "healthBonus": 15
+              },
+              {
+                "attackBonus": 25,
+                "defenseBonus": 20,
+                "healthBonus": 20
+              },
+              {
+                "attackBonus": 30,
+                "defenseBonus": 25,
+                "healthBonus": 25
+              }
+            ]
+          }
+        ],
+        "classType": "牧师"
+      },
+      {
+        "bonusType": "Class",
+        "id": "wizard_improved",
+        "statBonuses": [
+          {
+            "bonusLevels": []
+          },
+          {
+            "bonusLevels": []
+          },
+          {
+            "bonusLevels": [
+              {
+                "attackBonus": 4,
+                "defenseBonus": 3,
+                "healthBonus": 3
+              },
+              {
+                "attackBonus": 7,
+                "defenseBonus": 5,
+                "healthBonus": 6
+              },
+              {
+                "attackBonus": 10,
+                "defenseBonus": 7,
+                "healthBonus": 9
+              },
+              {
+                "attackBonus": 15,
+                "defenseBonus": 10,
+                "healthBonus": 12
+              }
+            ]
+          },
+          {
+            "bonusLevels": [
+              {
+                "attackBonus": 4,
+                "defenseBonus": 3,
+                "healthBonus": 3
+              },
+              {
+                "attackBonus": 8,
+                "defenseBonus": 6,
+                "healthBonus": 6
+              },
+              {
+                "attackBonus": 12,
+                "defenseBonus": 9,
+                "healthBonus": 9
+              },
+              {
+                "attackBonus": 16,
+                "defenseBonus": 12,
+                "healthBonus": 12
+              },
+              {
+                "attackBonus": 20,
+                "defenseBonus": 15,
+                "healthBonus": 15
+              }
+            ]
+          },
+          {
+            "bonusLevels": [
+              {
+                "attackBonus": 5,
+                "defenseBonus": 4,
+                "healthBonus": 4
+              },
+              {
+                "attackBonus": 10,
+                "defenseBonus": 8,
+                "healthBonus": 8
+              },
+              {
+                "attackBonus": 20,
+                "defenseBonus": 15,
+                "healthBonus": 15
+              },
+              {
+                "attackBonus": 25,
+                "defenseBonus": 20,
+                "healthBonus": 20
+              },
+              {
+                "attackBonus": 30,
+                "defenseBonus": 25,
+                "healthBonus": 25
+              }
+            ]
+          }
+        ],
+        "classType": "巫师"
+      },
+      {
+        "bonusType": "Class",
+        "id": "barbarian_improved",
+        "statBonuses": [
+          {
+            "bonusLevels": []
+          },
+          {
+            "bonusLevels": []
+          },
+          {
+            "bonusLevels": [
+              {
+                "attackBonus": 4,
+                "defenseBonus": 3,
+                "healthBonus": 3
+              },
+              {
+                "attackBonus": 7,
+                "defenseBonus": 5,
+                "healthBonus": 6
+              },
+              {
+                "attackBonus": 10,
+                "defenseBonus": 7,
+                "healthBonus": 9
+              },
+              {
+                "attackBonus": 15,
+                "defenseBonus": 10,
+                "healthBonus": 12
+              }
+            ]
+          },
+          {
+            "bonusLevels": [
+              {
+                "attackBonus": 4,
+                "defenseBonus": 3,
+                "healthBonus": 3
+              },
+              {
+                "attackBonus": 8,
+                "defenseBonus": 6,
+                "healthBonus": 6
+              },
+              {
+                "attackBonus": 12,
+                "defenseBonus": 9,
+                "healthBonus": 9
+              },
+              {
+                "attackBonus": 16,
+                "defenseBonus": 12,
+                "healthBonus": 12
+              },
+              {
+                "attackBonus": 20,
+                "defenseBonus": 15,
+                "healthBonus": 15
+              }
+            ]
+          },
+          {
+            "bonusLevels": [
+              {
+                "attackBonus": 5,
+                "defenseBonus": 4,
+                "healthBonus": 4
+              },
+              {
+                "attackBonus": 10,
+                "defenseBonus": 8,
+                "healthBonus": 8
+              },
+              {
+                "attackBonus": 20,
+                "defenseBonus": 15,
+                "healthBonus": 15
+              },
+              {
+                "attackBonus": 25,
+                "defenseBonus": 20,
+                "healthBonus": 20
+              },
+              {
+                "attackBonus": 30,
+                "defenseBonus": 25,
+                "healthBonus": 25
+              }
+            ]
+          }
+        ],
+        "classType": "野蛮人"
+      },
+      {
+        "bonusType": "Class",
+        "id": "ranger_improved",
+        "statBonuses": [
+          {
+            "bonusLevels": []
+          },
+          {
+            "bonusLevels": []
+          },
+          {
+            "bonusLevels": [
+              {
+                "attackBonus": 4,
+                "defenseBonus": 3,
+                "healthBonus": 3
+              },
+              {
+                "attackBonus": 7,
+                "defenseBonus": 5,
+                "healthBonus": 6
+              },
+              {
+                "attackBonus": 10,
+                "defenseBonus": 7,
+                "healthBonus": 9
+              },
+              {
+                "attackBonus": 15,
+                "defenseBonus": 10,
+                "healthBonus": 12
+              }
+            ]
+          },
+          {
+            "bonusLevels": [
+              {
+                "attackBonus": 4,
+                "defenseBonus": 3,
+                "healthBonus": 3
+              },
+              {
+                "attackBonus": 8,
+                "defenseBonus": 6,
+                "healthBonus": 6
+              },
+              {
+                "attackBonus": 12,
+                "defenseBonus": 9,
+                "healthBonus": 9
+              },
+              {
+                "attackBonus": 16,
+                "defenseBonus": 12,
+                "healthBonus": 12
+              },
+              {
+                "attackBonus": 20,
+                "defenseBonus": 15,
+                "healthBonus": 15
+              }
+            ]
+          },
+          {
+            "bonusLevels": [
+              {
+                "attackBonus": 5,
+                "defenseBonus": 4,
+                "healthBonus": 4
+              },
+              {
+                "attackBonus": 10,
+                "defenseBonus": 8,
+                "healthBonus": 8
+              },
+              {
+                "attackBonus": 20,
+                "defenseBonus": 15,
+                "healthBonus": 15
+              },
+              {
+                "attackBonus": 25,
+                "defenseBonus": 20,
+                "healthBonus": 20
+              },
+              {
+                "attackBonus": 30,
+                "defenseBonus": 25,
+                "healthBonus": 25
+              }
+            ]
+          }
+        ],
+        "classType": "游侠"
+      },
+      {
+        "bonusType": "Class",
+        "id": "fighter_improved",
+        "statBonuses": [
+          {
+            "bonusLevels": []
+          },
+          {
+            "bonusLevels": []
+          },
+          {
+            "bonusLevels": [
+              {
+                "attackBonus": 4,
+                "defenseBonus": 3,
+                "healthBonus": 3
+              },
+              {
+                "attackBonus": 7,
+                "defenseBonus": 5,
+                "healthBonus": 6
+              },
+              {
+                "attackBonus": 10,
+                "defenseBonus": 7,
+                "healthBonus": 9
+              },
+              {
+                "attackBonus": 15,
+                "defenseBonus": 10,
+                "healthBonus": 12
+              }
+            ]
+          },
+          {
+            "bonusLevels": [
+              {
+                "attackBonus": 4,
+                "defenseBonus": 3,
+                "healthBonus": 3
+              },
+              {
+                "attackBonus": 8,
+                "defenseBonus": 6,
+                "healthBonus": 6
+              },
+              {
+                "attackBonus": 12,
+                "defenseBonus": 9,
+                "healthBonus": 9
+              },
+              {
+                "attackBonus": 16,
+                "defenseBonus": 12,
+                "healthBonus": 12
+              },
+              {
+                "attackBonus": 20,
+                "defenseBonus": 15,
+                "healthBonus": 15
+              }
+            ]
+          },
+          {
+            "bonusLevels": [
+              {
+                "attackBonus": 5,
+                "defenseBonus": 4,
+                "healthBonus": 4
+              },
+              {
+                "attackBonus": 10,
+                "defenseBonus": 8,
+                "healthBonus": 8
+              },
+              {
+                "attackBonus": 20,
+                "defenseBonus": 15,
+                "healthBonus": 15
+              },
+              {
+                "attackBonus": 25,
+                "defenseBonus": 20,
+                "healthBonus": 20
+              },
+              {
+                "attackBonus": 30,
+                "defenseBonus": 25,
+                "healthBonus": 25
+              }
+            ]
+          }
+        ],
+        "classType": "战士"
+      },
+      {
+        "bonusType": "Element",
+        "id": "red_ancient",
+        "statBonuses": [
+          {
+            "bonusLevels": []
+          },
+          {
+            "bonusLevels": []
+          },
+          {
+            "bonusLevels": [
+              {
+                "attackBonus": 4,
+                "defenseBonus": 3,
+                "healthBonus": 3
+              },
+              {
+                "attackBonus": 7,
+                "defenseBonus": 5,
+                "healthBonus": 6
+              },
+              {
+                "attackBonus": 10,
+                "defenseBonus": 7,
+                "healthBonus": 9
+              },
+              {
+                "attackBonus": 15,
+                "defenseBonus": 10,
+                "healthBonus": 12
+              }
+            ]
+          },
+          {
+            "bonusLevels": [
+              {
+                "attackBonus": 4,
+                "defenseBonus": 3,
+                "healthBonus": 3
+              },
+              {
+                "attackBonus": 8,
+                "defenseBonus": 6,
+                "healthBonus": 6
+              },
+              {
+                "attackBonus": 12,
+                "defenseBonus": 9,
+                "healthBonus": 9
+              },
+              {
+                "attackBonus": 16,
+                "defenseBonus": 12,
+                "healthBonus": 12
+              },
+              {
+                "attackBonus": 20,
+                "defenseBonus": 15,
+                "healthBonus": 15
+              }
+            ]
+          },
+          {
+            "bonusLevels": [
+              {
+                "attackBonus": 10,
+                "defenseBonus": 5,
+                "healthBonus": 5
+              },
+              {
+                "attackBonus": 15,
+                "defenseBonus": 10,
+                "healthBonus": 10
+              },
+              {
+                "attackBonus": 25,
+                "defenseBonus": 20,
+                "healthBonus": 20
+              },
+              {
+                "attackBonus": 30,
+                "defenseBonus": 25,
+                "healthBonus": 25
+              },
+              {
+                "attackBonus": 35,
+                "defenseBonus": 30,
+                "healthBonus": 30
+              }
+            ]
+          }
+        ],
+        "element": "红"
+      },
+      {
+        "bonusType": "Element",
+        "id": "green_ancient",
+        "statBonuses": [
+          {
+            "bonusLevels": []
+          },
+          {
+            "bonusLevels": []
+          },
+          {
+            "bonusLevels": [
+              {
+                "attackBonus": 4,
+                "defenseBonus": 3,
+                "healthBonus": 3
+              },
+              {
+                "attackBonus": 7,
+                "defenseBonus": 5,
+                "healthBonus": 6
+              },
+              {
+                "attackBonus": 10,
+                "defenseBonus": 7,
+                "healthBonus": 9
+              },
+              {
+                "attackBonus": 15,
+                "defenseBonus": 10,
+                "healthBonus": 12
+              }
+            ]
+          },
+          {
+            "bonusLevels": [
+              {
+                "attackBonus": 4,
+                "defenseBonus": 3,
+                "healthBonus": 3
+              },
+              {
+                "attackBonus": 8,
+                "defenseBonus": 6,
+                "healthBonus": 6
+              },
+              {
+                "attackBonus": 12,
+                "defenseBonus": 9,
+                "healthBonus": 9
+              },
+              {
+                "attackBonus": 16,
+                "defenseBonus": 12,
+                "healthBonus": 12
+              },
+              {
+                "attackBonus": 20,
+                "defenseBonus": 15,
+                "healthBonus": 15
+              }
+            ]
+          },
+          {
+            "bonusLevels": [
+              {
+                "attackBonus": 10,
+                "defenseBonus": 5,
+                "healthBonus": 5
+              },
+              {
+                "attackBonus": 15,
+                "defenseBonus": 10,
+                "healthBonus": 10
+              },
+              {
+                "attackBonus": 25,
+                "defenseBonus": 20,
+                "healthBonus": 20
+              },
+              {
+                "attackBonus": 30,
+                "defenseBonus": 25,
+                "healthBonus": 25
+              },
+              {
+                "attackBonus": 35,
+                "defenseBonus": 30,
+                "healthBonus": 30
+              }
+            ]
+          }
+        ],
+        "element": "绿"
+      },
+      {
+        "bonusType": "Element",
+        "id": "blue_ancient",
+        "statBonuses": [
+          {
+            "bonusLevels": []
+          },
+          {
+            "bonusLevels": []
+          },
+          {
+            "bonusLevels": [
+              {
+                "attackBonus": 4,
+                "defenseBonus": 3,
+                "healthBonus": 3
+              },
+              {
+                "attackBonus": 7,
+                "defenseBonus": 5,
+                "healthBonus": 6
+              },
+              {
+                "attackBonus": 10,
+                "defenseBonus": 7,
+                "healthBonus": 9
+              },
+              {
+                "attackBonus": 15,
+                "defenseBonus": 10,
+                "healthBonus": 12
+              }
+            ]
+          },
+          {
+            "bonusLevels": [
+              {
+                "attackBonus": 4,
+                "defenseBonus": 3,
+                "healthBonus": 3
+              },
+              {
+                "attackBonus": 8,
+                "defenseBonus": 6,
+                "healthBonus": 6
+              },
+              {
+                "attackBonus": 12,
+                "defenseBonus": 9,
+                "healthBonus": 9
+              },
+              {
+                "attackBonus": 16,
+                "defenseBonus": 12,
+                "healthBonus": 12
+              },
+              {
+                "attackBonus": 20,
+                "defenseBonus": 15,
+                "healthBonus": 15
+              }
+            ]
+          },
+          {
+            "bonusLevels": [
+              {
+                "attackBonus": 10,
+                "defenseBonus": 5,
+                "healthBonus": 5
+              },
+              {
+                "attackBonus": 15,
+                "defenseBonus": 10,
+                "healthBonus": 10
+              },
+              {
+                "attackBonus": 25,
+                "defenseBonus": 20,
+                "healthBonus": 20
+              },
+              {
+                "attackBonus": 30,
+                "defenseBonus": 25,
+                "healthBonus": 25
+              },
+              {
+                "attackBonus": 35,
+                "defenseBonus": 30,
+                "healthBonus": 30
+              }
+            ]
+          }
+        ],
+        "element": "蓝"
+      },
+      {
+        "bonusType": "Element",
+        "id": "purple_ancient",
+        "statBonuses": [
+          {
+            "bonusLevels": []
+          },
+          {
+            "bonusLevels": []
+          },
+          {
+            "bonusLevels": [
+              {
+                "attackBonus": 4,
+                "defenseBonus": 3,
+                "healthBonus": 3
+              },
+              {
+                "attackBonus": 7,
+                "defenseBonus": 5,
+                "healthBonus": 6
+              },
+              {
+                "attackBonus": 10,
+                "defenseBonus": 7,
+                "healthBonus": 9
+              },
+              {
+                "attackBonus": 15,
+                "defenseBonus": 10,
+                "healthBonus": 12
+              }
+            ]
+          },
+          {
+            "bonusLevels": [
+              {
+                "attackBonus": 4,
+                "defenseBonus": 3,
+                "healthBonus": 3
+              },
+              {
+                "attackBonus": 8,
+                "defenseBonus": 6,
+                "healthBonus": 6
+              },
+              {
+                "attackBonus": 12,
+                "defenseBonus": 9,
+                "healthBonus": 9
+              },
+              {
+                "attackBonus": 16,
+                "defenseBonus": 12,
+                "healthBonus": 12
+              },
+              {
+                "attackBonus": 20,
+                "defenseBonus": 15,
+                "healthBonus": 15
+              }
+            ]
+          },
+          {
+            "bonusLevels": [
+              {
+                "attackBonus": 10,
+                "defenseBonus": 5,
+                "healthBonus": 5
+              },
+              {
+                "attackBonus": 15,
+                "defenseBonus": 10,
+                "healthBonus": 10
+              },
+              {
+                "attackBonus": 25,
+                "defenseBonus": 20,
+                "healthBonus": 20
+              },
+              {
+                "attackBonus": 30,
+                "defenseBonus": 25,
+                "healthBonus": 25
+              },
+              {
+                "attackBonus": 35,
+                "defenseBonus": 30,
+                "healthBonus": 30
+              }
+            ]
+          }
+        ],
+        "element": "紫"
+      },
+      {
+        "bonusType": "Element",
+        "id": "yellow_ancient",
+        "statBonuses": [
+          {
+            "bonusLevels": []
+          },
+          {
+            "bonusLevels": []
+          },
+          {
+            "bonusLevels": [
+              {
+                "attackBonus": 4,
+                "defenseBonus": 3,
+                "healthBonus": 3
+              },
+              {
+                "attackBonus": 7,
+                "defenseBonus": 5,
+                "healthBonus": 6
+              },
+              {
+                "attackBonus": 10,
+                "defenseBonus": 7,
+                "healthBonus": 9
+              },
+              {
+                "attackBonus": 15,
+                "defenseBonus": 10,
+                "healthBonus": 12
+              }
+            ]
+          },
+          {
+            "bonusLevels": [
+              {
+                "attackBonus": 4,
+                "defenseBonus": 3,
+                "healthBonus": 3
+              },
+              {
+                "attackBonus": 8,
+                "defenseBonus": 6,
+                "healthBonus": 6
+              },
+              {
+                "attackBonus": 12,
+                "defenseBonus": 9,
+                "healthBonus": 9
+              },
+              {
+                "attackBonus": 16,
+                "defenseBonus": 12,
+                "healthBonus": 12
+              },
+              {
+                "attackBonus": 20,
+                "defenseBonus": 15,
+                "healthBonus": 15
+              }
+            ]
+          },
+          {
+            "bonusLevels": [
+              {
+                "attackBonus": 10,
+                "defenseBonus": 5,
+                "healthBonus": 5
+              },
+              {
+                "attackBonus": 15,
+                "defenseBonus": 10,
+                "healthBonus": 10
+              },
+              {
+                "attackBonus": 25,
+                "defenseBonus": 20,
+                "healthBonus": 20
+              },
+              {
+                "attackBonus": 30,
+                "defenseBonus": 25,
+                "healthBonus": 25
+              },
+              {
+                "attackBonus": 35,
+                "defenseBonus": 30,
+                "healthBonus": 30
+              }
+            ]
+          }
+        ],
+        "element": "黄"
+      },
+      {
+        "bonusType": "Class",
+        "id": "paladin_ancient",
+        "statBonuses": [
+          {
+            "bonusLevels": []
+          },
+          {
+            "bonusLevels": []
+          },
+          {
+            "bonusLevels": [
+              {
+                "attackBonus": 4,
+                "defenseBonus": 3,
+                "healthBonus": 3
+              },
+              {
+                "attackBonus": 7,
+                "defenseBonus": 5,
+                "healthBonus": 6
+              },
+              {
+                "attackBonus": 10,
+                "defenseBonus": 7,
+                "healthBonus": 9
+              },
+              {
+                "attackBonus": 15,
+                "defenseBonus": 10,
+                "healthBonus": 12
+              }
+            ]
+          },
+          {
+            "bonusLevels": [
+              {
+                "attackBonus": 4,
+                "defenseBonus": 3,
+                "healthBonus": 3
+              },
+              {
+                "attackBonus": 8,
+                "defenseBonus": 6,
+                "healthBonus": 6
+              },
+              {
+                "attackBonus": 12,
+                "defenseBonus": 9,
+                "healthBonus": 9
+              },
+              {
+                "attackBonus": 16,
+                "defenseBonus": 12,
+                "healthBonus": 12
+              },
+              {
+                "attackBonus": 20,
+                "defenseBonus": 15,
+                "healthBonus": 15
+              }
+            ]
+          },
+          {
+            "bonusLevels": [
+              {
+                "attackBonus": 10,
+                "defenseBonus": 5,
+                "healthBonus": 5
+              },
+              {
+                "attackBonus": 15,
+                "defenseBonus": 10,
+                "healthBonus": 10
+              },
+              {
+                "attackBonus": 25,
+                "defenseBonus": 20,
+                "healthBonus": 20
+              },
+              {
+                "attackBonus": 30,
+                "defenseBonus": 25,
+                "healthBonus": 25
+              },
+              {
+                "attackBonus": 35,
+                "defenseBonus": 30,
+                "healthBonus": 30
+              }
+            ]
+          }
+        ],
+        "classType": "圣骑士"
+      },
+      {
+        "bonusType": "Class",
+        "id": "sorcerer_ancient",
+        "statBonuses": [
+          {
+            "bonusLevels": []
+          },
+          {
+            "bonusLevels": []
+          },
+          {
+            "bonusLevels": [
+              {
+                "attackBonus": 4,
+                "defenseBonus": 3,
+                "healthBonus": 3
+              },
+              {
+                "attackBonus": 7,
+                "defenseBonus": 5,
+                "healthBonus": 6
+              },
+              {
+                "attackBonus": 10,
+                "defenseBonus": 7,
+                "healthBonus": 9
+              },
+              {
+                "attackBonus": 15,
+                "defenseBonus": 10,
+                "healthBonus": 12
+              }
+            ]
+          },
+          {
+            "bonusLevels": [
+              {
+                "attackBonus": 4,
+                "defenseBonus": 3,
+                "healthBonus": 3
+              },
+              {
+                "attackBonus": 8,
+                "defenseBonus": 6,
+                "healthBonus": 6
+              },
+              {
+                "attackBonus": 12,
+                "defenseBonus": 9,
+                "healthBonus": 9
+              },
+              {
+                "attackBonus": 16,
+                "defenseBonus": 12,
+                "healthBonus": 12
+              },
+              {
+                "attackBonus": 20,
+                "defenseBonus": 15,
+                "healthBonus": 15
+              }
+            ]
+          },
+          {
+            "bonusLevels": [
+              {
+                "attackBonus": 10,
+                "defenseBonus": 5,
+                "healthBonus": 5
+              },
+              {
+                "attackBonus": 15,
+                "defenseBonus": 10,
+                "healthBonus": 10
+              },
+              {
+                "attackBonus": 25,
+                "defenseBonus": 20,
+                "healthBonus": 20
+              },
+              {
+                "attackBonus": 30,
+                "defenseBonus": 25,
+                "healthBonus": 25
+              },
+              {
+                "attackBonus": 35,
+                "defenseBonus": 30,
+                "healthBonus": 30
+              }
+            ]
+          }
+        ],
+        "classType": "术士"
+      },
+      {
+        "bonusType": "Class",
+        "id": "monk_ancient",
+        "statBonuses": [
+          {
+            "bonusLevels": []
+          },
+          {
+            "bonusLevels": []
+          },
+          {
+            "bonusLevels": [
+              {
+                "attackBonus": 4,
+                "defenseBonus": 3,
+                "healthBonus": 3
+              },
+              {
+                "attackBonus": 7,
+                "defenseBonus": 5,
+                "healthBonus": 6
+              },
+              {
+                "attackBonus": 10,
+                "defenseBonus": 7,
+                "healthBonus": 9
+              },
+              {
+                "attackBonus": 15,
+                "defenseBonus": 10,
+                "healthBonus": 12
+              }
+            ]
+          },
+          {
+            "bonusLevels": [
+              {
+                "attackBonus": 4,
+                "defenseBonus": 3,
+                "healthBonus": 3
+              },
+              {
+                "attackBonus": 8,
+                "defenseBonus": 6,
+                "healthBonus": 6
+              },
+              {
+                "attackBonus": 12,
+                "defenseBonus": 9,
+                "healthBonus": 9
+              },
+              {
+                "attackBonus": 16,
+                "defenseBonus": 12,
+                "healthBonus": 12
+              },
+              {
+                "attackBonus": 20,
+                "defenseBonus": 15,
+                "healthBonus": 15
+              }
+            ]
+          },
+          {
+            "bonusLevels": [
+              {
+                "attackBonus": 10,
+                "defenseBonus": 5,
+                "healthBonus": 5
+              },
+              {
+                "attackBonus": 15,
+                "defenseBonus": 10,
+                "healthBonus": 10
+              },
+              {
+                "attackBonus": 25,
+                "defenseBonus": 20,
+                "healthBonus": 20
+              },
+              {
+                "attackBonus": 30,
+                "defenseBonus": 25,
+                "healthBonus": 25
+              },
+              {
+                "attackBonus": 35,
+                "defenseBonus": 30,
+                "healthBonus": 30
+              }
+            ]
+          }
+        ],
+        "classType": "僧侣"
+      },
+      {
+        "bonusType": "Class",
+        "id": "druid_ancient",
+        "statBonuses": [
+          {
+            "bonusLevels": []
+          },
+          {
+            "bonusLevels": []
+          },
+          {
+            "bonusLevels": [
+              {
+                "attackBonus": 4,
+                "defenseBonus": 3,
+                "healthBonus": 3
+              },
+              {
+                "attackBonus": 7,
+                "defenseBonus": 5,
+                "healthBonus": 6
+              },
+              {
+                "attackBonus": 10,
+                "defenseBonus": 7,
+                "healthBonus": 9
+              },
+              {
+                "attackBonus": 15,
+                "defenseBonus": 10,
+                "healthBonus": 12
+              }
+            ]
+          },
+          {
+            "bonusLevels": [
+              {
+                "attackBonus": 4,
+                "defenseBonus": 3,
+                "healthBonus": 3
+              },
+              {
+                "attackBonus": 8,
+                "defenseBonus": 6,
+                "healthBonus": 6
+              },
+              {
+                "attackBonus": 12,
+                "defenseBonus": 9,
+                "healthBonus": 9
+              },
+              {
+                "attackBonus": 16,
+                "defenseBonus": 12,
+                "healthBonus": 12
+              },
+              {
+                "attackBonus": 20,
+                "defenseBonus": 15,
+                "healthBonus": 15
+              }
+            ]
+          },
+          {
+            "bonusLevels": [
+              {
+                "attackBonus": 10,
+                "defenseBonus": 5,
+                "healthBonus": 5
+              },
+              {
+                "attackBonus": 15,
+                "defenseBonus": 10,
+                "healthBonus": 10
+              },
+              {
+                "attackBonus": 25,
+                "defenseBonus": 20,
+                "healthBonus": 20
+              },
+              {
+                "attackBonus": 30,
+                "defenseBonus": 25,
+                "healthBonus": 25
+              },
+              {
+                "attackBonus": 35,
+                "defenseBonus": 30,
+                "healthBonus": 30
+              }
+            ]
+          }
+        ],
+        "classType": "德鲁伊"
+      },
+      {
+        "bonusType": "Class",
+        "id": "rogue_ancient",
+        "statBonuses": [
+          {
+            "bonusLevels": []
+          },
+          {
+            "bonusLevels": []
+          },
+          {
+            "bonusLevels": [
+              {
+                "attackBonus": 4,
+                "defenseBonus": 3,
+                "healthBonus": 3
+              },
+              {
+                "attackBonus": 7,
+                "defenseBonus": 5,
+                "healthBonus": 6
+              },
+              {
+                "attackBonus": 10,
+                "defenseBonus": 7,
+                "healthBonus": 9
+              },
+              {
+                "attackBonus": 15,
+                "defenseBonus": 10,
+                "healthBonus": 12
+              }
+            ]
+          },
+          {
+            "bonusLevels": [
+              {
+                "attackBonus": 4,
+                "defenseBonus": 3,
+                "healthBonus": 3
+              },
+              {
+                "attackBonus": 8,
+                "defenseBonus": 6,
+                "healthBonus": 6
+              },
+              {
+                "attackBonus": 12,
+                "defenseBonus": 9,
+                "healthBonus": 9
+              },
+              {
+                "attackBonus": 16,
+                "defenseBonus": 12,
+                "healthBonus": 12
+              },
+              {
+                "attackBonus": 20,
+                "defenseBonus": 15,
+                "healthBonus": 15
+              }
+            ]
+          },
+          {
+            "bonusLevels": [
+              {
+                "attackBonus": 10,
+                "defenseBonus": 5,
+                "healthBonus": 5
+              },
+              {
+                "attackBonus": 15,
+                "defenseBonus": 10,
+                "healthBonus": 10
+              },
+              {
+                "attackBonus": 25,
+                "defenseBonus": 20,
+                "healthBonus": 20
+              },
+              {
+                "attackBonus": 30,
+                "defenseBonus": 25,
+                "healthBonus": 25
+              },
+              {
+                "attackBonus": 35,
+                "defenseBonus": 30,
+                "healthBonus": 30
+              }
+            ]
+          }
+        ],
+        "classType": "德鲁伊"
+      },
+      {
+        "bonusType": "Class",
+        "id": "cleric_ancient",
+        "statBonuses": [
+          {
+            "bonusLevels": []
+          },
+          {
+            "bonusLevels": []
+          },
+          {
+            "bonusLevels": [
+              {
+                "attackBonus": 4,
+                "defenseBonus": 3,
+                "healthBonus": 3
+              },
+              {
+                "attackBonus": 7,
+                "defenseBonus": 5,
+                "healthBonus": 6
+              },
+              {
+                "attackBonus": 10,
+                "defenseBonus": 7,
+                "healthBonus": 9
+              },
+              {
+                "attackBonus": 15,
+                "defenseBonus": 10,
+                "healthBonus": 12
+              }
+            ]
+          },
+          {
+            "bonusLevels": [
+              {
+                "attackBonus": 4,
+                "defenseBonus": 3,
+                "healthBonus": 3
+              },
+              {
+                "attackBonus": 8,
+                "defenseBonus": 6,
+                "healthBonus": 6
+              },
+              {
+                "attackBonus": 12,
+                "defenseBonus": 9,
+                "healthBonus": 9
+              },
+              {
+                "attackBonus": 16,
+                "defenseBonus": 12,
+                "healthBonus": 12
+              },
+              {
+                "attackBonus": 20,
+                "defenseBonus": 15,
+                "healthBonus": 15
+              }
+            ]
+          },
+          {
+            "bonusLevels": [
+              {
+                "attackBonus": 10,
+                "defenseBonus": 5,
+                "healthBonus": 5
+              },
+              {
+                "attackBonus": 15,
+                "defenseBonus": 10,
+                "healthBonus": 10
+              },
+              {
+                "attackBonus": 25,
+                "defenseBonus": 20,
+                "healthBonus": 20
+              },
+              {
+                "attackBonus": 30,
+                "defenseBonus": 25,
+                "healthBonus": 25
+              },
+              {
+                "attackBonus": 35,
+                "defenseBonus": 30,
+                "healthBonus": 30
+              }
+            ]
+          }
+        ],
+        "classType": "牧师"
+      },
+      {
+        "bonusType": "Class",
+        "id": "wizard_ancient",
+        "statBonuses": [
+          {
+            "bonusLevels": []
+          },
+          {
+            "bonusLevels": []
+          },
+          {
+            "bonusLevels": [
+              {
+                "attackBonus": 4,
+                "defenseBonus": 3,
+                "healthBonus": 3
+              },
+              {
+                "attackBonus": 7,
+                "defenseBonus": 5,
+                "healthBonus": 6
+              },
+              {
+                "attackBonus": 10,
+                "defenseBonus": 7,
+                "healthBonus": 9
+              },
+              {
+                "attackBonus": 15,
+                "defenseBonus": 10,
+                "healthBonus": 12
+              }
+            ]
+          },
+          {
+            "bonusLevels": [
+              {
+                "attackBonus": 4,
+                "defenseBonus": 3,
+                "healthBonus": 3
+              },
+              {
+                "attackBonus": 8,
+                "defenseBonus": 6,
+                "healthBonus": 6
+              },
+              {
+                "attackBonus": 12,
+                "defenseBonus": 9,
+                "healthBonus": 9
+              },
+              {
+                "attackBonus": 16,
+                "defenseBonus": 12,
+                "healthBonus": 12
+              },
+              {
+                "attackBonus": 20,
+                "defenseBonus": 15,
+                "healthBonus": 15
+              }
+            ]
+          },
+          {
+            "bonusLevels": [
+              {
+                "attackBonus": 10,
+                "defenseBonus": 5,
+                "healthBonus": 5
+              },
+              {
+                "attackBonus": 15,
+                "defenseBonus": 10,
+                "healthBonus": 10
+              },
+              {
+                "attackBonus": 25,
+                "defenseBonus": 20,
+                "healthBonus": 20
+              },
+              {
+                "attackBonus": 30,
+                "defenseBonus": 25,
+                "healthBonus": 25
+              },
+              {
+                "attackBonus": 35,
+                "defenseBonus": 30,
+                "healthBonus": 30
+              }
+            ]
+          }
+        ],
+        "classType": "巫师"
+      },
+      {
+        "bonusType": "Class",
+        "id": "barbarian_ancient",
+        "statBonuses": [
+          {
+            "bonusLevels": []
+          },
+          {
+            "bonusLevels": []
+          },
+          {
+            "bonusLevels": [
+              {
+                "attackBonus": 4,
+                "defenseBonus": 3,
+                "healthBonus": 3
+              },
+              {
+                "attackBonus": 7,
+                "defenseBonus": 5,
+                "healthBonus": 6
+              },
+              {
+                "attackBonus": 10,
+                "defenseBonus": 7,
+                "healthBonus": 9
+              },
+              {
+                "attackBonus": 15,
+                "defenseBonus": 10,
+                "healthBonus": 12
+              }
+            ]
+          },
+          {
+            "bonusLevels": [
+              {
+                "attackBonus": 4,
+                "defenseBonus": 3,
+                "healthBonus": 3
+              },
+              {
+                "attackBonus": 8,
+                "defenseBonus": 6,
+                "healthBonus": 6
+              },
+              {
+                "attackBonus": 12,
+                "defenseBonus": 9,
+                "healthBonus": 9
+              },
+              {
+                "attackBonus": 16,
+                "defenseBonus": 12,
+                "healthBonus": 12
+              },
+              {
+                "attackBonus": 20,
+                "defenseBonus": 15,
+                "healthBonus": 15
+              }
+            ]
+          },
+          {
+            "bonusLevels": [
+              {
+                "attackBonus": 10,
+                "defenseBonus": 5,
+                "healthBonus": 5
+              },
+              {
+                "attackBonus": 15,
+                "defenseBonus": 10,
+                "healthBonus": 10
+              },
+              {
+                "attackBonus": 25,
+                "defenseBonus": 20,
+                "healthBonus": 20
+              },
+              {
+                "attackBonus": 30,
+                "defenseBonus": 25,
+                "healthBonus": 25
+              },
+              {
+                "attackBonus": 35,
+                "defenseBonus": 30,
+                "healthBonus": 30
+              }
+            ]
+          }
+        ],
+        "classType": "野蛮人"
+      },
+      {
+        "bonusType": "Class",
+        "id": "ranger_ancient",
+        "statBonuses": [
+          {
+            "bonusLevels": []
+          },
+          {
+            "bonusLevels": []
+          },
+          {
+            "bonusLevels": [
+              {
+                "attackBonus": 4,
+                "defenseBonus": 3,
+                "healthBonus": 3
+              },
+              {
+                "attackBonus": 7,
+                "defenseBonus": 5,
+                "healthBonus": 6
+              },
+              {
+                "attackBonus": 10,
+                "defenseBonus": 7,
+                "healthBonus": 9
+              },
+              {
+                "attackBonus": 15,
+                "defenseBonus": 10,
+                "healthBonus": 12
+              }
+            ]
+          },
+          {
+            "bonusLevels": [
+              {
+                "attackBonus": 4,
+                "defenseBonus": 3,
+                "healthBonus": 3
+              },
+              {
+                "attackBonus": 8,
+                "defenseBonus": 6,
+                "healthBonus": 6
+              },
+              {
+                "attackBonus": 12,
+                "defenseBonus": 9,
+                "healthBonus": 9
+              },
+              {
+                "attackBonus": 16,
+                "defenseBonus": 12,
+                "healthBonus": 12
+              },
+              {
+                "attackBonus": 20,
+                "defenseBonus": 15,
+                "healthBonus": 15
+              }
+            ]
+          },
+          {
+            "bonusLevels": [
+              {
+                "attackBonus": 10,
+                "defenseBonus": 5,
+                "healthBonus": 5
+              },
+              {
+                "attackBonus": 15,
+                "defenseBonus": 10,
+                "healthBonus": 10
+              },
+              {
+                "attackBonus": 25,
+                "defenseBonus": 20,
+                "healthBonus": 20
+              },
+              {
+                "attackBonus": 30,
+                "defenseBonus": 25,
+                "healthBonus": 25
+              },
+              {
+                "attackBonus": 35,
+                "defenseBonus": 30,
+                "healthBonus": 30
+              }
+            ]
+          }
+        ],
+        "classType": "游侠"
+      },
+      {
+        "bonusType": "Class",
+        "id": "fighter_ancient",
+        "statBonuses": [
+          {
+            "bonusLevels": []
+          },
+          {
+            "bonusLevels": []
+          },
+          {
+            "bonusLevels": [
+              {
+                "attackBonus": 4,
+                "defenseBonus": 3,
+                "healthBonus": 3
+              },
+              {
+                "attackBonus": 7,
+                "defenseBonus": 5,
+                "healthBonus": 6
+              },
+              {
+                "attackBonus": 10,
+                "defenseBonus": 7,
+                "healthBonus": 9
+              },
+              {
+                "attackBonus": 15,
+                "defenseBonus": 10,
+                "healthBonus": 12
+              }
+            ]
+          },
+          {
+            "bonusLevels": [
+              {
+                "attackBonus": 4,
+                "defenseBonus": 3,
+                "healthBonus": 3
+              },
+              {
+                "attackBonus": 8,
+                "defenseBonus": 6,
+                "healthBonus": 6
+              },
+              {
+                "attackBonus": 12,
+                "defenseBonus": 9,
+                "healthBonus": 9
+              },
+              {
+                "attackBonus": 16,
+                "defenseBonus": 12,
+                "healthBonus": 12
+              },
+              {
+                "attackBonus": 20,
+                "defenseBonus": 15,
+                "healthBonus": 15
+              }
+            ]
+          },
+          {
+            "bonusLevels": [
+              {
+                "attackBonus": 10,
+                "defenseBonus": 5,
+                "healthBonus": 5
+              },
+              {
+                "attackBonus": 15,
+                "defenseBonus": 10,
+                "healthBonus": 10
+              },
+              {
+                "attackBonus": 25,
+                "defenseBonus": 20,
+                "healthBonus": 20
+              },
+              {
+                "attackBonus": 30,
+                "defenseBonus": 25,
+                "healthBonus": 25
+              },
+              {
+                "attackBonus": 35,
+                "defenseBonus": 30,
+                "healthBonus": 30
+              }
+            ]
+          }
+        ],
+        "classType": "战士"
       }
     ],
     "tileBoosters": [
@@ -82126,7 +85164,10 @@
     "specialSkillManaIncreasesAreNotAffectedByModifiers": false,
     "assistSkillsUsedFirstInDefense": true,
     "riderHeroBoostConfig": {
-      "enabledBattleTypes": [],
+      "enabledBattleTypes": [
+        "DragonPvP",
+        "DragonPvpEvent"
+      ],
       "riderHeroDefenseBonusMultiplierPerMil": 3000,
       "riderHeroHealthBonusMultiplierPerMil": 3000
     },
@@ -82186,8 +85227,13 @@
           {
             "sideAffected": "Allies",
             "effectType": "Heal",
-            "fixedPower": 55,
-            "fixedPowerIncrementPerLevel": 55
+            "fixedPower": 408,
+            "fixedPowerIncrementPerLevel": 38
+          },
+          {
+            "effectType": "Damage",
+            "fixedPower": 220,
+            "fixedPowerIncrementPerLevel": 20
           }
         ],
         "statusEffects": [
@@ -82205,8 +85251,13 @@
           {
             "sideAffected": "Allies",
             "effectType": "Heal",
-            "fixedPower": 50,
-            "fixedPowerIncrementPerLevel": 50
+            "fixedPower": 385,
+            "fixedPowerIncrementPerLevel": 35
+          },
+          {
+            "effectType": "Damage",
+            "fixedPower": 220,
+            "fixedPowerIncrementPerLevel": 20
           }
         ],
         "statusEffects": [
@@ -82224,8 +85275,13 @@
           {
             "sideAffected": "Allies",
             "effectType": "Heal",
-            "fixedPower": 75,
-            "fixedPowerIncrementPerLevel": 75
+            "fixedPower": 518,
+            "fixedPowerIncrementPerLevel": 48
+          },
+          {
+            "effectType": "Damage",
+            "fixedPower": 220,
+            "fixedPowerIncrementPerLevel": 20
           }
         ],
         "statusEffects": [
@@ -82280,8 +85336,14 @@
         "directEffects": [
           {
             "effectType": "Damage",
-            "fixedPower": 40,
+            "fixedPower": 440,
             "fixedPowerIncrementPerLevel": 40
+          },
+          {
+            "sideAffected": "Allies",
+            "effectType": "Heal",
+            "fixedPower": 110,
+            "fixedPowerIncrementPerLevel": 10
           }
         ],
         "statusEffects": [
@@ -82298,8 +85360,14 @@
         "directEffects": [
           {
             "effectType": "Damage",
-            "fixedPower": 40,
+            "fixedPower": 440,
             "fixedPowerIncrementPerLevel": 40
+          },
+          {
+            "sideAffected": "Allies",
+            "effectType": "Heal",
+            "fixedPower": 110,
+            "fixedPowerIncrementPerLevel": 10
           }
         ],
         "statusEffects": [
@@ -82316,8 +85384,14 @@
         "directEffects": [
           {
             "effectType": "Damage",
-            "fixedPower": 43,
-            "fixedPowerIncrementPerLevel": 43
+            "fixedPower": 452,
+            "fixedPowerIncrementPerLevel": 42
+          },
+          {
+            "sideAffected": "Allies",
+            "effectType": "Heal",
+            "fixedPower": 110,
+            "fixedPowerIncrementPerLevel": 10
           }
         ],
         "statusEffects": [
@@ -82334,8 +85408,14 @@
         "directEffects": [
           {
             "effectType": "Damage",
-            "fixedPower": 42,
-            "fixedPowerIncrementPerLevel": 42
+            "fixedPower": 451,
+            "fixedPowerIncrementPerLevel": 41
+          },
+          {
+            "sideAffected": "Allies",
+            "effectType": "Heal",
+            "fixedPower": 110,
+            "fixedPowerIncrementPerLevel": 10
           }
         ],
         "statusEffects": [
@@ -82352,8 +85432,14 @@
         "directEffects": [
           {
             "effectType": "Damage",
-            "fixedPower": 40,
+            "fixedPower": 440,
             "fixedPowerIncrementPerLevel": 40
+          },
+          {
+            "sideAffected": "Allies",
+            "effectType": "Heal",
+            "fixedPower": 110,
+            "fixedPowerIncrementPerLevel": 10
           }
         ],
         "statusEffects": [
@@ -82370,8 +85456,14 @@
         "directEffects": [
           {
             "effectType": "Damage",
-            "fixedPower": 35,
-            "fixedPowerIncrementPerLevel": 35
+            "fixedPower": 280,
+            "fixedPowerIncrementPerLevel": 30
+          },
+          {
+            "sideAffected": "Allies",
+            "effectType": "Heal",
+            "fixedPower": 55,
+            "fixedPowerIncrementPerLevel": 5
           }
         ],
         "statusEffects": [
@@ -82388,8 +85480,14 @@
         "directEffects": [
           {
             "effectType": "Damage",
-            "fixedPower": 25,
-            "fixedPowerIncrementPerLevel": 25
+            "fixedPower": 188,
+            "fixedPowerIncrementPerLevel": 18
+          },
+          {
+            "sideAffected": "Allies",
+            "effectType": "Heal",
+            "fixedPower": 32,
+            "fixedPowerIncrementPerLevel": 2
           }
         ],
         "statusEffects": [
@@ -82406,8 +85504,14 @@
         "directEffects": [
           {
             "effectType": "Damage",
-            "fixedPower": 60,
-            "fixedPowerIncrementPerLevel": 40
+            "fixedPower": 451,
+            "fixedPowerIncrementPerLevel": 41
+          },
+          {
+            "sideAffected": "Allies",
+            "effectType": "Heal",
+            "fixedPower": 110,
+            "fixedPowerIncrementPerLevel": 10
           }
         ],
         "statusEffects": [
@@ -82424,8 +85528,14 @@
         "directEffects": [
           {
             "effectType": "Damage",
-            "fixedPower": 50,
-            "fixedPowerIncrementPerLevel": 50
+            "fixedPower": 495,
+            "fixedPowerIncrementPerLevel": 45
+          },
+          {
+            "sideAffected": "Allies",
+            "effectType": "Heal",
+            "fixedPower": 110,
+            "fixedPowerIncrementPerLevel": 10
           }
         ],
         "statusEffects": [
@@ -82442,8 +85552,14 @@
         "directEffects": [
           {
             "effectType": "Damage",
-            "fixedPower": 25,
-            "fixedPowerIncrementPerLevel": 25
+            "fixedPower": 188,
+            "fixedPowerIncrementPerLevel": 18
+          },
+          {
+            "sideAffected": "Allies",
+            "effectType": "Heal",
+            "fixedPower": 32,
+            "fixedPowerIncrementPerLevel": 2
           }
         ],
         "statusEffects": [
@@ -82460,8 +85576,14 @@
         "directEffects": [
           {
             "effectType": "Damage",
-            "fixedPower": 55,
-            "fixedPowerIncrementPerLevel": 50
+            "fixedPower": 500,
+            "fixedPowerIncrementPerLevel": 45
+          },
+          {
+            "sideAffected": "Allies",
+            "effectType": "Heal",
+            "fixedPower": 110,
+            "fixedPowerIncrementPerLevel": 10
           }
         ],
         "statusEffects": [
@@ -82478,8 +85600,14 @@
         "directEffects": [
           {
             "effectType": "Damage",
-            "fixedPower": 60,
-            "fixedPowerIncrementPerLevel": 60
+            "fixedPower": 550,
+            "fixedPowerIncrementPerLevel": 50
+          },
+          {
+            "sideAffected": "Allies",
+            "effectType": "Heal",
+            "fixedPower": 110,
+            "fixedPowerIncrementPerLevel": 10
           }
         ],
         "statusEffects": [
@@ -82511,8 +85639,13 @@
           {
             "sideAffected": "Allies",
             "effectType": "Heal",
-            "fixedPower": 50,
-            "fixedPowerIncrementPerLevel": 50
+            "fixedPower": 385,
+            "fixedPowerIncrementPerLevel": 35
+          },
+          {
+            "effectType": "Damage",
+            "fixedPower": 220,
+            "fixedPowerIncrementPerLevel": 20
           }
         ],
         "statusEffects": [
@@ -82529,8 +85662,14 @@
         "directEffects": [
           {
             "effectType": "Damage",
-            "fixedPower": 35,
-            "fixedPowerIncrementPerLevel": 35
+            "fixedPower": 408,
+            "fixedPowerIncrementPerLevel": 38
+          },
+          {
+            "sideAffected": "Allies",
+            "effectType": "Heal",
+            "fixedPower": 110,
+            "fixedPowerIncrementPerLevel": 10
           }
         ],
         "statusEffects": [
@@ -82549,8 +85688,14 @@
         "directEffects": [
           {
             "effectType": "Damage",
-            "fixedPower": 37,
-            "fixedPowerIncrementPerLevel": 37
+            "fixedPower": 419,
+            "fixedPowerIncrementPerLevel": 39
+          },
+          {
+            "sideAffected": "Allies",
+            "effectType": "Heal",
+            "fixedPower": 110,
+            "fixedPowerIncrementPerLevel": 10
           }
         ],
         "statusEffects": [
@@ -82566,7 +85711,19 @@
       },
       {
         "id": "dragon_cleansing_flame",
-        "directEffects": [],
+        "directEffects": [
+          {
+            "effectType": "Damage",
+            "fixedPower": 220,
+            "fixedPowerIncrementPerLevel": 20
+          },
+          {
+            "sideAffected": "Allies",
+            "effectType": "Heal",
+            "fixedPower": 110,
+            "fixedPowerIncrementPerLevel": 10
+          }
+        ],
         "statusEffects": [
           {
             "id": "dragon_support_skill_fixed_health_recovery_more",
@@ -82581,6 +85738,17 @@
       {
         "id": "dragon_esoteric_flame",
         "directEffects": [
+          {
+            "effectType": "Damage",
+            "fixedPower": 220,
+            "fixedPowerIncrementPerLevel": 20
+          },
+          {
+            "sideAffected": "Allies",
+            "effectType": "Heal",
+            "fixedPower": 110,
+            "fixedPowerIncrementPerLevel": 10
+          },
           {
             "sideAffected": "Allies",
             "effectType": "AddMana",
@@ -82602,8 +85770,14 @@
         "directEffects": [
           {
             "effectType": "Damage",
-            "fixedPower": 35,
-            "fixedPowerIncrementPerLevel": 35
+            "fixedPower": 298,
+            "fixedPowerIncrementPerLevel": 28
+          },
+          {
+            "sideAffected": "Allies",
+            "effectType": "Heal",
+            "fixedPower": 55,
+            "fixedPowerIncrementPerLevel": 5
           }
         ],
         "statusEffects": [
@@ -82621,8 +85795,13 @@
           {
             "sideAffected": "Allies",
             "effectType": "Heal",
-            "fixedPower": 40,
-            "fixedPowerIncrementPerLevel": 40
+            "fixedPower": 275,
+            "fixedPowerIncrementPerLevel": 25
+          },
+          {
+            "effectType": "Damage",
+            "fixedPower": 110,
+            "fixedPowerIncrementPerLevel": 10
           }
         ],
         "statusEffects": [
@@ -82640,8 +85819,13 @@
           {
             "sideAffected": "Allies",
             "effectType": "Heal",
-            "fixedPower": 30,
-            "fixedPowerIncrementPerLevel": 30
+            "fixedPower": 220,
+            "fixedPowerIncrementPerLevel": 20
+          },
+          {
+            "effectType": "Damage",
+            "fixedPower": 110,
+            "fixedPowerIncrementPerLevel": 10
           }
         ],
         "statusEffects": [
@@ -82664,8 +85848,14 @@
         "directEffects": [
           {
             "effectType": "Damage",
-            "fixedPower": 25,
-            "fixedPowerIncrementPerLevel": 25
+            "fixedPower": 188,
+            "fixedPowerIncrementPerLevel": 18
+          },
+          {
+            "sideAffected": "Allies",
+            "effectType": "Heal",
+            "fixedPower": 32,
+            "fixedPowerIncrementPerLevel": 2
           }
         ],
         "statusEffects": [
@@ -82683,8 +85873,13 @@
           {
             "sideAffected": "Allies",
             "effectType": "Heal",
-            "fixedPower": 25,
-            "fixedPowerIncrementPerLevel": 25
+            "fixedPower": 165,
+            "fixedPowerIncrementPerLevel": 15
+          },
+          {
+            "effectType": "Damage",
+            "fixedPower": 55,
+            "fixedPowerIncrementPerLevel": 5
           }
         ],
         "statusEffects": [
@@ -82723,8 +85918,14 @@
         "directEffects": [
           {
             "effectType": "Damage",
-            "fixedPower": 40,
+            "fixedPower": 440,
             "fixedPowerIncrementPerLevel": 40
+          },
+          {
+            "sideAffected": "Allies",
+            "effectType": "Heal",
+            "fixedPower": 110,
+            "fixedPowerIncrementPerLevel": 10
           },
           {
             "effectType": "AddMana",
@@ -82739,8 +85940,13 @@
           {
             "sideAffected": "Allies",
             "effectType": "Heal",
-            "fixedPower": 60,
-            "fixedPowerIncrementPerLevel": 60
+            "fixedPower": 440,
+            "fixedPowerIncrementPerLevel": 40
+          },
+          {
+            "effectType": "Damage",
+            "fixedPower": 220,
+            "fixedPowerIncrementPerLevel": 20
           }
         ],
         "statusEffects": [
@@ -82754,7 +85960,19 @@
       },
       {
         "id": "dragon_blazing_storm",
-        "directEffects": [],
+        "directEffects": [
+          {
+            "effectType": "Damage",
+            "fixedPower": 220,
+            "fixedPowerIncrementPerLevel": 20
+          },
+          {
+            "sideAffected": "Allies",
+            "effectType": "Heal",
+            "fixedPower": 110,
+            "fixedPowerIncrementPerLevel": 10
+          }
+        ],
         "statusEffects": [
           {
             "id": "dragon_support_skill_burn_blazing_storm",
@@ -82767,7 +85985,19 @@
       },
       {
         "id": "dragon_blaze_of_the_undying",
-        "directEffects": [],
+        "directEffects": [
+          {
+            "effectType": "Damage",
+            "fixedPower": 220,
+            "fixedPowerIncrementPerLevel": 20
+          },
+          {
+            "sideAffected": "Allies",
+            "effectType": "Heal",
+            "fixedPower": 110,
+            "fixedPowerIncrementPerLevel": 10
+          }
+        ],
         "statusEffects": [
           {
             "id": "dragon_support_skill_burn_blaze_of_the_undying",
@@ -82788,8 +86018,14 @@
         "directEffects": [
           {
             "effectType": "Damage",
-            "fixedPower": 50,
-            "fixedPowerIncrementPerLevel": 50
+            "fixedPower": 495,
+            "fixedPowerIncrementPerLevel": 45
+          },
+          {
+            "sideAffected": "Allies",
+            "effectType": "Heal",
+            "fixedPower": 110,
+            "fixedPowerIncrementPerLevel": 10
           }
         ],
         "statusEffects": [
@@ -82806,8 +86042,14 @@
         "directEffects": [
           {
             "effectType": "Damage",
-            "fixedPower": 45,
-            "fixedPowerIncrementPerLevel": 45
+            "fixedPower": 463,
+            "fixedPowerIncrementPerLevel": 43
+          },
+          {
+            "sideAffected": "Allies",
+            "effectType": "Heal",
+            "fixedPower": 110,
+            "fixedPowerIncrementPerLevel": 10
           }
         ],
         "statusEffects": [
@@ -82825,8 +86067,13 @@
           {
             "sideAffected": "Allies",
             "effectType": "Heal",
-            "fixedPower": 65,
-            "fixedPowerIncrementPerLevel": 65
+            "fixedPower": 463,
+            "fixedPowerIncrementPerLevel": 43
+          },
+          {
+            "effectType": "Damage",
+            "fixedPower": 220,
+            "fixedPowerIncrementPerLevel": 20
           },
           {
             "sideAffected": "Allies",
@@ -82974,8 +86221,13 @@
           {
             "sideAffected": "Allies",
             "effectType": "Heal",
-            "fixedPower": 65,
-            "fixedPowerIncrementPerLevel": 65
+            "fixedPower": 463,
+            "fixedPowerIncrementPerLevel": 43
+          },
+          {
+            "effectType": "Damage",
+            "fixedPower": 220,
+            "fixedPowerIncrementPerLevel": 20
           }
         ],
         "statusEffects": [
@@ -82993,8 +86245,13 @@
           {
             "sideAffected": "Allies",
             "effectType": "Heal",
-            "fixedPower": 75,
-            "fixedPowerIncrementPerLevel": 65
+            "fixedPower": 468,
+            "fixedPowerIncrementPerLevel": 43
+          },
+          {
+            "effectType": "Damage",
+            "fixedPower": 220,
+            "fixedPowerIncrementPerLevel": 20
           }
         ],
         "statusEffects": [
@@ -83011,8 +86268,14 @@
         "directEffects": [
           {
             "effectType": "Damage",
-            "fixedPower": 40,
+            "fixedPower": 440,
             "fixedPowerIncrementPerLevel": 40
+          },
+          {
+            "sideAffected": "Allies",
+            "effectType": "Heal",
+            "fixedPower": 110,
+            "fixedPowerIncrementPerLevel": 10
           }
         ],
         "statusEffects": [
@@ -83029,8 +86292,14 @@
         "directEffects": [
           {
             "effectType": "Damage",
-            "fixedPower": 45,
-            "fixedPowerIncrementPerLevel": 45
+            "fixedPower": 463,
+            "fixedPowerIncrementPerLevel": 43
+          },
+          {
+            "sideAffected": "Allies",
+            "effectType": "Heal",
+            "fixedPower": 110,
+            "fixedPowerIncrementPerLevel": 10
           }
         ],
         "statusEffects": [
@@ -83048,8 +86317,13 @@
           {
             "sideAffected": "Allies",
             "effectType": "Heal",
-            "fixedPower": 65,
-            "fixedPowerIncrementPerLevel": 65
+            "fixedPower": 463,
+            "fixedPowerIncrementPerLevel": 43
+          },
+          {
+            "effectType": "Damage",
+            "fixedPower": 220,
+            "fixedPowerIncrementPerLevel": 20
           }
         ],
         "statusEffects": [
@@ -83067,8 +86341,13 @@
           {
             "sideAffected": "Allies",
             "effectType": "Heal",
-            "fixedPower": 65,
-            "fixedPowerIncrementPerLevel": 65
+            "fixedPower": 463,
+            "fixedPowerIncrementPerLevel": 43
+          },
+          {
+            "effectType": "Damage",
+            "fixedPower": 220,
+            "fixedPowerIncrementPerLevel": 20
           }
         ],
         "statusEffects": [
@@ -83082,7 +86361,19 @@
       },
       {
         "id": "dragon_disarming_blaze",
-        "directEffects": [],
+        "directEffects": [
+          {
+            "effectType": "Damage",
+            "fixedPower": 220,
+            "fixedPowerIncrementPerLevel": 20
+          },
+          {
+            "sideAffected": "Allies",
+            "effectType": "Heal",
+            "fixedPower": 110,
+            "fixedPowerIncrementPerLevel": 10
+          }
+        ],
         "statusEffects": [
           {
             "id": "dragon_support_skill_burn_disarming_blaze",
@@ -83100,7 +86391,19 @@
       },
       {
         "id": "dragon_cracking_blaze",
-        "directEffects": [],
+        "directEffects": [
+          {
+            "effectType": "Damage",
+            "fixedPower": 220,
+            "fixedPowerIncrementPerLevel": 20
+          },
+          {
+            "sideAffected": "Allies",
+            "effectType": "Heal",
+            "fixedPower": 110,
+            "fixedPowerIncrementPerLevel": 10
+          }
+        ],
         "statusEffects": [
           {
             "id": "dragon_support_skill_burn_cracking_blaze",
@@ -83118,7 +86421,19 @@
       },
       {
         "id": "dragon_crackling_blaze_smoldercoil",
-        "directEffects": [],
+        "directEffects": [
+          {
+            "effectType": "Damage",
+            "fixedPower": 110,
+            "fixedPowerIncrementPerLevel": 10
+          },
+          {
+            "sideAffected": "Allies",
+            "effectType": "Heal",
+            "fixedPower": 55,
+            "fixedPowerIncrementPerLevel": 5
+          }
+        ],
         "statusEffects": [
           {
             "id": "dragon_support_skill_burn_cracking_blaze_smoldercoil",
@@ -83139,8 +86454,14 @@
         "directEffects": [
           {
             "effectType": "Damage",
-            "fixedPower": 45,
-            "fixedPowerIncrementPerLevel": 45
+            "fixedPower": 463,
+            "fixedPowerIncrementPerLevel": 43
+          },
+          {
+            "sideAffected": "Allies",
+            "effectType": "Heal",
+            "fixedPower": 110,
+            "fixedPowerIncrementPerLevel": 10
           }
         ],
         "statusEffects": [
@@ -83157,8 +86478,8 @@
         "directEffects": [
           {
             "effectType": "Damage",
-            "fixedPower": 46,
-            "fixedPowerIncrementPerLevel": 46
+            "fixedPower": 464,
+            "fixedPowerIncrementPerLevel": 44
           }
         ],
         "statusEffects": [
@@ -83172,7 +86493,19 @@
       },
       {
         "id": "dragon_crippling_blaze",
-        "directEffects": [],
+        "directEffects": [
+          {
+            "effectType": "Damage",
+            "fixedPower": 220,
+            "fixedPowerIncrementPerLevel": 20
+          },
+          {
+            "sideAffected": "Allies",
+            "effectType": "Heal",
+            "fixedPower": 110,
+            "fixedPowerIncrementPerLevel": 10
+          }
+        ],
         "statusEffects": [
           {
             "id": "dragon_support_skill_burn_crippling_blaze",
@@ -83190,7 +86523,19 @@
       },
       {
         "id": "dragon_crippling_blaze_belzaas",
-        "directEffects": [],
+        "directEffects": [
+          {
+            "effectType": "Damage",
+            "fixedPower": 220,
+            "fixedPowerIncrementPerLevel": 20
+          },
+          {
+            "sideAffected": "Allies",
+            "effectType": "Heal",
+            "fixedPower": 110,
+            "fixedPowerIncrementPerLevel": 10
+          }
+        ],
         "statusEffects": [
           {
             "id": "dragon_support_skill_burn_crippling_blaze_belzaas",
@@ -83211,8 +86556,14 @@
         "directEffects": [
           {
             "effectType": "Damage",
-            "fixedPower": 25,
-            "fixedPowerIncrementPerLevel": 25
+            "fixedPower": 188,
+            "fixedPowerIncrementPerLevel": 18
+          },
+          {
+            "sideAffected": "Allies",
+            "effectType": "Heal",
+            "fixedPower": 32,
+            "fixedPowerIncrementPerLevel": 2
           }
         ],
         "statusEffects": [
@@ -83226,7 +86577,19 @@
       },
       {
         "id": "dragon_pacifying_breath",
-        "directEffects": [],
+        "directEffects": [
+          {
+            "effectType": "Damage",
+            "fixedPower": 110,
+            "fixedPowerIncrementPerLevel": 10
+          },
+          {
+            "sideAffected": "Allies",
+            "effectType": "Heal",
+            "fixedPower": 55,
+            "fixedPowerIncrementPerLevel": 5
+          }
+        ],
         "statusEffects": [
           {
             "id": "dragon_support_skill_hp_regen_pacifying_breath",
@@ -83244,7 +86607,19 @@
       },
       {
         "id": "dragon_blaze_of_suppression",
-        "directEffects": [],
+        "directEffects": [
+          {
+            "effectType": "Damage",
+            "fixedPower": 55,
+            "fixedPowerIncrementPerLevel": 5
+          },
+          {
+            "sideAffected": "Allies",
+            "effectType": "Heal",
+            "fixedPower": 32,
+            "fixedPowerIncrementPerLevel": 2
+          }
+        ],
         "statusEffects": [
           {
             "id": "dragon_support_skill_burn_blaze_of_suppression",
@@ -83260,8 +86635,14 @@
         "directEffects": [
           {
             "effectType": "Damage",
-            "fixedPower": 25,
-            "fixedPowerIncrementPerLevel": 25
+            "fixedPower": 188,
+            "fixedPowerIncrementPerLevel": 18
+          },
+          {
+            "sideAffected": "Allies",
+            "effectType": "Heal",
+            "fixedPower": 32,
+            "fixedPowerIncrementPerLevel": 2
           }
         ],
         "statusEffects": [
@@ -83275,7 +86656,19 @@
       },
       {
         "id": "dragon_destabilizing_blaze",
-        "directEffects": [],
+        "directEffects": [
+          {
+            "effectType": "Damage",
+            "fixedPower": 110,
+            "fixedPowerIncrementPerLevel": 10
+          },
+          {
+            "sideAffected": "Allies",
+            "effectType": "Heal",
+            "fixedPower": 55,
+            "fixedPowerIncrementPerLevel": 5
+          }
+        ],
         "statusEffects": [
           {
             "id": "dragon_support_skill_burn_destabilizing_blaze",
@@ -83288,7 +86681,19 @@
       },
       {
         "id": "dragon_breath_of_nourishment",
-        "directEffects": [],
+        "directEffects": [
+          {
+            "effectType": "Damage",
+            "fixedPower": 110,
+            "fixedPowerIncrementPerLevel": 10
+          },
+          {
+            "sideAffected": "Allies",
+            "effectType": "Heal",
+            "fixedPower": 55,
+            "fixedPowerIncrementPerLevel": 5
+          }
+        ],
         "statusEffects": [
           {
             "id": "dragon_support_skill_hp_regen_breath_of_nourishment",
@@ -83304,10 +86709,21 @@
         "id": "dragon_rallying_breath",
         "directEffects": [
           {
+            "effectType": "Damage",
+            "fixedPower": 220,
+            "fixedPowerIncrementPerLevel": 20
+          },
+          {
+            "sideAffected": "Allies",
+            "effectType": "Heal",
+            "fixedPower": 110,
+            "fixedPowerIncrementPerLevel": 10
+          },
+          {
             "sideAffected": "Allies",
             "effectType": "HealthBoost",
-            "fixedPower": 45,
-            "fixedPowerIncrementPerLevel": 45
+            "fixedPower": 243,
+            "fixedPowerIncrementPerLevel": 23
           }
         ],
         "statusEffects": [
@@ -83323,10 +86739,21 @@
         "id": "dragon_rallying_breath_trezoro",
         "directEffects": [
           {
+            "effectType": "Damage",
+            "fixedPower": 220,
+            "fixedPowerIncrementPerLevel": 20
+          },
+          {
+            "sideAffected": "Allies",
+            "effectType": "Heal",
+            "fixedPower": 110,
+            "fixedPowerIncrementPerLevel": 10
+          },
+          {
             "sideAffected": "Allies",
             "effectType": "HealthBoost",
-            "fixedPower": 50,
-            "fixedPowerIncrementPerLevel": 45
+            "fixedPower": 248,
+            "fixedPowerIncrementPerLevel": 23
           }
         ],
         "statusEffects": [
@@ -83340,7 +86767,19 @@
       },
       {
         "id": "dragon_draining_blaze",
-        "directEffects": [],
+        "directEffects": [
+          {
+            "effectType": "Damage",
+            "fixedPower": 220,
+            "fixedPowerIncrementPerLevel": 20
+          },
+          {
+            "sideAffected": "Allies",
+            "effectType": "Heal",
+            "fixedPower": 110,
+            "fixedPowerIncrementPerLevel": 10
+          }
+        ],
         "statusEffects": [
           {
             "id": "dragon_support_skill_burn_draining_blaze",
@@ -83360,9 +86799,20 @@
         "id": "dragon_shocking_blaze",
         "directEffects": [
           {
+            "effectType": "Damage",
+            "fixedPower": 220,
+            "fixedPowerIncrementPerLevel": 20
+          },
+          {
+            "sideAffected": "Allies",
+            "effectType": "Heal",
+            "fixedPower": 110,
+            "fixedPowerIncrementPerLevel": 10
+          },
+          {
             "effectType": "ReduceMaxHealth",
-            "fixedPower": 45,
-            "fixedPowerIncrementPerLevel": 45
+            "fixedPower": 270,
+            "fixedPowerIncrementPerLevel": 20
           }
         ],
         "statusEffects": [
@@ -83376,7 +86826,19 @@
       },
       {
         "id": "dragon_autumn_blaze",
-        "directEffects": [],
+        "directEffects": [
+          {
+            "effectType": "Damage",
+            "fixedPower": 220,
+            "fixedPowerIncrementPerLevel": 20
+          },
+          {
+            "sideAffected": "Allies",
+            "effectType": "Heal",
+            "fixedPower": 110,
+            "fixedPowerIncrementPerLevel": 10
+          }
+        ],
         "statusEffects": [
           {
             "id": "dragon_support_skill_burn_autumn_blaze",
@@ -83425,5 +86887,5 @@
       "SharedDamage"
     ]
   },
-  "battleConfigId": 2460455452
+  "battleConfigId": 404926707
 }
