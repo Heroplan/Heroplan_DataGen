@@ -42063,7 +42063,13 @@ window.allHeroesExtra = [
         "speed": "average",
         "Release date": "2025-12-07",
         "AetherPower": "Special Armor",
-        "skill_types": [],
+        "skill_types": [
+            "Board Alterers",
+            "Mana Reducers or Blockers",
+            "Snipers",
+            "Chain & Random Attackers",
+            "Debuffers (DEF)"
+        ],
         "heroId": "elemental_xandrella_costume_idol",
         "baseAttack": 411,
         "baseDefense": 417,
@@ -42079,5 +42085,26 @@ window.allHeroesExtra = [
         "healthBonus": "47%",
         "manaBonus": "5%",
         "family": "super_elemental"
+    },
+    {
+        "name": "Devyani",
+        "fancy name": "Fierce Warrior Princess",
+        "element": "Purple",
+        "rarity": 5,
+        "class": "Ranger",
+        "speed": "very_fast",
+        "Release date": "2025-12-10",
+        "AetherPower": "Special Boost",
+        "skill_types": [],
+        "heroId": "mahayoddha_devyani",
+        "baseAttack": 645,
+        "baseDefense": 616,
+        "baseHealth": 1098,
+        "specialId": "righteous_stance",
+        "passiveSkills": [
+            "increased_damage_against_minions_and_mega_minions",
+            "mana_on_damage_received"
+        ],
+        "family": "mahayoddha"
     }
 ];

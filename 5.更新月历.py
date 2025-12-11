@@ -35,7 +35,7 @@ TARGETS = [
 ]
 
 # 用于记录原始文件名的历史记录文件
-HISTORY_FILE = "download_history.json"
+HISTORY_FILE = "calendar_history.json"
 
 # --- 核心函数 ---
 

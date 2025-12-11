@@ -42085,5 +42085,31 @@ window.allHeroesExtra = [
         "healthBonus": "47%",
         "manaBonus": "5%",
         "family": "super_elemental"
+    },
+    {
+        "name": "Devyani",
+        "fancy name": "Fierce Warrior Princess",
+        "element": "Purple",
+        "rarity": 5,
+        "class": "Ranger",
+        "speed": "very_fast",
+        "Release date": "2025-12-10",
+        "AetherPower": "Special Boost",
+        "skill_types": [
+            "Bypassers",
+            "Snipers",
+            "Extra Damage Dealers",
+            "Ability Scores Modifiers"
+        ],
+        "heroId": "mahayoddha_devyani",
+        "baseAttack": 645,
+        "baseDefense": 616,
+        "baseHealth": 1098,
+        "specialId": "righteous_stance",
+        "passiveSkills": [
+            "increased_damage_against_minions_and_mega_minions",
+            "mana_on_damage_received"
+        ],
+        "family": "mahayoddha"
     }
 ];

@@ -28528,5 +28528,23 @@
             "Defense": 1546,
             "Life": 3106
         }
+    },
+    "Devyani": {
+        "base": {
+            "Attack": 1303,
+            "Defense": 1229,
+            "Life": 2200,
+            "Power": 1233
+        },
+        "lb1": {
+            "Attack": 1405,
+            "Defense": 1325,
+            "Life": 2370
+        },
+        "lb2": {
+            "Attack": 1607,
+            "Defense": 1516,
+            "Life": 2712
+        }
     }
 }

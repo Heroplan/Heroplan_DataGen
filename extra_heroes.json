@@ -1,5 +1,17 @@
 [
     {
+        "name": "Aether Mimic Ice",
+        "fancy_name": "Starved Storage of Rods",
+        "color": "Blue",
+        "Release date": "",
+        "star": 5,
+        "family": "mimic",
+        "source": "mimic",
+        "costume_id": 0,
+        "heroId": "mimic_aether_blue",
+        "Lottery_Only":1
+    },
+    {
         "name": "Experience Mimic Rare",
         "fancy_name": "Trove of the Tiny Teeth",
         "color": "Red",
@@ -340,17 +352,6 @@
         "family": "mahayoddha",
         "costume_id": 0,
         "heroId": "mahayoddha_jyoti",
-        "Lottery_Only": 1
-    },
-    {
-        "name": "Devyani",
-        "fancy_name": "Fierce Warrior Princess",
-        "color": "Purple",
-        "Release date": "",
-        "star": 5,
-        "family": "mahayoddha",
-        "costume_id": 0,
-        "heroId": "mahayoddha_devyani",
         "Lottery_Only": 1
     },
     {

@@ -963,5 +963,7 @@
   "Drop to 1 Damage Self": "自身傷害降至1",
   "Damage when Full Mana 3": "法力全滿時造成傷害 (3個目標)",
   "Mana Reducer when Full Mana 3": "法力全滿時降低法力 (3個目標)",
-  "Source of Buffs Random 1": "隨機1個增益來源"
+  "Source of Buffs Random 1": "隨機1個增益來源",
+  "Growth Boon 1": "成長恩惠 (單體)",
+  "Wither 1": "衰退 (單體)"
 }
