@@ -965,5 +965,7 @@
   "Mana Reducer when Full Mana 3": "法力全满时降低法力 (3个目标)",
   "Source of Buffs Random 1": "随机1个增益来源",
   "Growth Boon 1": "成长恩赐 (单体)",
-  "Wither 1": "衰退 (单体)"
+  "Wither 1": "衰退 (单体)",
+  "Special Skill Defense Buff All": "全体特殊技能防御增益",
+  "Minion Dodge Buff All": "全体小兵闪避增益"
 }

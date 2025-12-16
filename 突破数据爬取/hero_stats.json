@@ -28105,14 +28105,14 @@
             "Power": 1260
         },
         "lb1": {
-            "Attack": 833,
-            "Defense": 862,
-            "Life": 1484
+            "Attack": 861,
+            "Defense": 891,
+            "Life": 1567
         },
         "lb2": {
-            "Attack": 965,
-            "Defense": 999,
-            "Life": 1720
+            "Attack": 998,
+            "Defense": 1033,
+            "Life": 1812
         }
     },
     "Graymane C3": {
@@ -28545,6 +28545,60 @@
             "Attack": 1607,
             "Defense": 1516,
             "Life": 2712
+        }
+    },
+    "Valen C3": {
+        "base": {
+            "Attack": 559,
+            "Defense": 492,
+            "Life": 846,
+            "Power": 516
+        },
+        "lb1": {
+            "Attack": 633,
+            "Defense": 556,
+            "Life": 959
+        },
+        "lb2": {
+            "Attack": 783,
+            "Defense": 689,
+            "Life": 1184
+        }
+    },
+    "Kadilen C4": {
+        "base": {
+            "Attack": 1340,
+            "Defense": 1204,
+            "Life": 2210,
+            "Power": 1240
+        },
+        "lb1": {
+            "Attack": 1443,
+            "Defense": 1296,
+            "Life": 2381
+        },
+        "lb2": {
+            "Attack": 1652,
+            "Defense": 1484,
+            "Life": 2725
+        }
+    },
+    "Tyrum C3": {
+        "base": {
+            "Attack": 506,
+            "Defense": 470,
+            "Life": 1031,
+            "Power": 518
+        },
+        "lb1": {
+            "Attack": 573,
+            "Defense": 534,
+            "Life": 1169
+        },
+        "lb2": {
+            "Attack": 709,
+            "Defense": 659,
+            "Life": 1445
         }
     }
 }

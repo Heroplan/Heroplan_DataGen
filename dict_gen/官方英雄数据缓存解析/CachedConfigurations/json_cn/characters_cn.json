@@ -16473,7 +16473,7 @@
     "specialId": "穿刺之弹",
     "canBeReceivedDate": "2022-12-14 07:00:00",
     "origin": "勇者与美人",
-    "costumeBonusesId": "musketeer"
+    "costumeBonusesId": "musketeer_dec_2025"
   },
   "christmas_augustus": {
     "id": "奥古斯都",
@@ -17498,7 +17498,7 @@
     "specialId": "半人马之诗",
     "canBeReceivedDate": "2023-05-03 07:00:00",
     "origin": "魔法高塔",
-    "costumeBonusesId": "magic"
+    "costumeBonusesId": "magic_dec_2025"
   },
   "magic_vaishali": {
     "id": "吠舍离",
@@ -22312,7 +22312,7 @@
     "aetherGift": "Regen",
     "rarity": 5,
     "specialId": "火枪手的交易",
-    "canBeReceivedDate": "2025-12-19 07:00:00",
+    "canBeReceivedDate": "2026-01-23 07:00:00",
     "origin": "勇者与美人",
     "parentHeroId": "波尔多斯"
   },
@@ -22320,9 +22320,9 @@
     "id": "阿多斯",
     "element": "绿",
     "family": "火枪手家族",
-    "baseHealth": 785,
+    "baseHealth": 788,
     "baseAttack": 423,
-    "baseDefense": 362,
+    "baseDefense": 363,
     "manaSpeedId": "飞速",
     "passiveSkills": [
       "damage_all_enemies_on_cover_or_special_damage_received_costume",
@@ -22332,7 +22332,7 @@
     "aetherGift": "Special Boost",
     "rarity": 5,
     "specialId": "工匠射击",
-    "canBeReceivedDate": "2026-01-23 07:00:00",
+    "canBeReceivedDate": "2025-12-19 07:00:00",
     "origin": "勇者与美人",
     "parentHeroId": "阿多斯"
   },
@@ -28272,7 +28272,7 @@
     "aetherGift": "Attack Up",
     "rarity": 5,
     "specialId": "王者之爪",
-    "canBeReceivedDate": "2025-12-30 07:00:00",
+    "canBeReceivedDate": "2026-01-20 07:00:00",
     "origin": "荒野召唤"
   },
   "wild_cat_savann": {
@@ -28310,7 +28310,7 @@
     "aetherGift": "Boosted Regen",
     "rarity": 5,
     "specialId": "食人鱼事故",
-    "canBeReceivedDate": "2200-01-01 07:00:00",
+    "canBeReceivedDate": "2025-12-30 07:00:00",
     "origin": "荒野召唤"
   },
   "wild_cat_sharalen": {
@@ -30338,9 +30338,9 @@
     "id": "铁脉",
     "element": "黄",
     "family": "机械家族",
-    "baseHealth": 548,
-    "baseAttack": 292,
-    "baseDefense": 282,
+    "baseHealth": 562,
+    "baseAttack": 312,
+    "baseDefense": 302,
     "manaSpeedId": "中等",
     "passiveSkills": [
       "minion_core",
@@ -30395,9 +30395,9 @@
     "id": "热旋",
     "element": "红",
     "family": "机械家族",
-    "baseHealth": 656,
-    "baseAttack": 366,
-    "baseDefense": 355,
+    "baseHealth": 680,
+    "baseAttack": 384,
+    "baseDefense": 375,
     "manaSpeedId": "中等",
     "passiveSkills": [
       "minion_core",
@@ -30414,9 +30414,9 @@
     "id": "自动灼烧装置",
     "element": "红",
     "family": "机械家族",
-    "baseHealth": 1080,
-    "baseAttack": 611,
-    "baseDefense": 609,
+    "baseHealth": 1098,
+    "baseAttack": 635,
+    "baseDefense": 634,
     "manaSpeedId": "慢",
     "passiveSkills": [
       "minion_core",
@@ -30439,10 +30439,10 @@
     "manaSpeedId": "慢",
     "passiveSkills": [
       "minion_core",
-      "mana_on_own_familiar_death_construct"
+      "resist_special_blocking_with_health_boost_and_mana"
     ],
     "classType": "术士",
-    "aetherGift": "Mana Boost",
+    "aetherGift": "Defense Up",
     "rarity": 5,
     "specialId": "灵魂之线",
     "canBeReceivedDate": "2200-01-01 07:00:00",
@@ -31141,10 +31141,9 @@
     "aetherGift": "Bulwark",
     "rarity": 5,
     "specialId": "渴望之咬",
-    "canBeReceivedDate": "2200-01-01 07:00:00",
+    "canBeReceivedDate": "2025-12-12 07:00:00",
     "origin": "SecretSummonAetherMimicBlue",
-    "forceUseCostumeLevelUpAndUpgradeCosts": true,
-    "isSecret": true
+    "forceUseCostumeLevelUpAndUpgradeCosts": true
   },
   "mimic_aether_purple": {
     "id": "艾瑟尔拟态兽",
@@ -31192,9 +31191,9 @@
     "id": "波波桑",
     "element": "蓝",
     "family": "史莱姆家族",
-    "baseHealth": 1053,
-    "baseAttack": 597,
-    "baseDefense": 603,
+    "baseHealth": 1098,
+    "baseAttack": 631,
+    "baseDefense": 637,
     "manaSpeedId": "慢",
     "passiveSkills": [
       "summon_slime_minion_on_damage_blue",
@@ -32007,9 +32006,9 @@
     "id": "多米尼克",
     "element": "蓝",
     "family": "美女与野兽家族",
-    "baseHealth": 1066,
-    "baseAttack": 638,
-    "baseDefense": 579,
+    "baseHealth": 1099,
+    "baseAttack": 646,
+    "baseDefense": 617,
     "manaSpeedId": "快速",
     "passiveSkills": [
       "convert_incoming_damage_to_heal",
@@ -32307,9 +32306,9 @@
     "id": "阿德丽莎",
     "element": "红",
     "family": "泰坦猎手家族",
-    "baseHealth": 1093,
-    "baseAttack": 631,
-    "baseDefense": 624,
+    "baseHealth": 1099,
+    "baseAttack": 637,
+    "baseDefense": 630,
     "manaSpeedId": "快速",
     "passiveSkills": [
       "titan_hunter_hunting_flare_on_special_cast",
@@ -32385,9 +32384,9 @@
     "id": "茱瓦拉",
     "element": "红",
     "family": "魔毯家族",
-    "baseHealth": 1062,
-    "baseAttack": 621,
-    "baseDefense": 603,
+    "baseHealth": 1099,
+    "baseAttack": 643,
+    "baseDefense": 626,
     "manaSpeedId": "中等",
     "passiveSkills": [
       "reduce_big_minion_health",
@@ -32662,16 +32661,16 @@
     "aetherGift": "Special Boost",
     "rarity": 5,
     "specialId": "爆晶导管",
-    "canBeReceivedDate": "2025-12-28 07:00:00",
+    "canBeReceivedDate": "2026-01-11 07:00:00",
     "origin": "ShadowQuest"
   },
   "forsaken_inanis": {
     "id": "伊纳尼斯",
     "element": "黄",
     "family": "被遗弃者家族",
-    "baseHealth": 1056,
-    "baseAttack": 649,
-    "baseDefense": 624,
+    "baseHealth": 1069,
+    "baseAttack": 653,
+    "baseDefense": 628,
     "manaSpeedId": "飞速",
     "passiveSkills": [
       "damage_increase_by_insanity"
@@ -32680,16 +32679,16 @@
     "aetherGift": "Dodge",
     "rarity": 5,
     "specialId": "断离封印",
-    "canBeReceivedDate": "2026-01-11 07:00:00",
+    "canBeReceivedDate": "2025-12-28 07:00:00",
     "origin": "ShadowQuest"
   },
   "astral_demon_turundh": {
     "id": "图伦德",
     "element": "绿",
     "family": "星体恶魔",
-    "baseHealth": 1068,
-    "baseAttack": 637,
-    "baseDefense": 632,
+    "baseHealth": 1080,
+    "baseAttack": 641,
+    "baseDefense": 636,
     "manaSpeedId": "快速",
     "passiveSkills": [
       "never_miss_special",

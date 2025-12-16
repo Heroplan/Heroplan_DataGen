@@ -1,4 +1,4 @@
-✅ 成功匹配的服装 (488 / 0)
+✅ 成功匹配的服装 (491 / 0)
 ================================
 Name: Berden Costume1, Fancy Name: Adroit Archer
 Name: Hannah Costume1, Fancy Name: Adventurous Drover
@@ -160,6 +160,7 @@ Name: Sonya glass, Fancy Name: Glass Champion
 Name: Kashhrek Glass, Fancy Name: Glass Chieftain
 Name: Carver Glass, Fancy Name: Glass Cutpurse
 Name: Boril glass, Fancy Name: Glass Defender
+Name: Valen glass, Fancy Name: Glass Duelist
 Name: Isshtak glass, Fancy Name: Glass Fighter
 Name: Li Xiu Glass, Fancy Name: Glass General
 Name: Kailani Glass, Fancy Name: Glass Healer
@@ -167,6 +168,7 @@ Name: Gunnar glass, Fancy Name: Glass Knight
 Name: Azlar Glass, Fancy Name: Glass Leor
 Name: Balthazar Glass, Fancy Name: Glass Magician
 Name: Wu Kong glass, Fancy Name: Glass Monkey
+Name: Tyrum glass, Fancy Name: Glass Remnant
 Name: Vivica Glass, Fancy Name: Glass Scholar
 Name: Quintus glass, Fancy Name: Glass Scientist
 Name: Domitia Glass, Fancy Name: Glass Sniper
@@ -349,6 +351,7 @@ Name: Gill-Ra Costume1, Fancy Name: Shallows Pursuer
 Name: Brienne Costume1, Fancy Name: Shaman of Concordia
 Name: Kelile Costume1, Fancy Name: Shaman of Dragonia
 Name: Lord Loki Costume1, Fancy Name: Shapeshifter God
+Name: Kadilen glass, Fancy Name: Shieldmaster of Glass
 Name: Ultrox Costume1, Fancy Name: Siphoner of the Deep
 Name: El Naddaha Costume1, Fancy Name: Siren of the Sea
 Name: Snow White Costume1, Fancy Name: Slayer White

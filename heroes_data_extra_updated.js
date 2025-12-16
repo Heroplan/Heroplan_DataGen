@@ -42095,7 +42095,12 @@ window.allHeroesExtra = [
         "speed": "very_fast",
         "Release date": "2025-12-10",
         "AetherPower": "Special Boost",
-        "skill_types": [],
+        "skill_types": [
+            "Bypassers",
+            "Snipers",
+            "Extra Damage Dealers",
+            "Ability Scores Modifiers"
+        ],
         "heroId": "mahayoddha_devyani",
         "baseAttack": 645,
         "baseDefense": 616,
@@ -42106,5 +42111,124 @@ window.allHeroesExtra = [
             "mana_on_damage_received"
         ],
         "family": "mahayoddha"
+    },
+    {
+        "name": "Aether Mimic Ice",
+        "fancy name": "Starved Storage of Rods",
+        "element": "Blue",
+        "rarity": 5,
+        "class": "Sorcerer",
+        "speed": "slow",
+        "Release date": "2025-12-12",
+        "AetherPower": "Bulwark",
+        "skill_types": [
+            "Snipers",
+            "Healers (Special)",
+            "Health Boosters",
+            "Mana Raisers",
+            "Immunity Providers",
+            "Ghost Form & Hiding",
+            "Bypassers"
+        ],
+        "heroId": "mimic_aether_blue",
+        "baseAttack": 647,
+        "baseDefense": 647,
+        "baseHealth": 1097,
+        "specialId": "aether_mimic_bite_blue",
+        "passiveSkills": [
+            "mimic_aether_blue",
+            "never_miss_special"
+        ],
+        "family": "mimic"
+    },
+    {
+        "name": "Valen glass",
+        "fancy name": "Glass Duelist",
+        "element": "Blue",
+        "rarity": 3,
+        "class": "Fighter",
+        "speed": "fast",
+        "Release date": "2025-12-11",
+        "AetherPower": "Attack Up",
+        "skill_types": [
+            "Debuffers (DEF)",
+            "Snipers",
+            "Bypassers"
+        ],
+        "heroId": "nordic_swordman_costume_glass",
+        "baseAttack": 273,
+        "baseDefense": 240,
+        "baseHealth": 396,
+        "specialId": "chilling_slash",
+        "specialId_costume": "glass_slash",
+        "passiveSkills": [
+            "glass_reflect_debuffs"
+        ],
+        "costumeBonusPassiveSkillIds": null,
+        "attackBonus": "18%",
+        "defenseBonus": "18%",
+        "healthBonus": "23%",
+        "manaBonus": "5%",
+        "family": "classic"
+    },
+    {
+        "name": "Kadilen glass",
+        "fancy name": "Shieldmaster of Glass",
+        "element": "Green",
+        "rarity": 5,
+        "class": "Druid",
+        "speed": "fast",
+        "Release date": "2025-12-11",
+        "AetherPower": "Defense Up",
+        "skill_types": [
+            "AoE Attackers (Hit-5)",
+            "Buffers (DEF)",
+            "Bypassers"
+        ],
+        "heroId": "forest_female_elf_costume_glass",
+        "baseAttack": 372,
+        "baseDefense": 334,
+        "baseHealth": 603,
+        "specialId": "eclipse_shield",
+        "specialId_costume": "glass_shield_kadilen",
+        "passiveSkills": [
+            "glass_reflect_debuffs"
+        ],
+        "costumeBonusPassiveSkillIds": null,
+        "attackBonus": "75%",
+        "defenseBonus": "75%",
+        "healthBonus": "78%",
+        "manaBonus": "5%",
+        "family": "classic"
+    },
+    {
+        "name": "Tyrum glass",
+        "fancy name": "Glass Remnant",
+        "element": "Purple",
+        "rarity": 3,
+        "class": "Paladin",
+        "speed": "fast",
+        "Release date": "2025-12-11",
+        "AetherPower": "Special Boost",
+        "skill_types": [
+            "Dispellers",
+            "Snipers",
+            "Bypassers"
+        ],
+        "heroId": "undead_running_skeleton_costume_glass",
+        "baseAttack": 247,
+        "baseDefense": 230,
+        "baseHealth": 483,
+        "specialId": "piercing_hit",
+        "specialId_costume": "glass_piercing_hit_tyrum",
+        "passiveSkills": [
+            "glass_reflect_debuffs"
+        ],
+        "costumeBonusPassiveSkillIds": null,
+        "attackBonus": "18%",
+        "defenseBonus": "18%",
+        "healthBonus": "23%",
+        "manaBonus": "5%",
+        "family": "classic"
     }
 ];

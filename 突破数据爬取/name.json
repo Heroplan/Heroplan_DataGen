@@ -7203,5 +7203,29 @@
     },
     {
         "name": "Devyani"
+    },
+    {
+        "name": "Valen C3",
+        "bonuses": {
+            "attack": 18,
+            "defense": 18,
+            "health": 23
+        }
+    },
+    {
+        "name": "Kadilen C4",
+        "bonuses": {
+            "attack": 75,
+            "defense": 75,
+            "health": 78
+        }
+    },
+    {
+        "name": "Tyrum C3",
+        "bonuses": {
+            "attack": 18,
+            "defense": 18,
+            "health": 23
+        }
     }
 ]

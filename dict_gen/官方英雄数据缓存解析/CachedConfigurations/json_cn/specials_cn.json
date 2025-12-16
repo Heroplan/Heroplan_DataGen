@@ -717,7 +717,7 @@
           "sideAffected": "Enemies",
           "typeOfTarget": "NearToTarget",
           "effectType": "Damage",
-          "powerMultiplierPerMil": 3350,
+          "powerMultiplierPerMil": 3700,
           "powerMultiplierIncrementPerLevelPerMil": 50
         },
         "maxLevel": 8,
@@ -22856,7 +22856,7 @@
           "sideAffected": "Enemies",
           "typeOfTarget": "All",
           "effectType": "Damage",
-          "powerMultiplierPerMil": 4150,
+          "powerMultiplierPerMil": 4500,
           "powerMultiplierIncrementPerLevelPerMil": 50
         },
         "maxLevel": 8,
@@ -25443,7 +25443,7 @@
         "maxLevel": 8,
         "statusEffects": [
           {
-            "id": "debuff_shield_minor",
+            "id": "debuff_shield_with_heal_telonius_costume",
             "sideAffected": "Allies",
             "statusTargetType": "NearToTarget",
             "turns": 5
@@ -49208,19 +49208,13 @@
             "id": "accuracy_debuff_per_tile_purple_zavok",
             "sideAffected": "Enemies",
             "statusTargetType": "All",
-            "turns": 4
-          },
-          {
-            "id": "silence",
-            "sideAffected": "Enemies",
-            "statusTargetType": "All",
-            "turns": 4
+            "turns": 5
           },
           {
             "id": "resist_mana_effects_add_mana_zavok",
             "sideAffected": "Allies",
             "statusTargetType": "All",
-            "turns": 4
+            "turns": 5
           }
         ]
       },
@@ -50135,7 +50129,7 @@
           "sideAffected": "Enemies",
           "typeOfTarget": "NearToTarget",
           "effectType": "Damage",
-          "powerMultiplierPerMil": 4800,
+          "powerMultiplierPerMil": 3550,
           "powerMultiplierIncrementPerLevelPerMil": 50
         },
         "maxLevel": 8,
@@ -51691,7 +51685,7 @@
           "sideAffected": "Enemies",
           "typeOfTarget": "All",
           "effectType": "Damage",
-          "powerMultiplierPerMil": 2800,
+          "powerMultiplierPerMil": 3150,
           "powerMultiplierIncrementPerLevelPerMil": 50
         },
         "maxLevel": 8,
@@ -51990,12 +51984,6 @@
         "statusEffects": [
           {
             "id": "buildup_damage_on_removal_gitnib",
-            "sideAffected": "Allies",
-            "statusTargetType": "Single",
-            "turns": 3
-          },
-          {
-            "id": "counterattack_gitnib",
             "sideAffected": "Allies",
             "statusTargetType": "Single",
             "turns": 3
@@ -52419,7 +52407,7 @@
         "directEffect": {
           "sideAffected": "Enemies",
           "typeOfTarget": "Single",
-          "powerMultiplierPerMil": 1800,
+          "powerMultiplierPerMil": 2300,
           "powerMultiplierIncrementPerLevelPerMil": 50
         },
         "maxLevel": 8,
@@ -62980,7 +62968,7 @@
         "id": "branching_special_dominique",
         "specialIdIfConditionTrue": "righteous_revenge1",
         "specialIdIfConditionFalse": "righteous_revenge2",
-        "requiredIntrinsicChargeAmountPerMil": 500,
+        "requiredIntrinsicChargeAmountPerMil": 350,
         "conditionCheckedFromSide": "Allies",
         "conditionCheckedFromTarget": "Caster"
       },
@@ -64691,5 +64679,5 @@
       }
     ]
   },
-  "specialsConfigId": 3660468437
+  "specialsConfigId": 2546430589
 }

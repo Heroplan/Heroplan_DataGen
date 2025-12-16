@@ -2764,6 +2764,12 @@
             "eventBonus": "valentines_bonus",
             "startTime": "2026-01-19 07:00:00",
             "endTime": "2026-02-15 07:00:00"
+          },
+          {
+            "id": "SecretSummonAetherMimicBlue",
+            "type": "MysteryHero",
+            "startTime": "2025-12-12 07:00:00",
+            "endTime": "2025-12-13 07:00:00"
           }
         ],
         "challengeEventEntries": [
@@ -2844,7 +2850,7 @@
             "advertisedHero": "beauty_beast_dominique",
             "featuredHeroes": [
               "beauty_beast_dominique",
-              "musketeer_porthos_costume_merchant",
+              "musketeer_athos_costume_farrier",
               "beauty_beast_rose_de_flo"
             ],
             "eventBonus": "event_hero_bonus_alliance_quest",
@@ -2860,8 +2866,8 @@
             "advertisedHero": "beauty_beast_laurent",
             "featuredHeroes": [
               "beauty_beast_laurent",
-              "musketeer_athos_costume_farrier",
-              "musketeer_porthos_costume_merchant"
+              "musketeer_porthos_costume_merchant",
+              "musketeer_athos_costume_farrier"
             ],
             "eventBonus": "event_hero_bonus_alliance_quest",
             "startTime": "2026-01-23 07:00:00",
@@ -57703,7 +57709,7 @@
             ],
             "rarity": 5,
             "notAllowedAsLoot": true,
-            "canBeReceivedDate": "2026-01-23 07:00:00",
+            "canBeReceivedDate": "2025-12-19 07:00:00",
             "costumeId": "Veteran Musketeer-Farrier Musketeer",
             "parentHeroId": "musketeer_athos"
           },
@@ -64530,7 +64536,7 @@
             ],
             "rarity": 5,
             "notAllowedAsLoot": true,
-            "canBeReceivedDate": "2025-12-19 07:00:00",
+            "canBeReceivedDate": "2026-01-23 07:00:00",
             "costumeId": "Jolly Musketeer-Merchant Musketeer",
             "parentHeroId": "musketeer_porthos"
           },
@@ -80866,6 +80872,96 @@
                 ]
               }
             ]
+          },
+          {
+            "id": "musketeer_dec_2025",
+            "statBonuses": [
+              {
+                "bonusLevels": []
+              },
+              {
+                "bonusLevels": []
+              },
+              {
+                "bonusLevels": []
+              },
+              {
+                "bonusLevels": []
+              },
+              {
+                "bonusLevels": [
+                  {
+                    "attackBonusPerMil": 410,
+                    "defenseBonusPerMil": 410,
+                    "healthBonusPerMil": 460,
+                    "manaBonusPerMil": 10
+                  },
+                  {
+                    "attackBonusPerMil": 440,
+                    "defenseBonusPerMil": 440,
+                    "healthBonusPerMil": 490,
+                    "manaBonusPerMil": 20
+                  },
+                  {
+                    "attackBonusPerMil": 470,
+                    "defenseBonusPerMil": 470,
+                    "healthBonusPerMil": 520,
+                    "manaBonusPerMil": 30
+                  },
+                  {
+                    "attackBonusPerMil": 530,
+                    "defenseBonusPerMil": 530,
+                    "healthBonusPerMil": 530,
+                    "manaBonusPerMil": 50
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "magic_dec_2025",
+            "statBonuses": [
+              {
+                "bonusLevels": []
+              },
+              {
+                "bonusLevels": []
+              },
+              {
+                "bonusLevels": []
+              },
+              {
+                "bonusLevels": []
+              },
+              {
+                "bonusLevels": [
+                  {
+                    "attackBonusPerMil": 370,
+                    "defenseBonusPerMil": 370,
+                    "healthBonusPerMil": 420,
+                    "manaBonusPerMil": 10
+                  },
+                  {
+                    "attackBonusPerMil": 400,
+                    "defenseBonusPerMil": 400,
+                    "healthBonusPerMil": 450,
+                    "manaBonusPerMil": 10
+                  },
+                  {
+                    "attackBonusPerMil": 430,
+                    "defenseBonusPerMil": 430,
+                    "healthBonusPerMil": 480,
+                    "manaBonusPerMil": 10
+                  },
+                  {
+                    "attackBonusPerMil": 480,
+                    "defenseBonusPerMil": 480,
+                    "healthBonusPerMil": 500,
+                    "manaBonusPerMil": 10
+                  }
+                ]
+              }
+            ]
           }
         ],
         "enabled": true
@@ -82737,9 +82833,9 @@
     "minSecondsBetweenRecentActivityRequests": 30,
     "colorBlindModeEnabled": true,
     "languageSelectionEnabled": true,
-    "maxVersionToShowUpdateOutReminderAndroid": "81.0.2",
-    "maxVersionToShowUpdateOutReminderIos": "81.0.2",
-    "maxVersionToShowUpdateOutReminderAndroidStandalone": "81.0.2",
+    "maxVersionToShowUpdateOutReminderAndroid": "82.0.1",
+    "maxVersionToShowUpdateOutReminderIos": "82.0.0",
+    "maxVersionToShowUpdateOutReminderAndroidStandalone": "82.0.1",
     "standaloneNewVersionRolloutPercentage": 100,
     "fastClientLogFlushTimeSeconds": 5,
     "accountDeletionEnabled": true,
@@ -82832,5 +82928,5 @@
     "criticalOperationPendingDelaySeconds": 3,
     "allowedCriticalOperationPendingCount": 3
   },
-  "otherConfigId": 3644474063
+  "otherConfigId": 1216077529
 }

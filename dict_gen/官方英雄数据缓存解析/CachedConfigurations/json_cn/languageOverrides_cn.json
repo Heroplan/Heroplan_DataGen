@@ -5,7 +5,67 @@
         "overrideEntries": [
           {
             "key": "notifications.titanhunter",
-            "text": "💎⭐🏴  Titan Hunter SUMMON OPEN NOW! Summon Heroes who are devastating against Titans!  💎⭐🏴"
+            "text": "💎⭐🏴 La CHIAMATA dei cacciatori di Titani APRE ORA! Evoca Eroi devastanti contro i Titani! 💎⭐🏴"
+          },
+          {
+            "key": "herocard.passive_skill.description.reviveinalternativeformwithinsanitychance",
+            "text": "Se sconfitto, questo personaggio ha la possibilità di rinascere come [#!]Ospite sinistro[#]. Le probabilità sono del [#!]{CHANCEINCREASEPERSTEP}%[#] ogni [#!]{INSANITYPERSTEP}[#] [#!]Follia[#] di questo personaggio, fino a una probabilità massima del [#!]{MAXCHANCEINCREASE}%[#].\n\nL'[#!]Ospite sinistro[#] ha:\n[*] [#!]{INHERITEDHEALTH}%[#] di Salute ereditata.\n[*] [#!]{ATTACK}[#] di Attacco.\n[*] [#!]{DEFENSE}[#] di Difesa.\n[*] Le seguenti Abilità speciali:\n\n[#!]{ALTERNATIVEFORMSPECIALTITLE}[#]\n{ALTERNATIVEFORMSPECIALDESCRIPTION}\n\nSe questo personaggio si sconfigge da sé quando attiva [#!]Follia[#], le probabilità di rinascere sono sempre del [#!]{CHANCEONSELFCAUSEDDEATH}%[#]."
+          },
+          {
+            "key": "heroes.name.construct_zavok",
+            "text": "Zavolt"
+          },
+          {
+            "key": "calendar.chest.name.valentinesseasonal",
+            "text": "Baule di San Valentino"
+          },
+          {
+            "key": "calendar.chest.valentinesseasonal.description.claimed",
+            "text": "Grazie per aver riscosso il\n[#!]BAULE DI SAN VALENTINO[#]!"
+          },
+          {
+            "key": "herocard.passive_skill.description.managenerationmodifier.all.enemies.specialskill.passiveskill.family.statuseffect.realm",
+            "text": "Riduce del [#!]{MODIFIER}%[#] la quantità di mana aumentata da Abilità speciali, abilità passive, bonus famiglia ed effetti di stato. L'effetto si applica a tutti i nemici in battaglia."
+          },
+          {
+            "key": "level.info.property.description.valentines_brawl_resist_parasites.side.both.familiartypes.parasite.affectedfamilies.cupid",
+            "text": "Gli Eroi della famiglia [#!]Amorini[#] resistono ai [#!]demoni[#]."
+          },
+          {
+            "key": "linkaccount.dialog.googleplay",
+            "text": "Per accedere a Google Play, vai nelle impostazioni del tuo dispositivo."
+          },
+          {
+            "key": "lottery.description.long.season5",
+            "text": "La [#!]Chiamata delle Dune[#] include tre Eroi Leggendari della Stagione V. C'è inoltre la possibilità di ricevere l'Eroe del mese attuale.\n\nMaggiori probabilità di trovare Eroi [#!]Leggendari[#] nella Chiamata delle Dune.\n\nPuoi effettuare le Chiamate usando le Gemme o le [#!]monete delle Dune[#], che puoi ottenere completando gli [#!]stadi della Stagione V[#] per la prima volta. Una Chiamata costa 100 monete delle Dune.\n\nOgni {0} Chiamate, ricevi un [#!]baule bonus Dinastia delle Dune[#]. Puoi ricevere al massimo [#!]{1}[#] bauli in ogni evento Chiamata delle Dune."
+          },
+          {
+            "key": "options.linkaccount.googleplay.loggedout",
+            "text": "Hai effettuato la disconnessione da Google Play"
+          },
+          {
+            "key": "options.linkaccount.info.googleplay",
+            "text": "Accedi usando il tuo account Google Play per salvare i progressi e giocare su più dispositivi Android.\n\nPuoi passare a un altro account Google Play attraverso le impostazioni dell'app Play Games del tuo telefono."
+          },
+          {
+            "key": "specials.name.champagne_hammer",
+            "text": "Martello bottiglia"
+          },
+          {
+            "key": "specials.v2.property.targetfamiliarbasedchainstrikewithfamiliarsummon.onehit.parasite.bigparasite.evolving_seedling_parasite_with_delay",
+            "text": "Se il bersaglio ha demoni o demoni Mega, infligge un {DAMAGE}% di danni a un nemico diverso a caso.\n[*]Evoca un [#!]demone Piantina[#] su ciascun nemico colpito."
+          },
+          {
+            "key": "specials.v2.property.tileenhancement.manamultiplier.both.red",
+            "text": "Altera il potere di tutti gli scudi di tipo [##elementred]Fuoco[#] sul campo di battaglia. Quando un Eroe in attacco lancia l'Abilità speciale, gli scudi si potenziano e conferiscono un {MODIFIERATTACKER}% di mana extra. Quando un Eroe in difesa lancia l'Abilità speciale, gli scudi si indeboliscono e conferiscono un {MODIFIERDEFENDER}% di mana in meno."
+          },
+          {
+            "key": "specials.v2.property.tileenhancement.manamultiplier.npcs.red",
+            "text": "Potenzia tutti gli scudi di tipo [##elementred]Fuoco[#] sul campo di battaglia. Gli scudi potenziati conferiscono un {MODIFIERDEFENDER}% di mana in meno agli Eroi."
+          },
+          {
+            "key": "specials.v2.property.tileenhancement.manamultiplier.playercharacters.red",
+            "text": "Potenzia tutti gli scudi di tipo [##elementred]Fuoco[#] sul campo di battaglia. Gli scudi potenziati conferiscono un {MODIFIERATTACKER}% di mana extra agli Eroi."
           }
         ]
       },
@@ -13,11 +73,71 @@
         "overrideEntries": [
           {
             "key": "notifications.titanhunter",
-            "text": "💎⭐🏴  Titan Hunter SUMMON OPEN NOW! Summon Heroes who are devastating against Titans!  💎⭐🏴"
+            "text": "💎⭐🏴 ПРИЗЫВ охотника на титанов УЖЕ ОТКРЫТ! Призовите гибельных для титанов героев! 💎⭐🏴"
           },
           {
             "key": "specials.v2.bigminion.aberration_big_minion.single",
-            "text": "Призывает мегаприслужника-мутанта с {FAMILIARHEALTHPERCENT} % здоровья и {FAMILIARATTACK} % атаки, получаемых от героя.\n\nКаждый удар мегаприслужника-мутанта дает цели следующий недуг:"
+            "text": "Призывает мегаприслужника-мутанта с {FAMILIARHEALTHPERCENT} % здоровья и {FAMILIARATTACK} % атаки героя.\n\nКаждый удар мегаприслужника-мутанта дает цели следующий недуг:"
+          },
+          {
+            "key": "herocard.passive_skill.description.reviveinalternativeformwithinsanitychance",
+            "text": "При поражении герой имеет шанс возродиться в виде [#!]хозяина жути[#]. Шанс [#!]{CHANCEINCREASEPERSTEP} %[#] за [#!]{INSANITYPERSTEP}[#] ед. [#!]безумия[#] у героя, до максимума [#!]{MAXCHANCEINCREASE} %[#]. \n\n[#!]Хозяин жути[#] получает:\n[*][#!]{INHERITEDHEALTH} %[#]  здоровья от героя. \n[*][#!]{ATTACK}[#] атаки.\n[*][#!]{DEFENSE}[#] защиты.\n[*]Особый навык:\n\n[#!]{ALTERNATIVEFORMSPECIALTITLE}[#]\n{ALTERNATIVEFORMSPECIALDESCRIPTION}\n\nЕсли во время активации [#!]безумия[#] герой уничтожает сам себя, то шанс становится равным [#!]{CHANCEONSELFCAUSEDDEATH} %[#]."
+          },
+          {
+            "key": "heroes.name.construct_zavok",
+            "text": "Заволт"
+          },
+          {
+            "key": "calendar.chest.name.valentinesseasonal",
+            "text": "Сундук Валентина"
+          },
+          {
+            "key": "calendar.chest.valentinesseasonal.description.claimed",
+            "text": "Спасибо, что получили\n[#!]СУНДУК СВ. ВАЛЕНТИНА[#]!"
+          },
+          {
+            "key": "herocard.passive_skill.description.managenerationmodifier.all.enemies.specialskill.passiveskill.family.statuseffect.realm",
+            "text": "На [#!]{MODIFIER} %[#] снижает количество маны, увеличенной особым навыком, пассивным навыком, эффектом семьи и эффектом статуса. Применяется ко всем врагам в битве."
+          },
+          {
+            "key": "level.info.property.description.valentines_brawl_resist_parasites.side.both.familiartypes.parasite.affectedfamilies.cupid",
+            "text": "Герои семьи [#!]купидонов[#] сопротивляются  [#!]паразитам[#]."
+          },
+          {
+            "key": "linkaccount.dialog.googleplay",
+            "text": "Перейдите в настройки игры, чтобы войти в Google Play."
+          },
+          {
+            "key": "lottery.description.long.season5",
+            "text": "[#!]Призыв Дюн[#] открывает доступ к трем легендарным героям сезона V. У вас также есть шанс получить текущего героя месяца.\n\nПри призыве Дюн игрок имеет больше шансов получить [#!]легендарных героев[#].\n\nПризыв проводится с помощью самоцветов или [#!]монет Дюн[#], которые можно получить после первого прохождения [#!]этапов сезона V[#]. Один призыв стоит 100 монет Дюн.\n\nПосле каждого {0}-го призыва вы получите [#!]бонусный сундук династии Дюн[#]. Можно получить не больше [#!]{1}[#] сундуков во время каждого призыва Дюн."
+          },
+          {
+            "key": "options.linkaccount.googleplay.loggedout",
+            "text": "Вы вышли из Google Play"
+          },
+          {
+            "key": "options.linkaccount.info.googleplay",
+            "text": "Войдите с помощью вашей учетной записи Google Play, чтобы сохранить игру и играть на нескольких устройствах Android.\n\nВы можете переключиться на другую учетную запись Google Play, используя настройки приложения Play Games на вашем устройстве."
+          },
+          {
+            "key": "specials.name.champagne_hammer",
+            "text": "Бутылочный молот"
+          },
+          {
+            "key": "specials.v2.property.targetfamiliarbasedchainstrikewithfamiliarsummon.onehit.parasite.bigparasite.evolving_seedling_parasite_with_delay",
+            "text": "Если у цели есть паразиты или мегапаразиты, наносит {DAMAGE} % урона случайному врагу.\n[*]Призывает [#!]росток-паразит[#] к задетым врагам."
+          },
+          {
+            "key": "specials.v2.property.tileenhancement.manamultiplier.both.red",
+            "text": "Изменяет силу всех щитов [##elementred]огня[#] на поле. Когда атакующий герой использует особый навык, щиты усиливаются и приносят на {MODIFIERATTACKER} % больше маны. Если особый навык использует герой защиты, щиты ослабляются и приносят на {MODIFIERDEFENDER} % меньше маны."
+          },
+          {
+            "key": "specials.v2.property.tileenhancement.manamultiplier.npcs.red",
+            "text": "Усиливает все щиты [##elementred]огня[#] на поле. Усиленные щиты приносят на {MODIFIERDEFENDER} % меньше маны героям."
+          },
+          {
+            "key": "specials.v2.property.tileenhancement.manamultiplier.playercharacters.red",
+            "text": "Усиливает все щиты [##elementred]огня[#] на поле. Усиленные щиты приносят на {MODIFIERATTACKER} % больше маны героям."
           }
         ]
       },
@@ -25,7 +145,67 @@
         "overrideEntries": [
           {
             "key": "notifications.titanhunter",
-            "text": "💎⭐🏴  Titan Hunter SUMMON OPEN NOW! Summon Heroes who are devastating against Titans!  💎⭐🏴"
+            "text": "💎⭐🏴 PRZYWOŁANIE Łowcy tytanów OTWARTE TERAZ! Wezwij bohaterów,  którzy świetnie sobie radzą przeciwko tytanom! 💎⭐🏴"
+          },
+          {
+            "key": "herocard.passive_skill.description.reviveinalternativeformwithinsanitychance",
+            "text": "W przypadku porażki ta postać ma szanse na odrodzenie jako [#!]nadprzyrodzony nosiciel[#]. Szanse wynoszą [#!]{CHANCEINCREASEPERSTEP}%[#] za każde [#!]{INSANITYPERSTEP}[#] pkt. [#!]obłędu[#] tej postaci, maksymalnie do [#!]{MAXCHANCEINCREASE}%[#].\n\n [#!]Nadprzyrodzony nosiciel[#] ma:\n[*][#!]{INHERITEDHEALTH}%[#] odziedziczonego zdrowia. \n[*][#!]{ATTACK}[#] pkt. ataku.\n[*][#!]{DEFENSE}[#] pkt. obrony.\n[*]Następująca umiejętność specjalna:\n\n[#!]{ALTERNATIVEFORMSPECIALTITLE}[#]\n{ALTERNATIVEFORMSPECIALDESCRIPTION}\n\nJeśli ta postać pokona sama siebie, gdy aktywuje się [#!]obłęd[#], szanse wynoszą [#!]{CHANCEONSELFCAUSEDDEATH}%[#]."
+          },
+          {
+            "key": "heroes.name.construct_zavok",
+            "text": "Zavolt"
+          },
+          {
+            "key": "calendar.chest.name.valentinesseasonal",
+            "text": "Walentynkowa Skrzynia"
+          },
+          {
+            "key": "calendar.chest.valentinesseasonal.description.claimed",
+            "text": "Dziękujemy za odebranie \n[#!]SKRZYNI WALENTÓW[#]!"
+          },
+          {
+            "key": "herocard.passive_skill.description.managenerationmodifier.all.enemies.specialskill.passiveskill.family.statuseffect.realm",
+            "text": "Redukuje ilość many zwiększanej przez specjalne umiejętności, premie rodzinne umiejętności pasywnych i efekty ze statusu o [#!]{MODIFIER}%[#]. Efekt dotyczy wszystkich wrogów w bitwie."
+          },
+          {
+            "key": "level.info.property.description.valentines_brawl_resist_parasites.side.both.familiartypes.parasite.affectedfamilies.cupid",
+            "text": "Bohaterowie rodziny [#!]kupidynów[#] są odporni na [#!]potwory[#]."
+          },
+          {
+            "key": "linkaccount.dialog.googleplay",
+            "text": "Przejdź do ustawień gry i zaloguj się w Google Play."
+          },
+          {
+            "key": "lottery.description.long.season5",
+            "text": "[#!]Wezwanie Wydm[#] zawiera trzech legendarnych bohaterów 5 sezonu. Można w nim też wylosować aktualnego bohatera miesiąca.\n\nWezwanie Wydm zwiększa szansę na wylosowanie [#!]legendarnych[#] bohaterów.\n\nWezwania można dokonać za pomocą klejnotów lub [#!]monet Wydm[#], które zdobywasz, kończąc [#!]etapy 5 sezonu[#] po raz pierwszy. Pojedyncze wezwanie kosztuje 100 monet Wydm.\n\nCo {0} wezwanie otrzymujesz [#!]bonusową skrzynię Dynastii Wydm[#]. Podczas każdego wezwania Wydm możesz otrzymać do [#!]{1}[#] skrzyń."
+          },
+          {
+            "key": "options.linkaccount.googleplay.loggedout",
+            "text": "Wylogowanie z Google Play"
+          },
+          {
+            "key": "options.linkaccount.info.googleplay",
+            "text": "Zaloguj się, używając konta w Google Play, aby móc zapisywać postępy w grze i grać na różnych urządzeniach z systemem Android.\n\nMożesz się przełączyć na inne konto Google Play w ustawieniach aplikacji Play Games na swoim telefonie."
+          },
+          {
+            "key": "specials.name.champagne_hammer",
+            "text": "Młot w butelce"
+          },
+          {
+            "key": "specials.v2.property.targetfamiliarbasedchainstrikewithfamiliarsummon.onehit.parasite.bigparasite.evolving_seedling_parasite_with_delay",
+            "text": "Jeśli cel ma potwory lub mega potwory, zadaje {DAMAGE}% obrażeń innemu losowemu wrogowi.\n[*]Wzywa na każdego trafionego wroga [#!]potwora sadzonkę[#]."
+          },
+          {
+            "key": "specials.v2.property.tileenhancement.manamultiplier.both.red",
+            "text": "Zmienia wszystkie tarcze [##elementred]ognia[#] na planszy. Gdy atakujący bohater używa umiejętności specjalnej, wzmocnione tarcze zapewniają {MODIFIERATTACKER}% więcej many, a gdy broniący bohater używa umiejętności specjalnej, tarcze słabną i zapewniają {MODIFIERDEFENDER}% mniej many."
+          },
+          {
+            "key": "specials.v2.property.tileenhancement.manamultiplier.npcs.red",
+            "text": "Ulepsza wszystkie tarcze [##elementred]ognia[#] na planszy. Ulepszone tarcze zapewniają bohaterom {MODIFIERDEFENDER}% mniej many."
+          },
+          {
+            "key": "specials.v2.property.tileenhancement.manamultiplier.playercharacters.red",
+            "text": "Ulepsza wszystkie tarcze [##elementred]ognia[#] na planszy. Ulepszone tarcze zapewniają bohaterom dodatkowe {MODIFIERATTACKER}% many."
           }
         ]
       },
@@ -33,7 +213,67 @@
         "overrideEntries": [
           {
             "key": "notifications.titanhunter",
-            "text": "💎⭐🏴  Titan Hunter SUMMON OPEN NOW! Summon Heroes who are devastating against Titans!  💎⭐🏴"
+            "text": "💎⭐🏴泰坦獵手召喚現已開啟！召喚能克制泰坦的英雄！ 💎⭐🏴"
+          },
+          {
+            "key": "herocard.passive_skill.description.reviveinalternativeformwithinsanitychance",
+            "text": "如果被擊敗，此角色有機率重生為[#!]駭異宿主[#]。此角色每有[#!]{INSANITYPERSTEP}[#]點[#!]瘋狂[#]，該機率為[#!]{CHANCEINCREASEPERSTEP}%[#]，最高機率為[#!]{MAXCHANCEINCREASE}%[#]。\n\nThe [#!]駭異宿主[#]具有：\n[*][#!]{INHERITEDHEALTH}%[#]繼承生命。\n[*][#!]{ATTACK}[#]點攻擊。\n[*][#!]{DEFENSE}[#]點防禦。\n[*]以下特殊技能：\n\n[#!]{ALTERNATIVEFORMSPECIALTITLE}[#]\n{ALTERNATIVEFORMSPECIALDESCRIPTION}\n\n在[#!]瘋狂[#]生效時，若此角色擊敗自己，重生的機率一律為[#!]{CHANCEONSELFCAUSEDDEATH}%[#]。"
+          },
+          {
+            "key": "heroes.name.construct_zavok",
+            "text": "薩伏特"
+          },
+          {
+            "key": "calendar.chest.name.valentinesseasonal",
+            "text": "情人節寶箱"
+          },
+          {
+            "key": "calendar.chest.valentinesseasonal.description.claimed",
+            "text": "感謝你領取\n[#!]情人節寶箱[#][#]！"
+          },
+          {
+            "key": "herocard.passive_skill.description.managenerationmodifier.all.enemies.specialskill.passiveskill.family.statuseffect.realm",
+            "text": "降低[#!] {MODIFIER}%[#]特殊技能、被動技能家族加成和狀態效果所增加的法力量。該效果適用於戰鬥的所有敵人。"
+          },
+          {
+            "key": "level.info.property.description.valentines_brawl_resist_parasites.side.both.familiartypes.parasite.affectedfamilies.cupid",
+            "text": "[#!]邱比特[#]家族英雄可抵禦[#!]惡魔[#]。"
+          },
+          {
+            "key": "linkaccount.dialog.googleplay",
+            "text": "前往設定裡的Google Play進行登入。"
+          },
+          {
+            "key": "lottery.description.long.season5",
+            "text": "[#!]沙丘召喚[#]包含三個第5季傳奇英雄。也有機會獲得目前的月度英雄。\n\n沙丘召喚提高了獲得[#!]傳奇[#]英雄。\n\n你可以使用寶石或[#!]沙丘幣[#]進行召喚，首次完成[#!]第5季關卡[#]即可獲得。一次召喚花費100個沙丘幣。\n\n每召喚{0}次可獲得一個[#!]沙丘王朝額外寶箱[#]。沙丘召喚活動期間，最多可領取[#!]{1}[#]個寶箱。"
+          },
+          {
+            "key": "options.linkaccount.googleplay.loggedout",
+            "text": "登出Google Play"
+          },
+          {
+            "key": "options.linkaccount.info.googleplay",
+            "text": "登入Google Play帳戶可保存進程，並且可在不同的Android設備上進行遊戲。\n\n你可以透過裝置上的Play Games應用程式設定來更換不同帳戶。"
+          },
+          {
+            "key": "specials.name.champagne_hammer",
+            "text": "瓶錘"
+          },
+          {
+            "key": "specials.v2.property.targetfamiliarbasedchainstrikewithfamiliarsummon.onehit.parasite.bigparasite.evolving_seedling_parasite_with_delay",
+            "text": "如果目標有惡魔或超級惡魔，則對不同的隨機敵人造成{DAMAGE}%傷害。\n[*]每攻擊一個敵人，就召喚一個[#!]種子惡魔[#]。"
+          },
+          {
+            "key": "specials.v2.property.tileenhancement.manamultiplier.both.red",
+            "text": "改變面板上所有[##elementred]烈火系[#]護盾的力量。攻擊英雄施放該特技時，護盾會獲得強化，且提供的法力增加{MODIFIERATTACKER}%。防禦英雄施放該特技時，護盾會弱化，且提供的法力減少{MODIFIERDEFENDER}%。"
+          },
+          {
+            "key": "specials.v2.property.tileenhancement.manamultiplier.npcs.red",
+            "text": "強化面板中所有[##elementred]烈火系[#]護盾。強化的護盾為英雄提供的法力減少{MODIFIERDEFENDER}%。"
+          },
+          {
+            "key": "specials.v2.property.tileenhancement.manamultiplier.playercharacters.red",
+            "text": "強化面板中所有[##elementred]烈火系[#]護盾。強化的護盾為英雄提供的法力增加{MODIFIERATTACKER}%。"
           }
         ]
       },
@@ -41,7 +281,67 @@
         "overrideEntries": [
           {
             "key": "notifications.titanhunter",
-            "text": "💎⭐🏴  Titan Hunter SUMMON OPEN NOW! Summon Heroes who are devastating against Titans!  💎⭐🏴"
+            "text": "💎⭐🏴 타이탄 사냥꾼 소환이 열렸습니다! 타이탄을 상대로 파괴적인 힘을 발휘하는 영웅들을 소환하세요! 💎⭐🏴"
+          },
+          {
+            "key": "herocard.passive_skill.description.reviveinalternativeformwithinsanitychance",
+            "text": "이 캐릭터는 패배 시 일정 확률로 [#!]엘드리히 호스트[#]로 부활할 수 있습니다. 그 확률은 이 캐릭터의 [#!]{INSANITYPERSTEP}[#] [#!]광기[#]당 [#!]{CHANCEINCREASEPERSTEP}%[#]이며 [#!]{MAXCHANCEINCREASE}%[#]를 초과할 수 없습니다. \n\n[#!]엘드리히 호스트[#]는 다음과 같은 특성을 갖습니다.\n[*][#!]{INHERITEDHEALTH}%[#] HP 계승. \n[*][#!]{ATTACK}[#] 공격력.\n[*][#!]{DEFENSE}[#] 방어력.\n[*]다음 특수 스킬: \n\n[#!]{ALTERNATIVEFORMSPECIALTITLE}[#]\n{ALTERNATIVEFORMSPECIALDESCRIPTION}\n\n[#!]광기[#]가 활성화되어 이 캐릭터가 스스로 쓰러지면 그 확률은 [#!]{CHANCEONSELFCAUSEDDEATH}%[#]입니다."
+          },
+          {
+            "key": "heroes.name.construct_zavok",
+            "text": "자볼트"
+          },
+          {
+            "key": "calendar.chest.name.valentinesseasonal",
+            "text": "발렌타인 상자"
+          },
+          {
+            "key": "calendar.chest.valentinesseasonal.description.claimed",
+            "text": "[#!]발렌타인 상자[#]를 받아주셔서\n감사합니다!"
+          },
+          {
+            "key": "herocard.passive_skill.description.managenerationmodifier.all.enemies.specialskill.passiveskill.family.statuseffect.realm",
+            "text": "특수 스킬, 패시브 스킬, 패밀리 보너스 및 상태 효과에 의해 증가한 마나가 [#!]{MODIFIER}%[#] 감소합니다. 이 효과는 전투 중 모든 적에게 적용됩니다."
+          },
+          {
+            "key": "level.info.property.description.valentines_brawl_resist_parasites.side.both.familiartypes.parasite.affectedfamilies.cupid",
+            "text": "[#!]큐피드[#] 계열의 영웅들은 [#!]악마[#]에 저항합니다."
+          },
+          {
+            "key": "linkaccount.dialog.googleplay",
+            "text": "기기 설정에서 Google Play에 로그인하세요."
+          },
+          {
+            "key": "lottery.description.long.season5",
+            "text": "[#!]사막 소환[#]에서는 세 명의 전설급 시즌 V 영웅을 만날 수 있습니다. 또한 일정 확률로 이달의 영웅을 얻을 수 있습니다.\n\n사막 소환은 [#!]전설[#] 영웅이 나올 확률이 더 높습니다.\n\n소환은 보석이나 [#!]시즌 V 스테이지[#] 최초 완료로 획득한 [#!]사막 코인[#]으로 할 수 있습니다. 소환 1회 당 100 사막 코인이 사용됩니다.\n\n소환을 {0}번 할 때마다 [#!]사막의 왕조 보너스 상자[#]가 지급됩니다. 사막 소환 이벤트 한 번마다 최대 [#!]{1}[#]개의 상자를 획득할 수 있습니다."
+          },
+          {
+            "key": "options.linkaccount.googleplay.loggedout",
+            "text": "Google Play에서 로그아웃함"
+          },
+          {
+            "key": "options.linkaccount.info.googleplay",
+            "text": "Google Play 계정을 사용해 로그인하면 진행 데이터를 저장하고 여러 Android 기기에서 게임을 플레이할 수 있습니다.\n\n 핸드폰의 Play Games 앱 설정에서 다른 Google Play 계정으로 전환할 수 있습니다."
+          },
+          {
+            "key": "specials.name.champagne_hammer",
+            "text": "병 망치"
+          },
+          {
+            "key": "specials.v2.property.targetfamiliarbasedchainstrikewithfamiliarsummon.onehit.parasite.bigparasite.evolving_seedling_parasite_with_delay",
+            "text": "대상에게 악마나 메가 악마가 있을 경우, 무작위 다른 적에게 {DAMAGE}%의 피해를 줍니다.\n[*]적중한 각 적에게 [#!]씨앗 악마[#]를 소환합니다."
+          },
+          {
+            "key": "specials.v2.property.tileenhancement.manamultiplier.both.red",
+            "text": "보드의 모든 [##elementred]화염[#] 보호막의 힘을 바꿉니다. 공격하는 영웅이 특수 스킬을 시전하면 강화된 방패가 마나를 {MODIFIERATTACKER}% 더 줍니다. 방어하는 영웅이 특수 스킬을 시전하면, 방패가 마나를 {MODIFIERDEFENDER}% 덜 줍니다."
+          },
+          {
+            "key": "specials.v2.property.tileenhancement.manamultiplier.npcs.red",
+            "text": "보드의 모든 [##elementred]화염[#] 보호막이 강화됩니다. 강화된 방패는 영웅에게 마나를 {MODIFIERDEFENDER}% 덜 줍니다."
+          },
+          {
+            "key": "specials.v2.property.tileenhancement.manamultiplier.playercharacters.red",
+            "text": "보드의 모든 [##elementred]화염[#] 보호막이 강화됩니다. 강화된 방패는 영웅에게 마나를 {MODIFIERATTACKER}% 더 줍니다."
           }
         ]
       },
@@ -49,11 +349,71 @@
         "overrideEntries": [
           {
             "key": "notifications.titanhunter",
-            "text": "💎⭐🏴  Titan Hunter SUMMON OPEN NOW! Summon Heroes who are devastating against Titans!  💎⭐🏴"
+            "text": "💎⭐🏴 Die Titanenjäger-BESCHWÖRUNG IST JETZT GEÖFFNET! Beschwöre Helden, die Titanen vernichtend schlagen! 💎⭐🏴"
           },
           {
             "key": "specials.v2.bigminion.aberration_big_minion.single",
             "text": "Beschwört einen Abweichungs-Mega-Lakaien mit {FAMILIARHEALTHPERCENT} % LP und {FAMILIARATTACK} % Angriff vom Wirker.\n\nJeder Treffer eines Abweichungs-Mega-Lakaien verleiht dem Ziel folgende negative Statusänderung:"
+          },
+          {
+            "key": "herocard.passive_skill.description.reviveinalternativeformwithinsanitychance",
+            "text": "Wenn er besiegt wurde, hat dieser Charakter eine Chance, als [#!]Gespenstischer Wirt[#] wiedergeboren zu werden. Die Chance beträgt [#!]{CHANCEINCREASEPERSTEP} %[#] pro [#!]{INSANITYPERSTEP}[#] [#!]Wahnsinn[#] auf diesem Charakter, bis zu maximal {MAXCHANCEINCREASE} %.\n\nDer [#!]Gespenstische Wirt[#] hat:\n[*][#!]{INHERITEDHEALTH} %[#] vererbtes Leben. \n[*][#!]{ATTACK}[#] Angriff.\n[*][#!]{DEFENSE}[#] Verteidigung.\n[*]Folgende Spezialfähigkeit: \n\n[#!]{ALTERNATIVEFORMSPECIALTITLE}[#]\n{ALTERNATIVEFORMSPECIALDESCRIPTION}\n\nWenn sich dieser Charakter bei Aktivierung von [#!]Wahnsinn[#] selbst besiegt, beträgt die Chance [#!]{CHANCEONSELFCAUSEDDEATH} %[#]."
+          },
+          {
+            "key": "heroes.name.construct_zavok",
+            "text": "Zavolt"
+          },
+          {
+            "key": "calendar.chest.name.valentinesseasonal",
+            "text": "Valentinstruhe"
+          },
+          {
+            "key": "calendar.chest.valentinesseasonal.description.claimed",
+            "text": "Danke, dass du deine\n[#!]VALENTINSTRUHE[#] abgeholt hast!"
+          },
+          {
+            "key": "herocard.passive_skill.description.managenerationmodifier.all.enemies.specialskill.passiveskill.family.statuseffect.realm",
+            "text": "Verringert die Menge an Mana, die durch Spezialfähigkeiten, Passivfähigkeiten-Familienboni und Statuseffekte erhöht wird, um [#!]{MODIFIER} %[#]. Der Effekt gilt für alle Gegner im Kampf."
+          },
+          {
+            "key": "level.info.property.description.valentines_brawl_resist_parasites.side.both.familiartypes.parasite.affectedfamilies.cupid",
+            "text": "Helden der [#!]Armor[#]-Familie widerstehen Feinden."
+          },
+          {
+            "key": "linkaccount.dialog.googleplay",
+            "text": "Gehe zu den Spieleinstellungen, um dich bei Google Play anzumelden."
+          },
+          {
+            "key": "lottery.description.long.season5",
+            "text": "Die [#!]Dünen-Beschwörung[#] beinhaltet drei legendäre Helden der Saison V. Der aktuelle Held des Monats ist ebenfalls dabei.\n\nBei der Dünen-Beschwörung gibt es eine erhöhte Chance auf [#!]legendäre[#] Helden.\n\nBeschwörungen können mit Juwelen oder [#!]Dünen-Münzen[#] vorgenommen werden, die du durch den erstmaligen Abschluss von [#!]Etappen in Saison V[#] erhältst. Eine Beschwörung kostet 100 Dünen-Münzen.\n\nNach je {0} Beschwörungen erhältst du eine [#!]„Dynastie der Dünen“-Bonustruhe[#]. Pro Dünen-Beschwörungsevent kannst du maximal [#!]{1}[#] Truhen erhalten."
+          },
+          {
+            "key": "options.linkaccount.googleplay.loggedout",
+            "text": "Bei Google Play abgemeldet"
+          },
+          {
+            "key": "options.linkaccount.info.googleplay",
+            "text": "Wenn du mit deinem Google-Play-Konto angemeldet bist, speicherst du deinen Fortschritt und kannst mit mehreren Android-Geräten spielen.\n\nDu kannst in den Einstellungen der Play-Games-App deines Telefons zu einem anderen Google-Play-Konto wechseln."
+          },
+          {
+            "key": "specials.name.champagne_hammer",
+            "text": "Flaschenhammer"
+          },
+          {
+            "key": "specials.v2.property.targetfamiliarbasedchainstrikewithfamiliarsummon.onehit.parasite.bigparasite.evolving_seedling_parasite_with_delay",
+            "text": "Wenn das Ziel über Feinde oder Mega-Feinde verfügt, wird einem zufälligen anderen Gegner {DAMAGE} % Schaden zugefügt.\n[*]Beschwört einen [#!]Setzling-Feind[#] für jeden getroffenen Gegner."
+          },
+          {
+            "key": "specials.v2.property.tileenhancement.manamultiplier.both.red",
+            "text": "Verändert die Stärke aller [##elementred]Feuerschilde[#] auf dem Feld. Wenn ein angreifender Held die Spezialfähigkeit wirkt, werden die Schilde verstärkt und gewähren um {MODIFIERATTACKER} % mehr Mana. Wenn ein verteidigender Held die Spezialfähigkeit wirkt, werden die Schilde geschwächt und gewähren um {MODIFIERDEFENDER} % weniger Mana."
+          },
+          {
+            "key": "specials.v2.property.tileenhancement.manamultiplier.npcs.red",
+            "text": "Verbessert alle [##elementred]Feuer[#]schilde auf dem Feld. Verbesserte Schilde gewähren Helden {MODIFIERDEFENDER} % weniger Mana."
+          },
+          {
+            "key": "specials.v2.property.tileenhancement.manamultiplier.playercharacters.red",
+            "text": "Verbessert alle [##elementred]Feuer[#]schilde auf dem Feld. Verbesserte Schilde gewähren Helden {MODIFIERATTACKER} % mehr Mana."
           }
         ]
       },
@@ -61,7 +421,67 @@
         "overrideEntries": [
           {
             "key": "notifications.titanhunter",
-            "text": "💎⭐🏴  Titan Hunter SUMMON OPEN NOW! Summon Heroes who are devastating against Titans!  💎⭐🏴"
+            "text": "💎⭐🏴 タイタンハンターサモンを開催中！タイタンに対して壊滅的な威力を誇る英雄をサモンしよう！💎⭐🏴"
+          },
+          {
+            "key": "herocard.passive_skill.description.reviveinalternativeformwithinsanitychance",
+            "text": "このキャラクターが倒されると、一定確率で[#!]エルドリッチの主人[#]として復活する。この確率はこのキャラクターに付与されている[#!]{INSANITYPERSTEP}[#][#!]狂気[#]につき[#!]{CHANCEINCREASEPERSTEP}%[#]となる。最大で[#!]{MAXCHANCEINCREASE}%[#]まで。\n\n[#!]エルドリッチの主人[#]のステータス：\n[*]キャラクターのライフの[#!]{INHERITEDHEALTH}%[#]を継承。\n[*]攻撃力[#!]{ATTACK}[#]。\n[*]防御力[#!]{DEFENSE}[#]。\n[*]特殊スキル：\n\n[#!]{ALTERNATIVEFORMSPECIALTITLE}[#]\n{ALTERNATIVEFORMSPECIALDESCRIPTION}\n\n[#!]狂気[#]を発動してこのキャラクターが自身を倒した場合、復活する可能性が常に[#!]{CHANCEONSELFCAUSEDDEATH}%[#]になる。"
+          },
+          {
+            "key": "heroes.name.construct_zavok",
+            "text": "ザヴォルト"
+          },
+          {
+            "key": "calendar.chest.name.valentinesseasonal",
+            "text": "バレンタインの宝箱"
+          },
+          {
+            "key": "calendar.chest.valentinesseasonal.description.claimed",
+            "text": "[#!]バレンタインの宝箱[#]を\nお受け取りいただきありがとうございます！"
+          },
+          {
+            "key": "herocard.passive_skill.description.managenerationmodifier.all.enemies.specialskill.passiveskill.family.statuseffect.realm",
+            "text": "特殊スキルやパッシブスキルのファミリーボーナスやステータス効果の使用時に増加したマナを[#!]{MODIFIER}%[#]減少させる。この効果は、バトル内の敵全員に適用される。"
+          },
+          {
+            "key": "level.info.property.description.valentines_brawl_resist_parasites.side.both.familiartypes.parasite.affectedfamilies.cupid",
+            "text": "[#!]キューピッド[#]ファミリーの英雄は[#!]フィエンド[#]に対する耐性を有する。"
+          },
+          {
+            "key": "linkaccount.dialog.googleplay",
+            "text": "Google Playにサインインするには、端末の設定を開いてください"
+          },
+          {
+            "key": "lottery.description.long.season5",
+            "text": "[#!]砂丘召喚[#]には、シーズン5のレジェンド英雄が3人出現する。もちろん、一定確率で「今月の英雄」も出現するぞ\n\n砂丘召喚では、[#!]レジェンド[#]英雄の入手確率が高くなっている\n\nジェムや[#!]砂丘コイン[#]を使って、召喚を実行しよう。これらは[#!]シーズン5のステージ[#]を初めてクリアした時に、報酬として入手できる。1回の召喚に必要な砂丘コインは100枚だ\n\n召喚を{0}回する毎に、[#!]砂丘王朝の宝箱[#]を受け取ろう。砂丘召喚のイベント期間中は、最大で[#!]{1}[#]個の宝箱を手に入れることができるぞ"
+          },
+          {
+            "key": "options.linkaccount.googleplay.loggedout",
+            "text": "Google Play からサインアウト"
+          },
+          {
+            "key": "options.linkaccount.info.googleplay",
+            "text": "Google Playのアカウントで\nサインインすれば、複数の\nAndroid端末でゲームの\nセーブデータを共有して\nプレイすることができます。\n\n別のGoogle Playアカウントに切り替えるには、お使いのモバイル端末のPlay ゲームアプリから操作してください。"
+          },
+          {
+            "key": "specials.name.champagne_hammer",
+            "text": "ボトルハンマー"
+          },
+          {
+            "key": "specials.v2.property.targetfamiliarbasedchainstrikewithfamiliarsummon.onehit.parasite.bigparasite.evolving_seedling_parasite_with_delay",
+            "text": "ターゲットがフィエンドかメガフィエンドを所有していた場合、ランダムで異なる敵に{DAMAGE}%のダメージを与える。\n[*]攻撃を与えた敵それぞれに対して[#!]苗木のフィエンド[#]をサモンする。"
+          },
+          {
+            "key": "specials.v2.property.tileenhancement.manamultiplier.both.red",
+            "text": "ボード上にあるすべての[##elementred]炎属性[#]の盾を変容する。攻撃側の英雄が特殊スキルを使用すると、盾が強化され、マナが{MODIFIERATTACKER}%になる。防衛側の英雄が特殊スキルを使用すると、盾が弱体化され、マナが{MODIFIERDEFENDER}%になる。"
+          },
+          {
+            "key": "specials.v2.property.tileenhancement.manamultiplier.npcs.red",
+            "text": "ボード上にあるすべての[##elementred]炎属性[#]の盾が「強化」される。盾が「強化」されると英雄のマナが{MODIFIERDEFENDER}%減少する。"
+          },
+          {
+            "key": "specials.v2.property.tileenhancement.manamultiplier.playercharacters.red",
+            "text": "ボード上にあるすべての[##elementred]炎属性[#]の盾が「強化」される。盾が「強化」されると英雄のマナが{MODIFIERATTACKER}%増加する。"
           }
         ]
       },
@@ -69,11 +489,71 @@
         "overrideEntries": [
           {
             "key": "notifications.titanhunter",
-            "text": "💎⭐🏴  Titan Hunter SUMMON OPEN NOW! Summon Heroes who are devastating against Titans!  💎⭐🏴"
+            "text": "💎⭐🏴 ÅKALLELSE AV titanjägare HAR BÖRJAT! Åkalla hjältar som är förödande mot titaner! 💎⭐🏴"
           },
           {
             "key": "specials.v2.bigminion.aberration_big_minion.single",
             "text": "Åkallar en monstrummegaundersåte med {FAMILIARHEALTHPERCENT} % hälsa och {FAMILIARATTACK} % attack som ärvs från anfallaren. \n\nVarje träff från en monstrummegaundersåte ger målet följande negativa statuseffekt:"
+          },
+          {
+            "key": "herocard.passive_skill.description.reviveinalternativeformwithinsanitychance",
+            "text": "Om den här karaktären besegras har den en chans att återfödas som en [#!]kuslig värd[#]. Chansen är [#!]{CHANCEINCREASEPERSTEP} %[#] per [#!]{INSANITYPERSTEP}[#] [#!]vansinne[#] på den här karaktären, upp till en maximal chans på [#!]{MAXCHANCEINCREASE} %[#].\n\nDen [#!]kusliga värden[#] har:\n[*][#!]{INHERITEDHEALTH} %[#] ärvd hälsa.\n[*][#!]{ATTACK}[#] attack.\n[*][#!]{DEFENSE}[#] försvar.\n[*]Följande specialförmåga:\n\n[#!]{ALTERNATIVEFORMSPECIALTITLE}[#]\n{ALTERNATIVEFORMSPECIALDESCRIPTION}\n\nOm den här karaktären besegrar sig själv när [#!]vansinne[#] aktiveras är chansen att återfödas [#!]{CHANCEONSELFCAUSEDDEATH} %[#]."
+          },
+          {
+            "key": "heroes.name.construct_zavok",
+            "text": "Zavolt"
+          },
+          {
+            "key": "calendar.chest.name.valentinesseasonal",
+            "text": "Alla hjärtans dag-kista"
+          },
+          {
+            "key": "calendar.chest.valentinesseasonal.description.claimed",
+            "text": "Tack för att du hämtade\n[#!]ALLA HJÄRTANS DAG-KISTAN[#]!"
+          },
+          {
+            "key": "herocard.passive_skill.description.managenerationmodifier.all.enemies.specialskill.passiveskill.family.statuseffect.realm",
+            "text": "Minskar mängden mana specialförmågor, passiva förmågor, familjebonusar och statuseffekter ger med [#!]{MODIFIER} %[#]. Effekten gäller alla fiender i striden."
+          },
+          {
+            "key": "level.info.property.description.valentines_brawl_resist_parasites.side.both.familiartypes.parasite.affectedfamilies.cupid",
+            "text": "Hjältar i familjen [#!]Amorin[#] har motstånd mot [#!]odjur[#]."
+          },
+          {
+            "key": "linkaccount.dialog.googleplay",
+            "text": "Gå till din enhets inställningar för att logga in på Google Play."
+          },
+          {
+            "key": "lottery.description.long.season5",
+            "text": "[#!]Dynåkallelsen[#] innehåller tre legendariska hjältar från säsong V. Det finns också en chans att få nuvarande månads hjälte.\n\nDynåkallelsen innebär en ökad chans att få [#!]legendariska[#] hjältar.\n\nÅkallelser kan utföras med ädelstenar eller [#!]dynmynt[#] som går att få genom att genomföra [#!]säsong V-nivåer[#] för första gången. En åkallelse kostar 100 dynmynt.\n\nVarje gång du gjort {0} åkallelser får du en [#!]dynernas dynasti-bonuskista[#]. Du kan få maximalt [#!]{1}[#] kistor under varje evenemang med dynåkallelse."
+          },
+          {
+            "key": "options.linkaccount.googleplay.loggedout",
+            "text": "Utloggad från Google Play"
+          },
+          {
+            "key": "options.linkaccount.info.googleplay",
+            "text": "Logga in med ditt Google Play-konto för att spara dina framsteg och kunna splea med fler än en Android-enhet.\n\n Du kan växla till ett annat Google Play-konto din telefons Play Games-appinställningar."
+          },
+          {
+            "key": "specials.name.champagne_hammer",
+            "text": "Flaskhammare"
+          },
+          {
+            "key": "specials.v2.property.targetfamiliarbasedchainstrikewithfamiliarsummon.onehit.parasite.bigparasite.evolving_seedling_parasite_with_delay",
+            "text": "Om målet har odjur eller megaodjur tar en annan slumpmässig fiende {DAMAGE} % skada.\n[*]Åkallar ett [#!]groddodjur[#] på varje fiende som träffas."
+          },
+          {
+            "key": "specials.v2.property.tileenhancement.manamultiplier.both.red",
+            "text": "Påverkar alla [##elementred]eldsköldar[#] på brädet. När en attackerande hjälte använder specialförmågan blir sköldarna förstärkta och ger {MODIFIERATTACKER} % mer mana. När en försvarande hjälte använder specialförmågan blir sköldar svagare och ger {MODIFIERDEFENDER} % mindre mana."
+          },
+          {
+            "key": "specials.v2.property.tileenhancement.manamultiplier.npcs.red",
+            "text": "Förstärker alla [##elementred]eldsköldar[#] på brädet. Förstärkta sköldar ger {MODIFIERDEFENDER} % mindre mana till hjältar."
+          },
+          {
+            "key": "specials.v2.property.tileenhancement.manamultiplier.playercharacters.red",
+            "text": "Förstärker alla [##elementred]eldsköldar[#] på brädet. Förstärkta sköldar ger {MODIFIERATTACKER} % mer mana till hjältar."
           }
         ]
       },
@@ -81,7 +561,67 @@
         "overrideEntries": [
           {
             "key": "notifications.titanhunter",
-            "text": "💎⭐🏴  Titan Hunter SUMMON OPEN NOW! Summon Heroes who are devastating against Titans!  💎⭐🏴"
+            "text": "💎⭐🏴 Titan Avcısı ÇAĞRISI AÇILDI! Titanlara karşı yıkıcı olan Kahramanları çağır! 💎⭐🏴"
+          },
+          {
+            "key": "herocard.passive_skill.description.reviveinalternativeformwithinsanitychance",
+            "text": "Bu karakterin yenildiğinde [#!]Tuhaf Konak[#] olarak dirilme şansı vardır. Şans, karakter üzerindeki {INSANITYPERSTEP} [#!]Delilik[#] başına en fazla [#!]%{MAXCHANCEINCREASE}[#] olmak üzere %{CHANCEINCREASEPERSTEP} oranındadır. \n\n[#!]Tuhaf Konak[#] şunlara sahiptir:\n[*][#!]%{INHERITEDHEALTH}[#] devralınan sağlık. \n[*][#!]{ATTACK}[#] saldırı.\n[*][#!]{DEFENSE}[#] savunma.\n[*]Şu Özel Yetenek:\n\n[#!]{ALTERNATIVEFORMSPECIALTITLE}[#]\n{ALTERNATIVEFORMSPECIALDESCRIPTION}\n\nBu karakter [#!]Deliliği[#] etkinleştirirken kendini alt ederse yeniden dirilme şansı her zaman [#!]%{CHANCEONSELFCAUSEDDEATH}[#] olur."
+          },
+          {
+            "key": "heroes.name.construct_zavok",
+            "text": "Zavolt"
+          },
+          {
+            "key": "calendar.chest.name.valentinesseasonal",
+            "text": "Sevgililer Günü Sandığı"
+          },
+          {
+            "key": "calendar.chest.valentinesseasonal.description.claimed",
+            "text": "[#!]SEVGİLİLER GÜNÜ SANDIĞINI[#]\naldığın için teşekkürler!"
+          },
+          {
+            "key": "herocard.passive_skill.description.managenerationmodifier.all.enemies.specialskill.passiveskill.family.statuseffect.realm",
+            "text": "Özel Yeteneklerin, Pasif Yeteneklerin, aile bonuslarının ve durum efektlerinin artırdığı mana miktarını [#!]%{MODIFIER}[#] azaltır. Efekt, savaştaki tüm düşmanlar için geçerlidir."
+          },
+          {
+            "key": "level.info.property.description.valentines_brawl_resist_parasites.side.both.familiartypes.parasite.affectedfamilies.cupid",
+            "text": "[#!]Aşk Meleği[#] ailesinin kahramanları, [#!]Canavarlara[#] direnir."
+          },
+          {
+            "key": "linkaccount.dialog.googleplay",
+            "text": "Google Play'da oturum açmak için oyun ayarlarına git."
+          },
+          {
+            "key": "lottery.description.long.season5",
+            "text": "[#!]Kum Tepeleri Çağrısı[#] üç Efsanevi Sezon V Kahramanı içerir. Mevcut Ayın Kahramanını da elde edebilirsin. \n\nKum Tepeleri Çağrısının [#!]Efsanevi[#] Kahraman şansı artırılmıştır. \n\nÇağrılar, mücevherle veya [#!]Kum Tepeleri Jetonları[#] ile yapılabilir. Bunları [#!]Sezon V aşamalarını[#] ilk kez tamamladığında elde edebilirsin. Bir çağrının bedeli 100 Kum Tepeleri Jetonudur.\n\nHer {0} çağrı sonrasında bir [#!]Kum Tepeleri Hanedanı Bonus Sandığı[#] verilir. Her Kum Tepeleri Çağrısı etkinliğinde maksimum [#!]{1}[#] sandık alabilirsin."
+          },
+          {
+            "key": "options.linkaccount.googleplay.loggedout",
+            "text": "Google Play'den çıkış yaptın"
+          },
+          {
+            "key": "options.linkaccount.info.googleplay",
+            "text": "Google Play hesabını kullanarak oturum açtığında, ilerlemeni kaydedersin ve birden fazla Android cihazı ile oynayabilirsin.\n\n Telefonundaki Play Games uygulamasının ayarlarından farklı bir Google Play hesabına geçebilirsin."
+          },
+          {
+            "key": "specials.name.champagne_hammer",
+            "text": "Şişe Çekici"
+          },
+          {
+            "key": "specials.v2.property.targetfamiliarbasedchainstrikewithfamiliarsummon.onehit.parasite.bigparasite.evolving_seedling_parasite_with_delay",
+            "text": "Hedefin Canavarları veya Mega Canavarları varsa farklı rastgele bir düşmana %{DAMAGE} hasar verir.\n[*]Vurulan her düşmanda bir [#!]Fide Canavarı[#] çağırır."
+          },
+          {
+            "key": "specials.v2.property.tileenhancement.manamultiplier.both.red",
+            "text": "Panodaki tüm [##elementred]Ateş[#] kalkanların gücünü değiştirir. Saldıran bir Kahraman özel uygularsa kalkanlar gelişerek %{MODIFIERATTACKER} daha fazla mana verir. Savunan bir Kahraman özel uygularsa kalkanlar, güçten düşerek %{MODIFIERDEFENDER} daha az mana verir."
+          },
+          {
+            "key": "specials.v2.property.tileenhancement.manamultiplier.npcs.red",
+            "text": "Panodaki tüm [##elementred]Ateş[#] kalkanları geliştirir. Geliştirilen kalkanlar, Kahramanlara %{MODIFIERDEFENDER} daha az mana verir."
+          },
+          {
+            "key": "specials.v2.property.tileenhancement.manamultiplier.playercharacters.red",
+            "text": "Panodaki tüm [##elementred]Ateş[#] kalkanları geliştirir. Geliştirilen kalkanlar, Kahramanlara %{MODIFIERATTACKER} daha fazla mana verir."
           }
         ]
       },
@@ -94,6 +634,62 @@
           {
             "key": "lottery.description.long.season5",
             "text": "The [#!]Dunes Summon[#] features three Legendary Season V Heroes. There is also a chance to get the current Hero of the Month.\n\nThe Dunes Summon has an increased chance for [#!]Legendary[#] Heroes.\n\nSummons can be done with gems or [#!]Dunes Coins[#] which can be obtained by completing [#!]Season V stages[#] for the first time. A single summon costs 100 Dunes Coins.\n\nAfter every {0} summons a [#!]Dynasty of Dunes Bonus Chest[#] is granted. You can claim a maximum of [#!]{1}[#] chests during each Dunes Summon event."
+          },
+          {
+            "key": "herocard.passive_skill.description.reviveinalternativeformwithinsanitychance",
+            "text": "If defeated, this character has a chance to be reborn as an [#!]Eldritch Host[#]. The chance is [#!]{CHANCEINCREASEPERSTEP}%[#] per [#!]{INSANITYPERSTEP}[#] [#!]Insanity[#] on this character, up to a maximum chance of [#!]{MAXCHANCEINCREASE}%[#]. \n\nThe [#!]Eldritch Host[#] has:\n[*][#!]{INHERITEDHEALTH}%[#] inherited health. \n[*][#!]{ATTACK}[#] attack.\n[*][#!]{DEFENSE}[#] defense.\n[*]The following Special Skill:\n\n[#!]{ALTERNATIVEFORMSPECIALTITLE}[#]\n{ALTERNATIVEFORMSPECIALDESCRIPTION}\n\nIf this character defeats themself when activating [#!]Insanity[#], the chance to be reborn is always [#!]{CHANCEONSELFCAUSEDDEATH}%[#]."
+          },
+          {
+            "key": "heroes.name.construct_zavok",
+            "text": "Zavolt"
+          },
+          {
+            "key": "calendar.chest.name.valentinesseasonal",
+            "text": "Valentines Chest"
+          },
+          {
+            "key": "calendar.chest.valentinesseasonal.description.claimed",
+            "text": "Thanks for claiming the\n[#!]VALENTINES CHEST[#]!"
+          },
+          {
+            "key": "herocard.passive_skill.description.managenerationmodifier.all.enemies.specialskill.passiveskill.family.statuseffect.realm",
+            "text": "Reduces the amount of mana increased by Special Skills, Passive Skills, family bonuses and status effects by [#!]{MODIFIER}%[#]. The effect applies to all enemies in the battle."
+          },
+          {
+            "key": "level.info.property.description.valentines_brawl_resist_parasites.side.both.familiartypes.parasite.affectedfamilies.cupid",
+            "text": "Heroes of [#!]Cupid[#] family resist [#!]Fiends[#]."
+          },
+          {
+            "key": "linkaccount.dialog.googleplay",
+            "text": "Go to Play Games settings on your device to sign in."
+          },
+          {
+            "key": "options.linkaccount.googleplay.loggedout",
+            "text": "Go to Play Games settings on your device to sign in."
+          },
+          {
+            "key": "options.linkaccount.info.googleplay",
+            "text": "When you're signed in using your Google Play account you will save your progress and can play with multiple Android devices.\n\n You can switch to a different Google Play account through your phone's Play Games app settings."
+          },
+          {
+            "key": "specials.name.champagne_hammer",
+            "text": "Bottle Hammer"
+          },
+          {
+            "key": "specials.v2.property.targetfamiliarbasedchainstrikewithfamiliarsummon.onehit.parasite.bigparasite.evolving_seedling_parasite_with_delay",
+            "text": "If the target has Fiends or Mega Fiends, deals {DAMAGE}% damage to a random different enemy.\n[*]Summons a [#!]Seedling Fiend[#] to each hit enemy."
+          },
+          {
+            "key": "specials.v2.property.tileenhancement.manamultiplier.both.red",
+            "text": "Alters the power of all [##elementred]Fire[#] shields on the board. When an attacking Hero casts the special, the shields become enhanced and give {MODIFIERATTACKER}% more mana. When a defending Hero casts the special, the shields become weakened and give {MODIFIERDEFENDER}% less mana."
+          },
+          {
+            "key": "specials.v2.property.tileenhancement.manamultiplier.npcs.red",
+            "text": "Enhances all [##elementred]Fire[#] shields on the board. Enhanced shields give {MODIFIERDEFENDER}% less mana to Heroes."
+          },
+          {
+            "key": "specials.v2.property.tileenhancement.manamultiplier.playercharacters.red",
+            "text": "Enhances all [##elementred]Fire[#] shields on the board. Enhanced shields give {MODIFIERATTACKER}% more mana to Heroes."
           }
         ]
       },
@@ -101,7 +697,75 @@
         "overrideEntries": [
           {
             "key": "notifications.titanhunter",
-            "text": "💎⭐🏴  Titan Hunter SUMMON OPEN NOW! Summon Heroes who are devastating against Titans!  💎⭐🏴"
+            "text": "💎⭐🏴 استدعاء صياد العمالقة مفتوح الآن! استدعاء الأبطال المدمرين ضد العمالقة! 💎⭐🏴"
+          },
+          {
+            "key": "herocard.passive_skill.description.reviveinalternativeformwithinsanitychance",
+            "text": "عند الهزيمة، يكون لدى الشخصية فرصة لإعادة الإحياء كـ [#!]مضيف شعوذة[#]. الفرصة هي [#!]{CHANCEINCREASEPERSTEP}%[#] لكل [#!]{INSANITYPERSTEP}[#] [#!]جنون[#] لهذه الشخصية، بحد أقصى [#!]{MAXCHANCEINCREASE}%[#]. \n\n[#!]مضيف الشعوذة[#] لديه:\n[*][#!]{INHERITEDHEALTH}%[#] من الصحة الموروثة. \n[*][#!]{ATTACK}[#] من الهجوم.\n[*][#!]{DEFENSE}[#] من الدفاع.\n[*]المهارة الخاصة التالية:\n\n[#!]{ALTERNATIVEFORMSPECIALTITLE}[#]\n{ALTERNATIVEFORMSPECIALDESCRIPTION}\n\nإذا هزمت هذه الشخصية نفسها عند تفعيل [#!]الجنون[#]، فإن فرصة إعادة الإحياء دائمًا تكون [#!]{CHANCEONSELFCAUSEDDEATH}%[#]."
+          },
+          {
+            "key": "heroes.name.construct_zavok",
+            "text": "زافول"
+          },
+          {
+            "key": "calendar.chest.name.valentinesseasonal",
+            "text": "صندوق عيد الحب"
+          },
+          {
+            "key": "calendar.chest.valentinesseasonal.description.claimed",
+            "text": "شكرًا لمطالبتك \n[#!]بصندوق عيد الحب[#]!"
+          },
+          {
+            "key": "herocard.passive_skill.description.managenerationmodifier.all.enemies.specialskill.passiveskill.family.statuseffect.realm",
+            "text": "تخفض مقدار القوة الذي يزيد من خلال المهارات الخاصة، والمهارات الخاملة، ومكافآت العائلة، وتأثيرات الحالة، بنسبة [#!]{MODIFIER}%[#]. ينطبق التأثير على جميع الأعداء في المعركة."
+          },
+          {
+            "key": "level.info.property.description.valentines_brawl_resist_parasites.side.both.familiartypes.parasite.affectedfamilies.cupid",
+            "text": "يقاوم أبطال عائلة [#!]كيوبيد[#] [#!]الأشرار[#]."
+          },
+          {
+            "key": "linkaccount.dialog.googleplay",
+            "text": "ادخل إلى إعدادات اللعبة لتسجل الدخول في غوغل بلاي."
+          },
+          {
+            "key": "lottery.description.long.season5",
+            "text": "يتميز [#!]استدعاء الكثبان الرملية[#] بثلاثة أبطال أسطوريين من الموسم V. توجد أيضًا فرصة للحصول على بطل الشهر الحالي. يتمتع استدعاء الكثبان الرملية بفرصة أكبر للحصول على أبطال [#!]أسطوريين[#]. يمكن القيام بالاستدعاءات باستخدام الجواهر أو [#!]عملات الكثبان الرملية[#] التي يمكن الحصول عليها من خلال إتمام [#!]مراحل الموسم V[#] للمرة الأولى. الاستدعاء الواحد يكلف 100 عملة من عملات الكثبان الرملية. بعد كلٍّ {0} من الاستدعاءات، ستحصل على [#!]صندوق إضافي من الكثبان الرملية[#]. يمكنك المطالبة بحد أقصى [#!]{1}[#] من الصناديق خلال كل حدث من أحداث استدعاء الكثبان الرملية."
+          },
+          {
+            "key": "options.linkaccount.googleplay.loggedout",
+            "text": "تم تسجيل الخروج من غوغل بلاي"
+          },
+          {
+            "key": "options.linkaccount.info.googleplay",
+            "text": "عند تسجيل الدخول باستخدام حساب Google Play الخاص بك، فستحفظ تقدمك، ويمكنك اللعب من عدة أجهزة Android.‏\n\nيمكنك التبديل إلى حساب Google Play مختلف عبر إعدادات تطبيق Play Games على هاتفك المحمول."
+          },
+          {
+            "key": "specials.name.champagne_hammer",
+            "text": "مطرقة زجاجة"
+          },
+          {
+            "key": "specials.v2.property.targetfamiliarbasedchainstrikewithfamiliarsummon.onehit.parasite.bigparasite.evolving_seedling_parasite_with_delay",
+            "text": "إذا كان الهدف يمتلك أشرارًا أو أشرارًا ضخمة، فإنه يلحق {DAMAGE}% من الضرر لعدو مختلف عشوائيًا.\n[*]يستدعي [#!]الشرير البذرة[#] لكل عدو مصاب."
+          },
+          {
+            "key": "specials.v2.property.tileenhancement.manamultiplier.both.red",
+            "text": "لتغيير قوة جميع دروع [##elementred]النار[#] على اللوحة. عندما يقوم أحد الأبطال المهاجمين بإلقاء المهارة الخاصة، تصبح الدروع معززة، وتمنح {MODIFIERATTACKER}% أكثر من القوة. عندما يقوم أحد الأبطال المدافعين بإلقاء المهارة الخاصة، يتم إضعاف الدروع، وتمنح {MODIFIERDEFENDER}% أقل من القوة."
+          },
+          {
+            "key": "specials.v2.property.tileenhancement.manamultiplier.npcs.red",
+            "text": "يعزز جميع دروع [##elementred]النار[#] على اللوحة. تمنح الدروع المعززة {MODIFIERDEFENDER}% أقل من القوة للأبطال."
+          },
+          {
+            "key": "specials.v2.property.tileenhancement.manamultiplier.playercharacters.red",
+            "text": "يعزز جميع دروع [##elementred]النار[#] على اللوحة. تمنح الدروع المعززة {MODIFIERATTACKER}% أكثر من القوة للأبطال."
+          },
+          {
+            "key": "shop.offers.summon_heroes#2",
+            "text": "احصل على استدعاءين!"
+          },
+          {
+            "key": "temp_fiend",
+            "text": "يتطور [#!]الشرير البذرة[#] ليصبح [#!]شريرًا برعمًا[#] بعد {EVOLVINGFAMILIAR1EVOLVETURNS} من الجولات.\n[*]يتطور [#!]الشرير البرعم[#] إلى [#!]شرير ضخم زاهر[#] بعد {EVOLVINGFAMILIAR2EVOLVETURNS} من الجولات.\n\n[*] [#!]الشرير البذرة[#]: [#!]{EVOLVINGFAMILIAR1ATTACK}[#]% من الهجوم، [#!]{EVOLVINGFAMILIAR1HEALTH}[#]% من الصحة\n[*] [#!]الشرير البرعم[#]: \n[#!]{EVOLVINGFAMILIAR2ATTACK}[#]% من الهجوم [#!]{EVOLVINGFAMILIAR2HEALTH}[#]% من الصحة\n[*] [#!]الشرير الضخم المزدهر[#]: \n[#!]{EVOLVINGFAMILIAR3ATTACK}[#]% من الهجوم [#!]{EVOLVINGFAMILIAR3HEALTH}[#]% من الصحة\n\n[*]يدمر الشرير هدفه في كل جولة. يختفي الشرير بعد امتصاص التعافي. كمية التعافي اللازمة تعتمد على الصحة القصوى للهدف.\n[*]يتأخر تطور الأشرار {EVOLVINGFAMILIAR1TURNSDELAY} من الجولات في كل مرة يمتصون فيها العلاج."
           }
         ]
       },
@@ -109,11 +773,71 @@
         "overrideEntries": [
           {
             "key": "notifications.titanhunter",
-            "text": "💎⭐🏴  Titan Hunter SUMMON OPEN NOW! Summon Heroes who are devastating against Titans!  💎⭐🏴"
+            "text": "💎⭐🏴 L'invocation des chasseurs de titans est disponible ! Invoquez des héros qui sont redoutables face aux titans ! 💎⭐🏴"
           },
           {
             "key": "specials.v2.bigminion.aberration_big_minion.single",
             "text": "Invoque un méga sbire aberration avec {FAMILIARHEALTHPERCENT} % de PV et {FAMILIARATTACK} % d'attaque hérités du lanceur.\n\nChaque coup d'un méga sbire aberration donne l'effet négatif suivant à la cible :"
+          },
+          {
+            "key": "herocard.passive_skill.description.reviveinalternativeformwithinsanitychance",
+            "text": "S'il est vaincu, ce personnage a une chance de renaître sous la forme d'un [#!]hôte fantasmagorique[#]. La probabilité est de [#!]{CHANCEINCREASEPERSTEP} %[#] pour chaque tranche de [#!]{INSANITYPERSTEP}[#] point(s) de [#!]folie[#] sur le personnage, jusqu'à un maximum de [#!]{MAXCHANCEINCREASE} % [#].\n\nL'[#!]hôte fantasmagorique[#] a :\n[*][#!]{INHERITEDHEALTH} %[#] de santé héritée.\n[*][#!]{ATTACK}[#] points d'attaque.\n[*][#!]{DEFENSE}[#] points de défense.\n[*]La compétence spéciale suivante :\n\n[#!]{ALTERNATIVEFORMSPECIALTITLE}[#]\n{ALTERNATIVEFORMSPECIALDESCRIPTION}\n\nSi le personnage s'élimine lui-même lors de l'activation de la [#!]folie[#], la probabilité est de [#!]{CHANCEONSELFCAUSEDDEATH} %[#]."
+          },
+          {
+            "key": "heroes.name.construct_zavok",
+            "text": "Zavolt"
+          },
+          {
+            "key": "calendar.chest.name.valentinesseasonal",
+            "text": "Coffre de la Saint-Valentin"
+          },
+          {
+            "key": "calendar.chest.valentinesseasonal.description.claimed",
+            "text": "Merci d'avoir récupéré le\n[#!]coffre de la Saint-Valentin[#] !"
+          },
+          {
+            "key": "herocard.passive_skill.description.managenerationmodifier.all.enemies.specialskill.passiveskill.family.statuseffect.realm",
+            "text": "Réduit de [#!]{MODIFIER} %[#] la quantité de mana octroyée par les compétences spéciales, les compétences passives, les bonus de famille et les effets appliqués. Cet effet s'applique à tous les ennemis."
+          },
+          {
+            "key": "level.info.property.description.valentines_brawl_resist_parasites.side.both.familiartypes.parasite.affectedfamilies.cupid",
+            "text": "Les héros de la famille [#!]Cupidon[#] résistent aux [#!]démons[#]."
+          },
+          {
+            "key": "linkaccount.dialog.googleplay",
+            "text": "Rendez-vous dans les options du jeu pour vous connecter à Google Play."
+          },
+          {
+            "key": "lottery.description.long.season5",
+            "text": "L'[#!]invocation des dunes[#] propose trois héros légendaires de la saison V. Il y a également une chance d'obtenir le héros du mois actuel.\n\nL'invocation des dunes donne de plus grandes chances d'obtenir des héros [#!]légendaires[#].\n\nLes invocations s'effectuent avec des gemmes ou des [#!]pièces des dunes[#], à obtenir en terminant pour la première fois des [#!]étapes de la saison V[#]. Une invocation coûte 100 pièces des dunes.\n\nToutes les {0} invocations, un [#!]coffre bonus de la dynastie des dunes[#] apparaît. Vous pouvez obtenir un maximum de [#!]{1}[#] coffres pendant chaque événement d'invocation des dunes."
+          },
+          {
+            "key": "options.linkaccount.googleplay.loggedout",
+            "text": "Déconnecté de Google Play"
+          },
+          {
+            "key": "options.linkaccount.info.googleplay",
+            "text": "Connectez-vous avec votre compte Google Play pour enregistrer votre progression et jouer sur plusieurs appareils Android.\n\n Vous pouvez changer de compte Google Play depuis les paramètres des applications Google Play Jeux de votre téléphone."
+          },
+          {
+            "key": "specials.name.champagne_hammer",
+            "text": "Marteau-bouteille"
+          },
+          {
+            "key": "specials.v2.property.targetfamiliarbasedchainstrikewithfamiliarsummon.onehit.parasite.bigparasite.evolving_seedling_parasite_with_delay",
+            "text": "Si la cible à des démons ou des méga démons, inflige {DAMAGE} % de dégâts à un autre ennemi aléatoire.\n[*]Invoque un [#!]démon plantule[#] pour chaque ennemi touché."
+          },
+          {
+            "key": "specials.v2.property.tileenhancement.manamultiplier.both.red",
+            "text": "Altère la puissance de tous les boucliers de type [##elementred]Feu[#] sur le plateau. Lorsqu'un héros attaquant lance la compétence spéciale, le bouclier devient amélioré et donne {MODIFIERATTACKER} % de mana supplémentaire. Lorsqu'un héros défenseur lance la compétence spéciale, les boucliers sont affaiblis et donnent {MODIFIERDEFENDER} % de mana en moins."
+          },
+          {
+            "key": "specials.v2.property.tileenhancement.manamultiplier.npcs.red",
+            "text": "Améliore tous les boucliers de type [##elementred]Feu[#] sur le plateau. Les boucliers améliorés donnent {MODIFIERDEFENDER} % de mana en moins aux héros."
+          },
+          {
+            "key": "specials.v2.property.tileenhancement.manamultiplier.playercharacters.red",
+            "text": "Améliore tous les boucliers de type [##elementred]Feu[#] sur le plateau. Les boucliers améliorés donnent {MODIFIERATTACKER} % de mana en plus aux héros."
           }
         ]
       },
@@ -121,11 +845,71 @@
         "overrideEntries": [
           {
             "key": "notifications.titanhunter",
-            "text": "💎⭐🏴  Titan Hunter SUMMON OPEN NOW! Summon Heroes who are devastating against Titans!  💎⭐🏴"
+            "text": "💎⭐🏴 CONVOCAÇÃO dos Caçadores de Titãs ABERTA! Convoque heróis devastadores contra titãs! 💎⭐🏴"
           },
           {
             "key": "specials.v2.bigminion.aberration_big_minion.single",
             "text": "Convoca um ajudante mega Aberração. O ajudante herda {FAMILIARHEALTHPERCENT}% de PV e {FAMILIARATTACK}% de ataque do invocador.\n\nCada ataque de um ajudante mega Aberração dá ao alvo o seguinte mal de status:"
+          },
+          {
+            "key": "herocard.passive_skill.description.reviveinalternativeformwithinsanitychance",
+            "text": "Quando é derrotado, este personagem pode renascer como [#!]Hospedeiro Místico[#]. A chance é de [#!]{CHANCEINCREASEPERSTEP}%[#] por [#!]{INSANITYPERSTEP}[#] [#!]Insanidade[#] do personagem, até o limite de [#!]{MAXCHANCEINCREASE}%[#] de chance. \n\nO [#!]Hospedeiro Místico[#] tem:\n[*] [#!]{INHERITEDHEALTH}%[#] de vida herdada\n[*] [#!]{ATTACK}[#] de ataque\n[*] [#!]{DEFENSE}[#] de defesa\n[*]A seguinte habilidade especial:\n\n[#!]{ALTERNATIVEFORMSPECIALTITLE}[#]\n{ALTERNATIVEFORMSPECIALDESCRIPTION}\n\nQuando este personagem derrota a si mesmo ao ativar  [#!]Insanidade[#], a chance de renascer é sempre [#!]{CHANCEONSELFCAUSEDDEATH}%[#]."
+          },
+          {
+            "key": "heroes.name.construct_zavok",
+            "text": "Zavolt"
+          },
+          {
+            "key": "calendar.chest.name.valentinesseasonal",
+            "text": "Baú de São Valentim"
+          },
+          {
+            "key": "calendar.chest.valentinesseasonal.description.claimed",
+            "text": "Obrigado por resgatar o\n[#!]BAÚ DE SÃO VALENTIM[#]!"
+          },
+          {
+            "key": "herocard.passive_skill.description.managenerationmodifier.all.enemies.specialskill.passiveskill.family.statuseffect.realm",
+            "text": "Reduz em [#!]{MODIFIER}%[#] a quantidade de mana que habilidades especiais, habilidades passivas, bônus familiares e efeitos de status aumentam. O efeito se aplica a todos os inimigos na batalha."
+          },
+          {
+            "key": "level.info.property.description.valentines_brawl_resist_parasites.side.both.familiartypes.parasite.affectedfamilies.cupid",
+            "text": "Os heróis da família [#!]Cupido[#] resistem a [#!]demônios[#]."
+          },
+          {
+            "key": "linkaccount.dialog.googleplay",
+            "text": "Acesse as configurações do jogo para fazer login no Google Play."
+          },
+          {
+            "key": "lottery.description.long.season5",
+            "text": "A [#!]Convocação das Dunas[#] inclui três heróis Lendários da temporada 5. Também oferece a chance de conseguir o Herói do Mês atual.\n\nA Convocação das Dunas oferece uma chance maior de conseguir Heróis [#!]Lendários[#].\n\nConvocações podem ser feitas com gemas ou [#!]moedas das Dunas[#], obtidas ao completar [#!]fases da temporada 5[#] pela primeira vez. Uma única convocação custa 100 Moedas das Dunas.\n\nA cada {0} convocações, um [#!]baú de  bônus da Dinastia das Dunas[#] é concedido. Você pode resgatar [#!]{1}[#] baús em cada evento da Convocação das Dunas."
+          },
+          {
+            "key": "options.linkaccount.googleplay.loggedout",
+            "text": "Saiu do Google Play"
+          },
+          {
+            "key": "options.linkaccount.info.googleplay",
+            "text": "Faça login com uma conta do Google Play para salvar seu progresso e jogar em vários dispositivos Android.\n\nPara usar outra conta do Google Play, acesse as configurações do app Play Games no dispositivo."
+          },
+          {
+            "key": "specials.name.champagne_hammer",
+            "text": "Martelo de Garrafa"
+          },
+          {
+            "key": "specials.v2.property.targetfamiliarbasedchainstrikewithfamiliarsummon.onehit.parasite.bigparasite.evolving_seedling_parasite_with_delay",
+            "text": "Quando o alvo tem demônios ou demônios mega, causa {DAMAGE}% de dano a outro inimigo aleatório.\n[*] Convoca um [#!]demônio Muda[#] para atingir cada inimigo."
+          },
+          {
+            "key": "specials.v2.property.tileenhancement.manamultiplier.both.red",
+            "text": "Altera o poder de todos os escudos de [##elementred]Fogo[#] no tabuleiro. Quando um herói atacante lança a habilidade especial, os escudos são reforçados e dão {MODIFIERATTACKER}% mais mana. Quando um herói defensor lança a habilidade especial, os escudos são enfraquecidos e dão {MODIFIERDEFENDER}% menos mana."
+          },
+          {
+            "key": "specials.v2.property.tileenhancement.manamultiplier.npcs.red",
+            "text": "Reforça todos os escudos de [##elementred]Fogo[#] no tabuleiro. Escudos reforçados dão {MODIFIERDEFENDER}% menos mana aos heróis."
+          },
+          {
+            "key": "specials.v2.property.tileenhancement.manamultiplier.playercharacters.red",
+            "text": "Reforça todos os escudos de [##elementred]Fogo[#] no tabuleiro. Escudos reforçados dão {MODIFIERATTACKER}% mais mana aos heróis."
           }
         ]
       },
@@ -133,7 +917,67 @@
         "overrideEntries": [
           {
             "key": "notifications.titanhunter",
-            "text": "💎⭐🏴  Titan Hunter SUMMON OPEN NOW! Summon Heroes who are devastating against Titans!  💎⭐🏴"
+            "text": "💎⭐🏴 PANGGILAN Pemburu Titan SUDAH DIBUKA! Panggil Pahlawan yang sangat menghancurkan melawan Titan! 💎⭐🏴"
+          },
+          {
+            "key": "herocard.passive_skill.description.reviveinalternativeformwithinsanitychance",
+            "text": "Jika kalah, karakter ini berpeluang terlahir sebagai [#!]Inang Eldritch[#]. Peluangnya [#!]{CHANCEINCREASEPERSTEP}%[#] per [#!]{INSANITYPERSTEP}[#] [#!]Kegilaan[#] pada karakter ini, hingga peluang maks [#!]{MAXCHANCEINCREASE}%[#].\n\n[#!]Inang Eldritch[#] memiliki \n[*]{INHERITEDHEALTH}% kesehatan yang diwarisi. \n[*][#!]{ATTACK}[#] serangan.\n[*][#!]{DEFENSE}[#] pertahanan.\n[*]Keahlian Khusus berikut:\n\n[#!]{ALTERNATIVEFORMSPECIALTITLE}[#]\n{ALTERNATIVEFORMSPECIALDESCRIPTION}\n\nJika karakter ini mengalahan diri sendiri saat [#!]Kegilaan[#] diaktifkan, peluangnya untuk terlahir kembali selalu [#!]{CHANCEONSELFCAUSEDDEATH}%[#]."
+          },
+          {
+            "key": "heroes.name.construct_zavok",
+            "text": "Zavolt"
+          },
+          {
+            "key": "calendar.chest.name.valentinesseasonal",
+            "text": "Peti Valentine"
+          },
+          {
+            "key": "calendar.chest.valentinesseasonal.description.claimed",
+            "text": "Terima kasih sudah mengklaim\n[#!]PETI VALENTINE[#]!"
+          },
+          {
+            "key": "herocard.passive_skill.description.managenerationmodifier.all.enemies.specialskill.passiveskill.family.statuseffect.realm",
+            "text": "Mengurangi jumlah mana yang ditambahkan oleh Keahlian Khusus, bonus keluarga dan efek status Keahlian Pasif sebanyak [#!]{MODIFIER}%[#]. Semua musuh dalam pertempuran akan terkena efek ini."
+          },
+          {
+            "key": "level.info.property.description.valentines_brawl_resist_parasites.side.both.familiartypes.parasite.affectedfamilies.cupid",
+            "text": "Pahlawan dari keluarga [#!]Cupid[#] menampik [#!]Iblis[#]."
+          },
+          {
+            "key": "linkaccount.dialog.googleplay",
+            "text": "Buka pengaturan game untuk masuk ke Google Play."
+          },
+          {
+            "key": "lottery.description.long.season5",
+            "text": "[#!]Panggilan Bukit Pasir[#] menghadirkan tiga Pahlawan Legendaris Season V. Ada juga peluang untuk mendapat Pahlawan Bulan Ini.\n\nPeluang lebih besar untuk mendapat Pahlawan [#!]Legendaris[#] di Panggilan Bukit Pasir.\n\nPanggilan dapat dilakukan dengan permata atau [#!]Koin Bukit Pasir[#] yang bisa diperoleh dengan menyelesaikan [#!]etape Season V[#] untuk pertama kalinya. Satu panggilan memakan biaya 100 Koin Bukit Pasir.\n\nSetelah setiap {0} panggilan, [#!]Peti Bonus Dinasti Bukit Pasir[#] diberikan. Kamu bisa mengklaim maksimal [#!]{1}[#] peti selama setiap acara Panggilan Bukit Pasir."
+          },
+          {
+            "key": "options.linkaccount.googleplay.loggedout",
+            "text": "Keluar dari Google Play"
+          },
+          {
+            "key": "options.linkaccount.info.googleplay",
+            "text": "Saat Anda masuk menggunakan akun Google Play, Anda akan menyimpan kemajuan Anda dan dapat bermain dengan beberapa perangkat Android.\n\nAnda dapat beralih ke akun Google Play lain melalui setelan aplikasi Play Games di ponsel Anda."
+          },
+          {
+            "key": "specials.name.champagne_hammer",
+            "text": "Palu Botol"
+          },
+          {
+            "key": "specials.v2.property.targetfamiliarbasedchainstrikewithfamiliarsummon.onehit.parasite.bigparasite.evolving_seedling_parasite_with_delay",
+            "text": "Jika sasaran memiliki Iblis atau Iblis Mega, menimbulkan kerusakan {DAMAGE}% kepada satu musuh acak yang berbeda.\n[*]Memanggil satu [#!]Iblis Benih[#] untuk setiap musuh yang terkena."
+          },
+          {
+            "key": "specials.v2.property.tileenhancement.manamultiplier.both.red",
+            "text": "Mengubah kekuatan semua perisai [##elementred]Api[#] yang terpasang. Saat Pahlawan penyerang merapal keahlian khusus, perisai diperkuat dan memberikan {MODIFIERATTACKER}% mana. Saat Pahlawan bertahan merapal keahlian khusus, perisai diperlemah dan memberikan mana {MODIFIERDEFENDER}% lebih sedikit."
+          },
+          {
+            "key": "specials.v2.property.tileenhancement.manamultiplier.npcs.red",
+            "text": "Memperkuat semua perisai [##elementred]Api[#] yang terpasang. Perisai yang diperkuat memberikan mana {MODIFIERDEFENDER}% lebih sedikit ke Pahlawan."
+          },
+          {
+            "key": "specials.v2.property.tileenhancement.manamultiplier.playercharacters.red",
+            "text": "Memperkuat semua perisai [##elementred]Api[#] yang terpasang. Perisai yang diperkuat memberikan mana {MODIFIERATTACKER}% lebih banyak ke Pahlawan."
           }
         ]
       },
@@ -141,11 +985,71 @@
         "overrideEntries": [
           {
             "key": "notifications.titanhunter",
-            "text": "💎⭐🏴  Titan Hunter SUMMON OPEN NOW! Summon Heroes who are devastating against Titans!  💎⭐🏴"
+            "text": "💎⭐🏴 TitaanimetsästäjäKUTSU ON NYT AUKI! Kutsu sankareita, jotka ovat tuhoisia titaaneja vastaan! 💎⭐🏴"
           },
           {
             "key": "specials.v2.bigminion.aberration_big_minion.single",
             "text": "Kutsuu hirvitys-megakäskyläisen, joka perii loitsijalta {FAMILIARHEALTHPERCENT} % terveyttä ja {FAMILIARATTACK} % hyökkäystä.\n\nJokainen hirvitys-megakäskyläisen osuma aiheuttaa kohteelle seuraavan vaivan:"
+          },
+          {
+            "key": "herocard.passive_skill.description.reviveinalternativeformwithinsanitychance",
+            "text": "Jos tämä hahmo kukistuu, hänellä on mahdollisuus syntyä uudelleen [#!]ikiaikaisena oliona[#]. Mahdollisuus on [#!]{CHANCEINCREASEPERSTEP} %[#] jokaista tällä hahmolla olevaa [#!]{INSANITYPERSTEP}[#] [#!]hulluuspistettä[#] kohti, yhteensä enintään [#!]{MAXCHANCEINCREASE} %[#]. \n\n[#!]Ikiaikaisella oliolla[#] on:\n[*][#!]{INHERITEDHEALTH} %[#] perittyä terveyttä. \n[*][#!]{ATTACK}[#] hyökkäystä.\n[*][#!]{DEFENSE}[#] puolustusta.\n[*]Seuraava erikoistaito:\n\n[#!]{ALTERNATIVEFORMSPECIALTITLE}[#]\n{ALTERNATIVEFORMSPECIALDESCRIPTION}\n\nJos tämä hahmo kukistaa itsensä [#!]hulluuden[#] aktivoituessa, uudelleen syntymisen mahdollisuus on aina [#!]{CHANCEONSELFCAUSEDDEATH} %[#]."
+          },
+          {
+            "key": "heroes.name.construct_zavok",
+            "text": "Zavolt"
+          },
+          {
+            "key": "calendar.chest.name.valentinesseasonal",
+            "text": "Ystävänpäivän arkku"
+          },
+          {
+            "key": "calendar.chest.valentinesseasonal.description.claimed",
+            "text": "Kiitos, kun lunastit\n[#!]YSTÄVÄNPÄIVÄN ARKUN[#]!"
+          },
+          {
+            "key": "herocard.passive_skill.description.managenerationmodifier.all.enemies.specialskill.passiveskill.family.statuseffect.realm",
+            "text": "Vähentää erikoistaitojen, passiivisten taitojen, perhebonusten ja tilaefektien nostaman manan määrää [#!]{MODIFIER} %[#]. Vaikutus koskee kaikkia vihollisia tässä taistelussa."
+          },
+          {
+            "key": "level.info.property.description.valentines_brawl_resist_parasites.side.both.familiartypes.parasite.affectedfamilies.cupid",
+            "text": "[#!]Cupido[#]perheen sankarit vastustavat [#!]riiviöitä[#]."
+          },
+          {
+            "key": "linkaccount.dialog.googleplay",
+            "text": "Mene peliasetuksiin kirjautuaksesi sisään Google Playhin."
+          },
+          {
+            "key": "lottery.description.long.season5",
+            "text": "[#!]Dyyni-kutsussa[#] on mukana kolme legendaarista kauden V sankaria. Mahdollisuus saada myös nykyinen kuukauden sankari.\n\nDyyni-kutsussa on paremmat mahdollisuudet [#!]legendaarisiin[#] sankareihin.\n\nKutsun voi tehdä jalokivillä tai [#!]Dyynikolikoilla[#], joita saat [#!]kauden V vyöhykkeiden[#] ensimmäisestä suorituskerrasta. Yksi kutsu maksaa 100 Dyynikolikkoa.\n\nAina {0} kutsun jälkeen ilmestyy [#!]Dyynien dynastian bonusarkku[#]. Voit lunastaa enintään [#!]{1}[#] arkkua yhden Dyyni-kutsutapahtuman aikana."
+          },
+          {
+            "key": "options.linkaccount.googleplay.loggedout",
+            "text": "Kirjautuneena ulos Google Playsta"
+          },
+          {
+            "key": "options.linkaccount.info.googleplay",
+            "text": "Kirjaudu sisään Google Play -tilillesi voidaksesi tallentaa edistymisesi ja pelata useilla Android-laitteilla.\n\n Voit vaihtaa toiseen Google Play -tiliin puhelimesi Play Games -asetuksista."
+          },
+          {
+            "key": "specials.name.champagne_hammer",
+            "text": "Pullovasara"
+          },
+          {
+            "key": "specials.v2.property.targetfamiliarbasedchainstrikewithfamiliarsummon.onehit.parasite.bigparasite.evolving_seedling_parasite_with_delay",
+            "text": "Jos kohteella on riiviöitä tai megariiviöitä, tämä tuottaa {DAMAGE} % vauriota satunnaiselle toiselle viholliselle.\n[*]Kutsuu jokaiselle osutulle viholliselle [#!]siementaimiriiviön[#]."
+          },
+          {
+            "key": "specials.v2.property.tileenhancement.manamultiplier.both.red",
+            "text": "Muuttaa kaikkien laudalla olevien [##elementred]tulikilpien[#] voimaa. Hyökkäävän sankarin loitsima erikoishyökkäys voimistaa kilvet antamaan {MODIFIERATTACKER} % enemmän manaa. Puolustavan sankarin loitsima erikoishyökkäys heikentää kilvet antamaan {MODIFIERDEFENDER} % vähemmän manaa."
+          },
+          {
+            "key": "specials.v2.property.tileenhancement.manamultiplier.npcs.red",
+            "text": "Voimistaa kaikkia laudalla olevia [##elementred]tulikilpiä[#]. Voimistuneet kilvet antavat {MODIFIERDEFENDER} % vähemmän manaa sankareille."
+          },
+          {
+            "key": "specials.v2.property.tileenhancement.manamultiplier.playercharacters.red",
+            "text": "Voimistaa kaikkia laudalla olevia [##elementred]tulikilpiä[#]. Voimistuneet kilvet antavat {MODIFIERATTACKER} % enemmän manaa sankareille."
           }
         ]
       },
@@ -153,7 +1057,67 @@
         "overrideEntries": [
           {
             "key": "notifications.titanhunter",
-            "text": "💎⭐🏴  Titan Hunter SUMMON OPEN NOW! Summon Heroes who are devastating against Titans!  💎⭐🏴"
+            "text": "💎⭐🏴 Titanjæger-HIDKALDELSE ÅBEN NU! Hidkald helte, der er ødelæggende over for titaner! 💎⭐🏴"
+          },
+          {
+            "key": "herocard.passive_skill.description.reviveinalternativeformwithinsanitychance",
+            "text": "Hvis denne figur bliver besejret, er der en chance for, at den genfødes som en [#!]sælsom vært[#]. Chancen er [#!]{CHANCEINCREASEPERSTEP} %[#] pr. [#!]{INSANITYPERSTEP}[#] [#!]vanvid[#] på denne figur op til maks. chance på [#!]{MAXCHANCEINCREASE} %[#]. \n\nDen [#!]sælsomme vært[#] har:\n[*][#!]{INHERITEDHEALTH} %[#] nedarvet helbred. \n[*][#!]{ATTACK}[#] angreb.\n[*][#!]{DEFENSE}[#] forsvar.\n[*]Følgende særlige egenskab:\n\n[#!]{ALTERNATIVEFORMSPECIALTITLE}[#]\n{ALTERNATIVEFORMSPECIALDESCRIPTION}\n\nHvis denne figur besejrer sig selv, når [#!]vanviddet[#] aktiveres, er chancen for at blive genfødt altid [#!]{CHANCEONSELFCAUSEDDEATH} %[#]."
+          },
+          {
+            "key": "heroes.name.construct_zavok",
+            "text": "Zavolt"
+          },
+          {
+            "key": "calendar.chest.name.valentinesseasonal",
+            "text": "Valentinskiste"
+          },
+          {
+            "key": "calendar.chest.valentinesseasonal.description.claimed",
+            "text": "Tak, fordi du hentede \n[#!]VALENTINESKISTERNE[#]!"
+          },
+          {
+            "key": "herocard.passive_skill.description.managenerationmodifier.all.enemies.specialskill.passiveskill.family.statuseffect.realm",
+            "text": "Reducerer mængden af mana, der øges af særlige egenskaber, passive færdighedsfamiliebonusser og statuseffekter med [#!]{MODIFIER} %[#]. Effekten gælder for alle fjender i kampen."
+          },
+          {
+            "key": "level.info.property.description.valentines_brawl_resist_parasites.side.both.familiartypes.parasite.affectedfamilies.cupid",
+            "text": "Helte fra [#!]Amor[#]-familien kan modstå [#!]djævle[#]."
+          },
+          {
+            "key": "linkaccount.dialog.googleplay",
+            "text": "Gå til spillets indstillinger for at logge på Google Play."
+          },
+          {
+            "key": "lottery.description.long.season5",
+            "text": "[#!]Sandklit-hidkaldelsen[#] indeholder tre legendariske helte fra sæson V. Der er også mulighed for at få den nuværende månedens helt.\n\nDer er større chance for [#!]legendariske[#] helte i sandklit-hidkaldelsen.\n\nHidkaldelser kan udføres med ædelsten eller [#!]sandklit-mønter[#], som kan fås ved at fuldføre [#!]etaper i sæson V[#] for første gang. En enkelt hidkaldelse koster 100 sandklit-mønter.\n\nEfter hver {0}. hidkaldelse får du en af [#!]sandklitdynastiets bonuskister[#]. Du kan maksimalt få [#!]{1}[#] kister i løbet af hver sandklit-hidkaldelsesevent."
+          },
+          {
+            "key": "options.linkaccount.googleplay.loggedout",
+            "text": "Logget ud af Google Play"
+          },
+          {
+            "key": "options.linkaccount.info.googleplay",
+            "text": "Når du er logget på med din Google Play-konto, kan du gemme dine fremskridt og spille med flere Android-enheder.\n\n Du kan skifte til en anden Google Play-konto i din telefons Play Games-appindstillinger."
+          },
+          {
+            "key": "specials.name.champagne_hammer",
+            "text": "Flaskehammer"
+          },
+          {
+            "key": "specials.v2.property.targetfamiliarbasedchainstrikewithfamiliarsummon.onehit.parasite.bigparasite.evolving_seedling_parasite_with_delay",
+            "text": "Hvis målet har djævle eller megadjævle, giver det {DAMAGE} % skade til en tilfældig anden fjende.\n[*]Hidkalder en [#!]frøplantedjævel[#] til hver ramt fjende."
+          },
+          {
+            "key": "specials.v2.property.tileenhancement.manamultiplier.both.red",
+            "text": "Ændrer kraften på alle [##elementred]ild[#]-skjolde på brættet. Når en angribende helt kaster det særlige angreb, bliver skjoldene fortryllet og giver {MODIFIERATTACKER} % mere mana. Når en forsvarende helt kaster det særlige angreb, svækkes skjoldene og giver {MODIFIERDEFENDER} % mindre mana."
+          },
+          {
+            "key": "specials.v2.property.tileenhancement.manamultiplier.npcs.red",
+            "text": "Fortryller alle [##elementred]ild[#]-skjolde på brættet. Fortryllede skjolde giver {MODIFIERDEFENDER} % mindre mana til helte."
+          },
+          {
+            "key": "specials.v2.property.tileenhancement.manamultiplier.playercharacters.red",
+            "text": "Fortryller alle [##elementred]ild[#]-skjolde på brættet. Fortryllede skjolde giver {MODIFIERATTACKER} % mere mana til helte."
           }
         ]
       },
@@ -161,7 +1125,67 @@
         "overrideEntries": [
           {
             "key": "notifications.titanhunter",
-            "text": "💎⭐🏴  Titan Hunter SUMMON OPEN NOW! Summon Heroes who are devastating against Titans!  💎⭐🏴"
+            "text": "💎⭐🏴 Ya está disponible la invocación cazatitanes. ¡Invoca a héroes devastadores contra los titanes! 💎⭐🏴"
+          },
+          {
+            "key": "herocard.passive_skill.description.reviveinalternativeformwithinsanitychance",
+            "text": "Si este personaje cae derrotado, tiene una probabilidad de renacer como [#!]huésped sobrenatural[#]. La probabilidad es del [#!]{CHANCEINCREASEPERSTEP} %[#] por cada [#!]{INSANITYPERSTEP}[#] de [#!]demencia[#] que tenga el personaje hasta un máximo del [#!]{MAXCHANCEINCREASE} %[#].\n\nEl [#!]huésped sobrenatural[#] tiene:\n[*] [#!]{INHERITEDHEALTH} %[#] de vitalidad heredada\n[*] [#!]{ATTACK}[#] de ataque\n[*] [#!]{DEFENSE}[#] de defensa\n[*] La habilidad especial:\n\n[#!]{ALTERNATIVEFORMSPECIALTITLE}[#]\n{ALTERNATIVEFORMSPECIALDESCRIPTION}\n\nSi este personaje cae derrotado cuando se activa la [#!]demencia[#], siempre tiene un [#!]{CHANCEONSELFCAUSEDDEATH} %[#] de probabilidad de renacer."
+          },
+          {
+            "key": "heroes.name.construct_zavok",
+            "text": "Zavolt"
+          },
+          {
+            "key": "calendar.chest.name.valentinesseasonal",
+            "text": "Cofre de San Valentín"
+          },
+          {
+            "key": "calendar.chest.valentinesseasonal.description.claimed",
+            "text": "¡Gracias por recoger el\n[#!]cofre de San Valentín[#]!"
+          },
+          {
+            "key": "herocard.passive_skill.description.managenerationmodifier.all.enemies.specialskill.passiveskill.family.statuseffect.realm",
+            "text": "Reduce un [#!]{MODIFIER} %[#] el aumento de la cantidad de maná que proporcionan las habilidades especiales, las habilidades pasivas, las bonificaciones familiares y los efectos de estado. El efecto se aplica a todos los enemigos de la batalla."
+          },
+          {
+            "key": "level.info.property.description.valentines_brawl_resist_parasites.side.both.familiartypes.parasite.affectedfamilies.cupid",
+            "text": "Los héroes de la familia de [#!]cupidos[#] resisten los [#!]demonios[#]."
+          },
+          {
+            "key": "linkaccount.dialog.googleplay",
+            "text": "Ve a los ajustes del juego para iniciar sesión en Google Play."
+          },
+          {
+            "key": "lottery.description.long.season5",
+            "text": "La [#!]invocación de las dunas[#] cuenta con tres héroes legendarios de la temporada V. También hay una posibilidad de obtener el héroe del mes actual.\n\nLa invocación de las dunas tiene una probabilidad aumentada de obtener héroes [#!]legendarios[#].\n\nLas invocaciones se pueden realizar con gemas o [#!]monedas de las dunas[#] que se obtienen al completar las [#!]fases de la temporada V[#] por primera vez. Una invocación cuesta 100 monedas de las dunas.\n\nCada {0} invocaciones, recibirás un [#!]cofre de Dinastía de las dunas de bonificación[#]. Puedes obtener un máximo de [#!]{1}[#] cofres durante cada evento de invocación de las dunas."
+          },
+          {
+            "key": "options.linkaccount.googleplay.loggedout",
+            "text": "Se ha cerrado sesión en Google Play"
+          },
+          {
+            "key": "options.linkaccount.info.googleplay",
+            "text": "Inicia sesión con tu cuenta de Google Play para guardar tu progreso y jugar con diferentes dispositivos Android.\n\nPuedes cambiar a otra cuenta de Google Play diferente a través de los ajustes de la aplicación Play Juegos en tu teléfono."
+          },
+          {
+            "key": "specials.name.champagne_hammer",
+            "text": "Martillo de botella"
+          },
+          {
+            "key": "specials.v2.property.targetfamiliarbasedchainstrikewithfamiliarsummon.onehit.parasite.bigparasite.evolving_seedling_parasite_with_delay",
+            "text": "Si el objetivo tiene demonios o megademonios, inflige un {DAMAGE} % de daño a un enemigo diferente aleatorio.\n[*] Invoca un [#!]demonio brote maldito[#] para cada enemigo golpeado."
+          },
+          {
+            "key": "specials.v2.property.tileenhancement.manamultiplier.both.red",
+            "text": "El poder de todos los escudos de [##elementred]fuego[#] del tablero se altera. Cuando un héroe atacante usa su habilidad especial, los escudos se mejoran y otorgan un {MODIFIERATTACKER} % más de maná. Cuando la usa un héroe defensor, los escudos se debilitan y otorgan un {MODIFIERDEFENDER} % menos de maná."
+          },
+          {
+            "key": "specials.v2.property.tileenhancement.manamultiplier.npcs.red",
+            "text": "Todos los escudos de [##elementred]fuego[#] del tablero mejoran. Los escudos mejorados otorgan un {MODIFIERDEFENDER} % menos de maná a los héroes."
+          },
+          {
+            "key": "specials.v2.property.tileenhancement.manamultiplier.playercharacters.red",
+            "text": "Todos los escudos de [##elementred]fuego[#] del tablero mejoran. Los escudos mejorados otorgan un {MODIFIERATTACKER} % más de maná a los héroes."
           }
         ]
       },
@@ -169,11 +1193,71 @@
         "overrideEntries": [
           {
             "key": "notifications.titanhunter",
-            "text": "💎⭐🏴  Titan Hunter SUMMON OPEN NOW! Summon Heroes who are devastating against Titans!  💎⭐🏴"
+            "text": "💎⭐🏴 Titan-jeger-FREMKALLING ÅPEN NÅ! Fremkall helter som knuser titaner! 💎⭐🏴"
           },
           {
             "key": "specials.v2.bigminion.aberration_big_minion.single",
             "text": "Påkaller en avviker-megaundersått med {FAMILIARHEALTHPERCENT} % HP og {FAMILIARATTACK} % angrep nedarvet fra brukeren. \n\nHvert treff fra en avviker-megaundersått påfører målet følgende statuslidelse:"
+          },
+          {
+            "key": "herocard.passive_skill.description.reviveinalternativeformwithinsanitychance",
+            "text": "Hvis den beseires, har denne figuren en sjanse til å bli gjenfødt som en [#!]uhyggelig vert[#]. Sjansen er [#!]{CHANCEINCREASEPERSTEP} %[#] per [#!]{INSANITYPERSTEP}[#] [#!]galskap[#] på denne figuren, opptil en maksimal sjanse på [#!]{MAXCHANCEINCREASE} %[#]. \n\nDen [#!]uhyggelige verten[#] har:\n[*][#!]{INHERITEDHEALTH} %[#] nedarvet helse. \n[*][#!]{ATTACK}[#] angrep.\n[*][#!]{DEFENSE}[#] forsvar.\n[*]Følgende spesialferdighet:\n\n[#!]{ALTERNATIVEFORMSPECIALTITLE}[#]\n{ALTERNATIVEFORMSPECIALDESCRIPTION}\n\nHvis denne figuren beseirer seg selv når [#!]galskap[#] aktiveres, er sjansen [#!]{CHANCEONSELFCAUSEDDEATH} %[#]."
+          },
+          {
+            "key": "heroes.name.construct_zavok",
+            "text": "Zavolt"
+          },
+          {
+            "key": "calendar.chest.name.valentinesseasonal",
+            "text": "Valentinskiste"
+          },
+          {
+            "key": "calendar.chest.valentinesseasonal.description.claimed",
+            "text": "Takk for at du gjorde krav på\n[#!]VALENTINSKISTEN[#]!"
+          },
+          {
+            "key": "herocard.passive_skill.description.managenerationmodifier.all.enemies.specialskill.passiveskill.family.statuseffect.realm",
+            "text": "Reduserer økt mengde mana fra spesialferdigheter, passive ferdigheter, familiebonuser og statuseffekter med [#!]{MODIFIER} %[#]. Denne effekten påføres alle fiender i kampen."
+          },
+          {
+            "key": "level.info.property.description.valentines_brawl_resist_parasites.side.both.familiartypes.parasite.affectedfamilies.cupid",
+            "text": "Helter i [#!]Cupido[#]-familien motstår [#!]djevler[#]."
+          },
+          {
+            "key": "linkaccount.dialog.googleplay",
+            "text": "Gå til innstillingene på enheten din og logg på Google Play."
+          },
+          {
+            "key": "lottery.description.long.season5",
+            "text": "[#!]Sanddyner-fremkallingen[#] inkluderer tre legendariske helter fra sesong V. Den inkluderer også muligheten til å få månedens helt.\n\nSanddyner-fremkallingen gir større sjanse for å få [#!]legendariske[#] helter.\n\nFremkallinger kan utføres med juveler eller [#!]Sanddyner-mynter[#]. Disse kan inntjenes ved å fullføre [#!]Brett i Sesong V[#] for første gang. Én fremkalling koster 100 Sanddyner-mynter.\n\nEtter hver {0} fremkalling, gis en [#!]Sanddynedynastiet-bonuskiste[#]. Du kan motta maksimalt [#!]{1}[#] kister i løpet av hver Sanddyner-fremkallingshendelse."
+          },
+          {
+            "key": "options.linkaccount.googleplay.loggedout",
+            "text": "Logget ut av Google Play"
+          },
+          {
+            "key": "options.linkaccount.info.googleplay",
+            "text": "Logg inn ved bruk av Google Play-kontoen din for å lagre fremgangen din og spille på flere Android-enheter.\n\n Du kan bygge til en annen Google Play-konto via telefonens Play Games-appinnstillinger."
+          },
+          {
+            "key": "specials.name.champagne_hammer",
+            "text": "Flaskehammer"
+          },
+          {
+            "key": "specials.v2.property.targetfamiliarbasedchainstrikewithfamiliarsummon.onehit.parasite.bigparasite.evolving_seedling_parasite_with_delay",
+            "text": "Hvis målet har djevler eller megadjevler, påføres {DAMAGE} %  skade på en tilfeldig annen fiend¨.\n[*]Summons a [#!]Seedling Fiend[#] to each hit enemy."
+          },
+          {
+            "key": "specials.v2.property.tileenhancement.manamultiplier.both.red",
+            "text": "Endrer styrken til alle [##elementred]ild[#]-skjold på brettet. Når en angripende helt bruker spesialangrepet, blir skjoldene forbedret, og de gir {MODIFIERATTACKER} % mer mana. Når en forsvarende helt bruker spesialangrepet, svekkes skjoldene, og de gir {MODIFIERDEFENDER} % mindre mana."
+          },
+          {
+            "key": "specials.v2.property.tileenhancement.manamultiplier.npcs.red",
+            "text": "Forbedrer alle [##elementred]ild[#]-skjold på brettet. Forbedrede skjold gir heltene {MODIFIERDEFENDER} % mindre mana."
+          },
+          {
+            "key": "specials.v2.property.tileenhancement.manamultiplier.playercharacters.red",
+            "text": "Forbedrer alle [##elementred]ild[#]-skjold på brettet. Forbedrede skjold gir heltene {MODIFIERATTACKER} % mer mana."
           }
         ]
       },
@@ -181,11 +1265,71 @@
         "overrideEntries": [
           {
             "key": "notifications.titanhunter",
-            "text": "💎⭐🏴  Titan Hunter SUMMON OPEN NOW! Summon Heroes who are devastating against Titans!  💎⭐🏴"
+            "text": "💎⭐🏴 Titanenjager-AANROEP NU GEOPEND! Roep helden aan die verwoestend zijn tegen Titanen! 💎⭐🏴"
           },
           {
             "key": "specials.v2.bigminion.aberration_big_minion.single",
             "text": "Roept een atypische megavolgeling aan met {FAMILIARHEALTHPERCENT}% gezondheid en {FAMILIARATTACK}% aanval van de spreukspreker.\n\nElke treffer van de atypische megavolgeling geeft het doelwit het volgende negatieve statuseffect:"
+          },
+          {
+            "key": "herocard.passive_skill.description.reviveinalternativeformwithinsanitychance",
+            "text": "Als dit personage verslagen wordt, is er een kans dat het herboren wordt als een [#!]Eldritch-host[#]. De kans is [#!]{CHANCEINCREASEPERSTEP}%[#] per [#!]{INSANITYPERSTEP}[#] [#!]waanzin[#] voor dit personage en maximaal [#!]{MAXCHANCEINCREASE}%[#].\n\nDe [#!]Eldritch-host[#] heeft:\n[*][#!]{INHERITEDHEALTH}%[#] geërfde gezondheid. \n[*][#!]{ATTACK}[#] aanval.\n[*][#!]{DEFENSE}[#] verdediging.\n[*]Speciale vaardigheid: [#!]Eldritch-verderf[#].\n[*]De volgende speciale vaardigheid:\n\n[#!]{ALTERNATIVEFORMSPECIALTITLE}[#]\n{ALTERNATIVEFORMSPECIALDESCRIPTION}\n\nAls dit personage zichzelf verslaat terwijl [#!]waanzin[#] wordt geactiveerd, is de kans op hergeboorte altijd [#!]{CHANCEONSELFCAUSEDDEATH}%[#]."
+          },
+          {
+            "key": "heroes.name.construct_zavok",
+            "text": "Zavolt"
+          },
+          {
+            "key": "calendar.chest.name.valentinesseasonal",
+            "text": "Valentijnskist"
+          },
+          {
+            "key": "calendar.chest.valentinesseasonal.description.claimed",
+            "text": "Bedankt voor het claimen van de\n[#!]VALENTIJNENKIST[#]!"
+          },
+          {
+            "key": "herocard.passive_skill.description.managenerationmodifier.all.enemies.specialskill.passiveskill.family.statuseffect.realm",
+            "text": "Vermindert de hoeveelheid mana die verhoogd wordt door speciale vaardigheden, passieve vaardigheden, familiebonussen en statuseffecten met [#!]{MODIFIER}%[#]. Het effect is van toepassing op alle vijanden in het gevecht."
+          },
+          {
+            "key": "level.info.property.description.valentines_brawl_resist_parasites.side.both.familiartypes.parasite.affectedfamilies.cupid",
+            "text": "Helden uit de [#!]Cupido-familie[#] weerstaan [#!]demonen[#]."
+          },
+          {
+            "key": "linkaccount.dialog.googleplay",
+            "text": "Ga naar de spelinstellingen om in te loggen via Google Play."
+          },
+          {
+            "key": "lottery.description.long.season5",
+            "text": "De [#!]Duinenaanroep[#] bevat drie legendarische helden uit seizoen IV. Je maakt ook kans op de huidige held van de maand.\n\nDe aanroep van de duinen geeft een verhoogde kans op [#!]legendarische[#] helden.\n\nAanroepen kunnen worden uitgevoerd met edelstenen of [#!]Duinenmunten[#] die je kunt verdienen door [#!]etappes van seizoen V[#] voor de eerste keer te voltooien. Een aanroep kost 100 Duinenmunten.\n\nNa elke {0} aanroepen ontvang je een [#!]Dynastie der Duinen-bonuskist[#]. Tijdens elk Duinenaanroepevenement kun je maximaal [#!]{1}[#] kisten claimen."
+          },
+          {
+            "key": "options.linkaccount.googleplay.loggedout",
+            "text": "Afgemeld via Google Play"
+          },
+          {
+            "key": "options.linkaccount.info.googleplay",
+            "text": "Meld je aan via je Google Play-account om je voortgang op te slaan en op meerdere Android-apparaten te spelen.\n\n Je kunt overschakelen naar een ander Google Play-account via de instellingen van de Play Games-app op je telefoon."
+          },
+          {
+            "key": "specials.name.champagne_hammer",
+            "text": "Fleshamer"
+          },
+          {
+            "key": "specials.v2.property.targetfamiliarbasedchainstrikewithfamiliarsummon.onehit.parasite.bigparasite.evolving_seedling_parasite_with_delay",
+            "text": "Brengt {DAMAGE}% schade toe aan een willekeurige, andere vijand als het doelwit demonen of megademonen heeft.\n[*]Roept een [#!]zaailingdemon[#] aan voor elke geraakte vijand."
+          },
+          {
+            "key": "specials.v2.property.tileenhancement.manamultiplier.both.red",
+            "text": "Verandert de kracht van alle [##elementred]vuurschilden[#] op het bord. Als een aanvallende held een speciale vaardigheid gebruikt, worden de schilden versterkt en leveren {MODIFIERATTACKER}% meer mana op. Als een verdedigende held een speciale vaardigheid gebruikt, verzwakken de schilden en leveren {MODIFIERDEFENDER}% minder mana op."
+          },
+          {
+            "key": "specials.v2.property.tileenhancement.manamultiplier.npcs.red",
+            "text": "Versterkt alle [##elementred]vuurschilden[#] op het bord. Versterkte schilden geven helden {MODIFIERDEFENDER}% minder mana."
+          },
+          {
+            "key": "specials.v2.property.tileenhancement.manamultiplier.playercharacters.red",
+            "text": "Versterkt alle [##elementred]vuurschilden[#] op het bord. Versterkte schilden geven helden {MODIFIERATTACKER}% meer mana."
           }
         ]
       },
@@ -193,11 +1337,71 @@
         "overrideEntries": [
           {
             "key": "notifications.titanhunter",
-            "text": "💎⭐🏴  Titan Hunter SUMMON OPEN NOW! Summon Heroes who are devastating against Titans!  💎⭐🏴"
+            "text": "💎⭐🏴 泰坦猎人召唤现已开启！召唤可对泰坦造成毁灭性打击的英雄！ 💎⭐🏴"
+          },
+          {
+            "key": "herocard.passive_skill.description.reviveinalternativeformwithinsanitychance",
+            "text": "被击败后，该角色有几率以[#!]上古邪神宿主[#]的姿态重生。该角色每有[#!]{INSANITYPERSTEP}[#]点[#!]狂乱[#]值，几率便会提升[#!]{CHANCEINCREASEPERSTEP}%[#]，最多可提升至[#!]{MAXCHANCEINCREASE}%[#]。\n\n[#!]上古邪神宿主[#]拥有：\n[*][#!]{INHERITEDHEALTH}%[#]继承生命值。\n[*][#!]{ATTACK}[#]攻击力。\n[*][#!]{DEFENSE}[#]防御力。\n[*]以下特殊技能：\n\n[#!]{ALTERNATIVEFORMSPECIALTITLE}[#]\n{ALTERNATIVEFORMSPECIALDESCRIPTION}\n\n若因自身[#!]狂乱[#]效果而被自己击败，重生几率始终为[#!]{CHANCEONSELFCAUSEDDEATH}%[#]。"
+          },
+          {
+            "key": "heroes.name.construct_zavok",
+            "text": "萨伏特"
+          },
+          {
+            "key": "calendar.chest.name.valentinesseasonal",
+            "text": "情人节宝箱"
+          },
+          {
+            "key": "calendar.chest.valentinesseasonal.description.claimed",
+            "text": "感谢您领取\n[#!]情人节宝箱[#]！"
+          },
+          {
+            "key": "herocard.passive_skill.description.managenerationmodifier.all.enemies.specialskill.passiveskill.family.statuseffect.realm",
+            "text": "通过特殊技能、被动技能、家族奖励和状态效果获得的法力将减少[#!]{MODIFIER}%[#]。此效果适用于战场上的所有敌人。"
+          },
+          {
+            "key": "level.info.property.description.valentines_brawl_resist_parasites.side.both.familiartypes.parasite.affectedfamilies.cupid",
+            "text": "[#!]爱神[#]家族的英雄可抵抗[#!]恶魔[#]。"
+          },
+          {
+            "key": "linkaccount.dialog.googleplay",
+            "text": "前往设置，登录Google Play。"
+          },
+          {
+            "key": "lottery.description.long.season5",
+            "text": "[#!]沙丘召唤[#]主打三个第5赛季传奇英雄。也有几率获得本月的月度英雄。\n\n沙丘召唤可提高获得[#!]传奇[#]英雄的几率。\n\n可使用宝石或[#!]沙丘币[#]进行召唤，沙丘币可通过首次完成[#!]第5赛季关卡[#]获得。一次召唤消耗100枚沙丘币。\n\n每召唤满{0}次，即可获得一个[#!]沙丘王朝奖励宝箱[#]。每次沙丘召唤活动期间，最多可领取[#!]{1}[#]个宝箱。"
+          },
+          {
+            "key": "options.linkaccount.googleplay.loggedout",
+            "text": "登出Google Play"
+          },
+          {
+            "key": "options.linkaccount.info.googleplay",
+            "text": "登录Google Play账户可保存进度，并可以在多台Android设备上游戏。\n\n你可以通过你手机上的“Play 游戏”应用设置来切换至不同的Google Play账户。"
+          },
+          {
+            "key": "specials.name.champagne_hammer",
+            "text": "瓶锤"
+          },
+          {
+            "key": "specials.v2.property.targetfamiliarbasedchainstrikewithfamiliarsummon.onehit.parasite.bigparasite.evolving_seedling_parasite_with_delay",
+            "text": "若目标拥有恶魔或超级恶魔，随机对另一名敌人造成{DAMAGE}%伤害。\n[*]在受到伤害的敌人处召唤[#!]幼苗恶魔[#]。"
+          },
+          {
+            "key": "specials.v2.property.tileenhancement.manamultiplier.both.red",
+            "text": "面板中所有[##elementred]烈火系[#]盾牌受到影响。进攻方英雄施放此特殊技能时，盾牌将会被增强，给予的法力增加{MODIFIERATTACKER}%。而防御方英雄施放此特殊技能时，盾牌则会被削弱，给予的法力减少{MODIFIERDEFENDER}%。"
+          },
+          {
+            "key": "specials.v2.property.tileenhancement.manamultiplier.npcs.red",
+            "text": "增强面板中所有[##elementred]烈火系[#]盾牌。增强的盾牌给予英雄的法力降低{MODIFIERDEFENDER}%。"
+          },
+          {
+            "key": "specials.v2.property.tileenhancement.manamultiplier.playercharacters.red",
+            "text": "增强面板中所有[##elementred]烈火系[#]盾牌。增强的盾牌给予英雄额外{MODIFIERATTACKER}%的法力。"
           }
         ]
       }
     }
   },
-  "languageOverridesConfigId": 1472731602
+  "languageOverridesConfigId": 239562094
 }

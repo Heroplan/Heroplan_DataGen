@@ -12,7 +12,7 @@ from PIL import Image # <-- 新增：用于图像处理和格式转换
 
 # 网站配置
 MAX_RETRIES = 5
-RETRY_DELAY = 5 # 重试间隔（秒）
+RETRY_DELAY = 2 # 重试间隔（秒）
 
 # 转换与目标配置
 # WEBP_CONVERTER_EXE 已移除

@@ -33083,8 +33083,9 @@
         "statusEffect": "FixedHealthRecovery",
         "id": "hp_recovery_porthos_costume",
         "buff": "MinorBuff",
-        "healthPoints": 170,
-        "healthPointsIncrementPerLevel": 20
+        "healthPoints": 115,
+        "healthPointsIncrementPerLevel": 20,
+        "isHealthBoost": true
       },
       {
         "statusEffect": "ManaOverTime",
@@ -33191,7 +33192,10 @@
       {
         "statusEffect": "DebuffShield",
         "id": "debuff_shield",
-        "buff": "MajorBuff"
+        "buff": "MajorBuff",
+        "statusEffectOnResist": {
+          "id": ""
+        }
       },
       {
         "statusEffect": "ElementLink",
@@ -33337,7 +33341,10 @@
       {
         "statusEffect": "DebuffShield",
         "id": "debuff_shield_minor",
-        "buff": "MinorBuff"
+        "buff": "MinorBuff",
+        "statusEffectOnResist": {
+          "id": ""
+        }
       },
       {
         "statusEffect": "SpellSlay",
@@ -34209,7 +34216,7 @@
                 "id": "paralysis_wilcox",
                 "sideAffected": "Allies",
                 "statusTargetType": "Single",
-                "turns": 2
+                "turns": 4
               }
             ]
           }
@@ -38830,7 +38837,7 @@
         "id": "resist_healing_with_damage_turundh",
         "buff": "MinorDebuff",
         "effectOnResistedHealing": "Damage",
-        "fixedPower": 110,
+        "fixedPower": 160,
         "fixedPowerIncrementPerLevel": 20
       },
       {
@@ -39352,11 +39359,11 @@
               "Death"
             ],
             "excludeEffectTriggerRemovalReasons": [],
-            "fixedPower": 490,
+            "fixedPower": 190,
             "fixedPowerIncrementPerLevel": 30
           }
         ],
-        "maxAdditionalFixedDamage": 490,
+        "maxAdditionalFixedDamage": 190,
         "maxAdditionalFixedDamageIncrementPerLevel": 30,
         "maxRelativeDamageTakenPerMil": 500
       },
@@ -41073,7 +41080,7 @@
         "statusEffect": "CounterAttack",
         "id": "counterattack_dominique",
         "buff": "MinorBuff",
-        "damageDeflectionPerMil": 950,
+        "damageDeflectionPerMil": 1150,
         "damageDeflectionPerLevelPerMil": 50
       },
       {
@@ -44668,7 +44675,10 @@
         "buff": "MinorBuff",
         "effectOnResistedStatusEffect": "Heal",
         "fixedPower": 290,
-        "fixedPowerIncrementPerLevel": 10
+        "fixedPowerIncrementPerLevel": 10,
+        "statusEffectOnResist": {
+          "id": ""
+        }
       },
       {
         "statusEffect": "ElementLinkDodgeModifier",
@@ -46787,7 +46797,10 @@
       {
         "statusEffect": "BuffImmunity",
         "id": "buff_immunity_violet_potts",
-        "buff": "MinorDebuff"
+        "buff": "MinorDebuff",
+        "statusEffectOnResist": {
+          "id": ""
+        }
       },
       {
         "statusEffect": "HealMultiplier",
@@ -51777,12 +51790,12 @@
         "buff": "MinorDebuff",
         "damageMultiplierPerMil": 0,
         "damageMultiplierIncrementPerLevelPerMil": 0,
-        "fixedDamagePerTurn": 230,
+        "fixedDamagePerTurn": 290,
         "fixedDamagePerTurnIncrementPerLevel": 10,
         "extraDamagePerTurnPerMil": 0,
         "maxExtraDamagePerTurnPerMil": 0,
-        "fixedExtraDamagePerTurn": 50,
-        "maxFixedExtraDamagePerTurn": 200
+        "fixedExtraDamagePerTurn": 60,
+        "maxFixedExtraDamagePerTurn": 240
       },
       {
         "statusEffect": "BloodPoisoning",
@@ -52895,8 +52908,8 @@
         "buff": "MinorDebuff",
         "damageMultiplierPerMil": 0,
         "damageMultiplierIncrementPerLevelPerMil": 0,
-        "fixedDamagePerTurn": 260,
-        "fixedDamagePerTurnIncrementPerLevel": 20
+        "fixedDamagePerTurn": 210,
+        "fixedDamagePerTurnIncrementPerLevel": 15
       },
       {
         "statusEffect": "Bleeding",
@@ -52904,7 +52917,7 @@
         "buff": "MinorDebuff",
         "damageMultiplierPerMil": 0,
         "damageMultiplierIncrementPerLevelPerMil": 0,
-        "fixedDamagePerTurn": 155,
+        "fixedDamagePerTurn": 170,
         "fixedDamagePerTurnIncrementPerLevel": 10
       },
       {
@@ -53714,10 +53727,10 @@
         "statusEffect": "AccuracyModifierPerTile",
         "id": "accuracy_debuff_per_tile_purple_zavok",
         "buff": "MinorDebuff",
-        "accuracyIncrementPerMil": 226,
+        "accuracyIncrementPerMil": 206,
         "accuracyIncrementPerLevelPerMil": 246,
-        "incrementPerTilePerMil": 206,
-        "maxTileCount": 10,
+        "incrementPerTilePerMil": 196,
+        "maxTileCount": 8,
         "element": "紫"
       },
       {
@@ -55318,7 +55331,7 @@
         "statusEffect": "CorrosiveBurn",
         "id": "corrosive_burn_jwala",
         "buff": "MinorDebuff",
-        "damageMultiplierPerMil": 350,
+        "damageMultiplierPerMil": 300,
         "damageMultiplierIncrementPerLevelPerMil": 5,
         "extraDamageModifierConfigs": [
           {
@@ -55333,7 +55346,7 @@
         ],
         "modifier": "DefenseModifier",
         "multiplierPerMil": 800,
-        "multiplierIncrementPerTurnPerMil": 65356,
+        "multiplierIncrementPerTurnPerMil": 65396,
         "multiplierIncrementPerTurnIncrementPerLevelPerMil": 0
       },
       {
@@ -55669,7 +55682,7 @@
         "id": "add_insanity_wilcox",
         "buff": "PermanentDebuff",
         "alwaysAdd": true,
-        "insanityToAdd": 15,
+        "insanityToAdd": 20,
         "reductionOnHealSources": [
           "SpecialSkill",
           "AssistSkill",
@@ -55682,7 +55695,7 @@
         "id": "add_insanity_to_self_wilcox",
         "buff": "PermanentDebuff",
         "alwaysAdd": true,
-        "insanityToAdd": 50,
+        "insanityToAdd": 45,
         "reductionOnHealSources": [
           "SpecialSkill",
           "AssistSkill",
@@ -55771,7 +55784,10 @@
         "id": "poison_telonius_costume",
         "buff": "MinorDebuff",
         "damageMultiplierPerMil": 110,
-        "damageMultiplierIncrementPerLevelPerMil": 5
+        "damageMultiplierIncrementPerLevelPerMil": 5,
+        "additionalCasterSideEffect": "Heal",
+        "additionalCasterSideEffectPowerPerMil": 100,
+        "additionalCasterSideEffectTargetType": "Single"
       },
       {
         "statusEffect": "HealMultiplier",
@@ -55787,6 +55803,18 @@
         "iconOverrideStatusEffectId": "mark_nature",
         "defenseMultiplierPerMil": 940,
         "defenseMultiplierIncrementPerLevelPerMil": 236
+      },
+      {
+        "statusEffect": "DebuffShield",
+        "id": "debuff_shield_with_heal_telonius_costume",
+        "buff": "MinorBuff",
+        "iconOverrideStatusEffectId": "debuff_shield_with_heal_on_resist",
+        "effectOnResistedStatusEffect": "Heal",
+        "fixedPower": 280,
+        "fixedPowerIncrementPerLevel": 10,
+        "statusEffectOnResist": {
+          "id": ""
+        }
       }
     ],
     "tileEnhancements": [
@@ -65751,7 +65779,7 @@
             "id": "damage_piranha_fiend"
           }
         ],
-        "healthPerMil": 500
+        "healthPerMil": 550
       },
       {
         "familiarType": "Minion",
@@ -86887,5 +86915,5 @@
       "SharedDamage"
     ]
   },
-  "battleConfigId": 404926707
+  "battleConfigId": 2583748414
 }

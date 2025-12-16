@@ -1,17 +1,5 @@
 [
     {
-        "name": "Aether Mimic Ice",
-        "fancy_name": "Starved Storage of Rods",
-        "color": "Blue",
-        "Release date": "",
-        "star": 5,
-        "family": "mimic",
-        "source": "mimic",
-        "costume_id": 0,
-        "heroId": "mimic_aether_blue",
-        "Lottery_Only":1
-    },
-    {
         "name": "Experience Mimic Rare",
         "fancy_name": "Trove of the Tiny Teeth",
         "color": "Red",
@@ -34,39 +22,6 @@
         "costume_id": 0,
         "heroId": "mimic_ascension_epic_yellow",
         "Lottery_Only":1
-    },
-    {
-        "name": "Kadilen C4",
-        "fancy_name": "Shieldmaster of Glass",
-        "color": "Green",
-        "Release date": "",
-        "star": 5,
-        "family": "classic",
-        "costume_id": 4,
-        "heroId": "forest_female_elf_costume_glass",
-        "Lottery_Only": 1
-    },
-    {
-        "name": "Valen C3",
-        "fancy_name": "Glass Duelist",
-        "color": "Blue",
-        "Release date": "",
-        "star": 3,
-        "family": "classic",
-        "costume_id": 3,
-        "heroId": "nordic_swordman_costume_glass",
-        "Lottery_Only": 1
-    },
-    {
-        "name": "Tyrum C3",
-        "fancy_name": "Glass Remnant",
-        "color": "Purple",
-        "Release date": "",
-        "star": 3,
-        "family": "classic",
-        "costume_id": 3,
-        "heroId": "undead_running_skeleton_costume_glass",
-        "Lottery_Only": 1
     },
     {
         "name": "Anzia C1",
@@ -407,6 +362,94 @@
         "family": "cupid",
         "costume_id": 0,
         "heroId": "valentines_vernon",
+        "Lottery_Only": 1
+    },
+    {
+        "name": "Vivica C5",
+        "fancy_name": "Stylish Scholar",
+        "color": "Yellow",
+        "Release date": "",
+        "star": 5,
+        "family": "classic",
+        "costume_id": 5,
+        "heroId": "oriental_female_mystic_costume_stylish",
+        "Lottery_Only": 1
+    },
+    {
+        "name": "Richard C5",
+        "fancy_name": "Paladin of Style",
+        "color": "Blue",
+        "Release date": "",
+        "star": 5,
+        "family": "classic",
+        "costume_id": 5,
+        "heroId": "nordic_male_lord_costume_stylish",
+        "Lottery_Only": 1
+    },
+    {
+        "name": "Sartana C5",
+        "fancy_name": "Stylish Executioner",
+        "color": "Purple",
+        "Release date": "",
+        "star": 5,
+        "family": "classic",
+        "costume_id": 5,
+        "heroId": "cultist_sorceress_costume_stylish",
+        "Lottery_Only": 1
+    },
+    {
+        "name": "Azlar C5",
+        "fancy_name": "Stylish Leor",
+        "color": "Red",
+        "Release date": "",
+        "star": 5,
+        "family": "classic",
+        "costume_id": 5,
+        "heroId": "lionman_barbarian_costume_stylish",
+        "Lottery_Only": 1
+    },
+    {
+        "name": "Boldtusk C5",
+        "fancy_name": "The Fancy",
+        "color": "Red",
+        "Release date": "",
+        "star": 4,
+        "family": "classic",
+        "costume_id": 5,
+        "heroId": "orc_gladiator_costume_stylish",
+        "Lottery_Only": 1
+    },
+    {
+        "name": "Grimm C5",
+        "fancy_name": "Heir of Evil Style",
+        "color": "Blue",
+        "Release date": "",
+        "star": 4,
+        "family": "classic",
+        "costume_id": 5,
+        "heroId": "nordic_ancestral_warrior_costume_stylish",
+        "Lottery_Only": 1
+    },
+    {
+        "name": "Gan Ju C4",
+        "fancy_name": "Vibrant Bamboo",
+        "color": "Yellow",
+        "Release date": "",
+        "star": 3,
+        "family": "classic",
+        "costume_id": 4,
+        "heroId": "oriental_panda_berserker_costume_stylish",
+        "Lottery_Only": 1
+    },
+    {
+        "name": "Jahangir C4",
+        "fancy_name": "Stylish Mage",
+        "color": "Red",
+        "Release date": "",
+        "star": 3,
+        "family": "classic",
+        "costume_id": 4,
+        "heroId": "nomad_mage_costume_stylish",
         "Lottery_Only": 1
     }
 ]
