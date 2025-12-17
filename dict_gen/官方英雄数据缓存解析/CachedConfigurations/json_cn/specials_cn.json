@@ -747,7 +747,7 @@
           "sideAffected": "Enemies",
           "typeOfTarget": "NearToTargetMinor",
           "effectType": "Damage",
-          "powerMultiplierPerMil": 4350,
+          "powerMultiplierPerMil": 5650,
           "powerMultiplierIncrementPerLevelPerMil": 50
         },
         "maxLevel": 8,
@@ -774,7 +774,7 @@
           "sideAffected": "Enemies",
           "typeOfTarget": "NearToTargetMinor",
           "effectType": "Damage",
-          "powerMultiplierPerMil": 4050,
+          "powerMultiplierPerMil": 4250,
           "powerMultiplierIncrementPerLevelPerMil": 50
         },
         "maxLevel": 8,
@@ -1003,7 +1003,8 @@
         },
         "maxLevel": 8,
         "properties": [
-          "cleanse_debuffs_from_all_allies"
+          "cleanse_debuffs_from_all_allies",
+          "growth_rose_de_flo1"
         ],
         "statusEffects": [
           {
@@ -1031,7 +1032,8 @@
         },
         "maxLevel": 8,
         "properties": [
-          "cleanse_latest_debuff_from_all_allies"
+          "cleanse_latest_debuff_from_all_allies",
+          "growth_rose_de_flo2"
         ],
         "statusEffects": [
           {
@@ -3306,7 +3308,13 @@
         "statusEffects": [
           {
             "id": "soul_connection",
-            "sideAffected": "Both",
+            "sideAffected": "Allies",
+            "statusTargetType": "All",
+            "turns": 4
+          },
+          {
+            "id": "soul_connection_ailment",
+            "sideAffected": "Enemies",
             "statusTargetType": "All",
             "turns": 4
           },
@@ -4753,7 +4761,7 @@
           "sideAffected": "Enemies",
           "typeOfTarget": "NearToTarget",
           "effectType": "Damage",
-          "powerMultiplierPerMil": 2550,
+          "powerMultiplierPerMil": 2850,
           "powerMultiplierIncrementPerLevelPerMil": 50
         },
         "maxLevel": 8,
@@ -5689,7 +5697,7 @@
         "maxLevel": 8,
         "statusEffects": [
           {
-            "id": "soul_connection",
+            "id": "soul_connection_ailment",
             "sideAffected": "Enemies",
             "statusTargetType": "All",
             "turns": 5
@@ -8631,7 +8639,7 @@
           "sideAffected": "Enemies",
           "typeOfTarget": "NearToTarget",
           "effectType": "Damage",
-          "powerMultiplierPerMil": 2750,
+          "powerMultiplierPerMil": 3050,
           "powerMultiplierIncrementPerLevelPerMil": 50
         },
         "maxLevel": 8,
@@ -13205,7 +13213,7 @@
         "maxLevel": 8,
         "statusEffects": [
           {
-            "id": "soul_connection",
+            "id": "soul_connection_ailment",
             "sideAffected": "Enemies",
             "statusTargetType": "All",
             "turns": 5
@@ -18134,7 +18142,7 @@
         ],
         "statusEffects": [
           {
-            "id": "soul_connection",
+            "id": "soul_connection_ailment",
             "sideAffected": "Enemies",
             "statusTargetType": "All",
             "turns": 4
@@ -20673,7 +20681,7 @@
           "sideAffected": "Enemies",
           "typeOfTarget": "Single",
           "effectType": "Damage",
-          "powerMultiplierPerMil": 4950,
+          "powerMultiplierPerMil": 5450,
           "powerMultiplierIncrementPerLevelPerMil": 50
         },
         "maxLevel": 8,
@@ -26697,7 +26705,7 @@
           "sideAffected": "Enemies",
           "typeOfTarget": "NearToTarget",
           "effectType": "Damage",
-          "powerMultiplierPerMil": 2450,
+          "powerMultiplierPerMil": 2750,
           "powerMultiplierIncrementPerLevelPerMil": 50
         },
         "maxLevel": 8,
@@ -29514,7 +29522,13 @@
         "statusEffects": [
           {
             "id": "soul_connection",
-            "sideAffected": "Both",
+            "sideAffected": "Allies",
+            "statusTargetType": "NearToTarget",
+            "turns": 4
+          },
+          {
+            "id": "soul_connection_ailment",
+            "sideAffected": "Enemies",
             "statusTargetType": "NearToTarget",
             "turns": 4
           },
@@ -33485,7 +33499,13 @@
         "statusEffects": [
           {
             "id": "soul_connection",
-            "sideAffected": "Both",
+            "sideAffected": "Allies",
+            "statusTargetType": "All",
+            "turns": 4
+          },
+          {
+            "id": "soul_connection_ailment",
+            "sideAffected": "Enemies",
             "statusTargetType": "All",
             "turns": 4
           },
@@ -39122,7 +39142,7 @@
           "sideAffected": "Enemies",
           "typeOfTarget": "All",
           "effectType": "Damage",
-          "powerMultiplierPerMil": 2950,
+          "powerMultiplierPerMil": 3150,
           "powerMultiplierIncrementPerLevelPerMil": 50
         },
         "maxLevel": 8,
@@ -42432,7 +42452,7 @@
           "sideAffected": "Allies",
           "typeOfTarget": "All",
           "effectType": "Heal",
-          "powerMultiplierPerMil": 380,
+          "powerMultiplierPerMil": 390,
           "powerMultiplierIncrementPerLevelPerMil": 10
         },
         "maxLevel": 8,
@@ -43192,7 +43212,7 @@
         "maxLevel": 8,
         "statusEffects": [
           {
-            "id": "soul_connection",
+            "id": "soul_connection_ailment",
             "sideAffected": "Enemies",
             "statusTargetType": "All",
             "turns": 4
@@ -45716,7 +45736,7 @@
         "maxLevel": 8,
         "statusEffects": [
           {
-            "id": "soul_connection",
+            "id": "soul_connection_ailment",
             "sideAffected": "Enemies",
             "statusTargetType": "All",
             "turns": 4
@@ -47528,7 +47548,7 @@
           "sideAffected": "Enemies",
           "typeOfTarget": "Single",
           "effectType": "Damage",
-          "powerMultiplierPerMil": 3650,
+          "powerMultiplierPerMil": 4650,
           "powerMultiplierIncrementPerLevelPerMil": 50
         },
         "maxLevel": 8,
@@ -48201,7 +48221,7 @@
             "turns": 4
           },
           {
-            "id": "soul_connection",
+            "id": "soul_connection_ailment",
             "sideAffected": "Enemies",
             "statusTargetType": "All",
             "turns": 4
@@ -48563,7 +48583,7 @@
         ],
         "statusEffects": [
           {
-            "id": "soul_connection",
+            "id": "soul_connection_ailment",
             "sideAffected": "Enemies",
             "statusTargetType": "All",
             "turns": 4
@@ -48985,6 +49005,12 @@
             "id": "counter_attack_mana_anzia",
             "sideAffected": "Allies",
             "statusTargetType": "Blue",
+            "turns": 5
+          },
+          {
+            "id": "received_damage_reduction_anzia_costume",
+            "sideAffected": "Allies",
+            "statusTargetType": "All",
             "turns": 5
           }
         ]
@@ -50637,7 +50663,7 @@
           "sideAffected": "Enemies",
           "typeOfTarget": "NearToTarget",
           "effectType": "Damage",
-          "powerMultiplierPerMil": 3400,
+          "powerMultiplierPerMil": 4150,
           "powerMultiplierIncrementPerLevelPerMil": 50
         },
         "maxLevel": 8,
@@ -50651,7 +50677,7 @@
           {
             "id": "sticky_surface_chingiriko",
             "sideAffected": "Allies",
-            "statusTargetType": "NearToTarget",
+            "statusTargetType": "All",
             "turns": 4
           }
         ]
@@ -51422,7 +51448,13 @@
         "statusEffects": [
           {
             "id": "soul_connection",
-            "sideAffected": "Both",
+            "sideAffected": "Allies",
+            "statusTargetType": "All",
+            "turns": 4
+          },
+          {
+            "id": "soul_connection_ailment",
+            "sideAffected": "Enemies",
             "statusTargetType": "All",
             "turns": 4
           },
@@ -51603,17 +51635,22 @@
           "sideAffected": "Enemies",
           "typeOfTarget": "All",
           "effectType": "Damage",
-          "powerMultiplierPerMil": 2850,
+          "powerMultiplierPerMil": 2150,
           "powerMultiplierIncrementPerLevelPerMil": 50
         },
         "maxLevel": 8,
         "properties": [
-          "extra_damage_against_titans_lumi_and_taiga",
-          "health_boost_tora_and_taiga"
+          "extra_damage_against_titans_lumi_and_taiga"
         ],
         "statusEffects": [
           {
             "id": "attack_up_tora_and_taiga",
+            "sideAffected": "Allies",
+            "statusTargetType": "All",
+            "turns": 4
+          },
+          {
+            "id": "soul_connection",
             "sideAffected": "Allies",
             "statusTargetType": "All",
             "turns": 4
@@ -51726,7 +51763,7 @@
           "sideAffected": "Enemies",
           "typeOfTarget": "NearToTarget",
           "effectType": "Damage",
-          "powerMultiplierPerMil": 3550,
+          "powerMultiplierPerMil": 3350,
           "powerMultiplierIncrementPerLevelPerMil": 50
         },
         "maxLevel": 8,
@@ -51735,15 +51772,9 @@
         ],
         "statusEffects": [
           {
-            "id": "blind_veer",
-            "sideAffected": "Enemies",
-            "statusTargetType": "NearToTarget",
-            "turns": 3
-          },
-          {
-            "id": "damage_random_ally_on_miss_veer",
-            "sideAffected": "Enemies",
-            "statusTargetType": "NearToTarget",
+            "id": "damage_on_dodged_special_veer",
+            "sideAffected": "Allies",
+            "statusTargetType": "All",
             "turns": 3
           }
         ]
@@ -52468,14 +52499,14 @@
           "sideAffected": "Allies",
           "typeOfTarget": "All",
           "effectType": "Heal",
-          "powerMultiplierPerMil": 380,
+          "powerMultiplierPerMil": 300,
           "powerMultiplierIncrementPerLevelPerMil": 10
         },
         "maxLevel": 8,
         "properties": [
           "extra_heal_per_base_stat_modifiers",
           "add_status_effect_jyoti",
-          "red_tile_critical_or_accuracy_modifier"
+          "red_tile_mana_modifier"
         ]
       },
       {
@@ -52632,7 +52663,7 @@
           "sideAffected": "Enemies",
           "typeOfTarget": "Sides",
           "effectType": "Damage",
-          "powerMultiplierPerMil": 2950,
+          "powerMultiplierPerMil": 3450,
           "powerMultiplierIncrementPerLevelPerMil": 50
         },
         "maxLevel": 8,
@@ -57972,7 +58003,7 @@
         "propertyType": "ChainStrike",
         "id": "chain_strike_the_beast1",
         "chainEffectType": "Damage",
-        "powerMultiplierPerMil": 3950,
+        "powerMultiplierPerMil": 4250,
         "powerMultiplierIncrementPerLevelPerMil": 50,
         "maxExtraHits": 5,
         "extraHitChancePerMil": 1000,
@@ -59135,11 +59166,11 @@
         "propertyType": "ChainStrikeWithStatusEffectTurnCountModifierPerHit",
         "id": "chain_strike_with_ailment_duration_increase_hu_sanniang",
         "chainEffectType": "Damage",
-        "powerMultiplierPerMil": 3650,
+        "powerMultiplierPerMil": 4650,
         "powerMultiplierIncrementPerLevelPerMil": 50,
         "useRandomMainTarget": true,
         "minorDamageOnExtraHits": false,
-        "turnCountModifier": 3,
+        "turnCountModifier": 5,
         "affectsBuffs": false
       },
       {
@@ -59165,7 +59196,7 @@
         "propertyType": "DamageIncreasedByCharactersState",
         "id": "last_stand_wiglaf",
         "countDeadCharacters": true,
-        "damageIncrementPerCharacterPerMil": 250,
+        "damageIncrementPerCharacterPerMil": 300,
         "damageIncrementPerCharacterIncrementPerLevelPerMil": 0,
         "charactersSideAffected": "Allies"
       },
@@ -59707,7 +59738,6 @@
         "propertyType": "RemoveStatusEffects",
         "id": "remove_debuffs_hygd",
         "buffToRemove": "MinorDebuff",
-        "bypassEffectsOnRemoval": true,
         "targetType": "All",
         "sideAffected": "Allies"
       },
@@ -61706,7 +61736,7 @@
       {
         "propertyType": "SecondaryDirectEffect",
         "id": "direct_heal_hygd",
-        "powerMultiplierPerMil": 280,
+        "powerMultiplierPerMil": 430,
         "powerMultiplierIncrementPerLevelPerMil": 10,
         "effectType": "Heal",
         "targetType": "All",
@@ -61992,8 +62022,8 @@
       {
         "propertyType": "Growth",
         "id": "growth_rose_de_flo1",
-        "baseAttackIncrease": 110,
-        "baseAttackIncreasePerLevel": 20,
+        "baseAttackIncrease": 80,
+        "baseAttackIncreasePerLevel": 10,
         "baseDefenseIncrease": 0,
         "targetType": "All",
         "sideAffected": "Allies"
@@ -62001,7 +62031,7 @@
       {
         "propertyType": "Growth",
         "id": "growth_rose_de_flo2",
-        "baseAttackIncrease": 70,
+        "baseAttackIncrease": 30,
         "baseAttackIncreasePerLevel": 10,
         "baseDefenseIncrease": 0,
         "targetType": "All",
@@ -62396,7 +62426,7 @@
       {
         "propertyType": "ModifyStatusEffectTurns",
         "id": "reduce_buff_turns_hu_sanniang",
-        "turnModifier": 253,
+        "turnModifier": 251,
         "affectsBuffs": true,
         "sideAffected": "Enemies",
         "targetType": "Single",
@@ -62977,7 +63007,7 @@
         "id": "branching_special_laurent",
         "specialIdIfConditionTrue": "unyielding_stance1",
         "specialIdIfConditionFalse": "unyielding_stance2",
-        "requiredIntrinsicChargeAmountPerMil": 350,
+        "requiredIntrinsicChargeAmountPerMil": 500,
         "conditionCheckedFromSide": "Allies",
         "conditionCheckedFromTarget": "Caster"
       },
@@ -63013,7 +63043,7 @@
         "id": "branching_special_rose_de_flo",
         "specialIdIfConditionTrue": "beautiful_petals1",
         "specialIdIfConditionFalse": "beautiful_petals2",
-        "requiredIntrinsicChargeAmountPerMil": 600,
+        "requiredIntrinsicChargeAmountPerMil": 500,
         "conditionCheckedFromSide": "Allies",
         "conditionCheckedFromTarget": "Caster"
       },
@@ -63727,9 +63757,9 @@
         "propertyType": "ConditionalEffect",
         "id": "damage_highest_hp_enemy_most_liora",
         "includeMissedTargetsInComparison": true,
-        "powerForTargetsThatMeetConditionPerMil": 3750,
-        "powerForOtherTargetsPerMil": 2250,
-        "powerIncrementPerLevelPerMil": 0,
+        "powerForTargetsThatMeetConditionPerMil": 3500,
+        "powerForOtherTargetsPerMil": 2200,
+        "powerIncrementPerLevelPerMil": 50,
         "directionOfCondition": "Highest",
         "statForCondition": "CurrentHp",
         "effectType": "Damage",
@@ -63996,7 +64026,7 @@
       {
         "propertyType": "SecondaryDirectEffect",
         "id": "damage_eldritch_host",
-        "powerMultiplierPerMil": 3500,
+        "powerMultiplierPerMil": 4000,
         "statusEffects": [
           {
             "id": "add_insanity_eldritch_host",
@@ -64340,7 +64370,7 @@
       {
         "propertyType": "SecondaryDirectEffect",
         "id": "damage_neartotargetminor_enemies_paimon",
-        "powerMultiplierPerMil": 4050,
+        "powerMultiplierPerMil": 5450,
         "powerMultiplierIncrementPerLevelPerMil": 50,
         "effectType": "Damage",
         "targetType": "NearToTargetMinor",
@@ -64358,7 +64388,7 @@
       {
         "propertyType": "HealthSteal",
         "id": "health_boost_self_on_damage_xshahr",
-        "sharedHealthPerMil": 400,
+        "sharedHealthPerMil": 450,
         "isHealthBoost": true,
         "targetType": "Single",
         "sideAffected": "Allies"
@@ -64378,7 +64408,7 @@
       {
         "propertyType": "ExtraDamageAgainstMonsterCategory",
         "id": "extra_damage_against_titans_lumi_and_taiga",
-        "damageMultiplierPerMil": 1564,
+        "damageMultiplierPerMil": 2000,
         "affectedMonsterCategory": "Titan"
       },
       {
@@ -64437,7 +64467,7 @@
       {
         "propertyType": "SecondaryDirectEffect",
         "id": "damage_crustee",
-        "powerMultiplierPerMil": 2850,
+        "powerMultiplierPerMil": 3150,
         "powerMultiplierIncrementPerLevelPerMil": 50,
         "effectType": "Damage",
         "targetType": "All",
@@ -64476,7 +64506,7 @@
       {
         "propertyType": "SecondaryDirectEffect",
         "id": "damage_lempi",
-        "powerMultiplierPerMil": 2100,
+        "powerMultiplierPerMil": 1900,
         "powerMultiplierIncrementPerLevelPerMil": 50,
         "effectType": "Damage",
         "targetType": "All",
@@ -64594,7 +64624,7 @@
         "propertyType": "ChainStrike",
         "id": "chain_strike_inanis",
         "chainEffectType": "Damage",
-        "powerMultiplierPerMil": 3150,
+        "powerMultiplierPerMil": 2950,
         "powerMultiplierIncrementPerLevelPerMil": 50,
         "maxExtraHits": 2,
         "extraHitChancePerMil": 1000,
@@ -64635,11 +64665,18 @@
         "tileEnhancementIdForNonPlayerSide": "accuracy_modifier_defender"
       },
       {
+        "propertyType": "TileEnhancement",
+        "id": "red_tile_mana_modifier",
+        "element": "红",
+        "tileEnhancementIdForPlayerSide": "mana_modifier_attacker",
+        "tileEnhancementIdForNonPlayerSide": "mana_modifier_defender"
+      },
+      {
         "propertyType": "AddStatusEffects",
         "id": "add_status_effect_jyoti",
         "statusEffects": [
           {
-            "id": "debuff_shield_minor",
+            "id": "debuff_shield_with_heal_on_resist_more",
             "sideAffected": "Allies",
             "statusTargetType": "All",
             "turns": 4
@@ -64679,5 +64716,5 @@
       }
     ]
   },
-  "specialsConfigId": 2546430589
+  "specialsConfigId": 1944469
 }

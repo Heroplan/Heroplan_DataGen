@@ -1880,7 +1880,7 @@ window.allHeroesExtra = [
         "baseHealth": 590,
         "specialId": "ill_fated_experiment",
         "passiveSkills": [
-            "mana_generation_modifier_all_enemies_stronger"
+            "mana_generation_modifier_all_enemies_more_sources"
         ],
         "family": "owl"
     },
@@ -4841,7 +4841,7 @@ window.allHeroesExtra = [
         "baseHealth": 865,
         "specialId": "healing_mirror",
         "passiveSkills": [
-            "mana_generation_modifier_all_enemies_stronger"
+            "mana_generation_modifier_all_enemies_more_sources"
         ],
         "family": "owl"
     },
@@ -6860,7 +6860,7 @@ window.allHeroesExtra = [
         "baseHealth": 798,
         "specialId": "for_queen_and_hollow",
         "passiveSkills": [
-            "mana_generation_modifier_all_enemies_stronger"
+            "mana_generation_modifier_all_enemies_more_sources"
         ],
         "family": "owl"
     },
@@ -7813,7 +7813,7 @@ window.allHeroesExtra = [
         "baseHealth": 436,
         "specialId": "jack_of_owl_trades",
         "passiveSkills": [
-            "mana_generation_modifier_all_enemies_stronger"
+            "mana_generation_modifier_all_enemies_more_sources"
         ],
         "family": "owl"
     },
@@ -13777,7 +13777,7 @@ window.allHeroesExtra = [
         "baseHealth": 823,
         "specialId": "mixed_green_herbs",
         "passiveSkills": [
-            "mana_generation_modifier_all_enemies_stronger"
+            "mana_generation_modifier_all_enemies_more_sources"
         ],
         "family": "owl"
     },
@@ -14468,7 +14468,7 @@ window.allHeroesExtra = [
         "baseHealth": 880,
         "specialId": "swooping_talon",
         "passiveSkills": [
-            "mana_generation_modifier_all_enemies_stronger"
+            "mana_generation_modifier_all_enemies_more_sources"
         ],
         "family": "owl"
     },
@@ -16482,7 +16482,7 @@ window.allHeroesExtra = [
         "baseHealth": 607,
         "specialId": "scroll_of_spite",
         "passiveSkills": [
-            "mana_generation_modifier_all_enemies_stronger"
+            "mana_generation_modifier_all_enemies_more_sources"
         ],
         "family": "owl"
     },
@@ -17674,7 +17674,7 @@ window.allHeroesExtra = [
         "baseHealth": 754,
         "specialId": "mystical_concerto",
         "passiveSkills": [
-            "mana_generation_modifier_all_enemies_stronger"
+            "mana_generation_modifier_all_enemies_more_sources"
         ],
         "family": "bard"
     },
@@ -17821,7 +17821,7 @@ window.allHeroesExtra = [
         "baseHealth": 871,
         "specialId": "blade_wings",
         "passiveSkills": [
-            "mana_generation_modifier_all_enemies_stronger"
+            "mana_generation_modifier_all_enemies_more_sources"
         ],
         "family": "owl"
     },
@@ -20177,7 +20177,7 @@ window.allHeroesExtra = [
         "baseHealth": 724,
         "specialId": "song_of_calamity",
         "passiveSkills": [
-            "mana_generation_modifier_all_enemies_stronger"
+            "mana_generation_modifier_all_enemies_more_sources"
         ],
         "family": "bard"
     },
@@ -20391,7 +20391,7 @@ window.allHeroesExtra = [
         "baseHealth": 790,
         "specialId": "poleaxe_of_the_law",
         "passiveSkills": [
-            "mana_generation_modifier_all_enemies_stronger"
+            "mana_generation_modifier_all_enemies_more_sources"
         ],
         "family": "owl"
     },
@@ -26612,7 +26612,7 @@ window.allHeroesExtra = [
         "baseHealth": 815,
         "specialId": "song_of_hoot_and_holler",
         "passiveSkills": [
-            "mana_generation_modifier_all_enemies_stronger"
+            "mana_generation_modifier_all_enemies_more_sources"
         ],
         "family": "owl"
     },
@@ -26747,7 +26747,7 @@ window.allHeroesExtra = [
         "baseHealth": 749,
         "specialId": "royal_assault",
         "passiveSkills": [
-            "mana_generation_modifier_all_enemies_stronger"
+            "mana_generation_modifier_all_enemies_more_sources"
         ],
         "family": "owl"
     },
@@ -27846,7 +27846,7 @@ window.allHeroesExtra = [
         "baseHealth": 777,
         "specialId": "battleclaw_strike",
         "passiveSkills": [
-            "mana_generation_modifier_all_enemies_stronger"
+            "mana_generation_modifier_all_enemies_more_sources"
         ],
         "family": "owl"
     },
@@ -31037,7 +31037,7 @@ window.allHeroesExtra = [
         "baseHealth": 509,
         "specialId": "owls_blessing",
         "passiveSkills": [
-            "mana_generation_modifier_all_enemies_stronger"
+            "mana_generation_modifier_all_enemies_more_sources"
         ],
         "family": "owl"
     },
@@ -34963,7 +34963,7 @@ window.allHeroesExtra = [
         "baseHealth": 973,
         "specialId": "rites_of_inner_knowledge",
         "passiveSkills": [
-            "mana_generation_modifier_all_enemies_stronger"
+            "mana_generation_modifier_all_enemies_more_sources"
         ],
         "family": "owl"
     },
@@ -35499,7 +35499,7 @@ window.allHeroesExtra = [
         "baseHealth": 682,
         "specialId": "rhythm_of_havoc",
         "passiveSkills": [
-            "mana_generation_modifier_all_enemies_stronger"
+            "mana_generation_modifier_all_enemies_more_sources"
         ],
         "family": "bard"
     },
@@ -35699,7 +35699,7 @@ window.allHeroesExtra = [
         "baseHealth": 1028,
         "specialId": "vengeance_of_owlhalla",
         "passiveSkills": [
-            "mana_generation_modifier_all_enemies_stronger"
+            "mana_generation_modifier_all_enemies_more_sources"
         ],
         "family": "owl"
     },
@@ -35955,7 +35955,7 @@ window.allHeroesExtra = [
         "baseHealth": 706,
         "specialId": "hymn_of_enrichment",
         "passiveSkills": [
-            "mana_generation_modifier_all_enemies_stronger"
+            "mana_generation_modifier_all_enemies_more_sources"
         ],
         "family": "bard"
     },
@@ -40547,7 +40547,8 @@ window.allHeroesExtra = [
         "specialId": "astral_provocation",
         "passiveSkills": [
             "never_miss_special",
-            "resist_all_mana_debuffs"
+            "resist_all_mana_debuffs_and_reductions",
+            "mana_generation_modifier_all_enemies_more_sources"
         ],
         "family": "astral_demons"
     },
@@ -40576,7 +40577,8 @@ window.allHeroesExtra = [
         "specialId": "lance_of_torment",
         "passiveSkills": [
             "never_miss_special",
-            "resist_all_mana_debuffs"
+            "resist_all_mana_debuffs_and_reductions",
+            "mana_generation_modifier_all_enemies_more_sources"
         ],
         "family": "astral_demons"
     },
@@ -40603,7 +40605,8 @@ window.allHeroesExtra = [
         "specialId": "blinding_injustice",
         "passiveSkills": [
             "never_miss_special",
-            "resist_all_mana_debuffs"
+            "resist_all_mana_debuffs_and_reductions",
+            "mana_generation_modifier_all_enemies_more_sources"
         ],
         "family": "astral_demons"
     },
@@ -40630,7 +40633,8 @@ window.allHeroesExtra = [
         "specialId": "sparking_star_slash",
         "passiveSkills": [
             "never_miss_special",
-            "resist_all_mana_debuffs"
+            "resist_all_mana_debuffs_and_reductions",
+            "mana_generation_modifier_all_enemies_more_sources"
         ],
         "family": "astral_demons"
     },
@@ -40848,7 +40852,8 @@ window.allHeroesExtra = [
         "specialId": "astral_orb",
         "passiveSkills": [
             "never_miss_special",
-            "resist_all_mana_debuffs"
+            "resist_all_mana_debuffs_and_reductions",
+            "mana_generation_modifier_all_enemies_more_sources"
         ],
         "family": "astral_demons"
     },
@@ -41136,7 +41141,7 @@ window.allHeroesExtra = [
         "specialId": "dinner_with_the_beast",
         "passiveSkills": [
             "convert_incoming_damage_to_heal",
-            "heal_on_expired_or_cleared_debuff",
+            "heal_on_expired_or_cleared_debuff_average",
             "reduce_revival_health_all_enemies"
         ],
         "family": "beauty_beast"
@@ -41164,7 +41169,7 @@ window.allHeroesExtra = [
         "specialId": "beautiful_petals",
         "passiveSkills": [
             "convert_incoming_damage_to_heal",
-            "heal_on_expired_or_cleared_debuff",
+            "heal_on_expired_or_cleared_debuff_average",
             "reduce_revival_health_all_enemies"
         ],
         "family": "beauty_beast"
@@ -41692,7 +41697,8 @@ window.allHeroesExtra = [
         "specialId": "astral_assistance",
         "passiveSkills": [
             "resist_heal_multiplier_debuffs",
-            "resist_all_mana_debuffs"
+            "resist_all_mana_debuffs_and_reductions",
+            "mana_generation_modifier_all_enemies_more_sources"
         ],
         "family": "astral_demons"
     },

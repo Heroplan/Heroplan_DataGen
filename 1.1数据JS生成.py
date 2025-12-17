@@ -628,7 +628,35 @@ def load_heroes_data_extra_cn():
         temp_lookup[normalized_key] = entry
     heroes_extra_cn_lookup = temp_lookup
     logging.info(f"成功加载并规范化 {len(heroes_extra_cn_lookup)} 条中文额外数据。")
-
+def fix_name_brackets(heroes_data):
+    """
+    修复名字中的括号问题，将右括号外的部分移动到括号内
+    例如："纹章拟态兽 (Emblem Mimic) Ice" -> "纹章拟态兽 (Emblem Mimic Ice)"
+    """
+    for hero in heroes_data:
+        name = hero.get('name', '')
+        if '(' in name and ')' in name:
+            # 找到右括号的位置
+            right_bracket_pos = name.find(')')
+            # 如果右括号后面还有内容
+            if right_bracket_pos < len(name) - 1:
+                # 获取括号内的内容
+                bracket_content_start = name.find('(')
+                bracket_content = name[bracket_content_start + 1:right_bracket_pos]
+                
+                # 获取右括号后的内容
+                after_bracket = name[right_bracket_pos + 1:].strip()
+                
+                # 如果括号后有内容，重新组织名字
+                if after_bracket:
+                    # 获取括号前的内容
+                    before_bracket = name[:bracket_content_start].strip()
+                    
+                    # 重新组合：前部分 + 括号后内容 + 括号内容
+                    fixed_name = f"{before_bracket} ({bracket_content} {after_bracket})".strip()
+                    hero['name'] = fixed_name
+    
+    return heroes_data
 
 def generate_js_data_with_translation(heroes_base_dir, output_path_cn, output_path_tc, output_path_en):
     all_hero_data = {lang: [] for lang in LANGUAGES}
@@ -1012,6 +1040,12 @@ def generate_js_data_with_translation(heroes_base_dir, output_path_cn, output_pa
             original_stat_name = hero_stats_lookup[key]['original_name']
             logging.warning(f"- {original_stat_name} (规范化为: {key})")
 
+    # 在写入文件之前添加修复括号的步骤
+    print("正在修复名字中的括号问题...")
+    for lang in LANGUAGES:
+        all_hero_data[lang] = fix_name_brackets(all_hero_data[lang])
+    
+    output_map = {'cn': output_path_cn, 'tc': output_path_tc, 'en': output_path_en}
     output_map = {'cn': output_path_cn, 'tc': output_path_tc, 'en': output_path_en}
     lang_names = {'cn': '简体中文', 'tc': '繁体中文', 'en': '英文原文'}
     print("\n开始写入独立的JS文件...")

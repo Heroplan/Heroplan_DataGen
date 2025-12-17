@@ -50835,8 +50835,9 @@
             },
             {
               "uberTitanId": "mythic_titan_hades",
-              "startTime": "2026-01-05 07:00:00",
-              "endTime": "2026-01-07 07:00:00"
+              "overridden": true,
+              "startTime": "2026-01-27 07:00:00",
+              "endTime": "2026-01-29 07:00:00"
             },
             {
               "uberTitanId": "mythic_titan_gilgamesh",
@@ -80718,8 +80719,8 @@
                     "manaBonusPerMil": 10
                   },
                   {
-                    "attackBonusPerMil": 390,
-                    "defenseBonusPerMil": 390,
+                    "attackBonusPerMil": 490,
+                    "defenseBonusPerMil": 490,
                     "healthBonusPerMil": 540,
                     "manaBonusPerMil": 20
                   },
@@ -82928,5 +82929,5 @@
     "criticalOperationPendingDelaySeconds": 3,
     "allowedCriticalOperationPendingCount": 3
   },
-  "otherConfigId": 1216077529
+  "otherConfigId": 915241194
 }

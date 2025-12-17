@@ -66,6 +66,10 @@
           {
             "key": "specials.v2.property.tileenhancement.manamultiplier.playercharacters.red",
             "text": "Potenzia tutti gli scudi di tipo [##elementred]Fuoco[#] sul campo di battaglia. Gli scudi potenziati conferiscono un {MODIFIERATTACKER}% di mana extra agli Eroi."
+          },
+          {
+            "key": "notifications.mimicsummon",
+            "text": "Bazaar SUMMON OPEN NOW! Summon Mimics and useful Heroes! 💎⭐🏴"
           }
         ]
       },
@@ -138,6 +142,10 @@
           {
             "key": "specials.v2.property.tileenhancement.manamultiplier.playercharacters.red",
             "text": "Усиливает все щиты [##elementred]огня[#] на поле. Усиленные щиты приносят на {MODIFIERATTACKER} % больше маны героям."
+          },
+          {
+            "key": "notifications.mimicsummon",
+            "text": "Bazaar SUMMON OPEN NOW! Summon Mimics and useful Heroes! 💎⭐🏴"
           }
         ]
       },
@@ -206,6 +214,10 @@
           {
             "key": "specials.v2.property.tileenhancement.manamultiplier.playercharacters.red",
             "text": "Ulepsza wszystkie tarcze [##elementred]ognia[#] na planszy. Ulepszone tarcze zapewniają bohaterom dodatkowe {MODIFIERATTACKER}% many."
+          },
+          {
+            "key": "notifications.mimicsummon",
+            "text": "Bazaar SUMMON OPEN NOW! Summon Mimics and useful Heroes! 💎⭐🏴"
           }
         ]
       },
@@ -274,6 +286,10 @@
           {
             "key": "specials.v2.property.tileenhancement.manamultiplier.playercharacters.red",
             "text": "強化面板中所有[##elementred]烈火系[#]護盾。強化的護盾為英雄提供的法力增加{MODIFIERATTACKER}%。"
+          },
+          {
+            "key": "notifications.mimicsummon",
+            "text": "Bazaar SUMMON OPEN NOW! Summon Mimics and useful Heroes! 💎⭐🏴"
           }
         ]
       },
@@ -342,6 +358,10 @@
           {
             "key": "specials.v2.property.tileenhancement.manamultiplier.playercharacters.red",
             "text": "보드의 모든 [##elementred]화염[#] 보호막이 강화됩니다. 강화된 방패는 영웅에게 마나를 {MODIFIERATTACKER}% 더 줍니다."
+          },
+          {
+            "key": "notifications.mimicsummon",
+            "text": "Bazaar SUMMON OPEN NOW! Summon Mimics and useful Heroes! 💎⭐🏴"
           }
         ]
       },
@@ -414,6 +434,10 @@
           {
             "key": "specials.v2.property.tileenhancement.manamultiplier.playercharacters.red",
             "text": "Verbessert alle [##elementred]Feuer[#]schilde auf dem Feld. Verbesserte Schilde gewähren Helden {MODIFIERATTACKER} % mehr Mana."
+          },
+          {
+            "key": "notifications.mimicsummon",
+            "text": "Bazaar SUMMON OPEN NOW! Summon Mimics and useful Heroes! 💎⭐🏴"
           }
         ]
       },
@@ -482,6 +506,10 @@
           {
             "key": "specials.v2.property.tileenhancement.manamultiplier.playercharacters.red",
             "text": "ボード上にあるすべての[##elementred]炎属性[#]の盾が「強化」される。盾が「強化」されると英雄のマナが{MODIFIERATTACKER}%増加する。"
+          },
+          {
+            "key": "notifications.mimicsummon",
+            "text": "Bazaar SUMMON OPEN NOW! Summon Mimics and useful Heroes! 💎⭐🏴"
           }
         ]
       },
@@ -554,6 +582,10 @@
           {
             "key": "specials.v2.property.tileenhancement.manamultiplier.playercharacters.red",
             "text": "Förstärker alla [##elementred]eldsköldar[#] på brädet. Förstärkta sköldar ger {MODIFIERATTACKER} % mer mana till hjältar."
+          },
+          {
+            "key": "notifications.mimicsummon",
+            "text": "Bazaar SUMMON OPEN NOW! Summon Mimics and useful Heroes! 💎⭐🏴"
           }
         ]
       },
@@ -622,6 +654,10 @@
           {
             "key": "specials.v2.property.tileenhancement.manamultiplier.playercharacters.red",
             "text": "Panodaki tüm [##elementred]Ateş[#] kalkanları geliştirir. Geliştirilen kalkanlar, Kahramanlara %{MODIFIERATTACKER} daha fazla mana verir."
+          },
+          {
+            "key": "notifications.mimicsummon",
+            "text": "Bazaar SUMMON OPEN NOW! Summon Mimics and useful Heroes! 💎⭐🏴"
           }
         ]
       },
@@ -690,6 +726,10 @@
           {
             "key": "specials.v2.property.tileenhancement.manamultiplier.playercharacters.red",
             "text": "Enhances all [##elementred]Fire[#] shields on the board. Enhanced shields give {MODIFIERATTACKER}% more mana to Heroes."
+          },
+          {
+            "key": "notifications.mimicsummon",
+            "text": "Bazaar SUMMON OPEN NOW! Summon Mimics and useful Heroes! 💎⭐🏴"
           }
         ]
       },
@@ -766,6 +806,10 @@
           {
             "key": "temp_fiend",
             "text": "يتطور [#!]الشرير البذرة[#] ليصبح [#!]شريرًا برعمًا[#] بعد {EVOLVINGFAMILIAR1EVOLVETURNS} من الجولات.\n[*]يتطور [#!]الشرير البرعم[#] إلى [#!]شرير ضخم زاهر[#] بعد {EVOLVINGFAMILIAR2EVOLVETURNS} من الجولات.\n\n[*] [#!]الشرير البذرة[#]: [#!]{EVOLVINGFAMILIAR1ATTACK}[#]% من الهجوم، [#!]{EVOLVINGFAMILIAR1HEALTH}[#]% من الصحة\n[*] [#!]الشرير البرعم[#]: \n[#!]{EVOLVINGFAMILIAR2ATTACK}[#]% من الهجوم [#!]{EVOLVINGFAMILIAR2HEALTH}[#]% من الصحة\n[*] [#!]الشرير الضخم المزدهر[#]: \n[#!]{EVOLVINGFAMILIAR3ATTACK}[#]% من الهجوم [#!]{EVOLVINGFAMILIAR3HEALTH}[#]% من الصحة\n\n[*]يدمر الشرير هدفه في كل جولة. يختفي الشرير بعد امتصاص التعافي. كمية التعافي اللازمة تعتمد على الصحة القصوى للهدف.\n[*]يتأخر تطور الأشرار {EVOLVINGFAMILIAR1TURNSDELAY} من الجولات في كل مرة يمتصون فيها العلاج."
+          },
+          {
+            "key": "notifications.mimicsummon",
+            "text": "Bazaar SUMMON OPEN NOW! Summon Mimics and useful Heroes! 💎⭐🏴"
           }
         ]
       },
@@ -838,6 +882,10 @@
           {
             "key": "specials.v2.property.tileenhancement.manamultiplier.playercharacters.red",
             "text": "Améliore tous les boucliers de type [##elementred]Feu[#] sur le plateau. Les boucliers améliorés donnent {MODIFIERATTACKER} % de mana en plus aux héros."
+          },
+          {
+            "key": "notifications.mimicsummon",
+            "text": "Bazaar SUMMON OPEN NOW! Summon Mimics and useful Heroes! 💎⭐🏴"
           }
         ]
       },
@@ -910,6 +958,10 @@
           {
             "key": "specials.v2.property.tileenhancement.manamultiplier.playercharacters.red",
             "text": "Reforça todos os escudos de [##elementred]Fogo[#] no tabuleiro. Escudos reforçados dão {MODIFIERATTACKER}% mais mana aos heróis."
+          },
+          {
+            "key": "notifications.mimicsummon",
+            "text": "Bazaar SUMMON OPEN NOW! Summon Mimics and useful Heroes! 💎⭐🏴"
           }
         ]
       },
@@ -978,6 +1030,10 @@
           {
             "key": "specials.v2.property.tileenhancement.manamultiplier.playercharacters.red",
             "text": "Memperkuat semua perisai [##elementred]Api[#] yang terpasang. Perisai yang diperkuat memberikan mana {MODIFIERATTACKER}% lebih banyak ke Pahlawan."
+          },
+          {
+            "key": "notifications.mimicsummon",
+            "text": "Bazaar SUMMON OPEN NOW! Summon Mimics and useful Heroes! 💎⭐🏴"
           }
         ]
       },
@@ -1050,6 +1106,10 @@
           {
             "key": "specials.v2.property.tileenhancement.manamultiplier.playercharacters.red",
             "text": "Voimistaa kaikkia laudalla olevia [##elementred]tulikilpiä[#]. Voimistuneet kilvet antavat {MODIFIERATTACKER} % enemmän manaa sankareille."
+          },
+          {
+            "key": "notifications.mimicsummon",
+            "text": "Bazaar SUMMON OPEN NOW! Summon Mimics and useful Heroes! 💎⭐🏴"
           }
         ]
       },
@@ -1118,6 +1178,10 @@
           {
             "key": "specials.v2.property.tileenhancement.manamultiplier.playercharacters.red",
             "text": "Fortryller alle [##elementred]ild[#]-skjolde på brættet. Fortryllede skjolde giver {MODIFIERATTACKER} % mere mana til helte."
+          },
+          {
+            "key": "notifications.mimicsummon",
+            "text": "Bazaar SUMMON OPEN NOW! Summon Mimics and useful Heroes! 💎⭐🏴"
           }
         ]
       },
@@ -1186,6 +1250,10 @@
           {
             "key": "specials.v2.property.tileenhancement.manamultiplier.playercharacters.red",
             "text": "Todos los escudos de [##elementred]fuego[#] del tablero mejoran. Los escudos mejorados otorgan un {MODIFIERATTACKER} % más de maná a los héroes."
+          },
+          {
+            "key": "notifications.mimicsummon",
+            "text": "Bazaar SUMMON OPEN NOW! Summon Mimics and useful Heroes! 💎⭐🏴"
           }
         ]
       },
@@ -1258,6 +1326,10 @@
           {
             "key": "specials.v2.property.tileenhancement.manamultiplier.playercharacters.red",
             "text": "Forbedrer alle [##elementred]ild[#]-skjold på brettet. Forbedrede skjold gir heltene {MODIFIERATTACKER} % mer mana."
+          },
+          {
+            "key": "notifications.mimicsummon",
+            "text": "Bazaar SUMMON OPEN NOW! Summon Mimics and useful Heroes! 💎⭐🏴"
           }
         ]
       },
@@ -1330,6 +1402,10 @@
           {
             "key": "specials.v2.property.tileenhancement.manamultiplier.playercharacters.red",
             "text": "Versterkt alle [##elementred]vuurschilden[#] op het bord. Versterkte schilden geven helden {MODIFIERATTACKER}% meer mana."
+          },
+          {
+            "key": "notifications.mimicsummon",
+            "text": "Bazaar SUMMON OPEN NOW! Summon Mimics and useful Heroes! 💎⭐🏴"
           }
         ]
       },
@@ -1398,10 +1474,14 @@
           {
             "key": "specials.v2.property.tileenhancement.manamultiplier.playercharacters.red",
             "text": "增强面板中所有[##elementred]烈火系[#]盾牌。增强的盾牌给予英雄额外{MODIFIERATTACKER}%的法力。"
+          },
+          {
+            "key": "notifications.mimicsummon",
+            "text": "Bazaar SUMMON OPEN NOW! Summon Mimics and useful Heroes! 💎⭐🏴"
           }
         ]
       }
     }
   },
-  "languageOverridesConfigId": 239562094
+  "languageOverridesConfigId": 41082519
 }

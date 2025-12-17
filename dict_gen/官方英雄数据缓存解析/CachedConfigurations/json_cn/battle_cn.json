@@ -46,8 +46,8 @@
         "id": "上古邪神宿主",
         "element": "None",
         "baseHealth": 0,
-        "baseAttack": 1000,
-        "baseDefense": 1000,
+        "baseAttack": 1200,
+        "baseDefense": 1200,
         "manaSpeedId": "快速",
         "specialId": "邪神荒疫",
         "inheritedBaseHealthPercentagePerMil": 1000,
@@ -33077,7 +33077,8 @@
         "id": "hp_recovery_athos_costume",
         "buff": "MinorBuff",
         "healthPoints": 210,
-        "healthPointsIncrementPerLevel": 20
+        "healthPointsIncrementPerLevel": 20,
+        "isHealthBoost": true
       },
       {
         "statusEffect": "FixedHealthRecovery",
@@ -34646,7 +34647,7 @@
         "statusEffect": "DebuffDamageModifier",
         "id": "debuff_damage_modifier",
         "buff": "MinorBuff",
-        "damageMultiplierPerMil": 600,
+        "damageMultiplierPerMil": 550,
         "damageMultiplierIncrementPerLevelPerMil": 206
       },
       {
@@ -36299,7 +36300,7 @@
         "dodgeIncrementPerMil": 310,
         "dodgeIncrementPerLevelPerMil": 20,
         "effect": "HealthBoost",
-        "fixedEffectPower": 215,
+        "fixedEffectPower": 240,
         "effectPowerIncrementPerLevel": 30
       },
       {
@@ -37404,6 +37405,14 @@
         "id": "received_damage_reduction_sif_costume",
         "buff": "MinorBuff",
         "receivedDamageMultiplierPerMil": 740,
+        "receivedDamageMultiplierIncrementPerLevelPerMil": 236
+      },
+      {
+        "statusEffect": "ReceivedDamageModifier",
+        "id": "received_damage_reduction_anzia_costume",
+        "buff": "MinorBuff",
+        "iconOverrideStatusEffectId": "received_damage_reduction_sif_costume",
+        "receivedDamageMultiplierPerMil": 940,
         "receivedDamageMultiplierIncrementPerLevelPerMil": 236
       },
       {
@@ -38637,6 +38646,17 @@
         "effect": "Damage",
         "fixedEffectPower": 65,
         "effectPowerIncrementPerLevel": 5
+      },
+      {
+        "statusEffect": "EffectOnDodgedSpecial",
+        "id": "damage_on_dodged_special_veer",
+        "buff": "MinorBuff",
+        "iconOverrideStatusEffectId": "damage_on_dodged_special",
+        "dodgeIncrementPerMil": 310,
+        "dodgeIncrementPerLevelPerMil": 20,
+        "effect": "Damage",
+        "fixedEffectPower": 110,
+        "effectPowerIncrementPerLevel": 20
       },
       {
         "statusEffect": "IncreasingFixedHealthRecovery",
@@ -42082,8 +42102,8 @@
             ]
           }
         ],
-        "healthPoints": 86,
-        "healthPointsIncrementPerLevel": 2,
+        "healthPoints": 99,
+        "healthPointsIncrementPerLevel": 3,
         "isHealthBoost": true
       },
       {
@@ -43321,7 +43341,7 @@
         "statusEffect": "Bleeding",
         "id": "bleed_balur",
         "buff": "MinorDebuff",
-        "damageMultiplierPerMil": 210,
+        "damageMultiplierPerMil": 250,
         "damageMultiplierIncrementPerLevelPerMil": 2
       },
       {
@@ -46327,7 +46347,7 @@
         "statusEffect": "SpecialDamagePowerModifier",
         "id": "special_damage_power_modifier_wiglaf",
         "buff": "MajorBuff",
-        "powerAdditionPerMil": 260,
+        "powerAdditionPerMil": 360,
         "powerAdditionIncrementPerLevelPerMil": 20
       },
       {
@@ -46704,7 +46724,7 @@
         "statusEffect": "Stone",
         "id": "stoneskin_laurent2",
         "buff": "MajorBuff",
-        "maxActivationCount": 3
+        "maxActivationCount": 4
       },
       {
         "statusEffect": "UnderwaterMagmaCube",
@@ -49628,7 +49648,7 @@
         "statusEffect": "HealMultiplier",
         "id": "heal_increase_faeona",
         "buff": "MinorBuff",
-        "healMultiplierPerMil": 1160,
+        "healMultiplierPerMil": 1210,
         "healMultiplierPerLevelPerMil": 20
       },
       {
@@ -51250,7 +51270,7 @@
         "statusEffect": "StatusEffectGeneratorStatusEffectSkill",
         "id": "status_effect_generator_hygd",
         "buff": "MajorBuff",
-        "maxActivationCount": 4,
+        "maxActivationCount": 3,
         "isActivationCountIncreasedByDispels": true,
         "directEffects": [],
         "activationChancePerMil": 1000,
@@ -51259,13 +51279,13 @@
             "id": "mage_armor_hygd",
             "sideAffected": "Allies",
             "statusTargetType": "All",
-            "turns": 3
+            "turns": 2
           },
           {
             "id": "heal_increase_hygd",
             "sideAffected": "Allies",
             "statusTargetType": "All",
-            "turns": 3
+            "turns": 2
           }
         ],
         "effectActivationTypes": [
@@ -53140,7 +53160,7 @@
         "statusEffect": "RedDefenseModifier",
         "id": "mark_fire_costume_cupido",
         "buff": "MinorDebuff",
-        "defenseMultiplierPerMil": 600,
+        "defenseMultiplierPerMil": 800,
         "defenseMultiplierIncrementPerLevelPerMil": 236
       },
       {
@@ -54019,7 +54039,7 @@
         "id": "add_insanity_on_damage_khatrox",
         "buff": "PermanentDebuff",
         "alwaysAdd": true,
-        "insanityToAdd": 20,
+        "insanityToAdd": 25,
         "reductionOnHealSources": [
           "SpecialSkill",
           "AssistSkill",
@@ -54058,7 +54078,7 @@
         "id": "add_insanity_morryster",
         "buff": "PermanentDebuff",
         "alwaysAdd": true,
-        "insanityToAdd": 45,
+        "insanityToAdd": 50,
         "reductionOnHealSources": [
           "SpecialSkill",
           "AssistSkill",
@@ -54110,7 +54130,7 @@
         "id": "add_insanity_demhalar",
         "buff": "PermanentDebuff",
         "alwaysAdd": true,
-        "insanityToAdd": 30,
+        "insanityToAdd": 35,
         "reductionOnHealSources": [
           "SpecialSkill",
           "AssistSkill",
@@ -54162,7 +54182,7 @@
         "statusEffect": "SpecialSkillDefenseModifier",
         "id": "brittle_specials_morryster",
         "buff": "MinorDebuff",
-        "defenseMultiplierPerMil": 800,
+        "defenseMultiplierPerMil": 700,
         "defenseMultiplierIncrementPerLevelPerMil": 236
       },
       {
@@ -54481,7 +54501,7 @@
         "id": "add_insanity_eldritch_host",
         "buff": "PermanentDebuff",
         "alwaysAdd": true,
-        "insanityToAdd": 30,
+        "insanityToAdd": 35,
         "reductionOnHealSources": [
           "SpecialSkill",
           "AssistSkill",
@@ -54742,8 +54762,8 @@
             "excludeEffectTriggerRemovalReasons": []
           }
         ],
-        "maxStoredDamage": 650,
-        "maxStoredDamageIncrementPerLevel": 50
+        "maxStoredDamage": 800,
+        "maxStoredDamageIncrementPerLevel": 100
       },
       {
         "statusEffect": "SpecialSkillDefenseModifier",
@@ -55130,7 +55150,7 @@
             "sideAffected": "Allies",
             "typeOfTarget": "Random",
             "effectType": "Damage",
-            "powerMultiplierPerMil": 1300
+            "powerMultiplierPerMil": 1600
           }
         ],
         "activationChancePerMil": 1000,
@@ -55138,7 +55158,7 @@
           "AllySpecial"
         ],
         "buffCategoryToRemove": "MinorBuff",
-        "defenseMultiplierPerMil": 580,
+        "defenseMultiplierPerMil": 530,
         "defenseMultiplierIncrementPerLevelPerMil": 10
       },
       {
@@ -55236,7 +55256,7 @@
           {
             "typeOfTarget": "Random",
             "effectType": "Damage",
-            "powerMultiplierPerMil": 1550,
+            "powerMultiplierPerMil": 2150,
             "powerMultiplierIncrementPerLevelPerMil": 50
           }
         ],
@@ -55321,11 +55341,11 @@
         "id": "increasing_special_damage_until_special_cast_crustee",
         "buff": "MinorBuff",
         "removalTrigger": "SpecialCast",
-        "powerAdditionPerMil": 260,
+        "powerAdditionPerMil": 360,
         "powerAdditionIncrementPerLevelPerMil": 20,
-        "powerAdditionIncrementPerTurnPerMil": 350,
+        "powerAdditionIncrementPerTurnPerMil": 300,
         "powerAdditionIncrementPerTurnPerLevelPerMil": 0,
-        "maxIncrementCount": 4
+        "maxIncrementCount": 3
       },
       {
         "statusEffect": "CorrosiveBurn",
@@ -55545,13 +55565,13 @@
         "statusEffect": "BouncingDamageOverTime",
         "id": "bouncing_damage_over_time_ibelis",
         "buff": "MinorDebuff",
-        "damageMultiplierPerMil": 55,
-        "damageMultiplierIncrementPerLevelPerMil": 5,
+        "damageMultiplierPerMil": 293,
+        "damageMultiplierIncrementPerLevelPerMil": 10,
         "maxBounces": 2,
         "bounceTargetType": "All",
         "bounceSideAffected": "Allies",
-        "damagePerBouncePerMil": 144,
-        "damagePerBounceIncrementPerLevelPerMil": 5
+        "damagePerBouncePerMil": 293,
+        "damagePerBounceIncrementPerLevelPerMil": 10
       },
       {
         "statusEffect": "ManaGenerationModifier",
@@ -55708,7 +55728,7 @@
         "id": "add_insanity_inanis",
         "buff": "PermanentDebuff",
         "alwaysAdd": true,
-        "insanityToAdd": 20,
+        "insanityToAdd": 15,
         "reductionOnHealSources": [
           "SpecialSkill",
           "AssistSkill",
@@ -55721,7 +55741,7 @@
         "id": "add_insanity_to_self_inanis",
         "buff": "PermanentDebuff",
         "alwaysAdd": true,
-        "insanityToAdd": 50,
+        "insanityToAdd": 40,
         "reductionOnHealSources": [
           "SpecialSkill",
           "AssistSkill",
@@ -55733,8 +55753,8 @@
         "statusEffect": "StackingReceivedDamageModifier",
         "id": "stacking_received_damage_increase_inanis",
         "buff": "StackMinorDebuff",
-        "receivedDamageMultiplierPerMil": 1015,
-        "receivedDamageMultiplierIncrementPerLevelPerMil": 5
+        "receivedDamageMultiplierPerMil": 1012,
+        "receivedDamageMultiplierIncrementPerLevelPerMil": 4
       },
       {
         "statusEffect": "CounterAttack",
@@ -61059,7 +61079,8 @@
           "SpecialSkill",
           "PassiveSkill",
           "Family",
-          "StatusEffect"
+          "StatusEffect",
+          "Realm"
         ]
       },
       {
@@ -62279,9 +62300,9 @@
         "id": "damage_increase_by_insanity",
         "targets": "Single",
         "targetsSideAffected": "Allies",
-        "damageIncreasedPerInsanityStepPerMil": 50,
+        "damageIncreasedPerInsanityStepPerMil": 60,
         "insanityPerStep": 10,
-        "maximumDamageIncreasePerMil": 500,
+        "maximumDamageIncreasePerMil": 600,
         "acceptedDamageSources": [
           "Troop",
           "SpecialSkill",
@@ -62337,10 +62358,10 @@
         "targets": "Single",
         "targetsSideAffected": "Allies",
         "chancePerMil": 0,
-        "chanceIncreasedPerInsanityStepPerMil": 50,
+        "chanceIncreasedPerInsanityStepPerMil": 100,
         "insanityPerStep": 10,
-        "maximumRevivalChancePerMil": 500,
-        "chanceOnInsanityActivationCausedDeathPerMil": 500,
+        "maximumRevivalChancePerMil": 1000,
+        "chanceOnInsanityActivationCausedDeathPerMil": 1000,
         "alternativeFormId": "eldritch_host"
       },
       {
@@ -62483,7 +62504,7 @@
         "excludedMonsterCategories": [
           "Boss"
         ],
-        "healthModifierPerMil": 65036
+        "healthModifierPerMil": 64736
       },
       {
         "passiveSkillType": "ConvertIncomingDamageToHeal",
@@ -65502,8 +65523,7 @@
             "id": "damage_construct_minion_core"
           }
         ],
-        "healthPerMil": 20,
-        "healthPerLevelPerMil": 2
+        "healthPerMil": 270
       },
       {
         "familiarType": "BigMinion",
@@ -65725,7 +65745,7 @@
             "id": "steal_buff"
           }
         ],
-        "healthPerMil": 200,
+        "healthPerMil": 230,
         "healthPerLevelPerMil": 10,
         "monsterHealthPerMil": 100
       },
@@ -69183,7 +69203,7 @@
         "effectTriggers": [
           "Turn"
         ],
-        "attackPercentPerMil": 150,
+        "attackPercentPerMil": 230,
         "attackPercentIncrementPerLevelPerMil": 10
       },
       {
@@ -70664,7 +70684,7 @@
         "id": "astral_demons",
         "familyEffects": [
           "add_mana_on_received_special_damage_astral_demons",
-          "chance_to_cleanse_on_received_special_damage_astral_demons"
+          "chance_to_cleanse_all_on_received_special_damage_astral_demons"
         ]
       },
       {
@@ -86915,5 +86935,5 @@
       "SharedDamage"
     ]
   },
-  "battleConfigId": 2583748414
+  "battleConfigId": 2826779205
 }

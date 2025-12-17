@@ -191,7 +191,8 @@ window.allHeroes =
         "specialId": "astral_provocation",
         "passiveSkills": [
             "never_miss_special",
-            "resist_all_mana_debuffs"
+            "resist_all_mana_debuffs_and_reductions",
+            "mana_generation_modifier_all_enemies_more_sources"
         ],
         "heroId": "astral_demon_agharoth",
         "star": 3,
@@ -5418,7 +5419,7 @@ window.allHeroes =
         "Release date": "2023-12-20",
         "specialId": "ill_fated_experiment",
         "passiveSkills": [
-            "mana_generation_modifier_all_enemies_stronger"
+            "mana_generation_modifier_all_enemies_more_sources"
         ],
         "heroId": "owl_olbec",
         "star": 4,
@@ -6727,26 +6728,7 @@ window.allHeroes =
             "defense": 1643,
             "health": 2786
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "Atk: Single",
-                    "Heal: From Dmg",
-                    "Heal: Boost Health"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "Mana - Mana Gain (on Kill)",
-                    "Heal - Self Recovery / Boost Health"
-                ]
-            },
-            {
-                "增益效果": [
-                    "Def - Mimic"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "Aino",
@@ -7264,7 +7246,8 @@ window.allHeroes =
         "specialId": "astral_orb",
         "passiveSkills": [
             "never_miss_special",
-            "resist_all_mana_debuffs"
+            "resist_all_mana_debuffs_and_reductions",
+            "mana_generation_modifier_all_enemies_more_sources"
         ],
         "heroId": "astral_demon_anatemah",
         "star": 5,
@@ -7814,30 +7797,7 @@ window.allHeroes =
             "defense": 1564,
             "health": 2654
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "Atk: Area",
-                    "Dmg: DoT"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "Heal - Self Recovery / Boost Health",
-                    "Mana - Mana Gain (on Kill)"
-                ]
-            },
-            {
-                "增益效果": [
-                    "Def - Mimic"
-                ]
-            },
-            {
-                "负面效果": [
-                    "Dmg - DoT : Bleed"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "Ascian",
@@ -10507,31 +10467,7 @@ window.allHeroes =
             "defense": 1595,
             "health": 2743
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "Atk: Single",
-                    "Dmg: DoT"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "Atk - Destroy Minions",
-                    "Mana - Mana Gain (on Kill)",
-                    "Heal - Self Recovery / Boost Health"
-                ]
-            },
-            {
-                "增益效果": [
-                    "Def - Mimic"
-                ]
-            },
-            {
-                "负面效果": [
-                    "Dmg - DoT : Poison"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "Emilie",
@@ -10896,25 +10832,7 @@ window.allHeroes =
             "defense": 1524,
             "health": 2616
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "Atk: Single"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "Atk - Destroy Minions",
-                    "Mana - Mana Gain (on Kill)",
-                    "Heal - Self Recovery / Boost Health"
-                ]
-            },
-            {
-                "增益效果": [
-                    "Def - Mimic"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "Fenrir",
@@ -14703,7 +14621,7 @@ window.allHeroes =
         "Release date": "2024-03-13",
         "specialId": "healing_mirror",
         "passiveSkills": [
-            "mana_generation_modifier_all_enemies_stronger"
+            "mana_generation_modifier_all_enemies_more_sources"
         ],
         "heroId": "owl_mariol",
         "star": 5,
@@ -20744,7 +20662,7 @@ window.allHeroes =
         "Release date": "2023-12-20",
         "specialId": "for_queen_and_hollow",
         "passiveSkills": [
-            "mana_generation_modifier_all_enemies_stronger"
+            "mana_generation_modifier_all_enemies_more_sources"
         ],
         "heroId": "owl_timius",
         "star": 5,
@@ -23683,7 +23601,7 @@ window.allHeroes =
         "Release date": "2023-12-20",
         "specialId": "jack_of_owl_trades",
         "passiveSkills": [
-            "mana_generation_modifier_all_enemies_stronger"
+            "mana_generation_modifier_all_enemies_more_sources"
         ],
         "heroId": "owl_featherino",
         "star": 3,
@@ -30898,30 +30816,7 @@ window.allHeroes =
             "defense": 1564,
             "health": 2654
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "Atk: Area",
-                    "Dmg: DoT"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "Heal - Self Recovery / Boost Health",
-                    "Mana - Mana Gain (on Kill)"
-                ]
-            },
-            {
-                "增益效果": [
-                    "Def - Mimic"
-                ]
-            },
-            {
-                "负面效果": [
-                    "Dmg - DoT : Bleed"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "Athos",
@@ -33931,31 +33826,7 @@ window.allHeroes =
             "defense": 1595,
             "health": 2743
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "Atk: Single",
-                    "Dmg: DoT"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "Atk - Destroy Minions",
-                    "Mana - Mana Gain (on Kill)",
-                    "Heal - Self Recovery / Boost Health"
-                ]
-            },
-            {
-                "增益效果": [
-                    "Def - Mimic"
-                ]
-            },
-            {
-                "负面效果": [
-                    "Dmg - DoT : Poison"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "Enigmo",
@@ -34238,25 +34109,7 @@ window.allHeroes =
             "defense": 1524,
             "health": 2616
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "Atk: Single"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "Atk - Destroy Minions",
-                    "Mana - Mana Gain (on Kill)",
-                    "Heal - Self Recovery / Boost Health"
-                ]
-            },
-            {
-                "增益效果": [
-                    "Def - Mimic"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "Fafnir",
@@ -42080,7 +41933,7 @@ window.allHeroes =
         "Release date": "2023-12-20",
         "specialId": "mixed_green_herbs",
         "passiveSkills": [
-            "mana_generation_modifier_all_enemies_stronger"
+            "mana_generation_modifier_all_enemies_more_sources"
         ],
         "heroId": "owl_relius",
         "star": 5,
@@ -44452,7 +44305,7 @@ window.allHeroes =
         "Release date": "2024-03-13",
         "specialId": "swooping_talon",
         "passiveSkills": [
-            "mana_generation_modifier_all_enemies_stronger"
+            "mana_generation_modifier_all_enemies_more_sources"
         ],
         "heroId": "owl_verus",
         "star": 5,
@@ -44985,7 +44838,8 @@ window.allHeroes =
         "specialId": "lance_of_torment",
         "passiveSkills": [
             "never_miss_special",
-            "resist_all_mana_debuffs"
+            "resist_all_mana_debuffs_and_reductions",
+            "mana_generation_modifier_all_enemies_more_sources"
         ],
         "heroId": "astral_demon_xshahr",
         "star": 5,
@@ -50148,7 +50002,7 @@ window.allHeroes =
         "Release date": "2024-02-14",
         "specialId": "scroll_of_spite",
         "passiveSkills": [
-            "mana_generation_modifier_all_enemies_stronger"
+            "mana_generation_modifier_all_enemies_more_sources"
         ],
         "heroId": "owl_juliani",
         "star": 4,
@@ -53688,30 +53542,7 @@ window.allHeroes =
             "defense": 1564,
             "health": 2654
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "Atk: Area",
-                    "Dmg: DoT"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "Heal - Self Recovery / Boost Health",
-                    "Mana - Mana Gain (on Kill)"
-                ]
-            },
-            {
-                "增益效果": [
-                    "Def - Mimic"
-                ]
-            },
-            {
-                "负面效果": [
-                    "Dmg - DoT : Bleed"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "Asketel",
@@ -54122,7 +53953,7 @@ window.allHeroes =
         "Release date": "2023-03-23",
         "specialId": "mystical_concerto",
         "passiveSkills": [
-            "mana_generation_modifier_all_enemies_stronger"
+            "mana_generation_modifier_all_enemies_more_sources"
         ],
         "heroId": "bard_belladonna",
         "star": 5,
@@ -54535,7 +54366,7 @@ window.allHeroes =
         "Release date": "2024-07-02",
         "specialId": "blade_wings",
         "passiveSkills": [
-            "mana_generation_modifier_all_enemies_stronger"
+            "mana_generation_modifier_all_enemies_more_sources"
         ],
         "heroId": "owl_cennius",
         "star": 5,
@@ -56547,31 +56378,7 @@ window.allHeroes =
             "defense": 1595,
             "health": 2743
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "Atk: Single",
-                    "Dmg: DoT"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "Atk - Destroy Minions",
-                    "Mana - Mana Gain (on Kill)",
-                    "Heal - Self Recovery / Boost Health"
-                ]
-            },
-            {
-                "增益效果": [
-                    "Def - Mimic"
-                ]
-            },
-            {
-                "负面效果": [
-                    "Dmg - DoT : Poison"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "Eros",
@@ -56701,25 +56508,7 @@ window.allHeroes =
             "defense": 1524,
             "health": 2616
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "Atk: Single"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "Atk - Destroy Minions",
-                    "Mana - Mana Gain (on Kill)",
-                    "Heal - Self Recovery / Boost Health"
-                ]
-            },
-            {
-                "增益效果": [
-                    "Def - Mimic"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "Farrah",
@@ -62039,7 +61828,7 @@ window.allHeroes =
         "Release date": "2022-08-11",
         "specialId": "song_of_calamity",
         "passiveSkills": [
-            "mana_generation_modifier_all_enemies_stronger"
+            "mana_generation_modifier_all_enemies_more_sources"
         ],
         "heroId": "bard_narcisa",
         "star": 5,
@@ -62670,7 +62459,7 @@ window.allHeroes =
         "Release date": "2023-12-20",
         "specialId": "poleaxe_of_the_law",
         "passiveSkills": [
-            "mana_generation_modifier_all_enemies_stronger"
+            "mana_generation_modifier_all_enemies_more_sources"
         ],
         "heroId": "owl_ommodus",
         "star": 5,
@@ -62826,7 +62615,8 @@ window.allHeroes =
         "specialId": "blinding_injustice",
         "passiveSkills": [
             "never_miss_special",
-            "resist_all_mana_debuffs"
+            "resist_all_mana_debuffs_and_reductions",
+            "mana_generation_modifier_all_enemies_more_sources"
         ],
         "heroId": "astral_demon_paimon",
         "star": 5,
@@ -65940,7 +65730,7 @@ window.allHeroes =
         "specialId": "dinner_with_the_beast",
         "passiveSkills": [
             "convert_incoming_damage_to_heal",
-            "heal_on_expired_or_cleared_debuff",
+            "heal_on_expired_or_cleared_debuff_average",
             "reduce_revival_health_all_enemies"
         ],
         "heroId": "beauty_beast_the_beast",
@@ -73730,7 +73520,8 @@ window.allHeroes =
         "specialId": "sparking_star_slash",
         "passiveSkills": [
             "never_miss_special",
-            "resist_all_mana_debuffs"
+            "resist_all_mana_debuffs_and_reductions",
+            "mana_generation_modifier_all_enemies_more_sources"
         ],
         "heroId": "astral_demon_mael",
         "star": 4,
@@ -75578,7 +75369,7 @@ window.allHeroes =
         "originalIndex": 1092,
         "lb1": {
             "power": 1352,
-            "attack": 1413,
+            "attack": 1414,
             "defense": 1398,
             "health": 2439
         },
@@ -75670,26 +75461,7 @@ window.allHeroes =
             "defense": 1643,
             "health": 2786
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "Atk: Single",
-                    "Heal: From Dmg",
-                    "Heal: Boost Health"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "Mana - Mana Gain (on Kill)",
-                    "Heal - Self Recovery / Boost Health"
-                ]
-            },
-            {
-                "增益效果": [
-                    "Def - Mimic"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "Aethslegaur",
@@ -76475,30 +76247,7 @@ window.allHeroes =
             "defense": 1564,
             "health": 2654
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "Atk: Area",
-                    "Dmg: DoT"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "Heal - Self Recovery / Boost Health",
-                    "Mana - Mana Gain (on Kill)"
-                ]
-            },
-            {
-                "增益效果": [
-                    "Def - Mimic"
-                ]
-            },
-            {
-                "负面效果": [
-                    "Dmg - DoT : Bleed"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "Ash",
@@ -80641,31 +80390,7 @@ window.allHeroes =
             "defense": 1595,
             "health": 2743
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "Atk: Single",
-                    "Dmg: DoT"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "Atk - Destroy Minions",
-                    "Mana - Mana Gain (on Kill)",
-                    "Heal - Self Recovery / Boost Health"
-                ]
-            },
-            {
-                "增益效果": [
-                    "Def - Mimic"
-                ]
-            },
-            {
-                "负面效果": [
-                    "Dmg - DoT : Poison"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "Emilio",
@@ -80933,7 +80658,7 @@ window.allHeroes =
         "Release date": "2024-05-08",
         "specialId": "song_of_hoot_and_holler",
         "passiveSkills": [
-            "mana_generation_modifier_all_enemies_stronger"
+            "mana_generation_modifier_all_enemies_more_sources"
         ],
         "heroId": "owl_eron",
         "star": 5,
@@ -81048,25 +80773,7 @@ window.allHeroes =
             "defense": 1524,
             "health": 2616
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "Atk: Single"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "Atk - Destroy Minions",
-                    "Mana - Mana Gain (on Kill)",
-                    "Heal - Self Recovery / Boost Health"
-                ]
-            },
-            {
-                "增益效果": [
-                    "Def - Mimic"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "Fimafeng",
@@ -81400,7 +81107,7 @@ window.allHeroes =
         "Release date": "2023-12-20",
         "specialId": "royal_assault",
         "passiveSkills": [
-            "mana_generation_modifier_all_enemies_stronger"
+            "mana_generation_modifier_all_enemies_more_sources"
         ],
         "heroId": "owl_fulvia",
         "star": 5,
@@ -84527,7 +84234,7 @@ window.allHeroes =
         "Release date": "2024-02-14",
         "specialId": "battleclaw_strike",
         "passiveSkills": [
-            "mana_generation_modifier_all_enemies_stronger"
+            "mana_generation_modifier_all_enemies_more_sources"
         ],
         "heroId": "owl_lodius",
         "star": 5,
@@ -88120,7 +87827,7 @@ window.allHeroes =
         "specialId": "beautiful_petals",
         "passiveSkills": [
             "convert_incoming_damage_to_heal",
-            "heal_on_expired_or_cleared_debuff",
+            "heal_on_expired_or_cleared_debuff_average",
             "reduce_revival_health_all_enemies"
         ],
         "heroId": "beauty_beast_rose_de_flo",
@@ -88171,6 +87878,7 @@ window.allHeroes =
             },
             {
                 "增益效果": [
+                    "Atk - Growth : Atk↑",
                     "Def - Def ↑ : Special"
                 ]
             },
@@ -88674,7 +88382,8 @@ window.allHeroes =
         "specialId": "astral_assistance",
         "passiveSkills": [
             "resist_heal_multiplier_debuffs",
-            "resist_all_mana_debuffs"
+            "resist_all_mana_debuffs_and_reductions",
+            "mana_generation_modifier_all_enemies_more_sources"
         ],
         "heroId": "astral_demon_salome",
         "star": 5,
@@ -94180,7 +93889,7 @@ window.allHeroes =
         "Release date": "2023-12-20",
         "specialId": "owls_blessing",
         "passiveSkills": [
-            "mana_generation_modifier_all_enemies_stronger"
+            "mana_generation_modifier_all_enemies_more_sources"
         ],
         "heroId": "owl_paeia",
         "star": 3,
@@ -98902,30 +98611,7 @@ window.allHeroes =
             "defense": 1564,
             "health": 2654
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "Atk: Area",
-                    "Dmg: DoT"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "Heal - Self Recovery / Boost Health",
-                    "Mana - Mana Gain (on Kill)"
-                ]
-            },
-            {
-                "增益效果": [
-                    "Def - Mimic"
-                ]
-            },
-            {
-                "负面效果": [
-                    "Dmg - DoT : Bleed"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "Ashen",
@@ -100803,31 +100489,7 @@ window.allHeroes =
             "defense": 1595,
             "health": 2743
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "Atk: Single",
-                    "Dmg: DoT"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "Atk - Destroy Minions",
-                    "Mana - Mana Gain (on Kill)",
-                    "Heal - Self Recovery / Boost Health"
-                ]
-            },
-            {
-                "增益效果": [
-                    "Def - Mimic"
-                ]
-            },
-            {
-                "负面效果": [
-                    "Dmg - DoT : Poison"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "Ephyra",
@@ -101262,25 +100924,7 @@ window.allHeroes =
             "defense": 1524,
             "health": 2616
         },
-        "cn_skill_info": [
-            {
-                "基础技能": [
-                    "Atk: Single"
-                ]
-            },
-            {
-                "特殊效果": [
-                    "Atk - Destroy Minions",
-                    "Mana - Mana Gain (on Kill)",
-                    "Heal - Self Recovery / Boost Health"
-                ]
-            },
-            {
-                "增益效果": [
-                    "Def - Mimic"
-                ]
-            }
-        ]
+        "cn_skill_info": []
     },
     {
         "name": "Faeona",
@@ -105988,7 +105632,7 @@ window.allHeroes =
         "Release date": "2024-02-14",
         "specialId": "rites_of_inner_knowledge",
         "passiveSkills": [
-            "mana_generation_modifier_all_enemies_stronger"
+            "mana_generation_modifier_all_enemies_more_sources"
         ],
         "heroId": "owl_livia",
         "star": 5,
@@ -107702,7 +107346,7 @@ window.allHeroes =
         "Release date": "2022-12-01",
         "specialId": "rhythm_of_havoc",
         "passiveSkills": [
-            "mana_generation_modifier_all_enemies_stronger"
+            "mana_generation_modifier_all_enemies_more_sources"
         ],
         "heroId": "bard_ogima",
         "star": 5,
@@ -108251,7 +107895,7 @@ window.allHeroes =
         "Release date": "2025-02-05",
         "specialId": "vengeance_of_owlhalla",
         "passiveSkills": [
-            "mana_generation_modifier_all_enemies_stronger"
+            "mana_generation_modifier_all_enemies_more_sources"
         ],
         "heroId": "owl_pertinax",
         "star": 5,
@@ -109000,7 +108644,7 @@ window.allHeroes =
         "Release date": "2022-08-11",
         "specialId": "hymn_of_enrichment",
         "passiveSkills": [
-            "mana_generation_modifier_all_enemies_stronger"
+            "mana_generation_modifier_all_enemies_more_sources"
         ],
         "heroId": "bard_rhys",
         "star": 5,
