@@ -403,7 +403,7 @@ def main_sync_process():
     else:
         print("✅ 数据排查完成：未发现发布日期异常。")
 
-    output_file = 'heroes_data_extra_updated.js'
+    output_file = 'heroes_data_extra.js'
     print(f"\n正在生成更新后的JS文件: '{output_file}'...")
     try:
         updated_json_str = json.dumps(reordered_list, indent=4, ensure_ascii=False)

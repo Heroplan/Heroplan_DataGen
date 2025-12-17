@@ -967,5 +967,7 @@
   "Growth Boon 1": "成长恩赐 (单体)",
   "Wither 1": "衰退 (单体)",
   "Special Skill Defense Buff All": "全体特殊技能防御增益",
-  "Minion Dodge Buff All": "全体小兵闪避增益"
+  "Minion Dodge Buff All": "全体小兵闪避增益",
+  "Damage Increase Debuff Stack 3": "3个目标伤害增加减益叠加",
+  "Critical Chance Buff Stack 3": "3个目标暴击几率增益叠加"
 }

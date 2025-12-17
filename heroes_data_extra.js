@@ -41153,6 +41153,7 @@ window.allHeroesExtra = [
         "skill_types": [
             "Healers",
             "Cleansers",
+            "Ability Scores Modifiers",
             "Heal over Time (HoT)",
             "Buffers (DEF)"
         ],
@@ -42230,5 +42231,58 @@ window.allHeroesExtra = [
         "healthBonus": "23%",
         "manaBonus": "5%",
         "family": "classic"
+    },
+    {
+        "name": "Lin Chong",
+        "fancy name": "Panther Head of Water Margin",
+        "element": "Green",
+        "rarity": 5,
+        "class": "Ranger",
+        "speed": "very_fast",
+        "Release date": "2025-12-14",
+        "AetherPower": "Special Boost",
+        "skill_types": [
+            "AoE Attackers (Hit-3)",
+            "Extra Damage Dealers",
+            "Buffers (ATK)",
+            "Debuffers (DEF)",
+            "Stacking Heroes"
+        ],
+        "heroId": "outlaw_lin_chong",
+        "baseAttack": 645,
+        "baseDefense": 618,
+        "baseHealth": 1097,
+        "specialId": "punishing_strike",
+        "passiveSkills": [
+            "resist_bleed",
+            "righteous_rebellion_parent",
+            "cleanse_on_special_critical_damage_all_safe"
+        ],
+        "family": "outlaw"
+    },
+    {
+        "name": "Adelitza",
+        "fancy name": "Vanguard of the Rainforest",
+        "element": "Red",
+        "rarity": 5,
+        "class": "Monk",
+        "speed": "fast",
+        "Release date": "2025-12-16",
+        "AetherPower": "Attack Up",
+        "skill_types": [
+            "Snipers",
+            "Bypassers",
+            "Debuffers (DEF)"
+        ],
+        "heroId": "titan_hunter_adelitza",
+        "baseAttack": 637,
+        "baseDefense": 630,
+        "baseHealth": 1099,
+        "specialId": "crimson_hunt",
+        "passiveSkills": [
+            "titan_hunter_hunting_flare_on_special_cast",
+            "tile_enhancement_red_on_special_titan_hunter_parent"
+        ],
+        "family": "titan_hunter"
     }
 ];

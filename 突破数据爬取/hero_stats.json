@@ -28600,5 +28600,41 @@
             "Defense": 659,
             "Life": 1445
         }
+    },
+    "Lin Chong": {
+        "base": {
+            "Attack": 1328,
+            "Defense": 1273,
+            "Life": 2259,
+            "Power": 1262
+        },
+        "lb1": {
+            "Attack": 1431,
+            "Defense": 1371,
+            "Life": 2435
+        },
+        "lb2": {
+            "Attack": 1638,
+            "Defense": 1569,
+            "Life": 2786
+        }
+    },
+    "Adelitza": {
+        "base": {
+            "Attack": 1312,
+            "Defense": 1297,
+            "Life": 2263,
+            "Power": 1262
+        },
+        "lb1": {
+            "Attack": 1413,
+            "Defense": 1398,
+            "Life": 2439
+        },
+        "lb2": {
+            "Attack": 1617,
+            "Defense": 1600,
+            "Life": 2791
+        }
     }
 }

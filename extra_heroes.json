@@ -90,17 +90,6 @@
         "Lottery_Only": 1
     },
     {
-        "name": "Lin Chong",
-        "fancy_name": "Panther Head of Water Margin",
-        "color": "Green",
-        "Release date": "",
-        "star": 5,
-        "family": "outlaw",
-        "costume_id": 0,
-        "heroId": "outlaw_lin_chong",
-        "Lottery_Only": 1
-    },
-    {
         "name": "Hu Sanniang",
         "fancy_name": "Bright Star of Water Margin",
         "color": "Purple",
@@ -208,17 +197,6 @@
         "family": "beauty_beast",
         "costume_id": 0,
         "heroId": "beauty_beast_laurent",
-        "Lottery_Only": 1
-    },
-    {
-        "name": "Adelitza",
-        "fancy_name": "Vanguard of the Rainforest",
-        "color": "Red",
-        "Release date": "",
-        "star": 5,
-        "family": "titan_hunter",
-        "costume_id": 0,
-        "heroId": "titan_hunter_adelitza",
         "Lottery_Only": 1
     },
     {
