@@ -6728,7 +6728,26 @@ window.allHeroes =
             "defense": 1643,
             "health": 2786
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Single",
+                    "Heal: From Dmg",
+                    "Heal: Boost Health"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Mana - Mana Gain (on Kill)",
+                    "Heal - Self Recovery / Boost Health"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Def - Mimic"
+                ]
+            }
+        ]
     },
     {
         "name": "Aino",
@@ -7797,7 +7816,30 @@ window.allHeroes =
             "defense": 1564,
             "health": 2654
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Area",
+                    "Dmg: DoT"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Heal - Self Recovery / Boost Health",
+                    "Mana - Mana Gain (on Kill)"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Def - Mimic"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Dmg - DoT : Bleed"
+                ]
+            }
+        ]
     },
     {
         "name": "Ascian",
@@ -10467,7 +10509,31 @@ window.allHeroes =
             "defense": 1595,
             "health": 2743
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Single",
+                    "Dmg: DoT"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Atk - Destroy Minions",
+                    "Mana - Mana Gain (on Kill)",
+                    "Heal - Self Recovery / Boost Health"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Def - Mimic"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Dmg - DoT : Poison"
+                ]
+            }
+        ]
     },
     {
         "name": "Emilie",
@@ -10832,7 +10898,25 @@ window.allHeroes =
             "defense": 1524,
             "health": 2616
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Single"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Atk - Destroy Minions",
+                    "Mana - Mana Gain (on Kill)",
+                    "Heal - Self Recovery / Boost Health"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Def - Mimic"
+                ]
+            }
+        ]
     },
     {
         "name": "Fenrir",
@@ -30816,7 +30900,30 @@ window.allHeroes =
             "defense": 1564,
             "health": 2654
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Area",
+                    "Dmg: DoT"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Heal - Self Recovery / Boost Health",
+                    "Mana - Mana Gain (on Kill)"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Def - Mimic"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Dmg - DoT : Bleed"
+                ]
+            }
+        ]
     },
     {
         "name": "Athos",
@@ -33826,7 +33933,31 @@ window.allHeroes =
             "defense": 1595,
             "health": 2743
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Single",
+                    "Dmg: DoT"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Atk - Destroy Minions",
+                    "Mana - Mana Gain (on Kill)",
+                    "Heal - Self Recovery / Boost Health"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Def - Mimic"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Dmg - DoT : Poison"
+                ]
+            }
+        ]
     },
     {
         "name": "Enigmo",
@@ -34109,7 +34240,25 @@ window.allHeroes =
             "defense": 1524,
             "health": 2616
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Single"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Atk - Destroy Minions",
+                    "Mana - Mana Gain (on Kill)",
+                    "Heal - Self Recovery / Boost Health"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Def - Mimic"
+                ]
+            }
+        ]
     },
     {
         "name": "Fafnir",
@@ -53542,7 +53691,30 @@ window.allHeroes =
             "defense": 1564,
             "health": 2654
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Area",
+                    "Dmg: DoT"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Heal - Self Recovery / Boost Health",
+                    "Mana - Mana Gain (on Kill)"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Def - Mimic"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Dmg - DoT : Bleed"
+                ]
+            }
+        ]
     },
     {
         "name": "Asketel",
@@ -56378,7 +56550,31 @@ window.allHeroes =
             "defense": 1595,
             "health": 2743
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Single",
+                    "Dmg: DoT"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Atk - Destroy Minions",
+                    "Mana - Mana Gain (on Kill)",
+                    "Heal - Self Recovery / Boost Health"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Def - Mimic"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Dmg - DoT : Poison"
+                ]
+            }
+        ]
     },
     {
         "name": "Eros",
@@ -56508,7 +56704,25 @@ window.allHeroes =
             "defense": 1524,
             "health": 2616
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Single"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Atk - Destroy Minions",
+                    "Mana - Mana Gain (on Kill)",
+                    "Heal - Self Recovery / Boost Health"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Def - Mimic"
+                ]
+            }
+        ]
     },
     {
         "name": "Farrah",
@@ -69773,7 +69987,24 @@ window.allHeroes =
             "defense": 689,
             "health": 1167
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: All",
+                    "Dmg: DoT"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Atk - Bypass / Ignore"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Dmg - DoT : Burn"
+                ]
+            }
+        ]
     },
     {
         "name": "Kornel",
@@ -75461,7 +75692,26 @@ window.allHeroes =
             "defense": 1643,
             "health": 2786
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Single",
+                    "Heal: From Dmg",
+                    "Heal: Boost Health"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Mana - Mana Gain (on Kill)",
+                    "Heal - Self Recovery / Boost Health"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Def - Mimic"
+                ]
+            }
+        ]
     },
     {
         "name": "Aethslegaur",
@@ -76247,7 +76497,30 @@ window.allHeroes =
             "defense": 1564,
             "health": 2654
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Area",
+                    "Dmg: DoT"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Heal - Self Recovery / Boost Health",
+                    "Mana - Mana Gain (on Kill)"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Def - Mimic"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Dmg - DoT : Bleed"
+                ]
+            }
+        ]
     },
     {
         "name": "Ash",
@@ -80390,7 +80663,31 @@ window.allHeroes =
             "defense": 1595,
             "health": 2743
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Single",
+                    "Dmg: DoT"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Atk - Destroy Minions",
+                    "Mana - Mana Gain (on Kill)",
+                    "Heal - Self Recovery / Boost Health"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Def - Mimic"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Dmg - DoT : Poison"
+                ]
+            }
+        ]
     },
     {
         "name": "Emilio",
@@ -80773,7 +81070,25 @@ window.allHeroes =
             "defense": 1524,
             "health": 2616
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Single"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Atk - Destroy Minions",
+                    "Mana - Mana Gain (on Kill)",
+                    "Heal - Self Recovery / Boost Health"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Def - Mimic"
+                ]
+            }
+        ]
     },
     {
         "name": "Fimafeng",
@@ -87878,7 +88193,6 @@ window.allHeroes =
             },
             {
                 "增益效果": [
-                    "Atk - Growth : Atk↑",
                     "Def - Def ↑ : Special"
                 ]
             },
@@ -93032,7 +93346,19 @@ window.allHeroes =
             "defense": 602,
             "health": 1405
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Single"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Atk - Bypass / Ignore",
+                    "Mana - Mana Cut"
+                ]
+            }
+        ]
     },
     {
         "name": "Harubo",
@@ -98611,7 +98937,30 @@ window.allHeroes =
             "defense": 1564,
             "health": 2654
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Area",
+                    "Dmg: DoT"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Heal - Self Recovery / Boost Health",
+                    "Mana - Mana Gain (on Kill)"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Def - Mimic"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Dmg - DoT : Bleed"
+                ]
+            }
+        ]
     },
     {
         "name": "Ashen",
@@ -100489,7 +100838,31 @@ window.allHeroes =
             "defense": 1595,
             "health": 2743
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Single",
+                    "Dmg: DoT"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Atk - Destroy Minions",
+                    "Mana - Mana Gain (on Kill)",
+                    "Heal - Self Recovery / Boost Health"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Def - Mimic"
+                ]
+            },
+            {
+                "负面效果": [
+                    "Dmg - DoT : Poison"
+                ]
+            }
+        ]
     },
     {
         "name": "Ephyra",
@@ -100924,7 +101297,25 @@ window.allHeroes =
             "defense": 1524,
             "health": 2616
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Single"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Atk - Destroy Minions",
+                    "Mana - Mana Gain (on Kill)",
+                    "Heal - Self Recovery / Boost Health"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Def - Mimic"
+                ]
+            }
+        ]
     },
     {
         "name": "Faeona",
@@ -113494,7 +113885,7 @@ window.allHeroes =
         "cn_skill_info": []
     },
     {
-        "name": "Vivica C5",
+        "name": "Vivica Stylish",
         "fancy_name": "Stylish Scholar",
         "AetherPower": "",
         "color": "Yellow",
@@ -113520,7 +113911,7 @@ window.allHeroes =
         "cn_skill_info": []
     },
     {
-        "name": "Richard C5",
+        "name": "Richard Stylish",
         "fancy_name": "Paladin of Style",
         "AetherPower": "",
         "color": "Blue",
@@ -113546,7 +113937,7 @@ window.allHeroes =
         "cn_skill_info": []
     },
     {
-        "name": "Sartana C5",
+        "name": "Sartana Stylish",
         "fancy_name": "Stylish Executioner",
         "AetherPower": "",
         "color": "Purple",
@@ -113572,7 +113963,7 @@ window.allHeroes =
         "cn_skill_info": []
     },
     {
-        "name": "Azlar C5",
+        "name": "Azlar Stylish",
         "fancy_name": "Stylish Leor",
         "AetherPower": "",
         "color": "Red",
@@ -113598,7 +113989,7 @@ window.allHeroes =
         "cn_skill_info": []
     },
     {
-        "name": "Boldtusk C5",
+        "name": "Boldtusk Stylish",
         "fancy_name": "The Fancy",
         "AetherPower": "",
         "color": "Red",
@@ -113624,7 +114015,7 @@ window.allHeroes =
         "cn_skill_info": []
     },
     {
-        "name": "Grimm C5",
+        "name": "Grimm Stylish",
         "fancy_name": "Heir of Evil Style",
         "AetherPower": "",
         "color": "Blue",
@@ -113650,7 +114041,7 @@ window.allHeroes =
         "cn_skill_info": []
     },
     {
-        "name": "Gan Ju C4",
+        "name": "Gan Ju Stylish",
         "fancy_name": "Vibrant Bamboo",
         "AetherPower": "",
         "color": "Yellow",
@@ -113676,7 +114067,7 @@ window.allHeroes =
         "cn_skill_info": []
     },
     {
-        "name": "Jahangir C4",
+        "name": "Jahangir Stylish",
         "fancy_name": "Stylish Mage",
         "AetherPower": "",
         "color": "Red",

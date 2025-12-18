@@ -124,8 +124,8 @@ hero_keys_sorted = []
 heroes_extra_lookup = {}
 hero_stats_lookup = {}
 heroes_extra_cn_lookup = {}
-appearance_map_zh = {"costume": "C1", "costume1": "C1", "costume2": "C2", "costume3": "C3", "toon": "卡通", "glass": "玻璃"}
-appearance_map_en = {"costume": "C1", "costume1": "C1", "costume2": "C2", "costume3": "C3", "toon": "Toon", "glass": "Glass"}
+appearance_map_zh = {"costume": "C1", "costume1": "C1", "costume2": "C2", "costume3": "C3", "toon": "卡通", "glass": "玻璃", "stylish": "英姿"}
+appearance_map_en = {"costume": "C1", "costume1": "C1", "costume2": "C2", "costume3": "C3", "toon": "Toon", "glass": "Glass", "stylish": "Stylish"}
 
 SKILL_CATEGORY_ORDER = ["基础技能", "特殊效果", "增益效果", "负面效果"]
 
@@ -205,7 +205,7 @@ def _convert_name_to_stat_format(hero_name_full):
     suffix = ""
 
     if len(parts) > 1:
-        possible_suffixes = {"costume1", "costume2", "costume3", "costume4", "toon", "glass"}
+        possible_suffixes = {"costume1", "costume2", "costume3", "costume4", "toon", "glass", "stylish"}
         raw_suffix = parts[-1].lower()
         if raw_suffix in possible_suffixes:
             base_name = ' '.join(parts[:-1])
@@ -221,11 +221,13 @@ def _convert_name_to_stat_format(hero_name_full):
         if suffix == "costume1": output_key = f"{base_name} C"
         elif suffix == "toon": output_key = f"{base_name} C2"
         elif suffix == "glass": output_key = f"{base_name} C3"
+        elif suffix == "stylish": output_key = f"{base_name} C4"
     else:
         if suffix == "costume1": output_key = f"{base_name} C"
         elif suffix == "costume2": output_key = f"{base_name} C2"
         elif suffix == "toon": output_key = f"{base_name} C3"
         elif suffix == "glass": output_key = f"{base_name} C4"
+        elif suffix == "stylish": output_key = f"{base_name} C5"
     
     return output_key
 
@@ -293,7 +295,7 @@ def review_and_clean_hero_stats():
     # 创建一个反向查找映射，从爬虫名 (e.g., "Boldtusk C") 到 YML名 (e.g., "Boldtusk costume1")
     reverse_name_map = {}
     for yml_name, extra_info in heroes_extra_lookup.items():
-        if "costume" in yml_name or "toon" in yml_name or "glass" in yml_name:
+        if "costume" in yml_name or "toon" in yml_name or "glass" in yml_name or "stylish" in yml_name:
              crawler_name = _convert_name_to_stat_format(extra_info.get("name", ""))
              if crawler_name:
                  reverse_name_map[crawler_name] = extra_info.get("name", "")
@@ -418,13 +420,13 @@ def load_hero_stats():
     except Exception as e:
         logging.error(f"加载或解析 '{HERO_STATS_FILE}' 时出错: {e}")
         return
-    stats_suffix_map = {" C": " costume1", " C2": " costume2", " C3": " toon", " C4": " glass"}
+    stats_suffix_map = {" C": " costume1", " C2": " costume2", " C3": " toon", " C4": " glass", " C5": " stylish"}
     temp_lookup = {}
     for raw_name, stats in stats_data.items():
         processed_name = STATS_NAME_CORRECTIONS.get(raw_name, raw_name)
         processed_name = strip_ignorable_suffix(processed_name)
         base_name, suffix_in = processed_name, ""
-        for s in [" C", " C2", " C3", " C4"]:
+        for s in [" C", " C2", " C3", " C4", " C5"]:
             if processed_name.endswith(s):
                 suffix_in, base_name = s, processed_name[:-len(s)]
                 break
@@ -433,6 +435,7 @@ def load_hero_stats():
         if base_name_normalized in SPECIAL_COSTUME_HEROES:
             if suffix_in == " C2": suffix_out = " toon"
             elif suffix_in == " C3": suffix_out = " glass"
+            elif suffix_in == " C4": suffix_out = " stylish"
         if not suffix_out:
             suffix_out = stats_suffix_map.get(suffix_in, "")
         corrected_name = base_name + suffix_out
@@ -607,7 +610,7 @@ def load_heroes_data_extra_cn():
     except Exception as e:
         logging.error(f"加载或解析 '{HEROES_DATA_EXTRA_CN_FILE}' 时出错: {e}")
         return
-    stats_suffix_map = {" C": " costume1", " C2": " costume2", " C3": " toon", " C4": " glass"}
+    stats_suffix_map = {" C": " costume1", " C2": " costume2", " C3": " toon", " C4": " glass", " C5": " stylish"}
     temp_lookup = {}
     for name_raw, entry in data.items():
         processed_name = strip_ignorable_suffix(name_raw)
@@ -621,6 +624,7 @@ def load_heroes_data_extra_cn():
         if base_name_normalized in SPECIAL_COSTUME_HEROES:
             if suffix_in == " C2": suffix_out = " toon"
             elif suffix_in == " C3": suffix_out = " glass"
+            elif suffix_in == " C4": suffix_out = " stylish"
         if not suffix_out:
             suffix_out = stats_suffix_map.get(suffix_in, "")
         corrected_name = f"{base_name}{suffix_out}".strip() if not suffix_out.startswith(' ') else f"{base_name}{suffix_out}"
@@ -631,8 +635,11 @@ def load_heroes_data_extra_cn():
 def fix_name_brackets(heroes_data):
     """
     修复名字中的括号问题，将右括号外的部分移动到括号内
+    但只针对特定的元素名称：'dark', 'holy', 'ice', 'nature', 'fire', 'red'
     例如："纹章拟态兽 (Emblem Mimic) Ice" -> "纹章拟态兽 (Emblem Mimic Ice)"
     """
+    target_elements = {'dark', 'holy', 'ice', 'nature', 'fire', 'red'}
+    
     for hero in heroes_data:
         name = hero.get('name', '')
         if '(' in name and ')' in name:
@@ -647,8 +654,8 @@ def fix_name_brackets(heroes_data):
                 # 获取右括号后的内容
                 after_bracket = name[right_bracket_pos + 1:].strip()
                 
-                # 如果括号后有内容，重新组织名字
-                if after_bracket:
+                # 只有当括号后的内容是指定的元素时才进行处理
+                if after_bracket and after_bracket.lower() in target_elements:
                     # 获取括号前的内容
                     before_bracket = name[:bracket_content_start].strip()
                     
@@ -826,9 +833,11 @@ def generate_js_data_with_translation(heroes_base_dir, output_path_cn, output_pa
                     if base_name_normalized in SPECIAL_COSTUME_HEROES:
                         if yml_suffix == 'costume2': final_suffix = 'toon'
                         elif yml_suffix == 'costume3': final_suffix = 'glass'
+                        elif yml_suffix == 'costume4': final_suffix = 'stylish'
                     else:
                         if yml_suffix == 'costume3': final_suffix = 'toon'
                         elif yml_suffix == 'costume4': final_suffix = 'glass'
+                        elif yml_suffix == 'costume5': final_suffix = 'stylish'
 
                     costume_id = int(re.match(r'costume(\d*)', key).group(1) or 1)
                     yml_costume_full_name = f"{hero_name_raw} {final_suffix}".strip()

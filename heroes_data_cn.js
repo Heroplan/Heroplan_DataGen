@@ -704,7 +704,7 @@ window.allHeroes =
         ]
     },
     {
-        "name": "灰鬃狼人 (Graymane C1)",
+        "name": "灰鬃狼人 (Graymane) C1",
         "fancy_name": "盗蒜者",
         "AetherPower": "闪避",
         "color": "蓝",
@@ -768,7 +768,7 @@ window.allHeroes =
         ]
     },
     {
-        "name": "灰鬃狼人 (Graymane 卡通)",
+        "name": "灰鬃狼人 (Graymane) 卡通",
         "fancy_name": "卡通狰狞怪兽",
         "AetherPower": "特殊技能加成",
         "color": "蓝",
@@ -835,7 +835,7 @@ window.allHeroes =
         ]
     },
     {
-        "name": "灰鬃狼人 (Graymane 玻璃)",
+        "name": "灰鬃狼人 (Graymane) 玻璃",
         "fancy_name": "碎影狂怒",
         "AetherPower": "特殊技能加成",
         "color": "蓝",
@@ -1016,7 +1016,7 @@ window.allHeroes =
         ]
     },
     {
-        "name": "古纳尔 (Gunnar C1)",
+        "name": "古纳尔 (Gunnar) C1",
         "fancy_name": "勇敢铁匠",
         "AetherPower": "防御提升",
         "color": "蓝",
@@ -1076,7 +1076,7 @@ window.allHeroes =
         ]
     },
     {
-        "name": "古纳尔 (Gunnar 卡通)",
+        "name": "古纳尔 (Gunnar) 卡通",
         "fancy_name": "卡通骑士",
         "AetherPower": "特殊护甲",
         "color": "蓝",
@@ -1136,7 +1136,7 @@ window.allHeroes =
         ]
     },
     {
-        "name": "古纳尔 (Gunnar 玻璃)",
+        "name": "古纳尔 (Gunnar) 玻璃",
         "fancy_name": "玻璃骑士",
         "AetherPower": "特殊护甲",
         "color": "蓝",
@@ -1263,7 +1263,7 @@ window.allHeroes =
         ]
     },
     {
-        "name": "河洛 (Helo C1)",
+        "name": "河洛 (Helo) C1",
         "fancy_name": "艾洛伊烘焙师",
         "AetherPower": "生命恢复",
         "color": "蓝",
@@ -1392,7 +1392,7 @@ window.allHeroes =
         ]
     },
     {
-        "name": "加里夫 (Jarif C1)",
+        "name": "加里夫 (Jarif) C1",
         "fancy_name": "倍感压力的馆长",
         "AetherPower": "防御提升",
         "color": "蓝",
@@ -1594,7 +1594,7 @@ window.allHeroes =
         ]
     },
     {
-        "name": "尤卡海宁 (Joukahainen C1)",
+        "name": "尤卡海宁 (Joukahainen) C1",
         "fancy_name": "冰冻猎人",
         "AetherPower": "特殊技能加成",
         "color": "蓝",
@@ -1717,7 +1717,7 @@ window.allHeroes =
         ]
     },
     {
-        "name": "卡里尔 (Karil C1)",
+        "name": "卡里尔 (Karil) C1",
         "fancy_name": "熔炉之心",
         "AetherPower": "坚壁",
         "color": "蓝",
@@ -1778,7 +1778,7 @@ window.allHeroes =
         ]
     },
     {
-        "name": "卡里尔 (Karil 卡通)",
+        "name": "卡里尔 (Karil) 卡通",
         "fancy_name": "热血战士卡通",
         "AetherPower": "怒气",
         "color": "蓝",
@@ -1841,7 +1841,7 @@ window.allHeroes =
         ]
     },
     {
-        "name": "卡里尔 (Karil 玻璃)",
+        "name": "卡里尔 (Karil) 玻璃",
         "fancy_name": "热血彩绘",
         "AetherPower": "怒气",
         "color": "蓝",
@@ -1964,7 +1964,7 @@ window.allHeroes =
         ]
     },
     {
-        "name": "诺德里 (Nordri C1)",
+        "name": "诺德里 (Nordri) C1",
         "fancy_name": "约顿海姆探险家矮人",
         "AetherPower": "反击",
         "color": "蓝",
@@ -2291,7 +2291,7 @@ window.allHeroes =
         ]
     },
     {
-        "name": "乌尔墨 (Ulmer C1)",
+        "name": "乌尔墨 (Ulmer) C1",
         "fancy_name": "蜜岛隐士",
         "AetherPower": "特殊护甲",
         "color": "蓝",
@@ -2351,7 +2351,7 @@ window.allHeroes =
         ]
     },
     {
-        "name": "乌尔墨 (Ulmer 卡通)",
+        "name": "乌尔墨 (Ulmer) 卡通",
         "fancy_name": "格雷斯尔摩卡通",
         "AetherPower": "防御提升",
         "color": "蓝",
@@ -2422,7 +2422,7 @@ window.allHeroes =
         ]
     },
     {
-        "name": "乌尔墨 (Ulmer 玻璃)",
+        "name": "乌尔墨 (Ulmer) 玻璃",
         "fancy_name": "格雷斯尔摩彩绘",
         "AetherPower": "防御提升",
         "color": "蓝",
@@ -2553,7 +2553,7 @@ window.allHeroes =
         ]
     },
     {
-        "name": "瓦伦 (Valen C1)",
+        "name": "瓦伦 (Valen) C1",
         "fancy_name": "俊朗登山者",
         "AetherPower": "特殊技能加成",
         "color": "蓝",
@@ -2613,7 +2613,7 @@ window.allHeroes =
         ]
     },
     {
-        "name": "瓦伦 (Valen 卡通)",
+        "name": "瓦伦 (Valen) 卡通",
         "fancy_name": "天才卡通",
         "AetherPower": "攻击提升",
         "color": "蓝",
@@ -2684,7 +2684,7 @@ window.allHeroes =
         ]
     },
     {
-        "name": "瓦伦 (Valen 玻璃)",
+        "name": "瓦伦 (Valen) 玻璃",
         "fancy_name": "玻璃决斗者",
         "AetherPower": "攻击提升",
         "color": "蓝",
@@ -3016,7 +3016,7 @@ window.allHeroes =
         ]
     },
     {
-        "name": "艾格威 (Agwe C1)",
+        "name": "艾格威 (Agwe) C1",
         "fancy_name": "变色龙炼金术师",
         "AetherPower": "减伤",
         "color": "蓝",
@@ -3147,7 +3147,7 @@ window.allHeroes =
         ]
     },
     {
-        "name": "水形魔 (Aqualith C1)",
+        "name": "水形魔 (Aqualith) C1",
         "fancy_name": "元素巨人",
         "AetherPower": "闪避",
         "color": "蓝",
@@ -3286,7 +3286,7 @@ window.allHeroes =
         ]
     },
     {
-        "name": "奥兹玛 (Azmia C1)",
+        "name": "奥兹玛 (Azmia) C1",
         "fancy_name": "舞姬掌柜",
         "AetherPower": "特殊护甲",
         "color": "蓝",
@@ -3485,7 +3485,7 @@ window.allHeroes =
         ]
     },
     {
-        "name": "博立尔 (Boril C1)",
+        "name": "博立尔 (Boril) C1",
         "fancy_name": "重装守卫",
         "AetherPower": "状态异常免疫",
         "color": "蓝",
@@ -3537,7 +3537,7 @@ window.allHeroes =
         ]
     },
     {
-        "name": "博立尔 (Boril C2)",
+        "name": "博立尔 (Boril) C2",
         "fancy_name": "酒馆守卫",
         "AetherPower": "减伤",
         "color": "蓝",
@@ -3589,7 +3589,7 @@ window.allHeroes =
         ]
     },
     {
-        "name": "博立尔 (Boril 卡通)",
+        "name": "博立尔 (Boril) 卡通",
         "fancy_name": "卡通捍卫者",
         "AetherPower": "生命恢复",
         "color": "蓝",
@@ -3645,7 +3645,7 @@ window.allHeroes =
         ]
     },
     {
-        "name": "博立尔 (Boril 玻璃)",
+        "name": "博立尔 (Boril) 玻璃",
         "fancy_name": "玻璃守卫",
         "AetherPower": "生命恢复",
         "color": "蓝",
@@ -4120,7 +4120,7 @@ window.allHeroes =
         ]
     },
     {
-        "name": "弗兰克 (Frank C1)",
+        "name": "弗兰克 (Frank) C1",
         "fancy_name": "暴徒",
         "AetherPower": "特殊技能加成",
         "color": "蓝",
@@ -4400,7 +4400,7 @@ window.allHeroes =
         ]
     },
     {
-        "name": "格林姆 (Grimm C1)",
+        "name": "格林姆 (Grimm) C1",
         "fancy_name": "邪恶后裔",
         "AetherPower": "状态异常免疫",
         "color": "蓝",
@@ -4460,7 +4460,7 @@ window.allHeroes =
         ]
     },
     {
-        "name": "格林姆 (Grimm C2)",
+        "name": "格林姆 (Grimm) C2",
         "fancy_name": "暗黑使者",
         "AetherPower": "反击",
         "color": "蓝",
@@ -4519,7 +4519,7 @@ window.allHeroes =
         ]
     },
     {
-        "name": "格林姆 (Grimm 卡通)",
+        "name": "格林姆 (Grimm) 卡通",
         "fancy_name": "暗黑卡通",
         "AetherPower": "怒气",
         "color": "蓝",
@@ -4590,7 +4590,7 @@ window.allHeroes =
         ]
     },
     {
-        "name": "格林姆 (Grimm 玻璃)",
+        "name": "格林姆 (Grimm) 玻璃",
         "fancy_name": "暗黑彩绘",
         "AetherPower": "怒气",
         "color": "蓝",
@@ -4857,7 +4857,7 @@ window.allHeroes =
         ]
     },
     {
-        "name": "基里尔 (Kiril C1)",
+        "name": "基里尔 (Kiril) C1",
         "fancy_name": "速弹大师",
         "AetherPower": "防御提升",
         "color": "蓝",
@@ -4921,7 +4921,7 @@ window.allHeroes =
         ]
     },
     {
-        "name": "基里尔 (Kiril C2)",
+        "name": "基里尔 (Kiril) C2",
         "fancy_name": "木雕大师",
         "AetherPower": "治疗提升",
         "color": "蓝",
@@ -4989,7 +4989,7 @@ window.allHeroes =
         ]
     },
     {
-        "name": "基里尔 (Kiril 卡通)",
+        "name": "基里尔 (Kiril) 卡通",
         "fancy_name": "卡通酿酒师",
         "AetherPower": "防御提升",
         "color": "蓝",
@@ -5057,7 +5057,7 @@ window.allHeroes =
         ]
     },
     {
-        "name": "基里尔 (Kiril 玻璃)",
+        "name": "基里尔 (Kiril) 玻璃",
         "fancy_name": "酿酒师彩绘",
         "AetherPower": "防御提升",
         "color": "蓝",
@@ -5812,7 +5812,7 @@ window.allHeroes =
         ]
     },
     {
-        "name": "索尼娅 (Sonya C1)",
+        "name": "索尼娅 (Sonya) C1",
         "fancy_name": "维京战士",
         "AetherPower": "特殊护甲",
         "color": "蓝",
@@ -5872,7 +5872,7 @@ window.allHeroes =
         ]
     },
     {
-        "name": "索尼娅 (Sonya C2)",
+        "name": "索尼娅 (Sonya) C2",
         "fancy_name": "率性勘探员",
         "AetherPower": "攻击提升",
         "color": "蓝",
@@ -5932,7 +5932,7 @@ window.allHeroes =
         ]
     },
     {
-        "name": "索尼娅 (Sonya 卡通)",
+        "name": "索尼娅 (Sonya) 卡通",
         "fancy_name": "卡通战士",
         "AetherPower": "特殊技能加成",
         "color": "蓝",
@@ -6003,7 +6003,7 @@ window.allHeroes =
         ]
     },
     {
-        "name": "索尼娅 (Sonya 玻璃)",
+        "name": "索尼娅 (Sonya) 玻璃",
         "fancy_name": "玻璃勇士",
         "AetherPower": "特殊技能加成",
         "color": "蓝",
@@ -6134,7 +6134,7 @@ window.allHeroes =
         ]
     },
     {
-        "name": "崔坦 (Triton C1)",
+        "name": "崔坦 (Triton) C1",
         "fancy_name": "亚特兰蒂斯卫士",
         "AetherPower": "反击",
         "color": "蓝",
@@ -6391,7 +6391,7 @@ window.allHeroes =
         ]
     },
     {
-        "name": "齐拉蕾 (Zila Lei C1)",
+        "name": "齐拉蕾 (Zila Lei) C1",
         "fancy_name": "八足舞者",
         "AetherPower": "反击",
         "color": "蓝",
@@ -6595,7 +6595,7 @@ window.allHeroes =
         ]
     },
     {
-        "name": "艾吉尔 (Aegir C1)",
+        "name": "艾吉尔 (Aegir) C1",
         "fancy_name": "冰冻农夫",
         "AetherPower": "状态异常免疫",
         "color": "蓝",
@@ -6728,7 +6728,26 @@ window.allHeroes =
             "defense": 1643,
             "health": 2786
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "攻击：单体",
+                    "治疗：伤害量",
+                    "治疗：提高生命"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "法力-法力恢复（击杀）",
+                    "治疗-自我恢复/提高生命"
+                ]
+            },
+            {
+                "增益效果": [
+                    "防御-拟态"
+                ]
+            }
+        ]
     },
     {
         "name": "爱诺 (Aino)",
@@ -6798,7 +6817,7 @@ window.allHeroes =
         ]
     },
     {
-        "name": "爱诺 (Aino C1)",
+        "name": "爱诺 (Aino) C1",
         "fancy_name": "湖中室女",
         "AetherPower": "坚壁",
         "color": "蓝",
@@ -6928,7 +6947,7 @@ window.allHeroes =
         ]
     },
     {
-        "name": "阿拉希 (Alasie C1)",
+        "name": "阿拉希 (Alasie) C1",
         "fancy_name": "冰山战士",
         "AetherPower": "特殊技能加成",
         "color": "蓝",
@@ -7585,7 +7604,7 @@ window.allHeroes =
         ]
     },
     {
-        "name": "爱丽儿 (Ariel C1)",
+        "name": "爱丽儿 (Ariel) C1",
         "fancy_name": "亚特兰蒂斯巫师",
         "AetherPower": "攻击提升",
         "color": "蓝",
@@ -7797,7 +7816,30 @@ window.allHeroes =
             "defense": 1564,
             "health": 2654
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "攻击：范围",
+                    "伤害：持续伤害"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "治疗-自我恢复/提高生命",
+                    "法力-法力恢复（击杀）"
+                ]
+            },
+            {
+                "增益效果": [
+                    "防御-拟态"
+                ]
+            },
+            {
+                "负面效果": [
+                    "伤害-持续伤害：流血"
+                ]
+            }
+        ]
     },
     {
         "name": "阿西安 (Ascian)",
@@ -7953,7 +7995,7 @@ window.allHeroes =
         ]
     },
     {
-        "name": "阿西娜 (Athena C1)",
+        "name": "阿西娜 (Athena) C1",
         "fancy_name": "战争女神",
         "AetherPower": "特殊技能加成",
         "color": "蓝",
@@ -8105,7 +8147,7 @@ window.allHeroes =
         ]
     },
     {
-        "name": "亚特兰蒂亚 (Atlanteia C1)",
+        "name": "亚特兰蒂亚 (Atlanteia) C1",
         "fancy_name": "冷若冰霜的深海女妖",
         "AetherPower": "减伤",
         "color": "蓝",
@@ -8479,7 +8521,7 @@ window.allHeroes =
         ]
     },
     {
-        "name": "本努 (Bennu C1)",
+        "name": "本努 (Bennu) C1",
         "fancy_name": "创造之鹭",
         "AetherPower": "减伤",
         "color": "蓝",
@@ -8978,7 +9020,7 @@ window.allHeroes =
         ]
     },
     {
-        "name": "卡蜜拉 (Camilla C1)",
+        "name": "卡蜜拉 (Camilla) C1",
         "fancy_name": "繁花工匠",
         "AetherPower": "特殊护甲",
         "color": "蓝",
@@ -9138,7 +9180,7 @@ window.allHeroes =
         ]
     },
     {
-        "name": "曹操 (Cao Cao C1)",
+        "name": "曹操 (Cao Cao) C1",
         "fancy_name": "冰雪君主",
         "AetherPower": "特殊护甲",
         "color": "蓝",
@@ -9512,7 +9554,7 @@ window.allHeroes =
         ]
     },
     {
-        "name": "刻托 (Ceto C1)",
+        "name": "刻托 (Ceto) C1",
         "fancy_name": "原始海怪女王",
         "AetherPower": "特殊技能加成",
         "color": "蓝",
@@ -10467,7 +10509,31 @@ window.allHeroes =
             "defense": 1595,
             "health": 2743
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "攻击：单体",
+                    "伤害：持续伤害"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "攻击-摧毁小兵",
+                    "法力-法力恢复（击杀）",
+                    "治疗-自我恢复/提高生命"
+                ]
+            },
+            {
+                "增益效果": [
+                    "防御-拟态"
+                ]
+            },
+            {
+                "负面效果": [
+                    "伤害-持续伤害：毒"
+                ]
+            }
+        ]
     },
     {
         "name": "艾米莉 (Emilie)",
@@ -10695,7 +10761,7 @@ window.allHeroes =
         ]
     },
     {
-        "name": "艾克塞拉 (Exeera C1)",
+        "name": "艾克塞拉 (Exeera) C1",
         "fancy_name": "八足圣者",
         "AetherPower": "特殊护甲",
         "color": "蓝",
@@ -10832,7 +10898,25 @@ window.allHeroes =
             "defense": 1524,
             "health": 2616
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "攻击：单体"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "攻击-摧毁小兵",
+                    "法力-法力恢复（击杀）",
+                    "治疗-自我恢复/提高生命"
+                ]
+            },
+            {
+                "增益效果": [
+                    "防御-拟态"
+                ]
+            }
+        ]
     },
     {
         "name": "芬里厄 (Fenrir)",
@@ -10901,7 +10985,7 @@ window.allHeroes =
         ]
     },
     {
-        "name": "芬里厄 (Fenrir C1)",
+        "name": "芬里厄 (Fenrir) C1",
         "fancy_name": "尼福尔海姆守护者",
         "AetherPower": "特殊技能加成",
         "color": "蓝",
@@ -11109,7 +11193,7 @@ window.allHeroes =
         ]
     },
     {
-        "name": "芬利 (Finley C1)",
+        "name": "芬利 (Finley) C1",
         "fancy_name": "凄凉海军",
         "AetherPower": "攻击提升",
         "color": "蓝",
@@ -12335,7 +12419,7 @@ window.allHeroes =
         ]
     },
     {
-        "name": "赫特费雷斯 (Hetepheres C1)",
+        "name": "赫特费雷斯 (Hetepheres) C1",
         "fancy_name": "水疗的斯芬克斯",
         "AetherPower": "治疗提升",
         "color": "蓝",
@@ -12846,7 +12930,7 @@ window.allHeroes =
         ]
     },
     {
-        "name": "伊萨莉亚 (Isarnia C1)",
+        "name": "伊萨莉亚 (Isarnia) C1",
         "fancy_name": "格雷斯尔摩冰雪女巫",
         "AetherPower": "特殊技能加成",
         "color": "蓝",
@@ -12906,7 +12990,7 @@ window.allHeroes =
         ]
     },
     {
-        "name": "伊萨莉亚 (Isarnia C2)",
+        "name": "伊萨莉亚 (Isarnia) C2",
         "fancy_name": "格雷斯尔摩统治者",
         "AetherPower": "生命恢复",
         "color": "蓝",
@@ -12973,7 +13057,7 @@ window.allHeroes =
         ]
     },
     {
-        "name": "伊萨莉亚 (Isarnia 卡通)",
+        "name": "伊萨莉亚 (Isarnia) 卡通",
         "fancy_name": "卡通守护者",
         "AetherPower": "生命恢复",
         "color": "蓝",
@@ -13044,7 +13128,7 @@ window.allHeroes =
         ]
     },
     {
-        "name": "伊萨莉亚 (Isarnia 玻璃)",
+        "name": "伊萨莉亚 (Isarnia) 玻璃",
         "fancy_name": "格雷斯尔摩彩绘",
         "AetherPower": "生命恢复",
         "color": "蓝",
@@ -13713,7 +13797,7 @@ window.allHeroes =
         ]
     },
     {
-        "name": "克朗普斯 (Krampus C1)",
+        "name": "克朗普斯 (Krampus) C1",
         "fancy_name": "节日恶作剧者",
         "AetherPower": "闪避",
         "color": "蓝",
@@ -13998,7 +14082,7 @@ window.allHeroes =
         ]
     },
     {
-        "name": "洛基领主 (Lord Loki C1)",
+        "name": "洛基领主 (Lord Loki) C1",
         "fancy_name": "变形之神",
         "AetherPower": "特殊技能加成",
         "color": "蓝",
@@ -14337,7 +14421,7 @@ window.allHeroes =
         ]
     },
     {
-        "name": "马格尼 (Magni C1)",
+        "name": "马格尼 (Magni) C1",
         "fancy_name": "冰雪方碑",
         "AetherPower": "特殊技能加成",
         "color": "蓝",
@@ -14397,7 +14481,7 @@ window.allHeroes =
         ]
     },
     {
-        "name": "马格尼 (Magni C2)",
+        "name": "马格尼 (Magni) C2",
         "fancy_name": "冥界长者",
         "AetherPower": "怒气",
         "color": "蓝",
@@ -14457,7 +14541,7 @@ window.allHeroes =
         ]
     },
     {
-        "name": "马格尼 (Magni 卡通)",
+        "name": "马格尼 (Magni) 卡通",
         "fancy_name": "冰雪卡通",
         "AetherPower": "攻击提升",
         "color": "蓝",
@@ -14528,7 +14612,7 @@ window.allHeroes =
         ]
     },
     {
-        "name": "马格尼 (Magni 玻璃)",
+        "name": "马格尼 (Magni) 玻璃",
         "fancy_name": "冰雪彩绘",
         "AetherPower": "攻击提升",
         "color": "蓝",
@@ -14730,7 +14814,7 @@ window.allHeroes =
         ]
     },
     {
-        "name": "天兔大师 (Master Lepus C1)",
+        "name": "天兔大师 (Master Lepus) C1",
         "fancy_name": "裂缝破坏者",
         "AetherPower": "特殊技能加成",
         "color": "蓝",
@@ -15152,7 +15236,7 @@ window.allHeroes =
         ]
     },
     {
-        "name": "米莱娜 (Milena C1)",
+        "name": "米莱娜 (Milena) C1",
         "fancy_name": "北极法术导师",
         "AetherPower": "闪避",
         "color": "蓝",
@@ -15374,7 +15458,7 @@ window.allHeroes =
         ]
     },
     {
-        "name": "米桑德拉 (Misandra C1)",
+        "name": "米桑德拉 (Misandra) C1",
         "fancy_name": "靓丽草裙舞者",
         "AetherPower": "特殊技能加成",
         "color": "蓝",
@@ -15863,7 +15947,7 @@ window.allHeroes =
         ]
     },
     {
-        "name": "莫雷尔 (Morel C1)",
+        "name": "莫雷尔 (Morel) C1",
         "fancy_name": "艾洛伊智者",
         "AetherPower": "坚壁",
         "color": "蓝",
@@ -16007,7 +16091,7 @@ window.allHeroes =
         ]
     },
     {
-        "name": "潘吉先生 (Mr. Pengi C1)",
+        "name": "潘吉先生 (Mr. Pengi) C1",
         "fancy_name": "滑雪板战队队长",
         "AetherPower": "攻击提升",
         "color": "蓝",
@@ -16760,7 +16844,7 @@ window.allHeroes =
         ]
     },
     {
-        "name": "帕瑟帕特奥 (Passepartout C1)",
+        "name": "帕瑟帕特奥 (Passepartout) C1",
         "fancy_name": "优雅画家",
         "AetherPower": "防御提升",
         "color": "蓝",
@@ -16984,7 +17068,7 @@ window.allHeroes =
         ]
     },
     {
-        "name": "柏休斯 (Perseus C1)",
+        "name": "柏休斯 (Perseus) C1",
         "fancy_name": "玻瑞阿斯的挑战者",
         "AetherPower": "防御提升",
         "color": "蓝",
@@ -17640,7 +17724,7 @@ window.allHeroes =
         ]
     },
     {
-        "name": "理查德 (Richard C1)",
+        "name": "理查德 (Richard) C1",
         "fancy_name": "正义之斧",
         "AetherPower": "特殊技能加成",
         "color": "蓝",
@@ -17700,7 +17784,7 @@ window.allHeroes =
         ]
     },
     {
-        "name": "理查德 (Richard C2)",
+        "name": "理查德 (Richard) C2",
         "fancy_name": "不公之锤",
         "AetherPower": "怒气",
         "color": "蓝",
@@ -17761,7 +17845,7 @@ window.allHeroes =
         ]
     },
     {
-        "name": "理查德 (Richard 卡通)",
+        "name": "理查德 (Richard) 卡通",
         "fancy_name": "卡通力量之锤",
         "AetherPower": "攻击提升",
         "color": "蓝",
@@ -17832,7 +17916,7 @@ window.allHeroes =
         ]
     },
     {
-        "name": "理查德 (Richard 玻璃)",
+        "name": "理查德 (Richard) 玻璃",
         "fancy_name": "玻璃之锤",
         "AetherPower": "攻击提升",
         "color": "蓝",
@@ -18071,7 +18155,7 @@ window.allHeroes =
         ]
     },
     {
-        "name": "龙佩尔斯迪尔钦 (Rumpelstiltskin C1)",
+        "name": "龙佩尔斯迪尔钦 (Rumpelstiltskin) C1",
         "fancy_name": "永恒魔术师",
         "AetherPower": "反击",
         "color": "蓝",
@@ -18235,7 +18319,7 @@ window.allHeroes =
         ]
     },
     {
-        "name": "鲁苏拉 (Russula C1)",
+        "name": "鲁苏拉 (Russula) C1",
         "fancy_name": "艾洛伊画家",
         "AetherPower": "怒气",
         "color": "蓝",
@@ -18917,7 +19001,7 @@ window.allHeroes =
         ]
     },
     {
-        "name": "斯嘉蒂 (Skadi C1)",
+        "name": "斯嘉蒂 (Skadi) C1",
         "fancy_name": "约顿海姆守护者",
         "AetherPower": "特殊技能加成",
         "color": "蓝",
@@ -19209,7 +19293,7 @@ window.allHeroes =
         ]
     },
     {
-        "name": "白雪公主 (Snow White C1)",
+        "name": "白雪公主 (Snow White) C1",
         "fancy_name": "杀手公主",
         "AetherPower": "防御提升",
         "color": "蓝",
@@ -19349,7 +19433,7 @@ window.allHeroes =
         ]
     },
     {
-        "name": "索贝克 (Sobek C1)",
+        "name": "索贝克 (Sobek) C1",
         "fancy_name": "河流守护者",
         "AetherPower": "攻击提升",
         "color": "蓝",
@@ -19958,7 +20042,7 @@ window.allHeroes =
         ]
     },
     {
-        "name": "忒提丝 (Tethys C1)",
+        "name": "忒提丝 (Tethys) C1",
         "fancy_name": "万川复仇者",
         "AetherPower": "特殊技能加成",
         "color": "蓝",
@@ -20107,7 +20191,7 @@ window.allHeroes =
         ]
     },
     {
-        "name": "塔拉萨 (Thalassa C1)",
+        "name": "塔拉萨 (Thalassa) C1",
         "fancy_name": "原始水晶女神",
         "AetherPower": "生命恢复",
         "color": "蓝",
@@ -20383,7 +20467,7 @@ window.allHeroes =
         ]
     },
     {
-        "name": "索恩 (Thorne C1)",
+        "name": "索恩 (Thorne) C1",
         "fancy_name": "霜晨之王",
         "AetherPower": "攻击提升",
         "color": "蓝",
@@ -20443,7 +20527,7 @@ window.allHeroes =
         ]
     },
     {
-        "name": "索恩 (Thorne C2)",
+        "name": "索恩 (Thorne) C2",
         "fancy_name": "霜晨司令",
         "AetherPower": "反击",
         "color": "蓝",
@@ -20511,7 +20595,7 @@ window.allHeroes =
         ]
     },
     {
-        "name": "索恩 (Thorne 卡通)",
+        "name": "索恩 (Thorne) 卡通",
         "fancy_name": "霜晨卡通",
         "AetherPower": "特殊技能加成",
         "color": "蓝",
@@ -20574,7 +20658,7 @@ window.allHeroes =
         ]
     },
     {
-        "name": "索恩 (Thorne 玻璃)",
+        "name": "索恩 (Thorne) 玻璃",
         "fancy_name": "霜晨彩绘",
         "AetherPower": "特殊技能加成",
         "color": "蓝",
@@ -20945,7 +21029,7 @@ window.allHeroes =
         ]
     },
     {
-        "name": "尤留思 (Ulius C1)",
+        "name": "尤留思 (Ulius) C1",
         "fancy_name": "古怪秘法海盗",
         "AetherPower": "减伤",
         "color": "蓝",
@@ -21712,7 +21796,7 @@ window.allHeroes =
         ]
     },
     {
-        "name": "曾迦 (Zengar C1)",
+        "name": "曾迦 (Zengar) C1",
         "fancy_name": "驯化野兽",
         "AetherPower": "反击",
         "color": "蓝",
@@ -22235,7 +22319,7 @@ window.allHeroes =
         ]
     },
     {
-        "name": "贝丽丝 (Belith C1)",
+        "name": "贝丽丝 (Belith) C1",
         "fancy_name": "果园英灵",
         "AetherPower": "特殊护甲",
         "color": "绿",
@@ -22295,7 +22379,7 @@ window.allHeroes =
         ]
     },
     {
-        "name": "贝丽丝 (Belith 卡通)",
+        "name": "贝丽丝 (Belith) 卡通",
         "fancy_name": "卡通精神",
         "AetherPower": "防御提升",
         "color": "绿",
@@ -22363,7 +22447,7 @@ window.allHeroes =
         ]
     },
     {
-        "name": "贝丽丝 (Belith 玻璃)",
+        "name": "贝丽丝 (Belith) 玻璃",
         "fancy_name": "玻璃英灵",
         "AetherPower": "防御提升",
         "color": "绿",
@@ -22490,7 +22574,7 @@ window.allHeroes =
         ]
     },
     {
-        "name": "博尔登 (Berden C1)",
+        "name": "博尔登 (Berden) C1",
         "fancy_name": "机敏弓箭手",
         "AetherPower": "特殊技能加成",
         "color": "绿",
@@ -22550,7 +22634,7 @@ window.allHeroes =
         ]
     },
     {
-        "name": "博尔登 (Berden 卡通)",
+        "name": "博尔登 (Berden) 卡通",
         "fancy_name": "卡通弓箭手",
         "AetherPower": "攻击提升",
         "color": "绿",
@@ -22621,7 +22705,7 @@ window.allHeroes =
         ]
     },
     {
-        "name": "博尔登 (Berden 玻璃)",
+        "name": "博尔登 (Berden) 玻璃",
         "fancy_name": "玻璃弓箭手",
         "AetherPower": "攻击提升",
         "color": "绿",
@@ -22744,7 +22828,7 @@ window.allHeroes =
         ]
     },
     {
-        "name": "布里恩妮 (Brienne C1)",
+        "name": "布里恩妮 (Brienne) C1",
         "fancy_name": "康考迪亚萨满",
         "AetherPower": "特殊护甲",
         "color": "绿",
@@ -22796,7 +22880,7 @@ window.allHeroes =
         ]
     },
     {
-        "name": "布里恩妮 (Brienne 卡通)",
+        "name": "布里恩妮 (Brienne) 卡通",
         "fancy_name": "史前丛林卡通",
         "AetherPower": "防御提升",
         "color": "绿",
@@ -22852,7 +22936,7 @@ window.allHeroes =
         ]
     },
     {
-        "name": "布里恩妮 (Brienne 玻璃)",
+        "name": "布里恩妮 (Brienne) 玻璃",
         "fancy_name": "史前丛林彩绘",
         "AetherPower": "防御提升",
         "color": "绿",
@@ -23046,7 +23130,7 @@ window.allHeroes =
         ]
     },
     {
-        "name": "卡沃 (Carver C1)",
+        "name": "卡沃 (Carver) C1",
         "fancy_name": "割喉者",
         "AetherPower": "特殊技能加成",
         "color": "绿",
@@ -23106,7 +23190,7 @@ window.allHeroes =
         ]
     },
     {
-        "name": "卡沃 (Carver 卡通)",
+        "name": "卡沃 (Carver) 卡通",
         "fancy_name": "扒手卡通",
         "AetherPower": "攻击提升",
         "color": "绿",
@@ -23173,7 +23257,7 @@ window.allHeroes =
         ]
     },
     {
-        "name": "卡沃 (Carver 玻璃)",
+        "name": "卡沃 (Carver) 玻璃",
         "fancy_name": "玻璃窃影",
         "AetherPower": "攻击提升",
         "color": "绿",
@@ -23510,7 +23594,7 @@ window.allHeroes =
         ]
     },
     {
-        "name": "法伊兹 (Faiez C1)",
+        "name": "法伊兹 (Faiez) C1",
         "fancy_name": "幸运矿工",
         "AetherPower": "特殊护甲",
         "color": "绿",
@@ -23844,7 +23928,7 @@ window.allHeroes =
         ]
     },
     {
-        "name": "塔克修士 (Friar Tuck C1)",
+        "name": "塔克修士 (Friar Tuck) C1",
         "fancy_name": "欢乐探索者",
         "AetherPower": "特殊护甲",
         "color": "绿",
@@ -23904,7 +23988,7 @@ window.allHeroes =
         ]
     },
     {
-        "name": "塔克修士 (Friar Tuck 卡通)",
+        "name": "塔克修士 (Friar Tuck) 卡通",
         "fancy_name": "欢乐卡通",
         "AetherPower": "防御提升",
         "color": "绿",
@@ -23968,7 +24052,7 @@ window.allHeroes =
         ]
     },
     {
-        "name": "塔克修士 (Friar Tuck 玻璃)",
+        "name": "塔克修士 (Friar Tuck) 玻璃",
         "fancy_name": "欢乐彩绘",
         "AetherPower": "防御提升",
         "color": "绿",
@@ -24295,7 +24379,7 @@ window.allHeroes =
         ]
     },
     {
-        "name": "格兰普斯 (Gramps C1)",
+        "name": "格兰普斯 (Gramps) C1",
         "fancy_name": "半身人园丁",
         "AetherPower": "生命恢复",
         "color": "绿",
@@ -24535,7 +24619,7 @@ window.allHeroes =
         ]
     },
     {
-        "name": "伊师塔克 (Isshtak C1)",
+        "name": "伊师塔克 (Isshtak) C1",
         "fancy_name": "蜥蜴人祖宗",
         "AetherPower": "反击",
         "color": "绿",
@@ -24595,7 +24679,7 @@ window.allHeroes =
         ]
     },
     {
-        "name": "伊师塔克 (Isshtak 卡通)",
+        "name": "伊师塔克 (Isshtak) 卡通",
         "fancy_name": "卡通斗士",
         "AetherPower": "特殊技能加成",
         "color": "绿",
@@ -24658,7 +24742,7 @@ window.allHeroes =
         ]
     },
     {
-        "name": "伊师塔克 (Isshtak 玻璃)",
+        "name": "伊师塔克 (Isshtak) 玻璃",
         "fancy_name": "玻璃斗士",
         "AetherPower": "特殊技能加成",
         "color": "绿",
@@ -24979,7 +25063,7 @@ window.allHeroes =
         ]
     },
     {
-        "name": "内修斯 (Mnesseus C1)",
+        "name": "内修斯 (Mnesseus) C1",
         "fancy_name": "亚特兰蒂斯中尉",
         "AetherPower": "防御提升",
         "color": "绿",
@@ -25854,7 +25938,7 @@ window.allHeroes =
         ]
     },
     {
-        "name": "阿穆尔 (Almur C1)",
+        "name": "阿穆尔 (Almur) C1",
         "fancy_name": "瓦特海姆之王",
         "AetherPower": "闪避",
         "color": "绿",
@@ -26213,7 +26297,7 @@ window.allHeroes =
         ]
     },
     {
-        "name": "巴迪 (Buddy C1)",
+        "name": "巴迪 (Buddy) C1",
         "fancy_name": "圣诞老人的记帐员",
         "AetherPower": "特殊技能加成",
         "color": "绿",
@@ -26351,7 +26435,7 @@ window.allHeroes =
         ]
     },
     {
-        "name": "凯德蒙 (Caedmon C1)",
+        "name": "凯德蒙 (Caedmon) C1",
         "fancy_name": "精灵复仇者",
         "AetherPower": "特殊护甲",
         "color": "绿",
@@ -26411,7 +26495,7 @@ window.allHeroes =
         ]
     },
     {
-        "name": "凯德蒙 (Caedmon C2)",
+        "name": "凯德蒙 (Caedmon) C2",
         "fancy_name": "精灵骑士",
         "AetherPower": "闪避",
         "color": "绿",
@@ -26478,7 +26562,7 @@ window.allHeroes =
         ]
     },
     {
-        "name": "凯德蒙 (Caedmon 卡通)",
+        "name": "凯德蒙 (Caedmon) 卡通",
         "fancy_name": "精灵卡通",
         "AetherPower": "特殊技能加成",
         "color": "绿",
@@ -26549,7 +26633,7 @@ window.allHeroes =
         ]
     },
     {
-        "name": "凯德蒙 (Caedmon 玻璃)",
+        "name": "凯德蒙 (Caedmon) 玻璃",
         "fancy_name": "精灵彩绘",
         "AetherPower": "特殊技能加成",
         "color": "绿",
@@ -26820,7 +26904,7 @@ window.allHeroes =
         ]
     },
     {
-        "name": "嘉德利亚斯 (Gadeirus C1)",
+        "name": "嘉德利亚斯 (Gadeirus) C1",
         "fancy_name": "亚特兰蒂斯哨兵",
         "AetherPower": "治疗提升",
         "color": "绿",
@@ -26948,7 +27032,7 @@ window.allHeroes =
         ]
     },
     {
-        "name": "戈布勒 (Gobbler C1)",
+        "name": "戈布勒 (Gobbler) C1",
         "fancy_name": "世界重量级冠军",
         "AetherPower": "状态异常免疫",
         "color": "绿",
@@ -27085,7 +27169,7 @@ window.allHeroes =
         ]
     },
     {
-        "name": "韩塞尔 (Hansel C1)",
+        "name": "韩塞尔 (Hansel) C1",
         "fancy_name": "肃煞森林吸血鬼猎人",
         "AetherPower": "特殊技能加成",
         "color": "绿",
@@ -27212,7 +27296,7 @@ window.allHeroes =
         ]
     },
     {
-        "name": "杰克·奥黑尔 (Jack O'Hare C1)",
+        "name": "杰克·奥黑尔 (Jack O'Hare) C1",
         "fancy_name": "春谷捕蛋者",
         "AetherPower": "特殊技能加成",
         "color": "绿",
@@ -27465,7 +27549,7 @@ window.allHeroes =
         ]
     },
     {
-        "name": "喀什雷克 (Kashhrek C1)",
+        "name": "喀什雷克 (Kashhrek) C1",
         "fancy_name": "蜥蜴人长老",
         "AetherPower": "特殊护甲",
         "color": "绿",
@@ -27526,7 +27610,7 @@ window.allHeroes =
         ]
     },
     {
-        "name": "喀什雷克 (Kashhrek C2)",
+        "name": "喀什雷克 (Kashhrek) C2",
         "fancy_name": "蜥蜴人渔民",
         "AetherPower": "生命恢复",
         "color": "绿",
@@ -27586,7 +27670,7 @@ window.allHeroes =
         ]
     },
     {
-        "name": "喀什雷克 (Kashhrek 卡通)",
+        "name": "喀什雷克 (Kashhrek) 卡通",
         "fancy_name": "卡通酋长",
         "AetherPower": "防御提升",
         "color": "绿",
@@ -27650,7 +27734,7 @@ window.allHeroes =
         ]
     },
     {
-        "name": "喀什雷克 (Kashhrek 玻璃)",
+        "name": "喀什雷克 (Kashhrek) 玻璃",
         "fancy_name": "玻璃酋长",
         "AetherPower": "防御提升",
         "color": "绿",
@@ -27853,7 +27937,7 @@ window.allHeroes =
         ]
     },
     {
-        "name": "小约翰 (Little John C1)",
+        "name": "小约翰 (Little John) C1",
         "fancy_name": "隐蔽兄弟",
         "AetherPower": "特殊护甲",
         "color": "绿",
@@ -27915,7 +27999,7 @@ window.allHeroes =
         ]
     },
     {
-        "name": "小约翰 (Little John C2)",
+        "name": "小约翰 (Little John) C2",
         "fancy_name": "神力高地人",
         "AetherPower": "生命恢复",
         "color": "绿",
@@ -27975,7 +28059,7 @@ window.allHeroes =
         ]
     },
     {
-        "name": "小约翰 (Little John 卡通)",
+        "name": "小约翰 (Little John) 卡通",
         "fancy_name": "神力卡通",
         "AetherPower": "防御提升",
         "color": "绿",
@@ -28046,7 +28130,7 @@ window.allHeroes =
         ]
     },
     {
-        "name": "小约翰 (Little John 玻璃)",
+        "name": "小约翰 (Little John) 玻璃",
         "fancy_name": "强大彩绘",
         "AetherPower": "防御提升",
         "color": "绿",
@@ -28245,7 +28329,7 @@ window.allHeroes =
         ]
     },
     {
-        "name": "米兰朵 (Melendor C1)",
+        "name": "米兰朵 (Melendor) C1",
         "fancy_name": "神力巫师",
         "AetherPower": "特殊护甲",
         "color": "绿",
@@ -28309,7 +28393,7 @@ window.allHeroes =
         ]
     },
     {
-        "name": "米兰朵 (Melendor C2)",
+        "name": "米兰朵 (Melendor) C2",
         "fancy_name": "派对巫师",
         "AetherPower": "治疗提升",
         "color": "绿",
@@ -28373,7 +28457,7 @@ window.allHeroes =
         ]
     },
     {
-        "name": "米兰朵 (Melendor 卡通)",
+        "name": "米兰朵 (Melendor) 卡通",
         "fancy_name": "卡通巫师",
         "AetherPower": "特殊护甲",
         "color": "绿",
@@ -28441,7 +28525,7 @@ window.allHeroes =
         ]
     },
     {
-        "name": "米兰朵 (Melendor 玻璃)",
+        "name": "米兰朵 (Melendor) 玻璃",
         "fancy_name": "森林彩绘",
         "AetherPower": "特殊护甲",
         "color": "绿",
@@ -28580,7 +28664,7 @@ window.allHeroes =
         ]
     },
     {
-        "name": "蔑里基 (Mielikki C1)",
+        "name": "蔑里基 (Mielikki) C1",
         "fancy_name": "熊之守护者",
         "AetherPower": "坚壁",
         "color": "绿",
@@ -28733,7 +28817,7 @@ window.allHeroes =
         ]
     },
     {
-        "name": "木果 (Mulgog C1)",
+        "name": "木果 (Mulgog) C1",
         "fancy_name": "鱼人吟游诗人",
         "AetherPower": "防御提升",
         "color": "绿",
@@ -29108,7 +29192,7 @@ window.allHeroes =
         ]
     },
     {
-        "name": "皮特斯 (Peters C1)",
+        "name": "皮特斯 (Peters) C1",
         "fancy_name": "海边的送报童",
         "AetherPower": "状态异常免疫",
         "color": "绿",
@@ -29239,7 +29323,7 @@ window.allHeroes =
         ]
     },
     {
-        "name": "托勒密 (Ptolemy C1)",
+        "name": "托勒密 (Ptolemy) C1",
         "fancy_name": "长老之木",
         "AetherPower": "特殊护甲",
         "color": "绿",
@@ -29440,7 +29524,7 @@ window.allHeroes =
         ]
     },
     {
-        "name": "柱子骨骼 (Skittleskull C1)",
+        "name": "柱子骨骼 (Skittleskull) C1",
         "fancy_name": "糖果女巫",
         "AetherPower": "生命恢复加成",
         "color": "绿",
@@ -29500,7 +29584,7 @@ window.allHeroes =
         ]
     },
     {
-        "name": "柱子骨骼 (Skittleskull C2)",
+        "name": "柱子骨骼 (Skittleskull) C2",
         "fancy_name": "蟾蜍女巫",
         "AetherPower": "状态异常免疫",
         "color": "绿",
@@ -29560,7 +29644,7 @@ window.allHeroes =
         ]
     },
     {
-        "name": "柱子骨骼 (Skittleskull 卡通)",
+        "name": "柱子骨骼 (Skittleskull) 卡通",
         "fancy_name": "卡通女巫",
         "AetherPower": "法力加成",
         "color": "绿",
@@ -29631,7 +29715,7 @@ window.allHeroes =
         ]
     },
     {
-        "name": "柱子骨骼 (Skittleskull 玻璃)",
+        "name": "柱子骨骼 (Skittleskull) 玻璃",
         "fancy_name": "玻璃女巫",
         "AetherPower": "法力加成",
         "color": "绿",
@@ -29844,7 +29928,7 @@ window.allHeroes =
         ]
     },
     {
-        "name": "特图克 (Tettukh C1)",
+        "name": "特图克 (Tettukh) C1",
         "fancy_name": "莫洛克啦啦队员",
         "AetherPower": "攻击提升",
         "color": "绿",
@@ -29985,7 +30069,7 @@ window.allHeroes =
         ]
     },
     {
-        "name": "维利尔斯 (Villiers C1)",
+        "name": "维利尔斯 (Villiers) C1",
         "fancy_name": "傲慢小丑",
         "AetherPower": "减伤",
         "color": "绿",
@@ -30189,7 +30273,7 @@ window.allHeroes =
         ]
     },
     {
-        "name": "雅赫摩斯 (Ahmose C1)",
+        "name": "雅赫摩斯 (Ahmose) C1",
         "fancy_name": "法老重生",
         "AetherPower": "生命恢复加成",
         "color": "绿",
@@ -30327,7 +30411,7 @@ window.allHeroes =
         ]
     },
     {
-        "name": "阿尔贝里希 (Alberich C1)",
+        "name": "阿尔贝里希 (Alberich) C1",
         "fancy_name": "艾福洛克骑士",
         "AetherPower": "特殊护甲",
         "color": "绿",
@@ -30543,7 +30627,7 @@ window.allHeroes =
         ]
     },
     {
-        "name": "亚奇 (Archie C1)",
+        "name": "亚奇 (Archie) C1",
         "fancy_name": "无畏的大羊驼游吟诗人",
         "AetherPower": "特殊技能加成",
         "color": "绿",
@@ -30816,7 +30900,30 @@ window.allHeroes =
             "defense": 1564,
             "health": 2654
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "攻击：范围",
+                    "伤害：持续伤害"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "治疗-自我恢复/提高生命",
+                    "法力-法力恢复（击杀）"
+                ]
+            },
+            {
+                "增益效果": [
+                    "防御-拟态"
+                ]
+            },
+            {
+                "负面效果": [
+                    "伤害-持续伤害：流血"
+                ]
+            }
+        ]
     },
     {
         "name": "阿多斯 (Athos)",
@@ -30958,7 +31065,7 @@ window.allHeroes =
         ]
     },
     {
-        "name": "阿多莫斯 (Atomos C1)",
+        "name": "阿多莫斯 (Atomos) C1",
         "fancy_name": "暗礁守护者",
         "AetherPower": "坚壁",
         "color": "绿",
@@ -32053,7 +32160,7 @@ window.allHeroes =
         ]
     },
     {
-        "name": "康伽拉赫 (Congalach C1)",
+        "name": "康伽拉赫 (Congalach) C1",
         "fancy_name": "巨藻战士",
         "AetherPower": "生命恢复",
         "color": "绿",
@@ -32269,7 +32376,7 @@ window.allHeroes =
         ]
     },
     {
-        "name": "克里斯托巴尔 (Cristobal C1)",
+        "name": "克里斯托巴尔 (Cristobal) C1",
         "fancy_name": "附魔教授",
         "AetherPower": "反击",
         "color": "绿",
@@ -32778,7 +32885,7 @@ window.allHeroes =
         ]
     },
     {
-        "name": "艾德文 (Edwin C1)",
+        "name": "艾德文 (Edwin) C1",
         "fancy_name": "背刺管家",
         "AetherPower": "攻击提升",
         "color": "绿",
@@ -32922,7 +33029,7 @@ window.allHeroes =
         ]
     },
     {
-        "name": "埃奥拉与毛毛 (Eiora & Fluffy C1)",
+        "name": "埃奥拉与毛毛 (Eiora & Fluffy) C1",
         "fancy_name": "黑暗双人组",
         "AetherPower": "防御提升",
         "color": "绿",
@@ -33136,7 +33243,7 @@ window.allHeroes =
         ]
     },
     {
-        "name": "埃纳达哈 (El Naddaha C1)",
+        "name": "埃纳达哈 (El Naddaha) C1",
         "fancy_name": "海之女妖",
         "AetherPower": "攻击提升",
         "color": "绿",
@@ -33267,7 +33374,7 @@ window.allHeroes =
         ]
     },
     {
-        "name": "埃尔卡能 (Elkanen C1)",
+        "name": "埃尔卡能 (Elkanen) C1",
         "fancy_name": "银月之雄",
         "AetherPower": "攻击提升",
         "color": "绿",
@@ -33328,7 +33435,7 @@ window.allHeroes =
         ]
     },
     {
-        "name": "埃尔卡能 (Elkanen C2)",
+        "name": "埃尔卡能 (Elkanen) C2",
         "fancy_name": "银月之王",
         "AetherPower": "反击",
         "color": "绿",
@@ -33388,7 +33495,7 @@ window.allHeroes =
         ]
     },
     {
-        "name": "埃尔卡能 (Elkanen 卡通)",
+        "name": "埃尔卡能 (Elkanen) 卡通",
         "fancy_name": "卡通矛术大师",
         "AetherPower": "特殊技能加成",
         "color": "绿",
@@ -33455,7 +33562,7 @@ window.allHeroes =
         ]
     },
     {
-        "name": "埃尔卡能 (Elkanen 玻璃)",
+        "name": "埃尔卡能 (Elkanen) 玻璃",
         "fancy_name": "玻璃矛术大师",
         "AetherPower": "特殊技能加成",
         "color": "绿",
@@ -33826,7 +33933,31 @@ window.allHeroes =
             "defense": 1595,
             "health": 2743
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "攻击：单体",
+                    "伤害：持续伤害"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "攻击-摧毁小兵",
+                    "法力-法力恢复（击杀）",
+                    "治疗-自我恢复/提高生命"
+                ]
+            },
+            {
+                "增益效果": [
+                    "防御-拟态"
+                ]
+            },
+            {
+                "负面效果": [
+                    "伤害-持续伤害：毒"
+                ]
+            }
+        ]
     },
     {
         "name": "恩尼格莫 (Enigmo)",
@@ -33970,7 +34101,7 @@ window.allHeroes =
         ]
     },
     {
-        "name": "伊夫林 (Evelyn C1)",
+        "name": "伊夫林 (Evelyn) C1",
         "fancy_name": "勇敢女猎手",
         "AetherPower": "特殊技能加成",
         "color": "绿",
@@ -34109,7 +34240,25 @@ window.allHeroes =
             "defense": 1524,
             "health": 2616
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "攻击：单体"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "攻击-摧毁小兵",
+                    "法力-法力恢复（击杀）",
+                    "治疗-自我恢复/提高生命"
+                ]
+            },
+            {
+                "增益效果": [
+                    "防御-拟态"
+                ]
+            }
+        ]
     },
     {
         "name": "法夫纳 (Fafnir)",
@@ -34556,7 +34705,7 @@ window.allHeroes =
         ]
     },
     {
-        "name": "弗朗辛 (Francine C1)",
+        "name": "弗朗辛 (Francine) C1",
         "fancy_name": "女暴徒",
         "AetherPower": "特殊技能加成",
         "color": "绿",
@@ -34770,7 +34919,7 @@ window.allHeroes =
         ]
     },
     {
-        "name": "弗丽嘉 (Frigg C1)",
+        "name": "弗丽嘉 (Frigg) C1",
         "fancy_name": "未卜先知女神",
         "AetherPower": "特殊技能加成",
         "color": "绿",
@@ -35142,7 +35291,7 @@ window.allHeroes =
         ]
     },
     {
-        "name": "加拉帕戈 (Galapago C1)",
+        "name": "加拉帕戈 (Galapago) C1",
         "fancy_name": "聪明的采石场翻滚者",
         "AetherPower": "特殊护甲",
         "color": "绿",
@@ -35292,7 +35441,7 @@ window.allHeroes =
         ]
     },
     {
-        "name": "卡加莫 (Garjammal C1)",
+        "name": "卡加莫 (Garjammal) C1",
         "fancy_name": "莫洛克风筝专家",
         "AetherPower": "生命恢复",
         "color": "绿",
@@ -35519,7 +35668,7 @@ window.allHeroes =
         ]
     },
     {
-        "name": "杰勒 (Gelert C1)",
+        "name": "杰勒 (Gelert) C1",
         "fancy_name": "深渊清道夫",
         "AetherPower": "闪避",
         "color": "绿",
@@ -35678,7 +35827,7 @@ window.allHeroes =
         ]
     },
     {
-        "name": "金姬 (Ginger C1)",
+        "name": "金姬 (Ginger) C1",
         "fancy_name": "地精礼物大师",
         "AetherPower": "生命恢复加成",
         "color": "绿",
@@ -36114,7 +36263,7 @@ window.allHeroes =
         ]
     },
     {
-        "name": "格雷戈里恩 (Gregorion C1)",
+        "name": "格雷戈里恩 (Gregorion) C1",
         "fancy_name": "隐居炼金术师",
         "AetherPower": "怒气",
         "color": "绿",
@@ -36402,7 +36551,7 @@ window.allHeroes =
         ]
     },
     {
-        "name": "关羽 (Guan Yu C1)",
+        "name": "关羽 (Guan Yu) C1",
         "fancy_name": "地狱将军",
         "AetherPower": "攻击提升",
         "color": "绿",
@@ -36765,7 +36914,7 @@ window.allHeroes =
         ]
     },
     {
-        "name": "海姆达 (Heimdall C1)",
+        "name": "海姆达 (Heimdall) C1",
         "fancy_name": "煞影守卫",
         "AetherPower": "坚壁",
         "color": "绿",
@@ -36889,7 +37038,7 @@ window.allHeroes =
         ]
     },
     {
-        "name": "霍格火 (Horghall C1)",
+        "name": "霍格火 (Horghall) C1",
         "fancy_name": "木质小丑",
         "AetherPower": "特殊护甲",
         "color": "绿",
@@ -36949,7 +37098,7 @@ window.allHeroes =
         ]
     },
     {
-        "name": "霍格火 (Horghall C2)",
+        "name": "霍格火 (Horghall) C2",
         "fancy_name": "林间梦魇",
         "AetherPower": "减伤",
         "color": "绿",
@@ -37018,7 +37167,7 @@ window.allHeroes =
         ]
     },
     {
-        "name": "霍格火 (Horghall 卡通)",
+        "name": "霍格火 (Horghall) 卡通",
         "fancy_name": "树林卡通",
         "AetherPower": "防御提升",
         "color": "绿",
@@ -37089,7 +37238,7 @@ window.allHeroes =
         ]
     },
     {
-        "name": "霍格火 (Horghall 玻璃)",
+        "name": "霍格火 (Horghall) 玻璃",
         "fancy_name": "林地彩绘",
         "AetherPower": "防御提升",
         "color": "绿",
@@ -37672,7 +37821,7 @@ window.allHeroes =
         ]
     },
     {
-        "name": "卡迪雷恩 (Kadilen C1)",
+        "name": "卡迪雷恩 (Kadilen) C1",
         "fancy_name": "月光女祭司",
         "AetherPower": "特殊护甲",
         "color": "绿",
@@ -37739,7 +37888,7 @@ window.allHeroes =
         ]
     },
     {
-        "name": "卡迪雷恩 (Kadilen C2)",
+        "name": "卡迪雷恩 (Kadilen) C2",
         "fancy_name": "银月仙子",
         "AetherPower": "攻击提升",
         "color": "绿",
@@ -37806,7 +37955,7 @@ window.allHeroes =
         ]
     },
     {
-        "name": "卡迪雷恩 (Kadilen 卡通)",
+        "name": "卡迪雷恩 (Kadilen) 卡通",
         "fancy_name": "卡通护盾大师",
         "AetherPower": "防御提升",
         "color": "绿",
@@ -37877,7 +38026,7 @@ window.allHeroes =
         ]
     },
     {
-        "name": "卡迪雷恩 (Kadilen 玻璃)",
+        "name": "卡迪雷恩 (Kadilen) 玻璃",
         "fancy_name": "玻璃护盾大师",
         "AetherPower": "防御提升",
         "color": "绿",
@@ -38326,7 +38475,7 @@ window.allHeroes =
         ]
     },
     {
-        "name": "洛克小姐 (Lady Locke C1)",
+        "name": "洛克小姐 (Lady Locke) C1",
         "fancy_name": "叛军女王",
         "AetherPower": "攻击提升",
         "color": "绿",
@@ -38457,7 +38606,7 @@ window.allHeroes =
         ]
     },
     {
-        "name": "圣湖女神 (Lady of the Lake C1)",
+        "name": "圣湖女神 (Lady of the Lake) C1",
         "fancy_name": "刀锋女士",
         "AetherPower": "治疗提升",
         "color": "绿",
@@ -38788,7 +38937,7 @@ window.allHeroes =
         ]
     },
     {
-        "name": "丽阿娜 (Lianna C1)",
+        "name": "丽阿娜 (Lianna) C1",
         "fancy_name": "贵族守护者",
         "AetherPower": "特殊技能加成",
         "color": "绿",
@@ -38848,7 +38997,7 @@ window.allHeroes =
         ]
     },
     {
-        "name": "丽阿娜 (Lianna C2)",
+        "name": "丽阿娜 (Lianna) C2",
         "fancy_name": "贵族渡鸦",
         "AetherPower": "闪避",
         "color": "绿",
@@ -38908,7 +39057,7 @@ window.allHeroes =
         ]
     },
     {
-        "name": "丽阿娜 (Lianna 卡通)",
+        "name": "丽阿娜 (Lianna) 卡通",
         "fancy_name": "贵族卡通",
         "AetherPower": "攻击提升",
         "color": "绿",
@@ -38971,7 +39120,7 @@ window.allHeroes =
         ]
     },
     {
-        "name": "丽阿娜 (Lianna 玻璃)",
+        "name": "丽阿娜 (Lianna) 玻璃",
         "fancy_name": "贵族彩绘",
         "AetherPower": "攻击提升",
         "color": "绿",
@@ -39343,7 +39492,7 @@ window.allHeroes =
         ]
     },
     {
-        "name": "刘备 (Liu Bei C1)",
+        "name": "刘备 (Liu Bei) C1",
         "fancy_name": "森林君主",
         "AetherPower": "状态异常免疫",
         "color": "绿",
@@ -39492,7 +39641,7 @@ window.allHeroes =
         ]
     },
     {
-        "name": "鲁海德 (Lughaidh C1)",
+        "name": "鲁海德 (Lughaidh) C1",
         "fancy_name": "不死之王",
         "AetherPower": "生命恢复加成",
         "color": "绿",
@@ -39636,7 +39785,7 @@ window.allHeroes =
         ]
     },
     {
-        "name": "玛阿特 (Ma'at C1)",
+        "name": "玛阿特 (Ma'at) C1",
         "fancy_name": "伊特鲁女神",
         "AetherPower": "减伤",
         "color": "绿",
@@ -40403,7 +40552,7 @@ window.allHeroes =
         ]
     },
     {
-        "name": "北方之母 (Mother North C1)",
+        "name": "北方之母 (Mother North) C1",
         "fancy_name": "节日毛衣爱好者",
         "AetherPower": "特殊护甲",
         "color": "绿",
@@ -40833,7 +40982,7 @@ window.allHeroes =
         ]
     },
     {
-        "name": "奥特 (Ott C1)",
+        "name": "奥特 (Ott) C1",
         "fancy_name": "矮人大师级骗术师",
         "AetherPower": "生命恢复加成",
         "color": "绿",
@@ -41201,7 +41350,7 @@ window.allHeroes =
         ]
     },
     {
-        "name": "斐利亚·福格 (Phileas Fogg C1)",
+        "name": "斐利亚·福格 (Phileas Fogg) C1",
         "fancy_name": "精湛工程师",
         "AetherPower": "怒气",
         "color": "绿",
@@ -41634,7 +41783,7 @@ window.allHeroes =
         ]
     },
     {
-        "name": "奎奈尔 (Quenell C1)",
+        "name": "奎奈尔 (Quenell) C1",
         "fancy_name": "狼族斗士",
         "AetherPower": "特殊技能加成",
         "color": "绿",
@@ -41850,7 +41999,7 @@ window.allHeroes =
         ]
     },
     {
-        "name": "拉塔托斯克 (Ratatoskr C1)",
+        "name": "拉塔托斯克 (Ratatoskr) C1",
         "fancy_name": "世界树设计师",
         "AetherPower": "坚壁",
         "color": "绿",
@@ -42118,7 +42267,7 @@ window.allHeroes =
         ]
     },
     {
-        "name": "罗兹 (Roz C1)",
+        "name": "罗兹 (Roz) C1",
         "fancy_name": "迪斯科神枪手",
         "AetherPower": "攻击提升",
         "color": "绿",
@@ -42693,7 +42842,7 @@ window.allHeroes =
         ]
     },
     {
-        "name": "斯帕托依 (Spartoi C1)",
+        "name": "斯帕托依 (Spartoi) C1",
         "fancy_name": "纳迦守卫",
         "AetherPower": "状态异常免疫",
         "color": "绿",
@@ -43363,7 +43512,7 @@ window.allHeroes =
         ]
     },
     {
-        "name": "塔拉克 (Tarlak C1)",
+        "name": "塔拉克 (Tarlak) C1",
         "fancy_name": "卢奥王子",
         "AetherPower": "状态异常免疫",
         "color": "绿",
@@ -43797,7 +43946,7 @@ window.allHeroes =
         ]
     },
     {
-        "name": "疯帽子 (The Hatter C1)",
+        "name": "疯帽子 (The Hatter) C1",
         "fancy_name": "仙境鉴茶家",
         "AetherPower": "反击",
         "color": "绿",
@@ -44018,7 +44167,7 @@ window.allHeroes =
         ]
     },
     {
-        "name": "托克斯坎德拉 (Toxicandra C1)",
+        "name": "托克斯坎德拉 (Toxicandra) C1",
         "fancy_name": "草木君主",
         "AetherPower": "特殊护甲",
         "color": "绿",
@@ -44154,7 +44303,7 @@ window.allHeroes =
         ]
     },
     {
-        "name": "万奈摩宁 (Vainamoinen C1)",
+        "name": "万奈摩宁 (Vainamoinen) C1",
         "fancy_name": "永恒智者",
         "AetherPower": "特殊技能加成",
         "color": "绿",
@@ -44583,7 +44732,7 @@ window.allHeroes =
         ]
     },
     {
-        "name": "赞德瑞拉 (Xandrella C1)",
+        "name": "赞德瑞拉 (Xandrella) C1",
         "fancy_name": "元素造物之神",
         "AetherPower": "特殊护甲",
         "color": "绿",
@@ -44962,7 +45111,7 @@ window.allHeroes =
         ]
     },
     {
-        "name": "尤纳恩 (Yunan C1)",
+        "name": "尤纳恩 (Yunan) C1",
         "fancy_name": "护卫之王",
         "AetherPower": "生命恢复加成",
         "color": "绿",
@@ -45181,7 +45330,7 @@ window.allHeroes =
         ]
     },
     {
-        "name": "西林 (Zeline C1)",
+        "name": "西林 (Zeline) C1",
         "fancy_name": "飞禽神仙",
         "AetherPower": "特殊技能加成",
         "color": "绿",
@@ -45752,7 +45901,7 @@ window.allHeroes =
         ]
     },
     {
-        "name": "阿奎拉 (Aqeela C1)",
+        "name": "阿奎拉 (Aqeela) C1",
         "fancy_name": "机灵术士",
         "AetherPower": "特殊技能加成",
         "color": "紫",
@@ -45877,7 +46026,7 @@ window.allHeroes =
         ]
     },
     {
-        "name": "巴特萨 (Balthazar C1)",
+        "name": "巴特萨 (Balthazar) C1",
         "fancy_name": "不死魔术师",
         "AetherPower": "攻击提升",
         "color": "紫",
@@ -45938,7 +46087,7 @@ window.allHeroes =
         ]
     },
     {
-        "name": "巴特萨 (Balthazar 卡通)",
+        "name": "巴特萨 (Balthazar) 卡通",
         "fancy_name": "卡通魔术师",
         "AetherPower": "特殊技能加成",
         "color": "紫",
@@ -46001,7 +46150,7 @@ window.allHeroes =
         ]
     },
     {
-        "name": "巴特萨 (Balthazar 玻璃)",
+        "name": "巴特萨 (Balthazar) 玻璃",
         "fancy_name": "玻璃魔术师",
         "AetherPower": "特殊技能加成",
         "color": "紫",
@@ -46190,7 +46339,7 @@ window.allHeroes =
         ]
     },
     {
-        "name": "比约恩 (Bjorn C1)",
+        "name": "比约恩 (Bjorn) C1",
         "fancy_name": "英勇战士",
         "AetherPower": "特殊技能加成",
         "color": "紫",
@@ -46494,7 +46643,7 @@ window.allHeroes =
         ]
     },
     {
-        "name": "鳃拉 (Gill-Ra C1)",
+        "name": "鳃拉 (Gill-Ra) C1",
         "fancy_name": "浅滩追逐者",
         "AetherPower": "特殊护甲",
         "color": "紫",
@@ -46971,7 +47120,7 @@ window.allHeroes =
         ]
     },
     {
-        "name": "毛里斯 (Morris C1)",
+        "name": "毛里斯 (Morris) C1",
         "fancy_name": "摩尔曼陶工",
         "AetherPower": "减伤",
         "color": "紫",
@@ -47110,7 +47259,7 @@ window.allHeroes =
         ]
     },
     {
-        "name": "奥伯伦 (Oberon C1)",
+        "name": "奥伯伦 (Oberon) C1",
         "fancy_name": "残躯小丑",
         "AetherPower": "生命恢复加成",
         "color": "紫",
@@ -47167,7 +47316,7 @@ window.allHeroes =
         ]
     },
     {
-        "name": "奥伯伦 (Oberon 卡通)",
+        "name": "奥伯伦 (Oberon) 卡通",
         "fancy_name": "无情卡通",
         "AetherPower": "法力加成",
         "color": "紫",
@@ -47239,7 +47388,7 @@ window.allHeroes =
         ]
     },
     {
-        "name": "奥伯伦 (Oberon 玻璃)",
+        "name": "奥伯伦 (Oberon) 玻璃",
         "fancy_name": "无情彩绘",
         "AetherPower": "法力加成",
         "color": "紫",
@@ -47434,7 +47583,7 @@ window.allHeroes =
         ]
     },
     {
-        "name": "普利斯卡 (Prisca C1)",
+        "name": "普利斯卡 (Prisca) C1",
         "fancy_name": "坚毅监工",
         "AetherPower": "攻击提升",
         "color": "紫",
@@ -47494,7 +47643,7 @@ window.allHeroes =
         ]
     },
     {
-        "name": "普利斯卡 (Prisca 卡通)",
+        "name": "普利斯卡 (Prisca) 卡通",
         "fancy_name": "坚毅卡通",
         "AetherPower": "特殊技能加成",
         "color": "紫",
@@ -47561,7 +47710,7 @@ window.allHeroes =
         ]
     },
     {
-        "name": "普利斯卡 (Prisca 玻璃)",
+        "name": "普利斯卡 (Prisca) 玻璃",
         "fancy_name": "坚毅彩绘",
         "AetherPower": "特殊技能加成",
         "color": "紫",
@@ -47688,7 +47837,7 @@ window.allHeroes =
         ]
     },
     {
-        "name": "雷恩菲尔德 (Renfeld C1)",
+        "name": "雷恩菲尔德 (Renfeld) C1",
         "fancy_name": "迷乱外科医生",
         "AetherPower": "攻击提升",
         "color": "紫",
@@ -47749,7 +47898,7 @@ window.allHeroes =
         ]
     },
     {
-        "name": "雷恩菲尔德 (Renfeld 卡通)",
+        "name": "雷恩菲尔德 (Renfeld) 卡通",
         "fancy_name": "迷乱卡通",
         "AetherPower": "特殊技能加成",
         "color": "紫",
@@ -47816,7 +47965,7 @@ window.allHeroes =
         ]
     },
     {
-        "name": "雷恩菲尔德 (Renfeld 玻璃)",
+        "name": "雷恩菲尔德 (Renfeld) 玻璃",
         "fancy_name": "玻璃刺客",
         "AetherPower": "特殊技能加成",
         "color": "紫",
@@ -48010,7 +48159,7 @@ window.allHeroes =
         ]
     },
     {
-        "name": "泰伦 (Tyrum C1)",
+        "name": "泰伦 (Tyrum) C1",
         "fancy_name": "罗马神迹",
         "AetherPower": "攻击提升",
         "color": "紫",
@@ -48070,7 +48219,7 @@ window.allHeroes =
         ]
     },
     {
-        "name": "泰伦 (Tyrum 卡通)",
+        "name": "泰伦 (Tyrum) 卡通",
         "fancy_name": "庄严卡通",
         "AetherPower": "特殊技能加成",
         "color": "紫",
@@ -48141,7 +48290,7 @@ window.allHeroes =
         ]
     },
     {
-        "name": "泰伦 (Tyrum 玻璃)",
+        "name": "泰伦 (Tyrum) 玻璃",
         "fancy_name": "玻璃遗骸",
         "AetherPower": "特殊技能加成",
         "color": "紫",
@@ -48415,7 +48564,7 @@ window.allHeroes =
         ]
     },
     {
-        "name": "爱赫特波 (Ahhotep C1)",
+        "name": "爱赫特波 (Ahhotep) C1",
         "fancy_name": "木乃伊勇士",
         "AetherPower": "生命恢复加成",
         "color": "紫",
@@ -48542,7 +48691,7 @@ window.allHeroes =
         ]
     },
     {
-        "name": "雨女 (Ameonna C1)",
+        "name": "雨女 (Ameonna) C1",
         "fancy_name": "寂寞幽灵",
         "AetherPower": "防御提升",
         "color": "紫",
@@ -48753,7 +48902,7 @@ window.allHeroes =
         ]
     },
     {
-        "name": "安娜·贝尔 (Ana-Belle C1)",
+        "name": "安娜·贝尔 (Ana-Belle) C1",
         "fancy_name": "尘埃女男爵",
         "AetherPower": "防御提升",
         "color": "紫",
@@ -49028,7 +49177,7 @@ window.allHeroes =
         ]
     },
     {
-        "name": "柴郡猫 (Cheshire Cat C1)",
+        "name": "柴郡猫 (Cheshire Cat) C1",
         "fancy_name": "蛇蝎猫咪",
         "AetherPower": "状态异常免疫",
         "color": "紫",
@@ -49215,7 +49364,7 @@ window.allHeroes =
         ]
     },
     {
-        "name": "塞普里恩 (Cyprian C1)",
+        "name": "塞普里恩 (Cyprian) C1",
         "fancy_name": "不死王子",
         "AetherPower": "减伤",
         "color": "紫",
@@ -49267,7 +49416,7 @@ window.allHeroes =
         ]
     },
     {
-        "name": "塞普里恩 (Cyprian C2)",
+        "name": "塞普里恩 (Cyprian) C2",
         "fancy_name": "驭死狂欢者",
         "AetherPower": "生命恢复",
         "color": "紫",
@@ -49327,7 +49476,7 @@ window.allHeroes =
         ]
     },
     {
-        "name": "塞普里恩 (Cyprian 卡通)",
+        "name": "塞普里恩 (Cyprian) 卡通",
         "fancy_name": "卡通驭死领主",
         "AetherPower": "反击",
         "color": "紫",
@@ -49383,7 +49532,7 @@ window.allHeroes =
         ]
     },
     {
-        "name": "塞普里恩 (Cyprian 玻璃)",
+        "name": "塞普里恩 (Cyprian) 玻璃",
         "fancy_name": "驭死彩绘",
         "AetherPower": "反击",
         "color": "紫",
@@ -49642,7 +49791,7 @@ window.allHeroes =
         ]
     },
     {
-        "name": "芙拉 (Fura C1)",
+        "name": "芙拉 (Fura) C1",
         "fancy_name": "瓦特海姆草药师",
         "AetherPower": "特殊技能加成",
         "color": "紫",
@@ -50392,7 +50541,7 @@ window.allHeroes =
         ]
     },
     {
-        "name": "梅林 (Merlin C1)",
+        "name": "梅林 (Merlin) C1",
         "fancy_name": "阿瓦隆星术师",
         "AetherPower": "减伤",
         "color": "紫",
@@ -50519,7 +50668,7 @@ window.allHeroes =
         ]
     },
     {
-        "name": "普罗透斯 (Proteus C1)",
+        "name": "普罗透斯 (Proteus) C1",
         "fancy_name": "亚特兰蒂斯先知",
         "AetherPower": "状态异常免疫",
         "color": "紫",
@@ -50639,7 +50788,7 @@ window.allHeroes =
         ]
     },
     {
-        "name": "里加 (Rigard C1)",
+        "name": "里加 (Rigard) C1",
         "fancy_name": "精致贵族",
         "AetherPower": "特殊护甲",
         "color": "紫",
@@ -50707,7 +50856,7 @@ window.allHeroes =
         ]
     },
     {
-        "name": "里加 (Rigard C2)",
+        "name": "里加 (Rigard) C2",
         "fancy_name": "贵族医者",
         "AetherPower": "减伤",
         "color": "紫",
@@ -50775,7 +50924,7 @@ window.allHeroes =
         ]
     },
     {
-        "name": "里加 (Rigard 卡通)",
+        "name": "里加 (Rigard) 卡通",
         "fancy_name": "卡通骑兵",
         "AetherPower": "防御提升",
         "color": "紫",
@@ -50847,7 +50996,7 @@ window.allHeroes =
         ]
     },
     {
-        "name": "里加 (Rigard 玻璃)",
+        "name": "里加 (Rigard) 玻璃",
         "fancy_name": "玻璃骑士",
         "AetherPower": "防御提升",
         "color": "紫",
@@ -51053,7 +51202,7 @@ window.allHeroes =
         ]
     },
     {
-        "name": "萨拜娜 (Sabina C1)",
+        "name": "萨拜娜 (Sabina) C1",
         "fancy_name": "不死公主",
         "AetherPower": "防御提升",
         "color": "紫",
@@ -51121,7 +51270,7 @@ window.allHeroes =
         ]
     },
     {
-        "name": "萨拜娜 (Sabina C2)",
+        "name": "萨拜娜 (Sabina) C2",
         "fancy_name": "驭死公主",
         "AetherPower": "反击",
         "color": "紫",
@@ -51189,7 +51338,7 @@ window.allHeroes =
         ]
     },
     {
-        "name": "萨拜娜 (Sabina 卡通)",
+        "name": "萨拜娜 (Sabina) 卡通",
         "fancy_name": "不死卡通",
         "AetherPower": "特殊护甲",
         "color": "紫",
@@ -51257,7 +51406,7 @@ window.allHeroes =
         ]
     },
     {
-        "name": "萨拜娜 (Sabina 玻璃)",
+        "name": "萨拜娜 (Sabina) 玻璃",
         "fancy_name": "驭死彩绘",
         "AetherPower": "特殊护甲",
         "color": "紫",
@@ -51459,7 +51608,7 @@ window.allHeroes =
         ]
     },
     {
-        "name": "沙凯 (Shar'Khai C1)",
+        "name": "沙凯 (Shar'Khai) C1",
         "fancy_name": "锯齿屠夫",
         "AetherPower": "怒气",
         "color": "紫",
@@ -51852,7 +52001,7 @@ window.allHeroes =
         ]
     },
     {
-        "name": "迪波特斯 (Tiburtus C1)",
+        "name": "迪波特斯 (Tiburtus) C1",
         "fancy_name": "摇滚公爵",
         "AetherPower": "怒气",
         "color": "紫",
@@ -51912,7 +52061,7 @@ window.allHeroes =
         ]
     },
     {
-        "name": "迪波特斯 (Tiburtus C2)",
+        "name": "迪波特斯 (Tiburtus) C2",
         "fancy_name": "悲鸣公爵",
         "AetherPower": "特殊技能加成",
         "color": "紫",
@@ -51972,7 +52121,7 @@ window.allHeroes =
         ]
     },
     {
-        "name": "迪波特斯 (Tiburtus 卡通)",
+        "name": "迪波特斯 (Tiburtus) 卡通",
         "fancy_name": "忧郁卡通",
         "AetherPower": "攻击提升",
         "color": "紫",
@@ -52043,7 +52192,7 @@ window.allHeroes =
         ]
     },
     {
-        "name": "迪波特斯 (Tiburtus 玻璃)",
+        "name": "迪波特斯 (Tiburtus) 玻璃",
         "fancy_name": "悲伤彩绘",
         "AetherPower": "攻击提升",
         "color": "紫",
@@ -52329,7 +52478,7 @@ window.allHeroes =
         ]
     },
     {
-        "name": "艾龙 (Aeron C1)",
+        "name": "艾龙 (Aeron) C1",
         "fancy_name": "假发法官",
         "AetherPower": "特殊护甲",
         "color": "紫",
@@ -52571,7 +52720,7 @@ window.allHeroes =
         ]
     },
     {
-        "name": "阿格拉菲纳 (Agrafena C1)",
+        "name": "阿格拉菲纳 (Agrafena) C1",
         "fancy_name": "至尊黑暗女巫",
         "AetherPower": "特殊护甲",
         "color": "紫",
@@ -52809,7 +52958,7 @@ window.allHeroes =
         ]
     },
     {
-        "name": "阿尔弗莱克 (Alfrike C1)",
+        "name": "阿尔弗莱克 (Alfrike) C1",
         "fancy_name": "瓦特海姆帽匠",
         "AetherPower": "状态异常免疫",
         "color": "紫",
@@ -53174,7 +53323,7 @@ window.allHeroes =
         ]
     },
     {
-        "name": "阿努比斯 (Anubis C1)",
+        "name": "阿努比斯 (Anubis) C1",
         "fancy_name": "舞池仲裁者",
         "AetherPower": "闪避",
         "color": "紫",
@@ -53321,7 +53470,7 @@ window.allHeroes =
         ]
     },
     {
-        "name": "阿拉密斯 (Aramis C1)",
+        "name": "阿拉密斯 (Aramis) C1",
         "fancy_name": "面包师火枪手",
         "AetherPower": "闪避",
         "color": "紫",
@@ -53542,7 +53691,30 @@ window.allHeroes =
             "defense": 1564,
             "health": 2654
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "攻击：范围",
+                    "伤害：持续伤害"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "治疗-自我恢复/提高生命",
+                    "法力-法力恢复（击杀）"
+                ]
+            },
+            {
+                "增益效果": [
+                    "防御-拟态"
+                ]
+            },
+            {
+                "负面效果": [
+                    "伤害-持续伤害：流血"
+                ]
+            }
+        ]
     },
     {
         "name": "阿斯科特尔 (Asketel)",
@@ -53677,7 +53849,7 @@ window.allHeroes =
         ]
     },
     {
-        "name": "巴斯泰托 (Bastet C1)",
+        "name": "巴斯泰托 (Bastet) C1",
         "fancy_name": "森林之眼",
         "AetherPower": "特殊护甲",
         "color": "紫",
@@ -53837,7 +54009,7 @@ window.allHeroes =
         ]
     },
     {
-        "name": "贝琪 (Becky C1)",
+        "name": "贝琪 (Becky) C1",
         "fancy_name": "暮光魔术师",
         "AetherPower": "特殊技能加成",
         "color": "紫",
@@ -54070,7 +54242,7 @@ window.allHeroes =
         ]
     },
     {
-        "name": "贝拉 (Bera C1)",
+        "name": "贝拉 (Bera) C1",
         "fancy_name": "狄希尔魔术师",
         "AetherPower": "坚壁",
         "color": "紫",
@@ -54795,7 +54967,7 @@ window.allHeroes =
         ]
     },
     {
-        "name": "暗黑领主 (Dark Lord C1)",
+        "name": "暗黑领主 (Dark Lord) C1",
         "fancy_name": "卡莱姆多天文学者",
         "AetherPower": "防御提升",
         "color": "紫",
@@ -55310,7 +55482,7 @@ window.allHeroes =
         ]
     },
     {
-        "name": "貂蝉 (Diaochan C1)",
+        "name": "貂蝉 (Diaochan) C1",
         "fancy_name": "出水芙蓉",
         "AetherPower": "防御提升",
         "color": "紫",
@@ -55443,7 +55615,7 @@ window.allHeroes =
         ]
     },
     {
-        "name": "多米西亚 (Domitia C1)",
+        "name": "多米西亚 (Domitia) C1",
         "fancy_name": "蒸汽朋克狙击手",
         "AetherPower": "特殊技能加成",
         "color": "紫",
@@ -55508,7 +55680,7 @@ window.allHeroes =
         ]
     },
     {
-        "name": "多米西亚 (Domitia C2)",
+        "name": "多米西亚 (Domitia) C2",
         "fancy_name": "不死狙击手",
         "AetherPower": "闪避",
         "color": "紫",
@@ -55575,7 +55747,7 @@ window.allHeroes =
         ]
     },
     {
-        "name": "多米西亚 (Domitia 卡通)",
+        "name": "多米西亚 (Domitia) 卡通",
         "fancy_name": "卡通狙击手",
         "AetherPower": "攻击提升",
         "color": "紫",
@@ -55650,7 +55822,7 @@ window.allHeroes =
         ]
     },
     {
-        "name": "多米西亚 (Domitia 玻璃)",
+        "name": "多米西亚 (Domitia) 玻璃",
         "fancy_name": "玻璃狙击手",
         "AetherPower": "攻击提升",
         "color": "紫",
@@ -55788,7 +55960,7 @@ window.allHeroes =
         ]
     },
     {
-        "name": "莫罗博士 (Dr. Moreau C1)",
+        "name": "莫罗博士 (Dr. Moreau) C1",
         "fancy_name": "阴险抄书吏",
         "AetherPower": "特殊技能加成",
         "color": "紫",
@@ -56378,7 +56550,31 @@ window.allHeroes =
             "defense": 1595,
             "health": 2743
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "攻击：单体",
+                    "伤害：持续伤害"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "攻击-摧毁小兵",
+                    "法力-法力恢复（击杀）",
+                    "治疗-自我恢复/提高生命"
+                ]
+            },
+            {
+                "增益效果": [
+                    "防御-拟态"
+                ]
+            },
+            {
+                "负面效果": [
+                    "伤害-持续伤害：毒"
+                ]
+            }
+        ]
     },
     {
         "name": "厄洛斯 (Eros)",
@@ -56508,7 +56704,25 @@ window.allHeroes =
             "defense": 1524,
             "health": 2616
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "攻击：单体"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "攻击-摧毁小兵",
+                    "法力-法力恢复（击杀）",
+                    "治疗-自我恢复/提高生命"
+                ]
+            },
+            {
+                "增益效果": [
+                    "防御-拟态"
+                ]
+            }
+        ]
     },
     {
         "name": "法拉 (Farrah)",
@@ -56644,7 +56858,7 @@ window.allHeroes =
         ]
     },
     {
-        "name": "弗蕾亚 (Freya C1)",
+        "name": "弗蕾亚 (Freya) C1",
         "fancy_name": "堕落女巫",
         "AetherPower": "特殊护甲",
         "color": "紫",
@@ -57193,7 +57407,7 @@ window.allHeroes =
         ]
     },
     {
-        "name": "葛瑞菲斯 (Griffex C1)",
+        "name": "葛瑞菲斯 (Griffex) C1",
         "fancy_name": "幽影改造者",
         "AetherPower": "减伤",
         "color": "紫",
@@ -57404,7 +57618,7 @@ window.allHeroes =
         ]
     },
     {
-        "name": "黑豹守护者 (Guardian Panther C1)",
+        "name": "黑豹守护者 (Guardian Panther) C1",
         "fancy_name": "凶猛黑豹",
         "AetherPower": "特殊护甲",
         "color": "紫",
@@ -57617,7 +57831,7 @@ window.allHeroes =
         ]
     },
     {
-        "name": "汉娜 (Hannah C1)",
+        "name": "汉娜 (Hannah) C1",
         "fancy_name": "爱冒险的赶畜者",
         "AetherPower": "攻击提升",
         "color": "紫",
@@ -57835,7 +58049,7 @@ window.allHeroes =
         ]
     },
     {
-        "name": "赫尔 (Hel C1)",
+        "name": "赫尔 (Hel) C1",
         "fancy_name": "暗黑之兆",
         "AetherPower": "特殊技能加成",
         "color": "紫",
@@ -58060,7 +58274,7 @@ window.allHeroes =
         ]
     },
     {
-        "name": "胡尔达 (Hulda C1)",
+        "name": "胡尔达 (Hulda) C1",
         "fancy_name": "女仆首领",
         "AetherPower": "状态异常免疫",
         "color": "紫",
@@ -58424,7 +58638,7 @@ window.allHeroes =
         ]
     },
     {
-        "name": "炸脖龙 (Jabberwock C1)",
+        "name": "炸脖龙 (Jabberwock) C1",
         "fancy_name": "炸脖蛾",
         "AetherPower": "特殊技能加成",
         "color": "紫",
@@ -58728,7 +58942,7 @@ window.allHeroes =
         ]
     },
     {
-        "name": "影血 (Kageburado C1)",
+        "name": "影血 (Kageburado) C1",
         "fancy_name": "甲虫武士",
         "AetherPower": "反击",
         "color": "紫",
@@ -58861,7 +59075,7 @@ window.allHeroes =
         ]
     },
     {
-        "name": "卡洛夫 (Karnov C1)",
+        "name": "卡洛夫 (Karnov) C1",
         "fancy_name": "昏睡战士",
         "AetherPower": "减伤",
         "color": "紫",
@@ -59063,7 +59277,7 @@ window.allHeroes =
         ]
     },
     {
-        "name": "凯布利 (Khepri C1)",
+        "name": "凯布利 (Khepri) C1",
         "fancy_name": "圣甲虫霸主",
         "AetherPower": "特殊技能加成",
         "color": "紫",
@@ -59199,7 +59413,7 @@ window.allHeroes =
         ]
     },
     {
-        "name": "基奥娜 (Khiona C1)",
+        "name": "基奥娜 (Khiona) C1",
         "fancy_name": "幻影工程师",
         "AetherPower": "特殊护甲",
         "color": "紫",
@@ -59330,7 +59544,7 @@ window.allHeroes =
         ]
     },
     {
-        "name": "孔舒 (Khonshu C1)",
+        "name": "孔舒 (Khonshu) C1",
         "fancy_name": "月光骑士",
         "AetherPower": "反击",
         "color": "紫",
@@ -59458,7 +59672,7 @@ window.allHeroes =
         ]
     },
     {
-        "name": "杀戮野兔 (Killhare C1)",
+        "name": "杀戮野兔 (Killhare) C1",
         "fancy_name": "终极农夫",
         "AetherPower": "防御提升",
         "color": "紫",
@@ -59879,7 +60093,7 @@ window.allHeroes =
         ]
     },
     {
-        "name": "勒皮奥塔 (Lepiota C1)",
+        "name": "勒皮奥塔 (Lepiota) C1",
         "fancy_name": "不死者领袖",
         "AetherPower": "特殊护甲",
         "color": "紫",
@@ -60189,7 +60403,7 @@ window.allHeroes =
         ]
     },
     {
-        "name": "娄希 (Louhi C1)",
+        "name": "娄希 (Louhi) C1",
         "fancy_name": "北境夫人",
         "AetherPower": "怒气",
         "color": "紫",
@@ -60330,7 +60544,7 @@ window.allHeroes =
         ]
     },
     {
-        "name": "吕布 (Lu Bu C1)",
+        "name": "吕布 (Lu Bu) C1",
         "fancy_name": "怒虎战神",
         "AetherPower": "生命恢复",
         "color": "紫",
@@ -60919,7 +61133,7 @@ window.allHeroes =
         ]
     },
     {
-        "name": "玛丽-特瑞莎 (Marie-Therese C1)",
+        "name": "玛丽-特瑞莎 (Marie-Therese) C1",
         "fancy_name": "窃魂女祭司",
         "AetherPower": "治疗提升",
         "color": "紫",
@@ -61218,7 +61432,7 @@ window.allHeroes =
         ]
     },
     {
-        "name": "美狄亚 (Medea C1)",
+        "name": "美狄亚 (Medea) C1",
         "fancy_name": "深渊纳迦女神",
         "AetherPower": "特殊技能加成",
         "color": "紫",
@@ -61444,7 +61658,7 @@ window.allHeroes =
         ]
     },
     {
-        "name": "巨齿鲨 (Mok-Arr C1)",
+        "name": "巨齿鲨 (Mok-Arr) C1",
         "fancy_name": "野蛮剑圣",
         "AetherPower": "反击",
         "color": "紫",
@@ -62090,7 +62304,7 @@ window.allHeroes =
         ]
     },
     {
-        "name": "欧巴坎 (Obakan C1)",
+        "name": "欧巴坎 (Obakan) C1",
         "fancy_name": "禁卫角斗士",
         "AetherPower": "减伤",
         "color": "紫",
@@ -62150,7 +62364,7 @@ window.allHeroes =
         ]
     },
     {
-        "name": "欧巴坎 (Obakan C2)",
+        "name": "欧巴坎 (Obakan) C2",
         "fancy_name": "禁卫吸血鬼",
         "AetherPower": "吸血",
         "color": "紫",
@@ -62214,7 +62428,7 @@ window.allHeroes =
         ]
     },
     {
-        "name": "欧巴坎 (Obakan 卡通)",
+        "name": "欧巴坎 (Obakan) 卡通",
         "fancy_name": "禁卫卡通",
         "AetherPower": "反击",
         "color": "紫",
@@ -62285,7 +62499,7 @@ window.allHeroes =
         ]
     },
     {
-        "name": "欧巴坎 (Obakan 玻璃)",
+        "name": "欧巴坎 (Obakan) 玻璃",
         "fancy_name": "禁卫彩绘",
         "AetherPower": "反击",
         "color": "紫",
@@ -62902,7 +63116,7 @@ window.allHeroes =
         ]
     },
     {
-        "name": "福耳库斯 (Phorcys C1)",
+        "name": "福耳库斯 (Phorcys) C1",
         "fancy_name": "深渊战神",
         "AetherPower": "复活",
         "color": "紫",
@@ -63254,7 +63468,7 @@ window.allHeroes =
         ]
     },
     {
-        "name": "昆塔斯 (Quintus C1)",
+        "name": "昆塔斯 (Quintus) C1",
         "fancy_name": "电子科学家",
         "AetherPower": "特殊技能加成",
         "color": "紫",
@@ -63314,7 +63528,7 @@ window.allHeroes =
         ]
     },
     {
-        "name": "昆塔斯 (Quintus C2)",
+        "name": "昆塔斯 (Quintus) C2",
         "fancy_name": "爱情博士",
         "AetherPower": "状态异常免疫",
         "color": "紫",
@@ -63374,7 +63588,7 @@ window.allHeroes =
         ]
     },
     {
-        "name": "昆塔斯 (Quintus 卡通)",
+        "name": "昆塔斯 (Quintus) 卡通",
         "fancy_name": "卡通科学家",
         "AetherPower": "法力加成",
         "color": "紫",
@@ -63437,7 +63651,7 @@ window.allHeroes =
         ]
     },
     {
-        "name": "昆塔斯 (Quintus 玻璃)",
+        "name": "昆塔斯 (Quintus) 玻璃",
         "fancy_name": "玻璃科学家",
         "AetherPower": "法力加成",
         "color": "紫",
@@ -63761,7 +63975,7 @@ window.allHeroes =
         ]
     },
     {
-        "name": "鲑鱼洛基 (Salmon Loki C1)",
+        "name": "鲑鱼洛基 (Salmon Loki) C1",
         "fancy_name": "正襟之鱼",
         "AetherPower": "状态异常反弹",
         "color": "紫",
@@ -63887,7 +64101,7 @@ window.allHeroes =
         ]
     },
     {
-        "name": "马尾藻 (Sargasso C1)",
+        "name": "马尾藻 (Sargasso) C1",
         "fancy_name": "科雷利亚腐尸船长",
         "AetherPower": "生命恢复",
         "color": "紫",
@@ -64016,7 +64230,7 @@ window.allHeroes =
         ]
     },
     {
-        "name": "萨塔娜 (Sartana C1)",
+        "name": "萨塔娜 (Sartana) C1",
         "fancy_name": "迪森西亚女魔",
         "AetherPower": "怒气",
         "color": "紫",
@@ -64068,7 +64282,7 @@ window.allHeroes =
         ]
     },
     {
-        "name": "萨塔娜 (Sartana C2)",
+        "name": "萨塔娜 (Sartana) C2",
         "fancy_name": "迪森西亚之蛇",
         "AetherPower": "减伤",
         "color": "紫",
@@ -64135,7 +64349,7 @@ window.allHeroes =
         ]
     },
     {
-        "name": "萨塔娜 (Sartana 卡通)",
+        "name": "萨塔娜 (Sartana) 卡通",
         "fancy_name": "卡通刽子手",
         "AetherPower": "闪避",
         "color": "紫",
@@ -64207,7 +64421,7 @@ window.allHeroes =
         ]
     },
     {
-        "name": "萨塔娜 (Sartana 玻璃)",
+        "name": "萨塔娜 (Sartana) 玻璃",
         "fancy_name": "迪森西亚彩绘",
         "AetherPower": "闪避",
         "color": "紫",
@@ -64518,7 +64732,7 @@ window.allHeroes =
         ]
     },
     {
-        "name": "森安 (Senan C1)",
+        "name": "森安 (Senan) C1",
         "fancy_name": "头足体仆从",
         "AetherPower": "减伤",
         "color": "紫",
@@ -64748,7 +64962,7 @@ window.allHeroes =
         ]
     },
     {
-        "name": "赛沙特 (Seshat C1)",
+        "name": "赛沙特 (Seshat) C1",
         "fancy_name": "至高亡魂箭手",
         "AetherPower": "闪避",
         "color": "紫",
@@ -64900,7 +65114,7 @@ window.allHeroes =
         ]
     },
     {
-        "name": "赛特 (Set C1)",
+        "name": "赛特 (Set) C1",
         "fancy_name": "暗黑暴君",
         "AetherPower": "生命恢复加成",
         "color": "紫",
@@ -65334,7 +65548,7 @@ window.allHeroes =
         ]
     },
     {
-        "name": "斯尼夫鲁 (Sneferu C1)",
+        "name": "斯尼夫鲁 (Sneferu) C1",
         "fancy_name": "月之征服者",
         "AetherPower": "防御提升",
         "color": "紫",
@@ -65853,7 +66067,7 @@ window.allHeroes =
         ]
     },
     {
-        "name": "图特阿蒙 (Thoth-Amun C1)",
+        "name": "图特阿蒙 (Thoth-Amun) C1",
         "fancy_name": "宇宙魔术师",
         "AetherPower": "坚壁",
         "color": "紫",
@@ -66300,7 +66514,7 @@ window.allHeroes =
         ]
     },
     {
-        "name": "奥绰刻斯 (Ultrox C1)",
+        "name": "奥绰刻斯 (Ultrox) C1",
         "fancy_name": "深渊虹吸者",
         "AetherPower": "攻击提升",
         "color": "紫",
@@ -66603,7 +66817,7 @@ window.allHeroes =
         ]
     },
     {
-        "name": "尤塞娜 (Ursena C1)",
+        "name": "尤塞娜 (Ursena) C1",
         "fancy_name": "夺命暗礁女王",
         "AetherPower": "怒气",
         "color": "紫",
@@ -67045,7 +67259,7 @@ window.allHeroes =
         ]
     },
     {
-        "name": "维克托 (Victor C1)",
+        "name": "维克托 (Victor) C1",
         "fancy_name": "罪恶之王",
         "AetherPower": "攻击提升",
         "color": "紫",
@@ -67712,7 +67926,7 @@ window.allHeroes =
         ]
     },
     {
-        "name": "泽诺福德 (Xnolphod C1)",
+        "name": "泽诺福德 (Xnolphod) C1",
         "fancy_name": "八足狱卒",
         "AetherPower": "防御提升",
         "color": "紫",
@@ -68266,7 +68480,7 @@ window.allHeroes =
         ]
     },
     {
-        "name": "阿萨尔 (Azar C1)",
+        "name": "阿萨尔 (Azar) C1",
         "fancy_name": "众神探索者",
         "AetherPower": "闪避",
         "color": "红",
@@ -68326,7 +68540,7 @@ window.allHeroes =
         ]
     },
     {
-        "name": "阿萨尔 (Azar 卡通)",
+        "name": "阿萨尔 (Azar) 卡通",
         "fancy_name": "卡通探索者",
         "AetherPower": "怒气",
         "color": "红",
@@ -68393,7 +68607,7 @@ window.allHeroes =
         ]
     },
     {
-        "name": "阿萨尔 (Azar 玻璃)",
+        "name": "阿萨尔 (Azar) 玻璃",
         "fancy_name": "玻璃探索者",
         "AetherPower": "怒气",
         "color": "红",
@@ -68531,7 +68745,7 @@ window.allHeroes =
         ]
     },
     {
-        "name": "巴格雷格 (Bagreg C1)",
+        "name": "巴格雷格 (Bagreg) C1",
         "fancy_name": "鱼仔斥候",
         "AetherPower": "减伤",
         "color": "红",
@@ -69019,7 +69233,7 @@ window.allHeroes =
         ]
     },
     {
-        "name": "艾邓恩 (Ei-Dunn C1)",
+        "name": "艾邓恩 (Ei-Dunn) C1",
         "fancy_name": "残忍维京战士",
         "AetherPower": "怒气",
         "color": "红",
@@ -69195,7 +69409,7 @@ window.allHeroes =
         ]
     },
     {
-        "name": "鹰月 (Hawkmoon C1)",
+        "name": "鹰月 (Hawkmoon) C1",
         "fancy_name": "星位修缮者",
         "AetherPower": "特殊护甲",
         "color": "红",
@@ -69255,7 +69469,7 @@ window.allHeroes =
         ]
     },
     {
-        "name": "鹰月 (Hawkmoon 卡通)",
+        "name": "鹰月 (Hawkmoon) 卡通",
         "fancy_name": "星位卡通",
         "AetherPower": "防御提升",
         "color": "红",
@@ -69319,7 +69533,7 @@ window.allHeroes =
         ]
     },
     {
-        "name": "鹰月 (Hawkmoon 玻璃)",
+        "name": "鹰月 (Hawkmoon) 玻璃",
         "fancy_name": "进阶彩绘",
         "AetherPower": "防御提升",
         "color": "红",
@@ -69455,7 +69669,7 @@ window.allHeroes =
         ]
     },
     {
-        "name": "赫尔吉 (Helgi C1)",
+        "name": "赫尔吉 (Helgi) C1",
         "fancy_name": "矮人补给者",
         "AetherPower": "特殊技能加成",
         "color": "红",
@@ -69588,7 +69802,7 @@ window.allHeroes =
         ]
     },
     {
-        "name": "贾汉吉 (Jahangir C1)",
+        "name": "贾汉吉 (Jahangir) C1",
         "fancy_name": "来自沙海的巫师",
         "AetherPower": "生命恢复",
         "color": "红",
@@ -69649,7 +69863,7 @@ window.allHeroes =
         ]
     },
     {
-        "name": "贾汉吉 (Jahangir 卡通)",
+        "name": "贾汉吉 (Jahangir) 卡通",
         "fancy_name": "卡通之海法师",
         "AetherPower": "防御提升",
         "color": "红",
@@ -69721,7 +69935,7 @@ window.allHeroes =
         ]
     },
     {
-        "name": "贾汉吉 (Jahangir 玻璃)",
+        "name": "贾汉吉 (Jahangir) 玻璃",
         "fancy_name": "玻璃之海游牧民",
         "AetherPower": "防御提升",
         "color": "红",
@@ -69773,7 +69987,24 @@ window.allHeroes =
             "defense": 689,
             "health": 1167
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "攻击：全体",
+                    "伤害：持续伤害"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "攻击-穿透/绕过"
+                ]
+            },
+            {
+                "负面效果": [
+                    "伤害-持续伤害：燃烧"
+                ]
+            }
+        ]
     },
     {
         "name": "科内尔 (Kornel)",
@@ -70103,7 +70334,7 @@ window.allHeroes =
         ]
     },
     {
-        "name": "纳什加 (Nashgar C1)",
+        "name": "纳什加 (Nashgar) C1",
         "fancy_name": "殿后者",
         "AetherPower": "特殊技能加成",
         "color": "红",
@@ -70164,7 +70395,7 @@ window.allHeroes =
         ]
     },
     {
-        "name": "纳什加 (Nashgar 卡通)",
+        "name": "纳什加 (Nashgar) 卡通",
         "fancy_name": "领头卡通",
         "AetherPower": "攻击提升",
         "color": "红",
@@ -70236,7 +70467,7 @@ window.allHeroes =
         ]
     },
     {
-        "name": "纳什加 (Nashgar 玻璃)",
+        "name": "纳什加 (Nashgar) 玻璃",
         "fancy_name": "最后碎裂",
         "AetherPower": "攻击提升",
         "color": "红",
@@ -70570,7 +70801,7 @@ window.allHeroes =
         ]
     },
     {
-        "name": "鲁道夫 (Rudolph C1)",
+        "name": "鲁道夫 (Rudolph) C1",
         "fancy_name": "圣诞老人的骑士坐骑",
         "AetherPower": "防御提升",
         "color": "红",
@@ -71020,7 +71251,7 @@ window.allHeroes =
         ]
     },
     {
-        "name": "沃勒莫克 (Vollermork C1)",
+        "name": "沃勒莫克 (Vollermork) C1",
         "fancy_name": "莫洛克调酒师",
         "AetherPower": "生命恢复",
         "color": "红",
@@ -71143,7 +71374,7 @@ window.allHeroes =
         ]
     },
     {
-        "name": "瓦卡斯 (Waqas C1)",
+        "name": "瓦卡斯 (Waqas) C1",
         "fancy_name": "法老之刃",
         "AetherPower": "怒气",
         "color": "红",
@@ -71351,7 +71582,7 @@ window.allHeroes =
         ]
     },
     {
-        "name": "猛牙 (Boldtusk C1)",
+        "name": "猛牙 (Boldtusk) C1",
         "fancy_name": "铸铁大厨",
         "AetherPower": "反击",
         "color": "红",
@@ -71411,7 +71642,7 @@ window.allHeroes =
         ]
     },
     {
-        "name": "猛牙 (Boldtusk C2)",
+        "name": "猛牙 (Boldtusk) C2",
         "fancy_name": "野生智者",
         "AetherPower": "特殊护甲",
         "color": "红",
@@ -71473,7 +71704,7 @@ window.allHeroes =
         ]
     },
     {
-        "name": "猛牙 (Boldtusk 卡通)",
+        "name": "猛牙 (Boldtusk) 卡通",
         "fancy_name": "不屈勇者卡通",
         "AetherPower": "防御提升",
         "color": "红",
@@ -71537,7 +71768,7 @@ window.allHeroes =
         ]
     },
     {
-        "name": "猛牙 (Boldtusk 玻璃)",
+        "name": "猛牙 (Boldtusk) 玻璃",
         "fancy_name": "反射战士",
         "AetherPower": "治疗提升",
         "color": "红",
@@ -71797,7 +72028,7 @@ window.allHeroes =
         ]
     },
     {
-        "name": "科伦 (Colen C1)",
+        "name": "科伦 (Colen) C1",
         "fancy_name": "火焰赏金猎手",
         "AetherPower": "特殊技能加成",
         "color": "红",
@@ -71858,7 +72089,7 @@ window.allHeroes =
         ]
     },
     {
-        "name": "科伦 (Colen C2)",
+        "name": "科伦 (Colen) C2",
         "fancy_name": "英勇追踪者",
         "AetherPower": "反击",
         "color": "红",
@@ -71925,7 +72156,7 @@ window.allHeroes =
         ]
     },
     {
-        "name": "科伦 (Colen 卡通)",
+        "name": "科伦 (Colen) 卡通",
         "fancy_name": "卡通赏金猎手",
         "AetherPower": "攻击提升",
         "color": "红",
@@ -71997,7 +72228,7 @@ window.allHeroes =
         ]
     },
     {
-        "name": "科伦 (Colen 玻璃)",
+        "name": "科伦 (Colen) 玻璃",
         "fancy_name": "玻璃赏金猎手",
         "AetherPower": "攻击提升",
         "color": "红",
@@ -72187,7 +72418,7 @@ window.allHeroes =
         ]
     },
     {
-        "name": "费朗特 (Ferant C1)",
+        "name": "费朗特 (Ferant) C1",
         "fancy_name": "狼族典狱长",
         "AetherPower": "减伤",
         "color": "红",
@@ -72311,7 +72542,7 @@ window.allHeroes =
         ]
     },
     {
-        "name": "戈莫克 (Gormek C1)",
+        "name": "戈莫克 (Gormek) C1",
         "fancy_name": "贪婪者",
         "AetherPower": "特殊技能加成",
         "color": "红",
@@ -72374,7 +72605,7 @@ window.allHeroes =
         ]
     },
     {
-        "name": "戈莫克 (Gormek C2)",
+        "name": "戈莫克 (Gormek) C2",
         "fancy_name": "美食家",
         "AetherPower": "反击",
         "color": "红",
@@ -72434,7 +72665,7 @@ window.allHeroes =
         ]
     },
     {
-        "name": "戈莫克 (Gormek 卡通)",
+        "name": "戈莫克 (Gormek) 卡通",
         "fancy_name": "饥饿战士卡通",
         "AetherPower": "怒气",
         "color": "红",
@@ -72506,7 +72737,7 @@ window.allHeroes =
         ]
     },
     {
-        "name": "戈莫克 (Gormek 玻璃)",
+        "name": "戈莫克 (Gormek) 玻璃",
         "fancy_name": "饥饿彩绘",
         "AetherPower": "怒气",
         "color": "红",
@@ -72770,7 +73001,7 @@ window.allHeroes =
         ]
     },
     {
-        "name": "约纳德 (Junaid C1)",
+        "name": "约纳德 (Junaid) C1",
         "fancy_name": "守誓勇士",
         "AetherPower": "攻击提升",
         "color": "红",
@@ -72897,7 +73128,7 @@ window.allHeroes =
         ]
     },
     {
-        "name": "卡莉莱 (Kelile C1)",
+        "name": "卡莉莱 (Kelile) C1",
         "fancy_name": "龙族萨满",
         "AetherPower": "怒气",
         "color": "红",
@@ -72955,7 +73186,7 @@ window.allHeroes =
         ]
     },
     {
-        "name": "卡莉莱 (Kelile C2)",
+        "name": "卡莉莱 (Kelile) C2",
         "fancy_name": "龙族女巫",
         "AetherPower": "特殊技能加成",
         "color": "红",
@@ -73022,7 +73253,7 @@ window.allHeroes =
         ]
     },
     {
-        "name": "卡莉莱 (Kelile 卡通)",
+        "name": "卡莉莱 (Kelile) 卡通",
         "fancy_name": "龙族卡通",
         "AetherPower": "攻击提升",
         "color": "红",
@@ -73094,7 +73325,7 @@ window.allHeroes =
         ]
     },
     {
-        "name": "卡莉莱 (Kelile 玻璃)",
+        "name": "卡莉莱 (Kelile) 玻璃",
         "fancy_name": "龙族彩绘",
         "AetherPower": "攻击提升",
         "color": "红",
@@ -73231,7 +73462,7 @@ window.allHeroes =
         ]
     },
     {
-        "name": "勒明盖宁 (Lemminkainen C1)",
+        "name": "勒明盖宁 (Lemminkainen) C1",
         "fancy_name": "凋零勇士",
         "AetherPower": "攻击提升",
         "color": "红",
@@ -73436,7 +73667,7 @@ window.allHeroes =
         ]
     },
     {
-        "name": "马克 (Mack C1)",
+        "name": "马克 (Mack) C1",
         "fancy_name": "半身人小说家",
         "AetherPower": "减伤",
         "color": "红",
@@ -73937,7 +74168,7 @@ window.allHeroes =
         ]
     },
     {
-        "name": "洛卡莫什 (Rokkamush C1)",
+        "name": "洛卡莫什 (Rokkamush) C1",
         "fancy_name": "双头巨人石匠",
         "AetherPower": "攻击提升",
         "color": "红",
@@ -74062,7 +74293,7 @@ window.allHeroes =
         ]
     },
     {
-        "name": "斯嘉丽 (Scarlett C1)",
+        "name": "斯嘉丽 (Scarlett) C1",
         "fancy_name": "沙海刺客",
         "AetherPower": "闪避",
         "color": "红",
@@ -74131,7 +74362,7 @@ window.allHeroes =
         ]
     },
     {
-        "name": "斯嘉丽 (Scarlett C2)",
+        "name": "斯嘉丽 (Scarlett) C2",
         "fancy_name": "沙海舞者",
         "AetherPower": "特殊技能加成",
         "color": "红",
@@ -74192,7 +74423,7 @@ window.allHeroes =
         ]
     },
     {
-        "name": "斯嘉丽 (Scarlett 卡通)",
+        "name": "斯嘉丽 (Scarlett) 卡通",
         "fancy_name": "卡通之海突袭者",
         "AetherPower": "攻击提升",
         "color": "红",
@@ -74263,7 +74494,7 @@ window.allHeroes =
         ]
     },
     {
-        "name": "斯嘉丽 (Scarlett 玻璃)",
+        "name": "斯嘉丽 (Scarlett) 玻璃",
         "fancy_name": "玻璃之海突袭者",
         "AetherPower": "攻击提升",
         "color": "红",
@@ -74593,7 +74824,7 @@ window.allHeroes =
         ]
     },
     {
-        "name": "住友 (Sumitomo C1)",
+        "name": "住友 (Sumitomo) C1",
         "fancy_name": "狡诈游牧民",
         "AetherPower": "特殊技能加成",
         "color": "红",
@@ -74716,7 +74947,7 @@ window.allHeroes =
         ]
     },
     {
-        "name": "萨姆勒 (Sumle C1)",
+        "name": "萨姆勒 (Sumle) C1",
         "fancy_name": "邪恶烈火巨人",
         "AetherPower": "状态异常免疫",
         "color": "红",
@@ -74974,7 +75205,7 @@ window.allHeroes =
         ]
     },
     {
-        "name": "威尔伯 (Wilbur C1)",
+        "name": "威尔伯 (Wilbur) C1",
         "fancy_name": "无畏酒仙",
         "AetherPower": "防御提升",
         "color": "红",
@@ -75166,7 +75397,7 @@ window.allHeroes =
         ]
     },
     {
-        "name": "周瑜 (Zhou Yu C1)",
+        "name": "周瑜 (Zhou Yu) C1",
         "fancy_name": "渡鸦帅才",
         "AetherPower": "特殊技能加成",
         "color": "红",
@@ -75461,7 +75692,26 @@ window.allHeroes =
             "defense": 1643,
             "health": 2786
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "攻击：单体",
+                    "治疗：伤害量",
+                    "治疗：提高生命"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "法力-法力恢复（击杀）",
+                    "治疗-自我恢复/提高生命"
+                ]
+            },
+            {
+                "增益效果": [
+                    "防御-拟态"
+                ]
+            }
+        ]
     },
     {
         "name": "埃斯莱高 (Aethslegaur)",
@@ -75621,7 +75871,7 @@ window.allHeroes =
         ]
     },
     {
-        "name": "阿鲁卡多 (Alucard C1)",
+        "name": "阿鲁卡多 (Alucard) C1",
         "fancy_name": "吸血鬼头目",
         "AetherPower": "复活",
         "color": "红",
@@ -76104,7 +76354,7 @@ window.allHeroes =
         ]
     },
     {
-        "name": "阿瑞斯 (Ares C1)",
+        "name": "阿瑞斯 (Ares) C1",
         "fancy_name": "战争钥匙主",
         "AetherPower": "治疗提升",
         "color": "红",
@@ -76247,7 +76497,30 @@ window.allHeroes =
             "defense": 1564,
             "health": 2654
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "攻击：范围",
+                    "伤害：持续伤害"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "治疗-自我恢复/提高生命",
+                    "法力-法力恢复（击杀）"
+                ]
+            },
+            {
+                "增益效果": [
+                    "防御-拟态"
+                ]
+            },
+            {
+                "负面效果": [
+                    "伤害-持续伤害：流血"
+                ]
+            }
+        ]
     },
     {
         "name": "余烬 (Ash)",
@@ -76539,7 +76812,7 @@ window.allHeroes =
         ]
     },
     {
-        "name": "阿基拉 (Azlar C1)",
+        "name": "阿基拉 (Azlar) C1",
         "fancy_name": "里奥尔之王",
         "AetherPower": "坚壁",
         "color": "红",
@@ -76607,7 +76880,7 @@ window.allHeroes =
         ]
     },
     {
-        "name": "阿基拉 (Azlar C2)",
+        "name": "阿基拉 (Azlar) C2",
         "fancy_name": "里奥尔奶爸",
         "AetherPower": "生命恢复加成",
         "color": "红",
@@ -76674,7 +76947,7 @@ window.allHeroes =
         ]
     },
     {
-        "name": "阿基拉 (Azlar 卡通)",
+        "name": "阿基拉 (Azlar) 卡通",
         "fancy_name": "卡通里奥尔",
         "AetherPower": "怒气",
         "color": "红",
@@ -76746,7 +77019,7 @@ window.allHeroes =
         ]
     },
     {
-        "name": "阿基拉 (Azlar 玻璃)",
+        "name": "阿基拉 (Azlar) 玻璃",
         "fancy_name": "玻璃里奥尔",
         "AetherPower": "怒气",
         "color": "红",
@@ -76880,7 +77153,7 @@ window.allHeroes =
         ]
     },
     {
-        "name": "巴德尔 (Baldur C1)",
+        "name": "巴德尔 (Baldur) C1",
         "fancy_name": "火神",
         "AetherPower": "生命恢复加成",
         "color": "红",
@@ -77464,7 +77737,7 @@ window.allHeroes =
         ]
     },
     {
-        "name": "黑骑士 (Black Knight C1)",
+        "name": "黑骑士 (Black Knight) C1",
         "fancy_name": "消极骑士",
         "AetherPower": "嘲讽",
         "color": "红",
@@ -77870,7 +78143,7 @@ window.allHeroes =
         ]
     },
     {
-        "name": "尼莫船长 (Captain Nemo C1)",
+        "name": "尼莫船长 (Captain Nemo) C1",
         "fancy_name": "神秘机械师",
         "AetherPower": "特殊技能加成",
         "color": "红",
@@ -79102,7 +79375,7 @@ window.allHeroes =
         ]
     },
     {
-        "name": "多米万图斯 (Domiventus C1)",
+        "name": "多米万图斯 (Domiventus) C1",
         "fancy_name": "至高超深渊生物",
         "AetherPower": "特殊技能加成",
         "color": "红",
@@ -79254,7 +79527,7 @@ window.allHeroes =
         ]
     },
     {
-        "name": "多客森 (Doxan C1)",
+        "name": "多客森 (Doxan) C1",
         "fancy_name": "流亡等离子黑客",
         "AetherPower": "特殊技能加成",
         "color": "红",
@@ -79687,7 +79960,7 @@ window.allHeroes =
         ]
     },
     {
-        "name": "艾琳娜 (Elena C1)",
+        "name": "艾琳娜 (Elena) C1",
         "fancy_name": "烈火上尉",
         "AetherPower": "减伤",
         "color": "红",
@@ -79747,7 +80020,7 @@ window.allHeroes =
         ]
     },
     {
-        "name": "艾琳娜 (Elena C2)",
+        "name": "艾琳娜 (Elena) C2",
         "fancy_name": "邪恶上尉",
         "AetherPower": "状态异常免疫",
         "color": "红",
@@ -79807,7 +80080,7 @@ window.allHeroes =
         ]
     },
     {
-        "name": "艾琳娜 (Elena 卡通)",
+        "name": "艾琳娜 (Elena) 卡通",
         "fancy_name": "皇家队长卡通",
         "AetherPower": "生命恢复",
         "color": "红",
@@ -79878,7 +80151,7 @@ window.allHeroes =
         ]
     },
     {
-        "name": "艾琳娜 (Elena 玻璃)",
+        "name": "艾琳娜 (Elena) 玻璃",
         "fancy_name": "玻璃卫队队长",
         "AetherPower": "生命恢复",
         "color": "红",
@@ -80099,7 +80372,7 @@ window.allHeroes =
         ]
     },
     {
-        "name": "伊丽莎白 (Elizabeth C1)",
+        "name": "伊丽莎白 (Elizabeth) C1",
         "fancy_name": "新婚贵族",
         "AetherPower": "反击",
         "color": "红",
@@ -80390,7 +80663,31 @@ window.allHeroes =
             "defense": 1595,
             "health": 2743
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "攻击：单体",
+                    "伤害：持续伤害"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "攻击-摧毁小兵",
+                    "法力-法力恢复（击杀）",
+                    "治疗-自我恢复/提高生命"
+                ]
+            },
+            {
+                "增益效果": [
+                    "防御-拟态"
+                ]
+            },
+            {
+                "负面效果": [
+                    "伤害-持续伤害：毒"
+                ]
+            }
+        ]
     },
     {
         "name": "埃米利奥 (Emilio)",
@@ -80472,7 +80769,7 @@ window.allHeroes =
         ]
     },
     {
-        "name": "埃米利奥 (Emilio C1)",
+        "name": "埃米利奥 (Emilio) C1",
         "fancy_name": "伟大的驯蛙师",
         "AetherPower": "攻击提升",
         "color": "红",
@@ -80773,7 +81070,25 @@ window.allHeroes =
             "defense": 1524,
             "health": 2616
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "攻击：单体"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "攻击-摧毁小兵",
+                    "法力-法力恢复（击杀）",
+                    "治疗-自我恢复/提高生命"
+                ]
+            },
+            {
+                "增益效果": [
+                    "防御-拟态"
+                ]
+            }
+        ]
     },
     {
         "name": "费玛芬格 (Fimafeng)",
@@ -81011,7 +81326,7 @@ window.allHeroes =
         ]
     },
     {
-        "name": "飞力普 (Flip C1)",
+        "name": "飞力普 (Flip) C1",
         "fancy_name": "海豹甜甜圈小贩",
         "AetherPower": "减伤",
         "color": "红",
@@ -81357,7 +81672,7 @@ window.allHeroes =
         ]
     },
     {
-        "name": "格费因 (Gefjon C1)",
+        "name": "格费因 (Gefjon) C1",
         "fancy_name": "荒野女神",
         "AetherPower": "特殊护甲",
         "color": "红",
@@ -81500,7 +81815,7 @@ window.allHeroes =
         ]
     },
     {
-        "name": "格式塔 (Gestalt C1)",
+        "name": "格式塔 (Gestalt) C1",
         "fancy_name": "永恒明珠王子",
         "AetherPower": "攻击提升",
         "color": "红",
@@ -81734,7 +82049,7 @@ window.allHeroes =
         ]
     },
     {
-        "name": "造墓人 (Gravemaker C1)",
+        "name": "造墓人 (Gravemaker) C1",
         "fancy_name": "烈焰复仇者",
         "AetherPower": "反击",
         "color": "红",
@@ -81940,7 +82255,7 @@ window.allHeroes =
         ]
     },
     {
-        "name": "金刚守护者 (Guardian Kong C1)",
+        "name": "金刚守护者 (Guardian Kong) C1",
         "fancy_name": "金刚征服者",
         "AetherPower": "生命恢复",
         "color": "红",
@@ -82218,7 +82533,7 @@ window.allHeroes =
         ]
     },
     {
-        "name": "哈索尔 (Hathor C1)",
+        "name": "哈索尔 (Hathor) C1",
         "fancy_name": "星光之母",
         "AetherPower": "防御提升",
         "color": "红",
@@ -82675,7 +82990,7 @@ window.allHeroes =
         ]
     },
     {
-        "name": "伊格纳奇奥 (Ignazio C1)",
+        "name": "伊格纳奇奥 (Ignazio) C1",
         "fancy_name": "烈焰外科医生",
         "AetherPower": "特殊护甲",
         "color": "红",
@@ -82826,7 +83141,7 @@ window.allHeroes =
         ]
     },
     {
-        "name": "伊尔玛利宁 (Ilmarinen C1)",
+        "name": "伊尔玛利宁 (Ilmarinen) C1",
         "fancy_name": "工匠大师",
         "AetherPower": "生命恢复",
         "color": "红",
@@ -83240,7 +83555,7 @@ window.allHeroes =
         ]
     },
     {
-        "name": "可汗 (Khagan C1)",
+        "name": "可汗 (Khagan) C1",
         "fancy_name": "部落复仇者",
         "AetherPower": "法力加成",
         "color": "红",
@@ -83304,7 +83619,7 @@ window.allHeroes =
         ]
     },
     {
-        "name": "可汗 (Khagan C2)",
+        "name": "可汗 (Khagan) C2",
         "fancy_name": "猎豹酋长",
         "AetherPower": "反击",
         "color": "红",
@@ -83368,7 +83683,7 @@ window.allHeroes =
         ]
     },
     {
-        "name": "可汗 (Khagan 卡通)",
+        "name": "可汗 (Khagan) 卡通",
         "fancy_name": "卡通酋长",
         "AetherPower": "特殊护甲",
         "color": "红",
@@ -83443,7 +83758,7 @@ window.allHeroes =
         ]
     },
     {
-        "name": "可汗 (Khagan 玻璃)",
+        "name": "可汗 (Khagan) 玻璃",
         "fancy_name": "首席彩绘师",
         "AetherPower": "特殊护甲",
         "color": "红",
@@ -83588,7 +83903,7 @@ window.allHeroes =
         ]
     },
     {
-        "name": "胡夫 (Khufu C1)",
+        "name": "胡夫 (Khufu) C1",
         "fancy_name": "水生斯芬克斯",
         "AetherPower": "防御提升",
         "color": "红",
@@ -83726,7 +84041,7 @@ window.allHeroes =
         ]
     },
     {
-        "name": "克拉夫克鲁什 (Kravekrush C1)",
+        "name": "克拉夫克鲁什 (Kravekrush) C1",
         "fancy_name": "双头巨人烧烤大师",
         "AetherPower": "攻击提升",
         "color": "红",
@@ -83856,7 +84171,7 @@ window.allHeroes =
         ]
     },
     {
-        "name": "洛基夫人 (Lady Loki C1)",
+        "name": "洛基夫人 (Lady Loki) C1",
         "fancy_name": "戏法师之母",
         "AetherPower": "减伤",
         "color": "红",
@@ -83995,7 +84310,7 @@ window.allHeroes =
         ]
     },
     {
-        "name": "拉萨尔 (Lasalle C1)",
+        "name": "拉萨尔 (Lasalle) C1",
         "fancy_name": "浮夸的亚特兰蒂斯骑师",
         "AetherPower": "减伤",
         "color": "红",
@@ -84663,7 +84978,7 @@ window.allHeroes =
         ]
     },
     {
-        "name": "马里亚娜 (Marjana C1)",
+        "name": "马里亚娜 (Marjana) C1",
         "fancy_name": "温德米尔噩梦",
         "AetherPower": "特殊技能加成",
         "color": "红",
@@ -84727,7 +85042,7 @@ window.allHeroes =
         ]
     },
     {
-        "name": "马里亚娜 (Marjana C2)",
+        "name": "马里亚娜 (Marjana) C2",
         "fancy_name": "温德米尔大盗",
         "AetherPower": "闪避",
         "color": "红",
@@ -84792,7 +85107,7 @@ window.allHeroes =
         ]
     },
     {
-        "name": "马里亚娜 (Marjana 卡通)",
+        "name": "马里亚娜 (Marjana) 卡通",
         "fancy_name": "温德米尔卡通",
         "AetherPower": "攻击提升",
         "color": "红",
@@ -84864,7 +85179,7 @@ window.allHeroes =
         ]
     },
     {
-        "name": "马里亚娜 (Marjana 玻璃)",
+        "name": "马里亚娜 (Marjana) 玻璃",
         "fancy_name": "温德米尔彩绘",
         "AetherPower": "攻击提升",
         "color": "红",
@@ -85005,7 +85320,7 @@ window.allHeroes =
         ]
     },
     {
-        "name": "光子 (Mitsuko C1)",
+        "name": "光子 (Mitsuko) C1",
         "fancy_name": "炽焰美人",
         "AetherPower": "攻击提升",
         "color": "红",
@@ -85159,7 +85474,7 @@ window.allHeroes =
         ]
     },
     {
-        "name": "纳德兹达 (Nadezhda C1)",
+        "name": "纳德兹达 (Nadezhda) C1",
         "fancy_name": "高塔信使长",
         "AetherPower": "特殊护甲",
         "color": "红",
@@ -85411,7 +85726,7 @@ window.allHeroes =
         ]
     },
     {
-        "name": "娜塔莉亚 (Natalya C1)",
+        "name": "娜塔莉亚 (Natalya) C1",
         "fancy_name": "火女裁缝",
         "AetherPower": "攻击提升",
         "color": "红",
@@ -85986,7 +86301,7 @@ window.allHeroes =
         ]
     },
     {
-        "name": "俄刻阿诺斯 (Oceanus C1)",
+        "name": "俄刻阿诺斯 (Oceanus) C1",
         "fancy_name": "熔岩泰坦",
         "AetherPower": "怒气",
         "color": "红",
@@ -86120,7 +86435,7 @@ window.allHeroes =
         ]
     },
     {
-        "name": "奥克特斯 (Octros C1)",
+        "name": "奥克特斯 (Octros) C1",
         "fancy_name": "软体动物追求者",
         "AetherPower": "攻击提升",
         "color": "红",
@@ -86710,7 +87025,7 @@ window.allHeroes =
         ]
     },
     {
-        "name": "穿靴子的猫 (Puss in Boots C1)",
+        "name": "穿靴子的猫 (Puss in Boots) C1",
         "fancy_name": "蒙面猫匪",
         "AetherPower": "特殊护甲",
         "color": "红",
@@ -86850,7 +87165,7 @@ window.allHeroes =
         ]
     },
     {
-        "name": "红桃王后 (Queen of Hearts C1)",
+        "name": "红桃王后 (Queen of Hearts) C1",
         "fancy_name": "仙境行善者",
         "AetherPower": "生命恢复加成",
         "color": "红",
@@ -87174,7 +87489,7 @@ window.allHeroes =
         ]
     },
     {
-        "name": "雷 (Ray C1)",
+        "name": "雷 (Ray) C1",
         "fancy_name": "荆棘斗士",
         "AetherPower": "闪避",
         "color": "红",
@@ -87433,7 +87748,7 @@ window.allHeroes =
         ]
     },
     {
-        "name": "雷金 (Regin C1)",
+        "name": "雷金 (Regin) C1",
         "fancy_name": "矮人堕落王子",
         "AetherPower": "状态异常免疫",
         "color": "红",
@@ -87878,7 +88193,6 @@ window.allHeroes =
             },
             {
                 "增益效果": [
-                    "攻击-成长：攻击力↑",
                     "防御-防御↑：特殊技能"
                 ]
             },
@@ -88513,7 +88827,7 @@ window.allHeroes =
         ]
     },
     {
-        "name": "圣诞老人 (Santa Claus C1)",
+        "name": "圣诞老人 (Santa Claus) C1",
         "fancy_name": "硬石圣诞老人",
         "AetherPower": "生命恢复",
         "color": "红",
@@ -88666,7 +88980,7 @@ window.allHeroes =
         ]
     },
     {
-        "name": "西尔莎 (Saoirse C1)",
+        "name": "西尔莎 (Saoirse) C1",
         "fancy_name": "征服者",
         "AetherPower": "防御提升",
         "color": "红",
@@ -88966,7 +89280,7 @@ window.allHeroes =
         ]
     },
     {
-        "name": "塞赫美特 (Sekhmet C1)",
+        "name": "塞赫美特 (Sekhmet) C1",
         "fancy_name": "太阳看守人",
         "AetherPower": "特殊技能加成",
         "color": "红",
@@ -89331,7 +89645,7 @@ window.allHeroes =
         ]
     },
     {
-        "name": "孙权 (Sun Quan C1)",
+        "name": "孙权 (Sun Quan) C1",
         "fancy_name": "天命君主",
         "AetherPower": "攻击提升",
         "color": "红",
@@ -89556,7 +89870,7 @@ window.allHeroes =
         ]
     },
     {
-        "name": "特里谢里 (Tetisheri C1)",
+        "name": "特里谢里 (Tetisheri) C1",
         "fancy_name": "熔岩皇后",
         "AetherPower": "怒气",
         "color": "红",
@@ -89843,7 +90157,7 @@ window.allHeroes =
         ]
     },
     {
-        "name": "泰尔 (Tyr C1)",
+        "name": "泰尔 (Tyr) C1",
         "fancy_name": "野蛮正义",
         "AetherPower": "闪避",
         "color": "红",
@@ -89997,7 +90311,7 @@ window.allHeroes =
         ]
     },
     {
-        "name": "乌戈宁 (Ukkonen C1)",
+        "name": "乌戈宁 (Ukkonen) C1",
         "fancy_name": "万奈摩宁的地狱亲属",
         "AetherPower": "怒气",
         "color": "红",
@@ -90145,7 +90459,7 @@ window.allHeroes =
         ]
     },
     {
-        "name": "凡达 (Vanda C1)",
+        "name": "凡达 (Vanda) C1",
         "fancy_name": "罪恶女王",
         "AetherPower": "减伤",
         "color": "红",
@@ -90449,7 +90763,7 @@ window.allHeroes =
         ]
     },
     {
-        "name": "仙妲 (Xenda C1)",
+        "name": "仙妲 (Xenda) C1",
         "fancy_name": "火焰嗣女",
         "AetherPower": "反击",
         "color": "红",
@@ -91092,7 +91406,7 @@ window.allHeroes =
         ]
     },
     {
-        "name": "季诺碧亚 (Zenobia C1)",
+        "name": "季诺碧亚 (Zenobia) C1",
         "fancy_name": "夹竹桃皇后",
         "AetherPower": "反击",
         "color": "红",
@@ -91388,7 +91702,7 @@ window.allHeroes =
         ]
     },
     {
-        "name": "西姆吉塔 (Zimkitha C1)",
+        "name": "西姆吉塔 (Zimkitha) C1",
         "fancy_name": "失踪已久的冒险家",
         "AetherPower": "特殊技能加成",
         "color": "红",
@@ -91814,7 +92128,7 @@ window.allHeroes =
         ]
     },
     {
-        "name": "贝恩 (Bane C1)",
+        "name": "贝恩 (Bane) C1",
         "fancy_name": "贵族斗士",
         "AetherPower": "特殊技能加成",
         "color": "黄",
@@ -91874,7 +92188,7 @@ window.allHeroes =
         ]
     },
     {
-        "name": "贝恩 (Bane 卡通)",
+        "name": "贝恩 (Bane) 卡通",
         "fancy_name": "卡通斗士",
         "AetherPower": "攻击提升",
         "color": "黄",
@@ -91945,7 +92259,7 @@ window.allHeroes =
         ]
     },
     {
-        "name": "贝恩 (Bane 玻璃)",
+        "name": "贝恩 (Bane) 玻璃",
         "fancy_name": "玻璃斗士",
         "AetherPower": "攻击提升",
         "color": "黄",
@@ -92311,7 +92625,7 @@ window.allHeroes =
         ]
     },
     {
-        "name": "达瓦 (Dawa C1)",
+        "name": "达瓦 (Dawa) C1",
         "fancy_name": "沙戈守护者",
         "AetherPower": "怒气",
         "color": "黄",
@@ -92372,7 +92686,7 @@ window.allHeroes =
         ]
     },
     {
-        "name": "达瓦 (Dawa 卡通)",
+        "name": "达瓦 (Dawa) 卡通",
         "fancy_name": "沙戈卡通",
         "AetherPower": "闪避",
         "color": "黄",
@@ -92435,7 +92749,7 @@ window.allHeroes =
         ]
     },
     {
-        "name": "达瓦 (Dawa 玻璃)",
+        "name": "达瓦 (Dawa) 玻璃",
         "fancy_name": "沙戈彩绘",
         "AetherPower": "闪避",
         "color": "黄",
@@ -92715,7 +93029,7 @@ window.allHeroes =
         ]
     },
     {
-        "name": "费尔顿 (Felton C1)",
+        "name": "费尔顿 (Felton) C1",
         "fancy_name": "冷血海盗",
         "AetherPower": "反击",
         "color": "黄",
@@ -92852,7 +93166,7 @@ window.allHeroes =
         ]
     },
     {
-        "name": "柑橘 (Gan Ju C1)",
+        "name": "柑橘 (Gan Ju) C1",
         "fancy_name": "翠竹之根",
         "AetherPower": "特殊技能加成",
         "color": "黄",
@@ -92912,7 +93226,7 @@ window.allHeroes =
         ]
     },
     {
-        "name": "柑橘 (Gan Ju 卡通)",
+        "name": "柑橘 (Gan Ju) 卡通",
         "fancy_name": "卡通树枝",
         "AetherPower": "攻击提升",
         "color": "黄",
@@ -92979,7 +93293,7 @@ window.allHeroes =
         ]
     },
     {
-        "name": "柑橘 (Gan Ju 玻璃)",
+        "name": "柑橘 (Gan Ju) 玻璃",
         "fancy_name": "玻璃树枝",
         "AetherPower": "攻击提升",
         "color": "黄",
@@ -93032,7 +93346,19 @@ window.allHeroes =
             "defense": 602,
             "health": 1405
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "攻击：单体"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "攻击-穿透/绕过",
+                    "法力-削减法力"
+                ]
+            }
+        ]
     },
     {
         "name": "春坊 (Harubo)",
@@ -93171,7 +93497,7 @@ window.allHeroes =
         ]
     },
     {
-        "name": "雅科 (Jaco C1)",
+        "name": "雅科 (Jaco) C1",
         "fancy_name": "狡猾的深渊炼金术师",
         "AetherPower": "特殊护甲",
         "color": "黄",
@@ -93372,7 +93698,7 @@ window.allHeroes =
         ]
     },
     {
-        "name": "凯兰尼 (Kailani C1)",
+        "name": "凯兰尼 (Kailani) C1",
         "fancy_name": "宽宏的修理者",
         "AetherPower": "防御提升",
         "color": "黄",
@@ -93428,7 +93754,7 @@ window.allHeroes =
         ]
     },
     {
-        "name": "凯兰尼 (Kailani 卡通)",
+        "name": "凯兰尼 (Kailani) 卡通",
         "fancy_name": "卡通治疗师",
         "AetherPower": "特殊护甲",
         "color": "黄",
@@ -93488,7 +93814,7 @@ window.allHeroes =
         ]
     },
     {
-        "name": "凯兰尼 (Kailani 玻璃)",
+        "name": "凯兰尼 (Kailani) 玻璃",
         "fancy_name": "玻璃医者",
         "AetherPower": "特殊护甲",
         "color": "黄",
@@ -93681,7 +94007,7 @@ window.allHeroes =
         ]
     },
     {
-        "name": "卡瓦希尔 (Kvasir C1)",
+        "name": "卡瓦希尔 (Kvasir) C1",
         "fancy_name": "艾尔夫海姆狂蜂队长",
         "AetherPower": "特殊护甲",
         "color": "黄",
@@ -93808,7 +94134,7 @@ window.allHeroes =
         ]
     },
     {
-        "name": "梅里亚 (Melia C1)",
+        "name": "梅里亚 (Melia) C1",
         "fancy_name": "亚特兰蒂斯使者",
         "AetherPower": "特殊技能加成",
         "color": "黄",
@@ -94048,7 +94374,7 @@ window.allHeroes =
         ]
     },
     {
-        "name": "波比 (Poppy C1)",
+        "name": "波比 (Poppy) C1",
         "fancy_name": "半身人房客",
         "AetherPower": "减伤",
         "color": "黄",
@@ -94173,7 +94499,7 @@ window.allHeroes =
         ]
     },
     {
-        "name": "雷克赫特 (Rekhetre C1)",
+        "name": "雷克赫特 (Rekhetre) C1",
         "fancy_name": "年少艺术家",
         "AetherPower": "特殊护甲",
         "color": "黄",
@@ -94922,7 +95248,7 @@ window.allHeroes =
         ]
     },
     {
-        "name": "赵 (Chao C1)",
+        "name": "赵 (Chao) C1",
         "fancy_name": "守卫者大师",
         "AetherPower": "闪避",
         "color": "黄",
@@ -94983,7 +95309,7 @@ window.allHeroes =
         ]
     },
     {
-        "name": "赵 (Chao C2)",
+        "name": "赵 (Chao) C2",
         "fancy_name": "训虎大师",
         "AetherPower": "攻击提升",
         "color": "黄",
@@ -95043,7 +95369,7 @@ window.allHeroes =
         ]
     },
     {
-        "name": "赵 (Chao 卡通)",
+        "name": "赵 (Chao) 卡通",
         "fancy_name": "卡通战术家",
         "AetherPower": "攻击提升",
         "color": "黄",
@@ -95110,7 +95436,7 @@ window.allHeroes =
         ]
     },
     {
-        "name": "赵 (Chao 玻璃)",
+        "name": "赵 (Chao) 玻璃",
         "fancy_name": "玻璃战术家",
         "AetherPower": "状态异常免疫",
         "color": "黄",
@@ -95326,7 +95652,7 @@ window.allHeroes =
         ]
     },
     {
-        "name": "团三郎狸 (Danzaburo C1)",
+        "name": "团三郎狸 (Danzaburo) C1",
         "fancy_name": "无畏商人",
         "AetherPower": "特殊护甲",
         "color": "黄",
@@ -95561,7 +95887,7 @@ window.allHeroes =
         ]
     },
     {
-        "name": "菲亚拉尔 (Fjalar C1)",
+        "name": "菲亚拉尔 (Fjalar) C1",
         "fancy_name": "矮人幽灵吟游诗人",
         "AetherPower": "特殊护甲",
         "color": "黄",
@@ -95843,7 +96169,7 @@ window.allHeroes =
         ]
     },
     {
-        "name": "格里芬 (Griffin C1)",
+        "name": "格里芬 (Griffin) C1",
         "fancy_name": "隐形祭司",
         "AetherPower": "攻击提升",
         "color": "黄",
@@ -96047,7 +96373,7 @@ window.allHeroes =
         ]
     },
     {
-        "name": "豺狼守护者 (Guardian Jackal C1)",
+        "name": "豺狼守护者 (Guardian Jackal) C1",
         "fancy_name": "特尔托克集骨者",
         "AetherPower": "怒气",
         "color": "黄",
@@ -96172,7 +96498,7 @@ window.allHeroes =
         ]
     },
     {
-        "name": "古林博斯帝 (Gullinbursti C1)",
+        "name": "古林博斯帝 (Gullinbursti) C1",
         "fancy_name": "奔放野猪",
         "AetherPower": "防御提升",
         "color": "黄",
@@ -96368,7 +96694,7 @@ window.allHeroes =
         ]
     },
     {
-        "name": "胡桃 (Hu Tao C1)",
+        "name": "胡桃 (Hu Tao) C1",
         "fancy_name": "翠竹之皮",
         "AetherPower": "特殊护甲",
         "color": "黄",
@@ -96432,7 +96758,7 @@ window.allHeroes =
         ]
     },
     {
-        "name": "胡桃 (Hu Tao C2)",
+        "name": "胡桃 (Hu Tao) C2",
         "fancy_name": "竹林斗士",
         "AetherPower": "生命恢复",
         "color": "黄",
@@ -96496,7 +96822,7 @@ window.allHeroes =
         ]
     },
     {
-        "name": "胡桃 (Hu Tao 卡通)",
+        "name": "胡桃 (Hu Tao) 卡通",
         "fancy_name": "翠竹卡通",
         "AetherPower": "防御提升",
         "color": "黄",
@@ -96567,7 +96893,7 @@ window.allHeroes =
         ]
     },
     {
-        "name": "胡桃 (Hu Tao 玻璃)",
+        "name": "胡桃 (Hu Tao) 玻璃",
         "fancy_name": "玻璃之刃",
         "AetherPower": "防御提升",
         "color": "黄",
@@ -96756,7 +97082,7 @@ window.allHeroes =
         ]
     },
     {
-        "name": "丽秀 (Li Xiu C1)",
+        "name": "丽秀 (Li Xiu) C1",
         "fancy_name": "礼仪刺客",
         "AetherPower": "特殊护甲",
         "color": "黄",
@@ -96816,7 +97142,7 @@ window.allHeroes =
         ]
     },
     {
-        "name": "丽秀 (Li Xiu C2)",
+        "name": "丽秀 (Li Xiu) C2",
         "fancy_name": "烟火将军",
         "AetherPower": "减伤",
         "color": "黄",
@@ -96876,7 +97202,7 @@ window.allHeroes =
         ]
     },
     {
-        "name": "丽秀 (Li Xiu 卡通)",
+        "name": "丽秀 (Li Xiu) 卡通",
         "fancy_name": "卡通将军",
         "AetherPower": "反击",
         "color": "黄",
@@ -96943,7 +97269,7 @@ window.allHeroes =
         ]
     },
     {
-        "name": "丽秀 (Li Xiu 玻璃)",
+        "name": "丽秀 (Li Xiu) 玻璃",
         "fancy_name": "玻璃将军",
         "AetherPower": "反击",
         "color": "黄",
@@ -97146,7 +97472,7 @@ window.allHeroes =
         ]
     },
     {
-        "name": "苏格拉泰 (Scoratek C1)",
+        "name": "苏格拉泰 (Scoratek) C1",
         "fancy_name": "圣甲虫哨兵",
         "AetherPower": "生命恢复加成",
         "color": "黄",
@@ -97477,7 +97803,7 @@ window.allHeroes =
         ]
     },
     {
-        "name": "王元姬 (Wang Yuanji C1)",
+        "name": "王元姬 (Wang Yuanji) C1",
         "fancy_name": "淑女书圣",
         "AetherPower": "生命恢复",
         "color": "黄",
@@ -97610,7 +97936,7 @@ window.allHeroes =
         ]
     },
     {
-        "name": "悟空 (Wu Kong C1)",
+        "name": "悟空 (Wu Kong) C1",
         "fancy_name": "猴子浪人",
         "AetherPower": "攻击提升",
         "color": "黄",
@@ -97669,7 +97995,7 @@ window.allHeroes =
         ]
     },
     {
-        "name": "悟空 (Wu Kong C2)",
+        "name": "悟空 (Wu Kong) C2",
         "fancy_name": "醉猴",
         "AetherPower": "怒气",
         "color": "黄",
@@ -97727,7 +98053,7 @@ window.allHeroes =
         ]
     },
     {
-        "name": "悟空 (Wu Kong 卡通)",
+        "name": "悟空 (Wu Kong) 卡通",
         "fancy_name": "猴子卡通",
         "AetherPower": "气运",
         "color": "黄",
@@ -97789,7 +98115,7 @@ window.allHeroes =
         ]
     },
     {
-        "name": "悟空 (Wu Kong 玻璃)",
+        "name": "悟空 (Wu Kong) 玻璃",
         "fancy_name": "玻璃猴子",
         "AetherPower": "气运",
         "color": "黄",
@@ -97986,7 +98312,7 @@ window.allHeroes =
         ]
     },
     {
-        "name": "阿克罗格 (Akkorog C1)",
+        "name": "阿克罗格 (Akkorog) C1",
         "fancy_name": "莫洛克跑卫",
         "AetherPower": "减伤",
         "color": "黄",
@@ -98473,7 +98799,7 @@ window.allHeroes =
         ]
     },
     {
-        "name": "奥代 (Aouda C1)",
+        "name": "奥代 (Aouda) C1",
         "fancy_name": "莲花公主",
         "AetherPower": "特殊技能加成",
         "color": "黄",
@@ -98611,7 +98937,30 @@ window.allHeroes =
             "defense": 1564,
             "health": 2654
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "攻击：范围",
+                    "伤害：持续伤害"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "治疗-自我恢复/提高生命",
+                    "法力-法力恢复（击杀）"
+                ]
+            },
+            {
+                "增益效果": [
+                    "防御-拟态"
+                ]
+            },
+            {
+                "负面效果": [
+                    "伤害-持续伤害：流血"
+                ]
+            }
+        ]
     },
     {
         "name": "艾森 (Ashen)",
@@ -99288,7 +99637,7 @@ window.allHeroes =
         ]
     },
     {
-        "name": "凯特琳 (Caitlin C1)",
+        "name": "凯特琳 (Caitlin) C1",
         "fancy_name": "正义十字军战士",
         "AetherPower": "防御提升",
         "color": "黄",
@@ -99592,7 +99941,7 @@ window.allHeroes =
         ]
     },
     {
-        "name": "克利奥帕特拉 (Cleopatra C1)",
+        "name": "克利奥帕特拉 (Cleopatra) C1",
         "fancy_name": "猫法老",
         "AetherPower": "特殊护甲",
         "color": "黄",
@@ -99865,7 +100214,7 @@ window.allHeroes =
         ]
     },
     {
-        "name": "达利拉 (Delilah C1)",
+        "name": "达利拉 (Delilah) C1",
         "fancy_name": "天坛守护者",
         "AetherPower": "防御提升",
         "color": "黄",
@@ -100077,7 +100426,7 @@ window.allHeroes =
         ]
     },
     {
-        "name": "朱利主管 (Director Zuri C1)",
+        "name": "朱利主管 (Director Zuri) C1",
         "fancy_name": "小丑大师",
         "AetherPower": "防御提升",
         "color": "黄",
@@ -100291,7 +100640,7 @@ window.allHeroes =
         ]
     },
     {
-        "name": "德雷克方 (Drake Fong C1)",
+        "name": "德雷克方 (Drake Fong) C1",
         "fancy_name": "平静斗士",
         "AetherPower": "特殊技能加成",
         "color": "黄",
@@ -100489,7 +100838,31 @@ window.allHeroes =
             "defense": 1595,
             "health": 2743
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "攻击：单体",
+                    "伤害：持续伤害"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "攻击-摧毁小兵",
+                    "法力-法力恢复（击杀）",
+                    "治疗-自我恢复/提高生命"
+                ]
+            },
+            {
+                "增益效果": [
+                    "防御-拟态"
+                ]
+            },
+            {
+                "负面效果": [
+                    "伤害-持续伤害：毒"
+                ]
+            }
+        ]
     },
     {
         "name": "依菲拉 (Ephyra)",
@@ -100567,7 +100940,7 @@ window.allHeroes =
         ]
     },
     {
-        "name": "依菲拉 (Ephyra C1)",
+        "name": "依菲拉 (Ephyra) C1",
         "fancy_name": "暗礁公主",
         "AetherPower": "状态异常免疫",
         "color": "黄",
@@ -100782,7 +101155,7 @@ window.allHeroes =
         ]
     },
     {
-        "name": "艾塞特 (Eset C1)",
+        "name": "艾塞特 (Eset) C1",
         "fancy_name": "金日女神",
         "AetherPower": "怒气",
         "color": "黄",
@@ -100924,7 +101297,25 @@ window.allHeroes =
             "defense": 1524,
             "health": 2616
         },
-        "cn_skill_info": []
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "攻击：单体"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "攻击-摧毁小兵",
+                    "法力-法力恢复（击杀）",
+                    "治疗-自我恢复/提高生命"
+                ]
+            },
+            {
+                "增益效果": [
+                    "防御-拟态"
+                ]
+            }
+        ]
     },
     {
         "name": "法欧娜 (Faeona)",
@@ -102043,7 +102434,7 @@ window.allHeroes =
         ]
     },
     {
-        "name": "瞪羚守护者 (Guardian Gazelle C1)",
+        "name": "瞪羚守护者 (Guardian Gazelle) C1",
         "fancy_name": "特尔托克飞速先锋",
         "AetherPower": "治疗提升",
         "color": "黄",
@@ -102332,7 +102723,7 @@ window.allHeroes =
         ]
     },
     {
-        "name": "桂妮维亚 (Guinevere C1)",
+        "name": "桂妮维亚 (Guinevere) C1",
         "fancy_name": "阿瓦隆龙骑士",
         "AetherPower": "特殊护甲",
         "color": "黄",
@@ -102995,7 +103386,7 @@ window.allHeroes =
         ]
     },
     {
-        "name": "荷鲁斯 (Horus C1)",
+        "name": "荷鲁斯 (Horus) C1",
         "fancy_name": "黄金猎人",
         "AetherPower": "特殊技能加成",
         "color": "黄",
@@ -103206,7 +103597,7 @@ window.allHeroes =
         ]
     },
     {
-        "name": "稻荷 (Inari C1)",
+        "name": "稻荷 (Inari) C1",
         "fancy_name": "白狐英灵",
         "AetherPower": "特殊技能加成",
         "color": "黄",
@@ -103652,7 +104043,7 @@ window.allHeroes =
         ]
     },
     {
-        "name": "贾斯珀 (Jasper C1)",
+        "name": "贾斯珀 (Jasper) C1",
         "fancy_name": "渔人公牛",
         "AetherPower": "生命恢复加成",
         "color": "黄",
@@ -103797,7 +104188,7 @@ window.allHeroes =
         ]
     },
     {
-        "name": "亚坤 (Jequn C1)",
+        "name": "亚坤 (Jequn) C1",
         "fancy_name": "鎏金之谜",
         "AetherPower": "状态异常免疫",
         "color": "黄",
@@ -103932,7 +104323,7 @@ window.allHeroes =
         ]
     },
     {
-        "name": "尤恩 (Joon C1)",
+        "name": "尤恩 (Joon) C1",
         "fancy_name": "太阳之怒",
         "AetherPower": "减伤",
         "color": "黄",
@@ -103992,7 +104383,7 @@ window.allHeroes =
         ]
     },
     {
-        "name": "尤恩 (Joon C2)",
+        "name": "尤恩 (Joon) C2",
         "fancy_name": "太阳之力",
         "AetherPower": "状态异常免疫",
         "color": "黄",
@@ -104057,7 +104448,7 @@ window.allHeroes =
         ]
     },
     {
-        "name": "尤恩 (Joon 卡通)",
+        "name": "尤恩 (Joon) 卡通",
         "fancy_name": "炽阳卡通",
         "AetherPower": "闪避",
         "color": "黄",
@@ -104128,7 +104519,7 @@ window.allHeroes =
         ]
     },
     {
-        "name": "尤恩 (Joon 玻璃)",
+        "name": "尤恩 (Joon) 玻璃",
         "fancy_name": "太阳彩绘",
         "AetherPower": "闪避",
         "color": "黄",
@@ -104331,7 +104722,7 @@ window.allHeroes =
         ]
     },
     {
-        "name": "贾斯提斯 (Justice C1)",
+        "name": "贾斯提斯 (Justice) C1",
         "fancy_name": "太阳长者",
         "AetherPower": "特殊护甲",
         "color": "黄",
@@ -104398,7 +104789,7 @@ window.allHeroes =
         ]
     },
     {
-        "name": "贾斯提斯 (Justice C2)",
+        "name": "贾斯提斯 (Justice) C2",
         "fancy_name": "荆棘长者",
         "AetherPower": "特殊技能加成",
         "color": "黄",
@@ -104465,7 +104856,7 @@ window.allHeroes =
         ]
     },
     {
-        "name": "贾斯提斯 (Justice 卡通)",
+        "name": "贾斯提斯 (Justice) 卡通",
         "fancy_name": "岩石卡通",
         "AetherPower": "防御提升",
         "color": "黄",
@@ -104536,7 +104927,7 @@ window.allHeroes =
         ]
     },
     {
-        "name": "贾斯提斯 (Justice 玻璃)",
+        "name": "贾斯提斯 (Justice) 玻璃",
         "fancy_name": "岩石彩绘",
         "AetherPower": "防御提升",
         "color": "黄",
@@ -104739,7 +105130,7 @@ window.allHeroes =
         ]
     },
     {
-        "name": "古勒沃 (Kullervo C1)",
+        "name": "古勒沃 (Kullervo) C1",
         "fancy_name": "战痕之子",
         "AetherPower": "怒气",
         "color": "黄",
@@ -105332,7 +105723,7 @@ window.allHeroes =
         ]
     },
     {
-        "name": "莱昂尼达斯 (Leonidas C1)",
+        "name": "莱昂尼达斯 (Leonidas) C1",
         "fancy_name": "斯巴达之王",
         "AetherPower": "减伤",
         "color": "黄",
@@ -105394,7 +105785,7 @@ window.allHeroes =
         ]
     },
     {
-        "name": "莱昂尼达斯 (Leonidas C2)",
+        "name": "莱昂尼达斯 (Leonidas) C2",
         "fancy_name": "不屈法师",
         "AetherPower": "状态异常免疫",
         "color": "黄",
@@ -105462,7 +105853,7 @@ window.allHeroes =
         ]
     },
     {
-        "name": "莱昂尼达斯 (Leonidas 卡通)",
+        "name": "莱昂尼达斯 (Leonidas) 卡通",
         "fancy_name": "不屈卡通",
         "AetherPower": "反击",
         "color": "黄",
@@ -105533,7 +105924,7 @@ window.allHeroes =
         ]
     },
     {
-        "name": "莱昂尼达斯 (Leonidas 玻璃)",
+        "name": "莱昂尼达斯 (Leonidas) 玻璃",
         "fancy_name": "不屈彩绘",
         "AetherPower": "反击",
         "color": "黄",
@@ -106276,7 +106667,7 @@ window.allHeroes =
         ]
     },
     {
-        "name": "美勒桑克 (Meresankh C1)",
+        "name": "美勒桑克 (Meresankh) C1",
         "fancy_name": "迪斯科斯芬克斯",
         "AetherPower": "特殊技能加成",
         "color": "黄",
@@ -106779,7 +107170,7 @@ window.allHeroes =
         ]
     },
     {
-        "name": "武藏 (Musashi C1)",
+        "name": "武藏 (Musashi) C1",
         "fancy_name": "逃脱大师",
         "AetherPower": "怒气",
         "color": "黄",
@@ -107133,7 +107524,7 @@ window.allHeroes =
         ]
     },
     {
-        "name": "诺伦三女神 (Norns C1)",
+        "name": "诺伦三女神 (Norns) C1",
         "fancy_name": "命运傀儡师",
         "AetherPower": "状态异常免疫",
         "color": "黄",
@@ -107257,7 +107648,7 @@ window.allHeroes =
         ]
     },
     {
-        "name": "奥丁 (Odin C1)",
+        "name": "奥丁 (Odin) C1",
         "fancy_name": "英勇众神之父",
         "AetherPower": "特殊技能加成",
         "color": "黄",
@@ -107540,7 +107931,7 @@ window.allHeroes =
         ]
     },
     {
-        "name": "帕普罗斯 (Papyros C1)",
+        "name": "帕普罗斯 (Papyros) C1",
         "fancy_name": "纸莎巨人",
         "AetherPower": "生命恢复",
         "color": "黄",
@@ -107782,7 +108173,7 @@ window.allHeroes =
         ]
     },
     {
-        "name": "波莎 (Persa C1)",
+        "name": "波莎 (Persa) C1",
         "fancy_name": "水母贵族",
         "AetherPower": "特殊技能加成",
         "color": "黄",
@@ -108088,7 +108479,7 @@ window.allHeroes =
         ]
     },
     {
-        "name": "波塞冬 (Poseidon C1)",
+        "name": "波塞冬 (Poseidon) C1",
         "fancy_name": "亚特兰蒂斯杀手",
         "AetherPower": "特殊技能加成",
         "color": "黄",
@@ -108215,7 +108606,7 @@ window.allHeroes =
         ]
     },
     {
-        "name": "黎登布洛克教授 (Prof. Lidenbrock C1)",
+        "name": "黎登布洛克教授 (Prof. Lidenbrock) C1",
         "fancy_name": "聪慧珠宝商",
         "AetherPower": "特殊护甲",
         "color": "黄",
@@ -108419,7 +108810,7 @@ window.allHeroes =
         ]
     },
     {
-        "name": "拉娜 (Rana C1)",
+        "name": "拉娜 (Rana) C1",
         "fancy_name": "冲浪女王",
         "AetherPower": "防御提升",
         "color": "黄",
@@ -108764,7 +109155,7 @@ window.allHeroes =
         ]
     },
     {
-        "name": "罗克 (Roc C1)",
+        "name": "罗克 (Roc) C1",
         "fancy_name": "海滩守护者",
         "AetherPower": "减伤",
         "color": "黄",
@@ -109530,7 +109921,7 @@ window.allHeroes =
         ]
     },
     {
-        "name": "希芙 (Sif C1)",
+        "name": "希芙 (Sif) C1",
         "fancy_name": "黄金女神",
         "AetherPower": "减伤",
         "color": "黄",
@@ -110019,7 +110410,7 @@ window.allHeroes =
         ]
     },
     {
-        "name": "托尔 (Thor C1)",
+        "name": "托尔 (Thor) C1",
         "fancy_name": "雷之媒介",
         "AetherPower": "特殊技能加成",
         "color": "黄",
@@ -110561,7 +110952,7 @@ window.allHeroes =
         ]
     },
     {
-        "name": "吠舍离 (Vaishali C1)",
+        "name": "吠舍离 (Vaishali) C1",
         "fancy_name": "秘派大师",
         "AetherPower": "状态异常免疫",
         "color": "黄",
@@ -110725,7 +111116,7 @@ window.allHeroes =
         ]
     },
     {
-        "name": "薇薇卡 (Vivica C1)",
+        "name": "薇薇卡 (Vivica) C1",
         "fancy_name": "至尊法师",
         "AetherPower": "特殊护甲",
         "color": "黄",
@@ -110793,7 +111184,7 @@ window.allHeroes =
         ]
     },
     {
-        "name": "薇薇卡 (Vivica C2)",
+        "name": "薇薇卡 (Vivica) C2",
         "fancy_name": "至尊抄书吏",
         "AetherPower": "治疗提升",
         "color": "黄",
@@ -110861,7 +111252,7 @@ window.allHeroes =
         ]
     },
     {
-        "name": "薇薇卡 (Vivica 卡通)",
+        "name": "薇薇卡 (Vivica) 卡通",
         "fancy_name": "卡通学者",
         "AetherPower": "防御提升",
         "color": "黄",
@@ -110933,7 +111324,7 @@ window.allHeroes =
         ]
     },
     {
-        "name": "薇薇卡 (Vivica 玻璃)",
+        "name": "薇薇卡 (Vivica) 玻璃",
         "fancy_name": "玻璃学者",
         "AetherPower": "防御提升",
         "color": "黄",
@@ -111302,7 +111693,7 @@ window.allHeroes =
         ]
     },
     {
-        "name": "白兔先生 (White Rabbit C1)",
+        "name": "白兔先生 (White Rabbit) C1",
         "fancy_name": "疯狂面具",
         "AetherPower": "特殊技能加成",
         "color": "黄",
@@ -111599,7 +111990,7 @@ window.allHeroes =
         ]
     },
     {
-        "name": "沃尔夫冈 (Wolfgang C1)",
+        "name": "沃尔夫冈 (Wolfgang) C1",
         "fancy_name": "狼族指挥官",
         "AetherPower": "减伤",
         "color": "黄",
@@ -111966,7 +112357,7 @@ window.allHeroes =
         ]
     },
     {
-        "name": "赞德莉亚 (Zandria C1)",
+        "name": "赞德莉亚 (Zandria) C1",
         "fancy_name": "银河守卫",
         "AetherPower": "坚壁",
         "color": "黄",
@@ -112194,7 +112585,7 @@ window.allHeroes =
         ]
     },
     {
-        "name": "泽克纳 (Zekena C1)",
+        "name": "泽克纳 (Zekena) C1",
         "fancy_name": "夹竹桃王子",
         "AetherPower": "特殊护甲",
         "color": "黄",
@@ -112402,7 +112793,7 @@ window.allHeroes =
         ]
     },
     {
-        "name": "张飞 (Zhang Fei C1)",
+        "name": "张飞 (Zhang Fei) C1",
         "fancy_name": "暴熊将军",
         "AetherPower": "怒气",
         "color": "黄",
@@ -112542,7 +112933,7 @@ window.allHeroes =
         ]
     },
     {
-        "name": "诸葛亮 (Zhuge Liang C1)",
+        "name": "诸葛亮 (Zhuge Liang) C1",
         "fancy_name": "神算鬼谋",
         "AetherPower": "法力加成",
         "color": "黄",
@@ -112688,7 +113079,7 @@ window.allHeroes =
         ]
     },
     {
-        "name": "经验拟态兽 (Experience Mimic Rare)",
+        "name": "经验拟态兽 (Experience Mimic) Rare",
         "fancy_name": "小齿秘藏",
         "AetherPower": "",
         "color": "红",
@@ -112714,7 +113105,7 @@ window.allHeroes =
         "cn_skill_info": []
     },
     {
-        "name": "进阶拟态兽 (Ascension Mimic Epic Holy)",
+        "name": "进阶拟态兽 (Ascension Mimic) Epic Holy",
         "fancy_name": "小邪狞秘藏",
         "AetherPower": "",
         "color": "黄",
@@ -112740,7 +113131,7 @@ window.allHeroes =
         "cn_skill_info": []
     },
     {
-        "name": "安齐雅 (Anzia C1)",
+        "name": "安齐雅 (Anzia) C1",
         "fancy_name": "银河狱卒",
         "AetherPower": "",
         "color": "蓝",
@@ -112766,7 +113157,7 @@ window.allHeroes =
         "cn_skill_info": []
     },
     {
-        "name": "波尔多斯 (Porthos C1)",
+        "name": "波尔多斯 (Porthos) C1",
         "fancy_name": "商人火枪手",
         "AetherPower": "",
         "color": "蓝",
@@ -113052,7 +113443,7 @@ window.allHeroes =
         "cn_skill_info": []
     },
     {
-        "name": "特罗纽斯 (Telonius C1)",
+        "name": "特罗纽斯 (Telonius) C1",
         "fancy_name": "酒馆半人马",
         "AetherPower": "",
         "color": "绿",
@@ -113104,7 +113495,7 @@ window.allHeroes =
         "cn_skill_info": []
     },
     {
-        "name": "阿多斯 (Athos C1)",
+        "name": "阿多斯 (Athos) C1",
         "fancy_name": "铁匠火枪手",
         "AetherPower": "",
         "color": "绿",
@@ -113364,7 +113755,7 @@ window.allHeroes =
         "cn_skill_info": []
     },
     {
-        "name": "查罗拉 (Zarola C1)",
+        "name": "查罗拉 (Zarola) C1",
         "fancy_name": "独行游侠爱神",
         "AetherPower": "",
         "color": "绿",
@@ -113390,7 +113781,7 @@ window.allHeroes =
         "cn_skill_info": []
     },
     {
-        "name": "沃路普塔斯 (Voluptas C1)",
+        "name": "沃路普塔斯 (Voluptas) C1",
         "fancy_name": "画家爱神",
         "AetherPower": "",
         "color": "黄",
@@ -113416,7 +113807,7 @@ window.allHeroes =
         "cn_skill_info": []
     },
     {
-        "name": "丘比特 (Cupido C1)",
+        "name": "丘比特 (Cupido) C1",
         "fancy_name": "炽情爱神",
         "AetherPower": "",
         "color": "红",
@@ -113494,7 +113885,7 @@ window.allHeroes =
         "cn_skill_info": []
     },
     {
-        "name": "薇薇卡 (Vivica C5)",
+        "name": "薇薇卡 (Vivica) 英姿",
         "fancy_name": "英姿学者",
         "AetherPower": "",
         "color": "黄",
@@ -113520,7 +113911,7 @@ window.allHeroes =
         "cn_skill_info": []
     },
     {
-        "name": "理查德 (Richard C5)",
+        "name": "理查德 (Richard) 英姿",
         "fancy_name": "时尚圣骑士",
         "AetherPower": "",
         "color": "蓝",
@@ -113546,7 +113937,7 @@ window.allHeroes =
         "cn_skill_info": []
     },
     {
-        "name": "萨塔娜 (Sartana C5)",
+        "name": "萨塔娜 (Sartana) 英姿",
         "fancy_name": "英姿刽子手",
         "AetherPower": "",
         "color": "紫",
@@ -113572,7 +113963,7 @@ window.allHeroes =
         "cn_skill_info": []
     },
     {
-        "name": "阿基拉 (Azlar C5)",
+        "name": "阿基拉 (Azlar) 英姿",
         "fancy_name": "英姿里奥尔",
         "AetherPower": "",
         "color": "红",
@@ -113598,7 +113989,7 @@ window.allHeroes =
         "cn_skill_info": []
     },
     {
-        "name": "猛牙 (Boldtusk C5)",
+        "name": "猛牙 (Boldtusk) 英姿",
         "fancy_name": "华丽者",
         "AetherPower": "",
         "color": "红",
@@ -113624,7 +114015,7 @@ window.allHeroes =
         "cn_skill_info": []
     },
     {
-        "name": "格林姆 (Grimm C5)",
+        "name": "格林姆 (Grimm) 英姿",
         "fancy_name": "邪恶风范后裔",
         "AetherPower": "",
         "color": "蓝",
@@ -113650,7 +114041,7 @@ window.allHeroes =
         "cn_skill_info": []
     },
     {
-        "name": "柑橘 (Gan Ju C4)",
+        "name": "柑橘 (Gan Ju) 英姿",
         "fancy_name": "生机翠竹",
         "AetherPower": "",
         "color": "黄",
@@ -113676,7 +114067,7 @@ window.allHeroes =
         "cn_skill_info": []
     },
     {
-        "name": "贾汉吉 (Jahangir C4)",
+        "name": "贾汉吉 (Jahangir) 英姿",
         "fancy_name": "英姿法师",
         "AetherPower": "",
         "color": "红",
