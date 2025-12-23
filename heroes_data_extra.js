@@ -42290,5 +42290,90 @@ window.allHeroesExtra = [
             "tile_enhancement_red_on_special_titan_hunter_parent"
         ],
         "family": "titan_hunter"
+    },
+    {
+        "name": "Boboo Sang",
+        "fancy name": "Elder Peddler Slime",
+        "element": "Blue",
+        "rarity": 5,
+        "class": "Cleric",
+        "speed": "slow",
+        "Release date": "2025-12-21",
+        "AetherPower": "Ailment Immunity",
+        "skill_types": [
+            "AoE Attackers (Hit-5)",
+            "Mana Reducers or Blockers",
+            "Buff Stealers"
+        ],
+        "heroId": "slime_boboosang",
+        "baseAttack": 631,
+        "baseDefense": 637,
+        "baseHealth": 1098,
+        "specialId": "debt_drain_boboosang",
+        "passiveSkills": [
+            "summon_slime_minion_on_damage_blue",
+            "summon_slime_minion_on_death_blue"
+        ],
+        "family": "slime"
+    },
+    {
+        "name": "Dominique",
+        "fancy name": "The Faithful Protector",
+        "element": "Blue",
+        "rarity": 5,
+        "class": "Fighter",
+        "speed": "fast",
+        "Release date": "2025-12-19",
+        "AetherPower": "Regen",
+        "skill_types": [
+            "AoE Attackers (Hit-3)",
+            "DoT Attackers",
+            "Counterattackers"
+        ],
+        "heroId": "beauty_beast_dominique",
+        "baseAttack": 646,
+        "baseDefense": 617,
+        "baseHealth": 1099,
+        "specialId": "righteous_revenge",
+        "passiveSkills": [
+            "convert_incoming_damage_to_heal",
+            "heal_on_expired_or_cleared_debuff_average",
+            "reduce_revival_health_all_enemies"
+        ],
+        "family": "beauty_beast"
+    },
+    {
+        "name": "Athos costume1",
+        "fancy name": "Farrier Musketeer",
+        "element": "Green",
+        "rarity": 5,
+        "class": "Fighter",
+        "speed": "very_fast",
+        "Release date": "2025-12-19",
+        "AetherPower": "Special Boost",
+        "skill_types": [
+            "Bypassers",
+            "Mana Raisers",
+            "Minions Counters",
+            "Snipers",
+            "Heal over Time (HoT)",
+            "Health Boosters"
+        ],
+        "heroId": "musketeer_athos_costume_farrier",
+        "baseAttack": 423,
+        "baseDefense": 363,
+        "baseHealth": 788,
+        "specialId": "piercing_shot",
+        "specialId_costume": "artisans_shot",
+        "passiveSkills": [
+            "damage_all_enemies_on_cover_or_special_damage_received_costume",
+            "resist_defense_modifier_debuffs"
+        ],
+        "costumeBonusPassiveSkillIds": null,
+        "attackBonus": "53%",
+        "defenseBonus": "53%",
+        "healthBonus": "53%",
+        "manaBonus": "5%",
+        "family": "musketeer"
     }
 ];

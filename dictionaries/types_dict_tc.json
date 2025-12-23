@@ -969,5 +969,6 @@
   "Special Skill Defense Buff All": "全體特殊技能防禦增益",
   "Minion Dodge Buff All": "全體小兵閃避增益",
   "Damage Increase Debuff Stack 3": "3個目標傷害增加減益疊加",
-  "Critical Chance Buff Stack 3": "3個目標暴擊機率增益疊加"
+  "Critical Chance Buff Stack 3": "3個目標暴擊機率增益疊加",
+  "Mana boost on Minion Destroyed": "小兵被摧毀時提升法力"
 }

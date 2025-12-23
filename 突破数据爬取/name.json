@@ -7233,5 +7233,19 @@
     },
     {
         "name": "Adelitza"
+    },
+    {
+        "name": "Boboo Sang"
+    },
+    {
+        "name": "Dominique"
+    },
+    {
+        "name": "Athos C",
+        "bonuses": {
+            "attack": 53,
+            "defense": 53,
+            "health": 53
+        }
     }
 ]

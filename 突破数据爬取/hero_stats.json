@@ -28636,5 +28636,41 @@
             "Defense": 1600,
             "Life": 2791
         }
+    },
+    "Dominique": {
+        "base": {
+            "Attack": 1330,
+            "Defense": 1271,
+            "Life": 2263,
+            "Power": 1263
+        },
+        "lb1": {
+            "Attack": 1434,
+            "Defense": 1369,
+            "Life": 2439
+        },
+        "lb2": {
+            "Attack": 1640,
+            "Defense": 1567,
+            "Life": 2791
+        }
+    },
+    "Boboo Sang": {
+        "base": {
+            "Attack": 1299,
+            "Defense": 1312,
+            "Life": 2261,
+            "Power": 1263
+        },
+        "lb1": {
+            "Attack": 1399,
+            "Defense": 1414,
+            "Life": 2437
+        },
+        "lb2": {
+            "Attack": 1603,
+            "Defense": 1617,
+            "Life": 2788
+        }
     }
 }

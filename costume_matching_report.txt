@@ -1,4 +1,4 @@
-✅ 成功匹配的服装 (491 / 0)
+✅ 成功匹配的服装 (492 / 0)
 ================================
 Name: Berden Costume1, Fancy Name: Adroit Archer
 Name: Hannah Costume1, Fancy Name: Adventurous Drover
@@ -126,6 +126,7 @@ Name: Nordri Costume1, Fancy Name: Explorer Dwarf of Jotunheim
 Name: Phileas Fogg Costume1, Fancy Name: Exquisite Engineer
 Name: Bastet Costume1, Fancy Name: Eye of the Forest
 Name: Lemminkainen Costume1, Fancy Name: Fading Champion
+Name: Athos costume1, Fancy Name: Farrier Musketeer
 Name: Proteus Costume1, Fancy Name: Farseer of Atlantis
 Name: Danzaburo Costume1, Fancy Name: Fearless Merchant
 Name: Cleopatra Costume1, Fancy Name: Feline Pharaoh
