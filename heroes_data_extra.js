@@ -42375,5 +42375,81 @@ window.allHeroesExtra = [
         "healthBonus": "53%",
         "manaBonus": "5%",
         "family": "musketeer"
+    },
+    {
+        "name": "Hotspin",
+        "fancy name": "Flame Cyclone Construct",
+        "element": "Red",
+        "rarity": 4,
+        "class": "Barbarian",
+        "speed": "average",
+        "Release date": "2025-12-23",
+        "AetherPower": "Counterattack",
+        "skill_types": [
+            "AoE Attackers (Hit-3)",
+            "Counterattackers",
+            "DoT Attackers"
+        ],
+        "heroId": "construct_hotspin",
+        "baseAttack": 384,
+        "baseDefense": 375,
+        "baseHealth": 680,
+        "specialId": "burning_spin",
+        "passiveSkills": [
+            "minion_core",
+            "resist_special_blocking_with_health_boost_and_mana"
+        ],
+        "family": "construct"
+    },
+    {
+        "name": "Sizzleomatic",
+        "fancy name": "Enthusiastic Chef Construct",
+        "element": "Red",
+        "rarity": 5,
+        "class": "Wizard",
+        "speed": "slow",
+        "Release date": "2025-12-23",
+        "AetherPower": "Regen",
+        "skill_types": [
+            "AoE Attackers (Hit-5)",
+            "Extra Damage Dealers",
+            "Buffers (ATK)",
+            "Reflectors"
+        ],
+        "heroId": "construct_sizzleomatic",
+        "baseAttack": 635,
+        "baseDefense": 634,
+        "baseHealth": 1098,
+        "specialId": "burning_wok",
+        "passiveSkills": [
+            "minion_core",
+            "resist_special_blocking_with_health_boost_and_mana"
+        ],
+        "family": "construct"
+    },
+    {
+        "name": "Ironvein",
+        "fancy name": "Holy Squire Construct",
+        "element": "Yellow",
+        "rarity": 3,
+        "class": "Fighter",
+        "speed": "average",
+        "Release date": "2025-12-23",
+        "AetherPower": "Attack Up",
+        "skill_types": [
+            "Chain & Random Attackers",
+            "Healers (Special)",
+            "Mana Raisers"
+        ],
+        "heroId": "construct_ironvein",
+        "baseAttack": 312,
+        "baseDefense": 302,
+        "baseHealth": 562,
+        "specialId": "squire_strike",
+        "passiveSkills": [
+            "minion_core",
+            "resist_special_blocking_with_health_boost_and_mana"
+        ],
+        "family": "construct"
     }
 ];

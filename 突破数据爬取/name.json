@@ -7247,5 +7247,14 @@
             "defense": 53,
             "health": 53
         }
+    },
+    {
+        "name": "Hotspin"
+    },
+    {
+        "name": "Sizzleomatic"
+    },
+    {
+        "name": "Ironvein"
     }
 ]

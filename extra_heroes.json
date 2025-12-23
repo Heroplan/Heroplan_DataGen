@@ -90,39 +90,6 @@
         "Lottery_Only": 1
     },
     {
-        "name": "Ironvein",
-        "fancy_name": "Holy Squire Construct",
-        "color": "Yellow",
-        "Release date": "",
-        "star": 3,
-        "family": "construct",
-        "costume_id": 0,
-        "heroId": "construct_ironvein",
-        "Lottery_Only": 1
-    },
-    {
-        "name": "Hotspin",
-        "fancy_name": "Flame Cyclone Construct",
-        "color": "Red",
-        "Release date": "",
-        "star": 4,
-        "family": "construct",
-        "costume_id": 0,
-        "heroId": "construct_hotspin",
-        "Lottery_Only": 1
-    },
-    {
-        "name": "Sizzleomatic",
-        "fancy_name": "Enthusiastic Chef Construct",
-        "color": "Red",
-        "Release date": "",
-        "star": 5,
-        "family": "construct",
-        "costume_id": 0,
-        "heroId": "construct_sizzleomatic",
-        "Lottery_Only": 1
-    },
-    {
         "name": "Chingiriko",
         "fancy_name": "Shadow Stalker Slime",
         "color": "Red",

@@ -28690,5 +28690,59 @@
             "Defense": 1410,
             "Life": 3061
         }
+    },
+    "Hotspin": {
+        "base": {
+            "Attack": 816,
+            "Defense": 796,
+            "Life": 1445,
+            "Power": 795
+        },
+        "lb1": {
+            "Attack": 886,
+            "Defense": 865,
+            "Life": 1570
+        },
+        "lb2": {
+            "Attack": 1027,
+            "Defense": 1003,
+            "Life": 1820
+        }
+    },
+    "Sizzleomatic": {
+        "base": {
+            "Attack": 1308,
+            "Defense": 1306,
+            "Life": 2261,
+            "Power": 1265
+        },
+        "lb1": {
+            "Attack": 1409,
+            "Defense": 1407,
+            "Life": 2437
+        },
+        "lb2": {
+            "Attack": 1612,
+            "Defense": 1610,
+            "Life": 2788
+        }
+    },
+    "Ironvein": {
+        "base": {
+            "Attack": 542,
+            "Defense": 524,
+            "Life": 976,
+            "Power": 538
+        },
+        "lb1": {
+            "Attack": 614,
+            "Defense": 594,
+            "Life": 1107
+        },
+        "lb2": {
+            "Attack": 759,
+            "Defense": 735,
+            "Life": 1367
+        }
     }
 }
