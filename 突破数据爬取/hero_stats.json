@@ -28672,5 +28672,23 @@
             "Defense": 1617,
             "Life": 2788
         }
+    },
+    "Athos C": {
+        "base": {
+            "Attack": 1332,
+            "Defense": 1142,
+            "Life": 2483,
+            "Power": 1258
+        },
+        "lb1": {
+            "Attack": 1436,
+            "Defense": 1231,
+            "Life": 2675
+        },
+        "lb2": {
+            "Attack": 1643,
+            "Defense": 1410,
+            "Life": 3061
+        }
     }
 }

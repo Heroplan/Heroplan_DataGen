@@ -31204,6 +31204,18 @@ window.allHeroes =
         "family": "musketeer",
         "costume_id": 1,
         "originalIndex": 453,
+        "lb1": {
+            "power": 1346,
+            "attack": 1436,
+            "defense": 1231,
+            "health": 2675
+        },
+        "lb2": {
+            "power": 1523,
+            "attack": 1643,
+            "defense": 1410,
+            "health": 3061
+        },
         "cn_skill_info": [
             {
                 "基础技能": [

@@ -31165,7 +31165,7 @@ window.allHeroes =
             "摧毀單個目標的小兵",
             "攻擊單個目標",
             "無視防禦",
-            "小兵被摧毀時提升法力",
+            "摧毀小兵時提升法力",
             "強化持續治療"
         ],
         "skill_types": [
@@ -31204,6 +31204,18 @@ window.allHeroes =
         "family": "musketeer",
         "costume_id": 1,
         "originalIndex": 453,
+        "lb1": {
+            "power": 1346,
+            "attack": 1436,
+            "defense": 1231,
+            "health": 2675
+        },
+        "lb2": {
+            "power": 1523,
+            "attack": 1643,
+            "defense": 1410,
+            "health": 3061
+        },
         "cn_skill_info": [
             {
                 "基础技能": [
