@@ -200,17 +200,6 @@
         "Lottery_Only": 1
     },
     {
-        "name": "Turundh",
-        "fancy_name": "Astral Demon Inquisitor",
-        "color": "Green",
-        "Release date": "",
-        "star": 5,
-        "family": "astral_demons",
-        "costume_id": 0,
-        "heroId": "astral_demon_turundh",
-        "Lottery_Only": 1
-    },
-    {
         "name": "Jyoti",
         "fancy_name": "Chari Dancer",
         "color": "Red",

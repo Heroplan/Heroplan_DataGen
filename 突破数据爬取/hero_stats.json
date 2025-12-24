@@ -28744,5 +28744,23 @@
             "Defense": 735,
             "Life": 1367
         }
+    },
+    "Turundh": {
+        "base": {
+            "Attack": 1320,
+            "Defense": 1310,
+            "Life": 2224,
+            "Power": 1265
+        },
+        "lb1": {
+            "Attack": 1423,
+            "Defense": 1412,
+            "Life": 2397
+        },
+        "lb2": {
+            "Attack": 1628,
+            "Defense": 1615,
+            "Life": 2743
+        }
     }
 }

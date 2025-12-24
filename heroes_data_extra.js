@@ -42451,5 +42451,33 @@ window.allHeroesExtra = [
             "resist_special_blocking_with_health_boost_and_mana"
         ],
         "family": "construct"
+    },
+    {
+        "name": "Turundh",
+        "fancy name": "Astral Demon Inquisitor",
+        "element": "Green",
+        "rarity": 5,
+        "class": "Sorcerer",
+        "speed": "fast",
+        "Release date": "2025-12-24",
+        "AetherPower": "Attack Up",
+        "skill_types": [
+            "Snipers",
+            "Chain & Random Attackers",
+            "Status Effects Blockers",
+            "Healing Reducers",
+            "Mana Raisers"
+        ],
+        "heroId": "astral_demon_turundh",
+        "baseAttack": 641,
+        "baseDefense": 636,
+        "baseHealth": 1080,
+        "specialId": "judgment_and_penance",
+        "passiveSkills": [
+            "never_miss_special",
+            "resist_all_mana_debuffs_and_reductions",
+            "mana_generation_modifier_all_enemies_more_sources"
+        ],
+        "family": "astral_demons"
     }
 ];

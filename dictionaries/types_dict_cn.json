@@ -972,5 +972,8 @@
   "Critical Chance Buff Stack 3": "3个目标暴击几率增益叠加",
   "Mana boost on Minion Destroyed": "摧毁小兵时提升法力",
   "Burning Touch 3": "灼热之触 (3个目标)",
-  "Self Mana Boost on Kill": "击杀时自身法力提升"
+  "Self Mana Boost on Kill": "击杀时自身法力提升",
+  "Block Status Effects Cast All": "阻挡状态效果施放 (全体)",
+  "Block Status Effects Cast 1": "阻挡状态效果施放 (单体)",
+  "Block Status Effects Cast on Hit": "命中时阻挡状态效果施放"
 }
