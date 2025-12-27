@@ -7259,5 +7259,16 @@
     },
     {
         "name": "Turundh"
+    },
+    {
+        "name": "Telonius C",
+        "bonuses": {
+            "attack": 48,
+            "defense": 48,
+            "health": 50
+        }
+    },
+    {
+        "name": "Jwala"
     }
 ]

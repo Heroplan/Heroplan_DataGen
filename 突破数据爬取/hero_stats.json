@@ -28754,13 +28754,49 @@
         },
         "lb1": {
             "Attack": 1423,
-            "Defense": 1412,
+            "Defense": 1411,
             "Life": 2397
         },
         "lb2": {
             "Attack": 1628,
             "Defense": 1615,
             "Life": 2743
+        }
+    },
+    "Jwala": {
+        "base": {
+            "Attack": 1324,
+            "Defense": 1289,
+            "Life": 2263,
+            "Power": 1266
+        },
+        "lb1": {
+            "Attack": 1427,
+            "Defense": 1389,
+            "Life": 2439
+        },
+        "lb2": {
+            "Attack": 1633,
+            "Defense": 1590,
+            "Life": 2791
+        }
+    },
+    "Telonius C": {
+        "base": {
+            "Attack": 1323,
+            "Defense": 1271,
+            "Life": 2286,
+            "Power": 1263
+        },
+        "lb1": {
+            "Attack": 1425,
+            "Defense": 1369,
+            "Life": 2463
+        },
+        "lb2": {
+            "Attack": 1630,
+            "Defense": 1567,
+            "Life": 2818
         }
     }
 }

@@ -975,5 +975,6 @@
   "Self Mana Boost on Kill": "擊殺時自身法力提升",
   "Block Status Effects Cast All": "阻擋狀態效果施放 (全體)",
   "Block Status Effects Cast 1": "阻擋狀態效果施放 (單體)",
-  "Block Status Effects Cast on Hit": "命中時阻擋狀態效果施放"
+  "Block Status Effects Cast on Hit": "命中時阻擋狀態效果施放",
+  "Debuff Duration Reset All": "全體減益持續時間重置"
 }

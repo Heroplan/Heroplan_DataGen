@@ -42463,6 +42463,7 @@ window.allHeroesExtra = [
         "AetherPower": "Attack Up",
         "skill_types": [
             "Snipers",
+            "Bypassers",
             "Chain & Random Attackers",
             "Status Effects Blockers",
             "Healing Reducers",
@@ -42479,5 +42480,72 @@ window.allHeroesExtra = [
             "mana_generation_modifier_all_enemies_more_sources"
         ],
         "family": "astral_demons"
+    },
+    {
+        "name": "Telonius costume1",
+        "fancy name": "Centaur of the Taproom",
+        "element": "Green",
+        "rarity": 5,
+        "class": "Sorcerer",
+        "speed": "charge_magic",
+        "Release date": "2025-12-27",
+        "AetherPower": "Bulwark",
+        "skill_types": [
+            "DoT Attackers",
+            "Extra Damage Dealers",
+            "Healers (Special)",
+            "Healers",
+            "Immunity Providers",
+            "Stacking Heroes",
+            "Mana Reducers or Blockers",
+            "Minions Counters"
+        ],
+        "heroId": "magic_telonius_costume_brew",
+        "baseAttack": 434,
+        "baseDefense": 417,
+        "baseHealth": 740,
+        "specialId": "poem_of_the_centaurs",
+        "specialId_costume": "brew_of_the_centaurs",
+        "passiveSkills": [
+            "magic_mana_regen_stack_on_special_costume",
+            "magic_damage_on_full_charge_costume"
+        ],
+        "costumeBonusPassiveSkillIds": [
+            "reduce_big_minion_health"
+        ],
+        "attackBonus": "48%",
+        "defenseBonus": "48%",
+        "healthBonus": "50%",
+        "manaBonus": "1%",
+        "family": "magic"
+    },
+    {
+        "name": "Jwala",
+        "fancy name": "Lava Magic Girl",
+        "element": "Red",
+        "rarity": 5,
+        "class": "Barbarian",
+        "speed": "average",
+        "Release date": "2025-12-27",
+        "AetherPower": "Rage",
+        "skill_types": [
+            "AoE Attackers (Hit-5)",
+            "Effect Duration Resetters",
+            "DoT Attackers",
+            "Debuffers (DEF)",
+            "Minions Counters",
+            "Status Effect Conversion"
+        ],
+        "heroId": "magic_carpet_jwala",
+        "baseAttack": 643,
+        "baseDefense": 626,
+        "baseHealth": 1099,
+        "specialId": "magmatic_burns",
+        "passiveSkills": [
+            "reduce_big_minion_health",
+            "fly_magic_carpet",
+            "buffs_to_debuffs_on_special_cast_magic_carpet"
+        ],
+        "family": "magic_carpet"
     }
 ];

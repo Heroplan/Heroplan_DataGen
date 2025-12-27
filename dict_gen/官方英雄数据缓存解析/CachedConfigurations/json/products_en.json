@@ -6,7 +6,7 @@
         "id": "lottery_temple_default",
         "gemPrice": 400,
         "amount": 1,
-        "uiPriority": 153,
+        "uiPriority": 156,
         "associatedEvent": "Temple",
         "bucketWeights": [
           568,
@@ -2139,7 +2139,7 @@
         "id": "lottery_featured_event_beowulf",
         "gemPrice": 350,
         "amount": 1,
-        "uiPriority": 151,
+        "uiPriority": 156,
         "advertisedHero": "cultist_female_poisoner",
         "associatedEvent": "RecurringBeowulf",
         "bonusChest": "beowulf_chest",
@@ -2219,7 +2219,7 @@
         "id": "lottery_covenant_default",
         "gemPrice": 400,
         "amount": 1,
-        "uiPriority": 148,
+        "uiPriority": 151,
         "associatedEvent": "CovenantSummon",
         "bonusChest": "covenant_chest",
         "bonusChestRequirement": 10,
@@ -2240,7 +2240,7 @@
         "id": "lottery_wilderness_default",
         "gemPrice": 400,
         "amount": 1,
-        "uiPriority": 138,
+        "uiPriority": 155,
         "associatedEvent": "WildernessSummon",
         "bonusChest": "wilderness_chest",
         "bonusChestRequirement": 10,
@@ -3853,7 +3853,7 @@
         "id": "lottery_monster_island_default",
         "gemPrice": 350,
         "amount": 1,
-        "uiPriority": 139,
+        "uiPriority": 151,
         "advertisedHero": "monster_hunter_njal",
         "associatedEvent": "MonsterIsland1",
         "bonusChest": "monster_island_chest",
@@ -15113,7 +15113,6 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.triple6_rooster_1",
         "dollarValue": 5,
-        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -15195,7 +15194,6 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.triple6_rooster_3",
         "dollarValue": 100,
-        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -16333,7 +16331,6 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.mystery2",
         "dollarValue": 2,
-        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -16347,7 +16344,6 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.mystery2_bonus",
         "dollarValue": 8,
-        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -20637,6 +20633,7 @@
         "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [],
+        "allianceGiftCustomContentId": "dynamic5_alliancegift",
         "dynamicOfferProduct": true
       },
       {
@@ -22645,7 +22642,6 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.step_up_1",
         "dollarValue": 3,
-        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -22669,7 +22665,6 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.step_up_2",
         "dollarValue": 5,
-        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -22698,7 +22693,6 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.step_up_3",
         "dollarValue": 10,
-        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -22722,7 +22716,6 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.step_up_4",
         "dollarValue": 20,
-        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -22751,7 +22744,6 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.step_up_5",
         "dollarValue": 30,
-        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -23001,7 +22993,6 @@
         "id": "com.smallgiantgames.empires.triple_souloffer_1",
         "dollarValue": 20,
         "zyngaStoreDollarValueOverride": 18,
-        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -23041,7 +23032,6 @@
         "id": "com.smallgiantgames.empires.triple_souloffer_2",
         "dollarValue": 30,
         "zyngaStoreDollarValueOverride": 27,
-        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -23081,7 +23071,6 @@
         "id": "com.smallgiantgames.empires.triple_souloffer_3",
         "dollarValue": 50,
         "zyngaStoreDollarValueOverride": 45,
-        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -24318,7 +24307,6 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.triple6_rooster_2b",
         "dollarValue": 30,
-        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -25504,7 +25492,6 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.blackfriday_thu1",
         "dollarValue": 15,
-        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -25518,7 +25505,6 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.blackfriday_thu2",
         "dollarValue": 50,
-        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -29832,7 +29818,6 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.triple_blacksummon_tue1",
         "dollarValue": 5,
-        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -29846,7 +29831,6 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.triple_blacksummon_tue2",
         "dollarValue": 30,
-        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -30847,7 +30831,7 @@
         "contents": [
           {
             "type": "Item",
-            "id": "lottery_silver_dragon_coin",
+            "id": "lottery_ancient_dragon_coin",
             "amount": 100
           }
         ]
@@ -36170,60 +36154,18 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.dragon_holiday2024_1a",
         "dollarValue": 5,
+        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
             "type": "Gem",
-            "amount": 600,
-            "zyngaStoreExtraAmount": 100
-          },
-          {
-            "type": "Dragon",
-            "id": "trainer_dragon_red_common",
-            "amount": 2
-          },
-          {
-            "type": "Dragon",
-            "id": "trainer_dragon_blue_common",
-            "amount": 2
-          },
-          {
-            "type": "Dragon",
-            "id": "trainer_dragon_yellow_common",
-            "amount": 2
-          },
-          {
-            "type": "Dragon",
-            "id": "trainer_dragon_purple_common",
-            "amount": 2
-          },
-          {
-            "type": "Dragon",
-            "id": "trainer_dragon_green_common",
-            "amount": 2
-          },
-          {
-            "type": "Dragon",
-            "id": "trainer_dragon_rainbow_novice_common",
-            "amount": 2
-          }
-        ]
-      },
-      {
-        "productType": "Offer",
-        "id": "com.smallgiantgames.empires.dragon_holiday2024_1b",
-        "dollarValue": 10,
-        "realMoneyProductInStore": true,
-        "contents": [
-          {
-            "type": "Gem",
-            "amount": 1100,
-            "zyngaStoreExtraAmount": 100
+            "amount": 700,
+            "zyngaStoreExtraAmount": 200
           },
           {
             "type": "Item",
             "id": "assist_skill_material_rare",
-            "amount": 3
+            "amount": 5
           },
           {
             "type": "Item",
@@ -36232,8 +36174,42 @@
           },
           {
             "type": "Item",
-            "id": "lottery_silver_dragon_coin",
+            "id": "assist_skill_material_common",
+            "amount": 15
+          },
+          {
+            "type": "Item",
+            "id": "lottery_ancient_dragon_coin",
             "amount": 200
+          }
+        ]
+      },
+      {
+        "productType": "Offer",
+        "id": "com.smallgiantgames.empires.dragon_holiday2024_1b",
+        "dollarValue": 10,
+        "realMoneyProductActive": true,
+        "realMoneyProductInStore": true,
+        "contents": [
+          {
+            "type": "Gem",
+            "amount": 1300,
+            "zyngaStoreExtraAmount": 300
+          },
+          {
+            "type": "Item",
+            "id": "assist_skill_material_legendary",
+            "amount": 2
+          },
+          {
+            "type": "Item",
+            "id": "assist_skill_material_epic",
+            "amount": 3
+          },
+          {
+            "type": "Item",
+            "id": "lottery_ancient_dragon_coin",
+            "amount": 300
           }
         ]
       },
@@ -36241,32 +36217,33 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.dragon_holiday2024_2a",
         "dollarValue": 20,
+        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
             "type": "Gem",
-            "amount": 2200,
-            "zyngaStoreExtraAmount": 200
+            "amount": 2500,
+            "zyngaStoreExtraAmount": 600
           },
           {
             "type": "Item",
             "id": "dragon_rainbow_chalice",
-            "amount": 1
+            "amount": 2
           },
           {
             "type": "Item",
             "id": "dragon_uncut_ruby",
-            "amount": 1
+            "amount": 3
           },
           {
             "type": "Item",
             "id": "dragon_uncut_jade",
-            "amount": 1
+            "amount": 3
           },
           {
             "type": "Item",
             "id": "dragon_uncut_topaz",
-            "amount": 1
+            "amount": 3
           }
         ]
       },
@@ -36274,32 +36251,33 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.dragon_holiday2024_2b",
         "dollarValue": 30,
+        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
             "type": "Gem",
-            "amount": 3300,
-            "zyngaStoreExtraAmount": 300
+            "amount": 3700,
+            "zyngaStoreExtraAmount": 700
           },
           {
             "type": "Item",
             "id": "dragon_dragonstone_pendant",
-            "amount": 1
-          },
-          {
-            "type": "Item",
-            "id": "dragon_uncut_sapphire",
-            "amount": 1
+            "amount": 2
           },
           {
             "type": "Item",
             "id": "dragon_uncut_amethyst",
-            "amount": 1
+            "amount": 3
+          },
+          {
+            "type": "Item",
+            "id": "dragon_uncut_sapphire",
+            "amount": 3
           },
           {
             "type": "Item",
             "id": "dragon_ornate_headdress",
-            "amount": 1
+            "amount": 3
           }
         ]
       },
@@ -36307,37 +36285,43 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.dragon_holiday2024_3",
         "dollarValue": 60,
+        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
             "type": "Gem",
-            "amount": 6600,
-            "zyngaStoreExtraAmount": 600
+            "amount": 6900,
+            "zyngaStoreExtraAmount": 1300
           },
           {
             "type": "Item",
             "id": "dragon_amethyst_pendant",
-            "amount": 1
+            "amount": 2
           },
           {
             "type": "Item",
             "id": "dragon_jade_pendant",
-            "amount": 1
+            "amount": 2
           },
           {
             "type": "Item",
             "id": "dragon_ruby_pendant",
-            "amount": 1
+            "amount": 2
           },
           {
             "type": "Item",
             "id": "dragon_sapphire_pendant",
-            "amount": 1
+            "amount": 2
           },
           {
             "type": "Item",
             "id": "dragon_topaz_pendant",
-            "amount": 1
+            "amount": 2
+          },
+          {
+            "type": "Item",
+            "id": "lottery_ancient_dragon_coin",
+            "amount": 400
           }
         ]
       },
@@ -55445,6 +55429,65 @@
         ]
       },
       {
+        "productType": "Offer",
+        "id": "com.smallgiantgames.empires.mds_xmascommunity2025",
+        "zyngaStoreProduct": true,
+        "contents": [
+          {
+            "type": "AvatarBackground",
+            "id": "community_winter_background",
+            "amount": 1
+          },
+          {
+            "type": "Avatar",
+            "id": "community_winter_elena",
+            "amount": 1
+          },
+          {
+            "type": "Item",
+            "id": "lottery_covenant_coin",
+            "amount": 100
+          },
+          {
+            "type": "Item",
+            "id": "lottery_item_limit_break",
+            "amount": 10
+          },
+          {
+            "type": "Item",
+            "id": "lottery_ancient_dragon_coin",
+            "amount": 100
+          },
+          {
+            "type": "Item",
+            "id": "refill_energy_pve_full",
+            "amount": 1
+          }
+        ]
+      },
+      {
+        "productType": "Offer",
+        "id": "com.smallgiantgames.empires.mds_newyear2026",
+        "zyngaStoreProduct": true,
+        "contents": [
+          {
+            "type": "Avatar",
+            "id": "dragon_glacio",
+            "amount": 1
+          },
+          {
+            "type": "Item",
+            "id": "misc_loot_ticket",
+            "amount": 5
+          },
+          {
+            "type": "Item",
+            "id": "lottery_untold_tales_coin",
+            "amount": 50
+          }
+        ]
+      },
+      {
         "productType": "AllianceEventSummon",
         "id": "lottery_featured_alliance_quest_castle_ad",
         "sourceProductId": "lottery_featured_alliance_quest_castle",
@@ -58181,5 +58224,5 @@
       }
     ]
   },
-  "productsConfigId": 4070297129
+  "productsConfigId": 4086836718
 }

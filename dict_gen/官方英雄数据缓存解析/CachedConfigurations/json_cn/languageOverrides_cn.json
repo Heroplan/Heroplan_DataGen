@@ -70,6 +70,10 @@
           {
             "key": "notifications.mimicsummon",
             "text": "Bazaar SUMMON OPEN NOW! Summon Mimics and useful Heroes! 💎⭐🏴"
+          },
+          {
+            "key": "herocard.passive_skill.description.familiarcoreintrinsicchargeeffectonspecial.summonfamiliar.construct_minion_core.all.allies.always",
+            "text": "Il Nucleo costrutto di questo personaggio è un [#!]Nucleo servitore[#].\n\nIl [#!]Nucleo servitore[#] si attiva ogni volta che viene utilizzata l'Abilità speciale di questo personaggio:\n\n[*] Con un [#!]Nucleo servitore[#] completamente carico, chiama un servitore Killer Bot con {FAMILIARHEALTHPERCENT}% HP e {FAMILIARATTACK}% di attacco ereditati dall'evocatore su tutti gli alleati.\n[*] Gli HP e l'attacco ereditati dall'evocatore sono scalati dalla quantità di carica del Nucleo. Tutta la carica si esaurisce quando il Nucleo viene attivato.\n[*] Prima che il servitore Killer Bot colpisca un bersaglio, distrugge tutti i servitori del bersaglio e danneggia i servitori Mega."
           }
         ]
       },
@@ -1478,10 +1482,14 @@
           {
             "key": "notifications.mimicsummon",
             "text": "Bazaar SUMMON OPEN NOW! Summon Mimics and useful Heroes! 💎⭐🏴"
+          },
+          {
+            "key": "herocard.passive_skill.description.effectondamagedone.bufftoremove.minordebuff.latest.from.all.allies.safe.specialskill.only_criticals.once",
+            "text": "当此角色使用特殊技能造成[#!]暴击[#]时，可以安全地清除所有友方单位身上最近一次可清除的异常状态。此效果每回合可激活一次。"
           }
         ]
       }
     }
   },
-  "languageOverridesConfigId": 41082519
+  "languageOverridesConfigId": 2112832758
 }

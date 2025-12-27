@@ -1,4 +1,4 @@
-✅ 成功匹配的服装 (492 / 0)
+✅ 成功匹配的服装 (493 / 0)
 ================================
 Name: Berden Costume1, Fancy Name: Adroit Archer
 Name: Hannah Costume1, Fancy Name: Adventurous Drover
@@ -52,6 +52,7 @@ Name: Elena Glass, Fancy Name: Captain of the Glass Guard
 Name: Elena Toon, Fancy Name: Captain of the Royal Toons
 Name: Elena Costume2, Fancy Name: Captain of the Wicked
 Name: Boldtusk Costume1, Fancy Name: Cast Iron Chef
+Name: Telonius costume1, Fancy Name: Centaur of the Taproom
 Name: Li Xiu Costume1, Fancy Name: Ceremonial Assassin
 Name: Perseus Costume1, Fancy Name: Challenger of Boreas
 Name: Agwe Costume1, Fancy Name: Chameleon Alchemist

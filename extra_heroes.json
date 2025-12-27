@@ -101,28 +101,6 @@
         "Lottery_Only": 1
     },
     {
-        "name": "Telonius C1",
-        "fancy_name": "Centaur of the Taproom",
-        "color": "Green",
-        "Release date": "",
-        "star": 5,
-        "family": "magic",
-        "costume_id": 1,
-        "heroId": "magic_telonius_costume_brew",
-        "Lottery_Only": 1
-    },
-    {
-        "name": "Jwala",
-        "fancy_name": "Lava Magic Girl",
-        "color": "Red",
-        "Release date": "",
-        "star": 5,
-        "family": "magic_carpet",
-        "costume_id": 0,
-        "heroId": "magic_carpet_jwala",
-        "Lottery_Only": 1
-    },
-    {
         "name": "Laurent",
         "fancy_name": "Petrified Guard of the Bewitched Castle",
         "color": "Green",
