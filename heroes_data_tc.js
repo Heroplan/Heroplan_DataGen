@@ -770,7 +770,7 @@ window.allHeroes =
         "color": "藍",
         "class": "野人",
         "speed": "中等",
-        "skill": "浣熊撕咬",
+        "skill": "狼之撕咬",
         "types": [
             "攻擊單個目標",
             "自我狀態異常免疫",
@@ -834,7 +834,7 @@ window.allHeroes =
         "color": "藍",
         "class": "術士",
         "speed": "中等",
-        "skill": "公仔之咬",
+        "skill": "狼之撕咬",
         "types": [
             "攻擊單個目標",
             "自我治療"
@@ -901,7 +901,7 @@ window.allHeroes =
         "color": "藍",
         "class": "術士",
         "speed": "中等",
-        "skill": "玻璃咬擊",
+        "skill": "狼之撕咬",
         "types": [
             "攻擊單個目標",
             "無視防禦",
@@ -1082,7 +1082,7 @@ window.allHeroes =
         "color": "藍",
         "class": "德魯伊",
         "speed": "慢速",
-        "skill": "鋼鐵連結",
+        "skill": "靈魂羈絆",
         "types": [
             "敵方傷害分擔",
             "全體防禦降低"
@@ -1142,7 +1142,7 @@ window.allHeroes =
         "color": "藍",
         "class": "騎士",
         "speed": "慢速",
-        "skill": "公仔連結",
+        "skill": "靈魂羈絆",
         "types": [
             "友方傷害分擔",
             "全體防禦增益"
@@ -1202,7 +1202,7 @@ window.allHeroes =
         "color": "藍",
         "class": "騎士",
         "speed": "慢速",
-        "skill": "玻璃連結",
+        "skill": "靈魂羈絆",
         "types": [
             "友方傷害分擔",
             "全體防禦增益",
@@ -1329,7 +1329,7 @@ window.allHeroes =
         "color": "藍",
         "class": "騎士",
         "speed": "中等",
-        "skill": "魚味十足的糕點",
+        "skill": "治愈一擊",
         "types": [
             "持續治療",
             "淨化者"
@@ -1458,7 +1458,7 @@ window.allHeroes =
         "color": "藍",
         "class": "牧師",
         "speed": "中等",
-        "skill": "禁用研究",
+        "skill": "禁止令",
         "types": [
             "攻擊單個目標",
             "增益免疫"
@@ -1660,7 +1660,7 @@ window.allHeroes =
         "color": "藍",
         "class": "盜賊",
         "speed": "中等",
-        "skill": "冰霜之箭",
+        "skill": "憤怒之箭",
         "types": [
             "全體驅散",
             "攻擊所有目標",
@@ -1783,7 +1783,7 @@ window.allHeroes =
         "color": "藍",
         "class": "盜賊",
         "speed": "中等",
-        "skill": "鍛爐衝鋒",
+        "skill": "錘擊飛躍",
         "types": [
             "攻擊3個目標",
             "3個目標持續傷害"
@@ -1844,7 +1844,7 @@ window.allHeroes =
         "color": "藍",
         "class": "野人",
         "speed": "中等",
-        "skill": "公仔驚奇猛攻",
+        "skill": "錘擊飛躍",
         "types": [
             "攻擊3個目標"
         ],
@@ -1907,7 +1907,7 @@ window.allHeroes =
         "color": "藍",
         "class": "野人",
         "speed": "中等",
-        "skill": "玻璃猛攻",
+        "skill": "錘擊飛躍",
         "types": [
             "攻擊3個目標",
             "無視防禦"
@@ -2030,7 +2030,7 @@ window.allHeroes =
         "color": "藍",
         "class": "僧侶",
         "speed": "中等",
-        "skill": "冰斧",
+        "skill": "霜凍斧頭",
         "types": [
             "攻擊3個目標",
             "元素防禦降低"
@@ -2357,7 +2357,7 @@ window.allHeroes =
         "color": "藍",
         "class": "僧侶",
         "speed": "慢速",
-        "skill": "白化致盲",
+        "skill": "暴風雪",
         "types": [
             "攻擊所有目標",
             "全體攻擊增益"
@@ -2417,7 +2417,7 @@ window.allHeroes =
         "color": "藍",
         "class": "巫師",
         "speed": "慢速",
-        "skill": "公仔暴風雪",
+        "skill": "暴風雪",
         "types": [
             "攻擊所有目標",
             "全體防禦降低"
@@ -2488,7 +2488,7 @@ window.allHeroes =
         "color": "藍",
         "class": "巫師",
         "speed": "慢速",
-        "skill": "玻璃暴風雪",
+        "skill": "暴風雪",
         "types": [
             "攻擊所有目標",
             "無視防禦",
@@ -2619,7 +2619,7 @@ window.allHeroes =
         "color": "藍",
         "class": "盜賊",
         "speed": "快速",
-        "skill": "驚心衝撞",
+        "skill": "冰寒連斬",
         "types": [
             "攻擊單個目標",
             "自我攻擊增益"
@@ -2679,7 +2679,7 @@ window.allHeroes =
         "color": "藍",
         "class": "戰士",
         "speed": "快速",
-        "skill": "公仔劈斬",
+        "skill": "冰寒連斬",
         "types": [
             "攻擊單個目標",
             "單體防禦降低"
@@ -2750,7 +2750,7 @@ window.allHeroes =
         "color": "藍",
         "class": "戰士",
         "speed": "快速",
-        "skill": "玻璃連斬",
+        "skill": "冰寒連斬",
         "types": [
             "攻擊單個目標",
             "無視防禦",
@@ -2822,7 +2822,7 @@ window.allHeroes =
         "color": "藍",
         "class": "牧師",
         "speed": "冥河",
-        "skill": "幻想增長",
+        "skill": "詩人的保護",
         "types": [
             "蓄力",
             "治療者",
@@ -3082,7 +3082,7 @@ window.allHeroes =
         "color": "藍",
         "class": "巫師",
         "speed": "中等",
-        "skill": "灑出的湯劑",
+        "skill": "巨浪滔天",
         "types": [
             "攻擊所有目標",
             "元素持續傷害"
@@ -3213,7 +3213,7 @@ window.allHeroes =
         "color": "藍",
         "class": "野人",
         "speed": "潮汐",
-        "skill": "滴水不穿",
+        "skill": "密集隊形",
         "types": [
             "嘲諷",
             "攻擊所有目標"
@@ -3352,7 +3352,7 @@ window.allHeroes =
         "color": "藍",
         "class": "牧師",
         "speed": "中等",
-        "skill": "跳舞姿態",
+        "skill": "反擊姿態",
         "types": [
             "全體治療",
             "反擊"
@@ -3551,7 +3551,7 @@ window.allHeroes =
         "color": "藍",
         "class": "騎士",
         "speed": "中等",
-        "skill": "堅定還擊",
+        "skill": "完美還擊",
         "types": [
             "全體反擊"
         ],
@@ -3603,7 +3603,7 @@ window.allHeroes =
         "color": "藍",
         "class": "戰士",
         "speed": "中等",
-        "skill": "無情還擊",
+        "skill": "完美還擊",
         "types": [
             "全體反擊"
         ],
@@ -3655,7 +3655,7 @@ window.allHeroes =
         "color": "藍",
         "class": "牧師",
         "speed": "中等",
-        "skill": "公仔還擊",
+        "skill": "完美還擊",
         "types": [
             "3個目標反擊"
         ],
@@ -3711,7 +3711,7 @@ window.allHeroes =
         "color": "藍",
         "class": "牧師",
         "speed": "中等",
-        "skill": "玻璃還擊",
+        "skill": "完美還擊",
         "types": [
             "3個目標反擊",
             "冰系盟友反射狀態異常"
@@ -4186,7 +4186,7 @@ window.allHeroes =
         "color": "藍",
         "class": "僧侶",
         "speed": "慢速",
-        "skill": "不死毀滅者",
+        "skill": "不死刀客",
         "types": [
             "攻擊所有目標",
             "持續傷害疊加",
@@ -4466,7 +4466,7 @@ window.allHeroes =
         "color": "藍",
         "class": "盜賊",
         "speed": "中等",
-        "skill": "無情粉碎",
+        "skill": "錘擊粉碎",
         "types": [
             "攻擊3個目標",
             "3個目標攻擊增益"
@@ -4526,7 +4526,7 @@ window.allHeroes =
         "color": "藍",
         "class": "遊俠",
         "speed": "中等",
-        "skill": "樁柱粉碎",
+        "skill": "錘擊粉碎",
         "types": [
             "攻擊3個目標"
         ],
@@ -4585,7 +4585,7 @@ window.allHeroes =
         "color": "藍",
         "class": "野人",
         "speed": "中等",
-        "skill": "公仔強力粉碎",
+        "skill": "錘擊粉碎",
         "types": [
             "攻擊3個目標",
             "3個目標防禦降低"
@@ -4656,7 +4656,7 @@ window.allHeroes =
         "color": "藍",
         "class": "野人",
         "speed": "中等",
-        "skill": "玻璃粉碎",
+        "skill": "錘擊粉碎",
         "types": [
             "攻擊3個目標",
             "3個目標防禦降低"
@@ -4923,7 +4923,7 @@ window.allHeroes =
         "color": "藍",
         "class": "術士",
         "speed": "中等",
-        "skill": "祝福之人",
+        "skill": "祝福之釀",
         "types": [
             "治療者",
             "攻擊降低",
@@ -4987,7 +4987,7 @@ window.allHeroes =
         "color": "藍",
         "class": "野人",
         "speed": "中等",
-        "skill": "庇佑酒杯",
+        "skill": "祝福之釀",
         "types": [
             "治療者",
             "攻擊降低",
@@ -5055,7 +5055,7 @@ window.allHeroes =
         "color": "藍",
         "class": "巫師",
         "speed": "中等",
-        "skill": "公仔釀造",
+        "skill": "祝福之釀",
         "types": [
             "治療者",
             "攻擊增益",
@@ -5123,7 +5123,7 @@ window.allHeroes =
         "color": "藍",
         "class": "巫師",
         "speed": "中等",
-        "skill": "玻璃之釀",
+        "skill": "祝福之釀",
         "types": [
             "全體治療",
             "全體攻擊增益",
@@ -5878,7 +5878,7 @@ window.allHeroes =
         "color": "藍",
         "class": "德魯伊",
         "speed": "快速",
-        "skill": "淨化打擊",
+        "skill": "刺穿打擊",
         "types": [
             "攻擊單個目標",
             "全體淨化"
@@ -5938,7 +5938,7 @@ window.allHeroes =
         "color": "藍",
         "class": "盜賊",
         "speed": "快速",
-        "skill": "痛苦打擊",
+        "skill": "刺穿打擊",
         "types": [
             "攻擊單個目標",
             "全體增益免疫"
@@ -5998,7 +5998,7 @@ window.allHeroes =
         "color": "藍",
         "class": "騎士",
         "speed": "快速",
-        "skill": "公仔強力打擊",
+        "skill": "刺穿打擊",
         "types": [
             "攻擊單個目標",
             "單體驅散"
@@ -6069,7 +6069,7 @@ window.allHeroes =
         "color": "藍",
         "class": "騎士",
         "speed": "快速",
-        "skill": "玻璃打擊",
+        "skill": "刺穿打擊",
         "types": [
             "攻擊單個目標",
             "無視防禦",
@@ -6200,7 +6200,7 @@ window.allHeroes =
         "color": "藍",
         "class": "野人",
         "speed": "快速",
-        "skill": "大力神投",
+        "skill": "拋扔三叉戟",
         "types": [
             "攻擊3個目標",
             "攻擊增益"
@@ -6457,7 +6457,7 @@ window.allHeroes =
         "color": "藍",
         "class": "僧侶",
         "speed": "快速",
-        "skill": "水生舞步",
+        "skill": "魚骨刀",
         "types": [
             "攻擊2個目標",
             "防禦下降"
@@ -6661,7 +6661,7 @@ window.allHeroes =
         "color": "藍",
         "class": "僧侶",
         "speed": "中等",
-        "skill": "冰河韌性",
+        "skill": "冰雪復原力",
         "types": [
             "全體傷害分擔",
             "全體防禦增益",
@@ -6883,7 +6883,7 @@ window.allHeroes =
         "color": "藍",
         "class": "僧侶",
         "speed": "中等",
-        "skill": "聖湖頌歌",
+        "skill": "夏天頌歌",
         "types": [
             "全體淨化",
             "全體治療",
@@ -7013,7 +7013,7 @@ window.allHeroes =
         "color": "藍",
         "class": "盜賊",
         "speed": "快速",
-        "skill": "努賈里克之箭",
+        "skill": "英靈之箭",
         "types": [
             "攻擊3個目標",
             "3個目標法力削減",
@@ -7670,7 +7670,7 @@ window.allHeroes =
         "color": "藍",
         "class": "術士",
         "speed": "中等",
-        "skill": "深海儀式",
+        "skill": "神聖守護",
         "types": [
             "全體生命值加成",
             "全體法力持續恢復",
@@ -8061,7 +8061,7 @@ window.allHeroes =
         "color": "藍",
         "class": "野人",
         "speed": "中等",
-        "skill": "雅典娜之箭",
+        "skill": "雅典娜之弓",
         "types": [
             "攻擊3個目標",
             "3個目標防禦降低",
@@ -8213,7 +8213,7 @@ window.allHeroes =
         "color": "藍",
         "class": "盜賊",
         "speed": "潮汐",
-        "skill": "無光低語",
+        "skill": "無光深口",
         "types": [
             "持續傷害",
             "法力偷取"
@@ -9160,7 +9160,7 @@ window.allHeroes =
         "color": "藍",
         "class": "德魯伊",
         "speed": "魔法",
-        "skill": "花卉擺設",
+        "skill": "構造體增幅",
         "types": [
             "全體強化治療",
             "全體最大生命值降低",
@@ -9320,7 +9320,7 @@ window.allHeroes =
         "color": "藍",
         "class": "遊俠",
         "speed": "慢速",
-        "skill": "冰冷命令",
+        "skill": "萬眾歸心",
         "types": [
             "攻擊所有目標",
             "召喚者",
@@ -9694,7 +9694,7 @@ window.allHeroes =
         "color": "藍",
         "class": "戰士",
         "speed": "潮汐",
-        "skill": "海洋漩渦",
+        "skill": "潮汐漩渦",
         "types": [
             "攻擊所有目標",
             "全體持續傷害"
@@ -10046,7 +10046,7 @@ window.allHeroes =
             "受到傷害時獲得法力：",
             "* 此角色受到特殊技能或普通攻擊的直接傷害時，可獲得少量法力。",
             "* 每回合最多可獲得 10% 法力。",
-            "強化抵禦負面小兵效果：此角色對來自小兵和超級小兵的傷害與負面效果具有天生抗性。"
+            "強化抵禦負面小兵效果：此角色對来自小兵和超級小兵的傷害與負面效果免疫。"
         ],
         "family": "mahayoddha",
         "costume_id": 0,
@@ -10981,7 +10981,7 @@ window.allHeroes =
         "color": "藍",
         "class": "巫師",
         "speed": "中等",
-        "skill": "海洋苦難",
+        "skill": "浸滲苦難",
         "types": [
             "全體持續傷害"
         ],
@@ -11205,7 +11205,7 @@ window.allHeroes =
         "color": "藍",
         "class": "野人",
         "speed": "快速",
-        "skill": "怪力啃咬",
+        "skill": "龐大撕咬",
         "types": [
             "攻擊單個目標",
             "自我治療",
@@ -11413,7 +11413,7 @@ window.allHeroes =
         "color": "藍",
         "class": "戰士",
         "speed": "快速",
-        "skill": "准將的惡意",
+        "skill": "准將復仇",
         "types": [
             "攻擊單個目標",
             "彈射",
@@ -12639,7 +12639,7 @@ window.allHeroes =
         "color": "藍",
         "class": "僧侶",
         "speed": "中等",
-        "skill": "輕鬆謎語",
+        "skill": "難解之謎",
         "types": [
             "全體治療",
             "全體元素防禦增益",
@@ -13150,7 +13150,7 @@ window.allHeroes =
         "color": "藍",
         "class": "術士",
         "speed": "慢速",
-        "skill": "冰川爆炸",
+        "skill": "冰川粉碎",
         "types": [
             "攻擊所有目標",
             "全體防禦降低"
@@ -13210,7 +13210,7 @@ window.allHeroes =
         "color": "藍",
         "class": "牧師",
         "speed": "慢速",
-        "skill": "冰河漩渦",
+        "skill": "冰川粉碎",
         "types": [
             "攻擊所有目標",
             "全體攻擊降低"
@@ -13277,7 +13277,7 @@ window.allHeroes =
         "color": "藍",
         "class": "巫師",
         "speed": "慢速",
-        "skill": "粉碎者公仔",
+        "skill": "冰川粉碎",
         "types": [
             "攻擊所有目標",
             "全體防禦降低"
@@ -13348,7 +13348,7 @@ window.allHeroes =
         "color": "藍",
         "class": "巫師",
         "speed": "慢速",
-        "skill": "玻璃粉碎",
+        "skill": "冰川粉碎",
         "types": [
             "攻擊所有目標",
             "無視防禦",
@@ -14017,7 +14017,7 @@ window.allHeroes =
         "color": "藍",
         "class": "野人",
         "speed": "中等",
-        "skill": "愉悅苦難",
+        "skill": "喜悅之災",
         "types": [
             "召喚所有",
             "嘲諷",
@@ -14302,7 +14302,7 @@ window.allHeroes =
         "color": "藍",
         "class": "術士",
         "speed": "中等",
-        "skill": "變形者的欺騙",
+        "skill": "戲法師的惡作劇",
         "types": [
             "複製特殊技能",
             "攻擊單個目標"
@@ -14641,7 +14641,7 @@ window.allHeroes =
         "color": "藍",
         "class": "德魯伊",
         "speed": "快速",
-        "skill": "巨岩打擊",
+        "skill": "遠古打擊",
         "types": [
             "攻擊單個目標",
             "3個目標防禦降低"
@@ -14701,7 +14701,7 @@ window.allHeroes =
         "color": "藍",
         "class": "盜賊",
         "speed": "快速",
-        "skill": "地獄打擊",
+        "skill": "遠古打擊",
         "types": [
             "攻擊3個目標",
             "3個目標防禦降低"
@@ -14761,7 +14761,7 @@ window.allHeroes =
         "color": "藍",
         "class": "戰士",
         "speed": "快速",
-        "skill": "公仔打擊",
+        "skill": "遠古打擊",
         "types": [
             "攻擊單個目標",
             "3個目標防禦增益"
@@ -14832,7 +14832,7 @@ window.allHeroes =
         "color": "藍",
         "class": "戰士",
         "speed": "快速",
-        "skill": "玻璃打擊",
+        "skill": "遠古打擊",
         "types": [
             "攻擊單個目標",
             "無視防禦",
@@ -15034,7 +15034,7 @@ window.allHeroes =
         "color": "藍",
         "class": "野人",
         "speed": "快速",
-        "skill": "裂隙之刃",
+        "skill": "魯莽終結者",
         "types": [
             "攻擊所有目標",
             "自我法力生成降低"
@@ -15302,7 +15302,7 @@ window.allHeroes =
         "color": "藍",
         "class": "巫師",
         "speed": "慢速",
-        "skill": "刀劍之舞",
+        "skill": "精到操縱",
         "types": [
             "攻擊所有目標",
             "自我持續治療",
@@ -15456,7 +15456,7 @@ window.allHeroes =
         "color": "藍",
         "class": "牧師",
         "speed": "魔法",
-        "skill": "保存與冷凍",
+        "skill": "復滅並重",
         "types": [
             "蓄力",
             "全體治療",
@@ -15678,7 +15678,7 @@ window.allHeroes =
         "color": "藍",
         "class": "盜賊",
         "speed": "快速",
-        "skill": "葫蘆鼓鏈",
+        "skill": "鏈鎖打擊",
         "types": [
             "攻擊單個目標",
             "可能的額外攻擊",
@@ -16167,7 +16167,7 @@ window.allHeroes =
         "color": "藍",
         "class": "戰士",
         "speed": "快速",
-        "skill": "海星法杖",
+        "skill": "奪命闊劍",
         "types": [
             "攻擊所有目標",
             "全體防禦降低",
@@ -16311,7 +16311,7 @@ window.allHeroes =
         "color": "藍",
         "class": "盜賊",
         "speed": "快速",
-        "skill": "鯡魚驚喜",
+        "skill": "鯡魚轟擊",
         "types": [
             "攻擊單個目標",
             "隨機攻擊",
@@ -17064,7 +17064,7 @@ window.allHeroes =
         "color": "藍",
         "class": "牧師",
         "speed": "中等",
-        "skill": "創意之手",
+        "skill": "伸出援手",
         "types": [
             "全體治療",
             "全體持續治療",
@@ -17288,7 +17288,7 @@ window.allHeroes =
         "color": "藍",
         "class": "戰士",
         "speed": "快速",
-        "skill": "極地創傷",
+        "skill": "永恆創傷",
         "types": [
             "攻擊3個目標",
             "3個目標治療降低",
@@ -17944,7 +17944,7 @@ window.allHeroes =
         "color": "藍",
         "class": "野人",
         "speed": "中等",
-        "skill": "雲端斧頭",
+        "skill": "雲端大錘",
         "types": [
             "攻擊3個目標",
             "3個目標攻擊降低"
@@ -18004,7 +18004,7 @@ window.allHeroes =
         "color": "藍",
         "class": "戰士",
         "speed": "中等",
-        "skill": "恐懼之錘",
+        "skill": "雲端大錘",
         "types": [
             "攻擊3個目標",
             "3個目標攻擊降低"
@@ -18065,7 +18065,7 @@ window.allHeroes =
         "color": "藍",
         "class": "騎士",
         "speed": "中等",
-        "skill": "錘子公仔",
+        "skill": "雲端大錘",
         "types": [
             "攻擊3個目標",
             "3個目標攻擊降低"
@@ -18136,7 +18136,7 @@ window.allHeroes =
         "color": "藍",
         "class": "騎士",
         "speed": "中等",
-        "skill": "玻璃錘子",
+        "skill": "雲端大錘",
         "types": [
             "攻擊3個目標",
             "無視防禦",
@@ -18375,7 +18375,7 @@ window.allHeroes =
         "color": "藍",
         "class": "僧侶",
         "speed": "中等",
-        "skill": "暮光技巧",
+        "skill": "戲法",
         "types": [
             "賭徒",
             "全體最大生命值降低",
@@ -18539,7 +18539,7 @@ window.allHeroes =
         "color": "藍",
         "class": "遊俠",
         "speed": "飛速",
-        "skill": "巧妙背刺",
+        "skill": "復仇背刺",
         "types": [
             "攻擊單個目標",
             "躲藏"
@@ -19221,7 +19221,7 @@ window.allHeroes =
         "color": "藍",
         "class": "騎士",
         "speed": "中等",
-        "skill": "冰山浩劫",
+        "skill": "冰山粉碎",
         "types": [
             "攻擊3個目標",
             "持續傷害疊加",
@@ -19513,7 +19513,7 @@ window.allHeroes =
         "color": "藍",
         "class": "遊俠",
         "speed": "慢速",
-        "skill": "誅戮之棍",
+        "skill": "魔法鋒刃",
         "types": [
             "全體驅散",
             "全體淨化",
@@ -19653,7 +19653,7 @@ window.allHeroes =
         "color": "藍",
         "class": "盜賊",
         "speed": "中等",
-        "skill": "河牙",
+        "skill": "河之顎",
         "types": [
             "攻擊所有目標",
             "無視防禦",
@@ -20262,7 +20262,7 @@ window.allHeroes =
         "color": "藍",
         "class": "戰士",
         "speed": "快速",
-        "skill": "海洋攻勢",
+        "skill": "兩棲突擊",
         "types": [
             "攻擊3個目標",
             "3個目標持續傷害",
@@ -20411,7 +20411,7 @@ window.allHeroes =
         "color": "藍",
         "class": "術士",
         "speed": "潮汐",
-        "skill": "水晶擁抱",
+        "skill": "大海擁抱",
         "types": [
             "全體治療",
             "狀態異常重置",
@@ -20687,7 +20687,7 @@ window.allHeroes =
         "color": "藍",
         "class": "術士",
         "speed": "中等",
-        "skill": "冰凍結局",
+        "skill": "冰冷終結者",
         "types": [
             "攻擊單個目標",
             "自我法力生成增益"
@@ -20747,7 +20747,7 @@ window.allHeroes =
         "color": "藍",
         "class": "野人",
         "speed": "中等",
-        "skill": "冰河粉碎者",
+        "skill": "冰冷終結者",
         "types": [
             "攻擊3個目標",
             "法力削減者",
@@ -20815,7 +20815,7 @@ window.allHeroes =
         "color": "藍",
         "class": "騎士",
         "speed": "中等",
-        "skill": "公仔終結技",
+        "skill": "冰冷終結者",
         "types": [
             "攻擊3個目標"
         ],
@@ -20878,7 +20878,7 @@ window.allHeroes =
         "color": "藍",
         "class": "騎士",
         "speed": "中等",
-        "skill": "玻璃終結者",
+        "skill": "冰冷終結者",
         "types": [
             "攻擊3個目標",
             "無視防禦"
@@ -21249,7 +21249,7 @@ window.allHeroes =
         "color": "藍",
         "class": "牧師",
         "speed": "魔法",
-        "skill": "導航捲軸",
+        "skill": "均等卷軸",
         "types": [
             "蓄力",
             "召喚所有小兵",
@@ -22016,7 +22016,7 @@ window.allHeroes =
         "color": "藍",
         "class": "德魯伊",
         "speed": "快速",
-        "skill": "冰霜大鋤頭",
+        "skill": "冰霜大斧",
         "types": [
             "傷害單個目標",
             "若目標為火焰系則额外對2個目標造成傷害",
@@ -22599,7 +22599,7 @@ window.allHeroes =
         "color": "綠",
         "class": "巫師",
         "speed": "中等",
-        "skill": "寧靜之霧",
+        "skill": "平靜迷霧",
         "types": [
             "全體持續治療",
             "全體驅散免疫增益"
@@ -22659,7 +22659,7 @@ window.allHeroes =
         "color": "綠",
         "class": "德魯伊",
         "speed": "中等",
-        "skill": "公仔之霧",
+        "skill": "平靜迷霧",
         "types": [
             "全體治療",
             "全體防禦增益",
@@ -22727,7 +22727,7 @@ window.allHeroes =
         "color": "綠",
         "class": "德魯伊",
         "speed": "中等",
-        "skill": "玻璃迷霧",
+        "skill": "平靜迷霧",
         "types": [
             "全體治療",
             "全體元素反射",
@@ -22854,7 +22854,7 @@ window.allHeroes =
         "color": "綠",
         "class": "野人",
         "speed": "快速",
-        "skill": "粉碎射擊",
+        "skill": "糾纏射擊",
         "types": [
             "攻擊單個目標",
             "單體防禦降低"
@@ -22914,7 +22914,7 @@ window.allHeroes =
         "color": "綠",
         "class": "遊俠",
         "speed": "快速",
-        "skill": "公仔驚奇射擊",
+        "skill": "糾纏射擊",
         "types": [
             "攻擊單個目標",
             "單體攻擊降低"
@@ -22985,7 +22985,7 @@ window.allHeroes =
         "color": "綠",
         "class": "遊俠",
         "speed": "快速",
-        "skill": "玻璃箭",
+        "skill": "糾纏射擊",
         "types": [
             "攻擊單個目標",
             "無視防禦",
@@ -23108,7 +23108,7 @@ window.allHeroes =
         "color": "綠",
         "class": "牧師",
         "speed": "中等",
-        "skill": "叢林暴怒",
+        "skill": "狂戰士暴怒",
         "types": [
             "防禦降低"
         ],
@@ -23160,7 +23160,7 @@ window.allHeroes =
         "color": "綠",
         "class": "德魯伊",
         "speed": "中等",
-        "skill": "公仔之怒",
+        "skill": "狂戰士暴怒",
         "types": [
             "攻擊增益"
         ],
@@ -23216,7 +23216,7 @@ window.allHeroes =
         "color": "綠",
         "class": "德魯伊",
         "speed": "中等",
-        "skill": "玻璃之怒",
+        "skill": "狂戰士暴怒",
         "types": [
             "攻擊增益",
             "自然盟友反射狀態異常",
@@ -23410,7 +23410,7 @@ window.allHeroes =
         "color": "綠",
         "class": "戰士",
         "speed": "中等",
-        "skill": "四刃連擊",
+        "skill": "四刃連斬",
         "types": [
             "攻擊所有目標",
             "全體法力生成降低"
@@ -23470,7 +23470,7 @@ window.allHeroes =
         "color": "綠",
         "class": "盜賊",
         "speed": "中等",
-        "skill": "四連斬公仔",
+        "skill": "四刃連斬",
         "types": [
             "攻擊所有目標",
             "全體法力削減"
@@ -23537,7 +23537,7 @@ window.allHeroes =
         "color": "綠",
         "class": "盜賊",
         "speed": "中等",
-        "skill": "玻璃刃連斬",
+        "skill": "四刃連斬",
         "types": [
             "攻擊所有目標",
             "無視防禦",
@@ -23874,7 +23874,7 @@ window.allHeroes =
         "color": "綠",
         "class": "戰士",
         "speed": "慢速",
-        "skill": "豐富礦產",
+        "skill": "大豐收",
         "types": [],
         "skill_types": [
             "生命強化",
@@ -24208,7 +24208,7 @@ window.allHeroes =
         "color": "綠",
         "class": "德魯伊",
         "speed": "中等",
-        "skill": "獲得希望",
+        "skill": "信心滿滿",
         "types": [
             "治療者",
             "3個目標法力生成增益"
@@ -24268,7 +24268,7 @@ window.allHeroes =
         "color": "綠",
         "class": "僧侶",
         "speed": "中等",
-        "skill": "公仔信念",
+        "skill": "信心滿滿",
         "types": [
             "治療3個目標",
             "3個目標法力生成增益"
@@ -24332,7 +24332,7 @@ window.allHeroes =
         "color": "綠",
         "class": "僧侶",
         "speed": "中等",
-        "skill": "純淨信仰",
+        "skill": "信心滿滿",
         "types": [
             "治療3個目標",
             "3個目標法力生成增益",
@@ -24659,7 +24659,7 @@ window.allHeroes =
         "color": "綠",
         "class": "德魯伊",
         "speed": "慢速",
-        "skill": "園丁的妙法",
+        "skill": "長老的妙法",
         "types": [
             "復活者",
             "持續治療"
@@ -24899,7 +24899,7 @@ window.allHeroes =
         "color": "綠",
         "class": "僧侶",
         "speed": "中等",
-        "skill": "振奮速攻",
+        "skill": "錘擊飛躍",
         "types": [
             "攻擊3個目標",
             "3個目標防禦降低"
@@ -24959,7 +24959,7 @@ window.allHeroes =
         "color": "綠",
         "class": "遊俠",
         "speed": "中等",
-        "skill": "公仔猛攻",
+        "skill": "錘擊飛躍",
         "types": [
             "攻擊3個目標"
         ],
@@ -25022,7 +25022,7 @@ window.allHeroes =
         "color": "綠",
         "class": "遊俠",
         "speed": "中等",
-        "skill": "玻璃猛攻",
+        "skill": "錘擊飛躍",
         "types": [
             "攻擊3個目標",
             "無視防禦"
@@ -25343,7 +25343,7 @@ window.allHeroes =
         "color": "綠",
         "class": "騎士",
         "speed": "快速",
-        "skill": "亞特蘭蒂斯衝鋒",
+        "skill": "亞特蘭蒂斯長矛",
         "types": [
             "攻擊單個目標",
             "全體淨化"
@@ -26218,7 +26218,7 @@ window.allHeroes =
         "color": "綠",
         "class": "野人",
         "speed": "快速",
-        "skill": "暗影戳刺",
+        "skill": "暗影掃除",
         "types": [
             "攻擊單個目標",
             "法力削減",
@@ -26577,7 +26577,7 @@ window.allHeroes =
         "color": "綠",
         "class": "僧侶",
         "speed": "中等",
-        "skill": "禮物清單",
+        "skill": "禮物麻袋",
         "types": [
             "攻擊3個目標",
             "召喚3個小兵",
@@ -26715,7 +26715,7 @@ window.allHeroes =
         "color": "綠",
         "class": "戰士",
         "speed": "快速",
-        "skill": "俐落攻擊",
+        "skill": "刺穿打擊",
         "types": [
             "攻擊單個目標",
             "全體淨化"
@@ -26775,7 +26775,7 @@ window.allHeroes =
         "color": "綠",
         "class": "騎士",
         "speed": "快速",
-        "skill": "英勇打擊",
+        "skill": "刺穿打擊",
         "types": [
             "攻擊3個目標",
             "驅散3個目標的增益"
@@ -26842,7 +26842,7 @@ window.allHeroes =
         "color": "綠",
         "class": "德魯伊",
         "speed": "快速",
-        "skill": "公仔驚奇打擊",
+        "skill": "刺穿打擊",
         "types": [
             "攻擊單個目標",
             "驅散者"
@@ -26913,7 +26913,7 @@ window.allHeroes =
         "color": "綠",
         "class": "德魯伊",
         "speed": "快速",
-        "skill": "玻璃打擊",
+        "skill": "刺穿打擊",
         "types": [
             "攻擊單個目標",
             "全體攻擊降低",
@@ -27184,7 +27184,7 @@ window.allHeroes =
         "color": "綠",
         "class": "騎士",
         "speed": "慢速",
-        "skill": "強力猛擊",
+        "skill": "賦能猛擊",
         "types": [
             "攻擊所有目標",
             "攻擊增益",
@@ -27312,7 +27312,7 @@ window.allHeroes =
         "color": "綠",
         "class": "騎士",
         "speed": "中等",
-        "skill": "高蛋白食客",
+        "skill": "小兵捕食者",
         "types": [
             "偷取1個小兵",
             "攻擊單個目標",
@@ -27449,7 +27449,7 @@ window.allHeroes =
         "color": "綠",
         "class": "戰士",
         "speed": "快速",
-        "skill": "吸血鬼殺手",
+        "skill": "女巫殺手",
         "types": [
             "攻擊單個目標",
             "法力全滿時造成傷害 (單體)",
@@ -27576,7 +27576,7 @@ window.allHeroes =
         "color": "綠",
         "class": "騎士",
         "speed": "快速",
-        "skill": "雞蛋彈幕",
+        "skill": "魯莽連斬",
         "types": [
             "攻擊所有目標",
             "連鎖"
@@ -27829,7 +27829,7 @@ window.allHeroes =
         "color": "綠",
         "class": "術士",
         "speed": "中等",
-        "skill": "第二層皮",
+        "skill": "沼澤皮膚",
         "types": [
             "3個目標生命值加成",
             "元素防禦增益"
@@ -27890,7 +27890,7 @@ window.allHeroes =
         "color": "綠",
         "class": "德魯伊",
         "speed": "中等",
-        "skill": "鱗甲皮膚",
+        "skill": "沼澤皮膚",
         "types": [
             "3個目標持續治療",
             "3個目標特殊技能防禦增益"
@@ -27950,7 +27950,7 @@ window.allHeroes =
         "color": "綠",
         "class": "巫師",
         "speed": "中等",
-        "skill": "公仔皮膚",
+        "skill": "沼澤皮膚",
         "types": [
             "治療3個目標",
             "3個目標元素防禦增益"
@@ -28014,7 +28014,7 @@ window.allHeroes =
         "color": "綠",
         "class": "巫師",
         "speed": "中等",
-        "skill": "玻璃膚",
+        "skill": "沼澤皮膚",
         "types": [
             "治療3個目標",
             "自然盟友減益反射",
@@ -28217,7 +28217,7 @@ window.allHeroes =
         "color": "綠",
         "class": "遊俠",
         "speed": "慢速",
-        "skill": "巨力劈擊",
+        "skill": "巨力砍擊",
         "types": [
             "攻擊所有目標",
             "3個目標閃避增益"
@@ -28279,7 +28279,7 @@ window.allHeroes =
         "color": "綠",
         "class": "德魯伊",
         "speed": "慢速",
-        "skill": "巨力揮擊",
+        "skill": "巨力砍擊",
         "types": [
             "攻擊所有目標",
             "全體法力生成增益"
@@ -28339,7 +28339,7 @@ window.allHeroes =
         "color": "綠",
         "class": "野人",
         "speed": "慢速",
-        "skill": "公仔驚奇砍擊",
+        "skill": "巨力砍擊",
         "types": [
             "攻擊所有目標",
             "法力生成降低"
@@ -28410,7 +28410,7 @@ window.allHeroes =
         "color": "綠",
         "class": "野人",
         "speed": "慢速",
-        "skill": "玻璃砍擊",
+        "skill": "巨力砍擊",
         "types": [
             "攻擊所有目標",
             "無視防禦",
@@ -28609,7 +28609,7 @@ window.allHeroes =
         "color": "綠",
         "class": "巫師",
         "speed": "中等",
-        "skill": "毀滅迷霧",
+        "skill": "墮落塵霧",
         "types": [
             "持續治療",
             "防禦增益",
@@ -28673,7 +28673,7 @@ window.allHeroes =
         "color": "綠",
         "class": "術士",
         "speed": "中等",
-        "skill": "煙霧機器之霧",
+        "skill": "墮落塵霧",
         "types": [
             "治療者",
             "攻擊增益",
@@ -28737,7 +28737,7 @@ window.allHeroes =
         "color": "綠",
         "class": "德魯伊",
         "speed": "中等",
-        "skill": "公仔驚奇霧",
+        "skill": "墮落塵霧",
         "types": [
             "治療者",
             "防禦增益",
@@ -28805,7 +28805,7 @@ window.allHeroes =
         "color": "綠",
         "class": "德魯伊",
         "speed": "中等",
-        "skill": "彩繪玻璃迷霧",
+        "skill": "墮落塵霧",
         "types": [
             "全體治療",
             "自然盟友反射狀態異常",
@@ -28944,7 +28944,7 @@ window.allHeroes =
         "color": "綠",
         "class": "騎士",
         "speed": "中等",
-        "skill": "妖精讚歌",
+        "skill": "妖精之歌",
         "types": [
             "召喚者",
             "攻擊降低"
@@ -29097,7 +29097,7 @@ window.allHeroes =
         "color": "綠",
         "class": "僧侶",
         "speed": "潮汐",
-        "skill": "毒和弦",
+        "skill": "厭惡劈擊",
         "types": [
             "攻擊3個目標",
             "法力削減",
@@ -29472,7 +29472,7 @@ window.allHeroes =
         "color": "綠",
         "class": "巫師",
         "speed": "快速",
-        "skill": "震驚的消息",
+        "skill": "海盜利刃",
         "types": [
             "攻擊單個目標",
             "沈默",
@@ -29603,7 +29603,7 @@ window.allHeroes =
         "color": "綠",
         "class": "德魯伊",
         "speed": "中等",
-        "skill": "自然連結",
+        "skill": "神聖連接",
         "types": [
             "全體治療",
             "3個目標狀態異常免疫"
@@ -29804,7 +29804,7 @@ window.allHeroes =
         "color": "綠",
         "class": "牧師",
         "speed": "慢速",
-        "skill": "糖果藤蔓",
+        "skill": "匍匐藤蔓",
         "types": [
             "攻擊所有目標",
             "全體攻擊降低"
@@ -29864,7 +29864,7 @@ window.allHeroes =
         "color": "綠",
         "class": "巫師",
         "speed": "慢速",
-        "skill": "纏繞藤蔓",
+        "skill": "匍匐藤蔓",
         "types": [
             "攻擊所有目標",
             "全體防禦降低"
@@ -29924,7 +29924,7 @@ window.allHeroes =
         "color": "綠",
         "class": "術士",
         "speed": "慢速",
-        "skill": "公仔藤蔓",
+        "skill": "匍匐藤蔓",
         "types": [
             "攻擊所有目標",
             "全體攻擊降低"
@@ -29995,7 +29995,7 @@ window.allHeroes =
         "color": "綠",
         "class": "術士",
         "speed": "慢速",
-        "skill": "玻璃藤蔓",
+        "skill": "匍匐藤蔓",
         "types": [
             "攻擊所有目標",
             "無視防禦",
@@ -30208,7 +30208,7 @@ window.allHeroes =
         "color": "綠",
         "class": "野人",
         "speed": "中等",
-        "skill": "令人低落的取笑",
+        "skill": "致殘抓握",
         "types": [
             "攻擊單個目標",
             "沈默",
@@ -30349,7 +30349,7 @@ window.allHeroes =
         "color": "綠",
         "class": "盜賊",
         "speed": "中等",
-        "skill": "偽裝調查",
+        "skill": "公爵細察",
         "types": [
             "攻擊3個目標",
             "召喚3個惡魔",
@@ -30553,7 +30553,7 @@ window.allHeroes =
         "color": "綠",
         "class": "德魯伊",
         "speed": "慢速",
-        "skill": "青翠鏡",
+        "skill": "遠古明鏡",
         "types": [
             "攻擊所有目標",
             "全體元素反射",
@@ -30691,7 +30691,7 @@ window.allHeroes =
         "color": "綠",
         "class": "牧師",
         "speed": "慢速",
-        "skill": "仲夏夜白日夢",
+        "skill": "仲夏夜之夢",
         "types": [
             "復活者",
             "持續治療",
@@ -30907,7 +30907,7 @@ window.allHeroes =
         "color": "綠",
         "class": "德魯伊",
         "speed": "快速",
-        "skill": "精力牧歌",
+        "skill": "寓言羊駝民謠",
         "types": [
             "攻擊所有目標",
             "增益免疫狀態異常",
@@ -31280,7 +31280,7 @@ window.allHeroes =
         "color": "綠",
         "class": "戰士",
         "speed": "飛速",
-        "skill": "工匠射擊",
+        "skill": "穿刺射擊",
         "types": [
             "摧毀單個目標的小兵",
             "攻擊單個目標",
@@ -31425,7 +31425,7 @@ window.allHeroes =
         "color": "綠",
         "class": "騎士",
         "speed": "中等",
-        "skill": "永生懲罰者",
+        "skill": "永生殲滅者",
         "types": [
             "攻擊所有目標",
             "自我復活"
@@ -32520,7 +32520,7 @@ window.allHeroes =
         "color": "綠",
         "class": "野人",
         "speed": "慢速",
-        "skill": "海草連枷",
+        "skill": "幽魂枷鎖",
         "types": [
             "隨機攻擊5個目標",
             "攻擊降低疊加"
@@ -32736,7 +32736,7 @@ window.allHeroes =
         "color": "綠",
         "class": "牧師",
         "speed": "魔法",
-        "skill": "翠綠雙刃",
+        "skill": "雀躍雙刃",
         "types": [
             "蓄力",
             "攻擊單個目標",
@@ -33245,7 +33245,7 @@ window.allHeroes =
         "color": "綠",
         "class": "牧師",
         "speed": "快速",
-        "skill": "大蒜盤",
+        "skill": "毒芹茶",
         "types": [
             "攻擊所有目標",
             "無視防禦",
@@ -33389,7 +33389,7 @@ window.allHeroes =
         "color": "綠",
         "class": "術士",
         "speed": "中等",
-        "skill": "和諧團隊合作",
+        "skill": "完美的團隊合作",
         "types": [
             "摧毀單個目標的小兵",
             "攻擊單個目標",
@@ -33603,7 +33603,7 @@ window.allHeroes =
         "color": "綠",
         "class": "術士",
         "speed": "快速",
-        "skill": "慰藉之歌",
+        "skill": "誘惑之歌",
         "types": [
             "攻擊3個目標",
             "增益免疫"
@@ -33734,7 +33734,7 @@ window.allHeroes =
         "color": "綠",
         "class": "野人",
         "speed": "快速",
-        "skill": "天蝕之矛",
+        "skill": "新月長矛",
         "types": [
             "攻擊3個目標",
             "治療偷取"
@@ -33795,7 +33795,7 @@ window.allHeroes =
         "color": "綠",
         "class": "騎士",
         "speed": "快速",
-        "skill": "皎月之矛",
+        "skill": "新月長矛",
         "types": [
             "攻擊所有目標",
             "治療降低"
@@ -33855,7 +33855,7 @@ window.allHeroes =
         "color": "綠",
         "class": "牧師",
         "speed": "快速",
-        "skill": "卡通長矛",
+        "skill": "新月長矛",
         "types": [
             "攻擊3個目標",
             "自我治療"
@@ -33922,7 +33922,7 @@ window.allHeroes =
         "color": "綠",
         "class": "牧師",
         "speed": "快速",
-        "skill": "玻璃矛",
+        "skill": "新月長矛",
         "types": [
             "攻擊3個目標",
             "自我治療"
@@ -34461,7 +34461,7 @@ window.allHeroes =
         "color": "綠",
         "class": "盜賊",
         "speed": "快速",
-        "skill": "狩獵戰嚎",
+        "skill": "震撼戰嚎",
         "types": [
             "攻擊3個目標",
             "元素防禦降低",
@@ -35065,7 +35065,7 @@ window.allHeroes =
         "color": "綠",
         "class": "術士",
         "speed": "快速",
-        "skill": "電子戳擊",
+        "skill": "電馳刀刃",
         "types": [
             "攻擊3個目標",
             "淨化者",
@@ -35279,7 +35279,7 @@ window.allHeroes =
         "color": "綠",
         "class": "巫師",
         "speed": "快速",
-        "skill": "尖脆爆裂",
+        "skill": "碎裂之力",
         "types": [
             "攻擊所有目標",
             "防禦降低"
@@ -35651,7 +35651,7 @@ window.allHeroes =
         "color": "綠",
         "class": "騎士",
         "speed": "潮汐",
-        "skill": "龜甲岩石",
+        "skill": "龜甲翻滾",
         "types": [
             "摧毀小兵",
             "攻擊所有目標",
@@ -35801,7 +35801,7 @@ window.allHeroes =
         "color": "綠",
         "class": "騎士",
         "speed": "快速",
-        "skill": "耐力風箏",
+        "skill": "毀滅鏈枷",
         "types": [
             "攻擊單個目標",
             "自我持續治療"
@@ -36028,7 +36028,7 @@ window.allHeroes =
         "color": "綠",
         "class": "戰士",
         "speed": "潮汐",
-        "skill": "掃蕩衝刺",
+        "skill": "漩渦衝刺",
         "types": [
             "偷取單個目標法力",
             "攻擊單個目標",
@@ -36187,7 +36187,7 @@ window.allHeroes =
         "color": "綠",
         "class": "牧師",
         "speed": "快速",
-        "skill": "飛速包禮人員",
+        "skill": "快速板機指",
         "types": [
             "召喚所有",
             "盟友特殊技能時攻擊單個目標",
@@ -36623,7 +36623,7 @@ window.allHeroes =
         "color": "綠",
         "class": "盜賊",
         "speed": "中等",
-        "skill": "優雅煉金",
+        "skill": "堅定聚焦",
         "types": [
             "攻擊單個目標",
             "暴擊命中增益"
@@ -36911,7 +36911,7 @@ window.allHeroes =
         "color": "綠",
         "class": "野人",
         "speed": "中等",
-        "skill": "綠龍煉獄之刃",
+        "skill": "青龍偃月刀",
         "types": [
             "攻擊3個目標",
             "無視小兵",
@@ -37274,7 +37274,7 @@ window.allHeroes =
         "color": "綠",
         "class": "巫師",
         "speed": "慢速",
-        "skill": "加拉爾號角庇佑",
+        "skill": "加拉爾號角",
         "types": [
             "復活",
             "攻擊增益",
@@ -37398,7 +37398,7 @@ window.allHeroes =
         "color": "綠",
         "class": "遊俠",
         "speed": "慢速",
-        "skill": "小丑之怒",
+        "skill": "森林之怒",
         "types": [
             "攻擊所有目標",
             "全體攻擊降低"
@@ -37527,7 +37527,7 @@ window.allHeroes =
         "color": "綠",
         "class": "德魯伊",
         "speed": "慢速",
-        "skill": "公仔之怒",
+        "skill": "森林之怒",
         "types": [
             "攻擊所有目標",
             "全體攻擊降低"
@@ -37598,7 +37598,7 @@ window.allHeroes =
         "color": "綠",
         "class": "德魯伊",
         "speed": "慢速",
-        "skill": "碎片之怒",
+        "skill": "森林之怒",
         "types": [
             "攻擊所有目標",
             "無視防禦",
@@ -38181,7 +38181,7 @@ window.allHeroes =
         "color": "綠",
         "class": "術士",
         "speed": "快速",
-        "skill": "新月盾牌",
+        "skill": "日食護盾",
         "types": [
             "攻擊所有目標",
             "全體小兵閃避增益"
@@ -38248,7 +38248,7 @@ window.allHeroes =
         "color": "綠",
         "class": "牧師",
         "speed": "快速",
-        "skill": "月之盾",
+        "skill": "日食護盾",
         "types": [
             "攻擊所有目標",
             "全體小兵閃避增益"
@@ -38315,7 +38315,7 @@ window.allHeroes =
         "color": "綠",
         "class": "德魯伊",
         "speed": "快速",
-        "skill": "護盾公仔",
+        "skill": "日食護盾",
         "types": [
             "攻擊所有目標",
             "全體特殊技能防禦增益"
@@ -38386,7 +38386,7 @@ window.allHeroes =
         "color": "綠",
         "class": "德魯伊",
         "speed": "快速",
-        "skill": "玻璃護盾",
+        "skill": "日食護盾",
         "types": [
             "攻擊所有目標",
             "無視防禦",
@@ -38835,7 +38835,7 @@ window.allHeroes =
         "color": "綠",
         "class": "戰士",
         "speed": "中等",
-        "skill": "叛亂小夜曲",
+        "skill": "月光小夜曲",
         "types": [
             "攻擊3個目標",
             "3個目標持續傷害",
@@ -38966,7 +38966,7 @@ window.allHeroes =
         "color": "綠",
         "class": "戰士",
         "speed": "慢速",
-        "skill": "祝福之刃",
+        "skill": "魔力寶劍",
         "types": [
             "生命值加成",
             "召喚者"
@@ -39297,7 +39297,7 @@ window.allHeroes =
         "color": "綠",
         "class": "牧師",
         "speed": "快速",
-        "skill": "純淨射擊",
+        "skill": "完美一擊",
         "types": [
             "攻擊單個目標",
             "法力生成降低"
@@ -39357,7 +39357,7 @@ window.allHeroes =
         "color": "綠",
         "class": "德魯伊",
         "speed": "快速",
-        "skill": "完美射擊",
+        "skill": "完美一擊",
         "types": [
             "攻擊單個目標",
             "沈默者"
@@ -39417,7 +39417,7 @@ window.allHeroes =
         "color": "綠",
         "class": "遊俠",
         "speed": "快速",
-        "skill": "公仔射擊",
+        "skill": "完美一擊",
         "types": [
             "攻擊單個目標"
         ],
@@ -39480,7 +39480,7 @@ window.allHeroes =
         "color": "綠",
         "class": "遊俠",
         "speed": "快速",
-        "skill": "玻璃箭",
+        "skill": "完美一擊",
         "types": [
             "攻擊單個目標",
             "無視防禦"
@@ -39852,7 +39852,7 @@ window.allHeroes =
         "color": "綠",
         "class": "僧侶",
         "speed": "中等",
-        "skill": "森林指揮",
+        "skill": "仁義之師",
         "types": [
             "攻擊3個目標",
             "召喚者",
@@ -40001,7 +40001,7 @@ window.allHeroes =
         "color": "綠",
         "class": "牧師",
         "speed": "慢速",
-        "skill": "超凡充能",
+        "skill": "超凡法術",
         "types": [
             "自我完全移除",
             "幽靈形態",
@@ -40145,7 +40145,7 @@ window.allHeroes =
         "color": "綠",
         "class": "騎士",
         "speed": "快速",
-        "skill": "藍河守護者",
+        "skill": "秩序降臨",
         "types": [
             "攻擊所有目標",
             "防禦降低"
@@ -40912,7 +40912,7 @@ window.allHeroes =
         "color": "綠",
         "class": "僧侶",
         "speed": "慢速",
-        "skill": "超麥片粥",
+        "skill": "超級麥片粥",
         "types": [
             "復活者",
             "召喚者",
@@ -41342,7 +41342,7 @@ window.allHeroes =
         "color": "綠",
         "class": "僧侶",
         "speed": "快速",
-        "skill": "守護曲調",
+        "skill": "保護傳奇",
         "types": [
             "全體生命值加成",
             "全體火風暴護體",
@@ -41710,7 +41710,7 @@ window.allHeroes =
         "color": "綠",
         "class": "野人",
         "speed": "快速",
-        "skill": "新穎猛刺",
+        "skill": "英勇猛刺",
         "types": [
             "驅散者",
             "攻擊單個目標",
@@ -42143,7 +42143,7 @@ window.allHeroes =
         "color": "綠",
         "class": "僧侶",
         "speed": "快速",
-        "skill": "鏽蝕利刃",
+        "skill": "咆哮之劍",
         "types": [
             "攻擊3個目標",
             "自我力量提升",
@@ -42359,7 +42359,7 @@ window.allHeroes =
         "color": "綠",
         "class": "巫師",
         "speed": "中等",
-        "skill": "世界樹之根",
+        "skill": "世界樹堅果",
         "types": [
             "治療者",
             "改變棋盤"
@@ -42627,7 +42627,7 @@ window.allHeroes =
         "color": "綠",
         "class": "盜賊",
         "speed": "快速",
-        "skill": "音速注入箭",
+        "skill": "元素注入箭",
         "types": [
             "攻擊 (1/3/所有) 目標"
         ],
@@ -43202,7 +43202,7 @@ window.allHeroes =
         "color": "綠",
         "class": "騎士",
         "speed": "潮汐",
-        "skill": "對立的掠奪",
+        "skill": "難以抵擋的突襲",
         "types": [
             "攻擊所有目標",
             "召喚所有惡魔"
@@ -43872,7 +43872,7 @@ window.allHeroes =
         "color": "綠",
         "class": "騎士",
         "speed": "中等",
-        "skill": "凱恩神威",
+        "skill": "武術神威",
         "types": [
             "生命值加成",
             "泰坦攻擊增益"
@@ -44166,7 +44166,7 @@ window.allHeroes =
         "color": "綠",
         "class": "術士",
         "speed": "魔法",
-        "skill": "人馬釀造",
+        "skill": "人馬怪詩篇",
         "types": [
             "蓄力",
             "全體承受的狀態異常傷害增加",
@@ -44397,7 +44397,7 @@ window.allHeroes =
         "color": "綠",
         "class": "巫師",
         "speed": "中等",
-        "skill": "瘋狂茶會",
+        "skill": "瘋帽子先生",
         "types": [
             "攻擊3個目標",
             "增益偷取者",
@@ -44618,7 +44618,7 @@ window.allHeroes =
         "color": "綠",
         "class": "德魯伊",
         "speed": "快速",
-        "skill": "興盛成長",
+        "skill": "加速成長",
         "types": [
             "全體強化治療",
             "全體法力持續恢復",
@@ -44838,7 +44838,7 @@ window.allHeroes =
         "color": "綠",
         "class": "巫師",
         "speed": "快速",
-        "skill": "沼澤之詩",
+        "skill": "沼澤之歌",
         "types": [
             "攻擊3個目標",
             "命中降低"
@@ -45267,7 +45267,7 @@ window.allHeroes =
         "color": "綠",
         "class": "牧師",
         "speed": "中等",
-        "skill": "法力控制旋律",
+        "skill": "法力操控法杖",
         "types": [
             "攻擊單個目標",
             "攻擊全體 (冰)",
@@ -45646,7 +45646,7 @@ window.allHeroes =
         "color": "綠",
         "class": "騎士",
         "speed": "慢速",
-        "skill": "抹煞",
+        "skill": "沙暴",
         "types": [
             "攻擊所有目標",
             "全體持續傷害",
@@ -45865,7 +45865,7 @@ window.allHeroes =
         "color": "綠",
         "class": "術士",
         "speed": "快速",
-        "skill": "羽毛閃電",
+        "skill": "翠綠閃電",
         "types": [
             "驅散者",
             "攻擊所有目標",
@@ -46496,7 +46496,7 @@ window.allHeroes =
         "color": "紫",
         "class": "術士",
         "speed": "快速",
-        "skill": "先行施咒",
+        "skill": "縱身一躍",
         "types": [
             "攻擊3個目標",
             "3個目標閃避增益"
@@ -46621,7 +46621,7 @@ window.allHeroes =
         "color": "紫",
         "class": "術士",
         "speed": "快速",
-        "skill": "劇毒震顫",
+        "skill": "電子震顫",
         "types": [
             "攻擊單個目標",
             "單體持續傷害"
@@ -46682,7 +46682,7 @@ window.allHeroes =
         "color": "紫",
         "class": "巫師",
         "speed": "快速",
-        "skill": "公仔震顫",
+        "skill": "電子震顫",
         "types": [
             "攻擊單個目標"
         ],
@@ -46745,7 +46745,7 @@ window.allHeroes =
         "color": "紫",
         "class": "巫師",
         "speed": "快速",
-        "skill": "玻璃震顫",
+        "skill": "電子震顫",
         "types": [
             "攻擊單個目標",
             "無視防禦"
@@ -46934,7 +46934,7 @@ window.allHeroes =
         "color": "紫",
         "class": "盜賊",
         "speed": "中等",
-        "skill": "賦能連斬",
+        "skill": "二連斬",
         "types": [
             "攻擊單個目標",
             "彈射",
@@ -47238,7 +47238,7 @@ window.allHeroes =
         "color": "紫",
         "class": "盜賊",
         "speed": "慢速",
-        "skill": "狩獵輓歌",
+        "skill": "衰退輓歌",
         "types": [
             "防禦增益",
             "攻擊增益",
@@ -47854,7 +47854,7 @@ window.allHeroes =
         "color": "紫",
         "class": "術士",
         "speed": "慢速",
-        "skill": "劇毒詭計",
+        "skill": "劇毒陷阱",
         "types": [
             "全體持續傷害"
         ],
@@ -47911,7 +47911,7 @@ window.allHeroes =
         "color": "紫",
         "class": "戰士",
         "speed": "慢速",
-        "skill": "公仔陷阱",
+        "skill": "劇毒陷阱",
         "types": [
             "攻擊所有目標",
             "全體持續傷害"
@@ -47983,7 +47983,7 @@ window.allHeroes =
         "color": "紫",
         "class": "戰士",
         "speed": "慢速",
-        "skill": "玻璃陷阱",
+        "skill": "劇毒陷阱",
         "types": [
             "攻擊所有目標",
             "無視防禦",
@@ -48178,7 +48178,7 @@ window.allHeroes =
         "color": "紫",
         "class": "戰士",
         "speed": "中等",
-        "skill": "流血推力",
+        "skill": "流血戳擊",
         "types": [
             "攻擊3個目標",
             "自我治療"
@@ -48238,7 +48238,7 @@ window.allHeroes =
         "color": "紫",
         "class": "騎士",
         "speed": "中等",
-        "skill": "公仔戳擊",
+        "skill": "流血戳擊",
         "types": [
             "攻擊單個目標",
             "自我治療"
@@ -48305,7 +48305,7 @@ window.allHeroes =
         "color": "紫",
         "class": "騎士",
         "speed": "中等",
-        "skill": "玻璃戳擊",
+        "skill": "流血戳擊",
         "types": [
             "攻擊單個目標",
             "無視防禦",
@@ -48432,7 +48432,7 @@ window.allHeroes =
         "color": "紫",
         "class": "牧師",
         "speed": "中等",
-        "skill": "水蛭之鋸",
+        "skill": "水蛭之星",
         "types": [
             "攻擊單個目標",
             "偷取3個目標法力"
@@ -48493,7 +48493,7 @@ window.allHeroes =
         "color": "紫",
         "class": "戰士",
         "speed": "中等",
-        "skill": "公仔星星",
+        "skill": "水蛭之星",
         "types": [
             "攻擊單個目標",
             "自我治療"
@@ -48560,7 +48560,7 @@ window.allHeroes =
         "color": "紫",
         "class": "戰士",
         "speed": "中等",
-        "skill": "玻璃星星",
+        "skill": "水蛭之星",
         "types": [
             "攻擊單個目標",
             "無視防禦",
@@ -48754,7 +48754,7 @@ window.allHeroes =
         "color": "紫",
         "class": "盜賊",
         "speed": "快速",
-        "skill": "淨化敲擊",
+        "skill": "刺穿一擊",
         "types": [
             "攻擊單個目標",
             "全體淨化"
@@ -48814,7 +48814,7 @@ window.allHeroes =
         "color": "紫",
         "class": "騎士",
         "speed": "快速",
-        "skill": "公仔打擊",
+        "skill": "刺穿一擊",
         "types": [
             "攻擊單個目標",
             "全體驅散"
@@ -48885,7 +48885,7 @@ window.allHeroes =
         "color": "紫",
         "class": "騎士",
         "speed": "快速",
-        "skill": "玻璃一擊",
+        "skill": "刺穿一擊",
         "types": [
             "攻擊單個目標",
             "無視防禦",
@@ -49159,7 +49159,7 @@ window.allHeroes =
         "color": "紫",
         "class": "戰士",
         "speed": "中等",
-        "skill": "木乃伊打擊",
+        "skill": "木乃伊斬擊",
         "types": [
             "攻擊3個目標"
         ],
@@ -49286,7 +49286,7 @@ window.allHeroes =
         "color": "紫",
         "class": "巫師",
         "speed": "快速",
-        "skill": "野鬼",
+        "skill": "幽靈",
         "types": [
             "自我完全移除",
             "幽靈形態",
@@ -49497,7 +49497,7 @@ window.allHeroes =
         "color": "紫",
         "class": "術士",
         "speed": "中等",
-        "skill": "盛裝打扮！",
+        "skill": "整理乾淨！",
         "types": [
             "全體驅散",
             "全體淨化",
@@ -49772,7 +49772,7 @@ window.allHeroes =
         "color": "紫",
         "class": "盜賊",
         "speed": "快速",
-        "skill": "剃刀微笑",
+        "skill": "粲然一笑",
         "types": [
             "重新部署",
             "全體持續傷害"
@@ -49959,7 +49959,7 @@ window.allHeroes =
         "color": "紫",
         "class": "術士",
         "speed": "中等",
-        "skill": "致命還擊",
+        "skill": "完美還擊",
         "types": [
             "全體反擊"
         ],
@@ -50011,7 +50011,7 @@ window.allHeroes =
         "color": "紫",
         "class": "德魯伊",
         "speed": "中等",
-        "skill": "精準還擊",
+        "skill": "完美還擊",
         "types": [
             "3個目標反擊",
             "反擊時獲得法力",
@@ -50071,7 +50071,7 @@ window.allHeroes =
         "color": "紫",
         "class": "騎士",
         "speed": "中等",
-        "skill": "公仔精彩還擊",
+        "skill": "完美還擊",
         "types": [
             "3個目標反擊"
         ],
@@ -50127,7 +50127,7 @@ window.allHeroes =
         "color": "紫",
         "class": "騎士",
         "speed": "中等",
-        "skill": "玻璃還擊",
+        "skill": "完美還擊",
         "types": [
             "3個目標反擊",
             "全體元素異常反射"
@@ -50386,7 +50386,7 @@ window.allHeroes =
         "color": "紫",
         "class": "德魯伊",
         "speed": "中等",
-        "skill": "夜綻煙塵",
+        "skill": "夜林花粉",
         "types": [
             "攻擊3個目標"
         ],
@@ -51136,7 +51136,7 @@ window.allHeroes =
         "color": "紫",
         "class": "牧師",
         "speed": "中等",
-        "skill": "脈衝爆裂",
+        "skill": "奧術爆裂",
         "types": [
             "攻擊3個目標",
             "莽夫亂拳"
@@ -51263,7 +51263,7 @@ window.allHeroes =
         "color": "紫",
         "class": "術士",
         "speed": "中等",
-        "skill": "深處的詛咒",
+        "skill": "深淵刀疤",
         "types": [
             "全體持續傷害",
             "全體法力降低"
@@ -51383,7 +51383,7 @@ window.allHeroes =
         "color": "紫",
         "class": "遊俠",
         "speed": "中等",
-        "skill": "重生",
+        "skill": "淨化",
         "types": [
             "全體持續治療",
             "全體攻擊增益",
@@ -51451,7 +51451,7 @@ window.allHeroes =
         "color": "紫",
         "class": "僧侶",
         "speed": "中等",
-        "skill": "變身",
+        "skill": "淨化",
         "types": [
             "全體生命值加成",
             "全體防禦增益",
@@ -51519,7 +51519,7 @@ window.allHeroes =
         "color": "紫",
         "class": "牧師",
         "speed": "中等",
-        "skill": "公仔化",
+        "skill": "淨化",
         "types": [
             "全體治療",
             "全體防禦增益",
@@ -51591,7 +51591,7 @@ window.allHeroes =
         "color": "紫",
         "class": "牧師",
         "speed": "中等",
-        "skill": "玻璃化",
+        "skill": "淨化",
         "types": [
             "全體治療",
             "暗黑系盟友反射減益",
@@ -51797,7 +51797,7 @@ window.allHeroes =
         "color": "紫",
         "class": "牧師",
         "speed": "中等",
-        "skill": "墮落之霾",
+        "skill": "墮落塵霧",
         "types": [
             "全體持續治療",
             "全體增益免疫",
@@ -51865,7 +51865,7 @@ window.allHeroes =
         "color": "紫",
         "class": "僧侶",
         "speed": "中等",
-        "skill": "墮落迷霧",
+        "skill": "墮落塵霧",
         "types": [
             "全體持續治療",
             "全體狀態異常免疫",
@@ -51933,7 +51933,7 @@ window.allHeroes =
         "color": "紫",
         "class": "術士",
         "speed": "中等",
-        "skill": "公仔迷霧",
+        "skill": "墮落塵霧",
         "types": [
             "全體治療",
             "全體防禦增益",
@@ -52001,7 +52001,7 @@ window.allHeroes =
         "color": "紫",
         "class": "術士",
         "speed": "中等",
-        "skill": "彩繪玻璃迷霧",
+        "skill": "墮落塵霧",
         "types": [
             "全體治療",
             "暗黑系盟友反射減益",
@@ -52203,7 +52203,7 @@ window.allHeroes =
         "color": "紫",
         "class": "野人",
         "speed": "潮汐",
-        "skill": "極限野炊",
+        "skill": "關鍵戰術",
         "types": [
             "泰坦攻擊增益",
             "暴擊增益"
@@ -52596,7 +52596,7 @@ window.allHeroes =
         "color": "紫",
         "class": "騎士",
         "speed": "中等",
-        "skill": "粉碎交響",
+        "skill": "錘擊粉碎",
         "types": [
             "攻擊所有目標",
             "全體防禦降低"
@@ -52656,7 +52656,7 @@ window.allHeroes =
         "color": "紫",
         "class": "牧師",
         "speed": "中等",
-        "skill": "優雅粉碎",
+        "skill": "錘擊粉碎",
         "types": [
             "攻擊3個目標",
             "3個目標最大生命值降低"
@@ -52716,7 +52716,7 @@ window.allHeroes =
         "color": "紫",
         "class": "遊俠",
         "speed": "中等",
-        "skill": "公仔粉碎機",
+        "skill": "錘擊粉碎",
         "types": [
             "攻擊3個目標",
             "3個目標防禦降低"
@@ -52787,7 +52787,7 @@ window.allHeroes =
         "color": "紫",
         "class": "遊俠",
         "speed": "中等",
-        "skill": "玻璃粉碎",
+        "skill": "錘擊粉碎",
         "types": [
             "攻擊3個目標",
             "無視防禦",
@@ -53073,7 +53073,7 @@ window.allHeroes =
         "color": "紫",
         "class": "牧師",
         "speed": "中等",
-        "skill": "虛空護盾",
+        "skill": "幽冥護盾",
         "types": [
             "全體治療",
             "移除3個目標的狀態異常"
@@ -53315,7 +53315,7 @@ window.allHeroes =
         "color": "紫",
         "class": "術士",
         "speed": "魔法",
-        "skill": "暗黑震波",
+        "skill": "祕法震波",
         "types": [
             "蓄力",
             "全體攻擊降低",
@@ -53553,7 +53553,7 @@ window.allHeroes =
         "color": "紫",
         "class": "騎士",
         "speed": "非常慢",
-        "skill": "黑暗王國的騎兵帽",
+        "skill": "黑暗立方王國",
         "types": [
             "攻擊5個目標",
             "最大生命值降低",
@@ -53918,7 +53918,7 @@ window.allHeroes =
         "color": "紫",
         "class": "戰士",
         "speed": "中等",
-        "skill": "胡狼印記",
+        "skill": "阿努比斯印記",
         "types": [
             "貪婪",
             "全體持續傷害",
@@ -54065,7 +54065,7 @@ window.allHeroes =
         "color": "紫",
         "class": "騎士",
         "speed": "中等",
-        "skill": "烘焙師法棍",
+        "skill": "巫師之刃",
         "types": [
             "攻擊3個目標",
             "傷害全體生命值加成",
@@ -54444,7 +54444,7 @@ window.allHeroes =
         "color": "紫",
         "class": "德魯伊",
         "speed": "快速",
-        "skill": "蘭花與玫瑰",
+        "skill": "輕巧快速",
         "types": [
             "攻擊所有目標",
             "閃避增益"
@@ -54604,7 +54604,7 @@ window.allHeroes =
         "color": "紫",
         "class": "術士",
         "speed": "魔法",
-        "skill": "法力詐術魔杖",
+        "skill": "法力操控魔杖",
         "types": [
             "攻擊單個目標",
             "敵人特殊技能時降低4個敵人法力",
@@ -54837,7 +54837,7 @@ window.allHeroes =
         "color": "紫",
         "class": "牧師",
         "speed": "快速",
-        "skill": "夢之幽靈",
+        "skill": "黃昏幽靈",
         "types": [
             "召喚者",
             "抵抗小兵",
@@ -55562,7 +55562,7 @@ window.allHeroes =
         "color": "紫",
         "class": "術士",
         "speed": "快速",
-        "skill": "脈衝星打擊",
+        "skill": "冰霜之刺",
         "types": [
             "攻擊單個目標",
             "減少3個目標增益持續時間",
@@ -56077,7 +56077,7 @@ window.allHeroes =
         "color": "紫",
         "class": "牧師",
         "speed": "快速",
-        "skill": "女士之花",
+        "skill": "閉月羞花",
         "types": [
             "治療者",
             "召喚者"
@@ -56210,7 +56210,7 @@ window.allHeroes =
         "color": "紫",
         "class": "遊俠",
         "speed": "中等",
-        "skill": "劇毒閃電",
+        "skill": "震駭閃電",
         "types": [
             "攻擊單個目標",
             "3個目標持續傷害",
@@ -56275,7 +56275,7 @@ window.allHeroes =
         "color": "紫",
         "class": "野人",
         "speed": "中等",
-        "skill": "暗黑閃電",
+        "skill": "震駭閃電",
         "types": [
             "攻擊3個目標",
             "3個目標元素防禦降低"
@@ -56342,7 +56342,7 @@ window.allHeroes =
         "color": "紫",
         "class": "盜賊",
         "speed": "中等",
-        "skill": "公仔閃電",
+        "skill": "震駭閃電",
         "types": [
             "攻擊單個目標",
             "3個目標元素防禦增益",
@@ -56417,7 +56417,7 @@ window.allHeroes =
         "color": "紫",
         "class": "盜賊",
         "speed": "中等",
-        "skill": "玻璃閃電",
+        "skill": "震駭閃電",
         "types": [
             "攻擊單個目標",
             "無視防禦",
@@ -56555,7 +56555,7 @@ window.allHeroes =
         "color": "紫",
         "class": "盜賊",
         "speed": "快速",
-        "skill": "致盲知識",
+        "skill": "致盲智慧",
         "types": [
             "攻擊3個目標",
             "命中降低"
@@ -57453,7 +57453,7 @@ window.allHeroes =
         "color": "紫",
         "class": "術士",
         "speed": "快速",
-        "skill": "渡鴉看守",
+        "skill": "渡鴉警備",
         "types": [
             "召喚者",
             "閃避增益"
@@ -58002,7 +58002,7 @@ window.allHeroes =
         "color": "紫",
         "class": "僧侶",
         "speed": "慢速",
-        "skill": "記憶操控",
+        "skill": "法力操控",
         "types": [
             "全體法力削減",
             "全體法力增加",
@@ -58213,7 +58213,7 @@ window.allHeroes =
         "color": "紫",
         "class": "騎士",
         "speed": "快速",
-        "skill": "黑豹之吼",
+        "skill": "黑豹之眼",
         "types": [
             "攻擊所有目標",
             "防禦降低"
@@ -58426,7 +58426,7 @@ window.allHeroes =
         "color": "紫",
         "class": "盜賊",
         "speed": "快速",
-        "skill": "美味偶像",
+        "skill": "腐朽中的偶像",
         "types": [
             "攻擊3個目標",
             "3個惡魔"
@@ -58644,7 +58644,7 @@ window.allHeroes =
         "color": "紫",
         "class": "牧師",
         "speed": "中等",
-        "skill": "惡意重壓",
+        "skill": "冥界粉碎",
         "types": [
             "攻擊所有目標",
             "法力偷取"
@@ -58869,7 +58869,7 @@ window.allHeroes =
         "color": "紫",
         "class": "騎士",
         "speed": "中等",
-        "skill": "幼蟲處方簽",
+        "skill": "寵物幼蟲",
         "types": [
             "召喚者"
         ],
@@ -59233,7 +59233,7 @@ window.allHeroes =
         "color": "紫",
         "class": "德魯伊",
         "speed": "快速",
-        "skill": "蛾族復仇者",
+        "skill": "側翼攻擊",
         "types": [
             "攻擊2個目標",
             "持續傷害"
@@ -59537,7 +59537,7 @@ window.allHeroes =
         "color": "紫",
         "class": "騎士",
         "speed": "飛速",
-        "skill": "甲殼蟲來襲",
+        "skill": "摧毀打擊",
         "types": [
             "單體驅散",
             "攻擊單個目標",
@@ -59670,7 +59670,7 @@ window.allHeroes =
         "color": "紫",
         "class": "戰士",
         "speed": "慢速",
-        "skill": "沉睡擊敗",
+        "skill": "徹底鎮壓",
         "types": [
             "攻擊所有目標",
             "改變棋盤"
@@ -59872,7 +59872,7 @@ window.allHeroes =
         "color": "紫",
         "class": "戰士",
         "speed": "中等",
-        "skill": "聖甲蟲閃電戰",
+        "skill": "聖甲蟲轟炸",
         "types": [
             "攻擊3個目標",
             "召喚3個爆炸惡魔"
@@ -60008,7 +60008,7 @@ window.allHeroes =
         "color": "紫",
         "class": "戰士",
         "speed": "中等",
-        "skill": "流血大錘",
+        "skill": "流血利刃",
         "types": [
             "攻擊單個目標",
             "攻擊增益"
@@ -60139,7 +60139,7 @@ window.allHeroes =
         "color": "紫",
         "class": "騎士",
         "speed": "飛速",
-        "skill": "午夜重擊",
+        "skill": "午夜之擊",
         "types": [
             "攻擊單個目標"
         ],
@@ -60267,7 +60267,7 @@ window.allHeroes =
         "color": "紫",
         "class": "德魯伊",
         "speed": "中等",
-        "skill": "英勇胡蘿蔔",
+        "skill": "魯莽揮擊",
         "types": [
             "攻擊所有目標"
         ],
@@ -60688,7 +60688,7 @@ window.allHeroes =
         "color": "紫",
         "class": "巫師",
         "speed": "快速",
-        "skill": "不死咒語",
+        "skill": "深淵咒語",
         "types": [
             "攻擊單個目標",
             "單體完全移除",
@@ -60998,7 +60998,7 @@ window.allHeroes =
         "color": "紫",
         "class": "術士",
         "speed": "中等",
-        "skill": "狂怒風暴",
+        "skill": "羽翼風暴",
         "types": [
             "全體驅散",
             "攻擊所有目標",
@@ -61139,7 +61139,7 @@ window.allHeroes =
         "color": "紫",
         "class": "戰士",
         "speed": "慢速",
-        "skill": "毀滅衝鋒",
+        "skill": "暴虐衝鋒",
         "types": [
             "攻擊所有目標",
             "召喚所有傭兵惡魔",
@@ -61728,7 +61728,7 @@ window.allHeroes =
         "color": "紫",
         "class": "德魯伊",
         "speed": "慢速",
-        "skill": "僵屍祈願",
+        "skill": "僵屍庇佑",
         "types": [
             "攻擊所有目標",
             "生命值加成",
@@ -62027,7 +62027,7 @@ window.allHeroes =
         "color": "紫",
         "class": "戰士",
         "speed": "潮汐",
-        "skill": "破碎靈魂",
+        "skill": "粉碎心靈",
         "types": [
             "攻擊3個目標",
             "單體莽夫亂拳",
@@ -62253,7 +62253,7 @@ window.allHeroes =
         "color": "紫",
         "class": "戰士",
         "speed": "中等",
-        "skill": "翡翠潮",
+        "skill": "黑潮",
         "types": [
             "攻擊所有目標",
             "元素攻擊增益",
@@ -62899,7 +62899,7 @@ window.allHeroes =
         "color": "紫",
         "class": "盜賊",
         "speed": "快速",
-        "skill": "造反與推翻",
+        "skill": "劈裂反擊",
         "types": [
             "攻擊所有目標",
             "33%反擊"
@@ -62959,7 +62959,7 @@ window.allHeroes =
         "color": "紫",
         "class": "戰士",
         "speed": "快速",
-        "skill": "吸血鬼劈擊",
+        "skill": "劈裂反擊",
         "types": [
             "攻擊3個目標",
             "3個目標反擊",
@@ -63023,7 +63023,7 @@ window.allHeroes =
         "color": "紫",
         "class": "野人",
         "speed": "快速",
-        "skill": "卡通反擊",
+        "skill": "劈裂反擊",
         "types": [
             "攻擊3個目標",
             "單體反擊"
@@ -63094,7 +63094,7 @@ window.allHeroes =
         "color": "紫",
         "class": "野人",
         "speed": "快速",
-        "skill": "劈擊與反射",
+        "skill": "劈裂反擊",
         "types": [
             "攻擊3個目標",
             "無視防禦",
@@ -63711,7 +63711,7 @@ window.allHeroes =
         "color": "紫",
         "class": "騎士",
         "speed": "潮汐",
-        "skill": "深淵秩序",
+        "skill": "深淵召集",
         "types": [
             "召喚3個小兵",
             "嘲諷",
@@ -64063,7 +64063,7 @@ window.allHeroes =
         "color": "紫",
         "class": "僧侶",
         "speed": "慢速",
-        "skill": "震駭通牒",
+        "skill": "雷電通牒",
         "types": [
             "攻擊所有目標",
             "攻擊降低"
@@ -64123,7 +64123,7 @@ window.allHeroes =
         "color": "紫",
         "class": "德魯伊",
         "speed": "慢速",
-        "skill": "閃電最後通牒",
+        "skill": "雷電通牒",
         "types": [
             "攻擊所有目標",
             "莽夫亂拳"
@@ -64183,7 +64183,7 @@ window.allHeroes =
         "color": "紫",
         "class": "術士",
         "speed": "慢速",
-        "skill": "公仔通牒",
+        "skill": "雷電通牒",
         "types": [
             "攻擊所有目標"
         ],
@@ -64246,7 +64246,7 @@ window.allHeroes =
         "color": "紫",
         "class": "術士",
         "speed": "慢速",
-        "skill": "玻璃通牒",
+        "skill": "雷電通牒",
         "types": [
             "攻擊所有目標",
             "無視防禦"
@@ -64570,7 +64570,7 @@ window.allHeroes =
         "color": "紫",
         "class": "騎士",
         "speed": "中等",
-        "skill": "紳士的變形",
+        "skill": "騙徒的悔悟",
         "types": [
             "攻擊部分目標",
             "詭異"
@@ -64696,7 +64696,7 @@ window.allHeroes =
         "color": "紫",
         "class": "德魯伊",
         "speed": "中等",
-        "skill": "海之詛咒",
+        "skill": "馬尾藻詛咒",
         "types": [
             "攻擊3個目標",
             "治療降低",
@@ -64825,7 +64825,7 @@ window.allHeroes =
         "color": "紫",
         "class": "戰士",
         "speed": "快速",
-        "skill": "恐懼之擊",
+        "skill": "死亡打擊",
         "types": [
             "攻擊單個目標"
         ],
@@ -64877,7 +64877,7 @@ window.allHeroes =
         "color": "紫",
         "class": "盜賊",
         "speed": "快速",
-        "skill": "駭人打擊",
+        "skill": "死亡打擊",
         "types": [
             "摧毀單個目標的小兵",
             "攻擊單個目標",
@@ -64944,7 +64944,7 @@ window.allHeroes =
         "color": "紫",
         "class": "巫師",
         "speed": "快速",
-        "skill": "公仔打擊",
+        "skill": "死亡打擊",
         "types": [
             "攻擊單個目標",
             "單體持續傷害"
@@ -65016,7 +65016,7 @@ window.allHeroes =
         "color": "紫",
         "class": "巫師",
         "speed": "快速",
-        "skill": "玻璃打擊",
+        "skill": "死亡打擊",
         "types": [
             "攻擊單個目標",
             "單體持續傷害"
@@ -65327,7 +65327,7 @@ window.allHeroes =
         "color": "紫",
         "class": "巫師",
         "speed": "殺手",
-        "skill": "頭顱的詛咒",
+        "skill": "幽魂詛咒",
         "types": [
             "攻擊所有目標",
             "召喚所有惡魔",
@@ -65557,7 +65557,7 @@ window.allHeroes =
         "color": "紫",
         "class": "野人",
         "speed": "快速",
-        "skill": "驅魔箭",
+        "skill": "咒語之箭",
         "types": [
             "驅散者",
             "攻擊單個目標",
@@ -65709,7 +65709,7 @@ window.allHeroes =
         "color": "紫",
         "class": "牧師",
         "speed": "慢速",
-        "skill": "暴君軍團",
+        "skill": "暗黑軍團",
         "types": [
             "召喚者",
             "全體持續傷害",
@@ -66143,7 +66143,7 @@ window.allHeroes =
         "color": "紫",
         "class": "騎士",
         "speed": "慢速",
-        "skill": "恐懼謎語",
+        "skill": "沮喪謎語",
         "types": [
             "攻擊單個目標",
             "連鎖",
@@ -66662,7 +66662,7 @@ window.allHeroes =
         "color": "紫",
         "class": "巫師",
         "speed": "快速",
-        "skill": "不死召喚",
+        "skill": "骷髏召喚",
         "types": [
             "攻擊3個目標",
             "召喚者"
@@ -67109,7 +67109,7 @@ window.allHeroes =
         "color": "紫",
         "class": "巫師",
         "speed": "潮汐",
-        "skill": "邪惡虹吸",
+        "skill": "邪惡糾纏",
         "types": [
             "攻擊所有目標",
             "3個目標反擊",
@@ -67412,7 +67412,7 @@ window.allHeroes =
         "color": "紫",
         "class": "德魯伊",
         "speed": "中等",
-        "skill": "礁石爆炸",
+        "skill": "深淵爆裂",
         "types": [
             "攻擊所有目標",
             "全體元素反射",
@@ -67854,7 +67854,7 @@ window.allHeroes =
         "color": "紫",
         "class": "盜賊",
         "speed": "飛速",
-        "skill": "暗黑遺產",
+        "skill": "悲傷之夜",
         "types": [
             "攻擊3個目標",
             "3個目標持續傷害",
@@ -68521,7 +68521,7 @@ window.allHeroes =
         "color": "紫",
         "class": "巫師",
         "speed": "中等",
-        "skill": "誘騙魔法",
+        "skill": "古老魔法",
         "types": [
             "持續治療",
             "法力持續恢復",
@@ -69147,7 +69147,7 @@ window.allHeroes =
         "color": "紅",
         "class": "遊俠",
         "speed": "快速",
-        "skill": "銳爪",
+        "skill": "銳不可當",
         "types": [
             "攻擊3個目標",
             "單體法力削減"
@@ -69207,7 +69207,7 @@ window.allHeroes =
         "color": "紅",
         "class": "野人",
         "speed": "快速",
-        "skill": "公仔切割",
+        "skill": "銳不可當",
         "types": [
             "攻擊單個目標",
             "單體法力削減"
@@ -69274,7 +69274,7 @@ window.allHeroes =
         "color": "紅",
         "class": "野人",
         "speed": "快速",
-        "skill": "玻璃切擊",
+        "skill": "銳不可當",
         "types": [
             "攻擊單個目標",
             "單體法力削減",
@@ -69412,7 +69412,7 @@ window.allHeroes =
         "color": "紅",
         "class": "盜賊",
         "speed": "潮汐",
-        "skill": "密探的小型望遠鏡",
+        "skill": "燃燒標槍",
         "types": [
             "攻擊3個目標",
             "元素防禦降低"
@@ -69900,7 +69900,7 @@ window.allHeroes =
         "color": "紅",
         "class": "野人",
         "speed": "中等",
-        "skill": "惡毒利斧",
+        "skill": "疫病斧",
         "types": [
             "攻擊所有目標",
             "法力削減"
@@ -70076,7 +70076,7 @@ window.allHeroes =
         "color": "紅",
         "class": "術士",
         "speed": "中等",
-        "skill": "疾風福音",
+        "skill": "疾風禱告",
         "types": [
             "全體持續治療",
             "全體攻擊增益"
@@ -70136,7 +70136,7 @@ window.allHeroes =
         "color": "紅",
         "class": "牧師",
         "speed": "中等",
-        "skill": "祈禱者公仔",
+        "skill": "疾風禱告",
         "types": [
             "全體治療",
             "全體防禦增益"
@@ -70200,7 +70200,7 @@ window.allHeroes =
         "color": "紅",
         "class": "牧師",
         "speed": "中等",
-        "skill": "玻璃祈禱者",
+        "skill": "疾風禱告",
         "types": [
             "全體治療",
             "全體火焰系盟友反射減益"
@@ -70336,7 +70336,7 @@ window.allHeroes =
         "color": "紅",
         "class": "騎士",
         "speed": "慢速",
-        "skill": "矮人補充",
+        "skill": "矮人興旺",
         "types": [
             "隨機攻擊8次",
             "全體增益持續時間重置"
@@ -70469,7 +70469,7 @@ window.allHeroes =
         "color": "紅",
         "class": "巫師",
         "speed": "慢速",
-        "skill": "燒灼光線",
+        "skill": "火球",
         "types": [
             "攻擊所有目標",
             "全體持續傷害"
@@ -70530,7 +70530,7 @@ window.allHeroes =
         "color": "紅",
         "class": "術士",
         "speed": "慢速",
-        "skill": "公仔球",
+        "skill": "火球",
         "types": [
             "攻擊所有目標",
             "全體持續傷害"
@@ -70602,7 +70602,7 @@ window.allHeroes =
         "color": "紅",
         "class": "術士",
         "speed": "慢速",
-        "skill": "玻璃火球",
+        "skill": "火球",
         "types": [
             "攻擊所有目標",
             "全體持續傷害"
@@ -71001,7 +71001,7 @@ window.allHeroes =
         "color": "紅",
         "class": "盜賊",
         "speed": "快速",
-        "skill": "毀滅打擊",
+        "skill": "燃燒打擊",
         "types": [
             "攻擊單個目標",
             "單體持續傷害"
@@ -71062,7 +71062,7 @@ window.allHeroes =
         "color": "紅",
         "class": "野人",
         "speed": "快速",
-        "skill": "公仔火擊",
+        "skill": "燃燒打擊",
         "types": [
             "攻擊單個目標",
             "單體持續傷害"
@@ -71134,7 +71134,7 @@ window.allHeroes =
         "color": "紅",
         "class": "野人",
         "speed": "快速",
-        "skill": "玻璃打擊",
+        "skill": "燃燒打擊",
         "types": [
             "攻擊單個目標",
             "無視防禦",
@@ -71468,7 +71468,7 @@ window.allHeroes =
         "color": "紅",
         "class": "野人",
         "speed": "快速",
-        "skill": "鈦角攻擊",
+        "skill": "鹿角攻擊",
         "types": [
             "攻擊單個目標",
             "單體法力削減",
@@ -71918,7 +71918,7 @@ window.allHeroes =
         "color": "紅",
         "class": "德魯伊",
         "speed": "慢速",
-        "skill": "吸血蠕蟲",
+        "skill": "長尾鮫蟲",
         "types": [
             "召喚所有惡魔"
         ],
@@ -72041,7 +72041,7 @@ window.allHeroes =
         "color": "紅",
         "class": "野人",
         "speed": "慢速",
-        "skill": "不屈之劍",
+        "skill": "不屈保衛者",
         "types": [
             "攻擊所有目標",
             "全體最大生命值持續降低"
@@ -72249,7 +72249,7 @@ window.allHeroes =
         "color": "紅",
         "class": "僧侶",
         "speed": "中等",
-        "skill": "戰爭盛宴",
+        "skill": "戰嚎",
         "types": [
             "全體治療",
             "全體攻擊增益"
@@ -72309,7 +72309,7 @@ window.allHeroes =
         "color": "紅",
         "class": "牧師",
         "speed": "中等",
-        "skill": "戰歌",
+        "skill": "戰嚎",
         "types": [
             "全體強化持續治療",
             "全體攻擊增益"
@@ -72371,7 +72371,7 @@ window.allHeroes =
         "color": "紅",
         "class": "戰士",
         "speed": "中等",
-        "skill": "公仔吼",
+        "skill": "戰嚎",
         "types": [
             "全體治療",
             "全體攻擊增益"
@@ -72435,7 +72435,7 @@ window.allHeroes =
         "color": "紅",
         "class": "戰士",
         "speed": "中等",
-        "skill": "玻璃戰嚎",
+        "skill": "戰嚎",
         "types": [
             "全體治療",
             "全體攻擊增益",
@@ -72695,7 +72695,7 @@ window.allHeroes =
         "color": "紅",
         "class": "騎士",
         "speed": "慢速",
-        "skill": "火焰突擊",
+        "skill": "烈火風暴",
         "types": [
             "攻擊所有目標",
             "全體持續傷害"
@@ -72756,7 +72756,7 @@ window.allHeroes =
         "color": "紅",
         "class": "遊俠",
         "speed": "慢速",
-        "skill": "火焰風暴",
+        "skill": "烈火風暴",
         "types": [
             "攻擊3個目標",
             "3個目標元素防禦降低"
@@ -72823,7 +72823,7 @@ window.allHeroes =
         "color": "紅",
         "class": "戰士",
         "speed": "慢速",
-        "skill": "公仔風暴",
+        "skill": "烈火風暴",
         "types": [
             "攻擊所有目標",
             "全體持續傷害"
@@ -72895,7 +72895,7 @@ window.allHeroes =
         "color": "紅",
         "class": "戰士",
         "speed": "慢速",
-        "skill": "彩繪玻璃火焰",
+        "skill": "烈火風暴",
         "types": [
             "攻擊所有目標",
             "無視防禦",
@@ -73085,7 +73085,7 @@ window.allHeroes =
         "color": "紅",
         "class": "戰士",
         "speed": "中等",
-        "skill": "烈火復仇",
+        "skill": "野性復仇",
         "types": [
             "反擊"
         ],
@@ -73209,7 +73209,7 @@ window.allHeroes =
         "color": "紅",
         "class": "巫師",
         "speed": "中等",
-        "skill": "粉碎算盤",
+        "skill": "錘擊粉碎",
         "types": [
             "摧毀所有小兵",
             "攻擊所有目標"
@@ -73272,7 +73272,7 @@ window.allHeroes =
         "color": "紅",
         "class": "牧師",
         "speed": "中等",
-        "skill": "粉碎火腿",
+        "skill": "錘擊粉碎",
         "types": [
             "全體驅散",
             "攻擊所有目標"
@@ -73332,7 +73332,7 @@ window.allHeroes =
         "color": "紅",
         "class": "野人",
         "speed": "中等",
-        "skill": "粉碎者公仔",
+        "skill": "錘擊粉碎",
         "types": [
             "攻擊3個目標",
             "3個目標防禦降低"
@@ -73404,7 +73404,7 @@ window.allHeroes =
         "color": "紅",
         "class": "野人",
         "speed": "中等",
-        "skill": "玻璃粉碎",
+        "skill": "錘擊粉碎",
         "types": [
             "攻擊3個目標",
             "無視防禦",
@@ -73746,7 +73746,7 @@ window.allHeroes =
         "color": "紅",
         "class": "騎士",
         "speed": "快速",
-        "skill": "打擊支援",
+        "skill": "斬擊支援",
         "types": [
             "攻擊單個目標",
             "傷害治療"
@@ -73873,7 +73873,7 @@ window.allHeroes =
         "color": "紅",
         "class": "德魯伊",
         "speed": "快速",
-        "skill": "燃火之舞",
+        "skill": "烈火之舞",
         "types": [
             "全體持續傷害"
         ],
@@ -73931,7 +73931,7 @@ window.allHeroes =
         "color": "紅",
         "class": "術士",
         "speed": "快速",
-        "skill": "火焰之舞",
+        "skill": "烈火之舞",
         "types": [
             "攻擊3個目標",
             "3個目標持續傷害"
@@ -73998,7 +73998,7 @@ window.allHeroes =
         "color": "紅",
         "class": "盜賊",
         "speed": "快速",
-        "skill": "公仔之舞",
+        "skill": "烈火之舞",
         "types": [
             "攻擊單個目標",
             "單體持續傷害"
@@ -74070,7 +74070,7 @@ window.allHeroes =
         "color": "紅",
         "class": "盜賊",
         "speed": "快速",
-        "skill": "玻璃舞",
+        "skill": "烈火之舞",
         "types": [
             "攻擊單個目標",
             "無視防禦",
@@ -74207,7 +74207,7 @@ window.allHeroes =
         "color": "紅",
         "class": "戰士",
         "speed": "中等",
-        "skill": "天鵝之歌劍",
+        "skill": "烈焰之劍",
         "types": [
             "攻擊3個目標",
             "3個目標持續傷害"
@@ -74412,7 +74412,7 @@ window.allHeroes =
         "color": "紅",
         "class": "僧侶",
         "speed": "中等",
-        "skill": "半身人的智慧",
+        "skill": "半身機智",
         "types": [
             "反擊",
             "攻擊增益"
@@ -74913,7 +74913,7 @@ window.allHeroes =
         "color": "紅",
         "class": "戰士",
         "speed": "快速",
-        "skill": "梅森之怒",
+        "skill": "失智狂怒",
         "types": [
             "攻擊所有目標",
             "全體持續傷害"
@@ -75038,7 +75038,7 @@ window.allHeroes =
         "color": "紅",
         "class": "遊俠",
         "speed": "快速",
-        "skill": "利刃毒液",
+        "skill": "利刃之雨",
         "types": [
             "攻擊3個目標",
             "3個目標持續傷害",
@@ -75107,7 +75107,7 @@ window.allHeroes =
         "color": "紅",
         "class": "術士",
         "speed": "快速",
-        "skill": "舞池刀刃",
+        "skill": "利刃之雨",
         "types": [
             "攻擊3個目標",
             "3個目標攻擊降低"
@@ -75168,7 +75168,7 @@ window.allHeroes =
         "color": "紅",
         "class": "盜賊",
         "speed": "快速",
-        "skill": "公仔彈幕",
+        "skill": "利刃之雨",
         "types": [
             "攻擊3個目標",
             "3個目標攻擊降低"
@@ -75239,7 +75239,7 @@ window.allHeroes =
         "color": "紅",
         "class": "盜賊",
         "speed": "快速",
-        "skill": "玻璃之雨",
+        "skill": "利刃之雨",
         "types": [
             "攻擊3個目標",
             "無視防禦",
@@ -75569,7 +75569,7 @@ window.allHeroes =
         "color": "紅",
         "class": "野人",
         "speed": "中等",
-        "skill": "奧蘇東",
+        "skill": "防守技巧",
         "types": [
             "攻擊單個目標",
             "單體反擊",
@@ -75692,7 +75692,7 @@ window.allHeroes =
         "color": "紅",
         "class": "德魯伊",
         "speed": "慢速",
-        "skill": "火山巨石",
+        "skill": "岩漿巨石",
         "types": [
             "攻擊3個目標"
         ],
@@ -75950,7 +75950,7 @@ window.allHeroes =
         "color": "紅",
         "class": "牧師",
         "speed": "中等",
-        "skill": "精純釀造",
+        "skill": "美妙盛宴",
         "types": [
             "泰坦攻擊增益",
             "持續治療"
@@ -76142,7 +76142,7 @@ window.allHeroes =
         "color": "紅",
         "class": "盜賊",
         "speed": "中等",
-        "skill": "望族之刃",
+        "skill": "望族之劍",
         "types": [
             "攻擊單個目標",
             "召喚者 (單體)",
@@ -76616,7 +76616,7 @@ window.allHeroes =
         "color": "紅",
         "class": "巫師",
         "speed": "飛速",
-        "skill": "劫血",
+        "skill": "吸血鬼詛咒",
         "types": [
             "摧毀3個目標的小兵",
             "攻擊3個目標",
@@ -76755,6 +76755,78 @@ window.allHeroes =
         ]
     },
     {
+        "name": "安德烈·德·克萊蒙 (Andre de Clermont)",
+        "fancy_name": "遭背叛的聖殿騎士",
+        "AetherPower": "回復",
+        "color": "紅",
+        "class": "騎士",
+        "speed": "慢速",
+        "skill": "聖殿騎士誓言",
+        "types": [
+            "攻擊3個目標",
+            "掩護1個單位",
+            "3個目標元素防禦增益"
+        ],
+        "skill_types": [
+            "範圍攻擊 (打3)",
+            "傷害分攤",
+            "防禦增益",
+            "攻擊增益"
+        ],
+        "source": "傳奇召喚 - 月英",
+        "Release date": "2026-01-01",
+        "specialId": "oath_of_templar",
+        "passiveSkills": [
+            "healthboost_on_enemy_special",
+            "resist_defense_modifier_debuffs"
+        ],
+        "heroId": "fire_god_andre",
+        "star": 5,
+        "power": 1168,
+        "attack": 1233,
+        "defense": 1264,
+        "health": 1845,
+        "effects": [
+            "對目標及附近敵人造成 390% 傷害。",
+            "為一個隨機盟友提供掩護，持續5個回合。此效果無法被驅散。（在受掩護期間，盟友不會受到特殊攻擊或普通攻擊的傷害。進行掩護的角色會承受對盟友所造成的50%傷害。）",
+            "施法者與附近盟友獲得+89%冰雪系防禦，持續5個回合。",
+            "元素鏈給予所有烈火盟友+20%暴擊率，持續4個回合。此效果無法驅散。"
+        ],
+        "passives": [
+            "抵禦防禦異常：此角色對影響防禦的狀態異常和負面效果疊加免疫。不適用於影響元素防禦的狀態異常。",
+            "敵人施展特殊技能時提升生命值：當敵人施放特殊技能時，此角色會有 50% 機率提升自身生命值 100 點。"
+        ],
+        "family": "hotm2026",
+        "costume_id": 0,
+        "originalIndex": 1104,
+        "lb1": {
+            "attack": 1329,
+            "defense": 1363,
+            "health": 1989,
+            "power": 1250
+        },
+        "lb2": {
+            "attack": 1521,
+            "defense": 1559,
+            "health": 2275,
+            "power": 1412
+        },
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "攻擊：範圍"
+                ]
+            },
+            {
+                "增益效果": [
+                    "防禦-傷害分擔",
+                    "防禦-防禦↑：冰霜",
+                    "攻擊-暴擊率↑"
+                ]
+            }
+        ]
+    },
+    {
         "name": "安迪杰 (Andy Jay)",
         "fancy_name": "陽光海岸狂歡者",
         "AetherPower": "異常免疫",
@@ -76797,7 +76869,7 @@ window.allHeroes =
         ],
         "family": "beachparty",
         "costume_id": 0,
-        "originalIndex": 1104,
+        "originalIndex": 1105,
         "lb1": {
             "attack": 1325,
             "defense": 1287,
@@ -76862,7 +76934,7 @@ window.allHeroes =
         ],
         "family": "hotm2019",
         "costume_id": 0,
-        "originalIndex": 1105,
+        "originalIndex": 1106,
         "lb1": {
             "attack": 752,
             "defense": 854,
@@ -76923,7 +76995,7 @@ window.allHeroes =
         ],
         "family": "masquerade",
         "costume_id": 0,
-        "originalIndex": 1106,
+        "originalIndex": 1107,
         "lb1": {
             "attack": 956,
             "defense": 925,
@@ -76997,7 +77069,7 @@ window.allHeroes =
         ],
         "family": "faun",
         "costume_id": 0,
-        "originalIndex": 1107,
+        "originalIndex": 1108,
         "lb1": {
             "attack": 1249,
             "defense": 1189,
@@ -77065,7 +77137,7 @@ window.allHeroes =
         "passives": [],
         "family": "hotm2017",
         "costume_id": 0,
-        "originalIndex": 1108,
+        "originalIndex": 1109,
         "lb1": {
             "attack": 710,
             "defense": 799,
@@ -77099,7 +77171,7 @@ window.allHeroes =
         "color": "紅",
         "class": "德魯伊",
         "speed": "中等",
-        "skill": "阿瑞斯緘印",
+        "skill": "阿瑞斯之力",
         "types": [
             "3個目標攻擊增益",
             "3個目標反擊",
@@ -77136,7 +77208,7 @@ window.allHeroes =
         ],
         "family": "hotm2017",
         "costume_id": 1,
-        "originalIndex": 1109,
+        "originalIndex": 1110,
         "lb1": {
             "attack": 737,
             "defense": 765,
@@ -77223,7 +77295,7 @@ window.allHeroes =
         ],
         "family": "mimic",
         "costume_id": 0,
-        "originalIndex": 1110,
+        "originalIndex": 1111,
         "lb1": {
             "attack": 1367,
             "defense": 1367,
@@ -77304,7 +77376,7 @@ window.allHeroes =
         ],
         "family": "super_elemental",
         "costume_id": 0,
-        "originalIndex": 1111,
+        "originalIndex": 1112,
         "lb1": {
             "attack": 1221,
             "defense": 1152,
@@ -77375,7 +77447,7 @@ window.allHeroes =
         "passives": [],
         "family": "villains",
         "costume_id": 0,
-        "originalIndex": 1112,
+        "originalIndex": 1113,
         "lb1": {
             "attack": 845,
             "defense": 821,
@@ -77462,7 +77534,7 @@ window.allHeroes =
         ],
         "family": "ninja",
         "costume_id": 0,
-        "originalIndex": 1113,
+        "originalIndex": 1114,
         "lb1": {
             "attack": 1427,
             "defense": 1229,
@@ -77523,7 +77595,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 0,
-        "originalIndex": 1114,
+        "originalIndex": 1115,
         "lb1": {
             "attack": 854,
             "defense": 654,
@@ -77557,7 +77629,7 @@ window.allHeroes =
         "color": "紅",
         "class": "騎士",
         "speed": "慢速",
-        "skill": "火山燃燄",
+        "skill": "火山噴發",
         "types": [
             "攻擊3個目標",
             "3個目標持續傷害"
@@ -77586,7 +77658,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 1,
-        "originalIndex": 1115,
+        "originalIndex": 1116,
         "lb1": {
             "attack": 843,
             "defense": 681,
@@ -77625,7 +77697,7 @@ window.allHeroes =
         "color": "紅",
         "class": "戰士",
         "speed": "慢速",
-        "skill": "火山爆炸",
+        "skill": "火山噴發",
         "types": [
             "攻擊3個目標",
             "持續傷害"
@@ -77653,7 +77725,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 2,
-        "originalIndex": 1116,
+        "originalIndex": 1117,
         "lb1": {
             "attack": 865,
             "defense": 677,
@@ -77692,7 +77764,7 @@ window.allHeroes =
         "color": "紅",
         "class": "野人",
         "speed": "慢速",
-        "skill": "爆炸公仔",
+        "skill": "火山噴發",
         "types": [
             "攻擊所有目標",
             "全體持續傷害"
@@ -77725,7 +77797,7 @@ window.allHeroes =
         ],
         "family": "classic",
         "costume_id": 3,
-        "originalIndex": 1117,
+        "originalIndex": 1118,
         "lb1": {
             "attack": 821,
             "defense": 734,
@@ -77764,7 +77836,7 @@ window.allHeroes =
         "color": "紅",
         "class": "野人",
         "speed": "慢速",
-        "skill": "玻璃火山",
+        "skill": "火山噴發",
         "types": [
             "攻擊所有目標",
             "全體持續傷害"
@@ -77797,7 +77869,7 @@ window.allHeroes =
         ],
         "family": "classic",
         "costume_id": 4,
-        "originalIndex": 1118,
+        "originalIndex": 1119,
         "lb1": {
             "attack": 823,
             "defense": 732,
@@ -77868,7 +77940,7 @@ window.allHeroes =
         "passives": [],
         "family": "muspelheim",
         "costume_id": 0,
-        "originalIndex": 1119,
+        "originalIndex": 1120,
         "lb1": {
             "attack": 870,
             "defense": 750,
@@ -77898,7 +77970,7 @@ window.allHeroes =
         "color": "紅",
         "class": "僧侶",
         "speed": "中等",
-        "skill": "堅忍鬥士",
+        "skill": "無敵鬥士",
         "types": [
             "攻擊單個目標",
             "自我生命值加成",
@@ -77932,7 +78004,7 @@ window.allHeroes =
         "passives": [],
         "family": "muspelheim",
         "costume_id": 1,
-        "originalIndex": 1120,
+        "originalIndex": 1121,
         "lb1": {
             "attack": 832,
             "defense": 781,
@@ -77999,7 +78071,7 @@ window.allHeroes =
         ],
         "family": "mighty_pet",
         "costume_id": 0,
-        "originalIndex": 1121,
+        "originalIndex": 1122,
         "lb1": {
             "attack": 963,
             "defense": 879,
@@ -78076,7 +78148,7 @@ window.allHeroes =
         ],
         "family": "vegetable",
         "costume_id": 0,
-        "originalIndex": 1122,
+        "originalIndex": 1123,
         "lb1": {
             "attack": 1394,
             "defense": 1356,
@@ -78152,7 +78224,7 @@ window.allHeroes =
         ],
         "family": "bear",
         "costume_id": 0,
-        "originalIndex": 1123,
+        "originalIndex": 1124,
         "lb1": {
             "attack": 1090,
             "defense": 1221,
@@ -78232,7 +78304,7 @@ window.allHeroes =
         ],
         "family": "beowulf",
         "costume_id": 0,
-        "originalIndex": 1124,
+        "originalIndex": 1125,
         "lb1": {
             "attack": 1394,
             "defense": 1194,
@@ -78311,7 +78383,7 @@ window.allHeroes =
         ],
         "family": "mahayoddha",
         "costume_id": 0,
-        "originalIndex": 1125,
+        "originalIndex": 1126,
         "lb1": {
             "attack": 1431,
             "defense": 1332,
@@ -78385,7 +78457,7 @@ window.allHeroes =
         ],
         "family": "pirate",
         "costume_id": 0,
-        "originalIndex": 1126,
+        "originalIndex": 1127,
         "lb1": {
             "attack": 1018,
             "defense": 1085,
@@ -78452,7 +78524,7 @@ window.allHeroes =
         "passives": [],
         "family": "knight",
         "costume_id": 0,
-        "originalIndex": 1127,
+        "originalIndex": 1128,
         "lb1": {
             "attack": 659,
             "defense": 912,
@@ -78482,7 +78554,7 @@ window.allHeroes =
         "color": "紅",
         "class": "巫師",
         "speed": "中等",
-        "skill": "毫髮無傷",
+        "skill": "一點皮外傷",
         "types": [
             "全體傷害降至1",
             "嘲諷",
@@ -78512,7 +78584,7 @@ window.allHeroes =
         "passives": [],
         "family": "knight",
         "costume_id": 1,
-        "originalIndex": 1128,
+        "originalIndex": 1129,
         "lb1": {
             "attack": 672,
             "defense": 901,
@@ -78579,7 +78651,7 @@ window.allHeroes =
         ],
         "family": "construct",
         "costume_id": 0,
-        "originalIndex": 1129,
+        "originalIndex": 1130,
         "lb1": {
             "attack": 954,
             "defense": 1081,
@@ -78649,7 +78721,7 @@ window.allHeroes =
         ],
         "family": "jungle_hunter",
         "costume_id": 0,
-        "originalIndex": 1130,
+        "originalIndex": 1131,
         "lb1": {
             "attack": 983,
             "defense": 907,
@@ -78725,7 +78797,7 @@ window.allHeroes =
         ],
         "family": "construct",
         "costume_id": 0,
-        "originalIndex": 1131,
+        "originalIndex": 1132,
         "lb1": {
             "attack": 1012,
             "defense": 974,
@@ -78793,7 +78865,7 @@ window.allHeroes =
         "passives": [],
         "family": "pirate",
         "costume_id": 0,
-        "originalIndex": 1132,
+        "originalIndex": 1133,
         "lb1": {
             "attack": 783,
             "defense": 757,
@@ -78855,7 +78927,7 @@ window.allHeroes =
         ],
         "family": "abyss",
         "costume_id": 0,
-        "originalIndex": 1133,
+        "originalIndex": 1134,
         "lb1": {
             "attack": 885,
             "defense": 810,
@@ -78888,7 +78960,7 @@ window.allHeroes =
         "color": "紅",
         "class": "巫師",
         "speed": "快速",
-        "skill": "機械師的彎刀",
+        "skill": "船長彎刀",
         "types": [
             "攻擊單個目標"
         ],
@@ -78922,7 +78994,7 @@ window.allHeroes =
         ],
         "family": "abyss",
         "costume_id": 1,
-        "originalIndex": 1134,
+        "originalIndex": 1135,
         "lb1": {
             "attack": 896,
             "defense": 814,
@@ -78990,7 +79062,7 @@ window.allHeroes =
         ],
         "family": "musketeer",
         "costume_id": 0,
-        "originalIndex": 1135,
+        "originalIndex": 1136,
         "lb1": {
             "attack": 950,
             "defense": 936,
@@ -79057,7 +79129,7 @@ window.allHeroes =
         ],
         "family": "masquerade",
         "costume_id": 0,
-        "originalIndex": 1136,
+        "originalIndex": 1137,
         "lb1": {
             "attack": 976,
             "defense": 950,
@@ -79135,7 +79207,7 @@ window.allHeroes =
         ],
         "family": "wild_cat",
         "costume_id": 0,
-        "originalIndex": 1137,
+        "originalIndex": 1138,
         "lb1": {
             "attack": 1511,
             "defense": 1289,
@@ -79216,7 +79288,7 @@ window.allHeroes =
         ],
         "family": "astral_dwarfs",
         "costume_id": 0,
-        "originalIndex": 1138,
+        "originalIndex": 1139,
         "lb1": {
             "attack": 1307,
             "defense": 1300,
@@ -79292,7 +79364,7 @@ window.allHeroes =
         ],
         "family": "opera",
         "costume_id": 0,
-        "originalIndex": 1139,
+        "originalIndex": 1140,
         "lb1": {
             "attack": 1243,
             "defense": 1087,
@@ -79369,7 +79441,7 @@ window.allHeroes =
         ],
         "family": "slime",
         "costume_id": 0,
-        "originalIndex": 1140,
+        "originalIndex": 1141,
         "lb1": {
             "attack": 1194,
             "defense": 1218,
@@ -79438,7 +79510,7 @@ window.allHeroes =
         ],
         "family": "mighty_pet",
         "costume_id": 0,
-        "originalIndex": 1141,
+        "originalIndex": 1142,
         "lb1": {
             "attack": 916,
             "defense": 930,
@@ -79511,7 +79583,7 @@ window.allHeroes =
         ],
         "family": "moths",
         "costume_id": 0,
-        "originalIndex": 1142,
+        "originalIndex": 1143,
         "lb1": {
             "attack": 1247,
             "defense": 1400,
@@ -79584,7 +79656,7 @@ window.allHeroes =
         ],
         "family": "fable",
         "costume_id": 0,
-        "originalIndex": 1143,
+        "originalIndex": 1144,
         "lb1": {
             "attack": 1112,
             "defense": 1107,
@@ -79656,7 +79728,7 @@ window.allHeroes =
         ],
         "family": "plains_hunter",
         "costume_id": 0,
-        "originalIndex": 1144,
+        "originalIndex": 1145,
         "lb1": {
             "attack": 919,
             "defense": 930,
@@ -79723,7 +79795,7 @@ window.allHeroes =
         "passives": [],
         "family": "winter",
         "costume_id": 0,
-        "originalIndex": 1145,
+        "originalIndex": 1146,
         "lb1": {
             "attack": 987,
             "defense": 1043,
@@ -79790,7 +79862,7 @@ window.allHeroes =
         ],
         "family": "cupid",
         "costume_id": 0,
-        "originalIndex": 1146,
+        "originalIndex": 1147,
         "lb1": {
             "attack": 910,
             "defense": 868,
@@ -79856,7 +79928,7 @@ window.allHeroes =
         ],
         "family": "musketeer",
         "costume_id": 0,
-        "originalIndex": 1147,
+        "originalIndex": 1148,
         "lb1": {
             "attack": 934,
             "defense": 899,
@@ -79927,7 +79999,7 @@ window.allHeroes =
         ],
         "family": "stag",
         "costume_id": 0,
-        "originalIndex": 1148,
+        "originalIndex": 1149,
         "lb1": {
             "attack": 1187,
             "defense": 1056,
@@ -80012,7 +80084,7 @@ window.allHeroes =
         ],
         "family": "forsaken",
         "costume_id": 0,
-        "originalIndex": 1149,
+        "originalIndex": 1150,
         "lb1": {
             "attack": 1387,
             "defense": 1347,
@@ -80087,7 +80159,7 @@ window.allHeroes =
         ],
         "family": "garrison",
         "costume_id": 0,
-        "originalIndex": 1150,
+        "originalIndex": 1151,
         "lb1": {
             "attack": 1265,
             "defense": 1198,
@@ -80168,7 +80240,7 @@ window.allHeroes =
         ],
         "family": "tales1_baddies",
         "costume_id": 0,
-        "originalIndex": 1151,
+        "originalIndex": 1152,
         "lb1": {
             "attack": 1061,
             "defense": 1067,
@@ -80203,7 +80275,7 @@ window.allHeroes =
         "color": "紅",
         "class": "術士",
         "speed": "潮汐",
-        "skill": "深沉深淵",
+        "skill": "超新星",
         "types": [
             "攻擊3個目標",
             "3個目標持續傷害",
@@ -80248,7 +80320,7 @@ window.allHeroes =
         ],
         "family": "tales1_baddies",
         "costume_id": 1,
-        "originalIndex": 1152,
+        "originalIndex": 1153,
         "lb1": {
             "attack": 1036,
             "defense": 1090,
@@ -80320,7 +80392,7 @@ window.allHeroes =
         ],
         "family": "super_elemental",
         "costume_id": 0,
-        "originalIndex": 1153,
+        "originalIndex": 1154,
         "lb1": {
             "attack": 956,
             "defense": 892,
@@ -80355,7 +80427,7 @@ window.allHeroes =
         "color": "紅",
         "class": "盜賊",
         "speed": "快速",
-        "skill": "資料雙刀",
+        "skill": "雷射雙刀",
         "types": [
             "攻擊單個目標",
             "攻擊全體自然系目標",
@@ -80396,7 +80468,7 @@ window.allHeroes =
         ],
         "family": "super_elemental",
         "costume_id": 1,
-        "originalIndex": 1154,
+        "originalIndex": 1155,
         "lb1": {
             "attack": 954,
             "defense": 896,
@@ -80478,7 +80550,7 @@ window.allHeroes =
         ],
         "family": "bard",
         "costume_id": 0,
-        "originalIndex": 1155,
+        "originalIndex": 1156,
         "lb1": {
             "attack": 1312,
             "defense": 1336,
@@ -80562,7 +80634,7 @@ window.allHeroes =
         ],
         "family": "plains_hunter",
         "costume_id": 0,
-        "originalIndex": 1156,
+        "originalIndex": 1157,
         "lb1": {
             "attack": 914,
             "defense": 923,
@@ -80629,7 +80701,7 @@ window.allHeroes =
         ],
         "family": "gargoyle",
         "costume_id": 0,
-        "originalIndex": 1157,
+        "originalIndex": 1158,
         "lb1": {
             "attack": 896,
             "defense": 841,
@@ -80695,7 +80767,7 @@ window.allHeroes =
         ],
         "family": "cupid",
         "costume_id": 0,
-        "originalIndex": 1158,
+        "originalIndex": 1159,
         "lb1": {
             "attack": 1065,
             "defense": 1021,
@@ -80755,7 +80827,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 0,
-        "originalIndex": 1159,
+        "originalIndex": 1160,
         "lb1": {
             "attack": 872,
             "defense": 623,
@@ -80788,7 +80860,7 @@ window.allHeroes =
         "color": "紅",
         "class": "盜賊",
         "speed": "慢速",
-        "skill": "刀鋒壁壘",
+        "skill": "劍墻",
         "types": [
             "攻擊所有目標",
             "3個目標反擊"
@@ -80815,7 +80887,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 1,
-        "originalIndex": 1160,
+        "originalIndex": 1161,
         "lb1": {
             "attack": 868,
             "defense": 603,
@@ -80848,7 +80920,7 @@ window.allHeroes =
         "color": "紅",
         "class": "騎士",
         "speed": "慢速",
-        "skill": "恐懼之劍",
+        "skill": "劍墻",
         "types": [
             "攻擊所有目標",
             "3個目標反擊"
@@ -80875,7 +80947,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 2,
-        "originalIndex": 1161,
+        "originalIndex": 1162,
         "lb1": {
             "attack": 772,
             "defense": 710,
@@ -80908,7 +80980,7 @@ window.allHeroes =
         "color": "紅",
         "class": "戰士",
         "speed": "慢速",
-        "skill": "公仔牆",
+        "skill": "劍墻",
         "types": [
             "攻擊所有目標",
             "3個目標反擊"
@@ -80941,7 +81013,7 @@ window.allHeroes =
         ],
         "family": "classic",
         "costume_id": 3,
-        "originalIndex": 1162,
+        "originalIndex": 1163,
         "lb1": {
             "attack": 710,
             "defense": 781,
@@ -80979,7 +81051,7 @@ window.allHeroes =
         "color": "紅",
         "class": "戰士",
         "speed": "慢速",
-        "skill": "玻璃牆",
+        "skill": "劍墻",
         "types": [
             "攻擊所有目標",
             "無視防禦",
@@ -81013,7 +81085,7 @@ window.allHeroes =
         ],
         "family": "classic",
         "costume_id": 4,
-        "originalIndex": 1163,
+        "originalIndex": 1164,
         "lb1": {
             "attack": 745,
             "defense": 741,
@@ -81088,7 +81160,7 @@ window.allHeroes =
         ],
         "family": "hotm2025",
         "costume_id": 0,
-        "originalIndex": 1164,
+        "originalIndex": 1165,
         "lb1": {
             "attack": 1189,
             "defense": 1183,
@@ -81162,7 +81234,7 @@ window.allHeroes =
         ],
         "family": "abyss",
         "costume_id": 0,
-        "originalIndex": 1165,
+        "originalIndex": 1166,
         "lb1": {
             "attack": 828,
             "defense": 812,
@@ -81200,7 +81272,7 @@ window.allHeroes =
         "color": "紅",
         "class": "巫師",
         "speed": "中等",
-        "skill": "新娘之吻",
+        "skill": "寡婦之吻",
         "types": [
             "攻擊所有目標",
             "召喚所有惡魔",
@@ -81241,7 +81313,7 @@ window.allHeroes =
         ],
         "family": "abyss",
         "costume_id": 1,
-        "originalIndex": 1166,
+        "originalIndex": 1167,
         "lb1": {
             "attack": 843,
             "defense": 819,
@@ -81313,7 +81385,7 @@ window.allHeroes =
         ],
         "family": "fleur_de_sang",
         "costume_id": 0,
-        "originalIndex": 1167,
+        "originalIndex": 1168,
         "lb1": {
             "attack": 1389,
             "defense": 1354,
@@ -81387,7 +81459,7 @@ window.allHeroes =
         ],
         "family": "fox",
         "costume_id": 0,
-        "originalIndex": 1168,
+        "originalIndex": 1169,
         "lb1": {
             "attack": 1358,
             "defense": 1334,
@@ -81472,7 +81544,7 @@ window.allHeroes =
         ],
         "family": "mimic",
         "costume_id": 0,
-        "originalIndex": 1169,
+        "originalIndex": 1170,
         "lb1": {
             "attack": 1394,
             "defense": 1394,
@@ -81553,7 +81625,7 @@ window.allHeroes =
         "passives": [],
         "family": "circus",
         "costume_id": 0,
-        "originalIndex": 1170,
+        "originalIndex": 1171,
         "lb1": {
             "attack": 810,
             "defense": 865,
@@ -81597,7 +81669,7 @@ window.allHeroes =
         "color": "紅",
         "class": "巫師",
         "speed": "飛速",
-        "skill": "青蛙和圈圈",
+        "skill": "火焰回春",
         "types": [
             "賭博",
             "全體持續傷害",
@@ -81637,7 +81709,7 @@ window.allHeroes =
         ],
         "family": "circus",
         "costume_id": 1,
-        "originalIndex": 1171,
+        "originalIndex": 1172,
         "lb1": {
             "attack": 850,
             "defense": 799,
@@ -81724,7 +81796,7 @@ window.allHeroes =
         ],
         "family": "styx",
         "costume_id": 0,
-        "originalIndex": 1172,
+        "originalIndex": 1173,
         "lb1": {
             "attack": 896,
             "defense": 881,
@@ -81795,7 +81867,7 @@ window.allHeroes =
         ],
         "family": "owl",
         "costume_id": 0,
-        "originalIndex": 1173,
+        "originalIndex": 1174,
         "lb1": {
             "attack": 1192,
             "defense": 1154,
@@ -81879,7 +81951,7 @@ window.allHeroes =
         ],
         "family": "mimic",
         "costume_id": 0,
-        "originalIndex": 1174,
+        "originalIndex": 1175,
         "lb1": {
             "attack": 1332,
             "defense": 1332,
@@ -81962,7 +82034,7 @@ window.allHeroes =
         ],
         "family": "myrkheim",
         "costume_id": 0,
-        "originalIndex": 1175,
+        "originalIndex": 1176,
         "lb1": {
             "attack": 1351,
             "defense": 1303,
@@ -82042,7 +82114,7 @@ window.allHeroes =
         ],
         "family": "garrison",
         "costume_id": 0,
-        "originalIndex": 1176,
+        "originalIndex": 1177,
         "lb1": {
             "attack": 1294,
             "defense": 1252,
@@ -82116,7 +82188,7 @@ window.allHeroes =
         ],
         "family": "beachparty",
         "costume_id": 0,
-        "originalIndex": 1177,
+        "originalIndex": 1178,
         "lb1": {
             "attack": 899,
             "defense": 934,
@@ -82154,7 +82226,7 @@ window.allHeroes =
         "color": "紅",
         "class": "牧師",
         "speed": "中等",
-        "skill": "甜甜圈來救援了！",
+        "skill": "前往救援！",
         "types": [
             "治療者",
             "全體無視防禦",
@@ -82190,7 +82262,7 @@ window.allHeroes =
         ],
         "family": "beachparty",
         "costume_id": 1,
-        "originalIndex": 1178,
+        "originalIndex": 1179,
         "lb1": {
             "attack": 879,
             "defense": 956,
@@ -82262,7 +82334,7 @@ window.allHeroes =
         ],
         "family": "owl",
         "costume_id": 0,
-        "originalIndex": 1179,
+        "originalIndex": 1180,
         "lb1": {
             "attack": 1112,
             "defense": 1090,
@@ -82338,7 +82410,7 @@ window.allHeroes =
         ],
         "family": "moths",
         "costume_id": 0,
-        "originalIndex": 1180,
+        "originalIndex": 1181,
         "lb1": {
             "attack": 1405,
             "defense": 1300,
@@ -82408,7 +82480,7 @@ window.allHeroes =
         "passives": [],
         "family": "ninja",
         "costume_id": 0,
-        "originalIndex": 1181,
+        "originalIndex": 1182,
         "lb1": {
             "attack": 788,
             "defense": 810,
@@ -82467,7 +82539,7 @@ window.allHeroes =
         "passives": [],
         "family": "muspelheim",
         "costume_id": 0,
-        "originalIndex": 1182,
+        "originalIndex": 1183,
         "lb1": {
             "attack": 832,
             "defense": 825,
@@ -82500,7 +82572,7 @@ window.allHeroes =
         "color": "紅",
         "class": "戰士",
         "speed": "快速",
-        "skill": "少女之令",
+        "skill": "少女之命",
         "types": [
             "摧毀超級小兵/小兵",
             "攻擊3個目標"
@@ -82527,7 +82599,7 @@ window.allHeroes =
         "passives": [],
         "family": "muspelheim",
         "costume_id": 1,
-        "originalIndex": 1183,
+        "originalIndex": 1184,
         "lb1": {
             "attack": 816,
             "defense": 832,
@@ -82604,7 +82676,7 @@ window.allHeroes =
         ],
         "family": "tales1_baddies",
         "costume_id": 0,
-        "originalIndex": 1184,
+        "originalIndex": 1185,
         "lb1": {
             "attack": 967,
             "defense": 1023,
@@ -82643,7 +82715,7 @@ window.allHeroes =
         "color": "紅",
         "class": "巫師",
         "speed": "潮汐",
-        "skill": "沉沒岩漿立方",
+        "skill": "水底岩漿立方",
         "types": [
             "攻擊 (3/5) 個目標",
             "防禦降低"
@@ -82691,7 +82763,7 @@ window.allHeroes =
         ],
         "family": "tales1_baddies",
         "costume_id": 1,
-        "originalIndex": 1185,
+        "originalIndex": 1186,
         "lb1": {
             "attack": 1023,
             "defense": 979,
@@ -82768,7 +82840,7 @@ window.allHeroes =
         ],
         "family": "slime",
         "costume_id": 0,
-        "originalIndex": 1186,
+        "originalIndex": 1187,
         "lb1": {
             "attack": 1227,
             "defense": 1292,
@@ -82838,7 +82910,7 @@ window.allHeroes =
         "passives": [],
         "family": "hotm2018",
         "costume_id": 0,
-        "originalIndex": 1187,
+        "originalIndex": 1188,
         "lb1": {
             "attack": 783,
             "defense": 763,
@@ -82877,7 +82949,7 @@ window.allHeroes =
         "color": "紅",
         "class": "騎士",
         "speed": "飛速",
-        "skill": "塵歸塵",
+        "skill": "化為灰燼",
         "types": [
             "攻擊所有目標",
             "全體持續傷害"
@@ -82912,7 +82984,7 @@ window.allHeroes =
         ],
         "family": "hotm2018",
         "costume_id": 1,
-        "originalIndex": 1188,
+        "originalIndex": 1189,
         "lb1": {
             "attack": 777,
             "defense": 754,
@@ -82983,7 +83055,7 @@ window.allHeroes =
         ],
         "family": "hotm2019",
         "costume_id": 0,
-        "originalIndex": 1189,
+        "originalIndex": 1190,
         "lb1": {
             "attack": 677,
             "defense": 881,
@@ -83045,7 +83117,7 @@ window.allHeroes =
         "passives": [],
         "family": "guardian",
         "costume_id": 0,
-        "originalIndex": 1190,
+        "originalIndex": 1191,
         "lb1": {
             "attack": 848,
             "defense": 632,
@@ -83083,7 +83155,7 @@ window.allHeroes =
         "color": "紅",
         "class": "僧侶",
         "speed": "中等",
-        "skill": "金剛粉碎",
+        "skill": "叢林領主",
         "types": [
             "攻擊所有目標",
             "全體元素反射",
@@ -83114,7 +83186,7 @@ window.allHeroes =
         "passives": [],
         "family": "guardian",
         "costume_id": 1,
-        "originalIndex": 1191,
+        "originalIndex": 1192,
         "lb1": {
             "attack": 854,
             "defense": 641,
@@ -83185,7 +83257,7 @@ window.allHeroes =
         ],
         "family": "gargoyle",
         "costume_id": 0,
-        "originalIndex": 1192,
+        "originalIndex": 1193,
         "lb1": {
             "attack": 1061,
             "defense": 1198,
@@ -83257,7 +83329,7 @@ window.allHeroes =
         ],
         "family": "astral_elves",
         "costume_id": 0,
-        "originalIndex": 1193,
+        "originalIndex": 1194,
         "lb1": {
             "attack": 1107,
             "defense": 1134,
@@ -83328,7 +83400,7 @@ window.allHeroes =
         ],
         "family": "moon",
         "costume_id": 0,
-        "originalIndex": 1194,
+        "originalIndex": 1195,
         "lb1": {
             "attack": 834,
             "defense": 856,
@@ -83361,7 +83433,7 @@ window.allHeroes =
         "color": "紅",
         "class": "牧師",
         "speed": "快速",
-        "skill": "慈母之愛",
+        "skill": "慈母照護",
         "types": [
             "持續治療",
             "狀態異常免疫"
@@ -83401,7 +83473,7 @@ window.allHeroes =
         ],
         "family": "moon",
         "costume_id": 1,
-        "originalIndex": 1195,
+        "originalIndex": 1196,
         "lb1": {
             "attack": 830,
             "defense": 865,
@@ -83470,7 +83542,7 @@ window.allHeroes =
         ],
         "family": "gargoyle",
         "costume_id": 0,
-        "originalIndex": 1196,
+        "originalIndex": 1197,
         "lb1": {
             "attack": 868,
             "defense": 863,
@@ -83549,7 +83621,7 @@ window.allHeroes =
         ],
         "family": "construct",
         "costume_id": 0,
-        "originalIndex": 1197,
+        "originalIndex": 1198,
         "lb1": {
             "attack": 1101,
             "defense": 1196,
@@ -83627,7 +83699,7 @@ window.allHeroes =
         ],
         "family": "styx",
         "costume_id": 0,
-        "originalIndex": 1198,
+        "originalIndex": 1199,
         "lb1": {
             "attack": 912,
             "defense": 841,
@@ -83701,7 +83773,7 @@ window.allHeroes =
         ],
         "family": "garrison",
         "costume_id": 0,
-        "originalIndex": 1199,
+        "originalIndex": 1200,
         "lb1": {
             "attack": 1294,
             "defense": 1263,
@@ -83779,7 +83851,7 @@ window.allHeroes =
         ],
         "family": "super_elemental",
         "costume_id": 0,
-        "originalIndex": 1200,
+        "originalIndex": 1201,
         "lb1": {
             "attack": 956,
             "defense": 996,
@@ -83818,7 +83890,7 @@ window.allHeroes =
         "color": "紅",
         "class": "騎士",
         "speed": "快速",
-        "skill": "燒灼火焰",
+        "skill": "淨化之火",
         "types": [
             "全體治療",
             "火元素治療",
@@ -83859,7 +83931,7 @@ window.allHeroes =
         ],
         "family": "super_elemental",
         "costume_id": 1,
-        "originalIndex": 1201,
+        "originalIndex": 1202,
         "lb1": {
             "attack": 945,
             "defense": 1010,
@@ -83931,7 +84003,7 @@ window.allHeroes =
         ],
         "family": "kalevala",
         "costume_id": 0,
-        "originalIndex": 1202,
+        "originalIndex": 1203,
         "lb1": {
             "attack": 930,
             "defense": 999,
@@ -83969,7 +84041,7 @@ window.allHeroes =
         "color": "紅",
         "class": "僧侶",
         "speed": "慢速",
-        "skill": "黃金鍛造",
+        "skill": "火中鍛造",
         "types": [
             "全體法力削減",
             "敵方傷害分擔",
@@ -84003,7 +84075,7 @@ window.allHeroes =
         ],
         "family": "kalevala",
         "costume_id": 1,
-        "originalIndex": 1203,
+        "originalIndex": 1204,
         "lb1": {
             "attack": 925,
             "defense": 1005,
@@ -84077,7 +84149,7 @@ window.allHeroes =
         ],
         "family": "garrison",
         "costume_id": 0,
-        "originalIndex": 1204,
+        "originalIndex": 1205,
         "lb1": {
             "attack": 1260,
             "defense": 1163,
@@ -84150,7 +84222,7 @@ window.allHeroes =
         ],
         "family": "faun",
         "costume_id": 0,
-        "originalIndex": 1205,
+        "originalIndex": 1206,
         "lb1": {
             "attack": 1276,
             "defense": 1205,
@@ -84213,7 +84285,7 @@ window.allHeroes =
         "passives": [],
         "family": "villains",
         "costume_id": 0,
-        "originalIndex": 1206,
+        "originalIndex": 1207,
         "lb1": {
             "attack": 816,
             "defense": 828,
@@ -84280,7 +84352,7 @@ window.allHeroes =
         ],
         "family": "hotm2020",
         "costume_id": 0,
-        "originalIndex": 1207,
+        "originalIndex": 1208,
         "lb1": {
             "attack": 794,
             "defense": 779,
@@ -84367,7 +84439,7 @@ window.allHeroes =
         ],
         "family": "magic_carpet",
         "costume_id": 0,
-        "originalIndex": 1208,
+        "originalIndex": 1209,
         "lb1": {
             "attack": 1427,
             "defense": 1389,
@@ -84398,6 +84470,87 @@ window.allHeroes =
                 "负面效果": [
                     "傷害-持續傷害：燃燒",
                     "防禦-防禦力↓"
+                ]
+            }
+        ]
+    },
+    {
+        "name": "喬提 (Jyoti)",
+        "fancy_name": "查理舞者",
+        "AetherPower": "特殊盔甲",
+        "color": "紅",
+        "class": "術士",
+        "speed": "中等",
+        "skill": "火熱表演",
+        "types": [
+            "全體治療",
+            "治療恩惠",
+            "全體狀態異常免疫增益",
+            "改變棋盤"
+        ],
+        "skill_types": [
+            "治療",
+            "特殊治療",
+            "提供免疫",
+            "改變面板",
+            "反製小兵",
+            "疊加"
+        ],
+        "source": "神殿召喚",
+        "Release date": "2026-01-01",
+        "specialId": "fiery_performance",
+        "passiveSkills": [
+            "resist_negative_minion_and_mega_minion_effects",
+            "mana_on_damage_received"
+        ],
+        "heroId": "mahayoddha_jyoti",
+        "star": 5,
+        "power": 1268,
+        "attack": 1303,
+        "defense": 1314,
+        "health": 2282,
+        "effects": [
+            "為所有盟友恢復 37% 生命值。",
+            "成長恩惠：每一點已修改的防禦恢復 2 x 點額外生命值。（最多額外治療 800 點。影響獲得治療的狀態效果會影響治療比率）",
+            "所有盟友免疫新状態異常，持續 4 回合對於每一個原本應獲得的新狀態異常，他們將會獲得 205 生命。",
+            "改變面板上所有烈火系護盾的力量。攻擊英雄施放該特技時，護盾會獲得強化，且提供的法力增加 +37%。防禦英雄施放該特技時，護盾會弱化，且提供的法力减少 -30%。"
+        ],
+        "passives": [
+            "受到傷害時獲得法力：",
+            "* 此角色受到特殊技能或普通攻擊的直接傷害時，可獲得少量法力。",
+            "* 每回合最多可獲得 10% 法力。",
+            "強化抵禦負面小兵效果：此角色對来自小兵和超級小兵的傷害與負面效果免疫。"
+        ],
+        "family": "mahayoddha",
+        "costume_id": 0,
+        "originalIndex": 1210,
+        "lb1": {
+            "attack": 1405,
+            "defense": 1416,
+            "health": 2459,
+            "power": 1357
+        },
+        "lb2": {
+            "attack": 1607,
+            "defense": 1620,
+            "health": 2814,
+            "power": 1535
+        },
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "治療：即時",
+                    "治療：特殊"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "法力-面板：法力生成"
+                ]
+            },
+            {
+                "增益效果": [
+                    "狀態-免疫狀態異常"
                 ]
             }
         ]
@@ -84438,7 +84591,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 0,
-        "originalIndex": 1209,
+        "originalIndex": 1211,
         "lb1": {
             "attack": 765,
             "defense": 692,
@@ -84472,7 +84625,7 @@ window.allHeroes =
         "color": "紅",
         "class": "野人",
         "speed": "慢速",
-        "skill": "征服者之命",
+        "skill": "可汗指令",
         "types": [
             "攻擊單個目標",
             "全體法力生成增益",
@@ -84502,7 +84655,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 1,
-        "originalIndex": 1210,
+        "originalIndex": 1212,
         "lb1": {
             "attack": 781,
             "defense": 710,
@@ -84536,7 +84689,7 @@ window.allHeroes =
         "color": "紅",
         "class": "德魯伊",
         "speed": "慢速",
-        "skill": "酋長的復仇",
+        "skill": "可汗指令",
         "types": [
             "攻擊所有目標",
             "全體法力持續恢復",
@@ -84566,7 +84719,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 2,
-        "originalIndex": 1211,
+        "originalIndex": 1213,
         "lb1": {
             "attack": 777,
             "defense": 719,
@@ -84600,7 +84753,7 @@ window.allHeroes =
         "color": "紅",
         "class": "遊俠",
         "speed": "慢速",
-        "skill": "公仔之令",
+        "skill": "可汗指令",
         "types": [
             "攻擊3個目標",
             "3個目標法力生成增益",
@@ -84636,7 +84789,7 @@ window.allHeroes =
         ],
         "family": "classic",
         "costume_id": 3,
-        "originalIndex": 1212,
+        "originalIndex": 1214,
         "lb1": {
             "attack": 803,
             "defense": 670,
@@ -84675,7 +84828,7 @@ window.allHeroes =
         "color": "紅",
         "class": "遊俠",
         "speed": "慢速",
-        "skill": "彩繪玻璃的命令",
+        "skill": "可汗指令",
         "types": [
             "攻擊所有目標",
             "無視防禦",
@@ -84712,7 +84865,7 @@ window.allHeroes =
         ],
         "family": "classic",
         "costume_id": 4,
-        "originalIndex": 1213,
+        "originalIndex": 1215,
         "lb1": {
             "attack": 808,
             "defense": 666,
@@ -84786,7 +84939,7 @@ window.allHeroes =
         ],
         "family": "sun",
         "costume_id": 0,
-        "originalIndex": 1214,
+        "originalIndex": 1216,
         "lb1": {
             "attack": 883,
             "defense": 863,
@@ -84820,7 +84973,7 @@ window.allHeroes =
         "color": "紅",
         "class": "盜賊",
         "speed": "慢速",
-        "skill": "水下謎語",
+        "skill": "不解之謎",
         "types": [
             "攻擊單個目標",
             "連鎖",
@@ -84860,7 +85013,7 @@ window.allHeroes =
         ],
         "family": "sun",
         "costume_id": 1,
-        "originalIndex": 1215,
+        "originalIndex": 1217,
         "lb1": {
             "attack": 914,
             "defense": 841,
@@ -84925,7 +85078,7 @@ window.allHeroes =
         ],
         "family": "abyss",
         "costume_id": 0,
-        "originalIndex": 1216,
+        "originalIndex": 1218,
         "lb1": {
             "attack": 848,
             "defense": 836,
@@ -84958,7 +85111,7 @@ window.allHeroes =
         "color": "紅",
         "class": "德魯伊",
         "speed": "中等",
-        "skill": "美味滅亡",
+        "skill": "必死無疑",
         "types": [
             "全體阻止復活",
             "攻擊3個目標"
@@ -84993,7 +85146,7 @@ window.allHeroes =
         ],
         "family": "abyss",
         "costume_id": 1,
-        "originalIndex": 1217,
+        "originalIndex": 1219,
         "lb1": {
             "attack": 845,
             "defense": 823,
@@ -85054,7 +85207,7 @@ window.allHeroes =
         "passives": [],
         "family": "helheim",
         "costume_id": 0,
-        "originalIndex": 1218,
+        "originalIndex": 1220,
         "lb1": {
             "attack": 805,
             "defense": 836,
@@ -85088,7 +85241,7 @@ window.allHeroes =
         "color": "紅",
         "class": "牧師",
         "speed": "中等",
-        "skill": "戲法師的催眠曲",
+        "skill": "戲法師之惡意",
         "types": [
             "移除狀態異常",
             "攻擊所有目標"
@@ -85117,7 +85270,7 @@ window.allHeroes =
         "passives": [],
         "family": "helheim",
         "costume_id": 1,
-        "originalIndex": 1219,
+        "originalIndex": 1221,
         "lb1": {
             "attack": 739,
             "defense": 921,
@@ -85194,7 +85347,7 @@ window.allHeroes =
         ],
         "family": "tales1_goodies",
         "costume_id": 0,
-        "originalIndex": 1220,
+        "originalIndex": 1222,
         "lb1": {
             "attack": 1072,
             "defense": 916,
@@ -85227,7 +85380,7 @@ window.allHeroes =
         "color": "紅",
         "class": "盜賊",
         "speed": "潮汐",
-        "skill": "勇士調動",
+        "skill": "包抄機動",
         "types": [
             "攻擊單個目標",
             "召喚1個複製惡魔"
@@ -85273,7 +85426,7 @@ window.allHeroes =
         ],
         "family": "tales1_goodies",
         "costume_id": 1,
-        "originalIndex": 1221,
+        "originalIndex": 1223,
         "lb1": {
             "attack": 1050,
             "defense": 970,
@@ -85333,7 +85486,7 @@ window.allHeroes =
         "passives": [],
         "family": "raven",
         "costume_id": 0,
-        "originalIndex": 1222,
+        "originalIndex": 1224,
         "lb1": {
             "attack": 856,
             "defense": 861,
@@ -85410,7 +85563,7 @@ window.allHeroes =
         ],
         "family": "outlaw",
         "costume_id": 0,
-        "originalIndex": 1223,
+        "originalIndex": 1225,
         "lb1": {
             "attack": 1245,
             "defense": 1389,
@@ -85478,7 +85631,7 @@ window.allHeroes =
         ],
         "family": "owl",
         "costume_id": 0,
-        "originalIndex": 1224,
+        "originalIndex": 1226,
         "lb1": {
             "attack": 1123,
             "defense": 1118,
@@ -85565,7 +85718,7 @@ window.allHeroes =
         ],
         "family": "outlaw",
         "costume_id": 0,
-        "originalIndex": 1225,
+        "originalIndex": 1227,
         "lb1": {
             "attack": 1376,
             "defense": 1336,
@@ -85640,7 +85793,7 @@ window.allHeroes =
         ],
         "family": "goblin",
         "costume_id": 0,
-        "originalIndex": 1226,
+        "originalIndex": 1228,
         "lb1": {
             "attack": 1012,
             "defense": 999,
@@ -85728,7 +85881,7 @@ window.allHeroes =
         ],
         "family": "ninja",
         "costume_id": 0,
-        "originalIndex": 1227,
+        "originalIndex": 1229,
         "lb1": {
             "attack": 1411,
             "defense": 1192,
@@ -85802,7 +85955,7 @@ window.allHeroes =
         ],
         "family": "hotm2025",
         "costume_id": 0,
-        "originalIndex": 1228,
+        "originalIndex": 1230,
         "lb1": {
             "attack": 1192,
             "defense": 1252,
@@ -85861,7 +86014,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 0,
-        "originalIndex": 1229,
+        "originalIndex": 1231,
         "lb1": {
             "attack": 721,
             "defense": 768,
@@ -85895,7 +86048,7 @@ window.allHeroes =
         "color": "紅",
         "class": "巫師",
         "speed": "快速",
-        "skill": "熔岩爆發",
+        "skill": "岩漿粉碎",
         "types": [
             "攻擊3個目標",
             "元素防禦降低",
@@ -85925,7 +86078,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 1,
-        "originalIndex": 1230,
+        "originalIndex": 1232,
         "lb1": {
             "attack": 774,
             "defense": 723,
@@ -85959,7 +86112,7 @@ window.allHeroes =
         "color": "紅",
         "class": "遊俠",
         "speed": "快速",
-        "skill": "火山爆裂",
+        "skill": "岩漿粉碎",
         "types": [
             "攻擊3個目標",
             "防禦降低",
@@ -85989,7 +86142,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 2,
-        "originalIndex": 1231,
+        "originalIndex": 1233,
         "lb1": {
             "attack": 774,
             "defense": 723,
@@ -86024,7 +86177,7 @@ window.allHeroes =
         "color": "紅",
         "class": "盜賊",
         "speed": "快速",
-        "skill": "公仔驚奇粉碎",
+        "skill": "岩漿粉碎",
         "types": [
             "攻擊單個目標",
             "單體持續傷害"
@@ -86057,7 +86210,7 @@ window.allHeroes =
         ],
         "family": "classic",
         "costume_id": 3,
-        "originalIndex": 1232,
+        "originalIndex": 1234,
         "lb1": {
             "attack": 752,
             "defense": 757,
@@ -86096,7 +86249,7 @@ window.allHeroes =
         "color": "紅",
         "class": "盜賊",
         "speed": "快速",
-        "skill": "玻璃火焰粉碎",
+        "skill": "岩漿粉碎",
         "types": [
             "攻擊單個目標",
             "無視防禦",
@@ -86130,7 +86283,7 @@ window.allHeroes =
         ],
         "family": "classic",
         "costume_id": 4,
-        "originalIndex": 1233,
+        "originalIndex": 1235,
         "lb1": {
             "attack": 808,
             "defense": 712,
@@ -86199,7 +86352,7 @@ window.allHeroes =
         "passives": [],
         "family": "japanese",
         "costume_id": 0,
-        "originalIndex": 1234,
+        "originalIndex": 1236,
         "lb1": {
             "attack": 750,
             "defense": 783,
@@ -86237,7 +86390,7 @@ window.allHeroes =
         "color": "紅",
         "class": "戰士",
         "speed": "中等",
-        "skill": "火焰闊劍",
+        "skill": "火焰之鏡",
         "types": [
             "攻擊所有目標",
             "3個目標法力生成降低",
@@ -86268,7 +86421,7 @@ window.allHeroes =
         "passives": [],
         "family": "japanese",
         "costume_id": 1,
-        "originalIndex": 1235,
+        "originalIndex": 1237,
         "lb1": {
             "attack": 772,
             "defense": 745,
@@ -86349,7 +86502,7 @@ window.allHeroes =
         ],
         "family": "magic",
         "costume_id": 0,
-        "originalIndex": 1236,
+        "originalIndex": 1238,
         "lb1": {
             "attack": 836,
             "defense": 843,
@@ -86391,7 +86544,7 @@ window.allHeroes =
         "color": "紅",
         "class": "僧侶",
         "speed": "魔法",
-        "skill": "龍寵包裹",
+        "skill": "龍寵烈焰",
         "types": [
             "蓄力",
             "全體持續傷害",
@@ -86440,7 +86593,7 @@ window.allHeroes =
         ],
         "family": "magic",
         "costume_id": 1,
-        "originalIndex": 1237,
+        "originalIndex": 1239,
         "lb1": {
             "attack": 854,
             "defense": 834,
@@ -86530,7 +86683,7 @@ window.allHeroes =
         ],
         "family": "magic_carpet",
         "costume_id": 0,
-        "originalIndex": 1238,
+        "originalIndex": 1240,
         "lb1": {
             "attack": 1316,
             "defense": 1318,
@@ -86604,7 +86757,7 @@ window.allHeroes =
         "passives": [],
         "family": "hotm2018",
         "costume_id": 0,
-        "originalIndex": 1239,
+        "originalIndex": 1241,
         "lb1": {
             "attack": 774,
             "defense": 732,
@@ -86643,7 +86796,7 @@ window.allHeroes =
         "color": "紅",
         "class": "巫師",
         "speed": "快速",
-        "skill": "燃燒線",
+        "skill": "燃燒鏈鎖",
         "types": [
             "單體持續傷害",
             "法力生成降低"
@@ -86679,7 +86832,7 @@ window.allHeroes =
         ],
         "family": "hotm2018",
         "costume_id": 1,
-        "originalIndex": 1240,
+        "originalIndex": 1242,
         "lb1": {
             "attack": 788,
             "defense": 728,
@@ -86757,7 +86910,7 @@ window.allHeroes =
         ],
         "family": "hotm2023",
         "costume_id": 0,
-        "originalIndex": 1241,
+        "originalIndex": 1243,
         "lb1": {
             "attack": 888,
             "defense": 976,
@@ -86829,7 +86982,7 @@ window.allHeroes =
         ],
         "family": "fox",
         "costume_id": 0,
-        "originalIndex": 1242,
+        "originalIndex": 1244,
         "lb1": {
             "attack": 1325,
             "defense": 1267,
@@ -86899,7 +87052,7 @@ window.allHeroes =
         ],
         "family": "super_elemental",
         "costume_id": 0,
-        "originalIndex": 1243,
+        "originalIndex": 1245,
         "lb1": {
             "attack": 1043,
             "defense": 1116,
@@ -86977,7 +87130,7 @@ window.allHeroes =
         ],
         "family": "ninja",
         "costume_id": 0,
-        "originalIndex": 1244,
+        "originalIndex": 1246,
         "lb1": {
             "attack": 1345,
             "defense": 1149,
@@ -87051,7 +87204,7 @@ window.allHeroes =
         ],
         "family": "hotm2020",
         "costume_id": 0,
-        "originalIndex": 1245,
+        "originalIndex": 1247,
         "lb1": {
             "attack": 759,
             "defense": 843,
@@ -87121,7 +87274,7 @@ window.allHeroes =
         ],
         "family": "champions",
         "costume_id": 0,
-        "originalIndex": 1246,
+        "originalIndex": 1248,
         "lb1": {
             "attack": 1092,
             "defense": 1070,
@@ -87184,7 +87337,7 @@ window.allHeroes =
         "passives": [],
         "family": "atlantis",
         "costume_id": 0,
-        "originalIndex": 1247,
+        "originalIndex": 1249,
         "lb1": {
             "attack": 952,
             "defense": 792,
@@ -87218,7 +87371,7 @@ window.allHeroes =
         "color": "紅",
         "class": "野人",
         "speed": "中等",
-        "skill": "火山之力",
+        "skill": "巨獸之力",
         "types": [
             "攻擊所有目標",
             "全體攻擊增益",
@@ -87248,7 +87401,7 @@ window.allHeroes =
         "passives": [],
         "family": "atlantis",
         "costume_id": 1,
-        "originalIndex": 1248,
+        "originalIndex": 1250,
         "lb1": {
             "attack": 963,
             "defense": 785,
@@ -87314,7 +87467,7 @@ window.allHeroes =
         ],
         "family": "abyss",
         "costume_id": 0,
-        "originalIndex": 1249,
+        "originalIndex": 1251,
         "lb1": {
             "attack": 821,
             "defense": 859,
@@ -87352,7 +87505,7 @@ window.allHeroes =
         "color": "紅",
         "class": "盜賊",
         "speed": "中等",
-        "skill": "海之花束",
+        "skill": "中空之刃",
         "types": [
             "攻擊所有目標",
             "全體攻擊降低"
@@ -87389,7 +87542,7 @@ window.allHeroes =
         ],
         "family": "abyss",
         "costume_id": 1,
-        "originalIndex": 1250,
+        "originalIndex": 1252,
         "lb1": {
             "attack": 879,
             "defense": 861,
@@ -87464,7 +87617,7 @@ window.allHeroes =
         ],
         "family": "cultist",
         "costume_id": 0,
-        "originalIndex": 1251,
+        "originalIndex": 1253,
         "lb1": {
             "attack": 1267,
             "defense": 1196,
@@ -87539,7 +87692,7 @@ window.allHeroes =
         ],
         "family": "abyss_hunter",
         "costume_id": 0,
-        "originalIndex": 1252,
+        "originalIndex": 1254,
         "lb1": {
             "attack": 927,
             "defense": 936,
@@ -87606,7 +87759,7 @@ window.allHeroes =
         "passives": [],
         "family": "winter",
         "costume_id": 0,
-        "originalIndex": 1253,
+        "originalIndex": 1255,
         "lb1": {
             "attack": 1256,
             "defense": 1185,
@@ -87676,7 +87829,7 @@ window.allHeroes =
         ],
         "family": "goblin",
         "costume_id": 0,
-        "originalIndex": 1254,
+        "originalIndex": 1256,
         "lb1": {
             "attack": 1132,
             "defense": 1027,
@@ -87755,7 +87908,7 @@ window.allHeroes =
         ],
         "family": "bard",
         "costume_id": 0,
-        "originalIndex": 1255,
+        "originalIndex": 1257,
         "lb1": {
             "attack": 883,
             "defense": 916,
@@ -87835,7 +87988,7 @@ window.allHeroes =
         ],
         "family": "astral_dwarfs",
         "costume_id": 0,
-        "originalIndex": 1256,
+        "originalIndex": 1258,
         "lb1": {
             "attack": 1343,
             "defense": 1334,
@@ -87904,7 +88057,7 @@ window.allHeroes =
         "passives": [],
         "family": "fable",
         "costume_id": 0,
-        "originalIndex": 1257,
+        "originalIndex": 1259,
         "lb1": {
             "attack": 823,
             "defense": 783,
@@ -87942,7 +88095,7 @@ window.allHeroes =
         "color": "紅",
         "class": "戰士",
         "speed": "中等",
-        "skill": "三隻賊鼠",
+        "skill": "三隻盲鼠",
         "types": [
             "召喚者",
             "全體持續治療",
@@ -87974,7 +88127,7 @@ window.allHeroes =
         "passives": [],
         "family": "fable",
         "costume_id": 1,
-        "originalIndex": 1258,
+        "originalIndex": 1260,
         "lb1": {
             "attack": 905,
             "defense": 677,
@@ -88043,7 +88196,7 @@ window.allHeroes =
         "passives": [],
         "family": "wonderland",
         "costume_id": 0,
-        "originalIndex": 1259,
+        "originalIndex": 1261,
         "lb1": {
             "attack": 688,
             "defense": 785,
@@ -88082,7 +88235,7 @@ window.allHeroes =
         "color": "紅",
         "class": "牧師",
         "speed": "中等",
-        "skill": "愛意女王",
+        "skill": "撲克皇后",
         "types": [
             "攻擊3個目標",
             "召喚者 (單體)",
@@ -88118,7 +88271,7 @@ window.allHeroes =
         ],
         "family": "wonderland",
         "costume_id": 1,
-        "originalIndex": 1260,
+        "originalIndex": 1262,
         "lb1": {
             "attack": 634,
             "defense": 845,
@@ -88205,7 +88358,7 @@ window.allHeroes =
         ],
         "family": "wild_cat",
         "costume_id": 0,
-        "originalIndex": 1261,
+        "originalIndex": 1263,
         "lb1": {
             "attack": 1423,
             "defense": 1272,
@@ -88278,7 +88431,7 @@ window.allHeroes =
         ],
         "family": "cultist",
         "costume_id": 0,
-        "originalIndex": 1262,
+        "originalIndex": 1264,
         "lb1": {
             "attack": 1298,
             "defense": 1216,
@@ -88365,7 +88518,7 @@ window.allHeroes =
         ],
         "family": "magic",
         "costume_id": 0,
-        "originalIndex": 1263,
+        "originalIndex": 1265,
         "lb1": {
             "attack": 934,
             "defense": 979,
@@ -88406,7 +88559,7 @@ window.allHeroes =
         "color": "紅",
         "class": "德魯伊",
         "speed": "魔法",
-        "skill": "帶刺灌籃",
+        "skill": "熾焰灌籃",
         "types": [
             "蓄力",
             "全體持續傷害",
@@ -88463,7 +88616,7 @@ window.allHeroes =
         ],
         "family": "magic",
         "costume_id": 1,
-        "originalIndex": 1264,
+        "originalIndex": 1266,
         "lb1": {
             "attack": 941,
             "defense": 974,
@@ -88539,7 +88692,7 @@ window.allHeroes =
         "passives": [],
         "family": "fable",
         "costume_id": 0,
-        "originalIndex": 1265,
+        "originalIndex": 1267,
         "lb1": {
             "attack": 785,
             "defense": 763,
@@ -88621,7 +88774,7 @@ window.allHeroes =
         ],
         "family": "nidavellir",
         "costume_id": 0,
-        "originalIndex": 1266,
+        "originalIndex": 1268,
         "lb1": {
             "attack": 1276,
             "defense": 1229,
@@ -88665,7 +88818,7 @@ window.allHeroes =
         "color": "紅",
         "class": "盜賊",
         "speed": "快速",
-        "skill": "受詛咒的計畫",
+        "skill": "絕妙之計",
         "types": [
             "驅散3個目標",
             "攻擊3個目標",
@@ -88709,7 +88862,7 @@ window.allHeroes =
         ],
         "family": "nidavellir",
         "costume_id": 1,
-        "originalIndex": 1267,
+        "originalIndex": 1269,
         "lb1": {
             "attack": 1287,
             "defense": 1221,
@@ -88785,7 +88938,7 @@ window.allHeroes =
         ],
         "family": "hotm2020",
         "costume_id": 0,
-        "originalIndex": 1268,
+        "originalIndex": 1270,
         "lb1": {
             "attack": 825,
             "defense": 794,
@@ -88855,7 +89008,7 @@ window.allHeroes =
         ],
         "family": "plains_hunter",
         "costume_id": 0,
-        "originalIndex": 1269,
+        "originalIndex": 1271,
         "lb1": {
             "attack": 1212,
             "defense": 1214,
@@ -88928,7 +89081,7 @@ window.allHeroes =
         ],
         "family": "goblin",
         "costume_id": 0,
-        "originalIndex": 1270,
+        "originalIndex": 1272,
         "lb1": {
             "attack": 1156,
             "defense": 1103,
@@ -88998,7 +89151,7 @@ window.allHeroes =
         "passives": [],
         "family": "investigator",
         "costume_id": 0,
-        "originalIndex": 1271,
+        "originalIndex": 1273,
         "lb1": {
             "attack": 1329,
             "defense": 1249,
@@ -89082,7 +89235,7 @@ window.allHeroes =
         ],
         "family": "beauty_beast",
         "costume_id": 0,
-        "originalIndex": 1272,
+        "originalIndex": 1274,
         "lb1": {
             "attack": 1389,
             "defense": 1394,
@@ -89159,7 +89312,7 @@ window.allHeroes =
         ],
         "family": "hotm2023",
         "costume_id": 0,
-        "originalIndex": 1273,
+        "originalIndex": 1275,
         "lb1": {
             "attack": 872,
             "defense": 772,
@@ -89240,7 +89393,7 @@ window.allHeroes =
         ],
         "family": "plains_hunter",
         "costume_id": 0,
-        "originalIndex": 1274,
+        "originalIndex": 1276,
         "lb1": {
             "attack": 1174,
             "defense": 1201,
@@ -89323,7 +89476,7 @@ window.allHeroes =
         "passives": [],
         "family": "ninja",
         "costume_id": 0,
-        "originalIndex": 1275,
+        "originalIndex": 1277,
         "lb1": {
             "attack": 883,
             "defense": 788,
@@ -89397,7 +89550,7 @@ window.allHeroes =
         ],
         "family": "hotm2021",
         "costume_id": 0,
-        "originalIndex": 1276,
+        "originalIndex": 1278,
         "lb1": {
             "attack": 856,
             "defense": 796,
@@ -89472,7 +89625,7 @@ window.allHeroes =
         ],
         "family": "fox",
         "costume_id": 0,
-        "originalIndex": 1277,
+        "originalIndex": 1279,
         "lb1": {
             "attack": 1203,
             "defense": 1229,
@@ -89555,7 +89708,7 @@ window.allHeroes =
         ],
         "family": "bard",
         "costume_id": 0,
-        "originalIndex": 1278,
+        "originalIndex": 1280,
         "lb1": {
             "attack": 1349,
             "defense": 1232,
@@ -89630,7 +89783,7 @@ window.allHeroes =
         ],
         "family": "astral_demons",
         "costume_id": 0,
-        "originalIndex": 1279,
+        "originalIndex": 1281,
         "lb1": {
             "attack": 1371,
             "defense": 1425,
@@ -89705,7 +89858,7 @@ window.allHeroes =
         "passives": [],
         "family": "winter",
         "costume_id": 0,
-        "originalIndex": 1280,
+        "originalIndex": 1282,
         "lb1": {
             "attack": 666,
             "defense": 894,
@@ -89744,7 +89897,7 @@ window.allHeroes =
         "color": "紅",
         "class": "術士",
         "speed": "慢速",
-        "skill": "石之贈禮",
+        "skill": "終極禮袋",
         "types": [
             "攻擊所有目標",
             "召喚所有",
@@ -89781,7 +89934,7 @@ window.allHeroes =
         ],
         "family": "winter",
         "costume_id": 1,
-        "originalIndex": 1281,
+        "originalIndex": 1283,
         "lb1": {
             "attack": 688,
             "defense": 883,
@@ -89858,7 +90011,7 @@ window.allHeroes =
         ],
         "family": "slayers",
         "costume_id": 0,
-        "originalIndex": 1282,
+        "originalIndex": 1284,
         "lb1": {
             "attack": 794,
             "defense": 872,
@@ -89897,7 +90050,7 @@ window.allHeroes =
         "color": "紅",
         "class": "騎士",
         "speed": "殺手",
-        "skill": "壓裂切割",
+        "skill": "斷裂連斬",
         "types": [
             "攻擊3個目標",
             "3個目標防禦降低",
@@ -89940,7 +90093,7 @@ window.allHeroes =
         ],
         "family": "slayers",
         "costume_id": 1,
-        "originalIndex": 1283,
+        "originalIndex": 1285,
         "lb1": {
             "attack": 705,
             "defense": 945,
@@ -90020,7 +90173,7 @@ window.allHeroes =
         ],
         "family": "construct",
         "costume_id": 0,
-        "originalIndex": 1284,
+        "originalIndex": 1286,
         "lb1": {
             "attack": 1127,
             "defense": 1083,
@@ -90094,7 +90247,7 @@ window.allHeroes =
         ],
         "family": "astral_dwarfs",
         "costume_id": 0,
-        "originalIndex": 1285,
+        "originalIndex": 1287,
         "lb1": {
             "attack": 1369,
             "defense": 1323,
@@ -90168,7 +90321,7 @@ window.allHeroes =
         ],
         "family": "sun",
         "costume_id": 0,
-        "originalIndex": 1286,
+        "originalIndex": 1288,
         "lb1": {
             "attack": 959,
             "defense": 843,
@@ -90197,7 +90350,7 @@ window.allHeroes =
         "color": "紅",
         "class": "巫師",
         "speed": "快速",
-        "skill": "母獅猛撲",
+        "skill": "獅子猛撲",
         "types": [
             "攻擊單個目標",
             "全體傷害治療"
@@ -90235,7 +90388,7 @@ window.allHeroes =
         ],
         "family": "sun",
         "costume_id": 1,
-        "originalIndex": 1287,
+        "originalIndex": 1289,
         "lb1": {
             "attack": 987,
             "defense": 821,
@@ -90304,7 +90457,7 @@ window.allHeroes =
         "passives": [],
         "family": "ninja",
         "costume_id": 0,
-        "originalIndex": 1288,
+        "originalIndex": 1290,
         "lb1": {
             "attack": 987,
             "defense": 850,
@@ -90381,7 +90534,7 @@ window.allHeroes =
         ],
         "family": "construct",
         "costume_id": 0,
-        "originalIndex": 1289,
+        "originalIndex": 1291,
         "lb1": {
             "attack": 1409,
             "defense": 1407,
@@ -90457,7 +90610,7 @@ window.allHeroes =
         ],
         "family": "hotm2023",
         "costume_id": 0,
-        "originalIndex": 1290,
+        "originalIndex": 1292,
         "lb1": {
             "attack": 825,
             "defense": 852,
@@ -90533,7 +90686,7 @@ window.allHeroes =
         ],
         "family": "astral_elves",
         "costume_id": 0,
-        "originalIndex": 1291,
+        "originalIndex": 1293,
         "lb1": {
             "attack": 1143,
             "defense": 1078,
@@ -90604,7 +90757,7 @@ window.allHeroes =
         "passives": [],
         "family": "kingdom",
         "costume_id": 0,
-        "originalIndex": 1292,
+        "originalIndex": 1294,
         "lb1": {
             "attack": 852,
             "defense": 859,
@@ -90643,7 +90796,7 @@ window.allHeroes =
         "color": "紅",
         "class": "盜賊",
         "speed": "中等",
-        "skill": "進攻指令",
+        "skill": "全軍出擊",
         "types": [
             "攻擊3個目標",
             "召喚者",
@@ -90680,7 +90833,7 @@ window.allHeroes =
         ],
         "family": "kingdom",
         "costume_id": 1,
-        "originalIndex": 1293,
+        "originalIndex": 1295,
         "lb1": {
             "attack": 899,
             "defense": 814,
@@ -90756,7 +90909,7 @@ window.allHeroes =
         ],
         "family": "hotm2022",
         "costume_id": 0,
-        "originalIndex": 1294,
+        "originalIndex": 1296,
         "lb1": {
             "attack": 856,
             "defense": 799,
@@ -90830,7 +90983,7 @@ window.allHeroes =
         ],
         "family": "moon",
         "costume_id": 0,
-        "originalIndex": 1295,
+        "originalIndex": 1297,
         "lb1": {
             "attack": 894,
             "defense": 870,
@@ -90868,7 +91021,7 @@ window.allHeroes =
         "color": "紅",
         "class": "巫師",
         "speed": "快速",
-        "skill": "古代火焰",
+        "skill": "遠古之咒",
         "types": [
             "攻擊3個目標",
             "單體防禦降低"
@@ -90908,7 +91061,7 @@ window.allHeroes =
         ],
         "family": "moon",
         "costume_id": 1,
-        "originalIndex": 1296,
+        "originalIndex": 1298,
         "lb1": {
             "attack": 932,
             "defense": 836,
@@ -90974,7 +91127,7 @@ window.allHeroes =
         "passives": [],
         "family": "easter",
         "costume_id": 0,
-        "originalIndex": 1297,
+        "originalIndex": 1299,
         "lb1": {
             "attack": 1054,
             "defense": 1067,
@@ -91046,7 +91199,7 @@ window.allHeroes =
         ],
         "family": "bear",
         "costume_id": 0,
-        "originalIndex": 1298,
+        "originalIndex": 1300,
         "lb1": {
             "attack": 1114,
             "defense": 1018,
@@ -91115,7 +91268,7 @@ window.allHeroes =
         "passives": [],
         "family": "helheim",
         "costume_id": 0,
-        "originalIndex": 1299,
+        "originalIndex": 1301,
         "lb1": {
             "attack": 832,
             "defense": 814,
@@ -91155,7 +91308,7 @@ window.allHeroes =
         "color": "紅",
         "class": "野人",
         "speed": "快速",
-        "skill": "強悍利爪",
+        "skill": "金剛利爪",
         "types": [
             "攻擊3個目標",
             "無視防禦",
@@ -91189,7 +91342,7 @@ window.allHeroes =
         "passives": [],
         "family": "helheim",
         "costume_id": 1,
-        "originalIndex": 1300,
+        "originalIndex": 1302,
         "lb1": {
             "attack": 832,
             "defense": 814,
@@ -91270,7 +91423,7 @@ window.allHeroes =
         ],
         "family": "kalevala",
         "costume_id": 0,
-        "originalIndex": 1301,
+        "originalIndex": 1303,
         "lb1": {
             "attack": 912,
             "defense": 1007,
@@ -91309,7 +91462,7 @@ window.allHeroes =
         "color": "紅",
         "class": "術士",
         "speed": "中等",
-        "skill": "煉獄和弦",
+        "skill": "失真合音",
         "types": [
             "攻擊所有目標",
             "攻擊降低",
@@ -91346,7 +91499,7 @@ window.allHeroes =
         ],
         "family": "kalevala",
         "costume_id": 1,
-        "originalIndex": 1302,
+        "originalIndex": 1304,
         "lb1": {
             "attack": 932,
             "defense": 987,
@@ -91419,7 +91572,7 @@ window.allHeroes =
         ],
         "family": "halloween",
         "costume_id": 0,
-        "originalIndex": 1303,
+        "originalIndex": 1305,
         "lb1": {
             "attack": 834,
             "defense": 792,
@@ -91457,7 +91610,7 @@ window.allHeroes =
         "color": "紅",
         "class": "巫師",
         "speed": "飛速",
-        "skill": "毁灭之暮",
+        "skill": "悲傷之暮",
         "types": [
             "攻擊所有目標",
             "治療偷取",
@@ -91492,7 +91645,7 @@ window.allHeroes =
         ],
         "family": "halloween",
         "costume_id": 1,
-        "originalIndex": 1304,
+        "originalIndex": 1306,
         "lb1": {
             "attack": 828,
             "defense": 799,
@@ -91566,7 +91719,7 @@ window.allHeroes =
         ],
         "family": "garrison",
         "costume_id": 0,
-        "originalIndex": 1305,
+        "originalIndex": 1307,
         "lb1": {
             "attack": 1214,
             "defense": 1192,
@@ -91642,7 +91795,7 @@ window.allHeroes =
         ],
         "family": "beowulf",
         "costume_id": 0,
-        "originalIndex": 1306,
+        "originalIndex": 1308,
         "lb1": {
             "attack": 1411,
             "defense": 1354,
@@ -91721,7 +91874,7 @@ window.allHeroes =
         ],
         "family": "abyss",
         "costume_id": 0,
-        "originalIndex": 1307,
+        "originalIndex": 1309,
         "lb1": {
             "attack": 899,
             "defense": 865,
@@ -91761,7 +91914,7 @@ window.allHeroes =
         "color": "紅",
         "class": "僧侶",
         "speed": "中等",
-        "skill": "地獄火焰",
+        "skill": "地獄烈火",
         "types": [
             "攻擊所有目標",
             "全體持續傷害",
@@ -91800,7 +91953,7 @@ window.allHeroes =
         ],
         "family": "abyss",
         "costume_id": 1,
-        "originalIndex": 1308,
+        "originalIndex": 1310,
         "lb1": {
             "attack": 890,
             "defense": 876,
@@ -91871,7 +92024,7 @@ window.allHeroes =
         ],
         "family": "zodiac",
         "costume_id": 0,
-        "originalIndex": 1309,
+        "originalIndex": 1311,
         "lb1": {
             "attack": 921,
             "defense": 883,
@@ -91939,7 +92092,7 @@ window.allHeroes =
         ],
         "family": "journey",
         "costume_id": 0,
-        "originalIndex": 1310,
+        "originalIndex": 1312,
         "lb1": {
             "attack": 1058,
             "defense": 1032,
@@ -92007,7 +92160,7 @@ window.allHeroes =
         ],
         "family": "hotm2021",
         "costume_id": 0,
-        "originalIndex": 1311,
+        "originalIndex": 1313,
         "lb1": {
             "attack": 801,
             "defense": 821,
@@ -92079,7 +92232,7 @@ window.allHeroes =
         ],
         "family": "faun",
         "costume_id": 0,
-        "originalIndex": 1312,
+        "originalIndex": 1314,
         "lb1": {
             "attack": 1338,
             "defense": 1183,
@@ -92155,7 +92308,7 @@ window.allHeroes =
         ],
         "family": "hotm2022",
         "costume_id": 0,
-        "originalIndex": 1313,
+        "originalIndex": 1315,
         "lb1": {
             "attack": 836,
             "defense": 814,
@@ -92230,7 +92383,7 @@ window.allHeroes =
         ],
         "family": "hotm2024",
         "costume_id": 0,
-        "originalIndex": 1314,
+        "originalIndex": 1316,
         "lb1": {
             "attack": 1152,
             "defense": 934,
@@ -92304,7 +92457,7 @@ window.allHeroes =
         ],
         "family": "super_elemental",
         "costume_id": 0,
-        "originalIndex": 1315,
+        "originalIndex": 1317,
         "lb1": {
             "attack": 1076,
             "defense": 1018,
@@ -92371,7 +92524,7 @@ window.allHeroes =
         ],
         "family": "abyss",
         "costume_id": 0,
-        "originalIndex": 1316,
+        "originalIndex": 1318,
         "lb1": {
             "attack": 888,
             "defense": 814,
@@ -92404,7 +92557,7 @@ window.allHeroes =
         "color": "紅",
         "class": "術士",
         "speed": "中等",
-        "skill": "花之刺擊",
+        "skill": "二連刺",
         "types": [
             "攻擊2個目標",
             "改變棋盤"
@@ -92443,7 +92596,7 @@ window.allHeroes =
         ],
         "family": "abyss",
         "costume_id": 1,
-        "originalIndex": 1317,
+        "originalIndex": 1319,
         "lb1": {
             "attack": 901,
             "defense": 799,
@@ -92511,7 +92664,7 @@ window.allHeroes =
         ],
         "family": "slime",
         "costume_id": 0,
-        "originalIndex": 1318,
+        "originalIndex": 1320,
         "lb1": {
             "attack": 1389,
             "defense": 1351,
@@ -92589,7 +92742,7 @@ window.allHeroes =
         ],
         "family": "hotm2024",
         "costume_id": 0,
-        "originalIndex": 1319,
+        "originalIndex": 1321,
         "lb1": {
             "attack": 1223,
             "defense": 1047,
@@ -92662,7 +92815,7 @@ window.allHeroes =
         "passives": [],
         "family": "hotm2018",
         "costume_id": 0,
-        "originalIndex": 1320,
+        "originalIndex": 1322,
         "lb1": {
             "attack": 770,
             "defense": 734,
@@ -92700,7 +92853,7 @@ window.allHeroes =
         "color": "紅",
         "class": "騎士",
         "speed": "快速",
-        "skill": "早晨抓捕",
+        "skill": "黎明打擊",
         "types": [
             "驅散者",
             "攻擊所有目標"
@@ -92735,7 +92888,7 @@ window.allHeroes =
         ],
         "family": "hotm2018",
         "costume_id": 1,
-        "originalIndex": 1321,
+        "originalIndex": 1323,
         "lb1": {
             "attack": 765,
             "defense": 750,
@@ -92796,7 +92949,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 0,
-        "originalIndex": 1322,
+        "originalIndex": 1324,
         "lb1": {
             "attack": 222,
             "defense": 189,
@@ -92841,7 +92994,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 0,
-        "originalIndex": 1323,
+        "originalIndex": 1325,
         "lb1": {
             "attack": 205,
             "defense": 188,
@@ -92886,7 +93039,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 0,
-        "originalIndex": 1324,
+        "originalIndex": 1326,
         "lb1": {
             "attack": 366,
             "defense": 341,
@@ -92934,7 +93087,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 0,
-        "originalIndex": 1325,
+        "originalIndex": 1327,
         "lb1": {
             "attack": 331,
             "defense": 343,
@@ -92979,7 +93132,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 0,
-        "originalIndex": 1326,
+        "originalIndex": 1328,
         "lb1": {
             "attack": 275,
             "defense": 345,
@@ -93026,7 +93179,7 @@ window.allHeroes =
         "passives": [],
         "family": "asgard",
         "costume_id": 0,
-        "originalIndex": 1327,
+        "originalIndex": 1329,
         "lb1": {
             "attack": 630,
             "defense": 551,
@@ -93091,7 +93244,7 @@ window.allHeroes =
         "passives": [],
         "family": "sand",
         "costume_id": 0,
-        "originalIndex": 1328,
+        "originalIndex": 1330,
         "lb1": {
             "attack": 541,
             "defense": 474,
@@ -93153,7 +93306,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 0,
-        "originalIndex": 1329,
+        "originalIndex": 1331,
         "lb1": {
             "attack": 531,
             "defense": 464,
@@ -93186,7 +93339,7 @@ window.allHeroes =
         "color": "黃",
         "class": "遊俠",
         "speed": "快速",
-        "skill": "諧波猛擊",
+        "skill": "諧波震顫",
         "types": [
             "攻擊單個目標",
             "單體致盲"
@@ -93213,7 +93366,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 1,
-        "originalIndex": 1330,
+        "originalIndex": 1332,
         "lb1": {
             "attack": 571,
             "defense": 457,
@@ -93246,7 +93399,7 @@ window.allHeroes =
         "color": "黃",
         "class": "僧侶",
         "speed": "快速",
-        "skill": "公仔重擊",
+        "skill": "諧波震顫",
         "types": [
             "攻擊單個目標",
             "單體致盲"
@@ -93279,7 +93432,7 @@ window.allHeroes =
         ],
         "family": "classic",
         "costume_id": 2,
-        "originalIndex": 1331,
+        "originalIndex": 1333,
         "lb1": {
             "attack": 541,
             "defense": 447,
@@ -93317,7 +93470,7 @@ window.allHeroes =
         "color": "黃",
         "class": "僧侶",
         "speed": "快速",
-        "skill": "玻璃猛撞",
+        "skill": "諧波震顫",
         "types": [
             "攻擊單個目標",
             "無視防禦",
@@ -93351,7 +93504,7 @@ window.allHeroes =
         ],
         "family": "classic",
         "costume_id": 3,
-        "originalIndex": 1332,
+        "originalIndex": 1334,
         "lb1": {
             "attack": 545,
             "defense": 443,
@@ -93412,7 +93565,7 @@ window.allHeroes =
         "passives": [],
         "family": "wolf",
         "costume_id": 0,
-        "originalIndex": 1333,
+        "originalIndex": 1335,
         "lb1": {
             "attack": 557,
             "defense": 522,
@@ -93466,7 +93619,7 @@ window.allHeroes =
         "passives": [],
         "family": "circus",
         "costume_id": 0,
-        "originalIndex": 1334,
+        "originalIndex": 1336,
         "lb1": {
             "attack": 527,
             "defense": 553,
@@ -93531,7 +93684,7 @@ window.allHeroes =
         ],
         "family": "jungle_hunter",
         "costume_id": 0,
-        "originalIndex": 1335,
+        "originalIndex": 1337,
         "lb1": {
             "attack": 606,
             "defense": 541,
@@ -93597,7 +93750,7 @@ window.allHeroes =
         "passives": [],
         "family": "cultist",
         "costume_id": 0,
-        "originalIndex": 1336,
+        "originalIndex": 1338,
         "lb1": {
             "attack": 551,
             "defense": 529,
@@ -93655,7 +93808,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 0,
-        "originalIndex": 1337,
+        "originalIndex": 1339,
         "lb1": {
             "attack": 553,
             "defense": 443,
@@ -93683,7 +93836,7 @@ window.allHeroes =
         "color": "黃",
         "class": "野人",
         "speed": "中等",
-        "skill": "重擊攻擊",
+        "skill": "跳躍攻擊",
         "types": [
             "攻擊單個目標",
             "隨機攻擊1個目標"
@@ -93710,7 +93863,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 1,
-        "originalIndex": 1338,
+        "originalIndex": 1340,
         "lb1": {
             "attack": 569,
             "defense": 457,
@@ -93744,7 +93897,7 @@ window.allHeroes =
         "color": "黃",
         "class": "盜賊",
         "speed": "中等",
-        "skill": "公仔攻擊",
+        "skill": "跳躍攻擊",
         "types": [
             "攻擊3個目標"
         ],
@@ -93774,7 +93927,7 @@ window.allHeroes =
         ],
         "family": "classic",
         "costume_id": 2,
-        "originalIndex": 1339,
+        "originalIndex": 1341,
         "lb1": {
             "attack": 529,
             "defense": 506,
@@ -93807,7 +93960,7 @@ window.allHeroes =
         "color": "黃",
         "class": "盜賊",
         "speed": "中等",
-        "skill": "玻璃攻擊",
+        "skill": "跳躍攻擊",
         "types": [
             "攻擊3個目標",
             "無視防禦"
@@ -93838,7 +93991,7 @@ window.allHeroes =
         ],
         "family": "classic",
         "costume_id": 3,
-        "originalIndex": 1340,
+        "originalIndex": 1342,
         "lb1": {
             "attack": 539,
             "defense": 500,
@@ -93907,7 +94060,7 @@ window.allHeroes =
         ],
         "family": "beachparty",
         "costume_id": 0,
-        "originalIndex": 1341,
+        "originalIndex": 1343,
         "lb1": {
             "attack": 594,
             "defense": 555,
@@ -93975,7 +94128,7 @@ window.allHeroes =
         ],
         "family": "plains_hunter",
         "costume_id": 0,
-        "originalIndex": 1342,
+        "originalIndex": 1344,
         "lb1": {
             "attack": 494,
             "defense": 577,
@@ -94048,7 +94201,7 @@ window.allHeroes =
         ],
         "family": "musketeer",
         "costume_id": 0,
-        "originalIndex": 1343,
+        "originalIndex": 1345,
         "lb1": {
             "attack": 608,
             "defense": 579,
@@ -94087,7 +94240,7 @@ window.allHeroes =
         "color": "黃",
         "class": "野人",
         "speed": "快速",
-        "skill": "劍客刺擊",
+        "skill": "無悔戳擊",
         "types": [
             "攻擊單個目標",
             "全體增益反射",
@@ -94126,7 +94279,7 @@ window.allHeroes =
         ],
         "family": "musketeer",
         "costume_id": 1,
-        "originalIndex": 1344,
+        "originalIndex": 1346,
         "lb1": {
             "attack": 616,
             "defense": 577,
@@ -94191,7 +94344,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 0,
-        "originalIndex": 1345,
+        "originalIndex": 1347,
         "lb1": {
             "attack": 529,
             "defense": 411,
@@ -94224,7 +94377,7 @@ window.allHeroes =
         "color": "黃",
         "class": "野人",
         "speed": "快速",
-        "skill": "鄉村砍擊",
+        "skill": "神秘砍擊",
         "types": [
             "攻擊單個目標",
             "單體法力削減"
@@ -94251,7 +94404,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 1,
-        "originalIndex": 1346,
+        "originalIndex": 1348,
         "lb1": {
             "attack": 561,
             "defense": 401,
@@ -94284,7 +94437,7 @@ window.allHeroes =
         "color": "黃",
         "class": "僧侶",
         "speed": "快速",
-        "skill": "公仔砍擊",
+        "skill": "神秘砍擊",
         "types": [
             "攻擊單個目標",
             "單體法力削減"
@@ -94317,7 +94470,7 @@ window.allHeroes =
         ],
         "family": "classic",
         "costume_id": 2,
-        "originalIndex": 1347,
+        "originalIndex": 1349,
         "lb1": {
             "attack": 531,
             "defense": 415,
@@ -94351,7 +94504,7 @@ window.allHeroes =
         "color": "黃",
         "class": "僧侶",
         "speed": "快速",
-        "skill": "玻璃砍擊",
+        "skill": "神秘砍擊",
         "types": [
             "攻擊單個目標",
             "無視防禦",
@@ -94385,7 +94538,7 @@ window.allHeroes =
         ],
         "family": "classic",
         "costume_id": 3,
-        "originalIndex": 1348,
+        "originalIndex": 1350,
         "lb1": {
             "attack": 535,
             "defense": 413,
@@ -94450,7 +94603,7 @@ window.allHeroes =
         ],
         "family": "slime",
         "costume_id": 0,
-        "originalIndex": 1349,
+        "originalIndex": 1351,
         "lb1": {
             "attack": 620,
             "defense": 577,
@@ -94522,7 +94675,7 @@ window.allHeroes =
         ],
         "family": "construct",
         "costume_id": 0,
-        "originalIndex": 1350,
+        "originalIndex": 1352,
         "lb1": {
             "attack": 614,
             "defense": 594,
@@ -94594,7 +94747,7 @@ window.allHeroes =
         ],
         "family": "tales1_goodies",
         "costume_id": 0,
-        "originalIndex": 1351,
+        "originalIndex": 1353,
         "lb1": {
             "attack": 579,
             "defense": 535,
@@ -94627,7 +94780,7 @@ window.allHeroes =
         "color": "黃",
         "class": "巫師",
         "speed": "潮汐",
-        "skill": "可疑混合物",
+        "skill": "可疑商品",
         "types": [
             "偷取單個目標法力",
             "攻擊3個目標"
@@ -94669,7 +94822,7 @@ window.allHeroes =
         ],
         "family": "tales1_goodies",
         "costume_id": 1,
-        "originalIndex": 1352,
+        "originalIndex": 1354,
         "lb1": {
             "attack": 500,
             "defense": 626,
@@ -94734,7 +94887,7 @@ window.allHeroes =
         "passives": [],
         "family": "winter",
         "costume_id": 0,
-        "originalIndex": 1353,
+        "originalIndex": 1355,
         "lb1": {
             "attack": 512,
             "defense": 525,
@@ -94799,7 +94952,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 0,
-        "originalIndex": 1354,
+        "originalIndex": 1356,
         "lb1": {
             "attack": 486,
             "defense": 514,
@@ -94828,7 +94981,7 @@ window.allHeroes =
         "color": "黃",
         "class": "術士",
         "speed": "慢速",
-        "skill": "靈魂齊聚",
+        "skill": "靈魂羈絆",
         "types": [
             "友方傷害分擔",
             "全體攻擊增益"
@@ -94855,7 +95008,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 1,
-        "originalIndex": 1355,
+        "originalIndex": 1357,
         "lb1": {
             "attack": 457,
             "defense": 537,
@@ -94884,7 +95037,7 @@ window.allHeroes =
         "color": "黃",
         "class": "牧師",
         "speed": "慢速",
-        "skill": "公仔絕妙連結",
+        "skill": "靈魂羈絆",
         "types": [
             "友方傷害分擔",
             "全體防禦增益"
@@ -94915,7 +95068,7 @@ window.allHeroes =
         ],
         "family": "classic",
         "costume_id": 2,
-        "originalIndex": 1356,
+        "originalIndex": 1358,
         "lb1": {
             "attack": 484,
             "defense": 518,
@@ -94944,7 +95097,7 @@ window.allHeroes =
         "color": "黃",
         "class": "牧師",
         "speed": "慢速",
-        "skill": "玻璃連結",
+        "skill": "靈魂羈絆",
         "types": [
             "友方傷害分擔",
             "全體防禦增益",
@@ -94979,7 +95132,7 @@ window.allHeroes =
         ],
         "family": "classic",
         "costume_id": 3,
-        "originalIndex": 1357,
+        "originalIndex": 1359,
         "lb1": {
             "attack": 470,
             "defense": 531,
@@ -95041,7 +95194,7 @@ window.allHeroes =
         "passives": [],
         "family": "ninja",
         "costume_id": 0,
-        "originalIndex": 1358,
+        "originalIndex": 1360,
         "lb1": {
             "attack": 616,
             "defense": 583,
@@ -95098,7 +95251,7 @@ window.allHeroes =
         "passives": [],
         "family": "alfheim",
         "costume_id": 0,
-        "originalIndex": 1359,
+        "originalIndex": 1361,
         "lb1": {
             "attack": 486,
             "defense": 480,
@@ -95137,7 +95290,7 @@ window.allHeroes =
         "color": "黃",
         "class": "騎士",
         "speed": "快速",
-        "skill": "蜂式衝擊",
+        "skill": "蜂式蠻進",
         "types": [
             "召喚者"
         ],
@@ -95166,7 +95319,7 @@ window.allHeroes =
         "passives": [],
         "family": "alfheim",
         "costume_id": 1,
-        "originalIndex": 1360,
+        "originalIndex": 1362,
         "lb1": {
             "attack": 472,
             "defense": 488,
@@ -95231,7 +95384,7 @@ window.allHeroes =
         "passives": [],
         "family": "atlantis",
         "costume_id": 0,
-        "originalIndex": 1361,
+        "originalIndex": 1363,
         "lb1": {
             "attack": 573,
             "defense": 459,
@@ -95264,7 +95417,7 @@ window.allHeroes =
         "color": "黃",
         "class": "戰士",
         "speed": "快速",
-        "skill": "亞特蘭蒂斯之刃",
+        "skill": "亞特蘭蒂斯刀劍",
         "types": [
             "攻擊所有目標",
             "命中降低"
@@ -95291,7 +95444,7 @@ window.allHeroes =
         "passives": [],
         "family": "atlantis",
         "costume_id": 1,
-        "originalIndex": 1362,
+        "originalIndex": 1364,
         "lb1": {
             "attack": 589,
             "defense": 447,
@@ -95357,7 +95510,7 @@ window.allHeroes =
         ],
         "family": "owl",
         "costume_id": 0,
-        "originalIndex": 1363,
+        "originalIndex": 1365,
         "lb1": {
             "attack": 490,
             "defense": 604,
@@ -95413,7 +95566,7 @@ window.allHeroes =
         "passives": [],
         "family": "fable",
         "costume_id": 0,
-        "originalIndex": 1364,
+        "originalIndex": 1366,
         "lb1": {
             "attack": 484,
             "defense": 494,
@@ -95475,7 +95628,7 @@ window.allHeroes =
         ],
         "family": "abyss",
         "costume_id": 0,
-        "originalIndex": 1365,
+        "originalIndex": 1367,
         "lb1": {
             "attack": 563,
             "defense": 514,
@@ -95504,7 +95657,7 @@ window.allHeroes =
         "color": "黃",
         "class": "盜賊",
         "speed": "快速",
-        "skill": "昏睡閃電",
+        "skill": "彈射閃電",
         "types": [
             "攻擊單個目標"
         ],
@@ -95534,7 +95687,7 @@ window.allHeroes =
         ],
         "family": "abyss",
         "costume_id": 1,
-        "originalIndex": 1366,
+        "originalIndex": 1368,
         "lb1": {
             "attack": 567,
             "defense": 512,
@@ -95595,7 +95748,7 @@ window.allHeroes =
         ],
         "family": "sun",
         "costume_id": 0,
-        "originalIndex": 1367,
+        "originalIndex": 1369,
         "lb1": {
             "attack": 533,
             "defense": 559,
@@ -95629,7 +95782,7 @@ window.allHeroes =
         "color": "黃",
         "class": "牧師",
         "speed": "中等",
-        "skill": "迷惑油漆",
+        "skill": "困惑之謎",
         "types": [
             "強化持續治療"
         ],
@@ -95667,7 +95820,7 @@ window.allHeroes =
         ],
         "family": "sun",
         "costume_id": 1,
-        "originalIndex": 1368,
+        "originalIndex": 1370,
         "lb1": {
             "attack": 547,
             "defense": 551,
@@ -95736,7 +95889,7 @@ window.allHeroes =
         ],
         "family": "mighty_pet",
         "costume_id": 0,
-        "originalIndex": 1369,
+        "originalIndex": 1371,
         "lb1": {
             "attack": 551,
             "defense": 567,
@@ -95814,7 +95967,7 @@ window.allHeroes =
         ],
         "family": "construct",
         "costume_id": 0,
-        "originalIndex": 1370,
+        "originalIndex": 1372,
         "lb1": {
             "attack": 561,
             "defense": 577,
@@ -95873,7 +96026,7 @@ window.allHeroes =
         "passives": [],
         "family": "pirate",
         "costume_id": 0,
-        "originalIndex": 1371,
+        "originalIndex": 1373,
         "lb1": {
             "attack": 549,
             "defense": 529,
@@ -95939,7 +96092,7 @@ window.allHeroes =
         ],
         "family": "faun",
         "costume_id": 0,
-        "originalIndex": 1372,
+        "originalIndex": 1374,
         "lb1": {
             "attack": 606,
             "defense": 539,
@@ -96012,7 +96165,7 @@ window.allHeroes =
         ],
         "family": "beowulf",
         "costume_id": 0,
-        "originalIndex": 1373,
+        "originalIndex": 1375,
         "lb1": {
             "attack": 771,
             "defense": 801,
@@ -96085,7 +96238,7 @@ window.allHeroes =
         ],
         "family": "magic",
         "costume_id": 0,
-        "originalIndex": 1374,
+        "originalIndex": 1376,
         "lb1": {
             "attack": 725,
             "defense": 681,
@@ -96149,7 +96302,7 @@ window.allHeroes =
         ],
         "family": "gargoyle",
         "costume_id": 0,
-        "originalIndex": 1375,
+        "originalIndex": 1377,
         "lb1": {
             "attack": 759,
             "defense": 685,
@@ -96216,7 +96369,7 @@ window.allHeroes =
         ],
         "family": "abyss_hunter",
         "costume_id": 0,
-        "originalIndex": 1376,
+        "originalIndex": 1378,
         "lb1": {
             "attack": 708,
             "defense": 731,
@@ -96286,7 +96439,7 @@ window.allHeroes =
         ],
         "family": "beauty_beast",
         "costume_id": 0,
-        "originalIndex": 1377,
+        "originalIndex": 1379,
         "lb1": {
             "attack": 909,
             "defense": 842,
@@ -96345,7 +96498,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 0,
-        "originalIndex": 1378,
+        "originalIndex": 1380,
         "lb1": {
             "attack": 660,
             "defense": 734,
@@ -96378,7 +96531,7 @@ window.allHeroes =
         "color": "黃",
         "class": "德魯伊",
         "speed": "快速",
-        "skill": "鳥類劃傷",
+        "skill": "戰術之斬",
         "types": [
             "攻擊單個目標",
             "偷取單個目標法力"
@@ -96406,7 +96559,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 1,
-        "originalIndex": 1379,
+        "originalIndex": 1381,
         "lb1": {
             "attack": 697,
             "defense": 704,
@@ -96439,7 +96592,7 @@ window.allHeroes =
         "color": "黃",
         "class": "野人",
         "speed": "快速",
-        "skill": "幼獸領袖切割",
+        "skill": "戰術之斬",
         "types": [
             "攻擊3個目標",
             "3個目標法力生成降低"
@@ -96466,7 +96619,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 2,
-        "originalIndex": 1380,
+        "originalIndex": 1382,
         "lb1": {
             "attack": 734,
             "defense": 667,
@@ -96499,7 +96652,7 @@ window.allHeroes =
         "color": "黃",
         "class": "遊俠",
         "speed": "快速",
-        "skill": "公仔驚奇切擊",
+        "skill": "戰術之斬",
         "types": [
             "攻擊單個目標",
             "單體法力削減"
@@ -96532,7 +96685,7 @@ window.allHeroes =
         ],
         "family": "classic",
         "costume_id": 3,
-        "originalIndex": 1381,
+        "originalIndex": 1383,
         "lb1": {
             "attack": 750,
             "defense": 653,
@@ -96566,7 +96719,7 @@ window.allHeroes =
         "color": "黃",
         "class": "遊俠",
         "speed": "快速",
-        "skill": "彩繪玻璃切擊",
+        "skill": "戰術之斬",
         "types": [
             "攻擊單個目標",
             "單體法力削減",
@@ -96600,7 +96753,7 @@ window.allHeroes =
         ],
         "family": "classic",
         "costume_id": 4,
-        "originalIndex": 1382,
+        "originalIndex": 1384,
         "lb1": {
             "attack": 768,
             "defense": 634,
@@ -96667,7 +96820,7 @@ window.allHeroes =
         "passives": [],
         "family": "circus",
         "costume_id": 0,
-        "originalIndex": 1383,
+        "originalIndex": 1385,
         "lb1": {
             "attack": 683,
             "defense": 692,
@@ -96737,7 +96890,7 @@ window.allHeroes =
         "passives": [],
         "family": "japanese",
         "costume_id": 0,
-        "originalIndex": 1384,
+        "originalIndex": 1386,
         "lb1": {
             "attack": 676,
             "defense": 692,
@@ -96782,7 +96935,7 @@ window.allHeroes =
         "color": "黃",
         "class": "術士",
         "speed": "中等",
-        "skill": "驚人優惠",
+        "skill": "戲法師金牌手",
         "types": [
             "賭徒"
         ],
@@ -96820,7 +96973,7 @@ window.allHeroes =
         "passives": [],
         "family": "japanese",
         "costume_id": 1,
-        "originalIndex": 1385,
+        "originalIndex": 1387,
         "lb1": {
             "attack": 644,
             "defense": 704,
@@ -96902,7 +97055,7 @@ window.allHeroes =
         ],
         "family": "astral_dwarfs",
         "costume_id": 0,
-        "originalIndex": 1386,
+        "originalIndex": 1388,
         "lb1": {
             "attack": 785,
             "defense": 852,
@@ -96977,7 +97130,7 @@ window.allHeroes =
         ],
         "family": "nidavellir",
         "costume_id": 0,
-        "originalIndex": 1387,
+        "originalIndex": 1389,
         "lb1": {
             "attack": 780,
             "defense": 755,
@@ -97017,7 +97170,7 @@ window.allHeroes =
         "color": "黃",
         "class": "戰士",
         "speed": "中等",
-        "skill": "不死懺悔",
+        "skill": "詩意正義",
         "types": [
             "無視小兵",
             "攻擊單個目標",
@@ -97060,7 +97213,7 @@ window.allHeroes =
         ],
         "family": "nidavellir",
         "costume_id": 1,
-        "originalIndex": 1388,
+        "originalIndex": 1390,
         "lb1": {
             "attack": 785,
             "defense": 750,
@@ -97135,7 +97288,7 @@ window.allHeroes =
         ],
         "family": "goblin",
         "costume_id": 0,
-        "originalIndex": 1389,
+        "originalIndex": 1391,
         "lb1": {
             "attack": 699,
             "defense": 778,
@@ -97198,7 +97351,7 @@ window.allHeroes =
         "passives": [],
         "family": "fable",
         "costume_id": 0,
-        "originalIndex": 1390,
+        "originalIndex": 1392,
         "lb1": {
             "attack": 764,
             "defense": 651,
@@ -97266,7 +97419,7 @@ window.allHeroes =
         ],
         "family": "abyss",
         "costume_id": 0,
-        "originalIndex": 1391,
+        "originalIndex": 1393,
         "lb1": {
             "attack": 803,
             "defense": 695,
@@ -97299,7 +97452,7 @@ window.allHeroes =
         "color": "黃",
         "class": "牧師",
         "speed": "快速",
-        "skill": "神聖猛刺",
+        "skill": "無形打擊",
         "types": [
             "攻擊單個目標",
             "繞過3個目標"
@@ -97330,7 +97483,7 @@ window.allHeroes =
         ],
         "family": "abyss",
         "costume_id": 1,
-        "originalIndex": 1392,
+        "originalIndex": 1394,
         "lb1": {
             "attack": 808,
             "defense": 713,
@@ -97405,7 +97558,7 @@ window.allHeroes =
         ],
         "family": "outlaw",
         "costume_id": 0,
-        "originalIndex": 1393,
+        "originalIndex": 1395,
         "lb1": {
             "attack": 815,
             "defense": 785,
@@ -97470,7 +97623,7 @@ window.allHeroes =
         "passives": [],
         "family": "guardian",
         "costume_id": 0,
-        "originalIndex": 1394,
+        "originalIndex": 1396,
         "lb1": {
             "attack": 831,
             "defense": 577,
@@ -97503,7 +97656,7 @@ window.allHeroes =
         "color": "黃",
         "class": "野人",
         "speed": "飛速",
-        "skill": "斬斷打擊",
+        "skill": "射線打擊",
         "types": [
             "攻擊單個目標",
             "防禦增益"
@@ -97530,7 +97683,7 @@ window.allHeroes =
         "passives": [],
         "family": "guardian",
         "costume_id": 1,
-        "originalIndex": 1395,
+        "originalIndex": 1397,
         "lb1": {
             "attack": 699,
             "defense": 690,
@@ -97590,7 +97743,7 @@ window.allHeroes =
         "passives": [],
         "family": "asgard",
         "costume_id": 0,
-        "originalIndex": 1396,
+        "originalIndex": 1398,
         "lb1": {
             "attack": 660,
             "defense": 660,
@@ -97656,7 +97809,7 @@ window.allHeroes =
         "passives": [],
         "family": "asgard",
         "costume_id": 1,
-        "originalIndex": 1397,
+        "originalIndex": 1399,
         "lb1": {
             "attack": 646,
             "defense": 671,
@@ -97725,7 +97878,7 @@ window.allHeroes =
         "passives": [],
         "family": "winter",
         "costume_id": 0,
-        "originalIndex": 1398,
+        "originalIndex": 1400,
         "lb1": {
             "attack": 676,
             "defense": 778,
@@ -97791,7 +97944,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 0,
-        "originalIndex": 1399,
+        "originalIndex": 1401,
         "lb1": {
             "attack": 655,
             "defense": 685,
@@ -97824,7 +97977,7 @@ window.allHeroes =
         "color": "黃",
         "class": "騎士",
         "speed": "慢速",
-        "skill": "光環波",
+        "skill": "超音速墻",
         "types": [
             "攻擊所有目標",
             "全體致盲",
@@ -97854,7 +98007,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 1,
-        "originalIndex": 1400,
+        "originalIndex": 1402,
         "lb1": {
             "attack": 602,
             "defense": 771,
@@ -97888,7 +98041,7 @@ window.allHeroes =
         "color": "黃",
         "class": "僧侶",
         "speed": "慢速",
-        "skill": "聲浪",
+        "skill": "超音速墻",
         "types": [
             "攻擊所有目標",
             "全體致盲",
@@ -97918,7 +98071,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 2,
-        "originalIndex": 1401,
+        "originalIndex": 1403,
         "lb1": {
             "attack": 623,
             "defense": 755,
@@ -97952,7 +98105,7 @@ window.allHeroes =
         "color": "黃",
         "class": "戰士",
         "speed": "慢速",
-        "skill": "公仔牆",
+        "skill": "超音速墻",
         "types": [
             "攻擊所有目標",
             "全體致盲"
@@ -97985,7 +98138,7 @@ window.allHeroes =
         ],
         "family": "classic",
         "costume_id": 3,
-        "originalIndex": 1402,
+        "originalIndex": 1404,
         "lb1": {
             "attack": 692,
             "defense": 667,
@@ -98023,7 +98176,7 @@ window.allHeroes =
         "color": "黃",
         "class": "戰士",
         "speed": "慢速",
-        "skill": "玻璃牆",
+        "skill": "超音速墻",
         "types": [
             "攻擊所有目標",
             "無視防禦",
@@ -98057,7 +98210,7 @@ window.allHeroes =
         ],
         "family": "classic",
         "costume_id": 4,
-        "originalIndex": 1403,
+        "originalIndex": 1405,
         "lb1": {
             "attack": 743,
             "defense": 623,
@@ -98120,7 +98273,7 @@ window.allHeroes =
         "passives": [],
         "family": "easter",
         "costume_id": 0,
-        "originalIndex": 1404,
+        "originalIndex": 1406,
         "lb1": {
             "attack": 681,
             "defense": 725,
@@ -98179,7 +98332,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 0,
-        "originalIndex": 1405,
+        "originalIndex": 1407,
         "lb1": {
             "attack": 669,
             "defense": 722,
@@ -98212,7 +98365,7 @@ window.allHeroes =
         "color": "黃",
         "class": "盜賊",
         "speed": "中等",
-        "skill": "七刀連斬",
+        "skill": "七刃連斬",
         "types": [
             "攻擊所有目標",
             "全體法力削減"
@@ -98239,7 +98392,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 1,
-        "originalIndex": 1406,
+        "originalIndex": 1408,
         "lb1": {
             "attack": 683,
             "defense": 715,
@@ -98272,7 +98425,7 @@ window.allHeroes =
         "color": "黃",
         "class": "巫師",
         "speed": "中等",
-        "skill": "七匕首連斬",
+        "skill": "七刃連斬",
         "types": [
             "攻擊3個目標",
             "3個目標沈默者"
@@ -98299,7 +98452,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 2,
-        "originalIndex": 1407,
+        "originalIndex": 1409,
         "lb1": {
             "attack": 685,
             "defense": 711,
@@ -98332,7 +98485,7 @@ window.allHeroes =
         "color": "黃",
         "class": "僧侶",
         "speed": "中等",
-        "skill": "七連斬公仔",
+        "skill": "七刃連斬",
         "types": [
             "攻擊所有目標",
             "全體法力削減"
@@ -98365,7 +98518,7 @@ window.allHeroes =
         ],
         "family": "classic",
         "costume_id": 3,
-        "originalIndex": 1408,
+        "originalIndex": 1410,
         "lb1": {
             "attack": 674,
             "defense": 725,
@@ -98399,7 +98552,7 @@ window.allHeroes =
         "color": "黃",
         "class": "僧侶",
         "speed": "中等",
-        "skill": "玻璃刃連斬",
+        "skill": "七刃連斬",
         "types": [
             "攻擊所有目標",
             "無視防禦",
@@ -98433,7 +98586,7 @@ window.allHeroes =
         ],
         "family": "classic",
         "costume_id": 4,
-        "originalIndex": 1409,
+        "originalIndex": 1411,
         "lb1": {
             "attack": 734,
             "defense": 678,
@@ -98498,7 +98651,7 @@ window.allHeroes =
         "passives": [],
         "family": "midgard",
         "costume_id": 0,
-        "originalIndex": 1410,
+        "originalIndex": 1412,
         "lb1": {
             "attack": 745,
             "defense": 655,
@@ -98568,7 +98721,7 @@ window.allHeroes =
         ],
         "family": "moon",
         "costume_id": 0,
-        "originalIndex": 1411,
+        "originalIndex": 1413,
         "lb1": {
             "attack": 688,
             "defense": 711,
@@ -98602,7 +98755,7 @@ window.allHeroes =
         "color": "黃",
         "class": "騎士",
         "speed": "快速",
-        "skill": "聖甲蟲彈幕",
+        "skill": "聖甲蟲投擲",
         "types": [
             "攻擊單個目標",
             "召喚1個爆炸惡魔"
@@ -98643,7 +98796,7 @@ window.allHeroes =
         ],
         "family": "moon",
         "costume_id": 1,
-        "originalIndex": 1412,
+        "originalIndex": 1414,
         "lb1": {
             "attack": 718,
             "defense": 690,
@@ -98677,7 +98830,7 @@ window.allHeroes =
         "color": "黃",
         "class": "牧師",
         "speed": "冥河",
-        "skill": "午夜明月",
+        "skill": "需要修補的傑作",
         "types": [
             "蓄力",
             "強化持續治療",
@@ -98716,7 +98869,7 @@ window.allHeroes =
         ],
         "family": "styx",
         "costume_id": 0,
-        "originalIndex": 1413,
+        "originalIndex": 1415,
         "lb1": {
             "attack": 669,
             "defense": 801,
@@ -98788,7 +98941,7 @@ window.allHeroes =
         ],
         "family": "wild_cat",
         "costume_id": 0,
-        "originalIndex": 1414,
+        "originalIndex": 1416,
         "lb1": {
             "attack": 921,
             "defense": 828,
@@ -98852,7 +99005,7 @@ window.allHeroes =
         ],
         "family": "cupid",
         "costume_id": 0,
-        "originalIndex": 1415,
+        "originalIndex": 1417,
         "lb1": {
             "attack": 706,
             "defense": 699,
@@ -98917,7 +99070,7 @@ window.allHeroes =
         ],
         "family": "mighty_pet",
         "costume_id": 0,
-        "originalIndex": 1416,
+        "originalIndex": 1418,
         "lb1": {
             "attack": 681,
             "defense": 759,
@@ -98976,7 +99129,7 @@ window.allHeroes =
         "passives": [],
         "family": "kingdom",
         "costume_id": 0,
-        "originalIndex": 1417,
+        "originalIndex": 1419,
         "lb1": {
             "attack": 734,
             "defense": 771,
@@ -99009,7 +99162,7 @@ window.allHeroes =
         "color": "黃",
         "class": "牧師",
         "speed": "慢速",
-        "skill": "書法家的共情",
+        "skill": "悲憫之心",
         "types": [
             "摧毀所有惡魔",
             "全體生命值加成",
@@ -99046,7 +99199,7 @@ window.allHeroes =
         ],
         "family": "kingdom",
         "costume_id": 1,
-        "originalIndex": 1418,
+        "originalIndex": 1420,
         "lb1": {
             "attack": 711,
             "defense": 794,
@@ -99109,7 +99262,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 0,
-        "originalIndex": 1419,
+        "originalIndex": 1421,
         "lb1": {
             "attack": 768,
             "defense": 674,
@@ -99142,7 +99295,7 @@ window.allHeroes =
         "color": "黃",
         "class": "騎士",
         "speed": "中等",
-        "skill": "賭徒劈斬",
+        "skill": "賭徒姿態",
         "types": [
             "攻擊所有目標"
         ],
@@ -99168,7 +99321,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 1,
-        "originalIndex": 1420,
+        "originalIndex": 1422,
         "lb1": {
             "attack": 755,
             "defense": 715,
@@ -99201,7 +99354,7 @@ window.allHeroes =
         "color": "黃",
         "class": "盜賊",
         "speed": "中等",
-        "skill": "賭徒揮擊",
+        "skill": "賭徒姿態",
         "types": [
             "泰坦攻擊增益"
         ],
@@ -99226,7 +99379,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 2,
-        "originalIndex": 1421,
+        "originalIndex": 1423,
         "lb1": {
             "attack": 755,
             "defense": 685,
@@ -99259,7 +99412,7 @@ window.allHeroes =
         "color": "黃",
         "class": "僧侶",
         "speed": "中等",
-        "skill": "公仔姿態",
+        "skill": "賭徒姿態",
         "types": [
             "泰坦攻擊增益"
         ],
@@ -99288,7 +99441,7 @@ window.allHeroes =
         ],
         "family": "classic",
         "costume_id": 3,
-        "originalIndex": 1422,
+        "originalIndex": 1424,
         "lb1": {
             "attack": 692,
             "defense": 738,
@@ -99321,7 +99474,7 @@ window.allHeroes =
         "color": "黃",
         "class": "僧侶",
         "speed": "中等",
-        "skill": "玻璃姿態",
+        "skill": "賭徒姿態",
         "types": [
             "泰坦攻擊增益",
             "神聖盟友減益反射"
@@ -99353,7 +99506,7 @@ window.allHeroes =
         ],
         "family": "classic",
         "costume_id": 4,
-        "originalIndex": 1423,
+        "originalIndex": 1425,
         "lb1": {
             "attack": 706,
             "defense": 729,
@@ -99423,7 +99576,7 @@ window.allHeroes =
         ],
         "family": "super_elemental",
         "costume_id": 0,
-        "originalIndex": 1424,
+        "originalIndex": 1426,
         "lb1": {
             "attack": 738,
             "defense": 750,
@@ -99485,7 +99638,7 @@ window.allHeroes =
         ],
         "family": "abyss",
         "costume_id": 0,
-        "originalIndex": 1425,
+        "originalIndex": 1427,
         "lb1": {
             "attack": 843,
             "defense": 832,
@@ -99518,7 +99671,7 @@ window.allHeroes =
         "color": "黃",
         "class": "野人",
         "speed": "快速",
-        "skill": "怪力攜帶",
+        "skill": "怪力劈砍",
         "types": [
             "攻擊3個目標",
             "閃避疊加"
@@ -99556,7 +99709,7 @@ window.allHeroes =
         ],
         "family": "abyss",
         "costume_id": 1,
-        "originalIndex": 1426,
+        "originalIndex": 1428,
         "lb1": {
             "attack": 816,
             "defense": 850,
@@ -99624,7 +99777,7 @@ window.allHeroes =
         "passives": [],
         "family": "winter",
         "costume_id": 0,
-        "originalIndex": 1427,
+        "originalIndex": 1429,
         "lb1": {
             "attack": 1194,
             "defense": 1232,
@@ -99694,7 +99847,7 @@ window.allHeroes =
         ],
         "family": "stag",
         "costume_id": 0,
-        "originalIndex": 1428,
+        "originalIndex": 1430,
         "lb1": {
             "attack": 1256,
             "defense": 1192,
@@ -99769,7 +99922,7 @@ window.allHeroes =
         ],
         "family": "plains_hunter",
         "costume_id": 0,
-        "originalIndex": 1429,
+        "originalIndex": 1431,
         "lb1": {
             "attack": 1287,
             "defense": 1238,
@@ -99836,7 +99989,7 @@ window.allHeroes =
         "passives": [],
         "family": "pirate",
         "costume_id": 0,
-        "originalIndex": 1430,
+        "originalIndex": 1432,
         "lb1": {
             "attack": 883,
             "defense": 859,
@@ -99905,7 +100058,7 @@ window.allHeroes =
         ],
         "family": "cupid",
         "costume_id": 0,
-        "originalIndex": 1431,
+        "originalIndex": 1433,
         "lb1": {
             "attack": 1320,
             "defense": 1196,
@@ -99972,7 +100125,7 @@ window.allHeroes =
         ],
         "family": "abyss",
         "costume_id": 0,
-        "originalIndex": 1432,
+        "originalIndex": 1434,
         "lb1": {
             "attack": 874,
             "defense": 843,
@@ -100005,7 +100158,7 @@ window.allHeroes =
         "color": "黃",
         "class": "遊俠",
         "speed": "快速",
-        "skill": "蛾族權杖",
+        "skill": "蛾族之刃",
         "types": [
             "攻擊單個目標"
         ],
@@ -100039,7 +100192,7 @@ window.allHeroes =
         ],
         "family": "abyss",
         "costume_id": 1,
-        "originalIndex": 1433,
+        "originalIndex": 1435,
         "lb1": {
             "attack": 939,
             "defense": 843,
@@ -100124,7 +100277,7 @@ window.allHeroes =
         ],
         "family": "mimic",
         "costume_id": 0,
-        "originalIndex": 1434,
+        "originalIndex": 1436,
         "lb1": {
             "attack": 1367,
             "defense": 1367,
@@ -100208,7 +100361,7 @@ window.allHeroes =
         ],
         "family": "fox",
         "costume_id": 0,
-        "originalIndex": 1435,
+        "originalIndex": 1437,
         "lb1": {
             "attack": 1305,
             "defense": 1272,
@@ -100289,7 +100442,7 @@ window.allHeroes =
         ],
         "family": "bard",
         "costume_id": 0,
-        "originalIndex": 1436,
+        "originalIndex": 1438,
         "lb1": {
             "attack": 999,
             "defense": 1349,
@@ -100361,7 +100514,7 @@ window.allHeroes =
         ],
         "family": "moths",
         "costume_id": 0,
-        "originalIndex": 1437,
+        "originalIndex": 1439,
         "lb1": {
             "attack": 1434,
             "defense": 1203,
@@ -100438,7 +100591,7 @@ window.allHeroes =
         ],
         "family": "hotm2025",
         "costume_id": 0,
-        "originalIndex": 1438,
+        "originalIndex": 1440,
         "lb1": {
             "attack": 1316,
             "defense": 1292,
@@ -100513,7 +100666,7 @@ window.allHeroes =
         ],
         "family": "hotm2024",
         "costume_id": 0,
-        "originalIndex": 1439,
+        "originalIndex": 1441,
         "lb1": {
             "attack": 1110,
             "defense": 1036,
@@ -100586,7 +100739,7 @@ window.allHeroes =
         ],
         "family": "hotm2020",
         "costume_id": 0,
-        "originalIndex": 1440,
+        "originalIndex": 1442,
         "lb1": {
             "attack": 808,
             "defense": 792,
@@ -100654,7 +100807,7 @@ window.allHeroes =
         ],
         "family": "zodiac",
         "costume_id": 0,
-        "originalIndex": 1441,
+        "originalIndex": 1443,
         "lb1": {
             "attack": 1267,
             "defense": 1207,
@@ -100728,7 +100881,7 @@ window.allHeroes =
         ],
         "family": "myrkheim",
         "costume_id": 0,
-        "originalIndex": 1442,
+        "originalIndex": 1444,
         "lb1": {
             "attack": 1371,
             "defense": 1367,
@@ -100803,7 +100956,7 @@ window.allHeroes =
         ],
         "family": "slayers",
         "costume_id": 0,
-        "originalIndex": 1443,
+        "originalIndex": 1445,
         "lb1": {
             "attack": 777,
             "defense": 885,
@@ -100843,7 +100996,7 @@ window.allHeroes =
         "color": "黃",
         "class": "戰士",
         "speed": "殺手",
-        "skill": "驅散審判",
+        "skill": "誅心之力",
         "types": [
             "全體驅散",
             "攻擊所有目標",
@@ -100888,7 +101041,7 @@ window.allHeroes =
         ],
         "family": "slayers",
         "costume_id": 1,
-        "originalIndex": 1444,
+        "originalIndex": 1446,
         "lb1": {
             "attack": 828,
             "defense": 819,
@@ -100965,7 +101118,7 @@ window.allHeroes =
         ],
         "family": "hotm2022",
         "costume_id": 0,
-        "originalIndex": 1445,
+        "originalIndex": 1447,
         "lb1": {
             "attack": 790,
             "defense": 859,
@@ -101044,7 +101197,7 @@ window.allHeroes =
         ],
         "family": "opera",
         "costume_id": 0,
-        "originalIndex": 1446,
+        "originalIndex": 1448,
         "lb1": {
             "attack": 1072,
             "defense": 963,
@@ -101113,7 +101266,7 @@ window.allHeroes =
         ],
         "family": "sun",
         "costume_id": 0,
-        "originalIndex": 1447,
+        "originalIndex": 1449,
         "lb1": {
             "attack": 828,
             "defense": 916,
@@ -101147,7 +101300,7 @@ window.allHeroes =
         "color": "黃",
         "class": "騎士",
         "speed": "中等",
-        "skill": "貓類的媒介",
+        "skill": "眾神的媒介",
         "types": [
             "治療者",
             "狀態異常免疫"
@@ -101188,7 +101341,7 @@ window.allHeroes =
         ],
         "family": "sun",
         "costume_id": 1,
-        "originalIndex": 1448,
+        "originalIndex": 1450,
         "lb1": {
             "attack": 808,
             "defense": 930,
@@ -101252,7 +101405,7 @@ window.allHeroes =
         ],
         "family": "musketeer",
         "costume_id": 0,
-        "originalIndex": 1449,
+        "originalIndex": 1451,
         "lb1": {
             "attack": 939,
             "defense": 976,
@@ -101325,7 +101478,7 @@ window.allHeroes =
         ],
         "family": "abyss_hunter",
         "costume_id": 0,
-        "originalIndex": 1450,
+        "originalIndex": 1452,
         "lb1": {
             "attack": 916,
             "defense": 963,
@@ -101387,7 +101540,7 @@ window.allHeroes =
         "passives": [],
         "family": "hotm2018",
         "costume_id": 0,
-        "originalIndex": 1451,
+        "originalIndex": 1453,
         "lb1": {
             "attack": 794,
             "defense": 759,
@@ -101420,7 +101573,7 @@ window.allHeroes =
         "color": "黃",
         "class": "騎士",
         "speed": "中等",
-        "skill": "召喚天宇守護者",
+        "skill": "召喚神殿守護者",
         "types": [
             "治療者",
             "召喚者"
@@ -101454,7 +101607,7 @@ window.allHeroes =
         ],
         "family": "hotm2018",
         "costume_id": 1,
-        "originalIndex": 1452,
+        "originalIndex": 1454,
         "lb1": {
             "attack": 772,
             "defense": 774,
@@ -101526,7 +101679,7 @@ window.allHeroes =
         ],
         "family": "hotm2021",
         "costume_id": 0,
-        "originalIndex": 1453,
+        "originalIndex": 1455,
         "lb1": {
             "attack": 799,
             "defense": 814,
@@ -101594,7 +101747,7 @@ window.allHeroes =
         "passives": [],
         "family": "circus",
         "costume_id": 0,
-        "originalIndex": 1454,
+        "originalIndex": 1456,
         "lb1": {
             "attack": 825,
             "defense": 832,
@@ -101632,7 +101785,7 @@ window.allHeroes =
         "color": "黃",
         "class": "牧師",
         "speed": "中等",
-        "skill": "小丑的祝福",
+        "skill": "團長庇佑",
         "types": [
             "全體治療",
             "召喚所有",
@@ -101666,7 +101819,7 @@ window.allHeroes =
         ],
         "family": "circus",
         "costume_id": 1,
-        "originalIndex": 1455,
+        "originalIndex": 1457,
         "lb1": {
             "attack": 759,
             "defense": 932,
@@ -101743,7 +101896,7 @@ window.allHeroes =
         ],
         "family": "investigator",
         "costume_id": 0,
-        "originalIndex": 1456,
+        "originalIndex": 1458,
         "lb1": {
             "attack": 1223,
             "defense": 1189,
@@ -101813,7 +101966,7 @@ window.allHeroes =
         "passives": [],
         "family": "hotm2018",
         "costume_id": 0,
-        "originalIndex": 1457,
+        "originalIndex": 1459,
         "lb1": {
             "attack": 783,
             "defense": 768,
@@ -101846,7 +101999,7 @@ window.allHeroes =
         "color": "黃",
         "class": "戰士",
         "speed": "快速",
-        "skill": "傳說之拳",
+        "skill": "暴怒捶打",
         "types": [
             "攻擊3個目標",
             "致盲"
@@ -101881,7 +102034,7 @@ window.allHeroes =
         ],
         "family": "hotm2018",
         "costume_id": 1,
-        "originalIndex": 1458,
+        "originalIndex": 1460,
         "lb1": {
             "attack": 794,
             "defense": 761,
@@ -101942,7 +102095,7 @@ window.allHeroes =
         "passives": [],
         "family": "raven",
         "costume_id": 0,
-        "originalIndex": 1459,
+        "originalIndex": 1461,
         "lb1": {
             "attack": 865,
             "defense": 854,
@@ -102025,7 +102178,7 @@ window.allHeroes =
         ],
         "family": "mimic",
         "costume_id": 0,
-        "originalIndex": 1460,
+        "originalIndex": 1462,
         "lb1": {
             "attack": 1394,
             "defense": 1394,
@@ -102112,7 +102265,7 @@ window.allHeroes =
         ],
         "family": "tales1_goodies",
         "costume_id": 0,
-        "originalIndex": 1461,
+        "originalIndex": 1463,
         "lb1": {
             "attack": 976,
             "defense": 992,
@@ -102146,7 +102299,7 @@ window.allHeroes =
         "color": "黃",
         "class": "術士",
         "speed": "潮汐",
-        "skill": "海床西頌步",
+        "skill": "海床趾尖旋轉",
         "types": [
             "召喚所有小兵",
             "疊加",
@@ -102191,7 +102344,7 @@ window.allHeroes =
         ],
         "family": "tales1_goodies",
         "costume_id": 1,
-        "originalIndex": 1462,
+        "originalIndex": 1464,
         "lb1": {
             "attack": 959,
             "defense": 1007,
@@ -102251,7 +102404,7 @@ window.allHeroes =
         "passives": [],
         "family": "journey",
         "costume_id": 0,
-        "originalIndex": 1463,
+        "originalIndex": 1465,
         "lb1": {
             "attack": 910,
             "defense": 859,
@@ -102326,7 +102479,7 @@ window.allHeroes =
         ],
         "family": "sun",
         "costume_id": 0,
-        "originalIndex": 1464,
+        "originalIndex": 1466,
         "lb1": {
             "attack": 896,
             "defense": 872,
@@ -102361,7 +102514,7 @@ window.allHeroes =
         "color": "黃",
         "class": "戰士",
         "speed": "慢速",
-        "skill": "金色光環",
+        "skill": "神聖光環",
         "types": [
             "攻擊單個目標",
             "隨機攻擊5個目標",
@@ -102404,7 +102557,7 @@ window.allHeroes =
         ],
         "family": "sun",
         "costume_id": 1,
-        "originalIndex": 1465,
+        "originalIndex": 1467,
         "lb1": {
             "attack": 921,
             "defense": 852,
@@ -102484,7 +102637,7 @@ window.allHeroes =
         ],
         "family": "mimic",
         "costume_id": 0,
-        "originalIndex": 1466,
+        "originalIndex": 1468,
         "lb1": {
             "attack": 1332,
             "defense": 1332,
@@ -102562,7 +102715,7 @@ window.allHeroes =
         ],
         "family": "hotm2024",
         "costume_id": 0,
-        "originalIndex": 1467,
+        "originalIndex": 1469,
         "lb1": {
             "attack": 1123,
             "defense": 1194,
@@ -102623,7 +102776,7 @@ window.allHeroes =
         "passives": [],
         "family": "circus",
         "costume_id": 0,
-        "originalIndex": 1468,
+        "originalIndex": 1470,
         "lb1": {
             "attack": 845,
             "defense": 810,
@@ -102691,7 +102844,7 @@ window.allHeroes =
         ],
         "family": "winter",
         "costume_id": 0,
-        "originalIndex": 1469,
+        "originalIndex": 1471,
         "lb1": {
             "attack": 1425,
             "defense": 1365,
@@ -102765,7 +102918,7 @@ window.allHeroes =
         ],
         "family": "garrison",
         "costume_id": 0,
-        "originalIndex": 1470,
+        "originalIndex": 1472,
         "lb1": {
             "attack": 1258,
             "defense": 1189,
@@ -102841,7 +102994,7 @@ window.allHeroes =
         ],
         "family": "mighty_pet",
         "costume_id": 0,
-        "originalIndex": 1471,
+        "originalIndex": 1473,
         "lb1": {
             "attack": 843,
             "defense": 892,
@@ -102920,7 +103073,7 @@ window.allHeroes =
         ],
         "family": "moths",
         "costume_id": 0,
-        "originalIndex": 1472,
+        "originalIndex": 1474,
         "lb1": {
             "attack": 1347,
             "defense": 1420,
@@ -103003,7 +103156,7 @@ window.allHeroes =
         ],
         "family": "nidavellir",
         "costume_id": 0,
-        "originalIndex": 1473,
+        "originalIndex": 1475,
         "lb1": {
             "attack": 1258,
             "defense": 1252,
@@ -103081,7 +103234,7 @@ window.allHeroes =
         ],
         "family": "faun",
         "costume_id": 0,
-        "originalIndex": 1474,
+        "originalIndex": 1476,
         "lb1": {
             "attack": 1209,
             "defense": 1256,
@@ -103155,7 +103308,7 @@ window.allHeroes =
         ],
         "family": "hotm2023",
         "costume_id": 0,
-        "originalIndex": 1475,
+        "originalIndex": 1477,
         "lb1": {
             "attack": 812,
             "defense": 830,
@@ -103228,7 +103381,7 @@ window.allHeroes =
         ],
         "family": "slime",
         "costume_id": 0,
-        "originalIndex": 1476,
+        "originalIndex": 1478,
         "lb1": {
             "attack": 1465,
             "defense": 1176,
@@ -103298,7 +103451,7 @@ window.allHeroes =
         ],
         "family": "zodiac",
         "costume_id": 0,
-        "originalIndex": 1477,
+        "originalIndex": 1479,
         "lb1": {
             "attack": 943,
             "defense": 1123,
@@ -103372,7 +103525,7 @@ window.allHeroes =
         ],
         "family": "slime",
         "costume_id": 0,
-        "originalIndex": 1478,
+        "originalIndex": 1480,
         "lb1": {
             "attack": 1343,
             "defense": 1249,
@@ -103445,7 +103598,7 @@ window.allHeroes =
         ],
         "family": "super_elemental",
         "costume_id": 0,
-        "originalIndex": 1479,
+        "originalIndex": 1481,
         "lb1": {
             "attack": 1085,
             "defense": 1165,
@@ -103519,7 +103672,7 @@ window.allHeroes =
         ],
         "family": "guardian",
         "costume_id": 0,
-        "originalIndex": 1480,
+        "originalIndex": 1482,
         "lb1": {
             "attack": 1067,
             "defense": 1145,
@@ -103600,7 +103753,7 @@ window.allHeroes =
         "passives": [],
         "family": "guardian",
         "costume_id": 0,
-        "originalIndex": 1481,
+        "originalIndex": 1483,
         "lb1": {
             "attack": 810,
             "defense": 799,
@@ -103640,7 +103793,7 @@ window.allHeroes =
         "color": "黃",
         "class": "戰士",
         "speed": "中等",
-        "skill": "溜溜球舞",
+        "skill": "靈魂之舞",
         "types": [
             "4個目標完全淨化",
             "全體治療",
@@ -103680,7 +103833,7 @@ window.allHeroes =
         "passives": [],
         "family": "guardian",
         "costume_id": 1,
-        "originalIndex": 1482,
+        "originalIndex": 1484,
         "lb1": {
             "attack": 834,
             "defense": 805,
@@ -103751,7 +103904,7 @@ window.allHeroes =
         "passives": [],
         "family": "guardian",
         "costume_id": 0,
-        "originalIndex": 1483,
+        "originalIndex": 1485,
         "lb1": {
             "attack": 648,
             "defense": 856,
@@ -103823,7 +103976,7 @@ window.allHeroes =
         ],
         "family": "fleur_de_sang",
         "costume_id": 0,
-        "originalIndex": 1484,
+        "originalIndex": 1486,
         "lb1": {
             "attack": 1431,
             "defense": 1309,
@@ -103890,7 +104043,7 @@ window.allHeroes =
         "passives": [],
         "family": "knight",
         "costume_id": 0,
-        "originalIndex": 1485,
+        "originalIndex": 1487,
         "lb1": {
             "attack": 721,
             "defense": 839,
@@ -103929,7 +104082,7 @@ window.allHeroes =
         "color": "黃",
         "class": "騎士",
         "speed": "中等",
-        "skill": "天降偈語",
+        "skill": "女王命令",
         "types": [
             "3個目標法力削減",
             "全體治療",
@@ -103960,7 +104113,7 @@ window.allHeroes =
         "passives": [],
         "family": "knight",
         "costume_id": 1,
-        "originalIndex": 1486,
+        "originalIndex": 1488,
         "lb1": {
             "attack": 677,
             "defense": 861,
@@ -104041,7 +104194,7 @@ window.allHeroes =
         "passives": [],
         "family": "investigator",
         "costume_id": 0,
-        "originalIndex": 1487,
+        "originalIndex": 1489,
         "lb1": {
             "attack": 1318,
             "defense": 1414,
@@ -104123,7 +104276,7 @@ window.allHeroes =
         ],
         "family": "construct",
         "costume_id": 0,
-        "originalIndex": 1488,
+        "originalIndex": 1490,
         "lb1": {
             "attack": 1167,
             "defense": 1105,
@@ -104193,7 +104346,7 @@ window.allHeroes =
         ],
         "family": "mighty_pet",
         "costume_id": 0,
-        "originalIndex": 1489,
+        "originalIndex": 1491,
         "lb1": {
             "attack": 945,
             "defense": 870,
@@ -104263,7 +104416,7 @@ window.allHeroes =
         ],
         "family": "fox",
         "costume_id": 0,
-        "originalIndex": 1490,
+        "originalIndex": 1492,
         "lb1": {
             "attack": 1363,
             "defense": 1307,
@@ -104336,7 +104489,7 @@ window.allHeroes =
         ],
         "family": "hotm2021",
         "costume_id": 0,
-        "originalIndex": 1491,
+        "originalIndex": 1493,
         "lb1": {
             "attack": 777,
             "defense": 859,
@@ -104414,7 +104567,7 @@ window.allHeroes =
         ],
         "family": "astral_dwarfs",
         "costume_id": 0,
-        "originalIndex": 1492,
+        "originalIndex": 1494,
         "lb1": {
             "attack": 1367,
             "defense": 1272,
@@ -104490,7 +104643,7 @@ window.allHeroes =
         ],
         "family": "gargoyle",
         "costume_id": 0,
-        "originalIndex": 1493,
+        "originalIndex": 1495,
         "lb1": {
             "attack": 1183,
             "defense": 1221,
@@ -104559,7 +104712,7 @@ window.allHeroes =
         ],
         "family": "sun",
         "costume_id": 0,
-        "originalIndex": 1494,
+        "originalIndex": 1496,
         "lb1": {
             "attack": 888,
             "defense": 856,
@@ -104592,7 +104745,7 @@ window.allHeroes =
         "color": "黃",
         "class": "僧侶",
         "speed": "飛速",
-        "skill": "太陽審判",
+        "skill": "無情獵手",
         "types": [
             "攻擊3個目標",
             "最大生命值降低"
@@ -104630,7 +104783,7 @@ window.allHeroes =
         ],
         "family": "sun",
         "costume_id": 1,
-        "originalIndex": 1495,
+        "originalIndex": 1497,
         "lb1": {
             "attack": 885,
             "defense": 861,
@@ -104705,7 +104858,7 @@ window.allHeroes =
         ],
         "family": "ninja",
         "costume_id": 0,
-        "originalIndex": 1496,
+        "originalIndex": 1498,
         "lb1": {
             "attack": 1374,
             "defense": 1136,
@@ -104773,7 +104926,7 @@ window.allHeroes =
         ],
         "family": "forsaken",
         "costume_id": 0,
-        "originalIndex": 1497,
+        "originalIndex": 1499,
         "lb1": {
             "attack": 1449,
             "defense": 1394,
@@ -104838,7 +104991,7 @@ window.allHeroes =
         "passives": [],
         "family": "japanese",
         "costume_id": 0,
-        "originalIndex": 1498,
+        "originalIndex": 1500,
         "lb1": {
             "attack": 876,
             "defense": 692,
@@ -104877,7 +105030,7 @@ window.allHeroes =
         "color": "黃",
         "class": "德魯伊",
         "speed": "中等",
-        "skill": "致盲咒語",
+        "skill": "幸運之九",
         "types": [
             "攻擊所有目標",
             "召喚者",
@@ -104908,7 +105061,7 @@ window.allHeroes =
         "passives": [],
         "family": "japanese",
         "costume_id": 1,
-        "originalIndex": 1499,
+        "originalIndex": 1501,
         "lb1": {
             "attack": 832,
             "defense": 737,
@@ -104992,7 +105145,7 @@ window.allHeroes =
         ],
         "family": "construct",
         "costume_id": 0,
-        "originalIndex": 1500,
+        "originalIndex": 1502,
         "lb1": {
             "attack": 1443,
             "defense": 1345,
@@ -105070,7 +105223,7 @@ window.allHeroes =
         ],
         "family": "super_elemental",
         "costume_id": 0,
-        "originalIndex": 1501,
+        "originalIndex": 1503,
         "lb1": {
             "attack": 1078,
             "defense": 1041,
@@ -105146,7 +105299,7 @@ window.allHeroes =
         ],
         "family": "hotm2023",
         "costume_id": 0,
-        "originalIndex": 1502,
+        "originalIndex": 1504,
         "lb1": {
             "attack": 974,
             "defense": 841,
@@ -105219,7 +105372,7 @@ window.allHeroes =
         ],
         "family": "masquerade",
         "costume_id": 0,
-        "originalIndex": 1503,
+        "originalIndex": 1505,
         "lb1": {
             "attack": 992,
             "defense": 941,
@@ -105284,7 +105437,7 @@ window.allHeroes =
         "passives": [],
         "family": "easter",
         "costume_id": 0,
-        "originalIndex": 1504,
+        "originalIndex": 1506,
         "lb1": {
             "attack": 859,
             "defense": 936,
@@ -105323,7 +105476,7 @@ window.allHeroes =
         "color": "黃",
         "class": "僧侶",
         "speed": "慢速",
-        "skill": "營養幻夢",
+        "skill": "營養花瓣",
         "types": [
             "治療者",
             "攻擊增益",
@@ -105354,7 +105507,7 @@ window.allHeroes =
         "passives": [],
         "family": "easter",
         "costume_id": 1,
-        "originalIndex": 1505,
+        "originalIndex": 1507,
         "lb1": {
             "attack": 836,
             "defense": 941,
@@ -105432,7 +105585,7 @@ window.allHeroes =
         ],
         "family": "super_elemental",
         "costume_id": 0,
-        "originalIndex": 1506,
+        "originalIndex": 1508,
         "lb1": {
             "attack": 1025,
             "defense": 912,
@@ -105468,7 +105621,7 @@ window.allHeroes =
         "color": "黃",
         "class": "盜賊",
         "speed": "飛速",
-        "skill": "黃金神聖符號",
+        "skill": "古老神聖符號",
         "types": [
             "攻擊所有目標",
             "元素"
@@ -105508,7 +105661,7 @@ window.allHeroes =
         ],
         "family": "super_elemental",
         "costume_id": 1,
-        "originalIndex": 1507,
+        "originalIndex": 1509,
         "lb1": {
             "attack": 1014,
             "defense": 923,
@@ -105570,7 +105723,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 0,
-        "originalIndex": 1508,
+        "originalIndex": 1510,
         "lb1": {
             "attack": 808,
             "defense": 685,
@@ -105603,7 +105756,7 @@ window.allHeroes =
         "color": "黃",
         "class": "戰士",
         "speed": "快速",
-        "skill": "極地打擊",
+        "skill": "極地光束",
         "types": [
             "攻擊單個目標",
             "單體致盲"
@@ -105630,7 +105783,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 1,
-        "originalIndex": 1509,
+        "originalIndex": 1511,
         "lb1": {
             "attack": 803,
             "defense": 697,
@@ -105663,7 +105816,7 @@ window.allHeroes =
         "color": "黃",
         "class": "野人",
         "speed": "快速",
-        "skill": "恆星光束",
+        "skill": "極地光束",
         "types": [
             "攻擊3個目標",
             "3個目標持續傷害",
@@ -105693,7 +105846,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 2,
-        "originalIndex": 1510,
+        "originalIndex": 1512,
         "lb1": {
             "attack": 812,
             "defense": 690,
@@ -105728,7 +105881,7 @@ window.allHeroes =
         "color": "黃",
         "class": "僧侶",
         "speed": "快速",
-        "skill": "公仔射線",
+        "skill": "極地光束",
         "types": [
             "攻擊單個目標",
             "單體致盲"
@@ -105761,7 +105914,7 @@ window.allHeroes =
         ],
         "family": "classic",
         "costume_id": 3,
-        "originalIndex": 1511,
+        "originalIndex": 1513,
         "lb1": {
             "attack": 810,
             "defense": 690,
@@ -105799,7 +105952,7 @@ window.allHeroes =
         "color": "黃",
         "class": "僧侶",
         "speed": "快速",
-        "skill": "玻璃光束",
+        "skill": "極地光束",
         "types": [
             "攻擊單個目標",
             "無視防禦",
@@ -105833,7 +105986,7 @@ window.allHeroes =
         ],
         "family": "classic",
         "costume_id": 4,
-        "originalIndex": 1512,
+        "originalIndex": 1514,
         "lb1": {
             "attack": 825,
             "defense": 679,
@@ -105904,7 +106057,7 @@ window.allHeroes =
         ],
         "family": "masquerade",
         "costume_id": 0,
-        "originalIndex": 1513,
+        "originalIndex": 1515,
         "lb1": {
             "attack": 907,
             "defense": 854,
@@ -105964,7 +106117,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 0,
-        "originalIndex": 1514,
+        "originalIndex": 1516,
         "lb1": {
             "attack": 657,
             "defense": 836,
@@ -106002,7 +106155,7 @@ window.allHeroes =
         "color": "黃",
         "class": "巫師",
         "speed": "慢速",
-        "skill": "審判日",
+        "skill": "審判儀式",
         "types": [
             "攻擊所有目標",
             "自我法力生成增益"
@@ -106031,7 +106184,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 1,
-        "originalIndex": 1515,
+        "originalIndex": 1517,
         "lb1": {
             "attack": 725,
             "defense": 777,
@@ -106098,7 +106251,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 2,
-        "originalIndex": 1516,
+        "originalIndex": 1518,
         "lb1": {
             "attack": 743,
             "defense": 752,
@@ -106136,7 +106289,7 @@ window.allHeroes =
         "color": "黃",
         "class": "騎士",
         "speed": "慢速",
-        "skill": "審判公仔",
+        "skill": "審判儀式",
         "types": [
             "攻擊所有目標",
             "全體致盲"
@@ -106169,7 +106322,7 @@ window.allHeroes =
         ],
         "family": "classic",
         "costume_id": 3,
-        "originalIndex": 1517,
+        "originalIndex": 1519,
         "lb1": {
             "attack": 819,
             "defense": 650,
@@ -106207,7 +106360,7 @@ window.allHeroes =
         "color": "黃",
         "class": "騎士",
         "speed": "慢速",
-        "skill": "玻璃審判",
+        "skill": "審判儀式",
         "types": [
             "攻擊所有目標",
             "無視防禦",
@@ -106241,7 +106394,7 @@ window.allHeroes =
         ],
         "family": "classic",
         "costume_id": 4,
-        "originalIndex": 1518,
+        "originalIndex": 1520,
         "lb1": {
             "attack": 830,
             "defense": 643,
@@ -106314,7 +106467,7 @@ window.allHeroes =
         ],
         "family": "hotm2022",
         "costume_id": 0,
-        "originalIndex": 1519,
+        "originalIndex": 1521,
         "lb1": {
             "attack": 814,
             "defense": 825,
@@ -106376,7 +106529,7 @@ window.allHeroes =
         ],
         "family": "kalevala",
         "costume_id": 0,
-        "originalIndex": 1520,
+        "originalIndex": 1522,
         "lb1": {
             "attack": 879,
             "defense": 852,
@@ -106410,7 +106563,7 @@ window.allHeroes =
         "color": "黃",
         "class": "戰士",
         "speed": "中等",
-        "skill": "狡詐刀刃",
+        "skill": "祖傳匕首",
         "types": [
             "攻擊單個目標",
             "彈射",
@@ -106443,7 +106596,7 @@ window.allHeroes =
         ],
         "family": "kalevala",
         "costume_id": 1,
-        "originalIndex": 1521,
+        "originalIndex": 1523,
         "lb1": {
             "attack": 854,
             "defense": 901,
@@ -106523,7 +106676,7 @@ window.allHeroes =
         "passives": [],
         "family": "ninja",
         "costume_id": 0,
-        "originalIndex": 1522,
+        "originalIndex": 1524,
         "lb1": {
             "attack": 874,
             "defense": 939,
@@ -106605,7 +106758,7 @@ window.allHeroes =
         ],
         "family": "slime",
         "costume_id": 0,
-        "originalIndex": 1523,
+        "originalIndex": 1525,
         "lb1": {
             "attack": 1351,
             "defense": 1418,
@@ -106690,7 +106843,7 @@ window.allHeroes =
         ],
         "family": "magic_carpet",
         "costume_id": 0,
-        "originalIndex": 1524,
+        "originalIndex": 1526,
         "lb1": {
             "attack": 1283,
             "defense": 1358,
@@ -106760,7 +106913,7 @@ window.allHeroes =
         ],
         "family": "zodiac",
         "costume_id": 0,
-        "originalIndex": 1525,
+        "originalIndex": 1527,
         "lb1": {
             "attack": 910,
             "defense": 868,
@@ -106833,7 +106986,7 @@ window.allHeroes =
         ],
         "family": "champions",
         "costume_id": 0,
-        "originalIndex": 1526,
+        "originalIndex": 1528,
         "lb1": {
             "attack": 1121,
             "defense": 1096,
@@ -106906,7 +107059,7 @@ window.allHeroes =
         ],
         "family": "astral_elves",
         "costume_id": 0,
-        "originalIndex": 1527,
+        "originalIndex": 1529,
         "lb1": {
             "attack": 1123,
             "defense": 1116,
@@ -106969,7 +107122,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 0,
-        "originalIndex": 1528,
+        "originalIndex": 1530,
         "lb1": {
             "attack": 788,
             "defense": 774,
@@ -107003,7 +107156,7 @@ window.allHeroes =
         "color": "黃",
         "class": "野人",
         "speed": "中等",
-        "skill": "斯巴達衝鋒",
+        "skill": "斯巴達披斬",
         "types": [
             "攻擊3個目標"
         ],
@@ -107031,7 +107184,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 1,
-        "originalIndex": 1529,
+        "originalIndex": 1531,
         "lb1": {
             "attack": 770,
             "defense": 794,
@@ -107065,7 +107218,7 @@ window.allHeroes =
         "color": "黃",
         "class": "遊俠",
         "speed": "中等",
-        "skill": "斯巴達斬",
+        "skill": "斯巴達披斬",
         "types": [
             "攻擊所有目標",
             "法力削減",
@@ -107095,7 +107248,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 2,
-        "originalIndex": 1530,
+        "originalIndex": 1532,
         "lb1": {
             "attack": 774,
             "defense": 783,
@@ -107133,7 +107286,7 @@ window.allHeroes =
         "color": "黃",
         "class": "僧侶",
         "speed": "中等",
-        "skill": "公仔劈擊",
+        "skill": "斯巴達披斬",
         "types": [
             "攻擊單個目標",
             "法力削減者",
@@ -107169,7 +107322,7 @@ window.allHeroes =
         ],
         "family": "classic",
         "costume_id": 3,
-        "originalIndex": 1531,
+        "originalIndex": 1533,
         "lb1": {
             "attack": 792,
             "defense": 765,
@@ -107204,7 +107357,7 @@ window.allHeroes =
         "color": "黃",
         "class": "僧侶",
         "speed": "中等",
-        "skill": "玻璃劈擊",
+        "skill": "斯巴達披斬",
         "types": [
             "攻擊單個目標",
             "無視防禦",
@@ -107241,7 +107394,7 @@ window.allHeroes =
         ],
         "family": "classic",
         "costume_id": 4,
-        "originalIndex": 1532,
+        "originalIndex": 1534,
         "lb1": {
             "attack": 823,
             "defense": 743,
@@ -107316,7 +107469,7 @@ window.allHeroes =
         ],
         "family": "owl",
         "costume_id": 0,
-        "originalIndex": 1533,
+        "originalIndex": 1535,
         "lb1": {
             "attack": 1045,
             "defense": 1165,
@@ -107392,7 +107545,7 @@ window.allHeroes =
         ],
         "family": "bard",
         "costume_id": 0,
-        "originalIndex": 1534,
+        "originalIndex": 1536,
         "lb1": {
             "attack": 1383,
             "defense": 1356,
@@ -107471,7 +107624,7 @@ window.allHeroes =
         ],
         "family": "plains_hunter",
         "costume_id": 0,
-        "originalIndex": 1535,
+        "originalIndex": 1537,
         "lb1": {
             "attack": 901,
             "defense": 943,
@@ -107544,7 +107697,7 @@ window.allHeroes =
         ],
         "family": "hotm2020",
         "costume_id": 0,
-        "originalIndex": 1536,
+        "originalIndex": 1538,
         "lb1": {
             "attack": 801,
             "defense": 785,
@@ -107612,7 +107765,7 @@ window.allHeroes =
         ],
         "family": "halloween",
         "costume_id": 0,
-        "originalIndex": 1537,
+        "originalIndex": 1539,
         "lb1": {
             "attack": 881,
             "defense": 888,
@@ -107689,7 +107842,7 @@ window.allHeroes =
         ],
         "family": "hotm2025",
         "costume_id": 0,
-        "originalIndex": 1538,
+        "originalIndex": 1540,
         "lb1": {
             "attack": 1154,
             "defense": 1165,
@@ -107763,7 +107916,7 @@ window.allHeroes =
         ],
         "family": "opera",
         "costume_id": 0,
-        "originalIndex": 1539,
+        "originalIndex": 1541,
         "lb1": {
             "attack": 1065,
             "defense": 1145,
@@ -107839,7 +107992,7 @@ window.allHeroes =
         ],
         "family": "astral_elves",
         "costume_id": 0,
-        "originalIndex": 1540,
+        "originalIndex": 1542,
         "lb1": {
             "attack": 1134,
             "defense": 1245,
@@ -107908,7 +108061,7 @@ window.allHeroes =
         ],
         "family": "sun",
         "costume_id": 0,
-        "originalIndex": 1541,
+        "originalIndex": 1543,
         "lb1": {
             "attack": 832,
             "defense": 947,
@@ -107947,7 +108100,7 @@ window.allHeroes =
         "color": "黃",
         "class": "巫師",
         "speed": "中等",
-        "skill": "不可思議節奏",
+        "skill": "無解謎語",
         "types": [
             "攻擊所有目標",
             "法力削減",
@@ -107989,7 +108142,7 @@ window.allHeroes =
         ],
         "family": "sun",
         "costume_id": 1,
-        "originalIndex": 1542,
+        "originalIndex": 1544,
         "lb1": {
             "attack": 888,
             "defense": 903,
@@ -108067,7 +108220,7 @@ window.allHeroes =
         "passives": [],
         "family": "ninja",
         "costume_id": 0,
-        "originalIndex": 1543,
+        "originalIndex": 1545,
         "lb1": {
             "attack": 772,
             "defense": 885,
@@ -108134,7 +108287,7 @@ window.allHeroes =
         ],
         "family": "astral_elves",
         "costume_id": 0,
-        "originalIndex": 1544,
+        "originalIndex": 1546,
         "lb1": {
             "attack": 1112,
             "defense": 1298,
@@ -108212,7 +108365,7 @@ window.allHeroes =
         ],
         "family": "magic",
         "costume_id": 0,
-        "originalIndex": 1545,
+        "originalIndex": 1547,
         "lb1": {
             "attack": 814,
             "defense": 854,
@@ -108281,7 +108434,7 @@ window.allHeroes =
         ],
         "family": "kalevala",
         "costume_id": 0,
-        "originalIndex": 1546,
+        "originalIndex": 1548,
         "lb1": {
             "attack": 1376,
             "defense": 1327,
@@ -108357,7 +108510,7 @@ window.allHeroes =
         ],
         "family": "myrkheim",
         "costume_id": 0,
-        "originalIndex": 1547,
+        "originalIndex": 1549,
         "lb1": {
             "attack": 1265,
             "defense": 1316,
@@ -108417,7 +108570,7 @@ window.allHeroes =
         "passives": [],
         "family": "hotm2017",
         "costume_id": 0,
-        "originalIndex": 1548,
+        "originalIndex": 1550,
         "lb1": {
             "attack": 848,
             "defense": 732,
@@ -108450,7 +108603,7 @@ window.allHeroes =
         "color": "黃",
         "class": "野人",
         "speed": "快速",
-        "skill": "自由之棒",
+        "skill": "巨龍獠牙",
         "types": [
             "攻擊3個目標",
             "自我治療"
@@ -108485,7 +108638,7 @@ window.allHeroes =
         ],
         "family": "hotm2017",
         "costume_id": 1,
-        "originalIndex": 1549,
+        "originalIndex": 1551,
         "lb1": {
             "attack": 832,
             "defense": 745,
@@ -108553,7 +108706,7 @@ window.allHeroes =
         ],
         "family": "hotm2019",
         "costume_id": 0,
-        "originalIndex": 1550,
+        "originalIndex": 1552,
         "lb1": {
             "attack": 792,
             "defense": 794,
@@ -108632,7 +108785,7 @@ window.allHeroes =
         ],
         "family": "styx",
         "costume_id": 0,
-        "originalIndex": 1551,
+        "originalIndex": 1553,
         "lb1": {
             "attack": 945,
             "defense": 843,
@@ -108708,7 +108861,7 @@ window.allHeroes =
         ],
         "family": "beowulf",
         "costume_id": 0,
-        "originalIndex": 1552,
+        "originalIndex": 1554,
         "lb1": {
             "attack": 1396,
             "defense": 1214,
@@ -108771,7 +108924,7 @@ window.allHeroes =
         "passives": [],
         "family": "vanaheim",
         "costume_id": 0,
-        "originalIndex": 1553,
+        "originalIndex": 1555,
         "lb1": {
             "attack": 830,
             "defense": 774,
@@ -108804,7 +108957,7 @@ window.allHeroes =
         "color": "黃",
         "class": "巫師",
         "speed": "中等",
-        "skill": "命運之怒",
+        "skill": "命運轉折",
         "types": [
             "攻擊3個目標"
         ],
@@ -108829,7 +108982,7 @@ window.allHeroes =
         "passives": [],
         "family": "vanaheim",
         "costume_id": 1,
-        "originalIndex": 1554,
+        "originalIndex": 1556,
         "lb1": {
             "attack": 894,
             "defense": 774,
@@ -108890,7 +109043,7 @@ window.allHeroes =
         "passives": [],
         "family": "midgard",
         "costume_id": 0,
-        "originalIndex": 1555,
+        "originalIndex": 1557,
         "lb1": {
             "attack": 821,
             "defense": 810,
@@ -108928,7 +109081,7 @@ window.allHeroes =
         "color": "黃",
         "class": "戰士",
         "speed": "快速",
-        "skill": "格里米爾盛怒",
+        "skill": "格里米爾之怒",
         "types": [
             "攻擊所有目標",
             "法力生成增益"
@@ -108957,7 +109110,7 @@ window.allHeroes =
         "passives": [],
         "family": "midgard",
         "costume_id": 1,
-        "originalIndex": 1556,
+        "originalIndex": 1558,
         "lb1": {
             "attack": 805,
             "defense": 823,
@@ -109030,7 +109183,7 @@ window.allHeroes =
         ],
         "family": "bard",
         "costume_id": 0,
-        "originalIndex": 1557,
+        "originalIndex": 1559,
         "lb1": {
             "attack": 899,
             "defense": 861,
@@ -109102,7 +109255,7 @@ window.allHeroes =
         ],
         "family": "hotm2019",
         "costume_id": 0,
-        "originalIndex": 1558,
+        "originalIndex": 1560,
         "lb1": {
             "attack": 666,
             "defense": 879,
@@ -109168,7 +109321,7 @@ window.allHeroes =
         ],
         "family": "moon",
         "costume_id": 0,
-        "originalIndex": 1559,
+        "originalIndex": 1561,
         "lb1": {
             "attack": 876,
             "defense": 883,
@@ -109211,7 +109364,7 @@ window.allHeroes =
         "color": "黃",
         "class": "騎士",
         "speed": "中等",
-        "skill": "指揮砂巨像",
+        "skill": "召喚砂巨像",
         "types": [
             "召喚者",
             "防禦增益"
@@ -109253,7 +109406,7 @@ window.allHeroes =
         ],
         "family": "moon",
         "costume_id": 1,
-        "originalIndex": 1560,
+        "originalIndex": 1562,
         "lb1": {
             "attack": 843,
             "defense": 916,
@@ -109330,7 +109483,7 @@ window.allHeroes =
         ],
         "family": "gargoyle",
         "costume_id": 0,
-        "originalIndex": 1561,
+        "originalIndex": 1563,
         "lb1": {
             "attack": 896,
             "defense": 821,
@@ -109413,7 +109566,7 @@ window.allHeroes =
         ],
         "family": "tales1_baddies",
         "costume_id": 0,
-        "originalIndex": 1562,
+        "originalIndex": 1564,
         "lb1": {
             "attack": 1054,
             "defense": 1105,
@@ -109453,7 +109606,7 @@ window.allHeroes =
         "color": "黃",
         "class": "德魯伊",
         "speed": "潮汐",
-        "skill": "海洋腐朽",
+        "skill": "海洋遺跡",
         "types": [
             "增益偷取者",
             "攻擊單個目標",
@@ -109502,7 +109655,7 @@ window.allHeroes =
         ],
         "family": "tales1_baddies",
         "costume_id": 1,
-        "originalIndex": 1563,
+        "originalIndex": 1565,
         "lb1": {
             "attack": 1065,
             "defense": 1094,
@@ -109580,7 +109733,7 @@ window.allHeroes =
         ],
         "family": "owl",
         "costume_id": 0,
-        "originalIndex": 1564,
+        "originalIndex": 1566,
         "lb1": {
             "attack": 1252,
             "defense": 1278,
@@ -109658,7 +109811,7 @@ window.allHeroes =
         ],
         "family": "faun",
         "costume_id": 0,
-        "originalIndex": 1565,
+        "originalIndex": 1567,
         "lb1": {
             "attack": 1351,
             "defense": 1201,
@@ -109726,7 +109879,7 @@ window.allHeroes =
         "passives": [],
         "family": "atlantis",
         "costume_id": 0,
-        "originalIndex": 1566,
+        "originalIndex": 1568,
         "lb1": {
             "attack": 803,
             "defense": 774,
@@ -109759,7 +109912,7 @@ window.allHeroes =
         "color": "黃",
         "class": "遊俠",
         "speed": "快速",
-        "skill": "潮汐屠戮者",
+        "skill": "海之統領",
         "types": [
             "攻擊單個目標",
             "全體狀態異常免疫"
@@ -109786,7 +109939,7 @@ window.allHeroes =
         "passives": [],
         "family": "atlantis",
         "costume_id": 1,
-        "originalIndex": 1567,
+        "originalIndex": 1569,
         "lb1": {
             "attack": 792,
             "defense": 765,
@@ -109852,7 +110005,7 @@ window.allHeroes =
         ],
         "family": "abyss",
         "costume_id": 0,
-        "originalIndex": 1568,
+        "originalIndex": 1570,
         "lb1": {
             "attack": 803,
             "defense": 870,
@@ -109886,7 +110039,7 @@ window.allHeroes =
         "color": "黃",
         "class": "僧侶",
         "speed": "慢速",
-        "skill": "炫目閃光",
+        "skill": "榮耀恩典",
         "types": [
             "全體淨化",
             "生命值加成",
@@ -109923,7 +110076,7 @@ window.allHeroes =
         ],
         "family": "abyss",
         "costume_id": 1,
-        "originalIndex": 1569,
+        "originalIndex": 1571,
         "lb1": {
             "attack": 799,
             "defense": 865,
@@ -109983,7 +110136,7 @@ window.allHeroes =
         "passives": [],
         "family": "journey",
         "costume_id": 0,
-        "originalIndex": 1570,
+        "originalIndex": 1572,
         "lb1": {
             "attack": 859,
             "defense": 896,
@@ -110054,7 +110207,7 @@ window.allHeroes =
         "passives": [],
         "family": "sand",
         "costume_id": 0,
-        "originalIndex": 1571,
+        "originalIndex": 1573,
         "lb1": {
             "attack": 792,
             "defense": 765,
@@ -110090,7 +110243,7 @@ window.allHeroes =
         "color": "黃",
         "class": "牧師",
         "speed": "中等",
-        "skill": "浪湧正起",
+        "skill": "沙暴",
         "types": [
             "攻擊3個目標",
             "3個目標持續傷害",
@@ -110123,7 +110276,7 @@ window.allHeroes =
         "passives": [],
         "family": "sand",
         "costume_id": 1,
-        "originalIndex": 1572,
+        "originalIndex": 1574,
         "lb1": {
             "attack": 803,
             "defense": 783,
@@ -110192,7 +110345,7 @@ window.allHeroes =
         ],
         "family": "hotm2019",
         "costume_id": 0,
-        "originalIndex": 1573,
+        "originalIndex": 1575,
         "lb1": {
             "attack": 828,
             "defense": 843,
@@ -110261,7 +110414,7 @@ window.allHeroes =
         ],
         "family": "goblin",
         "costume_id": 0,
-        "originalIndex": 1574,
+        "originalIndex": 1576,
         "lb1": {
             "attack": 1338,
             "defense": 1385,
@@ -110328,7 +110481,7 @@ window.allHeroes =
         ],
         "family": "bard",
         "costume_id": 0,
-        "originalIndex": 1575,
+        "originalIndex": 1577,
         "lb1": {
             "attack": 910,
             "defense": 868,
@@ -110400,7 +110553,7 @@ window.allHeroes =
         "passives": [],
         "family": "sand",
         "costume_id": 0,
-        "originalIndex": 1576,
+        "originalIndex": 1578,
         "lb1": {
             "attack": 821,
             "defense": 796,
@@ -110435,7 +110588,7 @@ window.allHeroes =
         "color": "黃",
         "class": "戰士",
         "speed": "中等",
-        "skill": "海灘派對",
+        "skill": "狂沙旋風",
         "types": [
             "全體持續傷害",
             "全體防禦降低",
@@ -110465,7 +110618,7 @@ window.allHeroes =
         "passives": [],
         "family": "sand",
         "costume_id": 1,
-        "originalIndex": 1577,
+        "originalIndex": 1579,
         "lb1": {
             "attack": 819,
             "defense": 808,
@@ -110542,7 +110695,7 @@ window.allHeroes =
         ],
         "family": "garrison",
         "costume_id": 0,
-        "originalIndex": 1578,
+        "originalIndex": 1580,
         "lb1": {
             "attack": 1167,
             "defense": 1252,
@@ -110623,7 +110776,7 @@ window.allHeroes =
         ],
         "family": "outlaw",
         "costume_id": 0,
-        "originalIndex": 1579,
+        "originalIndex": 1581,
         "lb1": {
             "attack": 1345,
             "defense": 1314,
@@ -110704,7 +110857,7 @@ window.allHeroes =
         ],
         "family": "astral_dwarfs",
         "costume_id": 0,
-        "originalIndex": 1580,
+        "originalIndex": 1582,
         "lb1": {
             "attack": 1329,
             "defense": 1276,
@@ -110777,7 +110930,7 @@ window.allHeroes =
         ],
         "family": "moths",
         "costume_id": 0,
-        "originalIndex": 1581,
+        "originalIndex": 1583,
         "lb1": {
             "attack": 1338,
             "defense": 1316,
@@ -110858,7 +111011,7 @@ window.allHeroes =
         ],
         "family": "goblin",
         "costume_id": 0,
-        "originalIndex": 1582,
+        "originalIndex": 1584,
         "lb1": {
             "attack": 1125,
             "defense": 1172,
@@ -110941,7 +111094,7 @@ window.allHeroes =
         ],
         "family": "construct",
         "costume_id": 0,
-        "originalIndex": 1583,
+        "originalIndex": 1585,
         "lb1": {
             "attack": 976,
             "defense": 1107,
@@ -111028,7 +111181,7 @@ window.allHeroes =
         ],
         "family": "magic_carpet",
         "costume_id": 0,
-        "originalIndex": 1584,
+        "originalIndex": 1586,
         "lb1": {
             "attack": 1440,
             "defense": 1367,
@@ -111103,7 +111256,7 @@ window.allHeroes =
         ],
         "family": "garrison",
         "costume_id": 0,
-        "originalIndex": 1585,
+        "originalIndex": 1587,
         "lb1": {
             "attack": 1136,
             "defense": 1238,
@@ -111171,7 +111324,7 @@ window.allHeroes =
         "passives": [],
         "family": "midgard",
         "costume_id": 0,
-        "originalIndex": 1586,
+        "originalIndex": 1588,
         "lb1": {
             "attack": 850,
             "defense": 772,
@@ -111201,7 +111354,7 @@ window.allHeroes =
         "color": "黃",
         "class": "牧師",
         "speed": "中等",
-        "skill": "金絲線",
+        "skill": "織金者",
         "types": [
             "法力提升",
             "反擊",
@@ -111232,7 +111385,7 @@ window.allHeroes =
         "passives": [],
         "family": "midgard",
         "costume_id": 1,
-        "originalIndex": 1587,
+        "originalIndex": 1589,
         "lb1": {
             "attack": 810,
             "defense": 805,
@@ -111296,7 +111449,7 @@ window.allHeroes =
         ],
         "family": "fox",
         "costume_id": 0,
-        "originalIndex": 1588,
+        "originalIndex": 1590,
         "lb1": {
             "attack": 1334,
             "defense": 1309,
@@ -111362,7 +111515,7 @@ window.allHeroes =
         "passives": [],
         "family": "easter",
         "costume_id": 0,
-        "originalIndex": 1589,
+        "originalIndex": 1591,
         "lb1": {
             "attack": 839,
             "defense": 783,
@@ -111431,7 +111584,7 @@ window.allHeroes =
         ],
         "family": "slime",
         "costume_id": 0,
-        "originalIndex": 1590,
+        "originalIndex": 1592,
         "lb1": {
             "attack": 1209,
             "defense": 1165,
@@ -111514,7 +111667,7 @@ window.allHeroes =
         ],
         "family": "wild_cat",
         "costume_id": 0,
-        "originalIndex": 1591,
+        "originalIndex": 1593,
         "lb1": {
             "attack": 1474,
             "defense": 1249,
@@ -111584,7 +111737,7 @@ window.allHeroes =
         ],
         "family": "journey",
         "costume_id": 0,
-        "originalIndex": 1592,
+        "originalIndex": 1594,
         "lb1": {
             "attack": 1090,
             "defense": 1156,
@@ -111657,7 +111810,7 @@ window.allHeroes =
         "passives": [],
         "family": "midgard",
         "costume_id": 0,
-        "originalIndex": 1593,
+        "originalIndex": 1595,
         "lb1": {
             "attack": 808,
             "defense": 792,
@@ -111690,7 +111843,7 @@ window.allHeroes =
         "color": "黃",
         "class": "騎士",
         "speed": "飛速",
-        "skill": "雷神鎚能量",
+        "skill": "雷神鎚之力",
         "types": [
             "攻擊所有目標",
             "致盲"
@@ -111725,7 +111878,7 @@ window.allHeroes =
         "passives": [],
         "family": "midgard",
         "costume_id": 1,
-        "originalIndex": 1594,
+        "originalIndex": 1596,
         "lb1": {
             "attack": 788,
             "defense": 796,
@@ -111796,7 +111949,7 @@ window.allHeroes =
         ],
         "family": "jungle_hunter",
         "costume_id": 0,
-        "originalIndex": 1595,
+        "originalIndex": 1597,
         "lb1": {
             "attack": 927,
             "defense": 941,
@@ -111873,7 +112026,7 @@ window.allHeroes =
         ],
         "family": "plains_hunter",
         "costume_id": 0,
-        "originalIndex": 1596,
+        "originalIndex": 1598,
         "lb1": {
             "attack": 1258,
             "defense": 1147,
@@ -111946,7 +112099,7 @@ window.allHeroes =
         "passives": [],
         "family": "ninja",
         "costume_id": 0,
-        "originalIndex": 1597,
+        "originalIndex": 1599,
         "lb1": {
             "attack": 885,
             "defense": 759,
@@ -112023,7 +112176,7 @@ window.allHeroes =
         ],
         "family": "hotm2021",
         "costume_id": 0,
-        "originalIndex": 1598,
+        "originalIndex": 1600,
         "lb1": {
             "attack": 839,
             "defense": 783,
@@ -112104,7 +112257,7 @@ window.allHeroes =
         ],
         "family": "mahayoddha",
         "costume_id": 0,
-        "originalIndex": 1599,
+        "originalIndex": 1601,
         "lb1": {
             "attack": 1367,
             "defense": 1427,
@@ -112190,7 +112343,7 @@ window.allHeroes =
         ],
         "family": "magic",
         "costume_id": 0,
-        "originalIndex": 1600,
+        "originalIndex": 1602,
         "lb1": {
             "attack": 1012,
             "defense": 1018,
@@ -112232,7 +112385,7 @@ window.allHeroes =
         "color": "黃",
         "class": "巫師",
         "speed": "魔法",
-        "skill": "神聖外殼",
+        "skill": "神聖兵卒",
         "types": [
             "全體持續治療",
             "全體攻擊增益",
@@ -112286,7 +112439,7 @@ window.allHeroes =
         ],
         "family": "magic",
         "costume_id": 1,
-        "originalIndex": 1601,
+        "originalIndex": 1603,
         "lb1": {
             "attack": 1012,
             "defense": 1025,
@@ -112358,7 +112511,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 0,
-        "originalIndex": 1602,
+        "originalIndex": 1604,
         "lb1": {
             "attack": 770,
             "defense": 748,
@@ -112396,7 +112549,7 @@ window.allHeroes =
         "color": "黃",
         "class": "術士",
         "speed": "慢速",
-        "skill": "群體治療",
+        "skill": "群體恢復",
         "types": [
             "治療者",
             "防禦降低",
@@ -112426,7 +112579,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 1,
-        "originalIndex": 1603,
+        "originalIndex": 1605,
         "lb1": {
             "attack": 761,
             "defense": 754,
@@ -112464,7 +112617,7 @@ window.allHeroes =
         "color": "黃",
         "class": "戰士",
         "speed": "慢速",
-        "skill": "全方位修補",
+        "skill": "群體恢復",
         "types": [
             "治療者",
             "攻擊降低",
@@ -112494,7 +112647,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 2,
-        "originalIndex": 1604,
+        "originalIndex": 1606,
         "lb1": {
             "attack": 750,
             "defense": 757,
@@ -112532,7 +112685,7 @@ window.allHeroes =
         "color": "黃",
         "class": "牧師",
         "speed": "慢速",
-        "skill": "療愈公仔",
+        "skill": "群體恢復",
         "types": [
             "治療者",
             "防禦增益",
@@ -112566,7 +112719,7 @@ window.allHeroes =
         ],
         "family": "classic",
         "costume_id": 3,
-        "originalIndex": 1605,
+        "originalIndex": 1607,
         "lb1": {
             "attack": 765,
             "defense": 772,
@@ -112604,7 +112757,7 @@ window.allHeroes =
         "color": "黃",
         "class": "牧師",
         "speed": "慢速",
-        "skill": "玻璃治療",
+        "skill": "群體恢復",
         "types": [
             "全體治療",
             "全體防禦增益",
@@ -112641,7 +112794,7 @@ window.allHeroes =
         ],
         "family": "classic",
         "costume_id": 4,
-        "originalIndex": 1606,
+        "originalIndex": 1608,
         "lb1": {
             "attack": 763,
             "defense": 774,
@@ -112711,7 +112864,7 @@ window.allHeroes =
         ],
         "family": "halloween",
         "costume_id": 0,
-        "originalIndex": 1607,
+        "originalIndex": 1609,
         "lb1": {
             "attack": 1276,
             "defense": 1207,
@@ -112792,7 +112945,7 @@ window.allHeroes =
         ],
         "family": "beowulf",
         "costume_id": 0,
-        "originalIndex": 1608,
+        "originalIndex": 1610,
         "lb1": {
             "attack": 1198,
             "defense": 1332,
@@ -112874,7 +113027,7 @@ window.allHeroes =
         ],
         "family": "beowulf",
         "costume_id": 0,
-        "originalIndex": 1609,
+        "originalIndex": 1611,
         "lb1": {
             "attack": 1391,
             "defense": 1414,
@@ -112940,7 +113093,7 @@ window.allHeroes =
         "passives": [],
         "family": "wonderland",
         "costume_id": 0,
-        "originalIndex": 1610,
+        "originalIndex": 1612,
         "lb1": {
             "attack": 788,
             "defense": 808,
@@ -112973,7 +113126,7 @@ window.allHeroes =
         "color": "黃",
         "class": "巫師",
         "speed": "快速",
-        "skill": "宇宙鐘",
+        "skill": "兔子瞪眼",
         "types": [
             "攻擊3個目標",
             "防禦降低"
@@ -113004,7 +113157,7 @@ window.allHeroes =
         ],
         "family": "wonderland",
         "costume_id": 1,
-        "originalIndex": 1611,
+        "originalIndex": 1613,
         "lb1": {
             "attack": 799,
             "defense": 799,
@@ -113084,7 +113237,7 @@ window.allHeroes =
         ],
         "family": "magic",
         "costume_id": 0,
-        "originalIndex": 1612,
+        "originalIndex": 1614,
         "lb1": {
             "attack": 896,
             "defense": 970,
@@ -113166,7 +113319,7 @@ window.allHeroes =
         ],
         "family": "bear",
         "costume_id": 0,
-        "originalIndex": 1613,
+        "originalIndex": 1615,
         "lb1": {
             "attack": 1036,
             "defense": 1132,
@@ -113235,7 +113388,7 @@ window.allHeroes =
         "passives": [],
         "family": "wolf",
         "costume_id": 0,
-        "originalIndex": 1614,
+        "originalIndex": 1616,
         "lb1": {
             "attack": 828,
             "defense": 845,
@@ -113270,7 +113423,7 @@ window.allHeroes =
         "color": "黃",
         "class": "騎士",
         "speed": "中等",
-        "skill": "金手套",
+        "skill": "司令手套",
         "types": [
             "攻擊所有目標",
             "單體傷害減免",
@@ -113307,7 +113460,7 @@ window.allHeroes =
         ],
         "family": "wolf",
         "costume_id": 1,
-        "originalIndex": 1615,
+        "originalIndex": 1617,
         "lb1": {
             "attack": 825,
             "defense": 850,
@@ -113387,7 +113540,7 @@ window.allHeroes =
         ],
         "family": "outlaw",
         "costume_id": 0,
-        "originalIndex": 1616,
+        "originalIndex": 1618,
         "lb1": {
             "attack": 1354,
             "defense": 1418,
@@ -113456,7 +113609,7 @@ window.allHeroes =
         "passives": [],
         "family": "cultist",
         "costume_id": 0,
-        "originalIndex": 1617,
+        "originalIndex": 1619,
         "lb1": {
             "attack": 1305,
             "defense": 1256,
@@ -113533,7 +113686,7 @@ window.allHeroes =
         ],
         "family": "super_elemental",
         "costume_id": 0,
-        "originalIndex": 1618,
+        "originalIndex": 1620,
         "lb1": {
             "attack": 1025,
             "defense": 956,
@@ -113603,7 +113756,7 @@ window.allHeroes =
         ],
         "family": "super_elemental",
         "costume_id": 0,
-        "originalIndex": 1619,
+        "originalIndex": 1621,
         "lb1": {
             "attack": 879,
             "defense": 947,
@@ -113637,7 +113790,7 @@ window.allHeroes =
         "color": "黃",
         "class": "戰士",
         "speed": "非常慢",
-        "skill": "宇宙奉獻",
+        "skill": "堅定奉獻",
         "types": [
             "攻擊所有目標",
             "復活者"
@@ -113676,7 +113829,7 @@ window.allHeroes =
         ],
         "family": "super_elemental",
         "costume_id": 1,
-        "originalIndex": 1620,
+        "originalIndex": 1622,
         "lb1": {
             "attack": 888,
             "defense": 941,
@@ -113757,7 +113910,7 @@ window.allHeroes =
         ],
         "family": "magic_carpet",
         "costume_id": 0,
-        "originalIndex": 1621,
+        "originalIndex": 1623,
         "lb1": {
             "attack": 1398,
             "defense": 1258,
@@ -113826,7 +113979,7 @@ window.allHeroes =
         ],
         "family": "abyss",
         "costume_id": 0,
-        "originalIndex": 1622,
+        "originalIndex": 1624,
         "lb1": {
             "attack": 863,
             "defense": 814,
@@ -113865,7 +114018,7 @@ window.allHeroes =
         "color": "黃",
         "class": "戰士",
         "speed": "快速",
-        "skill": "銳利刺針",
+        "skill": "迅捷刺針",
         "types": [
             "攻擊單個目標",
             "彈射",
@@ -113902,7 +114055,7 @@ window.allHeroes =
         ],
         "family": "abyss",
         "costume_id": 1,
-        "originalIndex": 1623,
+        "originalIndex": 1625,
         "lb1": {
             "attack": 868,
             "defense": 803,
@@ -113976,7 +114129,7 @@ window.allHeroes =
         ],
         "family": "beachparty",
         "costume_id": 0,
-        "originalIndex": 1624,
+        "originalIndex": 1626,
         "lb1": {
             "attack": 1070,
             "defense": 1078,
@@ -114040,7 +114193,7 @@ window.allHeroes =
         "passives": [],
         "family": "kingdom",
         "costume_id": 0,
-        "originalIndex": 1625,
+        "originalIndex": 1627,
         "lb1": {
             "attack": 923,
             "defense": 816,
@@ -114073,7 +114226,7 @@ window.allHeroes =
         "color": "黃",
         "class": "野人",
         "speed": "快速",
-        "skill": "熊之刃",
+        "skill": "丈八蛇矛",
         "types": [
             "攻擊單個目標",
             "單體持續傷害",
@@ -114110,7 +114263,7 @@ window.allHeroes =
         ],
         "family": "kingdom",
         "costume_id": 1,
-        "originalIndex": 1626,
+        "originalIndex": 1628,
         "lb1": {
             "attack": 954,
             "defense": 794,
@@ -114179,7 +114332,7 @@ window.allHeroes =
         "passives": [],
         "family": "kingdom",
         "costume_id": 0,
-        "originalIndex": 1627,
+        "originalIndex": 1629,
         "lb1": {
             "attack": 765,
             "defense": 947,
@@ -114213,7 +114366,7 @@ window.allHeroes =
         "color": "黃",
         "class": "僧侶",
         "speed": "慢速",
-        "skill": "致勝策略",
+        "skill": "軍法妙招",
         "types": [
             "全體反擊小兵召喚者",
             "召喚所有惡魔"
@@ -114251,7 +114404,7 @@ window.allHeroes =
         ],
         "family": "kingdom",
         "costume_id": 1,
-        "originalIndex": 1628,
+        "originalIndex": 1630,
         "lb1": {
             "attack": 759,
             "defense": 950,
@@ -114321,7 +114474,7 @@ window.allHeroes =
         ],
         "family": "hotm2024",
         "costume_id": 0,
-        "originalIndex": 1629,
+        "originalIndex": 1631,
         "lb1": {
             "attack": 939,
             "defense": 1076,
@@ -114375,7 +114528,7 @@ window.allHeroes =
         "passives": [],
         "family": "mimic",
         "costume_id": 0,
-        "originalIndex": 1630,
+        "originalIndex": 1632,
         "cn_skill_info": []
     },
     {
@@ -114401,7 +114554,7 @@ window.allHeroes =
         "passives": [],
         "family": "mimic",
         "costume_id": 0,
-        "originalIndex": 1631,
+        "originalIndex": 1633,
         "cn_skill_info": []
     },
     {
@@ -114427,7 +114580,7 @@ window.allHeroes =
         "passives": [],
         "family": "super_elemental",
         "costume_id": 1,
-        "originalIndex": 1632,
+        "originalIndex": 1634,
         "cn_skill_info": []
     },
     {
@@ -114453,7 +114606,7 @@ window.allHeroes =
         "passives": [],
         "family": "musketeer",
         "costume_id": 1,
-        "originalIndex": 1633,
+        "originalIndex": 1635,
         "cn_skill_info": []
     },
     {
@@ -114479,7 +114632,7 @@ window.allHeroes =
         "passives": [],
         "family": "plains_hunter",
         "costume_id": 0,
-        "originalIndex": 1634,
+        "originalIndex": 1636,
         "cn_skill_info": []
     },
     {
@@ -114505,7 +114658,7 @@ window.allHeroes =
         "passives": [],
         "family": "beowulf",
         "costume_id": 0,
-        "originalIndex": 1635,
+        "originalIndex": 1637,
         "cn_skill_info": []
     },
     {
@@ -114531,7 +114684,7 @@ window.allHeroes =
         "passives": [],
         "family": "outlaw",
         "costume_id": 0,
-        "originalIndex": 1636,
+        "originalIndex": 1638,
         "cn_skill_info": []
     },
     {
@@ -114557,7 +114710,7 @@ window.allHeroes =
         "passives": [],
         "family": "slime",
         "costume_id": 0,
-        "originalIndex": 1637,
+        "originalIndex": 1639,
         "cn_skill_info": []
     },
     {
@@ -114583,7 +114736,7 @@ window.allHeroes =
         "passives": [],
         "family": "beauty_beast",
         "costume_id": 0,
-        "originalIndex": 1638,
+        "originalIndex": 1640,
         "cn_skill_info": []
     },
     {
@@ -114609,7 +114762,7 @@ window.allHeroes =
         "passives": [],
         "family": "magic_carpet",
         "costume_id": 0,
-        "originalIndex": 1639,
+        "originalIndex": 1641,
         "cn_skill_info": []
     },
     {
@@ -114635,7 +114788,7 @@ window.allHeroes =
         "passives": [],
         "family": "mahayoddha",
         "costume_id": 0,
-        "originalIndex": 1640,
+        "originalIndex": 1642,
         "cn_skill_info": []
     },
     {
@@ -114661,7 +114814,7 @@ window.allHeroes =
         "passives": [],
         "family": "astral_demons",
         "costume_id": 0,
-        "originalIndex": 1641,
+        "originalIndex": 1643,
         "cn_skill_info": []
     },
     {
@@ -114687,7 +114840,7 @@ window.allHeroes =
         "passives": [],
         "family": "titan_hunter",
         "costume_id": 0,
-        "originalIndex": 1642,
+        "originalIndex": 1644,
         "cn_skill_info": []
     },
     {
@@ -114713,33 +114866,7 @@ window.allHeroes =
         "passives": [],
         "family": "institute",
         "costume_id": 0,
-        "originalIndex": 1643,
-        "cn_skill_info": []
-    },
-    {
-        "name": "喬提 (Jyoti)",
-        "fancy_name": "查理舞者",
-        "AetherPower": "",
-        "color": "紅",
-        "class": "騎士",
-        "speed": "慢速",
-        "skill": "",
-        "types": [],
-        "skill_types": [],
-        "source": "",
-        "Release date": "",
-        "specialId": "",
-        "heroId": "mahayoddha_jyoti",
-        "star": 5,
-        "power": null,
-        "attack": null,
-        "defense": null,
-        "health": null,
-        "effects": [],
-        "passives": [],
-        "family": "mahayoddha",
-        "costume_id": 0,
-        "originalIndex": 1644,
+        "originalIndex": 1645,
         "cn_skill_info": []
     },
     {
@@ -114765,7 +114892,7 @@ window.allHeroes =
         "passives": [],
         "family": "cupid",
         "costume_id": 1,
-        "originalIndex": 1645,
+        "originalIndex": 1646,
         "cn_skill_info": []
     },
     {
@@ -114791,7 +114918,7 @@ window.allHeroes =
         "passives": [],
         "family": "cupid",
         "costume_id": 1,
-        "originalIndex": 1646,
+        "originalIndex": 1647,
         "cn_skill_info": []
     },
     {
@@ -114817,7 +114944,7 @@ window.allHeroes =
         "passives": [],
         "family": "cupid",
         "costume_id": 1,
-        "originalIndex": 1647,
+        "originalIndex": 1648,
         "cn_skill_info": []
     },
     {
@@ -114843,7 +114970,7 @@ window.allHeroes =
         "passives": [],
         "family": "cupid",
         "costume_id": 0,
-        "originalIndex": 1648,
+        "originalIndex": 1649,
         "cn_skill_info": []
     },
     {
@@ -114869,7 +114996,7 @@ window.allHeroes =
         "passives": [],
         "family": "cupid",
         "costume_id": 0,
-        "originalIndex": 1649,
+        "originalIndex": 1650,
         "cn_skill_info": []
     },
     {
@@ -114895,7 +115022,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 5,
-        "originalIndex": 1650,
+        "originalIndex": 1651,
         "cn_skill_info": []
     },
     {
@@ -114921,7 +115048,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 5,
-        "originalIndex": 1651,
+        "originalIndex": 1652,
         "cn_skill_info": []
     },
     {
@@ -114947,7 +115074,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 5,
-        "originalIndex": 1652,
+        "originalIndex": 1653,
         "cn_skill_info": []
     },
     {
@@ -114973,7 +115100,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 5,
-        "originalIndex": 1653,
+        "originalIndex": 1654,
         "cn_skill_info": []
     },
     {
@@ -114999,7 +115126,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 5,
-        "originalIndex": 1654,
+        "originalIndex": 1655,
         "cn_skill_info": []
     },
     {
@@ -115025,7 +115152,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 5,
-        "originalIndex": 1655,
+        "originalIndex": 1656,
         "cn_skill_info": []
     },
     {
@@ -115051,7 +115178,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 4,
-        "originalIndex": 1656,
+        "originalIndex": 1657,
         "cn_skill_info": []
     },
     {
@@ -115077,32 +115204,6 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 4,
-        "originalIndex": 1657,
-        "cn_skill_info": []
-    },
-    {
-        "name": "安德烈·德·克萊蒙 (Andre de Clermont)",
-        "fancy_name": "遭背叛的聖殿騎士",
-        "AetherPower": "",
-        "color": "紅",
-        "class": "騎士",
-        "speed": "慢速",
-        "skill": "",
-        "types": [],
-        "skill_types": [],
-        "source": "",
-        "Release date": "",
-        "specialId": "",
-        "heroId": "fire_god_andre",
-        "star": 5,
-        "power": null,
-        "attack": null,
-        "defense": null,
-        "health": null,
-        "effects": [],
-        "passives": [],
-        "family": "hotm2026",
-        "costume_id": 0,
         "originalIndex": 1658,
         "cn_skill_info": []
     }

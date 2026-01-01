@@ -156,17 +156,6 @@
         "Lottery_Only": 1
     },
     {
-        "name": "Jyoti",
-        "fancy_name": "Chari Dancer",
-        "color": "Red",
-        "Release date": "",
-        "star": 5,
-        "family": "mahayoddha",
-        "costume_id": 0,
-        "heroId": "mahayoddha_jyoti",
-        "Lottery_Only": 1
-    },
-    {
         "name": "Zarola C1",
         "fancy_name": "Cupid of Lone Rangers",
         "color": "Green",
@@ -307,17 +296,6 @@
         "family": "classic",
         "costume_id": 4,
         "heroId": "nomad_mage_costume_stylish",
-        "Lottery_Only": 1
-    },
-    {
-        "name": "Andre de Clermont",
-        "fancy_name": "The Betrayed Templar",
-        "color": "Red",
-        "Release date": "",
-        "star": 5,
-        "family": "hotm2026",
-        "costume_id": 0,
-        "heroId": "fire_god_andre",
         "Lottery_Only": 1
     }
 ]

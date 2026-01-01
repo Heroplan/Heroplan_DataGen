@@ -42623,5 +42623,59 @@ window.allHeroesExtra = [
             "revive_chance_nine_lives"
         ],
         "family": "wild_cat"
+    },
+    {
+        "name": "Jyoti",
+        "fancy name": "Chari Dancer",
+        "element": "Red",
+        "rarity": 5,
+        "class": "Sorcerer",
+        "speed": "average",
+        "Release date": "2026-01-01",
+        "AetherPower": "Special Armor",
+        "skill_types": [
+            "Healers",
+            "Healers (Special)",
+            "Immunity Providers",
+            "Board Alterers",
+            "Minions Counters",
+            "Stacking Heroes"
+        ],
+        "heroId": "mahayoddha_jyoti",
+        "baseAttack": 633,
+        "baseDefense": 638,
+        "baseHealth": 1108,
+        "specialId": "fiery_performance",
+        "passiveSkills": [
+            "resist_negative_minion_and_mega_minion_effects",
+            "mana_on_damage_received"
+        ],
+        "family": "mahayoddha"
+    },
+    {
+        "name": "Andre de Clermont",
+        "fancy name": "The Betrayed Templar",
+        "element": "Red",
+        "rarity": 5,
+        "class": "Paladin",
+        "speed": "slow",
+        "Release date": "2026-01-01",
+        "AetherPower": "Regen",
+        "skill_types": [
+            "AoE Attackers (Hit-3)",
+            "Damage Sharers",
+            "Buffers (DEF)",
+            "Buffers (ATK)"
+        ],
+        "heroId": "fire_god_andre",
+        "baseAttack": 599,
+        "baseDefense": 614,
+        "baseHealth": 896,
+        "specialId": "oath_of_templar",
+        "passiveSkills": [
+            "healthboost_on_enemy_special",
+            "resist_defense_modifier_debuffs"
+        ],
+        "family": "hotm2026"
     }
 ];

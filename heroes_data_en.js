@@ -770,7 +770,7 @@ window.allHeroes =
         "color": "Blue",
         "class": "Barbarian",
         "speed": "Average",
-        "skill": "Raccoon Bite",
+        "skill": "Wolf Bite",
         "types": [
             "Hit 1",
             "Ailments Immunity Self",
@@ -834,7 +834,7 @@ window.allHeroes =
         "color": "Blue",
         "class": "Sorcerer",
         "speed": "Average",
-        "skill": "Toon Bite",
+        "skill": "Wolf Bite",
         "types": [
             "Hit 1",
             "Self Heal"
@@ -901,7 +901,7 @@ window.allHeroes =
         "color": "Blue",
         "class": "Sorcerer",
         "speed": "Average",
-        "skill": "Glass Bite",
+        "skill": "Wolf Bite",
         "types": [
             "Hit 1",
             "Bypass",
@@ -1082,7 +1082,7 @@ window.allHeroes =
         "color": "Blue",
         "class": "Druid",
         "speed": "Slow",
-        "skill": "Steel Link",
+        "skill": "Spirit Link",
         "types": [
             "Enemy Damage Share",
             "Defense Debuff All"
@@ -1142,7 +1142,7 @@ window.allHeroes =
         "color": "Blue",
         "class": "Paladin",
         "speed": "Slow",
-        "skill": "Toon Link",
+        "skill": "Spirit Link",
         "types": [
             "Ally Damage Share",
             "Defense Buff All"
@@ -1202,7 +1202,7 @@ window.allHeroes =
         "color": "Blue",
         "class": "Paladin",
         "speed": "Slow",
-        "skill": "Glass Link",
+        "skill": "Spirit Link",
         "types": [
             "Ally Damage Share",
             "Defense Buff All",
@@ -1329,7 +1329,7 @@ window.allHeroes =
         "color": "Blue",
         "class": "Paladin",
         "speed": "Average",
-        "skill": "Fishiest Pastry",
+        "skill": "Healthiest Catch",
         "types": [
             "HoT",
             "Cleanser"
@@ -1458,7 +1458,7 @@ window.allHeroes =
         "color": "Blue",
         "class": "Cleric",
         "speed": "Average",
-        "skill": "Disabling Study",
+        "skill": "Disabling Decree",
         "types": [
             "Hit 1",
             "Buff Immunity"
@@ -1660,7 +1660,7 @@ window.allHeroes =
         "color": "Blue",
         "class": "Rogue",
         "speed": "Average",
-        "skill": "Arrows of Frost",
+        "skill": "Arrows of Fury",
         "types": [
             "Dispeller All",
             "Hit All",
@@ -1783,7 +1783,7 @@ window.allHeroes =
         "color": "Blue",
         "class": "Rogue",
         "speed": "Average",
-        "skill": "Forge Rush",
+        "skill": "Ramming Rush",
         "types": [
             "Hit 3",
             "Dot 3"
@@ -1844,7 +1844,7 @@ window.allHeroes =
         "color": "Blue",
         "class": "Barbarian",
         "speed": "Average",
-        "skill": "Toontastic Rush",
+        "skill": "Ramming Rush",
         "types": [
             "Hit 3"
         ],
@@ -1907,7 +1907,7 @@ window.allHeroes =
         "color": "Blue",
         "class": "Barbarian",
         "speed": "Average",
-        "skill": "Glass Rush",
+        "skill": "Ramming Rush",
         "types": [
             "Hit 3",
             "Bypass"
@@ -2030,7 +2030,7 @@ window.allHeroes =
         "color": "Blue",
         "class": "Monk",
         "speed": "Average",
-        "skill": "Icy Axes",
+        "skill": "Frosty Axes",
         "types": [
             "Hit 3",
             "Elemental Defense Debuff"
@@ -2357,7 +2357,7 @@ window.allHeroes =
         "color": "Blue",
         "class": "Monk",
         "speed": "Slow",
-        "skill": "Whiteout",
+        "skill": "Blizzard",
         "types": [
             "Hit all",
             "Attack Buff All"
@@ -2417,7 +2417,7 @@ window.allHeroes =
         "color": "Blue",
         "class": "Wizard",
         "speed": "Slow",
-        "skill": "Toon Blizzard",
+        "skill": "Blizzard",
         "types": [
             "Hit All",
             "Defense Debuff All"
@@ -2488,7 +2488,7 @@ window.allHeroes =
         "color": "Blue",
         "class": "Wizard",
         "speed": "Slow",
-        "skill": "Glass Blizzard",
+        "skill": "Blizzard",
         "types": [
             "Hit All",
             "Bypass",
@@ -2619,7 +2619,7 @@ window.allHeroes =
         "color": "Blue",
         "class": "Rogue",
         "speed": "Fast",
-        "skill": "Thrilling Clash",
+        "skill": "Chilling Slash",
         "types": [
             "Hit 1",
             "Attack Buff Self"
@@ -2679,7 +2679,7 @@ window.allHeroes =
         "color": "Blue",
         "class": "Fighter",
         "speed": "Fast",
-        "skill": "Toon Slash",
+        "skill": "Chilling Slash",
         "types": [
             "Hit 1",
             "Defense Debuff 1"
@@ -2750,7 +2750,7 @@ window.allHeroes =
         "color": "Blue",
         "class": "Fighter",
         "speed": "Fast",
-        "skill": "Glass Slash",
+        "skill": "Chilling Slash",
         "types": [
             "Hit 1",
             "Bypass",
@@ -2822,7 +2822,7 @@ window.allHeroes =
         "color": "Blue",
         "class": "Cleric",
         "speed": "Styx",
-        "skill": "Imaginary Increments",
+        "skill": "Poet's Protection",
         "types": [
             "Charge",
             "Healer",
@@ -3082,7 +3082,7 @@ window.allHeroes =
         "color": "Blue",
         "class": "Wizard",
         "speed": "Average",
-        "skill": "Spilled Decoctions",
+        "skill": "Rogue Wave",
         "types": [
             "Hit All",
             "Elemental DoT"
@@ -3213,7 +3213,7 @@ window.allHeroes =
         "color": "Blue",
         "class": "Barbarian",
         "speed": "Changing Tides",
-        "skill": "Impervious Formation",
+        "skill": "Close Order Formation",
         "types": [
             "Taunt",
             "Hit all"
@@ -3352,7 +3352,7 @@ window.allHeroes =
         "color": "Blue",
         "class": "Cleric",
         "speed": "Average",
-        "skill": "Dance Stance",
+        "skill": "Counterstance",
         "types": [
             "Heal All",
             "Counterattack"
@@ -3551,7 +3551,7 @@ window.allHeroes =
         "color": "Blue",
         "class": "Paladin",
         "speed": "Average",
-        "skill": "Sturdy Riposte",
+        "skill": "Perfect Riposte",
         "types": [
             "Counterattack All"
         ],
@@ -3603,7 +3603,7 @@ window.allHeroes =
         "color": "Blue",
         "class": "Fighter",
         "speed": "Average",
-        "skill": "Unrelenting Riposte",
+        "skill": "Perfect Riposte",
         "types": [
             "Counterattack All"
         ],
@@ -3655,7 +3655,7 @@ window.allHeroes =
         "color": "Blue",
         "class": "Cleric",
         "speed": "Average",
-        "skill": "Toon Riposte",
+        "skill": "Perfect Riposte",
         "types": [
             "Counterattack 3"
         ],
@@ -3711,7 +3711,7 @@ window.allHeroes =
         "color": "Blue",
         "class": "Cleric",
         "speed": "Average",
-        "skill": "Glass Riposte",
+        "skill": "Perfect Riposte",
         "types": [
             "Counterattack 3",
             "Debuff Reflect for Ice Allies"
@@ -4186,7 +4186,7 @@ window.allHeroes =
         "color": "Blue",
         "class": "Monk",
         "speed": "Slow",
-        "skill": "Undead Obliterator",
+        "skill": "Undead Razer",
         "types": [
             "Hit all",
             "DoT Stack",
@@ -4466,7 +4466,7 @@ window.allHeroes =
         "color": "Blue",
         "class": "Rogue",
         "speed": "Average",
-        "skill": "Merciless Pulverizer",
+        "skill": "Ramming Pulverizer",
         "types": [
             "Hit 3",
             "Attack Buff 3"
@@ -4526,7 +4526,7 @@ window.allHeroes =
         "color": "Blue",
         "class": "Ranger",
         "speed": "Average",
-        "skill": "Postal Pulverizer",
+        "skill": "Ramming Pulverizer",
         "types": [
             "Hit 3"
         ],
@@ -4585,7 +4585,7 @@ window.allHeroes =
         "color": "Blue",
         "class": "Barbarian",
         "speed": "Average",
-        "skill": "Toonpower Pulverizer",
+        "skill": "Ramming Pulverizer",
         "types": [
             "Hit 3",
             "Defense Debuff 3"
@@ -4656,7 +4656,7 @@ window.allHeroes =
         "color": "Blue",
         "class": "Barbarian",
         "speed": "Average",
-        "skill": "Glass Pulverizer",
+        "skill": "Ramming Pulverizer",
         "types": [
             "Hit 3",
             "Defense Debuff 3"
@@ -4923,7 +4923,7 @@ window.allHeroes =
         "color": "Blue",
         "class": "Sorcerer",
         "speed": "Average",
-        "skill": "Blessed Solo",
+        "skill": "Blessed Brew",
         "types": [
             "Healer",
             "Attack Debuff",
@@ -4987,7 +4987,7 @@ window.allHeroes =
         "color": "Blue",
         "class": "Barbarian",
         "speed": "Average",
-        "skill": "Blessed Tankard",
+        "skill": "Blessed Brew",
         "types": [
             "Healer",
             "Attack Debuff",
@@ -5055,7 +5055,7 @@ window.allHeroes =
         "color": "Blue",
         "class": "Wizard",
         "speed": "Average",
-        "skill": "Toon Brew",
+        "skill": "Blessed Brew",
         "types": [
             "Healer",
             "Attack Buff",
@@ -5123,7 +5123,7 @@ window.allHeroes =
         "color": "Blue",
         "class": "Wizard",
         "speed": "Average",
-        "skill": "Glass Brew",
+        "skill": "Blessed Brew",
         "types": [
             "Healer All",
             "Attack Buff All",
@@ -5878,7 +5878,7 @@ window.allHeroes =
         "color": "Blue",
         "class": "Druid",
         "speed": "Fast",
-        "skill": "Purifying Strike",
+        "skill": "Piercing Strike",
         "types": [
             "Hit 1",
             "Cleanser All"
@@ -5938,7 +5938,7 @@ window.allHeroes =
         "color": "Blue",
         "class": "Rogue",
         "speed": "Fast",
-        "skill": "Wrenching Strike",
+        "skill": "Piercing Strike",
         "types": [
             "Hit 1",
             "Buff Imunity All"
@@ -5998,7 +5998,7 @@ window.allHeroes =
         "color": "Blue",
         "class": "Paladin",
         "speed": "Fast",
-        "skill": "Toonpower Strike",
+        "skill": "Piercing Strike",
         "types": [
             "Hit 1",
             "Dispeller 1"
@@ -6069,7 +6069,7 @@ window.allHeroes =
         "color": "Blue",
         "class": "Paladin",
         "speed": "Fast",
-        "skill": "Glass Strike",
+        "skill": "Piercing Strike",
         "types": [
             "Hit 1",
             "Bypass",
@@ -6200,7 +6200,7 @@ window.allHeroes =
         "color": "Blue",
         "class": "Barbarian",
         "speed": "Fast",
-        "skill": "Herculean Throw",
+        "skill": "Trident Throw",
         "types": [
             "Hit 3",
             "Attack Buff"
@@ -6457,7 +6457,7 @@ window.allHeroes =
         "color": "Blue",
         "class": "Monk",
         "speed": "Fast",
-        "skill": "Aquatic Dance",
+        "skill": "Fishbone Blades",
         "types": [
             "Hit 2",
             "Defense Down"
@@ -6661,7 +6661,7 @@ window.allHeroes =
         "color": "Blue",
         "class": "Monk",
         "speed": "Average",
-        "skill": "Glacial Resilience",
+        "skill": "Icy Resilience",
         "types": [
             "Share Damage All",
             "Defense Buff All",
@@ -6883,7 +6883,7 @@ window.allHeroes =
         "color": "Blue",
         "class": "Monk",
         "speed": "Average",
-        "skill": "Anthem of the Lake",
+        "skill": "Summer Carol",
         "types": [
             "Cleanser All",
             "Healer All",
@@ -7013,7 +7013,7 @@ window.allHeroes =
         "color": "Blue",
         "class": "Rogue",
         "speed": "Fast",
-        "skill": "Arrow of Nujalik",
+        "skill": "Spirit Arrow",
         "types": [
             "Hit 3",
             "Mana reduction 3",
@@ -7670,7 +7670,7 @@ window.allHeroes =
         "color": "Blue",
         "class": "Sorcerer",
         "speed": "Average",
-        "skill": "Deep Sea Ritual",
+        "skill": "Divine Protection",
         "types": [
             "Boosted Health All",
             "MoT All",
@@ -8061,7 +8061,7 @@ window.allHeroes =
         "color": "Blue",
         "class": "Barbarian",
         "speed": "Average",
-        "skill": "Athena's Arrow",
+        "skill": "Athena's Bow",
         "types": [
             "Hit 3",
             "Defense Debuff 3",
@@ -8213,7 +8213,7 @@ window.allHeroes =
         "color": "Blue",
         "class": "Rogue",
         "speed": "Changing Tides",
-        "skill": "Aphotic Whisper",
+        "skill": "Aphotic Maw",
         "types": [
             "DoT",
             "Mana Steal"
@@ -8587,7 +8587,7 @@ window.allHeroes =
         "color": "Blue",
         "class": "Cleric",
         "speed": "Average",
-        "skill": "Sacred Reflection",
+        "skill": "Divine Reflection",
         "types": [
             "Counterattack 3"
         ],
@@ -9160,7 +9160,7 @@ window.allHeroes =
         "color": "Blue",
         "class": "Druid",
         "speed": "Magic",
-        "skill": "Flower Arrangements",
+        "skill": "Mechanical Augmentations",
         "types": [
             "Boosted Heal All",
             "Max Health Reduction All",
@@ -9320,7 +9320,7 @@ window.allHeroes =
         "color": "Blue",
         "class": "Ranger",
         "speed": "Slow",
-        "skill": "Ice-Cold Order",
+        "skill": "Order to Overwhelm",
         "types": [
             "Hit All",
             "Summoner",
@@ -9694,7 +9694,7 @@ window.allHeroes =
         "color": "Blue",
         "class": "Fighter",
         "speed": "Changing Tides",
-        "skill": "Ocean Vortex",
+        "skill": "Tidal Vortex",
         "types": [
             "Hit All",
             "DoT All"
@@ -10046,7 +10046,7 @@ window.allHeroes =
             "Mana on Damage Received:",
             "* When this character receives direct damage from Special Skills or Normal Attacks they receive a small amount of mana.",
             "* Maximum of 10% mana gained per turn.",
-            "Superior Resist Negative Minion Effects: This character has innate resistance against incoming negative effects and damage from Minions and Mega Minions."
+            "Superior Resist Negative Minion Effects: This character is immune to incoming negative effects and damage from Minions and Mega Minions."
         ],
         "family": "mahayoddha",
         "costume_id": 0,
@@ -10981,7 +10981,7 @@ window.allHeroes =
         "color": "Blue",
         "class": "Wizard",
         "speed": "Average",
-        "skill": "Oceanic Suffering",
+        "skill": "Saturated Suffering",
         "types": [
             "DoT All"
         ],
@@ -11205,7 +11205,7 @@ window.allHeroes =
         "color": "Blue",
         "class": "Barbarian",
         "speed": "Fast",
-        "skill": "Colossal Bite",
+        "skill": "Gargantuan Bite",
         "types": [
             "Hit 1",
             "Self heal",
@@ -11413,7 +11413,7 @@ window.allHeroes =
         "color": "Blue",
         "class": "Fighter",
         "speed": "Fast",
-        "skill": "Commodore's Malice",
+        "skill": "Commodore's Revenge",
         "types": [
             "Hit 1",
             "Bounce",
@@ -12639,7 +12639,7 @@ window.allHeroes =
         "color": "Blue",
         "class": "Monk",
         "speed": "Average",
-        "skill": "Relaxing Riddle",
+        "skill": "Bewildering Riddle",
         "types": [
             "Healer All",
             "Elemental Defense Buff All",
@@ -13150,7 +13150,7 @@ window.allHeroes =
         "color": "Blue",
         "class": "Sorcerer",
         "speed": "Slow",
-        "skill": "Glacial Explosion",
+        "skill": "Glacial Shatter",
         "types": [
             "Hit All",
             "Defense Debuff All"
@@ -13210,7 +13210,7 @@ window.allHeroes =
         "color": "Blue",
         "class": "Cleric",
         "speed": "Slow",
-        "skill": "Glacial Vortex",
+        "skill": "Glacial Shatter",
         "types": [
             "Hit All",
             "Attack Debuff All"
@@ -13277,7 +13277,7 @@ window.allHeroes =
         "color": "Blue",
         "class": "Wizard",
         "speed": "Slow",
-        "skill": "Toon Shatter",
+        "skill": "Glacial Shatter",
         "types": [
             "Hit All",
             "Defense Debuff All"
@@ -13348,7 +13348,7 @@ window.allHeroes =
         "color": "Blue",
         "class": "Wizard",
         "speed": "Slow",
-        "skill": "Glass Shatter",
+        "skill": "Glacial Shatter",
         "types": [
             "Hit All",
             "Bypass",
@@ -14017,7 +14017,7 @@ window.allHeroes =
         "color": "Blue",
         "class": "Barbarian",
         "speed": "Average",
-        "skill": "Merriest Misery",
+        "skill": "Scourge of Joy",
         "types": [
             "Summoner All",
             "Taunt",
@@ -14302,7 +14302,7 @@ window.allHeroes =
         "color": "Blue",
         "class": "Sorcerer",
         "speed": "Average",
-        "skill": "Shapeshifter's Deception",
+        "skill": "Trickster's Mischief",
         "types": [
             "Copy Special",
             "Hit 1"
@@ -14641,7 +14641,7 @@ window.allHeroes =
         "color": "Blue",
         "class": "Druid",
         "speed": "Fast",
-        "skill": "Strike of the Monolith",
+        "skill": "Strike of the Ancients",
         "types": [
             "Hit 1",
             "Defense Debuff 3"
@@ -14701,7 +14701,7 @@ window.allHeroes =
         "color": "Blue",
         "class": "Rogue",
         "speed": "Fast",
-        "skill": "Strike of the Underworld",
+        "skill": "Strike of the Ancients",
         "types": [
             "Hit 3",
             "Defense Debuff 3"
@@ -14761,7 +14761,7 @@ window.allHeroes =
         "color": "Blue",
         "class": "Fighter",
         "speed": "Fast",
-        "skill": "Strike of the Toons",
+        "skill": "Strike of the Ancients",
         "types": [
             "Hit 1",
             "Defense Buff 3"
@@ -14832,7 +14832,7 @@ window.allHeroes =
         "color": "Blue",
         "class": "Fighter",
         "speed": "Fast",
-        "skill": "Glass Strike",
+        "skill": "Strike of the Ancients",
         "types": [
             "Hit 1",
             "Bypass",
@@ -15034,7 +15034,7 @@ window.allHeroes =
         "color": "Blue",
         "class": "Barbarian",
         "speed": "Fast",
-        "skill": "Rift Blade",
+        "skill": "Reckless Finisher",
         "types": [
             "Hit All",
             "Self Mana Generation Debuff"
@@ -15302,7 +15302,7 @@ window.allHeroes =
         "color": "Blue",
         "class": "Wizard",
         "speed": "Slow",
-        "skill": "Sword Dance",
+        "skill": "Masterful Manipulation",
         "types": [
             "Hit All",
             "Self HoT",
@@ -15456,7 +15456,7 @@ window.allHeroes =
         "color": "Blue",
         "class": "Cleric",
         "speed": "Magic",
-        "skill": "Preserve and Freeze",
+        "skill": "Restoration and Annihilation",
         "types": [
             "Charge",
             "Heal All",
@@ -15678,7 +15678,7 @@ window.allHeroes =
         "color": "Blue",
         "class": "Rogue",
         "speed": "Fast",
-        "skill": "Ipu Drum Chain",
+        "skill": "Chain Strike",
         "types": [
             "Hit 1",
             "Possible Extra Hits",
@@ -16167,7 +16167,7 @@ window.allHeroes =
         "color": "Blue",
         "class": "Fighter",
         "speed": "Fast",
-        "skill": "Staff of the Seastar",
+        "skill": "Deathly Glaive",
         "types": [
             "Hit all",
             "Defense Debuff All",
@@ -16311,7 +16311,7 @@ window.allHeroes =
         "color": "Blue",
         "class": "Rogue",
         "speed": "Fast",
-        "skill": "Herring Surprise",
+        "skill": "Herring Blaster",
         "types": [
             "Hit 1",
             "Hit random",
@@ -17064,7 +17064,7 @@ window.allHeroes =
         "color": "Blue",
         "class": "Cleric",
         "speed": "Average",
-        "skill": "Creative Hands",
+        "skill": "Helping Hands",
         "types": [
             "Healer All",
             "HoT All",
@@ -17288,7 +17288,7 @@ window.allHeroes =
         "color": "Blue",
         "class": "Fighter",
         "speed": "Fast",
-        "skill": "Arctic Wound",
+        "skill": "Everlasting Wound",
         "types": [
             "Hit 3",
             "Healing Debuff 3",
@@ -17944,7 +17944,7 @@ window.allHeroes =
         "color": "Blue",
         "class": "Barbarian",
         "speed": "Average",
-        "skill": "Cloud Axe",
+        "skill": "Cloud Hammer",
         "types": [
             "Hit 3",
             "Attack Debuff 3"
@@ -18004,7 +18004,7 @@ window.allHeroes =
         "color": "Blue",
         "class": "Fighter",
         "speed": "Average",
-        "skill": "Dread Hammer",
+        "skill": "Cloud Hammer",
         "types": [
             "Hit 3",
             "Attack Debuff 3"
@@ -18065,7 +18065,7 @@ window.allHeroes =
         "color": "Blue",
         "class": "Paladin",
         "speed": "Average",
-        "skill": "Toon Hammer",
+        "skill": "Cloud Hammer",
         "types": [
             "Hit 3",
             "Attack Debuff 3"
@@ -18136,7 +18136,7 @@ window.allHeroes =
         "color": "Blue",
         "class": "Paladin",
         "speed": "Average",
-        "skill": "Glass Hammer",
+        "skill": "Cloud Hammer",
         "types": [
             "Hit 3",
             "Bypass",
@@ -18375,7 +18375,7 @@ window.allHeroes =
         "color": "Blue",
         "class": "Monk",
         "speed": "Average",
-        "skill": "Twilight Tricks",
+        "skill": "Legerdemain",
         "types": [
             "Gambler",
             "Health reduction All",
@@ -18539,7 +18539,7 @@ window.allHeroes =
         "color": "Blue",
         "class": "Ranger",
         "speed": "Very Fast",
-        "skill": "Artful Backstab",
+        "skill": "Vengeful Backstab",
         "types": [
             "Hit 1",
             "Hiding"
@@ -19221,7 +19221,7 @@ window.allHeroes =
         "color": "Blue",
         "class": "Paladin",
         "speed": "Average",
-        "skill": "Iceberg Havoc",
+        "skill": "Iceberg Crush",
         "types": [
             "Hit 3",
             "DoT Stack",
@@ -19513,7 +19513,7 @@ window.allHeroes =
         "color": "Blue",
         "class": "Ranger",
         "speed": "Slow",
-        "skill": "Slaying Stake",
+        "skill": "Enchanted Edge",
         "types": [
             "Dispeller All",
             "Cleanser All",
@@ -19653,7 +19653,7 @@ window.allHeroes =
         "color": "Blue",
         "class": "Rogue",
         "speed": "Average",
-        "skill": "Teeth of the River",
+        "skill": "Jaws of the River",
         "types": [
             "Hit All",
             "Bypass",
@@ -20262,7 +20262,7 @@ window.allHeroes =
         "color": "Blue",
         "class": "Fighter",
         "speed": "Fast",
-        "skill": "Oceanic Offensive",
+        "skill": "Amphibious Assault",
         "types": [
             "Hit 3",
             "DoT 3",
@@ -20411,7 +20411,7 @@ window.allHeroes =
         "color": "Blue",
         "class": "Sorcerer",
         "speed": "Changing Tides",
-        "skill": "Crystal Embrace",
+        "skill": "Ocean's Embrace",
         "types": [
             "Heal all",
             "Status Ailment Reset",
@@ -20687,7 +20687,7 @@ window.allHeroes =
         "color": "Blue",
         "class": "Sorcerer",
         "speed": "Average",
-        "skill": "Freezing Finale",
+        "skill": "Icecold Finisher",
         "types": [
             "Hit 1",
             "Self Mana Gen Buff"
@@ -20747,7 +20747,7 @@ window.allHeroes =
         "color": "Blue",
         "class": "Barbarian",
         "speed": "Average",
-        "skill": "Glacial Crusher",
+        "skill": "Icecold Finisher",
         "types": [
             "Hit 3",
             "Mana reducer",
@@ -20815,7 +20815,7 @@ window.allHeroes =
         "color": "Blue",
         "class": "Paladin",
         "speed": "Average",
-        "skill": "Toon Finisher",
+        "skill": "Icecold Finisher",
         "types": [
             "Hit 3"
         ],
@@ -20878,7 +20878,7 @@ window.allHeroes =
         "color": "Blue",
         "class": "Paladin",
         "speed": "Average",
-        "skill": "Glass Finisher",
+        "skill": "Icecold Finisher",
         "types": [
             "Hit 3",
             "Bypass"
@@ -21249,7 +21249,7 @@ window.allHeroes =
         "color": "Blue",
         "class": "Cleric",
         "speed": "Magic",
-        "skill": "Scroll of Navigation",
+        "skill": "Scroll of Equations",
         "types": [
             "Charge",
             "Minion Summoner All",
@@ -22016,7 +22016,7 @@ window.allHeroes =
         "color": "Blue",
         "class": "Druid",
         "speed": "Fast",
-        "skill": "Great Frost Hoe",
+        "skill": "Great Frost Axe",
         "types": [
             "Damage 1",
             "Damage 2 if Fire",
@@ -22599,7 +22599,7 @@ window.allHeroes =
         "color": "Green",
         "class": "Wizard",
         "speed": "Average",
-        "skill": "Tranquil Mist",
+        "skill": "Calming Mist",
         "types": [
             "HoT All",
             "Dispell Immunity Buff All"
@@ -22659,7 +22659,7 @@ window.allHeroes =
         "color": "Green",
         "class": "Druid",
         "speed": "Average",
-        "skill": "Toon Mist",
+        "skill": "Calming Mist",
         "types": [
             "Healer All",
             "Defense Buff All",
@@ -22727,7 +22727,7 @@ window.allHeroes =
         "color": "Green",
         "class": "Druid",
         "speed": "Average",
-        "skill": "Glass Mist",
+        "skill": "Calming Mist",
         "types": [
             "Healer All",
             "Elemental Reflect All",
@@ -22854,7 +22854,7 @@ window.allHeroes =
         "color": "Green",
         "class": "Barbarian",
         "speed": "Fast",
-        "skill": "Crushing Shot",
+        "skill": "Entangling Shot",
         "types": [
             "Hit 1",
             "Defense Debuff 1"
@@ -22914,7 +22914,7 @@ window.allHeroes =
         "color": "Green",
         "class": "Ranger",
         "speed": "Fast",
-        "skill": "Toontastic Shot",
+        "skill": "Entangling Shot",
         "types": [
             "Hit 1",
             "Attack Debuff 1"
@@ -22985,7 +22985,7 @@ window.allHeroes =
         "color": "Green",
         "class": "Ranger",
         "speed": "Fast",
-        "skill": "Glass Arrow",
+        "skill": "Entangling Shot",
         "types": [
             "Hit 1",
             "Bypass",
@@ -23108,7 +23108,7 @@ window.allHeroes =
         "color": "Green",
         "class": "Cleric",
         "speed": "Average",
-        "skill": "Jungle Fury",
+        "skill": "Berserker Fury",
         "types": [
             "Defense Debuff"
         ],
@@ -23160,7 +23160,7 @@ window.allHeroes =
         "color": "Green",
         "class": "Druid",
         "speed": "Average",
-        "skill": "Toon Fury",
+        "skill": "Berserker Fury",
         "types": [
             "Attack Buff"
         ],
@@ -23216,7 +23216,7 @@ window.allHeroes =
         "color": "Green",
         "class": "Druid",
         "speed": "Average",
-        "skill": "Glass Fury",
+        "skill": "Berserker Fury",
         "types": [
             "Attack Buff",
             "Reflect Ailments for Nature Allies",
@@ -23410,7 +23410,7 @@ window.allHeroes =
         "color": "Green",
         "class": "Fighter",
         "speed": "Average",
-        "skill": "Stab of Four Blades",
+        "skill": "Slash of Four Blades",
         "types": [
             "Hit All",
             "Mana Generation Debuff All"
@@ -23470,7 +23470,7 @@ window.allHeroes =
         "color": "Green",
         "class": "Rogue",
         "speed": "Average",
-        "skill": "Slash of Four Toons",
+        "skill": "Slash of Four Blades",
         "types": [
             "Hit All",
             "Mana Reduction All"
@@ -23537,7 +23537,7 @@ window.allHeroes =
         "color": "Green",
         "class": "Rogue",
         "speed": "Average",
-        "skill": "Slash of Glass Blades",
+        "skill": "Slash of Four Blades",
         "types": [
             "Hit All",
             "Bypass",
@@ -23874,7 +23874,7 @@ window.allHeroes =
         "color": "Green",
         "class": "Fighter",
         "speed": "Slow",
-        "skill": "Plentiful Minerals",
+        "skill": "Plentiful Harvest",
         "types": [],
         "skill_types": [
             "Health Boosters",
@@ -24208,7 +24208,7 @@ window.allHeroes =
         "color": "Green",
         "class": "Druid",
         "speed": "Average",
-        "skill": "Gain Hope",
+        "skill": "Have Faith",
         "types": [
             "Healer",
             "Mana Generation Buff 3"
@@ -24268,7 +24268,7 @@ window.allHeroes =
         "color": "Green",
         "class": "Monk",
         "speed": "Average",
-        "skill": "Toon's Faith",
+        "skill": "Have Faith",
         "types": [
             "Healer 3",
             "Mana Generation Buff 3"
@@ -24332,7 +24332,7 @@ window.allHeroes =
         "color": "Green",
         "class": "Monk",
         "speed": "Average",
-        "skill": "Clear Faith",
+        "skill": "Have Faith",
         "types": [
             "Healer 3",
             "Mana Generation Buff 3",
@@ -24659,7 +24659,7 @@ window.allHeroes =
         "color": "Green",
         "class": "Druid",
         "speed": "Slow",
-        "skill": "Gardener's Remedy",
+        "skill": "Elder's Remedy",
         "types": [
             "Reviver",
             "HoT"
@@ -24899,7 +24899,7 @@ window.allHeroes =
         "color": "Green",
         "class": "Monk",
         "speed": "Average",
-        "skill": "Bolstering Rush",
+        "skill": "Ramming Rush",
         "types": [
             "Hit 3",
             "Defense Debuff 3"
@@ -24959,7 +24959,7 @@ window.allHeroes =
         "color": "Green",
         "class": "Ranger",
         "speed": "Average",
-        "skill": "Toon Rush",
+        "skill": "Ramming Rush",
         "types": [
             "Hit 3"
         ],
@@ -25022,7 +25022,7 @@ window.allHeroes =
         "color": "Green",
         "class": "Ranger",
         "speed": "Average",
-        "skill": "Glass Rush",
+        "skill": "Ramming Rush",
         "types": [
             "Hit 3",
             "Bypass"
@@ -25343,7 +25343,7 @@ window.allHeroes =
         "color": "Green",
         "class": "Paladin",
         "speed": "Fast",
-        "skill": "Atlantean Charge",
+        "skill": "Atlantean Spear",
         "types": [
             "Hit 1",
             "Cleanser All"
@@ -26218,7 +26218,7 @@ window.allHeroes =
         "color": "Green",
         "class": "Barbarian",
         "speed": "Fast",
-        "skill": "Shadow Lunge",
+        "skill": "Shadow Sweep",
         "types": [
             "Hit 1",
             "Mana Reduction",
@@ -26577,7 +26577,7 @@ window.allHeroes =
         "color": "Green",
         "class": "Monk",
         "speed": "Average",
-        "skill": "Gift List",
+        "skill": "Gift Sack",
         "types": [
             "Hit 3",
             "Summoner 3",
@@ -26715,7 +26715,7 @@ window.allHeroes =
         "color": "Green",
         "class": "Fighter",
         "speed": "Fast",
-        "skill": "Cleansing Strike",
+        "skill": "Piercing Strike",
         "types": [
             "Hit 1",
             "Cleanser All"
@@ -26775,7 +26775,7 @@ window.allHeroes =
         "color": "Green",
         "class": "Paladin",
         "speed": "Fast",
-        "skill": "Valorant Strike",
+        "skill": "Piercing Strike",
         "types": [
             "Hit 3",
             "Dispels Buffs 3"
@@ -26842,7 +26842,7 @@ window.allHeroes =
         "color": "Green",
         "class": "Druid",
         "speed": "Fast",
-        "skill": "Toontastic Strike",
+        "skill": "Piercing Strike",
         "types": [
             "Hit 1",
             "Dispeller"
@@ -26913,7 +26913,7 @@ window.allHeroes =
         "color": "Green",
         "class": "Druid",
         "speed": "Fast",
-        "skill": "Glass Strike",
+        "skill": "Piercing Strike",
         "types": [
             "Hit 1",
             "Attack Debuff All",
@@ -27184,7 +27184,7 @@ window.allHeroes =
         "color": "Green",
         "class": "Paladin",
         "speed": "Slow",
-        "skill": "Strengthening Smash",
+        "skill": "Empowering Bash",
         "types": [
             "Hit All",
             "Attack Buff",
@@ -27312,7 +27312,7 @@ window.allHeroes =
         "color": "Green",
         "class": "Paladin",
         "speed": "Average",
-        "skill": "Protein Eater",
+        "skill": "Minion Eater",
         "types": [
             "Steals Minions 1",
             "Hit 1",
@@ -27449,7 +27449,7 @@ window.allHeroes =
         "color": "Green",
         "class": "Fighter",
         "speed": "Fast",
-        "skill": "Vampire Killer",
+        "skill": "Witch Killer",
         "types": [
             "Hit 1",
             "Damage when Full Mana 1",
@@ -27576,7 +27576,7 @@ window.allHeroes =
         "color": "Green",
         "class": "Paladin",
         "speed": "Fast",
-        "skill": "Egg Barrage",
+        "skill": "Reckless Slash",
         "types": [
             "Hit all",
             "Chain"
@@ -27829,7 +27829,7 @@ window.allHeroes =
         "color": "Green",
         "class": "Sorcerer",
         "speed": "Average",
-        "skill": "Second Skin",
+        "skill": "Swamp Skin",
         "types": [
             "Health Boost 3",
             "Elemental Defense Buff"
@@ -27890,7 +27890,7 @@ window.allHeroes =
         "color": "Green",
         "class": "Druid",
         "speed": "Average",
-        "skill": "Scaly Skin",
+        "skill": "Swamp Skin",
         "types": [
             "HoT 3",
             "Special Skill Defense Buff 3"
@@ -27950,7 +27950,7 @@ window.allHeroes =
         "color": "Green",
         "class": "Wizard",
         "speed": "Average",
-        "skill": "Toon Skin",
+        "skill": "Swamp Skin",
         "types": [
             "Healer 3",
             "Elemental Defense Buff 3"
@@ -28014,7 +28014,7 @@ window.allHeroes =
         "color": "Green",
         "class": "Wizard",
         "speed": "Average",
-        "skill": "Glass Skin",
+        "skill": "Swamp Skin",
         "types": [
             "Healer 3",
             "Reflect Buff for Nature Allies",
@@ -28217,7 +28217,7 @@ window.allHeroes =
         "color": "Green",
         "class": "Ranger",
         "speed": "Slow",
-        "skill": "Massive Cleave",
+        "skill": "Massive Chop",
         "types": [
             "Hit All",
             "Dodge Buff 3"
@@ -28279,7 +28279,7 @@ window.allHeroes =
         "color": "Green",
         "class": "Druid",
         "speed": "Slow",
-        "skill": "Massive Swing",
+        "skill": "Massive Chop",
         "types": [
             "Hit all",
             "Mana Generation Buff All"
@@ -28339,7 +28339,7 @@ window.allHeroes =
         "color": "Green",
         "class": "Barbarian",
         "speed": "Slow",
-        "skill": "Toontastic Chop",
+        "skill": "Massive Chop",
         "types": [
             "Hit All",
             "Mana Generation Debuff"
@@ -28410,7 +28410,7 @@ window.allHeroes =
         "color": "Green",
         "class": "Barbarian",
         "speed": "Slow",
-        "skill": "Glass Chop",
+        "skill": "Massive Chop",
         "types": [
             "Hit All",
             "Bypass",
@@ -28609,7 +28609,7 @@ window.allHeroes =
         "color": "Green",
         "class": "Wizard",
         "speed": "Average",
-        "skill": "Fog of the Perished",
+        "skill": "Fog of the Fallen",
         "types": [
             "HOT",
             "Defense Buff",
@@ -28673,7 +28673,7 @@ window.allHeroes =
         "color": "Green",
         "class": "Sorcerer",
         "speed": "Average",
-        "skill": "Fog of the Smoke Machine",
+        "skill": "Fog of the Fallen",
         "types": [
             "Healer",
             "Attack Buff",
@@ -28737,7 +28737,7 @@ window.allHeroes =
         "color": "Green",
         "class": "Druid",
         "speed": "Average",
-        "skill": "Toontastic Fog",
+        "skill": "Fog of the Fallen",
         "types": [
             "Healer",
             "Defense Buff",
@@ -28805,7 +28805,7 @@ window.allHeroes =
         "color": "Green",
         "class": "Druid",
         "speed": "Average",
-        "skill": "Fog of the Vitrails",
+        "skill": "Fog of the Fallen",
         "types": [
             "Healer All",
             "Reflect Ailments for Nature Allies",
@@ -28944,7 +28944,7 @@ window.allHeroes =
         "color": "Green",
         "class": "Paladin",
         "speed": "Average",
-        "skill": "Sprite Hymn",
+        "skill": "Sprite Ballad",
         "types": [
             "Summoner",
             "Attack debuff"
@@ -29097,7 +29097,7 @@ window.allHeroes =
         "color": "Green",
         "class": "Monk",
         "speed": "Changing Tides",
-        "skill": "Noxious Chord",
+        "skill": "Noxious Cleave",
         "types": [
             "Hit 3",
             "Mana Reduction",
@@ -29472,7 +29472,7 @@ window.allHeroes =
         "color": "Green",
         "class": "Wizard",
         "speed": "Fast",
-        "skill": "Shocking News",
+        "skill": "Buccaneers Blade",
         "types": [
             "Hit 1",
             "Silence",
@@ -29603,7 +29603,7 @@ window.allHeroes =
         "color": "Green",
         "class": "Druid",
         "speed": "Average",
-        "skill": "Nature's Connection",
+        "skill": "Divine Connection",
         "types": [
             "Heal All",
             "Status Ailment Immunity 3"
@@ -29804,7 +29804,7 @@ window.allHeroes =
         "color": "Green",
         "class": "Cleric",
         "speed": "Slow",
-        "skill": "Candy Vines",
+        "skill": "Creeping Vines",
         "types": [
             "Hit All",
             "Attack Debuff All"
@@ -29864,7 +29864,7 @@ window.allHeroes =
         "color": "Green",
         "class": "Wizard",
         "speed": "Slow",
-        "skill": "Crawling Vines",
+        "skill": "Creeping Vines",
         "types": [
             "Hit All",
             "Defense Debuff All"
@@ -29924,7 +29924,7 @@ window.allHeroes =
         "color": "Green",
         "class": "Sorcerer",
         "speed": "Slow",
-        "skill": "Toon Vines",
+        "skill": "Creeping Vines",
         "types": [
             "Hit All",
             "Attack Debuff All"
@@ -29995,7 +29995,7 @@ window.allHeroes =
         "color": "Green",
         "class": "Sorcerer",
         "speed": "Slow",
-        "skill": "Glass Vines",
+        "skill": "Creeping Vines",
         "types": [
             "Hit All",
             "Bypass",
@@ -30208,7 +30208,7 @@ window.allHeroes =
         "color": "Green",
         "class": "Barbarian",
         "speed": "Average",
-        "skill": "Demoralizing Banter",
+        "skill": "Crippling Grapple",
         "types": [
             "Hit 1",
             "Silence",
@@ -30349,7 +30349,7 @@ window.allHeroes =
         "color": "Green",
         "class": "Rogue",
         "speed": "Average",
-        "skill": "The Undercover Investigation",
+        "skill": "The Duke's Investigation",
         "types": [
             "Hit 3",
             "Fiend Summoner 3",
@@ -30553,7 +30553,7 @@ window.allHeroes =
         "color": "Green",
         "class": "Druid",
         "speed": "Slow",
-        "skill": "Verdant Mirror",
+        "skill": "Ancient Mirror",
         "types": [
             "Hit All",
             "Elemental Reflect All",
@@ -30691,7 +30691,7 @@ window.allHeroes =
         "color": "Green",
         "class": "Cleric",
         "speed": "Slow",
-        "skill": "Midsummer's Reverie",
+        "skill": "Midsummer's Dream",
         "types": [
             "Reviver",
             "HoT",
@@ -30907,7 +30907,7 @@ window.allHeroes =
         "color": "Green",
         "class": "Druid",
         "speed": "Fast",
-        "skill": "Vigorous Villanelle",
+        "skill": "Fabled Llama Ballad",
         "types": [
             "Hit All",
             "Buff Immunity Debuff",
@@ -31280,7 +31280,7 @@ window.allHeroes =
         "color": "Green",
         "class": "Fighter",
         "speed": "Very Fast",
-        "skill": "Artisan's Shot",
+        "skill": "Piercing Shot",
         "types": [
             "Minion Destroyer 1",
             "Hit 1",
@@ -31425,7 +31425,7 @@ window.allHeroes =
         "color": "Green",
         "class": "Paladin",
         "speed": "Average",
-        "skill": "Immortal Punisher",
+        "skill": "Immortal Annihilator",
         "types": [
             "Hit All",
             "Self Resurrection"
@@ -32520,7 +32520,7 @@ window.allHeroes =
         "color": "Green",
         "class": "Barbarian",
         "speed": "Slow",
-        "skill": "Seaweed Flail",
+        "skill": "Spectre's Flail",
         "types": [
             "Hit 5 random",
             "Attack Debuff stack"
@@ -32736,7 +32736,7 @@ window.allHeroes =
         "color": "Green",
         "class": "Cleric",
         "speed": "Magic",
-        "skill": "Emerald Dual Blade",
+        "skill": "Charmed Dual Blade",
         "types": [
             "Charge",
             "Hit 1",
@@ -33245,7 +33245,7 @@ window.allHeroes =
         "color": "Green",
         "class": "Cleric",
         "speed": "Fast",
-        "skill": "Garlic Platter",
+        "skill": "Hemlock Tea",
         "types": [
             "Hit All",
             "Bypass",
@@ -33389,7 +33389,7 @@ window.allHeroes =
         "color": "Green",
         "class": "Sorcerer",
         "speed": "Average",
-        "skill": "Balanced Teamwork",
+        "skill": "Perfect Teamwork",
         "types": [
             "Minion Destroyer 1",
             "Hit 1",
@@ -33603,7 +33603,7 @@ window.allHeroes =
         "color": "Green",
         "class": "Sorcerer",
         "speed": "Fast",
-        "skill": "Soothing Song",
+        "skill": "Luring Song",
         "types": [
             "Hit 3",
             "Buff Immunity"
@@ -33734,7 +33734,7 @@ window.allHeroes =
         "color": "Green",
         "class": "Barbarian",
         "speed": "Fast",
-        "skill": "Eclipse Spear",
+        "skill": "Crescent Spear",
         "types": [
             "Hit 3",
             "Healing Steal"
@@ -33795,7 +33795,7 @@ window.allHeroes =
         "color": "Green",
         "class": "Paladin",
         "speed": "Fast",
-        "skill": "Lunar Spear",
+        "skill": "Crescent Spear",
         "types": [
             "Hit All",
             "Healing Decrease"
@@ -33855,7 +33855,7 @@ window.allHeroes =
         "color": "Green",
         "class": "Cleric",
         "speed": "Fast",
-        "skill": "Toon Spear",
+        "skill": "Crescent Spear",
         "types": [
             "Hit 3",
             "Self Heal"
@@ -33922,7 +33922,7 @@ window.allHeroes =
         "color": "Green",
         "class": "Cleric",
         "speed": "Fast",
-        "skill": "Glass Spear",
+        "skill": "Crescent Spear",
         "types": [
             "Hit 3",
             "Self Heal"
@@ -34461,7 +34461,7 @@ window.allHeroes =
         "color": "Green",
         "class": "Rogue",
         "speed": "Fast",
-        "skill": "Warcry of the Hunt",
+        "skill": "Shattering Warcry",
         "types": [
             "Hit 3",
             "Elemental Defense Debuff",
@@ -35065,7 +35065,7 @@ window.allHeroes =
         "color": "Green",
         "class": "Sorcerer",
         "speed": "Fast",
-        "skill": "Electric Stab",
+        "skill": "Electric Cut",
         "types": [
             "Hit 3",
             "Cleanser",
@@ -35279,7 +35279,7 @@ window.allHeroes =
         "color": "Green",
         "class": "Wizard",
         "speed": "Fast",
-        "skill": "Brittling Burst",
+        "skill": "Brittling Force",
         "types": [
             "Hit All",
             "Defense Debuff"
@@ -35651,7 +35651,7 @@ window.allHeroes =
         "color": "Green",
         "class": "Paladin",
         "speed": "Changing Tides",
-        "skill": "Testudo Rock",
+        "skill": "Testudo Roll",
         "types": [
             "Destroy Minions",
             "Hit all",
@@ -35801,7 +35801,7 @@ window.allHeroes =
         "color": "Green",
         "class": "Paladin",
         "speed": "Fast",
-        "skill": "Kite of Endurance",
+        "skill": "Flail of Destruction",
         "types": [
             "Hit 1",
             "Self HoT"
@@ -36028,7 +36028,7 @@ window.allHeroes =
         "color": "Green",
         "class": "Fighter",
         "speed": "Changing Tides",
-        "skill": "Scavenging Dash",
+        "skill": "Whirlpool Dash",
         "types": [
             "Mana steal 1",
             "Hit 1",
@@ -36187,7 +36187,7 @@ window.allHeroes =
         "color": "Green",
         "class": "Cleric",
         "speed": "Fast",
-        "skill": "Hasty Gift Wrapper",
+        "skill": "Hasty Trigger Finger",
         "types": [
             "Summoner All",
             "Hit 1 on Ally SS",
@@ -36623,7 +36623,7 @@ window.allHeroes =
         "color": "Green",
         "class": "Rogue",
         "speed": "Average",
-        "skill": "Exquisite Alchemy",
+        "skill": "Unwavering Focus",
         "types": [
             "Hit 1",
             "Critical Hit Buff"
@@ -36911,7 +36911,7 @@ window.allHeroes =
         "color": "Green",
         "class": "Barbarian",
         "speed": "Average",
-        "skill": "Green Dragon Inferno Blade",
+        "skill": "Green Dragon Crescent Blade",
         "types": [
             "Hit 3",
             "Bypass Minions",
@@ -37274,7 +37274,7 @@ window.allHeroes =
         "color": "Green",
         "class": "Wizard",
         "speed": "Slow",
-        "skill": "Blessing of Gjallarhorn",
+        "skill": "Boon of Gjallarhorn",
         "types": [
             "Revive",
             "Attack Buff",
@@ -37398,7 +37398,7 @@ window.allHeroes =
         "color": "Green",
         "class": "Ranger",
         "speed": "Slow",
-        "skill": "Anger of the Jester",
+        "skill": "Anger of the Forest",
         "types": [
             "Hit All",
             "Attack Debuff All"
@@ -37458,7 +37458,7 @@ window.allHeroes =
         "color": "Green",
         "class": "Wizard",
         "speed": "Slow",
-        "skill": "Anger of the Woods",
+        "skill": "Anger of the Forest",
         "types": [
             "Hit All",
             "Attack Debuff All",
@@ -37527,7 +37527,7 @@ window.allHeroes =
         "color": "Green",
         "class": "Druid",
         "speed": "Slow",
-        "skill": "Anger of the Toons",
+        "skill": "Anger of the Forest",
         "types": [
             "Hit All",
             "Attack Debuff All"
@@ -37598,7 +37598,7 @@ window.allHeroes =
         "color": "Green",
         "class": "Druid",
         "speed": "Slow",
-        "skill": "Anger of Shards",
+        "skill": "Anger of the Forest",
         "types": [
             "Hit All",
             "Bypass",
@@ -38181,7 +38181,7 @@ window.allHeroes =
         "color": "Green",
         "class": "Sorcerer",
         "speed": "Fast",
-        "skill": "Crescent Shield",
+        "skill": "Eclipse Shield",
         "types": [
             "Hit All",
             "Minion Dodge Buff All"
@@ -38248,7 +38248,7 @@ window.allHeroes =
         "color": "Green",
         "class": "Cleric",
         "speed": "Fast",
-        "skill": "Lunar Shield",
+        "skill": "Eclipse Shield",
         "types": [
             "Hit All",
             "Minion Dodge Buff All"
@@ -38315,7 +38315,7 @@ window.allHeroes =
         "color": "Green",
         "class": "Druid",
         "speed": "Fast",
-        "skill": "Toon Shield",
+        "skill": "Eclipse Shield",
         "types": [
             "Hit All",
             "Special Skill Defense Buff All"
@@ -38386,7 +38386,7 @@ window.allHeroes =
         "color": "Green",
         "class": "Druid",
         "speed": "Fast",
-        "skill": "Glass Shield",
+        "skill": "Eclipse Shield",
         "types": [
             "Hit All",
             "Bypass",
@@ -38835,7 +38835,7 @@ window.allHeroes =
         "color": "Green",
         "class": "Fighter",
         "speed": "Average",
-        "skill": "Serenade of Sedition",
+        "skill": "Moonlight Serenade",
         "types": [
             "Hit 3",
             "DoT 3",
@@ -38966,7 +38966,7 @@ window.allHeroes =
         "color": "Green",
         "class": "Fighter",
         "speed": "Slow",
-        "skill": "Blessed Blades",
+        "skill": "Magical Sword",
         "types": [
             "Health Boost",
             "Summoner"
@@ -39297,7 +39297,7 @@ window.allHeroes =
         "color": "Green",
         "class": "Cleric",
         "speed": "Fast",
-        "skill": "Pure Shot",
+        "skill": "Perfect Shot",
         "types": [
             "Hit 1",
             "Mana Generation Debuff"
@@ -39357,7 +39357,7 @@ window.allHeroes =
         "color": "Green",
         "class": "Druid",
         "speed": "Fast",
-        "skill": "Flawless Shot",
+        "skill": "Perfect Shot",
         "types": [
             "Hit 1",
             "Silencer"
@@ -39417,7 +39417,7 @@ window.allHeroes =
         "color": "Green",
         "class": "Ranger",
         "speed": "Fast",
-        "skill": "Toon Shot",
+        "skill": "Perfect Shot",
         "types": [
             "Hit 1"
         ],
@@ -39480,7 +39480,7 @@ window.allHeroes =
         "color": "Green",
         "class": "Ranger",
         "speed": "Fast",
-        "skill": "Glass Arrow",
+        "skill": "Perfect Shot",
         "types": [
             "Hit 1",
             "Bypass"
@@ -39852,7 +39852,7 @@ window.allHeroes =
         "color": "Green",
         "class": "Monk",
         "speed": "Average",
-        "skill": "Forest Command",
+        "skill": "Call to Arms",
         "types": [
             "Hit 3",
             "Summoner",
@@ -40001,7 +40001,7 @@ window.allHeroes =
         "color": "Green",
         "class": "Cleric",
         "speed": "Slow",
-        "skill": "Transcendental Charge",
+        "skill": "Transcendental Frame",
         "types": [
             "Self Full Removal",
             "Ghost",
@@ -40145,7 +40145,7 @@ window.allHeroes =
         "color": "Green",
         "class": "Paladin",
         "speed": "Fast",
-        "skill": "Protector of the Blue River",
+        "skill": "Bringer of Order",
         "types": [
             "Hit All",
             "Defense Debuff"
@@ -40912,7 +40912,7 @@ window.allHeroes =
         "color": "Green",
         "class": "Monk",
         "speed": "Slow",
-        "skill": "Hyper Porridge",
+        "skill": "Super Porridge",
         "types": [
             "Reviver",
             "Summoner",
@@ -41342,7 +41342,7 @@ window.allHeroes =
         "color": "Green",
         "class": "Monk",
         "speed": "Fast",
-        "skill": "Guarding Tunes",
+        "skill": "Saga of Protection",
         "types": [
             "Boost Health All",
             "Firestorm Ward All",
@@ -41710,7 +41710,7 @@ window.allHeroes =
         "color": "Green",
         "class": "Barbarian",
         "speed": "Fast",
-        "skill": "Innovative Lunge",
+        "skill": "Valiant Lunge",
         "types": [
             "Dispeller",
             "Hit 1",
@@ -42143,7 +42143,7 @@ window.allHeroes =
         "color": "Green",
         "class": "Monk",
         "speed": "Fast",
-        "skill": "Rusty Blade",
+        "skill": "Howling Sword",
         "types": [
             "Hit 3",
             "Self Power Boost",
@@ -42359,7 +42359,7 @@ window.allHeroes =
         "color": "Green",
         "class": "Wizard",
         "speed": "Average",
-        "skill": "Roots of Yggdrasil",
+        "skill": "Nuts of Yggdrasil",
         "types": [
             "Healer",
             "Board Alterer"
@@ -42627,7 +42627,7 @@ window.allHeroes =
         "color": "Green",
         "class": "Rogue",
         "speed": "Fast",
-        "skill": "Sonic Infusion Arrow",
+        "skill": "Elemental Infusion Arrow",
         "types": [
             "Hit 1, 3 or All"
         ],
@@ -43202,7 +43202,7 @@ window.allHeroes =
         "color": "Green",
         "class": "Paladin",
         "speed": "Changing Tides",
-        "skill": "Opposing Raid",
+        "skill": "Overwhelming Raid",
         "types": [
             "Hit all",
             "Fiend Summoner All"
@@ -43872,7 +43872,7 @@ window.allHeroes =
         "color": "Green",
         "class": "Paladin",
         "speed": "Average",
-        "skill": "Kane Prowess",
+        "skill": "Martial Prowess",
         "types": [
             "Health Boost",
             "Titan Attack Buff"
@@ -44166,7 +44166,7 @@ window.allHeroes =
         "color": "Green",
         "class": "Sorcerer",
         "speed": "Magic",
-        "skill": "Brew of the Centaurs",
+        "skill": "Poem of the Centaurs",
         "types": [
             "Charge",
             "Increased Damage from Ailments All",
@@ -44397,7 +44397,7 @@ window.allHeroes =
         "color": "Green",
         "class": "Wizard",
         "speed": "Average",
-        "skill": "Mad Tea Party",
+        "skill": "Mad as a Hatter",
         "types": [
             "Hit 3",
             "Buff Stealer",
@@ -44618,7 +44618,7 @@ window.allHeroes =
         "color": "Green",
         "class": "Druid",
         "speed": "Fast",
-        "skill": "Blooming Growth",
+        "skill": "Accelerated Growth",
         "types": [
             "Boosted Heal All",
             "MoT All",
@@ -44838,7 +44838,7 @@ window.allHeroes =
         "color": "Green",
         "class": "Wizard",
         "speed": "Fast",
-        "skill": "Poem of the Morass",
+        "skill": "Song of the Morass",
         "types": [
             "Hit 3",
             "Accuracy debuff"
@@ -45267,7 +45267,7 @@ window.allHeroes =
         "color": "Green",
         "class": "Cleric",
         "speed": "Average",
-        "skill": "Melody of Mana Control",
+        "skill": "Staff of Mana Control",
         "types": [
             "Hit 1",
             "Hit All Ice",
@@ -45646,7 +45646,7 @@ window.allHeroes =
         "color": "Green",
         "class": "Paladin",
         "speed": "Slow",
-        "skill": "Wipeout",
+        "skill": "Sand Storm",
         "types": [
             "Hit All",
             "Dot all",
@@ -45865,7 +45865,7 @@ window.allHeroes =
         "color": "Green",
         "class": "Sorcerer",
         "speed": "Fast",
-        "skill": "Plume Flash",
+        "skill": "Emerald Flash",
         "types": [
             "Dispeller",
             "Hit All",
@@ -46496,7 +46496,7 @@ window.allHeroes =
         "color": "Purple",
         "class": "Sorcerer",
         "speed": "Fast",
-        "skill": "One Spell Ahead",
+        "skill": "One Jump Ahead",
         "types": [
             "Hit 3",
             "Dodge Buff 3"
@@ -46621,7 +46621,7 @@ window.allHeroes =
         "color": "Purple",
         "class": "Sorcerer",
         "speed": "Fast",
-        "skill": "Poison Jolt",
+        "skill": "Electric Jolt",
         "types": [
             "Hit 1",
             "DoT 1"
@@ -46682,7 +46682,7 @@ window.allHeroes =
         "color": "Purple",
         "class": "Wizard",
         "speed": "Fast",
-        "skill": "Toon Jolt",
+        "skill": "Electric Jolt",
         "types": [
             "Hit 1"
         ],
@@ -46745,7 +46745,7 @@ window.allHeroes =
         "color": "Purple",
         "class": "Wizard",
         "speed": "Fast",
-        "skill": "Glass Jolt",
+        "skill": "Electric Jolt",
         "types": [
             "Hit 1",
             "Bypass"
@@ -46934,7 +46934,7 @@ window.allHeroes =
         "color": "Purple",
         "class": "Rogue",
         "speed": "Average",
-        "skill": "Empowered Slash",
+        "skill": "Dual Slash",
         "types": [
             "Hit 1",
             "Bounce",
@@ -47238,7 +47238,7 @@ window.allHeroes =
         "color": "Purple",
         "class": "Rogue",
         "speed": "Slow",
-        "skill": "Lament of the Hunt",
+        "skill": "Lament of Regression",
         "types": [
             "Defense Buff",
             "Attack Buff",
@@ -47715,7 +47715,7 @@ window.allHeroes =
         "color": "Purple",
         "class": "Paladin",
         "speed": "Average",
-        "skill": "Carve a Hole",
+        "skill": "Dig a Hole",
         "types": [
             "Self clean",
             "Hole digger",
@@ -47854,7 +47854,7 @@ window.allHeroes =
         "color": "Purple",
         "class": "Sorcerer",
         "speed": "Slow",
-        "skill": "Toxic Tricks",
+        "skill": "Toxic Traps",
         "types": [
             "Dot all"
         ],
@@ -47911,7 +47911,7 @@ window.allHeroes =
         "color": "Purple",
         "class": "Fighter",
         "speed": "Slow",
-        "skill": "Toon Traps",
+        "skill": "Toxic Traps",
         "types": [
             "Hit All",
             "DoT All"
@@ -47983,7 +47983,7 @@ window.allHeroes =
         "color": "Purple",
         "class": "Fighter",
         "speed": "Slow",
-        "skill": "Glass Traps",
+        "skill": "Toxic Traps",
         "types": [
             "Hit All",
             "Bypass",
@@ -48178,7 +48178,7 @@ window.allHeroes =
         "color": "Purple",
         "class": "Fighter",
         "speed": "Average",
-        "skill": "Bleeding Thrust",
+        "skill": "Bleeding Stab",
         "types": [
             "Hit 3",
             "Heal Self"
@@ -48238,7 +48238,7 @@ window.allHeroes =
         "color": "Purple",
         "class": "Paladin",
         "speed": "Average",
-        "skill": "Toon Stab",
+        "skill": "Bleeding Stab",
         "types": [
             "Hit 1",
             "Heal Self"
@@ -48305,7 +48305,7 @@ window.allHeroes =
         "color": "Purple",
         "class": "Paladin",
         "speed": "Average",
-        "skill": "Glass Stab",
+        "skill": "Bleeding Stab",
         "types": [
             "Hit 1",
             "Bypass",
@@ -48432,7 +48432,7 @@ window.allHeroes =
         "color": "Purple",
         "class": "Cleric",
         "speed": "Average",
-        "skill": "Leeching Saw",
+        "skill": "Leeching Stars",
         "types": [
             "Hit 1",
             "Mana Steal 3"
@@ -48493,7 +48493,7 @@ window.allHeroes =
         "color": "Purple",
         "class": "Fighter",
         "speed": "Average",
-        "skill": "Toon Stars",
+        "skill": "Leeching Stars",
         "types": [
             "Hit 1",
             "Self Heal"
@@ -48560,7 +48560,7 @@ window.allHeroes =
         "color": "Purple",
         "class": "Fighter",
         "speed": "Average",
-        "skill": "Glass Stars",
+        "skill": "Leeching Stars",
         "types": [
             "Hit 1",
             "Bypass",
@@ -48754,7 +48754,7 @@ window.allHeroes =
         "color": "Purple",
         "class": "Rogue",
         "speed": "Fast",
-        "skill": "Purifying Hit",
+        "skill": "Piercing Hit",
         "types": [
             "Hit 1",
             "Cleanser All"
@@ -48814,7 +48814,7 @@ window.allHeroes =
         "color": "Purple",
         "class": "Paladin",
         "speed": "Fast",
-        "skill": "Toon Hit",
+        "skill": "Piercing Hit",
         "types": [
             "Hit 1",
             "Dispeller All"
@@ -48885,7 +48885,7 @@ window.allHeroes =
         "color": "Purple",
         "class": "Paladin",
         "speed": "Fast",
-        "skill": "Glass Hit",
+        "skill": "Piercing Hit",
         "types": [
             "Hit 1",
             "Bypass",
@@ -49159,7 +49159,7 @@ window.allHeroes =
         "color": "Purple",
         "class": "Fighter",
         "speed": "Average",
-        "skill": "Mummy Strike",
+        "skill": "Mummy Slash",
         "types": [
             "Hit 3"
         ],
@@ -49286,7 +49286,7 @@ window.allHeroes =
         "color": "Purple",
         "class": "Wizard",
         "speed": "Fast",
-        "skill": "Yurei",
+        "skill": "Ghost",
         "types": [
             "Self Full Removal",
             "Ghost",
@@ -49497,7 +49497,7 @@ window.allHeroes =
         "color": "Purple",
         "class": "Sorcerer",
         "speed": "Average",
-        "skill": "Dress Up!",
+        "skill": "Tidy Up!",
         "types": [
             "Dispeller All",
             "Cleanser All",
@@ -49772,7 +49772,7 @@ window.allHeroes =
         "color": "Purple",
         "class": "Rogue",
         "speed": "Fast",
-        "skill": "Razor Smile",
+        "skill": "Dazzling Grin",
         "types": [
             "Reposition",
             "DoT All"
@@ -49959,7 +49959,7 @@ window.allHeroes =
         "color": "Purple",
         "class": "Sorcerer",
         "speed": "Average",
-        "skill": "Deadly Riposte",
+        "skill": "Perfect Riposte",
         "types": [
             "Counterattack All"
         ],
@@ -50011,7 +50011,7 @@ window.allHeroes =
         "color": "Purple",
         "class": "Druid",
         "speed": "Average",
-        "skill": "Precise Riposte",
+        "skill": "Perfect Riposte",
         "types": [
             "Counterattack 3",
             "Mana on Counterattack",
@@ -50071,7 +50071,7 @@ window.allHeroes =
         "color": "Purple",
         "class": "Paladin",
         "speed": "Average",
-        "skill": "Toontastic Riposte",
+        "skill": "Perfect Riposte",
         "types": [
             "Counterattack 3"
         ],
@@ -50127,7 +50127,7 @@ window.allHeroes =
         "color": "Purple",
         "class": "Paladin",
         "speed": "Average",
-        "skill": "Glass Riposte",
+        "skill": "Perfect Riposte",
         "types": [
             "Counterattack 3",
             "Elemental Reflect Ailments All"
@@ -50386,7 +50386,7 @@ window.allHeroes =
         "color": "Purple",
         "class": "Druid",
         "speed": "Average",
-        "skill": "Nightbloom Dust",
+        "skill": "Nightglade Pollen",
         "types": [
             "Hit 3"
         ],
@@ -51136,7 +51136,7 @@ window.allHeroes =
         "color": "Purple",
         "class": "Cleric",
         "speed": "Average",
-        "skill": "Pulsar Blast",
+        "skill": "Arcane Blast",
         "types": [
             "Hit 3",
             "Mindless attack"
@@ -51263,7 +51263,7 @@ window.allHeroes =
         "color": "Purple",
         "class": "Sorcerer",
         "speed": "Average",
-        "skill": "Curse of the Depths",
+        "skill": "Scar of the Depths",
         "types": [
             "DoT All",
             "Mana Debuff All"
@@ -51383,7 +51383,7 @@ window.allHeroes =
         "color": "Purple",
         "class": "Ranger",
         "speed": "Average",
-        "skill": "Regeneration",
+        "skill": "Purification",
         "types": [
             "HoT All",
             "Attack Buff All",
@@ -51451,7 +51451,7 @@ window.allHeroes =
         "color": "Purple",
         "class": "Monk",
         "speed": "Average",
-        "skill": "Transfigure",
+        "skill": "Purification",
         "types": [
             "Boost Health All",
             "Defense Buff All",
@@ -51519,7 +51519,7 @@ window.allHeroes =
         "color": "Purple",
         "class": "Cleric",
         "speed": "Average",
-        "skill": "Toonification",
+        "skill": "Purification",
         "types": [
             "Heal All",
             "Defense Buff All",
@@ -51591,7 +51591,7 @@ window.allHeroes =
         "color": "Purple",
         "class": "Cleric",
         "speed": "Average",
-        "skill": "Glassification",
+        "skill": "Purification",
         "types": [
             "Heal All",
             "Debuff Reflect for Dark Allies",
@@ -51797,7 +51797,7 @@ window.allHeroes =
         "color": "Purple",
         "class": "Cleric",
         "speed": "Average",
-        "skill": "Haze of the Fallen",
+        "skill": "Fog of the Fallen",
         "types": [
             "HOT All",
             "Buff immunity All",
@@ -51865,7 +51865,7 @@ window.allHeroes =
         "color": "Purple",
         "class": "Monk",
         "speed": "Average",
-        "skill": "Mist of the Fallen",
+        "skill": "Fog of the Fallen",
         "types": [
             "HoT All",
             "Status Ailment Immunity All",
@@ -51933,7 +51933,7 @@ window.allHeroes =
         "color": "Purple",
         "class": "Sorcerer",
         "speed": "Average",
-        "skill": "Fog of the Toons",
+        "skill": "Fog of the Fallen",
         "types": [
             "Heal All",
             "Defense Buff All",
@@ -52001,7 +52001,7 @@ window.allHeroes =
         "color": "Purple",
         "class": "Sorcerer",
         "speed": "Average",
-        "skill": "Fog of the Vitrails",
+        "skill": "Fog of the Fallen",
         "types": [
             "Heal All",
             "Debuff Reflect for Dark Allies",
@@ -52203,7 +52203,7 @@ window.allHeroes =
         "color": "Purple",
         "class": "Barbarian",
         "speed": "Changing Tides",
-        "skill": "Critical Cookout",
+        "skill": "Critical Tactics",
         "types": [
             "Titan Attack Buff",
             "Crit Buff"
@@ -52596,7 +52596,7 @@ window.allHeroes =
         "color": "Purple",
         "class": "Paladin",
         "speed": "Average",
-        "skill": "Symphonic Pulverizer",
+        "skill": "Ramming Pulverizer",
         "types": [
             "Hit All",
             "Defense Debuff All"
@@ -52656,7 +52656,7 @@ window.allHeroes =
         "color": "Purple",
         "class": "Cleric",
         "speed": "Average",
-        "skill": "Elegant Pulverizer",
+        "skill": "Ramming Pulverizer",
         "types": [
             "Hit 3",
             "Health Reduction 3"
@@ -52716,7 +52716,7 @@ window.allHeroes =
         "color": "Purple",
         "class": "Ranger",
         "speed": "Average",
-        "skill": "Toontastic Pulverizer",
+        "skill": "Ramming Pulverizer",
         "types": [
             "Hit 3",
             "Defense Debuff 3"
@@ -52787,7 +52787,7 @@ window.allHeroes =
         "color": "Purple",
         "class": "Ranger",
         "speed": "Average",
-        "skill": "Glass Pulverizer",
+        "skill": "Ramming Pulverizer",
         "types": [
             "Hit 3",
             "Bypass",
@@ -53073,7 +53073,7 @@ window.allHeroes =
         "color": "Purple",
         "class": "Cleric",
         "speed": "Average",
-        "skill": "Voidshield",
+        "skill": "Nethershield",
         "types": [
             "Healer All",
             "Lifts Ailments 3"
@@ -53315,7 +53315,7 @@ window.allHeroes =
         "color": "Purple",
         "class": "Sorcerer",
         "speed": "Magic",
-        "skill": "Dark Shock",
+        "skill": "Arcane Shock",
         "types": [
             "Charge",
             "Attack Debuff All",
@@ -53553,7 +53553,7 @@ window.allHeroes =
         "color": "Purple",
         "class": "Paladin",
         "speed": "Very Slow",
-        "skill": "Cavalier Hat of Dark Realm",
+        "skill": "Cube of Dark Realm",
         "types": [
             "Hit 5",
             "Health Reduction",
@@ -53918,7 +53918,7 @@ window.allHeroes =
         "color": "Purple",
         "class": "Fighter",
         "speed": "Average",
-        "skill": "Mark of the Jackal",
+        "skill": "Mark of Anubis",
         "types": [
             "Greed",
             "DoT all",
@@ -54065,7 +54065,7 @@ window.allHeroes =
         "color": "Purple",
         "class": "Paladin",
         "speed": "Average",
-        "skill": "Baker's Baguettes",
+        "skill": "Charmer's Blades",
         "types": [
             "Hit 3",
             "Damage Boosted Heal All",
@@ -54444,7 +54444,7 @@ window.allHeroes =
         "color": "Purple",
         "class": "Druid",
         "speed": "Fast",
-        "skill": "Orchids and Roses",
+        "skill": "Quick and Nimble",
         "types": [
             "Hit All",
             "Dodge buff"
@@ -54604,7 +54604,7 @@ window.allHeroes =
         "color": "Purple",
         "class": "Sorcerer",
         "speed": "Magic",
-        "skill": "Wand of Mana Trickery",
+        "skill": "Wand of Mana Control",
         "types": [
             "Hit 1",
             "Mana Reduce 4 on Enemy SS",
@@ -54768,7 +54768,7 @@ window.allHeroes =
         "color": "Purple",
         "class": "Monk",
         "speed": "Fast",
-        "skill": "Disir of Dusk",
+        "skill": "Dísir of Dusk",
         "types": [
             "Summoner",
             "Minion Blocking",
@@ -54837,7 +54837,7 @@ window.allHeroes =
         "color": "Purple",
         "class": "Cleric",
         "speed": "Fast",
-        "skill": "Disir of Dreams",
+        "skill": "Dísir of Dusk",
         "types": [
             "Summoner",
             "Minion Blocking",
@@ -55562,7 +55562,7 @@ window.allHeroes =
         "color": "Purple",
         "class": "Sorcerer",
         "speed": "Fast",
-        "skill": "Pulsarstrike",
+        "skill": "Doomstrike",
         "types": [
             "Hit 1",
             "Reduces buffs duration 3",
@@ -56077,7 +56077,7 @@ window.allHeroes =
         "color": "Purple",
         "class": "Cleric",
         "speed": "Fast",
-        "skill": "Lady's Flowers",
+        "skill": "Lady's Charm",
         "types": [
             "Healer",
             "Summoner"
@@ -56210,7 +56210,7 @@ window.allHeroes =
         "color": "Purple",
         "class": "Ranger",
         "speed": "Average",
-        "skill": "Poison Bolt",
+        "skill": "Shock Bolt",
         "types": [
             "Hit 1",
             "Dot 3",
@@ -56275,7 +56275,7 @@ window.allHeroes =
         "color": "Purple",
         "class": "Barbarian",
         "speed": "Average",
-        "skill": "Dark Bolt",
+        "skill": "Shock Bolt",
         "types": [
             "Hit 3",
             "Elemental Defense Debuff 3"
@@ -56342,7 +56342,7 @@ window.allHeroes =
         "color": "Purple",
         "class": "Rogue",
         "speed": "Average",
-        "skill": "Toon Bolt",
+        "skill": "Shock Bolt",
         "types": [
             "Hit 1",
             "Elemental Defense Buff 3",
@@ -56417,7 +56417,7 @@ window.allHeroes =
         "color": "Purple",
         "class": "Rogue",
         "speed": "Average",
-        "skill": "Glass Bolt",
+        "skill": "Shock Bolt",
         "types": [
             "Hit 1",
             "Bypass",
@@ -56555,7 +56555,7 @@ window.allHeroes =
         "color": "Purple",
         "class": "Rogue",
         "speed": "Fast",
-        "skill": "Blinding Knowledge",
+        "skill": "Blinding Wisdom",
         "types": [
             "Hit 3",
             "Accuracy Debuff"
@@ -57453,7 +57453,7 @@ window.allHeroes =
         "color": "Purple",
         "class": "Sorcerer",
         "speed": "Fast",
-        "skill": "Ravens' Watch",
+        "skill": "Ravens' Vigil",
         "types": [
             "Summoner",
             "Dodge Buff"
@@ -58002,7 +58002,7 @@ window.allHeroes =
         "color": "Purple",
         "class": "Monk",
         "speed": "Slow",
-        "skill": "Memory Manipulation",
+        "skill": "Mana Manipulation",
         "types": [
             "Mana Reducer All",
             "Mana Increase All",
@@ -58213,7 +58213,7 @@ window.allHeroes =
         "color": "Purple",
         "class": "Paladin",
         "speed": "Fast",
-        "skill": "Roar of the Panther",
+        "skill": "Eye of the Panther",
         "types": [
             "Hit all",
             "Defense Debuff"
@@ -58426,7 +58426,7 @@ window.allHeroes =
         "color": "Purple",
         "class": "Rogue",
         "speed": "Fast",
-        "skill": "Delicious Idol",
+        "skill": "Corrupting Idol",
         "types": [
             "Hit 3",
             "Fiends 3"
@@ -58644,7 +58644,7 @@ window.allHeroes =
         "color": "Purple",
         "class": "Cleric",
         "speed": "Average",
-        "skill": "Crush of Malice",
+        "skill": "Crush of Hel",
         "types": [
             "Hit All",
             "Mana Steal"
@@ -58869,7 +58869,7 @@ window.allHeroes =
         "color": "Purple",
         "class": "Paladin",
         "speed": "Average",
-        "skill": "Larva Prescription",
+        "skill": "Pet Larva",
         "types": [
             "Summoner"
         ],
@@ -59233,7 +59233,7 @@ window.allHeroes =
         "color": "Purple",
         "class": "Druid",
         "speed": "Fast",
-        "skill": "Avenger of Mothkind",
+        "skill": "Sideswipe",
         "types": [
             "Hit 2",
             "Dot"
@@ -59537,7 +59537,7 @@ window.allHeroes =
         "color": "Purple",
         "class": "Paladin",
         "speed": "Very Fast",
-        "skill": "Beetle Strike",
+        "skill": "Break Strike",
         "types": [
             "Dispeller 1",
             "Hit 1",
@@ -59670,7 +59670,7 @@ window.allHeroes =
         "color": "Purple",
         "class": "Fighter",
         "speed": "Slow",
-        "skill": "Slumbering Beatdown",
+        "skill": "Total Beatdown",
         "types": [
             "Hit All",
             "Board Alterer"
@@ -59872,7 +59872,7 @@ window.allHeroes =
         "color": "Purple",
         "class": "Fighter",
         "speed": "Average",
-        "skill": "Scarab Blitz",
+        "skill": "Scarab Bombardment",
         "types": [
             "Hit 3",
             "Exploding Fiend Summoner 3"
@@ -60008,7 +60008,7 @@ window.allHeroes =
         "color": "Purple",
         "class": "Fighter",
         "speed": "Average",
-        "skill": "Bleeding Hammer",
+        "skill": "Bleeding Edge",
         "types": [
             "Hit 1",
             "Attack Buff"
@@ -60139,7 +60139,7 @@ window.allHeroes =
         "color": "Purple",
         "class": "Paladin",
         "speed": "Very Fast",
-        "skill": "Midnight Smite",
+        "skill": "Midnight Strike",
         "types": [
             "Hit 1"
         ],
@@ -60267,7 +60267,7 @@ window.allHeroes =
         "color": "Purple",
         "class": "Druid",
         "speed": "Average",
-        "skill": "Championship Carrot",
+        "skill": "Reckless Swing",
         "types": [
             "Hit all"
         ],
@@ -60688,7 +60688,7 @@ window.allHeroes =
         "color": "Purple",
         "class": "Wizard",
         "speed": "Fast",
-        "skill": "Undying Incantation",
+        "skill": "Abyssal Incantation",
         "types": [
             "Hit 1",
             "Full Removal 1",
@@ -60998,7 +60998,7 @@ window.allHeroes =
         "color": "Purple",
         "class": "Sorcerer",
         "speed": "Average",
-        "skill": "Raging Tempest",
+        "skill": "Feather Tempest",
         "types": [
             "Dispeler all",
             "Hit all",
@@ -61139,7 +61139,7 @@ window.allHeroes =
         "color": "Purple",
         "class": "Fighter",
         "speed": "Slow",
-        "skill": "Ravaging Charge",
+        "skill": "Disrupting Charge",
         "types": [
             "Hit All",
             "Mercenary Fiend Summoner All",
@@ -61728,7 +61728,7 @@ window.allHeroes =
         "color": "Purple",
         "class": "Druid",
         "speed": "Slow",
-        "skill": "Zombie Invocation",
+        "skill": "Zombie Blessing",
         "types": [
             "Hit all",
             "Health boost",
@@ -62027,7 +62027,7 @@ window.allHeroes =
         "color": "Purple",
         "class": "Fighter",
         "speed": "Changing Tides",
-        "skill": "Shatter Soul",
+        "skill": "Shatter Psyche",
         "types": [
             "Hit 3",
             "Mindless attack 1",
@@ -62253,7 +62253,7 @@ window.allHeroes =
         "color": "Purple",
         "class": "Fighter",
         "speed": "Average",
-        "skill": "Emerald Tide",
+        "skill": "Black Tide",
         "types": [
             "Hit All",
             "Elemental Attack Buff",
@@ -62899,7 +62899,7 @@ window.allHeroes =
         "color": "Purple",
         "class": "Rogue",
         "speed": "Fast",
-        "skill": "Oppose and Overthrow",
+        "skill": "Cleave And Counter",
         "types": [
             "Hit all",
             "Counterattack 33"
@@ -62959,7 +62959,7 @@ window.allHeroes =
         "color": "Purple",
         "class": "Fighter",
         "speed": "Fast",
-        "skill": "Vampiric Cleave",
+        "skill": "Cleave And Counter",
         "types": [
             "Hit 3",
             "Counterattack 3",
@@ -63023,7 +63023,7 @@ window.allHeroes =
         "color": "Purple",
         "class": "Barbarian",
         "speed": "Fast",
-        "skill": "Toon and Counter",
+        "skill": "Cleave And Counter",
         "types": [
             "Hit 3",
             "Counterattack 1"
@@ -63094,7 +63094,7 @@ window.allHeroes =
         "color": "Purple",
         "class": "Barbarian",
         "speed": "Fast",
-        "skill": "Cleave and Reflect",
+        "skill": "Cleave And Counter",
         "types": [
             "Hit 3",
             "Bypass",
@@ -63711,7 +63711,7 @@ window.allHeroes =
         "color": "Purple",
         "class": "Paladin",
         "speed": "Changing Tides",
-        "skill": "Order from the Depths",
+        "skill": "Rally of the Deep",
         "types": [
             "Summoner 3",
             "Taunt",
@@ -64063,7 +64063,7 @@ window.allHeroes =
         "color": "Purple",
         "class": "Monk",
         "speed": "Slow",
-        "skill": "Shock Ultimatum",
+        "skill": "Thunder Ultimatum",
         "types": [
             "Hit All",
             "Attack Debuff"
@@ -64123,7 +64123,7 @@ window.allHeroes =
         "color": "Purple",
         "class": "Druid",
         "speed": "Slow",
-        "skill": "Lightning Ultimatum",
+        "skill": "Thunder Ultimatum",
         "types": [
             "Hit All",
             "Mindless Attack"
@@ -64183,7 +64183,7 @@ window.allHeroes =
         "color": "Purple",
         "class": "Sorcerer",
         "speed": "Slow",
-        "skill": "Toon Ultimatum",
+        "skill": "Thunder Ultimatum",
         "types": [
             "Hit All"
         ],
@@ -64246,7 +64246,7 @@ window.allHeroes =
         "color": "Purple",
         "class": "Sorcerer",
         "speed": "Slow",
-        "skill": "Glass Ultimatum",
+        "skill": "Thunder Ultimatum",
         "types": [
             "Hit All",
             "Bypass"
@@ -64570,7 +64570,7 @@ window.allHeroes =
         "color": "Purple",
         "class": "Paladin",
         "speed": "Average",
-        "skill": "Gentleman's Transformation",
+        "skill": "Trickster's Transformation",
         "types": [
             "Hit Some",
             "Weird"
@@ -64696,7 +64696,7 @@ window.allHeroes =
         "color": "Purple",
         "class": "Druid",
         "speed": "Average",
-        "skill": "Curse of the Sea",
+        "skill": "Curse of Sargasso",
         "types": [
             "Hit 3",
             "Healing Debuff",
@@ -64825,7 +64825,7 @@ window.allHeroes =
         "color": "Purple",
         "class": "Fighter",
         "speed": "Fast",
-        "skill": "Dreadstrike",
+        "skill": "Deathstrike",
         "types": [
             "Hit 1"
         ],
@@ -64877,7 +64877,7 @@ window.allHeroes =
         "color": "Purple",
         "class": "Rogue",
         "speed": "Fast",
-        "skill": "Frightstrike",
+        "skill": "Deathstrike",
         "types": [
             "Minion Destroyer 1",
             "Hit 1",
@@ -64944,7 +64944,7 @@ window.allHeroes =
         "color": "Purple",
         "class": "Wizard",
         "speed": "Fast",
-        "skill": "Toon Strike",
+        "skill": "Deathstrike",
         "types": [
             "Hit 1",
             "Dot 1"
@@ -65016,7 +65016,7 @@ window.allHeroes =
         "color": "Purple",
         "class": "Wizard",
         "speed": "Fast",
-        "skill": "Glass Strike",
+        "skill": "Deathstrike",
         "types": [
             "Hit 1",
             "Dot 1"
@@ -65327,7 +65327,7 @@ window.allHeroes =
         "color": "Purple",
         "class": "Wizard",
         "speed": "Slayer",
-        "skill": "Curse of the Cephaloid",
+        "skill": "Curse of the Specter",
         "types": [
             "Hit All",
             "Fiend Summoner All",
@@ -65557,7 +65557,7 @@ window.allHeroes =
         "color": "Purple",
         "class": "Barbarian",
         "speed": "Fast",
-        "skill": "Exorcizing Arrow",
+        "skill": "Conjuration Arrow",
         "types": [
             "Dispeller",
             "Hit 1",
@@ -65709,7 +65709,7 @@ window.allHeroes =
         "color": "Purple",
         "class": "Cleric",
         "speed": "Slow",
-        "skill": "Legions of Tyrant",
+        "skill": "Legions of Darkness",
         "types": [
             "Summoner",
             "DoT All",
@@ -66143,7 +66143,7 @@ window.allHeroes =
         "color": "Purple",
         "class": "Paladin",
         "speed": "Slow",
-        "skill": "Dreadful Riddle",
+        "skill": "Disheartening Riddle",
         "types": [
             "Hit 1",
             "Chain",
@@ -66662,7 +66662,7 @@ window.allHeroes =
         "color": "Purple",
         "class": "Wizard",
         "speed": "Fast",
-        "skill": "Undying Summon",
+        "skill": "Skeletal Summon",
         "types": [
             "Hit 3",
             "Summoner"
@@ -67109,7 +67109,7 @@ window.allHeroes =
         "color": "Purple",
         "class": "Wizard",
         "speed": "Changing Tides",
-        "skill": "Sinister Siphon",
+        "skill": "Sinister Enlace",
         "types": [
             "Hit All",
             "Counterattack 3",
@@ -67412,7 +67412,7 @@ window.allHeroes =
         "color": "Purple",
         "class": "Druid",
         "speed": "Average",
-        "skill": "Reef Blast",
+        "skill": "Depth Blast",
         "types": [
             "Hit All",
             "Elemental Reflect All",
@@ -67854,7 +67854,7 @@ window.allHeroes =
         "color": "Purple",
         "class": "Rogue",
         "speed": "Very Fast",
-        "skill": "Legacy of Darkness",
+        "skill": "Night of Sorrow",
         "types": [
             "Hit 3",
             "DoT 3",
@@ -68521,7 +68521,7 @@ window.allHeroes =
         "color": "Purple",
         "class": "Wizard",
         "speed": "Average",
-        "skill": "Entrapping Enchantment",
+        "skill": "Ancient Enchantment",
         "types": [
             "HoT",
             "Mana over time",
@@ -69147,7 +69147,7 @@ window.allHeroes =
         "color": "Red",
         "class": "Ranger",
         "speed": "Fast",
-        "skill": "Acute Cut",
+        "skill": "Sharp Cut",
         "types": [
             "Hit 3",
             "Mana Reduction 1"
@@ -69207,7 +69207,7 @@ window.allHeroes =
         "color": "Red",
         "class": "Barbarian",
         "speed": "Fast",
-        "skill": "Toon Cut",
+        "skill": "Sharp Cut",
         "types": [
             "Hit 1",
             "Mana Reduction 1"
@@ -69274,7 +69274,7 @@ window.allHeroes =
         "color": "Red",
         "class": "Barbarian",
         "speed": "Fast",
-        "skill": "Glass Cut",
+        "skill": "Sharp Cut",
         "types": [
             "Hit 1",
             "Mana Reducer 1",
@@ -69412,7 +69412,7 @@ window.allHeroes =
         "color": "Red",
         "class": "Rogue",
         "speed": "Changing Tides",
-        "skill": "Scout's Spyglass",
+        "skill": "Burning Javelin",
         "types": [
             "Hit 3",
             "Elemental Defense Debuff"
@@ -69900,7 +69900,7 @@ window.allHeroes =
         "color": "Red",
         "class": "Barbarian",
         "speed": "Average",
-        "skill": "Vicious Axe",
+        "skill": "Tainted Axe",
         "types": [
             "Hit All",
             "Mana Reduction"
@@ -70076,7 +70076,7 @@ window.allHeroes =
         "color": "Red",
         "class": "Sorcerer",
         "speed": "Average",
-        "skill": "Wind Gospel",
+        "skill": "Wind Prayer",
         "types": [
             "HoT All",
             "Attack Buff All"
@@ -70136,7 +70136,7 @@ window.allHeroes =
         "color": "Red",
         "class": "Cleric",
         "speed": "Average",
-        "skill": "Toon Prayer",
+        "skill": "Wind Prayer",
         "types": [
             "Healer All",
             "Defense Buff All"
@@ -70200,7 +70200,7 @@ window.allHeroes =
         "color": "Red",
         "class": "Cleric",
         "speed": "Average",
-        "skill": "Glass Prayer",
+        "skill": "Wind Prayer",
         "types": [
             "Healer All",
             "Debuff Reflect All Fire Allies"
@@ -70336,7 +70336,7 @@ window.allHeroes =
         "color": "Red",
         "class": "Paladin",
         "speed": "Slow",
-        "skill": "Dwarven Recharge",
+        "skill": "Dwarven Flourish",
         "types": [
             "Hit random 8",
             "Buffs Duration Reset All"
@@ -70469,7 +70469,7 @@ window.allHeroes =
         "color": "Red",
         "class": "Wizard",
         "speed": "Slow",
-        "skill": "Scorching Ray",
+        "skill": "Fireball",
         "types": [
             "Hit all",
             "Dot All"
@@ -70530,7 +70530,7 @@ window.allHeroes =
         "color": "Red",
         "class": "Sorcerer",
         "speed": "Slow",
-        "skill": "Toonball",
+        "skill": "Fireball",
         "types": [
             "Hit All",
             "Dot All"
@@ -70602,7 +70602,7 @@ window.allHeroes =
         "color": "Red",
         "class": "Sorcerer",
         "speed": "Slow",
-        "skill": "Glass Fireball",
+        "skill": "Fireball",
         "types": [
             "Hit All",
             "Dot All"
@@ -71001,7 +71001,7 @@ window.allHeroes =
         "color": "Red",
         "class": "Rogue",
         "speed": "Fast",
-        "skill": "Searing Strike",
+        "skill": "Burning Strike",
         "types": [
             "Hit 1",
             "DoT 1"
@@ -71062,7 +71062,7 @@ window.allHeroes =
         "color": "Red",
         "class": "Barbarian",
         "speed": "Fast",
-        "skill": "Toonfire Strike",
+        "skill": "Burning Strike",
         "types": [
             "Hit 1",
             "DoT 1"
@@ -71134,7 +71134,7 @@ window.allHeroes =
         "color": "Red",
         "class": "Barbarian",
         "speed": "Fast",
-        "skill": "Glass Strike",
+        "skill": "Burning Strike",
         "types": [
             "Hit 1",
             "Bypass",
@@ -71468,7 +71468,7 @@ window.allHeroes =
         "color": "Red",
         "class": "Barbarian",
         "speed": "Fast",
-        "skill": "Titanium Antler Attack",
+        "skill": "Antler Attack",
         "types": [
             "Hit 1",
             "Mana Reduction 1",
@@ -71918,7 +71918,7 @@ window.allHeroes =
         "color": "Red",
         "class": "Druid",
         "speed": "Slow",
-        "skill": "Leeching Worms",
+        "skill": "Thresher Worms",
         "types": [
             "Fiend Summoner All"
         ],
@@ -72041,7 +72041,7 @@ window.allHeroes =
         "color": "Red",
         "class": "Barbarian",
         "speed": "Slow",
-        "skill": "Unyielding Sword",
+        "skill": "Unyielding Protector",
         "types": [
             "Hit All",
             "Max Health Reduction over Time All"
@@ -72249,7 +72249,7 @@ window.allHeroes =
         "color": "Red",
         "class": "Monk",
         "speed": "Average",
-        "skill": "War Feast",
+        "skill": "Warcry",
         "types": [
             "Healer All",
             "Attack Buff All"
@@ -72309,7 +72309,7 @@ window.allHeroes =
         "color": "Red",
         "class": "Cleric",
         "speed": "Average",
-        "skill": "War Song",
+        "skill": "Warcry",
         "types": [
             "Boosted HoT All",
             "Attack Buff All"
@@ -72371,7 +72371,7 @@ window.allHeroes =
         "color": "Red",
         "class": "Fighter",
         "speed": "Average",
-        "skill": "Tooncry",
+        "skill": "Warcry",
         "types": [
             "Healer All",
             "Attack Buff All"
@@ -72435,7 +72435,7 @@ window.allHeroes =
         "color": "Red",
         "class": "Fighter",
         "speed": "Average",
-        "skill": "Glass Warcry",
+        "skill": "Warcry",
         "types": [
             "Healer All",
             "Attack Buff All",
@@ -72695,7 +72695,7 @@ window.allHeroes =
         "color": "Red",
         "class": "Paladin",
         "speed": "Slow",
-        "skill": "Flame Assault",
+        "skill": "Fire Storm",
         "types": [
             "Hit all",
             "DoT All"
@@ -72756,7 +72756,7 @@ window.allHeroes =
         "color": "Red",
         "class": "Ranger",
         "speed": "Slow",
-        "skill": "Flame Storm",
+        "skill": "Fire Storm",
         "types": [
             "Hit 3",
             "Elemental Defense Debuff 3"
@@ -72823,7 +72823,7 @@ window.allHeroes =
         "color": "Red",
         "class": "Fighter",
         "speed": "Slow",
-        "skill": "Toon Storm",
+        "skill": "Fire Storm",
         "types": [
             "Hit All",
             "DoT All"
@@ -72895,7 +72895,7 @@ window.allHeroes =
         "color": "Red",
         "class": "Fighter",
         "speed": "Slow",
-        "skill": "Vitrail Flames",
+        "skill": "Fire Storm",
         "types": [
             "Hit All",
             "Bypass",
@@ -73085,7 +73085,7 @@ window.allHeroes =
         "color": "Red",
         "class": "Fighter",
         "speed": "Average",
-        "skill": "Fiery Revenge",
+        "skill": "Feral Revenge",
         "types": [
             "Counterattack"
         ],
@@ -73209,7 +73209,7 @@ window.allHeroes =
         "color": "Red",
         "class": "Wizard",
         "speed": "Average",
-        "skill": "Pulverizing Abacus",
+        "skill": "Ramming Pulverizer",
         "types": [
             "Minion Destroyer All",
             "Hit all"
@@ -73272,7 +73272,7 @@ window.allHeroes =
         "color": "Red",
         "class": "Cleric",
         "speed": "Average",
-        "skill": "Pulverizing Ham",
+        "skill": "Ramming Pulverizer",
         "types": [
             "Dispeller All",
             "Hit All"
@@ -73332,7 +73332,7 @@ window.allHeroes =
         "color": "Red",
         "class": "Barbarian",
         "speed": "Average",
-        "skill": "Toon Pulverizer",
+        "skill": "Ramming Pulverizer",
         "types": [
             "Hit 3",
             "Defense Debuff 3"
@@ -73404,7 +73404,7 @@ window.allHeroes =
         "color": "Red",
         "class": "Barbarian",
         "speed": "Average",
-        "skill": "Glass Pulverizer",
+        "skill": "Ramming Pulverizer",
         "types": [
             "Hit 3",
             "Bypass",
@@ -73746,7 +73746,7 @@ window.allHeroes =
         "color": "Red",
         "class": "Paladin",
         "speed": "Fast",
-        "skill": "Strike and Support",
+        "skill": "Slash and Support",
         "types": [
             "Hit 1",
             "Damage Heal"
@@ -73873,7 +73873,7 @@ window.allHeroes =
         "color": "Red",
         "class": "Druid",
         "speed": "Fast",
-        "skill": "Dance of Ignition",
+        "skill": "Dance of Fire",
         "types": [
             "DoT All"
         ],
@@ -73931,7 +73931,7 @@ window.allHeroes =
         "color": "Red",
         "class": "Sorcerer",
         "speed": "Fast",
-        "skill": "Dance of Flame",
+        "skill": "Dance of Fire",
         "types": [
             "Hit 3",
             "DoT 3"
@@ -73998,7 +73998,7 @@ window.allHeroes =
         "color": "Red",
         "class": "Rogue",
         "speed": "Fast",
-        "skill": "Dance of Toons",
+        "skill": "Dance of Fire",
         "types": [
             "Hit 1",
             "DoT 1"
@@ -74070,7 +74070,7 @@ window.allHeroes =
         "color": "Red",
         "class": "Rogue",
         "speed": "Fast",
-        "skill": "Glass Dance",
+        "skill": "Dance of Fire",
         "types": [
             "Hit 1",
             "Bypass",
@@ -74207,7 +74207,7 @@ window.allHeroes =
         "color": "Red",
         "class": "Fighter",
         "speed": "Average",
-        "skill": "Sword of Swan Song",
+        "skill": "Flaming Sword",
         "types": [
             "Hit 3",
             "DoT 3"
@@ -74412,7 +74412,7 @@ window.allHeroes =
         "color": "Red",
         "class": "Monk",
         "speed": "Average",
-        "skill": "Halfling's Wisdom",
+        "skill": "Halfling's Wit",
         "types": [
             "Counterattack",
             "Attack Buff"
@@ -74913,7 +74913,7 @@ window.allHeroes =
         "color": "Red",
         "class": "Fighter",
         "speed": "Fast",
-        "skill": "Mason's Rage",
+        "skill": "Blind Rage",
         "types": [
             "Hit All",
             "DoT All"
@@ -75038,7 +75038,7 @@ window.allHeroes =
         "color": "Red",
         "class": "Ranger",
         "speed": "Fast",
-        "skill": "Blades of Venom",
+        "skill": "Blade Barrage",
         "types": [
             "Hit 3",
             "Dot 3",
@@ -75107,7 +75107,7 @@ window.allHeroes =
         "color": "Red",
         "class": "Sorcerer",
         "speed": "Fast",
-        "skill": "Blades on the Dance Floor",
+        "skill": "Blade Barrage",
         "types": [
             "Hit 3",
             "Attack Debuff 3"
@@ -75168,7 +75168,7 @@ window.allHeroes =
         "color": "Red",
         "class": "Rogue",
         "speed": "Fast",
-        "skill": "Toon Barrage",
+        "skill": "Blade Barrage",
         "types": [
             "Hit 3",
             "Attack Debuff 3"
@@ -75239,7 +75239,7 @@ window.allHeroes =
         "color": "Red",
         "class": "Rogue",
         "speed": "Fast",
-        "skill": "Glass Barrage",
+        "skill": "Blade Barrage",
         "types": [
             "Hit 3",
             "Bypass",
@@ -75569,7 +75569,7 @@ window.allHeroes =
         "color": "Red",
         "class": "Barbarian",
         "speed": "Average",
-        "skill": "Orsoldoon",
+        "skill": "Oji-Waza",
         "types": [
             "Hit 1",
             "Counterattack 1",
@@ -75692,7 +75692,7 @@ window.allHeroes =
         "color": "Red",
         "class": "Druid",
         "speed": "Slow",
-        "skill": "Volcanic Boulders",
+        "skill": "Magma Boulders",
         "types": [
             "Hit 3"
         ],
@@ -75950,7 +75950,7 @@ window.allHeroes =
         "color": "Red",
         "class": "Cleric",
         "speed": "Average",
-        "skill": "Brilliant Brew",
+        "skill": "Wonderful Feast",
         "types": [
             "Titan Attack Buff",
             "HoT"
@@ -76142,7 +76142,7 @@ window.allHeroes =
         "color": "Red",
         "class": "Rogue",
         "speed": "Average",
-        "skill": "Scion Blade",
+        "skill": "Scion Sword",
         "types": [
             "Hit 1",
             "Summoner 1",
@@ -76616,7 +76616,7 @@ window.allHeroes =
         "color": "Red",
         "class": "Wizard",
         "speed": "Very Fast",
-        "skill": "Vampiric Heist",
+        "skill": "Vampiric Curse",
         "types": [
             "Minion Destroyer 3",
             "Hit 3",
@@ -76755,6 +76755,78 @@ window.allHeroes =
         ]
     },
     {
+        "name": "Andre de Clermont",
+        "fancy_name": "The Betrayed Templar",
+        "AetherPower": "Regen",
+        "color": "Red",
+        "class": "Paladin",
+        "speed": "Slow",
+        "skill": "Oath of the Templar",
+        "types": [
+            "Hit 3",
+            "Cover Random 1",
+            "Elemental Defense Buff 3"
+        ],
+        "skill_types": [
+            "AoE Attackers (Hit-3)",
+            "Damage Sharers",
+            "Buffers (DEF)",
+            "Buffers (ATK)"
+        ],
+        "source": "Legends Summon - Hero of the Month",
+        "Release date": "2026-01-01",
+        "specialId": "oath_of_templar",
+        "passiveSkills": [
+            "healthboost_on_enemy_special",
+            "resist_defense_modifier_debuffs"
+        ],
+        "heroId": "fire_god_andre",
+        "star": 5,
+        "power": 1168,
+        "attack": 1233,
+        "defense": 1264,
+        "health": 1845,
+        "effects": [
+            "Deals 390% damage to the target and nearby enemies.",
+            "Gives cover to a random ally for 5 turns. This effect can't be dispelled. (While in Cover, the ally taks no damage from Special attacks or normal attacks. This covering character takes 50% of the damage dealt to the ally.)",
+            "The caster and nearby allies get +89% defense against Ice for 5 turns.",
+            "Elemental Link gives all Fire allies +20% critical chance for 4 turns. This effect can’t be dispelled."
+        ],
+        "passives": [
+            "Resist Defense Ailments: This character is immune to status ailments and negative stacks that affect defense. Doesn't apply to status ailments that affect elemental defense.",
+            "Boost Health on Enemy Special: When an enemy casts their Special Skill, this character has a 50% chance to boost this character's health by 100."
+        ],
+        "family": "hotm2026",
+        "costume_id": 0,
+        "originalIndex": 1104,
+        "lb1": {
+            "attack": 1329,
+            "defense": 1363,
+            "health": 1989,
+            "power": 1250
+        },
+        "lb2": {
+            "attack": 1521,
+            "defense": 1559,
+            "health": 2275,
+            "power": 1412
+        },
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Atk: Area"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Def - Dmg Share",
+                    "Def - Def ↑ : Ice",
+                    "Atk - Crit Chance ↑"
+                ]
+            }
+        ]
+    },
+    {
         "name": "Andy Jay",
         "fancy_name": "Reveler of Sunlit Shores",
         "AetherPower": "Ailment Immunity",
@@ -76797,7 +76869,7 @@ window.allHeroes =
         ],
         "family": "beachparty",
         "costume_id": 0,
-        "originalIndex": 1104,
+        "originalIndex": 1105,
         "lb1": {
             "attack": 1325,
             "defense": 1287,
@@ -76862,7 +76934,7 @@ window.allHeroes =
         ],
         "family": "hotm2019",
         "costume_id": 0,
-        "originalIndex": 1105,
+        "originalIndex": 1106,
         "lb1": {
             "attack": 752,
             "defense": 854,
@@ -76923,7 +76995,7 @@ window.allHeroes =
         ],
         "family": "masquerade",
         "costume_id": 0,
-        "originalIndex": 1106,
+        "originalIndex": 1107,
         "lb1": {
             "attack": 956,
             "defense": 925,
@@ -76997,7 +77069,7 @@ window.allHeroes =
         ],
         "family": "faun",
         "costume_id": 0,
-        "originalIndex": 1107,
+        "originalIndex": 1108,
         "lb1": {
             "attack": 1249,
             "defense": 1189,
@@ -77065,7 +77137,7 @@ window.allHeroes =
         "passives": [],
         "family": "hotm2017",
         "costume_id": 0,
-        "originalIndex": 1108,
+        "originalIndex": 1109,
         "lb1": {
             "attack": 710,
             "defense": 799,
@@ -77099,7 +77171,7 @@ window.allHeroes =
         "color": "Red",
         "class": "Druid",
         "speed": "Average",
-        "skill": "Seal of Ares",
+        "skill": "Might of Ares",
         "types": [
             "Attack Buff 3",
             "Counterattack 3",
@@ -77136,7 +77208,7 @@ window.allHeroes =
         ],
         "family": "hotm2017",
         "costume_id": 1,
-        "originalIndex": 1109,
+        "originalIndex": 1110,
         "lb1": {
             "attack": 737,
             "defense": 765,
@@ -77223,7 +77295,7 @@ window.allHeroes =
         ],
         "family": "mimic",
         "costume_id": 0,
-        "originalIndex": 1110,
+        "originalIndex": 1111,
         "lb1": {
             "attack": 1367,
             "defense": 1367,
@@ -77304,7 +77376,7 @@ window.allHeroes =
         ],
         "family": "super_elemental",
         "costume_id": 0,
-        "originalIndex": 1111,
+        "originalIndex": 1112,
         "lb1": {
             "attack": 1221,
             "defense": 1152,
@@ -77375,7 +77447,7 @@ window.allHeroes =
         "passives": [],
         "family": "villains",
         "costume_id": 0,
-        "originalIndex": 1112,
+        "originalIndex": 1113,
         "lb1": {
             "attack": 845,
             "defense": 821,
@@ -77462,7 +77534,7 @@ window.allHeroes =
         ],
         "family": "ninja",
         "costume_id": 0,
-        "originalIndex": 1113,
+        "originalIndex": 1114,
         "lb1": {
             "attack": 1427,
             "defense": 1229,
@@ -77523,7 +77595,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 0,
-        "originalIndex": 1114,
+        "originalIndex": 1115,
         "lb1": {
             "attack": 854,
             "defense": 654,
@@ -77557,7 +77629,7 @@ window.allHeroes =
         "color": "Red",
         "class": "Paladin",
         "speed": "Slow",
-        "skill": "Volcanic Flareup",
+        "skill": "Volcanic Eruption",
         "types": [
             "Hit 3",
             "Dot 3"
@@ -77586,7 +77658,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 1,
-        "originalIndex": 1115,
+        "originalIndex": 1116,
         "lb1": {
             "attack": 843,
             "defense": 681,
@@ -77625,7 +77697,7 @@ window.allHeroes =
         "color": "Red",
         "class": "Fighter",
         "speed": "Slow",
-        "skill": "Volcanic Explosion",
+        "skill": "Volcanic Eruption",
         "types": [
             "Hit 3",
             "DoT"
@@ -77653,7 +77725,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 2,
-        "originalIndex": 1116,
+        "originalIndex": 1117,
         "lb1": {
             "attack": 865,
             "defense": 677,
@@ -77692,7 +77764,7 @@ window.allHeroes =
         "color": "Red",
         "class": "Barbarian",
         "speed": "Slow",
-        "skill": "Toon Explosion",
+        "skill": "Volcanic Eruption",
         "types": [
             "Hit all",
             "DoT all"
@@ -77725,7 +77797,7 @@ window.allHeroes =
         ],
         "family": "classic",
         "costume_id": 3,
-        "originalIndex": 1117,
+        "originalIndex": 1118,
         "lb1": {
             "attack": 821,
             "defense": 734,
@@ -77764,7 +77836,7 @@ window.allHeroes =
         "color": "Red",
         "class": "Barbarian",
         "speed": "Slow",
-        "skill": "Glass Volcano",
+        "skill": "Volcanic Eruption",
         "types": [
             "Hit all",
             "DoT all"
@@ -77797,7 +77869,7 @@ window.allHeroes =
         ],
         "family": "classic",
         "costume_id": 4,
-        "originalIndex": 1118,
+        "originalIndex": 1119,
         "lb1": {
             "attack": 823,
             "defense": 732,
@@ -77868,7 +77940,7 @@ window.allHeroes =
         "passives": [],
         "family": "muspelheim",
         "costume_id": 0,
-        "originalIndex": 1119,
+        "originalIndex": 1120,
         "lb1": {
             "attack": 870,
             "defense": 750,
@@ -77898,7 +77970,7 @@ window.allHeroes =
         "color": "Red",
         "class": "Monk",
         "speed": "Average",
-        "skill": "Relentless Brawler",
+        "skill": "Unbreakable Brawler",
         "types": [
             "Hit 1",
             "Self Health Boost",
@@ -77932,7 +78004,7 @@ window.allHeroes =
         "passives": [],
         "family": "muspelheim",
         "costume_id": 1,
-        "originalIndex": 1120,
+        "originalIndex": 1121,
         "lb1": {
             "attack": 832,
             "defense": 781,
@@ -77999,7 +78071,7 @@ window.allHeroes =
         ],
         "family": "mighty_pet",
         "costume_id": 0,
-        "originalIndex": 1121,
+        "originalIndex": 1122,
         "lb1": {
             "attack": 963,
             "defense": 879,
@@ -78076,7 +78148,7 @@ window.allHeroes =
         ],
         "family": "vegetable",
         "costume_id": 0,
-        "originalIndex": 1122,
+        "originalIndex": 1123,
         "lb1": {
             "attack": 1394,
             "defense": 1356,
@@ -78152,7 +78224,7 @@ window.allHeroes =
         ],
         "family": "bear",
         "costume_id": 0,
-        "originalIndex": 1123,
+        "originalIndex": 1124,
         "lb1": {
             "attack": 1090,
             "defense": 1221,
@@ -78232,7 +78304,7 @@ window.allHeroes =
         ],
         "family": "beowulf",
         "costume_id": 0,
-        "originalIndex": 1124,
+        "originalIndex": 1125,
         "lb1": {
             "attack": 1394,
             "defense": 1194,
@@ -78311,7 +78383,7 @@ window.allHeroes =
         ],
         "family": "mahayoddha",
         "costume_id": 0,
-        "originalIndex": 1125,
+        "originalIndex": 1126,
         "lb1": {
             "attack": 1431,
             "defense": 1332,
@@ -78385,7 +78457,7 @@ window.allHeroes =
         ],
         "family": "pirate",
         "costume_id": 0,
-        "originalIndex": 1126,
+        "originalIndex": 1127,
         "lb1": {
             "attack": 1018,
             "defense": 1085,
@@ -78452,7 +78524,7 @@ window.allHeroes =
         "passives": [],
         "family": "knight",
         "costume_id": 0,
-        "originalIndex": 1127,
+        "originalIndex": 1128,
         "lb1": {
             "attack": 659,
             "defense": 912,
@@ -78482,7 +78554,7 @@ window.allHeroes =
         "color": "Red",
         "class": "Wizard",
         "speed": "Average",
-        "skill": "But a Scratch",
+        "skill": "Just a Flesh Wound",
         "types": [
             "Drop to 1 Damage All",
             "Taunt",
@@ -78512,7 +78584,7 @@ window.allHeroes =
         "passives": [],
         "family": "knight",
         "costume_id": 1,
-        "originalIndex": 1128,
+        "originalIndex": 1129,
         "lb1": {
             "attack": 672,
             "defense": 901,
@@ -78579,7 +78651,7 @@ window.allHeroes =
         ],
         "family": "construct",
         "costume_id": 0,
-        "originalIndex": 1129,
+        "originalIndex": 1130,
         "lb1": {
             "attack": 954,
             "defense": 1081,
@@ -78649,7 +78721,7 @@ window.allHeroes =
         ],
         "family": "jungle_hunter",
         "costume_id": 0,
-        "originalIndex": 1130,
+        "originalIndex": 1131,
         "lb1": {
             "attack": 983,
             "defense": 907,
@@ -78725,7 +78797,7 @@ window.allHeroes =
         ],
         "family": "construct",
         "costume_id": 0,
-        "originalIndex": 1131,
+        "originalIndex": 1132,
         "lb1": {
             "attack": 1012,
             "defense": 974,
@@ -78793,7 +78865,7 @@ window.allHeroes =
         "passives": [],
         "family": "pirate",
         "costume_id": 0,
-        "originalIndex": 1132,
+        "originalIndex": 1133,
         "lb1": {
             "attack": 783,
             "defense": 757,
@@ -78855,7 +78927,7 @@ window.allHeroes =
         ],
         "family": "abyss",
         "costume_id": 0,
-        "originalIndex": 1133,
+        "originalIndex": 1134,
         "lb1": {
             "attack": 885,
             "defense": 810,
@@ -78888,7 +78960,7 @@ window.allHeroes =
         "color": "Red",
         "class": "Wizard",
         "speed": "Fast",
-        "skill": "Machinist's Cutlass",
+        "skill": "Captain's Cutlass",
         "types": [
             "Hit 1"
         ],
@@ -78922,7 +78994,7 @@ window.allHeroes =
         ],
         "family": "abyss",
         "costume_id": 1,
-        "originalIndex": 1134,
+        "originalIndex": 1135,
         "lb1": {
             "attack": 896,
             "defense": 814,
@@ -78990,7 +79062,7 @@ window.allHeroes =
         ],
         "family": "musketeer",
         "costume_id": 0,
-        "originalIndex": 1135,
+        "originalIndex": 1136,
         "lb1": {
             "attack": 950,
             "defense": 936,
@@ -79057,7 +79129,7 @@ window.allHeroes =
         ],
         "family": "masquerade",
         "costume_id": 0,
-        "originalIndex": 1136,
+        "originalIndex": 1137,
         "lb1": {
             "attack": 976,
             "defense": 950,
@@ -79135,7 +79207,7 @@ window.allHeroes =
         ],
         "family": "wild_cat",
         "costume_id": 0,
-        "originalIndex": 1137,
+        "originalIndex": 1138,
         "lb1": {
             "attack": 1511,
             "defense": 1289,
@@ -79216,7 +79288,7 @@ window.allHeroes =
         ],
         "family": "astral_dwarfs",
         "costume_id": 0,
-        "originalIndex": 1138,
+        "originalIndex": 1139,
         "lb1": {
             "attack": 1307,
             "defense": 1300,
@@ -79292,7 +79364,7 @@ window.allHeroes =
         ],
         "family": "opera",
         "costume_id": 0,
-        "originalIndex": 1139,
+        "originalIndex": 1140,
         "lb1": {
             "attack": 1243,
             "defense": 1087,
@@ -79369,7 +79441,7 @@ window.allHeroes =
         ],
         "family": "slime",
         "costume_id": 0,
-        "originalIndex": 1140,
+        "originalIndex": 1141,
         "lb1": {
             "attack": 1194,
             "defense": 1218,
@@ -79438,7 +79510,7 @@ window.allHeroes =
         ],
         "family": "mighty_pet",
         "costume_id": 0,
-        "originalIndex": 1141,
+        "originalIndex": 1142,
         "lb1": {
             "attack": 916,
             "defense": 930,
@@ -79511,7 +79583,7 @@ window.allHeroes =
         ],
         "family": "moths",
         "costume_id": 0,
-        "originalIndex": 1142,
+        "originalIndex": 1143,
         "lb1": {
             "attack": 1247,
             "defense": 1400,
@@ -79584,7 +79656,7 @@ window.allHeroes =
         ],
         "family": "fable",
         "costume_id": 0,
-        "originalIndex": 1143,
+        "originalIndex": 1144,
         "lb1": {
             "attack": 1112,
             "defense": 1107,
@@ -79656,7 +79728,7 @@ window.allHeroes =
         ],
         "family": "plains_hunter",
         "costume_id": 0,
-        "originalIndex": 1144,
+        "originalIndex": 1145,
         "lb1": {
             "attack": 919,
             "defense": 930,
@@ -79723,7 +79795,7 @@ window.allHeroes =
         "passives": [],
         "family": "winter",
         "costume_id": 0,
-        "originalIndex": 1145,
+        "originalIndex": 1146,
         "lb1": {
             "attack": 987,
             "defense": 1043,
@@ -79790,7 +79862,7 @@ window.allHeroes =
         ],
         "family": "cupid",
         "costume_id": 0,
-        "originalIndex": 1146,
+        "originalIndex": 1147,
         "lb1": {
             "attack": 910,
             "defense": 868,
@@ -79856,7 +79928,7 @@ window.allHeroes =
         ],
         "family": "musketeer",
         "costume_id": 0,
-        "originalIndex": 1147,
+        "originalIndex": 1148,
         "lb1": {
             "attack": 934,
             "defense": 899,
@@ -79927,7 +79999,7 @@ window.allHeroes =
         ],
         "family": "stag",
         "costume_id": 0,
-        "originalIndex": 1148,
+        "originalIndex": 1149,
         "lb1": {
             "attack": 1187,
             "defense": 1056,
@@ -80012,7 +80084,7 @@ window.allHeroes =
         ],
         "family": "forsaken",
         "costume_id": 0,
-        "originalIndex": 1149,
+        "originalIndex": 1150,
         "lb1": {
             "attack": 1387,
             "defense": 1347,
@@ -80087,7 +80159,7 @@ window.allHeroes =
         ],
         "family": "garrison",
         "costume_id": 0,
-        "originalIndex": 1150,
+        "originalIndex": 1151,
         "lb1": {
             "attack": 1265,
             "defense": 1198,
@@ -80168,7 +80240,7 @@ window.allHeroes =
         ],
         "family": "tales1_baddies",
         "costume_id": 0,
-        "originalIndex": 1151,
+        "originalIndex": 1152,
         "lb1": {
             "attack": 1061,
             "defense": 1067,
@@ -80203,7 +80275,7 @@ window.allHeroes =
         "color": "Red",
         "class": "Sorcerer",
         "speed": "Changing Tides",
-        "skill": "Sunken Abyss",
+        "skill": "Supernova",
         "types": [
             "Hit 3",
             "DoT 3",
@@ -80248,7 +80320,7 @@ window.allHeroes =
         ],
         "family": "tales1_baddies",
         "costume_id": 1,
-        "originalIndex": 1152,
+        "originalIndex": 1153,
         "lb1": {
             "attack": 1036,
             "defense": 1090,
@@ -80320,7 +80392,7 @@ window.allHeroes =
         ],
         "family": "super_elemental",
         "costume_id": 0,
-        "originalIndex": 1153,
+        "originalIndex": 1154,
         "lb1": {
             "attack": 956,
             "defense": 892,
@@ -80355,7 +80427,7 @@ window.allHeroes =
         "color": "Red",
         "class": "Rogue",
         "speed": "Fast",
-        "skill": "Dual Data Blades",
+        "skill": "Dual Laser Blades",
         "types": [
             "Hit 1",
             "Hit All Nature",
@@ -80396,7 +80468,7 @@ window.allHeroes =
         ],
         "family": "super_elemental",
         "costume_id": 1,
-        "originalIndex": 1154,
+        "originalIndex": 1155,
         "lb1": {
             "attack": 954,
             "defense": 896,
@@ -80478,7 +80550,7 @@ window.allHeroes =
         ],
         "family": "bard",
         "costume_id": 0,
-        "originalIndex": 1155,
+        "originalIndex": 1156,
         "lb1": {
             "attack": 1312,
             "defense": 1336,
@@ -80562,7 +80634,7 @@ window.allHeroes =
         ],
         "family": "plains_hunter",
         "costume_id": 0,
-        "originalIndex": 1156,
+        "originalIndex": 1157,
         "lb1": {
             "attack": 914,
             "defense": 923,
@@ -80629,7 +80701,7 @@ window.allHeroes =
         ],
         "family": "gargoyle",
         "costume_id": 0,
-        "originalIndex": 1157,
+        "originalIndex": 1158,
         "lb1": {
             "attack": 896,
             "defense": 841,
@@ -80695,7 +80767,7 @@ window.allHeroes =
         ],
         "family": "cupid",
         "costume_id": 0,
-        "originalIndex": 1158,
+        "originalIndex": 1159,
         "lb1": {
             "attack": 1065,
             "defense": 1021,
@@ -80755,7 +80827,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 0,
-        "originalIndex": 1159,
+        "originalIndex": 1160,
         "lb1": {
             "attack": 872,
             "defense": 623,
@@ -80788,7 +80860,7 @@ window.allHeroes =
         "color": "Red",
         "class": "Rogue",
         "speed": "Slow",
-        "skill": "Sword Barricade",
+        "skill": "Wall of Swords",
         "types": [
             "Hit All",
             "Counterattack 3"
@@ -80815,7 +80887,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 1,
-        "originalIndex": 1160,
+        "originalIndex": 1161,
         "lb1": {
             "attack": 868,
             "defense": 603,
@@ -80848,7 +80920,7 @@ window.allHeroes =
         "color": "Red",
         "class": "Paladin",
         "speed": "Slow",
-        "skill": "Dreaded Swords",
+        "skill": "Wall of Swords",
         "types": [
             "Hit All",
             "Counterattack 3"
@@ -80875,7 +80947,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 2,
-        "originalIndex": 1161,
+        "originalIndex": 1162,
         "lb1": {
             "attack": 772,
             "defense": 710,
@@ -80908,7 +80980,7 @@ window.allHeroes =
         "color": "Red",
         "class": "Fighter",
         "speed": "Slow",
-        "skill": "Wall of Toons",
+        "skill": "Wall of Swords",
         "types": [
             "Hit All",
             "Counterattack 3"
@@ -80941,7 +81013,7 @@ window.allHeroes =
         ],
         "family": "classic",
         "costume_id": 3,
-        "originalIndex": 1162,
+        "originalIndex": 1163,
         "lb1": {
             "attack": 710,
             "defense": 781,
@@ -80979,7 +81051,7 @@ window.allHeroes =
         "color": "Red",
         "class": "Fighter",
         "speed": "Slow",
-        "skill": "Wall of Glass",
+        "skill": "Wall of Swords",
         "types": [
             "Hit All",
             "Bypass",
@@ -81013,7 +81085,7 @@ window.allHeroes =
         ],
         "family": "classic",
         "costume_id": 4,
-        "originalIndex": 1163,
+        "originalIndex": 1164,
         "lb1": {
             "attack": 745,
             "defense": 741,
@@ -81088,7 +81160,7 @@ window.allHeroes =
         ],
         "family": "hotm2025",
         "costume_id": 0,
-        "originalIndex": 1164,
+        "originalIndex": 1165,
         "lb1": {
             "attack": 1189,
             "defense": 1183,
@@ -81162,7 +81234,7 @@ window.allHeroes =
         ],
         "family": "abyss",
         "costume_id": 0,
-        "originalIndex": 1165,
+        "originalIndex": 1166,
         "lb1": {
             "attack": 828,
             "defense": 812,
@@ -81200,7 +81272,7 @@ window.allHeroes =
         "color": "Red",
         "class": "Wizard",
         "speed": "Average",
-        "skill": "Bride's Kiss",
+        "skill": "Widow's Kiss",
         "types": [
             "Hit all",
             "Fiend Summoner All",
@@ -81241,7 +81313,7 @@ window.allHeroes =
         ],
         "family": "abyss",
         "costume_id": 1,
-        "originalIndex": 1166,
+        "originalIndex": 1167,
         "lb1": {
             "attack": 843,
             "defense": 819,
@@ -81313,7 +81385,7 @@ window.allHeroes =
         ],
         "family": "fleur_de_sang",
         "costume_id": 0,
-        "originalIndex": 1167,
+        "originalIndex": 1168,
         "lb1": {
             "attack": 1389,
             "defense": 1354,
@@ -81387,7 +81459,7 @@ window.allHeroes =
         ],
         "family": "fox",
         "costume_id": 0,
-        "originalIndex": 1168,
+        "originalIndex": 1169,
         "lb1": {
             "attack": 1358,
             "defense": 1334,
@@ -81472,7 +81544,7 @@ window.allHeroes =
         ],
         "family": "mimic",
         "costume_id": 0,
-        "originalIndex": 1169,
+        "originalIndex": 1170,
         "lb1": {
             "attack": 1394,
             "defense": 1394,
@@ -81553,7 +81625,7 @@ window.allHeroes =
         "passives": [],
         "family": "circus",
         "costume_id": 0,
-        "originalIndex": 1170,
+        "originalIndex": 1171,
         "lb1": {
             "attack": 810,
             "defense": 865,
@@ -81597,7 +81669,7 @@ window.allHeroes =
         "color": "Red",
         "class": "Wizard",
         "speed": "Very Fast",
-        "skill": "Frogs and Hoop",
+        "skill": "Flames and Rejuvenation",
         "types": [
             "Gamble",
             "DoT All",
@@ -81637,7 +81709,7 @@ window.allHeroes =
         ],
         "family": "circus",
         "costume_id": 1,
-        "originalIndex": 1171,
+        "originalIndex": 1172,
         "lb1": {
             "attack": 850,
             "defense": 799,
@@ -81724,7 +81796,7 @@ window.allHeroes =
         ],
         "family": "styx",
         "costume_id": 0,
-        "originalIndex": 1172,
+        "originalIndex": 1173,
         "lb1": {
             "attack": 896,
             "defense": 881,
@@ -81795,7 +81867,7 @@ window.allHeroes =
         ],
         "family": "owl",
         "costume_id": 0,
-        "originalIndex": 1173,
+        "originalIndex": 1174,
         "lb1": {
             "attack": 1192,
             "defense": 1154,
@@ -81879,7 +81951,7 @@ window.allHeroes =
         ],
         "family": "mimic",
         "costume_id": 0,
-        "originalIndex": 1174,
+        "originalIndex": 1175,
         "lb1": {
             "attack": 1332,
             "defense": 1332,
@@ -81962,7 +82034,7 @@ window.allHeroes =
         ],
         "family": "myrkheim",
         "costume_id": 0,
-        "originalIndex": 1175,
+        "originalIndex": 1176,
         "lb1": {
             "attack": 1351,
             "defense": 1303,
@@ -82042,7 +82114,7 @@ window.allHeroes =
         ],
         "family": "garrison",
         "costume_id": 0,
-        "originalIndex": 1176,
+        "originalIndex": 1177,
         "lb1": {
             "attack": 1294,
             "defense": 1252,
@@ -82116,7 +82188,7 @@ window.allHeroes =
         ],
         "family": "beachparty",
         "costume_id": 0,
-        "originalIndex": 1177,
+        "originalIndex": 1178,
         "lb1": {
             "attack": 899,
             "defense": 934,
@@ -82154,7 +82226,7 @@ window.allHeroes =
         "color": "Red",
         "class": "Cleric",
         "speed": "Average",
-        "skill": "Donut to the Rescue!",
+        "skill": "To the Rescue!",
         "types": [
             "Healer",
             "Bypass All",
@@ -82190,7 +82262,7 @@ window.allHeroes =
         ],
         "family": "beachparty",
         "costume_id": 1,
-        "originalIndex": 1178,
+        "originalIndex": 1179,
         "lb1": {
             "attack": 879,
             "defense": 956,
@@ -82262,7 +82334,7 @@ window.allHeroes =
         ],
         "family": "owl",
         "costume_id": 0,
-        "originalIndex": 1179,
+        "originalIndex": 1180,
         "lb1": {
             "attack": 1112,
             "defense": 1090,
@@ -82338,7 +82410,7 @@ window.allHeroes =
         ],
         "family": "moths",
         "costume_id": 0,
-        "originalIndex": 1180,
+        "originalIndex": 1181,
         "lb1": {
             "attack": 1405,
             "defense": 1300,
@@ -82408,7 +82480,7 @@ window.allHeroes =
         "passives": [],
         "family": "ninja",
         "costume_id": 0,
-        "originalIndex": 1181,
+        "originalIndex": 1182,
         "lb1": {
             "attack": 788,
             "defense": 810,
@@ -82467,7 +82539,7 @@ window.allHeroes =
         "passives": [],
         "family": "muspelheim",
         "costume_id": 0,
-        "originalIndex": 1182,
+        "originalIndex": 1183,
         "lb1": {
             "attack": 832,
             "defense": 825,
@@ -82500,7 +82572,7 @@ window.allHeroes =
         "color": "Red",
         "class": "Fighter",
         "speed": "Fast",
-        "skill": "Maiden's Orders",
+        "skill": "Maiden's Command",
         "types": [
             "Destroys Mega/Minions",
             "Hit 3"
@@ -82527,7 +82599,7 @@ window.allHeroes =
         "passives": [],
         "family": "muspelheim",
         "costume_id": 1,
-        "originalIndex": 1183,
+        "originalIndex": 1184,
         "lb1": {
             "attack": 816,
             "defense": 832,
@@ -82604,7 +82676,7 @@ window.allHeroes =
         ],
         "family": "tales1_baddies",
         "costume_id": 0,
-        "originalIndex": 1184,
+        "originalIndex": 1185,
         "lb1": {
             "attack": 967,
             "defense": 1023,
@@ -82643,7 +82715,7 @@ window.allHeroes =
         "color": "Red",
         "class": "Wizard",
         "speed": "Changing Tides",
-        "skill": "Sunken Magma Cube",
+        "skill": "Underwater Magma Cube",
         "types": [
             "Hit 3/5",
             "Defense debuff"
@@ -82691,7 +82763,7 @@ window.allHeroes =
         ],
         "family": "tales1_baddies",
         "costume_id": 1,
-        "originalIndex": 1185,
+        "originalIndex": 1186,
         "lb1": {
             "attack": 1023,
             "defense": 979,
@@ -82768,7 +82840,7 @@ window.allHeroes =
         ],
         "family": "slime",
         "costume_id": 0,
-        "originalIndex": 1186,
+        "originalIndex": 1187,
         "lb1": {
             "attack": 1227,
             "defense": 1292,
@@ -82838,7 +82910,7 @@ window.allHeroes =
         "passives": [],
         "family": "hotm2018",
         "costume_id": 0,
-        "originalIndex": 1187,
+        "originalIndex": 1188,
         "lb1": {
             "attack": 783,
             "defense": 763,
@@ -82877,7 +82949,7 @@ window.allHeroes =
         "color": "Red",
         "class": "Paladin",
         "speed": "Very Fast",
-        "skill": "Dust to Dust",
+        "skill": "Ashes to Ashes",
         "types": [
             "Hit All",
             "DoT All"
@@ -82912,7 +82984,7 @@ window.allHeroes =
         ],
         "family": "hotm2018",
         "costume_id": 1,
-        "originalIndex": 1188,
+        "originalIndex": 1189,
         "lb1": {
             "attack": 777,
             "defense": 754,
@@ -82983,7 +83055,7 @@ window.allHeroes =
         ],
         "family": "hotm2019",
         "costume_id": 0,
-        "originalIndex": 1189,
+        "originalIndex": 1190,
         "lb1": {
             "attack": 677,
             "defense": 881,
@@ -83045,7 +83117,7 @@ window.allHeroes =
         "passives": [],
         "family": "guardian",
         "costume_id": 0,
-        "originalIndex": 1190,
+        "originalIndex": 1191,
         "lb1": {
             "attack": 848,
             "defense": 632,
@@ -83083,7 +83155,7 @@ window.allHeroes =
         "color": "Red",
         "class": "Monk",
         "speed": "Average",
-        "skill": "Kong Smash",
+        "skill": "Lord of the Jungle",
         "types": [
             "Hit All",
             "Elemental Reflect All",
@@ -83114,7 +83186,7 @@ window.allHeroes =
         "passives": [],
         "family": "guardian",
         "costume_id": 1,
-        "originalIndex": 1191,
+        "originalIndex": 1192,
         "lb1": {
             "attack": 854,
             "defense": 641,
@@ -83185,7 +83257,7 @@ window.allHeroes =
         ],
         "family": "gargoyle",
         "costume_id": 0,
-        "originalIndex": 1192,
+        "originalIndex": 1193,
         "lb1": {
             "attack": 1061,
             "defense": 1198,
@@ -83257,7 +83329,7 @@ window.allHeroes =
         ],
         "family": "astral_elves",
         "costume_id": 0,
-        "originalIndex": 1193,
+        "originalIndex": 1194,
         "lb1": {
             "attack": 1107,
             "defense": 1134,
@@ -83328,7 +83400,7 @@ window.allHeroes =
         ],
         "family": "moon",
         "costume_id": 0,
-        "originalIndex": 1194,
+        "originalIndex": 1195,
         "lb1": {
             "attack": 834,
             "defense": 856,
@@ -83361,7 +83433,7 @@ window.allHeroes =
         "color": "Red",
         "class": "Cleric",
         "speed": "Fast",
-        "skill": "Motherly Love",
+        "skill": "Motherly Care",
         "types": [
             "HoT",
             "Status Ailment Immunity"
@@ -83401,7 +83473,7 @@ window.allHeroes =
         ],
         "family": "moon",
         "costume_id": 1,
-        "originalIndex": 1195,
+        "originalIndex": 1196,
         "lb1": {
             "attack": 830,
             "defense": 865,
@@ -83470,7 +83542,7 @@ window.allHeroes =
         ],
         "family": "gargoyle",
         "costume_id": 0,
-        "originalIndex": 1196,
+        "originalIndex": 1197,
         "lb1": {
             "attack": 868,
             "defense": 863,
@@ -83549,7 +83621,7 @@ window.allHeroes =
         ],
         "family": "construct",
         "costume_id": 0,
-        "originalIndex": 1197,
+        "originalIndex": 1198,
         "lb1": {
             "attack": 1101,
             "defense": 1196,
@@ -83627,7 +83699,7 @@ window.allHeroes =
         ],
         "family": "styx",
         "costume_id": 0,
-        "originalIndex": 1198,
+        "originalIndex": 1199,
         "lb1": {
             "attack": 912,
             "defense": 841,
@@ -83701,7 +83773,7 @@ window.allHeroes =
         ],
         "family": "garrison",
         "costume_id": 0,
-        "originalIndex": 1199,
+        "originalIndex": 1200,
         "lb1": {
             "attack": 1294,
             "defense": 1263,
@@ -83779,7 +83851,7 @@ window.allHeroes =
         ],
         "family": "super_elemental",
         "costume_id": 0,
-        "originalIndex": 1200,
+        "originalIndex": 1201,
         "lb1": {
             "attack": 956,
             "defense": 996,
@@ -83818,7 +83890,7 @@ window.allHeroes =
         "color": "Red",
         "class": "Paladin",
         "speed": "Fast",
-        "skill": "Cauterizing Flame",
+        "skill": "Purifying Flame",
         "types": [
             "Heal All",
             "Elemental Heal Red",
@@ -83859,7 +83931,7 @@ window.allHeroes =
         ],
         "family": "super_elemental",
         "costume_id": 1,
-        "originalIndex": 1201,
+        "originalIndex": 1202,
         "lb1": {
             "attack": 945,
             "defense": 1010,
@@ -83931,7 +84003,7 @@ window.allHeroes =
         ],
         "family": "kalevala",
         "costume_id": 0,
-        "originalIndex": 1202,
+        "originalIndex": 1203,
         "lb1": {
             "attack": 930,
             "defense": 999,
@@ -83969,7 +84041,7 @@ window.allHeroes =
         "color": "Red",
         "class": "Monk",
         "speed": "Slow",
-        "skill": "Forged from Gold",
+        "skill": "Forged in Fire",
         "types": [
             "Mana Reduction All",
             "Enemy Damage Share",
@@ -84003,7 +84075,7 @@ window.allHeroes =
         ],
         "family": "kalevala",
         "costume_id": 1,
-        "originalIndex": 1203,
+        "originalIndex": 1204,
         "lb1": {
             "attack": 925,
             "defense": 1005,
@@ -84077,7 +84149,7 @@ window.allHeroes =
         ],
         "family": "garrison",
         "costume_id": 0,
-        "originalIndex": 1204,
+        "originalIndex": 1205,
         "lb1": {
             "attack": 1260,
             "defense": 1163,
@@ -84150,7 +84222,7 @@ window.allHeroes =
         ],
         "family": "faun",
         "costume_id": 0,
-        "originalIndex": 1205,
+        "originalIndex": 1206,
         "lb1": {
             "attack": 1276,
             "defense": 1205,
@@ -84213,7 +84285,7 @@ window.allHeroes =
         "passives": [],
         "family": "villains",
         "costume_id": 0,
-        "originalIndex": 1206,
+        "originalIndex": 1207,
         "lb1": {
             "attack": 816,
             "defense": 828,
@@ -84280,7 +84352,7 @@ window.allHeroes =
         ],
         "family": "hotm2020",
         "costume_id": 0,
-        "originalIndex": 1207,
+        "originalIndex": 1208,
         "lb1": {
             "attack": 794,
             "defense": 779,
@@ -84367,7 +84439,7 @@ window.allHeroes =
         ],
         "family": "magic_carpet",
         "costume_id": 0,
-        "originalIndex": 1208,
+        "originalIndex": 1209,
         "lb1": {
             "attack": 1427,
             "defense": 1389,
@@ -84398,6 +84470,87 @@ window.allHeroes =
                 "负面效果": [
                     "Dmg - DoT : Burn",
                     "Def - Defense ↓"
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Jyoti",
+        "fancy_name": "Chari Dancer",
+        "AetherPower": "Special Armor",
+        "color": "Red",
+        "class": "Sorcerer",
+        "speed": "Average",
+        "skill": "Fiery Performance",
+        "types": [
+            "Healer All",
+            "Healing Boon",
+            "Ailments Immunity Buff All",
+            "Board Alterer"
+        ],
+        "skill_types": [
+            "Healers",
+            "Healers (Special)",
+            "Immunity Providers",
+            "Board Alterers",
+            "Minions Counters",
+            "Stacking Heroes"
+        ],
+        "source": "Temple Summon",
+        "Release date": "2026-01-01",
+        "specialId": "fiery_performance",
+        "passiveSkills": [
+            "resist_negative_minion_and_mega_minion_effects",
+            "mana_on_damage_received"
+        ],
+        "heroId": "mahayoddha_jyoti",
+        "star": 5,
+        "power": 1268,
+        "attack": 1303,
+        "defense": 1314,
+        "health": 2282,
+        "effects": [
+            "Recovers 37% health for all allies.",
+            "Growth Boon: Recovers 2x extra for each point of modified defense. (Up to a maximum 800 additional  healing. Status effects affecting healing received do affect the healing scaling.)",
+            "All allies are immune to new status ailments for 4 turns, and recovers 205 health for each attempted status ailment.",
+            "Alters the power of all Fire shields on the board. When an attacking Hero casts the special, the shields become enhanced and give +37% more mana. When a defending Hero casts the special, the shields become weakened and give -30% less mana."
+        ],
+        "passives": [
+            "Mana on Damage Received:",
+            "* When this character receives direct damage from Special Skills or Normal Attacks they receive a small amount of mana.",
+            "* Maximum of 10% mana gained per turn.",
+            "Superior Resist Negative Minion Effects: This character is immune to incoming negative effects and damage from Minions and Mega Minions."
+        ],
+        "family": "mahayoddha",
+        "costume_id": 0,
+        "originalIndex": 1210,
+        "lb1": {
+            "attack": 1405,
+            "defense": 1416,
+            "health": 2459,
+            "power": 1357
+        },
+        "lb2": {
+            "attack": 1607,
+            "defense": 1620,
+            "health": 2814,
+            "power": 1535
+        },
+        "cn_skill_info": [
+            {
+                "基础技能": [
+                    "Heal: Instant",
+                    "Heal: Special"
+                ]
+            },
+            {
+                "特殊效果": [
+                    "Mana - Tile : Gen"
+                ]
+            },
+            {
+                "增益效果": [
+                    "Status - Ailment Immunity"
                 ]
             }
         ]
@@ -84438,7 +84591,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 0,
-        "originalIndex": 1209,
+        "originalIndex": 1211,
         "lb1": {
             "attack": 765,
             "defense": 692,
@@ -84472,7 +84625,7 @@ window.allHeroes =
         "color": "Red",
         "class": "Barbarian",
         "speed": "Slow",
-        "skill": "Conqueror's Command",
+        "skill": "Khan's Order",
         "types": [
             "Hit 1",
             "Mana Generation Buff All",
@@ -84502,7 +84655,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 1,
-        "originalIndex": 1210,
+        "originalIndex": 1212,
         "lb1": {
             "attack": 781,
             "defense": 710,
@@ -84536,7 +84689,7 @@ window.allHeroes =
         "color": "Red",
         "class": "Druid",
         "speed": "Slow",
-        "skill": "Chieftain's Vengeance",
+        "skill": "Khan's Order",
         "types": [
             "Hit All",
             "MoT All",
@@ -84566,7 +84719,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 2,
-        "originalIndex": 1211,
+        "originalIndex": 1213,
         "lb1": {
             "attack": 777,
             "defense": 719,
@@ -84600,7 +84753,7 @@ window.allHeroes =
         "color": "Red",
         "class": "Ranger",
         "speed": "Slow",
-        "skill": "The Toon's Order",
+        "skill": "Khan's Order",
         "types": [
             "Hit 3",
             "Mana Generation Buff 3",
@@ -84636,7 +84789,7 @@ window.allHeroes =
         ],
         "family": "classic",
         "costume_id": 3,
-        "originalIndex": 1212,
+        "originalIndex": 1214,
         "lb1": {
             "attack": 803,
             "defense": 670,
@@ -84675,7 +84828,7 @@ window.allHeroes =
         "color": "Red",
         "class": "Ranger",
         "speed": "Slow",
-        "skill": "Vitrail's Order",
+        "skill": "Khan's Order",
         "types": [
             "Hit All",
             "Bypass",
@@ -84712,7 +84865,7 @@ window.allHeroes =
         ],
         "family": "classic",
         "costume_id": 4,
-        "originalIndex": 1213,
+        "originalIndex": 1215,
         "lb1": {
             "attack": 808,
             "defense": 666,
@@ -84786,7 +84939,7 @@ window.allHeroes =
         ],
         "family": "sun",
         "costume_id": 0,
-        "originalIndex": 1214,
+        "originalIndex": 1216,
         "lb1": {
             "attack": 883,
             "defense": 863,
@@ -84820,7 +84973,7 @@ window.allHeroes =
         "color": "Red",
         "class": "Rogue",
         "speed": "Slow",
-        "skill": "Underwater Riddle",
+        "skill": "Perplexing Riddle",
         "types": [
             "Hit 1",
             "Chain",
@@ -84860,7 +85013,7 @@ window.allHeroes =
         ],
         "family": "sun",
         "costume_id": 1,
-        "originalIndex": 1215,
+        "originalIndex": 1217,
         "lb1": {
             "attack": 914,
             "defense": 841,
@@ -84925,7 +85078,7 @@ window.allHeroes =
         ],
         "family": "abyss",
         "costume_id": 0,
-        "originalIndex": 1216,
+        "originalIndex": 1218,
         "lb1": {
             "attack": 848,
             "defense": 836,
@@ -84958,7 +85111,7 @@ window.allHeroes =
         "color": "Red",
         "class": "Druid",
         "speed": "Average",
-        "skill": "Delicious Demise",
+        "skill": "Inevitable Demise",
         "types": [
             "Revive Block All",
             "Hit 3"
@@ -84993,7 +85146,7 @@ window.allHeroes =
         ],
         "family": "abyss",
         "costume_id": 1,
-        "originalIndex": 1217,
+        "originalIndex": 1219,
         "lb1": {
             "attack": 845,
             "defense": 823,
@@ -85054,7 +85207,7 @@ window.allHeroes =
         "passives": [],
         "family": "helheim",
         "costume_id": 0,
-        "originalIndex": 1218,
+        "originalIndex": 1220,
         "lb1": {
             "attack": 805,
             "defense": 836,
@@ -85088,7 +85241,7 @@ window.allHeroes =
         "color": "Red",
         "class": "Cleric",
         "speed": "Average",
-        "skill": "Trickster's Lullaby",
+        "skill": "Trickster's Malice",
         "types": [
             "Lifts Ailments",
             "Hit All"
@@ -85117,7 +85270,7 @@ window.allHeroes =
         "passives": [],
         "family": "helheim",
         "costume_id": 1,
-        "originalIndex": 1219,
+        "originalIndex": 1221,
         "lb1": {
             "attack": 739,
             "defense": 921,
@@ -85194,7 +85347,7 @@ window.allHeroes =
         ],
         "family": "tales1_goodies",
         "costume_id": 0,
-        "originalIndex": 1220,
+        "originalIndex": 1222,
         "lb1": {
             "attack": 1072,
             "defense": 916,
@@ -85227,7 +85380,7 @@ window.allHeroes =
         "color": "Red",
         "class": "Rogue",
         "speed": "Changing Tides",
-        "skill": "Champion Maneuver",
+        "skill": "Flanking Maneuver",
         "types": [
             "Hit 1",
             "Replicating Fiend Summoner 1"
@@ -85273,7 +85426,7 @@ window.allHeroes =
         ],
         "family": "tales1_goodies",
         "costume_id": 1,
-        "originalIndex": 1221,
+        "originalIndex": 1223,
         "lb1": {
             "attack": 1050,
             "defense": 970,
@@ -85333,7 +85486,7 @@ window.allHeroes =
         "passives": [],
         "family": "raven",
         "costume_id": 0,
-        "originalIndex": 1222,
+        "originalIndex": 1224,
         "lb1": {
             "attack": 856,
             "defense": 861,
@@ -85410,7 +85563,7 @@ window.allHeroes =
         ],
         "family": "outlaw",
         "costume_id": 0,
-        "originalIndex": 1223,
+        "originalIndex": 1225,
         "lb1": {
             "attack": 1245,
             "defense": 1389,
@@ -85478,7 +85631,7 @@ window.allHeroes =
         ],
         "family": "owl",
         "costume_id": 0,
-        "originalIndex": 1224,
+        "originalIndex": 1226,
         "lb1": {
             "attack": 1123,
             "defense": 1118,
@@ -85565,7 +85718,7 @@ window.allHeroes =
         ],
         "family": "outlaw",
         "costume_id": 0,
-        "originalIndex": 1225,
+        "originalIndex": 1227,
         "lb1": {
             "attack": 1376,
             "defense": 1336,
@@ -85640,7 +85793,7 @@ window.allHeroes =
         ],
         "family": "goblin",
         "costume_id": 0,
-        "originalIndex": 1226,
+        "originalIndex": 1228,
         "lb1": {
             "attack": 1012,
             "defense": 999,
@@ -85728,7 +85881,7 @@ window.allHeroes =
         ],
         "family": "ninja",
         "costume_id": 0,
-        "originalIndex": 1227,
+        "originalIndex": 1229,
         "lb1": {
             "attack": 1411,
             "defense": 1192,
@@ -85802,7 +85955,7 @@ window.allHeroes =
         ],
         "family": "hotm2025",
         "costume_id": 0,
-        "originalIndex": 1228,
+        "originalIndex": 1230,
         "lb1": {
             "attack": 1192,
             "defense": 1252,
@@ -85861,7 +86014,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 0,
-        "originalIndex": 1229,
+        "originalIndex": 1231,
         "lb1": {
             "attack": 721,
             "defense": 768,
@@ -85895,7 +86048,7 @@ window.allHeroes =
         "color": "Red",
         "class": "Wizard",
         "speed": "Fast",
-        "skill": "Lava Blast",
+        "skill": "Magma Smash",
         "types": [
             "Hit 3",
             "Elemental Defense Debuff",
@@ -85925,7 +86078,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 1,
-        "originalIndex": 1230,
+        "originalIndex": 1232,
         "lb1": {
             "attack": 774,
             "defense": 723,
@@ -85959,7 +86112,7 @@ window.allHeroes =
         "color": "Red",
         "class": "Ranger",
         "speed": "Fast",
-        "skill": "Volcanic Blast",
+        "skill": "Magma Smash",
         "types": [
             "Hit 3",
             "Defense Debuff",
@@ -85989,7 +86142,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 2,
-        "originalIndex": 1231,
+        "originalIndex": 1233,
         "lb1": {
             "attack": 774,
             "defense": 723,
@@ -86024,7 +86177,7 @@ window.allHeroes =
         "color": "Red",
         "class": "Rogue",
         "speed": "Fast",
-        "skill": "Toontastic Smash",
+        "skill": "Magma Smash",
         "types": [
             "Hit 1",
             "Dot 1"
@@ -86057,7 +86210,7 @@ window.allHeroes =
         ],
         "family": "classic",
         "costume_id": 3,
-        "originalIndex": 1232,
+        "originalIndex": 1234,
         "lb1": {
             "attack": 752,
             "defense": 757,
@@ -86096,7 +86249,7 @@ window.allHeroes =
         "color": "Red",
         "class": "Rogue",
         "speed": "Fast",
-        "skill": "Glass Flame Smash",
+        "skill": "Magma Smash",
         "types": [
             "Hit 1",
             "Bypass",
@@ -86130,7 +86283,7 @@ window.allHeroes =
         ],
         "family": "classic",
         "costume_id": 4,
-        "originalIndex": 1233,
+        "originalIndex": 1235,
         "lb1": {
             "attack": 808,
             "defense": 712,
@@ -86199,7 +86352,7 @@ window.allHeroes =
         "passives": [],
         "family": "japanese",
         "costume_id": 0,
-        "originalIndex": 1234,
+        "originalIndex": 1236,
         "lb1": {
             "attack": 750,
             "defense": 783,
@@ -86237,7 +86390,7 @@ window.allHeroes =
         "color": "Red",
         "class": "Fighter",
         "speed": "Average",
-        "skill": "Glaive of Flames",
+        "skill": "Mirror of Flames",
         "types": [
             "Hit All",
             "Mana Generation Debuff 3",
@@ -86268,7 +86421,7 @@ window.allHeroes =
         "passives": [],
         "family": "japanese",
         "costume_id": 1,
-        "originalIndex": 1235,
+        "originalIndex": 1237,
         "lb1": {
             "attack": 772,
             "defense": 745,
@@ -86349,7 +86502,7 @@ window.allHeroes =
         ],
         "family": "magic",
         "costume_id": 0,
-        "originalIndex": 1236,
+        "originalIndex": 1238,
         "lb1": {
             "attack": 836,
             "defense": 843,
@@ -86391,7 +86544,7 @@ window.allHeroes =
         "color": "Red",
         "class": "Monk",
         "speed": "Magic",
-        "skill": "Parcel of the Dragon Familiar",
+        "skill": "Flame of the Dragon Familiar",
         "types": [
             "Charge",
             "DoT All",
@@ -86440,7 +86593,7 @@ window.allHeroes =
         ],
         "family": "magic",
         "costume_id": 1,
-        "originalIndex": 1237,
+        "originalIndex": 1239,
         "lb1": {
             "attack": 854,
             "defense": 834,
@@ -86530,7 +86683,7 @@ window.allHeroes =
         ],
         "family": "magic_carpet",
         "costume_id": 0,
-        "originalIndex": 1238,
+        "originalIndex": 1240,
         "lb1": {
             "attack": 1316,
             "defense": 1318,
@@ -86604,7 +86757,7 @@ window.allHeroes =
         "passives": [],
         "family": "hotm2018",
         "costume_id": 0,
-        "originalIndex": 1239,
+        "originalIndex": 1241,
         "lb1": {
             "attack": 774,
             "defense": 732,
@@ -86643,7 +86796,7 @@ window.allHeroes =
         "color": "Red",
         "class": "Wizard",
         "speed": "Fast",
-        "skill": "Burning Thread",
+        "skill": "Burning Chains",
         "types": [
             "Dot 1",
             "Mana Generation Debuff"
@@ -86679,7 +86832,7 @@ window.allHeroes =
         ],
         "family": "hotm2018",
         "costume_id": 1,
-        "originalIndex": 1240,
+        "originalIndex": 1242,
         "lb1": {
             "attack": 788,
             "defense": 728,
@@ -86757,7 +86910,7 @@ window.allHeroes =
         ],
         "family": "hotm2023",
         "costume_id": 0,
-        "originalIndex": 1241,
+        "originalIndex": 1243,
         "lb1": {
             "attack": 888,
             "defense": 976,
@@ -86829,7 +86982,7 @@ window.allHeroes =
         ],
         "family": "fox",
         "costume_id": 0,
-        "originalIndex": 1242,
+        "originalIndex": 1244,
         "lb1": {
             "attack": 1325,
             "defense": 1267,
@@ -86899,7 +87052,7 @@ window.allHeroes =
         ],
         "family": "super_elemental",
         "costume_id": 0,
-        "originalIndex": 1243,
+        "originalIndex": 1245,
         "lb1": {
             "attack": 1043,
             "defense": 1116,
@@ -86977,7 +87130,7 @@ window.allHeroes =
         ],
         "family": "ninja",
         "costume_id": 0,
-        "originalIndex": 1244,
+        "originalIndex": 1246,
         "lb1": {
             "attack": 1345,
             "defense": 1149,
@@ -87051,7 +87204,7 @@ window.allHeroes =
         ],
         "family": "hotm2020",
         "costume_id": 0,
-        "originalIndex": 1245,
+        "originalIndex": 1247,
         "lb1": {
             "attack": 759,
             "defense": 843,
@@ -87121,7 +87274,7 @@ window.allHeroes =
         ],
         "family": "champions",
         "costume_id": 0,
-        "originalIndex": 1246,
+        "originalIndex": 1248,
         "lb1": {
             "attack": 1092,
             "defense": 1070,
@@ -87184,7 +87337,7 @@ window.allHeroes =
         "passives": [],
         "family": "atlantis",
         "costume_id": 0,
-        "originalIndex": 1247,
+        "originalIndex": 1249,
         "lb1": {
             "attack": 952,
             "defense": 792,
@@ -87218,7 +87371,7 @@ window.allHeroes =
         "color": "Red",
         "class": "Barbarian",
         "speed": "Average",
-        "skill": "Strength of the Volcano",
+        "skill": "Strength of the Behemoth",
         "types": [
             "Hit All",
             "Attack Buff All",
@@ -87248,7 +87401,7 @@ window.allHeroes =
         "passives": [],
         "family": "atlantis",
         "costume_id": 1,
-        "originalIndex": 1248,
+        "originalIndex": 1250,
         "lb1": {
             "attack": 963,
             "defense": 785,
@@ -87314,7 +87467,7 @@ window.allHeroes =
         ],
         "family": "abyss",
         "costume_id": 0,
-        "originalIndex": 1249,
+        "originalIndex": 1251,
         "lb1": {
             "attack": 821,
             "defense": 859,
@@ -87352,7 +87505,7 @@ window.allHeroes =
         "color": "Red",
         "class": "Rogue",
         "speed": "Average",
-        "skill": "Bouquet of the Seas",
+        "skill": "The Hallowed Blade",
         "types": [
             "Hit All",
             "Attack Debuff All"
@@ -87389,7 +87542,7 @@ window.allHeroes =
         ],
         "family": "abyss",
         "costume_id": 1,
-        "originalIndex": 1250,
+        "originalIndex": 1252,
         "lb1": {
             "attack": 879,
             "defense": 861,
@@ -87464,7 +87617,7 @@ window.allHeroes =
         ],
         "family": "cultist",
         "costume_id": 0,
-        "originalIndex": 1251,
+        "originalIndex": 1253,
         "lb1": {
             "attack": 1267,
             "defense": 1196,
@@ -87539,7 +87692,7 @@ window.allHeroes =
         ],
         "family": "abyss_hunter",
         "costume_id": 0,
-        "originalIndex": 1252,
+        "originalIndex": 1254,
         "lb1": {
             "attack": 927,
             "defense": 936,
@@ -87606,7 +87759,7 @@ window.allHeroes =
         "passives": [],
         "family": "winter",
         "costume_id": 0,
-        "originalIndex": 1253,
+        "originalIndex": 1255,
         "lb1": {
             "attack": 1256,
             "defense": 1185,
@@ -87676,7 +87829,7 @@ window.allHeroes =
         ],
         "family": "goblin",
         "costume_id": 0,
-        "originalIndex": 1254,
+        "originalIndex": 1256,
         "lb1": {
             "attack": 1132,
             "defense": 1027,
@@ -87755,7 +87908,7 @@ window.allHeroes =
         ],
         "family": "bard",
         "costume_id": 0,
-        "originalIndex": 1255,
+        "originalIndex": 1257,
         "lb1": {
             "attack": 883,
             "defense": 916,
@@ -87835,7 +87988,7 @@ window.allHeroes =
         ],
         "family": "astral_dwarfs",
         "costume_id": 0,
-        "originalIndex": 1256,
+        "originalIndex": 1258,
         "lb1": {
             "attack": 1343,
             "defense": 1334,
@@ -87904,7 +88057,7 @@ window.allHeroes =
         "passives": [],
         "family": "fable",
         "costume_id": 0,
-        "originalIndex": 1257,
+        "originalIndex": 1259,
         "lb1": {
             "attack": 823,
             "defense": 783,
@@ -87942,7 +88095,7 @@ window.allHeroes =
         "color": "Red",
         "class": "Fighter",
         "speed": "Average",
-        "skill": "Three Bandit Mice",
+        "skill": "Three Blind Mice",
         "types": [
             "Summoner",
             "Hot All",
@@ -87974,7 +88127,7 @@ window.allHeroes =
         "passives": [],
         "family": "fable",
         "costume_id": 1,
-        "originalIndex": 1258,
+        "originalIndex": 1260,
         "lb1": {
             "attack": 905,
             "defense": 677,
@@ -88043,7 +88196,7 @@ window.allHeroes =
         "passives": [],
         "family": "wonderland",
         "costume_id": 0,
-        "originalIndex": 1259,
+        "originalIndex": 1261,
         "lb1": {
             "attack": 688,
             "defense": 785,
@@ -88082,7 +88235,7 @@ window.allHeroes =
         "color": "Red",
         "class": "Cleric",
         "speed": "Average",
-        "skill": "Loving Queen",
+        "skill": "Queen of Cards",
         "types": [
             "Hit 3",
             "Summoner 1",
@@ -88118,7 +88271,7 @@ window.allHeroes =
         ],
         "family": "wonderland",
         "costume_id": 1,
-        "originalIndex": 1260,
+        "originalIndex": 1262,
         "lb1": {
             "attack": 634,
             "defense": 845,
@@ -88205,7 +88358,7 @@ window.allHeroes =
         ],
         "family": "wild_cat",
         "costume_id": 0,
-        "originalIndex": 1261,
+        "originalIndex": 1263,
         "lb1": {
             "attack": 1423,
             "defense": 1272,
@@ -88278,7 +88431,7 @@ window.allHeroes =
         ],
         "family": "cultist",
         "costume_id": 0,
-        "originalIndex": 1262,
+        "originalIndex": 1264,
         "lb1": {
             "attack": 1298,
             "defense": 1216,
@@ -88365,7 +88518,7 @@ window.allHeroes =
         ],
         "family": "magic",
         "costume_id": 0,
-        "originalIndex": 1263,
+        "originalIndex": 1265,
         "lb1": {
             "attack": 934,
             "defense": 979,
@@ -88406,7 +88559,7 @@ window.allHeroes =
         "color": "Red",
         "class": "Druid",
         "speed": "Magic",
-        "skill": "Thorned Slam Dunk",
+        "skill": "Blazing Slam Dunk",
         "types": [
             "Charge",
             "DoT All",
@@ -88463,7 +88616,7 @@ window.allHeroes =
         ],
         "family": "magic",
         "costume_id": 1,
-        "originalIndex": 1264,
+        "originalIndex": 1266,
         "lb1": {
             "attack": 941,
             "defense": 974,
@@ -88539,7 +88692,7 @@ window.allHeroes =
         "passives": [],
         "family": "fable",
         "costume_id": 0,
-        "originalIndex": 1265,
+        "originalIndex": 1267,
         "lb1": {
             "attack": 785,
             "defense": 763,
@@ -88621,7 +88774,7 @@ window.allHeroes =
         ],
         "family": "nidavellir",
         "costume_id": 0,
-        "originalIndex": 1266,
+        "originalIndex": 1268,
         "lb1": {
             "attack": 1276,
             "defense": 1229,
@@ -88665,7 +88818,7 @@ window.allHeroes =
         "color": "Red",
         "class": "Rogue",
         "speed": "Fast",
-        "skill": "Cursed Plan",
+        "skill": "Master Plan",
         "types": [
             "Dispeller 3",
             "Hit 3",
@@ -88709,7 +88862,7 @@ window.allHeroes =
         ],
         "family": "nidavellir",
         "costume_id": 1,
-        "originalIndex": 1267,
+        "originalIndex": 1269,
         "lb1": {
             "attack": 1287,
             "defense": 1221,
@@ -88785,7 +88938,7 @@ window.allHeroes =
         ],
         "family": "hotm2020",
         "costume_id": 0,
-        "originalIndex": 1268,
+        "originalIndex": 1270,
         "lb1": {
             "attack": 825,
             "defense": 794,
@@ -88855,7 +89008,7 @@ window.allHeroes =
         ],
         "family": "plains_hunter",
         "costume_id": 0,
-        "originalIndex": 1269,
+        "originalIndex": 1271,
         "lb1": {
             "attack": 1212,
             "defense": 1214,
@@ -88928,7 +89081,7 @@ window.allHeroes =
         ],
         "family": "goblin",
         "costume_id": 0,
-        "originalIndex": 1270,
+        "originalIndex": 1272,
         "lb1": {
             "attack": 1156,
             "defense": 1103,
@@ -88998,7 +89151,7 @@ window.allHeroes =
         "passives": [],
         "family": "investigator",
         "costume_id": 0,
-        "originalIndex": 1271,
+        "originalIndex": 1273,
         "lb1": {
             "attack": 1329,
             "defense": 1249,
@@ -89082,7 +89235,7 @@ window.allHeroes =
         ],
         "family": "beauty_beast",
         "costume_id": 0,
-        "originalIndex": 1272,
+        "originalIndex": 1274,
         "lb1": {
             "attack": 1389,
             "defense": 1394,
@@ -89159,7 +89312,7 @@ window.allHeroes =
         ],
         "family": "hotm2023",
         "costume_id": 0,
-        "originalIndex": 1273,
+        "originalIndex": 1275,
         "lb1": {
             "attack": 872,
             "defense": 772,
@@ -89240,7 +89393,7 @@ window.allHeroes =
         ],
         "family": "plains_hunter",
         "costume_id": 0,
-        "originalIndex": 1274,
+        "originalIndex": 1276,
         "lb1": {
             "attack": 1174,
             "defense": 1201,
@@ -89323,7 +89476,7 @@ window.allHeroes =
         "passives": [],
         "family": "ninja",
         "costume_id": 0,
-        "originalIndex": 1275,
+        "originalIndex": 1277,
         "lb1": {
             "attack": 883,
             "defense": 788,
@@ -89397,7 +89550,7 @@ window.allHeroes =
         ],
         "family": "hotm2021",
         "costume_id": 0,
-        "originalIndex": 1276,
+        "originalIndex": 1278,
         "lb1": {
             "attack": 856,
             "defense": 796,
@@ -89472,7 +89625,7 @@ window.allHeroes =
         ],
         "family": "fox",
         "costume_id": 0,
-        "originalIndex": 1277,
+        "originalIndex": 1279,
         "lb1": {
             "attack": 1203,
             "defense": 1229,
@@ -89555,7 +89708,7 @@ window.allHeroes =
         ],
         "family": "bard",
         "costume_id": 0,
-        "originalIndex": 1278,
+        "originalIndex": 1280,
         "lb1": {
             "attack": 1349,
             "defense": 1232,
@@ -89630,7 +89783,7 @@ window.allHeroes =
         ],
         "family": "astral_demons",
         "costume_id": 0,
-        "originalIndex": 1279,
+        "originalIndex": 1281,
         "lb1": {
             "attack": 1371,
             "defense": 1425,
@@ -89705,7 +89858,7 @@ window.allHeroes =
         "passives": [],
         "family": "winter",
         "costume_id": 0,
-        "originalIndex": 1280,
+        "originalIndex": 1282,
         "lb1": {
             "attack": 666,
             "defense": 894,
@@ -89744,7 +89897,7 @@ window.allHeroes =
         "color": "Red",
         "class": "Sorcerer",
         "speed": "Slow",
-        "skill": "Gift of Rock",
+        "skill": "Ultimate Gift Sack",
         "types": [
             "Hit All",
             "Summoner All",
@@ -89781,7 +89934,7 @@ window.allHeroes =
         ],
         "family": "winter",
         "costume_id": 1,
-        "originalIndex": 1281,
+        "originalIndex": 1283,
         "lb1": {
             "attack": 688,
             "defense": 883,
@@ -89858,7 +90011,7 @@ window.allHeroes =
         ],
         "family": "slayers",
         "costume_id": 0,
-        "originalIndex": 1282,
+        "originalIndex": 1284,
         "lb1": {
             "attack": 794,
             "defense": 872,
@@ -89897,7 +90050,7 @@ window.allHeroes =
         "color": "Red",
         "class": "Paladin",
         "speed": "Slayer",
-        "skill": "Fracturing Cut",
+        "skill": "Fracturing Slash",
         "types": [
             "Hit 3",
             "Defense Debuff 3",
@@ -89940,7 +90093,7 @@ window.allHeroes =
         ],
         "family": "slayers",
         "costume_id": 1,
-        "originalIndex": 1283,
+        "originalIndex": 1285,
         "lb1": {
             "attack": 705,
             "defense": 945,
@@ -90020,7 +90173,7 @@ window.allHeroes =
         ],
         "family": "construct",
         "costume_id": 0,
-        "originalIndex": 1284,
+        "originalIndex": 1286,
         "lb1": {
             "attack": 1127,
             "defense": 1083,
@@ -90094,7 +90247,7 @@ window.allHeroes =
         ],
         "family": "astral_dwarfs",
         "costume_id": 0,
-        "originalIndex": 1285,
+        "originalIndex": 1287,
         "lb1": {
             "attack": 1369,
             "defense": 1323,
@@ -90168,7 +90321,7 @@ window.allHeroes =
         ],
         "family": "sun",
         "costume_id": 0,
-        "originalIndex": 1286,
+        "originalIndex": 1288,
         "lb1": {
             "attack": 959,
             "defense": 843,
@@ -90197,7 +90350,7 @@ window.allHeroes =
         "color": "Red",
         "class": "Wizard",
         "speed": "Fast",
-        "skill": "Flame of the Lioness",
+        "skill": "Pounce of the Lioness",
         "types": [
             "Hit 1",
             "Damage Heal All"
@@ -90235,7 +90388,7 @@ window.allHeroes =
         ],
         "family": "sun",
         "costume_id": 1,
-        "originalIndex": 1287,
+        "originalIndex": 1289,
         "lb1": {
             "attack": 987,
             "defense": 821,
@@ -90304,7 +90457,7 @@ window.allHeroes =
         "passives": [],
         "family": "ninja",
         "costume_id": 0,
-        "originalIndex": 1288,
+        "originalIndex": 1290,
         "lb1": {
             "attack": 987,
             "defense": 850,
@@ -90381,7 +90534,7 @@ window.allHeroes =
         ],
         "family": "construct",
         "costume_id": 0,
-        "originalIndex": 1289,
+        "originalIndex": 1291,
         "lb1": {
             "attack": 1409,
             "defense": 1407,
@@ -90457,7 +90610,7 @@ window.allHeroes =
         ],
         "family": "hotm2023",
         "costume_id": 0,
-        "originalIndex": 1290,
+        "originalIndex": 1292,
         "lb1": {
             "attack": 825,
             "defense": 852,
@@ -90533,7 +90686,7 @@ window.allHeroes =
         ],
         "family": "astral_elves",
         "costume_id": 0,
-        "originalIndex": 1291,
+        "originalIndex": 1293,
         "lb1": {
             "attack": 1143,
             "defense": 1078,
@@ -90604,7 +90757,7 @@ window.allHeroes =
         "passives": [],
         "family": "kingdom",
         "costume_id": 0,
-        "originalIndex": 1292,
+        "originalIndex": 1294,
         "lb1": {
             "attack": 852,
             "defense": 859,
@@ -90643,7 +90796,7 @@ window.allHeroes =
         "color": "Red",
         "class": "Rogue",
         "speed": "Average",
-        "skill": "Order to Advance",
+        "skill": "Command to Advance",
         "types": [
             "Hit 3",
             "Summoner",
@@ -90680,7 +90833,7 @@ window.allHeroes =
         ],
         "family": "kingdom",
         "costume_id": 1,
-        "originalIndex": 1293,
+        "originalIndex": 1295,
         "lb1": {
             "attack": 899,
             "defense": 814,
@@ -90756,7 +90909,7 @@ window.allHeroes =
         ],
         "family": "hotm2022",
         "costume_id": 0,
-        "originalIndex": 1294,
+        "originalIndex": 1296,
         "lb1": {
             "attack": 856,
             "defense": 799,
@@ -90830,7 +90983,7 @@ window.allHeroes =
         ],
         "family": "moon",
         "costume_id": 0,
-        "originalIndex": 1295,
+        "originalIndex": 1297,
         "lb1": {
             "attack": 894,
             "defense": 870,
@@ -90868,7 +91021,7 @@ window.allHeroes =
         "color": "Red",
         "class": "Wizard",
         "speed": "Fast",
-        "skill": "Ancient Flames",
+        "skill": "Ancient Spell",
         "types": [
             "Hit 3",
             "Defense Debuff 1"
@@ -90908,7 +91061,7 @@ window.allHeroes =
         ],
         "family": "moon",
         "costume_id": 1,
-        "originalIndex": 1296,
+        "originalIndex": 1298,
         "lb1": {
             "attack": 932,
             "defense": 836,
@@ -90974,7 +91127,7 @@ window.allHeroes =
         "passives": [],
         "family": "easter",
         "costume_id": 0,
-        "originalIndex": 1297,
+        "originalIndex": 1299,
         "lb1": {
             "attack": 1054,
             "defense": 1067,
@@ -91046,7 +91199,7 @@ window.allHeroes =
         ],
         "family": "bear",
         "costume_id": 0,
-        "originalIndex": 1298,
+        "originalIndex": 1300,
         "lb1": {
             "attack": 1114,
             "defense": 1018,
@@ -91115,7 +91268,7 @@ window.allHeroes =
         "passives": [],
         "family": "helheim",
         "costume_id": 0,
-        "originalIndex": 1299,
+        "originalIndex": 1301,
         "lb1": {
             "attack": 832,
             "defense": 814,
@@ -91155,7 +91308,7 @@ window.allHeroes =
         "color": "Red",
         "class": "Barbarian",
         "speed": "Fast",
-        "skill": "Indestructible Claw",
+        "skill": "Adamantite Claw",
         "types": [
             "Hit 3",
             "Bypass",
@@ -91189,7 +91342,7 @@ window.allHeroes =
         "passives": [],
         "family": "helheim",
         "costume_id": 1,
-        "originalIndex": 1300,
+        "originalIndex": 1302,
         "lb1": {
             "attack": 832,
             "defense": 814,
@@ -91270,7 +91423,7 @@ window.allHeroes =
         ],
         "family": "kalevala",
         "costume_id": 0,
-        "originalIndex": 1301,
+        "originalIndex": 1303,
         "lb1": {
             "attack": 912,
             "defense": 1007,
@@ -91309,7 +91462,7 @@ window.allHeroes =
         "color": "Red",
         "class": "Sorcerer",
         "speed": "Average",
-        "skill": "Chords of Inferno",
+        "skill": "Chords of Distortion",
         "types": [
             "Hit All",
             "Attack Debuff",
@@ -91346,7 +91499,7 @@ window.allHeroes =
         ],
         "family": "kalevala",
         "costume_id": 1,
-        "originalIndex": 1302,
+        "originalIndex": 1304,
         "lb1": {
             "attack": 932,
             "defense": 987,
@@ -91419,7 +91572,7 @@ window.allHeroes =
         ],
         "family": "halloween",
         "costume_id": 0,
-        "originalIndex": 1303,
+        "originalIndex": 1305,
         "lb1": {
             "attack": 834,
             "defense": 792,
@@ -91457,7 +91610,7 @@ window.allHeroes =
         "color": "Red",
         "class": "Wizard",
         "speed": "Very Fast",
-        "skill": "Twilight of Ruin",
+        "skill": "Twilight of Sorrow",
         "types": [
             "Hit All",
             "Healing Steal",
@@ -91492,7 +91645,7 @@ window.allHeroes =
         ],
         "family": "halloween",
         "costume_id": 1,
-        "originalIndex": 1304,
+        "originalIndex": 1306,
         "lb1": {
             "attack": 828,
             "defense": 799,
@@ -91566,7 +91719,7 @@ window.allHeroes =
         ],
         "family": "garrison",
         "costume_id": 0,
-        "originalIndex": 1305,
+        "originalIndex": 1307,
         "lb1": {
             "attack": 1214,
             "defense": 1192,
@@ -91642,7 +91795,7 @@ window.allHeroes =
         ],
         "family": "beowulf",
         "costume_id": 0,
-        "originalIndex": 1306,
+        "originalIndex": 1308,
         "lb1": {
             "attack": 1411,
             "defense": 1354,
@@ -91721,7 +91874,7 @@ window.allHeroes =
         ],
         "family": "abyss",
         "costume_id": 0,
-        "originalIndex": 1307,
+        "originalIndex": 1309,
         "lb1": {
             "attack": 899,
             "defense": 865,
@@ -91761,7 +91914,7 @@ window.allHeroes =
         "color": "Red",
         "class": "Monk",
         "speed": "Average",
-        "skill": "Underworld Flame",
+        "skill": "Underworld Blaze",
         "types": [
             "Hit All",
             "Dot All",
@@ -91800,7 +91953,7 @@ window.allHeroes =
         ],
         "family": "abyss",
         "costume_id": 1,
-        "originalIndex": 1308,
+        "originalIndex": 1310,
         "lb1": {
             "attack": 890,
             "defense": 876,
@@ -91871,7 +92024,7 @@ window.allHeroes =
         ],
         "family": "zodiac",
         "costume_id": 0,
-        "originalIndex": 1309,
+        "originalIndex": 1311,
         "lb1": {
             "attack": 921,
             "defense": 883,
@@ -91939,7 +92092,7 @@ window.allHeroes =
         ],
         "family": "journey",
         "costume_id": 0,
-        "originalIndex": 1310,
+        "originalIndex": 1312,
         "lb1": {
             "attack": 1058,
             "defense": 1032,
@@ -92007,7 +92160,7 @@ window.allHeroes =
         ],
         "family": "hotm2021",
         "costume_id": 0,
-        "originalIndex": 1311,
+        "originalIndex": 1313,
         "lb1": {
             "attack": 801,
             "defense": 821,
@@ -92079,7 +92232,7 @@ window.allHeroes =
         ],
         "family": "faun",
         "costume_id": 0,
-        "originalIndex": 1312,
+        "originalIndex": 1314,
         "lb1": {
             "attack": 1338,
             "defense": 1183,
@@ -92155,7 +92308,7 @@ window.allHeroes =
         ],
         "family": "hotm2022",
         "costume_id": 0,
-        "originalIndex": 1313,
+        "originalIndex": 1315,
         "lb1": {
             "attack": 836,
             "defense": 814,
@@ -92230,7 +92383,7 @@ window.allHeroes =
         ],
         "family": "hotm2024",
         "costume_id": 0,
-        "originalIndex": 1314,
+        "originalIndex": 1316,
         "lb1": {
             "attack": 1152,
             "defense": 934,
@@ -92304,7 +92457,7 @@ window.allHeroes =
         ],
         "family": "super_elemental",
         "costume_id": 0,
-        "originalIndex": 1315,
+        "originalIndex": 1317,
         "lb1": {
             "attack": 1076,
             "defense": 1018,
@@ -92371,7 +92524,7 @@ window.allHeroes =
         ],
         "family": "abyss",
         "costume_id": 0,
-        "originalIndex": 1316,
+        "originalIndex": 1318,
         "lb1": {
             "attack": 888,
             "defense": 814,
@@ -92404,7 +92557,7 @@ window.allHeroes =
         "color": "Red",
         "class": "Sorcerer",
         "speed": "Average",
-        "skill": "Floral Sting",
+        "skill": "Dual Sting",
         "types": [
             "Hit 2",
             "Board Alterer"
@@ -92443,7 +92596,7 @@ window.allHeroes =
         ],
         "family": "abyss",
         "costume_id": 1,
-        "originalIndex": 1317,
+        "originalIndex": 1319,
         "lb1": {
             "attack": 901,
             "defense": 799,
@@ -92511,7 +92664,7 @@ window.allHeroes =
         ],
         "family": "slime",
         "costume_id": 0,
-        "originalIndex": 1318,
+        "originalIndex": 1320,
         "lb1": {
             "attack": 1389,
             "defense": 1351,
@@ -92589,7 +92742,7 @@ window.allHeroes =
         ],
         "family": "hotm2024",
         "costume_id": 0,
-        "originalIndex": 1319,
+        "originalIndex": 1321,
         "lb1": {
             "attack": 1223,
             "defense": 1047,
@@ -92662,7 +92815,7 @@ window.allHeroes =
         "passives": [],
         "family": "hotm2018",
         "costume_id": 0,
-        "originalIndex": 1320,
+        "originalIndex": 1322,
         "lb1": {
             "attack": 770,
             "defense": 734,
@@ -92700,7 +92853,7 @@ window.allHeroes =
         "color": "Red",
         "class": "Paladin",
         "speed": "Fast",
-        "skill": "Morning Catch",
+        "skill": "Dawn Strike",
         "types": [
             "Dispeller",
             "Hit all"
@@ -92735,7 +92888,7 @@ window.allHeroes =
         ],
         "family": "hotm2018",
         "costume_id": 1,
-        "originalIndex": 1321,
+        "originalIndex": 1323,
         "lb1": {
             "attack": 765,
             "defense": 750,
@@ -92796,7 +92949,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 0,
-        "originalIndex": 1322,
+        "originalIndex": 1324,
         "lb1": {
             "attack": 222,
             "defense": 189,
@@ -92841,7 +92994,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 0,
-        "originalIndex": 1323,
+        "originalIndex": 1325,
         "lb1": {
             "attack": 205,
             "defense": 188,
@@ -92886,7 +93039,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 0,
-        "originalIndex": 1324,
+        "originalIndex": 1326,
         "lb1": {
             "attack": 366,
             "defense": 341,
@@ -92934,7 +93087,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 0,
-        "originalIndex": 1325,
+        "originalIndex": 1327,
         "lb1": {
             "attack": 331,
             "defense": 343,
@@ -92979,7 +93132,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 0,
-        "originalIndex": 1326,
+        "originalIndex": 1328,
         "lb1": {
             "attack": 275,
             "defense": 345,
@@ -93026,7 +93179,7 @@ window.allHeroes =
         "passives": [],
         "family": "asgard",
         "costume_id": 0,
-        "originalIndex": 1327,
+        "originalIndex": 1329,
         "lb1": {
             "attack": 630,
             "defense": 551,
@@ -93091,7 +93244,7 @@ window.allHeroes =
         "passives": [],
         "family": "sand",
         "costume_id": 0,
-        "originalIndex": 1328,
+        "originalIndex": 1330,
         "lb1": {
             "attack": 541,
             "defense": 474,
@@ -93153,7 +93306,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 0,
-        "originalIndex": 1329,
+        "originalIndex": 1331,
         "lb1": {
             "attack": 531,
             "defense": 464,
@@ -93186,7 +93339,7 @@ window.allHeroes =
         "color": "Yellow",
         "class": "Ranger",
         "speed": "Fast",
-        "skill": "Harmonic Bash",
+        "skill": "Harmonic Slam",
         "types": [
             "Hit 1",
             "Blind 1"
@@ -93213,7 +93366,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 1,
-        "originalIndex": 1330,
+        "originalIndex": 1332,
         "lb1": {
             "attack": 571,
             "defense": 457,
@@ -93246,7 +93399,7 @@ window.allHeroes =
         "color": "Yellow",
         "class": "Monk",
         "speed": "Fast",
-        "skill": "Toon Slam",
+        "skill": "Harmonic Slam",
         "types": [
             "Hit 1",
             "Blind 1"
@@ -93279,7 +93432,7 @@ window.allHeroes =
         ],
         "family": "classic",
         "costume_id": 2,
-        "originalIndex": 1331,
+        "originalIndex": 1333,
         "lb1": {
             "attack": 541,
             "defense": 447,
@@ -93317,7 +93470,7 @@ window.allHeroes =
         "color": "Yellow",
         "class": "Monk",
         "speed": "Fast",
-        "skill": "Glass Slam",
+        "skill": "Harmonic Slam",
         "types": [
             "Hit 1",
             "Bypass",
@@ -93351,7 +93504,7 @@ window.allHeroes =
         ],
         "family": "classic",
         "costume_id": 3,
-        "originalIndex": 1332,
+        "originalIndex": 1334,
         "lb1": {
             "attack": 545,
             "defense": 443,
@@ -93412,7 +93565,7 @@ window.allHeroes =
         "passives": [],
         "family": "wolf",
         "costume_id": 0,
-        "originalIndex": 1333,
+        "originalIndex": 1335,
         "lb1": {
             "attack": 557,
             "defense": 522,
@@ -93466,7 +93619,7 @@ window.allHeroes =
         "passives": [],
         "family": "circus",
         "costume_id": 0,
-        "originalIndex": 1334,
+        "originalIndex": 1336,
         "lb1": {
             "attack": 527,
             "defense": 553,
@@ -93531,7 +93684,7 @@ window.allHeroes =
         ],
         "family": "jungle_hunter",
         "costume_id": 0,
-        "originalIndex": 1335,
+        "originalIndex": 1337,
         "lb1": {
             "attack": 606,
             "defense": 541,
@@ -93597,7 +93750,7 @@ window.allHeroes =
         "passives": [],
         "family": "cultist",
         "costume_id": 0,
-        "originalIndex": 1336,
+        "originalIndex": 1338,
         "lb1": {
             "attack": 551,
             "defense": 529,
@@ -93655,7 +93808,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 0,
-        "originalIndex": 1337,
+        "originalIndex": 1339,
         "lb1": {
             "attack": 553,
             "defense": 443,
@@ -93683,7 +93836,7 @@ window.allHeroes =
         "color": "Yellow",
         "class": "Barbarian",
         "speed": "Average",
-        "skill": "Pounding Attack",
+        "skill": "Leaping Attack",
         "types": [
             "Hit 1",
             "Hit Random 1"
@@ -93710,7 +93863,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 1,
-        "originalIndex": 1338,
+        "originalIndex": 1340,
         "lb1": {
             "attack": 569,
             "defense": 457,
@@ -93744,7 +93897,7 @@ window.allHeroes =
         "color": "Yellow",
         "class": "Rogue",
         "speed": "Average",
-        "skill": "Toon Attack",
+        "skill": "Leaping Attack",
         "types": [
             "Hit 3"
         ],
@@ -93774,7 +93927,7 @@ window.allHeroes =
         ],
         "family": "classic",
         "costume_id": 2,
-        "originalIndex": 1339,
+        "originalIndex": 1341,
         "lb1": {
             "attack": 529,
             "defense": 506,
@@ -93807,7 +93960,7 @@ window.allHeroes =
         "color": "Yellow",
         "class": "Rogue",
         "speed": "Average",
-        "skill": "Glass Attack",
+        "skill": "Leaping Attack",
         "types": [
             "Hit 3",
             "Bypass"
@@ -93838,7 +93991,7 @@ window.allHeroes =
         ],
         "family": "classic",
         "costume_id": 3,
-        "originalIndex": 1340,
+        "originalIndex": 1342,
         "lb1": {
             "attack": 539,
             "defense": 500,
@@ -93907,7 +94060,7 @@ window.allHeroes =
         ],
         "family": "beachparty",
         "costume_id": 0,
-        "originalIndex": 1341,
+        "originalIndex": 1343,
         "lb1": {
             "attack": 594,
             "defense": 555,
@@ -93975,7 +94128,7 @@ window.allHeroes =
         ],
         "family": "plains_hunter",
         "costume_id": 0,
-        "originalIndex": 1342,
+        "originalIndex": 1344,
         "lb1": {
             "attack": 494,
             "defense": 577,
@@ -94048,7 +94201,7 @@ window.allHeroes =
         ],
         "family": "musketeer",
         "costume_id": 0,
-        "originalIndex": 1343,
+        "originalIndex": 1345,
         "lb1": {
             "attack": 608,
             "defense": 579,
@@ -94087,7 +94240,7 @@ window.allHeroes =
         "color": "Yellow",
         "class": "Barbarian",
         "speed": "Fast",
-        "skill": "Swashbuckling Stab",
+        "skill": "Remorseless Stab",
         "types": [
             "Hit 1",
             "Buff Reflect All",
@@ -94126,7 +94279,7 @@ window.allHeroes =
         ],
         "family": "musketeer",
         "costume_id": 1,
-        "originalIndex": 1344,
+        "originalIndex": 1346,
         "lb1": {
             "attack": 616,
             "defense": 577,
@@ -94191,7 +94344,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 0,
-        "originalIndex": 1345,
+        "originalIndex": 1347,
         "lb1": {
             "attack": 529,
             "defense": 411,
@@ -94224,7 +94377,7 @@ window.allHeroes =
         "color": "Yellow",
         "class": "Barbarian",
         "speed": "Fast",
-        "skill": "Rural Chop",
+        "skill": "Mystic Chop",
         "types": [
             "Hit 1",
             "Mana Reduction 1"
@@ -94251,7 +94404,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 1,
-        "originalIndex": 1346,
+        "originalIndex": 1348,
         "lb1": {
             "attack": 561,
             "defense": 401,
@@ -94284,7 +94437,7 @@ window.allHeroes =
         "color": "Yellow",
         "class": "Monk",
         "speed": "Fast",
-        "skill": "Toon Chop",
+        "skill": "Mystic Chop",
         "types": [
             "Hit 1",
             "Mana Reduction 1"
@@ -94317,7 +94470,7 @@ window.allHeroes =
         ],
         "family": "classic",
         "costume_id": 2,
-        "originalIndex": 1347,
+        "originalIndex": 1349,
         "lb1": {
             "attack": 531,
             "defense": 415,
@@ -94351,7 +94504,7 @@ window.allHeroes =
         "color": "Yellow",
         "class": "Monk",
         "speed": "Fast",
-        "skill": "Glass Chop",
+        "skill": "Mystic Chop",
         "types": [
             "Hit 1",
             "Bypass",
@@ -94385,7 +94538,7 @@ window.allHeroes =
         ],
         "family": "classic",
         "costume_id": 3,
-        "originalIndex": 1348,
+        "originalIndex": 1350,
         "lb1": {
             "attack": 535,
             "defense": 413,
@@ -94450,7 +94603,7 @@ window.allHeroes =
         ],
         "family": "slime",
         "costume_id": 0,
-        "originalIndex": 1349,
+        "originalIndex": 1351,
         "lb1": {
             "attack": 620,
             "defense": 577,
@@ -94522,7 +94675,7 @@ window.allHeroes =
         ],
         "family": "construct",
         "costume_id": 0,
-        "originalIndex": 1350,
+        "originalIndex": 1352,
         "lb1": {
             "attack": 614,
             "defense": 594,
@@ -94594,7 +94747,7 @@ window.allHeroes =
         ],
         "family": "tales1_goodies",
         "costume_id": 0,
-        "originalIndex": 1351,
+        "originalIndex": 1353,
         "lb1": {
             "attack": 579,
             "defense": 535,
@@ -94627,7 +94780,7 @@ window.allHeroes =
         "color": "Yellow",
         "class": "Wizard",
         "speed": "Changing Tides",
-        "skill": "Dubious Mixture",
+        "skill": "Dubious Merchandise",
         "types": [
             "Mana steal 1",
             "Hit 3"
@@ -94669,7 +94822,7 @@ window.allHeroes =
         ],
         "family": "tales1_goodies",
         "costume_id": 1,
-        "originalIndex": 1352,
+        "originalIndex": 1354,
         "lb1": {
             "attack": 500,
             "defense": 626,
@@ -94734,7 +94887,7 @@ window.allHeroes =
         "passives": [],
         "family": "winter",
         "costume_id": 0,
-        "originalIndex": 1353,
+        "originalIndex": 1355,
         "lb1": {
             "attack": 512,
             "defense": 525,
@@ -94799,7 +94952,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 0,
-        "originalIndex": 1354,
+        "originalIndex": 1356,
         "lb1": {
             "attack": 486,
             "defense": 514,
@@ -94828,7 +94981,7 @@ window.allHeroes =
         "color": "Yellow",
         "class": "Sorcerer",
         "speed": "Slow",
-        "skill": "Spirit Rally",
+        "skill": "Spirit Link",
         "types": [
             "Ally Damage Share",
             "Attack Buff All"
@@ -94855,7 +95008,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 1,
-        "originalIndex": 1355,
+        "originalIndex": 1357,
         "lb1": {
             "attack": 457,
             "defense": 537,
@@ -94884,7 +95037,7 @@ window.allHeroes =
         "color": "Yellow",
         "class": "Cleric",
         "speed": "Slow",
-        "skill": "Toontastic Link",
+        "skill": "Spirit Link",
         "types": [
             "Ally Damage Share",
             "Defense Buff All"
@@ -94915,7 +95068,7 @@ window.allHeroes =
         ],
         "family": "classic",
         "costume_id": 2,
-        "originalIndex": 1356,
+        "originalIndex": 1358,
         "lb1": {
             "attack": 484,
             "defense": 518,
@@ -94944,7 +95097,7 @@ window.allHeroes =
         "color": "Yellow",
         "class": "Cleric",
         "speed": "Slow",
-        "skill": "Glass Link",
+        "skill": "Spirit Link",
         "types": [
             "Ally Damage Share",
             "Defense Buff All",
@@ -94979,7 +95132,7 @@ window.allHeroes =
         ],
         "family": "classic",
         "costume_id": 3,
-        "originalIndex": 1357,
+        "originalIndex": 1359,
         "lb1": {
             "attack": 470,
             "defense": 531,
@@ -95041,7 +95194,7 @@ window.allHeroes =
         "passives": [],
         "family": "ninja",
         "costume_id": 0,
-        "originalIndex": 1358,
+        "originalIndex": 1360,
         "lb1": {
             "attack": 616,
             "defense": 583,
@@ -95098,7 +95251,7 @@ window.allHeroes =
         "passives": [],
         "family": "alfheim",
         "costume_id": 0,
-        "originalIndex": 1359,
+        "originalIndex": 1361,
         "lb1": {
             "attack": 486,
             "defense": 480,
@@ -95137,7 +95290,7 @@ window.allHeroes =
         "color": "Yellow",
         "class": "Paladin",
         "speed": "Fast",
-        "skill": "Bee Bombast",
+        "skill": "Bee Bravado",
         "types": [
             "Summoner"
         ],
@@ -95166,7 +95319,7 @@ window.allHeroes =
         "passives": [],
         "family": "alfheim",
         "costume_id": 1,
-        "originalIndex": 1360,
+        "originalIndex": 1362,
         "lb1": {
             "attack": 472,
             "defense": 488,
@@ -95231,7 +95384,7 @@ window.allHeroes =
         "passives": [],
         "family": "atlantis",
         "costume_id": 0,
-        "originalIndex": 1361,
+        "originalIndex": 1363,
         "lb1": {
             "attack": 573,
             "defense": 459,
@@ -95264,7 +95417,7 @@ window.allHeroes =
         "color": "Yellow",
         "class": "Fighter",
         "speed": "Fast",
-        "skill": "Atlantean Blade",
+        "skill": "Atlantean Sword",
         "types": [
             "Hit All",
             "Accuracy Debuff"
@@ -95291,7 +95444,7 @@ window.allHeroes =
         "passives": [],
         "family": "atlantis",
         "costume_id": 1,
-        "originalIndex": 1362,
+        "originalIndex": 1364,
         "lb1": {
             "attack": 589,
             "defense": 447,
@@ -95357,7 +95510,7 @@ window.allHeroes =
         ],
         "family": "owl",
         "costume_id": 0,
-        "originalIndex": 1363,
+        "originalIndex": 1365,
         "lb1": {
             "attack": 490,
             "defense": 604,
@@ -95413,7 +95566,7 @@ window.allHeroes =
         "passives": [],
         "family": "fable",
         "costume_id": 0,
-        "originalIndex": 1364,
+        "originalIndex": 1366,
         "lb1": {
             "attack": 484,
             "defense": 494,
@@ -95475,7 +95628,7 @@ window.allHeroes =
         ],
         "family": "abyss",
         "costume_id": 0,
-        "originalIndex": 1365,
+        "originalIndex": 1367,
         "lb1": {
             "attack": 563,
             "defense": 514,
@@ -95504,7 +95657,7 @@ window.allHeroes =
         "color": "Yellow",
         "class": "Rogue",
         "speed": "Fast",
-        "skill": "Drowsy Bolt",
+        "skill": "Ricochet Bolt",
         "types": [
             "Hit 1"
         ],
@@ -95534,7 +95687,7 @@ window.allHeroes =
         ],
         "family": "abyss",
         "costume_id": 1,
-        "originalIndex": 1366,
+        "originalIndex": 1368,
         "lb1": {
             "attack": 567,
             "defense": 512,
@@ -95595,7 +95748,7 @@ window.allHeroes =
         ],
         "family": "sun",
         "costume_id": 0,
-        "originalIndex": 1367,
+        "originalIndex": 1369,
         "lb1": {
             "attack": 533,
             "defense": 559,
@@ -95629,7 +95782,7 @@ window.allHeroes =
         "color": "Yellow",
         "class": "Cleric",
         "speed": "Average",
-        "skill": "Puzzling Paint",
+        "skill": "Puzzling Riddle",
         "types": [
             "Boosted HoT"
         ],
@@ -95667,7 +95820,7 @@ window.allHeroes =
         ],
         "family": "sun",
         "costume_id": 1,
-        "originalIndex": 1368,
+        "originalIndex": 1370,
         "lb1": {
             "attack": 547,
             "defense": 551,
@@ -95736,7 +95889,7 @@ window.allHeroes =
         ],
         "family": "mighty_pet",
         "costume_id": 0,
-        "originalIndex": 1369,
+        "originalIndex": 1371,
         "lb1": {
             "attack": 551,
             "defense": 567,
@@ -95814,7 +95967,7 @@ window.allHeroes =
         ],
         "family": "construct",
         "costume_id": 0,
-        "originalIndex": 1370,
+        "originalIndex": 1372,
         "lb1": {
             "attack": 561,
             "defense": 577,
@@ -95873,7 +96026,7 @@ window.allHeroes =
         "passives": [],
         "family": "pirate",
         "costume_id": 0,
-        "originalIndex": 1371,
+        "originalIndex": 1373,
         "lb1": {
             "attack": 549,
             "defense": 529,
@@ -95939,7 +96092,7 @@ window.allHeroes =
         ],
         "family": "faun",
         "costume_id": 0,
-        "originalIndex": 1372,
+        "originalIndex": 1374,
         "lb1": {
             "attack": 606,
             "defense": 539,
@@ -96012,7 +96165,7 @@ window.allHeroes =
         ],
         "family": "beowulf",
         "costume_id": 0,
-        "originalIndex": 1373,
+        "originalIndex": 1375,
         "lb1": {
             "attack": 771,
             "defense": 801,
@@ -96085,7 +96238,7 @@ window.allHeroes =
         ],
         "family": "magic",
         "costume_id": 0,
-        "originalIndex": 1374,
+        "originalIndex": 1376,
         "lb1": {
             "attack": 725,
             "defense": 681,
@@ -96149,7 +96302,7 @@ window.allHeroes =
         ],
         "family": "gargoyle",
         "costume_id": 0,
-        "originalIndex": 1375,
+        "originalIndex": 1377,
         "lb1": {
             "attack": 759,
             "defense": 685,
@@ -96216,7 +96369,7 @@ window.allHeroes =
         ],
         "family": "abyss_hunter",
         "costume_id": 0,
-        "originalIndex": 1376,
+        "originalIndex": 1378,
         "lb1": {
             "attack": 708,
             "defense": 731,
@@ -96286,7 +96439,7 @@ window.allHeroes =
         ],
         "family": "beauty_beast",
         "costume_id": 0,
-        "originalIndex": 1377,
+        "originalIndex": 1379,
         "lb1": {
             "attack": 909,
             "defense": 842,
@@ -96345,7 +96498,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 0,
-        "originalIndex": 1378,
+        "originalIndex": 1380,
         "lb1": {
             "attack": 660,
             "defense": 734,
@@ -96378,7 +96531,7 @@ window.allHeroes =
         "color": "Yellow",
         "class": "Druid",
         "speed": "Fast",
-        "skill": "Ornithological Cut",
+        "skill": "Tactical Cut",
         "types": [
             "Hit 1",
             "Mana steal 1"
@@ -96406,7 +96559,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 1,
-        "originalIndex": 1379,
+        "originalIndex": 1381,
         "lb1": {
             "attack": 697,
             "defense": 704,
@@ -96439,7 +96592,7 @@ window.allHeroes =
         "color": "Yellow",
         "class": "Barbarian",
         "speed": "Fast",
-        "skill": "Cub Leader Cut",
+        "skill": "Tactical Cut",
         "types": [
             "Hit 3",
             "Mana generation debuff 3"
@@ -96466,7 +96619,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 2,
-        "originalIndex": 1380,
+        "originalIndex": 1382,
         "lb1": {
             "attack": 734,
             "defense": 667,
@@ -96499,7 +96652,7 @@ window.allHeroes =
         "color": "Yellow",
         "class": "Ranger",
         "speed": "Fast",
-        "skill": "Toontastic Cut",
+        "skill": "Tactical Cut",
         "types": [
             "Hit 1",
             "Mana Reduction 1"
@@ -96532,7 +96685,7 @@ window.allHeroes =
         ],
         "family": "classic",
         "costume_id": 3,
-        "originalIndex": 1381,
+        "originalIndex": 1383,
         "lb1": {
             "attack": 750,
             "defense": 653,
@@ -96566,7 +96719,7 @@ window.allHeroes =
         "color": "Yellow",
         "class": "Ranger",
         "speed": "Fast",
-        "skill": "Vitrail Cut",
+        "skill": "Tactical Cut",
         "types": [
             "Hit 1",
             "Mana Reduction 1",
@@ -96600,7 +96753,7 @@ window.allHeroes =
         ],
         "family": "classic",
         "costume_id": 4,
-        "originalIndex": 1382,
+        "originalIndex": 1384,
         "lb1": {
             "attack": 768,
             "defense": 634,
@@ -96667,7 +96820,7 @@ window.allHeroes =
         "passives": [],
         "family": "circus",
         "costume_id": 0,
-        "originalIndex": 1383,
+        "originalIndex": 1385,
         "lb1": {
             "attack": 683,
             "defense": 692,
@@ -96737,7 +96890,7 @@ window.allHeroes =
         "passives": [],
         "family": "japanese",
         "costume_id": 0,
-        "originalIndex": 1384,
+        "originalIndex": 1386,
         "lb1": {
             "attack": 676,
             "defense": 692,
@@ -96782,7 +96935,7 @@ window.allHeroes =
         "color": "Yellow",
         "class": "Sorcerer",
         "speed": "Average",
-        "skill": "Amazing Deals",
+        "skill": "Trickster's Gambit",
         "types": [
             "Gambler"
         ],
@@ -96820,7 +96973,7 @@ window.allHeroes =
         "passives": [],
         "family": "japanese",
         "costume_id": 1,
-        "originalIndex": 1385,
+        "originalIndex": 1387,
         "lb1": {
             "attack": 644,
             "defense": 704,
@@ -96902,7 +97055,7 @@ window.allHeroes =
         ],
         "family": "astral_dwarfs",
         "costume_id": 0,
-        "originalIndex": 1386,
+        "originalIndex": 1388,
         "lb1": {
             "attack": 785,
             "defense": 852,
@@ -96977,7 +97130,7 @@ window.allHeroes =
         ],
         "family": "nidavellir",
         "costume_id": 0,
-        "originalIndex": 1387,
+        "originalIndex": 1389,
         "lb1": {
             "attack": 780,
             "defense": 755,
@@ -97017,7 +97170,7 @@ window.allHeroes =
         "color": "Yellow",
         "class": "Fighter",
         "speed": "Average",
-        "skill": "Undead Penance",
+        "skill": "Poetic Justice",
         "types": [
             "Bypass Minions",
             "Hit 1",
@@ -97060,7 +97213,7 @@ window.allHeroes =
         ],
         "family": "nidavellir",
         "costume_id": 1,
-        "originalIndex": 1388,
+        "originalIndex": 1390,
         "lb1": {
             "attack": 785,
             "defense": 750,
@@ -97135,7 +97288,7 @@ window.allHeroes =
         ],
         "family": "goblin",
         "costume_id": 0,
-        "originalIndex": 1389,
+        "originalIndex": 1391,
         "lb1": {
             "attack": 699,
             "defense": 778,
@@ -97198,7 +97351,7 @@ window.allHeroes =
         "passives": [],
         "family": "fable",
         "costume_id": 0,
-        "originalIndex": 1390,
+        "originalIndex": 1392,
         "lb1": {
             "attack": 764,
             "defense": 651,
@@ -97266,7 +97419,7 @@ window.allHeroes =
         ],
         "family": "abyss",
         "costume_id": 0,
-        "originalIndex": 1391,
+        "originalIndex": 1393,
         "lb1": {
             "attack": 803,
             "defense": 695,
@@ -97299,7 +97452,7 @@ window.allHeroes =
         "color": "Yellow",
         "class": "Cleric",
         "speed": "Fast",
-        "skill": "Divine Lunge",
+        "skill": "Invisible Strike",
         "types": [
             "Hit 1",
             "Bypass 3"
@@ -97330,7 +97483,7 @@ window.allHeroes =
         ],
         "family": "abyss",
         "costume_id": 1,
-        "originalIndex": 1392,
+        "originalIndex": 1394,
         "lb1": {
             "attack": 808,
             "defense": 713,
@@ -97405,7 +97558,7 @@ window.allHeroes =
         ],
         "family": "outlaw",
         "costume_id": 0,
-        "originalIndex": 1393,
+        "originalIndex": 1395,
         "lb1": {
             "attack": 815,
             "defense": 785,
@@ -97470,7 +97623,7 @@ window.allHeroes =
         "passives": [],
         "family": "guardian",
         "costume_id": 0,
-        "originalIndex": 1394,
+        "originalIndex": 1396,
         "lb1": {
             "attack": 831,
             "defense": 577,
@@ -97503,7 +97656,7 @@ window.allHeroes =
         "color": "Yellow",
         "class": "Barbarian",
         "speed": "Very Fast",
-        "skill": "Severing Strike",
+        "skill": "Ray Strike",
         "types": [
             "Hit 1",
             "Defense Buff"
@@ -97530,7 +97683,7 @@ window.allHeroes =
         "passives": [],
         "family": "guardian",
         "costume_id": 1,
-        "originalIndex": 1395,
+        "originalIndex": 1397,
         "lb1": {
             "attack": 699,
             "defense": 690,
@@ -97590,7 +97743,7 @@ window.allHeroes =
         "passives": [],
         "family": "asgard",
         "costume_id": 0,
-        "originalIndex": 1396,
+        "originalIndex": 1398,
         "lb1": {
             "attack": 660,
             "defense": 660,
@@ -97628,7 +97781,7 @@ window.allHeroes =
         "color": "Yellow",
         "class": "Cleric",
         "speed": "Slow",
-        "skill": "Furious Boar",
+        "skill": "Angry Boar",
         "types": [
             "Health boost"
         ],
@@ -97656,7 +97809,7 @@ window.allHeroes =
         "passives": [],
         "family": "asgard",
         "costume_id": 1,
-        "originalIndex": 1397,
+        "originalIndex": 1399,
         "lb1": {
             "attack": 646,
             "defense": 671,
@@ -97725,7 +97878,7 @@ window.allHeroes =
         "passives": [],
         "family": "winter",
         "costume_id": 0,
-        "originalIndex": 1398,
+        "originalIndex": 1400,
         "lb1": {
             "attack": 676,
             "defense": 778,
@@ -97791,7 +97944,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 0,
-        "originalIndex": 1399,
+        "originalIndex": 1401,
         "lb1": {
             "attack": 655,
             "defense": 685,
@@ -97824,7 +97977,7 @@ window.allHeroes =
         "color": "Yellow",
         "class": "Paladin",
         "speed": "Slow",
-        "skill": "Aura Wave",
+        "skill": "Sonic Wall",
         "types": [
             "Hit All",
             "Blind All",
@@ -97854,7 +98007,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 1,
-        "originalIndex": 1400,
+        "originalIndex": 1402,
         "lb1": {
             "attack": 602,
             "defense": 771,
@@ -97888,7 +98041,7 @@ window.allHeroes =
         "color": "Yellow",
         "class": "Monk",
         "speed": "Slow",
-        "skill": "Acoustic Surge",
+        "skill": "Sonic Wall",
         "types": [
             "Hit all",
             "Blind All",
@@ -97918,7 +98071,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 2,
-        "originalIndex": 1401,
+        "originalIndex": 1403,
         "lb1": {
             "attack": 623,
             "defense": 755,
@@ -97952,7 +98105,7 @@ window.allHeroes =
         "color": "Yellow",
         "class": "Fighter",
         "speed": "Slow",
-        "skill": "Toon Wall",
+        "skill": "Sonic Wall",
         "types": [
             "Hit All",
             "Blind All"
@@ -97985,7 +98138,7 @@ window.allHeroes =
         ],
         "family": "classic",
         "costume_id": 3,
-        "originalIndex": 1402,
+        "originalIndex": 1404,
         "lb1": {
             "attack": 692,
             "defense": 667,
@@ -98023,7 +98176,7 @@ window.allHeroes =
         "color": "Yellow",
         "class": "Fighter",
         "speed": "Slow",
-        "skill": "Glass Wall",
+        "skill": "Sonic Wall",
         "types": [
             "Hit All",
             "Bypass",
@@ -98057,7 +98210,7 @@ window.allHeroes =
         ],
         "family": "classic",
         "costume_id": 4,
-        "originalIndex": 1403,
+        "originalIndex": 1405,
         "lb1": {
             "attack": 743,
             "defense": 623,
@@ -98120,7 +98273,7 @@ window.allHeroes =
         "passives": [],
         "family": "easter",
         "costume_id": 0,
-        "originalIndex": 1404,
+        "originalIndex": 1406,
         "lb1": {
             "attack": 681,
             "defense": 725,
@@ -98179,7 +98332,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 0,
-        "originalIndex": 1405,
+        "originalIndex": 1407,
         "lb1": {
             "attack": 669,
             "defense": 722,
@@ -98212,7 +98365,7 @@ window.allHeroes =
         "color": "Yellow",
         "class": "Rogue",
         "speed": "Average",
-        "skill": "Slash of Seven Daggers",
+        "skill": "Slash of Seven Blades",
         "types": [
             "Hit All",
             "Mana Reduction All"
@@ -98239,7 +98392,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 1,
-        "originalIndex": 1406,
+        "originalIndex": 1408,
         "lb1": {
             "attack": 683,
             "defense": 715,
@@ -98272,7 +98425,7 @@ window.allHeroes =
         "color": "Yellow",
         "class": "Wizard",
         "speed": "Average",
-        "skill": "Slash of the Seven Stilettos",
+        "skill": "Slash of Seven Blades",
         "types": [
             "Hit 3",
             "Silencer 3"
@@ -98299,7 +98452,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 2,
-        "originalIndex": 1407,
+        "originalIndex": 1409,
         "lb1": {
             "attack": 685,
             "defense": 711,
@@ -98332,7 +98485,7 @@ window.allHeroes =
         "color": "Yellow",
         "class": "Monk",
         "speed": "Average",
-        "skill": "Slash of Seven Toons",
+        "skill": "Slash of Seven Blades",
         "types": [
             "Hit All",
             "Mana Reduction All"
@@ -98365,7 +98518,7 @@ window.allHeroes =
         ],
         "family": "classic",
         "costume_id": 3,
-        "originalIndex": 1408,
+        "originalIndex": 1410,
         "lb1": {
             "attack": 674,
             "defense": 725,
@@ -98399,7 +98552,7 @@ window.allHeroes =
         "color": "Yellow",
         "class": "Monk",
         "speed": "Average",
-        "skill": "Slash of Glass Blades",
+        "skill": "Slash of Seven Blades",
         "types": [
             "Hit All",
             "Bypass",
@@ -98433,7 +98586,7 @@ window.allHeroes =
         ],
         "family": "classic",
         "costume_id": 4,
-        "originalIndex": 1409,
+        "originalIndex": 1411,
         "lb1": {
             "attack": 734,
             "defense": 678,
@@ -98498,7 +98651,7 @@ window.allHeroes =
         "passives": [],
         "family": "midgard",
         "costume_id": 0,
-        "originalIndex": 1410,
+        "originalIndex": 1412,
         "lb1": {
             "attack": 745,
             "defense": 655,
@@ -98568,7 +98721,7 @@ window.allHeroes =
         ],
         "family": "moon",
         "costume_id": 0,
-        "originalIndex": 1411,
+        "originalIndex": 1413,
         "lb1": {
             "attack": 688,
             "defense": 711,
@@ -98602,7 +98755,7 @@ window.allHeroes =
         "color": "Yellow",
         "class": "Paladin",
         "speed": "Fast",
-        "skill": "Scarab Barrage",
+        "skill": "Scarab Throw",
         "types": [
             "Hit 1",
             "Exploding Fiend Summoner 1"
@@ -98643,7 +98796,7 @@ window.allHeroes =
         ],
         "family": "moon",
         "costume_id": 1,
-        "originalIndex": 1412,
+        "originalIndex": 1414,
         "lb1": {
             "attack": 718,
             "defense": 690,
@@ -98677,7 +98830,7 @@ window.allHeroes =
         "color": "Yellow",
         "class": "Cleric",
         "speed": "Styx",
-        "skill": "Midnight Moon",
+        "skill": "Mending Masterpiece",
         "types": [
             "Charge",
             "Boosted HoT",
@@ -98716,7 +98869,7 @@ window.allHeroes =
         ],
         "family": "styx",
         "costume_id": 0,
-        "originalIndex": 1413,
+        "originalIndex": 1415,
         "lb1": {
             "attack": 669,
             "defense": 801,
@@ -98788,7 +98941,7 @@ window.allHeroes =
         ],
         "family": "wild_cat",
         "costume_id": 0,
-        "originalIndex": 1414,
+        "originalIndex": 1416,
         "lb1": {
             "attack": 921,
             "defense": 828,
@@ -98852,7 +99005,7 @@ window.allHeroes =
         ],
         "family": "cupid",
         "costume_id": 0,
-        "originalIndex": 1415,
+        "originalIndex": 1417,
         "lb1": {
             "attack": 706,
             "defense": 699,
@@ -98917,7 +99070,7 @@ window.allHeroes =
         ],
         "family": "mighty_pet",
         "costume_id": 0,
-        "originalIndex": 1416,
+        "originalIndex": 1418,
         "lb1": {
             "attack": 681,
             "defense": 759,
@@ -98976,7 +99129,7 @@ window.allHeroes =
         "passives": [],
         "family": "kingdom",
         "costume_id": 0,
-        "originalIndex": 1417,
+        "originalIndex": 1419,
         "lb1": {
             "attack": 734,
             "defense": 771,
@@ -99009,7 +99162,7 @@ window.allHeroes =
         "color": "Yellow",
         "class": "Cleric",
         "speed": "Slow",
-        "skill": "Calligrapher's Empathy",
+        "skill": "Noble's Empathy",
         "types": [
             "Fiend Destroyer All",
             "Health Boost All",
@@ -99046,7 +99199,7 @@ window.allHeroes =
         ],
         "family": "kingdom",
         "costume_id": 1,
-        "originalIndex": 1418,
+        "originalIndex": 1420,
         "lb1": {
             "attack": 711,
             "defense": 794,
@@ -99109,7 +99262,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 0,
-        "originalIndex": 1419,
+        "originalIndex": 1421,
         "lb1": {
             "attack": 768,
             "defense": 674,
@@ -99142,7 +99295,7 @@ window.allHeroes =
         "color": "Yellow",
         "class": "Paladin",
         "speed": "Average",
-        "skill": "Gambler's Slash",
+        "skill": "Gambler's Stance",
         "types": [
             "Hit all"
         ],
@@ -99168,7 +99321,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 1,
-        "originalIndex": 1420,
+        "originalIndex": 1422,
         "lb1": {
             "attack": 755,
             "defense": 715,
@@ -99201,7 +99354,7 @@ window.allHeroes =
         "color": "Yellow",
         "class": "Rogue",
         "speed": "Average",
-        "skill": "Gambler's Swing",
+        "skill": "Gambler's Stance",
         "types": [
             "Titan Attack Buff"
         ],
@@ -99226,7 +99379,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 2,
-        "originalIndex": 1421,
+        "originalIndex": 1423,
         "lb1": {
             "attack": 755,
             "defense": 685,
@@ -99259,7 +99412,7 @@ window.allHeroes =
         "color": "Yellow",
         "class": "Monk",
         "speed": "Average",
-        "skill": "Toon Stance",
+        "skill": "Gambler's Stance",
         "types": [
             "Titan Attack Buff"
         ],
@@ -99288,7 +99441,7 @@ window.allHeroes =
         ],
         "family": "classic",
         "costume_id": 3,
-        "originalIndex": 1422,
+        "originalIndex": 1424,
         "lb1": {
             "attack": 692,
             "defense": 738,
@@ -99321,7 +99474,7 @@ window.allHeroes =
         "color": "Yellow",
         "class": "Monk",
         "speed": "Average",
-        "skill": "Glass Stance",
+        "skill": "Gambler's Stance",
         "types": [
             "Titan Attack Buff",
             "Debuff Reflect for Holy Allies"
@@ -99353,7 +99506,7 @@ window.allHeroes =
         ],
         "family": "classic",
         "costume_id": 4,
-        "originalIndex": 1423,
+        "originalIndex": 1425,
         "lb1": {
             "attack": 706,
             "defense": 729,
@@ -99423,7 +99576,7 @@ window.allHeroes =
         ],
         "family": "super_elemental",
         "costume_id": 0,
-        "originalIndex": 1424,
+        "originalIndex": 1426,
         "lb1": {
             "attack": 738,
             "defense": 750,
@@ -99485,7 +99638,7 @@ window.allHeroes =
         ],
         "family": "abyss",
         "costume_id": 0,
-        "originalIndex": 1425,
+        "originalIndex": 1427,
         "lb1": {
             "attack": 843,
             "defense": 832,
@@ -99518,7 +99671,7 @@ window.allHeroes =
         "color": "Yellow",
         "class": "Barbarian",
         "speed": "Fast",
-        "skill": "Colossal Carry",
+        "skill": "Colossal Chops",
         "types": [
             "Hit 3",
             "Dodge stack"
@@ -99556,7 +99709,7 @@ window.allHeroes =
         ],
         "family": "abyss",
         "costume_id": 1,
-        "originalIndex": 1426,
+        "originalIndex": 1428,
         "lb1": {
             "attack": 816,
             "defense": 850,
@@ -99624,7 +99777,7 @@ window.allHeroes =
         "passives": [],
         "family": "winter",
         "costume_id": 0,
-        "originalIndex": 1427,
+        "originalIndex": 1429,
         "lb1": {
             "attack": 1194,
             "defense": 1232,
@@ -99694,7 +99847,7 @@ window.allHeroes =
         ],
         "family": "stag",
         "costume_id": 0,
-        "originalIndex": 1428,
+        "originalIndex": 1430,
         "lb1": {
             "attack": 1256,
             "defense": 1192,
@@ -99769,7 +99922,7 @@ window.allHeroes =
         ],
         "family": "plains_hunter",
         "costume_id": 0,
-        "originalIndex": 1429,
+        "originalIndex": 1431,
         "lb1": {
             "attack": 1287,
             "defense": 1238,
@@ -99836,7 +99989,7 @@ window.allHeroes =
         "passives": [],
         "family": "pirate",
         "costume_id": 0,
-        "originalIndex": 1430,
+        "originalIndex": 1432,
         "lb1": {
             "attack": 883,
             "defense": 859,
@@ -99905,7 +100058,7 @@ window.allHeroes =
         ],
         "family": "cupid",
         "costume_id": 0,
-        "originalIndex": 1431,
+        "originalIndex": 1433,
         "lb1": {
             "attack": 1320,
             "defense": 1196,
@@ -99972,7 +100125,7 @@ window.allHeroes =
         ],
         "family": "abyss",
         "costume_id": 0,
-        "originalIndex": 1432,
+        "originalIndex": 1434,
         "lb1": {
             "attack": 874,
             "defense": 843,
@@ -100005,7 +100158,7 @@ window.allHeroes =
         "color": "Yellow",
         "class": "Ranger",
         "speed": "Fast",
-        "skill": "Scepter of Bundelkhand",
+        "skill": "Blade of Bundelkhand",
         "types": [
             "Hit 1"
         ],
@@ -100039,7 +100192,7 @@ window.allHeroes =
         ],
         "family": "abyss",
         "costume_id": 1,
-        "originalIndex": 1433,
+        "originalIndex": 1435,
         "lb1": {
             "attack": 939,
             "defense": 843,
@@ -100124,7 +100277,7 @@ window.allHeroes =
         ],
         "family": "mimic",
         "costume_id": 0,
-        "originalIndex": 1434,
+        "originalIndex": 1436,
         "lb1": {
             "attack": 1367,
             "defense": 1367,
@@ -100208,7 +100361,7 @@ window.allHeroes =
         ],
         "family": "fox",
         "costume_id": 0,
-        "originalIndex": 1435,
+        "originalIndex": 1437,
         "lb1": {
             "attack": 1305,
             "defense": 1272,
@@ -100289,7 +100442,7 @@ window.allHeroes =
         ],
         "family": "bard",
         "costume_id": 0,
-        "originalIndex": 1436,
+        "originalIndex": 1438,
         "lb1": {
             "attack": 999,
             "defense": 1349,
@@ -100361,7 +100514,7 @@ window.allHeroes =
         ],
         "family": "moths",
         "costume_id": 0,
-        "originalIndex": 1437,
+        "originalIndex": 1439,
         "lb1": {
             "attack": 1434,
             "defense": 1203,
@@ -100438,7 +100591,7 @@ window.allHeroes =
         ],
         "family": "hotm2025",
         "costume_id": 0,
-        "originalIndex": 1438,
+        "originalIndex": 1440,
         "lb1": {
             "attack": 1316,
             "defense": 1292,
@@ -100513,7 +100666,7 @@ window.allHeroes =
         ],
         "family": "hotm2024",
         "costume_id": 0,
-        "originalIndex": 1439,
+        "originalIndex": 1441,
         "lb1": {
             "attack": 1110,
             "defense": 1036,
@@ -100586,7 +100739,7 @@ window.allHeroes =
         ],
         "family": "hotm2020",
         "costume_id": 0,
-        "originalIndex": 1440,
+        "originalIndex": 1442,
         "lb1": {
             "attack": 808,
             "defense": 792,
@@ -100654,7 +100807,7 @@ window.allHeroes =
         ],
         "family": "zodiac",
         "costume_id": 0,
-        "originalIndex": 1441,
+        "originalIndex": 1443,
         "lb1": {
             "attack": 1267,
             "defense": 1207,
@@ -100728,7 +100881,7 @@ window.allHeroes =
         ],
         "family": "myrkheim",
         "costume_id": 0,
-        "originalIndex": 1442,
+        "originalIndex": 1444,
         "lb1": {
             "attack": 1371,
             "defense": 1367,
@@ -100803,7 +100956,7 @@ window.allHeroes =
         ],
         "family": "slayers",
         "costume_id": 0,
-        "originalIndex": 1443,
+        "originalIndex": 1445,
         "lb1": {
             "attack": 777,
             "defense": 885,
@@ -100843,7 +100996,7 @@ window.allHeroes =
         "color": "Yellow",
         "class": "Fighter",
         "speed": "Slayer",
-        "skill": "Dispelling Judgement",
+        "skill": "Dispelling Willpower",
         "types": [
             "Dispeller All",
             "Hit All",
@@ -100888,7 +101041,7 @@ window.allHeroes =
         ],
         "family": "slayers",
         "costume_id": 1,
-        "originalIndex": 1444,
+        "originalIndex": 1446,
         "lb1": {
             "attack": 828,
             "defense": 819,
@@ -100965,7 +101118,7 @@ window.allHeroes =
         ],
         "family": "hotm2022",
         "costume_id": 0,
-        "originalIndex": 1445,
+        "originalIndex": 1447,
         "lb1": {
             "attack": 790,
             "defense": 859,
@@ -101044,7 +101197,7 @@ window.allHeroes =
         ],
         "family": "opera",
         "costume_id": 0,
-        "originalIndex": 1446,
+        "originalIndex": 1448,
         "lb1": {
             "attack": 1072,
             "defense": 963,
@@ -101113,7 +101266,7 @@ window.allHeroes =
         ],
         "family": "sun",
         "costume_id": 0,
-        "originalIndex": 1447,
+        "originalIndex": 1449,
         "lb1": {
             "attack": 828,
             "defense": 916,
@@ -101147,7 +101300,7 @@ window.allHeroes =
         "color": "Yellow",
         "class": "Paladin",
         "speed": "Average",
-        "skill": "Channeler of the Cats",
+        "skill": "Channeler of the Gods",
         "types": [
             "Healer",
             "Status Ailment Immunity"
@@ -101188,7 +101341,7 @@ window.allHeroes =
         ],
         "family": "sun",
         "costume_id": 1,
-        "originalIndex": 1448,
+        "originalIndex": 1450,
         "lb1": {
             "attack": 808,
             "defense": 930,
@@ -101252,7 +101405,7 @@ window.allHeroes =
         ],
         "family": "musketeer",
         "costume_id": 0,
-        "originalIndex": 1449,
+        "originalIndex": 1451,
         "lb1": {
             "attack": 939,
             "defense": 976,
@@ -101325,7 +101478,7 @@ window.allHeroes =
         ],
         "family": "abyss_hunter",
         "costume_id": 0,
-        "originalIndex": 1450,
+        "originalIndex": 1452,
         "lb1": {
             "attack": 916,
             "defense": 963,
@@ -101387,7 +101540,7 @@ window.allHeroes =
         "passives": [],
         "family": "hotm2018",
         "costume_id": 0,
-        "originalIndex": 1451,
+        "originalIndex": 1453,
         "lb1": {
             "attack": 794,
             "defense": 759,
@@ -101420,7 +101573,7 @@ window.allHeroes =
         "color": "Yellow",
         "class": "Paladin",
         "speed": "Average",
-        "skill": "Summon Celestial Guardians",
+        "skill": "Summon Temple Guardians",
         "types": [
             "Healer",
             "Summoner"
@@ -101454,7 +101607,7 @@ window.allHeroes =
         ],
         "family": "hotm2018",
         "costume_id": 1,
-        "originalIndex": 1452,
+        "originalIndex": 1454,
         "lb1": {
             "attack": 772,
             "defense": 774,
@@ -101526,7 +101679,7 @@ window.allHeroes =
         ],
         "family": "hotm2021",
         "costume_id": 0,
-        "originalIndex": 1453,
+        "originalIndex": 1455,
         "lb1": {
             "attack": 799,
             "defense": 814,
@@ -101594,7 +101747,7 @@ window.allHeroes =
         "passives": [],
         "family": "circus",
         "costume_id": 0,
-        "originalIndex": 1454,
+        "originalIndex": 1456,
         "lb1": {
             "attack": 825,
             "defense": 832,
@@ -101632,7 +101785,7 @@ window.allHeroes =
         "color": "Yellow",
         "class": "Cleric",
         "speed": "Average",
-        "skill": "Clown's Blessing",
+        "skill": "Director's Blessing",
         "types": [
             "Heal All",
             "Summoner All",
@@ -101666,7 +101819,7 @@ window.allHeroes =
         ],
         "family": "circus",
         "costume_id": 1,
-        "originalIndex": 1455,
+        "originalIndex": 1457,
         "lb1": {
             "attack": 759,
             "defense": 932,
@@ -101743,7 +101896,7 @@ window.allHeroes =
         ],
         "family": "investigator",
         "costume_id": 0,
-        "originalIndex": 1456,
+        "originalIndex": 1458,
         "lb1": {
             "attack": 1223,
             "defense": 1189,
@@ -101813,7 +101966,7 @@ window.allHeroes =
         "passives": [],
         "family": "hotm2018",
         "costume_id": 0,
-        "originalIndex": 1457,
+        "originalIndex": 1459,
         "lb1": {
             "attack": 783,
             "defense": 768,
@@ -101846,7 +101999,7 @@ window.allHeroes =
         "color": "Yellow",
         "class": "Fighter",
         "speed": "Fast",
-        "skill": "Fabled Fist",
+        "skill": "Flails of Fury",
         "types": [
             "Hit 3",
             "Blind"
@@ -101881,7 +102034,7 @@ window.allHeroes =
         ],
         "family": "hotm2018",
         "costume_id": 1,
-        "originalIndex": 1458,
+        "originalIndex": 1460,
         "lb1": {
             "attack": 794,
             "defense": 761,
@@ -101942,7 +102095,7 @@ window.allHeroes =
         "passives": [],
         "family": "raven",
         "costume_id": 0,
-        "originalIndex": 1459,
+        "originalIndex": 1461,
         "lb1": {
             "attack": 865,
             "defense": 854,
@@ -102025,7 +102178,7 @@ window.allHeroes =
         ],
         "family": "mimic",
         "costume_id": 0,
-        "originalIndex": 1460,
+        "originalIndex": 1462,
         "lb1": {
             "attack": 1394,
             "defense": 1394,
@@ -102112,7 +102265,7 @@ window.allHeroes =
         ],
         "family": "tales1_goodies",
         "costume_id": 0,
-        "originalIndex": 1461,
+        "originalIndex": 1463,
         "lb1": {
             "attack": 976,
             "defense": 992,
@@ -102146,7 +102299,7 @@ window.allHeroes =
         "color": "Yellow",
         "class": "Sorcerer",
         "speed": "Changing Tides",
-        "skill": "Seabed Sissonne",
+        "skill": "Seabed Pirouette",
         "types": [
             "Minion Summoner All",
             "Stack",
@@ -102191,7 +102344,7 @@ window.allHeroes =
         ],
         "family": "tales1_goodies",
         "costume_id": 1,
-        "originalIndex": 1462,
+        "originalIndex": 1464,
         "lb1": {
             "attack": 959,
             "defense": 1007,
@@ -102251,7 +102404,7 @@ window.allHeroes =
         "passives": [],
         "family": "journey",
         "costume_id": 0,
-        "originalIndex": 1463,
+        "originalIndex": 1465,
         "lb1": {
             "attack": 910,
             "defense": 859,
@@ -102326,7 +102479,7 @@ window.allHeroes =
         ],
         "family": "sun",
         "costume_id": 0,
-        "originalIndex": 1464,
+        "originalIndex": 1466,
         "lb1": {
             "attack": 896,
             "defense": 872,
@@ -102361,7 +102514,7 @@ window.allHeroes =
         "color": "Yellow",
         "class": "Fighter",
         "speed": "Slow",
-        "skill": "Golden Aura",
+        "skill": "Holy Aura",
         "types": [
             "Hit 1",
             "Hit Random 5",
@@ -102404,7 +102557,7 @@ window.allHeroes =
         ],
         "family": "sun",
         "costume_id": 1,
-        "originalIndex": 1465,
+        "originalIndex": 1467,
         "lb1": {
             "attack": 921,
             "defense": 852,
@@ -102484,7 +102637,7 @@ window.allHeroes =
         ],
         "family": "mimic",
         "costume_id": 0,
-        "originalIndex": 1466,
+        "originalIndex": 1468,
         "lb1": {
             "attack": 1332,
             "defense": 1332,
@@ -102562,7 +102715,7 @@ window.allHeroes =
         ],
         "family": "hotm2024",
         "costume_id": 0,
-        "originalIndex": 1467,
+        "originalIndex": 1469,
         "lb1": {
             "attack": 1123,
             "defense": 1194,
@@ -102623,7 +102776,7 @@ window.allHeroes =
         "passives": [],
         "family": "circus",
         "costume_id": 0,
-        "originalIndex": 1468,
+        "originalIndex": 1470,
         "lb1": {
             "attack": 845,
             "defense": 810,
@@ -102691,7 +102844,7 @@ window.allHeroes =
         ],
         "family": "winter",
         "costume_id": 0,
-        "originalIndex": 1469,
+        "originalIndex": 1471,
         "lb1": {
             "attack": 1425,
             "defense": 1365,
@@ -102765,7 +102918,7 @@ window.allHeroes =
         ],
         "family": "garrison",
         "costume_id": 0,
-        "originalIndex": 1470,
+        "originalIndex": 1472,
         "lb1": {
             "attack": 1258,
             "defense": 1189,
@@ -102841,7 +102994,7 @@ window.allHeroes =
         ],
         "family": "mighty_pet",
         "costume_id": 0,
-        "originalIndex": 1471,
+        "originalIndex": 1473,
         "lb1": {
             "attack": 843,
             "defense": 892,
@@ -102920,7 +103073,7 @@ window.allHeroes =
         ],
         "family": "moths",
         "costume_id": 0,
-        "originalIndex": 1472,
+        "originalIndex": 1474,
         "lb1": {
             "attack": 1347,
             "defense": 1420,
@@ -103003,7 +103156,7 @@ window.allHeroes =
         ],
         "family": "nidavellir",
         "costume_id": 0,
-        "originalIndex": 1473,
+        "originalIndex": 1475,
         "lb1": {
             "attack": 1258,
             "defense": 1252,
@@ -103081,7 +103234,7 @@ window.allHeroes =
         ],
         "family": "faun",
         "costume_id": 0,
-        "originalIndex": 1474,
+        "originalIndex": 1476,
         "lb1": {
             "attack": 1209,
             "defense": 1256,
@@ -103155,7 +103308,7 @@ window.allHeroes =
         ],
         "family": "hotm2023",
         "costume_id": 0,
-        "originalIndex": 1475,
+        "originalIndex": 1477,
         "lb1": {
             "attack": 812,
             "defense": 830,
@@ -103228,7 +103381,7 @@ window.allHeroes =
         ],
         "family": "slime",
         "costume_id": 0,
-        "originalIndex": 1476,
+        "originalIndex": 1478,
         "lb1": {
             "attack": 1465,
             "defense": 1176,
@@ -103298,7 +103451,7 @@ window.allHeroes =
         ],
         "family": "zodiac",
         "costume_id": 0,
-        "originalIndex": 1477,
+        "originalIndex": 1479,
         "lb1": {
             "attack": 943,
             "defense": 1123,
@@ -103372,7 +103525,7 @@ window.allHeroes =
         ],
         "family": "slime",
         "costume_id": 0,
-        "originalIndex": 1478,
+        "originalIndex": 1480,
         "lb1": {
             "attack": 1343,
             "defense": 1249,
@@ -103445,7 +103598,7 @@ window.allHeroes =
         ],
         "family": "super_elemental",
         "costume_id": 0,
-        "originalIndex": 1479,
+        "originalIndex": 1481,
         "lb1": {
             "attack": 1085,
             "defense": 1165,
@@ -103519,7 +103672,7 @@ window.allHeroes =
         ],
         "family": "guardian",
         "costume_id": 0,
-        "originalIndex": 1480,
+        "originalIndex": 1482,
         "lb1": {
             "attack": 1067,
             "defense": 1145,
@@ -103600,7 +103753,7 @@ window.allHeroes =
         "passives": [],
         "family": "guardian",
         "costume_id": 0,
-        "originalIndex": 1481,
+        "originalIndex": 1483,
         "lb1": {
             "attack": 810,
             "defense": 799,
@@ -103640,7 +103793,7 @@ window.allHeroes =
         "color": "Yellow",
         "class": "Fighter",
         "speed": "Average",
-        "skill": "Bandalore Dance",
+        "skill": "Dance of Spirits",
         "types": [
             "Full Cleanser 4",
             "Healer All",
@@ -103680,7 +103833,7 @@ window.allHeroes =
         "passives": [],
         "family": "guardian",
         "costume_id": 1,
-        "originalIndex": 1482,
+        "originalIndex": 1484,
         "lb1": {
             "attack": 834,
             "defense": 805,
@@ -103751,7 +103904,7 @@ window.allHeroes =
         "passives": [],
         "family": "guardian",
         "costume_id": 0,
-        "originalIndex": 1483,
+        "originalIndex": 1485,
         "lb1": {
             "attack": 648,
             "defense": 856,
@@ -103823,7 +103976,7 @@ window.allHeroes =
         ],
         "family": "fleur_de_sang",
         "costume_id": 0,
-        "originalIndex": 1484,
+        "originalIndex": 1486,
         "lb1": {
             "attack": 1431,
             "defense": 1309,
@@ -103890,7 +104043,7 @@ window.allHeroes =
         "passives": [],
         "family": "knight",
         "costume_id": 0,
-        "originalIndex": 1485,
+        "originalIndex": 1487,
         "lb1": {
             "attack": 721,
             "defense": 839,
@@ -103929,7 +104082,7 @@ window.allHeroes =
         "color": "Yellow",
         "class": "Paladin",
         "speed": "Average",
-        "skill": "Word of the Skies",
+        "skill": "Word of the Queen",
         "types": [
             "Mana Reduction 3",
             "Healer All",
@@ -103960,7 +104113,7 @@ window.allHeroes =
         "passives": [],
         "family": "knight",
         "costume_id": 1,
-        "originalIndex": 1486,
+        "originalIndex": 1488,
         "lb1": {
             "attack": 677,
             "defense": 861,
@@ -104041,7 +104194,7 @@ window.allHeroes =
         "passives": [],
         "family": "investigator",
         "costume_id": 0,
-        "originalIndex": 1487,
+        "originalIndex": 1489,
         "lb1": {
             "attack": 1318,
             "defense": 1414,
@@ -104123,7 +104276,7 @@ window.allHeroes =
         ],
         "family": "construct",
         "costume_id": 0,
-        "originalIndex": 1488,
+        "originalIndex": 1490,
         "lb1": {
             "attack": 1167,
             "defense": 1105,
@@ -104193,7 +104346,7 @@ window.allHeroes =
         ],
         "family": "mighty_pet",
         "costume_id": 0,
-        "originalIndex": 1489,
+        "originalIndex": 1491,
         "lb1": {
             "attack": 945,
             "defense": 870,
@@ -104263,7 +104416,7 @@ window.allHeroes =
         ],
         "family": "fox",
         "costume_id": 0,
-        "originalIndex": 1490,
+        "originalIndex": 1492,
         "lb1": {
             "attack": 1363,
             "defense": 1307,
@@ -104336,7 +104489,7 @@ window.allHeroes =
         ],
         "family": "hotm2021",
         "costume_id": 0,
-        "originalIndex": 1491,
+        "originalIndex": 1493,
         "lb1": {
             "attack": 777,
             "defense": 859,
@@ -104414,7 +104567,7 @@ window.allHeroes =
         ],
         "family": "astral_dwarfs",
         "costume_id": 0,
-        "originalIndex": 1492,
+        "originalIndex": 1494,
         "lb1": {
             "attack": 1367,
             "defense": 1272,
@@ -104490,7 +104643,7 @@ window.allHeroes =
         ],
         "family": "gargoyle",
         "costume_id": 0,
-        "originalIndex": 1493,
+        "originalIndex": 1495,
         "lb1": {
             "attack": 1183,
             "defense": 1221,
@@ -104559,7 +104712,7 @@ window.allHeroes =
         ],
         "family": "sun",
         "costume_id": 0,
-        "originalIndex": 1494,
+        "originalIndex": 1496,
         "lb1": {
             "attack": 888,
             "defense": 856,
@@ -104592,7 +104745,7 @@ window.allHeroes =
         "color": "Yellow",
         "class": "Monk",
         "speed": "Very Fast",
-        "skill": "Judgment of Sun",
+        "skill": "Unrelenting Hunter",
         "types": [
             "Hit 3",
             "Health reduction"
@@ -104630,7 +104783,7 @@ window.allHeroes =
         ],
         "family": "sun",
         "costume_id": 1,
-        "originalIndex": 1495,
+        "originalIndex": 1497,
         "lb1": {
             "attack": 885,
             "defense": 861,
@@ -104705,7 +104858,7 @@ window.allHeroes =
         ],
         "family": "ninja",
         "costume_id": 0,
-        "originalIndex": 1496,
+        "originalIndex": 1498,
         "lb1": {
             "attack": 1374,
             "defense": 1136,
@@ -104773,7 +104926,7 @@ window.allHeroes =
         ],
         "family": "forsaken",
         "costume_id": 0,
-        "originalIndex": 1497,
+        "originalIndex": 1499,
         "lb1": {
             "attack": 1449,
             "defense": 1394,
@@ -104838,7 +104991,7 @@ window.allHeroes =
         "passives": [],
         "family": "japanese",
         "costume_id": 0,
-        "originalIndex": 1498,
+        "originalIndex": 1500,
         "lb1": {
             "attack": 876,
             "defense": 692,
@@ -104877,7 +105030,7 @@ window.allHeroes =
         "color": "Yellow",
         "class": "Druid",
         "speed": "Average",
-        "skill": "Blinding Spell",
+        "skill": "Lucky Nine",
         "types": [
             "Hit All",
             "Summoner",
@@ -104908,7 +105061,7 @@ window.allHeroes =
         "passives": [],
         "family": "japanese",
         "costume_id": 1,
-        "originalIndex": 1499,
+        "originalIndex": 1501,
         "lb1": {
             "attack": 832,
             "defense": 737,
@@ -104992,7 +105145,7 @@ window.allHeroes =
         ],
         "family": "construct",
         "costume_id": 0,
-        "originalIndex": 1500,
+        "originalIndex": 1502,
         "lb1": {
             "attack": 1443,
             "defense": 1345,
@@ -105070,7 +105223,7 @@ window.allHeroes =
         ],
         "family": "super_elemental",
         "costume_id": 0,
-        "originalIndex": 1501,
+        "originalIndex": 1503,
         "lb1": {
             "attack": 1078,
             "defense": 1041,
@@ -105146,7 +105299,7 @@ window.allHeroes =
         ],
         "family": "hotm2023",
         "costume_id": 0,
-        "originalIndex": 1502,
+        "originalIndex": 1504,
         "lb1": {
             "attack": 974,
             "defense": 841,
@@ -105219,7 +105372,7 @@ window.allHeroes =
         ],
         "family": "masquerade",
         "costume_id": 0,
-        "originalIndex": 1503,
+        "originalIndex": 1505,
         "lb1": {
             "attack": 992,
             "defense": 941,
@@ -105284,7 +105437,7 @@ window.allHeroes =
         "passives": [],
         "family": "easter",
         "costume_id": 0,
-        "originalIndex": 1504,
+        "originalIndex": 1506,
         "lb1": {
             "attack": 859,
             "defense": 936,
@@ -105323,7 +105476,7 @@ window.allHeroes =
         "color": "Yellow",
         "class": "Monk",
         "speed": "Slow",
-        "skill": "Dreams of Nourishment",
+        "skill": "Petals of Nourishment",
         "types": [
             "Healer",
             "Attack buff",
@@ -105354,7 +105507,7 @@ window.allHeroes =
         "passives": [],
         "family": "easter",
         "costume_id": 1,
-        "originalIndex": 1505,
+        "originalIndex": 1507,
         "lb1": {
             "attack": 836,
             "defense": 941,
@@ -105432,7 +105585,7 @@ window.allHeroes =
         ],
         "family": "super_elemental",
         "costume_id": 0,
-        "originalIndex": 1506,
+        "originalIndex": 1508,
         "lb1": {
             "attack": 1025,
             "defense": 912,
@@ -105468,7 +105621,7 @@ window.allHeroes =
         "color": "Yellow",
         "class": "Rogue",
         "speed": "Very Fast",
-        "skill": "Golden Sacred Symbol",
+        "skill": "Archaic Sacred Symbol",
         "types": [
             "Hit All",
             "Elemental"
@@ -105508,7 +105661,7 @@ window.allHeroes =
         ],
         "family": "super_elemental",
         "costume_id": 1,
-        "originalIndex": 1507,
+        "originalIndex": 1509,
         "lb1": {
             "attack": 1014,
             "defense": 923,
@@ -105570,7 +105723,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 0,
-        "originalIndex": 1508,
+        "originalIndex": 1510,
         "lb1": {
             "attack": 808,
             "defense": 685,
@@ -105603,7 +105756,7 @@ window.allHeroes =
         "color": "Yellow",
         "class": "Fighter",
         "speed": "Fast",
-        "skill": "Solar Strike",
+        "skill": "Solar Beam",
         "types": [
             "Hit 1",
             "Blind 1"
@@ -105630,7 +105783,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 1,
-        "originalIndex": 1509,
+        "originalIndex": 1511,
         "lb1": {
             "attack": 803,
             "defense": 697,
@@ -105663,7 +105816,7 @@ window.allHeroes =
         "color": "Yellow",
         "class": "Barbarian",
         "speed": "Fast",
-        "skill": "Stellar Beam",
+        "skill": "Solar Beam",
         "types": [
             "Hit 3",
             "Dot 3",
@@ -105693,7 +105846,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 2,
-        "originalIndex": 1510,
+        "originalIndex": 1512,
         "lb1": {
             "attack": 812,
             "defense": 690,
@@ -105728,7 +105881,7 @@ window.allHeroes =
         "color": "Yellow",
         "class": "Monk",
         "speed": "Fast",
-        "skill": "Toon Beam",
+        "skill": "Solar Beam",
         "types": [
             "Hit 1",
             "Blind 1"
@@ -105761,7 +105914,7 @@ window.allHeroes =
         ],
         "family": "classic",
         "costume_id": 3,
-        "originalIndex": 1511,
+        "originalIndex": 1513,
         "lb1": {
             "attack": 810,
             "defense": 690,
@@ -105799,7 +105952,7 @@ window.allHeroes =
         "color": "Yellow",
         "class": "Monk",
         "speed": "Fast",
-        "skill": "Glass Beam",
+        "skill": "Solar Beam",
         "types": [
             "Hit 1",
             "Bypass",
@@ -105833,7 +105986,7 @@ window.allHeroes =
         ],
         "family": "classic",
         "costume_id": 4,
-        "originalIndex": 1512,
+        "originalIndex": 1514,
         "lb1": {
             "attack": 825,
             "defense": 679,
@@ -105904,7 +106057,7 @@ window.allHeroes =
         ],
         "family": "masquerade",
         "costume_id": 0,
-        "originalIndex": 1513,
+        "originalIndex": 1515,
         "lb1": {
             "attack": 907,
             "defense": 854,
@@ -105964,7 +106117,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 0,
-        "originalIndex": 1514,
+        "originalIndex": 1516,
         "lb1": {
             "attack": 657,
             "defense": 836,
@@ -106002,7 +106155,7 @@ window.allHeroes =
         "color": "Yellow",
         "class": "Wizard",
         "speed": "Slow",
-        "skill": "Day of Judgement",
+        "skill": "Rite of Judgement",
         "types": [
             "Hit all",
             "Self Mana generation buff"
@@ -106031,7 +106184,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 1,
-        "originalIndex": 1515,
+        "originalIndex": 1517,
         "lb1": {
             "attack": 725,
             "defense": 777,
@@ -106069,7 +106222,7 @@ window.allHeroes =
         "color": "Yellow",
         "class": "Sorcerer",
         "speed": "Slow",
-        "skill": "Ritual of Judgement",
+        "skill": "Rite of Judgement",
         "types": [
             "Hit All",
             "Blind All"
@@ -106098,7 +106251,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 2,
-        "originalIndex": 1516,
+        "originalIndex": 1518,
         "lb1": {
             "attack": 743,
             "defense": 752,
@@ -106136,7 +106289,7 @@ window.allHeroes =
         "color": "Yellow",
         "class": "Paladin",
         "speed": "Slow",
-        "skill": "Toon of Judgment",
+        "skill": "Rite of Judgement",
         "types": [
             "Hit All",
             "Blind All"
@@ -106169,7 +106322,7 @@ window.allHeroes =
         ],
         "family": "classic",
         "costume_id": 3,
-        "originalIndex": 1517,
+        "originalIndex": 1519,
         "lb1": {
             "attack": 819,
             "defense": 650,
@@ -106207,7 +106360,7 @@ window.allHeroes =
         "color": "Yellow",
         "class": "Paladin",
         "speed": "Slow",
-        "skill": "Glass Judgement",
+        "skill": "Rite of Judgement",
         "types": [
             "Hit All",
             "Bypass",
@@ -106241,7 +106394,7 @@ window.allHeroes =
         ],
         "family": "classic",
         "costume_id": 4,
-        "originalIndex": 1518,
+        "originalIndex": 1520,
         "lb1": {
             "attack": 830,
             "defense": 643,
@@ -106314,7 +106467,7 @@ window.allHeroes =
         ],
         "family": "hotm2022",
         "costume_id": 0,
-        "originalIndex": 1519,
+        "originalIndex": 1521,
         "lb1": {
             "attack": 814,
             "defense": 825,
@@ -106376,7 +106529,7 @@ window.allHeroes =
         ],
         "family": "kalevala",
         "costume_id": 0,
-        "originalIndex": 1520,
+        "originalIndex": 1522,
         "lb1": {
             "attack": 879,
             "defense": 852,
@@ -106410,7 +106563,7 @@ window.allHeroes =
         "color": "Yellow",
         "class": "Fighter",
         "speed": "Average",
-        "skill": "Cunning Knife",
+        "skill": "Heirloom Dagger",
         "types": [
             "Hit 1",
             "Bounce",
@@ -106443,7 +106596,7 @@ window.allHeroes =
         ],
         "family": "kalevala",
         "costume_id": 1,
-        "originalIndex": 1521,
+        "originalIndex": 1523,
         "lb1": {
             "attack": 854,
             "defense": 901,
@@ -106523,7 +106676,7 @@ window.allHeroes =
         "passives": [],
         "family": "ninja",
         "costume_id": 0,
-        "originalIndex": 1522,
+        "originalIndex": 1524,
         "lb1": {
             "attack": 874,
             "defense": 939,
@@ -106605,7 +106758,7 @@ window.allHeroes =
         ],
         "family": "slime",
         "costume_id": 0,
-        "originalIndex": 1523,
+        "originalIndex": 1525,
         "lb1": {
             "attack": 1351,
             "defense": 1418,
@@ -106690,7 +106843,7 @@ window.allHeroes =
         ],
         "family": "magic_carpet",
         "costume_id": 0,
-        "originalIndex": 1524,
+        "originalIndex": 1526,
         "lb1": {
             "attack": 1283,
             "defense": 1358,
@@ -106760,7 +106913,7 @@ window.allHeroes =
         ],
         "family": "zodiac",
         "costume_id": 0,
-        "originalIndex": 1525,
+        "originalIndex": 1527,
         "lb1": {
             "attack": 910,
             "defense": 868,
@@ -106833,7 +106986,7 @@ window.allHeroes =
         ],
         "family": "champions",
         "costume_id": 0,
-        "originalIndex": 1526,
+        "originalIndex": 1528,
         "lb1": {
             "attack": 1121,
             "defense": 1096,
@@ -106906,7 +107059,7 @@ window.allHeroes =
         ],
         "family": "astral_elves",
         "costume_id": 0,
-        "originalIndex": 1527,
+        "originalIndex": 1529,
         "lb1": {
             "attack": 1123,
             "defense": 1116,
@@ -106969,7 +107122,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 0,
-        "originalIndex": 1528,
+        "originalIndex": 1530,
         "lb1": {
             "attack": 788,
             "defense": 774,
@@ -107003,7 +107156,7 @@ window.allHeroes =
         "color": "Yellow",
         "class": "Barbarian",
         "speed": "Average",
-        "skill": "Spartan Charge",
+        "skill": "Spartan Cleave",
         "types": [
             "Hit 3"
         ],
@@ -107031,7 +107184,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 1,
-        "originalIndex": 1529,
+        "originalIndex": 1531,
         "lb1": {
             "attack": 770,
             "defense": 794,
@@ -107065,7 +107218,7 @@ window.allHeroes =
         "color": "Yellow",
         "class": "Ranger",
         "speed": "Average",
-        "skill": "Spartan Slash",
+        "skill": "Spartan Cleave",
         "types": [
             "Hit All",
             "Mana Reduction",
@@ -107095,7 +107248,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 2,
-        "originalIndex": 1530,
+        "originalIndex": 1532,
         "lb1": {
             "attack": 774,
             "defense": 783,
@@ -107133,7 +107286,7 @@ window.allHeroes =
         "color": "Yellow",
         "class": "Monk",
         "speed": "Average",
-        "skill": "Toon Cleave",
+        "skill": "Spartan Cleave",
         "types": [
             "Hit 1",
             "Mana reducer",
@@ -107169,7 +107322,7 @@ window.allHeroes =
         ],
         "family": "classic",
         "costume_id": 3,
-        "originalIndex": 1531,
+        "originalIndex": 1533,
         "lb1": {
             "attack": 792,
             "defense": 765,
@@ -107204,7 +107357,7 @@ window.allHeroes =
         "color": "Yellow",
         "class": "Monk",
         "speed": "Average",
-        "skill": "Glass Cleave",
+        "skill": "Spartan Cleave",
         "types": [
             "Hit 1",
             "Bypass",
@@ -107241,7 +107394,7 @@ window.allHeroes =
         ],
         "family": "classic",
         "costume_id": 4,
-        "originalIndex": 1532,
+        "originalIndex": 1534,
         "lb1": {
             "attack": 823,
             "defense": 743,
@@ -107316,7 +107469,7 @@ window.allHeroes =
         ],
         "family": "owl",
         "costume_id": 0,
-        "originalIndex": 1533,
+        "originalIndex": 1535,
         "lb1": {
             "attack": 1045,
             "defense": 1165,
@@ -107392,7 +107545,7 @@ window.allHeroes =
         ],
         "family": "bard",
         "costume_id": 0,
-        "originalIndex": 1534,
+        "originalIndex": 1536,
         "lb1": {
             "attack": 1383,
             "defense": 1356,
@@ -107471,7 +107624,7 @@ window.allHeroes =
         ],
         "family": "plains_hunter",
         "costume_id": 0,
-        "originalIndex": 1535,
+        "originalIndex": 1537,
         "lb1": {
             "attack": 901,
             "defense": 943,
@@ -107544,7 +107697,7 @@ window.allHeroes =
         ],
         "family": "hotm2020",
         "costume_id": 0,
-        "originalIndex": 1536,
+        "originalIndex": 1538,
         "lb1": {
             "attack": 801,
             "defense": 785,
@@ -107612,7 +107765,7 @@ window.allHeroes =
         ],
         "family": "halloween",
         "costume_id": 0,
-        "originalIndex": 1537,
+        "originalIndex": 1539,
         "lb1": {
             "attack": 881,
             "defense": 888,
@@ -107689,7 +107842,7 @@ window.allHeroes =
         ],
         "family": "hotm2025",
         "costume_id": 0,
-        "originalIndex": 1538,
+        "originalIndex": 1540,
         "lb1": {
             "attack": 1154,
             "defense": 1165,
@@ -107763,7 +107916,7 @@ window.allHeroes =
         ],
         "family": "opera",
         "costume_id": 0,
-        "originalIndex": 1539,
+        "originalIndex": 1541,
         "lb1": {
             "attack": 1065,
             "defense": 1145,
@@ -107839,7 +107992,7 @@ window.allHeroes =
         ],
         "family": "astral_elves",
         "costume_id": 0,
-        "originalIndex": 1540,
+        "originalIndex": 1542,
         "lb1": {
             "attack": 1134,
             "defense": 1245,
@@ -107908,7 +108061,7 @@ window.allHeroes =
         ],
         "family": "sun",
         "costume_id": 0,
-        "originalIndex": 1541,
+        "originalIndex": 1543,
         "lb1": {
             "attack": 832,
             "defense": 947,
@@ -107947,7 +108100,7 @@ window.allHeroes =
         "color": "Yellow",
         "class": "Wizard",
         "speed": "Average",
-        "skill": "Impossible Groove",
+        "skill": "Impossible Riddle",
         "types": [
             "Hit all",
             "Mana Reduction",
@@ -107989,7 +108142,7 @@ window.allHeroes =
         ],
         "family": "sun",
         "costume_id": 1,
-        "originalIndex": 1542,
+        "originalIndex": 1544,
         "lb1": {
             "attack": 888,
             "defense": 903,
@@ -108067,7 +108220,7 @@ window.allHeroes =
         "passives": [],
         "family": "ninja",
         "costume_id": 0,
-        "originalIndex": 1543,
+        "originalIndex": 1545,
         "lb1": {
             "attack": 772,
             "defense": 885,
@@ -108134,7 +108287,7 @@ window.allHeroes =
         ],
         "family": "astral_elves",
         "costume_id": 0,
-        "originalIndex": 1544,
+        "originalIndex": 1546,
         "lb1": {
             "attack": 1112,
             "defense": 1298,
@@ -108212,7 +108365,7 @@ window.allHeroes =
         ],
         "family": "magic",
         "costume_id": 0,
-        "originalIndex": 1545,
+        "originalIndex": 1547,
         "lb1": {
             "attack": 814,
             "defense": 854,
@@ -108281,7 +108434,7 @@ window.allHeroes =
         ],
         "family": "kalevala",
         "costume_id": 0,
-        "originalIndex": 1546,
+        "originalIndex": 1548,
         "lb1": {
             "attack": 1376,
             "defense": 1327,
@@ -108357,7 +108510,7 @@ window.allHeroes =
         ],
         "family": "myrkheim",
         "costume_id": 0,
-        "originalIndex": 1547,
+        "originalIndex": 1549,
         "lb1": {
             "attack": 1265,
             "defense": 1316,
@@ -108417,7 +108570,7 @@ window.allHeroes =
         "passives": [],
         "family": "hotm2017",
         "costume_id": 0,
-        "originalIndex": 1548,
+        "originalIndex": 1550,
         "lb1": {
             "attack": 848,
             "defense": 732,
@@ -108450,7 +108603,7 @@ window.allHeroes =
         "color": "Yellow",
         "class": "Barbarian",
         "speed": "Fast",
-        "skill": "Rod of Freedom",
+        "skill": "Dragon Fang",
         "types": [
             "Hit 3",
             "Self Heal"
@@ -108485,7 +108638,7 @@ window.allHeroes =
         ],
         "family": "hotm2017",
         "costume_id": 1,
-        "originalIndex": 1549,
+        "originalIndex": 1551,
         "lb1": {
             "attack": 832,
             "defense": 745,
@@ -108553,7 +108706,7 @@ window.allHeroes =
         ],
         "family": "hotm2019",
         "costume_id": 0,
-        "originalIndex": 1550,
+        "originalIndex": 1552,
         "lb1": {
             "attack": 792,
             "defense": 794,
@@ -108632,7 +108785,7 @@ window.allHeroes =
         ],
         "family": "styx",
         "costume_id": 0,
-        "originalIndex": 1551,
+        "originalIndex": 1553,
         "lb1": {
             "attack": 945,
             "defense": 843,
@@ -108708,7 +108861,7 @@ window.allHeroes =
         ],
         "family": "beowulf",
         "costume_id": 0,
-        "originalIndex": 1552,
+        "originalIndex": 1554,
         "lb1": {
             "attack": 1396,
             "defense": 1214,
@@ -108771,7 +108924,7 @@ window.allHeroes =
         "passives": [],
         "family": "vanaheim",
         "costume_id": 0,
-        "originalIndex": 1553,
+        "originalIndex": 1555,
         "lb1": {
             "attack": 830,
             "defense": 774,
@@ -108804,7 +108957,7 @@ window.allHeroes =
         "color": "Yellow",
         "class": "Wizard",
         "speed": "Average",
-        "skill": "Wrath of Fate",
+        "skill": "Twist of Fate",
         "types": [
             "Hit 3"
         ],
@@ -108829,7 +108982,7 @@ window.allHeroes =
         "passives": [],
         "family": "vanaheim",
         "costume_id": 1,
-        "originalIndex": 1554,
+        "originalIndex": 1556,
         "lb1": {
             "attack": 894,
             "defense": 774,
@@ -108890,7 +109043,7 @@ window.allHeroes =
         "passives": [],
         "family": "midgard",
         "costume_id": 0,
-        "originalIndex": 1555,
+        "originalIndex": 1557,
         "lb1": {
             "attack": 821,
             "defense": 810,
@@ -108928,7 +109081,7 @@ window.allHeroes =
         "color": "Yellow",
         "class": "Fighter",
         "speed": "Fast",
-        "skill": "Rage of Grimnir",
+        "skill": "Fury of Grimnir",
         "types": [
             "Hit All",
             "Mana Generation Buff"
@@ -108957,7 +109110,7 @@ window.allHeroes =
         "passives": [],
         "family": "midgard",
         "costume_id": 1,
-        "originalIndex": 1556,
+        "originalIndex": 1558,
         "lb1": {
             "attack": 805,
             "defense": 823,
@@ -109030,7 +109183,7 @@ window.allHeroes =
         ],
         "family": "bard",
         "costume_id": 0,
-        "originalIndex": 1557,
+        "originalIndex": 1559,
         "lb1": {
             "attack": 899,
             "defense": 861,
@@ -109102,7 +109255,7 @@ window.allHeroes =
         ],
         "family": "hotm2019",
         "costume_id": 0,
-        "originalIndex": 1558,
+        "originalIndex": 1560,
         "lb1": {
             "attack": 666,
             "defense": 879,
@@ -109168,7 +109321,7 @@ window.allHeroes =
         ],
         "family": "moon",
         "costume_id": 0,
-        "originalIndex": 1559,
+        "originalIndex": 1561,
         "lb1": {
             "attack": 876,
             "defense": 883,
@@ -109211,7 +109364,7 @@ window.allHeroes =
         "color": "Yellow",
         "class": "Paladin",
         "speed": "Average",
-        "skill": "Command Sand Golems",
+        "skill": "Summon Sand Golems",
         "types": [
             "Summoner",
             "Defense Buff"
@@ -109253,7 +109406,7 @@ window.allHeroes =
         ],
         "family": "moon",
         "costume_id": 1,
-        "originalIndex": 1560,
+        "originalIndex": 1562,
         "lb1": {
             "attack": 843,
             "defense": 916,
@@ -109330,7 +109483,7 @@ window.allHeroes =
         ],
         "family": "gargoyle",
         "costume_id": 0,
-        "originalIndex": 1561,
+        "originalIndex": 1563,
         "lb1": {
             "attack": 896,
             "defense": 821,
@@ -109413,7 +109566,7 @@ window.allHeroes =
         ],
         "family": "tales1_baddies",
         "costume_id": 0,
-        "originalIndex": 1562,
+        "originalIndex": 1564,
         "lb1": {
             "attack": 1054,
             "defense": 1105,
@@ -109453,7 +109606,7 @@ window.allHeroes =
         "color": "Yellow",
         "class": "Druid",
         "speed": "Changing Tides",
-        "skill": "Ocean's Decay",
+        "skill": "Ocean's Ruin",
         "types": [
             "Buff Stealer",
             "Hit 1",
@@ -109502,7 +109655,7 @@ window.allHeroes =
         ],
         "family": "tales1_baddies",
         "costume_id": 1,
-        "originalIndex": 1563,
+        "originalIndex": 1565,
         "lb1": {
             "attack": 1065,
             "defense": 1094,
@@ -109580,7 +109733,7 @@ window.allHeroes =
         ],
         "family": "owl",
         "costume_id": 0,
-        "originalIndex": 1564,
+        "originalIndex": 1566,
         "lb1": {
             "attack": 1252,
             "defense": 1278,
@@ -109658,7 +109811,7 @@ window.allHeroes =
         ],
         "family": "faun",
         "costume_id": 0,
-        "originalIndex": 1565,
+        "originalIndex": 1567,
         "lb1": {
             "attack": 1351,
             "defense": 1201,
@@ -109726,7 +109879,7 @@ window.allHeroes =
         "passives": [],
         "family": "atlantis",
         "costume_id": 0,
-        "originalIndex": 1566,
+        "originalIndex": 1568,
         "lb1": {
             "attack": 803,
             "defense": 774,
@@ -109759,7 +109912,7 @@ window.allHeroes =
         "color": "Yellow",
         "class": "Ranger",
         "speed": "Fast",
-        "skill": "Tidal Slayer",
+        "skill": "Ruler of Seas",
         "types": [
             "Hit 1",
             "Status Ailments Immunity All"
@@ -109786,7 +109939,7 @@ window.allHeroes =
         "passives": [],
         "family": "atlantis",
         "costume_id": 1,
-        "originalIndex": 1567,
+        "originalIndex": 1569,
         "lb1": {
             "attack": 792,
             "defense": 765,
@@ -109852,7 +110005,7 @@ window.allHeroes =
         ],
         "family": "abyss",
         "costume_id": 0,
-        "originalIndex": 1568,
+        "originalIndex": 1570,
         "lb1": {
             "attack": 803,
             "defense": 870,
@@ -109886,7 +110039,7 @@ window.allHeroes =
         "color": "Yellow",
         "class": "Monk",
         "speed": "Slow",
-        "skill": "Dazzling Gleam",
+        "skill": "Glorious Grace",
         "types": [
             "Cleanse All",
             "Health Boost",
@@ -109923,7 +110076,7 @@ window.allHeroes =
         ],
         "family": "abyss",
         "costume_id": 1,
-        "originalIndex": 1569,
+        "originalIndex": 1571,
         "lb1": {
             "attack": 799,
             "defense": 865,
@@ -109983,7 +110136,7 @@ window.allHeroes =
         "passives": [],
         "family": "journey",
         "costume_id": 0,
-        "originalIndex": 1570,
+        "originalIndex": 1572,
         "lb1": {
             "attack": 859,
             "defense": 896,
@@ -110054,7 +110207,7 @@ window.allHeroes =
         "passives": [],
         "family": "sand",
         "costume_id": 0,
-        "originalIndex": 1571,
+        "originalIndex": 1573,
         "lb1": {
             "attack": 792,
             "defense": 765,
@@ -110090,7 +110243,7 @@ window.allHeroes =
         "color": "Yellow",
         "class": "Cleric",
         "speed": "Average",
-        "skill": "Surf's Up",
+        "skill": "Sand Storm",
         "types": [
             "Hit 3",
             "DoT 3",
@@ -110123,7 +110276,7 @@ window.allHeroes =
         "passives": [],
         "family": "sand",
         "costume_id": 1,
-        "originalIndex": 1572,
+        "originalIndex": 1574,
         "lb1": {
             "attack": 803,
             "defense": 783,
@@ -110192,7 +110345,7 @@ window.allHeroes =
         ],
         "family": "hotm2019",
         "costume_id": 0,
-        "originalIndex": 1573,
+        "originalIndex": 1575,
         "lb1": {
             "attack": 828,
             "defense": 843,
@@ -110261,7 +110414,7 @@ window.allHeroes =
         ],
         "family": "goblin",
         "costume_id": 0,
-        "originalIndex": 1574,
+        "originalIndex": 1576,
         "lb1": {
             "attack": 1338,
             "defense": 1385,
@@ -110328,7 +110481,7 @@ window.allHeroes =
         ],
         "family": "bard",
         "costume_id": 0,
-        "originalIndex": 1575,
+        "originalIndex": 1577,
         "lb1": {
             "attack": 910,
             "defense": 868,
@@ -110400,7 +110553,7 @@ window.allHeroes =
         "passives": [],
         "family": "sand",
         "costume_id": 0,
-        "originalIndex": 1576,
+        "originalIndex": 1578,
         "lb1": {
             "attack": 821,
             "defense": 796,
@@ -110435,7 +110588,7 @@ window.allHeroes =
         "color": "Yellow",
         "class": "Fighter",
         "speed": "Average",
-        "skill": "Beach Party",
+        "skill": "Sand Cyclone",
         "types": [
             "Dot All",
             "Defense Debuff All",
@@ -110465,7 +110618,7 @@ window.allHeroes =
         "passives": [],
         "family": "sand",
         "costume_id": 1,
-        "originalIndex": 1577,
+        "originalIndex": 1579,
         "lb1": {
             "attack": 819,
             "defense": 808,
@@ -110542,7 +110695,7 @@ window.allHeroes =
         ],
         "family": "garrison",
         "costume_id": 0,
-        "originalIndex": 1578,
+        "originalIndex": 1580,
         "lb1": {
             "attack": 1167,
             "defense": 1252,
@@ -110623,7 +110776,7 @@ window.allHeroes =
         ],
         "family": "outlaw",
         "costume_id": 0,
-        "originalIndex": 1579,
+        "originalIndex": 1581,
         "lb1": {
             "attack": 1345,
             "defense": 1314,
@@ -110704,7 +110857,7 @@ window.allHeroes =
         ],
         "family": "astral_dwarfs",
         "costume_id": 0,
-        "originalIndex": 1580,
+        "originalIndex": 1582,
         "lb1": {
             "attack": 1329,
             "defense": 1276,
@@ -110777,7 +110930,7 @@ window.allHeroes =
         ],
         "family": "moths",
         "costume_id": 0,
-        "originalIndex": 1581,
+        "originalIndex": 1583,
         "lb1": {
             "attack": 1338,
             "defense": 1316,
@@ -110858,7 +111011,7 @@ window.allHeroes =
         ],
         "family": "goblin",
         "costume_id": 0,
-        "originalIndex": 1582,
+        "originalIndex": 1584,
         "lb1": {
             "attack": 1125,
             "defense": 1172,
@@ -110941,7 +111094,7 @@ window.allHeroes =
         ],
         "family": "construct",
         "costume_id": 0,
-        "originalIndex": 1583,
+        "originalIndex": 1585,
         "lb1": {
             "attack": 976,
             "defense": 1107,
@@ -111028,7 +111181,7 @@ window.allHeroes =
         ],
         "family": "magic_carpet",
         "costume_id": 0,
-        "originalIndex": 1584,
+        "originalIndex": 1586,
         "lb1": {
             "attack": 1440,
             "defense": 1367,
@@ -111103,7 +111256,7 @@ window.allHeroes =
         ],
         "family": "garrison",
         "costume_id": 0,
-        "originalIndex": 1585,
+        "originalIndex": 1587,
         "lb1": {
             "attack": 1136,
             "defense": 1238,
@@ -111171,7 +111324,7 @@ window.allHeroes =
         "passives": [],
         "family": "midgard",
         "costume_id": 0,
-        "originalIndex": 1586,
+        "originalIndex": 1588,
         "lb1": {
             "attack": 850,
             "defense": 772,
@@ -111201,7 +111354,7 @@ window.allHeroes =
         "color": "Yellow",
         "class": "Cleric",
         "speed": "Average",
-        "skill": "Golden Strings",
+        "skill": "Gold Weaver",
         "types": [
             "Mana boost",
             "Counterattack",
@@ -111232,7 +111385,7 @@ window.allHeroes =
         "passives": [],
         "family": "midgard",
         "costume_id": 1,
-        "originalIndex": 1587,
+        "originalIndex": 1589,
         "lb1": {
             "attack": 810,
             "defense": 805,
@@ -111296,7 +111449,7 @@ window.allHeroes =
         ],
         "family": "fox",
         "costume_id": 0,
-        "originalIndex": 1588,
+        "originalIndex": 1590,
         "lb1": {
             "attack": 1334,
             "defense": 1309,
@@ -111362,7 +111515,7 @@ window.allHeroes =
         "passives": [],
         "family": "easter",
         "costume_id": 0,
-        "originalIndex": 1589,
+        "originalIndex": 1591,
         "lb1": {
             "attack": 839,
             "defense": 783,
@@ -111431,7 +111584,7 @@ window.allHeroes =
         ],
         "family": "slime",
         "costume_id": 0,
-        "originalIndex": 1590,
+        "originalIndex": 1592,
         "lb1": {
             "attack": 1209,
             "defense": 1165,
@@ -111514,7 +111667,7 @@ window.allHeroes =
         ],
         "family": "wild_cat",
         "costume_id": 0,
-        "originalIndex": 1591,
+        "originalIndex": 1593,
         "lb1": {
             "attack": 1474,
             "defense": 1249,
@@ -111584,7 +111737,7 @@ window.allHeroes =
         ],
         "family": "journey",
         "costume_id": 0,
-        "originalIndex": 1592,
+        "originalIndex": 1594,
         "lb1": {
             "attack": 1090,
             "defense": 1156,
@@ -111622,7 +111775,7 @@ window.allHeroes =
         "color": "Yellow",
         "class": "Fighter",
         "speed": "Very Fast",
-        "skill": "Power of Mjolnir",
+        "skill": "Power of Mjölnir",
         "types": [
             "Hit All",
             "Blind"
@@ -111657,7 +111810,7 @@ window.allHeroes =
         "passives": [],
         "family": "midgard",
         "costume_id": 0,
-        "originalIndex": 1593,
+        "originalIndex": 1595,
         "lb1": {
             "attack": 808,
             "defense": 792,
@@ -111690,7 +111843,7 @@ window.allHeroes =
         "color": "Yellow",
         "class": "Paladin",
         "speed": "Very Fast",
-        "skill": "Energy of Mjolnir",
+        "skill": "Power of Mjölnir",
         "types": [
             "Hit All",
             "Blind"
@@ -111725,7 +111878,7 @@ window.allHeroes =
         "passives": [],
         "family": "midgard",
         "costume_id": 1,
-        "originalIndex": 1594,
+        "originalIndex": 1596,
         "lb1": {
             "attack": 788,
             "defense": 796,
@@ -111796,7 +111949,7 @@ window.allHeroes =
         ],
         "family": "jungle_hunter",
         "costume_id": 0,
-        "originalIndex": 1595,
+        "originalIndex": 1597,
         "lb1": {
             "attack": 927,
             "defense": 941,
@@ -111873,7 +112026,7 @@ window.allHeroes =
         ],
         "family": "plains_hunter",
         "costume_id": 0,
-        "originalIndex": 1596,
+        "originalIndex": 1598,
         "lb1": {
             "attack": 1258,
             "defense": 1147,
@@ -111946,7 +112099,7 @@ window.allHeroes =
         "passives": [],
         "family": "ninja",
         "costume_id": 0,
-        "originalIndex": 1597,
+        "originalIndex": 1599,
         "lb1": {
             "attack": 885,
             "defense": 759,
@@ -112023,7 +112176,7 @@ window.allHeroes =
         ],
         "family": "hotm2021",
         "costume_id": 0,
-        "originalIndex": 1598,
+        "originalIndex": 1600,
         "lb1": {
             "attack": 839,
             "defense": 783,
@@ -112104,7 +112257,7 @@ window.allHeroes =
         ],
         "family": "mahayoddha",
         "costume_id": 0,
-        "originalIndex": 1599,
+        "originalIndex": 1601,
         "lb1": {
             "attack": 1367,
             "defense": 1427,
@@ -112190,7 +112343,7 @@ window.allHeroes =
         ],
         "family": "magic",
         "costume_id": 0,
-        "originalIndex": 1600,
+        "originalIndex": 1602,
         "lb1": {
             "attack": 1012,
             "defense": 1018,
@@ -112232,7 +112385,7 @@ window.allHeroes =
         "color": "Yellow",
         "class": "Wizard",
         "speed": "Magic",
-        "skill": "Crust of Divinity",
+        "skill": "Pawns of Divinity",
         "types": [
             "HoT All",
             "Attack Buff All",
@@ -112286,7 +112439,7 @@ window.allHeroes =
         ],
         "family": "magic",
         "costume_id": 1,
-        "originalIndex": 1601,
+        "originalIndex": 1603,
         "lb1": {
             "attack": 1012,
             "defense": 1025,
@@ -112358,7 +112511,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 0,
-        "originalIndex": 1602,
+        "originalIndex": 1604,
         "lb1": {
             "attack": 770,
             "defense": 748,
@@ -112396,7 +112549,7 @@ window.allHeroes =
         "color": "Yellow",
         "class": "Sorcerer",
         "speed": "Slow",
-        "skill": "Omnicure",
+        "skill": "Omniheal",
         "types": [
             "Healer",
             "Defense Debuff",
@@ -112426,7 +112579,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 1,
-        "originalIndex": 1603,
+        "originalIndex": 1605,
         "lb1": {
             "attack": 761,
             "defense": 754,
@@ -112464,7 +112617,7 @@ window.allHeroes =
         "color": "Yellow",
         "class": "Fighter",
         "speed": "Slow",
-        "skill": "Omnimend",
+        "skill": "Omniheal",
         "types": [
             "Healer",
             "Attack Debuff",
@@ -112494,7 +112647,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 2,
-        "originalIndex": 1604,
+        "originalIndex": 1606,
         "lb1": {
             "attack": 750,
             "defense": 757,
@@ -112532,7 +112685,7 @@ window.allHeroes =
         "color": "Yellow",
         "class": "Cleric",
         "speed": "Slow",
-        "skill": "Toon Heal",
+        "skill": "Omniheal",
         "types": [
             "Healer",
             "Defense buff",
@@ -112566,7 +112719,7 @@ window.allHeroes =
         ],
         "family": "classic",
         "costume_id": 3,
-        "originalIndex": 1605,
+        "originalIndex": 1607,
         "lb1": {
             "attack": 765,
             "defense": 772,
@@ -112604,7 +112757,7 @@ window.allHeroes =
         "color": "Yellow",
         "class": "Cleric",
         "speed": "Slow",
-        "skill": "Glass Heal",
+        "skill": "Omniheal",
         "types": [
             "Healer All",
             "Defense Buff All",
@@ -112641,7 +112794,7 @@ window.allHeroes =
         ],
         "family": "classic",
         "costume_id": 4,
-        "originalIndex": 1606,
+        "originalIndex": 1608,
         "lb1": {
             "attack": 763,
             "defense": 774,
@@ -112711,7 +112864,7 @@ window.allHeroes =
         ],
         "family": "halloween",
         "costume_id": 0,
-        "originalIndex": 1607,
+        "originalIndex": 1609,
         "lb1": {
             "attack": 1276,
             "defense": 1207,
@@ -112792,7 +112945,7 @@ window.allHeroes =
         ],
         "family": "beowulf",
         "costume_id": 0,
-        "originalIndex": 1608,
+        "originalIndex": 1610,
         "lb1": {
             "attack": 1198,
             "defense": 1332,
@@ -112874,7 +113027,7 @@ window.allHeroes =
         ],
         "family": "beowulf",
         "costume_id": 0,
-        "originalIndex": 1609,
+        "originalIndex": 1611,
         "lb1": {
             "attack": 1391,
             "defense": 1414,
@@ -112940,7 +113093,7 @@ window.allHeroes =
         "passives": [],
         "family": "wonderland",
         "costume_id": 0,
-        "originalIndex": 1610,
+        "originalIndex": 1612,
         "lb1": {
             "attack": 788,
             "defense": 808,
@@ -112973,7 +113126,7 @@ window.allHeroes =
         "color": "Yellow",
         "class": "Wizard",
         "speed": "Fast",
-        "skill": "Cosmic Clock",
+        "skill": "Rabbit's Watch",
         "types": [
             "Hit 3",
             "Defense Debuff"
@@ -113004,7 +113157,7 @@ window.allHeroes =
         ],
         "family": "wonderland",
         "costume_id": 1,
-        "originalIndex": 1611,
+        "originalIndex": 1613,
         "lb1": {
             "attack": 799,
             "defense": 799,
@@ -113084,7 +113237,7 @@ window.allHeroes =
         ],
         "family": "magic",
         "costume_id": 0,
-        "originalIndex": 1612,
+        "originalIndex": 1614,
         "lb1": {
             "attack": 896,
             "defense": 970,
@@ -113166,7 +113319,7 @@ window.allHeroes =
         ],
         "family": "bear",
         "costume_id": 0,
-        "originalIndex": 1613,
+        "originalIndex": 1615,
         "lb1": {
             "attack": 1036,
             "defense": 1132,
@@ -113235,7 +113388,7 @@ window.allHeroes =
         "passives": [],
         "family": "wolf",
         "costume_id": 0,
-        "originalIndex": 1614,
+        "originalIndex": 1616,
         "lb1": {
             "attack": 828,
             "defense": 845,
@@ -113270,7 +113423,7 @@ window.allHeroes =
         "color": "Yellow",
         "class": "Paladin",
         "speed": "Average",
-        "skill": "Gold Gauntlet",
+        "skill": "Commander's Gauntlet",
         "types": [
             "Hit all",
             "Damage reduction 1",
@@ -113307,7 +113460,7 @@ window.allHeroes =
         ],
         "family": "wolf",
         "costume_id": 1,
-        "originalIndex": 1615,
+        "originalIndex": 1617,
         "lb1": {
             "attack": 825,
             "defense": 850,
@@ -113387,7 +113540,7 @@ window.allHeroes =
         ],
         "family": "outlaw",
         "costume_id": 0,
-        "originalIndex": 1616,
+        "originalIndex": 1618,
         "lb1": {
             "attack": 1354,
             "defense": 1418,
@@ -113456,7 +113609,7 @@ window.allHeroes =
         "passives": [],
         "family": "cultist",
         "costume_id": 0,
-        "originalIndex": 1617,
+        "originalIndex": 1619,
         "lb1": {
             "attack": 1305,
             "defense": 1256,
@@ -113533,7 +113686,7 @@ window.allHeroes =
         ],
         "family": "super_elemental",
         "costume_id": 0,
-        "originalIndex": 1618,
+        "originalIndex": 1620,
         "lb1": {
             "attack": 1025,
             "defense": 956,
@@ -113603,7 +113756,7 @@ window.allHeroes =
         ],
         "family": "super_elemental",
         "costume_id": 0,
-        "originalIndex": 1619,
+        "originalIndex": 1621,
         "lb1": {
             "attack": 879,
             "defense": 947,
@@ -113637,7 +113790,7 @@ window.allHeroes =
         "color": "Yellow",
         "class": "Fighter",
         "speed": "Very Slow",
-        "skill": "Cosmic Devotion",
+        "skill": "Unwavering Devotion",
         "types": [
             "Hit All",
             "Reviver"
@@ -113676,7 +113829,7 @@ window.allHeroes =
         ],
         "family": "super_elemental",
         "costume_id": 1,
-        "originalIndex": 1620,
+        "originalIndex": 1622,
         "lb1": {
             "attack": 888,
             "defense": 941,
@@ -113757,7 +113910,7 @@ window.allHeroes =
         ],
         "family": "magic_carpet",
         "costume_id": 0,
-        "originalIndex": 1621,
+        "originalIndex": 1623,
         "lb1": {
             "attack": 1398,
             "defense": 1258,
@@ -113826,7 +113979,7 @@ window.allHeroes =
         ],
         "family": "abyss",
         "costume_id": 0,
-        "originalIndex": 1622,
+        "originalIndex": 1624,
         "lb1": {
             "attack": 863,
             "defense": 814,
@@ -113865,7 +114018,7 @@ window.allHeroes =
         "color": "Yellow",
         "class": "Fighter",
         "speed": "Fast",
-        "skill": "Sharp Stingers",
+        "skill": "Swift Stingers",
         "types": [
             "Hit 1",
             "Bounce",
@@ -113902,7 +114055,7 @@ window.allHeroes =
         ],
         "family": "abyss",
         "costume_id": 1,
-        "originalIndex": 1623,
+        "originalIndex": 1625,
         "lb1": {
             "attack": 868,
             "defense": 803,
@@ -113976,7 +114129,7 @@ window.allHeroes =
         ],
         "family": "beachparty",
         "costume_id": 0,
-        "originalIndex": 1624,
+        "originalIndex": 1626,
         "lb1": {
             "attack": 1070,
             "defense": 1078,
@@ -114040,7 +114193,7 @@ window.allHeroes =
         "passives": [],
         "family": "kingdom",
         "costume_id": 0,
-        "originalIndex": 1625,
+        "originalIndex": 1627,
         "lb1": {
             "attack": 923,
             "defense": 816,
@@ -114073,7 +114226,7 @@ window.allHeroes =
         "color": "Yellow",
         "class": "Barbarian",
         "speed": "Fast",
-        "skill": "Bear Blade",
+        "skill": "Viper Blade",
         "types": [
             "Hit 1",
             "DoT 1",
@@ -114110,7 +114263,7 @@ window.allHeroes =
         ],
         "family": "kingdom",
         "costume_id": 1,
-        "originalIndex": 1626,
+        "originalIndex": 1628,
         "lb1": {
             "attack": 954,
             "defense": 794,
@@ -114179,7 +114332,7 @@ window.allHeroes =
         "passives": [],
         "family": "kingdom",
         "costume_id": 0,
-        "originalIndex": 1627,
+        "originalIndex": 1629,
         "lb1": {
             "attack": 765,
             "defense": 947,
@@ -114213,7 +114366,7 @@ window.allHeroes =
         "color": "Yellow",
         "class": "Monk",
         "speed": "Slow",
-        "skill": "Triumph of Strategy",
+        "skill": "Martial Masterstroke",
         "types": [
             "Counterattack Minion Summoner All",
             "Fiend Summoner All"
@@ -114251,7 +114404,7 @@ window.allHeroes =
         ],
         "family": "kingdom",
         "costume_id": 1,
-        "originalIndex": 1628,
+        "originalIndex": 1630,
         "lb1": {
             "attack": 759,
             "defense": 950,
@@ -114321,7 +114474,7 @@ window.allHeroes =
         ],
         "family": "hotm2024",
         "costume_id": 0,
-        "originalIndex": 1629,
+        "originalIndex": 1631,
         "lb1": {
             "attack": 939,
             "defense": 1076,
@@ -114375,7 +114528,7 @@ window.allHeroes =
         "passives": [],
         "family": "mimic",
         "costume_id": 0,
-        "originalIndex": 1630,
+        "originalIndex": 1632,
         "cn_skill_info": []
     },
     {
@@ -114401,7 +114554,7 @@ window.allHeroes =
         "passives": [],
         "family": "mimic",
         "costume_id": 0,
-        "originalIndex": 1631,
+        "originalIndex": 1633,
         "cn_skill_info": []
     },
     {
@@ -114427,7 +114580,7 @@ window.allHeroes =
         "passives": [],
         "family": "super_elemental",
         "costume_id": 1,
-        "originalIndex": 1632,
+        "originalIndex": 1634,
         "cn_skill_info": []
     },
     {
@@ -114453,7 +114606,7 @@ window.allHeroes =
         "passives": [],
         "family": "musketeer",
         "costume_id": 1,
-        "originalIndex": 1633,
+        "originalIndex": 1635,
         "cn_skill_info": []
     },
     {
@@ -114479,7 +114632,7 @@ window.allHeroes =
         "passives": [],
         "family": "plains_hunter",
         "costume_id": 0,
-        "originalIndex": 1634,
+        "originalIndex": 1636,
         "cn_skill_info": []
     },
     {
@@ -114505,7 +114658,7 @@ window.allHeroes =
         "passives": [],
         "family": "beowulf",
         "costume_id": 0,
-        "originalIndex": 1635,
+        "originalIndex": 1637,
         "cn_skill_info": []
     },
     {
@@ -114531,7 +114684,7 @@ window.allHeroes =
         "passives": [],
         "family": "outlaw",
         "costume_id": 0,
-        "originalIndex": 1636,
+        "originalIndex": 1638,
         "cn_skill_info": []
     },
     {
@@ -114557,7 +114710,7 @@ window.allHeroes =
         "passives": [],
         "family": "slime",
         "costume_id": 0,
-        "originalIndex": 1637,
+        "originalIndex": 1639,
         "cn_skill_info": []
     },
     {
@@ -114583,7 +114736,7 @@ window.allHeroes =
         "passives": [],
         "family": "beauty_beast",
         "costume_id": 0,
-        "originalIndex": 1638,
+        "originalIndex": 1640,
         "cn_skill_info": []
     },
     {
@@ -114609,7 +114762,7 @@ window.allHeroes =
         "passives": [],
         "family": "magic_carpet",
         "costume_id": 0,
-        "originalIndex": 1639,
+        "originalIndex": 1641,
         "cn_skill_info": []
     },
     {
@@ -114635,7 +114788,7 @@ window.allHeroes =
         "passives": [],
         "family": "mahayoddha",
         "costume_id": 0,
-        "originalIndex": 1640,
+        "originalIndex": 1642,
         "cn_skill_info": []
     },
     {
@@ -114661,7 +114814,7 @@ window.allHeroes =
         "passives": [],
         "family": "astral_demons",
         "costume_id": 0,
-        "originalIndex": 1641,
+        "originalIndex": 1643,
         "cn_skill_info": []
     },
     {
@@ -114687,7 +114840,7 @@ window.allHeroes =
         "passives": [],
         "family": "titan_hunter",
         "costume_id": 0,
-        "originalIndex": 1642,
+        "originalIndex": 1644,
         "cn_skill_info": []
     },
     {
@@ -114713,33 +114866,7 @@ window.allHeroes =
         "passives": [],
         "family": "institute",
         "costume_id": 0,
-        "originalIndex": 1643,
-        "cn_skill_info": []
-    },
-    {
-        "name": "Jyoti",
-        "fancy_name": "Chari Dancer",
-        "AetherPower": "",
-        "color": "Red",
-        "class": "Paladin",
-        "speed": "Slow",
-        "skill": "",
-        "types": [],
-        "skill_types": [],
-        "source": "",
-        "Release date": "",
-        "specialId": "",
-        "heroId": "mahayoddha_jyoti",
-        "star": 5,
-        "power": null,
-        "attack": null,
-        "defense": null,
-        "health": null,
-        "effects": [],
-        "passives": [],
-        "family": "mahayoddha",
-        "costume_id": 0,
-        "originalIndex": 1644,
+        "originalIndex": 1645,
         "cn_skill_info": []
     },
     {
@@ -114765,7 +114892,7 @@ window.allHeroes =
         "passives": [],
         "family": "cupid",
         "costume_id": 1,
-        "originalIndex": 1645,
+        "originalIndex": 1646,
         "cn_skill_info": []
     },
     {
@@ -114791,7 +114918,7 @@ window.allHeroes =
         "passives": [],
         "family": "cupid",
         "costume_id": 1,
-        "originalIndex": 1646,
+        "originalIndex": 1647,
         "cn_skill_info": []
     },
     {
@@ -114817,7 +114944,7 @@ window.allHeroes =
         "passives": [],
         "family": "cupid",
         "costume_id": 1,
-        "originalIndex": 1647,
+        "originalIndex": 1648,
         "cn_skill_info": []
     },
     {
@@ -114843,7 +114970,7 @@ window.allHeroes =
         "passives": [],
         "family": "cupid",
         "costume_id": 0,
-        "originalIndex": 1648,
+        "originalIndex": 1649,
         "cn_skill_info": []
     },
     {
@@ -114869,7 +114996,7 @@ window.allHeroes =
         "passives": [],
         "family": "cupid",
         "costume_id": 0,
-        "originalIndex": 1649,
+        "originalIndex": 1650,
         "cn_skill_info": []
     },
     {
@@ -114895,7 +115022,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 5,
-        "originalIndex": 1650,
+        "originalIndex": 1651,
         "cn_skill_info": []
     },
     {
@@ -114921,7 +115048,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 5,
-        "originalIndex": 1651,
+        "originalIndex": 1652,
         "cn_skill_info": []
     },
     {
@@ -114947,7 +115074,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 5,
-        "originalIndex": 1652,
+        "originalIndex": 1653,
         "cn_skill_info": []
     },
     {
@@ -114973,7 +115100,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 5,
-        "originalIndex": 1653,
+        "originalIndex": 1654,
         "cn_skill_info": []
     },
     {
@@ -114999,7 +115126,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 5,
-        "originalIndex": 1654,
+        "originalIndex": 1655,
         "cn_skill_info": []
     },
     {
@@ -115025,7 +115152,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 5,
-        "originalIndex": 1655,
+        "originalIndex": 1656,
         "cn_skill_info": []
     },
     {
@@ -115051,7 +115178,7 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 4,
-        "originalIndex": 1656,
+        "originalIndex": 1657,
         "cn_skill_info": []
     },
     {
@@ -115077,32 +115204,6 @@ window.allHeroes =
         "passives": [],
         "family": "classic",
         "costume_id": 4,
-        "originalIndex": 1657,
-        "cn_skill_info": []
-    },
-    {
-        "name": "Andre de Clermont",
-        "fancy_name": "The Betrayed Templar",
-        "AetherPower": "",
-        "color": "Red",
-        "class": "Paladin",
-        "speed": "Slow",
-        "skill": "",
-        "types": [],
-        "skill_types": [],
-        "source": "",
-        "Release date": "",
-        "specialId": "",
-        "heroId": "fire_god_andre",
-        "star": 5,
-        "power": null,
-        "attack": null,
-        "defense": null,
-        "health": null,
-        "effects": [],
-        "passives": [],
-        "family": "hotm2026",
-        "costume_id": 0,
         "originalIndex": 1658,
         "cn_skill_info": []
     }

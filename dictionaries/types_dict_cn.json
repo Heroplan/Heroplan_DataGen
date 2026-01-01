@@ -982,5 +982,7 @@
   "Attack Buff 4": "4个单位攻击增益",
   "Critical chance Buff 4": "4个单位暴击几率增益",
   "Heal on damage dealt Buff 4": "4个单位伤害治疗增益",
-  "Dispels 2 buffs All": "全体移除2个增益"
+  "Dispels 2 buffs All": "全体移除2个增益",
+  "Ailments Immunity Buff All": "全体状态异常免疫增益",
+  "Cover Random 1": "掩护1个单位"
 }

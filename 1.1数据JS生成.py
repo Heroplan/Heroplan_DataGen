@@ -94,8 +94,6 @@ typo_corrections = {
     "Strike of Thousand Howls": "Strike of a Thousand Howls", "Judgement of Sun": "Judgment of Sun",
     "Ruler of the Seas": "Ruler of Seas","Essense of Queen Nitocris":"Essence of Queen Nitocris","Forged fom Gold":"Forged from Gold","Mending Stiches":"Mending Stitches"
 }
-tolerant_typo_corrections = {normalize_for_generic_lookup(k): v for k, v in typo_corrections.items()}
-
 # --- 字典键修正 (Key Correction) ---
 key_corrections = {'Kalø': 'Kalo'}
 
@@ -129,12 +127,14 @@ appearance_map_zh = {"costume": "C1", "costume1": "C1", "costume2": "C2", "costu
 appearance_map_en = {"costume": "C1", "costume1": "C1", "costume2": "C2", "costume3": "C3", "toon": "Toon", "glass": "Glass", "stylish": "Stylish"}
 
 SKILL_CATEGORY_ORDER = ["基础技能", "特殊效果", "增益效果", "负面效果"]
+# --- 官方技能名（按语言，TXT）---
+SKILL_NAME_TXT_DIR = r'./dict_gen/官方语言字典生成/generated_txt'
+skill_name_by_lang = {}
 
 SIMPLE_DICT_CONFIG = {
     'hero_names': 'heroes_name_dict', 
     'types': 'types_dict', 
     'skill_types': 'skill_types_dict',
-    'skillname': 'skill_name_dict', 
     'heroes_name_fancy': 'heroes_name_fancy_dict',
     'aether_powers': 'aether_power_dict',
     'skill_types_cn': 'skill_types_cn_dict',
@@ -232,6 +232,57 @@ def strip_ignorable_suffix(name):
     if len(parts) > 1 and parts[-1].lower() in IGNORABLE_SUFFIXES:
         return ' '.join(parts[:-1])
     return name
+def load_skill_name_txt_dict():
+    """
+    加载官方技能名：
+    skill_name_cn.txt / skill_name_tc.txt / skill_name_en.txt
+    """
+    global skill_name_by_lang
+    skill_name_by_lang = {}
+
+    for lang in LANGUAGES:
+        skill_name_by_lang[lang] = {}
+        path = os.path.join(SKILL_NAME_TXT_DIR, f"skill_name_{lang}.txt")
+
+        if not os.path.exists(path):
+            logging.warning(f"[skill] 未找到技能字典: {path}")
+            continue
+
+        with open(path, "r", encoding="utf-8") as f:
+            for line in f:
+                line = line.strip()
+                if not line or "," not in line:
+                    continue
+
+                # "specials.name.xxx","Skill Name"
+                key, val = line.split(",", 1)
+                key = key.strip().strip('"')
+                val = val.strip().strip('"')
+
+                skill_name_by_lang[lang][key] = val
+
+        logging.info(
+            f"[skill] 已加载 {lang} 技能 {len(skill_name_by_lang[lang])} 条"
+        )
+        
+def get_skill_name(special_id, lang):
+    """
+    唯一技能获取方式：
+    specialId + lang → 官方技能名
+    """
+    if not special_id:
+        return ""
+
+    key = f"specials.name.{special_id}"
+    skill = skill_name_by_lang.get(lang, {}).get(key)
+
+    if not skill:
+        logging.getLogger("failures").warning(
+            f"[skill][{lang}] 缺失技能名: {key}"
+        )
+        return ""
+
+    return skill
 
 def load_all_dictionaries(dictionary_base_dir):
     global hero_map_processed, hero_keys_sorted
@@ -333,11 +384,6 @@ def translate_single_value(value, dict_key):
         logging.getLogger('failures').warning(f"翻译缺失: 字典='{dict_key}', 值='{value}' (规范化为: '{normalized_value}')")
     return translations_out
 
-def correct_and_translate_skill(skill_name_raw):
-    if not skill_name_raw: return {lang: skill_name_raw for lang in LANGUAGES}
-    normalized_for_typo_lookup = normalize_for_generic_lookup(skill_name_raw)
-    corrected_skill_name = tolerant_typo_corrections.get(normalized_for_typo_lookup, skill_name_raw)
-    return translate_single_value(corrected_skill_name, 'skillname')
 
 def translate_list(items_list, dict_key):
     if not isinstance(items_list, list): return {lang: items_list for lang in LANGUAGES}
@@ -532,7 +578,6 @@ def generate_js_data_with_translation(heroes_base_dir, output_path_cn, output_pa
             class_trans = translate_single_value(extra.get('class'), 'base_values')
             speed = 'slayer' if hero_family == 'slayer' else extra.get('speed')
             speed_trans = translate_single_value(speed, 'base_values')
-            skill_trans = correct_and_translate_skill(hero_data.get('skill'))
             source_trans = translate_single_value(source_to_translate, 'source_values')
             types_trans = translate_list(flatten_list(hero_data.get('types', [])), 'types')
             skill_types_trans = translate_list(extra.get('skill_types', []), 'skill_types')
@@ -616,7 +661,7 @@ def generate_js_data_with_translation(heroes_base_dir, output_path_cn, output_pa
                 hero_entry = {
                     'name': name_trans[lang], 'fancy_name': fancy_name_trans[lang], 'AetherPower': aether_power_trans[lang],
                     'color': color_trans[lang], 'class': class_trans[lang], 'speed': speed_trans[lang],
-                    'skill': skill_trans[lang], 'types': types_trans[lang], 'skill_types': skill_types_trans[lang],
+                    'skill': get_skill_name(extra.get('specialId'),lang), 'types': types_trans[lang], 'skill_types': skill_types_trans[lang],
                     'source': source_trans[lang], **common_data, **lb_data
                 }
                 if cn_skill_info_for_hero:
@@ -663,7 +708,6 @@ def generate_js_data_with_translation(heroes_base_dir, output_path_cn, output_pa
                     fancy_name_trans_c = translate_single_value(extra_c.get('fancy name', ''), 'heroes_name_fancy')
                     aether_power_trans_c = translate_single_value(extra_c.get('AetherPower', ''), 'aether_powers')
                     class_trans_c = translate_single_value(extra_c.get('class'), 'base_values')
-                    skill_trans_c = correct_and_translate_skill(costume_data.get('skill'))
                     types_trans_c = translate_list(flatten_list(costume_data.get('types', [])), 'types')
                     skill_types_trans_c = translate_list(extra_c.get('skill_types', []), 'skill_types')
                     source_trans_c = source_trans
@@ -750,7 +794,7 @@ def generate_js_data_with_translation(heroes_base_dir, output_path_cn, output_pa
                         hero_entry_c = {
                             'name': name_trans_c[lang], 'fancy_name': fancy_name_trans_c[lang], 'AetherPower': aether_power_trans_c[lang],
                             'color': color_trans[lang], 'class': class_trans_c[lang], 'speed': speed_trans[lang],
-                            'skill': skill_trans_c[lang], 'types': types_trans_c[lang], 'skill_types': skill_types_trans_c[lang],
+                            'skill': get_skill_name(extra_c.get('specialId'),lang), 'types': types_trans_c[lang], 'skill_types': skill_types_trans_c[lang],
                             'source': source_trans_c[lang], **common_data_c, **lb_data_c
                         }
                         if cn_skill_info_for_costume:
@@ -796,7 +840,6 @@ def generate_js_data_with_translation(heroes_base_dir, output_path_cn, output_pa
             color_trans = translate_single_value(hero_data.get('color', ''), 'base_values')
             class_trans = translate_single_value(extra.get('class', ''), 'base_values')
             speed_trans = translate_single_value(extra.get('speed', ''), 'base_values')
-            skill_trans = correct_and_translate_skill(hero_data.get('skill', ''))
             source_trans = translate_single_value(hero_data.get('source', ''), 'source_values')
             types_trans = translate_list(hero_data.get('types', []), 'types')
             skill_types_trans = translate_list(hero_data.get('skill_types', []), 'skill_types')
@@ -848,7 +891,7 @@ def generate_js_data_with_translation(heroes_base_dir, output_path_cn, output_pa
                 hero_entry = {
                     'name': name_trans[lang], 'fancy_name': fancy_name_trans[lang], 'AetherPower': aether_power_trans[lang],
                     'color': color_trans[lang], 'class': class_trans[lang], 'speed': speed_trans[lang],
-                    'skill': skill_trans[lang], 'types': types_trans[lang], 'skill_types': skill_types_trans[lang],
+                    'skill': get_skill_name(hero_data.get('specialId'),lang), 'types': types_trans[lang], 'skill_types': skill_types_trans[lang],
                     'source': source_trans[lang], **common_data, **lb_data
                 }
                 if cn_skill_info_for_extra_hero:
@@ -1015,6 +1058,7 @@ if __name__ == '__main__':
     load_heroes_data_extra()
     load_heroes_data_extra_cn() 
     load_all_dictionaries(DICTIONARY_DIR) 
+    load_skill_name_txt_dict()
 
     if os.path.isdir(HEROES_DATA_DIR):
         missing_extra, missing_cn_info = generate_js_data_with_translation(
