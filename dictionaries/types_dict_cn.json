@@ -976,5 +976,11 @@
   "Block Status Effects Cast All": "阻挡状态效果施放 (全体)",
   "Block Status Effects Cast 1": "阻挡状态效果施放 (单体)",
   "Block Status Effects Cast on Hit": "命中时阻挡状态效果施放",
-  "Debuff Duration Reset All": "全体减益持续时间重置"
+  "Debuff Duration Reset All": "全体减益持续时间重置",
+  "Insanity on hit": "命中时疯狂",
+  "Damage Increase Debuff Stack on hit": "命中时叠加伤害增加减益",
+  "Attack Buff 4": "4个单位攻击增益",
+  "Critical chance Buff 4": "4个单位暴击几率增益",
+  "Heal on damage dealt Buff 4": "4个单位伤害治疗增益",
+  "Dispels 2 buffs All": "全体移除2个增益"
 }

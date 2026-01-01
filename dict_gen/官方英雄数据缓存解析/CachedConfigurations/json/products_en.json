@@ -21660,7 +21660,6 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.triple_blacksummon2021_1",
         "dollarValue": 3,
-        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -21674,7 +21673,6 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.triple_blacksummon2021_2",
         "dollarValue": 20,
-        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -25518,7 +25516,6 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.blackfriday_fri1",
         "dollarValue": 5,
-        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -25547,7 +25544,6 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.blackfriday_fri2",
         "dollarValue": 30,
-        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -25586,7 +25582,6 @@
         "productType": "Offer",
         "id": "com.smallgiantgames.empires.blackfriday_fri3",
         "dollarValue": 100,
-        "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [
           {
@@ -36025,7 +36020,6 @@
         "realMoneyProductActive": true,
         "realMoneyProductInStore": true,
         "contents": [],
-        "allianceGiftCustomContentId": "dynamic4_alliancegift",
         "dynamicOfferProduct": true
       },
       {
@@ -58224,5 +58218,5 @@
       }
     ]
   },
-  "productsConfigId": 4086836718
+  "productsConfigId": 27314107
 }

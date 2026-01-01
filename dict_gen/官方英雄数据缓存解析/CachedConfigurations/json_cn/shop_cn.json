@@ -23707,7 +23707,6 @@
         "offerCategory": "Dynamic",
         "priorityInShop": 1,
         "zyngaStoreEnabled": true,
-        "dynamicType": "AllianceGift",
         "titleKey": "shop.offers.title.dynamic.forgotten_treasure"
       },
       {
@@ -26079,16 +26078,24 @@
         "id": "dynamic_offer_6_yellow_sif",
         "products": [
           {
-            "id": "com.smallgiantgames.empires.dynamic_10d",
+            "id": "com.smallgiantgames.empires.dynamic_12b",
             "purchaseLimit": 3
           },
           {
-            "id": "com.smallgiantgames.empires.dynamic_20b",
+            "id": "com.smallgiantgames.empires.dynamic_10c",
             "purchaseLimit": 2
           },
           {
-            "id": "com.smallgiantgames.empires.dynamic_29",
-            "purchaseLimit": 2
+            "id": "com.smallgiantgames.empires.dynamic_5d",
+            "purchaseLimit": 1
+          },
+          {
+            "id": "com.smallgiantgames.empires.dynamic_5c",
+            "purchaseLimit": 1
+          },
+          {
+            "id": "com.smallgiantgames.empires.dynamic_12c",
+            "purchaseLimit": 1
           }
         ],
         "requiresQuestsUnlocked": true,
@@ -56816,6 +56823,21 @@
             ]
           },
           {
+            "activationTime": "2025-12-28 11:00:00",
+            "contents": [
+              {
+                "type": "Item",
+                "id": "lottery_item_ascension",
+                "amount": 20
+              },
+              {
+                "type": "Item",
+                "id": "hero_tome_of_tactics",
+                "amount": 1
+              }
+            ]
+          },
+          {
             "activationTime": "2025-12-31 07:00:00",
             "contents": [
               {
@@ -57617,6 +57639,22 @@
                 "type": "Item",
                 "id": "lottery_elite_hero",
                 "amount": 5
+              }
+            ]
+          },
+          {
+            "activationTime": "2025-12-28 11:00:00",
+            "contents": [
+              {
+                "type": "Item",
+                "id": "lottery_legendary_troop",
+                "amount": 400,
+                "zyngaStoreExtraAmount": 100
+              },
+              {
+                "type": "Troop",
+                "id": "rainbow_epic_trainer",
+                "amount": 2
               }
             ]
           },
@@ -61985,6 +62023,21 @@
             ]
           },
           {
+            "activationTime": "2025-12-28 11:00:00",
+            "contents": [
+              {
+                "type": "Item",
+                "id": "lottery_item_ascension",
+                "amount": 20
+              },
+              {
+                "type": "Item",
+                "id": "hero_damascus_blade",
+                "amount": 1
+              }
+            ]
+          },
+          {
             "activationTime": "2025-12-31 07:00:00",
             "contents": [
               {
@@ -63120,6 +63173,42 @@
                 "type": "Item",
                 "id": "lottery_elite_hero",
                 "amount": 5
+              }
+            ]
+          },
+          {
+            "activationTime": "2025-12-28 11:00:00",
+            "contents": [
+              {
+                "type": "Item",
+                "id": "lottery_shadow_coin",
+                "amount": 200,
+                "zyngaStoreExtraAmount": 100
+              },
+              {
+                "type": "Item",
+                "id": "lottery_tower_coin",
+                "amount": 200
+              },
+              {
+                "type": "Item",
+                "id": "lottery_ascension_coin",
+                "amount": 200
+              },
+              {
+                "type": "Item",
+                "id": "lottery_legendary_troop",
+                "amount": 200
+              },
+              {
+                "type": "Item",
+                "id": "lottery_untold_tales_coin",
+                "amount": 200
+              },
+              {
+                "type": "Item",
+                "id": "lottery_elite_hero",
+                "amount": 2
               }
             ]
           },
@@ -64437,6 +64526,22 @@
                 "type": "Item",
                 "id": "lottery_astralelves_coin",
                 "amount": 200
+              }
+            ]
+          },
+          {
+            "activationTime": "2025-12-28 11:00:00",
+            "contents": [
+              {
+                "type": "Item",
+                "id": "lottery_item_ascension",
+                "amount": 50,
+                "zyngaStoreExtraAmount": 10
+              },
+              {
+                "type": "Item",
+                "id": "hero_limitbreak_alpha",
+                "amount": 1
               }
             ]
           }
@@ -69956,6 +70061,20 @@
         "scheduledManually": true,
         "startTime": "2025-12-28 07:00:00",
         "endTime": "2026-01-01 07:00:00"
+      },
+      {
+        "id": "dynamic_offer_6_yellow_sif",
+        "slot": "ShopOnly",
+        "scheduledManually": true,
+        "startTime": "2025-12-28 11:00:00",
+        "endTime": "2025-12-29 06:30:00"
+      },
+      {
+        "id": "com.smallgiantgames.empires.selectable_ascension_4",
+        "slot": "ShopOnly",
+        "scheduledManually": true,
+        "startTime": "2025-12-28 11:00:00",
+        "endTime": "2025-12-29 07:00:00"
       },
       {
         "id": "dynamic_offer_10_red_alucard",
@@ -93169,5 +93288,5 @@
       }
     ]
   },
-  "shopConfigId": 642331969
+  "shopConfigId": 3196471855
 }

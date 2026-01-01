@@ -68,17 +68,6 @@
         "Lottery_Only": 1
     },
     {
-        "name": "Catalina",
-        "fancy_name": "The Crown of the Jungle",
-        "color": "Red",
-        "Release date": "",
-        "star": 5,
-        "family": "wild_cat",
-        "costume_id": 0,
-        "heroId": "wild_cat_catalina",
-        "Lottery_Only": 1
-    },
-    {
         "name": "Hu Sanniang",
         "fancy_name": "Bright Star of Water Margin",
         "color": "Purple",
@@ -164,17 +153,6 @@
         "family": "institute",
         "costume_id": 0,
         "heroId": "institute_wilcox",
-        "Lottery_Only": 1
-    },
-    {
-        "name": "Inanis",
-        "fancy_name": "The Untethered",
-        "color": "Yellow",
-        "Release date": "",
-        "star": 5,
-        "family": "forsaken",
-        "costume_id": 0,
-        "heroId": "forsaken_inanis",
         "Lottery_Only": 1
     },
     {
@@ -329,6 +307,17 @@
         "family": "classic",
         "costume_id": 4,
         "heroId": "nomad_mage_costume_stylish",
+        "Lottery_Only": 1
+    },
+    {
+        "name": "Andre de Clermont",
+        "fancy_name": "The Betrayed Templar",
+        "color": "Red",
+        "Release date": "",
+        "star": 5,
+        "family": "hotm2026",
+        "costume_id": 0,
+        "heroId": "fire_god_andre",
         "Lottery_Only": 1
     }
 ]
